@@ -7,6 +7,63 @@ Public open dataset (data + match CSVs) for table-tennis ELO ratings, maintained
 [PingPong ELO](https://github.com/goesByhc/pingpong-elo) site. This repo is maintained independently as the
 data submodule of that site; application code, scrapers, the Elo engine, and deployment config stay private.
 
+## 背景 / Background
+
+### 官方积分榜不等于真实实力榜 / The official ranking is not a strength ranking
+
+国际乒联（ITTF）和 WTT 目前使用的世界排名本质上是**巡回赛积分榜**：球员通过参赛、晋级和成绩累积官方积分，
+积分在一定周期后失效。它适合管理巡回赛资格、种子排位和商业运营，但不是严格的"真实实力排名"。
+
+The ITTF/WTT world ranking is essentially a **tour points table**: players accumulate official points by
+entering events, advancing, and earning results, and points expire after a period. It serves qualification,
+seeding, and commercial operations well—but it is not a strict measure of true playing strength.
+
+| 问题 / Problem | 说明 / Why |
+|---|---|
+| **不参赛就掉分** / Points expire | 积分有有效期，到期清零，不参赛 = 排名下滑 / Points reset on expiry; sitting out drops your rank |
+| **参赛频率影响大** / Entry volume matters | 频繁参赛可持续累积积分 / Frequent entries keep accumulating points |
+| **权重不透明且常变** / Weights are opaque & volatile | 同一赛事不同年份权重常调整，历史对比无意义 / Weights shift across years, breaking historical comparison |
+| **不直接衡量对手强度** / Opponent strength ignored | 积分主要反映"拿了多少分"，不是"赢了多强的人" / Points reflect how many points you earned, not whom you beat |
+
+### PingPong ELO 要解决什么 / What PingPong ELO does
+
+ELO 等级分系统（由 Arpad Elo 为国际象棋设计）适合用逐场胜负评估竞技实力：
+
+The Elo rating system (designed by Arpad Elo for chess) assesses competitive strength from match outcomes:
+
+- **每场比赛都在更新**：赢该赢的比赛涨分少，赢强敌涨分多 / Every match updates the rating; beating a strong player gains more
+- **不靠参赛频率堆分**：核心依据是胜负质量，而不是打了多少站 / Quality of results matters, not volume of entries
+- **不比赛不直接扣分**：真实实力不会因伤病/休赛而"过期清零" / Inactivity does not decay your true strength
+- **对手强度进入计算**：赢强敌的意义大于赢弱手，爆冷输球也会被真实反映 / Opponent strength enters the calculation; upsets are reflected honestly
+- **历史可比**：2021 年的 2800 分和 2025 年的 2800 分代表相同实力水平 / 2800 in 2021 equals 2800 in 2025
+
+### 已有方案的问题 / Existing solutions
+
+- **[Ratings Central](https://ratingscentral.com/)** 是唯一较完善的乒乓球 ELO 系统，但 ITTF/WTT 数据停在
+  **2022 年 12 月**，UI 老旧，全英文，不覆盖中国国内联赛。
+- 中文互联网上不存在任何乒乓球 ELO 排名系统。
+
+## 愿景 / Vision
+
+做一个**面向中国球迷的、实时更新的、可视化的乒乓球 ELO 排名网站**。
+
+An up-to-date, visualized table-tennis ELO ranking site built for Chinese fans.
+
+### 核心目标 / Core goals
+
+1. **真实实力排名**：基于 ELO 算法，弱化参赛频率和积分周期对排名的干扰 / True-strength ranking based on Elo, down-weighting entry volume and point cycles
+2. **数据全覆盖**：WTT 各级赛事 + 奥运会 + 世锦赛 + 乒超 + 全锦赛 + 全运会 + 欧洲联赛 / Full coverage: WTT tiers + Olympics + Worlds + Chinese leagues
+3. **可视化**：交互式排名曲线、头对头胜率预测、ELO 历史变迁 / Visualization: ranking curves, H2H predictions, ELO history
+4. **中英双语**：服务全球华人球迷 / Bilingual (Chinese / English)
+5. **开源透明**：算法公开、数据可查、接受勘误 / Open & transparent: public algorithm, auditable data, accepts corrections
+
+### 非目标（MVP 阶段不做）/ Non-goals (MVP)
+
+- 实时直播比分 / Live streaming scores
+- 用户系统 / 评论 / User accounts / comments
+- 移动 App / Mobile app
+- 博彩 / 赔率预测 / Betting / odds
+
 ## 目录结构 / Layout
 
 ```text
