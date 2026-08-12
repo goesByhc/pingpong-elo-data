@@ -1,159 +1,160 @@
-# PingPong ELO 数据集 / PingPong ELO Dataset
+# PingPong ELO 公开数据集
 
-乒乓球 ELO 排名的公开开放数据集（数据 + 比赛 CSV），由 [PingPong ELO](https://github.com/goesByhc/pingpong-elo) 站点维护发布。
-本仓库作为该站点的数据子模块（submodule）独立维护，应用代码、爬虫、ELO 引擎与部署配置保留在私有的主仓库中。
+这是一个面向乒乓球真实实力评估的开放数据集，整理了选手信息、赛事元数据和逐场比赛结果，用于支持基于 Elo 的乒乓球实力排名、历史走势分析和头对头比较。
 
-Public open dataset (data + match CSVs) for table-tennis ELO ratings, maintained and published by the
-[PingPong ELO](https://github.com/goesByhc/pingpong-elo) site. This repo is maintained independently as the
-data submodule of that site; application code, scrapers, the Elo engine, and deployment config stay private.
+主站：[https://pingpong-elo.com/](https://pingpong-elo.com/)
 
-## 背景 / Background
+English version: [README.en.md](README.en.md)
 
-### 官方积分榜不等于真实实力榜 / The official ranking is not a strength ranking
+## 数据集包含什么
 
-国际乒联（ITTF）和 WTT 目前使用的世界排名本质上是**巡回赛积分榜**：球员通过参赛、晋级和成绩累积官方积分，
-积分在一定周期后失效。它适合管理巡回赛资格、种子排位和商业运营，但不是严格的"真实实力排名"。
+本数据集关注“谁在什么时候、什么赛事、以什么比分战胜了谁”。这些逐场赛果会被用于计算选手 Elo 分、排名变化、交手记录和赛事影响。
 
-The ITTF/WTT world ranking is essentially a **tour points table**: players accumulate official points by
-entering events, advancing, and earning results, and points expire after a period. It serves qualification,
-seeding, and commercial operations well—but it is not a strict measure of true playing strength.
+目前主要包含：
 
-| 问题 / Problem | 说明 / Why |
+- **选手数据**：姓名、英文名、国家/地区、性别、种子 Elo、别名、头像等。
+- **赛事数据**：赛事名称、时间、地点、级别、别名和中英文展示名。
+- **比赛数据**：逐场胜负、局分、小分、轮次、项目、阶段和原始抓取姓名。
+- **评分参数**：赛事级别、K 系数、轮次权重、单打/双打/团体权重等。
+- **展示词典**：赛事中文名、地点、项目和赛事类型的规范化映射。
+
+## 为什么需要这个数据集
+
+ITTF/WTT 官方世界排名本质上是**巡回赛积分榜**：选手通过参赛、晋级和成绩累积积分，积分会随周期过期。它适合管理赛事资格、种子排位和巡回赛运营，但并不总是等同于真实实力。
+
+| 官方积分榜的局限 | 对真实实力判断的影响 |
 |---|---|
-| **不参赛就掉分** / Points expire | 积分有有效期，到期清零，不参赛 = 排名下滑 / Points reset on expiry; sitting out drops your rank |
-| **参赛频率影响大** / Entry volume matters | 频繁参赛可持续累积积分 / Frequent entries keep accumulating points |
-| **权重不透明且常变** / Weights are opaque & volatile | 同一赛事不同年份权重常调整，历史对比无意义 / Weights shift across years, breaking historical comparison |
-| **不直接衡量对手强度** / Opponent strength ignored | 积分主要反映"拿了多少分"，不是"赢了多强的人" / Points reflect how many points you earned, not whom you beat |
+| 积分会过期 | 伤病、休赛或少参赛会导致排名下滑，但实力未必下降 |
+| 参赛频率影响大 | 多参赛可以持续累积分数，少参赛选手容易被低估 |
+| 赛事权重会调整 | 不同年份的官方积分难以直接比较 |
+| 不直接衡量对手强度 | 赢弱手和赢强敌的“含金量”没有被充分区分 |
 
-### PingPong ELO 要解决什么 / What PingPong ELO does
+Elo 的价值在于把每一场比赛视为强弱关系的证据：赢强敌涨分更多，输给低分选手跌分更多；不靠参赛数量堆分，也不会因为不参赛直接清零。
 
-ELO 等级分系统（由 Arpad Elo 为国际象棋设计）适合用逐场胜负评估竞技实力：
+## 愿景
 
-The Elo rating system (designed by Arpad Elo for chess) assesses competitive strength from match outcomes:
+PingPong ELO 希望成为一份长期更新、可审计、可复用的乒乓球赛果与实力评级基础数据。
 
-- **每场比赛都在更新**：赢该赢的比赛涨分少，赢强敌涨分多 / Every match updates the rating; beating a strong player gains more
-- **不靠参赛频率堆分**：核心依据是胜负质量，而不是打了多少站 / Quality of results matters, not volume of entries
-- **不比赛不直接扣分**：真实实力不会因伤病/休赛而"过期清零" / Inactivity does not decay your true strength
-- **对手强度进入计算**：赢强敌的意义大于赢弱手，爆冷输球也会被真实反映 / Opponent strength enters the calculation; upsets are reflected honestly
-- **历史可比**：2021 年的 2800 分和 2025 年的 2800 分代表相同实力水平 / 2800 in 2021 equals 2800 in 2025
+这份数据集服务于三个目标：
 
-### 已有方案的问题 / Existing solutions
+1. **还原真实实力**：用逐场赛果和对手强度评估选手表现，而不是只看官方积分。
+2. **保存历史脉络**：让不同时期、不同赛事体系下的选手表现可以被追踪和比较。
+3. **开放接受勘误**：数据、字段和计算逻辑尽可能透明，欢迎球迷和研究者提交修正。
 
-- **[Ratings Central](https://ratingscentral.com/)** 是唯一较完善的乒乓球 ELO 系统，但 ITTF/WTT 数据停在
-  **2022 年 12 月**，UI 老旧，全英文，不覆盖中国国内联赛。
-- 中文互联网上不存在任何乒乓球 ELO 排名系统。
-
-## 愿景 / Vision
-
-做一个**面向中国球迷的、实时更新的、可视化的乒乓球 ELO 排名网站**。
-
-An up-to-date, visualized table-tennis ELO ranking site built for Chinese fans.
-
-### 核心目标 / Core goals
-
-1. **真实实力排名**：基于 ELO 算法，弱化参赛频率和积分周期对排名的干扰 / True-strength ranking based on Elo, down-weighting entry volume and point cycles
-2. **数据全覆盖**：WTT 各级赛事 + 奥运会 + 世锦赛 + 乒超 + 全锦赛 + 全运会 + 欧洲联赛 / Full coverage: WTT tiers + Olympics + Worlds + Chinese leagues
-3. **可视化**：交互式排名曲线、头对头胜率预测、ELO 历史变迁 / Visualization: ranking curves, H2H predictions, ELO history
-4. **中英双语**：服务全球华人球迷 / Bilingual (Chinese / English)
-5. **开源透明**：算法公开、数据可查、接受勘误 / Open & transparent: public algorithm, auditable data, accepts corrections
-
-### 非目标（MVP 阶段不做）/ Non-goals (MVP)
-
-- 实时直播比分 / Live streaming scores
-- 用户系统 / 评论 / User accounts / comments
-- 移动 App / Mobile app
-- 博彩 / 赔率预测 / Betting / odds
-
-## 目录结构 / Layout
+## 目录结构
 
 ```text
 data/
-├── players.csv            # 选手元数据：别名、种子分、画像字段 / Player metadata, aliases, seed Elo, profile fields
-├── tiers.json             # 赛事级别、K 系数、轮次系数 / Tournament tiers, K factors, round multipliers
-├── tournaments.csv        # 赛事规范元数据（slug/名称/日期/级别）/ Canonical tournament metadata
-├── tournament_names.json  # 英文→中文赛事名词典（四级）/ EN→ZH display-name dictionary
-├── matches/               # 比赛结果 CSV / Match-result CSV files
+├── players.csv            # 选手元数据：姓名、国家/地区、性别、别名、种子分、头像
+├── tiers.json             # 赛事级别、K 系数、轮次系数、项目权重
+├── tournaments.csv        # 赛事规范元数据：slug、名称、日期、级别、地点、别名
+├── tournament_names.json  # 赛事中文名、地点、项目、短语映射词典
+├── matches/               # 规范化后的比赛结果 CSV
 │   ├── 2026_WTT_...
-│   └── team/              # 团体赛个人盘次 CSV / Optional team-event CSV files
-├── avatars/               # 选手头像原图 / Player avatar source images
-├── sources/               # 采集阶段原始文件 / Raw or auxiliary collection-stage files
-├── backup_clean/          # 清洗前备份（不发布）/ Pre-cleaning backups (not published)
-└── logs/                  # 运行日志（爬虫/脚本，不发布）/ Runtime logs (not published)
+│   └── team/              # 团体赛个人盘次 CSV
+├── avatars/               # 选手头像原图
+├── sources/               # 采集阶段的原始或辅助文件
+├── backup_clean/          # 清洗前备份，不作为发布数据使用
+└── logs/                  # 运行日志，不作为发布数据使用
 ```
 
-## 比赛 CSV 规则 / Match CSV Rules
+## 核心文件
 
-比赛文件位于 `data/matches/`（团体赛个人盘次在 `data/matches/team/`，命名风格相同）。
+### `players.csv`
 
-- 当 `score_a > score_b` 时 `player_a` 为胜者；日期格式 `YYYY-MM-DD`。
-- 级别缺失或为 `OTHER` 时从 `tiers.json` 读取。
-- When `score_a > score_b`, `player_a` is the winner. Dates use `YYYY-MM-DD`; tournament tier is read from
-  `tiers.json` when missing or set to `OTHER`.
+选手基础信息表。常用字段包括：
 
-### 列说明 / Columns
-
-| Column | Meaning / 含义 |
+| 字段 | 含义 |
 |---|---|
-| `tournament` | Tournament display name (EN) / 赛事显示名（英文） |
-| `date` | Match date, `YYYY-MM-DD` / 比赛日期 |
-| `player_a` | Winner (when `score_a > score_b`) / 胜者 |
-| `player_b` | Loser / 败者 |
-| `score_a` / `score_b` | Games won (e.g. `4`,`1`) / 局数 |
-| `game_scores` | Per-game points, e.g. `11,3,11,11,11\|8,11,9,5,5` / 每局小分 |
-| `round` | Stage within the event. See round codes below / 轮次，见下方轮次代码 |
-| `tier` | Tournament tier key (see `tiers.json`) / 赛事级别键 |
-| `sub_event` | Discipline code: `MS`/`WS`/`MT`/`WT`/`MD`/`WD`/`XD` etc. / 项目代码 |
-| `event_id` | ITTF/WTT event id when scraped / 抓取时的赛事 id |
-| `stage` | Draw phase: `Qualification` / `Main Draw` / `Position Draw` / 阶段 |
-| `player_a_raw` / `player_b_raw` | Original name strings (pre-normalization) / 归一化前的原始姓名 |
+| `slug` | 稳定 URL 标识 |
+| `name` | 中文或规范展示名 |
+| `name_en` | 英文名或国际赛果常用名 |
+| `country` | 国家/地区三字码 |
+| `gender` | `M` / `F` |
+| `seed_elo` | 初始 Elo |
+| `aliases` | 其他写法，用于姓名归一 |
+| `avatar_url` | 头像路径或来源 |
 
-### 轮次代码 / Round Codes
+### `tournaments.csv`
 
-- `QUAL` — 资格赛；`QR128`…`QR2` — 资格赛轮次（数字越小越靠后）。
-- `GROUP` — 小组赛。
-- `R128` / `R64` / `R32` / `R16` — 正赛轮次（剩余人数）。
-- `QF` / `SF` / `F`（含 `QuarterFinal` / `SemiFinal` / `Final`）— 淘汰赛。
-- 数字轮次（`2`/`4`/`8`/`16`/`256`）编码**剩余人数**（如 `2`=决赛、`4`=半决赛、`8`=四分之一决赛）；
-  `Position Draw` 中表示名次赛（`2`=铜牌战）。
+赛事规范信息表。用于把不同来源中的赛事名称统一到稳定赛事实体。
 
-### 算分顺序 / Elo Computation Order
+常用字段包括 `slug`、`name`、`name_en`、`name_zh`、`tier`、`country`、`city`、`start_date`、`end_date`、`aliases`。
 
-比赛按 **date → stage → round** 顺序处理，球员积分沿真实赛程演进（先资格赛、再正赛、最后名次赛）。
-详见 loader 中的 `_stage_rank` / `_round_rank`。
+### `tiers.json`
 
-Matches are processed in **date → stage → round** order so ratings evolve along the real schedule
-(qualification first, then main draw, placement matches last). See `_stage_rank` / `_round_rank` in the loader.
+赛事和轮次权重配置。Elo 计算会根据赛事级别、比赛轮次和项目类型调整 K 系数。
 
-### 赛事中文名 / Tournament Chinese Names
+### `matches/`
 
-导出时由 `scripts/tournament_display.py::tournament_name_zh()` 按四级词典生成：`exact`（全名精确）→
-`phrases`（赛事类型短语，最长优先）→ `events`（项目词，如 `Men's Singles`→`男单`）→ `places`（城市/大洲/国家）。
-新增中文名请编辑 `tournament_names.json`（长键优先匹配，如 `Tunisia` 放在 `Tunis` 之前）。
+逐场比赛结果，是本数据集最核心的部分。每个 CSV 通常对应一个赛事或一个赛事集合。
 
-### 赛事规范表 / Tournaments CSV
+## 比赛 CSV 规则
 
-`tournaments.csv` 为规范赛事元数据：`slug`、`name`、`name_en`、`name_zh`、`tier`、`country`、`city`、
-`start_date`、`end_date`、`aliases`。loader 用抓取的赛事名匹配 `name` / `aliases`，匹配失败则回退到自动 slug（带警告）。
+比赛文件位于 `data/matches/`。团体赛中的个人盘次位于 `data/matches/team/`，命名风格相同。
 
-## 如何贡献 / Contributing
+- 日期使用 `YYYY-MM-DD`。
+- 当 `score_a > score_b` 时，`player_a` 为胜者。
+- 赛事级别使用 `tiers.json` 中定义的键。
+- 同一文件内不应出现完全重复的同日同选手对阵。
+- 原始姓名字段应尽量保留，方便追溯归一化前的数据。
 
-### 报告数据问题 / Report a data issue
+### 比赛字段
 
-发现姓名、国籍、比分、赛事归类等数据错误时，请在本仓库提交 issue（网站页面上的「提交数据修正」按钮
-已自动预填问题模板与上下文，指向本仓库的 issues）：
+| 字段 | 含义 |
+|---|---|
+| `tournament` | 赛事显示名 |
+| `date` | 比赛日期，`YYYY-MM-DD` |
+| `player_a` | A 方；通常为胜者 |
+| `player_b` | B 方；通常为败者 |
+| `score_a` / `score_b` | 双方赢下的局数 |
+| `game_scores` | 每局小分，例如 `11,3,11,11,11\|8,11,9,5,5` |
+| `round` | 轮次代码 |
+| `tier` | 赛事级别键 |
+| `sub_event` | 项目代码，如 `MS` / `WS` / `MT` / `WT` / `MD` / `WD` / `XD` |
+| `event_id` | 来源站点中的赛事 id |
+| `stage` | 阶段，如 `Qualification` / `Main Draw` / `Position Draw` |
+| `player_a_raw` / `player_b_raw` | 归一化前的原始姓名 |
 
-- 中文：[新建 Issue（自动填入模板）](https://github.com/goesByhc/pingpong-elo-data/issues/new?title=%5B%E6%95%B0%E6%8D%AE%E4%BF%AE%E6%AD%A3%5D&body=%E8%AF%B7%E6%8F%8F%E8%BF%B0%E4%BD%A0%E5%8F%91%E7%8E%B0%E7%9A%84%E6%95%B0%E6%8D%AE%E9%97%AE%E9%A2%98)
-- English: [New Issue (pre-filled template)](https://github.com/goesByhc/pingpong-elo-data/issues/new)
+### 轮次代码
 
-If you find wrong names, nationalities, scores, or tournament classification, please open an issue in this
-repo. The "提交数据修正" (report data fix) button on the site links here with a pre-filled template.
+- `QUAL`：资格赛；`QR128` 到 `QR2` 表示资格赛轮次，数字越小越靠后。
+- `GROUP`：小组赛。
+- `R128` / `R64` / `R32` / `R16`：正赛轮次，数字表示剩余人数。
+- `QF` / `SF` / `F`：四分之一决赛、半决赛、决赛。
+- 数字轮次如 `2` / `4` / `8` / `16` / `256` 也表示剩余人数；在 `Position Draw` 中可表示名次赛，例如 `2` 为铜牌战。
 
-### 直接修数据 / Fix data directly
+## 计算口径
 
-欢迎 fork 本仓库并提交 Pull Request：
+比赛按 **date → stage → round** 顺序处理，尽量贴近真实赛程：先资格赛，再正赛，最后名次赛。
 
-1. Fork 并克隆，修改对应 CSV（`players.csv` / `matches/*.csv` / `tournaments.csv` 等）。
-2. 保持列格式、日期 `YYYY-MM-DD`、胜者在前（`score_a > score_b` 时 `player_a` 为胜者）。
-3. 提交说明用中文或英文均可；PR 标题请加 `[data]` 前缀，例如 `[data] fix score of ...`。
+Elo 计算的核心原则：
 
-欢迎任何数据修正的 Pull Request。确认后会同步到站点数据并感谢贡献。
+- 每场比赛都会改变双方评分。
+- 对手越强，获胜带来的涨分越大。
+- 爆冷输球会带来更明显的跌分。
+- 赛事级别越高，单场比赛权重越高。
+- 新选手或数据较少的选手会有更高的不确定度，评分会更快收敛。
+
+## 适合用来做什么
+
+- 构建乒乓球 Elo 排名或历史排名。
+- 分析选手状态、峰值、连胜和长期趋势。
+- 统计头对头战绩和共同对手表现。
+- 研究不同赛事级别对选手评分的影响。
+- 制作乒乓球数据可视化、文章、榜单或研究项目。
+
+## 数据修正与贡献
+
+如果你发现姓名、国籍、比分、赛事归类、轮次、日期等问题，欢迎提交 issue 或 Pull Request。
+
+提交修正时请尽量提供：
+
+- 出错文件和行号。
+- 正确赛果或选手信息。
+- 可核验的数据来源链接或截图说明。
+- 如果是姓名问题，请同时说明中文名、英文名和常见别名。
+
+[新建数据修正 Issue](https://github.com/goesByhc/pingpong-elo-data/issues/new?title=%5B%E6%95%B0%E6%8D%AE%E4%BF%AE%E6%AD%A3%5D&body=%E8%AF%B7%E6%8F%8F%E8%BF%B0%E4%BD%A0%E5%8F%91%E7%8E%B0%E7%9A%84%E6%95%B0%E6%8D%AE%E9%97%AE%E9%A2%98)
+
+也可以从主站页面进入对应选手或赛事的数据修正入口：[https://pingpong-elo.com/](https://pingpong-elo.com/)

@@ -15,3 +15,4 @@ ittf_cookies.json
 # Regenerable intermediates
 matches_formatted/
 matches/*_names_warn.log
+sources_manifest.json
