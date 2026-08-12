@@ -1,0 +1,17 @@
+# SQLite runtime files
+*.db
+*.db-shm
+*.db-wal
+*.log
+
+# Runtime backups & logs
+backup_clean/
+_attic/
+logs/
+
+# ITTF login cookies (secrets - never commit)
+ittf_cookies.json
+
+# Regenerable intermediates
+matches_formatted/
+matches/*_names_warn.log

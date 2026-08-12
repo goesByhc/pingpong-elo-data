@@ -1,0 +1,56 @@
+{
+  "version": 2,
+  "description": "赛事级别 → K 因子配置（PingPong ELO 引擎读取，engine/elo.py 启动时加载）",
+  "tiers": {
+    "OLYMPICS":               { "name_zh": "奥运会",             "name_en": "Olympic Games",                    "k": 72 },
+    "WORLD_CHAMPIONSHIPS":    { "name_zh": "世锦赛",             "name_en": "World Championships",              "k": 56 },
+    "GRAND_SLAM":             { "name_zh": "WTT 大满贯",         "name_en": "WTT Grand Smash",                 "k": 48 },
+    "WORLD_CUP":              { "name_zh": "世界杯",             "name_en": "World Cup / Team World Cup",       "k": 48 },
+    "WTT_CHAMPIONS":          { "name_zh": "WTT 冠军赛",         "name_en": "WTT Champions",                   "k": 24 },
+    "WTT_STAR_CONTENDER":     { "name_zh": "WTT 球星挑战赛",     "name_en": "WTT Star Contender",              "k": 18 },
+    "WTT_CONTENDER":          { "name_zh": "WTT 常规挑战赛",     "name_en": "WTT Contender",                   "k": 16 },
+    "WTT_FEEDER":             { "name_zh": "WTT 支线赛",         "name_en": "WTT Feeder",                      "k": 14 },
+    "CN_NATIONAL_LEAGUE":         { "name_zh": "乒超联赛",           "name_en": "China National League (CTTSL)",    "k": 14 },
+    "CN_NATIONAL_GAMES":          { "name_zh": "全运会",             "name_en": "Chinese National Games",           "k": 24 },
+    "CN_NATIONAL_CHAMPIONSHIPS":  { "name_zh": "全锦赛",             "name_en": "Chinese National Championships",   "k": 16 },
+    "EURO_LEAGUE":            { "name_zh": "欧洲联赛",           "name_en": "European League",                 "k": 14 },
+    "OTHER":                  { "name_zh": "其他",               "name_en": "Other",                           "k": 12 }
+  },
+  "round_multiplier": {
+    "F": 1.50, "SF": 1.25, "QF": 1.10,
+    "R16": 1.00, "R32": 1.00, "R64": 0.85,
+    "R128": 0.80, "R48": 0.90, "3RD": 1.20,
+    "GROUP": 0.75, "QUAL": 0.60
+  },
+  "match_type_factor": {
+    "singles": 1.0, "doubles": 0.7, "team": 0.5
+  },
+  "tournament_rules": [
+    { "pattern": "Olympic",                        "tier": "OLYMPICS" },
+    { "pattern": "Summer Olympics",                "tier": "OLYMPICS" },
+    { "pattern": "World Team Championships",       "tier": "WORLD_CHAMPIONSHIPS" },
+    { "pattern": "World Table Tennis Championships","tier": "WORLD_CHAMPIONSHIPS" },
+    { "pattern": "ITTF World.*Championships Finals","tier": "WORLD_CHAMPIONSHIPS" },
+    { "pattern": "Cup Finals",                     "tier": "WORLD_CUP" },
+    { "pattern": "World Cup",                      "tier": "WORLD_CUP" },
+    { "pattern": "Singapore Smash",                "tier": "GRAND_SLAM" },
+    { "pattern": "Saudi Smash",                    "tier": "GRAND_SLAM" },
+    { "pattern": "China Smash",                    "tier": "GRAND_SLAM" },
+    { "pattern": "United States Smash",            "tier": "GRAND_SLAM" },
+    { "pattern": "Europe Smash",                   "tier": "GRAND_SLAM" },
+    { "pattern": "Grand Smash",                    "tier": "GRAND_SLAM" },
+    { "pattern": "Smash",                          "tier": "GRAND_SLAM" },
+    { "pattern": "WTT Finals",                     "tier": "WTT_CHAMPIONS" },
+    { "pattern": "WTT Champions",                  "tier": "WTT_CHAMPIONS" },
+    { "pattern": "WTT Macao",                      "tier": "WTT_CHAMPIONS" },
+    { "pattern": "WTT Star Contender",             "tier": "WTT_STAR_CONTENDER" },
+    { "pattern": "WTT Contender",                  "tier": "WTT_CONTENDER" },
+    { "pattern": "WTT Feeder",                     "tier": "WTT_FEEDER" },
+    { "pattern": "Super League",                   "tier": "CN_NATIONAL_LEAGUE" },
+    { "pattern": "German League",                  "tier": "EURO_LEAGUE" },
+    { "pattern": "European",                       "tier": "EURO_LEAGUE" },
+    { "pattern": "National Games",                  "tier": "CN_NATIONAL_GAMES" },
+    { "pattern": "National Championships",          "tier": "CN_NATIONAL_CHAMPIONSHIPS" },
+    { "pattern": "League",                         "tier": "EURO_LEAGUE" }
+  ]
+}
