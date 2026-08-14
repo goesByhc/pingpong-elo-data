@@ -1,0 +1,370 @@
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier
+2019/20 Japan T.League Men's,2019-08-29,Hou Yingchao,Machi Asuka,3,1,"6,11,11,11|11,7,8,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-08-29,Mizutani Jun,Yoshimura Kazuhiro,3,0,"11,11,11|3,6,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-08-29,Mizutani Jun,Ueda Jin,1,0,11|6,VICTORY,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-08-29,Morizono Masataka,Harimoto Tomokazu,3,2,"11,7,11,4,11|9,11,8,11,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-08-29,Ueda Jin/Morizono Masataka,Niwa Koki/Harimoto Tomokazu,2,1,"5,11,11|11,9,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-08-30,Liam Pitchford,Yoshimura Maharu,3,2,"11,7,7,11,13|10,11,11,8,11",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-08-30,Muramatsu Yuto,Wong Chun Ting,3,2,"11,6,11,9,12|8,11,10,11,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-08-30,Takuya Jin,Joo Sae-Hyuk,3,2,"7,11,11,8,11|11,7,7,11,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-08-30,Wong Chun Ting/Hirano Yuki,Li Ping/Kizukuri Yuto,2,0,"11,11|5,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-08-30,Hayata Hina,Kihara Miyuu,3,1,"11,11,6,11|2,6,11,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-08-30,Ishikawa Kasumi,Mori Sakura,3,1,"10,11,11,11|11,8,3,3",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-08-30,Ishikawa Kasumi,Hayata Hina,1,0,11|9,VICTORY,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-08-30,Jeon Jihee,Doo Hoi Kem,3,2,"11,10,10,11,11|4,11,11,7,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-08-30,Nagasaki Miyu/Kihara Miyuu,Chen Szu-Yu/Maeda Miyu,2,1,"11,8,11|9,11,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-08-31,Hou Yingchao,Chuang Chih Yuan,3,1,"10,11,11,11|11,5,10,4",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-08-31,Joo Sae-Hyuk,Mizutani Jun,3,1,"11,11,9,11|10,9,11,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-08-31,Machi Asuka,Matsudaira Kenta,3,1,"7,11,11,11|11,7,10,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-08-31,Mizutani Jun/Oshima Yuya,Li Ping/Kizukuri Yuto,2,0,"11,11|7,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-08-31,Niwa Koki,Chen Chien An,3,0,"11,11,11|9,8,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-08-31,Wong Chun Ting,Morizono Masataka,3,2,"11,7,11,8,11|10,11,6,11,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-08-31,Wong Chun Ting/Takuya Jin,Ueda Jin/Morizono Masataka,2,0,"11,11|9,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-08-31,Yoshida Masaki,Liam Pitchford,3,0,"11,11,11|10,9,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-08-31,Yoshida Masaki,Takuya Jin,1,0,11|6,VICTORY,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-08-31,Hamamoto Yui,Yang Haeun,3,0,"11,11,11|3,6,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-08-31,Han Ying,Doo Hoi Kem,3,1,"11,11,9,11|10,4,11,5",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-08-31,Hayata Hina,Kato Miyu,3,1,"8,11,11,11|11,4,10,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-08-31,Hayata Hina,Kato Miyu,1,0,11|4,VICTORY,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-08-31,Ishikawa Kasumi,Morita Ayane,3,1,"8,11,11,11|11,10,7,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-08-31,Jeon Jihee,Soo Wai Yam Minnie,3,2,"10,10,11,11,11|11,11,10,5,6",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-08-31,Lee Ho ching/Soo Wai Yam Minnie,Jeon Jihee/Yu Mengyu,2,0,"11,11|9,6",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-08-31,Sawettabut Suthasini,Maeda Miyu,3,1,"11,5,11,11|9,11,9,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-08-31,Zeng Jian/Doo Hoi Kem,Yang Haeun/Suzuki Rika,2,1,"11,6,12|5,11,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-01,Doo Hoi Kem,Kato Miyu,3,1,"11,11,6,11|9,9,11,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-01,Doo Hoi Kem,Kato Miyu,1,0,11|6,VICTORY,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-01,Jeon Jihee,Yamamoto Shoko,3,1,"11,11,10,11|9,10,11,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-01,Lee Ho ching,Hamamoto Yui,3,2,"11,7,11,5,11|3,11,5,11,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-01,Mori Sakura,Yang Haeun,3,2,"11,8,5,11,11|7,11,11,8,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-01,Morita Ayane,Hayata Hina,3,2,"6,11,10,11,11|11,9,11,9,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-01,Morita Ayane,Jeon Jihee,1,0,11|6,VICTORY,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-01,Sawettabut Suthasini,Zeng Jian,3,2,"5,11,10,11,12|11,5,11,8,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-01,Yang Haeun/Suzuki Rika,Chen Szu-Yu/Maeda Miyu,2,1,"4,11,11|11,6,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-01,Zeng Jian/Morizono Mizuki,Lee Ho ching/Soo Wai Yam Minnie,2,0,"11,11|10,6",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-02,Kato Miyu,Yamamoto Shoko,3,0,"11,11,11|7,2,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-02,Kato Miyu,Yang Haeun,1,0,12|10,VICTORY,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-02,Morita Ayane,Soo Wai Yam Minnie,3,2,"6,11,11,10,11|11,8,7,11,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-02,Morizono Misaki/Morita Ayane,Lee Ho ching/Soo Wai Yam Minnie,2,1,"11,5,11|9,11,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-02,Sawettabut Suthasini,Yang Haeun,3,0,"11,11,11|7,5,5",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-09-04,Hou Yingchao,Morizono Masataka,3,0,"11,11,11|7,10,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-09-04,Hou Yingchao,Lin Yun Ju,1,0,11|8,VICTORY,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-09-04,Lin Yun Ju,Oshima Yuya,3,0,"11,11,11|8,4,5",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-09-04,Mizutani Jun,Machi Asuka,3,0,"11,11,11|6,4,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-09-04,Ueda Jin/Morizono Masataka,Oshima Yuya/Kenta Tazoe,2,0,"11,11|6,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-09-05,Hirano Yuki,Yoshida Masaki,3,1,"9,11,11,11|11,4,8,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-09-05,Morizono Masataka,Wong Chun Ting,3,0,"11,11,11|6,10,6",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-09-05,Takuya Jin,Lin Yun Ju,3,2,"11,4,11,6,11|9,11,8,11,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-09-05,Wong Chun Ting/Matsudaira Kenta,Ueda Jin/Morizono Masataka,2,1,"11,7,11|9,11,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-09-06,Chuang Chih Yuan,Oshima Yuya,3,2,"9,11,10,11,11|11,6,11,9,6",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-09-06,Chuang Chih Yuan/Kizukuri Yuto,Niwa Koki/Kenta Tazoe,2,1,"11,5,11|9,11,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-09-06,Joo Sae-Hyuk,Hou Yingchao,3,2,"4,5,11,11,11|11,11,4,6,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-09-06,Niwa Koki,Chen Chien An,3,2,"11,10,5,11,11|10,11,11,9,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-06,Hamamoto Yui,Soma Yumeno,3,0,"11,11,11|3,9,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-06,Ishikawa Kasumi,Sawettabut Suthasini,3,0,"11,11,11|5,8,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-06,Kato Miyu,Zeng Jian,3,2,"11,3,11,7,11|5,11,6,11,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-06,Kato Miyu,Ishikawa Kasumi,1,0,11|5,VICTORY,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-06,Sawettabut Suthasini/Huang Yu-Wen,Zeng Jian/Morizono Mizuki,2,1,"9,11,11|11,10,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-09-07,Chuang Chih Yuan/Chen Chien An,Morizono Masataka/Kohei Sambe,2,1,"11,7,11|9,11,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-09-07,Hibiki Tazoe,Takami Masaki,3,1,"6,11,11,11|11,5,8,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-09-07,Hou Yingchao,Yuki Matsuyama,3,0,"11,11,11|3,7,4",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-09-07,Joo Sae-Hyuk,Yoshida Masaki,3,0,"11,11,11|10,8,6",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-09-07,Joo Sae-Hyuk,Ueda Jin,1,0,12|10,VICTORY,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-09-07,Matsudaira Kenta,Niwa Koki,3,2,"11,5,10,11,12|8,11,11,3,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-09-07,Morizono Masataka,Chen Chien An,3,0,"11,11,11|3,10,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-09-07,Niwa Koki/Oshima Yuya,Kishikawa Seiya/Takami Masaki,2,0,"11,11|4,4",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-09-07,Ueda Jin,Kizukuri Yuto,3,1,"11,11,10,11|8,10,11,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-07,Cheng I-Ching,Kato Miyu,3,2,"10,11,7,11,11|11,6,11,8,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-07,Hamamoto Yui,Hayata Hina,3,2,"11,4,6,11,11|8,11,11,9,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-07,Hayata Hina,Ishikawa Kasumi,1,0,11|7,VICTORY,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-07,Ishikawa Kasumi,Mori Sakura,3,1,"2,11,11,11|11,7,9,4",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-07,Sasao Asuka,Soma Yumeno,3,0,"11,11,11|5,7,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-07,Sawettabut Suthasini,Morita Ayane,3,0,"11,11,11|10,7,6",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-07,Umemura Yuka/Morita Ayane,Sawettabut Suthasini/Huang Yu-Wen,2,1,"11,9,13|10,11,11",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-07,Yu Mengyu,Zeng Jian,3,2,"10,11,11,9,16|11,10,9,11,14",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-07,Yu Mengyu/Chen Szu-Yu,Zeng Jian/Morizono Mizuki,2,0,"11,11|8,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-08,Chen Szu-Yu,Soma Yumeno,3,2,"10,11,11,10,12|11,6,7,11,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-08,Cheng I-Ching,Ishikawa Kasumi,3,2,"3,11,6,11,11|11,7,11,7,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-08,Hamamoto Yui,Sasao Asuka,3,1,"11,11,7,11|8,7,11,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-08,Hamamoto Yui,Cheng I-Ching,1,0,11|9,VICTORY,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-08,Kato Miyu,Mori Sakura,3,0,"11,11,11|6,9,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-08,Sawettabut Suthasini,Hayata Hina,3,2,"10,5,11,11,11|11,11,8,10,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-08,Sawettabut Suthasini/Huang Yu-Wen,Yu Mengyu/Chen Szu-Yu,2,0,"11,11|9,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-08,Umemura Yuka/Morita Ayane,Zeng Jian/Morizono Mizuki,2,1,"11,10,13|5,11,11",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-08,Zeng Jian,Morita Ayane,3,0,"11,11,11|8,9,5",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-09,Chen Szu-Yu,Morita Ayane,3,1,"11,4,11,11|4,11,5,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-09,Chen Szu-Yu/Maeda Miyu,Morizono Misaki/Morita Ayane,2,0,"11,11|2,6",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-09,Mori Sakura,Umemura Yuka,3,0,"11,11,11|5,6,6",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-09-09,Yu Mengyu,Cheng I-Ching,3,2,"5,11,11,9,11|11,9,9,11,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-09-10,Harimoto Tomokazu,Takuya Jin,3,0,"11,11,11|10,7,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-09-10,Liam Pitchford,Mizutani Jun,3,0,"11,11,11|6,7,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-09-10,Matsudaira Kenta,Hou Yingchao,3,2,"11,7,11,6,11|2,11,9,11,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-09-10,Matsudaira Kenta/Hirano Yuki,Uda Yukiya/Harimoto Tomokazu,2,0,"11,11|8,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-09-11,Liam Pitchford,Ueda Jin,3,0,"11,11,11|9,4,4",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-09-11,Matsudaira Kenta,Yoshimura Kazuhiro,3,2,"11,10,11,7,13|3,11,9,11,11",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-09-11,Takuya Jin,Machi Asuka,3,1,"11,9,11,11|6,11,9,6",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-09-11,Yuki Matsuyama/Takami Masaki,Yoshida Masaki/Yoshimura Kazuhiro,2,0,"11,11|5,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-10-19,Chen Chien An/Li Ping,Ueda Jin/Morizono Masataka,2,0,"11,11|7,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-10-19,Chuang Chih Yuan,Yoshida Masaki,3,1,"11,11,10,11|7,6,11,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-10-19,Joo Sae-Hyuk,Machi Asuka,3,2,"9,11,11,6,11|11,10,5,11,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-10-19,Yoshimura Maharu,Morizono Masataka,3,0,"11,11,11|8,10,4",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-10-20,Chen Chien An,Uda Yukiya,3,1,"11,11,6,11|8,7,11,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-10-20,Li Ping/Chen Chien An,Mizutani Jun/Oshima Yuya,2,1,"11,9,11|9,11,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-10-20,Mizutani Jun,Joo Sae-Hyuk,3,1,"11,11,10,11|5,10,11,3",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-10-20,Yoshimura Maharu,Hou Yingchao,3,2,"11,6,11,6,11|9,11,3,11,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-11-23,Arinobu Taimu,Hou Yingchao,3,1,"11,11,5,11|9,9,11,6",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-11-23,Cho Daeseong,Liam Pitchford,3,2,"11,11,5,7,11|4,7,11,11,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-11-23,Cho Daeseong,Takuya Jin,1,0,11|7,VICTORY,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-11-23,Chuang Chih Yuan,Hibiki Tazoe,3,1,"8,11,11,11|11,3,7,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-11-23,Hou Yingchao,Arinobu Taimu,1,0,14|12,VICTORY,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-11-23,Marcos Freitas,Chen Chien An,3,0,"11,11,11|4,7,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-11-23,Marcos Freitas/Kenta Tazoe,Li Ping/Chen Chien An,2,1,"8,11,11|11,8,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-11-23,Morizono Masataka/Machi Asuka,Hirano Yuki/Matsudaira Kenta,2,0,"11,11|10,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-11-23,Takuya Jin,Yoshimura Kazuhiro,3,2,"11,11,9,5,11|2,9,11,11,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-11-23,Truls Moregardh,Morizono Masataka,3,1,"11,10,11,11|7,11,9,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-11-23,Chen Szu-Yu,Sawettabut Suthasini,3,2,"3,11,11,10,11|11,7,8,11,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-11-23,Doo Hoi Kem,Morizono Misaki,3,0,"11,11,11|7,10,5",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-11-23,Elizabeta Samara,Sofia Polcanova,3,2,"11,5,9,11,11|7,11,11,10,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-11-23,Han Ying,Hamamoto Yui,3,1,"11,7,11,11|5,11,6,2",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-11-23,Hayata Hina,Lee Ho ching,3,1,"11,11,10,11|5,8,11,4",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-11-23,Lee Ho ching/Huang Yu-Wen,Mori Sakura/Maeda Miyu,2,0,"11,11|7,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-11-23,Mori Sakura,Kato Miyu,3,1,"11,8,11,11|8,11,6,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-11-23,Morizono Misaki/Suzuki Rika,Sofia Polcanova/Zeng Jian,2,1,"11,6,11|5,11,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-11-24,Cho Daeseong,Arinobu Taimu,3,0,"11,11,11|8,10,6",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-11-24,Chuang Chih Yuan,Morizono Masataka,3,1,"6,11,11,11|11,10,6,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-11-24,Chuang Chih Yuan,Cho Daeseong,1,0,11|5,VICTORY,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-11-24,Hou Yingchao,Takuya Jin,3,1,"10,11,11,11|11,10,10,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-11-24,Li Ping,Yoshimura Kazuhiro,3,1,"11,7,11,11|7,11,9,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-11-24,Liam Pitchford,Hibiki Tazoe,3,1,"11,11,8,11|10,6,11,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-11-24,Marcos Freitas,Matsudaira Kenta,3,1,"11,8,11,11|8,11,8,4",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-11-24,Marcos Freitas/Kenta Tazoe,Matsudaira Kenta/Hirano Yuki,2,0,"11,11|6,6",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-11-24,Morizono Masataka/Machi Asuka,Chen Chien An/Li Ping,2,0,"11,11|8,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-11-24,Chen Szu-Yu,Hamamoto Yui,3,1,"4,11,11,11|11,7,10,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-11-24,Doo Hoi Kem,Mori Sakura,3,0,"11,11,11|10,8,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-11-24,Hayata Hina,Sofia Polcanova,3,1,"11,11,10,11|8,1,11,6",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-11-24,Kato Miyu,Han Ying,3,2,"11,10,10,11,11|9,11,11,4,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-11-24,Lee Ho ching,Morizono Misaki,3,1,"10,11,11,11|11,9,9,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-11-24,Lee Ho ching/Huang Yu-Wen,Morizono Misaki/Suzuki Rika,2,0,"11,11|3,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-11-24,Maeda Miyu/Mori Sakura,Doo Hoi Kem/Zeng Jian,2,0,"11,11|7,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-11-24,Sawettabut Suthasini,Elizabeta Samara,3,0,"11,11,11|10,10,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-04,Arinobu Taimu/Kizukuri Yuto,Matsudaira Kenta/Liam Pitchford,2,1,"6,11,11|11,9,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-04,Chuang Chih Yuan,Takuya Jin,3,1,"11,11,4,11|6,10,11,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-04,Liam Pitchford,Kizukuri Yuto,3,2,"11,11,9,8,12|1,10,11,11,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-04,Muramatsu Yuto,Togami Shunsuke,3,1,"11,11,3,11|10,4,11,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-05,Hou Yingchao,Matsudaira Kenta,3,2,"11,10,2,11,13|5,11,11,8,11",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-05,Liam Pitchford,Oshima Yuya,3,1,"7,11,11,11|11,10,7,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-05,Uda Yukiya,Hirano Yuki,3,2,"11,7,8,11,11|9,11,11,6,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-05,Uda Yukiya/Kenta Tazoe,Hirano Yuki/Togami Shunsuke,2,1,"11,6,11|8,11,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-06,Kizukuri Yuto,Yoshida Masaki,3,1,"10,11,11,11|11,5,8,5",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-06,Li Ping,Wang Yang,3,2,"8,11,8,11,11|11,10,11,8,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-06,Li Ping,Wang Yang,1,0,11|7,VICTORY,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-06,Morizono Masataka,Chuang Chih Yuan,3,1,"11,11,8,11|8,9,11,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-06,Morizono Masataka/Machi Asuka,Arinobu Taimu/Kizukuri Yuto,2,0,"11,11|9,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-07,Hou Yingchao,Morizono Masataka,3,1,"8,11,11,11|11,10,6,4",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-07,Uda Yukiya,Wang Yang,3,0,"11,11,11|8,1,3",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-07,Uda Yukiya/Kenta Tazoe,Morizono Masataka/Machi Asuka,2,0,"11,11|7,6",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-07,Yoshida Masaki,Oshima Yuya,3,1,"11,10,11,11|10,11,10,3",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-12-07,Chen Szu-Yu,Soo Wai Yam Minnie,3,1,"11,11,10,11|1,9,11,6",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-12-07,Elizabeta Samara,Zeng Jian,3,1,"10,11,11,11|11,9,9,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-12-07,Kihara Miyuu,Han Ying,3,1,"11,10,11,11|5,11,10,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-12-07,Kihara Miyuu,Han Ying,1,0,12|10,VICTORY,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-12-07,Maeda Miyu/Akae Kaho,Lee Ho ching/Soo Wai Yam Minnie,2,1,"8,11,11|11,10,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-12-07,Matsudaira Shiho,Maeda Miyu,3,0,"11,11,11|6,10,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-12-07,Mori Sakura,Ojio Haruna,3,1,"11,11,10,11|6,10,11,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-12-07,Nagasaki Miyu,Sasao Asuka,3,0,"11,11,11|5,8,6",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-12-07,Umemura Yuka/Morita Ayane,Hamamoto Yui/Nagasaki Miyu,2,1,"11,6,11|7,11,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-08,Liam Pitchford,Yoshida Masaki,3,2,"11,6,11,8,11|7,11,10,11,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-08,Matsudaira Kenta/Togami Shunsuke,Morizono Masataka/Machi Asuka,2,1,"11,9,11|10,11,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-08,Takuya Jin,Machi Asuka,3,0,"11,11,11|8,8,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-08,Togami Shunsuke,Wang Yang,3,0,"11,11,11|5,9,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-12-08,Elizabeta Samara,Ojio Haruna,3,2,"6,7,11,11,13|11,11,7,7,11",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-12-08,Hamamoto Yui,Maeda Miyu,3,1,"11,9,11,11|6,11,8,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-12-08,Han Ying,Lee Ho ching,3,1,"5,11,11,11|11,7,9,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-12-08,Idesawa Kyoka,Matsudaira Shiho,3,0,"11,11,11|5,6,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-12-08,Kihara Miyuu,Mori Sakura,1,0,11|6,VICTORY,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-12-08,Lee Ho ching/Soo Wai Yam Minnie,Umemura Yuka/Morita Ayane,2,1,"6,11,11|11,9,6",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-12-08,Maeda Miyu/Akae Kaho,Nagasaki Miyu/Zeng Jian,2,0,"11,11|10,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-12-08,Mori Sakura,Kihara Miyuu,3,2,"7,11,11,7,11|11,8,8,11,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-12-08,Nagasaki Miyu,Chen Szu-Yu,3,2,"11,7,11,10,11|10,11,10,11,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-12-27,Han Ying,Lee Ho ching,3,0,"11,11,11|7,7,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-12-27,Han Ying,Matsudaira Shiho,1,0,13|11,VICTORY,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-12-27,Matsudaira Shiho,Morita Ayane,3,1,"5,11,11,11|11,10,8,5",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-12-27,Sawettabut Suthasini,Elizabeta Samara,3,0,"11,11,11|4,6,6",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-12-27,Yang Haeun/Suzuki Rika,Sawettabut Suthasini/Izumo Mikuu,2,1,"10,11,11|11,10,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-28,Cho Daeseong,Chuang Chih Yuan,3,1,"11,10,11,11|9,11,9,2",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-28,Cho Daeseong,Yoshimura Maharu,1,0,11|9,VICTORY,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-28,Joo Sae-Hyuk,Morizono Masataka,3,1,"8,11,11,11|11,5,7,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-28,Morizono Masataka/Machi Asuka,Li Ping/Chen Chien An,2,1,"11,8,11|5,11,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-28,Yoshimura Maharu,Yoshida Masaki,3,1,"11,11,9,11|8,6,11,6",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-12-28,Chen Szu-Yu/Jeon Jihee,Morita Ayane/Umemura Yuka,2,0,"11,11|5,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-12-28,Han Ying,Mori Sakura,3,1,"5,11,11,11|11,8,9,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-12-28,Hayata Hina,Yang Haeun,3,2,"10,4,11,11,11|11,11,8,5,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-12-28,Jeon Jihee,Elizabeta Samara,3,2,"4,10,11,11,11|11,11,4,7,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-29,Cho Daeseong,Harimoto Tomokazu,3,2,"3,10,11,11,11|11,11,9,1,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-29,Hou Yingchao,Machi Asuka,3,1,"11,11,5,11|4,6,11,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-29,Kenta Tazoe/Uda Yukiya,Morizono Masataka/Kohei Sambe,2,1,"11,10,11|9,11,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-29,Liam Pitchford,Yoshimura Maharu,3,2,"11,11,8,10,11|9,8,11,11,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-29,Matsudaira Kenta/Liam Pitchford,Yoshimura Maharu/Arinobu Taimu,2,0,"11,11|8,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-29,Niwa Koki,Morizono Masataka,3,0,"11,11,11|6,6,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-29,Panagiotis Gionis,Chuang Chih Yuan,3,1,"11,11,3,11|7,5,11,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-29,Takuya Jin,Joo Sae-Hyuk,3,2,"11,8,9,11,11|9,11,11,9,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-12-29,Ishikawa Kasumi,Lee Ho ching,3,0,"11,11,11|6,7,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-12-29,Kato Miyu,Doo Hoi Kem,3,1,"11,11,9,11|8,5,11,4",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-12-29,Kihara Miyuu,Kato Miyu,1,0,13|11,VICTORY,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-12-29,Nagasaki Miyu/Kihara Miyuu,Sawettabut Suthasini/Izumo Mikuu,2,0,"11,11|4,6",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-12-29,Sawettabut Suthasini,Hamamoto Yui,3,0,"11,11,11|9,4,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-30,Harimoto Tomokazu,Liam Pitchford,3,2,"8,11,11,10,11|11,8,6,11,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-30,Kenta Tazoe/Uda Yukiya,Takuya Jin/Hirano Yuki,2,1,"11,8,14|8,11,12",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-30,Matsudaira Kenta,Hou Yingchao,3,0,"11,11,11|8,10,3",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-30,Panagiotis Gionis,Niwa Koki,3,0,"11,11,11|6,8,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2019-12-30,Panagiotis Gionis,Harimoto Tomokazu,1,0,11|6,VICTORY,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-12-30,Chen Szu-Yu/Jeon Jihee,Kihara Miyuu/Nagasaki Miyu,2,0,"11,11|4,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-12-30,Hayata Hina,Ishikawa Kasumi,3,2,"10,11,11,8,13|11,10,10,11,11",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-12-30,Jeon Jihee,Doo Hoi Kem,3,1,"11,11,7,11|6,6,11,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2019-12-30,Mori Sakura,Nagasaki Miyu,3,0,"11,11,11|7,7,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-01-24,Han Ying,Jeon Jihee,3,2,"9,7,11,11,11|11,11,3,7,6",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-01-24,Hirano Miu,Yang Haeun,3,0,"11,11,11|5,6,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-01-24,Mori Sakura,Idesawa Kyoka,3,2,"11,10,9,11,11|10,11,11,5,6",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-01-24,Mori Sakura,Han Ying,1,0,11|5,VICTORY,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-01-24,Yang Haeun/Suzuki Rika,Hirano Miu/Maeda Miyu,2,0,"11,11|10,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-01-25,Harimoto Tomokazu,Yoshida Masaki,3,0,"11,11,11|5,10,5",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-01-25,Hirano Yuki,Kizukuri Yuto,3,2,"11,9,6,11,12|10,11,11,6,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-01-25,Hirano Yuki,Yoshimura Maharu,1,0,11|4,VICTORY,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-01-25,Joo Sae-Hyuk/Muramatsu Yuto,Yuki Matsuyama/Takami Masaki,2,0,"11,11|9,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-01-25,Kenta Tazoe/Uda Yukiya,Morizono Masataka/Kohei Sambe,2,0,"11,11|6,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-01-25,Niwa Koki,Morizono Masataka,3,1,"11,11,10,11|5,8,11,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-01-25,Takuya Jin,Joo Sae-Hyuk,3,0,"11,11,11|4,10,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-01-25,Yoshimura Kazuhiro,Mizutani Jun,3,2,"11,11,7,7,12|10,10,11,11,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-01-25,Yoshimura Maharu,Matsudaira Kenta,3,2,"11,9,7,11,15|6,11,11,6,13",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-01-25,Han Ying,Ojio Haruna,3,0,"11,11,11|3,9,6",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-01-25,Hirano Miu,Kihara Miyuu,3,1,"8,11,11,11|11,5,3,3",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-01-25,Hirano Miu/Maeda Miyu,Kihara Miyuu/Ishikawa Rira,2,0,"11,11|3,5",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-01-25,Idesawa Kyoka,Soma Yumeno,3,1,"11,11,4,11|9,9,11,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-01-25,Mori Sakura,Morizono Mizuki,3,1,"6,11,11,11|11,5,7,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-01-25,Nagasaki Miyu,Jeon Jihee,3,2,"9,11,11,6,11|11,8,7,11,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-01-25,Yang Haeun,Matsudaira Shiho,3,0,"11,11,11|10,5,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-01-25,Yang Haeun/Suzuki Rika,Matsudaira Shiho/Izumo Mikuu,2,0,"11,11|5,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-01-26,Harimoto Tomokazu,Joo Sae-Hyuk,3,0,"11,11,11|8,10,5",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-01-26,Kizukuri Yuto,Mizutani Jun,3,0,"11,11,11|7,8,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-01-26,Kizukuri Yuto/Yoshimura Maharu,Mizutani Jun/Oshima Yuya,2,1,"10,11,12|11,10,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-01-26,Morizono Masataka,Truls Moregardh,3,2,"11,10,7,11,12|8,11,11,10,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-01-26,Muramatsu Yuto,Niwa Koki,3,2,"8,8,11,11,11|11,11,8,6,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-01-26,Yoshimura Kazuhiro,Matsudaira Kenta,3,2,"11,3,11,6,13|6,11,9,11,11",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-01-26,Yuki Matsuyama/Takami Masaki,Morizono Masataka/Kohei Sambe,2,1,"6,11,11|11,10,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-01-26,Yoshida Masaki,Takuya Jin,3,2,"6,9,11,11,11|11,11,8,6,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-01-26,Izumo Mikuu,Morizono Mizuki,3,2,"11,3,5,11,11|5,11,11,7,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-01-26,Kihara Miyuu,Ojio Haruna,3,0,"11,11,11|7,5,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-01-26,Kihara Miyuu/Ishikawa Rira,Izumo Mikuu/Soma Yumeno,2,0,"11,11|3,6",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-01-26,Nagasaki Miyu,Sawettabut Suthasini,3,2,"11,7,6,11,11|4,11,11,10,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-01,Li Ping/Yoshimura Maharu,Liam Pitchford/Hirano Yuki,2,1,"11,9,12|8,11,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-01,Matsudaira Kenta,Muramatsu Yuto,3,2,"8,11,8,11,12|11,6,11,5,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-01,Takuya Jin,Joo Sae-Hyuk,3,0,"11,11,11|10,6,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-01,Takuya Jin,Li Ping,1,0,11|5,VICTORY,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-01,Yoshimura Maharu,Hirano Yuki,3,2,"11,11,8,7,11|9,4,11,11,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-01,Izumo Mikuu,Maeda Miyu,3,1,"11,10,11,11|9,11,7,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-01,Jeon Jihee,Ojio Haruna,3,1,"8,11,11,11|11,10,4,4",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-01,Kihara Miyuu,Yang Haeun,3,1,"11,11,6,11|6,3,11,1",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-01,Maeda Miyu/Akae Kaho,Izumo Mikuu/Soma Yumeno,2,0,"11,11|2,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-01,Mori Sakura,Sawettabut Suthasini,3,1,"11,11,9,11|7,4,11,6",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-01,Morita Ayane,Hamamoto Yui,3,1,"11,11,6,11|5,9,11,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-01,Nagasaki Miyu,Idesawa Kyoka,3,2,"6,11,10,11,12|11,9,11,7,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-01,Nagasaki Miyu,Morita Ayane,1,0,11|4,VICTORY,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-01,Yang Haeun/Suzuki Rika,Kihara Miyuu/Morizono Mizuki,2,0,"11,11|6,2",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-02,Hou Yingchao,Yoshimura Maharu,3,0,"11,11,11|6,9,5",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-02,Kenta Tazoe/Uda Yukiya,Muramatsu Yuto/Joo Sae-Hyuk,2,1,"11,5,11|8,11,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-02,Oshima Yuya,Li Ping,3,2,"11,2,11,10,12|6,11,5,11,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-02,Uda Yukiya,Joo Sae-Hyuk,3,0,"11,11,11|10,7,4",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-02,Idesawa Kyoka,Akae Kaho,3,2,"7,11,11,8,12|11,8,8,11,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-02,Kihara Miyuu,Sawettabut Suthasini,3,0,"11,11,11|9,7,5",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-02,Mori Sakura,Morita Ayane,3,1,"8,11,11,11|11,9,2,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-02,Morizono Mizuki,Soma Yumeno,3,0,"11,11,11|10,8,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-02,Nagasaki Miyu,Ojio Haruna,1,0,11|9,VICTORY,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-02,Ojio Haruna,Nagasaki Miyu,3,2,"11,8,11,6,11|8,11,8,11,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-02,Sawettabut Suthasini/Izumo Mikuu,Kihara Miyuu/Hamamoto Yui,2,1,"10,11,11|11,5,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-02,Yang Haeun,Jeon Jihee,3,2,"11,11,7,6,11|9,10,11,11,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-02,Yang Haeun/Suzuki Rika,Jeon Jihee/Yu Mengyu,2,1,"11,8,12|10,11,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-08,Arinobu Taimu,Mizutani Jun,3,1,"1,11,11,11|11,8,9,6",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-08,Chuang Chih Yuan,Harimoto Tomokazu,3,2,"3,3,11,11,11|11,11,9,10,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-08,Kizukuri Yuto,Niwa Koki,3,2,"11,11,7,9,11|9,8,11,11,6",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-08,Morizono Masataka,Wong Chun Ting,3,0,"11,11,11|6,2,2",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-08,Morizono Masataka/Machi Asuka,Wong Chun Ting/Matsudaira Kenta,2,0,"11,11|5,5",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-08,Takuya Jin,Yoshida Masaki,3,0,"11,11,11|9,4,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-08,Truls Moregardh,Kohei Sambe,3,0,"11,11,11|8,9,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-08,Yoshimura Maharu/Kizukuri Yuto,Kenta Tazoe/Uda Yukiya,2,1,"8,11,11|11,4,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-08,Yoshida Masaki,Hirano Yuki,1,0,11|3,VICTORY,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-08,Chen Szu-Yu,Lin Ye,3,1,"11,11,5,11|9,10,11,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-08,Feng Tienwei,Doo Hoi Kem,3,0,"11,11,11|3,9,6",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-08,Hirano Miu/Maeda Miyu,Yang Haeun/Suzuki Rika,2,1,"11,8,11|6,11,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-08,Ishikawa Kasumi,Soo Wai Yam Minnie,3,0,"11,11,11|9,6,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-08,Ishikawa Kasumi,Feng Tienwei,1,0,11|7,VICTORY,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-08,Jeon Jihee,Idesawa Kyoka,3,0,"11,11,11|7,6,4",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-08,Kato Miyu,Kihara Miyuu,3,0,"11,11,11|10,5,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-08,Nagasaki Miyu/Kihara Miyuu,Lee Ho ching/Huang Yu-Wen,2,1,"11,6,11|6,11,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-08,Yu Mengyu,Yang Haeun,3,2,"11,2,9,11,11|7,11,11,9,6",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-09,Chuang Chih Yuan,Yoshida Masaki,3,1,"9,11,11,11|11,9,10,3",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-09,Harimoto Tomokazu,Matsudaira Kenta,4,1,"11,2,11,11,11|5,11,9,7,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-09,Joo Sae-Hyuk,Morizono Masataka,3,1,"6,11,11,11|11,8,6,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-09,Morizono Masataka/Machi Asuka,Yoshimura Maharu/Kizukuri Yuto,2,0,"11,11|5,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-09,Niwa Koki,Truls Moregardh,3,0,"11,11,11|7,9,6",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-09,Takuya Jin,Mizutani Jun,3,2,"11,7,10,11,11|9,11,11,5,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-09,Wong Chun Ting/Takuya Jin,Uda Yukiya/Kenta Tazoe,2,0,"11,11|9,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-09,Yoshimura Maharu,Kohei Sambe,3,0,"11,11,11|2,10,6",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-09,Chen Szu-Yu/Jeon Jihee,Lee Ho ching/Huang Yu-Wen,2,0,"11,11|3,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-09,Doo Hoi Kem,Idesawa Kyoka,3,0,"11,11,11|3,7,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-09,Hirano Miu,Feng Tienwei,3,2,"9,5,11,11,12|11,11,3,2,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-09,Ishikawa Kasumi,Lin Ye,3,0,"11,11,11|7,7,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-09,Jeon Jihee,Soo Wai Yam Minnie,3,2,"11,11,9,10,11|8,8,11,11,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-09,Kihara Miyuu,Yang Haeun,3,1,"9,11,11,11|11,5,8,5",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-09,Nagasaki Miyu/Kihara Miyuu,Yang Haeun/Suzuki Rika,2,1,"11,7,11|5,11,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-09,Yu Mengyu,Ojio Haruna,3,1,"11,11,3,11|7,8,11,6",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-11,Harimoto Tomokazu,Machi Asuka,3,0,"11,11,11|8,10,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-11,Matsudaira Kenta,Kizukuri Yuto,3,2,"6,11,10,11,13|11,10,11,10,11",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-11,Mizutani Jun,Kohei Sambe,3,1,"11,10,11,11|7,11,8,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-11,Niwa Koki/Kenta Tazoe,Machi Asuka/Kashiwa Takeru,2,0,"11,11|8,2",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-11,Takuya Jin,Joo Sae-Hyuk,3,1,"11,8,11,11|9,11,6,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-11,Wong Chun Ting/Takuya Jin,Yoshimura Maharu/Li Ping,2,1,"8,11,11|11,4,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-11,Yoshimura Maharu,Liam Pitchford,3,1,"11,9,11,11|9,11,5,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-11,Yoshida Masaki,Niwa Koki,3,1,"4,11,11,11|11,10,5,6",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-11,Feng Tienwei,Lin Ye,3,2,"8,11,11,8,13|11,8,6,11,11",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-11,Ishikawa Kasumi,Chen Szu-Yu,3,0,"11,11,11|7,9,5",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-11,Ishikawa Kasumi,Mori Sakura,1,0,11|4,VICTORY,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-11,Lee Ho ching,Morita Ayane,3,2,"10,11,9,11,11|11,1,11,8,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-11,Lee Ho ching/Huang Yu-Wen,Morizono Misaki/Suzuki Rika,2,0,"11,11|6,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-11,Mori Sakura,Nagasaki Miyu,3,1,"8,11,11,11|11,7,9,3",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-11,Nagasaki Miyu/Kihara Miyuu,Yu Mengyu/Minagawa Yuka,2,1,"11,7,13|9,11,11",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-11,Ojio Haruna,Idesawa Kyoka,3,1,"4,11,11,11|11,8,0,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-11,Yu Mengyu,Doo Hoi Kem,3,0,"11,11,11|10,7,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-14,Feng Tienwei,Minagawa Yuka,3,0,"11,11,11|4,5,4",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-14,Feng Tienwei,Yu Mengyu,1,0,11|4,VICTORY,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-14,Lee Ho ching/Huang Yu-Wen,Maeda Miyu/Akae Kaho,2,1,"8,11,11|11,7,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-14,Mori Sakura,Ojio Haruna,3,1,"11,11,9,11|4,5,11,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-14,Yu Mengyu,Lee Ho ching,3,0,"11,11,11|6,10,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-15,Chuang Chih Yuan,Machi Asuka,3,1,"9,11,11,11|11,9,5,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-15,Machi Asuka/Kohei Sambe,Yoshimura Maharu/Kizukuri Yuto,2,0,"11,11|10,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-15,Mizutani Jun,Matsudaira Kenta,3,2,"11,2,6,11,11|9,11,11,9,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-15,Niwa Koki,Liam Pitchford,3,0,"11,11,11|10,10,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-15,Niwa Koki/Kenta Tazoe,Wong Chun Ting/Takuya Jin,2,0,"11,11|6,4",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-15,Takuya Jin,Hou Yingchao,3,0,"11,11,11|5,8,2",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-15,Yoshimura Kazuhiro,Joo Sae-Hyuk,3,1,"11,11,9,11|10,7,11,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-15,Yoshida Masaki,Yoshimura Maharu,3,2,"9,10,11,11,11|11,11,1,6,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-15,Akae Kaho,Morizono Misaki,3,0,"11,11,11|3,10,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-15,Feng Tienwei,Doo Hoi Kem,3,0,"11,11,11|4,7,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-15,Feng Tienwei,Nagasaki Miyu,1,0,11|6,VICTORY,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-15,Kihara Miyuu,Lee Ho ching,3,0,"11,11,11|5,9,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-15,Lee Ho ching/Huang Yu-Wen,Nagasaki Miyu/Kihara Miyuu,2,0,"11,11|9,7",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-15,Lin Ye,Yu Mengyu,3,1,"11,3,11,11|7,11,9,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-15,Mori Sakura,Morita Ayane,3,0,"11,11,11|9,3,4",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-15,Mori Sakura/Maeda Miyu,Morita Ayane/Umemura Yuka,2,0,"11,11|6,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-15,Morizono Mizuki,Ojio Haruna,3,0,"11,11,11|9,10,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-16,Arinobu Taimu,Liam Pitchford,3,2,"4,11,11,6,12|11,6,9,11,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-16,Chuang Chih Yuan,Matsudaira Kenta,1,0,11|7,VICTORY,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-16,Matsudaira Kenta,Chuang Chih Yuan,3,2,"9,11,6,11,12|11,10,11,5,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-16,Niwa Koki,Kohei Sambe,3,0,"11,11,11|6,9,4",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-16,Niwa Koki/Kenta Tazoe,Machi Asuka/Kohei Sambe,2,0,"11,11|9,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-16,Oshima Yuya,Yoshimura Kazuhiro,3,2,"6,11,11,9,11|11,5,6,11,9",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-16,Wong Chun Ting/Takuya Jin,Li Ping/Yoshimura Maharu,2,0,"11,11|10,6",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-16,Yoshimura Maharu,Takuya Jin,3,0,"11,11,11|3,8,4",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Men's,2020-02-16,Yoshida Masaki,Hou Yingchao,3,0,"11,11,11|8,9,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-16,Idesawa Kyoka,Nagasaki Miyu,3,2,"11,11,7,9,11|10,9,11,11,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-16,Lin Ye,Doo Hoi Kem,3,0,"11,11,11|4,10,10",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-16,Morizono Misaki,Kihara Miyuu,3,1,"11,4,11,11|10,11,7,8",GROUP,JP_T_LEAGUE
+2019/20 Japan T.League Women's,2020-02-16,Suzuki Rika/Morita Ayane,Nagasaki Miyu/Morizono Mizuki,2,0,"11,11|8,6",GROUP,JP_T_LEAGUE

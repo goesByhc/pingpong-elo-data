@@ -1,0 +1,416 @@
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier
+2021/22 Japan T.League Men's,2021-09-09,Kizukuri Yuto/Hirano Yuki,Yoshida Masaki/Kenta Tazoe,2,0,"11,11|9,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-09-09,Oikawa Mizuki,Muramatsu Yuto,3,0,"11,11,11|2,7,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-09-09,Oshima Yuya,Kizukuri Yuto,3,1,"9,11,11,11|11,6,9,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-09-09,Oshima Yuya,Uda Yukiya,1,0,15|13,VICTORY,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-09-09,Uda Yukiya,Yoshida Masaki,3,2,"11,7,10,11,11|4,11,11,9,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-10,Hashimoto Honoka,Nagasaki Miyu,3,0,"11,11,11|10,7,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-10,Hayata Hina,Yokoi Sakura,3,1,"11,6,11,11|9,11,4,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-10,Mori Sakura/Nagasaki Miyu,Sato Hitomi/Hashimoto Honoka,2,1,"11,8,13|5,11,11",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-10,Sasao Asuka,Idesawa Kyoka,3,1,"11,11,9,11|10,10,11,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-09-11,Matsudaira Kenta,Yoshimura Kazuhiro,3,1,"10,11,11,11|11,10,6,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-09-11,Morizono Masataka,Aida Satoshi,3,0,"11,11,11|8,7,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-09-11,Morizono Masataka/Machi Asuka,Ueda Jin/Sone Kakeru,2,1,"11,8,11|9,11,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-09-11,Niwa Koki,Ryuzaki Tonin,3,1,"11,11,10,11|6,3,11,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-09-11,Yoshimura Kazuhiro,Ueda Jin,1,0,11|6,VICTORY,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-11,Feng Tienwei,Kihara Miyuu,3,2,"4,4,11,11,11|11,11,5,8,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-11,Namba Yurika,Hamamoto Yui,3,1,"11,10,11,11|8,11,10,5",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-11,Shibata Saki,Harimoto Miwa,3,1,"11,8,11,11|7,11,9,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-11,Shibata Saki/Odo Satsuki,Harimoto Miwa/Makino Mirei,2,0,"11,11|3,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-13,Ando Minami,Hayata Hina,3,0,"11,11,11|7,7,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-13,Han Ying,Mori Sakura,3,1,"11,11,6,11|8,6,11,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-13,Hayata Hina,Han Ying,1,0,11|4,VICTORY,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-13,Mori Sakura/Nagasaki Miyu,Suzuki Rika/Ando Minami,2,1,"11,8,11|7,11,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-13,Sasao Asuka,Sugita Haruna,3,0,"11,11,11|7,5,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-14,Harimoto Miwa,Mori Sakura,3,0,"11,11,11|6,6,4",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-14,Hayata Hina,Kihara Miyuu,1,0,11|7,VICTORY,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-14,Kihara Miyuu,Hayata Hina,3,0,"11,11,11|10,7,4",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-14,Mori Sakura/Nagasaki Miyu,Hamamoto Yui/Kimura Kasumi,2,0,"11,11|9,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-14,Sasao Asuka,Kimura Kasumi,3,0,"11,11,11|7,6,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-17,Han Ying,Shan Xiaona,3,0,"11,11,11|7,9,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-17,Kato Miyu,Suzuki Rika,3,1,"6,11,11,11|11,4,7,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-17,Kato Miyu,Suzuki Rika,1,0,11|9,VICTORY,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-17,Okawa Mami,Odo Satsuki,3,0,"11,11,11|9,10,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-17,Shan Xiaona/Nagao Takako,Okada Kotona/Okawa Mami,2,1,"6,11,11|11,4,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-09-18,Oikawa Mizuki,Hibiki Tazoe,3,0,"11,11,11|3,3,3",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-09-18,Oshima Yuya,Morizono Masataka,3,1,"11,8,11,11|10,11,10,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-09-18,Oshima Yuya/Matsushima Sora,Morizono Masataka/Machi Asuka,2,0,"11,11|9,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-09-18,Yoshida Masaki,Ryuzaki Tonin,3,2,"9,11,11,9,11|11,10,7,11,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-18,Kato Miyu,Mori Sakura,3,0,"11,11,11|10,10,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-18,Kato Miyu,Yu Mengyu,1,0,11|7,VICTORY,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-18,Mori Sakura/Aso Reina,Shan Xiaona/Nagao Takako,2,1,"9,11,14|11,6,12",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-18,Odo Satsuki,Shinohara Yura,3,2,"11,10,11,8,11|3,11,8,11,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-18,Yu Mengyu,Feng Tienwei,3,1,"11,9,11,11|6,11,2,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-20,Feng Tienwei/Shan Xiaona,Hashimoto Honoka/Idesawa Kyoka,2,1,"7,11,13|11,7,11",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-20,Hashimoto Honoka,Namba Yurika,3,1,"3,11,11,11|11,1,10,2",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-20,Kato Miyu,Omoda Kotomi,3,0,"11,11,11|3,3,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-20,Yokoi Sakura,Shan Xiaona,3,1,"11,11,6,11|8,10,11,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-20,Yokoi Sakura,Kato Miyu,1,0,11|8,VICTORY,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-09-22,Matsudaira Kenta,Matsushima Sora,3,1,"11,11,6,11|6,5,11,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-09-22,Matsushima Sora/Kenta Tazoe,Ueda Jin/Sone Kakeru,2,1,"5,11,12|11,8,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-09-22,Oikawa Mizuki,Niwa Koki,3,2,"11,11,8,6,12|4,8,11,11,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-09-22,Oikawa Mizuki,Niwa Koki,1,0,11|9,VICTORY,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-09-22,Ueda Jin,Yoshida Masaki,3,2,"8,11,6,11,15|11,8,11,6,13",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-09-23,Aida Satoshi,Yoshiyama Ryoichi,3,1,"11,11,8,11|8,8,11,5",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-09-23,Arinobu Taimu,Kenta Tazoe,3,0,"11,11,11|10,3,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-09-23,Matsudaira Kenta,Morizono Masataka,3,2,"9,11,11,5,11|11,5,5,11,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-09-23,Matsushima Sora,Yuki Matsuyama,3,0,"11,11,11|9,8,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-09-23,Morizono Masataka/Machi Asuka,Ueda Jin/Sone Kakeru,2,0,"11,11|8,4",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-09-23,Niwa Koki,Ryuzaki Tonin,3,0,"11,11,11|7,6,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-09-23,Oikawa Mizuki,Yoshimura Maharu,3,1,"6,11,11,11|11,10,9,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-09-23,Oikawa Mizuki,Arinobu Taimu,1,0,11|5,VICTORY,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-09-23,Takami Masaki/Yuki Matsuyama,Mizutani Jun/Kenta Tazoe,2,0,"11,11|7,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-23,Harimoto Miwa,Han Ying,3,0,"11,11,11|10,6,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-23,Kihara Miyuu,Suzuki Rika,3,0,"11,11,11|7,10,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-23,Kihara Miyuu,Han Ying,1,0,12|10,VICTORY,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-23,Okada Kotona/Okawa Mami,Mimura Yuka/Kimura Kasumi,2,0,"11,11|9,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-09-23,Okawa Mami,Kimura Kasumi,3,1,"5,11,11,11|11,7,9,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-09-25,Matsushima Sora/Oshima Yuya,Morizono Masataka/Machi Asuka,2,1,"10,11,11|11,10,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-09-25,Morizono Masataka,Oshima Yuya,3,2,"11,8,11,8,11|3,11,9,11,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-09-25,Oikawa Mizuki,Yoshiyama Ryoichi,3,0,"11,11,11|6,7,4",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-09-25,Yoshida Masaki,Hibiki Tazoe,3,2,"6,11,10,11,11|11,5,11,8,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-09-26,Aida Satoshi,Ryuzaki Tonin,3,0,"11,11,11|10,6,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-09-26,Matsudaira Kenta,Morizono Masataka,3,1,"4,11,11,11|11,9,10,5",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-09-26,Morizono Masataka/Machi Asuka,Ueda Jin/Niwa Koki,2,1,"11,7,11|4,11,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-09-26,Niwa Koki,Hibiki Tazoe,3,0,"11,11,11|10,7,5",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-09,Hibiki Tazoe/Morizono Masataka,Matsushima Sora/Oshima Yuya,2,1,"11,6,15|9,11,13",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-09,Oikawa Mizuki,Tanigaki Yuma,3,0,"11,11,11|6,9,5",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-09,Oshima Yuya,Morizono Masataka,3,2,"11,10,9,11,13|10,11,11,8,11",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-09,Yoshida Masaki,Ryuzaki Tonin,3,0,"11,11,11|9,7,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-09,Feng Tienwei/Shan Xiaona,Hashimoto Honoka/Shiomi Maki,2,0,"11,11|6,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-09,Hashimoto Honoka,Kato Miyu,3,2,"4,9,11,11,11|11,11,8,10,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-09,Ishikawa Kasumi,Han Ying,3,0,"11,11,11|7,3,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-09,Kihara Miyuu,Suzuki Rika,3,1,"10,11,11,11|11,8,9,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-09,Kihara Miyuu,Suzuki Rika,1,0,11|9,VICTORY,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-09,Odo Satsuki,Yokoi Sakura,3,2,"10,11,11,9,11|11,4,6,11,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-09,Ojio Haruna,Idesawa Kyoka,3,0,"11,11,11|7,8,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-09,Sugita Haruna,Harimoto Miwa,3,2,"11,11,8,7,11|9,9,11,11,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-09,Tsuruoka Natsuki/Edahiro Hitomi,Mimura Yuka/Hamamoto Yui,2,0,"11,11|8,5",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-10,Oikawa Mizuki,Arinobu Taimu,3,0,"11,11,11|9,5,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-10,Oshima Yuya,Hirano Yuki,3,0,"11,11,11|7,9,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-10,Oshima Yuya/Matsushima Sora,Hirano Yuki/Miyagawa Shodai,2,1,"9,11,17|11,10,15",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-10,Yoshimura Maharu,Yoshida Masaki,3,2,"11,11,9,7,11|10,10,11,11,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-10,Feng Tienwei/Shan Xiaona,Mori Sakura/Aso Reina,2,1,"11,4,11|2,11,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-10,Hashimoto Honoka,Ishikawa Kasumi,3,1,"11,9,11,11|4,11,9,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-10,Hashimoto Honoka/Shiomi Maki,Kimura Kasumi/Hamamoto Yui,2,0,"11,11|9,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-10,Idesawa Kyoka,Harimoto Miwa,3,2,"9,11,11,9,11|11,9,5,11,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-10,Kihara Miyuu,Yokoi Sakura,3,0,"11,11,11|7,6,4",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-10,Mori Sakura,Kato Miyu,3,2,"10,11,10,11,11|11,6,11,8,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-10,Odo Satsuki,Sasao Asuka,3,1,"11,10,11,11|6,11,10,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-10,Odo Satsuki,Yu Mengyu,1,0,11|5,VICTORY,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-10,Yu Mengyu,Feng Tienwei,3,2,"11,5,11,10,11|6,11,6,11,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-15,Morizono Masataka,Arinobu Taimu,3,1,"5,11,11,11|11,8,5,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-15,Morizono Masataka/Machi Asuka,Takami Masaki/Miyamoto Haruki,2,0,"11,11|10,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-15,Ryuzaki Tonin,Takami Masaki,3,2,"5,11,8,11,11|11,9,11,9,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-15,Yoshimura Maharu,Hibiki Tazoe,3,0,"11,11,11|7,7,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-15,Han Ying,Kihara Miyuu,1,0,17|15,VICTORY,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-15,Kihara Miyuu,Han Ying,3,1,"11,9,11,11|7,11,10,3",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-15,Okada Kotona,Hamamoto Yui,3,1,"11,11,7,11|8,4,11,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-15,Okada Kotona/Okawa Mami,Umemura Yuka/Kimura Kasumi,2,0,"11,11|6,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-15,Umemura Yuka,Ojio Yuuna,3,0,"11,11,11|8,9,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-16,Aida Satoshi,Takami Masaki,3,1,"11,11,8,11|6,6,11,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-16,Arinobu Taimu,Niwa Koki,3,1,"11,5,11,11|5,11,6,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-16,Takami Masaki/Mawatari Motoki,Ueda Jin/Matsudaira Kenta,2,1,"9,11,11|11,7,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-16,Yoshimura Maharu,Matsudaira Kenta,3,1,"11,3,11,11|7,11,9,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-16,Feng Tienwei/Shan Xiaona,Hashimoto Honoka/Shiomi Maki,2,0,"11,11|5,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-16,Hirano Miu,Han Ying,3,1,"11,9,11,11|5,11,10,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-16,Idesawa Kyoka,Shan Xiaona,3,1,"11,11,10,11|2,10,11,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-16,Mori Sakura,Ojio Yuuna,3,0,"11,11,11|5,9,4",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-16,Mori Sakura/Aso Reina,Okada Kotona/Okawa Mami,2,0,"11,11|10,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-16,Namba Yurika,Hashimoto Honoka,3,2,"11,10,5,11,11|10,11,11,5,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-16,Odo Satsuki,Yokoi Sakura,3,1,"9,11,11,11|11,6,9,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-16,Okada Kotona,Yu Mengyu,3,1,"11,11,6,11|4,10,11,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-17,Arinobu Taimu,Harimoto Tomokazu,3,2,"8,11,11,5,14|11,10,10,11,12",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-17,Harimoto Tomokazu,Yoshimura Maharu,1,0,12|10,VICTORY,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-17,Kenta Tazoe/Koriyama Hokuto,Arinobu Taimu/Takami Masaki,2,1,"11,8,11|5,11,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-17,Oikawa Mizuki,Mawatari Motoki,3,0,"11,11,11|9,8,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-17,Yoshimura Maharu,Oshima Yuya,3,2,"11,7,11,8,11|5,11,7,11,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-17,Hashimoto Honoka,Harimoto Miwa,3,1,"11,10,11,11|3,11,5,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-17,Kihara Miyuu,Idesawa Kyoka,3,1,"11,11,9,11|10,4,11,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-17,Sato Hitomi/Hashimoto Honoka,Umemura Yuka/Kimura Kasumi,2,0,"11,11|8,4",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-17,Yokoi Sakura,Kimura Kasumi,3,0,"11,11,11|9,2,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-22,Morizono Masataka,Yoshimura Maharu,3,1,"11,7,11,11|10,11,8,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-22,Morizono Masataka/Machi Asuka,Arinobu Taimu/Hirano Yuki,2,1,"6,11,13|11,9,11",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-22,Tanigaki Yuma,Uda Yukiya,3,0,"11,11,11|7,8,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-22,Togami Shunsuke,Ryuzaki Tonin,3,0,"11,11,11|9,7,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-22,Ando Minami,Yokoi Sakura,3,1,"11,8,11,11|5,11,3,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-22,Hashimoto Honoka,Okawa Mami,3,0,"11,11,11|5,5,4",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-22,Idesawa Kyoka,Han Ying,3,1,"11,8,11,11|5,11,9,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-22,Sato Hitomi/Hashimoto Honoka,Okada Kotona/Okawa Mami,2,0,"11,11|8,4",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-23,Aida Satoshi,Matsushima Sora,3,0,"11,11,11|4,5,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-23,Harimoto Tomokazu,Niwa Koki,3,0,"11,11,11|10,8,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-23,Kizukuri Yuto/Hirano Yuki,Hibiki Tazoe/Morizono Masataka,2,0,"11,11|7,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-23,Morizono Masataka,Kizukuri Yuto,3,1,"2,11,11,11|11,6,10,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-23,Oikawa Mizuki,Matsudaira Kenta,3,1,"11,11,10,11|8,9,11,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-23,Oikawa Mizuki,Aida Satoshi,1,0,11|8,VICTORY,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-23,Takuya Jin/Shinozuka Hiroto,Mizutani Jun/Harimoto Tomokazu,2,1,"11,8,11|8,11,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-23,Togami Shunsuke,Tanigaki Yuma,3,2,"8,11,5,11,15|11,7,11,9,13",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-23,Uda Yukiya,Ryuzaki Tonin,3,0,"11,11,11|8,10,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-23,Ando Minami,Yokoi Sakura,3,0,"11,11,11|10,6,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-23,Feng Tienwei/Shan Xiaona,Mimura Yuka/Kimura Kasumi,2,0,"11,11|6,4",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-23,Han Ying,Idesawa Kyoka,3,2,"8,11,11,7,11|11,10,9,11,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-23,Kimura Kasumi,Feng Tienwei,3,2,"11,11,8,7,11|8,4,11,11,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-23,Odo Satsuki,Tanioka Ayuka,3,0,"11,11,11|2,4,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-23,Shibata Saki,Kihara Miyuu,3,2,"11,4,4,11,16|7,11,11,6,14",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-23,Shiomi Maki/Idesawa Kyoka,Okada Kotona/Okawa Mami,2,1,"9,11,11|11,7,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-23,Sugita Haruna,Omoda Kotomi,3,2,"3,7,11,11,11|11,11,10,10,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-24,Harimoto Tomokazu,Niwa Koki,3,0,"11,11,11|9,9,2",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-24,Mizutani Jun/Harimoto Tomokazu,Ueda Jin/Shinozuka Hiroto,2,0,"11,11|8,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-24,Oikawa Mizuki,Aida Satoshi,3,0,"11,11,11|8,9,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-10-24,Shinozuka Hiroto,Oshima Yuya,3,0,"11,11,11|10,9,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-24,Feng Tienwei,Kihara Miyuu,3,2,"8,11,8,11,11|11,10,11,5,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-24,Feng Tienwei/Shan Xiaona,Mimura Yuka/Kimura Kasumi,2,1,"5,11,11|11,6,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-24,Odo Satsuki,Tanioka Ayuka,3,0,"11,11,11|2,10,5",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-10-24,Shibata Saki,Kimura Kasumi,3,1,"11,11,7,11|6,4,11,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-12-12,Hao Shuai,Oshima Yuya,3,2,"11,11,7,9,11|10,10,11,11,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-12-12,Kenta Tazoe/Koriyama Hokuto,Hao Shuai/Machi Asuka,2,1,"7,11,11|11,9,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-12-12,Oikawa Mizuki,Ryuzaki Tonin,3,0,"11,11,11|7,10,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-12-12,Oikawa Mizuki,Yoshimura Kazuhiro,1,0,11|8,VICTORY,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-12-12,Yoshimura Kazuhiro,Yoshida Masaki,3,1,"11,11,8,11|6,8,11,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-12-20,Aida Satoshi,Arinobu Taimu,3,0,"11,11,11|8,5,4",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-12-20,Matsudaira Kenta,Kizukuri Yuto,3,2,"5,11,11,7,12|11,6,10,11,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-12-20,Sone Kakeru,Togami Shunsuke,3,1,"10,11,11,11|11,8,9,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-12-20,Ueda Jin/Matsudaira Kenta,Kizukuri Yuto/Hirano Yuki,2,1,"6,11,13|11,6,11",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-12-20,Ando Minami,Omoda Kotomi,3,2,"11,9,3,11,11|6,11,11,5,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-12-20,Hashimoto Honoka,Elizabeta Samara,3,0,"11,11,11|6,8,5",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-12-20,Okada Kotona/Okawa Mami,Hashimoto Honoka/Shiomi Maki,2,1,"11,7,12|8,11,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-12-20,Suzuki Rika,Yokoi Sakura,3,1,"11,5,11,11|7,11,8,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-12-21,Oikawa Mizuki,Togami Shunsuke,3,2,"11,10,11,3,14|6,11,8,11,12",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-12-21,Oshima Yuya,Kizukuri Yuto,3,2,"11,2,11,10,11|9,11,6,11,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-12-21,Oshima Yuya/Kenta Tazoe,Kizukuri Yuto/Hirano Yuki,2,1,"7,11,13|11,8,11",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-12-21,Yoshida Masaki,Arinobu Taimu,3,0,"11,11,11|9,9,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-12-21,Kimura Kasumi,Sasao Asuka,3,1,"11,7,11,11|6,11,10,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-12-21,Kimura Kasumi/Umemura Yuka,Nagasaki Miyu/Akae Kaho,2,0,"11,11|9,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-12-21,Mori Sakura,Tanioka Ayuka,3,0,"11,11,11|10,8,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-12-21,Mori Sakura,Umemura Yuka,1,0,12|10,VICTORY,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-12-21,Nagasaki Miyu,Hamamoto Yui,3,0,"11,11,11|4,10,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-12-24,Hao Shuai,Hirano Yuki,3,0,"11,11,11|8,7,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-12-24,Hao Shuai,Muramatsu Yuto,1,0,16|14,VICTORY,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-12-24,Kizukuri Yuto/Togami Shunsuke,Morizono Masataka/Machi Asuka,2,1,"11,9,13|9,11,11",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-12-24,Togami Shunsuke,Morizono Masataka,3,0,"11,11,11|9,8,2",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-12-24,Yoshimura Kazuhiro,Muramatsu Yuto,3,2,"7,10,11,11,11|11,11,3,1,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-12-25,Hao Shuai,Arinobu Taimu,3,1,"11,11,4,11|10,5,11,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-12-25,Hao Shuai,Kizukuri Yuto,1,0,11|7,VICTORY,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-12-25,Kizukuri Yuto/Togami Shunsuke,Morizono Masataka/Machi Asuka,2,0,"11,11|5,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-12-25,Niwa Koki/Matsudaira Kenta,Oshima Yuya/Kenta Tazoe,2,0,"11,11|6,4",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-12-25,Oshima Yuya,Matsudaira Kenta,3,1,"11,9,11,11|8,11,9,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-12-25,Sone Kakeru,Oikawa Mizuki,3,1,"11,11,8,11|8,4,11,4",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-12-25,Sone Kakeru,Yoshida Masaki,1,0,11|8,VICTORY,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-12-25,Togami Shunsuke,Morizono Masataka,3,1,"11,11,10,11|2,6,11,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-12-25,Yoshimura Kazuhiro,Hirano Yuki,3,1,"11,11,8,11|9,9,11,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-12-25,Yoshida Masaki,Ueda Jin,3,2,"11,5,11,9,11|10,11,1,11,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-12-25,Ando Minami,Yu Mengyu,3,0,"11,11,11|7,5,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-12-25,Ando Minami,Mori Sakura,1,0,11|9,VICTORY,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-12-25,Elizabeta Samara,Sasao Asuka,3,0,"11,11,11|5,10,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-12-25,Hashimoto Honoka,Namba Yurika,3,0,"11,11,11|9,10,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-12-25,Mori Sakura/Nagasaki Miyu,Okada Kotona/Okawa Mami,2,1,"8,11,11|11,8,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-12-25,Nagasaki Miyu,Han Ying,3,2,"11,6,10,11,11|9,11,11,10,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-12-25,Sato Hitomi/Hashimoto Honoka,Shibata Saki/Odo Satsuki,2,0,"11,11|8,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-12-25,Shibata Saki,Idesawa Kyoka,3,1,"11,11,5,11|5,8,11,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-12-25,Yokoi Sakura,Kato Miyu,3,2,"8,5,11,11,11|11,11,7,6,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-12-26,Hao Shuai,Aida Satoshi,3,1,"10,11,11,11|11,7,6,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-12-26,Morizono Masataka/Machi Asuka,Niwa Koki/Matsudaira Kenta,2,1,"11,10,11|7,11,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-12-26,Niwa Koki,Morizono Masataka,3,1,"11,4,11,11|10,11,7,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-12-26,Sone Kakeru,Yoshimura Kazuhiro,3,1,"9,11,11,11|11,10,9,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2021-12-26,Sone Kakeru,Hao Shuai,1,0,11|7,VICTORY,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-12-26,Kihara Miyuu,Hashimoto Honoka,3,2,"11,7,6,11,13|8,11,11,8,11",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-12-26,Kimura Kasumi,Idesawa Kyoka,3,0,"11,11,11|10,8,2",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-12-26,Sato Hitomi,Harimoto Miwa,1,0,11|7,VICTORY,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-12-26,Sato Hitomi/Hashimoto Honoka,Kihara Miyuu/Umemura Yuka,2,0,"11,11|10,5",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-12-26,Yokoi Sakura,Harimoto Miwa,3,2,"11,9,8,11,11|7,11,11,2,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-12-27,Hayata Hina,Ando Minami,3,0,"11,11,11|5,6,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-12-27,Hirano Miu,Elizabeta Samara,3,1,"11,11,8,11|9,7,11,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-12-27,Mori Sakura/Nagasaki Miyu,Okada Kotona/Okawa Mami,2,0,"11,11|9,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-12-27,Nagasaki Miyu,Han Ying,3,0,"11,11,11|4,10,4",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-12-28,Hashimoto Honoka,Nagasaki Miyu,3,2,"11,11,10,5,11|10,6,11,11,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-12-28,Hayata Hina,Idesawa Kyoka,3,0,"11,11,11|6,4,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-12-28,Hirano Miu,Yokoi Sakura,3,1,"7,11,11,11|11,5,5,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2021-12-28,Mori Sakura/Nagasaki Miyu,Sato Hitomi/Hashimoto Honoka,2,1,"11,10,11|9,11,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-01-07,Kato Miyu,Hashimoto Honoka,3,2,"11,10,11,8,11|10,11,8,11,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-01-07,Ojio Haruna,Yokoi Sakura,3,2,"9,11,11,4,12|11,7,6,11,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-01-07,Sato Hitomi,Shibata Saki,3,1,"11,11,7,11|10,10,11,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-01-07,Shibata Saki/Odo Satsuki,Sato Hitomi/Shiomi Maki,2,1,"9,11,11|11,6,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-01-08,Hao Shuai,Sone Kakeru,3,1,"11,10,11,11|8,11,6,4",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-01-08,Hao Shuai,Niwa Koki,1,0,11|6,VICTORY,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-01-08,Morizono Masataka,Matsudaira Kenta,3,2,"11,10,9,11,11|8,11,11,8,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-01-08,Niwa Koki,Yoshimura Kazuhiro,3,2,"8,8,11,11,11|11,11,6,6,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-01-08,Shinozuka Hiroto/Sone Kakeru,Tanigaki Yuma/Morizono Masataka,2,0,"11,11|4,4",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-01-08,Ando Minami,Ojio Haruna,3,2,"11,9,11,4,11|6,11,8,11,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-01-08,Kato Miyu,Suzuki Rika,3,0,"11,11,11|7,8,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-01-08,Odo Satsuki,Okawa Mami,3,1,"11,10,11,11|9,11,6,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-01-08,Shibata Saki/Odo Satsuki,Okada Kotona/Okawa Mami,2,0,"11,11|1,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-01-09,Hao Shuai,Oikawa Mizuki,3,0,"11,11,11|4,6,3",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-01-09,Hibiki Tazoe/Morizono Masataka,Kenta Tazoe/Matsushima Sora,2,0,"11,11|9,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-01-09,Morizono Masataka,Yoshida Masaki,3,0,"11,11,11|5,10,3",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-01-09,Yoshimura Kazuhiro,Oshima Yuya,3,2,"11,8,4,11,11|8,11,11,9,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-04,Feng Tienwei/Odo Satsuki,Akae Kaho/Uesawa Anne,2,1,"9,11,11|11,7,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-04,Mori Sakura,Namba Yurika,3,0,"11,11,11|7,8,5",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-04,Odo Satsuki,Hayata Hina,3,1,"11,10,11,11|6,11,10,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-04,Shibata Saki,Sasao Asuka,3,1,"4,11,11,11|11,7,9,4",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-05,Arinobu Taimu/Uda Yukiya,Ueda Jin/Shinozuka Hiroto,2,1,"8,11,11|11,10,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-05,Hamada Kazuki,Niwa Koki,3,1,"11,8,11,11|7,11,5,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-05,Matsudaira Kenta,Yoshimura Maharu,3,2,"11,9,8,11,11|7,11,11,5,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-05,Uda Yukiya,Shinozuka Hiroto,3,2,"5,8,11,11,11|11,11,8,9,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-05,Ando Minami,Yokoi Sakura,3,1,"11,5,11,11|7,11,6,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-05,Edahiro Hitomi,Omoda Kotomi,3,2,"11,11,9,7,14|9,10,11,11,12",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-05,Han Ying,Hashimoto Honoka,1,0,11|8,VICTORY,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-05,Harimoto Miwa,Sasao Asuka,3,1,"11,11,5,11|7,6,11,4",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-05,Hayata Hina,Kimura Kasumi,3,0,"11,11,11|7,5,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-05,Mori Sakura,Mende Rin,3,0,"11,11,11|2,5,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-05,Sasao Asuka/Aso Reina,Harimoto Miwa/Hamamoto Yui,2,0,"11,11|10,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-05,Sato Hitomi,Han Ying,3,1,"11,7,11,11|10,11,8,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-05,Sato Hitomi/Hashimoto Honoka,Ando Minami/Tsuruoka Natsuki,2,0,"11,11|9,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-06,Ando Minami,Namba Yurika,3,1,"9,11,11,11|11,6,10,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-06,Feng Tienwei/Odo Satsuki,Tsuruoka Natsuki/Edahiro Hitomi,2,0,"11,11|6,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-06,Hayata Hina,Yokoi Sakura,3,0,"11,11,11|8,2,5",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-06,Hayata Hina,Hashimoto Honoka,1,0,11|9,VICTORY,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-06,Mori Sakura,Omoda Kotomi,3,1,"10,11,11,11|11,9,7,2",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-06,Odo Satsuki,Tsuruoka Natsuki,3,0,"11,11,11|4,9,4",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-06,Sato Hitomi,Sasao Asuka,3,2,"11,6,9,11,11|7,11,11,8,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-06,Sato Hitomi/Hashimoto Honoka,Akae Kaho/Uesawa Anne,2,0,"11,11|8,2",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-06,Shibata Saki,Han Ying,3,0,"11,11,11|8,6,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-07,Arinobu Taimu/Uda Yukiya,Kenta Tazoe/Fujimura Tomoya,2,0,"11,11|5,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-07,Hamada Kazuki,Suzuki Hayate,3,0,"11,11,11|4,7,4",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-07,Matsushima Sora,Yoshimura Maharu,3,2,"11,11,7,9,11|9,7,11,11,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-07,Uda Yukiya,Noda Sota,3,2,"9,11,7,11,11|11,7,11,3,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-07,Ando Minami,Harimoto Miwa,3,0,"11,11,11|8,6,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-07,Han Ying,Mende Rin,3,1,"11,11,7,11|3,7,11,2",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-07,Harimoto Miwa/Hamamoto Yui,Okada Kotona/Okawa Mami,2,1,"9,11,11|11,10,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-07,Kimura Kasumi,Okawa Mami,3,0,"11,11,11|4,8,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-07,Kimura Kasumi,Ando Minami,1,0,11|8,VICTORY,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-08,Arinobu Taimu/Uda Yukiya,Hibiki Tazoe/Morizono Masataka,2,1,"8,11,13|11,5,11",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-08,Hamada Kazuki,Hao Shuai,1,0,11|7,VICTORY,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-08,Hao Shuai,Yoshimura Maharu,3,1,"10,11,11,11|11,4,7,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-08,Morizono Masataka,Hamada Kazuki,3,0,"11,11,11|7,7,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-08,Uda Yukiya,Tanigaki Yuma,3,2,"8,8,11,11,11|11,11,9,9,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-10,Arinobu Taimu/Uda Yukiya,Shinozuka Hiroto/Sone Kakeru,2,1,"11,7,15|5,11,13",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-10,Uda Yukiya,Matsudaira Kenta,3,0,"11,11,11|9,7,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-10,Ueda Jin,Hamada Kazuki,3,1,"10,11,11,11|11,6,5,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-10,Yoshimura Maharu,Niwa Koki,3,1,"11,11,2,11|8,7,11,5",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-11,Niwa Koki,Matsushima Sora,3,0,"11,11,11|6,7,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-11,Oikawa Mizuki,Matsudaira Kenta,3,2,"9,5,11,11,12|11,11,9,7,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-11,Shinozuka Hiroto/Sone Kakeru,Yoshida Masaki/Matsushima Sora,2,0,"11,11|4,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-11,Sone Kakeru,Harimoto Tomokazu,3,0,"11,11,11|8,10,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-12,Harimoto Tomokazu,Hao Shuai,3,1,"11,9,11,11|0,11,4,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-12,Matsushima Sora,Yoshimura Kazuhiro,3,2,"8,2,11,11,13|11,11,10,9,11",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-12,Morizono Masataka,Oikawa Mizuki,3,1,"10,11,11,11|11,7,6,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-12,Niwa Koki,Hamada Kazuki,3,0,"11,11,11|9,8,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-12,Oshima Yuya/Matsushima Sora,Hibiki Tazoe/Morizono Masataka,2,0,"11,11|7,5",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-12,Shinozuka Hiroto/Sone Kakeru,Arinobu Taimu/Uda Yukiya,2,1,"11,7,11|4,11,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-12,Sone Kakeru,Uda Yukiya,3,2,"11,10,11,9,11|10,11,7,11,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-12,Yoshimura Maharu,Ueda Jin,3,2,"11,11,6,6,11|7,6,11,11,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-12,Ando Minami,Idesawa Kyoka,3,2,"11,11,9,8,11|6,6,11,11,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-12,Han Ying,Sato Hitomi,3,2,"8,7,11,11,12|11,11,7,10,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-12,Harimoto Miwa,Sasao Asuka,3,2,"11,11,9,7,11|7,9,11,11,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-12,Hashimoto Honoka,Ando Minami,1,0,12|10,VICTORY,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-12,Kihara Miyuu,Nagasaki Miyu,3,1,"11,7,11,11|5,11,9,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-12,Mori Sakura,Kimura Kasumi,3,0,"11,11,11|9,9,5",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-12,Nagasaki Miyu,Kihara Miyuu,1,0,11|9,VICTORY,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-12,Sasao Asuka/Aso Reina,Harimoto Miwa/Hamamoto Yui,2,0,"11,11|8,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-12,Sato Hitomi/Hashimoto Honoka,Okada Kotona/Okawa Mami,2,0,"11,11|2,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-12,Yokoi Sakura,Okawa Mami,3,0,"11,11,11|6,9,4",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-13,Harimoto Tomokazu,Shinozuka Hiroto,3,2,"4,9,11,11,11|11,11,7,2,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-13,Niwa Koki,Matsushima Sora,3,1,"6,11,11,11|11,3,10,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-13,Oshima Yuya/Matsushima Sora,Niwa Koki/Matsudaira Kenta,2,0,"11,11|10,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-13,Sone Kakeru,Oikawa Mizuki,3,1,"11,11,7,11|6,6,11,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-13,Sone Kakeru,Harimoto Tomokazu,1,0,11|8,VICTORY,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-13,Ando Minami/Suzuki Rika,Feng Tienwei/Shibata Saki,2,0,"11,11|8,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-13,Aso Reina,Kimura Kasumi,3,1,"7,11,11,11|11,7,5,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-13,Kihara Miyuu,Sasao Asuka,3,0,"11,11,11|8,7,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-13,Mori Sakura/Nagasaki Miyu,Ishikawa Kasumi/Harimoto Miwa,2,1,"11,7,11|9,11,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-13,Nagasaki Miyu,Ishikawa Kasumi,3,2,"8,11,6,11,11|11,10,11,2,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-13,Odo Satsuki,Okawa Mami,3,0,"11,11,11|6,4,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-13,Ojio Haruna,Ando Minami,3,2,"4,4,11,11,11|11,11,5,7,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-13,Shibata Saki,Han Ying,3,1,"11,11,10,11|10,9,11,5",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-14,Ando Minami,Sasao Asuka,3,1,"11,4,11,11|7,11,8,1",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-14,Aso Reina,Okada Kotona,3,1,"4,11,11,11|11,9,6,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-14,Mori Sakura/Nagasaki Miyu,Ando Minami/Suzuki Rika,2,1,"11,9,11|7,11,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-14,Nagasaki Miyu,Okawa Mami,3,0,"11,11,11|9,7,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-18,Feng Tienwei/Shibata Saki,Ishikawa Kasumi/Kimura Kasumi,2,1,"3,11,11|11,3,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-18,Harimoto Miwa,Shibata Saki,3,0,"11,11,11|7,8,4",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-18,Ishikawa Kasumi,Odo Satsuki,3,0,"11,11,11|6,9,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-18,Kihara Miyuu,Ojio Haruna,3,0,"11,11,11|9,5,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-19,Hao Shuai,Yoshimura Maharu,3,0,"11,11,11|9,8,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-19,Harimoto Tomokazu,Sone Kakeru,1,0,11|8,VICTORY,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-19,Kizukuri Yuto,Tanigaki Yuma,3,0,"11,11,11|6,10,5",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-19,Morizono Masataka,Uda Yukiya,3,0,"11,11,11|6,10,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-19,Oikawa Mizuki,Shinozuka Hiroto,3,1,"11,11,4,11|7,8,11,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-19,Oshima Yuya,Niwa Koki,3,0,"11,11,11|9,10,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-19,Sone Kakeru,Harimoto Tomokazu,3,2,"8,11,11,6,11|11,10,8,11,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-19,Ueda Jin/Matsudaira Kenta,Oshima Yuya/Matsushima Sora,2,0,"11,11|8,4",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-19,Yoshimura Kazuhiro/Morizono Masataka,Arinobu Taimu/Uda Yukiya,2,0,"11,11|4,5",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-19,Feng Tienwei/Odo Satsuki,Ando Minami/Suzuki Rika,2,1,"7,11,11|11,8,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-19,Hashimoto Honoka,Sasao Asuka,3,1,"11,11,2,11|8,4,11,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-19,Mori Sakura,Idesawa Kyoka,3,1,"11,11,10,11|5,5,11,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-19,Mori Sakura,Sato Hitomi,1,0,11|6,VICTORY,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-19,Nagasaki Miyu,Yokoi Sakura,3,0,"11,11,11|8,7,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-19,Odo Satsuki,Ando Minami,3,2,"11,1,11,9,13|5,11,8,11,11",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-19,Ojio Haruna,Okada Kotona,3,1,"9,11,11,11|11,10,7,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-19,Sato Hitomi/Hashimoto Honoka,Hirano Miu/Nagasaki Miyu,2,1,"9,11,11|11,9,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-19,Shibata Saki,Okawa Mami,3,0,"11,11,11|8,7,4",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-20,Feng Tienwei/Odo Satsuki,Hirano Miu/Nagasaki Miyu,2,0,"11,11|7,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-20,Harimoto Miwa,Yokoi Sakura,3,0,"11,11,11|9,9,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-20,Hashimoto Honoka,Kimura Kasumi,3,1,"11,11,7,11|2,6,11,5",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-20,Hayata Hina,Shibata Saki,3,1,"9,11,11,11|11,8,6,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-20,Kihara Miyuu,Idesawa Kyoka,3,1,"11,11,9,11|8,7,11,5",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-20,Mori Sakura,Odo Satsuki,3,2,"9,11,6,11,11|11,7,11,9,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-20,Nagasaki Miyu,Namba Yurika,3,2,"5,11,11,9,11|11,10,4,11,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-20,Sato Hitomi,Harimoto Miwa,1,0,11|2,VICTORY,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-20,Sato Hitomi/Hashimoto Honoka,Kihara Miyuu/Umemura Yuka,2,0,"11,11|9,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-22,Arinobu Taimu/Uda Yukiya,Shinozuka Hiroto/Sone Kakeru,2,0,"11,11|3,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-22,Kizukuri Yuto,Aida Satoshi,3,1,"11,10,11,11|7,11,9,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-22,Niwa Koki,Hamada Kazuki,3,1,"9,11,11,11|11,9,6,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-22,Yoshimura Maharu,Sone Kakeru,3,2,"5,11,11,10,11|11,10,8,11,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-23,Hao Shuai,Matsudaira Kenta,3,0,"11,11,11|10,6,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-23,Niwa Koki,Morizono Masataka,3,0,"11,11,11|5,6,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-23,Shinozuka Hiroto/Sone Kakeru,Yoshimura Kazuhiro/Morizono Masataka,2,1,"8,11,11|11,6,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-23,Sone Kakeru,Tanigaki Yuma,3,1,"8,11,11,11|11,3,6,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-23,Harimoto Miwa,Namba Yurika,3,2,"11,9,11,7,15|6,11,4,11,13",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-23,Kihara Miyuu,Shibata Saki,1,0,11|9,VICTORY,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-23,Odo Satsuki,Kimura Kasumi,3,0,"11,11,11|8,5,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-23,Shibata Saki,Kihara Miyuu,3,2,"8,11,9,11,15|11,3,11,6,13",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-23,Umemura Yuka/Harimoto Miwa,Feng Tienwei/Odo Satsuki,2,1,"11,10,11|9,11,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-26,Arinobu Taimu/Uda Yukiya,Ueda Jin/Matsudaira Kenta,2,0,"11,11|7,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-26,Hao Shuai/Hibiki Tazoe,Oshima Yuya/Matsushima Sora,2,0,"11,11|6,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-26,Harimoto Tomokazu,Hao Shuai,3,0,"11,11,11|10,10,4",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-26,Matsushima Sora,Yoshimura Kazuhiro,3,2,"11,6,11,7,11|9,11,5,11,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-26,Oikawa Mizuki,Morizono Masataka,3,0,"11,11,11|10,6,4",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-26,Shinozuka Hiroto,Kizukuri Yuto,3,0,"11,11,11|5,8,2",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-26,Togami Shunsuke,Niwa Koki,3,0,"11,11,11|7,6,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-26,Yoshimura Maharu,Sone Kakeru,3,0,"11,11,11|8,7,5",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-26,Harimoto Miwa,Okawa Mami,3,0,"11,11,11|8,9,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-26,Hayata Hina,Omoda Kotomi,3,0,"11,11,11|10,9,1",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-26,Hirano Miu,Yokoi Sakura,3,0,"11,11,11|9,2,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-26,Ishikawa Kasumi,Edahiro Hitomi,3,1,"11,9,11,11|3,11,9,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-26,Ishikawa Kasumi/Mende Rin,Ando Minami/Suzuki Rika,2,0,"11,11|10,4",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-26,Kihara Miyuu,Ando Minami,3,2,"10,11,11,9,11|11,10,2,11,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-26,Mori Sakura/Nagasaki Miyu,Sato Hitomi/Hashimoto Honoka,2,1,"9,11,11|11,3,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-26,Nagasaki Miyu,Hashimoto Honoka,3,1,"11,11,10,11|9,6,11,5",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-27,Arinobu Taimu/Kizukuri Yuto,Oshima Yuya/Matsushima Sora,2,0,"11,11|7,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-27,Hao Shuai,Sone Kakeru,3,2,"11,8,11,10,13|10,11,8,11,11",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-27,Harimoto Tomokazu,Uda Yukiya,3,2,"7,11,3,11,11|11,8,11,3,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-27,Niwa Koki,Oya Hidetoshi,3,0,"11,11,11|5,6,4",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-27,Shinozuka Hiroto,Morizono Masataka,3,1,"11,11,5,11|5,6,11,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-27,Togami Shunsuke,Oikawa Mizuki,3,1,"11,11,8,11|4,9,11,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-27,Ueda Jin/Matsudaira Kenta,Hao Shuai/Hibiki Tazoe,2,1,"7,11,11|11,4,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-02-27,Yoshimura Maharu,Oshima Yuya,3,1,"11,11,8,11|8,9,11,4",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-27,Feng Tienwei/Odo Satsuki,Mori Sakura/Nagasaki Miyu,2,1,"11,5,12|4,11,10",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-27,Hayata Hina,Shibata Saki,3,0,"11,11,11|7,10,7",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-27,Hirano Miu,Namba Yurika,3,0,"11,11,11|6,7,5",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-27,Ishikawa Kasumi,Omoda Kotomi,3,1,"10,11,11,11|11,7,7,5",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-27,Kihara Miyuu,Hashimoto Honoka,3,1,"11,11,9,11|7,6,11,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-27,Nagasaki Miyu,Odo Satsuki,3,0,"11,11,11|8,10,2",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-27,Sato Hitomi,Kihara Miyuu,1,0,12|10,VICTORY,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-27,Sato Hitomi/Hashimoto Honoka,Ishikawa Kasumi/Mende Rin,2,0,"11,11|5,2",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-02-27,Yokoi Sakura,Harimoto Miwa,3,2,"7,11,7,11,14|11,10,11,2,12",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-03-02,Odo Satsuki,Yokoi Sakura,3,0,"11,11,11|0,5,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-03-02,Ojio Haruna,Omoda Kotomi,3,0,"11,11,11|0,7,4",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-03-02,Sato Hitomi/Hashimoto Honoka,Feng Tienwei/Odo Satsuki,2,1,"0,12,11|11,10,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-03-02,Shibata Saki,Sato Hitomi,3,1,"11,5,11,11|0,11,3,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-03-03,Harimoto Tomokazu,Sone Kakeru,3,0,"11,11,11|9,9,9",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-03-03,Niwa Koki,Oshima Yuya,3,0,"11,12,11|4,10,6",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-03-03,Oikawa Mizuki,Shinozuka Hiroto,3,2,"7,11,11,1,11|11,7,9,11,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Men's,2022-03-03,Oshima Yuya/Kenta Tazoe,Ueda Jin/Matsudaira Kenta,2,0,"11,11|9,8",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-03-04,Hayata Hina,Ojio Haruna,3,0,"11,11,11|6,7,5",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-03-04,Hirano Miu,Odo Satsuki,3,1,"5,11,11,11|11,9,8,5",GROUP,JP_T_LEAGUE
+2021/22 Japan T.League Women's,2022-03-04,Mori Sakura/Nagasaki Miyu,Feng Tienwei/Odo Satsuki,2,1,"5,11,11|11,3,8",GROUP,JP_T_LEAGUE
