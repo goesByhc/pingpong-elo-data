@@ -1,0 +1,649 @@
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier
+2024/25 Japan T.League Men's,2024-08-24,Aida Satoshi,Oshima Yuya,3,1,"10,11,11,11|11,8,9,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-08-24,Lin Yun Ju,Morizono Masataka,3,2,"9,8,11,11,12|11,11,5,7,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-08-24,Matsushima Sora,Matsushita Taisei,3,2,"11,10,10,11,13|7,11,11,7,11",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-08-24,Matsushima Sora/Yoshimura Kazuhiro,Ryuzaki Tonin/Morizono Masataka,2,1,"11,8,11|9,11,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-08-25,Harimoto Miwa,Akae Kaho,3,0,"11,11,11|6,7,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-08-25,Hirano Miu,Misuzu Takeya,3,1,"10,11,11,11|11,9,7,4",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-08-25,Nagasaki Miyuu/Harimoto Miwa,Sasao Asuka/Aso Reina,2,0,"11,11|9,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-08-25,Sasao Asuka,Kihara Miyuu,3,2,"11,2,7,11,11|9,11,11,7,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-08-31,Harimoto Tomokazu,Igarashi Fumiya,3,0,"11,11,11|5,8,3",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-08-31,Jang Woojin,Yoshimura Maharu,3,0,"11,11,11|7,9,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-08-31,Shinozuka Hiroto,Tanaka Yuta,3,1,"11,3,11,11|5,11,6,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-08-31,Shinozuka Hiroto/Uezu Koji,Jang Woojin/Matsudaira Kenta,2,1,"7,11,11|11,5,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-08-31,Hashimoto Honoka,Nomura Moe,3,0,"11,11,11|9,3,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-08-31,Odo Satsuki,Kuriyama Yuna,3,0,"11,11,11|4,6,4",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-08-31,Sato Hitomi,Taguchi Emiko,3,0,"11,11,11|6,7,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-08-31,Shibata Saki/Odo Satsuki,Kuriyama Yuna/Yamamuro Saya,2,1,"11,10,11|3,11,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-01,Lin Yun Ju,Yoshimura Maharu,3,1,"6,11,11,11|11,10,8,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-01,Matsushima Sora,Harimoto Tomokazu,3,2,"11,6,11,6,13|9,11,9,11,11",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-01,Matsushima Sora/Yoshimura Kazuhiro,Suzuki Hayate/Shinozuka Hiroto,2,1,"8,11,11|11,8,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-01,Shinozuka Hiroto,Oshima Yuya,3,1,"11,10,11,11|9,11,10,2",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-01,Akae Kaho,Nomura Moe,3,1,"11,11,4,11|5,4,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-01,Misuzu Takeya,Yamamuro Saya,3,0,"11,11,11|4,4,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-01,Sasao Asuka,Taguchi Emiko,3,2,"7,11,11,5,11|11,8,5,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-01,Sasao Asuka/Aso Reina,Kuriyama Yuna/Yamamuro Saya,2,0,"11,11|8,3",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-07,Harimoto Tomokazu,Hamada Kazuki,3,1,"11,3,11,11|9,11,4,4",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-07,Kobayashi Hiromu/Arinobu Taimu,Hibiki Tazoe/Niwa Koki,2,0,"11,11|6,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-07,Niwa Koki,Sone Kakeru,3,2,"9,11,10,11,11|11,5,11,7,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-07,Oikawa Mizuki,Kizukuri Yuto,3,0,"11,11,11|10,2,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-07,Shinozuka Hiroto,Aida Satoshi,3,0,"11,11,11|7,2,4",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-07,Suzuki Hayate/Shinozuka Hiroto,Ryuzaki Tonin/Morizono Masataka,2,1,"11,9,11|8,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-07,Tanigaki Yuma,Arinobu Taimu,3,1,"11,5,11,11|4,11,7,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-07,Yoshimura Maharu,Morizono Masataka,3,2,"11,11,8,10,11|8,5,11,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-07,Aoki Sachi/Ito Shiina,Kudo Yume/Nakamura Mitsuki,2,1,"6,11,12|11,6,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-07,Hashimoto Honoka,Tamura Mika,3,1,"9,11,11,11|11,5,7,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-07,Nakamori Honami,Shibata Saki,3,1,"11,11,8,11|10,10,11,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-07,Sato Hitomi,Matsushima Miku,3,0,"11,11,11|5,6,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-08,Aida Satoshi,Yoshida Masaki,1,0,13|11,GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-08,Hagihara Keishi,Sone Kakeru,3,1,"9,11,11,11|11,6,6,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-08,Hamada Kazuki,Yoshida Masaki,3,1,"8,11,11,11|11,10,2,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-08,Igarashi Fumiya,Morizono Masataka,3,2,"11,11,9,3,11|2,7,11,11,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-08,Kobayashi Hiromu/Arinobu Taimu,Matsushima Sora/Yoshimura Kazuhiro,2,1,"5,11,11|11,6,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-08,Matsudaira Kenta,Aida Satoshi,3,1,"9,11,11,11|11,9,3,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-08,Matsushima Sora,Takakiwa Taku,3,0,"11,11,11|4,8,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-08,Oshima Yuya,Arinobu Taimu,3,1,"11,3,11,11|7,11,3,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-08,Ryuzaki Tonin/Morizono Masataka,Matsudaira Kenta/Suzuki Shuhei,2,0,"11,11|5,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-08,Ando Minami,Nakamori Honami,3,0,"11,11,11|5,3,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-08,Kimura Kasumi,Matsushima Miku,3,0,"11,11,11|7,3,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-08,Nagao Takako/Namba Yurika,Kudo Yume/Nakamura Mitsuki,2,0,"11,11|8,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-08,Namba Yurika,Tamura Mika,3,1,"11,9,11,11|5,11,8,4",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-21,Harimoto Tomokazu,Hao Shuai,3,2,"9,11,8,11,11|11,9,11,8,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-21,Lin Yun Ju,Jang Woojin,3,0,"11,11,11|7,6,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-21,Lin Yun Ju,Park Gyuhyeon,1,0,11|7,GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-21,Oshima Yuya,Igarashi Fumiya,3,0,"11,11,11|7,5,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-21,Park Gyuhyeon/Jang Woojin,Oshima Yuya/Hagihara Keishi,2,0,"11,11|9,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-21,Shinozuka Hiroto,Yoshiyama Ryoichi,3,1,"4,11,11,11|11,6,9,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-21,Tanaka Yuta,Matsushima Sora,3,0,"11,11,11|10,8,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-21,Yoshimura Maharu,Oikawa Mizuki,3,1,"11,11,10,11|5,4,11,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-21,Yoshiyama Kazuki/Oikawa Mizuki,Harimoto Tomokazu/Okano Shunsuke,2,1,"7,11,13|11,8,11",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-21,Harimoto Miwa,Izumo Mikuu,3,0,"11,11,11|8,10,4",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-21,Hashimoto Honoka,Yamamuro Saya,3,0,"11,11,11|4,10,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-21,Hashimoto Honoka,Taguchi Emiko,1,0,11|8,GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-21,Hirano Miu,Nakamura Mitsuki,3,0,"11,11,11|4,2,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-21,Idesawa Kyoka,Sato Hitomi,3,1,"11,9,11,11|4,11,7,3",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-21,Idesawa Kyoka/Shudo Narumi,Yokoi Sakura/Odo Satsuki,2,1,"10,11,11|11,10,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-21,Kihara Miyuu,Matsushima Miku,3,0,"11,11,11|6,1,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-21,Nagasaki Miyuu/Harimoto Miwa,Kusakabe Shiki/Nakamura Mitsuki,2,0,"11,11|4,4",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-21,Odo Satsuki,Taguchi Emiko,3,2,"10,11,11,7,11|11,5,4,11,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-22,Hao Shuai,Sakai Yuhi,3,1,"11,9,11,11|3,11,4,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-22,Kobayashi Hiromu/Arinobu Taimu,Oshima Yuya/Hagihara Keishi,2,0,"11,11|7,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-22,Lin Yun Ju,Sone Kakeru,3,1,"11,11,9,11|2,9,11,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-22,Matsushima Sora,Ono Daito,3,0,"11,11,11|4,6,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-22,Morizono Masataka,Oikawa Mizuki,3,1,"11,8,11,11|7,11,7,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-22,Oshima Yuya,Kizukuri Yuto,3,2,"11,11,8,10,11|3,8,11,11,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-22,Yoshiyama Kazuki/Oikawa Mizuki,Ryuzaki Tonin/Morizono Masataka,2,1,"2,11,12|11,9,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-22,Yoshiyama Ryoichi,Machi Asuka,3,2,"11,10,11,8,11|10,11,10,11,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-22,Harimoto Miwa,Mori Sakura,3,0,"11,11,11|7,10,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-22,Hashimoto Honoka,Ando Minami,3,1,"11,11,9,11|9,7,11,2",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-22,Hirano Miu,Misuzu Takeya,3,0,"11,11,11|3,3,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-22,Hirano Miu,Mori Sakura,1,0,11|9,GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-22,Odo Satsuki,Namba Yurika,3,1,"11,10,11,11|3,11,7,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-22,Sasao Asuka,Kihara Miyuu,3,2,"2,9,11,11,14|11,11,10,3,12",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-22,Sasao Asuka/Aso Reina,Nagasaki Miyuu/Harimoto Miwa,2,1,"11,2,12|5,11,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-22,Shibata Saki/Odo Satsuki,Ojio Haruna/Ojio Yuna,2,0,"11,11|6,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-22,Yokoi Sakura,Kimura Kasumi,3,1,"8,11,11,11|11,6,4,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-27,Akae Kaho,Nakamori Honami,3,0,"11,11,11|2,7,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-27,Mori Sakura,Edahiro Hitomi,3,1,"9,11,11,11|11,2,9,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-27,Sasao Asuka,Kimura Mitsuho,3,2,"11,11,2,4,13|9,10,11,11,11",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-27,Sasao Asuka/Aso Reina,Nakamori Honami/Nakamura Mitsuki,2,0,"11,11|3,1",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-28,Arinobu Taimu,Suzuki Hayate,3,1,"11,8,11,11|9,11,8,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-28,Cho Seungmin,Kizukuri Yuto,3,1,"11,6,11,11|6,11,5,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-28,Cho Seungmin/Uezu Koji,Kobayashi Hiromu/Arinobu Taimu,2,1,"11,6,11|6,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-28,Matsushita Taisei,Yoshimura Kazuhiro,3,1,"11,6,11,11|5,11,10,3",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-28,Oshima Yuya,Aida Satoshi,3,2,"11,8,11,8,11|9,11,8,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-28,Oshima Yuya,Matsushita Taisei,1,0,11|6,GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-28,Ryuzaki Tonin/Morizono Masataka,Hagihara Keishi/Yoshimura Kazuhiro,2,0,"11,11|3,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-28,Uda Yukiya,Miyagawa Shodai,3,0,"11,11,11|9,7,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-28,Uda Yukiya,Suzuki Hayate,1,0,11|8,GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-28,Yokotani Jo,Morizono Masataka,3,0,"11,11,11|4,7,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-28,Aoki Sachi/Yokoi Sakura,Sasao Asuka/Aso Reina,2,1,"10,11,12|11,6,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-28,Harimoto Miwa,Nomura Moe,3,1,"6,11,11,11|11,8,7,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-28,Hashimoto Honoka,Uesawa Anne,1,0,11|9,GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-28,Hirano Miu,Idesawa Kyoka,3,2,"7,11,10,11,12|11,5,11,5,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-28,Kihara Miyuu/Harimoto Miwa,Umemura Yuka/SHIOMI Maki,2,0,"11,11|7,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-28,Nagasaki Miyuu,Umemura Yuka,3,0,"11,11,11|6,8,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-28,Sasao Asuka,Yokoi Sakura,3,1,"11,9,11,11|9,11,2,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-28,Sato Hitomi,Misuzu Takeya,3,1,"11,11,7,11|6,6,11,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-28,Uesawa Anne,Hashimoto Honoka,3,0,"11,11,11|10,6,4",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-29,Aida Satoshi,カン ドンス,3,0,"11,11,11|8,8,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-29,Matsudaira Kenta,Matsushita Taisei,3,2,"11,11,7,5,13|10,7,11,11,11",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-29,Morizono Masataka,Park Gyuhyeon,3,2,"11,7,8,11,11|9,11,11,6,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-29,Niwa Koki,Miyagawa Shodai,3,1,"10,11,11,11|11,3,8,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-29,Ryuzaki Tonin/Morizono Masataka,Park Gyuhyeon/Igarashi Fumiya,2,0,"11,11|7,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-29,Suzuki Hayate,Hao Shuai,3,2,"9,7,11,11,11|11,11,8,8,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-29,Yoshiyama Kazuki/Oikawa Mizuki,Cho Seungmin/Uezu Koji,2,0,"11,11|5,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-09-29,Yoshiyama Ryoichi,Cho Seungmin,3,0,"11,11,11|10,10,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-29,Idesawa Kyoka,Kimura Mitsuho,3,0,"11,11,11|7,10,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-29,Nomura Moe,Nakamori Honami,3,1,"11,11,10,11|8,6,11,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-29,Umemura Yuka/SHIOMI Maki,Nakamura Mitsuki/Edahiro Hitomi,2,1,"7,11,12|11,6,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-09-29,Ushijima Seira,Edahiro Hitomi,3,0,"11,11,11|9,7,4",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-10-12,Iwaida Shunto,Matsudaira Kenta,3,2,"11,11,7,8,11|9,6,11,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-10-12,Takami Masaki/Tanaka Yuta,Miyagawa Shodai/Uezu Koji,2,1,"11,2,12|6,11,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-10-12,Tanaka Yuta,Okano Shunsuke,3,1,"10,11,11,11|11,4,5,4",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-10-12,Yoshida Masaki,Miyagawa Shodai,3,1,"11,11,8,11|8,10,11,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-10-13,Idesawa Kyoka,Kimura Kasumi,3,1,"2,11,11,11|11,10,3,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-10-13,Idesawa Kyoka,Kimura Kasumi,1,0,11|9,GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-10-13,Nagao Takako,Taguchi Emiko,3,1,"11,2,11,11|10,11,7,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-10-13,Namba Yurika,Nomura Moe,3,2,"8,5,11,11,11|11,11,5,3,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-10-13,Nomura Moe/Kuriyama Yuna,Nagao Takako/Mimura Yuka,2,1,"9,11,11|11,10,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-10-19,Arinobu Taimu,Aida Satoshi,3,2,"7,10,11,11,11|11,11,7,10,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-10-19,Kizukuri Yuto,Hamada Kazuki,3,0,"11,11,11|9,4,4",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-10-19,Kobayashi Hiromu/Arinobu Taimu,Ryuzaki Tonin/Morizono Masataka,2,1,"11,6,11|3,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-10-19,Lee Sangsu,カン ドンス,3,1,"11,11,7,11|7,6,11,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-10-19,Oikawa Mizuki,Tanaka Yuta,3,1,"6,11,11,11|11,8,6,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-10-19,Sone Kakeru,Matsushita Taisei,3,1,"11,6,11,11|9,11,3,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-10-19,Yoshida Masaki,Hao Shuai,3,0,"11,11,11|7,6,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-10-19,Yoshiyama Kazuki/Oikawa Mizuki,Igarashi Fumiya/Tanaka Yuta,2,1,"7,11,11|11,7,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-10-19,Akae Kaho,Ando Minami,3,2,"7,11,11,8,11|11,7,6,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-10-19,Aoki Sachi,,3,0,"11,11,11|0,0,0",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-10-19,Hashimoto Honoka,今枝 愛美,3,0,"11,11,11|3,6,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-10-19,Mori Sakura,Namba Yurika,3,1,"11,11,8,11|10,9,11,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-10-19,Odo Satsuki,Taguchi Emiko,3,0,"11,11,11|6,5,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-10-19,Ojio Yuna,Sasao Asuka,3,0,"11,11,11|7,8,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-10-19,Uesawa Anne/Sasao Asuka,Kimura Kasumi/Namba Yurika,2,0,"11,11|7,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-10-19,Yokoi Sakura/Odo Satsuki,Taguchi Emiko/Kuriyama Yuna,2,0,"11,11|9,4",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-10-20,Arinobu Taimu,Shinozuka Hiroto,3,0,"11,11,11|5,8,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-10-20,Hao Shuai,Oshima Yuya,3,1,"6,11,11,11|11,10,8,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-10-20,Harimoto Tomokazu,Kizukuri Yuto,3,0,"11,11,11|6,6,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-10-20,Harimoto Tomokazu/Okano Shunsuke,Kobayashi Hiromu/Arinobu Taimu,2,1,"11,9,11|7,11,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-10-20,Lee Sangsu,Miki Hayato,3,1,"11,11,9,11|4,3,11,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-10-20,Matsushima Sora/Yoshimura Kazuhiro,Yoshiyama Kazuki/Oikawa Mizuki,2,1,"11,7,11|6,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-10-20,Yoshimura Maharu,Sone Kakeru,3,1,"6,11,11,11|11,7,5,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-10-20,Yoshiyama Ryoichi,Matsushima Sora,3,2,"11,11,7,5,11|5,10,11,11,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-10-20,Harimoto Miwa,Akae Kaho,3,1,"11,11,8,11|4,10,11,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-10-20,Hashimoto Honoka,Edahiro Madoka,3,0,"11,11,11|10,8,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-10-20,Izumo Mikuu/Hirano Asahi,Aoki Sachi/Yokoi Sakura,2,1,"8,11,11|11,3,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-10-20,Kihara Miyuu,Mori Sakura,3,0,"11,11,11|6,4,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-10-20,Nagasaki Miyuu,Sasao Asuka,3,0,"11,11,11|10,4,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-10-20,Sato Hitomi,Matsushima Miku,3,0,"11,11,11|8,5,1",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-10-20,Uesawa Anne/Sasao Asuka,Nagasaki Miyuu/Sakurai Hana,2,1,"9,11,11|11,7,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-10-20,Yokoi Sakura,Izumo Mikuu,3,0,"11,11,11|10,6,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-10-25,Jin Takuya,Cheng Jing Qi,3,0,"11,11,11|5,9,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-10-25,Jin Takuya/Ono Daito,Cheng Jing Qi/Yoshida Masaki,2,0,"11,11|10,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-10-25,Kobayashi Hiromu,カン ドンス,3,2,"11,8,6,11,11|10,11,11,6,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-10-25,Tanaka Yuta,Kizukuri Yuto,3,2,"9,11,7,11,11|11,7,11,8,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-10-26,Morizono Masataka/Hamada Kazuki,Cheng Jing Qi/Yoshida Masaki,2,0,"11,11|4,4",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-10-26,Tanaka Yuta,Sakai Yuhi,3,0,"11,11,11|3,8,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-10-26,Yoshida Masaki,Hamada Kazuki,3,1,"6,11,11,11|11,8,7,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-10-26,カン ドンス,Aida Satoshi,3,0,"11,11,11|6,6,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-10-26,Ando Minami,Yamamuro Saya,3,0,"11,11,11|8,10,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-10-26,Hashimoto Honoka,Edahiro Madoka,3,0,"11,11,11|4,3,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-10-26,Kimura Kasumi,Idesawa Kyoka,3,2,"11,8,8,11,11|10,11,11,6,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-10-26,Namba Yurika,Kuriyama Yuna,3,0,"11,11,11|8,3,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-10-26,Sato Hitomi,Nakamura Mitsuki,3,0,"11,11,11|3,9,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-10-26,Shibata Saki,Matsushima Miku,3,0,"11,11,11|5,5,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-10-26,Shibata Saki/Ito Shiina,Kusakabe Shiki/Hirano Asahi,2,0,"11,11|6,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-10-26,今枝 愛美/Kuriyama Yuna,Ma Yuhan/Namba Yurika,2,1,"8,11,11|11,10,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-10-27,Cheng Jing Qi/Yoshida Masaki,Matsushima Sora/Yoshimura Kazuhiro,2,1,"7,11,11|11,6,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-10-27,Hao Shuai,Jin Takuya,3,2,"6,11,11,7,11|11,7,9,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-10-27,Matsushima Sora,Tanaka Yuta,3,2,"9,11,11,6,17|11,8,10,11,15",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-10-27,Niwa Koki,Kizukuri Yuto,3,1,"7,11,11,11|11,6,9,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-10-27,Yoshida Masaki,Yokotani Jo,3,0,"11,11,11|8,9,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-10-27,Yoshiyama Kazuki/Yoshiyama Ryoichi,Jin Takuya/Ono Daito,2,1,"11,3,11|7,11,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-10-27,Yoshiyama Ryoichi,Kobayashi Hiromu,3,1,"11,8,11,11|7,11,9,3",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-10-27,カン ドンス,Hagihara Keishi,3,2,"11,8,11,8,11|5,11,9,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-10-27,Ma Yuhan/Namba Yurika,Misuzu Takeya/Uesawa Anne,2,0,"11,11|7,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-10-27,Mori Sakura,Ando Minami,3,0,"11,11,11|6,5,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-10-27,Namba Yurika,Uesawa Anne,3,2,"11,9,7,11,11|7,11,11,7,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-10-27,Yuan Xuejiao,Yoshimoto Hana,3,2,"8,11,11,10,11|11,9,5,11,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-02,Morizono Masataka,Hagihara Keishi,3,1,"9,11,11,11|11,8,7,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-02,Ryuzaki Tonin/Morizono Masataka,Miki Hayato/Yokotani Jo,2,0,"11,11|9,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-02,Yokotani Jo,Hamada Kazuki,3,1,"10,11,11,11|11,5,8,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-02,Yoshimura Kazuhiro,Matsushita Taisei,3,0,"11,11,11|7,4,3",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-02,Yoshimura Kazuhiro,Hamada Kazuki,1,0,11|9,GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-02,Aso Reina,Tamura Mika,3,2,"11,11,7,8,11|5,6,11,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-02,Izumo Mikuu,Yoshimoto Hana,3,0,"11,11,11|5,9,2",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-02,Kihara Miyuu,Kuriyama Yuna,3,0,"11,11,11|3,6,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-02,Kihara Miyuu/リ ジンシカ,Idesawa Kyoka/Shudo Narumi,2,1,"2,11,11|11,7,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-02,Mende Rin,今枝 愛美,3,0,"11,11,11|5,8,4",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-02,Nagasaki Miyuu,Idesawa Kyoka,3,0,"11,11,11|5,2,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-02,Sasao Asuka,Nakamura Mitsuki,3,0,"11,11,11|6,8,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-02,Uesawa Anne/Sasao Asuka,Izumo Mikuu/Hirano Asahi,2,0,"11,11|10,3",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-03,Arinobu Taimu,Hamada Kazuki,3,0,"11,11,11|9,6,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-03,Hao Shuai,Cho Seungmin,3,0,"11,11,11|9,5,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-03,Hao Shuai,Shinozuka Hiroto,1,0,12|10,GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-03,Kizukuri Yuto,Morizono Masataka,3,1,"6,11,11,11|11,10,9,4",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-03,Kobayashi Hiromu/Arinobu Taimu,Ryuzaki Tonin/Morizono Masataka,2,0,"11,11|4,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-03,Matsushita Taisei,Sone Kakeru,3,1,"11,11,3,11|3,10,11,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-03,Shinozuka Hiroto,Niwa Koki,3,1,"11,11,6,11|8,8,11,2",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-03,Yoshimura Maharu,Yoshiyama Ryoichi,3,2,"5,5,11,11,12|11,11,10,5,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-03,Yoshiyama Kazuki/Yoshiyama Ryoichi,Suzuki Hayate/Okano Shunsuke,2,0,"11,11|9,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-03,Ando Minami,Kusakabe Shiki,3,0,"11,11,11|9,6,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-03,Ando Minami/Kimura Kasumi,Izumo Mikuu/Hirano Asahi,2,0,"11,11|7,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-03,Hashimoto Honoka,Idesawa Kyoka,3,0,"11,11,11|5,3,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-03,Idesawa Kyoka/Shudo Narumi,Shibata Saki/Ito Shiina,2,1,"11,8,12|3,11,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-03,Namba Yurika,Izumo Mikuu,3,1,"11,11,9,11|7,9,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-03,Ojio Haruna,Tamura Mika,3,2,"10,11,10,11,11|11,10,11,8,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-03,Sato Hitomi,今枝 愛美,3,1,"6,11,11,11|11,8,5,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-03,Shibata Saki,Kuriyama Yuna,3,0,"11,11,11|7,9,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-04,Park Gyuhyeon/Yoshida Masaki,Yoshiyama Kazuki/Oikawa Mizuki,2,0,"11,11|8,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-04,Tanaka Yuta,Hao Shuai,3,2,"11,1,11,9,11|7,11,9,11,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-04,Yoshida Masaki,Niwa Koki,3,2,"11,10,10,11,11|8,11,11,5,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-04,カン ドンス,Oikawa Mizuki,3,2,"6,11,11,7,11|11,9,7,11,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-09,Hao Shuai,Ono Soma,3,0,"11,11,11|10,7,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-09,Harimoto Tomokazu,Fukumitsu Ryota,3,1,"11,11,6,11|9,1,11,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-09,Oikawa Mizuki,Yokotani Jo,3,2,"3,3,11,11,11|11,11,8,6,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-09,Shinozuka Hiroto,Hamada Kazuki,3,0,"11,11,11|4,6,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-09,Yoshimura Maharu,Sakai Yuhi,3,2,"11,8,8,11,11|9,11,11,6,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-09,Yoshimura Maharu/Cho Seungmin,Morizono Masataka/Hamada Kazuki,2,1,"11,7,11|7,11,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-09,Yoshiyama Kazuki/Oikawa Mizuki,Kenta Tazoe/ITO Yuta,2,1,"8,11,11|11,7,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-09,Yoshiyama Ryoichi,ITO Yuta,3,1,"8,11,11,11|11,10,5,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-09,Akae Kaho,Taguchi Emiko,3,0,"11,11,11|6,10,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-09,Hashimoto Honoka,Kihara Miyuu,3,0,"11,11,11|8,7,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-09,Hashimoto Honoka/Sato Hitomi,Kihara Miyuu/リ ジンシカ,2,0,"11,11|8,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-09,Jeon Jihee,Kobayashi Ringo,3,0,"11,11,11|10,7,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-09,Nagasaki Miyuu,Shibata Saki,3,2,"9,11,11,10,12|11,10,3,11,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-09,Sasao Asuka,今枝 愛美,3,0,"11,11,11|8,4,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-09,Uesawa Anne/Sasao Asuka,Kuriyama Yuna/Kobayashi Ringo,2,0,"11,11|10,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-09,Yokoi Sakura,Mende Rin,3,2,"9,11,10,11,11|11,7,11,10,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-10,Harimoto Tomokazu,Kizukuri Yuto,3,1,"10,11,11,11|11,4,7,2",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-10,Jin Takuya,Shinozuka Hiroto,3,1,"11,9,11,11|6,11,10,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-10,Yoshimura Maharu,Arinobu Taimu,3,2,"6,11,9,11,11|11,7,11,8,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-10,Yoshimura Maharu/Cho Seungmin,Kobayashi Hiromu/Arinobu Taimu,2,1,"11,2,11|8,11,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-10,Akae Kaho,Izumo Mikuu,3,0,"11,11,11|6,10,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-10,Matsushima Miku,Jeon Jihee,3,1,"11,3,11,11|5,11,4,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-10,Sasao Asuka,Nakamura Mitsuki,3,0,"11,11,11|5,1,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-10,Uesawa Anne/Sasao Asuka,Izumo Mikuu/Hirano Asahi,2,0,"11,11|8,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-15,Arinobu Taimu,Tanigaki Yuma,3,1,"11,7,11,11|7,11,7,4",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-15,Jin Takuya,Yoshiyama Ryoichi,3,1,"10,11,11,11|11,5,9,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-15,Kobayashi Hiromu/Arinobu Taimu,Yoshiyama Kazuki/Oikawa Mizuki,2,1,"10,11,11|11,8,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-15,Lin Yun Ju,カン ドンス,3,0,"11,11,11|5,7,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-15,Miura Yudai/Yoshida Masaki,Matsushima Sora/Oshima Yuya,2,1,"11,10,11|9,11,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-15,Oikawa Mizuki,Uda Yukiya,3,2,"11,9,11,9,11|8,11,9,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-15,Tokuda Kanta,Matsushima Sora,3,0,"11,11,11|9,9,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-15,Yoshida Masaki,Yoshimura Kazuhiro,3,0,"11,11,11|6,6,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-16,Arinobu Taimu,Sakai Yuhi,3,1,"11,10,11,11|5,11,3,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-16,Harimoto Tomokazu,Yoshida Masaki,3,0,"11,11,11|5,7,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-16,Harimoto Tomokazu/Okano Shunsuke,Miura Yudai/Yoshida Masaki,2,1,"10,11,11|11,8,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-16,Jin Takuya,西 康洋,3,1,"10,11,11,11|11,7,4,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-16,Kobayashi Hiromu/Arinobu Taimu,川上 尚也/西 康洋,2,0,"11,11|4,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-16,Shinozuka Hiroto,Tokuda Kanta,3,1,"9,11,11,11|11,9,4,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-16,Uda Yukiya,Morizono Masataka,3,0,"11,11,11|4,10,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-16,Yoshimura Maharu,カン ドンス,3,0,"11,11,11|9,9,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-16,Izumo Mikuu,Nomura Moe,3,1,"7,11,11,11|11,10,9,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-16,Namba Yurika,Hashimoto Honoka,3,2,"11,8,8,11,12|8,11,11,8,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-16,Nomura Moe/Kuriyama Yuna,Izumo Mikuu/Nakamura Mitsuki,2,0,"11,11|10,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-16,Odo Satsuki,Kimura Kasumi,3,1,"11,11,7,11|9,2,11,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-16,Sato Hitomi,Ando Minami,3,2,"11,11,8,2,11|8,5,11,11,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-16,Sugasawa Yukari,SHIOMI Maki,3,0,"11,11,11|4,1,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-16,Taguchi Emiko,Matsushima Miku,3,1,"11,6,11,11|7,11,5,3",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-16,Taguchi Emiko,Sugasawa Yukari,1,0,11|6,GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-16,Yokoi Sakura/Odo Satsuki,Nagao Takako/Mimura Yuka,2,0,"11,11|8,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-17,Kobayashi Hiromu/Arinobu Taimu,Kenta Tazoe/Oshima Yuya,2,1,"11,5,12|5,11,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-17,Lin Yun Ju,Jin Takuya,3,0,"11,11,11|9,7,3",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-17,Miura Yudai/Yoshida Masaki,Yoshiyama Kazuki/Oikawa Mizuki,2,0,"11,11|5,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-17,Niwa Koki,Yoshida Masaki,3,2,"4,11,4,11,12|11,10,11,6,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-17,Oikawa Mizuki,カン ドンス,3,1,"11,11,7,11|8,6,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-17,Uda Yukiya,Oshima Yuya,3,2,"11,5,9,11,11|9,11,11,9,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-17,Uda Yukiya,Lin Yun Ju,1,0,11|6,GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-17,Yoshimura Kazuhiro,Arinobu Taimu,3,1,"10,11,11,11|11,8,9,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-17,Yoshiyama Ryoichi,Tokuda Kanta,3,1,"10,11,11,11|11,9,7,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-17,Akae Kaho,Namba Yurika,3,2,"11,11,8,9,11|6,9,11,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-17,Ando Minami,Aso Reina,3,2,"11,10,10,11,11|6,11,11,3,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-17,Ando Minami,Akae Kaho,1,0,12|10,GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-17,Harimoto Miwa,Sugasawa Yukari,3,1,"7,11,11,11|11,10,8,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-17,Hirano Miu,Matsushima Miku,3,0,"11,11,11|4,5,4",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-17,Izumo Mikuu,Nagasaki Miyuu,3,1,"11,11,10,11|10,9,11,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-17,Kihara Miyuu/Nagasaki Miyuu,Izumo Mikuu/Hirano Asahi,2,0,"11,11|3,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-17,Nagao Takako/Mimura Yuka,Uesawa Anne/Sasao Asuka,2,1,"4,11,13|11,9,11",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-17,Sasao Asuka,Kimura Kasumi,3,1,"10,11,11,11|11,6,7,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-23,Arinobu Taimu,Hao Shuai,3,1,"11,11,7,11|10,8,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-23,Kizukuri Yuto,Lee Sangsu,3,1,"11,10,11,11|8,11,7,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-23,Kobayashi Hiromu/Arinobu Taimu,Lee Sangsu/Niwa Koki,2,0,"11,11|10,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-23,Uda Yukiya,Oikawa Mizuki,3,2,"5,11,11,9,17|11,8,8,11,15",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-23,Akae Kaho,井上 真夕,3,1,"9,11,11,11|11,4,2,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-23,Jeon Jihee,Shibata Saki,3,2,"8,11,11,7,14|11,4,8,11,12",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-23,Sasao Asuka,Watarai Hiro,3,0,"11,11,11|4,10,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-23,Shibata Saki/Ito Shiina,Sasao Asuka/Aso Reina,2,1,"11,1,11|10,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-24,Jang Woojin,Hao Shuai,3,2,"11,11,10,10,11|10,10,11,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-24,Lee Sangsu/Niwa Koki,Takami Masaki/Tanaka Yuta,2,1,"11,7,13|6,11,11",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-24,Tanaka Yuta,Oikawa Mizuki,3,1,"10,11,11,11|11,7,6,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-24,Yoshida Masaki,Yoshiyama Ryoichi,3,2,"10,7,11,11,12|11,11,10,1,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-24,Harimoto Miwa,Sato Hitomi,3,0,"11,11,11|6,7,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-24,Hashimoto Honoka,Nagasaki Miyuu,3,0,"11,11,11|8,1,1",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-24,Hirano Miu,Yokoi Sakura,3,1,"8,11,11,11|11,10,3,3",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-24,Kihara Miyuu/Harimoto Miwa,Yokoi Sakura/Odo Satsuki,2,0,"11,11|10,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-29,Akae Kaho,Matsushima Miku,3,0,"11,11,11|4,7,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-29,Mori Sakura,Sugasawa Yukari,3,1,"11,9,11,11|8,11,10,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-29,Sasao Asuka,Izumo Mikuu,3,0,"11,11,11|9,9,4",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-29,Sasao Asuka/Aso Reina,Sugasawa Yukari/Nakamura Mitsuki,2,1,"11,9,11|4,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-30,Arinobu Taimu,Yoshida Masaki,3,2,"10,11,4,11,11|11,9,11,8,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-30,Hao Shuai/Hibiki Tazoe,Ryuzaki Tonin/Morizono Masataka,2,1,"11,4,11|10,11,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-30,Jin Takuya,Park Gyuhyeon,3,0,"11,11,11|5,6,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-30,Kobayashi Hiromu/Arinobu Taimu,Miura Yudai/Yoshida Masaki,2,0,"11,11|8,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-30,Morizono Masataka,Hao Shuai,3,0,"11,11,11|9,7,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-30,Niwa Koki,Matsushita Taisei,3,1,"9,11,11,11|11,10,9,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-30,Oikawa Mizuki,Aida Satoshi,3,0,"11,11,11|8,9,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-11-30,Uda Yukiya,Igarashi Fumiya,3,1,"9,11,11,11|11,5,8,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-30,Ando Minami,Sato Hitomi,3,0,"11,11,11|7,10,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-30,Harimoto Miwa,Sugasawa Yukari,3,0,"11,11,11|7,4,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-30,Hirano Miu,Izumo Mikuu,3,0,"11,11,11|9,6,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-30,Kihara Miyuu,Matsushima Miku,3,0,"11,11,11|7,1,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-30,Kihara Miyuu/Nagasaki Miyuu,Sugasawa Yukari/Nakamura Mitsuki,2,0,"11,11|2,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-30,Namba Yurika,Hashimoto Honoka,3,1,"11,11,4,11|10,6,11,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-30,Namba Yurika,Hashimoto Honoka,1,0,15|13,GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-30,Odo Satsuki,Kimura Kasumi,3,1,"11,5,11,11|9,11,6,4",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-11-30,Yokoi Sakura/Odo Satsuki,Nagao Takako/Mimura Yuka,2,0,"11,11|5,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-01,Harimoto Tomokazu,Morizono Masataka,3,0,"11,11,11|5,4,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-01,Harimoto Tomokazu/Okano Shunsuke,Ryuzaki Tonin/Matsushita Taisei,2,0,"11,11|9,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-01,Igarashi Fumiya,Lin Yun Ju,3,2,"6,11,3,11,11|11,10,11,10,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-01,Igarashi Fumiya,Oshima Yuya,1,0,11|3,GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-01,Matsushima Sora/Yoshimura Kazuhiro,Miura Yudai/Yoshida Masaki,2,0,"11,11|9,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-01,Oshima Yuya,Park Gyuhyeon,3,2,"11,10,9,11,12|6,11,11,10,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-01,Shinozuka Hiroto,Hamada Kazuki,3,0,"11,11,11|5,10,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-01,Yoshida Masaki,Matsushima Sora,3,1,"11,11,9,11|10,10,11,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-01,Yoshimura Maharu,Aida Satoshi,3,2,"7,10,11,11,11|11,11,3,9,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-12-01,Ando Minami,Matsushima Miku,3,0,"11,11,11|9,4,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-12-01,Kimura Kasumi,Sugasawa Yukari,3,0,"11,11,11|3,8,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-12-01,Ma Yuhan/Namba Yurika,Izumo Mikuu/Nakamura Mitsuki,2,0,"11,11|8,4",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-12-01,Namba Yurika,Izumo Mikuu,3,1,"11,11,5,11|7,8,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-07,Aida Satoshi,Lin Yun Ju,3,2,"11,11,2,6,11|9,9,11,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-07,Hamada Kazuki,Oshima Yuya,3,1,"11,11,8,11|9,8,11,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-07,Jin Takuya,Harimoto Tomokazu,3,2,"6,8,11,11,12|11,11,4,10,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-07,Kobayashi Hiromu/Arinobu Taimu,Harimoto Tomokazu/Okano Shunsuke,2,1,"11,4,11|10,11,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-07,Matsushima Sora,Morizono Masataka,3,1,"11,8,11,11|7,11,10,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-07,Ryuzaki Tonin/Morizono Masataka,Matsushima Sora/Yoshimura Kazuhiro,2,0,"11,11|8,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-07,Sone Kakeru,Shinozuka Hiroto,3,1,"11,11,8,11|7,10,11,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-07,Yoshimura Maharu,Arinobu Taimu,3,1,"10,11,11,11|11,9,5,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-12-07,Harimoto Miwa,Yuan Xuejiao,3,2,"11,10,4,11,14|8,11,11,9,12",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-12-07,Hirano Miu,Namba Yurika,3,0,"11,11,11|7,6,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-12-07,Joo Cheonhui,Ando Minami,3,1,"7,11,11,11|11,7,8,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-12-07,Kihara Miyuu/Nagasaki Miyuu,Ma Yuhan/Namba Yurika,2,1,"11,8,14|5,11,12",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-08,Arinobu Taimu,Tokuda Kanta,3,0,"11,11,11|9,4,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-08,Hao Shuai,Lin Yun Ju,3,2,"7,11,11,7,12|11,5,10,11,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-08,Jin Takuya,Yoshida Masaki,3,0,"11,11,11|10,10,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-08,Kobayashi Hiromu/Arinobu Taimu,Miura Yudai/Yoshida Masaki,2,0,"11,11|4,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-08,Matsushima Sora,Niwa Koki,3,1,"11,11,9,11|4,9,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-08,Matsushima Sora/Yoshimura Kazuhiro,Yoshiyama Kazuki/Oikawa Mizuki,2,0,"11,11|7,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-08,Oshima Yuya,Oikawa Mizuki,3,2,"8,6,11,11,12|11,11,10,5,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-08,Sone Kakeru,Igarashi Fumiya,3,0,"11,11,11|6,10,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-12-08,Hashimoto Honoka,Harimoto Miwa,3,2,"11,11,3,6,11|8,9,11,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-12-08,Hirano Miu,Odo Satsuki,3,0,"11,11,11|6,7,4",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-12-08,Sato Hitomi,Joo Cheonhui,3,1,"11,7,11,11|5,11,9,3",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-12-08,Yokoi Sakura/Odo Satsuki,Kihara Miyuu/Harimoto Miwa,2,0,"11,11|5,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-12-13,Ando Minami,Ushijima Seira,3,1,"10,11,11,11|11,7,4,4",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-12-13,Idesawa Kyoka,Namba Yurika,3,0,"11,11,11|5,10,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-12-13,Kimura Kasumi,Nomura Moe,3,2,"9,2,11,11,12|11,11,6,9,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-12-13,Nagao Takako/Mimura Yuka,Ushijima Seira/Kobayashi Ringo,2,1,"10,11,11|11,8,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-14,Harimoto Tomokazu,Ono Soma,3,0,"11,11,11|4,8,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-14,Shinozuka Hiroto,Yokotani Jo,3,1,"11,8,11,11|7,11,3,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-14,Suzuki Hayate/Shinozuka Hiroto,Kenta Tazoe/Hagihara Keishi,2,1,"10,11,11|11,3,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-14,Yoshimura Maharu,Hagihara Keishi,3,0,"11,11,11|2,10,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-12-14,Izumo Mikuu,Idesawa Kyoka,3,1,"10,11,11,11|11,5,2,4",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-12-14,Nakamori Honami,Nomura Moe,3,0,"11,11,11|7,10,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-12-14,Sugasawa Yukari,Ushijima Seira,3,2,"11,11,6,10,13|10,9,11,11,11",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-12-14,Ushijima Seira/Kobayashi Ringo,Izumo Mikuu/Hirano Asahi,2,1,"11,10,11|5,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-15,Harimoto Tomokazu,Aida Satoshi,3,2,"11,6,10,11,11|7,11,11,10,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-15,Sakai Yuhi,Yoshimura Maharu,3,2,"9,11,11,5,11|11,10,3,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-15,Shinozuka Hiroto,Hamada Kazuki,3,0,"11,11,11|6,7,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-15,Suzuki Hayate/Shinozuka Hiroto,Morizono Masataka/Hamada Kazuki,2,1,"11,8,12|10,11,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-12-26,Akae Kaho,Nomura Moe,3,0,"11,11,11|8,9,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-12-26,Aso Reina,Idesawa Kyoka,3,1,"11,4,11,11|6,11,6,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-12-26,Shin Yubin,Cheng I-Ching,3,2,"11,3,5,11,12|5,11,11,6,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-12-26,Shin Yubin,Cheng I-Ching,1,0,11|4,GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-12-26,Umemura Yuka/SHIOMI Maki,Akae Kaho/Hayata Hina,2,1,"11,7,13|8,11,11",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-27,Aida Satoshi,Yoshiyama Ryoichi,3,1,"11,8,11,11|10,11,7,1",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-27,Hao Shuai,Hamada Kazuki,3,0,"11,11,11|5,10,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-27,Matsushita Taisei,Oikawa Mizuki,3,2,"9,11,3,11,16|11,10,11,8,14",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-27,Morizono Masataka/Hamada Kazuki,Yoshiyama Kazuki/Yoshiyama Ryoichi,2,0,"11,11|8,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-28,Aida Satoshi,Tanaka Yuta,3,2,"11,11,7,4,11|7,7,11,11,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-28,Aida Satoshi,Yoshida Masaki,1,0,14|12,GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-28,Jang Woojin,Ryuzaki Tonin,3,0,"11,11,11|10,7,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-28,Kizukuri Yuto,Matsushima Sora,3,0,"11,11,11|8,10,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-28,Matsushima Sora/Kenta Tazoe,Iimura Yuta/木方 圭介,2,0,"11,11|5,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-28,Matsushita Taisei,Yoshida Masaki,3,1,"10,11,11,11|11,10,10,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-28,Park Gyuhyeon/Jang Woojin,Morizono Masataka/Hamada Kazuki,2,0,"11,11|10,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-28,Yokotani Jo,Arinobu Taimu,3,1,"9,11,11,11|11,8,8,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-28,Yoshimura Kazuhiro,Uda Yukiya,3,1,"9,11,11,11|11,8,10,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-12-28,Harimoto Miwa,Nakamura Mitsuki,3,1,"8,11,11,11|11,3,5,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-12-28,Hirano Miu,Sugasawa Yukari,3,0,"11,11,11|9,3,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-12-28,Kihara Miyuu/Nagasaki Miyuu,Kudo Yume/Izumo Mikuu,2,0,"11,11|10,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-12-28,Nagasaki Miyuu,Izumo Mikuu,3,0,"11,11,11|9,7,1",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-29,Harimoto Tomokazu,Matsushima Sora,3,1,"8,11,11,11|11,10,5,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-29,Harimoto Tomokazu,Yoshimura Kazuhiro,1,0,11|2,GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-29,Matsushima Sora/Kenta Tazoe,Yoshimura Maharu/Suzuki Hayate,2,0,"11,11|10,4",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-29,Okano Shunsuke,Yokotani Jo,3,2,"11,4,11,5,17|9,11,6,11,15",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2024-12-29,Yoshimura Kazuhiro,Yoshimura Maharu,3,1,"11,4,11,11|9,11,7,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-12-29,Harimoto Miwa,Shin Yubin,3,1,"11,11,10,11|4,8,11,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-12-29,Hirano Miu,今枝 愛美,3,0,"11,11,11|4,4,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-12-29,Nagasaki Miyuu,Idesawa Kyoka,3,2,"8,11,9,11,11|11,7,11,9,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2024-12-29,Umemura Yuka/SHIOMI Maki,Kihara Miyuu/Harimoto Miwa,2,0,"11,11|10,3",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-01-04,Cheng I-Ching,Harimoto Miwa,3,2,"11,10,11,8,11|7,11,10,11,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-01-04,Hirano Miu,Akae Kaho,3,1,"10,11,11,11|11,3,10,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-01-04,Hirano Miu,Hayata Hina,1,0,12|10,GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-01-04,Jeon Jihee/Cheng I-Ching,Kihara Miyuu/Nagasaki Miyuu,2,0,"11,11|7,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-01-04,Joo Cheonhui,Hayata Hina,3,1,"10,11,11,11|11,5,10,3",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-01-05,Cheng I-Ching,Odo Satsuki,3,2,"8,11,5,11,11|11,8,11,7,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-01-05,Hashimoto Honoka,Hayata Hina,3,0,"11,11,11|10,10,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-01-05,Hashimoto Honoka/Sato Hitomi,Sasao Asuka/Jeon Jihee,2,0,"11,11|3,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-01-05,Yokoi Sakura,Akae Kaho,3,1,"11,11,7,11|10,7,11,3",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-01-11,Cho Seungmin,Oikawa Mizuki,3,2,"11,11,8,8,11|8,7,11,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-01-11,Cho Seungmin/Suzuki Hayate,Hao Shuai/Yoshiyama Ryoichi,2,0,"11,11|10,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-01-11,Hao Shuai,Okano Shunsuke,3,2,"4,7,11,11,11|11,11,9,6,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-01-11,Niwa Koki,Iwaida Shunto,3,1,"11,11,9,11|7,4,11,2",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-01-11,Niwa Koki,Okano Shunsuke,1,0,11|6,GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-01-11,Aoki Sachi/Ito Shiina,Sugasawa Yukari/Nakamura Mitsuki,2,0,"11,11|10,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-01-11,Hashimoto Honoka,Sugasawa Yukari,3,0,"11,11,11|6,9,3",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-01-11,Kimura Kasumi,Umemura Yuka,3,2,"9,10,11,11,11|11,11,10,6,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-01-11,Ma Yuhan/Namba Yurika,Umemura Yuka/SHIOMI Maki,2,1,"8,11,13|11,10,11",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-01-11,Nomura Moe,Ando Minami,3,1,"11,11,1,11|4,4,11,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-01-11,Sato Hitomi,Tamura Mika,3,0,"11,11,11|7,1,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-01-11,Shibata Saki,Izumo Mikuu,3,0,"11,11,11|10,6,0",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-01-11,Yuan Xuejiao,Kuriyama Yuna,3,1,"11,7,11,11|8,11,3,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-01-12,Cho Seungmin/Suzuki Hayate,Takami Masaki/Tanaka Yuta,2,0,"11,11|8,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-01-12,Jang Woojin,Cho Seungmin,3,2,"10,4,11,11,11|11,11,10,3,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-01-12,Tanaka Yuta,Okano Shunsuke,3,0,"11,11,11|5,8,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-01-12,Yoshida Masaki,Iwaida Shunto,3,1,"6,11,11,11|11,7,7,4",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-01-12,Akae Kaho,Kuriyama Yuna,3,0,"11,11,11|10,8,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-01-12,Cheng I-Ching,SHIOMI Maki,3,1,"11,11,5,11|5,7,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-01-12,Hashimoto Honoka,リ ジンシカ,3,0,"11,11,11|4,6,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-01-12,Okada Kotona/リ ジンシカ,Aoki Sachi/Ito Shiina,2,0,"11,11|10,2",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-01-12,Sasao Asuka,Nomura Moe,3,2,"10,5,11,11,12|11,11,7,7,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-01-12,Sato Hitomi,Mende Rin,3,2,"7,11,11,7,11|11,9,4,11,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-01-12,Shibata Saki,Sakurai Hana,3,0,"11,11,11|5,1,2",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-01-12,Umemura Yuka/SHIOMI Maki,Sasao Asuka/Aso Reina,2,0,"11,11|10,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-08,Hao Shuai,Sone Kakeru,3,2,"11,10,11,10,11|7,11,7,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-08,Jang Woojin,Okano Shunsuke,3,1,"9,11,11,11|11,10,8,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-08,Kizukuri Yuto,Lee Sangsu,3,1,"11,4,11,11|6,11,10,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-08,Kobayashi Hiromu/Arinobu Taimu,Hao Shuai/Oikawa Mizuki,2,1,"9,11,11|11,9,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-08,Takami Masaki/Tanaka Yuta,Iwaida Shunto/Uezu Koji,2,0,"11,11|4,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-08,Tanaka Yuta,Suzuki Hayate,3,0,"11,11,11|8,4,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-08,Uda Yukiya,Tanigaki Yuma,3,2,"11,5,8,11,11|10,11,11,4,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-08,Yoshida Masaki,Iwaida Shunto,3,1,"10,11,11,11|11,7,6,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-08,Akae Kaho,Nakamori Honami,3,0,"11,11,11|10,7,2",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-08,Harimoto Miwa,Yuan Xuejiao,3,0,"11,11,11|7,5,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-08,Jeon Jihee,Sugasawa Yukari,3,1,"8,11,11,11|11,10,9,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-08,Kihara Miyuu/Nagasaki Miyuu,Ma Yuhan/Namba Yurika,2,0,"11,11|9,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-08,Nagasaki Miyuu,Ando Minami,3,2,"11,8,11,6,13|10,11,5,11,11",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-08,Sasao Asuka,Izumo Mikuu,3,1,"6,11,11,11|11,8,1,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-08,Sasao Asuka/Aso Reina,Nakamori Honami/Kudo Yume,2,0,"11,11|2,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-08,チョウ シャン,Namba Yurika,3,1,"7,11,11,11|11,7,1,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-09,Aida Satoshi,Tanaka Yuta,3,1,"11,11,4,11|5,8,11,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-09,Hao Shuai,Yoshimura Kazuhiro,3,0,"11,11,11|9,6,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-09,Hao Shuai/Oikawa Mizuki,Matsushima Sora/Kenta Tazoe,2,0,"11,11|6,1",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-09,Jang Woojin,Hamada Kazuki,3,2,"8,11,11,5,14|11,9,8,11,12",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-09,Matsushima Sora,Lee Sangsu,3,2,"11,11,8,7,11|9,6,11,11,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-09,Matsushita Taisei,Igarashi Fumiya,3,1,"11,11,5,11|4,9,11,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-09,Morizono Masataka/Hamada Kazuki,Takami Masaki/Tanaka Yuta,2,1,"6,11,11|11,7,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-09,Tanigaki Yuma,Oshima Yuya,3,2,"11,10,10,11,12|10,11,11,9,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-09,Ando Minami,Kuriyama Yuna,3,0,"11,11,11|4,2,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-09,Hashimoto Honoka/Sato Hitomi,Sugasawa Yukari/Kudo Yume,2,1,"10,11,11|11,9,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-09,Ma Yuhan/Namba Yurika,SHIOMI Maki/Shudo Narumi,2,0,"11,11|6,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-09,Nomura Moe,Kimura Kasumi,3,1,"8,11,11,11|11,7,8,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-09,Odo Satsuki,Sugasawa Yukari,3,1,"11,11,7,11|10,8,11,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-09,Shibata Saki,Izumo Mikuu,3,0,"11,11,11|7,10,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-09,Yokoi Sakura,Nakamori Honami,3,0,"11,11,11|2,6,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-09,Yuan Xuejiao,今枝 愛美,3,0,"11,11,11|5,7,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-11,Ando Minami,Aso Reina,3,0,"11,11,11|8,10,2",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-11,Ma Yuhan/Namba Yurika,Jeon Jihee/Cheng I-Ching,2,1,"9,11,11|11,6,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-11,Namba Yurika,Sasao Asuka,3,1,"9,11,11,11|11,8,3,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-11,Yuan Xuejiao,Cheng I-Ching,3,1,"7,11,11,11|11,9,6,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-15,Arinobu Taimu,Aida Satoshi,3,0,"11,11,11|10,9,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-15,Kizukuri Yuto,Matsushita Taisei,1,0,11|9,GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-15,Kobayashi Hiromu/Arinobu Taimu,Morizono Masataka/Hamada Kazuki,2,0,"11,11|3,3",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-15,Matsushita Taisei,Uda Yukiya,3,2,"9,11,11,10,16|11,8,9,11,14",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-15,Ryuzaki Tonin,Kizukuri Yuto,3,2,"11,7,11,7,11|10,11,7,11,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-15,Hashimoto Honoka/Sato Hitomi,Nagao Takako/Namba Yurika,2,0,"11,11|9,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-15,Izumo Mikuu,Nomura Moe,3,2,"10,11,8,11,16|11,8,11,7,14",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-15,Kimura Kasumi,Yokoi Sakura,3,1,"11,11,9,11|9,10,11,4",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-15,Kusakabe Shiki,Kuriyama Yuna,3,1,"11,11,8,11|3,7,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-15,Odo Satsuki,Ando Minami,3,1,"11,7,11,11|9,11,10,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-15,Shibata Saki,Namba Yurika,3,1,"11,11,2,11|8,6,11,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-15,Sugasawa Yukari,Ushijima Seira,3,2,"5,11,8,11,11|11,7,11,6,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-15,Umemura Yuka/SHIOMI Maki,Izumo Mikuu/Hirano Asahi,2,1,"11,8,11|9,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-16,Lee Sangsu,Sakai Yuhi,3,1,"11,11,3,11|10,9,11,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-16,Lee Sangsu/Yoshiyama Kazuki,Morizono Masataka/Hamada Kazuki,2,0,"11,11|8,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-16,Matsushita Taisei,Oikawa Mizuki,3,0,"11,11,11|8,3,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-16,Tanigaki Yuma,Ryuzaki Tonin,3,1,"11,11,4,11|5,6,11,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-16,Ando Minami,Kusakabe Shiki,3,0,"11,11,11|3,2,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-16,Harimoto Miwa,Hashimoto Honoka,3,1,"11,11,8,11|8,6,11,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-16,Nagao Takako/Namba Yurika,Izumo Mikuu/Hirano Asahi,2,0,"11,11|8,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-16,Namba Yurika,Izumo Mikuu,3,2,"11,5,10,11,11|7,11,11,8,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-16,Odo Satsuki,Kihara Miyuu,3,2,"9,11,6,11,12|11,4,11,10,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-16,Sato Hitomi,Hirano Miu,3,1,"11,5,11,11|7,11,6,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-16,Sugasawa Yukari,Kimura Kasumi,3,1,"6,11,11,11|11,8,10,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-16,Yokoi Sakura/Odo Satsuki,リ ジンシカ/Joo Cheonhui,2,1,"11,5,11|10,11,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-21,Arinobu Taimu,Iwaida Shunto,3,1,"11,8,11,11|10,11,6,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-21,Okano Shunsuke,Sone Kakeru,3,2,"11,8,3,11,11|6,11,11,10,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-21,Suzuki Hayate/Okano Shunsuke,Kobayashi Hiromu/Arinobu Taimu,2,0,"11,11|5,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-21,Yoshimura Maharu,Jin Takuya,3,1,"9,11,11,11|11,6,10,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-22,Aida Satoshi,Jin Takuya,3,0,"11,11,11|7,5,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-22,Arinobu Taimu,Sakai Yuhi,3,1,"11,4,11,11|9,11,10,3",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-22,Hao Shuai/Oikawa Mizuki,Oshima Yuya/Hagihara Keishi,2,0,"11,11|5,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-22,Kizukuri Yuto,Hamada Kazuki,3,3,"11,10,11,8,8,11|9,11,7,11,11,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-22,Kobayashi Hiromu/Arinobu Taimu,Ryuzaki Tonin/Morizono Masataka,2,0,"11,11|8,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-22,Oshima Yuya,Hao Shuai,3,2,"11,9,2,11,13|9,11,11,9,11",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-22,Tanigaki Yuma,Yoshimura Kazuhiro,3,2,"11,8,11,3,11|9,11,9,11,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-22,Tanigaki Yuma,Yokotani Jo,1,0,11|4,GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-22,Yokotani Jo,Yoshiyama Kazuki,3,0,"11,11,11|10,8,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-22,Akae Kaho,Shibata Saki,3,1,"10,11,11,11|11,9,9,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-22,Akae Kaho,Yokoi Sakura,1,0,11|9,GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-22,Hashimoto Honoka,Sasao Asuka,3,0,"11,11,11|10,10,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-22,Kihara Miyuu,Nomura Moe,3,2,"11,9,11,10,11|5,11,6,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-22,Kobayashi Ringo,チョウ シャン,3,1,"11,11,6,11|6,2,11,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-22,Uesawa Anne/Sasao Asuka,Hashimoto Honoka/Sato Hitomi,2,0,"11,11|1,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-22,Ushijima Seira,Nagasaki Miyuu,3,2,"11,11,6,6,11|10,6,11,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-22,Ushijima Seira,Kihara Miyuu,1,0,11|9,GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-22,Yokoi Sakura,Aso Reina,3,0,"11,11,11|7,8,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-22,リ ジンシカ/Joo Cheonhui,Umemura Yuka/SHIOMI Maki,2,1,"11,9,11|8,11,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-23,Arinobu Taimu,Tanaka Yuta,3,2,"11,10,9,11,11|6,11,11,9,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-23,Harimoto Tomokazu,Yokotani Jo,3,1,"11,11,10,11|5,4,11,3",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-23,Harimoto Tomokazu,Matsushima Sora,1,0,11|6,GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-23,Jin Takuya,Yoshida Masaki,3,1,"7,11,11,11|11,3,10,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-23,Kobayashi Hiromu/Arinobu Taimu,Park Gyuhyeon/Yoshida Masaki,2,0,"11,11|8,3",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-23,Matsushima Sora/Yoshimura Kazuhiro,Suzuki Hayate/Okano Shunsuke,2,0,"11,11|7,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-23,Shinozuka Hiroto,Oshima Yuya,3,2,"11,5,11,8,14|9,11,10,11,12",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-23,Sone Kakeru,Igarashi Fumiya,3,0,"11,11,11|2,6,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-23,Yoshimura Kazuhiro,Cho Seungmin,3,0,"11,11,11|7,6,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-23,Joo Cheonhui,Namba Yurika,3,1,"11,9,11,11|9,11,7,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-23,Kihara Miyuu,Ojio Haruna,3,0,"11,11,11|10,7,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-23,Nagasaki Miyuu,Ando Minami,3,0,"11,11,11|6,10,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-23,Sato Hitomi,Kobayashi Ringo,3,1,"11,9,11,11|10,11,7,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-23,Shibata Saki,Nomura Moe,3,0,"11,11,11|8,7,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-23,Shibata Saki/Ito Shiina,Umemura Yuka/Ushijima Seira,2,0,"11,11|3,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-23,Yokoi Sakura,Ushijima Seira,3,2,"11,7,11,6,11|8,11,3,11,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-23,リ ジンシカ/Joo Cheonhui,Nagao Takako/Namba Yurika,2,1,"10,11,11|11,7,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-24,Lin Yun Ju,Sakai Yuhi,3,0,"11,11,11|10,4,4",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-24,Oshima Yuya,Hamada Kazuki,3,2,"9,11,11,8,11|11,5,5,11,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-24,Ryuzaki Tonin/Morizono Masataka,Matsushima Sora/Yoshimura Kazuhiro,2,1,"11,0,12|10,11,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-02-24,Yoshimura Kazuhiro,Aida Satoshi,3,0,"11,11,11|4,6,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-24,Akae Kaho,Nagasaki Miyuu,3,1,"11,4,11,11|8,11,10,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-24,Cheng I-Ching,Harimoto Miwa,3,1,"11,5,11,11|9,11,9,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-24,Joo Cheonhui,Sasao Asuka,3,1,"11,8,11,11|7,11,9,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-02-24,Uesawa Anne/Sasao Asuka,Kihara Miyuu/Joo Cheonhui,2,1,"11,4,11|5,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-01,Harimoto Tomokazu,Morizono Masataka,3,1,"11,6,11,11|7,11,6,4",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-01,Shinozuka Hiroto,Ryuzaki Tonin,3,0,"11,11,11|10,8,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-01,Yoshimura Maharu,Hamada Kazuki,3,1,"11,6,11,11|10,11,6,4",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-01,Yoshimura Maharu/Cho Seungmin,Machi Asuka/Morizono Masataka,2,0,"11,11|9,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-01,Ando Minami,Hayata Hina,1,0,11|6,GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-01,Cheng I-Ching,Namba Yurika,3,0,"11,11,11|7,1,3",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-01,Hayata Hina,Ando Minami,3,2,"9,11,11,9,11|11,9,5,11,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-01,Izumo Mikuu,Idesawa Kyoka,3,0,"11,11,11|8,5,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-01,Kimura Kasumi,Akae Kaho,3,2,"10,11,4,11,14|11,4,11,10,12",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-01,Kimura Mitsuho,Nomura Moe,3,2,"4,11,11,9,11|11,8,6,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-01,Kimura Mitsuho/Edahiro Hitomi,Umemura Yuka/SHIOMI Maki,2,1,"11,5,11|4,11,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-01,Nagao Takako/Namba Yurika,Uesawa Anne/Sasao Asuka,2,1,"11,7,11|5,11,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-01,Sugasawa Yukari,Ushijima Seira,3,2,"11,8,11,8,11|6,11,5,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-02,Harimoto Tomokazu,Oshima Yuya,3,2,"11,11,7,9,16|6,5,11,11,14",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-02,Matsushima Sora,Yoshimura Maharu,3,2,"9,11,11,10,11|11,10,6,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-02,Shinozuka Hiroto,Hagihara Keishi,3,2,"11,6,11,9,11|7,11,1,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-02,Yoshimura Maharu/Cho Seungmin,Matsushima Sora/Kenta Tazoe,2,0,"11,11|5,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-02,Hirano Miu,Ushijima Seira,3,0,"11,11,11|5,4,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-02,Kihara Miyuu,Idesawa Kyoka,3,2,"11,11,9,10,13|7,7,11,11,11",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-02,Nagao Takako/Namba Yurika,Aoki Sachi/Odo Satsuki,2,1,"11,8,11|10,11,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-02,Nagasaki Miyuu,Nomura Moe,3,0,"11,11,11|4,10,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-02,Odo Satsuki,Kimura Kasumi,3,2,"9,7,11,11,12|11,11,6,2,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-02,Shibata Saki,Namba Yurika,3,0,"11,11,11|10,5,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-02,Umemura Yuka/SHIOMI Maki,Nagasaki Miyuu/Harimoto Miwa,2,1,"11,6,11|7,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-02,Yokoi Sakura,Ando Minami,3,0,"11,11,11|8,8,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-08,Arinobu Taimu,Oshima Yuya,3,0,"11,11,11|7,8,3",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-08,Hao Shuai,Morizono Masataka,3,0,"11,11,11|0,0,0",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-08,Kizukuri Yuto,Matsushima Sora,1,0,11|7,GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-08,Kobayashi Hiromu/Arinobu Taimu,Lin Yun Ju/Yoshimura Kazuhiro,2,1,"11,9,11|8,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-08,Lee Sangsu,Sakai Yuhi,3,1,"11,11,10,11|9,2,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-08,Lee Sangsu/Yoshiyama Kazuki,Ryuzaki Tonin/Morizono Masataka,2,0,"11,11|8,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-08,Lin Yun Ju,Kizukuri Yuto,3,2,"11,7,10,11,11|4,11,11,6,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-08,Matsushima Sora,Uda Yukiya,3,1,"10,11,11,11|11,8,4,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-08,Tanigaki Yuma,Ryuzaki Tonin,3,1,"10,11,11,11|11,7,5,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-08,Akae Kaho,Nomura Moe,3,1,"11,6,11,11|5,11,9,2",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-08,Harimoto Miwa,Nakamori Honami,3,1,"10,11,11,11|11,7,5,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-08,Hayata Hina,Kobayashi Ringo,3,1,"8,11,11,11|11,8,8,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-08,Hirano Miu,Izumo Mikuu,3,0,"11,11,11|10,8,2",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-08,Kihara Miyuu/Nagasaki Miyuu,Izumo Mikuu/Hirano Asahi,2,0,"11,11|9,4",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-08,Nagasaki Miyuu,Sugasawa Yukari,3,0,"11,11,11|7,5,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-08,Sasao Asuka,Idesawa Kyoka,3,0,"11,11,11|6,9,3",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-08,Uesawa Anne/Sasao Asuka,Nomura Moe/Kuriyama Yuna,2,1,"11,6,11|6,11,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-09,Hao Shuai/Hibiki Tazoe,Suzuki Hayate/Shinozuka Hiroto,2,0,"11,11|7,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-09,Harimoto Tomokazu,Hao Shuai,3,0,"11,11,11|9,6,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-09,Harimoto Tomokazu,Yoshiyama Kazuki,1,0,11|9,GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-09,Matsushima Sora,Tokuda Kanta,3,0,"11,11,11|4,7,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-09,Matsushima Sora/Lin Yun Ju,Tokuda Kanta/Igarashi Fumiya,2,0,"11,11|8,4",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-09,Oshima Yuya,Tanaka Yuta,3,1,"11,11,7,11|9,9,11,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-09,Yoshimura Kazuhiro,Yoshida Masaki,3,1,"11,10,11,11|3,11,8,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-09,Yoshimura Maharu,Oikawa Mizuki,3,0,"11,11,11|8,6,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-09,Yoshiyama Kazuki,Shinozuka Hiroto,3,2,"10,11,11,9,11|11,9,7,11,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-09,Ando Minami/Kimura Kasumi,Kihara Miyuu/Nagasaki Miyuu,2,1,"2,11,11|11,3,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-09,Harimoto Miwa,Namba Yurika,3,1,"11,10,11,11|6,11,10,4",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-09,Hashimoto Honoka,Akae Kaho,3,2,"5,10,11,11,13|11,11,6,10,11",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-09,Hirano Miu,Ando Minami,3,1,"11,8,11,11|4,11,2,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-09,Kihara Miyuu,Ojio Yuna,3,0,"11,11,11|5,3,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-09,Odo Satsuki,Sasao Asuka,3,0,"11,11,11|10,6,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-09,Sasao Asuka/Aso Reina,Aoki Sachi/Yokoi Sakura,2,0,"11,11|10,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-09,Yokoi Sakura,Uesawa Anne,3,1,"11,8,11,11|8,11,6,4",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-15,Arinobu Taimu,Matsudaira Kenta,3,1,"11,5,11,11|6,11,7,4",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-15,Kobayashi Hiromu/Arinobu Taimu,Tokuda Kanta/Yoshida Masaki,2,1,"8,11,11|11,6,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-15,Tanaka Yuta,Jin Takuya,3,1,"11,4,11,11|8,11,8,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-15,Tanaka Yuta,Sone Kakeru,1,0,13|11,GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-15,Yoshida Masaki,Sone Kakeru,3,0,"11,11,11|10,7,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-15,Ando Minami,Izumo Mikuu,3,0,"11,11,11|7,7,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-15,Kimura Kasumi,Sugasawa Yukari,3,0,"11,11,11|5,9,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-15,Nagao Takako/Namba Yurika,Izumo Mikuu/Hirano Asahi,2,0,"11,11|6,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-15,Namba Yurika,Matsushima Miku,3,1,"11,11,3,11|7,6,11,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-16,Hao Shuai,Yoshida Masaki,3,2,"11,9,10,11,11|6,11,11,6,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-16,Tanaka Yuta,Tanigaki Yuma,3,1,"11,8,11,11|5,11,10,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-16,Tokuda Kanta/Yoshida Masaki,Hao Shuai/Oikawa Mizuki,2,1,"11,8,11|10,11,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-16,Yoshiyama Ryoichi,Matsudaira Kenta,3,1,"11,8,11,11|10,11,8,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-16,Yoshiyama Ryoichi,Tanaka Yuta,1,0,14|12,GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-16,Ando Minami,Joo Cheonhui,3,2,"11,6,11,10,11|9,11,10,11,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-16,Kihara Miyuu,Kimura Kasumi,3,2,"10,9,11,11,11|11,11,8,9,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-16,Nagao Takako/Namba Yurika,Kihara Miyuu/Hirano Miu,2,0,"11,11|8,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-16,Nagasaki Miyuu,Namba Yurika,3,1,"11,10,11,11|6,11,3,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-16,Nagasaki Miyuu,Ando Minami,1,0,11|8,GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-22,Kobayashi Hiromu/Arinobu Taimu,Lee Sangsu/Yoshiyama Kazuki,2,0,"11,13|5,11",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-22,Lee Sangsu,Kizukuri Yuto,3,0,"11,11,11|7,3,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-22,Uda Yukiya,Tanigaki Yuma,3,2,"15,11,11,9,12|17,7,8,11,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-22,Uda Yukiya,Yoshiyama Ryoichi,1,0,11|9,GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-22,Yoshiyama Ryoichi,Jin Takuya,3,0,"11,11,11|9,8,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-22,Harimoto Miwa,Akae Kaho,3,1,"10,17,11,11|12,15,5,5",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-22,Hirano Miu,Sasao Asuka,3,1,"6,11,11,11|11,9,2,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-22,Joo Cheonhui,Uesawa Anne,3,0,"11,11,11|9,8,8",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-22,Sasao Asuka/Aso Reina,Nagasaki Miyuu/Joo Cheonhui,2,0,"11,11|1,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-23,Arinobu Taimu,Yoshimura Maharu,3,1,"11,9,11,11|9,11,4,6",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-23,Harimoto Tomokazu,Sone Kakeru,3,2,"11,8,11,13,11|5,11,8,15,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-23,Kobayashi Hiromu/Arinobu Taimu,Yoshimura Maharu/Cho Seungmin,2,1,"11,9,12|6,11,10",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Men's,2025-03-23,Uda Yukiya,Shinozuka Hiroto,3,2,"11,8,11,7,11|9,11,9,11,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-23,Harimoto Miwa,Hashimoto Honoka,3,1,"11,7,11,11|9,11,6,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-23,Hirano Miu,Sato Hitomi,3,0,"11,11,11|6,7,9",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-23,Kihara Miyuu,Odo Satsuki,3,2,"8,8,11,11,11|11,11,7,9,7",GROUP,JP_T_LEAGUE
+2024/25 Japan T.League Women's,2025-03-23,Yokoi Sakura/Odo Satsuki,Kihara Miyuu/Nagasaki Miyuu,2,0,"11,11|7,9",GROUP,JP_T_LEAGUE

@@ -14,6 +14,8 @@
     "CN_NATIONAL_GAMES":          { "name_zh": "全运会",             "name_en": "Chinese National Games",           "k": 24 },
     "CN_NATIONAL_CHAMPIONSHIPS":  { "name_zh": "全锦赛",             "name_en": "Chinese National Championships",   "k": 16 },
     "EURO_LEAGUE":            { "name_zh": "欧洲联赛",           "name_en": "European League",                 "k": 14 },
+    "JP_T_LEAGUE":            { "name_zh": "日本 T 联赛",        "name_en": "Japan T.League",                  "k": 14 },
+    "US_MLTT":                { "name_zh": "美国 MLTT",          "name_en": "US Major League Table Tennis",    "k": 14 },
     "OTHER":                  { "name_zh": "其他",               "name_en": "Other",                           "k": 12 }
   },
   "round_multiplier": {
@@ -47,6 +49,10 @@
     { "pattern": "WTT Contender",                  "tier": "WTT_CONTENDER" },
     { "pattern": "WTT Feeder",                     "tier": "WTT_FEEDER" },
     { "pattern": "Super League",                   "tier": "CN_NATIONAL_LEAGUE" },
+    { "pattern": "T.League",                       "tier": "JP_T_LEAGUE" },
+    { "pattern": "T-League",                       "tier": "JP_T_LEAGUE" },
+    { "pattern": "T League",                       "tier": "JP_T_LEAGUE" },
+    { "pattern": "MLTT",                           "tier": "US_MLTT" },
     { "pattern": "German League",                  "tier": "EURO_LEAGUE" },
     { "pattern": "European",                       "tier": "EURO_LEAGUE" },
     { "pattern": "National Games",                  "tier": "CN_NATIONAL_GAMES" },
