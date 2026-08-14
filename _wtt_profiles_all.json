@@ -1,0 +1,687 @@
+{
+ "温瑞博": {
+  "birth_date": "2007-01-05",
+  "birth_year": "2007",
+  "country": "CHN",
+  "avatar_url": "/data/avatars/WEN Ruibo.png"
+ },
+ "COTON Flavien": {
+  "birth_date": "2008-04-07",
+  "birth_year": "2008",
+  "country": "FRA",
+  "avatar_url": "/data/avatars/COTON Flavien.png"
+ },
+ "IDESAWA Kyoka": {
+  "birth_date": "2002-06-28",
+  "birth_year": "2002",
+  "country": "JPN",
+  "avatar_url": "/data/avatars/IDESAWA Kyoka.png"
+ },
+ "CHEN Junsong": {
+  "birth_date": "2005-07-04",
+  "birth_year": "2005",
+  "country": "CHN",
+  "avatar_url": "/data/avatars/CHEN Junsong.png"
+ },
+ "OJIO Yuna": {
+  "birth_date": "2008-07-05",
+  "birth_year": "2008",
+  "country": "JPN",
+  "avatar_url": "/data/avatars/OJIO Yuna.png"
+ },
+ "FLORE Tristan": {
+  "birth_date": "1995-01-02",
+  "birth_year": "1995",
+  "country": "FRA",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/FLORE Tristan.png"
+ },
+ "李倩": {
+  "birth_date": "1986-07-30",
+  "birth_year": "1986",
+  "country": "POL",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/Li Qian.png"
+ },
+ "WU Yangchen": {
+  "birth_date": "2002-01-03",
+  "birth_year": "2002",
+  "country": "CHN",
+  "style": "右手直拍",
+  "avatar_url": "/data/avatars/WU Yangchen.png"
+ },
+ "李多恩": {
+  "birth_date": "2005-03-20",
+  "birth_year": "2005",
+  "country": "KOR",
+  "avatar_url": "/data/avatars/LEE Daeun.png"
+ },
+ "RI Jong Sik": {
+  "birth_date": "2000-02-14",
+  "birth_year": "2000",
+  "country": "PRK",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/RI Jong Sik.png"
+ },
+ "AOKI Sachi": {
+  "birth_date": "2007-04-10",
+  "birth_year": "2007",
+  "country": "JPN",
+  "avatar_url": "/data/avatars/AOKI Sachi.png"
+ },
+ "KANEYOSHI Yuka": {
+  "birth_date": "2006-11-01",
+  "birth_year": "2006",
+  "country": "JPN",
+  "avatar_url": "/data/avatars/KANEYOSHI Yuka.png"
+ },
+ "TANIGAKI Yuma": {
+  "birth_date": "2003-06-03",
+  "birth_year": "2003",
+  "country": "JPN",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/TANIGAKI Yuma.png"
+ },
+ "郭冠宏": {
+  "birth_date": "2008-10-24",
+  "birth_year": "2008",
+  "country": "TPE",
+  "avatar_url": "/data/avatars/KUO Guan-Hong.png"
+ },
+ "SONE Kakeru": {
+  "birth_date": "2002-12-01",
+  "birth_year": "2002",
+  "country": "JPN",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/SONE Kakeru.png"
+ },
+ "GOMEZ Gustavo": {
+  "birth_date": "1994-02-28",
+  "birth_year": "1994",
+  "country": "CHI",
+  "style": "左手横拍",
+  "avatar_url": "/data/avatars/GOMEZ Gustavo.png"
+ },
+ "朱思冰": {
+  "birth_date": "2000-03-29",
+  "birth_year": "2000",
+  "country": "CHN",
+  "avatar_url": "/data/avatars/ZHU Sibing.png"
+ },
+ "CIFUENTES Horacio": {
+  "birth_date": "1998-03-16",
+  "birth_year": "1998",
+  "country": "ARG",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/CIFUENTES Horacio.png"
+ },
+ "黄禹杰": {
+  "birth_date": "2003-05-03",
+  "birth_year": "2003",
+  "country": "TPE",
+  "avatar_url": "/data/avatars/HUANG Yu-Jie.png"
+ },
+ "KOBAYASHI Hiromu": {
+  "birth_date": "2002-09-21",
+  "birth_year": "2002",
+  "country": "JPN",
+  "style": "左手横拍",
+  "avatar_url": "/data/avatars/KOBAYASHI Hiromu.png"
+ },
+ "HACHARD Antoine": {
+  "birth_date": "1994-03-06",
+  "birth_year": "1994",
+  "country": "FRA",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/HACHARD Antoine.png"
+ },
+ "Tiago Apolónia": {
+  "birth_date": "1986-07-28",
+  "birth_year": "1986",
+  "country": "POR",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/APOLONIA Tiago.png"
+ },
+ "PARENZAN Matteo": {
+  "birth_date": "2003-06-23",
+  "birth_year": "2003",
+  "country": "ITA",
+  "avatar_url": "/data/avatars/PARENZAN Matteo.png"
+ },
+ "YOKOTANI Jo": {
+  "birth_date": "2002-05-01",
+  "birth_year": "2002",
+  "country": "JPN",
+  "avatar_url": "/data/avatars/YOKOTANI Jo.png"
+ },
+ "Mattias Falck": {
+  "birth_date": "1991-09-07",
+  "birth_year": "1991",
+  "country": "SWE",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/FALCK Mattias.png"
+ },
+ "PEK Karolina": {
+  "birth_date": "1998-08-02",
+  "birth_year": "1998",
+  "country": "POL",
+  "avatar_url": "/data/avatars/PEK Karolina.png"
+ },
+ "THAKKAR Manav": {
+  "birth_date": "2000-04-14",
+  "birth_year": "2000",
+  "country": "IND",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/THAKKAR Manav.png"
+ },
+ "ANDRAS Csaba": {
+  "birth_date": "2002-08-02",
+  "birth_year": "2002",
+  "country": "HUN",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/ANDRAS Csaba.png"
+ },
+ "LAY Jian Fang": {
+  "birth_date": "1973-03-06",
+  "birth_year": "1973",
+  "country": "AUS",
+  "style": "右手直拍",
+  "avatar_url": "/data/avatars/LAY Jian Fang.png"
+ },
+ "TIKHONOV Evgeny": {
+  "birth_date": "2005-10-06",
+  "birth_year": "2005",
+  "country": "RUS",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/TIKHONOV Evgeny.png"
+ },
+ "SKACHKOV Kirill": {
+  "birth_date": "1987-08-06",
+  "birth_year": "1987",
+  "country": "RUS",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/SKACHKOV Kirill.png"
+ },
+ "ORT Kilian": {
+  "birth_date": "1996-04-27",
+  "birth_year": "1996",
+  "country": "GER",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/ORT Kilian.png"
+ },
+ "LEBESSON Emmanuel": {
+  "birth_date": "1988-04-24",
+  "birth_year": "1988",
+  "country": "FRA",
+  "style": "左手横拍",
+  "avatar_url": "/data/avatars/LEBESSON Emmanuel.png"
+ },
+ "PEREIRA Andy": {
+  "birth_date": "1989-08-31",
+  "birth_year": "1989",
+  "country": "CUB",
+  "style": "左手横拍",
+  "avatar_url": "/data/avatars/PEREIRA Andy.png"
+ },
+ "JIN Takuya": {
+  "birth_date": "1993-03-02",
+  "birth_year": "1993",
+  "country": "JPN",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/JIN Takuya.png"
+ },
+ "IONESCU Eduard": {
+  "birth_date": "2004-11-09",
+  "birth_year": "2004",
+  "country": "ROU",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/IONESCU Eduard.png"
+ },
+ "纵歌曼": {
+  "birth_date": "2006-09-20",
+  "birth_year": "2006",
+  "country": "CHN",
+  "avatar_url": "/data/avatars/ZONG Geman.png"
+ },
+ "GACINA Andrej": {
+  "birth_date": "1986-05-21",
+  "birth_year": "1986",
+  "country": "CRO",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/GACINA Andrej.png"
+ },
+ "周恺": {
+  "birth_date": "1996-03-01",
+  "birth_year": "1996",
+  "country": "CHN",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/ZHOU Kai.png"
+ },
+ "BERTHIER Clement": {
+  "birth_date": "2000-03-02",
+  "birth_year": "2000",
+  "country": "FRA",
+  "avatar_url": "/data/avatars/BERTHIER Clement.png"
+ },
+ "寇磊": {
+  "birth_date": "1987-11-20",
+  "birth_year": "1987",
+  "country": "UKR",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/Kou Lei.png"
+ },
+ "FILUS Ruwen": {
+  "birth_date": "1988-02-14",
+  "birth_year": "1988",
+  "country": "GER",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/FILUS Ruwen.png"
+ },
+ "PERSSON Jon": {
+  "birth_date": "1986-10-23",
+  "birth_year": "1986",
+  "country": "SWE",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/PERSSON Jon.png"
+ },
+ "BADOWSKI Marek": {
+  "birth_date": "1997-06-23",
+  "birth_year": "1997",
+  "country": "POL",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/BADOWSKI Marek.png"
+ },
+ "牛冠凯": {
+  "birth_date": "2002-01-28",
+  "birth_year": "2002",
+  "country": "CHN",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/NIU Guankai.png"
+ },
+ "TAO Wenzhang": {
+  "birth_date": "1994-04-21",
+  "birth_year": "1994",
+  "country": "USA",
+  "style": "右手直拍",
+  "avatar_url": "/data/avatars/TAO  Wenzhang.png"
+ },
+ "IONESCU Ovidiu": {
+  "birth_date": "1989-06-28",
+  "birth_year": "1989",
+  "country": "ROU",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/IONESCU Ovidiu.png"
+ },
+ "RUIZ Romain": {
+  "birth_date": "1997-03-28",
+  "birth_year": "1997",
+  "country": "FRA",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/RUIZ Romain.png"
+ },
+ "PANG Yew En Koen": {
+  "birth_date": "2002-05-08",
+  "birth_year": "2002",
+  "country": "SGP",
+  "style": "左手横拍",
+  "avatar_url": "/data/avatars/PANG Yew En Koen.png"
+ },
+ "BERTELSMEIER Andre": {
+  "birth_date": "2005-10-25",
+  "birth_year": "2005",
+  "country": "GER",
+  "avatar_url": "/data/avatars/BERTELSMEIER Andre.png"
+ },
+ "ROLLAND Jules": {
+  "birth_date": "2000-09-04",
+  "birth_year": "2000",
+  "country": "FRA",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/ROLLAND Jules.png"
+ },
+ "YIANGOU Marios": {
+  "birth_date": "1991-08-10",
+  "birth_year": "1991",
+  "country": "CYP",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/YIANGOU Marios.png"
+ },
+ "Robert Gardos": {
+  "birth_date": "1979-01-16",
+  "birth_year": "1979",
+  "country": "AUT",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/GARDOS Robert.png"
+ },
+ "KIM Donghyun": {
+  "birth_date": "1994-11-10",
+  "birth_year": "1994",
+  "country": "KOR",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/KIM Donghyun.png"
+ },
+ "TAKEYA Misuzu": {
+  "birth_date": "2008-04-17",
+  "birth_year": "2008",
+  "country": "JPN",
+  "avatar_url": "/data/avatars/TAKEYA Misuzu.png"
+ },
+ "CAMPOS Jorge": {
+  "birth_date": "1991-09-19",
+  "birth_year": "1991",
+  "country": "CUB",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/CAMPOS Jorge.png"
+ },
+ "KIM Minhyeok": {
+  "birth_date": "1996-12-20",
+  "birth_year": "1996",
+  "country": "KOR",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/KIM Minhyeok.png"
+ },
+ "TIAN Shiau Wen": {
+  "birth_date": "1999-12-14",
+  "birth_year": "1999",
+  "country": "TPE",
+  "avatar_url": "/data/avatars/TIAN Shiau Wen.png"
+ },
+ "PARK Gahyeon": {
+  "birth_date": "2007-08-18",
+  "birth_year": "2007",
+  "country": "KOR",
+  "avatar_url": "/data/avatars/PARK Gahyeon.png"
+ },
+ "TSUBOI Gustavo": {
+  "birth_date": "1985-05-31",
+  "birth_year": "1985",
+  "country": "BRA",
+  "style": "左手横拍",
+  "avatar_url": "/data/avatars/TSUBOI Gustavo.png"
+ },
+ "RANEFUR Elias": {
+  "birth_date": "1996-06-29",
+  "birth_year": "1996",
+  "country": "SWE",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/RANEFUR Elias.png"
+ },
+ "SAKAI Yuhi": {
+  "birth_date": "2006-09-19",
+  "birth_year": "2006",
+  "country": "JPN",
+  "avatar_url": "/data/avatars/SAKAI Yuhi.png"
+ },
+ "LIANG Yanning": {
+  "birth_date": "2001-02-03",
+  "birth_year": "2001",
+  "country": "CHN",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/LIANG Yanning.png"
+ },
+ "ABDELAZIZ Youssef": {
+  "birth_date": "2000-02-17",
+  "birth_year": "2000",
+  "country": "EGY",
+  "style": "左手横拍",
+  "avatar_url": "/data/avatars/ABDELAZIZ Youssef.png"
+ },
+ "VERDONSCHOT Wim": {
+  "birth_date": "2005-05-15",
+  "birth_year": "2005",
+  "country": "GER",
+  "avatar_url": "/data/avatars/VERDONSCHOT Wim.png"
+ },
+ "禹炯圭": {
+  "birth_date": "2002-01-02",
+  "birth_year": "2002",
+  "country": "KOR",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/WOO Hyeonggyu.png"
+ },
+ "SAWETTABUT Suthasini": {
+  "birth_date": "1994-12-09",
+  "birth_year": "1994",
+  "country": "THA",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/SAWETTABUT Suthasini.png"
+ },
+ "UESAWA Anne": {
+  "birth_date": "2007-02-26",
+  "birth_year": "2007",
+  "country": "JPN",
+  "style": "左手横拍",
+  "avatar_url": "/data/avatars/UESAWA Anne.png"
+ },
+ "PISTEJ Lubomir": {
+  "birth_date": "1984-03-06",
+  "birth_year": "1984",
+  "country": "SVK",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/PISTEJ Lubomir.png"
+ },
+ "马金宝": {
+  "birth_date": "2000-02-18",
+  "birth_year": "2000",
+  "country": "USA",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/MA Jinbao.png"
+ },
+ "ARTEMENKO Nikita": {
+  "birth_date": "1999-04-13",
+  "birth_year": "1999",
+  "country": "RUS",
+  "style": "左手横拍",
+  "avatar_url": "/data/avatars/ARTEMENKO Nikita.png"
+ },
+ "金成珍": {
+  "birth_date": "2005-01-26",
+  "birth_year": "2005",
+  "country": "KOR",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/KIM Seongjin.png"
+ },
+ "WALTHER Ricardo": {
+  "birth_date": "1991-11-30",
+  "birth_year": "1991",
+  "country": "GER",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/WALTHER Ricardo.png"
+ },
+ "KIMURA Kasumi": {
+  "birth_date": "1999-10-24",
+  "birth_year": "1999",
+  "country": "JPN",
+  "avatar_url": "/data/avatars/KIMURA Kasumi.png"
+ },
+ "ORTEGA Daniela": {
+  "birth_date": "1998-08-25",
+  "birth_year": "1998",
+  "country": "CHI",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/ORTEGA Daniela.png"
+ },
+ "TEODORO Guilherme": {
+  "birth_date": "2001-12-03",
+  "birth_year": "2001",
+  "country": "BRA",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/TEODORO Guilherme.png"
+ },
+ "RAKOVAC Lea": {
+  "birth_date": "1996-03-03",
+  "birth_year": "1996",
+  "country": "CRO",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/RAKOVAC Lea.png"
+ },
+ "LI Chunli": {
+  "birth_date": "1962-02-28",
+  "birth_year": "1962",
+  "country": "NZL",
+  "avatar_url": "/data/avatars/LI Chunli.png"
+ },
+ "BURGOS Nicolas": {
+  "birth_date": "2001-12-17",
+  "birth_year": "2001",
+  "country": "CHI",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/BURGOS Nicolas.png"
+ },
+ "MENDE Rin": {
+  "birth_date": "2007-12-31",
+  "birth_year": "2007",
+  "country": "JPN",
+  "avatar_url": "/data/avatars/MENDE Rin.png"
+ },
+ "BOBOCICA Mihai": {
+  "birth_date": "1986-09-08",
+  "birth_year": "1986",
+  "country": "ITA",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/BOBOCICA Mihai.png"
+ },
+ "NUYTINCK Cedric": {
+  "birth_date": "1993-01-06",
+  "birth_year": "1993",
+  "country": "BEL",
+  "style": "左手横拍",
+  "avatar_url": "/data/avatars/NUYTINCK Cedric.png"
+ },
+ "DIACONU Adina": {
+  "birth_date": "1999-10-14",
+  "birth_year": "1999",
+  "country": "ROU",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/DIACONU Adina.png"
+ },
+ "DAS Syndrela": {
+  "birth_date": "2009-08-23",
+  "birth_year": "2009",
+  "country": "IND",
+  "avatar_url": "/data/avatars/DAS Syndrela.png"
+ },
+ "LUPULESKU Izabela": {
+  "birth_date": "1999-11-07",
+  "birth_year": "1999",
+  "country": "SRB",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/LUPULESKU Izabela.png"
+ },
+ "OKANO Shunsuke": {
+  "birth_date": "2004-02-09",
+  "birth_year": "2004",
+  "country": "JPN",
+  "avatar_url": "/data/avatars/OKANO Shunsuke.png"
+ },
+ "OMODA Kotomi": {
+  "birth_date": "2004-04-07",
+  "birth_year": "2004",
+  "country": "JPN",
+  "avatar_url": "/data/avatars/OMODA Kotomi.png"
+ },
+ "TSAI Yun-En": {
+  "birth_date": "2004-05-09",
+  "birth_year": "2004",
+  "country": "TPE",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/TSAI Yun-En.png"
+ },
+ "李皓晴": {
+  "birth_date": "1992-11-24",
+  "birth_year": "1992",
+  "country": "HKG",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/LEE Ho Ching.png"
+ },
+ "AIDA Satoshi": {
+  "birth_date": "1993-03-19",
+  "birth_year": "1993",
+  "country": "JPN",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/AIDA Satoshi.png"
+ },
+ "周哲宇": {
+  "birth_date": "2006-05-26",
+  "birth_year": "2006",
+  "country": "SGP",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/QUEK Izaac.png"
+ },
+ "LORENZO Santiago": {
+  "birth_date": "2001-09-21",
+  "birth_year": "2001",
+  "country": "ARG",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/LORENZO Santiago.png"
+ },
+ "BAJOR Natalia": {
+  "birth_date": "1997-03-07",
+  "birth_year": "1997",
+  "country": "POL",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/BAJOR Natalia.png"
+ },
+ "URSU Vladislav": {
+  "birth_date": "2001-03-01",
+  "birth_year": "2001",
+  "country": "MDA",
+  "style": "左手横拍",
+  "avatar_url": "/data/avatars/URSU Vladislav.png"
+ },
+ "ISMAILOV Sadi": {
+  "birth_date": "1996-11-04",
+  "birth_year": "1996",
+  "country": "RUS",
+  "style": "左手横拍",
+  "avatar_url": "/data/avatars/ISMAILOV Sadi.png"
+ },
+ "ACHANTA Sharath": {
+  "birth_date": "1982-07-12",
+  "birth_year": "1982",
+  "country": "IND",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/ACHANTA Sharath.png"
+ },
+ "PAL Akash": {
+  "birth_date": "2001-11-28",
+  "birth_year": "2001",
+  "country": "IND",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/PAL Akash.png"
+ },
+ "ZHU Ziyu": {
+  "birth_date": "2006-01-11",
+  "birth_year": "2006",
+  "country": "CHN",
+  "avatar_url": "/data/avatars/ZHU Ziyu.png"
+ },
+ "KHEROUF Sami": {
+  "birth_date": "1988-11-15",
+  "birth_year": "1988",
+  "country": "ALG",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/KHEROUF Sami.png"
+ },
+ "Samuel KULCZYCKI": {
+  "birth_date": "2002-08-09",
+  "birth_year": "2002",
+  "country": "POL",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/KULCZYCKI Samuel.png"
+ },
+ "张默": {
+  "birth_date": "1989-01-17",
+  "birth_year": "1989",
+  "country": "CAN",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/Zhang Mo.png"
+ },
+ "WANG Eugene": {
+  "birth_date": "1985-11-13",
+  "birth_year": "1985",
+  "country": "CAN",
+  "style": "右手横拍",
+  "avatar_url": "/data/avatars/WANG Eugene.png"
+ }
+}
