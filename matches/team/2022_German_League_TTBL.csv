@@ -1,0 +1,137 @@
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier
+2022/23 German League,2022-08-28,SV Werder Bremen,TSV Bad Königshofen,3,2,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-08-28,TTC Neu-Ulm,ASV Grünwettersbach,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-08-28,TTC Schwalbe Bergneustadt,1. FSV Mainz 05,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-08-28,TTF Liebherr Ochsenhausen,TTC RhönSprudel Fulda-Maberzell,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-08-29,Borussia Düsseldorf,Post SV Mühlhausen,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-08-29,TTC Zugbrücke Grenzau,1. FC Saarbrücken-TT,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-09-02,1. FC Saarbrücken-TT,TTC Neu-Ulm,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-09-02,ASV Grünwettersbach,TTC Zugbrücke Grenzau,3,2,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-09-02,TTC RhönSprudel Fulda-Maberzell,TTC Schwalbe Bergneustadt,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-09-04,Borussia Düsseldorf,1. FSV Mainz 05,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-09-04,SV Werder Bremen,Post SV Mühlhausen,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-09-05,TTF Liebherr Ochsenhausen,TSV Bad Königshofen,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-09-09,Borussia Düsseldorf,SV Werder Bremen,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-09-10,TSV Bad Königshofen,ASV Grünwettersbach,3,2,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-09-11,1. FC Saarbrücken-TT,TTC RhönSprudel Fulda-Maberzell,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-09-11,TTF Liebherr Ochsenhausen,TTC Schwalbe Bergneustadt,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-09-12,Post SV Mühlhausen,1. FSV Mainz 05,3,2,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-09-12,TTC Neu-Ulm,TTC Zugbrücke Grenzau,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-09-18,1. FC Saarbrücken-TT,Post SV Mühlhausen,3,2,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-09-18,1. FSV Mainz 05,TTF Liebherr Ochsenhausen,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-09-19,Borussia Düsseldorf,ASV Grünwettersbach,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-09-19,SV Werder Bremen,TTC RhönSprudel Fulda-Maberzell,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-09-19,TTC Neu-Ulm,TSV Bad Königshofen,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-09-19,TTC Schwalbe Bergneustadt,TTC Zugbrücke Grenzau,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-11-06,1. FC Saarbrücken-TT,1. FSV Mainz 05,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-11-06,ASV Grünwettersbach,SV Werder Bremen,3,2,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-11-06,Borussia Düsseldorf,TTF Liebherr Ochsenhausen,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-11-06,Post SV Mühlhausen,TTC RhönSprudel Fulda-Maberzell,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-11-06,TTC Neu-Ulm,TTC Schwalbe Bergneustadt,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-11-07,TSV Bad Königshofen,TTC Zugbrücke Grenzau,3,2,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-11-11,TSV Bad Königshofen,1. FC Saarbrücken-TT,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-11-12,SV Werder Bremen,1. FSV Mainz 05,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-11-13,TTC RhönSprudel Fulda-Maberzell,TTC Zugbrücke Grenzau,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-11-13,TTF Liebherr Ochsenhausen,Post SV Mühlhausen,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-11-14,ASV Grünwettersbach,TTC Schwalbe Bergneustadt,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-11-26,Borussia Düsseldorf,TTC Neu-Ulm,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-11-26,Post SV Mühlhausen,ASV Grünwettersbach,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-11-26,TTF Liebherr Ochsenhausen,SV Werder Bremen,3,2,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-11-27,1. FC Saarbrücken-TT,TTC Schwalbe Bergneustadt,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-11-27,1. FSV Mainz 05,TTC Zugbrücke Grenzau,3,3,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-11-27,Borussia Düsseldorf,TSV Bad Königshofen,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-11-28,TTC Neu-Ulm,TTC RhönSprudel Fulda-Maberzell,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-12-02,1. FC Saarbrücken-TT,SV Werder Bremen,3,2,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-12-02,Post SV Mühlhausen,TTC Zugbrücke Grenzau,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-12-03,TTC Neu-Ulm,1. FSV Mainz 05,3,2,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-12-04,ASV Grünwettersbach,TTF Liebherr Ochsenhausen,3,2,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-12-04,Borussia Düsseldorf,TTC RhönSprudel Fulda-Maberzell,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-12-04,TSV Bad Königshofen,TTC Schwalbe Bergneustadt,3,2,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-12-09,SV Werder Bremen,TTC Neu-Ulm,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-12-10,TSV Bad Königshofen,TTC RhönSprudel Fulda-Maberzell,3,2,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-12-11,ASV Grünwettersbach,1. FSV Mainz 05,3,2,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-12-11,Borussia Düsseldorf,1. FC Saarbrücken-TT,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-12-11,Post SV Mühlhausen,TTC Schwalbe Bergneustadt,3,2,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-12-12,TTF Liebherr Ochsenhausen,TTC Zugbrücke Grenzau,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-12-16,1. FC Saarbrücken-TT,TTF Liebherr Ochsenhausen,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-12-16,TTC RhönSprudel Fulda-Maberzell,ASV Grünwettersbach,3,2,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-12-17,1. FSV Mainz 05,TSV Bad Königshofen,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-12-18,TTC Schwalbe Bergneustadt,SV Werder Bremen,7,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-12-18,TTC Zugbrücke Grenzau,Borussia Düsseldorf,3,2,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-12-19,Post SV Mühlhausen,TTC Neu-Ulm,5,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-12-20,SV Werder Bremen,TTC Zugbrücke Grenzau,3,2,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-12-21,1. FC Saarbrücken-TT,ASV Grünwettersbach,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-12-21,Borussia Düsseldorf,TTC Schwalbe Bergneustadt,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-12-21,TSV Bad Königshofen,Post SV Mühlhausen,3,2,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-12-22,TTC RhönSprudel Fulda-Maberzell,1. FSV Mainz 05,3,2,,GROUP,EURO_LEAGUE
+2022/23 German League,2022-12-22,TTF Liebherr Ochsenhausen,TTC Neu-Ulm,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-01-06,Post SV Mühlhausen,ASV Grünwettersbach,3,2,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-01-07,TSV Bad Königshofen,TTC RhönSprudel Fulda-Maberzell,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-01-07,TTC Schwalbe Bergneustadt,TTC Zugbrücke Grenzau,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-01-10,1. FC Saarbrücken-TT,TTC Neu-Ulm,3,2,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-01-10,TTF Liebherr Ochsenhausen,1. FSV Mainz 05,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-01-11,Borussia Düsseldorf,SV Werder Bremen,3,2,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-01-12,ASV Grünwettersbach,1. FSV Mainz 05,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-01-13,1. FC Saarbrücken-TT,TTC Schwalbe Bergneustadt,3,2,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-01-13,Post SV Mühlhausen,TTC Neu-Ulm,3,2,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-01-13,TTC RhönSprudel Fulda-Maberzell,SV Werder Bremen,3,2,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-01-13,TTF Liebherr Ochsenhausen,TTC Zugbrücke Grenzau,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-01-15,TSV Bad Königshofen,Borussia Düsseldorf,3,2,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-01-22,Borussia Düsseldorf,TTC Schwalbe Bergneustadt,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-01-22,Post SV Mühlhausen,1. FC Saarbrücken-TT,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-01-22,SV Werder Bremen,1. FSV Mainz 05,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-01-22,TTC Neu-Ulm,TTC RhönSprudel Fulda-Maberzell,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-01-22,TTC Zugbrücke Grenzau,ASV Grünwettersbach,3,2,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-01-22,TTF Liebherr Ochsenhausen,TSV Bad Königshofen,3,2,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-01-27,TSV Bad Königshofen,SV Werder Bremen,3,2,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-01-29,ASV Grünwettersbach,TTC Neu-Ulm,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-01-29,TTC RhönSprudel Fulda-Maberzell,Post SV Mühlhausen,3,2,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-01-29,TTC Zugbrücke Grenzau,Borussia Düsseldorf,3,2,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-01-30,1. FC Saarbrücken-TT,1. FSV Mainz 05,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-02-01,TTC Schwalbe Bergneustadt,TTF Liebherr Ochsenhausen,3,2,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-02-03,1. FC Saarbrücken-TT,TTC RhönSprudel Fulda-Maberzell,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-02-03,Borussia Düsseldorf,TTF Liebherr Ochsenhausen,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-02-05,1. FSV Mainz 05,TTC Neu-Ulm,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-02-05,SV Werder Bremen,Post SV Mühlhausen,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-02-05,TTC Schwalbe Bergneustadt,ASV Grünwettersbach,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-02-06,TTC Zugbrücke Grenzau,TSV Bad Königshofen,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-02-07,Borussia Düsseldorf,1. FSV Mainz 05,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-02-10,1. FC Saarbrücken-TT,SV Werder Bremen,3,2,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-02-12,ASV Grünwettersbach,TSV Bad Königshofen,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-02-12,Post SV Mühlhausen,TTC Zugbrücke Grenzau,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-02-12,TTC Neu-Ulm,TTC Schwalbe Bergneustadt,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-02-13,TTF Liebherr Ochsenhausen,TTC RhönSprudel Fulda-Maberzell,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-02-19,TTC RhönSprudel Fulda-Maberzell,TTC Schwalbe Bergneustadt,3,2,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-02-19,TTC Zugbrücke Grenzau,SV Werder Bremen,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-02-19,TTF Liebherr Ochsenhausen,ASV Grünwettersbach,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-02-21,Borussia Düsseldorf,1. FC Saarbrücken-TT,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-02-21,TSV Bad Königshofen,TTC Neu-Ulm,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-02-23,TTC Schwalbe Bergneustadt,SV Werder Bremen,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-02-24,TTC Zugbrücke Grenzau,TTC RhönSprudel Fulda-Maberzell,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-02-25,Post SV Mühlhausen,Borussia Düsseldorf,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-02-26,1. FSV Mainz 05,Post SV Mühlhausen,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-03-04,TTF Liebherr Ochsenhausen,TTC Neu-Ulm,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-03-05,1. FSV Mainz 05,TSV Bad Königshofen,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-03-05,ASV Grünwettersbach,1. FC Saarbrücken-TT,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-03-17,TTC Neu-Ulm,SV Werder Bremen,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-03-19,1. FC Saarbrücken-TT,TSV Bad Königshofen,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-03-19,ASV Grünwettersbach,TTC RhönSprudel Fulda-Maberzell,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-03-19,Borussia Düsseldorf,TTC Neu-Ulm,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-03-19,Post SV Mühlhausen,TTC Schwalbe Bergneustadt,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-03-19,SV Werder Bremen,TTF Liebherr Ochsenhausen,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-03-19,TTC Zugbrücke Grenzau,1. FSV Mainz 05,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-03-21,1. FC Saarbrücken-TT,TTC Zugbrücke Grenzau,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-03-21,TTC Schwalbe Bergneustadt,TSV Bad Königshofen,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-04-01,1. FSV Mainz 05,TTC RhönSprudel Fulda-Maberzell,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-04-04,Post SV Mühlhausen,TTF Liebherr Ochsenhausen,3,2,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-04-06,ASV Grünwettersbach,Borussia Düsseldorf,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-04-30,Borussia Düsseldorf,TTC RhönSprudel Fulda-Maberzell,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-04-30,SV Werder Bremen,ASV Grünwettersbach,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-04-30,TSV Bad Königshofen,Post SV Mühlhausen,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-04-30,TTC Neu-Ulm,TTC Zugbrücke Grenzau,3,0,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-04-30,TTC Schwalbe Bergneustadt,1. FSV Mainz 05,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-04-30,TTF Liebherr Ochsenhausen,1. FC Saarbrücken-TT,3,1,,GROUP,EURO_LEAGUE
+2022/23 German League,2023-05-11,Borussia Düsseldorf,Post SV Mühlhausen,3,0,,SF,EURO_LEAGUE
+2022/23 German League,2023-05-12,TTF Liebherr Ochsenhausen,1. FC Saarbrücken-TT,3,2,,SF,EURO_LEAGUE
+2022/23 German League,2023-05-14,1. FC Saarbrücken-TT,TTF Liebherr Ochsenhausen,3,1,,SF,EURO_LEAGUE
+2022/23 German League,2023-07-09,Borussia Düsseldorf,1. FC Saarbrücken-TT,3,1,,F,EURO_LEAGUE
