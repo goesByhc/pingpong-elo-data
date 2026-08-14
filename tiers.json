@@ -28,8 +28,10 @@
     "singles": 1.0, "doubles": 0.7, "team": 0.5
   },
   "tournament_rules": [
-    { "pattern": "Olympic",                        "tier": "OLYMPICS" },
-    { "pattern": "Summer Olympics",                "tier": "OLYMPICS" },
+    { "pattern": "Olympic Qualif",                    "tier": "OTHER" },
+    { "pattern": "Olympics Qualif",                   "tier": "OTHER" },
+    { "pattern": "Olympic",                           "tier": "OLYMPICS" },
+    { "pattern": "Summer Olympics",                   "tier": "OLYMPICS" },
     { "pattern": "World Team Championships",       "tier": "WORLD_CHAMPIONSHIPS" },
     { "pattern": "World Table Tennis Championships","tier": "WORLD_CHAMPIONSHIPS" },
     { "pattern": "ITTF World.*Championships Finals","tier": "WORLD_CHAMPIONSHIPS" },
