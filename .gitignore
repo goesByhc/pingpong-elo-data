@@ -19,3 +19,7 @@ sources_manifest.json
 
 # format_matches 输出目录（已弃用，不再入库）
 formatted/
+
+# 开发中间产物（一次性抓取/补全缓存，合并进 players.csv 后即无用，不入 git）
+_*.json
+sources/cttsl_2026_raw/
