@@ -16,3 +16,6 @@ ittf_cookies.json
 matches_formatted/
 matches/*_names_warn.log
 sources_manifest.json
+
+# format_matches 输出目录（已弃用，不再入库）
+formatted/
