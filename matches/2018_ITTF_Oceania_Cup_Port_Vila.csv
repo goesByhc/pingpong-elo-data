@@ -1,36 +1,36 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-ITTF Oceania Cup Port Vila 2018,2018-05-18,HU Heming,LOI Geoffrey,4,0,"11,11,11,11|4,3,3,2",,OTHER,MS,999,Qualification,HU Heming (AUS),LOI Geoffrey (PNG)
-ITTF Oceania Cup Port Vila 2018,2018-05-18,SHU Dean,WU Vicky,4,0,"11,11,11,11|9,8,8,1",,OTHER,MS,999,Qualification,SHU Dean (NZL),WU Vicky (FIJ)
-ITTF Oceania Cup Port Vila 2018,2018-05-18,HU Heming,SHU Dean,4,0,"11,11,11,11|7,8,8,8",,OTHER,MS,999,Qualification,HU Heming (AUS),SHU Dean (NZL)
-ITTF Oceania Cup Port Vila 2018,2018-05-18,LOI Geoffrey,WU Vicky,4,1,"6,11,11,11,11|11,6,5,2,7",,OTHER,MS,999,Qualification,LOI Geoffrey (PNG),WU Vicky (FIJ)
-ITTF Oceania Cup Port Vila 2018,2018-05-18,HU Heming,WU Vicky,4,0,"11,11,11,11|3,2,4,3",,OTHER,MS,999,Qualification,HU Heming (AUS),WU Vicky (FIJ)
-ITTF Oceania Cup Port Vila 2018,2018-05-18,SHU Dean,LOI Geoffrey,4,0,"11,11,11,11|3,4,6,4",,OTHER,MS,999,Qualification,SHU Dean (NZL),LOI Geoffrey (PNG)
-ITTF Oceania Cup Port Vila 2018,2018-05-18,BALL Matthew,TOWNSEND Kane,4,3,"3,14,4,11,11,11,12|11,16,11,9,7,9,10",,OTHER,MS,999,Qualification,TOWNSEND Kane (AUS),BALL Matthew (NZL)
-ITTF Oceania Cup Port Vila 2018,2018-05-18,SHING Yoshua,WING Philip,4,0,"13,11,11,11|11,7,2,7",,OTHER,MS,999,Qualification,SHING Yoshua (VAN),WING Philip (FIJ)
-ITTF Oceania Cup Port Vila 2018,2018-05-18,TOWNSEND Kane,SHING Yoshua,4,2,"11,11,9,6,11,11|1,3,11,11,7,3",,OTHER,MS,999,Qualification,TOWNSEND Kane (AUS),SHING Yoshua (VAN)
-ITTF Oceania Cup Port Vila 2018,2018-05-18,BALL Matthew,WING Philip,4,0,"11,11,11,11|6,8,5,5",,OTHER,MS,999,Qualification,BALL Matthew (NZL),WING Philip (FIJ)
-ITTF Oceania Cup Port Vila 2018,2018-05-18,TOWNSEND Kane,WING Philip,4,0,"11,11,11,11|4,6,2,5",,OTHER,MS,999,Qualification,TOWNSEND Kane (AUS),WING Philip (FIJ)
-ITTF Oceania Cup Port Vila 2018,2018-05-18,BALL Matthew,SHING Yoshua,4,1,"12,11,13,7,11|10,2,11,11,3",,OTHER,MS,999,Qualification,SHING Yoshua (VAN),BALL Matthew (NZL)
-ITTF Oceania Cup Port Vila 2018,2018-05-18,LAY Jian Fang,YEE Sally,4,0,"11,11,11,11|3,2,1,2",,OTHER,WS,999,Qualification,LAY Jian Fang (AUS),YEE Sally (FIJ)
-ITTF Oceania Cup Port Vila 2018,2018-05-18,CHENG Zhiying,BOUTEILLE Ornella,4,1,"11,11,11,10,11|3,8,5,12,3",,OTHER,WS,999,Qualification,CHENG Zhiying (NZL),BOUTEILLE Ornella (NCL)
-ITTF Oceania Cup Port Vila 2018,2018-05-18,LAY Jian Fang,CHENG Zhiying,4,0,"11,11,11,11|3,5,8,4",,OTHER,WS,999,Qualification,LAY Jian Fang (AUS),CHENG Zhiying (NZL)
-ITTF Oceania Cup Port Vila 2018,2018-05-18,YEE Sally,BOUTEILLE Ornella,4,1,"8,13,11,11,11|11,11,8,4,7",,OTHER,WS,999,Qualification,YEE Sally (FIJ),BOUTEILLE Ornella (NCL)
-ITTF Oceania Cup Port Vila 2018,2018-05-18,LAY Jian Fang,BOUTEILLE Ornella,4,0,"11,11,11,11|7,1,5,7",,OTHER,WS,999,Qualification,LAY Jian Fang (AUS),BOUTEILLE Ornella (NCL)
-ITTF Oceania Cup Port Vila 2018,2018-05-18,CHENG Zhiying,YEE Sally,4,0,"11,11,11,11|3,6,6,3",,OTHER,WS,999,Qualification,CHENG Zhiying (NZL),YEE Sally (FIJ)
-ITTF Oceania Cup Port Vila 2018,2018-05-18,TAPPER Melissa,YEE Grace Rosi,4,0,"11,11,11,11|6,3,3,5",,OTHER,WS,999,Qualification,TAPPER Melissa (AUS),YEE Grace Rosi (FIJ)
-ITTF Oceania Cup Port Vila 2018,2018-05-18,PATERSON Natalie,QWEA Stephanie,4,1,"11,11,11,7,11|5,8,9,11,4",,OTHER,WS,999,Qualification,PATERSON Natalie (NZL),QWEA Stephanie (VAN)
-ITTF Oceania Cup Port Vila 2018,2018-05-18,TAPPER Melissa,PATERSON Natalie,4,1,"8,11,11,11,11|11,2,5,4,4",,OTHER,WS,999,Qualification,TAPPER Melissa (AUS),PATERSON Natalie (NZL)
-ITTF Oceania Cup Port Vila 2018,2018-05-18,YEE Grace Rosi,QWEA Stephanie,4,2,"11,5,11,11,11,11|2,11,3,13,4,2",,OTHER,WS,999,Qualification,YEE Grace Rosi (FIJ),QWEA Stephanie (VAN)
-ITTF Oceania Cup Port Vila 2018,2018-05-18,TAPPER Melissa,QWEA Stephanie,4,0,"11,11,11,11|3,4,2,5",,OTHER,WS,999,Qualification,TAPPER Melissa (AUS),QWEA Stephanie (VAN)
-ITTF Oceania Cup Port Vila 2018,2018-05-18,PATERSON Natalie,YEE Grace Rosi,4,0,"12,11,11,11|10,8,3,9",,OTHER,WS,999,Qualification,PATERSON Natalie (NZL),YEE Grace Rosi (FIJ)
-ITTF Oceania Cup Port Vila 2018,2018-05-18,TOWNSEND Kane,LOI Geoffrey,4,0,"11,11,11,11|2,6,8,2",QF,OTHER,MS,999,Main Draw,LOI Geoffrey (PNG),TOWNSEND Kane (AUS)
-ITTF Oceania Cup Port Vila 2018,2018-05-18,SHU Dean,SHING Yoshua,4,0,"11,11,11,11|5,4,9,2",QF,OTHER,MS,999,Main Draw,SHU Dean (NZL),SHING Yoshua (VAN)
-ITTF Oceania Cup Port Vila 2018,2018-05-18,HU Heming,TOWNSEND Kane,4,2,"11,11,8,7,11,11|4,4,11,11,8,8",SF,OTHER,MS,999,Main Draw,HU Heming (AUS),TOWNSEND Kane (AUS)
-ITTF Oceania Cup Port Vila 2018,2018-05-18,SHU Dean,BALL Matthew,4,3,"11,6,8,11,11,11,11|13,11,11,4,9,3,3",SF,OTHER,MS,999,Main Draw,SHU Dean (NZL),BALL Matthew (NZL)
-ITTF Oceania Cup Port Vila 2018,2018-05-18,TOWNSEND Kane,BALL Matthew,4,1,"11,11,11,11,11|5,0,8,13,5",3RD,OTHER,MS,999,Position Draw,TOWNSEND Kane (AUS),BALL Matthew (NZL)
-ITTF Oceania Cup Port Vila 2018,2018-05-18,PATERSON Natalie,YEE Sally,4,0,"11,11,11,11|5,6,5,5",QF,OTHER,WS,999,Main Draw,YEE Sally (FIJ),PATERSON Natalie (NZL)
-ITTF Oceania Cup Port Vila 2018,2018-05-18,CHENG Zhiying,YEE Grace Rosi,4,2,"6,11,9,12,11,11|11,9,11,10,8,8",QF,OTHER,WS,999,Main Draw,CHENG Zhiying (NZL),YEE Grace Rosi (FIJ)
-ITTF Oceania Cup Port Vila 2018,2018-05-18,LAY Jian Fang,PATERSON Natalie,4,0,"11,11,11,11|4,2,2,4",SF,OTHER,WS,999,Main Draw,LAY Jian Fang (AUS),PATERSON Natalie (NZL)
-ITTF Oceania Cup Port Vila 2018,2018-05-18,TAPPER Melissa,CHENG Zhiying,4,0,"11,11,11,11|5,9,4,9",SF,OTHER,WS,999,Main Draw,CHENG Zhiying (NZL),TAPPER Melissa (AUS)
-ITTF Oceania Cup Port Vila 2018,2018-05-18,LAY Jian Fang,TAPPER Melissa,4,2,"11,11,6,7,12,11|3,6,11,11,10,5",F,OTHER,WS,999,Main Draw,LAY Jian Fang (AUS),TAPPER Melissa (AUS)
-ITTF Oceania Cup Port Vila 2018,2018-05-18,CHENG Zhiying,PATERSON Natalie,4,1,"6,11,11,11,11|11,7,8,9,8",3RD,OTHER,WS,999,Position Draw,PATERSON Natalie (NZL),CHENG Zhiying (NZL)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+ITTF Oceania Cup Port Vila 2018,2018-05-18,HU Heming,LOI Geoffrey,4,0,"11,11,11,11|4,3,3,2",,OTHER,MS,999,Qualification,HU Heming (AUS),LOI Geoffrey (PNG),HU Heming
+ITTF Oceania Cup Port Vila 2018,2018-05-18,SHU Dean,WU Vicky,4,0,"11,11,11,11|9,8,8,1",,OTHER,MS,999,Qualification,SHU Dean (NZL),WU Vicky (FIJ),SHU Dean
+ITTF Oceania Cup Port Vila 2018,2018-05-18,HU Heming,SHU Dean,4,0,"11,11,11,11|7,8,8,8",,OTHER,MS,999,Qualification,HU Heming (AUS),SHU Dean (NZL),HU Heming
+ITTF Oceania Cup Port Vila 2018,2018-05-18,LOI Geoffrey,WU Vicky,4,1,"6,11,11,11,11|11,6,5,2,7",,OTHER,MS,999,Qualification,LOI Geoffrey (PNG),WU Vicky (FIJ),LOI Geoffrey
+ITTF Oceania Cup Port Vila 2018,2018-05-18,HU Heming,WU Vicky,4,0,"11,11,11,11|3,2,4,3",,OTHER,MS,999,Qualification,HU Heming (AUS),WU Vicky (FIJ),HU Heming
+ITTF Oceania Cup Port Vila 2018,2018-05-18,SHU Dean,LOI Geoffrey,4,0,"11,11,11,11|3,4,6,4",,OTHER,MS,999,Qualification,SHU Dean (NZL),LOI Geoffrey (PNG),SHU Dean
+ITTF Oceania Cup Port Vila 2018,2018-05-18,BALL Matthew,TOWNSEND Kane,4,3,"3,14,4,11,11,11,12|11,16,11,9,7,9,10",,OTHER,MS,999,Qualification,TOWNSEND Kane (AUS),BALL Matthew (NZL),BALL Matthew
+ITTF Oceania Cup Port Vila 2018,2018-05-18,SHING Yoshua,WING Philip,4,0,"13,11,11,11|11,7,2,7",,OTHER,MS,999,Qualification,SHING Yoshua (VAN),WING Philip (FIJ),SHING Yoshua
+ITTF Oceania Cup Port Vila 2018,2018-05-18,TOWNSEND Kane,SHING Yoshua,4,2,"11,11,9,6,11,11|1,3,11,11,7,3",,OTHER,MS,999,Qualification,TOWNSEND Kane (AUS),SHING Yoshua (VAN),TOWNSEND Kane
+ITTF Oceania Cup Port Vila 2018,2018-05-18,BALL Matthew,WING Philip,4,0,"11,11,11,11|6,8,5,5",,OTHER,MS,999,Qualification,BALL Matthew (NZL),WING Philip (FIJ),BALL Matthew
+ITTF Oceania Cup Port Vila 2018,2018-05-18,TOWNSEND Kane,WING Philip,4,0,"11,11,11,11|4,6,2,5",,OTHER,MS,999,Qualification,TOWNSEND Kane (AUS),WING Philip (FIJ),TOWNSEND Kane
+ITTF Oceania Cup Port Vila 2018,2018-05-18,BALL Matthew,SHING Yoshua,4,1,"12,11,13,7,11|10,2,11,11,3",,OTHER,MS,999,Qualification,SHING Yoshua (VAN),BALL Matthew (NZL),BALL Matthew
+ITTF Oceania Cup Port Vila 2018,2018-05-18,LAY Jian Fang,YEE Sally,4,0,"11,11,11,11|3,2,1,2",,OTHER,WS,999,Qualification,LAY Jian Fang (AUS),YEE Sally (FIJ),LAY Jian Fang
+ITTF Oceania Cup Port Vila 2018,2018-05-18,CHENG Zhiying,BOUTEILLE Ornella,4,1,"11,11,11,10,11|3,8,5,12,3",,OTHER,WS,999,Qualification,CHENG Zhiying (NZL),BOUTEILLE Ornella (NCL),CHENG Zhiying
+ITTF Oceania Cup Port Vila 2018,2018-05-18,LAY Jian Fang,CHENG Zhiying,4,0,"11,11,11,11|3,5,8,4",,OTHER,WS,999,Qualification,LAY Jian Fang (AUS),CHENG Zhiying (NZL),LAY Jian Fang
+ITTF Oceania Cup Port Vila 2018,2018-05-18,YEE Sally,BOUTEILLE Ornella,4,1,"8,13,11,11,11|11,11,8,4,7",,OTHER,WS,999,Qualification,YEE Sally (FIJ),BOUTEILLE Ornella (NCL),YEE Sally
+ITTF Oceania Cup Port Vila 2018,2018-05-18,LAY Jian Fang,BOUTEILLE Ornella,4,0,"11,11,11,11|7,1,5,7",,OTHER,WS,999,Qualification,LAY Jian Fang (AUS),BOUTEILLE Ornella (NCL),LAY Jian Fang
+ITTF Oceania Cup Port Vila 2018,2018-05-18,CHENG Zhiying,YEE Sally,4,0,"11,11,11,11|3,6,6,3",,OTHER,WS,999,Qualification,CHENG Zhiying (NZL),YEE Sally (FIJ),CHENG Zhiying
+ITTF Oceania Cup Port Vila 2018,2018-05-18,TAPPER Melissa,YEE Grace Rosi,4,0,"11,11,11,11|6,3,3,5",,OTHER,WS,999,Qualification,TAPPER Melissa (AUS),YEE Grace Rosi (FIJ),TAPPER Melissa
+ITTF Oceania Cup Port Vila 2018,2018-05-18,PATERSON Natalie,QWEA Stephanie,4,1,"11,11,11,7,11|5,8,9,11,4",,OTHER,WS,999,Qualification,PATERSON Natalie (NZL),QWEA Stephanie (VAN),PATERSON Natalie
+ITTF Oceania Cup Port Vila 2018,2018-05-18,TAPPER Melissa,PATERSON Natalie,4,1,"8,11,11,11,11|11,2,5,4,4",,OTHER,WS,999,Qualification,TAPPER Melissa (AUS),PATERSON Natalie (NZL),TAPPER Melissa
+ITTF Oceania Cup Port Vila 2018,2018-05-18,YEE Grace Rosi,QWEA Stephanie,4,2,"11,5,11,11,11,11|2,11,3,13,4,2",,OTHER,WS,999,Qualification,YEE Grace Rosi (FIJ),QWEA Stephanie (VAN),YEE Grace Rosi
+ITTF Oceania Cup Port Vila 2018,2018-05-18,TAPPER Melissa,QWEA Stephanie,4,0,"11,11,11,11|3,4,2,5",,OTHER,WS,999,Qualification,TAPPER Melissa (AUS),QWEA Stephanie (VAN),TAPPER Melissa
+ITTF Oceania Cup Port Vila 2018,2018-05-18,PATERSON Natalie,YEE Grace Rosi,4,0,"12,11,11,11|10,8,3,9",,OTHER,WS,999,Qualification,PATERSON Natalie (NZL),YEE Grace Rosi (FIJ),PATERSON Natalie
+ITTF Oceania Cup Port Vila 2018,2018-05-18,TOWNSEND Kane,LOI Geoffrey,4,0,"11,11,11,11|2,6,8,2",QF,OTHER,MS,999,Main Draw,LOI Geoffrey (PNG),TOWNSEND Kane (AUS),TOWNSEND Kane
+ITTF Oceania Cup Port Vila 2018,2018-05-18,SHU Dean,SHING Yoshua,4,0,"11,11,11,11|5,4,9,2",QF,OTHER,MS,999,Main Draw,SHU Dean (NZL),SHING Yoshua (VAN),SHU Dean
+ITTF Oceania Cup Port Vila 2018,2018-05-18,HU Heming,TOWNSEND Kane,4,2,"11,11,8,7,11,11|4,4,11,11,8,8",SF,OTHER,MS,999,Main Draw,HU Heming (AUS),TOWNSEND Kane (AUS),HU Heming
+ITTF Oceania Cup Port Vila 2018,2018-05-18,SHU Dean,BALL Matthew,4,3,"11,6,8,11,11,11,11|13,11,11,4,9,3,3",SF,OTHER,MS,999,Main Draw,SHU Dean (NZL),BALL Matthew (NZL),SHU Dean
+ITTF Oceania Cup Port Vila 2018,2018-05-18,TOWNSEND Kane,BALL Matthew,4,1,"11,11,11,11,11|5,0,8,13,5",3RD,OTHER,MS,999,Position Draw,TOWNSEND Kane (AUS),BALL Matthew (NZL),TOWNSEND Kane
+ITTF Oceania Cup Port Vila 2018,2018-05-18,PATERSON Natalie,YEE Sally,4,0,"11,11,11,11|5,6,5,5",QF,OTHER,WS,999,Main Draw,YEE Sally (FIJ),PATERSON Natalie (NZL),PATERSON Natalie
+ITTF Oceania Cup Port Vila 2018,2018-05-18,CHENG Zhiying,YEE Grace Rosi,4,2,"6,11,9,12,11,11|11,9,11,10,8,8",QF,OTHER,WS,999,Main Draw,CHENG Zhiying (NZL),YEE Grace Rosi (FIJ),CHENG Zhiying
+ITTF Oceania Cup Port Vila 2018,2018-05-18,LAY Jian Fang,PATERSON Natalie,4,0,"11,11,11,11|4,2,2,4",SF,OTHER,WS,999,Main Draw,LAY Jian Fang (AUS),PATERSON Natalie (NZL),LAY Jian Fang
+ITTF Oceania Cup Port Vila 2018,2018-05-18,TAPPER Melissa,CHENG Zhiying,4,0,"11,11,11,11|5,9,4,9",SF,OTHER,WS,999,Main Draw,CHENG Zhiying (NZL),TAPPER Melissa (AUS),TAPPER Melissa
+ITTF Oceania Cup Port Vila 2018,2018-05-18,LAY Jian Fang,TAPPER Melissa,4,2,"11,11,6,7,12,11|3,6,11,11,10,5",F,OTHER,WS,999,Main Draw,LAY Jian Fang (AUS),TAPPER Melissa (AUS),LAY Jian Fang
+ITTF Oceania Cup Port Vila 2018,2018-05-18,CHENG Zhiying,PATERSON Natalie,4,1,"6,11,11,11,11|11,7,8,9,8",3RD,OTHER,WS,999,Position Draw,PATERSON Natalie (NZL),CHENG Zhiying (NZL),CHENG Zhiying

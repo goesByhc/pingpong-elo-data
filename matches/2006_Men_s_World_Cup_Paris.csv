@@ -1,31 +1,31 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Men's World Cup Paris 2006,2006-10-27,CHEN Weixing,HENZELL William,4,1,"11,12,10,11,11|5,10,12,9,9",,WORLD_CUP,MS,1810,Qualification,CHEN Weixing (AUT),HENZELL William (AUS)
-Men's World Cup Paris 2006,2006-10-27,WANG Liqin,SAIVE Jean-Michel,4,0,"11,11,11,11|7,6,6,2",QR2,WORLD_CUP,MS,1810,Qualification,WANG Liqin (CHN),SAIVE Jean-Michel (BEL)
-Men's World Cup Paris 2006,2006-10-27,WANG Liqin,CHEN Weixing,4,2,"7,8,11,11,11,11|11,11,8,3,6,3",3,WORLD_CUP,MS,1810,Qualification,WANG Liqin (CHN),CHEN Weixing (AUT)
-Men's World Cup Paris 2006,2006-10-27,SAIVE Jean-Michel,HENZELL William,4,1,"11,11,11,10,11|8,8,5,12,3",QR4,WORLD_CUP,MS,1810,Qualification,SAIVE Jean-Michel (BEL),HENZELL William (AUS)
-Men's World Cup Paris 2006,2006-10-27,WANG Liqin,HENZELL William,4,0,"11,11,11,11|4,6,5,7",5,WORLD_CUP,MS,1810,Qualification,WANG Liqin (CHN),HENZELL William (AUS)
-Men's World Cup Paris 2006,2006-10-27,CHEN Weixing,SAIVE Jean-Michel,4,3,"8,11,11,12,7,7,15|11,5,8,10,11,11,13",6,WORLD_CUP,MS,1810,Qualification,CHEN Weixing (AUT),SAIVE Jean-Michel (BEL)
-Men's World Cup Paris 2006,2006-10-27,SAMSONOV Vladimir,LASHIN Elsayed,4,1,"4,11,11,13,11|11,6,1,11,2",,WORLD_CUP,MS,1810,Qualification,SAMSONOV Vladimir (BLR),LASHIN Elsayed (EGY)
-Men's World Cup Paris 2006,2006-10-27,KREANGA Kalinikos,BOLL Timo,4,2,"7,11,5,11,11,13|11,9,11,6,7,11",QR2,WORLD_CUP,MS,1810,Qualification,KREANGA Kalinikos (GRE),BOLL Timo (GER)
-Men's World Cup Paris 2006,2006-10-27,SAMSONOV Vladimir,BOLL Timo,4,2,"8,12,11,11,11,11|11,14,7,6,3,9",3,WORLD_CUP,MS,1810,Qualification,SAMSONOV Vladimir (BLR),BOLL Timo (GER)
-Men's World Cup Paris 2006,2006-10-27,KREANGA Kalinikos,LASHIN Elsayed,4,1,"11,11,10,11,11|8,6,12,2,4",QR4,WORLD_CUP,MS,1810,Qualification,KREANGA Kalinikos (GRE),LASHIN Elsayed (EGY)
-Men's World Cup Paris 2006,2006-10-27,BOLL Timo,LASHIN Elsayed,4,0,"11,11,11,11|1,2,2,3",5,WORLD_CUP,MS,1810,Qualification,BOLL Timo (GER),LASHIN Elsayed (EGY)
-Men's World Cup Paris 2006,2006-10-27,SAMSONOV Vladimir,KREANGA Kalinikos,4,1,"11,14,11,11,11|9,16,9,9,9",6,WORLD_CUP,MS,1810,Qualification,SAMSONOV Vladimir (BLR),KREANGA Kalinikos (GRE)
-Men's World Cup Paris 2006,2006-10-27,SCHLAGER Werner,LIU Song,4,2,"11,3,11,9,11,11|5,11,7,11,9,4",,WORLD_CUP,MS,1810,Qualification,SCHLAGER Werner (AUT),LIU Song (ARG)
-Men's World Cup Paris 2006,2006-10-27,MA Lin,CHILA Patrick,4,3,"7,11,11,9,9,11,11|11,4,9,11,11,7,6",QR2,WORLD_CUP,MS,1810,Qualification,MA Lin (CHN),CHILA Patrick (FRA)
-Men's World Cup Paris 2006,2006-10-27,MA Lin,SCHLAGER Werner,4,2,"11,11,7,11,7,11|7,6,11,4,11,9",3,WORLD_CUP,MS,1810,Qualification,MA Lin (CHN),SCHLAGER Werner (AUT)
-Men's World Cup Paris 2006,2006-10-27,CHILA Patrick,LIU Song,4,3,"10,13,13,10,11,8,11|12,11,11,12,9,11,9",QR4,WORLD_CUP,MS,1810,Qualification,CHILA Patrick (FRA),LIU Song (ARG)
-Men's World Cup Paris 2006,2006-10-27,MA Lin,LIU Song,4,0,"11,11,11,11|8,7,6,7",5,WORLD_CUP,MS,1810,Qualification,MA Lin (CHN),LIU Song (ARG)
-Men's World Cup Paris 2006,2006-10-27,SCHLAGER Werner,CHILA Patrick,4,1,"2,11,11,11,11|11,6,3,6,5",6,WORLD_CUP,MS,1810,Qualification,SCHLAGER Werner (AUT),CHILA Patrick (FRA)
-Men's World Cup Paris 2006,2006-10-27,CHUANG Chih-Yuan,CSABA Bence,4,0,"11,11,11,11|6,7,4,4",,WORLD_CUP,MS,1810,Qualification,CHUANG Chih-Yuan (TPE),CSABA Bence (CAN)
-Men's World Cup Paris 2006,2006-10-27,WANG Hao,ELOI Damien,4,2,"9,11,14,11,5,11|11,5,12,8,11,9",QR2,WORLD_CUP,MS,1810,Qualification,WANG Hao (CHN),ELOI Damien (FRA)
-Men's World Cup Paris 2006,2006-10-27,WANG Hao,CHUANG Chih-Yuan,4,0,"13,11,11,11|11,9,6,9",3,WORLD_CUP,MS,1810,Qualification,WANG Hao (CHN),CHUANG Chih-Yuan (TPE)
-Men's World Cup Paris 2006,2006-10-27,ELOI Damien,CSABA Bence,4,1,"13,11,11,11,11|15,9,4,7,8",QR4,WORLD_CUP,MS,1810,Qualification,ELOI Damien (FRA),CSABA Bence (CAN)
-Men's World Cup Paris 2006,2006-10-27,WANG Hao,CSABA Bence,4,1,"11,11,8,11,11|5,8,11,9,5",5,WORLD_CUP,MS,1810,Qualification,WANG Hao (CHN),CSABA Bence (CAN)
-Men's World Cup Paris 2006,2006-10-27,CHUANG Chih-Yuan,ELOI Damien,4,1,"9,11,11,11,12|11,4,9,7,10",6,WORLD_CUP,MS,1810,Qualification,CHUANG Chih-Yuan (TPE),ELOI Damien (FRA)
-Men's World Cup Paris 2006,2006-10-27,WANG Liqin,CHUANG Chih-Yuan,4,0,"11,11,15,11|6,9,13,8",QF,WORLD_CUP,MS,1810,Main Draw,WANG Liqin (CHN),CHUANG Chih-Yuan (TPE)
-Men's World Cup Paris 2006,2006-10-27,MA Lin,KREANGA Kalinikos,4,1,"11,11,11,9,11|9,6,7,11,6",QF,WORLD_CUP,MS,1810,Main Draw,MA Lin (CHN),KREANGA Kalinikos (GRE)
-Men's World Cup Paris 2006,2006-10-27,WANG Hao,SCHLAGER Werner,4,1,"11,11,7,11,11|4,8,11,5,5",QF,WORLD_CUP,MS,1810,Main Draw,WANG Hao (CHN),SCHLAGER Werner (AUT)
-Men's World Cup Paris 2006,2006-10-27,SAMSONOV Vladimir,CHEN Weixing,4,1,"11,11,5,11,11|7,7,11,8,6",QF,WORLD_CUP,MS,1810,Main Draw,SAMSONOV Vladimir (BLR),CHEN Weixing (AUT)
-Men's World Cup Paris 2006,2006-10-27,MA Lin,WANG Liqin,4,0,"11,11,11,11|2,3,5,7",SF,WORLD_CUP,MS,1810,Main Draw,MA Lin (CHN),WANG Liqin (CHN)
-Men's World Cup Paris 2006,2006-10-27,WANG Hao,SAMSONOV Vladimir,4,0,"11,11,11,11|5,6,8,8",SF,WORLD_CUP,MS,1810,Main Draw,WANG Hao (CHN),SAMSONOV Vladimir (BLR)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Men's World Cup Paris 2006,2006-10-27,CHEN Weixing,HENZELL William,4,1,"11,12,10,11,11|5,10,12,9,9",,WORLD_CUP,MS,1810,Qualification,CHEN Weixing (AUT),HENZELL William (AUS),CHEN Weixing
+Men's World Cup Paris 2006,2006-10-27,WANG Liqin,SAIVE Jean-Michel,4,0,"11,11,11,11|7,6,6,2",QR2,WORLD_CUP,MS,1810,Qualification,WANG Liqin (CHN),SAIVE Jean-Michel (BEL),WANG Liqin
+Men's World Cup Paris 2006,2006-10-27,WANG Liqin,CHEN Weixing,4,2,"7,8,11,11,11,11|11,11,8,3,6,3",3,WORLD_CUP,MS,1810,Qualification,WANG Liqin (CHN),CHEN Weixing (AUT),WANG Liqin
+Men's World Cup Paris 2006,2006-10-27,SAIVE Jean-Michel,HENZELL William,4,1,"11,11,11,10,11|8,8,5,12,3",QR4,WORLD_CUP,MS,1810,Qualification,SAIVE Jean-Michel (BEL),HENZELL William (AUS),SAIVE Jean-Michel
+Men's World Cup Paris 2006,2006-10-27,WANG Liqin,HENZELL William,4,0,"11,11,11,11|4,6,5,7",5,WORLD_CUP,MS,1810,Qualification,WANG Liqin (CHN),HENZELL William (AUS),WANG Liqin
+Men's World Cup Paris 2006,2006-10-27,CHEN Weixing,SAIVE Jean-Michel,4,3,"8,11,11,12,7,7,15|11,5,8,10,11,11,13",6,WORLD_CUP,MS,1810,Qualification,CHEN Weixing (AUT),SAIVE Jean-Michel (BEL),CHEN Weixing
+Men's World Cup Paris 2006,2006-10-27,SAMSONOV Vladimir,LASHIN Elsayed,4,1,"4,11,11,13,11|11,6,1,11,2",,WORLD_CUP,MS,1810,Qualification,SAMSONOV Vladimir (BLR),LASHIN Elsayed (EGY),SAMSONOV Vladimir
+Men's World Cup Paris 2006,2006-10-27,KREANGA Kalinikos,BOLL Timo,4,2,"7,11,5,11,11,13|11,9,11,6,7,11",QR2,WORLD_CUP,MS,1810,Qualification,KREANGA Kalinikos (GRE),BOLL Timo (GER),KREANGA Kalinikos
+Men's World Cup Paris 2006,2006-10-27,SAMSONOV Vladimir,BOLL Timo,4,2,"8,12,11,11,11,11|11,14,7,6,3,9",3,WORLD_CUP,MS,1810,Qualification,SAMSONOV Vladimir (BLR),BOLL Timo (GER),SAMSONOV Vladimir
+Men's World Cup Paris 2006,2006-10-27,KREANGA Kalinikos,LASHIN Elsayed,4,1,"11,11,10,11,11|8,6,12,2,4",QR4,WORLD_CUP,MS,1810,Qualification,KREANGA Kalinikos (GRE),LASHIN Elsayed (EGY),KREANGA Kalinikos
+Men's World Cup Paris 2006,2006-10-27,BOLL Timo,LASHIN Elsayed,4,0,"11,11,11,11|1,2,2,3",5,WORLD_CUP,MS,1810,Qualification,BOLL Timo (GER),LASHIN Elsayed (EGY),BOLL Timo
+Men's World Cup Paris 2006,2006-10-27,SAMSONOV Vladimir,KREANGA Kalinikos,4,1,"11,14,11,11,11|9,16,9,9,9",6,WORLD_CUP,MS,1810,Qualification,SAMSONOV Vladimir (BLR),KREANGA Kalinikos (GRE),SAMSONOV Vladimir
+Men's World Cup Paris 2006,2006-10-27,SCHLAGER Werner,LIU Song,4,2,"11,3,11,9,11,11|5,11,7,11,9,4",,WORLD_CUP,MS,1810,Qualification,SCHLAGER Werner (AUT),LIU Song (ARG),SCHLAGER Werner
+Men's World Cup Paris 2006,2006-10-27,MA Lin,CHILA Patrick,4,3,"7,11,11,9,9,11,11|11,4,9,11,11,7,6",QR2,WORLD_CUP,MS,1810,Qualification,MA Lin (CHN),CHILA Patrick (FRA),MA Lin
+Men's World Cup Paris 2006,2006-10-27,MA Lin,SCHLAGER Werner,4,2,"11,11,7,11,7,11|7,6,11,4,11,9",3,WORLD_CUP,MS,1810,Qualification,MA Lin (CHN),SCHLAGER Werner (AUT),MA Lin
+Men's World Cup Paris 2006,2006-10-27,CHILA Patrick,LIU Song,4,3,"10,13,13,10,11,8,11|12,11,11,12,9,11,9",QR4,WORLD_CUP,MS,1810,Qualification,CHILA Patrick (FRA),LIU Song (ARG),CHILA Patrick
+Men's World Cup Paris 2006,2006-10-27,MA Lin,LIU Song,4,0,"11,11,11,11|8,7,6,7",5,WORLD_CUP,MS,1810,Qualification,MA Lin (CHN),LIU Song (ARG),MA Lin
+Men's World Cup Paris 2006,2006-10-27,SCHLAGER Werner,CHILA Patrick,4,1,"2,11,11,11,11|11,6,3,6,5",6,WORLD_CUP,MS,1810,Qualification,SCHLAGER Werner (AUT),CHILA Patrick (FRA),SCHLAGER Werner
+Men's World Cup Paris 2006,2006-10-27,CHUANG Chih-Yuan,CSABA Bence,4,0,"11,11,11,11|6,7,4,4",,WORLD_CUP,MS,1810,Qualification,CHUANG Chih-Yuan (TPE),CSABA Bence (CAN),CHUANG Chih-Yuan
+Men's World Cup Paris 2006,2006-10-27,WANG Hao,ELOI Damien,4,2,"9,11,14,11,5,11|11,5,12,8,11,9",QR2,WORLD_CUP,MS,1810,Qualification,WANG Hao (CHN),ELOI Damien (FRA),WANG Hao
+Men's World Cup Paris 2006,2006-10-27,WANG Hao,CHUANG Chih-Yuan,4,0,"13,11,11,11|11,9,6,9",3,WORLD_CUP,MS,1810,Qualification,WANG Hao (CHN),CHUANG Chih-Yuan (TPE),WANG Hao
+Men's World Cup Paris 2006,2006-10-27,ELOI Damien,CSABA Bence,4,1,"13,11,11,11,11|15,9,4,7,8",QR4,WORLD_CUP,MS,1810,Qualification,ELOI Damien (FRA),CSABA Bence (CAN),ELOI Damien
+Men's World Cup Paris 2006,2006-10-27,WANG Hao,CSABA Bence,4,1,"11,11,8,11,11|5,8,11,9,5",5,WORLD_CUP,MS,1810,Qualification,WANG Hao (CHN),CSABA Bence (CAN),WANG Hao
+Men's World Cup Paris 2006,2006-10-27,CHUANG Chih-Yuan,ELOI Damien,4,1,"9,11,11,11,12|11,4,9,7,10",6,WORLD_CUP,MS,1810,Qualification,CHUANG Chih-Yuan (TPE),ELOI Damien (FRA),CHUANG Chih-Yuan
+Men's World Cup Paris 2006,2006-10-27,WANG Liqin,CHUANG Chih-Yuan,4,0,"11,11,15,11|6,9,13,8",QF,WORLD_CUP,MS,1810,Main Draw,WANG Liqin (CHN),CHUANG Chih-Yuan (TPE),WANG Liqin
+Men's World Cup Paris 2006,2006-10-27,MA Lin,KREANGA Kalinikos,4,1,"11,11,11,9,11|9,6,7,11,6",QF,WORLD_CUP,MS,1810,Main Draw,MA Lin (CHN),KREANGA Kalinikos (GRE),MA Lin
+Men's World Cup Paris 2006,2006-10-27,WANG Hao,SCHLAGER Werner,4,1,"11,11,7,11,11|4,8,11,5,5",QF,WORLD_CUP,MS,1810,Main Draw,WANG Hao (CHN),SCHLAGER Werner (AUT),WANG Hao
+Men's World Cup Paris 2006,2006-10-27,SAMSONOV Vladimir,CHEN Weixing,4,1,"11,11,5,11,11|7,7,11,8,6",QF,WORLD_CUP,MS,1810,Main Draw,SAMSONOV Vladimir (BLR),CHEN Weixing (AUT),SAMSONOV Vladimir
+Men's World Cup Paris 2006,2006-10-27,MA Lin,WANG Liqin,4,0,"11,11,11,11|2,3,5,7",SF,WORLD_CUP,MS,1810,Main Draw,MA Lin (CHN),WANG Liqin (CHN),MA Lin
+Men's World Cup Paris 2006,2006-10-27,WANG Hao,SAMSONOV Vladimir,4,0,"11,11,11,11|5,6,8,8",SF,WORLD_CUP,MS,1810,Main Draw,WANG Hao (CHN),SAMSONOV Vladimir (BLR),WANG Hao

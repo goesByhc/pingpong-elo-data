@@ -1,150 +1,150 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-World Tour German Open Bremen 2018,2018-03-23,MA Long/XU Xin,JEOUNG Youngsik/LEE Sang Su,3,0,"11,11,11|7,8,9",F,GRAND_SLAM,MD,871,Main Draw,MA Long (CHN) / XU Xin (CHN),JEOUNG Youngsik (KOR) / LEE Sang Su (KOR)
-World Tour German Open Bremen 2018,2018-03-23,JEOUNG Youngsik/LEE Sang Su,HARIMOTO Tomokazu/MORIZONO Masataka,3,1,"5,12,11,11|11,10,9,9",SF,GRAND_SLAM,MD,871,Main Draw,JEOUNG Youngsik (KOR) / LEE Sang Su (KOR),HARIMOTO Tomokazu (JPN) / MORIZONO Masataka (JPN)
-World Tour German Open Bremen 2018,2018-03-23,MA Long/XU Xin,CHEN Chien-An/CHUANG Chih-Yuan,3,0,"11,11,11|6,4,3",SF,GRAND_SLAM,MD,871,Main Draw,MA Long (CHN) / XU Xin (CHN),CHEN Chien-An (TPE) / CHUANG Chih-Yuan (TPE)
-World Tour German Open Bremen 2018,2018-03-23,JEOUNG Youngsik/LEE Sang Su,HO Kwan Kit/WONG Chun Ting,3,1,"11,11,8,11|7,7,11,8",QF,GRAND_SLAM,MD,871,Main Draw,JEOUNG Youngsik (KOR) / LEE Sang Su (KOR),HO Kwan Kit (HKG) / WONG Chun Ting (HKG)
-World Tour German Open Bremen 2018,2018-03-23,MA Long/XU Xin,FRANZISKA Patrick/GROTH Jonathan,3,1,"11,8,11,11|9,11,3,1",QF,GRAND_SLAM,MD,871,Main Draw,MA Long (CHN) / XU Xin (CHN),FRANZISKA Patrick (GER) / GROTH Jonathan (DEN)
-World Tour German Open Bremen 2018,2018-03-23,CHEN Chien-An/CHUANG Chih-Yuan,FILUS Ruwen/WALTHER Ricardo,3,2,"4,11,8,11,11|11,9,11,4,8",QF,GRAND_SLAM,MD,871,Main Draw,CHEN Chien-An (TPE) / CHUANG Chih-Yuan (TPE),FILUS Ruwen (GER) / WALTHER Ricardo (GER)
-World Tour German Open Bremen 2018,2018-03-23,HARIMOTO Tomokazu/MORIZONO Masataka,MIZUTANI Jun/OSHIMA Yuya,3,2,"11,11,11,9,11|13,5,9,11,3",QF,GRAND_SLAM,MD,871,Main Draw,HARIMOTO Tomokazu (JPN) / MORIZONO Masataka (JPN),MIZUTANI Jun (JPN) / OSHIMA Yuya (JPN)
-World Tour German Open Bremen 2018,2018-03-23,CHEN Chien-An/CHUANG Chih-Yuan,KARLSSON Kristian/KARLSSON Mattias,3,0,"11,11,11|8,7,8",R16,GRAND_SLAM,MD,871,Main Draw,CHEN Chien-An (TPE) / CHUANG Chih-Yuan (TPE),KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE)
-World Tour German Open Bremen 2018,2018-03-23,FRANZISKA Patrick/GROTH Jonathan,PLETEA Cristian/SZOCS Hunor,3,0,"11,11,11|6,8,9",R16,GRAND_SLAM,MD,871,Main Draw,FRANZISKA Patrick (GER) / GROTH Jonathan (DEN),PLETEA Cristian (ROU) / SZOCS Hunor (ROU)
-World Tour German Open Bremen 2018,2018-03-23,HO Kwan Kit/WONG Chun Ting,CALDERANO Hugo/GAUZY Simon,3,1,"8,11,11,13|11,6,5,11",R16,GRAND_SLAM,MD,871,Main Draw,HO Kwan Kit (HKG) / WONG Chun Ting (HKG),CALDERANO Hugo (BRA) / GAUZY Simon (FRA)
-World Tour German Open Bremen 2018,2018-03-23,JEOUNG Youngsik/LEE Sang Su,ANTHONY Amalraj/SHETTY Sanil,3,0,"11,11,12|5,5,10",R16,GRAND_SLAM,MD,871,Main Draw,JEOUNG Youngsik (KOR) / LEE Sang Su (KOR),ANTHONY Amalraj (IND) / SHETTY Sanil (IND)
-World Tour German Open Bremen 2018,2018-03-23,MIZUTANI Jun/OSHIMA Yuya,ECSEKI Nandor/SZUDI Adam,3,0,"11,12,11|7,10,2",R16,GRAND_SLAM,MD,871,Main Draw,MIZUTANI Jun (JPN) / OSHIMA Yuya (JPN),ECSEKI Nandor (HUN) / SZUDI Adam (HUN)
-World Tour German Open Bremen 2018,2018-03-23,FILUS Ruwen/WALTHER Ricardo,KOU Lei/NUYTINCK Cedric,3,0,,R16,GRAND_SLAM,MD,871,Main Draw,FILUS Ruwen (GER) / WALTHER Ricardo (GER),KOU Lei (UKR) / NUYTINCK Cedric (BEL)
-World Tour German Open Bremen 2018,2018-03-23,HARIMOTO Tomokazu/MORIZONO Masataka,JANG Woojin/LIM Jonghoon,3,0,"11,14,12|5,12,10",R16,GRAND_SLAM,MD,871,Main Draw,HARIMOTO Tomokazu (JPN) / MORIZONO Masataka (JPN),JANG Woojin (KOR) / LIM Jonghoon (KOR)
-World Tour German Open Bremen 2018,2018-03-23,MA Long/XU Xin,LIAO Cheng-Ting/LIN Yun-Ju,3,2,"7,7,12,11,11|11,11,10,3,7",R16,GRAND_SLAM,MD,871,Main Draw,MA Long (CHN) / XU Xin (CHN),LIAO Cheng-Ting (TPE) / LIN Yun-Ju (TPE)
-World Tour German Open Bremen 2018,2018-03-23,MA Long,XU Xin,4,1,"11,9,11,11,11|9,11,9,9,6",F,GRAND_SLAM,MS,871,Main Draw,XU Xin (CHN),MA Long (CHN)
-World Tour German Open Bremen 2018,2018-03-23,MA Long,WONG Chun Ting,4,2,"11,13,11,9,4,11|4,11,2,11,11,9",SF,GRAND_SLAM,MS,871,Main Draw,WONG Chun Ting (HKG),MA Long (CHN)
-World Tour German Open Bremen 2018,2018-03-23,XU Xin,FRANZISKA Patrick,4,2,"9,11,11,8,11,11|11,6,8,11,5,7",SF,GRAND_SLAM,MS,871,Main Draw,FRANZISKA Patrick (GER),XU Xin (CHN)
-World Tour German Open Bremen 2018,2018-03-23,MA Long,BOLL Timo,4,1,"11,11,8,11,17|7,7,11,9,15",QF,GRAND_SLAM,MS,871,Main Draw,MA Long (CHN),BOLL Timo (GER)
-World Tour German Open Bremen 2018,2018-03-23,FRANZISKA Patrick,KARLSSON Kristian,4,1,"11,11,8,11,11|9,4,11,9,7",QF,GRAND_SLAM,MS,871,Main Draw,FRANZISKA Patrick (GER),KARLSSON Kristian (SWE)
-World Tour German Open Bremen 2018,2018-03-23,WONG Chun Ting,KARLSSON Mattias,4,1,"12,13,11,5,11|10,11,8,11,9",QF,GRAND_SLAM,MS,871,Main Draw,KARLSSON Mattias (SWE),WONG Chun Ting (HKG)
-World Tour German Open Bremen 2018,2018-03-23,XU Xin,GAUZY Simon,4,2,"10,9,11,12,11,11|12,11,5,10,3,7",QF,GRAND_SLAM,MS,871,Main Draw,GAUZY Simon (FRA),XU Xin (CHN)
-World Tour German Open Bremen 2018,2018-03-23,WONG Chun Ting,LEE Sang Su,4,1,"11,10,11,11,11|7,12,4,1,8",R16,GRAND_SLAM,MS,871,Main Draw,LEE Sang Su (KOR),WONG Chun Ting (HKG)
-World Tour German Open Bremen 2018,2018-03-23,FRANZISKA Patrick,FREITAS Marcos,4,2,"11,9,7,15,13,11|9,11,11,13,11,5",R16,GRAND_SLAM,MS,871,Main Draw,FRANZISKA Patrick (GER),FREITAS Marcos (POR)
-World Tour German Open Bremen 2018,2018-03-23,MA Long,MIZUTANI Jun,4,0,"11,11,11,11|6,7,9,9",R16,GRAND_SLAM,MS,871,Main Draw,MA Long (CHN),MIZUTANI Jun (JPN)
-World Tour German Open Bremen 2018,2018-03-23,XU Xin,JEOUNG Youngsik,4,0,"11,11,11,11|5,5,8,2",R16,GRAND_SLAM,MS,871,Main Draw,JEOUNG Youngsik (KOR),XU Xin (CHN)
-World Tour German Open Bremen 2018,2018-03-23,KARLSSON Mattias,NIWA Koki,4,1,"11,8,11,11,11|8,11,3,8,9",R16,GRAND_SLAM,MS,871,Main Draw,NIWA Koki (JPN),KARLSSON Mattias (SWE)
-World Tour German Open Bremen 2018,2018-03-23,KARLSSON Kristian,FILUS Ruwen,4,1,"14,11,15,8,11|12,5,13,11,7",R16,GRAND_SLAM,MS,871,Main Draw,KARLSSON Kristian (SWE),FILUS Ruwen (GER)
-World Tour German Open Bremen 2018,2018-03-23,BOLL Timo,CHUANG Chih-Yuan,4,3,"11,9,11,11,9,13,11|3,11,13,6,11,11,7",R16,GRAND_SLAM,MS,871,Main Draw,CHUANG Chih-Yuan (TPE),BOLL Timo (GER)
-World Tour German Open Bremen 2018,2018-03-23,GAUZY Simon,HO Kwan Kit,4,3,"11,8,8,11,11,6,11|7,11,11,9,9,11,5",R16,GRAND_SLAM,MS,871,Main Draw,GAUZY Simon (FRA),HO Kwan Kit (HKG)
-World Tour German Open Bremen 2018,2018-03-23,LEE Sang Su,SKACHKOV Kirill,4,1,"12,11,7,13,11|10,3,11,11,3",R32,GRAND_SLAM,MS,871,Main Draw,LEE Sang Su (KOR),SKACHKOV Kirill (RUS)
-World Tour German Open Bremen 2018,2018-03-23,FRANZISKA Patrick,OVTCHAROV Dimitrij,4,1,"11,7,12,11,11|6,11,10,1,0",R32,GRAND_SLAM,MS,871,Main Draw,OVTCHAROV Dimitrij (GER),FRANZISKA Patrick (GER)
-World Tour German Open Bremen 2018,2018-03-23,BOLL Timo,AN Jaehyun,4,0,"11,11,11,11|3,5,7,9",R32,GRAND_SLAM,MS,871,Main Draw,AN Jaehyun (KOR),BOLL Timo (GER)
-World Tour German Open Bremen 2018,2018-03-23,HO Kwan Kit,ASSAR Omar,4,1,"11,11,11,5,12|6,7,6,11,10",R32,GRAND_SLAM,MS,871,Main Draw,HO Kwan Kit (HKG),ASSAR Omar (EGY)
-World Tour German Open Bremen 2018,2018-03-23,JEOUNG Youngsik,OSHIMA Yuya,4,2,"12,4,11,1,11,11|10,11,6,11,8,8",R32,GRAND_SLAM,MS,871,Main Draw,OSHIMA Yuya (JPN),JEOUNG Youngsik (KOR)
-World Tour German Open Bremen 2018,2018-03-23,WONG Chun Ting,JEONG Sangeun,4,2,"11,8,11,11,9,11|5,11,4,5,11,5",R32,GRAND_SLAM,MS,871,Main Draw,JEONG Sangeun (KOR),WONG Chun Ting (HKG)
-World Tour German Open Bremen 2018,2018-03-23,FREITAS Marcos,YOSHIDA Masaki,4,3,"9,11,8,9,11,11,11|11,4,11,11,5,9,9",R32,GRAND_SLAM,MS,871,Main Draw,YOSHIDA Masaki (JPN),FREITAS Marcos (POR)
-World Tour German Open Bremen 2018,2018-03-23,MA Long,YOSHIMURA Maharu,4,0,"11,11,11,14|6,7,5,12",R32,GRAND_SLAM,MS,871,Main Draw,MA Long (CHN),YOSHIMURA Maharu (JPN)
-World Tour German Open Bremen 2018,2018-03-23,KARLSSON Kristian,WALTHER Ricardo,4,2,"5,12,11,9,11,11|11,10,8,11,9,9",R32,GRAND_SLAM,MS,871,Main Draw,KARLSSON Kristian (SWE),WALTHER Ricardo (GER)
-World Tour German Open Bremen 2018,2018-03-23,MIZUTANI Jun,GROTH Jonathan,4,0,"11,11,11,11|3,7,8,7",R32,GRAND_SLAM,MS,871,Main Draw,GROTH Jonathan (DEN),MIZUTANI Jun (JPN)
-World Tour German Open Bremen 2018,2018-03-23,FILUS Ruwen,HARIMOTO Tomokazu,4,2,"11,7,14,8,11,11|5,11,12,11,7,5",R32,GRAND_SLAM,MS,871,Main Draw,FILUS Ruwen (GER),HARIMOTO Tomokazu (JPN)
-World Tour German Open Bremen 2018,2018-03-23,CHUANG Chih-Yuan,LIAO Cheng-Ting,4,1,"4,11,11,11,11|11,9,6,7,8",R32,GRAND_SLAM,MS,871,Main Draw,CHUANG Chih-Yuan (TPE),LIAO Cheng-Ting (TPE)
-World Tour German Open Bremen 2018,2018-03-23,GAUZY Simon,GACINA Andrej,4,3,"11,4,4,11,11,5,11|3,11,11,9,7,11,5",R32,GRAND_SLAM,MS,871,Main Draw,GAUZY Simon (FRA),GACINA Andrej (CRO)
-World Tour German Open Bremen 2018,2018-03-23,KARLSSON Mattias,CALDERANO Hugo,4,2,"13,9,11,10,11,12|11,11,8,12,6,10",R32,GRAND_SLAM,MS,871,Main Draw,KARLSSON Mattias (SWE),CALDERANO Hugo (BRA)
-World Tour German Open Bremen 2018,2018-03-23,XU Xin,DYJAS Jakub,4,2,"11,9,11,11,9,11|5,11,8,6,11,5",R32,GRAND_SLAM,MS,871,Main Draw,DYJAS Jakub (POL),XU Xin (CHN)
-World Tour German Open Bremen 2018,2018-03-23,NIWA Koki,UEDA Jin,4,2,"11,11,5,11,8,11|8,6,11,5,11,6",R32,GRAND_SLAM,MS,871,Main Draw,NIWA Koki (JPN),UEDA Jin (JPN)
-World Tour German Open Bremen 2018,2018-03-23,SEYFRIED Joe,MOREGARD Truls,3,1,"14,6,11,11|12,11,5,7",F,GRAND_SLAM,U21MS,871,Main Draw,MOREGARD Truls (SWE),SEYFRIED Joe (FRA)
-World Tour German Open Bremen 2018,2018-03-23,SEYFRIED Joe,SIPOS Rares,3,0,"11,11,11|9,2,1",SF,GRAND_SLAM,U21MS,871,Main Draw,SEYFRIED Joe (FRA),SIPOS Rares (ROU)
-World Tour German Open Bremen 2018,2018-03-23,MOREGARD Truls,AN Jaehyun,3,2,"9,11,5,11,11|11,8,11,8,6",SF,GRAND_SLAM,U21MS,871,Main Draw,AN Jaehyun (KOR),MOREGARD Truls (SWE)
-World Tour German Open Bremen 2018,2018-03-23,SIPOS Rares,MAJOROS Bence,3,2,"13,3,11,8,11|11,11,7,11,3",QF,GRAND_SLAM,U21MS,871,Main Draw,SIPOS Rares (ROU),MAJOROS Bence (HUN)
-World Tour German Open Bremen 2018,2018-03-23,AN Jaehyun,JHA Kanak,3,2,"4,8,11,11,11|11,11,6,7,9",QF,GRAND_SLAM,U21MS,871,Main Draw,AN Jaehyun (KOR),JHA Kanak (USA)
-World Tour German Open Bremen 2018,2018-03-23,SEYFRIED Joe,LIM Jonghoon,3,2,"11,7,11,7,11|3,11,6,11,9",QF,GRAND_SLAM,U21MS,871,Main Draw,SEYFRIED Joe (FRA),LIM Jonghoon (KOR)
-World Tour German Open Bremen 2018,2018-03-23,MOREGARD Truls,YU Ziyang,3,1,"13,11,2,12|11,6,11,10",QF,GRAND_SLAM,U21MS,871,Main Draw,MOREGARD Truls (SWE),YU Ziyang (CHN)
-World Tour German Open Bremen 2018,2018-03-23,SEYFRIED Joe,TAKAMI Masaki,3,2,"9,11,9,12,11|11,6,11,10,6",R16,GRAND_SLAM,U21MS,871,Main Draw,SEYFRIED Joe (FRA),TAKAMI Masaki (JPN)
-World Tour German Open Bremen 2018,2018-03-23,MAJOROS Bence,CHO Daeseong,3,0,"11,11,11|7,7,7",R16,GRAND_SLAM,U21MS,871,Main Draw,MAJOROS Bence (HUN),CHO Daeseong (KOR)
-World Tour German Open Bremen 2018,2018-03-23,AN Jaehyun,OIKAWA Mizuki,3,1,"14,6,11,11|12,11,5,9",R16,GRAND_SLAM,U21MS,871,Main Draw,OIKAWA Mizuki (JPN),AN Jaehyun (KOR)
-World Tour German Open Bremen 2018,2018-03-23,JHA Kanak,TSUBOI Yuma,3,2,"11,7,7,13,13|9,11,11,11,11",R16,GRAND_SLAM,U21MS,871,Main Draw,TSUBOI Yuma (JPN),JHA Kanak (USA)
-World Tour German Open Bremen 2018,2018-03-23,MOREGARD Truls,JORGIC Darko,3,2,"14,7,11,9,11|12,11,9,11,7",R16,GRAND_SLAM,U21MS,871,Main Draw,JORGIC Darko (SLO),MOREGARD Truls (SWE)
-World Tour German Open Bremen 2018,2018-03-23,LIM Jonghoon,KLEIN Dennis,3,0,,R16,GRAND_SLAM,U21MS,871,Main Draw,KLEIN Dennis (GER),LIM Jonghoon (KOR)
-World Tour German Open Bremen 2018,2018-03-23,SIPOS Rares,LEVENKO Andreas,3,1,"11,11,5,11|5,7,11,9",R16,GRAND_SLAM,U21MS,871,Main Draw,LEVENKO Andreas (AUT),SIPOS Rares (ROU)
-World Tour German Open Bremen 2018,2018-03-23,YU Ziyang,KIZUKURI Yuto,3,0,"11,12,11|8,10,7",R16,GRAND_SLAM,U21MS,871,Main Draw,YU Ziyang (CHN),KIZUKURI Yuto (JPN)
-World Tour German Open Bremen 2018,2018-03-23,SIPOS Rares,LIN Xuqi,3,0,"11,14,11|8,12,4",R32,GRAND_SLAM,U21MS,871,Main Draw,LIN Xuqi (AUS),SIPOS Rares (ROU)
-World Tour German Open Bremen 2018,2018-03-23,JHA Kanak,PLETEA Cristian,3,1,"1,11,11,11|11,9,7,5",R32,GRAND_SLAM,U21MS,871,Main Draw,JHA Kanak (USA),PLETEA Cristian (ROU)
-World Tour German Open Bremen 2018,2018-03-23,MAJOROS Bence,AFANADOR Brian,3,1,"7,11,11,12|11,8,7,10",R32,GRAND_SLAM,U21MS,871,Main Draw,MAJOROS Bence (HUN),AFANADOR Brian (PUR)
-World Tour German Open Bremen 2018,2018-03-23,JORGIC Darko,MENDEZ Mariano,3,0,"11,11,11|4,3,2",R32,GRAND_SLAM,U21MS,871,Main Draw,JORGIC Darko (SLO),MENDEZ Mariano (ARG)
-World Tour German Open Bremen 2018,2018-03-23,LIM Jonghoon,HOHMEIER Nils,3,1,"11,11,10,11|8,6,12,7",R32,GRAND_SLAM,U21MS,871,Main Draw,HOHMEIER Nils (GER),LIM Jonghoon (KOR)
-World Tour German Open Bremen 2018,2018-03-23,AN Jaehyun,LIND Anders,3,0,"11,14,11|3,12,9",R32,GRAND_SLAM,U21MS,871,Main Draw,AN Jaehyun (KOR),LIND Anders (DEN)
-World Tour German Open Bremen 2018,2018-03-23,LEVENKO Andreas,NIKULIN Ivan,3,0,"11,11,11|6,8,9",R32,GRAND_SLAM,U21MS,871,Main Draw,LEVENKO Andreas (AUT),NIKULIN Ivan (RUS)
-World Tour German Open Bremen 2018,2018-03-23,TSUBOI Yuma,HELMY Mahmoud,3,0,"11,11,11|6,1,6",R32,GRAND_SLAM,U21MS,871,Main Draw,TSUBOI Yuma (JPN),HELMY Mahmoud (EGY)
-World Tour German Open Bremen 2018,2018-03-23,CHO Daeseong,CHO Seungmin,3,1,"12,7,11,13|10,11,5,11",R32,GRAND_SLAM,U21MS,871,Main Draw,CHO Daeseong (KOR),CHO Seungmin (KOR)
-World Tour German Open Bremen 2018,2018-03-23,MOREGARD Truls,CNUDDE Florian,3,0,"11,14,11|7,12,4",R32,GRAND_SLAM,U21MS,871,Main Draw,CNUDDE Florian (BEL),MOREGARD Truls (SWE)
-World Tour German Open Bremen 2018,2018-03-23,TAKAMI Masaki,PASSARA Pattaratorn,3,0,"11,11,11|4,6,4",R32,GRAND_SLAM,U21MS,871,Main Draw,PASSARA Pattaratorn (THA),TAKAMI Masaki (JPN)
-World Tour German Open Bremen 2018,2018-03-23,YU Ziyang,KOZUL Deni,3,0,"11,11,11|1,9,6",R32,GRAND_SLAM,U21MS,871,Main Draw,KOZUL Deni (SLO),YU Ziyang (CHN)
-World Tour German Open Bremen 2018,2018-03-23,KIZUKURI Yuto,HAJIEI Arman,3,0,"11,11,11|7,6,9",R32,GRAND_SLAM,U21MS,871,Main Draw,HAJIEI Arman (IRI),KIZUKURI Yuto (JPN)
-World Tour German Open Bremen 2018,2018-03-23,KLEIN Dennis,DARCIS Thibaut,3,0,"11,11,11|4,7,5",R32,GRAND_SLAM,U21MS,871,Main Draw,KLEIN Dennis (GER),DARCIS Thibaut (BEL)
-World Tour German Open Bremen 2018,2018-03-23,SEYFRIED Joe,ANGELAKIS Konstantinos,3,2,"3,7,12,11,11|11,11,10,4,4",R32,GRAND_SLAM,U21MS,871,Main Draw,SEYFRIED Joe (FRA),ANGELAKIS Konstantinos (GRE)
-World Tour German Open Bremen 2018,2018-03-23,OIKAWA Mizuki,HIPPLER Tobias,3,0,"11,11,11|2,4,7",R32,GRAND_SLAM,U21MS,871,Main Draw,OIKAWA Mizuki (JPN),HIPPLER Tobias (GER)
-World Tour German Open Bremen 2018,2018-03-23,SHIBATA Saki,HUANG Yingqi,3,1,"11,9,11,11|6,11,9,5",F,GRAND_SLAM,U21WS,871,Main Draw,HUANG Yingqi (CHN),SHIBATA Saki (JPN)
-World Tour German Open Bremen 2018,2018-03-23,HUANG Yingqi,SOO Wai Yam,3,1,"9,12,11,14|11,10,8,12",SF,GRAND_SLAM,U21WS,871,Main Draw,SOO Wai Yam (HKG),HUANG Yingqi (CHN)
-World Tour German Open Bremen 2018,2018-03-23,SHIBATA Saki,NAGASAKI Miyu,3,0,"12,11,11|10,5,5",SF,GRAND_SLAM,U21WS,871,Main Draw,NAGASAKI Miyu (JPN),SHIBATA Saki (JPN)
-World Tour German Open Bremen 2018,2018-03-23,SOO Wai Yam,CHOI Hyojoo,3,2,"10,11,11,10,12|12,7,8,12,10",QF,GRAND_SLAM,U21WS,871,Main Draw,SOO Wai Yam (HKG),CHOI Hyojoo (KOR)
-World Tour German Open Bremen 2018,2018-03-23,SHIBATA Saki,SATO Hitomi,3,0,"11,11,11|7,6,5",QF,GRAND_SLAM,U21WS,871,Main Draw,SATO Hitomi (JPN),SHIBATA Saki (JPN)
-World Tour German Open Bremen 2018,2018-03-23,HUANG Yingqi,FAN Siqi,3,2,"11,6,7,11,11|7,11,11,4,5",QF,GRAND_SLAM,U21WS,871,Main Draw,HUANG Yingqi (CHN),FAN Siqi (CHN)
-World Tour German Open Bremen 2018,2018-03-23,NAGASAKI Miyu,ODO Satsuki,3,0,"11,11,11|6,4,7",QF,GRAND_SLAM,U21WS,871,Main Draw,ODO Satsuki (JPN),NAGASAKI Miyu (JPN)
-World Tour German Open Bremen 2018,2018-03-23,FAN Siqi,KIHARA Miyuu,3,0,"11,11,11|8,7,8",R16,GRAND_SLAM,U21WS,871,Main Draw,FAN Siqi (CHN),KIHARA Miyuu (JPN)
-World Tour German Open Bremen 2018,2018-03-23,SOO Wai Yam,KIM Jiho,3,2,"12,11,10,14,12|10,6,12,16,10",R16,GRAND_SLAM,U21WS,871,Main Draw,SOO Wai Yam (HKG),KIM Jiho (KOR)
-World Tour German Open Bremen 2018,2018-03-23,SATO Hitomi,KHETKHUAN Tamolwan,3,0,"11,11,11|7,5,9",R16,GRAND_SLAM,U21WS,871,Main Draw,SATO Hitomi (JPN),KHETKHUAN Tamolwan (THA)
-World Tour German Open Bremen 2018,2018-03-23,NAGASAKI Miyu,HASHIMOTO Honoka,3,2,"6,11,21,6,11|11,5,19,11,7",R16,GRAND_SLAM,U21WS,871,Main Draw,NAGASAKI Miyu (JPN),HASHIMOTO Honoka (JPN)
-World Tour German Open Bremen 2018,2018-03-23,HUANG Yingqi,WAN Yuan,3,1,"7,11,11,11|11,1,6,3",R16,GRAND_SLAM,U21WS,871,Main Draw,WAN Yuan (GER),HUANG Yingqi (CHN)
-World Tour German Open Bremen 2018,2018-03-23,CHOI Hyojoo,ZARIF Audrey,3,0,"11,11,11|8,4,1",R16,GRAND_SLAM,U21WS,871,Main Draw,CHOI Hyojoo (KOR),ZARIF Audrey (FRA)
-World Tour German Open Bremen 2018,2018-03-23,SHIBATA Saki,SHIN Yubin,3,0,"12,15,11|10,13,8",R16,GRAND_SLAM,U21WS,871,Main Draw,SHIN Yubin (KOR),SHIBATA Saki (JPN)
-World Tour German Open Bremen 2018,2018-03-23,ODO Satsuki,DIAZ Adriana,3,0,"13,14,12|11,12,10",R16,GRAND_SLAM,U21WS,871,Main Draw,DIAZ Adriana (PUR),ODO Satsuki (JPN)
-World Tour German Open Bremen 2018,2018-03-23,NAGASAKI Miyu,BERGAND Filippa,3,0,"11,11,11|8,2,8",R32,GRAND_SLAM,U21WS,871,Main Draw,NAGASAKI Miyu (JPN),BERGAND Filippa (SWE)
-World Tour German Open Bremen 2018,2018-03-23,CHOI Hyojoo,SUN Jiayi,3,1,"11,11,11,11|13,3,7,4",R32,GRAND_SLAM,U21WS,871,Main Draw,CHOI Hyojoo (KOR),SUN Jiayi (CRO)
-World Tour German Open Bremen 2018,2018-03-23,SATO Hitomi,DIACONU Adina,3,1,"5,11,11,11|11,9,9,2",R32,GRAND_SLAM,U21WS,871,Main Draw,DIACONU Adina (ROU),SATO Hitomi (JPN)
-World Tour German Open Bremen 2018,2018-03-23,ODO Satsuki,MISCHEK-COLUCCI Karoline,3,0,"11,11,11|8,7,4",R32,GRAND_SLAM,U21WS,871,Main Draw,MISCHEK-COLUCCI Karoline (AUT),ODO Satsuki (JPN)
-World Tour German Open Bremen 2018,2018-03-23,SHIN Yubin,PARANANG Orawan,3,0,"11,11,11|3,9,8",R32,GRAND_SLAM,U21WS,871,Main Draw,SHIN Yubin (KOR),PARANANG Orawan (THA)
-World Tour German Open Bremen 2018,2018-03-23,KIM Jiho,KALLBERG Christina,3,0,"11,11,11|6,1,5",R32,GRAND_SLAM,U21WS,871,Main Draw,KALLBERG Christina (SWE),KIM Jiho (KOR)
-World Tour German Open Bremen 2018,2018-03-23,HASHIMOTO Honoka,LUNG Lisa,3,0,"11,11,11|5,5,5",R32,GRAND_SLAM,U21WS,871,Main Draw,HASHIMOTO Honoka (JPN),LUNG Lisa (BEL)
-World Tour German Open Bremen 2018,2018-03-23,FAN Siqi,MIGOT Marie,3,0,"11,11,11|8,2,6",R32,GRAND_SLAM,U21WS,871,Main Draw,MIGOT Marie (FRA),FAN Siqi (CHN)
-World Tour German Open Bremen 2018,2018-03-23,ZARIF Audrey,CHASSELIN Pauline,3,1,"11,11,3,11|9,8,11,8",R32,GRAND_SLAM,U21WS,871,Main Draw,CHASSELIN Pauline (FRA),ZARIF Audrey (FRA)
-World Tour German Open Bremen 2018,2018-03-23,KHETKHUAN Tamolwan,MALANINA Maria,3,0,"15,11,11|13,9,8",R32,GRAND_SLAM,U21WS,871,Main Draw,MALANINA Maria (RUS),KHETKHUAN Tamolwan (THA)
-World Tour German Open Bremen 2018,2018-03-23,HUANG Yingqi,GUISNEL Oceane,3,0,"11,11,11|7,3,8",R32,GRAND_SLAM,U21WS,871,Main Draw,HUANG Yingqi (CHN),GUISNEL Oceane (FRA)
-World Tour German Open Bremen 2018,2018-03-23,HAYATA Hina/ITO Mima,JEON Jihee/YANG Ha Eun,3,1,"11,11,10,11|3,5,12,6",F,GRAND_SLAM,WD,871,Main Draw,HAYATA Hina (JPN) / ITO Mima (JPN),JEON Jihee (KOR) / YANG Ha Eun (KOR)
-World Tour German Open Bremen 2018,2018-03-23,JEON Jihee/YANG Ha Eun,DOO Hoi Kem/LEE Ho Ching,3,2,"11,11,5,8,11|4,7,11,11,6",SF,GRAND_SLAM,WD,871,Main Draw,JEON Jihee (KOR) / YANG Ha Eun (KOR),DOO Hoi Kem (HKG) / LEE Ho Ching (HKG)
-World Tour German Open Bremen 2018,2018-03-23,HAYATA Hina/ITO Mima,NG Wing Nam/SOO Wai Yam,3,1,"10,11,11,11|12,4,5,6",SF,GRAND_SLAM,WD,871,Main Draw,HAYATA Hina (JPN) / ITO Mima (JPN),NG Wing Nam (HKG) / SOO Wai Yam (HKG)
-World Tour German Open Bremen 2018,2018-03-23,JEON Jihee/YANG Ha Eun,DODEAN Daniela/SAMARA Elizabeta,3,1,"11,11,9,11|6,7,11,8",QF,GRAND_SLAM,WD,871,Main Draw,JEON Jihee (KOR) / YANG Ha Eun (KOR),DODEAN Daniela (ROU) / SAMARA Elizabeta (ROU)
-World Tour German Open Bremen 2018,2018-03-23,DOO Hoi Kem/LEE Ho Ching,CHENG Hsien-Tzu/LIU Hsing-Yin,3,1,"11,13,11,11|9,11,13,9",QF,GRAND_SLAM,WD,871,Main Draw,DOO Hoi Kem (HKG) / LEE Ho Ching (HKG),CHENG Hsien-Tzu (TPE) / LIU Hsing-Yin (TPE)
-World Tour German Open Bremen 2018,2018-03-23,HAYATA Hina/ITO Mima,PARANANG Orawan/SAWETTABUT Suthasini,3,0,"11,11,11|7,8,9",QF,GRAND_SLAM,WD,871,Main Draw,HAYATA Hina (JPN) / ITO Mima (JPN),PARANANG Orawan (THA) / SAWETTABUT Suthasini (THA)
-World Tour German Open Bremen 2018,2018-03-23,NG Wing Nam/SOO Wai Yam,DIACONU Adina/SZOCS Bernadette,3,1,"6,11,11,11|11,7,9,4",QF,GRAND_SLAM,WD,871,Main Draw,NG Wing Nam (HKG) / SOO Wai Yam (HKG),DIACONU Adina (ROU) / SZOCS Bernadette (ROU)
-World Tour German Open Bremen 2018,2018-03-23,JEON Jihee/YANG Ha Eun,KHETKHUAN Tamolwan/KOMWONG Nanthana,3,1,"12,11,7,11|10,8,11,5",R16,GRAND_SLAM,WD,871,Main Draw,JEON Jihee (KOR) / YANG Ha Eun (KOR),KHETKHUAN Tamolwan (THA) / KOMWONG Nanthana (THA)
-World Tour German Open Bremen 2018,2018-03-23,DOO Hoi Kem/LEE Ho Ching,HAN Ying/MITTELHAM Nina,3,0,"11,11,11|7,5,8",R16,GRAND_SLAM,WD,871,Main Draw,DOO Hoi Kem (HKG) / LEE Ho Ching (HKG),HAN Ying (GER) / MITTELHAM Nina (GER)
-World Tour German Open Bremen 2018,2018-03-23,DIACONU Adina/SZOCS Bernadette,EKHOLM Matilda/POTA Georgina,3,1,"11,9,11,11|8,11,5,5",R16,GRAND_SLAM,WD,871,Main Draw,DIACONU Adina (ROU) / SZOCS Bernadette (ROU),EKHOLM Matilda (SWE) / POTA Georgina (HUN)
-World Tour German Open Bremen 2018,2018-03-23,NG Wing Nam/SOO Wai Yam,GRZYBOWSKA-FRANC Katarzyna/PARTYKA Natalia,3,0,"11,11,11|7,7,9",R16,GRAND_SLAM,WD,871,Main Draw,NG Wing Nam (HKG) / SOO Wai Yam (HKG),GRZYBOWSKA-FRANC Katarzyna (POL) / PARTYKA Natalia (POL)
-World Tour German Open Bremen 2018,2018-03-23,PARANANG Orawan/SAWETTABUT Suthasini,BATRA Manika/DAS Mouma,3,2,"11,11,8,10,11|9,8,11,12,9",R16,GRAND_SLAM,WD,871,Main Draw,PARANANG Orawan (THA) / SAWETTABUT Suthasini (THA),BATRA Manika (IND) / DAS Mouma (IND)
-World Tour German Open Bremen 2018,2018-03-23,HAYATA Hina/ITO Mima,XIAO Maria/ZHANG Mo,3,0,"11,13,12|8,11,10",R16,GRAND_SLAM,WD,871,Main Draw,HAYATA Hina (JPN) / ITO Mima (JPN),XIAO Maria (ESP) / ZHANG Mo (CAN)
-World Tour German Open Bremen 2018,2018-03-23,CHENG Hsien-Tzu/LIU Hsing-Yin,SOLJA Petrissa/WINTER Sabine,3,0,"11,11,11|5,7,5",R16,GRAND_SLAM,WD,871,Main Draw,CHENG Hsien-Tzu (TPE) / LIU Hsing-Yin (TPE),SOLJA Petrissa (GER) / WINTER Sabine (GER)
-World Tour German Open Bremen 2018,2018-03-23,DODEAN Daniela/SAMARA Elizabeta,VARADY Barbora/MATELOVA Hana,3,2,"11,10,11,9,11|9,12,3,11,5",R16,GRAND_SLAM,WD,871,Main Draw,DODEAN Daniela (ROU) / SAMARA Elizabeta (ROU),VARADY Barbora (SVK) / MATELOVA Hana (CZE)
-World Tour German Open Bremen 2018,2018-03-23,ISHIKAWA Kasumi,SUH Hyo Won,4,1,"11,10,11,11,11|9,12,6,7,6",F,GRAND_SLAM,WS,871,Main Draw,SUH Hyo Won (KOR),ISHIKAWA Kasumi (JPN)
-World Tour German Open Bremen 2018,2018-03-23,SUH Hyo Won,FENG Tianwei,4,2,"3,11,11,11,8,11|11,4,6,8,11,5",SF,GRAND_SLAM,WS,871,Main Draw,FENG Tianwei (SGP),SUH Hyo Won (KOR)
-World Tour German Open Bremen 2018,2018-03-23,ISHIKAWA Kasumi,CHENG I-Ching,4,3,"11,9,11,10,9,11,11|5,11,6,12,11,8,6",SF,GRAND_SLAM,WS,871,Main Draw,CHENG I-Ching (TPE),ISHIKAWA Kasumi (JPN)
-World Tour German Open Bremen 2018,2018-03-23,FENG Tianwei,JEON Jihee,4,0,"12,11,11,11|10,9,3,4",QF,GRAND_SLAM,WS,871,Main Draw,FENG Tianwei (SGP),JEON Jihee (KOR)
-World Tour German Open Bremen 2018,2018-03-23,ISHIKAWA Kasumi,WU Yang,4,2,"14,7,11,11,5,11|12,11,4,8,11,7",QF,GRAND_SLAM,WS,871,Main Draw,WU Yang (CHN),ISHIKAWA Kasumi (JPN)
-World Tour German Open Bremen 2018,2018-03-23,SUH Hyo Won,YANG Ha Eun,4,3,"11,12,3,12,4,4,11|6,10,11,10,11,11,7",QF,GRAND_SLAM,WS,871,Main Draw,YANG Ha Eun (KOR),SUH Hyo Won (KOR)
-World Tour German Open Bremen 2018,2018-03-23,CHENG I-Ching,SUN Yingsha,4,2,"3,12,11,8,11,11|11,10,8,11,9,8",QF,GRAND_SLAM,WS,871,Main Draw,SUN Yingsha (CHN),CHENG I-Ching (TPE)
-World Tour German Open Bremen 2018,2018-03-23,SUH Hyo Won,HIRANO Miu,4,2,"11,11,11,7,4,11|8,9,6,11,11,7",R16,GRAND_SLAM,WS,871,Main Draw,SUH Hyo Won (KOR),HIRANO Miu (JPN)
-World Tour German Open Bremen 2018,2018-03-23,FENG Tianwei,HUANG Yingqi,4,3,"8,11,4,9,11,11,11|11,3,11,11,5,9,6",R16,GRAND_SLAM,WS,871,Main Draw,FENG Tianwei (SGP),HUANG Yingqi (CHN)
-World Tour German Open Bremen 2018,2018-03-23,WU Yang,FAN Siqi,4,0,"11,11,11,11|4,7,7,2",R16,GRAND_SLAM,WS,871,Main Draw,FAN Siqi (CHN),WU Yang (CHN)
-World Tour German Open Bremen 2018,2018-03-23,CHENG I-Ching,WEN Jia,4,0,"11,14,11,11|8,12,7,8",R16,GRAND_SLAM,WS,871,Main Draw,WEN Jia (CHN),CHENG I-Ching (TPE)
-World Tour German Open Bremen 2018,2018-03-23,YANG Ha Eun,HAN Ying,4,0,"11,12,11,14|3,10,9,12",R16,GRAND_SLAM,WS,871,Main Draw,YANG Ha Eun (KOR),HAN Ying (GER)
-World Tour German Open Bremen 2018,2018-03-23,JEON Jihee,POLCANOVA Sofia,4,3,"10,12,11,11,11,9,11|12,14,8,5,8,11,9",R16,GRAND_SLAM,WS,871,Main Draw,JEON Jihee (KOR),POLCANOVA Sofia (AUT)
-World Tour German Open Bremen 2018,2018-03-23,ISHIKAWA Kasumi,CHEN Xingtong,4,0,"11,11,20,11|9,8,18,6",R16,GRAND_SLAM,WS,871,Main Draw,CHEN Xingtong (CHN),ISHIKAWA Kasumi (JPN)
-World Tour German Open Bremen 2018,2018-03-23,SUN Yingsha,ITO Mima,4,3,"7,11,14,11,6,10,11|11,9,12,6,11,12,6",R16,GRAND_SLAM,WS,871,Main Draw,ITO Mima (JPN),SUN Yingsha (CHN)
-World Tour German Open Bremen 2018,2018-03-23,ISHIKAWA Kasumi,SATO Hitomi,4,0,"11,11,11,11|5,6,6,7",R32,GRAND_SLAM,WS,871,Main Draw,SATO Hitomi (JPN),ISHIKAWA Kasumi (JPN)
-World Tour German Open Bremen 2018,2018-03-23,FAN Siqi,DOO Hoi Kem,4,1,"11,8,11,11,11|7,11,6,8,9",R32,GRAND_SLAM,WS,871,Main Draw,DOO Hoi Kem (HKG),FAN Siqi (CHN)
-World Tour German Open Bremen 2018,2018-03-23,HAN Ying,ZHANG Mo,4,0,"11,11,16,11|6,7,14,9",R32,GRAND_SLAM,WS,871,Main Draw,ZHANG Mo (CAN),HAN Ying (GER)
-World Tour German Open Bremen 2018,2018-03-23,JEON Jihee,WINTER Sabine,4,2,"5,11,11,11,11,11|11,9,6,13,9,5",R32,GRAND_SLAM,WS,871,Main Draw,WINTER Sabine (GER),JEON Jihee (KOR)
-World Tour German Open Bremen 2018,2018-03-23,HIRANO Miu,HASHIMOTO Honoka,4,1,"11,11,11,9,16|6,9,9,11,14",R32,GRAND_SLAM,WS,871,Main Draw,HASHIMOTO Honoka (JPN),HIRANO Miu (JPN)
-World Tour German Open Bremen 2018,2018-03-23,CHENG I-Ching,SHIBATA Saki,4,1,"11,3,13,11,11|3,11,11,7,9",R32,GRAND_SLAM,WS,871,Main Draw,SHIBATA Saki (JPN),CHENG I-Ching (TPE)
-World Tour German Open Bremen 2018,2018-03-23,HUANG Yingqi,KATO Miyu,4,3,"11,13,3,11,9,8,11|8,11,11,7,11,11,8",R32,GRAND_SLAM,WS,871,Main Draw,HUANG Yingqi (CHN),KATO Miyu (JPN)
-World Tour German Open Bremen 2018,2018-03-23,WEN Jia,HAYATA Hina,4,0,"11,11,11,11|9,4,9,6",R32,GRAND_SLAM,WS,871,Main Draw,HAYATA Hina (JPN),WEN Jia (CHN)
-World Tour German Open Bremen 2018,2018-03-23,FENG Tianwei,ODO Satsuki,4,2,"11,11,8,11,10,11|9,9,11,7,12,4",R32,GRAND_SLAM,WS,871,Main Draw,FENG Tianwei (SGP),ODO Satsuki (JPN)
-World Tour German Open Bremen 2018,2018-03-23,SUN Yingsha,LEE Ho Ching,4,0,"11,11,11,11|8,7,8,7",R32,GRAND_SLAM,WS,871,Main Draw,SUN Yingsha (CHN),LEE Ho Ching (HKG)
-World Tour German Open Bremen 2018,2018-03-23,CHEN Xingtong,MU Zi,4,0,"11,11,11,11|5,6,8,8",R32,GRAND_SLAM,WS,871,Main Draw,CHEN Xingtong (CHN),MU Zi (CHN)
-World Tour German Open Bremen 2018,2018-03-23,YANG Ha Eun,CHEN Szu-Yu,4,3,"16,11,7,8,12,9,11|14,9,11,11,10,11,6",R32,GRAND_SLAM,WS,871,Main Draw,CHEN Szu-Yu (TPE),YANG Ha Eun (KOR)
-World Tour German Open Bremen 2018,2018-03-23,WU Yang,MORI Sakura,4,2,"11,11,13,11,9,12|9,8,15,5,11,10",R32,GRAND_SLAM,WS,871,Main Draw,WU Yang (CHN),MORI Sakura (JPN)
-World Tour German Open Bremen 2018,2018-03-23,SUH Hyo Won,CHENG Hsien-Tzu,4,3,"8,14,6,11,11,10,11|11,12,11,9,6,12,7",R32,GRAND_SLAM,WS,871,Main Draw,SUH Hyo Won (KOR),CHENG Hsien-Tzu (TPE)
-World Tour German Open Bremen 2018,2018-03-23,POLCANOVA Sofia,LI Jie,4,0,"12,11,17,11|10,2,15,3",R32,GRAND_SLAM,WS,871,Main Draw,POLCANOVA Sofia (AUT),LI Jie (NED)
-World Tour German Open Bremen 2018,2018-03-23,ITO Mima,EERLAND Britt,4,1,"11,11,9,12,11|8,7,11,10,8",R32,GRAND_SLAM,WS,871,Main Draw,ITO Mima (JPN),EERLAND Britt (NED)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+World Tour German Open Bremen 2018,2018-03-23,MA Long/XU Xin,JEOUNG Youngsik/LEE Sang Su,3,0,"11,11,11|7,8,9",F,GRAND_SLAM,MD,871,Main Draw,MA Long (CHN) / XU Xin (CHN),JEOUNG Youngsik (KOR) / LEE Sang Su (KOR),MA Long
+World Tour German Open Bremen 2018,2018-03-23,JEOUNG Youngsik/LEE Sang Su,HARIMOTO Tomokazu/MORIZONO Masataka,3,1,"5,12,11,11|11,10,9,9",SF,GRAND_SLAM,MD,871,Main Draw,JEOUNG Youngsik (KOR) / LEE Sang Su (KOR),HARIMOTO Tomokazu (JPN) / MORIZONO Masataka (JPN),JEOUNG Youngsik
+World Tour German Open Bremen 2018,2018-03-23,MA Long/XU Xin,CHEN Chien-An/CHUANG Chih-Yuan,3,0,"11,11,11|6,4,3",SF,GRAND_SLAM,MD,871,Main Draw,MA Long (CHN) / XU Xin (CHN),CHEN Chien-An (TPE) / CHUANG Chih-Yuan (TPE),MA Long
+World Tour German Open Bremen 2018,2018-03-23,JEOUNG Youngsik/LEE Sang Su,HO Kwan Kit/WONG Chun Ting,3,1,"11,11,8,11|7,7,11,8",QF,GRAND_SLAM,MD,871,Main Draw,JEOUNG Youngsik (KOR) / LEE Sang Su (KOR),HO Kwan Kit (HKG) / WONG Chun Ting (HKG),JEOUNG Youngsik
+World Tour German Open Bremen 2018,2018-03-23,MA Long/XU Xin,FRANZISKA Patrick/GROTH Jonathan,3,1,"11,8,11,11|9,11,3,1",QF,GRAND_SLAM,MD,871,Main Draw,MA Long (CHN) / XU Xin (CHN),FRANZISKA Patrick (GER) / GROTH Jonathan (DEN),MA Long
+World Tour German Open Bremen 2018,2018-03-23,CHEN Chien-An/CHUANG Chih-Yuan,FILUS Ruwen/WALTHER Ricardo,3,2,"4,11,8,11,11|11,9,11,4,8",QF,GRAND_SLAM,MD,871,Main Draw,CHEN Chien-An (TPE) / CHUANG Chih-Yuan (TPE),FILUS Ruwen (GER) / WALTHER Ricardo (GER),CHEN Chien-An
+World Tour German Open Bremen 2018,2018-03-23,HARIMOTO Tomokazu/MORIZONO Masataka,MIZUTANI Jun/OSHIMA Yuya,3,2,"11,11,11,9,11|13,5,9,11,3",QF,GRAND_SLAM,MD,871,Main Draw,HARIMOTO Tomokazu (JPN) / MORIZONO Masataka (JPN),MIZUTANI Jun (JPN) / OSHIMA Yuya (JPN),HARIMOTO Tomokazu
+World Tour German Open Bremen 2018,2018-03-23,CHEN Chien-An/CHUANG Chih-Yuan,KARLSSON Kristian/KARLSSON Mattias,3,0,"11,11,11|8,7,8",R16,GRAND_SLAM,MD,871,Main Draw,CHEN Chien-An (TPE) / CHUANG Chih-Yuan (TPE),KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),CHEN Chien-An
+World Tour German Open Bremen 2018,2018-03-23,FRANZISKA Patrick/GROTH Jonathan,PLETEA Cristian/SZOCS Hunor,3,0,"11,11,11|6,8,9",R16,GRAND_SLAM,MD,871,Main Draw,FRANZISKA Patrick (GER) / GROTH Jonathan (DEN),PLETEA Cristian (ROU) / SZOCS Hunor (ROU),FRANZISKA Patrick
+World Tour German Open Bremen 2018,2018-03-23,HO Kwan Kit/WONG Chun Ting,CALDERANO Hugo/GAUZY Simon,3,1,"8,11,11,13|11,6,5,11",R16,GRAND_SLAM,MD,871,Main Draw,HO Kwan Kit (HKG) / WONG Chun Ting (HKG),CALDERANO Hugo (BRA) / GAUZY Simon (FRA),HO Kwan Kit
+World Tour German Open Bremen 2018,2018-03-23,JEOUNG Youngsik/LEE Sang Su,ANTHONY Amalraj/SHETTY Sanil,3,0,"11,11,12|5,5,10",R16,GRAND_SLAM,MD,871,Main Draw,JEOUNG Youngsik (KOR) / LEE Sang Su (KOR),ANTHONY Amalraj (IND) / SHETTY Sanil (IND),JEOUNG Youngsik
+World Tour German Open Bremen 2018,2018-03-23,MIZUTANI Jun/OSHIMA Yuya,ECSEKI Nandor/SZUDI Adam,3,0,"11,12,11|7,10,2",R16,GRAND_SLAM,MD,871,Main Draw,MIZUTANI Jun (JPN) / OSHIMA Yuya (JPN),ECSEKI Nandor (HUN) / SZUDI Adam (HUN),MIZUTANI Jun
+World Tour German Open Bremen 2018,2018-03-23,FILUS Ruwen/WALTHER Ricardo,KOU Lei/NUYTINCK Cedric,3,0,,R16,GRAND_SLAM,MD,871,Main Draw,FILUS Ruwen (GER) / WALTHER Ricardo (GER),KOU Lei (UKR) / NUYTINCK Cedric (BEL),FILUS Ruwen
+World Tour German Open Bremen 2018,2018-03-23,HARIMOTO Tomokazu/MORIZONO Masataka,JANG Woojin/LIM Jonghoon,3,0,"11,14,12|5,12,10",R16,GRAND_SLAM,MD,871,Main Draw,HARIMOTO Tomokazu (JPN) / MORIZONO Masataka (JPN),JANG Woojin (KOR) / LIM Jonghoon (KOR),HARIMOTO Tomokazu
+World Tour German Open Bremen 2018,2018-03-23,MA Long/XU Xin,LIAO Cheng-Ting/LIN Yun-Ju,3,2,"7,7,12,11,11|11,11,10,3,7",R16,GRAND_SLAM,MD,871,Main Draw,MA Long (CHN) / XU Xin (CHN),LIAO Cheng-Ting (TPE) / LIN Yun-Ju (TPE),MA Long
+World Tour German Open Bremen 2018,2018-03-23,MA Long,XU Xin,4,1,"11,9,11,11,11|9,11,9,9,6",F,GRAND_SLAM,MS,871,Main Draw,XU Xin (CHN),MA Long (CHN),MA Long
+World Tour German Open Bremen 2018,2018-03-23,MA Long,WONG Chun Ting,4,2,"11,13,11,9,4,11|4,11,2,11,11,9",SF,GRAND_SLAM,MS,871,Main Draw,WONG Chun Ting (HKG),MA Long (CHN),MA Long
+World Tour German Open Bremen 2018,2018-03-23,XU Xin,FRANZISKA Patrick,4,2,"9,11,11,8,11,11|11,6,8,11,5,7",SF,GRAND_SLAM,MS,871,Main Draw,FRANZISKA Patrick (GER),XU Xin (CHN),XU Xin
+World Tour German Open Bremen 2018,2018-03-23,MA Long,BOLL Timo,4,1,"11,11,8,11,17|7,7,11,9,15",QF,GRAND_SLAM,MS,871,Main Draw,MA Long (CHN),BOLL Timo (GER),MA Long
+World Tour German Open Bremen 2018,2018-03-23,FRANZISKA Patrick,KARLSSON Kristian,4,1,"11,11,8,11,11|9,4,11,9,7",QF,GRAND_SLAM,MS,871,Main Draw,FRANZISKA Patrick (GER),KARLSSON Kristian (SWE),FRANZISKA Patrick
+World Tour German Open Bremen 2018,2018-03-23,WONG Chun Ting,KARLSSON Mattias,4,1,"12,13,11,5,11|10,11,8,11,9",QF,GRAND_SLAM,MS,871,Main Draw,KARLSSON Mattias (SWE),WONG Chun Ting (HKG),WONG Chun Ting
+World Tour German Open Bremen 2018,2018-03-23,XU Xin,GAUZY Simon,4,2,"10,9,11,12,11,11|12,11,5,10,3,7",QF,GRAND_SLAM,MS,871,Main Draw,GAUZY Simon (FRA),XU Xin (CHN),XU Xin
+World Tour German Open Bremen 2018,2018-03-23,WONG Chun Ting,LEE Sang Su,4,1,"11,10,11,11,11|7,12,4,1,8",R16,GRAND_SLAM,MS,871,Main Draw,LEE Sang Su (KOR),WONG Chun Ting (HKG),WONG Chun Ting
+World Tour German Open Bremen 2018,2018-03-23,FRANZISKA Patrick,FREITAS Marcos,4,2,"11,9,7,15,13,11|9,11,11,13,11,5",R16,GRAND_SLAM,MS,871,Main Draw,FRANZISKA Patrick (GER),FREITAS Marcos (POR),FRANZISKA Patrick
+World Tour German Open Bremen 2018,2018-03-23,MA Long,MIZUTANI Jun,4,0,"11,11,11,11|6,7,9,9",R16,GRAND_SLAM,MS,871,Main Draw,MA Long (CHN),MIZUTANI Jun (JPN),MA Long
+World Tour German Open Bremen 2018,2018-03-23,XU Xin,JEOUNG Youngsik,4,0,"11,11,11,11|5,5,8,2",R16,GRAND_SLAM,MS,871,Main Draw,JEOUNG Youngsik (KOR),XU Xin (CHN),XU Xin
+World Tour German Open Bremen 2018,2018-03-23,KARLSSON Mattias,NIWA Koki,4,1,"11,8,11,11,11|8,11,3,8,9",R16,GRAND_SLAM,MS,871,Main Draw,NIWA Koki (JPN),KARLSSON Mattias (SWE),KARLSSON Mattias
+World Tour German Open Bremen 2018,2018-03-23,KARLSSON Kristian,FILUS Ruwen,4,1,"14,11,15,8,11|12,5,13,11,7",R16,GRAND_SLAM,MS,871,Main Draw,KARLSSON Kristian (SWE),FILUS Ruwen (GER),KARLSSON Kristian
+World Tour German Open Bremen 2018,2018-03-23,BOLL Timo,CHUANG Chih-Yuan,4,3,"11,9,11,11,9,13,11|3,11,13,6,11,11,7",R16,GRAND_SLAM,MS,871,Main Draw,CHUANG Chih-Yuan (TPE),BOLL Timo (GER),BOLL Timo
+World Tour German Open Bremen 2018,2018-03-23,GAUZY Simon,HO Kwan Kit,4,3,"11,8,8,11,11,6,11|7,11,11,9,9,11,5",R16,GRAND_SLAM,MS,871,Main Draw,GAUZY Simon (FRA),HO Kwan Kit (HKG),GAUZY Simon
+World Tour German Open Bremen 2018,2018-03-23,LEE Sang Su,SKACHKOV Kirill,4,1,"12,11,7,13,11|10,3,11,11,3",R32,GRAND_SLAM,MS,871,Main Draw,LEE Sang Su (KOR),SKACHKOV Kirill (RUS),LEE Sang Su
+World Tour German Open Bremen 2018,2018-03-23,FRANZISKA Patrick,OVTCHAROV Dimitrij,4,1,"11,7,12,11,11|6,11,10,1,0",R32,GRAND_SLAM,MS,871,Main Draw,OVTCHAROV Dimitrij (GER),FRANZISKA Patrick (GER),FRANZISKA Patrick
+World Tour German Open Bremen 2018,2018-03-23,BOLL Timo,AN Jaehyun,4,0,"11,11,11,11|3,5,7,9",R32,GRAND_SLAM,MS,871,Main Draw,AN Jaehyun (KOR),BOLL Timo (GER),BOLL Timo
+World Tour German Open Bremen 2018,2018-03-23,HO Kwan Kit,ASSAR Omar,4,1,"11,11,11,5,12|6,7,6,11,10",R32,GRAND_SLAM,MS,871,Main Draw,HO Kwan Kit (HKG),ASSAR Omar (EGY),HO Kwan Kit
+World Tour German Open Bremen 2018,2018-03-23,JEOUNG Youngsik,OSHIMA Yuya,4,2,"12,4,11,1,11,11|10,11,6,11,8,8",R32,GRAND_SLAM,MS,871,Main Draw,OSHIMA Yuya (JPN),JEOUNG Youngsik (KOR),JEOUNG Youngsik
+World Tour German Open Bremen 2018,2018-03-23,WONG Chun Ting,JEONG Sangeun,4,2,"11,8,11,11,9,11|5,11,4,5,11,5",R32,GRAND_SLAM,MS,871,Main Draw,JEONG Sangeun (KOR),WONG Chun Ting (HKG),WONG Chun Ting
+World Tour German Open Bremen 2018,2018-03-23,FREITAS Marcos,YOSHIDA Masaki,4,3,"9,11,8,9,11,11,11|11,4,11,11,5,9,9",R32,GRAND_SLAM,MS,871,Main Draw,YOSHIDA Masaki (JPN),FREITAS Marcos (POR),FREITAS Marcos
+World Tour German Open Bremen 2018,2018-03-23,MA Long,YOSHIMURA Maharu,4,0,"11,11,11,14|6,7,5,12",R32,GRAND_SLAM,MS,871,Main Draw,MA Long (CHN),YOSHIMURA Maharu (JPN),MA Long
+World Tour German Open Bremen 2018,2018-03-23,KARLSSON Kristian,WALTHER Ricardo,4,2,"5,12,11,9,11,11|11,10,8,11,9,9",R32,GRAND_SLAM,MS,871,Main Draw,KARLSSON Kristian (SWE),WALTHER Ricardo (GER),KARLSSON Kristian
+World Tour German Open Bremen 2018,2018-03-23,MIZUTANI Jun,GROTH Jonathan,4,0,"11,11,11,11|3,7,8,7",R32,GRAND_SLAM,MS,871,Main Draw,GROTH Jonathan (DEN),MIZUTANI Jun (JPN),MIZUTANI Jun
+World Tour German Open Bremen 2018,2018-03-23,FILUS Ruwen,HARIMOTO Tomokazu,4,2,"11,7,14,8,11,11|5,11,12,11,7,5",R32,GRAND_SLAM,MS,871,Main Draw,FILUS Ruwen (GER),HARIMOTO Tomokazu (JPN),FILUS Ruwen
+World Tour German Open Bremen 2018,2018-03-23,CHUANG Chih-Yuan,LIAO Cheng-Ting,4,1,"4,11,11,11,11|11,9,6,7,8",R32,GRAND_SLAM,MS,871,Main Draw,CHUANG Chih-Yuan (TPE),LIAO Cheng-Ting (TPE),CHUANG Chih-Yuan
+World Tour German Open Bremen 2018,2018-03-23,GAUZY Simon,GACINA Andrej,4,3,"11,4,4,11,11,5,11|3,11,11,9,7,11,5",R32,GRAND_SLAM,MS,871,Main Draw,GAUZY Simon (FRA),GACINA Andrej (CRO),GAUZY Simon
+World Tour German Open Bremen 2018,2018-03-23,KARLSSON Mattias,CALDERANO Hugo,4,2,"13,9,11,10,11,12|11,11,8,12,6,10",R32,GRAND_SLAM,MS,871,Main Draw,KARLSSON Mattias (SWE),CALDERANO Hugo (BRA),KARLSSON Mattias
+World Tour German Open Bremen 2018,2018-03-23,XU Xin,DYJAS Jakub,4,2,"11,9,11,11,9,11|5,11,8,6,11,5",R32,GRAND_SLAM,MS,871,Main Draw,DYJAS Jakub (POL),XU Xin (CHN),XU Xin
+World Tour German Open Bremen 2018,2018-03-23,NIWA Koki,UEDA Jin,4,2,"11,11,5,11,8,11|8,6,11,5,11,6",R32,GRAND_SLAM,MS,871,Main Draw,NIWA Koki (JPN),UEDA Jin (JPN),NIWA Koki
+World Tour German Open Bremen 2018,2018-03-23,SEYFRIED Joe,MOREGARD Truls,3,1,"14,6,11,11|12,11,5,7",F,GRAND_SLAM,U21MS,871,Main Draw,MOREGARD Truls (SWE),SEYFRIED Joe (FRA),SEYFRIED Joe
+World Tour German Open Bremen 2018,2018-03-23,SEYFRIED Joe,SIPOS Rares,3,0,"11,11,11|9,2,1",SF,GRAND_SLAM,U21MS,871,Main Draw,SEYFRIED Joe (FRA),SIPOS Rares (ROU),SEYFRIED Joe
+World Tour German Open Bremen 2018,2018-03-23,MOREGARD Truls,AN Jaehyun,3,2,"9,11,5,11,11|11,8,11,8,6",SF,GRAND_SLAM,U21MS,871,Main Draw,AN Jaehyun (KOR),MOREGARD Truls (SWE),MOREGARD Truls
+World Tour German Open Bremen 2018,2018-03-23,SIPOS Rares,MAJOROS Bence,3,2,"13,3,11,8,11|11,11,7,11,3",QF,GRAND_SLAM,U21MS,871,Main Draw,SIPOS Rares (ROU),MAJOROS Bence (HUN),SIPOS Rares
+World Tour German Open Bremen 2018,2018-03-23,AN Jaehyun,JHA Kanak,3,2,"4,8,11,11,11|11,11,6,7,9",QF,GRAND_SLAM,U21MS,871,Main Draw,AN Jaehyun (KOR),JHA Kanak (USA),AN Jaehyun
+World Tour German Open Bremen 2018,2018-03-23,SEYFRIED Joe,LIM Jonghoon,3,2,"11,7,11,7,11|3,11,6,11,9",QF,GRAND_SLAM,U21MS,871,Main Draw,SEYFRIED Joe (FRA),LIM Jonghoon (KOR),SEYFRIED Joe
+World Tour German Open Bremen 2018,2018-03-23,MOREGARD Truls,YU Ziyang,3,1,"13,11,2,12|11,6,11,10",QF,GRAND_SLAM,U21MS,871,Main Draw,MOREGARD Truls (SWE),YU Ziyang (CHN),MOREGARD Truls
+World Tour German Open Bremen 2018,2018-03-23,SEYFRIED Joe,TAKAMI Masaki,3,2,"9,11,9,12,11|11,6,11,10,6",R16,GRAND_SLAM,U21MS,871,Main Draw,SEYFRIED Joe (FRA),TAKAMI Masaki (JPN),SEYFRIED Joe
+World Tour German Open Bremen 2018,2018-03-23,MAJOROS Bence,CHO Daeseong,3,0,"11,11,11|7,7,7",R16,GRAND_SLAM,U21MS,871,Main Draw,MAJOROS Bence (HUN),CHO Daeseong (KOR),MAJOROS Bence
+World Tour German Open Bremen 2018,2018-03-23,AN Jaehyun,OIKAWA Mizuki,3,1,"14,6,11,11|12,11,5,9",R16,GRAND_SLAM,U21MS,871,Main Draw,OIKAWA Mizuki (JPN),AN Jaehyun (KOR),AN Jaehyun
+World Tour German Open Bremen 2018,2018-03-23,JHA Kanak,TSUBOI Yuma,3,2,"11,7,7,13,13|9,11,11,11,11",R16,GRAND_SLAM,U21MS,871,Main Draw,TSUBOI Yuma (JPN),JHA Kanak (USA),JHA Kanak
+World Tour German Open Bremen 2018,2018-03-23,MOREGARD Truls,JORGIC Darko,3,2,"14,7,11,9,11|12,11,9,11,7",R16,GRAND_SLAM,U21MS,871,Main Draw,JORGIC Darko (SLO),MOREGARD Truls (SWE),MOREGARD Truls
+World Tour German Open Bremen 2018,2018-03-23,LIM Jonghoon,KLEIN Dennis,3,0,,R16,GRAND_SLAM,U21MS,871,Main Draw,KLEIN Dennis (GER),LIM Jonghoon (KOR),LIM Jonghoon
+World Tour German Open Bremen 2018,2018-03-23,SIPOS Rares,LEVENKO Andreas,3,1,"11,11,5,11|5,7,11,9",R16,GRAND_SLAM,U21MS,871,Main Draw,LEVENKO Andreas (AUT),SIPOS Rares (ROU),SIPOS Rares
+World Tour German Open Bremen 2018,2018-03-23,YU Ziyang,KIZUKURI Yuto,3,0,"11,12,11|8,10,7",R16,GRAND_SLAM,U21MS,871,Main Draw,YU Ziyang (CHN),KIZUKURI Yuto (JPN),YU Ziyang
+World Tour German Open Bremen 2018,2018-03-23,SIPOS Rares,LIN Xuqi,3,0,"11,14,11|8,12,4",R32,GRAND_SLAM,U21MS,871,Main Draw,LIN Xuqi (AUS),SIPOS Rares (ROU),SIPOS Rares
+World Tour German Open Bremen 2018,2018-03-23,JHA Kanak,PLETEA Cristian,3,1,"1,11,11,11|11,9,7,5",R32,GRAND_SLAM,U21MS,871,Main Draw,JHA Kanak (USA),PLETEA Cristian (ROU),JHA Kanak
+World Tour German Open Bremen 2018,2018-03-23,MAJOROS Bence,AFANADOR Brian,3,1,"7,11,11,12|11,8,7,10",R32,GRAND_SLAM,U21MS,871,Main Draw,MAJOROS Bence (HUN),AFANADOR Brian (PUR),MAJOROS Bence
+World Tour German Open Bremen 2018,2018-03-23,JORGIC Darko,MENDEZ Mariano,3,0,"11,11,11|4,3,2",R32,GRAND_SLAM,U21MS,871,Main Draw,JORGIC Darko (SLO),MENDEZ Mariano (ARG),JORGIC Darko
+World Tour German Open Bremen 2018,2018-03-23,LIM Jonghoon,HOHMEIER Nils,3,1,"11,11,10,11|8,6,12,7",R32,GRAND_SLAM,U21MS,871,Main Draw,HOHMEIER Nils (GER),LIM Jonghoon (KOR),LIM Jonghoon
+World Tour German Open Bremen 2018,2018-03-23,AN Jaehyun,LIND Anders,3,0,"11,14,11|3,12,9",R32,GRAND_SLAM,U21MS,871,Main Draw,AN Jaehyun (KOR),LIND Anders (DEN),AN Jaehyun
+World Tour German Open Bremen 2018,2018-03-23,LEVENKO Andreas,NIKULIN Ivan,3,0,"11,11,11|6,8,9",R32,GRAND_SLAM,U21MS,871,Main Draw,LEVENKO Andreas (AUT),NIKULIN Ivan (RUS),LEVENKO Andreas
+World Tour German Open Bremen 2018,2018-03-23,TSUBOI Yuma,HELMY Mahmoud,3,0,"11,11,11|6,1,6",R32,GRAND_SLAM,U21MS,871,Main Draw,TSUBOI Yuma (JPN),HELMY Mahmoud (EGY),TSUBOI Yuma
+World Tour German Open Bremen 2018,2018-03-23,CHO Daeseong,CHO Seungmin,3,1,"12,7,11,13|10,11,5,11",R32,GRAND_SLAM,U21MS,871,Main Draw,CHO Daeseong (KOR),CHO Seungmin (KOR),CHO Daeseong
+World Tour German Open Bremen 2018,2018-03-23,MOREGARD Truls,CNUDDE Florian,3,0,"11,14,11|7,12,4",R32,GRAND_SLAM,U21MS,871,Main Draw,CNUDDE Florian (BEL),MOREGARD Truls (SWE),MOREGARD Truls
+World Tour German Open Bremen 2018,2018-03-23,TAKAMI Masaki,PASSARA Pattaratorn,3,0,"11,11,11|4,6,4",R32,GRAND_SLAM,U21MS,871,Main Draw,PASSARA Pattaratorn (THA),TAKAMI Masaki (JPN),TAKAMI Masaki
+World Tour German Open Bremen 2018,2018-03-23,YU Ziyang,KOZUL Deni,3,0,"11,11,11|1,9,6",R32,GRAND_SLAM,U21MS,871,Main Draw,KOZUL Deni (SLO),YU Ziyang (CHN),YU Ziyang
+World Tour German Open Bremen 2018,2018-03-23,KIZUKURI Yuto,HAJIEI Arman,3,0,"11,11,11|7,6,9",R32,GRAND_SLAM,U21MS,871,Main Draw,HAJIEI Arman (IRI),KIZUKURI Yuto (JPN),KIZUKURI Yuto
+World Tour German Open Bremen 2018,2018-03-23,KLEIN Dennis,DARCIS Thibaut,3,0,"11,11,11|4,7,5",R32,GRAND_SLAM,U21MS,871,Main Draw,KLEIN Dennis (GER),DARCIS Thibaut (BEL),KLEIN Dennis
+World Tour German Open Bremen 2018,2018-03-23,SEYFRIED Joe,ANGELAKIS Konstantinos,3,2,"3,7,12,11,11|11,11,10,4,4",R32,GRAND_SLAM,U21MS,871,Main Draw,SEYFRIED Joe (FRA),ANGELAKIS Konstantinos (GRE),SEYFRIED Joe
+World Tour German Open Bremen 2018,2018-03-23,OIKAWA Mizuki,HIPPLER Tobias,3,0,"11,11,11|2,4,7",R32,GRAND_SLAM,U21MS,871,Main Draw,OIKAWA Mizuki (JPN),HIPPLER Tobias (GER),OIKAWA Mizuki
+World Tour German Open Bremen 2018,2018-03-23,SHIBATA Saki,HUANG Yingqi,3,1,"11,9,11,11|6,11,9,5",F,GRAND_SLAM,U21WS,871,Main Draw,HUANG Yingqi (CHN),SHIBATA Saki (JPN),SHIBATA Saki
+World Tour German Open Bremen 2018,2018-03-23,HUANG Yingqi,SOO Wai Yam,3,1,"9,12,11,14|11,10,8,12",SF,GRAND_SLAM,U21WS,871,Main Draw,SOO Wai Yam (HKG),HUANG Yingqi (CHN),HUANG Yingqi
+World Tour German Open Bremen 2018,2018-03-23,SHIBATA Saki,NAGASAKI Miyu,3,0,"12,11,11|10,5,5",SF,GRAND_SLAM,U21WS,871,Main Draw,NAGASAKI Miyu (JPN),SHIBATA Saki (JPN),SHIBATA Saki
+World Tour German Open Bremen 2018,2018-03-23,SOO Wai Yam,CHOI Hyojoo,3,2,"10,11,11,10,12|12,7,8,12,10",QF,GRAND_SLAM,U21WS,871,Main Draw,SOO Wai Yam (HKG),CHOI Hyojoo (KOR),SOO Wai Yam
+World Tour German Open Bremen 2018,2018-03-23,SHIBATA Saki,SATO Hitomi,3,0,"11,11,11|7,6,5",QF,GRAND_SLAM,U21WS,871,Main Draw,SATO Hitomi (JPN),SHIBATA Saki (JPN),SHIBATA Saki
+World Tour German Open Bremen 2018,2018-03-23,HUANG Yingqi,FAN Siqi,3,2,"11,6,7,11,11|7,11,11,4,5",QF,GRAND_SLAM,U21WS,871,Main Draw,HUANG Yingqi (CHN),FAN Siqi (CHN),HUANG Yingqi
+World Tour German Open Bremen 2018,2018-03-23,NAGASAKI Miyu,ODO Satsuki,3,0,"11,11,11|6,4,7",QF,GRAND_SLAM,U21WS,871,Main Draw,ODO Satsuki (JPN),NAGASAKI Miyu (JPN),NAGASAKI Miyu
+World Tour German Open Bremen 2018,2018-03-23,FAN Siqi,KIHARA Miyuu,3,0,"11,11,11|8,7,8",R16,GRAND_SLAM,U21WS,871,Main Draw,FAN Siqi (CHN),KIHARA Miyuu (JPN),FAN Siqi
+World Tour German Open Bremen 2018,2018-03-23,SOO Wai Yam,KIM Jiho,3,2,"12,11,10,14,12|10,6,12,16,10",R16,GRAND_SLAM,U21WS,871,Main Draw,SOO Wai Yam (HKG),KIM Jiho (KOR),SOO Wai Yam
+World Tour German Open Bremen 2018,2018-03-23,SATO Hitomi,KHETKHUAN Tamolwan,3,0,"11,11,11|7,5,9",R16,GRAND_SLAM,U21WS,871,Main Draw,SATO Hitomi (JPN),KHETKHUAN Tamolwan (THA),SATO Hitomi
+World Tour German Open Bremen 2018,2018-03-23,NAGASAKI Miyu,HASHIMOTO Honoka,3,2,"6,11,21,6,11|11,5,19,11,7",R16,GRAND_SLAM,U21WS,871,Main Draw,NAGASAKI Miyu (JPN),HASHIMOTO Honoka (JPN),NAGASAKI Miyu
+World Tour German Open Bremen 2018,2018-03-23,HUANG Yingqi,WAN Yuan,3,1,"7,11,11,11|11,1,6,3",R16,GRAND_SLAM,U21WS,871,Main Draw,WAN Yuan (GER),HUANG Yingqi (CHN),HUANG Yingqi
+World Tour German Open Bremen 2018,2018-03-23,CHOI Hyojoo,ZARIF Audrey,3,0,"11,11,11|8,4,1",R16,GRAND_SLAM,U21WS,871,Main Draw,CHOI Hyojoo (KOR),ZARIF Audrey (FRA),CHOI Hyojoo
+World Tour German Open Bremen 2018,2018-03-23,SHIBATA Saki,SHIN Yubin,3,0,"12,15,11|10,13,8",R16,GRAND_SLAM,U21WS,871,Main Draw,SHIN Yubin (KOR),SHIBATA Saki (JPN),SHIBATA Saki
+World Tour German Open Bremen 2018,2018-03-23,ODO Satsuki,DIAZ Adriana,3,0,"13,14,12|11,12,10",R16,GRAND_SLAM,U21WS,871,Main Draw,DIAZ Adriana (PUR),ODO Satsuki (JPN),ODO Satsuki
+World Tour German Open Bremen 2018,2018-03-23,NAGASAKI Miyu,BERGAND Filippa,3,0,"11,11,11|8,2,8",R32,GRAND_SLAM,U21WS,871,Main Draw,NAGASAKI Miyu (JPN),BERGAND Filippa (SWE),NAGASAKI Miyu
+World Tour German Open Bremen 2018,2018-03-23,CHOI Hyojoo,SUN Jiayi,3,1,"11,11,11,11|13,3,7,4",R32,GRAND_SLAM,U21WS,871,Main Draw,CHOI Hyojoo (KOR),SUN Jiayi (CRO),CHOI Hyojoo
+World Tour German Open Bremen 2018,2018-03-23,SATO Hitomi,DIACONU Adina,3,1,"5,11,11,11|11,9,9,2",R32,GRAND_SLAM,U21WS,871,Main Draw,DIACONU Adina (ROU),SATO Hitomi (JPN),SATO Hitomi
+World Tour German Open Bremen 2018,2018-03-23,ODO Satsuki,MISCHEK-COLUCCI Karoline,3,0,"11,11,11|8,7,4",R32,GRAND_SLAM,U21WS,871,Main Draw,MISCHEK-COLUCCI Karoline (AUT),ODO Satsuki (JPN),ODO Satsuki
+World Tour German Open Bremen 2018,2018-03-23,SHIN Yubin,PARANANG Orawan,3,0,"11,11,11|3,9,8",R32,GRAND_SLAM,U21WS,871,Main Draw,SHIN Yubin (KOR),PARANANG Orawan (THA),SHIN Yubin
+World Tour German Open Bremen 2018,2018-03-23,KIM Jiho,KALLBERG Christina,3,0,"11,11,11|6,1,5",R32,GRAND_SLAM,U21WS,871,Main Draw,KALLBERG Christina (SWE),KIM Jiho (KOR),KIM Jiho
+World Tour German Open Bremen 2018,2018-03-23,HASHIMOTO Honoka,LUNG Lisa,3,0,"11,11,11|5,5,5",R32,GRAND_SLAM,U21WS,871,Main Draw,HASHIMOTO Honoka (JPN),LUNG Lisa (BEL),HASHIMOTO Honoka
+World Tour German Open Bremen 2018,2018-03-23,FAN Siqi,MIGOT Marie,3,0,"11,11,11|8,2,6",R32,GRAND_SLAM,U21WS,871,Main Draw,MIGOT Marie (FRA),FAN Siqi (CHN),FAN Siqi
+World Tour German Open Bremen 2018,2018-03-23,ZARIF Audrey,CHASSELIN Pauline,3,1,"11,11,3,11|9,8,11,8",R32,GRAND_SLAM,U21WS,871,Main Draw,CHASSELIN Pauline (FRA),ZARIF Audrey (FRA),ZARIF Audrey
+World Tour German Open Bremen 2018,2018-03-23,KHETKHUAN Tamolwan,MALANINA Maria,3,0,"15,11,11|13,9,8",R32,GRAND_SLAM,U21WS,871,Main Draw,MALANINA Maria (RUS),KHETKHUAN Tamolwan (THA),KHETKHUAN Tamolwan
+World Tour German Open Bremen 2018,2018-03-23,HUANG Yingqi,GUISNEL Oceane,3,0,"11,11,11|7,3,8",R32,GRAND_SLAM,U21WS,871,Main Draw,HUANG Yingqi (CHN),GUISNEL Oceane (FRA),HUANG Yingqi
+World Tour German Open Bremen 2018,2018-03-23,HAYATA Hina/ITO Mima,JEON Jihee/YANG Ha Eun,3,1,"11,11,10,11|3,5,12,6",F,GRAND_SLAM,WD,871,Main Draw,HAYATA Hina (JPN) / ITO Mima (JPN),JEON Jihee (KOR) / YANG Ha Eun (KOR),HAYATA Hina
+World Tour German Open Bremen 2018,2018-03-23,JEON Jihee/YANG Ha Eun,DOO Hoi Kem/LEE Ho Ching,3,2,"11,11,5,8,11|4,7,11,11,6",SF,GRAND_SLAM,WD,871,Main Draw,JEON Jihee (KOR) / YANG Ha Eun (KOR),DOO Hoi Kem (HKG) / LEE Ho Ching (HKG),JEON Jihee
+World Tour German Open Bremen 2018,2018-03-23,HAYATA Hina/ITO Mima,NG Wing Nam/SOO Wai Yam,3,1,"10,11,11,11|12,4,5,6",SF,GRAND_SLAM,WD,871,Main Draw,HAYATA Hina (JPN) / ITO Mima (JPN),NG Wing Nam (HKG) / SOO Wai Yam (HKG),HAYATA Hina
+World Tour German Open Bremen 2018,2018-03-23,JEON Jihee/YANG Ha Eun,DODEAN Daniela/SAMARA Elizabeta,3,1,"11,11,9,11|6,7,11,8",QF,GRAND_SLAM,WD,871,Main Draw,JEON Jihee (KOR) / YANG Ha Eun (KOR),DODEAN Daniela (ROU) / SAMARA Elizabeta (ROU),JEON Jihee
+World Tour German Open Bremen 2018,2018-03-23,DOO Hoi Kem/LEE Ho Ching,CHENG Hsien-Tzu/LIU Hsing-Yin,3,1,"11,13,11,11|9,11,13,9",QF,GRAND_SLAM,WD,871,Main Draw,DOO Hoi Kem (HKG) / LEE Ho Ching (HKG),CHENG Hsien-Tzu (TPE) / LIU Hsing-Yin (TPE),DOO Hoi Kem
+World Tour German Open Bremen 2018,2018-03-23,HAYATA Hina/ITO Mima,PARANANG Orawan/SAWETTABUT Suthasini,3,0,"11,11,11|7,8,9",QF,GRAND_SLAM,WD,871,Main Draw,HAYATA Hina (JPN) / ITO Mima (JPN),PARANANG Orawan (THA) / SAWETTABUT Suthasini (THA),HAYATA Hina
+World Tour German Open Bremen 2018,2018-03-23,NG Wing Nam/SOO Wai Yam,DIACONU Adina/SZOCS Bernadette,3,1,"6,11,11,11|11,7,9,4",QF,GRAND_SLAM,WD,871,Main Draw,NG Wing Nam (HKG) / SOO Wai Yam (HKG),DIACONU Adina (ROU) / SZOCS Bernadette (ROU),NG Wing Nam
+World Tour German Open Bremen 2018,2018-03-23,JEON Jihee/YANG Ha Eun,KHETKHUAN Tamolwan/KOMWONG Nanthana,3,1,"12,11,7,11|10,8,11,5",R16,GRAND_SLAM,WD,871,Main Draw,JEON Jihee (KOR) / YANG Ha Eun (KOR),KHETKHUAN Tamolwan (THA) / KOMWONG Nanthana (THA),JEON Jihee
+World Tour German Open Bremen 2018,2018-03-23,DOO Hoi Kem/LEE Ho Ching,HAN Ying/MITTELHAM Nina,3,0,"11,11,11|7,5,8",R16,GRAND_SLAM,WD,871,Main Draw,DOO Hoi Kem (HKG) / LEE Ho Ching (HKG),HAN Ying (GER) / MITTELHAM Nina (GER),DOO Hoi Kem
+World Tour German Open Bremen 2018,2018-03-23,DIACONU Adina/SZOCS Bernadette,EKHOLM Matilda/POTA Georgina,3,1,"11,9,11,11|8,11,5,5",R16,GRAND_SLAM,WD,871,Main Draw,DIACONU Adina (ROU) / SZOCS Bernadette (ROU),EKHOLM Matilda (SWE) / POTA Georgina (HUN),DIACONU Adina
+World Tour German Open Bremen 2018,2018-03-23,NG Wing Nam/SOO Wai Yam,GRZYBOWSKA-FRANC Katarzyna/PARTYKA Natalia,3,0,"11,11,11|7,7,9",R16,GRAND_SLAM,WD,871,Main Draw,NG Wing Nam (HKG) / SOO Wai Yam (HKG),GRZYBOWSKA-FRANC Katarzyna (POL) / PARTYKA Natalia (POL),NG Wing Nam
+World Tour German Open Bremen 2018,2018-03-23,PARANANG Orawan/SAWETTABUT Suthasini,BATRA Manika/DAS Mouma,3,2,"11,11,8,10,11|9,8,11,12,9",R16,GRAND_SLAM,WD,871,Main Draw,PARANANG Orawan (THA) / SAWETTABUT Suthasini (THA),BATRA Manika (IND) / DAS Mouma (IND),PARANANG Orawan
+World Tour German Open Bremen 2018,2018-03-23,HAYATA Hina/ITO Mima,XIAO Maria/ZHANG Mo,3,0,"11,13,12|8,11,10",R16,GRAND_SLAM,WD,871,Main Draw,HAYATA Hina (JPN) / ITO Mima (JPN),XIAO Maria (ESP) / ZHANG Mo (CAN),HAYATA Hina
+World Tour German Open Bremen 2018,2018-03-23,CHENG Hsien-Tzu/LIU Hsing-Yin,SOLJA Petrissa/WINTER Sabine,3,0,"11,11,11|5,7,5",R16,GRAND_SLAM,WD,871,Main Draw,CHENG Hsien-Tzu (TPE) / LIU Hsing-Yin (TPE),SOLJA Petrissa (GER) / WINTER Sabine (GER),CHENG Hsien-Tzu
+World Tour German Open Bremen 2018,2018-03-23,DODEAN Daniela/SAMARA Elizabeta,VARADY Barbora/MATELOVA Hana,3,2,"11,10,11,9,11|9,12,3,11,5",R16,GRAND_SLAM,WD,871,Main Draw,DODEAN Daniela (ROU) / SAMARA Elizabeta (ROU),VARADY Barbora (SVK) / MATELOVA Hana (CZE),DODEAN Daniela
+World Tour German Open Bremen 2018,2018-03-23,ISHIKAWA Kasumi,SUH Hyo Won,4,1,"11,10,11,11,11|9,12,6,7,6",F,GRAND_SLAM,WS,871,Main Draw,SUH Hyo Won (KOR),ISHIKAWA Kasumi (JPN),ISHIKAWA Kasumi
+World Tour German Open Bremen 2018,2018-03-23,SUH Hyo Won,FENG Tianwei,4,2,"3,11,11,11,8,11|11,4,6,8,11,5",SF,GRAND_SLAM,WS,871,Main Draw,FENG Tianwei (SGP),SUH Hyo Won (KOR),SUH Hyo Won
+World Tour German Open Bremen 2018,2018-03-23,ISHIKAWA Kasumi,CHENG I-Ching,4,3,"11,9,11,10,9,11,11|5,11,6,12,11,8,6",SF,GRAND_SLAM,WS,871,Main Draw,CHENG I-Ching (TPE),ISHIKAWA Kasumi (JPN),ISHIKAWA Kasumi
+World Tour German Open Bremen 2018,2018-03-23,FENG Tianwei,JEON Jihee,4,0,"12,11,11,11|10,9,3,4",QF,GRAND_SLAM,WS,871,Main Draw,FENG Tianwei (SGP),JEON Jihee (KOR),FENG Tianwei
+World Tour German Open Bremen 2018,2018-03-23,ISHIKAWA Kasumi,WU Yang,4,2,"14,7,11,11,5,11|12,11,4,8,11,7",QF,GRAND_SLAM,WS,871,Main Draw,WU Yang (CHN),ISHIKAWA Kasumi (JPN),ISHIKAWA Kasumi
+World Tour German Open Bremen 2018,2018-03-23,SUH Hyo Won,YANG Ha Eun,4,3,"11,12,3,12,4,4,11|6,10,11,10,11,11,7",QF,GRAND_SLAM,WS,871,Main Draw,YANG Ha Eun (KOR),SUH Hyo Won (KOR),SUH Hyo Won
+World Tour German Open Bremen 2018,2018-03-23,CHENG I-Ching,SUN Yingsha,4,2,"3,12,11,8,11,11|11,10,8,11,9,8",QF,GRAND_SLAM,WS,871,Main Draw,SUN Yingsha (CHN),CHENG I-Ching (TPE),CHENG I-Ching
+World Tour German Open Bremen 2018,2018-03-23,SUH Hyo Won,HIRANO Miu,4,2,"11,11,11,7,4,11|8,9,6,11,11,7",R16,GRAND_SLAM,WS,871,Main Draw,SUH Hyo Won (KOR),HIRANO Miu (JPN),SUH Hyo Won
+World Tour German Open Bremen 2018,2018-03-23,FENG Tianwei,HUANG Yingqi,4,3,"8,11,4,9,11,11,11|11,3,11,11,5,9,6",R16,GRAND_SLAM,WS,871,Main Draw,FENG Tianwei (SGP),HUANG Yingqi (CHN),FENG Tianwei
+World Tour German Open Bremen 2018,2018-03-23,WU Yang,FAN Siqi,4,0,"11,11,11,11|4,7,7,2",R16,GRAND_SLAM,WS,871,Main Draw,FAN Siqi (CHN),WU Yang (CHN),WU Yang
+World Tour German Open Bremen 2018,2018-03-23,CHENG I-Ching,WEN Jia,4,0,"11,14,11,11|8,12,7,8",R16,GRAND_SLAM,WS,871,Main Draw,WEN Jia (CHN),CHENG I-Ching (TPE),CHENG I-Ching
+World Tour German Open Bremen 2018,2018-03-23,YANG Ha Eun,HAN Ying,4,0,"11,12,11,14|3,10,9,12",R16,GRAND_SLAM,WS,871,Main Draw,YANG Ha Eun (KOR),HAN Ying (GER),YANG Ha Eun
+World Tour German Open Bremen 2018,2018-03-23,JEON Jihee,POLCANOVA Sofia,4,3,"10,12,11,11,11,9,11|12,14,8,5,8,11,9",R16,GRAND_SLAM,WS,871,Main Draw,JEON Jihee (KOR),POLCANOVA Sofia (AUT),JEON Jihee
+World Tour German Open Bremen 2018,2018-03-23,ISHIKAWA Kasumi,CHEN Xingtong,4,0,"11,11,20,11|9,8,18,6",R16,GRAND_SLAM,WS,871,Main Draw,CHEN Xingtong (CHN),ISHIKAWA Kasumi (JPN),ISHIKAWA Kasumi
+World Tour German Open Bremen 2018,2018-03-23,SUN Yingsha,ITO Mima,4,3,"7,11,14,11,6,10,11|11,9,12,6,11,12,6",R16,GRAND_SLAM,WS,871,Main Draw,ITO Mima (JPN),SUN Yingsha (CHN),SUN Yingsha
+World Tour German Open Bremen 2018,2018-03-23,ISHIKAWA Kasumi,SATO Hitomi,4,0,"11,11,11,11|5,6,6,7",R32,GRAND_SLAM,WS,871,Main Draw,SATO Hitomi (JPN),ISHIKAWA Kasumi (JPN),ISHIKAWA Kasumi
+World Tour German Open Bremen 2018,2018-03-23,FAN Siqi,DOO Hoi Kem,4,1,"11,8,11,11,11|7,11,6,8,9",R32,GRAND_SLAM,WS,871,Main Draw,DOO Hoi Kem (HKG),FAN Siqi (CHN),FAN Siqi
+World Tour German Open Bremen 2018,2018-03-23,HAN Ying,ZHANG Mo,4,0,"11,11,16,11|6,7,14,9",R32,GRAND_SLAM,WS,871,Main Draw,ZHANG Mo (CAN),HAN Ying (GER),HAN Ying
+World Tour German Open Bremen 2018,2018-03-23,JEON Jihee,WINTER Sabine,4,2,"5,11,11,11,11,11|11,9,6,13,9,5",R32,GRAND_SLAM,WS,871,Main Draw,WINTER Sabine (GER),JEON Jihee (KOR),JEON Jihee
+World Tour German Open Bremen 2018,2018-03-23,HIRANO Miu,HASHIMOTO Honoka,4,1,"11,11,11,9,16|6,9,9,11,14",R32,GRAND_SLAM,WS,871,Main Draw,HASHIMOTO Honoka (JPN),HIRANO Miu (JPN),HIRANO Miu
+World Tour German Open Bremen 2018,2018-03-23,CHENG I-Ching,SHIBATA Saki,4,1,"11,3,13,11,11|3,11,11,7,9",R32,GRAND_SLAM,WS,871,Main Draw,SHIBATA Saki (JPN),CHENG I-Ching (TPE),CHENG I-Ching
+World Tour German Open Bremen 2018,2018-03-23,HUANG Yingqi,KATO Miyu,4,3,"11,13,3,11,9,8,11|8,11,11,7,11,11,8",R32,GRAND_SLAM,WS,871,Main Draw,HUANG Yingqi (CHN),KATO Miyu (JPN),HUANG Yingqi
+World Tour German Open Bremen 2018,2018-03-23,WEN Jia,HAYATA Hina,4,0,"11,11,11,11|9,4,9,6",R32,GRAND_SLAM,WS,871,Main Draw,HAYATA Hina (JPN),WEN Jia (CHN),WEN Jia
+World Tour German Open Bremen 2018,2018-03-23,FENG Tianwei,ODO Satsuki,4,2,"11,11,8,11,10,11|9,9,11,7,12,4",R32,GRAND_SLAM,WS,871,Main Draw,FENG Tianwei (SGP),ODO Satsuki (JPN),FENG Tianwei
+World Tour German Open Bremen 2018,2018-03-23,SUN Yingsha,LEE Ho Ching,4,0,"11,11,11,11|8,7,8,7",R32,GRAND_SLAM,WS,871,Main Draw,SUN Yingsha (CHN),LEE Ho Ching (HKG),SUN Yingsha
+World Tour German Open Bremen 2018,2018-03-23,CHEN Xingtong,MU Zi,4,0,"11,11,11,11|5,6,8,8",R32,GRAND_SLAM,WS,871,Main Draw,CHEN Xingtong (CHN),MU Zi (CHN),CHEN Xingtong
+World Tour German Open Bremen 2018,2018-03-23,YANG Ha Eun,CHEN Szu-Yu,4,3,"16,11,7,8,12,9,11|14,9,11,11,10,11,6",R32,GRAND_SLAM,WS,871,Main Draw,CHEN Szu-Yu (TPE),YANG Ha Eun (KOR),YANG Ha Eun
+World Tour German Open Bremen 2018,2018-03-23,WU Yang,MORI Sakura,4,2,"11,11,13,11,9,12|9,8,15,5,11,10",R32,GRAND_SLAM,WS,871,Main Draw,WU Yang (CHN),MORI Sakura (JPN),WU Yang
+World Tour German Open Bremen 2018,2018-03-23,SUH Hyo Won,CHENG Hsien-Tzu,4,3,"8,14,6,11,11,10,11|11,12,11,9,6,12,7",R32,GRAND_SLAM,WS,871,Main Draw,SUH Hyo Won (KOR),CHENG Hsien-Tzu (TPE),SUH Hyo Won
+World Tour German Open Bremen 2018,2018-03-23,POLCANOVA Sofia,LI Jie,4,0,"12,11,17,11|10,2,15,3",R32,GRAND_SLAM,WS,871,Main Draw,POLCANOVA Sofia (AUT),LI Jie (NED),POLCANOVA Sofia
+World Tour German Open Bremen 2018,2018-03-23,ITO Mima,EERLAND Britt,4,1,"11,11,9,12,11|8,7,11,10,8",R32,GRAND_SLAM,WS,871,Main Draw,ITO Mima (JPN),EERLAND Britt (NED),ITO Mima

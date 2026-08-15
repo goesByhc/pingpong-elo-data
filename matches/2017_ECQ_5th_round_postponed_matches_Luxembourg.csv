@@ -1,6 +1,6 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-ECQ 5th round postponed matches Luxembourg 2017,2017-02-07,GERALDO Joao,KOU Lei,3,1,"11,7,11,12|6,11,9,10",GROUP,OTHER,MT,1981,Main Draw,KOU Lei (UKR),GERALDO Joao (POR)
-ECQ 5th round postponed matches Luxembourg 2017,2017-02-07,ZHMUDENKO Yaroslav,FREITAS Marcos,3,2,"9,11,12,6,11|11,9,10,11,8",GROUP,OTHER,MT,1981,Main Draw,ZHMUDENKO Yaroslav (UKR),FREITAS Marcos (POR)
-ECQ 5th round postponed matches Luxembourg 2017,2017-02-07,CARVALHO Diogo,PRYSHCHEPA Ievgen,3,0,"11,11,11|8,9,7",GROUP,OTHER,MT,1981,Main Draw,PRYSHCHEPA Ievgen (UKR),CARVALHO Diogo (POR)
-ECQ 5th round postponed matches Luxembourg 2017,2017-02-07,KOU Lei,FREITAS Marcos,3,0,"11,11,11|4,7,8",GROUP,OTHER,MT,1981,Main Draw,KOU Lei (UKR),FREITAS Marcos (POR)
-ECQ 5th round postponed matches Luxembourg 2017,2017-02-07,GERALDO Joao,ZHMUDENKO Yaroslav,3,2,"8,11,9,11,14|11,7,11,5,12",GROUP,OTHER,MT,1981,Main Draw,ZHMUDENKO Yaroslav (UKR),GERALDO Joao (POR)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+ECQ 5th round postponed matches Luxembourg 2017,2017-02-07,GERALDO Joao,KOU Lei,3,1,"11,7,11,12|6,11,9,10",GROUP,OTHER,MT,1981,Main Draw,KOU Lei (UKR),GERALDO Joao (POR),GERALDO Joao
+ECQ 5th round postponed matches Luxembourg 2017,2017-02-07,ZHMUDENKO Yaroslav,FREITAS Marcos,3,2,"9,11,12,6,11|11,9,10,11,8",GROUP,OTHER,MT,1981,Main Draw,ZHMUDENKO Yaroslav (UKR),FREITAS Marcos (POR),ZHMUDENKO Yaroslav
+ECQ 5th round postponed matches Luxembourg 2017,2017-02-07,CARVALHO Diogo,PRYSHCHEPA Ievgen,3,0,"11,11,11|8,9,7",GROUP,OTHER,MT,1981,Main Draw,PRYSHCHEPA Ievgen (UKR),CARVALHO Diogo (POR),CARVALHO Diogo
+ECQ 5th round postponed matches Luxembourg 2017,2017-02-07,KOU Lei,FREITAS Marcos,3,0,"11,11,11|4,7,8",GROUP,OTHER,MT,1981,Main Draw,KOU Lei (UKR),FREITAS Marcos (POR),KOU Lei
+ECQ 5th round postponed matches Luxembourg 2017,2017-02-07,GERALDO Joao,ZHMUDENKO Yaroslav,3,2,"8,11,9,11,14|11,7,11,5,12",GROUP,OTHER,MT,1981,Main Draw,ZHMUDENKO Yaroslav (UKR),GERALDO Joao (POR),GERALDO Joao

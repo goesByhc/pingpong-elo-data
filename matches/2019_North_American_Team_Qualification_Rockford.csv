@@ -1,7 +1,7 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-North American Team Qualification Rockford 2019,2019-10-05,LIU Juan,GAUTHIER Sophie,3,0,"11,11,11|5,5,5",F,OTHER,WT,2198,Main Draw,LIU Juan (USA),GAUTHIER Sophie (CAN)
-North American Team Qualification Rockford 2019,2019-10-05,ZHANG Lily,ZHOU Benita,3,0,"11,11,11|2,6,2",F,OTHER,WT,2198,Main Draw,ZHANG Lily (USA),ZHOU Benita (CAN)
-North American Team Qualification Rockford 2019,2019-10-05,WU Yue,XIONG Isabelle,3,0,"11,11,11|1,5,4",F,OTHER,WT,2198,Main Draw,WU Yue (USA),XIONG Isabelle (CAN)
-North American Team Qualification Rockford 2019,2019-10-05,KUMAR Nikhil,WANG Eugene,3,1,"11,11,11,11|7,13,8,5",F,OTHER,MT,2198,Main Draw,KUMAR Nikhil (USA),WANG Eugene (CAN)
-North American Team Qualification Rockford 2019,2019-10-05,JHA Kanak,HAZIN Jeremy,3,2,"11,8,9,11,11|5,11,11,6,6",F,OTHER,MT,2198,Main Draw,JHA Kanak (USA),HAZIN Jeremy (CAN)
-North American Team Qualification Rockford 2019,2019-10-05,ZHOU Xin,CHEN Hongtao,3,1,"9,11,11,11|11,9,7,4",F,OTHER,MT,2198,Main Draw,ZHOU Xin (USA),CHEN Hongtao (CAN)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+North American Team Qualification Rockford 2019,2019-10-05,LIU Juan,GAUTHIER Sophie,3,0,"11,11,11|5,5,5",F,OTHER,WT,2198,Main Draw,LIU Juan (USA),GAUTHIER Sophie (CAN),LIU Juan
+North American Team Qualification Rockford 2019,2019-10-05,ZHANG Lily,ZHOU Benita,3,0,"11,11,11|2,6,2",F,OTHER,WT,2198,Main Draw,ZHANG Lily (USA),ZHOU Benita (CAN),ZHANG Lily
+North American Team Qualification Rockford 2019,2019-10-05,WU Yue,XIONG Isabelle,3,0,"11,11,11|1,5,4",F,OTHER,WT,2198,Main Draw,WU Yue (USA),XIONG Isabelle (CAN),WU Yue
+North American Team Qualification Rockford 2019,2019-10-05,KUMAR Nikhil,WANG Eugene,3,1,"11,11,11,11|7,13,8,5",F,OTHER,MT,2198,Main Draw,KUMAR Nikhil (USA),WANG Eugene (CAN),KUMAR Nikhil
+North American Team Qualification Rockford 2019,2019-10-05,JHA Kanak,HAZIN Jeremy,3,2,"11,8,9,11,11|5,11,11,6,6",F,OTHER,MT,2198,Main Draw,JHA Kanak (USA),HAZIN Jeremy (CAN),JHA Kanak
+North American Team Qualification Rockford 2019,2019-10-05,ZHOU Xin,CHEN Hongtao,3,1,"9,11,11,11|11,9,7,4",F,OTHER,MT,2198,Main Draw,ZHOU Xin (USA),CHEN Hongtao (CAN),ZHOU Xin

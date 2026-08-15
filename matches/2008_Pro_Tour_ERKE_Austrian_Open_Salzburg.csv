@@ -1,283 +1,283 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BURGIS Matiss,SEREDA Peter,4,1,"11,11,7,11,11|6,8,11,8,5",,GRAND_SLAM,MS,775,Qualification,BURGIS Matiss (LAT),SEREDA Peter (SVK)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,FENG Xiaoquan,SEREDA Peter,4,2,"3,7,13,13,12,11|11,11,11,11,10,8",QR2,GRAND_SLAM,MS,775,Qualification,FENG Xiaoquan (AUT),SEREDA Peter (SVK)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BURGIS Matiss,FENG Xiaoquan,4,1,"12,8,11,11,11|10,11,7,3,9",3,GRAND_SLAM,MS,775,Qualification,BURGIS Matiss (LAT),FENG Xiaoquan (AUT)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,GACINA Andrej,SEL Zolt,4,2,"11,11,9,11,7,11|9,9,11,9,11,9",,GRAND_SLAM,MS,775,Qualification,GACINA Andrej (CRO),SEL Zolt (SRB)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,GACINA Andrej,LAKEEV Vasily,4,0,"11,11,11,11|8,3,6,6",QR2,GRAND_SLAM,MS,775,Qualification,GACINA Andrej (CRO),LAKEEV Vasily (RUS)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LAKEEV Vasily,SEL Zolt,4,0,"11,11,11,11|8,6,5,6",3,GRAND_SLAM,MS,775,Qualification,LAKEEV Vasily (RUS),SEL Zolt (SRB)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,ZUBCIC Tomislav,LIVENTSOV Alexey,4,1,"11,11,4,11,13|9,8,11,7,11",,GRAND_SLAM,MS,775,Qualification,ZUBCIC Tomislav (CRO),LIVENTSOV Alexey (RUS)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LIVENTSOV Alexey,FEGERL Stefan,4,1,"6,11,11,11,11|11,7,4,3,2",QR2,GRAND_SLAM,MS,775,Qualification,LIVENTSOV Alexey (RUS),FEGERL Stefan (AUT)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,FEGERL Stefan,ZUBCIC Tomislav,4,2,"6,11,11,7,11,11|11,9,3,11,8,9",3,GRAND_SLAM,MS,775,Qualification,FEGERL Stefan (AUT),ZUBCIC Tomislav (CRO)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,RUMGAY Gavin,PISTEJ Lubomir,4,1,"11,11,7,11,11|5,6,11,9,8",,GRAND_SLAM,MS,775,Qualification,RUMGAY Gavin (SCO),PISTEJ Lubomir (SVK)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PISTEJ Lubomir,CHMIEL Pawel,4,3,"11,11,6,10,11,8,14|3,6,11,12,9,11,12",QR2,GRAND_SLAM,MS,775,Qualification,PISTEJ Lubomir (SVK),CHMIEL Pawel (POL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CHMIEL Pawel,RUMGAY Gavin,4,3,"11,8,11,11,8,9,11|6,11,4,8,11,11,9",3,GRAND_SLAM,MS,775,Qualification,CHMIEL Pawel (POL),RUMGAY Gavin (SCO)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BAUM Patrick,SZYMANSKI Filip,4,1,"11,11,13,9,11|6,8,11,11,5",,GRAND_SLAM,MS,775,Qualification,BAUM Patrick (GER),SZYMANSKI Filip (POL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BAUM Patrick,BAGGALEY Andrew,4,0,,QR2,GRAND_SLAM,MS,775,Qualification,BAUM Patrick (GER),BAGGALEY Andrew (ENG)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SZYMANSKI Filip,BAGGALEY Andrew,4,0,,3,GRAND_SLAM,MS,775,Qualification,SZYMANSKI Filip (POL),BAGGALEY Andrew (ENG)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,ZWICKL Daniel,FILUS Ruwen,4,3,"12,11,7,11,3,7,11|10,7,11,5,11,11,9",,GRAND_SLAM,MS,775,Qualification,ZWICKL Daniel (HUN),FILUS Ruwen (GER)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SIMONCIK Josef,ZWICKL Daniel,4,3,"11,11,5,7,11,9,11|6,5,11,11,6,11,9",QR2,GRAND_SLAM,MS,775,Qualification,SIMONCIK Josef (CZE),ZWICKL Daniel (HUN)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,FILUS Ruwen,SIMONCIK Josef,4,0,"11,11,11,11|8,5,4,7",3,GRAND_SLAM,MS,775,Qualification,FILUS Ruwen (GER),SIMONCIK Josef (CZE)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,MUSKO Peter,SKACHKOV Kirill,4,0,,,GRAND_SLAM,MS,775,Qualification,MUSKO Peter (HUN),SKACHKOV Kirill (RUS)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BOBILLIER Loic,SKACHKOV Kirill,4,0,,QR2,GRAND_SLAM,MS,775,Qualification,BOBILLIER Loic (FRA),SKACHKOV Kirill (RUS)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BOBILLIER Loic,MUSKO Peter,4,1,"7,11,12,11,11|11,9,10,6,9",3,GRAND_SLAM,MS,775,Qualification,BOBILLIER Loic (FRA),MUSKO Peter (HUN)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CARNEROS Alfredo,KOLAREK Tomislav,4,1,"9,11,11,11,12|11,1,9,7,10",,GRAND_SLAM,MS,775,Qualification,CARNEROS Alfredo (ESP),KOLAREK Tomislav (CRO)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,MATTENET Adrien,CARNEROS Alfredo,4,0,"11,11,11,11|9,4,4,7",QR2,GRAND_SLAM,MS,775,Qualification,MATTENET Adrien (FRA),CARNEROS Alfredo (ESP)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,MATTENET Adrien,KOLAREK Tomislav,4,3,"11,11,8,7,10,11,11|9,2,11,11,12,6,7",3,GRAND_SLAM,MS,775,Qualification,MATTENET Adrien (FRA),KOLAREK Tomislav (CRO)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,FAZEKAS Peter,YORDANOV Teodor,4,0,,,GRAND_SLAM,MS,775,Qualification,FAZEKAS Peter (HUN),YORDANOV Teodor (BUL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,FAZEKAS Peter,GAVLAS Antonin,4,3,"7,12,9,11,11,8,11|11,10,11,7,9,11,8",QR2,GRAND_SLAM,MS,775,Qualification,FAZEKAS Peter (HUN),GAVLAS Antonin (CZE)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,GAVLAS Antonin,YORDANOV Teodor,4,0,,3,GRAND_SLAM,MS,775,Qualification,GAVLAS Antonin (CZE),YORDANOV Teodor (BUL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LEBESSON Emmanuel,KNIGHT Darius,4,0,"11,11,11,11|6,5,3,9",,GRAND_SLAM,MS,775,Qualification,LEBESSON Emmanuel (FRA),KNIGHT Darius (ENG)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LEBESSON Emmanuel,DURAN Marc,4,2,"12,8,11,9,11,11|10,11,7,11,5,7",QR2,GRAND_SLAM,MS,775,Qualification,LEBESSON Emmanuel (FRA),DURAN Marc (ESP)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,DURAN Marc,KNIGHT Darius,4,2,"12,11,8,8,11,12|10,8,11,11,6,10",3,GRAND_SLAM,MS,775,Qualification,DURAN Marc (ESP),KNIGHT Darius (ENG)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,MACHADO Carlos,ROGIERS Benjamin,4,1,"11,11,6,12,11|4,7,11,10,3",,GRAND_SLAM,MS,775,Qualification,MACHADO Carlos (ESP),ROGIERS Benjamin (BEL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,MACHADO Carlos,MATSUMOTO Cazuo,4,2,"11,11,8,6,11,11|3,8,11,11,9,8",QR2,GRAND_SLAM,MS,775,Qualification,MACHADO Carlos (ESP),MATSUMOTO Cazuo (BRA)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,ROGIERS Benjamin,MATSUMOTO Cazuo,4,2,"8,8,13,11,11,12|11,11,11,7,8,10",3,GRAND_SLAM,MS,775,Qualification,ROGIERS Benjamin (BEL),MATSUMOTO Cazuo (BRA)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,HABESOHN Daniel,NAGY Krisztian,4,1,"8,11,12,13,11|11,3,10,11,9",,GRAND_SLAM,MS,775,Qualification,HABESOHN Daniel (AUT),NAGY Krisztian (HUN)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,REED Daniel,BARDON Michal,4,0,,QR2,GRAND_SLAM,MS,775,Qualification,REED Daniel (ENG),BARDON Michal (SVK)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,HABESOHN Daniel,BARDON Michal,4,0,,3,GRAND_SLAM,MS,775,Qualification,HABESOHN Daniel (AUT),BARDON Michal (SVK)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,NAGY Krisztian,REED Daniel,4,0,"11,11,11,11|8,6,5,9",QR4,GRAND_SLAM,MS,775,Qualification,NAGY Krisztian (HUN),REED Daniel (ENG)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,NAGY Krisztian,BARDON Michal,4,0,,5,GRAND_SLAM,MS,775,Qualification,NAGY Krisztian (HUN),BARDON Michal (SVK)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,HABESOHN Daniel,REED Daniel,4,0,"11,11,11,11|5,6,9,5",6,GRAND_SLAM,MS,775,Qualification,HABESOHN Daniel (AUT),REED Daniel (ENG)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TSUBOI Gustavo,PICHLER Michael,4,0,"11,11,11,11|6,7,6,7",,GRAND_SLAM,MS,775,Qualification,TSUBOI Gustavo (BRA),PICHLER Michael (AUT)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KONECNY Tomas,MASSAAD Adel,4,0,,QR2,GRAND_SLAM,MS,775,Qualification,KONECNY Tomas (CZE),MASSAAD Adel (EGY)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KONECNY Tomas,TSUBOI Gustavo,4,0,"11,11,11,11|5,8,8,8",3,GRAND_SLAM,MS,775,Qualification,KONECNY Tomas (CZE),TSUBOI Gustavo (BRA)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PICHLER Michael,MASSAAD Adel,4,0,,QR4,GRAND_SLAM,MS,775,Qualification,PICHLER Michael (AUT),MASSAAD Adel (EGY)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KONECNY Tomas,PICHLER Michael,4,0,"11,13,11,11|8,11,6,3",5,GRAND_SLAM,MS,775,Qualification,KONECNY Tomas (CZE),PICHLER Michael (AUT)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TSUBOI Gustavo,MASSAAD Adel,4,0,,6,GRAND_SLAM,MS,775,Qualification,TSUBOI Gustavo (BRA),MASSAAD Adel (EGY)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PERSSON Jon,MADRID Marcos,4,1,"11,8,12,11,11|8,11,10,7,6",,GRAND_SLAM,MS,775,Qualification,PERSSON Jon (SWE),MADRID Marcos (MEX)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,OBESLO Michal,PRESSLMAYER Bernhard,4,1,"12,8,11,11,11|10,11,8,9,8",QR2,GRAND_SLAM,MS,775,Qualification,OBESLO Michal (CZE),PRESSLMAYER Bernhard (AUT)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PRESSLMAYER Bernhard,PERSSON Jon,4,3,"11,6,14,8,11,7,11|2,11,12,11,5,11,3",3,GRAND_SLAM,MS,775,Qualification,PRESSLMAYER Bernhard (AUT),PERSSON Jon (SWE)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,OBESLO Michal,MADRID Marcos,4,0,"11,11,11,13|6,6,5,11",QR4,GRAND_SLAM,MS,775,Qualification,OBESLO Michal (CZE),MADRID Marcos (MEX)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PRESSLMAYER Bernhard,MADRID Marcos,4,0,"11,11,11,11|7,6,4,5",5,GRAND_SLAM,MS,775,Qualification,PRESSLMAYER Bernhard (AUT),MADRID Marcos (MEX)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,OBESLO Michal,PERSSON Jon,4,0,"11,11,11,11|9,9,6,9",6,GRAND_SLAM,MS,775,Qualification,OBESLO Michal (CZE),PERSSON Jon (SWE)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,REDJEP Ronald,MICHELY Gilles,4,0,"11,11,11,11|9,5,2,4",,GRAND_SLAM,MS,775,Qualification,REDJEP Ronald (CRO),MICHELY Gilles (LUX)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,ROBERTSON Adam,VITTA Kilomo,4,3,"7,11,11,5,11,11,12|11,9,8,11,6,13,10",QR2,GRAND_SLAM,MS,775,Qualification,ROBERTSON Adam (WAL),VITTA Kilomo (BEL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,ROBERTSON Adam,REDJEP Ronald,4,2,"11,11,7,9,11,11|4,8,11,11,7,7",3,GRAND_SLAM,MS,775,Qualification,ROBERTSON Adam (WAL),REDJEP Ronald (CRO)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,MICHELY Gilles,VITTA Kilomo,4,2,"7,11,4,12,12,11|11,7,11,10,10,9",QR4,GRAND_SLAM,MS,775,Qualification,MICHELY Gilles (LUX),VITTA Kilomo (BEL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,ROBERTSON Adam,MICHELY Gilles,4,1,"11,11,9,11,11|5,5,11,8,8",5,GRAND_SLAM,MS,775,Qualification,ROBERTSON Adam (WAL),MICHELY Gilles (LUX)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,REDJEP Ronald,VITTA Kilomo,4,3,"11,10,5,11,11,6,11|8,12,11,2,6,11,6",6,GRAND_SLAM,MS,775,Qualification,REDJEP Ronald (CRO),VITTA Kilomo (BEL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BOLL Timo,PRESSLMAYER Bernhard,4,0,"11,11,11,11|5,3,6,1",R64,GRAND_SLAM,MS,775,Main Draw,BOLL Timo (GER),PRESSLMAYER Bernhard (AUT)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,GACINA Andrej,KUZMIN Fedor,4,2,"11,11,11,6,8,11|3,7,5,11,11,5",R64,GRAND_SLAM,MS,775,Main Draw,GACINA Andrej (CRO),KUZMIN Fedor (RUS)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BURGIS Matiss,CHIANG Hung-Chieh,4,1,"11,11,4,11,11|5,9,11,4,8",R64,GRAND_SLAM,MS,775,Main Draw,BURGIS Matiss (LAT),CHIANG Hung-Chieh (TPE)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BLASZCZYK Lucjan,LIVENTSOV Alexey,4,0,"11,11,11,11|4,7,8,6",R64,GRAND_SLAM,MS,775,Main Draw,BLASZCZYK Lucjan (POL),LIVENTSOV Alexey (RUS)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,MONTEIRO Joao,ROGIERS Benjamin,4,1,"11,12,9,11,11|7,10,11,7,5",R64,GRAND_SLAM,MS,775,Main Draw,MONTEIRO Joao (POR),ROGIERS Benjamin (BEL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,ROBERTSON Adam,HIELSCHER Lars,4,3,"9,12,11,2,11,5,11|11,10,9,11,7,11,4",R64,GRAND_SLAM,MS,775,Main Draw,ROBERTSON Adam (WAL),HIELSCHER Lars (GER)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,FREITAS Marcos,ZUBCIC Tomislav,4,2,"11,11,12,11,12,13|8,5,14,4,14,11",R64,GRAND_SLAM,MS,775,Main Draw,FREITAS Marcos (POR),ZUBCIC Tomislav (CRO)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PRIMORAC Zoran,TSUBOI Gustavo,4,1,"11,6,11,11,15|8,11,7,5,13",R64,GRAND_SLAM,MS,775,Main Draw,PRIMORAC Zoran (CRO),TSUBOI Gustavo (BRA)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,ZWICKL Daniel,CHEN Weixing,4,0,,R64,GRAND_SLAM,MS,775,Main Draw,ZWICKL Daniel (HUN),CHEN Weixing (AUT)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BAUM Patrick,WU Chih-Chi,4,0,"12,11,11,12|10,8,7,10",R64,GRAND_SLAM,MS,775,Main Draw,BAUM Patrick (GER),WU Chih-Chi (TPE)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,DRINKHALL Paul,ACHANTA Sharath,4,1,"11,11,11,13,11|5,7,8,15,9",R64,GRAND_SLAM,MS,775,Main Draw,DRINKHALL Paul (ENG),ACHANTA Sharath (IND)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SMIRNOV Alexey,FENG Xiaoquan,4,1,"8,11,11,11,11|11,9,8,8,5",R64,GRAND_SLAM,MS,775,Main Draw,SMIRNOV Alexey (RUS),FENG Xiaoquan (AUT)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,GARDOS Robert,MUSKO Peter,4,1,"11,11,9,11,11|7,6,11,3,4",R64,GRAND_SLAM,MS,775,Main Draw,GARDOS Robert (AUT),MUSKO Peter (HUN)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KONECNY Tomas,TAKAKIWA Taku,4,2,"11,11,11,8,4,11|9,6,6,11,11,7",R64,GRAND_SLAM,MS,775,Main Draw,KONECNY Tomas (CZE),TAKAKIWA Taku (JPN)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,FAZEKAS Peter,KEINATH Thomas,4,2,"12,11,8,11,13,12|14,9,11,7,11,10",R64,GRAND_SLAM,MS,775,Main Draw,FAZEKAS Peter (HUN),KEINATH Thomas (SVK)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SCHLAGER Werner,GAVLAS Antonin,4,0,"11,11,11,11|8,4,5,6",R64,GRAND_SLAM,MS,775,Main Draw,SCHLAGER Werner (AUT),GAVLAS Antonin (CZE)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,OVTCHAROV Dimitrij,NAGY Krisztian,4,3,"9,8,11,11,11,11,11|11,11,9,6,13,9,9",R64,GRAND_SLAM,MS,775,Main Draw,OVTCHAROV Dimitrij (GER),NAGY Krisztian (HUN)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,APOLONIA Tiago,FILUS Ruwen,4,0,"11,14,11,12|7,12,1,10",R64,GRAND_SLAM,MS,775,Main Draw,APOLONIA Tiago (POR),FILUS Ruwen (GER)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SVENSSON Robert,LEBESSON Emmanuel,4,1,"7,11,11,11,11|11,9,8,6,5",R64,GRAND_SLAM,MS,775,Main Draw,SVENSSON Robert (SWE),LEBESSON Emmanuel (FRA)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LUNDQVIST Jens,LAKEEV Vasily,4,3,"6,11,6,11,11,11,11|11,4,11,4,13,6,7",R64,GRAND_SLAM,MS,775,Main Draw,LUNDQVIST Jens (SWE),LAKEEV Vasily (RUS)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CHMIEL Pawel,MONTEIRO Thiago,4,3,"11,11,11,8,15,9,11|4,8,6,11,17,11,7",R64,GRAND_SLAM,MS,775,Main Draw,CHMIEL Pawel (POL),MONTEIRO Thiago (BRA)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,MATTENET Adrien,GORAK Daniel,4,1,"4,11,11,11,11|11,8,5,7,9",R64,GRAND_SLAM,MS,775,Main Draw,MATTENET Adrien (FRA),GORAK Daniel (POL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,WANG Zengyi,OBESLO Michal,4,0,"11,11,11,11|1,6,9,6",R64,GRAND_SLAM,MS,775,Main Draw,WANG Zengyi (POL),OBESLO Michal (CZE)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,MAZE Michael,SZYMANSKI Filip,4,0,"11,11,11,12|6,3,9,10",R64,GRAND_SLAM,MS,775,Main Draw,MAZE Michael (DEN),SZYMANSKI Filip (POL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SAIVE Jean-Michel,JANCARIK Lubomir,4,1,"11,12,12,6,11|6,10,10,11,7",R64,GRAND_SLAM,MS,775,Main Draw,SAIVE Jean-Michel (BEL),JANCARIK Lubomir (CZE)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PAZSY Ferenc,RUMGAY Gavin,4,1,"4,11,11,11,14|11,9,6,8,12",R64,GRAND_SLAM,MS,775,Main Draw,PAZSY Ferenc (HUN),RUMGAY Gavin (SCO)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,MATSUDAIRA Kenta,MACHADO Carlos,4,0,"11,11,11,11|7,6,5,9",R64,GRAND_SLAM,MS,775,Main Draw,MATSUDAIRA Kenta (JPN),MACHADO Carlos (ESP)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,STEGER Bastian,DURAN Marc,4,0,"11,11,11,11|1,5,8,7",R64,GRAND_SLAM,MS,775,Main Draw,STEGER Bastian (GER),DURAN Marc (ESP)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KISHIKAWA Seiya,CARNEROS Alfredo,4,0,"11,11,13,11|9,7,11,2",R64,GRAND_SLAM,MS,775,Main Draw,KISHIKAWA Seiya (JPN),CARNEROS Alfredo (ESP)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TOSIC Roko,BOBILLIER Loic,4,3,"11,8,11,7,11,6,11|6,11,7,11,7,11,8",R64,GRAND_SLAM,MS,775,Main Draw,TOSIC Roko (CRO),BOBILLIER Loic (FRA)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,HABESOHN Daniel,BOBOCICA Mihai,4,2,"12,4,11,11,7,12|10,11,6,6,11,10",R64,GRAND_SLAM,MS,775,Main Draw,HABESOHN Daniel (AUT),BOBOCICA Mihai (ITA)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CHUANG Chih-Yuan,REDJEP Ronald,4,0,"11,11,11,11|7,5,8,4",R64,GRAND_SLAM,MS,775,Main Draw,CHUANG Chih-Yuan (TPE),REDJEP Ronald (CRO)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BOLL Timo,GACINA Andrej,4,1,"12,11,11,11,11|14,5,9,3,3",R32,GRAND_SLAM,MS,775,Main Draw,BOLL Timo (GER),GACINA Andrej (CRO)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BLASZCZYK Lucjan,BURGIS Matiss,4,2,"9,11,6,11,11,15|11,5,11,8,4,13",R32,GRAND_SLAM,MS,775,Main Draw,BLASZCZYK Lucjan (POL),BURGIS Matiss (LAT)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,MONTEIRO Joao,ROBERTSON Adam,4,2,"4,9,11,11,11,13|11,11,2,9,7,11",R32,GRAND_SLAM,MS,775,Main Draw,MONTEIRO Joao (POR),ROBERTSON Adam (WAL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PRIMORAC Zoran,FREITAS Marcos,4,2,"8,7,11,11,11,11|11,11,7,7,5,7",R32,GRAND_SLAM,MS,775,Main Draw,PRIMORAC Zoran (CRO),FREITAS Marcos (POR)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BAUM Patrick,ZWICKL Daniel,4,1,"11,7,11,12,11|6,11,7,10,3",R32,GRAND_SLAM,MS,775,Main Draw,BAUM Patrick (GER),ZWICKL Daniel (HUN)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,DRINKHALL Paul,SMIRNOV Alexey,4,3,"7,12,4,11,11,6,11|11,10,11,8,2,11,6",R32,GRAND_SLAM,MS,775,Main Draw,DRINKHALL Paul (ENG),SMIRNOV Alexey (RUS)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,GARDOS Robert,KONECNY Tomas,4,1,"11,4,11,12,11|6,11,4,10,9",R32,GRAND_SLAM,MS,775,Main Draw,GARDOS Robert (AUT),KONECNY Tomas (CZE)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SCHLAGER Werner,FAZEKAS Peter,4,1,"13,11,11,13,11|15,7,5,11,9",R32,GRAND_SLAM,MS,775,Main Draw,SCHLAGER Werner (AUT),FAZEKAS Peter (HUN)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,OVTCHAROV Dimitrij,APOLONIA Tiago,4,3,"14,11,6,11,9,5,11|12,7,11,7,11,11,7",R32,GRAND_SLAM,MS,775,Main Draw,OVTCHAROV Dimitrij (GER),APOLONIA Tiago (POR)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LUNDQVIST Jens,SVENSSON Robert,4,2,"9,13,11,4,15,13|11,11,4,11,13,11",R32,GRAND_SLAM,MS,775,Main Draw,LUNDQVIST Jens (SWE),SVENSSON Robert (SWE)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,MATTENET Adrien,CHMIEL Pawel,4,0,"11,11,11,11|8,4,3,7",R32,GRAND_SLAM,MS,775,Main Draw,MATTENET Adrien (FRA),CHMIEL Pawel (POL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,WANG Zengyi,MAZE Michael,4,1,"11,11,11,6,12|8,6,8,11,10",R32,GRAND_SLAM,MS,775,Main Draw,WANG Zengyi (POL),MAZE Michael (DEN)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SAIVE Jean-Michel,PAZSY Ferenc,4,1,"11,11,12,9,11|8,6,10,11,8",R32,GRAND_SLAM,MS,775,Main Draw,SAIVE Jean-Michel (BEL),PAZSY Ferenc (HUN)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,STEGER Bastian,MATSUDAIRA Kenta,4,3,"11,12,10,11,12,11,11|9,14,12,8,14,8,9",R32,GRAND_SLAM,MS,775,Main Draw,STEGER Bastian (GER),MATSUDAIRA Kenta (JPN)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KISHIKAWA Seiya,TOSIC Roko,4,1,"11,17,11,8,11|8,15,8,11,9",R32,GRAND_SLAM,MS,775,Main Draw,KISHIKAWA Seiya (JPN),TOSIC Roko (CRO)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CHUANG Chih-Yuan,HABESOHN Daniel,4,0,"11,11,11,14|3,6,4,12",R32,GRAND_SLAM,MS,775,Main Draw,CHUANG Chih-Yuan (TPE),HABESOHN Daniel (AUT)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BOLL Timo,BLASZCZYK Lucjan,4,0,"11,11,11,11|1,7,5,5",R16,GRAND_SLAM,MS,775,Main Draw,BOLL Timo (GER),BLASZCZYK Lucjan (POL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PRIMORAC Zoran,MONTEIRO Joao,4,2,"11,13,12,4,5,11|6,11,10,11,11,8",R16,GRAND_SLAM,MS,775,Main Draw,PRIMORAC Zoran (CRO),MONTEIRO Joao (POR)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BAUM Patrick,DRINKHALL Paul,4,1,"11,11,6,11,11|6,9,11,5,3",R16,GRAND_SLAM,MS,775,Main Draw,BAUM Patrick (GER),DRINKHALL Paul (ENG)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SCHLAGER Werner,GARDOS Robert,4,1,"11,11,11,12,11|6,6,13,10,6",R16,GRAND_SLAM,MS,775,Main Draw,SCHLAGER Werner (AUT),GARDOS Robert (AUT)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,OVTCHAROV Dimitrij,LUNDQVIST Jens,4,1,"9,11,11,11,11|11,2,9,5,3",R16,GRAND_SLAM,MS,775,Main Draw,OVTCHAROV Dimitrij (GER),LUNDQVIST Jens (SWE)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,WANG Zengyi,MATTENET Adrien,4,1,"11,6,11,11,11|6,11,9,5,6",R16,GRAND_SLAM,MS,775,Main Draw,WANG Zengyi (POL),MATTENET Adrien (FRA)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,STEGER Bastian,SAIVE Jean-Michel,4,3,"11,11,4,11,7,4,11|7,3,11,3,11,11,7",R16,GRAND_SLAM,MS,775,Main Draw,STEGER Bastian (GER),SAIVE Jean-Michel (BEL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CHUANG Chih-Yuan,KISHIKAWA Seiya,4,1,"8,11,11,11,11|11,8,7,9,9",R16,GRAND_SLAM,MS,775,Main Draw,CHUANG Chih-Yuan (TPE),KISHIKAWA Seiya (JPN)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BOLL Timo,PRIMORAC Zoran,4,0,"11,11,11,11|7,5,8,9",QF,GRAND_SLAM,MS,775,Main Draw,BOLL Timo (GER),PRIMORAC Zoran (CRO)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BAUM Patrick,SCHLAGER Werner,4,3,"7,11,11,11,8,1,13|11,8,2,8,11,11,11",QF,GRAND_SLAM,MS,775,Main Draw,BAUM Patrick (GER),SCHLAGER Werner (AUT)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,WANG Zengyi,OVTCHAROV Dimitrij,4,3,"14,11,12,6,11,9,11|12,13,10,11,4,11,9",QF,GRAND_SLAM,MS,775,Main Draw,WANG Zengyi (POL),OVTCHAROV Dimitrij (GER)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CHUANG Chih-Yuan,STEGER Bastian,4,1,"8,11,11,11,12|11,3,3,5,10",QF,GRAND_SLAM,MS,775,Main Draw,CHUANG Chih-Yuan (TPE),STEGER Bastian (GER)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BOLL Timo,BAUM Patrick,4,0,"11,11,11,11|7,8,7,2",SF,GRAND_SLAM,MS,775,Main Draw,BOLL Timo (GER),BAUM Patrick (GER)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CHUANG Chih-Yuan,WANG Zengyi,4,3,"11,11,11,8,11,9,11|7,13,7,11,4,11,4",SF,GRAND_SLAM,MS,775,Main Draw,CHUANG Chih-Yuan (TPE),WANG Zengyi (POL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BOLL Timo,CHUANG Chih-Yuan,4,0,"11,11,11,11|7,4,8,8",F,GRAND_SLAM,MS,775,Main Draw,BOLL Timo (GER),CHUANG Chih-Yuan (TPE)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,DRINKHALL Paul,CHMIEL Piotr,4,0,"11,11,11,11|7,9,9,7",,GRAND_SLAM,MS,775,Qualification,DRINKHALL Paul (ENG),CHMIEL Piotr (POL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,JANCARIK Lubomir,MEHTA Pathik,4,0,"11,18,11,11|9,16,6,7",QR2,GRAND_SLAM,MS,775,Qualification,JANCARIK Lubomir (CZE),MEHTA Pathik (IND)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,DRINKHALL Paul,JANCARIK Lubomir,4,1,"11,11,11,9,13|7,9,9,11,11",3,GRAND_SLAM,MS,775,Qualification,DRINKHALL Paul (ENG),JANCARIK Lubomir (CZE)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CHMIEL Piotr,MEHTA Pathik,4,1,"11,9,11,11,11|5,11,3,9,9",QR4,GRAND_SLAM,MS,775,Qualification,CHMIEL Piotr (POL),MEHTA Pathik (IND)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,JANCARIK Lubomir,CHMIEL Piotr,4,3,"5,11,7,11,7,11,12|11,7,11,3,11,2,10",5,GRAND_SLAM,MS,775,Qualification,JANCARIK Lubomir (CZE),CHMIEL Piotr (POL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,DRINKHALL Paul,MEHTA Pathik,4,2,"10,11,9,11,12,11|12,5,11,3,10,5",6,GRAND_SLAM,MS,775,Qualification,DRINKHALL Paul (ENG),MEHTA Pathik (IND)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,VINOGRADOVA Mariia,HAAN Simone,4,0,"12,13,11,11|10,11,3,2",,GRAND_SLAM,WS,775,Qualification,VINOGRADOVA Mariia (RUS),HAAN Simone (LUX)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KMOTORKOVA Lenka,HAAN Simone,4,1,"16,11,4,11,11|14,9,11,6,4",QR2,GRAND_SLAM,WS,775,Qualification,KMOTORKOVA Lenka (SVK),HAAN Simone (LUX)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KMOTORKOVA Lenka,VINOGRADOVA Mariia,4,3,"11,11,12,9,11,12,13|8,7,14,11,6,14,11",3,GRAND_SLAM,WS,775,Qualification,KMOTORKOVA Lenka (SVK),VINOGRADOVA Mariia (RUS)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,OWEN Naomi,LAZARCIKOVA Simona,4,1,"11,2,11,11,11|6,11,9,5,6",,GRAND_SLAM,WS,775,Qualification,OWEN Naomi (WAL),LAZARCIKOVA Simona (SVK)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TIKHOMIROVA Anna,LAZARCIKOVA Simona,4,0,"11,11,11,11|5,2,6,4",QR2,GRAND_SLAM,WS,775,Qualification,TIKHOMIROVA Anna (RUS),LAZARCIKOVA Simona (SVK)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TIKHOMIROVA Anna,OWEN Naomi,4,2,"2,11,10,11,11,11|11,7,12,6,9,6",3,GRAND_SLAM,WS,775,Qualification,TIKHOMIROVA Anna (RUS),OWEN Naomi (WAL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LIU Na,PETZNER Martina,4,1,"11,11,7,13,11|7,9,11,11,7",,GRAND_SLAM,WS,775,Qualification,LIU Na (IRL),PETZNER Martina (AUT)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KUZMINA Elena,LIU Na,4,0,"12,14,11,11|10,12,7,5",QR2,GRAND_SLAM,WS,775,Qualification,KUZMINA Elena (RUS),LIU Na (IRL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KUZMINA Elena,PETZNER Martina,4,1,"9,13,11,11,11|11,11,4,6,9",3,GRAND_SLAM,WS,775,Qualification,KUZMINA Elena (RUS),PETZNER Martina (AUT)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,DURAK Mirela,JURIC Monika,4,0,"11,11,11,11|7,6,6,4",,GRAND_SLAM,WS,775,Qualification,DURAK Mirela (CRO),JURIC Monika (AUT)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,MIKHAILOVA Polina,JURIC Monika,4,0,"11,11,11,11|3,4,3,4",QR2,GRAND_SLAM,WS,775,Qualification,MIKHAILOVA Polina (RUS),JURIC Monika (AUT)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,MIKHAILOVA Polina,DURAK Mirela,4,2,"11,11,11,11,9,13|13,7,4,9,11,11",3,GRAND_SLAM,WS,775,Qualification,MIKHAILOVA Polina (RUS),DURAK Mirela (CRO)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,NONAKA Mariany,KOVACS Karina,4,0,"13,11,11,14|11,7,3,12",,GRAND_SLAM,WS,775,Qualification,NONAKA Mariany (BRA),KOVACS Karina (AUT)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TIMINA Yana,KOVACS Karina,4,0,"11,11,11,11|6,6,3,1",QR2,GRAND_SLAM,WS,775,Qualification,TIMINA Yana (NED),KOVACS Karina (AUT)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TIMINA Yana,NONAKA Mariany,4,3,"12,5,9,11,11,8,11|10,11,11,8,9,11,6",3,GRAND_SLAM,WS,775,Qualification,TIMINA Yana (NED),NONAKA Mariany (BRA)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PETERMAN-VARGA Timea,SCHATZER Claudia,4,2,"13,8,11,11,17,11|11,11,6,7,19,5",,GRAND_SLAM,WS,775,Qualification,PETERMAN-VARGA Timea (HUN),SCHATZER Claudia (AUT)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BAK Natalia,SCHATZER Claudia,4,0,"11,11,11,11|3,3,7,5",QR2,GRAND_SLAM,WS,775,Qualification,BAK Natalia (POL),SCHATZER Claudia (AUT)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PETERMAN-VARGA Timea,BAK Natalia,4,1,"6,11,11,11,11|11,6,9,8,8",3,GRAND_SLAM,WS,775,Qualification,PETERMAN-VARGA Timea (HUN),BAK Natalia (POL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PIETKIEWICZ Monika,LUGINGER Melanie,4,0,"11,12,11,11|7,10,5,4",,GRAND_SLAM,WS,775,Qualification,PIETKIEWICZ Monika (POL),LUGINGER Melanie (AUT)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,WINTER Sabine,DAUBNEROVA Andrea,4,3,"9,11,18,6,17,11,11|11,7,16,11,19,5,4",QR2,GRAND_SLAM,WS,775,Qualification,WINTER Sabine (GER),DAUBNEROVA Andrea (SVK)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PIETKIEWICZ Monika,DAUBNEROVA Andrea,4,1,"11,11,12,8,11|5,9,10,11,4",3,GRAND_SLAM,WS,775,Qualification,PIETKIEWICZ Monika (POL),DAUBNEROVA Andrea (SVK)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,WINTER Sabine,LUGINGER Melanie,4,0,"11,11,11,11|6,7,3,8",QR4,GRAND_SLAM,WS,775,Qualification,WINTER Sabine (GER),LUGINGER Melanie (AUT)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PIETKIEWICZ Monika,WINTER Sabine,4,1,"11,9,11,14,11|7,11,8,12,7",5,GRAND_SLAM,WS,775,Qualification,PIETKIEWICZ Monika (POL),WINTER Sabine (GER)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,DAUBNEROVA Andrea,LUGINGER Melanie,4,0,"11,11,11,11|5,6,9,6",6,GRAND_SLAM,WS,775,Qualification,DAUBNEROVA Andrea (SVK),LUGINGER Melanie (AUT)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,STRBIKOVA Renata,MIKHAILOVA Polina,4,2,"11,7,4,11,11,14|4,11,11,6,6,12",R64,GRAND_SLAM,WS,775,Main Draw,STRBIKOVA Renata (CZE),MIKHAILOVA Polina (RUS)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,DRINKHALL Joanna,HAAN Simone,4,0,"11,11,11,11|9,9,9,7",R64,GRAND_SLAM,WS,775,Main Draw,DRINKHALL Joanna (ENG),HAAN Simone (LUX)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,HIURA Reiko,LAZARCIKOVA Simona,4,0,"11,11,11,11|9,7,4,3",R64,GRAND_SLAM,WS,775,Main Draw,HIURA Reiko (JPN),LAZARCIKOVA Simona (SVK)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PAOVIC Sandra,KOVACS Karina,4,0,"11,11,11,11|5,6,4,6",R64,GRAND_SLAM,WS,775,Main Draw,PAOVIC Sandra (CRO),KOVACS Karina (AUT)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,EKHOLM Matilda,BAK Natalia,4,1,"11,11,10,12,11|5,4,12,10,4",R64,GRAND_SLAM,WS,775,Main Draw,EKHOLM Matilda (SWE),BAK Natalia (POL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KRAMER Tanja,DURAK Mirela,4,1,"11,16,8,11,11|6,14,11,8,4",R64,GRAND_SLAM,WS,775,Main Draw,KRAMER Tanja (GER),DURAK Mirela (CRO)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,STEFANSKA Kinga,SCHATZER Claudia,4,0,"11,11,11,11|7,6,6,7",R64,GRAND_SLAM,WS,775,Main Draw,STEFANSKA Kinga (POL),SCHATZER Claudia (AUT)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PROKHOROVA Yulia,KMOTORKOVA Lenka,4,0,"11,11,11,11|9,8,9,7",R64,GRAND_SLAM,WS,775,Main Draw,PROKHOROVA Yulia (RUS),KMOTORKOVA Lenka (SVK)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,ZHU Fang,DAUBNEROVA Andrea,4,0,"11,11,11,11|8,9,5,3",R64,GRAND_SLAM,WS,775,Main Draw,ZHU Fang (ESP),DAUBNEROVA Andrea (SVK)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BOLLMEIER Nadine,VINOGRADOVA Mariia,4,2,"11,12,11,11,10,15|6,10,9,13,12,13",R64,GRAND_SLAM,WS,775,Main Draw,BOLLMEIER Nadine (GER),VINOGRADOVA Mariia (RUS)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,VACENOVSKA Iveta,WINTER Sabine,4,1,"11,11,11,11,11|9,4,13,5,8",R64,GRAND_SLAM,WS,775,Main Draw,VACENOVSKA Iveta (CZE),WINTER Sabine (GER)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,RAMIREZ Sara,PIETKIEWICZ Monika,4,2,"11,10,13,11,8,11|9,12,11,4,11,9",R64,GRAND_SLAM,WS,775,Main Draw,RAMIREZ Sara (ESP),PIETKIEWICZ Monika (POL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,ROBERTSON Laura,TIMINA Yana,4,0,"14,11,11,11|12,6,7,8",R64,GRAND_SLAM,WS,775,Main Draw,ROBERTSON Laura (GER),TIMINA Yana (NED)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,XU Jie (1982),LUGINGER Melanie,4,0,"11,11,11,11|4,3,3,2",R64,GRAND_SLAM,WS,775,Main Draw,XU Jie (1982) (POL),LUGINGER Melanie (AUT)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,POTA Georgina,PETZNER Martina,4,2,"11,11,6,11,11,11|6,13,11,3,2,8",R64,GRAND_SLAM,WS,775,Main Draw,POTA Georgina (HUN),PETZNER Martina (AUT)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KERTAI Rita,OWEN Naomi,4,0,"11,11,11,11|5,4,7,6",R64,GRAND_SLAM,WS,775,Main Draw,KERTAI Rita (HUN),OWEN Naomi (WAL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CECHOVA Dana,PETERMAN-VARGA Timea,4,0,"11,11,11,11|8,8,9,1",R64,GRAND_SLAM,WS,775,Main Draw,CECHOVA Dana (CZE),PETERMAN-VARGA Timea (HUN)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,NTOULAKI Ekaterina,NONAKA Mariany,4,1,"9,12,11,11,11|11,10,9,4,8",R64,GRAND_SLAM,WS,775,Main Draw,NTOULAKI Ekaterina (GRE),NONAKA Mariany (BRA)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TIKHOMIROVA Anna,JONSSON Carina,4,3,"9,7,11,11,13,8,11|11,11,3,9,11,11,5",R64,GRAND_SLAM,WS,775,Main Draw,TIKHOMIROVA Anna (RUS),JONSSON Carina (SWE)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LOVAS Petra,JURIC Monika,4,0,"11,11,11,11|3,4,5,4",R64,GRAND_SLAM,WS,775,Main Draw,LOVAS Petra (HUN),JURIC Monika (AUT)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LIU Na,DVORAK Galia,4,0,"11,11,11,11|4,8,7,5",R64,GRAND_SLAM,WS,775,Main Draw,LIU Na (IRL),DVORAK Galia (ESP)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LANG Kristin,KUZMINA Elena,4,1,"11,7,11,11,13|9,11,5,7,11",R64,GRAND_SLAM,WS,775,Main Draw,LANG Kristin (GER),KUZMINA Elena (RUS)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,WANG Yuegu,STRBIKOVA Renata,4,0,"11,11,11,11|7,6,9,8",R32,GRAND_SLAM,WS,775,Main Draw,WANG Yuegu (SGP),STRBIKOVA Renata (CZE)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,HIURA Reiko,DRINKHALL Joanna,4,2,"11,7,11,12,8,11|6,11,3,10,11,8",R32,GRAND_SLAM,WS,775,Main Draw,HIURA Reiko (JPN),DRINKHALL Joanna (ENG)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PAOVIC Sandra,EKHOLM Matilda,4,0,"12,11,11,11|10,4,6,9",R32,GRAND_SLAM,WS,775,Main Draw,PAOVIC Sandra (CRO),EKHOLM Matilda (SWE)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PAVLOVICH Viktoria,KRAMER Tanja,4,0,"11,11,11,11|8,7,6,9",R32,GRAND_SLAM,WS,775,Main Draw,PAVLOVICH Viktoria (BLR),KRAMER Tanja (GER)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TOTH Krisztina,STEFANSKA Kinga,4,0,"11,11,11,12|8,6,7,10",R32,GRAND_SLAM,WS,775,Main Draw,TOTH Krisztina (HUN),STEFANSKA Kinga (POL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,ZHU Fang,PROKHOROVA Yulia,4,0,"11,11,11,11|8,8,6,4",R32,GRAND_SLAM,WS,775,Main Draw,ZHU Fang (ESP),PROKHOROVA Yulia (RUS)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,JIAO Yongli,BOLLMEIER Nadine,4,3,"6,11,11,12,11,5,11|11,4,13,10,3,11,2",R32,GRAND_SLAM,WS,775,Main Draw,JIAO Yongli (ESP),BOLLMEIER Nadine (GER)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BOROS Tamara,VACENOVSKA Iveta,4,3,"6,11,11,8,3,11,11|11,6,8,11,11,6,5",R32,GRAND_SLAM,WS,775,Main Draw,BOROS Tamara (CRO),VACENOVSKA Iveta (CZE)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SUN Beibei,RAMIREZ Sara,4,3,"8,11,4,9,11,11,12|11,9,11,11,8,8,10",R32,GRAND_SLAM,WS,775,Main Draw,SUN Beibei (SGP),RAMIREZ Sara (ESP)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,XU Jie (1982),ROBERTSON Laura,4,1,"11,11,12,5,11|6,5,10,11,3",R32,GRAND_SLAM,WS,775,Main Draw,XU Jie (1982) (POL),ROBERTSON Laura (GER)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,POTA Georgina,KERTAI Rita,4,2,"12,7,11,12,7,11|10,11,6,10,11,4",R32,GRAND_SLAM,WS,775,Main Draw,POTA Georgina (HUN),KERTAI Rita (HUN)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LI Qian,CECHOVA Dana,4,1,"11,11,10,11,11|6,9,12,5,1",R32,GRAND_SLAM,WS,775,Main Draw,LI Qian (POL),CECHOVA Dana (CZE)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LI Jie,NTOULAKI Ekaterina,4,0,"11,13,11,17|5,11,6,15",R32,GRAND_SLAM,WS,775,Main Draw,LI Jie (NED),NTOULAKI Ekaterina (GRE)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TIKHOMIROVA Anna,LOVAS Petra,4,2,"11,8,7,11,11,11|4,11,11,6,7,9",R32,GRAND_SLAM,WS,775,Main Draw,TIKHOMIROVA Anna (RUS),LOVAS Petra (HUN)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LI Qiangbing,LIU Na,4,0,"11,11,11,11|4,8,8,9",R32,GRAND_SLAM,WS,775,Main Draw,LI Qiangbing (AUT),LIU Na (IRL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LIU Jia,LANG Kristin,4,1,"15,12,4,11,11|13,10,11,9,4",R32,GRAND_SLAM,WS,775,Main Draw,LIU Jia (AUT),LANG Kristin (GER)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,HIURA Reiko,WANG Yuegu,4,3,"11,11,5,4,8,11,14|9,9,11,11,11,9,12",R16,GRAND_SLAM,WS,775,Main Draw,HIURA Reiko (JPN),WANG Yuegu (SGP)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PAVLOVICH Viktoria,PAOVIC Sandra,4,2,"9,11,11,11,9,11|11,7,8,8,11,4",R16,GRAND_SLAM,WS,775,Main Draw,PAVLOVICH Viktoria (BLR),PAOVIC Sandra (CRO)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TOTH Krisztina,ZHU Fang,4,3,"11,11,6,5,12,11,11|8,7,11,11,14,8,9",R16,GRAND_SLAM,WS,775,Main Draw,TOTH Krisztina (HUN),ZHU Fang (ESP)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BOROS Tamara,JIAO Yongli,4,3,"11,9,9,6,11,11,11|5,11,11,11,9,8,6",R16,GRAND_SLAM,WS,775,Main Draw,BOROS Tamara (CRO),JIAO Yongli (ESP)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,XU Jie (1982),SUN Beibei,4,0,"11,11,13,11|3,7,11,9",R16,GRAND_SLAM,WS,775,Main Draw,XU Jie (1982) (POL),SUN Beibei (SGP)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LI Qian,POTA Georgina,4,1,"11,11,11,7,11|6,5,4,11,8",R16,GRAND_SLAM,WS,775,Main Draw,LI Qian (POL),POTA Georgina (HUN)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LI Jie,TIKHOMIROVA Anna,4,3,"11,9,11,10,6,11,13|7,11,7,12,11,5,11",R16,GRAND_SLAM,WS,775,Main Draw,LI Jie (NED),TIKHOMIROVA Anna (RUS)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LIU Jia,LI Qiangbing,4,0,"11,11,11,11|3,5,9,5",R16,GRAND_SLAM,WS,775,Main Draw,LIU Jia (AUT),LI Qiangbing (AUT)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,HIURA Reiko,PAVLOVICH Viktoria,4,2,"9,11,12,4,11,11|11,5,10,11,5,5",QF,GRAND_SLAM,WS,775,Main Draw,HIURA Reiko (JPN),PAVLOVICH Viktoria (BLR)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TOTH Krisztina,BOROS Tamara,4,2,"13,9,4,11,11,11|11,11,11,7,7,9",QF,GRAND_SLAM,WS,775,Main Draw,TOTH Krisztina (HUN),BOROS Tamara (CRO)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LI Qian,XU Jie (1982),4,1,"13,8,11,12,11|11,11,6,10,2",QF,GRAND_SLAM,WS,775,Main Draw,LI Qian (POL),XU Jie (1982) (POL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LI Jie,LIU Jia,4,1,"9,12,11,11,12|11,10,7,8,10",QF,GRAND_SLAM,WS,775,Main Draw,LI Jie (NED),LIU Jia (AUT)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TOTH Krisztina,HIURA Reiko,4,0,"12,11,11,12|10,8,1,10",SF,GRAND_SLAM,WS,775,Main Draw,TOTH Krisztina (HUN),HIURA Reiko (JPN)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LI Qian,LI Jie,4,2,"11,11,11,3,12,11|5,9,8,11,14,8",SF,GRAND_SLAM,WS,775,Main Draw,LI Qian (POL),LI Jie (NED)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LI Qian,TOTH Krisztina,4,1,"8,11,11,11,11|11,5,7,8,5",F,GRAND_SLAM,WS,775,Main Draw,LI Qian (POL),TOTH Krisztina (HUN)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SCHLAGER Werner,BOBILLIER Loic,3,1,"8,11,11,11|11,9,8,8",1,GRAND_SLAM,MT,775,Main Draw,SCHLAGER Werner (AUT),BOBILLIER Loic (FRA)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CHEN Weixing,LEBESSON Emmanuel,3,1,"11,11,10,11|4,8,12,7",1,GRAND_SLAM,MT,775,Main Draw,CHEN Weixing (AUT),LEBESSON Emmanuel (FRA)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,STEGER Bastian,VITTA Kilomo,3,0,"11,11,11|8,9,3",1,GRAND_SLAM,MT,775,Main Draw,STEGER Bastian (GER),VITTA Kilomo (BEL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BAUM Patrick,ROGIERS Benjamin,3,1,"11,11,6,11|6,6,11,9",1,GRAND_SLAM,MT,775,Main Draw,BAUM Patrick (GER),ROGIERS Benjamin (BEL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LUNDQVIST Jens,CARNEROS Alfredo,3,1,"11,5,11,11|8,11,9,9",1,GRAND_SLAM,MT,775,Main Draw,LUNDQVIST Jens (SWE),CARNEROS Alfredo (ESP)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SVENSSON Robert,MACHADO Carlos,3,1,"6,11,13,11|11,4,11,9",1,GRAND_SLAM,MT,775,Main Draw,SVENSSON Robert (SWE),MACHADO Carlos (ESP)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SMIRNOV Alexey,PAZSY Ferenc,3,2,"11,9,10,11,11|8,11,12,5,7",1,GRAND_SLAM,MT,775,Main Draw,SMIRNOV Alexey (RUS),PAZSY Ferenc (HUN)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KUZMIN Fedor,ZWICKL Daniel,3,1,"11,11,8,11|7,7,11,6",1,GRAND_SLAM,MT,775,Main Draw,KUZMIN Fedor (RUS),ZWICKL Daniel (HUN)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SMIRNOV Alexey,NAGY Krisztian,3,0,"11,11,11|5,8,5",1,GRAND_SLAM,MT,775,Main Draw,SMIRNOV Alexey (RUS),NAGY Krisztian (HUN)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,WANG Zengyi,TOSIC Roko,3,0,"11,11,11|7,5,7",1,GRAND_SLAM,MT,775,Main Draw,WANG Zengyi (POL),TOSIC Roko (CRO)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,GACINA Andrej,GORAK Daniel,3,2,"7,11,9,11,11|11,7,11,9,5",1,GRAND_SLAM,MT,775,Main Draw,GACINA Andrej (CRO),GORAK Daniel (POL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BLASZCZYK Lucjan,TOSIC Roko,3,1,"11,10,11,11|3,12,9,9",1,GRAND_SLAM,MT,775,Main Draw,BLASZCZYK Lucjan (POL),TOSIC Roko (CRO)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KISHIKAWA Seiya,GAVLAS Antonin,3,0,"15,11,11|13,4,5",1,GRAND_SLAM,MT,775,Main Draw,KISHIKAWA Seiya (JPN),GAVLAS Antonin (CZE)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,MATSUDAIRA Kenta,JANCARIK Lubomir,3,2,"12,6,11,2,12|10,11,9,11,10",1,GRAND_SLAM,MT,775,Main Draw,MATSUDAIRA Kenta (JPN),JANCARIK Lubomir (CZE)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KONECNY Tomas,KISHIKAWA Seiya,3,0,"11,15,11|8,13,6",1,GRAND_SLAM,MT,775,Main Draw,KONECNY Tomas (CZE),KISHIKAWA Seiya (JPN)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TAKAKIWA Taku,GAVLAS Antonin,3,0,"11,11,11|5,7,7",1,GRAND_SLAM,MT,775,Main Draw,TAKAKIWA Taku (JPN),GAVLAS Antonin (CZE)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PISTEJ Lubomir,REED Daniel,3,0,"11,12,11|5,10,6",1,GRAND_SLAM,MT,775,Main Draw,PISTEJ Lubomir (SVK),REED Daniel (ENG)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,DRINKHALL Paul,SEREDA Peter,3,0,"14,11,11|12,7,5",1,GRAND_SLAM,MT,775,Main Draw,DRINKHALL Paul (ENG),SEREDA Peter (SVK)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KEINATH Thomas,DRINKHALL Paul,3,0,"11,11,12|6,7,10",1,GRAND_SLAM,MT,775,Main Draw,KEINATH Thomas (SVK),DRINKHALL Paul (ENG)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PISTEJ Lubomir,KNIGHT Darius,3,0,"11,11,11|6,5,7",1,GRAND_SLAM,MT,775,Main Draw,PISTEJ Lubomir (SVK),KNIGHT Darius (ENG)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,MATSUMOTO Cazuo,CHIANG Hung-Chieh,3,2,"6,11,9,15,11|11,3,11,13,5",1,GRAND_SLAM,MT,775,Main Draw,MATSUMOTO Cazuo (BRA),CHIANG Hung-Chieh (TPE)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CHUANG Chih-Yuan,TSUBOI Gustavo,3,0,"11,11,12|7,3,10",1,GRAND_SLAM,MT,775,Main Draw,CHUANG Chih-Yuan (TPE),TSUBOI Gustavo (BRA)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CHUANG Chih-Yuan,MONTEIRO Thiago,3,0,"12,11,12|10,5,10",1,GRAND_SLAM,MT,775,Main Draw,CHUANG Chih-Yuan (TPE),MONTEIRO Thiago (BRA)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,WU Chih-Chi,MATSUMOTO Cazuo,3,2,"5,11,4,13,11|11,9,11,11,7",1,GRAND_SLAM,MT,775,Main Draw,WU Chih-Chi (TPE),MATSUMOTO Cazuo (BRA)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SCHLAGER Werner,STEGER Bastian,3,2,"9,11,9,11,11|11,8,11,7,7",1,GRAND_SLAM,MT,775,Main Draw,SCHLAGER Werner (AUT),STEGER Bastian (GER)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,GARDOS Robert,BAUM Patrick,3,2,"12,5,12,13,11|10,11,10,15,1",1,GRAND_SLAM,MT,775,Main Draw,GARDOS Robert (AUT),BAUM Patrick (GER)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,HIELSCHER Lars,SCHLAGER Werner,3,0,"13,11,12|11,6,10",1,GRAND_SLAM,MT,775,Main Draw,HIELSCHER Lars (GER),SCHLAGER Werner (AUT)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CHEN Weixing,STEGER Bastian,3,0,"11,11,11|9,8,7",1,GRAND_SLAM,MT,775,Main Draw,CHEN Weixing (AUT),STEGER Bastian (GER)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SMIRNOV Alexey,LUNDQVIST Jens,3,0,"11,11,11|9,7,3",1,GRAND_SLAM,MT,775,Main Draw,SMIRNOV Alexey (RUS),LUNDQVIST Jens (SWE)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KUZMIN Fedor,SVENSSON Robert,3,0,"11,11,13|9,9,11",1,GRAND_SLAM,MT,775,Main Draw,KUZMIN Fedor (RUS),SVENSSON Robert (SWE)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TAKAKIWA Taku,GORAK Daniel,3,1,"11,9,12,11|9,11,10,9",1,GRAND_SLAM,MT,775,Main Draw,TAKAKIWA Taku (JPN),GORAK Daniel (POL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,MATSUDAIRA Kenta,WANG Zengyi,3,1,"11,11,10,11|5,4,12,4",1,GRAND_SLAM,MT,775,Main Draw,MATSUDAIRA Kenta (JPN),WANG Zengyi (POL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CHUANG Chih-Yuan,KEINATH Thomas,3,0,"11,11,11|9,6,1",1,GRAND_SLAM,MT,775,Main Draw,CHUANG Chih-Yuan (TPE),KEINATH Thomas (SVK)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CHIANG Hung-Chieh,PISTEJ Lubomir,3,1,"11,11,6,11|9,5,11,7",1,GRAND_SLAM,MT,775,Main Draw,CHIANG Hung-Chieh (TPE),PISTEJ Lubomir (SVK)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SMIRNOV Alexey,GARDOS Robert,3,2,"4,11,11,6,11|11,2,9,11,5",1,GRAND_SLAM,MT,775,Main Draw,SMIRNOV Alexey (RUS),GARDOS Robert (AUT)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SCHLAGER Werner,KUZMIN Fedor,3,0,"11,11,11|9,7,7",1,GRAND_SLAM,MT,775,Main Draw,SCHLAGER Werner (AUT),KUZMIN Fedor (RUS)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SCHLAGER Werner,SKACHKOV Kirill,3,1,"4,11,11,11|11,8,3,5",1,GRAND_SLAM,MT,775,Main Draw,SCHLAGER Werner (AUT),SKACHKOV Kirill (RUS)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CHIANG Hung-Chieh,TAKAKIWA Taku,3,2,"6,11,11,6,11|11,7,5,11,7",1,GRAND_SLAM,MT,775,Main Draw,CHIANG Hung-Chieh (TPE),TAKAKIWA Taku (JPN)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CHUANG Chih-Yuan,MATSUDAIRA Kenta,3,1,"8,11,11,11|11,7,6,4",1,GRAND_SLAM,MT,775,Main Draw,CHUANG Chih-Yuan (TPE),MATSUDAIRA Kenta (JPN)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TAKAKIWA Taku,WU Chih-Chi,3,2,"11,12,11,4,11|9,14,6,11,8",1,GRAND_SLAM,MT,775,Main Draw,TAKAKIWA Taku (JPN),WU Chih-Chi (TPE)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KISHIKAWA Seiya,CHUANG Chih-Yuan,3,1,"14,3,11,11|12,11,8,8",1,GRAND_SLAM,MT,775,Main Draw,KISHIKAWA Seiya (JPN),CHUANG Chih-Yuan (TPE)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SCHLAGER Werner,TAKAKIWA Taku,3,1,"11,11,6,11|9,6,11,5",1,GRAND_SLAM,MT,775,Main Draw,SCHLAGER Werner (AUT),TAKAKIWA Taku (JPN)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CHEN Weixing,MATSUDAIRA Kenta,3,1,"11,12,6,11|3,10,11,5",1,GRAND_SLAM,MT,775,Main Draw,CHEN Weixing (AUT),MATSUDAIRA Kenta (JPN)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,GARDOS Robert,MATTENET Adrien,3,0,"11,11,12|9,9,10",1,GRAND_SLAM,MT,775,Main Draw,GARDOS Robert (AUT),MATTENET Adrien (FRA)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,HIELSCHER Lars,CHEN Weixing,3,1,"11,3,15,11|9,11,13,6",1,GRAND_SLAM,MT,775,Main Draw,HIELSCHER Lars (GER),CHEN Weixing (AUT)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CHEN Weixing,SKACHKOV Kirill,3,1,"8,11,11,11|11,4,5,3",1,GRAND_SLAM,MT,775,Main Draw,CHEN Weixing (AUT),SKACHKOV Kirill (RUS)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,HIELSCHER Lars,BRATANOV Martin,3,0,"11,11,11|4,8,5",1,GRAND_SLAM,MT,775,Main Draw,HIELSCHER Lars (GER),BRATANOV Martin (BEL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BLASZCZYK Lucjan,REDJEP Ronald,3,0,"12,11,13|10,2,11",1,GRAND_SLAM,MT,775,Main Draw,BLASZCZYK Lucjan (POL),REDJEP Ronald (CRO)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KNIGHT Darius,KEINATH Thomas,3,0,"11,11,13|9,7,11",1,GRAND_SLAM,MT,775,Main Draw,KNIGHT Darius (ENG),KEINATH Thomas (SVK)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PERSSON Jon,DURAN Marc,3,0,"11,11,14|4,8,12",1,GRAND_SLAM,MT,775,Main Draw,PERSSON Jon (SWE),DURAN Marc (ESP)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KISHIKAWA Seiya,BLASZCZYK Lucjan,3,2,"13,9,11,7,11|11,11,7,11,6",1,GRAND_SLAM,MT,775,Main Draw,KISHIKAWA Seiya (JPN),BLASZCZYK Lucjan (POL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KISHIKAWA Seiya,WU Chih-Chi,3,2,"7,12,11,11,14|11,14,6,8,12",1,GRAND_SLAM,MT,775,Main Draw,KISHIKAWA Seiya (JPN),WU Chih-Chi (TPE)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,GARDOS Robert,KISHIKAWA Seiya,3,2,"11,11,7,9,11|7,5,11,11,8",1,GRAND_SLAM,MT,775,Main Draw,GARDOS Robert (AUT),KISHIKAWA Seiya (JPN)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,NAGY Krisztian,SKACHKOV Kirill,3,1,"11,6,11,12|4,11,9,10",1,GRAND_SLAM,MT,775,Main Draw,NAGY Krisztian (HUN),SKACHKOV Kirill (RUS)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SKACHKOV Kirill,PERSSON Jon,3,0,"11,11,11|5,3,8",1,GRAND_SLAM,MT,775,Main Draw,SKACHKOV Kirill (RUS),PERSSON Jon (SWE)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,MONTEIRO Thiago,WU Chih-Chi,3,1,"7,11,11,11|11,4,5,5",1,GRAND_SLAM,MT,775,Main Draw,MONTEIRO Thiago (BRA),WU Chih-Chi (TPE)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,WU Chih-Chi,SEREDA Peter,3,2,"9,11,11,12,11|11,7,8,14,7",1,GRAND_SLAM,MT,775,Main Draw,WU Chih-Chi (TPE),SEREDA Peter (SVK)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,POTA Georgina,KMOTORKOVA Lenka,3,0,"11,11,11|9,7,7",1,GRAND_SLAM,WT,775,Main Draw,POTA Georgina (HUN),KMOTORKOVA Lenka (SVK)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LOVAS Petra,LAZARCIKOVA Simona,3,1,"11,8,12,11|7,11,10,5",1,GRAND_SLAM,WT,775,Main Draw,LOVAS Petra (HUN),LAZARCIKOVA Simona (SVK)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,XU Jie (1982),STRBIKOVA Renata,3,1,"11,6,11,11|7,11,5,4",1,GRAND_SLAM,WT,775,Main Draw,XU Jie (1982) (POL),STRBIKOVA Renata (CZE)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LI Qian,VACENOVSKA Iveta,3,0,"12,11,11|10,8,6",1,GRAND_SLAM,WT,775,Main Draw,LI Qian (POL),VACENOVSKA Iveta (CZE)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,DVORAK Galia,PAOVIC Sandra,3,1,"10,11,11,11|12,5,9,9",1,GRAND_SLAM,WT,775,Main Draw,DVORAK Galia (ESP),PAOVIC Sandra (CRO)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BOROS Tamara,RAMIREZ Sara,3,1,"11,7,11,11|6,11,4,7",1,GRAND_SLAM,WT,775,Main Draw,BOROS Tamara (CRO),RAMIREZ Sara (ESP)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,DVORAK Galia,DURAK Mirela,3,0,"11,11,11|5,9,6",1,GRAND_SLAM,WT,775,Main Draw,DVORAK Galia (ESP),DURAK Mirela (CRO)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LIU Jia,KUZMINA Elena,3,2,"11,7,8,11,12|4,11,11,3,10",1,GRAND_SLAM,WT,775,Main Draw,LIU Jia (AUT),KUZMINA Elena (RUS)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PROKHOROVA Yulia,LI Qiangbing,3,1,"5,11,11,11|11,9,8,9",1,GRAND_SLAM,WT,775,Main Draw,PROKHOROVA Yulia (RUS),LI Qiangbing (AUT)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LOVAS Petra,BAK Natalia,3,0,"12,11,11|10,7,3",1,GRAND_SLAM,WT,775,Main Draw,LOVAS Petra (HUN),BAK Natalia (POL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,POTA Georgina,XU Jie (1982),3,2,"6,11,11,6,11|11,9,4,11,9",1,GRAND_SLAM,WT,775,Main Draw,POTA Georgina (HUN),XU Jie (1982) (POL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,ZHU Fang,KUZMINA Elena,3,0,"11,11,11|7,5,7",1,GRAND_SLAM,WT,775,Main Draw,ZHU Fang (ESP),KUZMINA Elena (RUS)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TIKHOMIROVA Anna,DVORAK Galia,3,0,"11,11,11|9,6,7",1,GRAND_SLAM,WT,775,Main Draw,TIKHOMIROVA Anna (RUS),DVORAK Galia (ESP)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,RAMIREZ Sara,KUZMINA Elena,3,2,"11,3,11,8,11|3,11,5,11,4",1,GRAND_SLAM,WT,775,Main Draw,RAMIREZ Sara (ESP),KUZMINA Elena (RUS)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,POTA Georgina,RAMIREZ Sara,3,0,"11,11,11|7,8,9",1,GRAND_SLAM,WT,775,Main Draw,POTA Georgina (HUN),RAMIREZ Sara (ESP)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BAK Natalia,CECHOVA Dana,3,2,"11,11,9,15,11|8,7,11,17,8",1,GRAND_SLAM,WT,775,Main Draw,BAK Natalia (POL),CECHOVA Dana (CZE)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,ZHU Fang,DURAK Mirela,3,0,"11,11,12|2,4,10",1,GRAND_SLAM,WT,775,Main Draw,ZHU Fang (ESP),DURAK Mirela (CRO)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PROKHOROVA Yulia,RAMIREZ Sara,3,1,"11,11,8,11|7,6,11,9",1,GRAND_SLAM,WT,775,Main Draw,PROKHOROVA Yulia (RUS),RAMIREZ Sara (ESP)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LOVAS Petra,DVORAK Galia,3,2,"11,6,9,11,11|3,11,11,6,5",1,GRAND_SLAM,WT,775,Main Draw,LOVAS Petra (HUN),DVORAK Galia (ESP)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TOTH Krisztina,XU Jie (1982),3,2,"12,11,9,7,11|10,3,11,11,8",1,GRAND_SLAM,WT,775,Main Draw,TOTH Krisztina (HUN),XU Jie (1982) (POL)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TIKHOMIROVA Anna,PETZNER Martina,3,1,"4,11,11,11|11,5,8,3",1,GRAND_SLAM,WT,775,Main Draw,TIKHOMIROVA Anna (RUS),PETZNER Martina (AUT)
-Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TOTH Krisztina,DAUBNEROVA Andrea,3,0,"11,11,11|3,5,5",1,GRAND_SLAM,WT,775,Main Draw,TOTH Krisztina (HUN),DAUBNEROVA Andrea (SVK)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BURGIS Matiss,SEREDA Peter,4,1,"11,11,7,11,11|6,8,11,8,5",,GRAND_SLAM,MS,775,Qualification,BURGIS Matiss (LAT),SEREDA Peter (SVK),BURGIS Matiss
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,FENG Xiaoquan,SEREDA Peter,4,2,"3,7,13,13,12,11|11,11,11,11,10,8",QR2,GRAND_SLAM,MS,775,Qualification,FENG Xiaoquan (AUT),SEREDA Peter (SVK),FENG Xiaoquan
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BURGIS Matiss,FENG Xiaoquan,4,1,"12,8,11,11,11|10,11,7,3,9",3,GRAND_SLAM,MS,775,Qualification,BURGIS Matiss (LAT),FENG Xiaoquan (AUT),BURGIS Matiss
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,GACINA Andrej,SEL Zolt,4,2,"11,11,9,11,7,11|9,9,11,9,11,9",,GRAND_SLAM,MS,775,Qualification,GACINA Andrej (CRO),SEL Zolt (SRB),GACINA Andrej
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,GACINA Andrej,LAKEEV Vasily,4,0,"11,11,11,11|8,3,6,6",QR2,GRAND_SLAM,MS,775,Qualification,GACINA Andrej (CRO),LAKEEV Vasily (RUS),GACINA Andrej
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LAKEEV Vasily,SEL Zolt,4,0,"11,11,11,11|8,6,5,6",3,GRAND_SLAM,MS,775,Qualification,LAKEEV Vasily (RUS),SEL Zolt (SRB),LAKEEV Vasily
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,ZUBCIC Tomislav,LIVENTSOV Alexey,4,1,"11,11,4,11,13|9,8,11,7,11",,GRAND_SLAM,MS,775,Qualification,ZUBCIC Tomislav (CRO),LIVENTSOV Alexey (RUS),ZUBCIC Tomislav
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LIVENTSOV Alexey,FEGERL Stefan,4,1,"6,11,11,11,11|11,7,4,3,2",QR2,GRAND_SLAM,MS,775,Qualification,LIVENTSOV Alexey (RUS),FEGERL Stefan (AUT),LIVENTSOV Alexey
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,FEGERL Stefan,ZUBCIC Tomislav,4,2,"6,11,11,7,11,11|11,9,3,11,8,9",3,GRAND_SLAM,MS,775,Qualification,FEGERL Stefan (AUT),ZUBCIC Tomislav (CRO),FEGERL Stefan
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,RUMGAY Gavin,PISTEJ Lubomir,4,1,"11,11,7,11,11|5,6,11,9,8",,GRAND_SLAM,MS,775,Qualification,RUMGAY Gavin (SCO),PISTEJ Lubomir (SVK),RUMGAY Gavin
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PISTEJ Lubomir,CHMIEL Pawel,4,3,"11,11,6,10,11,8,14|3,6,11,12,9,11,12",QR2,GRAND_SLAM,MS,775,Qualification,PISTEJ Lubomir (SVK),CHMIEL Pawel (POL),PISTEJ Lubomir
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CHMIEL Pawel,RUMGAY Gavin,4,3,"11,8,11,11,8,9,11|6,11,4,8,11,11,9",3,GRAND_SLAM,MS,775,Qualification,CHMIEL Pawel (POL),RUMGAY Gavin (SCO),CHMIEL Pawel
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BAUM Patrick,SZYMANSKI Filip,4,1,"11,11,13,9,11|6,8,11,11,5",,GRAND_SLAM,MS,775,Qualification,BAUM Patrick (GER),SZYMANSKI Filip (POL),BAUM Patrick
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BAUM Patrick,BAGGALEY Andrew,4,0,,QR2,GRAND_SLAM,MS,775,Qualification,BAUM Patrick (GER),BAGGALEY Andrew (ENG),BAUM Patrick
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SZYMANSKI Filip,BAGGALEY Andrew,4,0,,3,GRAND_SLAM,MS,775,Qualification,SZYMANSKI Filip (POL),BAGGALEY Andrew (ENG),SZYMANSKI Filip
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,ZWICKL Daniel,FILUS Ruwen,4,3,"12,11,7,11,3,7,11|10,7,11,5,11,11,9",,GRAND_SLAM,MS,775,Qualification,ZWICKL Daniel (HUN),FILUS Ruwen (GER),ZWICKL Daniel
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SIMONCIK Josef,ZWICKL Daniel,4,3,"11,11,5,7,11,9,11|6,5,11,11,6,11,9",QR2,GRAND_SLAM,MS,775,Qualification,SIMONCIK Josef (CZE),ZWICKL Daniel (HUN),SIMONCIK Josef
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,FILUS Ruwen,SIMONCIK Josef,4,0,"11,11,11,11|8,5,4,7",3,GRAND_SLAM,MS,775,Qualification,FILUS Ruwen (GER),SIMONCIK Josef (CZE),FILUS Ruwen
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,MUSKO Peter,SKACHKOV Kirill,4,0,,,GRAND_SLAM,MS,775,Qualification,MUSKO Peter (HUN),SKACHKOV Kirill (RUS),MUSKO Peter
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BOBILLIER Loic,SKACHKOV Kirill,4,0,,QR2,GRAND_SLAM,MS,775,Qualification,BOBILLIER Loic (FRA),SKACHKOV Kirill (RUS),BOBILLIER Loic
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BOBILLIER Loic,MUSKO Peter,4,1,"7,11,12,11,11|11,9,10,6,9",3,GRAND_SLAM,MS,775,Qualification,BOBILLIER Loic (FRA),MUSKO Peter (HUN),BOBILLIER Loic
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CARNEROS Alfredo,KOLAREK Tomislav,4,1,"9,11,11,11,12|11,1,9,7,10",,GRAND_SLAM,MS,775,Qualification,CARNEROS Alfredo (ESP),KOLAREK Tomislav (CRO),CARNEROS Alfredo
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,MATTENET Adrien,CARNEROS Alfredo,4,0,"11,11,11,11|9,4,4,7",QR2,GRAND_SLAM,MS,775,Qualification,MATTENET Adrien (FRA),CARNEROS Alfredo (ESP),MATTENET Adrien
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,MATTENET Adrien,KOLAREK Tomislav,4,3,"11,11,8,7,10,11,11|9,2,11,11,12,6,7",3,GRAND_SLAM,MS,775,Qualification,MATTENET Adrien (FRA),KOLAREK Tomislav (CRO),MATTENET Adrien
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,FAZEKAS Peter,YORDANOV Teodor,4,0,,,GRAND_SLAM,MS,775,Qualification,FAZEKAS Peter (HUN),YORDANOV Teodor (BUL),FAZEKAS Peter
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,FAZEKAS Peter,GAVLAS Antonin,4,3,"7,12,9,11,11,8,11|11,10,11,7,9,11,8",QR2,GRAND_SLAM,MS,775,Qualification,FAZEKAS Peter (HUN),GAVLAS Antonin (CZE),FAZEKAS Peter
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,GAVLAS Antonin,YORDANOV Teodor,4,0,,3,GRAND_SLAM,MS,775,Qualification,GAVLAS Antonin (CZE),YORDANOV Teodor (BUL),GAVLAS Antonin
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LEBESSON Emmanuel,KNIGHT Darius,4,0,"11,11,11,11|6,5,3,9",,GRAND_SLAM,MS,775,Qualification,LEBESSON Emmanuel (FRA),KNIGHT Darius (ENG),LEBESSON Emmanuel
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LEBESSON Emmanuel,DURAN Marc,4,2,"12,8,11,9,11,11|10,11,7,11,5,7",QR2,GRAND_SLAM,MS,775,Qualification,LEBESSON Emmanuel (FRA),DURAN Marc (ESP),LEBESSON Emmanuel
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,DURAN Marc,KNIGHT Darius,4,2,"12,11,8,8,11,12|10,8,11,11,6,10",3,GRAND_SLAM,MS,775,Qualification,DURAN Marc (ESP),KNIGHT Darius (ENG),DURAN Marc
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,MACHADO Carlos,ROGIERS Benjamin,4,1,"11,11,6,12,11|4,7,11,10,3",,GRAND_SLAM,MS,775,Qualification,MACHADO Carlos (ESP),ROGIERS Benjamin (BEL),MACHADO Carlos
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,MACHADO Carlos,MATSUMOTO Cazuo,4,2,"11,11,8,6,11,11|3,8,11,11,9,8",QR2,GRAND_SLAM,MS,775,Qualification,MACHADO Carlos (ESP),MATSUMOTO Cazuo (BRA),MACHADO Carlos
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,ROGIERS Benjamin,MATSUMOTO Cazuo,4,2,"8,8,13,11,11,12|11,11,11,7,8,10",3,GRAND_SLAM,MS,775,Qualification,ROGIERS Benjamin (BEL),MATSUMOTO Cazuo (BRA),ROGIERS Benjamin
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,HABESOHN Daniel,NAGY Krisztian,4,1,"8,11,12,13,11|11,3,10,11,9",,GRAND_SLAM,MS,775,Qualification,HABESOHN Daniel (AUT),NAGY Krisztian (HUN),HABESOHN Daniel
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,REED Daniel,BARDON Michal,4,0,,QR2,GRAND_SLAM,MS,775,Qualification,REED Daniel (ENG),BARDON Michal (SVK),REED Daniel
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,HABESOHN Daniel,BARDON Michal,4,0,,3,GRAND_SLAM,MS,775,Qualification,HABESOHN Daniel (AUT),BARDON Michal (SVK),HABESOHN Daniel
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,NAGY Krisztian,REED Daniel,4,0,"11,11,11,11|8,6,5,9",QR4,GRAND_SLAM,MS,775,Qualification,NAGY Krisztian (HUN),REED Daniel (ENG),NAGY Krisztian
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,NAGY Krisztian,BARDON Michal,4,0,,5,GRAND_SLAM,MS,775,Qualification,NAGY Krisztian (HUN),BARDON Michal (SVK),NAGY Krisztian
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,HABESOHN Daniel,REED Daniel,4,0,"11,11,11,11|5,6,9,5",6,GRAND_SLAM,MS,775,Qualification,HABESOHN Daniel (AUT),REED Daniel (ENG),HABESOHN Daniel
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TSUBOI Gustavo,PICHLER Michael,4,0,"11,11,11,11|6,7,6,7",,GRAND_SLAM,MS,775,Qualification,TSUBOI Gustavo (BRA),PICHLER Michael (AUT),TSUBOI Gustavo
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KONECNY Tomas,MASSAAD Adel,4,0,,QR2,GRAND_SLAM,MS,775,Qualification,KONECNY Tomas (CZE),MASSAAD Adel (EGY),KONECNY Tomas
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KONECNY Tomas,TSUBOI Gustavo,4,0,"11,11,11,11|5,8,8,8",3,GRAND_SLAM,MS,775,Qualification,KONECNY Tomas (CZE),TSUBOI Gustavo (BRA),KONECNY Tomas
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PICHLER Michael,MASSAAD Adel,4,0,,QR4,GRAND_SLAM,MS,775,Qualification,PICHLER Michael (AUT),MASSAAD Adel (EGY),PICHLER Michael
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KONECNY Tomas,PICHLER Michael,4,0,"11,13,11,11|8,11,6,3",5,GRAND_SLAM,MS,775,Qualification,KONECNY Tomas (CZE),PICHLER Michael (AUT),KONECNY Tomas
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TSUBOI Gustavo,MASSAAD Adel,4,0,,6,GRAND_SLAM,MS,775,Qualification,TSUBOI Gustavo (BRA),MASSAAD Adel (EGY),TSUBOI Gustavo
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PERSSON Jon,MADRID Marcos,4,1,"11,8,12,11,11|8,11,10,7,6",,GRAND_SLAM,MS,775,Qualification,PERSSON Jon (SWE),MADRID Marcos (MEX),PERSSON Jon
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,OBESLO Michal,PRESSLMAYER Bernhard,4,1,"12,8,11,11,11|10,11,8,9,8",QR2,GRAND_SLAM,MS,775,Qualification,OBESLO Michal (CZE),PRESSLMAYER Bernhard (AUT),OBESLO Michal
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PRESSLMAYER Bernhard,PERSSON Jon,4,3,"11,6,14,8,11,7,11|2,11,12,11,5,11,3",3,GRAND_SLAM,MS,775,Qualification,PRESSLMAYER Bernhard (AUT),PERSSON Jon (SWE),PRESSLMAYER Bernhard
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,OBESLO Michal,MADRID Marcos,4,0,"11,11,11,13|6,6,5,11",QR4,GRAND_SLAM,MS,775,Qualification,OBESLO Michal (CZE),MADRID Marcos (MEX),OBESLO Michal
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PRESSLMAYER Bernhard,MADRID Marcos,4,0,"11,11,11,11|7,6,4,5",5,GRAND_SLAM,MS,775,Qualification,PRESSLMAYER Bernhard (AUT),MADRID Marcos (MEX),PRESSLMAYER Bernhard
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,OBESLO Michal,PERSSON Jon,4,0,"11,11,11,11|9,9,6,9",6,GRAND_SLAM,MS,775,Qualification,OBESLO Michal (CZE),PERSSON Jon (SWE),OBESLO Michal
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,REDJEP Ronald,MICHELY Gilles,4,0,"11,11,11,11|9,5,2,4",,GRAND_SLAM,MS,775,Qualification,REDJEP Ronald (CRO),MICHELY Gilles (LUX),REDJEP Ronald
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,ROBERTSON Adam,VITTA Kilomo,4,3,"7,11,11,5,11,11,12|11,9,8,11,6,13,10",QR2,GRAND_SLAM,MS,775,Qualification,ROBERTSON Adam (WAL),VITTA Kilomo (BEL),ROBERTSON Adam
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,ROBERTSON Adam,REDJEP Ronald,4,2,"11,11,7,9,11,11|4,8,11,11,7,7",3,GRAND_SLAM,MS,775,Qualification,ROBERTSON Adam (WAL),REDJEP Ronald (CRO),ROBERTSON Adam
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,MICHELY Gilles,VITTA Kilomo,4,2,"7,11,4,12,12,11|11,7,11,10,10,9",QR4,GRAND_SLAM,MS,775,Qualification,MICHELY Gilles (LUX),VITTA Kilomo (BEL),MICHELY Gilles
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,ROBERTSON Adam,MICHELY Gilles,4,1,"11,11,9,11,11|5,5,11,8,8",5,GRAND_SLAM,MS,775,Qualification,ROBERTSON Adam (WAL),MICHELY Gilles (LUX),ROBERTSON Adam
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,REDJEP Ronald,VITTA Kilomo,4,3,"11,10,5,11,11,6,11|8,12,11,2,6,11,6",6,GRAND_SLAM,MS,775,Qualification,REDJEP Ronald (CRO),VITTA Kilomo (BEL),REDJEP Ronald
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BOLL Timo,PRESSLMAYER Bernhard,4,0,"11,11,11,11|5,3,6,1",R64,GRAND_SLAM,MS,775,Main Draw,BOLL Timo (GER),PRESSLMAYER Bernhard (AUT),BOLL Timo
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,GACINA Andrej,KUZMIN Fedor,4,2,"11,11,11,6,8,11|3,7,5,11,11,5",R64,GRAND_SLAM,MS,775,Main Draw,GACINA Andrej (CRO),KUZMIN Fedor (RUS),GACINA Andrej
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BURGIS Matiss,CHIANG Hung-Chieh,4,1,"11,11,4,11,11|5,9,11,4,8",R64,GRAND_SLAM,MS,775,Main Draw,BURGIS Matiss (LAT),CHIANG Hung-Chieh (TPE),BURGIS Matiss
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BLASZCZYK Lucjan,LIVENTSOV Alexey,4,0,"11,11,11,11|4,7,8,6",R64,GRAND_SLAM,MS,775,Main Draw,BLASZCZYK Lucjan (POL),LIVENTSOV Alexey (RUS),BLASZCZYK Lucjan
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,MONTEIRO Joao,ROGIERS Benjamin,4,1,"11,12,9,11,11|7,10,11,7,5",R64,GRAND_SLAM,MS,775,Main Draw,MONTEIRO Joao (POR),ROGIERS Benjamin (BEL),MONTEIRO Joao
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,ROBERTSON Adam,HIELSCHER Lars,4,3,"9,12,11,2,11,5,11|11,10,9,11,7,11,4",R64,GRAND_SLAM,MS,775,Main Draw,ROBERTSON Adam (WAL),HIELSCHER Lars (GER),ROBERTSON Adam
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,FREITAS Marcos,ZUBCIC Tomislav,4,2,"11,11,12,11,12,13|8,5,14,4,14,11",R64,GRAND_SLAM,MS,775,Main Draw,FREITAS Marcos (POR),ZUBCIC Tomislav (CRO),FREITAS Marcos
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PRIMORAC Zoran,TSUBOI Gustavo,4,1,"11,6,11,11,15|8,11,7,5,13",R64,GRAND_SLAM,MS,775,Main Draw,PRIMORAC Zoran (CRO),TSUBOI Gustavo (BRA),PRIMORAC Zoran
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,ZWICKL Daniel,CHEN Weixing,4,0,,R64,GRAND_SLAM,MS,775,Main Draw,ZWICKL Daniel (HUN),CHEN Weixing (AUT),ZWICKL Daniel
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BAUM Patrick,WU Chih-Chi,4,0,"12,11,11,12|10,8,7,10",R64,GRAND_SLAM,MS,775,Main Draw,BAUM Patrick (GER),WU Chih-Chi (TPE),BAUM Patrick
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,DRINKHALL Paul,ACHANTA Sharath,4,1,"11,11,11,13,11|5,7,8,15,9",R64,GRAND_SLAM,MS,775,Main Draw,DRINKHALL Paul (ENG),ACHANTA Sharath (IND),DRINKHALL Paul
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SMIRNOV Alexey,FENG Xiaoquan,4,1,"8,11,11,11,11|11,9,8,8,5",R64,GRAND_SLAM,MS,775,Main Draw,SMIRNOV Alexey (RUS),FENG Xiaoquan (AUT),SMIRNOV Alexey
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,GARDOS Robert,MUSKO Peter,4,1,"11,11,9,11,11|7,6,11,3,4",R64,GRAND_SLAM,MS,775,Main Draw,GARDOS Robert (AUT),MUSKO Peter (HUN),GARDOS Robert
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KONECNY Tomas,TAKAKIWA Taku,4,2,"11,11,11,8,4,11|9,6,6,11,11,7",R64,GRAND_SLAM,MS,775,Main Draw,KONECNY Tomas (CZE),TAKAKIWA Taku (JPN),KONECNY Tomas
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,FAZEKAS Peter,KEINATH Thomas,4,2,"12,11,8,11,13,12|14,9,11,7,11,10",R64,GRAND_SLAM,MS,775,Main Draw,FAZEKAS Peter (HUN),KEINATH Thomas (SVK),FAZEKAS Peter
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SCHLAGER Werner,GAVLAS Antonin,4,0,"11,11,11,11|8,4,5,6",R64,GRAND_SLAM,MS,775,Main Draw,SCHLAGER Werner (AUT),GAVLAS Antonin (CZE),SCHLAGER Werner
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,OVTCHAROV Dimitrij,NAGY Krisztian,4,3,"9,8,11,11,11,11,11|11,11,9,6,13,9,9",R64,GRAND_SLAM,MS,775,Main Draw,OVTCHAROV Dimitrij (GER),NAGY Krisztian (HUN),OVTCHAROV Dimitrij
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,APOLONIA Tiago,FILUS Ruwen,4,0,"11,14,11,12|7,12,1,10",R64,GRAND_SLAM,MS,775,Main Draw,APOLONIA Tiago (POR),FILUS Ruwen (GER),APOLONIA Tiago
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SVENSSON Robert,LEBESSON Emmanuel,4,1,"7,11,11,11,11|11,9,8,6,5",R64,GRAND_SLAM,MS,775,Main Draw,SVENSSON Robert (SWE),LEBESSON Emmanuel (FRA),SVENSSON Robert
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LUNDQVIST Jens,LAKEEV Vasily,4,3,"6,11,6,11,11,11,11|11,4,11,4,13,6,7",R64,GRAND_SLAM,MS,775,Main Draw,LUNDQVIST Jens (SWE),LAKEEV Vasily (RUS),LUNDQVIST Jens
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CHMIEL Pawel,MONTEIRO Thiago,4,3,"11,11,11,8,15,9,11|4,8,6,11,17,11,7",R64,GRAND_SLAM,MS,775,Main Draw,CHMIEL Pawel (POL),MONTEIRO Thiago (BRA),CHMIEL Pawel
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,MATTENET Adrien,GORAK Daniel,4,1,"4,11,11,11,11|11,8,5,7,9",R64,GRAND_SLAM,MS,775,Main Draw,MATTENET Adrien (FRA),GORAK Daniel (POL),MATTENET Adrien
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,WANG Zengyi,OBESLO Michal,4,0,"11,11,11,11|1,6,9,6",R64,GRAND_SLAM,MS,775,Main Draw,WANG Zengyi (POL),OBESLO Michal (CZE),WANG Zengyi
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,MAZE Michael,SZYMANSKI Filip,4,0,"11,11,11,12|6,3,9,10",R64,GRAND_SLAM,MS,775,Main Draw,MAZE Michael (DEN),SZYMANSKI Filip (POL),MAZE Michael
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SAIVE Jean-Michel,JANCARIK Lubomir,4,1,"11,12,12,6,11|6,10,10,11,7",R64,GRAND_SLAM,MS,775,Main Draw,SAIVE Jean-Michel (BEL),JANCARIK Lubomir (CZE),SAIVE Jean-Michel
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PAZSY Ferenc,RUMGAY Gavin,4,1,"4,11,11,11,14|11,9,6,8,12",R64,GRAND_SLAM,MS,775,Main Draw,PAZSY Ferenc (HUN),RUMGAY Gavin (SCO),PAZSY Ferenc
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,MATSUDAIRA Kenta,MACHADO Carlos,4,0,"11,11,11,11|7,6,5,9",R64,GRAND_SLAM,MS,775,Main Draw,MATSUDAIRA Kenta (JPN),MACHADO Carlos (ESP),MATSUDAIRA Kenta
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,STEGER Bastian,DURAN Marc,4,0,"11,11,11,11|1,5,8,7",R64,GRAND_SLAM,MS,775,Main Draw,STEGER Bastian (GER),DURAN Marc (ESP),STEGER Bastian
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KISHIKAWA Seiya,CARNEROS Alfredo,4,0,"11,11,13,11|9,7,11,2",R64,GRAND_SLAM,MS,775,Main Draw,KISHIKAWA Seiya (JPN),CARNEROS Alfredo (ESP),KISHIKAWA Seiya
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TOSIC Roko,BOBILLIER Loic,4,3,"11,8,11,7,11,6,11|6,11,7,11,7,11,8",R64,GRAND_SLAM,MS,775,Main Draw,TOSIC Roko (CRO),BOBILLIER Loic (FRA),TOSIC Roko
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,HABESOHN Daniel,BOBOCICA Mihai,4,2,"12,4,11,11,7,12|10,11,6,6,11,10",R64,GRAND_SLAM,MS,775,Main Draw,HABESOHN Daniel (AUT),BOBOCICA Mihai (ITA),HABESOHN Daniel
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CHUANG Chih-Yuan,REDJEP Ronald,4,0,"11,11,11,11|7,5,8,4",R64,GRAND_SLAM,MS,775,Main Draw,CHUANG Chih-Yuan (TPE),REDJEP Ronald (CRO),CHUANG Chih-Yuan
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BOLL Timo,GACINA Andrej,4,1,"12,11,11,11,11|14,5,9,3,3",R32,GRAND_SLAM,MS,775,Main Draw,BOLL Timo (GER),GACINA Andrej (CRO),BOLL Timo
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BLASZCZYK Lucjan,BURGIS Matiss,4,2,"9,11,6,11,11,15|11,5,11,8,4,13",R32,GRAND_SLAM,MS,775,Main Draw,BLASZCZYK Lucjan (POL),BURGIS Matiss (LAT),BLASZCZYK Lucjan
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,MONTEIRO Joao,ROBERTSON Adam,4,2,"4,9,11,11,11,13|11,11,2,9,7,11",R32,GRAND_SLAM,MS,775,Main Draw,MONTEIRO Joao (POR),ROBERTSON Adam (WAL),MONTEIRO Joao
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PRIMORAC Zoran,FREITAS Marcos,4,2,"8,7,11,11,11,11|11,11,7,7,5,7",R32,GRAND_SLAM,MS,775,Main Draw,PRIMORAC Zoran (CRO),FREITAS Marcos (POR),PRIMORAC Zoran
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BAUM Patrick,ZWICKL Daniel,4,1,"11,7,11,12,11|6,11,7,10,3",R32,GRAND_SLAM,MS,775,Main Draw,BAUM Patrick (GER),ZWICKL Daniel (HUN),BAUM Patrick
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,DRINKHALL Paul,SMIRNOV Alexey,4,3,"7,12,4,11,11,6,11|11,10,11,8,2,11,6",R32,GRAND_SLAM,MS,775,Main Draw,DRINKHALL Paul (ENG),SMIRNOV Alexey (RUS),DRINKHALL Paul
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,GARDOS Robert,KONECNY Tomas,4,1,"11,4,11,12,11|6,11,4,10,9",R32,GRAND_SLAM,MS,775,Main Draw,GARDOS Robert (AUT),KONECNY Tomas (CZE),GARDOS Robert
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SCHLAGER Werner,FAZEKAS Peter,4,1,"13,11,11,13,11|15,7,5,11,9",R32,GRAND_SLAM,MS,775,Main Draw,SCHLAGER Werner (AUT),FAZEKAS Peter (HUN),SCHLAGER Werner
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,OVTCHAROV Dimitrij,APOLONIA Tiago,4,3,"14,11,6,11,9,5,11|12,7,11,7,11,11,7",R32,GRAND_SLAM,MS,775,Main Draw,OVTCHAROV Dimitrij (GER),APOLONIA Tiago (POR),OVTCHAROV Dimitrij
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LUNDQVIST Jens,SVENSSON Robert,4,2,"9,13,11,4,15,13|11,11,4,11,13,11",R32,GRAND_SLAM,MS,775,Main Draw,LUNDQVIST Jens (SWE),SVENSSON Robert (SWE),LUNDQVIST Jens
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,MATTENET Adrien,CHMIEL Pawel,4,0,"11,11,11,11|8,4,3,7",R32,GRAND_SLAM,MS,775,Main Draw,MATTENET Adrien (FRA),CHMIEL Pawel (POL),MATTENET Adrien
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,WANG Zengyi,MAZE Michael,4,1,"11,11,11,6,12|8,6,8,11,10",R32,GRAND_SLAM,MS,775,Main Draw,WANG Zengyi (POL),MAZE Michael (DEN),WANG Zengyi
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SAIVE Jean-Michel,PAZSY Ferenc,4,1,"11,11,12,9,11|8,6,10,11,8",R32,GRAND_SLAM,MS,775,Main Draw,SAIVE Jean-Michel (BEL),PAZSY Ferenc (HUN),SAIVE Jean-Michel
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,STEGER Bastian,MATSUDAIRA Kenta,4,3,"11,12,10,11,12,11,11|9,14,12,8,14,8,9",R32,GRAND_SLAM,MS,775,Main Draw,STEGER Bastian (GER),MATSUDAIRA Kenta (JPN),STEGER Bastian
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KISHIKAWA Seiya,TOSIC Roko,4,1,"11,17,11,8,11|8,15,8,11,9",R32,GRAND_SLAM,MS,775,Main Draw,KISHIKAWA Seiya (JPN),TOSIC Roko (CRO),KISHIKAWA Seiya
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CHUANG Chih-Yuan,HABESOHN Daniel,4,0,"11,11,11,14|3,6,4,12",R32,GRAND_SLAM,MS,775,Main Draw,CHUANG Chih-Yuan (TPE),HABESOHN Daniel (AUT),CHUANG Chih-Yuan
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BOLL Timo,BLASZCZYK Lucjan,4,0,"11,11,11,11|1,7,5,5",R16,GRAND_SLAM,MS,775,Main Draw,BOLL Timo (GER),BLASZCZYK Lucjan (POL),BOLL Timo
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PRIMORAC Zoran,MONTEIRO Joao,4,2,"11,13,12,4,5,11|6,11,10,11,11,8",R16,GRAND_SLAM,MS,775,Main Draw,PRIMORAC Zoran (CRO),MONTEIRO Joao (POR),PRIMORAC Zoran
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BAUM Patrick,DRINKHALL Paul,4,1,"11,11,6,11,11|6,9,11,5,3",R16,GRAND_SLAM,MS,775,Main Draw,BAUM Patrick (GER),DRINKHALL Paul (ENG),BAUM Patrick
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SCHLAGER Werner,GARDOS Robert,4,1,"11,11,11,12,11|6,6,13,10,6",R16,GRAND_SLAM,MS,775,Main Draw,SCHLAGER Werner (AUT),GARDOS Robert (AUT),SCHLAGER Werner
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,OVTCHAROV Dimitrij,LUNDQVIST Jens,4,1,"9,11,11,11,11|11,2,9,5,3",R16,GRAND_SLAM,MS,775,Main Draw,OVTCHAROV Dimitrij (GER),LUNDQVIST Jens (SWE),OVTCHAROV Dimitrij
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,WANG Zengyi,MATTENET Adrien,4,1,"11,6,11,11,11|6,11,9,5,6",R16,GRAND_SLAM,MS,775,Main Draw,WANG Zengyi (POL),MATTENET Adrien (FRA),WANG Zengyi
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,STEGER Bastian,SAIVE Jean-Michel,4,3,"11,11,4,11,7,4,11|7,3,11,3,11,11,7",R16,GRAND_SLAM,MS,775,Main Draw,STEGER Bastian (GER),SAIVE Jean-Michel (BEL),STEGER Bastian
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CHUANG Chih-Yuan,KISHIKAWA Seiya,4,1,"8,11,11,11,11|11,8,7,9,9",R16,GRAND_SLAM,MS,775,Main Draw,CHUANG Chih-Yuan (TPE),KISHIKAWA Seiya (JPN),CHUANG Chih-Yuan
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BOLL Timo,PRIMORAC Zoran,4,0,"11,11,11,11|7,5,8,9",QF,GRAND_SLAM,MS,775,Main Draw,BOLL Timo (GER),PRIMORAC Zoran (CRO),BOLL Timo
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BAUM Patrick,SCHLAGER Werner,4,3,"7,11,11,11,8,1,13|11,8,2,8,11,11,11",QF,GRAND_SLAM,MS,775,Main Draw,BAUM Patrick (GER),SCHLAGER Werner (AUT),BAUM Patrick
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,WANG Zengyi,OVTCHAROV Dimitrij,4,3,"14,11,12,6,11,9,11|12,13,10,11,4,11,9",QF,GRAND_SLAM,MS,775,Main Draw,WANG Zengyi (POL),OVTCHAROV Dimitrij (GER),WANG Zengyi
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CHUANG Chih-Yuan,STEGER Bastian,4,1,"8,11,11,11,12|11,3,3,5,10",QF,GRAND_SLAM,MS,775,Main Draw,CHUANG Chih-Yuan (TPE),STEGER Bastian (GER),CHUANG Chih-Yuan
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BOLL Timo,BAUM Patrick,4,0,"11,11,11,11|7,8,7,2",SF,GRAND_SLAM,MS,775,Main Draw,BOLL Timo (GER),BAUM Patrick (GER),BOLL Timo
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CHUANG Chih-Yuan,WANG Zengyi,4,3,"11,11,11,8,11,9,11|7,13,7,11,4,11,4",SF,GRAND_SLAM,MS,775,Main Draw,CHUANG Chih-Yuan (TPE),WANG Zengyi (POL),CHUANG Chih-Yuan
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BOLL Timo,CHUANG Chih-Yuan,4,0,"11,11,11,11|7,4,8,8",F,GRAND_SLAM,MS,775,Main Draw,BOLL Timo (GER),CHUANG Chih-Yuan (TPE),BOLL Timo
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,DRINKHALL Paul,CHMIEL Piotr,4,0,"11,11,11,11|7,9,9,7",,GRAND_SLAM,MS,775,Qualification,DRINKHALL Paul (ENG),CHMIEL Piotr (POL),DRINKHALL Paul
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,JANCARIK Lubomir,MEHTA Pathik,4,0,"11,18,11,11|9,16,6,7",QR2,GRAND_SLAM,MS,775,Qualification,JANCARIK Lubomir (CZE),MEHTA Pathik (IND),JANCARIK Lubomir
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,DRINKHALL Paul,JANCARIK Lubomir,4,1,"11,11,11,9,13|7,9,9,11,11",3,GRAND_SLAM,MS,775,Qualification,DRINKHALL Paul (ENG),JANCARIK Lubomir (CZE),DRINKHALL Paul
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CHMIEL Piotr,MEHTA Pathik,4,1,"11,9,11,11,11|5,11,3,9,9",QR4,GRAND_SLAM,MS,775,Qualification,CHMIEL Piotr (POL),MEHTA Pathik (IND),CHMIEL Piotr
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,JANCARIK Lubomir,CHMIEL Piotr,4,3,"5,11,7,11,7,11,12|11,7,11,3,11,2,10",5,GRAND_SLAM,MS,775,Qualification,JANCARIK Lubomir (CZE),CHMIEL Piotr (POL),JANCARIK Lubomir
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,DRINKHALL Paul,MEHTA Pathik,4,2,"10,11,9,11,12,11|12,5,11,3,10,5",6,GRAND_SLAM,MS,775,Qualification,DRINKHALL Paul (ENG),MEHTA Pathik (IND),DRINKHALL Paul
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,VINOGRADOVA Mariia,HAAN Simone,4,0,"12,13,11,11|10,11,3,2",,GRAND_SLAM,WS,775,Qualification,VINOGRADOVA Mariia (RUS),HAAN Simone (LUX),VINOGRADOVA Mariia
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KMOTORKOVA Lenka,HAAN Simone,4,1,"16,11,4,11,11|14,9,11,6,4",QR2,GRAND_SLAM,WS,775,Qualification,KMOTORKOVA Lenka (SVK),HAAN Simone (LUX),KMOTORKOVA Lenka
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KMOTORKOVA Lenka,VINOGRADOVA Mariia,4,3,"11,11,12,9,11,12,13|8,7,14,11,6,14,11",3,GRAND_SLAM,WS,775,Qualification,KMOTORKOVA Lenka (SVK),VINOGRADOVA Mariia (RUS),KMOTORKOVA Lenka
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,OWEN Naomi,LAZARCIKOVA Simona,4,1,"11,2,11,11,11|6,11,9,5,6",,GRAND_SLAM,WS,775,Qualification,OWEN Naomi (WAL),LAZARCIKOVA Simona (SVK),OWEN Naomi
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TIKHOMIROVA Anna,LAZARCIKOVA Simona,4,0,"11,11,11,11|5,2,6,4",QR2,GRAND_SLAM,WS,775,Qualification,TIKHOMIROVA Anna (RUS),LAZARCIKOVA Simona (SVK),TIKHOMIROVA Anna
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TIKHOMIROVA Anna,OWEN Naomi,4,2,"2,11,10,11,11,11|11,7,12,6,9,6",3,GRAND_SLAM,WS,775,Qualification,TIKHOMIROVA Anna (RUS),OWEN Naomi (WAL),TIKHOMIROVA Anna
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LIU Na,PETZNER Martina,4,1,"11,11,7,13,11|7,9,11,11,7",,GRAND_SLAM,WS,775,Qualification,LIU Na (IRL),PETZNER Martina (AUT),LIU Na
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KUZMINA Elena,LIU Na,4,0,"12,14,11,11|10,12,7,5",QR2,GRAND_SLAM,WS,775,Qualification,KUZMINA Elena (RUS),LIU Na (IRL),KUZMINA Elena
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KUZMINA Elena,PETZNER Martina,4,1,"9,13,11,11,11|11,11,4,6,9",3,GRAND_SLAM,WS,775,Qualification,KUZMINA Elena (RUS),PETZNER Martina (AUT),KUZMINA Elena
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,DURAK Mirela,JURIC Monika,4,0,"11,11,11,11|7,6,6,4",,GRAND_SLAM,WS,775,Qualification,DURAK Mirela (CRO),JURIC Monika (AUT),DURAK Mirela
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,MIKHAILOVA Polina,JURIC Monika,4,0,"11,11,11,11|3,4,3,4",QR2,GRAND_SLAM,WS,775,Qualification,MIKHAILOVA Polina (RUS),JURIC Monika (AUT),MIKHAILOVA Polina
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,MIKHAILOVA Polina,DURAK Mirela,4,2,"11,11,11,11,9,13|13,7,4,9,11,11",3,GRAND_SLAM,WS,775,Qualification,MIKHAILOVA Polina (RUS),DURAK Mirela (CRO),MIKHAILOVA Polina
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,NONAKA Mariany,KOVACS Karina,4,0,"13,11,11,14|11,7,3,12",,GRAND_SLAM,WS,775,Qualification,NONAKA Mariany (BRA),KOVACS Karina (AUT),NONAKA Mariany
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TIMINA Yana,KOVACS Karina,4,0,"11,11,11,11|6,6,3,1",QR2,GRAND_SLAM,WS,775,Qualification,TIMINA Yana (NED),KOVACS Karina (AUT),TIMINA Yana
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TIMINA Yana,NONAKA Mariany,4,3,"12,5,9,11,11,8,11|10,11,11,8,9,11,6",3,GRAND_SLAM,WS,775,Qualification,TIMINA Yana (NED),NONAKA Mariany (BRA),TIMINA Yana
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PETERMAN-VARGA Timea,SCHATZER Claudia,4,2,"13,8,11,11,17,11|11,11,6,7,19,5",,GRAND_SLAM,WS,775,Qualification,PETERMAN-VARGA Timea (HUN),SCHATZER Claudia (AUT),PETERMAN-VARGA Timea
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BAK Natalia,SCHATZER Claudia,4,0,"11,11,11,11|3,3,7,5",QR2,GRAND_SLAM,WS,775,Qualification,BAK Natalia (POL),SCHATZER Claudia (AUT),BAK Natalia
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PETERMAN-VARGA Timea,BAK Natalia,4,1,"6,11,11,11,11|11,6,9,8,8",3,GRAND_SLAM,WS,775,Qualification,PETERMAN-VARGA Timea (HUN),BAK Natalia (POL),PETERMAN-VARGA Timea
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PIETKIEWICZ Monika,LUGINGER Melanie,4,0,"11,12,11,11|7,10,5,4",,GRAND_SLAM,WS,775,Qualification,PIETKIEWICZ Monika (POL),LUGINGER Melanie (AUT),PIETKIEWICZ Monika
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,WINTER Sabine,DAUBNEROVA Andrea,4,3,"9,11,18,6,17,11,11|11,7,16,11,19,5,4",QR2,GRAND_SLAM,WS,775,Qualification,WINTER Sabine (GER),DAUBNEROVA Andrea (SVK),WINTER Sabine
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PIETKIEWICZ Monika,DAUBNEROVA Andrea,4,1,"11,11,12,8,11|5,9,10,11,4",3,GRAND_SLAM,WS,775,Qualification,PIETKIEWICZ Monika (POL),DAUBNEROVA Andrea (SVK),PIETKIEWICZ Monika
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,WINTER Sabine,LUGINGER Melanie,4,0,"11,11,11,11|6,7,3,8",QR4,GRAND_SLAM,WS,775,Qualification,WINTER Sabine (GER),LUGINGER Melanie (AUT),WINTER Sabine
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PIETKIEWICZ Monika,WINTER Sabine,4,1,"11,9,11,14,11|7,11,8,12,7",5,GRAND_SLAM,WS,775,Qualification,PIETKIEWICZ Monika (POL),WINTER Sabine (GER),PIETKIEWICZ Monika
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,DAUBNEROVA Andrea,LUGINGER Melanie,4,0,"11,11,11,11|5,6,9,6",6,GRAND_SLAM,WS,775,Qualification,DAUBNEROVA Andrea (SVK),LUGINGER Melanie (AUT),DAUBNEROVA Andrea
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,STRBIKOVA Renata,MIKHAILOVA Polina,4,2,"11,7,4,11,11,14|4,11,11,6,6,12",R64,GRAND_SLAM,WS,775,Main Draw,STRBIKOVA Renata (CZE),MIKHAILOVA Polina (RUS),STRBIKOVA Renata
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,DRINKHALL Joanna,HAAN Simone,4,0,"11,11,11,11|9,9,9,7",R64,GRAND_SLAM,WS,775,Main Draw,DRINKHALL Joanna (ENG),HAAN Simone (LUX),DRINKHALL Joanna
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,HIURA Reiko,LAZARCIKOVA Simona,4,0,"11,11,11,11|9,7,4,3",R64,GRAND_SLAM,WS,775,Main Draw,HIURA Reiko (JPN),LAZARCIKOVA Simona (SVK),HIURA Reiko
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PAOVIC Sandra,KOVACS Karina,4,0,"11,11,11,11|5,6,4,6",R64,GRAND_SLAM,WS,775,Main Draw,PAOVIC Sandra (CRO),KOVACS Karina (AUT),PAOVIC Sandra
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,EKHOLM Matilda,BAK Natalia,4,1,"11,11,10,12,11|5,4,12,10,4",R64,GRAND_SLAM,WS,775,Main Draw,EKHOLM Matilda (SWE),BAK Natalia (POL),EKHOLM Matilda
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KRAMER Tanja,DURAK Mirela,4,1,"11,16,8,11,11|6,14,11,8,4",R64,GRAND_SLAM,WS,775,Main Draw,KRAMER Tanja (GER),DURAK Mirela (CRO),KRAMER Tanja
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,STEFANSKA Kinga,SCHATZER Claudia,4,0,"11,11,11,11|7,6,6,7",R64,GRAND_SLAM,WS,775,Main Draw,STEFANSKA Kinga (POL),SCHATZER Claudia (AUT),STEFANSKA Kinga
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PROKHOROVA Yulia,KMOTORKOVA Lenka,4,0,"11,11,11,11|9,8,9,7",R64,GRAND_SLAM,WS,775,Main Draw,PROKHOROVA Yulia (RUS),KMOTORKOVA Lenka (SVK),PROKHOROVA Yulia
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,ZHU Fang,DAUBNEROVA Andrea,4,0,"11,11,11,11|8,9,5,3",R64,GRAND_SLAM,WS,775,Main Draw,ZHU Fang (ESP),DAUBNEROVA Andrea (SVK),ZHU Fang
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BOLLMEIER Nadine,VINOGRADOVA Mariia,4,2,"11,12,11,11,10,15|6,10,9,13,12,13",R64,GRAND_SLAM,WS,775,Main Draw,BOLLMEIER Nadine (GER),VINOGRADOVA Mariia (RUS),BOLLMEIER Nadine
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,VACENOVSKA Iveta,WINTER Sabine,4,1,"11,11,11,11,11|9,4,13,5,8",R64,GRAND_SLAM,WS,775,Main Draw,VACENOVSKA Iveta (CZE),WINTER Sabine (GER),VACENOVSKA Iveta
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,RAMIREZ Sara,PIETKIEWICZ Monika,4,2,"11,10,13,11,8,11|9,12,11,4,11,9",R64,GRAND_SLAM,WS,775,Main Draw,RAMIREZ Sara (ESP),PIETKIEWICZ Monika (POL),RAMIREZ Sara
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,ROBERTSON Laura,TIMINA Yana,4,0,"14,11,11,11|12,6,7,8",R64,GRAND_SLAM,WS,775,Main Draw,ROBERTSON Laura (GER),TIMINA Yana (NED),ROBERTSON Laura
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,XU Jie (1982),LUGINGER Melanie,4,0,"11,11,11,11|4,3,3,2",R64,GRAND_SLAM,WS,775,Main Draw,XU Jie (1982) (POL),LUGINGER Melanie (AUT),XU Jie (1982)
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,POTA Georgina,PETZNER Martina,4,2,"11,11,6,11,11,11|6,13,11,3,2,8",R64,GRAND_SLAM,WS,775,Main Draw,POTA Georgina (HUN),PETZNER Martina (AUT),POTA Georgina
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KERTAI Rita,OWEN Naomi,4,0,"11,11,11,11|5,4,7,6",R64,GRAND_SLAM,WS,775,Main Draw,KERTAI Rita (HUN),OWEN Naomi (WAL),KERTAI Rita
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CECHOVA Dana,PETERMAN-VARGA Timea,4,0,"11,11,11,11|8,8,9,1",R64,GRAND_SLAM,WS,775,Main Draw,CECHOVA Dana (CZE),PETERMAN-VARGA Timea (HUN),CECHOVA Dana
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,NTOULAKI Ekaterina,NONAKA Mariany,4,1,"9,12,11,11,11|11,10,9,4,8",R64,GRAND_SLAM,WS,775,Main Draw,NTOULAKI Ekaterina (GRE),NONAKA Mariany (BRA),NTOULAKI Ekaterina
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TIKHOMIROVA Anna,JONSSON Carina,4,3,"9,7,11,11,13,8,11|11,11,3,9,11,11,5",R64,GRAND_SLAM,WS,775,Main Draw,TIKHOMIROVA Anna (RUS),JONSSON Carina (SWE),TIKHOMIROVA Anna
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LOVAS Petra,JURIC Monika,4,0,"11,11,11,11|3,4,5,4",R64,GRAND_SLAM,WS,775,Main Draw,LOVAS Petra (HUN),JURIC Monika (AUT),LOVAS Petra
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LIU Na,DVORAK Galia,4,0,"11,11,11,11|4,8,7,5",R64,GRAND_SLAM,WS,775,Main Draw,LIU Na (IRL),DVORAK Galia (ESP),LIU Na
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LANG Kristin,KUZMINA Elena,4,1,"11,7,11,11,13|9,11,5,7,11",R64,GRAND_SLAM,WS,775,Main Draw,LANG Kristin (GER),KUZMINA Elena (RUS),LANG Kristin
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,WANG Yuegu,STRBIKOVA Renata,4,0,"11,11,11,11|7,6,9,8",R32,GRAND_SLAM,WS,775,Main Draw,WANG Yuegu (SGP),STRBIKOVA Renata (CZE),WANG Yuegu
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,HIURA Reiko,DRINKHALL Joanna,4,2,"11,7,11,12,8,11|6,11,3,10,11,8",R32,GRAND_SLAM,WS,775,Main Draw,HIURA Reiko (JPN),DRINKHALL Joanna (ENG),HIURA Reiko
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PAOVIC Sandra,EKHOLM Matilda,4,0,"12,11,11,11|10,4,6,9",R32,GRAND_SLAM,WS,775,Main Draw,PAOVIC Sandra (CRO),EKHOLM Matilda (SWE),PAOVIC Sandra
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PAVLOVICH Viktoria,KRAMER Tanja,4,0,"11,11,11,11|8,7,6,9",R32,GRAND_SLAM,WS,775,Main Draw,PAVLOVICH Viktoria (BLR),KRAMER Tanja (GER),PAVLOVICH Viktoria
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TOTH Krisztina,STEFANSKA Kinga,4,0,"11,11,11,12|8,6,7,10",R32,GRAND_SLAM,WS,775,Main Draw,TOTH Krisztina (HUN),STEFANSKA Kinga (POL),TOTH Krisztina
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,ZHU Fang,PROKHOROVA Yulia,4,0,"11,11,11,11|8,8,6,4",R32,GRAND_SLAM,WS,775,Main Draw,ZHU Fang (ESP),PROKHOROVA Yulia (RUS),ZHU Fang
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,JIAO Yongli,BOLLMEIER Nadine,4,3,"6,11,11,12,11,5,11|11,4,13,10,3,11,2",R32,GRAND_SLAM,WS,775,Main Draw,JIAO Yongli (ESP),BOLLMEIER Nadine (GER),JIAO Yongli
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BOROS Tamara,VACENOVSKA Iveta,4,3,"6,11,11,8,3,11,11|11,6,8,11,11,6,5",R32,GRAND_SLAM,WS,775,Main Draw,BOROS Tamara (CRO),VACENOVSKA Iveta (CZE),BOROS Tamara
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SUN Beibei,RAMIREZ Sara,4,3,"8,11,4,9,11,11,12|11,9,11,11,8,8,10",R32,GRAND_SLAM,WS,775,Main Draw,SUN Beibei (SGP),RAMIREZ Sara (ESP),SUN Beibei
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,XU Jie (1982),ROBERTSON Laura,4,1,"11,11,12,5,11|6,5,10,11,3",R32,GRAND_SLAM,WS,775,Main Draw,XU Jie (1982) (POL),ROBERTSON Laura (GER),XU Jie (1982)
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,POTA Georgina,KERTAI Rita,4,2,"12,7,11,12,7,11|10,11,6,10,11,4",R32,GRAND_SLAM,WS,775,Main Draw,POTA Georgina (HUN),KERTAI Rita (HUN),POTA Georgina
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LI Qian,CECHOVA Dana,4,1,"11,11,10,11,11|6,9,12,5,1",R32,GRAND_SLAM,WS,775,Main Draw,LI Qian (POL),CECHOVA Dana (CZE),LI Qian
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LI Jie,NTOULAKI Ekaterina,4,0,"11,13,11,17|5,11,6,15",R32,GRAND_SLAM,WS,775,Main Draw,LI Jie (NED),NTOULAKI Ekaterina (GRE),LI Jie
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TIKHOMIROVA Anna,LOVAS Petra,4,2,"11,8,7,11,11,11|4,11,11,6,7,9",R32,GRAND_SLAM,WS,775,Main Draw,TIKHOMIROVA Anna (RUS),LOVAS Petra (HUN),TIKHOMIROVA Anna
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LI Qiangbing,LIU Na,4,0,"11,11,11,11|4,8,8,9",R32,GRAND_SLAM,WS,775,Main Draw,LI Qiangbing (AUT),LIU Na (IRL),LI Qiangbing
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LIU Jia,LANG Kristin,4,1,"15,12,4,11,11|13,10,11,9,4",R32,GRAND_SLAM,WS,775,Main Draw,LIU Jia (AUT),LANG Kristin (GER),LIU Jia
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,HIURA Reiko,WANG Yuegu,4,3,"11,11,5,4,8,11,14|9,9,11,11,11,9,12",R16,GRAND_SLAM,WS,775,Main Draw,HIURA Reiko (JPN),WANG Yuegu (SGP),HIURA Reiko
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PAVLOVICH Viktoria,PAOVIC Sandra,4,2,"9,11,11,11,9,11|11,7,8,8,11,4",R16,GRAND_SLAM,WS,775,Main Draw,PAVLOVICH Viktoria (BLR),PAOVIC Sandra (CRO),PAVLOVICH Viktoria
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TOTH Krisztina,ZHU Fang,4,3,"11,11,6,5,12,11,11|8,7,11,11,14,8,9",R16,GRAND_SLAM,WS,775,Main Draw,TOTH Krisztina (HUN),ZHU Fang (ESP),TOTH Krisztina
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BOROS Tamara,JIAO Yongli,4,3,"11,9,9,6,11,11,11|5,11,11,11,9,8,6",R16,GRAND_SLAM,WS,775,Main Draw,BOROS Tamara (CRO),JIAO Yongli (ESP),BOROS Tamara
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,XU Jie (1982),SUN Beibei,4,0,"11,11,13,11|3,7,11,9",R16,GRAND_SLAM,WS,775,Main Draw,XU Jie (1982) (POL),SUN Beibei (SGP),XU Jie (1982)
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LI Qian,POTA Georgina,4,1,"11,11,11,7,11|6,5,4,11,8",R16,GRAND_SLAM,WS,775,Main Draw,LI Qian (POL),POTA Georgina (HUN),LI Qian
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LI Jie,TIKHOMIROVA Anna,4,3,"11,9,11,10,6,11,13|7,11,7,12,11,5,11",R16,GRAND_SLAM,WS,775,Main Draw,LI Jie (NED),TIKHOMIROVA Anna (RUS),LI Jie
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LIU Jia,LI Qiangbing,4,0,"11,11,11,11|3,5,9,5",R16,GRAND_SLAM,WS,775,Main Draw,LIU Jia (AUT),LI Qiangbing (AUT),LIU Jia
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,HIURA Reiko,PAVLOVICH Viktoria,4,2,"9,11,12,4,11,11|11,5,10,11,5,5",QF,GRAND_SLAM,WS,775,Main Draw,HIURA Reiko (JPN),PAVLOVICH Viktoria (BLR),HIURA Reiko
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TOTH Krisztina,BOROS Tamara,4,2,"13,9,4,11,11,11|11,11,11,7,7,9",QF,GRAND_SLAM,WS,775,Main Draw,TOTH Krisztina (HUN),BOROS Tamara (CRO),TOTH Krisztina
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LI Qian,XU Jie (1982),4,1,"13,8,11,12,11|11,11,6,10,2",QF,GRAND_SLAM,WS,775,Main Draw,LI Qian (POL),XU Jie (1982) (POL),LI Qian
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LI Jie,LIU Jia,4,1,"9,12,11,11,12|11,10,7,8,10",QF,GRAND_SLAM,WS,775,Main Draw,LI Jie (NED),LIU Jia (AUT),LI Jie
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TOTH Krisztina,HIURA Reiko,4,0,"12,11,11,12|10,8,1,10",SF,GRAND_SLAM,WS,775,Main Draw,TOTH Krisztina (HUN),HIURA Reiko (JPN),TOTH Krisztina
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LI Qian,LI Jie,4,2,"11,11,11,3,12,11|5,9,8,11,14,8",SF,GRAND_SLAM,WS,775,Main Draw,LI Qian (POL),LI Jie (NED),LI Qian
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LI Qian,TOTH Krisztina,4,1,"8,11,11,11,11|11,5,7,8,5",F,GRAND_SLAM,WS,775,Main Draw,LI Qian (POL),TOTH Krisztina (HUN),LI Qian
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SCHLAGER Werner,BOBILLIER Loic,3,1,"8,11,11,11|11,9,8,8",1,GRAND_SLAM,MT,775,Main Draw,SCHLAGER Werner (AUT),BOBILLIER Loic (FRA),SCHLAGER Werner
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CHEN Weixing,LEBESSON Emmanuel,3,1,"11,11,10,11|4,8,12,7",1,GRAND_SLAM,MT,775,Main Draw,CHEN Weixing (AUT),LEBESSON Emmanuel (FRA),CHEN Weixing
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,STEGER Bastian,VITTA Kilomo,3,0,"11,11,11|8,9,3",1,GRAND_SLAM,MT,775,Main Draw,STEGER Bastian (GER),VITTA Kilomo (BEL),STEGER Bastian
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BAUM Patrick,ROGIERS Benjamin,3,1,"11,11,6,11|6,6,11,9",1,GRAND_SLAM,MT,775,Main Draw,BAUM Patrick (GER),ROGIERS Benjamin (BEL),BAUM Patrick
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LUNDQVIST Jens,CARNEROS Alfredo,3,1,"11,5,11,11|8,11,9,9",1,GRAND_SLAM,MT,775,Main Draw,LUNDQVIST Jens (SWE),CARNEROS Alfredo (ESP),LUNDQVIST Jens
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SVENSSON Robert,MACHADO Carlos,3,1,"6,11,13,11|11,4,11,9",1,GRAND_SLAM,MT,775,Main Draw,SVENSSON Robert (SWE),MACHADO Carlos (ESP),SVENSSON Robert
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SMIRNOV Alexey,PAZSY Ferenc,3,2,"11,9,10,11,11|8,11,12,5,7",1,GRAND_SLAM,MT,775,Main Draw,SMIRNOV Alexey (RUS),PAZSY Ferenc (HUN),SMIRNOV Alexey
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KUZMIN Fedor,ZWICKL Daniel,3,1,"11,11,8,11|7,7,11,6",1,GRAND_SLAM,MT,775,Main Draw,KUZMIN Fedor (RUS),ZWICKL Daniel (HUN),KUZMIN Fedor
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SMIRNOV Alexey,NAGY Krisztian,3,0,"11,11,11|5,8,5",1,GRAND_SLAM,MT,775,Main Draw,SMIRNOV Alexey (RUS),NAGY Krisztian (HUN),SMIRNOV Alexey
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,WANG Zengyi,TOSIC Roko,3,0,"11,11,11|7,5,7",1,GRAND_SLAM,MT,775,Main Draw,WANG Zengyi (POL),TOSIC Roko (CRO),WANG Zengyi
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,GACINA Andrej,GORAK Daniel,3,2,"7,11,9,11,11|11,7,11,9,5",1,GRAND_SLAM,MT,775,Main Draw,GACINA Andrej (CRO),GORAK Daniel (POL),GACINA Andrej
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BLASZCZYK Lucjan,TOSIC Roko,3,1,"11,10,11,11|3,12,9,9",1,GRAND_SLAM,MT,775,Main Draw,BLASZCZYK Lucjan (POL),TOSIC Roko (CRO),BLASZCZYK Lucjan
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KISHIKAWA Seiya,GAVLAS Antonin,3,0,"15,11,11|13,4,5",1,GRAND_SLAM,MT,775,Main Draw,KISHIKAWA Seiya (JPN),GAVLAS Antonin (CZE),KISHIKAWA Seiya
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,MATSUDAIRA Kenta,JANCARIK Lubomir,3,2,"12,6,11,2,12|10,11,9,11,10",1,GRAND_SLAM,MT,775,Main Draw,MATSUDAIRA Kenta (JPN),JANCARIK Lubomir (CZE),MATSUDAIRA Kenta
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KONECNY Tomas,KISHIKAWA Seiya,3,0,"11,15,11|8,13,6",1,GRAND_SLAM,MT,775,Main Draw,KONECNY Tomas (CZE),KISHIKAWA Seiya (JPN),KONECNY Tomas
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TAKAKIWA Taku,GAVLAS Antonin,3,0,"11,11,11|5,7,7",1,GRAND_SLAM,MT,775,Main Draw,TAKAKIWA Taku (JPN),GAVLAS Antonin (CZE),TAKAKIWA Taku
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PISTEJ Lubomir,REED Daniel,3,0,"11,12,11|5,10,6",1,GRAND_SLAM,MT,775,Main Draw,PISTEJ Lubomir (SVK),REED Daniel (ENG),PISTEJ Lubomir
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,DRINKHALL Paul,SEREDA Peter,3,0,"14,11,11|12,7,5",1,GRAND_SLAM,MT,775,Main Draw,DRINKHALL Paul (ENG),SEREDA Peter (SVK),DRINKHALL Paul
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KEINATH Thomas,DRINKHALL Paul,3,0,"11,11,12|6,7,10",1,GRAND_SLAM,MT,775,Main Draw,KEINATH Thomas (SVK),DRINKHALL Paul (ENG),KEINATH Thomas
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PISTEJ Lubomir,KNIGHT Darius,3,0,"11,11,11|6,5,7",1,GRAND_SLAM,MT,775,Main Draw,PISTEJ Lubomir (SVK),KNIGHT Darius (ENG),PISTEJ Lubomir
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,MATSUMOTO Cazuo,CHIANG Hung-Chieh,3,2,"6,11,9,15,11|11,3,11,13,5",1,GRAND_SLAM,MT,775,Main Draw,MATSUMOTO Cazuo (BRA),CHIANG Hung-Chieh (TPE),MATSUMOTO Cazuo
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CHUANG Chih-Yuan,TSUBOI Gustavo,3,0,"11,11,12|7,3,10",1,GRAND_SLAM,MT,775,Main Draw,CHUANG Chih-Yuan (TPE),TSUBOI Gustavo (BRA),CHUANG Chih-Yuan
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CHUANG Chih-Yuan,MONTEIRO Thiago,3,0,"12,11,12|10,5,10",1,GRAND_SLAM,MT,775,Main Draw,CHUANG Chih-Yuan (TPE),MONTEIRO Thiago (BRA),CHUANG Chih-Yuan
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,WU Chih-Chi,MATSUMOTO Cazuo,3,2,"5,11,4,13,11|11,9,11,11,7",1,GRAND_SLAM,MT,775,Main Draw,WU Chih-Chi (TPE),MATSUMOTO Cazuo (BRA),WU Chih-Chi
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SCHLAGER Werner,STEGER Bastian,3,2,"9,11,9,11,11|11,8,11,7,7",1,GRAND_SLAM,MT,775,Main Draw,SCHLAGER Werner (AUT),STEGER Bastian (GER),SCHLAGER Werner
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,GARDOS Robert,BAUM Patrick,3,2,"12,5,12,13,11|10,11,10,15,1",1,GRAND_SLAM,MT,775,Main Draw,GARDOS Robert (AUT),BAUM Patrick (GER),GARDOS Robert
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,HIELSCHER Lars,SCHLAGER Werner,3,0,"13,11,12|11,6,10",1,GRAND_SLAM,MT,775,Main Draw,HIELSCHER Lars (GER),SCHLAGER Werner (AUT),HIELSCHER Lars
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CHEN Weixing,STEGER Bastian,3,0,"11,11,11|9,8,7",1,GRAND_SLAM,MT,775,Main Draw,CHEN Weixing (AUT),STEGER Bastian (GER),CHEN Weixing
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SMIRNOV Alexey,LUNDQVIST Jens,3,0,"11,11,11|9,7,3",1,GRAND_SLAM,MT,775,Main Draw,SMIRNOV Alexey (RUS),LUNDQVIST Jens (SWE),SMIRNOV Alexey
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KUZMIN Fedor,SVENSSON Robert,3,0,"11,11,13|9,9,11",1,GRAND_SLAM,MT,775,Main Draw,KUZMIN Fedor (RUS),SVENSSON Robert (SWE),KUZMIN Fedor
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TAKAKIWA Taku,GORAK Daniel,3,1,"11,9,12,11|9,11,10,9",1,GRAND_SLAM,MT,775,Main Draw,TAKAKIWA Taku (JPN),GORAK Daniel (POL),TAKAKIWA Taku
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,MATSUDAIRA Kenta,WANG Zengyi,3,1,"11,11,10,11|5,4,12,4",1,GRAND_SLAM,MT,775,Main Draw,MATSUDAIRA Kenta (JPN),WANG Zengyi (POL),MATSUDAIRA Kenta
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CHUANG Chih-Yuan,KEINATH Thomas,3,0,"11,11,11|9,6,1",1,GRAND_SLAM,MT,775,Main Draw,CHUANG Chih-Yuan (TPE),KEINATH Thomas (SVK),CHUANG Chih-Yuan
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CHIANG Hung-Chieh,PISTEJ Lubomir,3,1,"11,11,6,11|9,5,11,7",1,GRAND_SLAM,MT,775,Main Draw,CHIANG Hung-Chieh (TPE),PISTEJ Lubomir (SVK),CHIANG Hung-Chieh
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SMIRNOV Alexey,GARDOS Robert,3,2,"4,11,11,6,11|11,2,9,11,5",1,GRAND_SLAM,MT,775,Main Draw,SMIRNOV Alexey (RUS),GARDOS Robert (AUT),SMIRNOV Alexey
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SCHLAGER Werner,KUZMIN Fedor,3,0,"11,11,11|9,7,7",1,GRAND_SLAM,MT,775,Main Draw,SCHLAGER Werner (AUT),KUZMIN Fedor (RUS),SCHLAGER Werner
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SCHLAGER Werner,SKACHKOV Kirill,3,1,"4,11,11,11|11,8,3,5",1,GRAND_SLAM,MT,775,Main Draw,SCHLAGER Werner (AUT),SKACHKOV Kirill (RUS),SCHLAGER Werner
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CHIANG Hung-Chieh,TAKAKIWA Taku,3,2,"6,11,11,6,11|11,7,5,11,7",1,GRAND_SLAM,MT,775,Main Draw,CHIANG Hung-Chieh (TPE),TAKAKIWA Taku (JPN),CHIANG Hung-Chieh
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CHUANG Chih-Yuan,MATSUDAIRA Kenta,3,1,"8,11,11,11|11,7,6,4",1,GRAND_SLAM,MT,775,Main Draw,CHUANG Chih-Yuan (TPE),MATSUDAIRA Kenta (JPN),CHUANG Chih-Yuan
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TAKAKIWA Taku,WU Chih-Chi,3,2,"11,12,11,4,11|9,14,6,11,8",1,GRAND_SLAM,MT,775,Main Draw,TAKAKIWA Taku (JPN),WU Chih-Chi (TPE),TAKAKIWA Taku
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KISHIKAWA Seiya,CHUANG Chih-Yuan,3,1,"14,3,11,11|12,11,8,8",1,GRAND_SLAM,MT,775,Main Draw,KISHIKAWA Seiya (JPN),CHUANG Chih-Yuan (TPE),KISHIKAWA Seiya
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SCHLAGER Werner,TAKAKIWA Taku,3,1,"11,11,6,11|9,6,11,5",1,GRAND_SLAM,MT,775,Main Draw,SCHLAGER Werner (AUT),TAKAKIWA Taku (JPN),SCHLAGER Werner
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CHEN Weixing,MATSUDAIRA Kenta,3,1,"11,12,6,11|3,10,11,5",1,GRAND_SLAM,MT,775,Main Draw,CHEN Weixing (AUT),MATSUDAIRA Kenta (JPN),CHEN Weixing
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,GARDOS Robert,MATTENET Adrien,3,0,"11,11,12|9,9,10",1,GRAND_SLAM,MT,775,Main Draw,GARDOS Robert (AUT),MATTENET Adrien (FRA),GARDOS Robert
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,HIELSCHER Lars,CHEN Weixing,3,1,"11,3,15,11|9,11,13,6",1,GRAND_SLAM,MT,775,Main Draw,HIELSCHER Lars (GER),CHEN Weixing (AUT),HIELSCHER Lars
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,CHEN Weixing,SKACHKOV Kirill,3,1,"8,11,11,11|11,4,5,3",1,GRAND_SLAM,MT,775,Main Draw,CHEN Weixing (AUT),SKACHKOV Kirill (RUS),CHEN Weixing
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,HIELSCHER Lars,BRATANOV Martin,3,0,"11,11,11|4,8,5",1,GRAND_SLAM,MT,775,Main Draw,HIELSCHER Lars (GER),BRATANOV Martin (BEL),HIELSCHER Lars
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BLASZCZYK Lucjan,REDJEP Ronald,3,0,"12,11,13|10,2,11",1,GRAND_SLAM,MT,775,Main Draw,BLASZCZYK Lucjan (POL),REDJEP Ronald (CRO),BLASZCZYK Lucjan
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KNIGHT Darius,KEINATH Thomas,3,0,"11,11,13|9,7,11",1,GRAND_SLAM,MT,775,Main Draw,KNIGHT Darius (ENG),KEINATH Thomas (SVK),KNIGHT Darius
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PERSSON Jon,DURAN Marc,3,0,"11,11,14|4,8,12",1,GRAND_SLAM,MT,775,Main Draw,PERSSON Jon (SWE),DURAN Marc (ESP),PERSSON Jon
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KISHIKAWA Seiya,BLASZCZYK Lucjan,3,2,"13,9,11,7,11|11,11,7,11,6",1,GRAND_SLAM,MT,775,Main Draw,KISHIKAWA Seiya (JPN),BLASZCZYK Lucjan (POL),KISHIKAWA Seiya
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,KISHIKAWA Seiya,WU Chih-Chi,3,2,"7,12,11,11,14|11,14,6,8,12",1,GRAND_SLAM,MT,775,Main Draw,KISHIKAWA Seiya (JPN),WU Chih-Chi (TPE),KISHIKAWA Seiya
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,GARDOS Robert,KISHIKAWA Seiya,3,2,"11,11,7,9,11|7,5,11,11,8",1,GRAND_SLAM,MT,775,Main Draw,GARDOS Robert (AUT),KISHIKAWA Seiya (JPN),GARDOS Robert
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,NAGY Krisztian,SKACHKOV Kirill,3,1,"11,6,11,12|4,11,9,10",1,GRAND_SLAM,MT,775,Main Draw,NAGY Krisztian (HUN),SKACHKOV Kirill (RUS),NAGY Krisztian
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,SKACHKOV Kirill,PERSSON Jon,3,0,"11,11,11|5,3,8",1,GRAND_SLAM,MT,775,Main Draw,SKACHKOV Kirill (RUS),PERSSON Jon (SWE),SKACHKOV Kirill
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,MONTEIRO Thiago,WU Chih-Chi,3,1,"7,11,11,11|11,4,5,5",1,GRAND_SLAM,MT,775,Main Draw,MONTEIRO Thiago (BRA),WU Chih-Chi (TPE),MONTEIRO Thiago
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,WU Chih-Chi,SEREDA Peter,3,2,"9,11,11,12,11|11,7,8,14,7",1,GRAND_SLAM,MT,775,Main Draw,WU Chih-Chi (TPE),SEREDA Peter (SVK),WU Chih-Chi
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,POTA Georgina,KMOTORKOVA Lenka,3,0,"11,11,11|9,7,7",1,GRAND_SLAM,WT,775,Main Draw,POTA Georgina (HUN),KMOTORKOVA Lenka (SVK),POTA Georgina
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LOVAS Petra,LAZARCIKOVA Simona,3,1,"11,8,12,11|7,11,10,5",1,GRAND_SLAM,WT,775,Main Draw,LOVAS Petra (HUN),LAZARCIKOVA Simona (SVK),LOVAS Petra
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,XU Jie (1982),STRBIKOVA Renata,3,1,"11,6,11,11|7,11,5,4",1,GRAND_SLAM,WT,775,Main Draw,XU Jie (1982) (POL),STRBIKOVA Renata (CZE),XU Jie (1982)
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LI Qian,VACENOVSKA Iveta,3,0,"12,11,11|10,8,6",1,GRAND_SLAM,WT,775,Main Draw,LI Qian (POL),VACENOVSKA Iveta (CZE),LI Qian
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,DVORAK Galia,PAOVIC Sandra,3,1,"10,11,11,11|12,5,9,9",1,GRAND_SLAM,WT,775,Main Draw,DVORAK Galia (ESP),PAOVIC Sandra (CRO),DVORAK Galia
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BOROS Tamara,RAMIREZ Sara,3,1,"11,7,11,11|6,11,4,7",1,GRAND_SLAM,WT,775,Main Draw,BOROS Tamara (CRO),RAMIREZ Sara (ESP),BOROS Tamara
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,DVORAK Galia,DURAK Mirela,3,0,"11,11,11|5,9,6",1,GRAND_SLAM,WT,775,Main Draw,DVORAK Galia (ESP),DURAK Mirela (CRO),DVORAK Galia
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LIU Jia,KUZMINA Elena,3,2,"11,7,8,11,12|4,11,11,3,10",1,GRAND_SLAM,WT,775,Main Draw,LIU Jia (AUT),KUZMINA Elena (RUS),LIU Jia
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PROKHOROVA Yulia,LI Qiangbing,3,1,"5,11,11,11|11,9,8,9",1,GRAND_SLAM,WT,775,Main Draw,PROKHOROVA Yulia (RUS),LI Qiangbing (AUT),PROKHOROVA Yulia
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LOVAS Petra,BAK Natalia,3,0,"12,11,11|10,7,3",1,GRAND_SLAM,WT,775,Main Draw,LOVAS Petra (HUN),BAK Natalia (POL),LOVAS Petra
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,POTA Georgina,XU Jie (1982),3,2,"6,11,11,6,11|11,9,4,11,9",1,GRAND_SLAM,WT,775,Main Draw,POTA Georgina (HUN),XU Jie (1982) (POL),POTA Georgina
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,ZHU Fang,KUZMINA Elena,3,0,"11,11,11|7,5,7",1,GRAND_SLAM,WT,775,Main Draw,ZHU Fang (ESP),KUZMINA Elena (RUS),ZHU Fang
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TIKHOMIROVA Anna,DVORAK Galia,3,0,"11,11,11|9,6,7",1,GRAND_SLAM,WT,775,Main Draw,TIKHOMIROVA Anna (RUS),DVORAK Galia (ESP),TIKHOMIROVA Anna
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,RAMIREZ Sara,KUZMINA Elena,3,2,"11,3,11,8,11|3,11,5,11,4",1,GRAND_SLAM,WT,775,Main Draw,RAMIREZ Sara (ESP),KUZMINA Elena (RUS),RAMIREZ Sara
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,POTA Georgina,RAMIREZ Sara,3,0,"11,11,11|7,8,9",1,GRAND_SLAM,WT,775,Main Draw,POTA Georgina (HUN),RAMIREZ Sara (ESP),POTA Georgina
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,BAK Natalia,CECHOVA Dana,3,2,"11,11,9,15,11|8,7,11,17,8",1,GRAND_SLAM,WT,775,Main Draw,BAK Natalia (POL),CECHOVA Dana (CZE),BAK Natalia
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,ZHU Fang,DURAK Mirela,3,0,"11,11,12|2,4,10",1,GRAND_SLAM,WT,775,Main Draw,ZHU Fang (ESP),DURAK Mirela (CRO),ZHU Fang
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,PROKHOROVA Yulia,RAMIREZ Sara,3,1,"11,11,8,11|7,6,11,9",1,GRAND_SLAM,WT,775,Main Draw,PROKHOROVA Yulia (RUS),RAMIREZ Sara (ESP),PROKHOROVA Yulia
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,LOVAS Petra,DVORAK Galia,3,2,"11,6,9,11,11|3,11,11,6,5",1,GRAND_SLAM,WT,775,Main Draw,LOVAS Petra (HUN),DVORAK Galia (ESP),LOVAS Petra
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TOTH Krisztina,XU Jie (1982),3,2,"12,11,9,7,11|10,3,11,11,8",1,GRAND_SLAM,WT,775,Main Draw,TOTH Krisztina (HUN),XU Jie (1982) (POL),TOTH Krisztina
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TIKHOMIROVA Anna,PETZNER Martina,3,1,"4,11,11,11|11,5,8,3",1,GRAND_SLAM,WT,775,Main Draw,TIKHOMIROVA Anna (RUS),PETZNER Martina (AUT),TIKHOMIROVA Anna
+Pro Tour ERKE Austrian Open Salzburg 2008,2008-10-29,TOTH Krisztina,DAUBNEROVA Andrea,3,0,"11,11,11|3,5,5",1,GRAND_SLAM,WT,775,Main Draw,TOTH Krisztina (HUN),DAUBNEROVA Andrea (SVK),TOTH Krisztina

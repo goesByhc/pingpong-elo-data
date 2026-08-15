@@ -1,195 +1,195 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Olympic Games Athens 2004,2004-08-14,WOSIK Torben,GUEYE Mohamed,4,0,"11,11,11,11|4,5,6,4",R128,OLYMPICS,MS,918,Main Draw,WOSIK Torben (GER),GUEYE Mohamed (SEN)
-Olympic Games Athens 2004,2004-08-14,LIU Song,ARAI Shu,4,1,"11,7,12,11,11|7,11,10,5,4",R128,OLYMPICS,MS,918,Main Draw,LIU Song (ARG),ARAI Shu (JPN)
-Olympic Games Athens 2004,2004-08-14,ACHANTA Sharath,BOUDJADJA Sofiene,4,0,"11,12,11,11|4,10,6,3",R128,OLYMPICS,MS,918,Main Draw,ACHANTA Sharath (IND),BOUDJADJA Sofiene (ALG)
-Olympic Games Athens 2004,2004-08-14,MEROTOHUN Monday,BABUNGU Bomboko,4,0,"11,11,11,11|5,8,8,8",R128,OLYMPICS,MS,918,Main Draw,MEROTOHUN Monday (NGR),BABUNGU Bomboko (COD)
-Olympic Games Athens 2004,2004-08-14,YANG Min,DOAN Kien Quoc,4,1,"11,11,11,11,11|5,13,7,5,5",R128,OLYMPICS,MS,918,Main Draw,YANG Min (ITA),DOAN Kien Quoc (VIE)
-Olympic Games Athens 2004,2004-08-14,HENZELL William,NGUYEN Khoa,4,1,"11,6,11,11,11|7,11,7,4,9",R128,OLYMPICS,MS,918,Main Draw,HENZELL William (AUS),NGUYEN Khoa (USA)
-Olympic Games Athens 2004,2004-08-14,LIN Ju,YUZAWA Ryo,4,1,"11,7,11,11,11|8,11,8,3,9",R128,OLYMPICS,MS,918,Main Draw,LIN Ju (DOM),YUZAWA Ryo (JPN)
-Olympic Games Athens 2004,2004-08-14,KRZESZEWSKI Tomasz,HOYAMA Hugo,4,0,"12,11,11,11|10,4,4,8",R128,OLYMPICS,MS,918,Main Draw,KRZESZEWSKI Tomasz (POL),HOYAMA Hugo (BRA)
-Olympic Games Athens 2004,2004-08-14,MATSUSHITA Koji,BROWN Trevor,4,0,"11,11,11,11|4,6,9,3",R128,OLYMPICS,MS,918,Main Draw,MATSUSHITA Koji (JPN),BROWN Trevor (AUS)
-Olympic Games Athens 2004,2004-08-14,LUPULESKU Ilija,PAPIC Juan,4,0,"11,11,11,11|2,4,5,2",R128,OLYMPICS,MS,918,Main Draw,LUPULESKU Ilija (USA),PAPIC Juan (CHI)
-Olympic Games Athens 2004,2004-08-14,O Il,LUYINDULA Jose,4,1,"11,11,9,11,11|7,8,11,4,7",R128,OLYMPICS,MS,918,Main Draw,O Il (PRK),LUYINDULA Jose (COD)
-Olympic Games Athens 2004,2004-08-14,HE Zhiwen,GIONIS Panagiotis,4,1,"11,13,11,11,15|7,11,4,13,13",R128,OLYMPICS,MS,918,Main Draw,HE Zhiwen (ESP),GIONIS Panagiotis (GRE)
-Olympic Games Athens 2004,2004-08-14,MONTEIRO Thiago,AKHLAGHPASAND Mohammadreza,4,1,"11,9,11,11,11|8,13,9,7,5",R128,OLYMPICS,MS,918,Main Draw,MONTEIRO Thiago (BRA),AKHLAGHPASAND Mohammadreza (USA)
-Olympic Games Athens 2004,2004-08-14,TORIOLA Segun,TABACHNIK Pablo,4,1,"12,11,11,11,11|10,8,13,3,8",R128,OLYMPICS,MS,918,Main Draw,TORIOLA Segun (NGR),TABACHNIK Pablo (ARG)
-Olympic Games Athens 2004,2004-08-14,KARAKASEVIC Aleksandar,AL-HARBI Khaled,4,0,"11,11,11,11|9,3,3,3",R128,OLYMPICS,MS,918,Main Draw,KARAKASEVIC Aleksandar (SRB),AL-HARBI Khaled (KSA)
-Olympic Games Athens 2004,2004-08-14,MILICEVIC Srdan,LAVALE Russell,4,2,"10,11,11,9,18,13|12,9,4,11,16,11",R128,OLYMPICS,MS,918,Main Draw,MILICEVIC Srdan (BIH),LAVALE Russell (AUS)
-Olympic Games Athens 2004,2004-08-14,KEEN Trinko,WOSIK Torben,4,3,"12,10,7,11,5,13,11|10,12,11,5,11,11,9",R64,OLYMPICS,MS,918,Main Draw,KEEN Trinko (NED),WOSIK Torben (GER)
-Olympic Games Athens 2004,2004-08-14,LIU Song,GRUJIC Slobodan,4,1,"11,11,4,11,14|4,7,11,2,12",R64,OLYMPICS,MS,918,Main Draw,LIU Song (ARG),GRUJIC Slobodan (SRB)
-Olympic Games Athens 2004,2004-08-14,KO Lai Chak,ACHANTA Sharath,4,0,"11,11,11,11|9,5,9,6",R64,OLYMPICS,MS,918,Main Draw,KO Lai Chak (HKG),ACHANTA Sharath (IND)
-Olympic Games Athens 2004,2004-08-14,PERSSON Jorgen,MEROTOHUN Monday,4,1,"9,11,11,11,11|11,5,5,7,8",R64,OLYMPICS,MS,918,Main Draw,PERSSON Jorgen (SWE),MEROTOHUN Monday (NGR)
-Olympic Games Athens 2004,2004-08-14,KARLSSON Peter,YANG Min,4,3,"11,11,11,9,7,11,11|9,4,8,11,11,13,9",R64,OLYMPICS,MS,918,Main Draw,KARLSSON Peter (SWE),YANG Min (ITA)
-Olympic Games Athens 2004,2004-08-14,CHEN Weixing,HENZELL William,4,0,"11,11,12,11|7,3,10,6",R64,OLYMPICS,MS,918,Main Draw,CHEN Weixing (AUT),HENZELL William (AUS)
-Olympic Games Athens 2004,2004-08-14,LIN Ju,SMIRNOV Alexey,4,0,"11,11,11,11|9,4,5,6",R64,OLYMPICS,MS,918,Main Draw,LIN Ju (DOM),SMIRNOV Alexey (RUS)
-Olympic Games Athens 2004,2004-08-14,ROSSKOPF Jorg,KRZESZEWSKI Tomasz,4,1,"6,11,11,17,13|11,8,7,15,11",R64,OLYMPICS,MS,918,Main Draw,ROSSKOPF Jorg (GER),KRZESZEWSKI Tomasz (POL)
-Olympic Games Athens 2004,2004-08-14,MATSUSHITA Koji,HEISTER Danny,4,0,"11,11,11,11|7,7,8,4",R64,OLYMPICS,MS,918,Main Draw,MATSUSHITA Koji (JPN),HEISTER Danny (NED)
-Olympic Games Athens 2004,2004-08-14,CRISAN Adrian,LUPULESKU Ilija,4,0,"11,11,15,11|9,8,13,8",R64,OLYMPICS,MS,918,Main Draw,CRISAN Adrian (ROU),LUPULESKU Ilija (USA)
-Olympic Games Athens 2004,2004-08-14,LEUNG Chu Yan,O Il,4,1,"11,11,11,11,11|3,9,13,4,8",R64,OLYMPICS,MS,918,Main Draw,LEUNG Chu Yan (HKG),O Il (PRK)
-Olympic Games Athens 2004,2004-08-14,BLASZCZYK Lucjan,HE Zhiwen,4,3,"11,10,11,8,7,11,11|5,12,2,11,11,6,9",R64,OLYMPICS,MS,918,Main Draw,BLASZCZYK Lucjan (POL),HE Zhiwen (ESP)
-Olympic Games Athens 2004,2004-08-14,LI Ching,MONTEIRO Thiago,4,1,"11,9,11,11,11|6,11,7,9,5",R64,OLYMPICS,MS,918,Main Draw,LI Ching (HKG),MONTEIRO Thiago (BRA)
-Olympic Games Athens 2004,2004-08-14,CHILA Patrick,TORIOLA Segun,4,2,"11,8,10,11,11,11|3,11,12,7,8,9",R64,OLYMPICS,MS,918,Main Draw,CHILA Patrick (FRA),TORIOLA Segun (NGR)
-Olympic Games Athens 2004,2004-08-14,KARAKASEVIC Aleksandar,HUANG Johnny,4,2,"7,11,11,9,11,11|11,8,5,11,9,9",R64,OLYMPICS,MS,918,Main Draw,KARAKASEVIC Aleksandar (SRB),HUANG Johnny (CAN)
-Olympic Games Athens 2004,2004-08-14,PRIMORAC Zoran,MILICEVIC Srdan,4,1,"8,11,11,11,11|11,6,7,8,8",R64,OLYMPICS,MS,918,Main Draw,PRIMORAC Zoran (CRO),MILICEVIC Srdan (BIH)
-Olympic Games Athens 2004,2004-08-14,WANG Liqin,KEEN Trinko,4,1,"6,11,11,11,11|11,1,8,4,2",R32,OLYMPICS,MS,918,Main Draw,WANG Liqin (CHN),KEEN Trinko (NED)
-Olympic Games Athens 2004,2004-08-14,JOO Saehyuk,LIU Song,4,0,"14,11,11,11|12,9,6,8",R32,OLYMPICS,MS,918,Main Draw,JOO Saehyuk (KOR),LIU Song (ARG)
-Olympic Games Athens 2004,2004-08-14,KO Lai Chak,KORBEL Petr,4,3,"11,9,11,2,11,9,11|7,11,7,11,6,11,7",R32,OLYMPICS,MS,918,Main Draw,KO Lai Chak (HKG),KORBEL Petr (CZE)
-Olympic Games Athens 2004,2004-08-14,PERSSON Jorgen,KREANGA Kalinikos,4,0,"11,11,11,11|5,7,9,8",R32,OLYMPICS,MS,918,Main Draw,PERSSON Jorgen (SWE),KREANGA Kalinikos (GRE)
-Olympic Games Athens 2004,2004-08-14,CHUANG Chih-Yuan,KARLSSON Peter,4,2,"16,11,8,11,11,11|18,6,11,7,3,8",R32,OLYMPICS,MS,918,Main Draw,CHUANG Chih-Yuan (TPE),KARLSSON Peter (SWE)
-Olympic Games Athens 2004,2004-08-14,OH Sangeun,CHEN Weixing,4,3,"7,11,11,11,5,9,11|11,6,7,8,11,11,2",R32,OLYMPICS,MS,918,Main Draw,OH Sangeun (KOR),CHEN Weixing (AUT)
-Olympic Games Athens 2004,2004-08-14,LIN Ju,SAIVE Jean-Michel,4,2,"11,11,5,11,18,11|5,4,11,13,16,8",R32,OLYMPICS,MS,918,Main Draw,LIN Ju (DOM),SAIVE Jean-Michel (BEL)
-Olympic Games Athens 2004,2004-08-14,WANG Hao,ROSSKOPF Jorg,4,1,"11,12,11,11,11|5,10,5,13,6",R32,OLYMPICS,MS,918,Main Draw,WANG Hao (CHN),ROSSKOPF Jorg (GER)
-Olympic Games Athens 2004,2004-08-14,RYU Seungmin,MATSUSHITA Koji,4,0,"11,11,11,11|9,6,6,2",R32,OLYMPICS,MS,918,Main Draw,RYU Seungmin (KOR),MATSUSHITA Koji (JPN)
-Olympic Games Athens 2004,2004-08-14,CHIANG Peng-Lung,CRISAN Adrian,4,1,"11,11,12,2,11|9,5,10,11,8",R32,OLYMPICS,MS,918,Main Draw,CHIANG Peng-Lung (TPE),CRISAN Adrian (ROU)
-Olympic Games Athens 2004,2004-08-14,LEUNG Chu Yan,MAZE Michael,4,1,"6,11,11,11,11|11,5,3,8,9",R32,OLYMPICS,MS,918,Main Draw,LEUNG Chu Yan (HKG),MAZE Michael (DEN)
-Olympic Games Athens 2004,2004-08-14,SAMSONOV Vladimir,BLASZCZYK Lucjan,4,2,"11,5,12,8,11,11|5,11,10,11,4,9",R32,OLYMPICS,MS,918,Main Draw,SAMSONOV Vladimir (BLR),BLASZCZYK Lucjan (POL)
-Olympic Games Athens 2004,2004-08-14,SCHLAGER Werner,LI Ching,4,2,"8,11,12,11,11,11|11,9,14,9,9,6",R32,OLYMPICS,MS,918,Main Draw,SCHLAGER Werner (AUT),LI Ching (HKG)
-Olympic Games Athens 2004,2004-08-14,BOLL Timo,CHILA Patrick,4,1,"11,14,11,11,11|3,16,9,3,9",R32,OLYMPICS,MS,918,Main Draw,BOLL Timo (GER),CHILA Patrick (FRA)
-Olympic Games Athens 2004,2004-08-14,WALDNER Jan-Ove,KARAKASEVIC Aleksandar,4,2,"13,11,5,11,10,11|11,9,11,6,12,9",R32,OLYMPICS,MS,918,Main Draw,WALDNER Jan-Ove (SWE),KARAKASEVIC Aleksandar (SRB)
-Olympic Games Athens 2004,2004-08-14,MA Lin,PRIMORAC Zoran,4,1,"11,11,11,9,11|5,3,3,11,5",R32,OLYMPICS,MS,918,Main Draw,MA Lin (CHN),PRIMORAC Zoran (CRO)
-Olympic Games Athens 2004,2004-08-14,WANG Liqin,JOO Saehyuk,4,1,"11,11,9,11,11|7,8,11,6,6",R16,OLYMPICS,MS,918,Main Draw,WANG Liqin (CHN),JOO Saehyuk (KOR)
-Olympic Games Athens 2004,2004-08-14,KO Lai Chak,PERSSON Jorgen,4,1,"11,11,8,11,12|7,6,11,4,10",R16,OLYMPICS,MS,918,Main Draw,KO Lai Chak (HKG),PERSSON Jorgen (SWE)
-Olympic Games Athens 2004,2004-08-14,CHUANG Chih-Yuan,OH Sangeun,4,2,"12,12,6,12,9,11|10,10,11,10,11,5",R16,OLYMPICS,MS,918,Main Draw,CHUANG Chih-Yuan (TPE),OH Sangeun (KOR)
-Olympic Games Athens 2004,2004-08-14,WANG Hao,LIN Ju,4,1,"11,11,7,12,11|5,7,11,10,6",R16,OLYMPICS,MS,918,Main Draw,WANG Hao (CHN),LIN Ju (DOM)
-Olympic Games Athens 2004,2004-08-14,RYU Seungmin,CHIANG Peng-Lung,4,3,"11,11,7,8,11,6,11|6,6,11,11,3,11,4",R16,OLYMPICS,MS,918,Main Draw,RYU Seungmin (KOR),CHIANG Peng-Lung (TPE)
-Olympic Games Athens 2004,2004-08-14,LEUNG Chu Yan,SAMSONOV Vladimir,4,3,"11,6,11,6,11,7,11|7,11,9,11,5,11,8",R16,OLYMPICS,MS,918,Main Draw,LEUNG Chu Yan (HKG),SAMSONOV Vladimir (BLR)
-Olympic Games Athens 2004,2004-08-14,BOLL Timo,SCHLAGER Werner,4,3,"11,12,11,11,6,4,11|2,14,5,9,11,11,6",R16,OLYMPICS,MS,918,Main Draw,BOLL Timo (GER),SCHLAGER Werner (AUT)
-Olympic Games Athens 2004,2004-08-14,WALDNER Jan-Ove,MA Lin,4,1,"11,12,7,11,11|9,10,11,5,9",R16,OLYMPICS,MS,918,Main Draw,WALDNER Jan-Ove (SWE),MA Lin (CHN)
-Olympic Games Athens 2004,2004-08-14,WANG Liqin,KO Lai Chak,4,1,"11,13,6,11,11|9,11,11,8,4",QF,OLYMPICS,MS,918,Main Draw,WANG Liqin (CHN),KO Lai Chak (HKG)
-Olympic Games Athens 2004,2004-08-14,WANG Hao,CHUANG Chih-Yuan,4,2,"5,12,9,11,11,11|11,10,11,4,6,7",QF,OLYMPICS,MS,918,Main Draw,WANG Hao (CHN),CHUANG Chih-Yuan (TPE)
-Olympic Games Athens 2004,2004-08-14,RYU Seungmin,LEUNG Chu Yan,4,2,"6,10,11,11,11,11|11,12,6,6,9,5",QF,OLYMPICS,MS,918,Main Draw,RYU Seungmin (KOR),LEUNG Chu Yan (HKG)
-Olympic Games Athens 2004,2004-08-14,WALDNER Jan-Ove,BOLL Timo,4,1,"11,13,6,11,13|7,11,11,7,11",QF,OLYMPICS,MS,918,Main Draw,WALDNER Jan-Ove (SWE),BOLL Timo (GER)
-Olympic Games Athens 2004,2004-08-14,WANG Hao,WANG Liqin,4,1,"11,11,6,11,11|8,5,11,9,3",SF,OLYMPICS,MS,918,Main Draw,WANG Hao (CHN),WANG Liqin (CHN)
-Olympic Games Athens 2004,2004-08-14,RYU Seungmin,WALDNER Jan-Ove,4,1,"11,9,11,11,11|9,11,9,5,5",SF,OLYMPICS,MS,918,Main Draw,RYU Seungmin (KOR),WALDNER Jan-Ove (SWE)
-Olympic Games Athens 2004,2004-08-14,RYU Seungmin,WANG Hao,4,2,"11,9,11,11,11,11|3,11,9,9,13,9",F,OLYMPICS,MS,918,Main Draw,RYU Seungmin (KOR),WANG Hao (CHN)
-Olympic Games Athens 2004,2004-08-14,WANG Liqin,WALDNER Jan-Ove,4,1,"10,11,11,11,11|12,3,8,7,9",3RD,OLYMPICS,MS,918,Position Draw,WANG Liqin (CHN),WALDNER Jan-Ove (SWE)
-Olympic Games Athens 2004,2004-08-14,BANH THUA Tawny,YOON Jihye,4,3,"8,11,9,16,3,11,11|11,9,11,14,11,8,6",R128,OLYMPICS,WS,918,Main Draw,BANH THUA Tawny (USA),YOON Jihye (KOR)
-Olympic Games Athens 2004,2004-08-14,NEGRISOLI Laura,RAMOS Fabiola,4,1,"11,11,11,8,11|9,5,6,11,3",R128,OLYMPICS,WS,918,Main Draw,NEGRISOLI Laura (ITA),RAMOS Fabiola (VEN)
-Olympic Games Athens 2004,2004-08-14,KOMWONG Nanthana,DAS Mouma,4,0,"11,11,11,12|6,7,3,10",R128,OLYMPICS,WS,918,Main Draw,KOMWONG Nanthana (THA),DAS Mouma (IND)
-Olympic Games Athens 2004,2004-08-14,KRAVCHENKO Marina,VOLAKAKI Archontoula,4,0,"11,11,11,11|6,5,4,5",R128,OLYMPICS,WS,918,Main Draw,KRAVCHENKO Marina (ISR),VOLAKAKI Archontoula (GRE)
-Olympic Games Athens 2004,2004-08-14,OSHONAIKE Olufunke,RODRIGUEZ Berta,4,0,"11,11,11,11|9,8,7,9",R128,OLYMPICS,WS,918,Main Draw,OSHONAIKE Olufunke (NGR),RODRIGUEZ Berta (CHI)
-Olympic Games Athens 2004,2004-08-14,ERDELJI Silvija,BEN KAHIA Nesrine,4,0,"11,11,11,11|3,1,3,7",R128,OLYMPICS,WS,918,Main Draw,ERDELJI Silvija (SRB),BEN KAHIA Nesrine (TUN)
-Olympic Games Athens 2004,2004-08-14,MIAO Miao,ESPINEIRA Marisol,4,2,"11,11,5,4,11,11|8,9,11,11,6,6",R128,OLYMPICS,WS,918,Main Draw,MIAO Miao (AUS),ESPINEIRA Marisol (PER)
-Olympic Games Athens 2004,2004-08-14,HUANG Yi-Hua,BOUCETTA Leila,4,0,"11,11,11,11|8,3,4,7",R128,OLYMPICS,WS,918,Main Draw,HUANG Yi-Hua (TPE),BOUCETTA Leila (ALG)
-Olympic Games Athens 2004,2004-08-14,LAY Jian Fang,MOLNAR Cornelia,4,0,"12,11,11,13|10,5,6,11",R128,OLYMPICS,WS,918,Main Draw,LAY Jian Fang (AUS),MOLNAR Cornelia (CRO)
-Olympic Games Athens 2004,2004-08-14,FAZEKAS Maria,INOYATOVA Manzura,4,0,"11,11,11,11|6,7,3,7",R128,OLYMPICS,WS,918,Main Draw,FAZEKAS Maria (HUN),INOYATOVA Manzura (UZB)
-Olympic Games Athens 2004,2004-08-14,RATHER Jasna,STRBIKOVA Renata,4,2,"9,6,15,11,11,11|11,11,13,4,8,9",R128,OLYMPICS,WS,918,Main Draw,RATHER Jasna (USA),STRBIKOVA Renata (CZE)
-Olympic Games Athens 2004,2004-08-14,WU Xue,FADEEVA Oxana,4,1,"9,11,11,11,11|11,8,6,7,9",R128,OLYMPICS,WS,918,Main Draw,WU Xue (DOM),FADEEVA Oxana (RUS)
-Olympic Games Athens 2004,2004-08-14,CADA Petra,GUENNI Olfa,4,0,"11,11,11,11|4,7,4,7",R128,OLYMPICS,WS,918,Main Draw,CADA Petra (CAN),GUENNI Olfa (TUN)
-Olympic Games Athens 2004,2004-08-14,STEFANOVA Nikoleta,MENAIFI Asma,4,0,"11,11,11,11|6,8,6,6",R128,OLYMPICS,WS,918,Main Draw,STEFANOVA Nikoleta (ITA),MENAIFI Asma (ALG)
-Olympic Games Athens 2004,2004-08-14,SHABAN Zeina,MEDINA Iizzwa,4,3,"11,11,11,9,11,9,11|7,13,8,11,5,11,9",R128,OLYMPICS,WS,918,Main Draw,SHABAN Zeina (JOR),MEDINA Iizzwa (HON)
-Olympic Games Athens 2004,2004-08-14,AKPAN Cecilia,SILVA Ligia,4,1,"11,11,9,12,11|8,6,11,10,8",R128,OLYMPICS,WS,918,Main Draw,AKPAN Cecilia (NGR),SILVA Ligia (BRA)
-Olympic Games Athens 2004,2004-08-14,LI Chunli,BANH THUA Tawny,4,1,"11,12,11,8,11|8,10,9,11,9",R64,OLYMPICS,WS,918,Main Draw,LI Chunli (NZL),BANH THUA Tawny (USA)
-Olympic Games Athens 2004,2004-08-14,GANINA Svetlana,NEGRISOLI Laura,4,2,"11,14,7,3,11,11|9,12,11,11,6,9",R64,OLYMPICS,WS,918,Main Draw,GANINA Svetlana (RUS),NEGRISOLI Laura (ITA)
-Olympic Games Athens 2004,2004-08-14,KOMWONG Nanthana,STRUSE Nicole,4,1,"11,11,9,11,13|7,4,11,7,11",R64,OLYMPICS,WS,918,Main Draw,KOMWONG Nanthana (THA),STRUSE Nicole (GER)
-Olympic Games Athens 2004,2004-08-14,KRAVCHENKO Marina,BADESCU Otilia,4,2,"11,11,4,11,8,11|6,9,11,3,11,6",R64,OLYMPICS,WS,918,Main Draw,KRAVCHENKO Marina (ISR),BADESCU Otilia (ROU)
-Olympic Games Athens 2004,2004-08-14,TOTH Krisztina,OSHONAIKE Olufunke,4,2,"10,12,14,11,15,11|12,10,16,6,13,5",R64,OLYMPICS,WS,918,Main Draw,TOTH Krisztina (HUN),OSHONAIKE Olufunke (NGR)
-Olympic Games Athens 2004,2004-08-14,JING Junhong,ERDELJI Silvija,4,2,"11,11,10,11,4,11|3,8,12,4,11,6",R64,OLYMPICS,WS,918,Main Draw,JING Junhong (SGP),ERDELJI Silvija (SRB)
-Olympic Games Athens 2004,2004-08-14,FUKUHARA Ai,MIAO Miao,4,3,"5,7,11,11,11,9,11|11,11,9,6,5,11,9",R64,OLYMPICS,WS,918,Main Draw,FUKUHARA Ai (JPN),MIAO Miao (AUS)
-Olympic Games Athens 2004,2004-08-14,TAN Wenling,HUANG Yi-Hua,4,2,"11,9,11,9,13,11|3,11,9,11,11,7",R64,OLYMPICS,WS,918,Main Draw,TAN Wenling (ITA),HUANG Yi-Hua (TPE)
-Olympic Games Athens 2004,2004-08-14,SCHALL Elke,LAY Jian Fang,4,2,"3,11,6,11,11,12|11,6,11,7,8,10",R64,OLYMPICS,WS,918,Main Draw,SCHALL Elke (GER),LAY Jian Fang (AUS)
-Olympic Games Athens 2004,2004-08-14,KIM Hyang Mi,FAZEKAS Maria,4,1,"11,11,9,11,11|7,8,11,8,8",R64,OLYMPICS,WS,918,Main Draw,KIM Hyang Mi (PRK),FAZEKAS Maria (HUN)
-Olympic Games Athens 2004,2004-08-14,ZHANG Xueling,RATHER Jasna,4,1,"11,11,8,11,11|7,7,11,7,5",R64,OLYMPICS,WS,918,Main Draw,ZHANG Xueling (SGP),RATHER Jasna (USA)
-Olympic Games Athens 2004,2004-08-14,FUJINUMA Ai,WU Xue,4,0,"13,11,14,11|11,7,12,5",R64,OLYMPICS,WS,918,Main Draw,FUJINUMA Ai (JPN),WU Xue (DOM)
-Olympic Games Athens 2004,2004-08-14,CADA Petra,BATORFI Csilla,4,3,"11,9,16,11,11,8,12|7,11,18,6,8,11,10",R64,OLYMPICS,WS,918,Main Draw,CADA Petra (CAN),BATORFI Csilla (HUN)
-Olympic Games Athens 2004,2004-08-14,SCHOPP Jie,STEFANOVA Nikoleta,4,1,"11,11,11,12,11|5,13,5,10,7",R64,OLYMPICS,WS,918,Main Draw,SCHOPP Jie (GER),STEFANOVA Nikoleta (ITA)
-Olympic Games Athens 2004,2004-08-14,ZAMFIR Adriana,SHABAN Zeina,4,1,"8,11,11,11,11|11,5,8,5,4",R64,OLYMPICS,WS,918,Main Draw,ZAMFIR Adriana (ROU),SHABAN Zeina (JOR)
-Olympic Games Athens 2004,2004-08-14,KIM Yun Mi,AKPAN Cecilia,4,0,"11,11,11,11|5,7,6,8",R64,OLYMPICS,WS,918,Main Draw,KIM Yun Mi (PRK),AKPAN Cecilia (NGR)
-Olympic Games Athens 2004,2004-08-14,ZHANG Yining,LI Chunli,4,0,"11,12,11,11|8,10,5,7",R32,OLYMPICS,WS,918,Main Draw,ZHANG Yining (CHN),LI Chunli (NZL)
-Olympic Games Athens 2004,2004-08-14,LAU Sui Fei,GANINA Svetlana,4,1,"11,11,10,11,11|3,6,12,5,6",R32,OLYMPICS,WS,918,Main Draw,LAU Sui Fei (HKG),GANINA Svetlana (RUS)
-Olympic Games Athens 2004,2004-08-14,PAVLOVICH Viktoria,KOMWONG Nanthana,4,2,"11,11,9,11,7,11|4,6,11,3,11,1",R32,OLYMPICS,WS,918,Main Draw,PAVLOVICH Viktoria (BLR),KOMWONG Nanthana (THA)
-Olympic Games Athens 2004,2004-08-14,BOROS Tamara,KRAVCHENKO Marina,4,0,"11,11,11,11|8,6,5,7",R32,OLYMPICS,WS,918,Main Draw,BOROS Tamara (CRO),KRAVCHENKO Marina (ISR)
-Olympic Games Athens 2004,2004-08-14,TIE Yana,TOTH Krisztina,4,1,"11,6,12,14,11|6,11,10,12,6",R32,OLYMPICS,WS,918,Main Draw,TIE Yana (HKG),TOTH Krisztina (HUN)
-Olympic Games Athens 2004,2004-08-14,KIM Hyon Hui,JING Junhong,4,2,"7,11,6,11,11,11|11,8,11,5,4,9",R32,OLYMPICS,WS,918,Main Draw,KIM Hyon Hui (PRK),JING Junhong (SGP)
-Olympic Games Athens 2004,2004-08-14,FUKUHARA Ai,GAO Jun,4,0,"11,11,11,11|3,6,8,9",R32,OLYMPICS,WS,918,Main Draw,FUKUHARA Ai (JPN),GAO Jun (USA)
-Olympic Games Athens 2004,2004-08-14,KIM Kyungah,TAN Wenling,4,1,"9,11,11,11,11|11,7,5,3,9",R32,OLYMPICS,WS,918,Main Draw,KIM Kyungah (KOR),TAN Wenling (ITA)
-Olympic Games Athens 2004,2004-08-14,NIU Jianfeng,SCHALL Elke,4,3,"12,12,11,10,11,11,11|14,14,5,12,6,2,6",R32,OLYMPICS,WS,918,Main Draw,NIU Jianfeng (CHN),SCHALL Elke (GER)
-Olympic Games Athens 2004,2004-08-14,KIM Hyang Mi,STEFF Mihaela,4,2,"7,11,11,11,6,11|11,8,7,7,11,9",R32,OLYMPICS,WS,918,Main Draw,KIM Hyang Mi (PRK),STEFF Mihaela (ROU)
-Olympic Games Athens 2004,2004-08-14,ZHANG Xueling,LEE Eunsil,4,1,"11,11,11,9,11|5,7,9,11,6",R32,OLYMPICS,WS,918,Main Draw,ZHANG Xueling (SGP),LEE Eunsil (KOR)
-Olympic Games Athens 2004,2004-08-14,FUJINUMA Ai,LIU Jia,4,3,"7,6,12,11,11,8,11|11,11,10,6,7,11,7",R32,OLYMPICS,WS,918,Main Draw,FUJINUMA Ai (JPN),LIU Jia (AUT)
-Olympic Games Athens 2004,2004-08-14,LI Jiawei,CADA Petra,4,0,"11,11,11,11|4,6,7,8",R32,OLYMPICS,WS,918,Main Draw,LI Jiawei (SGP),CADA Petra (CAN)
-Olympic Games Athens 2004,2004-08-14,UMEMURA Aya,SCHOPP Jie,4,2,"15,9,12,4,11,11|13,11,10,11,7,3",R32,OLYMPICS,WS,918,Main Draw,UMEMURA Aya (JPN),SCHOPP Jie (GER)
-Olympic Games Athens 2004,2004-08-14,ZAMFIR Adriana,LIN Ling,4,2,"11,11,5,11,7,12|6,7,11,8,11,10",R32,OLYMPICS,WS,918,Main Draw,ZAMFIR Adriana (ROU),LIN Ling (HKG)
-Olympic Games Athens 2004,2004-08-14,WANG Nan,KIM Yun Mi,4,2,"11,13,8,11,11,11|6,15,11,2,5,9",R32,OLYMPICS,WS,918,Main Draw,WANG Nan (CHN),KIM Yun Mi (PRK)
-Olympic Games Athens 2004,2004-08-14,ZHANG Yining,LAU Sui Fei,4,1,"11,11,11,9,11|5,7,3,11,5",R16,OLYMPICS,WS,918,Main Draw,ZHANG Yining (CHN),LAU Sui Fei (HKG)
-Olympic Games Athens 2004,2004-08-14,BOROS Tamara,PAVLOVICH Viktoria,4,2,"11,11,9,11,6,11|5,8,11,8,11,7",R16,OLYMPICS,WS,918,Main Draw,BOROS Tamara (CRO),PAVLOVICH Viktoria (BLR)
-Olympic Games Athens 2004,2004-08-14,TIE Yana,KIM Hyon Hui,4,1,"11,11,11,8,11|6,7,4,11,8",R16,OLYMPICS,WS,918,Main Draw,TIE Yana (HKG),KIM Hyon Hui (PRK)
-Olympic Games Athens 2004,2004-08-14,KIM Kyungah,FUKUHARA Ai,4,1,"11,11,7,15,11|8,5,11,13,6",R16,OLYMPICS,WS,918,Main Draw,KIM Kyungah (KOR),FUKUHARA Ai (JPN)
-Olympic Games Athens 2004,2004-08-14,KIM Hyang Mi,NIU Jianfeng,4,0,"11,11,11,11|8,9,9,4",R16,OLYMPICS,WS,918,Main Draw,KIM Hyang Mi (PRK),NIU Jianfeng (CHN)
-Olympic Games Athens 2004,2004-08-14,ZHANG Xueling,FUJINUMA Ai,4,2,"11,11,6,11,9,11|7,8,11,7,11,9",R16,OLYMPICS,WS,918,Main Draw,ZHANG Xueling (SGP),FUJINUMA Ai (JPN)
-Olympic Games Athens 2004,2004-08-14,LI Jiawei,UMEMURA Aya,4,2,"14,13,8,15,9,11|12,11,11,13,11,7",R16,OLYMPICS,WS,918,Main Draw,LI Jiawei (SGP),UMEMURA Aya (JPN)
-Olympic Games Athens 2004,2004-08-14,WANG Nan,ZAMFIR Adriana,4,1,"9,11,11,11,11|11,8,2,9,4",R16,OLYMPICS,WS,918,Main Draw,WANG Nan (CHN),ZAMFIR Adriana (ROU)
-Olympic Games Athens 2004,2004-08-14,ZHANG Yining,BOROS Tamara,4,0,"12,15,13,11|10,13,11,3",QF,OLYMPICS,WS,918,Main Draw,ZHANG Yining (CHN),BOROS Tamara (CRO)
-Olympic Games Athens 2004,2004-08-14,KIM Kyungah,TIE Yana,4,1,"11,10,11,11,11|6,12,9,7,7",QF,OLYMPICS,WS,918,Main Draw,KIM Kyungah (KOR),TIE Yana (HKG)
-Olympic Games Athens 2004,2004-08-14,KIM Hyang Mi,ZHANG Xueling,4,2,"11,11,9,11,8,12|7,4,11,8,11,10",QF,OLYMPICS,WS,918,Main Draw,KIM Hyang Mi (PRK),ZHANG Xueling (SGP)
-Olympic Games Athens 2004,2004-08-14,LI Jiawei,WANG Nan,4,1,"11,11,11,11,11|7,7,13,9,8",QF,OLYMPICS,WS,918,Main Draw,LI Jiawei (SGP),WANG Nan (CHN)
-Olympic Games Athens 2004,2004-08-14,ZHANG Yining,KIM Kyungah,4,1,"13,11,11,5,11|11,8,6,11,8",SF,OLYMPICS,WS,918,Main Draw,ZHANG Yining (CHN),KIM Kyungah (KOR)
-Olympic Games Athens 2004,2004-08-14,KIM Hyang Mi,LI Jiawei,4,3,"8,11,0,8,11,11,11|11,6,11,11,8,6,9",SF,OLYMPICS,WS,918,Main Draw,KIM Hyang Mi (PRK),LI Jiawei (SGP)
-Olympic Games Athens 2004,2004-08-14,ZHANG Yining,KIM Hyang Mi,4,0,"11,11,11,11|8,7,2,2",F,OLYMPICS,WS,918,Main Draw,ZHANG Yining (CHN),KIM Hyang Mi (PRK)
-Olympic Games Athens 2004,2004-08-14,KIM Kyungah,LI Jiawei,4,1,"9,11,11,11,11|11,8,7,5,8",3RD,OLYMPICS,WS,918,Position Draw,KIM Kyungah (KOR),LI Jiawei (SGP)
-Olympic Games Athens 2004,2004-08-14,ARAI Shu/YUZAWA Ryo,BOUDJADJA Sofiene/DJAZIRI Abdelhakim,4,0,"11,11,11,18|6,2,8,16",R64,OLYMPICS,MD,918,Main Draw,ARAI Shu (JPN) / YUZAWA Ryo (JPN),BOUDJADJA Sofiene (ALG) / DJAZIRI Abdelhakim (ALG)
-Olympic Games Athens 2004,2004-08-14,GIONIS Panagiotis/KREANGA Kalinikos,GONZALES Enrique/TABACHNIK Pablo,4,1,"11,11,11,9,11|7,7,2,11,6",R64,OLYMPICS,MD,918,Main Draw,GIONIS Panagiotis (GRE) / KREANGA Kalinikos (GRE),GONZALES Enrique (ARG) / TABACHNIK Pablo (ARG)
-Olympic Games Athens 2004,2004-08-14,HENZELL William/ZALCBERG David,MONDELLO Massimiliano/YANG Min,4,1,"11,8,11,11,11|6,11,7,7,5",R64,OLYMPICS,MD,918,Main Draw,HENZELL William (AUS) / ZALCBERG David (AUS),MONDELLO Massimiliano (ITA) / YANG Min (ITA)
-Olympic Games Athens 2004,2004-08-14,HEISTER Danny/KEEN Trinko,HENZELL William/ZALCBERG David,4,1,"15,12,6,14,11|13,10,11,12,3",R32,OLYMPICS,MD,918,Main Draw,HEISTER Danny (NED) / KEEN Trinko (NED),HENZELL William (AUS) / ZALCBERG David (AUS)
-Olympic Games Athens 2004,2004-08-14,MAZE Michael/TUGWELL Finn,JINDRAK Karl/SCHLAGER Werner,4,0,"12,11,11,11|10,7,6,7",R16,OLYMPICS,MD,918,Main Draw,MAZE Michael (DEN) / TUGWELL Finn (DEN),JINDRAK Karl (AUT) / SCHLAGER Werner (AUT)
-Olympic Games Athens 2004,2004-08-14,HIELSCHER Lars/ROSSKOPF Jorg,HANASHIRO Hugo/HOYAMA Hugo,4,2,"9,11,11,5,11,11|11,8,5,11,9,5",R64,OLYMPICS,MD,918,Main Draw,HIELSCHER Lars (GER) / ROSSKOPF Jorg (GER),HANASHIRO Hugo (BRA) / HOYAMA Hugo (BRA)
-Olympic Games Athens 2004,2004-08-14,HUANG Johnny/KASSAM Faazil,BROWN Trevor/LAVALE Russell,4,0,"11,11,11,11|9,3,6,8",R64,OLYMPICS,MD,918,Main Draw,HUANG Johnny (CAN) / KASSAM Faazil (CAN),BROWN Trevor (AUS) / LAVALE Russell (AUS)
-Olympic Games Athens 2004,2004-08-14,CHEN Qi/MA Lin,HEISTER Danny/KEEN Trinko,4,2,"10,11,11,11,11,11|12,7,7,13,5,3",R16,OLYMPICS,MD,918,Main Draw,CHEN Qi (CHN) / MA Lin (CHN),HEISTER Danny (NED) / KEEN Trinko (NED)
-Olympic Games Athens 2004,2004-08-14,CHEN Qi/MA Lin,BLASZCZYK Lucjan/KRZESZEWSKI Tomasz,4,1,"8,11,11,12,11|11,6,6,10,7",QF,OLYMPICS,MD,918,Main Draw,CHEN Qi (CHN) / MA Lin (CHN),BLASZCZYK Lucjan (POL) / KRZESZEWSKI Tomasz (POL)
-Olympic Games Athens 2004,2004-08-14,CHEN Qi/MA Lin,MAZE Michael/TUGWELL Finn,4,2,"11,10,11,8,13,13|9,12,7,11,11,11",SF,OLYMPICS,MD,918,Main Draw,CHEN Qi (CHN) / MA Lin (CHN),MAZE Michael (DEN) / TUGWELL Finn (DEN)
-Olympic Games Athens 2004,2004-08-14,CHEN Qi/MA Lin,KO Lai Chak/LI Ching,4,2,"11,11,7,11,8,11|6,9,11,8,11,5",F,OLYMPICS,MD,918,Main Draw,CHEN Qi (CHN) / MA Lin (CHN),KO Lai Chak (HKG) / LI Ching (HKG)
-Olympic Games Athens 2004,2004-08-14,MAZE Michael/TUGWELL Finn,PERSSON Jorgen/WALDNER Jan-Ove,4,1,"11,8,11,12,12|5,11,8,10,10",QF,OLYMPICS,MD,918,Main Draw,MAZE Michael (DEN) / TUGWELL Finn (DEN),PERSSON Jorgen (SWE) / WALDNER Jan-Ove (SWE)
-Olympic Games Athens 2004,2004-08-14,MAZE Michael/TUGWELL Finn,MAZUNOV Dmitry/SMIRNOV Alexey,4,2,"11,11,12,3,11,11|3,8,14,11,9,8",3RD,OLYMPICS,MD,918,Position Draw,MAZE Michael (DEN) / TUGWELL Finn (DEN),MAZUNOV Dmitry (RUS) / SMIRNOV Alexey (RUS)
-Olympic Games Athens 2004,2004-08-14,KITO Akira/TASAKI Toshio,GIONIS Panagiotis/KREANGA Kalinikos,4,3,"9,6,11,8,11,13,11|11,11,5,11,6,11,4",R32,OLYMPICS,MD,918,Main Draw,KITO Akira (JPN) / TASAKI Toshio (JPN),GIONIS Panagiotis (GRE) / KREANGA Kalinikos (GRE)
-Olympic Games Athens 2004,2004-08-14,BOLL Timo/FEJER-KONNERTH Zoltan,ARAI Shu/YUZAWA Ryo,4,0,"11,11,11,11|4,9,4,9",R32,OLYMPICS,MD,918,Main Draw,BOLL Timo (GER) / FEJER-KONNERTH Zoltan (GER),ARAI Shu (JPN) / YUZAWA Ryo (JPN)
-Olympic Games Athens 2004,2004-08-14,JOO Saehyuk/OH Sangeun,HIELSCHER Lars/ROSSKOPF Jorg,4,1,"11,11,11,9,11|5,6,6,11,9",R32,OLYMPICS,MD,918,Main Draw,JOO Saehyuk (KOR) / OH Sangeun (KOR),HIELSCHER Lars (GER) / ROSSKOPF Jorg (GER)
-Olympic Games Athens 2004,2004-08-14,LEE Chulseung/RYU Seungmin,BOLL Timo/FEJER-KONNERTH Zoltan,4,0,"11,11,11,11|7,9,7,9",R16,OLYMPICS,MD,918,Main Draw,LEE Chulseung (KOR) / RYU Seungmin (KOR),BOLL Timo (GER) / FEJER-KONNERTH Zoltan (GER)
-Olympic Games Athens 2004,2004-08-14,KO Lai Chak/LI Ching,JOO Saehyuk/OH Sangeun,4,1,"11,11,11,5,14|8,9,3,11,12",R16,OLYMPICS,MD,918,Main Draw,KO Lai Chak (HKG) / LI Ching (HKG),JOO Saehyuk (KOR) / OH Sangeun (KOR)
-Olympic Games Athens 2004,2004-08-14,MAZUNOV Dmitry/SMIRNOV Alexey,LEE Chulseung/RYU Seungmin,4,1,"10,11,11,11,11|12,7,9,4,8",QF,OLYMPICS,MD,918,Main Draw,MAZUNOV Dmitry (RUS) / SMIRNOV Alexey (RUS),LEE Chulseung (KOR) / RYU Seungmin (KOR)
-Olympic Games Athens 2004,2004-08-14,HAZINSKI Mark/LUPULESKU Ilija,MEROTOHUN Monday/TORIOLA Segun,4,0,"11,11,11,11|7,4,5,5",R64,OLYMPICS,MD,918,Main Draw,HAZINSKI Mark (USA) / LUPULESKU Ilija (USA),MEROTOHUN Monday (NGR) / TORIOLA Segun (NGR)
-Olympic Games Athens 2004,2004-08-14,AKINLABI Peter/NASIRU Kazeem,PAPIC Juan/RODRIGUEZ Alejandro,4,1,"11,11,16,11,11|9,5,18,9,7",R64,OLYMPICS,MD,918,Main Draw,AKINLABI Peter (NGR) / NASIRU Kazeem (NGR),PAPIC Juan (CHI) / RODRIGUEZ Alejandro (CHI)
-Olympic Games Athens 2004,2004-08-14,MAZE Michael/TUGWELL Finn,AKINLABI Peter/NASIRU Kazeem,4,2,"8,9,11,13,11,11|11,11,7,11,9,4",R32,OLYMPICS,MD,918,Main Draw,MAZE Michael (DEN) / TUGWELL Finn (DEN),AKINLABI Peter (NGR) / NASIRU Kazeem (NGR)
-Olympic Games Athens 2004,2004-08-14,MAZUNOV Dmitry/SMIRNOV Alexey,KORBEL Petr/VYBORNY Richard,4,1,"11,13,11,9,11|4,11,7,11,6",R32,OLYMPICS,MD,918,Main Draw,MAZUNOV Dmitry (RUS) / SMIRNOV Alexey (RUS),KORBEL Petr (CZE) / VYBORNY Richard (CZE)
-Olympic Games Athens 2004,2004-08-14,MAZUNOV Dmitry/SMIRNOV Alexey,CHEUNG Yuk/LEUNG Chu Yan,4,0,"14,11,11,11|11,7,8,7",R16,OLYMPICS,MD,918,Main Draw,MAZUNOV Dmitry (RUS) / SMIRNOV Alexey (RUS),CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG)
-Olympic Games Athens 2004,2004-08-14,KO Lai Chak/LI Ching,MAZUNOV Dmitry/SMIRNOV Alexey,4,2,"11,11,5,8,11,11|5,9,11,11,8,6",SF,OLYMPICS,MD,918,Main Draw,KO Lai Chak (HKG) / LI Ching (HKG),MAZUNOV Dmitry (RUS) / SMIRNOV Alexey (RUS)
-Olympic Games Athens 2004,2004-08-14,GRUJIC Slobodan/KARAKASEVIC Aleksandar,KITO Akira/TASAKI Toshio,4,1,"11,9,11,12,12|9,11,9,10,10",R16,OLYMPICS,MD,918,Main Draw,GRUJIC Slobodan (SRB) / KARAKASEVIC Aleksandar (SRB),KITO Akira (JPN) / TASAKI Toshio (JPN)
-Olympic Games Athens 2004,2004-08-14,KO Lai Chak/LI Ching,GRUJIC Slobodan/KARAKASEVIC Aleksandar,4,1,"11,10,11,13,11|6,12,6,11,9",QF,OLYMPICS,MD,918,Main Draw,KO Lai Chak (HKG) / LI Ching (HKG),GRUJIC Slobodan (SRB) / KARAKASEVIC Aleksandar (SRB)
-Olympic Games Athens 2004,2004-08-14,PERSSON Jorgen/WALDNER Jan-Ove,HUANG Johnny/KASSAM Faazil,4,2,"11,16,11,7,11,11|7,18,3,11,7,6",R32,OLYMPICS,MD,918,Main Draw,PERSSON Jorgen (SWE) / WALDNER Jan-Ove (SWE),HUANG Johnny (CAN) / KASSAM Faazil (CAN)
-Olympic Games Athens 2004,2004-08-14,PERSSON Jorgen/WALDNER Jan-Ove,KONG Linghui/WANG Hao,4,1,"8,11,11,11,12|11,6,9,9,10",R16,OLYMPICS,MD,918,Main Draw,PERSSON Jorgen (SWE) / WALDNER Jan-Ove (SWE),KONG Linghui (CHN) / WANG Hao (CHN)
-Olympic Games Athens 2004,2004-08-14,CHIANG Peng-Lung/CHUANG Chih-Yuan,HAZINSKI Mark/LUPULESKU Ilija,4,1,"14,8,13,16,11|12,11,11,14,9",R32,OLYMPICS,MD,918,Main Draw,CHIANG Peng-Lung (TPE) / CHUANG Chih-Yuan (TPE),HAZINSKI Mark (USA) / LUPULESKU Ilija (USA)
-Olympic Games Athens 2004,2004-08-14,BLASZCZYK Lucjan/KRZESZEWSKI Tomasz,CHIANG Peng-Lung/CHUANG Chih-Yuan,4,2,"7,12,8,11,11,11|11,10,11,7,7,5",R16,OLYMPICS,MD,918,Main Draw,BLASZCZYK Lucjan (POL) / KRZESZEWSKI Tomasz (POL),CHIANG Peng-Lung (TPE) / CHUANG Chih-Yuan (TPE)
-Olympic Games Athens 2004,2004-08-14,KORBEL Petr/VYBORNY Richard,/LUYINDULA Jose,4,0,"11,11,11,11|3,4,6,4",R64,OLYMPICS,MD,918,Main Draw,KORBEL Petr (CZE) / VYBORNY Richard (CZE), / LUYINDULA Jose (COD)
-Olympic Games Athens 2004,2004-08-14,STEFANOVA Nikoleta/TAN Wenling,KOSTROMINA Tatyana (1973)/PAVLOVICH Viktoria,4,2,"11,10,11,11,11,11|7,12,13,5,7,7",R32,OLYMPICS,WD,918,Main Draw,STEFANOVA Nikoleta (ITA) / TAN Wenling (ITA),KOSTROMINA Tatyana (1973) (BLR) / PAVLOVICH Viktoria (BLR)
-Olympic Games Athens 2004,2004-08-14,STRBIKOVA Renata/VACHOVCOVA Alena,NONAKA Mariany/SILVA Ligia,4,2,"11,11,7,6,11,11|2,4,11,11,9,9",R64,OLYMPICS,WD,918,Main Draw,STRBIKOVA Renata (CZE) / VACHOVCOVA Alena (CZE),NONAKA Mariany (BRA) / SILVA Ligia (BRA)
-Olympic Games Athens 2004,2004-08-14,CADA Petra/ROUSSY Marie-Christine,MIROU Maria/VOLAKAKI Archontoula,4,1,"11,4,11,11,11|8,11,7,9,8",R64,OLYMPICS,WD,918,Main Draw,CADA Petra (CAN) / ROUSSY Marie-Christine (CAN),MIROU Maria (GRE) / VOLAKAKI Archontoula (GRE)
-Olympic Games Athens 2004,2004-08-14,GANINA Svetlana/PALINA Irina,CADA Petra/ROUSSY Marie-Christine,4,0,"11,11,11,11|5,2,7,6",R32,OLYMPICS,WD,918,Main Draw,GANINA Svetlana (RUS) / PALINA Irina (RUS),CADA Petra (CAN) / ROUSSY Marie-Christine (CAN)
-Olympic Games Athens 2004,2004-08-14,PEREZ Luisana/RAMOS Fabiola,RODRIGUEZ Berta/VEGA Paulina,4,3,"12,11,6,11,11,11,11|14,8,11,7,13,5,7",QR4,OLYMPICS,WD,918,Qualification,PEREZ Luisana (VEN) / RAMOS Fabiola (VEN),RODRIGUEZ Berta (CHI) / VEGA Paulina (CHI)
-Olympic Games Athens 2004,2004-08-14,GUO Yue/NIU Jianfeng,HUANG Yi-Hua/LU Yun-Feng,4,0,"11,11,11,11|9,4,6,2",R16,OLYMPICS,WD,918,Main Draw,GUO Yue (CHN) / NIU Jianfeng (CHN),HUANG Yi-Hua (TPE) / LU Yun-Feng (TPE)
-Olympic Games Athens 2004,2004-08-14,GUO Yue/NIU Jianfeng,FUJINUMA Ai/UMEMURA Aya,4,2,"11,12,9,12,11,11|3,10,11,14,4,8",QF,OLYMPICS,WD,918,Main Draw,GUO Yue (CHN) / NIU Jianfeng (CHN),FUJINUMA Ai (JPN) / UMEMURA Aya (JPN)
-Olympic Games Athens 2004,2004-08-14,WANG Nan/ZHANG Yining,GUO Yue/NIU Jianfeng,4,2,"11,13,9,13,6,13|7,11,11,11,11,11",SF,OLYMPICS,WD,918,Main Draw,WANG Nan (CHN) / ZHANG Yining (CHN),GUO Yue (CHN) / NIU Jianfeng (CHN)
-Olympic Games Athens 2004,2004-08-14,WANG Nan/ZHANG Yining,LEE Eunsil/SUK Eunmi,4,0,"11,11,11,11|9,7,6,6",F,OLYMPICS,WD,918,Main Draw,WANG Nan (CHN) / ZHANG Yining (CHN),LEE Eunsil (KOR) / SUK Eunmi (KOR)
-Olympic Games Athens 2004,2004-08-14,GUO Yue/NIU Jianfeng,KIM Bokrae/KIM Kyungah,4,3,"11,5,11,11,7,9,11|7,11,4,9,11,11,9",3RD,OLYMPICS,WD,918,Position Draw,GUO Yue (CHN) / NIU Jianfeng (CHN),KIM Bokrae (KOR) / KIM Kyungah (KOR)
-Olympic Games Athens 2004,2004-08-14,KIM Bokrae/KIM Kyungah,BOROS Tamara/MOLNAR Cornelia,4,0,"11,11,11,11|4,5,3,8",QF,OLYMPICS,WD,918,Main Draw,KIM Bokrae (KOR) / KIM Kyungah (KOR),BOROS Tamara (CRO) / MOLNAR Cornelia (CRO)
-Olympic Games Athens 2004,2004-08-14,BOROS Tamara/MOLNAR Cornelia,STRBIKOVA Renata/VACHOVCOVA Alena,4,1,"9,11,11,11,11|11,8,8,7,3",R32,OLYMPICS,WD,918,Main Draw,BOROS Tamara (CRO) / MOLNAR Cornelia (CRO),STRBIKOVA Renata (CZE) / VACHOVCOVA Alena (CZE)
-Olympic Games Athens 2004,2004-08-14,LI Chunli/LI Karen,STRUSE Nicole/SCHALL Elke,4,1,"11,11,11,10,11|6,7,7,12,6",R32,OLYMPICS,WD,918,Main Draw,LI Chunli (NZL) / LI Karen (NZL),STRUSE Nicole (GER) / SCHALL Elke (GER)
-Olympic Games Athens 2004,2004-08-14,LAU Sui Fei/LIN Ling,FADEEVA Oxana/MELNIK Galina,4,2,"11,11,11,8,11,11|8,7,5,11,13,8",R32,OLYMPICS,WD,918,Main Draw,LAU Sui Fei (HKG) / LIN Ling (HKG),FADEEVA Oxana (RUS) / MELNIK Galina (RUS)
-Olympic Games Athens 2004,2004-08-14,FUJINUMA Ai/UMEMURA Aya,LAU Sui Fei/LIN Ling,4,2,"11,6,11,12,7,11|9,11,9,10,11,7",R16,OLYMPICS,WD,918,Main Draw,FUJINUMA Ai (JPN) / UMEMURA Aya (JPN),LAU Sui Fei (HKG) / LIN Ling (HKG)
-Olympic Games Athens 2004,2004-08-14,SONG Ah Sim/TIE Yana,GANINA Svetlana/PALINA Irina,4,0,"11,11,11,11|7,6,7,7",R16,OLYMPICS,WD,918,Main Draw,SONG Ah Sim (HKG) / TIE Yana (HKG),GANINA Svetlana (RUS) / PALINA Irina (RUS)
-Olympic Games Athens 2004,2004-08-14,WANG Nan/ZHANG Yining,SONG Ah Sim/TIE Yana,4,2,"11,3,11,11,12,11|4,11,13,8,10,8",QF,OLYMPICS,WD,918,Main Draw,WANG Nan (CHN) / ZHANG Yining (CHN),SONG Ah Sim (HKG) / TIE Yana (HKG)
-Olympic Games Athens 2004,2004-08-14,BOROS Tamara/MOLNAR Cornelia,BATORFI Csilla/TOTH Krisztina,4,1,"11,9,11,11,11|6,11,9,3,3",R16,OLYMPICS,WD,918,Main Draw,BOROS Tamara (CRO) / MOLNAR Cornelia (CRO),BATORFI Csilla (HUN) / TOTH Krisztina (HUN)
-Olympic Games Athens 2004,2004-08-14,WANG Nan/ZHANG Yining,STEFANOVA Nikoleta/TAN Wenling,4,0,"11,11,12,14|6,3,10,12",R16,OLYMPICS,WD,918,Main Draw,WANG Nan (CHN) / ZHANG Yining (CHN),STEFANOVA Nikoleta (ITA) / TAN Wenling (ITA)
-Olympic Games Athens 2004,2004-08-14,KIM Bokrae/KIM Kyungah,BANH THUA Tawny/GAO Jun,4,0,"11,11,11,11|4,3,7,9",R32,OLYMPICS,WD,918,Main Draw,KIM Bokrae (KOR) / KIM Kyungah (KOR),BANH THUA Tawny (USA) / GAO Jun (USA)
-Olympic Games Athens 2004,2004-08-14,LEE Eunsil/SUK Eunmi,TAN Paey Fern/ZHANG Xueling,4,0,"14,11,11,11|12,7,7,8",R16,OLYMPICS,WD,918,Main Draw,LEE Eunsil (KOR) / SUK Eunmi (KOR),TAN Paey Fern (SGP) / ZHANG Xueling (SGP)
-Olympic Games Athens 2004,2004-08-14,KIM Bokrae/KIM Kyungah,JING Junhong/LI Jiawei,4,3,"9,11,12,8,9,11,11|11,5,10,11,11,8,8",R16,OLYMPICS,WD,918,Main Draw,KIM Bokrae (KOR) / KIM Kyungah (KOR),JING Junhong (SGP) / LI Jiawei (SGP)
-Olympic Games Athens 2004,2004-08-14,LEE Eunsil/SUK Eunmi,KIM Hyang Mi/KIM Hyon Hui,4,2,"12,4,11,11,9,11|10,11,9,8,11,7",QF,OLYMPICS,WD,918,Main Draw,LEE Eunsil (KOR) / SUK Eunmi (KOR),KIM Hyang Mi (PRK) / KIM Hyon Hui (PRK)
-Olympic Games Athens 2004,2004-08-14,LEE Eunsil/SUK Eunmi,KIM Bokrae/KIM Kyungah,4,0,"11,12,11,11|6,10,7,2",SF,OLYMPICS,WD,918,Main Draw,LEE Eunsil (KOR) / SUK Eunmi (KOR),KIM Bokrae (KOR) / KIM Kyungah (KOR)
-Olympic Games Athens 2004,2004-08-14,STEFANOVA Nikoleta/TAN Wenling,KAFFO Bose/OSHONAIKE Olufunke,4,3,"11,11,12,10,5,10,11|9,6,10,12,11,12,9",R64,OLYMPICS,WD,918,Main Draw,STEFANOVA Nikoleta (ITA) / TAN Wenling (ITA),KAFFO Bose (NGR) / OSHONAIKE Olufunke (NGR)
-Olympic Games Athens 2004,2004-08-14,LI Chunli/LI Karen,LAY Jian Fang/MIAO Miao,4,2,"12,8,6,11,11,14|10,11,11,5,2,12",R64,OLYMPICS,WD,918,Main Draw,LI Chunli (NZL) / LI Karen (NZL),LAY Jian Fang (AUS) / MIAO Miao (AUS)
-Olympic Games Athens 2004,2004-08-14,KIM Hyang Mi/KIM Hyon Hui,LI Chunli/LI Karen,4,2,"11,11,11,11,11,11|8,13,6,13,5,4",R16,OLYMPICS,WD,918,Main Draw,KIM Hyang Mi (PRK) / KIM Hyon Hui (PRK),LI Chunli (NZL) / LI Karen (NZL)
-Olympic Games Athens 2004,2004-08-14,FADEEVA Oxana/MELNIK Galina,EDEM Offiong/AKPAN Cecilia,4,3,"7,11,11,11,6,10,11|11,3,9,2,11,12,6",R64,OLYMPICS,WD,918,Main Draw,FADEEVA Oxana (RUS) / MELNIK Galina (RUS),EDEM Offiong (NGR) / AKPAN Cecilia (NGR)
-Olympic Games Athens 2004,2004-08-14,TAN Paey Fern/ZHANG Xueling,PING Whitney/RATHER Jasna,4,0,"11,11,11,13|8,4,5,11",R64,OLYMPICS,WD,918,Main Draw,TAN Paey Fern (SGP) / ZHANG Xueling (SGP),PING Whitney (USA) / RATHER Jasna (USA)
-Olympic Games Athens 2004,2004-08-14,TAN Paey Fern/ZHANG Xueling,STEFF Mihaela/ZAMFIR Adriana,4,1,"8,11,12,11,11|11,6,10,9,8",R32,OLYMPICS,WD,918,Main Draw,TAN Paey Fern (SGP) / ZHANG Xueling (SGP),STEFF Mihaela (ROU) / ZAMFIR Adriana (ROU)
-Olympic Games Athens 2004,2004-08-14,HUANG Yi-Hua/LU Yun-Feng,BEN KAHIA Nesrine/GUENNI Olfa,4,0,"11,11,11,11|4,4,6,4",R64,OLYMPICS,WD,918,Main Draw,HUANG Yi-Hua (TPE) / LU Yun-Feng (TPE),BEN KAHIA Nesrine (TUN) / GUENNI Olfa (TUN)
-Olympic Games Athens 2004,2004-08-14,HUANG Yi-Hua/LU Yun-Feng,LOGATZKAYA Tatyana/PAVLOVICH Veronika,4,3,"10,10,11,7,14,11,11|12,12,7,11,12,9,7",R32,OLYMPICS,WD,918,Main Draw,HUANG Yi-Hua (TPE) / LU Yun-Feng (TPE),LOGATZKAYA Tatyana (BLR) / PAVLOVICH Veronika (BLR)
-Olympic Games Athens 2004,2004-08-14,BEN KAHIA Nesrine/GUENNI Olfa,MENAIFI Asma/NECHAB Souad,4,2,"11,11,11,9,8,11|9,7,5,11,11,8",QR4,OLYMPICS,WD,918,Qualification,BEN KAHIA Nesrine (TUN) / GUENNI Olfa (TUN),MENAIFI Asma (ALG) / NECHAB Souad (ALG)
-Olympic Games Athens 2004,2004-08-14,BANH THUA Tawny/GAO Jun,PEREZ Luisana/RAMOS Fabiola,4,0,"11,11,11,11|3,4,6,6",R64,OLYMPICS,WD,918,Main Draw,BANH THUA Tawny (USA) / GAO Jun (USA),PEREZ Luisana (VEN) / RAMOS Fabiola (VEN)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Olympic Games Athens 2004,2004-08-14,WOSIK Torben,GUEYE Mohamed,4,0,"11,11,11,11|4,5,6,4",R128,OLYMPICS,MS,918,Main Draw,WOSIK Torben (GER),GUEYE Mohamed (SEN),WOSIK Torben
+Olympic Games Athens 2004,2004-08-14,LIU Song,ARAI Shu,4,1,"11,7,12,11,11|7,11,10,5,4",R128,OLYMPICS,MS,918,Main Draw,LIU Song (ARG),ARAI Shu (JPN),LIU Song
+Olympic Games Athens 2004,2004-08-14,ACHANTA Sharath,BOUDJADJA Sofiene,4,0,"11,12,11,11|4,10,6,3",R128,OLYMPICS,MS,918,Main Draw,ACHANTA Sharath (IND),BOUDJADJA Sofiene (ALG),ACHANTA Sharath
+Olympic Games Athens 2004,2004-08-14,MEROTOHUN Monday,BABUNGU Bomboko,4,0,"11,11,11,11|5,8,8,8",R128,OLYMPICS,MS,918,Main Draw,MEROTOHUN Monday (NGR),BABUNGU Bomboko (COD),MEROTOHUN Monday
+Olympic Games Athens 2004,2004-08-14,YANG Min,DOAN Kien Quoc,4,1,"11,11,11,11,11|5,13,7,5,5",R128,OLYMPICS,MS,918,Main Draw,YANG Min (ITA),DOAN Kien Quoc (VIE),YANG Min
+Olympic Games Athens 2004,2004-08-14,HENZELL William,NGUYEN Khoa,4,1,"11,6,11,11,11|7,11,7,4,9",R128,OLYMPICS,MS,918,Main Draw,HENZELL William (AUS),NGUYEN Khoa (USA),HENZELL William
+Olympic Games Athens 2004,2004-08-14,LIN Ju,YUZAWA Ryo,4,1,"11,7,11,11,11|8,11,8,3,9",R128,OLYMPICS,MS,918,Main Draw,LIN Ju (DOM),YUZAWA Ryo (JPN),LIN Ju
+Olympic Games Athens 2004,2004-08-14,KRZESZEWSKI Tomasz,HOYAMA Hugo,4,0,"12,11,11,11|10,4,4,8",R128,OLYMPICS,MS,918,Main Draw,KRZESZEWSKI Tomasz (POL),HOYAMA Hugo (BRA),KRZESZEWSKI Tomasz
+Olympic Games Athens 2004,2004-08-14,MATSUSHITA Koji,BROWN Trevor,4,0,"11,11,11,11|4,6,9,3",R128,OLYMPICS,MS,918,Main Draw,MATSUSHITA Koji (JPN),BROWN Trevor (AUS),MATSUSHITA Koji
+Olympic Games Athens 2004,2004-08-14,LUPULESKU Ilija,PAPIC Juan,4,0,"11,11,11,11|2,4,5,2",R128,OLYMPICS,MS,918,Main Draw,LUPULESKU Ilija (USA),PAPIC Juan (CHI),LUPULESKU Ilija
+Olympic Games Athens 2004,2004-08-14,O Il,LUYINDULA Jose,4,1,"11,11,9,11,11|7,8,11,4,7",R128,OLYMPICS,MS,918,Main Draw,O Il (PRK),LUYINDULA Jose (COD),O Il
+Olympic Games Athens 2004,2004-08-14,HE Zhiwen,GIONIS Panagiotis,4,1,"11,13,11,11,15|7,11,4,13,13",R128,OLYMPICS,MS,918,Main Draw,HE Zhiwen (ESP),GIONIS Panagiotis (GRE),HE Zhiwen
+Olympic Games Athens 2004,2004-08-14,MONTEIRO Thiago,AKHLAGHPASAND Mohammadreza,4,1,"11,9,11,11,11|8,13,9,7,5",R128,OLYMPICS,MS,918,Main Draw,MONTEIRO Thiago (BRA),AKHLAGHPASAND Mohammadreza (USA),MONTEIRO Thiago
+Olympic Games Athens 2004,2004-08-14,TORIOLA Segun,TABACHNIK Pablo,4,1,"12,11,11,11,11|10,8,13,3,8",R128,OLYMPICS,MS,918,Main Draw,TORIOLA Segun (NGR),TABACHNIK Pablo (ARG),TORIOLA Segun
+Olympic Games Athens 2004,2004-08-14,KARAKASEVIC Aleksandar,AL-HARBI Khaled,4,0,"11,11,11,11|9,3,3,3",R128,OLYMPICS,MS,918,Main Draw,KARAKASEVIC Aleksandar (SRB),AL-HARBI Khaled (KSA),KARAKASEVIC Aleksandar
+Olympic Games Athens 2004,2004-08-14,MILICEVIC Srdan,LAVALE Russell,4,2,"10,11,11,9,18,13|12,9,4,11,16,11",R128,OLYMPICS,MS,918,Main Draw,MILICEVIC Srdan (BIH),LAVALE Russell (AUS),MILICEVIC Srdan
+Olympic Games Athens 2004,2004-08-14,KEEN Trinko,WOSIK Torben,4,3,"12,10,7,11,5,13,11|10,12,11,5,11,11,9",R64,OLYMPICS,MS,918,Main Draw,KEEN Trinko (NED),WOSIK Torben (GER),KEEN Trinko
+Olympic Games Athens 2004,2004-08-14,LIU Song,GRUJIC Slobodan,4,1,"11,11,4,11,14|4,7,11,2,12",R64,OLYMPICS,MS,918,Main Draw,LIU Song (ARG),GRUJIC Slobodan (SRB),LIU Song
+Olympic Games Athens 2004,2004-08-14,KO Lai Chak,ACHANTA Sharath,4,0,"11,11,11,11|9,5,9,6",R64,OLYMPICS,MS,918,Main Draw,KO Lai Chak (HKG),ACHANTA Sharath (IND),KO Lai Chak
+Olympic Games Athens 2004,2004-08-14,PERSSON Jorgen,MEROTOHUN Monday,4,1,"9,11,11,11,11|11,5,5,7,8",R64,OLYMPICS,MS,918,Main Draw,PERSSON Jorgen (SWE),MEROTOHUN Monday (NGR),PERSSON Jorgen
+Olympic Games Athens 2004,2004-08-14,KARLSSON Peter,YANG Min,4,3,"11,11,11,9,7,11,11|9,4,8,11,11,13,9",R64,OLYMPICS,MS,918,Main Draw,KARLSSON Peter (SWE),YANG Min (ITA),KARLSSON Peter
+Olympic Games Athens 2004,2004-08-14,CHEN Weixing,HENZELL William,4,0,"11,11,12,11|7,3,10,6",R64,OLYMPICS,MS,918,Main Draw,CHEN Weixing (AUT),HENZELL William (AUS),CHEN Weixing
+Olympic Games Athens 2004,2004-08-14,LIN Ju,SMIRNOV Alexey,4,0,"11,11,11,11|9,4,5,6",R64,OLYMPICS,MS,918,Main Draw,LIN Ju (DOM),SMIRNOV Alexey (RUS),LIN Ju
+Olympic Games Athens 2004,2004-08-14,ROSSKOPF Jorg,KRZESZEWSKI Tomasz,4,1,"6,11,11,17,13|11,8,7,15,11",R64,OLYMPICS,MS,918,Main Draw,ROSSKOPF Jorg (GER),KRZESZEWSKI Tomasz (POL),ROSSKOPF Jorg
+Olympic Games Athens 2004,2004-08-14,MATSUSHITA Koji,HEISTER Danny,4,0,"11,11,11,11|7,7,8,4",R64,OLYMPICS,MS,918,Main Draw,MATSUSHITA Koji (JPN),HEISTER Danny (NED),MATSUSHITA Koji
+Olympic Games Athens 2004,2004-08-14,CRISAN Adrian,LUPULESKU Ilija,4,0,"11,11,15,11|9,8,13,8",R64,OLYMPICS,MS,918,Main Draw,CRISAN Adrian (ROU),LUPULESKU Ilija (USA),CRISAN Adrian
+Olympic Games Athens 2004,2004-08-14,LEUNG Chu Yan,O Il,4,1,"11,11,11,11,11|3,9,13,4,8",R64,OLYMPICS,MS,918,Main Draw,LEUNG Chu Yan (HKG),O Il (PRK),LEUNG Chu Yan
+Olympic Games Athens 2004,2004-08-14,BLASZCZYK Lucjan,HE Zhiwen,4,3,"11,10,11,8,7,11,11|5,12,2,11,11,6,9",R64,OLYMPICS,MS,918,Main Draw,BLASZCZYK Lucjan (POL),HE Zhiwen (ESP),BLASZCZYK Lucjan
+Olympic Games Athens 2004,2004-08-14,LI Ching,MONTEIRO Thiago,4,1,"11,9,11,11,11|6,11,7,9,5",R64,OLYMPICS,MS,918,Main Draw,LI Ching (HKG),MONTEIRO Thiago (BRA),LI Ching
+Olympic Games Athens 2004,2004-08-14,CHILA Patrick,TORIOLA Segun,4,2,"11,8,10,11,11,11|3,11,12,7,8,9",R64,OLYMPICS,MS,918,Main Draw,CHILA Patrick (FRA),TORIOLA Segun (NGR),CHILA Patrick
+Olympic Games Athens 2004,2004-08-14,KARAKASEVIC Aleksandar,HUANG Johnny,4,2,"7,11,11,9,11,11|11,8,5,11,9,9",R64,OLYMPICS,MS,918,Main Draw,KARAKASEVIC Aleksandar (SRB),HUANG Johnny (CAN),KARAKASEVIC Aleksandar
+Olympic Games Athens 2004,2004-08-14,PRIMORAC Zoran,MILICEVIC Srdan,4,1,"8,11,11,11,11|11,6,7,8,8",R64,OLYMPICS,MS,918,Main Draw,PRIMORAC Zoran (CRO),MILICEVIC Srdan (BIH),PRIMORAC Zoran
+Olympic Games Athens 2004,2004-08-14,WANG Liqin,KEEN Trinko,4,1,"6,11,11,11,11|11,1,8,4,2",R32,OLYMPICS,MS,918,Main Draw,WANG Liqin (CHN),KEEN Trinko (NED),WANG Liqin
+Olympic Games Athens 2004,2004-08-14,JOO Saehyuk,LIU Song,4,0,"14,11,11,11|12,9,6,8",R32,OLYMPICS,MS,918,Main Draw,JOO Saehyuk (KOR),LIU Song (ARG),JOO Saehyuk
+Olympic Games Athens 2004,2004-08-14,KO Lai Chak,KORBEL Petr,4,3,"11,9,11,2,11,9,11|7,11,7,11,6,11,7",R32,OLYMPICS,MS,918,Main Draw,KO Lai Chak (HKG),KORBEL Petr (CZE),KO Lai Chak
+Olympic Games Athens 2004,2004-08-14,PERSSON Jorgen,KREANGA Kalinikos,4,0,"11,11,11,11|5,7,9,8",R32,OLYMPICS,MS,918,Main Draw,PERSSON Jorgen (SWE),KREANGA Kalinikos (GRE),PERSSON Jorgen
+Olympic Games Athens 2004,2004-08-14,CHUANG Chih-Yuan,KARLSSON Peter,4,2,"16,11,8,11,11,11|18,6,11,7,3,8",R32,OLYMPICS,MS,918,Main Draw,CHUANG Chih-Yuan (TPE),KARLSSON Peter (SWE),CHUANG Chih-Yuan
+Olympic Games Athens 2004,2004-08-14,OH Sangeun,CHEN Weixing,4,3,"7,11,11,11,5,9,11|11,6,7,8,11,11,2",R32,OLYMPICS,MS,918,Main Draw,OH Sangeun (KOR),CHEN Weixing (AUT),OH Sangeun
+Olympic Games Athens 2004,2004-08-14,LIN Ju,SAIVE Jean-Michel,4,2,"11,11,5,11,18,11|5,4,11,13,16,8",R32,OLYMPICS,MS,918,Main Draw,LIN Ju (DOM),SAIVE Jean-Michel (BEL),LIN Ju
+Olympic Games Athens 2004,2004-08-14,WANG Hao,ROSSKOPF Jorg,4,1,"11,12,11,11,11|5,10,5,13,6",R32,OLYMPICS,MS,918,Main Draw,WANG Hao (CHN),ROSSKOPF Jorg (GER),WANG Hao
+Olympic Games Athens 2004,2004-08-14,RYU Seungmin,MATSUSHITA Koji,4,0,"11,11,11,11|9,6,6,2",R32,OLYMPICS,MS,918,Main Draw,RYU Seungmin (KOR),MATSUSHITA Koji (JPN),RYU Seungmin
+Olympic Games Athens 2004,2004-08-14,CHIANG Peng-Lung,CRISAN Adrian,4,1,"11,11,12,2,11|9,5,10,11,8",R32,OLYMPICS,MS,918,Main Draw,CHIANG Peng-Lung (TPE),CRISAN Adrian (ROU),CHIANG Peng-Lung
+Olympic Games Athens 2004,2004-08-14,LEUNG Chu Yan,MAZE Michael,4,1,"6,11,11,11,11|11,5,3,8,9",R32,OLYMPICS,MS,918,Main Draw,LEUNG Chu Yan (HKG),MAZE Michael (DEN),LEUNG Chu Yan
+Olympic Games Athens 2004,2004-08-14,SAMSONOV Vladimir,BLASZCZYK Lucjan,4,2,"11,5,12,8,11,11|5,11,10,11,4,9",R32,OLYMPICS,MS,918,Main Draw,SAMSONOV Vladimir (BLR),BLASZCZYK Lucjan (POL),SAMSONOV Vladimir
+Olympic Games Athens 2004,2004-08-14,SCHLAGER Werner,LI Ching,4,2,"8,11,12,11,11,11|11,9,14,9,9,6",R32,OLYMPICS,MS,918,Main Draw,SCHLAGER Werner (AUT),LI Ching (HKG),SCHLAGER Werner
+Olympic Games Athens 2004,2004-08-14,BOLL Timo,CHILA Patrick,4,1,"11,14,11,11,11|3,16,9,3,9",R32,OLYMPICS,MS,918,Main Draw,BOLL Timo (GER),CHILA Patrick (FRA),BOLL Timo
+Olympic Games Athens 2004,2004-08-14,WALDNER Jan-Ove,KARAKASEVIC Aleksandar,4,2,"13,11,5,11,10,11|11,9,11,6,12,9",R32,OLYMPICS,MS,918,Main Draw,WALDNER Jan-Ove (SWE),KARAKASEVIC Aleksandar (SRB),WALDNER Jan-Ove
+Olympic Games Athens 2004,2004-08-14,MA Lin,PRIMORAC Zoran,4,1,"11,11,11,9,11|5,3,3,11,5",R32,OLYMPICS,MS,918,Main Draw,MA Lin (CHN),PRIMORAC Zoran (CRO),MA Lin
+Olympic Games Athens 2004,2004-08-14,WANG Liqin,JOO Saehyuk,4,1,"11,11,9,11,11|7,8,11,6,6",R16,OLYMPICS,MS,918,Main Draw,WANG Liqin (CHN),JOO Saehyuk (KOR),WANG Liqin
+Olympic Games Athens 2004,2004-08-14,KO Lai Chak,PERSSON Jorgen,4,1,"11,11,8,11,12|7,6,11,4,10",R16,OLYMPICS,MS,918,Main Draw,KO Lai Chak (HKG),PERSSON Jorgen (SWE),KO Lai Chak
+Olympic Games Athens 2004,2004-08-14,CHUANG Chih-Yuan,OH Sangeun,4,2,"12,12,6,12,9,11|10,10,11,10,11,5",R16,OLYMPICS,MS,918,Main Draw,CHUANG Chih-Yuan (TPE),OH Sangeun (KOR),CHUANG Chih-Yuan
+Olympic Games Athens 2004,2004-08-14,WANG Hao,LIN Ju,4,1,"11,11,7,12,11|5,7,11,10,6",R16,OLYMPICS,MS,918,Main Draw,WANG Hao (CHN),LIN Ju (DOM),WANG Hao
+Olympic Games Athens 2004,2004-08-14,RYU Seungmin,CHIANG Peng-Lung,4,3,"11,11,7,8,11,6,11|6,6,11,11,3,11,4",R16,OLYMPICS,MS,918,Main Draw,RYU Seungmin (KOR),CHIANG Peng-Lung (TPE),RYU Seungmin
+Olympic Games Athens 2004,2004-08-14,LEUNG Chu Yan,SAMSONOV Vladimir,4,3,"11,6,11,6,11,7,11|7,11,9,11,5,11,8",R16,OLYMPICS,MS,918,Main Draw,LEUNG Chu Yan (HKG),SAMSONOV Vladimir (BLR),LEUNG Chu Yan
+Olympic Games Athens 2004,2004-08-14,BOLL Timo,SCHLAGER Werner,4,3,"11,12,11,11,6,4,11|2,14,5,9,11,11,6",R16,OLYMPICS,MS,918,Main Draw,BOLL Timo (GER),SCHLAGER Werner (AUT),BOLL Timo
+Olympic Games Athens 2004,2004-08-14,WALDNER Jan-Ove,MA Lin,4,1,"11,12,7,11,11|9,10,11,5,9",R16,OLYMPICS,MS,918,Main Draw,WALDNER Jan-Ove (SWE),MA Lin (CHN),WALDNER Jan-Ove
+Olympic Games Athens 2004,2004-08-14,WANG Liqin,KO Lai Chak,4,1,"11,13,6,11,11|9,11,11,8,4",QF,OLYMPICS,MS,918,Main Draw,WANG Liqin (CHN),KO Lai Chak (HKG),WANG Liqin
+Olympic Games Athens 2004,2004-08-14,WANG Hao,CHUANG Chih-Yuan,4,2,"5,12,9,11,11,11|11,10,11,4,6,7",QF,OLYMPICS,MS,918,Main Draw,WANG Hao (CHN),CHUANG Chih-Yuan (TPE),WANG Hao
+Olympic Games Athens 2004,2004-08-14,RYU Seungmin,LEUNG Chu Yan,4,2,"6,10,11,11,11,11|11,12,6,6,9,5",QF,OLYMPICS,MS,918,Main Draw,RYU Seungmin (KOR),LEUNG Chu Yan (HKG),RYU Seungmin
+Olympic Games Athens 2004,2004-08-14,WALDNER Jan-Ove,BOLL Timo,4,1,"11,13,6,11,13|7,11,11,7,11",QF,OLYMPICS,MS,918,Main Draw,WALDNER Jan-Ove (SWE),BOLL Timo (GER),WALDNER Jan-Ove
+Olympic Games Athens 2004,2004-08-14,WANG Hao,WANG Liqin,4,1,"11,11,6,11,11|8,5,11,9,3",SF,OLYMPICS,MS,918,Main Draw,WANG Hao (CHN),WANG Liqin (CHN),WANG Hao
+Olympic Games Athens 2004,2004-08-14,RYU Seungmin,WALDNER Jan-Ove,4,1,"11,9,11,11,11|9,11,9,5,5",SF,OLYMPICS,MS,918,Main Draw,RYU Seungmin (KOR),WALDNER Jan-Ove (SWE),RYU Seungmin
+Olympic Games Athens 2004,2004-08-14,RYU Seungmin,WANG Hao,4,2,"11,9,11,11,11,11|3,11,9,9,13,9",F,OLYMPICS,MS,918,Main Draw,RYU Seungmin (KOR),WANG Hao (CHN),RYU Seungmin
+Olympic Games Athens 2004,2004-08-14,WANG Liqin,WALDNER Jan-Ove,4,1,"10,11,11,11,11|12,3,8,7,9",3RD,OLYMPICS,MS,918,Position Draw,WANG Liqin (CHN),WALDNER Jan-Ove (SWE),WANG Liqin
+Olympic Games Athens 2004,2004-08-14,BANH THUA Tawny,YOON Jihye,4,3,"8,11,9,16,3,11,11|11,9,11,14,11,8,6",R128,OLYMPICS,WS,918,Main Draw,BANH THUA Tawny (USA),YOON Jihye (KOR),BANH THUA Tawny
+Olympic Games Athens 2004,2004-08-14,NEGRISOLI Laura,RAMOS Fabiola,4,1,"11,11,11,8,11|9,5,6,11,3",R128,OLYMPICS,WS,918,Main Draw,NEGRISOLI Laura (ITA),RAMOS Fabiola (VEN),NEGRISOLI Laura
+Olympic Games Athens 2004,2004-08-14,KOMWONG Nanthana,DAS Mouma,4,0,"11,11,11,12|6,7,3,10",R128,OLYMPICS,WS,918,Main Draw,KOMWONG Nanthana (THA),DAS Mouma (IND),KOMWONG Nanthana
+Olympic Games Athens 2004,2004-08-14,KRAVCHENKO Marina,VOLAKAKI Archontoula,4,0,"11,11,11,11|6,5,4,5",R128,OLYMPICS,WS,918,Main Draw,KRAVCHENKO Marina (ISR),VOLAKAKI Archontoula (GRE),KRAVCHENKO Marina
+Olympic Games Athens 2004,2004-08-14,OSHONAIKE Olufunke,RODRIGUEZ Berta,4,0,"11,11,11,11|9,8,7,9",R128,OLYMPICS,WS,918,Main Draw,OSHONAIKE Olufunke (NGR),RODRIGUEZ Berta (CHI),OSHONAIKE Olufunke
+Olympic Games Athens 2004,2004-08-14,ERDELJI Silvija,BEN KAHIA Nesrine,4,0,"11,11,11,11|3,1,3,7",R128,OLYMPICS,WS,918,Main Draw,ERDELJI Silvija (SRB),BEN KAHIA Nesrine (TUN),ERDELJI Silvija
+Olympic Games Athens 2004,2004-08-14,MIAO Miao,ESPINEIRA Marisol,4,2,"11,11,5,4,11,11|8,9,11,11,6,6",R128,OLYMPICS,WS,918,Main Draw,MIAO Miao (AUS),ESPINEIRA Marisol (PER),MIAO Miao
+Olympic Games Athens 2004,2004-08-14,HUANG Yi-Hua,BOUCETTA Leila,4,0,"11,11,11,11|8,3,4,7",R128,OLYMPICS,WS,918,Main Draw,HUANG Yi-Hua (TPE),BOUCETTA Leila (ALG),HUANG Yi-Hua
+Olympic Games Athens 2004,2004-08-14,LAY Jian Fang,MOLNAR Cornelia,4,0,"12,11,11,13|10,5,6,11",R128,OLYMPICS,WS,918,Main Draw,LAY Jian Fang (AUS),MOLNAR Cornelia (CRO),LAY Jian Fang
+Olympic Games Athens 2004,2004-08-14,FAZEKAS Maria,INOYATOVA Manzura,4,0,"11,11,11,11|6,7,3,7",R128,OLYMPICS,WS,918,Main Draw,FAZEKAS Maria (HUN),INOYATOVA Manzura (UZB),FAZEKAS Maria
+Olympic Games Athens 2004,2004-08-14,RATHER Jasna,STRBIKOVA Renata,4,2,"9,6,15,11,11,11|11,11,13,4,8,9",R128,OLYMPICS,WS,918,Main Draw,RATHER Jasna (USA),STRBIKOVA Renata (CZE),RATHER Jasna
+Olympic Games Athens 2004,2004-08-14,WU Xue,FADEEVA Oxana,4,1,"9,11,11,11,11|11,8,6,7,9",R128,OLYMPICS,WS,918,Main Draw,WU Xue (DOM),FADEEVA Oxana (RUS),WU Xue
+Olympic Games Athens 2004,2004-08-14,CADA Petra,GUENNI Olfa,4,0,"11,11,11,11|4,7,4,7",R128,OLYMPICS,WS,918,Main Draw,CADA Petra (CAN),GUENNI Olfa (TUN),CADA Petra
+Olympic Games Athens 2004,2004-08-14,STEFANOVA Nikoleta,MENAIFI Asma,4,0,"11,11,11,11|6,8,6,6",R128,OLYMPICS,WS,918,Main Draw,STEFANOVA Nikoleta (ITA),MENAIFI Asma (ALG),STEFANOVA Nikoleta
+Olympic Games Athens 2004,2004-08-14,SHABAN Zeina,MEDINA Iizzwa,4,3,"11,11,11,9,11,9,11|7,13,8,11,5,11,9",R128,OLYMPICS,WS,918,Main Draw,SHABAN Zeina (JOR),MEDINA Iizzwa (HON),SHABAN Zeina
+Olympic Games Athens 2004,2004-08-14,AKPAN Cecilia,SILVA Ligia,4,1,"11,11,9,12,11|8,6,11,10,8",R128,OLYMPICS,WS,918,Main Draw,AKPAN Cecilia (NGR),SILVA Ligia (BRA),AKPAN Cecilia
+Olympic Games Athens 2004,2004-08-14,LI Chunli,BANH THUA Tawny,4,1,"11,12,11,8,11|8,10,9,11,9",R64,OLYMPICS,WS,918,Main Draw,LI Chunli (NZL),BANH THUA Tawny (USA),LI Chunli
+Olympic Games Athens 2004,2004-08-14,GANINA Svetlana,NEGRISOLI Laura,4,2,"11,14,7,3,11,11|9,12,11,11,6,9",R64,OLYMPICS,WS,918,Main Draw,GANINA Svetlana (RUS),NEGRISOLI Laura (ITA),GANINA Svetlana
+Olympic Games Athens 2004,2004-08-14,KOMWONG Nanthana,STRUSE Nicole,4,1,"11,11,9,11,13|7,4,11,7,11",R64,OLYMPICS,WS,918,Main Draw,KOMWONG Nanthana (THA),STRUSE Nicole (GER),KOMWONG Nanthana
+Olympic Games Athens 2004,2004-08-14,KRAVCHENKO Marina,BADESCU Otilia,4,2,"11,11,4,11,8,11|6,9,11,3,11,6",R64,OLYMPICS,WS,918,Main Draw,KRAVCHENKO Marina (ISR),BADESCU Otilia (ROU),KRAVCHENKO Marina
+Olympic Games Athens 2004,2004-08-14,TOTH Krisztina,OSHONAIKE Olufunke,4,2,"10,12,14,11,15,11|12,10,16,6,13,5",R64,OLYMPICS,WS,918,Main Draw,TOTH Krisztina (HUN),OSHONAIKE Olufunke (NGR),TOTH Krisztina
+Olympic Games Athens 2004,2004-08-14,JING Junhong,ERDELJI Silvija,4,2,"11,11,10,11,4,11|3,8,12,4,11,6",R64,OLYMPICS,WS,918,Main Draw,JING Junhong (SGP),ERDELJI Silvija (SRB),JING Junhong
+Olympic Games Athens 2004,2004-08-14,FUKUHARA Ai,MIAO Miao,4,3,"5,7,11,11,11,9,11|11,11,9,6,5,11,9",R64,OLYMPICS,WS,918,Main Draw,FUKUHARA Ai (JPN),MIAO Miao (AUS),FUKUHARA Ai
+Olympic Games Athens 2004,2004-08-14,TAN Wenling,HUANG Yi-Hua,4,2,"11,9,11,9,13,11|3,11,9,11,11,7",R64,OLYMPICS,WS,918,Main Draw,TAN Wenling (ITA),HUANG Yi-Hua (TPE),TAN Wenling
+Olympic Games Athens 2004,2004-08-14,SCHALL Elke,LAY Jian Fang,4,2,"3,11,6,11,11,12|11,6,11,7,8,10",R64,OLYMPICS,WS,918,Main Draw,SCHALL Elke (GER),LAY Jian Fang (AUS),SCHALL Elke
+Olympic Games Athens 2004,2004-08-14,KIM Hyang Mi,FAZEKAS Maria,4,1,"11,11,9,11,11|7,8,11,8,8",R64,OLYMPICS,WS,918,Main Draw,KIM Hyang Mi (PRK),FAZEKAS Maria (HUN),KIM Hyang Mi
+Olympic Games Athens 2004,2004-08-14,ZHANG Xueling,RATHER Jasna,4,1,"11,11,8,11,11|7,7,11,7,5",R64,OLYMPICS,WS,918,Main Draw,ZHANG Xueling (SGP),RATHER Jasna (USA),ZHANG Xueling
+Olympic Games Athens 2004,2004-08-14,FUJINUMA Ai,WU Xue,4,0,"13,11,14,11|11,7,12,5",R64,OLYMPICS,WS,918,Main Draw,FUJINUMA Ai (JPN),WU Xue (DOM),FUJINUMA Ai
+Olympic Games Athens 2004,2004-08-14,CADA Petra,BATORFI Csilla,4,3,"11,9,16,11,11,8,12|7,11,18,6,8,11,10",R64,OLYMPICS,WS,918,Main Draw,CADA Petra (CAN),BATORFI Csilla (HUN),CADA Petra
+Olympic Games Athens 2004,2004-08-14,SCHOPP Jie,STEFANOVA Nikoleta,4,1,"11,11,11,12,11|5,13,5,10,7",R64,OLYMPICS,WS,918,Main Draw,SCHOPP Jie (GER),STEFANOVA Nikoleta (ITA),SCHOPP Jie
+Olympic Games Athens 2004,2004-08-14,ZAMFIR Adriana,SHABAN Zeina,4,1,"8,11,11,11,11|11,5,8,5,4",R64,OLYMPICS,WS,918,Main Draw,ZAMFIR Adriana (ROU),SHABAN Zeina (JOR),ZAMFIR Adriana
+Olympic Games Athens 2004,2004-08-14,KIM Yun Mi,AKPAN Cecilia,4,0,"11,11,11,11|5,7,6,8",R64,OLYMPICS,WS,918,Main Draw,KIM Yun Mi (PRK),AKPAN Cecilia (NGR),KIM Yun Mi
+Olympic Games Athens 2004,2004-08-14,ZHANG Yining,LI Chunli,4,0,"11,12,11,11|8,10,5,7",R32,OLYMPICS,WS,918,Main Draw,ZHANG Yining (CHN),LI Chunli (NZL),ZHANG Yining
+Olympic Games Athens 2004,2004-08-14,LAU Sui Fei,GANINA Svetlana,4,1,"11,11,10,11,11|3,6,12,5,6",R32,OLYMPICS,WS,918,Main Draw,LAU Sui Fei (HKG),GANINA Svetlana (RUS),LAU Sui Fei
+Olympic Games Athens 2004,2004-08-14,PAVLOVICH Viktoria,KOMWONG Nanthana,4,2,"11,11,9,11,7,11|4,6,11,3,11,1",R32,OLYMPICS,WS,918,Main Draw,PAVLOVICH Viktoria (BLR),KOMWONG Nanthana (THA),PAVLOVICH Viktoria
+Olympic Games Athens 2004,2004-08-14,BOROS Tamara,KRAVCHENKO Marina,4,0,"11,11,11,11|8,6,5,7",R32,OLYMPICS,WS,918,Main Draw,BOROS Tamara (CRO),KRAVCHENKO Marina (ISR),BOROS Tamara
+Olympic Games Athens 2004,2004-08-14,TIE Yana,TOTH Krisztina,4,1,"11,6,12,14,11|6,11,10,12,6",R32,OLYMPICS,WS,918,Main Draw,TIE Yana (HKG),TOTH Krisztina (HUN),TIE Yana
+Olympic Games Athens 2004,2004-08-14,KIM Hyon Hui,JING Junhong,4,2,"7,11,6,11,11,11|11,8,11,5,4,9",R32,OLYMPICS,WS,918,Main Draw,KIM Hyon Hui (PRK),JING Junhong (SGP),KIM Hyon Hui
+Olympic Games Athens 2004,2004-08-14,FUKUHARA Ai,GAO Jun,4,0,"11,11,11,11|3,6,8,9",R32,OLYMPICS,WS,918,Main Draw,FUKUHARA Ai (JPN),GAO Jun (USA),FUKUHARA Ai
+Olympic Games Athens 2004,2004-08-14,KIM Kyungah,TAN Wenling,4,1,"9,11,11,11,11|11,7,5,3,9",R32,OLYMPICS,WS,918,Main Draw,KIM Kyungah (KOR),TAN Wenling (ITA),KIM Kyungah
+Olympic Games Athens 2004,2004-08-14,NIU Jianfeng,SCHALL Elke,4,3,"12,12,11,10,11,11,11|14,14,5,12,6,2,6",R32,OLYMPICS,WS,918,Main Draw,NIU Jianfeng (CHN),SCHALL Elke (GER),NIU Jianfeng
+Olympic Games Athens 2004,2004-08-14,KIM Hyang Mi,STEFF Mihaela,4,2,"7,11,11,11,6,11|11,8,7,7,11,9",R32,OLYMPICS,WS,918,Main Draw,KIM Hyang Mi (PRK),STEFF Mihaela (ROU),KIM Hyang Mi
+Olympic Games Athens 2004,2004-08-14,ZHANG Xueling,LEE Eunsil,4,1,"11,11,11,9,11|5,7,9,11,6",R32,OLYMPICS,WS,918,Main Draw,ZHANG Xueling (SGP),LEE Eunsil (KOR),ZHANG Xueling
+Olympic Games Athens 2004,2004-08-14,FUJINUMA Ai,LIU Jia,4,3,"7,6,12,11,11,8,11|11,11,10,6,7,11,7",R32,OLYMPICS,WS,918,Main Draw,FUJINUMA Ai (JPN),LIU Jia (AUT),FUJINUMA Ai
+Olympic Games Athens 2004,2004-08-14,LI Jiawei,CADA Petra,4,0,"11,11,11,11|4,6,7,8",R32,OLYMPICS,WS,918,Main Draw,LI Jiawei (SGP),CADA Petra (CAN),LI Jiawei
+Olympic Games Athens 2004,2004-08-14,UMEMURA Aya,SCHOPP Jie,4,2,"15,9,12,4,11,11|13,11,10,11,7,3",R32,OLYMPICS,WS,918,Main Draw,UMEMURA Aya (JPN),SCHOPP Jie (GER),UMEMURA Aya
+Olympic Games Athens 2004,2004-08-14,ZAMFIR Adriana,LIN Ling,4,2,"11,11,5,11,7,12|6,7,11,8,11,10",R32,OLYMPICS,WS,918,Main Draw,ZAMFIR Adriana (ROU),LIN Ling (HKG),ZAMFIR Adriana
+Olympic Games Athens 2004,2004-08-14,WANG Nan,KIM Yun Mi,4,2,"11,13,8,11,11,11|6,15,11,2,5,9",R32,OLYMPICS,WS,918,Main Draw,WANG Nan (CHN),KIM Yun Mi (PRK),WANG Nan
+Olympic Games Athens 2004,2004-08-14,ZHANG Yining,LAU Sui Fei,4,1,"11,11,11,9,11|5,7,3,11,5",R16,OLYMPICS,WS,918,Main Draw,ZHANG Yining (CHN),LAU Sui Fei (HKG),ZHANG Yining
+Olympic Games Athens 2004,2004-08-14,BOROS Tamara,PAVLOVICH Viktoria,4,2,"11,11,9,11,6,11|5,8,11,8,11,7",R16,OLYMPICS,WS,918,Main Draw,BOROS Tamara (CRO),PAVLOVICH Viktoria (BLR),BOROS Tamara
+Olympic Games Athens 2004,2004-08-14,TIE Yana,KIM Hyon Hui,4,1,"11,11,11,8,11|6,7,4,11,8",R16,OLYMPICS,WS,918,Main Draw,TIE Yana (HKG),KIM Hyon Hui (PRK),TIE Yana
+Olympic Games Athens 2004,2004-08-14,KIM Kyungah,FUKUHARA Ai,4,1,"11,11,7,15,11|8,5,11,13,6",R16,OLYMPICS,WS,918,Main Draw,KIM Kyungah (KOR),FUKUHARA Ai (JPN),KIM Kyungah
+Olympic Games Athens 2004,2004-08-14,KIM Hyang Mi,NIU Jianfeng,4,0,"11,11,11,11|8,9,9,4",R16,OLYMPICS,WS,918,Main Draw,KIM Hyang Mi (PRK),NIU Jianfeng (CHN),KIM Hyang Mi
+Olympic Games Athens 2004,2004-08-14,ZHANG Xueling,FUJINUMA Ai,4,2,"11,11,6,11,9,11|7,8,11,7,11,9",R16,OLYMPICS,WS,918,Main Draw,ZHANG Xueling (SGP),FUJINUMA Ai (JPN),ZHANG Xueling
+Olympic Games Athens 2004,2004-08-14,LI Jiawei,UMEMURA Aya,4,2,"14,13,8,15,9,11|12,11,11,13,11,7",R16,OLYMPICS,WS,918,Main Draw,LI Jiawei (SGP),UMEMURA Aya (JPN),LI Jiawei
+Olympic Games Athens 2004,2004-08-14,WANG Nan,ZAMFIR Adriana,4,1,"9,11,11,11,11|11,8,2,9,4",R16,OLYMPICS,WS,918,Main Draw,WANG Nan (CHN),ZAMFIR Adriana (ROU),WANG Nan
+Olympic Games Athens 2004,2004-08-14,ZHANG Yining,BOROS Tamara,4,0,"12,15,13,11|10,13,11,3",QF,OLYMPICS,WS,918,Main Draw,ZHANG Yining (CHN),BOROS Tamara (CRO),ZHANG Yining
+Olympic Games Athens 2004,2004-08-14,KIM Kyungah,TIE Yana,4,1,"11,10,11,11,11|6,12,9,7,7",QF,OLYMPICS,WS,918,Main Draw,KIM Kyungah (KOR),TIE Yana (HKG),KIM Kyungah
+Olympic Games Athens 2004,2004-08-14,KIM Hyang Mi,ZHANG Xueling,4,2,"11,11,9,11,8,12|7,4,11,8,11,10",QF,OLYMPICS,WS,918,Main Draw,KIM Hyang Mi (PRK),ZHANG Xueling (SGP),KIM Hyang Mi
+Olympic Games Athens 2004,2004-08-14,LI Jiawei,WANG Nan,4,1,"11,11,11,11,11|7,7,13,9,8",QF,OLYMPICS,WS,918,Main Draw,LI Jiawei (SGP),WANG Nan (CHN),LI Jiawei
+Olympic Games Athens 2004,2004-08-14,ZHANG Yining,KIM Kyungah,4,1,"13,11,11,5,11|11,8,6,11,8",SF,OLYMPICS,WS,918,Main Draw,ZHANG Yining (CHN),KIM Kyungah (KOR),ZHANG Yining
+Olympic Games Athens 2004,2004-08-14,KIM Hyang Mi,LI Jiawei,4,3,"8,11,0,8,11,11,11|11,6,11,11,8,6,9",SF,OLYMPICS,WS,918,Main Draw,KIM Hyang Mi (PRK),LI Jiawei (SGP),KIM Hyang Mi
+Olympic Games Athens 2004,2004-08-14,ZHANG Yining,KIM Hyang Mi,4,0,"11,11,11,11|8,7,2,2",F,OLYMPICS,WS,918,Main Draw,ZHANG Yining (CHN),KIM Hyang Mi (PRK),ZHANG Yining
+Olympic Games Athens 2004,2004-08-14,KIM Kyungah,LI Jiawei,4,1,"9,11,11,11,11|11,8,7,5,8",3RD,OLYMPICS,WS,918,Position Draw,KIM Kyungah (KOR),LI Jiawei (SGP),KIM Kyungah
+Olympic Games Athens 2004,2004-08-14,ARAI Shu/YUZAWA Ryo,BOUDJADJA Sofiene/DJAZIRI Abdelhakim,4,0,"11,11,11,18|6,2,8,16",R64,OLYMPICS,MD,918,Main Draw,ARAI Shu (JPN) / YUZAWA Ryo (JPN),BOUDJADJA Sofiene (ALG) / DJAZIRI Abdelhakim (ALG),ARAI Shu
+Olympic Games Athens 2004,2004-08-14,GIONIS Panagiotis/KREANGA Kalinikos,GONZALES Enrique/TABACHNIK Pablo,4,1,"11,11,11,9,11|7,7,2,11,6",R64,OLYMPICS,MD,918,Main Draw,GIONIS Panagiotis (GRE) / KREANGA Kalinikos (GRE),GONZALES Enrique (ARG) / TABACHNIK Pablo (ARG),GIONIS Panagiotis
+Olympic Games Athens 2004,2004-08-14,HENZELL William/ZALCBERG David,MONDELLO Massimiliano/YANG Min,4,1,"11,8,11,11,11|6,11,7,7,5",R64,OLYMPICS,MD,918,Main Draw,HENZELL William (AUS) / ZALCBERG David (AUS),MONDELLO Massimiliano (ITA) / YANG Min (ITA),HENZELL William
+Olympic Games Athens 2004,2004-08-14,HEISTER Danny/KEEN Trinko,HENZELL William/ZALCBERG David,4,1,"15,12,6,14,11|13,10,11,12,3",R32,OLYMPICS,MD,918,Main Draw,HEISTER Danny (NED) / KEEN Trinko (NED),HENZELL William (AUS) / ZALCBERG David (AUS),HEISTER Danny
+Olympic Games Athens 2004,2004-08-14,MAZE Michael/TUGWELL Finn,JINDRAK Karl/SCHLAGER Werner,4,0,"12,11,11,11|10,7,6,7",R16,OLYMPICS,MD,918,Main Draw,MAZE Michael (DEN) / TUGWELL Finn (DEN),JINDRAK Karl (AUT) / SCHLAGER Werner (AUT),MAZE Michael
+Olympic Games Athens 2004,2004-08-14,HIELSCHER Lars/ROSSKOPF Jorg,HANASHIRO Hugo/HOYAMA Hugo,4,2,"9,11,11,5,11,11|11,8,5,11,9,5",R64,OLYMPICS,MD,918,Main Draw,HIELSCHER Lars (GER) / ROSSKOPF Jorg (GER),HANASHIRO Hugo (BRA) / HOYAMA Hugo (BRA),HIELSCHER Lars
+Olympic Games Athens 2004,2004-08-14,HUANG Johnny/KASSAM Faazil,BROWN Trevor/LAVALE Russell,4,0,"11,11,11,11|9,3,6,8",R64,OLYMPICS,MD,918,Main Draw,HUANG Johnny (CAN) / KASSAM Faazil (CAN),BROWN Trevor (AUS) / LAVALE Russell (AUS),HUANG Johnny
+Olympic Games Athens 2004,2004-08-14,CHEN Qi/MA Lin,HEISTER Danny/KEEN Trinko,4,2,"10,11,11,11,11,11|12,7,7,13,5,3",R16,OLYMPICS,MD,918,Main Draw,CHEN Qi (CHN) / MA Lin (CHN),HEISTER Danny (NED) / KEEN Trinko (NED),CHEN Qi
+Olympic Games Athens 2004,2004-08-14,CHEN Qi/MA Lin,BLASZCZYK Lucjan/KRZESZEWSKI Tomasz,4,1,"8,11,11,12,11|11,6,6,10,7",QF,OLYMPICS,MD,918,Main Draw,CHEN Qi (CHN) / MA Lin (CHN),BLASZCZYK Lucjan (POL) / KRZESZEWSKI Tomasz (POL),CHEN Qi
+Olympic Games Athens 2004,2004-08-14,CHEN Qi/MA Lin,MAZE Michael/TUGWELL Finn,4,2,"11,10,11,8,13,13|9,12,7,11,11,11",SF,OLYMPICS,MD,918,Main Draw,CHEN Qi (CHN) / MA Lin (CHN),MAZE Michael (DEN) / TUGWELL Finn (DEN),CHEN Qi
+Olympic Games Athens 2004,2004-08-14,CHEN Qi/MA Lin,KO Lai Chak/LI Ching,4,2,"11,11,7,11,8,11|6,9,11,8,11,5",F,OLYMPICS,MD,918,Main Draw,CHEN Qi (CHN) / MA Lin (CHN),KO Lai Chak (HKG) / LI Ching (HKG),CHEN Qi
+Olympic Games Athens 2004,2004-08-14,MAZE Michael/TUGWELL Finn,PERSSON Jorgen/WALDNER Jan-Ove,4,1,"11,8,11,12,12|5,11,8,10,10",QF,OLYMPICS,MD,918,Main Draw,MAZE Michael (DEN) / TUGWELL Finn (DEN),PERSSON Jorgen (SWE) / WALDNER Jan-Ove (SWE),MAZE Michael
+Olympic Games Athens 2004,2004-08-14,MAZE Michael/TUGWELL Finn,MAZUNOV Dmitry/SMIRNOV Alexey,4,2,"11,11,12,3,11,11|3,8,14,11,9,8",3RD,OLYMPICS,MD,918,Position Draw,MAZE Michael (DEN) / TUGWELL Finn (DEN),MAZUNOV Dmitry (RUS) / SMIRNOV Alexey (RUS),MAZE Michael
+Olympic Games Athens 2004,2004-08-14,KITO Akira/TASAKI Toshio,GIONIS Panagiotis/KREANGA Kalinikos,4,3,"9,6,11,8,11,13,11|11,11,5,11,6,11,4",R32,OLYMPICS,MD,918,Main Draw,KITO Akira (JPN) / TASAKI Toshio (JPN),GIONIS Panagiotis (GRE) / KREANGA Kalinikos (GRE),KITO Akira
+Olympic Games Athens 2004,2004-08-14,BOLL Timo/FEJER-KONNERTH Zoltan,ARAI Shu/YUZAWA Ryo,4,0,"11,11,11,11|4,9,4,9",R32,OLYMPICS,MD,918,Main Draw,BOLL Timo (GER) / FEJER-KONNERTH Zoltan (GER),ARAI Shu (JPN) / YUZAWA Ryo (JPN),BOLL Timo
+Olympic Games Athens 2004,2004-08-14,JOO Saehyuk/OH Sangeun,HIELSCHER Lars/ROSSKOPF Jorg,4,1,"11,11,11,9,11|5,6,6,11,9",R32,OLYMPICS,MD,918,Main Draw,JOO Saehyuk (KOR) / OH Sangeun (KOR),HIELSCHER Lars (GER) / ROSSKOPF Jorg (GER),JOO Saehyuk
+Olympic Games Athens 2004,2004-08-14,LEE Chulseung/RYU Seungmin,BOLL Timo/FEJER-KONNERTH Zoltan,4,0,"11,11,11,11|7,9,7,9",R16,OLYMPICS,MD,918,Main Draw,LEE Chulseung (KOR) / RYU Seungmin (KOR),BOLL Timo (GER) / FEJER-KONNERTH Zoltan (GER),LEE Chulseung
+Olympic Games Athens 2004,2004-08-14,KO Lai Chak/LI Ching,JOO Saehyuk/OH Sangeun,4,1,"11,11,11,5,14|8,9,3,11,12",R16,OLYMPICS,MD,918,Main Draw,KO Lai Chak (HKG) / LI Ching (HKG),JOO Saehyuk (KOR) / OH Sangeun (KOR),KO Lai Chak
+Olympic Games Athens 2004,2004-08-14,MAZUNOV Dmitry/SMIRNOV Alexey,LEE Chulseung/RYU Seungmin,4,1,"10,11,11,11,11|12,7,9,4,8",QF,OLYMPICS,MD,918,Main Draw,MAZUNOV Dmitry (RUS) / SMIRNOV Alexey (RUS),LEE Chulseung (KOR) / RYU Seungmin (KOR),MAZUNOV Dmitry
+Olympic Games Athens 2004,2004-08-14,HAZINSKI Mark/LUPULESKU Ilija,MEROTOHUN Monday/TORIOLA Segun,4,0,"11,11,11,11|7,4,5,5",R64,OLYMPICS,MD,918,Main Draw,HAZINSKI Mark (USA) / LUPULESKU Ilija (USA),MEROTOHUN Monday (NGR) / TORIOLA Segun (NGR),HAZINSKI Mark
+Olympic Games Athens 2004,2004-08-14,AKINLABI Peter/NASIRU Kazeem,PAPIC Juan/RODRIGUEZ Alejandro,4,1,"11,11,16,11,11|9,5,18,9,7",R64,OLYMPICS,MD,918,Main Draw,AKINLABI Peter (NGR) / NASIRU Kazeem (NGR),PAPIC Juan (CHI) / RODRIGUEZ Alejandro (CHI),AKINLABI Peter
+Olympic Games Athens 2004,2004-08-14,MAZE Michael/TUGWELL Finn,AKINLABI Peter/NASIRU Kazeem,4,2,"8,9,11,13,11,11|11,11,7,11,9,4",R32,OLYMPICS,MD,918,Main Draw,MAZE Michael (DEN) / TUGWELL Finn (DEN),AKINLABI Peter (NGR) / NASIRU Kazeem (NGR),MAZE Michael
+Olympic Games Athens 2004,2004-08-14,MAZUNOV Dmitry/SMIRNOV Alexey,KORBEL Petr/VYBORNY Richard,4,1,"11,13,11,9,11|4,11,7,11,6",R32,OLYMPICS,MD,918,Main Draw,MAZUNOV Dmitry (RUS) / SMIRNOV Alexey (RUS),KORBEL Petr (CZE) / VYBORNY Richard (CZE),MAZUNOV Dmitry
+Olympic Games Athens 2004,2004-08-14,MAZUNOV Dmitry/SMIRNOV Alexey,CHEUNG Yuk/LEUNG Chu Yan,4,0,"14,11,11,11|11,7,8,7",R16,OLYMPICS,MD,918,Main Draw,MAZUNOV Dmitry (RUS) / SMIRNOV Alexey (RUS),CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),MAZUNOV Dmitry
+Olympic Games Athens 2004,2004-08-14,KO Lai Chak/LI Ching,MAZUNOV Dmitry/SMIRNOV Alexey,4,2,"11,11,5,8,11,11|5,9,11,11,8,6",SF,OLYMPICS,MD,918,Main Draw,KO Lai Chak (HKG) / LI Ching (HKG),MAZUNOV Dmitry (RUS) / SMIRNOV Alexey (RUS),KO Lai Chak
+Olympic Games Athens 2004,2004-08-14,GRUJIC Slobodan/KARAKASEVIC Aleksandar,KITO Akira/TASAKI Toshio,4,1,"11,9,11,12,12|9,11,9,10,10",R16,OLYMPICS,MD,918,Main Draw,GRUJIC Slobodan (SRB) / KARAKASEVIC Aleksandar (SRB),KITO Akira (JPN) / TASAKI Toshio (JPN),GRUJIC Slobodan
+Olympic Games Athens 2004,2004-08-14,KO Lai Chak/LI Ching,GRUJIC Slobodan/KARAKASEVIC Aleksandar,4,1,"11,10,11,13,11|6,12,6,11,9",QF,OLYMPICS,MD,918,Main Draw,KO Lai Chak (HKG) / LI Ching (HKG),GRUJIC Slobodan (SRB) / KARAKASEVIC Aleksandar (SRB),KO Lai Chak
+Olympic Games Athens 2004,2004-08-14,PERSSON Jorgen/WALDNER Jan-Ove,HUANG Johnny/KASSAM Faazil,4,2,"11,16,11,7,11,11|7,18,3,11,7,6",R32,OLYMPICS,MD,918,Main Draw,PERSSON Jorgen (SWE) / WALDNER Jan-Ove (SWE),HUANG Johnny (CAN) / KASSAM Faazil (CAN),PERSSON Jorgen
+Olympic Games Athens 2004,2004-08-14,PERSSON Jorgen/WALDNER Jan-Ove,KONG Linghui/WANG Hao,4,1,"8,11,11,11,12|11,6,9,9,10",R16,OLYMPICS,MD,918,Main Draw,PERSSON Jorgen (SWE) / WALDNER Jan-Ove (SWE),KONG Linghui (CHN) / WANG Hao (CHN),PERSSON Jorgen
+Olympic Games Athens 2004,2004-08-14,CHIANG Peng-Lung/CHUANG Chih-Yuan,HAZINSKI Mark/LUPULESKU Ilija,4,1,"14,8,13,16,11|12,11,11,14,9",R32,OLYMPICS,MD,918,Main Draw,CHIANG Peng-Lung (TPE) / CHUANG Chih-Yuan (TPE),HAZINSKI Mark (USA) / LUPULESKU Ilija (USA),CHIANG Peng-Lung
+Olympic Games Athens 2004,2004-08-14,BLASZCZYK Lucjan/KRZESZEWSKI Tomasz,CHIANG Peng-Lung/CHUANG Chih-Yuan,4,2,"7,12,8,11,11,11|11,10,11,7,7,5",R16,OLYMPICS,MD,918,Main Draw,BLASZCZYK Lucjan (POL) / KRZESZEWSKI Tomasz (POL),CHIANG Peng-Lung (TPE) / CHUANG Chih-Yuan (TPE),BLASZCZYK Lucjan
+Olympic Games Athens 2004,2004-08-14,KORBEL Petr/VYBORNY Richard,/LUYINDULA Jose,4,0,"11,11,11,11|3,4,6,4",R64,OLYMPICS,MD,918,Main Draw,KORBEL Petr (CZE) / VYBORNY Richard (CZE), / LUYINDULA Jose (COD),KORBEL Petr
+Olympic Games Athens 2004,2004-08-14,STEFANOVA Nikoleta/TAN Wenling,KOSTROMINA Tatyana (1973)/PAVLOVICH Viktoria,4,2,"11,10,11,11,11,11|7,12,13,5,7,7",R32,OLYMPICS,WD,918,Main Draw,STEFANOVA Nikoleta (ITA) / TAN Wenling (ITA),KOSTROMINA Tatyana (1973) (BLR) / PAVLOVICH Viktoria (BLR),STEFANOVA Nikoleta
+Olympic Games Athens 2004,2004-08-14,STRBIKOVA Renata/VACHOVCOVA Alena,NONAKA Mariany/SILVA Ligia,4,2,"11,11,7,6,11,11|2,4,11,11,9,9",R64,OLYMPICS,WD,918,Main Draw,STRBIKOVA Renata (CZE) / VACHOVCOVA Alena (CZE),NONAKA Mariany (BRA) / SILVA Ligia (BRA),STRBIKOVA Renata
+Olympic Games Athens 2004,2004-08-14,CADA Petra/ROUSSY Marie-Christine,MIROU Maria/VOLAKAKI Archontoula,4,1,"11,4,11,11,11|8,11,7,9,8",R64,OLYMPICS,WD,918,Main Draw,CADA Petra (CAN) / ROUSSY Marie-Christine (CAN),MIROU Maria (GRE) / VOLAKAKI Archontoula (GRE),CADA Petra
+Olympic Games Athens 2004,2004-08-14,GANINA Svetlana/PALINA Irina,CADA Petra/ROUSSY Marie-Christine,4,0,"11,11,11,11|5,2,7,6",R32,OLYMPICS,WD,918,Main Draw,GANINA Svetlana (RUS) / PALINA Irina (RUS),CADA Petra (CAN) / ROUSSY Marie-Christine (CAN),GANINA Svetlana
+Olympic Games Athens 2004,2004-08-14,PEREZ Luisana/RAMOS Fabiola,RODRIGUEZ Berta/VEGA Paulina,4,3,"12,11,6,11,11,11,11|14,8,11,7,13,5,7",QR4,OLYMPICS,WD,918,Qualification,PEREZ Luisana (VEN) / RAMOS Fabiola (VEN),RODRIGUEZ Berta (CHI) / VEGA Paulina (CHI),PEREZ Luisana
+Olympic Games Athens 2004,2004-08-14,GUO Yue/NIU Jianfeng,HUANG Yi-Hua/LU Yun-Feng,4,0,"11,11,11,11|9,4,6,2",R16,OLYMPICS,WD,918,Main Draw,GUO Yue (CHN) / NIU Jianfeng (CHN),HUANG Yi-Hua (TPE) / LU Yun-Feng (TPE),GUO Yue
+Olympic Games Athens 2004,2004-08-14,GUO Yue/NIU Jianfeng,FUJINUMA Ai/UMEMURA Aya,4,2,"11,12,9,12,11,11|3,10,11,14,4,8",QF,OLYMPICS,WD,918,Main Draw,GUO Yue (CHN) / NIU Jianfeng (CHN),FUJINUMA Ai (JPN) / UMEMURA Aya (JPN),GUO Yue
+Olympic Games Athens 2004,2004-08-14,WANG Nan/ZHANG Yining,GUO Yue/NIU Jianfeng,4,2,"11,13,9,13,6,13|7,11,11,11,11,11",SF,OLYMPICS,WD,918,Main Draw,WANG Nan (CHN) / ZHANG Yining (CHN),GUO Yue (CHN) / NIU Jianfeng (CHN),WANG Nan
+Olympic Games Athens 2004,2004-08-14,WANG Nan/ZHANG Yining,LEE Eunsil/SUK Eunmi,4,0,"11,11,11,11|9,7,6,6",F,OLYMPICS,WD,918,Main Draw,WANG Nan (CHN) / ZHANG Yining (CHN),LEE Eunsil (KOR) / SUK Eunmi (KOR),WANG Nan
+Olympic Games Athens 2004,2004-08-14,GUO Yue/NIU Jianfeng,KIM Bokrae/KIM Kyungah,4,3,"11,5,11,11,7,9,11|7,11,4,9,11,11,9",3RD,OLYMPICS,WD,918,Position Draw,GUO Yue (CHN) / NIU Jianfeng (CHN),KIM Bokrae (KOR) / KIM Kyungah (KOR),GUO Yue
+Olympic Games Athens 2004,2004-08-14,KIM Bokrae/KIM Kyungah,BOROS Tamara/MOLNAR Cornelia,4,0,"11,11,11,11|4,5,3,8",QF,OLYMPICS,WD,918,Main Draw,KIM Bokrae (KOR) / KIM Kyungah (KOR),BOROS Tamara (CRO) / MOLNAR Cornelia (CRO),KIM Bokrae
+Olympic Games Athens 2004,2004-08-14,BOROS Tamara/MOLNAR Cornelia,STRBIKOVA Renata/VACHOVCOVA Alena,4,1,"9,11,11,11,11|11,8,8,7,3",R32,OLYMPICS,WD,918,Main Draw,BOROS Tamara (CRO) / MOLNAR Cornelia (CRO),STRBIKOVA Renata (CZE) / VACHOVCOVA Alena (CZE),BOROS Tamara
+Olympic Games Athens 2004,2004-08-14,LI Chunli/LI Karen,STRUSE Nicole/SCHALL Elke,4,1,"11,11,11,10,11|6,7,7,12,6",R32,OLYMPICS,WD,918,Main Draw,LI Chunli (NZL) / LI Karen (NZL),STRUSE Nicole (GER) / SCHALL Elke (GER),LI Chunli
+Olympic Games Athens 2004,2004-08-14,LAU Sui Fei/LIN Ling,FADEEVA Oxana/MELNIK Galina,4,2,"11,11,11,8,11,11|8,7,5,11,13,8",R32,OLYMPICS,WD,918,Main Draw,LAU Sui Fei (HKG) / LIN Ling (HKG),FADEEVA Oxana (RUS) / MELNIK Galina (RUS),LAU Sui Fei
+Olympic Games Athens 2004,2004-08-14,FUJINUMA Ai/UMEMURA Aya,LAU Sui Fei/LIN Ling,4,2,"11,6,11,12,7,11|9,11,9,10,11,7",R16,OLYMPICS,WD,918,Main Draw,FUJINUMA Ai (JPN) / UMEMURA Aya (JPN),LAU Sui Fei (HKG) / LIN Ling (HKG),FUJINUMA Ai
+Olympic Games Athens 2004,2004-08-14,SONG Ah Sim/TIE Yana,GANINA Svetlana/PALINA Irina,4,0,"11,11,11,11|7,6,7,7",R16,OLYMPICS,WD,918,Main Draw,SONG Ah Sim (HKG) / TIE Yana (HKG),GANINA Svetlana (RUS) / PALINA Irina (RUS),SONG Ah Sim
+Olympic Games Athens 2004,2004-08-14,WANG Nan/ZHANG Yining,SONG Ah Sim/TIE Yana,4,2,"11,3,11,11,12,11|4,11,13,8,10,8",QF,OLYMPICS,WD,918,Main Draw,WANG Nan (CHN) / ZHANG Yining (CHN),SONG Ah Sim (HKG) / TIE Yana (HKG),WANG Nan
+Olympic Games Athens 2004,2004-08-14,BOROS Tamara/MOLNAR Cornelia,BATORFI Csilla/TOTH Krisztina,4,1,"11,9,11,11,11|6,11,9,3,3",R16,OLYMPICS,WD,918,Main Draw,BOROS Tamara (CRO) / MOLNAR Cornelia (CRO),BATORFI Csilla (HUN) / TOTH Krisztina (HUN),BOROS Tamara
+Olympic Games Athens 2004,2004-08-14,WANG Nan/ZHANG Yining,STEFANOVA Nikoleta/TAN Wenling,4,0,"11,11,12,14|6,3,10,12",R16,OLYMPICS,WD,918,Main Draw,WANG Nan (CHN) / ZHANG Yining (CHN),STEFANOVA Nikoleta (ITA) / TAN Wenling (ITA),WANG Nan
+Olympic Games Athens 2004,2004-08-14,KIM Bokrae/KIM Kyungah,BANH THUA Tawny/GAO Jun,4,0,"11,11,11,11|4,3,7,9",R32,OLYMPICS,WD,918,Main Draw,KIM Bokrae (KOR) / KIM Kyungah (KOR),BANH THUA Tawny (USA) / GAO Jun (USA),KIM Bokrae
+Olympic Games Athens 2004,2004-08-14,LEE Eunsil/SUK Eunmi,TAN Paey Fern/ZHANG Xueling,4,0,"14,11,11,11|12,7,7,8",R16,OLYMPICS,WD,918,Main Draw,LEE Eunsil (KOR) / SUK Eunmi (KOR),TAN Paey Fern (SGP) / ZHANG Xueling (SGP),LEE Eunsil
+Olympic Games Athens 2004,2004-08-14,KIM Bokrae/KIM Kyungah,JING Junhong/LI Jiawei,4,3,"9,11,12,8,9,11,11|11,5,10,11,11,8,8",R16,OLYMPICS,WD,918,Main Draw,KIM Bokrae (KOR) / KIM Kyungah (KOR),JING Junhong (SGP) / LI Jiawei (SGP),KIM Bokrae
+Olympic Games Athens 2004,2004-08-14,LEE Eunsil/SUK Eunmi,KIM Hyang Mi/KIM Hyon Hui,4,2,"12,4,11,11,9,11|10,11,9,8,11,7",QF,OLYMPICS,WD,918,Main Draw,LEE Eunsil (KOR) / SUK Eunmi (KOR),KIM Hyang Mi (PRK) / KIM Hyon Hui (PRK),LEE Eunsil
+Olympic Games Athens 2004,2004-08-14,LEE Eunsil/SUK Eunmi,KIM Bokrae/KIM Kyungah,4,0,"11,12,11,11|6,10,7,2",SF,OLYMPICS,WD,918,Main Draw,LEE Eunsil (KOR) / SUK Eunmi (KOR),KIM Bokrae (KOR) / KIM Kyungah (KOR),LEE Eunsil
+Olympic Games Athens 2004,2004-08-14,STEFANOVA Nikoleta/TAN Wenling,KAFFO Bose/OSHONAIKE Olufunke,4,3,"11,11,12,10,5,10,11|9,6,10,12,11,12,9",R64,OLYMPICS,WD,918,Main Draw,STEFANOVA Nikoleta (ITA) / TAN Wenling (ITA),KAFFO Bose (NGR) / OSHONAIKE Olufunke (NGR),STEFANOVA Nikoleta
+Olympic Games Athens 2004,2004-08-14,LI Chunli/LI Karen,LAY Jian Fang/MIAO Miao,4,2,"12,8,6,11,11,14|10,11,11,5,2,12",R64,OLYMPICS,WD,918,Main Draw,LI Chunli (NZL) / LI Karen (NZL),LAY Jian Fang (AUS) / MIAO Miao (AUS),LI Chunli
+Olympic Games Athens 2004,2004-08-14,KIM Hyang Mi/KIM Hyon Hui,LI Chunli/LI Karen,4,2,"11,11,11,11,11,11|8,13,6,13,5,4",R16,OLYMPICS,WD,918,Main Draw,KIM Hyang Mi (PRK) / KIM Hyon Hui (PRK),LI Chunli (NZL) / LI Karen (NZL),KIM Hyang Mi
+Olympic Games Athens 2004,2004-08-14,FADEEVA Oxana/MELNIK Galina,EDEM Offiong/AKPAN Cecilia,4,3,"7,11,11,11,6,10,11|11,3,9,2,11,12,6",R64,OLYMPICS,WD,918,Main Draw,FADEEVA Oxana (RUS) / MELNIK Galina (RUS),EDEM Offiong (NGR) / AKPAN Cecilia (NGR),FADEEVA Oxana
+Olympic Games Athens 2004,2004-08-14,TAN Paey Fern/ZHANG Xueling,PING Whitney/RATHER Jasna,4,0,"11,11,11,13|8,4,5,11",R64,OLYMPICS,WD,918,Main Draw,TAN Paey Fern (SGP) / ZHANG Xueling (SGP),PING Whitney (USA) / RATHER Jasna (USA),TAN Paey Fern
+Olympic Games Athens 2004,2004-08-14,TAN Paey Fern/ZHANG Xueling,STEFF Mihaela/ZAMFIR Adriana,4,1,"8,11,12,11,11|11,6,10,9,8",R32,OLYMPICS,WD,918,Main Draw,TAN Paey Fern (SGP) / ZHANG Xueling (SGP),STEFF Mihaela (ROU) / ZAMFIR Adriana (ROU),TAN Paey Fern
+Olympic Games Athens 2004,2004-08-14,HUANG Yi-Hua/LU Yun-Feng,BEN KAHIA Nesrine/GUENNI Olfa,4,0,"11,11,11,11|4,4,6,4",R64,OLYMPICS,WD,918,Main Draw,HUANG Yi-Hua (TPE) / LU Yun-Feng (TPE),BEN KAHIA Nesrine (TUN) / GUENNI Olfa (TUN),HUANG Yi-Hua
+Olympic Games Athens 2004,2004-08-14,HUANG Yi-Hua/LU Yun-Feng,LOGATZKAYA Tatyana/PAVLOVICH Veronika,4,3,"10,10,11,7,14,11,11|12,12,7,11,12,9,7",R32,OLYMPICS,WD,918,Main Draw,HUANG Yi-Hua (TPE) / LU Yun-Feng (TPE),LOGATZKAYA Tatyana (BLR) / PAVLOVICH Veronika (BLR),HUANG Yi-Hua
+Olympic Games Athens 2004,2004-08-14,BEN KAHIA Nesrine/GUENNI Olfa,MENAIFI Asma/NECHAB Souad,4,2,"11,11,11,9,8,11|9,7,5,11,11,8",QR4,OLYMPICS,WD,918,Qualification,BEN KAHIA Nesrine (TUN) / GUENNI Olfa (TUN),MENAIFI Asma (ALG) / NECHAB Souad (ALG),BEN KAHIA Nesrine
+Olympic Games Athens 2004,2004-08-14,BANH THUA Tawny/GAO Jun,PEREZ Luisana/RAMOS Fabiola,4,0,"11,11,11,11|3,4,6,6",R64,OLYMPICS,WD,918,Main Draw,BANH THUA Tawny (USA) / GAO Jun (USA),PEREZ Luisana (VEN) / RAMOS Fabiola (VEN),BANH THUA Tawny

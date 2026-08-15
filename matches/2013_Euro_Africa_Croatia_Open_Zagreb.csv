@@ -1,140 +1,140 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,GACINA Andrej,ARVIDSSON Simon,4,0,"11,11,11,11|8,5,9,2",R64,GRAND_SLAM,MS,111,Main Draw,GACINA Andrej (CRO),ARVIDSSON Simon (SWE)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LE BRETON Thomas,SIMOVIC Miho,4,3,"8,9,11,7,11,11,11|11,11,0,11,9,8,8",R64,GRAND_SLAM,MS,111,Main Draw,LE BRETON Thomas (FRA),SIMOVIC Miho (CRO)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,DUDA Benedikt,BOULOUSSA Mehdi,4,2,"11,5,11,9,11,11|6,11,6,11,6,7",R64,GRAND_SLAM,MS,111,Main Draw,DUDA Benedikt (GER),BOULOUSSA Mehdi (ALG)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,PUCAR Tomislav,FLORITZ Philipp,4,3,"7,11,11,7,12,8,11|11,7,6,11,10,11,9",R64,GRAND_SLAM,MS,111,Main Draw,PUCAR Tomislav (CRO),FLORITZ Philipp (BUL)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,MADRID Marcos,ZELJKO Filip,4,1,"9,11,15,11,11|11,8,13,9,2",R64,GRAND_SLAM,MS,111,Main Draw,MADRID Marcos (MEX),ZELJKO Filip (CRO)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,STERNBERG Kasper,ANDERSSON Harald,4,2,"9,5,11,11,11,11|11,11,7,8,6,7",R64,GRAND_SLAM,MS,111,Main Draw,STERNBERG Kasper (DEN),ANDERSSON Harald (SWE)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,OOSTWOUDER Ewout,REDJEP Ronald,4,2,"6,6,15,11,11,12|11,11,13,5,5,10",R64,GRAND_SLAM,MS,111,Main Draw,OOSTWOUDER Ewout (NED),REDJEP Ronald (CRO)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,TOSIC Roko,SUBOTIC Dragan,4,2,"9,9,11,11,11,11|11,11,7,7,8,3",R64,GRAND_SLAM,MS,111,Main Draw,TOSIC Roko (CRO),SUBOTIC Dragan (SRB)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,PLATONOV Pavel,RASMUSSEN Tobias,4,2,"14,8,11,9,11,11|12,11,2,11,6,8",R64,GRAND_SLAM,MS,111,Main Draw,PLATONOV Pavel (BLR),RASMUSSEN Tobias (DEN)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,PERSSON Jon,RODE Marc,4,3,"11,9,8,11,6,11,12|6,11,11,5,11,6,10",R64,GRAND_SLAM,MS,111,Main Draw,PERSSON Jon (SWE),RODE Marc (GER)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,GOLOVANOV Stanislav,ZATOWKA Patryk,4,2,"1,11,11,4,11,11|11,5,5,11,8,8",R64,GRAND_SLAM,MS,111,Main Draw,GOLOVANOV Stanislav (BUL),ZATOWKA Patryk (POL)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,PEREIRA Andy,JUZBASIC Neven,4,2,"5,11,8,11,11,11|11,8,11,5,5,3",R64,GRAND_SLAM,MS,111,Main Draw,PEREIRA Andy (CUB),JUZBASIC Neven (CRO)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,BARDON Michal,TORNKVIST Andreas,4,1,"7,11,11,11,12|11,7,9,9,10",R64,GRAND_SLAM,MS,111,Main Draw,BARDON Michal (SVK),TORNKVIST Andreas (SWE)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,FUCEC Luka,VOSTES Yannick,4,3,"12,9,13,18,11,8,11|14,11,11,16,9,11,7",R64,GRAND_SLAM,MS,111,Main Draw,FUCEC Luka (CRO),VOSTES Yannick (BEL)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,HACHARD Antoine,KUIMOV Philipp,4,0,"11,13,13,11|7,11,11,5",R64,GRAND_SLAM,MS,111,Main Draw,HACHARD Antoine (FRA),KUIMOV Philipp (RUS)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,GROTH Jonathan,HUZJAK Josip,4,1,"11,6,11,11,11|8,11,7,6,7",R64,GRAND_SLAM,MS,111,Main Draw,GROTH Jonathan (DEN),HUZJAK Josip (CRO)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,KUZMIN Fedor,PETKOV Marko,4,0,"11,11,11,11|9,3,8,8",R64,GRAND_SLAM,MS,111,Main Draw,KUZMIN Fedor (RUS),PETKOV Marko (SRB)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,DYJAS Jakub,TRAN Anthony,4,0,"11,11,11,11|3,7,7,5",R64,GRAND_SLAM,MS,111,Main Draw,DYJAS Jakub (POL),TRAN Anthony (SWE)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,BROSSIER Benjamin,HEIMBERGER Martin,4,2,"8,6,11,11,13,11|11,11,4,8,11,2",R64,GRAND_SLAM,MS,111,Main Draw,BROSSIER Benjamin (FRA),HEIMBERGER Martin (AUT)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,PISTEJ Lubomir,KULPA Konrad,4,2,"11,6,4,11,11,11|9,11,11,9,9,7",R64,GRAND_SLAM,MS,111,Main Draw,PISTEJ Lubomir (SVK),KULPA Konrad (POL)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LORENTZ Romain,HABESOHN Dominik,4,3,"8,11,14,7,11,11,11|11,9,16,11,9,9,8",R64,GRAND_SLAM,MS,111,Main Draw,LORENTZ Romain (FRA),HABESOHN Dominik (AUT)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,INDEHERBERG Julien,ORT Kilian,4,3,"10,11,9,6,11,11,11|12,5,11,11,7,7,5",R64,GRAND_SLAM,MS,111,Main Draw,INDEHERBERG Julien (BEL),ORT Kilian (GER)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,ZUBCIC Tomislav,LANDRIEU Andrea,4,3,"12,11,5,10,11,12,12|10,13,11,12,9,10,10",R64,GRAND_SLAM,MS,111,Main Draw,ZUBCIC Tomislav (CRO),LANDRIEU Andrea (FRA)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,SALIFOU Abdel-Kader,BRODD Viktor,4,1,"11,11,9,11,12|8,3,11,2,10",R64,GRAND_SLAM,MS,111,Main Draw,SALIFOU Abdel-Kader (BEN),BRODD Viktor (SWE)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LAKEEV Vasily,CREPULJA Bojan,4,2,"10,11,11,11,12,11|12,13,1,1,10,2",R64,GRAND_SLAM,MS,111,Main Draw,LAKEEV Vasily (RUS),CREPULJA Bojan (SRB)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,DURANSPAHIC Admir,GORMAN Viktor,4,2,"12,8,6,11,11,11|10,11,11,9,7,9",R64,GRAND_SLAM,MS,111,Main Draw,DURANSPAHIC Admir (BIH),GORMAN Viktor (SWE)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,JUZBASIC Ivan,MAJSTOROVIC Ilija,4,0,"11,11,11,11|7,5,3,9",R64,GRAND_SLAM,MS,111,Main Draw,JUZBASIC Ivan (CRO),MAJSTOROVIC Ilija (SRB)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,JAKAB Janos,PFEFFER Simon,4,1,"12,11,11,11,13|14,3,4,7,11",R64,GRAND_SLAM,MS,111,Main Draw,JAKAB Janos (HUN),PFEFFER Simon (AUT)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,KRIVOSHEEV Viacheslav,KOSIBA Daniel,4,3,"6,11,11,5,13,5,11|11,6,7,11,11,11,6",R64,GRAND_SLAM,MS,111,Main Draw,KRIVOSHEEV Viacheslav (RUS),KOSIBA Daniel (HUN)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LAKATOS Tamas,ROBLES Alvaro,4,1,"9,11,11,11,11|11,8,9,4,1",R64,GRAND_SLAM,MS,111,Main Draw,LAKATOS Tamas (HUN),ROBLES Alvaro (ESP)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,ROBINOT Alexandre,JOST Frederick,4,3,"13,11,7,10,11,9,11|11,5,11,12,7,11,8",R64,GRAND_SLAM,MS,111,Main Draw,ROBINOT Alexandre (FRA),JOST Frederick (GER)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,SHIBAEV Alexander,TROMER Laurens,4,0,"11,11,11,11|4,6,4,6",R64,GRAND_SLAM,MS,111,Main Draw,SHIBAEV Alexander (RUS),TROMER Laurens (NED)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LE BRETON Thomas,GACINA Andrej,4,2,"5,13,10,11,11,11|11,11,12,9,8,8",R32,GRAND_SLAM,MS,111,Main Draw,LE BRETON Thomas (FRA),GACINA Andrej (CRO)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,DUDA Benedikt,PUCAR Tomislav,4,1,"12,11,8,11,11|10,5,11,5,8",R32,GRAND_SLAM,MS,111,Main Draw,DUDA Benedikt (GER),PUCAR Tomislav (CRO)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,STERNBERG Kasper,MADRID Marcos,4,1,"11,11,11,9,11|6,9,5,11,5",R32,GRAND_SLAM,MS,111,Main Draw,STERNBERG Kasper (DEN),MADRID Marcos (MEX)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,TOSIC Roko,OOSTWOUDER Ewout,4,1,"11,11,11,8,11|9,8,9,11,5",R32,GRAND_SLAM,MS,111,Main Draw,TOSIC Roko (CRO),OOSTWOUDER Ewout (NED)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,PERSSON Jon,PLATONOV Pavel,4,2,"5,11,11,7,11,11|11,8,7,11,7,9",R32,GRAND_SLAM,MS,111,Main Draw,PERSSON Jon (SWE),PLATONOV Pavel (BLR)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,PEREIRA Andy,GOLOVANOV Stanislav,4,3,"11,11,11,4,11,6,11|8,13,9,11,8,11,2",R32,GRAND_SLAM,MS,111,Main Draw,PEREIRA Andy (CUB),GOLOVANOV Stanislav (BUL)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,FUCEC Luka,BARDON Michal,4,1,"11,11,7,11,11|7,9,11,7,5",R32,GRAND_SLAM,MS,111,Main Draw,FUCEC Luka (CRO),BARDON Michal (SVK)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,GROTH Jonathan,HACHARD Antoine,4,0,"13,11,14,11|11,5,12,9",R32,GRAND_SLAM,MS,111,Main Draw,GROTH Jonathan (DEN),HACHARD Antoine (FRA)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,DYJAS Jakub,KUZMIN Fedor,4,0,"11,11,11,11|8,8,5,5",R32,GRAND_SLAM,MS,111,Main Draw,DYJAS Jakub (POL),KUZMIN Fedor (RUS)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,PISTEJ Lubomir,BROSSIER Benjamin,4,1,"8,11,12,11,11|11,3,10,5,9",R32,GRAND_SLAM,MS,111,Main Draw,PISTEJ Lubomir (SVK),BROSSIER Benjamin (FRA)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LORENTZ Romain,INDEHERBERG Julien,4,1,"11,11,9,11,13|5,9,11,8,11",R32,GRAND_SLAM,MS,111,Main Draw,LORENTZ Romain (FRA),INDEHERBERG Julien (BEL)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,SALIFOU Abdel-Kader,ZUBCIC Tomislav,4,1,"11,11,15,4,11|9,6,13,11,2",R32,GRAND_SLAM,MS,111,Main Draw,SALIFOU Abdel-Kader (BEN),ZUBCIC Tomislav (CRO)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LAKEEV Vasily,DURANSPAHIC Admir,4,3,"9,11,11,11,8,8,17|11,9,6,9,11,11,15",R32,GRAND_SLAM,MS,111,Main Draw,LAKEEV Vasily (RUS),DURANSPAHIC Admir (BIH)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,JAKAB Janos,JUZBASIC Ivan,4,0,"11,11,11,11|8,9,6,9",R32,GRAND_SLAM,MS,111,Main Draw,JAKAB Janos (HUN),JUZBASIC Ivan (CRO)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LAKATOS Tamas,KRIVOSHEEV Viacheslav,4,1,"11,7,11,11,13|8,11,4,6,11",R32,GRAND_SLAM,MS,111,Main Draw,LAKATOS Tamas (HUN),KRIVOSHEEV Viacheslav (RUS)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,SHIBAEV Alexander,ROBINOT Alexandre,4,1,"4,11,11,11,11|11,9,6,8,8",R32,GRAND_SLAM,MS,111,Main Draw,SHIBAEV Alexander (RUS),ROBINOT Alexandre (FRA)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,DUDA Benedikt,LE BRETON Thomas,4,2,"8,11,12,6,11,11|11,6,10,11,9,8",R16,GRAND_SLAM,MS,111,Main Draw,DUDA Benedikt (GER),LE BRETON Thomas (FRA)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,TOSIC Roko,STERNBERG Kasper,4,1,"11,11,6,11,11|7,6,11,9,5",R16,GRAND_SLAM,MS,111,Main Draw,TOSIC Roko (CRO),STERNBERG Kasper (DEN)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,PERSSON Jon,PEREIRA Andy,4,2,"8,11,9,13,11,11|11,6,11,11,9,5",R16,GRAND_SLAM,MS,111,Main Draw,PERSSON Jon (SWE),PEREIRA Andy (CUB)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,GROTH Jonathan,FUCEC Luka,4,1,"11,11,11,7,11|5,8,6,11,8",R16,GRAND_SLAM,MS,111,Main Draw,GROTH Jonathan (DEN),FUCEC Luka (CRO)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,PISTEJ Lubomir,DYJAS Jakub,4,2,"5,11,8,11,11,11|11,5,11,9,7,6",R16,GRAND_SLAM,MS,111,Main Draw,PISTEJ Lubomir (SVK),DYJAS Jakub (POL)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,SALIFOU Abdel-Kader,LORENTZ Romain,4,3,"6,11,11,7,11,3,11|11,9,2,11,6,11,7",R16,GRAND_SLAM,MS,111,Main Draw,SALIFOU Abdel-Kader (BEN),LORENTZ Romain (FRA)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,JAKAB Janos,LAKEEV Vasily,4,3,"11,9,11,8,11,11,11|5,11,5,11,9,13,2",R16,GRAND_SLAM,MS,111,Main Draw,JAKAB Janos (HUN),LAKEEV Vasily (RUS)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,SHIBAEV Alexander,LAKATOS Tamas,4,0,"11,11,11,11|8,6,9,3",R16,GRAND_SLAM,MS,111,Main Draw,SHIBAEV Alexander (RUS),LAKATOS Tamas (HUN)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,TOSIC Roko,DUDA Benedikt,4,3,"11,11,11,5,5,9,11|3,7,8,11,11,11,9",QF,GRAND_SLAM,MS,111,Main Draw,TOSIC Roko (CRO),DUDA Benedikt (GER)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,PERSSON Jon,GROTH Jonathan,4,3,"5,6,11,11,11,9,11|11,11,6,5,9,11,8",QF,GRAND_SLAM,MS,111,Main Draw,PERSSON Jon (SWE),GROTH Jonathan (DEN)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,SALIFOU Abdel-Kader,PISTEJ Lubomir,4,1,"9,11,11,11,11|11,4,8,2,9",QF,GRAND_SLAM,MS,111,Main Draw,SALIFOU Abdel-Kader (BEN),PISTEJ Lubomir (SVK)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,JAKAB Janos,SHIBAEV Alexander,4,3,"11,6,9,11,11,8,11|9,11,11,6,9,11,6",QF,GRAND_SLAM,MS,111,Main Draw,JAKAB Janos (HUN),SHIBAEV Alexander (RUS)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,TOSIC Roko,PERSSON Jon,4,2,"11,13,7,8,11,11|4,11,11,11,7,7",SF,GRAND_SLAM,MS,111,Main Draw,TOSIC Roko (CRO),PERSSON Jon (SWE)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,SALIFOU Abdel-Kader,JAKAB Janos,4,3,"5,9,11,11,15,4,11|11,11,6,9,13,11,8",SF,GRAND_SLAM,MS,111,Main Draw,SALIFOU Abdel-Kader (BEN),JAKAB Janos (HUN)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,SALIFOU Abdel-Kader,TOSIC Roko,4,3,"7,7,11,12,7,11,11|11,11,1,10,11,7,9",F,GRAND_SLAM,MS,111,Main Draw,SALIFOU Abdel-Kader (BEN),TOSIC Roko (CRO)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,EKHOLM Matilda,BIKBAEVA Anna,4,1,"11,5,11,11,11|9,11,5,6,7",R32,GRAND_SLAM,WS,111,Main Draw,EKHOLM Matilda (SWE),BIKBAEVA Anna (RUS)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,KUSINSKA Klaudia,KUZMINA Elena,4,0,"11,11,12,14|9,9,10,12",R32,GRAND_SLAM,WS,111,Main Draw,KUSINSKA Klaudia (POL),KUZMINA Elena (RUS)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,GASNIER Laura,ARLOUSKAYA Alina,4,1,"11,8,13,11,11|2,11,11,3,9",R32,GRAND_SLAM,WS,111,Main Draw,GASNIER Laura (FRA),ARLOUSKAYA Alina (BLR)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,VARADY Barbora,JEGER Mateja,4,1,"11,5,11,11,11|4,11,5,7,6",R32,GRAND_SLAM,WS,111,Main Draw,VARADY Barbora (SVK),JEGER Mateja (CRO)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,PRIVALOVA Alexandra,TODOROVIC Andrea,4,1,"11,2,11,11,11|6,11,4,8,6",R32,GRAND_SLAM,WS,111,Main Draw,PRIVALOVA Alexandra (BLR),TODOROVIC Andrea (SRB)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,RAKOVAC Lea,FETUKHINA Margarita,4,3,"11,11,8,9,8,11,11|9,8,11,11,11,7,6",R32,GRAND_SLAM,WS,111,Main Draw,RAKOVAC Lea (CRO),FETUKHINA Margarita (RUS)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,DOLGIKH Maria,VINCZE Andrada,4,0,"11,11,11,11|5,4,7,7",R32,GRAND_SLAM,WS,111,Main Draw,DOLGIKH Maria (RUS),VINCZE Andrada (ROU)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,KANG Haneul,PERGEL Szandra,4,3,"11,11,11,5,3,14,11|9,7,6,11,11,16,6",R32,GRAND_SLAM,WS,111,Main Draw,KANG Haneul (KOR),PERGEL Szandra (HUN)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,NOSKOVA Yana,PROSVIRNINA Natalya,4,2,"11,7,13,11,7,11|2,11,11,4,11,8",R32,GRAND_SLAM,WS,111,Main Draw,NOSKOVA Yana (RUS),PROSVIRNINA Natalya (ESP)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,MITTELHAM Nina,BERGE Sarah,4,0,"11,11,11,11|7,9,9,8",R32,GRAND_SLAM,WS,111,Main Draw,MITTELHAM Nina (GER),BERGE Sarah (FRA)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,VASYLIEVA Ievgeniia,DVORAK Galia,4,2,"13,11,7,11,11,11|15,7,11,8,9,9",R32,GRAND_SLAM,WS,111,Main Draw,VASYLIEVA Ievgeniia (UKR),DVORAK Galia (ESP)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,MIKHAILOVA Polina,BARAVOK Katsiaryna,4,0,"11,11,11,11|3,5,3,6",R32,GRAND_SLAM,WS,111,Main Draw,MIKHAILOVA Polina (RUS),BARAVOK Katsiaryna (BLR)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,TIAN Yuan,MANTZ Chantal,4,2,"8,10,12,11,11,11|11,12,10,6,9,3",R32,GRAND_SLAM,WS,111,Main Draw,TIAN Yuan (CRO),MANTZ Chantal (GER)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LEE Dasom,AMBRUS Krisztina,4,1,"11,9,12,11,11|8,11,10,4,8",R32,GRAND_SLAM,WS,111,Main Draw,LEE Dasom (KOR),AMBRUS Krisztina (HUN)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,POLCANOVA Sofia,KERTAI Rita,4,1,"6,11,11,11,11|11,9,9,9,6",R32,GRAND_SLAM,WS,111,Main Draw,POLCANOVA Sofia (AUT),KERTAI Rita (HUN)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,SAVELYEVA Antonina,POTA Georgina,4,3,"7,11,11,11,12,5,11|11,4,8,9,14,11,6",R32,GRAND_SLAM,WS,111,Main Draw,SAVELYEVA Antonina (RUS),POTA Georgina (HUN)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,EKHOLM Matilda,KUSINSKA Klaudia,4,0,"11,11,11,11|4,8,7,9",R16,GRAND_SLAM,WS,111,Main Draw,EKHOLM Matilda (SWE),KUSINSKA Klaudia (POL)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,VARADY Barbora,GASNIER Laura,4,1,"7,11,11,13,11|11,7,6,11,9",R16,GRAND_SLAM,WS,111,Main Draw,VARADY Barbora (SVK),GASNIER Laura (FRA)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,RAKOVAC Lea,PRIVALOVA Alexandra,4,3,"5,11,6,11,11,14,11|11,5,11,13,5,12,5",R16,GRAND_SLAM,WS,111,Main Draw,RAKOVAC Lea (CRO),PRIVALOVA Alexandra (BLR)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,KANG Haneul,DOLGIKH Maria,4,1,"11,11,11,7,11|8,8,6,11,7",R16,GRAND_SLAM,WS,111,Main Draw,KANG Haneul (KOR),DOLGIKH Maria (RUS)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,MITTELHAM Nina,NOSKOVA Yana,4,1,"11,14,4,11,11|6,12,11,9,7",R16,GRAND_SLAM,WS,111,Main Draw,MITTELHAM Nina (GER),NOSKOVA Yana (RUS)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,MIKHAILOVA Polina,VASYLIEVA Ievgeniia,4,3,"13,11,6,11,11,10,11|11,5,11,4,13,12,8",R16,GRAND_SLAM,WS,111,Main Draw,MIKHAILOVA Polina (RUS),VASYLIEVA Ievgeniia (UKR)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LEE Dasom,TIAN Yuan,4,3,"11,11,10,5,11,13,11|6,4,12,11,8,15,5",R16,GRAND_SLAM,WS,111,Main Draw,LEE Dasom (KOR),TIAN Yuan (CRO)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,POLCANOVA Sofia,SAVELYEVA Antonina,4,3,"6,13,8,11,11,11,12|11,15,11,8,7,5,10",R16,GRAND_SLAM,WS,111,Main Draw,POLCANOVA Sofia (AUT),SAVELYEVA Antonina (RUS)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,EKHOLM Matilda,VARADY Barbora,4,3,"11,6,7,11,11,13,11|9,11,11,8,13,11,6",QF,GRAND_SLAM,WS,111,Main Draw,EKHOLM Matilda (SWE),VARADY Barbora (SVK)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,KANG Haneul,RAKOVAC Lea,4,3,"11,11,4,8,7,11,12|4,5,11,11,11,9,10",QF,GRAND_SLAM,WS,111,Main Draw,KANG Haneul (KOR),RAKOVAC Lea (CRO)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,MIKHAILOVA Polina,MITTELHAM Nina,4,1,"11,8,11,11,11|1,11,9,8,6",QF,GRAND_SLAM,WS,111,Main Draw,MIKHAILOVA Polina (RUS),MITTELHAM Nina (GER)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LEE Dasom,POLCANOVA Sofia,4,2,"11,4,11,7,11,11|9,11,7,11,6,7",QF,GRAND_SLAM,WS,111,Main Draw,LEE Dasom (KOR),POLCANOVA Sofia (AUT)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,EKHOLM Matilda,KANG Haneul,4,0,"11,11,13,11|5,3,11,2",SF,GRAND_SLAM,WS,111,Main Draw,EKHOLM Matilda (SWE),KANG Haneul (KOR)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LEE Dasom,MIKHAILOVA Polina,4,1,"11,11,11,12,11|5,13,8,10,8",SF,GRAND_SLAM,WS,111,Main Draw,LEE Dasom (KOR),MIKHAILOVA Polina (RUS)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LEE Dasom,EKHOLM Matilda,4,3,"11,4,8,6,11,11,11|6,11,11,11,0,8,8",F,GRAND_SLAM,WS,111,Main Draw,LEE Dasom (KOR),EKHOLM Matilda (SWE)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,GROTH Jonathan,AHLANDER-J Carl,3,2,"13,9,11,11,11|15,11,3,8,7",R32,GRAND_SLAM,U21MS,111,Main Draw,GROTH Jonathan (DEN),AHLANDER-J Carl (SWE)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,KIM Doyub,TRAN Anthony,3,2,"9,13,11,8,13|11,11,8,11,11",R32,GRAND_SLAM,U21MS,111,Main Draw,KIM Doyub (KOR),TRAN Anthony (SWE)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LAKATOS Tamas,LANDRIEU Andrea,3,1,"12,6,11,17|10,11,9,15",R32,GRAND_SLAM,U21MS,111,Main Draw,LAKATOS Tamas (HUN),LANDRIEU Andrea (FRA)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,ROBINOT Alexandre,HAGBERG Johan,3,0,"11,11,11|9,8,6",R32,GRAND_SLAM,U21MS,111,Main Draw,ROBINOT Alexandre (FRA),HAGBERG Johan (LAO)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,ZATOWKA Patryk,BROSSIER Benjamin,3,1,"11,6,11,12|3,11,9,10",R32,GRAND_SLAM,U21MS,111,Main Draw,ZATOWKA Patryk (POL),BROSSIER Benjamin (FRA)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,ECSEKI Nandor,OLIVARES Felipe,3,0,"11,11,11|9,6,5",R32,GRAND_SLAM,U21MS,111,Main Draw,ECSEKI Nandor (HUN),OLIVARES Felipe (CHI)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,BOULOUSSA Mehdi,SZUDI Adam,3,0,"11,11,11|9,2,5",R32,GRAND_SLAM,U21MS,111,Main Draw,BOULOUSSA Mehdi (ALG),SZUDI Adam (HUN)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,DUDA Benedikt,HEDLUND Jesper,3,0,"11,11,11|3,8,9",R32,GRAND_SLAM,U21MS,111,Main Draw,DUDA Benedikt (GER),HEDLUND Jesper (SWE)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LE BRETON Thomas,KONSTANTINOPOULOS Konstantinos,3,0,"11,11,11|6,4,7",R32,GRAND_SLAM,U21MS,111,Main Draw,LE BRETON Thomas (FRA),KONSTANTINOPOULOS Konstantinos (GRE)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,KALLBERG Anton,DYJAS Jakub,3,0,"11,11,11|8,7,5",R32,GRAND_SLAM,U21MS,111,Main Draw,KALLBERG Anton (SWE),DYJAS Jakub (POL)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,NOVOTA Samuel,PUCAR Tomislav,3,2,"10,11,11,2,11|12,3,9,11,4",R32,GRAND_SLAM,U21MS,111,Main Draw,NOVOTA Samuel (SVK),PUCAR Tomislav (CRO)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,AKKUZU Can,INDEHERBERG Julien,3,1,"11,11,3,13|5,6,11,11",R32,GRAND_SLAM,U21MS,111,Main Draw,AKKUZU Can (FRA),INDEHERBERG Julien (BEL)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,CIPIN Filip,HACHARD Antoine,3,1,"11,9,11,11|9,11,9,4",R32,GRAND_SLAM,U21MS,111,Main Draw,CIPIN Filip (CRO),HACHARD Antoine (FRA)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,KULPA Konrad,ZELJKO Filip,3,1,"3,11,11,12|11,5,9,10",R32,GRAND_SLAM,U21MS,111,Main Draw,KULPA Konrad (POL),ZELJKO Filip (CRO)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,JOST Frederick,SUBOTIC Dragan,3,1,"13,12,11,11|11,14,8,5",R32,GRAND_SLAM,U21MS,111,Main Draw,JOST Frederick (GER),SUBOTIC Dragan (SRB)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,SIMOVIC Miho,LORENTZ Romain,3,2,"11,9,6,11,11|7,11,11,8,8",R32,GRAND_SLAM,U21MS,111,Main Draw,SIMOVIC Miho (CRO),LORENTZ Romain (FRA)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,GROTH Jonathan,KIM Doyub,3,0,"12,11,11|10,6,4",R16,GRAND_SLAM,U21MS,111,Main Draw,GROTH Jonathan (DEN),KIM Doyub (KOR)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,ROBINOT Alexandre,LAKATOS Tamas,3,1,"11,7,11,11|8,11,6,8",R16,GRAND_SLAM,U21MS,111,Main Draw,ROBINOT Alexandre (FRA),LAKATOS Tamas (HUN)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,ECSEKI Nandor,ZATOWKA Patryk,3,2,"11,6,11,5,11|9,11,9,11,4",R16,GRAND_SLAM,U21MS,111,Main Draw,ECSEKI Nandor (HUN),ZATOWKA Patryk (POL)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,BOULOUSSA Mehdi,DUDA Benedikt,3,1,"11,6,11,11|9,11,7,5",R16,GRAND_SLAM,U21MS,111,Main Draw,BOULOUSSA Mehdi (ALG),DUDA Benedikt (GER)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LE BRETON Thomas,KALLBERG Anton,3,2,"12,9,8,11,11|10,11,11,9,3",R16,GRAND_SLAM,U21MS,111,Main Draw,LE BRETON Thomas (FRA),KALLBERG Anton (SWE)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,NOVOTA Samuel,AKKUZU Can,3,1,"8,11,12,11|11,8,10,9",R16,GRAND_SLAM,U21MS,111,Main Draw,NOVOTA Samuel (SVK),AKKUZU Can (FRA)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,CIPIN Filip,KULPA Konrad,3,0,"14,11,11|12,8,3",R16,GRAND_SLAM,U21MS,111,Main Draw,CIPIN Filip (CRO),KULPA Konrad (POL)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,JOST Frederick,SIMOVIC Miho,3,1,"11,6,11,11|6,11,7,3",R16,GRAND_SLAM,U21MS,111,Main Draw,JOST Frederick (GER),SIMOVIC Miho (CRO)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,ROBINOT Alexandre,GROTH Jonathan,4,0,"11,11,12,11|8,8,10,8",QF,GRAND_SLAM,U21MS,111,Main Draw,ROBINOT Alexandre (FRA),GROTH Jonathan (DEN)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,BOULOUSSA Mehdi,ECSEKI Nandor,4,2,"8,11,11,11,6,11|11,2,6,9,11,8",QF,GRAND_SLAM,U21MS,111,Main Draw,BOULOUSSA Mehdi (ALG),ECSEKI Nandor (HUN)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LE BRETON Thomas,NOVOTA Samuel,4,2,"11,6,7,11,11,11|8,11,11,1,5,7",QF,GRAND_SLAM,U21MS,111,Main Draw,LE BRETON Thomas (FRA),NOVOTA Samuel (SVK)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,JOST Frederick,CIPIN Filip,4,1,"11,4,11,11,11|6,11,6,5,9",QF,GRAND_SLAM,U21MS,111,Main Draw,JOST Frederick (GER),CIPIN Filip (CRO)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,BOULOUSSA Mehdi,ROBINOT Alexandre,4,2,"11,5,12,11,6,14|2,11,10,7,11,12",SF,GRAND_SLAM,U21MS,111,Main Draw,BOULOUSSA Mehdi (ALG),ROBINOT Alexandre (FRA)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LE BRETON Thomas,JOST Frederick,4,3,"8,11,13,11,14,5,11|11,6,15,4,12,11,9",SF,GRAND_SLAM,U21MS,111,Main Draw,LE BRETON Thomas (FRA),JOST Frederick (GER)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LE BRETON Thomas,BOULOUSSA Mehdi,4,1,"11,11,11,9,11|6,8,5,11,4",F,GRAND_SLAM,U21MS,111,Main Draw,LE BRETON Thomas (FRA),BOULOUSSA Mehdi (ALG)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,NOSKOVA Yana,WAN Yuan,3,1,"11,8,11,11|6,11,6,3",R16,GRAND_SLAM,U21WS,111,Main Draw,NOSKOVA Yana (RUS),WAN Yuan (GER)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,MITTELHAM Nina,VINCZE Andrada,3,2,"7,11,12,11,11|11,4,14,8,7",R16,GRAND_SLAM,U21WS,111,Main Draw,MITTELHAM Nina (GER),VINCZE Andrada (ROU)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,JEGER Mateja,LEE Dasom,3,2,"12,9,11,5,12|10,11,9,11,10",R16,GRAND_SLAM,U21WS,111,Main Draw,JEGER Mateja (CRO),LEE Dasom (KOR)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,POLCANOVA Sofia,KANG Haneul,3,2,"4,11,12,8,11|11,3,10,11,6",R16,GRAND_SLAM,U21WS,111,Main Draw,POLCANOVA Sofia (AUT),KANG Haneul (KOR)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,AMBRUS Krisztina,JONSSON Jennifer,3,0,"11,11,11|8,3,4",R16,GRAND_SLAM,U21WS,111,Main Draw,AMBRUS Krisztina (HUN),JONSSON Jennifer (SWE)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,GASNIER Laura,TODOROVIC Andrea,3,0,"11,11,11|8,6,8",R16,GRAND_SLAM,U21WS,111,Main Draw,GASNIER Laura (FRA),TODOROVIC Andrea (SRB)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,RAKOVAC Lea,BIKBAEVA Anna,3,1,"5,11,11,11|11,5,5,5",R16,GRAND_SLAM,U21WS,111,Main Draw,RAKOVAC Lea (CRO),BIKBAEVA Anna (RUS)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,VARADY Barbora,MANTZ Chantal,3,0,"11,11,11|4,6,5",R16,GRAND_SLAM,U21WS,111,Main Draw,VARADY Barbora (SVK),MANTZ Chantal (GER)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,POLCANOVA Sofia,JEGER Mateja,4,1,"11,12,11,11,11|7,10,13,3,8",QF,GRAND_SLAM,U21WS,111,Main Draw,POLCANOVA Sofia (AUT),JEGER Mateja (CRO)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,AMBRUS Krisztina,GASNIER Laura,4,3,"12,5,9,11,7,11,11|10,11,11,9,11,4,9",QF,GRAND_SLAM,U21WS,111,Main Draw,AMBRUS Krisztina (HUN),GASNIER Laura (FRA)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,VARADY Barbora,RAKOVAC Lea,4,0,"11,11,11,11|7,8,6,8",QF,GRAND_SLAM,U21WS,111,Main Draw,VARADY Barbora (SVK),RAKOVAC Lea (CRO)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,POLCANOVA Sofia,MITTELHAM Nina,4,1,"11,13,11,7,11|9,11,9,11,6",SF,GRAND_SLAM,U21WS,111,Main Draw,POLCANOVA Sofia (AUT),MITTELHAM Nina (GER)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,VARADY Barbora,AMBRUS Krisztina,4,2,"5,11,11,3,11,11|11,6,6,11,6,9",SF,GRAND_SLAM,U21WS,111,Main Draw,VARADY Barbora (SVK),AMBRUS Krisztina (HUN)
-Euro-Africa Croatia Open Zagreb 2013,2013-06-06,POLCANOVA Sofia,VARADY Barbora,4,0,"11,11,16,11|9,9,14,8",F,GRAND_SLAM,U21WS,111,Main Draw,POLCANOVA Sofia (AUT),VARADY Barbora (SVK)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,GACINA Andrej,ARVIDSSON Simon,4,0,"11,11,11,11|8,5,9,2",R64,GRAND_SLAM,MS,111,Main Draw,GACINA Andrej (CRO),ARVIDSSON Simon (SWE),GACINA Andrej
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LE BRETON Thomas,SIMOVIC Miho,4,3,"8,9,11,7,11,11,11|11,11,0,11,9,8,8",R64,GRAND_SLAM,MS,111,Main Draw,LE BRETON Thomas (FRA),SIMOVIC Miho (CRO),LE BRETON Thomas
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,DUDA Benedikt,BOULOUSSA Mehdi,4,2,"11,5,11,9,11,11|6,11,6,11,6,7",R64,GRAND_SLAM,MS,111,Main Draw,DUDA Benedikt (GER),BOULOUSSA Mehdi (ALG),DUDA Benedikt
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,PUCAR Tomislav,FLORITZ Philipp,4,3,"7,11,11,7,12,8,11|11,7,6,11,10,11,9",R64,GRAND_SLAM,MS,111,Main Draw,PUCAR Tomislav (CRO),FLORITZ Philipp (BUL),PUCAR Tomislav
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,MADRID Marcos,ZELJKO Filip,4,1,"9,11,15,11,11|11,8,13,9,2",R64,GRAND_SLAM,MS,111,Main Draw,MADRID Marcos (MEX),ZELJKO Filip (CRO),MADRID Marcos
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,STERNBERG Kasper,ANDERSSON Harald,4,2,"9,5,11,11,11,11|11,11,7,8,6,7",R64,GRAND_SLAM,MS,111,Main Draw,STERNBERG Kasper (DEN),ANDERSSON Harald (SWE),STERNBERG Kasper
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,OOSTWOUDER Ewout,REDJEP Ronald,4,2,"6,6,15,11,11,12|11,11,13,5,5,10",R64,GRAND_SLAM,MS,111,Main Draw,OOSTWOUDER Ewout (NED),REDJEP Ronald (CRO),OOSTWOUDER Ewout
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,TOSIC Roko,SUBOTIC Dragan,4,2,"9,9,11,11,11,11|11,11,7,7,8,3",R64,GRAND_SLAM,MS,111,Main Draw,TOSIC Roko (CRO),SUBOTIC Dragan (SRB),TOSIC Roko
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,PLATONOV Pavel,RASMUSSEN Tobias,4,2,"14,8,11,9,11,11|12,11,2,11,6,8",R64,GRAND_SLAM,MS,111,Main Draw,PLATONOV Pavel (BLR),RASMUSSEN Tobias (DEN),PLATONOV Pavel
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,PERSSON Jon,RODE Marc,4,3,"11,9,8,11,6,11,12|6,11,11,5,11,6,10",R64,GRAND_SLAM,MS,111,Main Draw,PERSSON Jon (SWE),RODE Marc (GER),PERSSON Jon
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,GOLOVANOV Stanislav,ZATOWKA Patryk,4,2,"1,11,11,4,11,11|11,5,5,11,8,8",R64,GRAND_SLAM,MS,111,Main Draw,GOLOVANOV Stanislav (BUL),ZATOWKA Patryk (POL),GOLOVANOV Stanislav
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,PEREIRA Andy,JUZBASIC Neven,4,2,"5,11,8,11,11,11|11,8,11,5,5,3",R64,GRAND_SLAM,MS,111,Main Draw,PEREIRA Andy (CUB),JUZBASIC Neven (CRO),PEREIRA Andy
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,BARDON Michal,TORNKVIST Andreas,4,1,"7,11,11,11,12|11,7,9,9,10",R64,GRAND_SLAM,MS,111,Main Draw,BARDON Michal (SVK),TORNKVIST Andreas (SWE),BARDON Michal
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,FUCEC Luka,VOSTES Yannick,4,3,"12,9,13,18,11,8,11|14,11,11,16,9,11,7",R64,GRAND_SLAM,MS,111,Main Draw,FUCEC Luka (CRO),VOSTES Yannick (BEL),FUCEC Luka
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,HACHARD Antoine,KUIMOV Philipp,4,0,"11,13,13,11|7,11,11,5",R64,GRAND_SLAM,MS,111,Main Draw,HACHARD Antoine (FRA),KUIMOV Philipp (RUS),HACHARD Antoine
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,GROTH Jonathan,HUZJAK Josip,4,1,"11,6,11,11,11|8,11,7,6,7",R64,GRAND_SLAM,MS,111,Main Draw,GROTH Jonathan (DEN),HUZJAK Josip (CRO),GROTH Jonathan
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,KUZMIN Fedor,PETKOV Marko,4,0,"11,11,11,11|9,3,8,8",R64,GRAND_SLAM,MS,111,Main Draw,KUZMIN Fedor (RUS),PETKOV Marko (SRB),KUZMIN Fedor
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,DYJAS Jakub,TRAN Anthony,4,0,"11,11,11,11|3,7,7,5",R64,GRAND_SLAM,MS,111,Main Draw,DYJAS Jakub (POL),TRAN Anthony (SWE),DYJAS Jakub
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,BROSSIER Benjamin,HEIMBERGER Martin,4,2,"8,6,11,11,13,11|11,11,4,8,11,2",R64,GRAND_SLAM,MS,111,Main Draw,BROSSIER Benjamin (FRA),HEIMBERGER Martin (AUT),BROSSIER Benjamin
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,PISTEJ Lubomir,KULPA Konrad,4,2,"11,6,4,11,11,11|9,11,11,9,9,7",R64,GRAND_SLAM,MS,111,Main Draw,PISTEJ Lubomir (SVK),KULPA Konrad (POL),PISTEJ Lubomir
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LORENTZ Romain,HABESOHN Dominik,4,3,"8,11,14,7,11,11,11|11,9,16,11,9,9,8",R64,GRAND_SLAM,MS,111,Main Draw,LORENTZ Romain (FRA),HABESOHN Dominik (AUT),LORENTZ Romain
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,INDEHERBERG Julien,ORT Kilian,4,3,"10,11,9,6,11,11,11|12,5,11,11,7,7,5",R64,GRAND_SLAM,MS,111,Main Draw,INDEHERBERG Julien (BEL),ORT Kilian (GER),INDEHERBERG Julien
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,ZUBCIC Tomislav,LANDRIEU Andrea,4,3,"12,11,5,10,11,12,12|10,13,11,12,9,10,10",R64,GRAND_SLAM,MS,111,Main Draw,ZUBCIC Tomislav (CRO),LANDRIEU Andrea (FRA),ZUBCIC Tomislav
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,SALIFOU Abdel-Kader,BRODD Viktor,4,1,"11,11,9,11,12|8,3,11,2,10",R64,GRAND_SLAM,MS,111,Main Draw,SALIFOU Abdel-Kader (BEN),BRODD Viktor (SWE),SALIFOU Abdel-Kader
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LAKEEV Vasily,CREPULJA Bojan,4,2,"10,11,11,11,12,11|12,13,1,1,10,2",R64,GRAND_SLAM,MS,111,Main Draw,LAKEEV Vasily (RUS),CREPULJA Bojan (SRB),LAKEEV Vasily
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,DURANSPAHIC Admir,GORMAN Viktor,4,2,"12,8,6,11,11,11|10,11,11,9,7,9",R64,GRAND_SLAM,MS,111,Main Draw,DURANSPAHIC Admir (BIH),GORMAN Viktor (SWE),DURANSPAHIC Admir
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,JUZBASIC Ivan,MAJSTOROVIC Ilija,4,0,"11,11,11,11|7,5,3,9",R64,GRAND_SLAM,MS,111,Main Draw,JUZBASIC Ivan (CRO),MAJSTOROVIC Ilija (SRB),JUZBASIC Ivan
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,JAKAB Janos,PFEFFER Simon,4,1,"12,11,11,11,13|14,3,4,7,11",R64,GRAND_SLAM,MS,111,Main Draw,JAKAB Janos (HUN),PFEFFER Simon (AUT),JAKAB Janos
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,KRIVOSHEEV Viacheslav,KOSIBA Daniel,4,3,"6,11,11,5,13,5,11|11,6,7,11,11,11,6",R64,GRAND_SLAM,MS,111,Main Draw,KRIVOSHEEV Viacheslav (RUS),KOSIBA Daniel (HUN),KRIVOSHEEV Viacheslav
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LAKATOS Tamas,ROBLES Alvaro,4,1,"9,11,11,11,11|11,8,9,4,1",R64,GRAND_SLAM,MS,111,Main Draw,LAKATOS Tamas (HUN),ROBLES Alvaro (ESP),LAKATOS Tamas
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,ROBINOT Alexandre,JOST Frederick,4,3,"13,11,7,10,11,9,11|11,5,11,12,7,11,8",R64,GRAND_SLAM,MS,111,Main Draw,ROBINOT Alexandre (FRA),JOST Frederick (GER),ROBINOT Alexandre
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,SHIBAEV Alexander,TROMER Laurens,4,0,"11,11,11,11|4,6,4,6",R64,GRAND_SLAM,MS,111,Main Draw,SHIBAEV Alexander (RUS),TROMER Laurens (NED),SHIBAEV Alexander
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LE BRETON Thomas,GACINA Andrej,4,2,"5,13,10,11,11,11|11,11,12,9,8,8",R32,GRAND_SLAM,MS,111,Main Draw,LE BRETON Thomas (FRA),GACINA Andrej (CRO),LE BRETON Thomas
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,DUDA Benedikt,PUCAR Tomislav,4,1,"12,11,8,11,11|10,5,11,5,8",R32,GRAND_SLAM,MS,111,Main Draw,DUDA Benedikt (GER),PUCAR Tomislav (CRO),DUDA Benedikt
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,STERNBERG Kasper,MADRID Marcos,4,1,"11,11,11,9,11|6,9,5,11,5",R32,GRAND_SLAM,MS,111,Main Draw,STERNBERG Kasper (DEN),MADRID Marcos (MEX),STERNBERG Kasper
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,TOSIC Roko,OOSTWOUDER Ewout,4,1,"11,11,11,8,11|9,8,9,11,5",R32,GRAND_SLAM,MS,111,Main Draw,TOSIC Roko (CRO),OOSTWOUDER Ewout (NED),TOSIC Roko
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,PERSSON Jon,PLATONOV Pavel,4,2,"5,11,11,7,11,11|11,8,7,11,7,9",R32,GRAND_SLAM,MS,111,Main Draw,PERSSON Jon (SWE),PLATONOV Pavel (BLR),PERSSON Jon
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,PEREIRA Andy,GOLOVANOV Stanislav,4,3,"11,11,11,4,11,6,11|8,13,9,11,8,11,2",R32,GRAND_SLAM,MS,111,Main Draw,PEREIRA Andy (CUB),GOLOVANOV Stanislav (BUL),PEREIRA Andy
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,FUCEC Luka,BARDON Michal,4,1,"11,11,7,11,11|7,9,11,7,5",R32,GRAND_SLAM,MS,111,Main Draw,FUCEC Luka (CRO),BARDON Michal (SVK),FUCEC Luka
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,GROTH Jonathan,HACHARD Antoine,4,0,"13,11,14,11|11,5,12,9",R32,GRAND_SLAM,MS,111,Main Draw,GROTH Jonathan (DEN),HACHARD Antoine (FRA),GROTH Jonathan
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,DYJAS Jakub,KUZMIN Fedor,4,0,"11,11,11,11|8,8,5,5",R32,GRAND_SLAM,MS,111,Main Draw,DYJAS Jakub (POL),KUZMIN Fedor (RUS),DYJAS Jakub
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,PISTEJ Lubomir,BROSSIER Benjamin,4,1,"8,11,12,11,11|11,3,10,5,9",R32,GRAND_SLAM,MS,111,Main Draw,PISTEJ Lubomir (SVK),BROSSIER Benjamin (FRA),PISTEJ Lubomir
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LORENTZ Romain,INDEHERBERG Julien,4,1,"11,11,9,11,13|5,9,11,8,11",R32,GRAND_SLAM,MS,111,Main Draw,LORENTZ Romain (FRA),INDEHERBERG Julien (BEL),LORENTZ Romain
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,SALIFOU Abdel-Kader,ZUBCIC Tomislav,4,1,"11,11,15,4,11|9,6,13,11,2",R32,GRAND_SLAM,MS,111,Main Draw,SALIFOU Abdel-Kader (BEN),ZUBCIC Tomislav (CRO),SALIFOU Abdel-Kader
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LAKEEV Vasily,DURANSPAHIC Admir,4,3,"9,11,11,11,8,8,17|11,9,6,9,11,11,15",R32,GRAND_SLAM,MS,111,Main Draw,LAKEEV Vasily (RUS),DURANSPAHIC Admir (BIH),LAKEEV Vasily
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,JAKAB Janos,JUZBASIC Ivan,4,0,"11,11,11,11|8,9,6,9",R32,GRAND_SLAM,MS,111,Main Draw,JAKAB Janos (HUN),JUZBASIC Ivan (CRO),JAKAB Janos
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LAKATOS Tamas,KRIVOSHEEV Viacheslav,4,1,"11,7,11,11,13|8,11,4,6,11",R32,GRAND_SLAM,MS,111,Main Draw,LAKATOS Tamas (HUN),KRIVOSHEEV Viacheslav (RUS),LAKATOS Tamas
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,SHIBAEV Alexander,ROBINOT Alexandre,4,1,"4,11,11,11,11|11,9,6,8,8",R32,GRAND_SLAM,MS,111,Main Draw,SHIBAEV Alexander (RUS),ROBINOT Alexandre (FRA),SHIBAEV Alexander
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,DUDA Benedikt,LE BRETON Thomas,4,2,"8,11,12,6,11,11|11,6,10,11,9,8",R16,GRAND_SLAM,MS,111,Main Draw,DUDA Benedikt (GER),LE BRETON Thomas (FRA),DUDA Benedikt
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,TOSIC Roko,STERNBERG Kasper,4,1,"11,11,6,11,11|7,6,11,9,5",R16,GRAND_SLAM,MS,111,Main Draw,TOSIC Roko (CRO),STERNBERG Kasper (DEN),TOSIC Roko
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,PERSSON Jon,PEREIRA Andy,4,2,"8,11,9,13,11,11|11,6,11,11,9,5",R16,GRAND_SLAM,MS,111,Main Draw,PERSSON Jon (SWE),PEREIRA Andy (CUB),PERSSON Jon
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,GROTH Jonathan,FUCEC Luka,4,1,"11,11,11,7,11|5,8,6,11,8",R16,GRAND_SLAM,MS,111,Main Draw,GROTH Jonathan (DEN),FUCEC Luka (CRO),GROTH Jonathan
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,PISTEJ Lubomir,DYJAS Jakub,4,2,"5,11,8,11,11,11|11,5,11,9,7,6",R16,GRAND_SLAM,MS,111,Main Draw,PISTEJ Lubomir (SVK),DYJAS Jakub (POL),PISTEJ Lubomir
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,SALIFOU Abdel-Kader,LORENTZ Romain,4,3,"6,11,11,7,11,3,11|11,9,2,11,6,11,7",R16,GRAND_SLAM,MS,111,Main Draw,SALIFOU Abdel-Kader (BEN),LORENTZ Romain (FRA),SALIFOU Abdel-Kader
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,JAKAB Janos,LAKEEV Vasily,4,3,"11,9,11,8,11,11,11|5,11,5,11,9,13,2",R16,GRAND_SLAM,MS,111,Main Draw,JAKAB Janos (HUN),LAKEEV Vasily (RUS),JAKAB Janos
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,SHIBAEV Alexander,LAKATOS Tamas,4,0,"11,11,11,11|8,6,9,3",R16,GRAND_SLAM,MS,111,Main Draw,SHIBAEV Alexander (RUS),LAKATOS Tamas (HUN),SHIBAEV Alexander
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,TOSIC Roko,DUDA Benedikt,4,3,"11,11,11,5,5,9,11|3,7,8,11,11,11,9",QF,GRAND_SLAM,MS,111,Main Draw,TOSIC Roko (CRO),DUDA Benedikt (GER),TOSIC Roko
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,PERSSON Jon,GROTH Jonathan,4,3,"5,6,11,11,11,9,11|11,11,6,5,9,11,8",QF,GRAND_SLAM,MS,111,Main Draw,PERSSON Jon (SWE),GROTH Jonathan (DEN),PERSSON Jon
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,SALIFOU Abdel-Kader,PISTEJ Lubomir,4,1,"9,11,11,11,11|11,4,8,2,9",QF,GRAND_SLAM,MS,111,Main Draw,SALIFOU Abdel-Kader (BEN),PISTEJ Lubomir (SVK),SALIFOU Abdel-Kader
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,JAKAB Janos,SHIBAEV Alexander,4,3,"11,6,9,11,11,8,11|9,11,11,6,9,11,6",QF,GRAND_SLAM,MS,111,Main Draw,JAKAB Janos (HUN),SHIBAEV Alexander (RUS),JAKAB Janos
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,TOSIC Roko,PERSSON Jon,4,2,"11,13,7,8,11,11|4,11,11,11,7,7",SF,GRAND_SLAM,MS,111,Main Draw,TOSIC Roko (CRO),PERSSON Jon (SWE),TOSIC Roko
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,SALIFOU Abdel-Kader,JAKAB Janos,4,3,"5,9,11,11,15,4,11|11,11,6,9,13,11,8",SF,GRAND_SLAM,MS,111,Main Draw,SALIFOU Abdel-Kader (BEN),JAKAB Janos (HUN),SALIFOU Abdel-Kader
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,SALIFOU Abdel-Kader,TOSIC Roko,4,3,"7,7,11,12,7,11,11|11,11,1,10,11,7,9",F,GRAND_SLAM,MS,111,Main Draw,SALIFOU Abdel-Kader (BEN),TOSIC Roko (CRO),SALIFOU Abdel-Kader
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,EKHOLM Matilda,BIKBAEVA Anna,4,1,"11,5,11,11,11|9,11,5,6,7",R32,GRAND_SLAM,WS,111,Main Draw,EKHOLM Matilda (SWE),BIKBAEVA Anna (RUS),EKHOLM Matilda
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,KUSINSKA Klaudia,KUZMINA Elena,4,0,"11,11,12,14|9,9,10,12",R32,GRAND_SLAM,WS,111,Main Draw,KUSINSKA Klaudia (POL),KUZMINA Elena (RUS),KUSINSKA Klaudia
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,GASNIER Laura,ARLOUSKAYA Alina,4,1,"11,8,13,11,11|2,11,11,3,9",R32,GRAND_SLAM,WS,111,Main Draw,GASNIER Laura (FRA),ARLOUSKAYA Alina (BLR),GASNIER Laura
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,VARADY Barbora,JEGER Mateja,4,1,"11,5,11,11,11|4,11,5,7,6",R32,GRAND_SLAM,WS,111,Main Draw,VARADY Barbora (SVK),JEGER Mateja (CRO),VARADY Barbora
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,PRIVALOVA Alexandra,TODOROVIC Andrea,4,1,"11,2,11,11,11|6,11,4,8,6",R32,GRAND_SLAM,WS,111,Main Draw,PRIVALOVA Alexandra (BLR),TODOROVIC Andrea (SRB),PRIVALOVA Alexandra
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,RAKOVAC Lea,FETUKHINA Margarita,4,3,"11,11,8,9,8,11,11|9,8,11,11,11,7,6",R32,GRAND_SLAM,WS,111,Main Draw,RAKOVAC Lea (CRO),FETUKHINA Margarita (RUS),RAKOVAC Lea
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,DOLGIKH Maria,VINCZE Andrada,4,0,"11,11,11,11|5,4,7,7",R32,GRAND_SLAM,WS,111,Main Draw,DOLGIKH Maria (RUS),VINCZE Andrada (ROU),DOLGIKH Maria
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,KANG Haneul,PERGEL Szandra,4,3,"11,11,11,5,3,14,11|9,7,6,11,11,16,6",R32,GRAND_SLAM,WS,111,Main Draw,KANG Haneul (KOR),PERGEL Szandra (HUN),KANG Haneul
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,NOSKOVA Yana,PROSVIRNINA Natalya,4,2,"11,7,13,11,7,11|2,11,11,4,11,8",R32,GRAND_SLAM,WS,111,Main Draw,NOSKOVA Yana (RUS),PROSVIRNINA Natalya (ESP),NOSKOVA Yana
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,MITTELHAM Nina,BERGE Sarah,4,0,"11,11,11,11|7,9,9,8",R32,GRAND_SLAM,WS,111,Main Draw,MITTELHAM Nina (GER),BERGE Sarah (FRA),MITTELHAM Nina
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,VASYLIEVA Ievgeniia,DVORAK Galia,4,2,"13,11,7,11,11,11|15,7,11,8,9,9",R32,GRAND_SLAM,WS,111,Main Draw,VASYLIEVA Ievgeniia (UKR),DVORAK Galia (ESP),VASYLIEVA Ievgeniia
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,MIKHAILOVA Polina,BARAVOK Katsiaryna,4,0,"11,11,11,11|3,5,3,6",R32,GRAND_SLAM,WS,111,Main Draw,MIKHAILOVA Polina (RUS),BARAVOK Katsiaryna (BLR),MIKHAILOVA Polina
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,TIAN Yuan,MANTZ Chantal,4,2,"8,10,12,11,11,11|11,12,10,6,9,3",R32,GRAND_SLAM,WS,111,Main Draw,TIAN Yuan (CRO),MANTZ Chantal (GER),TIAN Yuan
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LEE Dasom,AMBRUS Krisztina,4,1,"11,9,12,11,11|8,11,10,4,8",R32,GRAND_SLAM,WS,111,Main Draw,LEE Dasom (KOR),AMBRUS Krisztina (HUN),LEE Dasom
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,POLCANOVA Sofia,KERTAI Rita,4,1,"6,11,11,11,11|11,9,9,9,6",R32,GRAND_SLAM,WS,111,Main Draw,POLCANOVA Sofia (AUT),KERTAI Rita (HUN),POLCANOVA Sofia
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,SAVELYEVA Antonina,POTA Georgina,4,3,"7,11,11,11,12,5,11|11,4,8,9,14,11,6",R32,GRAND_SLAM,WS,111,Main Draw,SAVELYEVA Antonina (RUS),POTA Georgina (HUN),SAVELYEVA Antonina
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,EKHOLM Matilda,KUSINSKA Klaudia,4,0,"11,11,11,11|4,8,7,9",R16,GRAND_SLAM,WS,111,Main Draw,EKHOLM Matilda (SWE),KUSINSKA Klaudia (POL),EKHOLM Matilda
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,VARADY Barbora,GASNIER Laura,4,1,"7,11,11,13,11|11,7,6,11,9",R16,GRAND_SLAM,WS,111,Main Draw,VARADY Barbora (SVK),GASNIER Laura (FRA),VARADY Barbora
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,RAKOVAC Lea,PRIVALOVA Alexandra,4,3,"5,11,6,11,11,14,11|11,5,11,13,5,12,5",R16,GRAND_SLAM,WS,111,Main Draw,RAKOVAC Lea (CRO),PRIVALOVA Alexandra (BLR),RAKOVAC Lea
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,KANG Haneul,DOLGIKH Maria,4,1,"11,11,11,7,11|8,8,6,11,7",R16,GRAND_SLAM,WS,111,Main Draw,KANG Haneul (KOR),DOLGIKH Maria (RUS),KANG Haneul
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,MITTELHAM Nina,NOSKOVA Yana,4,1,"11,14,4,11,11|6,12,11,9,7",R16,GRAND_SLAM,WS,111,Main Draw,MITTELHAM Nina (GER),NOSKOVA Yana (RUS),MITTELHAM Nina
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,MIKHAILOVA Polina,VASYLIEVA Ievgeniia,4,3,"13,11,6,11,11,10,11|11,5,11,4,13,12,8",R16,GRAND_SLAM,WS,111,Main Draw,MIKHAILOVA Polina (RUS),VASYLIEVA Ievgeniia (UKR),MIKHAILOVA Polina
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LEE Dasom,TIAN Yuan,4,3,"11,11,10,5,11,13,11|6,4,12,11,8,15,5",R16,GRAND_SLAM,WS,111,Main Draw,LEE Dasom (KOR),TIAN Yuan (CRO),LEE Dasom
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,POLCANOVA Sofia,SAVELYEVA Antonina,4,3,"6,13,8,11,11,11,12|11,15,11,8,7,5,10",R16,GRAND_SLAM,WS,111,Main Draw,POLCANOVA Sofia (AUT),SAVELYEVA Antonina (RUS),POLCANOVA Sofia
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,EKHOLM Matilda,VARADY Barbora,4,3,"11,6,7,11,11,13,11|9,11,11,8,13,11,6",QF,GRAND_SLAM,WS,111,Main Draw,EKHOLM Matilda (SWE),VARADY Barbora (SVK),EKHOLM Matilda
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,KANG Haneul,RAKOVAC Lea,4,3,"11,11,4,8,7,11,12|4,5,11,11,11,9,10",QF,GRAND_SLAM,WS,111,Main Draw,KANG Haneul (KOR),RAKOVAC Lea (CRO),KANG Haneul
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,MIKHAILOVA Polina,MITTELHAM Nina,4,1,"11,8,11,11,11|1,11,9,8,6",QF,GRAND_SLAM,WS,111,Main Draw,MIKHAILOVA Polina (RUS),MITTELHAM Nina (GER),MIKHAILOVA Polina
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LEE Dasom,POLCANOVA Sofia,4,2,"11,4,11,7,11,11|9,11,7,11,6,7",QF,GRAND_SLAM,WS,111,Main Draw,LEE Dasom (KOR),POLCANOVA Sofia (AUT),LEE Dasom
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,EKHOLM Matilda,KANG Haneul,4,0,"11,11,13,11|5,3,11,2",SF,GRAND_SLAM,WS,111,Main Draw,EKHOLM Matilda (SWE),KANG Haneul (KOR),EKHOLM Matilda
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LEE Dasom,MIKHAILOVA Polina,4,1,"11,11,11,12,11|5,13,8,10,8",SF,GRAND_SLAM,WS,111,Main Draw,LEE Dasom (KOR),MIKHAILOVA Polina (RUS),LEE Dasom
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LEE Dasom,EKHOLM Matilda,4,3,"11,4,8,6,11,11,11|6,11,11,11,0,8,8",F,GRAND_SLAM,WS,111,Main Draw,LEE Dasom (KOR),EKHOLM Matilda (SWE),LEE Dasom
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,GROTH Jonathan,AHLANDER-J Carl,3,2,"13,9,11,11,11|15,11,3,8,7",R32,GRAND_SLAM,U21MS,111,Main Draw,GROTH Jonathan (DEN),AHLANDER-J Carl (SWE),GROTH Jonathan
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,KIM Doyub,TRAN Anthony,3,2,"9,13,11,8,13|11,11,8,11,11",R32,GRAND_SLAM,U21MS,111,Main Draw,KIM Doyub (KOR),TRAN Anthony (SWE),KIM Doyub
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LAKATOS Tamas,LANDRIEU Andrea,3,1,"12,6,11,17|10,11,9,15",R32,GRAND_SLAM,U21MS,111,Main Draw,LAKATOS Tamas (HUN),LANDRIEU Andrea (FRA),LAKATOS Tamas
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,ROBINOT Alexandre,HAGBERG Johan,3,0,"11,11,11|9,8,6",R32,GRAND_SLAM,U21MS,111,Main Draw,ROBINOT Alexandre (FRA),HAGBERG Johan (LAO),ROBINOT Alexandre
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,ZATOWKA Patryk,BROSSIER Benjamin,3,1,"11,6,11,12|3,11,9,10",R32,GRAND_SLAM,U21MS,111,Main Draw,ZATOWKA Patryk (POL),BROSSIER Benjamin (FRA),ZATOWKA Patryk
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,ECSEKI Nandor,OLIVARES Felipe,3,0,"11,11,11|9,6,5",R32,GRAND_SLAM,U21MS,111,Main Draw,ECSEKI Nandor (HUN),OLIVARES Felipe (CHI),ECSEKI Nandor
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,BOULOUSSA Mehdi,SZUDI Adam,3,0,"11,11,11|9,2,5",R32,GRAND_SLAM,U21MS,111,Main Draw,BOULOUSSA Mehdi (ALG),SZUDI Adam (HUN),BOULOUSSA Mehdi
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,DUDA Benedikt,HEDLUND Jesper,3,0,"11,11,11|3,8,9",R32,GRAND_SLAM,U21MS,111,Main Draw,DUDA Benedikt (GER),HEDLUND Jesper (SWE),DUDA Benedikt
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LE BRETON Thomas,KONSTANTINOPOULOS Konstantinos,3,0,"11,11,11|6,4,7",R32,GRAND_SLAM,U21MS,111,Main Draw,LE BRETON Thomas (FRA),KONSTANTINOPOULOS Konstantinos (GRE),LE BRETON Thomas
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,KALLBERG Anton,DYJAS Jakub,3,0,"11,11,11|8,7,5",R32,GRAND_SLAM,U21MS,111,Main Draw,KALLBERG Anton (SWE),DYJAS Jakub (POL),KALLBERG Anton
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,NOVOTA Samuel,PUCAR Tomislav,3,2,"10,11,11,2,11|12,3,9,11,4",R32,GRAND_SLAM,U21MS,111,Main Draw,NOVOTA Samuel (SVK),PUCAR Tomislav (CRO),NOVOTA Samuel
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,AKKUZU Can,INDEHERBERG Julien,3,1,"11,11,3,13|5,6,11,11",R32,GRAND_SLAM,U21MS,111,Main Draw,AKKUZU Can (FRA),INDEHERBERG Julien (BEL),AKKUZU Can
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,CIPIN Filip,HACHARD Antoine,3,1,"11,9,11,11|9,11,9,4",R32,GRAND_SLAM,U21MS,111,Main Draw,CIPIN Filip (CRO),HACHARD Antoine (FRA),CIPIN Filip
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,KULPA Konrad,ZELJKO Filip,3,1,"3,11,11,12|11,5,9,10",R32,GRAND_SLAM,U21MS,111,Main Draw,KULPA Konrad (POL),ZELJKO Filip (CRO),KULPA Konrad
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,JOST Frederick,SUBOTIC Dragan,3,1,"13,12,11,11|11,14,8,5",R32,GRAND_SLAM,U21MS,111,Main Draw,JOST Frederick (GER),SUBOTIC Dragan (SRB),JOST Frederick
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,SIMOVIC Miho,LORENTZ Romain,3,2,"11,9,6,11,11|7,11,11,8,8",R32,GRAND_SLAM,U21MS,111,Main Draw,SIMOVIC Miho (CRO),LORENTZ Romain (FRA),SIMOVIC Miho
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,GROTH Jonathan,KIM Doyub,3,0,"12,11,11|10,6,4",R16,GRAND_SLAM,U21MS,111,Main Draw,GROTH Jonathan (DEN),KIM Doyub (KOR),GROTH Jonathan
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,ROBINOT Alexandre,LAKATOS Tamas,3,1,"11,7,11,11|8,11,6,8",R16,GRAND_SLAM,U21MS,111,Main Draw,ROBINOT Alexandre (FRA),LAKATOS Tamas (HUN),ROBINOT Alexandre
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,ECSEKI Nandor,ZATOWKA Patryk,3,2,"11,6,11,5,11|9,11,9,11,4",R16,GRAND_SLAM,U21MS,111,Main Draw,ECSEKI Nandor (HUN),ZATOWKA Patryk (POL),ECSEKI Nandor
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,BOULOUSSA Mehdi,DUDA Benedikt,3,1,"11,6,11,11|9,11,7,5",R16,GRAND_SLAM,U21MS,111,Main Draw,BOULOUSSA Mehdi (ALG),DUDA Benedikt (GER),BOULOUSSA Mehdi
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LE BRETON Thomas,KALLBERG Anton,3,2,"12,9,8,11,11|10,11,11,9,3",R16,GRAND_SLAM,U21MS,111,Main Draw,LE BRETON Thomas (FRA),KALLBERG Anton (SWE),LE BRETON Thomas
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,NOVOTA Samuel,AKKUZU Can,3,1,"8,11,12,11|11,8,10,9",R16,GRAND_SLAM,U21MS,111,Main Draw,NOVOTA Samuel (SVK),AKKUZU Can (FRA),NOVOTA Samuel
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,CIPIN Filip,KULPA Konrad,3,0,"14,11,11|12,8,3",R16,GRAND_SLAM,U21MS,111,Main Draw,CIPIN Filip (CRO),KULPA Konrad (POL),CIPIN Filip
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,JOST Frederick,SIMOVIC Miho,3,1,"11,6,11,11|6,11,7,3",R16,GRAND_SLAM,U21MS,111,Main Draw,JOST Frederick (GER),SIMOVIC Miho (CRO),JOST Frederick
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,ROBINOT Alexandre,GROTH Jonathan,4,0,"11,11,12,11|8,8,10,8",QF,GRAND_SLAM,U21MS,111,Main Draw,ROBINOT Alexandre (FRA),GROTH Jonathan (DEN),ROBINOT Alexandre
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,BOULOUSSA Mehdi,ECSEKI Nandor,4,2,"8,11,11,11,6,11|11,2,6,9,11,8",QF,GRAND_SLAM,U21MS,111,Main Draw,BOULOUSSA Mehdi (ALG),ECSEKI Nandor (HUN),BOULOUSSA Mehdi
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LE BRETON Thomas,NOVOTA Samuel,4,2,"11,6,7,11,11,11|8,11,11,1,5,7",QF,GRAND_SLAM,U21MS,111,Main Draw,LE BRETON Thomas (FRA),NOVOTA Samuel (SVK),LE BRETON Thomas
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,JOST Frederick,CIPIN Filip,4,1,"11,4,11,11,11|6,11,6,5,9",QF,GRAND_SLAM,U21MS,111,Main Draw,JOST Frederick (GER),CIPIN Filip (CRO),JOST Frederick
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,BOULOUSSA Mehdi,ROBINOT Alexandre,4,2,"11,5,12,11,6,14|2,11,10,7,11,12",SF,GRAND_SLAM,U21MS,111,Main Draw,BOULOUSSA Mehdi (ALG),ROBINOT Alexandre (FRA),BOULOUSSA Mehdi
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LE BRETON Thomas,JOST Frederick,4,3,"8,11,13,11,14,5,11|11,6,15,4,12,11,9",SF,GRAND_SLAM,U21MS,111,Main Draw,LE BRETON Thomas (FRA),JOST Frederick (GER),LE BRETON Thomas
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,LE BRETON Thomas,BOULOUSSA Mehdi,4,1,"11,11,11,9,11|6,8,5,11,4",F,GRAND_SLAM,U21MS,111,Main Draw,LE BRETON Thomas (FRA),BOULOUSSA Mehdi (ALG),LE BRETON Thomas
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,NOSKOVA Yana,WAN Yuan,3,1,"11,8,11,11|6,11,6,3",R16,GRAND_SLAM,U21WS,111,Main Draw,NOSKOVA Yana (RUS),WAN Yuan (GER),NOSKOVA Yana
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,MITTELHAM Nina,VINCZE Andrada,3,2,"7,11,12,11,11|11,4,14,8,7",R16,GRAND_SLAM,U21WS,111,Main Draw,MITTELHAM Nina (GER),VINCZE Andrada (ROU),MITTELHAM Nina
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,JEGER Mateja,LEE Dasom,3,2,"12,9,11,5,12|10,11,9,11,10",R16,GRAND_SLAM,U21WS,111,Main Draw,JEGER Mateja (CRO),LEE Dasom (KOR),JEGER Mateja
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,POLCANOVA Sofia,KANG Haneul,3,2,"4,11,12,8,11|11,3,10,11,6",R16,GRAND_SLAM,U21WS,111,Main Draw,POLCANOVA Sofia (AUT),KANG Haneul (KOR),POLCANOVA Sofia
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,AMBRUS Krisztina,JONSSON Jennifer,3,0,"11,11,11|8,3,4",R16,GRAND_SLAM,U21WS,111,Main Draw,AMBRUS Krisztina (HUN),JONSSON Jennifer (SWE),AMBRUS Krisztina
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,GASNIER Laura,TODOROVIC Andrea,3,0,"11,11,11|8,6,8",R16,GRAND_SLAM,U21WS,111,Main Draw,GASNIER Laura (FRA),TODOROVIC Andrea (SRB),GASNIER Laura
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,RAKOVAC Lea,BIKBAEVA Anna,3,1,"5,11,11,11|11,5,5,5",R16,GRAND_SLAM,U21WS,111,Main Draw,RAKOVAC Lea (CRO),BIKBAEVA Anna (RUS),RAKOVAC Lea
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,VARADY Barbora,MANTZ Chantal,3,0,"11,11,11|4,6,5",R16,GRAND_SLAM,U21WS,111,Main Draw,VARADY Barbora (SVK),MANTZ Chantal (GER),VARADY Barbora
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,POLCANOVA Sofia,JEGER Mateja,4,1,"11,12,11,11,11|7,10,13,3,8",QF,GRAND_SLAM,U21WS,111,Main Draw,POLCANOVA Sofia (AUT),JEGER Mateja (CRO),POLCANOVA Sofia
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,AMBRUS Krisztina,GASNIER Laura,4,3,"12,5,9,11,7,11,11|10,11,11,9,11,4,9",QF,GRAND_SLAM,U21WS,111,Main Draw,AMBRUS Krisztina (HUN),GASNIER Laura (FRA),AMBRUS Krisztina
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,VARADY Barbora,RAKOVAC Lea,4,0,"11,11,11,11|7,8,6,8",QF,GRAND_SLAM,U21WS,111,Main Draw,VARADY Barbora (SVK),RAKOVAC Lea (CRO),VARADY Barbora
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,POLCANOVA Sofia,MITTELHAM Nina,4,1,"11,13,11,7,11|9,11,9,11,6",SF,GRAND_SLAM,U21WS,111,Main Draw,POLCANOVA Sofia (AUT),MITTELHAM Nina (GER),POLCANOVA Sofia
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,VARADY Barbora,AMBRUS Krisztina,4,2,"5,11,11,3,11,11|11,6,6,11,6,9",SF,GRAND_SLAM,U21WS,111,Main Draw,VARADY Barbora (SVK),AMBRUS Krisztina (HUN),VARADY Barbora
+Euro-Africa Croatia Open Zagreb 2013,2013-06-06,POLCANOVA Sofia,VARADY Barbora,4,0,"11,11,16,11|9,9,14,8",F,GRAND_SLAM,U21WS,111,Main Draw,POLCANOVA Sofia (AUT),VARADY Barbora (SVK),POLCANOVA Sofia

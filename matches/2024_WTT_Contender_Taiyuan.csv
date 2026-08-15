@@ -1,113 +1,113 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-WTT Contender Taiyuan 2024,2024-05-21,XU Yi,SU Pei-Ling,3,2,"12,11,10,7,11|10,6,12,11,8",QR1,WTT_CONTENDER,WS,2865,Qualification,XU Yi (CHN),SU Pei-Ling (TPE)
-WTT Contender Taiyuan 2024,2024-05-21,LEE Daeun,CHANG Li Sian Alice,3,1,"9,11,11,12|11,9,7,10",QR1,WTT_CONTENDER,WS,2865,Qualification,LEE Daeun (KOR),CHANG Li Sian Alice (MAS)
-WTT Contender Taiyuan 2024,2024-05-21,HUNG Jing-Kai,SCHEUER Peter,3,0,"11,11,11|6,7,6",QR1,WTT_CONTENDER,MS,2865,Qualification,HUNG Jing-Kai (TPE),SCHEUER Peter (USA)
-WTT Contender Taiyuan 2024,2024-05-21,HU Dongshen,XU Haidong,3,2,"11,5,2,11,11|3,11,11,8,9",QR1,WTT_CONTENDER,MS,2865,Qualification,HU Dongshen (CHN),XU Haidong (CHN)
-WTT Contender Taiyuan 2024,2024-05-21,CHOONG Javen,LI Hon Ming,3,1,"11,8,11,11|6,11,3,3",QR1,WTT_CONTENDER,MS,2865,Qualification,CHOONG Javen (MAS),LI Hon Ming (HKG)
-WTT Contender Taiyuan 2024,2024-05-22,XU Yingbin,LI Yan Jun,3,1,"8,11,11,11|11,7,7,4",QR2,WTT_CONTENDER,MS,2865,Qualification,XU Yingbin (CHN),LI Yan Jun (TPE)
-WTT Contender Taiyuan 2024,2024-05-22,ZHOU Kai,PAU Yik Man,3,0,"11,12,11|6,10,3",QR2,WTT_CONTENDER,MS,2865,Qualification,ZHOU Kai (CHN),PAU Yik Man (HKG)
-WTT Contender Taiyuan 2024,2024-05-22,FAN Shuhan,KE Tiffany,3,0,"11,11,12|7,7,10",QR1,WTT_CONTENDER,WS,2865,Qualification,FAN Shuhan (CHN),KE Tiffany (USA)
-WTT Contender Taiyuan 2024,2024-05-22,HUNG Jing-Kai,CHEN Yuanyu,3,2,"11,11,9,7,13|6,8,11,11,11",QR2,WTT_CONTENDER,MS,2865,Qualification,HUNG Jing-Kai (TPE),CHEN Yuanyu (CHN)
-WTT Contender Taiyuan 2024,2024-05-22,XUE Fei,HU Dongshen,3,1,"11,4,11,11|5,11,5,6",QR2,WTT_CONTENDER,MS,2865,Qualification,XUE Fei (CHN),HU Dongshen (CHN)
-WTT Contender Taiyuan 2024,2024-05-22,KWAN Man Ho,HO Kwan Kit,3,2,"9,7,11,11,11|11,11,6,5,6",QR2,WTT_CONTENDER,MS,2865,Qualification,KWAN Man Ho (HKG),HO Kwan Kit (HKG)
-WTT Contender Taiyuan 2024,2024-05-22,CHEW Zhe Yu Clarence,CHUA Josh Shao Han,3,1,"3,11,11,11|11,8,5,6",QR2,WTT_CONTENDER,MS,2865,Qualification,CHEW Zhe Yu Clarence (SGP),CHUA Josh Shao Han (SGP)
-WTT Contender Taiyuan 2024,2024-05-22,LYNE Karen,KONG Tsz Lam,3,2,"8,6,11,11,12|11,11,5,8,10",QR1,WTT_CONTENDER,WS,2865,Qualification,LYNE Karen (MAS),KONG Tsz Lam (HKG)
-WTT Contender Taiyuan 2024,2024-05-22,YIU Kwan To,CHOY Chun Kit,3,1,"10,11,11,11|12,8,7,7",QR2,WTT_CONTENDER,MS,2865,Qualification,YIU Kwan To (HKG),CHOY Chun Kit (HKG)
-WTT Contender Taiyuan 2024,2024-05-22,LIU Dingshuo,CHOONG Javen,3,0,"11,11,11|3,6,5",QR2,WTT_CONTENDER,MS,2865,Qualification,LIU Dingshuo (CHN),CHOONG Javen (MAS)
-WTT Contender Taiyuan 2024,2024-05-23,WONG Chun Ting/DOO Hoi Kem,CHOONG Javen/LYNE Karen,3,1,"11,11,7,11|5,9,11,7",R16,WTT_CONTENDER,XD,2865,Main Draw,WONG Chun Ting/DOO Hoi Kem (HKG),CHOONG Javen/LYNE Karen (MAS)
-WTT Contender Taiyuan 2024,2024-05-23,PANG Koen/QUEK Izaac,HUANG Youzheng/CHEN Yuanyu,3,1,"4,11,11,13|11,8,5,11",R16,WTT_CONTENDER,MD,2865,Main Draw,PANG Koen/QUEK Izaac (SGP),HUANG Youzheng/CHEN Yuanyu (CHN)
-WTT Contender Taiyuan 2024,2024-05-23,CHEN Xingtong,KUAI Man,3,1,"12,12,8,14|10,10,11,12",R32,WTT_CONTENDER,WS,2865,Main Draw,CHEN Xingtong (CHN),KUAI Man (CHN)
-WTT Contender Taiyuan 2024,2024-05-23,YUAN Licen/XU Yingbin,LAM Siu Hang/LI Hon Ming,3,0,"11,11,11|9,0,0",R16,WTT_CONTENDER,MD,2865,Main Draw,YUAN Licen/XU Yingbin (CHN),LAM Siu Hang/LI Hon Ming (HKG)
-WTT Contender Taiyuan 2024,2024-05-23,HUNG Jing-Kai/LI Yan Jun,KWAN Man Ho/CHOY Chun Kit,3,0,"11,11,11|7,7,7",R16,WTT_CONTENDER,MD,2865,Main Draw,HUNG Jing-Kai/LI Yan Jun (TPE),KWAN Man Ho/CHOY Chun Kit (HKG)
-WTT Contender Taiyuan 2024,2024-05-23,QIN Yuxuan,HAN Feier,3,1,"17,9,11,11|15,11,1,9",R32,WTT_CONTENDER,WS,2865,Main Draw,QIN Yuxuan (CHN),HAN Feier (CHN)
-WTT Contender Taiyuan 2024,2024-05-23,YANG Yiyun,ZHU Chengzhu,3,2,"3,11,6,11,11|11,4,11,8,6",R32,WTT_CONTENDER,WS,2865,Main Draw,YANG Yiyun (CHN),ZHU Chengzhu (HKG)
-WTT Contender Taiyuan 2024,2024-05-23,LEBRUN Alexis,CHO Seungmin,3,2,"11,9,11,10,13|7,11,4,12,11",R32,WTT_CONTENDER,MS,2865,Main Draw,LEBRUN Alexis (FRA),CHO Seungmin (KOR)
-WTT Contender Taiyuan 2024,2024-05-23,SHI Xunyao,DOO Hoi Kem,3,0,"12,15,11|10,13,8",R32,WTT_CONTENDER,WS,2865,Main Draw,SHI Xunyao (CHN),DOO Hoi Kem (HKG)
-WTT Contender Taiyuan 2024,2024-05-23,NG Wing Lam,ZHOU Jingyi,3,2,"8,8,11,14,11|11,11,8,12,8",R32,WTT_CONTENDER,WS,2865,Main Draw,NG Wing Lam (HKG),ZHOU Jingyi (SGP)
-WTT Contender Taiyuan 2024,2024-05-23,QIAN Tianyi,LEE Daeun,3,0,"11,11,13|7,4,11",R32,WTT_CONTENDER,WS,2865,Main Draw,QIAN Tianyi (CHN),LEE Daeun (KOR)
-WTT Contender Taiyuan 2024,2024-05-23,HUANG Youzheng,YIU Kwan To,3,2,"6,8,11,11,14|11,11,6,5,12",R32,WTT_CONTENDER,MS,2865,Main Draw,HUANG Youzheng (CHN),YIU Kwan To (HKG)
-WTT Contender Taiyuan 2024,2024-05-23,WONG Chun Ting,LIN Gaoyuan,3,1,"13,8,11,11|11,11,9,7",R32,WTT_CONTENDER,MS,2865,Main Draw,WONG Chun Ting (HKG),LIN Gaoyuan (CHN)
-WTT Contender Taiyuan 2024,2024-05-23,ZHOU Qihao,CHAN Baldwin,3,1,"11,8,11,11|6,11,7,9",R32,WTT_CONTENDER,MS,2865,Main Draw,ZHOU Qihao (CHN),CHAN Baldwin (HKG)
-WTT Contender Taiyuan 2024,2024-05-23,LEE Sang Su,XIANG Peng,3,2,"11,4,5,11,13|3,11,11,8,11",R32,WTT_CONTENDER,MS,2865,Main Draw,LEE Sang Su (KOR),XIANG Peng (CHN)
-WTT Contender Taiyuan 2024,2024-05-23,LIN Shidong,OIKAWA Mizuki,3,1,"11,12,9,11|5,10,11,5",R32,WTT_CONTENDER,MS,2865,Main Draw,LIN Shidong (CHN),OIKAWA Mizuki (JPN)
-WTT Contender Taiyuan 2024,2024-05-23,WANG Yidi,WANG Yi-Ju,3,0,"11,11,11|6,5,9",R32,WTT_CONTENDER,WS,2865,Main Draw,WANG Yidi (CHN),WANG Yi-Ju (TPE)
-WTT Contender Taiyuan 2024,2024-05-23,MATSUSHIMA Sora,HUANG Yan-Cheng,3,1,"16,11,11,11|18,5,9,8",R32,WTT_CONTENDER,MS,2865,Main Draw,MATSUSHIMA Sora (JPN),HUANG Yan-Cheng (TPE)
-WTT Contender Taiyuan 2024,2024-05-23,MA Jinbao,YUAN Licen,3,2,"11,11,4,5,11|8,9,11,11,4",R32,WTT_CONTENDER,MS,2865,Main Draw,MA Jinbao (USA),YUAN Licen (CHN)
-WTT Contender Taiyuan 2024,2024-05-23,HARIMOTO Miwa,LIU Weishan,3,0,"11,11,11|4,9,9",R32,WTT_CONTENDER,WS,2865,Main Draw,HARIMOTO Miwa (JPN),LIU Weishan (CHN)
-WTT Contender Taiyuan 2024,2024-05-23,WANG Chuqin/LIANG Jingkun,SCHEUER Peter/CHOONG Javen,3,0,"11,13,11|5,11,7",R16,WTT_CONTENDER,MD,2865,Main Draw,WANG Chuqin/LIANG Jingkun (CHN),SCHEUER Peter/CHOONG Javen (USA/MAS)
-WTT Contender Taiyuan 2024,2024-05-23,HIRANO Miu,WONG Xin Ru,3,0,"11,11,11|9,7,4",R32,WTT_CONTENDER,WS,2865,Main Draw,HIRANO Miu (JPN),WONG Xin Ru (SGP)
-WTT Contender Taiyuan 2024,2024-05-23,CHAN Baldwin/YIU Kwan To,LEE Sang Su/CHO Daeseong,3,1,"11,15,8,11|8,13,11,8",R16,WTT_CONTENDER,MD,2865,Main Draw,CHAN Baldwin/YIU Kwan To (HKG),LEE Sang Su/CHO Daeseong (KOR)
-WTT Contender Taiyuan 2024,2024-05-23,LI Yu-Jhun,LYNE Karen,3,0,"11,11,11|5,9,4",R32,WTT_CONTENDER,WS,2865,Main Draw,LI Yu-Jhun (TPE),LYNE Karen (MAS)
-WTT Contender Taiyuan 2024,2024-05-23,CHEW Zhe Yu Clarence/CHUA Josh Shao Han,CHO Seungmin/MA Jinbao,3,2,"8,11,7,11,11|11,9,11,8,7",R16,WTT_CONTENDER,MD,2865,Main Draw,CHEW Zhe Yu Clarence/CHUA Josh Shao Han (SGP),CHO Seungmin/MA Jinbao (KOR/USA)
-WTT Contender Taiyuan 2024,2024-05-23,FAN Shuhan,JEON Jihee,3,0,"11,11,11|8,4,9",R32,WTT_CONTENDER,WS,2865,Main Draw,FAN Shuhan (CHN),JEON Jihee (KOR)
-WTT Contender Taiyuan 2024,2024-05-23,WONG Chun Ting/HO Kwan Kit,CHUANG Chih-Yuan/KAO Cheng-Jui,3,1,"11,5,14,11|8,11,12,4",R16,WTT_CONTENDER,MD,2865,Main Draw,WONG Chun Ting/HO Kwan Kit (HKG),CHUANG Chih-Yuan/KAO Cheng-Jui (TPE)
-WTT Contender Taiyuan 2024,2024-05-23,ITO Mima,ZENG Jian,3,1,"11,14,5,11|6,12,11,6",R32,WTT_CONTENDER,WS,2865,Main Draw,ITO Mima (JPN),ZENG Jian (SGP)
-WTT Contender Taiyuan 2024,2024-05-23,LIANG Jingkun,LIU Dingshuo,3,0,"11,11,12|9,6,10",R32,WTT_CONTENDER,MS,2865,Main Draw,LIANG Jingkun (CHN),LIU Dingshuo (CHN)
-WTT Contender Taiyuan 2024,2024-05-23,KIHARA Miyuu,LEE Ho Ching,3,2,"12,8,11,11,11|10,11,13,7,9",R32,WTT_CONTENDER,WS,2865,Main Draw,KIHARA Miyuu (JPN),LEE Ho Ching (HKG)
-WTT Contender Taiyuan 2024,2024-05-23,PANG Koen,QUEK Izaac,3,1,"11,13,9,11|8,11,11,8",R32,WTT_CONTENDER,MS,2865,Main Draw,PANG Koen (SGP),QUEK Izaac (SGP)
-WTT Contender Taiyuan 2024,2024-05-23,LAM Siu Hang,XU Yingbin,3,2,"3,13,9,16,12|11,11,11,14,10",R32,WTT_CONTENDER,MS,2865,Main Draw,LAM Siu Hang (HKG),XU Yingbin (CHN)
-WTT Contender Taiyuan 2024,2024-05-23,KWAN Man Ho,HUNG Jing-Kai,3,1,"11,12,5,13|8,10,11,11",R32,WTT_CONTENDER,MS,2865,Main Draw,KWAN Man Ho (HKG),HUNG Jing-Kai (TPE)
-WTT Contender Taiyuan 2024,2024-05-23,LI Yake,LIU Yangzi,3,0,"11,11,11|9,8,8",R32,WTT_CONTENDER,WS,2865,Main Draw,LI Yake (CHN),LIU Yangzi (AUS)
-WTT Contender Taiyuan 2024,2024-05-23,KAO Cheng-Jui,ZHOU Kai,3,1,"11,11,10,11|6,4,12,7",R32,WTT_CONTENDER,MS,2865,Main Draw,KAO Cheng-Jui (TPE),ZHOU Kai (CHN)
-WTT Contender Taiyuan 2024,2024-05-23,CHUANG Chih-Yuan,CHEW Zhe Yu Clarence,3,0,"15,15,11|13,13,9",R32,WTT_CONTENDER,MS,2865,Main Draw,CHUANG Chih-Yuan (TPE),CHEW Zhe Yu Clarence (SGP)
-WTT Contender Taiyuan 2024,2024-05-23,WEN Ruibo,SHINOZUKA Hiroto,3,1,"11,11,7,11|9,8,11,9",R32,WTT_CONTENDER,MS,2865,Main Draw,WEN Ruibo (CHN),SHINOZUKA Hiroto (JPN)
-WTT Contender Taiyuan 2024,2024-05-23,CHO Daeseong,XUE Fei,3,1,"11,11,4,11|9,9,11,7",R32,WTT_CONTENDER,MS,2865,Main Draw,CHO Daeseong (KOR),XUE Fei (CHN)
-WTT Contender Taiyuan 2024,2024-05-23,XU Yi,GHOSH Swastika,3,1,"11,7,11,11|5,11,5,8",R32,WTT_CONTENDER,WS,2865,Main Draw,XU Yi (CHN),GHOSH Swastika (IND)
-WTT Contender Taiyuan 2024,2024-05-23,CHEN Yi,LAM Yee Lok,3,1,"8,11,11,11|11,5,3,8",R32,WTT_CONTENDER,WS,2865,Main Draw,CHEN Yi (CHN),LAM Yee Lok (HKG)
-WTT Contender Taiyuan 2024,2024-05-23,LIN Shidong/KUAI Man,ZHOU Qihao/QIAN Tianyi,3,1,"12,11,4,11|10,6,11,9",R16,WTT_CONTENDER,XD,2865,Main Draw,LIN Shidong/KUAI Man (CHN),ZHOU Qihao/QIAN Tianyi (CHN)
-WTT Contender Taiyuan 2024,2024-05-23,PANG Koen/WONG Xin Ru,CHEN Yuanyu/FENG Yixuan,3,2,"11,13,4,13,11|7,15,11,11,7",R16,WTT_CONTENDER,XD,2865,Main Draw,PANG Koen/WONG Xin Ru (SGP),CHEN Yuanyu/FENG Yixuan (CHN)
-WTT Contender Taiyuan 2024,2024-05-23,YUAN Licen/CHEN Xingtong,MATSUSHIMA Sora/HARIMOTO Miwa,3,1,"11,11,6,11|7,7,11,9",R16,WTT_CONTENDER,XD,2865,Main Draw,YUAN Licen/CHEN Xingtong (CHN),MATSUSHIMA Sora/HARIMOTO Miwa (JPN)
-WTT Contender Taiyuan 2024,2024-05-23,LIU Dingshuo/WANG Tianyi,CHAN Baldwin/KONG Tsz Lam,3,0,"11,11,11|8,7,6",R16,WTT_CONTENDER,XD,2865,Main Draw,LIU Dingshuo/WANG Tianyi (CHN),CHAN Baldwin/KONG Tsz Lam (HKG)
-WTT Contender Taiyuan 2024,2024-05-23,XUE Fei/SHI Xunyao,SCHEUER Peter/KE Tiffany,3,1,"7,11,11,11|11,8,6,0",R16,WTT_CONTENDER,XD,2865,Main Draw,XUE Fei/SHI Xunyao (CHN),SCHEUER Peter/KE Tiffany (USA)
-WTT Contender Taiyuan 2024,2024-05-23,LIN Gaoyuan/WANG Yidi,YIU Kwan To/NG Wing Lam,3,0,"11,11,11|5,6,6",R16,WTT_CONTENDER,XD,2865,Main Draw,LIN Gaoyuan/WANG Yidi (CHN),YIU Kwan To/NG Wing Lam (HKG)
-WTT Contender Taiyuan 2024,2024-05-24,LEBRUN Alexis,LIN Shidong,3,1,"12,6,11,11|10,11,7,4",R16,WTT_CONTENDER,MS,2865,Main Draw,LEBRUN Alexis (FRA),LIN Shidong (CHN)
-WTT Contender Taiyuan 2024,2024-05-24,KUAI Man/CHEN Yi,ZENG Jian/WONG Xin Ru,3,0,"11,11,12|8,6,10",QF,WTT_CONTENDER,WD,2865,Main Draw,KUAI Man/CHEN Yi (CHN),ZENG Jian/WONG Xin Ru (SGP)
-WTT Contender Taiyuan 2024,2024-05-24,YUAN Licen/XU Yingbin,CHEW Zhe Yu Clarence/CHUA Josh Shao Han,3,2,"5,11,11,7,11|11,3,9,11,6",QF,WTT_CONTENDER,MD,2865,Main Draw,YUAN Licen/XU Yingbin (CHN),CHEW Zhe Yu Clarence/CHUA Josh Shao Han (SGP)
-WTT Contender Taiyuan 2024,2024-05-24,CHEN Xingtong,YANG Yiyun,3,1,"11,11,4,11|4,6,11,9",R16,WTT_CONTENDER,WS,2865,Main Draw,CHEN Xingtong (CHN),YANG Yiyun (CHN)
-WTT Contender Taiyuan 2024,2024-05-24,MA Jinbao,WONG Chun Ting,3,1,"12,12,5,11|10,10,11,9",R16,WTT_CONTENDER,MS,2865,Main Draw,MA Jinbao (USA),WONG Chun Ting (HKG)
-WTT Contender Taiyuan 2024,2024-05-24,WANG Yidi,XU Yi,3,0,"11,11,13|1,4,11",R16,WTT_CONTENDER,WS,2865,Main Draw,WANG Yidi (CHN),XU Yi (CHN)
-WTT Contender Taiyuan 2024,2024-05-24,LIANG Jingkun,LAM Siu Hang,3,0,"11,11,11|5,3,4",R16,WTT_CONTENDER,MS,2865,Main Draw,LIANG Jingkun (CHN),LAM Siu Hang (HKG)
-WTT Contender Taiyuan 2024,2024-05-24,ITO Mima,NG Wing Lam,3,0,"15,11,11|13,4,6",R16,WTT_CONTENDER,WS,2865,Main Draw,ITO Mima (JPN),NG Wing Lam (HKG)
-WTT Contender Taiyuan 2024,2024-05-24,LIN Shidong/KUAI Man,XUE Fei/SHI Xunyao,3,1,"11,8,11,12|9,11,6,10",SF,WTT_CONTENDER,XD,2865,Main Draw,LIN Shidong/KUAI Man (CHN),XUE Fei/SHI Xunyao (CHN)
-WTT Contender Taiyuan 2024,2024-05-24,QIAN Tianyi,QIN Yuxuan,3,2,"7,6,13,14,11|11,11,11,12,5",R16,WTT_CONTENDER,WS,2865,Main Draw,QIAN Tianyi (CHN),QIN Yuxuan (CHN)
-WTT Contender Taiyuan 2024,2024-05-24,CHO Daeseong,MATSUSHIMA Sora,3,2,"11,9,11,12,11|13,11,4,10,8",R16,WTT_CONTENDER,MS,2865,Main Draw,CHO Daeseong (KOR),MATSUSHIMA Sora (JPN)
-WTT Contender Taiyuan 2024,2024-05-24,LIN Gaoyuan/WANG Yidi,WONG Chun Ting/DOO Hoi Kem,3,0,"11,11,14|6,6,12",SF,WTT_CONTENDER,XD,2865,Main Draw,LIN Gaoyuan/WANG Yidi (CHN),WONG Chun Ting/DOO Hoi Kem (HKG)
-WTT Contender Taiyuan 2024,2024-05-24,MA Long/LIN Gaoyuan,PANG Koen/QUEK Izaac,3,2,"5,11,5,11,11|11,2,11,8,1",QF,WTT_CONTENDER,MD,2865,Main Draw,MA Long/LIN Gaoyuan (CHN),PANG Koen/QUEK Izaac (SGP)
-WTT Contender Taiyuan 2024,2024-05-24,HIRANO Miu,LI Yu-Jhun,3,2,"11,7,7,11,11|5,11,11,6,6",R16,WTT_CONTENDER,WS,2865,Main Draw,HIRANO Miu (JPN),LI Yu-Jhun (TPE)
-WTT Contender Taiyuan 2024,2024-05-24,SHI Xunyao,HARIMOTO Miwa,3,1,"12,11,5,12|10,9,11,10",R16,WTT_CONTENDER,WS,2865,Main Draw,SHI Xunyao (CHN),HARIMOTO Miwa (JPN)
-WTT Contender Taiyuan 2024,2024-05-24,WANG Chuqin/LIANG Jingkun,HUNG Jing-Kai/LI Yan Jun,3,0,"11,11,11|3,9,6",QF,WTT_CONTENDER,MD,2865,Main Draw,WANG Chuqin/LIANG Jingkun (CHN),HUNG Jing-Kai/LI Yan Jun (TPE)
-WTT Contender Taiyuan 2024,2024-05-24,WONG Chun Ting/HO Kwan Kit,CHAN Baldwin/YIU Kwan To,3,0,"11,11,11|8,8,8",QF,WTT_CONTENDER,MD,2865,Main Draw,WONG Chun Ting/HO Kwan Kit (HKG),CHAN Baldwin/YIU Kwan To (HKG)
-WTT Contender Taiyuan 2024,2024-05-24,FAN Shuhan,LI Yake,3,1,"11,11,6,11|7,6,11,5",R16,WTT_CONTENDER,WS,2865,Main Draw,FAN Shuhan (CHN),LI Yake (CHN)
-WTT Contender Taiyuan 2024,2024-05-24,KIHARA Miyuu,CHEN Yi,3,1,"11,11,4,11|3,4,11,5",R16,WTT_CONTENDER,WS,2865,Main Draw,KIHARA Miyuu (JPN),CHEN Yi (CHN)
-WTT Contender Taiyuan 2024,2024-05-24,CHUANG Chih-Yuan,KWAN Man Ho,3,0,"11,11,11|8,6,8",R16,WTT_CONTENDER,MS,2865,Main Draw,CHUANG Chih-Yuan (TPE),KWAN Man Ho (HKG)
-WTT Contender Taiyuan 2024,2024-05-24,ZHOU Qihao,WEN Ruibo,3,2,"11,11,9,11,11|13,5,11,6,3",R16,WTT_CONTENDER,MS,2865,Main Draw,ZHOU Qihao (CHN),WEN Ruibo (CHN)
-WTT Contender Taiyuan 2024,2024-05-24,LEE Sang Su,HUANG Youzheng,3,2,"7,11,9,11,11|11,5,11,8,6",R16,WTT_CONTENDER,MS,2865,Main Draw,LEE Sang Su (KOR),HUANG Youzheng (CHN)
-WTT Contender Taiyuan 2024,2024-05-24,KAO Cheng-Jui,PANG Koen,3,2,"9,11,11,11,11|11,13,6,5,7",R16,WTT_CONTENDER,MS,2865,Main Draw,KAO Cheng-Jui (TPE),PANG Koen (SGP)
-WTT Contender Taiyuan 2024,2024-05-24,WANG Yidi/CHEN Xingtong,KE Tiffany/GHOSH Swastika,3,0,"11,11,11|5,8,4",QF,WTT_CONTENDER,WD,2865,Main Draw,WANG Yidi/CHEN Xingtong (CHN),KE Tiffany/GHOSH Swastika (USA/IND)
-WTT Contender Taiyuan 2024,2024-05-24,CHEN Meng/WANG Manyu,ZHU Chengzhu/LEE Ho Ching,3,1,"11,11,6,12|5,6,11,10",QF,WTT_CONTENDER,WD,2865,Main Draw,CHEN Meng/WANG Manyu (CHN),ZHU Chengzhu/LEE Ho Ching (HKG)
-WTT Contender Taiyuan 2024,2024-05-24,CHANG Li Sian Alice/LYNE Karen,LAM Yee Lok/NG Wing Lam,3,1,"11,12,11,11|13,10,8,8",QF,WTT_CONTENDER,WD,2865,Main Draw,CHANG Li Sian Alice/LYNE Karen (MAS),LAM Yee Lok/NG Wing Lam (HKG)
-WTT Contender Taiyuan 2024,2024-05-24,LIN Shidong/KUAI Man,LIU Dingshuo/WANG Tianyi,3,1,"8,11,11,11|11,6,8,6",QF,WTT_CONTENDER,XD,2865,Main Draw,LIN Shidong/KUAI Man (CHN),LIU Dingshuo/WANG Tianyi (CHN)
-WTT Contender Taiyuan 2024,2024-05-24,LIN Gaoyuan/WANG Yidi,PANG Koen/WONG Xin Ru,3,1,"9,11,11,11|11,2,5,6",QF,WTT_CONTENDER,XD,2865,Main Draw,LIN Gaoyuan/WANG Yidi (CHN),PANG Koen/WONG Xin Ru (SGP)
-WTT Contender Taiyuan 2024,2024-05-24,XUE Fei/SHI Xunyao,WANG Chuqin/SUN Yingsha,3,2,"9,11,13,6,11|11,5,11,11,8",QF,WTT_CONTENDER,XD,2865,Main Draw,XUE Fei/SHI Xunyao (CHN),WANG Chuqin/SUN Yingsha (CHN)
-WTT Contender Taiyuan 2024,2024-05-24,WONG Chun Ting/DOO Hoi Kem,YUAN Licen/CHEN Xingtong,3,1,"6,11,11,13|11,3,8,11",QF,WTT_CONTENDER,XD,2865,Main Draw,WONG Chun Ting/DOO Hoi Kem (HKG),YUAN Licen/CHEN Xingtong (CHN)
-WTT Contender Taiyuan 2024,2024-05-25,LIANG Jingkun,ZHOU Qihao,3,1,"11,11,10,11|9,5,12,7",SF,WTT_CONTENDER,MS,2865,Main Draw,LIANG Jingkun (CHN),ZHOU Qihao (CHN)
-WTT Contender Taiyuan 2024,2024-05-25,WANG Yidi,HIRANO Miu,3,0,"11,11,11|9,6,7",SF,WTT_CONTENDER,WS,2865,Main Draw,WANG Yidi (CHN),HIRANO Miu (JPN)
-WTT Contender Taiyuan 2024,2024-05-25,LEBRUN Alexis,LEE Sang Su,3,0,"11,11,11|6,7,2",SF,WTT_CONTENDER,MS,2865,Main Draw,LEBRUN Alexis (FRA),LEE Sang Su (KOR)
-WTT Contender Taiyuan 2024,2024-05-25,CHEN Xingtong,KIHARA Miyuu,3,0,"11,11,11|4,6,1",SF,WTT_CONTENDER,WS,2865,Main Draw,CHEN Xingtong (CHN),KIHARA Miyuu (JPN)
-WTT Contender Taiyuan 2024,2024-05-25,LIN Shidong/KUAI Man,LIN Gaoyuan/WANG Yidi,3,1,"11,11,9,11|7,8,11,7",F,WTT_CONTENDER,XD,2865,Main Draw,LIN Shidong/KUAI Man (CHN),LIN Gaoyuan/WANG Yidi (CHN)
-WTT Contender Taiyuan 2024,2024-05-25,WANG Chuqin/LIANG Jingkun,YUAN Licen/XU Yingbin,3,2,"8,10,11,11,11|11,12,8,5,2",SF,WTT_CONTENDER,MD,2865,Main Draw,WANG Chuqin/LIANG Jingkun (CHN),YUAN Licen/XU Yingbin (CHN)
-WTT Contender Taiyuan 2024,2024-05-25,MA Long/LIN Gaoyuan,WONG Chun Ting/HO Kwan Kit,3,1,"11,11,9,11|9,5,11,7",SF,WTT_CONTENDER,MD,2865,Main Draw,MA Long/LIN Gaoyuan (CHN),WONG Chun Ting/HO Kwan Kit (HKG)
-WTT Contender Taiyuan 2024,2024-05-25,WANG Yidi/CHEN Xingtong,CHANG Li Sian Alice/LYNE Karen,3,0,"11,11,11|7,9,5",SF,WTT_CONTENDER,WD,2865,Main Draw,WANG Yidi/CHEN Xingtong (CHN),CHANG Li Sian Alice/LYNE Karen (MAS)
-WTT Contender Taiyuan 2024,2024-05-25,KUAI Man/CHEN Yi,CHEN Meng/WANG Manyu,3,1,"11,11,12,11|3,5,14,3",SF,WTT_CONTENDER,WD,2865,Main Draw,KUAI Man/CHEN Yi (CHN),CHEN Meng/WANG Manyu (CHN)
-WTT Contender Taiyuan 2024,2024-05-25,LEE Sang Su,MA Jinbao,3,2,"11,5,11,8,11|6,11,5,11,9",QF,WTT_CONTENDER,MS,2865,Main Draw,LEE Sang Su (KOR),MA Jinbao (USA)
-WTT Contender Taiyuan 2024,2024-05-25,LEBRUN Alexis,KAO Cheng-Jui,3,0,"12,11,11|10,6,8",QF,WTT_CONTENDER,MS,2865,Main Draw,LEBRUN Alexis (FRA),KAO Cheng-Jui (TPE)
-WTT Contender Taiyuan 2024,2024-05-25,HIRANO Miu,SHI Xunyao,3,2,"8,6,11,13,11|11,11,8,11,7",QF,WTT_CONTENDER,WS,2865,Main Draw,HIRANO Miu (JPN),SHI Xunyao (CHN)
-WTT Contender Taiyuan 2024,2024-05-25,KIHARA Miyuu,ITO Mima,3,2,"6,6,11,11,11|11,11,9,5,9",QF,WTT_CONTENDER,WS,2865,Main Draw,KIHARA Miyuu (JPN),ITO Mima (JPN)
-WTT Contender Taiyuan 2024,2024-05-25,ZHOU Qihao,CHO Daeseong,3,0,"11,11,11|7,5,9",QF,WTT_CONTENDER,MS,2865,Main Draw,ZHOU Qihao (CHN),CHO Daeseong (KOR)
-WTT Contender Taiyuan 2024,2024-05-25,LIANG Jingkun,CHUANG Chih-Yuan,3,1,"11,9,11,11|0,11,9,2",QF,WTT_CONTENDER,MS,2865,Main Draw,LIANG Jingkun (CHN),CHUANG Chih-Yuan (TPE)
-WTT Contender Taiyuan 2024,2024-05-25,CHEN Xingtong,QIAN Tianyi,3,1,"9,11,11,11|11,5,7,8",QF,WTT_CONTENDER,WS,2865,Main Draw,CHEN Xingtong (CHN),QIAN Tianyi (CHN)
-WTT Contender Taiyuan 2024,2024-05-25,WANG Yidi,FAN Shuhan,3,0,"11,11,14|4,2,12",QF,WTT_CONTENDER,WS,2865,Main Draw,WANG Yidi (CHN),FAN Shuhan (CHN)
-WTT Contender Taiyuan 2024,2024-05-26,LIANG Jingkun,LEBRUN Alexis,4,1,"12,11,11,11,11|14,2,8,8,5",F,WTT_CONTENDER,MS,2865,Main Draw,LIANG Jingkun (CHN),LEBRUN Alexis (FRA)
-WTT Contender Taiyuan 2024,2024-05-26,CHEN Xingtong,WANG Yidi,4,3,"10,8,11,11,12,12,11|12,11,9,6,14,10,9",F,WTT_CONTENDER,WS,2865,Main Draw,CHEN Xingtong (CHN),WANG Yidi (CHN)
-WTT Contender Taiyuan 2024,2024-05-26,MA Long/LIN Gaoyuan,WANG Chuqin/LIANG Jingkun,3,1,"11,4,11,17|9,11,9,15",F,WTT_CONTENDER,MD,2865,Main Draw,MA Long/LIN Gaoyuan (CHN),WANG Chuqin/LIANG Jingkun (CHN)
-WTT Contender Taiyuan 2024,2024-05-26,KUAI Man/CHEN Yi,WANG Yidi/CHEN Xingtong,3,1,"11,9,11,11|4,11,4,7",F,WTT_CONTENDER,WD,2865,Main Draw,KUAI Man/CHEN Yi (CHN),WANG Yidi/CHEN Xingtong (CHN)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+WTT Contender Taiyuan 2024,2024-05-21,XU Yi,SU Pei-Ling,3,2,"12,11,10,7,11|10,6,12,11,8",QR1,WTT_CONTENDER,WS,2865,Qualification,XU Yi (CHN),SU Pei-Ling (TPE),XU Yi
+WTT Contender Taiyuan 2024,2024-05-21,LEE Daeun,CHANG Li Sian Alice,3,1,"9,11,11,12|11,9,7,10",QR1,WTT_CONTENDER,WS,2865,Qualification,LEE Daeun (KOR),CHANG Li Sian Alice (MAS),LEE Daeun
+WTT Contender Taiyuan 2024,2024-05-21,HUNG Jing-Kai,SCHEUER Peter,3,0,"11,11,11|6,7,6",QR1,WTT_CONTENDER,MS,2865,Qualification,HUNG Jing-Kai (TPE),SCHEUER Peter (USA),HUNG Jing-Kai
+WTT Contender Taiyuan 2024,2024-05-21,HU Dongshen,XU Haidong,3,2,"11,5,2,11,11|3,11,11,8,9",QR1,WTT_CONTENDER,MS,2865,Qualification,HU Dongshen (CHN),XU Haidong (CHN),HU Dongshen
+WTT Contender Taiyuan 2024,2024-05-21,CHOONG Javen,LI Hon Ming,3,1,"11,8,11,11|6,11,3,3",QR1,WTT_CONTENDER,MS,2865,Qualification,CHOONG Javen (MAS),LI Hon Ming (HKG),CHOONG Javen
+WTT Contender Taiyuan 2024,2024-05-22,XU Yingbin,LI Yan Jun,3,1,"8,11,11,11|11,7,7,4",QR2,WTT_CONTENDER,MS,2865,Qualification,XU Yingbin (CHN),LI Yan Jun (TPE),XU Yingbin
+WTT Contender Taiyuan 2024,2024-05-22,ZHOU Kai,PAU Yik Man,3,0,"11,12,11|6,10,3",QR2,WTT_CONTENDER,MS,2865,Qualification,ZHOU Kai (CHN),PAU Yik Man (HKG),ZHOU Kai
+WTT Contender Taiyuan 2024,2024-05-22,FAN Shuhan,KE Tiffany,3,0,"11,11,12|7,7,10",QR1,WTT_CONTENDER,WS,2865,Qualification,FAN Shuhan (CHN),KE Tiffany (USA),FAN Shuhan
+WTT Contender Taiyuan 2024,2024-05-22,HUNG Jing-Kai,CHEN Yuanyu,3,2,"11,11,9,7,13|6,8,11,11,11",QR2,WTT_CONTENDER,MS,2865,Qualification,HUNG Jing-Kai (TPE),CHEN Yuanyu (CHN),HUNG Jing-Kai
+WTT Contender Taiyuan 2024,2024-05-22,XUE Fei,HU Dongshen,3,1,"11,4,11,11|5,11,5,6",QR2,WTT_CONTENDER,MS,2865,Qualification,XUE Fei (CHN),HU Dongshen (CHN),XUE Fei
+WTT Contender Taiyuan 2024,2024-05-22,KWAN Man Ho,HO Kwan Kit,3,2,"9,7,11,11,11|11,11,6,5,6",QR2,WTT_CONTENDER,MS,2865,Qualification,KWAN Man Ho (HKG),HO Kwan Kit (HKG),KWAN Man Ho
+WTT Contender Taiyuan 2024,2024-05-22,CHEW Zhe Yu Clarence,CHUA Josh Shao Han,3,1,"3,11,11,11|11,8,5,6",QR2,WTT_CONTENDER,MS,2865,Qualification,CHEW Zhe Yu Clarence (SGP),CHUA Josh Shao Han (SGP),CHEW Zhe Yu Clarence
+WTT Contender Taiyuan 2024,2024-05-22,LYNE Karen,KONG Tsz Lam,3,2,"8,6,11,11,12|11,11,5,8,10",QR1,WTT_CONTENDER,WS,2865,Qualification,LYNE Karen (MAS),KONG Tsz Lam (HKG),LYNE Karen
+WTT Contender Taiyuan 2024,2024-05-22,YIU Kwan To,CHOY Chun Kit,3,1,"10,11,11,11|12,8,7,7",QR2,WTT_CONTENDER,MS,2865,Qualification,YIU Kwan To (HKG),CHOY Chun Kit (HKG),YIU Kwan To
+WTT Contender Taiyuan 2024,2024-05-22,LIU Dingshuo,CHOONG Javen,3,0,"11,11,11|3,6,5",QR2,WTT_CONTENDER,MS,2865,Qualification,LIU Dingshuo (CHN),CHOONG Javen (MAS),LIU Dingshuo
+WTT Contender Taiyuan 2024,2024-05-23,WONG Chun Ting/DOO Hoi Kem,CHOONG Javen/LYNE Karen,3,1,"11,11,7,11|5,9,11,7",R16,WTT_CONTENDER,XD,2865,Main Draw,WONG Chun Ting/DOO Hoi Kem (HKG),CHOONG Javen/LYNE Karen (MAS),WONG Chun Ting/DOO Hoi Kem
+WTT Contender Taiyuan 2024,2024-05-23,PANG Koen/QUEK Izaac,HUANG Youzheng/CHEN Yuanyu,3,1,"4,11,11,13|11,8,5,11",R16,WTT_CONTENDER,MD,2865,Main Draw,PANG Koen/QUEK Izaac (SGP),HUANG Youzheng/CHEN Yuanyu (CHN),PANG Koen/QUEK Izaac
+WTT Contender Taiyuan 2024,2024-05-23,CHEN Xingtong,KUAI Man,3,1,"12,12,8,14|10,10,11,12",R32,WTT_CONTENDER,WS,2865,Main Draw,CHEN Xingtong (CHN),KUAI Man (CHN),CHEN Xingtong
+WTT Contender Taiyuan 2024,2024-05-23,YUAN Licen/XU Yingbin,LAM Siu Hang/LI Hon Ming,3,0,"11,11,11|9,0,0",R16,WTT_CONTENDER,MD,2865,Main Draw,YUAN Licen/XU Yingbin (CHN),LAM Siu Hang/LI Hon Ming (HKG),YUAN Licen/XU Yingbin
+WTT Contender Taiyuan 2024,2024-05-23,HUNG Jing-Kai/LI Yan Jun,KWAN Man Ho/CHOY Chun Kit,3,0,"11,11,11|7,7,7",R16,WTT_CONTENDER,MD,2865,Main Draw,HUNG Jing-Kai/LI Yan Jun (TPE),KWAN Man Ho/CHOY Chun Kit (HKG),HUNG Jing-Kai/LI Yan Jun
+WTT Contender Taiyuan 2024,2024-05-23,QIN Yuxuan,HAN Feier,3,1,"17,9,11,11|15,11,1,9",R32,WTT_CONTENDER,WS,2865,Main Draw,QIN Yuxuan (CHN),HAN Feier (CHN),QIN Yuxuan
+WTT Contender Taiyuan 2024,2024-05-23,YANG Yiyun,ZHU Chengzhu,3,2,"3,11,6,11,11|11,4,11,8,6",R32,WTT_CONTENDER,WS,2865,Main Draw,YANG Yiyun (CHN),ZHU Chengzhu (HKG),YANG Yiyun
+WTT Contender Taiyuan 2024,2024-05-23,LEBRUN Alexis,CHO Seungmin,3,2,"11,9,11,10,13|7,11,4,12,11",R32,WTT_CONTENDER,MS,2865,Main Draw,LEBRUN Alexis (FRA),CHO Seungmin (KOR),LEBRUN Alexis
+WTT Contender Taiyuan 2024,2024-05-23,SHI Xunyao,DOO Hoi Kem,3,0,"12,15,11|10,13,8",R32,WTT_CONTENDER,WS,2865,Main Draw,SHI Xunyao (CHN),DOO Hoi Kem (HKG),SHI Xunyao
+WTT Contender Taiyuan 2024,2024-05-23,NG Wing Lam,ZHOU Jingyi,3,2,"8,8,11,14,11|11,11,8,12,8",R32,WTT_CONTENDER,WS,2865,Main Draw,NG Wing Lam (HKG),ZHOU Jingyi (SGP),NG Wing Lam
+WTT Contender Taiyuan 2024,2024-05-23,QIAN Tianyi,LEE Daeun,3,0,"11,11,13|7,4,11",R32,WTT_CONTENDER,WS,2865,Main Draw,QIAN Tianyi (CHN),LEE Daeun (KOR),QIAN Tianyi
+WTT Contender Taiyuan 2024,2024-05-23,HUANG Youzheng,YIU Kwan To,3,2,"6,8,11,11,14|11,11,6,5,12",R32,WTT_CONTENDER,MS,2865,Main Draw,HUANG Youzheng (CHN),YIU Kwan To (HKG),HUANG Youzheng
+WTT Contender Taiyuan 2024,2024-05-23,WONG Chun Ting,LIN Gaoyuan,3,1,"13,8,11,11|11,11,9,7",R32,WTT_CONTENDER,MS,2865,Main Draw,WONG Chun Ting (HKG),LIN Gaoyuan (CHN),WONG Chun Ting
+WTT Contender Taiyuan 2024,2024-05-23,ZHOU Qihao,CHAN Baldwin,3,1,"11,8,11,11|6,11,7,9",R32,WTT_CONTENDER,MS,2865,Main Draw,ZHOU Qihao (CHN),CHAN Baldwin (HKG),ZHOU Qihao
+WTT Contender Taiyuan 2024,2024-05-23,LEE Sang Su,XIANG Peng,3,2,"11,4,5,11,13|3,11,11,8,11",R32,WTT_CONTENDER,MS,2865,Main Draw,LEE Sang Su (KOR),XIANG Peng (CHN),LEE Sang Su
+WTT Contender Taiyuan 2024,2024-05-23,LIN Shidong,OIKAWA Mizuki,3,1,"11,12,9,11|5,10,11,5",R32,WTT_CONTENDER,MS,2865,Main Draw,LIN Shidong (CHN),OIKAWA Mizuki (JPN),LIN Shidong
+WTT Contender Taiyuan 2024,2024-05-23,WANG Yidi,WANG Yi-Ju,3,0,"11,11,11|6,5,9",R32,WTT_CONTENDER,WS,2865,Main Draw,WANG Yidi (CHN),WANG Yi-Ju (TPE),WANG Yidi
+WTT Contender Taiyuan 2024,2024-05-23,MATSUSHIMA Sora,HUANG Yan-Cheng,3,1,"16,11,11,11|18,5,9,8",R32,WTT_CONTENDER,MS,2865,Main Draw,MATSUSHIMA Sora (JPN),HUANG Yan-Cheng (TPE),MATSUSHIMA Sora
+WTT Contender Taiyuan 2024,2024-05-23,MA Jinbao,YUAN Licen,3,2,"11,11,4,5,11|8,9,11,11,4",R32,WTT_CONTENDER,MS,2865,Main Draw,MA Jinbao (USA),YUAN Licen (CHN),MA Jinbao
+WTT Contender Taiyuan 2024,2024-05-23,HARIMOTO Miwa,LIU Weishan,3,0,"11,11,11|4,9,9",R32,WTT_CONTENDER,WS,2865,Main Draw,HARIMOTO Miwa (JPN),LIU Weishan (CHN),HARIMOTO Miwa
+WTT Contender Taiyuan 2024,2024-05-23,WANG Chuqin/LIANG Jingkun,SCHEUER Peter/CHOONG Javen,3,0,"11,13,11|5,11,7",R16,WTT_CONTENDER,MD,2865,Main Draw,WANG Chuqin/LIANG Jingkun (CHN),SCHEUER Peter/CHOONG Javen (USA/MAS),WANG Chuqin/LIANG Jingkun
+WTT Contender Taiyuan 2024,2024-05-23,HIRANO Miu,WONG Xin Ru,3,0,"11,11,11|9,7,4",R32,WTT_CONTENDER,WS,2865,Main Draw,HIRANO Miu (JPN),WONG Xin Ru (SGP),HIRANO Miu
+WTT Contender Taiyuan 2024,2024-05-23,CHAN Baldwin/YIU Kwan To,LEE Sang Su/CHO Daeseong,3,1,"11,15,8,11|8,13,11,8",R16,WTT_CONTENDER,MD,2865,Main Draw,CHAN Baldwin/YIU Kwan To (HKG),LEE Sang Su/CHO Daeseong (KOR),CHAN Baldwin/YIU Kwan To
+WTT Contender Taiyuan 2024,2024-05-23,LI Yu-Jhun,LYNE Karen,3,0,"11,11,11|5,9,4",R32,WTT_CONTENDER,WS,2865,Main Draw,LI Yu-Jhun (TPE),LYNE Karen (MAS),LI Yu-Jhun
+WTT Contender Taiyuan 2024,2024-05-23,CHEW Zhe Yu Clarence/CHUA Josh Shao Han,CHO Seungmin/MA Jinbao,3,2,"8,11,7,11,11|11,9,11,8,7",R16,WTT_CONTENDER,MD,2865,Main Draw,CHEW Zhe Yu Clarence/CHUA Josh Shao Han (SGP),CHO Seungmin/MA Jinbao (KOR/USA),CHEW Zhe Yu Clarence/CHUA Josh Shao Han
+WTT Contender Taiyuan 2024,2024-05-23,FAN Shuhan,JEON Jihee,3,0,"11,11,11|8,4,9",R32,WTT_CONTENDER,WS,2865,Main Draw,FAN Shuhan (CHN),JEON Jihee (KOR),FAN Shuhan
+WTT Contender Taiyuan 2024,2024-05-23,WONG Chun Ting/HO Kwan Kit,CHUANG Chih-Yuan/KAO Cheng-Jui,3,1,"11,5,14,11|8,11,12,4",R16,WTT_CONTENDER,MD,2865,Main Draw,WONG Chun Ting/HO Kwan Kit (HKG),CHUANG Chih-Yuan/KAO Cheng-Jui (TPE),WONG Chun Ting/HO Kwan Kit
+WTT Contender Taiyuan 2024,2024-05-23,ITO Mima,ZENG Jian,3,1,"11,14,5,11|6,12,11,6",R32,WTT_CONTENDER,WS,2865,Main Draw,ITO Mima (JPN),ZENG Jian (SGP),ITO Mima
+WTT Contender Taiyuan 2024,2024-05-23,LIANG Jingkun,LIU Dingshuo,3,0,"11,11,12|9,6,10",R32,WTT_CONTENDER,MS,2865,Main Draw,LIANG Jingkun (CHN),LIU Dingshuo (CHN),LIANG Jingkun
+WTT Contender Taiyuan 2024,2024-05-23,KIHARA Miyuu,LEE Ho Ching,3,2,"12,8,11,11,11|10,11,13,7,9",R32,WTT_CONTENDER,WS,2865,Main Draw,KIHARA Miyuu (JPN),LEE Ho Ching (HKG),KIHARA Miyuu
+WTT Contender Taiyuan 2024,2024-05-23,PANG Koen,QUEK Izaac,3,1,"11,13,9,11|8,11,11,8",R32,WTT_CONTENDER,MS,2865,Main Draw,PANG Koen (SGP),QUEK Izaac (SGP),PANG Koen
+WTT Contender Taiyuan 2024,2024-05-23,LAM Siu Hang,XU Yingbin,3,2,"3,13,9,16,12|11,11,11,14,10",R32,WTT_CONTENDER,MS,2865,Main Draw,LAM Siu Hang (HKG),XU Yingbin (CHN),LAM Siu Hang
+WTT Contender Taiyuan 2024,2024-05-23,KWAN Man Ho,HUNG Jing-Kai,3,1,"11,12,5,13|8,10,11,11",R32,WTT_CONTENDER,MS,2865,Main Draw,KWAN Man Ho (HKG),HUNG Jing-Kai (TPE),KWAN Man Ho
+WTT Contender Taiyuan 2024,2024-05-23,LI Yake,LIU Yangzi,3,0,"11,11,11|9,8,8",R32,WTT_CONTENDER,WS,2865,Main Draw,LI Yake (CHN),LIU Yangzi (AUS),LI Yake
+WTT Contender Taiyuan 2024,2024-05-23,KAO Cheng-Jui,ZHOU Kai,3,1,"11,11,10,11|6,4,12,7",R32,WTT_CONTENDER,MS,2865,Main Draw,KAO Cheng-Jui (TPE),ZHOU Kai (CHN),KAO Cheng-Jui
+WTT Contender Taiyuan 2024,2024-05-23,CHUANG Chih-Yuan,CHEW Zhe Yu Clarence,3,0,"15,15,11|13,13,9",R32,WTT_CONTENDER,MS,2865,Main Draw,CHUANG Chih-Yuan (TPE),CHEW Zhe Yu Clarence (SGP),CHUANG Chih-Yuan
+WTT Contender Taiyuan 2024,2024-05-23,WEN Ruibo,SHINOZUKA Hiroto,3,1,"11,11,7,11|9,8,11,9",R32,WTT_CONTENDER,MS,2865,Main Draw,WEN Ruibo (CHN),SHINOZUKA Hiroto (JPN),WEN Ruibo
+WTT Contender Taiyuan 2024,2024-05-23,CHO Daeseong,XUE Fei,3,1,"11,11,4,11|9,9,11,7",R32,WTT_CONTENDER,MS,2865,Main Draw,CHO Daeseong (KOR),XUE Fei (CHN),CHO Daeseong
+WTT Contender Taiyuan 2024,2024-05-23,XU Yi,GHOSH Swastika,3,1,"11,7,11,11|5,11,5,8",R32,WTT_CONTENDER,WS,2865,Main Draw,XU Yi (CHN),GHOSH Swastika (IND),XU Yi
+WTT Contender Taiyuan 2024,2024-05-23,CHEN Yi,LAM Yee Lok,3,1,"8,11,11,11|11,5,3,8",R32,WTT_CONTENDER,WS,2865,Main Draw,CHEN Yi (CHN),LAM Yee Lok (HKG),CHEN Yi
+WTT Contender Taiyuan 2024,2024-05-23,LIN Shidong/KUAI Man,ZHOU Qihao/QIAN Tianyi,3,1,"12,11,4,11|10,6,11,9",R16,WTT_CONTENDER,XD,2865,Main Draw,LIN Shidong/KUAI Man (CHN),ZHOU Qihao/QIAN Tianyi (CHN),LIN Shidong/KUAI Man
+WTT Contender Taiyuan 2024,2024-05-23,PANG Koen/WONG Xin Ru,CHEN Yuanyu/FENG Yixuan,3,2,"11,13,4,13,11|7,15,11,11,7",R16,WTT_CONTENDER,XD,2865,Main Draw,PANG Koen/WONG Xin Ru (SGP),CHEN Yuanyu/FENG Yixuan (CHN),PANG Koen/WONG Xin Ru
+WTT Contender Taiyuan 2024,2024-05-23,YUAN Licen/CHEN Xingtong,MATSUSHIMA Sora/HARIMOTO Miwa,3,1,"11,11,6,11|7,7,11,9",R16,WTT_CONTENDER,XD,2865,Main Draw,YUAN Licen/CHEN Xingtong (CHN),MATSUSHIMA Sora/HARIMOTO Miwa (JPN),YUAN Licen/CHEN Xingtong
+WTT Contender Taiyuan 2024,2024-05-23,LIU Dingshuo/WANG Tianyi,CHAN Baldwin/KONG Tsz Lam,3,0,"11,11,11|8,7,6",R16,WTT_CONTENDER,XD,2865,Main Draw,LIU Dingshuo/WANG Tianyi (CHN),CHAN Baldwin/KONG Tsz Lam (HKG),LIU Dingshuo/WANG Tianyi
+WTT Contender Taiyuan 2024,2024-05-23,XUE Fei/SHI Xunyao,SCHEUER Peter/KE Tiffany,3,1,"7,11,11,11|11,8,6,0",R16,WTT_CONTENDER,XD,2865,Main Draw,XUE Fei/SHI Xunyao (CHN),SCHEUER Peter/KE Tiffany (USA),XUE Fei/SHI Xunyao
+WTT Contender Taiyuan 2024,2024-05-23,LIN Gaoyuan/WANG Yidi,YIU Kwan To/NG Wing Lam,3,0,"11,11,11|5,6,6",R16,WTT_CONTENDER,XD,2865,Main Draw,LIN Gaoyuan/WANG Yidi (CHN),YIU Kwan To/NG Wing Lam (HKG),LIN Gaoyuan/WANG Yidi
+WTT Contender Taiyuan 2024,2024-05-24,LEBRUN Alexis,LIN Shidong,3,1,"12,6,11,11|10,11,7,4",R16,WTT_CONTENDER,MS,2865,Main Draw,LEBRUN Alexis (FRA),LIN Shidong (CHN),LEBRUN Alexis
+WTT Contender Taiyuan 2024,2024-05-24,KUAI Man/CHEN Yi,ZENG Jian/WONG Xin Ru,3,0,"11,11,12|8,6,10",QF,WTT_CONTENDER,WD,2865,Main Draw,KUAI Man/CHEN Yi (CHN),ZENG Jian/WONG Xin Ru (SGP),KUAI Man/CHEN Yi
+WTT Contender Taiyuan 2024,2024-05-24,YUAN Licen/XU Yingbin,CHEW Zhe Yu Clarence/CHUA Josh Shao Han,3,2,"5,11,11,7,11|11,3,9,11,6",QF,WTT_CONTENDER,MD,2865,Main Draw,YUAN Licen/XU Yingbin (CHN),CHEW Zhe Yu Clarence/CHUA Josh Shao Han (SGP),YUAN Licen/XU Yingbin
+WTT Contender Taiyuan 2024,2024-05-24,CHEN Xingtong,YANG Yiyun,3,1,"11,11,4,11|4,6,11,9",R16,WTT_CONTENDER,WS,2865,Main Draw,CHEN Xingtong (CHN),YANG Yiyun (CHN),CHEN Xingtong
+WTT Contender Taiyuan 2024,2024-05-24,MA Jinbao,WONG Chun Ting,3,1,"12,12,5,11|10,10,11,9",R16,WTT_CONTENDER,MS,2865,Main Draw,MA Jinbao (USA),WONG Chun Ting (HKG),MA Jinbao
+WTT Contender Taiyuan 2024,2024-05-24,WANG Yidi,XU Yi,3,0,"11,11,13|1,4,11",R16,WTT_CONTENDER,WS,2865,Main Draw,WANG Yidi (CHN),XU Yi (CHN),WANG Yidi
+WTT Contender Taiyuan 2024,2024-05-24,LIANG Jingkun,LAM Siu Hang,3,0,"11,11,11|5,3,4",R16,WTT_CONTENDER,MS,2865,Main Draw,LIANG Jingkun (CHN),LAM Siu Hang (HKG),LIANG Jingkun
+WTT Contender Taiyuan 2024,2024-05-24,ITO Mima,NG Wing Lam,3,0,"15,11,11|13,4,6",R16,WTT_CONTENDER,WS,2865,Main Draw,ITO Mima (JPN),NG Wing Lam (HKG),ITO Mima
+WTT Contender Taiyuan 2024,2024-05-24,LIN Shidong/KUAI Man,XUE Fei/SHI Xunyao,3,1,"11,8,11,12|9,11,6,10",SF,WTT_CONTENDER,XD,2865,Main Draw,LIN Shidong/KUAI Man (CHN),XUE Fei/SHI Xunyao (CHN),LIN Shidong/KUAI Man
+WTT Contender Taiyuan 2024,2024-05-24,QIAN Tianyi,QIN Yuxuan,3,2,"7,6,13,14,11|11,11,11,12,5",R16,WTT_CONTENDER,WS,2865,Main Draw,QIAN Tianyi (CHN),QIN Yuxuan (CHN),QIAN Tianyi
+WTT Contender Taiyuan 2024,2024-05-24,CHO Daeseong,MATSUSHIMA Sora,3,2,"11,9,11,12,11|13,11,4,10,8",R16,WTT_CONTENDER,MS,2865,Main Draw,CHO Daeseong (KOR),MATSUSHIMA Sora (JPN),CHO Daeseong
+WTT Contender Taiyuan 2024,2024-05-24,LIN Gaoyuan/WANG Yidi,WONG Chun Ting/DOO Hoi Kem,3,0,"11,11,14|6,6,12",SF,WTT_CONTENDER,XD,2865,Main Draw,LIN Gaoyuan/WANG Yidi (CHN),WONG Chun Ting/DOO Hoi Kem (HKG),LIN Gaoyuan/WANG Yidi
+WTT Contender Taiyuan 2024,2024-05-24,MA Long/LIN Gaoyuan,PANG Koen/QUEK Izaac,3,2,"5,11,5,11,11|11,2,11,8,1",QF,WTT_CONTENDER,MD,2865,Main Draw,MA Long/LIN Gaoyuan (CHN),PANG Koen/QUEK Izaac (SGP),MA Long/LIN Gaoyuan
+WTT Contender Taiyuan 2024,2024-05-24,HIRANO Miu,LI Yu-Jhun,3,2,"11,7,7,11,11|5,11,11,6,6",R16,WTT_CONTENDER,WS,2865,Main Draw,HIRANO Miu (JPN),LI Yu-Jhun (TPE),HIRANO Miu
+WTT Contender Taiyuan 2024,2024-05-24,SHI Xunyao,HARIMOTO Miwa,3,1,"12,11,5,12|10,9,11,10",R16,WTT_CONTENDER,WS,2865,Main Draw,SHI Xunyao (CHN),HARIMOTO Miwa (JPN),SHI Xunyao
+WTT Contender Taiyuan 2024,2024-05-24,WANG Chuqin/LIANG Jingkun,HUNG Jing-Kai/LI Yan Jun,3,0,"11,11,11|3,9,6",QF,WTT_CONTENDER,MD,2865,Main Draw,WANG Chuqin/LIANG Jingkun (CHN),HUNG Jing-Kai/LI Yan Jun (TPE),WANG Chuqin/LIANG Jingkun
+WTT Contender Taiyuan 2024,2024-05-24,WONG Chun Ting/HO Kwan Kit,CHAN Baldwin/YIU Kwan To,3,0,"11,11,11|8,8,8",QF,WTT_CONTENDER,MD,2865,Main Draw,WONG Chun Ting/HO Kwan Kit (HKG),CHAN Baldwin/YIU Kwan To (HKG),WONG Chun Ting/HO Kwan Kit
+WTT Contender Taiyuan 2024,2024-05-24,FAN Shuhan,LI Yake,3,1,"11,11,6,11|7,6,11,5",R16,WTT_CONTENDER,WS,2865,Main Draw,FAN Shuhan (CHN),LI Yake (CHN),FAN Shuhan
+WTT Contender Taiyuan 2024,2024-05-24,KIHARA Miyuu,CHEN Yi,3,1,"11,11,4,11|3,4,11,5",R16,WTT_CONTENDER,WS,2865,Main Draw,KIHARA Miyuu (JPN),CHEN Yi (CHN),KIHARA Miyuu
+WTT Contender Taiyuan 2024,2024-05-24,CHUANG Chih-Yuan,KWAN Man Ho,3,0,"11,11,11|8,6,8",R16,WTT_CONTENDER,MS,2865,Main Draw,CHUANG Chih-Yuan (TPE),KWAN Man Ho (HKG),CHUANG Chih-Yuan
+WTT Contender Taiyuan 2024,2024-05-24,ZHOU Qihao,WEN Ruibo,3,2,"11,11,9,11,11|13,5,11,6,3",R16,WTT_CONTENDER,MS,2865,Main Draw,ZHOU Qihao (CHN),WEN Ruibo (CHN),ZHOU Qihao
+WTT Contender Taiyuan 2024,2024-05-24,LEE Sang Su,HUANG Youzheng,3,2,"7,11,9,11,11|11,5,11,8,6",R16,WTT_CONTENDER,MS,2865,Main Draw,LEE Sang Su (KOR),HUANG Youzheng (CHN),LEE Sang Su
+WTT Contender Taiyuan 2024,2024-05-24,KAO Cheng-Jui,PANG Koen,3,2,"9,11,11,11,11|11,13,6,5,7",R16,WTT_CONTENDER,MS,2865,Main Draw,KAO Cheng-Jui (TPE),PANG Koen (SGP),KAO Cheng-Jui
+WTT Contender Taiyuan 2024,2024-05-24,WANG Yidi/CHEN Xingtong,KE Tiffany/GHOSH Swastika,3,0,"11,11,11|5,8,4",QF,WTT_CONTENDER,WD,2865,Main Draw,WANG Yidi/CHEN Xingtong (CHN),KE Tiffany/GHOSH Swastika (USA/IND),WANG Yidi/CHEN Xingtong
+WTT Contender Taiyuan 2024,2024-05-24,CHEN Meng/WANG Manyu,ZHU Chengzhu/LEE Ho Ching,3,1,"11,11,6,12|5,6,11,10",QF,WTT_CONTENDER,WD,2865,Main Draw,CHEN Meng/WANG Manyu (CHN),ZHU Chengzhu/LEE Ho Ching (HKG),CHEN Meng/WANG Manyu
+WTT Contender Taiyuan 2024,2024-05-24,CHANG Li Sian Alice/LYNE Karen,LAM Yee Lok/NG Wing Lam,3,1,"11,12,11,11|13,10,8,8",QF,WTT_CONTENDER,WD,2865,Main Draw,CHANG Li Sian Alice/LYNE Karen (MAS),LAM Yee Lok/NG Wing Lam (HKG),CHANG Li Sian Alice/LYNE Karen
+WTT Contender Taiyuan 2024,2024-05-24,LIN Shidong/KUAI Man,LIU Dingshuo/WANG Tianyi,3,1,"8,11,11,11|11,6,8,6",QF,WTT_CONTENDER,XD,2865,Main Draw,LIN Shidong/KUAI Man (CHN),LIU Dingshuo/WANG Tianyi (CHN),LIN Shidong/KUAI Man
+WTT Contender Taiyuan 2024,2024-05-24,LIN Gaoyuan/WANG Yidi,PANG Koen/WONG Xin Ru,3,1,"9,11,11,11|11,2,5,6",QF,WTT_CONTENDER,XD,2865,Main Draw,LIN Gaoyuan/WANG Yidi (CHN),PANG Koen/WONG Xin Ru (SGP),LIN Gaoyuan/WANG Yidi
+WTT Contender Taiyuan 2024,2024-05-24,XUE Fei/SHI Xunyao,WANG Chuqin/SUN Yingsha,3,2,"9,11,13,6,11|11,5,11,11,8",QF,WTT_CONTENDER,XD,2865,Main Draw,XUE Fei/SHI Xunyao (CHN),WANG Chuqin/SUN Yingsha (CHN),XUE Fei/SHI Xunyao
+WTT Contender Taiyuan 2024,2024-05-24,WONG Chun Ting/DOO Hoi Kem,YUAN Licen/CHEN Xingtong,3,1,"6,11,11,13|11,3,8,11",QF,WTT_CONTENDER,XD,2865,Main Draw,WONG Chun Ting/DOO Hoi Kem (HKG),YUAN Licen/CHEN Xingtong (CHN),WONG Chun Ting/DOO Hoi Kem
+WTT Contender Taiyuan 2024,2024-05-25,LIANG Jingkun,ZHOU Qihao,3,1,"11,11,10,11|9,5,12,7",SF,WTT_CONTENDER,MS,2865,Main Draw,LIANG Jingkun (CHN),ZHOU Qihao (CHN),LIANG Jingkun
+WTT Contender Taiyuan 2024,2024-05-25,WANG Yidi,HIRANO Miu,3,0,"11,11,11|9,6,7",SF,WTT_CONTENDER,WS,2865,Main Draw,WANG Yidi (CHN),HIRANO Miu (JPN),WANG Yidi
+WTT Contender Taiyuan 2024,2024-05-25,LEBRUN Alexis,LEE Sang Su,3,0,"11,11,11|6,7,2",SF,WTT_CONTENDER,MS,2865,Main Draw,LEBRUN Alexis (FRA),LEE Sang Su (KOR),LEBRUN Alexis
+WTT Contender Taiyuan 2024,2024-05-25,CHEN Xingtong,KIHARA Miyuu,3,0,"11,11,11|4,6,1",SF,WTT_CONTENDER,WS,2865,Main Draw,CHEN Xingtong (CHN),KIHARA Miyuu (JPN),CHEN Xingtong
+WTT Contender Taiyuan 2024,2024-05-25,LIN Shidong/KUAI Man,LIN Gaoyuan/WANG Yidi,3,1,"11,11,9,11|7,8,11,7",F,WTT_CONTENDER,XD,2865,Main Draw,LIN Shidong/KUAI Man (CHN),LIN Gaoyuan/WANG Yidi (CHN),LIN Shidong/KUAI Man
+WTT Contender Taiyuan 2024,2024-05-25,WANG Chuqin/LIANG Jingkun,YUAN Licen/XU Yingbin,3,2,"8,10,11,11,11|11,12,8,5,2",SF,WTT_CONTENDER,MD,2865,Main Draw,WANG Chuqin/LIANG Jingkun (CHN),YUAN Licen/XU Yingbin (CHN),WANG Chuqin/LIANG Jingkun
+WTT Contender Taiyuan 2024,2024-05-25,MA Long/LIN Gaoyuan,WONG Chun Ting/HO Kwan Kit,3,1,"11,11,9,11|9,5,11,7",SF,WTT_CONTENDER,MD,2865,Main Draw,MA Long/LIN Gaoyuan (CHN),WONG Chun Ting/HO Kwan Kit (HKG),MA Long/LIN Gaoyuan
+WTT Contender Taiyuan 2024,2024-05-25,WANG Yidi/CHEN Xingtong,CHANG Li Sian Alice/LYNE Karen,3,0,"11,11,11|7,9,5",SF,WTT_CONTENDER,WD,2865,Main Draw,WANG Yidi/CHEN Xingtong (CHN),CHANG Li Sian Alice/LYNE Karen (MAS),WANG Yidi/CHEN Xingtong
+WTT Contender Taiyuan 2024,2024-05-25,KUAI Man/CHEN Yi,CHEN Meng/WANG Manyu,3,1,"11,11,12,11|3,5,14,3",SF,WTT_CONTENDER,WD,2865,Main Draw,KUAI Man/CHEN Yi (CHN),CHEN Meng/WANG Manyu (CHN),KUAI Man/CHEN Yi
+WTT Contender Taiyuan 2024,2024-05-25,LEE Sang Su,MA Jinbao,3,2,"11,5,11,8,11|6,11,5,11,9",QF,WTT_CONTENDER,MS,2865,Main Draw,LEE Sang Su (KOR),MA Jinbao (USA),LEE Sang Su
+WTT Contender Taiyuan 2024,2024-05-25,LEBRUN Alexis,KAO Cheng-Jui,3,0,"12,11,11|10,6,8",QF,WTT_CONTENDER,MS,2865,Main Draw,LEBRUN Alexis (FRA),KAO Cheng-Jui (TPE),LEBRUN Alexis
+WTT Contender Taiyuan 2024,2024-05-25,HIRANO Miu,SHI Xunyao,3,2,"8,6,11,13,11|11,11,8,11,7",QF,WTT_CONTENDER,WS,2865,Main Draw,HIRANO Miu (JPN),SHI Xunyao (CHN),HIRANO Miu
+WTT Contender Taiyuan 2024,2024-05-25,KIHARA Miyuu,ITO Mima,3,2,"6,6,11,11,11|11,11,9,5,9",QF,WTT_CONTENDER,WS,2865,Main Draw,KIHARA Miyuu (JPN),ITO Mima (JPN),KIHARA Miyuu
+WTT Contender Taiyuan 2024,2024-05-25,ZHOU Qihao,CHO Daeseong,3,0,"11,11,11|7,5,9",QF,WTT_CONTENDER,MS,2865,Main Draw,ZHOU Qihao (CHN),CHO Daeseong (KOR),ZHOU Qihao
+WTT Contender Taiyuan 2024,2024-05-25,LIANG Jingkun,CHUANG Chih-Yuan,3,1,"11,9,11,11|0,11,9,2",QF,WTT_CONTENDER,MS,2865,Main Draw,LIANG Jingkun (CHN),CHUANG Chih-Yuan (TPE),LIANG Jingkun
+WTT Contender Taiyuan 2024,2024-05-25,CHEN Xingtong,QIAN Tianyi,3,1,"9,11,11,11|11,5,7,8",QF,WTT_CONTENDER,WS,2865,Main Draw,CHEN Xingtong (CHN),QIAN Tianyi (CHN),CHEN Xingtong
+WTT Contender Taiyuan 2024,2024-05-25,WANG Yidi,FAN Shuhan,3,0,"11,11,14|4,2,12",QF,WTT_CONTENDER,WS,2865,Main Draw,WANG Yidi (CHN),FAN Shuhan (CHN),WANG Yidi
+WTT Contender Taiyuan 2024,2024-05-26,LIANG Jingkun,LEBRUN Alexis,4,1,"12,11,11,11,11|14,2,8,8,5",F,WTT_CONTENDER,MS,2865,Main Draw,LIANG Jingkun (CHN),LEBRUN Alexis (FRA),LIANG Jingkun
+WTT Contender Taiyuan 2024,2024-05-26,CHEN Xingtong,WANG Yidi,4,3,"10,8,11,11,12,12,11|12,11,9,6,14,10,9",F,WTT_CONTENDER,WS,2865,Main Draw,CHEN Xingtong (CHN),WANG Yidi (CHN),CHEN Xingtong
+WTT Contender Taiyuan 2024,2024-05-26,MA Long/LIN Gaoyuan,WANG Chuqin/LIANG Jingkun,3,1,"11,4,11,17|9,11,9,15",F,WTT_CONTENDER,MD,2865,Main Draw,MA Long/LIN Gaoyuan (CHN),WANG Chuqin/LIANG Jingkun (CHN),MA Long/LIN Gaoyuan
+WTT Contender Taiyuan 2024,2024-05-26,KUAI Man/CHEN Yi,WANG Yidi/CHEN Xingtong,3,1,"11,9,11,11|4,11,4,7",F,WTT_CONTENDER,WD,2865,Main Draw,KUAI Man/CHEN Yi (CHN),WANG Yidi/CHEN Xingtong (CHN),KUAI Man/CHEN Yi

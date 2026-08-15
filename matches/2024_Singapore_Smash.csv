@@ -1,307 +1,307 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Singapore Smash 2024,2024-03-07,BRATEYKO Solomiya,BURGOS Brianna,3,0,"11,11,11|8,7,9",QR1,GRAND_SLAM,WS,2904,Qualification,BRATEYKO Solomiya (UKR),BURGOS Brianna (PUR)
-Singapore Smash 2024,2024-03-07,RASSENFOSSE Adrien,MAJOROS Bence,3,2,"11,8,9,11,11|7,11,11,5,7",QR1,GRAND_SLAM,MS,2904,Qualification,RASSENFOSSE Adrien (BEL),MAJOROS Bence (HUN)
-Singapore Smash 2024,2024-03-07,REDZIMSKI Milosz,CIFUENTES Horacio,3,1,"11,5,11,11|4,11,8,7",QR1,GRAND_SLAM,MS,2904,Qualification,REDZIMSKI Milosz (POL),CIFUENTES Horacio (ARG)
-Singapore Smash 2024,2024-03-07,CHIEN Tung-Chuan,ARAPOVIC Hana,3,1,"9,12,13,11|11,10,11,9",QR1,GRAND_SLAM,WS,2904,Qualification,CHIEN Tung-Chuan (TPE),ARAPOVIC Hana (CRO)
-Singapore Smash 2024,2024-03-07,MATELOVA Hana,ZHANG Sofia-Xuan,3,1,"8,11,11,12|11,5,2,10",QR1,GRAND_SLAM,WS,2904,Qualification,MATELOVA Hana (CZE),ZHANG Sofia-Xuan (ESP)
-Singapore Smash 2024,2024-03-07,MONTEIRO Joao,DESAI Harmeet,3,1,"11,11,5,12|6,7,11,10",QR1,GRAND_SLAM,MS,2904,Qualification,MONTEIRO Joao (POR),DESAI Harmeet (IND)
-Singapore Smash 2024,2024-03-07,MADRID Marcos,LIM Dao Yi,3,1,"12,11,8,11|10,4,11,1",QR1,GRAND_SLAM,MS,2904,Qualification,MADRID Marcos (MEX),LIM Dao Yi (SGP)
-Singapore Smash 2024,2024-03-07,PESOTSKA Margaryta,TAN Zhao Yun,3,1,"11,7,11,11|7,11,5,1",QR1,GRAND_SLAM,WS,2904,Qualification,PESOTSKA Margaryta (UKR),TAN Zhao Yun (SGP)
-Singapore Smash 2024,2024-03-07,VIVARELLI Debora,TAKAHASHI Giulia,3,0,"11,11,12|9,5,10",QR1,GRAND_SLAM,WS,2904,Qualification,VIVARELLI Debora (ITA),TAKAHASHI Giulia (BRA)
-Singapore Smash 2024,2024-03-07,GARDOS Robert,JANCARIK Lubomir,3,1,"7,11,11,13|11,3,5,11",QR1,GRAND_SLAM,MS,2904,Qualification,GARDOS Robert (AUT),JANCARIK Lubomir (CZE)
-Singapore Smash 2024,2024-03-07,GOMEZ Gustavo,CHUA Josh Shao Han,3,2,"13,11,4,9,11|11,9,11,11,6",QR1,GRAND_SLAM,MS,2904,Qualification,GOMEZ Gustavo (CHI),CHUA Josh Shao Han (SGP)
-Singapore Smash 2024,2024-03-07,WAN Yuan,BALAZOVA Barbora,3,2,"11,11,1,8,17|9,8,11,11,15",QR1,GRAND_SLAM,WS,2904,Qualification,WAN Yuan (GER),BALAZOVA Barbora (SVK)
-Singapore Smash 2024,2024-03-07,POTA Georgina,LEE Eng Kee,3,0,"11,11,11|6,2,6",QR1,GRAND_SLAM,WS,2904,Qualification,POTA Georgina (HUN),LEE Eng Kee (SGP)
-Singapore Smash 2024,2024-03-07,LORENZO Santiago,POH Shao Feng Ethan,3,1,"11,7,11,11|7,11,9,7",QR1,GRAND_SLAM,MS,2904,Qualification,LORENZO Santiago (ARG),POH Shao Feng Ethan (SGP)
-Singapore Smash 2024,2024-03-07,PISTEJ Lubomir,KOH Dominic Song Jun,3,0,"11,15,12|7,13,10",QR1,GRAND_SLAM,MS,2904,Qualification,PISTEJ Lubomir (SVK),KOH Dominic Song Jun (SGP)
-Singapore Smash 2024,2024-03-07,SURJAN Sabina,SAWETTABUT Jinnipa,3,1,"11,12,12,11|2,10,14,7",QR1,GRAND_SLAM,WS,2904,Qualification,SURJAN Sabina (SRB),SAWETTABUT Jinnipa (THA)
-Singapore Smash 2024,2024-03-07,TODOROVIC Andrea,LAI Chloe,3,1,"11,9,11,11|6,11,4,8",QR1,GRAND_SLAM,WS,2904,Qualification,TODOROVIC Andrea (SRB),LAI Chloe (SGP)
-Singapore Smash 2024,2024-03-07,KUBIK Maciej,WANG Yang,3,0,"12,11,11|10,6,7",QR1,GRAND_SLAM,MS,2904,Qualification,KUBIK Maciej (POL),WANG Yang (SVK)
-Singapore Smash 2024,2024-03-07,ZELJKO Filip,ALLEGRO Martin,3,2,"11,11,11,6,11|9,13,8,11,9",QR1,GRAND_SLAM,MS,2904,Qualification,ZELJKO Filip (CRO),ALLEGRO Martin (BEL)
-Singapore Smash 2024,2024-03-07,LOY Ming Ying,ZARIF Audrey,3,1,"11,11,12,11|13,7,10,9",QR1,GRAND_SLAM,WS,2904,Qualification,LOY Ming Ying (SGP),ZARIF Audrey (FRA)
-Singapore Smash 2024,2024-03-07,MALOBABIC Ivana,WEGRZYN Anna,3,1,"5,11,11,11|11,9,7,5",QR1,GRAND_SLAM,WS,2904,Qualification,MALOBABIC Ivana (CRO),WEGRZYN Anna (POL)
-Singapore Smash 2024,2024-03-07,THAKKAR Manav Vikash,LAM Siu Hang,3,1,"11,6,15,11|6,11,13,9",QR1,GRAND_SLAM,MS,2904,Qualification,THAKKAR Manav Vikash (IND),LAM Siu Hang (HKG)
-Singapore Smash 2024,2024-03-07,FENG Yi-Hsin,LAMBIET Florent,3,0,"11,13,11|5,11,8",QR1,GRAND_SLAM,MS,2904,Qualification,FENG Yi-Hsin (TPE),LAMBIET Florent (BEL)
-Singapore Smash 2024,2024-03-07,DE NUTTE Sarah,GHORPADE Yashaswini,3,1,"11,11,3,11|8,8,11,4",QR1,GRAND_SLAM,WS,2904,Qualification,DE NUTTE Sarah (LUX),GHORPADE Yashaswini (IND)
-Singapore Smash 2024,2024-03-07,LI Yu-Jhun,HURSEY Anna,3,2,"11,11,8,9,11|9,9,11,11,9",QR1,GRAND_SLAM,WS,2904,Qualification,LI Yu-Jhun (TPE),HURSEY Anna (WAL)
-Singapore Smash 2024,2024-03-07,TANAKA Yuta,BOBOCICA Mihai,3,0,"13,11,12|11,9,10",QR1,GRAND_SLAM,MS,2904,Qualification,TANAKA Yuta (JPN),BOBOCICA Mihai (ITA)
-Singapore Smash 2024,2024-03-07,CHAN Baldwin,DYJAS Jakub,3,2,"11,12,5,9,11|9,10,11,11,6",QR1,GRAND_SLAM,MS,2904,Qualification,CHAN Baldwin (HKG),DYJAS Jakub (POL)
-Singapore Smash 2024,2024-03-07,MADARASZ Dora,ALTINKAYA Sibel,3,0,"11,11,11|5,7,8",QR1,GRAND_SLAM,WS,2904,Qualification,MADARASZ Dora (HUN),ALTINKAYA Sibel (TUR)
-Singapore Smash 2024,2024-03-07,UDA Yukiya,STOYANOV Niagol,3,0,"11,11,11|8,8,4",QR1,GRAND_SLAM,MS,2904,Qualification,UDA Yukiya (JPN),STOYANOV Niagol (ITA)
-Singapore Smash 2024,2024-03-07,LUPULESKU Izabela,HUANG Yi-Hua,3,1,"8,11,11,11|11,8,9,8",QR1,GRAND_SLAM,WS,2904,Qualification,LUPULESKU Izabela (SRB),HUANG Yi-Hua (TPE)
-Singapore Smash 2024,2024-03-07,LEE Ho Ching,HO Tin-Tin,3,0,"11,11,11|7,1,2",QR1,GRAND_SLAM,WS,2904,Qualification,LEE Ho Ching (HKG),HO Tin-Tin (ENG)
-Singapore Smash 2024,2024-03-07,HUANG Yan-Cheng,HODAEI Amir Hossein,3,2,"11,4,6,11,11|7,11,11,8,9",QR1,GRAND_SLAM,MS,2904,Qualification,HUANG Yan-Cheng (TPE),HODAEI Amir Hossein (IRI)
-Singapore Smash 2024,2024-03-07,LIAO Cheng-Ting,GACINA Andrej,3,1,"9,11,11,11|11,3,4,5",QR1,GRAND_SLAM,MS,2904,Qualification,LIAO Cheng-Ting (TPE),GACINA Andrej (CRO)
-Singapore Smash 2024,2024-03-07,MORET Rachel,TENNISON Reeth,3,0,"11,11,11|5,6,3",QR1,GRAND_SLAM,WS,2904,Qualification,MORET Rachel (SUI),TENNISON Reeth (IND)
-Singapore Smash 2024,2024-03-07,NG Wing Lam,KAMATH Archana Girish,3,1,"16,11,8,11|14,3,11,9",QR1,GRAND_SLAM,WS,2904,Qualification,NG Wing Lam (HKG),KAMATH Archana Girish (IND)
-Singapore Smash 2024,2024-03-07,AKKUZU Can,DIXON Xavier,3,0,"11,11,11|4,9,5",QR1,GRAND_SLAM,MS,2904,Qualification,AKKUZU Can (FRA),DIXON Xavier (AUS)
-Singapore Smash 2024,2024-03-07,ROLLAND Jules,LOY Xing Yao,3,0,"11,11,11|5,8,4",QR1,GRAND_SLAM,MS,2904,Qualification,ROLLAND Jules (FRA),LOY Xing Yao (SGP)
-Singapore Smash 2024,2024-03-07,ZHANG Mo,LI Carolyn,3,0,"11,11,11|2,4,3",QR1,GRAND_SLAM,WS,2904,Qualification,ZHANG Mo (CAN),LI Carolyn (FIJ)
-Singapore Smash 2024,2024-03-07,TAN Lucas,GONZALEZ Daniel,3,2,"5,10,11,11,11|11,12,7,6,8",QR1,GRAND_SLAM,MS,2904,Qualification,TAN Lucas (SGP),GONZALEZ Daniel (PUR)
-Singapore Smash 2024,2024-03-07,LIAO Ivy,SILVA Yadira,3,2,"11,11,11,7,11|13,9,6,11,6",QR1,GRAND_SLAM,WS,2904,Qualification,LIAO Ivy (CAN),SILVA Yadira (MEX)
-Singapore Smash 2024,2024-03-07,MA Jinbao,JOUTI Eric,3,2,"9,11,2,11,11|11,6,11,9,7",QR1,GRAND_SLAM,MS,2904,Qualification,MA Jinbao (USA),JOUTI Eric (BRA)
-Singapore Smash 2024,2024-03-07,ZHANG Wanling,LAY Jian Fang,3,2,"7,11,7,13,12|11,7,11,11,10",QR1,GRAND_SLAM,WS,2904,Qualification,ZHANG Wanling (SGP),LAY Jian Fang (AUS)
-Singapore Smash 2024,2024-03-08,DRAGOMAN Andreea,LIAO Ivy,3,0,"11,11,11|4,7,5",QR2,GRAND_SLAM,WS,2904,Qualification,DRAGOMAN Andreea (ROU),LIAO Ivy (CAN)
-Singapore Smash 2024,2024-03-08,ROLLAND Jules,AGUIRRE Marcelo,3,1,"11,11,9,11|4,6,11,7",QR2,GRAND_SLAM,MS,2904,Qualification,ROLLAND Jules (FRA),AGUIRRE Marcelo (PAR)
-Singapore Smash 2024,2024-03-08,CHAN Baldwin,LEVENKO Andreas,3,2,"7,19,11,4,11|11,17,9,11,4",QR2,GRAND_SLAM,MS,2904,Qualification,CHAN Baldwin (HKG),LEVENKO Andreas (AUT)
-Singapore Smash 2024,2024-03-08,MORET Rachel,LUPULESKU Izabela,3,2,"11,6,7,11,11|7,11,11,6,9",QR2,GRAND_SLAM,WS,2904,Qualification,MORET Rachel (SUI),LUPULESKU Izabela (SRB)
-Singapore Smash 2024,2024-03-08,ZHANG Mo,NG Wing Lam,3,1,"11,5,13,11|5,11,11,7",QR2,GRAND_SLAM,WS,2904,Qualification,ZHANG Mo (CAN),NG Wing Lam (HKG)
-Singapore Smash 2024,2024-03-08,BARDET Lilian,LORENZO Santiago,3,1,"11,11,8,11|1,7,11,8",QR2,GRAND_SLAM,MS,2904,Qualification,BARDET Lilian (FRA),LORENZO Santiago (ARG)
-Singapore Smash 2024,2024-03-08,KUBIK Maciej,PISTEJ Lubomir,3,1,"11,7,11,11|4,11,8,9",QR2,GRAND_SLAM,MS,2904,Qualification,KUBIK Maciej (POL),PISTEJ Lubomir (SVK)
-Singapore Smash 2024,2024-03-08,VIVARELLI Debora,LOY Ming Ying,3,0,"11,11,11|8,9,4",QR2,GRAND_SLAM,WS,2904,Qualification,VIVARELLI Debora (ITA),LOY Ming Ying (SGP)
-Singapore Smash 2024,2024-03-08,PESOTSKA Margaryta,MADARASZ Dora,3,2,"5,9,11,16,11|11,11,2,14,7",QR2,GRAND_SLAM,WS,2904,Qualification,PESOTSKA Margaryta (UKR),MADARASZ Dora (HUN)
-Singapore Smash 2024,2024-03-08,UDA Yukiya,TAN Lucas,3,0,"11,11,11|4,4,1",QR2,GRAND_SLAM,MS,2904,Qualification,UDA Yukiya (JPN),TAN Lucas (SGP)
-Singapore Smash 2024,2024-03-08,MUKHERJEE Sutirtha,ZHANG Wanling,3,2,"11,11,11,7,11|4,13,9,11,7",QR2,GRAND_SLAM,WS,2904,Qualification,MUKHERJEE Sutirtha (IND),ZHANG Wanling (SGP)
-Singapore Smash 2024,2024-03-08,ZELJKO Filip,GOMEZ Gustavo,3,0,"11,11,12|5,7,10",QR2,GRAND_SLAM,MS,2904,Qualification,ZELJKO Filip (CRO),GOMEZ Gustavo (CHI)
-Singapore Smash 2024,2024-03-08,MATELOVA Hana,SURJAN Sabina,3,2,"5,11,11,8,13|11,8,4,11,11",QR2,GRAND_SLAM,WS,2904,Qualification,MATELOVA Hana (CZE),SURJAN Sabina (SRB)
-Singapore Smash 2024,2024-03-08,MADRID Marcos,HUANG Yan-Cheng,3,2,"11,6,11,8,11|3,11,9,11,6",QR2,GRAND_SLAM,MS,2904,Qualification,MADRID Marcos (MEX),HUANG Yan-Cheng (TPE)
-Singapore Smash 2024,2024-03-08,LEE Ho Ching,WAN Yuan,3,1,"11,12,12,12|1,10,14,10",QR2,GRAND_SLAM,WS,2904,Qualification,LEE Ho Ching (HKG),WAN Yuan (GER)
-Singapore Smash 2024,2024-03-08,THAKKAR Manav Vikash,AKKUZU Can,3,0,"11,11,11|8,7,8",QR2,GRAND_SLAM,MS,2904,Qualification,THAKKAR Manav Vikash (IND),AKKUZU Can (FRA)
-Singapore Smash 2024,2024-03-08,ACHANTA Sharath Kamal,ISTRATE Andrei,3,0,"12,11,11|10,8,5",QR1,GRAND_SLAM,MS,2904,Qualification,ACHANTA Sharath Kamal (IND),ISTRATE Andrei (ROU)
-Singapore Smash 2024,2024-03-08,LEVENKO Andreas,DIAW Ibrahima,3,0,"11,11,11|8,7,9",QR1,GRAND_SLAM,MS,2904,Qualification,LEVENKO Andreas (AUT),DIAW Ibrahima (SEN)
-Singapore Smash 2024,2024-03-08,SCHREINER Franziska,LUTZ Charlotte,3,1,"7,11,11,11|11,5,9,8",QR1,GRAND_SLAM,WS,2904,Qualification,SCHREINER Franziska (GER),LUTZ Charlotte (FRA)
-Singapore Smash 2024,2024-03-08,HANFFOU Sarah,CHENG Janissa,3,0,"11,11,11|4,7,5",QR1,GRAND_SLAM,WS,2904,Qualification,HANFFOU Sarah (CMR),CHENG Janissa (SGP)
-Singapore Smash 2024,2024-03-08,BARDET Lilian,GNANASEKARAN Sathiyan,3,2,"11,7,8,11,11|8,11,11,9,9",QR1,GRAND_SLAM,MS,2904,Qualification,BARDET Lilian (FRA),GNANASEKARAN Sathiyan (IND)
-Singapore Smash 2024,2024-03-08,HABESOHN Daniel,GIONIS Panagiotis,3,0,"11,13,11|6,11,5",QR1,GRAND_SLAM,MS,2904,Qualification,HABESOHN Daniel (AUT),GIONIS Panagiotis (GRE)
-Singapore Smash 2024,2024-03-08,KALLBERG Christina,MASSART Lilou,3,0,"11,11,11|2,9,6",QR1,GRAND_SLAM,WS,2904,Qualification,KALLBERG Christina (SWE),MASSART Lilou (BEL)
-Singapore Smash 2024,2024-03-08,ZAHARIA Elena,MONFARDINI Gaia,3,1,"7,11,11,11|11,6,7,2",QR1,GRAND_SLAM,WS,2904,Qualification,ZAHARIA Elena (ROU),MONFARDINI Gaia (ITA)
-Singapore Smash 2024,2024-03-08,OLAH Benedek,DRINKHALL Paul,3,2,"4,11,11,13,11|11,8,3,15,4",QR1,GRAND_SLAM,MS,2904,Qualification,OLAH Benedek (FIN),DRINKHALL Paul (ENG)
-Singapore Smash 2024,2024-03-08,YOSHIMURA Maharu,NUYTINCK Cedric,3,0,"11,11,11|7,8,8",QR1,GRAND_SLAM,MS,2904,Qualification,YOSHIMURA Maharu (JPN),NUYTINCK Cedric (BEL)
-Singapore Smash 2024,2024-03-08,SINGEORZAN Ioana,PICCOLIN Giorgia,3,2,"8,15,5,11,11|11,13,11,7,9",QR1,GRAND_SLAM,WS,2904,Qualification,SINGEORZAN Ioana (ROU),PICCOLIN Giorgia (ITA)
-Singapore Smash 2024,2024-03-08,LUTZ Camille,WEGRZYN Katarzyna,3,1,"11,9,11,11|7,11,8,9",QR1,GRAND_SLAM,WS,2904,Qualification,LUTZ Camille (FRA),WEGRZYN Katarzyna (POL)
-Singapore Smash 2024,2024-03-08,KOZUL Deni,TEODORO Guilherme,3,1,"11,6,11,11|8,11,5,5",QR1,GRAND_SLAM,MS,2904,Qualification,KOZUL Deni (SLO),TEODORO Guilherme (BRA)
-Singapore Smash 2024,2024-03-08,IONESCU Eduard,ISHIY Vitor,3,2,"11,5,11,8,11|5,11,5,11,9",QR1,GRAND_SLAM,MS,2904,Qualification,IONESCU Eduard (ROU),ISHIY Vitor (BRA)
-Singapore Smash 2024,2024-03-08,KUKULKOVA Tatiana,HAPONOVA Hanna,3,2,"5,5,12,11,11|11,11,10,6,9",QR1,GRAND_SLAM,WS,2904,Qualification,KUKULKOVA Tatiana (SVK),HAPONOVA Hanna (UKR)
-Singapore Smash 2024,2024-03-08,LAM Yee Lok,COSSIO ACEVES Arantxa,3,0,"11,11,11|8,9,9",QR1,GRAND_SLAM,WS,2904,Qualification,LAM Yee Lok (HKG),COSSIO ACEVES Arantxa (MEX)
-Singapore Smash 2024,2024-03-08,MINO Alberto,PEREIRA Andy,3,2,"3,12,11,10,11|11,10,9,12,4",QR1,GRAND_SLAM,MS,2904,Qualification,MINO Alberto (ECU),PEREIRA Andy (CUB)
-Singapore Smash 2024,2024-03-08,AGUIRRE Marcelo,LIANG Jishan,3,0,"11,11,11|8,8,1",QR1,GRAND_SLAM,MS,2904,Qualification,AGUIRRE Marcelo (PAR),LIANG Jishan (USA)
-Singapore Smash 2024,2024-03-08,VEGA Paulina,DIAZ Melanie,3,1,"11,10,11,11|7,12,7,7",QR1,GRAND_SLAM,WS,2904,Qualification,VEGA Paulina (CHI),DIAZ Melanie (PUR)
-Singapore Smash 2024,2024-03-08,MUKHERJEE Sutirtha,CODINA Ana,3,1,"11,9,11,11|7,11,6,6",QR1,GRAND_SLAM,WS,2904,Qualification,MUKHERJEE Sutirtha (IND),CODINA Ana (ARG)
-Singapore Smash 2024,2024-03-08,IONESCU Ovidiu,AFANADOR Brian,3,1,"11,11,5,11|3,6,11,3",QR1,GRAND_SLAM,MS,2904,Qualification,IONESCU Ovidiu (ROU),AFANADOR Brian (PUR)
-Singapore Smash 2024,2024-03-09,ACHANTA Sharath Kamal,KOZUL Deni,3,1,"11,11,11,11|8,13,9,6",QR3,GRAND_SLAM,MS,2904,Qualification,ACHANTA Sharath Kamal (IND),KOZUL Deni (SLO)
-Singapore Smash 2024,2024-03-09,LI Yu-Jhun,MORET Rachel,3,1,"11,8,11,11|8,11,6,3",QR3,GRAND_SLAM,WS,2904,Qualification,LI Yu-Jhun (TPE),MORET Rachel (SUI)
-Singapore Smash 2024,2024-03-09,VIVARELLI Debora,BRATEYKO Solomiya,3,2,"7,11,11,19,13|11,8,9,21,11",QR3,GRAND_SLAM,WS,2904,Qualification,VIVARELLI Debora (ITA),BRATEYKO Solomiya (UKR)
-Singapore Smash 2024,2024-03-09,ZELJKO Filip,MONTEIRO Joao,3,2,"8,11,5,11,11|11,7,11,8,9",QR3,GRAND_SLAM,MS,2904,Qualification,ZELJKO Filip (CRO),MONTEIRO Joao (POR)
-Singapore Smash 2024,2024-03-09,YOSHIMURA Maharu,BARDET Lilian,3,1,"11,7,12,11|9,11,10,9",QR3,GRAND_SLAM,MS,2904,Qualification,YOSHIMURA Maharu (JPN),BARDET Lilian (FRA)
-Singapore Smash 2024,2024-03-09,POTA Georgina,KUKULKOVA Tatiana,3,1,"11,11,8,11|4,3,11,8",QR3,GRAND_SLAM,WS,2904,Qualification,POTA Georgina (HUN),KUKULKOVA Tatiana (SVK)
-Singapore Smash 2024,2024-03-09,CHIEN Tung-Chuan,MALOBABIC Ivana,3,2,"11,11,11,6,11|9,13,6,11,4",QR3,GRAND_SLAM,WS,2904,Qualification,CHIEN Tung-Chuan (TPE),MALOBABIC Ivana (CRO)
-Singapore Smash 2024,2024-03-09,FENG Yi-Hsin,ROLLAND Jules,3,1,"12,11,8,12|10,4,11,10",QR3,GRAND_SLAM,MS,2904,Qualification,FENG Yi-Hsin (TPE),ROLLAND Jules (FRA)
-Singapore Smash 2024,2024-03-09,HABESOHN Daniel,MADRID Marcos,3,0,"14,11,11|12,3,5",QR3,GRAND_SLAM,MS,2904,Qualification,HABESOHN Daniel (AUT),MADRID Marcos (MEX)
-Singapore Smash 2024,2024-03-09,MATELOVA Hana,KALLBERG Christina,3,0,"14,11,11|12,5,8",QR3,GRAND_SLAM,WS,2904,Qualification,MATELOVA Hana (CZE),KALLBERG Christina (SWE)
-Singapore Smash 2024,2024-03-09,LEE Ho Ching,SINGEORZAN Ioana,3,2,"11,7,9,11,11|5,11,11,9,5",QR3,GRAND_SLAM,WS,2904,Qualification,LEE Ho Ching (HKG),SINGEORZAN Ioana (ROU)
-Singapore Smash 2024,2024-03-09,IONESCU Ovidiu,CHAN Baldwin,3,0,"11,11,11|9,6,9",QR3,GRAND_SLAM,MS,2904,Qualification,IONESCU Ovidiu (ROU),CHAN Baldwin (HKG)
-Singapore Smash 2024,2024-03-09,PESOTSKA Margaryta,ZHANG Mo,3,0,"11,11,11|2,7,6",QR3,GRAND_SLAM,WS,2904,Qualification,PESOTSKA Margaryta (UKR),ZHANG Mo (CAN)
-Singapore Smash 2024,2024-03-09,REDZIMSKI Milosz,UDA Yukiya,3,0,"11,11,11|2,0,0",QR3,GRAND_SLAM,MS,2904,Qualification,REDZIMSKI Milosz (POL),UDA Yukiya (JPN)
-Singapore Smash 2024,2024-03-09,KUBIK Maciej,THAKKAR Manav Vikash,3,1,"12,11,12,12|14,5,10,10",QR3,GRAND_SLAM,MS,2904,Qualification,KUBIK Maciej (POL),THAKKAR Manav Vikash (IND)
-Singapore Smash 2024,2024-03-09,MUKHERJEE Sutirtha,DRAGOMAN Andreea,3,1,"8,11,13,11|11,8,11,6",QR3,GRAND_SLAM,WS,2904,Qualification,MUKHERJEE Sutirtha (IND),DRAGOMAN Andreea (ROU)
-Singapore Smash 2024,2024-03-09,POTA Georgina,TODOROVIC Andrea,3,2,"11,9,13,7,11|2,11,11,11,5",QR2,GRAND_SLAM,WS,2904,Qualification,POTA Georgina (HUN),TODOROVIC Andrea (SRB)
-Singapore Smash 2024,2024-03-09,KOZUL Deni,LIAO Cheng-Ting,3,1,"8,11,12,11|11,2,10,9",QR2,GRAND_SLAM,MS,2904,Qualification,KOZUL Deni (SLO),LIAO Cheng-Ting (TPE)
-Singapore Smash 2024,2024-03-09,MONTEIRO Joao,OLAH Benedek,3,0,"11,11,11|8,3,7",QR2,GRAND_SLAM,MS,2904,Qualification,MONTEIRO Joao (POR),OLAH Benedek (FIN)
-Singapore Smash 2024,2024-03-09,KUKULKOVA Tatiana,LUTZ Camille,3,0,"11,11,11|5,6,4",QR2,GRAND_SLAM,WS,2904,Qualification,KUKULKOVA Tatiana (SVK),LUTZ Camille (FRA)
-Singapore Smash 2024,2024-03-09,ACHANTA Sharath Kamal,TANAKA Yuta,3,0,"11,11,11|8,9,6",QR2,GRAND_SLAM,MS,2904,Qualification,ACHANTA Sharath Kamal (IND),TANAKA Yuta (JPN)
-Singapore Smash 2024,2024-03-09,BRATEYKO Solomiya,SCHREINER Franziska,3,1,"10,11,11,11|12,2,2,4",QR2,GRAND_SLAM,WS,2904,Qualification,BRATEYKO Solomiya (UKR),SCHREINER Franziska (GER)
-Singapore Smash 2024,2024-03-09,MALOBABIC Ivana,HANFFOU Sarah,3,0,"11,11,11|5,5,7",QR2,GRAND_SLAM,WS,2904,Qualification,MALOBABIC Ivana (CRO),HANFFOU Sarah (CMR)
-Singapore Smash 2024,2024-03-09,FENG Yi-Hsin,IONESCU Eduard,3,1,"11,5,11,11|6,11,5,6",QR2,GRAND_SLAM,MS,2904,Qualification,FENG Yi-Hsin (TPE),IONESCU Eduard (ROU)
-Singapore Smash 2024,2024-03-09,YOSHIMURA Maharu,RASSENFOSSE Adrien,3,1,"11,12,12,11|4,14,10,5",QR2,GRAND_SLAM,MS,2904,Qualification,YOSHIMURA Maharu (JPN),RASSENFOSSE Adrien (BEL)
-Singapore Smash 2024,2024-03-09,KALLBERG Christina,DE NUTTE Sarah,3,0,"17,11,11|15,4,4",QR2,GRAND_SLAM,WS,2904,Qualification,KALLBERG Christina (SWE),DE NUTTE Sarah (LUX)
-Singapore Smash 2024,2024-03-09,SINGEORZAN Ioana,LAM Yee Lok,3,1,"13,11,9,11|11,9,11,9",QR2,GRAND_SLAM,WS,2904,Qualification,SINGEORZAN Ioana (ROU),LAM Yee Lok (HKG)
-Singapore Smash 2024,2024-03-09,HABESOHN Daniel,GARDOS Robert,3,0,"11,11,11|7,7,5",QR2,GRAND_SLAM,MS,2904,Qualification,HABESOHN Daniel (AUT),GARDOS Robert (AUT)
-Singapore Smash 2024,2024-03-09,IONESCU Ovidiu,MA Jinbao,3,2,"11,11,8,5,11|5,4,11,11,8",QR2,GRAND_SLAM,MS,2904,Qualification,IONESCU Ovidiu (ROU),MA Jinbao (USA)
-Singapore Smash 2024,2024-03-09,CHIEN Tung-Chuan,VEGA Paulina,3,0,"11,12,11|5,10,7",QR2,GRAND_SLAM,WS,2904,Qualification,CHIEN Tung-Chuan (TPE),VEGA Paulina (CHI)
-Singapore Smash 2024,2024-03-09,REDZIMSKI Milosz,MINO Alberto,3,2,"11,11,8,9,11|8,4,11,11,5",QR2,GRAND_SLAM,MS,2904,Qualification,REDZIMSKI Milosz (POL),MINO Alberto (ECU)
-Singapore Smash 2024,2024-03-09,LI Yu-Jhun,ZAHARIA Elena,3,1,"11,11,9,12|7,6,11,10",QR2,GRAND_SLAM,WS,2904,Qualification,LI Yu-Jhun (TPE),ZAHARIA Elena (ROU)
-Singapore Smash 2024,2024-03-10,QUEK Izaac/ZHOU Jingyi,LAM Siu Hang/KUKULKOVA Tatiana,3,0,"11,11,11|9,9,1",R32,GRAND_SLAM,XD,2904,Main Draw,QUEK Izaac/ZHOU Jingyi (SGP),LAM Siu Hang/KUKULKOVA Tatiana (HKG/SVK)
-Singapore Smash 2024,2024-03-10,GARDOS Robert/POLCANOVA Sofia,PANG Yew En Koen/WONG Xin Ru,3,2,"3,11,11,9,11|11,9,8,11,9",R32,GRAND_SLAM,XD,2904,Main Draw,GARDOS Robert/POLCANOVA Sofia (AUT),PANG Yew En Koen/WONG Xin Ru (SGP)
-Singapore Smash 2024,2024-03-10,SHAN Xiaona,ZENG Jian,3,2,"6,11,9,11,11|11,9,11,8,6",R64,GRAND_SLAM,WS,2904,Main Draw,SHAN Xiaona (GER),ZENG Jian (SGP)
-Singapore Smash 2024,2024-03-10,KARLSSON Kristian/KALLBERG Christina,BURGOS Nicolas/VEGA Paulina,3,0,"11,11,11|2,3,6",R32,GRAND_SLAM,XD,2904,Main Draw,KARLSSON Kristian/KALLBERG Christina (SWE),BURGOS Nicolas/VEGA Paulina (CHI)
-Singapore Smash 2024,2024-03-10,FALCK Mattias,OH Junsung,3,2,"11,6,11,6,11|8,11,8,11,8",R64,GRAND_SLAM,MS,2904,Main Draw,FALCK Mattias (SWE),OH Junsung (KOR)
-Singapore Smash 2024,2024-03-10,SAMARA Elizabeta,TAKAHASHI Bruna,3,1,"10,11,11,11|12,8,7,8",R64,GRAND_SLAM,WS,2904,Main Draw,SAMARA Elizabeta (ROU),TAKAHASHI Bruna (BRA)
-Singapore Smash 2024,2024-03-10,MA Long,LEBRUN Alexis,3,1,"11,9,12,11|7,11,10,4",R64,GRAND_SLAM,MS,2904,Main Draw,MA Long (CHN),LEBRUN Alexis (FRA)
-Singapore Smash 2024,2024-03-10,OVTCHAROV Dimitrij,PUCAR Tomislav,3,1,"14,9,12,11|12,11,10,8",R64,GRAND_SLAM,MS,2904,Main Draw,OVTCHAROV Dimitrij (GER),PUCAR Tomislav (CRO)
-Singapore Smash 2024,2024-03-10,JEON Jihee,ZHU Chengzhu,3,0,"11,12,11|7,10,6",R64,GRAND_SLAM,WS,2904,Main Draw,JEON Jihee (KOR),ZHU Chengzhu (HKG)
-Singapore Smash 2024,2024-03-10,WINTER Sabine,WONG Xin Ru,3,1,"11,8,11,11|8,11,3,8",R64,GRAND_SLAM,WS,2904,Main Draw,WINTER Sabine (GER),WONG Xin Ru (SGP)
-Singapore Smash 2024,2024-03-10,ECSEKI Nandor/MADARASZ Dora,LEVAJAC Dimitrije/LUPULESKU Izabela,3,0,"11,11,11|5,7,9",R32,GRAND_SLAM,XD,2904,Main Draw,ECSEKI Nandor/MADARASZ Dora (HUN),LEVAJAC Dimitrije/LUPULESKU Izabela (SRB)
-Singapore Smash 2024,2024-03-10,MLADENOVIC Luka/NI Xia Lian,KOH Dominic Song Jun/SER Lin Qian,3,0,"11,11,11|6,7,5",R32,GRAND_SLAM,XD,2904,Main Draw,MLADENOVIC Luka/NI Xia Lian (LUX),KOH Dominic Song Jun/SER Lin Qian (SGP)
-Singapore Smash 2024,2024-03-10,HABESOHN Daniel,PANG Yew En Koen,3,0,"11,11,11|4,6,7",R64,GRAND_SLAM,MS,2904,Main Draw,HABESOHN Daniel (AUT),PANG Yew En Koen (SGP)
-Singapore Smash 2024,2024-03-10,KIM Nayeong,BERGSTROM Linda,3,2,"6,10,11,12,11|11,12,9,10,2",R64,GRAND_SLAM,WS,2904,Main Draw,KIM Nayeong (KOR),BERGSTROM Linda (SWE)
-Singapore Smash 2024,2024-03-10,LIANG Jingkun,APOLONIA Tiago,3,0,"11,11,11|4,7,9",R64,GRAND_SLAM,MS,2904,Main Draw,LIANG Jingkun (CHN),APOLONIA Tiago (POR)
-Singapore Smash 2024,2024-03-10,CHEN Meng,NAGASAKI Miyu,3,0,"11,11,11|5,6,5",R64,GRAND_SLAM,WS,2904,Main Draw,CHEN Meng (CHN),NAGASAKI Miyu (JPN)
-Singapore Smash 2024,2024-03-10,HIRANO Miu,HAYATA Hina,3,0,"11,13,11|8,11,7",R64,GRAND_SLAM,WS,2904,Main Draw,HIRANO Miu (JPN),HAYATA Hina (JPN)
-Singapore Smash 2024,2024-03-10,FRANZISKA Patrick,GAUZY Simon,3,2,"11,11,7,5,11|8,3,11,11,5",R64,GRAND_SLAM,MS,2904,Main Draw,FRANZISKA Patrick (GER),GAUZY Simon (FRA)
-Singapore Smash 2024,2024-03-10,DUDA Benedikt,FREITAS Marcos,3,2,"11,11,9,6,11|9,9,11,11,6",R64,GRAND_SLAM,MS,2904,Main Draw,DUDA Benedikt (GER),FREITAS Marcos (POR)
-Singapore Smash 2024,2024-03-10,SHIN Yubin,LEE Ho Ching,3,0,"11,12,11|1,10,6",R64,GRAND_SLAM,WS,2904,Main Draw,SHIN Yubin (KOR),LEE Ho Ching (HKG)
-Singapore Smash 2024,2024-03-10,CHEW Zhe Yu Clarence/ZENG Jian,SAREEN Aditya/LIU Yangzi,3,0,"12,11,12|10,8,10",R32,GRAND_SLAM,XD,2904,Main Draw,CHEW Zhe Yu Clarence/ZENG Jian (SGP),SAREEN Aditya/LIU Yangzi (AUS)
-Singapore Smash 2024,2024-03-10,JOO Cheonhui,PESOTSKA Margaryta,3,1,"11,4,11,11|5,11,3,9",R64,GRAND_SLAM,WS,2904,Main Draw,JOO Cheonhui (KOR),PESOTSKA Margaryta (UKR)
-Singapore Smash 2024,2024-03-10,HARIMOTO Tomokazu,FILUS Ruwen,3,1,"11,8,11,11|9,11,8,6",R64,GRAND_SLAM,MS,2904,Main Draw,HARIMOTO Tomokazu (JPN),FILUS Ruwen (GER)
-Singapore Smash 2024,2024-03-10,GROTH Jonathan,ALAMIYAN Noshad,3,1,"13,9,11,11|11,11,8,2",R64,GRAND_SLAM,MS,2904,Main Draw,GROTH Jonathan (DEN),ALAMIYAN Noshad (IRI)
-Singapore Smash 2024,2024-03-10,LIN Shidong,AN Jaehyun,3,1,"11,11,8,11|6,8,11,7",R64,GRAND_SLAM,MS,2904,Main Draw,LIN Shidong (CHN),AN Jaehyun (KOR)
-Singapore Smash 2024,2024-03-10,ITO Mima,NI Xia Lian,3,0,"11,11,11|4,9,6",R64,GRAND_SLAM,WS,2904,Main Draw,ITO Mima (JPN),NI Xia Lian (LUX)
-Singapore Smash 2024,2024-03-10,SHAO Jieni,MITTELHAM Nina,3,2,"7,7,12,11,11|11,11,10,9,7",R64,GRAND_SLAM,WS,2904,Main Draw,SHAO Jieni (POR),MITTELHAM Nina (GER)
-Singapore Smash 2024,2024-03-10,FAN Zhendong,LUU Finn,3,0,"11,11,11|8,9,5",R64,GRAND_SLAM,MS,2904,Main Draw,FAN Zhendong (CHN),LUU Finn (AUS)
-Singapore Smash 2024,2024-03-10,EERLAND Britt,LIU Hsing-Yin,3,1,"11,8,11,12|9,11,4,10",R64,GRAND_SLAM,WS,2904,Main Draw,EERLAND Britt (NED),LIU Hsing-Yin (TPE)
-Singapore Smash 2024,2024-03-10,WANG Manyu,AKULA Sreeja,3,2,"11,9,11,8,11|6,11,5,11,8",R64,GRAND_SLAM,WS,2904,Main Draw,WANG Manyu (CHN),AKULA Sreeja (IND)
-Singapore Smash 2024,2024-03-10,ISHIY Vitor/TAKAHASHI Bruna,GNANASEKARAN Sathiyan/BATRA Manika,3,2,"11,9,7,11,11|8,11,11,9,8",R32,GRAND_SLAM,XD,2904,Main Draw,ISHIY Vitor/TAKAHASHI Bruna (BRA),GNANASEKARAN Sathiyan/BATRA Manika (IND)
-Singapore Smash 2024,2024-03-10,LIU Yangzi,DIACONU Adina,3,2,"11,12,10,9,11|5,10,12,11,9",R64,GRAND_SLAM,WS,2904,Main Draw,LIU Yangzi (AUS),DIACONU Adina (ROU)
-Singapore Smash 2024,2024-03-10,ROBLES Alvaro,REDZIMSKI Milosz,3,1,"11,14,11,11|4,12,13,4",R64,GRAND_SLAM,MS,2904,Main Draw,ROBLES Alvaro (ESP),REDZIMSKI Milosz (POL)
-Singapore Smash 2024,2024-03-10,LIN Yun-Ju,GERASSIMENKO Kirill,3,1,"11,9,15,11|7,11,13,2",R64,GRAND_SLAM,MS,2904,Main Draw,LIN Yun-Ju (TPE),GERASSIMENKO Kirill (KAZ)
-Singapore Smash 2024,2024-03-10,LEBRUN Alexis/YUAN Jia Nan,PISTEJ Lubomir/BALAZOVA Barbora,3,0,"11,11,11|7,4,6",R32,GRAND_SLAM,XD,2904,Main Draw,LEBRUN Alexis/YUAN Jia Nan (FRA),PISTEJ Lubomir/BALAZOVA Barbora (SVK)
-Singapore Smash 2024,2024-03-10,KALLBERG Anton,LY Edward,3,0,"11,11,11|3,7,6",R64,GRAND_SLAM,MS,2904,Main Draw,KALLBERG Anton (SWE),LY Edward (CAN)
-Singapore Smash 2024,2024-03-10,YANG Xiaoxin,MUKHERJEE Sutirtha,3,2,"11,7,11,9,12|4,11,9,11,10",R64,GRAND_SLAM,WS,2904,Main Draw,YANG Xiaoxin (MON),MUKHERJEE Sutirtha (IND)
-Singapore Smash 2024,2024-03-10,FENG Yi-Hsin,ZELJKO Filip,3,0,"11,13,11|8,11,9",R64,GRAND_SLAM,MS,2904,Main Draw,FENG Yi-Hsin (TPE),ZELJKO Filip (CRO)
-Singapore Smash 2024,2024-03-10,POTA Georgina,JEE Minhyung,3,2,"11,11,11,9,12|6,13,6,11,10",R64,GRAND_SLAM,WS,2904,Main Draw,POTA Georgina (HUN),JEE Minhyung (AUS)
-Singapore Smash 2024,2024-03-10,IONESCU Ovidiu,SAREEN Aditya,3,1,"11,11,7,11|7,1,11,4",R64,GRAND_SLAM,MS,2904,Main Draw,IONESCU Ovidiu (ROU),SAREEN Aditya (AUS)
-Singapore Smash 2024,2024-03-11,BERGSTROM Linda/KALLBERG Christina,WONG Xin Ru/SER Lin Qian,3,0,"11,11,11|6,6,7",R32,GRAND_SLAM,WD,2904,Main Draw,BERGSTROM Linda/KALLBERG Christina (SWE),WONG Xin Ru/SER Lin Qian (SGP)
-Singapore Smash 2024,2024-03-11,POLCANOVA Sofia,MESHREF Dina,3,0,"11,13,11|7,11,4",R64,GRAND_SLAM,WS,2904,Main Draw,POLCANOVA Sofia (AUT),MESHREF Dina (EGY)
-Singapore Smash 2024,2024-03-11,BOLL Timo,CHEW Zhe Yu Clarence,3,1,"11,9,11,11|5,11,6,5",R64,GRAND_SLAM,MS,2904,Main Draw,BOLL Timo (GER),CHEW Zhe Yu Clarence (SGP)
-Singapore Smash 2024,2024-03-11,KARLSSON Kristian,JANG Woojin,3,1,"11,14,5,11|9,12,11,8",R64,GRAND_SLAM,MS,2904,Main Draw,KARLSSON Kristian (SWE),JANG Woojin (KOR)
-Singapore Smash 2024,2024-03-11,PITCHFORD Liam,SALEH Ahmed,3,0,"12,11,11|10,3,8",R64,GRAND_SLAM,MS,2904,Main Draw,PITCHFORD Liam (ENG),SALEH Ahmed (EGY)
-Singapore Smash 2024,2024-03-11,SUN Yingsha,YUAN Jia Nan,3,0,"11,11,11|3,6,8",R64,GRAND_SLAM,WS,2904,Main Draw,SUN Yingsha (CHN),YUAN Jia Nan (FRA)
-Singapore Smash 2024,2024-03-11,SAWETTABUT Suthasini,SZOCS Bernadette,3,1,"6,11,11,11|11,9,8,6",R64,GRAND_SLAM,WS,2904,Main Draw,SAWETTABUT Suthasini (THA),SZOCS Bernadette (ROU)
-Singapore Smash 2024,2024-03-11,LUTZ Camille/PAVADE Prithika,TAKAHASHI Bruna/TAKAHASHI Giulia,3,1,"11,11,11,11|13,5,6,3",R32,GRAND_SLAM,WD,2904,Main Draw,LUTZ Camille/PAVADE Prithika (FRA),TAKAHASHI Bruna/TAKAHASHI Giulia (BRA)
-Singapore Smash 2024,2024-03-11,ASSAR Omar,QUEK Izaac,3,1,"3,11,11,11|11,5,7,4",R64,GRAND_SLAM,MS,2904,Main Draw,ASSAR Omar (EGY),QUEK Izaac (SGP)
-Singapore Smash 2024,2024-03-11,SHINOZUKA Hiroto/TOGAMI Shunsuke,SHAH Manush Utpalbhai/THAKKAR Manav Vikash,3,0,"11,11,11|7,4,8",R32,GRAND_SLAM,MD,2904,Main Draw,SHINOZUKA Hiroto/TOGAMI Shunsuke (JPN),SHAH Manush Utpalbhai/THAKKAR Manav Vikash (IND)
-Singapore Smash 2024,2024-03-11,CHUA Josh Shao Han/TAN Lucas,MINO Alberto/MADRID Marcos,3,1,"11,7,11,11|9,11,3,4",R32,GRAND_SLAM,MD,2904,Main Draw,CHUA Josh Shao Han/TAN Lucas (SGP),MINO Alberto/MADRID Marcos (ECU/MEX)
-Singapore Smash 2024,2024-03-11,HARIMOTO Miwa,ZHANG Lily,3,1,"11,7,11,11|6,11,6,7",R64,GRAND_SLAM,WS,2904,Main Draw,HARIMOTO Miwa (JPN),ZHANG Lily (USA)
-Singapore Smash 2024,2024-03-11,KIHARA Miyuu/JOO Cheonhui,LOY Ming Ying/LAI Chloe,3,0,"11,13,11|2,11,6",R32,GRAND_SLAM,WD,2904,Main Draw,KIHARA Miyuu/JOO Cheonhui (JPN/KOR),LOY Ming Ying/LAI Chloe (SGP)
-Singapore Smash 2024,2024-03-11,XIAO Maria,WANG Amy,3,0,"13,11,11|11,7,4",R64,GRAND_SLAM,WS,2904,Main Draw,XIAO Maria (ESP),WANG Amy (USA)
-Singapore Smash 2024,2024-03-11,CHO Daeseong,CALDERANO Hugo,3,1,"11,11,7,12|6,7,11,10",R64,GRAND_SLAM,MS,2904,Main Draw,CHO Daeseong (KOR),CALDERANO Hugo (BRA)
-Singapore Smash 2024,2024-03-11,LEBRUN Felix,MATSUSHIMA Sora,3,2,"11,7,11,4,11|5,11,6,11,9",R64,GRAND_SLAM,MS,2904,Main Draw,LEBRUN Felix (FRA),MATSUSHIMA Sora (JPN)
-Singapore Smash 2024,2024-03-11,ARUNA Quadri,LIM Jonghoon,3,2,"11,4,7,11,14|8,11,11,9,12",R64,GRAND_SLAM,MS,2904,Main Draw,ARUNA Quadri (NGR),LIM Jonghoon (KOR)
-Singapore Smash 2024,2024-03-11,QIAN Tianyi,GODA Hana,3,0,"11,11,13|4,9,11",R64,GRAND_SLAM,WS,2904,Main Draw,QIAN Tianyi (CHN),GODA Hana (EGY)
-Singapore Smash 2024,2024-03-11,MOREGARD Truls,TOGAMI Shunsuke,3,1,"11,11,11,11|13,8,6,7",R64,GRAND_SLAM,MS,2904,Main Draw,MOREGARD Truls (SWE),TOGAMI Shunsuke (JPN)
-Singapore Smash 2024,2024-03-11,DIAZ Adriana,MATELOVA Hana,3,2,"11,5,11,4,11|5,11,9,11,7",R64,GRAND_SLAM,WS,2904,Main Draw,DIAZ Adriana (PUR),MATELOVA Hana (CZE)
-Singapore Smash 2024,2024-03-11,LAM Siu Hang/HO Kwan Kit,CHEW Zhe Yu Clarence/POH Shao Feng Ethan,3,0,"11,11,11|7,6,8",R32,GRAND_SLAM,MD,2904,Main Draw,LAM Siu Hang/HO Kwan Kit (HKG),CHEW Zhe Yu Clarence/POH Shao Feng Ethan (SGP)
-Singapore Smash 2024,2024-03-11,JORGIC Darko,KUBIK Maciej,3,0,"11,13,11|2,11,4",R64,GRAND_SLAM,MS,2904,Main Draw,JORGIC Darko (SLO),KUBIK Maciej (POL)
-Singapore Smash 2024,2024-03-11,CHEN Xingtong,VIVARELLI Debora,3,0,"11,11,11|1,4,7",R64,GRAND_SLAM,WS,2904,Main Draw,CHEN Xingtong (CHN),VIVARELLI Debora (ITA)
-Singapore Smash 2024,2024-03-11,WANG Yidi,BATRA Manika,3,0,"11,11,11|4,7,2",R64,GRAND_SLAM,WS,2904,Main Draw,WANG Yidi (CHN),BATRA Manika (IND)
-Singapore Smash 2024,2024-03-11,PAVADE Prithika,DOO Hoi Kem,3,2,"7,11,7,11,12|11,4,11,6,10",R64,GRAND_SLAM,WS,2904,Main Draw,PAVADE Prithika (FRA),DOO Hoi Kem (HKG)
-Singapore Smash 2024,2024-03-11,QIU Dang,LIND Anders,3,2,"11,4,12,2,11|7,11,10,11,9",R64,GRAND_SLAM,MS,2904,Main Draw,QIU Dang (GER),LIND Anders (DEN)
-Singapore Smash 2024,2024-03-11,WANG Chuqin,GERALDO Joao,3,0,"11,12,11|6,10,9",R64,GRAND_SLAM,MS,2904,Main Draw,WANG Chuqin (CHN),GERALDO Joao (POR)
-Singapore Smash 2024,2024-03-11,SUH Hyo Won,SER Lin Qian,3,1,"11,9,11,13|7,11,8,11",R64,GRAND_SLAM,WS,2904,Main Draw,SUH Hyo Won (KOR),SER Lin Qian (SGP)
-Singapore Smash 2024,2024-03-11,KAO Cheng-Jui,CHO Seungmin,3,1,"5,11,11,11|11,2,7,5",R64,GRAND_SLAM,MS,2904,Main Draw,KAO Cheng-Jui (TPE),CHO Seungmin (KOR)
-Singapore Smash 2024,2024-03-11,LEE Zion,ZHOU Jingyi,3,1,"11,11,9,11|3,6,11,9",R64,GRAND_SLAM,WS,2904,Main Draw,LEE Zion (KOR),ZHOU Jingyi (SGP)
-Singapore Smash 2024,2024-03-11,POLCANOVA Sofia/SZOCS Bernadette,HO Tin-Tin/HURSEY Anna,3,0,"11,11,11|7,5,5",R32,GRAND_SLAM,WD,2904,Main Draw,POLCANOVA Sofia/SZOCS Bernadette (AUT/ROU),HO Tin-Tin/HURSEY Anna (ENG/WAL)
-Singapore Smash 2024,2024-03-11,DRINKHALL Paul/PITCHFORD Liam,ECSEKI Nandor/MAJOROS Bence,3,1,"7,11,11,11|11,9,9,7",R32,GRAND_SLAM,MD,2904,Main Draw,DRINKHALL Paul/PITCHFORD Liam (ENG),ECSEKI Nandor/MAJOROS Bence (HUN)
-Singapore Smash 2024,2024-03-11,LEE Sang Su,LIN Gaoyuan,3,1,"13,12,11,11|11,14,8,9",R64,GRAND_SLAM,MS,2904,Main Draw,LEE Sang Su (KOR),LIN Gaoyuan (CHN)
-Singapore Smash 2024,2024-03-11,CIFUENTES Horacio/LORENZO Santiago,MOREGARD Truls/KARLSSON Kristian,3,1,"6,11,11,11|11,7,7,8",R32,GRAND_SLAM,MD,2904,Main Draw,CIFUENTES Horacio/LORENZO Santiago (ARG),MOREGARD Truls/KARLSSON Kristian (SWE)
-Singapore Smash 2024,2024-03-11,MUKHERJEE Sutirtha/MUKHERJEE Ayhika,HARIMOTO Miwa/HIRANO Miu,3,2,"11,5,3,11,11|8,11,11,6,9",R32,GRAND_SLAM,WD,2904,Main Draw,MUKHERJEE Sutirtha/MUKHERJEE Ayhika (IND),HARIMOTO Miwa/HIRANO Miu (JPN)
-Singapore Smash 2024,2024-03-11,CHENG I-Ching,KIHARA Miyuu,3,1,"11,11,8,11|7,5,11,9",R64,GRAND_SLAM,WS,2904,Main Draw,CHENG I-Ching (TPE),KIHARA Miyuu (JPN)
-Singapore Smash 2024,2024-03-11,CHEN Szu-Yu,YU Fu,3,2,"11,10,11,10,11|7,12,7,12,6",R64,GRAND_SLAM,WS,2904,Main Draw,CHEN Szu-Yu (TPE),YU Fu (POR)
-Singapore Smash 2024,2024-03-11,YOSHIMURA Maharu,WONG Chun Ting,3,1,"7,11,11,11|11,5,8,7",R64,GRAND_SLAM,MS,2904,Main Draw,YOSHIMURA Maharu (JPN),WONG Chun Ting (HKG)
-Singapore Smash 2024,2024-03-11,CHUANG Chih-Yuan,LUM Nicholas,3,1,"12,11,11,11|14,7,7,2",R64,GRAND_SLAM,MS,2904,Main Draw,CHUANG Chih-Yuan (TPE),LUM Nicholas (AUS)
-Singapore Smash 2024,2024-03-11,PARANANG Orawan,BAJOR Natalia,3,0,"11,12,13|4,10,11",R64,GRAND_SLAM,WS,2904,Main Draw,PARANANG Orawan (THA),BAJOR Natalia (POL)
-Singapore Smash 2024,2024-03-11,CHIEN Tung-Chuan,LI Yu-Jhun,3,1,"8,11,12,11|11,9,10,7",R64,GRAND_SLAM,WS,2904,Main Draw,CHIEN Tung-Chuan (TPE),LI Yu-Jhun (TPE)
-Singapore Smash 2024,2024-03-11,ACHANTA Sharath Kamal,BURGOS Nicolas,3,0,"11,11,11|5,4,6",R64,GRAND_SLAM,MS,2904,Main Draw,ACHANTA Sharath Kamal (IND),BURGOS Nicolas (CHI)
-Singapore Smash 2024,2024-03-12,SAMARA Elizabeta/DRAGOMAN Andreea,ZENG Jian/ZHOU Jingyi,3,0,"11,12,15|8,10,13",R32,GRAND_SLAM,WD,2904,Main Draw,SAMARA Elizabeta/DRAGOMAN Andreea (ROU),ZENG Jian/ZHOU Jingyi (SGP)
-Singapore Smash 2024,2024-03-12,FRANZISKA Patrick,MA Long,3,2,"6,11,4,12,11|11,9,11,10,5",R32,GRAND_SLAM,MS,2904,Main Draw,FRANZISKA Patrick (GER),MA Long (CHN)
-Singapore Smash 2024,2024-03-12,LIN Yun-Ju/CHEN Szu-Yu,KARLSSON Kristian/KALLBERG Christina,3,2,"13,7,11,9,12|11,11,7,11,10",R16,GRAND_SLAM,XD,2904,Main Draw,LIN Yun-Ju/CHEN Szu-Yu (TPE),KARLSSON Kristian/KALLBERG Christina (SWE)
-Singapore Smash 2024,2024-03-12,LIM Jonghoon/SHIN Yubin,MLADENOVIC Luka/NI Xia Lian,3,0,"11,11,11|3,2,4",R16,GRAND_SLAM,XD,2904,Main Draw,LIM Jonghoon/SHIN Yubin (KOR),MLADENOVIC Luka/NI Xia Lian (LUX)
-Singapore Smash 2024,2024-03-12,TEODORO Guilherme/ISHIY Vitor,LAMBIET Florent/PISTEJ Lubomir,3,0,"11,11,11|4,7,6",R32,GRAND_SLAM,MD,2904,Main Draw,TEODORO Guilherme/ISHIY Vitor (BRA),LAMBIET Florent/PISTEJ Lubomir (BEL/SVK)
-Singapore Smash 2024,2024-03-12,CHEN Meng,JEON Jihee,3,0,"11,11,11|9,8,8",R32,GRAND_SLAM,WS,2904,Main Draw,CHEN Meng (CHN),JEON Jihee (KOR)
-Singapore Smash 2024,2024-03-12,OVTCHAROV Dimitrij,FENG Yi-Hsin,3,2,"11,11,12,11,11|6,2,14,13,7",R32,GRAND_SLAM,MS,2904,Main Draw,OVTCHAROV Dimitrij (GER),FENG Yi-Hsin (TPE)
-Singapore Smash 2024,2024-03-12,SAWETTABUT Suthasini/PARANANG Orawan,SHAN Xiaona/WINTER Sabine,3,0,"11,11,11|8,7,9",R32,GRAND_SLAM,WD,2904,Main Draw,SAWETTABUT Suthasini/PARANANG Orawan (THA),SHAN Xiaona/WINTER Sabine (GER)
-Singapore Smash 2024,2024-03-12,BOLL Timo,KALLBERG Anton,3,1,"11,11,7,11|7,9,11,9",R32,GRAND_SLAM,MS,2904,Main Draw,BOLL Timo (GER),KALLBERG Anton (SWE)
-Singapore Smash 2024,2024-03-12,KIM Nayeong,SHAO Jieni,3,1,"10,11,14,11|12,3,12,9",R32,GRAND_SLAM,WS,2904,Main Draw,KIM Nayeong (KOR),SHAO Jieni (POR)
-Singapore Smash 2024,2024-03-12,EERLAND Britt,YANG Xiaoxin,3,2,"11,11,8,11,11|13,7,11,3,5",R32,GRAND_SLAM,WS,2904,Main Draw,EERLAND Britt (NED),YANG Xiaoxin (MON)
-Singapore Smash 2024,2024-03-12,HIRANO Miu,SAMARA Elizabeta,3,0,"11,11,11|9,6,6",R32,GRAND_SLAM,WS,2904,Main Draw,HIRANO Miu (JPN),SAMARA Elizabeta (ROU)
-Singapore Smash 2024,2024-03-12,LIN Yun-Ju,ROBLES Alvaro,3,0,"11,11,11|7,6,9",R32,GRAND_SLAM,MS,2904,Main Draw,LIN Yun-Ju (TPE),ROBLES Alvaro (ESP)
-Singapore Smash 2024,2024-03-12,GARDOS Robert/POLCANOVA Sofia,QIU Dang/MITTELHAM Nina,3,0,"11,11,12|6,8,10",R16,GRAND_SLAM,XD,2904,Main Draw,GARDOS Robert/POLCANOVA Sofia (AUT),QIU Dang/MITTELHAM Nina (GER)
-Singapore Smash 2024,2024-03-12,HARIMOTO Tomokazu,GROTH Jonathan,3,0,"11,11,11|8,4,8",R32,GRAND_SLAM,MS,2904,Main Draw,HARIMOTO Tomokazu (JPN),GROTH Jonathan (DEN)
-Singapore Smash 2024,2024-03-12,IONESCU Ovidiu/SZOCS Bernadette,QUEK Izaac/ZHOU Jingyi,3,0,"11,11,11|8,6,7",R16,GRAND_SLAM,XD,2904,Main Draw,IONESCU Ovidiu/SZOCS Bernadette (ROU),QUEK Izaac/ZHOU Jingyi (SGP)
-Singapore Smash 2024,2024-03-12,HABESOHN Daniel/GARDOS Robert,DYJAS Jakub/NUYTINCK Cedric,3,0,"11,11,11|5,9,9",R32,GRAND_SLAM,MD,2904,Main Draw,HABESOHN Daniel/GARDOS Robert (AUT),DYJAS Jakub/NUYTINCK Cedric (POL/BEL)
-Singapore Smash 2024,2024-03-12,JOO Cheonhui,WINTER Sabine,3,1,"11,7,11,11|2,11,6,5",R32,GRAND_SLAM,WS,2904,Main Draw,JOO Cheonhui (KOR),WINTER Sabine (GER)
-Singapore Smash 2024,2024-03-12,LIANG Jingkun,DUDA Benedikt,3,0,"11,11,11|8,7,7",R32,GRAND_SLAM,MS,2904,Main Draw,LIANG Jingkun (CHN),DUDA Benedikt (GER)
-Singapore Smash 2024,2024-03-12,ROBLES Alvaro/XIAO Maria,CHEW Zhe Yu Clarence/ZENG Jian,3,0,"12,11,11|10,5,8",R16,GRAND_SLAM,XD,2904,Main Draw,ROBLES Alvaro/XIAO Maria (ESP),CHEW Zhe Yu Clarence/ZENG Jian (SGP)
-Singapore Smash 2024,2024-03-12,WANG Chuqin/SUN Yingsha,LEBRUN Alexis/YUAN Jia Nan,3,0,"11,11,11|6,7,5",R16,GRAND_SLAM,XD,2904,Main Draw,WANG Chuqin/SUN Yingsha (CHN),LEBRUN Alexis/YUAN Jia Nan (FRA)
-Singapore Smash 2024,2024-03-12,ITO Mima,LIU Yangzi,3,0,"11,11,11|8,7,6",R32,GRAND_SLAM,WS,2904,Main Draw,ITO Mima (JPN),LIU Yangzi (AUS)
-Singapore Smash 2024,2024-03-12,LIAO Ivy/ZHANG Mo,ALTINKAYA Sibel/TODOROVIC Andrea,3,2,"6,11,11,5,11|11,5,7,11,9",R32,GRAND_SLAM,WD,2904,Main Draw,LIAO Ivy/ZHANG Mo (CAN),ALTINKAYA Sibel/TODOROVIC Andrea (TUR/SRB)
-Singapore Smash 2024,2024-03-12,ALLEGRO Martin/RASSENFOSSE Adrien,KAO Cheng-Jui/CHUANG Chih-Yuan,3,1,"6,11,11,11|11,8,5,9",R32,GRAND_SLAM,MD,2904,Main Draw,ALLEGRO Martin/RASSENFOSSE Adrien (BEL),KAO Cheng-Jui/CHUANG Chih-Yuan (TPE)
-Singapore Smash 2024,2024-03-12,LIN Shidong,FAN Zhendong,3,1,"11,11,9,11|6,2,11,6",R32,GRAND_SLAM,MS,2904,Main Draw,LIN Shidong (CHN),FAN Zhendong (CHN)
-Singapore Smash 2024,2024-03-12,WANG Manyu,SHAN Xiaona,3,1,"11,11,5,11|5,3,11,9",R32,GRAND_SLAM,WS,2904,Main Draw,WANG Manyu (CHN),SHAN Xiaona (GER)
-Singapore Smash 2024,2024-03-12,IONESCU Ovidiu,ARUNA Quadri,3,0,"14,11,11|12,7,9",R32,GRAND_SLAM,MS,2904,Main Draw,IONESCU Ovidiu (ROU),ARUNA Quadri (NGR)
-Singapore Smash 2024,2024-03-12,SHIN Yubin,POTA Georgina,3,0,"11,11,11|7,8,7",R32,GRAND_SLAM,WS,2904,Main Draw,SHIN Yubin (KOR),POTA Georgina (HUN)
-Singapore Smash 2024,2024-03-12,HARIMOTO Tomokazu/HAYATA Hina,ISHIY Vitor/TAKAHASHI Bruna,3,0,"11,11,11|5,5,7",R16,GRAND_SLAM,XD,2904,Main Draw,HARIMOTO Tomokazu/HAYATA Hina (JPN),ISHIY Vitor/TAKAHASHI Bruna (BRA)
-Singapore Smash 2024,2024-03-12,WONG Chun Ting/DOO Hoi Kem,ECSEKI Nandor/MADARASZ Dora,3,0,"11,11,11|6,5,5",R16,GRAND_SLAM,XD,2904,Main Draw,WONG Chun Ting/DOO Hoi Kem (HKG),ECSEKI Nandor/MADARASZ Dora (HUN)
-Singapore Smash 2024,2024-03-13,JANG Woojin/LIM Jonghoon,CHUA Josh Shao Han/TAN Lucas,3,1,"10,12,11,11|12,10,8,6",R16,GRAND_SLAM,MD,2904,Main Draw,JANG Woojin/LIM Jonghoon (KOR),CHUA Josh Shao Han/TAN Lucas (SGP)
-Singapore Smash 2024,2024-03-13,PAVADE Prithika,SAWETTABUT Suthasini,3,0,"11,11,11|9,9,9",R32,GRAND_SLAM,WS,2904,Main Draw,PAVADE Prithika (FRA),SAWETTABUT Suthasini (THA)
-Singapore Smash 2024,2024-03-13,WANG Chuqin/SUN Yingsha,ROBLES Alvaro/XIAO Maria,3,0,"11,11,11|5,8,5",QF,GRAND_SLAM,XD,2904,Main Draw,WANG Chuqin/SUN Yingsha (CHN),ROBLES Alvaro/XIAO Maria (ESP)
-Singapore Smash 2024,2024-03-13,BALAZOVA Barbora/MATELOVA Hana,LIAO Ivy/ZHANG Mo,3,0,"11,11,11|6,6,7",R16,GRAND_SLAM,WD,2904,Main Draw,BALAZOVA Barbora/MATELOVA Hana (SVK/CZE),LIAO Ivy/ZHANG Mo (CAN)
-Singapore Smash 2024,2024-03-13,MOREGARD Truls,PITCHFORD Liam,3,0,"11,13,13|6,11,11",R32,GRAND_SLAM,MS,2904,Main Draw,MOREGARD Truls (SWE),PITCHFORD Liam (ENG)
-Singapore Smash 2024,2024-03-13,LEBRUN Felix,FALCK Mattias,3,1,"11,11,9,11|7,7,11,8",R32,GRAND_SLAM,MS,2904,Main Draw,LEBRUN Felix (FRA),FALCK Mattias (SWE)
-Singapore Smash 2024,2024-03-13,ALLEGRO Martin/RASSENFOSSE Adrien,FRANZISKA Patrick/OVTCHAROV Dimitrij,3,2,"11,11,10,7,11|7,6,12,11,3",R16,GRAND_SLAM,MD,2904,Main Draw,ALLEGRO Martin/RASSENFOSSE Adrien (BEL),FRANZISKA Patrick/OVTCHAROV Dimitrij (GER)
-Singapore Smash 2024,2024-03-13,DE NUTTE Sarah/NI Xia Lian,BERGSTROM Linda/KALLBERG Christina,3,1,"11,7,11,11|8,11,5,3",R16,GRAND_SLAM,WD,2904,Main Draw,DE NUTTE Sarah/NI Xia Lian (LUX),BERGSTROM Linda/KALLBERG Christina (SWE)
-Singapore Smash 2024,2024-03-13,POLCANOVA Sofia,DIAZ Adriana,3,2,"8,20,11,11,11|11,18,13,2,6",R32,GRAND_SLAM,WS,2904,Main Draw,POLCANOVA Sofia (AUT),DIAZ Adriana (PUR)
-Singapore Smash 2024,2024-03-13,CHEN Xingtong,XIAO Maria,3,0,"11,11,11|6,7,1",R32,GRAND_SLAM,WS,2904,Main Draw,CHEN Xingtong (CHN),XIAO Maria (ESP)
-Singapore Smash 2024,2024-03-13,SHINOZUKA Hiroto/TOGAMI Shunsuke,BURGOS Nicolas/GOMEZ Gustavo,3,1,"11,8,11,13|4,11,4,11",R16,GRAND_SLAM,MD,2904,Main Draw,SHINOZUKA Hiroto/TOGAMI Shunsuke (JPN),BURGOS Nicolas/GOMEZ Gustavo (CHI)
-Singapore Smash 2024,2024-03-13,ASSAR Omar,LEE Sang Su,3,2,"11,11,13,9,11|5,8,15,11,5",R32,GRAND_SLAM,MS,2904,Main Draw,ASSAR Omar (EGY),LEE Sang Su (KOR)
-Singapore Smash 2024,2024-03-13,QIU Dang,YOSHIMURA Maharu,3,0,"12,11,11|10,6,7",R32,GRAND_SLAM,MS,2904,Main Draw,QIU Dang (GER),YOSHIMURA Maharu (JPN)
-Singapore Smash 2024,2024-03-13,FALCK Mattias/KALLBERG Anton,TEODORO Guilherme/ISHIY Vitor,3,2,"13,9,11,3,11|11,11,8,11,8",R16,GRAND_SLAM,MD,2904,Main Draw,FALCK Mattias/KALLBERG Anton (SWE),TEODORO Guilherme/ISHIY Vitor (BRA)
-Singapore Smash 2024,2024-03-13,SUN Yingsha,LEE Zion,3,0,"11,11,11|8,9,6",R32,GRAND_SLAM,WS,2904,Main Draw,SUN Yingsha (CHN),LEE Zion (KOR)
-Singapore Smash 2024,2024-03-13,LIN Yun-Ju/CHEN Szu-Yu,WONG Chun Ting/DOO Hoi Kem,3,2,"12,10,11,7,11|10,12,5,11,4",QF,GRAND_SLAM,XD,2904,Main Draw,LIN Yun-Ju/CHEN Szu-Yu (TPE),WONG Chun Ting/DOO Hoi Kem (HKG)
-Singapore Smash 2024,2024-03-13,ZHU Chengzhu/NG Wing Lam,SAWETTABUT Suthasini/PARANANG Orawan,3,1,"15,4,11,11|13,11,4,7",R16,GRAND_SLAM,WD,2904,Main Draw,ZHU Chengzhu/NG Wing Lam (HKG),SAWETTABUT Suthasini/PARANANG Orawan (THA)
-Singapore Smash 2024,2024-03-13,WANG Chuqin,KAO Cheng-Jui,3,0,"11,11,11|7,6,4",R32,GRAND_SLAM,MS,2904,Main Draw,WANG Chuqin (CHN),KAO Cheng-Jui (TPE)
-Singapore Smash 2024,2024-03-13,HARIMOTO Tomokazu/HAYATA Hina,GARDOS Robert/POLCANOVA Sofia,3,0,"11,11,11|2,9,2",QF,GRAND_SLAM,XD,2904,Main Draw,HARIMOTO Tomokazu/HAYATA Hina (JPN),GARDOS Robert/POLCANOVA Sofia (AUT)
-Singapore Smash 2024,2024-03-13,PANG Yew En Koen/QUEK Izaac,CIFUENTES Horacio/LORENZO Santiago,3,0,"11,11,11|6,4,9",R16,GRAND_SLAM,MD,2904,Main Draw,PANG Yew En Koen/QUEK Izaac (SGP),CIFUENTES Horacio/LORENZO Santiago (ARG)
-Singapore Smash 2024,2024-03-13,CHENG I-Ching/LI Yu-Jhun,SAMARA Elizabeta/DRAGOMAN Andreea,3,0,"11,11,11|4,9,3",R16,GRAND_SLAM,WD,2904,Main Draw,CHENG I-Ching/LI Yu-Jhun (TPE),SAMARA Elizabeta/DRAGOMAN Andreea (ROU)
-Singapore Smash 2024,2024-03-13,HARIMOTO Miwa,CHEN Szu-Yu,3,0,"11,11,11|6,5,8",R32,GRAND_SLAM,WS,2904,Main Draw,HARIMOTO Miwa (JPN),CHEN Szu-Yu (TPE)
-Singapore Smash 2024,2024-03-13,KARLSSON Kristian,HABESOHN Daniel,3,1,"11,11,11,11|7,4,13,3",R32,GRAND_SLAM,MS,2904,Main Draw,KARLSSON Kristian (SWE),HABESOHN Daniel (AUT)
-Singapore Smash 2024,2024-03-13,JEON Jihee/SHIN Yubin,LUTZ Camille/PAVADE Prithika,3,1,"11,11,10,11|2,5,12,4",R16,GRAND_SLAM,WD,2904,Main Draw,JEON Jihee/SHIN Yubin (KOR),LUTZ Camille/PAVADE Prithika (FRA)
-Singapore Smash 2024,2024-03-13,ACHANTA Sharath Kamal,JORGIC Darko,3,1,"8,11,11,11|11,6,8,9",R32,GRAND_SLAM,MS,2904,Main Draw,ACHANTA Sharath Kamal (IND),JORGIC Darko (SLO)
-Singapore Smash 2024,2024-03-13,CHEN Meng/WANG Manyu,POLCANOVA Sofia/SZOCS Bernadette,3,2,"11,6,10,11,11|8,11,12,9,8",R16,GRAND_SLAM,WD,2904,Main Draw,CHEN Meng/WANG Manyu (CHN),POLCANOVA Sofia/SZOCS Bernadette (AUT/ROU)
-Singapore Smash 2024,2024-03-13,FAN Zhendong/WANG Chuqin,LAM Siu Hang/HO Kwan Kit,3,1,"11,9,11,11|5,11,2,2",R16,GRAND_SLAM,MD,2904,Main Draw,FAN Zhendong/WANG Chuqin (CHN),LAM Siu Hang/HO Kwan Kit (HKG)
-Singapore Smash 2024,2024-03-13,WANG Yidi,CHIEN Tung-Chuan,3,0,"11,11,11|5,9,1",R32,GRAND_SLAM,WS,2904,Main Draw,WANG Yidi (CHN),CHIEN Tung-Chuan (TPE)
-Singapore Smash 2024,2024-03-13,DIACONU Adina/XIAO Maria,MUKHERJEE Sutirtha/MUKHERJEE Ayhika,3,1,"11,12,11,11|4,14,3,9",R16,GRAND_SLAM,WD,2904,Main Draw,DIACONU Adina/XIAO Maria (ROU/ESP),MUKHERJEE Sutirtha/MUKHERJEE Ayhika (IND)
-Singapore Smash 2024,2024-03-13,MA Long/LIN Gaoyuan,DRINKHALL Paul/PITCHFORD Liam,3,0,"11,11,11|7,7,9",R16,GRAND_SLAM,MD,2904,Main Draw,MA Long/LIN Gaoyuan (CHN),DRINKHALL Paul/PITCHFORD Liam (ENG)
-Singapore Smash 2024,2024-03-13,CHO Daeseong,CHUANG Chih-Yuan,3,1,"9,11,11,11|11,3,6,8",R32,GRAND_SLAM,MS,2904,Main Draw,CHO Daeseong (KOR),CHUANG Chih-Yuan (TPE)
-Singapore Smash 2024,2024-03-13,LEBRUN Alexis/LEBRUN Felix,HABESOHN Daniel/GARDOS Robert,3,1,"10,11,11,11|12,9,8,8",R16,GRAND_SLAM,MD,2904,Main Draw,LEBRUN Alexis/LEBRUN Felix (FRA),HABESOHN Daniel/GARDOS Robert (AUT)
-Singapore Smash 2024,2024-03-13,QIAN Tianyi,PARANANG Orawan,3,0,"11,11,11|6,2,7",R32,GRAND_SLAM,WS,2904,Main Draw,QIAN Tianyi (CHN),PARANANG Orawan (THA)
-Singapore Smash 2024,2024-03-13,SUH Hyo Won,CHENG I-Ching,3,1,"7,11,11,12|11,7,5,10",R32,GRAND_SLAM,WS,2904,Main Draw,SUH Hyo Won (KOR),CHENG I-Ching (TPE)
-Singapore Smash 2024,2024-03-13,KIHARA Miyuu/JOO Cheonhui,NAGASAKI Miyu/KIM Nayeong,3,0,"12,12,13|10,10,11",R16,GRAND_SLAM,WD,2904,Main Draw,KIHARA Miyuu/JOO Cheonhui (JPN/KOR),NAGASAKI Miyu/KIM Nayeong (JPN/KOR)
-Singapore Smash 2024,2024-03-13,LIM Jonghoon/SHIN Yubin,IONESCU Ovidiu/SZOCS Bernadette,3,0,"11,11,15|8,8,13",QF,GRAND_SLAM,XD,2904,Main Draw,LIM Jonghoon/SHIN Yubin (KOR),IONESCU Ovidiu/SZOCS Bernadette (ROU)
-Singapore Smash 2024,2024-03-14,WANG Chuqin/SUN Yingsha,LIN Yun-Ju/CHEN Szu-Yu,3,0,"15,17,11|13,15,5",SF,GRAND_SLAM,XD,2904,Main Draw,WANG Chuqin/SUN Yingsha (CHN),LIN Yun-Ju/CHEN Szu-Yu (TPE)
-Singapore Smash 2024,2024-03-14,CHEN Xingtong,POLCANOVA Sofia,3,0,"11,11,11|4,4,4",R16,GRAND_SLAM,WS,2904,Main Draw,CHEN Xingtong (CHN),POLCANOVA Sofia (AUT)
-Singapore Smash 2024,2024-03-14,LEBRUN Felix,KARLSSON Kristian,3,0,"12,11,11|10,6,9",R16,GRAND_SLAM,MS,2904,Main Draw,LEBRUN Felix (FRA),KARLSSON Kristian (SWE)
-Singapore Smash 2024,2024-03-14,FRANZISKA Patrick,OVTCHAROV Dimitrij,3,2,"11,11,4,5,11|9,8,11,11,7",R16,GRAND_SLAM,MS,2904,Main Draw,FRANZISKA Patrick (GER),OVTCHAROV Dimitrij (GER)
-Singapore Smash 2024,2024-03-14,WANG Manyu,KIM Nayeong,3,0,"11,11,11|4,2,5",R16,GRAND_SLAM,WS,2904,Main Draw,WANG Manyu (CHN),KIM Nayeong (KOR)
-Singapore Smash 2024,2024-03-14,SHIN Yubin,EERLAND Britt,3,0,"11,11,11|5,6,6",R16,GRAND_SLAM,WS,2904,Main Draw,SHIN Yubin (KOR),EERLAND Britt (NED)
-Singapore Smash 2024,2024-03-14,BOLL Timo,LIN Shidong,3,1,"11,11,5,12|7,8,11,10",R16,GRAND_SLAM,MS,2904,Main Draw,BOLL Timo (GER),LIN Shidong (CHN)
-Singapore Smash 2024,2024-03-14,DE NUTTE Sarah/NI Xia Lian,BALAZOVA Barbora/MATELOVA Hana,3,1,"11,11,8,11|6,6,11,4",QF,GRAND_SLAM,WD,2904,Main Draw,DE NUTTE Sarah/NI Xia Lian (LUX),BALAZOVA Barbora/MATELOVA Hana (SVK/CZE)
-Singapore Smash 2024,2024-03-14,LIN Yun-Ju,IONESCU Ovidiu,3,0,"11,11,11|9,5,4",R16,GRAND_SLAM,MS,2904,Main Draw,LIN Yun-Ju (TPE),IONESCU Ovidiu (ROU)
-Singapore Smash 2024,2024-03-14,SUN Yingsha,HARIMOTO Miwa,3,0,"11,12,11|2,10,8",R16,GRAND_SLAM,WS,2904,Main Draw,SUN Yingsha (CHN),HARIMOTO Miwa (JPN)
-Singapore Smash 2024,2024-03-14,CHEN Meng,JOO Cheonhui,3,1,"15,11,11,11|17,6,5,9",R16,GRAND_SLAM,WS,2904,Main Draw,CHEN Meng (CHN),JOO Cheonhui (KOR)
-Singapore Smash 2024,2024-03-14,JANG Woojin/LIM Jonghoon,SHINOZUKA Hiroto/TOGAMI Shunsuke,3,2,"11,11,8,11,11|7,13,11,9,5",QF,GRAND_SLAM,MD,2904,Main Draw,JANG Woojin/LIM Jonghoon (KOR),SHINOZUKA Hiroto/TOGAMI Shunsuke (JPN)
-Singapore Smash 2024,2024-03-14,WANG Chuqin,MOREGARD Truls,3,0,"11,11,11|6,8,6",R16,GRAND_SLAM,MS,2904,Main Draw,WANG Chuqin (CHN),MOREGARD Truls (SWE)
-Singapore Smash 2024,2024-03-14,LIM Jonghoon/SHIN Yubin,HARIMOTO Tomokazu/HAYATA Hina,3,1,"7,11,11,11|11,9,6,5",SF,GRAND_SLAM,XD,2904,Main Draw,LIM Jonghoon/SHIN Yubin (KOR),HARIMOTO Tomokazu/HAYATA Hina (JPN)
-Singapore Smash 2024,2024-03-14,ACHANTA Sharath Kamal,ASSAR Omar,3,0,"11,11,12|4,8,10",R16,GRAND_SLAM,MS,2904,Main Draw,ACHANTA Sharath Kamal (IND),ASSAR Omar (EGY)
-Singapore Smash 2024,2024-03-14,WANG Yidi,SUH Hyo Won,3,0,"11,11,11|8,5,3",R16,GRAND_SLAM,WS,2904,Main Draw,WANG Yidi (CHN),SUH Hyo Won (KOR)
-Singapore Smash 2024,2024-03-14,QIU Dang,CHO Daeseong,3,2,"11,3,11,7,11|3,11,7,11,7",R16,GRAND_SLAM,MS,2904,Main Draw,QIU Dang (GER),CHO Daeseong (KOR)
-Singapore Smash 2024,2024-03-14,MA Long/LIN Gaoyuan,ALLEGRO Martin/RASSENFOSSE Adrien,3,2,"7,11,11,9,11|11,9,7,11,9",QF,GRAND_SLAM,MD,2904,Main Draw,MA Long/LIN Gaoyuan (CHN),ALLEGRO Martin/RASSENFOSSE Adrien (BEL)
-Singapore Smash 2024,2024-03-14,CHENG I-Ching/LI Yu-Jhun,DIACONU Adina/XIAO Maria,3,2,"7,11,11,9,11|11,9,4,11,4",QF,GRAND_SLAM,WD,2904,Main Draw,CHENG I-Ching/LI Yu-Jhun (TPE),DIACONU Adina/XIAO Maria (ROU/ESP)
-Singapore Smash 2024,2024-03-14,ITO Mima,HIRANO Miu,3,2,"11,10,7,16,11|8,12,11,14,1",R16,GRAND_SLAM,WS,2904,Main Draw,ITO Mima (JPN),HIRANO Miu (JPN)
-Singapore Smash 2024,2024-03-14,CHEN Meng/WANG Manyu,ZHU Chengzhu/NG Wing Lam,3,0,"11,12,11|1,10,6",QF,GRAND_SLAM,WD,2904,Main Draw,CHEN Meng/WANG Manyu (CHN),ZHU Chengzhu/NG Wing Lam (HKG)
-Singapore Smash 2024,2024-03-14,FALCK Mattias/KALLBERG Anton,LEBRUN Alexis/LEBRUN Felix,3,2,"3,11,5,11,11|11,9,11,7,8",QF,GRAND_SLAM,MD,2904,Main Draw,FALCK Mattias/KALLBERG Anton (SWE),LEBRUN Alexis/LEBRUN Felix (FRA)
-Singapore Smash 2024,2024-03-14,KIHARA Miyuu/JOO Cheonhui,JEON Jihee/SHIN Yubin,3,1,"11,8,11,11|6,11,9,7",QF,GRAND_SLAM,WD,2904,Main Draw,KIHARA Miyuu/JOO Cheonhui (JPN/KOR),JEON Jihee/SHIN Yubin (KOR)
-Singapore Smash 2024,2024-03-14,LIANG Jingkun,HARIMOTO Tomokazu,3,2,"9,12,11,11,11|11,14,5,6,8",R16,GRAND_SLAM,MS,2904,Main Draw,LIANG Jingkun (CHN),HARIMOTO Tomokazu (JPN)
-Singapore Smash 2024,2024-03-14,FAN Zhendong/WANG Chuqin,PANG Yew En Koen/QUEK Izaac,3,1,"9,11,11,11|11,6,7,4",QF,GRAND_SLAM,MD,2904,Main Draw,FAN Zhendong/WANG Chuqin (CHN),PANG Yew En Koen/QUEK Izaac (SGP)
-Singapore Smash 2024,2024-03-14,QIAN Tianyi,PAVADE Prithika,3,0,"11,12,11|2,10,7",R16,GRAND_SLAM,WS,2904,Main Draw,QIAN Tianyi (CHN),PAVADE Prithika (FRA)
-Singapore Smash 2024,2024-03-15,WANG Chuqin,QIU Dang,4,1,"8,11,13,11,13|11,1,11,7,11",QF,GRAND_SLAM,MS,2904,Main Draw,WANG Chuqin (CHN),QIU Dang (GER)
-Singapore Smash 2024,2024-03-15,CHEN Meng,SHIN Yubin,4,1,"11,9,11,11,11|2,11,4,8,8",QF,GRAND_SLAM,WS,2904,Main Draw,CHEN Meng (CHN),SHIN Yubin (KOR)
-Singapore Smash 2024,2024-03-15,LIANG Jingkun,BOLL Timo,4,3,"19,11,7,5,14,7,11|17,6,11,11,12,11,5",QF,GRAND_SLAM,MS,2904,Main Draw,LIANG Jingkun (CHN),BOLL Timo (GER)
-Singapore Smash 2024,2024-03-15,WANG Manyu,ITO Mima,4,2,"9,8,11,11,11,11|11,11,5,7,7,9",QF,GRAND_SLAM,WS,2904,Main Draw,WANG Manyu (CHN),ITO Mima (JPN)
-Singapore Smash 2024,2024-03-15,WANG Chuqin/SUN Yingsha,LIM Jonghoon/SHIN Yubin,3,1,"11,11,9,11|7,8,11,7",F,GRAND_SLAM,XD,2904,Main Draw,WANG Chuqin/SUN Yingsha (CHN),LIM Jonghoon/SHIN Yubin (KOR)
-Singapore Smash 2024,2024-03-15,CHENG I-Ching/LI Yu-Jhun,KIHARA Miyuu/JOO Cheonhui,3,0,"11,11,11|9,7,7",SF,GRAND_SLAM,WD,2904,Main Draw,CHENG I-Ching/LI Yu-Jhun (TPE),KIHARA Miyuu/JOO Cheonhui (JPN/KOR)
-Singapore Smash 2024,2024-03-15,LEBRUN Felix,ACHANTA Sharath Kamal,4,1,"11,11,11,9,11|9,2,7,11,8",QF,GRAND_SLAM,MS,2904,Main Draw,LEBRUN Felix (FRA),ACHANTA Sharath Kamal (IND)
-Singapore Smash 2024,2024-03-15,CHEN Xingtong,SUN Yingsha,4,2,"12,11,6,13,9,11|10,9,11,11,11,8",QF,GRAND_SLAM,WS,2904,Main Draw,CHEN Xingtong (CHN),SUN Yingsha (CHN)
-Singapore Smash 2024,2024-03-15,LIN Yun-Ju,FRANZISKA Patrick,4,1,"11,11,11,9,11|4,5,2,11,4",QF,GRAND_SLAM,MS,2904,Main Draw,LIN Yun-Ju (TPE),FRANZISKA Patrick (GER)
-Singapore Smash 2024,2024-03-15,WANG Yidi,QIAN Tianyi,4,1,"11,11,11,7,14|6,9,7,11,12",QF,GRAND_SLAM,WS,2904,Main Draw,WANG Yidi (CHN),QIAN Tianyi (CHN)
-Singapore Smash 2024,2024-03-15,FAN Zhendong/WANG Chuqin,FALCK Mattias/KALLBERG Anton,3,1,"11,11,10,11|2,3,12,8",SF,GRAND_SLAM,MD,2904,Main Draw,FAN Zhendong/WANG Chuqin (CHN),FALCK Mattias/KALLBERG Anton (SWE)
-Singapore Smash 2024,2024-03-15,CHEN Meng/WANG Manyu,DE NUTTE Sarah/NI Xia Lian,3,1,"11,11,9,11|3,2,11,3",SF,GRAND_SLAM,WD,2904,Main Draw,CHEN Meng/WANG Manyu (CHN),DE NUTTE Sarah/NI Xia Lian (LUX)
-Singapore Smash 2024,2024-03-15,MA Long/LIN Gaoyuan,JANG Woojin/LIM Jonghoon,3,0,"11,11,11|0,0,0",SF,GRAND_SLAM,MD,2904,Main Draw,MA Long/LIN Gaoyuan (CHN),JANG Woojin/LIM Jonghoon (KOR)
-Singapore Smash 2024,2024-03-16,CHEN Meng/WANG Manyu,CHENG I-Ching/LI Yu-Jhun,3,0,"11,11,11|5,6,5",F,GRAND_SLAM,WD,2904,Main Draw,CHEN Meng/WANG Manyu (CHN),CHENG I-Ching/LI Yu-Jhun (TPE)
-Singapore Smash 2024,2024-03-16,WANG Chuqin,LEBRUN Felix,4,1,"11,7,11,11,11|2,11,4,6,8",SF,GRAND_SLAM,MS,2904,Main Draw,WANG Chuqin (CHN),LEBRUN Felix (FRA)
-Singapore Smash 2024,2024-03-16,LIANG Jingkun,LIN Yun-Ju,4,2,"9,11,12,7,11,11|11,9,10,11,6,5",SF,GRAND_SLAM,MS,2904,Main Draw,LIANG Jingkun (CHN),LIN Yun-Ju (TPE)
-Singapore Smash 2024,2024-03-16,WANG Yidi,CHEN Xingtong,4,0,"11,11,11,11|7,9,9,9",SF,GRAND_SLAM,WS,2904,Main Draw,WANG Yidi (CHN),CHEN Xingtong (CHN)
-Singapore Smash 2024,2024-03-16,WANG Manyu,CHEN Meng,4,1,"10,11,11,11,11|12,8,9,9,4",SF,GRAND_SLAM,WS,2904,Main Draw,WANG Manyu (CHN),CHEN Meng (CHN)
-Singapore Smash 2024,2024-03-16,MA Long/LIN Gaoyuan,FAN Zhendong/WANG Chuqin,3,2,"6,11,11,6,14|11,7,9,11,12",F,GRAND_SLAM,MD,2904,Main Draw,MA Long/LIN Gaoyuan (CHN),FAN Zhendong/WANG Chuqin (CHN)
-Singapore Smash 2024,2024-03-17,WANG Chuqin,LIANG Jingkun,4,1,"11,11,13,9,11|6,8,11,11,6",F,GRAND_SLAM,MS,2904,Main Draw,WANG Chuqin (CHN),LIANG Jingkun (CHN)
-Singapore Smash 2024,2024-03-17,WANG Manyu,WANG Yidi,4,1,"11,11,11,7,11|8,5,4,11,1",F,GRAND_SLAM,WS,2904,Main Draw,WANG Manyu (CHN),WANG Yidi (CHN)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Singapore Smash 2024,2024-03-07,BRATEYKO Solomiya,BURGOS Brianna,3,0,"11,11,11|8,7,9",QR1,GRAND_SLAM,WS,2904,Qualification,BRATEYKO Solomiya (UKR),BURGOS Brianna (PUR),BRATEYKO Solomiya
+Singapore Smash 2024,2024-03-07,RASSENFOSSE Adrien,MAJOROS Bence,3,2,"11,8,9,11,11|7,11,11,5,7",QR1,GRAND_SLAM,MS,2904,Qualification,RASSENFOSSE Adrien (BEL),MAJOROS Bence (HUN),RASSENFOSSE Adrien
+Singapore Smash 2024,2024-03-07,REDZIMSKI Milosz,CIFUENTES Horacio,3,1,"11,5,11,11|4,11,8,7",QR1,GRAND_SLAM,MS,2904,Qualification,REDZIMSKI Milosz (POL),CIFUENTES Horacio (ARG),REDZIMSKI Milosz
+Singapore Smash 2024,2024-03-07,CHIEN Tung-Chuan,ARAPOVIC Hana,3,1,"9,12,13,11|11,10,11,9",QR1,GRAND_SLAM,WS,2904,Qualification,CHIEN Tung-Chuan (TPE),ARAPOVIC Hana (CRO),CHIEN Tung-Chuan
+Singapore Smash 2024,2024-03-07,MATELOVA Hana,ZHANG Sofia-Xuan,3,1,"8,11,11,12|11,5,2,10",QR1,GRAND_SLAM,WS,2904,Qualification,MATELOVA Hana (CZE),ZHANG Sofia-Xuan (ESP),MATELOVA Hana
+Singapore Smash 2024,2024-03-07,MONTEIRO Joao,DESAI Harmeet,3,1,"11,11,5,12|6,7,11,10",QR1,GRAND_SLAM,MS,2904,Qualification,MONTEIRO Joao (POR),DESAI Harmeet (IND),MONTEIRO Joao
+Singapore Smash 2024,2024-03-07,MADRID Marcos,LIM Dao Yi,3,1,"12,11,8,11|10,4,11,1",QR1,GRAND_SLAM,MS,2904,Qualification,MADRID Marcos (MEX),LIM Dao Yi (SGP),MADRID Marcos
+Singapore Smash 2024,2024-03-07,PESOTSKA Margaryta,TAN Zhao Yun,3,1,"11,7,11,11|7,11,5,1",QR1,GRAND_SLAM,WS,2904,Qualification,PESOTSKA Margaryta (UKR),TAN Zhao Yun (SGP),PESOTSKA Margaryta
+Singapore Smash 2024,2024-03-07,VIVARELLI Debora,TAKAHASHI Giulia,3,0,"11,11,12|9,5,10",QR1,GRAND_SLAM,WS,2904,Qualification,VIVARELLI Debora (ITA),TAKAHASHI Giulia (BRA),VIVARELLI Debora
+Singapore Smash 2024,2024-03-07,GARDOS Robert,JANCARIK Lubomir,3,1,"7,11,11,13|11,3,5,11",QR1,GRAND_SLAM,MS,2904,Qualification,GARDOS Robert (AUT),JANCARIK Lubomir (CZE),GARDOS Robert
+Singapore Smash 2024,2024-03-07,GOMEZ Gustavo,CHUA Josh Shao Han,3,2,"13,11,4,9,11|11,9,11,11,6",QR1,GRAND_SLAM,MS,2904,Qualification,GOMEZ Gustavo (CHI),CHUA Josh Shao Han (SGP),GOMEZ Gustavo
+Singapore Smash 2024,2024-03-07,WAN Yuan,BALAZOVA Barbora,3,2,"11,11,1,8,17|9,8,11,11,15",QR1,GRAND_SLAM,WS,2904,Qualification,WAN Yuan (GER),BALAZOVA Barbora (SVK),WAN Yuan
+Singapore Smash 2024,2024-03-07,POTA Georgina,LEE Eng Kee,3,0,"11,11,11|6,2,6",QR1,GRAND_SLAM,WS,2904,Qualification,POTA Georgina (HUN),LEE Eng Kee (SGP),POTA Georgina
+Singapore Smash 2024,2024-03-07,LORENZO Santiago,POH Shao Feng Ethan,3,1,"11,7,11,11|7,11,9,7",QR1,GRAND_SLAM,MS,2904,Qualification,LORENZO Santiago (ARG),POH Shao Feng Ethan (SGP),LORENZO Santiago
+Singapore Smash 2024,2024-03-07,PISTEJ Lubomir,KOH Dominic Song Jun,3,0,"11,15,12|7,13,10",QR1,GRAND_SLAM,MS,2904,Qualification,PISTEJ Lubomir (SVK),KOH Dominic Song Jun (SGP),PISTEJ Lubomir
+Singapore Smash 2024,2024-03-07,SURJAN Sabina,SAWETTABUT Jinnipa,3,1,"11,12,12,11|2,10,14,7",QR1,GRAND_SLAM,WS,2904,Qualification,SURJAN Sabina (SRB),SAWETTABUT Jinnipa (THA),SURJAN Sabina
+Singapore Smash 2024,2024-03-07,TODOROVIC Andrea,LAI Chloe,3,1,"11,9,11,11|6,11,4,8",QR1,GRAND_SLAM,WS,2904,Qualification,TODOROVIC Andrea (SRB),LAI Chloe (SGP),TODOROVIC Andrea
+Singapore Smash 2024,2024-03-07,KUBIK Maciej,WANG Yang,3,0,"12,11,11|10,6,7",QR1,GRAND_SLAM,MS,2904,Qualification,KUBIK Maciej (POL),WANG Yang (SVK),KUBIK Maciej
+Singapore Smash 2024,2024-03-07,ZELJKO Filip,ALLEGRO Martin,3,2,"11,11,11,6,11|9,13,8,11,9",QR1,GRAND_SLAM,MS,2904,Qualification,ZELJKO Filip (CRO),ALLEGRO Martin (BEL),ZELJKO Filip
+Singapore Smash 2024,2024-03-07,LOY Ming Ying,ZARIF Audrey,3,1,"11,11,12,11|13,7,10,9",QR1,GRAND_SLAM,WS,2904,Qualification,LOY Ming Ying (SGP),ZARIF Audrey (FRA),LOY Ming Ying
+Singapore Smash 2024,2024-03-07,MALOBABIC Ivana,WEGRZYN Anna,3,1,"5,11,11,11|11,9,7,5",QR1,GRAND_SLAM,WS,2904,Qualification,MALOBABIC Ivana (CRO),WEGRZYN Anna (POL),MALOBABIC Ivana
+Singapore Smash 2024,2024-03-07,THAKKAR Manav Vikash,LAM Siu Hang,3,1,"11,6,15,11|6,11,13,9",QR1,GRAND_SLAM,MS,2904,Qualification,THAKKAR Manav Vikash (IND),LAM Siu Hang (HKG),THAKKAR Manav Vikash
+Singapore Smash 2024,2024-03-07,FENG Yi-Hsin,LAMBIET Florent,3,0,"11,13,11|5,11,8",QR1,GRAND_SLAM,MS,2904,Qualification,FENG Yi-Hsin (TPE),LAMBIET Florent (BEL),FENG Yi-Hsin
+Singapore Smash 2024,2024-03-07,DE NUTTE Sarah,GHORPADE Yashaswini,3,1,"11,11,3,11|8,8,11,4",QR1,GRAND_SLAM,WS,2904,Qualification,DE NUTTE Sarah (LUX),GHORPADE Yashaswini (IND),DE NUTTE Sarah
+Singapore Smash 2024,2024-03-07,LI Yu-Jhun,HURSEY Anna,3,2,"11,11,8,9,11|9,9,11,11,9",QR1,GRAND_SLAM,WS,2904,Qualification,LI Yu-Jhun (TPE),HURSEY Anna (WAL),LI Yu-Jhun
+Singapore Smash 2024,2024-03-07,TANAKA Yuta,BOBOCICA Mihai,3,0,"13,11,12|11,9,10",QR1,GRAND_SLAM,MS,2904,Qualification,TANAKA Yuta (JPN),BOBOCICA Mihai (ITA),TANAKA Yuta
+Singapore Smash 2024,2024-03-07,CHAN Baldwin,DYJAS Jakub,3,2,"11,12,5,9,11|9,10,11,11,6",QR1,GRAND_SLAM,MS,2904,Qualification,CHAN Baldwin (HKG),DYJAS Jakub (POL),CHAN Baldwin
+Singapore Smash 2024,2024-03-07,MADARASZ Dora,ALTINKAYA Sibel,3,0,"11,11,11|5,7,8",QR1,GRAND_SLAM,WS,2904,Qualification,MADARASZ Dora (HUN),ALTINKAYA Sibel (TUR),MADARASZ Dora
+Singapore Smash 2024,2024-03-07,UDA Yukiya,STOYANOV Niagol,3,0,"11,11,11|8,8,4",QR1,GRAND_SLAM,MS,2904,Qualification,UDA Yukiya (JPN),STOYANOV Niagol (ITA),UDA Yukiya
+Singapore Smash 2024,2024-03-07,LUPULESKU Izabela,HUANG Yi-Hua,3,1,"8,11,11,11|11,8,9,8",QR1,GRAND_SLAM,WS,2904,Qualification,LUPULESKU Izabela (SRB),HUANG Yi-Hua (TPE),LUPULESKU Izabela
+Singapore Smash 2024,2024-03-07,LEE Ho Ching,HO Tin-Tin,3,0,"11,11,11|7,1,2",QR1,GRAND_SLAM,WS,2904,Qualification,LEE Ho Ching (HKG),HO Tin-Tin (ENG),LEE Ho Ching
+Singapore Smash 2024,2024-03-07,HUANG Yan-Cheng,HODAEI Amir Hossein,3,2,"11,4,6,11,11|7,11,11,8,9",QR1,GRAND_SLAM,MS,2904,Qualification,HUANG Yan-Cheng (TPE),HODAEI Amir Hossein (IRI),HUANG Yan-Cheng
+Singapore Smash 2024,2024-03-07,LIAO Cheng-Ting,GACINA Andrej,3,1,"9,11,11,11|11,3,4,5",QR1,GRAND_SLAM,MS,2904,Qualification,LIAO Cheng-Ting (TPE),GACINA Andrej (CRO),LIAO Cheng-Ting
+Singapore Smash 2024,2024-03-07,MORET Rachel,TENNISON Reeth,3,0,"11,11,11|5,6,3",QR1,GRAND_SLAM,WS,2904,Qualification,MORET Rachel (SUI),TENNISON Reeth (IND),MORET Rachel
+Singapore Smash 2024,2024-03-07,NG Wing Lam,KAMATH Archana Girish,3,1,"16,11,8,11|14,3,11,9",QR1,GRAND_SLAM,WS,2904,Qualification,NG Wing Lam (HKG),KAMATH Archana Girish (IND),NG Wing Lam
+Singapore Smash 2024,2024-03-07,AKKUZU Can,DIXON Xavier,3,0,"11,11,11|4,9,5",QR1,GRAND_SLAM,MS,2904,Qualification,AKKUZU Can (FRA),DIXON Xavier (AUS),AKKUZU Can
+Singapore Smash 2024,2024-03-07,ROLLAND Jules,LOY Xing Yao,3,0,"11,11,11|5,8,4",QR1,GRAND_SLAM,MS,2904,Qualification,ROLLAND Jules (FRA),LOY Xing Yao (SGP),ROLLAND Jules
+Singapore Smash 2024,2024-03-07,ZHANG Mo,LI Carolyn,3,0,"11,11,11|2,4,3",QR1,GRAND_SLAM,WS,2904,Qualification,ZHANG Mo (CAN),LI Carolyn (FIJ),ZHANG Mo
+Singapore Smash 2024,2024-03-07,TAN Lucas,GONZALEZ Daniel,3,2,"5,10,11,11,11|11,12,7,6,8",QR1,GRAND_SLAM,MS,2904,Qualification,TAN Lucas (SGP),GONZALEZ Daniel (PUR),TAN Lucas
+Singapore Smash 2024,2024-03-07,LIAO Ivy,SILVA Yadira,3,2,"11,11,11,7,11|13,9,6,11,6",QR1,GRAND_SLAM,WS,2904,Qualification,LIAO Ivy (CAN),SILVA Yadira (MEX),LIAO Ivy
+Singapore Smash 2024,2024-03-07,MA Jinbao,JOUTI Eric,3,2,"9,11,2,11,11|11,6,11,9,7",QR1,GRAND_SLAM,MS,2904,Qualification,MA Jinbao (USA),JOUTI Eric (BRA),MA Jinbao
+Singapore Smash 2024,2024-03-07,ZHANG Wanling,LAY Jian Fang,3,2,"7,11,7,13,12|11,7,11,11,10",QR1,GRAND_SLAM,WS,2904,Qualification,ZHANG Wanling (SGP),LAY Jian Fang (AUS),ZHANG Wanling
+Singapore Smash 2024,2024-03-08,DRAGOMAN Andreea,LIAO Ivy,3,0,"11,11,11|4,7,5",QR2,GRAND_SLAM,WS,2904,Qualification,DRAGOMAN Andreea (ROU),LIAO Ivy (CAN),DRAGOMAN Andreea
+Singapore Smash 2024,2024-03-08,ROLLAND Jules,AGUIRRE Marcelo,3,1,"11,11,9,11|4,6,11,7",QR2,GRAND_SLAM,MS,2904,Qualification,ROLLAND Jules (FRA),AGUIRRE Marcelo (PAR),ROLLAND Jules
+Singapore Smash 2024,2024-03-08,CHAN Baldwin,LEVENKO Andreas,3,2,"7,19,11,4,11|11,17,9,11,4",QR2,GRAND_SLAM,MS,2904,Qualification,CHAN Baldwin (HKG),LEVENKO Andreas (AUT),CHAN Baldwin
+Singapore Smash 2024,2024-03-08,MORET Rachel,LUPULESKU Izabela,3,2,"11,6,7,11,11|7,11,11,6,9",QR2,GRAND_SLAM,WS,2904,Qualification,MORET Rachel (SUI),LUPULESKU Izabela (SRB),MORET Rachel
+Singapore Smash 2024,2024-03-08,ZHANG Mo,NG Wing Lam,3,1,"11,5,13,11|5,11,11,7",QR2,GRAND_SLAM,WS,2904,Qualification,ZHANG Mo (CAN),NG Wing Lam (HKG),ZHANG Mo
+Singapore Smash 2024,2024-03-08,BARDET Lilian,LORENZO Santiago,3,1,"11,11,8,11|1,7,11,8",QR2,GRAND_SLAM,MS,2904,Qualification,BARDET Lilian (FRA),LORENZO Santiago (ARG),BARDET Lilian
+Singapore Smash 2024,2024-03-08,KUBIK Maciej,PISTEJ Lubomir,3,1,"11,7,11,11|4,11,8,9",QR2,GRAND_SLAM,MS,2904,Qualification,KUBIK Maciej (POL),PISTEJ Lubomir (SVK),KUBIK Maciej
+Singapore Smash 2024,2024-03-08,VIVARELLI Debora,LOY Ming Ying,3,0,"11,11,11|8,9,4",QR2,GRAND_SLAM,WS,2904,Qualification,VIVARELLI Debora (ITA),LOY Ming Ying (SGP),VIVARELLI Debora
+Singapore Smash 2024,2024-03-08,PESOTSKA Margaryta,MADARASZ Dora,3,2,"5,9,11,16,11|11,11,2,14,7",QR2,GRAND_SLAM,WS,2904,Qualification,PESOTSKA Margaryta (UKR),MADARASZ Dora (HUN),PESOTSKA Margaryta
+Singapore Smash 2024,2024-03-08,UDA Yukiya,TAN Lucas,3,0,"11,11,11|4,4,1",QR2,GRAND_SLAM,MS,2904,Qualification,UDA Yukiya (JPN),TAN Lucas (SGP),UDA Yukiya
+Singapore Smash 2024,2024-03-08,MUKHERJEE Sutirtha,ZHANG Wanling,3,2,"11,11,11,7,11|4,13,9,11,7",QR2,GRAND_SLAM,WS,2904,Qualification,MUKHERJEE Sutirtha (IND),ZHANG Wanling (SGP),MUKHERJEE Sutirtha
+Singapore Smash 2024,2024-03-08,ZELJKO Filip,GOMEZ Gustavo,3,0,"11,11,12|5,7,10",QR2,GRAND_SLAM,MS,2904,Qualification,ZELJKO Filip (CRO),GOMEZ Gustavo (CHI),ZELJKO Filip
+Singapore Smash 2024,2024-03-08,MATELOVA Hana,SURJAN Sabina,3,2,"5,11,11,8,13|11,8,4,11,11",QR2,GRAND_SLAM,WS,2904,Qualification,MATELOVA Hana (CZE),SURJAN Sabina (SRB),MATELOVA Hana
+Singapore Smash 2024,2024-03-08,MADRID Marcos,HUANG Yan-Cheng,3,2,"11,6,11,8,11|3,11,9,11,6",QR2,GRAND_SLAM,MS,2904,Qualification,MADRID Marcos (MEX),HUANG Yan-Cheng (TPE),MADRID Marcos
+Singapore Smash 2024,2024-03-08,LEE Ho Ching,WAN Yuan,3,1,"11,12,12,12|1,10,14,10",QR2,GRAND_SLAM,WS,2904,Qualification,LEE Ho Ching (HKG),WAN Yuan (GER),LEE Ho Ching
+Singapore Smash 2024,2024-03-08,THAKKAR Manav Vikash,AKKUZU Can,3,0,"11,11,11|8,7,8",QR2,GRAND_SLAM,MS,2904,Qualification,THAKKAR Manav Vikash (IND),AKKUZU Can (FRA),THAKKAR Manav Vikash
+Singapore Smash 2024,2024-03-08,ACHANTA Sharath Kamal,ISTRATE Andrei,3,0,"12,11,11|10,8,5",QR1,GRAND_SLAM,MS,2904,Qualification,ACHANTA Sharath Kamal (IND),ISTRATE Andrei (ROU),ACHANTA Sharath Kamal
+Singapore Smash 2024,2024-03-08,LEVENKO Andreas,DIAW Ibrahima,3,0,"11,11,11|8,7,9",QR1,GRAND_SLAM,MS,2904,Qualification,LEVENKO Andreas (AUT),DIAW Ibrahima (SEN),LEVENKO Andreas
+Singapore Smash 2024,2024-03-08,SCHREINER Franziska,LUTZ Charlotte,3,1,"7,11,11,11|11,5,9,8",QR1,GRAND_SLAM,WS,2904,Qualification,SCHREINER Franziska (GER),LUTZ Charlotte (FRA),SCHREINER Franziska
+Singapore Smash 2024,2024-03-08,HANFFOU Sarah,CHENG Janissa,3,0,"11,11,11|4,7,5",QR1,GRAND_SLAM,WS,2904,Qualification,HANFFOU Sarah (CMR),CHENG Janissa (SGP),HANFFOU Sarah
+Singapore Smash 2024,2024-03-08,BARDET Lilian,GNANASEKARAN Sathiyan,3,2,"11,7,8,11,11|8,11,11,9,9",QR1,GRAND_SLAM,MS,2904,Qualification,BARDET Lilian (FRA),GNANASEKARAN Sathiyan (IND),BARDET Lilian
+Singapore Smash 2024,2024-03-08,HABESOHN Daniel,GIONIS Panagiotis,3,0,"11,13,11|6,11,5",QR1,GRAND_SLAM,MS,2904,Qualification,HABESOHN Daniel (AUT),GIONIS Panagiotis (GRE),HABESOHN Daniel
+Singapore Smash 2024,2024-03-08,KALLBERG Christina,MASSART Lilou,3,0,"11,11,11|2,9,6",QR1,GRAND_SLAM,WS,2904,Qualification,KALLBERG Christina (SWE),MASSART Lilou (BEL),KALLBERG Christina
+Singapore Smash 2024,2024-03-08,ZAHARIA Elena,MONFARDINI Gaia,3,1,"7,11,11,11|11,6,7,2",QR1,GRAND_SLAM,WS,2904,Qualification,ZAHARIA Elena (ROU),MONFARDINI Gaia (ITA),ZAHARIA Elena
+Singapore Smash 2024,2024-03-08,OLAH Benedek,DRINKHALL Paul,3,2,"4,11,11,13,11|11,8,3,15,4",QR1,GRAND_SLAM,MS,2904,Qualification,OLAH Benedek (FIN),DRINKHALL Paul (ENG),OLAH Benedek
+Singapore Smash 2024,2024-03-08,YOSHIMURA Maharu,NUYTINCK Cedric,3,0,"11,11,11|7,8,8",QR1,GRAND_SLAM,MS,2904,Qualification,YOSHIMURA Maharu (JPN),NUYTINCK Cedric (BEL),YOSHIMURA Maharu
+Singapore Smash 2024,2024-03-08,SINGEORZAN Ioana,PICCOLIN Giorgia,3,2,"8,15,5,11,11|11,13,11,7,9",QR1,GRAND_SLAM,WS,2904,Qualification,SINGEORZAN Ioana (ROU),PICCOLIN Giorgia (ITA),SINGEORZAN Ioana
+Singapore Smash 2024,2024-03-08,LUTZ Camille,WEGRZYN Katarzyna,3,1,"11,9,11,11|7,11,8,9",QR1,GRAND_SLAM,WS,2904,Qualification,LUTZ Camille (FRA),WEGRZYN Katarzyna (POL),LUTZ Camille
+Singapore Smash 2024,2024-03-08,KOZUL Deni,TEODORO Guilherme,3,1,"11,6,11,11|8,11,5,5",QR1,GRAND_SLAM,MS,2904,Qualification,KOZUL Deni (SLO),TEODORO Guilherme (BRA),KOZUL Deni
+Singapore Smash 2024,2024-03-08,IONESCU Eduard,ISHIY Vitor,3,2,"11,5,11,8,11|5,11,5,11,9",QR1,GRAND_SLAM,MS,2904,Qualification,IONESCU Eduard (ROU),ISHIY Vitor (BRA),IONESCU Eduard
+Singapore Smash 2024,2024-03-08,KUKULKOVA Tatiana,HAPONOVA Hanna,3,2,"5,5,12,11,11|11,11,10,6,9",QR1,GRAND_SLAM,WS,2904,Qualification,KUKULKOVA Tatiana (SVK),HAPONOVA Hanna (UKR),KUKULKOVA Tatiana
+Singapore Smash 2024,2024-03-08,LAM Yee Lok,COSSIO ACEVES Arantxa,3,0,"11,11,11|8,9,9",QR1,GRAND_SLAM,WS,2904,Qualification,LAM Yee Lok (HKG),COSSIO ACEVES Arantxa (MEX),LAM Yee Lok
+Singapore Smash 2024,2024-03-08,MINO Alberto,PEREIRA Andy,3,2,"3,12,11,10,11|11,10,9,12,4",QR1,GRAND_SLAM,MS,2904,Qualification,MINO Alberto (ECU),PEREIRA Andy (CUB),MINO Alberto
+Singapore Smash 2024,2024-03-08,AGUIRRE Marcelo,LIANG Jishan,3,0,"11,11,11|8,8,1",QR1,GRAND_SLAM,MS,2904,Qualification,AGUIRRE Marcelo (PAR),LIANG Jishan (USA),AGUIRRE Marcelo
+Singapore Smash 2024,2024-03-08,VEGA Paulina,DIAZ Melanie,3,1,"11,10,11,11|7,12,7,7",QR1,GRAND_SLAM,WS,2904,Qualification,VEGA Paulina (CHI),DIAZ Melanie (PUR),VEGA Paulina
+Singapore Smash 2024,2024-03-08,MUKHERJEE Sutirtha,CODINA Ana,3,1,"11,9,11,11|7,11,6,6",QR1,GRAND_SLAM,WS,2904,Qualification,MUKHERJEE Sutirtha (IND),CODINA Ana (ARG),MUKHERJEE Sutirtha
+Singapore Smash 2024,2024-03-08,IONESCU Ovidiu,AFANADOR Brian,3,1,"11,11,5,11|3,6,11,3",QR1,GRAND_SLAM,MS,2904,Qualification,IONESCU Ovidiu (ROU),AFANADOR Brian (PUR),IONESCU Ovidiu
+Singapore Smash 2024,2024-03-09,ACHANTA Sharath Kamal,KOZUL Deni,3,1,"11,11,11,11|8,13,9,6",QR3,GRAND_SLAM,MS,2904,Qualification,ACHANTA Sharath Kamal (IND),KOZUL Deni (SLO),ACHANTA Sharath Kamal
+Singapore Smash 2024,2024-03-09,LI Yu-Jhun,MORET Rachel,3,1,"11,8,11,11|8,11,6,3",QR3,GRAND_SLAM,WS,2904,Qualification,LI Yu-Jhun (TPE),MORET Rachel (SUI),LI Yu-Jhun
+Singapore Smash 2024,2024-03-09,VIVARELLI Debora,BRATEYKO Solomiya,3,2,"7,11,11,19,13|11,8,9,21,11",QR3,GRAND_SLAM,WS,2904,Qualification,VIVARELLI Debora (ITA),BRATEYKO Solomiya (UKR),VIVARELLI Debora
+Singapore Smash 2024,2024-03-09,ZELJKO Filip,MONTEIRO Joao,3,2,"8,11,5,11,11|11,7,11,8,9",QR3,GRAND_SLAM,MS,2904,Qualification,ZELJKO Filip (CRO),MONTEIRO Joao (POR),ZELJKO Filip
+Singapore Smash 2024,2024-03-09,YOSHIMURA Maharu,BARDET Lilian,3,1,"11,7,12,11|9,11,10,9",QR3,GRAND_SLAM,MS,2904,Qualification,YOSHIMURA Maharu (JPN),BARDET Lilian (FRA),YOSHIMURA Maharu
+Singapore Smash 2024,2024-03-09,POTA Georgina,KUKULKOVA Tatiana,3,1,"11,11,8,11|4,3,11,8",QR3,GRAND_SLAM,WS,2904,Qualification,POTA Georgina (HUN),KUKULKOVA Tatiana (SVK),POTA Georgina
+Singapore Smash 2024,2024-03-09,CHIEN Tung-Chuan,MALOBABIC Ivana,3,2,"11,11,11,6,11|9,13,6,11,4",QR3,GRAND_SLAM,WS,2904,Qualification,CHIEN Tung-Chuan (TPE),MALOBABIC Ivana (CRO),CHIEN Tung-Chuan
+Singapore Smash 2024,2024-03-09,FENG Yi-Hsin,ROLLAND Jules,3,1,"12,11,8,12|10,4,11,10",QR3,GRAND_SLAM,MS,2904,Qualification,FENG Yi-Hsin (TPE),ROLLAND Jules (FRA),FENG Yi-Hsin
+Singapore Smash 2024,2024-03-09,HABESOHN Daniel,MADRID Marcos,3,0,"14,11,11|12,3,5",QR3,GRAND_SLAM,MS,2904,Qualification,HABESOHN Daniel (AUT),MADRID Marcos (MEX),HABESOHN Daniel
+Singapore Smash 2024,2024-03-09,MATELOVA Hana,KALLBERG Christina,3,0,"14,11,11|12,5,8",QR3,GRAND_SLAM,WS,2904,Qualification,MATELOVA Hana (CZE),KALLBERG Christina (SWE),MATELOVA Hana
+Singapore Smash 2024,2024-03-09,LEE Ho Ching,SINGEORZAN Ioana,3,2,"11,7,9,11,11|5,11,11,9,5",QR3,GRAND_SLAM,WS,2904,Qualification,LEE Ho Ching (HKG),SINGEORZAN Ioana (ROU),LEE Ho Ching
+Singapore Smash 2024,2024-03-09,IONESCU Ovidiu,CHAN Baldwin,3,0,"11,11,11|9,6,9",QR3,GRAND_SLAM,MS,2904,Qualification,IONESCU Ovidiu (ROU),CHAN Baldwin (HKG),IONESCU Ovidiu
+Singapore Smash 2024,2024-03-09,PESOTSKA Margaryta,ZHANG Mo,3,0,"11,11,11|2,7,6",QR3,GRAND_SLAM,WS,2904,Qualification,PESOTSKA Margaryta (UKR),ZHANG Mo (CAN),PESOTSKA Margaryta
+Singapore Smash 2024,2024-03-09,REDZIMSKI Milosz,UDA Yukiya,3,0,"11,11,11|2,0,0",QR3,GRAND_SLAM,MS,2904,Qualification,REDZIMSKI Milosz (POL),UDA Yukiya (JPN),REDZIMSKI Milosz
+Singapore Smash 2024,2024-03-09,KUBIK Maciej,THAKKAR Manav Vikash,3,1,"12,11,12,12|14,5,10,10",QR3,GRAND_SLAM,MS,2904,Qualification,KUBIK Maciej (POL),THAKKAR Manav Vikash (IND),KUBIK Maciej
+Singapore Smash 2024,2024-03-09,MUKHERJEE Sutirtha,DRAGOMAN Andreea,3,1,"8,11,13,11|11,8,11,6",QR3,GRAND_SLAM,WS,2904,Qualification,MUKHERJEE Sutirtha (IND),DRAGOMAN Andreea (ROU),MUKHERJEE Sutirtha
+Singapore Smash 2024,2024-03-09,POTA Georgina,TODOROVIC Andrea,3,2,"11,9,13,7,11|2,11,11,11,5",QR2,GRAND_SLAM,WS,2904,Qualification,POTA Georgina (HUN),TODOROVIC Andrea (SRB),POTA Georgina
+Singapore Smash 2024,2024-03-09,KOZUL Deni,LIAO Cheng-Ting,3,1,"8,11,12,11|11,2,10,9",QR2,GRAND_SLAM,MS,2904,Qualification,KOZUL Deni (SLO),LIAO Cheng-Ting (TPE),KOZUL Deni
+Singapore Smash 2024,2024-03-09,MONTEIRO Joao,OLAH Benedek,3,0,"11,11,11|8,3,7",QR2,GRAND_SLAM,MS,2904,Qualification,MONTEIRO Joao (POR),OLAH Benedek (FIN),MONTEIRO Joao
+Singapore Smash 2024,2024-03-09,KUKULKOVA Tatiana,LUTZ Camille,3,0,"11,11,11|5,6,4",QR2,GRAND_SLAM,WS,2904,Qualification,KUKULKOVA Tatiana (SVK),LUTZ Camille (FRA),KUKULKOVA Tatiana
+Singapore Smash 2024,2024-03-09,ACHANTA Sharath Kamal,TANAKA Yuta,3,0,"11,11,11|8,9,6",QR2,GRAND_SLAM,MS,2904,Qualification,ACHANTA Sharath Kamal (IND),TANAKA Yuta (JPN),ACHANTA Sharath Kamal
+Singapore Smash 2024,2024-03-09,BRATEYKO Solomiya,SCHREINER Franziska,3,1,"10,11,11,11|12,2,2,4",QR2,GRAND_SLAM,WS,2904,Qualification,BRATEYKO Solomiya (UKR),SCHREINER Franziska (GER),BRATEYKO Solomiya
+Singapore Smash 2024,2024-03-09,MALOBABIC Ivana,HANFFOU Sarah,3,0,"11,11,11|5,5,7",QR2,GRAND_SLAM,WS,2904,Qualification,MALOBABIC Ivana (CRO),HANFFOU Sarah (CMR),MALOBABIC Ivana
+Singapore Smash 2024,2024-03-09,FENG Yi-Hsin,IONESCU Eduard,3,1,"11,5,11,11|6,11,5,6",QR2,GRAND_SLAM,MS,2904,Qualification,FENG Yi-Hsin (TPE),IONESCU Eduard (ROU),FENG Yi-Hsin
+Singapore Smash 2024,2024-03-09,YOSHIMURA Maharu,RASSENFOSSE Adrien,3,1,"11,12,12,11|4,14,10,5",QR2,GRAND_SLAM,MS,2904,Qualification,YOSHIMURA Maharu (JPN),RASSENFOSSE Adrien (BEL),YOSHIMURA Maharu
+Singapore Smash 2024,2024-03-09,KALLBERG Christina,DE NUTTE Sarah,3,0,"17,11,11|15,4,4",QR2,GRAND_SLAM,WS,2904,Qualification,KALLBERG Christina (SWE),DE NUTTE Sarah (LUX),KALLBERG Christina
+Singapore Smash 2024,2024-03-09,SINGEORZAN Ioana,LAM Yee Lok,3,1,"13,11,9,11|11,9,11,9",QR2,GRAND_SLAM,WS,2904,Qualification,SINGEORZAN Ioana (ROU),LAM Yee Lok (HKG),SINGEORZAN Ioana
+Singapore Smash 2024,2024-03-09,HABESOHN Daniel,GARDOS Robert,3,0,"11,11,11|7,7,5",QR2,GRAND_SLAM,MS,2904,Qualification,HABESOHN Daniel (AUT),GARDOS Robert (AUT),HABESOHN Daniel
+Singapore Smash 2024,2024-03-09,IONESCU Ovidiu,MA Jinbao,3,2,"11,11,8,5,11|5,4,11,11,8",QR2,GRAND_SLAM,MS,2904,Qualification,IONESCU Ovidiu (ROU),MA Jinbao (USA),IONESCU Ovidiu
+Singapore Smash 2024,2024-03-09,CHIEN Tung-Chuan,VEGA Paulina,3,0,"11,12,11|5,10,7",QR2,GRAND_SLAM,WS,2904,Qualification,CHIEN Tung-Chuan (TPE),VEGA Paulina (CHI),CHIEN Tung-Chuan
+Singapore Smash 2024,2024-03-09,REDZIMSKI Milosz,MINO Alberto,3,2,"11,11,8,9,11|8,4,11,11,5",QR2,GRAND_SLAM,MS,2904,Qualification,REDZIMSKI Milosz (POL),MINO Alberto (ECU),REDZIMSKI Milosz
+Singapore Smash 2024,2024-03-09,LI Yu-Jhun,ZAHARIA Elena,3,1,"11,11,9,12|7,6,11,10",QR2,GRAND_SLAM,WS,2904,Qualification,LI Yu-Jhun (TPE),ZAHARIA Elena (ROU),LI Yu-Jhun
+Singapore Smash 2024,2024-03-10,QUEK Izaac/ZHOU Jingyi,LAM Siu Hang/KUKULKOVA Tatiana,3,0,"11,11,11|9,9,1",R32,GRAND_SLAM,XD,2904,Main Draw,QUEK Izaac/ZHOU Jingyi (SGP),LAM Siu Hang/KUKULKOVA Tatiana (HKG/SVK),QUEK Izaac/ZHOU Jingyi
+Singapore Smash 2024,2024-03-10,GARDOS Robert/POLCANOVA Sofia,PANG Yew En Koen/WONG Xin Ru,3,2,"3,11,11,9,11|11,9,8,11,9",R32,GRAND_SLAM,XD,2904,Main Draw,GARDOS Robert/POLCANOVA Sofia (AUT),PANG Yew En Koen/WONG Xin Ru (SGP),GARDOS Robert/POLCANOVA Sofia
+Singapore Smash 2024,2024-03-10,SHAN Xiaona,ZENG Jian,3,2,"6,11,9,11,11|11,9,11,8,6",R64,GRAND_SLAM,WS,2904,Main Draw,SHAN Xiaona (GER),ZENG Jian (SGP),SHAN Xiaona
+Singapore Smash 2024,2024-03-10,KARLSSON Kristian/KALLBERG Christina,BURGOS Nicolas/VEGA Paulina,3,0,"11,11,11|2,3,6",R32,GRAND_SLAM,XD,2904,Main Draw,KARLSSON Kristian/KALLBERG Christina (SWE),BURGOS Nicolas/VEGA Paulina (CHI),KARLSSON Kristian/KALLBERG Christina
+Singapore Smash 2024,2024-03-10,FALCK Mattias,OH Junsung,3,2,"11,6,11,6,11|8,11,8,11,8",R64,GRAND_SLAM,MS,2904,Main Draw,FALCK Mattias (SWE),OH Junsung (KOR),FALCK Mattias
+Singapore Smash 2024,2024-03-10,SAMARA Elizabeta,TAKAHASHI Bruna,3,1,"10,11,11,11|12,8,7,8",R64,GRAND_SLAM,WS,2904,Main Draw,SAMARA Elizabeta (ROU),TAKAHASHI Bruna (BRA),SAMARA Elizabeta
+Singapore Smash 2024,2024-03-10,MA Long,LEBRUN Alexis,3,1,"11,9,12,11|7,11,10,4",R64,GRAND_SLAM,MS,2904,Main Draw,MA Long (CHN),LEBRUN Alexis (FRA),MA Long
+Singapore Smash 2024,2024-03-10,OVTCHAROV Dimitrij,PUCAR Tomislav,3,1,"14,9,12,11|12,11,10,8",R64,GRAND_SLAM,MS,2904,Main Draw,OVTCHAROV Dimitrij (GER),PUCAR Tomislav (CRO),OVTCHAROV Dimitrij
+Singapore Smash 2024,2024-03-10,JEON Jihee,ZHU Chengzhu,3,0,"11,12,11|7,10,6",R64,GRAND_SLAM,WS,2904,Main Draw,JEON Jihee (KOR),ZHU Chengzhu (HKG),JEON Jihee
+Singapore Smash 2024,2024-03-10,WINTER Sabine,WONG Xin Ru,3,1,"11,8,11,11|8,11,3,8",R64,GRAND_SLAM,WS,2904,Main Draw,WINTER Sabine (GER),WONG Xin Ru (SGP),WINTER Sabine
+Singapore Smash 2024,2024-03-10,ECSEKI Nandor/MADARASZ Dora,LEVAJAC Dimitrije/LUPULESKU Izabela,3,0,"11,11,11|5,7,9",R32,GRAND_SLAM,XD,2904,Main Draw,ECSEKI Nandor/MADARASZ Dora (HUN),LEVAJAC Dimitrije/LUPULESKU Izabela (SRB),ECSEKI Nandor/MADARASZ Dora
+Singapore Smash 2024,2024-03-10,MLADENOVIC Luka/NI Xia Lian,KOH Dominic Song Jun/SER Lin Qian,3,0,"11,11,11|6,7,5",R32,GRAND_SLAM,XD,2904,Main Draw,MLADENOVIC Luka/NI Xia Lian (LUX),KOH Dominic Song Jun/SER Lin Qian (SGP),MLADENOVIC Luka/NI Xia Lian
+Singapore Smash 2024,2024-03-10,HABESOHN Daniel,PANG Yew En Koen,3,0,"11,11,11|4,6,7",R64,GRAND_SLAM,MS,2904,Main Draw,HABESOHN Daniel (AUT),PANG Yew En Koen (SGP),HABESOHN Daniel
+Singapore Smash 2024,2024-03-10,KIM Nayeong,BERGSTROM Linda,3,2,"6,10,11,12,11|11,12,9,10,2",R64,GRAND_SLAM,WS,2904,Main Draw,KIM Nayeong (KOR),BERGSTROM Linda (SWE),KIM Nayeong
+Singapore Smash 2024,2024-03-10,LIANG Jingkun,APOLONIA Tiago,3,0,"11,11,11|4,7,9",R64,GRAND_SLAM,MS,2904,Main Draw,LIANG Jingkun (CHN),APOLONIA Tiago (POR),LIANG Jingkun
+Singapore Smash 2024,2024-03-10,CHEN Meng,NAGASAKI Miyu,3,0,"11,11,11|5,6,5",R64,GRAND_SLAM,WS,2904,Main Draw,CHEN Meng (CHN),NAGASAKI Miyu (JPN),CHEN Meng
+Singapore Smash 2024,2024-03-10,HIRANO Miu,HAYATA Hina,3,0,"11,13,11|8,11,7",R64,GRAND_SLAM,WS,2904,Main Draw,HIRANO Miu (JPN),HAYATA Hina (JPN),HIRANO Miu
+Singapore Smash 2024,2024-03-10,FRANZISKA Patrick,GAUZY Simon,3,2,"11,11,7,5,11|8,3,11,11,5",R64,GRAND_SLAM,MS,2904,Main Draw,FRANZISKA Patrick (GER),GAUZY Simon (FRA),FRANZISKA Patrick
+Singapore Smash 2024,2024-03-10,DUDA Benedikt,FREITAS Marcos,3,2,"11,11,9,6,11|9,9,11,11,6",R64,GRAND_SLAM,MS,2904,Main Draw,DUDA Benedikt (GER),FREITAS Marcos (POR),DUDA Benedikt
+Singapore Smash 2024,2024-03-10,SHIN Yubin,LEE Ho Ching,3,0,"11,12,11|1,10,6",R64,GRAND_SLAM,WS,2904,Main Draw,SHIN Yubin (KOR),LEE Ho Ching (HKG),SHIN Yubin
+Singapore Smash 2024,2024-03-10,CHEW Zhe Yu Clarence/ZENG Jian,SAREEN Aditya/LIU Yangzi,3,0,"12,11,12|10,8,10",R32,GRAND_SLAM,XD,2904,Main Draw,CHEW Zhe Yu Clarence/ZENG Jian (SGP),SAREEN Aditya/LIU Yangzi (AUS),CHEW Zhe Yu Clarence/ZENG Jian
+Singapore Smash 2024,2024-03-10,JOO Cheonhui,PESOTSKA Margaryta,3,1,"11,4,11,11|5,11,3,9",R64,GRAND_SLAM,WS,2904,Main Draw,JOO Cheonhui (KOR),PESOTSKA Margaryta (UKR),JOO Cheonhui
+Singapore Smash 2024,2024-03-10,HARIMOTO Tomokazu,FILUS Ruwen,3,1,"11,8,11,11|9,11,8,6",R64,GRAND_SLAM,MS,2904,Main Draw,HARIMOTO Tomokazu (JPN),FILUS Ruwen (GER),HARIMOTO Tomokazu
+Singapore Smash 2024,2024-03-10,GROTH Jonathan,ALAMIYAN Noshad,3,1,"13,9,11,11|11,11,8,2",R64,GRAND_SLAM,MS,2904,Main Draw,GROTH Jonathan (DEN),ALAMIYAN Noshad (IRI),GROTH Jonathan
+Singapore Smash 2024,2024-03-10,LIN Shidong,AN Jaehyun,3,1,"11,11,8,11|6,8,11,7",R64,GRAND_SLAM,MS,2904,Main Draw,LIN Shidong (CHN),AN Jaehyun (KOR),LIN Shidong
+Singapore Smash 2024,2024-03-10,ITO Mima,NI Xia Lian,3,0,"11,11,11|4,9,6",R64,GRAND_SLAM,WS,2904,Main Draw,ITO Mima (JPN),NI Xia Lian (LUX),ITO Mima
+Singapore Smash 2024,2024-03-10,SHAO Jieni,MITTELHAM Nina,3,2,"7,7,12,11,11|11,11,10,9,7",R64,GRAND_SLAM,WS,2904,Main Draw,SHAO Jieni (POR),MITTELHAM Nina (GER),SHAO Jieni
+Singapore Smash 2024,2024-03-10,FAN Zhendong,LUU Finn,3,0,"11,11,11|8,9,5",R64,GRAND_SLAM,MS,2904,Main Draw,FAN Zhendong (CHN),LUU Finn (AUS),FAN Zhendong
+Singapore Smash 2024,2024-03-10,EERLAND Britt,LIU Hsing-Yin,3,1,"11,8,11,12|9,11,4,10",R64,GRAND_SLAM,WS,2904,Main Draw,EERLAND Britt (NED),LIU Hsing-Yin (TPE),EERLAND Britt
+Singapore Smash 2024,2024-03-10,WANG Manyu,AKULA Sreeja,3,2,"11,9,11,8,11|6,11,5,11,8",R64,GRAND_SLAM,WS,2904,Main Draw,WANG Manyu (CHN),AKULA Sreeja (IND),WANG Manyu
+Singapore Smash 2024,2024-03-10,ISHIY Vitor/TAKAHASHI Bruna,GNANASEKARAN Sathiyan/BATRA Manika,3,2,"11,9,7,11,11|8,11,11,9,8",R32,GRAND_SLAM,XD,2904,Main Draw,ISHIY Vitor/TAKAHASHI Bruna (BRA),GNANASEKARAN Sathiyan/BATRA Manika (IND),ISHIY Vitor/TAKAHASHI Bruna
+Singapore Smash 2024,2024-03-10,LIU Yangzi,DIACONU Adina,3,2,"11,12,10,9,11|5,10,12,11,9",R64,GRAND_SLAM,WS,2904,Main Draw,LIU Yangzi (AUS),DIACONU Adina (ROU),LIU Yangzi
+Singapore Smash 2024,2024-03-10,ROBLES Alvaro,REDZIMSKI Milosz,3,1,"11,14,11,11|4,12,13,4",R64,GRAND_SLAM,MS,2904,Main Draw,ROBLES Alvaro (ESP),REDZIMSKI Milosz (POL),ROBLES Alvaro
+Singapore Smash 2024,2024-03-10,LIN Yun-Ju,GERASSIMENKO Kirill,3,1,"11,9,15,11|7,11,13,2",R64,GRAND_SLAM,MS,2904,Main Draw,LIN Yun-Ju (TPE),GERASSIMENKO Kirill (KAZ),LIN Yun-Ju
+Singapore Smash 2024,2024-03-10,LEBRUN Alexis/YUAN Jia Nan,PISTEJ Lubomir/BALAZOVA Barbora,3,0,"11,11,11|7,4,6",R32,GRAND_SLAM,XD,2904,Main Draw,LEBRUN Alexis/YUAN Jia Nan (FRA),PISTEJ Lubomir/BALAZOVA Barbora (SVK),LEBRUN Alexis/YUAN Jia Nan
+Singapore Smash 2024,2024-03-10,KALLBERG Anton,LY Edward,3,0,"11,11,11|3,7,6",R64,GRAND_SLAM,MS,2904,Main Draw,KALLBERG Anton (SWE),LY Edward (CAN),KALLBERG Anton
+Singapore Smash 2024,2024-03-10,YANG Xiaoxin,MUKHERJEE Sutirtha,3,2,"11,7,11,9,12|4,11,9,11,10",R64,GRAND_SLAM,WS,2904,Main Draw,YANG Xiaoxin (MON),MUKHERJEE Sutirtha (IND),YANG Xiaoxin
+Singapore Smash 2024,2024-03-10,FENG Yi-Hsin,ZELJKO Filip,3,0,"11,13,11|8,11,9",R64,GRAND_SLAM,MS,2904,Main Draw,FENG Yi-Hsin (TPE),ZELJKO Filip (CRO),FENG Yi-Hsin
+Singapore Smash 2024,2024-03-10,POTA Georgina,JEE Minhyung,3,2,"11,11,11,9,12|6,13,6,11,10",R64,GRAND_SLAM,WS,2904,Main Draw,POTA Georgina (HUN),JEE Minhyung (AUS),POTA Georgina
+Singapore Smash 2024,2024-03-10,IONESCU Ovidiu,SAREEN Aditya,3,1,"11,11,7,11|7,1,11,4",R64,GRAND_SLAM,MS,2904,Main Draw,IONESCU Ovidiu (ROU),SAREEN Aditya (AUS),IONESCU Ovidiu
+Singapore Smash 2024,2024-03-11,BERGSTROM Linda/KALLBERG Christina,WONG Xin Ru/SER Lin Qian,3,0,"11,11,11|6,6,7",R32,GRAND_SLAM,WD,2904,Main Draw,BERGSTROM Linda/KALLBERG Christina (SWE),WONG Xin Ru/SER Lin Qian (SGP),BERGSTROM Linda/KALLBERG Christina
+Singapore Smash 2024,2024-03-11,POLCANOVA Sofia,MESHREF Dina,3,0,"11,13,11|7,11,4",R64,GRAND_SLAM,WS,2904,Main Draw,POLCANOVA Sofia (AUT),MESHREF Dina (EGY),POLCANOVA Sofia
+Singapore Smash 2024,2024-03-11,BOLL Timo,CHEW Zhe Yu Clarence,3,1,"11,9,11,11|5,11,6,5",R64,GRAND_SLAM,MS,2904,Main Draw,BOLL Timo (GER),CHEW Zhe Yu Clarence (SGP),BOLL Timo
+Singapore Smash 2024,2024-03-11,KARLSSON Kristian,JANG Woojin,3,1,"11,14,5,11|9,12,11,8",R64,GRAND_SLAM,MS,2904,Main Draw,KARLSSON Kristian (SWE),JANG Woojin (KOR),KARLSSON Kristian
+Singapore Smash 2024,2024-03-11,PITCHFORD Liam,SALEH Ahmed,3,0,"12,11,11|10,3,8",R64,GRAND_SLAM,MS,2904,Main Draw,PITCHFORD Liam (ENG),SALEH Ahmed (EGY),PITCHFORD Liam
+Singapore Smash 2024,2024-03-11,SUN Yingsha,YUAN Jia Nan,3,0,"11,11,11|3,6,8",R64,GRAND_SLAM,WS,2904,Main Draw,SUN Yingsha (CHN),YUAN Jia Nan (FRA),SUN Yingsha
+Singapore Smash 2024,2024-03-11,SAWETTABUT Suthasini,SZOCS Bernadette,3,1,"6,11,11,11|11,9,8,6",R64,GRAND_SLAM,WS,2904,Main Draw,SAWETTABUT Suthasini (THA),SZOCS Bernadette (ROU),SAWETTABUT Suthasini
+Singapore Smash 2024,2024-03-11,LUTZ Camille/PAVADE Prithika,TAKAHASHI Bruna/TAKAHASHI Giulia,3,1,"11,11,11,11|13,5,6,3",R32,GRAND_SLAM,WD,2904,Main Draw,LUTZ Camille/PAVADE Prithika (FRA),TAKAHASHI Bruna/TAKAHASHI Giulia (BRA),LUTZ Camille/PAVADE Prithika
+Singapore Smash 2024,2024-03-11,ASSAR Omar,QUEK Izaac,3,1,"3,11,11,11|11,5,7,4",R64,GRAND_SLAM,MS,2904,Main Draw,ASSAR Omar (EGY),QUEK Izaac (SGP),ASSAR Omar
+Singapore Smash 2024,2024-03-11,SHINOZUKA Hiroto/TOGAMI Shunsuke,SHAH Manush Utpalbhai/THAKKAR Manav Vikash,3,0,"11,11,11|7,4,8",R32,GRAND_SLAM,MD,2904,Main Draw,SHINOZUKA Hiroto/TOGAMI Shunsuke (JPN),SHAH Manush Utpalbhai/THAKKAR Manav Vikash (IND),SHINOZUKA Hiroto/TOGAMI Shunsuke
+Singapore Smash 2024,2024-03-11,CHUA Josh Shao Han/TAN Lucas,MINO Alberto/MADRID Marcos,3,1,"11,7,11,11|9,11,3,4",R32,GRAND_SLAM,MD,2904,Main Draw,CHUA Josh Shao Han/TAN Lucas (SGP),MINO Alberto/MADRID Marcos (ECU/MEX),CHUA Josh Shao Han/TAN Lucas
+Singapore Smash 2024,2024-03-11,HARIMOTO Miwa,ZHANG Lily,3,1,"11,7,11,11|6,11,6,7",R64,GRAND_SLAM,WS,2904,Main Draw,HARIMOTO Miwa (JPN),ZHANG Lily (USA),HARIMOTO Miwa
+Singapore Smash 2024,2024-03-11,KIHARA Miyuu/JOO Cheonhui,LOY Ming Ying/LAI Chloe,3,0,"11,13,11|2,11,6",R32,GRAND_SLAM,WD,2904,Main Draw,KIHARA Miyuu/JOO Cheonhui (JPN/KOR),LOY Ming Ying/LAI Chloe (SGP),KIHARA Miyuu/JOO Cheonhui
+Singapore Smash 2024,2024-03-11,XIAO Maria,WANG Amy,3,0,"13,11,11|11,7,4",R64,GRAND_SLAM,WS,2904,Main Draw,XIAO Maria (ESP),WANG Amy (USA),XIAO Maria
+Singapore Smash 2024,2024-03-11,CHO Daeseong,CALDERANO Hugo,3,1,"11,11,7,12|6,7,11,10",R64,GRAND_SLAM,MS,2904,Main Draw,CHO Daeseong (KOR),CALDERANO Hugo (BRA),CHO Daeseong
+Singapore Smash 2024,2024-03-11,LEBRUN Felix,MATSUSHIMA Sora,3,2,"11,7,11,4,11|5,11,6,11,9",R64,GRAND_SLAM,MS,2904,Main Draw,LEBRUN Felix (FRA),MATSUSHIMA Sora (JPN),LEBRUN Felix
+Singapore Smash 2024,2024-03-11,ARUNA Quadri,LIM Jonghoon,3,2,"11,4,7,11,14|8,11,11,9,12",R64,GRAND_SLAM,MS,2904,Main Draw,ARUNA Quadri (NGR),LIM Jonghoon (KOR),ARUNA Quadri
+Singapore Smash 2024,2024-03-11,QIAN Tianyi,GODA Hana,3,0,"11,11,13|4,9,11",R64,GRAND_SLAM,WS,2904,Main Draw,QIAN Tianyi (CHN),GODA Hana (EGY),QIAN Tianyi
+Singapore Smash 2024,2024-03-11,MOREGARD Truls,TOGAMI Shunsuke,3,1,"11,11,11,11|13,8,6,7",R64,GRAND_SLAM,MS,2904,Main Draw,MOREGARD Truls (SWE),TOGAMI Shunsuke (JPN),MOREGARD Truls
+Singapore Smash 2024,2024-03-11,DIAZ Adriana,MATELOVA Hana,3,2,"11,5,11,4,11|5,11,9,11,7",R64,GRAND_SLAM,WS,2904,Main Draw,DIAZ Adriana (PUR),MATELOVA Hana (CZE),DIAZ Adriana
+Singapore Smash 2024,2024-03-11,LAM Siu Hang/HO Kwan Kit,CHEW Zhe Yu Clarence/POH Shao Feng Ethan,3,0,"11,11,11|7,6,8",R32,GRAND_SLAM,MD,2904,Main Draw,LAM Siu Hang/HO Kwan Kit (HKG),CHEW Zhe Yu Clarence/POH Shao Feng Ethan (SGP),LAM Siu Hang/HO Kwan Kit
+Singapore Smash 2024,2024-03-11,JORGIC Darko,KUBIK Maciej,3,0,"11,13,11|2,11,4",R64,GRAND_SLAM,MS,2904,Main Draw,JORGIC Darko (SLO),KUBIK Maciej (POL),JORGIC Darko
+Singapore Smash 2024,2024-03-11,CHEN Xingtong,VIVARELLI Debora,3,0,"11,11,11|1,4,7",R64,GRAND_SLAM,WS,2904,Main Draw,CHEN Xingtong (CHN),VIVARELLI Debora (ITA),CHEN Xingtong
+Singapore Smash 2024,2024-03-11,WANG Yidi,BATRA Manika,3,0,"11,11,11|4,7,2",R64,GRAND_SLAM,WS,2904,Main Draw,WANG Yidi (CHN),BATRA Manika (IND),WANG Yidi
+Singapore Smash 2024,2024-03-11,PAVADE Prithika,DOO Hoi Kem,3,2,"7,11,7,11,12|11,4,11,6,10",R64,GRAND_SLAM,WS,2904,Main Draw,PAVADE Prithika (FRA),DOO Hoi Kem (HKG),PAVADE Prithika
+Singapore Smash 2024,2024-03-11,QIU Dang,LIND Anders,3,2,"11,4,12,2,11|7,11,10,11,9",R64,GRAND_SLAM,MS,2904,Main Draw,QIU Dang (GER),LIND Anders (DEN),QIU Dang
+Singapore Smash 2024,2024-03-11,WANG Chuqin,GERALDO Joao,3,0,"11,12,11|6,10,9",R64,GRAND_SLAM,MS,2904,Main Draw,WANG Chuqin (CHN),GERALDO Joao (POR),WANG Chuqin
+Singapore Smash 2024,2024-03-11,SUH Hyo Won,SER Lin Qian,3,1,"11,9,11,13|7,11,8,11",R64,GRAND_SLAM,WS,2904,Main Draw,SUH Hyo Won (KOR),SER Lin Qian (SGP),SUH Hyo Won
+Singapore Smash 2024,2024-03-11,KAO Cheng-Jui,CHO Seungmin,3,1,"5,11,11,11|11,2,7,5",R64,GRAND_SLAM,MS,2904,Main Draw,KAO Cheng-Jui (TPE),CHO Seungmin (KOR),KAO Cheng-Jui
+Singapore Smash 2024,2024-03-11,LEE Zion,ZHOU Jingyi,3,1,"11,11,9,11|3,6,11,9",R64,GRAND_SLAM,WS,2904,Main Draw,LEE Zion (KOR),ZHOU Jingyi (SGP),LEE Zion
+Singapore Smash 2024,2024-03-11,POLCANOVA Sofia/SZOCS Bernadette,HO Tin-Tin/HURSEY Anna,3,0,"11,11,11|7,5,5",R32,GRAND_SLAM,WD,2904,Main Draw,POLCANOVA Sofia/SZOCS Bernadette (AUT/ROU),HO Tin-Tin/HURSEY Anna (ENG/WAL),POLCANOVA Sofia/SZOCS Bernadette
+Singapore Smash 2024,2024-03-11,DRINKHALL Paul/PITCHFORD Liam,ECSEKI Nandor/MAJOROS Bence,3,1,"7,11,11,11|11,9,9,7",R32,GRAND_SLAM,MD,2904,Main Draw,DRINKHALL Paul/PITCHFORD Liam (ENG),ECSEKI Nandor/MAJOROS Bence (HUN),DRINKHALL Paul/PITCHFORD Liam
+Singapore Smash 2024,2024-03-11,LEE Sang Su,LIN Gaoyuan,3,1,"13,12,11,11|11,14,8,9",R64,GRAND_SLAM,MS,2904,Main Draw,LEE Sang Su (KOR),LIN Gaoyuan (CHN),LEE Sang Su
+Singapore Smash 2024,2024-03-11,CIFUENTES Horacio/LORENZO Santiago,MOREGARD Truls/KARLSSON Kristian,3,1,"6,11,11,11|11,7,7,8",R32,GRAND_SLAM,MD,2904,Main Draw,CIFUENTES Horacio/LORENZO Santiago (ARG),MOREGARD Truls/KARLSSON Kristian (SWE),CIFUENTES Horacio/LORENZO Santiago
+Singapore Smash 2024,2024-03-11,MUKHERJEE Sutirtha/MUKHERJEE Ayhika,HARIMOTO Miwa/HIRANO Miu,3,2,"11,5,3,11,11|8,11,11,6,9",R32,GRAND_SLAM,WD,2904,Main Draw,MUKHERJEE Sutirtha/MUKHERJEE Ayhika (IND),HARIMOTO Miwa/HIRANO Miu (JPN),MUKHERJEE Sutirtha/MUKHERJEE Ayhika
+Singapore Smash 2024,2024-03-11,CHENG I-Ching,KIHARA Miyuu,3,1,"11,11,8,11|7,5,11,9",R64,GRAND_SLAM,WS,2904,Main Draw,CHENG I-Ching (TPE),KIHARA Miyuu (JPN),CHENG I-Ching
+Singapore Smash 2024,2024-03-11,CHEN Szu-Yu,YU Fu,3,2,"11,10,11,10,11|7,12,7,12,6",R64,GRAND_SLAM,WS,2904,Main Draw,CHEN Szu-Yu (TPE),YU Fu (POR),CHEN Szu-Yu
+Singapore Smash 2024,2024-03-11,YOSHIMURA Maharu,WONG Chun Ting,3,1,"7,11,11,11|11,5,8,7",R64,GRAND_SLAM,MS,2904,Main Draw,YOSHIMURA Maharu (JPN),WONG Chun Ting (HKG),YOSHIMURA Maharu
+Singapore Smash 2024,2024-03-11,CHUANG Chih-Yuan,LUM Nicholas,3,1,"12,11,11,11|14,7,7,2",R64,GRAND_SLAM,MS,2904,Main Draw,CHUANG Chih-Yuan (TPE),LUM Nicholas (AUS),CHUANG Chih-Yuan
+Singapore Smash 2024,2024-03-11,PARANANG Orawan,BAJOR Natalia,3,0,"11,12,13|4,10,11",R64,GRAND_SLAM,WS,2904,Main Draw,PARANANG Orawan (THA),BAJOR Natalia (POL),PARANANG Orawan
+Singapore Smash 2024,2024-03-11,CHIEN Tung-Chuan,LI Yu-Jhun,3,1,"8,11,12,11|11,9,10,7",R64,GRAND_SLAM,WS,2904,Main Draw,CHIEN Tung-Chuan (TPE),LI Yu-Jhun (TPE),CHIEN Tung-Chuan
+Singapore Smash 2024,2024-03-11,ACHANTA Sharath Kamal,BURGOS Nicolas,3,0,"11,11,11|5,4,6",R64,GRAND_SLAM,MS,2904,Main Draw,ACHANTA Sharath Kamal (IND),BURGOS Nicolas (CHI),ACHANTA Sharath Kamal
+Singapore Smash 2024,2024-03-12,SAMARA Elizabeta/DRAGOMAN Andreea,ZENG Jian/ZHOU Jingyi,3,0,"11,12,15|8,10,13",R32,GRAND_SLAM,WD,2904,Main Draw,SAMARA Elizabeta/DRAGOMAN Andreea (ROU),ZENG Jian/ZHOU Jingyi (SGP),SAMARA Elizabeta/DRAGOMAN Andreea
+Singapore Smash 2024,2024-03-12,FRANZISKA Patrick,MA Long,3,2,"6,11,4,12,11|11,9,11,10,5",R32,GRAND_SLAM,MS,2904,Main Draw,FRANZISKA Patrick (GER),MA Long (CHN),FRANZISKA Patrick
+Singapore Smash 2024,2024-03-12,LIN Yun-Ju/CHEN Szu-Yu,KARLSSON Kristian/KALLBERG Christina,3,2,"13,7,11,9,12|11,11,7,11,10",R16,GRAND_SLAM,XD,2904,Main Draw,LIN Yun-Ju/CHEN Szu-Yu (TPE),KARLSSON Kristian/KALLBERG Christina (SWE),LIN Yun-Ju/CHEN Szu-Yu
+Singapore Smash 2024,2024-03-12,LIM Jonghoon/SHIN Yubin,MLADENOVIC Luka/NI Xia Lian,3,0,"11,11,11|3,2,4",R16,GRAND_SLAM,XD,2904,Main Draw,LIM Jonghoon/SHIN Yubin (KOR),MLADENOVIC Luka/NI Xia Lian (LUX),LIM Jonghoon/SHIN Yubin
+Singapore Smash 2024,2024-03-12,TEODORO Guilherme/ISHIY Vitor,LAMBIET Florent/PISTEJ Lubomir,3,0,"11,11,11|4,7,6",R32,GRAND_SLAM,MD,2904,Main Draw,TEODORO Guilherme/ISHIY Vitor (BRA),LAMBIET Florent/PISTEJ Lubomir (BEL/SVK),TEODORO Guilherme/ISHIY Vitor
+Singapore Smash 2024,2024-03-12,CHEN Meng,JEON Jihee,3,0,"11,11,11|9,8,8",R32,GRAND_SLAM,WS,2904,Main Draw,CHEN Meng (CHN),JEON Jihee (KOR),CHEN Meng
+Singapore Smash 2024,2024-03-12,OVTCHAROV Dimitrij,FENG Yi-Hsin,3,2,"11,11,12,11,11|6,2,14,13,7",R32,GRAND_SLAM,MS,2904,Main Draw,OVTCHAROV Dimitrij (GER),FENG Yi-Hsin (TPE),OVTCHAROV Dimitrij
+Singapore Smash 2024,2024-03-12,SAWETTABUT Suthasini/PARANANG Orawan,SHAN Xiaona/WINTER Sabine,3,0,"11,11,11|8,7,9",R32,GRAND_SLAM,WD,2904,Main Draw,SAWETTABUT Suthasini/PARANANG Orawan (THA),SHAN Xiaona/WINTER Sabine (GER),SAWETTABUT Suthasini/PARANANG Orawan
+Singapore Smash 2024,2024-03-12,BOLL Timo,KALLBERG Anton,3,1,"11,11,7,11|7,9,11,9",R32,GRAND_SLAM,MS,2904,Main Draw,BOLL Timo (GER),KALLBERG Anton (SWE),BOLL Timo
+Singapore Smash 2024,2024-03-12,KIM Nayeong,SHAO Jieni,3,1,"10,11,14,11|12,3,12,9",R32,GRAND_SLAM,WS,2904,Main Draw,KIM Nayeong (KOR),SHAO Jieni (POR),KIM Nayeong
+Singapore Smash 2024,2024-03-12,EERLAND Britt,YANG Xiaoxin,3,2,"11,11,8,11,11|13,7,11,3,5",R32,GRAND_SLAM,WS,2904,Main Draw,EERLAND Britt (NED),YANG Xiaoxin (MON),EERLAND Britt
+Singapore Smash 2024,2024-03-12,HIRANO Miu,SAMARA Elizabeta,3,0,"11,11,11|9,6,6",R32,GRAND_SLAM,WS,2904,Main Draw,HIRANO Miu (JPN),SAMARA Elizabeta (ROU),HIRANO Miu
+Singapore Smash 2024,2024-03-12,LIN Yun-Ju,ROBLES Alvaro,3,0,"11,11,11|7,6,9",R32,GRAND_SLAM,MS,2904,Main Draw,LIN Yun-Ju (TPE),ROBLES Alvaro (ESP),LIN Yun-Ju
+Singapore Smash 2024,2024-03-12,GARDOS Robert/POLCANOVA Sofia,QIU Dang/MITTELHAM Nina,3,0,"11,11,12|6,8,10",R16,GRAND_SLAM,XD,2904,Main Draw,GARDOS Robert/POLCANOVA Sofia (AUT),QIU Dang/MITTELHAM Nina (GER),GARDOS Robert/POLCANOVA Sofia
+Singapore Smash 2024,2024-03-12,HARIMOTO Tomokazu,GROTH Jonathan,3,0,"11,11,11|8,4,8",R32,GRAND_SLAM,MS,2904,Main Draw,HARIMOTO Tomokazu (JPN),GROTH Jonathan (DEN),HARIMOTO Tomokazu
+Singapore Smash 2024,2024-03-12,IONESCU Ovidiu/SZOCS Bernadette,QUEK Izaac/ZHOU Jingyi,3,0,"11,11,11|8,6,7",R16,GRAND_SLAM,XD,2904,Main Draw,IONESCU Ovidiu/SZOCS Bernadette (ROU),QUEK Izaac/ZHOU Jingyi (SGP),IONESCU Ovidiu/SZOCS Bernadette
+Singapore Smash 2024,2024-03-12,HABESOHN Daniel/GARDOS Robert,DYJAS Jakub/NUYTINCK Cedric,3,0,"11,11,11|5,9,9",R32,GRAND_SLAM,MD,2904,Main Draw,HABESOHN Daniel/GARDOS Robert (AUT),DYJAS Jakub/NUYTINCK Cedric (POL/BEL),HABESOHN Daniel/GARDOS Robert
+Singapore Smash 2024,2024-03-12,JOO Cheonhui,WINTER Sabine,3,1,"11,7,11,11|2,11,6,5",R32,GRAND_SLAM,WS,2904,Main Draw,JOO Cheonhui (KOR),WINTER Sabine (GER),JOO Cheonhui
+Singapore Smash 2024,2024-03-12,LIANG Jingkun,DUDA Benedikt,3,0,"11,11,11|8,7,7",R32,GRAND_SLAM,MS,2904,Main Draw,LIANG Jingkun (CHN),DUDA Benedikt (GER),LIANG Jingkun
+Singapore Smash 2024,2024-03-12,ROBLES Alvaro/XIAO Maria,CHEW Zhe Yu Clarence/ZENG Jian,3,0,"12,11,11|10,5,8",R16,GRAND_SLAM,XD,2904,Main Draw,ROBLES Alvaro/XIAO Maria (ESP),CHEW Zhe Yu Clarence/ZENG Jian (SGP),ROBLES Alvaro/XIAO Maria
+Singapore Smash 2024,2024-03-12,WANG Chuqin/SUN Yingsha,LEBRUN Alexis/YUAN Jia Nan,3,0,"11,11,11|6,7,5",R16,GRAND_SLAM,XD,2904,Main Draw,WANG Chuqin/SUN Yingsha (CHN),LEBRUN Alexis/YUAN Jia Nan (FRA),WANG Chuqin/SUN Yingsha
+Singapore Smash 2024,2024-03-12,ITO Mima,LIU Yangzi,3,0,"11,11,11|8,7,6",R32,GRAND_SLAM,WS,2904,Main Draw,ITO Mima (JPN),LIU Yangzi (AUS),ITO Mima
+Singapore Smash 2024,2024-03-12,LIAO Ivy/ZHANG Mo,ALTINKAYA Sibel/TODOROVIC Andrea,3,2,"6,11,11,5,11|11,5,7,11,9",R32,GRAND_SLAM,WD,2904,Main Draw,LIAO Ivy/ZHANG Mo (CAN),ALTINKAYA Sibel/TODOROVIC Andrea (TUR/SRB),LIAO Ivy/ZHANG Mo
+Singapore Smash 2024,2024-03-12,ALLEGRO Martin/RASSENFOSSE Adrien,KAO Cheng-Jui/CHUANG Chih-Yuan,3,1,"6,11,11,11|11,8,5,9",R32,GRAND_SLAM,MD,2904,Main Draw,ALLEGRO Martin/RASSENFOSSE Adrien (BEL),KAO Cheng-Jui/CHUANG Chih-Yuan (TPE),ALLEGRO Martin/RASSENFOSSE Adrien
+Singapore Smash 2024,2024-03-12,LIN Shidong,FAN Zhendong,3,1,"11,11,9,11|6,2,11,6",R32,GRAND_SLAM,MS,2904,Main Draw,LIN Shidong (CHN),FAN Zhendong (CHN),LIN Shidong
+Singapore Smash 2024,2024-03-12,WANG Manyu,SHAN Xiaona,3,1,"11,11,5,11|5,3,11,9",R32,GRAND_SLAM,WS,2904,Main Draw,WANG Manyu (CHN),SHAN Xiaona (GER),WANG Manyu
+Singapore Smash 2024,2024-03-12,IONESCU Ovidiu,ARUNA Quadri,3,0,"14,11,11|12,7,9",R32,GRAND_SLAM,MS,2904,Main Draw,IONESCU Ovidiu (ROU),ARUNA Quadri (NGR),IONESCU Ovidiu
+Singapore Smash 2024,2024-03-12,SHIN Yubin,POTA Georgina,3,0,"11,11,11|7,8,7",R32,GRAND_SLAM,WS,2904,Main Draw,SHIN Yubin (KOR),POTA Georgina (HUN),SHIN Yubin
+Singapore Smash 2024,2024-03-12,HARIMOTO Tomokazu/HAYATA Hina,ISHIY Vitor/TAKAHASHI Bruna,3,0,"11,11,11|5,5,7",R16,GRAND_SLAM,XD,2904,Main Draw,HARIMOTO Tomokazu/HAYATA Hina (JPN),ISHIY Vitor/TAKAHASHI Bruna (BRA),HARIMOTO Tomokazu/HAYATA Hina
+Singapore Smash 2024,2024-03-12,WONG Chun Ting/DOO Hoi Kem,ECSEKI Nandor/MADARASZ Dora,3,0,"11,11,11|6,5,5",R16,GRAND_SLAM,XD,2904,Main Draw,WONG Chun Ting/DOO Hoi Kem (HKG),ECSEKI Nandor/MADARASZ Dora (HUN),WONG Chun Ting/DOO Hoi Kem
+Singapore Smash 2024,2024-03-13,JANG Woojin/LIM Jonghoon,CHUA Josh Shao Han/TAN Lucas,3,1,"10,12,11,11|12,10,8,6",R16,GRAND_SLAM,MD,2904,Main Draw,JANG Woojin/LIM Jonghoon (KOR),CHUA Josh Shao Han/TAN Lucas (SGP),JANG Woojin/LIM Jonghoon
+Singapore Smash 2024,2024-03-13,PAVADE Prithika,SAWETTABUT Suthasini,3,0,"11,11,11|9,9,9",R32,GRAND_SLAM,WS,2904,Main Draw,PAVADE Prithika (FRA),SAWETTABUT Suthasini (THA),PAVADE Prithika
+Singapore Smash 2024,2024-03-13,WANG Chuqin/SUN Yingsha,ROBLES Alvaro/XIAO Maria,3,0,"11,11,11|5,8,5",QF,GRAND_SLAM,XD,2904,Main Draw,WANG Chuqin/SUN Yingsha (CHN),ROBLES Alvaro/XIAO Maria (ESP),WANG Chuqin/SUN Yingsha
+Singapore Smash 2024,2024-03-13,BALAZOVA Barbora/MATELOVA Hana,LIAO Ivy/ZHANG Mo,3,0,"11,11,11|6,6,7",R16,GRAND_SLAM,WD,2904,Main Draw,BALAZOVA Barbora/MATELOVA Hana (SVK/CZE),LIAO Ivy/ZHANG Mo (CAN),BALAZOVA Barbora/MATELOVA Hana
+Singapore Smash 2024,2024-03-13,MOREGARD Truls,PITCHFORD Liam,3,0,"11,13,13|6,11,11",R32,GRAND_SLAM,MS,2904,Main Draw,MOREGARD Truls (SWE),PITCHFORD Liam (ENG),MOREGARD Truls
+Singapore Smash 2024,2024-03-13,LEBRUN Felix,FALCK Mattias,3,1,"11,11,9,11|7,7,11,8",R32,GRAND_SLAM,MS,2904,Main Draw,LEBRUN Felix (FRA),FALCK Mattias (SWE),LEBRUN Felix
+Singapore Smash 2024,2024-03-13,ALLEGRO Martin/RASSENFOSSE Adrien,FRANZISKA Patrick/OVTCHAROV Dimitrij,3,2,"11,11,10,7,11|7,6,12,11,3",R16,GRAND_SLAM,MD,2904,Main Draw,ALLEGRO Martin/RASSENFOSSE Adrien (BEL),FRANZISKA Patrick/OVTCHAROV Dimitrij (GER),ALLEGRO Martin/RASSENFOSSE Adrien
+Singapore Smash 2024,2024-03-13,DE NUTTE Sarah/NI Xia Lian,BERGSTROM Linda/KALLBERG Christina,3,1,"11,7,11,11|8,11,5,3",R16,GRAND_SLAM,WD,2904,Main Draw,DE NUTTE Sarah/NI Xia Lian (LUX),BERGSTROM Linda/KALLBERG Christina (SWE),DE NUTTE Sarah/NI Xia Lian
+Singapore Smash 2024,2024-03-13,POLCANOVA Sofia,DIAZ Adriana,3,2,"8,20,11,11,11|11,18,13,2,6",R32,GRAND_SLAM,WS,2904,Main Draw,POLCANOVA Sofia (AUT),DIAZ Adriana (PUR),POLCANOVA Sofia
+Singapore Smash 2024,2024-03-13,CHEN Xingtong,XIAO Maria,3,0,"11,11,11|6,7,1",R32,GRAND_SLAM,WS,2904,Main Draw,CHEN Xingtong (CHN),XIAO Maria (ESP),CHEN Xingtong
+Singapore Smash 2024,2024-03-13,SHINOZUKA Hiroto/TOGAMI Shunsuke,BURGOS Nicolas/GOMEZ Gustavo,3,1,"11,8,11,13|4,11,4,11",R16,GRAND_SLAM,MD,2904,Main Draw,SHINOZUKA Hiroto/TOGAMI Shunsuke (JPN),BURGOS Nicolas/GOMEZ Gustavo (CHI),SHINOZUKA Hiroto/TOGAMI Shunsuke
+Singapore Smash 2024,2024-03-13,ASSAR Omar,LEE Sang Su,3,2,"11,11,13,9,11|5,8,15,11,5",R32,GRAND_SLAM,MS,2904,Main Draw,ASSAR Omar (EGY),LEE Sang Su (KOR),ASSAR Omar
+Singapore Smash 2024,2024-03-13,QIU Dang,YOSHIMURA Maharu,3,0,"12,11,11|10,6,7",R32,GRAND_SLAM,MS,2904,Main Draw,QIU Dang (GER),YOSHIMURA Maharu (JPN),QIU Dang
+Singapore Smash 2024,2024-03-13,FALCK Mattias/KALLBERG Anton,TEODORO Guilherme/ISHIY Vitor,3,2,"13,9,11,3,11|11,11,8,11,8",R16,GRAND_SLAM,MD,2904,Main Draw,FALCK Mattias/KALLBERG Anton (SWE),TEODORO Guilherme/ISHIY Vitor (BRA),FALCK Mattias/KALLBERG Anton
+Singapore Smash 2024,2024-03-13,SUN Yingsha,LEE Zion,3,0,"11,11,11|8,9,6",R32,GRAND_SLAM,WS,2904,Main Draw,SUN Yingsha (CHN),LEE Zion (KOR),SUN Yingsha
+Singapore Smash 2024,2024-03-13,LIN Yun-Ju/CHEN Szu-Yu,WONG Chun Ting/DOO Hoi Kem,3,2,"12,10,11,7,11|10,12,5,11,4",QF,GRAND_SLAM,XD,2904,Main Draw,LIN Yun-Ju/CHEN Szu-Yu (TPE),WONG Chun Ting/DOO Hoi Kem (HKG),LIN Yun-Ju/CHEN Szu-Yu
+Singapore Smash 2024,2024-03-13,ZHU Chengzhu/NG Wing Lam,SAWETTABUT Suthasini/PARANANG Orawan,3,1,"15,4,11,11|13,11,4,7",R16,GRAND_SLAM,WD,2904,Main Draw,ZHU Chengzhu/NG Wing Lam (HKG),SAWETTABUT Suthasini/PARANANG Orawan (THA),ZHU Chengzhu/NG Wing Lam
+Singapore Smash 2024,2024-03-13,WANG Chuqin,KAO Cheng-Jui,3,0,"11,11,11|7,6,4",R32,GRAND_SLAM,MS,2904,Main Draw,WANG Chuqin (CHN),KAO Cheng-Jui (TPE),WANG Chuqin
+Singapore Smash 2024,2024-03-13,HARIMOTO Tomokazu/HAYATA Hina,GARDOS Robert/POLCANOVA Sofia,3,0,"11,11,11|2,9,2",QF,GRAND_SLAM,XD,2904,Main Draw,HARIMOTO Tomokazu/HAYATA Hina (JPN),GARDOS Robert/POLCANOVA Sofia (AUT),HARIMOTO Tomokazu/HAYATA Hina
+Singapore Smash 2024,2024-03-13,PANG Yew En Koen/QUEK Izaac,CIFUENTES Horacio/LORENZO Santiago,3,0,"11,11,11|6,4,9",R16,GRAND_SLAM,MD,2904,Main Draw,PANG Yew En Koen/QUEK Izaac (SGP),CIFUENTES Horacio/LORENZO Santiago (ARG),PANG Yew En Koen/QUEK Izaac
+Singapore Smash 2024,2024-03-13,CHENG I-Ching/LI Yu-Jhun,SAMARA Elizabeta/DRAGOMAN Andreea,3,0,"11,11,11|4,9,3",R16,GRAND_SLAM,WD,2904,Main Draw,CHENG I-Ching/LI Yu-Jhun (TPE),SAMARA Elizabeta/DRAGOMAN Andreea (ROU),CHENG I-Ching/LI Yu-Jhun
+Singapore Smash 2024,2024-03-13,HARIMOTO Miwa,CHEN Szu-Yu,3,0,"11,11,11|6,5,8",R32,GRAND_SLAM,WS,2904,Main Draw,HARIMOTO Miwa (JPN),CHEN Szu-Yu (TPE),HARIMOTO Miwa
+Singapore Smash 2024,2024-03-13,KARLSSON Kristian,HABESOHN Daniel,3,1,"11,11,11,11|7,4,13,3",R32,GRAND_SLAM,MS,2904,Main Draw,KARLSSON Kristian (SWE),HABESOHN Daniel (AUT),KARLSSON Kristian
+Singapore Smash 2024,2024-03-13,JEON Jihee/SHIN Yubin,LUTZ Camille/PAVADE Prithika,3,1,"11,11,10,11|2,5,12,4",R16,GRAND_SLAM,WD,2904,Main Draw,JEON Jihee/SHIN Yubin (KOR),LUTZ Camille/PAVADE Prithika (FRA),JEON Jihee/SHIN Yubin
+Singapore Smash 2024,2024-03-13,ACHANTA Sharath Kamal,JORGIC Darko,3,1,"8,11,11,11|11,6,8,9",R32,GRAND_SLAM,MS,2904,Main Draw,ACHANTA Sharath Kamal (IND),JORGIC Darko (SLO),ACHANTA Sharath Kamal
+Singapore Smash 2024,2024-03-13,CHEN Meng/WANG Manyu,POLCANOVA Sofia/SZOCS Bernadette,3,2,"11,6,10,11,11|8,11,12,9,8",R16,GRAND_SLAM,WD,2904,Main Draw,CHEN Meng/WANG Manyu (CHN),POLCANOVA Sofia/SZOCS Bernadette (AUT/ROU),CHEN Meng/WANG Manyu
+Singapore Smash 2024,2024-03-13,FAN Zhendong/WANG Chuqin,LAM Siu Hang/HO Kwan Kit,3,1,"11,9,11,11|5,11,2,2",R16,GRAND_SLAM,MD,2904,Main Draw,FAN Zhendong/WANG Chuqin (CHN),LAM Siu Hang/HO Kwan Kit (HKG),FAN Zhendong/WANG Chuqin
+Singapore Smash 2024,2024-03-13,WANG Yidi,CHIEN Tung-Chuan,3,0,"11,11,11|5,9,1",R32,GRAND_SLAM,WS,2904,Main Draw,WANG Yidi (CHN),CHIEN Tung-Chuan (TPE),WANG Yidi
+Singapore Smash 2024,2024-03-13,DIACONU Adina/XIAO Maria,MUKHERJEE Sutirtha/MUKHERJEE Ayhika,3,1,"11,12,11,11|4,14,3,9",R16,GRAND_SLAM,WD,2904,Main Draw,DIACONU Adina/XIAO Maria (ROU/ESP),MUKHERJEE Sutirtha/MUKHERJEE Ayhika (IND),DIACONU Adina/XIAO Maria
+Singapore Smash 2024,2024-03-13,MA Long/LIN Gaoyuan,DRINKHALL Paul/PITCHFORD Liam,3,0,"11,11,11|7,7,9",R16,GRAND_SLAM,MD,2904,Main Draw,MA Long/LIN Gaoyuan (CHN),DRINKHALL Paul/PITCHFORD Liam (ENG),MA Long/LIN Gaoyuan
+Singapore Smash 2024,2024-03-13,CHO Daeseong,CHUANG Chih-Yuan,3,1,"9,11,11,11|11,3,6,8",R32,GRAND_SLAM,MS,2904,Main Draw,CHO Daeseong (KOR),CHUANG Chih-Yuan (TPE),CHO Daeseong
+Singapore Smash 2024,2024-03-13,LEBRUN Alexis/LEBRUN Felix,HABESOHN Daniel/GARDOS Robert,3,1,"10,11,11,11|12,9,8,8",R16,GRAND_SLAM,MD,2904,Main Draw,LEBRUN Alexis/LEBRUN Felix (FRA),HABESOHN Daniel/GARDOS Robert (AUT),LEBRUN Alexis/LEBRUN Felix
+Singapore Smash 2024,2024-03-13,QIAN Tianyi,PARANANG Orawan,3,0,"11,11,11|6,2,7",R32,GRAND_SLAM,WS,2904,Main Draw,QIAN Tianyi (CHN),PARANANG Orawan (THA),QIAN Tianyi
+Singapore Smash 2024,2024-03-13,SUH Hyo Won,CHENG I-Ching,3,1,"7,11,11,12|11,7,5,10",R32,GRAND_SLAM,WS,2904,Main Draw,SUH Hyo Won (KOR),CHENG I-Ching (TPE),SUH Hyo Won
+Singapore Smash 2024,2024-03-13,KIHARA Miyuu/JOO Cheonhui,NAGASAKI Miyu/KIM Nayeong,3,0,"12,12,13|10,10,11",R16,GRAND_SLAM,WD,2904,Main Draw,KIHARA Miyuu/JOO Cheonhui (JPN/KOR),NAGASAKI Miyu/KIM Nayeong (JPN/KOR),KIHARA Miyuu/JOO Cheonhui
+Singapore Smash 2024,2024-03-13,LIM Jonghoon/SHIN Yubin,IONESCU Ovidiu/SZOCS Bernadette,3,0,"11,11,15|8,8,13",QF,GRAND_SLAM,XD,2904,Main Draw,LIM Jonghoon/SHIN Yubin (KOR),IONESCU Ovidiu/SZOCS Bernadette (ROU),LIM Jonghoon/SHIN Yubin
+Singapore Smash 2024,2024-03-14,WANG Chuqin/SUN Yingsha,LIN Yun-Ju/CHEN Szu-Yu,3,0,"15,17,11|13,15,5",SF,GRAND_SLAM,XD,2904,Main Draw,WANG Chuqin/SUN Yingsha (CHN),LIN Yun-Ju/CHEN Szu-Yu (TPE),WANG Chuqin/SUN Yingsha
+Singapore Smash 2024,2024-03-14,CHEN Xingtong,POLCANOVA Sofia,3,0,"11,11,11|4,4,4",R16,GRAND_SLAM,WS,2904,Main Draw,CHEN Xingtong (CHN),POLCANOVA Sofia (AUT),CHEN Xingtong
+Singapore Smash 2024,2024-03-14,LEBRUN Felix,KARLSSON Kristian,3,0,"12,11,11|10,6,9",R16,GRAND_SLAM,MS,2904,Main Draw,LEBRUN Felix (FRA),KARLSSON Kristian (SWE),LEBRUN Felix
+Singapore Smash 2024,2024-03-14,FRANZISKA Patrick,OVTCHAROV Dimitrij,3,2,"11,11,4,5,11|9,8,11,11,7",R16,GRAND_SLAM,MS,2904,Main Draw,FRANZISKA Patrick (GER),OVTCHAROV Dimitrij (GER),FRANZISKA Patrick
+Singapore Smash 2024,2024-03-14,WANG Manyu,KIM Nayeong,3,0,"11,11,11|4,2,5",R16,GRAND_SLAM,WS,2904,Main Draw,WANG Manyu (CHN),KIM Nayeong (KOR),WANG Manyu
+Singapore Smash 2024,2024-03-14,SHIN Yubin,EERLAND Britt,3,0,"11,11,11|5,6,6",R16,GRAND_SLAM,WS,2904,Main Draw,SHIN Yubin (KOR),EERLAND Britt (NED),SHIN Yubin
+Singapore Smash 2024,2024-03-14,BOLL Timo,LIN Shidong,3,1,"11,11,5,12|7,8,11,10",R16,GRAND_SLAM,MS,2904,Main Draw,BOLL Timo (GER),LIN Shidong (CHN),BOLL Timo
+Singapore Smash 2024,2024-03-14,DE NUTTE Sarah/NI Xia Lian,BALAZOVA Barbora/MATELOVA Hana,3,1,"11,11,8,11|6,6,11,4",QF,GRAND_SLAM,WD,2904,Main Draw,DE NUTTE Sarah/NI Xia Lian (LUX),BALAZOVA Barbora/MATELOVA Hana (SVK/CZE),DE NUTTE Sarah/NI Xia Lian
+Singapore Smash 2024,2024-03-14,LIN Yun-Ju,IONESCU Ovidiu,3,0,"11,11,11|9,5,4",R16,GRAND_SLAM,MS,2904,Main Draw,LIN Yun-Ju (TPE),IONESCU Ovidiu (ROU),LIN Yun-Ju
+Singapore Smash 2024,2024-03-14,SUN Yingsha,HARIMOTO Miwa,3,0,"11,12,11|2,10,8",R16,GRAND_SLAM,WS,2904,Main Draw,SUN Yingsha (CHN),HARIMOTO Miwa (JPN),SUN Yingsha
+Singapore Smash 2024,2024-03-14,CHEN Meng,JOO Cheonhui,3,1,"15,11,11,11|17,6,5,9",R16,GRAND_SLAM,WS,2904,Main Draw,CHEN Meng (CHN),JOO Cheonhui (KOR),CHEN Meng
+Singapore Smash 2024,2024-03-14,JANG Woojin/LIM Jonghoon,SHINOZUKA Hiroto/TOGAMI Shunsuke,3,2,"11,11,8,11,11|7,13,11,9,5",QF,GRAND_SLAM,MD,2904,Main Draw,JANG Woojin/LIM Jonghoon (KOR),SHINOZUKA Hiroto/TOGAMI Shunsuke (JPN),JANG Woojin/LIM Jonghoon
+Singapore Smash 2024,2024-03-14,WANG Chuqin,MOREGARD Truls,3,0,"11,11,11|6,8,6",R16,GRAND_SLAM,MS,2904,Main Draw,WANG Chuqin (CHN),MOREGARD Truls (SWE),WANG Chuqin
+Singapore Smash 2024,2024-03-14,LIM Jonghoon/SHIN Yubin,HARIMOTO Tomokazu/HAYATA Hina,3,1,"7,11,11,11|11,9,6,5",SF,GRAND_SLAM,XD,2904,Main Draw,LIM Jonghoon/SHIN Yubin (KOR),HARIMOTO Tomokazu/HAYATA Hina (JPN),LIM Jonghoon/SHIN Yubin
+Singapore Smash 2024,2024-03-14,ACHANTA Sharath Kamal,ASSAR Omar,3,0,"11,11,12|4,8,10",R16,GRAND_SLAM,MS,2904,Main Draw,ACHANTA Sharath Kamal (IND),ASSAR Omar (EGY),ACHANTA Sharath Kamal
+Singapore Smash 2024,2024-03-14,WANG Yidi,SUH Hyo Won,3,0,"11,11,11|8,5,3",R16,GRAND_SLAM,WS,2904,Main Draw,WANG Yidi (CHN),SUH Hyo Won (KOR),WANG Yidi
+Singapore Smash 2024,2024-03-14,QIU Dang,CHO Daeseong,3,2,"11,3,11,7,11|3,11,7,11,7",R16,GRAND_SLAM,MS,2904,Main Draw,QIU Dang (GER),CHO Daeseong (KOR),QIU Dang
+Singapore Smash 2024,2024-03-14,MA Long/LIN Gaoyuan,ALLEGRO Martin/RASSENFOSSE Adrien,3,2,"7,11,11,9,11|11,9,7,11,9",QF,GRAND_SLAM,MD,2904,Main Draw,MA Long/LIN Gaoyuan (CHN),ALLEGRO Martin/RASSENFOSSE Adrien (BEL),MA Long/LIN Gaoyuan
+Singapore Smash 2024,2024-03-14,CHENG I-Ching/LI Yu-Jhun,DIACONU Adina/XIAO Maria,3,2,"7,11,11,9,11|11,9,4,11,4",QF,GRAND_SLAM,WD,2904,Main Draw,CHENG I-Ching/LI Yu-Jhun (TPE),DIACONU Adina/XIAO Maria (ROU/ESP),CHENG I-Ching/LI Yu-Jhun
+Singapore Smash 2024,2024-03-14,ITO Mima,HIRANO Miu,3,2,"11,10,7,16,11|8,12,11,14,1",R16,GRAND_SLAM,WS,2904,Main Draw,ITO Mima (JPN),HIRANO Miu (JPN),ITO Mima
+Singapore Smash 2024,2024-03-14,CHEN Meng/WANG Manyu,ZHU Chengzhu/NG Wing Lam,3,0,"11,12,11|1,10,6",QF,GRAND_SLAM,WD,2904,Main Draw,CHEN Meng/WANG Manyu (CHN),ZHU Chengzhu/NG Wing Lam (HKG),CHEN Meng/WANG Manyu
+Singapore Smash 2024,2024-03-14,FALCK Mattias/KALLBERG Anton,LEBRUN Alexis/LEBRUN Felix,3,2,"3,11,5,11,11|11,9,11,7,8",QF,GRAND_SLAM,MD,2904,Main Draw,FALCK Mattias/KALLBERG Anton (SWE),LEBRUN Alexis/LEBRUN Felix (FRA),FALCK Mattias/KALLBERG Anton
+Singapore Smash 2024,2024-03-14,KIHARA Miyuu/JOO Cheonhui,JEON Jihee/SHIN Yubin,3,1,"11,8,11,11|6,11,9,7",QF,GRAND_SLAM,WD,2904,Main Draw,KIHARA Miyuu/JOO Cheonhui (JPN/KOR),JEON Jihee/SHIN Yubin (KOR),KIHARA Miyuu/JOO Cheonhui
+Singapore Smash 2024,2024-03-14,LIANG Jingkun,HARIMOTO Tomokazu,3,2,"9,12,11,11,11|11,14,5,6,8",R16,GRAND_SLAM,MS,2904,Main Draw,LIANG Jingkun (CHN),HARIMOTO Tomokazu (JPN),LIANG Jingkun
+Singapore Smash 2024,2024-03-14,FAN Zhendong/WANG Chuqin,PANG Yew En Koen/QUEK Izaac,3,1,"9,11,11,11|11,6,7,4",QF,GRAND_SLAM,MD,2904,Main Draw,FAN Zhendong/WANG Chuqin (CHN),PANG Yew En Koen/QUEK Izaac (SGP),FAN Zhendong/WANG Chuqin
+Singapore Smash 2024,2024-03-14,QIAN Tianyi,PAVADE Prithika,3,0,"11,12,11|2,10,7",R16,GRAND_SLAM,WS,2904,Main Draw,QIAN Tianyi (CHN),PAVADE Prithika (FRA),QIAN Tianyi
+Singapore Smash 2024,2024-03-15,WANG Chuqin,QIU Dang,4,1,"8,11,13,11,13|11,1,11,7,11",QF,GRAND_SLAM,MS,2904,Main Draw,WANG Chuqin (CHN),QIU Dang (GER),WANG Chuqin
+Singapore Smash 2024,2024-03-15,CHEN Meng,SHIN Yubin,4,1,"11,9,11,11,11|2,11,4,8,8",QF,GRAND_SLAM,WS,2904,Main Draw,CHEN Meng (CHN),SHIN Yubin (KOR),CHEN Meng
+Singapore Smash 2024,2024-03-15,LIANG Jingkun,BOLL Timo,4,3,"19,11,7,5,14,7,11|17,6,11,11,12,11,5",QF,GRAND_SLAM,MS,2904,Main Draw,LIANG Jingkun (CHN),BOLL Timo (GER),LIANG Jingkun
+Singapore Smash 2024,2024-03-15,WANG Manyu,ITO Mima,4,2,"9,8,11,11,11,11|11,11,5,7,7,9",QF,GRAND_SLAM,WS,2904,Main Draw,WANG Manyu (CHN),ITO Mima (JPN),WANG Manyu
+Singapore Smash 2024,2024-03-15,WANG Chuqin/SUN Yingsha,LIM Jonghoon/SHIN Yubin,3,1,"11,11,9,11|7,8,11,7",F,GRAND_SLAM,XD,2904,Main Draw,WANG Chuqin/SUN Yingsha (CHN),LIM Jonghoon/SHIN Yubin (KOR),WANG Chuqin/SUN Yingsha
+Singapore Smash 2024,2024-03-15,CHENG I-Ching/LI Yu-Jhun,KIHARA Miyuu/JOO Cheonhui,3,0,"11,11,11|9,7,7",SF,GRAND_SLAM,WD,2904,Main Draw,CHENG I-Ching/LI Yu-Jhun (TPE),KIHARA Miyuu/JOO Cheonhui (JPN/KOR),CHENG I-Ching/LI Yu-Jhun
+Singapore Smash 2024,2024-03-15,LEBRUN Felix,ACHANTA Sharath Kamal,4,1,"11,11,11,9,11|9,2,7,11,8",QF,GRAND_SLAM,MS,2904,Main Draw,LEBRUN Felix (FRA),ACHANTA Sharath Kamal (IND),LEBRUN Felix
+Singapore Smash 2024,2024-03-15,CHEN Xingtong,SUN Yingsha,4,2,"12,11,6,13,9,11|10,9,11,11,11,8",QF,GRAND_SLAM,WS,2904,Main Draw,CHEN Xingtong (CHN),SUN Yingsha (CHN),CHEN Xingtong
+Singapore Smash 2024,2024-03-15,LIN Yun-Ju,FRANZISKA Patrick,4,1,"11,11,11,9,11|4,5,2,11,4",QF,GRAND_SLAM,MS,2904,Main Draw,LIN Yun-Ju (TPE),FRANZISKA Patrick (GER),LIN Yun-Ju
+Singapore Smash 2024,2024-03-15,WANG Yidi,QIAN Tianyi,4,1,"11,11,11,7,14|6,9,7,11,12",QF,GRAND_SLAM,WS,2904,Main Draw,WANG Yidi (CHN),QIAN Tianyi (CHN),WANG Yidi
+Singapore Smash 2024,2024-03-15,FAN Zhendong/WANG Chuqin,FALCK Mattias/KALLBERG Anton,3,1,"11,11,10,11|2,3,12,8",SF,GRAND_SLAM,MD,2904,Main Draw,FAN Zhendong/WANG Chuqin (CHN),FALCK Mattias/KALLBERG Anton (SWE),FAN Zhendong/WANG Chuqin
+Singapore Smash 2024,2024-03-15,CHEN Meng/WANG Manyu,DE NUTTE Sarah/NI Xia Lian,3,1,"11,11,9,11|3,2,11,3",SF,GRAND_SLAM,WD,2904,Main Draw,CHEN Meng/WANG Manyu (CHN),DE NUTTE Sarah/NI Xia Lian (LUX),CHEN Meng/WANG Manyu
+Singapore Smash 2024,2024-03-15,MA Long/LIN Gaoyuan,JANG Woojin/LIM Jonghoon,3,0,"11,11,11|0,0,0",SF,GRAND_SLAM,MD,2904,Main Draw,MA Long/LIN Gaoyuan (CHN),JANG Woojin/LIM Jonghoon (KOR),MA Long/LIN Gaoyuan
+Singapore Smash 2024,2024-03-16,CHEN Meng/WANG Manyu,CHENG I-Ching/LI Yu-Jhun,3,0,"11,11,11|5,6,5",F,GRAND_SLAM,WD,2904,Main Draw,CHEN Meng/WANG Manyu (CHN),CHENG I-Ching/LI Yu-Jhun (TPE),CHEN Meng/WANG Manyu
+Singapore Smash 2024,2024-03-16,WANG Chuqin,LEBRUN Felix,4,1,"11,7,11,11,11|2,11,4,6,8",SF,GRAND_SLAM,MS,2904,Main Draw,WANG Chuqin (CHN),LEBRUN Felix (FRA),WANG Chuqin
+Singapore Smash 2024,2024-03-16,LIANG Jingkun,LIN Yun-Ju,4,2,"9,11,12,7,11,11|11,9,10,11,6,5",SF,GRAND_SLAM,MS,2904,Main Draw,LIANG Jingkun (CHN),LIN Yun-Ju (TPE),LIANG Jingkun
+Singapore Smash 2024,2024-03-16,WANG Yidi,CHEN Xingtong,4,0,"11,11,11,11|7,9,9,9",SF,GRAND_SLAM,WS,2904,Main Draw,WANG Yidi (CHN),CHEN Xingtong (CHN),WANG Yidi
+Singapore Smash 2024,2024-03-16,WANG Manyu,CHEN Meng,4,1,"10,11,11,11,11|12,8,9,9,4",SF,GRAND_SLAM,WS,2904,Main Draw,WANG Manyu (CHN),CHEN Meng (CHN),WANG Manyu
+Singapore Smash 2024,2024-03-16,MA Long/LIN Gaoyuan,FAN Zhendong/WANG Chuqin,3,2,"6,11,11,6,14|11,7,9,11,12",F,GRAND_SLAM,MD,2904,Main Draw,MA Long/LIN Gaoyuan (CHN),FAN Zhendong/WANG Chuqin (CHN),MA Long/LIN Gaoyuan
+Singapore Smash 2024,2024-03-17,WANG Chuqin,LIANG Jingkun,4,1,"11,11,13,9,11|6,8,11,11,6",F,GRAND_SLAM,MS,2904,Main Draw,WANG Chuqin (CHN),LIANG Jingkun (CHN),WANG Chuqin
+Singapore Smash 2024,2024-03-17,WANG Manyu,WANG Yidi,4,1,"11,11,11,7,11|8,5,4,11,1",F,GRAND_SLAM,WS,2904,Main Draw,WANG Manyu (CHN),WANG Yidi (CHN),WANG Manyu

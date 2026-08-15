@@ -1,34 +1,34 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-YOG Oceania Continental Qualification Avarua 2014,2014-05-22,RAO Roger,RANUKU Diego,3,0,"13,11,13|11,1,11",,OTHER,JBS,336,Qualification,RAO Roger (NZL),RANUKU Diego (FIJ)
-YOG Oceania Continental Qualification Avarua 2014,2014-05-22,RAO Roger,HUANG Dominic,3,1,"11,11,8,11|8,9,11,2",,OTHER,JBS,336,Qualification,RAO Roger (NZL),HUANG Dominic (AUS)
-YOG Oceania Continental Qualification Avarua 2014,2014-05-22,HUANG Dominic,RANUKU Diego,3,0,"11,11,11|8,5,5",,OTHER,JBS,336,Qualification,HUANG Dominic (AUS),RANUKU Diego (FIJ)
-YOG Oceania Continental Qualification Avarua 2014,2014-05-22,SULFARO Ivan,CHARLIE John,3,0,"11,11,11|1,4,5",,OTHER,JBS,336,Qualification,SULFARO Ivan (AUS),CHARLIE John (COK)
-YOG Oceania Continental Qualification Avarua 2014,2014-05-22,SULFARO Ivan,TETABO Katirakei,3,0,"11,11,11|2,3,4",,OTHER,JBS,336,Qualification,SULFARO Ivan (AUS),TETABO Katirakei (KIR)
-YOG Oceania Continental Qualification Avarua 2014,2014-05-22,TETABO Katirakei,CHARLIE John,3,0,"11,11,11|2,7,6",,OTHER,JBS,336,Qualification,TETABO Katirakei (KIR),CHARLIE John (COK)
-YOG Oceania Continental Qualification Avarua 2014,2014-05-22,MA Victor,NATUA Marouna,3,0,"11,11,11|2,3,1",,OTHER,JBS,336,Qualification,MA Victor (NZL),NATUA Marouna (COK)
-YOG Oceania Continental Qualification Avarua 2014,2014-05-22,MA Victor,PARK Young Jun,3,0,"11,11,11|2,4,8",,OTHER,JBS,336,Qualification,MA Victor (NZL),PARK Young Jun (FIJ)
-YOG Oceania Continental Qualification Avarua 2014,2014-05-22,PARK Young Jun,NATUA Marouna,3,0,"11,11,11|5,2,1",,OTHER,JBS,336,Qualification,PARK Young Jun (FIJ),NATUA Marouna (COK)
-YOG Oceania Continental Qualification Avarua 2014,2014-05-22,PARK Young Jun,TETABO Katirakei,4,0,"11,11,11,11|5,6,8,5",QF,OTHER,JBS,336,Main Draw,PARK Young Jun (FIJ),TETABO Katirakei (KIR)
-YOG Oceania Continental Qualification Avarua 2014,2014-05-22,HUANG Dominic,MA Victor,4,3,"11,5,8,11,7,11,11|3,11,11,4,11,6,8",QF,OTHER,JBS,336,Main Draw,MA Victor (NZL),HUANG Dominic (AUS)
-YOG Oceania Continental Qualification Avarua 2014,2014-05-22,RAO Roger,PARK Young Jun,4,0,"11,11,11,11|4,3,2,3",SF,OTHER,JBS,336,Main Draw,RAO Roger (NZL),PARK Young Jun (FIJ)
-YOG Oceania Continental Qualification Avarua 2014,2014-05-22,HUANG Dominic,SULFARO Ivan,4,3,"10,11,5,13,11,11,11|12,4,11,11,13,9,8",SF,OTHER,JBS,336,Main Draw,HUANG Dominic (AUS),SULFARO Ivan (AUS)
-YOG Oceania Continental Qualification Avarua 2014,2014-05-22,HUANG Dominic,RAO Roger,4,0,"13,11,11,11|11,9,6,9",F,OTHER,JBS,336,Main Draw,RAO Roger (NZL),HUANG Dominic (AUS)
-YOG Oceania Continental Qualification Avarua 2014,2014-05-22,MA Victor,TETABO Katirakei,4,0,"11,11,12,11|1,6,10,6",GROUP,OTHER,JBS,336,Main Draw,TETABO Katirakei (KIR),MA Victor (NZL)
-YOG Oceania Continental Qualification Avarua 2014,2014-05-22,SULFARO Ivan,PARK Young Jun,4,0,"11,11,11,11|3,6,8,4",3RD,OTHER,JBS,336,Main Draw,PARK Young Jun (FIJ),SULFARO Ivan (AUS)
-YOG Oceania Continental Qualification Avarua 2014,2014-05-22,TAN Sarah,BUI Vy,3,1,"9,11,11,11|11,3,5,8",,OTHER,JGS,336,Qualification,BUI Vy (AUS),TAN Sarah (AUS)
-YOG Oceania Continental Qualification Avarua 2014,2014-05-22,DONG Sophia,RAO Ruofei,3,0,"11,11,11|5,9,6",,OTHER,JGS,336,Qualification,RAO Ruofei (NZL),DONG Sophia (NZL)
-YOG Oceania Continental Qualification Avarua 2014,2014-05-22,FIFITA Christiana,TURA Temaui,3,0,"11,11,11|3,6,7",,OTHER,JGS,336,Qualification,TURA Temaui (COK),FIFITA Christiana (COK)
-YOG Oceania Continental Qualification Avarua 2014,2014-05-22,BUI Vy,FIFITA Christiana,3,0,"11,11,11|2,4,0",,OTHER,JGS,336,Qualification,BUI Vy (AUS),FIFITA Christiana (COK)
-YOG Oceania Continental Qualification Avarua 2014,2014-05-22,TAN Sarah,RAO Ruofei,3,2,"8,11,2,13,11|11,9,11,11,6",,OTHER,JGS,336,Qualification,RAO Ruofei (NZL),TAN Sarah (AUS)
-YOG Oceania Continental Qualification Avarua 2014,2014-05-22,DONG Sophia,TURA Temaui,3,0,"11,11,11|5,2,8",,OTHER,JGS,336,Qualification,DONG Sophia (NZL),TURA Temaui (COK)
-YOG Oceania Continental Qualification Avarua 2014,2014-05-22,DONG Sophia,TAN Sarah,3,2,"12,5,11,11,11|14,11,7,8,7",,OTHER,JGS,336,Qualification,DONG Sophia (NZL),TAN Sarah (AUS)
-YOG Oceania Continental Qualification Avarua 2014,2014-05-22,BUI Vy,TURA Temaui,3,0,"11,11,11|3,3,2",,OTHER,JGS,336,Qualification,BUI Vy (AUS),TURA Temaui (COK)
-YOG Oceania Continental Qualification Avarua 2014,2014-05-22,RAO Ruofei,FIFITA Christiana,3,0,"11,11,11|3,5,5",,OTHER,JGS,336,Qualification,RAO Ruofei (NZL),FIFITA Christiana (COK)
-YOG Oceania Continental Qualification Avarua 2014,2014-05-22,BUI Vy,DONG Sophia,3,2,"11,7,11,9,11|7,11,8,11,2",,OTHER,JGS,336,Qualification,BUI Vy (AUS),DONG Sophia (NZL)
-YOG Oceania Continental Qualification Avarua 2014,2014-05-22,RAO Ruofei,TURA Temaui,3,0,"11,11,11|4,1,5",,OTHER,JGS,336,Qualification,RAO Ruofei (NZL),TURA Temaui (COK)
-YOG Oceania Continental Qualification Avarua 2014,2014-05-22,TAN Sarah,FIFITA Christiana,3,0,"11,11,11|2,4,7",,OTHER,JGS,336,Qualification,TAN Sarah (AUS),FIFITA Christiana (COK)
-YOG Oceania Continental Qualification Avarua 2014,2014-05-22,RAO Ruofei,BUI Vy,3,0,"11,11,11|7,7,5",,OTHER,JGS,336,Qualification,BUI Vy (AUS),RAO Ruofei (NZL)
-YOG Oceania Continental Qualification Avarua 2014,2014-05-22,TAN Sarah,TURA Temaui,3,0,"11,11,11|1,4,4",,OTHER,JGS,336,Qualification,TAN Sarah (AUS),TURA Temaui (COK)
-YOG Oceania Continental Qualification Avarua 2014,2014-05-22,DONG Sophia,FIFITA Christiana,3,0,"11,11,11|3,5,2",,OTHER,JGS,336,Qualification,DONG Sophia (NZL),FIFITA Christiana (COK)
-YOG Oceania Continental Qualification Avarua 2014,2014-05-22,BUI Vy,TAN Sarah,4,1,"12,12,5,11,11|10,10,11,5,6",F,OTHER,JGS,336,Main Draw,BUI Vy (AUS),TAN Sarah (AUS)
-YOG Oceania Continental Qualification Avarua 2014,2014-05-22,RAO Ruofei,DONG Sophia,4,2,"6,11,17,11,15|11,7,19,4,13",F,OTHER,JGS,336,Main Draw,DONG Sophia (NZL),RAO Ruofei (NZL)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+YOG Oceania Continental Qualification Avarua 2014,2014-05-22,RAO Roger,RANUKU Diego,3,0,"13,11,13|11,1,11",,OTHER,JBS,336,Qualification,RAO Roger (NZL),RANUKU Diego (FIJ),RAO Roger
+YOG Oceania Continental Qualification Avarua 2014,2014-05-22,RAO Roger,HUANG Dominic,3,1,"11,11,8,11|8,9,11,2",,OTHER,JBS,336,Qualification,RAO Roger (NZL),HUANG Dominic (AUS),RAO Roger
+YOG Oceania Continental Qualification Avarua 2014,2014-05-22,HUANG Dominic,RANUKU Diego,3,0,"11,11,11|8,5,5",,OTHER,JBS,336,Qualification,HUANG Dominic (AUS),RANUKU Diego (FIJ),HUANG Dominic
+YOG Oceania Continental Qualification Avarua 2014,2014-05-22,SULFARO Ivan,CHARLIE John,3,0,"11,11,11|1,4,5",,OTHER,JBS,336,Qualification,SULFARO Ivan (AUS),CHARLIE John (COK),SULFARO Ivan
+YOG Oceania Continental Qualification Avarua 2014,2014-05-22,SULFARO Ivan,TETABO Katirakei,3,0,"11,11,11|2,3,4",,OTHER,JBS,336,Qualification,SULFARO Ivan (AUS),TETABO Katirakei (KIR),SULFARO Ivan
+YOG Oceania Continental Qualification Avarua 2014,2014-05-22,TETABO Katirakei,CHARLIE John,3,0,"11,11,11|2,7,6",,OTHER,JBS,336,Qualification,TETABO Katirakei (KIR),CHARLIE John (COK),TETABO Katirakei
+YOG Oceania Continental Qualification Avarua 2014,2014-05-22,MA Victor,NATUA Marouna,3,0,"11,11,11|2,3,1",,OTHER,JBS,336,Qualification,MA Victor (NZL),NATUA Marouna (COK),MA Victor
+YOG Oceania Continental Qualification Avarua 2014,2014-05-22,MA Victor,PARK Young Jun,3,0,"11,11,11|2,4,8",,OTHER,JBS,336,Qualification,MA Victor (NZL),PARK Young Jun (FIJ),MA Victor
+YOG Oceania Continental Qualification Avarua 2014,2014-05-22,PARK Young Jun,NATUA Marouna,3,0,"11,11,11|5,2,1",,OTHER,JBS,336,Qualification,PARK Young Jun (FIJ),NATUA Marouna (COK),PARK Young Jun
+YOG Oceania Continental Qualification Avarua 2014,2014-05-22,PARK Young Jun,TETABO Katirakei,4,0,"11,11,11,11|5,6,8,5",QF,OTHER,JBS,336,Main Draw,PARK Young Jun (FIJ),TETABO Katirakei (KIR),PARK Young Jun
+YOG Oceania Continental Qualification Avarua 2014,2014-05-22,HUANG Dominic,MA Victor,4,3,"11,5,8,11,7,11,11|3,11,11,4,11,6,8",QF,OTHER,JBS,336,Main Draw,MA Victor (NZL),HUANG Dominic (AUS),HUANG Dominic
+YOG Oceania Continental Qualification Avarua 2014,2014-05-22,RAO Roger,PARK Young Jun,4,0,"11,11,11,11|4,3,2,3",SF,OTHER,JBS,336,Main Draw,RAO Roger (NZL),PARK Young Jun (FIJ),RAO Roger
+YOG Oceania Continental Qualification Avarua 2014,2014-05-22,HUANG Dominic,SULFARO Ivan,4,3,"10,11,5,13,11,11,11|12,4,11,11,13,9,8",SF,OTHER,JBS,336,Main Draw,HUANG Dominic (AUS),SULFARO Ivan (AUS),HUANG Dominic
+YOG Oceania Continental Qualification Avarua 2014,2014-05-22,HUANG Dominic,RAO Roger,4,0,"13,11,11,11|11,9,6,9",F,OTHER,JBS,336,Main Draw,RAO Roger (NZL),HUANG Dominic (AUS),HUANG Dominic
+YOG Oceania Continental Qualification Avarua 2014,2014-05-22,MA Victor,TETABO Katirakei,4,0,"11,11,12,11|1,6,10,6",GROUP,OTHER,JBS,336,Main Draw,TETABO Katirakei (KIR),MA Victor (NZL),MA Victor
+YOG Oceania Continental Qualification Avarua 2014,2014-05-22,SULFARO Ivan,PARK Young Jun,4,0,"11,11,11,11|3,6,8,4",3RD,OTHER,JBS,336,Main Draw,PARK Young Jun (FIJ),SULFARO Ivan (AUS),SULFARO Ivan
+YOG Oceania Continental Qualification Avarua 2014,2014-05-22,TAN Sarah,BUI Vy,3,1,"9,11,11,11|11,3,5,8",,OTHER,JGS,336,Qualification,BUI Vy (AUS),TAN Sarah (AUS),TAN Sarah
+YOG Oceania Continental Qualification Avarua 2014,2014-05-22,DONG Sophia,RAO Ruofei,3,0,"11,11,11|5,9,6",,OTHER,JGS,336,Qualification,RAO Ruofei (NZL),DONG Sophia (NZL),DONG Sophia
+YOG Oceania Continental Qualification Avarua 2014,2014-05-22,FIFITA Christiana,TURA Temaui,3,0,"11,11,11|3,6,7",,OTHER,JGS,336,Qualification,TURA Temaui (COK),FIFITA Christiana (COK),FIFITA Christiana
+YOG Oceania Continental Qualification Avarua 2014,2014-05-22,BUI Vy,FIFITA Christiana,3,0,"11,11,11|2,4,0",,OTHER,JGS,336,Qualification,BUI Vy (AUS),FIFITA Christiana (COK),BUI Vy
+YOG Oceania Continental Qualification Avarua 2014,2014-05-22,TAN Sarah,RAO Ruofei,3,2,"8,11,2,13,11|11,9,11,11,6",,OTHER,JGS,336,Qualification,RAO Ruofei (NZL),TAN Sarah (AUS),TAN Sarah
+YOG Oceania Continental Qualification Avarua 2014,2014-05-22,DONG Sophia,TURA Temaui,3,0,"11,11,11|5,2,8",,OTHER,JGS,336,Qualification,DONG Sophia (NZL),TURA Temaui (COK),DONG Sophia
+YOG Oceania Continental Qualification Avarua 2014,2014-05-22,DONG Sophia,TAN Sarah,3,2,"12,5,11,11,11|14,11,7,8,7",,OTHER,JGS,336,Qualification,DONG Sophia (NZL),TAN Sarah (AUS),DONG Sophia
+YOG Oceania Continental Qualification Avarua 2014,2014-05-22,BUI Vy,TURA Temaui,3,0,"11,11,11|3,3,2",,OTHER,JGS,336,Qualification,BUI Vy (AUS),TURA Temaui (COK),BUI Vy
+YOG Oceania Continental Qualification Avarua 2014,2014-05-22,RAO Ruofei,FIFITA Christiana,3,0,"11,11,11|3,5,5",,OTHER,JGS,336,Qualification,RAO Ruofei (NZL),FIFITA Christiana (COK),RAO Ruofei
+YOG Oceania Continental Qualification Avarua 2014,2014-05-22,BUI Vy,DONG Sophia,3,2,"11,7,11,9,11|7,11,8,11,2",,OTHER,JGS,336,Qualification,BUI Vy (AUS),DONG Sophia (NZL),BUI Vy
+YOG Oceania Continental Qualification Avarua 2014,2014-05-22,RAO Ruofei,TURA Temaui,3,0,"11,11,11|4,1,5",,OTHER,JGS,336,Qualification,RAO Ruofei (NZL),TURA Temaui (COK),RAO Ruofei
+YOG Oceania Continental Qualification Avarua 2014,2014-05-22,TAN Sarah,FIFITA Christiana,3,0,"11,11,11|2,4,7",,OTHER,JGS,336,Qualification,TAN Sarah (AUS),FIFITA Christiana (COK),TAN Sarah
+YOG Oceania Continental Qualification Avarua 2014,2014-05-22,RAO Ruofei,BUI Vy,3,0,"11,11,11|7,7,5",,OTHER,JGS,336,Qualification,BUI Vy (AUS),RAO Ruofei (NZL),RAO Ruofei
+YOG Oceania Continental Qualification Avarua 2014,2014-05-22,TAN Sarah,TURA Temaui,3,0,"11,11,11|1,4,4",,OTHER,JGS,336,Qualification,TAN Sarah (AUS),TURA Temaui (COK),TAN Sarah
+YOG Oceania Continental Qualification Avarua 2014,2014-05-22,DONG Sophia,FIFITA Christiana,3,0,"11,11,11|3,5,2",,OTHER,JGS,336,Qualification,DONG Sophia (NZL),FIFITA Christiana (COK),DONG Sophia
+YOG Oceania Continental Qualification Avarua 2014,2014-05-22,BUI Vy,TAN Sarah,4,1,"12,12,5,11,11|10,10,11,5,6",F,OTHER,JGS,336,Main Draw,BUI Vy (AUS),TAN Sarah (AUS),BUI Vy
+YOG Oceania Continental Qualification Avarua 2014,2014-05-22,RAO Ruofei,DONG Sophia,4,2,"6,11,17,11,15|11,7,19,4,13",F,OTHER,JGS,336,Main Draw,DONG Sophia (NZL),RAO Ruofei (NZL),RAO Ruofei

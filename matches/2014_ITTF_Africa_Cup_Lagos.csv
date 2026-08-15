@@ -1,67 +1,67 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-ITTF Africa Cup Lagos 2014,2014-06-27,LASHIN Elsayed,NGWE NIKENG Emmanuel,3,0,"11,11,11|7,7,6",,OTHER,MS,332,Qualification,LASHIN Elsayed (EGY),NGWE NIKENG Emmanuel (CMR)
-ITTF Africa Cup Lagos 2014,2014-06-27,AGBETOGLO Mawussi,LARTEY Felix,3,2,"11,11,7,16,11|5,8,11,18,4",,OTHER,MS,332,Qualification,AGBETOGLO Mawussi (TOG),LARTEY Felix (GHA)
-ITTF Africa Cup Lagos 2014,2014-06-27,LASHIN Elsayed,AGBETOGLO Mawussi,3,0,"11,11,11|8,3,6",,OTHER,MS,332,Qualification,LASHIN Elsayed (EGY),AGBETOGLO Mawussi (TOG)
-ITTF Africa Cup Lagos 2014,2014-06-27,LARTEY Felix,NGWE NIKENG Emmanuel,3,2,"11,11,6,8,11|7,4,11,11,7",,OTHER,MS,332,Qualification,NGWE NIKENG Emmanuel (CMR),LARTEY Felix (GHA)
-ITTF Africa Cup Lagos 2014,2014-06-27,LASHIN Elsayed,LARTEY Felix,3,0,"11,11,11|6,8,8",,OTHER,MS,332,Qualification,LASHIN Elsayed (EGY),LARTEY Felix (GHA)
-ITTF Africa Cup Lagos 2014,2014-06-27,AGBETOGLO Mawussi,NGWE NIKENG Emmanuel,3,0,"11,11,11|2,6,6",,OTHER,MS,332,Qualification,AGBETOGLO Mawussi (TOG),NGWE NIKENG Emmanuel (CMR)
-ITTF Africa Cup Lagos 2014,2014-06-27,ASSAR Omar,KASSA Gedeon,3,0,"11,11,11|3,5,5",,OTHER,MS,332,Qualification,ASSAR Omar (EGY),KASSA Gedeon (COD)
-ITTF Africa Cup Lagos 2014,2014-06-27,ABREFA Derek,JAGUE Alain Patrick,3,0,"11,11,11|2,3,7",,OTHER,MS,332,Qualification,JAGUE Alain Patrick (CMR),ABREFA Derek (GHA)
-ITTF Africa Cup Lagos 2014,2014-06-27,ASSAR Omar,JAGUE Alain Patrick,3,0,"11,11,11|3,3,9",,OTHER,MS,332,Qualification,ASSAR Omar (EGY),JAGUE Alain Patrick (CMR)
-ITTF Africa Cup Lagos 2014,2014-06-27,ABREFA Derek,KASSA Gedeon,3,2,"11,11,9,9,13|6,9,11,11,11",,OTHER,MS,332,Qualification,KASSA Gedeon (COD),ABREFA Derek (GHA)
-ITTF Africa Cup Lagos 2014,2014-06-27,ASSAR Omar,ABREFA Derek,3,0,"11,13,11|8,11,3",,OTHER,MS,332,Qualification,ASSAR Omar (EGY),ABREFA Derek (GHA)
-ITTF Africa Cup Lagos 2014,2014-06-27,KASSA Gedeon,JAGUE Alain Patrick,3,2,"8,6,11,11,12|11,11,6,4,10",,OTHER,MS,332,Qualification,JAGUE Alain Patrick (CMR),KASSA Gedeon (COD)
-ITTF Africa Cup Lagos 2014,2014-06-27,ARUNA Quadri,NGOMA Steve,3,0,"11,11,11|3,4,3",,OTHER,MS,332,Qualification,ARUNA Quadri (NGR),NGOMA Steve (COD)
-ITTF Africa Cup Lagos 2014,2014-06-27,SAKA Suraju,KAMARA Ibrahim,3,0,"11,11,11|3,5,2",,OTHER,MS,332,Qualification,SAKA Suraju (CGO),KAMARA Ibrahim (SLE)
-ITTF Africa Cup Lagos 2014,2014-06-27,ARUNA Quadri,SAKA Suraju,3,2,"12,6,11,11,11|10,11,13,3,6",,OTHER,MS,332,Qualification,ARUNA Quadri (NGR),SAKA Suraju (CGO)
-ITTF Africa Cup Lagos 2014,2014-06-27,NGOMA Steve,KAMARA Ibrahim,3,1,"11,11,10,11|7,7,12,7",,OTHER,MS,332,Qualification,NGOMA Steve (COD),KAMARA Ibrahim (SLE)
-ITTF Africa Cup Lagos 2014,2014-06-27,ARUNA Quadri,KAMARA Ibrahim,3,0,"11,11,11|3,3,2",,OTHER,MS,332,Qualification,ARUNA Quadri (NGR),KAMARA Ibrahim (SLE)
-ITTF Africa Cup Lagos 2014,2014-06-27,SAKA Suraju,NGOMA Steve,3,0,"11,11,11|8,5,5",,OTHER,MS,332,Qualification,SAKA Suraju (CGO),NGOMA Steve (COD)
-ITTF Africa Cup Lagos 2014,2014-06-27,HMAM Adam,IDOWU Saheed,3,1,"11,11,8,11|4,3,11,8",,OTHER,MS,332,Qualification,IDOWU Saheed (CGO),HMAM Adam (TUN)
-ITTF Africa Cup Lagos 2014,2014-06-27,TORIOLA Segun,FANNY Kokou,3,0,"11,11,11|1,3,6",,OTHER,MS,332,Qualification,TORIOLA Segun (NGR),FANNY Kokou (TOG)
-ITTF Africa Cup Lagos 2014,2014-06-27,TORIOLA Segun,IDOWU Saheed,3,1,"8,11,11,11|11,1,9,4",,OTHER,MS,332,Qualification,IDOWU Saheed (CGO),TORIOLA Segun (NGR)
-ITTF Africa Cup Lagos 2014,2014-06-27,HMAM Adam,FANNY Kokou,3,0,"11,11,13|4,6,11",,OTHER,MS,332,Qualification,HMAM Adam (TUN),FANNY Kokou (TOG)
-ITTF Africa Cup Lagos 2014,2014-06-27,IDOWU Saheed,FANNY Kokou,3,0,"14,11,11|12,9,9",,OTHER,MS,332,Qualification,IDOWU Saheed (CGO),FANNY Kokou (TOG)
-ITTF Africa Cup Lagos 2014,2014-06-27,TORIOLA Segun,HMAM Adam,3,2,"11,10,10,11,11|8,12,12,8,4",,OTHER,MS,332,Qualification,TORIOLA Segun (NGR),HMAM Adam (TUN)
-ITTF Africa Cup Lagos 2014,2014-06-27,HAN Xing,BAAH-DANSO Celia,3,0,"11,11,11|2,2,2",,OTHER,WS,332,Qualification,HAN Xing (CGO),BAAH-DANSO Celia (GHA)
-ITTF Africa Cup Lagos 2014,2014-06-27,HAN Xing,LITOBAKA Ammadine,3,0,"11,11,11|7,3,8",,OTHER,WS,332,Qualification,HAN Xing (CGO),LITOBAKA Ammadine (COD)
-ITTF Africa Cup Lagos 2014,2014-06-27,BAAH-DANSO Celia,LITOBAKA Ammadine,3,2,"11,9,11,8,11|3,11,3,11,4",,OTHER,WS,332,Qualification,LITOBAKA Ammadine (COD),BAAH-DANSO Celia (GHA)
-ITTF Africa Cup Lagos 2014,2014-06-27,MAPHANGA Zodwa,HABTE Saba,3,0,"15,11,11|13,7,5",,OTHER,WS,332,Qualification,MAPHANGA Zodwa (RSA),HABTE Saba (ETH)
-ITTF Africa Cup Lagos 2014,2014-06-27,MESHREF Dina,MAPHANGA Zodwa,3,1,"11,8,11,11|9,11,1,4",,OTHER,WS,332,Qualification,MESHREF Dina (EGY),MAPHANGA Zodwa (RSA)
-ITTF Africa Cup Lagos 2014,2014-06-27,MESHREF Dina,HABTE Saba,3,0,"11,11,11|6,7,4",,OTHER,WS,332,Qualification,MESHREF Dina (EGY),HABTE Saba (ETH)
-ITTF Africa Cup Lagos 2014,2014-06-27,ELDAWLATLY Nadeen,GULTI Marta,3,0,"11,11,11|9,6,7",,OTHER,WS,332,Qualification,ELDAWLATLY Nadeen (EGY),GULTI Marta (ETH)
-ITTF Africa Cup Lagos 2014,2014-06-27,OSHONAIKE Olufunke,ELDAWLATLY Nadeen,3,1,"6,11,11,11|11,8,7,9",,OTHER,WS,332,Qualification,ELDAWLATLY Nadeen (EGY),OSHONAIKE Olufunke (NGR)
-ITTF Africa Cup Lagos 2014,2014-06-27,OSHONAIKE Olufunke,GULTI Marta,3,0,"11,11,11|8,5,4",,OTHER,WS,332,Qualification,OSHONAIKE Olufunke (NGR),GULTI Marta (ETH)
-ITTF Africa Cup Lagos 2014,2014-06-27,EDEM Offiong,NWACHUKWU Onyinyechi,3,0,"11,11,11|8,3,5",,OTHER,WS,332,Qualification,EDEM Offiong (NGR),NWACHUKWU Onyinyechi (CGO)
-ITTF Africa Cup Lagos 2014,2014-06-27,NWACHUKWU Onyinyechi,KWABI Cynthia,3,1,"11,6,12,11|6,11,10,8",,OTHER,WS,332,Qualification,NWACHUKWU Onyinyechi (CGO),KWABI Cynthia (GHA)
-ITTF Africa Cup Lagos 2014,2014-06-27,LASHIN Elsayed,ABREFA Derek,4,0,"11,11,11,12|8,8,6,10",QF,OTHER,MS,332,Main Draw,LASHIN Elsayed (EGY),ABREFA Derek (GHA)
-ITTF Africa Cup Lagos 2014,2014-06-27,TORIOLA Segun,SAKA Suraju,4,2,"14,8,11,8,11,11|12,11,9,11,7,8",QF,OTHER,MS,332,Main Draw,SAKA Suraju (CGO),TORIOLA Segun (NGR)
-ITTF Africa Cup Lagos 2014,2014-06-27,ARUNA Quadri,AGBETOGLO Mawussi,4,1,"10,11,11,11,11|12,7,5,5,1",QF,OTHER,MS,332,Main Draw,ARUNA Quadri (NGR),AGBETOGLO Mawussi (TOG)
-ITTF Africa Cup Lagos 2014,2014-06-27,ASSAR Omar,HMAM Adam,4,1,"11,11,11,7,11|7,9,1,11,2",QF,OTHER,MS,332,Main Draw,HMAM Adam (TUN),ASSAR Omar (EGY)
-ITTF Africa Cup Lagos 2014,2014-06-27,LASHIN Elsayed,TORIOLA Segun,4,1,"8,11,11,11,11|11,6,9,5,7",SF,OTHER,MS,332,Main Draw,LASHIN Elsayed (EGY),TORIOLA Segun (NGR)
-ITTF Africa Cup Lagos 2014,2014-06-27,ARUNA Quadri,ASSAR Omar,4,2,"11,11,10,5,11,11|7,8,12,11,7,6",SF,OTHER,MS,332,Main Draw,ARUNA Quadri (NGR),ASSAR Omar (EGY)
-ITTF Africa Cup Lagos 2014,2014-06-27,ARUNA Quadri,LASHIN Elsayed,4,3,"11,13,5,11,11,9,11|9,15,11,7,9,11,2",F,OTHER,MS,332,Main Draw,LASHIN Elsayed (EGY),ARUNA Quadri (NGR)
-ITTF Africa Cup Lagos 2014,2014-06-27,SAKA Suraju,ABREFA Derek,4,0,"11,11,11,11|4,1,6,4",5-8,OTHER,MS,332,Position Draw,ABREFA Derek (GHA),SAKA Suraju (CGO)
-ITTF Africa Cup Lagos 2014,2014-06-27,AGBETOGLO Mawussi,HMAM Adam,4,1,"11,11,11,8,11|3,4,8,11,7",5-8,OTHER,MS,332,Position Draw,AGBETOGLO Mawussi (TOG),HMAM Adam (TUN)
-ITTF Africa Cup Lagos 2014,2014-06-27,SAKA Suraju,AGBETOGLO Mawussi,4,1,"11,6,11,11,12|7,11,6,9,10",3RD,OTHER,MS,332,Position Draw,SAKA Suraju (CGO),AGBETOGLO Mawussi (TOG)
-ITTF Africa Cup Lagos 2014,2014-06-27,HMAM Adam,ABREFA Derek,4,2,"11,11,9,11,4,11|5,2,11,4,11,3",3RD,OTHER,MS,332,Position Draw,ABREFA Derek (GHA),HMAM Adam (TUN)
-ITTF Africa Cup Lagos 2014,2014-06-27,ASSAR Omar,TORIOLA Segun,4,1,"9,11,11,11,12|11,8,8,9,10",3RD,OTHER,MS,332,Position Draw,TORIOLA Segun (NGR),ASSAR Omar (EGY)
-ITTF Africa Cup Lagos 2014,2014-06-27,NGWE NIKENG Emmanuel,LARTEY Felix,4,3,"11,11,4,8,6,14,12|4,7,11,11,11,12,10",QF,OTHER,MS,332,Main Draw,LARTEY Felix (GHA),NGWE NIKENG Emmanuel (CMR)
-ITTF Africa Cup Lagos 2014,2014-06-27,IDOWU Saheed,JAGUE Alain Patrick,4,0,"11,11,11,11|6,3,7,7",QF,OTHER,MS,332,Main Draw,IDOWU Saheed (CGO),JAGUE Alain Patrick (CMR)
-ITTF Africa Cup Lagos 2014,2014-06-27,FANNY Kokou,KASSA Gedeon,4,0,"11,11,11,11|7,5,7,7",QF,OTHER,MS,332,Main Draw,FANNY Kokou (TOG),KASSA Gedeon (COD)
-ITTF Africa Cup Lagos 2014,2014-06-27,JAGUE Alain Patrick,KASSA Gedeon,4,2,"11,9,13,11,9,11|8,11,11,5,11,4",5-8,OTHER,MS,332,Position Draw,JAGUE Alain Patrick (CMR),KASSA Gedeon (COD)
-ITTF Africa Cup Lagos 2014,2014-06-27,LARTEY Felix,JAGUE Alain Patrick,4,2,"11,9,11,11,9,11|6,11,9,7,11,4",3RD,OTHER,MS,332,Position Draw,LARTEY Felix (GHA),JAGUE Alain Patrick (CMR)
-ITTF Africa Cup Lagos 2014,2014-06-27,KASSA Gedeon,NGOMA Steve,4,1,"11,10,12,11,11|8,12,10,5,9",3RD,OTHER,MS,332,Position Draw,NGOMA Steve (COD),KASSA Gedeon (COD)
-ITTF Africa Cup Lagos 2014,2014-06-27,FANNY Kokou,KAMARA Ibrahim,4,0,"11,11,11,11|5,6,5,4",3RD,OTHER,MS,332,Position Draw,KAMARA Ibrahim (SLE),FANNY Kokou (TOG)
-ITTF Africa Cup Lagos 2014,2014-06-27,HAN Xing,KWABI Cynthia,4,0,"11,11,11,11|5,4,5,6",QF,OTHER,WS,332,Main Draw,HAN Xing (CGO),KWABI Cynthia (GHA)
-ITTF Africa Cup Lagos 2014,2014-06-27,OSHONAIKE Olufunke,MAPHANGA Zodwa,4,0,"11,11,11,11|5,8,4,7",QF,OTHER,WS,332,Main Draw,MAPHANGA Zodwa (RSA),OSHONAIKE Olufunke (NGR)
-ITTF Africa Cup Lagos 2014,2014-06-27,ELDAWLATLY Nadeen,NWACHUKWU Onyinyechi,4,1,"11,11,11,5,11|7,1,8,11,7",QF,OTHER,WS,332,Main Draw,NWACHUKWU Onyinyechi (CGO),ELDAWLATLY Nadeen (EGY)
-ITTF Africa Cup Lagos 2014,2014-06-27,MESHREF Dina,BAAH-DANSO Celia,4,0,"11,11,11,11|4,6,4,3",QF,OTHER,WS,332,Main Draw,BAAH-DANSO Celia (GHA),MESHREF Dina (EGY)
-ITTF Africa Cup Lagos 2014,2014-06-27,OSHONAIKE Olufunke,HAN Xing,4,3,"6,11,12,8,6,11,11|11,8,10,11,11,8,9",SF,OTHER,WS,332,Main Draw,HAN Xing (CGO),OSHONAIKE Olufunke (NGR)
-ITTF Africa Cup Lagos 2014,2014-06-27,MESHREF Dina,ELDAWLATLY Nadeen,4,1,"12,12,11,11,11|10,14,7,7,5",SF,OTHER,WS,332,Main Draw,ELDAWLATLY Nadeen (EGY),MESHREF Dina (EGY)
-ITTF Africa Cup Lagos 2014,2014-06-27,MESHREF Dina,OSHONAIKE Olufunke,4,0,"11,13,11,16|6,11,9,14",F,OTHER,WS,332,Main Draw,OSHONAIKE Olufunke (NGR),MESHREF Dina (EGY)
-ITTF Africa Cup Lagos 2014,2014-06-27,KWABI Cynthia,MAPHANGA Zodwa,4,2,"11,7,8,11,11,11|8,11,11,5,2,7",5-8,OTHER,WS,332,Position Draw,KWABI Cynthia (GHA),MAPHANGA Zodwa (RSA)
-ITTF Africa Cup Lagos 2014,2014-06-27,NWACHUKWU Onyinyechi,BAAH-DANSO Celia,4,0,"11,13,11,11|8,11,4,8",5-8,OTHER,WS,332,Position Draw,NWACHUKWU Onyinyechi (CGO),BAAH-DANSO Celia (GHA)
-ITTF Africa Cup Lagos 2014,2014-06-27,HAN Xing,ELDAWLATLY Nadeen,4,0,"11,11,11,11|6,8,9,3",3RD,OTHER,WS,332,Position Draw,HAN Xing (CGO),ELDAWLATLY Nadeen (EGY)
-ITTF Africa Cup Lagos 2014,2014-06-27,EDEM Offiong,HABTE Saba,4,0,"11,11,11,11|6,4,4,1",5-8,OTHER,WS,332,Position Draw,EDEM Offiong (NGR),HABTE Saba (ETH)
-ITTF Africa Cup Lagos 2014,2014-06-27,EDEM Offiong,GULTI Marta,4,0,"11,11,11,11|2,5,3,6",3RD,OTHER,WS,332,Position Draw,GULTI Marta (ETH),EDEM Offiong (NGR)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+ITTF Africa Cup Lagos 2014,2014-06-27,LASHIN Elsayed,NGWE NIKENG Emmanuel,3,0,"11,11,11|7,7,6",,OTHER,MS,332,Qualification,LASHIN Elsayed (EGY),NGWE NIKENG Emmanuel (CMR),LASHIN Elsayed
+ITTF Africa Cup Lagos 2014,2014-06-27,AGBETOGLO Mawussi,LARTEY Felix,3,2,"11,11,7,16,11|5,8,11,18,4",,OTHER,MS,332,Qualification,AGBETOGLO Mawussi (TOG),LARTEY Felix (GHA),AGBETOGLO Mawussi
+ITTF Africa Cup Lagos 2014,2014-06-27,LASHIN Elsayed,AGBETOGLO Mawussi,3,0,"11,11,11|8,3,6",,OTHER,MS,332,Qualification,LASHIN Elsayed (EGY),AGBETOGLO Mawussi (TOG),LASHIN Elsayed
+ITTF Africa Cup Lagos 2014,2014-06-27,LARTEY Felix,NGWE NIKENG Emmanuel,3,2,"11,11,6,8,11|7,4,11,11,7",,OTHER,MS,332,Qualification,NGWE NIKENG Emmanuel (CMR),LARTEY Felix (GHA),LARTEY Felix
+ITTF Africa Cup Lagos 2014,2014-06-27,LASHIN Elsayed,LARTEY Felix,3,0,"11,11,11|6,8,8",,OTHER,MS,332,Qualification,LASHIN Elsayed (EGY),LARTEY Felix (GHA),LASHIN Elsayed
+ITTF Africa Cup Lagos 2014,2014-06-27,AGBETOGLO Mawussi,NGWE NIKENG Emmanuel,3,0,"11,11,11|2,6,6",,OTHER,MS,332,Qualification,AGBETOGLO Mawussi (TOG),NGWE NIKENG Emmanuel (CMR),AGBETOGLO Mawussi
+ITTF Africa Cup Lagos 2014,2014-06-27,ASSAR Omar,KASSA Gedeon,3,0,"11,11,11|3,5,5",,OTHER,MS,332,Qualification,ASSAR Omar (EGY),KASSA Gedeon (COD),ASSAR Omar
+ITTF Africa Cup Lagos 2014,2014-06-27,ABREFA Derek,JAGUE Alain Patrick,3,0,"11,11,11|2,3,7",,OTHER,MS,332,Qualification,JAGUE Alain Patrick (CMR),ABREFA Derek (GHA),ABREFA Derek
+ITTF Africa Cup Lagos 2014,2014-06-27,ASSAR Omar,JAGUE Alain Patrick,3,0,"11,11,11|3,3,9",,OTHER,MS,332,Qualification,ASSAR Omar (EGY),JAGUE Alain Patrick (CMR),ASSAR Omar
+ITTF Africa Cup Lagos 2014,2014-06-27,ABREFA Derek,KASSA Gedeon,3,2,"11,11,9,9,13|6,9,11,11,11",,OTHER,MS,332,Qualification,KASSA Gedeon (COD),ABREFA Derek (GHA),ABREFA Derek
+ITTF Africa Cup Lagos 2014,2014-06-27,ASSAR Omar,ABREFA Derek,3,0,"11,13,11|8,11,3",,OTHER,MS,332,Qualification,ASSAR Omar (EGY),ABREFA Derek (GHA),ASSAR Omar
+ITTF Africa Cup Lagos 2014,2014-06-27,KASSA Gedeon,JAGUE Alain Patrick,3,2,"8,6,11,11,12|11,11,6,4,10",,OTHER,MS,332,Qualification,JAGUE Alain Patrick (CMR),KASSA Gedeon (COD),KASSA Gedeon
+ITTF Africa Cup Lagos 2014,2014-06-27,ARUNA Quadri,NGOMA Steve,3,0,"11,11,11|3,4,3",,OTHER,MS,332,Qualification,ARUNA Quadri (NGR),NGOMA Steve (COD),ARUNA Quadri
+ITTF Africa Cup Lagos 2014,2014-06-27,SAKA Suraju,KAMARA Ibrahim,3,0,"11,11,11|3,5,2",,OTHER,MS,332,Qualification,SAKA Suraju (CGO),KAMARA Ibrahim (SLE),SAKA Suraju
+ITTF Africa Cup Lagos 2014,2014-06-27,ARUNA Quadri,SAKA Suraju,3,2,"12,6,11,11,11|10,11,13,3,6",,OTHER,MS,332,Qualification,ARUNA Quadri (NGR),SAKA Suraju (CGO),ARUNA Quadri
+ITTF Africa Cup Lagos 2014,2014-06-27,NGOMA Steve,KAMARA Ibrahim,3,1,"11,11,10,11|7,7,12,7",,OTHER,MS,332,Qualification,NGOMA Steve (COD),KAMARA Ibrahim (SLE),NGOMA Steve
+ITTF Africa Cup Lagos 2014,2014-06-27,ARUNA Quadri,KAMARA Ibrahim,3,0,"11,11,11|3,3,2",,OTHER,MS,332,Qualification,ARUNA Quadri (NGR),KAMARA Ibrahim (SLE),ARUNA Quadri
+ITTF Africa Cup Lagos 2014,2014-06-27,SAKA Suraju,NGOMA Steve,3,0,"11,11,11|8,5,5",,OTHER,MS,332,Qualification,SAKA Suraju (CGO),NGOMA Steve (COD),SAKA Suraju
+ITTF Africa Cup Lagos 2014,2014-06-27,HMAM Adam,IDOWU Saheed,3,1,"11,11,8,11|4,3,11,8",,OTHER,MS,332,Qualification,IDOWU Saheed (CGO),HMAM Adam (TUN),HMAM Adam
+ITTF Africa Cup Lagos 2014,2014-06-27,TORIOLA Segun,FANNY Kokou,3,0,"11,11,11|1,3,6",,OTHER,MS,332,Qualification,TORIOLA Segun (NGR),FANNY Kokou (TOG),TORIOLA Segun
+ITTF Africa Cup Lagos 2014,2014-06-27,TORIOLA Segun,IDOWU Saheed,3,1,"8,11,11,11|11,1,9,4",,OTHER,MS,332,Qualification,IDOWU Saheed (CGO),TORIOLA Segun (NGR),TORIOLA Segun
+ITTF Africa Cup Lagos 2014,2014-06-27,HMAM Adam,FANNY Kokou,3,0,"11,11,13|4,6,11",,OTHER,MS,332,Qualification,HMAM Adam (TUN),FANNY Kokou (TOG),HMAM Adam
+ITTF Africa Cup Lagos 2014,2014-06-27,IDOWU Saheed,FANNY Kokou,3,0,"14,11,11|12,9,9",,OTHER,MS,332,Qualification,IDOWU Saheed (CGO),FANNY Kokou (TOG),IDOWU Saheed
+ITTF Africa Cup Lagos 2014,2014-06-27,TORIOLA Segun,HMAM Adam,3,2,"11,10,10,11,11|8,12,12,8,4",,OTHER,MS,332,Qualification,TORIOLA Segun (NGR),HMAM Adam (TUN),TORIOLA Segun
+ITTF Africa Cup Lagos 2014,2014-06-27,HAN Xing,BAAH-DANSO Celia,3,0,"11,11,11|2,2,2",,OTHER,WS,332,Qualification,HAN Xing (CGO),BAAH-DANSO Celia (GHA),HAN Xing
+ITTF Africa Cup Lagos 2014,2014-06-27,HAN Xing,LITOBAKA Ammadine,3,0,"11,11,11|7,3,8",,OTHER,WS,332,Qualification,HAN Xing (CGO),LITOBAKA Ammadine (COD),HAN Xing
+ITTF Africa Cup Lagos 2014,2014-06-27,BAAH-DANSO Celia,LITOBAKA Ammadine,3,2,"11,9,11,8,11|3,11,3,11,4",,OTHER,WS,332,Qualification,LITOBAKA Ammadine (COD),BAAH-DANSO Celia (GHA),BAAH-DANSO Celia
+ITTF Africa Cup Lagos 2014,2014-06-27,MAPHANGA Zodwa,HABTE Saba,3,0,"15,11,11|13,7,5",,OTHER,WS,332,Qualification,MAPHANGA Zodwa (RSA),HABTE Saba (ETH),MAPHANGA Zodwa
+ITTF Africa Cup Lagos 2014,2014-06-27,MESHREF Dina,MAPHANGA Zodwa,3,1,"11,8,11,11|9,11,1,4",,OTHER,WS,332,Qualification,MESHREF Dina (EGY),MAPHANGA Zodwa (RSA),MESHREF Dina
+ITTF Africa Cup Lagos 2014,2014-06-27,MESHREF Dina,HABTE Saba,3,0,"11,11,11|6,7,4",,OTHER,WS,332,Qualification,MESHREF Dina (EGY),HABTE Saba (ETH),MESHREF Dina
+ITTF Africa Cup Lagos 2014,2014-06-27,ELDAWLATLY Nadeen,GULTI Marta,3,0,"11,11,11|9,6,7",,OTHER,WS,332,Qualification,ELDAWLATLY Nadeen (EGY),GULTI Marta (ETH),ELDAWLATLY Nadeen
+ITTF Africa Cup Lagos 2014,2014-06-27,OSHONAIKE Olufunke,ELDAWLATLY Nadeen,3,1,"6,11,11,11|11,8,7,9",,OTHER,WS,332,Qualification,ELDAWLATLY Nadeen (EGY),OSHONAIKE Olufunke (NGR),OSHONAIKE Olufunke
+ITTF Africa Cup Lagos 2014,2014-06-27,OSHONAIKE Olufunke,GULTI Marta,3,0,"11,11,11|8,5,4",,OTHER,WS,332,Qualification,OSHONAIKE Olufunke (NGR),GULTI Marta (ETH),OSHONAIKE Olufunke
+ITTF Africa Cup Lagos 2014,2014-06-27,EDEM Offiong,NWACHUKWU Onyinyechi,3,0,"11,11,11|8,3,5",,OTHER,WS,332,Qualification,EDEM Offiong (NGR),NWACHUKWU Onyinyechi (CGO),EDEM Offiong
+ITTF Africa Cup Lagos 2014,2014-06-27,NWACHUKWU Onyinyechi,KWABI Cynthia,3,1,"11,6,12,11|6,11,10,8",,OTHER,WS,332,Qualification,NWACHUKWU Onyinyechi (CGO),KWABI Cynthia (GHA),NWACHUKWU Onyinyechi
+ITTF Africa Cup Lagos 2014,2014-06-27,LASHIN Elsayed,ABREFA Derek,4,0,"11,11,11,12|8,8,6,10",QF,OTHER,MS,332,Main Draw,LASHIN Elsayed (EGY),ABREFA Derek (GHA),LASHIN Elsayed
+ITTF Africa Cup Lagos 2014,2014-06-27,TORIOLA Segun,SAKA Suraju,4,2,"14,8,11,8,11,11|12,11,9,11,7,8",QF,OTHER,MS,332,Main Draw,SAKA Suraju (CGO),TORIOLA Segun (NGR),TORIOLA Segun
+ITTF Africa Cup Lagos 2014,2014-06-27,ARUNA Quadri,AGBETOGLO Mawussi,4,1,"10,11,11,11,11|12,7,5,5,1",QF,OTHER,MS,332,Main Draw,ARUNA Quadri (NGR),AGBETOGLO Mawussi (TOG),ARUNA Quadri
+ITTF Africa Cup Lagos 2014,2014-06-27,ASSAR Omar,HMAM Adam,4,1,"11,11,11,7,11|7,9,1,11,2",QF,OTHER,MS,332,Main Draw,HMAM Adam (TUN),ASSAR Omar (EGY),ASSAR Omar
+ITTF Africa Cup Lagos 2014,2014-06-27,LASHIN Elsayed,TORIOLA Segun,4,1,"8,11,11,11,11|11,6,9,5,7",SF,OTHER,MS,332,Main Draw,LASHIN Elsayed (EGY),TORIOLA Segun (NGR),LASHIN Elsayed
+ITTF Africa Cup Lagos 2014,2014-06-27,ARUNA Quadri,ASSAR Omar,4,2,"11,11,10,5,11,11|7,8,12,11,7,6",SF,OTHER,MS,332,Main Draw,ARUNA Quadri (NGR),ASSAR Omar (EGY),ARUNA Quadri
+ITTF Africa Cup Lagos 2014,2014-06-27,ARUNA Quadri,LASHIN Elsayed,4,3,"11,13,5,11,11,9,11|9,15,11,7,9,11,2",F,OTHER,MS,332,Main Draw,LASHIN Elsayed (EGY),ARUNA Quadri (NGR),ARUNA Quadri
+ITTF Africa Cup Lagos 2014,2014-06-27,SAKA Suraju,ABREFA Derek,4,0,"11,11,11,11|4,1,6,4",5-8,OTHER,MS,332,Position Draw,ABREFA Derek (GHA),SAKA Suraju (CGO),SAKA Suraju
+ITTF Africa Cup Lagos 2014,2014-06-27,AGBETOGLO Mawussi,HMAM Adam,4,1,"11,11,11,8,11|3,4,8,11,7",5-8,OTHER,MS,332,Position Draw,AGBETOGLO Mawussi (TOG),HMAM Adam (TUN),AGBETOGLO Mawussi
+ITTF Africa Cup Lagos 2014,2014-06-27,SAKA Suraju,AGBETOGLO Mawussi,4,1,"11,6,11,11,12|7,11,6,9,10",3RD,OTHER,MS,332,Position Draw,SAKA Suraju (CGO),AGBETOGLO Mawussi (TOG),SAKA Suraju
+ITTF Africa Cup Lagos 2014,2014-06-27,HMAM Adam,ABREFA Derek,4,2,"11,11,9,11,4,11|5,2,11,4,11,3",3RD,OTHER,MS,332,Position Draw,ABREFA Derek (GHA),HMAM Adam (TUN),HMAM Adam
+ITTF Africa Cup Lagos 2014,2014-06-27,ASSAR Omar,TORIOLA Segun,4,1,"9,11,11,11,12|11,8,8,9,10",3RD,OTHER,MS,332,Position Draw,TORIOLA Segun (NGR),ASSAR Omar (EGY),ASSAR Omar
+ITTF Africa Cup Lagos 2014,2014-06-27,NGWE NIKENG Emmanuel,LARTEY Felix,4,3,"11,11,4,8,6,14,12|4,7,11,11,11,12,10",QF,OTHER,MS,332,Main Draw,LARTEY Felix (GHA),NGWE NIKENG Emmanuel (CMR),NGWE NIKENG Emmanuel
+ITTF Africa Cup Lagos 2014,2014-06-27,IDOWU Saheed,JAGUE Alain Patrick,4,0,"11,11,11,11|6,3,7,7",QF,OTHER,MS,332,Main Draw,IDOWU Saheed (CGO),JAGUE Alain Patrick (CMR),IDOWU Saheed
+ITTF Africa Cup Lagos 2014,2014-06-27,FANNY Kokou,KASSA Gedeon,4,0,"11,11,11,11|7,5,7,7",QF,OTHER,MS,332,Main Draw,FANNY Kokou (TOG),KASSA Gedeon (COD),FANNY Kokou
+ITTF Africa Cup Lagos 2014,2014-06-27,JAGUE Alain Patrick,KASSA Gedeon,4,2,"11,9,13,11,9,11|8,11,11,5,11,4",5-8,OTHER,MS,332,Position Draw,JAGUE Alain Patrick (CMR),KASSA Gedeon (COD),JAGUE Alain Patrick
+ITTF Africa Cup Lagos 2014,2014-06-27,LARTEY Felix,JAGUE Alain Patrick,4,2,"11,9,11,11,9,11|6,11,9,7,11,4",3RD,OTHER,MS,332,Position Draw,LARTEY Felix (GHA),JAGUE Alain Patrick (CMR),LARTEY Felix
+ITTF Africa Cup Lagos 2014,2014-06-27,KASSA Gedeon,NGOMA Steve,4,1,"11,10,12,11,11|8,12,10,5,9",3RD,OTHER,MS,332,Position Draw,NGOMA Steve (COD),KASSA Gedeon (COD),KASSA Gedeon
+ITTF Africa Cup Lagos 2014,2014-06-27,FANNY Kokou,KAMARA Ibrahim,4,0,"11,11,11,11|5,6,5,4",3RD,OTHER,MS,332,Position Draw,KAMARA Ibrahim (SLE),FANNY Kokou (TOG),FANNY Kokou
+ITTF Africa Cup Lagos 2014,2014-06-27,HAN Xing,KWABI Cynthia,4,0,"11,11,11,11|5,4,5,6",QF,OTHER,WS,332,Main Draw,HAN Xing (CGO),KWABI Cynthia (GHA),HAN Xing
+ITTF Africa Cup Lagos 2014,2014-06-27,OSHONAIKE Olufunke,MAPHANGA Zodwa,4,0,"11,11,11,11|5,8,4,7",QF,OTHER,WS,332,Main Draw,MAPHANGA Zodwa (RSA),OSHONAIKE Olufunke (NGR),OSHONAIKE Olufunke
+ITTF Africa Cup Lagos 2014,2014-06-27,ELDAWLATLY Nadeen,NWACHUKWU Onyinyechi,4,1,"11,11,11,5,11|7,1,8,11,7",QF,OTHER,WS,332,Main Draw,NWACHUKWU Onyinyechi (CGO),ELDAWLATLY Nadeen (EGY),ELDAWLATLY Nadeen
+ITTF Africa Cup Lagos 2014,2014-06-27,MESHREF Dina,BAAH-DANSO Celia,4,0,"11,11,11,11|4,6,4,3",QF,OTHER,WS,332,Main Draw,BAAH-DANSO Celia (GHA),MESHREF Dina (EGY),MESHREF Dina
+ITTF Africa Cup Lagos 2014,2014-06-27,OSHONAIKE Olufunke,HAN Xing,4,3,"6,11,12,8,6,11,11|11,8,10,11,11,8,9",SF,OTHER,WS,332,Main Draw,HAN Xing (CGO),OSHONAIKE Olufunke (NGR),OSHONAIKE Olufunke
+ITTF Africa Cup Lagos 2014,2014-06-27,MESHREF Dina,ELDAWLATLY Nadeen,4,1,"12,12,11,11,11|10,14,7,7,5",SF,OTHER,WS,332,Main Draw,ELDAWLATLY Nadeen (EGY),MESHREF Dina (EGY),MESHREF Dina
+ITTF Africa Cup Lagos 2014,2014-06-27,MESHREF Dina,OSHONAIKE Olufunke,4,0,"11,13,11,16|6,11,9,14",F,OTHER,WS,332,Main Draw,OSHONAIKE Olufunke (NGR),MESHREF Dina (EGY),MESHREF Dina
+ITTF Africa Cup Lagos 2014,2014-06-27,KWABI Cynthia,MAPHANGA Zodwa,4,2,"11,7,8,11,11,11|8,11,11,5,2,7",5-8,OTHER,WS,332,Position Draw,KWABI Cynthia (GHA),MAPHANGA Zodwa (RSA),KWABI Cynthia
+ITTF Africa Cup Lagos 2014,2014-06-27,NWACHUKWU Onyinyechi,BAAH-DANSO Celia,4,0,"11,13,11,11|8,11,4,8",5-8,OTHER,WS,332,Position Draw,NWACHUKWU Onyinyechi (CGO),BAAH-DANSO Celia (GHA),NWACHUKWU Onyinyechi
+ITTF Africa Cup Lagos 2014,2014-06-27,HAN Xing,ELDAWLATLY Nadeen,4,0,"11,11,11,11|6,8,9,3",3RD,OTHER,WS,332,Position Draw,HAN Xing (CGO),ELDAWLATLY Nadeen (EGY),HAN Xing
+ITTF Africa Cup Lagos 2014,2014-06-27,EDEM Offiong,HABTE Saba,4,0,"11,11,11,11|6,4,4,1",5-8,OTHER,WS,332,Position Draw,EDEM Offiong (NGR),HABTE Saba (ETH),EDEM Offiong
+ITTF Africa Cup Lagos 2014,2014-06-27,EDEM Offiong,GULTI Marta,4,0,"11,11,11,11|2,5,3,6",3RD,OTHER,WS,332,Position Draw,GULTI Marta (ETH),EDEM Offiong (NGR),EDEM Offiong

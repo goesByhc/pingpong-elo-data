@@ -1,39 +1,39 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,LIN Ju,MANCINI Eric,4,0,"11,11,11,11|5,3,8,1",,OTHER,MS,740,Qualification,LIN Ju (DOM),MANCINI Eric (BRA)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,LIN Ju,MADRID Marcos,4,1,"11,8,11,11,11|8,11,7,5,3",,OTHER,MS,740,Qualification,LIN Ju (DOM),MADRID Marcos (MEX)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,MANCINI Eric,MADRID Marcos,4,0,"11,11,11,11|9,9,6,9",,OTHER,MS,740,Qualification,MANCINI Eric (BRA),MADRID Marcos (MEX)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,LIU Song,MOYA Manuel,4,0,"11,11,11,11|5,6,1,1",,OTHER,MS,740,Qualification,LIU Song (ARG),MOYA Manuel (CHI)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,MATSUMOTO Cazuo,LIU Song,4,2,"2,11,12,11,2,13|11,9,10,9,11,11",,OTHER,MS,740,Qualification,MATSUMOTO Cazuo (BRA),LIU Song (ARG)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,MATSUMOTO Cazuo,MOYA Manuel,4,3,"2,11,11,11,7,8,11|11,5,5,7,11,11,8",,OTHER,MS,740,Qualification,MATSUMOTO Cazuo (BRA),MOYA Manuel (CHI)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,TSUBOI Gustavo,DONADO Josue,4,1,"11,16,5,11,11|8,14,11,9,5",,OTHER,MS,740,Qualification,TSUBOI Gustavo (BRA),DONADO Josue (ESA)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,AGUIRRE Marcelo,TSUBOI Gustavo,4,1,"7,13,11,11,11|11,11,8,7,8",,OTHER,MS,740,Qualification,AGUIRRE Marcelo (PAR),TSUBOI Gustavo (BRA)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,AGUIRRE Marcelo,DONADO Josue,4,1,"11,11,11,8,11|6,8,8,11,9",,OTHER,MS,740,Qualification,AGUIRRE Marcelo (PAR),DONADO Josue (ESA)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,HOYAMA Hugo,VILA BATISTA Juan,4,2,"11,7,11,10,12,11|5,11,6,12,10,7",,OTHER,MS,740,Qualification,HOYAMA Hugo (BRA),VILA BATISTA Juan (DOM)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,HOYAMA Hugo,ALTO Gaston,4,1,"11,13,11,11,11|9,15,7,8,7",,OTHER,MS,740,Qualification,HOYAMA Hugo (BRA),ALTO Gaston (ARG)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,ALTO Gaston,VILA BATISTA Juan,4,1,"11,11,11,10,15|9,9,6,12,13",,OTHER,MS,740,Qualification,ALTO Gaston (ARG),VILA BATISTA Juan (DOM)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,LIU Song,LIN Ju,4,3,"11,10,12,8,8,11,11|6,12,10,11,11,6,8",QF,OTHER,MS,740,Main Draw,LIU Song (ARG),LIN Ju (DOM)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,TSUBOI Gustavo,HOYAMA Hugo,4,0,"11,11,11,11|3,7,5,5",QF,OTHER,MS,740,Main Draw,TSUBOI Gustavo (BRA),HOYAMA Hugo (BRA)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,AGUIRRE Marcelo,MANCINI Eric,4,2,"5,9,11,12,11,11|11,11,6,10,9,6",QF,OTHER,MS,740,Main Draw,AGUIRRE Marcelo (PAR),MANCINI Eric (BRA)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,MATSUMOTO Cazuo,ALTO Gaston,4,1,"8,11,12,11,11|11,5,10,8,5",QF,OTHER,MS,740,Main Draw,MATSUMOTO Cazuo (BRA),ALTO Gaston (ARG)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,TSUBOI Gustavo,LIU Song,4,3,"11,11,11,4,5,11,11|4,9,9,11,11,13,8",SF,OTHER,MS,740,Main Draw,TSUBOI Gustavo (BRA),LIU Song (ARG)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,AGUIRRE Marcelo,MATSUMOTO Cazuo,4,1,"11,11,4,11,11|8,4,11,9,8",SF,OTHER,MS,740,Main Draw,AGUIRRE Marcelo (PAR),MATSUMOTO Cazuo (BRA)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,TSUBOI Gustavo,AGUIRRE Marcelo,4,0,"11,11,11,11|5,7,5,6",F,OTHER,MS,740,Main Draw,TSUBOI Gustavo (BRA),AGUIRRE Marcelo (PAR)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,WU Xue,CORDERO Carelyn,4,1,"11,9,11,11,11|8,11,4,2,7",,OTHER,WS,740,Qualification,WU Xue (DOM),CORDERO Carelyn (PUR)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,WU Xue,YAMADA Jessica,4,0,"11,12,11,11|5,10,7,7",,OTHER,WS,740,Qualification,WU Xue (DOM),YAMADA Jessica (BRA)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,YAMADA Jessica,CORDERO Carelyn,4,0,"11,11,11,11|7,4,3,4",,OTHER,WS,740,Qualification,YAMADA Jessica (BRA),CORDERO Carelyn (PUR)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,SILVA Ligia,DIAS Priscila,4,0,"11,11,11,11|9,7,4,7",,OTHER,WS,740,Qualification,SILVA Ligia (BRA),DIAS Priscila (BRA)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,SILVA Ligia,RODRIGUEZ Berta,4,1,"11,11,11,9,11|7,6,4,11,9",,OTHER,WS,740,Qualification,SILVA Ligia (BRA),RODRIGUEZ Berta (CHI)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,RODRIGUEZ Berta,DIAS Priscila,4,0,"11,11,11,11|7,5,1,4",,OTHER,WS,740,Qualification,RODRIGUEZ Berta (CHI),DIAS Priscila (BRA)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,MEDINA Paula,ESTRADA Andrea,4,0,"11,11,11,11|5,3,8,4",,OTHER,WS,740,Qualification,MEDINA Paula (COL),ESTRADA Andrea (GUA)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,MEDINA Paula,NONAKA Mariany,4,0,"11,11,11,11|7,6,5,5",,OTHER,WS,740,Qualification,MEDINA Paula (COL),NONAKA Mariany (BRA)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,ESTRADA Andrea,NONAKA Mariany,4,2,"9,11,11,11,11,11|11,7,13,7,6,5",,OTHER,WS,740,Qualification,ESTRADA Andrea (GUA),NONAKA Mariany (BRA)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,SILVA Yadira,KAWAI Katia,4,1,"11,8,11,11,11|5,11,6,6,9",,OTHER,WS,740,Qualification,SILVA Yadira (MEX),KAWAI Katia (BRA)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,SILVA Yadira,KUMAHARA Luca,4,1,"8,11,12,11,11|11,9,10,9,6",,OTHER,WS,740,Qualification,SILVA Yadira (MEX),KUMAHARA Luca (BRA)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,KUMAHARA Luca,KAWAI Katia,4,1,"11,7,11,11,11|8,11,7,3,6",,OTHER,WS,740,Qualification,KUMAHARA Luca (BRA),KAWAI Katia (BRA)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,WU Xue,KUMAHARA Luca,4,0,"11,11,11,11|7,3,6,5",QF,OTHER,WS,740,Main Draw,WU Xue (DOM),KUMAHARA Luca (BRA)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,MEDINA Paula,RODRIGUEZ Berta,4,1,"7,11,11,11,11|11,6,8,7,5",QF,OTHER,WS,740,Main Draw,MEDINA Paula (COL),RODRIGUEZ Berta (CHI)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,SILVA Yadira,ESTRADA Andrea,4,0,"11,12,11,11|9,10,8,6",QF,OTHER,WS,740,Main Draw,SILVA Yadira (MEX),ESTRADA Andrea (GUA)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,YAMADA Jessica,SILVA Ligia,4,3,"11,11,11,9,11,6,11|13,6,7,11,9,11,8",QF,OTHER,WS,740,Main Draw,YAMADA Jessica (BRA),SILVA Ligia (BRA)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,WU Xue,MEDINA Paula,4,2,"8,11,5,11,11,12|11,8,11,5,7,10",SF,OTHER,WS,740,Main Draw,WU Xue (DOM),MEDINA Paula (COL)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,SILVA Yadira,YAMADA Jessica,4,3,"7,11,6,11,6,11,11|11,9,11,9,11,5,0",SF,OTHER,WS,740,Main Draw,SILVA Yadira (MEX),YAMADA Jessica (BRA)
-ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,WU Xue,SILVA Yadira,4,0,"11,11,11,11|9,7,3,9",F,OTHER,WS,740,Main Draw,WU Xue (DOM),SILVA Yadira (MEX)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,LIN Ju,MANCINI Eric,4,0,"11,11,11,11|5,3,8,1",,OTHER,MS,740,Qualification,LIN Ju (DOM),MANCINI Eric (BRA),LIN Ju
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,LIN Ju,MADRID Marcos,4,1,"11,8,11,11,11|8,11,7,5,3",,OTHER,MS,740,Qualification,LIN Ju (DOM),MADRID Marcos (MEX),LIN Ju
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,MANCINI Eric,MADRID Marcos,4,0,"11,11,11,11|9,9,6,9",,OTHER,MS,740,Qualification,MANCINI Eric (BRA),MADRID Marcos (MEX),MANCINI Eric
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,LIU Song,MOYA Manuel,4,0,"11,11,11,11|5,6,1,1",,OTHER,MS,740,Qualification,LIU Song (ARG),MOYA Manuel (CHI),LIU Song
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,MATSUMOTO Cazuo,LIU Song,4,2,"2,11,12,11,2,13|11,9,10,9,11,11",,OTHER,MS,740,Qualification,MATSUMOTO Cazuo (BRA),LIU Song (ARG),MATSUMOTO Cazuo
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,MATSUMOTO Cazuo,MOYA Manuel,4,3,"2,11,11,11,7,8,11|11,5,5,7,11,11,8",,OTHER,MS,740,Qualification,MATSUMOTO Cazuo (BRA),MOYA Manuel (CHI),MATSUMOTO Cazuo
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,TSUBOI Gustavo,DONADO Josue,4,1,"11,16,5,11,11|8,14,11,9,5",,OTHER,MS,740,Qualification,TSUBOI Gustavo (BRA),DONADO Josue (ESA),TSUBOI Gustavo
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,AGUIRRE Marcelo,TSUBOI Gustavo,4,1,"7,13,11,11,11|11,11,8,7,8",,OTHER,MS,740,Qualification,AGUIRRE Marcelo (PAR),TSUBOI Gustavo (BRA),AGUIRRE Marcelo
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,AGUIRRE Marcelo,DONADO Josue,4,1,"11,11,11,8,11|6,8,8,11,9",,OTHER,MS,740,Qualification,AGUIRRE Marcelo (PAR),DONADO Josue (ESA),AGUIRRE Marcelo
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,HOYAMA Hugo,VILA BATISTA Juan,4,2,"11,7,11,10,12,11|5,11,6,12,10,7",,OTHER,MS,740,Qualification,HOYAMA Hugo (BRA),VILA BATISTA Juan (DOM),HOYAMA Hugo
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,HOYAMA Hugo,ALTO Gaston,4,1,"11,13,11,11,11|9,15,7,8,7",,OTHER,MS,740,Qualification,HOYAMA Hugo (BRA),ALTO Gaston (ARG),HOYAMA Hugo
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,ALTO Gaston,VILA BATISTA Juan,4,1,"11,11,11,10,15|9,9,6,12,13",,OTHER,MS,740,Qualification,ALTO Gaston (ARG),VILA BATISTA Juan (DOM),ALTO Gaston
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,LIU Song,LIN Ju,4,3,"11,10,12,8,8,11,11|6,12,10,11,11,6,8",QF,OTHER,MS,740,Main Draw,LIU Song (ARG),LIN Ju (DOM),LIU Song
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,TSUBOI Gustavo,HOYAMA Hugo,4,0,"11,11,11,11|3,7,5,5",QF,OTHER,MS,740,Main Draw,TSUBOI Gustavo (BRA),HOYAMA Hugo (BRA),TSUBOI Gustavo
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,AGUIRRE Marcelo,MANCINI Eric,4,2,"5,9,11,12,11,11|11,11,6,10,9,6",QF,OTHER,MS,740,Main Draw,AGUIRRE Marcelo (PAR),MANCINI Eric (BRA),AGUIRRE Marcelo
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,MATSUMOTO Cazuo,ALTO Gaston,4,1,"8,11,12,11,11|11,5,10,8,5",QF,OTHER,MS,740,Main Draw,MATSUMOTO Cazuo (BRA),ALTO Gaston (ARG),MATSUMOTO Cazuo
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,TSUBOI Gustavo,LIU Song,4,3,"11,11,11,4,5,11,11|4,9,9,11,11,13,8",SF,OTHER,MS,740,Main Draw,TSUBOI Gustavo (BRA),LIU Song (ARG),TSUBOI Gustavo
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,AGUIRRE Marcelo,MATSUMOTO Cazuo,4,1,"11,11,4,11,11|8,4,11,9,8",SF,OTHER,MS,740,Main Draw,AGUIRRE Marcelo (PAR),MATSUMOTO Cazuo (BRA),AGUIRRE Marcelo
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,TSUBOI Gustavo,AGUIRRE Marcelo,4,0,"11,11,11,11|5,7,5,6",F,OTHER,MS,740,Main Draw,TSUBOI Gustavo (BRA),AGUIRRE Marcelo (PAR),TSUBOI Gustavo
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,WU Xue,CORDERO Carelyn,4,1,"11,9,11,11,11|8,11,4,2,7",,OTHER,WS,740,Qualification,WU Xue (DOM),CORDERO Carelyn (PUR),WU Xue
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,WU Xue,YAMADA Jessica,4,0,"11,12,11,11|5,10,7,7",,OTHER,WS,740,Qualification,WU Xue (DOM),YAMADA Jessica (BRA),WU Xue
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,YAMADA Jessica,CORDERO Carelyn,4,0,"11,11,11,11|7,4,3,4",,OTHER,WS,740,Qualification,YAMADA Jessica (BRA),CORDERO Carelyn (PUR),YAMADA Jessica
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,SILVA Ligia,DIAS Priscila,4,0,"11,11,11,11|9,7,4,7",,OTHER,WS,740,Qualification,SILVA Ligia (BRA),DIAS Priscila (BRA),SILVA Ligia
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,SILVA Ligia,RODRIGUEZ Berta,4,1,"11,11,11,9,11|7,6,4,11,9",,OTHER,WS,740,Qualification,SILVA Ligia (BRA),RODRIGUEZ Berta (CHI),SILVA Ligia
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,RODRIGUEZ Berta,DIAS Priscila,4,0,"11,11,11,11|7,5,1,4",,OTHER,WS,740,Qualification,RODRIGUEZ Berta (CHI),DIAS Priscila (BRA),RODRIGUEZ Berta
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,MEDINA Paula,ESTRADA Andrea,4,0,"11,11,11,11|5,3,8,4",,OTHER,WS,740,Qualification,MEDINA Paula (COL),ESTRADA Andrea (GUA),MEDINA Paula
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,MEDINA Paula,NONAKA Mariany,4,0,"11,11,11,11|7,6,5,5",,OTHER,WS,740,Qualification,MEDINA Paula (COL),NONAKA Mariany (BRA),MEDINA Paula
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,ESTRADA Andrea,NONAKA Mariany,4,2,"9,11,11,11,11,11|11,7,13,7,6,5",,OTHER,WS,740,Qualification,ESTRADA Andrea (GUA),NONAKA Mariany (BRA),ESTRADA Andrea
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,SILVA Yadira,KAWAI Katia,4,1,"11,8,11,11,11|5,11,6,6,9",,OTHER,WS,740,Qualification,SILVA Yadira (MEX),KAWAI Katia (BRA),SILVA Yadira
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,SILVA Yadira,KUMAHARA Luca,4,1,"8,11,12,11,11|11,9,10,9,6",,OTHER,WS,740,Qualification,SILVA Yadira (MEX),KUMAHARA Luca (BRA),SILVA Yadira
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,KUMAHARA Luca,KAWAI Katia,4,1,"11,7,11,11,11|8,11,7,3,6",,OTHER,WS,740,Qualification,KUMAHARA Luca (BRA),KAWAI Katia (BRA),KUMAHARA Luca
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,WU Xue,KUMAHARA Luca,4,0,"11,11,11,11|7,3,6,5",QF,OTHER,WS,740,Main Draw,WU Xue (DOM),KUMAHARA Luca (BRA),WU Xue
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,MEDINA Paula,RODRIGUEZ Berta,4,1,"7,11,11,11,11|11,6,8,7,5",QF,OTHER,WS,740,Main Draw,MEDINA Paula (COL),RODRIGUEZ Berta (CHI),MEDINA Paula
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,SILVA Yadira,ESTRADA Andrea,4,0,"11,12,11,11|9,10,8,6",QF,OTHER,WS,740,Main Draw,SILVA Yadira (MEX),ESTRADA Andrea (GUA),SILVA Yadira
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,YAMADA Jessica,SILVA Ligia,4,3,"11,11,11,9,11,6,11|13,6,7,11,9,11,8",QF,OTHER,WS,740,Main Draw,YAMADA Jessica (BRA),SILVA Ligia (BRA),YAMADA Jessica
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,WU Xue,MEDINA Paula,4,2,"8,11,5,11,11,12|11,8,11,5,7,10",SF,OTHER,WS,740,Main Draw,WU Xue (DOM),MEDINA Paula (COL),WU Xue
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,SILVA Yadira,YAMADA Jessica,4,3,"7,11,6,11,6,11,11|11,9,11,9,11,5,0",SF,OTHER,WS,740,Main Draw,SILVA Yadira (MEX),YAMADA Jessica (BRA),SILVA Yadira
+ITTF Latin American Cup Rio de Janeiro 2011,2011-03-17,WU Xue,SILVA Yadira,4,0,"11,11,11,11|9,7,3,9",F,OTHER,WS,740,Main Draw,WU Xue (DOM),SILVA Yadira (MEX),WU Xue

@@ -1,336 +1,336 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-World Tour Qatar Open Doha 2018,2018-03-08,LIN Yun-Ju,KARLSSON Kristian,4,2,"11,11,11,4,5,13|5,5,7,11,11,11",,GRAND_SLAM,MS,870,Qualification,KARLSSON Kristian (SWE),LIN Yun-Ju (TPE)
-World Tour Qatar Open Doha 2018,2018-03-08,JANCARIK Lubomir,KARLSSON Kristian,4,0,,,GRAND_SLAM,MS,870,Qualification,KARLSSON Kristian (SWE),JANCARIK Lubomir (CZE)
-World Tour Qatar Open Doha 2018,2018-03-08,LIN Yun-Ju,JANCARIK Lubomir,4,0,"11,11,11,14|5,2,4,12",,GRAND_SLAM,MS,870,Qualification,JANCARIK Lubomir (CZE),LIN Yun-Ju (TPE)
-World Tour Qatar Open Doha 2018,2018-03-08,FILUS Ruwen,ELBEIALI Mohamed,4,0,"11,11,11,11|9,3,8,3",,GRAND_SLAM,MS,870,Qualification,FILUS Ruwen (GER),ELBEIALI Mohamed (EGY)
-World Tour Qatar Open Doha 2018,2018-03-08,FILUS Ruwen,LORENTZ Romain,4,1,"12,11,11,11,11|14,6,7,4,2",,GRAND_SLAM,MS,870,Qualification,FILUS Ruwen (GER),LORENTZ Romain (FRA)
-World Tour Qatar Open Doha 2018,2018-03-08,ELBEIALI Mohamed,LORENTZ Romain,4,0,"11,11,11,11|9,5,8,9",,GRAND_SLAM,MS,870,Qualification,LORENTZ Romain (FRA),ELBEIALI Mohamed (EGY)
-World Tour Qatar Open Doha 2018,2018-03-08,MATSUYAMA Yuki,MADRID Marcos,4,3,"11,7,6,5,11,13,11|5,11,11,11,9,11,3",,GRAND_SLAM,MS,870,Qualification,MADRID Marcos (MEX),MATSUYAMA Yuki (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,YOSHIMURA Maharu,MADRID Marcos,4,0,"11,11,12,16|5,4,10,14",,GRAND_SLAM,MS,870,Qualification,MADRID Marcos (MEX),YOSHIMURA Maharu (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,YOSHIMURA Maharu,MATSUYAMA Yuki,4,2,"11,11,10,9,14,11|6,7,12,11,12,7",,GRAND_SLAM,MS,870,Qualification,YOSHIMURA Maharu (JPN),MATSUYAMA Yuki (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,ARUNA Quadri,TREGLER Tomas,4,0,"13,11,11,11|11,9,6,5",,GRAND_SLAM,MS,870,Qualification,ARUNA Quadri (NGR),TREGLER Tomas (CZE)
-World Tour Qatar Open Doha 2018,2018-03-08,ARUNA Quadri,WANG Yang,4,1,"11,11,11,14,11|7,13,2,12,5",,GRAND_SLAM,MS,870,Qualification,ARUNA Quadri (NGR),WANG Yang (SVK)
-World Tour Qatar Open Doha 2018,2018-03-08,WANG Yang,TREGLER Tomas,4,0,"12,11,11,12|10,3,8,10",,GRAND_SLAM,MS,870,Qualification,WANG Yang (SVK),TREGLER Tomas (CZE)
-World Tour Qatar Open Doha 2018,2018-03-08,KIM Donghyun,MATSUDAIRA Kenji,4,1,"11,10,13,11,11|2,12,11,9,8",,GRAND_SLAM,MS,870,Qualification,KIM Donghyun (KOR),MATSUDAIRA Kenji (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,KIM Donghyun,YOSHIDA Masaki,4,1,"5,11,11,12,11|11,7,9,10,9",,GRAND_SLAM,MS,870,Qualification,KIM Donghyun (KOR),YOSHIDA Masaki (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,YOSHIDA Masaki,MATSUDAIRA Kenji,4,1,"11,11,9,11,11|9,9,11,7,6",,GRAND_SLAM,MS,870,Qualification,YOSHIDA Masaki (JPN),MATSUDAIRA Kenji (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,CHEN Chien-An,ROBINOT Alexandre,4,0,"11,12,11,11|6,10,9,9",,GRAND_SLAM,MS,870,Qualification,CHEN Chien-An (TPE),ROBINOT Alexandre (FRA)
-World Tour Qatar Open Doha 2018,2018-03-08,JEOUNG Youngsik,CHEN Chien-An,4,1,"11,11,15,11,11|6,6,17,8,7",,GRAND_SLAM,MS,870,Qualification,CHEN Chien-An (TPE),JEOUNG Youngsik (KOR)
-World Tour Qatar Open Doha 2018,2018-03-08,ROBINOT Alexandre,JEOUNG Youngsik,4,0,"11,11,11,13|8,5,8,11",,GRAND_SLAM,MS,870,Qualification,JEOUNG Youngsik (KOR),ROBINOT Alexandre (FRA)
-World Tour Qatar Open Doha 2018,2018-03-08,KOU Lei,TANVIRIYAVECHAKUL Padasak,4,1,"13,11,11,11,14|11,9,2,13,12",,GRAND_SLAM,MS,870,Qualification,KOU Lei (UKR),TANVIRIYAVECHAKUL Padasak (THA)
-World Tour Qatar Open Doha 2018,2018-03-08,KOU Lei,LAKATOS Tamas,4,0,"11,11,11,11|5,9,3,7",,GRAND_SLAM,MS,870,Qualification,KOU Lei (UKR),LAKATOS Tamas (HUN)
-World Tour Qatar Open Doha 2018,2018-03-08,TANVIRIYAVECHAKUL Padasak,LAKATOS Tamas,4,3,"11,8,5,8,11,11,11|9,11,11,11,7,8,8",,GRAND_SLAM,MS,870,Qualification,LAKATOS Tamas (HUN),TANVIRIYAVECHAKUL Padasak (THA)
-World Tour Qatar Open Doha 2018,2018-03-08,UEDA Jin,LANDRIEU Andrea,4,2,"1,13,11,6,11,11|11,11,5,11,2,3",,GRAND_SLAM,MS,870,Qualification,UEDA Jin (JPN),LANDRIEU Andrea (FRA)
-World Tour Qatar Open Doha 2018,2018-03-08,SKACHKOV Kirill,UEDA Jin,4,2,"11,6,8,11,11,11|9,11,11,9,5,8",,GRAND_SLAM,MS,870,Qualification,UEDA Jin (JPN),SKACHKOV Kirill (RUS)
-World Tour Qatar Open Doha 2018,2018-03-08,SKACHKOV Kirill,LANDRIEU Andrea,4,2,"9,13,11,11,11,16|11,11,2,6,13,14",,GRAND_SLAM,MS,870,Qualification,SKACHKOV Kirill (RUS),LANDRIEU Andrea (FRA)
-World Tour Qatar Open Doha 2018,2018-03-08,BOBOCICA Mihai,WALTHER Ricardo,4,3,"9,9,11,12,11,6,12|11,11,6,10,9,11,10",,GRAND_SLAM,MS,870,Qualification,WALTHER Ricardo (GER),BOBOCICA Mihai (ITA)
-World Tour Qatar Open Doha 2018,2018-03-08,WALTHER Ricardo,TOKIC Bojan,4,0,,,GRAND_SLAM,MS,870,Qualification,WALTHER Ricardo (GER),TOKIC Bojan (SLO)
-World Tour Qatar Open Doha 2018,2018-03-08,BOBOCICA Mihai,TOKIC Bojan,4,0,"11,11,11,11|8,8,8,8",,GRAND_SLAM,MS,870,Qualification,TOKIC Bojan (SLO),BOBOCICA Mihai (ITA)
-World Tour Qatar Open Doha 2018,2018-03-08,GROTH Jonathan,CRISAN Adrian,4,2,"2,4,11,11,11,11|11,11,8,8,5,9",,GRAND_SLAM,MS,870,Qualification,GROTH Jonathan (DEN),CRISAN Adrian (ROU)
-World Tour Qatar Open Doha 2018,2018-03-08,GROTH Jonathan,SIRUCEK Pavel,4,1,"11,14,11,2,11|7,12,6,11,9",,GRAND_SLAM,MS,870,Qualification,GROTH Jonathan (DEN),SIRUCEK Pavel (CZE)
-World Tour Qatar Open Doha 2018,2018-03-08,SIRUCEK Pavel,CRISAN Adrian,4,3,"6,6,11,5,11,11,11|11,11,8,11,5,4,8",,GRAND_SLAM,MS,870,Qualification,SIRUCEK Pavel (CZE),CRISAN Adrian (ROU)
-World Tour Qatar Open Doha 2018,2018-03-08,FANG Bo,SALEH Ahmed,4,0,"11,11,13,11|6,5,11,2",,GRAND_SLAM,MS,870,Qualification,FANG Bo (KAZ),SALEH Ahmed (EGY)
-World Tour Qatar Open Doha 2018,2018-03-08,FANG Bo,PISTEJ Lubomir,4,1,"11,11,11,10,11|3,7,8,12,2",,GRAND_SLAM,MS,870,Qualification,FANG Bo (KAZ),PISTEJ Lubomir (SVK)
-World Tour Qatar Open Doha 2018,2018-03-08,PISTEJ Lubomir,SALEH Ahmed,4,3,"11,6,9,13,11,6,12|9,11,11,11,2,11,10",,GRAND_SLAM,MS,870,Qualification,PISTEJ Lubomir (SVK),SALEH Ahmed (EGY)
-World Tour Qatar Open Doha 2018,2018-03-08,ZHOU Yu,JEONG Sangeun,4,1,"11,11,10,11,11|5,7,12,6,6",,GRAND_SLAM,MS,870,Qualification,JEONG Sangeun (KOR),ZHOU Yu (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,JEONG Sangeun,OLAH Benedek,4,0,"11,11,12,11|8,5,10,6",,GRAND_SLAM,MS,870,Qualification,JEONG Sangeun (KOR),OLAH Benedek (FIN)
-World Tour Qatar Open Doha 2018,2018-03-08,ZHOU Yu,OLAH Benedek,4,1,"9,11,11,11,11|11,7,6,5,9",,GRAND_SLAM,MS,870,Qualification,OLAH Benedek (FIN),ZHOU Yu (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,XUE Fei,STEGER Bastian,4,2,"6,11,19,11,6,11|11,6,17,4,11,3",,GRAND_SLAM,MS,870,Qualification,STEGER Bastian (GER),XUE Fei (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,STEGER Bastian,PITCHFORD Liam,4,1,"12,7,11,19,11|10,11,9,17,8",,GRAND_SLAM,MS,870,Qualification,STEGER Bastian (GER),PITCHFORD Liam (ENG)
-World Tour Qatar Open Doha 2018,2018-03-08,PITCHFORD Liam,XUE Fei,4,3,"7,11,7,11,7,20,12|11,5,11,5,11,18,10",,GRAND_SLAM,MS,870,Qualification,PITCHFORD Liam (ENG),XUE Fei (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,APOLONIA Tiago,AFANADOR Brian,4,1,"11,12,11,4,11|4,10,7,11,8",,GRAND_SLAM,MS,870,Qualification,APOLONIA Tiago (POR),AFANADOR Brian (PUR)
-World Tour Qatar Open Doha 2018,2018-03-08,APOLONIA Tiago,YOSHIMURA Kazuhiro,4,3,"11,11,11,2,11,2,11|8,9,9,11,13,11,8",,GRAND_SLAM,MS,870,Qualification,APOLONIA Tiago (POR),YOSHIMURA Kazuhiro (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,YOSHIMURA Kazuhiro,AFANADOR Brian,4,0,"11,11,11,11|7,6,3,9",,GRAND_SLAM,MS,870,Qualification,YOSHIMURA Kazuhiro (JPN),AFANADOR Brian (PUR)
-World Tour Qatar Open Doha 2018,2018-03-08,SALIFOU Abdel-Kader,MCBEATH David,4,1,"11,11,10,14,11|4,7,12,12,8",,GRAND_SLAM,MS,870,Qualification,SALIFOU Abdel-Kader (BEN),MCBEATH David (ENG)
-World Tour Qatar Open Doha 2018,2018-03-08,SALIFOU Abdel-Kader,DRINKHALL Paul,4,2,"6,8,11,11,11,11|11,11,8,4,8,6",,GRAND_SLAM,MS,870,Qualification,SALIFOU Abdel-Kader (BEN),DRINKHALL Paul (ENG)
-World Tour Qatar Open Doha 2018,2018-03-08,DRINKHALL Paul,MCBEATH David,4,2,"11,11,12,6,11,11|13,5,10,11,7,4",,GRAND_SLAM,MS,870,Qualification,DRINKHALL Paul (ENG),MCBEATH David (ENG)
-World Tour Qatar Open Doha 2018,2018-03-08,KARLSSON Mattias,LIU Dingshuo,4,3,"11,9,11,7,11,7,12|9,11,9,11,8,11,10",,GRAND_SLAM,MS,870,Qualification,KARLSSON Mattias (SWE),LIU Dingshuo (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,KARLSSON Mattias,AKKUZU Can,4,0,"11,11,11,11|7,6,7,7",,GRAND_SLAM,MS,870,Qualification,KARLSSON Mattias (SWE),AKKUZU Can (FRA)
-World Tour Qatar Open Doha 2018,2018-03-08,LIU Dingshuo,AKKUZU Can,4,0,"11,13,12,11|6,11,10,4",,GRAND_SLAM,MS,870,Qualification,AKKUZU Can (FRA),LIU Dingshuo (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,JANG Woojin,SEYFRIED Joe,4,2,"11,8,9,11,11,11|5,11,11,5,9,4",,GRAND_SLAM,MS,870,Qualification,JANG Woojin (KOR),SEYFRIED Joe (FRA)
-World Tour Qatar Open Doha 2018,2018-03-08,JANG Woojin,WALKER Samuel,4,3,"12,7,11,10,11,12,11|10,11,5,12,5,14,6",,GRAND_SLAM,MS,870,Qualification,JANG Woojin (KOR),WALKER Samuel (ENG)
-World Tour Qatar Open Doha 2018,2018-03-08,WALKER Samuel,SEYFRIED Joe,4,1,"5,11,12,13,11|11,8,10,11,9",,GRAND_SLAM,MS,870,Qualification,WALKER Samuel (ENG),SEYFRIED Joe (FRA)
-World Tour Qatar Open Doha 2018,2018-03-08,FRANZISKA Patrick,ZHAI Yujia,4,0,"11,11,11,11|7,6,6,8",,GRAND_SLAM,MS,870,Qualification,FRANZISKA Patrick (GER),ZHAI Yujia (DEN)
-World Tour Qatar Open Doha 2018,2018-03-08,FRANZISKA Patrick,KONECNY Tomas,4,0,"11,11,11,11|6,6,7,6",,GRAND_SLAM,MS,870,Qualification,FRANZISKA Patrick (GER),KONECNY Tomas (CZE)
-World Tour Qatar Open Doha 2018,2018-03-08,ZHAI Yujia,KONECNY Tomas,4,3,"4,10,11,6,11,11,11|11,12,8,11,8,8,4",,GRAND_SLAM,MS,870,Qualification,KONECNY Tomas (CZE),ZHAI Yujia (DEN)
-World Tour Qatar Open Doha 2018,2018-03-08,WANG Chuqin,ROBLES Alvaro,4,1,"11,11,11,10,11|5,4,2,12,6",,GRAND_SLAM,MS,870,Qualification,ROBLES Alvaro (ESP),WANG Chuqin (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,ANTHONY Amalraj,ROBLES Alvaro,4,3,"7,11,11,7,11,7,11|11,9,8,11,9,11,6",,GRAND_SLAM,MS,870,Qualification,ROBLES Alvaro (ESP),ANTHONY Amalraj (IND)
-World Tour Qatar Open Doha 2018,2018-03-08,WANG Chuqin,ANTHONY Amalraj,4,0,"11,11,11,11|7,4,7,5",,GRAND_SLAM,MS,870,Qualification,ANTHONY Amalraj (IND),WANG Chuqin (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,STOYANOV Niagol,LIAO Cheng-Ting,4,1,"12,11,11,11,11|14,3,4,7,6",,GRAND_SLAM,MS,870,Qualification,LIAO Cheng-Ting (TPE),STOYANOV Niagol (ITA)
-World Tour Qatar Open Doha 2018,2018-03-08,LIAO Cheng-Ting,ROBINOT Quentin,4,0,,,GRAND_SLAM,MS,870,Qualification,LIAO Cheng-Ting (TPE),ROBINOT Quentin (FRA)
-World Tour Qatar Open Doha 2018,2018-03-08,STOYANOV Niagol,ROBINOT Quentin,4,2,"11,8,11,12,2,11|9,11,9,10,11,9",,GRAND_SLAM,MS,870,Qualification,ROBINOT Quentin (FRA),STOYANOV Niagol (ITA)
-World Tour Qatar Open Doha 2018,2018-03-08,HO Kwan Kit,KOJIC Frane,4,1,"11,5,11,11,11|9,11,8,9,6",,GRAND_SLAM,MS,870,Qualification,HO Kwan Kit (HKG),KOJIC Frane (CRO)
-World Tour Qatar Open Doha 2018,2018-03-08,PERSSON Jon,HO Kwan Kit,4,0,"11,11,11,11|3,8,6,5",,GRAND_SLAM,MS,870,Qualification,HO Kwan Kit (HKG),PERSSON Jon (SWE)
-World Tour Qatar Open Doha 2018,2018-03-08,PERSSON Jon,KOJIC Frane,4,0,"11,11,11,11|9,9,5,3",,GRAND_SLAM,MS,870,Qualification,PERSSON Jon (SWE),KOJIC Frane (CRO)
-World Tour Qatar Open Doha 2018,2018-03-08,GERASSIMENKO Kirill,RANEFUR Elias,4,0,"12,18,13,12|10,16,11,10",,GRAND_SLAM,MS,870,Qualification,GERASSIMENKO Kirill (KAZ),RANEFUR Elias (SWE)
-World Tour Qatar Open Doha 2018,2018-03-08,GERASSIMENKO Kirill,KIZUKURI Yuto,4,3,"11,2,8,11,9,11,11|6,11,11,9,11,8,8",,GRAND_SLAM,MS,870,Qualification,GERASSIMENKO Kirill (KAZ),KIZUKURI Yuto (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,KIZUKURI Yuto,RANEFUR Elias,4,3,"13,3,7,8,11,11,11|11,11,11,11,6,7,8",,GRAND_SLAM,MS,870,Qualification,KIZUKURI Yuto (JPN),RANEFUR Elias (SWE)
-World Tour Qatar Open Doha 2018,2018-03-08,NUYTINCK Cedric,OMOTAYO Olajide,4,1,"7,15,11,11,11|11,13,7,2,9",,GRAND_SLAM,MS,870,Qualification,NUYTINCK Cedric (BEL),OMOTAYO Olajide (NGR)
-World Tour Qatar Open Doha 2018,2018-03-08,HABESOHN Daniel,NUYTINCK Cedric,4,1,"11,11,11,6,11|5,5,9,11,9",,GRAND_SLAM,MS,870,Qualification,NUYTINCK Cedric (BEL),HABESOHN Daniel (AUT)
-World Tour Qatar Open Doha 2018,2018-03-08,HABESOHN Daniel,OMOTAYO Olajide,4,0,"11,11,11,11|9,6,7,6",,GRAND_SLAM,MS,870,Qualification,HABESOHN Daniel (AUT),OMOTAYO Olajide (NGR)
-World Tour Qatar Open Doha 2018,2018-03-08,JIANG Tianyi,SODERLUND Hampus,4,1,"11,11,7,11,11|5,5,11,6,8",,GRAND_SLAM,MS,870,Qualification,JIANG Tianyi (HKG),SODERLUND Hampus (SWE)
-World Tour Qatar Open Doha 2018,2018-03-08,JIANG Tianyi,SZOCS Hunor,4,1,"5,11,11,11,11|11,5,7,9,8",,GRAND_SLAM,MS,870,Qualification,JIANG Tianyi (HKG),SZOCS Hunor (ROU)
-World Tour Qatar Open Doha 2018,2018-03-08,SZOCS Hunor,SODERLUND Hampus,4,2,"11,5,12,9,11,11|6,11,10,11,5,9",,GRAND_SLAM,MS,870,Qualification,SZOCS Hunor (ROU),SODERLUND Hampus (SWE)
-World Tour Qatar Open Doha 2018,2018-03-08,FEGERL Stefan,MUTTI Leonardo,4,1,"9,12,11,13,11|11,10,3,11,7",,GRAND_SLAM,MS,870,Qualification,FEGERL Stefan (AUT),MUTTI Leonardo (ITA)
-World Tour Qatar Open Doha 2018,2018-03-08,ALAMIYAN Noshad,FEGERL Stefan,4,1,"11,7,11,11,11|7,11,5,9,9",,GRAND_SLAM,MS,870,Qualification,FEGERL Stefan (AUT),ALAMIYAN Noshad (IRI)
-World Tour Qatar Open Doha 2018,2018-03-08,ALAMIYAN Noshad,MUTTI Leonardo,4,0,"11,11,11,11|9,6,7,9",,GRAND_SLAM,MS,870,Qualification,ALAMIYAN Noshad (IRI),MUTTI Leonardo (ITA)
-World Tour Qatar Open Doha 2018,2018-03-08,MORIZONO Masataka,CHO Daeseong,4,1,"7,11,11,11,12|11,6,4,7,10",,GRAND_SLAM,MS,870,Qualification,MORIZONO Masataka (JPN),CHO Daeseong (KOR)
-World Tour Qatar Open Doha 2018,2018-03-08,MORIZONO Masataka,PUCAR Tomislav,4,0,,,GRAND_SLAM,MS,870,Qualification,MORIZONO Masataka (JPN),PUCAR Tomislav (CRO)
-World Tour Qatar Open Doha 2018,2018-03-08,CHO Daeseong,PUCAR Tomislav,4,0,,,GRAND_SLAM,MS,870,Qualification,PUCAR Tomislav (CRO),CHO Daeseong (KOR)
-World Tour Qatar Open Doha 2018,2018-03-08,DUDA Benedikt,LEE Chia-Sheng,4,0,"11,12,12,13|7,10,10,11",,GRAND_SLAM,MS,870,Qualification,DUDA Benedikt (GER),LEE Chia-Sheng (TPE)
-World Tour Qatar Open Doha 2018,2018-03-08,DUDA Benedikt,IONESCU Ovidiu,4,1,"11,12,11,11,11|8,14,7,7,3",,GRAND_SLAM,MS,870,Qualification,DUDA Benedikt (GER),IONESCU Ovidiu (ROU)
-World Tour Qatar Open Doha 2018,2018-03-08,IONESCU Ovidiu,LEE Chia-Sheng,4,0,"11,11,11,11|5,4,4,5",,GRAND_SLAM,MS,870,Qualification,IONESCU Ovidiu (ROU),LEE Chia-Sheng (TPE)
-World Tour Qatar Open Doha 2018,2018-03-08,GNANASEKARAN Sathiyan,KOSIBA Daniel,4,0,"11,11,11,11|7,6,2,3",,GRAND_SLAM,MS,870,Qualification,GNANASEKARAN Sathiyan (IND),KOSIBA Daniel (HUN)
-World Tour Qatar Open Doha 2018,2018-03-08,GERALDO Joao,GNANASEKARAN Sathiyan,4,1,"12,11,4,11,11|10,9,11,6,8",,GRAND_SLAM,MS,870,Qualification,GNANASEKARAN Sathiyan (IND),GERALDO Joao (POR)
-World Tour Qatar Open Doha 2018,2018-03-08,KOSIBA Daniel,GERALDO Joao,4,0,"11,11,11,12|9,9,7,10",,GRAND_SLAM,MS,870,Qualification,GERALDO Joao (POR),KOSIBA Daniel (HUN)
-World Tour Qatar Open Doha 2018,2018-03-08,LIM Jonghoon,PASSARA Pattaratorn,4,0,"11,11,11,11|4,4,5,9",,GRAND_SLAM,MS,870,Qualification,LIM Jonghoon (KOR),PASSARA Pattaratorn (THA)
-World Tour Qatar Open Doha 2018,2018-03-08,LIM Jonghoon,SHETTY Sanil,4,0,"11,11,12,11|5,8,10,9",,GRAND_SLAM,MS,870,Qualification,LIM Jonghoon (KOR),SHETTY Sanil (IND)
-World Tour Qatar Open Doha 2018,2018-03-08,SHETTY Sanil,PASSARA Pattaratorn,4,0,"11,11,16,11|8,5,14,5",,GRAND_SLAM,MS,870,Qualification,SHETTY Sanil (IND),PASSARA Pattaratorn (THA)
-World Tour Qatar Open Doha 2018,2018-03-08,GARDOS Robert,ABDULWAHHAB Mohammed,4,1,"11,8,11,11,11|9,11,5,3,5",,GRAND_SLAM,MS,870,Qualification,GARDOS Robert (AUT),ABDULWAHHAB Mohammed (QAT)
-World Tour Qatar Open Doha 2018,2018-03-08,GARDOS Robert,NG Pak Nam,4,0,"11,11,11,11|8,8,3,8",,GRAND_SLAM,MS,870,Qualification,GARDOS Robert (AUT),NG Pak Nam (HKG)
-World Tour Qatar Open Doha 2018,2018-03-08,NG Pak Nam,ABDULWAHHAB Mohammed,4,0,"11,11,11,11|5,2,4,5",,GRAND_SLAM,MS,870,Qualification,NG Pak Nam (HKG),ABDULWAHHAB Mohammed (QAT)
-World Tour Qatar Open Doha 2018,2018-03-08,ACHANTA Sharath,ABO YAMAN Zaid,4,0,"11,12,11,11|8,10,6,1",,GRAND_SLAM,MS,870,Qualification,ACHANTA Sharath (IND),ABO YAMAN Zaid (JOR)
-World Tour Qatar Open Doha 2018,2018-03-08,ACHANTA Sharath,SHIBAEV Alexander,4,0,,,GRAND_SLAM,MS,870,Qualification,ACHANTA Sharath (IND),SHIBAEV Alexander (RUS)
-World Tour Qatar Open Doha 2018,2018-03-08,ABO YAMAN Zaid,SHIBAEV Alexander,4,0,,,GRAND_SLAM,MS,870,Qualification,SHIBAEV Alexander (RUS),ABO YAMAN Zaid (JOR)
-World Tour Qatar Open Doha 2018,2018-03-08,GACINA Andrej,ALMALKI Nawaf,4,0,"11,11,11,11|6,1,9,3",,GRAND_SLAM,MS,870,Qualification,GACINA Andrej (CRO),ALMALKI Nawaf (QAT)
-World Tour Qatar Open Doha 2018,2018-03-08,GACINA Andrej,GHOSH Soumyajit,4,2,"11,11,10,11,6,11|9,6,12,7,11,4",,GRAND_SLAM,MS,870,Qualification,GACINA Andrej (CRO),GHOSH Soumyajit (IND)
-World Tour Qatar Open Doha 2018,2018-03-08,GHOSH Soumyajit,ALMALKI Nawaf,4,1,"11,11,7,11,11|9,6,11,4,5",,GRAND_SLAM,MS,870,Qualification,GHOSH Soumyajit (IND),ALMALKI Nawaf (QAT)
-World Tour Qatar Open Doha 2018,2018-03-08,MONTEIRO Joao,PANAGITGUN Yanapong,4,1,"11,4,11,15,11|1,11,3,13,5",,GRAND_SLAM,MS,870,Qualification,MONTEIRO Joao (POR),PANAGITGUN Yanapong (THA)
-World Tour Qatar Open Doha 2018,2018-03-08,DESAI Harmeet,AL-HAJAJI Abdulaziz,4,0,"11,11,11,11|3,8,1,5",,GRAND_SLAM,MS,870,Qualification,DESAI Harmeet (IND),AL-HAJAJI Abdulaziz (QAT)
-World Tour Qatar Open Doha 2018,2018-03-08,MONTEIRO Joao,DESAI Harmeet,4,1,"11,11,9,13,11|8,5,11,11,8",,GRAND_SLAM,MS,870,Qualification,MONTEIRO Joao (POR),DESAI Harmeet (IND)
-World Tour Qatar Open Doha 2018,2018-03-08,PANAGITGUN Yanapong,AL-HAJAJI Abdulaziz,4,0,"14,11,11,11|12,6,6,7",,GRAND_SLAM,MS,870,Qualification,PANAGITGUN Yanapong (THA),AL-HAJAJI Abdulaziz (QAT)
-World Tour Qatar Open Doha 2018,2018-03-08,MONTEIRO Joao,AL-HAJAJI Abdulaziz,4,0,"11,11,11,11|4,6,5,2",,GRAND_SLAM,MS,870,Qualification,MONTEIRO Joao (POR),AL-HAJAJI Abdulaziz (QAT)
-World Tour Qatar Open Doha 2018,2018-03-08,DESAI Harmeet,PANAGITGUN Yanapong,4,0,"11,11,11,11|6,6,5,7",,GRAND_SLAM,MS,870,Qualification,DESAI Harmeet (IND),PANAGITGUN Yanapong (THA)
-World Tour Qatar Open Doha 2018,2018-03-08,KALLBERG Anton,AL-NAGGAR Abdulrahman,4,0,"11,11,11,11|6,9,8,4",,GRAND_SLAM,MS,870,Qualification,KALLBERG Anton (SWE),AL-NAGGAR Abdulrahman (QAT)
-World Tour Qatar Open Doha 2018,2018-03-08,LAM Siu Hang,AL ABDULLA Abdulaziz,4,0,"11,11,11,11|3,3,7,6",,GRAND_SLAM,MS,870,Qualification,AL ABDULLA Abdulaziz (QAT),LAM Siu Hang (HKG)
-World Tour Qatar Open Doha 2018,2018-03-08,KALLBERG Anton,AL ABDULLA Abdulaziz,4,0,"11,11,11,11|2,1,3,8",,GRAND_SLAM,MS,870,Qualification,KALLBERG Anton (SWE),AL ABDULLA Abdulaziz (QAT)
-World Tour Qatar Open Doha 2018,2018-03-08,LAM Siu Hang,AL-NAGGAR Abdulrahman,4,0,"11,11,11,11|4,6,4,1",,GRAND_SLAM,MS,870,Qualification,AL-NAGGAR Abdulrahman (QAT),LAM Siu Hang (HKG)
-World Tour Qatar Open Doha 2018,2018-03-08,KALLBERG Anton,LAM Siu Hang,4,3,"8,10,7,11,12,13,11|11,12,11,7,10,11,7",,GRAND_SLAM,MS,870,Qualification,KALLBERG Anton (SWE),LAM Siu Hang (HKG)
-World Tour Qatar Open Doha 2018,2018-03-08,AL-NAGGAR Abdulrahman,AL ABDULLA Abdulaziz,4,0,"11,11,11,11|8,7,7,8",,GRAND_SLAM,MS,870,Qualification,AL ABDULLA Abdulaziz (QAT),AL-NAGGAR Abdulrahman (QAT)
-World Tour Qatar Open Doha 2018,2018-03-08,SATO Hitomi,CECHOVA Dana,4,0,"11,11,12,11|3,7,10,7",,GRAND_SLAM,WS,870,Qualification,SATO Hitomi (JPN),CECHOVA Dana (CZE)
-World Tour Qatar Open Doha 2018,2018-03-08,SATO Hitomi,LIU Hsing-Yin,4,1,"13,11,9,11,11|11,6,11,6,7",,GRAND_SLAM,WS,870,Qualification,SATO Hitomi (JPN),LIU Hsing-Yin (TPE)
-World Tour Qatar Open Doha 2018,2018-03-08,LIU Hsing-Yin,CECHOVA Dana,4,3,"5,11,9,11,11,7,13|11,6,11,4,6,11,11",,GRAND_SLAM,WS,870,Qualification,LIU Hsing-Yin (TPE),CECHOVA Dana (CZE)
-World Tour Qatar Open Doha 2018,2018-03-08,ZHANG Rui,POLCANOVA Sofia,4,0,"11,11,16,11|4,6,14,4",,GRAND_SLAM,WS,870,Qualification,POLCANOVA Sofia (AUT),ZHANG Rui (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,POLCANOVA Sofia,XIAO Maria,4,1,"11,11,11,8,11|6,4,3,11,8",,GRAND_SLAM,WS,870,Qualification,POLCANOVA Sofia (AUT),XIAO Maria (ESP)
-World Tour Qatar Open Doha 2018,2018-03-08,ZHANG Rui,XIAO Maria,4,0,"11,11,11,12|5,2,5,10",,GRAND_SLAM,WS,870,Qualification,XIAO Maria (ESP),ZHANG Rui (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,DING Ning,KHETKHUAN Tamolwan,4,0,"11,11,11,11|7,3,3,4",,GRAND_SLAM,WS,870,Qualification,DING Ning (CHN),KHETKHUAN Tamolwan (THA)
-World Tour Qatar Open Doha 2018,2018-03-08,DING Ning,KIHARA Miyuu,4,1,"12,11,11,11,13|14,8,4,9,11",,GRAND_SLAM,WS,870,Qualification,DING Ning (CHN),KIHARA Miyuu (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,KIHARA Miyuu,KHETKHUAN Tamolwan,4,0,"11,11,11,11|3,7,5,7",,GRAND_SLAM,WS,870,Qualification,KIHARA Miyuu (JPN),KHETKHUAN Tamolwan (THA)
-World Tour Qatar Open Doha 2018,2018-03-08,WU Yang,LIN Ye,4,0,"11,19,11,11|5,17,6,6",,GRAND_SLAM,WS,870,Qualification,LIN Ye (CAN),WU Yang (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,LIU Shiwen,LIN Ye,4,1,"8,11,12,14,11|11,6,10,12,9",,GRAND_SLAM,WS,870,Qualification,LIN Ye (CAN),LIU Shiwen (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,LIU Shiwen,WU Yang,4,0,"11,13,11,11|6,11,7,5",,GRAND_SLAM,WS,870,Qualification,LIU Shiwen (CHN),WU Yang (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,NAGASAKI Miyu,SAMARA Elizabeta,4,1,"11,11,13,15,11|13,5,11,13,6",,GRAND_SLAM,WS,870,Qualification,SAMARA Elizabeta (ROU),NAGASAKI Miyu (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,SAMARA Elizabeta,MADARASZ Dora,4,0,"11,11,15,11|8,7,13,7",,GRAND_SLAM,WS,870,Qualification,SAMARA Elizabeta (ROU),MADARASZ Dora (HUN)
-World Tour Qatar Open Doha 2018,2018-03-08,NAGASAKI Miyu,MADARASZ Dora,4,0,"11,11,12,11|4,9,10,4",,GRAND_SLAM,WS,870,Qualification,MADARASZ Dora (HUN),NAGASAKI Miyu (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,YOO Eunchong,SOO Wai Yam,4,1,"12,15,11,10,11|10,13,5,12,7",,GRAND_SLAM,WS,870,Qualification,SOO Wai Yam (HKG),YOO Eunchong (KOR)
-World Tour Qatar Open Doha 2018,2018-03-08,SOO Wai Yam,ZHOU Yihan,4,1,"11,11,4,11,11|7,5,11,9,3",,GRAND_SLAM,WS,870,Qualification,SOO Wai Yam (HKG),ZHOU Yihan (SGP)
-World Tour Qatar Open Doha 2018,2018-03-08,YOO Eunchong,ZHOU Yihan,4,1,"11,11,12,4,11|8,8,10,11,4",,GRAND_SLAM,WS,870,Qualification,ZHOU Yihan (SGP),YOO Eunchong (KOR)
-World Tour Qatar Open Doha 2018,2018-03-08,WANG Yidi,YANG Ha Eun,4,0,"11,11,11,11|8,5,8,4",,GRAND_SLAM,WS,870,Qualification,YANG Ha Eun (KOR),WANG Yidi (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,YANG Ha Eun,NOSKOVA Yana,4,2,"12,11,11,9,6,12|10,3,2,11,11,10",,GRAND_SLAM,WS,870,Qualification,YANG Ha Eun (KOR),NOSKOVA Yana (RUS)
-World Tour Qatar Open Doha 2018,2018-03-08,WANG Yidi,NOSKOVA Yana,4,3,"11,11,11,8,7,7,12|8,6,8,11,11,11,10",,GRAND_SLAM,WS,870,Qualification,NOSKOVA Yana (RUS),WANG Yidi (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,YU Fu,VARADY Barbora,4,1,"11,11,11,11,11|6,13,8,8,6",,GRAND_SLAM,WS,870,Qualification,YU Fu (POR),VARADY Barbora (SVK)
-World Tour Qatar Open Doha 2018,2018-03-08,YU Fu,HU Melek,4,1,"9,11,12,12,11|11,8,10,10,5",,GRAND_SLAM,WS,870,Qualification,YU Fu (POR),HU Melek (TUR)
-World Tour Qatar Open Doha 2018,2018-03-08,HU Melek,VARADY Barbora,4,2,"11,9,11,7,11,11|1,11,5,11,5,2",,GRAND_SLAM,WS,870,Qualification,HU Melek (TUR),VARADY Barbora (SVK)
-World Tour Qatar Open Doha 2018,2018-03-08,HASHIMOTO Honoka,SUN Mingyang,4,2,"11,11,6,5,11,11|7,9,11,11,7,6",,GRAND_SLAM,WS,870,Qualification,HASHIMOTO Honoka (JPN),SUN Mingyang (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,HASHIMOTO Honoka,PERGEL Szandra,4,0,"11,11,11,11|7,8,6,5",,GRAND_SLAM,WS,870,Qualification,HASHIMOTO Honoka (JPN),PERGEL Szandra (HUN)
-World Tour Qatar Open Doha 2018,2018-03-08,SUN Mingyang,PERGEL Szandra,4,0,"11,11,11,11|8,4,5,9",,GRAND_SLAM,WS,870,Qualification,PERGEL Szandra (HUN),SUN Mingyang (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,ZENG Jian,LI Fen,4,3,"7,8,11,11,9,11,13|11,11,7,9,11,7,11",,GRAND_SLAM,WS,870,Qualification,ZENG Jian (SGP),LI Fen (SWE)
-World Tour Qatar Open Doha 2018,2018-03-08,ZENG Jian,WINTER Sabine,4,0,"11,11,11,11|7,7,7,8",,GRAND_SLAM,WS,870,Qualification,ZENG Jian (SGP),WINTER Sabine (GER)
-World Tour Qatar Open Doha 2018,2018-03-08,LI Fen,WINTER Sabine,4,2,"10,11,10,11,11,11|12,9,12,5,3,3",,GRAND_SLAM,WS,870,Qualification,WINTER Sabine (GER),LI Fen (SWE)
-World Tour Qatar Open Doha 2018,2018-03-08,SHIBATA Saki,SHIN Yubin,4,2,"11,11,9,11,9,11|9,7,11,8,11,7",,GRAND_SLAM,WS,870,Qualification,SHIBATA Saki (JPN),SHIN Yubin (KOR)
-World Tour Qatar Open Doha 2018,2018-03-08,SHIBATA Saki,DE NUTTE Sarah,4,2,"8,11,11,11,12,11|11,9,3,5,14,5",,GRAND_SLAM,WS,870,Qualification,SHIBATA Saki (JPN),DE NUTTE Sarah (LUX)
-World Tour Qatar Open Doha 2018,2018-03-08,DE NUTTE Sarah,SHIN Yubin,4,3,"11,9,11,7,11,6,11|9,11,7,11,6,11,3",,GRAND_SLAM,WS,870,Qualification,DE NUTTE Sarah (LUX),SHIN Yubin (KOR)
-World Tour Qatar Open Doha 2018,2018-03-08,ZHANG Mo,ODO Satsuki,4,3,"11,8,5,11,2,15,11|8,11,11,8,11,13,7",,GRAND_SLAM,WS,870,Qualification,ZHANG Mo (CAN),ODO Satsuki (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,BATRA Manika,ZHANG Mo,4,3,"11,11,11,7,9,11,11|13,5,1,11,11,8,8",,GRAND_SLAM,WS,870,Qualification,ZHANG Mo (CAN),BATRA Manika (IND)
-World Tour Qatar Open Doha 2018,2018-03-08,BATRA Manika,ODO Satsuki,4,0,"11,11,11,11|6,5,8,6",,GRAND_SLAM,WS,870,Qualification,BATRA Manika (IND),ODO Satsuki (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,YANG Xiaoxin,EKHOLM Matilda,4,2,"14,12,9,8,11,11|12,10,11,11,8,4",,GRAND_SLAM,WS,870,Qualification,EKHOLM Matilda (SWE),YANG Xiaoxin (MON)
-World Tour Qatar Open Doha 2018,2018-03-08,EKHOLM Matilda,DAS Mouma,4,0,"11,11,11,11|5,9,4,5",,GRAND_SLAM,WS,870,Qualification,EKHOLM Matilda (SWE),DAS Mouma (IND)
-World Tour Qatar Open Doha 2018,2018-03-08,YANG Xiaoxin,DAS Mouma,4,0,"11,15,11,11|9,13,2,8",,GRAND_SLAM,WS,870,Qualification,DAS Mouma (IND),YANG Xiaoxin (MON)
-World Tour Qatar Open Doha 2018,2018-03-08,HAN Ying,MOHAMED Aia,4,0,"11,11,11,11|1,6,2,2",,GRAND_SLAM,WS,870,Qualification,HAN Ying (GER),MOHAMED Aia (QAT)
-World Tour Qatar Open Doha 2018,2018-03-08,CHEN Ke,HAN Ying,4,1,"11,11,10,11,12|5,7,12,7,10",,GRAND_SLAM,WS,870,Qualification,HAN Ying (GER),CHEN Ke (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,CHEN Ke,MOHAMED Aia,4,0,"11,11,11,11|1,6,3,3",,GRAND_SLAM,WS,870,Qualification,CHEN Ke (CHN),MOHAMED Aia (QAT)
-World Tour Qatar Open Doha 2018,2018-03-08,HAMAMOTO Yui,SAWETTABUT Jinnipa,4,0,"11,11,11,11|3,6,7,1",,GRAND_SLAM,WS,870,Qualification,HAMAMOTO Yui (AUT),SAWETTABUT Jinnipa (THA)
-World Tour Qatar Open Doha 2018,2018-03-08,CHOI Hyojoo,HAMAMOTO Yui,4,3,"12,8,6,11,11,11,11|14,11,11,6,3,7,4",,GRAND_SLAM,WS,870,Qualification,HAMAMOTO Yui (AUT),CHOI Hyojoo (KOR)
-World Tour Qatar Open Doha 2018,2018-03-08,CHOI Hyojoo,SAWETTABUT Jinnipa,4,0,"11,11,11,11|7,7,6,8",,GRAND_SLAM,WS,870,Qualification,CHOI Hyojoo (KOR),SAWETTABUT Jinnipa (THA)
-World Tour Qatar Open Doha 2018,2018-03-08,LIU Jia,LIN Chia-Hui,4,0,"11,11,11,13|2,8,4,11",,GRAND_SLAM,WS,870,Qualification,LIU Jia (AUT),LIN Chia-Hui (TPE)
-World Tour Qatar Open Doha 2018,2018-03-08,MATELOVA Hana,LIU Jia,4,3,"13,9,8,11,11,10,13|11,11,11,3,8,12,11",,GRAND_SLAM,WS,870,Qualification,LIU Jia (AUT),MATELOVA Hana (CZE)
-World Tour Qatar Open Doha 2018,2018-03-08,MATELOVA Hana,LIN Chia-Hui,4,1,"6,11,13,11,11|11,2,11,6,9",,GRAND_SLAM,WS,870,Qualification,MATELOVA Hana (CZE),LIN Chia-Hui (TPE)
-World Tour Qatar Open Doha 2018,2018-03-08,SUN Yingsha,FARAMARZI Maha,4,0,"11,11,11,11|3,4,3,1",,GRAND_SLAM,WS,870,Qualification,SUN Yingsha (CHN),FARAMARZI Maha (QAT)
-World Tour Qatar Open Doha 2018,2018-03-08,SUN Yingsha,NI Xia Lian,4,1,"8,11,11,11,11|11,5,7,1,9",,GRAND_SLAM,WS,870,Qualification,SUN Yingsha (CHN),NI Xia Lian (LUX)
-World Tour Qatar Open Doha 2018,2018-03-08,NI Xia Lian,FARAMARZI Maha,4,0,"11,11,11,11|4,3,3,4",,GRAND_SLAM,WS,870,Qualification,NI Xia Lian (LUX),FARAMARZI Maha (QAT)
-World Tour Qatar Open Doha 2018,2018-03-08,KIM Jiho,SZOCS Bernadette,4,3,"7,13,11,11,11,10,11|11,11,13,9,9,12,7",,GRAND_SLAM,WS,870,Qualification,SZOCS Bernadette (ROU),KIM Jiho (KOR)
-World Tour Qatar Open Doha 2018,2018-03-08,SZOCS Bernadette,YU Mengyu,4,1,"11,11,11,4,11|4,9,3,11,7",,GRAND_SLAM,WS,870,Qualification,SZOCS Bernadette (ROU),YU Mengyu (SGP)
-World Tour Qatar Open Doha 2018,2018-03-08,YU Mengyu,KIM Jiho,4,3,"5,12,8,18,4,11,11|11,10,11,16,11,6,7",,GRAND_SLAM,WS,870,Qualification,YU Mengyu (SGP),KIM Jiho (KOR)
-World Tour Qatar Open Doha 2018,2018-03-08,MAEDA Miyu,HUSSAIN Kholoud,4,0,"11,11,11,11|1,3,2,4",,GRAND_SLAM,WS,870,Qualification,MAEDA Miyu (JPN),HUSSAIN Kholoud (QAT)
-World Tour Qatar Open Doha 2018,2018-03-08,MAEDA Miyu,SAWETTABUT Suthasini,4,1,"12,11,11,9,11|10,7,4,11,9",,GRAND_SLAM,WS,870,Qualification,MAEDA Miyu (JPN),SAWETTABUT Suthasini (THA)
-World Tour Qatar Open Doha 2018,2018-03-08,SAWETTABUT Suthasini,HUSSAIN Kholoud,4,0,"11,11,11,11|5,5,3,1",,GRAND_SLAM,WS,870,Qualification,SAWETTABUT Suthasini (THA),HUSSAIN Kholoud (QAT)
-World Tour Qatar Open Doha 2018,2018-03-08,CHENG Hsien-Tzu,MYNAROVA Karolina,4,1,"11,11,4,11,11|3,3,11,6,5",,GRAND_SLAM,WS,870,Qualification,CHENG Hsien-Tzu (TPE),MYNAROVA Karolina (CZE)
-World Tour Qatar Open Doha 2018,2018-03-08,NG Wing Nam,ALI Maha,4,0,"11,11,11,11|4,2,1,3",,GRAND_SLAM,WS,870,Qualification,NG Wing Nam (HKG),ALI Maha (QAT)
-World Tour Qatar Open Doha 2018,2018-03-08,NG Wing Nam,CHENG Hsien-Tzu,4,3,"11,10,11,8,7,13,11|8,12,9,11,11,11,5",,GRAND_SLAM,WS,870,Qualification,CHENG Hsien-Tzu (TPE),NG Wing Nam (HKG)
-World Tour Qatar Open Doha 2018,2018-03-08,MYNAROVA Karolina,ALI Maha,4,0,"11,11,11,11|2,3,2,5",,GRAND_SLAM,WS,870,Qualification,MYNAROVA Karolina (CZE),ALI Maha (QAT)
-World Tour Qatar Open Doha 2018,2018-03-08,CHENG Hsien-Tzu,ALI Maha,4,0,"11,11,11,11|4,1,2,3",,GRAND_SLAM,WS,870,Qualification,CHENG Hsien-Tzu (TPE),ALI Maha (QAT)
-World Tour Qatar Open Doha 2018,2018-03-08,NG Wing Nam,MYNAROVA Karolina,4,0,"12,11,11,11|10,6,5,4",,GRAND_SLAM,WS,870,Qualification,NG Wing Nam (HKG),MYNAROVA Karolina (CZE)
-World Tour Qatar Open Doha 2018,2018-03-08,CHE Xiaoxi,JIANG Huajun,4,0,"11,11,11,11|3,7,9,4",,GRAND_SLAM,WS,870,Qualification,JIANG Huajun (HKG),CHE Xiaoxi (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,HU Limei,JEON Jihee,4,2,"8,11,11,11,9,11|11,5,6,8,11,2",,GRAND_SLAM,WS,870,Qualification,HU Limei (CHN),JEON Jihee (KOR)
-World Tour Qatar Open Doha 2018,2018-03-08,HU Limei,JIANG Huajun,4,1,"11,11,13,11,11|13,5,11,8,7",,GRAND_SLAM,WS,870,Qualification,JIANG Huajun (HKG),HU Limei (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,CHE Xiaoxi,JEON Jihee,4,2,"12,11,3,11,12,11|14,7,11,9,10,9",,GRAND_SLAM,WS,870,Qualification,CHE Xiaoxi (CHN),JEON Jihee (KOR)
-World Tour Qatar Open Doha 2018,2018-03-08,JEON Jihee,JIANG Huajun,4,1,"11,11,8,11,11|9,9,11,9,6",,GRAND_SLAM,WS,870,Qualification,JIANG Huajun (HKG),JEON Jihee (KOR)
-World Tour Qatar Open Doha 2018,2018-03-08,CHE Xiaoxi,HU Limei,4,2,"12,11,8,6,15,11|10,9,11,11,13,8",,GRAND_SLAM,WS,870,Qualification,HU Limei (CHN),CHE Xiaoxi (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,GACINA Andrej,MONTEIRO Joao,4,2,"5,11,9,11,11,11|11,6,11,4,4,8",QR64,GRAND_SLAM,MS,870,Qualification,GACINA Andrej (CRO),MONTEIRO Joao (POR)
-World Tour Qatar Open Doha 2018,2018-03-08,ACHANTA Sharath,KALLBERG Anton,4,2,"7,11,16,11,9,13|11,6,14,8,11,11",QR64,GRAND_SLAM,MS,870,Qualification,ACHANTA Sharath (IND),KALLBERG Anton (SWE)
-World Tour Qatar Open Doha 2018,2018-03-08,LIN Yun-Ju,GACINA Andrej,4,3,"9,14,12,13,14,10,11|11,16,10,11,12,12,5",QR32,GRAND_SLAM,MS,870,Qualification,LIN Yun-Ju (TPE),GACINA Andrej (CRO)
-World Tour Qatar Open Doha 2018,2018-03-08,ACHANTA Sharath,FILUS Ruwen,4,1,"11,8,11,11,11|6,11,7,2,7",QR32,GRAND_SLAM,MS,870,Qualification,FILUS Ruwen (GER),ACHANTA Sharath (IND)
-World Tour Qatar Open Doha 2018,2018-03-08,YOSHIMURA Maharu,GARDOS Robert,4,1,"11,12,13,5,11|4,10,11,11,5",QR32,GRAND_SLAM,MS,870,Qualification,YOSHIMURA Maharu (JPN),GARDOS Robert (AUT)
-World Tour Qatar Open Doha 2018,2018-03-08,LIM Jonghoon,ARUNA Quadri,4,3,"11,6,11,9,11,5,11|9,11,9,11,8,11,4",QR32,GRAND_SLAM,MS,870,Qualification,ARUNA Quadri (NGR),LIM Jonghoon (KOR)
-World Tour Qatar Open Doha 2018,2018-03-08,GNANASEKARAN Sathiyan,KIM Donghyun,4,0,"12,11,11,11|10,5,7,9",QR32,GRAND_SLAM,MS,870,Qualification,KIM Donghyun (KOR),GNANASEKARAN Sathiyan (IND)
-World Tour Qatar Open Doha 2018,2018-03-08,DUDA Benedikt,CHEN Chien-An,4,3,"11,11,11,9,7,3,11|8,4,5,11,11,11,8",QR32,GRAND_SLAM,MS,870,Qualification,CHEN Chien-An (TPE),DUDA Benedikt (GER)
-World Tour Qatar Open Doha 2018,2018-03-08,KOU Lei,MORIZONO Masataka,4,3,"6,11,11,5,14,9,11|11,9,5,11,12,11,3",QR32,GRAND_SLAM,MS,870,Qualification,KOU Lei (UKR),MORIZONO Masataka (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,ALAMIYAN Noshad,SKACHKOV Kirill,4,3,"11,12,12,9,11,8,16|7,14,10,11,7,11,14",QR32,GRAND_SLAM,MS,870,Qualification,SKACHKOV Kirill (RUS),ALAMIYAN Noshad (IRI)
-World Tour Qatar Open Doha 2018,2018-03-08,BOBOCICA Mihai,JIANG Tianyi,4,1,"12,13,11,11,11|10,15,9,6,9",QR32,GRAND_SLAM,MS,870,Qualification,BOBOCICA Mihai (ITA),JIANG Tianyi (HKG)
-World Tour Qatar Open Doha 2018,2018-03-08,GROTH Jonathan,HABESOHN Daniel,4,1,"7,11,11,11,11|11,7,9,6,5",QR32,GRAND_SLAM,MS,870,Qualification,GROTH Jonathan (DEN),HABESOHN Daniel (AUT)
-World Tour Qatar Open Doha 2018,2018-03-08,FANG Bo,GERASSIMENKO Kirill,4,0,"11,11,11,11|6,8,9,6",QR32,GRAND_SLAM,MS,870,Qualification,FANG Bo (KAZ),GERASSIMENKO Kirill (KAZ)
-World Tour Qatar Open Doha 2018,2018-03-08,ZHOU Yu,PERSSON Jon,4,0,"12,13,11,11|10,11,8,8",QR32,GRAND_SLAM,MS,870,Qualification,ZHOU Yu (CHN),PERSSON Jon (SWE)
-World Tour Qatar Open Doha 2018,2018-03-08,STEGER Bastian,STOYANOV Niagol,4,0,"11,11,11,11|2,5,8,6",QR32,GRAND_SLAM,MS,870,Qualification,STEGER Bastian (GER),STOYANOV Niagol (ITA)
-World Tour Qatar Open Doha 2018,2018-03-08,APOLONIA Tiago,WANG Chuqin,4,2,"6,11,8,11,13,11|11,8,11,9,11,9",QR32,GRAND_SLAM,MS,870,Qualification,APOLONIA Tiago (POR),WANG Chuqin (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,FRANZISKA Patrick,SALIFOU Abdel-Kader,4,1,"13,11,10,11,11|11,6,12,6,5",QR32,GRAND_SLAM,MS,870,Qualification,SALIFOU Abdel-Kader (BEN),FRANZISKA Patrick (GER)
-World Tour Qatar Open Doha 2018,2018-03-08,KARLSSON Mattias,JANG Woojin,4,3,"9,11,13,11,8,11,13|11,2,11,7,11,13,11",QR32,GRAND_SLAM,MS,870,Qualification,KARLSSON Mattias (SWE),JANG Woojin (KOR)
-World Tour Qatar Open Doha 2018,2018-03-08,CHE Xiaoxi,BATRA Manika,4,3,"4,11,7,8,11,11,11|11,4,11,11,6,9,6",QR32,GRAND_SLAM,WS,870,Qualification,BATRA Manika (IND),CHE Xiaoxi (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,YANG Xiaoxin,NG Wing Nam,4,0,"11,11,11,11|8,3,8,7",QR32,GRAND_SLAM,WS,870,Qualification,YANG Xiaoxin (MON),NG Wing Nam (HKG)
-World Tour Qatar Open Doha 2018,2018-03-08,CHEN Ke,MAEDA Miyu,4,2,"11,11,11,4,7,11|4,8,9,11,11,7",QR32,GRAND_SLAM,WS,870,Qualification,CHEN Ke (CHN),MAEDA Miyu (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,SZOCS Bernadette,CHOI Hyojoo,4,3,"11,13,9,11,11,3,11|6,15,11,7,8,11,9",QR32,GRAND_SLAM,WS,870,Qualification,CHOI Hyojoo (KOR),SZOCS Bernadette (ROU)
-World Tour Qatar Open Doha 2018,2018-03-08,SUN Yingsha,MATELOVA Hana,4,0,"11,11,11,11|6,9,2,3",QR32,GRAND_SLAM,WS,870,Qualification,MATELOVA Hana (CZE),SUN Yingsha (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,FAN Zhendong,YOSHIMURA Maharu,4,1,"11,5,11,11,13|9,11,3,1,11",R32,GRAND_SLAM,MS,870,Main Draw,FAN Zhendong (CHN),YOSHIMURA Maharu (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,MIZUTANI Jun,FRANZISKA Patrick,4,2,"5,11,11,7,13,11|11,7,7,11,11,5",R32,GRAND_SLAM,MS,870,Main Draw,FRANZISKA Patrick (GER),MIZUTANI Jun (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,GROTH Jonathan,LI Ping,4,1,"11,11,11,5,11|8,6,9,11,5",R32,GRAND_SLAM,MS,870,Main Draw,LI Ping (QAT),GROTH Jonathan (DEN)
-World Tour Qatar Open Doha 2018,2018-03-08,ACHANTA Sharath,NIWA Koki,4,1,"9,11,11,14,11|11,9,8,12,9",R32,GRAND_SLAM,MS,870,Main Draw,ACHANTA Sharath (IND),NIWA Koki (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,KARLSSON Mattias,GAUZY Simon,4,1,"11,11,11,8,11|3,8,4,11,9",R32,GRAND_SLAM,MS,870,Main Draw,GAUZY Simon (FRA),KARLSSON Mattias (SWE)
-World Tour Qatar Open Doha 2018,2018-03-08,ZHOU Yu,ASSAR Omar,4,1,"11,13,12,8,11|5,11,10,11,6",R32,GRAND_SLAM,MS,870,Main Draw,ZHOU Yu (CHN),ASSAR Omar (EGY)
-World Tour Qatar Open Doha 2018,2018-03-08,LEE Sang Su,STEGER Bastian,4,2,"12,11,5,6,12,11|10,9,11,11,10,9",R32,GRAND_SLAM,MS,870,Main Draw,LEE Sang Su (KOR),STEGER Bastian (GER)
-World Tour Qatar Open Doha 2018,2018-03-08,XU Xin,APOLONIA Tiago,4,1,"13,11,11,11,11|15,2,5,8,4",R32,GRAND_SLAM,MS,870,Main Draw,APOLONIA Tiago (POR),XU Xin (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,LIN Gaoyuan,ALAMIYAN Noshad,4,0,"14,11,11,11|12,6,5,7",R32,GRAND_SLAM,MS,870,Main Draw,LIN Gaoyuan (CHN),ALAMIYAN Noshad (IRI)
-World Tour Qatar Open Doha 2018,2018-03-08,FANG Bo,CHUANG Chih-Yuan,4,3,"11,11,9,13,10,11,11|9,4,11,15,12,7,7",R32,GRAND_SLAM,MS,870,Main Draw,FANG Bo (KAZ),CHUANG Chih-Yuan (TPE)
-World Tour Qatar Open Doha 2018,2018-03-08,KOU Lei,FREITAS Marcos,4,2,"11,16,11,5,8,11|8,14,7,11,11,2",R32,GRAND_SLAM,MS,870,Main Draw,FREITAS Marcos (POR),KOU Lei (UKR)
-World Tour Qatar Open Doha 2018,2018-03-08,WONG Chun Ting,DUDA Benedikt,4,3,"11,10,11,10,13,7,11|7,12,6,12,11,11,4",R32,GRAND_SLAM,MS,870,Main Draw,DUDA Benedikt (GER),WONG Chun Ting (HKG)
-World Tour Qatar Open Doha 2018,2018-03-08,HARIMOTO Tomokazu,BOBOCICA Mihai,4,2,"11,11,11,6,6,11|5,7,6,11,11,3",R32,GRAND_SLAM,MS,870,Main Draw,HARIMOTO Tomokazu (JPN),BOBOCICA Mihai (ITA)
-World Tour Qatar Open Doha 2018,2018-03-08,GNANASEKARAN Sathiyan,OSHIMA Yuya,4,3,"6,11,2,12,10,11,11|11,5,11,10,12,4,8",R32,GRAND_SLAM,MS,870,Main Draw,GNANASEKARAN Sathiyan (IND),OSHIMA Yuya (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,CALDERANO Hugo,LIM Jonghoon,4,1,"11,11,11,11,11|1,7,9,13,5",R32,GRAND_SLAM,MS,870,Main Draw,CALDERANO Hugo (BRA),LIM Jonghoon (KOR)
-World Tour Qatar Open Doha 2018,2018-03-08,BOLL Timo,LIN Yun-Ju,4,1,"12,11,11,11,11|14,5,6,3,5",R32,GRAND_SLAM,MS,870,Main Draw,LIN Yun-Ju (TPE),BOLL Timo (GER)
-World Tour Qatar Open Doha 2018,2018-03-08,FAN Zhendong,MIZUTANI Jun,4,1,"8,11,11,11,11|11,7,6,7,6",R16,GRAND_SLAM,MS,870,Main Draw,FAN Zhendong (CHN),MIZUTANI Jun (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,GROTH Jonathan,ACHANTA Sharath,4,0,"11,11,11,12|7,7,2,10",R16,GRAND_SLAM,MS,870,Main Draw,GROTH Jonathan (DEN),ACHANTA Sharath (IND)
-World Tour Qatar Open Doha 2018,2018-03-08,ZHOU Yu,KARLSSON Mattias,4,1,"7,11,11,11,11|11,9,5,3,8",R16,GRAND_SLAM,MS,870,Main Draw,KARLSSON Mattias (SWE),ZHOU Yu (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,XU Xin,LEE Sang Su,4,0,"11,11,11,11|8,5,5,3",R16,GRAND_SLAM,MS,870,Main Draw,LEE Sang Su (KOR),XU Xin (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,LIN Gaoyuan,FANG Bo,4,0,,R16,GRAND_SLAM,MS,870,Main Draw,LIN Gaoyuan (CHN),FANG Bo (KAZ)
-World Tour Qatar Open Doha 2018,2018-03-08,WONG Chun Ting,KOU Lei,4,1,"6,11,11,11,11|11,5,9,8,4",R16,GRAND_SLAM,MS,870,Main Draw,KOU Lei (UKR),WONG Chun Ting (HKG)
-World Tour Qatar Open Doha 2018,2018-03-08,HARIMOTO Tomokazu,GNANASEKARAN Sathiyan,4,3,"7,8,11,11,8,11,11|11,11,8,7,11,1,4",R16,GRAND_SLAM,MS,870,Main Draw,HARIMOTO Tomokazu (JPN),GNANASEKARAN Sathiyan (IND)
-World Tour Qatar Open Doha 2018,2018-03-08,CALDERANO Hugo,BOLL Timo,4,1,"11,11,11,7,12|9,9,8,11,10",R16,GRAND_SLAM,MS,870,Main Draw,CALDERANO Hugo (BRA),BOLL Timo (GER)
-World Tour Qatar Open Doha 2018,2018-03-08,FAN Zhendong,GROTH Jonathan,4,1,"9,11,12,11,14|11,6,10,3,12",QF,GRAND_SLAM,MS,870,Main Draw,FAN Zhendong (CHN),GROTH Jonathan (DEN)
-World Tour Qatar Open Doha 2018,2018-03-08,XU Xin,ZHOU Yu,4,3,"11,10,11,13,6,10,11|5,12,5,11,11,12,8",QF,GRAND_SLAM,MS,870,Main Draw,ZHOU Yu (CHN),XU Xin (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,LIN Gaoyuan,WONG Chun Ting,4,0,"11,11,11,11|7,4,7,7",QF,GRAND_SLAM,MS,870,Main Draw,LIN Gaoyuan (CHN),WONG Chun Ting (HKG)
-World Tour Qatar Open Doha 2018,2018-03-08,CALDERANO Hugo,HARIMOTO Tomokazu,4,0,"11,11,11,11|5,6,6,7",QF,GRAND_SLAM,MS,870,Main Draw,HARIMOTO Tomokazu (JPN),CALDERANO Hugo (BRA)
-World Tour Qatar Open Doha 2018,2018-03-08,FAN Zhendong,XU Xin,4,1,"11,7,11,11,11|6,11,8,9,9",SF,GRAND_SLAM,MS,870,Main Draw,FAN Zhendong (CHN),XU Xin (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,CALDERANO Hugo,LIN Gaoyuan,4,0,"11,11,11,11|9,8,3,6",SF,GRAND_SLAM,MS,870,Main Draw,LIN Gaoyuan (CHN),CALDERANO Hugo (BRA)
-World Tour Qatar Open Doha 2018,2018-03-08,FAN Zhendong,CALDERANO Hugo,4,0,"13,12,11,11|11,10,7,7",F,GRAND_SLAM,MS,870,Main Draw,FAN Zhendong (CHN),CALDERANO Hugo (BRA)
-World Tour Qatar Open Doha 2018,2018-03-08,CHEN Meng,YANG Xiaoxin,4,1,"6,11,11,11,11|11,6,8,5,2",R32,GRAND_SLAM,WS,870,Main Draw,CHEN Meng (CHN),YANG Xiaoxin (MON)
-World Tour Qatar Open Doha 2018,2018-03-08,DING Ning,SUH Hyo Won,4,1,"11,11,4,11,11|6,5,11,4,4",R32,GRAND_SLAM,WS,870,Main Draw,DING Ning (CHN),SUH Hyo Won (KOR)
-World Tour Qatar Open Doha 2018,2018-03-08,LEE Ho Ching,SHIBATA Saki,4,2,"11,11,11,11,11,11|5,9,4,13,13,3",R32,GRAND_SLAM,WS,870,Main Draw,LEE Ho Ching (HKG),SHIBATA Saki (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,WANG Yidi,ITO Mima,4,3,"11,4,8,11,11,9,11|7,11,11,7,4,11,4",R32,GRAND_SLAM,WS,870,Main Draw,WANG Yidi (CHN),ITO Mima (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,WANG Manyu,CHE Xiaoxi,4,0,"12,11,11,11|10,3,5,6",R32,GRAND_SLAM,WS,870,Main Draw,WANG Manyu (CHN),CHE Xiaoxi (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,KATO Miyu,HASHIMOTO Honoka,4,3,"11,8,11,6,11,6,11|8,11,3,11,7,11,9",R32,GRAND_SLAM,WS,870,Main Draw,HASHIMOTO Honoka (JPN),KATO Miyu (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,SUN Yingsha,DOO Hoi Kem,4,0,"11,11,11,11|5,7,7,9",R32,GRAND_SLAM,WS,870,Main Draw,DOO Hoi Kem (HKG),SUN Yingsha (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,FENG Tianwei,YOO Eunchong,4,1,"8,16,11,11,11|11,14,9,7,5",R32,GRAND_SLAM,WS,870,Main Draw,YOO Eunchong (KOR),FENG Tianwei (SGP)
-World Tour Qatar Open Doha 2018,2018-03-08,ISHIKAWA Kasumi,YU Fu,4,0,"11,11,11,11|5,8,7,4",R32,GRAND_SLAM,WS,870,Main Draw,ISHIKAWA Kasumi (JPN),YU Fu (POR)
-World Tour Qatar Open Doha 2018,2018-03-08,NAGASAKI Miyu,MORI Sakura,4,1,"11,11,12,11,11|13,6,10,9,9",R32,GRAND_SLAM,WS,870,Main Draw,NAGASAKI Miyu (JPN),MORI Sakura (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,HAYATA Hina,ZENG Jian,4,0,"11,11,11,11|9,6,8,4",R32,GRAND_SLAM,WS,870,Main Draw,HAYATA Hina (JPN),ZENG Jian (SGP)
-World Tour Qatar Open Doha 2018,2018-03-08,HIRANO Miu,CHEN Ke,4,0,"13,11,11,11|11,9,8,9",R32,GRAND_SLAM,WS,870,Main Draw,CHEN Ke (CHN),HIRANO Miu (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,CHENG I-Ching,SZOCS Bernadette,4,1,"11,11,11,8,11|6,9,9,11,5",R32,GRAND_SLAM,WS,870,Main Draw,CHENG I-Ching (TPE),SZOCS Bernadette (ROU)
-World Tour Qatar Open Doha 2018,2018-03-08,SATO Hitomi,CHEN Szu-Yu,4,1,"11,11,8,11,11|3,7,11,2,7",R32,GRAND_SLAM,WS,870,Main Draw,SATO Hitomi (JPN),CHEN Szu-Yu (TPE)
-World Tour Qatar Open Doha 2018,2018-03-08,CHEN Xingtong,ZHANG Rui,4,1,"8,11,11,13,11|11,4,7,11,4",R32,GRAND_SLAM,WS,870,Main Draw,CHEN Xingtong (CHN),ZHANG Rui (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,LIU Shiwen,ZHU Yuling,4,2,"12,11,11,8,11,11|14,5,4,11,5,5",R32,GRAND_SLAM,WS,870,Main Draw,LIU Shiwen (CHN),ZHU Yuling (MAC)
-World Tour Qatar Open Doha 2018,2018-03-08,CHEN Meng,DING Ning,4,1,"11,9,11,17,11|8,11,5,15,6",R16,GRAND_SLAM,WS,870,Main Draw,CHEN Meng (CHN),DING Ning (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,WANG Yidi,LEE Ho Ching,4,0,"11,15,11,11|8,13,9,9",R16,GRAND_SLAM,WS,870,Main Draw,LEE Ho Ching (HKG),WANG Yidi (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,WANG Manyu,KATO Miyu,4,0,"11,11,11,12|5,9,8,10",R16,GRAND_SLAM,WS,870,Main Draw,WANG Manyu (CHN),KATO Miyu (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,SUN Yingsha,FENG Tianwei,4,2,"5,11,14,11,11,11|11,6,12,7,13,4",R16,GRAND_SLAM,WS,870,Main Draw,SUN Yingsha (CHN),FENG Tianwei (SGP)
-World Tour Qatar Open Doha 2018,2018-03-08,ISHIKAWA Kasumi,NAGASAKI Miyu,4,2,"11,11,3,11,6,11|6,4,11,4,11,8",R16,GRAND_SLAM,WS,870,Main Draw,ISHIKAWA Kasumi (JPN),NAGASAKI Miyu (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,HIRANO Miu,HAYATA Hina,4,0,"12,13,12,13|10,11,10,11",R16,GRAND_SLAM,WS,870,Main Draw,HAYATA Hina (JPN),HIRANO Miu (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,SATO Hitomi,CHENG I-Ching,4,1,"11,14,6,11,13|8,12,11,6,11",R16,GRAND_SLAM,WS,870,Main Draw,CHENG I-Ching (TPE),SATO Hitomi (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,LIU Shiwen,CHEN Xingtong,4,3,"12,9,6,11,11,7,11|10,11,11,8,7,11,9",R16,GRAND_SLAM,WS,870,Main Draw,CHEN Xingtong (CHN),LIU Shiwen (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,CHEN Meng,WANG Yidi,4,0,"12,11,18,11|10,8,16,6",QF,GRAND_SLAM,WS,870,Main Draw,CHEN Meng (CHN),WANG Yidi (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,WANG Manyu,SUN Yingsha,4,1,"5,11,11,11,11|11,4,5,5,2",QF,GRAND_SLAM,WS,870,Main Draw,WANG Manyu (CHN),SUN Yingsha (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,ISHIKAWA Kasumi,HIRANO Miu,4,2,"9,14,7,11,11,13|11,12,11,9,9,11",QF,GRAND_SLAM,WS,870,Main Draw,ISHIKAWA Kasumi (JPN),HIRANO Miu (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,LIU Shiwen,SATO Hitomi,4,1,"10,11,11,11,11|12,5,2,5,5",QF,GRAND_SLAM,WS,870,Main Draw,SATO Hitomi (JPN),LIU Shiwen (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,WANG Manyu,CHEN Meng,4,1,"11,11,9,11,11|8,6,11,8,7",SF,GRAND_SLAM,WS,870,Main Draw,CHEN Meng (CHN),WANG Manyu (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,LIU Shiwen,ISHIKAWA Kasumi,4,1,"11,7,11,11,11|5,11,8,7,4",SF,GRAND_SLAM,WS,870,Main Draw,ISHIKAWA Kasumi (JPN),LIU Shiwen (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,LIU Shiwen,WANG Manyu,4,2,"8,10,11,11,11,11|11,12,9,6,5,6",F,GRAND_SLAM,WS,870,Main Draw,WANG Manyu (CHN),LIU Shiwen (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,CHO Daeseong,HUSSAIN Yousef,3,0,"11,11,11|4,5,3",R32,GRAND_SLAM,U21MS,870,Main Draw,HUSSAIN Yousef (QAT),CHO Daeseong (KOR)
-World Tour Qatar Open Doha 2018,2018-03-08,KIZUKURI Yuto,CHO Daeseong,3,0,"11,11,11|4,6,4",R16,GRAND_SLAM,U21MS,870,Main Draw,KIZUKURI Yuto (JPN),CHO Daeseong (KOR)
-World Tour Qatar Open Doha 2018,2018-03-08,MATSUYAMA Yuki,PASSARA Pattaratorn,3,2,"11,11,7,11,11|13,6,11,7,3",R16,GRAND_SLAM,U21MS,870,Main Draw,PASSARA Pattaratorn (THA),MATSUYAMA Yuki (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,AFANADOR Brian,AL-HAJAJI Abdulaziz,3,0,"11,11,11|3,4,7",R16,GRAND_SLAM,U21MS,870,Main Draw,AFANADOR Brian (PUR),AL-HAJAJI Abdulaziz (QAT)
-World Tour Qatar Open Doha 2018,2018-03-08,NG Pak Nam,ALMALKI Nawaf,3,0,"11,11,11|1,7,4",R16,GRAND_SLAM,U21MS,870,Main Draw,ALMALKI Nawaf (QAT),NG Pak Nam (HKG)
-World Tour Qatar Open Doha 2018,2018-03-08,LIM Jonghoon,ABDULWAHHAB Mohammed,3,0,"11,11,11|4,6,9",R16,GRAND_SLAM,U21MS,870,Main Draw,LIM Jonghoon (KOR),ABDULWAHHAB Mohammed (QAT)
-World Tour Qatar Open Doha 2018,2018-03-08,LIN Yun-Ju,PANAGITGUN Yanapong,3,0,"11,11,11|4,4,3",R16,GRAND_SLAM,U21MS,870,Main Draw,PANAGITGUN Yanapong (THA),LIN Yun-Ju (TPE)
-World Tour Qatar Open Doha 2018,2018-03-08,XUE Fei,AL-NAGGAR Abdulrahman,3,1,"11,11,7,11|5,1,11,4",R16,GRAND_SLAM,U21MS,870,Main Draw,XUE Fei (CHN),AL-NAGGAR Abdulrahman (QAT)
-World Tour Qatar Open Doha 2018,2018-03-08,SEYFRIED Joe,AL ABDULLA Abdulaziz,3,0,"11,11,11|4,3,6",R16,GRAND_SLAM,U21MS,870,Main Draw,AL ABDULLA Abdulaziz (QAT),SEYFRIED Joe (FRA)
-World Tour Qatar Open Doha 2018,2018-03-08,KIZUKURI Yuto,MATSUYAMA Yuki,3,1,"8,11,11,11|11,9,3,8",QF,GRAND_SLAM,U21MS,870,Main Draw,KIZUKURI Yuto (JPN),MATSUYAMA Yuki (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,NG Pak Nam,AFANADOR Brian,3,1,"8,11,11,11|11,4,8,8",QF,GRAND_SLAM,U21MS,870,Main Draw,AFANADOR Brian (PUR),NG Pak Nam (HKG)
-World Tour Qatar Open Doha 2018,2018-03-08,LIN Yun-Ju,LIM Jonghoon,3,0,"12,11,15|10,3,13",QF,GRAND_SLAM,U21MS,870,Main Draw,LIM Jonghoon (KOR),LIN Yun-Ju (TPE)
-World Tour Qatar Open Doha 2018,2018-03-08,XUE Fei,SEYFRIED Joe,3,2,"7,11,5,11,12|11,7,11,7,10",QF,GRAND_SLAM,U21MS,870,Main Draw,XUE Fei (CHN),SEYFRIED Joe (FRA)
-World Tour Qatar Open Doha 2018,2018-03-08,NG Pak Nam,KIZUKURI Yuto,3,1,"11,10,12,11|6,12,10,4",SF,GRAND_SLAM,U21MS,870,Main Draw,KIZUKURI Yuto (JPN),NG Pak Nam (HKG)
-World Tour Qatar Open Doha 2018,2018-03-08,XUE Fei,LIN Yun-Ju,3,1,"6,11,12,11|11,6,10,3",SF,GRAND_SLAM,U21MS,870,Main Draw,LIN Yun-Ju (TPE),XUE Fei (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,XUE Fei,NG Pak Nam,3,0,"11,11,11|8,9,7",F,GRAND_SLAM,U21MS,870,Main Draw,NG Pak Nam (HKG),XUE Fei (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,ODO Satsuki,ALI Maha,3,0,"11,11,11|2,3,4",R32,GRAND_SLAM,U21WS,870,Main Draw,ODO Satsuki (JPN),ALI Maha (QAT)
-World Tour Qatar Open Doha 2018,2018-03-08,WANG Yidi,SOO Wai Yam,3,0,"11,11,11|4,5,4",R16,GRAND_SLAM,U21WS,870,Main Draw,SOO Wai Yam (HKG),WANG Yidi (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,SHIN Yubin,NAGASAKI Miyu,3,1,"8,11,11,11|11,8,9,9",R16,GRAND_SLAM,U21WS,870,Main Draw,NAGASAKI Miyu (JPN),SHIN Yubin (KOR)
-World Tour Qatar Open Doha 2018,2018-03-08,SUN Mingyang,KIM Jiho,3,0,"11,12,11|8,10,6",R16,GRAND_SLAM,U21WS,870,Main Draw,SUN Mingyang (CHN),KIM Jiho (KOR)
-World Tour Qatar Open Doha 2018,2018-03-08,CHEN Ke,HASHIMOTO Honoka,3,1,"11,8,11,11|4,11,3,7",R16,GRAND_SLAM,U21WS,870,Main Draw,HASHIMOTO Honoka (JPN),CHEN Ke (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,SATO Hitomi,KIHARA Miyuu,3,2,"12,7,4,11,11|10,11,11,7,8",R16,GRAND_SLAM,U21WS,870,Main Draw,KIHARA Miyuu (JPN),SATO Hitomi (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,CHOI Hyojoo,KHETKHUAN Tamolwan,3,0,"11,11,11|8,4,5",R16,GRAND_SLAM,U21WS,870,Main Draw,KHETKHUAN Tamolwan (THA),CHOI Hyojoo (KOR)
-World Tour Qatar Open Doha 2018,2018-03-08,ZHANG Rui,SAWETTABUT Jinnipa,3,0,"11,11,11|1,3,7",R16,GRAND_SLAM,U21WS,870,Main Draw,ZHANG Rui (CHN),SAWETTABUT Jinnipa (THA)
-World Tour Qatar Open Doha 2018,2018-03-08,SHIBATA Saki,ODO Satsuki,3,0,"11,11,11|9,4,8",R16,GRAND_SLAM,U21WS,870,Main Draw,ODO Satsuki (JPN),SHIBATA Saki (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,WANG Yidi,SHIN Yubin,3,0,"11,11,11|5,6,4",QF,GRAND_SLAM,U21WS,870,Main Draw,WANG Yidi (CHN),SHIN Yubin (KOR)
-World Tour Qatar Open Doha 2018,2018-03-08,CHEN Ke,SUN Mingyang,3,1,"9,11,11,11|11,8,6,5",QF,GRAND_SLAM,U21WS,870,Main Draw,SUN Mingyang (CHN),CHEN Ke (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,CHOI Hyojoo,SATO Hitomi,3,0,"11,11,11|7,8,6",QF,GRAND_SLAM,U21WS,870,Main Draw,SATO Hitomi (JPN),CHOI Hyojoo (KOR)
-World Tour Qatar Open Doha 2018,2018-03-08,ZHANG Rui,SHIBATA Saki,3,0,"11,11,11|5,7,9",QF,GRAND_SLAM,U21WS,870,Main Draw,ZHANG Rui (CHN),SHIBATA Saki (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,CHEN Ke,WANG Yidi,3,1,"8,11,12,12|11,7,10,10",SF,GRAND_SLAM,U21WS,870,Main Draw,WANG Yidi (CHN),CHEN Ke (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,ZHANG Rui,CHOI Hyojoo,3,2,"11,5,7,11,11|8,11,11,8,8",SF,GRAND_SLAM,U21WS,870,Main Draw,CHOI Hyojoo (KOR),ZHANG Rui (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,ZHANG Rui,CHEN Ke,3,1,"11,11,9,11|7,4,11,7",F,GRAND_SLAM,U21WS,870,Main Draw,CHEN Ke (CHN),ZHANG Rui (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,MIZUTANI Jun/OSHIMA Yuya,SHIBAEV Alexander/SKACHKOV Kirill,3,0,,QR32,GRAND_SLAM,MD,870,Qualification,MIZUTANI Jun (JPN) / OSHIMA Yuya (JPN),SHIBAEV Alexander (RUS) / SKACHKOV Kirill (RUS)
-World Tour Qatar Open Doha 2018,2018-03-08,LAM Siu Hang/NG Pak Nam,ARUNA Quadri/ASSAR Omar,3,2,"6,11,13,9,11|11,8,11,11,4",QR32,GRAND_SLAM,MD,870,Qualification,LAM Siu Hang (HKG) / NG Pak Nam (HKG),ARUNA Quadri (NGR) / ASSAR Omar (EGY)
-World Tour Qatar Open Doha 2018,2018-03-08,KOU Lei/NUYTINCK Cedric,AL ABDULLA Abdulaziz/ALMALKI Nawaf,3,0,"11,11,13|3,6,11",QR32,GRAND_SLAM,MD,870,Qualification,KOU Lei (UKR) / NUYTINCK Cedric (BEL),AL ABDULLA Abdulaziz (QAT) / ALMALKI Nawaf (QAT)
-World Tour Qatar Open Doha 2018,2018-03-08,CALDERANO Hugo/GAUZY Simon,ANTHONY Amalraj/SHETTY Sanil,3,1,"11,11,3,11|6,0,11,9",QR32,GRAND_SLAM,MD,870,Qualification,CALDERANO Hugo (BRA) / GAUZY Simon (FRA),ANTHONY Amalraj (IND) / SHETTY Sanil (IND)
-World Tour Qatar Open Doha 2018,2018-03-08,FANG Bo/LIN Gaoyuan,JANG Woojin/LIM Jonghoon,3,2,"5,11,9,11,11|11,9,11,6,4",QR32,GRAND_SLAM,MD,870,Qualification,FANG Bo (KAZ) / LIN Gaoyuan (CHN),JANG Woojin (KOR) / LIM Jonghoon (KOR)
-World Tour Qatar Open Doha 2018,2018-03-08,GARDOS Robert/HABESOHN Daniel,LIAO Cheng-Ting/LIN Yun-Ju,3,2,"8,2,11,12,11|11,11,5,10,6",QR32,GRAND_SLAM,MD,870,Qualification,GARDOS Robert (AUT) / HABESOHN Daniel (AUT),LIAO Cheng-Ting (TPE) / LIN Yun-Ju (TPE)
-World Tour Qatar Open Doha 2018,2018-03-08,CHEN Chien-An/CHUANG Chih-Yuan,ELBEIALI Mohamed/SALEH Ahmed,3,0,"11,11,11|8,6,3",QR32,GRAND_SLAM,MD,870,Qualification,CHEN Chien-An (TPE) / CHUANG Chih-Yuan (TPE),ELBEIALI Mohamed (EGY) / SALEH Ahmed (EGY)
-World Tour Qatar Open Doha 2018,2018-03-08,ACHANTA Sharath/GNANASEKARAN Sathiyan,AL-HAJAJI Abdulaziz/HUSSAIN Yousef,3,0,"11,14,11|5,12,5",QR32,GRAND_SLAM,MD,870,Qualification,ACHANTA Sharath (IND) / GNANASEKARAN Sathiyan (IND),AL-HAJAJI Abdulaziz (QAT) / HUSSAIN Yousef (QAT)
-World Tour Qatar Open Doha 2018,2018-03-08,FANG Bo/LIN Gaoyuan,HO Kwan Kit/WONG Chun Ting,3,1,"11,11,14,16|4,6,16,14",R16,GRAND_SLAM,MD,870,Main Draw,FANG Bo (KAZ) / LIN Gaoyuan (CHN),HO Kwan Kit (HKG) / WONG Chun Ting (HKG)
-World Tour Qatar Open Doha 2018,2018-03-08,ACHANTA Sharath/GNANASEKARAN Sathiyan,KARLSSON Kristian/KARLSSON Mattias,3,2,"11,11,8,8,11|8,6,11,11,4",R16,GRAND_SLAM,MD,870,Main Draw,ACHANTA Sharath (IND) / GNANASEKARAN Sathiyan (IND),KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE)
-World Tour Qatar Open Doha 2018,2018-03-08,FILUS Ruwen/WALTHER Ricardo,KOU Lei/NUYTINCK Cedric,3,0,"11,11,12|9,3,10",R16,GRAND_SLAM,MD,870,Main Draw,FILUS Ruwen (GER) / WALTHER Ricardo (GER),KOU Lei (UKR) / NUYTINCK Cedric (BEL)
-World Tour Qatar Open Doha 2018,2018-03-08,MIZUTANI Jun/OSHIMA Yuya,HARIMOTO Tomokazu/MORIZONO Masataka,3,0,"11,11,11|7,9,7",R16,GRAND_SLAM,MD,870,Main Draw,MIZUTANI Jun (JPN) / OSHIMA Yuya (JPN),HARIMOTO Tomokazu (JPN) / MORIZONO Masataka (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,FRANZISKA Patrick/GROTH Jonathan,CALDERANO Hugo/GAUZY Simon,3,0,"11,11,11|4,7,9",R16,GRAND_SLAM,MD,870,Main Draw,FRANZISKA Patrick (GER) / GROTH Jonathan (DEN),CALDERANO Hugo (BRA) / GAUZY Simon (FRA)
-World Tour Qatar Open Doha 2018,2018-03-08,FAN Zhendong/XU Xin,LAM Siu Hang/NG Pak Nam,3,2,"11,10,10,11,11|8,12,12,7,5",R16,GRAND_SLAM,MD,870,Main Draw,FAN Zhendong (CHN) / XU Xin (CHN),LAM Siu Hang (HKG) / NG Pak Nam (HKG)
-World Tour Qatar Open Doha 2018,2018-03-08,FANG Bo/LIN Gaoyuan,ACHANTA Sharath/GNANASEKARAN Sathiyan,3,1,"10,12,11,12|12,10,1,10",QF,GRAND_SLAM,MD,870,Main Draw,FANG Bo (KAZ) / LIN Gaoyuan (CHN),ACHANTA Sharath (IND) / GNANASEKARAN Sathiyan (IND)
-World Tour Qatar Open Doha 2018,2018-03-08,MIZUTANI Jun/OSHIMA Yuya,FILUS Ruwen/WALTHER Ricardo,3,1,"11,9,11,11|5,11,4,6",QF,GRAND_SLAM,MD,870,Main Draw,MIZUTANI Jun (JPN) / OSHIMA Yuya (JPN),FILUS Ruwen (GER) / WALTHER Ricardo (GER)
-World Tour Qatar Open Doha 2018,2018-03-08,JEOUNG Youngsik/LEE Sang Su,FRANZISKA Patrick/GROTH Jonathan,3,2,"11,11,11,8,11|2,8,13,11,9",QF,GRAND_SLAM,MD,870,Main Draw,JEOUNG Youngsik (KOR) / LEE Sang Su (KOR),FRANZISKA Patrick (GER) / GROTH Jonathan (DEN)
-World Tour Qatar Open Doha 2018,2018-03-08,FAN Zhendong/XU Xin,GARDOS Robert/HABESOHN Daniel,3,1,"11,9,11,11|1,11,6,5",QF,GRAND_SLAM,MD,870,Main Draw,FAN Zhendong (CHN) / XU Xin (CHN),GARDOS Robert (AUT) / HABESOHN Daniel (AUT)
-World Tour Qatar Open Doha 2018,2018-03-08,MIZUTANI Jun/OSHIMA Yuya,FANG Bo/LIN Gaoyuan,3,0,,SF,GRAND_SLAM,MD,870,Main Draw,MIZUTANI Jun (JPN) / OSHIMA Yuya (JPN),FANG Bo (KAZ) / LIN Gaoyuan (CHN)
-World Tour Qatar Open Doha 2018,2018-03-08,FAN Zhendong/XU Xin,JEOUNG Youngsik/LEE Sang Su,3,0,"11,11,11|4,8,4",SF,GRAND_SLAM,MD,870,Main Draw,FAN Zhendong (CHN) / XU Xin (CHN),JEOUNG Youngsik (KOR) / LEE Sang Su (KOR)
-World Tour Qatar Open Doha 2018,2018-03-08,SAMARA Elizabeta/SZOCS Bernadette,ALI Maha/HUSSAIN Kholoud,3,0,"11,11,11|4,2,1",QR32,GRAND_SLAM,WD,870,Qualification,SAMARA Elizabeta (ROU) / SZOCS Bernadette (ROU),ALI Maha (QAT) / HUSSAIN Kholoud (QAT)
-World Tour Qatar Open Doha 2018,2018-03-08,EKHOLM Matilda/LI Fen,XIAO Maria/YANG Xiaoxin,3,1,"11,17,7,11|8,15,11,5",QR32,GRAND_SLAM,WD,870,Qualification,EKHOLM Matilda (SWE) / LI Fen (SWE),XIAO Maria (ESP) / YANG Xiaoxin (MON)
-World Tour Qatar Open Doha 2018,2018-03-08,KHETKHUAN Tamolwan/MYNAROVA Karolina,MADARASZ Dora/PERGEL Szandra,3,2,"11,9,11,3,12|7,11,8,11,10",QR32,GRAND_SLAM,WD,870,Qualification,KHETKHUAN Tamolwan (THA) / MYNAROVA Karolina (CZE),MADARASZ Dora (HUN) / PERGEL Szandra (HUN)
-World Tour Qatar Open Doha 2018,2018-03-08,CHOI Hyojoo/KIM Jiho,LIN Ye/ZHOU Yihan,3,2,"11,11,7,7,11|7,6,11,11,2",QR32,GRAND_SLAM,WD,870,Qualification,CHOI Hyojoo (KOR) / KIM Jiho (KOR),LIN Ye (CAN) / ZHOU Yihan (SGP)
-World Tour Qatar Open Doha 2018,2018-03-08,NOSKOVA Yana/POLCANOVA Sofia,LIN Chia-Hui/LIU Hsing-Yin,3,0,,QR32,GRAND_SLAM,WD,870,Qualification,NOSKOVA Yana (RUS) / POLCANOVA Sofia (AUT),LIN Chia-Hui (TPE) / LIU Hsing-Yin (TPE)
-World Tour Qatar Open Doha 2018,2018-03-08,SAWETTABUT Jinnipa/SAWETTABUT Suthasini,DE NUTTE Sarah/NI Xia Lian,3,2,"14,8,13,6,11|12,11,11,11,6",QR32,GRAND_SLAM,WD,870,Qualification,SAWETTABUT Jinnipa (THA) / SAWETTABUT Suthasini (THA),DE NUTTE Sarah (LUX) / NI Xia Lian (LUX)
-World Tour Qatar Open Doha 2018,2018-03-08,FENG Tianwei/YU Mengyu,FARAMARZI Maha/MOHAMED Aia,3,0,"11,11,11|4,2,7",QR32,GRAND_SLAM,WD,870,Qualification,FENG Tianwei (SGP) / YU Mengyu (SGP),FARAMARZI Maha (QAT) / MOHAMED Aia (QAT)
-World Tour Qatar Open Doha 2018,2018-03-08,HASHIMOTO Honoka/SATO Hitomi,CHOI Hyojoo/KIM Jiho,3,2,"11,11,11,7,11|13,3,8,11,8",R16,GRAND_SLAM,WD,870,Main Draw,HASHIMOTO Honoka (JPN) / SATO Hitomi (JPN),CHOI Hyojoo (KOR) / KIM Jiho (KOR)
-World Tour Qatar Open Doha 2018,2018-03-08,FENG Tianwei/YU Mengyu,NG Wing Nam/SOO Wai Yam,3,2,"13,14,8,11,11|15,12,11,4,9",R16,GRAND_SLAM,WD,870,Main Draw,FENG Tianwei (SGP) / YU Mengyu (SGP),NG Wing Nam (HKG) / SOO Wai Yam (HKG)
-World Tour Qatar Open Doha 2018,2018-03-08,CHEN Ke/WANG Manyu,NOSKOVA Yana/POLCANOVA Sofia,3,1,"11,11,10,11|7,7,12,5",R16,GRAND_SLAM,WD,870,Main Draw,CHEN Ke (CHN) / WANG Manyu (CHN),NOSKOVA Yana (RUS) / POLCANOVA Sofia (AUT)
-World Tour Qatar Open Doha 2018,2018-03-08,JEON Jihee/YANG Ha Eun,SAWETTABUT Jinnipa/SAWETTABUT Suthasini,3,2,"11,7,12,9,12|8,11,10,11,10",R16,GRAND_SLAM,WD,870,Main Draw,JEON Jihee (KOR) / YANG Ha Eun (KOR),SAWETTABUT Jinnipa (THA) / SAWETTABUT Suthasini (THA)
-World Tour Qatar Open Doha 2018,2018-03-08,CHEN Xingtong/SUN Yingsha,SAMARA Elizabeta/SZOCS Bernadette,3,2,"6,14,11,11,11|11,12,8,13,5",R16,GRAND_SLAM,WD,870,Main Draw,CHEN Xingtong (CHN) / SUN Yingsha (CHN),SAMARA Elizabeta (ROU) / SZOCS Bernadette (ROU)
-World Tour Qatar Open Doha 2018,2018-03-08,HIRANO Miu/ITO Mima,EKHOLM Matilda/LI Fen,3,1,"11,10,11,11|6,12,9,9",R16,GRAND_SLAM,WD,870,Main Draw,HIRANO Miu (JPN) / ITO Mima (JPN),EKHOLM Matilda (SWE) / LI Fen (SWE)
-World Tour Qatar Open Doha 2018,2018-03-08,BATRA Manika/DAS Mouma,KHETKHUAN Tamolwan/MYNAROVA Karolina,3,0,"15,11,11|13,9,3",R16,GRAND_SLAM,WD,870,Main Draw,BATRA Manika (IND) / DAS Mouma (IND),KHETKHUAN Tamolwan (THA) / MYNAROVA Karolina (CZE)
-World Tour Qatar Open Doha 2018,2018-03-08,DOO Hoi Kem/LEE Ho Ching,VARADY Barbora/MATELOVA Hana,3,1,"8,11,11,11|11,7,8,8",R16,GRAND_SLAM,WD,870,Main Draw,DOO Hoi Kem (HKG) / LEE Ho Ching (HKG),VARADY Barbora (SVK) / MATELOVA Hana (CZE)
-World Tour Qatar Open Doha 2018,2018-03-08,HASHIMOTO Honoka/SATO Hitomi,FENG Tianwei/YU Mengyu,3,2,"5,12,11,5,13|11,10,9,11,11",QF,GRAND_SLAM,WD,870,Main Draw,HASHIMOTO Honoka (JPN) / SATO Hitomi (JPN),FENG Tianwei (SGP) / YU Mengyu (SGP)
-World Tour Qatar Open Doha 2018,2018-03-08,CHEN Ke/WANG Manyu,JEON Jihee/YANG Ha Eun,3,2,"11,14,8,11,12|6,16,11,7,10",QF,GRAND_SLAM,WD,870,Main Draw,CHEN Ke (CHN) / WANG Manyu (CHN),JEON Jihee (KOR) / YANG Ha Eun (KOR)
-World Tour Qatar Open Doha 2018,2018-03-08,CHEN Xingtong/SUN Yingsha,HIRANO Miu/ITO Mima,3,2,"11,8,6,11,11|5,11,11,7,8",QF,GRAND_SLAM,WD,870,Main Draw,CHEN Xingtong (CHN) / SUN Yingsha (CHN),HIRANO Miu (JPN) / ITO Mima (JPN)
-World Tour Qatar Open Doha 2018,2018-03-08,DOO Hoi Kem/LEE Ho Ching,BATRA Manika/DAS Mouma,3,0,"11,11,11|6,3,9",QF,GRAND_SLAM,WD,870,Main Draw,DOO Hoi Kem (HKG) / LEE Ho Ching (HKG),BATRA Manika (IND) / DAS Mouma (IND)
-World Tour Qatar Open Doha 2018,2018-03-08,CHEN Xingtong/SUN Yingsha,DOO Hoi Kem/LEE Ho Ching,3,1,"7,11,11,13|11,5,5,11",SF,GRAND_SLAM,WD,870,Main Draw,CHEN Xingtong (CHN) / SUN Yingsha (CHN),DOO Hoi Kem (HKG) / LEE Ho Ching (HKG)
-World Tour Qatar Open Doha 2018,2018-03-08,CHEN Ke/WANG Manyu,CHEN Xingtong/SUN Yingsha,3,1,"8,11,11,11|11,2,4,4",F,GRAND_SLAM,WD,870,Main Draw,CHEN Ke (CHN) / WANG Manyu (CHN),CHEN Xingtong (CHN) / SUN Yingsha (CHN)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+World Tour Qatar Open Doha 2018,2018-03-08,LIN Yun-Ju,KARLSSON Kristian,4,2,"11,11,11,4,5,13|5,5,7,11,11,11",,GRAND_SLAM,MS,870,Qualification,KARLSSON Kristian (SWE),LIN Yun-Ju (TPE),LIN Yun-Ju
+World Tour Qatar Open Doha 2018,2018-03-08,JANCARIK Lubomir,KARLSSON Kristian,4,0,,,GRAND_SLAM,MS,870,Qualification,KARLSSON Kristian (SWE),JANCARIK Lubomir (CZE),JANCARIK Lubomir
+World Tour Qatar Open Doha 2018,2018-03-08,LIN Yun-Ju,JANCARIK Lubomir,4,0,"11,11,11,14|5,2,4,12",,GRAND_SLAM,MS,870,Qualification,JANCARIK Lubomir (CZE),LIN Yun-Ju (TPE),LIN Yun-Ju
+World Tour Qatar Open Doha 2018,2018-03-08,FILUS Ruwen,ELBEIALI Mohamed,4,0,"11,11,11,11|9,3,8,3",,GRAND_SLAM,MS,870,Qualification,FILUS Ruwen (GER),ELBEIALI Mohamed (EGY),FILUS Ruwen
+World Tour Qatar Open Doha 2018,2018-03-08,FILUS Ruwen,LORENTZ Romain,4,1,"12,11,11,11,11|14,6,7,4,2",,GRAND_SLAM,MS,870,Qualification,FILUS Ruwen (GER),LORENTZ Romain (FRA),FILUS Ruwen
+World Tour Qatar Open Doha 2018,2018-03-08,ELBEIALI Mohamed,LORENTZ Romain,4,0,"11,11,11,11|9,5,8,9",,GRAND_SLAM,MS,870,Qualification,LORENTZ Romain (FRA),ELBEIALI Mohamed (EGY),ELBEIALI Mohamed
+World Tour Qatar Open Doha 2018,2018-03-08,MATSUYAMA Yuki,MADRID Marcos,4,3,"11,7,6,5,11,13,11|5,11,11,11,9,11,3",,GRAND_SLAM,MS,870,Qualification,MADRID Marcos (MEX),MATSUYAMA Yuki (JPN),MATSUYAMA Yuki
+World Tour Qatar Open Doha 2018,2018-03-08,YOSHIMURA Maharu,MADRID Marcos,4,0,"11,11,12,16|5,4,10,14",,GRAND_SLAM,MS,870,Qualification,MADRID Marcos (MEX),YOSHIMURA Maharu (JPN),YOSHIMURA Maharu
+World Tour Qatar Open Doha 2018,2018-03-08,YOSHIMURA Maharu,MATSUYAMA Yuki,4,2,"11,11,10,9,14,11|6,7,12,11,12,7",,GRAND_SLAM,MS,870,Qualification,YOSHIMURA Maharu (JPN),MATSUYAMA Yuki (JPN),YOSHIMURA Maharu
+World Tour Qatar Open Doha 2018,2018-03-08,ARUNA Quadri,TREGLER Tomas,4,0,"13,11,11,11|11,9,6,5",,GRAND_SLAM,MS,870,Qualification,ARUNA Quadri (NGR),TREGLER Tomas (CZE),ARUNA Quadri
+World Tour Qatar Open Doha 2018,2018-03-08,ARUNA Quadri,WANG Yang,4,1,"11,11,11,14,11|7,13,2,12,5",,GRAND_SLAM,MS,870,Qualification,ARUNA Quadri (NGR),WANG Yang (SVK),ARUNA Quadri
+World Tour Qatar Open Doha 2018,2018-03-08,WANG Yang,TREGLER Tomas,4,0,"12,11,11,12|10,3,8,10",,GRAND_SLAM,MS,870,Qualification,WANG Yang (SVK),TREGLER Tomas (CZE),WANG Yang
+World Tour Qatar Open Doha 2018,2018-03-08,KIM Donghyun,MATSUDAIRA Kenji,4,1,"11,10,13,11,11|2,12,11,9,8",,GRAND_SLAM,MS,870,Qualification,KIM Donghyun (KOR),MATSUDAIRA Kenji (JPN),KIM Donghyun
+World Tour Qatar Open Doha 2018,2018-03-08,KIM Donghyun,YOSHIDA Masaki,4,1,"5,11,11,12,11|11,7,9,10,9",,GRAND_SLAM,MS,870,Qualification,KIM Donghyun (KOR),YOSHIDA Masaki (JPN),KIM Donghyun
+World Tour Qatar Open Doha 2018,2018-03-08,YOSHIDA Masaki,MATSUDAIRA Kenji,4,1,"11,11,9,11,11|9,9,11,7,6",,GRAND_SLAM,MS,870,Qualification,YOSHIDA Masaki (JPN),MATSUDAIRA Kenji (JPN),YOSHIDA Masaki
+World Tour Qatar Open Doha 2018,2018-03-08,CHEN Chien-An,ROBINOT Alexandre,4,0,"11,12,11,11|6,10,9,9",,GRAND_SLAM,MS,870,Qualification,CHEN Chien-An (TPE),ROBINOT Alexandre (FRA),CHEN Chien-An
+World Tour Qatar Open Doha 2018,2018-03-08,JEOUNG Youngsik,CHEN Chien-An,4,1,"11,11,15,11,11|6,6,17,8,7",,GRAND_SLAM,MS,870,Qualification,CHEN Chien-An (TPE),JEOUNG Youngsik (KOR),JEOUNG Youngsik
+World Tour Qatar Open Doha 2018,2018-03-08,ROBINOT Alexandre,JEOUNG Youngsik,4,0,"11,11,11,13|8,5,8,11",,GRAND_SLAM,MS,870,Qualification,JEOUNG Youngsik (KOR),ROBINOT Alexandre (FRA),ROBINOT Alexandre
+World Tour Qatar Open Doha 2018,2018-03-08,KOU Lei,TANVIRIYAVECHAKUL Padasak,4,1,"13,11,11,11,14|11,9,2,13,12",,GRAND_SLAM,MS,870,Qualification,KOU Lei (UKR),TANVIRIYAVECHAKUL Padasak (THA),KOU Lei
+World Tour Qatar Open Doha 2018,2018-03-08,KOU Lei,LAKATOS Tamas,4,0,"11,11,11,11|5,9,3,7",,GRAND_SLAM,MS,870,Qualification,KOU Lei (UKR),LAKATOS Tamas (HUN),KOU Lei
+World Tour Qatar Open Doha 2018,2018-03-08,TANVIRIYAVECHAKUL Padasak,LAKATOS Tamas,4,3,"11,8,5,8,11,11,11|9,11,11,11,7,8,8",,GRAND_SLAM,MS,870,Qualification,LAKATOS Tamas (HUN),TANVIRIYAVECHAKUL Padasak (THA),TANVIRIYAVECHAKUL Padasak
+World Tour Qatar Open Doha 2018,2018-03-08,UEDA Jin,LANDRIEU Andrea,4,2,"1,13,11,6,11,11|11,11,5,11,2,3",,GRAND_SLAM,MS,870,Qualification,UEDA Jin (JPN),LANDRIEU Andrea (FRA),UEDA Jin
+World Tour Qatar Open Doha 2018,2018-03-08,SKACHKOV Kirill,UEDA Jin,4,2,"11,6,8,11,11,11|9,11,11,9,5,8",,GRAND_SLAM,MS,870,Qualification,UEDA Jin (JPN),SKACHKOV Kirill (RUS),SKACHKOV Kirill
+World Tour Qatar Open Doha 2018,2018-03-08,SKACHKOV Kirill,LANDRIEU Andrea,4,2,"9,13,11,11,11,16|11,11,2,6,13,14",,GRAND_SLAM,MS,870,Qualification,SKACHKOV Kirill (RUS),LANDRIEU Andrea (FRA),SKACHKOV Kirill
+World Tour Qatar Open Doha 2018,2018-03-08,BOBOCICA Mihai,WALTHER Ricardo,4,3,"9,9,11,12,11,6,12|11,11,6,10,9,11,10",,GRAND_SLAM,MS,870,Qualification,WALTHER Ricardo (GER),BOBOCICA Mihai (ITA),BOBOCICA Mihai
+World Tour Qatar Open Doha 2018,2018-03-08,WALTHER Ricardo,TOKIC Bojan,4,0,,,GRAND_SLAM,MS,870,Qualification,WALTHER Ricardo (GER),TOKIC Bojan (SLO),WALTHER Ricardo
+World Tour Qatar Open Doha 2018,2018-03-08,BOBOCICA Mihai,TOKIC Bojan,4,0,"11,11,11,11|8,8,8,8",,GRAND_SLAM,MS,870,Qualification,TOKIC Bojan (SLO),BOBOCICA Mihai (ITA),BOBOCICA Mihai
+World Tour Qatar Open Doha 2018,2018-03-08,GROTH Jonathan,CRISAN Adrian,4,2,"2,4,11,11,11,11|11,11,8,8,5,9",,GRAND_SLAM,MS,870,Qualification,GROTH Jonathan (DEN),CRISAN Adrian (ROU),GROTH Jonathan
+World Tour Qatar Open Doha 2018,2018-03-08,GROTH Jonathan,SIRUCEK Pavel,4,1,"11,14,11,2,11|7,12,6,11,9",,GRAND_SLAM,MS,870,Qualification,GROTH Jonathan (DEN),SIRUCEK Pavel (CZE),GROTH Jonathan
+World Tour Qatar Open Doha 2018,2018-03-08,SIRUCEK Pavel,CRISAN Adrian,4,3,"6,6,11,5,11,11,11|11,11,8,11,5,4,8",,GRAND_SLAM,MS,870,Qualification,SIRUCEK Pavel (CZE),CRISAN Adrian (ROU),SIRUCEK Pavel
+World Tour Qatar Open Doha 2018,2018-03-08,FANG Bo,SALEH Ahmed,4,0,"11,11,13,11|6,5,11,2",,GRAND_SLAM,MS,870,Qualification,FANG Bo (KAZ),SALEH Ahmed (EGY),FANG Bo
+World Tour Qatar Open Doha 2018,2018-03-08,FANG Bo,PISTEJ Lubomir,4,1,"11,11,11,10,11|3,7,8,12,2",,GRAND_SLAM,MS,870,Qualification,FANG Bo (KAZ),PISTEJ Lubomir (SVK),FANG Bo
+World Tour Qatar Open Doha 2018,2018-03-08,PISTEJ Lubomir,SALEH Ahmed,4,3,"11,6,9,13,11,6,12|9,11,11,11,2,11,10",,GRAND_SLAM,MS,870,Qualification,PISTEJ Lubomir (SVK),SALEH Ahmed (EGY),PISTEJ Lubomir
+World Tour Qatar Open Doha 2018,2018-03-08,ZHOU Yu,JEONG Sangeun,4,1,"11,11,10,11,11|5,7,12,6,6",,GRAND_SLAM,MS,870,Qualification,JEONG Sangeun (KOR),ZHOU Yu (CHN),ZHOU Yu
+World Tour Qatar Open Doha 2018,2018-03-08,JEONG Sangeun,OLAH Benedek,4,0,"11,11,12,11|8,5,10,6",,GRAND_SLAM,MS,870,Qualification,JEONG Sangeun (KOR),OLAH Benedek (FIN),JEONG Sangeun
+World Tour Qatar Open Doha 2018,2018-03-08,ZHOU Yu,OLAH Benedek,4,1,"9,11,11,11,11|11,7,6,5,9",,GRAND_SLAM,MS,870,Qualification,OLAH Benedek (FIN),ZHOU Yu (CHN),ZHOU Yu
+World Tour Qatar Open Doha 2018,2018-03-08,XUE Fei,STEGER Bastian,4,2,"6,11,19,11,6,11|11,6,17,4,11,3",,GRAND_SLAM,MS,870,Qualification,STEGER Bastian (GER),XUE Fei (CHN),XUE Fei
+World Tour Qatar Open Doha 2018,2018-03-08,STEGER Bastian,PITCHFORD Liam,4,1,"12,7,11,19,11|10,11,9,17,8",,GRAND_SLAM,MS,870,Qualification,STEGER Bastian (GER),PITCHFORD Liam (ENG),STEGER Bastian
+World Tour Qatar Open Doha 2018,2018-03-08,PITCHFORD Liam,XUE Fei,4,3,"7,11,7,11,7,20,12|11,5,11,5,11,18,10",,GRAND_SLAM,MS,870,Qualification,PITCHFORD Liam (ENG),XUE Fei (CHN),PITCHFORD Liam
+World Tour Qatar Open Doha 2018,2018-03-08,APOLONIA Tiago,AFANADOR Brian,4,1,"11,12,11,4,11|4,10,7,11,8",,GRAND_SLAM,MS,870,Qualification,APOLONIA Tiago (POR),AFANADOR Brian (PUR),APOLONIA Tiago
+World Tour Qatar Open Doha 2018,2018-03-08,APOLONIA Tiago,YOSHIMURA Kazuhiro,4,3,"11,11,11,2,11,2,11|8,9,9,11,13,11,8",,GRAND_SLAM,MS,870,Qualification,APOLONIA Tiago (POR),YOSHIMURA Kazuhiro (JPN),APOLONIA Tiago
+World Tour Qatar Open Doha 2018,2018-03-08,YOSHIMURA Kazuhiro,AFANADOR Brian,4,0,"11,11,11,11|7,6,3,9",,GRAND_SLAM,MS,870,Qualification,YOSHIMURA Kazuhiro (JPN),AFANADOR Brian (PUR),YOSHIMURA Kazuhiro
+World Tour Qatar Open Doha 2018,2018-03-08,SALIFOU Abdel-Kader,MCBEATH David,4,1,"11,11,10,14,11|4,7,12,12,8",,GRAND_SLAM,MS,870,Qualification,SALIFOU Abdel-Kader (BEN),MCBEATH David (ENG),SALIFOU Abdel-Kader
+World Tour Qatar Open Doha 2018,2018-03-08,SALIFOU Abdel-Kader,DRINKHALL Paul,4,2,"6,8,11,11,11,11|11,11,8,4,8,6",,GRAND_SLAM,MS,870,Qualification,SALIFOU Abdel-Kader (BEN),DRINKHALL Paul (ENG),SALIFOU Abdel-Kader
+World Tour Qatar Open Doha 2018,2018-03-08,DRINKHALL Paul,MCBEATH David,4,2,"11,11,12,6,11,11|13,5,10,11,7,4",,GRAND_SLAM,MS,870,Qualification,DRINKHALL Paul (ENG),MCBEATH David (ENG),DRINKHALL Paul
+World Tour Qatar Open Doha 2018,2018-03-08,KARLSSON Mattias,LIU Dingshuo,4,3,"11,9,11,7,11,7,12|9,11,9,11,8,11,10",,GRAND_SLAM,MS,870,Qualification,KARLSSON Mattias (SWE),LIU Dingshuo (CHN),KARLSSON Mattias
+World Tour Qatar Open Doha 2018,2018-03-08,KARLSSON Mattias,AKKUZU Can,4,0,"11,11,11,11|7,6,7,7",,GRAND_SLAM,MS,870,Qualification,KARLSSON Mattias (SWE),AKKUZU Can (FRA),KARLSSON Mattias
+World Tour Qatar Open Doha 2018,2018-03-08,LIU Dingshuo,AKKUZU Can,4,0,"11,13,12,11|6,11,10,4",,GRAND_SLAM,MS,870,Qualification,AKKUZU Can (FRA),LIU Dingshuo (CHN),LIU Dingshuo
+World Tour Qatar Open Doha 2018,2018-03-08,JANG Woojin,SEYFRIED Joe,4,2,"11,8,9,11,11,11|5,11,11,5,9,4",,GRAND_SLAM,MS,870,Qualification,JANG Woojin (KOR),SEYFRIED Joe (FRA),JANG Woojin
+World Tour Qatar Open Doha 2018,2018-03-08,JANG Woojin,WALKER Samuel,4,3,"12,7,11,10,11,12,11|10,11,5,12,5,14,6",,GRAND_SLAM,MS,870,Qualification,JANG Woojin (KOR),WALKER Samuel (ENG),JANG Woojin
+World Tour Qatar Open Doha 2018,2018-03-08,WALKER Samuel,SEYFRIED Joe,4,1,"5,11,12,13,11|11,8,10,11,9",,GRAND_SLAM,MS,870,Qualification,WALKER Samuel (ENG),SEYFRIED Joe (FRA),WALKER Samuel
+World Tour Qatar Open Doha 2018,2018-03-08,FRANZISKA Patrick,ZHAI Yujia,4,0,"11,11,11,11|7,6,6,8",,GRAND_SLAM,MS,870,Qualification,FRANZISKA Patrick (GER),ZHAI Yujia (DEN),FRANZISKA Patrick
+World Tour Qatar Open Doha 2018,2018-03-08,FRANZISKA Patrick,KONECNY Tomas,4,0,"11,11,11,11|6,6,7,6",,GRAND_SLAM,MS,870,Qualification,FRANZISKA Patrick (GER),KONECNY Tomas (CZE),FRANZISKA Patrick
+World Tour Qatar Open Doha 2018,2018-03-08,ZHAI Yujia,KONECNY Tomas,4,3,"4,10,11,6,11,11,11|11,12,8,11,8,8,4",,GRAND_SLAM,MS,870,Qualification,KONECNY Tomas (CZE),ZHAI Yujia (DEN),ZHAI Yujia
+World Tour Qatar Open Doha 2018,2018-03-08,WANG Chuqin,ROBLES Alvaro,4,1,"11,11,11,10,11|5,4,2,12,6",,GRAND_SLAM,MS,870,Qualification,ROBLES Alvaro (ESP),WANG Chuqin (CHN),WANG Chuqin
+World Tour Qatar Open Doha 2018,2018-03-08,ANTHONY Amalraj,ROBLES Alvaro,4,3,"7,11,11,7,11,7,11|11,9,8,11,9,11,6",,GRAND_SLAM,MS,870,Qualification,ROBLES Alvaro (ESP),ANTHONY Amalraj (IND),ANTHONY Amalraj
+World Tour Qatar Open Doha 2018,2018-03-08,WANG Chuqin,ANTHONY Amalraj,4,0,"11,11,11,11|7,4,7,5",,GRAND_SLAM,MS,870,Qualification,ANTHONY Amalraj (IND),WANG Chuqin (CHN),WANG Chuqin
+World Tour Qatar Open Doha 2018,2018-03-08,STOYANOV Niagol,LIAO Cheng-Ting,4,1,"12,11,11,11,11|14,3,4,7,6",,GRAND_SLAM,MS,870,Qualification,LIAO Cheng-Ting (TPE),STOYANOV Niagol (ITA),STOYANOV Niagol
+World Tour Qatar Open Doha 2018,2018-03-08,LIAO Cheng-Ting,ROBINOT Quentin,4,0,,,GRAND_SLAM,MS,870,Qualification,LIAO Cheng-Ting (TPE),ROBINOT Quentin (FRA),LIAO Cheng-Ting
+World Tour Qatar Open Doha 2018,2018-03-08,STOYANOV Niagol,ROBINOT Quentin,4,2,"11,8,11,12,2,11|9,11,9,10,11,9",,GRAND_SLAM,MS,870,Qualification,ROBINOT Quentin (FRA),STOYANOV Niagol (ITA),STOYANOV Niagol
+World Tour Qatar Open Doha 2018,2018-03-08,HO Kwan Kit,KOJIC Frane,4,1,"11,5,11,11,11|9,11,8,9,6",,GRAND_SLAM,MS,870,Qualification,HO Kwan Kit (HKG),KOJIC Frane (CRO),HO Kwan Kit
+World Tour Qatar Open Doha 2018,2018-03-08,PERSSON Jon,HO Kwan Kit,4,0,"11,11,11,11|3,8,6,5",,GRAND_SLAM,MS,870,Qualification,HO Kwan Kit (HKG),PERSSON Jon (SWE),PERSSON Jon
+World Tour Qatar Open Doha 2018,2018-03-08,PERSSON Jon,KOJIC Frane,4,0,"11,11,11,11|9,9,5,3",,GRAND_SLAM,MS,870,Qualification,PERSSON Jon (SWE),KOJIC Frane (CRO),PERSSON Jon
+World Tour Qatar Open Doha 2018,2018-03-08,GERASSIMENKO Kirill,RANEFUR Elias,4,0,"12,18,13,12|10,16,11,10",,GRAND_SLAM,MS,870,Qualification,GERASSIMENKO Kirill (KAZ),RANEFUR Elias (SWE),GERASSIMENKO Kirill
+World Tour Qatar Open Doha 2018,2018-03-08,GERASSIMENKO Kirill,KIZUKURI Yuto,4,3,"11,2,8,11,9,11,11|6,11,11,9,11,8,8",,GRAND_SLAM,MS,870,Qualification,GERASSIMENKO Kirill (KAZ),KIZUKURI Yuto (JPN),GERASSIMENKO Kirill
+World Tour Qatar Open Doha 2018,2018-03-08,KIZUKURI Yuto,RANEFUR Elias,4,3,"13,3,7,8,11,11,11|11,11,11,11,6,7,8",,GRAND_SLAM,MS,870,Qualification,KIZUKURI Yuto (JPN),RANEFUR Elias (SWE),KIZUKURI Yuto
+World Tour Qatar Open Doha 2018,2018-03-08,NUYTINCK Cedric,OMOTAYO Olajide,4,1,"7,15,11,11,11|11,13,7,2,9",,GRAND_SLAM,MS,870,Qualification,NUYTINCK Cedric (BEL),OMOTAYO Olajide (NGR),NUYTINCK Cedric
+World Tour Qatar Open Doha 2018,2018-03-08,HABESOHN Daniel,NUYTINCK Cedric,4,1,"11,11,11,6,11|5,5,9,11,9",,GRAND_SLAM,MS,870,Qualification,NUYTINCK Cedric (BEL),HABESOHN Daniel (AUT),HABESOHN Daniel
+World Tour Qatar Open Doha 2018,2018-03-08,HABESOHN Daniel,OMOTAYO Olajide,4,0,"11,11,11,11|9,6,7,6",,GRAND_SLAM,MS,870,Qualification,HABESOHN Daniel (AUT),OMOTAYO Olajide (NGR),HABESOHN Daniel
+World Tour Qatar Open Doha 2018,2018-03-08,JIANG Tianyi,SODERLUND Hampus,4,1,"11,11,7,11,11|5,5,11,6,8",,GRAND_SLAM,MS,870,Qualification,JIANG Tianyi (HKG),SODERLUND Hampus (SWE),JIANG Tianyi
+World Tour Qatar Open Doha 2018,2018-03-08,JIANG Tianyi,SZOCS Hunor,4,1,"5,11,11,11,11|11,5,7,9,8",,GRAND_SLAM,MS,870,Qualification,JIANG Tianyi (HKG),SZOCS Hunor (ROU),JIANG Tianyi
+World Tour Qatar Open Doha 2018,2018-03-08,SZOCS Hunor,SODERLUND Hampus,4,2,"11,5,12,9,11,11|6,11,10,11,5,9",,GRAND_SLAM,MS,870,Qualification,SZOCS Hunor (ROU),SODERLUND Hampus (SWE),SZOCS Hunor
+World Tour Qatar Open Doha 2018,2018-03-08,FEGERL Stefan,MUTTI Leonardo,4,1,"9,12,11,13,11|11,10,3,11,7",,GRAND_SLAM,MS,870,Qualification,FEGERL Stefan (AUT),MUTTI Leonardo (ITA),FEGERL Stefan
+World Tour Qatar Open Doha 2018,2018-03-08,ALAMIYAN Noshad,FEGERL Stefan,4,1,"11,7,11,11,11|7,11,5,9,9",,GRAND_SLAM,MS,870,Qualification,FEGERL Stefan (AUT),ALAMIYAN Noshad (IRI),ALAMIYAN Noshad
+World Tour Qatar Open Doha 2018,2018-03-08,ALAMIYAN Noshad,MUTTI Leonardo,4,0,"11,11,11,11|9,6,7,9",,GRAND_SLAM,MS,870,Qualification,ALAMIYAN Noshad (IRI),MUTTI Leonardo (ITA),ALAMIYAN Noshad
+World Tour Qatar Open Doha 2018,2018-03-08,MORIZONO Masataka,CHO Daeseong,4,1,"7,11,11,11,12|11,6,4,7,10",,GRAND_SLAM,MS,870,Qualification,MORIZONO Masataka (JPN),CHO Daeseong (KOR),MORIZONO Masataka
+World Tour Qatar Open Doha 2018,2018-03-08,MORIZONO Masataka,PUCAR Tomislav,4,0,,,GRAND_SLAM,MS,870,Qualification,MORIZONO Masataka (JPN),PUCAR Tomislav (CRO),MORIZONO Masataka
+World Tour Qatar Open Doha 2018,2018-03-08,CHO Daeseong,PUCAR Tomislav,4,0,,,GRAND_SLAM,MS,870,Qualification,PUCAR Tomislav (CRO),CHO Daeseong (KOR),CHO Daeseong
+World Tour Qatar Open Doha 2018,2018-03-08,DUDA Benedikt,LEE Chia-Sheng,4,0,"11,12,12,13|7,10,10,11",,GRAND_SLAM,MS,870,Qualification,DUDA Benedikt (GER),LEE Chia-Sheng (TPE),DUDA Benedikt
+World Tour Qatar Open Doha 2018,2018-03-08,DUDA Benedikt,IONESCU Ovidiu,4,1,"11,12,11,11,11|8,14,7,7,3",,GRAND_SLAM,MS,870,Qualification,DUDA Benedikt (GER),IONESCU Ovidiu (ROU),DUDA Benedikt
+World Tour Qatar Open Doha 2018,2018-03-08,IONESCU Ovidiu,LEE Chia-Sheng,4,0,"11,11,11,11|5,4,4,5",,GRAND_SLAM,MS,870,Qualification,IONESCU Ovidiu (ROU),LEE Chia-Sheng (TPE),IONESCU Ovidiu
+World Tour Qatar Open Doha 2018,2018-03-08,GNANASEKARAN Sathiyan,KOSIBA Daniel,4,0,"11,11,11,11|7,6,2,3",,GRAND_SLAM,MS,870,Qualification,GNANASEKARAN Sathiyan (IND),KOSIBA Daniel (HUN),GNANASEKARAN Sathiyan
+World Tour Qatar Open Doha 2018,2018-03-08,GERALDO Joao,GNANASEKARAN Sathiyan,4,1,"12,11,4,11,11|10,9,11,6,8",,GRAND_SLAM,MS,870,Qualification,GNANASEKARAN Sathiyan (IND),GERALDO Joao (POR),GERALDO Joao
+World Tour Qatar Open Doha 2018,2018-03-08,KOSIBA Daniel,GERALDO Joao,4,0,"11,11,11,12|9,9,7,10",,GRAND_SLAM,MS,870,Qualification,GERALDO Joao (POR),KOSIBA Daniel (HUN),KOSIBA Daniel
+World Tour Qatar Open Doha 2018,2018-03-08,LIM Jonghoon,PASSARA Pattaratorn,4,0,"11,11,11,11|4,4,5,9",,GRAND_SLAM,MS,870,Qualification,LIM Jonghoon (KOR),PASSARA Pattaratorn (THA),LIM Jonghoon
+World Tour Qatar Open Doha 2018,2018-03-08,LIM Jonghoon,SHETTY Sanil,4,0,"11,11,12,11|5,8,10,9",,GRAND_SLAM,MS,870,Qualification,LIM Jonghoon (KOR),SHETTY Sanil (IND),LIM Jonghoon
+World Tour Qatar Open Doha 2018,2018-03-08,SHETTY Sanil,PASSARA Pattaratorn,4,0,"11,11,16,11|8,5,14,5",,GRAND_SLAM,MS,870,Qualification,SHETTY Sanil (IND),PASSARA Pattaratorn (THA),SHETTY Sanil
+World Tour Qatar Open Doha 2018,2018-03-08,GARDOS Robert,ABDULWAHHAB Mohammed,4,1,"11,8,11,11,11|9,11,5,3,5",,GRAND_SLAM,MS,870,Qualification,GARDOS Robert (AUT),ABDULWAHHAB Mohammed (QAT),GARDOS Robert
+World Tour Qatar Open Doha 2018,2018-03-08,GARDOS Robert,NG Pak Nam,4,0,"11,11,11,11|8,8,3,8",,GRAND_SLAM,MS,870,Qualification,GARDOS Robert (AUT),NG Pak Nam (HKG),GARDOS Robert
+World Tour Qatar Open Doha 2018,2018-03-08,NG Pak Nam,ABDULWAHHAB Mohammed,4,0,"11,11,11,11|5,2,4,5",,GRAND_SLAM,MS,870,Qualification,NG Pak Nam (HKG),ABDULWAHHAB Mohammed (QAT),NG Pak Nam
+World Tour Qatar Open Doha 2018,2018-03-08,ACHANTA Sharath,ABO YAMAN Zaid,4,0,"11,12,11,11|8,10,6,1",,GRAND_SLAM,MS,870,Qualification,ACHANTA Sharath (IND),ABO YAMAN Zaid (JOR),ACHANTA Sharath
+World Tour Qatar Open Doha 2018,2018-03-08,ACHANTA Sharath,SHIBAEV Alexander,4,0,,,GRAND_SLAM,MS,870,Qualification,ACHANTA Sharath (IND),SHIBAEV Alexander (RUS),ACHANTA Sharath
+World Tour Qatar Open Doha 2018,2018-03-08,ABO YAMAN Zaid,SHIBAEV Alexander,4,0,,,GRAND_SLAM,MS,870,Qualification,SHIBAEV Alexander (RUS),ABO YAMAN Zaid (JOR),ABO YAMAN Zaid
+World Tour Qatar Open Doha 2018,2018-03-08,GACINA Andrej,ALMALKI Nawaf,4,0,"11,11,11,11|6,1,9,3",,GRAND_SLAM,MS,870,Qualification,GACINA Andrej (CRO),ALMALKI Nawaf (QAT),GACINA Andrej
+World Tour Qatar Open Doha 2018,2018-03-08,GACINA Andrej,GHOSH Soumyajit,4,2,"11,11,10,11,6,11|9,6,12,7,11,4",,GRAND_SLAM,MS,870,Qualification,GACINA Andrej (CRO),GHOSH Soumyajit (IND),GACINA Andrej
+World Tour Qatar Open Doha 2018,2018-03-08,GHOSH Soumyajit,ALMALKI Nawaf,4,1,"11,11,7,11,11|9,6,11,4,5",,GRAND_SLAM,MS,870,Qualification,GHOSH Soumyajit (IND),ALMALKI Nawaf (QAT),GHOSH Soumyajit
+World Tour Qatar Open Doha 2018,2018-03-08,MONTEIRO Joao,PANAGITGUN Yanapong,4,1,"11,4,11,15,11|1,11,3,13,5",,GRAND_SLAM,MS,870,Qualification,MONTEIRO Joao (POR),PANAGITGUN Yanapong (THA),MONTEIRO Joao
+World Tour Qatar Open Doha 2018,2018-03-08,DESAI Harmeet,AL-HAJAJI Abdulaziz,4,0,"11,11,11,11|3,8,1,5",,GRAND_SLAM,MS,870,Qualification,DESAI Harmeet (IND),AL-HAJAJI Abdulaziz (QAT),DESAI Harmeet
+World Tour Qatar Open Doha 2018,2018-03-08,MONTEIRO Joao,DESAI Harmeet,4,1,"11,11,9,13,11|8,5,11,11,8",,GRAND_SLAM,MS,870,Qualification,MONTEIRO Joao (POR),DESAI Harmeet (IND),MONTEIRO Joao
+World Tour Qatar Open Doha 2018,2018-03-08,PANAGITGUN Yanapong,AL-HAJAJI Abdulaziz,4,0,"14,11,11,11|12,6,6,7",,GRAND_SLAM,MS,870,Qualification,PANAGITGUN Yanapong (THA),AL-HAJAJI Abdulaziz (QAT),PANAGITGUN Yanapong
+World Tour Qatar Open Doha 2018,2018-03-08,MONTEIRO Joao,AL-HAJAJI Abdulaziz,4,0,"11,11,11,11|4,6,5,2",,GRAND_SLAM,MS,870,Qualification,MONTEIRO Joao (POR),AL-HAJAJI Abdulaziz (QAT),MONTEIRO Joao
+World Tour Qatar Open Doha 2018,2018-03-08,DESAI Harmeet,PANAGITGUN Yanapong,4,0,"11,11,11,11|6,6,5,7",,GRAND_SLAM,MS,870,Qualification,DESAI Harmeet (IND),PANAGITGUN Yanapong (THA),DESAI Harmeet
+World Tour Qatar Open Doha 2018,2018-03-08,KALLBERG Anton,AL-NAGGAR Abdulrahman,4,0,"11,11,11,11|6,9,8,4",,GRAND_SLAM,MS,870,Qualification,KALLBERG Anton (SWE),AL-NAGGAR Abdulrahman (QAT),KALLBERG Anton
+World Tour Qatar Open Doha 2018,2018-03-08,LAM Siu Hang,AL ABDULLA Abdulaziz,4,0,"11,11,11,11|3,3,7,6",,GRAND_SLAM,MS,870,Qualification,AL ABDULLA Abdulaziz (QAT),LAM Siu Hang (HKG),LAM Siu Hang
+World Tour Qatar Open Doha 2018,2018-03-08,KALLBERG Anton,AL ABDULLA Abdulaziz,4,0,"11,11,11,11|2,1,3,8",,GRAND_SLAM,MS,870,Qualification,KALLBERG Anton (SWE),AL ABDULLA Abdulaziz (QAT),KALLBERG Anton
+World Tour Qatar Open Doha 2018,2018-03-08,LAM Siu Hang,AL-NAGGAR Abdulrahman,4,0,"11,11,11,11|4,6,4,1",,GRAND_SLAM,MS,870,Qualification,AL-NAGGAR Abdulrahman (QAT),LAM Siu Hang (HKG),LAM Siu Hang
+World Tour Qatar Open Doha 2018,2018-03-08,KALLBERG Anton,LAM Siu Hang,4,3,"8,10,7,11,12,13,11|11,12,11,7,10,11,7",,GRAND_SLAM,MS,870,Qualification,KALLBERG Anton (SWE),LAM Siu Hang (HKG),KALLBERG Anton
+World Tour Qatar Open Doha 2018,2018-03-08,AL-NAGGAR Abdulrahman,AL ABDULLA Abdulaziz,4,0,"11,11,11,11|8,7,7,8",,GRAND_SLAM,MS,870,Qualification,AL ABDULLA Abdulaziz (QAT),AL-NAGGAR Abdulrahman (QAT),AL-NAGGAR Abdulrahman
+World Tour Qatar Open Doha 2018,2018-03-08,SATO Hitomi,CECHOVA Dana,4,0,"11,11,12,11|3,7,10,7",,GRAND_SLAM,WS,870,Qualification,SATO Hitomi (JPN),CECHOVA Dana (CZE),SATO Hitomi
+World Tour Qatar Open Doha 2018,2018-03-08,SATO Hitomi,LIU Hsing-Yin,4,1,"13,11,9,11,11|11,6,11,6,7",,GRAND_SLAM,WS,870,Qualification,SATO Hitomi (JPN),LIU Hsing-Yin (TPE),SATO Hitomi
+World Tour Qatar Open Doha 2018,2018-03-08,LIU Hsing-Yin,CECHOVA Dana,4,3,"5,11,9,11,11,7,13|11,6,11,4,6,11,11",,GRAND_SLAM,WS,870,Qualification,LIU Hsing-Yin (TPE),CECHOVA Dana (CZE),LIU Hsing-Yin
+World Tour Qatar Open Doha 2018,2018-03-08,ZHANG Rui,POLCANOVA Sofia,4,0,"11,11,16,11|4,6,14,4",,GRAND_SLAM,WS,870,Qualification,POLCANOVA Sofia (AUT),ZHANG Rui (CHN),ZHANG Rui
+World Tour Qatar Open Doha 2018,2018-03-08,POLCANOVA Sofia,XIAO Maria,4,1,"11,11,11,8,11|6,4,3,11,8",,GRAND_SLAM,WS,870,Qualification,POLCANOVA Sofia (AUT),XIAO Maria (ESP),POLCANOVA Sofia
+World Tour Qatar Open Doha 2018,2018-03-08,ZHANG Rui,XIAO Maria,4,0,"11,11,11,12|5,2,5,10",,GRAND_SLAM,WS,870,Qualification,XIAO Maria (ESP),ZHANG Rui (CHN),ZHANG Rui
+World Tour Qatar Open Doha 2018,2018-03-08,DING Ning,KHETKHUAN Tamolwan,4,0,"11,11,11,11|7,3,3,4",,GRAND_SLAM,WS,870,Qualification,DING Ning (CHN),KHETKHUAN Tamolwan (THA),DING Ning
+World Tour Qatar Open Doha 2018,2018-03-08,DING Ning,KIHARA Miyuu,4,1,"12,11,11,11,13|14,8,4,9,11",,GRAND_SLAM,WS,870,Qualification,DING Ning (CHN),KIHARA Miyuu (JPN),DING Ning
+World Tour Qatar Open Doha 2018,2018-03-08,KIHARA Miyuu,KHETKHUAN Tamolwan,4,0,"11,11,11,11|3,7,5,7",,GRAND_SLAM,WS,870,Qualification,KIHARA Miyuu (JPN),KHETKHUAN Tamolwan (THA),KIHARA Miyuu
+World Tour Qatar Open Doha 2018,2018-03-08,WU Yang,LIN Ye,4,0,"11,19,11,11|5,17,6,6",,GRAND_SLAM,WS,870,Qualification,LIN Ye (CAN),WU Yang (CHN),WU Yang
+World Tour Qatar Open Doha 2018,2018-03-08,LIU Shiwen,LIN Ye,4,1,"8,11,12,14,11|11,6,10,12,9",,GRAND_SLAM,WS,870,Qualification,LIN Ye (CAN),LIU Shiwen (CHN),LIU Shiwen
+World Tour Qatar Open Doha 2018,2018-03-08,LIU Shiwen,WU Yang,4,0,"11,13,11,11|6,11,7,5",,GRAND_SLAM,WS,870,Qualification,LIU Shiwen (CHN),WU Yang (CHN),LIU Shiwen
+World Tour Qatar Open Doha 2018,2018-03-08,NAGASAKI Miyu,SAMARA Elizabeta,4,1,"11,11,13,15,11|13,5,11,13,6",,GRAND_SLAM,WS,870,Qualification,SAMARA Elizabeta (ROU),NAGASAKI Miyu (JPN),NAGASAKI Miyu
+World Tour Qatar Open Doha 2018,2018-03-08,SAMARA Elizabeta,MADARASZ Dora,4,0,"11,11,15,11|8,7,13,7",,GRAND_SLAM,WS,870,Qualification,SAMARA Elizabeta (ROU),MADARASZ Dora (HUN),SAMARA Elizabeta
+World Tour Qatar Open Doha 2018,2018-03-08,NAGASAKI Miyu,MADARASZ Dora,4,0,"11,11,12,11|4,9,10,4",,GRAND_SLAM,WS,870,Qualification,MADARASZ Dora (HUN),NAGASAKI Miyu (JPN),NAGASAKI Miyu
+World Tour Qatar Open Doha 2018,2018-03-08,YOO Eunchong,SOO Wai Yam,4,1,"12,15,11,10,11|10,13,5,12,7",,GRAND_SLAM,WS,870,Qualification,SOO Wai Yam (HKG),YOO Eunchong (KOR),YOO Eunchong
+World Tour Qatar Open Doha 2018,2018-03-08,SOO Wai Yam,ZHOU Yihan,4,1,"11,11,4,11,11|7,5,11,9,3",,GRAND_SLAM,WS,870,Qualification,SOO Wai Yam (HKG),ZHOU Yihan (SGP),SOO Wai Yam
+World Tour Qatar Open Doha 2018,2018-03-08,YOO Eunchong,ZHOU Yihan,4,1,"11,11,12,4,11|8,8,10,11,4",,GRAND_SLAM,WS,870,Qualification,ZHOU Yihan (SGP),YOO Eunchong (KOR),YOO Eunchong
+World Tour Qatar Open Doha 2018,2018-03-08,WANG Yidi,YANG Ha Eun,4,0,"11,11,11,11|8,5,8,4",,GRAND_SLAM,WS,870,Qualification,YANG Ha Eun (KOR),WANG Yidi (CHN),WANG Yidi
+World Tour Qatar Open Doha 2018,2018-03-08,YANG Ha Eun,NOSKOVA Yana,4,2,"12,11,11,9,6,12|10,3,2,11,11,10",,GRAND_SLAM,WS,870,Qualification,YANG Ha Eun (KOR),NOSKOVA Yana (RUS),YANG Ha Eun
+World Tour Qatar Open Doha 2018,2018-03-08,WANG Yidi,NOSKOVA Yana,4,3,"11,11,11,8,7,7,12|8,6,8,11,11,11,10",,GRAND_SLAM,WS,870,Qualification,NOSKOVA Yana (RUS),WANG Yidi (CHN),WANG Yidi
+World Tour Qatar Open Doha 2018,2018-03-08,YU Fu,VARADY Barbora,4,1,"11,11,11,11,11|6,13,8,8,6",,GRAND_SLAM,WS,870,Qualification,YU Fu (POR),VARADY Barbora (SVK),YU Fu
+World Tour Qatar Open Doha 2018,2018-03-08,YU Fu,HU Melek,4,1,"9,11,12,12,11|11,8,10,10,5",,GRAND_SLAM,WS,870,Qualification,YU Fu (POR),HU Melek (TUR),YU Fu
+World Tour Qatar Open Doha 2018,2018-03-08,HU Melek,VARADY Barbora,4,2,"11,9,11,7,11,11|1,11,5,11,5,2",,GRAND_SLAM,WS,870,Qualification,HU Melek (TUR),VARADY Barbora (SVK),HU Melek
+World Tour Qatar Open Doha 2018,2018-03-08,HASHIMOTO Honoka,SUN Mingyang,4,2,"11,11,6,5,11,11|7,9,11,11,7,6",,GRAND_SLAM,WS,870,Qualification,HASHIMOTO Honoka (JPN),SUN Mingyang (CHN),HASHIMOTO Honoka
+World Tour Qatar Open Doha 2018,2018-03-08,HASHIMOTO Honoka,PERGEL Szandra,4,0,"11,11,11,11|7,8,6,5",,GRAND_SLAM,WS,870,Qualification,HASHIMOTO Honoka (JPN),PERGEL Szandra (HUN),HASHIMOTO Honoka
+World Tour Qatar Open Doha 2018,2018-03-08,SUN Mingyang,PERGEL Szandra,4,0,"11,11,11,11|8,4,5,9",,GRAND_SLAM,WS,870,Qualification,PERGEL Szandra (HUN),SUN Mingyang (CHN),SUN Mingyang
+World Tour Qatar Open Doha 2018,2018-03-08,ZENG Jian,LI Fen,4,3,"7,8,11,11,9,11,13|11,11,7,9,11,7,11",,GRAND_SLAM,WS,870,Qualification,ZENG Jian (SGP),LI Fen (SWE),ZENG Jian
+World Tour Qatar Open Doha 2018,2018-03-08,ZENG Jian,WINTER Sabine,4,0,"11,11,11,11|7,7,7,8",,GRAND_SLAM,WS,870,Qualification,ZENG Jian (SGP),WINTER Sabine (GER),ZENG Jian
+World Tour Qatar Open Doha 2018,2018-03-08,LI Fen,WINTER Sabine,4,2,"10,11,10,11,11,11|12,9,12,5,3,3",,GRAND_SLAM,WS,870,Qualification,WINTER Sabine (GER),LI Fen (SWE),LI Fen
+World Tour Qatar Open Doha 2018,2018-03-08,SHIBATA Saki,SHIN Yubin,4,2,"11,11,9,11,9,11|9,7,11,8,11,7",,GRAND_SLAM,WS,870,Qualification,SHIBATA Saki (JPN),SHIN Yubin (KOR),SHIBATA Saki
+World Tour Qatar Open Doha 2018,2018-03-08,SHIBATA Saki,DE NUTTE Sarah,4,2,"8,11,11,11,12,11|11,9,3,5,14,5",,GRAND_SLAM,WS,870,Qualification,SHIBATA Saki (JPN),DE NUTTE Sarah (LUX),SHIBATA Saki
+World Tour Qatar Open Doha 2018,2018-03-08,DE NUTTE Sarah,SHIN Yubin,4,3,"11,9,11,7,11,6,11|9,11,7,11,6,11,3",,GRAND_SLAM,WS,870,Qualification,DE NUTTE Sarah (LUX),SHIN Yubin (KOR),DE NUTTE Sarah
+World Tour Qatar Open Doha 2018,2018-03-08,ZHANG Mo,ODO Satsuki,4,3,"11,8,5,11,2,15,11|8,11,11,8,11,13,7",,GRAND_SLAM,WS,870,Qualification,ZHANG Mo (CAN),ODO Satsuki (JPN),ZHANG Mo
+World Tour Qatar Open Doha 2018,2018-03-08,BATRA Manika,ZHANG Mo,4,3,"11,11,11,7,9,11,11|13,5,1,11,11,8,8",,GRAND_SLAM,WS,870,Qualification,ZHANG Mo (CAN),BATRA Manika (IND),BATRA Manika
+World Tour Qatar Open Doha 2018,2018-03-08,BATRA Manika,ODO Satsuki,4,0,"11,11,11,11|6,5,8,6",,GRAND_SLAM,WS,870,Qualification,BATRA Manika (IND),ODO Satsuki (JPN),BATRA Manika
+World Tour Qatar Open Doha 2018,2018-03-08,YANG Xiaoxin,EKHOLM Matilda,4,2,"14,12,9,8,11,11|12,10,11,11,8,4",,GRAND_SLAM,WS,870,Qualification,EKHOLM Matilda (SWE),YANG Xiaoxin (MON),YANG Xiaoxin
+World Tour Qatar Open Doha 2018,2018-03-08,EKHOLM Matilda,DAS Mouma,4,0,"11,11,11,11|5,9,4,5",,GRAND_SLAM,WS,870,Qualification,EKHOLM Matilda (SWE),DAS Mouma (IND),EKHOLM Matilda
+World Tour Qatar Open Doha 2018,2018-03-08,YANG Xiaoxin,DAS Mouma,4,0,"11,15,11,11|9,13,2,8",,GRAND_SLAM,WS,870,Qualification,DAS Mouma (IND),YANG Xiaoxin (MON),YANG Xiaoxin
+World Tour Qatar Open Doha 2018,2018-03-08,HAN Ying,MOHAMED Aia,4,0,"11,11,11,11|1,6,2,2",,GRAND_SLAM,WS,870,Qualification,HAN Ying (GER),MOHAMED Aia (QAT),HAN Ying
+World Tour Qatar Open Doha 2018,2018-03-08,CHEN Ke,HAN Ying,4,1,"11,11,10,11,12|5,7,12,7,10",,GRAND_SLAM,WS,870,Qualification,HAN Ying (GER),CHEN Ke (CHN),CHEN Ke
+World Tour Qatar Open Doha 2018,2018-03-08,CHEN Ke,MOHAMED Aia,4,0,"11,11,11,11|1,6,3,3",,GRAND_SLAM,WS,870,Qualification,CHEN Ke (CHN),MOHAMED Aia (QAT),CHEN Ke
+World Tour Qatar Open Doha 2018,2018-03-08,HAMAMOTO Yui,SAWETTABUT Jinnipa,4,0,"11,11,11,11|3,6,7,1",,GRAND_SLAM,WS,870,Qualification,HAMAMOTO Yui (AUT),SAWETTABUT Jinnipa (THA),HAMAMOTO Yui
+World Tour Qatar Open Doha 2018,2018-03-08,CHOI Hyojoo,HAMAMOTO Yui,4,3,"12,8,6,11,11,11,11|14,11,11,6,3,7,4",,GRAND_SLAM,WS,870,Qualification,HAMAMOTO Yui (AUT),CHOI Hyojoo (KOR),CHOI Hyojoo
+World Tour Qatar Open Doha 2018,2018-03-08,CHOI Hyojoo,SAWETTABUT Jinnipa,4,0,"11,11,11,11|7,7,6,8",,GRAND_SLAM,WS,870,Qualification,CHOI Hyojoo (KOR),SAWETTABUT Jinnipa (THA),CHOI Hyojoo
+World Tour Qatar Open Doha 2018,2018-03-08,LIU Jia,LIN Chia-Hui,4,0,"11,11,11,13|2,8,4,11",,GRAND_SLAM,WS,870,Qualification,LIU Jia (AUT),LIN Chia-Hui (TPE),LIU Jia
+World Tour Qatar Open Doha 2018,2018-03-08,MATELOVA Hana,LIU Jia,4,3,"13,9,8,11,11,10,13|11,11,11,3,8,12,11",,GRAND_SLAM,WS,870,Qualification,LIU Jia (AUT),MATELOVA Hana (CZE),MATELOVA Hana
+World Tour Qatar Open Doha 2018,2018-03-08,MATELOVA Hana,LIN Chia-Hui,4,1,"6,11,13,11,11|11,2,11,6,9",,GRAND_SLAM,WS,870,Qualification,MATELOVA Hana (CZE),LIN Chia-Hui (TPE),MATELOVA Hana
+World Tour Qatar Open Doha 2018,2018-03-08,SUN Yingsha,FARAMARZI Maha,4,0,"11,11,11,11|3,4,3,1",,GRAND_SLAM,WS,870,Qualification,SUN Yingsha (CHN),FARAMARZI Maha (QAT),SUN Yingsha
+World Tour Qatar Open Doha 2018,2018-03-08,SUN Yingsha,NI Xia Lian,4,1,"8,11,11,11,11|11,5,7,1,9",,GRAND_SLAM,WS,870,Qualification,SUN Yingsha (CHN),NI Xia Lian (LUX),SUN Yingsha
+World Tour Qatar Open Doha 2018,2018-03-08,NI Xia Lian,FARAMARZI Maha,4,0,"11,11,11,11|4,3,3,4",,GRAND_SLAM,WS,870,Qualification,NI Xia Lian (LUX),FARAMARZI Maha (QAT),NI Xia Lian
+World Tour Qatar Open Doha 2018,2018-03-08,KIM Jiho,SZOCS Bernadette,4,3,"7,13,11,11,11,10,11|11,11,13,9,9,12,7",,GRAND_SLAM,WS,870,Qualification,SZOCS Bernadette (ROU),KIM Jiho (KOR),KIM Jiho
+World Tour Qatar Open Doha 2018,2018-03-08,SZOCS Bernadette,YU Mengyu,4,1,"11,11,11,4,11|4,9,3,11,7",,GRAND_SLAM,WS,870,Qualification,SZOCS Bernadette (ROU),YU Mengyu (SGP),SZOCS Bernadette
+World Tour Qatar Open Doha 2018,2018-03-08,YU Mengyu,KIM Jiho,4,3,"5,12,8,18,4,11,11|11,10,11,16,11,6,7",,GRAND_SLAM,WS,870,Qualification,YU Mengyu (SGP),KIM Jiho (KOR),YU Mengyu
+World Tour Qatar Open Doha 2018,2018-03-08,MAEDA Miyu,HUSSAIN Kholoud,4,0,"11,11,11,11|1,3,2,4",,GRAND_SLAM,WS,870,Qualification,MAEDA Miyu (JPN),HUSSAIN Kholoud (QAT),MAEDA Miyu
+World Tour Qatar Open Doha 2018,2018-03-08,MAEDA Miyu,SAWETTABUT Suthasini,4,1,"12,11,11,9,11|10,7,4,11,9",,GRAND_SLAM,WS,870,Qualification,MAEDA Miyu (JPN),SAWETTABUT Suthasini (THA),MAEDA Miyu
+World Tour Qatar Open Doha 2018,2018-03-08,SAWETTABUT Suthasini,HUSSAIN Kholoud,4,0,"11,11,11,11|5,5,3,1",,GRAND_SLAM,WS,870,Qualification,SAWETTABUT Suthasini (THA),HUSSAIN Kholoud (QAT),SAWETTABUT Suthasini
+World Tour Qatar Open Doha 2018,2018-03-08,CHENG Hsien-Tzu,MYNAROVA Karolina,4,1,"11,11,4,11,11|3,3,11,6,5",,GRAND_SLAM,WS,870,Qualification,CHENG Hsien-Tzu (TPE),MYNAROVA Karolina (CZE),CHENG Hsien-Tzu
+World Tour Qatar Open Doha 2018,2018-03-08,NG Wing Nam,ALI Maha,4,0,"11,11,11,11|4,2,1,3",,GRAND_SLAM,WS,870,Qualification,NG Wing Nam (HKG),ALI Maha (QAT),NG Wing Nam
+World Tour Qatar Open Doha 2018,2018-03-08,NG Wing Nam,CHENG Hsien-Tzu,4,3,"11,10,11,8,7,13,11|8,12,9,11,11,11,5",,GRAND_SLAM,WS,870,Qualification,CHENG Hsien-Tzu (TPE),NG Wing Nam (HKG),NG Wing Nam
+World Tour Qatar Open Doha 2018,2018-03-08,MYNAROVA Karolina,ALI Maha,4,0,"11,11,11,11|2,3,2,5",,GRAND_SLAM,WS,870,Qualification,MYNAROVA Karolina (CZE),ALI Maha (QAT),MYNAROVA Karolina
+World Tour Qatar Open Doha 2018,2018-03-08,CHENG Hsien-Tzu,ALI Maha,4,0,"11,11,11,11|4,1,2,3",,GRAND_SLAM,WS,870,Qualification,CHENG Hsien-Tzu (TPE),ALI Maha (QAT),CHENG Hsien-Tzu
+World Tour Qatar Open Doha 2018,2018-03-08,NG Wing Nam,MYNAROVA Karolina,4,0,"12,11,11,11|10,6,5,4",,GRAND_SLAM,WS,870,Qualification,NG Wing Nam (HKG),MYNAROVA Karolina (CZE),NG Wing Nam
+World Tour Qatar Open Doha 2018,2018-03-08,CHE Xiaoxi,JIANG Huajun,4,0,"11,11,11,11|3,7,9,4",,GRAND_SLAM,WS,870,Qualification,JIANG Huajun (HKG),CHE Xiaoxi (CHN),CHE Xiaoxi
+World Tour Qatar Open Doha 2018,2018-03-08,HU Limei,JEON Jihee,4,2,"8,11,11,11,9,11|11,5,6,8,11,2",,GRAND_SLAM,WS,870,Qualification,HU Limei (CHN),JEON Jihee (KOR),HU Limei
+World Tour Qatar Open Doha 2018,2018-03-08,HU Limei,JIANG Huajun,4,1,"11,11,13,11,11|13,5,11,8,7",,GRAND_SLAM,WS,870,Qualification,JIANG Huajun (HKG),HU Limei (CHN),HU Limei
+World Tour Qatar Open Doha 2018,2018-03-08,CHE Xiaoxi,JEON Jihee,4,2,"12,11,3,11,12,11|14,7,11,9,10,9",,GRAND_SLAM,WS,870,Qualification,CHE Xiaoxi (CHN),JEON Jihee (KOR),CHE Xiaoxi
+World Tour Qatar Open Doha 2018,2018-03-08,JEON Jihee,JIANG Huajun,4,1,"11,11,8,11,11|9,9,11,9,6",,GRAND_SLAM,WS,870,Qualification,JIANG Huajun (HKG),JEON Jihee (KOR),JEON Jihee
+World Tour Qatar Open Doha 2018,2018-03-08,CHE Xiaoxi,HU Limei,4,2,"12,11,8,6,15,11|10,9,11,11,13,8",,GRAND_SLAM,WS,870,Qualification,HU Limei (CHN),CHE Xiaoxi (CHN),CHE Xiaoxi
+World Tour Qatar Open Doha 2018,2018-03-08,GACINA Andrej,MONTEIRO Joao,4,2,"5,11,9,11,11,11|11,6,11,4,4,8",QR64,GRAND_SLAM,MS,870,Qualification,GACINA Andrej (CRO),MONTEIRO Joao (POR),GACINA Andrej
+World Tour Qatar Open Doha 2018,2018-03-08,ACHANTA Sharath,KALLBERG Anton,4,2,"7,11,16,11,9,13|11,6,14,8,11,11",QR64,GRAND_SLAM,MS,870,Qualification,ACHANTA Sharath (IND),KALLBERG Anton (SWE),ACHANTA Sharath
+World Tour Qatar Open Doha 2018,2018-03-08,LIN Yun-Ju,GACINA Andrej,4,3,"9,14,12,13,14,10,11|11,16,10,11,12,12,5",QR32,GRAND_SLAM,MS,870,Qualification,LIN Yun-Ju (TPE),GACINA Andrej (CRO),LIN Yun-Ju
+World Tour Qatar Open Doha 2018,2018-03-08,ACHANTA Sharath,FILUS Ruwen,4,1,"11,8,11,11,11|6,11,7,2,7",QR32,GRAND_SLAM,MS,870,Qualification,FILUS Ruwen (GER),ACHANTA Sharath (IND),ACHANTA Sharath
+World Tour Qatar Open Doha 2018,2018-03-08,YOSHIMURA Maharu,GARDOS Robert,4,1,"11,12,13,5,11|4,10,11,11,5",QR32,GRAND_SLAM,MS,870,Qualification,YOSHIMURA Maharu (JPN),GARDOS Robert (AUT),YOSHIMURA Maharu
+World Tour Qatar Open Doha 2018,2018-03-08,LIM Jonghoon,ARUNA Quadri,4,3,"11,6,11,9,11,5,11|9,11,9,11,8,11,4",QR32,GRAND_SLAM,MS,870,Qualification,ARUNA Quadri (NGR),LIM Jonghoon (KOR),LIM Jonghoon
+World Tour Qatar Open Doha 2018,2018-03-08,GNANASEKARAN Sathiyan,KIM Donghyun,4,0,"12,11,11,11|10,5,7,9",QR32,GRAND_SLAM,MS,870,Qualification,KIM Donghyun (KOR),GNANASEKARAN Sathiyan (IND),GNANASEKARAN Sathiyan
+World Tour Qatar Open Doha 2018,2018-03-08,DUDA Benedikt,CHEN Chien-An,4,3,"11,11,11,9,7,3,11|8,4,5,11,11,11,8",QR32,GRAND_SLAM,MS,870,Qualification,CHEN Chien-An (TPE),DUDA Benedikt (GER),DUDA Benedikt
+World Tour Qatar Open Doha 2018,2018-03-08,KOU Lei,MORIZONO Masataka,4,3,"6,11,11,5,14,9,11|11,9,5,11,12,11,3",QR32,GRAND_SLAM,MS,870,Qualification,KOU Lei (UKR),MORIZONO Masataka (JPN),KOU Lei
+World Tour Qatar Open Doha 2018,2018-03-08,ALAMIYAN Noshad,SKACHKOV Kirill,4,3,"11,12,12,9,11,8,16|7,14,10,11,7,11,14",QR32,GRAND_SLAM,MS,870,Qualification,SKACHKOV Kirill (RUS),ALAMIYAN Noshad (IRI),ALAMIYAN Noshad
+World Tour Qatar Open Doha 2018,2018-03-08,BOBOCICA Mihai,JIANG Tianyi,4,1,"12,13,11,11,11|10,15,9,6,9",QR32,GRAND_SLAM,MS,870,Qualification,BOBOCICA Mihai (ITA),JIANG Tianyi (HKG),BOBOCICA Mihai
+World Tour Qatar Open Doha 2018,2018-03-08,GROTH Jonathan,HABESOHN Daniel,4,1,"7,11,11,11,11|11,7,9,6,5",QR32,GRAND_SLAM,MS,870,Qualification,GROTH Jonathan (DEN),HABESOHN Daniel (AUT),GROTH Jonathan
+World Tour Qatar Open Doha 2018,2018-03-08,FANG Bo,GERASSIMENKO Kirill,4,0,"11,11,11,11|6,8,9,6",QR32,GRAND_SLAM,MS,870,Qualification,FANG Bo (KAZ),GERASSIMENKO Kirill (KAZ),FANG Bo
+World Tour Qatar Open Doha 2018,2018-03-08,ZHOU Yu,PERSSON Jon,4,0,"12,13,11,11|10,11,8,8",QR32,GRAND_SLAM,MS,870,Qualification,ZHOU Yu (CHN),PERSSON Jon (SWE),ZHOU Yu
+World Tour Qatar Open Doha 2018,2018-03-08,STEGER Bastian,STOYANOV Niagol,4,0,"11,11,11,11|2,5,8,6",QR32,GRAND_SLAM,MS,870,Qualification,STEGER Bastian (GER),STOYANOV Niagol (ITA),STEGER Bastian
+World Tour Qatar Open Doha 2018,2018-03-08,APOLONIA Tiago,WANG Chuqin,4,2,"6,11,8,11,13,11|11,8,11,9,11,9",QR32,GRAND_SLAM,MS,870,Qualification,APOLONIA Tiago (POR),WANG Chuqin (CHN),APOLONIA Tiago
+World Tour Qatar Open Doha 2018,2018-03-08,FRANZISKA Patrick,SALIFOU Abdel-Kader,4,1,"13,11,10,11,11|11,6,12,6,5",QR32,GRAND_SLAM,MS,870,Qualification,SALIFOU Abdel-Kader (BEN),FRANZISKA Patrick (GER),FRANZISKA Patrick
+World Tour Qatar Open Doha 2018,2018-03-08,KARLSSON Mattias,JANG Woojin,4,3,"9,11,13,11,8,11,13|11,2,11,7,11,13,11",QR32,GRAND_SLAM,MS,870,Qualification,KARLSSON Mattias (SWE),JANG Woojin (KOR),KARLSSON Mattias
+World Tour Qatar Open Doha 2018,2018-03-08,CHE Xiaoxi,BATRA Manika,4,3,"4,11,7,8,11,11,11|11,4,11,11,6,9,6",QR32,GRAND_SLAM,WS,870,Qualification,BATRA Manika (IND),CHE Xiaoxi (CHN),CHE Xiaoxi
+World Tour Qatar Open Doha 2018,2018-03-08,YANG Xiaoxin,NG Wing Nam,4,0,"11,11,11,11|8,3,8,7",QR32,GRAND_SLAM,WS,870,Qualification,YANG Xiaoxin (MON),NG Wing Nam (HKG),YANG Xiaoxin
+World Tour Qatar Open Doha 2018,2018-03-08,CHEN Ke,MAEDA Miyu,4,2,"11,11,11,4,7,11|4,8,9,11,11,7",QR32,GRAND_SLAM,WS,870,Qualification,CHEN Ke (CHN),MAEDA Miyu (JPN),CHEN Ke
+World Tour Qatar Open Doha 2018,2018-03-08,SZOCS Bernadette,CHOI Hyojoo,4,3,"11,13,9,11,11,3,11|6,15,11,7,8,11,9",QR32,GRAND_SLAM,WS,870,Qualification,CHOI Hyojoo (KOR),SZOCS Bernadette (ROU),SZOCS Bernadette
+World Tour Qatar Open Doha 2018,2018-03-08,SUN Yingsha,MATELOVA Hana,4,0,"11,11,11,11|6,9,2,3",QR32,GRAND_SLAM,WS,870,Qualification,MATELOVA Hana (CZE),SUN Yingsha (CHN),SUN Yingsha
+World Tour Qatar Open Doha 2018,2018-03-08,FAN Zhendong,YOSHIMURA Maharu,4,1,"11,5,11,11,13|9,11,3,1,11",R32,GRAND_SLAM,MS,870,Main Draw,FAN Zhendong (CHN),YOSHIMURA Maharu (JPN),FAN Zhendong
+World Tour Qatar Open Doha 2018,2018-03-08,MIZUTANI Jun,FRANZISKA Patrick,4,2,"5,11,11,7,13,11|11,7,7,11,11,5",R32,GRAND_SLAM,MS,870,Main Draw,FRANZISKA Patrick (GER),MIZUTANI Jun (JPN),MIZUTANI Jun
+World Tour Qatar Open Doha 2018,2018-03-08,GROTH Jonathan,LI Ping,4,1,"11,11,11,5,11|8,6,9,11,5",R32,GRAND_SLAM,MS,870,Main Draw,LI Ping (QAT),GROTH Jonathan (DEN),GROTH Jonathan
+World Tour Qatar Open Doha 2018,2018-03-08,ACHANTA Sharath,NIWA Koki,4,1,"9,11,11,14,11|11,9,8,12,9",R32,GRAND_SLAM,MS,870,Main Draw,ACHANTA Sharath (IND),NIWA Koki (JPN),ACHANTA Sharath
+World Tour Qatar Open Doha 2018,2018-03-08,KARLSSON Mattias,GAUZY Simon,4,1,"11,11,11,8,11|3,8,4,11,9",R32,GRAND_SLAM,MS,870,Main Draw,GAUZY Simon (FRA),KARLSSON Mattias (SWE),KARLSSON Mattias
+World Tour Qatar Open Doha 2018,2018-03-08,ZHOU Yu,ASSAR Omar,4,1,"11,13,12,8,11|5,11,10,11,6",R32,GRAND_SLAM,MS,870,Main Draw,ZHOU Yu (CHN),ASSAR Omar (EGY),ZHOU Yu
+World Tour Qatar Open Doha 2018,2018-03-08,LEE Sang Su,STEGER Bastian,4,2,"12,11,5,6,12,11|10,9,11,11,10,9",R32,GRAND_SLAM,MS,870,Main Draw,LEE Sang Su (KOR),STEGER Bastian (GER),LEE Sang Su
+World Tour Qatar Open Doha 2018,2018-03-08,XU Xin,APOLONIA Tiago,4,1,"13,11,11,11,11|15,2,5,8,4",R32,GRAND_SLAM,MS,870,Main Draw,APOLONIA Tiago (POR),XU Xin (CHN),XU Xin
+World Tour Qatar Open Doha 2018,2018-03-08,LIN Gaoyuan,ALAMIYAN Noshad,4,0,"14,11,11,11|12,6,5,7",R32,GRAND_SLAM,MS,870,Main Draw,LIN Gaoyuan (CHN),ALAMIYAN Noshad (IRI),LIN Gaoyuan
+World Tour Qatar Open Doha 2018,2018-03-08,FANG Bo,CHUANG Chih-Yuan,4,3,"11,11,9,13,10,11,11|9,4,11,15,12,7,7",R32,GRAND_SLAM,MS,870,Main Draw,FANG Bo (KAZ),CHUANG Chih-Yuan (TPE),FANG Bo
+World Tour Qatar Open Doha 2018,2018-03-08,KOU Lei,FREITAS Marcos,4,2,"11,16,11,5,8,11|8,14,7,11,11,2",R32,GRAND_SLAM,MS,870,Main Draw,FREITAS Marcos (POR),KOU Lei (UKR),KOU Lei
+World Tour Qatar Open Doha 2018,2018-03-08,WONG Chun Ting,DUDA Benedikt,4,3,"11,10,11,10,13,7,11|7,12,6,12,11,11,4",R32,GRAND_SLAM,MS,870,Main Draw,DUDA Benedikt (GER),WONG Chun Ting (HKG),WONG Chun Ting
+World Tour Qatar Open Doha 2018,2018-03-08,HARIMOTO Tomokazu,BOBOCICA Mihai,4,2,"11,11,11,6,6,11|5,7,6,11,11,3",R32,GRAND_SLAM,MS,870,Main Draw,HARIMOTO Tomokazu (JPN),BOBOCICA Mihai (ITA),HARIMOTO Tomokazu
+World Tour Qatar Open Doha 2018,2018-03-08,GNANASEKARAN Sathiyan,OSHIMA Yuya,4,3,"6,11,2,12,10,11,11|11,5,11,10,12,4,8",R32,GRAND_SLAM,MS,870,Main Draw,GNANASEKARAN Sathiyan (IND),OSHIMA Yuya (JPN),GNANASEKARAN Sathiyan
+World Tour Qatar Open Doha 2018,2018-03-08,CALDERANO Hugo,LIM Jonghoon,4,1,"11,11,11,11,11|1,7,9,13,5",R32,GRAND_SLAM,MS,870,Main Draw,CALDERANO Hugo (BRA),LIM Jonghoon (KOR),CALDERANO Hugo
+World Tour Qatar Open Doha 2018,2018-03-08,BOLL Timo,LIN Yun-Ju,4,1,"12,11,11,11,11|14,5,6,3,5",R32,GRAND_SLAM,MS,870,Main Draw,LIN Yun-Ju (TPE),BOLL Timo (GER),BOLL Timo
+World Tour Qatar Open Doha 2018,2018-03-08,FAN Zhendong,MIZUTANI Jun,4,1,"8,11,11,11,11|11,7,6,7,6",R16,GRAND_SLAM,MS,870,Main Draw,FAN Zhendong (CHN),MIZUTANI Jun (JPN),FAN Zhendong
+World Tour Qatar Open Doha 2018,2018-03-08,GROTH Jonathan,ACHANTA Sharath,4,0,"11,11,11,12|7,7,2,10",R16,GRAND_SLAM,MS,870,Main Draw,GROTH Jonathan (DEN),ACHANTA Sharath (IND),GROTH Jonathan
+World Tour Qatar Open Doha 2018,2018-03-08,ZHOU Yu,KARLSSON Mattias,4,1,"7,11,11,11,11|11,9,5,3,8",R16,GRAND_SLAM,MS,870,Main Draw,KARLSSON Mattias (SWE),ZHOU Yu (CHN),ZHOU Yu
+World Tour Qatar Open Doha 2018,2018-03-08,XU Xin,LEE Sang Su,4,0,"11,11,11,11|8,5,5,3",R16,GRAND_SLAM,MS,870,Main Draw,LEE Sang Su (KOR),XU Xin (CHN),XU Xin
+World Tour Qatar Open Doha 2018,2018-03-08,LIN Gaoyuan,FANG Bo,4,0,,R16,GRAND_SLAM,MS,870,Main Draw,LIN Gaoyuan (CHN),FANG Bo (KAZ),LIN Gaoyuan
+World Tour Qatar Open Doha 2018,2018-03-08,WONG Chun Ting,KOU Lei,4,1,"6,11,11,11,11|11,5,9,8,4",R16,GRAND_SLAM,MS,870,Main Draw,KOU Lei (UKR),WONG Chun Ting (HKG),WONG Chun Ting
+World Tour Qatar Open Doha 2018,2018-03-08,HARIMOTO Tomokazu,GNANASEKARAN Sathiyan,4,3,"7,8,11,11,8,11,11|11,11,8,7,11,1,4",R16,GRAND_SLAM,MS,870,Main Draw,HARIMOTO Tomokazu (JPN),GNANASEKARAN Sathiyan (IND),HARIMOTO Tomokazu
+World Tour Qatar Open Doha 2018,2018-03-08,CALDERANO Hugo,BOLL Timo,4,1,"11,11,11,7,12|9,9,8,11,10",R16,GRAND_SLAM,MS,870,Main Draw,CALDERANO Hugo (BRA),BOLL Timo (GER),CALDERANO Hugo
+World Tour Qatar Open Doha 2018,2018-03-08,FAN Zhendong,GROTH Jonathan,4,1,"9,11,12,11,14|11,6,10,3,12",QF,GRAND_SLAM,MS,870,Main Draw,FAN Zhendong (CHN),GROTH Jonathan (DEN),FAN Zhendong
+World Tour Qatar Open Doha 2018,2018-03-08,XU Xin,ZHOU Yu,4,3,"11,10,11,13,6,10,11|5,12,5,11,11,12,8",QF,GRAND_SLAM,MS,870,Main Draw,ZHOU Yu (CHN),XU Xin (CHN),XU Xin
+World Tour Qatar Open Doha 2018,2018-03-08,LIN Gaoyuan,WONG Chun Ting,4,0,"11,11,11,11|7,4,7,7",QF,GRAND_SLAM,MS,870,Main Draw,LIN Gaoyuan (CHN),WONG Chun Ting (HKG),LIN Gaoyuan
+World Tour Qatar Open Doha 2018,2018-03-08,CALDERANO Hugo,HARIMOTO Tomokazu,4,0,"11,11,11,11|5,6,6,7",QF,GRAND_SLAM,MS,870,Main Draw,HARIMOTO Tomokazu (JPN),CALDERANO Hugo (BRA),CALDERANO Hugo
+World Tour Qatar Open Doha 2018,2018-03-08,FAN Zhendong,XU Xin,4,1,"11,7,11,11,11|6,11,8,9,9",SF,GRAND_SLAM,MS,870,Main Draw,FAN Zhendong (CHN),XU Xin (CHN),FAN Zhendong
+World Tour Qatar Open Doha 2018,2018-03-08,CALDERANO Hugo,LIN Gaoyuan,4,0,"11,11,11,11|9,8,3,6",SF,GRAND_SLAM,MS,870,Main Draw,LIN Gaoyuan (CHN),CALDERANO Hugo (BRA),CALDERANO Hugo
+World Tour Qatar Open Doha 2018,2018-03-08,FAN Zhendong,CALDERANO Hugo,4,0,"13,12,11,11|11,10,7,7",F,GRAND_SLAM,MS,870,Main Draw,FAN Zhendong (CHN),CALDERANO Hugo (BRA),FAN Zhendong
+World Tour Qatar Open Doha 2018,2018-03-08,CHEN Meng,YANG Xiaoxin,4,1,"6,11,11,11,11|11,6,8,5,2",R32,GRAND_SLAM,WS,870,Main Draw,CHEN Meng (CHN),YANG Xiaoxin (MON),CHEN Meng
+World Tour Qatar Open Doha 2018,2018-03-08,DING Ning,SUH Hyo Won,4,1,"11,11,4,11,11|6,5,11,4,4",R32,GRAND_SLAM,WS,870,Main Draw,DING Ning (CHN),SUH Hyo Won (KOR),DING Ning
+World Tour Qatar Open Doha 2018,2018-03-08,LEE Ho Ching,SHIBATA Saki,4,2,"11,11,11,11,11,11|5,9,4,13,13,3",R32,GRAND_SLAM,WS,870,Main Draw,LEE Ho Ching (HKG),SHIBATA Saki (JPN),LEE Ho Ching
+World Tour Qatar Open Doha 2018,2018-03-08,WANG Yidi,ITO Mima,4,3,"11,4,8,11,11,9,11|7,11,11,7,4,11,4",R32,GRAND_SLAM,WS,870,Main Draw,WANG Yidi (CHN),ITO Mima (JPN),WANG Yidi
+World Tour Qatar Open Doha 2018,2018-03-08,WANG Manyu,CHE Xiaoxi,4,0,"12,11,11,11|10,3,5,6",R32,GRAND_SLAM,WS,870,Main Draw,WANG Manyu (CHN),CHE Xiaoxi (CHN),WANG Manyu
+World Tour Qatar Open Doha 2018,2018-03-08,KATO Miyu,HASHIMOTO Honoka,4,3,"11,8,11,6,11,6,11|8,11,3,11,7,11,9",R32,GRAND_SLAM,WS,870,Main Draw,HASHIMOTO Honoka (JPN),KATO Miyu (JPN),KATO Miyu
+World Tour Qatar Open Doha 2018,2018-03-08,SUN Yingsha,DOO Hoi Kem,4,0,"11,11,11,11|5,7,7,9",R32,GRAND_SLAM,WS,870,Main Draw,DOO Hoi Kem (HKG),SUN Yingsha (CHN),SUN Yingsha
+World Tour Qatar Open Doha 2018,2018-03-08,FENG Tianwei,YOO Eunchong,4,1,"8,16,11,11,11|11,14,9,7,5",R32,GRAND_SLAM,WS,870,Main Draw,YOO Eunchong (KOR),FENG Tianwei (SGP),FENG Tianwei
+World Tour Qatar Open Doha 2018,2018-03-08,ISHIKAWA Kasumi,YU Fu,4,0,"11,11,11,11|5,8,7,4",R32,GRAND_SLAM,WS,870,Main Draw,ISHIKAWA Kasumi (JPN),YU Fu (POR),ISHIKAWA Kasumi
+World Tour Qatar Open Doha 2018,2018-03-08,NAGASAKI Miyu,MORI Sakura,4,1,"11,11,12,11,11|13,6,10,9,9",R32,GRAND_SLAM,WS,870,Main Draw,NAGASAKI Miyu (JPN),MORI Sakura (JPN),NAGASAKI Miyu
+World Tour Qatar Open Doha 2018,2018-03-08,HAYATA Hina,ZENG Jian,4,0,"11,11,11,11|9,6,8,4",R32,GRAND_SLAM,WS,870,Main Draw,HAYATA Hina (JPN),ZENG Jian (SGP),HAYATA Hina
+World Tour Qatar Open Doha 2018,2018-03-08,HIRANO Miu,CHEN Ke,4,0,"13,11,11,11|11,9,8,9",R32,GRAND_SLAM,WS,870,Main Draw,CHEN Ke (CHN),HIRANO Miu (JPN),HIRANO Miu
+World Tour Qatar Open Doha 2018,2018-03-08,CHENG I-Ching,SZOCS Bernadette,4,1,"11,11,11,8,11|6,9,9,11,5",R32,GRAND_SLAM,WS,870,Main Draw,CHENG I-Ching (TPE),SZOCS Bernadette (ROU),CHENG I-Ching
+World Tour Qatar Open Doha 2018,2018-03-08,SATO Hitomi,CHEN Szu-Yu,4,1,"11,11,8,11,11|3,7,11,2,7",R32,GRAND_SLAM,WS,870,Main Draw,SATO Hitomi (JPN),CHEN Szu-Yu (TPE),SATO Hitomi
+World Tour Qatar Open Doha 2018,2018-03-08,CHEN Xingtong,ZHANG Rui,4,1,"8,11,11,13,11|11,4,7,11,4",R32,GRAND_SLAM,WS,870,Main Draw,CHEN Xingtong (CHN),ZHANG Rui (CHN),CHEN Xingtong
+World Tour Qatar Open Doha 2018,2018-03-08,LIU Shiwen,ZHU Yuling,4,2,"12,11,11,8,11,11|14,5,4,11,5,5",R32,GRAND_SLAM,WS,870,Main Draw,LIU Shiwen (CHN),ZHU Yuling (MAC),LIU Shiwen
+World Tour Qatar Open Doha 2018,2018-03-08,CHEN Meng,DING Ning,4,1,"11,9,11,17,11|8,11,5,15,6",R16,GRAND_SLAM,WS,870,Main Draw,CHEN Meng (CHN),DING Ning (CHN),CHEN Meng
+World Tour Qatar Open Doha 2018,2018-03-08,WANG Yidi,LEE Ho Ching,4,0,"11,15,11,11|8,13,9,9",R16,GRAND_SLAM,WS,870,Main Draw,LEE Ho Ching (HKG),WANG Yidi (CHN),WANG Yidi
+World Tour Qatar Open Doha 2018,2018-03-08,WANG Manyu,KATO Miyu,4,0,"11,11,11,12|5,9,8,10",R16,GRAND_SLAM,WS,870,Main Draw,WANG Manyu (CHN),KATO Miyu (JPN),WANG Manyu
+World Tour Qatar Open Doha 2018,2018-03-08,SUN Yingsha,FENG Tianwei,4,2,"5,11,14,11,11,11|11,6,12,7,13,4",R16,GRAND_SLAM,WS,870,Main Draw,SUN Yingsha (CHN),FENG Tianwei (SGP),SUN Yingsha
+World Tour Qatar Open Doha 2018,2018-03-08,ISHIKAWA Kasumi,NAGASAKI Miyu,4,2,"11,11,3,11,6,11|6,4,11,4,11,8",R16,GRAND_SLAM,WS,870,Main Draw,ISHIKAWA Kasumi (JPN),NAGASAKI Miyu (JPN),ISHIKAWA Kasumi
+World Tour Qatar Open Doha 2018,2018-03-08,HIRANO Miu,HAYATA Hina,4,0,"12,13,12,13|10,11,10,11",R16,GRAND_SLAM,WS,870,Main Draw,HAYATA Hina (JPN),HIRANO Miu (JPN),HIRANO Miu
+World Tour Qatar Open Doha 2018,2018-03-08,SATO Hitomi,CHENG I-Ching,4,1,"11,14,6,11,13|8,12,11,6,11",R16,GRAND_SLAM,WS,870,Main Draw,CHENG I-Ching (TPE),SATO Hitomi (JPN),SATO Hitomi
+World Tour Qatar Open Doha 2018,2018-03-08,LIU Shiwen,CHEN Xingtong,4,3,"12,9,6,11,11,7,11|10,11,11,8,7,11,9",R16,GRAND_SLAM,WS,870,Main Draw,CHEN Xingtong (CHN),LIU Shiwen (CHN),LIU Shiwen
+World Tour Qatar Open Doha 2018,2018-03-08,CHEN Meng,WANG Yidi,4,0,"12,11,18,11|10,8,16,6",QF,GRAND_SLAM,WS,870,Main Draw,CHEN Meng (CHN),WANG Yidi (CHN),CHEN Meng
+World Tour Qatar Open Doha 2018,2018-03-08,WANG Manyu,SUN Yingsha,4,1,"5,11,11,11,11|11,4,5,5,2",QF,GRAND_SLAM,WS,870,Main Draw,WANG Manyu (CHN),SUN Yingsha (CHN),WANG Manyu
+World Tour Qatar Open Doha 2018,2018-03-08,ISHIKAWA Kasumi,HIRANO Miu,4,2,"9,14,7,11,11,13|11,12,11,9,9,11",QF,GRAND_SLAM,WS,870,Main Draw,ISHIKAWA Kasumi (JPN),HIRANO Miu (JPN),ISHIKAWA Kasumi
+World Tour Qatar Open Doha 2018,2018-03-08,LIU Shiwen,SATO Hitomi,4,1,"10,11,11,11,11|12,5,2,5,5",QF,GRAND_SLAM,WS,870,Main Draw,SATO Hitomi (JPN),LIU Shiwen (CHN),LIU Shiwen
+World Tour Qatar Open Doha 2018,2018-03-08,WANG Manyu,CHEN Meng,4,1,"11,11,9,11,11|8,6,11,8,7",SF,GRAND_SLAM,WS,870,Main Draw,CHEN Meng (CHN),WANG Manyu (CHN),WANG Manyu
+World Tour Qatar Open Doha 2018,2018-03-08,LIU Shiwen,ISHIKAWA Kasumi,4,1,"11,7,11,11,11|5,11,8,7,4",SF,GRAND_SLAM,WS,870,Main Draw,ISHIKAWA Kasumi (JPN),LIU Shiwen (CHN),LIU Shiwen
+World Tour Qatar Open Doha 2018,2018-03-08,LIU Shiwen,WANG Manyu,4,2,"8,10,11,11,11,11|11,12,9,6,5,6",F,GRAND_SLAM,WS,870,Main Draw,WANG Manyu (CHN),LIU Shiwen (CHN),LIU Shiwen
+World Tour Qatar Open Doha 2018,2018-03-08,CHO Daeseong,HUSSAIN Yousef,3,0,"11,11,11|4,5,3",R32,GRAND_SLAM,U21MS,870,Main Draw,HUSSAIN Yousef (QAT),CHO Daeseong (KOR),CHO Daeseong
+World Tour Qatar Open Doha 2018,2018-03-08,KIZUKURI Yuto,CHO Daeseong,3,0,"11,11,11|4,6,4",R16,GRAND_SLAM,U21MS,870,Main Draw,KIZUKURI Yuto (JPN),CHO Daeseong (KOR),KIZUKURI Yuto
+World Tour Qatar Open Doha 2018,2018-03-08,MATSUYAMA Yuki,PASSARA Pattaratorn,3,2,"11,11,7,11,11|13,6,11,7,3",R16,GRAND_SLAM,U21MS,870,Main Draw,PASSARA Pattaratorn (THA),MATSUYAMA Yuki (JPN),MATSUYAMA Yuki
+World Tour Qatar Open Doha 2018,2018-03-08,AFANADOR Brian,AL-HAJAJI Abdulaziz,3,0,"11,11,11|3,4,7",R16,GRAND_SLAM,U21MS,870,Main Draw,AFANADOR Brian (PUR),AL-HAJAJI Abdulaziz (QAT),AFANADOR Brian
+World Tour Qatar Open Doha 2018,2018-03-08,NG Pak Nam,ALMALKI Nawaf,3,0,"11,11,11|1,7,4",R16,GRAND_SLAM,U21MS,870,Main Draw,ALMALKI Nawaf (QAT),NG Pak Nam (HKG),NG Pak Nam
+World Tour Qatar Open Doha 2018,2018-03-08,LIM Jonghoon,ABDULWAHHAB Mohammed,3,0,"11,11,11|4,6,9",R16,GRAND_SLAM,U21MS,870,Main Draw,LIM Jonghoon (KOR),ABDULWAHHAB Mohammed (QAT),LIM Jonghoon
+World Tour Qatar Open Doha 2018,2018-03-08,LIN Yun-Ju,PANAGITGUN Yanapong,3,0,"11,11,11|4,4,3",R16,GRAND_SLAM,U21MS,870,Main Draw,PANAGITGUN Yanapong (THA),LIN Yun-Ju (TPE),LIN Yun-Ju
+World Tour Qatar Open Doha 2018,2018-03-08,XUE Fei,AL-NAGGAR Abdulrahman,3,1,"11,11,7,11|5,1,11,4",R16,GRAND_SLAM,U21MS,870,Main Draw,XUE Fei (CHN),AL-NAGGAR Abdulrahman (QAT),XUE Fei
+World Tour Qatar Open Doha 2018,2018-03-08,SEYFRIED Joe,AL ABDULLA Abdulaziz,3,0,"11,11,11|4,3,6",R16,GRAND_SLAM,U21MS,870,Main Draw,AL ABDULLA Abdulaziz (QAT),SEYFRIED Joe (FRA),SEYFRIED Joe
+World Tour Qatar Open Doha 2018,2018-03-08,KIZUKURI Yuto,MATSUYAMA Yuki,3,1,"8,11,11,11|11,9,3,8",QF,GRAND_SLAM,U21MS,870,Main Draw,KIZUKURI Yuto (JPN),MATSUYAMA Yuki (JPN),KIZUKURI Yuto
+World Tour Qatar Open Doha 2018,2018-03-08,NG Pak Nam,AFANADOR Brian,3,1,"8,11,11,11|11,4,8,8",QF,GRAND_SLAM,U21MS,870,Main Draw,AFANADOR Brian (PUR),NG Pak Nam (HKG),NG Pak Nam
+World Tour Qatar Open Doha 2018,2018-03-08,LIN Yun-Ju,LIM Jonghoon,3,0,"12,11,15|10,3,13",QF,GRAND_SLAM,U21MS,870,Main Draw,LIM Jonghoon (KOR),LIN Yun-Ju (TPE),LIN Yun-Ju
+World Tour Qatar Open Doha 2018,2018-03-08,XUE Fei,SEYFRIED Joe,3,2,"7,11,5,11,12|11,7,11,7,10",QF,GRAND_SLAM,U21MS,870,Main Draw,XUE Fei (CHN),SEYFRIED Joe (FRA),XUE Fei
+World Tour Qatar Open Doha 2018,2018-03-08,NG Pak Nam,KIZUKURI Yuto,3,1,"11,10,12,11|6,12,10,4",SF,GRAND_SLAM,U21MS,870,Main Draw,KIZUKURI Yuto (JPN),NG Pak Nam (HKG),NG Pak Nam
+World Tour Qatar Open Doha 2018,2018-03-08,XUE Fei,LIN Yun-Ju,3,1,"6,11,12,11|11,6,10,3",SF,GRAND_SLAM,U21MS,870,Main Draw,LIN Yun-Ju (TPE),XUE Fei (CHN),XUE Fei
+World Tour Qatar Open Doha 2018,2018-03-08,XUE Fei,NG Pak Nam,3,0,"11,11,11|8,9,7",F,GRAND_SLAM,U21MS,870,Main Draw,NG Pak Nam (HKG),XUE Fei (CHN),XUE Fei
+World Tour Qatar Open Doha 2018,2018-03-08,ODO Satsuki,ALI Maha,3,0,"11,11,11|2,3,4",R32,GRAND_SLAM,U21WS,870,Main Draw,ODO Satsuki (JPN),ALI Maha (QAT),ODO Satsuki
+World Tour Qatar Open Doha 2018,2018-03-08,WANG Yidi,SOO Wai Yam,3,0,"11,11,11|4,5,4",R16,GRAND_SLAM,U21WS,870,Main Draw,SOO Wai Yam (HKG),WANG Yidi (CHN),WANG Yidi
+World Tour Qatar Open Doha 2018,2018-03-08,SHIN Yubin,NAGASAKI Miyu,3,1,"8,11,11,11|11,8,9,9",R16,GRAND_SLAM,U21WS,870,Main Draw,NAGASAKI Miyu (JPN),SHIN Yubin (KOR),SHIN Yubin
+World Tour Qatar Open Doha 2018,2018-03-08,SUN Mingyang,KIM Jiho,3,0,"11,12,11|8,10,6",R16,GRAND_SLAM,U21WS,870,Main Draw,SUN Mingyang (CHN),KIM Jiho (KOR),SUN Mingyang
+World Tour Qatar Open Doha 2018,2018-03-08,CHEN Ke,HASHIMOTO Honoka,3,1,"11,8,11,11|4,11,3,7",R16,GRAND_SLAM,U21WS,870,Main Draw,HASHIMOTO Honoka (JPN),CHEN Ke (CHN),CHEN Ke
+World Tour Qatar Open Doha 2018,2018-03-08,SATO Hitomi,KIHARA Miyuu,3,2,"12,7,4,11,11|10,11,11,7,8",R16,GRAND_SLAM,U21WS,870,Main Draw,KIHARA Miyuu (JPN),SATO Hitomi (JPN),SATO Hitomi
+World Tour Qatar Open Doha 2018,2018-03-08,CHOI Hyojoo,KHETKHUAN Tamolwan,3,0,"11,11,11|8,4,5",R16,GRAND_SLAM,U21WS,870,Main Draw,KHETKHUAN Tamolwan (THA),CHOI Hyojoo (KOR),CHOI Hyojoo
+World Tour Qatar Open Doha 2018,2018-03-08,ZHANG Rui,SAWETTABUT Jinnipa,3,0,"11,11,11|1,3,7",R16,GRAND_SLAM,U21WS,870,Main Draw,ZHANG Rui (CHN),SAWETTABUT Jinnipa (THA),ZHANG Rui
+World Tour Qatar Open Doha 2018,2018-03-08,SHIBATA Saki,ODO Satsuki,3,0,"11,11,11|9,4,8",R16,GRAND_SLAM,U21WS,870,Main Draw,ODO Satsuki (JPN),SHIBATA Saki (JPN),SHIBATA Saki
+World Tour Qatar Open Doha 2018,2018-03-08,WANG Yidi,SHIN Yubin,3,0,"11,11,11|5,6,4",QF,GRAND_SLAM,U21WS,870,Main Draw,WANG Yidi (CHN),SHIN Yubin (KOR),WANG Yidi
+World Tour Qatar Open Doha 2018,2018-03-08,CHEN Ke,SUN Mingyang,3,1,"9,11,11,11|11,8,6,5",QF,GRAND_SLAM,U21WS,870,Main Draw,SUN Mingyang (CHN),CHEN Ke (CHN),CHEN Ke
+World Tour Qatar Open Doha 2018,2018-03-08,CHOI Hyojoo,SATO Hitomi,3,0,"11,11,11|7,8,6",QF,GRAND_SLAM,U21WS,870,Main Draw,SATO Hitomi (JPN),CHOI Hyojoo (KOR),CHOI Hyojoo
+World Tour Qatar Open Doha 2018,2018-03-08,ZHANG Rui,SHIBATA Saki,3,0,"11,11,11|5,7,9",QF,GRAND_SLAM,U21WS,870,Main Draw,ZHANG Rui (CHN),SHIBATA Saki (JPN),ZHANG Rui
+World Tour Qatar Open Doha 2018,2018-03-08,CHEN Ke,WANG Yidi,3,1,"8,11,12,12|11,7,10,10",SF,GRAND_SLAM,U21WS,870,Main Draw,WANG Yidi (CHN),CHEN Ke (CHN),CHEN Ke
+World Tour Qatar Open Doha 2018,2018-03-08,ZHANG Rui,CHOI Hyojoo,3,2,"11,5,7,11,11|8,11,11,8,8",SF,GRAND_SLAM,U21WS,870,Main Draw,CHOI Hyojoo (KOR),ZHANG Rui (CHN),ZHANG Rui
+World Tour Qatar Open Doha 2018,2018-03-08,ZHANG Rui,CHEN Ke,3,1,"11,11,9,11|7,4,11,7",F,GRAND_SLAM,U21WS,870,Main Draw,CHEN Ke (CHN),ZHANG Rui (CHN),ZHANG Rui
+World Tour Qatar Open Doha 2018,2018-03-08,MIZUTANI Jun/OSHIMA Yuya,SHIBAEV Alexander/SKACHKOV Kirill,3,0,,QR32,GRAND_SLAM,MD,870,Qualification,MIZUTANI Jun (JPN) / OSHIMA Yuya (JPN),SHIBAEV Alexander (RUS) / SKACHKOV Kirill (RUS),MIZUTANI Jun
+World Tour Qatar Open Doha 2018,2018-03-08,LAM Siu Hang/NG Pak Nam,ARUNA Quadri/ASSAR Omar,3,2,"6,11,13,9,11|11,8,11,11,4",QR32,GRAND_SLAM,MD,870,Qualification,LAM Siu Hang (HKG) / NG Pak Nam (HKG),ARUNA Quadri (NGR) / ASSAR Omar (EGY),LAM Siu Hang
+World Tour Qatar Open Doha 2018,2018-03-08,KOU Lei/NUYTINCK Cedric,AL ABDULLA Abdulaziz/ALMALKI Nawaf,3,0,"11,11,13|3,6,11",QR32,GRAND_SLAM,MD,870,Qualification,KOU Lei (UKR) / NUYTINCK Cedric (BEL),AL ABDULLA Abdulaziz (QAT) / ALMALKI Nawaf (QAT),KOU Lei
+World Tour Qatar Open Doha 2018,2018-03-08,CALDERANO Hugo/GAUZY Simon,ANTHONY Amalraj/SHETTY Sanil,3,1,"11,11,3,11|6,0,11,9",QR32,GRAND_SLAM,MD,870,Qualification,CALDERANO Hugo (BRA) / GAUZY Simon (FRA),ANTHONY Amalraj (IND) / SHETTY Sanil (IND),CALDERANO Hugo
+World Tour Qatar Open Doha 2018,2018-03-08,FANG Bo/LIN Gaoyuan,JANG Woojin/LIM Jonghoon,3,2,"5,11,9,11,11|11,9,11,6,4",QR32,GRAND_SLAM,MD,870,Qualification,FANG Bo (KAZ) / LIN Gaoyuan (CHN),JANG Woojin (KOR) / LIM Jonghoon (KOR),FANG Bo
+World Tour Qatar Open Doha 2018,2018-03-08,GARDOS Robert/HABESOHN Daniel,LIAO Cheng-Ting/LIN Yun-Ju,3,2,"8,2,11,12,11|11,11,5,10,6",QR32,GRAND_SLAM,MD,870,Qualification,GARDOS Robert (AUT) / HABESOHN Daniel (AUT),LIAO Cheng-Ting (TPE) / LIN Yun-Ju (TPE),GARDOS Robert
+World Tour Qatar Open Doha 2018,2018-03-08,CHEN Chien-An/CHUANG Chih-Yuan,ELBEIALI Mohamed/SALEH Ahmed,3,0,"11,11,11|8,6,3",QR32,GRAND_SLAM,MD,870,Qualification,CHEN Chien-An (TPE) / CHUANG Chih-Yuan (TPE),ELBEIALI Mohamed (EGY) / SALEH Ahmed (EGY),CHEN Chien-An
+World Tour Qatar Open Doha 2018,2018-03-08,ACHANTA Sharath/GNANASEKARAN Sathiyan,AL-HAJAJI Abdulaziz/HUSSAIN Yousef,3,0,"11,14,11|5,12,5",QR32,GRAND_SLAM,MD,870,Qualification,ACHANTA Sharath (IND) / GNANASEKARAN Sathiyan (IND),AL-HAJAJI Abdulaziz (QAT) / HUSSAIN Yousef (QAT),ACHANTA Sharath
+World Tour Qatar Open Doha 2018,2018-03-08,FANG Bo/LIN Gaoyuan,HO Kwan Kit/WONG Chun Ting,3,1,"11,11,14,16|4,6,16,14",R16,GRAND_SLAM,MD,870,Main Draw,FANG Bo (KAZ) / LIN Gaoyuan (CHN),HO Kwan Kit (HKG) / WONG Chun Ting (HKG),FANG Bo
+World Tour Qatar Open Doha 2018,2018-03-08,ACHANTA Sharath/GNANASEKARAN Sathiyan,KARLSSON Kristian/KARLSSON Mattias,3,2,"11,11,8,8,11|8,6,11,11,4",R16,GRAND_SLAM,MD,870,Main Draw,ACHANTA Sharath (IND) / GNANASEKARAN Sathiyan (IND),KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),ACHANTA Sharath
+World Tour Qatar Open Doha 2018,2018-03-08,FILUS Ruwen/WALTHER Ricardo,KOU Lei/NUYTINCK Cedric,3,0,"11,11,12|9,3,10",R16,GRAND_SLAM,MD,870,Main Draw,FILUS Ruwen (GER) / WALTHER Ricardo (GER),KOU Lei (UKR) / NUYTINCK Cedric (BEL),FILUS Ruwen
+World Tour Qatar Open Doha 2018,2018-03-08,MIZUTANI Jun/OSHIMA Yuya,HARIMOTO Tomokazu/MORIZONO Masataka,3,0,"11,11,11|7,9,7",R16,GRAND_SLAM,MD,870,Main Draw,MIZUTANI Jun (JPN) / OSHIMA Yuya (JPN),HARIMOTO Tomokazu (JPN) / MORIZONO Masataka (JPN),MIZUTANI Jun
+World Tour Qatar Open Doha 2018,2018-03-08,FRANZISKA Patrick/GROTH Jonathan,CALDERANO Hugo/GAUZY Simon,3,0,"11,11,11|4,7,9",R16,GRAND_SLAM,MD,870,Main Draw,FRANZISKA Patrick (GER) / GROTH Jonathan (DEN),CALDERANO Hugo (BRA) / GAUZY Simon (FRA),FRANZISKA Patrick
+World Tour Qatar Open Doha 2018,2018-03-08,FAN Zhendong/XU Xin,LAM Siu Hang/NG Pak Nam,3,2,"11,10,10,11,11|8,12,12,7,5",R16,GRAND_SLAM,MD,870,Main Draw,FAN Zhendong (CHN) / XU Xin (CHN),LAM Siu Hang (HKG) / NG Pak Nam (HKG),FAN Zhendong
+World Tour Qatar Open Doha 2018,2018-03-08,FANG Bo/LIN Gaoyuan,ACHANTA Sharath/GNANASEKARAN Sathiyan,3,1,"10,12,11,12|12,10,1,10",QF,GRAND_SLAM,MD,870,Main Draw,FANG Bo (KAZ) / LIN Gaoyuan (CHN),ACHANTA Sharath (IND) / GNANASEKARAN Sathiyan (IND),FANG Bo
+World Tour Qatar Open Doha 2018,2018-03-08,MIZUTANI Jun/OSHIMA Yuya,FILUS Ruwen/WALTHER Ricardo,3,1,"11,9,11,11|5,11,4,6",QF,GRAND_SLAM,MD,870,Main Draw,MIZUTANI Jun (JPN) / OSHIMA Yuya (JPN),FILUS Ruwen (GER) / WALTHER Ricardo (GER),MIZUTANI Jun
+World Tour Qatar Open Doha 2018,2018-03-08,JEOUNG Youngsik/LEE Sang Su,FRANZISKA Patrick/GROTH Jonathan,3,2,"11,11,11,8,11|2,8,13,11,9",QF,GRAND_SLAM,MD,870,Main Draw,JEOUNG Youngsik (KOR) / LEE Sang Su (KOR),FRANZISKA Patrick (GER) / GROTH Jonathan (DEN),JEOUNG Youngsik
+World Tour Qatar Open Doha 2018,2018-03-08,FAN Zhendong/XU Xin,GARDOS Robert/HABESOHN Daniel,3,1,"11,9,11,11|1,11,6,5",QF,GRAND_SLAM,MD,870,Main Draw,FAN Zhendong (CHN) / XU Xin (CHN),GARDOS Robert (AUT) / HABESOHN Daniel (AUT),FAN Zhendong
+World Tour Qatar Open Doha 2018,2018-03-08,MIZUTANI Jun/OSHIMA Yuya,FANG Bo/LIN Gaoyuan,3,0,,SF,GRAND_SLAM,MD,870,Main Draw,MIZUTANI Jun (JPN) / OSHIMA Yuya (JPN),FANG Bo (KAZ) / LIN Gaoyuan (CHN),MIZUTANI Jun
+World Tour Qatar Open Doha 2018,2018-03-08,FAN Zhendong/XU Xin,JEOUNG Youngsik/LEE Sang Su,3,0,"11,11,11|4,8,4",SF,GRAND_SLAM,MD,870,Main Draw,FAN Zhendong (CHN) / XU Xin (CHN),JEOUNG Youngsik (KOR) / LEE Sang Su (KOR),FAN Zhendong
+World Tour Qatar Open Doha 2018,2018-03-08,SAMARA Elizabeta/SZOCS Bernadette,ALI Maha/HUSSAIN Kholoud,3,0,"11,11,11|4,2,1",QR32,GRAND_SLAM,WD,870,Qualification,SAMARA Elizabeta (ROU) / SZOCS Bernadette (ROU),ALI Maha (QAT) / HUSSAIN Kholoud (QAT),SAMARA Elizabeta
+World Tour Qatar Open Doha 2018,2018-03-08,EKHOLM Matilda/LI Fen,XIAO Maria/YANG Xiaoxin,3,1,"11,17,7,11|8,15,11,5",QR32,GRAND_SLAM,WD,870,Qualification,EKHOLM Matilda (SWE) / LI Fen (SWE),XIAO Maria (ESP) / YANG Xiaoxin (MON),EKHOLM Matilda
+World Tour Qatar Open Doha 2018,2018-03-08,KHETKHUAN Tamolwan/MYNAROVA Karolina,MADARASZ Dora/PERGEL Szandra,3,2,"11,9,11,3,12|7,11,8,11,10",QR32,GRAND_SLAM,WD,870,Qualification,KHETKHUAN Tamolwan (THA) / MYNAROVA Karolina (CZE),MADARASZ Dora (HUN) / PERGEL Szandra (HUN),KHETKHUAN Tamolwan
+World Tour Qatar Open Doha 2018,2018-03-08,CHOI Hyojoo/KIM Jiho,LIN Ye/ZHOU Yihan,3,2,"11,11,7,7,11|7,6,11,11,2",QR32,GRAND_SLAM,WD,870,Qualification,CHOI Hyojoo (KOR) / KIM Jiho (KOR),LIN Ye (CAN) / ZHOU Yihan (SGP),CHOI Hyojoo
+World Tour Qatar Open Doha 2018,2018-03-08,NOSKOVA Yana/POLCANOVA Sofia,LIN Chia-Hui/LIU Hsing-Yin,3,0,,QR32,GRAND_SLAM,WD,870,Qualification,NOSKOVA Yana (RUS) / POLCANOVA Sofia (AUT),LIN Chia-Hui (TPE) / LIU Hsing-Yin (TPE),NOSKOVA Yana
+World Tour Qatar Open Doha 2018,2018-03-08,SAWETTABUT Jinnipa/SAWETTABUT Suthasini,DE NUTTE Sarah/NI Xia Lian,3,2,"14,8,13,6,11|12,11,11,11,6",QR32,GRAND_SLAM,WD,870,Qualification,SAWETTABUT Jinnipa (THA) / SAWETTABUT Suthasini (THA),DE NUTTE Sarah (LUX) / NI Xia Lian (LUX),SAWETTABUT Jinnipa
+World Tour Qatar Open Doha 2018,2018-03-08,FENG Tianwei/YU Mengyu,FARAMARZI Maha/MOHAMED Aia,3,0,"11,11,11|4,2,7",QR32,GRAND_SLAM,WD,870,Qualification,FENG Tianwei (SGP) / YU Mengyu (SGP),FARAMARZI Maha (QAT) / MOHAMED Aia (QAT),FENG Tianwei
+World Tour Qatar Open Doha 2018,2018-03-08,HASHIMOTO Honoka/SATO Hitomi,CHOI Hyojoo/KIM Jiho,3,2,"11,11,11,7,11|13,3,8,11,8",R16,GRAND_SLAM,WD,870,Main Draw,HASHIMOTO Honoka (JPN) / SATO Hitomi (JPN),CHOI Hyojoo (KOR) / KIM Jiho (KOR),HASHIMOTO Honoka
+World Tour Qatar Open Doha 2018,2018-03-08,FENG Tianwei/YU Mengyu,NG Wing Nam/SOO Wai Yam,3,2,"13,14,8,11,11|15,12,11,4,9",R16,GRAND_SLAM,WD,870,Main Draw,FENG Tianwei (SGP) / YU Mengyu (SGP),NG Wing Nam (HKG) / SOO Wai Yam (HKG),FENG Tianwei
+World Tour Qatar Open Doha 2018,2018-03-08,CHEN Ke/WANG Manyu,NOSKOVA Yana/POLCANOVA Sofia,3,1,"11,11,10,11|7,7,12,5",R16,GRAND_SLAM,WD,870,Main Draw,CHEN Ke (CHN) / WANG Manyu (CHN),NOSKOVA Yana (RUS) / POLCANOVA Sofia (AUT),CHEN Ke
+World Tour Qatar Open Doha 2018,2018-03-08,JEON Jihee/YANG Ha Eun,SAWETTABUT Jinnipa/SAWETTABUT Suthasini,3,2,"11,7,12,9,12|8,11,10,11,10",R16,GRAND_SLAM,WD,870,Main Draw,JEON Jihee (KOR) / YANG Ha Eun (KOR),SAWETTABUT Jinnipa (THA) / SAWETTABUT Suthasini (THA),JEON Jihee
+World Tour Qatar Open Doha 2018,2018-03-08,CHEN Xingtong/SUN Yingsha,SAMARA Elizabeta/SZOCS Bernadette,3,2,"6,14,11,11,11|11,12,8,13,5",R16,GRAND_SLAM,WD,870,Main Draw,CHEN Xingtong (CHN) / SUN Yingsha (CHN),SAMARA Elizabeta (ROU) / SZOCS Bernadette (ROU),CHEN Xingtong
+World Tour Qatar Open Doha 2018,2018-03-08,HIRANO Miu/ITO Mima,EKHOLM Matilda/LI Fen,3,1,"11,10,11,11|6,12,9,9",R16,GRAND_SLAM,WD,870,Main Draw,HIRANO Miu (JPN) / ITO Mima (JPN),EKHOLM Matilda (SWE) / LI Fen (SWE),HIRANO Miu
+World Tour Qatar Open Doha 2018,2018-03-08,BATRA Manika/DAS Mouma,KHETKHUAN Tamolwan/MYNAROVA Karolina,3,0,"15,11,11|13,9,3",R16,GRAND_SLAM,WD,870,Main Draw,BATRA Manika (IND) / DAS Mouma (IND),KHETKHUAN Tamolwan (THA) / MYNAROVA Karolina (CZE),BATRA Manika
+World Tour Qatar Open Doha 2018,2018-03-08,DOO Hoi Kem/LEE Ho Ching,VARADY Barbora/MATELOVA Hana,3,1,"8,11,11,11|11,7,8,8",R16,GRAND_SLAM,WD,870,Main Draw,DOO Hoi Kem (HKG) / LEE Ho Ching (HKG),VARADY Barbora (SVK) / MATELOVA Hana (CZE),DOO Hoi Kem
+World Tour Qatar Open Doha 2018,2018-03-08,HASHIMOTO Honoka/SATO Hitomi,FENG Tianwei/YU Mengyu,3,2,"5,12,11,5,13|11,10,9,11,11",QF,GRAND_SLAM,WD,870,Main Draw,HASHIMOTO Honoka (JPN) / SATO Hitomi (JPN),FENG Tianwei (SGP) / YU Mengyu (SGP),HASHIMOTO Honoka
+World Tour Qatar Open Doha 2018,2018-03-08,CHEN Ke/WANG Manyu,JEON Jihee/YANG Ha Eun,3,2,"11,14,8,11,12|6,16,11,7,10",QF,GRAND_SLAM,WD,870,Main Draw,CHEN Ke (CHN) / WANG Manyu (CHN),JEON Jihee (KOR) / YANG Ha Eun (KOR),CHEN Ke
+World Tour Qatar Open Doha 2018,2018-03-08,CHEN Xingtong/SUN Yingsha,HIRANO Miu/ITO Mima,3,2,"11,8,6,11,11|5,11,11,7,8",QF,GRAND_SLAM,WD,870,Main Draw,CHEN Xingtong (CHN) / SUN Yingsha (CHN),HIRANO Miu (JPN) / ITO Mima (JPN),CHEN Xingtong
+World Tour Qatar Open Doha 2018,2018-03-08,DOO Hoi Kem/LEE Ho Ching,BATRA Manika/DAS Mouma,3,0,"11,11,11|6,3,9",QF,GRAND_SLAM,WD,870,Main Draw,DOO Hoi Kem (HKG) / LEE Ho Ching (HKG),BATRA Manika (IND) / DAS Mouma (IND),DOO Hoi Kem
+World Tour Qatar Open Doha 2018,2018-03-08,CHEN Xingtong/SUN Yingsha,DOO Hoi Kem/LEE Ho Ching,3,1,"7,11,11,13|11,5,5,11",SF,GRAND_SLAM,WD,870,Main Draw,CHEN Xingtong (CHN) / SUN Yingsha (CHN),DOO Hoi Kem (HKG) / LEE Ho Ching (HKG),CHEN Xingtong
+World Tour Qatar Open Doha 2018,2018-03-08,CHEN Ke/WANG Manyu,CHEN Xingtong/SUN Yingsha,3,1,"8,11,11,11|11,2,4,4",F,GRAND_SLAM,WD,870,Main Draw,CHEN Ke (CHN) / WANG Manyu (CHN),CHEN Xingtong (CHN) / SUN Yingsha (CHN),CHEN Ke

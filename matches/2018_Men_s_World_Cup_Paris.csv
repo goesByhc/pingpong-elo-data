@@ -1,29 +1,29 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Men's World Cup Paris 2018,2018-10-19,LEBESSON Emmanuel,CALDERANO Hugo,4,3,"11,9,7,7,11,12,11|9,11,11,11,9,10,8",,WORLD_CUP,MS,895,Qualification,CALDERANO Hugo (BRA),LEBESSON Emmanuel (FRA)
-Men's World Cup Paris 2018,2018-10-19,JEONG Sangeun,GIONIS Panagiotis,4,1,"11,11,5,11,11|7,6,11,5,4",,WORLD_CUP,MS,895,Qualification,JEONG Sangeun (KOR),GIONIS Panagiotis (GRE)
-Men's World Cup Paris 2018,2018-10-19,GAUZY Simon,JHA Kanak,4,0,"11,12,13,11|6,10,11,9",,WORLD_CUP,MS,895,Qualification,GAUZY Simon (FRA),JHA Kanak (USA)
-Men's World Cup Paris 2018,2018-10-19,GROTH Jonathan,HU Heming,4,0,"11,11,11,11|8,7,9,4",,WORLD_CUP,MS,895,Qualification,GROTH Jonathan (DEN),HU Heming (AUS)
-Men's World Cup Paris 2018,2018-10-19,SAMSONOV Vladimir,CALDERANO Hugo,4,1,"10,11,11,14,13|12,9,7,12,11",,WORLD_CUP,MS,895,Qualification,CALDERANO Hugo (BRA),SAMSONOV Vladimir (BLR)
-Men's World Cup Paris 2018,2018-10-19,JEONG Sangeun,TSUBOI Gustavo,4,0,"11,11,11,11|5,8,7,7",,WORLD_CUP,MS,895,Qualification,JEONG Sangeun (KOR),TSUBOI Gustavo (BRA)
-Men's World Cup Paris 2018,2018-10-19,GAUZY Simon,ARUNA Quadri,4,3,"7,10,5,11,11,11,11|11,12,11,9,6,5,5",,WORLD_CUP,MS,895,Qualification,GAUZY Simon (FRA),ARUNA Quadri (NGR)
-Men's World Cup Paris 2018,2018-10-19,GROTH Jonathan,KARLSSON Mattias,4,3,"4,11,12,11,7,5,11|11,5,10,7,11,11,8",,WORLD_CUP,MS,895,Qualification,GROTH Jonathan (DEN),KARLSSON Mattias (SWE)
-Men's World Cup Paris 2018,2018-10-19,SAMSONOV Vladimir,LEBESSON Emmanuel,4,2,"11,7,11,8,11,13|6,11,6,11,3,11",,WORLD_CUP,MS,895,Qualification,SAMSONOV Vladimir (BLR),LEBESSON Emmanuel (FRA)
-Men's World Cup Paris 2018,2018-10-19,TSUBOI Gustavo,GIONIS Panagiotis,4,1,"11,11,11,6,11|6,8,8,11,8",,WORLD_CUP,MS,895,Qualification,TSUBOI Gustavo (BRA),GIONIS Panagiotis (GRE)
-Men's World Cup Paris 2018,2018-10-19,JHA Kanak,ARUNA Quadri,4,2,"11,11,8,11,8,11|7,9,11,7,11,8",,WORLD_CUP,MS,895,Qualification,ARUNA Quadri (NGR),JHA Kanak (USA)
-Men's World Cup Paris 2018,2018-10-19,KARLSSON Mattias,HU Heming,4,0,"11,11,11,11|5,8,6,6",,WORLD_CUP,MS,895,Qualification,KARLSSON Mattias (SWE),HU Heming (AUS)
-Men's World Cup Paris 2018,2018-10-19,OVTCHAROV Dimitrij,KARLSSON Mattias,4,3,"11,4,7,13,11,5,12|5,11,11,11,3,11,10",R16,WORLD_CUP,MS,895,Main Draw,OVTCHAROV Dimitrij (GER),KARLSSON Mattias (SWE)
-Men's World Cup Paris 2018,2018-10-19,BOLL Timo,LEBESSON Emmanuel,4,1,"11,8,11,11,11|8,11,8,5,7",R16,WORLD_CUP,MS,895,Main Draw,LEBESSON Emmanuel (FRA),BOLL Timo (GER)
-Men's World Cup Paris 2018,2018-10-19,NIWA Koki,GROTH Jonathan,4,1,"11,11,4,12,11|8,5,11,10,5",R16,WORLD_CUP,MS,895,Main Draw,NIWA Koki (JPN),GROTH Jonathan (DEN)
-Men's World Cup Paris 2018,2018-10-19,HARIMOTO Tomokazu,JEONG Sangeun,4,0,"11,11,11,11|6,6,7,7",R16,WORLD_CUP,MS,895,Main Draw,HARIMOTO Tomokazu (JPN),JEONG Sangeun (KOR)
-Men's World Cup Paris 2018,2018-10-19,LIN Gaoyuan,JHA Kanak,4,1,"11,6,11,11,11|8,11,7,6,3",R16,WORLD_CUP,MS,895,Main Draw,JHA Kanak (USA),LIN Gaoyuan (CHN)
-Men's World Cup Paris 2018,2018-10-19,FAN Zhendong,TSUBOI Gustavo,4,0,"11,11,11,11|7,9,6,8",R16,WORLD_CUP,MS,895,Main Draw,FAN Zhendong (CHN),TSUBOI Gustavo (BRA)
-Men's World Cup Paris 2018,2018-10-19,SAMSONOV Vladimir,WONG Chun Ting,4,1,"11,12,11,7,11|6,10,9,11,7",R16,WORLD_CUP,MS,895,Main Draw,SAMSONOV Vladimir (BLR),WONG Chun Ting (HKG)
-Men's World Cup Paris 2018,2018-10-19,LEE Sang Su,GAUZY Simon,4,3,"11,4,6,11,6,11,11|6,11,11,7,11,8,8",R16,WORLD_CUP,MS,895,Main Draw,GAUZY Simon (FRA),LEE Sang Su (KOR)
-Men's World Cup Paris 2018,2018-10-19,FAN Zhendong,SAMSONOV Vladimir,4,0,"11,11,12,11|3,6,10,6",QF,WORLD_CUP,MS,895,Main Draw,FAN Zhendong (CHN),SAMSONOV Vladimir (BLR)
-Men's World Cup Paris 2018,2018-10-19,LIN Gaoyuan,NIWA Koki,4,1,"12,5,14,11,11|10,11,12,9,5",QF,WORLD_CUP,MS,895,Main Draw,NIWA Koki (JPN),LIN Gaoyuan (CHN)
-Men's World Cup Paris 2018,2018-10-19,OVTCHAROV Dimitrij,LEE Sang Su,4,3,"11,11,11,9,5,11,11|7,5,13,11,11,5,5",QF,WORLD_CUP,MS,895,Main Draw,OVTCHAROV Dimitrij (GER),LEE Sang Su (KOR)
-Men's World Cup Paris 2018,2018-10-19,BOLL Timo,HARIMOTO Tomokazu,4,1,"9,11,13,11,11|11,3,11,5,9",QF,WORLD_CUP,MS,895,Main Draw,HARIMOTO Tomokazu (JPN),BOLL Timo (GER)
-Men's World Cup Paris 2018,2018-10-19,BOLL Timo,OVTCHAROV Dimitrij,4,2,"12,11,15,9,13,11|14,7,13,11,11,5",SF,WORLD_CUP,MS,895,Main Draw,OVTCHAROV Dimitrij (GER),BOLL Timo (GER)
-Men's World Cup Paris 2018,2018-10-19,FAN Zhendong,LIN Gaoyuan,4,1,"10,12,15,11,11|12,10,13,7,6",SF,WORLD_CUP,MS,895,Main Draw,FAN Zhendong (CHN),LIN Gaoyuan (CHN)
-Men's World Cup Paris 2018,2018-10-19,LIN Gaoyuan,OVTCHAROV Dimitrij,4,1,"11,11,9,11,11|7,9,11,4,3",3RD,WORLD_CUP,MS,895,Position Draw,LIN Gaoyuan (CHN),OVTCHAROV Dimitrij (GER)
-Men's World Cup Paris 2018,2018-10-19,FAN Zhendong,BOLL Timo,4,1,"11,11,11,9,11|9,5,6,11,8",F,WORLD_CUP,MS,895,Main Draw,FAN Zhendong (CHN),BOLL Timo (GER)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Men's World Cup Paris 2018,2018-10-19,LEBESSON Emmanuel,CALDERANO Hugo,4,3,"11,9,7,7,11,12,11|9,11,11,11,9,10,8",,WORLD_CUP,MS,895,Qualification,CALDERANO Hugo (BRA),LEBESSON Emmanuel (FRA),LEBESSON Emmanuel
+Men's World Cup Paris 2018,2018-10-19,JEONG Sangeun,GIONIS Panagiotis,4,1,"11,11,5,11,11|7,6,11,5,4",,WORLD_CUP,MS,895,Qualification,JEONG Sangeun (KOR),GIONIS Panagiotis (GRE),JEONG Sangeun
+Men's World Cup Paris 2018,2018-10-19,GAUZY Simon,JHA Kanak,4,0,"11,12,13,11|6,10,11,9",,WORLD_CUP,MS,895,Qualification,GAUZY Simon (FRA),JHA Kanak (USA),GAUZY Simon
+Men's World Cup Paris 2018,2018-10-19,GROTH Jonathan,HU Heming,4,0,"11,11,11,11|8,7,9,4",,WORLD_CUP,MS,895,Qualification,GROTH Jonathan (DEN),HU Heming (AUS),GROTH Jonathan
+Men's World Cup Paris 2018,2018-10-19,SAMSONOV Vladimir,CALDERANO Hugo,4,1,"10,11,11,14,13|12,9,7,12,11",,WORLD_CUP,MS,895,Qualification,CALDERANO Hugo (BRA),SAMSONOV Vladimir (BLR),SAMSONOV Vladimir
+Men's World Cup Paris 2018,2018-10-19,JEONG Sangeun,TSUBOI Gustavo,4,0,"11,11,11,11|5,8,7,7",,WORLD_CUP,MS,895,Qualification,JEONG Sangeun (KOR),TSUBOI Gustavo (BRA),JEONG Sangeun
+Men's World Cup Paris 2018,2018-10-19,GAUZY Simon,ARUNA Quadri,4,3,"7,10,5,11,11,11,11|11,12,11,9,6,5,5",,WORLD_CUP,MS,895,Qualification,GAUZY Simon (FRA),ARUNA Quadri (NGR),GAUZY Simon
+Men's World Cup Paris 2018,2018-10-19,GROTH Jonathan,KARLSSON Mattias,4,3,"4,11,12,11,7,5,11|11,5,10,7,11,11,8",,WORLD_CUP,MS,895,Qualification,GROTH Jonathan (DEN),KARLSSON Mattias (SWE),GROTH Jonathan
+Men's World Cup Paris 2018,2018-10-19,SAMSONOV Vladimir,LEBESSON Emmanuel,4,2,"11,7,11,8,11,13|6,11,6,11,3,11",,WORLD_CUP,MS,895,Qualification,SAMSONOV Vladimir (BLR),LEBESSON Emmanuel (FRA),SAMSONOV Vladimir
+Men's World Cup Paris 2018,2018-10-19,TSUBOI Gustavo,GIONIS Panagiotis,4,1,"11,11,11,6,11|6,8,8,11,8",,WORLD_CUP,MS,895,Qualification,TSUBOI Gustavo (BRA),GIONIS Panagiotis (GRE),TSUBOI Gustavo
+Men's World Cup Paris 2018,2018-10-19,JHA Kanak,ARUNA Quadri,4,2,"11,11,8,11,8,11|7,9,11,7,11,8",,WORLD_CUP,MS,895,Qualification,ARUNA Quadri (NGR),JHA Kanak (USA),JHA Kanak
+Men's World Cup Paris 2018,2018-10-19,KARLSSON Mattias,HU Heming,4,0,"11,11,11,11|5,8,6,6",,WORLD_CUP,MS,895,Qualification,KARLSSON Mattias (SWE),HU Heming (AUS),KARLSSON Mattias
+Men's World Cup Paris 2018,2018-10-19,OVTCHAROV Dimitrij,KARLSSON Mattias,4,3,"11,4,7,13,11,5,12|5,11,11,11,3,11,10",R16,WORLD_CUP,MS,895,Main Draw,OVTCHAROV Dimitrij (GER),KARLSSON Mattias (SWE),OVTCHAROV Dimitrij
+Men's World Cup Paris 2018,2018-10-19,BOLL Timo,LEBESSON Emmanuel,4,1,"11,8,11,11,11|8,11,8,5,7",R16,WORLD_CUP,MS,895,Main Draw,LEBESSON Emmanuel (FRA),BOLL Timo (GER),BOLL Timo
+Men's World Cup Paris 2018,2018-10-19,NIWA Koki,GROTH Jonathan,4,1,"11,11,4,12,11|8,5,11,10,5",R16,WORLD_CUP,MS,895,Main Draw,NIWA Koki (JPN),GROTH Jonathan (DEN),NIWA Koki
+Men's World Cup Paris 2018,2018-10-19,HARIMOTO Tomokazu,JEONG Sangeun,4,0,"11,11,11,11|6,6,7,7",R16,WORLD_CUP,MS,895,Main Draw,HARIMOTO Tomokazu (JPN),JEONG Sangeun (KOR),HARIMOTO Tomokazu
+Men's World Cup Paris 2018,2018-10-19,LIN Gaoyuan,JHA Kanak,4,1,"11,6,11,11,11|8,11,7,6,3",R16,WORLD_CUP,MS,895,Main Draw,JHA Kanak (USA),LIN Gaoyuan (CHN),LIN Gaoyuan
+Men's World Cup Paris 2018,2018-10-19,FAN Zhendong,TSUBOI Gustavo,4,0,"11,11,11,11|7,9,6,8",R16,WORLD_CUP,MS,895,Main Draw,FAN Zhendong (CHN),TSUBOI Gustavo (BRA),FAN Zhendong
+Men's World Cup Paris 2018,2018-10-19,SAMSONOV Vladimir,WONG Chun Ting,4,1,"11,12,11,7,11|6,10,9,11,7",R16,WORLD_CUP,MS,895,Main Draw,SAMSONOV Vladimir (BLR),WONG Chun Ting (HKG),SAMSONOV Vladimir
+Men's World Cup Paris 2018,2018-10-19,LEE Sang Su,GAUZY Simon,4,3,"11,4,6,11,6,11,11|6,11,11,7,11,8,8",R16,WORLD_CUP,MS,895,Main Draw,GAUZY Simon (FRA),LEE Sang Su (KOR),LEE Sang Su
+Men's World Cup Paris 2018,2018-10-19,FAN Zhendong,SAMSONOV Vladimir,4,0,"11,11,12,11|3,6,10,6",QF,WORLD_CUP,MS,895,Main Draw,FAN Zhendong (CHN),SAMSONOV Vladimir (BLR),FAN Zhendong
+Men's World Cup Paris 2018,2018-10-19,LIN Gaoyuan,NIWA Koki,4,1,"12,5,14,11,11|10,11,12,9,5",QF,WORLD_CUP,MS,895,Main Draw,NIWA Koki (JPN),LIN Gaoyuan (CHN),LIN Gaoyuan
+Men's World Cup Paris 2018,2018-10-19,OVTCHAROV Dimitrij,LEE Sang Su,4,3,"11,11,11,9,5,11,11|7,5,13,11,11,5,5",QF,WORLD_CUP,MS,895,Main Draw,OVTCHAROV Dimitrij (GER),LEE Sang Su (KOR),OVTCHAROV Dimitrij
+Men's World Cup Paris 2018,2018-10-19,BOLL Timo,HARIMOTO Tomokazu,4,1,"9,11,13,11,11|11,3,11,5,9",QF,WORLD_CUP,MS,895,Main Draw,HARIMOTO Tomokazu (JPN),BOLL Timo (GER),BOLL Timo
+Men's World Cup Paris 2018,2018-10-19,BOLL Timo,OVTCHAROV Dimitrij,4,2,"12,11,15,9,13,11|14,7,13,11,11,5",SF,WORLD_CUP,MS,895,Main Draw,OVTCHAROV Dimitrij (GER),BOLL Timo (GER),BOLL Timo
+Men's World Cup Paris 2018,2018-10-19,FAN Zhendong,LIN Gaoyuan,4,1,"10,12,15,11,11|12,10,13,7,6",SF,WORLD_CUP,MS,895,Main Draw,FAN Zhendong (CHN),LIN Gaoyuan (CHN),FAN Zhendong
+Men's World Cup Paris 2018,2018-10-19,LIN Gaoyuan,OVTCHAROV Dimitrij,4,1,"11,11,9,11,11|7,9,11,4,3",3RD,WORLD_CUP,MS,895,Position Draw,LIN Gaoyuan (CHN),OVTCHAROV Dimitrij (GER),LIN Gaoyuan
+Men's World Cup Paris 2018,2018-10-19,FAN Zhendong,BOLL Timo,4,1,"11,11,11,9,11|9,5,6,11,8",F,WORLD_CUP,MS,895,Main Draw,FAN Zhendong (CHN),BOLL Timo (GER),FAN Zhendong

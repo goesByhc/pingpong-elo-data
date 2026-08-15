@@ -1,33 +1,33 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Women's World Cup Kuala Lumpur 2008,2008-09-06,GUO Yue,WU Xue,4,1,"11,11,11,5,11|6,8,2,11,7",,WORLD_CUP,WS,806,Qualification,GUO Yue (CHN),WU Xue (DOM)
-Women's World Cup Kuala Lumpur 2008,2008-09-06,JIANG Huajun,YANG Fen,4,1,"11,11,8,11,11|5,6,11,4,9",QR2,WORLD_CUP,WS,806,Qualification,JIANG Huajun (HKG),YANG Fen (CGO)
-Women's World Cup Kuala Lumpur 2008,2008-09-06,GUO Yue,JIANG Huajun,4,3,"7,3,11,11,11,9,11|11,11,6,6,9,11,7",3,WORLD_CUP,WS,806,Qualification,GUO Yue (CHN),JIANG Huajun (HKG)
-Women's World Cup Kuala Lumpur 2008,2008-09-06,WU Xue,YANG Fen,4,2,"11,11,9,5,11,11|4,5,11,11,9,9",QR4,WORLD_CUP,WS,806,Qualification,WU Xue (DOM),YANG Fen (CGO)
-Women's World Cup Kuala Lumpur 2008,2008-09-06,GUO Yue,YANG Fen,4,0,"11,11,12,11|3,5,10,3",5,WORLD_CUP,WS,806,Qualification,GUO Yue (CHN),YANG Fen (CGO)
-Women's World Cup Kuala Lumpur 2008,2008-09-06,JIANG Huajun,WU Xue,4,2,"11,9,9,11,11,12|9,11,11,7,7,10",6,WORLD_CUP,WS,806,Qualification,JIANG Huajun (HKG),WU Xue (DOM)
-Women's World Cup Kuala Lumpur 2008,2008-09-06,LI Xiaoxia,LI Jiao,4,0,"11,11,11,11|8,6,9,6",,WORLD_CUP,WS,806,Qualification,LI Xiaoxia (CHN),LI Jiao (NED)
-Women's World Cup Kuala Lumpur 2008,2008-09-06,FENG Tianwei,MIAO Miao,4,0,"11,11,11,11|9,8,6,5",QR2,WORLD_CUP,WS,806,Qualification,FENG Tianwei (SGP),MIAO Miao (AUS)
-Women's World Cup Kuala Lumpur 2008,2008-09-06,LI Xiaoxia,FENG Tianwei,4,1,"11,7,12,11,16|9,11,10,6,14",3,WORLD_CUP,WS,806,Qualification,LI Xiaoxia (CHN),FENG Tianwei (SGP)
-Women's World Cup Kuala Lumpur 2008,2008-09-06,LI Jiao,MIAO Miao,4,2,"13,11,11,4,12,11|11,2,8,11,14,3",QR4,WORLD_CUP,WS,806,Qualification,LI Jiao (NED),MIAO Miao (AUS)
-Women's World Cup Kuala Lumpur 2008,2008-09-06,LI Xiaoxia,MIAO Miao,4,0,"12,11,11,11|10,3,1,7",5,WORLD_CUP,WS,806,Qualification,LI Xiaoxia (CHN),MIAO Miao (AUS)
-Women's World Cup Kuala Lumpur 2008,2008-09-06,FENG Tianwei,LI Jiao,4,1,"13,5,11,11,11|11,11,5,7,5",6,WORLD_CUP,WS,806,Qualification,FENG Tianwei (SGP),LI Jiao (NED)
-Women's World Cup Kuala Lumpur 2008,2008-09-06,GAO Jun,LI Jiawei,4,0,"11,11,11,11|8,4,7,4",,WORLD_CUP,WS,806,Qualification,GAO Jun (USA),LI Jiawei (SGP)
-Women's World Cup Kuala Lumpur 2008,2008-09-06,TIE Yana,POTA Georgina,4,1,"2,11,11,11,11|11,7,6,9,6",QR2,WORLD_CUP,WS,806,Qualification,TIE Yana (HKG),POTA Georgina (HUN)
-Women's World Cup Kuala Lumpur 2008,2008-09-06,TIE Yana,LI Jiawei,4,1,"18,11,11,11,11|20,9,6,5,4",3,WORLD_CUP,WS,806,Qualification,TIE Yana (HKG),LI Jiawei (SGP)
-Women's World Cup Kuala Lumpur 2008,2008-09-06,GAO Jun,POTA Georgina,4,1,"11,11,11,11,11|5,6,9,13,9",QR4,WORLD_CUP,WS,806,Qualification,GAO Jun (USA),POTA Georgina (HUN)
-Women's World Cup Kuala Lumpur 2008,2008-09-06,LI Jiawei,POTA Georgina,4,2,"11,4,14,11,13,11|13,11,12,4,11,9",5,WORLD_CUP,WS,806,Qualification,LI Jiawei (SGP),POTA Georgina (HUN)
-Women's World Cup Kuala Lumpur 2008,2008-09-06,TIE Yana,GAO Jun,4,0,"11,11,11,11|2,8,8,4",6,WORLD_CUP,WS,806,Qualification,TIE Yana (HKG),GAO Jun (USA)
-Women's World Cup Kuala Lumpur 2008,2008-09-06,WANG Yuegu,DODEAN Daniela,4,1,"11,11,12,11,11|9,8,14,6,8",,WORLD_CUP,WS,806,Qualification,WANG Yuegu (SGP),DODEAN Daniela (ROU)
-Women's World Cup Kuala Lumpur 2008,2008-09-06,KIM Kyungah,BEH Lee Wei,4,1,"6,11,11,11,11|11,3,3,9,5",QR2,WORLD_CUP,WS,806,Qualification,KIM Kyungah (KOR),BEH Lee Wei (MAS)
-Women's World Cup Kuala Lumpur 2008,2008-09-06,WANG Yuegu,KIM Kyungah,4,3,"12,9,11,9,11,9,11|10,11,5,11,8,11,5",3,WORLD_CUP,WS,806,Qualification,WANG Yuegu (SGP),KIM Kyungah (KOR)
-Women's World Cup Kuala Lumpur 2008,2008-09-06,DODEAN Daniela,BEH Lee Wei,4,0,"11,11,11,11|8,6,8,9",QR4,WORLD_CUP,WS,806,Qualification,DODEAN Daniela (ROU),BEH Lee Wei (MAS)
-Women's World Cup Kuala Lumpur 2008,2008-09-06,WANG Yuegu,BEH Lee Wei,4,1,"11,8,12,11,11|6,11,10,5,6",5,WORLD_CUP,WS,806,Qualification,WANG Yuegu (SGP),BEH Lee Wei (MAS)
-Women's World Cup Kuala Lumpur 2008,2008-09-06,KIM Kyungah,DODEAN Daniela,4,1,"11,8,11,11,11|6,11,5,3,4",6,WORLD_CUP,WS,806,Qualification,KIM Kyungah (KOR),DODEAN Daniela (ROU)
-Women's World Cup Kuala Lumpur 2008,2008-09-06,FENG Tianwei,GUO Yue,4,1,"11,11,7,11,11|9,6,11,6,9",QF,WORLD_CUP,WS,806,Main Draw,FENG Tianwei (SGP),GUO Yue (CHN)
-Women's World Cup Kuala Lumpur 2008,2008-09-06,TIE Yana,KIM Kyungah,4,3,"11,7,11,11,11,17,11|8,11,7,13,8,19,7",QF,WORLD_CUP,WS,806,Main Draw,TIE Yana (HKG),KIM Kyungah (KOR)
-Women's World Cup Kuala Lumpur 2008,2008-09-06,WANG Yuegu,GAO Jun,4,2,"11,8,11,11,15,11|5,11,3,13,13,7",QF,WORLD_CUP,WS,806,Main Draw,WANG Yuegu (SGP),GAO Jun (USA)
-Women's World Cup Kuala Lumpur 2008,2008-09-06,LI Xiaoxia,JIANG Huajun,4,1,"11,9,11,11,11|7,11,7,6,6",QF,WORLD_CUP,WS,806,Main Draw,LI Xiaoxia (CHN),JIANG Huajun (HKG)
-Women's World Cup Kuala Lumpur 2008,2008-09-06,TIE Yana,FENG Tianwei,4,0,"11,13,11,11|6,11,8,7",SF,WORLD_CUP,WS,806,Main Draw,TIE Yana (HKG),FENG Tianwei (SGP)
-Women's World Cup Kuala Lumpur 2008,2008-09-06,LI Xiaoxia,WANG Yuegu,4,0,"13,11,11,11|11,2,7,9",SF,WORLD_CUP,WS,806,Main Draw,LI Xiaoxia (CHN),WANG Yuegu (SGP)
-Women's World Cup Kuala Lumpur 2008,2008-09-06,LI Xiaoxia,TIE Yana,4,0,"11,11,11,14|4,3,3,12",F,WORLD_CUP,WS,806,Main Draw,LI Xiaoxia (CHN),TIE Yana (HKG)
-Women's World Cup Kuala Lumpur 2008,2008-09-06,FENG Tianwei,WANG Yuegu,4,0,"11,11,11,11|8,9,7,8",3RD,WORLD_CUP,WS,806,Position Draw,FENG Tianwei (SGP),WANG Yuegu (SGP)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Women's World Cup Kuala Lumpur 2008,2008-09-06,GUO Yue,WU Xue,4,1,"11,11,11,5,11|6,8,2,11,7",,WORLD_CUP,WS,806,Qualification,GUO Yue (CHN),WU Xue (DOM),GUO Yue
+Women's World Cup Kuala Lumpur 2008,2008-09-06,JIANG Huajun,YANG Fen,4,1,"11,11,8,11,11|5,6,11,4,9",QR2,WORLD_CUP,WS,806,Qualification,JIANG Huajun (HKG),YANG Fen (CGO),JIANG Huajun
+Women's World Cup Kuala Lumpur 2008,2008-09-06,GUO Yue,JIANG Huajun,4,3,"7,3,11,11,11,9,11|11,11,6,6,9,11,7",3,WORLD_CUP,WS,806,Qualification,GUO Yue (CHN),JIANG Huajun (HKG),GUO Yue
+Women's World Cup Kuala Lumpur 2008,2008-09-06,WU Xue,YANG Fen,4,2,"11,11,9,5,11,11|4,5,11,11,9,9",QR4,WORLD_CUP,WS,806,Qualification,WU Xue (DOM),YANG Fen (CGO),WU Xue
+Women's World Cup Kuala Lumpur 2008,2008-09-06,GUO Yue,YANG Fen,4,0,"11,11,12,11|3,5,10,3",5,WORLD_CUP,WS,806,Qualification,GUO Yue (CHN),YANG Fen (CGO),GUO Yue
+Women's World Cup Kuala Lumpur 2008,2008-09-06,JIANG Huajun,WU Xue,4,2,"11,9,9,11,11,12|9,11,11,7,7,10",6,WORLD_CUP,WS,806,Qualification,JIANG Huajun (HKG),WU Xue (DOM),JIANG Huajun
+Women's World Cup Kuala Lumpur 2008,2008-09-06,LI Xiaoxia,LI Jiao,4,0,"11,11,11,11|8,6,9,6",,WORLD_CUP,WS,806,Qualification,LI Xiaoxia (CHN),LI Jiao (NED),LI Xiaoxia
+Women's World Cup Kuala Lumpur 2008,2008-09-06,FENG Tianwei,MIAO Miao,4,0,"11,11,11,11|9,8,6,5",QR2,WORLD_CUP,WS,806,Qualification,FENG Tianwei (SGP),MIAO Miao (AUS),FENG Tianwei
+Women's World Cup Kuala Lumpur 2008,2008-09-06,LI Xiaoxia,FENG Tianwei,4,1,"11,7,12,11,16|9,11,10,6,14",3,WORLD_CUP,WS,806,Qualification,LI Xiaoxia (CHN),FENG Tianwei (SGP),LI Xiaoxia
+Women's World Cup Kuala Lumpur 2008,2008-09-06,LI Jiao,MIAO Miao,4,2,"13,11,11,4,12,11|11,2,8,11,14,3",QR4,WORLD_CUP,WS,806,Qualification,LI Jiao (NED),MIAO Miao (AUS),LI Jiao
+Women's World Cup Kuala Lumpur 2008,2008-09-06,LI Xiaoxia,MIAO Miao,4,0,"12,11,11,11|10,3,1,7",5,WORLD_CUP,WS,806,Qualification,LI Xiaoxia (CHN),MIAO Miao (AUS),LI Xiaoxia
+Women's World Cup Kuala Lumpur 2008,2008-09-06,FENG Tianwei,LI Jiao,4,1,"13,5,11,11,11|11,11,5,7,5",6,WORLD_CUP,WS,806,Qualification,FENG Tianwei (SGP),LI Jiao (NED),FENG Tianwei
+Women's World Cup Kuala Lumpur 2008,2008-09-06,GAO Jun,LI Jiawei,4,0,"11,11,11,11|8,4,7,4",,WORLD_CUP,WS,806,Qualification,GAO Jun (USA),LI Jiawei (SGP),GAO Jun
+Women's World Cup Kuala Lumpur 2008,2008-09-06,TIE Yana,POTA Georgina,4,1,"2,11,11,11,11|11,7,6,9,6",QR2,WORLD_CUP,WS,806,Qualification,TIE Yana (HKG),POTA Georgina (HUN),TIE Yana
+Women's World Cup Kuala Lumpur 2008,2008-09-06,TIE Yana,LI Jiawei,4,1,"18,11,11,11,11|20,9,6,5,4",3,WORLD_CUP,WS,806,Qualification,TIE Yana (HKG),LI Jiawei (SGP),TIE Yana
+Women's World Cup Kuala Lumpur 2008,2008-09-06,GAO Jun,POTA Georgina,4,1,"11,11,11,11,11|5,6,9,13,9",QR4,WORLD_CUP,WS,806,Qualification,GAO Jun (USA),POTA Georgina (HUN),GAO Jun
+Women's World Cup Kuala Lumpur 2008,2008-09-06,LI Jiawei,POTA Georgina,4,2,"11,4,14,11,13,11|13,11,12,4,11,9",5,WORLD_CUP,WS,806,Qualification,LI Jiawei (SGP),POTA Georgina (HUN),LI Jiawei
+Women's World Cup Kuala Lumpur 2008,2008-09-06,TIE Yana,GAO Jun,4,0,"11,11,11,11|2,8,8,4",6,WORLD_CUP,WS,806,Qualification,TIE Yana (HKG),GAO Jun (USA),TIE Yana
+Women's World Cup Kuala Lumpur 2008,2008-09-06,WANG Yuegu,DODEAN Daniela,4,1,"11,11,12,11,11|9,8,14,6,8",,WORLD_CUP,WS,806,Qualification,WANG Yuegu (SGP),DODEAN Daniela (ROU),WANG Yuegu
+Women's World Cup Kuala Lumpur 2008,2008-09-06,KIM Kyungah,BEH Lee Wei,4,1,"6,11,11,11,11|11,3,3,9,5",QR2,WORLD_CUP,WS,806,Qualification,KIM Kyungah (KOR),BEH Lee Wei (MAS),KIM Kyungah
+Women's World Cup Kuala Lumpur 2008,2008-09-06,WANG Yuegu,KIM Kyungah,4,3,"12,9,11,9,11,9,11|10,11,5,11,8,11,5",3,WORLD_CUP,WS,806,Qualification,WANG Yuegu (SGP),KIM Kyungah (KOR),WANG Yuegu
+Women's World Cup Kuala Lumpur 2008,2008-09-06,DODEAN Daniela,BEH Lee Wei,4,0,"11,11,11,11|8,6,8,9",QR4,WORLD_CUP,WS,806,Qualification,DODEAN Daniela (ROU),BEH Lee Wei (MAS),DODEAN Daniela
+Women's World Cup Kuala Lumpur 2008,2008-09-06,WANG Yuegu,BEH Lee Wei,4,1,"11,8,12,11,11|6,11,10,5,6",5,WORLD_CUP,WS,806,Qualification,WANG Yuegu (SGP),BEH Lee Wei (MAS),WANG Yuegu
+Women's World Cup Kuala Lumpur 2008,2008-09-06,KIM Kyungah,DODEAN Daniela,4,1,"11,8,11,11,11|6,11,5,3,4",6,WORLD_CUP,WS,806,Qualification,KIM Kyungah (KOR),DODEAN Daniela (ROU),KIM Kyungah
+Women's World Cup Kuala Lumpur 2008,2008-09-06,FENG Tianwei,GUO Yue,4,1,"11,11,7,11,11|9,6,11,6,9",QF,WORLD_CUP,WS,806,Main Draw,FENG Tianwei (SGP),GUO Yue (CHN),FENG Tianwei
+Women's World Cup Kuala Lumpur 2008,2008-09-06,TIE Yana,KIM Kyungah,4,3,"11,7,11,11,11,17,11|8,11,7,13,8,19,7",QF,WORLD_CUP,WS,806,Main Draw,TIE Yana (HKG),KIM Kyungah (KOR),TIE Yana
+Women's World Cup Kuala Lumpur 2008,2008-09-06,WANG Yuegu,GAO Jun,4,2,"11,8,11,11,15,11|5,11,3,13,13,7",QF,WORLD_CUP,WS,806,Main Draw,WANG Yuegu (SGP),GAO Jun (USA),WANG Yuegu
+Women's World Cup Kuala Lumpur 2008,2008-09-06,LI Xiaoxia,JIANG Huajun,4,1,"11,9,11,11,11|7,11,7,6,6",QF,WORLD_CUP,WS,806,Main Draw,LI Xiaoxia (CHN),JIANG Huajun (HKG),LI Xiaoxia
+Women's World Cup Kuala Lumpur 2008,2008-09-06,TIE Yana,FENG Tianwei,4,0,"11,13,11,11|6,11,8,7",SF,WORLD_CUP,WS,806,Main Draw,TIE Yana (HKG),FENG Tianwei (SGP),TIE Yana
+Women's World Cup Kuala Lumpur 2008,2008-09-06,LI Xiaoxia,WANG Yuegu,4,0,"13,11,11,11|11,2,7,9",SF,WORLD_CUP,WS,806,Main Draw,LI Xiaoxia (CHN),WANG Yuegu (SGP),LI Xiaoxia
+Women's World Cup Kuala Lumpur 2008,2008-09-06,LI Xiaoxia,TIE Yana,4,0,"11,11,11,14|4,3,3,12",F,WORLD_CUP,WS,806,Main Draw,LI Xiaoxia (CHN),TIE Yana (HKG),LI Xiaoxia
+Women's World Cup Kuala Lumpur 2008,2008-09-06,FENG Tianwei,WANG Yuegu,4,0,"11,11,11,11|8,9,7,8",3RD,WORLD_CUP,WS,806,Position Draw,FENG Tianwei (SGP),WANG Yuegu (SGP),FENG Tianwei

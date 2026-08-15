@@ -1,46 +1,46 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-WTT Macao,2022-01-19,FAN Zhendong,CHEONG Chi Cheng,3,0,"11,11,11|9,9,6",R16,OTHER,MS,2537,Main Draw,FAN Zhendong (CHN),CHEONG Chi Cheng (MAC)
-WTT Macao,2022-01-19,CHEN Meng,DOO Hoi Kem,3,2,"11,7,12,11,11|8,11,10,13,2",R16,OTHER,WS,2537,Main Draw,CHEN Meng (CHN),DOO Hoi Kem (HKG)
-WTT Macao,2022-01-19,WANG Chuqin/SUN Yingsha,MA Long/QIAN Tianyi,3,0,"11,11,11|8,5,9",R16,OTHER,XD,2537,Main Draw,WANG Chuqin/SUN Yingsha (CHN),MA Long/QIAN Tianyi (CHN)
-WTT Macao,2022-01-19,XUE Fei/WANG Xiaotong,ZHOU Qihao/HE Zhuojia,3,2,"9,11,9,11,11|11,7,11,8,8",R16,OTHER,XD,2537,Main Draw,XUE Fei/WANG Xiaotong (CHN),ZHOU Qihao/HE Zhuojia (CHN)
-WTT Macao,2022-01-19,LIN Gaoyuan,LAM Siu Hang,3,1,"11,5,11,11|8,11,7,4",R16,OTHER,MS,2537,Main Draw,LIN Gaoyuan (CHN),LAM Siu Hang (HKG)
-WTT Macao,2022-01-19,ZHANG Rui,LIU Fei,3,1,"11,11,10,11|8,5,12,8",R16,OTHER,WS,2537,Main Draw,ZHANG Rui (CHN),LIU Fei (CHN)
-WTT Macao,2022-01-19,WANG Chuqin,XUE Fei,3,0,"11,11,11|7,3,5",R16,OTHER,MS,2537,Main Draw,WANG Chuqin (CHN),XUE Fei (CHN)
-WTT Macao,2022-01-19,LIU Weishan,LI Jie,3,0,"11,11,11|7,7,8",R16,OTHER,WS,2537,Main Draw,LIU Weishan (CHN),LI Jie (NED)
-WTT Macao,2022-01-19,XIANG Peng/ZHANG Rui,LAM Siu Hang/DOO Hoi Kem,3,1,"11,2,11,11|8,11,9,8",R16,OTHER,XD,2537,Main Draw,XIANG Peng/ZHANG Rui (CHN),LAM Siu Hang/DOO Hoi Kem (HKG)
-WTT Macao,2022-01-19,FAN Zhendong/KUAI Man,YUAN Licen/WANG Yidi,3,1,"11,13,10,11|8,11,12,7",R16,OTHER,XD,2537,Main Draw,FAN Zhendong/KUAI Man (CHN),YUAN Licen/WANG Yidi (CHN)
-WTT Macao,2022-01-19,LIN Shidong,ZHOU Qihao,3,2,"11,4,10,11,11|8,11,12,8,9",R16,OTHER,MS,2537,Main Draw,LIN Shidong (CHN),ZHOU Qihao (CHN)
-WTT Macao,2022-01-19,WANG Xiaotong,LI Qian,3,2,"12,10,15,5,11|10,12,13,11,9",R16,OTHER,WS,2537,Main Draw,WANG Xiaotong (CHN),LI Qian (POL)
-WTT Macao,2022-01-20,MA Long,LIANG Jingkun,3,0,"11,13,11|9,11,6",R16,OTHER,MS,2537,Main Draw,MA Long (CHN),LIANG Jingkun (CHN)
-WTT Macao,2022-01-20,SUN Yingsha,HE Zhuojia,3,0,"13,11,11|11,4,6",R16,OTHER,WS,2537,Main Draw,SUN Yingsha (CHN),HE Zhuojia (CHN)
-WTT Macao,2022-01-20,XU Xin/LIU Shiwen,XU Yingbin/LIU Weishan,3,1,"11,9,11,11|4,11,9,8",R16,OTHER,XD,2537,Main Draw,XU Xin/LIU Shiwen (CHN),XU Yingbin/LIU Weishan (CHN)
-WTT Macao,2022-01-20,LIN Gaoyuan/WANG Manyu,ZHAO Zihao/LIU Fei,3,1,"11,11,4,11|3,6,11,4",R16,OTHER,XD,2537,Main Draw,LIN Gaoyuan/WANG Manyu (CHN),ZHAO Zihao/LIU Fei (CHN)
-WTT Macao,2022-01-20,XIANG Peng,SUN Wen,3,1,"11,11,7,11|8,6,11,7",R16,OTHER,MS,2537,Main Draw,XIANG Peng (CHN),SUN Wen (CHN)
-WTT Macao,2022-01-20,CHEN Xingtong,QIAN Tianyi,3,0,"11,11,11|3,4,4",R16,OTHER,WS,2537,Main Draw,CHEN Xingtong (CHN),QIAN Tianyi (CHN)
-WTT Macao,2022-01-20,XU Xin,ZHAO Zihao,3,1,"8,11,11,11|11,3,8,3",R16,OTHER,MS,2537,Main Draw,XU Xin (CHN),ZHAO Zihao (CHN)
-WTT Macao,2022-01-20,LIU Shiwen,WANG Yidi,3,1,"11,10,13,14|6,12,11,12",R16,OTHER,WS,2537,Main Draw,LIU Shiwen (CHN),WANG Yidi (CHN)
-WTT Macao,2022-01-20,YU Ziyang/CHEN Xingtong,SUN Wen/SHI Xunyao,3,1,"11,11,11,11|5,13,4,8",R16,OTHER,XD,2537,Main Draw,YU Ziyang/CHEN Xingtong (CHN),SUN Wen/SHI Xunyao (CHN)
-WTT Macao,2022-01-20,LIANG Jingkun/CHEN Meng,LIN Shidong/WANG Tianyi,3,2,"11,11,5,7,11|7,7,11,11,4",R16,OTHER,XD,2537,Main Draw,LIANG Jingkun/CHEN Meng (CHN),LIN Shidong/WANG Tianyi (CHN)
-WTT Macao,2022-01-20,XU Yingbin,YUAN Licen,3,2,"11,5,12,11,13|5,11,14,7,11",R16,OTHER,MS,2537,Main Draw,XU Yingbin (CHN),YUAN Licen (CHN)
-WTT Macao,2022-01-20,WANG Manyu,KUAI Man,3,1,"9,11,11,11|11,8,4,9",R16,OTHER,WS,2537,Main Draw,WANG Manyu (CHN),KUAI Man (CHN)
-WTT Macao,2022-01-21,CHEN Meng,ZHANG Rui,3,0,"11,11,13|3,9,11",QF,OTHER,WS,2537,Main Draw,CHEN Meng (CHN),ZHANG Rui (CHN)
-WTT Macao,2022-01-21,SUN Yingsha,LIU Weishan,3,1,"11,11,9,11|6,7,11,7",QF,OTHER,WS,2537,Main Draw,SUN Yingsha (CHN),LIU Weishan (CHN)
-WTT Macao,2022-01-21,LIU Shiwen,WANG Xiaotong,3,0,"11,11,11|7,8,7",QF,OTHER,WS,2537,Main Draw,LIU Shiwen (CHN),WANG Xiaotong (CHN)
-WTT Macao,2022-01-21,WANG Manyu,CHEN Xingtong,3,1,"11,11,9,11|7,6,11,6",QF,OTHER,WS,2537,Main Draw,WANG Manyu (CHN),CHEN Xingtong (CHN)
-WTT Macao,2022-01-21,XU Xin/LIU Shiwen,LIANG Jingkun/CHEN Meng,3,0,"11,12,12|5,10,10",QF,OTHER,XD,2537,Main Draw,XU Xin/LIU Shiwen (CHN),LIANG Jingkun/CHEN Meng (CHN)
-WTT Macao,2022-01-21,FAN Zhendong/KUAI Man,WANG Chuqin/SUN Yingsha,3,2,"8,11,11,6,11|11,5,9,11,6",QF,OTHER,XD,2537,Main Draw,FAN Zhendong/KUAI Man (CHN),WANG Chuqin/SUN Yingsha (CHN)
-WTT Macao,2022-01-21,YU Ziyang/CHEN Xingtong,LIN Gaoyuan/WANG Manyu,3,1,"9,11,11,11|11,7,7,7",QF,OTHER,XD,2537,Main Draw,YU Ziyang/CHEN Xingtong (CHN),LIN Gaoyuan/WANG Manyu (CHN)
-WTT Macao,2022-01-21,XIANG Peng/ZHANG Rui,XUE Fei/WANG Xiaotong,3,2,"11,10,11,6,11|9,12,6,11,6",QF,OTHER,XD,2537,Main Draw,XIANG Peng/ZHANG Rui (CHN),XUE Fei/WANG Xiaotong (CHN)
-WTT Macao,2022-01-22,XU Xin/LIU Shiwen,FAN Zhendong/KUAI Man,3,0,"11,11,11|6,6,5",F,OTHER,XD,2537,Main Draw,XU Xin/LIU Shiwen (CHN),FAN Zhendong/KUAI Man (CHN)
-WTT Macao,2022-01-22,WANG Chuqin,MA Long,3,1,"11,11,8,11|7,7,11,8",QF,OTHER,MS,2537,Main Draw,WANG Chuqin (CHN),MA Long (CHN)
-WTT Macao,2022-01-22,XU Xin,XIANG Peng,3,0,"12,11,11|10,5,4",QF,OTHER,MS,2537,Main Draw,XU Xin (CHN),XIANG Peng (CHN)
-WTT Macao,2022-01-22,XU Yingbin,FAN Zhendong,3,1,"18,9,11,11|16,11,2,6",QF,OTHER,MS,2537,Main Draw,XU Yingbin (CHN),FAN Zhendong (CHN)
-WTT Macao,2022-01-22,LIN Gaoyuan,LIN Shidong,3,2,"10,14,11,8,13|12,12,7,11,11",QF,OTHER,MS,2537,Main Draw,LIN Gaoyuan (CHN),LIN Shidong (CHN)
-WTT Macao,2022-01-22,XU Xin/LIU Shiwen,YU Ziyang/CHEN Xingtong,3,1,"11,11,2,11|1,6,11,8",SF,OTHER,XD,2537,Main Draw,XU Xin/LIU Shiwen (CHN),YU Ziyang/CHEN Xingtong (CHN)
-WTT Macao,2022-01-22,FAN Zhendong/KUAI Man,XIANG Peng/ZHANG Rui,3,0,"11,11,11|3,2,6",SF,OTHER,XD,2537,Main Draw,FAN Zhendong/KUAI Man (CHN),XIANG Peng/ZHANG Rui (CHN)
-WTT Macao,2022-01-23,WANG Chuqin,LIN Gaoyuan,4,3,"11,9,11,10,9,14,11|8,11,9,12,11,12,9",F,OTHER,MS,2537,Main Draw,WANG Chuqin (CHN),LIN Gaoyuan (CHN)
-WTT Macao,2022-01-23,WANG Manyu,LIU Shiwen,4,0,"11,11,11,12|6,7,7,10",F,OTHER,WS,2537,Main Draw,WANG Manyu (CHN),LIU Shiwen (CHN)
-WTT Macao,2022-01-23,WANG Chuqin,XU Xin,4,1,"8,11,11,11,11|11,4,6,8,4",SF,OTHER,MS,2537,Main Draw,WANG Chuqin (CHN),XU Xin (CHN)
-WTT Macao,2022-01-23,LIN Gaoyuan,XU Yingbin,4,0,"13,11,11,11|11,7,5,5",SF,OTHER,MS,2537,Main Draw,LIN Gaoyuan (CHN),XU Yingbin (CHN)
-WTT Macao,2022-01-23,LIU Shiwen,SUN Yingsha,4,2,"9,12,4,11,13,11|11,10,11,8,11,6",SF,OTHER,WS,2537,Main Draw,LIU Shiwen (CHN),SUN Yingsha (CHN)
-WTT Macao,2022-01-23,WANG Manyu,CHEN Meng,4,3,"5,11,11,11,10,9,11|11,6,9,8,12,11,9",SF,OTHER,WS,2537,Main Draw,WANG Manyu (CHN),CHEN Meng (CHN)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+WTT Macao,2022-01-19,FAN Zhendong,CHEONG Chi Cheng,3,0,"11,11,11|9,9,6",R16,OTHER,MS,2537,Main Draw,FAN Zhendong (CHN),CHEONG Chi Cheng (MAC),FAN Zhendong
+WTT Macao,2022-01-19,CHEN Meng,DOO Hoi Kem,3,2,"11,7,12,11,11|8,11,10,13,2",R16,OTHER,WS,2537,Main Draw,CHEN Meng (CHN),DOO Hoi Kem (HKG),CHEN Meng
+WTT Macao,2022-01-19,WANG Chuqin/SUN Yingsha,MA Long/QIAN Tianyi,3,0,"11,11,11|8,5,9",R16,OTHER,XD,2537,Main Draw,WANG Chuqin/SUN Yingsha (CHN),MA Long/QIAN Tianyi (CHN),WANG Chuqin/SUN Yingsha
+WTT Macao,2022-01-19,XUE Fei/WANG Xiaotong,ZHOU Qihao/HE Zhuojia,3,2,"9,11,9,11,11|11,7,11,8,8",R16,OTHER,XD,2537,Main Draw,XUE Fei/WANG Xiaotong (CHN),ZHOU Qihao/HE Zhuojia (CHN),XUE Fei/WANG Xiaotong
+WTT Macao,2022-01-19,LIN Gaoyuan,LAM Siu Hang,3,1,"11,5,11,11|8,11,7,4",R16,OTHER,MS,2537,Main Draw,LIN Gaoyuan (CHN),LAM Siu Hang (HKG),LIN Gaoyuan
+WTT Macao,2022-01-19,ZHANG Rui,LIU Fei,3,1,"11,11,10,11|8,5,12,8",R16,OTHER,WS,2537,Main Draw,ZHANG Rui (CHN),LIU Fei (CHN),ZHANG Rui
+WTT Macao,2022-01-19,WANG Chuqin,XUE Fei,3,0,"11,11,11|7,3,5",R16,OTHER,MS,2537,Main Draw,WANG Chuqin (CHN),XUE Fei (CHN),WANG Chuqin
+WTT Macao,2022-01-19,LIU Weishan,LI Jie,3,0,"11,11,11|7,7,8",R16,OTHER,WS,2537,Main Draw,LIU Weishan (CHN),LI Jie (NED),LIU Weishan
+WTT Macao,2022-01-19,XIANG Peng/ZHANG Rui,LAM Siu Hang/DOO Hoi Kem,3,1,"11,2,11,11|8,11,9,8",R16,OTHER,XD,2537,Main Draw,XIANG Peng/ZHANG Rui (CHN),LAM Siu Hang/DOO Hoi Kem (HKG),XIANG Peng/ZHANG Rui
+WTT Macao,2022-01-19,FAN Zhendong/KUAI Man,YUAN Licen/WANG Yidi,3,1,"11,13,10,11|8,11,12,7",R16,OTHER,XD,2537,Main Draw,FAN Zhendong/KUAI Man (CHN),YUAN Licen/WANG Yidi (CHN),FAN Zhendong/KUAI Man
+WTT Macao,2022-01-19,LIN Shidong,ZHOU Qihao,3,2,"11,4,10,11,11|8,11,12,8,9",R16,OTHER,MS,2537,Main Draw,LIN Shidong (CHN),ZHOU Qihao (CHN),LIN Shidong
+WTT Macao,2022-01-19,WANG Xiaotong,LI Qian,3,2,"12,10,15,5,11|10,12,13,11,9",R16,OTHER,WS,2537,Main Draw,WANG Xiaotong (CHN),LI Qian (POL),WANG Xiaotong
+WTT Macao,2022-01-20,MA Long,LIANG Jingkun,3,0,"11,13,11|9,11,6",R16,OTHER,MS,2537,Main Draw,MA Long (CHN),LIANG Jingkun (CHN),MA Long
+WTT Macao,2022-01-20,SUN Yingsha,HE Zhuojia,3,0,"13,11,11|11,4,6",R16,OTHER,WS,2537,Main Draw,SUN Yingsha (CHN),HE Zhuojia (CHN),SUN Yingsha
+WTT Macao,2022-01-20,XU Xin/LIU Shiwen,XU Yingbin/LIU Weishan,3,1,"11,9,11,11|4,11,9,8",R16,OTHER,XD,2537,Main Draw,XU Xin/LIU Shiwen (CHN),XU Yingbin/LIU Weishan (CHN),XU Xin/LIU Shiwen
+WTT Macao,2022-01-20,LIN Gaoyuan/WANG Manyu,ZHAO Zihao/LIU Fei,3,1,"11,11,4,11|3,6,11,4",R16,OTHER,XD,2537,Main Draw,LIN Gaoyuan/WANG Manyu (CHN),ZHAO Zihao/LIU Fei (CHN),LIN Gaoyuan/WANG Manyu
+WTT Macao,2022-01-20,XIANG Peng,SUN Wen,3,1,"11,11,7,11|8,6,11,7",R16,OTHER,MS,2537,Main Draw,XIANG Peng (CHN),SUN Wen (CHN),XIANG Peng
+WTT Macao,2022-01-20,CHEN Xingtong,QIAN Tianyi,3,0,"11,11,11|3,4,4",R16,OTHER,WS,2537,Main Draw,CHEN Xingtong (CHN),QIAN Tianyi (CHN),CHEN Xingtong
+WTT Macao,2022-01-20,XU Xin,ZHAO Zihao,3,1,"8,11,11,11|11,3,8,3",R16,OTHER,MS,2537,Main Draw,XU Xin (CHN),ZHAO Zihao (CHN),XU Xin
+WTT Macao,2022-01-20,LIU Shiwen,WANG Yidi,3,1,"11,10,13,14|6,12,11,12",R16,OTHER,WS,2537,Main Draw,LIU Shiwen (CHN),WANG Yidi (CHN),LIU Shiwen
+WTT Macao,2022-01-20,YU Ziyang/CHEN Xingtong,SUN Wen/SHI Xunyao,3,1,"11,11,11,11|5,13,4,8",R16,OTHER,XD,2537,Main Draw,YU Ziyang/CHEN Xingtong (CHN),SUN Wen/SHI Xunyao (CHN),YU Ziyang/CHEN Xingtong
+WTT Macao,2022-01-20,LIANG Jingkun/CHEN Meng,LIN Shidong/WANG Tianyi,3,2,"11,11,5,7,11|7,7,11,11,4",R16,OTHER,XD,2537,Main Draw,LIANG Jingkun/CHEN Meng (CHN),LIN Shidong/WANG Tianyi (CHN),LIANG Jingkun/CHEN Meng
+WTT Macao,2022-01-20,XU Yingbin,YUAN Licen,3,2,"11,5,12,11,13|5,11,14,7,11",R16,OTHER,MS,2537,Main Draw,XU Yingbin (CHN),YUAN Licen (CHN),XU Yingbin
+WTT Macao,2022-01-20,WANG Manyu,KUAI Man,3,1,"9,11,11,11|11,8,4,9",R16,OTHER,WS,2537,Main Draw,WANG Manyu (CHN),KUAI Man (CHN),WANG Manyu
+WTT Macao,2022-01-21,CHEN Meng,ZHANG Rui,3,0,"11,11,13|3,9,11",QF,OTHER,WS,2537,Main Draw,CHEN Meng (CHN),ZHANG Rui (CHN),CHEN Meng
+WTT Macao,2022-01-21,SUN Yingsha,LIU Weishan,3,1,"11,11,9,11|6,7,11,7",QF,OTHER,WS,2537,Main Draw,SUN Yingsha (CHN),LIU Weishan (CHN),SUN Yingsha
+WTT Macao,2022-01-21,LIU Shiwen,WANG Xiaotong,3,0,"11,11,11|7,8,7",QF,OTHER,WS,2537,Main Draw,LIU Shiwen (CHN),WANG Xiaotong (CHN),LIU Shiwen
+WTT Macao,2022-01-21,WANG Manyu,CHEN Xingtong,3,1,"11,11,9,11|7,6,11,6",QF,OTHER,WS,2537,Main Draw,WANG Manyu (CHN),CHEN Xingtong (CHN),WANG Manyu
+WTT Macao,2022-01-21,XU Xin/LIU Shiwen,LIANG Jingkun/CHEN Meng,3,0,"11,12,12|5,10,10",QF,OTHER,XD,2537,Main Draw,XU Xin/LIU Shiwen (CHN),LIANG Jingkun/CHEN Meng (CHN),XU Xin/LIU Shiwen
+WTT Macao,2022-01-21,FAN Zhendong/KUAI Man,WANG Chuqin/SUN Yingsha,3,2,"8,11,11,6,11|11,5,9,11,6",QF,OTHER,XD,2537,Main Draw,FAN Zhendong/KUAI Man (CHN),WANG Chuqin/SUN Yingsha (CHN),FAN Zhendong/KUAI Man
+WTT Macao,2022-01-21,YU Ziyang/CHEN Xingtong,LIN Gaoyuan/WANG Manyu,3,1,"9,11,11,11|11,7,7,7",QF,OTHER,XD,2537,Main Draw,YU Ziyang/CHEN Xingtong (CHN),LIN Gaoyuan/WANG Manyu (CHN),YU Ziyang/CHEN Xingtong
+WTT Macao,2022-01-21,XIANG Peng/ZHANG Rui,XUE Fei/WANG Xiaotong,3,2,"11,10,11,6,11|9,12,6,11,6",QF,OTHER,XD,2537,Main Draw,XIANG Peng/ZHANG Rui (CHN),XUE Fei/WANG Xiaotong (CHN),XIANG Peng/ZHANG Rui
+WTT Macao,2022-01-22,XU Xin/LIU Shiwen,FAN Zhendong/KUAI Man,3,0,"11,11,11|6,6,5",F,OTHER,XD,2537,Main Draw,XU Xin/LIU Shiwen (CHN),FAN Zhendong/KUAI Man (CHN),XU Xin/LIU Shiwen
+WTT Macao,2022-01-22,WANG Chuqin,MA Long,3,1,"11,11,8,11|7,7,11,8",QF,OTHER,MS,2537,Main Draw,WANG Chuqin (CHN),MA Long (CHN),WANG Chuqin
+WTT Macao,2022-01-22,XU Xin,XIANG Peng,3,0,"12,11,11|10,5,4",QF,OTHER,MS,2537,Main Draw,XU Xin (CHN),XIANG Peng (CHN),XU Xin
+WTT Macao,2022-01-22,XU Yingbin,FAN Zhendong,3,1,"18,9,11,11|16,11,2,6",QF,OTHER,MS,2537,Main Draw,XU Yingbin (CHN),FAN Zhendong (CHN),XU Yingbin
+WTT Macao,2022-01-22,LIN Gaoyuan,LIN Shidong,3,2,"10,14,11,8,13|12,12,7,11,11",QF,OTHER,MS,2537,Main Draw,LIN Gaoyuan (CHN),LIN Shidong (CHN),LIN Gaoyuan
+WTT Macao,2022-01-22,XU Xin/LIU Shiwen,YU Ziyang/CHEN Xingtong,3,1,"11,11,2,11|1,6,11,8",SF,OTHER,XD,2537,Main Draw,XU Xin/LIU Shiwen (CHN),YU Ziyang/CHEN Xingtong (CHN),XU Xin/LIU Shiwen
+WTT Macao,2022-01-22,FAN Zhendong/KUAI Man,XIANG Peng/ZHANG Rui,3,0,"11,11,11|3,2,6",SF,OTHER,XD,2537,Main Draw,FAN Zhendong/KUAI Man (CHN),XIANG Peng/ZHANG Rui (CHN),FAN Zhendong/KUAI Man
+WTT Macao,2022-01-23,WANG Chuqin,LIN Gaoyuan,4,3,"11,9,11,10,9,14,11|8,11,9,12,11,12,9",F,OTHER,MS,2537,Main Draw,WANG Chuqin (CHN),LIN Gaoyuan (CHN),WANG Chuqin
+WTT Macao,2022-01-23,WANG Manyu,LIU Shiwen,4,0,"11,11,11,12|6,7,7,10",F,OTHER,WS,2537,Main Draw,WANG Manyu (CHN),LIU Shiwen (CHN),WANG Manyu
+WTT Macao,2022-01-23,WANG Chuqin,XU Xin,4,1,"8,11,11,11,11|11,4,6,8,4",SF,OTHER,MS,2537,Main Draw,WANG Chuqin (CHN),XU Xin (CHN),WANG Chuqin
+WTT Macao,2022-01-23,LIN Gaoyuan,XU Yingbin,4,0,"13,11,11,11|11,7,5,5",SF,OTHER,MS,2537,Main Draw,LIN Gaoyuan (CHN),XU Yingbin (CHN),LIN Gaoyuan
+WTT Macao,2022-01-23,LIU Shiwen,SUN Yingsha,4,2,"9,12,4,11,13,11|11,10,11,8,11,6",SF,OTHER,WS,2537,Main Draw,LIU Shiwen (CHN),SUN Yingsha (CHN),LIU Shiwen
+WTT Macao,2022-01-23,WANG Manyu,CHEN Meng,4,3,"5,11,11,11,10,9,11|11,6,9,8,12,11,9",SF,OTHER,WS,2537,Main Draw,WANG Manyu (CHN),CHEN Meng (CHN),WANG Manyu

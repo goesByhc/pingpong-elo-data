@@ -1,38 +1,38 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Men's World Cup Moscow 2009,2009-10-16,OH Sangeun,KREANGA Kalinikos,4,2,"9,11,11,11,11,11|11,13,9,5,1,8",QF,WORLD_CUP,MS,824,Main Draw,OH Sangeun (KOR),KREANGA Kalinikos (GRE)
-Men's World Cup Moscow 2009,2009-10-16,CHEN Qi,MAZE Michael,4,3,"11,12,1,11,12,10,12|9,10,11,13,10,12,10",QF,WORLD_CUP,MS,824,Main Draw,CHEN Qi (CHN),MAZE Michael (DEN)
-Men's World Cup Moscow 2009,2009-10-16,SAMSONOV Vladimir,OVTCHAROV Dimitrij,4,1,"11,11,11,8,11|8,5,8,11,8",QF,WORLD_CUP,MS,824,Main Draw,SAMSONOV Vladimir (BLR),OVTCHAROV Dimitrij (GER)
-Men's World Cup Moscow 2009,2009-10-16,MA Long,BOLL Timo,4,2,"11,11,7,8,11,11|6,6,11,11,8,3",QF,WORLD_CUP,MS,824,Main Draw,MA Long (CHN),BOLL Timo (GER)
-Men's World Cup Moscow 2009,2009-10-16,CHEN Qi,OH Sangeun,4,3,"11,4,9,11,11,8,11|7,11,11,4,3,11,5",SF,WORLD_CUP,MS,824,Main Draw,CHEN Qi (CHN),OH Sangeun (KOR)
-Men's World Cup Moscow 2009,2009-10-16,SAMSONOV Vladimir,MA Long,4,3,"7,11,8,11,14,8,11|11,5,11,4,12,11,8",SF,WORLD_CUP,MS,824,Main Draw,SAMSONOV Vladimir (BLR),MA Long (CHN)
-Men's World Cup Moscow 2009,2009-10-16,SAMSONOV Vladimir,CHEN Qi,4,1,"11,5,11,11,13|4,11,7,5,11",F,WORLD_CUP,MS,824,Main Draw,SAMSONOV Vladimir (BLR),CHEN Qi (CHN)
-Men's World Cup Moscow 2009,2009-10-16,MA Long,OH Sangeun,4,1,"9,11,11,11,11|11,3,6,5,9",3RD,WORLD_CUP,MS,824,Position Draw,MA Long (CHN),OH Sangeun (KOR)
-Men's World Cup Moscow 2009,2009-10-16,MA Long,SCHLAGER Werner,4,0,"11,11,12,11|8,3,10,3",,WORLD_CUP,MS,824,Qualification,MA Long (CHN),SCHLAGER Werner (AUT)
-Men's World Cup Moscow 2009,2009-10-16,MATSUDAIRA Kenta,OH Sangeun,4,3,"12,9,11,11,5,11,11|14,11,8,4,11,9,7",1,WORLD_CUP,MS,824,Qualification,MATSUDAIRA Kenta (JPN),OH Sangeun (KOR)
-Men's World Cup Moscow 2009,2009-10-16,OH Sangeun,MA Long,4,3,"11,7,15,11,10,9,12|6,11,13,8,12,11,10",QR2,WORLD_CUP,MS,824,Qualification,OH Sangeun (KOR),MA Long (CHN)
-Men's World Cup Moscow 2009,2009-10-16,SCHLAGER Werner,MATSUDAIRA Kenta,4,1,"10,11,11,11,11|12,8,6,7,4",QR2,WORLD_CUP,MS,824,Qualification,SCHLAGER Werner (AUT),MATSUDAIRA Kenta (JPN)
-Men's World Cup Moscow 2009,2009-10-16,MA Long,MATSUDAIRA Kenta,4,0,"11,14,11,11|3,12,3,9",3,WORLD_CUP,MS,824,Qualification,MA Long (CHN),MATSUDAIRA Kenta (JPN)
-Men's World Cup Moscow 2009,2009-10-16,OH Sangeun,SCHLAGER Werner,4,1,"5,11,11,11,11|11,5,5,5,6",3,WORLD_CUP,MS,824,Qualification,OH Sangeun (KOR),SCHLAGER Werner (AUT)
-Men's World Cup Moscow 2009,2009-10-16,BOLL Timo,KREANGA Kalinikos,4,2,"10,11,11,11,10,11|12,3,8,5,12,7",,WORLD_CUP,MS,824,Qualification,BOLL Timo (GER),KREANGA Kalinikos (GRE)
-Men's World Cup Moscow 2009,2009-10-16,SMIRNOV Alexey,JOO Saehyuk,4,3,"11,13,4,10,12,5,12|6,11,11,12,10,11,10",1,WORLD_CUP,MS,824,Qualification,SMIRNOV Alexey (RUS),JOO Saehyuk (KOR)
-Men's World Cup Moscow 2009,2009-10-16,BOLL Timo,JOO Saehyuk,4,2,"11,9,11,5,11,11|2,11,1,11,3,9",QR2,WORLD_CUP,MS,824,Qualification,BOLL Timo (GER),JOO Saehyuk (KOR)
-Men's World Cup Moscow 2009,2009-10-16,KREANGA Kalinikos,SMIRNOV Alexey,4,1,"11,11,11,4,14|7,9,6,11,12",QR2,WORLD_CUP,MS,824,Qualification,KREANGA Kalinikos (GRE),SMIRNOV Alexey (RUS)
-Men's World Cup Moscow 2009,2009-10-16,BOLL Timo,SMIRNOV Alexey,4,1,"11,11,11,9,11|9,5,8,11,7",3,WORLD_CUP,MS,824,Qualification,BOLL Timo (GER),SMIRNOV Alexey (RUS)
-Men's World Cup Moscow 2009,2009-10-16,JOO Saehyuk,KREANGA Kalinikos,4,3,"11,3,8,13,9,12,11|8,11,11,11,11,10,6",3,WORLD_CUP,MS,824,Qualification,JOO Saehyuk (KOR),KREANGA Kalinikos (GRE)
-Men's World Cup Moscow 2009,2009-10-16,SAMSONOV Vladimir,CHEUNG Yuk,4,1,"11,13,12,7,11|8,11,10,11,8",,WORLD_CUP,MS,824,Qualification,SAMSONOV Vladimir (BLR),CHEUNG Yuk (HKG)
-Men's World Cup Moscow 2009,2009-10-16,CHEN Qi,MATSUMOTO Cazuo,4,0,"11,11,11,11|5,6,6,5",1,WORLD_CUP,MS,824,Qualification,CHEN Qi (CHN),MATSUMOTO Cazuo (BRA)
-Men's World Cup Moscow 2009,2009-10-16,CHEUNG Yuk,MATSUMOTO Cazuo,4,1,"11,13,11,11,11|13,11,5,8,4",QR2,WORLD_CUP,MS,824,Qualification,CHEUNG Yuk (HKG),MATSUMOTO Cazuo (BRA)
-Men's World Cup Moscow 2009,2009-10-16,SAMSONOV Vladimir,MATSUMOTO Cazuo,4,0,"11,11,11,11|5,8,6,7",3,WORLD_CUP,MS,824,Qualification,SAMSONOV Vladimir (BLR),MATSUMOTO Cazuo (BRA)
-Men's World Cup Moscow 2009,2009-10-16,CHEN Qi,CHEUNG Yuk,4,2,"10,11,11,11,13,12|12,7,8,7,15,10",3,WORLD_CUP,MS,824,Qualification,CHEN Qi (CHN),CHEUNG Yuk (HKG)
-Men's World Cup Moscow 2009,2009-10-16,OVTCHAROV Dimitrij,MAZE Michael,4,2,"9,11,8,11,11,11|11,3,11,9,7,9",,WORLD_CUP,MS,824,Qualification,OVTCHAROV Dimitrij (GER),MAZE Michael (DEN)
-Men's World Cup Moscow 2009,2009-10-16,MIZUTANI Jun,CHUANG Chih-Yuan,4,3,"11,11,11,10,9,3,11|7,6,5,12,11,11,5",1,WORLD_CUP,MS,824,Qualification,MIZUTANI Jun (JPN),CHUANG Chih-Yuan (TPE)
-Men's World Cup Moscow 2009,2009-10-16,OVTCHAROV Dimitrij,CHUANG Chih-Yuan,4,3,"11,6,11,7,7,11,11|8,11,4,11,11,8,8",QR2,WORLD_CUP,MS,824,Qualification,OVTCHAROV Dimitrij (GER),CHUANG Chih-Yuan (TPE)
-Men's World Cup Moscow 2009,2009-10-16,MAZE Michael,MIZUTANI Jun,4,1,"13,10,11,11,11|11,12,8,8,7",QR2,WORLD_CUP,MS,824,Qualification,MAZE Michael (DEN),MIZUTANI Jun (JPN)
-Men's World Cup Moscow 2009,2009-10-16,MAZE Michael,CHUANG Chih-Yuan,4,2,"11,10,13,8,15,16|8,12,11,11,13,14",3,WORLD_CUP,MS,824,Qualification,MAZE Michael (DEN),CHUANG Chih-Yuan (TPE)
-Men's World Cup Moscow 2009,2009-10-16,MIZUTANI Jun,OVTCHAROV Dimitrij,4,3,"11,11,11,8,3,9,11|6,7,5,11,11,11,6",3,WORLD_CUP,MS,824,Qualification,MIZUTANI Jun (JPN),OVTCHAROV Dimitrij (GER)
-Men's World Cup Moscow 2009,2009-10-16,MATSUMOTO Cazuo,FRANK Robert,4,1,,,WORLD_CUP,MS,824,Qualification,MATSUMOTO Cazuo (BRA),FRANK Robert (AUS)
-Men's World Cup Moscow 2009,2009-10-16,ARUNA Quadri,THERIEN Xavier,4,2,,1,WORLD_CUP,MS,824,Qualification,ARUNA Quadri (NGR),THERIEN Xavier (CAN)
-Men's World Cup Moscow 2009,2009-10-16,MATSUMOTO Cazuo,THERIEN Xavier,4,1,,QR2,WORLD_CUP,MS,824,Qualification,MATSUMOTO Cazuo (BRA),THERIEN Xavier (CAN)
-Men's World Cup Moscow 2009,2009-10-16,ARUNA Quadri,FRANK Robert,4,0,,QR2,WORLD_CUP,MS,824,Qualification,ARUNA Quadri (NGR),FRANK Robert (AUS)
-Men's World Cup Moscow 2009,2009-10-16,MATSUMOTO Cazuo,ARUNA Quadri,4,2,,3,WORLD_CUP,MS,824,Qualification,MATSUMOTO Cazuo (BRA),ARUNA Quadri (NGR)
-Men's World Cup Moscow 2009,2009-10-16,THERIEN Xavier,FRANK Robert,4,3,,3,WORLD_CUP,MS,824,Qualification,THERIEN Xavier (CAN),FRANK Robert (AUS)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Men's World Cup Moscow 2009,2009-10-16,OH Sangeun,KREANGA Kalinikos,4,2,"9,11,11,11,11,11|11,13,9,5,1,8",QF,WORLD_CUP,MS,824,Main Draw,OH Sangeun (KOR),KREANGA Kalinikos (GRE),OH Sangeun
+Men's World Cup Moscow 2009,2009-10-16,CHEN Qi,MAZE Michael,4,3,"11,12,1,11,12,10,12|9,10,11,13,10,12,10",QF,WORLD_CUP,MS,824,Main Draw,CHEN Qi (CHN),MAZE Michael (DEN),CHEN Qi
+Men's World Cup Moscow 2009,2009-10-16,SAMSONOV Vladimir,OVTCHAROV Dimitrij,4,1,"11,11,11,8,11|8,5,8,11,8",QF,WORLD_CUP,MS,824,Main Draw,SAMSONOV Vladimir (BLR),OVTCHAROV Dimitrij (GER),SAMSONOV Vladimir
+Men's World Cup Moscow 2009,2009-10-16,MA Long,BOLL Timo,4,2,"11,11,7,8,11,11|6,6,11,11,8,3",QF,WORLD_CUP,MS,824,Main Draw,MA Long (CHN),BOLL Timo (GER),MA Long
+Men's World Cup Moscow 2009,2009-10-16,CHEN Qi,OH Sangeun,4,3,"11,4,9,11,11,8,11|7,11,11,4,3,11,5",SF,WORLD_CUP,MS,824,Main Draw,CHEN Qi (CHN),OH Sangeun (KOR),CHEN Qi
+Men's World Cup Moscow 2009,2009-10-16,SAMSONOV Vladimir,MA Long,4,3,"7,11,8,11,14,8,11|11,5,11,4,12,11,8",SF,WORLD_CUP,MS,824,Main Draw,SAMSONOV Vladimir (BLR),MA Long (CHN),SAMSONOV Vladimir
+Men's World Cup Moscow 2009,2009-10-16,SAMSONOV Vladimir,CHEN Qi,4,1,"11,5,11,11,13|4,11,7,5,11",F,WORLD_CUP,MS,824,Main Draw,SAMSONOV Vladimir (BLR),CHEN Qi (CHN),SAMSONOV Vladimir
+Men's World Cup Moscow 2009,2009-10-16,MA Long,OH Sangeun,4,1,"9,11,11,11,11|11,3,6,5,9",3RD,WORLD_CUP,MS,824,Position Draw,MA Long (CHN),OH Sangeun (KOR),MA Long
+Men's World Cup Moscow 2009,2009-10-16,MA Long,SCHLAGER Werner,4,0,"11,11,12,11|8,3,10,3",,WORLD_CUP,MS,824,Qualification,MA Long (CHN),SCHLAGER Werner (AUT),MA Long
+Men's World Cup Moscow 2009,2009-10-16,MATSUDAIRA Kenta,OH Sangeun,4,3,"12,9,11,11,5,11,11|14,11,8,4,11,9,7",1,WORLD_CUP,MS,824,Qualification,MATSUDAIRA Kenta (JPN),OH Sangeun (KOR),MATSUDAIRA Kenta
+Men's World Cup Moscow 2009,2009-10-16,OH Sangeun,MA Long,4,3,"11,7,15,11,10,9,12|6,11,13,8,12,11,10",QR2,WORLD_CUP,MS,824,Qualification,OH Sangeun (KOR),MA Long (CHN),OH Sangeun
+Men's World Cup Moscow 2009,2009-10-16,SCHLAGER Werner,MATSUDAIRA Kenta,4,1,"10,11,11,11,11|12,8,6,7,4",QR2,WORLD_CUP,MS,824,Qualification,SCHLAGER Werner (AUT),MATSUDAIRA Kenta (JPN),SCHLAGER Werner
+Men's World Cup Moscow 2009,2009-10-16,MA Long,MATSUDAIRA Kenta,4,0,"11,14,11,11|3,12,3,9",3,WORLD_CUP,MS,824,Qualification,MA Long (CHN),MATSUDAIRA Kenta (JPN),MA Long
+Men's World Cup Moscow 2009,2009-10-16,OH Sangeun,SCHLAGER Werner,4,1,"5,11,11,11,11|11,5,5,5,6",3,WORLD_CUP,MS,824,Qualification,OH Sangeun (KOR),SCHLAGER Werner (AUT),OH Sangeun
+Men's World Cup Moscow 2009,2009-10-16,BOLL Timo,KREANGA Kalinikos,4,2,"10,11,11,11,10,11|12,3,8,5,12,7",,WORLD_CUP,MS,824,Qualification,BOLL Timo (GER),KREANGA Kalinikos (GRE),BOLL Timo
+Men's World Cup Moscow 2009,2009-10-16,SMIRNOV Alexey,JOO Saehyuk,4,3,"11,13,4,10,12,5,12|6,11,11,12,10,11,10",1,WORLD_CUP,MS,824,Qualification,SMIRNOV Alexey (RUS),JOO Saehyuk (KOR),SMIRNOV Alexey
+Men's World Cup Moscow 2009,2009-10-16,BOLL Timo,JOO Saehyuk,4,2,"11,9,11,5,11,11|2,11,1,11,3,9",QR2,WORLD_CUP,MS,824,Qualification,BOLL Timo (GER),JOO Saehyuk (KOR),BOLL Timo
+Men's World Cup Moscow 2009,2009-10-16,KREANGA Kalinikos,SMIRNOV Alexey,4,1,"11,11,11,4,14|7,9,6,11,12",QR2,WORLD_CUP,MS,824,Qualification,KREANGA Kalinikos (GRE),SMIRNOV Alexey (RUS),KREANGA Kalinikos
+Men's World Cup Moscow 2009,2009-10-16,BOLL Timo,SMIRNOV Alexey,4,1,"11,11,11,9,11|9,5,8,11,7",3,WORLD_CUP,MS,824,Qualification,BOLL Timo (GER),SMIRNOV Alexey (RUS),BOLL Timo
+Men's World Cup Moscow 2009,2009-10-16,JOO Saehyuk,KREANGA Kalinikos,4,3,"11,3,8,13,9,12,11|8,11,11,11,11,10,6",3,WORLD_CUP,MS,824,Qualification,JOO Saehyuk (KOR),KREANGA Kalinikos (GRE),JOO Saehyuk
+Men's World Cup Moscow 2009,2009-10-16,SAMSONOV Vladimir,CHEUNG Yuk,4,1,"11,13,12,7,11|8,11,10,11,8",,WORLD_CUP,MS,824,Qualification,SAMSONOV Vladimir (BLR),CHEUNG Yuk (HKG),SAMSONOV Vladimir
+Men's World Cup Moscow 2009,2009-10-16,CHEN Qi,MATSUMOTO Cazuo,4,0,"11,11,11,11|5,6,6,5",1,WORLD_CUP,MS,824,Qualification,CHEN Qi (CHN),MATSUMOTO Cazuo (BRA),CHEN Qi
+Men's World Cup Moscow 2009,2009-10-16,CHEUNG Yuk,MATSUMOTO Cazuo,4,1,"11,13,11,11,11|13,11,5,8,4",QR2,WORLD_CUP,MS,824,Qualification,CHEUNG Yuk (HKG),MATSUMOTO Cazuo (BRA),CHEUNG Yuk
+Men's World Cup Moscow 2009,2009-10-16,SAMSONOV Vladimir,MATSUMOTO Cazuo,4,0,"11,11,11,11|5,8,6,7",3,WORLD_CUP,MS,824,Qualification,SAMSONOV Vladimir (BLR),MATSUMOTO Cazuo (BRA),SAMSONOV Vladimir
+Men's World Cup Moscow 2009,2009-10-16,CHEN Qi,CHEUNG Yuk,4,2,"10,11,11,11,13,12|12,7,8,7,15,10",3,WORLD_CUP,MS,824,Qualification,CHEN Qi (CHN),CHEUNG Yuk (HKG),CHEN Qi
+Men's World Cup Moscow 2009,2009-10-16,OVTCHAROV Dimitrij,MAZE Michael,4,2,"9,11,8,11,11,11|11,3,11,9,7,9",,WORLD_CUP,MS,824,Qualification,OVTCHAROV Dimitrij (GER),MAZE Michael (DEN),OVTCHAROV Dimitrij
+Men's World Cup Moscow 2009,2009-10-16,MIZUTANI Jun,CHUANG Chih-Yuan,4,3,"11,11,11,10,9,3,11|7,6,5,12,11,11,5",1,WORLD_CUP,MS,824,Qualification,MIZUTANI Jun (JPN),CHUANG Chih-Yuan (TPE),MIZUTANI Jun
+Men's World Cup Moscow 2009,2009-10-16,OVTCHAROV Dimitrij,CHUANG Chih-Yuan,4,3,"11,6,11,7,7,11,11|8,11,4,11,11,8,8",QR2,WORLD_CUP,MS,824,Qualification,OVTCHAROV Dimitrij (GER),CHUANG Chih-Yuan (TPE),OVTCHAROV Dimitrij
+Men's World Cup Moscow 2009,2009-10-16,MAZE Michael,MIZUTANI Jun,4,1,"13,10,11,11,11|11,12,8,8,7",QR2,WORLD_CUP,MS,824,Qualification,MAZE Michael (DEN),MIZUTANI Jun (JPN),MAZE Michael
+Men's World Cup Moscow 2009,2009-10-16,MAZE Michael,CHUANG Chih-Yuan,4,2,"11,10,13,8,15,16|8,12,11,11,13,14",3,WORLD_CUP,MS,824,Qualification,MAZE Michael (DEN),CHUANG Chih-Yuan (TPE),MAZE Michael
+Men's World Cup Moscow 2009,2009-10-16,MIZUTANI Jun,OVTCHAROV Dimitrij,4,3,"11,11,11,8,3,9,11|6,7,5,11,11,11,6",3,WORLD_CUP,MS,824,Qualification,MIZUTANI Jun (JPN),OVTCHAROV Dimitrij (GER),MIZUTANI Jun
+Men's World Cup Moscow 2009,2009-10-16,MATSUMOTO Cazuo,FRANK Robert,4,1,,,WORLD_CUP,MS,824,Qualification,MATSUMOTO Cazuo (BRA),FRANK Robert (AUS),MATSUMOTO Cazuo
+Men's World Cup Moscow 2009,2009-10-16,ARUNA Quadri,THERIEN Xavier,4,2,,1,WORLD_CUP,MS,824,Qualification,ARUNA Quadri (NGR),THERIEN Xavier (CAN),ARUNA Quadri
+Men's World Cup Moscow 2009,2009-10-16,MATSUMOTO Cazuo,THERIEN Xavier,4,1,,QR2,WORLD_CUP,MS,824,Qualification,MATSUMOTO Cazuo (BRA),THERIEN Xavier (CAN),MATSUMOTO Cazuo
+Men's World Cup Moscow 2009,2009-10-16,ARUNA Quadri,FRANK Robert,4,0,,QR2,WORLD_CUP,MS,824,Qualification,ARUNA Quadri (NGR),FRANK Robert (AUS),ARUNA Quadri
+Men's World Cup Moscow 2009,2009-10-16,MATSUMOTO Cazuo,ARUNA Quadri,4,2,,3,WORLD_CUP,MS,824,Qualification,MATSUMOTO Cazuo (BRA),ARUNA Quadri (NGR),MATSUMOTO Cazuo
+Men's World Cup Moscow 2009,2009-10-16,THERIEN Xavier,FRANK Robert,4,3,,3,WORLD_CUP,MS,824,Qualification,THERIEN Xavier (CAN),FRANK Robert (AUS),THERIEN Xavier

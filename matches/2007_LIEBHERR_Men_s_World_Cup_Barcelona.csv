@@ -1,31 +1,31 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,WANG Hao,CHUANG Chih-Yuan,4,2,"13,7,9,11,11,11|11,11,11,7,8,5",,WORLD_CUP,MS,1862,Qualification,WANG Hao (CHN),CHUANG Chih-Yuan (TPE)
-LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,RYU Seungmin,HENZELL William,4,0,"14,11,11,11|12,8,4,8",,WORLD_CUP,MS,1862,Qualification,RYU Seungmin (KOR),HENZELL William (AUS)
-LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,WANG Hao,RYU Seungmin,4,1,"13,11,11,11,11|15,7,8,5,6",,WORLD_CUP,MS,1862,Qualification,WANG Hao (CHN),RYU Seungmin (KOR)
-LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,CHUANG Chih-Yuan,HENZELL William,4,1,"6,11,11,11,11|11,7,9,5,8",,WORLD_CUP,MS,1862,Qualification,CHUANG Chih-Yuan (TPE),HENZELL William (AUS)
-LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,WANG Hao,HENZELL William,4,1,"11,11,8,11,11|8,6,11,4,3",,WORLD_CUP,MS,1862,Qualification,WANG Hao (CHN),HENZELL William (AUS)
-LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,RYU Seungmin,CHUANG Chih-Yuan,4,3,"15,7,7,11,7,20,11|13,11,11,7,11,18,9",,WORLD_CUP,MS,1862,Qualification,RYU Seungmin (KOR),CHUANG Chih-Yuan (TPE)
-LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,MA Lin,JOO Saehyuk,4,0,"11,11,11,11|4,0,0,0",,WORLD_CUP,MS,1862,Qualification,MA Lin (CHN),JOO Saehyuk (KOR)
-LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,GAO Ning,DURAN Marc,4,0,"13,12,11,11|11,10,6,4",,WORLD_CUP,MS,1862,Qualification,GAO Ning (SGP),DURAN Marc (ESP)
-LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,MA Lin,GAO Ning,4,2,"12,11,9,9,12,11|10,4,11,11,10,7",,WORLD_CUP,MS,1862,Qualification,MA Lin (CHN),GAO Ning (SGP)
-LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,MA Lin,DURAN Marc,4,0,"11,11,11,11|1,2,6,2",,WORLD_CUP,MS,1862,Qualification,MA Lin (CHN),DURAN Marc (ESP)
-LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,GAO Ning,JOO Saehyuk,4,0,,,WORLD_CUP,MS,1862,Qualification,GAO Ning (SGP),JOO Saehyuk (KOR)
-LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,WANG Liqin,LIU Song,4,0,"11,11,11,11|5,5,6,8",,WORLD_CUP,MS,1862,Qualification,WANG Liqin (CHN),LIU Song (ARG)
-LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,SAMSONOV Vladimir,SALEH Ahmed,4,1,"11,11,5,11,11|6,3,11,5,4",,WORLD_CUP,MS,1862,Qualification,SAMSONOV Vladimir (BLR),SALEH Ahmed (EGY)
-LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,WANG Liqin,SAMSONOV Vladimir,4,0,"11,11,11,11|7,6,2,8",,WORLD_CUP,MS,1862,Qualification,WANG Liqin (CHN),SAMSONOV Vladimir (BLR)
-LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,LIU Song,SALEH Ahmed,4,2,"10,6,11,11,11,13|12,11,6,8,6,11",,WORLD_CUP,MS,1862,Qualification,LIU Song (ARG),SALEH Ahmed (EGY)
-LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,WANG Liqin,SALEH Ahmed,4,0,"11,11,11,11|7,3,4,3",,WORLD_CUP,MS,1862,Qualification,WANG Liqin (CHN),SALEH Ahmed (EGY)
-LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,SAMSONOV Vladimir,LIU Song,4,0,"12,11,11,11|10,3,8,6",,WORLD_CUP,MS,1862,Qualification,SAMSONOV Vladimir (BLR),LIU Song (ARG)
-LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,BOLL Timo,SCHLAGER Werner,4,0,"11,11,11,12|7,7,2,10",,WORLD_CUP,MS,1862,Qualification,BOLL Timo (GER),SCHLAGER Werner (AUT)
-LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,OH Sangeun,PETER-PAUL Pradeeban,4,1,"11,12,12,5,11|5,10,10,11,4",,WORLD_CUP,MS,1862,Qualification,OH Sangeun (KOR),PETER-PAUL Pradeeban (CAN)
-LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,BOLL Timo,OH Sangeun,4,1,"11,7,11,11,11|7,11,7,6,6",,WORLD_CUP,MS,1862,Qualification,BOLL Timo (GER),OH Sangeun (KOR)
-LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,SCHLAGER Werner,PETER-PAUL Pradeeban,4,0,"11,11,11,11|3,6,7,6",,WORLD_CUP,MS,1862,Qualification,SCHLAGER Werner (AUT),PETER-PAUL Pradeeban (CAN)
-LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,BOLL Timo,PETER-PAUL Pradeeban,4,0,"11,11,11,11|5,3,6,5",,WORLD_CUP,MS,1862,Qualification,BOLL Timo (GER),PETER-PAUL Pradeeban (CAN)
-LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,SCHLAGER Werner,OH Sangeun,4,1,"11,11,9,11,11|6,4,11,7,7",,WORLD_CUP,MS,1862,Qualification,SCHLAGER Werner (AUT),OH Sangeun (KOR)
-LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,WANG Hao,GAO Ning,4,2,"11,13,11,11,3,11|2,11,13,4,11,3",QF,WORLD_CUP,MS,1862,Main Draw,WANG Hao (CHN),GAO Ning (SGP)
-LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,BOLL Timo,SAMSONOV Vladimir,4,1,"11,11,11,2,11|3,8,7,11,7",QF,WORLD_CUP,MS,1862,Main Draw,BOLL Timo (GER),SAMSONOV Vladimir (BLR)
-LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,WANG Liqin,SCHLAGER Werner,4,0,"11,11,11,11|7,4,7,9",QF,WORLD_CUP,MS,1862,Main Draw,WANG Liqin (CHN),SCHLAGER Werner (AUT)
-LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,RYU Seungmin,MA Lin,4,1,"12,11,6,13,12|10,7,11,11,10",QF,WORLD_CUP,MS,1862,Main Draw,RYU Seungmin (KOR),MA Lin (CHN)
-LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,WANG Hao,BOLL Timo,4,0,"11,11,11,11|8,8,7,4",SF,WORLD_CUP,MS,1862,Main Draw,WANG Hao (CHN),BOLL Timo (GER)
-LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,RYU Seungmin,WANG Liqin,4,2,"11,4,11,11,4,11|7,11,6,8,11,3",SF,WORLD_CUP,MS,1862,Main Draw,RYU Seungmin (KOR),WANG Liqin (CHN)
-LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,WANG Liqin,BOLL Timo,4,0,"11,11,11,11|8,7,3,9",3RD,WORLD_CUP,MS,1862,Position Draw,WANG Liqin (CHN),BOLL Timo (GER)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,WANG Hao,CHUANG Chih-Yuan,4,2,"13,7,9,11,11,11|11,11,11,7,8,5",,WORLD_CUP,MS,1862,Qualification,WANG Hao (CHN),CHUANG Chih-Yuan (TPE),WANG Hao
+LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,RYU Seungmin,HENZELL William,4,0,"14,11,11,11|12,8,4,8",,WORLD_CUP,MS,1862,Qualification,RYU Seungmin (KOR),HENZELL William (AUS),RYU Seungmin
+LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,WANG Hao,RYU Seungmin,4,1,"13,11,11,11,11|15,7,8,5,6",,WORLD_CUP,MS,1862,Qualification,WANG Hao (CHN),RYU Seungmin (KOR),WANG Hao
+LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,CHUANG Chih-Yuan,HENZELL William,4,1,"6,11,11,11,11|11,7,9,5,8",,WORLD_CUP,MS,1862,Qualification,CHUANG Chih-Yuan (TPE),HENZELL William (AUS),CHUANG Chih-Yuan
+LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,WANG Hao,HENZELL William,4,1,"11,11,8,11,11|8,6,11,4,3",,WORLD_CUP,MS,1862,Qualification,WANG Hao (CHN),HENZELL William (AUS),WANG Hao
+LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,RYU Seungmin,CHUANG Chih-Yuan,4,3,"15,7,7,11,7,20,11|13,11,11,7,11,18,9",,WORLD_CUP,MS,1862,Qualification,RYU Seungmin (KOR),CHUANG Chih-Yuan (TPE),RYU Seungmin
+LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,MA Lin,JOO Saehyuk,4,0,"11,11,11,11|4,0,0,0",,WORLD_CUP,MS,1862,Qualification,MA Lin (CHN),JOO Saehyuk (KOR),MA Lin
+LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,GAO Ning,DURAN Marc,4,0,"13,12,11,11|11,10,6,4",,WORLD_CUP,MS,1862,Qualification,GAO Ning (SGP),DURAN Marc (ESP),GAO Ning
+LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,MA Lin,GAO Ning,4,2,"12,11,9,9,12,11|10,4,11,11,10,7",,WORLD_CUP,MS,1862,Qualification,MA Lin (CHN),GAO Ning (SGP),MA Lin
+LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,MA Lin,DURAN Marc,4,0,"11,11,11,11|1,2,6,2",,WORLD_CUP,MS,1862,Qualification,MA Lin (CHN),DURAN Marc (ESP),MA Lin
+LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,GAO Ning,JOO Saehyuk,4,0,,,WORLD_CUP,MS,1862,Qualification,GAO Ning (SGP),JOO Saehyuk (KOR),GAO Ning
+LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,WANG Liqin,LIU Song,4,0,"11,11,11,11|5,5,6,8",,WORLD_CUP,MS,1862,Qualification,WANG Liqin (CHN),LIU Song (ARG),WANG Liqin
+LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,SAMSONOV Vladimir,SALEH Ahmed,4,1,"11,11,5,11,11|6,3,11,5,4",,WORLD_CUP,MS,1862,Qualification,SAMSONOV Vladimir (BLR),SALEH Ahmed (EGY),SAMSONOV Vladimir
+LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,WANG Liqin,SAMSONOV Vladimir,4,0,"11,11,11,11|7,6,2,8",,WORLD_CUP,MS,1862,Qualification,WANG Liqin (CHN),SAMSONOV Vladimir (BLR),WANG Liqin
+LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,LIU Song,SALEH Ahmed,4,2,"10,6,11,11,11,13|12,11,6,8,6,11",,WORLD_CUP,MS,1862,Qualification,LIU Song (ARG),SALEH Ahmed (EGY),LIU Song
+LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,WANG Liqin,SALEH Ahmed,4,0,"11,11,11,11|7,3,4,3",,WORLD_CUP,MS,1862,Qualification,WANG Liqin (CHN),SALEH Ahmed (EGY),WANG Liqin
+LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,SAMSONOV Vladimir,LIU Song,4,0,"12,11,11,11|10,3,8,6",,WORLD_CUP,MS,1862,Qualification,SAMSONOV Vladimir (BLR),LIU Song (ARG),SAMSONOV Vladimir
+LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,BOLL Timo,SCHLAGER Werner,4,0,"11,11,11,12|7,7,2,10",,WORLD_CUP,MS,1862,Qualification,BOLL Timo (GER),SCHLAGER Werner (AUT),BOLL Timo
+LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,OH Sangeun,PETER-PAUL Pradeeban,4,1,"11,12,12,5,11|5,10,10,11,4",,WORLD_CUP,MS,1862,Qualification,OH Sangeun (KOR),PETER-PAUL Pradeeban (CAN),OH Sangeun
+LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,BOLL Timo,OH Sangeun,4,1,"11,7,11,11,11|7,11,7,6,6",,WORLD_CUP,MS,1862,Qualification,BOLL Timo (GER),OH Sangeun (KOR),BOLL Timo
+LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,SCHLAGER Werner,PETER-PAUL Pradeeban,4,0,"11,11,11,11|3,6,7,6",,WORLD_CUP,MS,1862,Qualification,SCHLAGER Werner (AUT),PETER-PAUL Pradeeban (CAN),SCHLAGER Werner
+LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,BOLL Timo,PETER-PAUL Pradeeban,4,0,"11,11,11,11|5,3,6,5",,WORLD_CUP,MS,1862,Qualification,BOLL Timo (GER),PETER-PAUL Pradeeban (CAN),BOLL Timo
+LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,SCHLAGER Werner,OH Sangeun,4,1,"11,11,9,11,11|6,4,11,7,7",,WORLD_CUP,MS,1862,Qualification,SCHLAGER Werner (AUT),OH Sangeun (KOR),SCHLAGER Werner
+LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,WANG Hao,GAO Ning,4,2,"11,13,11,11,3,11|2,11,13,4,11,3",QF,WORLD_CUP,MS,1862,Main Draw,WANG Hao (CHN),GAO Ning (SGP),WANG Hao
+LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,BOLL Timo,SAMSONOV Vladimir,4,1,"11,11,11,2,11|3,8,7,11,7",QF,WORLD_CUP,MS,1862,Main Draw,BOLL Timo (GER),SAMSONOV Vladimir (BLR),BOLL Timo
+LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,WANG Liqin,SCHLAGER Werner,4,0,"11,11,11,11|7,4,7,9",QF,WORLD_CUP,MS,1862,Main Draw,WANG Liqin (CHN),SCHLAGER Werner (AUT),WANG Liqin
+LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,RYU Seungmin,MA Lin,4,1,"12,11,6,13,12|10,7,11,11,10",QF,WORLD_CUP,MS,1862,Main Draw,RYU Seungmin (KOR),MA Lin (CHN),RYU Seungmin
+LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,WANG Hao,BOLL Timo,4,0,"11,11,11,11|8,8,7,4",SF,WORLD_CUP,MS,1862,Main Draw,WANG Hao (CHN),BOLL Timo (GER),WANG Hao
+LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,RYU Seungmin,WANG Liqin,4,2,"11,4,11,11,4,11|7,11,6,8,11,3",SF,WORLD_CUP,MS,1862,Main Draw,RYU Seungmin (KOR),WANG Liqin (CHN),RYU Seungmin
+LIEBHERR Men's World Cup Barcelona 2007,2007-10-12,WANG Liqin,BOLL Timo,4,0,"11,11,11,11|8,7,3,9",3RD,WORLD_CUP,MS,1862,Position Draw,WANG Liqin (CHN),BOLL Timo (GER),WANG Liqin

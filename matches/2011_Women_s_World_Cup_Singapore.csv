@@ -1,39 +1,39 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Women's World Cup Singapore 2011,2011-10-28,LI Xiaoxia,KIM Kyungah,4,0,"11,11,11,11|4,1,6,4",,WORLD_CUP,WS,763,Qualification,LI Xiaoxia (CHN),KIM Kyungah (KOR)
-Women's World Cup Singapore 2011,2011-10-28,FUKUHARA Ai,SHEN Yanfei,4,1,"11,11,11,4,11|9,7,6,11,4",,WORLD_CUP,WS,763,Qualification,FUKUHARA Ai (JPN),SHEN Yanfei (ESP)
-Women's World Cup Singapore 2011,2011-10-28,LI Xiaoxia,FUKUHARA Ai,4,0,"11,11,11,11|6,3,5,7",,WORLD_CUP,WS,763,Qualification,LI Xiaoxia (CHN),FUKUHARA Ai (JPN)
-Women's World Cup Singapore 2011,2011-10-28,KIM Kyungah,SHEN Yanfei,4,1,"11,11,11,11,11|6,9,9,13,3",,WORLD_CUP,WS,763,Qualification,KIM Kyungah (KOR),SHEN Yanfei (ESP)
-Women's World Cup Singapore 2011,2011-10-28,LI Xiaoxia,SHEN Yanfei,4,0,"11,11,11,11|9,5,2,5",,WORLD_CUP,WS,763,Qualification,LI Xiaoxia (CHN),SHEN Yanfei (ESP)
-Women's World Cup Singapore 2011,2011-10-28,KIM Kyungah,FUKUHARA Ai,4,2,"11,11,5,4,11,11|7,8,11,11,5,9",,WORLD_CUP,WS,763,Qualification,KIM Kyungah (KOR),FUKUHARA Ai (JPN)
-Women's World Cup Singapore 2011,2011-10-28,DING Ning,LI Jiao,4,0,"11,11,14,11|6,8,12,4",,WORLD_CUP,WS,763,Qualification,DING Ning (CHN),LI Jiao (NED)
-Women's World Cup Singapore 2011,2011-10-28,WANG Yuegu,LI Jiawei,4,2,"11,11,11,13,8,11|5,6,8,15,11,8",,WORLD_CUP,WS,763,Qualification,WANG Yuegu (SGP),LI Jiawei (SGP)
-Women's World Cup Singapore 2011,2011-10-28,DING Ning,WANG Yuegu,4,2,"11,12,11,11,11,11|7,14,4,13,6,3",,WORLD_CUP,WS,763,Qualification,DING Ning (CHN),WANG Yuegu (SGP)
-Women's World Cup Singapore 2011,2011-10-28,LI Jiawei,LI Jiao,4,0,"11,11,11,11|4,2,5,9",,WORLD_CUP,WS,763,Qualification,LI Jiawei (SGP),LI Jiao (NED)
-Women's World Cup Singapore 2011,2011-10-28,DING Ning,LI Jiawei,4,2,"11,9,11,8,11,11|7,11,8,11,3,7",,WORLD_CUP,WS,763,Qualification,DING Ning (CHN),LI Jiawei (SGP)
-Women's World Cup Singapore 2011,2011-10-28,WANG Yuegu,LI Jiao,4,0,"11,11,11,11|5,6,8,6",,WORLD_CUP,WS,763,Qualification,WANG Yuegu (SGP),LI Jiao (NED)
-Women's World Cup Singapore 2011,2011-10-28,FENG Tianwei,JIANG Huajun,4,1,"10,11,11,11,11|12,6,7,6,3",,WORLD_CUP,WS,763,Qualification,FENG Tianwei (SGP),JIANG Huajun (HKG)
-Women's World Cup Singapore 2011,2011-10-28,HIRANO Sayaka,WU Xue,4,1,"11,7,11,11,11|7,11,5,6,2",,WORLD_CUP,WS,763,Qualification,HIRANO Sayaka (JPN),WU Xue (DOM)
-Women's World Cup Singapore 2011,2011-10-28,FENG Tianwei,HIRANO Sayaka,4,2,"9,11,11,10,11,11|11,9,7,12,8,5",,WORLD_CUP,WS,763,Qualification,FENG Tianwei (SGP),HIRANO Sayaka (JPN)
-Women's World Cup Singapore 2011,2011-10-28,JIANG Huajun,WU Xue,4,0,"11,11,11,11|5,5,4,7",,WORLD_CUP,WS,763,Qualification,JIANG Huajun (HKG),WU Xue (DOM)
-Women's World Cup Singapore 2011,2011-10-28,FENG Tianwei,WU Xue,4,0,"13,11,12,11|11,9,10,8",,WORLD_CUP,WS,763,Qualification,FENG Tianwei (SGP),WU Xue (DOM)
-Women's World Cup Singapore 2011,2011-10-28,JIANG Huajun,HIRANO Sayaka,4,2,"6,11,8,11,11,11|11,4,11,2,6,5",,WORLD_CUP,WS,763,Qualification,JIANG Huajun (HKG),HIRANO Sayaka (JPN)
-Women's World Cup Singapore 2011,2011-10-28,WU Jiaduo,ISHIKAWA Kasumi,4,1,"9,11,11,11,11|11,8,9,9,6",,WORLD_CUP,WS,763,Qualification,WU Jiaduo (GER),ISHIKAWA Kasumi (JPN)
-Women's World Cup Singapore 2011,2011-10-28,PAVLOVICH Viktoria,TIE Yana,4,1,"11,7,11,11,11|8,11,4,8,4",,WORLD_CUP,WS,763,Qualification,PAVLOVICH Viktoria (BLR),TIE Yana (HKG)
-Women's World Cup Singapore 2011,2011-10-28,TIE Yana,ISHIKAWA Kasumi,4,3,"8,11,13,11,11,11,11|11,13,15,7,5,5,7",,WORLD_CUP,WS,763,Qualification,TIE Yana (HKG),ISHIKAWA Kasumi (JPN)
-Women's World Cup Singapore 2011,2011-10-28,WU Jiaduo,PAVLOVICH Viktoria,4,2,"4,9,11,12,11,11|11,11,2,10,9,6",,WORLD_CUP,WS,763,Qualification,WU Jiaduo (GER),PAVLOVICH Viktoria (BLR)
-Women's World Cup Singapore 2011,2011-10-28,ISHIKAWA Kasumi,PAVLOVICH Viktoria,4,1,"5,11,11,12,11|11,9,5,10,6",,WORLD_CUP,WS,763,Qualification,ISHIKAWA Kasumi (JPN),PAVLOVICH Viktoria (BLR)
-Women's World Cup Singapore 2011,2011-10-28,TIE Yana,WU Jiaduo,4,1,"6,12,11,11,11|11,10,5,4,6",,WORLD_CUP,WS,763,Qualification,TIE Yana (HKG),WU Jiaduo (GER)
-Women's World Cup Singapore 2011,2011-10-28,WU Xue,LI Karen,4,3,"11,9,8,13,11,9,11|8,11,11,11,2,11,5",,WORLD_CUP,WS,763,Qualification,WU Xue (DOM),LI Karen (NZL)
-Women's World Cup Singapore 2011,2011-10-28,HSING Ariel,MESHREF Dina,4,0,"11,11,11,11|3,9,9,4",,WORLD_CUP,WS,763,Qualification,HSING Ariel (USA),MESHREF Dina (EGY)
-Women's World Cup Singapore 2011,2011-10-28,HSING Ariel,LI Karen,4,0,"11,11,11,11|6,8,4,9",,WORLD_CUP,WS,763,Qualification,HSING Ariel (USA),LI Karen (NZL)
-Women's World Cup Singapore 2011,2011-10-28,WU Xue,MESHREF Dina,4,0,"11,11,11,11|3,9,9,4",,WORLD_CUP,WS,763,Qualification,WU Xue (DOM),MESHREF Dina (EGY)
-Women's World Cup Singapore 2011,2011-10-28,WU Xue,HSING Ariel,4,2,"9,11,11,11,8,11|11,5,3,7,11,9",,WORLD_CUP,WS,763,Qualification,WU Xue (DOM),HSING Ariel (USA)
-Women's World Cup Singapore 2011,2011-10-28,LI Karen,MESHREF Dina,4,3,"11,8,11,11,6,4,11|7,11,2,3,11,11,8",,WORLD_CUP,WS,763,Qualification,LI Karen (NZL),MESHREF Dina (EGY)
-Women's World Cup Singapore 2011,2011-10-28,LI Xiaoxia,WANG Yuegu,4,2,"10,11,11,11,11,13|12,13,5,7,7,11",QF,WORLD_CUP,WS,763,Main Draw,LI Xiaoxia (CHN),WANG Yuegu (SGP)
-Women's World Cup Singapore 2011,2011-10-28,TIE Yana,JIANG Huajun,4,1,"7,11,13,11,11|11,8,11,6,8",QF,WORLD_CUP,WS,763,Main Draw,TIE Yana (HKG),JIANG Huajun (HKG)
-Women's World Cup Singapore 2011,2011-10-28,FENG Tianwei,WU Jiaduo,4,2,"11,11,8,11,4,14|6,9,11,9,11,12",QF,WORLD_CUP,WS,763,Main Draw,FENG Tianwei (SGP),WU Jiaduo (GER)
-Women's World Cup Singapore 2011,2011-10-28,DING Ning,KIM Kyungah,4,0,"11,11,11,11|4,7,9,8",QF,WORLD_CUP,WS,763,Main Draw,DING Ning (CHN),KIM Kyungah (KOR)
-Women's World Cup Singapore 2011,2011-10-28,LI Xiaoxia,TIE Yana,4,2,"6,12,9,11,12,11|11,10,11,7,10,1",SF,WORLD_CUP,WS,763,Main Draw,LI Xiaoxia (CHN),TIE Yana (HKG)
-Women's World Cup Singapore 2011,2011-10-28,DING Ning,FENG Tianwei,4,1,"7,11,11,11,11|11,9,4,6,4",SF,WORLD_CUP,WS,763,Main Draw,DING Ning (CHN),FENG Tianwei (SGP)
-Women's World Cup Singapore 2011,2011-10-28,DING Ning,LI Xiaoxia,4,1,"11,11,7,14,11|9,5,11,12,9",F,WORLD_CUP,WS,763,Main Draw,DING Ning (CHN),LI Xiaoxia (CHN)
-Women's World Cup Singapore 2011,2011-10-28,TIE Yana,FENG Tianwei,4,1,"3,11,11,11,11|11,6,9,5,9",3RD,WORLD_CUP,WS,763,Position Draw,TIE Yana (HKG),FENG Tianwei (SGP)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Women's World Cup Singapore 2011,2011-10-28,LI Xiaoxia,KIM Kyungah,4,0,"11,11,11,11|4,1,6,4",,WORLD_CUP,WS,763,Qualification,LI Xiaoxia (CHN),KIM Kyungah (KOR),LI Xiaoxia
+Women's World Cup Singapore 2011,2011-10-28,FUKUHARA Ai,SHEN Yanfei,4,1,"11,11,11,4,11|9,7,6,11,4",,WORLD_CUP,WS,763,Qualification,FUKUHARA Ai (JPN),SHEN Yanfei (ESP),FUKUHARA Ai
+Women's World Cup Singapore 2011,2011-10-28,LI Xiaoxia,FUKUHARA Ai,4,0,"11,11,11,11|6,3,5,7",,WORLD_CUP,WS,763,Qualification,LI Xiaoxia (CHN),FUKUHARA Ai (JPN),LI Xiaoxia
+Women's World Cup Singapore 2011,2011-10-28,KIM Kyungah,SHEN Yanfei,4,1,"11,11,11,11,11|6,9,9,13,3",,WORLD_CUP,WS,763,Qualification,KIM Kyungah (KOR),SHEN Yanfei (ESP),KIM Kyungah
+Women's World Cup Singapore 2011,2011-10-28,LI Xiaoxia,SHEN Yanfei,4,0,"11,11,11,11|9,5,2,5",,WORLD_CUP,WS,763,Qualification,LI Xiaoxia (CHN),SHEN Yanfei (ESP),LI Xiaoxia
+Women's World Cup Singapore 2011,2011-10-28,KIM Kyungah,FUKUHARA Ai,4,2,"11,11,5,4,11,11|7,8,11,11,5,9",,WORLD_CUP,WS,763,Qualification,KIM Kyungah (KOR),FUKUHARA Ai (JPN),KIM Kyungah
+Women's World Cup Singapore 2011,2011-10-28,DING Ning,LI Jiao,4,0,"11,11,14,11|6,8,12,4",,WORLD_CUP,WS,763,Qualification,DING Ning (CHN),LI Jiao (NED),DING Ning
+Women's World Cup Singapore 2011,2011-10-28,WANG Yuegu,LI Jiawei,4,2,"11,11,11,13,8,11|5,6,8,15,11,8",,WORLD_CUP,WS,763,Qualification,WANG Yuegu (SGP),LI Jiawei (SGP),WANG Yuegu
+Women's World Cup Singapore 2011,2011-10-28,DING Ning,WANG Yuegu,4,2,"11,12,11,11,11,11|7,14,4,13,6,3",,WORLD_CUP,WS,763,Qualification,DING Ning (CHN),WANG Yuegu (SGP),DING Ning
+Women's World Cup Singapore 2011,2011-10-28,LI Jiawei,LI Jiao,4,0,"11,11,11,11|4,2,5,9",,WORLD_CUP,WS,763,Qualification,LI Jiawei (SGP),LI Jiao (NED),LI Jiawei
+Women's World Cup Singapore 2011,2011-10-28,DING Ning,LI Jiawei,4,2,"11,9,11,8,11,11|7,11,8,11,3,7",,WORLD_CUP,WS,763,Qualification,DING Ning (CHN),LI Jiawei (SGP),DING Ning
+Women's World Cup Singapore 2011,2011-10-28,WANG Yuegu,LI Jiao,4,0,"11,11,11,11|5,6,8,6",,WORLD_CUP,WS,763,Qualification,WANG Yuegu (SGP),LI Jiao (NED),WANG Yuegu
+Women's World Cup Singapore 2011,2011-10-28,FENG Tianwei,JIANG Huajun,4,1,"10,11,11,11,11|12,6,7,6,3",,WORLD_CUP,WS,763,Qualification,FENG Tianwei (SGP),JIANG Huajun (HKG),FENG Tianwei
+Women's World Cup Singapore 2011,2011-10-28,HIRANO Sayaka,WU Xue,4,1,"11,7,11,11,11|7,11,5,6,2",,WORLD_CUP,WS,763,Qualification,HIRANO Sayaka (JPN),WU Xue (DOM),HIRANO Sayaka
+Women's World Cup Singapore 2011,2011-10-28,FENG Tianwei,HIRANO Sayaka,4,2,"9,11,11,10,11,11|11,9,7,12,8,5",,WORLD_CUP,WS,763,Qualification,FENG Tianwei (SGP),HIRANO Sayaka (JPN),FENG Tianwei
+Women's World Cup Singapore 2011,2011-10-28,JIANG Huajun,WU Xue,4,0,"11,11,11,11|5,5,4,7",,WORLD_CUP,WS,763,Qualification,JIANG Huajun (HKG),WU Xue (DOM),JIANG Huajun
+Women's World Cup Singapore 2011,2011-10-28,FENG Tianwei,WU Xue,4,0,"13,11,12,11|11,9,10,8",,WORLD_CUP,WS,763,Qualification,FENG Tianwei (SGP),WU Xue (DOM),FENG Tianwei
+Women's World Cup Singapore 2011,2011-10-28,JIANG Huajun,HIRANO Sayaka,4,2,"6,11,8,11,11,11|11,4,11,2,6,5",,WORLD_CUP,WS,763,Qualification,JIANG Huajun (HKG),HIRANO Sayaka (JPN),JIANG Huajun
+Women's World Cup Singapore 2011,2011-10-28,WU Jiaduo,ISHIKAWA Kasumi,4,1,"9,11,11,11,11|11,8,9,9,6",,WORLD_CUP,WS,763,Qualification,WU Jiaduo (GER),ISHIKAWA Kasumi (JPN),WU Jiaduo
+Women's World Cup Singapore 2011,2011-10-28,PAVLOVICH Viktoria,TIE Yana,4,1,"11,7,11,11,11|8,11,4,8,4",,WORLD_CUP,WS,763,Qualification,PAVLOVICH Viktoria (BLR),TIE Yana (HKG),PAVLOVICH Viktoria
+Women's World Cup Singapore 2011,2011-10-28,TIE Yana,ISHIKAWA Kasumi,4,3,"8,11,13,11,11,11,11|11,13,15,7,5,5,7",,WORLD_CUP,WS,763,Qualification,TIE Yana (HKG),ISHIKAWA Kasumi (JPN),TIE Yana
+Women's World Cup Singapore 2011,2011-10-28,WU Jiaduo,PAVLOVICH Viktoria,4,2,"4,9,11,12,11,11|11,11,2,10,9,6",,WORLD_CUP,WS,763,Qualification,WU Jiaduo (GER),PAVLOVICH Viktoria (BLR),WU Jiaduo
+Women's World Cup Singapore 2011,2011-10-28,ISHIKAWA Kasumi,PAVLOVICH Viktoria,4,1,"5,11,11,12,11|11,9,5,10,6",,WORLD_CUP,WS,763,Qualification,ISHIKAWA Kasumi (JPN),PAVLOVICH Viktoria (BLR),ISHIKAWA Kasumi
+Women's World Cup Singapore 2011,2011-10-28,TIE Yana,WU Jiaduo,4,1,"6,12,11,11,11|11,10,5,4,6",,WORLD_CUP,WS,763,Qualification,TIE Yana (HKG),WU Jiaduo (GER),TIE Yana
+Women's World Cup Singapore 2011,2011-10-28,WU Xue,LI Karen,4,3,"11,9,8,13,11,9,11|8,11,11,11,2,11,5",,WORLD_CUP,WS,763,Qualification,WU Xue (DOM),LI Karen (NZL),WU Xue
+Women's World Cup Singapore 2011,2011-10-28,HSING Ariel,MESHREF Dina,4,0,"11,11,11,11|3,9,9,4",,WORLD_CUP,WS,763,Qualification,HSING Ariel (USA),MESHREF Dina (EGY),HSING Ariel
+Women's World Cup Singapore 2011,2011-10-28,HSING Ariel,LI Karen,4,0,"11,11,11,11|6,8,4,9",,WORLD_CUP,WS,763,Qualification,HSING Ariel (USA),LI Karen (NZL),HSING Ariel
+Women's World Cup Singapore 2011,2011-10-28,WU Xue,MESHREF Dina,4,0,"11,11,11,11|3,9,9,4",,WORLD_CUP,WS,763,Qualification,WU Xue (DOM),MESHREF Dina (EGY),WU Xue
+Women's World Cup Singapore 2011,2011-10-28,WU Xue,HSING Ariel,4,2,"9,11,11,11,8,11|11,5,3,7,11,9",,WORLD_CUP,WS,763,Qualification,WU Xue (DOM),HSING Ariel (USA),WU Xue
+Women's World Cup Singapore 2011,2011-10-28,LI Karen,MESHREF Dina,4,3,"11,8,11,11,6,4,11|7,11,2,3,11,11,8",,WORLD_CUP,WS,763,Qualification,LI Karen (NZL),MESHREF Dina (EGY),LI Karen
+Women's World Cup Singapore 2011,2011-10-28,LI Xiaoxia,WANG Yuegu,4,2,"10,11,11,11,11,13|12,13,5,7,7,11",QF,WORLD_CUP,WS,763,Main Draw,LI Xiaoxia (CHN),WANG Yuegu (SGP),LI Xiaoxia
+Women's World Cup Singapore 2011,2011-10-28,TIE Yana,JIANG Huajun,4,1,"7,11,13,11,11|11,8,11,6,8",QF,WORLD_CUP,WS,763,Main Draw,TIE Yana (HKG),JIANG Huajun (HKG),TIE Yana
+Women's World Cup Singapore 2011,2011-10-28,FENG Tianwei,WU Jiaduo,4,2,"11,11,8,11,4,14|6,9,11,9,11,12",QF,WORLD_CUP,WS,763,Main Draw,FENG Tianwei (SGP),WU Jiaduo (GER),FENG Tianwei
+Women's World Cup Singapore 2011,2011-10-28,DING Ning,KIM Kyungah,4,0,"11,11,11,11|4,7,9,8",QF,WORLD_CUP,WS,763,Main Draw,DING Ning (CHN),KIM Kyungah (KOR),DING Ning
+Women's World Cup Singapore 2011,2011-10-28,LI Xiaoxia,TIE Yana,4,2,"6,12,9,11,12,11|11,10,11,7,10,1",SF,WORLD_CUP,WS,763,Main Draw,LI Xiaoxia (CHN),TIE Yana (HKG),LI Xiaoxia
+Women's World Cup Singapore 2011,2011-10-28,DING Ning,FENG Tianwei,4,1,"7,11,11,11,11|11,9,4,6,4",SF,WORLD_CUP,WS,763,Main Draw,DING Ning (CHN),FENG Tianwei (SGP),DING Ning
+Women's World Cup Singapore 2011,2011-10-28,DING Ning,LI Xiaoxia,4,1,"11,11,7,14,11|9,5,11,12,9",F,WORLD_CUP,WS,763,Main Draw,DING Ning (CHN),LI Xiaoxia (CHN),DING Ning
+Women's World Cup Singapore 2011,2011-10-28,TIE Yana,FENG Tianwei,4,1,"3,11,11,11,11|11,6,9,5,9",3RD,WORLD_CUP,WS,763,Position Draw,TIE Yana (HKG),FENG Tianwei (SGP),TIE Yana

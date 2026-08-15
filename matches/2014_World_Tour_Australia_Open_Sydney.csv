@@ -1,225 +1,225 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-World Tour Australia Open Sydney 2014,2014-05-21,YU Jiaqing,TOWNSEND Wade,4,0,"11,11,11,11|9,2,9,5",,GRAND_SLAM,MS,131,Qualification,YU Jiaqing (SGP),TOWNSEND Wade (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,YU Jiaqing,KRIER Hugo,4,2,"11,11,9,11,9,11|5,7,11,2,11,5",,GRAND_SLAM,MS,131,Qualification,YU Jiaqing (SGP),KRIER Hugo (LUX)
-World Tour Australia Open Sydney 2014,2014-05-21,TOWNSEND Wade,KRIER Hugo,4,1,"11,12,11,11,11|4,14,4,8,5",,GRAND_SLAM,MS,131,Qualification,KRIER Hugo (LUX),TOWNSEND Wade (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,NUYTINCK Cedric,HOTZ Christian,4,0,"11,11,11,11|4,8,3,6",,GRAND_SLAM,MS,131,Qualification,NUYTINCK Cedric (BEL),HOTZ Christian (SUI)
-World Tour Australia Open Sydney 2014,2014-05-21,NUYTINCK Cedric,LAM Jayden,4,0,"11,11,11,11|4,3,4,5",,GRAND_SLAM,MS,131,Qualification,NUYTINCK Cedric (BEL),LAM Jayden (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,HOTZ Christian,LAM Jayden,4,0,"11,11,11,11|4,4,7,4",,GRAND_SLAM,MS,131,Qualification,LAM Jayden (AUS),HOTZ Christian (SUI)
-World Tour Australia Open Sydney 2014,2014-05-21,HUNG Ka Tak,TSAO Erny,4,0,"11,11,11,11|6,4,9,8",,GRAND_SLAM,MS,131,Qualification,HUNG Ka Tak (HKG),TSAO Erny (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,TSUBOI Yuma,HUNG Ka Tak,4,0,"11,11,11,11|8,2,3,6",,GRAND_SLAM,MS,131,Qualification,HUNG Ka Tak (HKG),TSUBOI Yuma (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,TSUBOI Yuma,TSAO Erny,4,0,"11,11,11,15|5,3,2,13",,GRAND_SLAM,MS,131,Qualification,TSUBOI Yuma (JPN),TSAO Erny (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,JENKINS Ryan,VONG Alexandre,4,0,"11,11,11,11|7,7,6,6",,GRAND_SLAM,MS,131,Qualification,JENKINS Ryan (WAL),VONG Alexandre (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,JENKINS Ryan,MURPHY John,4,0,"11,11,12,11|9,8,10,4",,GRAND_SLAM,MS,131,Qualification,JENKINS Ryan (WAL),MURPHY John (IRL)
-World Tour Australia Open Sydney 2014,2014-05-21,MURPHY John,VONG Alexandre,4,3,"11,11,9,11,7,11,11|9,13,11,7,11,9,5",,GRAND_SLAM,MS,131,Qualification,MURPHY John (IRL),VONG Alexandre (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,LAM Siu Hang,GONG Aaron,4,0,"11,11,11,11|8,8,7,8",,GRAND_SLAM,MS,131,Qualification,LAM Siu Hang (HKG),GONG Aaron (NZL)
-World Tour Australia Open Sydney 2014,2014-05-21,LAM Siu Hang,TRAN Kiet,4,1,"11,11,11,4,11|6,5,4,11,8",,GRAND_SLAM,MS,131,Qualification,LAM Siu Hang (HKG),TRAN Kiet (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,TRAN Kiet,GONG Aaron,4,0,"11,13,11,11|8,11,8,9",,GRAND_SLAM,MS,131,Qualification,TRAN Kiet (AUS),GONG Aaron (NZL)
-World Tour Australia Open Sydney 2014,2014-05-21,XIAO Phillip,CHEW Clarence,4,3,"9,2,11,13,8,11,11|11,11,8,11,11,8,8",,GRAND_SLAM,MS,131,Qualification,CHEW Clarence (SGP),XIAO Phillip (NZL)
-World Tour Australia Open Sydney 2014,2014-05-21,CHEW Clarence,SHIBAJI Datta,4,0,"11,12,11,11|6,10,6,4",,GRAND_SLAM,MS,131,Qualification,CHEW Clarence (SGP),SHIBAJI Datta (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,XIAO Phillip,SHIBAJI Datta,4,2,"3,12,11,11,11,11|11,14,8,7,8,8",,GRAND_SLAM,MS,131,Qualification,SHIBAJI Datta (AUS),XIAO Phillip (NZL)
-World Tour Australia Open Sydney 2014,2014-05-21,ROY Soumyadeep,TANJOUR Mazen,4,1,"11,11,11,8,11|3,5,5,11,0",,GRAND_SLAM,MS,131,Qualification,ROY Soumyadeep (IND),TANJOUR Mazen (CAN)
-World Tour Australia Open Sydney 2014,2014-05-21,ROY Soumyadeep,TANG George,4,1,"6,11,11,14,11|11,8,8,12,4",,GRAND_SLAM,MS,131,Qualification,ROY Soumyadeep (IND),TANG George (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,TANG George,TANJOUR Mazen,4,3,"11,12,11,11,9,6,11|9,14,6,4,11,11,9",,GRAND_SLAM,MS,131,Qualification,TANG George (AUS),TANJOUR Mazen (CAN)
-World Tour Australia Open Sydney 2014,2014-05-21,WEHKING Lennart,TATCHELL Blake,4,0,"11,11,11,11|4,6,3,3",,GRAND_SLAM,MS,131,Qualification,WEHKING Lennart (GER),TATCHELL Blake (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,YAN Xin,TRAN Vinh Phat,4,0,"11,11,11,11|3,4,8,8",,GRAND_SLAM,MS,131,Qualification,TRAN Vinh Phat (VIE),YAN Xin (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,WEHKING Lennart,TRAN Vinh Phat,4,0,"11,11,12,11|5,8,10,7",,GRAND_SLAM,MS,131,Qualification,WEHKING Lennart (GER),TRAN Vinh Phat (VIE)
-World Tour Australia Open Sydney 2014,2014-05-21,YAN Xin,TATCHELL Blake,4,0,"11,11,11,12|5,3,6,10",,GRAND_SLAM,MS,131,Qualification,TATCHELL Blake (AUS),YAN Xin (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,TRAN Vinh Phat,TATCHELL Blake,4,0,"11,11,11,11|2,6,5,8",,GRAND_SLAM,MS,131,Qualification,TRAN Vinh Phat (VIE),TATCHELL Blake (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,WEHKING Lennart,YAN Xin,4,1,"11,11,9,11,11|4,8,11,7,7",,GRAND_SLAM,MS,131,Qualification,WEHKING Lennart (GER),YAN Xin (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,LI Hon Ming,HIDAKA Tatsuya,4,2,"9,11,11,5,11,11|11,7,8,11,5,6",,GRAND_SLAM,MS,131,Qualification,LI Hon Ming (HKG),HIDAKA Tatsuya (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,TRAN Huy Bao,ZHAO Anthony,4,0,"11,11,11,11|5,3,3,6",,GRAND_SLAM,MS,131,Qualification,TRAN Huy Bao (VIE),ZHAO Anthony (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,LI Hon Ming,TRAN Huy Bao,4,1,"14,14,10,11,11|12,12,12,8,7",,GRAND_SLAM,MS,131,Qualification,LI Hon Ming (HKG),TRAN Huy Bao (VIE)
-World Tour Australia Open Sydney 2014,2014-05-21,HIDAKA Tatsuya,ZHAO Anthony,4,1,"11,11,7,11,11|7,5,11,8,5",,GRAND_SLAM,MS,131,Qualification,HIDAKA Tatsuya (AUS),ZHAO Anthony (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,HIDAKA Tatsuya,TRAN Huy Bao,4,0,"11,11,11,11|8,7,8,7",,GRAND_SLAM,MS,131,Qualification,TRAN Huy Bao (VIE),HIDAKA Tatsuya (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,LI Hon Ming,ZHAO Anthony,4,0,"11,11,11,11|4,7,7,3",,GRAND_SLAM,MS,131,Qualification,LI Hon Ming (HKG),ZHAO Anthony (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,MAK King Ho,ONG Jay,4,0,"11,12,11,11|7,10,9,5",,GRAND_SLAM,MS,131,Qualification,MAK King Ho (HKG),ONG Jay (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,LEONG Chee Feng,HOUGHTON Benjamin,4,1,"14,10,11,11,11|12,12,8,5,5",,GRAND_SLAM,MS,131,Qualification,LEONG Chee Feng (MAS),HOUGHTON Benjamin (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,MAK King Ho,LEONG Chee Feng,4,2,"9,11,11,8,13,11|11,4,7,11,11,4",,GRAND_SLAM,MS,131,Qualification,MAK King Ho (HKG),LEONG Chee Feng (MAS)
-World Tour Australia Open Sydney 2014,2014-05-21,HOUGHTON Benjamin,ONG Jay,4,0,"11,11,11,11|9,5,5,6",,GRAND_SLAM,MS,131,Qualification,ONG Jay (AUS),HOUGHTON Benjamin (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,LEONG Chee Feng,ONG Jay,4,0,"11,11,11,11|4,7,4,3",,GRAND_SLAM,MS,131,Qualification,LEONG Chee Feng (MAS),ONG Jay (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,MAK King Ho,HOUGHTON Benjamin,4,1,"11,11,10,11,11|3,3,12,1,3",,GRAND_SLAM,MS,131,Qualification,MAK King Ho (HKG),HOUGHTON Benjamin (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,LIU Tengteng,POUNGSRI Max,4,3,"11,11,8,14,11,8,11|9,13,11,12,8,11,9",,GRAND_SLAM,MS,131,Qualification,POUNGSRI Max (THA),LIU Tengteng (NZL)
-World Tour Australia Open Sydney 2014,2014-05-21,HAIQAL Muhamad Ashraf,HU Heming,4,3,"6,7,11,11,8,11,11|11,11,9,4,11,9,5",,GRAND_SLAM,MS,131,Qualification,HAIQAL Muhamad Ashraf (MAS),HU Heming (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,POUNGSRI Max,HAIQAL Muhamad Ashraf,4,0,"11,11,11,11|4,9,4,5",,GRAND_SLAM,MS,131,Qualification,POUNGSRI Max (THA),HAIQAL Muhamad Ashraf (MAS)
-World Tour Australia Open Sydney 2014,2014-05-21,LIU Tengteng,HU Heming,4,3,"12,11,9,8,11,10,11|10,8,11,11,7,12,6",,GRAND_SLAM,MS,131,Qualification,LIU Tengteng (NZL),HU Heming (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,HAIQAL Muhamad Ashraf,LIU Tengteng,4,1,"8,11,11,11,11|11,6,9,7,9",,GRAND_SLAM,MS,131,Qualification,HAIQAL Muhamad Ashraf (MAS),LIU Tengteng (NZL)
-World Tour Australia Open Sydney 2014,2014-05-21,POUNGSRI Max,HU Heming,4,0,"11,11,11,11|3,2,4,7",,GRAND_SLAM,MS,131,Qualification,POUNGSRI Max (THA),HU Heming (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,POWELL David,TOWNSEND Kane,4,1,"7,11,11,11,11|11,8,6,9,9",,GRAND_SLAM,MS,131,Qualification,POWELL David (AUS),TOWNSEND Kane (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,HELBING Bjorn,KWAN Man Ho,4,2,"11,8,11,8,11,11|5,11,8,11,6,7",,GRAND_SLAM,MS,131,Qualification,KWAN Man Ho (HKG),HELBING Bjorn (GER)
-World Tour Australia Open Sydney 2014,2014-05-21,POWELL David,KWAN Man Ho,4,0,"11,11,11,11|8,9,9,9",,GRAND_SLAM,MS,131,Qualification,POWELL David (AUS),KWAN Man Ho (HKG)
-World Tour Australia Open Sydney 2014,2014-05-21,HELBING Bjorn,TOWNSEND Kane,4,3,"5,6,8,11,11,12,11|11,11,11,4,8,10,6",,GRAND_SLAM,MS,131,Qualification,TOWNSEND Kane (AUS),HELBING Bjorn (GER)
-World Tour Australia Open Sydney 2014,2014-05-21,KWAN Man Ho,TOWNSEND Kane,4,2,"8,11,11,8,11,11|11,8,9,11,8,5",,GRAND_SLAM,MS,131,Qualification,KWAN Man Ho (HKG),TOWNSEND Kane (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,HELBING Bjorn,POWELL David,4,3,"9,13,11,5,9,11,11|11,11,9,11,11,1,8",,GRAND_SLAM,MS,131,Qualification,POWELL David (AUS),HELBING Bjorn (GER)
-World Tour Australia Open Sydney 2014,2014-05-21,FUJII Yuko,PATERSON Natalie,4,0,"11,11,11,11|5,2,9,5",,GRAND_SLAM,WS,131,Qualification,FUJII Yuko (JPN),PATERSON Natalie (NZL)
-World Tour Australia Open Sydney 2014,2014-05-21,FUJII Yuko,ZHU Fiona,4,1,"15,11,9,11,11|13,6,11,7,7",,GRAND_SLAM,WS,131,Qualification,FUJII Yuko (JPN),ZHU Fiona (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,ZHU Fiona,PATERSON Natalie,4,0,"11,11,11,12|7,2,3,10",,GRAND_SLAM,WS,131,Qualification,ZHU Fiona (AUS),PATERSON Natalie (NZL)
-World Tour Australia Open Sydney 2014,2014-05-21,ISHIKAWA Rira,DEGTIAR Ioulia,4,1,"11,11,14,11,11|8,8,16,4,6",,GRAND_SLAM,WS,131,Qualification,ISHIKAWA Rira (JPN),DEGTIAR Ioulia (CAN)
-World Tour Australia Open Sydney 2014,2014-05-21,ISHIKAWA Rira,PENG Kai,4,0,"11,11,11,11|4,8,6,8",,GRAND_SLAM,WS,131,Qualification,ISHIKAWA Rira (JPN),PENG Kai (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,PENG Kai,DEGTIAR Ioulia,4,2,"11,4,11,8,12,13|8,11,7,11,10,11",,GRAND_SLAM,WS,131,Qualification,PENG Kai (AUS),DEGTIAR Ioulia (CAN)
-World Tour Australia Open Sydney 2014,2014-05-21,BEH Lee Wei,CHEN Chermaine,4,0,"11,11,11,11|3,5,8,5",,GRAND_SLAM,WS,131,Qualification,BEH Lee Wei (MAS),CHEN Chermaine (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,TAMAISHI Miyuki,BROMLEY Michelle,4,0,"11,11,11,11|7,6,7,9",,GRAND_SLAM,WS,131,Qualification,BROMLEY Michelle (AUS),TAMAISHI Miyuki (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,BEH Lee Wei,BROMLEY Michelle,4,0,"11,11,11,11|9,5,4,9",,GRAND_SLAM,WS,131,Qualification,BEH Lee Wei (MAS),BROMLEY Michelle (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,TAMAISHI Miyuki,CHEN Chermaine,4,0,"11,11,11,11|4,7,8,9",,GRAND_SLAM,WS,131,Qualification,CHEN Chermaine (AUS),TAMAISHI Miyuki (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,CHEN Chermaine,BROMLEY Michelle,4,1,"11,8,11,11,14|9,11,5,8,12",,GRAND_SLAM,WS,131,Qualification,BROMLEY Michelle (AUS),CHEN Chermaine (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,TAMAISHI Miyuki,BEH Lee Wei,4,1,"11,11,11,11,11|13,6,5,9,6",,GRAND_SLAM,WS,131,Qualification,BEH Lee Wei (MAS),TAMAISHI Miyuki (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,HSUEH Ju Fang,MIAO Miao,4,0,"13,11,11,11|11,8,7,7",,GRAND_SLAM,WS,131,Qualification,MIAO Miao (AUS),HSUEH Ju Fang (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,ABE Airi,ZHANG Antonia,4,0,"11,11,11,11|6,6,6,3",,GRAND_SLAM,WS,131,Qualification,ZHANG Antonia (AUS),ABE Airi (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,MIAO Miao,ZHANG Antonia,4,1,"11,11,11,11,12|5,5,13,3,10",,GRAND_SLAM,WS,131,Qualification,MIAO Miao (AUS),ZHANG Antonia (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,ABE Airi,HSUEH Ju Fang,4,1,"11,11,11,8,11|9,6,8,11,8",,GRAND_SLAM,WS,131,Qualification,HSUEH Ju Fang (AUS),ABE Airi (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,HSUEH Ju Fang,ZHANG Antonia,4,0,"11,11,11,11|5,9,6,4",,GRAND_SLAM,WS,131,Qualification,ZHANG Antonia (AUS),HSUEH Ju Fang (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,ABE Airi,MIAO Miao,4,0,"11,11,11,11|4,7,7,9",,GRAND_SLAM,WS,131,Qualification,MIAO Miao (AUS),ABE Airi (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,GHATAK Poulomi,FORSTER Eliza,4,0,"11,11,11,11|5,1,5,1",,GRAND_SLAM,WS,131,Qualification,GHATAK Poulomi (IND),FORSTER Eliza (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,HAYATA Hina,TAPPER Melissa,4,1,"11,13,11,9,11|8,11,4,11,6",,GRAND_SLAM,WS,131,Qualification,TAPPER Melissa (AUS),HAYATA Hina (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,GHATAK Poulomi,TAPPER Melissa,4,2,"7,11,5,11,11,12|11,5,11,9,7,10",,GRAND_SLAM,WS,131,Qualification,GHATAK Poulomi (IND),TAPPER Melissa (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,HAYATA Hina,FORSTER Eliza,4,0,"11,11,11,11|1,1,1,1",,GRAND_SLAM,WS,131,Qualification,FORSTER Eliza (AUS),HAYATA Hina (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,TAPPER Melissa,FORSTER Eliza,4,0,"11,11,11,11|3,1,1,2",,GRAND_SLAM,WS,131,Qualification,TAPPER Melissa (AUS),FORSTER Eliza (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,HAYATA Hina,GHATAK Poulomi,4,0,"11,11,11,11|9,6,6,6",,GRAND_SLAM,WS,131,Qualification,GHATAK Poulomi (IND),HAYATA Hina (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,DEDERKO Zhenhua,ERMAKOVA Irina,4,3,"11,11,11,6,9,8,11|6,8,9,11,11,11,7",,GRAND_SLAM,WS,131,Qualification,ERMAKOVA Irina (RUS),DEDERKO Zhenhua (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,ERMAKOVA Irina,HO Ying,4,1,"4,12,11,11,11|11,10,8,5,7",,GRAND_SLAM,WS,131,Qualification,ERMAKOVA Irina (RUS),HO Ying (MAS)
-World Tour Australia Open Sydney 2014,2014-05-21,DEDERKO Zhenhua,HO Ying,4,2,"11,10,5,11,11,11|3,12,11,3,9,4",,GRAND_SLAM,WS,131,Qualification,HO Ying (MAS),DEDERKO Zhenhua (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,ZHANG Ziyu,YEE Herng Hwee,4,0,"11,11,11,11|8,7,3,6",,GRAND_SLAM,WS,131,Qualification,YEE Herng Hwee (SGP),ZHANG Ziyu (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,KATO Kyoka,LEE Rou You,4,1,"11,11,6,11,11|5,5,11,7,7",,GRAND_SLAM,WS,131,Qualification,LEE Rou You (MAS),KATO Kyoka (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,LEE Rou You,YEE Herng Hwee,4,3,"11,10,11,12,8,9,11|8,12,5,10,11,11,7",,GRAND_SLAM,WS,131,Qualification,YEE Herng Hwee (SGP),LEE Rou You (MAS)
-World Tour Australia Open Sydney 2014,2014-05-21,KATO Kyoka,ZHANG Ziyu,4,0,"11,11,11,11|7,9,6,8",,GRAND_SLAM,WS,131,Qualification,ZHANG Ziyu (AUS),KATO Kyoka (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,ZHANG Ziyu,LEE Rou You,4,0,"11,11,11,11|6,7,8,8",,GRAND_SLAM,WS,131,Qualification,LEE Rou You (MAS),ZHANG Ziyu (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,KATO Kyoka,YEE Herng Hwee,4,0,"11,11,11,11|2,6,5,4",,GRAND_SLAM,WS,131,Qualification,YEE Herng Hwee (SGP),KATO Kyoka (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,NUYTINCK Cedric,TOWNSEND Kane,3,0,"11,11,12|6,3,10",,GRAND_SLAM,U21MS,131,Qualification,NUYTINCK Cedric (BEL),TOWNSEND Kane (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,NUYTINCK Cedric,TSUBOI Yuma,3,1,"11,11,7,11|8,3,11,5",,GRAND_SLAM,U21MS,131,Qualification,NUYTINCK Cedric (BEL),TSUBOI Yuma (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,TSUBOI Yuma,TOWNSEND Kane,3,2,"11,11,8,11,11|5,13,11,8,4",,GRAND_SLAM,U21MS,131,Qualification,TSUBOI Yuma (JPN),TOWNSEND Kane (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,LIU Tengteng,HUNG Ka Tak,3,2,"12,12,7,8,11|10,10,11,11,6",,GRAND_SLAM,U21MS,131,Qualification,HUNG Ka Tak (HKG),LIU Tengteng (NZL)
-World Tour Australia Open Sydney 2014,2014-05-21,HUNG Ka Tak,LAM Jayden,3,0,"11,11,11|5,7,1",,GRAND_SLAM,U21MS,131,Qualification,HUNG Ka Tak (HKG),LAM Jayden (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,LIU Tengteng,LAM Jayden,3,0,"11,11,11|4,3,3",,GRAND_SLAM,U21MS,131,Qualification,LAM Jayden (AUS),LIU Tengteng (NZL)
-World Tour Australia Open Sydney 2014,2014-05-21,LAM Siu Hang,HU Heming,3,1,"11,11,8,11|7,6,11,9",,GRAND_SLAM,U21MS,131,Qualification,LAM Siu Hang (HKG),HU Heming (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,LAM Siu Hang,LEONG Chee Feng,3,1,"11,11,7,11|7,4,11,5",,GRAND_SLAM,U21MS,131,Qualification,LAM Siu Hang (HKG),LEONG Chee Feng (MAS)
-World Tour Australia Open Sydney 2014,2014-05-21,LEONG Chee Feng,HU Heming,3,2,"13,6,8,11,11|11,11,11,7,7",,GRAND_SLAM,U21MS,131,Qualification,LEONG Chee Feng (MAS),HU Heming (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,CHEW Clarence,ZHAO Anthony,3,0,"11,11,11|1,6,6",,GRAND_SLAM,U21MS,131,Qualification,CHEW Clarence (SGP),ZHAO Anthony (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,CHEW Clarence,KWAN Man Ho,3,2,"10,11,11,9,11|12,8,6,11,8",,GRAND_SLAM,U21MS,131,Qualification,CHEW Clarence (SGP),KWAN Man Ho (HKG)
-World Tour Australia Open Sydney 2014,2014-05-21,KWAN Man Ho,ZHAO Anthony,3,0,"11,11,11|6,9,8",,GRAND_SLAM,U21MS,131,Qualification,KWAN Man Ho (HKG),ZHAO Anthony (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,LI Hon Ming,TSAO Erny,3,1,"15,6,12,11|13,11,10,6",,GRAND_SLAM,U21MS,131,Qualification,LI Hon Ming (HKG),TSAO Erny (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,HAIQAL Muhamad Ashraf,LIANG Bob,3,0,"11,11,11|2,6,7",,GRAND_SLAM,U21MS,131,Qualification,HAIQAL Muhamad Ashraf (MAS),LIANG Bob (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,LI Hon Ming,HAIQAL Muhamad Ashraf,3,2,"9,12,9,11,11|11,10,11,8,5",,GRAND_SLAM,U21MS,131,Qualification,LI Hon Ming (HKG),HAIQAL Muhamad Ashraf (MAS)
-World Tour Australia Open Sydney 2014,2014-05-21,TSAO Erny,LIANG Bob,3,1,"11,11,8,11|5,5,11,2",,GRAND_SLAM,U21MS,131,Qualification,TSAO Erny (AUS),LIANG Bob (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,HAIQAL Muhamad Ashraf,TSAO Erny,3,1,"11,6,11,11|6,11,8,6",,GRAND_SLAM,U21MS,131,Qualification,HAIQAL Muhamad Ashraf (MAS),TSAO Erny (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,LI Hon Ming,LIANG Bob,3,0,"11,11,11|4,4,2",,GRAND_SLAM,U21MS,131,Qualification,LI Hon Ming (HKG),LIANG Bob (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,POUNGSRI Max,ONG Jay,3,0,"11,11,11|6,5,5",,GRAND_SLAM,U21MS,131,Qualification,POUNGSRI Max (THA),ONG Jay (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,MAK King Ho,POUNGSRI Max,3,1,"13,15,11,11|11,17,8,3",,GRAND_SLAM,U21MS,131,Qualification,MAK King Ho (HKG),POUNGSRI Max (THA)
-World Tour Australia Open Sydney 2014,2014-05-21,ONG Jay,HOUGHTON Benjamin,3,2,"10,13,16,5,11|12,11,14,11,7",,GRAND_SLAM,U21MS,131,Qualification,HOUGHTON Benjamin (AUS),ONG Jay (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,POUNGSRI Max,HOUGHTON Benjamin,3,1,"11,9,11,11|3,11,8,8",,GRAND_SLAM,U21MS,131,Qualification,POUNGSRI Max (THA),HOUGHTON Benjamin (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,YEE Herng Hwee,FORSTER Eliza,3,0,"11,11,11|5,5,6",,GRAND_SLAM,U21WS,131,Qualification,YEE Herng Hwee (SGP),FORSTER Eliza (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,KATO Kyoka,FORSTER Eliza,3,0,"11,11,11|3,0,2",,GRAND_SLAM,U21WS,131,Qualification,KATO Kyoka (JPN),FORSTER Eliza (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,ABE Airi,LEE Rou You,3,0,"11,11,11|8,9,2",,GRAND_SLAM,U21WS,131,Qualification,LEE Rou You (MAS),ABE Airi (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,ZHU Fiona,LEE Rou You,3,0,"11,11,11|4,9,8",,GRAND_SLAM,U21WS,131,Qualification,LEE Rou You (MAS),ZHU Fiona (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,ABE Airi,ZHU Fiona,3,0,"11,14,11|9,12,9",,GRAND_SLAM,U21WS,131,Qualification,ZHU Fiona (AUS),ABE Airi (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,HAYATA Hina,HO Ying,3,2,"9,11,11,8,11|11,7,5,11,9",,GRAND_SLAM,U21WS,131,Qualification,HO Ying (MAS),HAYATA Hina (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,HO Ying,ZHANG Antonia,3,0,"11,11,11|7,4,4",,GRAND_SLAM,U21WS,131,Qualification,HO Ying (MAS),ZHANG Antonia (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,HAYATA Hina,ZHANG Antonia,3,0,"11,11,11|1,7,6",,GRAND_SLAM,U21WS,131,Qualification,ZHANG Antonia (AUS),HAYATA Hina (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,WONG Chun Ting,HOTZ Christian,4,0,"11,11,11,11|6,4,2,5",R32,GRAND_SLAM,MS,131,Main Draw,WONG Chun Ting (HKG),HOTZ Christian (SUI)
-World Tour Australia Open Sydney 2014,2014-05-21,HUNG Ka Tak,YU Jiaqing,4,2,"11,12,11,11,9,11|5,10,9,13,11,4",R32,GRAND_SLAM,MS,131,Main Draw,HUNG Ka Tak (HKG),YU Jiaqing (SGP)
-World Tour Australia Open Sydney 2014,2014-05-21,HAIQAL Muhamad Ashraf,XIAO Phillip,4,3,"6,11,11,4,12,8,11|11,5,5,11,10,11,9",R32,GRAND_SLAM,MS,131,Main Draw,XIAO Phillip (NZL),HAIQAL Muhamad Ashraf (MAS)
-World Tour Australia Open Sydney 2014,2014-05-21,HENZELL William,CHEW Clarence,4,2,"13,3,12,9,11,11|11,11,10,11,6,8",R32,GRAND_SLAM,MS,131,Main Draw,CHEW Clarence (SGP),HENZELL William (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,WU Zhikang,HELBING Bjorn,4,0,"11,11,11,11|9,3,6,5",R32,GRAND_SLAM,MS,131,Main Draw,WU Zhikang (SGP),HELBING Bjorn (GER)
-World Tour Australia Open Sydney 2014,2014-05-21,LI Hon Ming,ROY Soumyadeep,4,1,"11,11,11,11,11|13,4,6,8,8",R32,GRAND_SLAM,MS,131,Main Draw,LI Hon Ming (HKG),ROY Soumyadeep (IND)
-World Tour Australia Open Sydney 2014,2014-05-21,CHEN Feng,HIDAKA Tatsuya,4,1,"11,11,11,8,11|5,7,4,11,3",R32,GRAND_SLAM,MS,131,Main Draw,HIDAKA Tatsuya (AUS),CHEN Feng (SGP)
-World Tour Australia Open Sydney 2014,2014-05-21,YANG Zi,YAN Xin,4,0,"11,11,11,11|4,7,9,8",R32,GRAND_SLAM,MS,131,Main Draw,YANG Zi (SGP),YAN Xin (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,WEHKING Lennart,POUNGSRI Max,4,1,"11,11,11,11,13|13,4,6,6,11",R32,GRAND_SLAM,MS,131,Main Draw,WEHKING Lennart (GER),POUNGSRI Max (THA)
-World Tour Australia Open Sydney 2014,2014-05-21,SAKAI Asuka,MAK King Ho,4,3,"8,8,11,11,13,9,11|11,11,5,4,11,11,4",R32,GRAND_SLAM,MS,131,Main Draw,MAK King Ho (HKG),SAKAI Asuka (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,SAMBE Kohei,TANG George,4,1,"9,11,11,11,11|11,1,1,3,4",R32,GRAND_SLAM,MS,131,Main Draw,SAMBE Kohei (JPN),TANG George (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,TSUBOI Yuma,LEONG Chee Feng,4,0,"11,11,11,11|9,8,9,3",R32,GRAND_SLAM,MS,131,Main Draw,LEONG Chee Feng (MAS),TSUBOI Yuma (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,NUYTINCK Cedric,TOWNSEND Wade,4,2,"11,7,9,11,11,11|6,11,11,6,6,9",R32,GRAND_SLAM,MS,131,Main Draw,NUYTINCK Cedric (BEL),TOWNSEND Wade (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,ZHAN Jian,POWELL David,4,1,"11,12,11,11,11|7,14,3,3,7",R32,GRAND_SLAM,MS,131,Main Draw,POWELL David (AUS),ZHAN Jian (SGP)
-World Tour Australia Open Sydney 2014,2014-05-21,WONG Chun Ting,HUNG Ka Tak,4,0,"11,11,12,11|6,6,10,5",R16,GRAND_SLAM,MS,131,Main Draw,WONG Chun Ting (HKG),HUNG Ka Tak (HKG)
-World Tour Australia Open Sydney 2014,2014-05-21,HENZELL William,HAIQAL Muhamad Ashraf,4,0,"11,11,11,11|8,9,8,4",R16,GRAND_SLAM,MS,131,Main Draw,HAIQAL Muhamad Ashraf (MAS),HENZELL William (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,WU Zhikang,LI Hon Ming,4,2,"8,11,3,11,11,11|11,3,11,5,8,9",R16,GRAND_SLAM,MS,131,Main Draw,WU Zhikang (SGP),LI Hon Ming (HKG)
-World Tour Australia Open Sydney 2014,2014-05-21,CHEN Feng,JENKINS Ryan,4,0,"11,11,11,11|3,9,6,4",R16,GRAND_SLAM,MS,131,Main Draw,JENKINS Ryan (WAL),CHEN Feng (SGP)
-World Tour Australia Open Sydney 2014,2014-05-21,YANG Zi,LAM Siu Hang,4,1,"4,11,11,11,15|11,8,5,3,13",R16,GRAND_SLAM,MS,131,Main Draw,YANG Zi (SGP),LAM Siu Hang (HKG)
-World Tour Australia Open Sydney 2014,2014-05-21,SAKAI Asuka,WEHKING Lennart,4,0,"11,11,12,11|8,5,10,9",R16,GRAND_SLAM,MS,131,Main Draw,WEHKING Lennart (GER),SAKAI Asuka (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,SAMBE Kohei,TSUBOI Yuma,4,2,"5,5,11,11,11,11|11,11,5,6,9,9",R16,GRAND_SLAM,MS,131,Main Draw,SAMBE Kohei (JPN),TSUBOI Yuma (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,ZHAN Jian,NUYTINCK Cedric,4,3,"8,10,11,11,11,4,11|11,12,5,3,9,11,5",R16,GRAND_SLAM,MS,131,Main Draw,NUYTINCK Cedric (BEL),ZHAN Jian (SGP)
-World Tour Australia Open Sydney 2014,2014-05-21,HENZELL William,WONG Chun Ting,4,2,"8,11,11,5,11,11|11,9,6,11,9,9",QF,GRAND_SLAM,MS,131,Main Draw,WONG Chun Ting (HKG),HENZELL William (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,WU Zhikang,CHEN Feng,4,2,"8,11,11,9,11,11|11,4,7,11,4,7",QF,GRAND_SLAM,MS,131,Main Draw,WU Zhikang (SGP),CHEN Feng (SGP)
-World Tour Australia Open Sydney 2014,2014-05-21,SAKAI Asuka,YANG Zi,4,3,"7,11,11,17,13,17,14|11,9,8,19,15,15,12",QF,GRAND_SLAM,MS,131,Main Draw,YANG Zi (SGP),SAKAI Asuka (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,ZHAN Jian,SAMBE Kohei,4,0,"11,11,11,11|2,9,9,6",QF,GRAND_SLAM,MS,131,Main Draw,SAMBE Kohei (JPN),ZHAN Jian (SGP)
-World Tour Australia Open Sydney 2014,2014-05-21,WU Zhikang,HENZELL William,4,3,"6,11,14,8,11,11,11|11,8,16,11,4,5,9",SF,GRAND_SLAM,MS,131,Main Draw,HENZELL William (AUS),WU Zhikang (SGP)
-World Tour Australia Open Sydney 2014,2014-05-21,ZHAN Jian,SAKAI Asuka,4,1,"10,11,11,11,11|12,9,7,6,9",SF,GRAND_SLAM,MS,131,Main Draw,SAKAI Asuka (JPN),ZHAN Jian (SGP)
-World Tour Australia Open Sydney 2014,2014-05-21,WU Zhikang,ZHAN Jian,4,1,"11,11,11,7,11|6,6,9,11,8",F,GRAND_SLAM,MS,131,Main Draw,WU Zhikang (SGP),ZHAN Jian (SGP)
-World Tour Australia Open Sydney 2014,2014-05-21,FENG Tianwei,FORSTER Eliza,4,0,"11,11,11,11|2,3,1,1",R32,GRAND_SLAM,WS,131,Main Draw,FENG Tianwei (SGP),FORSTER Eliza (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,ERMAKOVA Irina,PATERSON Natalie,4,1,"13,11,7,11,11|11,2,11,8,4",R32,GRAND_SLAM,WS,131,Main Draw,PATERSON Natalie (NZL),ERMAKOVA Irina (RUS)
-World Tour Australia Open Sydney 2014,2014-05-21,ABE Airi,CHEN Chermaine,4,0,"11,11,11,11|7,6,9,7",R32,GRAND_SLAM,WS,131,Main Draw,ABE Airi (JPN),CHEN Chermaine (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,LAY Jian Fang,LEE Rou You,4,0,"11,11,11,11|9,5,3,2",R32,GRAND_SLAM,WS,131,Main Draw,LEE Rou You (MAS),LAY Jian Fang (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,SATO Hitomi,GHATAK Poulomi,4,0,"13,11,11,11|11,8,3,5",R32,GRAND_SLAM,WS,131,Main Draw,SATO Hitomi (JPN),GHATAK Poulomi (IND)
-World Tour Australia Open Sydney 2014,2014-05-21,ISHIKAWA Rira,BEH Lee Wei,4,1,"11,11,11,11,11|5,13,9,8,6",R32,GRAND_SLAM,WS,131,Main Draw,BEH Lee Wei (MAS),ISHIKAWA Rira (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,KATO Kyoka,HSUEH Ju Fang,4,1,"10,11,11,11,11|12,5,4,9,8",R32,GRAND_SLAM,WS,131,Main Draw,KATO Kyoka (JPN),HSUEH Ju Fang (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,ITO Mima,HO Ying,4,0,"11,11,12,11|7,8,10,2",R32,GRAND_SLAM,WS,131,Main Draw,HO Ying (MAS),ITO Mima (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,KATO Miyu,ZHANG Antonia,4,0,"11,11,11,11|3,6,7,9",R32,GRAND_SLAM,WS,131,Main Draw,KATO Miyu (JPN),ZHANG Antonia (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,FUJII Yuko,PENG Kai,4,0,"11,11,11,11|4,7,8,5",R32,GRAND_SLAM,WS,131,Main Draw,PENG Kai (AUS),FUJII Yuko (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,TAMAISHI Miyuki,ZHU Fiona,4,0,"12,11,11,11|10,6,3,9",R32,GRAND_SLAM,WS,131,Main Draw,TAMAISHI Miyuki (JPN),ZHU Fiona (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,TASHIRO Saki,ZHANG Ziyu,4,0,"13,11,11,11|11,7,9,4",R32,GRAND_SLAM,WS,131,Main Draw,ZHANG Ziyu (AUS),TASHIRO Saki (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,KOMWONG Nanthana,TAPPER Melissa,4,0,"11,13,11,11|7,11,7,5",R32,GRAND_SLAM,WS,131,Main Draw,KOMWONG Nanthana (THA),TAPPER Melissa (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,HAYATA Hina,MIAO Miao,4,0,"11,11,11,11|7,7,6,5",R32,GRAND_SLAM,WS,131,Main Draw,MIAO Miao (AUS),HAYATA Hina (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,DEDERKO Zhenhua,DEGTIAR Ioulia,4,1,"12,11,10,11,11|10,6,12,7,7",R32,GRAND_SLAM,WS,131,Main Draw,DEDERKO Zhenhua (AUS),DEGTIAR Ioulia (CAN)
-World Tour Australia Open Sydney 2014,2014-05-21,MORIZONO Misaki,YEE Herng Hwee,4,0,"11,11,11,11|5,4,4,9",R32,GRAND_SLAM,WS,131,Main Draw,YEE Herng Hwee (SGP),MORIZONO Misaki (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,FENG Tianwei,ERMAKOVA Irina,4,1,"11,11,11,11,11|2,4,13,2,3",R16,GRAND_SLAM,WS,131,Main Draw,FENG Tianwei (SGP),ERMAKOVA Irina (RUS)
-World Tour Australia Open Sydney 2014,2014-05-21,ABE Airi,LAY Jian Fang,4,2,"11,11,11,7,12,11|2,3,7,11,14,7",R16,GRAND_SLAM,WS,131,Main Draw,ABE Airi (JPN),LAY Jian Fang (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,SATO Hitomi,ISHIKAWA Rira,4,2,"8,12,16,11,11,11|11,10,18,5,4,7",R16,GRAND_SLAM,WS,131,Main Draw,SATO Hitomi (JPN),ISHIKAWA Rira (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,ITO Mima,KATO Kyoka,4,2,"11,13,4,8,11,11|8,11,11,11,9,6",R16,GRAND_SLAM,WS,131,Main Draw,KATO Kyoka (JPN),ITO Mima (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,FUJII Yuko,KATO Miyu,4,2,"9,11,11,9,11,11|11,6,7,11,7,8",R16,GRAND_SLAM,WS,131,Main Draw,KATO Miyu (JPN),FUJII Yuko (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,TASHIRO Saki,TAMAISHI Miyuki,4,1,"9,11,11,11,11|11,6,6,6,2",R16,GRAND_SLAM,WS,131,Main Draw,TAMAISHI Miyuki (JPN),TASHIRO Saki (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,KOMWONG Nanthana,HAYATA Hina,4,1,"11,11,11,14,11|8,5,7,16,8",R16,GRAND_SLAM,WS,131,Main Draw,KOMWONG Nanthana (THA),HAYATA Hina (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,MORIZONO Misaki,DEDERKO Zhenhua,4,2,"11,11,14,4,11,11|6,3,16,11,5,8",R16,GRAND_SLAM,WS,131,Main Draw,DEDERKO Zhenhua (AUS),MORIZONO Misaki (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,FENG Tianwei,ABE Airi,4,1,"11,11,5,11,11|7,5,11,7,7",QF,GRAND_SLAM,WS,131,Main Draw,FENG Tianwei (SGP),ABE Airi (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,ITO Mima,SATO Hitomi,4,3,"7,17,8,9,11,11,11|11,15,11,11,3,9,9",QF,GRAND_SLAM,WS,131,Main Draw,SATO Hitomi (JPN),ITO Mima (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,TASHIRO Saki,FUJII Yuko,4,1,"11,5,11,11,11|5,11,2,7,5",QF,GRAND_SLAM,WS,131,Main Draw,FUJII Yuko (JPN),TASHIRO Saki (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,MORIZONO Misaki,KOMWONG Nanthana,4,3,"12,8,11,11,13,8,11|10,11,5,13,11,11,9",QF,GRAND_SLAM,WS,131,Main Draw,KOMWONG Nanthana (THA),MORIZONO Misaki (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,FENG Tianwei,ITO Mima,4,0,"11,11,11,11|3,9,3,8",SF,GRAND_SLAM,WS,131,Main Draw,FENG Tianwei (SGP),ITO Mima (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,MORIZONO Misaki,TASHIRO Saki,4,1,"11,11,12,7,11|7,8,10,11,5",SF,GRAND_SLAM,WS,131,Main Draw,TASHIRO Saki (JPN),MORIZONO Misaki (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,FENG Tianwei,MORIZONO Misaki,4,0,"11,12,11,11|5,10,9,4",F,GRAND_SLAM,WS,131,Main Draw,FENG Tianwei (SGP),MORIZONO Misaki (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,KATO Kyoka,HO Ying,3,1,"10,11,11,11|12,7,8,3",R16,GRAND_SLAM,U21WS,131,Main Draw,KATO Kyoka (JPN),HO Ying (MAS)
-World Tour Australia Open Sydney 2014,2014-05-21,SATO Hitomi,ZHANG Antonia,3,0,"11,11,11|1,2,1",R16,GRAND_SLAM,U21WS,131,Main Draw,ZHANG Antonia (AUS),SATO Hitomi (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,ABE Airi,YEE Herng Hwee,3,0,"11,11,11|2,5,6",R16,GRAND_SLAM,U21WS,131,Main Draw,YEE Herng Hwee (SGP),ABE Airi (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,ITO Mima,ZHU Fiona,4,1,"8,11,11,12,11|11,8,6,10,8",QF,GRAND_SLAM,U21WS,131,Main Draw,ITO Mima (JPN),ZHU Fiona (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,SATO Hitomi,KATO Kyoka,4,2,"11,11,9,5,11,11|2,9,11,11,3,6",QF,GRAND_SLAM,U21WS,131,Main Draw,KATO Kyoka (JPN),SATO Hitomi (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,ABE Airi,ISHIKAWA Rira,4,0,"11,11,11,13|4,4,7,11",QF,GRAND_SLAM,U21WS,131,Main Draw,ISHIKAWA Rira (JPN),ABE Airi (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,KATO Miyu,HAYATA Hina,4,0,"11,13,11,11|3,11,4,9",QF,GRAND_SLAM,U21WS,131,Main Draw,HAYATA Hina (JPN),KATO Miyu (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,KATO Miyu,ABE Airi,4,2,"11,11,11,6,11,11|6,13,2,11,4,5",SF,GRAND_SLAM,U21WS,131,Main Draw,ABE Airi (JPN),KATO Miyu (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,ITO Mima,KATO Miyu,4,3,"11,11,9,11,11,8,11|13,8,11,7,4,11,8",F,GRAND_SLAM,U21WS,131,Main Draw,ITO Mima (JPN),KATO Miyu (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,CHEN Feng,KWAN Man Ho,3,0,"11,11,11|7,5,8",R16,GRAND_SLAM,U21MS,131,Main Draw,CHEN Feng (SGP),KWAN Man Ho (HKG)
-World Tour Australia Open Sydney 2014,2014-05-21,LI Hon Ming,LEONG Chee Feng,3,1,"11,11,3,11|5,8,11,9",R16,GRAND_SLAM,U21MS,131,Main Draw,LEONG Chee Feng (MAS),LI Hon Ming (HKG)
-World Tour Australia Open Sydney 2014,2014-05-21,LIU Tengteng,MAK King Ho,3,2,"6,11,11,3,11|11,7,7,11,8",R16,GRAND_SLAM,U21MS,131,Main Draw,MAK King Ho (HKG),LIU Tengteng (NZL)
-World Tour Australia Open Sydney 2014,2014-05-21,SAKAI Asuka,HUNG Ka Tak,3,1,"11,11,8,12|5,9,11,10",R16,GRAND_SLAM,U21MS,131,Main Draw,HUNG Ka Tak (HKG),SAKAI Asuka (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,SAMBE Kohei,POUNGSRI Max,3,0,"11,11,11|8,9,6",R16,GRAND_SLAM,U21MS,131,Main Draw,SAMBE Kohei (JPN),POUNGSRI Max (THA)
-World Tour Australia Open Sydney 2014,2014-05-21,CHEW Clarence,LAM Siu Hang,3,1,"11,17,10,11|7,15,12,9",R16,GRAND_SLAM,U21MS,131,Main Draw,CHEW Clarence (SGP),LAM Siu Hang (HKG)
-World Tour Australia Open Sydney 2014,2014-05-21,NUYTINCK Cedric,HAIQAL Muhamad Ashraf,3,0,"11,11,11|9,6,7",R16,GRAND_SLAM,U21MS,131,Main Draw,NUYTINCK Cedric (BEL),HAIQAL Muhamad Ashraf (MAS)
-World Tour Australia Open Sydney 2014,2014-05-21,TSUBOI Yuma,WU Zhikang,3,2,"11,9,12,10,11|9,11,10,12,9",R16,GRAND_SLAM,U21MS,131,Main Draw,TSUBOI Yuma (JPN),WU Zhikang (SGP)
-World Tour Australia Open Sydney 2014,2014-05-21,LI Hon Ming,CHEN Feng,4,3,"5,11,11,11,8,15,11|11,13,3,8,11,13,8",QF,GRAND_SLAM,U21MS,131,Main Draw,CHEN Feng (SGP),LI Hon Ming (HKG)
-World Tour Australia Open Sydney 2014,2014-05-21,SAKAI Asuka,LIU Tengteng,4,2,"11,11,7,13,10,13|8,7,11,11,12,11",QF,GRAND_SLAM,U21MS,131,Main Draw,LIU Tengteng (NZL),SAKAI Asuka (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,SAMBE Kohei,CHEW Clarence,4,0,"11,11,11,11|4,5,8,1",QF,GRAND_SLAM,U21MS,131,Main Draw,SAMBE Kohei (JPN),CHEW Clarence (SGP)
-World Tour Australia Open Sydney 2014,2014-05-21,SAKAI Asuka,LI Hon Ming,4,3,"6,11,12,7,11,5,11|11,6,10,11,8,11,2",SF,GRAND_SLAM,U21MS,131,Main Draw,LI Hon Ming (HKG),SAKAI Asuka (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,SAMBE Kohei,NUYTINCK Cedric,4,3,"11,8,4,8,11,11,14|8,11,11,11,5,2,12",SF,GRAND_SLAM,U21MS,131,Main Draw,SAMBE Kohei (JPN),NUYTINCK Cedric (BEL)
-World Tour Australia Open Sydney 2014,2014-05-21,SAKAI Asuka,SAMBE Kohei,4,1,"10,11,11,11,11|12,6,8,9,8",F,GRAND_SLAM,U21MS,131,Main Draw,SAKAI Asuka (JPN),SAMBE Kohei (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,KWAN Man Ho/MAK King Ho,HU Heming/YAN Xin,3,2,"11,11,10,12,15|7,9,12,14,13",R16,GRAND_SLAM,MD,131,Main Draw,KWAN Man Ho (HKG) / MAK King Ho (HKG),HU Heming (AUS) / YAN Xin (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,CHEN Feng/WU Zhikang,TOWNSEND Kane/TOWNSEND Wade,3,1,"11,7,11,11|8,11,3,6",R16,GRAND_SLAM,MD,131,Main Draw,CHEN Feng (SGP) / WU Zhikang (SGP),TOWNSEND Kane (AUS) / TOWNSEND Wade (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,HELBING Bjorn/WEHKING Lennart,HENZELL William/POWELL David,3,1,"11,7,11,11|3,11,8,9",R16,GRAND_SLAM,MD,131,Main Draw,HELBING Bjorn (GER) / WEHKING Lennart (GER),HENZELL William (AUS) / POWELL David (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,HO Ying/YEE Herng Hwee,PENG Kai/ZHU Fiona,3,0,"11,11,11|7,9,6",R16,GRAND_SLAM,WD,131,Main Draw,HO Ying (MAS) / YEE Herng Hwee (SGP),PENG Kai (AUS) / ZHU Fiona (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,DEGTIAR Ioulia/ERMAKOVA Irina,DEDERKO Zhenhua/ZHANG Ziyu,3,2,"4,13,11,7,13|11,11,8,11,11",QF,GRAND_SLAM,WD,131,Main Draw,DEGTIAR Ioulia (CAN) / ERMAKOVA Irina (RUS),DEDERKO Zhenhua (AUS) / ZHANG Ziyu (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,LAY Jian Fang/MIAO Miao,GHATAK Poulomi/KOMWONG Nanthana,3,1,"11,8,13,11|6,11,11,9",SF,GRAND_SLAM,WD,131,Main Draw,LAY Jian Fang (AUS) / MIAO Miao (AUS),GHATAK Poulomi (IND) / KOMWONG Nanthana (THA)
-World Tour Australia Open Sydney 2014,2014-05-21,XIAO Phillip/LIU Tengteng,ROY Soumyadeep/SHIBAJI Datta,3,0,"11,11,11|8,4,7",QR16,GRAND_SLAM,MD,131,Qualification,XIAO Phillip (NZL) / LIU Tengteng (NZL),ROY Soumyadeep (IND) / SHIBAJI Datta (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,TANG George/TRAN Kiet,GONG Aaron/TANJOUR Mazen,3,0,"11,11,11|6,7,8",QR16,GRAND_SLAM,MD,131,Qualification,TANG George (AUS) / TRAN Kiet (AUS),GONG Aaron (NZL) / TANJOUR Mazen (CAN)
-World Tour Australia Open Sydney 2014,2014-05-21,HOTZ Christian/NUYTINCK Cedric,TANG George/TRAN Kiet,3,0,"11,11,11|4,9,3",R16,GRAND_SLAM,MD,131,Main Draw,HOTZ Christian (SUI) / NUYTINCK Cedric (BEL),TANG George (AUS) / TRAN Kiet (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,CHEN Feng/WU Zhikang,HOTZ Christian/NUYTINCK Cedric,3,0,"11,11,11|6,7,7",QF,GRAND_SLAM,MD,131,Main Draw,CHEN Feng (SGP) / WU Zhikang (SGP),HOTZ Christian (SUI) / NUYTINCK Cedric (BEL)
-World Tour Australia Open Sydney 2014,2014-05-21,YANG Zi/ZHAN Jian,HELBING Bjorn/WEHKING Lennart,3,1,"11,7,11,11|8,11,7,5",QF,GRAND_SLAM,MD,131,Main Draw,YANG Zi (SGP) / ZHAN Jian (SGP),HELBING Bjorn (GER) / WEHKING Lennart (GER)
-World Tour Australia Open Sydney 2014,2014-05-21,HELBING Bjorn/WEHKING Lennart,VONG Alexandre/ZHAO Anthony,3,0,"11,11,11|6,5,0",QR16,GRAND_SLAM,MD,131,Qualification,HELBING Bjorn (GER) / WEHKING Lennart (GER),VONG Alexandre (AUS) / ZHAO Anthony (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,TANG Peng/WONG Chun Ting,JENKINS Ryan/MURPHY John,3,0,"11,11,11|6,6,3",R16,GRAND_SLAM,MD,131,Main Draw,TANG Peng (HKG) / WONG Chun Ting (HKG),JENKINS Ryan (WAL) / MURPHY John (IRL)
-World Tour Australia Open Sydney 2014,2014-05-21,LAM Siu Hang/LI Hon Ming,CHEW Clarence/YU Jiaqing,3,0,"11,11,11|6,5,6",R16,GRAND_SLAM,MD,131,Main Draw,LAM Siu Hang (HKG) / LI Hon Ming (HKG),CHEW Clarence (SGP) / YU Jiaqing (SGP)
-World Tour Australia Open Sydney 2014,2014-05-21,TANG Peng/WONG Chun Ting,KWAN Man Ho/MAK King Ho,3,0,"11,11,11|5,7,3",QF,GRAND_SLAM,MD,131,Main Draw,TANG Peng (HKG) / WONG Chun Ting (HKG),KWAN Man Ho (HKG) / MAK King Ho (HKG)
-World Tour Australia Open Sydney 2014,2014-05-21,TANG Peng/WONG Chun Ting,CHEN Feng/WU Zhikang,3,0,"11,11,11|7,3,6",SF,GRAND_SLAM,MD,131,Main Draw,TANG Peng (HKG) / WONG Chun Ting (HKG),CHEN Feng (SGP) / WU Zhikang (SGP)
-World Tour Australia Open Sydney 2014,2014-05-21,TANG Peng/WONG Chun Ting,YANG Zi/ZHAN Jian,3,0,"11,11,11|5,9,7",F,GRAND_SLAM,MD,131,Main Draw,TANG Peng (HKG) / WONG Chun Ting (HKG),YANG Zi (SGP) / ZHAN Jian (SGP)
-World Tour Australia Open Sydney 2014,2014-05-21,JENKINS Ryan/MURPHY John,POUNGSRI Max/TSAO Erny,3,0,"11,11,12|6,7,10",QR16,GRAND_SLAM,MD,131,Qualification,JENKINS Ryan (WAL) / MURPHY John (IRL),POUNGSRI Max (THA) / TSAO Erny (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,SAMBE Kohei/TSUBOI Yuma,LEONG Chee Feng/HAIQAL Muhamad Ashraf,3,0,"11,11,11|6,8,5",R16,GRAND_SLAM,MD,131,Main Draw,SAMBE Kohei (JPN) / TSUBOI Yuma (JPN),LEONG Chee Feng (MAS) / HAIQAL Muhamad Ashraf (MAS)
-World Tour Australia Open Sydney 2014,2014-05-21,SAMBE Kohei/TSUBOI Yuma,LAM Siu Hang/LI Hon Ming,3,1,"11,12,8,11|6,10,11,8",QF,GRAND_SLAM,MD,131,Main Draw,SAMBE Kohei (JPN) / TSUBOI Yuma (JPN),LAM Siu Hang (HKG) / LI Hon Ming (HKG)
-World Tour Australia Open Sydney 2014,2014-05-21,YANG Zi/ZHAN Jian,SAMBE Kohei/TSUBOI Yuma,3,1,"11,11,11,14|13,9,6,12",SF,GRAND_SLAM,MD,131,Main Draw,YANG Zi (SGP) / ZHAN Jian (SGP),SAMBE Kohei (JPN) / TSUBOI Yuma (JPN)
-World Tour Australia Open Sydney 2014,2014-05-21,TASHIRO Saki/FUJII Yuko,BROMLEY Michelle/TAPPER Melissa,3,0,"11,11,11|4,5,5",QF,GRAND_SLAM,WD,131,Main Draw,TASHIRO Saki (JPN) / FUJII Yuko (JPN),BROMLEY Michelle (AUS) / TAPPER Melissa (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,TASHIRO Saki/FUJII Yuko,DEGTIAR Ioulia/ERMAKOVA Irina,3,0,"11,11,11|8,7,5",SF,GRAND_SLAM,WD,131,Main Draw,TASHIRO Saki (JPN) / FUJII Yuko (JPN),DEGTIAR Ioulia (CAN) / ERMAKOVA Irina (RUS)
-World Tour Australia Open Sydney 2014,2014-05-21,TASHIRO Saki/FUJII Yuko,LAY Jian Fang/MIAO Miao,3,0,"11,11,11|1,4,7",F,GRAND_SLAM,WD,131,Main Draw,TASHIRO Saki (JPN) / FUJII Yuko (JPN),LAY Jian Fang (AUS) / MIAO Miao (AUS)
-World Tour Australia Open Sydney 2014,2014-05-21,YANG Zi/ZHAN Jian,XIAO Phillip/LIU Tengteng,3,0,"11,11,11|6,8,6",R16,GRAND_SLAM,MD,131,Main Draw,YANG Zi (SGP) / ZHAN Jian (SGP),XIAO Phillip (NZL) / LIU Tengteng (NZL)
-World Tour Australia Open Sydney 2014,2014-05-21,GHATAK Poulomi/KOMWONG Nanthana,HO Ying/YEE Herng Hwee,3,0,"12,11,11|10,6,3",QF,GRAND_SLAM,WD,131,Main Draw,GHATAK Poulomi (IND) / KOMWONG Nanthana (THA),HO Ying (MAS) / YEE Herng Hwee (SGP)
-World Tour Australia Open Sydney 2014,2014-05-21,HU Heming/YAN Xin,TRAN Vinh Phat/TRAN Huy Bao,3,1,"11,11,10,11|7,7,12,4",QR16,GRAND_SLAM,MD,131,Qualification,HU Heming (AUS) / YAN Xin (AUS),TRAN Vinh Phat (VIE) / TRAN Huy Bao (VIE)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+World Tour Australia Open Sydney 2014,2014-05-21,YU Jiaqing,TOWNSEND Wade,4,0,"11,11,11,11|9,2,9,5",,GRAND_SLAM,MS,131,Qualification,YU Jiaqing (SGP),TOWNSEND Wade (AUS),YU Jiaqing
+World Tour Australia Open Sydney 2014,2014-05-21,YU Jiaqing,KRIER Hugo,4,2,"11,11,9,11,9,11|5,7,11,2,11,5",,GRAND_SLAM,MS,131,Qualification,YU Jiaqing (SGP),KRIER Hugo (LUX),YU Jiaqing
+World Tour Australia Open Sydney 2014,2014-05-21,TOWNSEND Wade,KRIER Hugo,4,1,"11,12,11,11,11|4,14,4,8,5",,GRAND_SLAM,MS,131,Qualification,KRIER Hugo (LUX),TOWNSEND Wade (AUS),TOWNSEND Wade
+World Tour Australia Open Sydney 2014,2014-05-21,NUYTINCK Cedric,HOTZ Christian,4,0,"11,11,11,11|4,8,3,6",,GRAND_SLAM,MS,131,Qualification,NUYTINCK Cedric (BEL),HOTZ Christian (SUI),NUYTINCK Cedric
+World Tour Australia Open Sydney 2014,2014-05-21,NUYTINCK Cedric,LAM Jayden,4,0,"11,11,11,11|4,3,4,5",,GRAND_SLAM,MS,131,Qualification,NUYTINCK Cedric (BEL),LAM Jayden (AUS),NUYTINCK Cedric
+World Tour Australia Open Sydney 2014,2014-05-21,HOTZ Christian,LAM Jayden,4,0,"11,11,11,11|4,4,7,4",,GRAND_SLAM,MS,131,Qualification,LAM Jayden (AUS),HOTZ Christian (SUI),HOTZ Christian
+World Tour Australia Open Sydney 2014,2014-05-21,HUNG Ka Tak,TSAO Erny,4,0,"11,11,11,11|6,4,9,8",,GRAND_SLAM,MS,131,Qualification,HUNG Ka Tak (HKG),TSAO Erny (AUS),HUNG Ka Tak
+World Tour Australia Open Sydney 2014,2014-05-21,TSUBOI Yuma,HUNG Ka Tak,4,0,"11,11,11,11|8,2,3,6",,GRAND_SLAM,MS,131,Qualification,HUNG Ka Tak (HKG),TSUBOI Yuma (JPN),TSUBOI Yuma
+World Tour Australia Open Sydney 2014,2014-05-21,TSUBOI Yuma,TSAO Erny,4,0,"11,11,11,15|5,3,2,13",,GRAND_SLAM,MS,131,Qualification,TSUBOI Yuma (JPN),TSAO Erny (AUS),TSUBOI Yuma
+World Tour Australia Open Sydney 2014,2014-05-21,JENKINS Ryan,VONG Alexandre,4,0,"11,11,11,11|7,7,6,6",,GRAND_SLAM,MS,131,Qualification,JENKINS Ryan (WAL),VONG Alexandre (AUS),JENKINS Ryan
+World Tour Australia Open Sydney 2014,2014-05-21,JENKINS Ryan,MURPHY John,4,0,"11,11,12,11|9,8,10,4",,GRAND_SLAM,MS,131,Qualification,JENKINS Ryan (WAL),MURPHY John (IRL),JENKINS Ryan
+World Tour Australia Open Sydney 2014,2014-05-21,MURPHY John,VONG Alexandre,4,3,"11,11,9,11,7,11,11|9,13,11,7,11,9,5",,GRAND_SLAM,MS,131,Qualification,MURPHY John (IRL),VONG Alexandre (AUS),MURPHY John
+World Tour Australia Open Sydney 2014,2014-05-21,LAM Siu Hang,GONG Aaron,4,0,"11,11,11,11|8,8,7,8",,GRAND_SLAM,MS,131,Qualification,LAM Siu Hang (HKG),GONG Aaron (NZL),LAM Siu Hang
+World Tour Australia Open Sydney 2014,2014-05-21,LAM Siu Hang,TRAN Kiet,4,1,"11,11,11,4,11|6,5,4,11,8",,GRAND_SLAM,MS,131,Qualification,LAM Siu Hang (HKG),TRAN Kiet (AUS),LAM Siu Hang
+World Tour Australia Open Sydney 2014,2014-05-21,TRAN Kiet,GONG Aaron,4,0,"11,13,11,11|8,11,8,9",,GRAND_SLAM,MS,131,Qualification,TRAN Kiet (AUS),GONG Aaron (NZL),TRAN Kiet
+World Tour Australia Open Sydney 2014,2014-05-21,XIAO Phillip,CHEW Clarence,4,3,"9,2,11,13,8,11,11|11,11,8,11,11,8,8",,GRAND_SLAM,MS,131,Qualification,CHEW Clarence (SGP),XIAO Phillip (NZL),XIAO Phillip
+World Tour Australia Open Sydney 2014,2014-05-21,CHEW Clarence,SHIBAJI Datta,4,0,"11,12,11,11|6,10,6,4",,GRAND_SLAM,MS,131,Qualification,CHEW Clarence (SGP),SHIBAJI Datta (AUS),CHEW Clarence
+World Tour Australia Open Sydney 2014,2014-05-21,XIAO Phillip,SHIBAJI Datta,4,2,"3,12,11,11,11,11|11,14,8,7,8,8",,GRAND_SLAM,MS,131,Qualification,SHIBAJI Datta (AUS),XIAO Phillip (NZL),XIAO Phillip
+World Tour Australia Open Sydney 2014,2014-05-21,ROY Soumyadeep,TANJOUR Mazen,4,1,"11,11,11,8,11|3,5,5,11,0",,GRAND_SLAM,MS,131,Qualification,ROY Soumyadeep (IND),TANJOUR Mazen (CAN),ROY Soumyadeep
+World Tour Australia Open Sydney 2014,2014-05-21,ROY Soumyadeep,TANG George,4,1,"6,11,11,14,11|11,8,8,12,4",,GRAND_SLAM,MS,131,Qualification,ROY Soumyadeep (IND),TANG George (AUS),ROY Soumyadeep
+World Tour Australia Open Sydney 2014,2014-05-21,TANG George,TANJOUR Mazen,4,3,"11,12,11,11,9,6,11|9,14,6,4,11,11,9",,GRAND_SLAM,MS,131,Qualification,TANG George (AUS),TANJOUR Mazen (CAN),TANG George
+World Tour Australia Open Sydney 2014,2014-05-21,WEHKING Lennart,TATCHELL Blake,4,0,"11,11,11,11|4,6,3,3",,GRAND_SLAM,MS,131,Qualification,WEHKING Lennart (GER),TATCHELL Blake (AUS),WEHKING Lennart
+World Tour Australia Open Sydney 2014,2014-05-21,YAN Xin,TRAN Vinh Phat,4,0,"11,11,11,11|3,4,8,8",,GRAND_SLAM,MS,131,Qualification,TRAN Vinh Phat (VIE),YAN Xin (AUS),YAN Xin
+World Tour Australia Open Sydney 2014,2014-05-21,WEHKING Lennart,TRAN Vinh Phat,4,0,"11,11,12,11|5,8,10,7",,GRAND_SLAM,MS,131,Qualification,WEHKING Lennart (GER),TRAN Vinh Phat (VIE),WEHKING Lennart
+World Tour Australia Open Sydney 2014,2014-05-21,YAN Xin,TATCHELL Blake,4,0,"11,11,11,12|5,3,6,10",,GRAND_SLAM,MS,131,Qualification,TATCHELL Blake (AUS),YAN Xin (AUS),YAN Xin
+World Tour Australia Open Sydney 2014,2014-05-21,TRAN Vinh Phat,TATCHELL Blake,4,0,"11,11,11,11|2,6,5,8",,GRAND_SLAM,MS,131,Qualification,TRAN Vinh Phat (VIE),TATCHELL Blake (AUS),TRAN Vinh Phat
+World Tour Australia Open Sydney 2014,2014-05-21,WEHKING Lennart,YAN Xin,4,1,"11,11,9,11,11|4,8,11,7,7",,GRAND_SLAM,MS,131,Qualification,WEHKING Lennart (GER),YAN Xin (AUS),WEHKING Lennart
+World Tour Australia Open Sydney 2014,2014-05-21,LI Hon Ming,HIDAKA Tatsuya,4,2,"9,11,11,5,11,11|11,7,8,11,5,6",,GRAND_SLAM,MS,131,Qualification,LI Hon Ming (HKG),HIDAKA Tatsuya (AUS),LI Hon Ming
+World Tour Australia Open Sydney 2014,2014-05-21,TRAN Huy Bao,ZHAO Anthony,4,0,"11,11,11,11|5,3,3,6",,GRAND_SLAM,MS,131,Qualification,TRAN Huy Bao (VIE),ZHAO Anthony (AUS),TRAN Huy Bao
+World Tour Australia Open Sydney 2014,2014-05-21,LI Hon Ming,TRAN Huy Bao,4,1,"14,14,10,11,11|12,12,12,8,7",,GRAND_SLAM,MS,131,Qualification,LI Hon Ming (HKG),TRAN Huy Bao (VIE),LI Hon Ming
+World Tour Australia Open Sydney 2014,2014-05-21,HIDAKA Tatsuya,ZHAO Anthony,4,1,"11,11,7,11,11|7,5,11,8,5",,GRAND_SLAM,MS,131,Qualification,HIDAKA Tatsuya (AUS),ZHAO Anthony (AUS),HIDAKA Tatsuya
+World Tour Australia Open Sydney 2014,2014-05-21,HIDAKA Tatsuya,TRAN Huy Bao,4,0,"11,11,11,11|8,7,8,7",,GRAND_SLAM,MS,131,Qualification,TRAN Huy Bao (VIE),HIDAKA Tatsuya (AUS),HIDAKA Tatsuya
+World Tour Australia Open Sydney 2014,2014-05-21,LI Hon Ming,ZHAO Anthony,4,0,"11,11,11,11|4,7,7,3",,GRAND_SLAM,MS,131,Qualification,LI Hon Ming (HKG),ZHAO Anthony (AUS),LI Hon Ming
+World Tour Australia Open Sydney 2014,2014-05-21,MAK King Ho,ONG Jay,4,0,"11,12,11,11|7,10,9,5",,GRAND_SLAM,MS,131,Qualification,MAK King Ho (HKG),ONG Jay (AUS),MAK King Ho
+World Tour Australia Open Sydney 2014,2014-05-21,LEONG Chee Feng,HOUGHTON Benjamin,4,1,"14,10,11,11,11|12,12,8,5,5",,GRAND_SLAM,MS,131,Qualification,LEONG Chee Feng (MAS),HOUGHTON Benjamin (AUS),LEONG Chee Feng
+World Tour Australia Open Sydney 2014,2014-05-21,MAK King Ho,LEONG Chee Feng,4,2,"9,11,11,8,13,11|11,4,7,11,11,4",,GRAND_SLAM,MS,131,Qualification,MAK King Ho (HKG),LEONG Chee Feng (MAS),MAK King Ho
+World Tour Australia Open Sydney 2014,2014-05-21,HOUGHTON Benjamin,ONG Jay,4,0,"11,11,11,11|9,5,5,6",,GRAND_SLAM,MS,131,Qualification,ONG Jay (AUS),HOUGHTON Benjamin (AUS),HOUGHTON Benjamin
+World Tour Australia Open Sydney 2014,2014-05-21,LEONG Chee Feng,ONG Jay,4,0,"11,11,11,11|4,7,4,3",,GRAND_SLAM,MS,131,Qualification,LEONG Chee Feng (MAS),ONG Jay (AUS),LEONG Chee Feng
+World Tour Australia Open Sydney 2014,2014-05-21,MAK King Ho,HOUGHTON Benjamin,4,1,"11,11,10,11,11|3,3,12,1,3",,GRAND_SLAM,MS,131,Qualification,MAK King Ho (HKG),HOUGHTON Benjamin (AUS),MAK King Ho
+World Tour Australia Open Sydney 2014,2014-05-21,LIU Tengteng,POUNGSRI Max,4,3,"11,11,8,14,11,8,11|9,13,11,12,8,11,9",,GRAND_SLAM,MS,131,Qualification,POUNGSRI Max (THA),LIU Tengteng (NZL),LIU Tengteng
+World Tour Australia Open Sydney 2014,2014-05-21,HAIQAL Muhamad Ashraf,HU Heming,4,3,"6,7,11,11,8,11,11|11,11,9,4,11,9,5",,GRAND_SLAM,MS,131,Qualification,HAIQAL Muhamad Ashraf (MAS),HU Heming (AUS),HAIQAL Muhamad Ashraf
+World Tour Australia Open Sydney 2014,2014-05-21,POUNGSRI Max,HAIQAL Muhamad Ashraf,4,0,"11,11,11,11|4,9,4,5",,GRAND_SLAM,MS,131,Qualification,POUNGSRI Max (THA),HAIQAL Muhamad Ashraf (MAS),POUNGSRI Max
+World Tour Australia Open Sydney 2014,2014-05-21,LIU Tengteng,HU Heming,4,3,"12,11,9,8,11,10,11|10,8,11,11,7,12,6",,GRAND_SLAM,MS,131,Qualification,LIU Tengteng (NZL),HU Heming (AUS),LIU Tengteng
+World Tour Australia Open Sydney 2014,2014-05-21,HAIQAL Muhamad Ashraf,LIU Tengteng,4,1,"8,11,11,11,11|11,6,9,7,9",,GRAND_SLAM,MS,131,Qualification,HAIQAL Muhamad Ashraf (MAS),LIU Tengteng (NZL),HAIQAL Muhamad Ashraf
+World Tour Australia Open Sydney 2014,2014-05-21,POUNGSRI Max,HU Heming,4,0,"11,11,11,11|3,2,4,7",,GRAND_SLAM,MS,131,Qualification,POUNGSRI Max (THA),HU Heming (AUS),POUNGSRI Max
+World Tour Australia Open Sydney 2014,2014-05-21,POWELL David,TOWNSEND Kane,4,1,"7,11,11,11,11|11,8,6,9,9",,GRAND_SLAM,MS,131,Qualification,POWELL David (AUS),TOWNSEND Kane (AUS),POWELL David
+World Tour Australia Open Sydney 2014,2014-05-21,HELBING Bjorn,KWAN Man Ho,4,2,"11,8,11,8,11,11|5,11,8,11,6,7",,GRAND_SLAM,MS,131,Qualification,KWAN Man Ho (HKG),HELBING Bjorn (GER),HELBING Bjorn
+World Tour Australia Open Sydney 2014,2014-05-21,POWELL David,KWAN Man Ho,4,0,"11,11,11,11|8,9,9,9",,GRAND_SLAM,MS,131,Qualification,POWELL David (AUS),KWAN Man Ho (HKG),POWELL David
+World Tour Australia Open Sydney 2014,2014-05-21,HELBING Bjorn,TOWNSEND Kane,4,3,"5,6,8,11,11,12,11|11,11,11,4,8,10,6",,GRAND_SLAM,MS,131,Qualification,TOWNSEND Kane (AUS),HELBING Bjorn (GER),HELBING Bjorn
+World Tour Australia Open Sydney 2014,2014-05-21,KWAN Man Ho,TOWNSEND Kane,4,2,"8,11,11,8,11,11|11,8,9,11,8,5",,GRAND_SLAM,MS,131,Qualification,KWAN Man Ho (HKG),TOWNSEND Kane (AUS),KWAN Man Ho
+World Tour Australia Open Sydney 2014,2014-05-21,HELBING Bjorn,POWELL David,4,3,"9,13,11,5,9,11,11|11,11,9,11,11,1,8",,GRAND_SLAM,MS,131,Qualification,POWELL David (AUS),HELBING Bjorn (GER),HELBING Bjorn
+World Tour Australia Open Sydney 2014,2014-05-21,FUJII Yuko,PATERSON Natalie,4,0,"11,11,11,11|5,2,9,5",,GRAND_SLAM,WS,131,Qualification,FUJII Yuko (JPN),PATERSON Natalie (NZL),FUJII Yuko
+World Tour Australia Open Sydney 2014,2014-05-21,FUJII Yuko,ZHU Fiona,4,1,"15,11,9,11,11|13,6,11,7,7",,GRAND_SLAM,WS,131,Qualification,FUJII Yuko (JPN),ZHU Fiona (AUS),FUJII Yuko
+World Tour Australia Open Sydney 2014,2014-05-21,ZHU Fiona,PATERSON Natalie,4,0,"11,11,11,12|7,2,3,10",,GRAND_SLAM,WS,131,Qualification,ZHU Fiona (AUS),PATERSON Natalie (NZL),ZHU Fiona
+World Tour Australia Open Sydney 2014,2014-05-21,ISHIKAWA Rira,DEGTIAR Ioulia,4,1,"11,11,14,11,11|8,8,16,4,6",,GRAND_SLAM,WS,131,Qualification,ISHIKAWA Rira (JPN),DEGTIAR Ioulia (CAN),ISHIKAWA Rira
+World Tour Australia Open Sydney 2014,2014-05-21,ISHIKAWA Rira,PENG Kai,4,0,"11,11,11,11|4,8,6,8",,GRAND_SLAM,WS,131,Qualification,ISHIKAWA Rira (JPN),PENG Kai (AUS),ISHIKAWA Rira
+World Tour Australia Open Sydney 2014,2014-05-21,PENG Kai,DEGTIAR Ioulia,4,2,"11,4,11,8,12,13|8,11,7,11,10,11",,GRAND_SLAM,WS,131,Qualification,PENG Kai (AUS),DEGTIAR Ioulia (CAN),PENG Kai
+World Tour Australia Open Sydney 2014,2014-05-21,BEH Lee Wei,CHEN Chermaine,4,0,"11,11,11,11|3,5,8,5",,GRAND_SLAM,WS,131,Qualification,BEH Lee Wei (MAS),CHEN Chermaine (AUS),BEH Lee Wei
+World Tour Australia Open Sydney 2014,2014-05-21,TAMAISHI Miyuki,BROMLEY Michelle,4,0,"11,11,11,11|7,6,7,9",,GRAND_SLAM,WS,131,Qualification,BROMLEY Michelle (AUS),TAMAISHI Miyuki (JPN),TAMAISHI Miyuki
+World Tour Australia Open Sydney 2014,2014-05-21,BEH Lee Wei,BROMLEY Michelle,4,0,"11,11,11,11|9,5,4,9",,GRAND_SLAM,WS,131,Qualification,BEH Lee Wei (MAS),BROMLEY Michelle (AUS),BEH Lee Wei
+World Tour Australia Open Sydney 2014,2014-05-21,TAMAISHI Miyuki,CHEN Chermaine,4,0,"11,11,11,11|4,7,8,9",,GRAND_SLAM,WS,131,Qualification,CHEN Chermaine (AUS),TAMAISHI Miyuki (JPN),TAMAISHI Miyuki
+World Tour Australia Open Sydney 2014,2014-05-21,CHEN Chermaine,BROMLEY Michelle,4,1,"11,8,11,11,14|9,11,5,8,12",,GRAND_SLAM,WS,131,Qualification,BROMLEY Michelle (AUS),CHEN Chermaine (AUS),CHEN Chermaine
+World Tour Australia Open Sydney 2014,2014-05-21,TAMAISHI Miyuki,BEH Lee Wei,4,1,"11,11,11,11,11|13,6,5,9,6",,GRAND_SLAM,WS,131,Qualification,BEH Lee Wei (MAS),TAMAISHI Miyuki (JPN),TAMAISHI Miyuki
+World Tour Australia Open Sydney 2014,2014-05-21,HSUEH Ju Fang,MIAO Miao,4,0,"13,11,11,11|11,8,7,7",,GRAND_SLAM,WS,131,Qualification,MIAO Miao (AUS),HSUEH Ju Fang (AUS),HSUEH Ju Fang
+World Tour Australia Open Sydney 2014,2014-05-21,ABE Airi,ZHANG Antonia,4,0,"11,11,11,11|6,6,6,3",,GRAND_SLAM,WS,131,Qualification,ZHANG Antonia (AUS),ABE Airi (JPN),ABE Airi
+World Tour Australia Open Sydney 2014,2014-05-21,MIAO Miao,ZHANG Antonia,4,1,"11,11,11,11,12|5,5,13,3,10",,GRAND_SLAM,WS,131,Qualification,MIAO Miao (AUS),ZHANG Antonia (AUS),MIAO Miao
+World Tour Australia Open Sydney 2014,2014-05-21,ABE Airi,HSUEH Ju Fang,4,1,"11,11,11,8,11|9,6,8,11,8",,GRAND_SLAM,WS,131,Qualification,HSUEH Ju Fang (AUS),ABE Airi (JPN),ABE Airi
+World Tour Australia Open Sydney 2014,2014-05-21,HSUEH Ju Fang,ZHANG Antonia,4,0,"11,11,11,11|5,9,6,4",,GRAND_SLAM,WS,131,Qualification,ZHANG Antonia (AUS),HSUEH Ju Fang (AUS),HSUEH Ju Fang
+World Tour Australia Open Sydney 2014,2014-05-21,ABE Airi,MIAO Miao,4,0,"11,11,11,11|4,7,7,9",,GRAND_SLAM,WS,131,Qualification,MIAO Miao (AUS),ABE Airi (JPN),ABE Airi
+World Tour Australia Open Sydney 2014,2014-05-21,GHATAK Poulomi,FORSTER Eliza,4,0,"11,11,11,11|5,1,5,1",,GRAND_SLAM,WS,131,Qualification,GHATAK Poulomi (IND),FORSTER Eliza (AUS),GHATAK Poulomi
+World Tour Australia Open Sydney 2014,2014-05-21,HAYATA Hina,TAPPER Melissa,4,1,"11,13,11,9,11|8,11,4,11,6",,GRAND_SLAM,WS,131,Qualification,TAPPER Melissa (AUS),HAYATA Hina (JPN),HAYATA Hina
+World Tour Australia Open Sydney 2014,2014-05-21,GHATAK Poulomi,TAPPER Melissa,4,2,"7,11,5,11,11,12|11,5,11,9,7,10",,GRAND_SLAM,WS,131,Qualification,GHATAK Poulomi (IND),TAPPER Melissa (AUS),GHATAK Poulomi
+World Tour Australia Open Sydney 2014,2014-05-21,HAYATA Hina,FORSTER Eliza,4,0,"11,11,11,11|1,1,1,1",,GRAND_SLAM,WS,131,Qualification,FORSTER Eliza (AUS),HAYATA Hina (JPN),HAYATA Hina
+World Tour Australia Open Sydney 2014,2014-05-21,TAPPER Melissa,FORSTER Eliza,4,0,"11,11,11,11|3,1,1,2",,GRAND_SLAM,WS,131,Qualification,TAPPER Melissa (AUS),FORSTER Eliza (AUS),TAPPER Melissa
+World Tour Australia Open Sydney 2014,2014-05-21,HAYATA Hina,GHATAK Poulomi,4,0,"11,11,11,11|9,6,6,6",,GRAND_SLAM,WS,131,Qualification,GHATAK Poulomi (IND),HAYATA Hina (JPN),HAYATA Hina
+World Tour Australia Open Sydney 2014,2014-05-21,DEDERKO Zhenhua,ERMAKOVA Irina,4,3,"11,11,11,6,9,8,11|6,8,9,11,11,11,7",,GRAND_SLAM,WS,131,Qualification,ERMAKOVA Irina (RUS),DEDERKO Zhenhua (AUS),DEDERKO Zhenhua
+World Tour Australia Open Sydney 2014,2014-05-21,ERMAKOVA Irina,HO Ying,4,1,"4,12,11,11,11|11,10,8,5,7",,GRAND_SLAM,WS,131,Qualification,ERMAKOVA Irina (RUS),HO Ying (MAS),ERMAKOVA Irina
+World Tour Australia Open Sydney 2014,2014-05-21,DEDERKO Zhenhua,HO Ying,4,2,"11,10,5,11,11,11|3,12,11,3,9,4",,GRAND_SLAM,WS,131,Qualification,HO Ying (MAS),DEDERKO Zhenhua (AUS),DEDERKO Zhenhua
+World Tour Australia Open Sydney 2014,2014-05-21,ZHANG Ziyu,YEE Herng Hwee,4,0,"11,11,11,11|8,7,3,6",,GRAND_SLAM,WS,131,Qualification,YEE Herng Hwee (SGP),ZHANG Ziyu (AUS),ZHANG Ziyu
+World Tour Australia Open Sydney 2014,2014-05-21,KATO Kyoka,LEE Rou You,4,1,"11,11,6,11,11|5,5,11,7,7",,GRAND_SLAM,WS,131,Qualification,LEE Rou You (MAS),KATO Kyoka (JPN),KATO Kyoka
+World Tour Australia Open Sydney 2014,2014-05-21,LEE Rou You,YEE Herng Hwee,4,3,"11,10,11,12,8,9,11|8,12,5,10,11,11,7",,GRAND_SLAM,WS,131,Qualification,YEE Herng Hwee (SGP),LEE Rou You (MAS),LEE Rou You
+World Tour Australia Open Sydney 2014,2014-05-21,KATO Kyoka,ZHANG Ziyu,4,0,"11,11,11,11|7,9,6,8",,GRAND_SLAM,WS,131,Qualification,ZHANG Ziyu (AUS),KATO Kyoka (JPN),KATO Kyoka
+World Tour Australia Open Sydney 2014,2014-05-21,ZHANG Ziyu,LEE Rou You,4,0,"11,11,11,11|6,7,8,8",,GRAND_SLAM,WS,131,Qualification,LEE Rou You (MAS),ZHANG Ziyu (AUS),ZHANG Ziyu
+World Tour Australia Open Sydney 2014,2014-05-21,KATO Kyoka,YEE Herng Hwee,4,0,"11,11,11,11|2,6,5,4",,GRAND_SLAM,WS,131,Qualification,YEE Herng Hwee (SGP),KATO Kyoka (JPN),KATO Kyoka
+World Tour Australia Open Sydney 2014,2014-05-21,NUYTINCK Cedric,TOWNSEND Kane,3,0,"11,11,12|6,3,10",,GRAND_SLAM,U21MS,131,Qualification,NUYTINCK Cedric (BEL),TOWNSEND Kane (AUS),NUYTINCK Cedric
+World Tour Australia Open Sydney 2014,2014-05-21,NUYTINCK Cedric,TSUBOI Yuma,3,1,"11,11,7,11|8,3,11,5",,GRAND_SLAM,U21MS,131,Qualification,NUYTINCK Cedric (BEL),TSUBOI Yuma (JPN),NUYTINCK Cedric
+World Tour Australia Open Sydney 2014,2014-05-21,TSUBOI Yuma,TOWNSEND Kane,3,2,"11,11,8,11,11|5,13,11,8,4",,GRAND_SLAM,U21MS,131,Qualification,TSUBOI Yuma (JPN),TOWNSEND Kane (AUS),TSUBOI Yuma
+World Tour Australia Open Sydney 2014,2014-05-21,LIU Tengteng,HUNG Ka Tak,3,2,"12,12,7,8,11|10,10,11,11,6",,GRAND_SLAM,U21MS,131,Qualification,HUNG Ka Tak (HKG),LIU Tengteng (NZL),LIU Tengteng
+World Tour Australia Open Sydney 2014,2014-05-21,HUNG Ka Tak,LAM Jayden,3,0,"11,11,11|5,7,1",,GRAND_SLAM,U21MS,131,Qualification,HUNG Ka Tak (HKG),LAM Jayden (AUS),HUNG Ka Tak
+World Tour Australia Open Sydney 2014,2014-05-21,LIU Tengteng,LAM Jayden,3,0,"11,11,11|4,3,3",,GRAND_SLAM,U21MS,131,Qualification,LAM Jayden (AUS),LIU Tengteng (NZL),LIU Tengteng
+World Tour Australia Open Sydney 2014,2014-05-21,LAM Siu Hang,HU Heming,3,1,"11,11,8,11|7,6,11,9",,GRAND_SLAM,U21MS,131,Qualification,LAM Siu Hang (HKG),HU Heming (AUS),LAM Siu Hang
+World Tour Australia Open Sydney 2014,2014-05-21,LAM Siu Hang,LEONG Chee Feng,3,1,"11,11,7,11|7,4,11,5",,GRAND_SLAM,U21MS,131,Qualification,LAM Siu Hang (HKG),LEONG Chee Feng (MAS),LAM Siu Hang
+World Tour Australia Open Sydney 2014,2014-05-21,LEONG Chee Feng,HU Heming,3,2,"13,6,8,11,11|11,11,11,7,7",,GRAND_SLAM,U21MS,131,Qualification,LEONG Chee Feng (MAS),HU Heming (AUS),LEONG Chee Feng
+World Tour Australia Open Sydney 2014,2014-05-21,CHEW Clarence,ZHAO Anthony,3,0,"11,11,11|1,6,6",,GRAND_SLAM,U21MS,131,Qualification,CHEW Clarence (SGP),ZHAO Anthony (AUS),CHEW Clarence
+World Tour Australia Open Sydney 2014,2014-05-21,CHEW Clarence,KWAN Man Ho,3,2,"10,11,11,9,11|12,8,6,11,8",,GRAND_SLAM,U21MS,131,Qualification,CHEW Clarence (SGP),KWAN Man Ho (HKG),CHEW Clarence
+World Tour Australia Open Sydney 2014,2014-05-21,KWAN Man Ho,ZHAO Anthony,3,0,"11,11,11|6,9,8",,GRAND_SLAM,U21MS,131,Qualification,KWAN Man Ho (HKG),ZHAO Anthony (AUS),KWAN Man Ho
+World Tour Australia Open Sydney 2014,2014-05-21,LI Hon Ming,TSAO Erny,3,1,"15,6,12,11|13,11,10,6",,GRAND_SLAM,U21MS,131,Qualification,LI Hon Ming (HKG),TSAO Erny (AUS),LI Hon Ming
+World Tour Australia Open Sydney 2014,2014-05-21,HAIQAL Muhamad Ashraf,LIANG Bob,3,0,"11,11,11|2,6,7",,GRAND_SLAM,U21MS,131,Qualification,HAIQAL Muhamad Ashraf (MAS),LIANG Bob (AUS),HAIQAL Muhamad Ashraf
+World Tour Australia Open Sydney 2014,2014-05-21,LI Hon Ming,HAIQAL Muhamad Ashraf,3,2,"9,12,9,11,11|11,10,11,8,5",,GRAND_SLAM,U21MS,131,Qualification,LI Hon Ming (HKG),HAIQAL Muhamad Ashraf (MAS),LI Hon Ming
+World Tour Australia Open Sydney 2014,2014-05-21,TSAO Erny,LIANG Bob,3,1,"11,11,8,11|5,5,11,2",,GRAND_SLAM,U21MS,131,Qualification,TSAO Erny (AUS),LIANG Bob (AUS),TSAO Erny
+World Tour Australia Open Sydney 2014,2014-05-21,HAIQAL Muhamad Ashraf,TSAO Erny,3,1,"11,6,11,11|6,11,8,6",,GRAND_SLAM,U21MS,131,Qualification,HAIQAL Muhamad Ashraf (MAS),TSAO Erny (AUS),HAIQAL Muhamad Ashraf
+World Tour Australia Open Sydney 2014,2014-05-21,LI Hon Ming,LIANG Bob,3,0,"11,11,11|4,4,2",,GRAND_SLAM,U21MS,131,Qualification,LI Hon Ming (HKG),LIANG Bob (AUS),LI Hon Ming
+World Tour Australia Open Sydney 2014,2014-05-21,POUNGSRI Max,ONG Jay,3,0,"11,11,11|6,5,5",,GRAND_SLAM,U21MS,131,Qualification,POUNGSRI Max (THA),ONG Jay (AUS),POUNGSRI Max
+World Tour Australia Open Sydney 2014,2014-05-21,MAK King Ho,POUNGSRI Max,3,1,"13,15,11,11|11,17,8,3",,GRAND_SLAM,U21MS,131,Qualification,MAK King Ho (HKG),POUNGSRI Max (THA),MAK King Ho
+World Tour Australia Open Sydney 2014,2014-05-21,ONG Jay,HOUGHTON Benjamin,3,2,"10,13,16,5,11|12,11,14,11,7",,GRAND_SLAM,U21MS,131,Qualification,HOUGHTON Benjamin (AUS),ONG Jay (AUS),ONG Jay
+World Tour Australia Open Sydney 2014,2014-05-21,POUNGSRI Max,HOUGHTON Benjamin,3,1,"11,9,11,11|3,11,8,8",,GRAND_SLAM,U21MS,131,Qualification,POUNGSRI Max (THA),HOUGHTON Benjamin (AUS),POUNGSRI Max
+World Tour Australia Open Sydney 2014,2014-05-21,YEE Herng Hwee,FORSTER Eliza,3,0,"11,11,11|5,5,6",,GRAND_SLAM,U21WS,131,Qualification,YEE Herng Hwee (SGP),FORSTER Eliza (AUS),YEE Herng Hwee
+World Tour Australia Open Sydney 2014,2014-05-21,KATO Kyoka,FORSTER Eliza,3,0,"11,11,11|3,0,2",,GRAND_SLAM,U21WS,131,Qualification,KATO Kyoka (JPN),FORSTER Eliza (AUS),KATO Kyoka
+World Tour Australia Open Sydney 2014,2014-05-21,ABE Airi,LEE Rou You,3,0,"11,11,11|8,9,2",,GRAND_SLAM,U21WS,131,Qualification,LEE Rou You (MAS),ABE Airi (JPN),ABE Airi
+World Tour Australia Open Sydney 2014,2014-05-21,ZHU Fiona,LEE Rou You,3,0,"11,11,11|4,9,8",,GRAND_SLAM,U21WS,131,Qualification,LEE Rou You (MAS),ZHU Fiona (AUS),ZHU Fiona
+World Tour Australia Open Sydney 2014,2014-05-21,ABE Airi,ZHU Fiona,3,0,"11,14,11|9,12,9",,GRAND_SLAM,U21WS,131,Qualification,ZHU Fiona (AUS),ABE Airi (JPN),ABE Airi
+World Tour Australia Open Sydney 2014,2014-05-21,HAYATA Hina,HO Ying,3,2,"9,11,11,8,11|11,7,5,11,9",,GRAND_SLAM,U21WS,131,Qualification,HO Ying (MAS),HAYATA Hina (JPN),HAYATA Hina
+World Tour Australia Open Sydney 2014,2014-05-21,HO Ying,ZHANG Antonia,3,0,"11,11,11|7,4,4",,GRAND_SLAM,U21WS,131,Qualification,HO Ying (MAS),ZHANG Antonia (AUS),HO Ying
+World Tour Australia Open Sydney 2014,2014-05-21,HAYATA Hina,ZHANG Antonia,3,0,"11,11,11|1,7,6",,GRAND_SLAM,U21WS,131,Qualification,ZHANG Antonia (AUS),HAYATA Hina (JPN),HAYATA Hina
+World Tour Australia Open Sydney 2014,2014-05-21,WONG Chun Ting,HOTZ Christian,4,0,"11,11,11,11|6,4,2,5",R32,GRAND_SLAM,MS,131,Main Draw,WONG Chun Ting (HKG),HOTZ Christian (SUI),WONG Chun Ting
+World Tour Australia Open Sydney 2014,2014-05-21,HUNG Ka Tak,YU Jiaqing,4,2,"11,12,11,11,9,11|5,10,9,13,11,4",R32,GRAND_SLAM,MS,131,Main Draw,HUNG Ka Tak (HKG),YU Jiaqing (SGP),HUNG Ka Tak
+World Tour Australia Open Sydney 2014,2014-05-21,HAIQAL Muhamad Ashraf,XIAO Phillip,4,3,"6,11,11,4,12,8,11|11,5,5,11,10,11,9",R32,GRAND_SLAM,MS,131,Main Draw,XIAO Phillip (NZL),HAIQAL Muhamad Ashraf (MAS),HAIQAL Muhamad Ashraf
+World Tour Australia Open Sydney 2014,2014-05-21,HENZELL William,CHEW Clarence,4,2,"13,3,12,9,11,11|11,11,10,11,6,8",R32,GRAND_SLAM,MS,131,Main Draw,CHEW Clarence (SGP),HENZELL William (AUS),HENZELL William
+World Tour Australia Open Sydney 2014,2014-05-21,WU Zhikang,HELBING Bjorn,4,0,"11,11,11,11|9,3,6,5",R32,GRAND_SLAM,MS,131,Main Draw,WU Zhikang (SGP),HELBING Bjorn (GER),WU Zhikang
+World Tour Australia Open Sydney 2014,2014-05-21,LI Hon Ming,ROY Soumyadeep,4,1,"11,11,11,11,11|13,4,6,8,8",R32,GRAND_SLAM,MS,131,Main Draw,LI Hon Ming (HKG),ROY Soumyadeep (IND),LI Hon Ming
+World Tour Australia Open Sydney 2014,2014-05-21,CHEN Feng,HIDAKA Tatsuya,4,1,"11,11,11,8,11|5,7,4,11,3",R32,GRAND_SLAM,MS,131,Main Draw,HIDAKA Tatsuya (AUS),CHEN Feng (SGP),CHEN Feng
+World Tour Australia Open Sydney 2014,2014-05-21,YANG Zi,YAN Xin,4,0,"11,11,11,11|4,7,9,8",R32,GRAND_SLAM,MS,131,Main Draw,YANG Zi (SGP),YAN Xin (AUS),YANG Zi
+World Tour Australia Open Sydney 2014,2014-05-21,WEHKING Lennart,POUNGSRI Max,4,1,"11,11,11,11,13|13,4,6,6,11",R32,GRAND_SLAM,MS,131,Main Draw,WEHKING Lennart (GER),POUNGSRI Max (THA),WEHKING Lennart
+World Tour Australia Open Sydney 2014,2014-05-21,SAKAI Asuka,MAK King Ho,4,3,"8,8,11,11,13,9,11|11,11,5,4,11,11,4",R32,GRAND_SLAM,MS,131,Main Draw,MAK King Ho (HKG),SAKAI Asuka (JPN),SAKAI Asuka
+World Tour Australia Open Sydney 2014,2014-05-21,SAMBE Kohei,TANG George,4,1,"9,11,11,11,11|11,1,1,3,4",R32,GRAND_SLAM,MS,131,Main Draw,SAMBE Kohei (JPN),TANG George (AUS),SAMBE Kohei
+World Tour Australia Open Sydney 2014,2014-05-21,TSUBOI Yuma,LEONG Chee Feng,4,0,"11,11,11,11|9,8,9,3",R32,GRAND_SLAM,MS,131,Main Draw,LEONG Chee Feng (MAS),TSUBOI Yuma (JPN),TSUBOI Yuma
+World Tour Australia Open Sydney 2014,2014-05-21,NUYTINCK Cedric,TOWNSEND Wade,4,2,"11,7,9,11,11,11|6,11,11,6,6,9",R32,GRAND_SLAM,MS,131,Main Draw,NUYTINCK Cedric (BEL),TOWNSEND Wade (AUS),NUYTINCK Cedric
+World Tour Australia Open Sydney 2014,2014-05-21,ZHAN Jian,POWELL David,4,1,"11,12,11,11,11|7,14,3,3,7",R32,GRAND_SLAM,MS,131,Main Draw,POWELL David (AUS),ZHAN Jian (SGP),ZHAN Jian
+World Tour Australia Open Sydney 2014,2014-05-21,WONG Chun Ting,HUNG Ka Tak,4,0,"11,11,12,11|6,6,10,5",R16,GRAND_SLAM,MS,131,Main Draw,WONG Chun Ting (HKG),HUNG Ka Tak (HKG),WONG Chun Ting
+World Tour Australia Open Sydney 2014,2014-05-21,HENZELL William,HAIQAL Muhamad Ashraf,4,0,"11,11,11,11|8,9,8,4",R16,GRAND_SLAM,MS,131,Main Draw,HAIQAL Muhamad Ashraf (MAS),HENZELL William (AUS),HENZELL William
+World Tour Australia Open Sydney 2014,2014-05-21,WU Zhikang,LI Hon Ming,4,2,"8,11,3,11,11,11|11,3,11,5,8,9",R16,GRAND_SLAM,MS,131,Main Draw,WU Zhikang (SGP),LI Hon Ming (HKG),WU Zhikang
+World Tour Australia Open Sydney 2014,2014-05-21,CHEN Feng,JENKINS Ryan,4,0,"11,11,11,11|3,9,6,4",R16,GRAND_SLAM,MS,131,Main Draw,JENKINS Ryan (WAL),CHEN Feng (SGP),CHEN Feng
+World Tour Australia Open Sydney 2014,2014-05-21,YANG Zi,LAM Siu Hang,4,1,"4,11,11,11,15|11,8,5,3,13",R16,GRAND_SLAM,MS,131,Main Draw,YANG Zi (SGP),LAM Siu Hang (HKG),YANG Zi
+World Tour Australia Open Sydney 2014,2014-05-21,SAKAI Asuka,WEHKING Lennart,4,0,"11,11,12,11|8,5,10,9",R16,GRAND_SLAM,MS,131,Main Draw,WEHKING Lennart (GER),SAKAI Asuka (JPN),SAKAI Asuka
+World Tour Australia Open Sydney 2014,2014-05-21,SAMBE Kohei,TSUBOI Yuma,4,2,"5,5,11,11,11,11|11,11,5,6,9,9",R16,GRAND_SLAM,MS,131,Main Draw,SAMBE Kohei (JPN),TSUBOI Yuma (JPN),SAMBE Kohei
+World Tour Australia Open Sydney 2014,2014-05-21,ZHAN Jian,NUYTINCK Cedric,4,3,"8,10,11,11,11,4,11|11,12,5,3,9,11,5",R16,GRAND_SLAM,MS,131,Main Draw,NUYTINCK Cedric (BEL),ZHAN Jian (SGP),ZHAN Jian
+World Tour Australia Open Sydney 2014,2014-05-21,HENZELL William,WONG Chun Ting,4,2,"8,11,11,5,11,11|11,9,6,11,9,9",QF,GRAND_SLAM,MS,131,Main Draw,WONG Chun Ting (HKG),HENZELL William (AUS),HENZELL William
+World Tour Australia Open Sydney 2014,2014-05-21,WU Zhikang,CHEN Feng,4,2,"8,11,11,9,11,11|11,4,7,11,4,7",QF,GRAND_SLAM,MS,131,Main Draw,WU Zhikang (SGP),CHEN Feng (SGP),WU Zhikang
+World Tour Australia Open Sydney 2014,2014-05-21,SAKAI Asuka,YANG Zi,4,3,"7,11,11,17,13,17,14|11,9,8,19,15,15,12",QF,GRAND_SLAM,MS,131,Main Draw,YANG Zi (SGP),SAKAI Asuka (JPN),SAKAI Asuka
+World Tour Australia Open Sydney 2014,2014-05-21,ZHAN Jian,SAMBE Kohei,4,0,"11,11,11,11|2,9,9,6",QF,GRAND_SLAM,MS,131,Main Draw,SAMBE Kohei (JPN),ZHAN Jian (SGP),ZHAN Jian
+World Tour Australia Open Sydney 2014,2014-05-21,WU Zhikang,HENZELL William,4,3,"6,11,14,8,11,11,11|11,8,16,11,4,5,9",SF,GRAND_SLAM,MS,131,Main Draw,HENZELL William (AUS),WU Zhikang (SGP),WU Zhikang
+World Tour Australia Open Sydney 2014,2014-05-21,ZHAN Jian,SAKAI Asuka,4,1,"10,11,11,11,11|12,9,7,6,9",SF,GRAND_SLAM,MS,131,Main Draw,SAKAI Asuka (JPN),ZHAN Jian (SGP),ZHAN Jian
+World Tour Australia Open Sydney 2014,2014-05-21,WU Zhikang,ZHAN Jian,4,1,"11,11,11,7,11|6,6,9,11,8",F,GRAND_SLAM,MS,131,Main Draw,WU Zhikang (SGP),ZHAN Jian (SGP),WU Zhikang
+World Tour Australia Open Sydney 2014,2014-05-21,FENG Tianwei,FORSTER Eliza,4,0,"11,11,11,11|2,3,1,1",R32,GRAND_SLAM,WS,131,Main Draw,FENG Tianwei (SGP),FORSTER Eliza (AUS),FENG Tianwei
+World Tour Australia Open Sydney 2014,2014-05-21,ERMAKOVA Irina,PATERSON Natalie,4,1,"13,11,7,11,11|11,2,11,8,4",R32,GRAND_SLAM,WS,131,Main Draw,PATERSON Natalie (NZL),ERMAKOVA Irina (RUS),ERMAKOVA Irina
+World Tour Australia Open Sydney 2014,2014-05-21,ABE Airi,CHEN Chermaine,4,0,"11,11,11,11|7,6,9,7",R32,GRAND_SLAM,WS,131,Main Draw,ABE Airi (JPN),CHEN Chermaine (AUS),ABE Airi
+World Tour Australia Open Sydney 2014,2014-05-21,LAY Jian Fang,LEE Rou You,4,0,"11,11,11,11|9,5,3,2",R32,GRAND_SLAM,WS,131,Main Draw,LEE Rou You (MAS),LAY Jian Fang (AUS),LAY Jian Fang
+World Tour Australia Open Sydney 2014,2014-05-21,SATO Hitomi,GHATAK Poulomi,4,0,"13,11,11,11|11,8,3,5",R32,GRAND_SLAM,WS,131,Main Draw,SATO Hitomi (JPN),GHATAK Poulomi (IND),SATO Hitomi
+World Tour Australia Open Sydney 2014,2014-05-21,ISHIKAWA Rira,BEH Lee Wei,4,1,"11,11,11,11,11|5,13,9,8,6",R32,GRAND_SLAM,WS,131,Main Draw,BEH Lee Wei (MAS),ISHIKAWA Rira (JPN),ISHIKAWA Rira
+World Tour Australia Open Sydney 2014,2014-05-21,KATO Kyoka,HSUEH Ju Fang,4,1,"10,11,11,11,11|12,5,4,9,8",R32,GRAND_SLAM,WS,131,Main Draw,KATO Kyoka (JPN),HSUEH Ju Fang (AUS),KATO Kyoka
+World Tour Australia Open Sydney 2014,2014-05-21,ITO Mima,HO Ying,4,0,"11,11,12,11|7,8,10,2",R32,GRAND_SLAM,WS,131,Main Draw,HO Ying (MAS),ITO Mima (JPN),ITO Mima
+World Tour Australia Open Sydney 2014,2014-05-21,KATO Miyu,ZHANG Antonia,4,0,"11,11,11,11|3,6,7,9",R32,GRAND_SLAM,WS,131,Main Draw,KATO Miyu (JPN),ZHANG Antonia (AUS),KATO Miyu
+World Tour Australia Open Sydney 2014,2014-05-21,FUJII Yuko,PENG Kai,4,0,"11,11,11,11|4,7,8,5",R32,GRAND_SLAM,WS,131,Main Draw,PENG Kai (AUS),FUJII Yuko (JPN),FUJII Yuko
+World Tour Australia Open Sydney 2014,2014-05-21,TAMAISHI Miyuki,ZHU Fiona,4,0,"12,11,11,11|10,6,3,9",R32,GRAND_SLAM,WS,131,Main Draw,TAMAISHI Miyuki (JPN),ZHU Fiona (AUS),TAMAISHI Miyuki
+World Tour Australia Open Sydney 2014,2014-05-21,TASHIRO Saki,ZHANG Ziyu,4,0,"13,11,11,11|11,7,9,4",R32,GRAND_SLAM,WS,131,Main Draw,ZHANG Ziyu (AUS),TASHIRO Saki (JPN),TASHIRO Saki
+World Tour Australia Open Sydney 2014,2014-05-21,KOMWONG Nanthana,TAPPER Melissa,4,0,"11,13,11,11|7,11,7,5",R32,GRAND_SLAM,WS,131,Main Draw,KOMWONG Nanthana (THA),TAPPER Melissa (AUS),KOMWONG Nanthana
+World Tour Australia Open Sydney 2014,2014-05-21,HAYATA Hina,MIAO Miao,4,0,"11,11,11,11|7,7,6,5",R32,GRAND_SLAM,WS,131,Main Draw,MIAO Miao (AUS),HAYATA Hina (JPN),HAYATA Hina
+World Tour Australia Open Sydney 2014,2014-05-21,DEDERKO Zhenhua,DEGTIAR Ioulia,4,1,"12,11,10,11,11|10,6,12,7,7",R32,GRAND_SLAM,WS,131,Main Draw,DEDERKO Zhenhua (AUS),DEGTIAR Ioulia (CAN),DEDERKO Zhenhua
+World Tour Australia Open Sydney 2014,2014-05-21,MORIZONO Misaki,YEE Herng Hwee,4,0,"11,11,11,11|5,4,4,9",R32,GRAND_SLAM,WS,131,Main Draw,YEE Herng Hwee (SGP),MORIZONO Misaki (JPN),MORIZONO Misaki
+World Tour Australia Open Sydney 2014,2014-05-21,FENG Tianwei,ERMAKOVA Irina,4,1,"11,11,11,11,11|2,4,13,2,3",R16,GRAND_SLAM,WS,131,Main Draw,FENG Tianwei (SGP),ERMAKOVA Irina (RUS),FENG Tianwei
+World Tour Australia Open Sydney 2014,2014-05-21,ABE Airi,LAY Jian Fang,4,2,"11,11,11,7,12,11|2,3,7,11,14,7",R16,GRAND_SLAM,WS,131,Main Draw,ABE Airi (JPN),LAY Jian Fang (AUS),ABE Airi
+World Tour Australia Open Sydney 2014,2014-05-21,SATO Hitomi,ISHIKAWA Rira,4,2,"8,12,16,11,11,11|11,10,18,5,4,7",R16,GRAND_SLAM,WS,131,Main Draw,SATO Hitomi (JPN),ISHIKAWA Rira (JPN),SATO Hitomi
+World Tour Australia Open Sydney 2014,2014-05-21,ITO Mima,KATO Kyoka,4,2,"11,13,4,8,11,11|8,11,11,11,9,6",R16,GRAND_SLAM,WS,131,Main Draw,KATO Kyoka (JPN),ITO Mima (JPN),ITO Mima
+World Tour Australia Open Sydney 2014,2014-05-21,FUJII Yuko,KATO Miyu,4,2,"9,11,11,9,11,11|11,6,7,11,7,8",R16,GRAND_SLAM,WS,131,Main Draw,KATO Miyu (JPN),FUJII Yuko (JPN),FUJII Yuko
+World Tour Australia Open Sydney 2014,2014-05-21,TASHIRO Saki,TAMAISHI Miyuki,4,1,"9,11,11,11,11|11,6,6,6,2",R16,GRAND_SLAM,WS,131,Main Draw,TAMAISHI Miyuki (JPN),TASHIRO Saki (JPN),TASHIRO Saki
+World Tour Australia Open Sydney 2014,2014-05-21,KOMWONG Nanthana,HAYATA Hina,4,1,"11,11,11,14,11|8,5,7,16,8",R16,GRAND_SLAM,WS,131,Main Draw,KOMWONG Nanthana (THA),HAYATA Hina (JPN),KOMWONG Nanthana
+World Tour Australia Open Sydney 2014,2014-05-21,MORIZONO Misaki,DEDERKO Zhenhua,4,2,"11,11,14,4,11,11|6,3,16,11,5,8",R16,GRAND_SLAM,WS,131,Main Draw,DEDERKO Zhenhua (AUS),MORIZONO Misaki (JPN),MORIZONO Misaki
+World Tour Australia Open Sydney 2014,2014-05-21,FENG Tianwei,ABE Airi,4,1,"11,11,5,11,11|7,5,11,7,7",QF,GRAND_SLAM,WS,131,Main Draw,FENG Tianwei (SGP),ABE Airi (JPN),FENG Tianwei
+World Tour Australia Open Sydney 2014,2014-05-21,ITO Mima,SATO Hitomi,4,3,"7,17,8,9,11,11,11|11,15,11,11,3,9,9",QF,GRAND_SLAM,WS,131,Main Draw,SATO Hitomi (JPN),ITO Mima (JPN),ITO Mima
+World Tour Australia Open Sydney 2014,2014-05-21,TASHIRO Saki,FUJII Yuko,4,1,"11,5,11,11,11|5,11,2,7,5",QF,GRAND_SLAM,WS,131,Main Draw,FUJII Yuko (JPN),TASHIRO Saki (JPN),TASHIRO Saki
+World Tour Australia Open Sydney 2014,2014-05-21,MORIZONO Misaki,KOMWONG Nanthana,4,3,"12,8,11,11,13,8,11|10,11,5,13,11,11,9",QF,GRAND_SLAM,WS,131,Main Draw,KOMWONG Nanthana (THA),MORIZONO Misaki (JPN),MORIZONO Misaki
+World Tour Australia Open Sydney 2014,2014-05-21,FENG Tianwei,ITO Mima,4,0,"11,11,11,11|3,9,3,8",SF,GRAND_SLAM,WS,131,Main Draw,FENG Tianwei (SGP),ITO Mima (JPN),FENG Tianwei
+World Tour Australia Open Sydney 2014,2014-05-21,MORIZONO Misaki,TASHIRO Saki,4,1,"11,11,12,7,11|7,8,10,11,5",SF,GRAND_SLAM,WS,131,Main Draw,TASHIRO Saki (JPN),MORIZONO Misaki (JPN),MORIZONO Misaki
+World Tour Australia Open Sydney 2014,2014-05-21,FENG Tianwei,MORIZONO Misaki,4,0,"11,12,11,11|5,10,9,4",F,GRAND_SLAM,WS,131,Main Draw,FENG Tianwei (SGP),MORIZONO Misaki (JPN),FENG Tianwei
+World Tour Australia Open Sydney 2014,2014-05-21,KATO Kyoka,HO Ying,3,1,"10,11,11,11|12,7,8,3",R16,GRAND_SLAM,U21WS,131,Main Draw,KATO Kyoka (JPN),HO Ying (MAS),KATO Kyoka
+World Tour Australia Open Sydney 2014,2014-05-21,SATO Hitomi,ZHANG Antonia,3,0,"11,11,11|1,2,1",R16,GRAND_SLAM,U21WS,131,Main Draw,ZHANG Antonia (AUS),SATO Hitomi (JPN),SATO Hitomi
+World Tour Australia Open Sydney 2014,2014-05-21,ABE Airi,YEE Herng Hwee,3,0,"11,11,11|2,5,6",R16,GRAND_SLAM,U21WS,131,Main Draw,YEE Herng Hwee (SGP),ABE Airi (JPN),ABE Airi
+World Tour Australia Open Sydney 2014,2014-05-21,ITO Mima,ZHU Fiona,4,1,"8,11,11,12,11|11,8,6,10,8",QF,GRAND_SLAM,U21WS,131,Main Draw,ITO Mima (JPN),ZHU Fiona (AUS),ITO Mima
+World Tour Australia Open Sydney 2014,2014-05-21,SATO Hitomi,KATO Kyoka,4,2,"11,11,9,5,11,11|2,9,11,11,3,6",QF,GRAND_SLAM,U21WS,131,Main Draw,KATO Kyoka (JPN),SATO Hitomi (JPN),SATO Hitomi
+World Tour Australia Open Sydney 2014,2014-05-21,ABE Airi,ISHIKAWA Rira,4,0,"11,11,11,13|4,4,7,11",QF,GRAND_SLAM,U21WS,131,Main Draw,ISHIKAWA Rira (JPN),ABE Airi (JPN),ABE Airi
+World Tour Australia Open Sydney 2014,2014-05-21,KATO Miyu,HAYATA Hina,4,0,"11,13,11,11|3,11,4,9",QF,GRAND_SLAM,U21WS,131,Main Draw,HAYATA Hina (JPN),KATO Miyu (JPN),KATO Miyu
+World Tour Australia Open Sydney 2014,2014-05-21,KATO Miyu,ABE Airi,4,2,"11,11,11,6,11,11|6,13,2,11,4,5",SF,GRAND_SLAM,U21WS,131,Main Draw,ABE Airi (JPN),KATO Miyu (JPN),KATO Miyu
+World Tour Australia Open Sydney 2014,2014-05-21,ITO Mima,KATO Miyu,4,3,"11,11,9,11,11,8,11|13,8,11,7,4,11,8",F,GRAND_SLAM,U21WS,131,Main Draw,ITO Mima (JPN),KATO Miyu (JPN),ITO Mima
+World Tour Australia Open Sydney 2014,2014-05-21,CHEN Feng,KWAN Man Ho,3,0,"11,11,11|7,5,8",R16,GRAND_SLAM,U21MS,131,Main Draw,CHEN Feng (SGP),KWAN Man Ho (HKG),CHEN Feng
+World Tour Australia Open Sydney 2014,2014-05-21,LI Hon Ming,LEONG Chee Feng,3,1,"11,11,3,11|5,8,11,9",R16,GRAND_SLAM,U21MS,131,Main Draw,LEONG Chee Feng (MAS),LI Hon Ming (HKG),LI Hon Ming
+World Tour Australia Open Sydney 2014,2014-05-21,LIU Tengteng,MAK King Ho,3,2,"6,11,11,3,11|11,7,7,11,8",R16,GRAND_SLAM,U21MS,131,Main Draw,MAK King Ho (HKG),LIU Tengteng (NZL),LIU Tengteng
+World Tour Australia Open Sydney 2014,2014-05-21,SAKAI Asuka,HUNG Ka Tak,3,1,"11,11,8,12|5,9,11,10",R16,GRAND_SLAM,U21MS,131,Main Draw,HUNG Ka Tak (HKG),SAKAI Asuka (JPN),SAKAI Asuka
+World Tour Australia Open Sydney 2014,2014-05-21,SAMBE Kohei,POUNGSRI Max,3,0,"11,11,11|8,9,6",R16,GRAND_SLAM,U21MS,131,Main Draw,SAMBE Kohei (JPN),POUNGSRI Max (THA),SAMBE Kohei
+World Tour Australia Open Sydney 2014,2014-05-21,CHEW Clarence,LAM Siu Hang,3,1,"11,17,10,11|7,15,12,9",R16,GRAND_SLAM,U21MS,131,Main Draw,CHEW Clarence (SGP),LAM Siu Hang (HKG),CHEW Clarence
+World Tour Australia Open Sydney 2014,2014-05-21,NUYTINCK Cedric,HAIQAL Muhamad Ashraf,3,0,"11,11,11|9,6,7",R16,GRAND_SLAM,U21MS,131,Main Draw,NUYTINCK Cedric (BEL),HAIQAL Muhamad Ashraf (MAS),NUYTINCK Cedric
+World Tour Australia Open Sydney 2014,2014-05-21,TSUBOI Yuma,WU Zhikang,3,2,"11,9,12,10,11|9,11,10,12,9",R16,GRAND_SLAM,U21MS,131,Main Draw,TSUBOI Yuma (JPN),WU Zhikang (SGP),TSUBOI Yuma
+World Tour Australia Open Sydney 2014,2014-05-21,LI Hon Ming,CHEN Feng,4,3,"5,11,11,11,8,15,11|11,13,3,8,11,13,8",QF,GRAND_SLAM,U21MS,131,Main Draw,CHEN Feng (SGP),LI Hon Ming (HKG),LI Hon Ming
+World Tour Australia Open Sydney 2014,2014-05-21,SAKAI Asuka,LIU Tengteng,4,2,"11,11,7,13,10,13|8,7,11,11,12,11",QF,GRAND_SLAM,U21MS,131,Main Draw,LIU Tengteng (NZL),SAKAI Asuka (JPN),SAKAI Asuka
+World Tour Australia Open Sydney 2014,2014-05-21,SAMBE Kohei,CHEW Clarence,4,0,"11,11,11,11|4,5,8,1",QF,GRAND_SLAM,U21MS,131,Main Draw,SAMBE Kohei (JPN),CHEW Clarence (SGP),SAMBE Kohei
+World Tour Australia Open Sydney 2014,2014-05-21,SAKAI Asuka,LI Hon Ming,4,3,"6,11,12,7,11,5,11|11,6,10,11,8,11,2",SF,GRAND_SLAM,U21MS,131,Main Draw,LI Hon Ming (HKG),SAKAI Asuka (JPN),SAKAI Asuka
+World Tour Australia Open Sydney 2014,2014-05-21,SAMBE Kohei,NUYTINCK Cedric,4,3,"11,8,4,8,11,11,14|8,11,11,11,5,2,12",SF,GRAND_SLAM,U21MS,131,Main Draw,SAMBE Kohei (JPN),NUYTINCK Cedric (BEL),SAMBE Kohei
+World Tour Australia Open Sydney 2014,2014-05-21,SAKAI Asuka,SAMBE Kohei,4,1,"10,11,11,11,11|12,6,8,9,8",F,GRAND_SLAM,U21MS,131,Main Draw,SAKAI Asuka (JPN),SAMBE Kohei (JPN),SAKAI Asuka
+World Tour Australia Open Sydney 2014,2014-05-21,KWAN Man Ho/MAK King Ho,HU Heming/YAN Xin,3,2,"11,11,10,12,15|7,9,12,14,13",R16,GRAND_SLAM,MD,131,Main Draw,KWAN Man Ho (HKG) / MAK King Ho (HKG),HU Heming (AUS) / YAN Xin (AUS),KWAN Man Ho
+World Tour Australia Open Sydney 2014,2014-05-21,CHEN Feng/WU Zhikang,TOWNSEND Kane/TOWNSEND Wade,3,1,"11,7,11,11|8,11,3,6",R16,GRAND_SLAM,MD,131,Main Draw,CHEN Feng (SGP) / WU Zhikang (SGP),TOWNSEND Kane (AUS) / TOWNSEND Wade (AUS),CHEN Feng
+World Tour Australia Open Sydney 2014,2014-05-21,HELBING Bjorn/WEHKING Lennart,HENZELL William/POWELL David,3,1,"11,7,11,11|3,11,8,9",R16,GRAND_SLAM,MD,131,Main Draw,HELBING Bjorn (GER) / WEHKING Lennart (GER),HENZELL William (AUS) / POWELL David (AUS),HELBING Bjorn
+World Tour Australia Open Sydney 2014,2014-05-21,HO Ying/YEE Herng Hwee,PENG Kai/ZHU Fiona,3,0,"11,11,11|7,9,6",R16,GRAND_SLAM,WD,131,Main Draw,HO Ying (MAS) / YEE Herng Hwee (SGP),PENG Kai (AUS) / ZHU Fiona (AUS),HO Ying
+World Tour Australia Open Sydney 2014,2014-05-21,DEGTIAR Ioulia/ERMAKOVA Irina,DEDERKO Zhenhua/ZHANG Ziyu,3,2,"4,13,11,7,13|11,11,8,11,11",QF,GRAND_SLAM,WD,131,Main Draw,DEGTIAR Ioulia (CAN) / ERMAKOVA Irina (RUS),DEDERKO Zhenhua (AUS) / ZHANG Ziyu (AUS),DEGTIAR Ioulia
+World Tour Australia Open Sydney 2014,2014-05-21,LAY Jian Fang/MIAO Miao,GHATAK Poulomi/KOMWONG Nanthana,3,1,"11,8,13,11|6,11,11,9",SF,GRAND_SLAM,WD,131,Main Draw,LAY Jian Fang (AUS) / MIAO Miao (AUS),GHATAK Poulomi (IND) / KOMWONG Nanthana (THA),LAY Jian Fang
+World Tour Australia Open Sydney 2014,2014-05-21,XIAO Phillip/LIU Tengteng,ROY Soumyadeep/SHIBAJI Datta,3,0,"11,11,11|8,4,7",QR16,GRAND_SLAM,MD,131,Qualification,XIAO Phillip (NZL) / LIU Tengteng (NZL),ROY Soumyadeep (IND) / SHIBAJI Datta (AUS),XIAO Phillip
+World Tour Australia Open Sydney 2014,2014-05-21,TANG George/TRAN Kiet,GONG Aaron/TANJOUR Mazen,3,0,"11,11,11|6,7,8",QR16,GRAND_SLAM,MD,131,Qualification,TANG George (AUS) / TRAN Kiet (AUS),GONG Aaron (NZL) / TANJOUR Mazen (CAN),TANG George
+World Tour Australia Open Sydney 2014,2014-05-21,HOTZ Christian/NUYTINCK Cedric,TANG George/TRAN Kiet,3,0,"11,11,11|4,9,3",R16,GRAND_SLAM,MD,131,Main Draw,HOTZ Christian (SUI) / NUYTINCK Cedric (BEL),TANG George (AUS) / TRAN Kiet (AUS),HOTZ Christian
+World Tour Australia Open Sydney 2014,2014-05-21,CHEN Feng/WU Zhikang,HOTZ Christian/NUYTINCK Cedric,3,0,"11,11,11|6,7,7",QF,GRAND_SLAM,MD,131,Main Draw,CHEN Feng (SGP) / WU Zhikang (SGP),HOTZ Christian (SUI) / NUYTINCK Cedric (BEL),CHEN Feng
+World Tour Australia Open Sydney 2014,2014-05-21,YANG Zi/ZHAN Jian,HELBING Bjorn/WEHKING Lennart,3,1,"11,7,11,11|8,11,7,5",QF,GRAND_SLAM,MD,131,Main Draw,YANG Zi (SGP) / ZHAN Jian (SGP),HELBING Bjorn (GER) / WEHKING Lennart (GER),YANG Zi
+World Tour Australia Open Sydney 2014,2014-05-21,HELBING Bjorn/WEHKING Lennart,VONG Alexandre/ZHAO Anthony,3,0,"11,11,11|6,5,0",QR16,GRAND_SLAM,MD,131,Qualification,HELBING Bjorn (GER) / WEHKING Lennart (GER),VONG Alexandre (AUS) / ZHAO Anthony (AUS),HELBING Bjorn
+World Tour Australia Open Sydney 2014,2014-05-21,TANG Peng/WONG Chun Ting,JENKINS Ryan/MURPHY John,3,0,"11,11,11|6,6,3",R16,GRAND_SLAM,MD,131,Main Draw,TANG Peng (HKG) / WONG Chun Ting (HKG),JENKINS Ryan (WAL) / MURPHY John (IRL),TANG Peng
+World Tour Australia Open Sydney 2014,2014-05-21,LAM Siu Hang/LI Hon Ming,CHEW Clarence/YU Jiaqing,3,0,"11,11,11|6,5,6",R16,GRAND_SLAM,MD,131,Main Draw,LAM Siu Hang (HKG) / LI Hon Ming (HKG),CHEW Clarence (SGP) / YU Jiaqing (SGP),LAM Siu Hang
+World Tour Australia Open Sydney 2014,2014-05-21,TANG Peng/WONG Chun Ting,KWAN Man Ho/MAK King Ho,3,0,"11,11,11|5,7,3",QF,GRAND_SLAM,MD,131,Main Draw,TANG Peng (HKG) / WONG Chun Ting (HKG),KWAN Man Ho (HKG) / MAK King Ho (HKG),TANG Peng
+World Tour Australia Open Sydney 2014,2014-05-21,TANG Peng/WONG Chun Ting,CHEN Feng/WU Zhikang,3,0,"11,11,11|7,3,6",SF,GRAND_SLAM,MD,131,Main Draw,TANG Peng (HKG) / WONG Chun Ting (HKG),CHEN Feng (SGP) / WU Zhikang (SGP),TANG Peng
+World Tour Australia Open Sydney 2014,2014-05-21,TANG Peng/WONG Chun Ting,YANG Zi/ZHAN Jian,3,0,"11,11,11|5,9,7",F,GRAND_SLAM,MD,131,Main Draw,TANG Peng (HKG) / WONG Chun Ting (HKG),YANG Zi (SGP) / ZHAN Jian (SGP),TANG Peng
+World Tour Australia Open Sydney 2014,2014-05-21,JENKINS Ryan/MURPHY John,POUNGSRI Max/TSAO Erny,3,0,"11,11,12|6,7,10",QR16,GRAND_SLAM,MD,131,Qualification,JENKINS Ryan (WAL) / MURPHY John (IRL),POUNGSRI Max (THA) / TSAO Erny (AUS),JENKINS Ryan
+World Tour Australia Open Sydney 2014,2014-05-21,SAMBE Kohei/TSUBOI Yuma,LEONG Chee Feng/HAIQAL Muhamad Ashraf,3,0,"11,11,11|6,8,5",R16,GRAND_SLAM,MD,131,Main Draw,SAMBE Kohei (JPN) / TSUBOI Yuma (JPN),LEONG Chee Feng (MAS) / HAIQAL Muhamad Ashraf (MAS),SAMBE Kohei
+World Tour Australia Open Sydney 2014,2014-05-21,SAMBE Kohei/TSUBOI Yuma,LAM Siu Hang/LI Hon Ming,3,1,"11,12,8,11|6,10,11,8",QF,GRAND_SLAM,MD,131,Main Draw,SAMBE Kohei (JPN) / TSUBOI Yuma (JPN),LAM Siu Hang (HKG) / LI Hon Ming (HKG),SAMBE Kohei
+World Tour Australia Open Sydney 2014,2014-05-21,YANG Zi/ZHAN Jian,SAMBE Kohei/TSUBOI Yuma,3,1,"11,11,11,14|13,9,6,12",SF,GRAND_SLAM,MD,131,Main Draw,YANG Zi (SGP) / ZHAN Jian (SGP),SAMBE Kohei (JPN) / TSUBOI Yuma (JPN),YANG Zi
+World Tour Australia Open Sydney 2014,2014-05-21,TASHIRO Saki/FUJII Yuko,BROMLEY Michelle/TAPPER Melissa,3,0,"11,11,11|4,5,5",QF,GRAND_SLAM,WD,131,Main Draw,TASHIRO Saki (JPN) / FUJII Yuko (JPN),BROMLEY Michelle (AUS) / TAPPER Melissa (AUS),TASHIRO Saki
+World Tour Australia Open Sydney 2014,2014-05-21,TASHIRO Saki/FUJII Yuko,DEGTIAR Ioulia/ERMAKOVA Irina,3,0,"11,11,11|8,7,5",SF,GRAND_SLAM,WD,131,Main Draw,TASHIRO Saki (JPN) / FUJII Yuko (JPN),DEGTIAR Ioulia (CAN) / ERMAKOVA Irina (RUS),TASHIRO Saki
+World Tour Australia Open Sydney 2014,2014-05-21,TASHIRO Saki/FUJII Yuko,LAY Jian Fang/MIAO Miao,3,0,"11,11,11|1,4,7",F,GRAND_SLAM,WD,131,Main Draw,TASHIRO Saki (JPN) / FUJII Yuko (JPN),LAY Jian Fang (AUS) / MIAO Miao (AUS),TASHIRO Saki
+World Tour Australia Open Sydney 2014,2014-05-21,YANG Zi/ZHAN Jian,XIAO Phillip/LIU Tengteng,3,0,"11,11,11|6,8,6",R16,GRAND_SLAM,MD,131,Main Draw,YANG Zi (SGP) / ZHAN Jian (SGP),XIAO Phillip (NZL) / LIU Tengteng (NZL),YANG Zi
+World Tour Australia Open Sydney 2014,2014-05-21,GHATAK Poulomi/KOMWONG Nanthana,HO Ying/YEE Herng Hwee,3,0,"12,11,11|10,6,3",QF,GRAND_SLAM,WD,131,Main Draw,GHATAK Poulomi (IND) / KOMWONG Nanthana (THA),HO Ying (MAS) / YEE Herng Hwee (SGP),GHATAK Poulomi
+World Tour Australia Open Sydney 2014,2014-05-21,HU Heming/YAN Xin,TRAN Vinh Phat/TRAN Huy Bao,3,1,"11,11,10,11|7,7,12,4",QR16,GRAND_SLAM,MD,131,Qualification,HU Heming (AUS) / YAN Xin (AUS),TRAN Vinh Phat (VIE) / TRAN Huy Bao (VIE),HU Heming

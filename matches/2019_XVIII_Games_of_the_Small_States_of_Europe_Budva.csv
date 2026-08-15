@@ -1,51 +1,51 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,GLOD Eric,RADULOVIC Filip,3,0,"11,11,11|1,9,6",,OTHER,MS,2076,GROUPS,GLOD Eric (LUX),RADULOVIC Filip (MNE)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,MICHELY Gilles,GRIXTI Gabriel,3,1,"11,11,7,11|9,8,11,3",,OTHER,MS,2076,GROUPS,MICHELY Gilles (LUX),GRIXTI Gabriel (MLT)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,YIANGOU Marios,RODRIGUEZ Ingi Darvis,3,0,"11,11,11|4,3,7",,OTHER,MS,2076,GROUPS,YIANGOU Marios (CYP),RODRIGUEZ Ingi Darvis (ISL)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,MONGIUSTI Mattias,PERETTI Anthony,3,0,"10,6,3|12,11,11",,OTHER,MS,2076,GROUPS,MONGIUSTI Mattias (SMR),PERETTI Anthony (MON)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,GEMINIANI Anthony,GIARDI Federico,3,0,"11,11,11|4,4,8",,OTHER,MS,2076,GROUPS,GIARDI Federico (SMR),GEMINIANI Anthony (MON)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,BAJADA Daniel,ULFARSSON Magnus,3,0,"11,11,11|7,9,9",,OTHER,MS,2076,GROUPS,ULFARSSON Magnus (ISL),BAJADA Daniel (MLT)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,HRISTONOV Hristo,GLOD Eric,3,2,"10,11,11,10,11|12,6,8,12,9",,OTHER,MS,2076,GROUPS,GLOD Eric (LUX),HRISTONOV Hristo (CYP)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,MICHELY Gilles,RADOVIC Filip,3,1,"13,12,12,11|11,10,14,7",,OTHER,MS,2076,GROUPS,MICHELY Gilles (LUX),RADOVIC Filip (MNE)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,YIANGOU Marios,MONGIUSTI Mattias,3,0,"11,11,11|6,6,4",,OTHER,MS,2076,GROUPS,YIANGOU Marios (CYP),MONGIUSTI Mattias (SMR)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,PERETTI Anthony,RODRIGUEZ Ingi Darvis,3,0,"11,12,11|3,10,9",,OTHER,MS,2076,GROUPS,RODRIGUEZ Ingi Darvis (ISL),PERETTI Anthony (MON)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,ULFARSSON Magnus,GIARDI Federico,3,1,"11,9,11,11|9,11,4,8",,OTHER,MS,2076,GROUPS,GIARDI Federico (SMR),ULFARSSON Magnus (ISL)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,GEMINIANI Anthony,BAJADA Daniel,3,0,"11,11,11|8,6,9",,OTHER,MS,2076,GROUPS,GEMINIANI Anthony (MON),BAJADA Daniel (MLT)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,HRISTONOV Hristo,RADULOVIC Filip,3,0,"11,12,11|7,10,6",,OTHER,MS,2076,GROUPS,HRISTONOV Hristo (CYP),RADULOVIC Filip (MNE)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,RADOVIC Filip,GRIXTI Gabriel,3,1,"11,11,8,11|5,3,11,3",,OTHER,MS,2076,GROUPS,RADOVIC Filip (MNE),GRIXTI Gabriel (MLT)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,MONGIUSTI Mattias,RODRIGUEZ Ingi Darvis,3,1,"11,6,11,11|5,11,6,6",,OTHER,MS,2076,GROUPS,MONGIUSTI Mattias (SMR),RODRIGUEZ Ingi Darvis (ISL)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,PERETTI Anthony,YIANGOU Marios,3,1,"11,11,8,11|7,9,11,9",,OTHER,MS,2076,GROUPS,YIANGOU Marios (CYP),PERETTI Anthony (MON)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,GEMINIANI Anthony,ULFARSSON Magnus,3,0,"11,11,11|6,6,5",,OTHER,MS,2076,GROUPS,ULFARSSON Magnus (ISL),GEMINIANI Anthony (MON)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,BAJADA Daniel,GIARDI Federico,3,0,"11,11,11|7,3,6",,OTHER,MS,2076,GROUPS,GIARDI Federico (SMR),BAJADA Daniel (MLT)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,RADOVIC Filip,HRISTONOV Hristo,3,0,"11,11,11|7,5,3",QF,OTHER,MS,2076,MAIN,HRISTONOV Hristo (CYP),RADOVIC Filip (MNE)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,GEMINIANI Anthony,GLOD Eric,3,2,"11,11,7,8,11|8,9,11,11,9",QF,OTHER,MS,2076,MAIN,GLOD Eric (LUX),GEMINIANI Anthony (MON)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,PERETTI Anthony,BAJADA Daniel,3,0,"11,11,11|6,5,4",QF,OTHER,MS,2076,MAIN,PERETTI Anthony (MON),BAJADA Daniel (MLT)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,YIANGOU Marios,MICHELY Gilles,3,1,"11,10,11,7|6,12,11,11",QF,OTHER,MS,2076,MAIN,YIANGOU Marios (CYP),MICHELY Gilles (LUX)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,GEMINIANI Anthony,RADOVIC Filip,3,0,"11,11,11|3,6,4",SF,OTHER,MS,2076,MAIN,RADOVIC Filip (MNE),GEMINIANI Anthony (MON)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,YIANGOU Marios,PERETTI Anthony,3,1,"11,8,13,11|7,11,11,8",SF,OTHER,MS,2076,MAIN,PERETTI Anthony (MON),YIANGOU Marios (CYP)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,YIANGOU Marios,GEMINIANI Anthony,3,0,"11,11,11|4,8,4",F,OTHER,MS,2076,Main Draw,GEMINIANI Anthony (MON),YIANGOU Marios (CYP)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,YANG Xiaoxin,MILACIC Neda,3,0,"11,11,11|2,5,3",,OTHER,WS,2076,GROUPS,YANG Xiaoxin (MON),MILACIC Neda (MNE)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,KONSBRUCK Danielle,BRYNJARSDOTTIR Agnes,3,0,"11,11,11|1,1,6",,OTHER,WS,2076,GROUPS,KONSBRUCK Danielle (LUX),BRYNJARSDOTTIR Agnes (ISL)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,MELETIE Konstantina,MORRI Chiara,3,1,"11,9,13,11|6,11,11,5",,OTHER,WS,2076,GROUPS,MORRI Chiara (SMR),MELETIE Konstantina (CYP)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,GONDERINGER Tessy,LUCENKOVA Viktoria,3,2,"11,11,6,11,11|8,7,11,13,2",,OTHER,WS,2076,GROUPS,GONDERINGER Tessy (LUX),LUCENKOVA Viktoria (SVK)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,GENOVESE Sascha,LARUSDOTTIR Aldis Run,3,2,"4,11,11,11,11|11,4,13,9,8",,OTHER,WS,2076,GROUPS,GENOVESE Sascha (MLT),LARUSDOTTIR Aldis Run (ISL)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,KOUREA Louiza,CULAFIC Snezana,3,0,"11,11,11|6,0,7",,OTHER,WS,2076,GROUPS,CULAFIC Snezana (MNE),KOUREA Louiza (CYP)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,YANG Xiaoxin,YAN Chimei,3,1,"12,8,11,11|10,11,7,8",,OTHER,WS,2076,GROUPS,YANG Xiaoxin (MON),YAN Chimei (SMR)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,KONSBRUCK Danielle,QVIST Ulrika,3,1,"11,11,7,11|2,4,11,4",,OTHER,WS,2076,GROUPS,KONSBRUCK Danielle (LUX),QVIST Ulrika (MON)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,GONDERINGER Tessy,MORRI Chiara,3,0,"11,11,11|4,2,3",,OTHER,WS,2076,GROUPS,MORRI Chiara (SMR),GONDERINGER Tessy (LUX)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,LUCENKOVA Viktoria,MELETIE Konstantina,3,0,"13,11,11|11,6,7",,OTHER,WS,2076,GROUPS,MELETIE Konstantina (CYP),LUCENKOVA Viktoria (SVK)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,CULAFIC Snezana,GENOVESE Sascha,3,0,"11,11,11|7,4,3",,OTHER,WS,2076,GROUPS,GENOVESE Sascha (MLT),CULAFIC Snezana (MNE)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,KOUREA Louiza,LARUSDOTTIR Aldis Run,3,1,"7,11,11,11|11,5,8,5",,OTHER,WS,2076,GROUPS,LARUSDOTTIR Aldis Run (ISL),KOUREA Louiza (CYP)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,YAN Chimei,MILACIC Neda,3,0,"11,11,11|7,7,5",,OTHER,WS,2076,GROUPS,YAN Chimei (SMR),MILACIC Neda (MNE)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,QVIST Ulrika,BRYNJARSDOTTIR Agnes,3,0,"11,11,11|8,6,0",,OTHER,WS,2076,GROUPS,QVIST Ulrika (MON),BRYNJARSDOTTIR Agnes (ISL)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,GONDERINGER Tessy,MELETIE Konstantina,3,0,"12,11,11|10,8,8",,OTHER,WS,2076,GROUPS,GONDERINGER Tessy (LUX),MELETIE Konstantina (CYP)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,LUCENKOVA Viktoria,MORRI Chiara,3,1,"11,11,3,11|6,4,11,2",,OTHER,WS,2076,GROUPS,MORRI Chiara (SMR),LUCENKOVA Viktoria (SVK)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,CULAFIC Snezana,LARUSDOTTIR Aldis Run,3,2,"11,9,10,11,11|7,11,12,6,6",,OTHER,WS,2076,GROUPS,CULAFIC Snezana (MNE),LARUSDOTTIR Aldis Run (ISL)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,KOUREA Louiza,GENOVESE Sascha,3,0,"11,12,11|4,10,5",,OTHER,WS,2076,GROUPS,GENOVESE Sascha (MLT),KOUREA Louiza (CYP)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,YANG Xiaoxin,LUCENKOVA Viktoria,3,1,"9,11,11,11|11,2,6,3",QF,OTHER,WS,2076,MAIN,YANG Xiaoxin (MON),LUCENKOVA Viktoria (SVK)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,GONDERINGER Tessy,CULAFIC Snezana,3,1,"8,11,11,11|11,6,3,3",QF,OTHER,WS,2076,MAIN,CULAFIC Snezana (MNE),GONDERINGER Tessy (LUX)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,KOUREA Louiza,QVIST Ulrika,3,1,"11,11,8,11|7,6,11,9",QF,OTHER,WS,2076,MAIN,KOUREA Louiza (CYP),QVIST Ulrika (MON)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,YAN Chimei,KONSBRUCK Danielle,3,1,"3,11,11,12|11,6,9,10",QF,OTHER,WS,2076,MAIN,YAN Chimei (SMR),KONSBRUCK Danielle (LUX)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,YANG Xiaoxin,GONDERINGER Tessy,3,1,"11,11,9,11|5,6,11,8",SF,OTHER,WS,2076,MAIN,YANG Xiaoxin (MON),GONDERINGER Tessy (LUX)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,KOUREA Louiza,YAN Chimei,3,1,"11,11,5,11|4,8,11,7",SF,OTHER,WS,2076,MAIN,KOUREA Louiza (CYP),YAN Chimei (SMR)
-XVIII Games of the Small States of Europe Budva 2019,2019-05-27,YANG Xiaoxin,KOUREA Louiza,3,0,"11,11,11|7,2,3",F,OTHER,WS,2076,MAIN,YANG Xiaoxin (MON),KOUREA Louiza (CYP)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,GLOD Eric,RADULOVIC Filip,3,0,"11,11,11|1,9,6",,OTHER,MS,2076,GROUPS,GLOD Eric (LUX),RADULOVIC Filip (MNE),GLOD Eric
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,MICHELY Gilles,GRIXTI Gabriel,3,1,"11,11,7,11|9,8,11,3",,OTHER,MS,2076,GROUPS,MICHELY Gilles (LUX),GRIXTI Gabriel (MLT),MICHELY Gilles
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,YIANGOU Marios,RODRIGUEZ Ingi Darvis,3,0,"11,11,11|4,3,7",,OTHER,MS,2076,GROUPS,YIANGOU Marios (CYP),RODRIGUEZ Ingi Darvis (ISL),YIANGOU Marios
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,MONGIUSTI Mattias,PERETTI Anthony,3,0,"10,6,3|12,11,11",,OTHER,MS,2076,GROUPS,MONGIUSTI Mattias (SMR),PERETTI Anthony (MON),MONGIUSTI Mattias
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,GEMINIANI Anthony,GIARDI Federico,3,0,"11,11,11|4,4,8",,OTHER,MS,2076,GROUPS,GIARDI Federico (SMR),GEMINIANI Anthony (MON),GEMINIANI Anthony
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,BAJADA Daniel,ULFARSSON Magnus,3,0,"11,11,11|7,9,9",,OTHER,MS,2076,GROUPS,ULFARSSON Magnus (ISL),BAJADA Daniel (MLT),BAJADA Daniel
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,HRISTONOV Hristo,GLOD Eric,3,2,"10,11,11,10,11|12,6,8,12,9",,OTHER,MS,2076,GROUPS,GLOD Eric (LUX),HRISTONOV Hristo (CYP),HRISTONOV Hristo
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,MICHELY Gilles,RADOVIC Filip,3,1,"13,12,12,11|11,10,14,7",,OTHER,MS,2076,GROUPS,MICHELY Gilles (LUX),RADOVIC Filip (MNE),MICHELY Gilles
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,YIANGOU Marios,MONGIUSTI Mattias,3,0,"11,11,11|6,6,4",,OTHER,MS,2076,GROUPS,YIANGOU Marios (CYP),MONGIUSTI Mattias (SMR),YIANGOU Marios
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,PERETTI Anthony,RODRIGUEZ Ingi Darvis,3,0,"11,12,11|3,10,9",,OTHER,MS,2076,GROUPS,RODRIGUEZ Ingi Darvis (ISL),PERETTI Anthony (MON),PERETTI Anthony
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,ULFARSSON Magnus,GIARDI Federico,3,1,"11,9,11,11|9,11,4,8",,OTHER,MS,2076,GROUPS,GIARDI Federico (SMR),ULFARSSON Magnus (ISL),ULFARSSON Magnus
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,GEMINIANI Anthony,BAJADA Daniel,3,0,"11,11,11|8,6,9",,OTHER,MS,2076,GROUPS,GEMINIANI Anthony (MON),BAJADA Daniel (MLT),GEMINIANI Anthony
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,HRISTONOV Hristo,RADULOVIC Filip,3,0,"11,12,11|7,10,6",,OTHER,MS,2076,GROUPS,HRISTONOV Hristo (CYP),RADULOVIC Filip (MNE),HRISTONOV Hristo
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,RADOVIC Filip,GRIXTI Gabriel,3,1,"11,11,8,11|5,3,11,3",,OTHER,MS,2076,GROUPS,RADOVIC Filip (MNE),GRIXTI Gabriel (MLT),RADOVIC Filip
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,MONGIUSTI Mattias,RODRIGUEZ Ingi Darvis,3,1,"11,6,11,11|5,11,6,6",,OTHER,MS,2076,GROUPS,MONGIUSTI Mattias (SMR),RODRIGUEZ Ingi Darvis (ISL),MONGIUSTI Mattias
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,PERETTI Anthony,YIANGOU Marios,3,1,"11,11,8,11|7,9,11,9",,OTHER,MS,2076,GROUPS,YIANGOU Marios (CYP),PERETTI Anthony (MON),PERETTI Anthony
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,GEMINIANI Anthony,ULFARSSON Magnus,3,0,"11,11,11|6,6,5",,OTHER,MS,2076,GROUPS,ULFARSSON Magnus (ISL),GEMINIANI Anthony (MON),GEMINIANI Anthony
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,BAJADA Daniel,GIARDI Federico,3,0,"11,11,11|7,3,6",,OTHER,MS,2076,GROUPS,GIARDI Federico (SMR),BAJADA Daniel (MLT),BAJADA Daniel
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,RADOVIC Filip,HRISTONOV Hristo,3,0,"11,11,11|7,5,3",QF,OTHER,MS,2076,MAIN,HRISTONOV Hristo (CYP),RADOVIC Filip (MNE),RADOVIC Filip
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,GEMINIANI Anthony,GLOD Eric,3,2,"11,11,7,8,11|8,9,11,11,9",QF,OTHER,MS,2076,MAIN,GLOD Eric (LUX),GEMINIANI Anthony (MON),GEMINIANI Anthony
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,PERETTI Anthony,BAJADA Daniel,3,0,"11,11,11|6,5,4",QF,OTHER,MS,2076,MAIN,PERETTI Anthony (MON),BAJADA Daniel (MLT),PERETTI Anthony
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,YIANGOU Marios,MICHELY Gilles,3,1,"11,10,11,7|6,12,11,11",QF,OTHER,MS,2076,MAIN,YIANGOU Marios (CYP),MICHELY Gilles (LUX),YIANGOU Marios
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,GEMINIANI Anthony,RADOVIC Filip,3,0,"11,11,11|3,6,4",SF,OTHER,MS,2076,MAIN,RADOVIC Filip (MNE),GEMINIANI Anthony (MON),GEMINIANI Anthony
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,YIANGOU Marios,PERETTI Anthony,3,1,"11,8,13,11|7,11,11,8",SF,OTHER,MS,2076,MAIN,PERETTI Anthony (MON),YIANGOU Marios (CYP),YIANGOU Marios
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,YIANGOU Marios,GEMINIANI Anthony,3,0,"11,11,11|4,8,4",F,OTHER,MS,2076,Main Draw,GEMINIANI Anthony (MON),YIANGOU Marios (CYP),YIANGOU Marios
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,YANG Xiaoxin,MILACIC Neda,3,0,"11,11,11|2,5,3",,OTHER,WS,2076,GROUPS,YANG Xiaoxin (MON),MILACIC Neda (MNE),YANG Xiaoxin
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,KONSBRUCK Danielle,BRYNJARSDOTTIR Agnes,3,0,"11,11,11|1,1,6",,OTHER,WS,2076,GROUPS,KONSBRUCK Danielle (LUX),BRYNJARSDOTTIR Agnes (ISL),KONSBRUCK Danielle
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,MELETIE Konstantina,MORRI Chiara,3,1,"11,9,13,11|6,11,11,5",,OTHER,WS,2076,GROUPS,MORRI Chiara (SMR),MELETIE Konstantina (CYP),MELETIE Konstantina
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,GONDERINGER Tessy,LUCENKOVA Viktoria,3,2,"11,11,6,11,11|8,7,11,13,2",,OTHER,WS,2076,GROUPS,GONDERINGER Tessy (LUX),LUCENKOVA Viktoria (SVK),GONDERINGER Tessy
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,GENOVESE Sascha,LARUSDOTTIR Aldis Run,3,2,"4,11,11,11,11|11,4,13,9,8",,OTHER,WS,2076,GROUPS,GENOVESE Sascha (MLT),LARUSDOTTIR Aldis Run (ISL),GENOVESE Sascha
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,KOUREA Louiza,CULAFIC Snezana,3,0,"11,11,11|6,0,7",,OTHER,WS,2076,GROUPS,CULAFIC Snezana (MNE),KOUREA Louiza (CYP),KOUREA Louiza
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,YANG Xiaoxin,YAN Chimei,3,1,"12,8,11,11|10,11,7,8",,OTHER,WS,2076,GROUPS,YANG Xiaoxin (MON),YAN Chimei (SMR),YANG Xiaoxin
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,KONSBRUCK Danielle,QVIST Ulrika,3,1,"11,11,7,11|2,4,11,4",,OTHER,WS,2076,GROUPS,KONSBRUCK Danielle (LUX),QVIST Ulrika (MON),KONSBRUCK Danielle
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,GONDERINGER Tessy,MORRI Chiara,3,0,"11,11,11|4,2,3",,OTHER,WS,2076,GROUPS,MORRI Chiara (SMR),GONDERINGER Tessy (LUX),GONDERINGER Tessy
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,LUCENKOVA Viktoria,MELETIE Konstantina,3,0,"13,11,11|11,6,7",,OTHER,WS,2076,GROUPS,MELETIE Konstantina (CYP),LUCENKOVA Viktoria (SVK),LUCENKOVA Viktoria
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,CULAFIC Snezana,GENOVESE Sascha,3,0,"11,11,11|7,4,3",,OTHER,WS,2076,GROUPS,GENOVESE Sascha (MLT),CULAFIC Snezana (MNE),CULAFIC Snezana
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,KOUREA Louiza,LARUSDOTTIR Aldis Run,3,1,"7,11,11,11|11,5,8,5",,OTHER,WS,2076,GROUPS,LARUSDOTTIR Aldis Run (ISL),KOUREA Louiza (CYP),KOUREA Louiza
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,YAN Chimei,MILACIC Neda,3,0,"11,11,11|7,7,5",,OTHER,WS,2076,GROUPS,YAN Chimei (SMR),MILACIC Neda (MNE),YAN Chimei
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,QVIST Ulrika,BRYNJARSDOTTIR Agnes,3,0,"11,11,11|8,6,0",,OTHER,WS,2076,GROUPS,QVIST Ulrika (MON),BRYNJARSDOTTIR Agnes (ISL),QVIST Ulrika
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,GONDERINGER Tessy,MELETIE Konstantina,3,0,"12,11,11|10,8,8",,OTHER,WS,2076,GROUPS,GONDERINGER Tessy (LUX),MELETIE Konstantina (CYP),GONDERINGER Tessy
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,LUCENKOVA Viktoria,MORRI Chiara,3,1,"11,11,3,11|6,4,11,2",,OTHER,WS,2076,GROUPS,MORRI Chiara (SMR),LUCENKOVA Viktoria (SVK),LUCENKOVA Viktoria
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,CULAFIC Snezana,LARUSDOTTIR Aldis Run,3,2,"11,9,10,11,11|7,11,12,6,6",,OTHER,WS,2076,GROUPS,CULAFIC Snezana (MNE),LARUSDOTTIR Aldis Run (ISL),CULAFIC Snezana
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,KOUREA Louiza,GENOVESE Sascha,3,0,"11,12,11|4,10,5",,OTHER,WS,2076,GROUPS,GENOVESE Sascha (MLT),KOUREA Louiza (CYP),KOUREA Louiza
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,YANG Xiaoxin,LUCENKOVA Viktoria,3,1,"9,11,11,11|11,2,6,3",QF,OTHER,WS,2076,MAIN,YANG Xiaoxin (MON),LUCENKOVA Viktoria (SVK),YANG Xiaoxin
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,GONDERINGER Tessy,CULAFIC Snezana,3,1,"8,11,11,11|11,6,3,3",QF,OTHER,WS,2076,MAIN,CULAFIC Snezana (MNE),GONDERINGER Tessy (LUX),GONDERINGER Tessy
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,KOUREA Louiza,QVIST Ulrika,3,1,"11,11,8,11|7,6,11,9",QF,OTHER,WS,2076,MAIN,KOUREA Louiza (CYP),QVIST Ulrika (MON),KOUREA Louiza
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,YAN Chimei,KONSBRUCK Danielle,3,1,"3,11,11,12|11,6,9,10",QF,OTHER,WS,2076,MAIN,YAN Chimei (SMR),KONSBRUCK Danielle (LUX),YAN Chimei
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,YANG Xiaoxin,GONDERINGER Tessy,3,1,"11,11,9,11|5,6,11,8",SF,OTHER,WS,2076,MAIN,YANG Xiaoxin (MON),GONDERINGER Tessy (LUX),YANG Xiaoxin
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,KOUREA Louiza,YAN Chimei,3,1,"11,11,5,11|4,8,11,7",SF,OTHER,WS,2076,MAIN,KOUREA Louiza (CYP),YAN Chimei (SMR),KOUREA Louiza
+XVIII Games of the Small States of Europe Budva 2019,2019-05-27,YANG Xiaoxin,KOUREA Louiza,3,0,"11,11,11|7,2,3",F,OTHER,WS,2076,MAIN,YANG Xiaoxin (MON),KOUREA Louiza (CYP),YANG Xiaoxin

@@ -1,250 +1,250 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-World Tour Czech Open Olomouc 2016,2016-08-31,MATSUDAIRA Kenta,PENG Wang-Wei,4,2,"8,11,11,11,7,11|11,8,7,3,11,3",R64,GRAND_SLAM,MS,355,Main Draw,MATSUDAIRA Kenta (JPN),PENG Wang-Wei (TPE)
-World Tour Czech Open Olomouc 2016,2016-08-31,BAGGALEY Andrew,CHO Eonrae,4,3,"11,8,8,12,11,10,11|8,11,11,10,5,12,7",R64,GRAND_SLAM,MS,355,Main Draw,BAGGALEY Andrew (ENG),CHO Eonrae (KOR)
-World Tour Czech Open Olomouc 2016,2016-08-31,TREGLER Tomas,SAMBE Kohei,4,2,"9,10,11,11,11,11|11,12,9,8,4,7",R64,GRAND_SLAM,MS,355,Main Draw,SAMBE Kohei (JPN),TREGLER Tomas (CZE)
-World Tour Czech Open Olomouc 2016,2016-08-31,GERASSIMENKO Kirill,GERALDO Joao,4,3,"11,4,13,9,11,11,11|13,11,11,11,5,5,9",R64,GRAND_SLAM,MS,355,Main Draw,GERASSIMENKO Kirill (KAZ),GERALDO Joao (POR)
-World Tour Czech Open Olomouc 2016,2016-08-31,NORDBERG Hampus,PROKOPCOV Dmitrij,4,2,"11,6,11,11,8,11|8,11,5,5,11,6",R64,GRAND_SLAM,MS,355,Main Draw,PROKOPCOV Dmitrij (CZE),NORDBERG Hampus (SWE)
-World Tour Czech Open Olomouc 2016,2016-08-31,RYUZAKI Tonin,DEVOS Robin,4,3,"6,11,5,11,7,12,11|11,6,11,6,11,10,6",R64,GRAND_SLAM,MS,355,Main Draw,RYUZAKI Tonin (JPN),DEVOS Robin (BEL)
-World Tour Czech Open Olomouc 2016,2016-08-31,WANG Xi,LUNDQVIST Jens,4,0,"11,12,11,11|8,10,5,5",R64,GRAND_SLAM,MS,355,Main Draw,LUNDQVIST Jens (SWE),WANG Xi (GER)
-World Tour Czech Open Olomouc 2016,2016-08-31,MURAMATSU Yuto,SIPOS Rares,4,1,"11,11,4,11,11|4,6,11,3,1",R64,GRAND_SLAM,MS,355,Main Draw,SIPOS Rares (ROU),MURAMATSU Yuto (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,FRANZISKA Patrick,YOSHIMURA Kazuhiro,4,1,"11,11,11,7,11|4,5,9,11,1",R64,GRAND_SLAM,MS,355,Main Draw,FRANZISKA Patrick (GER),YOSHIMURA Kazuhiro (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,NUYTINCK Cedric,SEREDA Peter,4,1,"11,9,11,11,11|5,11,4,3,4",R64,GRAND_SLAM,MS,355,Main Draw,SEREDA Peter (SVK),NUYTINCK Cedric (BEL)
-World Tour Czech Open Olomouc 2016,2016-08-31,CHO Seungmin,ANDERSSON Harald,4,1,"11,11,11,7,11|4,8,5,11,8",R64,GRAND_SLAM,MS,355,Main Draw,CHO Seungmin (KOR),ANDERSSON Harald (SWE)
-World Tour Czech Open Olomouc 2016,2016-08-31,TAKAKIWA Taku,VRABLIK Jiri,4,0,"11,11,11,11|7,3,9,3",R64,GRAND_SLAM,MS,355,Main Draw,VRABLIK Jiri (CZE),TAKAKIWA Taku (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,LEE Junsang,HARIMOTO Tomokazu,4,2,"11,11,6,6,16,11|7,6,11,11,14,5",R64,GRAND_SLAM,MS,355,Main Draw,HARIMOTO Tomokazu (JPN),LEE Junsang (KOR)
-World Tour Czech Open Olomouc 2016,2016-08-31,DESAI Harmeet,WISUTMAYTHANGKOON Supanut,4,0,"12,11,12,13|10,4,10,11",R64,GRAND_SLAM,MS,355,Main Draw,WISUTMAYTHANGKOON Supanut (THA),DESAI Harmeet (IND)
-World Tour Czech Open Olomouc 2016,2016-08-31,ROBLES Alvaro,MATSUYAMA Yuki,4,1,"11,11,11,9,11|6,5,9,11,9",R64,GRAND_SLAM,MS,355,Main Draw,ROBLES Alvaro (ESP),MATSUYAMA Yuki (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,OSHIMA Yuya,KIM Minhyeok,4,2,"11,11,7,11,11,11|7,8,11,8,13,7",R64,GRAND_SLAM,MS,355,Main Draw,KIM Minhyeok (KOR),OSHIMA Yuya (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,KARLSSON Mattias,GNANASEKARAN Sathiyan,4,0,"8,11,11,11,11|1,7,5,7,7",R64,GRAND_SLAM,MS,355,Main Draw,KARLSSON Mattias (SWE),GNANASEKARAN Sathiyan (IND)
-World Tour Czech Open Olomouc 2016,2016-08-31,LIM Jonghoon,AKKUZU Can,4,1,"14,15,11,9,11|12,13,8,11,9",R64,GRAND_SLAM,MS,355,Main Draw,AKKUZU Can (FRA),LIM Jonghoon (KOR)
-World Tour Czech Open Olomouc 2016,2016-08-31,PARK Ganghyeon,ROBINOT Quentin,4,0,"11,11,11,11|7,9,5,2",R64,GRAND_SLAM,MS,355,Main Draw,ROBINOT Quentin (FRA),PARK Ganghyeon (KOR)
-World Tour Czech Open Olomouc 2016,2016-08-31,MENGEL Steffen,SZUDI Adam,4,3,"12,11,5,15,7,9,11|10,9,11,13,11,11,3",R64,GRAND_SLAM,MS,355,Main Draw,SZUDI Adam (HUN),MENGEL Steffen (GER)
-World Tour Czech Open Olomouc 2016,2016-08-31,ARVIDSSON Simon,KONECNY Tomas,4,0,"12,11,11,11|10,5,4,4",R64,GRAND_SLAM,MS,355,Main Draw,KONECNY Tomas (CZE),ARVIDSSON Simon (SWE)
-World Tour Czech Open Olomouc 2016,2016-08-31,KARAKASEVIC Aleksandar,KALUZNY Samuel,4,0,"11,11,11,11|5,6,7,8",R64,GRAND_SLAM,MS,355,Main Draw,KALUZNY Samuel (SVK),KARAKASEVIC Aleksandar (SRB)
-World Tour Czech Open Olomouc 2016,2016-08-31,FUJIMURA Tomoya,HACHARD Antoine,4,2,"12,7,11,8,11,11|10,11,8,11,6,9",R64,GRAND_SLAM,MS,355,Main Draw,HACHARD Antoine (FRA),FUJIMURA Tomoya (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,JANG Woojin,SODERLUND Hampus,4,2,"11,9,11,11,9,11|8,11,6,6,11,5",R64,GRAND_SLAM,MS,355,Main Draw,SODERLUND Hampus (SWE),JANG Woojin (KOR)
-World Tour Czech Open Olomouc 2016,2016-08-31,FILUS Ruwen,KANAMITSU Koyo,4,0,"11,11,12,11|6,6,10,5",R64,GRAND_SLAM,MS,355,Main Draw,FILUS Ruwen (GER),KANAMITSU Koyo (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,KALLBERG Anton,PARK Chan-Hyeok,4,0,"11,11,11,11|5,9,7,5",R64,GRAND_SLAM,MS,355,Main Draw,PARK Chan-Hyeok (KOR),KALLBERG Anton (SWE)
-World Tour Czech Open Olomouc 2016,2016-08-31,DUDA Benedikt,MAJOROS Bence,4,0,"11,11,11,13|8,9,9,11",R64,GRAND_SLAM,MS,355,Main Draw,DUDA Benedikt (GER),MAJOROS Bence (HUN)
-World Tour Czech Open Olomouc 2016,2016-08-31,LORENTZ Romain,JANCARIK Lubomir,4,3,"11,5,11,11,8,3,11|8,11,3,7,11,11,9",R64,GRAND_SLAM,MS,355,Main Draw,LORENTZ Romain (FRA),JANCARIK Lubomir (CZE)
-World Tour Czech Open Olomouc 2016,2016-08-31,BAUM Patrick,PLETEA Cristian,4,1,"9,11,11,11,11|11,5,6,8,7",R64,GRAND_SLAM,MS,355,Main Draw,BAUM Patrick (GER),PLETEA Cristian (ROU)
-World Tour Czech Open Olomouc 2016,2016-08-31,OUAICHE Stephane,KIZUKURI Yuto,4,1,"11,11,10,15,12|1,9,12,13,10",R64,GRAND_SLAM,MS,355,Main Draw,KIZUKURI Yuto (JPN),OUAICHE Stephane (ALG)
-World Tour Czech Open Olomouc 2016,2016-08-31,OIKAWA Mizuki,QIU Liang,4,1,"12,11,11,11,11|14,4,5,6,4",R64,GRAND_SLAM,MS,355,Main Draw,OIKAWA Mizuki (JPN),QIU Liang (GER)
-World Tour Czech Open Olomouc 2016,2016-08-31,GROTH Jonathan,SIRUCEK Pavel,4,1,"5,11,11,11,11|11,2,9,4,1",R64,GRAND_SLAM,MS,355,Main Draw,SIRUCEK Pavel (CZE),GROTH Jonathan (DEN)
-World Tour Czech Open Olomouc 2016,2016-08-31,MATSUDAIRA Kenta,BAGGALEY Andrew,4,3,"9,11,11,7,8,11,11|11,4,6,11,11,7,2",R32,GRAND_SLAM,MS,355,Main Draw,MATSUDAIRA Kenta (JPN),BAGGALEY Andrew (ENG)
-World Tour Czech Open Olomouc 2016,2016-08-31,GERASSIMENKO Kirill,TREGLER Tomas,4,3,"7,12,11,9,11,8,13|11,10,7,11,8,11,11",R32,GRAND_SLAM,MS,355,Main Draw,TREGLER Tomas (CZE),GERASSIMENKO Kirill (KAZ)
-World Tour Czech Open Olomouc 2016,2016-08-31,NORDBERG Hampus,RYUZAKI Tonin,4,2,"8,11,11,11,10,11|11,8,5,6,12,8",R32,GRAND_SLAM,MS,355,Main Draw,NORDBERG Hampus (SWE),RYUZAKI Tonin (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,MURAMATSU Yuto,WANG Xi,4,2,"11,13,12,9,7,12|6,11,10,11,11,10",R32,GRAND_SLAM,MS,355,Main Draw,WANG Xi (GER),MURAMATSU Yuto (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,FRANZISKA Patrick,NUYTINCK Cedric,4,0,"11,11,11,11|9,9,6,4",R32,GRAND_SLAM,MS,355,Main Draw,FRANZISKA Patrick (GER),NUYTINCK Cedric (BEL)
-World Tour Czech Open Olomouc 2016,2016-08-31,CHO Seungmin,TAKAKIWA Taku,4,2,"7,11,11,5,11,11|11,7,8,11,8,7",R32,GRAND_SLAM,MS,355,Main Draw,CHO Seungmin (KOR),TAKAKIWA Taku (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,LEE Junsang,DESAI Harmeet,4,0,"11,13,11,11|7,11,8,8",R32,GRAND_SLAM,MS,355,Main Draw,LEE Junsang (KOR),DESAI Harmeet (IND)
-World Tour Czech Open Olomouc 2016,2016-08-31,OSHIMA Yuya,ROBLES Alvaro,4,1,"9,11,11,11,14|11,7,9,6,12",R32,GRAND_SLAM,MS,355,Main Draw,ROBLES Alvaro (ESP),OSHIMA Yuya (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,KARLSSON Mattias,LIM Jonghoon,4,1,"11,10,15,11,11|9,12,13,8,2",R32,GRAND_SLAM,MS,355,Main Draw,KARLSSON Mattias (SWE),LIM Jonghoon (KOR)
-World Tour Czech Open Olomouc 2016,2016-08-31,PARK Ganghyeon,MENGEL Steffen,4,0,"11,11,11,14|7,9,2,12",R32,GRAND_SLAM,MS,355,Main Draw,PARK Ganghyeon (KOR),MENGEL Steffen (GER)
-World Tour Czech Open Olomouc 2016,2016-08-31,KARAKASEVIC Aleksandar,ARVIDSSON Simon,4,0,"11,11,11,11|6,6,9,5",R32,GRAND_SLAM,MS,355,Main Draw,ARVIDSSON Simon (SWE),KARAKASEVIC Aleksandar (SRB)
-World Tour Czech Open Olomouc 2016,2016-08-31,FUJIMURA Tomoya,JANG Woojin,4,1,"11,9,12,13,11|9,11,10,11,6",R32,GRAND_SLAM,MS,355,Main Draw,FUJIMURA Tomoya (JPN),JANG Woojin (KOR)
-World Tour Czech Open Olomouc 2016,2016-08-31,KALLBERG Anton,FILUS Ruwen,4,3,"3,12,11,9,11,12,11|11,10,8,11,13,10,7",R32,GRAND_SLAM,MS,355,Main Draw,FILUS Ruwen (GER),KALLBERG Anton (SWE)
-World Tour Czech Open Olomouc 2016,2016-08-31,DUDA Benedikt,LORENTZ Romain,4,1,"11,11,13,7,11|6,5,11,11,3",R32,GRAND_SLAM,MS,355,Main Draw,DUDA Benedikt (GER),LORENTZ Romain (FRA)
-World Tour Czech Open Olomouc 2016,2016-08-31,OUAICHE Stephane,BAUM Patrick,4,3,"5,14,11,10,9,11,15|11,12,9,12,11,7,13",R32,GRAND_SLAM,MS,355,Main Draw,BAUM Patrick (GER),OUAICHE Stephane (ALG)
-World Tour Czech Open Olomouc 2016,2016-08-31,OIKAWA Mizuki,GROTH Jonathan,4,2,"9,11,2,11,11,11|11,5,11,3,6,6",R32,GRAND_SLAM,MS,355,Main Draw,OIKAWA Mizuki (JPN),GROTH Jonathan (DEN)
-World Tour Czech Open Olomouc 2016,2016-08-31,GERASSIMENKO Kirill,MATSUDAIRA Kenta,4,3,"14,9,11,6,12,5,11|12,11,9,11,7,11,9",R16,GRAND_SLAM,MS,355,Main Draw,MATSUDAIRA Kenta (JPN),GERASSIMENKO Kirill (KAZ)
-World Tour Czech Open Olomouc 2016,2016-08-31,MURAMATSU Yuto,NORDBERG Hampus,4,0,"11,11,11,11|5,4,3,5",R16,GRAND_SLAM,MS,355,Main Draw,NORDBERG Hampus (SWE),MURAMATSU Yuto (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,CHO Seungmin,FRANZISKA Patrick,4,1,"11,9,14,11,11|4,11,12,6,8",R16,GRAND_SLAM,MS,355,Main Draw,FRANZISKA Patrick (GER),CHO Seungmin (KOR)
-World Tour Czech Open Olomouc 2016,2016-08-31,OSHIMA Yuya,LEE Junsang,4,1,"5,11,11,11,11|11,4,7,8,9",R16,GRAND_SLAM,MS,355,Main Draw,LEE Junsang (KOR),OSHIMA Yuya (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,KARLSSON Mattias,PARK Ganghyeon,4,2,"9,5,11,11,11,11|11,11,9,9,9,9",R16,GRAND_SLAM,MS,355,Main Draw,KARLSSON Mattias (SWE),PARK Ganghyeon (KOR)
-World Tour Czech Open Olomouc 2016,2016-08-31,KARAKASEVIC Aleksandar,FUJIMURA Tomoya,4,2,"8,12,12,8,11,12|11,10,10,11,6,10",R16,GRAND_SLAM,MS,355,Main Draw,KARAKASEVIC Aleksandar (SRB),FUJIMURA Tomoya (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,KALLBERG Anton,DUDA Benedikt,4,3,"8,11,11,11,4,4,16|11,5,6,9,11,11,14",R16,GRAND_SLAM,MS,355,Main Draw,KALLBERG Anton (SWE),DUDA Benedikt (GER)
-World Tour Czech Open Olomouc 2016,2016-08-31,OUAICHE Stephane,OIKAWA Mizuki,4,0,"15,11,11,11|13,6,7,6",R16,GRAND_SLAM,MS,355,Main Draw,OUAICHE Stephane (ALG),OIKAWA Mizuki (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,MURAMATSU Yuto,GERASSIMENKO Kirill,4,1,"13,8,11,11,11|11,11,5,7,5",QF,GRAND_SLAM,MS,355,Main Draw,GERASSIMENKO Kirill (KAZ),MURAMATSU Yuto (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,CHO Seungmin,OSHIMA Yuya,4,0,"12,11,11,12|10,7,6,10",QF,GRAND_SLAM,MS,355,Main Draw,CHO Seungmin (KOR),OSHIMA Yuya (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,KARAKASEVIC Aleksandar,KARLSSON Mattias,4,3,"7,9,11,7,11,11,11|11,11,9,11,4,9,9",QF,GRAND_SLAM,MS,355,Main Draw,KARLSSON Mattias (SWE),KARAKASEVIC Aleksandar (SRB)
-World Tour Czech Open Olomouc 2016,2016-08-31,OUAICHE Stephane,KALLBERG Anton,4,1,"11,11,7,11,11|8,9,11,7,9",QF,GRAND_SLAM,MS,355,Main Draw,KALLBERG Anton (SWE),OUAICHE Stephane (ALG)
-World Tour Czech Open Olomouc 2016,2016-08-31,MURAMATSU Yuto,CHO Seungmin,4,3,"11,7,3,11,6,11,11|7,11,11,6,11,4,7",SF,GRAND_SLAM,MS,355,Main Draw,MURAMATSU Yuto (JPN),CHO Seungmin (KOR)
-World Tour Czech Open Olomouc 2016,2016-08-31,OUAICHE Stephane,KARAKASEVIC Aleksandar,4,3,"12,6,8,11,6,11,11|10,11,11,7,11,7,7",SF,GRAND_SLAM,MS,355,Main Draw,KARAKASEVIC Aleksandar (SRB),OUAICHE Stephane (ALG)
-World Tour Czech Open Olomouc 2016,2016-08-31,MURAMATSU Yuto,OUAICHE Stephane,4,0,"12,11,11,11|9,5,7,4",F,GRAND_SLAM,MS,355,Main Draw,MURAMATSU Yuto (JPN),OUAICHE Stephane (ALG)
-World Tour Czech Open Olomouc 2016,2016-08-31,SATO Hitomi,TENNISON Reeth,4,1,"11,8,11,11,11|5,11,3,7,4",R64,GRAND_SLAM,WS,355,Main Draw,SATO Hitomi (JPN),TENNISON Reeth (IND)
-World Tour Czech Open Olomouc 2016,2016-08-31,DAS Mouma,PERGEL Szandra,4,2,"11,11,5,11,8,11|2,8,11,3,11,7",R64,GRAND_SLAM,WS,355,Main Draw,DAS Mouma (IND),PERGEL Szandra (HUN)
-World Tour Czech Open Olomouc 2016,2016-08-31,SOLJA Amelie,PARK Seri,4,1,"11,11,5,11,11|8,1,11,0,7",R64,GRAND_SLAM,WS,355,Main Draw,SOLJA Amelie (AUT),PARK Seri (KOR)
-World Tour Czech Open Olomouc 2016,2016-08-31,MAEDA Miyu,ARLOUSKAYA Alina,4,0,"11,11,11,11|6,6,5,6",R64,GRAND_SLAM,WS,355,Main Draw,ARLOUSKAYA Alina (BLR),MAEDA Miyu (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,EKHOLM Matilda,ASAI Hitoe,4,0,"11,11,11,13|8,4,9,11",R64,GRAND_SLAM,WS,355,Main Draw,EKHOLM Matilda (SWE),ASAI Hitoe (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,IACOB Camelia,KUZMINA Elena,4,3,"8,12,5,12,11,11,11|11,10,11,14,8,3,9",R64,GRAND_SLAM,WS,355,Main Draw,KUZMINA Elena (RUS),IACOB Camelia (ROU)
-World Tour Czech Open Olomouc 2016,2016-08-31,STRBIKOVA Renata,YOON Hyobin,4,1,"11,11,12,10,11|9,8,10,12,9",R64,GRAND_SLAM,WS,355,Main Draw,STRBIKOVA Renata (CZE),YOON Hyobin (KOR)
-World Tour Czech Open Olomouc 2016,2016-08-31,POTA Georgina,MANTZ Chantal,4,1,"11,11,11,8,11|6,2,5,11,7",R64,GRAND_SLAM,WS,355,Main Draw,MANTZ Chantal (GER),POTA Georgina (HUN)
-World Tour Czech Open Olomouc 2016,2016-08-31,MORIZONO Misaki,HADZIAHMETOVIC Emina,4,0,"11,11,11,11|6,9,6,4",R64,GRAND_SLAM,WS,355,Main Draw,MORIZONO Misaki (JPN),HADZIAHMETOVIC Emina (BIH)
-World Tour Czech Open Olomouc 2016,2016-08-31,MORET Rachel,PASKAUSKIENE Ruta,4,2,"5,11,6,11,11,11|11,5,11,7,5,9",R64,GRAND_SLAM,WS,355,Main Draw,MORET Rachel (SUI),PASKAUSKIENE Ruta (LTU)
-World Tour Czech Open Olomouc 2016,2016-08-31,DIAZ Adriana,SHIBATA Saki,4,2,"12,1,11,11,8,11|10,11,9,2,11,8",R64,GRAND_SLAM,WS,355,Main Draw,DIAZ Adriana (PUR),SHIBATA Saki (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,YANG Xiaoxin,LIN Chia-Hsuan,4,0,"11,11,11,11|8,5,3,3",R64,GRAND_SLAM,WS,355,Main Draw,LIN Chia-Hsuan (TPE),YANG Xiaoxin (MON)
-World Tour Czech Open Olomouc 2016,2016-08-31,MORI Sakura,TOMANOVSKA Katerina,4,0,"11,12,11,11|4,10,3,3",R64,GRAND_SLAM,WS,355,Main Draw,MORI Sakura (JPN),TOMANOVSKA Katerina (CZE)
-World Tour Czech Open Olomouc 2016,2016-08-31,MADARASZ Dora,GUI Lin,4,2,"11,7,11,11,5,11|2,11,5,8,11,5",R64,GRAND_SLAM,WS,355,Main Draw,GUI Lin (BRA),MADARASZ Dora (HUN)
-World Tour Czech Open Olomouc 2016,2016-08-31,LOVAS Petra,CECHOVA Dana,4,0,"11,11,11,11|9,8,7,7",R64,GRAND_SLAM,WS,355,Main Draw,LOVAS Petra (HUN),CECHOVA Dana (CZE)
-World Tour Czech Open Olomouc 2016,2016-08-31,MIKHAILOVA Polina,GALIC Alex,4,1,"11,9,11,12,11|9,11,6,3,6",R64,GRAND_SLAM,WS,355,Main Draw,GALIC Alex (SLO),MIKHAILOVA Polina (RUS)
-World Tour Czech Open Olomouc 2016,2016-08-31,ISHIGAKI Yuka,BALINT Bernadett,4,0,"11,11,14,11|4,6,12,1",R64,GRAND_SLAM,WS,355,Main Draw,ISHIGAKI Yuka (JPN),BALINT Bernadett (HUN)
-World Tour Czech Open Olomouc 2016,2016-08-31,DIACONU Adina,LIN Chia-Chih,4,2,"7,11,11,6,11,11|11,9,4,11,4,4",R64,GRAND_SLAM,WS,355,Main Draw,LIN Chia-Chih (TPE),DIACONU Adina (ROU)
-World Tour Czech Open Olomouc 2016,2016-08-31,LEE Zion,LUPULESKU Izabela,4,0,"11,11,11,11|9,8,9,6",R64,GRAND_SLAM,WS,355,Main Draw,LEE Zion (KOR),LUPULESKU Izabela (SRB)
-World Tour Czech Open Olomouc 2016,2016-08-31,LANG Kristin,WANG Yi-Ju,4,1,"11,9,13,11,11|6,11,11,9,9",R64,GRAND_SLAM,WS,355,Main Draw,WANG Yi-Ju (TPE),LANG Kristin (GER)
-World Tour Czech Open Olomouc 2016,2016-08-31,PARTYKA Natalia,KIM Olga,4,0,"11,11,13,11|8,4,11,8",R64,GRAND_SLAM,WS,355,Main Draw,PARTYKA Natalia (POL),KIM Olga (UZB)
-World Tour Czech Open Olomouc 2016,2016-08-31,SHIOMI Maki,MATELOVA Hana,4,0,"11,11,11,11|6,8,6,8",R64,GRAND_SLAM,WS,355,Main Draw,SHIOMI Maki (JPN),MATELOVA Hana (CZE)
-World Tour Czech Open Olomouc 2016,2016-08-31,JUNG Yumi,WAN Yuan,4,0,"11,11,11,11|7,7,6,5",R64,GRAND_SLAM,WS,355,Main Draw,JUNG Yumi (KOR),WAN Yuan (GER)
-World Tour Czech Open Olomouc 2016,2016-08-31,TODOROVIC Andrea,NAKAHATA Natsumi,4,3,"5,11,11,11,11,7,11|11,13,3,5,5,11,6",R64,GRAND_SLAM,WS,355,Main Draw,TODOROVIC Andrea (SRB),NAKAHATA Natsumi (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,HASHIMOTO Honoka,SIKORSKA Magdalena,4,0,"11,11,11,11|3,7,1,6",R64,GRAND_SLAM,WS,355,Main Draw,HASHIMOTO Honoka (JPN),SIKORSKA Magdalena (POL)
-World Tour Czech Open Olomouc 2016,2016-08-31,BATRA Manika,DE NUTTE Sarah,4,2,"11,5,11,9,11,11|9,11,6,11,9,8",R64,GRAND_SLAM,WS,355,Main Draw,BATRA Manika (IND),DE NUTTE Sarah (LUX)
-World Tour Czech Open Olomouc 2016,2016-08-31,ZHANG Mo,CIOBANU Irina,4,2,"11,11,5,11,5,14|4,7,11,8,11,12",R64,GRAND_SLAM,WS,355,Main Draw,ZHANG Mo (CAN),CIOBANU Irina (ROU)
-World Tour Czech Open Olomouc 2016,2016-08-31,GRZYBOWSKA-FRANC Katarzyna,VINOGRADOVA Mariia,4,1,"8,12,11,12,11|11,10,6,10,6",R64,GRAND_SLAM,WS,355,Main Draw,VINOGRADOVA Mariia (RUS),GRZYBOWSKA-FRANC Katarzyna (POL)
-World Tour Czech Open Olomouc 2016,2016-08-31,WINTER Sabine,LIN Po-Hsuan,4,3,"11,12,6,8,7,11,11|7,10,11,11,11,6,9",R64,GRAND_SLAM,WS,355,Main Draw,WINTER Sabine (GER),LIN Po-Hsuan (TPE)
-World Tour Czech Open Olomouc 2016,2016-08-31,DOLGIKH Maria,BAJOR Natalia,4,0,"11,11,11,12|6,8,7,10",R64,GRAND_SLAM,WS,355,Main Draw,BAJOR Natalia (POL),DOLGIKH Maria (RUS)
-World Tour Czech Open Olomouc 2016,2016-08-31,SONG Maeum,TRIGOLOS Daria,4,0,"11,11,12,11|5,6,10,7",R64,GRAND_SLAM,WS,355,Main Draw,SONG Maeum (KOR),TRIGOLOS Daria (BLR)
-World Tour Czech Open Olomouc 2016,2016-08-31,HAMAMOTO Yui,BERGSTROM Linda,4,0,"11,11,11,11|8,7,4,6",R64,GRAND_SLAM,WS,355,Main Draw,BERGSTROM Linda (SWE),HAMAMOTO Yui (AUT)
-World Tour Czech Open Olomouc 2016,2016-08-31,SATO Hitomi,DAS Mouma,4,0,"11,11,11,11|8,7,7,4",R32,GRAND_SLAM,WS,355,Main Draw,SATO Hitomi (JPN),DAS Mouma (IND)
-World Tour Czech Open Olomouc 2016,2016-08-31,SOLJA Amelie,MAEDA Miyu,4,0,"11,11,12,11|7,9,10,5",R32,GRAND_SLAM,WS,355,Main Draw,SOLJA Amelie (AUT),MAEDA Miyu (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,EKHOLM Matilda,IACOB Camelia,4,1,"11,11,11,8,11|3,7,6,11,5",R32,GRAND_SLAM,WS,355,Main Draw,EKHOLM Matilda (SWE),IACOB Camelia (ROU)
-World Tour Czech Open Olomouc 2016,2016-08-31,POTA Georgina,STRBIKOVA Renata,4,0,"11,11,11,11|5,8,5,4",R32,GRAND_SLAM,WS,355,Main Draw,STRBIKOVA Renata (CZE),POTA Georgina (HUN)
-World Tour Czech Open Olomouc 2016,2016-08-31,MORIZONO Misaki,MORET Rachel,4,0,"13,11,11,11|11,6,9,6",R32,GRAND_SLAM,WS,355,Main Draw,MORIZONO Misaki (JPN),MORET Rachel (SUI)
-World Tour Czech Open Olomouc 2016,2016-08-31,YANG Xiaoxin,DIAZ Adriana,4,0,"11,11,11,12|6,7,5,10",R32,GRAND_SLAM,WS,355,Main Draw,DIAZ Adriana (PUR),YANG Xiaoxin (MON)
-World Tour Czech Open Olomouc 2016,2016-08-31,MORI Sakura,MADARASZ Dora,4,3,"9,11,7,12,5,12,11|11,8,11,10,11,10,9",R32,GRAND_SLAM,WS,355,Main Draw,MORI Sakura (JPN),MADARASZ Dora (HUN)
-World Tour Czech Open Olomouc 2016,2016-08-31,MIKHAILOVA Polina,LOVAS Petra,4,3,"6,11,11,9,8,11,11|11,7,7,11,11,3,5",R32,GRAND_SLAM,WS,355,Main Draw,LOVAS Petra (HUN),MIKHAILOVA Polina (RUS)
-World Tour Czech Open Olomouc 2016,2016-08-31,ISHIGAKI Yuka,DIACONU Adina,4,1,"11,11,11,10,11|9,8,3,12,5",R32,GRAND_SLAM,WS,355,Main Draw,ISHIGAKI Yuka (JPN),DIACONU Adina (ROU)
-World Tour Czech Open Olomouc 2016,2016-08-31,LANG Kristin,LEE Zion,4,0,"11,11,11,11|4,5,6,5",R32,GRAND_SLAM,WS,355,Main Draw,LEE Zion (KOR),LANG Kristin (GER)
-World Tour Czech Open Olomouc 2016,2016-08-31,SHIOMI Maki,PARTYKA Natalia,4,1,"12,4,11,17,11|10,11,8,15,4",R32,GRAND_SLAM,WS,355,Main Draw,PARTYKA Natalia (POL),SHIOMI Maki (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,JUNG Yumi,TODOROVIC Andrea,4,2,"11,11,7,13,5,12|7,9,11,11,11,10",R32,GRAND_SLAM,WS,355,Main Draw,JUNG Yumi (KOR),TODOROVIC Andrea (SRB)
-World Tour Czech Open Olomouc 2016,2016-08-31,HASHIMOTO Honoka,BATRA Manika,4,1,"8,11,11,11,11|11,2,8,4,8",R32,GRAND_SLAM,WS,355,Main Draw,HASHIMOTO Honoka (JPN),BATRA Manika (IND)
-World Tour Czech Open Olomouc 2016,2016-08-31,ZHANG Mo,GRZYBOWSKA-FRANC Katarzyna,4,3,"11,9,8,8,11,11,11|9,11,11,11,8,9,7",R32,GRAND_SLAM,WS,355,Main Draw,ZHANG Mo (CAN),GRZYBOWSKA-FRANC Katarzyna (POL)
-World Tour Czech Open Olomouc 2016,2016-08-31,WINTER Sabine,DOLGIKH Maria,4,1,"10,11,11,11,11|12,9,8,9,8",R32,GRAND_SLAM,WS,355,Main Draw,WINTER Sabine (GER),DOLGIKH Maria (RUS)
-World Tour Czech Open Olomouc 2016,2016-08-31,SONG Maeum,HAMAMOTO Yui,4,2,"12,4,11,11,13,11|10,11,8,4,15,7",R32,GRAND_SLAM,WS,355,Main Draw,SONG Maeum (KOR),HAMAMOTO Yui (AUT)
-World Tour Czech Open Olomouc 2016,2016-08-31,SATO Hitomi,SOLJA Amelie,4,0,"11,11,13,11|6,2,11,9",R16,GRAND_SLAM,WS,355,Main Draw,SATO Hitomi (JPN),SOLJA Amelie (AUT)
-World Tour Czech Open Olomouc 2016,2016-08-31,EKHOLM Matilda,POTA Georgina,4,1,"1,11,11,11,11|11,3,9,9,4",R16,GRAND_SLAM,WS,355,Main Draw,EKHOLM Matilda (SWE),POTA Georgina (HUN)
-World Tour Czech Open Olomouc 2016,2016-08-31,YANG Xiaoxin,MORIZONO Misaki,4,1,"11,4,14,13,13|2,11,12,11,11",R16,GRAND_SLAM,WS,355,Main Draw,MORIZONO Misaki (JPN),YANG Xiaoxin (MON)
-World Tour Czech Open Olomouc 2016,2016-08-31,MORI Sakura,MIKHAILOVA Polina,4,2,"13,7,11,11,6,11|11,11,5,9,11,9",R16,GRAND_SLAM,WS,355,Main Draw,MORI Sakura (JPN),MIKHAILOVA Polina (RUS)
-World Tour Czech Open Olomouc 2016,2016-08-31,LANG Kristin,ISHIGAKI Yuka,4,2,"10,14,11,11,11,11|12,16,3,5,7,7",R16,GRAND_SLAM,WS,355,Main Draw,ISHIGAKI Yuka (JPN),LANG Kristin (GER)
-World Tour Czech Open Olomouc 2016,2016-08-31,SHIOMI Maki,JUNG Yumi,4,1,"11,11,14,6,11|5,6,12,11,7",R16,GRAND_SLAM,WS,355,Main Draw,SHIOMI Maki (JPN),JUNG Yumi (KOR)
-World Tour Czech Open Olomouc 2016,2016-08-31,HASHIMOTO Honoka,ZHANG Mo,4,0,"11,12,11,11|9,10,6,3",R16,GRAND_SLAM,WS,355,Main Draw,HASHIMOTO Honoka (JPN),ZHANG Mo (CAN)
-World Tour Czech Open Olomouc 2016,2016-08-31,SONG Maeum,WINTER Sabine,4,1,"12,12,5,11,12|10,10,11,9,10",R16,GRAND_SLAM,WS,355,Main Draw,WINTER Sabine (GER),SONG Maeum (KOR)
-World Tour Czech Open Olomouc 2016,2016-08-31,EKHOLM Matilda,SATO Hitomi,4,0,"11,13,11,11|9,11,6,7",QF,GRAND_SLAM,WS,355,Main Draw,SATO Hitomi (JPN),EKHOLM Matilda (SWE)
-World Tour Czech Open Olomouc 2016,2016-08-31,YANG Xiaoxin,MORI Sakura,4,2,"13,6,5,11,11,11|11,11,11,7,9,9",QF,GRAND_SLAM,WS,355,Main Draw,YANG Xiaoxin (MON),MORI Sakura (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,SHIOMI Maki,LANG Kristin,4,2,"9,6,11,11,11,11|11,11,6,6,8,2",QF,GRAND_SLAM,WS,355,Main Draw,LANG Kristin (GER),SHIOMI Maki (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,HASHIMOTO Honoka,SONG Maeum,4,2,"14,9,11,10,11,11|12,11,9,12,4,8",QF,GRAND_SLAM,WS,355,Main Draw,HASHIMOTO Honoka (JPN),SONG Maeum (KOR)
-World Tour Czech Open Olomouc 2016,2016-08-31,YANG Xiaoxin,EKHOLM Matilda,4,3,"11,11,4,11,9,7,11|5,6,11,2,11,11,7",SF,GRAND_SLAM,WS,355,Main Draw,EKHOLM Matilda (SWE),YANG Xiaoxin (MON)
-World Tour Czech Open Olomouc 2016,2016-08-31,SHIOMI Maki,HASHIMOTO Honoka,4,0,"11,11,16,13|6,7,14,11",SF,GRAND_SLAM,WS,355,Main Draw,SHIOMI Maki (JPN),HASHIMOTO Honoka (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,YANG Xiaoxin,SHIOMI Maki,4,0,"11,11,12,11|9,5,10,6",F,GRAND_SLAM,WS,355,Main Draw,YANG Xiaoxin (MON),SHIOMI Maki (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,MURAMATSU Yuto,KOTIYAN Ravindra,3,0,"11,11,11|1,8,7",R64,GRAND_SLAM,U21MS,355,Main Draw,MURAMATSU Yuto (JPN),KOTIYAN Ravindra (IND)
-World Tour Czech Open Olomouc 2016,2016-08-31,FRANZEN Alexander,ALLEGRO Martin,3,2,"12,11,11,8,11|14,8,8,11,5",R64,GRAND_SLAM,U21MS,355,Main Draw,FRANZEN Alexander (SWE),ALLEGRO Martin (BEL)
-World Tour Czech Open Olomouc 2016,2016-08-31,KHANIN Aleksandr,FEDOTOV Petr,3,1,"11,7,11,11|8,11,9,9",R64,GRAND_SLAM,U21MS,355,Main Draw,KHANIN Aleksandr (BLR),FEDOTOV Petr (RUS)
-World Tour Czech Open Olomouc 2016,2016-08-31,GERASSIMENKO Kirill,KUCERA Stanislav,3,1,"11,11,7,11|8,4,11,7",R64,GRAND_SLAM,U21MS,355,Main Draw,KUCERA Stanislav (CZE),GERASSIMENKO Kirill (KAZ)
-World Tour Czech Open Olomouc 2016,2016-08-31,LIAO Cheng-Ting,PETER Ingemar,3,0,"17,11,15|15,4,13",R64,GRAND_SLAM,U21MS,355,Main Draw,LIAO Cheng-Ting (TPE),PETER Ingemar (SVK)
-World Tour Czech Open Olomouc 2016,2016-08-31,POLANSKY Tomas,FOLWARSKI Jakub,3,0,"11,11,14|3,6,12",R64,GRAND_SLAM,U21MS,355,Main Draw,FOLWARSKI Jakub (POL),POLANSKY Tomas (CZE)
-World Tour Czech Open Olomouc 2016,2016-08-31,MAJOROS Bence,SPELBUS Alin,3,1,"11,11,8,11|5,8,11,8",R64,GRAND_SLAM,U21MS,355,Main Draw,MAJOROS Bence (HUN),SPELBUS Alin (ROU)
-World Tour Czech Open Olomouc 2016,2016-08-31,LIM Jonghoon,KANAMITSU Koyo,3,2,"13,11,9,11,11|11,13,11,6,4",R64,GRAND_SLAM,U21MS,355,Main Draw,KANAMITSU Koyo (JPN),LIM Jonghoon (KOR)
-World Tour Czech Open Olomouc 2016,2016-08-31,SAMBE Kohei,REZETKA Roman,3,1,"11,11,8,12|4,7,11,10",R64,GRAND_SLAM,U21MS,355,Main Draw,SAMBE Kohei (JPN),REZETKA Roman (SVK)
-World Tour Czech Open Olomouc 2016,2016-08-31,ZATOWKA Patryk,PLETEA Cristian,3,1,"10,11,11,11|12,9,9,9",R64,GRAND_SLAM,U21MS,355,Main Draw,PLETEA Cristian (ROU),ZATOWKA Patryk (POL)
-World Tour Czech Open Olomouc 2016,2016-08-31,LANDRIEU Andrea,QIU Liang,3,1,"11,8,11,11|7,11,6,8",R64,GRAND_SLAM,U21MS,355,Main Draw,LANDRIEU Andrea (FRA),QIU Liang (GER)
-World Tour Czech Open Olomouc 2016,2016-08-31,KIM Minhyeok,KALUZNY Samuel,3,0,"11,14,11|9,12,7",R64,GRAND_SLAM,U21MS,355,Main Draw,KALUZNY Samuel (SVK),KIM Minhyeok (KOR)
-World Tour Czech Open Olomouc 2016,2016-08-31,AKKUZU Can,ARTEMENKO Nikita,3,0,"11,11,13|7,7,11",R64,GRAND_SLAM,U21MS,355,Main Draw,AKKUZU Can (FRA),ARTEMENKO Nikita (RUS)
-World Tour Czech Open Olomouc 2016,2016-08-31,PARK Jeongwoo,REITSPIES David,3,1,"11,17,11,11|8,15,13,4",R64,GRAND_SLAM,U21MS,355,Main Draw,REITSPIES David (CZE),PARK Jeongwoo (KOR)
-World Tour Czech Open Olomouc 2016,2016-08-31,NIELSEN Claus,KLEIN Dennis,3,2,"9,11,14,8,11|11,5,12,11,9",R64,GRAND_SLAM,U21MS,355,Main Draw,KLEIN Dennis (GER),NIELSEN Claus (DEN)
-World Tour Czech Open Olomouc 2016,2016-08-31,KALLBERG Anton,THAKKAR Manav,3,0,"11,11,11|4,8,6",R64,GRAND_SLAM,U21MS,355,Main Draw,THAKKAR Manav (IND),KALLBERG Anton (SWE)
-World Tour Czech Open Olomouc 2016,2016-08-31,HARIMOTO Tomokazu,GHOSH Arjun,3,1,"15,11,11,12|17,8,7,10",R64,GRAND_SLAM,U21MS,355,Main Draw,HARIMOTO Tomokazu (JPN),GHOSH Arjun (IND)
-World Tour Czech Open Olomouc 2016,2016-08-31,OGATA Ryotaro,KHATCHANOV Martin,3,0,"13,11,11|11,5,6",R64,GRAND_SLAM,U21MS,355,Main Draw,KHATCHANOV Martin (NED),OGATA Ryotaro (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,AN Jaehyun,PENG Wang-Wei,3,1,"11,8,11,11|7,11,4,5",R64,GRAND_SLAM,U21MS,355,Main Draw,AN Jaehyun (KOR),PENG Wang-Wei (TPE)
-World Tour Czech Open Olomouc 2016,2016-08-31,YOSHIMURA Kazuhiro,BACIOCCHI Alessandro,3,0,"11,11,11|9,9,5",R64,GRAND_SLAM,U21MS,355,Main Draw,BACIOCCHI Alessandro (ITA),YOSHIMURA Kazuhiro (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,PARK Chan-Hyeok,RYUZAKI Tonin,3,1,"11,11,10,11|8,4,12,8",R64,GRAND_SLAM,U21MS,355,Main Draw,RYUZAKI Tonin (JPN),PARK Chan-Hyeok (KOR)
-World Tour Czech Open Olomouc 2016,2016-08-31,SZUDI Adam,BADOWSKI Marek,3,0,"4,11,11,11|10,2,7,6",R64,GRAND_SLAM,U21MS,355,Main Draw,BADOWSKI Marek (POL),SZUDI Adam (HUN)
-World Tour Czech Open Olomouc 2016,2016-08-31,QIU Dang,MATSUYAMA Yuki,3,0,"11,11,11|9,9,7",R64,GRAND_SLAM,U21MS,355,Main Draw,QIU Dang (GER),MATSUYAMA Yuki (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,CHO Seungmin,WISUTMAYTHANGKOON Supanut,3,2,"11,11,5,11,11|13,9,11,6,7",R64,GRAND_SLAM,U21MS,355,Main Draw,WISUTMAYTHANGKOON Supanut (THA),CHO Seungmin (KOR)
-World Tour Czech Open Olomouc 2016,2016-08-31,OIKAWA Mizuki,SERDAROGLU David,3,0,"11,11,11|4,4,5",R64,GRAND_SLAM,U21MS,355,Main Draw,OIKAWA Mizuki (JPN),SERDAROGLU David (AUT)
-World Tour Czech Open Olomouc 2016,2016-08-31,UDA Yukiya,RUIZ Romain,3,1,"7,11,11,11|11,2,7,5",R64,GRAND_SLAM,U21MS,355,Main Draw,RUIZ Romain (FRA),UDA Yukiya (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,SUN Chia-Hung,KIM Minho,3,1,"11,11,11,11|13,4,2,3",R64,GRAND_SLAM,U21MS,355,Main Draw,SUN Chia-Hung (TPE),KIM Minho (KOR)
-World Tour Czech Open Olomouc 2016,2016-08-31,KIZUKURI Yuto,VALUCH Alexander,3,0,"11,11,11|7,4,2",R64,GRAND_SLAM,U21MS,355,Main Draw,VALUCH Alexander (SVK),KIZUKURI Yuto (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,PARK Ganghyeon,VALENTA Jan,3,0,"11,11,12|5,7,10",R64,GRAND_SLAM,U21MS,355,Main Draw,PARK Ganghyeon (KOR),VALENTA Jan (CZE)
-World Tour Czech Open Olomouc 2016,2016-08-31,ORT Kilian,YANG Tzu-Yi,3,1,"11,11,7,11|4,9,11,5",R64,GRAND_SLAM,U21MS,355,Main Draw,ORT Kilian (GER),YANG Tzu-Yi (TPE)
-World Tour Czech Open Olomouc 2016,2016-08-31,RANEFUR Elias,ECSEKI Nandor,3,0,"13,11,11|11,9,7",R64,GRAND_SLAM,U21MS,355,Main Draw,RANEFUR Elias (SWE),ECSEKI Nandor (HUN)
-World Tour Czech Open Olomouc 2016,2016-08-31,GERALDO Joao,MANOLE Alexandru,3,0,"11,11,11|6,6,4",R64,GRAND_SLAM,U21MS,355,Main Draw,MANOLE Alexandru (ROU),GERALDO Joao (POR)
-World Tour Czech Open Olomouc 2016,2016-08-31,MURAMATSU Yuto,FRANZEN Alexander,3,0,"11,12,11|7,10,7",R32,GRAND_SLAM,U21MS,355,Main Draw,MURAMATSU Yuto (JPN),FRANZEN Alexander (SWE)
-World Tour Czech Open Olomouc 2016,2016-08-31,GERASSIMENKO Kirill,KHANIN Aleksandr,3,1,"14,6,11,11|12,11,9,8",R32,GRAND_SLAM,U21MS,355,Main Draw,KHANIN Aleksandr (BLR),GERASSIMENKO Kirill (KAZ)
-World Tour Czech Open Olomouc 2016,2016-08-31,LIAO Cheng-Ting,POLANSKY Tomas,3,1,"11,7,11,11|6,11,6,8",R32,GRAND_SLAM,U21MS,355,Main Draw,LIAO Cheng-Ting (TPE),POLANSKY Tomas (CZE)
-World Tour Czech Open Olomouc 2016,2016-08-31,MAJOROS Bence,LIM Jonghoon,3,1,"12,9,11,11|10,11,5,9",R32,GRAND_SLAM,U21MS,355,Main Draw,MAJOROS Bence (HUN),LIM Jonghoon (KOR)
-World Tour Czech Open Olomouc 2016,2016-08-31,SAMBE Kohei,ZATOWKA Patryk,3,0,"14,11,11|12,9,7",R32,GRAND_SLAM,U21MS,355,Main Draw,SAMBE Kohei (JPN),ZATOWKA Patryk (POL)
-World Tour Czech Open Olomouc 2016,2016-08-31,LANDRIEU Andrea,KIM Minhyeok,3,2,"11,8,12,4,11|7,11,10,11,9",R32,GRAND_SLAM,U21MS,355,Main Draw,LANDRIEU Andrea (FRA),KIM Minhyeok (KOR)
-World Tour Czech Open Olomouc 2016,2016-08-31,AKKUZU Can,PARK Jeongwoo,3,1,"11,11,4,11|8,7,11,5",R32,GRAND_SLAM,U21MS,355,Main Draw,AKKUZU Can (FRA),PARK Jeongwoo (KOR)
-World Tour Czech Open Olomouc 2016,2016-08-31,KALLBERG Anton,NIELSEN Claus,3,2,"10,11,4,11,13|12,5,11,9,11",R32,GRAND_SLAM,U21MS,355,Main Draw,NIELSEN Claus (DEN),KALLBERG Anton (SWE)
-World Tour Czech Open Olomouc 2016,2016-08-31,HARIMOTO Tomokazu,OGATA Ryotaro,3,1,"11,8,11,13|5,11,7,11",R32,GRAND_SLAM,U21MS,355,Main Draw,HARIMOTO Tomokazu (JPN),OGATA Ryotaro (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,AN Jaehyun,YOSHIMURA Kazuhiro,3,2,"10,11,11,9,11|12,7,6,11,7",R32,GRAND_SLAM,U21MS,355,Main Draw,AN Jaehyun (KOR),YOSHIMURA Kazuhiro (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,PARK Chan-Hyeok,SZUDI Adam,3,1,"11,5,11,11|3,11,8,5",R32,GRAND_SLAM,U21MS,355,Main Draw,PARK Chan-Hyeok (KOR),SZUDI Adam (HUN)
-World Tour Czech Open Olomouc 2016,2016-08-31,QIU Dang,CHO Seungmin,3,2,"11,9,3,12,11|8,11,11,10,5",R32,GRAND_SLAM,U21MS,355,Main Draw,QIU Dang (GER),CHO Seungmin (KOR)
-World Tour Czech Open Olomouc 2016,2016-08-31,OIKAWA Mizuki,UDA Yukiya,3,0,"12,11,11|10,7,6",R32,GRAND_SLAM,U21MS,355,Main Draw,OIKAWA Mizuki (JPN),UDA Yukiya (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,KIZUKURI Yuto,SUN Chia-Hung,3,1,"11,11,9,11|8,7,11,5",R32,GRAND_SLAM,U21MS,355,Main Draw,SUN Chia-Hung (TPE),KIZUKURI Yuto (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,ORT Kilian,PARK Ganghyeon,3,0,"11,11,11|9,9,7",R32,GRAND_SLAM,U21MS,355,Main Draw,PARK Ganghyeon (KOR),ORT Kilian (GER)
-World Tour Czech Open Olomouc 2016,2016-08-31,RANEFUR Elias,GERALDO Joao,3,2,"11,10,8,11,11|6,12,11,8,9",R32,GRAND_SLAM,U21MS,355,Main Draw,RANEFUR Elias (SWE),GERALDO Joao (POR)
-World Tour Czech Open Olomouc 2016,2016-08-31,MAJOROS Bence,LIAO Cheng-Ting,3,2,"11,10,10,11,11|7,12,12,7,5",R16,GRAND_SLAM,U21MS,355,Main Draw,LIAO Cheng-Ting (TPE),MAJOROS Bence (HUN)
-World Tour Czech Open Olomouc 2016,2016-08-31,LANDRIEU Andrea,SAMBE Kohei,3,2,"11,10,11,14,11|8,12,8,16,8",R16,GRAND_SLAM,U21MS,355,Main Draw,SAMBE Kohei (JPN),LANDRIEU Andrea (FRA)
-World Tour Czech Open Olomouc 2016,2016-08-31,AKKUZU Can,KALLBERG Anton,3,1,"11,6,17,11|3,11,15,6",R16,GRAND_SLAM,U21MS,355,Main Draw,AKKUZU Can (FRA),KALLBERG Anton (SWE)
-World Tour Czech Open Olomouc 2016,2016-08-31,AN Jaehyun,HARIMOTO Tomokazu,3,0,"11,11,11|9,7,4",R16,GRAND_SLAM,U21MS,355,Main Draw,HARIMOTO Tomokazu (JPN),AN Jaehyun (KOR)
-World Tour Czech Open Olomouc 2016,2016-08-31,PARK Chan-Hyeok,QIU Dang,3,2,"8,11,11,9,11|11,4,9,11,8",R16,GRAND_SLAM,U21MS,355,Main Draw,PARK Chan-Hyeok (KOR),QIU Dang (GER)
-World Tour Czech Open Olomouc 2016,2016-08-31,OIKAWA Mizuki,KIZUKURI Yuto,3,1,"11,11,4,15|3,6,11,13",R16,GRAND_SLAM,U21MS,355,Main Draw,OIKAWA Mizuki (JPN),KIZUKURI Yuto (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,ORT Kilian,RANEFUR Elias,3,1,"11,14,12,11|8,16,10,4",R16,GRAND_SLAM,U21MS,355,Main Draw,ORT Kilian (GER),RANEFUR Elias (SWE)
-World Tour Czech Open Olomouc 2016,2016-08-31,MURAMATSU Yuto,MAJOROS Bence,3,0,"12,11,11|10,7,6",QF,GRAND_SLAM,U21MS,355,Main Draw,MURAMATSU Yuto (JPN),MAJOROS Bence (HUN)
-World Tour Czech Open Olomouc 2016,2016-08-31,AKKUZU Can,LANDRIEU Andrea,3,1,"11,12,8,11|6,10,11,8",QF,GRAND_SLAM,U21MS,355,Main Draw,LANDRIEU Andrea (FRA),AKKUZU Can (FRA)
-World Tour Czech Open Olomouc 2016,2016-08-31,PARK Chan-Hyeok,AN Jaehyun,3,2,"4,11,11,11,11|11,9,13,8,8",QF,GRAND_SLAM,U21MS,355,Main Draw,AN Jaehyun (KOR),PARK Chan-Hyeok (KOR)
-World Tour Czech Open Olomouc 2016,2016-08-31,OIKAWA Mizuki,ORT Kilian,3,0,"11,14,11|5,12,1",QF,GRAND_SLAM,U21MS,355,Main Draw,OIKAWA Mizuki (JPN),ORT Kilian (GER)
-World Tour Czech Open Olomouc 2016,2016-08-31,MURAMATSU Yuto,AKKUZU Can,3,1,"9,11,11,11|11,3,6,5",SF,GRAND_SLAM,U21MS,355,Main Draw,MURAMATSU Yuto (JPN),AKKUZU Can (FRA)
-World Tour Czech Open Olomouc 2016,2016-08-31,OIKAWA Mizuki,PARK Chan-Hyeok,3,0,"13,12,11|11,10,5",SF,GRAND_SLAM,U21MS,355,Main Draw,PARK Chan-Hyeok (KOR),OIKAWA Mizuki (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,MURAMATSU Yuto,OIKAWA Mizuki,3,0,"11,11,11|8,8,9",F,GRAND_SLAM,U21MS,355,Main Draw,MURAMATSU Yuto (JPN),OIKAWA Mizuki (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,HAMAMOTO Yui,DIAZ Melanie,3,0,"11,11,11|7,7,6",R32,GRAND_SLAM,U21WS,355,Main Draw,HAMAMOTO Yui (AUT),DIAZ Melanie (PUR)
-World Tour Czech Open Olomouc 2016,2016-08-31,BATRA Manika,NIKITCHANKA Alina,3,0,"11,11,11|5,4,3",R32,GRAND_SLAM,U21WS,355,Main Draw,NIKITCHANKA Alina (BLR),BATRA Manika (IND)
-World Tour Czech Open Olomouc 2016,2016-08-31,YOON Hyobin,ARLOUSKAYA Alina,3,2,"11,7,16,8,17|5,11,14,11,15",R32,GRAND_SLAM,U21WS,355,Main Draw,YOON Hyobin (KOR),ARLOUSKAYA Alina (BLR)
-World Tour Czech Open Olomouc 2016,2016-08-31,DIAZ Adriana,HADZIAHMETOVIC Emina,3,1,"11,11,6,11|9,8,11,5",R32,GRAND_SLAM,U21WS,355,Main Draw,HADZIAHMETOVIC Emina (BIH),DIAZ Adriana (PUR)
-World Tour Czech Open Olomouc 2016,2016-08-31,LEE Zion,LIN Chia-Hsuan,3,2,"9,8,11,11,11|11,11,7,8,8",R32,GRAND_SLAM,U21WS,355,Main Draw,LEE Zion (KOR),LIN Chia-Hsuan (TPE)
-World Tour Czech Open Olomouc 2016,2016-08-31,SHIOMI Maki,WAN Yuan,3,0,"11,11,11|6,7,3",R32,GRAND_SLAM,U21WS,355,Main Draw,WAN Yuan (GER),SHIOMI Maki (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,CIOBANU Irina,BAJOR Natalia,3,0,"11,11,11|2,9,9",R32,GRAND_SLAM,U21WS,355,Main Draw,BAJOR Natalia (POL),CIOBANU Irina (ROU)
-World Tour Czech Open Olomouc 2016,2016-08-31,MORI Sakura,LUPULESKU Izabela,3,0,"11,11,11|7,3,7",R32,GRAND_SLAM,U21WS,355,Main Draw,LUPULESKU Izabela (SRB),MORI Sakura (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,MAEDA Miyu,SLAZAK Julia,3,1,"11,9,11,11|3,11,7,1",R32,GRAND_SLAM,U21WS,355,Main Draw,MAEDA Miyu (JPN),SLAZAK Julia (POL)
-World Tour Czech Open Olomouc 2016,2016-08-31,LIN Po-Hsuan,BALINT Bernadett,3,2,"11,8,11,11,11|8,11,13,8,9",R32,GRAND_SLAM,U21WS,355,Main Draw,LIN Po-Hsuan (TPE),BALINT Bernadett (HUN)
-World Tour Czech Open Olomouc 2016,2016-08-31,SHIBATA Saki,PARK Seri,3,1,"11,9,11,11|9,11,5,7",R32,GRAND_SLAM,U21WS,355,Main Draw,SHIBATA Saki (JPN),PARK Seri (KOR)
-World Tour Czech Open Olomouc 2016,2016-08-31,JUNG Yumi,SAWETTABUT Jinnipa,3,1,"11,8,12,11|7,11,10,5",R32,GRAND_SLAM,U21WS,355,Main Draw,SAWETTABUT Jinnipa (THA),JUNG Yumi (KOR)
-World Tour Czech Open Olomouc 2016,2016-08-31,DIACONU Adina,MYNAROVA Karolina,3,1,"11,9,11,11|7,11,4,4",R32,GRAND_SLAM,U21WS,355,Main Draw,DIACONU Adina (ROU),MYNAROVA Karolina (CZE)
-World Tour Czech Open Olomouc 2016,2016-08-31,BERGSTROM Linda,ASAI Hitoe,3,2,"8,11,10,11,11|11,7,12,7,9",R32,GRAND_SLAM,U21WS,355,Main Draw,ASAI Hitoe (JPN),BERGSTROM Linda (SWE)
-World Tour Czech Open Olomouc 2016,2016-08-31,MANTZ Chantal,MUKHERJEE Ayhika,3,1,"8,11,13,11|11,6,11,7",R32,GRAND_SLAM,U21WS,355,Main Draw,MANTZ Chantal (GER),MUKHERJEE Ayhika (IND)
-World Tour Czech Open Olomouc 2016,2016-08-31,NAKAHATA Natsumi,TOMANOVSKA Katerina,3,2,"11,11,8,16,11|6,4,11,18,9",R32,GRAND_SLAM,U21WS,355,Main Draw,TOMANOVSKA Katerina (CZE),NAKAHATA Natsumi (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,HAMAMOTO Yui,BATRA Manika,3,2,"17,11,11,7,11|19,5,6,11,6",R16,GRAND_SLAM,U21WS,355,Main Draw,HAMAMOTO Yui (AUT),BATRA Manika (IND)
-World Tour Czech Open Olomouc 2016,2016-08-31,YOON Hyobin,DIAZ Adriana,3,1,"9,12,13,11|11,10,11,6",R16,GRAND_SLAM,U21WS,355,Main Draw,YOON Hyobin (KOR),DIAZ Adriana (PUR)
-World Tour Czech Open Olomouc 2016,2016-08-31,LEE Zion,SHIOMI Maki,3,2,"11,11,6,7,11|6,7,11,11,7",R16,GRAND_SLAM,U21WS,355,Main Draw,LEE Zion (KOR),SHIOMI Maki (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,CIOBANU Irina,MORI Sakura,3,0,"11,11,11|6,7,8",R16,GRAND_SLAM,U21WS,355,Main Draw,CIOBANU Irina (ROU),MORI Sakura (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,MAEDA Miyu,LIN Po-Hsuan,3,0,"11,13,11|8,11,8",R16,GRAND_SLAM,U21WS,355,Main Draw,MAEDA Miyu (JPN),LIN Po-Hsuan (TPE)
-World Tour Czech Open Olomouc 2016,2016-08-31,SHIBATA Saki,JUNG Yumi,3,1,"11,12,7,11|7,10,11,3",R16,GRAND_SLAM,U21WS,355,Main Draw,SHIBATA Saki (JPN),JUNG Yumi (KOR)
-World Tour Czech Open Olomouc 2016,2016-08-31,DIACONU Adina,BERGSTROM Linda,3,0,"11,11,11|8,9,5",R16,GRAND_SLAM,U21WS,355,Main Draw,DIACONU Adina (ROU),BERGSTROM Linda (SWE)
-World Tour Czech Open Olomouc 2016,2016-08-31,MANTZ Chantal,NAKAHATA Natsumi,3,1,"11,10,11,11|7,12,7,9",R16,GRAND_SLAM,U21WS,355,Main Draw,MANTZ Chantal (GER),NAKAHATA Natsumi (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,YOON Hyobin,HAMAMOTO Yui,3,2,"11,3,11,9,11|4,11,9,11,9",QF,GRAND_SLAM,U21WS,355,Main Draw,HAMAMOTO Yui (AUT),YOON Hyobin (KOR)
-World Tour Czech Open Olomouc 2016,2016-08-31,CIOBANU Irina,LEE Zion,3,0,"11,11,13|7,8,11",QF,GRAND_SLAM,U21WS,355,Main Draw,LEE Zion (KOR),CIOBANU Irina (ROU)
-World Tour Czech Open Olomouc 2016,2016-08-31,SHIBATA Saki,MAEDA Miyu,3,1,"8,11,16,11|11,9,14,9",QF,GRAND_SLAM,U21WS,355,Main Draw,MAEDA Miyu (JPN),SHIBATA Saki (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,DIACONU Adina,MANTZ Chantal,3,1,"17,11,8,11|15,8,11,3",QF,GRAND_SLAM,U21WS,355,Main Draw,DIACONU Adina (ROU),MANTZ Chantal (GER)
-World Tour Czech Open Olomouc 2016,2016-08-31,YOON Hyobin,CIOBANU Irina,3,2,"13,10,4,11,11|11,12,11,6,9",SF,GRAND_SLAM,U21WS,355,Main Draw,YOON Hyobin (KOR),CIOBANU Irina (ROU)
-World Tour Czech Open Olomouc 2016,2016-08-31,SHIBATA Saki,DIACONU Adina,3,0,"11,11,11|3,9,6",SF,GRAND_SLAM,U21WS,355,Main Draw,SHIBATA Saki (JPN),DIACONU Adina (ROU)
-World Tour Czech Open Olomouc 2016,2016-08-31,YOON Hyobin,SHIBATA Saki,3,1,"11,11,9,11|9,7,11,1",F,GRAND_SLAM,U21WS,355,Main Draw,YOON Hyobin (KOR),SHIBATA Saki (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,KONECNY Tomas/PROKOPCOV Dmitrij,FUJIMURA Tomoya/YOSHIMURA Kazuhiro,3,1,"6,12,14,11|11,10,12,8",R16,GRAND_SLAM,MD,355,Main Draw,KONECNY Tomas (CZE) / PROKOPCOV Dmitrij (CZE),FUJIMURA Tomoya (JPN) / YOSHIMURA Kazuhiro (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,FRANZISKA Patrick/GROTH Jonathan,KONECNY Tomas/PROKOPCOV Dmitrij,3,0,"11,12,11|5,10,6",QF,GRAND_SLAM,MD,355,Main Draw,FRANZISKA Patrick (GER) / GROTH Jonathan (DEN),KONECNY Tomas (CZE) / PROKOPCOV Dmitrij (CZE)
-World Tour Czech Open Olomouc 2016,2016-08-31,LANG Kristin/WINTER Sabine,STRBIKOVA Renata/HARABASZOVA Lenka,3,1,"10,14,11,11|12,12,2,3",R16,GRAND_SLAM,WD,355,Main Draw,LANG Kristin (GER) / WINTER Sabine (GER),STRBIKOVA Renata (CZE) / HARABASZOVA Lenka (CZE)
-World Tour Czech Open Olomouc 2016,2016-08-31,GROFOVA Karin/SIRUCKOVA Aneta,LANG Kristin/WINTER Sabine,3,2,"2,11,8,11,11|11,5,11,5,8",QF,GRAND_SLAM,WD,355,Main Draw,GROFOVA Karin (CZE) / SIRUCKOVA Aneta (CZE),LANG Kristin (GER) / WINTER Sabine (GER)
-World Tour Czech Open Olomouc 2016,2016-08-31,EKHOLM Matilda/POTA Georgina,GROFOVA Karin/SIRUCKOVA Aneta,3,0,"11,11,11|8,7,5",SF,GRAND_SLAM,WD,355,Main Draw,EKHOLM Matilda (SWE) / POTA Georgina (HUN),GROFOVA Karin (CZE) / SIRUCKOVA Aneta (CZE)
-World Tour Czech Open Olomouc 2016,2016-08-31,CHO Eonrae/PARK Jeongwoo,ORT Kilian/QIU Dang,3,0,"11,11,11|8,8,8",R16,GRAND_SLAM,MD,355,Main Draw,CHO Eonrae (KOR) / PARK Jeongwoo (KOR),ORT Kilian (GER) / QIU Dang (GER)
-World Tour Czech Open Olomouc 2016,2016-08-31,FILUS Ruwen/WANG Xi,LIAO Cheng-Ting/SUN Chia-Hung,3,0,"11,11,11|4,3,4",R16,GRAND_SLAM,MD,355,Main Draw,FILUS Ruwen (GER) / WANG Xi (GER),LIAO Cheng-Ting (TPE) / SUN Chia-Hung (TPE)
-World Tour Czech Open Olomouc 2016,2016-08-31,KIM Minhyeok/PARK Ganghyeon,FILUS Ruwen/WANG Xi,3,1,"11,8,12,12|9,11,10,10",QF,GRAND_SLAM,MD,355,Main Draw,KIM Minhyeok (KOR) / PARK Ganghyeon (KOR),FILUS Ruwen (GER) / WANG Xi (GER)
-World Tour Czech Open Olomouc 2016,2016-08-31,BATRA Manika/DAS Mouma,MANTZ Chantal/WAN Yuan,3,2,"7,8,12,12,11|11,11,10,10,7",QF,GRAND_SLAM,WD,355,Main Draw,BATRA Manika (IND) / DAS Mouma (IND),MANTZ Chantal (GER) / WAN Yuan (GER)
-World Tour Czech Open Olomouc 2016,2016-08-31,FRANZISKA Patrick/GROTH Jonathan,KOSIBA Daniel/NAGY Krisztian,3,1,"11,4,11,11|4,11,5,3",R16,GRAND_SLAM,MD,355,Main Draw,FRANZISKA Patrick (GER) / GROTH Jonathan (DEN),KOSIBA Daniel (HUN) / NAGY Krisztian (HUN)
-World Tour Czech Open Olomouc 2016,2016-08-31,GROFOVA Karin/SIRUCKOVA Aneta,MADARASZ Dora/PERGEL Szandra,3,1,"11,11,9,11|5,5,11,9",R16,GRAND_SLAM,WD,355,Main Draw,GROFOVA Karin (CZE) / SIRUCKOVA Aneta (CZE),MADARASZ Dora (HUN) / PERGEL Szandra (HUN)
-World Tour Czech Open Olomouc 2016,2016-08-31,EKHOLM Matilda/POTA Georgina,CIOBANU Irina/IACOB Camelia,3,0,"11,11,11|7,5,7",R16,GRAND_SLAM,WD,355,Main Draw,EKHOLM Matilda (SWE) / POTA Georgina (HUN),CIOBANU Irina (ROU) / IACOB Camelia (ROU)
-World Tour Czech Open Olomouc 2016,2016-08-31,GRZYBOWSKA-FRANC Katarzyna/PARTYKA Natalia,BALINT Bernadett/NAGYVARADI Mercedes,3,1,"11,7,11,11|5,11,7,9",R16,GRAND_SLAM,WD,355,Main Draw,GRZYBOWSKA-FRANC Katarzyna (POL) / PARTYKA Natalia (POL),BALINT Bernadett (HUN) / NAGYVARADI Mercedes (HUN)
-World Tour Czech Open Olomouc 2016,2016-08-31,EKHOLM Matilda/POTA Georgina,GRZYBOWSKA-FRANC Katarzyna/PARTYKA Natalia,3,0,"11,11,11|5,6,5",QF,GRAND_SLAM,WD,355,Main Draw,EKHOLM Matilda (SWE) / POTA Georgina (HUN),GRZYBOWSKA-FRANC Katarzyna (POL) / PARTYKA Natalia (POL)
-World Tour Czech Open Olomouc 2016,2016-08-31,BATRA Manika/DAS Mouma,HASHIMOTO Honoka/SATO Hitomi,3,2,"5,11,6,11,12|11,9,11,8,10",R16,GRAND_SLAM,WD,355,Main Draw,BATRA Manika (IND) / DAS Mouma (IND),HASHIMOTO Honoka (JPN) / SATO Hitomi (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,MATSUDAIRA Kenta/OSHIMA Yuya,LANDRIEU Andrea/LORENTZ Romain,3,1,"9,11,11,16|11,8,4,14",R16,GRAND_SLAM,MD,355,Main Draw,MATSUDAIRA Kenta (JPN) / OSHIMA Yuya (JPN),LANDRIEU Andrea (FRA) / LORENTZ Romain (FRA)
-World Tour Czech Open Olomouc 2016,2016-08-31,CHO Eonrae/PARK Jeongwoo,MATSUDAIRA Kenta/OSHIMA Yuya,3,0,"11,11,11|4,3,5",QF,GRAND_SLAM,MD,355,Main Draw,CHO Eonrae (KOR) / PARK Jeongwoo (KOR),MATSUDAIRA Kenta (JPN) / OSHIMA Yuya (JPN)
-World Tour Czech Open Olomouc 2016,2016-08-31,JANG Woojin/LIM Jonghoon,KOJIC Frane/ROBLES Alvaro,3,2,"5,6,13,11,11|11,11,11,6,8",R16,GRAND_SLAM,MD,355,Main Draw,JANG Woojin (KOR) / LIM Jonghoon (KOR),KOJIC Frane (CRO) / ROBLES Alvaro (ESP)
-World Tour Czech Open Olomouc 2016,2016-08-31,KIM Minhyeok/PARK Ganghyeon,DEVOS Robin/NUYTINCK Cedric,3,2,"11,11,9,5,11|8,9,11,11,5",R16,GRAND_SLAM,MD,355,Main Draw,KIM Minhyeok (KOR) / PARK Ganghyeon (KOR),DEVOS Robin (BEL) / NUYTINCK Cedric (BEL)
-World Tour Czech Open Olomouc 2016,2016-08-31,JANG Woojin/LIM Jonghoon,HACHARD Antoine/RUIZ Romain,3,1,"7,11,11,11|11,6,5,8",QF,GRAND_SLAM,MD,355,Main Draw,JANG Woojin (KOR) / LIM Jonghoon (KOR),HACHARD Antoine (FRA) / RUIZ Romain (FRA)
-World Tour Czech Open Olomouc 2016,2016-08-31,CHO Eonrae/PARK Jeongwoo,FRANZISKA Patrick/GROTH Jonathan,3,1,"11,4,11,11|8,11,2,6",SF,GRAND_SLAM,MD,355,Main Draw,CHO Eonrae (KOR) / PARK Jeongwoo (KOR),FRANZISKA Patrick (GER) / GROTH Jonathan (DEN)
-World Tour Czech Open Olomouc 2016,2016-08-31,KIM Minhyeok/PARK Ganghyeon,JANG Woojin/LIM Jonghoon,3,1,"8,11,11,11|11,9,9,8",SF,GRAND_SLAM,MD,355,Main Draw,KIM Minhyeok (KOR) / PARK Ganghyeon (KOR),JANG Woojin (KOR) / LIM Jonghoon (KOR)
-World Tour Czech Open Olomouc 2016,2016-08-31,CHO Eonrae/PARK Jeongwoo,KIM Minhyeok/PARK Ganghyeon,3,0,"11,11,14|8,6,12",F,GRAND_SLAM,MD,355,Main Draw,CHO Eonrae (KOR) / PARK Jeongwoo (KOR),KIM Minhyeok (KOR) / PARK Ganghyeon (KOR)
-World Tour Czech Open Olomouc 2016,2016-08-31,HACHARD Antoine/RUIZ Romain,BADOWSKI Marek/KULPA Konrad,3,1,"11,6,11,11|7,11,8,9",R16,GRAND_SLAM,MD,355,Main Draw,HACHARD Antoine (FRA) / RUIZ Romain (FRA),BADOWSKI Marek (POL) / KULPA Konrad (POL)
-World Tour Czech Open Olomouc 2016,2016-08-31,DOLGIKH Maria/MIKHAILOVA Polina,LIN Chia-Hsuan/LIN Po-Hsuan,3,1,"9,11,11,11|11,5,6,7",R16,GRAND_SLAM,WD,355,Main Draw,DOLGIKH Maria (RUS) / MIKHAILOVA Polina (RUS),LIN Chia-Hsuan (TPE) / LIN Po-Hsuan (TPE)
-World Tour Czech Open Olomouc 2016,2016-08-31,DOLGIKH Maria/MIKHAILOVA Polina,CECHOVA Dana/MATELOVA Hana,3,0,"11,11,11|4,5,9",QF,GRAND_SLAM,WD,355,Main Draw,DOLGIKH Maria (RUS) / MIKHAILOVA Polina (RUS),CECHOVA Dana (CZE) / MATELOVA Hana (CZE)
-World Tour Czech Open Olomouc 2016,2016-08-31,DOLGIKH Maria/MIKHAILOVA Polina,BATRA Manika/DAS Mouma,3,1,"8,14,14,11|11,12,12,4",SF,GRAND_SLAM,WD,355,Main Draw,DOLGIKH Maria (RUS) / MIKHAILOVA Polina (RUS),BATRA Manika (IND) / DAS Mouma (IND)
-World Tour Czech Open Olomouc 2016,2016-08-31,EKHOLM Matilda/POTA Georgina,DOLGIKH Maria/MIKHAILOVA Polina,3,2,"9,3,11,11,11|11,11,9,9,7",F,GRAND_SLAM,WD,355,Main Draw,EKHOLM Matilda (SWE) / POTA Georgina (HUN),DOLGIKH Maria (RUS) / MIKHAILOVA Polina (RUS)
-World Tour Czech Open Olomouc 2016,2016-08-31,MANTZ Chantal/WAN Yuan,GALIC Alex/MORET Rachel,3,1,"7,11,11,11|11,9,9,3",R16,GRAND_SLAM,WD,355,Main Draw,MANTZ Chantal (GER) / WAN Yuan (GER),GALIC Alex (SLO) / MORET Rachel (SUI)
-World Tour Czech Open Olomouc 2016,2016-08-31,CECHOVA Dana/MATELOVA Hana,BERGSTROM Linda/MOSKOVITS Daniela,3,1,"11,7,11,11|5,11,6,6",R16,GRAND_SLAM,WD,355,Main Draw,CECHOVA Dana (CZE) / MATELOVA Hana (CZE),BERGSTROM Linda (SWE) / MOSKOVITS Daniela (SWE)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+World Tour Czech Open Olomouc 2016,2016-08-31,MATSUDAIRA Kenta,PENG Wang-Wei,4,2,"8,11,11,11,7,11|11,8,7,3,11,3",R64,GRAND_SLAM,MS,355,Main Draw,MATSUDAIRA Kenta (JPN),PENG Wang-Wei (TPE),MATSUDAIRA Kenta
+World Tour Czech Open Olomouc 2016,2016-08-31,BAGGALEY Andrew,CHO Eonrae,4,3,"11,8,8,12,11,10,11|8,11,11,10,5,12,7",R64,GRAND_SLAM,MS,355,Main Draw,BAGGALEY Andrew (ENG),CHO Eonrae (KOR),BAGGALEY Andrew
+World Tour Czech Open Olomouc 2016,2016-08-31,TREGLER Tomas,SAMBE Kohei,4,2,"9,10,11,11,11,11|11,12,9,8,4,7",R64,GRAND_SLAM,MS,355,Main Draw,SAMBE Kohei (JPN),TREGLER Tomas (CZE),TREGLER Tomas
+World Tour Czech Open Olomouc 2016,2016-08-31,GERASSIMENKO Kirill,GERALDO Joao,4,3,"11,4,13,9,11,11,11|13,11,11,11,5,5,9",R64,GRAND_SLAM,MS,355,Main Draw,GERASSIMENKO Kirill (KAZ),GERALDO Joao (POR),GERASSIMENKO Kirill
+World Tour Czech Open Olomouc 2016,2016-08-31,NORDBERG Hampus,PROKOPCOV Dmitrij,4,2,"11,6,11,11,8,11|8,11,5,5,11,6",R64,GRAND_SLAM,MS,355,Main Draw,PROKOPCOV Dmitrij (CZE),NORDBERG Hampus (SWE),NORDBERG Hampus
+World Tour Czech Open Olomouc 2016,2016-08-31,RYUZAKI Tonin,DEVOS Robin,4,3,"6,11,5,11,7,12,11|11,6,11,6,11,10,6",R64,GRAND_SLAM,MS,355,Main Draw,RYUZAKI Tonin (JPN),DEVOS Robin (BEL),RYUZAKI Tonin
+World Tour Czech Open Olomouc 2016,2016-08-31,WANG Xi,LUNDQVIST Jens,4,0,"11,12,11,11|8,10,5,5",R64,GRAND_SLAM,MS,355,Main Draw,LUNDQVIST Jens (SWE),WANG Xi (GER),WANG Xi
+World Tour Czech Open Olomouc 2016,2016-08-31,MURAMATSU Yuto,SIPOS Rares,4,1,"11,11,4,11,11|4,6,11,3,1",R64,GRAND_SLAM,MS,355,Main Draw,SIPOS Rares (ROU),MURAMATSU Yuto (JPN),MURAMATSU Yuto
+World Tour Czech Open Olomouc 2016,2016-08-31,FRANZISKA Patrick,YOSHIMURA Kazuhiro,4,1,"11,11,11,7,11|4,5,9,11,1",R64,GRAND_SLAM,MS,355,Main Draw,FRANZISKA Patrick (GER),YOSHIMURA Kazuhiro (JPN),FRANZISKA Patrick
+World Tour Czech Open Olomouc 2016,2016-08-31,NUYTINCK Cedric,SEREDA Peter,4,1,"11,9,11,11,11|5,11,4,3,4",R64,GRAND_SLAM,MS,355,Main Draw,SEREDA Peter (SVK),NUYTINCK Cedric (BEL),NUYTINCK Cedric
+World Tour Czech Open Olomouc 2016,2016-08-31,CHO Seungmin,ANDERSSON Harald,4,1,"11,11,11,7,11|4,8,5,11,8",R64,GRAND_SLAM,MS,355,Main Draw,CHO Seungmin (KOR),ANDERSSON Harald (SWE),CHO Seungmin
+World Tour Czech Open Olomouc 2016,2016-08-31,TAKAKIWA Taku,VRABLIK Jiri,4,0,"11,11,11,11|7,3,9,3",R64,GRAND_SLAM,MS,355,Main Draw,VRABLIK Jiri (CZE),TAKAKIWA Taku (JPN),TAKAKIWA Taku
+World Tour Czech Open Olomouc 2016,2016-08-31,LEE Junsang,HARIMOTO Tomokazu,4,2,"11,11,6,6,16,11|7,6,11,11,14,5",R64,GRAND_SLAM,MS,355,Main Draw,HARIMOTO Tomokazu (JPN),LEE Junsang (KOR),LEE Junsang
+World Tour Czech Open Olomouc 2016,2016-08-31,DESAI Harmeet,WISUTMAYTHANGKOON Supanut,4,0,"12,11,12,13|10,4,10,11",R64,GRAND_SLAM,MS,355,Main Draw,WISUTMAYTHANGKOON Supanut (THA),DESAI Harmeet (IND),DESAI Harmeet
+World Tour Czech Open Olomouc 2016,2016-08-31,ROBLES Alvaro,MATSUYAMA Yuki,4,1,"11,11,11,9,11|6,5,9,11,9",R64,GRAND_SLAM,MS,355,Main Draw,ROBLES Alvaro (ESP),MATSUYAMA Yuki (JPN),ROBLES Alvaro
+World Tour Czech Open Olomouc 2016,2016-08-31,OSHIMA Yuya,KIM Minhyeok,4,2,"11,11,7,11,11,11|7,8,11,8,13,7",R64,GRAND_SLAM,MS,355,Main Draw,KIM Minhyeok (KOR),OSHIMA Yuya (JPN),OSHIMA Yuya
+World Tour Czech Open Olomouc 2016,2016-08-31,KARLSSON Mattias,GNANASEKARAN Sathiyan,4,0,"8,11,11,11,11|1,7,5,7,7",R64,GRAND_SLAM,MS,355,Main Draw,KARLSSON Mattias (SWE),GNANASEKARAN Sathiyan (IND),KARLSSON Mattias
+World Tour Czech Open Olomouc 2016,2016-08-31,LIM Jonghoon,AKKUZU Can,4,1,"14,15,11,9,11|12,13,8,11,9",R64,GRAND_SLAM,MS,355,Main Draw,AKKUZU Can (FRA),LIM Jonghoon (KOR),LIM Jonghoon
+World Tour Czech Open Olomouc 2016,2016-08-31,PARK Ganghyeon,ROBINOT Quentin,4,0,"11,11,11,11|7,9,5,2",R64,GRAND_SLAM,MS,355,Main Draw,ROBINOT Quentin (FRA),PARK Ganghyeon (KOR),PARK Ganghyeon
+World Tour Czech Open Olomouc 2016,2016-08-31,MENGEL Steffen,SZUDI Adam,4,3,"12,11,5,15,7,9,11|10,9,11,13,11,11,3",R64,GRAND_SLAM,MS,355,Main Draw,SZUDI Adam (HUN),MENGEL Steffen (GER),MENGEL Steffen
+World Tour Czech Open Olomouc 2016,2016-08-31,ARVIDSSON Simon,KONECNY Tomas,4,0,"12,11,11,11|10,5,4,4",R64,GRAND_SLAM,MS,355,Main Draw,KONECNY Tomas (CZE),ARVIDSSON Simon (SWE),ARVIDSSON Simon
+World Tour Czech Open Olomouc 2016,2016-08-31,KARAKASEVIC Aleksandar,KALUZNY Samuel,4,0,"11,11,11,11|5,6,7,8",R64,GRAND_SLAM,MS,355,Main Draw,KALUZNY Samuel (SVK),KARAKASEVIC Aleksandar (SRB),KARAKASEVIC Aleksandar
+World Tour Czech Open Olomouc 2016,2016-08-31,FUJIMURA Tomoya,HACHARD Antoine,4,2,"12,7,11,8,11,11|10,11,8,11,6,9",R64,GRAND_SLAM,MS,355,Main Draw,HACHARD Antoine (FRA),FUJIMURA Tomoya (JPN),FUJIMURA Tomoya
+World Tour Czech Open Olomouc 2016,2016-08-31,JANG Woojin,SODERLUND Hampus,4,2,"11,9,11,11,9,11|8,11,6,6,11,5",R64,GRAND_SLAM,MS,355,Main Draw,SODERLUND Hampus (SWE),JANG Woojin (KOR),JANG Woojin
+World Tour Czech Open Olomouc 2016,2016-08-31,FILUS Ruwen,KANAMITSU Koyo,4,0,"11,11,12,11|6,6,10,5",R64,GRAND_SLAM,MS,355,Main Draw,FILUS Ruwen (GER),KANAMITSU Koyo (JPN),FILUS Ruwen
+World Tour Czech Open Olomouc 2016,2016-08-31,KALLBERG Anton,PARK Chan-Hyeok,4,0,"11,11,11,11|5,9,7,5",R64,GRAND_SLAM,MS,355,Main Draw,PARK Chan-Hyeok (KOR),KALLBERG Anton (SWE),KALLBERG Anton
+World Tour Czech Open Olomouc 2016,2016-08-31,DUDA Benedikt,MAJOROS Bence,4,0,"11,11,11,13|8,9,9,11",R64,GRAND_SLAM,MS,355,Main Draw,DUDA Benedikt (GER),MAJOROS Bence (HUN),DUDA Benedikt
+World Tour Czech Open Olomouc 2016,2016-08-31,LORENTZ Romain,JANCARIK Lubomir,4,3,"11,5,11,11,8,3,11|8,11,3,7,11,11,9",R64,GRAND_SLAM,MS,355,Main Draw,LORENTZ Romain (FRA),JANCARIK Lubomir (CZE),LORENTZ Romain
+World Tour Czech Open Olomouc 2016,2016-08-31,BAUM Patrick,PLETEA Cristian,4,1,"9,11,11,11,11|11,5,6,8,7",R64,GRAND_SLAM,MS,355,Main Draw,BAUM Patrick (GER),PLETEA Cristian (ROU),BAUM Patrick
+World Tour Czech Open Olomouc 2016,2016-08-31,OUAICHE Stephane,KIZUKURI Yuto,4,1,"11,11,10,15,12|1,9,12,13,10",R64,GRAND_SLAM,MS,355,Main Draw,KIZUKURI Yuto (JPN),OUAICHE Stephane (ALG),OUAICHE Stephane
+World Tour Czech Open Olomouc 2016,2016-08-31,OIKAWA Mizuki,QIU Liang,4,1,"12,11,11,11,11|14,4,5,6,4",R64,GRAND_SLAM,MS,355,Main Draw,OIKAWA Mizuki (JPN),QIU Liang (GER),OIKAWA Mizuki
+World Tour Czech Open Olomouc 2016,2016-08-31,GROTH Jonathan,SIRUCEK Pavel,4,1,"5,11,11,11,11|11,2,9,4,1",R64,GRAND_SLAM,MS,355,Main Draw,SIRUCEK Pavel (CZE),GROTH Jonathan (DEN),GROTH Jonathan
+World Tour Czech Open Olomouc 2016,2016-08-31,MATSUDAIRA Kenta,BAGGALEY Andrew,4,3,"9,11,11,7,8,11,11|11,4,6,11,11,7,2",R32,GRAND_SLAM,MS,355,Main Draw,MATSUDAIRA Kenta (JPN),BAGGALEY Andrew (ENG),MATSUDAIRA Kenta
+World Tour Czech Open Olomouc 2016,2016-08-31,GERASSIMENKO Kirill,TREGLER Tomas,4,3,"7,12,11,9,11,8,13|11,10,7,11,8,11,11",R32,GRAND_SLAM,MS,355,Main Draw,TREGLER Tomas (CZE),GERASSIMENKO Kirill (KAZ),GERASSIMENKO Kirill
+World Tour Czech Open Olomouc 2016,2016-08-31,NORDBERG Hampus,RYUZAKI Tonin,4,2,"8,11,11,11,10,11|11,8,5,6,12,8",R32,GRAND_SLAM,MS,355,Main Draw,NORDBERG Hampus (SWE),RYUZAKI Tonin (JPN),NORDBERG Hampus
+World Tour Czech Open Olomouc 2016,2016-08-31,MURAMATSU Yuto,WANG Xi,4,2,"11,13,12,9,7,12|6,11,10,11,11,10",R32,GRAND_SLAM,MS,355,Main Draw,WANG Xi (GER),MURAMATSU Yuto (JPN),MURAMATSU Yuto
+World Tour Czech Open Olomouc 2016,2016-08-31,FRANZISKA Patrick,NUYTINCK Cedric,4,0,"11,11,11,11|9,9,6,4",R32,GRAND_SLAM,MS,355,Main Draw,FRANZISKA Patrick (GER),NUYTINCK Cedric (BEL),FRANZISKA Patrick
+World Tour Czech Open Olomouc 2016,2016-08-31,CHO Seungmin,TAKAKIWA Taku,4,2,"7,11,11,5,11,11|11,7,8,11,8,7",R32,GRAND_SLAM,MS,355,Main Draw,CHO Seungmin (KOR),TAKAKIWA Taku (JPN),CHO Seungmin
+World Tour Czech Open Olomouc 2016,2016-08-31,LEE Junsang,DESAI Harmeet,4,0,"11,13,11,11|7,11,8,8",R32,GRAND_SLAM,MS,355,Main Draw,LEE Junsang (KOR),DESAI Harmeet (IND),LEE Junsang
+World Tour Czech Open Olomouc 2016,2016-08-31,OSHIMA Yuya,ROBLES Alvaro,4,1,"9,11,11,11,14|11,7,9,6,12",R32,GRAND_SLAM,MS,355,Main Draw,ROBLES Alvaro (ESP),OSHIMA Yuya (JPN),OSHIMA Yuya
+World Tour Czech Open Olomouc 2016,2016-08-31,KARLSSON Mattias,LIM Jonghoon,4,1,"11,10,15,11,11|9,12,13,8,2",R32,GRAND_SLAM,MS,355,Main Draw,KARLSSON Mattias (SWE),LIM Jonghoon (KOR),KARLSSON Mattias
+World Tour Czech Open Olomouc 2016,2016-08-31,PARK Ganghyeon,MENGEL Steffen,4,0,"11,11,11,14|7,9,2,12",R32,GRAND_SLAM,MS,355,Main Draw,PARK Ganghyeon (KOR),MENGEL Steffen (GER),PARK Ganghyeon
+World Tour Czech Open Olomouc 2016,2016-08-31,KARAKASEVIC Aleksandar,ARVIDSSON Simon,4,0,"11,11,11,11|6,6,9,5",R32,GRAND_SLAM,MS,355,Main Draw,ARVIDSSON Simon (SWE),KARAKASEVIC Aleksandar (SRB),KARAKASEVIC Aleksandar
+World Tour Czech Open Olomouc 2016,2016-08-31,FUJIMURA Tomoya,JANG Woojin,4,1,"11,9,12,13,11|9,11,10,11,6",R32,GRAND_SLAM,MS,355,Main Draw,FUJIMURA Tomoya (JPN),JANG Woojin (KOR),FUJIMURA Tomoya
+World Tour Czech Open Olomouc 2016,2016-08-31,KALLBERG Anton,FILUS Ruwen,4,3,"3,12,11,9,11,12,11|11,10,8,11,13,10,7",R32,GRAND_SLAM,MS,355,Main Draw,FILUS Ruwen (GER),KALLBERG Anton (SWE),KALLBERG Anton
+World Tour Czech Open Olomouc 2016,2016-08-31,DUDA Benedikt,LORENTZ Romain,4,1,"11,11,13,7,11|6,5,11,11,3",R32,GRAND_SLAM,MS,355,Main Draw,DUDA Benedikt (GER),LORENTZ Romain (FRA),DUDA Benedikt
+World Tour Czech Open Olomouc 2016,2016-08-31,OUAICHE Stephane,BAUM Patrick,4,3,"5,14,11,10,9,11,15|11,12,9,12,11,7,13",R32,GRAND_SLAM,MS,355,Main Draw,BAUM Patrick (GER),OUAICHE Stephane (ALG),OUAICHE Stephane
+World Tour Czech Open Olomouc 2016,2016-08-31,OIKAWA Mizuki,GROTH Jonathan,4,2,"9,11,2,11,11,11|11,5,11,3,6,6",R32,GRAND_SLAM,MS,355,Main Draw,OIKAWA Mizuki (JPN),GROTH Jonathan (DEN),OIKAWA Mizuki
+World Tour Czech Open Olomouc 2016,2016-08-31,GERASSIMENKO Kirill,MATSUDAIRA Kenta,4,3,"14,9,11,6,12,5,11|12,11,9,11,7,11,9",R16,GRAND_SLAM,MS,355,Main Draw,MATSUDAIRA Kenta (JPN),GERASSIMENKO Kirill (KAZ),GERASSIMENKO Kirill
+World Tour Czech Open Olomouc 2016,2016-08-31,MURAMATSU Yuto,NORDBERG Hampus,4,0,"11,11,11,11|5,4,3,5",R16,GRAND_SLAM,MS,355,Main Draw,NORDBERG Hampus (SWE),MURAMATSU Yuto (JPN),MURAMATSU Yuto
+World Tour Czech Open Olomouc 2016,2016-08-31,CHO Seungmin,FRANZISKA Patrick,4,1,"11,9,14,11,11|4,11,12,6,8",R16,GRAND_SLAM,MS,355,Main Draw,FRANZISKA Patrick (GER),CHO Seungmin (KOR),CHO Seungmin
+World Tour Czech Open Olomouc 2016,2016-08-31,OSHIMA Yuya,LEE Junsang,4,1,"5,11,11,11,11|11,4,7,8,9",R16,GRAND_SLAM,MS,355,Main Draw,LEE Junsang (KOR),OSHIMA Yuya (JPN),OSHIMA Yuya
+World Tour Czech Open Olomouc 2016,2016-08-31,KARLSSON Mattias,PARK Ganghyeon,4,2,"9,5,11,11,11,11|11,11,9,9,9,9",R16,GRAND_SLAM,MS,355,Main Draw,KARLSSON Mattias (SWE),PARK Ganghyeon (KOR),KARLSSON Mattias
+World Tour Czech Open Olomouc 2016,2016-08-31,KARAKASEVIC Aleksandar,FUJIMURA Tomoya,4,2,"8,12,12,8,11,12|11,10,10,11,6,10",R16,GRAND_SLAM,MS,355,Main Draw,KARAKASEVIC Aleksandar (SRB),FUJIMURA Tomoya (JPN),KARAKASEVIC Aleksandar
+World Tour Czech Open Olomouc 2016,2016-08-31,KALLBERG Anton,DUDA Benedikt,4,3,"8,11,11,11,4,4,16|11,5,6,9,11,11,14",R16,GRAND_SLAM,MS,355,Main Draw,KALLBERG Anton (SWE),DUDA Benedikt (GER),KALLBERG Anton
+World Tour Czech Open Olomouc 2016,2016-08-31,OUAICHE Stephane,OIKAWA Mizuki,4,0,"15,11,11,11|13,6,7,6",R16,GRAND_SLAM,MS,355,Main Draw,OUAICHE Stephane (ALG),OIKAWA Mizuki (JPN),OUAICHE Stephane
+World Tour Czech Open Olomouc 2016,2016-08-31,MURAMATSU Yuto,GERASSIMENKO Kirill,4,1,"13,8,11,11,11|11,11,5,7,5",QF,GRAND_SLAM,MS,355,Main Draw,GERASSIMENKO Kirill (KAZ),MURAMATSU Yuto (JPN),MURAMATSU Yuto
+World Tour Czech Open Olomouc 2016,2016-08-31,CHO Seungmin,OSHIMA Yuya,4,0,"12,11,11,12|10,7,6,10",QF,GRAND_SLAM,MS,355,Main Draw,CHO Seungmin (KOR),OSHIMA Yuya (JPN),CHO Seungmin
+World Tour Czech Open Olomouc 2016,2016-08-31,KARAKASEVIC Aleksandar,KARLSSON Mattias,4,3,"7,9,11,7,11,11,11|11,11,9,11,4,9,9",QF,GRAND_SLAM,MS,355,Main Draw,KARLSSON Mattias (SWE),KARAKASEVIC Aleksandar (SRB),KARAKASEVIC Aleksandar
+World Tour Czech Open Olomouc 2016,2016-08-31,OUAICHE Stephane,KALLBERG Anton,4,1,"11,11,7,11,11|8,9,11,7,9",QF,GRAND_SLAM,MS,355,Main Draw,KALLBERG Anton (SWE),OUAICHE Stephane (ALG),OUAICHE Stephane
+World Tour Czech Open Olomouc 2016,2016-08-31,MURAMATSU Yuto,CHO Seungmin,4,3,"11,7,3,11,6,11,11|7,11,11,6,11,4,7",SF,GRAND_SLAM,MS,355,Main Draw,MURAMATSU Yuto (JPN),CHO Seungmin (KOR),MURAMATSU Yuto
+World Tour Czech Open Olomouc 2016,2016-08-31,OUAICHE Stephane,KARAKASEVIC Aleksandar,4,3,"12,6,8,11,6,11,11|10,11,11,7,11,7,7",SF,GRAND_SLAM,MS,355,Main Draw,KARAKASEVIC Aleksandar (SRB),OUAICHE Stephane (ALG),OUAICHE Stephane
+World Tour Czech Open Olomouc 2016,2016-08-31,MURAMATSU Yuto,OUAICHE Stephane,4,0,"12,11,11,11|9,5,7,4",F,GRAND_SLAM,MS,355,Main Draw,MURAMATSU Yuto (JPN),OUAICHE Stephane (ALG),MURAMATSU Yuto
+World Tour Czech Open Olomouc 2016,2016-08-31,SATO Hitomi,TENNISON Reeth,4,1,"11,8,11,11,11|5,11,3,7,4",R64,GRAND_SLAM,WS,355,Main Draw,SATO Hitomi (JPN),TENNISON Reeth (IND),SATO Hitomi
+World Tour Czech Open Olomouc 2016,2016-08-31,DAS Mouma,PERGEL Szandra,4,2,"11,11,5,11,8,11|2,8,11,3,11,7",R64,GRAND_SLAM,WS,355,Main Draw,DAS Mouma (IND),PERGEL Szandra (HUN),DAS Mouma
+World Tour Czech Open Olomouc 2016,2016-08-31,SOLJA Amelie,PARK Seri,4,1,"11,11,5,11,11|8,1,11,0,7",R64,GRAND_SLAM,WS,355,Main Draw,SOLJA Amelie (AUT),PARK Seri (KOR),SOLJA Amelie
+World Tour Czech Open Olomouc 2016,2016-08-31,MAEDA Miyu,ARLOUSKAYA Alina,4,0,"11,11,11,11|6,6,5,6",R64,GRAND_SLAM,WS,355,Main Draw,ARLOUSKAYA Alina (BLR),MAEDA Miyu (JPN),MAEDA Miyu
+World Tour Czech Open Olomouc 2016,2016-08-31,EKHOLM Matilda,ASAI Hitoe,4,0,"11,11,11,13|8,4,9,11",R64,GRAND_SLAM,WS,355,Main Draw,EKHOLM Matilda (SWE),ASAI Hitoe (JPN),EKHOLM Matilda
+World Tour Czech Open Olomouc 2016,2016-08-31,IACOB Camelia,KUZMINA Elena,4,3,"8,12,5,12,11,11,11|11,10,11,14,8,3,9",R64,GRAND_SLAM,WS,355,Main Draw,KUZMINA Elena (RUS),IACOB Camelia (ROU),IACOB Camelia
+World Tour Czech Open Olomouc 2016,2016-08-31,STRBIKOVA Renata,YOON Hyobin,4,1,"11,11,12,10,11|9,8,10,12,9",R64,GRAND_SLAM,WS,355,Main Draw,STRBIKOVA Renata (CZE),YOON Hyobin (KOR),STRBIKOVA Renata
+World Tour Czech Open Olomouc 2016,2016-08-31,POTA Georgina,MANTZ Chantal,4,1,"11,11,11,8,11|6,2,5,11,7",R64,GRAND_SLAM,WS,355,Main Draw,MANTZ Chantal (GER),POTA Georgina (HUN),POTA Georgina
+World Tour Czech Open Olomouc 2016,2016-08-31,MORIZONO Misaki,HADZIAHMETOVIC Emina,4,0,"11,11,11,11|6,9,6,4",R64,GRAND_SLAM,WS,355,Main Draw,MORIZONO Misaki (JPN),HADZIAHMETOVIC Emina (BIH),MORIZONO Misaki
+World Tour Czech Open Olomouc 2016,2016-08-31,MORET Rachel,PASKAUSKIENE Ruta,4,2,"5,11,6,11,11,11|11,5,11,7,5,9",R64,GRAND_SLAM,WS,355,Main Draw,MORET Rachel (SUI),PASKAUSKIENE Ruta (LTU),MORET Rachel
+World Tour Czech Open Olomouc 2016,2016-08-31,DIAZ Adriana,SHIBATA Saki,4,2,"12,1,11,11,8,11|10,11,9,2,11,8",R64,GRAND_SLAM,WS,355,Main Draw,DIAZ Adriana (PUR),SHIBATA Saki (JPN),DIAZ Adriana
+World Tour Czech Open Olomouc 2016,2016-08-31,YANG Xiaoxin,LIN Chia-Hsuan,4,0,"11,11,11,11|8,5,3,3",R64,GRAND_SLAM,WS,355,Main Draw,LIN Chia-Hsuan (TPE),YANG Xiaoxin (MON),YANG Xiaoxin
+World Tour Czech Open Olomouc 2016,2016-08-31,MORI Sakura,TOMANOVSKA Katerina,4,0,"11,12,11,11|4,10,3,3",R64,GRAND_SLAM,WS,355,Main Draw,MORI Sakura (JPN),TOMANOVSKA Katerina (CZE),MORI Sakura
+World Tour Czech Open Olomouc 2016,2016-08-31,MADARASZ Dora,GUI Lin,4,2,"11,7,11,11,5,11|2,11,5,8,11,5",R64,GRAND_SLAM,WS,355,Main Draw,GUI Lin (BRA),MADARASZ Dora (HUN),MADARASZ Dora
+World Tour Czech Open Olomouc 2016,2016-08-31,LOVAS Petra,CECHOVA Dana,4,0,"11,11,11,11|9,8,7,7",R64,GRAND_SLAM,WS,355,Main Draw,LOVAS Petra (HUN),CECHOVA Dana (CZE),LOVAS Petra
+World Tour Czech Open Olomouc 2016,2016-08-31,MIKHAILOVA Polina,GALIC Alex,4,1,"11,9,11,12,11|9,11,6,3,6",R64,GRAND_SLAM,WS,355,Main Draw,GALIC Alex (SLO),MIKHAILOVA Polina (RUS),MIKHAILOVA Polina
+World Tour Czech Open Olomouc 2016,2016-08-31,ISHIGAKI Yuka,BALINT Bernadett,4,0,"11,11,14,11|4,6,12,1",R64,GRAND_SLAM,WS,355,Main Draw,ISHIGAKI Yuka (JPN),BALINT Bernadett (HUN),ISHIGAKI Yuka
+World Tour Czech Open Olomouc 2016,2016-08-31,DIACONU Adina,LIN Chia-Chih,4,2,"7,11,11,6,11,11|11,9,4,11,4,4",R64,GRAND_SLAM,WS,355,Main Draw,LIN Chia-Chih (TPE),DIACONU Adina (ROU),DIACONU Adina
+World Tour Czech Open Olomouc 2016,2016-08-31,LEE Zion,LUPULESKU Izabela,4,0,"11,11,11,11|9,8,9,6",R64,GRAND_SLAM,WS,355,Main Draw,LEE Zion (KOR),LUPULESKU Izabela (SRB),LEE Zion
+World Tour Czech Open Olomouc 2016,2016-08-31,LANG Kristin,WANG Yi-Ju,4,1,"11,9,13,11,11|6,11,11,9,9",R64,GRAND_SLAM,WS,355,Main Draw,WANG Yi-Ju (TPE),LANG Kristin (GER),LANG Kristin
+World Tour Czech Open Olomouc 2016,2016-08-31,PARTYKA Natalia,KIM Olga,4,0,"11,11,13,11|8,4,11,8",R64,GRAND_SLAM,WS,355,Main Draw,PARTYKA Natalia (POL),KIM Olga (UZB),PARTYKA Natalia
+World Tour Czech Open Olomouc 2016,2016-08-31,SHIOMI Maki,MATELOVA Hana,4,0,"11,11,11,11|6,8,6,8",R64,GRAND_SLAM,WS,355,Main Draw,SHIOMI Maki (JPN),MATELOVA Hana (CZE),SHIOMI Maki
+World Tour Czech Open Olomouc 2016,2016-08-31,JUNG Yumi,WAN Yuan,4,0,"11,11,11,11|7,7,6,5",R64,GRAND_SLAM,WS,355,Main Draw,JUNG Yumi (KOR),WAN Yuan (GER),JUNG Yumi
+World Tour Czech Open Olomouc 2016,2016-08-31,TODOROVIC Andrea,NAKAHATA Natsumi,4,3,"5,11,11,11,11,7,11|11,13,3,5,5,11,6",R64,GRAND_SLAM,WS,355,Main Draw,TODOROVIC Andrea (SRB),NAKAHATA Natsumi (JPN),TODOROVIC Andrea
+World Tour Czech Open Olomouc 2016,2016-08-31,HASHIMOTO Honoka,SIKORSKA Magdalena,4,0,"11,11,11,11|3,7,1,6",R64,GRAND_SLAM,WS,355,Main Draw,HASHIMOTO Honoka (JPN),SIKORSKA Magdalena (POL),HASHIMOTO Honoka
+World Tour Czech Open Olomouc 2016,2016-08-31,BATRA Manika,DE NUTTE Sarah,4,2,"11,5,11,9,11,11|9,11,6,11,9,8",R64,GRAND_SLAM,WS,355,Main Draw,BATRA Manika (IND),DE NUTTE Sarah (LUX),BATRA Manika
+World Tour Czech Open Olomouc 2016,2016-08-31,ZHANG Mo,CIOBANU Irina,4,2,"11,11,5,11,5,14|4,7,11,8,11,12",R64,GRAND_SLAM,WS,355,Main Draw,ZHANG Mo (CAN),CIOBANU Irina (ROU),ZHANG Mo
+World Tour Czech Open Olomouc 2016,2016-08-31,GRZYBOWSKA-FRANC Katarzyna,VINOGRADOVA Mariia,4,1,"8,12,11,12,11|11,10,6,10,6",R64,GRAND_SLAM,WS,355,Main Draw,VINOGRADOVA Mariia (RUS),GRZYBOWSKA-FRANC Katarzyna (POL),GRZYBOWSKA-FRANC Katarzyna
+World Tour Czech Open Olomouc 2016,2016-08-31,WINTER Sabine,LIN Po-Hsuan,4,3,"11,12,6,8,7,11,11|7,10,11,11,11,6,9",R64,GRAND_SLAM,WS,355,Main Draw,WINTER Sabine (GER),LIN Po-Hsuan (TPE),WINTER Sabine
+World Tour Czech Open Olomouc 2016,2016-08-31,DOLGIKH Maria,BAJOR Natalia,4,0,"11,11,11,12|6,8,7,10",R64,GRAND_SLAM,WS,355,Main Draw,BAJOR Natalia (POL),DOLGIKH Maria (RUS),DOLGIKH Maria
+World Tour Czech Open Olomouc 2016,2016-08-31,SONG Maeum,TRIGOLOS Daria,4,0,"11,11,12,11|5,6,10,7",R64,GRAND_SLAM,WS,355,Main Draw,SONG Maeum (KOR),TRIGOLOS Daria (BLR),SONG Maeum
+World Tour Czech Open Olomouc 2016,2016-08-31,HAMAMOTO Yui,BERGSTROM Linda,4,0,"11,11,11,11|8,7,4,6",R64,GRAND_SLAM,WS,355,Main Draw,BERGSTROM Linda (SWE),HAMAMOTO Yui (AUT),HAMAMOTO Yui
+World Tour Czech Open Olomouc 2016,2016-08-31,SATO Hitomi,DAS Mouma,4,0,"11,11,11,11|8,7,7,4",R32,GRAND_SLAM,WS,355,Main Draw,SATO Hitomi (JPN),DAS Mouma (IND),SATO Hitomi
+World Tour Czech Open Olomouc 2016,2016-08-31,SOLJA Amelie,MAEDA Miyu,4,0,"11,11,12,11|7,9,10,5",R32,GRAND_SLAM,WS,355,Main Draw,SOLJA Amelie (AUT),MAEDA Miyu (JPN),SOLJA Amelie
+World Tour Czech Open Olomouc 2016,2016-08-31,EKHOLM Matilda,IACOB Camelia,4,1,"11,11,11,8,11|3,7,6,11,5",R32,GRAND_SLAM,WS,355,Main Draw,EKHOLM Matilda (SWE),IACOB Camelia (ROU),EKHOLM Matilda
+World Tour Czech Open Olomouc 2016,2016-08-31,POTA Georgina,STRBIKOVA Renata,4,0,"11,11,11,11|5,8,5,4",R32,GRAND_SLAM,WS,355,Main Draw,STRBIKOVA Renata (CZE),POTA Georgina (HUN),POTA Georgina
+World Tour Czech Open Olomouc 2016,2016-08-31,MORIZONO Misaki,MORET Rachel,4,0,"13,11,11,11|11,6,9,6",R32,GRAND_SLAM,WS,355,Main Draw,MORIZONO Misaki (JPN),MORET Rachel (SUI),MORIZONO Misaki
+World Tour Czech Open Olomouc 2016,2016-08-31,YANG Xiaoxin,DIAZ Adriana,4,0,"11,11,11,12|6,7,5,10",R32,GRAND_SLAM,WS,355,Main Draw,DIAZ Adriana (PUR),YANG Xiaoxin (MON),YANG Xiaoxin
+World Tour Czech Open Olomouc 2016,2016-08-31,MORI Sakura,MADARASZ Dora,4,3,"9,11,7,12,5,12,11|11,8,11,10,11,10,9",R32,GRAND_SLAM,WS,355,Main Draw,MORI Sakura (JPN),MADARASZ Dora (HUN),MORI Sakura
+World Tour Czech Open Olomouc 2016,2016-08-31,MIKHAILOVA Polina,LOVAS Petra,4,3,"6,11,11,9,8,11,11|11,7,7,11,11,3,5",R32,GRAND_SLAM,WS,355,Main Draw,LOVAS Petra (HUN),MIKHAILOVA Polina (RUS),MIKHAILOVA Polina
+World Tour Czech Open Olomouc 2016,2016-08-31,ISHIGAKI Yuka,DIACONU Adina,4,1,"11,11,11,10,11|9,8,3,12,5",R32,GRAND_SLAM,WS,355,Main Draw,ISHIGAKI Yuka (JPN),DIACONU Adina (ROU),ISHIGAKI Yuka
+World Tour Czech Open Olomouc 2016,2016-08-31,LANG Kristin,LEE Zion,4,0,"11,11,11,11|4,5,6,5",R32,GRAND_SLAM,WS,355,Main Draw,LEE Zion (KOR),LANG Kristin (GER),LANG Kristin
+World Tour Czech Open Olomouc 2016,2016-08-31,SHIOMI Maki,PARTYKA Natalia,4,1,"12,4,11,17,11|10,11,8,15,4",R32,GRAND_SLAM,WS,355,Main Draw,PARTYKA Natalia (POL),SHIOMI Maki (JPN),SHIOMI Maki
+World Tour Czech Open Olomouc 2016,2016-08-31,JUNG Yumi,TODOROVIC Andrea,4,2,"11,11,7,13,5,12|7,9,11,11,11,10",R32,GRAND_SLAM,WS,355,Main Draw,JUNG Yumi (KOR),TODOROVIC Andrea (SRB),JUNG Yumi
+World Tour Czech Open Olomouc 2016,2016-08-31,HASHIMOTO Honoka,BATRA Manika,4,1,"8,11,11,11,11|11,2,8,4,8",R32,GRAND_SLAM,WS,355,Main Draw,HASHIMOTO Honoka (JPN),BATRA Manika (IND),HASHIMOTO Honoka
+World Tour Czech Open Olomouc 2016,2016-08-31,ZHANG Mo,GRZYBOWSKA-FRANC Katarzyna,4,3,"11,9,8,8,11,11,11|9,11,11,11,8,9,7",R32,GRAND_SLAM,WS,355,Main Draw,ZHANG Mo (CAN),GRZYBOWSKA-FRANC Katarzyna (POL),ZHANG Mo
+World Tour Czech Open Olomouc 2016,2016-08-31,WINTER Sabine,DOLGIKH Maria,4,1,"10,11,11,11,11|12,9,8,9,8",R32,GRAND_SLAM,WS,355,Main Draw,WINTER Sabine (GER),DOLGIKH Maria (RUS),WINTER Sabine
+World Tour Czech Open Olomouc 2016,2016-08-31,SONG Maeum,HAMAMOTO Yui,4,2,"12,4,11,11,13,11|10,11,8,4,15,7",R32,GRAND_SLAM,WS,355,Main Draw,SONG Maeum (KOR),HAMAMOTO Yui (AUT),SONG Maeum
+World Tour Czech Open Olomouc 2016,2016-08-31,SATO Hitomi,SOLJA Amelie,4,0,"11,11,13,11|6,2,11,9",R16,GRAND_SLAM,WS,355,Main Draw,SATO Hitomi (JPN),SOLJA Amelie (AUT),SATO Hitomi
+World Tour Czech Open Olomouc 2016,2016-08-31,EKHOLM Matilda,POTA Georgina,4,1,"1,11,11,11,11|11,3,9,9,4",R16,GRAND_SLAM,WS,355,Main Draw,EKHOLM Matilda (SWE),POTA Georgina (HUN),EKHOLM Matilda
+World Tour Czech Open Olomouc 2016,2016-08-31,YANG Xiaoxin,MORIZONO Misaki,4,1,"11,4,14,13,13|2,11,12,11,11",R16,GRAND_SLAM,WS,355,Main Draw,MORIZONO Misaki (JPN),YANG Xiaoxin (MON),YANG Xiaoxin
+World Tour Czech Open Olomouc 2016,2016-08-31,MORI Sakura,MIKHAILOVA Polina,4,2,"13,7,11,11,6,11|11,11,5,9,11,9",R16,GRAND_SLAM,WS,355,Main Draw,MORI Sakura (JPN),MIKHAILOVA Polina (RUS),MORI Sakura
+World Tour Czech Open Olomouc 2016,2016-08-31,LANG Kristin,ISHIGAKI Yuka,4,2,"10,14,11,11,11,11|12,16,3,5,7,7",R16,GRAND_SLAM,WS,355,Main Draw,ISHIGAKI Yuka (JPN),LANG Kristin (GER),LANG Kristin
+World Tour Czech Open Olomouc 2016,2016-08-31,SHIOMI Maki,JUNG Yumi,4,1,"11,11,14,6,11|5,6,12,11,7",R16,GRAND_SLAM,WS,355,Main Draw,SHIOMI Maki (JPN),JUNG Yumi (KOR),SHIOMI Maki
+World Tour Czech Open Olomouc 2016,2016-08-31,HASHIMOTO Honoka,ZHANG Mo,4,0,"11,12,11,11|9,10,6,3",R16,GRAND_SLAM,WS,355,Main Draw,HASHIMOTO Honoka (JPN),ZHANG Mo (CAN),HASHIMOTO Honoka
+World Tour Czech Open Olomouc 2016,2016-08-31,SONG Maeum,WINTER Sabine,4,1,"12,12,5,11,12|10,10,11,9,10",R16,GRAND_SLAM,WS,355,Main Draw,WINTER Sabine (GER),SONG Maeum (KOR),SONG Maeum
+World Tour Czech Open Olomouc 2016,2016-08-31,EKHOLM Matilda,SATO Hitomi,4,0,"11,13,11,11|9,11,6,7",QF,GRAND_SLAM,WS,355,Main Draw,SATO Hitomi (JPN),EKHOLM Matilda (SWE),EKHOLM Matilda
+World Tour Czech Open Olomouc 2016,2016-08-31,YANG Xiaoxin,MORI Sakura,4,2,"13,6,5,11,11,11|11,11,11,7,9,9",QF,GRAND_SLAM,WS,355,Main Draw,YANG Xiaoxin (MON),MORI Sakura (JPN),YANG Xiaoxin
+World Tour Czech Open Olomouc 2016,2016-08-31,SHIOMI Maki,LANG Kristin,4,2,"9,6,11,11,11,11|11,11,6,6,8,2",QF,GRAND_SLAM,WS,355,Main Draw,LANG Kristin (GER),SHIOMI Maki (JPN),SHIOMI Maki
+World Tour Czech Open Olomouc 2016,2016-08-31,HASHIMOTO Honoka,SONG Maeum,4,2,"14,9,11,10,11,11|12,11,9,12,4,8",QF,GRAND_SLAM,WS,355,Main Draw,HASHIMOTO Honoka (JPN),SONG Maeum (KOR),HASHIMOTO Honoka
+World Tour Czech Open Olomouc 2016,2016-08-31,YANG Xiaoxin,EKHOLM Matilda,4,3,"11,11,4,11,9,7,11|5,6,11,2,11,11,7",SF,GRAND_SLAM,WS,355,Main Draw,EKHOLM Matilda (SWE),YANG Xiaoxin (MON),YANG Xiaoxin
+World Tour Czech Open Olomouc 2016,2016-08-31,SHIOMI Maki,HASHIMOTO Honoka,4,0,"11,11,16,13|6,7,14,11",SF,GRAND_SLAM,WS,355,Main Draw,SHIOMI Maki (JPN),HASHIMOTO Honoka (JPN),SHIOMI Maki
+World Tour Czech Open Olomouc 2016,2016-08-31,YANG Xiaoxin,SHIOMI Maki,4,0,"11,11,12,11|9,5,10,6",F,GRAND_SLAM,WS,355,Main Draw,YANG Xiaoxin (MON),SHIOMI Maki (JPN),YANG Xiaoxin
+World Tour Czech Open Olomouc 2016,2016-08-31,MURAMATSU Yuto,KOTIYAN Ravindra,3,0,"11,11,11|1,8,7",R64,GRAND_SLAM,U21MS,355,Main Draw,MURAMATSU Yuto (JPN),KOTIYAN Ravindra (IND),MURAMATSU Yuto
+World Tour Czech Open Olomouc 2016,2016-08-31,FRANZEN Alexander,ALLEGRO Martin,3,2,"12,11,11,8,11|14,8,8,11,5",R64,GRAND_SLAM,U21MS,355,Main Draw,FRANZEN Alexander (SWE),ALLEGRO Martin (BEL),FRANZEN Alexander
+World Tour Czech Open Olomouc 2016,2016-08-31,KHANIN Aleksandr,FEDOTOV Petr,3,1,"11,7,11,11|8,11,9,9",R64,GRAND_SLAM,U21MS,355,Main Draw,KHANIN Aleksandr (BLR),FEDOTOV Petr (RUS),KHANIN Aleksandr
+World Tour Czech Open Olomouc 2016,2016-08-31,GERASSIMENKO Kirill,KUCERA Stanislav,3,1,"11,11,7,11|8,4,11,7",R64,GRAND_SLAM,U21MS,355,Main Draw,KUCERA Stanislav (CZE),GERASSIMENKO Kirill (KAZ),GERASSIMENKO Kirill
+World Tour Czech Open Olomouc 2016,2016-08-31,LIAO Cheng-Ting,PETER Ingemar,3,0,"17,11,15|15,4,13",R64,GRAND_SLAM,U21MS,355,Main Draw,LIAO Cheng-Ting (TPE),PETER Ingemar (SVK),LIAO Cheng-Ting
+World Tour Czech Open Olomouc 2016,2016-08-31,POLANSKY Tomas,FOLWARSKI Jakub,3,0,"11,11,14|3,6,12",R64,GRAND_SLAM,U21MS,355,Main Draw,FOLWARSKI Jakub (POL),POLANSKY Tomas (CZE),POLANSKY Tomas
+World Tour Czech Open Olomouc 2016,2016-08-31,MAJOROS Bence,SPELBUS Alin,3,1,"11,11,8,11|5,8,11,8",R64,GRAND_SLAM,U21MS,355,Main Draw,MAJOROS Bence (HUN),SPELBUS Alin (ROU),MAJOROS Bence
+World Tour Czech Open Olomouc 2016,2016-08-31,LIM Jonghoon,KANAMITSU Koyo,3,2,"13,11,9,11,11|11,13,11,6,4",R64,GRAND_SLAM,U21MS,355,Main Draw,KANAMITSU Koyo (JPN),LIM Jonghoon (KOR),LIM Jonghoon
+World Tour Czech Open Olomouc 2016,2016-08-31,SAMBE Kohei,REZETKA Roman,3,1,"11,11,8,12|4,7,11,10",R64,GRAND_SLAM,U21MS,355,Main Draw,SAMBE Kohei (JPN),REZETKA Roman (SVK),SAMBE Kohei
+World Tour Czech Open Olomouc 2016,2016-08-31,ZATOWKA Patryk,PLETEA Cristian,3,1,"10,11,11,11|12,9,9,9",R64,GRAND_SLAM,U21MS,355,Main Draw,PLETEA Cristian (ROU),ZATOWKA Patryk (POL),ZATOWKA Patryk
+World Tour Czech Open Olomouc 2016,2016-08-31,LANDRIEU Andrea,QIU Liang,3,1,"11,8,11,11|7,11,6,8",R64,GRAND_SLAM,U21MS,355,Main Draw,LANDRIEU Andrea (FRA),QIU Liang (GER),LANDRIEU Andrea
+World Tour Czech Open Olomouc 2016,2016-08-31,KIM Minhyeok,KALUZNY Samuel,3,0,"11,14,11|9,12,7",R64,GRAND_SLAM,U21MS,355,Main Draw,KALUZNY Samuel (SVK),KIM Minhyeok (KOR),KIM Minhyeok
+World Tour Czech Open Olomouc 2016,2016-08-31,AKKUZU Can,ARTEMENKO Nikita,3,0,"11,11,13|7,7,11",R64,GRAND_SLAM,U21MS,355,Main Draw,AKKUZU Can (FRA),ARTEMENKO Nikita (RUS),AKKUZU Can
+World Tour Czech Open Olomouc 2016,2016-08-31,PARK Jeongwoo,REITSPIES David,3,1,"11,17,11,11|8,15,13,4",R64,GRAND_SLAM,U21MS,355,Main Draw,REITSPIES David (CZE),PARK Jeongwoo (KOR),PARK Jeongwoo
+World Tour Czech Open Olomouc 2016,2016-08-31,NIELSEN Claus,KLEIN Dennis,3,2,"9,11,14,8,11|11,5,12,11,9",R64,GRAND_SLAM,U21MS,355,Main Draw,KLEIN Dennis (GER),NIELSEN Claus (DEN),NIELSEN Claus
+World Tour Czech Open Olomouc 2016,2016-08-31,KALLBERG Anton,THAKKAR Manav,3,0,"11,11,11|4,8,6",R64,GRAND_SLAM,U21MS,355,Main Draw,THAKKAR Manav (IND),KALLBERG Anton (SWE),KALLBERG Anton
+World Tour Czech Open Olomouc 2016,2016-08-31,HARIMOTO Tomokazu,GHOSH Arjun,3,1,"15,11,11,12|17,8,7,10",R64,GRAND_SLAM,U21MS,355,Main Draw,HARIMOTO Tomokazu (JPN),GHOSH Arjun (IND),HARIMOTO Tomokazu
+World Tour Czech Open Olomouc 2016,2016-08-31,OGATA Ryotaro,KHATCHANOV Martin,3,0,"13,11,11|11,5,6",R64,GRAND_SLAM,U21MS,355,Main Draw,KHATCHANOV Martin (NED),OGATA Ryotaro (JPN),OGATA Ryotaro
+World Tour Czech Open Olomouc 2016,2016-08-31,AN Jaehyun,PENG Wang-Wei,3,1,"11,8,11,11|7,11,4,5",R64,GRAND_SLAM,U21MS,355,Main Draw,AN Jaehyun (KOR),PENG Wang-Wei (TPE),AN Jaehyun
+World Tour Czech Open Olomouc 2016,2016-08-31,YOSHIMURA Kazuhiro,BACIOCCHI Alessandro,3,0,"11,11,11|9,9,5",R64,GRAND_SLAM,U21MS,355,Main Draw,BACIOCCHI Alessandro (ITA),YOSHIMURA Kazuhiro (JPN),YOSHIMURA Kazuhiro
+World Tour Czech Open Olomouc 2016,2016-08-31,PARK Chan-Hyeok,RYUZAKI Tonin,3,1,"11,11,10,11|8,4,12,8",R64,GRAND_SLAM,U21MS,355,Main Draw,RYUZAKI Tonin (JPN),PARK Chan-Hyeok (KOR),PARK Chan-Hyeok
+World Tour Czech Open Olomouc 2016,2016-08-31,SZUDI Adam,BADOWSKI Marek,3,0,"4,11,11,11|10,2,7,6",R64,GRAND_SLAM,U21MS,355,Main Draw,BADOWSKI Marek (POL),SZUDI Adam (HUN),SZUDI Adam
+World Tour Czech Open Olomouc 2016,2016-08-31,QIU Dang,MATSUYAMA Yuki,3,0,"11,11,11|9,9,7",R64,GRAND_SLAM,U21MS,355,Main Draw,QIU Dang (GER),MATSUYAMA Yuki (JPN),QIU Dang
+World Tour Czech Open Olomouc 2016,2016-08-31,CHO Seungmin,WISUTMAYTHANGKOON Supanut,3,2,"11,11,5,11,11|13,9,11,6,7",R64,GRAND_SLAM,U21MS,355,Main Draw,WISUTMAYTHANGKOON Supanut (THA),CHO Seungmin (KOR),CHO Seungmin
+World Tour Czech Open Olomouc 2016,2016-08-31,OIKAWA Mizuki,SERDAROGLU David,3,0,"11,11,11|4,4,5",R64,GRAND_SLAM,U21MS,355,Main Draw,OIKAWA Mizuki (JPN),SERDAROGLU David (AUT),OIKAWA Mizuki
+World Tour Czech Open Olomouc 2016,2016-08-31,UDA Yukiya,RUIZ Romain,3,1,"7,11,11,11|11,2,7,5",R64,GRAND_SLAM,U21MS,355,Main Draw,RUIZ Romain (FRA),UDA Yukiya (JPN),UDA Yukiya
+World Tour Czech Open Olomouc 2016,2016-08-31,SUN Chia-Hung,KIM Minho,3,1,"11,11,11,11|13,4,2,3",R64,GRAND_SLAM,U21MS,355,Main Draw,SUN Chia-Hung (TPE),KIM Minho (KOR),SUN Chia-Hung
+World Tour Czech Open Olomouc 2016,2016-08-31,KIZUKURI Yuto,VALUCH Alexander,3,0,"11,11,11|7,4,2",R64,GRAND_SLAM,U21MS,355,Main Draw,VALUCH Alexander (SVK),KIZUKURI Yuto (JPN),KIZUKURI Yuto
+World Tour Czech Open Olomouc 2016,2016-08-31,PARK Ganghyeon,VALENTA Jan,3,0,"11,11,12|5,7,10",R64,GRAND_SLAM,U21MS,355,Main Draw,PARK Ganghyeon (KOR),VALENTA Jan (CZE),PARK Ganghyeon
+World Tour Czech Open Olomouc 2016,2016-08-31,ORT Kilian,YANG Tzu-Yi,3,1,"11,11,7,11|4,9,11,5",R64,GRAND_SLAM,U21MS,355,Main Draw,ORT Kilian (GER),YANG Tzu-Yi (TPE),ORT Kilian
+World Tour Czech Open Olomouc 2016,2016-08-31,RANEFUR Elias,ECSEKI Nandor,3,0,"13,11,11|11,9,7",R64,GRAND_SLAM,U21MS,355,Main Draw,RANEFUR Elias (SWE),ECSEKI Nandor (HUN),RANEFUR Elias
+World Tour Czech Open Olomouc 2016,2016-08-31,GERALDO Joao,MANOLE Alexandru,3,0,"11,11,11|6,6,4",R64,GRAND_SLAM,U21MS,355,Main Draw,MANOLE Alexandru (ROU),GERALDO Joao (POR),GERALDO Joao
+World Tour Czech Open Olomouc 2016,2016-08-31,MURAMATSU Yuto,FRANZEN Alexander,3,0,"11,12,11|7,10,7",R32,GRAND_SLAM,U21MS,355,Main Draw,MURAMATSU Yuto (JPN),FRANZEN Alexander (SWE),MURAMATSU Yuto
+World Tour Czech Open Olomouc 2016,2016-08-31,GERASSIMENKO Kirill,KHANIN Aleksandr,3,1,"14,6,11,11|12,11,9,8",R32,GRAND_SLAM,U21MS,355,Main Draw,KHANIN Aleksandr (BLR),GERASSIMENKO Kirill (KAZ),GERASSIMENKO Kirill
+World Tour Czech Open Olomouc 2016,2016-08-31,LIAO Cheng-Ting,POLANSKY Tomas,3,1,"11,7,11,11|6,11,6,8",R32,GRAND_SLAM,U21MS,355,Main Draw,LIAO Cheng-Ting (TPE),POLANSKY Tomas (CZE),LIAO Cheng-Ting
+World Tour Czech Open Olomouc 2016,2016-08-31,MAJOROS Bence,LIM Jonghoon,3,1,"12,9,11,11|10,11,5,9",R32,GRAND_SLAM,U21MS,355,Main Draw,MAJOROS Bence (HUN),LIM Jonghoon (KOR),MAJOROS Bence
+World Tour Czech Open Olomouc 2016,2016-08-31,SAMBE Kohei,ZATOWKA Patryk,3,0,"14,11,11|12,9,7",R32,GRAND_SLAM,U21MS,355,Main Draw,SAMBE Kohei (JPN),ZATOWKA Patryk (POL),SAMBE Kohei
+World Tour Czech Open Olomouc 2016,2016-08-31,LANDRIEU Andrea,KIM Minhyeok,3,2,"11,8,12,4,11|7,11,10,11,9",R32,GRAND_SLAM,U21MS,355,Main Draw,LANDRIEU Andrea (FRA),KIM Minhyeok (KOR),LANDRIEU Andrea
+World Tour Czech Open Olomouc 2016,2016-08-31,AKKUZU Can,PARK Jeongwoo,3,1,"11,11,4,11|8,7,11,5",R32,GRAND_SLAM,U21MS,355,Main Draw,AKKUZU Can (FRA),PARK Jeongwoo (KOR),AKKUZU Can
+World Tour Czech Open Olomouc 2016,2016-08-31,KALLBERG Anton,NIELSEN Claus,3,2,"10,11,4,11,13|12,5,11,9,11",R32,GRAND_SLAM,U21MS,355,Main Draw,NIELSEN Claus (DEN),KALLBERG Anton (SWE),KALLBERG Anton
+World Tour Czech Open Olomouc 2016,2016-08-31,HARIMOTO Tomokazu,OGATA Ryotaro,3,1,"11,8,11,13|5,11,7,11",R32,GRAND_SLAM,U21MS,355,Main Draw,HARIMOTO Tomokazu (JPN),OGATA Ryotaro (JPN),HARIMOTO Tomokazu
+World Tour Czech Open Olomouc 2016,2016-08-31,AN Jaehyun,YOSHIMURA Kazuhiro,3,2,"10,11,11,9,11|12,7,6,11,7",R32,GRAND_SLAM,U21MS,355,Main Draw,AN Jaehyun (KOR),YOSHIMURA Kazuhiro (JPN),AN Jaehyun
+World Tour Czech Open Olomouc 2016,2016-08-31,PARK Chan-Hyeok,SZUDI Adam,3,1,"11,5,11,11|3,11,8,5",R32,GRAND_SLAM,U21MS,355,Main Draw,PARK Chan-Hyeok (KOR),SZUDI Adam (HUN),PARK Chan-Hyeok
+World Tour Czech Open Olomouc 2016,2016-08-31,QIU Dang,CHO Seungmin,3,2,"11,9,3,12,11|8,11,11,10,5",R32,GRAND_SLAM,U21MS,355,Main Draw,QIU Dang (GER),CHO Seungmin (KOR),QIU Dang
+World Tour Czech Open Olomouc 2016,2016-08-31,OIKAWA Mizuki,UDA Yukiya,3,0,"12,11,11|10,7,6",R32,GRAND_SLAM,U21MS,355,Main Draw,OIKAWA Mizuki (JPN),UDA Yukiya (JPN),OIKAWA Mizuki
+World Tour Czech Open Olomouc 2016,2016-08-31,KIZUKURI Yuto,SUN Chia-Hung,3,1,"11,11,9,11|8,7,11,5",R32,GRAND_SLAM,U21MS,355,Main Draw,SUN Chia-Hung (TPE),KIZUKURI Yuto (JPN),KIZUKURI Yuto
+World Tour Czech Open Olomouc 2016,2016-08-31,ORT Kilian,PARK Ganghyeon,3,0,"11,11,11|9,9,7",R32,GRAND_SLAM,U21MS,355,Main Draw,PARK Ganghyeon (KOR),ORT Kilian (GER),ORT Kilian
+World Tour Czech Open Olomouc 2016,2016-08-31,RANEFUR Elias,GERALDO Joao,3,2,"11,10,8,11,11|6,12,11,8,9",R32,GRAND_SLAM,U21MS,355,Main Draw,RANEFUR Elias (SWE),GERALDO Joao (POR),RANEFUR Elias
+World Tour Czech Open Olomouc 2016,2016-08-31,MAJOROS Bence,LIAO Cheng-Ting,3,2,"11,10,10,11,11|7,12,12,7,5",R16,GRAND_SLAM,U21MS,355,Main Draw,LIAO Cheng-Ting (TPE),MAJOROS Bence (HUN),MAJOROS Bence
+World Tour Czech Open Olomouc 2016,2016-08-31,LANDRIEU Andrea,SAMBE Kohei,3,2,"11,10,11,14,11|8,12,8,16,8",R16,GRAND_SLAM,U21MS,355,Main Draw,SAMBE Kohei (JPN),LANDRIEU Andrea (FRA),LANDRIEU Andrea
+World Tour Czech Open Olomouc 2016,2016-08-31,AKKUZU Can,KALLBERG Anton,3,1,"11,6,17,11|3,11,15,6",R16,GRAND_SLAM,U21MS,355,Main Draw,AKKUZU Can (FRA),KALLBERG Anton (SWE),AKKUZU Can
+World Tour Czech Open Olomouc 2016,2016-08-31,AN Jaehyun,HARIMOTO Tomokazu,3,0,"11,11,11|9,7,4",R16,GRAND_SLAM,U21MS,355,Main Draw,HARIMOTO Tomokazu (JPN),AN Jaehyun (KOR),AN Jaehyun
+World Tour Czech Open Olomouc 2016,2016-08-31,PARK Chan-Hyeok,QIU Dang,3,2,"8,11,11,9,11|11,4,9,11,8",R16,GRAND_SLAM,U21MS,355,Main Draw,PARK Chan-Hyeok (KOR),QIU Dang (GER),PARK Chan-Hyeok
+World Tour Czech Open Olomouc 2016,2016-08-31,OIKAWA Mizuki,KIZUKURI Yuto,3,1,"11,11,4,15|3,6,11,13",R16,GRAND_SLAM,U21MS,355,Main Draw,OIKAWA Mizuki (JPN),KIZUKURI Yuto (JPN),OIKAWA Mizuki
+World Tour Czech Open Olomouc 2016,2016-08-31,ORT Kilian,RANEFUR Elias,3,1,"11,14,12,11|8,16,10,4",R16,GRAND_SLAM,U21MS,355,Main Draw,ORT Kilian (GER),RANEFUR Elias (SWE),ORT Kilian
+World Tour Czech Open Olomouc 2016,2016-08-31,MURAMATSU Yuto,MAJOROS Bence,3,0,"12,11,11|10,7,6",QF,GRAND_SLAM,U21MS,355,Main Draw,MURAMATSU Yuto (JPN),MAJOROS Bence (HUN),MURAMATSU Yuto
+World Tour Czech Open Olomouc 2016,2016-08-31,AKKUZU Can,LANDRIEU Andrea,3,1,"11,12,8,11|6,10,11,8",QF,GRAND_SLAM,U21MS,355,Main Draw,LANDRIEU Andrea (FRA),AKKUZU Can (FRA),AKKUZU Can
+World Tour Czech Open Olomouc 2016,2016-08-31,PARK Chan-Hyeok,AN Jaehyun,3,2,"4,11,11,11,11|11,9,13,8,8",QF,GRAND_SLAM,U21MS,355,Main Draw,AN Jaehyun (KOR),PARK Chan-Hyeok (KOR),PARK Chan-Hyeok
+World Tour Czech Open Olomouc 2016,2016-08-31,OIKAWA Mizuki,ORT Kilian,3,0,"11,14,11|5,12,1",QF,GRAND_SLAM,U21MS,355,Main Draw,OIKAWA Mizuki (JPN),ORT Kilian (GER),OIKAWA Mizuki
+World Tour Czech Open Olomouc 2016,2016-08-31,MURAMATSU Yuto,AKKUZU Can,3,1,"9,11,11,11|11,3,6,5",SF,GRAND_SLAM,U21MS,355,Main Draw,MURAMATSU Yuto (JPN),AKKUZU Can (FRA),MURAMATSU Yuto
+World Tour Czech Open Olomouc 2016,2016-08-31,OIKAWA Mizuki,PARK Chan-Hyeok,3,0,"13,12,11|11,10,5",SF,GRAND_SLAM,U21MS,355,Main Draw,PARK Chan-Hyeok (KOR),OIKAWA Mizuki (JPN),OIKAWA Mizuki
+World Tour Czech Open Olomouc 2016,2016-08-31,MURAMATSU Yuto,OIKAWA Mizuki,3,0,"11,11,11|8,8,9",F,GRAND_SLAM,U21MS,355,Main Draw,MURAMATSU Yuto (JPN),OIKAWA Mizuki (JPN),MURAMATSU Yuto
+World Tour Czech Open Olomouc 2016,2016-08-31,HAMAMOTO Yui,DIAZ Melanie,3,0,"11,11,11|7,7,6",R32,GRAND_SLAM,U21WS,355,Main Draw,HAMAMOTO Yui (AUT),DIAZ Melanie (PUR),HAMAMOTO Yui
+World Tour Czech Open Olomouc 2016,2016-08-31,BATRA Manika,NIKITCHANKA Alina,3,0,"11,11,11|5,4,3",R32,GRAND_SLAM,U21WS,355,Main Draw,NIKITCHANKA Alina (BLR),BATRA Manika (IND),BATRA Manika
+World Tour Czech Open Olomouc 2016,2016-08-31,YOON Hyobin,ARLOUSKAYA Alina,3,2,"11,7,16,8,17|5,11,14,11,15",R32,GRAND_SLAM,U21WS,355,Main Draw,YOON Hyobin (KOR),ARLOUSKAYA Alina (BLR),YOON Hyobin
+World Tour Czech Open Olomouc 2016,2016-08-31,DIAZ Adriana,HADZIAHMETOVIC Emina,3,1,"11,11,6,11|9,8,11,5",R32,GRAND_SLAM,U21WS,355,Main Draw,HADZIAHMETOVIC Emina (BIH),DIAZ Adriana (PUR),DIAZ Adriana
+World Tour Czech Open Olomouc 2016,2016-08-31,LEE Zion,LIN Chia-Hsuan,3,2,"9,8,11,11,11|11,11,7,8,8",R32,GRAND_SLAM,U21WS,355,Main Draw,LEE Zion (KOR),LIN Chia-Hsuan (TPE),LEE Zion
+World Tour Czech Open Olomouc 2016,2016-08-31,SHIOMI Maki,WAN Yuan,3,0,"11,11,11|6,7,3",R32,GRAND_SLAM,U21WS,355,Main Draw,WAN Yuan (GER),SHIOMI Maki (JPN),SHIOMI Maki
+World Tour Czech Open Olomouc 2016,2016-08-31,CIOBANU Irina,BAJOR Natalia,3,0,"11,11,11|2,9,9",R32,GRAND_SLAM,U21WS,355,Main Draw,BAJOR Natalia (POL),CIOBANU Irina (ROU),CIOBANU Irina
+World Tour Czech Open Olomouc 2016,2016-08-31,MORI Sakura,LUPULESKU Izabela,3,0,"11,11,11|7,3,7",R32,GRAND_SLAM,U21WS,355,Main Draw,LUPULESKU Izabela (SRB),MORI Sakura (JPN),MORI Sakura
+World Tour Czech Open Olomouc 2016,2016-08-31,MAEDA Miyu,SLAZAK Julia,3,1,"11,9,11,11|3,11,7,1",R32,GRAND_SLAM,U21WS,355,Main Draw,MAEDA Miyu (JPN),SLAZAK Julia (POL),MAEDA Miyu
+World Tour Czech Open Olomouc 2016,2016-08-31,LIN Po-Hsuan,BALINT Bernadett,3,2,"11,8,11,11,11|8,11,13,8,9",R32,GRAND_SLAM,U21WS,355,Main Draw,LIN Po-Hsuan (TPE),BALINT Bernadett (HUN),LIN Po-Hsuan
+World Tour Czech Open Olomouc 2016,2016-08-31,SHIBATA Saki,PARK Seri,3,1,"11,9,11,11|9,11,5,7",R32,GRAND_SLAM,U21WS,355,Main Draw,SHIBATA Saki (JPN),PARK Seri (KOR),SHIBATA Saki
+World Tour Czech Open Olomouc 2016,2016-08-31,JUNG Yumi,SAWETTABUT Jinnipa,3,1,"11,8,12,11|7,11,10,5",R32,GRAND_SLAM,U21WS,355,Main Draw,SAWETTABUT Jinnipa (THA),JUNG Yumi (KOR),JUNG Yumi
+World Tour Czech Open Olomouc 2016,2016-08-31,DIACONU Adina,MYNAROVA Karolina,3,1,"11,9,11,11|7,11,4,4",R32,GRAND_SLAM,U21WS,355,Main Draw,DIACONU Adina (ROU),MYNAROVA Karolina (CZE),DIACONU Adina
+World Tour Czech Open Olomouc 2016,2016-08-31,BERGSTROM Linda,ASAI Hitoe,3,2,"8,11,10,11,11|11,7,12,7,9",R32,GRAND_SLAM,U21WS,355,Main Draw,ASAI Hitoe (JPN),BERGSTROM Linda (SWE),BERGSTROM Linda
+World Tour Czech Open Olomouc 2016,2016-08-31,MANTZ Chantal,MUKHERJEE Ayhika,3,1,"8,11,13,11|11,6,11,7",R32,GRAND_SLAM,U21WS,355,Main Draw,MANTZ Chantal (GER),MUKHERJEE Ayhika (IND),MANTZ Chantal
+World Tour Czech Open Olomouc 2016,2016-08-31,NAKAHATA Natsumi,TOMANOVSKA Katerina,3,2,"11,11,8,16,11|6,4,11,18,9",R32,GRAND_SLAM,U21WS,355,Main Draw,TOMANOVSKA Katerina (CZE),NAKAHATA Natsumi (JPN),NAKAHATA Natsumi
+World Tour Czech Open Olomouc 2016,2016-08-31,HAMAMOTO Yui,BATRA Manika,3,2,"17,11,11,7,11|19,5,6,11,6",R16,GRAND_SLAM,U21WS,355,Main Draw,HAMAMOTO Yui (AUT),BATRA Manika (IND),HAMAMOTO Yui
+World Tour Czech Open Olomouc 2016,2016-08-31,YOON Hyobin,DIAZ Adriana,3,1,"9,12,13,11|11,10,11,6",R16,GRAND_SLAM,U21WS,355,Main Draw,YOON Hyobin (KOR),DIAZ Adriana (PUR),YOON Hyobin
+World Tour Czech Open Olomouc 2016,2016-08-31,LEE Zion,SHIOMI Maki,3,2,"11,11,6,7,11|6,7,11,11,7",R16,GRAND_SLAM,U21WS,355,Main Draw,LEE Zion (KOR),SHIOMI Maki (JPN),LEE Zion
+World Tour Czech Open Olomouc 2016,2016-08-31,CIOBANU Irina,MORI Sakura,3,0,"11,11,11|6,7,8",R16,GRAND_SLAM,U21WS,355,Main Draw,CIOBANU Irina (ROU),MORI Sakura (JPN),CIOBANU Irina
+World Tour Czech Open Olomouc 2016,2016-08-31,MAEDA Miyu,LIN Po-Hsuan,3,0,"11,13,11|8,11,8",R16,GRAND_SLAM,U21WS,355,Main Draw,MAEDA Miyu (JPN),LIN Po-Hsuan (TPE),MAEDA Miyu
+World Tour Czech Open Olomouc 2016,2016-08-31,SHIBATA Saki,JUNG Yumi,3,1,"11,12,7,11|7,10,11,3",R16,GRAND_SLAM,U21WS,355,Main Draw,SHIBATA Saki (JPN),JUNG Yumi (KOR),SHIBATA Saki
+World Tour Czech Open Olomouc 2016,2016-08-31,DIACONU Adina,BERGSTROM Linda,3,0,"11,11,11|8,9,5",R16,GRAND_SLAM,U21WS,355,Main Draw,DIACONU Adina (ROU),BERGSTROM Linda (SWE),DIACONU Adina
+World Tour Czech Open Olomouc 2016,2016-08-31,MANTZ Chantal,NAKAHATA Natsumi,3,1,"11,10,11,11|7,12,7,9",R16,GRAND_SLAM,U21WS,355,Main Draw,MANTZ Chantal (GER),NAKAHATA Natsumi (JPN),MANTZ Chantal
+World Tour Czech Open Olomouc 2016,2016-08-31,YOON Hyobin,HAMAMOTO Yui,3,2,"11,3,11,9,11|4,11,9,11,9",QF,GRAND_SLAM,U21WS,355,Main Draw,HAMAMOTO Yui (AUT),YOON Hyobin (KOR),YOON Hyobin
+World Tour Czech Open Olomouc 2016,2016-08-31,CIOBANU Irina,LEE Zion,3,0,"11,11,13|7,8,11",QF,GRAND_SLAM,U21WS,355,Main Draw,LEE Zion (KOR),CIOBANU Irina (ROU),CIOBANU Irina
+World Tour Czech Open Olomouc 2016,2016-08-31,SHIBATA Saki,MAEDA Miyu,3,1,"8,11,16,11|11,9,14,9",QF,GRAND_SLAM,U21WS,355,Main Draw,MAEDA Miyu (JPN),SHIBATA Saki (JPN),SHIBATA Saki
+World Tour Czech Open Olomouc 2016,2016-08-31,DIACONU Adina,MANTZ Chantal,3,1,"17,11,8,11|15,8,11,3",QF,GRAND_SLAM,U21WS,355,Main Draw,DIACONU Adina (ROU),MANTZ Chantal (GER),DIACONU Adina
+World Tour Czech Open Olomouc 2016,2016-08-31,YOON Hyobin,CIOBANU Irina,3,2,"13,10,4,11,11|11,12,11,6,9",SF,GRAND_SLAM,U21WS,355,Main Draw,YOON Hyobin (KOR),CIOBANU Irina (ROU),YOON Hyobin
+World Tour Czech Open Olomouc 2016,2016-08-31,SHIBATA Saki,DIACONU Adina,3,0,"11,11,11|3,9,6",SF,GRAND_SLAM,U21WS,355,Main Draw,SHIBATA Saki (JPN),DIACONU Adina (ROU),SHIBATA Saki
+World Tour Czech Open Olomouc 2016,2016-08-31,YOON Hyobin,SHIBATA Saki,3,1,"11,11,9,11|9,7,11,1",F,GRAND_SLAM,U21WS,355,Main Draw,YOON Hyobin (KOR),SHIBATA Saki (JPN),YOON Hyobin
+World Tour Czech Open Olomouc 2016,2016-08-31,KONECNY Tomas/PROKOPCOV Dmitrij,FUJIMURA Tomoya/YOSHIMURA Kazuhiro,3,1,"6,12,14,11|11,10,12,8",R16,GRAND_SLAM,MD,355,Main Draw,KONECNY Tomas (CZE) / PROKOPCOV Dmitrij (CZE),FUJIMURA Tomoya (JPN) / YOSHIMURA Kazuhiro (JPN),KONECNY Tomas
+World Tour Czech Open Olomouc 2016,2016-08-31,FRANZISKA Patrick/GROTH Jonathan,KONECNY Tomas/PROKOPCOV Dmitrij,3,0,"11,12,11|5,10,6",QF,GRAND_SLAM,MD,355,Main Draw,FRANZISKA Patrick (GER) / GROTH Jonathan (DEN),KONECNY Tomas (CZE) / PROKOPCOV Dmitrij (CZE),FRANZISKA Patrick
+World Tour Czech Open Olomouc 2016,2016-08-31,LANG Kristin/WINTER Sabine,STRBIKOVA Renata/HARABASZOVA Lenka,3,1,"10,14,11,11|12,12,2,3",R16,GRAND_SLAM,WD,355,Main Draw,LANG Kristin (GER) / WINTER Sabine (GER),STRBIKOVA Renata (CZE) / HARABASZOVA Lenka (CZE),LANG Kristin
+World Tour Czech Open Olomouc 2016,2016-08-31,GROFOVA Karin/SIRUCKOVA Aneta,LANG Kristin/WINTER Sabine,3,2,"2,11,8,11,11|11,5,11,5,8",QF,GRAND_SLAM,WD,355,Main Draw,GROFOVA Karin (CZE) / SIRUCKOVA Aneta (CZE),LANG Kristin (GER) / WINTER Sabine (GER),GROFOVA Karin
+World Tour Czech Open Olomouc 2016,2016-08-31,EKHOLM Matilda/POTA Georgina,GROFOVA Karin/SIRUCKOVA Aneta,3,0,"11,11,11|8,7,5",SF,GRAND_SLAM,WD,355,Main Draw,EKHOLM Matilda (SWE) / POTA Georgina (HUN),GROFOVA Karin (CZE) / SIRUCKOVA Aneta (CZE),EKHOLM Matilda
+World Tour Czech Open Olomouc 2016,2016-08-31,CHO Eonrae/PARK Jeongwoo,ORT Kilian/QIU Dang,3,0,"11,11,11|8,8,8",R16,GRAND_SLAM,MD,355,Main Draw,CHO Eonrae (KOR) / PARK Jeongwoo (KOR),ORT Kilian (GER) / QIU Dang (GER),CHO Eonrae
+World Tour Czech Open Olomouc 2016,2016-08-31,FILUS Ruwen/WANG Xi,LIAO Cheng-Ting/SUN Chia-Hung,3,0,"11,11,11|4,3,4",R16,GRAND_SLAM,MD,355,Main Draw,FILUS Ruwen (GER) / WANG Xi (GER),LIAO Cheng-Ting (TPE) / SUN Chia-Hung (TPE),FILUS Ruwen
+World Tour Czech Open Olomouc 2016,2016-08-31,KIM Minhyeok/PARK Ganghyeon,FILUS Ruwen/WANG Xi,3,1,"11,8,12,12|9,11,10,10",QF,GRAND_SLAM,MD,355,Main Draw,KIM Minhyeok (KOR) / PARK Ganghyeon (KOR),FILUS Ruwen (GER) / WANG Xi (GER),KIM Minhyeok
+World Tour Czech Open Olomouc 2016,2016-08-31,BATRA Manika/DAS Mouma,MANTZ Chantal/WAN Yuan,3,2,"7,8,12,12,11|11,11,10,10,7",QF,GRAND_SLAM,WD,355,Main Draw,BATRA Manika (IND) / DAS Mouma (IND),MANTZ Chantal (GER) / WAN Yuan (GER),BATRA Manika
+World Tour Czech Open Olomouc 2016,2016-08-31,FRANZISKA Patrick/GROTH Jonathan,KOSIBA Daniel/NAGY Krisztian,3,1,"11,4,11,11|4,11,5,3",R16,GRAND_SLAM,MD,355,Main Draw,FRANZISKA Patrick (GER) / GROTH Jonathan (DEN),KOSIBA Daniel (HUN) / NAGY Krisztian (HUN),FRANZISKA Patrick
+World Tour Czech Open Olomouc 2016,2016-08-31,GROFOVA Karin/SIRUCKOVA Aneta,MADARASZ Dora/PERGEL Szandra,3,1,"11,11,9,11|5,5,11,9",R16,GRAND_SLAM,WD,355,Main Draw,GROFOVA Karin (CZE) / SIRUCKOVA Aneta (CZE),MADARASZ Dora (HUN) / PERGEL Szandra (HUN),GROFOVA Karin
+World Tour Czech Open Olomouc 2016,2016-08-31,EKHOLM Matilda/POTA Georgina,CIOBANU Irina/IACOB Camelia,3,0,"11,11,11|7,5,7",R16,GRAND_SLAM,WD,355,Main Draw,EKHOLM Matilda (SWE) / POTA Georgina (HUN),CIOBANU Irina (ROU) / IACOB Camelia (ROU),EKHOLM Matilda
+World Tour Czech Open Olomouc 2016,2016-08-31,GRZYBOWSKA-FRANC Katarzyna/PARTYKA Natalia,BALINT Bernadett/NAGYVARADI Mercedes,3,1,"11,7,11,11|5,11,7,9",R16,GRAND_SLAM,WD,355,Main Draw,GRZYBOWSKA-FRANC Katarzyna (POL) / PARTYKA Natalia (POL),BALINT Bernadett (HUN) / NAGYVARADI Mercedes (HUN),GRZYBOWSKA-FRANC Katarzyna
+World Tour Czech Open Olomouc 2016,2016-08-31,EKHOLM Matilda/POTA Georgina,GRZYBOWSKA-FRANC Katarzyna/PARTYKA Natalia,3,0,"11,11,11|5,6,5",QF,GRAND_SLAM,WD,355,Main Draw,EKHOLM Matilda (SWE) / POTA Georgina (HUN),GRZYBOWSKA-FRANC Katarzyna (POL) / PARTYKA Natalia (POL),EKHOLM Matilda
+World Tour Czech Open Olomouc 2016,2016-08-31,BATRA Manika/DAS Mouma,HASHIMOTO Honoka/SATO Hitomi,3,2,"5,11,6,11,12|11,9,11,8,10",R16,GRAND_SLAM,WD,355,Main Draw,BATRA Manika (IND) / DAS Mouma (IND),HASHIMOTO Honoka (JPN) / SATO Hitomi (JPN),BATRA Manika
+World Tour Czech Open Olomouc 2016,2016-08-31,MATSUDAIRA Kenta/OSHIMA Yuya,LANDRIEU Andrea/LORENTZ Romain,3,1,"9,11,11,16|11,8,4,14",R16,GRAND_SLAM,MD,355,Main Draw,MATSUDAIRA Kenta (JPN) / OSHIMA Yuya (JPN),LANDRIEU Andrea (FRA) / LORENTZ Romain (FRA),MATSUDAIRA Kenta
+World Tour Czech Open Olomouc 2016,2016-08-31,CHO Eonrae/PARK Jeongwoo,MATSUDAIRA Kenta/OSHIMA Yuya,3,0,"11,11,11|4,3,5",QF,GRAND_SLAM,MD,355,Main Draw,CHO Eonrae (KOR) / PARK Jeongwoo (KOR),MATSUDAIRA Kenta (JPN) / OSHIMA Yuya (JPN),CHO Eonrae
+World Tour Czech Open Olomouc 2016,2016-08-31,JANG Woojin/LIM Jonghoon,KOJIC Frane/ROBLES Alvaro,3,2,"5,6,13,11,11|11,11,11,6,8",R16,GRAND_SLAM,MD,355,Main Draw,JANG Woojin (KOR) / LIM Jonghoon (KOR),KOJIC Frane (CRO) / ROBLES Alvaro (ESP),JANG Woojin
+World Tour Czech Open Olomouc 2016,2016-08-31,KIM Minhyeok/PARK Ganghyeon,DEVOS Robin/NUYTINCK Cedric,3,2,"11,11,9,5,11|8,9,11,11,5",R16,GRAND_SLAM,MD,355,Main Draw,KIM Minhyeok (KOR) / PARK Ganghyeon (KOR),DEVOS Robin (BEL) / NUYTINCK Cedric (BEL),KIM Minhyeok
+World Tour Czech Open Olomouc 2016,2016-08-31,JANG Woojin/LIM Jonghoon,HACHARD Antoine/RUIZ Romain,3,1,"7,11,11,11|11,6,5,8",QF,GRAND_SLAM,MD,355,Main Draw,JANG Woojin (KOR) / LIM Jonghoon (KOR),HACHARD Antoine (FRA) / RUIZ Romain (FRA),JANG Woojin
+World Tour Czech Open Olomouc 2016,2016-08-31,CHO Eonrae/PARK Jeongwoo,FRANZISKA Patrick/GROTH Jonathan,3,1,"11,4,11,11|8,11,2,6",SF,GRAND_SLAM,MD,355,Main Draw,CHO Eonrae (KOR) / PARK Jeongwoo (KOR),FRANZISKA Patrick (GER) / GROTH Jonathan (DEN),CHO Eonrae
+World Tour Czech Open Olomouc 2016,2016-08-31,KIM Minhyeok/PARK Ganghyeon,JANG Woojin/LIM Jonghoon,3,1,"8,11,11,11|11,9,9,8",SF,GRAND_SLAM,MD,355,Main Draw,KIM Minhyeok (KOR) / PARK Ganghyeon (KOR),JANG Woojin (KOR) / LIM Jonghoon (KOR),KIM Minhyeok
+World Tour Czech Open Olomouc 2016,2016-08-31,CHO Eonrae/PARK Jeongwoo,KIM Minhyeok/PARK Ganghyeon,3,0,"11,11,14|8,6,12",F,GRAND_SLAM,MD,355,Main Draw,CHO Eonrae (KOR) / PARK Jeongwoo (KOR),KIM Minhyeok (KOR) / PARK Ganghyeon (KOR),CHO Eonrae
+World Tour Czech Open Olomouc 2016,2016-08-31,HACHARD Antoine/RUIZ Romain,BADOWSKI Marek/KULPA Konrad,3,1,"11,6,11,11|7,11,8,9",R16,GRAND_SLAM,MD,355,Main Draw,HACHARD Antoine (FRA) / RUIZ Romain (FRA),BADOWSKI Marek (POL) / KULPA Konrad (POL),HACHARD Antoine
+World Tour Czech Open Olomouc 2016,2016-08-31,DOLGIKH Maria/MIKHAILOVA Polina,LIN Chia-Hsuan/LIN Po-Hsuan,3,1,"9,11,11,11|11,5,6,7",R16,GRAND_SLAM,WD,355,Main Draw,DOLGIKH Maria (RUS) / MIKHAILOVA Polina (RUS),LIN Chia-Hsuan (TPE) / LIN Po-Hsuan (TPE),DOLGIKH Maria
+World Tour Czech Open Olomouc 2016,2016-08-31,DOLGIKH Maria/MIKHAILOVA Polina,CECHOVA Dana/MATELOVA Hana,3,0,"11,11,11|4,5,9",QF,GRAND_SLAM,WD,355,Main Draw,DOLGIKH Maria (RUS) / MIKHAILOVA Polina (RUS),CECHOVA Dana (CZE) / MATELOVA Hana (CZE),DOLGIKH Maria
+World Tour Czech Open Olomouc 2016,2016-08-31,DOLGIKH Maria/MIKHAILOVA Polina,BATRA Manika/DAS Mouma,3,1,"8,14,14,11|11,12,12,4",SF,GRAND_SLAM,WD,355,Main Draw,DOLGIKH Maria (RUS) / MIKHAILOVA Polina (RUS),BATRA Manika (IND) / DAS Mouma (IND),DOLGIKH Maria
+World Tour Czech Open Olomouc 2016,2016-08-31,EKHOLM Matilda/POTA Georgina,DOLGIKH Maria/MIKHAILOVA Polina,3,2,"9,3,11,11,11|11,11,9,9,7",F,GRAND_SLAM,WD,355,Main Draw,EKHOLM Matilda (SWE) / POTA Georgina (HUN),DOLGIKH Maria (RUS) / MIKHAILOVA Polina (RUS),EKHOLM Matilda
+World Tour Czech Open Olomouc 2016,2016-08-31,MANTZ Chantal/WAN Yuan,GALIC Alex/MORET Rachel,3,1,"7,11,11,11|11,9,9,3",R16,GRAND_SLAM,WD,355,Main Draw,MANTZ Chantal (GER) / WAN Yuan (GER),GALIC Alex (SLO) / MORET Rachel (SUI),MANTZ Chantal
+World Tour Czech Open Olomouc 2016,2016-08-31,CECHOVA Dana/MATELOVA Hana,BERGSTROM Linda/MOSKOVITS Daniela,3,1,"11,7,11,11|5,11,6,6",R16,GRAND_SLAM,WD,355,Main Draw,CECHOVA Dana (CZE) / MATELOVA Hana (CZE),BERGSTROM Linda (SWE) / MOSKOVITS Daniela (SWE),CECHOVA Dana

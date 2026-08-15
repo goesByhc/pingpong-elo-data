@@ -1,218 +1,218 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-World Tour Polish Open Spala 2013,2013-11-06,CHUANG Chih-Yuan,MA Te,4,1,"14,11,11,11,11|16,9,0,2,6",R64,GRAND_SLAM,MS,121,Main Draw,CHUANG Chih-Yuan (TPE),MA Te (CHN)
-World Tour Polish Open Spala 2013,2013-11-06,GORAK Daniel,VRABLIK Jiri,4,1,"11,11,11,12,11|8,13,7,10,6",R64,GRAND_SLAM,MS,121,Main Draw,GORAK Daniel (POL),VRABLIK Jiri (CZE)
-World Tour Polish Open Spala 2013,2013-11-06,JEONG Sangeun,WU Zhikang,4,1,"11,13,9,11,11|9,11,11,7,6",R64,GRAND_SLAM,MS,121,Main Draw,JEONG Sangeun (KOR),WU Zhikang (SGP)
-World Tour Polish Open Spala 2013,2013-11-06,GACINA Andrej,WONG Chun Ting,4,3,"14,10,11,11,4,14,11|16,12,3,3,11,12,6",R64,GRAND_SLAM,MS,121,Main Draw,GACINA Andrej (CRO),WONG Chun Ting (HKG)
-World Tour Polish Open Spala 2013,2013-11-06,PERSSON Jon,OH Sangeun,4,3,"11,10,12,11,11,7,11|9,12,14,1,8,11,7",R64,GRAND_SLAM,MS,121,Main Draw,PERSSON Jon (SWE),OH Sangeun (KOR)
-World Tour Polish Open Spala 2013,2013-11-06,YOSHIDA Kaii,CHEN Feng,4,0,"11,11,11,11|3,4,9,8",R64,GRAND_SLAM,MS,121,Main Draw,YOSHIDA Kaii (JPN),CHEN Feng (SGP)
-World Tour Polish Open Spala 2013,2013-11-06,SHIBAEV Alexander,SIMONCIK Josef,4,2,"11,9,11,6,13,11|4,11,5,11,11,4",R64,GRAND_SLAM,MS,121,Main Draw,SHIBAEV Alexander (RUS),SIMONCIK Josef (CZE)
-World Tour Polish Open Spala 2013,2013-11-06,JIANG Tianyi,KARLSSON Kristian,4,1,"11,11,8,11,11|6,3,11,8,8",R64,GRAND_SLAM,MS,121,Main Draw,JIANG Tianyi (HKG),KARLSSON Kristian (SWE)
-World Tour Polish Open Spala 2013,2013-11-06,STEGER Bastian,SAMBE Kohei,4,0,"11,11,11,11|8,5,3,7",R64,GRAND_SLAM,MS,121,Main Draw,STEGER Bastian (GER),SAMBE Kohei (JPN)
-World Tour Polish Open Spala 2013,2013-11-06,CHIANG Hung-Chieh,MATSUMOTO Cazuo,4,2,"11,11,11,8,11,11|13,9,8,11,7,6",R64,GRAND_SLAM,MS,121,Main Draw,CHIANG Hung-Chieh (TPE),MATSUMOTO Cazuo (BRA)
-World Tour Polish Open Spala 2013,2013-11-06,ACHANTA Sharath,JIN Takuya,4,0,"11,11,11,11|6,3,6,5",R64,GRAND_SLAM,MS,121,Main Draw,ACHANTA Sharath (IND),JIN Takuya (JPN)
-World Tour Polish Open Spala 2013,2013-11-06,KOSOWSKI Jakub,GARDOS Robert,4,1,"11,6,11,11,13|5,11,5,9,11",R64,GRAND_SLAM,MS,121,Main Draw,KOSOWSKI Jakub (POL),GARDOS Robert (AUT)
-World Tour Polish Open Spala 2013,2013-11-06,ZHOU Yu,WU Chih-Chi,4,3,"9,16,4,12,11,11,11|11,18,11,10,7,8,2",R64,GRAND_SLAM,MS,121,Main Draw,ZHOU Yu (CHN),WU Chih-Chi (TPE)
-World Tour Polish Open Spala 2013,2013-11-06,KOLAREK Tomislav,LEE Sang Su,4,1,"13,16,12,7,11|11,14,10,11,8",R64,GRAND_SLAM,MS,121,Main Draw,KOLAREK Tomislav (CRO),LEE Sang Su (KOR)
-World Tour Polish Open Spala 2013,2013-11-06,WANG Zengyi,SIRUCEK Pavel,4,1,"7,12,11,11,11|11,10,4,6,9",R64,GRAND_SLAM,MS,121,Main Draw,WANG Zengyi (POL),SIRUCEK Pavel (CZE)
-World Tour Polish Open Spala 2013,2013-11-06,NIWA Koki,SEO Hyundeok,4,2,"11,12,9,12,5,12|5,10,11,10,11,10",R64,GRAND_SLAM,MS,121,Main Draw,NIWA Koki (JPN),SEO Hyundeok (KOR)
-World Tour Polish Open Spala 2013,2013-11-06,GAO Ning,KIM Junghoon,4,3,"15,7,11,5,9,11,11|13,11,7,11,11,9,8",R64,GRAND_SLAM,MS,121,Main Draw,GAO Ning (SGP),KIM Junghoon (KOR)
-World Tour Polish Open Spala 2013,2013-11-06,LI Hu,DUDA Benedikt,4,3,"4,12,11,9,11,11,11|11,14,6,11,2,7,9",R64,GRAND_SLAM,MS,121,Main Draw,LI Hu (SGP),DUDA Benedikt (GER)
-World Tour Polish Open Spala 2013,2013-11-06,FRANZISKA Patrick,TSUBOI Gustavo,4,3,"11,9,11,11,11,10,11|6,11,8,4,13,12,4",R64,GRAND_SLAM,MS,121,Main Draw,FRANZISKA Patrick (GER),TSUBOI Gustavo (BRA)
-World Tour Polish Open Spala 2013,2013-11-06,LIANG Jingkun,LEE Jungwoo,4,0,"11,11,11,13|7,9,9,11",R64,GRAND_SLAM,MS,121,Main Draw,LIANG Jingkun (CHN),LEE Jungwoo (KOR)
-World Tour Polish Open Spala 2013,2013-11-06,KONECNY Tomas,APOLONIA Tiago,4,0,"18,11,11,12|16,6,9,10",R64,GRAND_SLAM,MS,121,Main Draw,KONECNY Tomas (CZE),APOLONIA Tiago (POR)
-World Tour Polish Open Spala 2013,2013-11-06,YANG Zi,MACHADO Carlos,4,0,"11,11,11,11|9,6,5,5",R64,GRAND_SLAM,MS,121,Main Draw,YANG Zi (SGP),MACHADO Carlos (ESP)
-World Tour Polish Open Spala 2013,2013-11-06,PITCHFORD Liam,ALAMIYAN Noshad,4,2,"11,11,11,16,9,11|4,6,4,18,11,7",R64,GRAND_SLAM,MS,121,Main Draw,PITCHFORD Liam (ENG),ALAMIYAN Noshad (IRI)
-World Tour Polish Open Spala 2013,2013-11-06,MATSUDAIRA Kenta,MENGEL Steffen,4,0,"11,11,11,11|3,9,9,6",R64,GRAND_SLAM,MS,121,Main Draw,MATSUDAIRA Kenta (JPN),MENGEL Steffen (GER)
-World Tour Polish Open Spala 2013,2013-11-06,ZHAI Chao,ZHAN Jian,4,3,"9,11,11,12,4,10,11|11,8,5,10,11,12,8",R64,GRAND_SLAM,MS,121,Main Draw,ZHAI Chao (CHN),ZHAN Jian (SGP)
-World Tour Polish Open Spala 2013,2013-11-06,FILUS Ruwen,WANG Eugene,4,0,"12,11,11,11|10,9,7,8",R64,GRAND_SLAM,MS,121,Main Draw,FILUS Ruwen (GER),WANG Eugene (CAN)
-World Tour Polish Open Spala 2013,2013-11-06,GAUZY Simon,JEOUNG Youngsik,4,0,"11,11,11,11|4,6,5,4",R64,GRAND_SLAM,MS,121,Main Draw,GAUZY Simon (FRA),JEOUNG Youngsik (KOR)
-World Tour Polish Open Spala 2013,2013-11-06,KIM Minseok,ANDERSSON Harald,4,2,"12,11,11,7,11,11|10,2,13,11,8,8",R64,GRAND_SLAM,MS,121,Main Draw,KIM Minseok (KOR),ANDERSSON Harald (SWE)
-World Tour Polish Open Spala 2013,2013-11-06,KISHIKAWA Seiya,HABESOHN Daniel,4,0,"11,11,11,11|4,6,5,7",R64,GRAND_SLAM,MS,121,Main Draw,KISHIKAWA Seiya (JPN),HABESOHN Daniel (AUT)
-World Tour Polish Open Spala 2013,2013-11-06,MATTENET Adrien,GROTH Jonathan,4,2,"8,11,12,2,14,13|11,6,10,11,12,11",R64,GRAND_SLAM,MS,121,Main Draw,MATTENET Adrien (FRA),GROTH Jonathan (DEN)
-World Tour Polish Open Spala 2013,2013-11-06,CHO Eonrae,HUNG Tzu-Hsiang,4,1,"15,4,11,11,11|13,11,8,6,8",R64,GRAND_SLAM,MS,121,Main Draw,CHO Eonrae (KOR),HUNG Tzu-Hsiang (TPE)
-World Tour Polish Open Spala 2013,2013-11-06,FAN Zhendong,LEUNG Chu Yan,4,0,"11,11,11,12|2,8,6,10",R64,GRAND_SLAM,MS,121,Main Draw,FAN Zhendong (CHN),LEUNG Chu Yan (HKG)
-World Tour Polish Open Spala 2013,2013-11-06,CHUANG Chih-Yuan,GORAK Daniel,4,0,"11,13,11,11|5,11,2,7",R32,GRAND_SLAM,MS,121,Main Draw,CHUANG Chih-Yuan (TPE),GORAK Daniel (POL)
-World Tour Polish Open Spala 2013,2013-11-06,GACINA Andrej,JEONG Sangeun,4,1,"5,11,14,12,11|11,6,12,10,9",R32,GRAND_SLAM,MS,121,Main Draw,GACINA Andrej (CRO),JEONG Sangeun (KOR)
-World Tour Polish Open Spala 2013,2013-11-06,YOSHIDA Kaii,PERSSON Jon,4,0,"11,11,11,11|9,8,5,6",R32,GRAND_SLAM,MS,121,Main Draw,YOSHIDA Kaii (JPN),PERSSON Jon (SWE)
-World Tour Polish Open Spala 2013,2013-11-06,SHIBAEV Alexander,JIANG Tianyi,4,1,"11,5,12,11,11|5,11,10,8,6",R32,GRAND_SLAM,MS,121,Main Draw,SHIBAEV Alexander (RUS),JIANG Tianyi (HKG)
-World Tour Polish Open Spala 2013,2013-11-06,STEGER Bastian,CHIANG Hung-Chieh,4,3,"9,16,11,9,6,11,13|11,14,9,11,11,4,11",R32,GRAND_SLAM,MS,121,Main Draw,STEGER Bastian (GER),CHIANG Hung-Chieh (TPE)
-World Tour Polish Open Spala 2013,2013-11-06,ACHANTA Sharath,KOSOWSKI Jakub,4,1,"11,11,7,12,11|3,8,11,10,6",R32,GRAND_SLAM,MS,121,Main Draw,ACHANTA Sharath (IND),KOSOWSKI Jakub (POL)
-World Tour Polish Open Spala 2013,2013-11-06,ZHOU Yu,KOLAREK Tomislav,4,3,"10,11,9,8,11,11,11|12,5,11,11,8,8,8",R32,GRAND_SLAM,MS,121,Main Draw,ZHOU Yu (CHN),KOLAREK Tomislav (CRO)
-World Tour Polish Open Spala 2013,2013-11-06,NIWA Koki,WANG Zengyi,4,1,"11,10,11,11,11|6,12,6,5,3",R32,GRAND_SLAM,MS,121,Main Draw,NIWA Koki (JPN),WANG Zengyi (POL)
-World Tour Polish Open Spala 2013,2013-11-06,LI Hu,GAO Ning,4,0,"11,11,11,11|8,7,8,8",R32,GRAND_SLAM,MS,121,Main Draw,LI Hu (SGP),GAO Ning (SGP)
-World Tour Polish Open Spala 2013,2013-11-06,LIANG Jingkun,FRANZISKA Patrick,4,3,"11,13,10,11,6,10,13|6,11,12,7,11,12,11",R32,GRAND_SLAM,MS,121,Main Draw,LIANG Jingkun (CHN),FRANZISKA Patrick (GER)
-World Tour Polish Open Spala 2013,2013-11-06,YANG Zi,KONECNY Tomas,4,0,"11,11,11,11|3,7,4,6",R32,GRAND_SLAM,MS,121,Main Draw,YANG Zi (SGP),KONECNY Tomas (CZE)
-World Tour Polish Open Spala 2013,2013-11-06,MATSUDAIRA Kenta,PITCHFORD Liam,4,1,"11,11,6,12,11|9,8,11,10,9",R32,GRAND_SLAM,MS,121,Main Draw,MATSUDAIRA Kenta (JPN),PITCHFORD Liam (ENG)
-World Tour Polish Open Spala 2013,2013-11-06,FILUS Ruwen,ZHAI Chao,4,1,"11,11,17,9,11|7,7,15,11,9",R32,GRAND_SLAM,MS,121,Main Draw,FILUS Ruwen (GER),ZHAI Chao (CHN)
-World Tour Polish Open Spala 2013,2013-11-06,GAUZY Simon,KIM Minseok,4,3,"7,11,12,9,15,7,11|11,9,10,11,13,11,4",R32,GRAND_SLAM,MS,121,Main Draw,GAUZY Simon (FRA),KIM Minseok (KOR)
-World Tour Polish Open Spala 2013,2013-11-06,KISHIKAWA Seiya,MATTENET Adrien,4,0,"11,11,11,11|4,8,7,5",R32,GRAND_SLAM,MS,121,Main Draw,KISHIKAWA Seiya (JPN),MATTENET Adrien (FRA)
-World Tour Polish Open Spala 2013,2013-11-06,FAN Zhendong,CHO Eonrae,4,1,"11,11,9,14,15|6,6,11,12,13",R32,GRAND_SLAM,MS,121,Main Draw,FAN Zhendong (CHN),CHO Eonrae (KOR)
-World Tour Polish Open Spala 2013,2013-11-06,CHUANG Chih-Yuan,GACINA Andrej,4,0,"12,11,11,11|10,1,8,8",R16,GRAND_SLAM,MS,121,Main Draw,CHUANG Chih-Yuan (TPE),GACINA Andrej (CRO)
-World Tour Polish Open Spala 2013,2013-11-06,YOSHIDA Kaii,SHIBAEV Alexander,4,1,"12,11,7,11,11|10,5,11,9,8",R16,GRAND_SLAM,MS,121,Main Draw,YOSHIDA Kaii (JPN),SHIBAEV Alexander (RUS)
-World Tour Polish Open Spala 2013,2013-11-06,STEGER Bastian,ACHANTA Sharath,4,1,"11,3,11,12,11|8,11,8,10,9",R16,GRAND_SLAM,MS,121,Main Draw,STEGER Bastian (GER),ACHANTA Sharath (IND)
-World Tour Polish Open Spala 2013,2013-11-06,ZHOU Yu,NIWA Koki,4,1,"11,9,11,11,11|7,11,3,6,9",R16,GRAND_SLAM,MS,121,Main Draw,ZHOU Yu (CHN),NIWA Koki (JPN)
-World Tour Polish Open Spala 2013,2013-11-06,LIANG Jingkun,LI Hu,4,2,"6,11,11,10,13,11|11,3,3,12,11,6",R16,GRAND_SLAM,MS,121,Main Draw,LIANG Jingkun (CHN),LI Hu (SGP)
-World Tour Polish Open Spala 2013,2013-11-06,MATSUDAIRA Kenta,YANG Zi,4,1,"11,11,11,11,11|5,9,9,13,6",R16,GRAND_SLAM,MS,121,Main Draw,MATSUDAIRA Kenta (JPN),YANG Zi (SGP)
-World Tour Polish Open Spala 2013,2013-11-06,FILUS Ruwen,GAUZY Simon,4,1,"11,11,8,11,11|5,6,11,9,9",R16,GRAND_SLAM,MS,121,Main Draw,FILUS Ruwen (GER),GAUZY Simon (FRA)
-World Tour Polish Open Spala 2013,2013-11-06,FAN Zhendong,KISHIKAWA Seiya,4,1,"12,11,11,7,11|10,7,2,11,8",R16,GRAND_SLAM,MS,121,Main Draw,FAN Zhendong (CHN),KISHIKAWA Seiya (JPN)
-World Tour Polish Open Spala 2013,2013-11-06,CHUANG Chih-Yuan,YOSHIDA Kaii,4,2,"9,11,2,11,11,11|11,3,11,7,5,6",QF,GRAND_SLAM,MS,121,Main Draw,CHUANG Chih-Yuan (TPE),YOSHIDA Kaii (JPN)
-World Tour Polish Open Spala 2013,2013-11-06,ZHOU Yu,STEGER Bastian,4,1,"11,6,11,11,11|4,11,8,5,8",QF,GRAND_SLAM,MS,121,Main Draw,ZHOU Yu (CHN),STEGER Bastian (GER)
-World Tour Polish Open Spala 2013,2013-11-06,MATSUDAIRA Kenta,LIANG Jingkun,4,3,"6,4,11,11,8,11,11|11,11,5,2,11,9,7",QF,GRAND_SLAM,MS,121,Main Draw,MATSUDAIRA Kenta (JPN),LIANG Jingkun (CHN)
-World Tour Polish Open Spala 2013,2013-11-06,FAN Zhendong,FILUS Ruwen,4,1,"11,11,11,11,11|13,8,7,9,7",QF,GRAND_SLAM,MS,121,Main Draw,FAN Zhendong (CHN),FILUS Ruwen (GER)
-World Tour Polish Open Spala 2013,2013-11-06,ZHOU Yu,CHUANG Chih-Yuan,4,0,"11,11,11,11|7,9,6,7",SF,GRAND_SLAM,MS,121,Main Draw,ZHOU Yu (CHN),CHUANG Chih-Yuan (TPE)
-World Tour Polish Open Spala 2013,2013-11-06,FAN Zhendong,MATSUDAIRA Kenta,4,0,"11,11,11,11|8,8,1,8",SF,GRAND_SLAM,MS,121,Main Draw,FAN Zhendong (CHN),MATSUDAIRA Kenta (JPN)
-World Tour Polish Open Spala 2013,2013-11-06,FAN Zhendong,ZHOU Yu,4,2,"17,11,7,11,10,11|15,8,11,2,12,6",F,GRAND_SLAM,MS,121,Main Draw,FAN Zhendong (CHN),ZHOU Yu (CHN)
-World Tour Polish Open Spala 2013,2013-11-06,FUKUHARA Ai,LENNON Emmanuelle,4,0,"11,11,11,11|4,4,6,7",R64,GRAND_SLAM,WS,121,Main Draw,FUKUHARA Ai (JPN),LENNON Emmanuelle (FRA)
-World Tour Polish Open Spala 2013,2013-11-06,GRZYBOWSKA-FRANC Katarzyna,PENKAVOVA Katerina,4,3,"13,8,11,11,9,11,12|15,11,2,6,11,4,10",R64,GRAND_SLAM,WS,121,Main Draw,GRZYBOWSKA-FRANC Katarzyna (POL),PENKAVOVA Katerina (CZE)
-World Tour Polish Open Spala 2013,2013-11-06,SOLJA Amelie,SO Eka,4,0,"11,11,11,11|5,1,2,5",R64,GRAND_SLAM,WS,121,Main Draw,SOLJA Amelie (AUT),SO Eka (JPN)
-World Tour Polish Open Spala 2013,2013-11-06,IACOB Camelia,HUANG Yi-Hua,4,3,"4,14,13,11,7,11,14|11,12,15,6,11,9,12",R64,GRAND_SLAM,WS,121,Main Draw,IACOB Camelia (ROU),HUANG Yi-Hua (TPE)
-World Tour Polish Open Spala 2013,2013-11-06,DODEAN Daniela,KIM Byeolnim,4,1,"11,10,11,11,11|9,12,4,7,6",R64,GRAND_SLAM,WS,121,Main Draw,DODEAN Daniela (ROU),KIM Byeolnim (KOR)
-World Tour Polish Open Spala 2013,2013-11-06,CHOI Moonyoung,KUSINSKA Klaudia,4,0,"11,11,11,11|2,7,4,9",R64,GRAND_SLAM,WS,121,Main Draw,CHOI Moonyoung (KOR),KUSINSKA Klaudia (POL)
-World Tour Polish Open Spala 2013,2013-11-06,LOVAS Petra,LI Isabelle Siyun,4,1,"11,15,11,12,11|7,13,9,14,8",R64,GRAND_SLAM,WS,121,Main Draw,LOVAS Petra (HUN),LI Isabelle Siyun (SGP)
-World Tour Polish Open Spala 2013,2013-11-06,SAMARA Elizabeta,CHENG Hsien-Tzu,4,0,"11,11,12,11|6,6,10,9",R64,GRAND_SLAM,WS,121,Main Draw,SAMARA Elizabeta (ROU),CHENG Hsien-Tzu (TPE)
-World Tour Polish Open Spala 2013,2013-11-06,JO Yujin,LEE Ho Ching,4,2,"11,11,7,1,11,15|6,8,11,11,6,13",R64,GRAND_SLAM,WS,121,Main Draw,JO Yujin (KOR),LEE Ho Ching (HKG)
-World Tour Polish Open Spala 2013,2013-11-06,ZHOU Yihan,PARTYKA Natalia,4,2,"10,13,6,11,11,11|12,11,11,2,8,9",R64,GRAND_SLAM,WS,121,Main Draw,ZHOU Yihan (SGP),PARTYKA Natalia (POL)
-World Tour Polish Open Spala 2013,2013-11-06,PARK Youngsook,HAMAMOTO Yui,4,1,"14,5,11,11,11|12,11,7,9,8",R64,GRAND_SLAM,WS,121,Main Draw,PARK Youngsook (KOR),HAMAMOTO Yui (AUT)
-World Tour Polish Open Spala 2013,2013-11-06,SHENG Dandan,VACENOVSKA Iveta,4,1,"8,11,13,11,11|11,7,11,6,9",R64,GRAND_SLAM,WS,121,Main Draw,SHENG Dandan (CHN),VACENOVSKA Iveta (CZE)
-World Tour Polish Open Spala 2013,2013-11-06,LIU Gaoyang,HIRANO Miu,4,1,"11,13,11,12,11|8,15,8,10,6",R64,GRAND_SLAM,WS,121,Main Draw,LIU Gaoyang (CHN),HIRANO Miu (JPN)
-World Tour Polish Open Spala 2013,2013-11-06,HU Limei,MATSUZAWA Marina,4,0,"11,11,11,11|4,8,8,8",R64,GRAND_SLAM,WS,121,Main Draw,HU Limei (CHN),MATSUZAWA Marina (JPN)
-World Tour Polish Open Spala 2013,2013-11-06,LEE I-Chen,YOO Eunchong,4,1,"11,11,9,11,11|7,9,11,5,5",R64,GRAND_SLAM,WS,121,Main Draw,LEE I-Chen (TPE),YOO Eunchong (KOR)
-World Tour Polish Open Spala 2013,2013-11-06,YANG Ha Eun,TAKAHASHI Yume,4,1,"16,11,11,11,11|18,1,5,9,3",R64,GRAND_SLAM,WS,121,Main Draw,YANG Ha Eun (KOR),TAKAHASHI Yume (JPN)
-World Tour Polish Open Spala 2013,2013-11-06,LI Jiao,DUBKOVA Elena,4,0,"11,11,11,11|7,4,8,7",R64,GRAND_SLAM,WS,121,Main Draw,LI Jiao (NED),DUBKOVA Elena (BLR)
-World Tour Polish Open Spala 2013,2013-11-06,CHEN Szu-Yu,SZYMANSKA Antonina,4,3,"9,11,11,7,11,6,11|11,9,7,11,4,11,8",R64,GRAND_SLAM,WS,121,Main Draw,CHEN Szu-Yu (TPE),SZYMANSKA Antonina (POL)
-World Tour Polish Open Spala 2013,2013-11-06,POTA Georgina,SAKAI Haruka,4,2,"11,18,14,11,9,12|2,16,16,9,11,10",R64,GRAND_SLAM,WS,121,Main Draw,POTA Georgina (HUN),SAKAI Haruka (JPN)
-World Tour Polish Open Spala 2013,2013-11-06,WU Jiaduo,GASNIER Laura,4,0,"11,11,11,11|7,9,8,7",R64,GRAND_SLAM,WS,121,Main Draw,WU Jiaduo (GER),GASNIER Laura (FRA)
-World Tour Polish Open Spala 2013,2013-11-06,WEN Jia,MADARASZ Dora,4,1,"10,11,11,11,11|12,8,4,5,1",R64,GRAND_SLAM,WS,121,Main Draw,WEN Jia (CHN),MADARASZ Dora (HUN)
-World Tour Polish Open Spala 2013,2013-11-06,LIN Ye,ITO Mima,4,2,"11,6,11,8,11,11|8,11,9,11,1,4",R64,GRAND_SLAM,WS,121,Main Draw,LIN Ye (CAN),ITO Mima (JPN)
-World Tour Polish Open Spala 2013,2013-11-06,SOLJA Petrissa,MORI Sakura,4,0,"11,11,12,11|7,9,10,5",R64,GRAND_SLAM,WS,121,Main Draw,SOLJA Petrissa (GER),MORI Sakura (JPN)
-World Tour Polish Open Spala 2013,2013-11-06,YU Mengyu,LOEUILLETTE Stephanie,4,0,"11,13,11,11|9,11,2,8",R64,GRAND_SLAM,WS,121,Main Draw,YU Mengyu (SGP),LOEUILLETTE Stephanie (FRA)
-World Tour Polish Open Spala 2013,2013-11-06,HIRANO Sayaka,CHO Hala,4,2,"14,9,11,6,11,11|12,11,6,11,8,5",R64,GRAND_SLAM,WS,121,Main Draw,HIRANO Sayaka (JPN),CHO Hala (KOR)
-World Tour Polish Open Spala 2013,2013-11-06,SATO Hitomi,BARTHEL Zhenqi,4,1,"11,15,11,7,11|9,13,8,11,8",R64,GRAND_SLAM,WS,121,Main Draw,SATO Hitomi (JPN),BARTHEL Zhenqi (GER)
-World Tour Polish Open Spala 2013,2013-11-06,MATSUDAIRA Shiho,PARK Seonghye,4,1,"11,6,11,11,11|8,11,7,6,7",R64,GRAND_SLAM,WS,121,Main Draw,MATSUDAIRA Shiho (JPN),PARK Seonghye (KOR)
-World Tour Polish Open Spala 2013,2013-11-06,JEON Jihee,PERGEL Szandra,4,3,"5,11,11,7,9,11,12|11,7,6,11,11,5,10",R64,GRAND_SLAM,WS,121,Main Draw,JEON Jihee (KOR),PERGEL Szandra (HUN)
-World Tour Polish Open Spala 2013,2013-11-06,ZHANG Qiang,SHAN Xiaona,4,2,"3,11,11,13,5,11|11,8,9,11,11,4",R64,GRAND_SLAM,WS,121,Main Draw,ZHANG Qiang (CHN),SHAN Xiaona (GER)
-World Tour Polish Open Spala 2013,2013-11-06,ZHAO Yan,POLCANOVA Sofia,4,0,"11,11,11,11|5,6,6,7",R64,GRAND_SLAM,WS,121,Main Draw,ZHAO Yan (CHN),POLCANOVA Sofia (AUT)
-World Tour Polish Open Spala 2013,2013-11-06,WINTER Sabine,KATO Miyu,4,3,"11,11,10,11,8,9,11|8,5,12,8,11,11,7",R64,GRAND_SLAM,WS,121,Main Draw,WINTER Sabine (GER),KATO Miyu (JPN)
-World Tour Polish Open Spala 2013,2013-11-06,SUH Hyo Won,XIAO Maria,4,0,"11,11,11,11|7,2,2,9",R64,GRAND_SLAM,WS,121,Main Draw,SUH Hyo Won (KOR),XIAO Maria (ESP)
-World Tour Polish Open Spala 2013,2013-11-06,FUKUHARA Ai,GRZYBOWSKA-FRANC Katarzyna,4,0,"11,11,11,11|6,9,9,9",R32,GRAND_SLAM,WS,121,Main Draw,FUKUHARA Ai (JPN),GRZYBOWSKA-FRANC Katarzyna (POL)
-World Tour Polish Open Spala 2013,2013-11-06,IACOB Camelia,SOLJA Amelie,4,1,"11,11,7,11,12|9,5,11,7,10",R32,GRAND_SLAM,WS,121,Main Draw,IACOB Camelia (ROU),SOLJA Amelie (AUT)
-World Tour Polish Open Spala 2013,2013-11-06,CHOI Moonyoung,DODEAN Daniela,4,3,"11,11,2,6,6,11,11|7,6,11,11,11,4,9",R32,GRAND_SLAM,WS,121,Main Draw,CHOI Moonyoung (KOR),DODEAN Daniela (ROU)
-World Tour Polish Open Spala 2013,2013-11-06,SAMARA Elizabeta,LOVAS Petra,4,1,"11,11,11,7,11|3,7,5,11,8",R32,GRAND_SLAM,WS,121,Main Draw,SAMARA Elizabeta (ROU),LOVAS Petra (HUN)
-World Tour Polish Open Spala 2013,2013-11-06,ZHOU Yihan,JO Yujin,4,0,"11,11,11,11|5,8,8,7",R32,GRAND_SLAM,WS,121,Main Draw,ZHOU Yihan (SGP),JO Yujin (KOR)
-World Tour Polish Open Spala 2013,2013-11-06,SHENG Dandan,PARK Youngsook,4,0,"16,11,11,11|14,3,5,4",R32,GRAND_SLAM,WS,121,Main Draw,SHENG Dandan (CHN),PARK Youngsook (KOR)
-World Tour Polish Open Spala 2013,2013-11-06,HU Limei,LIU Gaoyang,4,2,"11,6,11,11,10,11|7,11,5,8,12,5",R32,GRAND_SLAM,WS,121,Main Draw,HU Limei (CHN),LIU Gaoyang (CHN)
-World Tour Polish Open Spala 2013,2013-11-06,YANG Ha Eun,LEE I-Chen,4,2,"2,11,11,5,11,11|11,4,3,11,7,4",R32,GRAND_SLAM,WS,121,Main Draw,YANG Ha Eun (KOR),LEE I-Chen (TPE)
-World Tour Polish Open Spala 2013,2013-11-06,LI Jiao,CHEN Szu-Yu,4,1,"11,11,6,11,11|2,8,11,4,5",R32,GRAND_SLAM,WS,121,Main Draw,LI Jiao (NED),CHEN Szu-Yu (TPE)
-World Tour Polish Open Spala 2013,2013-11-06,POTA Georgina,WU Jiaduo,4,3,"11,11,11,6,5,10,11|6,9,8,11,11,12,8",R32,GRAND_SLAM,WS,121,Main Draw,POTA Georgina (HUN),WU Jiaduo (GER)
-World Tour Polish Open Spala 2013,2013-11-06,WEN Jia,LIN Ye,4,1,"12,6,11,11,11|10,11,8,7,3",R32,GRAND_SLAM,WS,121,Main Draw,WEN Jia (CHN),LIN Ye (CAN)
-World Tour Polish Open Spala 2013,2013-11-06,YU Mengyu,SOLJA Petrissa,4,1,"9,11,11,11,12|11,6,8,6,10",R32,GRAND_SLAM,WS,121,Main Draw,YU Mengyu (SGP),SOLJA Petrissa (GER)
-World Tour Polish Open Spala 2013,2013-11-06,HIRANO Sayaka,SATO Hitomi,4,0,"11,11,11,12|4,5,7,10",R32,GRAND_SLAM,WS,121,Main Draw,HIRANO Sayaka (JPN),SATO Hitomi (JPN)
-World Tour Polish Open Spala 2013,2013-11-06,JEON Jihee,MATSUDAIRA Shiho,4,0,"11,11,11,11|5,6,5,7",R32,GRAND_SLAM,WS,121,Main Draw,JEON Jihee (KOR),MATSUDAIRA Shiho (JPN)
-World Tour Polish Open Spala 2013,2013-11-06,ZHANG Qiang,ZHAO Yan,4,1,"11,11,11,11,11|8,8,13,9,8",R32,GRAND_SLAM,WS,121,Main Draw,ZHANG Qiang (CHN),ZHAO Yan (CHN)
-World Tour Polish Open Spala 2013,2013-11-06,SUH Hyo Won,WINTER Sabine,4,2,"4,11,11,11,8,11|11,6,7,7,11,4",R32,GRAND_SLAM,WS,121,Main Draw,SUH Hyo Won (KOR),WINTER Sabine (GER)
-World Tour Polish Open Spala 2013,2013-11-06,FUKUHARA Ai,IACOB Camelia,4,2,"11,11,8,12,11,11|4,7,11,14,5,5",R16,GRAND_SLAM,WS,121,Main Draw,FUKUHARA Ai (JPN),IACOB Camelia (ROU)
-World Tour Polish Open Spala 2013,2013-11-06,SAMARA Elizabeta,CHOI Moonyoung,4,0,"11,11,11,11|9,5,2,3",R16,GRAND_SLAM,WS,121,Main Draw,SAMARA Elizabeta (ROU),CHOI Moonyoung (KOR)
-World Tour Polish Open Spala 2013,2013-11-06,SHENG Dandan,ZHOU Yihan,4,3,"8,7,11,11,8,11,11|11,11,5,7,11,4,7",R16,GRAND_SLAM,WS,121,Main Draw,SHENG Dandan (CHN),ZHOU Yihan (SGP)
-World Tour Polish Open Spala 2013,2013-11-06,HU Limei,YANG Ha Eun,4,0,"13,11,11,11|11,4,7,5",R16,GRAND_SLAM,WS,121,Main Draw,HU Limei (CHN),YANG Ha Eun (KOR)
-World Tour Polish Open Spala 2013,2013-11-06,LI Jiao,POTA Georgina,4,1,"7,11,11,13,11|11,3,4,11,7",R16,GRAND_SLAM,WS,121,Main Draw,LI Jiao (NED),POTA Georgina (HUN)
-World Tour Polish Open Spala 2013,2013-11-06,WEN Jia,YU Mengyu,4,1,"9,11,11,11,11|11,5,1,7,3",R16,GRAND_SLAM,WS,121,Main Draw,WEN Jia (CHN),YU Mengyu (SGP)
-World Tour Polish Open Spala 2013,2013-11-06,JEON Jihee,HIRANO Sayaka,4,0,"11,11,11,11|4,8,9,6",R16,GRAND_SLAM,WS,121,Main Draw,JEON Jihee (KOR),HIRANO Sayaka (JPN)
-World Tour Polish Open Spala 2013,2013-11-06,SUH Hyo Won,ZHANG Qiang,4,1,"11,11,9,11,11|5,3,11,5,7",R16,GRAND_SLAM,WS,121,Main Draw,SUH Hyo Won (KOR),ZHANG Qiang (CHN)
-World Tour Polish Open Spala 2013,2013-11-06,FUKUHARA Ai,SAMARA Elizabeta,4,3,"12,10,11,12,1,10,11|10,12,9,10,11,12,9",QF,GRAND_SLAM,WS,121,Main Draw,FUKUHARA Ai (JPN),SAMARA Elizabeta (ROU)
-World Tour Polish Open Spala 2013,2013-11-06,SHENG Dandan,HU Limei,4,3,"7,7,6,13,11,11,11|11,11,11,11,6,7,6",QF,GRAND_SLAM,WS,121,Main Draw,SHENG Dandan (CHN),HU Limei (CHN)
-World Tour Polish Open Spala 2013,2013-11-06,WEN Jia,LI Jiao,4,1,"8,11,11,11,11|11,8,9,5,9",QF,GRAND_SLAM,WS,121,Main Draw,WEN Jia (CHN),LI Jiao (NED)
-World Tour Polish Open Spala 2013,2013-11-06,SUH Hyo Won,JEON Jihee,4,2,"4,11,5,11,11,11|11,7,11,8,9,9",QF,GRAND_SLAM,WS,121,Main Draw,SUH Hyo Won (KOR),JEON Jihee (KOR)
-World Tour Polish Open Spala 2013,2013-11-06,SHENG Dandan,FUKUHARA Ai,4,2,"7,8,11,11,11,11|11,11,8,9,7,5",SF,GRAND_SLAM,WS,121,Main Draw,SHENG Dandan (CHN),FUKUHARA Ai (JPN)
-World Tour Polish Open Spala 2013,2013-11-06,SUH Hyo Won,WEN Jia,4,3,"11,9,5,11,8,11,11|7,11,11,7,11,3,5",SF,GRAND_SLAM,WS,121,Main Draw,SUH Hyo Won (KOR),WEN Jia (CHN)
-World Tour Polish Open Spala 2013,2013-11-06,SUH Hyo Won,SHENG Dandan,4,2,"6,13,11,10,11,11|11,11,6,12,8,5",F,GRAND_SLAM,WS,121,Main Draw,SUH Hyo Won (KOR),SHENG Dandan (CHN)
-World Tour Polish Open Spala 2013,2013-11-06,FRANZISKA Patrick,ALAMIAN Nima,3,0,"11,11,11|5,7,6",R32,GRAND_SLAM,U21MS,121,Main Draw,FRANZISKA Patrick (GER),ALAMIAN Nima (IRI)
-World Tour Polish Open Spala 2013,2013-11-06,DUDA Benedikt,LEE Chia-Sheng,3,2,"9,9,11,11,11|11,11,5,2,7",R32,GRAND_SLAM,U21MS,121,Main Draw,DUDA Benedikt (GER),LEE Chia-Sheng (TPE)
-World Tour Polish Open Spala 2013,2013-11-06,LORENTZ Romain,XIN Zhaoxu,3,1,"11,11,11,11|5,13,7,9",R32,GRAND_SLAM,U21MS,121,Main Draw,LORENTZ Romain (FRA),XIN Zhaoxu (SGP)
-World Tour Polish Open Spala 2013,2013-11-06,PITCHFORD Liam,DESAI Harmeet,3,0,"11,11,15|7,4,13",R32,GRAND_SLAM,U21MS,121,Main Draw,PITCHFORD Liam (ENG),DESAI Harmeet (IND)
-World Tour Polish Open Spala 2013,2013-11-06,GROTH Jonathan,BAJGER Ondrej,3,0,"11,12,12|7,10,10",R32,GRAND_SLAM,U21MS,121,Main Draw,GROTH Jonathan (DEN),BAJGER Ondrej (CZE)
-World Tour Polish Open Spala 2013,2013-11-06,JIN Takuya,PENG Wang-Wei,3,1,"1,11,11,11|11,6,6,7",R32,GRAND_SLAM,U21MS,121,Main Draw,JIN Takuya (JPN),PENG Wang-Wei (TPE)
-World Tour Polish Open Spala 2013,2013-11-06,KANOYA Ryohei,WU Zhikang,3,1,"11,11,9,11|9,5,11,9",R32,GRAND_SLAM,U21MS,121,Main Draw,KANOYA Ryohei (JPN),WU Zhikang (SGP)
-World Tour Polish Open Spala 2013,2013-11-06,YU Jiaqing,MORIZONO Masataka,3,0,"11,12,11|8,10,7",R32,GRAND_SLAM,U21MS,121,Main Draw,YU Jiaqing (SGP),MORIZONO Masataka (JPN)
-World Tour Polish Open Spala 2013,2013-11-06,GAUZY Simon,DYJAS Jakub,3,2,"12,9,3,14,13|10,11,11,12,11",R32,GRAND_SLAM,U21MS,121,Main Draw,GAUZY Simon (FRA),DYJAS Jakub (POL)
-World Tour Polish Open Spala 2013,2013-11-06,FLORAS Robert,GNANASEKARAN Sathiyan,3,1,"11,11,6,11|5,7,11,6",R32,GRAND_SLAM,U21MS,121,Main Draw,FLORAS Robert (POL),GNANASEKARAN Sathiyan (IND)
-World Tour Polish Open Spala 2013,2013-11-06,GHOSH Soumyajit,DEVOS Robin,3,2,"6,6,11,11,11|11,11,6,5,9",R32,GRAND_SLAM,U21MS,121,Main Draw,GHOSH Soumyajit (IND),DEVOS Robin (BEL)
-World Tour Polish Open Spala 2013,2013-11-06,CHEN Feng,JOST Frederick,3,2,"13,11,11,7,11|15,3,1,11,9",R32,GRAND_SLAM,U21MS,121,Main Draw,CHEN Feng (SGP),JOST Frederick (GER)
-World Tour Polish Open Spala 2013,2013-11-06,HUNG Tzu-Hsiang,ANGLES Enzo,3,1,"11,7,11,11|8,11,7,8",R32,GRAND_SLAM,U21MS,121,Main Draw,HUNG Tzu-Hsiang (TPE),ANGLES Enzo (FRA)
-World Tour Polish Open Spala 2013,2013-11-06,ROBINOT Alexandre,KIM Donghyun,3,2,"11,11,9,10,11|9,5,11,12,7",R32,GRAND_SLAM,U21MS,121,Main Draw,ROBINOT Alexandre (FRA),KIM Donghyun (KOR)
-World Tour Polish Open Spala 2013,2013-11-06,CALDERANO Hugo,SAMBE Kohei,3,1,"11,17,3,11|6,15,11,8",R32,GRAND_SLAM,U21MS,121,Main Draw,CALDERANO Hugo (BRA),SAMBE Kohei (JPN)
-World Tour Polish Open Spala 2013,2013-11-06,HIRANO Yuki,SIRUCEK Pavel,3,2,"11,8,13,9,11|6,11,11,11,8",R32,GRAND_SLAM,U21MS,121,Main Draw,HIRANO Yuki (JPN),SIRUCEK Pavel (CZE)
-World Tour Polish Open Spala 2013,2013-11-06,FRANZISKA Patrick,DUDA Benedikt,3,1,"13,11,11,11|15,7,9,3",R16,GRAND_SLAM,U21MS,121,Main Draw,FRANZISKA Patrick (GER),DUDA Benedikt (GER)
-World Tour Polish Open Spala 2013,2013-11-06,PITCHFORD Liam,LORENTZ Romain,3,1,"11,13,5,11|8,11,11,9",R16,GRAND_SLAM,U21MS,121,Main Draw,PITCHFORD Liam (ENG),LORENTZ Romain (FRA)
-World Tour Polish Open Spala 2013,2013-11-06,JIN Takuya,GROTH Jonathan,3,2,"12,11,7,8,11|10,3,11,11,8",R16,GRAND_SLAM,U21MS,121,Main Draw,JIN Takuya (JPN),GROTH Jonathan (DEN)
-World Tour Polish Open Spala 2013,2013-11-06,KANOYA Ryohei,YU Jiaqing,3,2,"16,9,11,6,11|14,11,7,11,4",R16,GRAND_SLAM,U21MS,121,Main Draw,KANOYA Ryohei (JPN),YU Jiaqing (SGP)
-World Tour Polish Open Spala 2013,2013-11-06,GAUZY Simon,FLORAS Robert,3,2,"4,10,11,11,12|11,12,5,9,10",R16,GRAND_SLAM,U21MS,121,Main Draw,GAUZY Simon (FRA),FLORAS Robert (POL)
-World Tour Polish Open Spala 2013,2013-11-06,GHOSH Soumyajit,CHEN Feng,3,0,"11,11,11|7,7,5",R16,GRAND_SLAM,U21MS,121,Main Draw,GHOSH Soumyajit (IND),CHEN Feng (SGP)
-World Tour Polish Open Spala 2013,2013-11-06,HUNG Tzu-Hsiang,ROBINOT Alexandre,3,1,"11,9,12,11|9,11,10,8",R16,GRAND_SLAM,U21MS,121,Main Draw,HUNG Tzu-Hsiang (TPE),ROBINOT Alexandre (FRA)
-World Tour Polish Open Spala 2013,2013-11-06,HIRANO Yuki,CALDERANO Hugo,3,0,"11,11,11|4,8,9",R16,GRAND_SLAM,U21MS,121,Main Draw,HIRANO Yuki (JPN),CALDERANO Hugo (BRA)
-World Tour Polish Open Spala 2013,2013-11-06,PITCHFORD Liam,FRANZISKA Patrick,4,1,"8,11,11,11,11|11,9,6,5,7",QF,GRAND_SLAM,U21MS,121,Main Draw,PITCHFORD Liam (ENG),FRANZISKA Patrick (GER)
-World Tour Polish Open Spala 2013,2013-11-06,JIN Takuya,KANOYA Ryohei,4,3,"10,11,4,11,4,11,11|12,7,11,7,11,5,5",QF,GRAND_SLAM,U21MS,121,Main Draw,JIN Takuya (JPN),KANOYA Ryohei (JPN)
-World Tour Polish Open Spala 2013,2013-11-06,GAUZY Simon,GHOSH Soumyajit,4,3,"8,11,11,5,5,13,11|11,7,9,11,11,11,3",QF,GRAND_SLAM,U21MS,121,Main Draw,GAUZY Simon (FRA),GHOSH Soumyajit (IND)
-World Tour Polish Open Spala 2013,2013-11-06,HUNG Tzu-Hsiang,HIRANO Yuki,4,3,"7,11,4,11,10,11,11|11,8,11,6,12,4,6",QF,GRAND_SLAM,U21MS,121,Main Draw,HUNG Tzu-Hsiang (TPE),HIRANO Yuki (JPN)
-World Tour Polish Open Spala 2013,2013-11-06,JIN Takuya,PITCHFORD Liam,4,1,"12,12,13,9,11|10,10,11,11,8",SF,GRAND_SLAM,U21MS,121,Main Draw,JIN Takuya (JPN),PITCHFORD Liam (ENG)
-World Tour Polish Open Spala 2013,2013-11-06,GAUZY Simon,HUNG Tzu-Hsiang,4,3,"11,11,11,7,9,10,11|8,7,4,11,11,12,9",SF,GRAND_SLAM,U21MS,121,Main Draw,GAUZY Simon (FRA),HUNG Tzu-Hsiang (TPE)
-World Tour Polish Open Spala 2013,2013-11-06,GAUZY Simon,JIN Takuya,4,2,"12,11,7,5,11,11|10,5,11,11,8,4",F,GRAND_SLAM,U21MS,121,Main Draw,GAUZY Simon (FRA),JIN Takuya (JPN)
-World Tour Polish Open Spala 2013,2013-11-06,YANG Ha Eun,KUSINSKA Klaudia,3,0,"11,11,13|6,6,11",R32,GRAND_SLAM,U21WS,121,Main Draw,YANG Ha Eun (KOR),KUSINSKA Klaudia (POL)
-World Tour Polish Open Spala 2013,2013-11-06,WINTER Sabine,SATO Hitomi,3,0,"11,11,15|2,7,13",R32,GRAND_SLAM,U21WS,121,Main Draw,WINTER Sabine (GER),SATO Hitomi (JPN)
-World Tour Polish Open Spala 2013,2013-11-06,MAEDA Miyu,KUMAHARA Luca,3,1,"11,11,11,11|3,7,13,5",R32,GRAND_SLAM,U21WS,121,Main Draw,MAEDA Miyu (JPN),KUMAHARA Luca (BRA)
-World Tour Polish Open Spala 2013,2013-11-06,ITO Mima,MADARASZ Dora,3,1,"11,11,6,11|8,9,11,5",R32,GRAND_SLAM,U21WS,121,Main Draw,ITO Mima (JPN),MADARASZ Dora (HUN)
-World Tour Polish Open Spala 2013,2013-11-06,KATO Miyu,CHENG Hsien-Tzu,3,0,"11,11,11|7,4,7",R32,GRAND_SLAM,U21WS,121,Main Draw,KATO Miyu (JPN),CHENG Hsien-Tzu (TPE)
-World Tour Polish Open Spala 2013,2013-11-06,MATSUZAWA Marina,IACOB Camelia,3,0,"11,11,11|5,6,5",R32,GRAND_SLAM,U21WS,121,Main Draw,MATSUZAWA Marina (JPN),IACOB Camelia (ROU)
-World Tour Polish Open Spala 2013,2013-11-06,YOO Eunchong,HIRANO Yoko,3,2,"10,13,11,6,15|12,11,7,11,13",R32,GRAND_SLAM,U21WS,121,Main Draw,YOO Eunchong (KOR),HIRANO Yoko (JPN)
-World Tour Polish Open Spala 2013,2013-11-06,CHEN Szu-Yu,EERLAND Britt,3,1,"5,11,11,11|11,6,5,7",R32,GRAND_SLAM,U21WS,121,Main Draw,CHEN Szu-Yu (TPE),EERLAND Britt (NED)
-World Tour Polish Open Spala 2013,2013-11-06,SOLJA Petrissa,RAKOVAC Lea,3,0,"11,11,11|2,7,8",R32,GRAND_SLAM,U21WS,121,Main Draw,SOLJA Petrissa (GER),RAKOVAC Lea (CRO)
-World Tour Polish Open Spala 2013,2013-11-06,POLCANOVA Sofia,DOBREVA Polina,3,0,"11,11,11|6,9,3",R32,GRAND_SLAM,U21WS,121,Main Draw,POLCANOVA Sofia (AUT),DOBREVA Polina (BUL)
-World Tour Polish Open Spala 2013,2013-11-06,ARLOUSKAYA Alina,HAMAMOTO Yui,3,2,"7,3,11,12,11|11,11,7,10,7",R32,GRAND_SLAM,U21WS,121,Main Draw,ARLOUSKAYA Alina (BLR),HAMAMOTO Yui (AUT)
-World Tour Polish Open Spala 2013,2013-11-06,MATSUDAIRA Shiho,GASNIER Laura,3,0,"11,11,13|1,7,11",R32,GRAND_SLAM,U21WS,121,Main Draw,MATSUDAIRA Shiho (JPN),GASNIER Laura (FRA)
-World Tour Polish Open Spala 2013,2013-11-06,LIN Ye,SO Eka,3,2,"6,11,11,12,11|11,7,8,14,7",R32,GRAND_SLAM,U21WS,121,Main Draw,LIN Ye (CAN),SO Eka (JPN)
-World Tour Polish Open Spala 2013,2013-11-06,MORI Sakura,ZHOU Yihan,3,1,"11,11,11,11|9,5,13,8",R32,GRAND_SLAM,U21WS,121,Main Draw,MORI Sakura (JPN),ZHOU Yihan (SGP)
-World Tour Polish Open Spala 2013,2013-11-06,HIRANO Miu,KIM Byeolnim,3,0,"13,11,11|11,5,7",R32,GRAND_SLAM,U21WS,121,Main Draw,HIRANO Miu (JPN),KIM Byeolnim (KOR)
-World Tour Polish Open Spala 2013,2013-11-06,LEE Ho Ching,DE NUTTE Sarah,3,0,"11,11,11|9,8,9",R32,GRAND_SLAM,U21WS,121,Main Draw,LEE Ho Ching (HKG),DE NUTTE Sarah (LUX)
-World Tour Polish Open Spala 2013,2013-11-06,YANG Ha Eun,WINTER Sabine,3,1,"6,15,11,11|11,13,9,7",R16,GRAND_SLAM,U21WS,121,Main Draw,YANG Ha Eun (KOR),WINTER Sabine (GER)
-World Tour Polish Open Spala 2013,2013-11-06,ITO Mima,MAEDA Miyu,3,0,"11,11,11|7,7,9",R16,GRAND_SLAM,U21WS,121,Main Draw,ITO Mima (JPN),MAEDA Miyu (JPN)
-World Tour Polish Open Spala 2013,2013-11-06,MATSUZAWA Marina,KATO Miyu,3,1,"12,11,7,11|10,7,11,5",R16,GRAND_SLAM,U21WS,121,Main Draw,MATSUZAWA Marina (JPN),KATO Miyu (JPN)
-World Tour Polish Open Spala 2013,2013-11-06,YOO Eunchong,CHEN Szu-Yu,3,0,"12,11,13|10,6,11",R16,GRAND_SLAM,U21WS,121,Main Draw,YOO Eunchong (KOR),CHEN Szu-Yu (TPE)
-World Tour Polish Open Spala 2013,2013-11-06,SOLJA Petrissa,POLCANOVA Sofia,3,0,"11,11,13|5,6,11",R16,GRAND_SLAM,U21WS,121,Main Draw,SOLJA Petrissa (GER),POLCANOVA Sofia (AUT)
-World Tour Polish Open Spala 2013,2013-11-06,MATSUDAIRA Shiho,ARLOUSKAYA Alina,3,0,"11,11,11|4,9,6",R16,GRAND_SLAM,U21WS,121,Main Draw,MATSUDAIRA Shiho (JPN),ARLOUSKAYA Alina (BLR)
-World Tour Polish Open Spala 2013,2013-11-06,LIN Ye,MORI Sakura,3,1,"11,11,7,11|9,5,11,9",R16,GRAND_SLAM,U21WS,121,Main Draw,LIN Ye (CAN),MORI Sakura (JPN)
-World Tour Polish Open Spala 2013,2013-11-06,HIRANO Miu,LEE Ho Ching,3,2,"11,8,18,6,11|7,11,16,11,9",R16,GRAND_SLAM,U21WS,121,Main Draw,HIRANO Miu (JPN),LEE Ho Ching (HKG)
-World Tour Polish Open Spala 2013,2013-11-06,ITO Mima,YANG Ha Eun,4,0,"11,12,11,11|4,10,6,3",QF,GRAND_SLAM,U21WS,121,Main Draw,ITO Mima (JPN),YANG Ha Eun (KOR)
-World Tour Polish Open Spala 2013,2013-11-06,MATSUZAWA Marina,YOO Eunchong,4,0,"11,11,11,12|6,9,8,10",QF,GRAND_SLAM,U21WS,121,Main Draw,MATSUZAWA Marina (JPN),YOO Eunchong (KOR)
-World Tour Polish Open Spala 2013,2013-11-06,SOLJA Petrissa,MATSUDAIRA Shiho,4,2,"5,11,15,17,11,11|11,5,17,15,8,5",QF,GRAND_SLAM,U21WS,121,Main Draw,SOLJA Petrissa (GER),MATSUDAIRA Shiho (JPN)
-World Tour Polish Open Spala 2013,2013-11-06,LIN Ye,HIRANO Miu,4,3,"12,5,11,9,9,11,11|10,11,9,11,11,7,5",QF,GRAND_SLAM,U21WS,121,Main Draw,LIN Ye (CAN),HIRANO Miu (JPN)
-World Tour Polish Open Spala 2013,2013-11-06,ITO Mima,MATSUZAWA Marina,4,2,"6,11,5,11,12,12|11,7,11,7,10,10",SF,GRAND_SLAM,U21WS,121,Main Draw,ITO Mima (JPN),MATSUZAWA Marina (JPN)
-World Tour Polish Open Spala 2013,2013-11-06,LIN Ye,SOLJA Petrissa,4,3,"13,5,5,11,10,11,11|11,11,11,9,12,9,8",SF,GRAND_SLAM,U21WS,121,Main Draw,LIN Ye (CAN),SOLJA Petrissa (GER)
-World Tour Polish Open Spala 2013,2013-11-06,POLCANOVA Sofia/SOLJA Amelie,EERLAND Britt/XIAO Maria,3,2,"5,8,11,12,14|11,11,9,10,12",R16,GRAND_SLAM,WD,121,Main Draw,POLCANOVA Sofia (AUT) / SOLJA Amelie (AUT),EERLAND Britt (NED) / XIAO Maria (ESP)
-World Tour Polish Open Spala 2013,2013-11-06,BARTHEL Zhenqi/SHAN Xiaona,POLCANOVA Sofia/SOLJA Amelie,3,2,"12,11,11,11,11|10,13,13,8,5",QF,GRAND_SLAM,WD,121,Main Draw,BARTHEL Zhenqi (GER) / SHAN Xiaona (GER),POLCANOVA Sofia (AUT) / SOLJA Amelie (AUT)
-World Tour Polish Open Spala 2013,2013-11-06,JEOUNG Youngsik/LEE Sang Su,FAN Zhendong/ZHOU Yu,3,2,"4,11,11,2,11|11,6,5,11,6",QF,GRAND_SLAM,MD,121,Main Draw,JEOUNG Youngsik (KOR) / LEE Sang Su (KOR),FAN Zhendong (CHN) / ZHOU Yu (CHN)
-World Tour Polish Open Spala 2013,2013-11-06,LIU Gaoyang/ZHANG Qiang,CREEMERS Linda/LI Jiao,3,1,"12,10,11,11|10,12,9,8",R16,GRAND_SLAM,WD,121,Main Draw,LIU Gaoyang (CHN) / ZHANG Qiang (CHN),CREEMERS Linda (NED) / LI Jiao (NED)
-World Tour Polish Open Spala 2013,2013-11-06,BARTHEL Zhenqi/SHAN Xiaona,HU Limei/SHENG Dandan,3,0,"11,11,11|9,7,7",R16,GRAND_SLAM,WD,121,Main Draw,BARTHEL Zhenqi (GER) / SHAN Xiaona (GER),HU Limei (CHN) / SHENG Dandan (CHN)
-World Tour Polish Open Spala 2013,2013-11-06,LIU Gaoyang/ZHANG Qiang,WEN Jia/ZHAO Yan,3,1,"10,11,11,16|12,6,6,14",QF,GRAND_SLAM,WD,121,Main Draw,LIU Gaoyang (CHN) / ZHANG Qiang (CHN),WEN Jia (CHN) / ZHAO Yan (CHN)
-World Tour Polish Open Spala 2013,2013-11-06,BARTHEL Zhenqi/SHAN Xiaona,LIU Gaoyang/ZHANG Qiang,3,0,"11,11,11|7,9,9",SF,GRAND_SLAM,WD,121,Main Draw,BARTHEL Zhenqi (GER) / SHAN Xiaona (GER),LIU Gaoyang (CHN) / ZHANG Qiang (CHN)
-World Tour Polish Open Spala 2013,2013-11-06,WEN Jia/ZHAO Yan,SOLJA Petrissa/WINTER Sabine,3,1,"11,9,12,11|2,11,10,5",R16,GRAND_SLAM,WD,121,Main Draw,WEN Jia (CHN) / ZHAO Yan (CHN),SOLJA Petrissa (GER) / WINTER Sabine (GER)
-World Tour Polish Open Spala 2013,2013-11-06,JEON Jihee/PARK Seonghye,BARTHEL Zhenqi/SHAN Xiaona,3,0,"11,11,11|7,6,8",F,GRAND_SLAM,WD,121,Main Draw,JEON Jihee (KOR) / PARK Seonghye (KOR),BARTHEL Zhenqi (GER) / SHAN Xiaona (GER)
-World Tour Polish Open Spala 2013,2013-11-06,GARDOS Robert/HABESOHN Daniel,JAKAB Janos/KOSIBA Daniel,3,1,"10,11,11,11|12,7,7,9",R16,GRAND_SLAM,MD,121,Main Draw,GARDOS Robert (AUT) / HABESOHN Daniel (AUT),JAKAB Janos (HUN) / KOSIBA Daniel (HUN)
-World Tour Polish Open Spala 2013,2013-11-06,MORIZONO Masataka/SAMBE Kohei,FERTIKOWSKI Pawel/FLORAS Robert,3,1,"13,11,9,11|11,7,11,7",R16,GRAND_SLAM,MD,121,Main Draw,MORIZONO Masataka (JPN) / SAMBE Kohei (JPN),FERTIKOWSKI Pawel (POL) / FLORAS Robert (POL)
-World Tour Polish Open Spala 2013,2013-11-06,MORIZONO Masataka/SAMBE Kohei,CHIANG Hung-Chieh/HUANG Sheng-Sheng,3,0,"11,11,11|6,6,9",SF,GRAND_SLAM,MD,121,Main Draw,MORIZONO Masataka (JPN) / SAMBE Kohei (JPN),CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE)
-World Tour Polish Open Spala 2013,2013-11-06,HIRANO Miu/ITO Mima,PENKAVOVA Katerina/VACENOVSKA Iveta,3,1,"11,7,11,11|3,11,7,6",R16,GRAND_SLAM,WD,121,Main Draw,HIRANO Miu (JPN) / ITO Mima (JPN),PENKAVOVA Katerina (CZE) / VACENOVSKA Iveta (CZE)
-World Tour Polish Open Spala 2013,2013-11-06,PARK Youngsook/YANG Ha Eun,HIRANO Miu/ITO Mima,3,0,"11,11,14|9,5,12",QF,GRAND_SLAM,WD,121,Main Draw,PARK Youngsook (KOR) / YANG Ha Eun (KOR),HIRANO Miu (JPN) / ITO Mima (JPN)
-World Tour Polish Open Spala 2013,2013-11-06,JEOUNG Youngsik/LEE Sang Su,YANG Zi/ZHAN Jian,3,2,"8,11,8,11,11|11,8,11,9,8",R16,GRAND_SLAM,MD,121,Main Draw,JEOUNG Youngsik (KOR) / LEE Sang Su (KOR),YANG Zi (SGP) / ZHAN Jian (SGP)
-World Tour Polish Open Spala 2013,2013-11-06,HUNG Tzu-Hsiang/LEE Chia-Sheng,KIM Minseok/SEO Hyundeok,3,2,"8,11,1,11,11|11,7,11,8,9",R16,GRAND_SLAM,MD,121,Main Draw,HUNG Tzu-Hsiang (TPE) / LEE Chia-Sheng (TPE),KIM Minseok (KOR) / SEO Hyundeok (KOR)
-World Tour Polish Open Spala 2013,2013-11-06,JEOUNG Youngsik/LEE Sang Su,GARDOS Robert/HABESOHN Daniel,3,0,"11,11,11|7,2,7",SF,GRAND_SLAM,MD,121,Main Draw,JEOUNG Youngsik (KOR) / LEE Sang Su (KOR),GARDOS Robert (AUT) / HABESOHN Daniel (AUT)
-World Tour Polish Open Spala 2013,2013-11-06,JEOUNG Youngsik/LEE Sang Su,MORIZONO Masataka/SAMBE Kohei,3,0,"11,11,11|7,6,5",F,GRAND_SLAM,MD,121,Main Draw,JEOUNG Youngsik (KOR) / LEE Sang Su (KOR),MORIZONO Masataka (JPN) / SAMBE Kohei (JPN)
-World Tour Polish Open Spala 2013,2013-11-06,PARK Youngsook/YANG Ha Eun,HUANG Yi-Hua/LEE I-Chen,3,1,"11,9,11,15|9,11,6,13",R16,GRAND_SLAM,WD,121,Main Draw,PARK Youngsook (KOR) / YANG Ha Eun (KOR),HUANG Yi-Hua (TPE) / LEE I-Chen (TPE)
-World Tour Polish Open Spala 2013,2013-11-06,JEON Jihee/PARK Seonghye,DODEAN Daniela/SAMARA Elizabeta,3,2,"11,8,7,11,11|3,11,11,4,4",QF,GRAND_SLAM,WD,121,Main Draw,JEON Jihee (KOR) / PARK Seonghye (KOR),DODEAN Daniela (ROU) / SAMARA Elizabeta (ROU)
-World Tour Polish Open Spala 2013,2013-11-06,JEON Jihee/PARK Seonghye,PARK Youngsook/YANG Ha Eun,3,1,"12,11,11,11|14,5,8,5",SF,GRAND_SLAM,WD,121,Main Draw,JEON Jihee (KOR) / PARK Seonghye (KOR),PARK Youngsook (KOR) / YANG Ha Eun (KOR)
-World Tour Polish Open Spala 2013,2013-11-06,JEON Jihee/PARK Seonghye,GRZYBOWSKA-FRANC Katarzyna/PARTYKA Natalia,3,1,"6,11,11,11|11,9,7,6",R16,GRAND_SLAM,WD,121,Main Draw,JEON Jihee (KOR) / PARK Seonghye (KOR),GRZYBOWSKA-FRANC Katarzyna (POL) / PARTYKA Natalia (POL)
-World Tour Polish Open Spala 2013,2013-11-06,DODEAN Daniela/SAMARA Elizabeta,SIKORSKA Magdalena/SMETEK Marta,3,2,"11,9,11,4,11|4,11,5,11,3",R16,GRAND_SLAM,WD,121,Main Draw,DODEAN Daniela (ROU) / SAMARA Elizabeta (ROU),SIKORSKA Magdalena (POL) / SMETEK Marta (POL)
-World Tour Polish Open Spala 2013,2013-11-06,MATSUDAIRA Kenta/NIWA Koki,APOLONIA Tiago/GERALDO Joao,3,1,"11,11,7,11|8,7,11,4",R16,GRAND_SLAM,MD,121,Main Draw,MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN),APOLONIA Tiago (POR) / GERALDO Joao (POR)
-World Tour Polish Open Spala 2013,2013-11-06,FAN Zhendong/ZHOU Yu,GAO Ning/LI Hu,3,1,"13,5,11,11|11,11,4,6",R16,GRAND_SLAM,MD,121,Main Draw,FAN Zhendong (CHN) / ZHOU Yu (CHN),GAO Ning (SGP) / LI Hu (SGP)
-World Tour Polish Open Spala 2013,2013-11-06,CHUANG Chih-Yuan/SUN Chia-Hung,DESAI Harmeet/GHOSH Soumyajit,3,1,"11,6,11,11|6,11,9,5",R16,GRAND_SLAM,MD,121,Main Draw,CHUANG Chih-Yuan (TPE) / SUN Chia-Hung (TPE),DESAI Harmeet (IND) / GHOSH Soumyajit (IND)
-World Tour Polish Open Spala 2013,2013-11-06,CHIANG Hung-Chieh/HUANG Sheng-Sheng,MONTEIRO Thiago/TSUBOI Gustavo,3,0,"11,11,11|3,8,7",R16,GRAND_SLAM,MD,121,Main Draw,CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE),MONTEIRO Thiago (BRA) / TSUBOI Gustavo (BRA)
-World Tour Polish Open Spala 2013,2013-11-06,GARDOS Robert/HABESOHN Daniel,CHUANG Chih-Yuan/SUN Chia-Hung,3,1,"11,9,11,11|9,11,6,7",QF,GRAND_SLAM,MD,121,Main Draw,GARDOS Robert (AUT) / HABESOHN Daniel (AUT),CHUANG Chih-Yuan (TPE) / SUN Chia-Hung (TPE)
-World Tour Polish Open Spala 2013,2013-11-06,MORIZONO Masataka/SAMBE Kohei,HUNG Tzu-Hsiang/LEE Chia-Sheng,3,1,"8,11,12,12|11,7,10,10",QF,GRAND_SLAM,MD,121,Main Draw,MORIZONO Masataka (JPN) / SAMBE Kohei (JPN),HUNG Tzu-Hsiang (TPE) / LEE Chia-Sheng (TPE)
-World Tour Polish Open Spala 2013,2013-11-06,CHIANG Hung-Chieh/HUANG Sheng-Sheng,MATSUDAIRA Kenta/NIWA Koki,3,0,"11,11,11|1,7,8",QF,GRAND_SLAM,MD,121,Main Draw,CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE),MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+World Tour Polish Open Spala 2013,2013-11-06,CHUANG Chih-Yuan,MA Te,4,1,"14,11,11,11,11|16,9,0,2,6",R64,GRAND_SLAM,MS,121,Main Draw,CHUANG Chih-Yuan (TPE),MA Te (CHN),CHUANG Chih-Yuan
+World Tour Polish Open Spala 2013,2013-11-06,GORAK Daniel,VRABLIK Jiri,4,1,"11,11,11,12,11|8,13,7,10,6",R64,GRAND_SLAM,MS,121,Main Draw,GORAK Daniel (POL),VRABLIK Jiri (CZE),GORAK Daniel
+World Tour Polish Open Spala 2013,2013-11-06,JEONG Sangeun,WU Zhikang,4,1,"11,13,9,11,11|9,11,11,7,6",R64,GRAND_SLAM,MS,121,Main Draw,JEONG Sangeun (KOR),WU Zhikang (SGP),JEONG Sangeun
+World Tour Polish Open Spala 2013,2013-11-06,GACINA Andrej,WONG Chun Ting,4,3,"14,10,11,11,4,14,11|16,12,3,3,11,12,6",R64,GRAND_SLAM,MS,121,Main Draw,GACINA Andrej (CRO),WONG Chun Ting (HKG),GACINA Andrej
+World Tour Polish Open Spala 2013,2013-11-06,PERSSON Jon,OH Sangeun,4,3,"11,10,12,11,11,7,11|9,12,14,1,8,11,7",R64,GRAND_SLAM,MS,121,Main Draw,PERSSON Jon (SWE),OH Sangeun (KOR),PERSSON Jon
+World Tour Polish Open Spala 2013,2013-11-06,YOSHIDA Kaii,CHEN Feng,4,0,"11,11,11,11|3,4,9,8",R64,GRAND_SLAM,MS,121,Main Draw,YOSHIDA Kaii (JPN),CHEN Feng (SGP),YOSHIDA Kaii
+World Tour Polish Open Spala 2013,2013-11-06,SHIBAEV Alexander,SIMONCIK Josef,4,2,"11,9,11,6,13,11|4,11,5,11,11,4",R64,GRAND_SLAM,MS,121,Main Draw,SHIBAEV Alexander (RUS),SIMONCIK Josef (CZE),SHIBAEV Alexander
+World Tour Polish Open Spala 2013,2013-11-06,JIANG Tianyi,KARLSSON Kristian,4,1,"11,11,8,11,11|6,3,11,8,8",R64,GRAND_SLAM,MS,121,Main Draw,JIANG Tianyi (HKG),KARLSSON Kristian (SWE),JIANG Tianyi
+World Tour Polish Open Spala 2013,2013-11-06,STEGER Bastian,SAMBE Kohei,4,0,"11,11,11,11|8,5,3,7",R64,GRAND_SLAM,MS,121,Main Draw,STEGER Bastian (GER),SAMBE Kohei (JPN),STEGER Bastian
+World Tour Polish Open Spala 2013,2013-11-06,CHIANG Hung-Chieh,MATSUMOTO Cazuo,4,2,"11,11,11,8,11,11|13,9,8,11,7,6",R64,GRAND_SLAM,MS,121,Main Draw,CHIANG Hung-Chieh (TPE),MATSUMOTO Cazuo (BRA),CHIANG Hung-Chieh
+World Tour Polish Open Spala 2013,2013-11-06,ACHANTA Sharath,JIN Takuya,4,0,"11,11,11,11|6,3,6,5",R64,GRAND_SLAM,MS,121,Main Draw,ACHANTA Sharath (IND),JIN Takuya (JPN),ACHANTA Sharath
+World Tour Polish Open Spala 2013,2013-11-06,KOSOWSKI Jakub,GARDOS Robert,4,1,"11,6,11,11,13|5,11,5,9,11",R64,GRAND_SLAM,MS,121,Main Draw,KOSOWSKI Jakub (POL),GARDOS Robert (AUT),KOSOWSKI Jakub
+World Tour Polish Open Spala 2013,2013-11-06,ZHOU Yu,WU Chih-Chi,4,3,"9,16,4,12,11,11,11|11,18,11,10,7,8,2",R64,GRAND_SLAM,MS,121,Main Draw,ZHOU Yu (CHN),WU Chih-Chi (TPE),ZHOU Yu
+World Tour Polish Open Spala 2013,2013-11-06,KOLAREK Tomislav,LEE Sang Su,4,1,"13,16,12,7,11|11,14,10,11,8",R64,GRAND_SLAM,MS,121,Main Draw,KOLAREK Tomislav (CRO),LEE Sang Su (KOR),KOLAREK Tomislav
+World Tour Polish Open Spala 2013,2013-11-06,WANG Zengyi,SIRUCEK Pavel,4,1,"7,12,11,11,11|11,10,4,6,9",R64,GRAND_SLAM,MS,121,Main Draw,WANG Zengyi (POL),SIRUCEK Pavel (CZE),WANG Zengyi
+World Tour Polish Open Spala 2013,2013-11-06,NIWA Koki,SEO Hyundeok,4,2,"11,12,9,12,5,12|5,10,11,10,11,10",R64,GRAND_SLAM,MS,121,Main Draw,NIWA Koki (JPN),SEO Hyundeok (KOR),NIWA Koki
+World Tour Polish Open Spala 2013,2013-11-06,GAO Ning,KIM Junghoon,4,3,"15,7,11,5,9,11,11|13,11,7,11,11,9,8",R64,GRAND_SLAM,MS,121,Main Draw,GAO Ning (SGP),KIM Junghoon (KOR),GAO Ning
+World Tour Polish Open Spala 2013,2013-11-06,LI Hu,DUDA Benedikt,4,3,"4,12,11,9,11,11,11|11,14,6,11,2,7,9",R64,GRAND_SLAM,MS,121,Main Draw,LI Hu (SGP),DUDA Benedikt (GER),LI Hu
+World Tour Polish Open Spala 2013,2013-11-06,FRANZISKA Patrick,TSUBOI Gustavo,4,3,"11,9,11,11,11,10,11|6,11,8,4,13,12,4",R64,GRAND_SLAM,MS,121,Main Draw,FRANZISKA Patrick (GER),TSUBOI Gustavo (BRA),FRANZISKA Patrick
+World Tour Polish Open Spala 2013,2013-11-06,LIANG Jingkun,LEE Jungwoo,4,0,"11,11,11,13|7,9,9,11",R64,GRAND_SLAM,MS,121,Main Draw,LIANG Jingkun (CHN),LEE Jungwoo (KOR),LIANG Jingkun
+World Tour Polish Open Spala 2013,2013-11-06,KONECNY Tomas,APOLONIA Tiago,4,0,"18,11,11,12|16,6,9,10",R64,GRAND_SLAM,MS,121,Main Draw,KONECNY Tomas (CZE),APOLONIA Tiago (POR),KONECNY Tomas
+World Tour Polish Open Spala 2013,2013-11-06,YANG Zi,MACHADO Carlos,4,0,"11,11,11,11|9,6,5,5",R64,GRAND_SLAM,MS,121,Main Draw,YANG Zi (SGP),MACHADO Carlos (ESP),YANG Zi
+World Tour Polish Open Spala 2013,2013-11-06,PITCHFORD Liam,ALAMIYAN Noshad,4,2,"11,11,11,16,9,11|4,6,4,18,11,7",R64,GRAND_SLAM,MS,121,Main Draw,PITCHFORD Liam (ENG),ALAMIYAN Noshad (IRI),PITCHFORD Liam
+World Tour Polish Open Spala 2013,2013-11-06,MATSUDAIRA Kenta,MENGEL Steffen,4,0,"11,11,11,11|3,9,9,6",R64,GRAND_SLAM,MS,121,Main Draw,MATSUDAIRA Kenta (JPN),MENGEL Steffen (GER),MATSUDAIRA Kenta
+World Tour Polish Open Spala 2013,2013-11-06,ZHAI Chao,ZHAN Jian,4,3,"9,11,11,12,4,10,11|11,8,5,10,11,12,8",R64,GRAND_SLAM,MS,121,Main Draw,ZHAI Chao (CHN),ZHAN Jian (SGP),ZHAI Chao
+World Tour Polish Open Spala 2013,2013-11-06,FILUS Ruwen,WANG Eugene,4,0,"12,11,11,11|10,9,7,8",R64,GRAND_SLAM,MS,121,Main Draw,FILUS Ruwen (GER),WANG Eugene (CAN),FILUS Ruwen
+World Tour Polish Open Spala 2013,2013-11-06,GAUZY Simon,JEOUNG Youngsik,4,0,"11,11,11,11|4,6,5,4",R64,GRAND_SLAM,MS,121,Main Draw,GAUZY Simon (FRA),JEOUNG Youngsik (KOR),GAUZY Simon
+World Tour Polish Open Spala 2013,2013-11-06,KIM Minseok,ANDERSSON Harald,4,2,"12,11,11,7,11,11|10,2,13,11,8,8",R64,GRAND_SLAM,MS,121,Main Draw,KIM Minseok (KOR),ANDERSSON Harald (SWE),KIM Minseok
+World Tour Polish Open Spala 2013,2013-11-06,KISHIKAWA Seiya,HABESOHN Daniel,4,0,"11,11,11,11|4,6,5,7",R64,GRAND_SLAM,MS,121,Main Draw,KISHIKAWA Seiya (JPN),HABESOHN Daniel (AUT),KISHIKAWA Seiya
+World Tour Polish Open Spala 2013,2013-11-06,MATTENET Adrien,GROTH Jonathan,4,2,"8,11,12,2,14,13|11,6,10,11,12,11",R64,GRAND_SLAM,MS,121,Main Draw,MATTENET Adrien (FRA),GROTH Jonathan (DEN),MATTENET Adrien
+World Tour Polish Open Spala 2013,2013-11-06,CHO Eonrae,HUNG Tzu-Hsiang,4,1,"15,4,11,11,11|13,11,8,6,8",R64,GRAND_SLAM,MS,121,Main Draw,CHO Eonrae (KOR),HUNG Tzu-Hsiang (TPE),CHO Eonrae
+World Tour Polish Open Spala 2013,2013-11-06,FAN Zhendong,LEUNG Chu Yan,4,0,"11,11,11,12|2,8,6,10",R64,GRAND_SLAM,MS,121,Main Draw,FAN Zhendong (CHN),LEUNG Chu Yan (HKG),FAN Zhendong
+World Tour Polish Open Spala 2013,2013-11-06,CHUANG Chih-Yuan,GORAK Daniel,4,0,"11,13,11,11|5,11,2,7",R32,GRAND_SLAM,MS,121,Main Draw,CHUANG Chih-Yuan (TPE),GORAK Daniel (POL),CHUANG Chih-Yuan
+World Tour Polish Open Spala 2013,2013-11-06,GACINA Andrej,JEONG Sangeun,4,1,"5,11,14,12,11|11,6,12,10,9",R32,GRAND_SLAM,MS,121,Main Draw,GACINA Andrej (CRO),JEONG Sangeun (KOR),GACINA Andrej
+World Tour Polish Open Spala 2013,2013-11-06,YOSHIDA Kaii,PERSSON Jon,4,0,"11,11,11,11|9,8,5,6",R32,GRAND_SLAM,MS,121,Main Draw,YOSHIDA Kaii (JPN),PERSSON Jon (SWE),YOSHIDA Kaii
+World Tour Polish Open Spala 2013,2013-11-06,SHIBAEV Alexander,JIANG Tianyi,4,1,"11,5,12,11,11|5,11,10,8,6",R32,GRAND_SLAM,MS,121,Main Draw,SHIBAEV Alexander (RUS),JIANG Tianyi (HKG),SHIBAEV Alexander
+World Tour Polish Open Spala 2013,2013-11-06,STEGER Bastian,CHIANG Hung-Chieh,4,3,"9,16,11,9,6,11,13|11,14,9,11,11,4,11",R32,GRAND_SLAM,MS,121,Main Draw,STEGER Bastian (GER),CHIANG Hung-Chieh (TPE),STEGER Bastian
+World Tour Polish Open Spala 2013,2013-11-06,ACHANTA Sharath,KOSOWSKI Jakub,4,1,"11,11,7,12,11|3,8,11,10,6",R32,GRAND_SLAM,MS,121,Main Draw,ACHANTA Sharath (IND),KOSOWSKI Jakub (POL),ACHANTA Sharath
+World Tour Polish Open Spala 2013,2013-11-06,ZHOU Yu,KOLAREK Tomislav,4,3,"10,11,9,8,11,11,11|12,5,11,11,8,8,8",R32,GRAND_SLAM,MS,121,Main Draw,ZHOU Yu (CHN),KOLAREK Tomislav (CRO),ZHOU Yu
+World Tour Polish Open Spala 2013,2013-11-06,NIWA Koki,WANG Zengyi,4,1,"11,10,11,11,11|6,12,6,5,3",R32,GRAND_SLAM,MS,121,Main Draw,NIWA Koki (JPN),WANG Zengyi (POL),NIWA Koki
+World Tour Polish Open Spala 2013,2013-11-06,LI Hu,GAO Ning,4,0,"11,11,11,11|8,7,8,8",R32,GRAND_SLAM,MS,121,Main Draw,LI Hu (SGP),GAO Ning (SGP),LI Hu
+World Tour Polish Open Spala 2013,2013-11-06,LIANG Jingkun,FRANZISKA Patrick,4,3,"11,13,10,11,6,10,13|6,11,12,7,11,12,11",R32,GRAND_SLAM,MS,121,Main Draw,LIANG Jingkun (CHN),FRANZISKA Patrick (GER),LIANG Jingkun
+World Tour Polish Open Spala 2013,2013-11-06,YANG Zi,KONECNY Tomas,4,0,"11,11,11,11|3,7,4,6",R32,GRAND_SLAM,MS,121,Main Draw,YANG Zi (SGP),KONECNY Tomas (CZE),YANG Zi
+World Tour Polish Open Spala 2013,2013-11-06,MATSUDAIRA Kenta,PITCHFORD Liam,4,1,"11,11,6,12,11|9,8,11,10,9",R32,GRAND_SLAM,MS,121,Main Draw,MATSUDAIRA Kenta (JPN),PITCHFORD Liam (ENG),MATSUDAIRA Kenta
+World Tour Polish Open Spala 2013,2013-11-06,FILUS Ruwen,ZHAI Chao,4,1,"11,11,17,9,11|7,7,15,11,9",R32,GRAND_SLAM,MS,121,Main Draw,FILUS Ruwen (GER),ZHAI Chao (CHN),FILUS Ruwen
+World Tour Polish Open Spala 2013,2013-11-06,GAUZY Simon,KIM Minseok,4,3,"7,11,12,9,15,7,11|11,9,10,11,13,11,4",R32,GRAND_SLAM,MS,121,Main Draw,GAUZY Simon (FRA),KIM Minseok (KOR),GAUZY Simon
+World Tour Polish Open Spala 2013,2013-11-06,KISHIKAWA Seiya,MATTENET Adrien,4,0,"11,11,11,11|4,8,7,5",R32,GRAND_SLAM,MS,121,Main Draw,KISHIKAWA Seiya (JPN),MATTENET Adrien (FRA),KISHIKAWA Seiya
+World Tour Polish Open Spala 2013,2013-11-06,FAN Zhendong,CHO Eonrae,4,1,"11,11,9,14,15|6,6,11,12,13",R32,GRAND_SLAM,MS,121,Main Draw,FAN Zhendong (CHN),CHO Eonrae (KOR),FAN Zhendong
+World Tour Polish Open Spala 2013,2013-11-06,CHUANG Chih-Yuan,GACINA Andrej,4,0,"12,11,11,11|10,1,8,8",R16,GRAND_SLAM,MS,121,Main Draw,CHUANG Chih-Yuan (TPE),GACINA Andrej (CRO),CHUANG Chih-Yuan
+World Tour Polish Open Spala 2013,2013-11-06,YOSHIDA Kaii,SHIBAEV Alexander,4,1,"12,11,7,11,11|10,5,11,9,8",R16,GRAND_SLAM,MS,121,Main Draw,YOSHIDA Kaii (JPN),SHIBAEV Alexander (RUS),YOSHIDA Kaii
+World Tour Polish Open Spala 2013,2013-11-06,STEGER Bastian,ACHANTA Sharath,4,1,"11,3,11,12,11|8,11,8,10,9",R16,GRAND_SLAM,MS,121,Main Draw,STEGER Bastian (GER),ACHANTA Sharath (IND),STEGER Bastian
+World Tour Polish Open Spala 2013,2013-11-06,ZHOU Yu,NIWA Koki,4,1,"11,9,11,11,11|7,11,3,6,9",R16,GRAND_SLAM,MS,121,Main Draw,ZHOU Yu (CHN),NIWA Koki (JPN),ZHOU Yu
+World Tour Polish Open Spala 2013,2013-11-06,LIANG Jingkun,LI Hu,4,2,"6,11,11,10,13,11|11,3,3,12,11,6",R16,GRAND_SLAM,MS,121,Main Draw,LIANG Jingkun (CHN),LI Hu (SGP),LIANG Jingkun
+World Tour Polish Open Spala 2013,2013-11-06,MATSUDAIRA Kenta,YANG Zi,4,1,"11,11,11,11,11|5,9,9,13,6",R16,GRAND_SLAM,MS,121,Main Draw,MATSUDAIRA Kenta (JPN),YANG Zi (SGP),MATSUDAIRA Kenta
+World Tour Polish Open Spala 2013,2013-11-06,FILUS Ruwen,GAUZY Simon,4,1,"11,11,8,11,11|5,6,11,9,9",R16,GRAND_SLAM,MS,121,Main Draw,FILUS Ruwen (GER),GAUZY Simon (FRA),FILUS Ruwen
+World Tour Polish Open Spala 2013,2013-11-06,FAN Zhendong,KISHIKAWA Seiya,4,1,"12,11,11,7,11|10,7,2,11,8",R16,GRAND_SLAM,MS,121,Main Draw,FAN Zhendong (CHN),KISHIKAWA Seiya (JPN),FAN Zhendong
+World Tour Polish Open Spala 2013,2013-11-06,CHUANG Chih-Yuan,YOSHIDA Kaii,4,2,"9,11,2,11,11,11|11,3,11,7,5,6",QF,GRAND_SLAM,MS,121,Main Draw,CHUANG Chih-Yuan (TPE),YOSHIDA Kaii (JPN),CHUANG Chih-Yuan
+World Tour Polish Open Spala 2013,2013-11-06,ZHOU Yu,STEGER Bastian,4,1,"11,6,11,11,11|4,11,8,5,8",QF,GRAND_SLAM,MS,121,Main Draw,ZHOU Yu (CHN),STEGER Bastian (GER),ZHOU Yu
+World Tour Polish Open Spala 2013,2013-11-06,MATSUDAIRA Kenta,LIANG Jingkun,4,3,"6,4,11,11,8,11,11|11,11,5,2,11,9,7",QF,GRAND_SLAM,MS,121,Main Draw,MATSUDAIRA Kenta (JPN),LIANG Jingkun (CHN),MATSUDAIRA Kenta
+World Tour Polish Open Spala 2013,2013-11-06,FAN Zhendong,FILUS Ruwen,4,1,"11,11,11,11,11|13,8,7,9,7",QF,GRAND_SLAM,MS,121,Main Draw,FAN Zhendong (CHN),FILUS Ruwen (GER),FAN Zhendong
+World Tour Polish Open Spala 2013,2013-11-06,ZHOU Yu,CHUANG Chih-Yuan,4,0,"11,11,11,11|7,9,6,7",SF,GRAND_SLAM,MS,121,Main Draw,ZHOU Yu (CHN),CHUANG Chih-Yuan (TPE),ZHOU Yu
+World Tour Polish Open Spala 2013,2013-11-06,FAN Zhendong,MATSUDAIRA Kenta,4,0,"11,11,11,11|8,8,1,8",SF,GRAND_SLAM,MS,121,Main Draw,FAN Zhendong (CHN),MATSUDAIRA Kenta (JPN),FAN Zhendong
+World Tour Polish Open Spala 2013,2013-11-06,FAN Zhendong,ZHOU Yu,4,2,"17,11,7,11,10,11|15,8,11,2,12,6",F,GRAND_SLAM,MS,121,Main Draw,FAN Zhendong (CHN),ZHOU Yu (CHN),FAN Zhendong
+World Tour Polish Open Spala 2013,2013-11-06,FUKUHARA Ai,LENNON Emmanuelle,4,0,"11,11,11,11|4,4,6,7",R64,GRAND_SLAM,WS,121,Main Draw,FUKUHARA Ai (JPN),LENNON Emmanuelle (FRA),FUKUHARA Ai
+World Tour Polish Open Spala 2013,2013-11-06,GRZYBOWSKA-FRANC Katarzyna,PENKAVOVA Katerina,4,3,"13,8,11,11,9,11,12|15,11,2,6,11,4,10",R64,GRAND_SLAM,WS,121,Main Draw,GRZYBOWSKA-FRANC Katarzyna (POL),PENKAVOVA Katerina (CZE),GRZYBOWSKA-FRANC Katarzyna
+World Tour Polish Open Spala 2013,2013-11-06,SOLJA Amelie,SO Eka,4,0,"11,11,11,11|5,1,2,5",R64,GRAND_SLAM,WS,121,Main Draw,SOLJA Amelie (AUT),SO Eka (JPN),SOLJA Amelie
+World Tour Polish Open Spala 2013,2013-11-06,IACOB Camelia,HUANG Yi-Hua,4,3,"4,14,13,11,7,11,14|11,12,15,6,11,9,12",R64,GRAND_SLAM,WS,121,Main Draw,IACOB Camelia (ROU),HUANG Yi-Hua (TPE),IACOB Camelia
+World Tour Polish Open Spala 2013,2013-11-06,DODEAN Daniela,KIM Byeolnim,4,1,"11,10,11,11,11|9,12,4,7,6",R64,GRAND_SLAM,WS,121,Main Draw,DODEAN Daniela (ROU),KIM Byeolnim (KOR),DODEAN Daniela
+World Tour Polish Open Spala 2013,2013-11-06,CHOI Moonyoung,KUSINSKA Klaudia,4,0,"11,11,11,11|2,7,4,9",R64,GRAND_SLAM,WS,121,Main Draw,CHOI Moonyoung (KOR),KUSINSKA Klaudia (POL),CHOI Moonyoung
+World Tour Polish Open Spala 2013,2013-11-06,LOVAS Petra,LI Isabelle Siyun,4,1,"11,15,11,12,11|7,13,9,14,8",R64,GRAND_SLAM,WS,121,Main Draw,LOVAS Petra (HUN),LI Isabelle Siyun (SGP),LOVAS Petra
+World Tour Polish Open Spala 2013,2013-11-06,SAMARA Elizabeta,CHENG Hsien-Tzu,4,0,"11,11,12,11|6,6,10,9",R64,GRAND_SLAM,WS,121,Main Draw,SAMARA Elizabeta (ROU),CHENG Hsien-Tzu (TPE),SAMARA Elizabeta
+World Tour Polish Open Spala 2013,2013-11-06,JO Yujin,LEE Ho Ching,4,2,"11,11,7,1,11,15|6,8,11,11,6,13",R64,GRAND_SLAM,WS,121,Main Draw,JO Yujin (KOR),LEE Ho Ching (HKG),JO Yujin
+World Tour Polish Open Spala 2013,2013-11-06,ZHOU Yihan,PARTYKA Natalia,4,2,"10,13,6,11,11,11|12,11,11,2,8,9",R64,GRAND_SLAM,WS,121,Main Draw,ZHOU Yihan (SGP),PARTYKA Natalia (POL),ZHOU Yihan
+World Tour Polish Open Spala 2013,2013-11-06,PARK Youngsook,HAMAMOTO Yui,4,1,"14,5,11,11,11|12,11,7,9,8",R64,GRAND_SLAM,WS,121,Main Draw,PARK Youngsook (KOR),HAMAMOTO Yui (AUT),PARK Youngsook
+World Tour Polish Open Spala 2013,2013-11-06,SHENG Dandan,VACENOVSKA Iveta,4,1,"8,11,13,11,11|11,7,11,6,9",R64,GRAND_SLAM,WS,121,Main Draw,SHENG Dandan (CHN),VACENOVSKA Iveta (CZE),SHENG Dandan
+World Tour Polish Open Spala 2013,2013-11-06,LIU Gaoyang,HIRANO Miu,4,1,"11,13,11,12,11|8,15,8,10,6",R64,GRAND_SLAM,WS,121,Main Draw,LIU Gaoyang (CHN),HIRANO Miu (JPN),LIU Gaoyang
+World Tour Polish Open Spala 2013,2013-11-06,HU Limei,MATSUZAWA Marina,4,0,"11,11,11,11|4,8,8,8",R64,GRAND_SLAM,WS,121,Main Draw,HU Limei (CHN),MATSUZAWA Marina (JPN),HU Limei
+World Tour Polish Open Spala 2013,2013-11-06,LEE I-Chen,YOO Eunchong,4,1,"11,11,9,11,11|7,9,11,5,5",R64,GRAND_SLAM,WS,121,Main Draw,LEE I-Chen (TPE),YOO Eunchong (KOR),LEE I-Chen
+World Tour Polish Open Spala 2013,2013-11-06,YANG Ha Eun,TAKAHASHI Yume,4,1,"16,11,11,11,11|18,1,5,9,3",R64,GRAND_SLAM,WS,121,Main Draw,YANG Ha Eun (KOR),TAKAHASHI Yume (JPN),YANG Ha Eun
+World Tour Polish Open Spala 2013,2013-11-06,LI Jiao,DUBKOVA Elena,4,0,"11,11,11,11|7,4,8,7",R64,GRAND_SLAM,WS,121,Main Draw,LI Jiao (NED),DUBKOVA Elena (BLR),LI Jiao
+World Tour Polish Open Spala 2013,2013-11-06,CHEN Szu-Yu,SZYMANSKA Antonina,4,3,"9,11,11,7,11,6,11|11,9,7,11,4,11,8",R64,GRAND_SLAM,WS,121,Main Draw,CHEN Szu-Yu (TPE),SZYMANSKA Antonina (POL),CHEN Szu-Yu
+World Tour Polish Open Spala 2013,2013-11-06,POTA Georgina,SAKAI Haruka,4,2,"11,18,14,11,9,12|2,16,16,9,11,10",R64,GRAND_SLAM,WS,121,Main Draw,POTA Georgina (HUN),SAKAI Haruka (JPN),POTA Georgina
+World Tour Polish Open Spala 2013,2013-11-06,WU Jiaduo,GASNIER Laura,4,0,"11,11,11,11|7,9,8,7",R64,GRAND_SLAM,WS,121,Main Draw,WU Jiaduo (GER),GASNIER Laura (FRA),WU Jiaduo
+World Tour Polish Open Spala 2013,2013-11-06,WEN Jia,MADARASZ Dora,4,1,"10,11,11,11,11|12,8,4,5,1",R64,GRAND_SLAM,WS,121,Main Draw,WEN Jia (CHN),MADARASZ Dora (HUN),WEN Jia
+World Tour Polish Open Spala 2013,2013-11-06,LIN Ye,ITO Mima,4,2,"11,6,11,8,11,11|8,11,9,11,1,4",R64,GRAND_SLAM,WS,121,Main Draw,LIN Ye (CAN),ITO Mima (JPN),LIN Ye
+World Tour Polish Open Spala 2013,2013-11-06,SOLJA Petrissa,MORI Sakura,4,0,"11,11,12,11|7,9,10,5",R64,GRAND_SLAM,WS,121,Main Draw,SOLJA Petrissa (GER),MORI Sakura (JPN),SOLJA Petrissa
+World Tour Polish Open Spala 2013,2013-11-06,YU Mengyu,LOEUILLETTE Stephanie,4,0,"11,13,11,11|9,11,2,8",R64,GRAND_SLAM,WS,121,Main Draw,YU Mengyu (SGP),LOEUILLETTE Stephanie (FRA),YU Mengyu
+World Tour Polish Open Spala 2013,2013-11-06,HIRANO Sayaka,CHO Hala,4,2,"14,9,11,6,11,11|12,11,6,11,8,5",R64,GRAND_SLAM,WS,121,Main Draw,HIRANO Sayaka (JPN),CHO Hala (KOR),HIRANO Sayaka
+World Tour Polish Open Spala 2013,2013-11-06,SATO Hitomi,BARTHEL Zhenqi,4,1,"11,15,11,7,11|9,13,8,11,8",R64,GRAND_SLAM,WS,121,Main Draw,SATO Hitomi (JPN),BARTHEL Zhenqi (GER),SATO Hitomi
+World Tour Polish Open Spala 2013,2013-11-06,MATSUDAIRA Shiho,PARK Seonghye,4,1,"11,6,11,11,11|8,11,7,6,7",R64,GRAND_SLAM,WS,121,Main Draw,MATSUDAIRA Shiho (JPN),PARK Seonghye (KOR),MATSUDAIRA Shiho
+World Tour Polish Open Spala 2013,2013-11-06,JEON Jihee,PERGEL Szandra,4,3,"5,11,11,7,9,11,12|11,7,6,11,11,5,10",R64,GRAND_SLAM,WS,121,Main Draw,JEON Jihee (KOR),PERGEL Szandra (HUN),JEON Jihee
+World Tour Polish Open Spala 2013,2013-11-06,ZHANG Qiang,SHAN Xiaona,4,2,"3,11,11,13,5,11|11,8,9,11,11,4",R64,GRAND_SLAM,WS,121,Main Draw,ZHANG Qiang (CHN),SHAN Xiaona (GER),ZHANG Qiang
+World Tour Polish Open Spala 2013,2013-11-06,ZHAO Yan,POLCANOVA Sofia,4,0,"11,11,11,11|5,6,6,7",R64,GRAND_SLAM,WS,121,Main Draw,ZHAO Yan (CHN),POLCANOVA Sofia (AUT),ZHAO Yan
+World Tour Polish Open Spala 2013,2013-11-06,WINTER Sabine,KATO Miyu,4,3,"11,11,10,11,8,9,11|8,5,12,8,11,11,7",R64,GRAND_SLAM,WS,121,Main Draw,WINTER Sabine (GER),KATO Miyu (JPN),WINTER Sabine
+World Tour Polish Open Spala 2013,2013-11-06,SUH Hyo Won,XIAO Maria,4,0,"11,11,11,11|7,2,2,9",R64,GRAND_SLAM,WS,121,Main Draw,SUH Hyo Won (KOR),XIAO Maria (ESP),SUH Hyo Won
+World Tour Polish Open Spala 2013,2013-11-06,FUKUHARA Ai,GRZYBOWSKA-FRANC Katarzyna,4,0,"11,11,11,11|6,9,9,9",R32,GRAND_SLAM,WS,121,Main Draw,FUKUHARA Ai (JPN),GRZYBOWSKA-FRANC Katarzyna (POL),FUKUHARA Ai
+World Tour Polish Open Spala 2013,2013-11-06,IACOB Camelia,SOLJA Amelie,4,1,"11,11,7,11,12|9,5,11,7,10",R32,GRAND_SLAM,WS,121,Main Draw,IACOB Camelia (ROU),SOLJA Amelie (AUT),IACOB Camelia
+World Tour Polish Open Spala 2013,2013-11-06,CHOI Moonyoung,DODEAN Daniela,4,3,"11,11,2,6,6,11,11|7,6,11,11,11,4,9",R32,GRAND_SLAM,WS,121,Main Draw,CHOI Moonyoung (KOR),DODEAN Daniela (ROU),CHOI Moonyoung
+World Tour Polish Open Spala 2013,2013-11-06,SAMARA Elizabeta,LOVAS Petra,4,1,"11,11,11,7,11|3,7,5,11,8",R32,GRAND_SLAM,WS,121,Main Draw,SAMARA Elizabeta (ROU),LOVAS Petra (HUN),SAMARA Elizabeta
+World Tour Polish Open Spala 2013,2013-11-06,ZHOU Yihan,JO Yujin,4,0,"11,11,11,11|5,8,8,7",R32,GRAND_SLAM,WS,121,Main Draw,ZHOU Yihan (SGP),JO Yujin (KOR),ZHOU Yihan
+World Tour Polish Open Spala 2013,2013-11-06,SHENG Dandan,PARK Youngsook,4,0,"16,11,11,11|14,3,5,4",R32,GRAND_SLAM,WS,121,Main Draw,SHENG Dandan (CHN),PARK Youngsook (KOR),SHENG Dandan
+World Tour Polish Open Spala 2013,2013-11-06,HU Limei,LIU Gaoyang,4,2,"11,6,11,11,10,11|7,11,5,8,12,5",R32,GRAND_SLAM,WS,121,Main Draw,HU Limei (CHN),LIU Gaoyang (CHN),HU Limei
+World Tour Polish Open Spala 2013,2013-11-06,YANG Ha Eun,LEE I-Chen,4,2,"2,11,11,5,11,11|11,4,3,11,7,4",R32,GRAND_SLAM,WS,121,Main Draw,YANG Ha Eun (KOR),LEE I-Chen (TPE),YANG Ha Eun
+World Tour Polish Open Spala 2013,2013-11-06,LI Jiao,CHEN Szu-Yu,4,1,"11,11,6,11,11|2,8,11,4,5",R32,GRAND_SLAM,WS,121,Main Draw,LI Jiao (NED),CHEN Szu-Yu (TPE),LI Jiao
+World Tour Polish Open Spala 2013,2013-11-06,POTA Georgina,WU Jiaduo,4,3,"11,11,11,6,5,10,11|6,9,8,11,11,12,8",R32,GRAND_SLAM,WS,121,Main Draw,POTA Georgina (HUN),WU Jiaduo (GER),POTA Georgina
+World Tour Polish Open Spala 2013,2013-11-06,WEN Jia,LIN Ye,4,1,"12,6,11,11,11|10,11,8,7,3",R32,GRAND_SLAM,WS,121,Main Draw,WEN Jia (CHN),LIN Ye (CAN),WEN Jia
+World Tour Polish Open Spala 2013,2013-11-06,YU Mengyu,SOLJA Petrissa,4,1,"9,11,11,11,12|11,6,8,6,10",R32,GRAND_SLAM,WS,121,Main Draw,YU Mengyu (SGP),SOLJA Petrissa (GER),YU Mengyu
+World Tour Polish Open Spala 2013,2013-11-06,HIRANO Sayaka,SATO Hitomi,4,0,"11,11,11,12|4,5,7,10",R32,GRAND_SLAM,WS,121,Main Draw,HIRANO Sayaka (JPN),SATO Hitomi (JPN),HIRANO Sayaka
+World Tour Polish Open Spala 2013,2013-11-06,JEON Jihee,MATSUDAIRA Shiho,4,0,"11,11,11,11|5,6,5,7",R32,GRAND_SLAM,WS,121,Main Draw,JEON Jihee (KOR),MATSUDAIRA Shiho (JPN),JEON Jihee
+World Tour Polish Open Spala 2013,2013-11-06,ZHANG Qiang,ZHAO Yan,4,1,"11,11,11,11,11|8,8,13,9,8",R32,GRAND_SLAM,WS,121,Main Draw,ZHANG Qiang (CHN),ZHAO Yan (CHN),ZHANG Qiang
+World Tour Polish Open Spala 2013,2013-11-06,SUH Hyo Won,WINTER Sabine,4,2,"4,11,11,11,8,11|11,6,7,7,11,4",R32,GRAND_SLAM,WS,121,Main Draw,SUH Hyo Won (KOR),WINTER Sabine (GER),SUH Hyo Won
+World Tour Polish Open Spala 2013,2013-11-06,FUKUHARA Ai,IACOB Camelia,4,2,"11,11,8,12,11,11|4,7,11,14,5,5",R16,GRAND_SLAM,WS,121,Main Draw,FUKUHARA Ai (JPN),IACOB Camelia (ROU),FUKUHARA Ai
+World Tour Polish Open Spala 2013,2013-11-06,SAMARA Elizabeta,CHOI Moonyoung,4,0,"11,11,11,11|9,5,2,3",R16,GRAND_SLAM,WS,121,Main Draw,SAMARA Elizabeta (ROU),CHOI Moonyoung (KOR),SAMARA Elizabeta
+World Tour Polish Open Spala 2013,2013-11-06,SHENG Dandan,ZHOU Yihan,4,3,"8,7,11,11,8,11,11|11,11,5,7,11,4,7",R16,GRAND_SLAM,WS,121,Main Draw,SHENG Dandan (CHN),ZHOU Yihan (SGP),SHENG Dandan
+World Tour Polish Open Spala 2013,2013-11-06,HU Limei,YANG Ha Eun,4,0,"13,11,11,11|11,4,7,5",R16,GRAND_SLAM,WS,121,Main Draw,HU Limei (CHN),YANG Ha Eun (KOR),HU Limei
+World Tour Polish Open Spala 2013,2013-11-06,LI Jiao,POTA Georgina,4,1,"7,11,11,13,11|11,3,4,11,7",R16,GRAND_SLAM,WS,121,Main Draw,LI Jiao (NED),POTA Georgina (HUN),LI Jiao
+World Tour Polish Open Spala 2013,2013-11-06,WEN Jia,YU Mengyu,4,1,"9,11,11,11,11|11,5,1,7,3",R16,GRAND_SLAM,WS,121,Main Draw,WEN Jia (CHN),YU Mengyu (SGP),WEN Jia
+World Tour Polish Open Spala 2013,2013-11-06,JEON Jihee,HIRANO Sayaka,4,0,"11,11,11,11|4,8,9,6",R16,GRAND_SLAM,WS,121,Main Draw,JEON Jihee (KOR),HIRANO Sayaka (JPN),JEON Jihee
+World Tour Polish Open Spala 2013,2013-11-06,SUH Hyo Won,ZHANG Qiang,4,1,"11,11,9,11,11|5,3,11,5,7",R16,GRAND_SLAM,WS,121,Main Draw,SUH Hyo Won (KOR),ZHANG Qiang (CHN),SUH Hyo Won
+World Tour Polish Open Spala 2013,2013-11-06,FUKUHARA Ai,SAMARA Elizabeta,4,3,"12,10,11,12,1,10,11|10,12,9,10,11,12,9",QF,GRAND_SLAM,WS,121,Main Draw,FUKUHARA Ai (JPN),SAMARA Elizabeta (ROU),FUKUHARA Ai
+World Tour Polish Open Spala 2013,2013-11-06,SHENG Dandan,HU Limei,4,3,"7,7,6,13,11,11,11|11,11,11,11,6,7,6",QF,GRAND_SLAM,WS,121,Main Draw,SHENG Dandan (CHN),HU Limei (CHN),SHENG Dandan
+World Tour Polish Open Spala 2013,2013-11-06,WEN Jia,LI Jiao,4,1,"8,11,11,11,11|11,8,9,5,9",QF,GRAND_SLAM,WS,121,Main Draw,WEN Jia (CHN),LI Jiao (NED),WEN Jia
+World Tour Polish Open Spala 2013,2013-11-06,SUH Hyo Won,JEON Jihee,4,2,"4,11,5,11,11,11|11,7,11,8,9,9",QF,GRAND_SLAM,WS,121,Main Draw,SUH Hyo Won (KOR),JEON Jihee (KOR),SUH Hyo Won
+World Tour Polish Open Spala 2013,2013-11-06,SHENG Dandan,FUKUHARA Ai,4,2,"7,8,11,11,11,11|11,11,8,9,7,5",SF,GRAND_SLAM,WS,121,Main Draw,SHENG Dandan (CHN),FUKUHARA Ai (JPN),SHENG Dandan
+World Tour Polish Open Spala 2013,2013-11-06,SUH Hyo Won,WEN Jia,4,3,"11,9,5,11,8,11,11|7,11,11,7,11,3,5",SF,GRAND_SLAM,WS,121,Main Draw,SUH Hyo Won (KOR),WEN Jia (CHN),SUH Hyo Won
+World Tour Polish Open Spala 2013,2013-11-06,SUH Hyo Won,SHENG Dandan,4,2,"6,13,11,10,11,11|11,11,6,12,8,5",F,GRAND_SLAM,WS,121,Main Draw,SUH Hyo Won (KOR),SHENG Dandan (CHN),SUH Hyo Won
+World Tour Polish Open Spala 2013,2013-11-06,FRANZISKA Patrick,ALAMIAN Nima,3,0,"11,11,11|5,7,6",R32,GRAND_SLAM,U21MS,121,Main Draw,FRANZISKA Patrick (GER),ALAMIAN Nima (IRI),FRANZISKA Patrick
+World Tour Polish Open Spala 2013,2013-11-06,DUDA Benedikt,LEE Chia-Sheng,3,2,"9,9,11,11,11|11,11,5,2,7",R32,GRAND_SLAM,U21MS,121,Main Draw,DUDA Benedikt (GER),LEE Chia-Sheng (TPE),DUDA Benedikt
+World Tour Polish Open Spala 2013,2013-11-06,LORENTZ Romain,XIN Zhaoxu,3,1,"11,11,11,11|5,13,7,9",R32,GRAND_SLAM,U21MS,121,Main Draw,LORENTZ Romain (FRA),XIN Zhaoxu (SGP),LORENTZ Romain
+World Tour Polish Open Spala 2013,2013-11-06,PITCHFORD Liam,DESAI Harmeet,3,0,"11,11,15|7,4,13",R32,GRAND_SLAM,U21MS,121,Main Draw,PITCHFORD Liam (ENG),DESAI Harmeet (IND),PITCHFORD Liam
+World Tour Polish Open Spala 2013,2013-11-06,GROTH Jonathan,BAJGER Ondrej,3,0,"11,12,12|7,10,10",R32,GRAND_SLAM,U21MS,121,Main Draw,GROTH Jonathan (DEN),BAJGER Ondrej (CZE),GROTH Jonathan
+World Tour Polish Open Spala 2013,2013-11-06,JIN Takuya,PENG Wang-Wei,3,1,"1,11,11,11|11,6,6,7",R32,GRAND_SLAM,U21MS,121,Main Draw,JIN Takuya (JPN),PENG Wang-Wei (TPE),JIN Takuya
+World Tour Polish Open Spala 2013,2013-11-06,KANOYA Ryohei,WU Zhikang,3,1,"11,11,9,11|9,5,11,9",R32,GRAND_SLAM,U21MS,121,Main Draw,KANOYA Ryohei (JPN),WU Zhikang (SGP),KANOYA Ryohei
+World Tour Polish Open Spala 2013,2013-11-06,YU Jiaqing,MORIZONO Masataka,3,0,"11,12,11|8,10,7",R32,GRAND_SLAM,U21MS,121,Main Draw,YU Jiaqing (SGP),MORIZONO Masataka (JPN),YU Jiaqing
+World Tour Polish Open Spala 2013,2013-11-06,GAUZY Simon,DYJAS Jakub,3,2,"12,9,3,14,13|10,11,11,12,11",R32,GRAND_SLAM,U21MS,121,Main Draw,GAUZY Simon (FRA),DYJAS Jakub (POL),GAUZY Simon
+World Tour Polish Open Spala 2013,2013-11-06,FLORAS Robert,GNANASEKARAN Sathiyan,3,1,"11,11,6,11|5,7,11,6",R32,GRAND_SLAM,U21MS,121,Main Draw,FLORAS Robert (POL),GNANASEKARAN Sathiyan (IND),FLORAS Robert
+World Tour Polish Open Spala 2013,2013-11-06,GHOSH Soumyajit,DEVOS Robin,3,2,"6,6,11,11,11|11,11,6,5,9",R32,GRAND_SLAM,U21MS,121,Main Draw,GHOSH Soumyajit (IND),DEVOS Robin (BEL),GHOSH Soumyajit
+World Tour Polish Open Spala 2013,2013-11-06,CHEN Feng,JOST Frederick,3,2,"13,11,11,7,11|15,3,1,11,9",R32,GRAND_SLAM,U21MS,121,Main Draw,CHEN Feng (SGP),JOST Frederick (GER),CHEN Feng
+World Tour Polish Open Spala 2013,2013-11-06,HUNG Tzu-Hsiang,ANGLES Enzo,3,1,"11,7,11,11|8,11,7,8",R32,GRAND_SLAM,U21MS,121,Main Draw,HUNG Tzu-Hsiang (TPE),ANGLES Enzo (FRA),HUNG Tzu-Hsiang
+World Tour Polish Open Spala 2013,2013-11-06,ROBINOT Alexandre,KIM Donghyun,3,2,"11,11,9,10,11|9,5,11,12,7",R32,GRAND_SLAM,U21MS,121,Main Draw,ROBINOT Alexandre (FRA),KIM Donghyun (KOR),ROBINOT Alexandre
+World Tour Polish Open Spala 2013,2013-11-06,CALDERANO Hugo,SAMBE Kohei,3,1,"11,17,3,11|6,15,11,8",R32,GRAND_SLAM,U21MS,121,Main Draw,CALDERANO Hugo (BRA),SAMBE Kohei (JPN),CALDERANO Hugo
+World Tour Polish Open Spala 2013,2013-11-06,HIRANO Yuki,SIRUCEK Pavel,3,2,"11,8,13,9,11|6,11,11,11,8",R32,GRAND_SLAM,U21MS,121,Main Draw,HIRANO Yuki (JPN),SIRUCEK Pavel (CZE),HIRANO Yuki
+World Tour Polish Open Spala 2013,2013-11-06,FRANZISKA Patrick,DUDA Benedikt,3,1,"13,11,11,11|15,7,9,3",R16,GRAND_SLAM,U21MS,121,Main Draw,FRANZISKA Patrick (GER),DUDA Benedikt (GER),FRANZISKA Patrick
+World Tour Polish Open Spala 2013,2013-11-06,PITCHFORD Liam,LORENTZ Romain,3,1,"11,13,5,11|8,11,11,9",R16,GRAND_SLAM,U21MS,121,Main Draw,PITCHFORD Liam (ENG),LORENTZ Romain (FRA),PITCHFORD Liam
+World Tour Polish Open Spala 2013,2013-11-06,JIN Takuya,GROTH Jonathan,3,2,"12,11,7,8,11|10,3,11,11,8",R16,GRAND_SLAM,U21MS,121,Main Draw,JIN Takuya (JPN),GROTH Jonathan (DEN),JIN Takuya
+World Tour Polish Open Spala 2013,2013-11-06,KANOYA Ryohei,YU Jiaqing,3,2,"16,9,11,6,11|14,11,7,11,4",R16,GRAND_SLAM,U21MS,121,Main Draw,KANOYA Ryohei (JPN),YU Jiaqing (SGP),KANOYA Ryohei
+World Tour Polish Open Spala 2013,2013-11-06,GAUZY Simon,FLORAS Robert,3,2,"4,10,11,11,12|11,12,5,9,10",R16,GRAND_SLAM,U21MS,121,Main Draw,GAUZY Simon (FRA),FLORAS Robert (POL),GAUZY Simon
+World Tour Polish Open Spala 2013,2013-11-06,GHOSH Soumyajit,CHEN Feng,3,0,"11,11,11|7,7,5",R16,GRAND_SLAM,U21MS,121,Main Draw,GHOSH Soumyajit (IND),CHEN Feng (SGP),GHOSH Soumyajit
+World Tour Polish Open Spala 2013,2013-11-06,HUNG Tzu-Hsiang,ROBINOT Alexandre,3,1,"11,9,12,11|9,11,10,8",R16,GRAND_SLAM,U21MS,121,Main Draw,HUNG Tzu-Hsiang (TPE),ROBINOT Alexandre (FRA),HUNG Tzu-Hsiang
+World Tour Polish Open Spala 2013,2013-11-06,HIRANO Yuki,CALDERANO Hugo,3,0,"11,11,11|4,8,9",R16,GRAND_SLAM,U21MS,121,Main Draw,HIRANO Yuki (JPN),CALDERANO Hugo (BRA),HIRANO Yuki
+World Tour Polish Open Spala 2013,2013-11-06,PITCHFORD Liam,FRANZISKA Patrick,4,1,"8,11,11,11,11|11,9,6,5,7",QF,GRAND_SLAM,U21MS,121,Main Draw,PITCHFORD Liam (ENG),FRANZISKA Patrick (GER),PITCHFORD Liam
+World Tour Polish Open Spala 2013,2013-11-06,JIN Takuya,KANOYA Ryohei,4,3,"10,11,4,11,4,11,11|12,7,11,7,11,5,5",QF,GRAND_SLAM,U21MS,121,Main Draw,JIN Takuya (JPN),KANOYA Ryohei (JPN),JIN Takuya
+World Tour Polish Open Spala 2013,2013-11-06,GAUZY Simon,GHOSH Soumyajit,4,3,"8,11,11,5,5,13,11|11,7,9,11,11,11,3",QF,GRAND_SLAM,U21MS,121,Main Draw,GAUZY Simon (FRA),GHOSH Soumyajit (IND),GAUZY Simon
+World Tour Polish Open Spala 2013,2013-11-06,HUNG Tzu-Hsiang,HIRANO Yuki,4,3,"7,11,4,11,10,11,11|11,8,11,6,12,4,6",QF,GRAND_SLAM,U21MS,121,Main Draw,HUNG Tzu-Hsiang (TPE),HIRANO Yuki (JPN),HUNG Tzu-Hsiang
+World Tour Polish Open Spala 2013,2013-11-06,JIN Takuya,PITCHFORD Liam,4,1,"12,12,13,9,11|10,10,11,11,8",SF,GRAND_SLAM,U21MS,121,Main Draw,JIN Takuya (JPN),PITCHFORD Liam (ENG),JIN Takuya
+World Tour Polish Open Spala 2013,2013-11-06,GAUZY Simon,HUNG Tzu-Hsiang,4,3,"11,11,11,7,9,10,11|8,7,4,11,11,12,9",SF,GRAND_SLAM,U21MS,121,Main Draw,GAUZY Simon (FRA),HUNG Tzu-Hsiang (TPE),GAUZY Simon
+World Tour Polish Open Spala 2013,2013-11-06,GAUZY Simon,JIN Takuya,4,2,"12,11,7,5,11,11|10,5,11,11,8,4",F,GRAND_SLAM,U21MS,121,Main Draw,GAUZY Simon (FRA),JIN Takuya (JPN),GAUZY Simon
+World Tour Polish Open Spala 2013,2013-11-06,YANG Ha Eun,KUSINSKA Klaudia,3,0,"11,11,13|6,6,11",R32,GRAND_SLAM,U21WS,121,Main Draw,YANG Ha Eun (KOR),KUSINSKA Klaudia (POL),YANG Ha Eun
+World Tour Polish Open Spala 2013,2013-11-06,WINTER Sabine,SATO Hitomi,3,0,"11,11,15|2,7,13",R32,GRAND_SLAM,U21WS,121,Main Draw,WINTER Sabine (GER),SATO Hitomi (JPN),WINTER Sabine
+World Tour Polish Open Spala 2013,2013-11-06,MAEDA Miyu,KUMAHARA Luca,3,1,"11,11,11,11|3,7,13,5",R32,GRAND_SLAM,U21WS,121,Main Draw,MAEDA Miyu (JPN),KUMAHARA Luca (BRA),MAEDA Miyu
+World Tour Polish Open Spala 2013,2013-11-06,ITO Mima,MADARASZ Dora,3,1,"11,11,6,11|8,9,11,5",R32,GRAND_SLAM,U21WS,121,Main Draw,ITO Mima (JPN),MADARASZ Dora (HUN),ITO Mima
+World Tour Polish Open Spala 2013,2013-11-06,KATO Miyu,CHENG Hsien-Tzu,3,0,"11,11,11|7,4,7",R32,GRAND_SLAM,U21WS,121,Main Draw,KATO Miyu (JPN),CHENG Hsien-Tzu (TPE),KATO Miyu
+World Tour Polish Open Spala 2013,2013-11-06,MATSUZAWA Marina,IACOB Camelia,3,0,"11,11,11|5,6,5",R32,GRAND_SLAM,U21WS,121,Main Draw,MATSUZAWA Marina (JPN),IACOB Camelia (ROU),MATSUZAWA Marina
+World Tour Polish Open Spala 2013,2013-11-06,YOO Eunchong,HIRANO Yoko,3,2,"10,13,11,6,15|12,11,7,11,13",R32,GRAND_SLAM,U21WS,121,Main Draw,YOO Eunchong (KOR),HIRANO Yoko (JPN),YOO Eunchong
+World Tour Polish Open Spala 2013,2013-11-06,CHEN Szu-Yu,EERLAND Britt,3,1,"5,11,11,11|11,6,5,7",R32,GRAND_SLAM,U21WS,121,Main Draw,CHEN Szu-Yu (TPE),EERLAND Britt (NED),CHEN Szu-Yu
+World Tour Polish Open Spala 2013,2013-11-06,SOLJA Petrissa,RAKOVAC Lea,3,0,"11,11,11|2,7,8",R32,GRAND_SLAM,U21WS,121,Main Draw,SOLJA Petrissa (GER),RAKOVAC Lea (CRO),SOLJA Petrissa
+World Tour Polish Open Spala 2013,2013-11-06,POLCANOVA Sofia,DOBREVA Polina,3,0,"11,11,11|6,9,3",R32,GRAND_SLAM,U21WS,121,Main Draw,POLCANOVA Sofia (AUT),DOBREVA Polina (BUL),POLCANOVA Sofia
+World Tour Polish Open Spala 2013,2013-11-06,ARLOUSKAYA Alina,HAMAMOTO Yui,3,2,"7,3,11,12,11|11,11,7,10,7",R32,GRAND_SLAM,U21WS,121,Main Draw,ARLOUSKAYA Alina (BLR),HAMAMOTO Yui (AUT),ARLOUSKAYA Alina
+World Tour Polish Open Spala 2013,2013-11-06,MATSUDAIRA Shiho,GASNIER Laura,3,0,"11,11,13|1,7,11",R32,GRAND_SLAM,U21WS,121,Main Draw,MATSUDAIRA Shiho (JPN),GASNIER Laura (FRA),MATSUDAIRA Shiho
+World Tour Polish Open Spala 2013,2013-11-06,LIN Ye,SO Eka,3,2,"6,11,11,12,11|11,7,8,14,7",R32,GRAND_SLAM,U21WS,121,Main Draw,LIN Ye (CAN),SO Eka (JPN),LIN Ye
+World Tour Polish Open Spala 2013,2013-11-06,MORI Sakura,ZHOU Yihan,3,1,"11,11,11,11|9,5,13,8",R32,GRAND_SLAM,U21WS,121,Main Draw,MORI Sakura (JPN),ZHOU Yihan (SGP),MORI Sakura
+World Tour Polish Open Spala 2013,2013-11-06,HIRANO Miu,KIM Byeolnim,3,0,"13,11,11|11,5,7",R32,GRAND_SLAM,U21WS,121,Main Draw,HIRANO Miu (JPN),KIM Byeolnim (KOR),HIRANO Miu
+World Tour Polish Open Spala 2013,2013-11-06,LEE Ho Ching,DE NUTTE Sarah,3,0,"11,11,11|9,8,9",R32,GRAND_SLAM,U21WS,121,Main Draw,LEE Ho Ching (HKG),DE NUTTE Sarah (LUX),LEE Ho Ching
+World Tour Polish Open Spala 2013,2013-11-06,YANG Ha Eun,WINTER Sabine,3,1,"6,15,11,11|11,13,9,7",R16,GRAND_SLAM,U21WS,121,Main Draw,YANG Ha Eun (KOR),WINTER Sabine (GER),YANG Ha Eun
+World Tour Polish Open Spala 2013,2013-11-06,ITO Mima,MAEDA Miyu,3,0,"11,11,11|7,7,9",R16,GRAND_SLAM,U21WS,121,Main Draw,ITO Mima (JPN),MAEDA Miyu (JPN),ITO Mima
+World Tour Polish Open Spala 2013,2013-11-06,MATSUZAWA Marina,KATO Miyu,3,1,"12,11,7,11|10,7,11,5",R16,GRAND_SLAM,U21WS,121,Main Draw,MATSUZAWA Marina (JPN),KATO Miyu (JPN),MATSUZAWA Marina
+World Tour Polish Open Spala 2013,2013-11-06,YOO Eunchong,CHEN Szu-Yu,3,0,"12,11,13|10,6,11",R16,GRAND_SLAM,U21WS,121,Main Draw,YOO Eunchong (KOR),CHEN Szu-Yu (TPE),YOO Eunchong
+World Tour Polish Open Spala 2013,2013-11-06,SOLJA Petrissa,POLCANOVA Sofia,3,0,"11,11,13|5,6,11",R16,GRAND_SLAM,U21WS,121,Main Draw,SOLJA Petrissa (GER),POLCANOVA Sofia (AUT),SOLJA Petrissa
+World Tour Polish Open Spala 2013,2013-11-06,MATSUDAIRA Shiho,ARLOUSKAYA Alina,3,0,"11,11,11|4,9,6",R16,GRAND_SLAM,U21WS,121,Main Draw,MATSUDAIRA Shiho (JPN),ARLOUSKAYA Alina (BLR),MATSUDAIRA Shiho
+World Tour Polish Open Spala 2013,2013-11-06,LIN Ye,MORI Sakura,3,1,"11,11,7,11|9,5,11,9",R16,GRAND_SLAM,U21WS,121,Main Draw,LIN Ye (CAN),MORI Sakura (JPN),LIN Ye
+World Tour Polish Open Spala 2013,2013-11-06,HIRANO Miu,LEE Ho Ching,3,2,"11,8,18,6,11|7,11,16,11,9",R16,GRAND_SLAM,U21WS,121,Main Draw,HIRANO Miu (JPN),LEE Ho Ching (HKG),HIRANO Miu
+World Tour Polish Open Spala 2013,2013-11-06,ITO Mima,YANG Ha Eun,4,0,"11,12,11,11|4,10,6,3",QF,GRAND_SLAM,U21WS,121,Main Draw,ITO Mima (JPN),YANG Ha Eun (KOR),ITO Mima
+World Tour Polish Open Spala 2013,2013-11-06,MATSUZAWA Marina,YOO Eunchong,4,0,"11,11,11,12|6,9,8,10",QF,GRAND_SLAM,U21WS,121,Main Draw,MATSUZAWA Marina (JPN),YOO Eunchong (KOR),MATSUZAWA Marina
+World Tour Polish Open Spala 2013,2013-11-06,SOLJA Petrissa,MATSUDAIRA Shiho,4,2,"5,11,15,17,11,11|11,5,17,15,8,5",QF,GRAND_SLAM,U21WS,121,Main Draw,SOLJA Petrissa (GER),MATSUDAIRA Shiho (JPN),SOLJA Petrissa
+World Tour Polish Open Spala 2013,2013-11-06,LIN Ye,HIRANO Miu,4,3,"12,5,11,9,9,11,11|10,11,9,11,11,7,5",QF,GRAND_SLAM,U21WS,121,Main Draw,LIN Ye (CAN),HIRANO Miu (JPN),LIN Ye
+World Tour Polish Open Spala 2013,2013-11-06,ITO Mima,MATSUZAWA Marina,4,2,"6,11,5,11,12,12|11,7,11,7,10,10",SF,GRAND_SLAM,U21WS,121,Main Draw,ITO Mima (JPN),MATSUZAWA Marina (JPN),ITO Mima
+World Tour Polish Open Spala 2013,2013-11-06,LIN Ye,SOLJA Petrissa,4,3,"13,5,5,11,10,11,11|11,11,11,9,12,9,8",SF,GRAND_SLAM,U21WS,121,Main Draw,LIN Ye (CAN),SOLJA Petrissa (GER),LIN Ye
+World Tour Polish Open Spala 2013,2013-11-06,POLCANOVA Sofia/SOLJA Amelie,EERLAND Britt/XIAO Maria,3,2,"5,8,11,12,14|11,11,9,10,12",R16,GRAND_SLAM,WD,121,Main Draw,POLCANOVA Sofia (AUT) / SOLJA Amelie (AUT),EERLAND Britt (NED) / XIAO Maria (ESP),POLCANOVA Sofia
+World Tour Polish Open Spala 2013,2013-11-06,BARTHEL Zhenqi/SHAN Xiaona,POLCANOVA Sofia/SOLJA Amelie,3,2,"12,11,11,11,11|10,13,13,8,5",QF,GRAND_SLAM,WD,121,Main Draw,BARTHEL Zhenqi (GER) / SHAN Xiaona (GER),POLCANOVA Sofia (AUT) / SOLJA Amelie (AUT),BARTHEL Zhenqi
+World Tour Polish Open Spala 2013,2013-11-06,JEOUNG Youngsik/LEE Sang Su,FAN Zhendong/ZHOU Yu,3,2,"4,11,11,2,11|11,6,5,11,6",QF,GRAND_SLAM,MD,121,Main Draw,JEOUNG Youngsik (KOR) / LEE Sang Su (KOR),FAN Zhendong (CHN) / ZHOU Yu (CHN),JEOUNG Youngsik
+World Tour Polish Open Spala 2013,2013-11-06,LIU Gaoyang/ZHANG Qiang,CREEMERS Linda/LI Jiao,3,1,"12,10,11,11|10,12,9,8",R16,GRAND_SLAM,WD,121,Main Draw,LIU Gaoyang (CHN) / ZHANG Qiang (CHN),CREEMERS Linda (NED) / LI Jiao (NED),LIU Gaoyang
+World Tour Polish Open Spala 2013,2013-11-06,BARTHEL Zhenqi/SHAN Xiaona,HU Limei/SHENG Dandan,3,0,"11,11,11|9,7,7",R16,GRAND_SLAM,WD,121,Main Draw,BARTHEL Zhenqi (GER) / SHAN Xiaona (GER),HU Limei (CHN) / SHENG Dandan (CHN),BARTHEL Zhenqi
+World Tour Polish Open Spala 2013,2013-11-06,LIU Gaoyang/ZHANG Qiang,WEN Jia/ZHAO Yan,3,1,"10,11,11,16|12,6,6,14",QF,GRAND_SLAM,WD,121,Main Draw,LIU Gaoyang (CHN) / ZHANG Qiang (CHN),WEN Jia (CHN) / ZHAO Yan (CHN),LIU Gaoyang
+World Tour Polish Open Spala 2013,2013-11-06,BARTHEL Zhenqi/SHAN Xiaona,LIU Gaoyang/ZHANG Qiang,3,0,"11,11,11|7,9,9",SF,GRAND_SLAM,WD,121,Main Draw,BARTHEL Zhenqi (GER) / SHAN Xiaona (GER),LIU Gaoyang (CHN) / ZHANG Qiang (CHN),BARTHEL Zhenqi
+World Tour Polish Open Spala 2013,2013-11-06,WEN Jia/ZHAO Yan,SOLJA Petrissa/WINTER Sabine,3,1,"11,9,12,11|2,11,10,5",R16,GRAND_SLAM,WD,121,Main Draw,WEN Jia (CHN) / ZHAO Yan (CHN),SOLJA Petrissa (GER) / WINTER Sabine (GER),WEN Jia
+World Tour Polish Open Spala 2013,2013-11-06,JEON Jihee/PARK Seonghye,BARTHEL Zhenqi/SHAN Xiaona,3,0,"11,11,11|7,6,8",F,GRAND_SLAM,WD,121,Main Draw,JEON Jihee (KOR) / PARK Seonghye (KOR),BARTHEL Zhenqi (GER) / SHAN Xiaona (GER),JEON Jihee
+World Tour Polish Open Spala 2013,2013-11-06,GARDOS Robert/HABESOHN Daniel,JAKAB Janos/KOSIBA Daniel,3,1,"10,11,11,11|12,7,7,9",R16,GRAND_SLAM,MD,121,Main Draw,GARDOS Robert (AUT) / HABESOHN Daniel (AUT),JAKAB Janos (HUN) / KOSIBA Daniel (HUN),GARDOS Robert
+World Tour Polish Open Spala 2013,2013-11-06,MORIZONO Masataka/SAMBE Kohei,FERTIKOWSKI Pawel/FLORAS Robert,3,1,"13,11,9,11|11,7,11,7",R16,GRAND_SLAM,MD,121,Main Draw,MORIZONO Masataka (JPN) / SAMBE Kohei (JPN),FERTIKOWSKI Pawel (POL) / FLORAS Robert (POL),MORIZONO Masataka
+World Tour Polish Open Spala 2013,2013-11-06,MORIZONO Masataka/SAMBE Kohei,CHIANG Hung-Chieh/HUANG Sheng-Sheng,3,0,"11,11,11|6,6,9",SF,GRAND_SLAM,MD,121,Main Draw,MORIZONO Masataka (JPN) / SAMBE Kohei (JPN),CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE),MORIZONO Masataka
+World Tour Polish Open Spala 2013,2013-11-06,HIRANO Miu/ITO Mima,PENKAVOVA Katerina/VACENOVSKA Iveta,3,1,"11,7,11,11|3,11,7,6",R16,GRAND_SLAM,WD,121,Main Draw,HIRANO Miu (JPN) / ITO Mima (JPN),PENKAVOVA Katerina (CZE) / VACENOVSKA Iveta (CZE),HIRANO Miu
+World Tour Polish Open Spala 2013,2013-11-06,PARK Youngsook/YANG Ha Eun,HIRANO Miu/ITO Mima,3,0,"11,11,14|9,5,12",QF,GRAND_SLAM,WD,121,Main Draw,PARK Youngsook (KOR) / YANG Ha Eun (KOR),HIRANO Miu (JPN) / ITO Mima (JPN),PARK Youngsook
+World Tour Polish Open Spala 2013,2013-11-06,JEOUNG Youngsik/LEE Sang Su,YANG Zi/ZHAN Jian,3,2,"8,11,8,11,11|11,8,11,9,8",R16,GRAND_SLAM,MD,121,Main Draw,JEOUNG Youngsik (KOR) / LEE Sang Su (KOR),YANG Zi (SGP) / ZHAN Jian (SGP),JEOUNG Youngsik
+World Tour Polish Open Spala 2013,2013-11-06,HUNG Tzu-Hsiang/LEE Chia-Sheng,KIM Minseok/SEO Hyundeok,3,2,"8,11,1,11,11|11,7,11,8,9",R16,GRAND_SLAM,MD,121,Main Draw,HUNG Tzu-Hsiang (TPE) / LEE Chia-Sheng (TPE),KIM Minseok (KOR) / SEO Hyundeok (KOR),HUNG Tzu-Hsiang
+World Tour Polish Open Spala 2013,2013-11-06,JEOUNG Youngsik/LEE Sang Su,GARDOS Robert/HABESOHN Daniel,3,0,"11,11,11|7,2,7",SF,GRAND_SLAM,MD,121,Main Draw,JEOUNG Youngsik (KOR) / LEE Sang Su (KOR),GARDOS Robert (AUT) / HABESOHN Daniel (AUT),JEOUNG Youngsik
+World Tour Polish Open Spala 2013,2013-11-06,JEOUNG Youngsik/LEE Sang Su,MORIZONO Masataka/SAMBE Kohei,3,0,"11,11,11|7,6,5",F,GRAND_SLAM,MD,121,Main Draw,JEOUNG Youngsik (KOR) / LEE Sang Su (KOR),MORIZONO Masataka (JPN) / SAMBE Kohei (JPN),JEOUNG Youngsik
+World Tour Polish Open Spala 2013,2013-11-06,PARK Youngsook/YANG Ha Eun,HUANG Yi-Hua/LEE I-Chen,3,1,"11,9,11,15|9,11,6,13",R16,GRAND_SLAM,WD,121,Main Draw,PARK Youngsook (KOR) / YANG Ha Eun (KOR),HUANG Yi-Hua (TPE) / LEE I-Chen (TPE),PARK Youngsook
+World Tour Polish Open Spala 2013,2013-11-06,JEON Jihee/PARK Seonghye,DODEAN Daniela/SAMARA Elizabeta,3,2,"11,8,7,11,11|3,11,11,4,4",QF,GRAND_SLAM,WD,121,Main Draw,JEON Jihee (KOR) / PARK Seonghye (KOR),DODEAN Daniela (ROU) / SAMARA Elizabeta (ROU),JEON Jihee
+World Tour Polish Open Spala 2013,2013-11-06,JEON Jihee/PARK Seonghye,PARK Youngsook/YANG Ha Eun,3,1,"12,11,11,11|14,5,8,5",SF,GRAND_SLAM,WD,121,Main Draw,JEON Jihee (KOR) / PARK Seonghye (KOR),PARK Youngsook (KOR) / YANG Ha Eun (KOR),JEON Jihee
+World Tour Polish Open Spala 2013,2013-11-06,JEON Jihee/PARK Seonghye,GRZYBOWSKA-FRANC Katarzyna/PARTYKA Natalia,3,1,"6,11,11,11|11,9,7,6",R16,GRAND_SLAM,WD,121,Main Draw,JEON Jihee (KOR) / PARK Seonghye (KOR),GRZYBOWSKA-FRANC Katarzyna (POL) / PARTYKA Natalia (POL),JEON Jihee
+World Tour Polish Open Spala 2013,2013-11-06,DODEAN Daniela/SAMARA Elizabeta,SIKORSKA Magdalena/SMETEK Marta,3,2,"11,9,11,4,11|4,11,5,11,3",R16,GRAND_SLAM,WD,121,Main Draw,DODEAN Daniela (ROU) / SAMARA Elizabeta (ROU),SIKORSKA Magdalena (POL) / SMETEK Marta (POL),DODEAN Daniela
+World Tour Polish Open Spala 2013,2013-11-06,MATSUDAIRA Kenta/NIWA Koki,APOLONIA Tiago/GERALDO Joao,3,1,"11,11,7,11|8,7,11,4",R16,GRAND_SLAM,MD,121,Main Draw,MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN),APOLONIA Tiago (POR) / GERALDO Joao (POR),MATSUDAIRA Kenta
+World Tour Polish Open Spala 2013,2013-11-06,FAN Zhendong/ZHOU Yu,GAO Ning/LI Hu,3,1,"13,5,11,11|11,11,4,6",R16,GRAND_SLAM,MD,121,Main Draw,FAN Zhendong (CHN) / ZHOU Yu (CHN),GAO Ning (SGP) / LI Hu (SGP),FAN Zhendong
+World Tour Polish Open Spala 2013,2013-11-06,CHUANG Chih-Yuan/SUN Chia-Hung,DESAI Harmeet/GHOSH Soumyajit,3,1,"11,6,11,11|6,11,9,5",R16,GRAND_SLAM,MD,121,Main Draw,CHUANG Chih-Yuan (TPE) / SUN Chia-Hung (TPE),DESAI Harmeet (IND) / GHOSH Soumyajit (IND),CHUANG Chih-Yuan
+World Tour Polish Open Spala 2013,2013-11-06,CHIANG Hung-Chieh/HUANG Sheng-Sheng,MONTEIRO Thiago/TSUBOI Gustavo,3,0,"11,11,11|3,8,7",R16,GRAND_SLAM,MD,121,Main Draw,CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE),MONTEIRO Thiago (BRA) / TSUBOI Gustavo (BRA),CHIANG Hung-Chieh
+World Tour Polish Open Spala 2013,2013-11-06,GARDOS Robert/HABESOHN Daniel,CHUANG Chih-Yuan/SUN Chia-Hung,3,1,"11,9,11,11|9,11,6,7",QF,GRAND_SLAM,MD,121,Main Draw,GARDOS Robert (AUT) / HABESOHN Daniel (AUT),CHUANG Chih-Yuan (TPE) / SUN Chia-Hung (TPE),GARDOS Robert
+World Tour Polish Open Spala 2013,2013-11-06,MORIZONO Masataka/SAMBE Kohei,HUNG Tzu-Hsiang/LEE Chia-Sheng,3,1,"8,11,12,12|11,7,10,10",QF,GRAND_SLAM,MD,121,Main Draw,MORIZONO Masataka (JPN) / SAMBE Kohei (JPN),HUNG Tzu-Hsiang (TPE) / LEE Chia-Sheng (TPE),MORIZONO Masataka
+World Tour Polish Open Spala 2013,2013-11-06,CHIANG Hung-Chieh/HUANG Sheng-Sheng,MATSUDAIRA Kenta/NIWA Koki,3,0,"11,11,11|1,7,8",QF,GRAND_SLAM,MD,121,Main Draw,CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE),MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN),CHIANG Hung-Chieh

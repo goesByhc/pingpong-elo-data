@@ -1,241 +1,241 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Korean Open Jeonju 2006,2006-06-01,OH Sangeun,GAVLAS Antonin,4,1,"11,11,12,4,11|9,8,10,11,9",R32,GRAND_SLAM,MS,1779,Main Draw,OH Sangeun (KOR),GAVLAS Antonin (CZE)
-Korean Open Jeonju 2006,2006-06-01,LEE Jinkwon,TANG Peng,4,3,"11,13,11,9,9,11,11|13,11,9,11,11,9,7",R32,GRAND_SLAM,MS,1779,Main Draw,LEE Jinkwon (KOR),TANG Peng (HKG)
-Korean Open Jeonju 2006,2006-06-01,KIM Junghoon,GAO Ning,4,2,"12,12,7,7,11,11|10,10,11,11,8,9",R32,GRAND_SLAM,MS,1779,Main Draw,KIM Junghoon (KOR),GAO Ning (SGP)
-Korean Open Jeonju 2006,2006-06-01,CHANG Yen-Shu,PRIMORAC Zoran,4,2,"11,11,11,3,9,15|8,8,9,11,11,13",R32,GRAND_SLAM,MS,1779,Main Draw,CHANG Yen-Shu (TPE),PRIMORAC Zoran (CRO)
-Korean Open Jeonju 2006,2006-06-01,LEE Jungsam,CHILA Patrick,4,0,"11,11,12,11|7,9,10,8",R32,GRAND_SLAM,MS,1779,Main Draw,LEE Jungsam (KOR),CHILA Patrick (FRA)
-Korean Open Jeonju 2006,2006-06-01,LIM Jaehyun,FEJER-KONNERTH Zoltan,4,2,"11,11,9,11,7,11|9,9,11,8,11,7",R32,GRAND_SLAM,MS,1779,Main Draw,LIM Jaehyun (KOR),FEJER-KONNERTH Zoltan (GER)
-Korean Open Jeonju 2006,2006-06-01,ELOI Damien,KO Junhyung,4,3,"9,11,11,4,3,11,11|11,8,8,11,11,5,6",R32,GRAND_SLAM,MS,1779,Main Draw,ELOI Damien (FRA),KO Junhyung (KOR)
-Korean Open Jeonju 2006,2006-06-01,YANG Zi,LEE Jungwoo,4,3,"6,11,8,11,10,11,11|11,5,11,9,12,3,6",R32,GRAND_SLAM,MS,1779,Main Draw,YANG Zi (SGP),LEE Jungwoo (KOR)
-Korean Open Jeonju 2006,2006-06-01,CHEN Weixing,CAI Xiaoli,4,0,"11,11,11,11|5,2,6,3",R32,GRAND_SLAM,MS,1779,Main Draw,CHEN Weixing (AUT),CAI Xiaoli (SGP)
-Korean Open Jeonju 2006,2006-06-01,ROSSKOPF Jorg,CHOI Hyunjin,4,3,"3,14,11,11,10,7,11|11,12,8,8,12,11,7",R32,GRAND_SLAM,MS,1779,Main Draw,ROSSKOPF Jorg (GER),CHOI Hyunjin (KOR)
-Korean Open Jeonju 2006,2006-06-01,CHO Eonrae,GARDOS Robert,4,3,"11,8,11,9,11,10,11|5,11,6,11,8,12,7",R32,GRAND_SLAM,MS,1779,Main Draw,CHO Eonrae (KOR),GARDOS Robert (AUT)
-Korean Open Jeonju 2006,2006-06-01,YOON Jaeyoung,CHEUNG Yuk,4,0,"11,11,11,11|6,7,9,7",R32,GRAND_SLAM,MS,1779,Main Draw,YOON Jaeyoung (KOR),CHEUNG Yuk (HKG)
-Korean Open Jeonju 2006,2006-06-01,JOO Saehyuk,KEINATH Thomas,4,1,"11,11,11,11,11|8,7,6,13,4",R32,GRAND_SLAM,MS,1779,Main Draw,JOO Saehyuk (KOR),KEINATH Thomas (SVK)
-Korean Open Jeonju 2006,2006-06-01,MACHADO Carlos,LEUNG Chu Yan,4,1,"11,3,11,11,11|8,11,6,3,6",R32,GRAND_SLAM,MS,1779,Main Draw,MACHADO Carlos (ESP),LEUNG Chu Yan (HKG)
-Korean Open Jeonju 2006,2006-06-01,HE Zhiwen,HIELSCHER Lars,4,1,"11,11,11,10,11|6,9,8,12,8",R32,GRAND_SLAM,MS,1779,Main Draw,HE Zhiwen (ESP),HIELSCHER Lars (GER)
-Korean Open Jeonju 2006,2006-06-01,RYU Seungmin,CHIANG Hung-Chieh,4,0,"11,11,11,14|9,3,7,12",R32,GRAND_SLAM,MS,1779,Main Draw,RYU Seungmin (KOR),CHIANG Hung-Chieh (TPE)
-Korean Open Jeonju 2006,2006-06-01,OH Sangeun,LEE Jinkwon,4,3,"11,9,11,10,6,11,11|7,11,8,12,11,8,7",R16,GRAND_SLAM,MS,1779,Main Draw,OH Sangeun (KOR),LEE Jinkwon (KOR)
-Korean Open Jeonju 2006,2006-06-01,KIM Junghoon,CHANG Yen-Shu,4,2,"11,11,9,11,9,13|6,8,11,8,11,11",R16,GRAND_SLAM,MS,1779,Main Draw,KIM Junghoon (KOR),CHANG Yen-Shu (TPE)
-Korean Open Jeonju 2006,2006-06-01,LIM Jaehyun,LEE Jungsam,4,0,"11,11,11,11|4,7,8,9",R16,GRAND_SLAM,MS,1779,Main Draw,LIM Jaehyun (KOR),LEE Jungsam (KOR)
-Korean Open Jeonju 2006,2006-06-01,ELOI Damien,YANG Zi,4,2,"7,11,8,11,11,11|11,4,11,7,5,5",R16,GRAND_SLAM,MS,1779,Main Draw,ELOI Damien (FRA),YANG Zi (SGP)
-Korean Open Jeonju 2006,2006-06-01,CHEN Weixing,ROSSKOPF Jorg,4,1,"11,11,10,11,11|3,8,12,8,6",R16,GRAND_SLAM,MS,1779,Main Draw,CHEN Weixing (AUT),ROSSKOPF Jorg (GER)
-Korean Open Jeonju 2006,2006-06-01,CHO Eonrae,YOON Jaeyoung,4,2,"8,11,11,1,11,11|11,5,4,11,5,9",R16,GRAND_SLAM,MS,1779,Main Draw,CHO Eonrae (KOR),YOON Jaeyoung (KOR)
-Korean Open Jeonju 2006,2006-06-01,JOO Saehyuk,MACHADO Carlos,4,0,"11,11,11,11|3,5,4,3",R16,GRAND_SLAM,MS,1779,Main Draw,JOO Saehyuk (KOR),MACHADO Carlos (ESP)
-Korean Open Jeonju 2006,2006-06-01,RYU Seungmin,HE Zhiwen,4,1,"11,9,11,12,12|9,11,8,10,10",R16,GRAND_SLAM,MS,1779,Main Draw,RYU Seungmin (KOR),HE Zhiwen (ESP)
-Korean Open Jeonju 2006,2006-06-01,OH Sangeun,KIM Junghoon,4,0,"11,11,11,11|8,4,9,6",QF,GRAND_SLAM,MS,1779,Main Draw,OH Sangeun (KOR),KIM Junghoon (KOR)
-Korean Open Jeonju 2006,2006-06-01,ELOI Damien,LIM Jaehyun,4,2,"9,11,9,11,12,11|11,9,11,9,10,8",QF,GRAND_SLAM,MS,1779,Main Draw,ELOI Damien (FRA),LIM Jaehyun (KOR)
-Korean Open Jeonju 2006,2006-06-01,CHEN Weixing,CHO Eonrae,4,2,"6,11,8,11,12,11|11,5,11,6,10,7",QF,GRAND_SLAM,MS,1779,Main Draw,CHEN Weixing (AUT),CHO Eonrae (KOR)
-Korean Open Jeonju 2006,2006-06-01,JOO Saehyuk,RYU Seungmin,4,2,"11,6,11,11,9,11|9,11,8,8,11,6",QF,GRAND_SLAM,MS,1779,Main Draw,JOO Saehyuk (KOR),RYU Seungmin (KOR)
-Korean Open Jeonju 2006,2006-06-01,ELOI Damien,OH Sangeun,4,2,"4,11,11,11,5,11|11,5,9,9,11,9",SF,GRAND_SLAM,MS,1779,Main Draw,ELOI Damien (FRA),OH Sangeun (KOR)
-Korean Open Jeonju 2006,2006-06-01,JOO Saehyuk,CHEN Weixing,4,1,"8,11,11,11,14|11,6,2,4,12",SF,GRAND_SLAM,MS,1779,Main Draw,JOO Saehyuk (KOR),CHEN Weixing (AUT)
-Korean Open Jeonju 2006,2006-06-01,JOO Saehyuk,ELOI Damien,4,1,"5,12,11,11,11|11,10,5,5,7",F,GRAND_SLAM,MS,1779,Main Draw,JOO Saehyuk (KOR),ELOI Damien (FRA)
-Korean Open Jeonju 2006,2006-06-01,YANG Zi,HABESOHN Daniel,4,0,"11,12,11,11|8,10,5,5",,GRAND_SLAM,MS,1779,Qualification,YANG Zi (SGP),HABESOHN Daniel (AUT)
-Korean Open Jeonju 2006,2006-06-01,MACHADO Carlos,YANG Zi,4,2,"12,3,11,11,11,11|10,11,13,9,7,7",QR2,GRAND_SLAM,MS,1779,Qualification,MACHADO Carlos (ESP),YANG Zi (SGP)
-Korean Open Jeonju 2006,2006-06-01,MACHADO Carlos,HABESOHN Daniel,4,0,"11,11,11,13|5,7,2,11",3,GRAND_SLAM,MS,1779,Qualification,MACHADO Carlos (ESP),HABESOHN Daniel (AUT)
-Korean Open Jeonju 2006,2006-06-01,DURAN Marc,HIELSCHER Lars,4,2,"11,11,5,13,5,11|9,7,11,11,11,7",,GRAND_SLAM,MS,1779,Qualification,DURAN Marc (ESP),HIELSCHER Lars (GER)
-Korean Open Jeonju 2006,2006-06-01,HIELSCHER Lars,GAVLAS Antonin,4,0,"11,12,11,11|8,10,4,3",QR2,GRAND_SLAM,MS,1779,Qualification,HIELSCHER Lars (GER),GAVLAS Antonin (CZE)
-Korean Open Jeonju 2006,2006-06-01,GAVLAS Antonin,DURAN Marc,4,0,"11,11,11,11|6,6,8,8",3,GRAND_SLAM,MS,1779,Qualification,GAVLAS Antonin (CZE),DURAN Marc (ESP)
-Korean Open Jeonju 2006,2006-06-01,LIM Jaehyun,ZUBCIC Tomislav,4,1,"4,11,11,11,11|11,8,5,7,6",,GRAND_SLAM,MS,1779,Qualification,LIM Jaehyun (KOR),ZUBCIC Tomislav (CRO)
-Korean Open Jeonju 2006,2006-06-01,LIM Jaehyun,CHIANG Hung-Chieh,4,3,"9,11,8,11,7,11,11|11,9,11,8,11,5,7",QR2,GRAND_SLAM,MS,1779,Qualification,LIM Jaehyun (KOR),CHIANG Hung-Chieh (TPE)
-Korean Open Jeonju 2006,2006-06-01,CHIANG Hung-Chieh,ZUBCIC Tomislav,4,0,"11,11,13,14|9,7,11,12",3,GRAND_SLAM,MS,1779,Qualification,CHIANG Hung-Chieh (TPE),ZUBCIC Tomislav (CRO)
-Korean Open Jeonju 2006,2006-06-01,TOSIC Roko,VOSTES Yannick,4,0,"11,14,11,11|7,12,7,5",,GRAND_SLAM,MS,1779,Qualification,TOSIC Roko (CRO),VOSTES Yannick (BEL)
-Korean Open Jeonju 2006,2006-06-01,KIM Junghoon,TOSIC Roko,4,1,"11,8,11,11,11|7,11,7,9,8",QR2,GRAND_SLAM,MS,1779,Qualification,KIM Junghoon (KOR),TOSIC Roko (CRO)
-Korean Open Jeonju 2006,2006-06-01,KIM Junghoon,VOSTES Yannick,4,1,"11,11,11,7,11|7,8,7,11,5",3,GRAND_SLAM,MS,1779,Qualification,KIM Junghoon (KOR),VOSTES Yannick (BEL)
-Korean Open Jeonju 2006,2006-06-01,KEINATH Thomas,MA Liang,4,1,"9,11,11,11,11|11,7,5,9,3",,GRAND_SLAM,MS,1779,Qualification,KEINATH Thomas (SVK),MA Liang (SGP)
-Korean Open Jeonju 2006,2006-06-01,LEE Jungsam,KEINATH Thomas,4,0,"11,11,11,11|6,8,5,5",QR2,GRAND_SLAM,MS,1779,Qualification,LEE Jungsam (KOR),KEINATH Thomas (SVK)
-Korean Open Jeonju 2006,2006-06-01,LEE Jungsam,MA Liang,4,2,"11,13,11,5,8,11|9,11,7,11,11,8",3,GRAND_SLAM,MS,1779,Qualification,LEE Jungsam (KOR),MA Liang (SGP)
-Korean Open Jeonju 2006,2006-06-01,YOON Jaeyoung,HUANG Sheng-Sheng,4,0,"11,11,11,11|9,6,3,8",,GRAND_SLAM,MS,1779,Qualification,YOON Jaeyoung (KOR),HUANG Sheng-Sheng (TPE)
-Korean Open Jeonju 2006,2006-06-01,YOON Jaeyoung,SIMONER Christoph,4,1,"11,11,14,10,12|7,8,12,12,10",QR2,GRAND_SLAM,MS,1779,Qualification,YOON Jaeyoung (KOR),SIMONER Christoph (AUT)
-Korean Open Jeonju 2006,2006-06-01,HUANG Sheng-Sheng,SIMONER Christoph,4,1,"12,13,9,11,11|10,11,11,1,6",3,GRAND_SLAM,MS,1779,Qualification,HUANG Sheng-Sheng (TPE),SIMONER Christoph (AUT)
-Korean Open Jeonju 2006,2006-06-01,CHOI Hyunjin,SHEN Chi-Min,4,0,"11,11,11,11|5,8,7,9",,GRAND_SLAM,MS,1779,Qualification,CHOI Hyunjin (KOR),SHEN Chi-Min (TPE)
-Korean Open Jeonju 2006,2006-06-01,CAI Xiaoli,GREEN Wally,4,0,"11,11,11,11|5,1,7,5",QR2,GRAND_SLAM,MS,1779,Qualification,CAI Xiaoli (SGP),GREEN Wally (USA)
-Korean Open Jeonju 2006,2006-06-01,CHOI Hyunjin,CAI Xiaoli,4,2,"8,13,11,9,11,11|11,11,8,11,7,7",3,GRAND_SLAM,MS,1779,Qualification,CHOI Hyunjin (KOR),CAI Xiaoli (SGP)
-Korean Open Jeonju 2006,2006-06-01,SHEN Chi-Min,GREEN Wally,4,0,"11,12,12,11|7,10,10,4",QR4,GRAND_SLAM,MS,1779,Qualification,SHEN Chi-Min (TPE),GREEN Wally (USA)
-Korean Open Jeonju 2006,2006-06-01,CHOI Hyunjin,GREEN Wally,4,0,"11,11,11,11|6,2,4,7",5,GRAND_SLAM,MS,1779,Qualification,CHOI Hyunjin (KOR),GREEN Wally (USA)
-Korean Open Jeonju 2006,2006-06-01,CAI Xiaoli,SHEN Chi-Min,4,0,"11,11,11,11|7,9,9,5",6,GRAND_SLAM,MS,1779,Qualification,CAI Xiaoli (SGP),SHEN Chi-Min (TPE)
-Korean Open Jeonju 2006,2006-06-01,CHANG Yen-Shu,GACINA Andrej,4,0,"11,11,11,11|5,0,2,7",,GRAND_SLAM,MS,1779,Qualification,CHANG Yen-Shu (TPE),GACINA Andrej (CRO)
-Korean Open Jeonju 2006,2006-06-01,KO Junhyung,BOBILLIER Loic,4,2,"9,11,11,10,11,11|11,8,3,12,9,9",QR2,GRAND_SLAM,MS,1779,Qualification,KO Junhyung (KOR),BOBILLIER Loic (FRA)
-Korean Open Jeonju 2006,2006-06-01,CHANG Yen-Shu,BOBILLIER Loic,4,1,"11,6,11,11,11|2,11,6,3,8",3,GRAND_SLAM,MS,1779,Qualification,CHANG Yen-Shu (TPE),BOBILLIER Loic (FRA)
-Korean Open Jeonju 2006,2006-06-01,KO Junhyung,GACINA Andrej,4,2,"11,4,11,17,8,11|8,11,6,15,11,5",QR4,GRAND_SLAM,MS,1779,Qualification,KO Junhyung (KOR),GACINA Andrej (CRO)
-Korean Open Jeonju 2006,2006-06-01,KO Junhyung,CHANG Yen-Shu,4,2,"10,11,11,3,11,13|12,8,6,11,6,11",5,GRAND_SLAM,MS,1779,Qualification,KO Junhyung (KOR),CHANG Yen-Shu (TPE)
-Korean Open Jeonju 2006,2006-06-01,BOBILLIER Loic,GACINA Andrej,4,0,"11,11,11,11|9,6,9,6",6,GRAND_SLAM,MS,1779,Qualification,BOBILLIER Loic (FRA),GACINA Andrej (CRO)
-Korean Open Jeonju 2006,2006-06-01,CHO Eonrae,MAECK Anthony,4,0,"11,11,11,11|7,8,9,8",,GRAND_SLAM,MS,1779,Qualification,CHO Eonrae (KOR),MAECK Anthony (BEL)
-Korean Open Jeonju 2006,2006-06-01,WU Chih-Chi,CHANG Shun-Hung,4,0,"11,11,11,11|3,9,5,6",QR2,GRAND_SLAM,MS,1779,Qualification,WU Chih-Chi (TPE),CHANG Shun-Hung (TPE)
-Korean Open Jeonju 2006,2006-06-01,CHO Eonrae,WU Chih-Chi,4,3,"12,10,11,12,8,7,11|10,12,8,10,11,11,9",3,GRAND_SLAM,MS,1779,Qualification,CHO Eonrae (KOR),WU Chih-Chi (TPE)
-Korean Open Jeonju 2006,2006-06-01,MAECK Anthony,CHANG Shun-Hung,4,2,"7,6,11,11,11,11|11,11,9,7,7,8",QR4,GRAND_SLAM,MS,1779,Qualification,MAECK Anthony (BEL),CHANG Shun-Hung (TPE)
-Korean Open Jeonju 2006,2006-06-01,CHO Eonrae,CHANG Shun-Hung,4,0,"11,11,11,11|2,3,4,8",5,GRAND_SLAM,MS,1779,Qualification,CHO Eonrae (KOR),CHANG Shun-Hung (TPE)
-Korean Open Jeonju 2006,2006-06-01,WU Chih-Chi,MAECK Anthony,4,1,"9,11,11,11,11|11,4,5,7,1",6,GRAND_SLAM,MS,1779,Qualification,WU Chih-Chi (TPE),MAECK Anthony (BEL)
-Korean Open Jeonju 2006,2006-06-01,LEE Jinkwon,SUN Wen-Wei,4,0,"11,11,11,14|4,5,7,12",,GRAND_SLAM,MS,1779,Qualification,LEE Jinkwon (KOR),SUN Wen-Wei (TPE)
-Korean Open Jeonju 2006,2006-06-01,CHEN Chien-An,CARNEROS Alfredo,4,2,"11,9,11,6,11,11|5,11,7,11,5,1",QR2,GRAND_SLAM,MS,1779,Qualification,CHEN Chien-An (TPE),CARNEROS Alfredo (ESP)
-Korean Open Jeonju 2006,2006-06-01,CARNEROS Alfredo,LEE Jinkwon,4,3,"11,9,11,9,11,11,11|7,11,13,11,7,9,7",3,GRAND_SLAM,MS,1779,Qualification,CARNEROS Alfredo (ESP),LEE Jinkwon (KOR)
-Korean Open Jeonju 2006,2006-06-01,CHEN Chien-An,SUN Wen-Wei,4,2,"11,11,11,8,7,13|5,9,9,11,11,11",QR4,GRAND_SLAM,MS,1779,Qualification,CHEN Chien-An (TPE),SUN Wen-Wei (TPE)
-Korean Open Jeonju 2006,2006-06-01,LEE Jinkwon,CHEN Chien-An,4,0,"12,11,11,11|10,6,4,5",5,GRAND_SLAM,MS,1779,Qualification,LEE Jinkwon (KOR),CHEN Chien-An (TPE)
-Korean Open Jeonju 2006,2006-06-01,CARNEROS Alfredo,SUN Wen-Wei,4,0,"11,12,11,11|0,10,9,6",6,GRAND_SLAM,MS,1779,Qualification,CARNEROS Alfredo (ESP),SUN Wen-Wei (TPE)
-Korean Open Jeonju 2006,2006-06-01,HUANG Sheng-Sheng,BOBILLIER Loic,3,1,"11,7,11,11|7,11,5,9",,GRAND_SLAM,U21MS,1779,Qualification,HUANG Sheng-Sheng (TPE),BOBILLIER Loic (FRA)
-Korean Open Jeonju 2006,2006-06-01,MA Liang,BOBILLIER Loic,3,2,"5,11,11,10,11|11,9,4,12,7",QR2,GRAND_SLAM,U21MS,1779,Qualification,MA Liang (SGP),BOBILLIER Loic (FRA)
-Korean Open Jeonju 2006,2006-06-01,HUANG Sheng-Sheng,MA Liang,3,2,"11,7,4,11,11|6,11,11,7,3",3,GRAND_SLAM,U21MS,1779,Qualification,HUANG Sheng-Sheng (TPE),MA Liang (SGP)
-Korean Open Jeonju 2006,2006-06-01,CHIANG Hung-Chieh,GACINA Andrej,3,2,"11,10,9,11,11|9,12,11,6,5",,GRAND_SLAM,U21MS,1779,Qualification,CHIANG Hung-Chieh (TPE),GACINA Andrej (CRO)
-Korean Open Jeonju 2006,2006-06-01,CHIANG Hung-Chieh,VOSTES Yannick,3,1,"11,11,5,11|3,9,11,5",QR2,GRAND_SLAM,U21MS,1779,Qualification,CHIANG Hung-Chieh (TPE),VOSTES Yannick (BEL)
-Korean Open Jeonju 2006,2006-06-01,VOSTES Yannick,GACINA Andrej,3,2,"12,7,11,11,11|10,11,6,13,9",3,GRAND_SLAM,U21MS,1779,Qualification,VOSTES Yannick (BEL),GACINA Andrej (CRO)
-Korean Open Jeonju 2006,2006-06-01,GAVLAS Antonin,SHEN Chi-Min,3,1,"11,7,11,11|7,11,6,9",,GRAND_SLAM,U21MS,1779,Qualification,GAVLAS Antonin (CZE),SHEN Chi-Min (TPE)
-Korean Open Jeonju 2006,2006-06-01,ZUBCIC Tomislav,CHEN Chien-An,3,1,"5,15,12,11|11,13,10,9",QR2,GRAND_SLAM,U21MS,1779,Qualification,ZUBCIC Tomislav (CRO),CHEN Chien-An (TPE)
-Korean Open Jeonju 2006,2006-06-01,ZUBCIC Tomislav,GAVLAS Antonin,3,1,"11,4,11,11|5,11,4,7",3,GRAND_SLAM,U21MS,1779,Qualification,ZUBCIC Tomislav (CRO),GAVLAS Antonin (CZE)
-Korean Open Jeonju 2006,2006-06-01,SHEN Chi-Min,CHEN Chien-An,3,2,"6,13,13,11,12|11,15,11,9,10",QR4,GRAND_SLAM,U21MS,1779,Qualification,SHEN Chi-Min (TPE),CHEN Chien-An (TPE)
-Korean Open Jeonju 2006,2006-06-01,GAVLAS Antonin,CHEN Chien-An,3,0,"11,11,11|8,6,6",5,GRAND_SLAM,U21MS,1779,Qualification,GAVLAS Antonin (CZE),CHEN Chien-An (TPE)
-Korean Open Jeonju 2006,2006-06-01,ZUBCIC Tomislav,SHEN Chi-Min,3,1,"11,11,7,11|4,5,11,6",6,GRAND_SLAM,U21MS,1779,Qualification,ZUBCIC Tomislav (CRO),SHEN Chi-Min (TPE)
-Korean Open Jeonju 2006,2006-06-01,SUN Wen-Wei,DURAN Marc,3,2,"7,4,11,11,12|11,11,4,8,10",,GRAND_SLAM,U21MS,1779,Qualification,SUN Wen-Wei (TPE),DURAN Marc (ESP)
-Korean Open Jeonju 2006,2006-06-01,HABESOHN Daniel,CHANG Shun-Hung,3,0,"13,11,13|11,6,11",QR2,GRAND_SLAM,U21MS,1779,Qualification,HABESOHN Daniel (AUT),CHANG Shun-Hung (TPE)
-Korean Open Jeonju 2006,2006-06-01,DURAN Marc,HABESOHN Daniel,3,0,"13,11,11|11,9,9",3,GRAND_SLAM,U21MS,1779,Qualification,DURAN Marc (ESP),HABESOHN Daniel (AUT)
-Korean Open Jeonju 2006,2006-06-01,SUN Wen-Wei,CHANG Shun-Hung,3,0,"11,11,12|9,5,10",QR4,GRAND_SLAM,U21MS,1779,Qualification,SUN Wen-Wei (TPE),CHANG Shun-Hung (TPE)
-Korean Open Jeonju 2006,2006-06-01,DURAN Marc,CHANG Shun-Hung,3,1,"13,11,11,11|15,4,5,9",5,GRAND_SLAM,U21MS,1779,Qualification,DURAN Marc (ESP),CHANG Shun-Hung (TPE)
-Korean Open Jeonju 2006,2006-06-01,HABESOHN Daniel,SUN Wen-Wei,3,1,"11,11,5,11|2,9,11,8",6,GRAND_SLAM,U21MS,1779,Qualification,HABESOHN Daniel (AUT),SUN Wen-Wei (TPE)
-Korean Open Jeonju 2006,2006-06-01,YANG Zi,WU Chih-Chi,4,3,"8,11,9,11,7,11,12|11,9,11,5,11,7,10",QR16,GRAND_SLAM,MS,1779,Qualification,YANG Zi (SGP),WU Chih-Chi (TPE)
-Korean Open Jeonju 2006,2006-06-01,CHANG Yen-Shu,GAVLAS Antonin,4,0,"11,11,11,13|4,4,9,11",QR16,GRAND_SLAM,MS,1779,Qualification,CHANG Yen-Shu (TPE),GAVLAS Antonin (CZE)
-Korean Open Jeonju 2006,2006-06-01,CHIANG Hung-Chieh,CARNEROS Alfredo,4,0,"11,19,12,13|7,17,10,11",QR16,GRAND_SLAM,MS,1779,Qualification,CHIANG Hung-Chieh (TPE),CARNEROS Alfredo (ESP)
-Korean Open Jeonju 2006,2006-06-01,CAI Xiaoli,TOSIC Roko,4,2,"15,8,11,11,14,11|13,11,9,7,16,3",QR16,GRAND_SLAM,MS,1779,Qualification,CAI Xiaoli (SGP),TOSIC Roko (CRO)
-Korean Open Jeonju 2006,2006-06-01,KEINATH Thomas,HUANG Sheng-Sheng,4,1,"11,8,11,11,11|5,11,9,7,8",QR16,GRAND_SLAM,MS,1779,Qualification,KEINATH Thomas (SVK),HUANG Sheng-Sheng (TPE)
-Korean Open Jeonju 2006,2006-06-01,CHIANG Hung-Chieh,GAVLAS Antonin,4,0,"11,11,11,11|8,9,6,6",R16,GRAND_SLAM,U21MS,1779,Main Draw,CHIANG Hung-Chieh (TPE),GAVLAS Antonin (CZE)
-Korean Open Jeonju 2006,2006-06-01,ZUBCIC Tomislav,SUN Wen-Wei,4,2,"6,8,11,11,13,11|11,11,9,9,11,2",R16,GRAND_SLAM,U21MS,1779,Main Draw,ZUBCIC Tomislav (CRO),SUN Wen-Wei (TPE)
-Korean Open Jeonju 2006,2006-06-01,HUANG Sheng-Sheng,VOSTES Yannick,4,2,"11,11,4,11,9,12|7,6,11,5,11,10",R16,GRAND_SLAM,U21MS,1779,Main Draw,HUANG Sheng-Sheng (TPE),VOSTES Yannick (BEL)
-Korean Open Jeonju 2006,2006-06-01,MA Liang,DURAN Marc,4,0,"11,11,11,11|8,6,5,8",R16,GRAND_SLAM,U21MS,1779,Main Draw,MA Liang (SGP),DURAN Marc (ESP)
-Korean Open Jeonju 2006,2006-06-01,WU Chih-Chi,ZUBCIC Tomislav,4,2,"9,11,11,5,11,11|11,9,4,11,9,3",QF,GRAND_SLAM,U21MS,1779,Main Draw,WU Chih-Chi (TPE),ZUBCIC Tomislav (CRO)
-Korean Open Jeonju 2006,2006-06-01,HUANG Sheng-Sheng,LEE Jinkwon,4,0,,QF,GRAND_SLAM,U21MS,1779,Main Draw,HUANG Sheng-Sheng (TPE),LEE Jinkwon (KOR)
-Korean Open Jeonju 2006,2006-06-01,CHO Eonrae,MA Liang,4,1,"11,11,13,9,12|5,4,11,11,10",QF,GRAND_SLAM,U21MS,1779,Main Draw,CHO Eonrae (KOR),MA Liang (SGP)
-Korean Open Jeonju 2006,2006-06-01,WU Chih-Chi,LIM Jaehyun,4,3,"10,11,3,9,11,11,11|12,8,11,11,2,3,6",SF,GRAND_SLAM,U21MS,1779,Main Draw,WU Chih-Chi (TPE),LIM Jaehyun (KOR)
-Korean Open Jeonju 2006,2006-06-01,HUANG Sheng-Sheng,CHO Eonrae,4,1,"7,11,11,11,11|11,8,5,9,5",SF,GRAND_SLAM,U21MS,1779,Main Draw,HUANG Sheng-Sheng (TPE),CHO Eonrae (KOR)
-Korean Open Jeonju 2006,2006-06-01,WU Chih-Chi,HUANG Sheng-Sheng,4,3,"11,5,11,6,12,6,11|9,11,3,11,10,11,4",F,GRAND_SLAM,U21MS,1779,Main Draw,WU Chih-Chi (TPE),HUANG Sheng-Sheng (TPE)
-Korean Open Jeonju 2006,2006-06-01,LI Jiawei,CHENG I-Ching,4,0,"11,11,11,11|9,7,8,3",R32,GRAND_SLAM,WS,1779,Main Draw,LI Jiawei (SGP),CHENG I-Ching (TPE)
-Korean Open Jeonju 2006,2006-06-01,WU Jiaduo,LI Qiangbing,4,3,"11,12,12,10,8,8,11|6,10,10,12,11,11,9",R32,GRAND_SLAM,WS,1779,Main Draw,WU Jiaduo (GER),LI Qiangbing (AUT)
-Korean Open Jeonju 2006,2006-06-01,PARK Miyoung,SCHALL Elke,4,0,"11,11,11,11|9,6,7,5",R32,GRAND_SLAM,WS,1779,Main Draw,PARK Miyoung (KOR),SCHALL Elke (GER)
-Korean Open Jeonju 2006,2006-06-01,LIU Jia,KIM Bokrae,4,1,"11,11,11,11,11|13,9,7,7,6",R32,GRAND_SLAM,WS,1779,Main Draw,LIU Jia (AUT),KIM Bokrae (KOR)
-Korean Open Jeonju 2006,2006-06-01,WANG Yuegu,ISHIGAKI Yuka,4,2,"11,7,11,11,11,11|13,11,7,8,9,8",R32,GRAND_SLAM,WS,1779,Main Draw,WANG Yuegu (SGP),ISHIGAKI Yuka (JPN)
-Korean Open Jeonju 2006,2006-06-01,LEE Eunhee,SHEN Yanfei,4,2,"11,11,11,8,8,11|6,3,4,11,11,4",R32,GRAND_SLAM,WS,1779,Main Draw,LEE Eunhee (KOR),SHEN Yanfei (ESP)
-Korean Open Jeonju 2006,2006-06-01,UMEMURA Aya,TAN Paey Fern,4,2,"11,17,11,8,11,11|4,19,4,11,9,6",R32,GRAND_SLAM,WS,1779,Main Draw,UMEMURA Aya (JPN),TAN Paey Fern (SGP)
-Korean Open Jeonju 2006,2006-06-01,GAO Jun,HUANG Yi-Hua,4,2,"9,15,11,7,11,11|11,13,7,11,5,9",R32,GRAND_SLAM,WS,1779,Main Draw,GAO Jun (USA),HUANG Yi-Hua (TPE)
-Korean Open Jeonju 2006,2006-06-01,KIM Kyungah,HIURA Reiko,4,0,"11,11,11,11|3,8,3,6",R32,GRAND_SLAM,WS,1779,Main Draw,KIM Kyungah (KOR),HIURA Reiko (JPN)
-Korean Open Jeonju 2006,2006-06-01,HIRANO Sayaka,KIM Junghyun,4,1,"11,11,11,5,11|8,5,8,11,7",R32,GRAND_SLAM,WS,1779,Main Draw,HIRANO Sayaka (JPN),KIM Junghyun (KOR)
-Korean Open Jeonju 2006,2006-06-01,ZHANG Xueling,KWAK Bangbang,4,1,"5,11,11,11,11|11,8,7,7,5",R32,GRAND_SLAM,WS,1779,Main Draw,ZHANG Xueling (SGP),KWAK Bangbang (KOR)
-Korean Open Jeonju 2006,2006-06-01,FUKUHARA Ai,ROBERTSON Laura,4,0,"11,11,11,11|2,6,6,7",R32,GRAND_SLAM,WS,1779,Main Draw,FUKUHARA Ai (JPN),ROBERTSON Laura (GER)
-Korean Open Jeonju 2006,2006-06-01,MOON Hyunjung,LU Yun-Feng,4,1,"11,11,9,11,11|5,2,11,5,6",R32,GRAND_SLAM,WS,1779,Main Draw,MOON Hyunjung (KOR),LU Yun-Feng (TPE)
-Korean Open Jeonju 2006,2006-06-01,ZHANG Rui,KIM Kyungha,4,1,"3,11,11,12,14|11,9,4,10,12",R32,GRAND_SLAM,WS,1779,Main Draw,ZHANG Rui (HKG),KIM Kyungha (KOR)
-Korean Open Jeonju 2006,2006-06-01,SUN Beibei,FUJINUMA Ai,4,1,"11,11,11,11,11|4,6,6,13,3",R32,GRAND_SLAM,WS,1779,Main Draw,SUN Beibei (SGP),FUJINUMA Ai (JPN)
-Korean Open Jeonju 2006,2006-06-01,TIE Yana,RAMIREZ Sara,4,0,"11,11,11,11|7,5,1,7",R32,GRAND_SLAM,WS,1779,Main Draw,TIE Yana (HKG),RAMIREZ Sara (ESP)
-Korean Open Jeonju 2006,2006-06-01,LI Jiawei,WU Jiaduo,4,1,"10,11,11,11,11|12,3,6,9,3",R16,GRAND_SLAM,WS,1779,Main Draw,LI Jiawei (SGP),WU Jiaduo (GER)
-Korean Open Jeonju 2006,2006-06-01,PARK Miyoung,LIU Jia,4,1,"7,11,11,11,11|11,8,8,7,7",R16,GRAND_SLAM,WS,1779,Main Draw,PARK Miyoung (KOR),LIU Jia (AUT)
-Korean Open Jeonju 2006,2006-06-01,WANG Yuegu,LEE Eunhee,4,0,"11,11,15,11|9,5,13,6",R16,GRAND_SLAM,WS,1779,Main Draw,WANG Yuegu (SGP),LEE Eunhee (KOR)
-Korean Open Jeonju 2006,2006-06-01,GAO Jun,UMEMURA Aya,4,3,"11,11,10,12,4,6,11|8,6,12,10,11,11,4",R16,GRAND_SLAM,WS,1779,Main Draw,GAO Jun (USA),UMEMURA Aya (JPN)
-Korean Open Jeonju 2006,2006-06-01,KIM Kyungah,HIRANO Sayaka,4,1,"11,11,11,9,11|5,5,5,11,5",R16,GRAND_SLAM,WS,1779,Main Draw,KIM Kyungah (KOR),HIRANO Sayaka (JPN)
-Korean Open Jeonju 2006,2006-06-01,FUKUHARA Ai,ZHANG Xueling,4,1,"17,11,11,11,11|15,13,4,9,5",R16,GRAND_SLAM,WS,1779,Main Draw,FUKUHARA Ai (JPN),ZHANG Xueling (SGP)
-Korean Open Jeonju 2006,2006-06-01,ZHANG Rui,MOON Hyunjung,4,2,"11,11,11,11,9,13|9,8,13,8,11,11",R16,GRAND_SLAM,WS,1779,Main Draw,ZHANG Rui (HKG),MOON Hyunjung (KOR)
-Korean Open Jeonju 2006,2006-06-01,TIE Yana,SUN Beibei,4,1,"11,11,11,9,11|9,6,6,11,9",R16,GRAND_SLAM,WS,1779,Main Draw,TIE Yana (HKG),SUN Beibei (SGP)
-Korean Open Jeonju 2006,2006-06-01,PARK Miyoung,LI Jiawei,4,2,"6,11,15,10,11,11|11,7,13,12,3,9",QF,GRAND_SLAM,WS,1779,Main Draw,PARK Miyoung (KOR),LI Jiawei (SGP)
-Korean Open Jeonju 2006,2006-06-01,WANG Yuegu,GAO Jun,4,2,"2,11,9,11,11,11|11,8,11,8,4,5",QF,GRAND_SLAM,WS,1779,Main Draw,WANG Yuegu (SGP),GAO Jun (USA)
-Korean Open Jeonju 2006,2006-06-01,KIM Kyungah,FUKUHARA Ai,4,1,"11,11,11,9,11|6,3,4,11,7",QF,GRAND_SLAM,WS,1779,Main Draw,KIM Kyungah (KOR),FUKUHARA Ai (JPN)
-Korean Open Jeonju 2006,2006-06-01,TIE Yana,ZHANG Rui,4,0,"11,11,11,11|9,9,5,6",QF,GRAND_SLAM,WS,1779,Main Draw,TIE Yana (HKG),ZHANG Rui (HKG)
-Korean Open Jeonju 2006,2006-06-01,WANG Yuegu,PARK Miyoung,4,2,"11,11,6,11,9,11|8,9,11,7,11,6",SF,GRAND_SLAM,WS,1779,Main Draw,WANG Yuegu (SGP),PARK Miyoung (KOR)
-Korean Open Jeonju 2006,2006-06-01,TIE Yana,KIM Kyungah,4,1,"13,11,15,11,11|11,9,17,6,4",SF,GRAND_SLAM,WS,1779,Main Draw,TIE Yana (HKG),KIM Kyungah (KOR)
-Korean Open Jeonju 2006,2006-06-01,TIE Yana,WANG Yuegu,4,1,"11,11,9,11,11|5,6,11,6,5",F,GRAND_SLAM,WS,1779,Main Draw,TIE Yana (HKG),WANG Yuegu (SGP)
-Korean Open Jeonju 2006,2006-06-01,PARK Miyoung,LEE I-Chen,4,1,"7,11,11,11,11|11,7,7,6,3",,GRAND_SLAM,WS,1779,Qualification,PARK Miyoung (KOR),LEE I-Chen (TPE)
-Korean Open Jeonju 2006,2006-06-01,PARK Miyoung,ISHIGAKI Yuka,4,2,"9,6,13,11,12,11|11,11,11,3,10,4",QR2,GRAND_SLAM,WS,1779,Qualification,PARK Miyoung (KOR),ISHIGAKI Yuka (JPN)
-Korean Open Jeonju 2006,2006-06-01,ISHIGAKI Yuka,LEE I-Chen,4,1,"11,3,11,11,11|9,11,6,8,7",3,GRAND_SLAM,WS,1779,Qualification,ISHIGAKI Yuka (JPN),LEE I-Chen (TPE)
-Korean Open Jeonju 2006,2006-06-01,FUJINUMA Ai,KIM Soongsil,4,0,"11,11,11,11|9,9,5,6",,GRAND_SLAM,WS,1779,Qualification,FUJINUMA Ai (JPN),KIM Soongsil (KOR)
-Korean Open Jeonju 2006,2006-06-01,FUJINUMA Ai,PAN Chun-Chu,4,1,"11,12,11,7,11|8,10,4,11,9",QR2,GRAND_SLAM,WS,1779,Qualification,FUJINUMA Ai (JPN),PAN Chun-Chu (TPE)
-Korean Open Jeonju 2006,2006-06-01,PAN Chun-Chu,KIM Soongsil,4,2,"6,11,11,6,11,11|11,5,5,11,6,8",3,GRAND_SLAM,WS,1779,Qualification,PAN Chun-Chu (TPE),KIM Soongsil (KOR)
-Korean Open Jeonju 2006,2006-06-01,HIURA Reiko,YU Kwok See,4,1,"8,11,12,13,11|11,3,10,11,7",,GRAND_SLAM,WS,1779,Qualification,HIURA Reiko (JPN),YU Kwok See (HKG)
-Korean Open Jeonju 2006,2006-06-01,HIURA Reiko,DVORAK Galia,4,3,"6,11,6,11,11,8,11|11,6,11,8,2,11,5",QR2,GRAND_SLAM,WS,1779,Qualification,HIURA Reiko (JPN),DVORAK Galia (ESP)
-Korean Open Jeonju 2006,2006-06-01,DVORAK Galia,YU Kwok See,4,1,"11,11,11,6,11|4,7,6,11,2",3,GRAND_SLAM,WS,1779,Qualification,DVORAK Galia (ESP),YU Kwok See (HKG)
-Korean Open Jeonju 2006,2006-06-01,KIM Bokrae,TERUI Moemi,4,3,"11,10,7,9,11,14,11|2,12,11,11,6,12,9",,GRAND_SLAM,WS,1779,Qualification,KIM Bokrae (KOR),TERUI Moemi (JPN)
-Korean Open Jeonju 2006,2006-06-01,KIM Bokrae,HEINE Veronika,4,0,"11,11,11,11|7,8,5,8",QR2,GRAND_SLAM,WS,1779,Qualification,KIM Bokrae (KOR),HEINE Veronika (AUT)
-Korean Open Jeonju 2006,2006-06-01,TERUI Moemi,HEINE Veronika,4,2,"9,11,7,11,11,12|11,7,11,6,6,10",3,GRAND_SLAM,WS,1779,Qualification,TERUI Moemi (JPN),HEINE Veronika (AUT)
-Korean Open Jeonju 2006,2006-06-01,LEE Eunhee,LIU Hsing-Yin,4,0,"11,11,11,11|8,1,2,5",,GRAND_SLAM,WS,1779,Qualification,LEE Eunhee (KOR),LIU Hsing-Yin (TPE)
-Korean Open Jeonju 2006,2006-06-01,LEE Eunhee,BARTHEL Zhenqi,4,2,"11,7,11,9,11,11|6,11,9,11,9,7",QR2,GRAND_SLAM,WS,1779,Qualification,LEE Eunhee (KOR),BARTHEL Zhenqi (GER)
-Korean Open Jeonju 2006,2006-06-01,BARTHEL Zhenqi,LIU Hsing-Yin,4,1,"11,7,14,11,11|4,11,12,4,4",3,GRAND_SLAM,WS,1779,Qualification,BARTHEL Zhenqi (GER),LIU Hsing-Yin (TPE)
-Korean Open Jeonju 2006,2006-06-01,LI Qiangbing,MA Minglu,4,0,"11,11,11,11|9,8,3,6",,GRAND_SLAM,WS,1779,Qualification,LI Qiangbing (AUT),MA Minglu (SGP)
-Korean Open Jeonju 2006,2006-06-01,LI Qiangbing,LU Yun-Feng,4,1,"11,8,11,11,11|5,11,6,7,2",QR2,GRAND_SLAM,WS,1779,Qualification,LI Qiangbing (AUT),LU Yun-Feng (TPE)
-Korean Open Jeonju 2006,2006-06-01,LU Yun-Feng,MA Minglu,4,3,"8,7,11,10,11,11,11|11,11,8,12,4,3,7",3,GRAND_SLAM,WS,1779,Qualification,LU Yun-Feng (TPE),MA Minglu (SGP)
-Korean Open Jeonju 2006,2006-06-01,TAN Paey Fern,HSIUNG Nai-I,4,0,"11,11,11,11|6,4,9,6",,GRAND_SLAM,WS,1779,Qualification,TAN Paey Fern (SGP),HSIUNG Nai-I (TPE)
-Korean Open Jeonju 2006,2006-06-01,RAMIREZ Sara,YOON Suwon,4,1,"14,6,11,11,13|12,11,9,9,11",QR2,GRAND_SLAM,WS,1779,Qualification,RAMIREZ Sara (ESP),YOON Suwon (KOR)
-Korean Open Jeonju 2006,2006-06-01,TAN Paey Fern,RAMIREZ Sara,4,3,"8,11,9,11,9,11,12|11,6,11,5,11,8,10",3,GRAND_SLAM,WS,1779,Qualification,TAN Paey Fern (SGP),RAMIREZ Sara (ESP)
-Korean Open Jeonju 2006,2006-06-01,YOON Suwon,HSIUNG Nai-I,4,3,"11,3,11,7,6,11,11|9,11,6,11,11,6,5",QR4,GRAND_SLAM,WS,1779,Qualification,YOON Suwon (KOR),HSIUNG Nai-I (TPE)
-Korean Open Jeonju 2006,2006-06-01,TAN Paey Fern,YOON Suwon,4,1,"11,7,11,14,11|6,11,3,12,8",5,GRAND_SLAM,WS,1779,Qualification,TAN Paey Fern (SGP),YOON Suwon (KOR)
-Korean Open Jeonju 2006,2006-06-01,RAMIREZ Sara,HSIUNG Nai-I,4,1,"11,9,11,11,11|8,11,8,6,7",6,GRAND_SLAM,WS,1779,Qualification,RAMIREZ Sara (ESP),HSIUNG Nai-I (TPE)
-Korean Open Jeonju 2006,2006-06-01,KWAK Bangbang,HSU Hui-Tsun,4,0,"11,11,11,11|3,8,9,1",,GRAND_SLAM,WS,1779,Qualification,KWAK Bangbang (KOR),HSU Hui-Tsun (TPE)
-Korean Open Jeonju 2006,2006-06-01,ROBERTSON Laura,PENG Wan-Hua,4,1,"12,11,8,11,11|10,9,11,7,5",QR2,GRAND_SLAM,WS,1779,Qualification,ROBERTSON Laura (GER),PENG Wan-Hua (TPE)
-Korean Open Jeonju 2006,2006-06-01,KWAK Bangbang,ROBERTSON Laura,4,2,"7,11,11,11,13,11|11,9,13,7,11,6",3,GRAND_SLAM,WS,1779,Qualification,KWAK Bangbang (KOR),ROBERTSON Laura (GER)
-Korean Open Jeonju 2006,2006-06-01,HSU Hui-Tsun,PENG Wan-Hua,4,1,"10,11,11,11,11|12,5,8,6,8",QR4,GRAND_SLAM,WS,1779,Qualification,HSU Hui-Tsun (TPE),PENG Wan-Hua (TPE)
-Korean Open Jeonju 2006,2006-06-01,KWAK Bangbang,PENG Wan-Hua,4,1,"11,8,11,11,11|3,11,9,4,6",5,GRAND_SLAM,WS,1779,Qualification,KWAK Bangbang (KOR),PENG Wan-Hua (TPE)
-Korean Open Jeonju 2006,2006-06-01,ROBERTSON Laura,HSU Hui-Tsun,4,2,"9,12,14,11,3,11|11,10,12,9,11,3",6,GRAND_SLAM,WS,1779,Qualification,ROBERTSON Laura (GER),HSU Hui-Tsun (TPE)
-Korean Open Jeonju 2006,2006-06-01,HUANG Yi-Hua,SU Yue,4,2,"11,5,11,7,12,11|7,11,5,11,10,8",,GRAND_SLAM,WS,1779,Qualification,HUANG Yi-Hua (TPE),SU Yue (SGP)
-Korean Open Jeonju 2006,2006-06-01,KIM Kyungha,HOU Yu-Ling,4,0,"11,11,11,11|4,6,5,1",QR2,GRAND_SLAM,WS,1779,Qualification,KIM Kyungha (KOR),HOU Yu-Ling (TPE)
-Korean Open Jeonju 2006,2006-06-01,KIM Kyungha,HUANG Yi-Hua,4,3,"11,9,5,11,7,11,12|6,11,11,5,11,3,10",3,GRAND_SLAM,WS,1779,Qualification,KIM Kyungha (KOR),HUANG Yi-Hua (TPE)
-Korean Open Jeonju 2006,2006-06-01,SU Yue,HOU Yu-Ling,4,1,"11,16,5,11,11|9,14,11,7,6",QR4,GRAND_SLAM,WS,1779,Qualification,SU Yue (SGP),HOU Yu-Ling (TPE)
-Korean Open Jeonju 2006,2006-06-01,HUANG Yi-Hua,HOU Yu-Ling,4,3,"4,11,11,9,8,11,11|11,8,5,11,11,4,6",5,GRAND_SLAM,WS,1779,Qualification,HUANG Yi-Hua (TPE),HOU Yu-Ling (TPE)
-Korean Open Jeonju 2006,2006-06-01,KIM Kyungha,SU Yue,4,0,"11,11,11,11|8,6,7,6",6,GRAND_SLAM,WS,1779,Qualification,KIM Kyungha (KOR),SU Yue (SGP)
-Korean Open Jeonju 2006,2006-06-01,GRUNDISCH Carole,HUANG Kang Kang,4,0,"12,11,11,11|10,9,9,3",,GRAND_SLAM,WS,1779,Qualification,GRUNDISCH Carole (FRA),HUANG Kang Kang (SGP)
-Korean Open Jeonju 2006,2006-06-01,KIM Junghyun,CHENG I-Ching,4,2,"8,13,11,11,7,11|11,11,4,5,11,9",QR2,GRAND_SLAM,WS,1779,Qualification,KIM Junghyun (KOR),CHENG I-Ching (TPE)
-Korean Open Jeonju 2006,2006-06-01,KIM Junghyun,GRUNDISCH Carole,4,2,"11,9,8,13,11,11|7,11,11,11,6,9",3,GRAND_SLAM,WS,1779,Qualification,KIM Junghyun (KOR),GRUNDISCH Carole (FRA)
-Korean Open Jeonju 2006,2006-06-01,CHENG I-Ching,HUANG Kang Kang,4,1,"14,9,11,11,11|12,11,3,9,9",QR4,GRAND_SLAM,WS,1779,Qualification,CHENG I-Ching (TPE),HUANG Kang Kang (SGP)
-Korean Open Jeonju 2006,2006-06-01,CHENG I-Ching,GRUNDISCH Carole,4,2,"12,7,11,11,6,11|10,11,3,6,11,5",5,GRAND_SLAM,WS,1779,Qualification,CHENG I-Ching (TPE),GRUNDISCH Carole (FRA)
-Korean Open Jeonju 2006,2006-06-01,HUANG Kang Kang,KIM Junghyun,4,2,"12,2,9,11,11,19|10,11,11,8,9,17",6,GRAND_SLAM,WS,1779,Qualification,HUANG Kang Kang (SGP),KIM Junghyun (KOR)
-Korean Open Jeonju 2006,2006-06-01,RAMIREZ Sara,MA Minglu,3,2,"8,14,11,9,11|11,12,6,11,6",,GRAND_SLAM,U21WS,1779,Qualification,RAMIREZ Sara (ESP),MA Minglu (SGP)
-Korean Open Jeonju 2006,2006-06-01,RAMIREZ Sara,HSU Hui-Tsun,3,0,"11,11,12|1,3,10",QR2,GRAND_SLAM,U21WS,1779,Qualification,RAMIREZ Sara (ESP),HSU Hui-Tsun (TPE)
-Korean Open Jeonju 2006,2006-06-01,MA Minglu,HSU Hui-Tsun,3,1,"11,7,11,11|6,11,8,9",3,GRAND_SLAM,U21WS,1779,Qualification,MA Minglu (SGP),HSU Hui-Tsun (TPE)
-Korean Open Jeonju 2006,2006-06-01,HSIUNG Nai-I,BARTHEL Zhenqi,3,1,"11,12,3,11|9,10,11,4",,GRAND_SLAM,U21WS,1779,Qualification,HSIUNG Nai-I (TPE),BARTHEL Zhenqi (GER)
-Korean Open Jeonju 2006,2006-06-01,TERUI Moemi,BARTHEL Zhenqi,3,1,"11,11,10,11|1,4,12,5",QR2,GRAND_SLAM,U21WS,1779,Qualification,TERUI Moemi (JPN),BARTHEL Zhenqi (GER)
-Korean Open Jeonju 2006,2006-06-01,TERUI Moemi,HSIUNG Nai-I,3,0,"15,11,11|13,7,4",3,GRAND_SLAM,U21WS,1779,Qualification,TERUI Moemi (JPN),HSIUNG Nai-I (TPE)
-Korean Open Jeonju 2006,2006-06-01,SU Yue,HEINE Veronika,3,2,"12,11,7,11,11|14,8,11,9,7",,GRAND_SLAM,U21WS,1779,Qualification,SU Yue (SGP),HEINE Veronika (AUT)
-Korean Open Jeonju 2006,2006-06-01,HEINE Veronika,LIU Hsing-Yin,3,0,"11,11,11|5,6,9",QR2,GRAND_SLAM,U21WS,1779,Qualification,HEINE Veronika (AUT),LIU Hsing-Yin (TPE)
-Korean Open Jeonju 2006,2006-06-01,LIU Hsing-Yin,SU Yue,3,1,"11,7,11,12|9,11,8,10",3,GRAND_SLAM,U21WS,1779,Qualification,LIU Hsing-Yin (TPE),SU Yue (SGP)
-Korean Open Jeonju 2006,2006-06-01,DVORAK Galia,HUANG Kang Kang,3,0,"11,12,12|9,10,10",,GRAND_SLAM,U21WS,1779,Qualification,DVORAK Galia (ESP),HUANG Kang Kang (SGP)
-Korean Open Jeonju 2006,2006-06-01,LEE I-Chen,PENG Wan-Hua,3,0,"11,11,11|9,4,7",QR2,GRAND_SLAM,U21WS,1779,Qualification,LEE I-Chen (TPE),PENG Wan-Hua (TPE)
-Korean Open Jeonju 2006,2006-06-01,LEE I-Chen,DVORAK Galia,3,1,"8,11,11,11|11,3,8,8",3,GRAND_SLAM,U21WS,1779,Qualification,LEE I-Chen (TPE),DVORAK Galia (ESP)
-Korean Open Jeonju 2006,2006-06-01,HUANG Kang Kang,PENG Wan-Hua,3,2,"7,11,11,11,11|11,13,8,7,7",QR4,GRAND_SLAM,U21WS,1779,Qualification,HUANG Kang Kang (SGP),PENG Wan-Hua (TPE)
-Korean Open Jeonju 2006,2006-06-01,DVORAK Galia,PENG Wan-Hua,3,2,"11,8,11,9,11|6,11,8,11,8",5,GRAND_SLAM,U21WS,1779,Qualification,DVORAK Galia (ESP),PENG Wan-Hua (TPE)
-Korean Open Jeonju 2006,2006-06-01,HUANG Kang Kang,LEE I-Chen,3,0,"11,11,12|4,8,10",6,GRAND_SLAM,U21WS,1779,Qualification,HUANG Kang Kang (SGP),LEE I-Chen (TPE)
-Korean Open Jeonju 2006,2006-06-01,ISHIGAKI Yuka,CHENG I-Ching,3,0,"11,11,11|7,9,3",,GRAND_SLAM,U21WS,1779,Qualification,ISHIGAKI Yuka (JPN),CHENG I-Ching (TPE)
-Korean Open Jeonju 2006,2006-06-01,YU Kwok See,HOU Yu-Ling,3,2,"11,6,11,9,11|7,11,2,11,6",QR2,GRAND_SLAM,U21WS,1779,Qualification,YU Kwok See (HKG),HOU Yu-Ling (TPE)
-Korean Open Jeonju 2006,2006-06-01,ISHIGAKI Yuka,YU Kwok See,3,0,"13,11,11|11,7,5",3,GRAND_SLAM,U21WS,1779,Qualification,ISHIGAKI Yuka (JPN),YU Kwok See (HKG)
-Korean Open Jeonju 2006,2006-06-01,CHENG I-Ching,HOU Yu-Ling,3,1,"11,4,11,11|9,11,7,3",QR4,GRAND_SLAM,U21WS,1779,Qualification,CHENG I-Ching (TPE),HOU Yu-Ling (TPE)
-Korean Open Jeonju 2006,2006-06-01,ISHIGAKI Yuka,HOU Yu-Ling,3,0,"11,11,11|5,7,7",5,GRAND_SLAM,U21WS,1779,Qualification,ISHIGAKI Yuka (JPN),HOU Yu-Ling (TPE)
-Korean Open Jeonju 2006,2006-06-01,YU Kwok See,CHENG I-Ching,3,1,"11,11,11,11|13,7,9,6",6,GRAND_SLAM,U21WS,1779,Qualification,YU Kwok See (HKG),CHENG I-Ching (TPE)
-Korean Open Jeonju 2006,2006-06-01,ROBERTSON Laura,PAN Chun-Chu,4,2,"11,11,9,13,11,11|6,5,11,15,9,9",QR16,GRAND_SLAM,WS,1779,Qualification,ROBERTSON Laura (GER),PAN Chun-Chu (TPE)
-Korean Open Jeonju 2006,2006-06-01,HUANG Yi-Hua,DVORAK Galia,4,2,"6,12,11,11,8,11|11,10,9,8,11,6",QR16,GRAND_SLAM,WS,1779,Qualification,HUANG Yi-Hua (TPE),DVORAK Galia (ESP)
-Korean Open Jeonju 2006,2006-06-01,RAMIREZ Sara,TERUI Moemi,4,2,"11,12,11,9,7,11|5,10,5,11,11,7",QR16,GRAND_SLAM,WS,1779,Qualification,RAMIREZ Sara (ESP),TERUI Moemi (JPN)
-Korean Open Jeonju 2006,2006-06-01,LU Yun-Feng,BARTHEL Zhenqi,4,2,"3,11,11,5,11,11|11,6,7,11,9,7",QR16,GRAND_SLAM,WS,1779,Qualification,LU Yun-Feng (TPE),BARTHEL Zhenqi (GER)
-Korean Open Jeonju 2006,2006-06-01,HEINE Veronika,HUANG Kang Kang,4,2,"11,6,11,11,4,11|7,11,6,4,11,9",R16,GRAND_SLAM,U21WS,1779,Main Draw,HEINE Veronika (AUT),HUANG Kang Kang (SGP)
-Korean Open Jeonju 2006,2006-06-01,DVORAK Galia,MA Minglu,4,1,"11,11,5,11,11|6,8,11,9,2",R16,GRAND_SLAM,U21WS,1779,Main Draw,DVORAK Galia (ESP),MA Minglu (SGP)
-Korean Open Jeonju 2006,2006-06-01,GRUNDISCH Carole,HSIUNG Nai-I,4,1,"13,12,9,11,11|11,10,11,8,7",R16,GRAND_SLAM,U21WS,1779,Main Draw,GRUNDISCH Carole (FRA),HSIUNG Nai-I (TPE)
-Korean Open Jeonju 2006,2006-06-01,KIM Junghyun,SU Yue,4,1,"11,11,11,8,11|8,9,4,11,7",R16,GRAND_SLAM,U21WS,1779,Main Draw,KIM Junghyun (KOR),SU Yue (SGP)
-Korean Open Jeonju 2006,2006-06-01,RAMIREZ Sara,ISHIGAKI Yuka,4,0,"11,11,11,11|6,6,9,8",R16,GRAND_SLAM,U21WS,1779,Main Draw,RAMIREZ Sara (ESP),ISHIGAKI Yuka (JPN)
-Korean Open Jeonju 2006,2006-06-01,TERUI Moemi,YU Kwok See,4,3,"9,11,7,8,11,14,11|11,6,11,11,8,12,7",R16,GRAND_SLAM,U21WS,1779,Main Draw,TERUI Moemi (JPN),YU Kwok See (HKG)
-Korean Open Jeonju 2006,2006-06-01,LEE Eunhee,HEINE Veronika,4,1,"11,13,11,11,11|3,15,5,6,6",QF,GRAND_SLAM,U21WS,1779,Main Draw,LEE Eunhee (KOR),HEINE Veronika (AUT)
-Korean Open Jeonju 2006,2006-06-01,DVORAK Galia,GRUNDISCH Carole,4,3,"11,12,8,9,4,11,11|4,10,11,11,11,8,8",QF,GRAND_SLAM,U21WS,1779,Main Draw,DVORAK Galia (ESP),GRUNDISCH Carole (FRA)
-Korean Open Jeonju 2006,2006-06-01,RAMIREZ Sara,KIM Junghyun,4,2,"11,11,7,13,8,12|4,7,11,11,11,10",QF,GRAND_SLAM,U21WS,1779,Main Draw,RAMIREZ Sara (ESP),KIM Junghyun (KOR)
-Korean Open Jeonju 2006,2006-06-01,LI Qiangbing,TERUI Moemi,4,1,"10,14,11,11,12|12,12,7,8,10",QF,GRAND_SLAM,U21WS,1779,Main Draw,LI Qiangbing (AUT),TERUI Moemi (JPN)
-Korean Open Jeonju 2006,2006-06-01,LEE Eunhee,DVORAK Galia,4,1,"11,8,11,11,17|3,11,6,6,15",SF,GRAND_SLAM,U21WS,1779,Main Draw,LEE Eunhee (KOR),DVORAK Galia (ESP)
-Korean Open Jeonju 2006,2006-06-01,LI Qiangbing,RAMIREZ Sara,4,2,"9,6,11,11,11,11|11,11,7,9,3,8",SF,GRAND_SLAM,U21WS,1779,Main Draw,LI Qiangbing (AUT),RAMIREZ Sara (ESP)
-Korean Open Jeonju 2006,2006-06-01,LI Qiangbing,LEE Eunhee,4,3,"11,9,11,9,9,11,11|6,11,6,11,11,9,8",F,GRAND_SLAM,U21WS,1779,Main Draw,LI Qiangbing (AUT),LEE Eunhee (KOR)
-Korean Open Jeonju 2006,2006-06-01,TANG Peng/TOSIC Roko,HABESOHN Daniel/SIMONER Christoph,3,2,"7,11,11,8,12|11,5,3,11,10",QR16,GRAND_SLAM,MD,1779,Qualification,TANG Peng (HKG) / TOSIC Roko (CRO),HABESOHN Daniel (AUT) / SIMONER Christoph (AUT)
-Korean Open Jeonju 2006,2006-06-01,CHOI Hyunjin/YOON Jaeyoung,TANG Peng/TOSIC Roko,4,3,"5,11,15,13,11,13,11|11,4,17,11,3,15,9",R16,GRAND_SLAM,MD,1779,Main Draw,CHOI Hyunjin (KOR) / YOON Jaeyoung (KOR),TANG Peng (HKG) / TOSIC Roko (CRO)
-Korean Open Jeonju 2006,2006-06-01,BOBILLIER Loic/CHILA Patrick,SHEN Chi-Min/SUN Wen-Wei,3,0,"11,11,11|6,9,8",QR16,GRAND_SLAM,MD,1779,Qualification,BOBILLIER Loic (FRA) / CHILA Patrick (FRA),SHEN Chi-Min (TPE) / SUN Wen-Wei (TPE)
-Korean Open Jeonju 2006,2006-06-01,GAO Ning/YANG Zi,FEJER-KONNERTH Zoltan/ROSSKOPF Jorg,4,1,"7,11,11,12,11|11,9,7,10,6",R16,GRAND_SLAM,MD,1779,Main Draw,GAO Ning (SGP) / YANG Zi (SGP),FEJER-KONNERTH Zoltan (GER) / ROSSKOPF Jorg (GER)
-Korean Open Jeonju 2006,2006-06-01,LEE Jungwoo/OH Sangeun,CARNEROS Alfredo/DURAN Marc,4,0,"11,11,12,12|6,6,10,10",R16,GRAND_SLAM,MD,1779,Main Draw,LEE Jungwoo (KOR) / OH Sangeun (KOR),CARNEROS Alfredo (ESP) / DURAN Marc (ESP)
-Korean Open Jeonju 2006,2006-06-01,KIM Junghoon/LEE Jungsam,BOBILLIER Loic/CHILA Patrick,4,2,"10,11,12,12,10,11|12,5,10,10,12,9",R16,GRAND_SLAM,MD,1779,Main Draw,KIM Junghoon (KOR) / LEE Jungsam (KOR),BOBILLIER Loic (FRA) / CHILA Patrick (FRA)
-Korean Open Jeonju 2006,2006-06-01,CHANG Yen-Shu/WU Chih-Chi,LEE Jinkwon/RYU Seungmin,4,3,"11,10,11,13,4,3,15|4,12,4,11,11,11,13",R16,GRAND_SLAM,MD,1779,Main Draw,CHANG Yen-Shu (TPE) / WU Chih-Chi (TPE),LEE Jinkwon (KOR) / RYU Seungmin (KOR)
-Korean Open Jeonju 2006,2006-06-01,CHEUNG Yuk/LEUNG Chu Yan,JOO Saehyuk/KO Junhyung,4,2,"11,11,9,7,11,11|3,6,11,11,6,9",R16,GRAND_SLAM,MD,1779,Main Draw,CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),JOO Saehyuk (KOR) / KO Junhyung (KOR)
-Korean Open Jeonju 2006,2006-06-01,CHOI Hyunjin/YOON Jaeyoung,LEE Jungwoo/OH Sangeun,4,3,"6,13,7,11,5,11,11|11,11,11,6,11,8,9",QF,GRAND_SLAM,MD,1779,Main Draw,CHOI Hyunjin (KOR) / YOON Jaeyoung (KOR),LEE Jungwoo (KOR) / OH Sangeun (KOR)
-Korean Open Jeonju 2006,2006-06-01,HIELSCHER Lars/KEINATH Thomas,KIM Junghoon/LEE Jungsam,4,2,"11,7,11,10,11,12|9,11,9,12,7,10",QF,GRAND_SLAM,MD,1779,Main Draw,HIELSCHER Lars (GER) / KEINATH Thomas (SVK),KIM Junghoon (KOR) / LEE Jungsam (KOR)
-Korean Open Jeonju 2006,2006-06-01,HIELSCHER Lars/KEINATH Thomas,CHOI Hyunjin/YOON Jaeyoung,4,2,"8,7,11,11,13,11|11,11,8,7,11,9",SF,GRAND_SLAM,MD,1779,Main Draw,HIELSCHER Lars (GER) / KEINATH Thomas (SVK),CHOI Hyunjin (KOR) / YOON Jaeyoung (KOR)
-Korean Open Jeonju 2006,2006-06-01,JOO Saehyuk/KO Junhyung,CHIANG Hung-Chieh/HUANG Sheng-Sheng,3,2,"8,10,11,11,11|11,12,6,7,9",QR16,GRAND_SLAM,MD,1779,Qualification,JOO Saehyuk (KOR) / KO Junhyung (KOR),CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE)
-Korean Open Jeonju 2006,2006-06-01,CHEUNG Yuk/LEUNG Chu Yan,GAO Ning/YANG Zi,4,1,"11,11,11,11,11|13,7,7,8,4",QF,GRAND_SLAM,MD,1779,Main Draw,CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),GAO Ning (SGP) / YANG Zi (SGP)
-Korean Open Jeonju 2006,2006-06-01,GAO Ning/YANG Zi,HE Zhiwen/MACHADO Carlos,3,0,"11,14,11|7,12,7",QR16,GRAND_SLAM,MD,1779,Qualification,GAO Ning (SGP) / YANG Zi (SGP),HE Zhiwen (ESP) / MACHADO Carlos (ESP)
-Korean Open Jeonju 2006,2006-06-01,HIELSCHER Lars/KEINATH Thomas,CHEN Weixing/GARDOS Robert,4,1,"14,5,12,11,11|12,11,10,5,4",R16,GRAND_SLAM,MD,1779,Main Draw,HIELSCHER Lars (GER) / KEINATH Thomas (SVK),CHEN Weixing (AUT) / GARDOS Robert (AUT)
-Korean Open Jeonju 2006,2006-06-01,CHEUNG Yuk/LEUNG Chu Yan,HIELSCHER Lars/KEINATH Thomas,4,3,"8,6,11,11,15,7,13|11,11,8,5,13,11,11",F,GRAND_SLAM,MD,1779,Main Draw,CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),HIELSCHER Lars (GER) / KEINATH Thomas (SVK)
-Korean Open Jeonju 2006,2006-06-01,HIELSCHER Lars/KEINATH Thomas,CAI Xiaoli/MA Liang,3,2,"4,11,7,13,11|11,6,11,11,3",QR16,GRAND_SLAM,MD,1779,Qualification,HIELSCHER Lars (GER) / KEINATH Thomas (SVK),CAI Xiaoli (SGP) / MA Liang (SGP)
-Korean Open Jeonju 2006,2006-06-01,CHO Eonrae/LIM Jaehyun,CHANG Shun-Hung/CHEN Chien-An,4,3,"11,7,10,7,11,12,12|7,11,12,11,4,10,10",R16,GRAND_SLAM,MD,1779,Main Draw,CHO Eonrae (KOR) / LIM Jaehyun (KOR),CHANG Shun-Hung (TPE) / CHEN Chien-An (TPE)
-Korean Open Jeonju 2006,2006-06-01,CHANG Yen-Shu/WU Chih-Chi,CHO Eonrae/LIM Jaehyun,4,3,"8,13,8,2,12,11,11|11,11,11,11,10,8,4",QF,GRAND_SLAM,MD,1779,Main Draw,CHANG Yen-Shu (TPE) / WU Chih-Chi (TPE),CHO Eonrae (KOR) / LIM Jaehyun (KOR)
-Korean Open Jeonju 2006,2006-06-01,CHEUNG Yuk/LEUNG Chu Yan,CHANG Yen-Shu/WU Chih-Chi,4,0,"11,11,11,11|6,6,9,4",SF,GRAND_SLAM,MD,1779,Main Draw,CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),CHANG Yen-Shu (TPE) / WU Chih-Chi (TPE)
-Korean Open Jeonju 2006,2006-06-01,CHANG Yen-Shu/WU Chih-Chi,GACINA Andrej/ZUBCIC Tomislav,3,0,"11,11,11|3,7,2",QR16,GRAND_SLAM,MD,1779,Qualification,CHANG Yen-Shu (TPE) / WU Chih-Chi (TPE),GACINA Andrej (CRO) / ZUBCIC Tomislav (CRO)
-Korean Open Jeonju 2006,2006-06-01,CHANG Shun-Hung/CHEN Chien-An,MAECK Anthony/VOSTES Yannick,3,0,"11,12,12|9,10,10",QR16,GRAND_SLAM,MD,1779,Qualification,CHANG Shun-Hung (TPE) / CHEN Chien-An (TPE),MAECK Anthony (BEL) / VOSTES Yannick (BEL)
-Korean Open Jeonju 2006,2006-06-01,CARNEROS Alfredo/DURAN Marc,GAVLAS Antonin/GREEN Wally,3,0,"11,11,11|4,4,6",QR16,GRAND_SLAM,MD,1779,Qualification,CARNEROS Alfredo (ESP) / DURAN Marc (ESP),GAVLAS Antonin (CZE) / GREEN Wally (USA)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Korean Open Jeonju 2006,2006-06-01,OH Sangeun,GAVLAS Antonin,4,1,"11,11,12,4,11|9,8,10,11,9",R32,GRAND_SLAM,MS,1779,Main Draw,OH Sangeun (KOR),GAVLAS Antonin (CZE),OH Sangeun
+Korean Open Jeonju 2006,2006-06-01,LEE Jinkwon,TANG Peng,4,3,"11,13,11,9,9,11,11|13,11,9,11,11,9,7",R32,GRAND_SLAM,MS,1779,Main Draw,LEE Jinkwon (KOR),TANG Peng (HKG),LEE Jinkwon
+Korean Open Jeonju 2006,2006-06-01,KIM Junghoon,GAO Ning,4,2,"12,12,7,7,11,11|10,10,11,11,8,9",R32,GRAND_SLAM,MS,1779,Main Draw,KIM Junghoon (KOR),GAO Ning (SGP),KIM Junghoon
+Korean Open Jeonju 2006,2006-06-01,CHANG Yen-Shu,PRIMORAC Zoran,4,2,"11,11,11,3,9,15|8,8,9,11,11,13",R32,GRAND_SLAM,MS,1779,Main Draw,CHANG Yen-Shu (TPE),PRIMORAC Zoran (CRO),CHANG Yen-Shu
+Korean Open Jeonju 2006,2006-06-01,LEE Jungsam,CHILA Patrick,4,0,"11,11,12,11|7,9,10,8",R32,GRAND_SLAM,MS,1779,Main Draw,LEE Jungsam (KOR),CHILA Patrick (FRA),LEE Jungsam
+Korean Open Jeonju 2006,2006-06-01,LIM Jaehyun,FEJER-KONNERTH Zoltan,4,2,"11,11,9,11,7,11|9,9,11,8,11,7",R32,GRAND_SLAM,MS,1779,Main Draw,LIM Jaehyun (KOR),FEJER-KONNERTH Zoltan (GER),LIM Jaehyun
+Korean Open Jeonju 2006,2006-06-01,ELOI Damien,KO Junhyung,4,3,"9,11,11,4,3,11,11|11,8,8,11,11,5,6",R32,GRAND_SLAM,MS,1779,Main Draw,ELOI Damien (FRA),KO Junhyung (KOR),ELOI Damien
+Korean Open Jeonju 2006,2006-06-01,YANG Zi,LEE Jungwoo,4,3,"6,11,8,11,10,11,11|11,5,11,9,12,3,6",R32,GRAND_SLAM,MS,1779,Main Draw,YANG Zi (SGP),LEE Jungwoo (KOR),YANG Zi
+Korean Open Jeonju 2006,2006-06-01,CHEN Weixing,CAI Xiaoli,4,0,"11,11,11,11|5,2,6,3",R32,GRAND_SLAM,MS,1779,Main Draw,CHEN Weixing (AUT),CAI Xiaoli (SGP),CHEN Weixing
+Korean Open Jeonju 2006,2006-06-01,ROSSKOPF Jorg,CHOI Hyunjin,4,3,"3,14,11,11,10,7,11|11,12,8,8,12,11,7",R32,GRAND_SLAM,MS,1779,Main Draw,ROSSKOPF Jorg (GER),CHOI Hyunjin (KOR),ROSSKOPF Jorg
+Korean Open Jeonju 2006,2006-06-01,CHO Eonrae,GARDOS Robert,4,3,"11,8,11,9,11,10,11|5,11,6,11,8,12,7",R32,GRAND_SLAM,MS,1779,Main Draw,CHO Eonrae (KOR),GARDOS Robert (AUT),CHO Eonrae
+Korean Open Jeonju 2006,2006-06-01,YOON Jaeyoung,CHEUNG Yuk,4,0,"11,11,11,11|6,7,9,7",R32,GRAND_SLAM,MS,1779,Main Draw,YOON Jaeyoung (KOR),CHEUNG Yuk (HKG),YOON Jaeyoung
+Korean Open Jeonju 2006,2006-06-01,JOO Saehyuk,KEINATH Thomas,4,1,"11,11,11,11,11|8,7,6,13,4",R32,GRAND_SLAM,MS,1779,Main Draw,JOO Saehyuk (KOR),KEINATH Thomas (SVK),JOO Saehyuk
+Korean Open Jeonju 2006,2006-06-01,MACHADO Carlos,LEUNG Chu Yan,4,1,"11,3,11,11,11|8,11,6,3,6",R32,GRAND_SLAM,MS,1779,Main Draw,MACHADO Carlos (ESP),LEUNG Chu Yan (HKG),MACHADO Carlos
+Korean Open Jeonju 2006,2006-06-01,HE Zhiwen,HIELSCHER Lars,4,1,"11,11,11,10,11|6,9,8,12,8",R32,GRAND_SLAM,MS,1779,Main Draw,HE Zhiwen (ESP),HIELSCHER Lars (GER),HE Zhiwen
+Korean Open Jeonju 2006,2006-06-01,RYU Seungmin,CHIANG Hung-Chieh,4,0,"11,11,11,14|9,3,7,12",R32,GRAND_SLAM,MS,1779,Main Draw,RYU Seungmin (KOR),CHIANG Hung-Chieh (TPE),RYU Seungmin
+Korean Open Jeonju 2006,2006-06-01,OH Sangeun,LEE Jinkwon,4,3,"11,9,11,10,6,11,11|7,11,8,12,11,8,7",R16,GRAND_SLAM,MS,1779,Main Draw,OH Sangeun (KOR),LEE Jinkwon (KOR),OH Sangeun
+Korean Open Jeonju 2006,2006-06-01,KIM Junghoon,CHANG Yen-Shu,4,2,"11,11,9,11,9,13|6,8,11,8,11,11",R16,GRAND_SLAM,MS,1779,Main Draw,KIM Junghoon (KOR),CHANG Yen-Shu (TPE),KIM Junghoon
+Korean Open Jeonju 2006,2006-06-01,LIM Jaehyun,LEE Jungsam,4,0,"11,11,11,11|4,7,8,9",R16,GRAND_SLAM,MS,1779,Main Draw,LIM Jaehyun (KOR),LEE Jungsam (KOR),LIM Jaehyun
+Korean Open Jeonju 2006,2006-06-01,ELOI Damien,YANG Zi,4,2,"7,11,8,11,11,11|11,4,11,7,5,5",R16,GRAND_SLAM,MS,1779,Main Draw,ELOI Damien (FRA),YANG Zi (SGP),ELOI Damien
+Korean Open Jeonju 2006,2006-06-01,CHEN Weixing,ROSSKOPF Jorg,4,1,"11,11,10,11,11|3,8,12,8,6",R16,GRAND_SLAM,MS,1779,Main Draw,CHEN Weixing (AUT),ROSSKOPF Jorg (GER),CHEN Weixing
+Korean Open Jeonju 2006,2006-06-01,CHO Eonrae,YOON Jaeyoung,4,2,"8,11,11,1,11,11|11,5,4,11,5,9",R16,GRAND_SLAM,MS,1779,Main Draw,CHO Eonrae (KOR),YOON Jaeyoung (KOR),CHO Eonrae
+Korean Open Jeonju 2006,2006-06-01,JOO Saehyuk,MACHADO Carlos,4,0,"11,11,11,11|3,5,4,3",R16,GRAND_SLAM,MS,1779,Main Draw,JOO Saehyuk (KOR),MACHADO Carlos (ESP),JOO Saehyuk
+Korean Open Jeonju 2006,2006-06-01,RYU Seungmin,HE Zhiwen,4,1,"11,9,11,12,12|9,11,8,10,10",R16,GRAND_SLAM,MS,1779,Main Draw,RYU Seungmin (KOR),HE Zhiwen (ESP),RYU Seungmin
+Korean Open Jeonju 2006,2006-06-01,OH Sangeun,KIM Junghoon,4,0,"11,11,11,11|8,4,9,6",QF,GRAND_SLAM,MS,1779,Main Draw,OH Sangeun (KOR),KIM Junghoon (KOR),OH Sangeun
+Korean Open Jeonju 2006,2006-06-01,ELOI Damien,LIM Jaehyun,4,2,"9,11,9,11,12,11|11,9,11,9,10,8",QF,GRAND_SLAM,MS,1779,Main Draw,ELOI Damien (FRA),LIM Jaehyun (KOR),ELOI Damien
+Korean Open Jeonju 2006,2006-06-01,CHEN Weixing,CHO Eonrae,4,2,"6,11,8,11,12,11|11,5,11,6,10,7",QF,GRAND_SLAM,MS,1779,Main Draw,CHEN Weixing (AUT),CHO Eonrae (KOR),CHEN Weixing
+Korean Open Jeonju 2006,2006-06-01,JOO Saehyuk,RYU Seungmin,4,2,"11,6,11,11,9,11|9,11,8,8,11,6",QF,GRAND_SLAM,MS,1779,Main Draw,JOO Saehyuk (KOR),RYU Seungmin (KOR),JOO Saehyuk
+Korean Open Jeonju 2006,2006-06-01,ELOI Damien,OH Sangeun,4,2,"4,11,11,11,5,11|11,5,9,9,11,9",SF,GRAND_SLAM,MS,1779,Main Draw,ELOI Damien (FRA),OH Sangeun (KOR),ELOI Damien
+Korean Open Jeonju 2006,2006-06-01,JOO Saehyuk,CHEN Weixing,4,1,"8,11,11,11,14|11,6,2,4,12",SF,GRAND_SLAM,MS,1779,Main Draw,JOO Saehyuk (KOR),CHEN Weixing (AUT),JOO Saehyuk
+Korean Open Jeonju 2006,2006-06-01,JOO Saehyuk,ELOI Damien,4,1,"5,12,11,11,11|11,10,5,5,7",F,GRAND_SLAM,MS,1779,Main Draw,JOO Saehyuk (KOR),ELOI Damien (FRA),JOO Saehyuk
+Korean Open Jeonju 2006,2006-06-01,YANG Zi,HABESOHN Daniel,4,0,"11,12,11,11|8,10,5,5",,GRAND_SLAM,MS,1779,Qualification,YANG Zi (SGP),HABESOHN Daniel (AUT),YANG Zi
+Korean Open Jeonju 2006,2006-06-01,MACHADO Carlos,YANG Zi,4,2,"12,3,11,11,11,11|10,11,13,9,7,7",QR2,GRAND_SLAM,MS,1779,Qualification,MACHADO Carlos (ESP),YANG Zi (SGP),MACHADO Carlos
+Korean Open Jeonju 2006,2006-06-01,MACHADO Carlos,HABESOHN Daniel,4,0,"11,11,11,13|5,7,2,11",3,GRAND_SLAM,MS,1779,Qualification,MACHADO Carlos (ESP),HABESOHN Daniel (AUT),MACHADO Carlos
+Korean Open Jeonju 2006,2006-06-01,DURAN Marc,HIELSCHER Lars,4,2,"11,11,5,13,5,11|9,7,11,11,11,7",,GRAND_SLAM,MS,1779,Qualification,DURAN Marc (ESP),HIELSCHER Lars (GER),DURAN Marc
+Korean Open Jeonju 2006,2006-06-01,HIELSCHER Lars,GAVLAS Antonin,4,0,"11,12,11,11|8,10,4,3",QR2,GRAND_SLAM,MS,1779,Qualification,HIELSCHER Lars (GER),GAVLAS Antonin (CZE),HIELSCHER Lars
+Korean Open Jeonju 2006,2006-06-01,GAVLAS Antonin,DURAN Marc,4,0,"11,11,11,11|6,6,8,8",3,GRAND_SLAM,MS,1779,Qualification,GAVLAS Antonin (CZE),DURAN Marc (ESP),GAVLAS Antonin
+Korean Open Jeonju 2006,2006-06-01,LIM Jaehyun,ZUBCIC Tomislav,4,1,"4,11,11,11,11|11,8,5,7,6",,GRAND_SLAM,MS,1779,Qualification,LIM Jaehyun (KOR),ZUBCIC Tomislav (CRO),LIM Jaehyun
+Korean Open Jeonju 2006,2006-06-01,LIM Jaehyun,CHIANG Hung-Chieh,4,3,"9,11,8,11,7,11,11|11,9,11,8,11,5,7",QR2,GRAND_SLAM,MS,1779,Qualification,LIM Jaehyun (KOR),CHIANG Hung-Chieh (TPE),LIM Jaehyun
+Korean Open Jeonju 2006,2006-06-01,CHIANG Hung-Chieh,ZUBCIC Tomislav,4,0,"11,11,13,14|9,7,11,12",3,GRAND_SLAM,MS,1779,Qualification,CHIANG Hung-Chieh (TPE),ZUBCIC Tomislav (CRO),CHIANG Hung-Chieh
+Korean Open Jeonju 2006,2006-06-01,TOSIC Roko,VOSTES Yannick,4,0,"11,14,11,11|7,12,7,5",,GRAND_SLAM,MS,1779,Qualification,TOSIC Roko (CRO),VOSTES Yannick (BEL),TOSIC Roko
+Korean Open Jeonju 2006,2006-06-01,KIM Junghoon,TOSIC Roko,4,1,"11,8,11,11,11|7,11,7,9,8",QR2,GRAND_SLAM,MS,1779,Qualification,KIM Junghoon (KOR),TOSIC Roko (CRO),KIM Junghoon
+Korean Open Jeonju 2006,2006-06-01,KIM Junghoon,VOSTES Yannick,4,1,"11,11,11,7,11|7,8,7,11,5",3,GRAND_SLAM,MS,1779,Qualification,KIM Junghoon (KOR),VOSTES Yannick (BEL),KIM Junghoon
+Korean Open Jeonju 2006,2006-06-01,KEINATH Thomas,MA Liang,4,1,"9,11,11,11,11|11,7,5,9,3",,GRAND_SLAM,MS,1779,Qualification,KEINATH Thomas (SVK),MA Liang (SGP),KEINATH Thomas
+Korean Open Jeonju 2006,2006-06-01,LEE Jungsam,KEINATH Thomas,4,0,"11,11,11,11|6,8,5,5",QR2,GRAND_SLAM,MS,1779,Qualification,LEE Jungsam (KOR),KEINATH Thomas (SVK),LEE Jungsam
+Korean Open Jeonju 2006,2006-06-01,LEE Jungsam,MA Liang,4,2,"11,13,11,5,8,11|9,11,7,11,11,8",3,GRAND_SLAM,MS,1779,Qualification,LEE Jungsam (KOR),MA Liang (SGP),LEE Jungsam
+Korean Open Jeonju 2006,2006-06-01,YOON Jaeyoung,HUANG Sheng-Sheng,4,0,"11,11,11,11|9,6,3,8",,GRAND_SLAM,MS,1779,Qualification,YOON Jaeyoung (KOR),HUANG Sheng-Sheng (TPE),YOON Jaeyoung
+Korean Open Jeonju 2006,2006-06-01,YOON Jaeyoung,SIMONER Christoph,4,1,"11,11,14,10,12|7,8,12,12,10",QR2,GRAND_SLAM,MS,1779,Qualification,YOON Jaeyoung (KOR),SIMONER Christoph (AUT),YOON Jaeyoung
+Korean Open Jeonju 2006,2006-06-01,HUANG Sheng-Sheng,SIMONER Christoph,4,1,"12,13,9,11,11|10,11,11,1,6",3,GRAND_SLAM,MS,1779,Qualification,HUANG Sheng-Sheng (TPE),SIMONER Christoph (AUT),HUANG Sheng-Sheng
+Korean Open Jeonju 2006,2006-06-01,CHOI Hyunjin,SHEN Chi-Min,4,0,"11,11,11,11|5,8,7,9",,GRAND_SLAM,MS,1779,Qualification,CHOI Hyunjin (KOR),SHEN Chi-Min (TPE),CHOI Hyunjin
+Korean Open Jeonju 2006,2006-06-01,CAI Xiaoli,GREEN Wally,4,0,"11,11,11,11|5,1,7,5",QR2,GRAND_SLAM,MS,1779,Qualification,CAI Xiaoli (SGP),GREEN Wally (USA),CAI Xiaoli
+Korean Open Jeonju 2006,2006-06-01,CHOI Hyunjin,CAI Xiaoli,4,2,"8,13,11,9,11,11|11,11,8,11,7,7",3,GRAND_SLAM,MS,1779,Qualification,CHOI Hyunjin (KOR),CAI Xiaoli (SGP),CHOI Hyunjin
+Korean Open Jeonju 2006,2006-06-01,SHEN Chi-Min,GREEN Wally,4,0,"11,12,12,11|7,10,10,4",QR4,GRAND_SLAM,MS,1779,Qualification,SHEN Chi-Min (TPE),GREEN Wally (USA),SHEN Chi-Min
+Korean Open Jeonju 2006,2006-06-01,CHOI Hyunjin,GREEN Wally,4,0,"11,11,11,11|6,2,4,7",5,GRAND_SLAM,MS,1779,Qualification,CHOI Hyunjin (KOR),GREEN Wally (USA),CHOI Hyunjin
+Korean Open Jeonju 2006,2006-06-01,CAI Xiaoli,SHEN Chi-Min,4,0,"11,11,11,11|7,9,9,5",6,GRAND_SLAM,MS,1779,Qualification,CAI Xiaoli (SGP),SHEN Chi-Min (TPE),CAI Xiaoli
+Korean Open Jeonju 2006,2006-06-01,CHANG Yen-Shu,GACINA Andrej,4,0,"11,11,11,11|5,0,2,7",,GRAND_SLAM,MS,1779,Qualification,CHANG Yen-Shu (TPE),GACINA Andrej (CRO),CHANG Yen-Shu
+Korean Open Jeonju 2006,2006-06-01,KO Junhyung,BOBILLIER Loic,4,2,"9,11,11,10,11,11|11,8,3,12,9,9",QR2,GRAND_SLAM,MS,1779,Qualification,KO Junhyung (KOR),BOBILLIER Loic (FRA),KO Junhyung
+Korean Open Jeonju 2006,2006-06-01,CHANG Yen-Shu,BOBILLIER Loic,4,1,"11,6,11,11,11|2,11,6,3,8",3,GRAND_SLAM,MS,1779,Qualification,CHANG Yen-Shu (TPE),BOBILLIER Loic (FRA),CHANG Yen-Shu
+Korean Open Jeonju 2006,2006-06-01,KO Junhyung,GACINA Andrej,4,2,"11,4,11,17,8,11|8,11,6,15,11,5",QR4,GRAND_SLAM,MS,1779,Qualification,KO Junhyung (KOR),GACINA Andrej (CRO),KO Junhyung
+Korean Open Jeonju 2006,2006-06-01,KO Junhyung,CHANG Yen-Shu,4,2,"10,11,11,3,11,13|12,8,6,11,6,11",5,GRAND_SLAM,MS,1779,Qualification,KO Junhyung (KOR),CHANG Yen-Shu (TPE),KO Junhyung
+Korean Open Jeonju 2006,2006-06-01,BOBILLIER Loic,GACINA Andrej,4,0,"11,11,11,11|9,6,9,6",6,GRAND_SLAM,MS,1779,Qualification,BOBILLIER Loic (FRA),GACINA Andrej (CRO),BOBILLIER Loic
+Korean Open Jeonju 2006,2006-06-01,CHO Eonrae,MAECK Anthony,4,0,"11,11,11,11|7,8,9,8",,GRAND_SLAM,MS,1779,Qualification,CHO Eonrae (KOR),MAECK Anthony (BEL),CHO Eonrae
+Korean Open Jeonju 2006,2006-06-01,WU Chih-Chi,CHANG Shun-Hung,4,0,"11,11,11,11|3,9,5,6",QR2,GRAND_SLAM,MS,1779,Qualification,WU Chih-Chi (TPE),CHANG Shun-Hung (TPE),WU Chih-Chi
+Korean Open Jeonju 2006,2006-06-01,CHO Eonrae,WU Chih-Chi,4,3,"12,10,11,12,8,7,11|10,12,8,10,11,11,9",3,GRAND_SLAM,MS,1779,Qualification,CHO Eonrae (KOR),WU Chih-Chi (TPE),CHO Eonrae
+Korean Open Jeonju 2006,2006-06-01,MAECK Anthony,CHANG Shun-Hung,4,2,"7,6,11,11,11,11|11,11,9,7,7,8",QR4,GRAND_SLAM,MS,1779,Qualification,MAECK Anthony (BEL),CHANG Shun-Hung (TPE),MAECK Anthony
+Korean Open Jeonju 2006,2006-06-01,CHO Eonrae,CHANG Shun-Hung,4,0,"11,11,11,11|2,3,4,8",5,GRAND_SLAM,MS,1779,Qualification,CHO Eonrae (KOR),CHANG Shun-Hung (TPE),CHO Eonrae
+Korean Open Jeonju 2006,2006-06-01,WU Chih-Chi,MAECK Anthony,4,1,"9,11,11,11,11|11,4,5,7,1",6,GRAND_SLAM,MS,1779,Qualification,WU Chih-Chi (TPE),MAECK Anthony (BEL),WU Chih-Chi
+Korean Open Jeonju 2006,2006-06-01,LEE Jinkwon,SUN Wen-Wei,4,0,"11,11,11,14|4,5,7,12",,GRAND_SLAM,MS,1779,Qualification,LEE Jinkwon (KOR),SUN Wen-Wei (TPE),LEE Jinkwon
+Korean Open Jeonju 2006,2006-06-01,CHEN Chien-An,CARNEROS Alfredo,4,2,"11,9,11,6,11,11|5,11,7,11,5,1",QR2,GRAND_SLAM,MS,1779,Qualification,CHEN Chien-An (TPE),CARNEROS Alfredo (ESP),CHEN Chien-An
+Korean Open Jeonju 2006,2006-06-01,CARNEROS Alfredo,LEE Jinkwon,4,3,"11,9,11,9,11,11,11|7,11,13,11,7,9,7",3,GRAND_SLAM,MS,1779,Qualification,CARNEROS Alfredo (ESP),LEE Jinkwon (KOR),CARNEROS Alfredo
+Korean Open Jeonju 2006,2006-06-01,CHEN Chien-An,SUN Wen-Wei,4,2,"11,11,11,8,7,13|5,9,9,11,11,11",QR4,GRAND_SLAM,MS,1779,Qualification,CHEN Chien-An (TPE),SUN Wen-Wei (TPE),CHEN Chien-An
+Korean Open Jeonju 2006,2006-06-01,LEE Jinkwon,CHEN Chien-An,4,0,"12,11,11,11|10,6,4,5",5,GRAND_SLAM,MS,1779,Qualification,LEE Jinkwon (KOR),CHEN Chien-An (TPE),LEE Jinkwon
+Korean Open Jeonju 2006,2006-06-01,CARNEROS Alfredo,SUN Wen-Wei,4,0,"11,12,11,11|0,10,9,6",6,GRAND_SLAM,MS,1779,Qualification,CARNEROS Alfredo (ESP),SUN Wen-Wei (TPE),CARNEROS Alfredo
+Korean Open Jeonju 2006,2006-06-01,HUANG Sheng-Sheng,BOBILLIER Loic,3,1,"11,7,11,11|7,11,5,9",,GRAND_SLAM,U21MS,1779,Qualification,HUANG Sheng-Sheng (TPE),BOBILLIER Loic (FRA),HUANG Sheng-Sheng
+Korean Open Jeonju 2006,2006-06-01,MA Liang,BOBILLIER Loic,3,2,"5,11,11,10,11|11,9,4,12,7",QR2,GRAND_SLAM,U21MS,1779,Qualification,MA Liang (SGP),BOBILLIER Loic (FRA),MA Liang
+Korean Open Jeonju 2006,2006-06-01,HUANG Sheng-Sheng,MA Liang,3,2,"11,7,4,11,11|6,11,11,7,3",3,GRAND_SLAM,U21MS,1779,Qualification,HUANG Sheng-Sheng (TPE),MA Liang (SGP),HUANG Sheng-Sheng
+Korean Open Jeonju 2006,2006-06-01,CHIANG Hung-Chieh,GACINA Andrej,3,2,"11,10,9,11,11|9,12,11,6,5",,GRAND_SLAM,U21MS,1779,Qualification,CHIANG Hung-Chieh (TPE),GACINA Andrej (CRO),CHIANG Hung-Chieh
+Korean Open Jeonju 2006,2006-06-01,CHIANG Hung-Chieh,VOSTES Yannick,3,1,"11,11,5,11|3,9,11,5",QR2,GRAND_SLAM,U21MS,1779,Qualification,CHIANG Hung-Chieh (TPE),VOSTES Yannick (BEL),CHIANG Hung-Chieh
+Korean Open Jeonju 2006,2006-06-01,VOSTES Yannick,GACINA Andrej,3,2,"12,7,11,11,11|10,11,6,13,9",3,GRAND_SLAM,U21MS,1779,Qualification,VOSTES Yannick (BEL),GACINA Andrej (CRO),VOSTES Yannick
+Korean Open Jeonju 2006,2006-06-01,GAVLAS Antonin,SHEN Chi-Min,3,1,"11,7,11,11|7,11,6,9",,GRAND_SLAM,U21MS,1779,Qualification,GAVLAS Antonin (CZE),SHEN Chi-Min (TPE),GAVLAS Antonin
+Korean Open Jeonju 2006,2006-06-01,ZUBCIC Tomislav,CHEN Chien-An,3,1,"5,15,12,11|11,13,10,9",QR2,GRAND_SLAM,U21MS,1779,Qualification,ZUBCIC Tomislav (CRO),CHEN Chien-An (TPE),ZUBCIC Tomislav
+Korean Open Jeonju 2006,2006-06-01,ZUBCIC Tomislav,GAVLAS Antonin,3,1,"11,4,11,11|5,11,4,7",3,GRAND_SLAM,U21MS,1779,Qualification,ZUBCIC Tomislav (CRO),GAVLAS Antonin (CZE),ZUBCIC Tomislav
+Korean Open Jeonju 2006,2006-06-01,SHEN Chi-Min,CHEN Chien-An,3,2,"6,13,13,11,12|11,15,11,9,10",QR4,GRAND_SLAM,U21MS,1779,Qualification,SHEN Chi-Min (TPE),CHEN Chien-An (TPE),SHEN Chi-Min
+Korean Open Jeonju 2006,2006-06-01,GAVLAS Antonin,CHEN Chien-An,3,0,"11,11,11|8,6,6",5,GRAND_SLAM,U21MS,1779,Qualification,GAVLAS Antonin (CZE),CHEN Chien-An (TPE),GAVLAS Antonin
+Korean Open Jeonju 2006,2006-06-01,ZUBCIC Tomislav,SHEN Chi-Min,3,1,"11,11,7,11|4,5,11,6",6,GRAND_SLAM,U21MS,1779,Qualification,ZUBCIC Tomislav (CRO),SHEN Chi-Min (TPE),ZUBCIC Tomislav
+Korean Open Jeonju 2006,2006-06-01,SUN Wen-Wei,DURAN Marc,3,2,"7,4,11,11,12|11,11,4,8,10",,GRAND_SLAM,U21MS,1779,Qualification,SUN Wen-Wei (TPE),DURAN Marc (ESP),SUN Wen-Wei
+Korean Open Jeonju 2006,2006-06-01,HABESOHN Daniel,CHANG Shun-Hung,3,0,"13,11,13|11,6,11",QR2,GRAND_SLAM,U21MS,1779,Qualification,HABESOHN Daniel (AUT),CHANG Shun-Hung (TPE),HABESOHN Daniel
+Korean Open Jeonju 2006,2006-06-01,DURAN Marc,HABESOHN Daniel,3,0,"13,11,11|11,9,9",3,GRAND_SLAM,U21MS,1779,Qualification,DURAN Marc (ESP),HABESOHN Daniel (AUT),DURAN Marc
+Korean Open Jeonju 2006,2006-06-01,SUN Wen-Wei,CHANG Shun-Hung,3,0,"11,11,12|9,5,10",QR4,GRAND_SLAM,U21MS,1779,Qualification,SUN Wen-Wei (TPE),CHANG Shun-Hung (TPE),SUN Wen-Wei
+Korean Open Jeonju 2006,2006-06-01,DURAN Marc,CHANG Shun-Hung,3,1,"13,11,11,11|15,4,5,9",5,GRAND_SLAM,U21MS,1779,Qualification,DURAN Marc (ESP),CHANG Shun-Hung (TPE),DURAN Marc
+Korean Open Jeonju 2006,2006-06-01,HABESOHN Daniel,SUN Wen-Wei,3,1,"11,11,5,11|2,9,11,8",6,GRAND_SLAM,U21MS,1779,Qualification,HABESOHN Daniel (AUT),SUN Wen-Wei (TPE),HABESOHN Daniel
+Korean Open Jeonju 2006,2006-06-01,YANG Zi,WU Chih-Chi,4,3,"8,11,9,11,7,11,12|11,9,11,5,11,7,10",QR16,GRAND_SLAM,MS,1779,Qualification,YANG Zi (SGP),WU Chih-Chi (TPE),YANG Zi
+Korean Open Jeonju 2006,2006-06-01,CHANG Yen-Shu,GAVLAS Antonin,4,0,"11,11,11,13|4,4,9,11",QR16,GRAND_SLAM,MS,1779,Qualification,CHANG Yen-Shu (TPE),GAVLAS Antonin (CZE),CHANG Yen-Shu
+Korean Open Jeonju 2006,2006-06-01,CHIANG Hung-Chieh,CARNEROS Alfredo,4,0,"11,19,12,13|7,17,10,11",QR16,GRAND_SLAM,MS,1779,Qualification,CHIANG Hung-Chieh (TPE),CARNEROS Alfredo (ESP),CHIANG Hung-Chieh
+Korean Open Jeonju 2006,2006-06-01,CAI Xiaoli,TOSIC Roko,4,2,"15,8,11,11,14,11|13,11,9,7,16,3",QR16,GRAND_SLAM,MS,1779,Qualification,CAI Xiaoli (SGP),TOSIC Roko (CRO),CAI Xiaoli
+Korean Open Jeonju 2006,2006-06-01,KEINATH Thomas,HUANG Sheng-Sheng,4,1,"11,8,11,11,11|5,11,9,7,8",QR16,GRAND_SLAM,MS,1779,Qualification,KEINATH Thomas (SVK),HUANG Sheng-Sheng (TPE),KEINATH Thomas
+Korean Open Jeonju 2006,2006-06-01,CHIANG Hung-Chieh,GAVLAS Antonin,4,0,"11,11,11,11|8,9,6,6",R16,GRAND_SLAM,U21MS,1779,Main Draw,CHIANG Hung-Chieh (TPE),GAVLAS Antonin (CZE),CHIANG Hung-Chieh
+Korean Open Jeonju 2006,2006-06-01,ZUBCIC Tomislav,SUN Wen-Wei,4,2,"6,8,11,11,13,11|11,11,9,9,11,2",R16,GRAND_SLAM,U21MS,1779,Main Draw,ZUBCIC Tomislav (CRO),SUN Wen-Wei (TPE),ZUBCIC Tomislav
+Korean Open Jeonju 2006,2006-06-01,HUANG Sheng-Sheng,VOSTES Yannick,4,2,"11,11,4,11,9,12|7,6,11,5,11,10",R16,GRAND_SLAM,U21MS,1779,Main Draw,HUANG Sheng-Sheng (TPE),VOSTES Yannick (BEL),HUANG Sheng-Sheng
+Korean Open Jeonju 2006,2006-06-01,MA Liang,DURAN Marc,4,0,"11,11,11,11|8,6,5,8",R16,GRAND_SLAM,U21MS,1779,Main Draw,MA Liang (SGP),DURAN Marc (ESP),MA Liang
+Korean Open Jeonju 2006,2006-06-01,WU Chih-Chi,ZUBCIC Tomislav,4,2,"9,11,11,5,11,11|11,9,4,11,9,3",QF,GRAND_SLAM,U21MS,1779,Main Draw,WU Chih-Chi (TPE),ZUBCIC Tomislav (CRO),WU Chih-Chi
+Korean Open Jeonju 2006,2006-06-01,HUANG Sheng-Sheng,LEE Jinkwon,4,0,,QF,GRAND_SLAM,U21MS,1779,Main Draw,HUANG Sheng-Sheng (TPE),LEE Jinkwon (KOR),HUANG Sheng-Sheng
+Korean Open Jeonju 2006,2006-06-01,CHO Eonrae,MA Liang,4,1,"11,11,13,9,12|5,4,11,11,10",QF,GRAND_SLAM,U21MS,1779,Main Draw,CHO Eonrae (KOR),MA Liang (SGP),CHO Eonrae
+Korean Open Jeonju 2006,2006-06-01,WU Chih-Chi,LIM Jaehyun,4,3,"10,11,3,9,11,11,11|12,8,11,11,2,3,6",SF,GRAND_SLAM,U21MS,1779,Main Draw,WU Chih-Chi (TPE),LIM Jaehyun (KOR),WU Chih-Chi
+Korean Open Jeonju 2006,2006-06-01,HUANG Sheng-Sheng,CHO Eonrae,4,1,"7,11,11,11,11|11,8,5,9,5",SF,GRAND_SLAM,U21MS,1779,Main Draw,HUANG Sheng-Sheng (TPE),CHO Eonrae (KOR),HUANG Sheng-Sheng
+Korean Open Jeonju 2006,2006-06-01,WU Chih-Chi,HUANG Sheng-Sheng,4,3,"11,5,11,6,12,6,11|9,11,3,11,10,11,4",F,GRAND_SLAM,U21MS,1779,Main Draw,WU Chih-Chi (TPE),HUANG Sheng-Sheng (TPE),WU Chih-Chi
+Korean Open Jeonju 2006,2006-06-01,LI Jiawei,CHENG I-Ching,4,0,"11,11,11,11|9,7,8,3",R32,GRAND_SLAM,WS,1779,Main Draw,LI Jiawei (SGP),CHENG I-Ching (TPE),LI Jiawei
+Korean Open Jeonju 2006,2006-06-01,WU Jiaduo,LI Qiangbing,4,3,"11,12,12,10,8,8,11|6,10,10,12,11,11,9",R32,GRAND_SLAM,WS,1779,Main Draw,WU Jiaduo (GER),LI Qiangbing (AUT),WU Jiaduo
+Korean Open Jeonju 2006,2006-06-01,PARK Miyoung,SCHALL Elke,4,0,"11,11,11,11|9,6,7,5",R32,GRAND_SLAM,WS,1779,Main Draw,PARK Miyoung (KOR),SCHALL Elke (GER),PARK Miyoung
+Korean Open Jeonju 2006,2006-06-01,LIU Jia,KIM Bokrae,4,1,"11,11,11,11,11|13,9,7,7,6",R32,GRAND_SLAM,WS,1779,Main Draw,LIU Jia (AUT),KIM Bokrae (KOR),LIU Jia
+Korean Open Jeonju 2006,2006-06-01,WANG Yuegu,ISHIGAKI Yuka,4,2,"11,7,11,11,11,11|13,11,7,8,9,8",R32,GRAND_SLAM,WS,1779,Main Draw,WANG Yuegu (SGP),ISHIGAKI Yuka (JPN),WANG Yuegu
+Korean Open Jeonju 2006,2006-06-01,LEE Eunhee,SHEN Yanfei,4,2,"11,11,11,8,8,11|6,3,4,11,11,4",R32,GRAND_SLAM,WS,1779,Main Draw,LEE Eunhee (KOR),SHEN Yanfei (ESP),LEE Eunhee
+Korean Open Jeonju 2006,2006-06-01,UMEMURA Aya,TAN Paey Fern,4,2,"11,17,11,8,11,11|4,19,4,11,9,6",R32,GRAND_SLAM,WS,1779,Main Draw,UMEMURA Aya (JPN),TAN Paey Fern (SGP),UMEMURA Aya
+Korean Open Jeonju 2006,2006-06-01,GAO Jun,HUANG Yi-Hua,4,2,"9,15,11,7,11,11|11,13,7,11,5,9",R32,GRAND_SLAM,WS,1779,Main Draw,GAO Jun (USA),HUANG Yi-Hua (TPE),GAO Jun
+Korean Open Jeonju 2006,2006-06-01,KIM Kyungah,HIURA Reiko,4,0,"11,11,11,11|3,8,3,6",R32,GRAND_SLAM,WS,1779,Main Draw,KIM Kyungah (KOR),HIURA Reiko (JPN),KIM Kyungah
+Korean Open Jeonju 2006,2006-06-01,HIRANO Sayaka,KIM Junghyun,4,1,"11,11,11,5,11|8,5,8,11,7",R32,GRAND_SLAM,WS,1779,Main Draw,HIRANO Sayaka (JPN),KIM Junghyun (KOR),HIRANO Sayaka
+Korean Open Jeonju 2006,2006-06-01,ZHANG Xueling,KWAK Bangbang,4,1,"5,11,11,11,11|11,8,7,7,5",R32,GRAND_SLAM,WS,1779,Main Draw,ZHANG Xueling (SGP),KWAK Bangbang (KOR),ZHANG Xueling
+Korean Open Jeonju 2006,2006-06-01,FUKUHARA Ai,ROBERTSON Laura,4,0,"11,11,11,11|2,6,6,7",R32,GRAND_SLAM,WS,1779,Main Draw,FUKUHARA Ai (JPN),ROBERTSON Laura (GER),FUKUHARA Ai
+Korean Open Jeonju 2006,2006-06-01,MOON Hyunjung,LU Yun-Feng,4,1,"11,11,9,11,11|5,2,11,5,6",R32,GRAND_SLAM,WS,1779,Main Draw,MOON Hyunjung (KOR),LU Yun-Feng (TPE),MOON Hyunjung
+Korean Open Jeonju 2006,2006-06-01,ZHANG Rui,KIM Kyungha,4,1,"3,11,11,12,14|11,9,4,10,12",R32,GRAND_SLAM,WS,1779,Main Draw,ZHANG Rui (HKG),KIM Kyungha (KOR),ZHANG Rui
+Korean Open Jeonju 2006,2006-06-01,SUN Beibei,FUJINUMA Ai,4,1,"11,11,11,11,11|4,6,6,13,3",R32,GRAND_SLAM,WS,1779,Main Draw,SUN Beibei (SGP),FUJINUMA Ai (JPN),SUN Beibei
+Korean Open Jeonju 2006,2006-06-01,TIE Yana,RAMIREZ Sara,4,0,"11,11,11,11|7,5,1,7",R32,GRAND_SLAM,WS,1779,Main Draw,TIE Yana (HKG),RAMIREZ Sara (ESP),TIE Yana
+Korean Open Jeonju 2006,2006-06-01,LI Jiawei,WU Jiaduo,4,1,"10,11,11,11,11|12,3,6,9,3",R16,GRAND_SLAM,WS,1779,Main Draw,LI Jiawei (SGP),WU Jiaduo (GER),LI Jiawei
+Korean Open Jeonju 2006,2006-06-01,PARK Miyoung,LIU Jia,4,1,"7,11,11,11,11|11,8,8,7,7",R16,GRAND_SLAM,WS,1779,Main Draw,PARK Miyoung (KOR),LIU Jia (AUT),PARK Miyoung
+Korean Open Jeonju 2006,2006-06-01,WANG Yuegu,LEE Eunhee,4,0,"11,11,15,11|9,5,13,6",R16,GRAND_SLAM,WS,1779,Main Draw,WANG Yuegu (SGP),LEE Eunhee (KOR),WANG Yuegu
+Korean Open Jeonju 2006,2006-06-01,GAO Jun,UMEMURA Aya,4,3,"11,11,10,12,4,6,11|8,6,12,10,11,11,4",R16,GRAND_SLAM,WS,1779,Main Draw,GAO Jun (USA),UMEMURA Aya (JPN),GAO Jun
+Korean Open Jeonju 2006,2006-06-01,KIM Kyungah,HIRANO Sayaka,4,1,"11,11,11,9,11|5,5,5,11,5",R16,GRAND_SLAM,WS,1779,Main Draw,KIM Kyungah (KOR),HIRANO Sayaka (JPN),KIM Kyungah
+Korean Open Jeonju 2006,2006-06-01,FUKUHARA Ai,ZHANG Xueling,4,1,"17,11,11,11,11|15,13,4,9,5",R16,GRAND_SLAM,WS,1779,Main Draw,FUKUHARA Ai (JPN),ZHANG Xueling (SGP),FUKUHARA Ai
+Korean Open Jeonju 2006,2006-06-01,ZHANG Rui,MOON Hyunjung,4,2,"11,11,11,11,9,13|9,8,13,8,11,11",R16,GRAND_SLAM,WS,1779,Main Draw,ZHANG Rui (HKG),MOON Hyunjung (KOR),ZHANG Rui
+Korean Open Jeonju 2006,2006-06-01,TIE Yana,SUN Beibei,4,1,"11,11,11,9,11|9,6,6,11,9",R16,GRAND_SLAM,WS,1779,Main Draw,TIE Yana (HKG),SUN Beibei (SGP),TIE Yana
+Korean Open Jeonju 2006,2006-06-01,PARK Miyoung,LI Jiawei,4,2,"6,11,15,10,11,11|11,7,13,12,3,9",QF,GRAND_SLAM,WS,1779,Main Draw,PARK Miyoung (KOR),LI Jiawei (SGP),PARK Miyoung
+Korean Open Jeonju 2006,2006-06-01,WANG Yuegu,GAO Jun,4,2,"2,11,9,11,11,11|11,8,11,8,4,5",QF,GRAND_SLAM,WS,1779,Main Draw,WANG Yuegu (SGP),GAO Jun (USA),WANG Yuegu
+Korean Open Jeonju 2006,2006-06-01,KIM Kyungah,FUKUHARA Ai,4,1,"11,11,11,9,11|6,3,4,11,7",QF,GRAND_SLAM,WS,1779,Main Draw,KIM Kyungah (KOR),FUKUHARA Ai (JPN),KIM Kyungah
+Korean Open Jeonju 2006,2006-06-01,TIE Yana,ZHANG Rui,4,0,"11,11,11,11|9,9,5,6",QF,GRAND_SLAM,WS,1779,Main Draw,TIE Yana (HKG),ZHANG Rui (HKG),TIE Yana
+Korean Open Jeonju 2006,2006-06-01,WANG Yuegu,PARK Miyoung,4,2,"11,11,6,11,9,11|8,9,11,7,11,6",SF,GRAND_SLAM,WS,1779,Main Draw,WANG Yuegu (SGP),PARK Miyoung (KOR),WANG Yuegu
+Korean Open Jeonju 2006,2006-06-01,TIE Yana,KIM Kyungah,4,1,"13,11,15,11,11|11,9,17,6,4",SF,GRAND_SLAM,WS,1779,Main Draw,TIE Yana (HKG),KIM Kyungah (KOR),TIE Yana
+Korean Open Jeonju 2006,2006-06-01,TIE Yana,WANG Yuegu,4,1,"11,11,9,11,11|5,6,11,6,5",F,GRAND_SLAM,WS,1779,Main Draw,TIE Yana (HKG),WANG Yuegu (SGP),TIE Yana
+Korean Open Jeonju 2006,2006-06-01,PARK Miyoung,LEE I-Chen,4,1,"7,11,11,11,11|11,7,7,6,3",,GRAND_SLAM,WS,1779,Qualification,PARK Miyoung (KOR),LEE I-Chen (TPE),PARK Miyoung
+Korean Open Jeonju 2006,2006-06-01,PARK Miyoung,ISHIGAKI Yuka,4,2,"9,6,13,11,12,11|11,11,11,3,10,4",QR2,GRAND_SLAM,WS,1779,Qualification,PARK Miyoung (KOR),ISHIGAKI Yuka (JPN),PARK Miyoung
+Korean Open Jeonju 2006,2006-06-01,ISHIGAKI Yuka,LEE I-Chen,4,1,"11,3,11,11,11|9,11,6,8,7",3,GRAND_SLAM,WS,1779,Qualification,ISHIGAKI Yuka (JPN),LEE I-Chen (TPE),ISHIGAKI Yuka
+Korean Open Jeonju 2006,2006-06-01,FUJINUMA Ai,KIM Soongsil,4,0,"11,11,11,11|9,9,5,6",,GRAND_SLAM,WS,1779,Qualification,FUJINUMA Ai (JPN),KIM Soongsil (KOR),FUJINUMA Ai
+Korean Open Jeonju 2006,2006-06-01,FUJINUMA Ai,PAN Chun-Chu,4,1,"11,12,11,7,11|8,10,4,11,9",QR2,GRAND_SLAM,WS,1779,Qualification,FUJINUMA Ai (JPN),PAN Chun-Chu (TPE),FUJINUMA Ai
+Korean Open Jeonju 2006,2006-06-01,PAN Chun-Chu,KIM Soongsil,4,2,"6,11,11,6,11,11|11,5,5,11,6,8",3,GRAND_SLAM,WS,1779,Qualification,PAN Chun-Chu (TPE),KIM Soongsil (KOR),PAN Chun-Chu
+Korean Open Jeonju 2006,2006-06-01,HIURA Reiko,YU Kwok See,4,1,"8,11,12,13,11|11,3,10,11,7",,GRAND_SLAM,WS,1779,Qualification,HIURA Reiko (JPN),YU Kwok See (HKG),HIURA Reiko
+Korean Open Jeonju 2006,2006-06-01,HIURA Reiko,DVORAK Galia,4,3,"6,11,6,11,11,8,11|11,6,11,8,2,11,5",QR2,GRAND_SLAM,WS,1779,Qualification,HIURA Reiko (JPN),DVORAK Galia (ESP),HIURA Reiko
+Korean Open Jeonju 2006,2006-06-01,DVORAK Galia,YU Kwok See,4,1,"11,11,11,6,11|4,7,6,11,2",3,GRAND_SLAM,WS,1779,Qualification,DVORAK Galia (ESP),YU Kwok See (HKG),DVORAK Galia
+Korean Open Jeonju 2006,2006-06-01,KIM Bokrae,TERUI Moemi,4,3,"11,10,7,9,11,14,11|2,12,11,11,6,12,9",,GRAND_SLAM,WS,1779,Qualification,KIM Bokrae (KOR),TERUI Moemi (JPN),KIM Bokrae
+Korean Open Jeonju 2006,2006-06-01,KIM Bokrae,HEINE Veronika,4,0,"11,11,11,11|7,8,5,8",QR2,GRAND_SLAM,WS,1779,Qualification,KIM Bokrae (KOR),HEINE Veronika (AUT),KIM Bokrae
+Korean Open Jeonju 2006,2006-06-01,TERUI Moemi,HEINE Veronika,4,2,"9,11,7,11,11,12|11,7,11,6,6,10",3,GRAND_SLAM,WS,1779,Qualification,TERUI Moemi (JPN),HEINE Veronika (AUT),TERUI Moemi
+Korean Open Jeonju 2006,2006-06-01,LEE Eunhee,LIU Hsing-Yin,4,0,"11,11,11,11|8,1,2,5",,GRAND_SLAM,WS,1779,Qualification,LEE Eunhee (KOR),LIU Hsing-Yin (TPE),LEE Eunhee
+Korean Open Jeonju 2006,2006-06-01,LEE Eunhee,BARTHEL Zhenqi,4,2,"11,7,11,9,11,11|6,11,9,11,9,7",QR2,GRAND_SLAM,WS,1779,Qualification,LEE Eunhee (KOR),BARTHEL Zhenqi (GER),LEE Eunhee
+Korean Open Jeonju 2006,2006-06-01,BARTHEL Zhenqi,LIU Hsing-Yin,4,1,"11,7,14,11,11|4,11,12,4,4",3,GRAND_SLAM,WS,1779,Qualification,BARTHEL Zhenqi (GER),LIU Hsing-Yin (TPE),BARTHEL Zhenqi
+Korean Open Jeonju 2006,2006-06-01,LI Qiangbing,MA Minglu,4,0,"11,11,11,11|9,8,3,6",,GRAND_SLAM,WS,1779,Qualification,LI Qiangbing (AUT),MA Minglu (SGP),LI Qiangbing
+Korean Open Jeonju 2006,2006-06-01,LI Qiangbing,LU Yun-Feng,4,1,"11,8,11,11,11|5,11,6,7,2",QR2,GRAND_SLAM,WS,1779,Qualification,LI Qiangbing (AUT),LU Yun-Feng (TPE),LI Qiangbing
+Korean Open Jeonju 2006,2006-06-01,LU Yun-Feng,MA Minglu,4,3,"8,7,11,10,11,11,11|11,11,8,12,4,3,7",3,GRAND_SLAM,WS,1779,Qualification,LU Yun-Feng (TPE),MA Minglu (SGP),LU Yun-Feng
+Korean Open Jeonju 2006,2006-06-01,TAN Paey Fern,HSIUNG Nai-I,4,0,"11,11,11,11|6,4,9,6",,GRAND_SLAM,WS,1779,Qualification,TAN Paey Fern (SGP),HSIUNG Nai-I (TPE),TAN Paey Fern
+Korean Open Jeonju 2006,2006-06-01,RAMIREZ Sara,YOON Suwon,4,1,"14,6,11,11,13|12,11,9,9,11",QR2,GRAND_SLAM,WS,1779,Qualification,RAMIREZ Sara (ESP),YOON Suwon (KOR),RAMIREZ Sara
+Korean Open Jeonju 2006,2006-06-01,TAN Paey Fern,RAMIREZ Sara,4,3,"8,11,9,11,9,11,12|11,6,11,5,11,8,10",3,GRAND_SLAM,WS,1779,Qualification,TAN Paey Fern (SGP),RAMIREZ Sara (ESP),TAN Paey Fern
+Korean Open Jeonju 2006,2006-06-01,YOON Suwon,HSIUNG Nai-I,4,3,"11,3,11,7,6,11,11|9,11,6,11,11,6,5",QR4,GRAND_SLAM,WS,1779,Qualification,YOON Suwon (KOR),HSIUNG Nai-I (TPE),YOON Suwon
+Korean Open Jeonju 2006,2006-06-01,TAN Paey Fern,YOON Suwon,4,1,"11,7,11,14,11|6,11,3,12,8",5,GRAND_SLAM,WS,1779,Qualification,TAN Paey Fern (SGP),YOON Suwon (KOR),TAN Paey Fern
+Korean Open Jeonju 2006,2006-06-01,RAMIREZ Sara,HSIUNG Nai-I,4,1,"11,9,11,11,11|8,11,8,6,7",6,GRAND_SLAM,WS,1779,Qualification,RAMIREZ Sara (ESP),HSIUNG Nai-I (TPE),RAMIREZ Sara
+Korean Open Jeonju 2006,2006-06-01,KWAK Bangbang,HSU Hui-Tsun,4,0,"11,11,11,11|3,8,9,1",,GRAND_SLAM,WS,1779,Qualification,KWAK Bangbang (KOR),HSU Hui-Tsun (TPE),KWAK Bangbang
+Korean Open Jeonju 2006,2006-06-01,ROBERTSON Laura,PENG Wan-Hua,4,1,"12,11,8,11,11|10,9,11,7,5",QR2,GRAND_SLAM,WS,1779,Qualification,ROBERTSON Laura (GER),PENG Wan-Hua (TPE),ROBERTSON Laura
+Korean Open Jeonju 2006,2006-06-01,KWAK Bangbang,ROBERTSON Laura,4,2,"7,11,11,11,13,11|11,9,13,7,11,6",3,GRAND_SLAM,WS,1779,Qualification,KWAK Bangbang (KOR),ROBERTSON Laura (GER),KWAK Bangbang
+Korean Open Jeonju 2006,2006-06-01,HSU Hui-Tsun,PENG Wan-Hua,4,1,"10,11,11,11,11|12,5,8,6,8",QR4,GRAND_SLAM,WS,1779,Qualification,HSU Hui-Tsun (TPE),PENG Wan-Hua (TPE),HSU Hui-Tsun
+Korean Open Jeonju 2006,2006-06-01,KWAK Bangbang,PENG Wan-Hua,4,1,"11,8,11,11,11|3,11,9,4,6",5,GRAND_SLAM,WS,1779,Qualification,KWAK Bangbang (KOR),PENG Wan-Hua (TPE),KWAK Bangbang
+Korean Open Jeonju 2006,2006-06-01,ROBERTSON Laura,HSU Hui-Tsun,4,2,"9,12,14,11,3,11|11,10,12,9,11,3",6,GRAND_SLAM,WS,1779,Qualification,ROBERTSON Laura (GER),HSU Hui-Tsun (TPE),ROBERTSON Laura
+Korean Open Jeonju 2006,2006-06-01,HUANG Yi-Hua,SU Yue,4,2,"11,5,11,7,12,11|7,11,5,11,10,8",,GRAND_SLAM,WS,1779,Qualification,HUANG Yi-Hua (TPE),SU Yue (SGP),HUANG Yi-Hua
+Korean Open Jeonju 2006,2006-06-01,KIM Kyungha,HOU Yu-Ling,4,0,"11,11,11,11|4,6,5,1",QR2,GRAND_SLAM,WS,1779,Qualification,KIM Kyungha (KOR),HOU Yu-Ling (TPE),KIM Kyungha
+Korean Open Jeonju 2006,2006-06-01,KIM Kyungha,HUANG Yi-Hua,4,3,"11,9,5,11,7,11,12|6,11,11,5,11,3,10",3,GRAND_SLAM,WS,1779,Qualification,KIM Kyungha (KOR),HUANG Yi-Hua (TPE),KIM Kyungha
+Korean Open Jeonju 2006,2006-06-01,SU Yue,HOU Yu-Ling,4,1,"11,16,5,11,11|9,14,11,7,6",QR4,GRAND_SLAM,WS,1779,Qualification,SU Yue (SGP),HOU Yu-Ling (TPE),SU Yue
+Korean Open Jeonju 2006,2006-06-01,HUANG Yi-Hua,HOU Yu-Ling,4,3,"4,11,11,9,8,11,11|11,8,5,11,11,4,6",5,GRAND_SLAM,WS,1779,Qualification,HUANG Yi-Hua (TPE),HOU Yu-Ling (TPE),HUANG Yi-Hua
+Korean Open Jeonju 2006,2006-06-01,KIM Kyungha,SU Yue,4,0,"11,11,11,11|8,6,7,6",6,GRAND_SLAM,WS,1779,Qualification,KIM Kyungha (KOR),SU Yue (SGP),KIM Kyungha
+Korean Open Jeonju 2006,2006-06-01,GRUNDISCH Carole,HUANG Kang Kang,4,0,"12,11,11,11|10,9,9,3",,GRAND_SLAM,WS,1779,Qualification,GRUNDISCH Carole (FRA),HUANG Kang Kang (SGP),GRUNDISCH Carole
+Korean Open Jeonju 2006,2006-06-01,KIM Junghyun,CHENG I-Ching,4,2,"8,13,11,11,7,11|11,11,4,5,11,9",QR2,GRAND_SLAM,WS,1779,Qualification,KIM Junghyun (KOR),CHENG I-Ching (TPE),KIM Junghyun
+Korean Open Jeonju 2006,2006-06-01,KIM Junghyun,GRUNDISCH Carole,4,2,"11,9,8,13,11,11|7,11,11,11,6,9",3,GRAND_SLAM,WS,1779,Qualification,KIM Junghyun (KOR),GRUNDISCH Carole (FRA),KIM Junghyun
+Korean Open Jeonju 2006,2006-06-01,CHENG I-Ching,HUANG Kang Kang,4,1,"14,9,11,11,11|12,11,3,9,9",QR4,GRAND_SLAM,WS,1779,Qualification,CHENG I-Ching (TPE),HUANG Kang Kang (SGP),CHENG I-Ching
+Korean Open Jeonju 2006,2006-06-01,CHENG I-Ching,GRUNDISCH Carole,4,2,"12,7,11,11,6,11|10,11,3,6,11,5",5,GRAND_SLAM,WS,1779,Qualification,CHENG I-Ching (TPE),GRUNDISCH Carole (FRA),CHENG I-Ching
+Korean Open Jeonju 2006,2006-06-01,HUANG Kang Kang,KIM Junghyun,4,2,"12,2,9,11,11,19|10,11,11,8,9,17",6,GRAND_SLAM,WS,1779,Qualification,HUANG Kang Kang (SGP),KIM Junghyun (KOR),HUANG Kang Kang
+Korean Open Jeonju 2006,2006-06-01,RAMIREZ Sara,MA Minglu,3,2,"8,14,11,9,11|11,12,6,11,6",,GRAND_SLAM,U21WS,1779,Qualification,RAMIREZ Sara (ESP),MA Minglu (SGP),RAMIREZ Sara
+Korean Open Jeonju 2006,2006-06-01,RAMIREZ Sara,HSU Hui-Tsun,3,0,"11,11,12|1,3,10",QR2,GRAND_SLAM,U21WS,1779,Qualification,RAMIREZ Sara (ESP),HSU Hui-Tsun (TPE),RAMIREZ Sara
+Korean Open Jeonju 2006,2006-06-01,MA Minglu,HSU Hui-Tsun,3,1,"11,7,11,11|6,11,8,9",3,GRAND_SLAM,U21WS,1779,Qualification,MA Minglu (SGP),HSU Hui-Tsun (TPE),MA Minglu
+Korean Open Jeonju 2006,2006-06-01,HSIUNG Nai-I,BARTHEL Zhenqi,3,1,"11,12,3,11|9,10,11,4",,GRAND_SLAM,U21WS,1779,Qualification,HSIUNG Nai-I (TPE),BARTHEL Zhenqi (GER),HSIUNG Nai-I
+Korean Open Jeonju 2006,2006-06-01,TERUI Moemi,BARTHEL Zhenqi,3,1,"11,11,10,11|1,4,12,5",QR2,GRAND_SLAM,U21WS,1779,Qualification,TERUI Moemi (JPN),BARTHEL Zhenqi (GER),TERUI Moemi
+Korean Open Jeonju 2006,2006-06-01,TERUI Moemi,HSIUNG Nai-I,3,0,"15,11,11|13,7,4",3,GRAND_SLAM,U21WS,1779,Qualification,TERUI Moemi (JPN),HSIUNG Nai-I (TPE),TERUI Moemi
+Korean Open Jeonju 2006,2006-06-01,SU Yue,HEINE Veronika,3,2,"12,11,7,11,11|14,8,11,9,7",,GRAND_SLAM,U21WS,1779,Qualification,SU Yue (SGP),HEINE Veronika (AUT),SU Yue
+Korean Open Jeonju 2006,2006-06-01,HEINE Veronika,LIU Hsing-Yin,3,0,"11,11,11|5,6,9",QR2,GRAND_SLAM,U21WS,1779,Qualification,HEINE Veronika (AUT),LIU Hsing-Yin (TPE),HEINE Veronika
+Korean Open Jeonju 2006,2006-06-01,LIU Hsing-Yin,SU Yue,3,1,"11,7,11,12|9,11,8,10",3,GRAND_SLAM,U21WS,1779,Qualification,LIU Hsing-Yin (TPE),SU Yue (SGP),LIU Hsing-Yin
+Korean Open Jeonju 2006,2006-06-01,DVORAK Galia,HUANG Kang Kang,3,0,"11,12,12|9,10,10",,GRAND_SLAM,U21WS,1779,Qualification,DVORAK Galia (ESP),HUANG Kang Kang (SGP),DVORAK Galia
+Korean Open Jeonju 2006,2006-06-01,LEE I-Chen,PENG Wan-Hua,3,0,"11,11,11|9,4,7",QR2,GRAND_SLAM,U21WS,1779,Qualification,LEE I-Chen (TPE),PENG Wan-Hua (TPE),LEE I-Chen
+Korean Open Jeonju 2006,2006-06-01,LEE I-Chen,DVORAK Galia,3,1,"8,11,11,11|11,3,8,8",3,GRAND_SLAM,U21WS,1779,Qualification,LEE I-Chen (TPE),DVORAK Galia (ESP),LEE I-Chen
+Korean Open Jeonju 2006,2006-06-01,HUANG Kang Kang,PENG Wan-Hua,3,2,"7,11,11,11,11|11,13,8,7,7",QR4,GRAND_SLAM,U21WS,1779,Qualification,HUANG Kang Kang (SGP),PENG Wan-Hua (TPE),HUANG Kang Kang
+Korean Open Jeonju 2006,2006-06-01,DVORAK Galia,PENG Wan-Hua,3,2,"11,8,11,9,11|6,11,8,11,8",5,GRAND_SLAM,U21WS,1779,Qualification,DVORAK Galia (ESP),PENG Wan-Hua (TPE),DVORAK Galia
+Korean Open Jeonju 2006,2006-06-01,HUANG Kang Kang,LEE I-Chen,3,0,"11,11,12|4,8,10",6,GRAND_SLAM,U21WS,1779,Qualification,HUANG Kang Kang (SGP),LEE I-Chen (TPE),HUANG Kang Kang
+Korean Open Jeonju 2006,2006-06-01,ISHIGAKI Yuka,CHENG I-Ching,3,0,"11,11,11|7,9,3",,GRAND_SLAM,U21WS,1779,Qualification,ISHIGAKI Yuka (JPN),CHENG I-Ching (TPE),ISHIGAKI Yuka
+Korean Open Jeonju 2006,2006-06-01,YU Kwok See,HOU Yu-Ling,3,2,"11,6,11,9,11|7,11,2,11,6",QR2,GRAND_SLAM,U21WS,1779,Qualification,YU Kwok See (HKG),HOU Yu-Ling (TPE),YU Kwok See
+Korean Open Jeonju 2006,2006-06-01,ISHIGAKI Yuka,YU Kwok See,3,0,"13,11,11|11,7,5",3,GRAND_SLAM,U21WS,1779,Qualification,ISHIGAKI Yuka (JPN),YU Kwok See (HKG),ISHIGAKI Yuka
+Korean Open Jeonju 2006,2006-06-01,CHENG I-Ching,HOU Yu-Ling,3,1,"11,4,11,11|9,11,7,3",QR4,GRAND_SLAM,U21WS,1779,Qualification,CHENG I-Ching (TPE),HOU Yu-Ling (TPE),CHENG I-Ching
+Korean Open Jeonju 2006,2006-06-01,ISHIGAKI Yuka,HOU Yu-Ling,3,0,"11,11,11|5,7,7",5,GRAND_SLAM,U21WS,1779,Qualification,ISHIGAKI Yuka (JPN),HOU Yu-Ling (TPE),ISHIGAKI Yuka
+Korean Open Jeonju 2006,2006-06-01,YU Kwok See,CHENG I-Ching,3,1,"11,11,11,11|13,7,9,6",6,GRAND_SLAM,U21WS,1779,Qualification,YU Kwok See (HKG),CHENG I-Ching (TPE),YU Kwok See
+Korean Open Jeonju 2006,2006-06-01,ROBERTSON Laura,PAN Chun-Chu,4,2,"11,11,9,13,11,11|6,5,11,15,9,9",QR16,GRAND_SLAM,WS,1779,Qualification,ROBERTSON Laura (GER),PAN Chun-Chu (TPE),ROBERTSON Laura
+Korean Open Jeonju 2006,2006-06-01,HUANG Yi-Hua,DVORAK Galia,4,2,"6,12,11,11,8,11|11,10,9,8,11,6",QR16,GRAND_SLAM,WS,1779,Qualification,HUANG Yi-Hua (TPE),DVORAK Galia (ESP),HUANG Yi-Hua
+Korean Open Jeonju 2006,2006-06-01,RAMIREZ Sara,TERUI Moemi,4,2,"11,12,11,9,7,11|5,10,5,11,11,7",QR16,GRAND_SLAM,WS,1779,Qualification,RAMIREZ Sara (ESP),TERUI Moemi (JPN),RAMIREZ Sara
+Korean Open Jeonju 2006,2006-06-01,LU Yun-Feng,BARTHEL Zhenqi,4,2,"3,11,11,5,11,11|11,6,7,11,9,7",QR16,GRAND_SLAM,WS,1779,Qualification,LU Yun-Feng (TPE),BARTHEL Zhenqi (GER),LU Yun-Feng
+Korean Open Jeonju 2006,2006-06-01,HEINE Veronika,HUANG Kang Kang,4,2,"11,6,11,11,4,11|7,11,6,4,11,9",R16,GRAND_SLAM,U21WS,1779,Main Draw,HEINE Veronika (AUT),HUANG Kang Kang (SGP),HEINE Veronika
+Korean Open Jeonju 2006,2006-06-01,DVORAK Galia,MA Minglu,4,1,"11,11,5,11,11|6,8,11,9,2",R16,GRAND_SLAM,U21WS,1779,Main Draw,DVORAK Galia (ESP),MA Minglu (SGP),DVORAK Galia
+Korean Open Jeonju 2006,2006-06-01,GRUNDISCH Carole,HSIUNG Nai-I,4,1,"13,12,9,11,11|11,10,11,8,7",R16,GRAND_SLAM,U21WS,1779,Main Draw,GRUNDISCH Carole (FRA),HSIUNG Nai-I (TPE),GRUNDISCH Carole
+Korean Open Jeonju 2006,2006-06-01,KIM Junghyun,SU Yue,4,1,"11,11,11,8,11|8,9,4,11,7",R16,GRAND_SLAM,U21WS,1779,Main Draw,KIM Junghyun (KOR),SU Yue (SGP),KIM Junghyun
+Korean Open Jeonju 2006,2006-06-01,RAMIREZ Sara,ISHIGAKI Yuka,4,0,"11,11,11,11|6,6,9,8",R16,GRAND_SLAM,U21WS,1779,Main Draw,RAMIREZ Sara (ESP),ISHIGAKI Yuka (JPN),RAMIREZ Sara
+Korean Open Jeonju 2006,2006-06-01,TERUI Moemi,YU Kwok See,4,3,"9,11,7,8,11,14,11|11,6,11,11,8,12,7",R16,GRAND_SLAM,U21WS,1779,Main Draw,TERUI Moemi (JPN),YU Kwok See (HKG),TERUI Moemi
+Korean Open Jeonju 2006,2006-06-01,LEE Eunhee,HEINE Veronika,4,1,"11,13,11,11,11|3,15,5,6,6",QF,GRAND_SLAM,U21WS,1779,Main Draw,LEE Eunhee (KOR),HEINE Veronika (AUT),LEE Eunhee
+Korean Open Jeonju 2006,2006-06-01,DVORAK Galia,GRUNDISCH Carole,4,3,"11,12,8,9,4,11,11|4,10,11,11,11,8,8",QF,GRAND_SLAM,U21WS,1779,Main Draw,DVORAK Galia (ESP),GRUNDISCH Carole (FRA),DVORAK Galia
+Korean Open Jeonju 2006,2006-06-01,RAMIREZ Sara,KIM Junghyun,4,2,"11,11,7,13,8,12|4,7,11,11,11,10",QF,GRAND_SLAM,U21WS,1779,Main Draw,RAMIREZ Sara (ESP),KIM Junghyun (KOR),RAMIREZ Sara
+Korean Open Jeonju 2006,2006-06-01,LI Qiangbing,TERUI Moemi,4,1,"10,14,11,11,12|12,12,7,8,10",QF,GRAND_SLAM,U21WS,1779,Main Draw,LI Qiangbing (AUT),TERUI Moemi (JPN),LI Qiangbing
+Korean Open Jeonju 2006,2006-06-01,LEE Eunhee,DVORAK Galia,4,1,"11,8,11,11,17|3,11,6,6,15",SF,GRAND_SLAM,U21WS,1779,Main Draw,LEE Eunhee (KOR),DVORAK Galia (ESP),LEE Eunhee
+Korean Open Jeonju 2006,2006-06-01,LI Qiangbing,RAMIREZ Sara,4,2,"9,6,11,11,11,11|11,11,7,9,3,8",SF,GRAND_SLAM,U21WS,1779,Main Draw,LI Qiangbing (AUT),RAMIREZ Sara (ESP),LI Qiangbing
+Korean Open Jeonju 2006,2006-06-01,LI Qiangbing,LEE Eunhee,4,3,"11,9,11,9,9,11,11|6,11,6,11,11,9,8",F,GRAND_SLAM,U21WS,1779,Main Draw,LI Qiangbing (AUT),LEE Eunhee (KOR),LI Qiangbing
+Korean Open Jeonju 2006,2006-06-01,TANG Peng/TOSIC Roko,HABESOHN Daniel/SIMONER Christoph,3,2,"7,11,11,8,12|11,5,3,11,10",QR16,GRAND_SLAM,MD,1779,Qualification,TANG Peng (HKG) / TOSIC Roko (CRO),HABESOHN Daniel (AUT) / SIMONER Christoph (AUT),TANG Peng
+Korean Open Jeonju 2006,2006-06-01,CHOI Hyunjin/YOON Jaeyoung,TANG Peng/TOSIC Roko,4,3,"5,11,15,13,11,13,11|11,4,17,11,3,15,9",R16,GRAND_SLAM,MD,1779,Main Draw,CHOI Hyunjin (KOR) / YOON Jaeyoung (KOR),TANG Peng (HKG) / TOSIC Roko (CRO),CHOI Hyunjin
+Korean Open Jeonju 2006,2006-06-01,BOBILLIER Loic/CHILA Patrick,SHEN Chi-Min/SUN Wen-Wei,3,0,"11,11,11|6,9,8",QR16,GRAND_SLAM,MD,1779,Qualification,BOBILLIER Loic (FRA) / CHILA Patrick (FRA),SHEN Chi-Min (TPE) / SUN Wen-Wei (TPE),BOBILLIER Loic
+Korean Open Jeonju 2006,2006-06-01,GAO Ning/YANG Zi,FEJER-KONNERTH Zoltan/ROSSKOPF Jorg,4,1,"7,11,11,12,11|11,9,7,10,6",R16,GRAND_SLAM,MD,1779,Main Draw,GAO Ning (SGP) / YANG Zi (SGP),FEJER-KONNERTH Zoltan (GER) / ROSSKOPF Jorg (GER),GAO Ning
+Korean Open Jeonju 2006,2006-06-01,LEE Jungwoo/OH Sangeun,CARNEROS Alfredo/DURAN Marc,4,0,"11,11,12,12|6,6,10,10",R16,GRAND_SLAM,MD,1779,Main Draw,LEE Jungwoo (KOR) / OH Sangeun (KOR),CARNEROS Alfredo (ESP) / DURAN Marc (ESP),LEE Jungwoo
+Korean Open Jeonju 2006,2006-06-01,KIM Junghoon/LEE Jungsam,BOBILLIER Loic/CHILA Patrick,4,2,"10,11,12,12,10,11|12,5,10,10,12,9",R16,GRAND_SLAM,MD,1779,Main Draw,KIM Junghoon (KOR) / LEE Jungsam (KOR),BOBILLIER Loic (FRA) / CHILA Patrick (FRA),KIM Junghoon
+Korean Open Jeonju 2006,2006-06-01,CHANG Yen-Shu/WU Chih-Chi,LEE Jinkwon/RYU Seungmin,4,3,"11,10,11,13,4,3,15|4,12,4,11,11,11,13",R16,GRAND_SLAM,MD,1779,Main Draw,CHANG Yen-Shu (TPE) / WU Chih-Chi (TPE),LEE Jinkwon (KOR) / RYU Seungmin (KOR),CHANG Yen-Shu
+Korean Open Jeonju 2006,2006-06-01,CHEUNG Yuk/LEUNG Chu Yan,JOO Saehyuk/KO Junhyung,4,2,"11,11,9,7,11,11|3,6,11,11,6,9",R16,GRAND_SLAM,MD,1779,Main Draw,CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),JOO Saehyuk (KOR) / KO Junhyung (KOR),CHEUNG Yuk
+Korean Open Jeonju 2006,2006-06-01,CHOI Hyunjin/YOON Jaeyoung,LEE Jungwoo/OH Sangeun,4,3,"6,13,7,11,5,11,11|11,11,11,6,11,8,9",QF,GRAND_SLAM,MD,1779,Main Draw,CHOI Hyunjin (KOR) / YOON Jaeyoung (KOR),LEE Jungwoo (KOR) / OH Sangeun (KOR),CHOI Hyunjin
+Korean Open Jeonju 2006,2006-06-01,HIELSCHER Lars/KEINATH Thomas,KIM Junghoon/LEE Jungsam,4,2,"11,7,11,10,11,12|9,11,9,12,7,10",QF,GRAND_SLAM,MD,1779,Main Draw,HIELSCHER Lars (GER) / KEINATH Thomas (SVK),KIM Junghoon (KOR) / LEE Jungsam (KOR),HIELSCHER Lars
+Korean Open Jeonju 2006,2006-06-01,HIELSCHER Lars/KEINATH Thomas,CHOI Hyunjin/YOON Jaeyoung,4,2,"8,7,11,11,13,11|11,11,8,7,11,9",SF,GRAND_SLAM,MD,1779,Main Draw,HIELSCHER Lars (GER) / KEINATH Thomas (SVK),CHOI Hyunjin (KOR) / YOON Jaeyoung (KOR),HIELSCHER Lars
+Korean Open Jeonju 2006,2006-06-01,JOO Saehyuk/KO Junhyung,CHIANG Hung-Chieh/HUANG Sheng-Sheng,3,2,"8,10,11,11,11|11,12,6,7,9",QR16,GRAND_SLAM,MD,1779,Qualification,JOO Saehyuk (KOR) / KO Junhyung (KOR),CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE),JOO Saehyuk
+Korean Open Jeonju 2006,2006-06-01,CHEUNG Yuk/LEUNG Chu Yan,GAO Ning/YANG Zi,4,1,"11,11,11,11,11|13,7,7,8,4",QF,GRAND_SLAM,MD,1779,Main Draw,CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),GAO Ning (SGP) / YANG Zi (SGP),CHEUNG Yuk
+Korean Open Jeonju 2006,2006-06-01,GAO Ning/YANG Zi,HE Zhiwen/MACHADO Carlos,3,0,"11,14,11|7,12,7",QR16,GRAND_SLAM,MD,1779,Qualification,GAO Ning (SGP) / YANG Zi (SGP),HE Zhiwen (ESP) / MACHADO Carlos (ESP),GAO Ning
+Korean Open Jeonju 2006,2006-06-01,HIELSCHER Lars/KEINATH Thomas,CHEN Weixing/GARDOS Robert,4,1,"14,5,12,11,11|12,11,10,5,4",R16,GRAND_SLAM,MD,1779,Main Draw,HIELSCHER Lars (GER) / KEINATH Thomas (SVK),CHEN Weixing (AUT) / GARDOS Robert (AUT),HIELSCHER Lars
+Korean Open Jeonju 2006,2006-06-01,CHEUNG Yuk/LEUNG Chu Yan,HIELSCHER Lars/KEINATH Thomas,4,3,"8,6,11,11,15,7,13|11,11,8,5,13,11,11",F,GRAND_SLAM,MD,1779,Main Draw,CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),HIELSCHER Lars (GER) / KEINATH Thomas (SVK),CHEUNG Yuk
+Korean Open Jeonju 2006,2006-06-01,HIELSCHER Lars/KEINATH Thomas,CAI Xiaoli/MA Liang,3,2,"4,11,7,13,11|11,6,11,11,3",QR16,GRAND_SLAM,MD,1779,Qualification,HIELSCHER Lars (GER) / KEINATH Thomas (SVK),CAI Xiaoli (SGP) / MA Liang (SGP),HIELSCHER Lars
+Korean Open Jeonju 2006,2006-06-01,CHO Eonrae/LIM Jaehyun,CHANG Shun-Hung/CHEN Chien-An,4,3,"11,7,10,7,11,12,12|7,11,12,11,4,10,10",R16,GRAND_SLAM,MD,1779,Main Draw,CHO Eonrae (KOR) / LIM Jaehyun (KOR),CHANG Shun-Hung (TPE) / CHEN Chien-An (TPE),CHO Eonrae
+Korean Open Jeonju 2006,2006-06-01,CHANG Yen-Shu/WU Chih-Chi,CHO Eonrae/LIM Jaehyun,4,3,"8,13,8,2,12,11,11|11,11,11,11,10,8,4",QF,GRAND_SLAM,MD,1779,Main Draw,CHANG Yen-Shu (TPE) / WU Chih-Chi (TPE),CHO Eonrae (KOR) / LIM Jaehyun (KOR),CHANG Yen-Shu
+Korean Open Jeonju 2006,2006-06-01,CHEUNG Yuk/LEUNG Chu Yan,CHANG Yen-Shu/WU Chih-Chi,4,0,"11,11,11,11|6,6,9,4",SF,GRAND_SLAM,MD,1779,Main Draw,CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),CHANG Yen-Shu (TPE) / WU Chih-Chi (TPE),CHEUNG Yuk
+Korean Open Jeonju 2006,2006-06-01,CHANG Yen-Shu/WU Chih-Chi,GACINA Andrej/ZUBCIC Tomislav,3,0,"11,11,11|3,7,2",QR16,GRAND_SLAM,MD,1779,Qualification,CHANG Yen-Shu (TPE) / WU Chih-Chi (TPE),GACINA Andrej (CRO) / ZUBCIC Tomislav (CRO),CHANG Yen-Shu
+Korean Open Jeonju 2006,2006-06-01,CHANG Shun-Hung/CHEN Chien-An,MAECK Anthony/VOSTES Yannick,3,0,"11,12,12|9,10,10",QR16,GRAND_SLAM,MD,1779,Qualification,CHANG Shun-Hung (TPE) / CHEN Chien-An (TPE),MAECK Anthony (BEL) / VOSTES Yannick (BEL),CHANG Shun-Hung
+Korean Open Jeonju 2006,2006-06-01,CARNEROS Alfredo/DURAN Marc,GAVLAS Antonin/GREEN Wally,3,0,"11,11,11|4,4,6",QR16,GRAND_SLAM,MD,1779,Qualification,CARNEROS Alfredo (ESP) / DURAN Marc (ESP),GAVLAS Antonin (CZE) / GREEN Wally (USA),CARNEROS Alfredo

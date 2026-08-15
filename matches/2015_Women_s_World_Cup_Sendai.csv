@@ -1,29 +1,29 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Women's World Cup Sendai 2015,2015-10-30,CHENG I-Ching,LAY Jian Fang,4,0,"11,11,11,11|8,7,5,5",,WORLD_CUP,WS,316,Qualification,CHENG I-Ching (TPE),LAY Jian Fang (AUS)
-Women's World Cup Sendai 2015,2015-10-30,LIU Jia,CHENG I-Ching,4,0,"11,11,11,11|7,3,7,8",,WORLD_CUP,WS,316,Qualification,CHENG I-Ching (TPE),LIU Jia (AUT)
-Women's World Cup Sendai 2015,2015-10-30,LIU Jia,LAY Jian Fang,4,2,"11,4,11,7,11,11|6,11,6,11,8,6",,WORLD_CUP,WS,316,Qualification,LIU Jia (AUT),LAY Jian Fang (AUS)
-Women's World Cup Sendai 2015,2015-10-30,MESHREF Dina,DOO Hoi Kem,4,2,"10,11,11,11,4,14|12,8,4,5,11,12",,WORLD_CUP,WS,316,Qualification,DOO Hoi Kem (HKG),MESHREF Dina (EGY)
-Women's World Cup Sendai 2015,2015-10-30,LI Jiao,DOO Hoi Kem,4,1,"11,3,15,16,11|7,11,13,14,4",,WORLD_CUP,WS,316,Qualification,DOO Hoi Kem (HKG),LI Jiao (NED)
-Women's World Cup Sendai 2015,2015-10-30,LI Jiao,MESHREF Dina,4,0,"11,11,11,11|7,5,5,4",,WORLD_CUP,WS,316,Qualification,LI Jiao (NED),MESHREF Dina (EGY)
-Women's World Cup Sendai 2015,2015-10-30,HU Melek,ZHANG Mo,4,2,"9,12,11,11,4,12|11,10,7,9,11,10",,WORLD_CUP,WS,316,Qualification,HU Melek (TUR),ZHANG Mo (CAN)
-Women's World Cup Sendai 2015,2015-10-30,HU Melek,IVANCAN Irene,4,2,"11,10,11,11,7,11|8,12,9,9,11,2",,WORLD_CUP,WS,316,Qualification,HU Melek (TUR),IVANCAN Irene (GER)
-Women's World Cup Sendai 2015,2015-10-30,IVANCAN Irene,ZHANG Mo,4,1,"11,11,11,11,11|8,5,13,4,4",,WORLD_CUP,WS,316,Qualification,IVANCAN Irene (GER),ZHANG Mo (CAN)
-Women's World Cup Sendai 2015,2015-10-30,SOLJA Petrissa,KUMAHARA Luca,4,2,"10,11,11,2,11,11|12,9,7,11,2,3",,WORLD_CUP,WS,316,Qualification,SOLJA Petrissa (GER),KUMAHARA Luca (BRA)
-Women's World Cup Sendai 2015,2015-10-30,SOLJA Petrissa,POTA Georgina,4,0,"15,11,11,11|13,4,7,7",,WORLD_CUP,WS,316,Qualification,SOLJA Petrissa (GER),POTA Georgina (HUN)
-Women's World Cup Sendai 2015,2015-10-30,POTA Georgina,KUMAHARA Luca,4,1,"11,11,11,3,11|6,8,5,11,8",,WORLD_CUP,WS,316,Qualification,POTA Georgina (HUN),KUMAHARA Luca (BRA)
-Women's World Cup Sendai 2015,2015-10-30,LIU Shiwen,CHENG I-Ching,4,1,"12,11,8,11,11|10,4,11,3,5",R16,WORLD_CUP,WS,316,Main Draw,LIU Shiwen (CHN),CHENG I-Ching (TPE)
-Women's World Cup Sendai 2015,2015-10-30,HU Melek,LI Jie,4,0,"11,13,13,11|4,11,11,5",R16,WORLD_CUP,WS,316,Main Draw,HU Melek (TUR),LI Jie (NED)
-Women's World Cup Sendai 2015,2015-10-30,SOLJA Petrissa,FENG Tianwei,4,0,"11,11,11,12|7,8,4,10",R16,WORLD_CUP,WS,316,Main Draw,FENG Tianwei (SGP),SOLJA Petrissa (GER)
-Women's World Cup Sendai 2015,2015-10-30,FUKUHARA Ai,MESHREF Dina,4,1,"11,6,11,15,11|4,11,3,13,6",R16,WORLD_CUP,WS,316,Main Draw,MESHREF Dina (EGY),FUKUHARA Ai (JPN)
-Women's World Cup Sendai 2015,2015-10-30,ISHIKAWA Kasumi,IVANCAN Irene,4,0,"11,11,11,11|4,6,7,3",R16,WORLD_CUP,WS,316,Main Draw,ISHIKAWA Kasumi (JPN),IVANCAN Irene (GER)
-Women's World Cup Sendai 2015,2015-10-30,LIU Jia,SUH Hyo Won,4,1,"9,11,11,11,11|11,9,9,5,7",R16,WORLD_CUP,WS,316,Main Draw,LIU Jia (AUT),SUH Hyo Won (KOR)
-Women's World Cup Sendai 2015,2015-10-30,LI Jiao,YANG Ha Eun,4,1,"10,11,11,11,11|12,9,8,7,8",R16,WORLD_CUP,WS,316,Main Draw,YANG Ha Eun (KOR),LI Jiao (NED)
-Women's World Cup Sendai 2015,2015-10-30,ZHU Yuling,POTA Georgina,4,3,"10,10,8,11,11,11,11|12,12,11,5,8,7,6",R16,WORLD_CUP,WS,316,Main Draw,POTA Georgina (HUN),ZHU Yuling (MAC)
-Women's World Cup Sendai 2015,2015-10-30,LIU Shiwen,HU Melek,4,1,"10,11,11,11,11|12,4,3,1,5",QF,WORLD_CUP,WS,316,Main Draw,LIU Shiwen (CHN),HU Melek (TUR)
-Women's World Cup Sendai 2015,2015-10-30,SOLJA Petrissa,FUKUHARA Ai,4,3,"8,6,2,14,11,11,11|11,11,11,12,5,8,6",QF,WORLD_CUP,WS,316,Main Draw,SOLJA Petrissa (GER),FUKUHARA Ai (JPN)
-Women's World Cup Sendai 2015,2015-10-30,ISHIKAWA Kasumi,LIU Jia,4,2,"11,6,5,17,11,11|8,11,11,15,3,7",QF,WORLD_CUP,WS,316,Main Draw,ISHIKAWA Kasumi (JPN),LIU Jia (AUT)
-Women's World Cup Sendai 2015,2015-10-30,LI Jiao,ZHU Yuling,4,2,"11,9,11,11,2,12|8,11,9,8,11,10",QF,WORLD_CUP,WS,316,Main Draw,LI Jiao (NED),ZHU Yuling (MAC)
-Women's World Cup Sendai 2015,2015-10-30,LIU Shiwen,SOLJA Petrissa,4,0,"11,12,11,11|8,10,3,3",SF,WORLD_CUP,WS,316,Main Draw,LIU Shiwen (CHN),SOLJA Petrissa (GER)
-Women's World Cup Sendai 2015,2015-10-30,ISHIKAWA Kasumi,LI Jiao,4,2,"6,9,11,11,15,11|11,11,8,6,13,5",SF,WORLD_CUP,WS,316,Main Draw,ISHIKAWA Kasumi (JPN),LI Jiao (NED)
-Women's World Cup Sendai 2015,2015-10-30,LIU Shiwen,ISHIKAWA Kasumi,4,0,"14,11,11,11|12,2,9,2",F,WORLD_CUP,WS,316,Main Draw,LIU Shiwen (CHN),ISHIKAWA Kasumi (JPN)
-Women's World Cup Sendai 2015,2015-10-30,SOLJA Petrissa,LI Jiao,4,2,"7,6,11,11,12,11|11,11,2,8,10,8",3RD,WORLD_CUP,WS,316,Position Draw,SOLJA Petrissa (GER),LI Jiao (NED)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Women's World Cup Sendai 2015,2015-10-30,CHENG I-Ching,LAY Jian Fang,4,0,"11,11,11,11|8,7,5,5",,WORLD_CUP,WS,316,Qualification,CHENG I-Ching (TPE),LAY Jian Fang (AUS),CHENG I-Ching
+Women's World Cup Sendai 2015,2015-10-30,LIU Jia,CHENG I-Ching,4,0,"11,11,11,11|7,3,7,8",,WORLD_CUP,WS,316,Qualification,CHENG I-Ching (TPE),LIU Jia (AUT),LIU Jia
+Women's World Cup Sendai 2015,2015-10-30,LIU Jia,LAY Jian Fang,4,2,"11,4,11,7,11,11|6,11,6,11,8,6",,WORLD_CUP,WS,316,Qualification,LIU Jia (AUT),LAY Jian Fang (AUS),LIU Jia
+Women's World Cup Sendai 2015,2015-10-30,MESHREF Dina,DOO Hoi Kem,4,2,"10,11,11,11,4,14|12,8,4,5,11,12",,WORLD_CUP,WS,316,Qualification,DOO Hoi Kem (HKG),MESHREF Dina (EGY),MESHREF Dina
+Women's World Cup Sendai 2015,2015-10-30,LI Jiao,DOO Hoi Kem,4,1,"11,3,15,16,11|7,11,13,14,4",,WORLD_CUP,WS,316,Qualification,DOO Hoi Kem (HKG),LI Jiao (NED),LI Jiao
+Women's World Cup Sendai 2015,2015-10-30,LI Jiao,MESHREF Dina,4,0,"11,11,11,11|7,5,5,4",,WORLD_CUP,WS,316,Qualification,LI Jiao (NED),MESHREF Dina (EGY),LI Jiao
+Women's World Cup Sendai 2015,2015-10-30,HU Melek,ZHANG Mo,4,2,"9,12,11,11,4,12|11,10,7,9,11,10",,WORLD_CUP,WS,316,Qualification,HU Melek (TUR),ZHANG Mo (CAN),HU Melek
+Women's World Cup Sendai 2015,2015-10-30,HU Melek,IVANCAN Irene,4,2,"11,10,11,11,7,11|8,12,9,9,11,2",,WORLD_CUP,WS,316,Qualification,HU Melek (TUR),IVANCAN Irene (GER),HU Melek
+Women's World Cup Sendai 2015,2015-10-30,IVANCAN Irene,ZHANG Mo,4,1,"11,11,11,11,11|8,5,13,4,4",,WORLD_CUP,WS,316,Qualification,IVANCAN Irene (GER),ZHANG Mo (CAN),IVANCAN Irene
+Women's World Cup Sendai 2015,2015-10-30,SOLJA Petrissa,KUMAHARA Luca,4,2,"10,11,11,2,11,11|12,9,7,11,2,3",,WORLD_CUP,WS,316,Qualification,SOLJA Petrissa (GER),KUMAHARA Luca (BRA),SOLJA Petrissa
+Women's World Cup Sendai 2015,2015-10-30,SOLJA Petrissa,POTA Georgina,4,0,"15,11,11,11|13,4,7,7",,WORLD_CUP,WS,316,Qualification,SOLJA Petrissa (GER),POTA Georgina (HUN),SOLJA Petrissa
+Women's World Cup Sendai 2015,2015-10-30,POTA Georgina,KUMAHARA Luca,4,1,"11,11,11,3,11|6,8,5,11,8",,WORLD_CUP,WS,316,Qualification,POTA Georgina (HUN),KUMAHARA Luca (BRA),POTA Georgina
+Women's World Cup Sendai 2015,2015-10-30,LIU Shiwen,CHENG I-Ching,4,1,"12,11,8,11,11|10,4,11,3,5",R16,WORLD_CUP,WS,316,Main Draw,LIU Shiwen (CHN),CHENG I-Ching (TPE),LIU Shiwen
+Women's World Cup Sendai 2015,2015-10-30,HU Melek,LI Jie,4,0,"11,13,13,11|4,11,11,5",R16,WORLD_CUP,WS,316,Main Draw,HU Melek (TUR),LI Jie (NED),HU Melek
+Women's World Cup Sendai 2015,2015-10-30,SOLJA Petrissa,FENG Tianwei,4,0,"11,11,11,12|7,8,4,10",R16,WORLD_CUP,WS,316,Main Draw,FENG Tianwei (SGP),SOLJA Petrissa (GER),SOLJA Petrissa
+Women's World Cup Sendai 2015,2015-10-30,FUKUHARA Ai,MESHREF Dina,4,1,"11,6,11,15,11|4,11,3,13,6",R16,WORLD_CUP,WS,316,Main Draw,MESHREF Dina (EGY),FUKUHARA Ai (JPN),FUKUHARA Ai
+Women's World Cup Sendai 2015,2015-10-30,ISHIKAWA Kasumi,IVANCAN Irene,4,0,"11,11,11,11|4,6,7,3",R16,WORLD_CUP,WS,316,Main Draw,ISHIKAWA Kasumi (JPN),IVANCAN Irene (GER),ISHIKAWA Kasumi
+Women's World Cup Sendai 2015,2015-10-30,LIU Jia,SUH Hyo Won,4,1,"9,11,11,11,11|11,9,9,5,7",R16,WORLD_CUP,WS,316,Main Draw,LIU Jia (AUT),SUH Hyo Won (KOR),LIU Jia
+Women's World Cup Sendai 2015,2015-10-30,LI Jiao,YANG Ha Eun,4,1,"10,11,11,11,11|12,9,8,7,8",R16,WORLD_CUP,WS,316,Main Draw,YANG Ha Eun (KOR),LI Jiao (NED),LI Jiao
+Women's World Cup Sendai 2015,2015-10-30,ZHU Yuling,POTA Georgina,4,3,"10,10,8,11,11,11,11|12,12,11,5,8,7,6",R16,WORLD_CUP,WS,316,Main Draw,POTA Georgina (HUN),ZHU Yuling (MAC),ZHU Yuling
+Women's World Cup Sendai 2015,2015-10-30,LIU Shiwen,HU Melek,4,1,"10,11,11,11,11|12,4,3,1,5",QF,WORLD_CUP,WS,316,Main Draw,LIU Shiwen (CHN),HU Melek (TUR),LIU Shiwen
+Women's World Cup Sendai 2015,2015-10-30,SOLJA Petrissa,FUKUHARA Ai,4,3,"8,6,2,14,11,11,11|11,11,11,12,5,8,6",QF,WORLD_CUP,WS,316,Main Draw,SOLJA Petrissa (GER),FUKUHARA Ai (JPN),SOLJA Petrissa
+Women's World Cup Sendai 2015,2015-10-30,ISHIKAWA Kasumi,LIU Jia,4,2,"11,6,5,17,11,11|8,11,11,15,3,7",QF,WORLD_CUP,WS,316,Main Draw,ISHIKAWA Kasumi (JPN),LIU Jia (AUT),ISHIKAWA Kasumi
+Women's World Cup Sendai 2015,2015-10-30,LI Jiao,ZHU Yuling,4,2,"11,9,11,11,2,12|8,11,9,8,11,10",QF,WORLD_CUP,WS,316,Main Draw,LI Jiao (NED),ZHU Yuling (MAC),LI Jiao
+Women's World Cup Sendai 2015,2015-10-30,LIU Shiwen,SOLJA Petrissa,4,0,"11,12,11,11|8,10,3,3",SF,WORLD_CUP,WS,316,Main Draw,LIU Shiwen (CHN),SOLJA Petrissa (GER),LIU Shiwen
+Women's World Cup Sendai 2015,2015-10-30,ISHIKAWA Kasumi,LI Jiao,4,2,"6,9,11,11,15,11|11,11,8,6,13,5",SF,WORLD_CUP,WS,316,Main Draw,ISHIKAWA Kasumi (JPN),LI Jiao (NED),ISHIKAWA Kasumi
+Women's World Cup Sendai 2015,2015-10-30,LIU Shiwen,ISHIKAWA Kasumi,4,0,"14,11,11,11|12,2,9,2",F,WORLD_CUP,WS,316,Main Draw,LIU Shiwen (CHN),ISHIKAWA Kasumi (JPN),LIU Shiwen
+Women's World Cup Sendai 2015,2015-10-30,SOLJA Petrissa,LI Jiao,4,2,"7,6,11,11,12,11|11,11,2,8,10,8",3RD,WORLD_CUP,WS,316,Position Draw,SOLJA Petrissa (GER),LI Jiao (NED),SOLJA Petrissa

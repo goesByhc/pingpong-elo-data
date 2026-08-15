@@ -1,47 +1,47 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Europe Cup Lausanne 2014,2014-02-07,OVTCHAROV Dimitrij,GARDOS Robert,3,2,"11,8,4,14,11|3,11,11,12,9",,OTHER,MS,350,Qualification,OVTCHAROV Dimitrij (GER),GARDOS Robert (AUT)
-Europe Cup Lausanne 2014,2014-02-07,APOLONIA Tiago,OVTCHAROV Dimitrij,3,2,"10,11,11,4,11|12,5,7,11,7",,OTHER,MS,350,Qualification,OVTCHAROV Dimitrij (GER),APOLONIA Tiago (POR)
-Europe Cup Lausanne 2014,2014-02-07,APOLONIA Tiago,GARDOS Robert,3,1,"11,7,13,11|6,11,11,8",,OTHER,MS,350,Qualification,APOLONIA Tiago (POR),GARDOS Robert (AUT)
-Europe Cup Lausanne 2014,2014-02-07,BOLL Timo,MATTENET Adrien,3,0,"11,12,11|9,10,3",,OTHER,MS,350,Qualification,BOLL Timo (GER),MATTENET Adrien (FRA)
-Europe Cup Lausanne 2014,2014-02-07,BOLL Timo,GACINA Andrej,3,0,"11,11,11|6,7,7",,OTHER,MS,350,Qualification,BOLL Timo (GER),GACINA Andrej (CRO)
-Europe Cup Lausanne 2014,2014-02-07,MATTENET Adrien,GACINA Andrej,3,0,"11,11,11|6,4,6",,OTHER,MS,350,Qualification,GACINA Andrej (CRO),MATTENET Adrien (FRA)
-Europe Cup Lausanne 2014,2014-02-07,FREITAS Marcos,SMIRNOV Alexey,3,0,"11,11,11|7,8,7",,OTHER,MS,350,Qualification,FREITAS Marcos (POR),SMIRNOV Alexey (RUS)
-Europe Cup Lausanne 2014,2014-02-07,FREITAS Marcos,MAZE Michael,3,2,"11,11,6,7,12|4,6,11,11,10",,OTHER,MS,350,Qualification,FREITAS Marcos (POR),MAZE Michael (DEN)
-Europe Cup Lausanne 2014,2014-02-07,MAZE Michael,SMIRNOV Alexey,3,0,"11,11,11|7,8,5",,OTHER,MS,350,Qualification,MAZE Michael (DEN),SMIRNOV Alexey (RUS)
-Europe Cup Lausanne 2014,2014-02-07,CRISAN Adrian,SHIBAEV Alexander,3,2,"11,8,11,10,11|7,11,9,12,7",,OTHER,MS,350,Qualification,CRISAN Adrian (ROU),SHIBAEV Alexander (RUS)
-Europe Cup Lausanne 2014,2014-02-07,GIONIS Panagiotis,CRISAN Adrian,3,1,"13,8,11,11|11,11,6,5",,OTHER,MS,350,Qualification,CRISAN Adrian (ROU),GIONIS Panagiotis (GRE)
-Europe Cup Lausanne 2014,2014-02-07,SHIBAEV Alexander,GIONIS Panagiotis,3,2,"5,11,15,6,11|11,5,13,11,4",,OTHER,MS,350,Qualification,GIONIS Panagiotis (GRE),SHIBAEV Alexander (RUS)
-Europe Cup Lausanne 2014,2014-02-07,LI Jiao,VACENOVSKA Iveta,3,2,"11,8,9,11,11|6,11,11,5,9",,OTHER,WS,350,Qualification,LI Jiao (NED),VACENOVSKA Iveta (CZE)
-Europe Cup Lausanne 2014,2014-02-07,LI Jiao,DODEAN Daniela,3,0,"11,11,11|8,8,5",,OTHER,WS,350,Qualification,LI Jiao (NED),DODEAN Daniela (ROU)
-Europe Cup Lausanne 2014,2014-02-07,VACENOVSKA Iveta,DODEAN Daniela,3,0,"11,11,15|8,9,13",,OTHER,WS,350,Qualification,DODEAN Daniela (ROU),VACENOVSKA Iveta (CZE)
-Europe Cup Lausanne 2014,2014-02-07,PAVLOVICH Viktoria,MORET Rachel,3,1,"11,9,11,11|5,11,5,3",,OTHER,WS,350,Qualification,PAVLOVICH Viktoria (BLR),MORET Rachel (SUI)
-Europe Cup Lausanne 2014,2014-02-07,PAVLOVICH Viktoria,WU Jiaduo,3,0,"12,11,11|10,6,6",,OTHER,WS,350,Qualification,PAVLOVICH Viktoria (BLR),WU Jiaduo (GER)
-Europe Cup Lausanne 2014,2014-02-07,WU Jiaduo,MORET Rachel,3,1,"11,11,11,11|13,7,3,6",,OTHER,WS,350,Qualification,WU Jiaduo (GER),MORET Rachel (SUI)
-Europe Cup Lausanne 2014,2014-02-07,SOLJA Petrissa,SAMARA Elizabeta,3,0,"12,11,11|10,6,3",,OTHER,WS,350,Qualification,SAMARA Elizabeta (ROU),SOLJA Petrissa (GER)
-Europe Cup Lausanne 2014,2014-02-07,LIU Jia,SAMARA Elizabeta,3,2,"4,12,15,11,11|11,10,17,7,6",,OTHER,WS,350,Qualification,SAMARA Elizabeta (ROU),LIU Jia (AUT)
-Europe Cup Lausanne 2014,2014-02-07,LIU Jia,SOLJA Petrissa,3,1,"11,6,11,12|9,11,5,10",,OTHER,WS,350,Qualification,LIU Jia (AUT),SOLJA Petrissa (GER)
-Europe Cup Lausanne 2014,2014-02-07,HU Melek,POTA Georgina,3,2,"11,9,8,11,11|7,11,11,4,6",,OTHER,WS,350,Qualification,HU Melek (TUR),POTA Georgina (HUN)
-Europe Cup Lausanne 2014,2014-02-07,PESOTSKA Margaryta,HU Melek,3,0,"11,11,11|9,7,8",,OTHER,WS,350,Qualification,HU Melek (TUR),PESOTSKA Margaryta (UKR)
-Europe Cup Lausanne 2014,2014-02-07,POTA Georgina,PESOTSKA Margaryta,3,0,"11,11,11|9,7,8",,OTHER,WS,350,Qualification,PESOTSKA Margaryta (UKR),POTA Georgina (HUN)
-Europe Cup Lausanne 2014,2014-02-07,MATTENET Adrien,APOLONIA Tiago,4,2,"11,5,12,4,11,11|5,11,10,11,6,7",QF,OTHER,MS,350,Main Draw,APOLONIA Tiago (POR),MATTENET Adrien (FRA)
-Europe Cup Lausanne 2014,2014-02-07,FREITAS Marcos,SHIBAEV Alexander,4,1,"11,12,11,7,11|7,10,7,11,9",QF,OTHER,MS,350,Main Draw,SHIBAEV Alexander (RUS),FREITAS Marcos (POR)
-Europe Cup Lausanne 2014,2014-02-07,MAZE Michael,GIONIS Panagiotis,4,1,"11,11,11,7,13|5,5,3,11,11",QF,OTHER,MS,350,Main Draw,GIONIS Panagiotis (GRE),MAZE Michael (DEN)
-Europe Cup Lausanne 2014,2014-02-07,OVTCHAROV Dimitrij,BOLL Timo,4,3,"14,11,4,11,8,10,14|12,8,11,7,11,12,12",QF,OTHER,MS,350,Main Draw,OVTCHAROV Dimitrij (GER),BOLL Timo (GER)
-Europe Cup Lausanne 2014,2014-02-07,FREITAS Marcos,MATTENET Adrien,4,0,"11,11,11,11|9,9,1,6",SF,OTHER,MS,350,Main Draw,MATTENET Adrien (FRA),FREITAS Marcos (POR)
-Europe Cup Lausanne 2014,2014-02-07,MAZE Michael,OVTCHAROV Dimitrij,4,2,"7,11,11,11,11,11|11,7,8,7,13,3",SF,OTHER,MS,350,Main Draw,MAZE Michael (DEN),OVTCHAROV Dimitrij (GER)
-Europe Cup Lausanne 2014,2014-02-07,SHIBAEV Alexander,APOLONIA Tiago,4,2,"11,15,11,11,9,11|7,17,9,4,11,8",5-8,OTHER,MS,350,Position Draw,APOLONIA Tiago (POR),SHIBAEV Alexander (RUS)
-Europe Cup Lausanne 2014,2014-02-07,BOLL Timo,GIONIS Panagiotis,4,0,"11,11,11,11|6,0,0,0",5-8,OTHER,MS,350,Position Draw,GIONIS Panagiotis (GRE),BOLL Timo (GER)
-Europe Cup Lausanne 2014,2014-02-07,GIONIS Panagiotis,APOLONIA Tiago,4,3,"11,8,11,11,8,3,13|4,11,9,6,11,11,11",3RD,OTHER,MS,350,Position Draw,APOLONIA Tiago (POR),GIONIS Panagiotis (GRE)
-Europe Cup Lausanne 2014,2014-02-07,OVTCHAROV Dimitrij,MATTENET Adrien,4,2,"8,11,8,11,18,12|11,2,11,9,16,10",3RD,OTHER,MS,350,Position Draw,MATTENET Adrien (FRA),OVTCHAROV Dimitrij (GER)
-Europe Cup Lausanne 2014,2014-02-07,LI Jiao,PESOTSKA Margaryta,4,0,"11,11,11,11|8,7,5,7",QF,OTHER,WS,350,Main Draw,LI Jiao (NED),PESOTSKA Margaryta (UKR)
-Europe Cup Lausanne 2014,2014-02-07,LIU Jia,WU Jiaduo,4,3,"9,12,8,11,11,11,11|11,14,11,8,9,6,7",QF,OTHER,WS,350,Main Draw,WU Jiaduo (GER),LIU Jia (AUT)
-Europe Cup Lausanne 2014,2014-02-07,SOLJA Petrissa,POTA Georgina,4,0,"11,13,11,11|9,11,5,6",QF,OTHER,WS,350,Main Draw,POTA Georgina (HUN),SOLJA Petrissa (GER)
-Europe Cup Lausanne 2014,2014-02-07,PAVLOVICH Viktoria,VACENOVSKA Iveta,4,2,"8,11,11,11,9,11|11,3,5,7,11,5",QF,OTHER,WS,350,Main Draw,VACENOVSKA Iveta (CZE),PAVLOVICH Viktoria (BLR)
-Europe Cup Lausanne 2014,2014-02-07,LIU Jia,LI Jiao,4,2,"11,11,8,11,7,11|4,7,11,8,11,4",SF,OTHER,WS,350,Main Draw,LI Jiao (NED),LIU Jia (AUT)
-Europe Cup Lausanne 2014,2014-02-07,PAVLOVICH Viktoria,SOLJA Petrissa,4,0,"11,11,11,11|5,8,8,8",SF,OTHER,WS,350,Main Draw,SOLJA Petrissa (GER),PAVLOVICH Viktoria (BLR)
-Europe Cup Lausanne 2014,2014-02-07,LIU Jia,PAVLOVICH Viktoria,4,2,"11,6,7,11,14,11|9,11,11,5,12,7",F,OTHER,WS,350,Main Draw,LIU Jia (AUT),PAVLOVICH Viktoria (BLR)
-Europe Cup Lausanne 2014,2014-02-07,WU Jiaduo,PESOTSKA Margaryta,4,1,"11,10,11,11,11|7,12,7,7,9",5-8,OTHER,WS,350,Position Draw,PESOTSKA Margaryta (UKR),WU Jiaduo (GER)
-Europe Cup Lausanne 2014,2014-02-07,POTA Georgina,VACENOVSKA Iveta,4,1,"11,11,17,4,11|9,6,15,11,3",5-8,OTHER,WS,350,Position Draw,POTA Georgina (HUN),VACENOVSKA Iveta (CZE)
-Europe Cup Lausanne 2014,2014-02-07,WU Jiaduo,POTA Georgina,4,0,"11,11,11,11|6,9,7,8",3RD,OTHER,WS,350,Position Draw,WU Jiaduo (GER),POTA Georgina (HUN)
-Europe Cup Lausanne 2014,2014-02-07,VACENOVSKA Iveta,PESOTSKA Margaryta,4,2,"12,7,4,11,11,11|10,11,11,6,6,3",3RD,OTHER,WS,350,Position Draw,PESOTSKA Margaryta (UKR),VACENOVSKA Iveta (CZE)
-Europe Cup Lausanne 2014,2014-02-07,LI Jiao,SOLJA Petrissa,4,1,"11,11,9,11,11|4,5,11,9,8",3RD,OTHER,WS,350,Position Draw,LI Jiao (NED),SOLJA Petrissa (GER)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Europe Cup Lausanne 2014,2014-02-07,OVTCHAROV Dimitrij,GARDOS Robert,3,2,"11,8,4,14,11|3,11,11,12,9",,OTHER,MS,350,Qualification,OVTCHAROV Dimitrij (GER),GARDOS Robert (AUT),OVTCHAROV Dimitrij
+Europe Cup Lausanne 2014,2014-02-07,APOLONIA Tiago,OVTCHAROV Dimitrij,3,2,"10,11,11,4,11|12,5,7,11,7",,OTHER,MS,350,Qualification,OVTCHAROV Dimitrij (GER),APOLONIA Tiago (POR),APOLONIA Tiago
+Europe Cup Lausanne 2014,2014-02-07,APOLONIA Tiago,GARDOS Robert,3,1,"11,7,13,11|6,11,11,8",,OTHER,MS,350,Qualification,APOLONIA Tiago (POR),GARDOS Robert (AUT),APOLONIA Tiago
+Europe Cup Lausanne 2014,2014-02-07,BOLL Timo,MATTENET Adrien,3,0,"11,12,11|9,10,3",,OTHER,MS,350,Qualification,BOLL Timo (GER),MATTENET Adrien (FRA),BOLL Timo
+Europe Cup Lausanne 2014,2014-02-07,BOLL Timo,GACINA Andrej,3,0,"11,11,11|6,7,7",,OTHER,MS,350,Qualification,BOLL Timo (GER),GACINA Andrej (CRO),BOLL Timo
+Europe Cup Lausanne 2014,2014-02-07,MATTENET Adrien,GACINA Andrej,3,0,"11,11,11|6,4,6",,OTHER,MS,350,Qualification,GACINA Andrej (CRO),MATTENET Adrien (FRA),MATTENET Adrien
+Europe Cup Lausanne 2014,2014-02-07,FREITAS Marcos,SMIRNOV Alexey,3,0,"11,11,11|7,8,7",,OTHER,MS,350,Qualification,FREITAS Marcos (POR),SMIRNOV Alexey (RUS),FREITAS Marcos
+Europe Cup Lausanne 2014,2014-02-07,FREITAS Marcos,MAZE Michael,3,2,"11,11,6,7,12|4,6,11,11,10",,OTHER,MS,350,Qualification,FREITAS Marcos (POR),MAZE Michael (DEN),FREITAS Marcos
+Europe Cup Lausanne 2014,2014-02-07,MAZE Michael,SMIRNOV Alexey,3,0,"11,11,11|7,8,5",,OTHER,MS,350,Qualification,MAZE Michael (DEN),SMIRNOV Alexey (RUS),MAZE Michael
+Europe Cup Lausanne 2014,2014-02-07,CRISAN Adrian,SHIBAEV Alexander,3,2,"11,8,11,10,11|7,11,9,12,7",,OTHER,MS,350,Qualification,CRISAN Adrian (ROU),SHIBAEV Alexander (RUS),CRISAN Adrian
+Europe Cup Lausanne 2014,2014-02-07,GIONIS Panagiotis,CRISAN Adrian,3,1,"13,8,11,11|11,11,6,5",,OTHER,MS,350,Qualification,CRISAN Adrian (ROU),GIONIS Panagiotis (GRE),GIONIS Panagiotis
+Europe Cup Lausanne 2014,2014-02-07,SHIBAEV Alexander,GIONIS Panagiotis,3,2,"5,11,15,6,11|11,5,13,11,4",,OTHER,MS,350,Qualification,GIONIS Panagiotis (GRE),SHIBAEV Alexander (RUS),SHIBAEV Alexander
+Europe Cup Lausanne 2014,2014-02-07,LI Jiao,VACENOVSKA Iveta,3,2,"11,8,9,11,11|6,11,11,5,9",,OTHER,WS,350,Qualification,LI Jiao (NED),VACENOVSKA Iveta (CZE),LI Jiao
+Europe Cup Lausanne 2014,2014-02-07,LI Jiao,DODEAN Daniela,3,0,"11,11,11|8,8,5",,OTHER,WS,350,Qualification,LI Jiao (NED),DODEAN Daniela (ROU),LI Jiao
+Europe Cup Lausanne 2014,2014-02-07,VACENOVSKA Iveta,DODEAN Daniela,3,0,"11,11,15|8,9,13",,OTHER,WS,350,Qualification,DODEAN Daniela (ROU),VACENOVSKA Iveta (CZE),VACENOVSKA Iveta
+Europe Cup Lausanne 2014,2014-02-07,PAVLOVICH Viktoria,MORET Rachel,3,1,"11,9,11,11|5,11,5,3",,OTHER,WS,350,Qualification,PAVLOVICH Viktoria (BLR),MORET Rachel (SUI),PAVLOVICH Viktoria
+Europe Cup Lausanne 2014,2014-02-07,PAVLOVICH Viktoria,WU Jiaduo,3,0,"12,11,11|10,6,6",,OTHER,WS,350,Qualification,PAVLOVICH Viktoria (BLR),WU Jiaduo (GER),PAVLOVICH Viktoria
+Europe Cup Lausanne 2014,2014-02-07,WU Jiaduo,MORET Rachel,3,1,"11,11,11,11|13,7,3,6",,OTHER,WS,350,Qualification,WU Jiaduo (GER),MORET Rachel (SUI),WU Jiaduo
+Europe Cup Lausanne 2014,2014-02-07,SOLJA Petrissa,SAMARA Elizabeta,3,0,"12,11,11|10,6,3",,OTHER,WS,350,Qualification,SAMARA Elizabeta (ROU),SOLJA Petrissa (GER),SOLJA Petrissa
+Europe Cup Lausanne 2014,2014-02-07,LIU Jia,SAMARA Elizabeta,3,2,"4,12,15,11,11|11,10,17,7,6",,OTHER,WS,350,Qualification,SAMARA Elizabeta (ROU),LIU Jia (AUT),LIU Jia
+Europe Cup Lausanne 2014,2014-02-07,LIU Jia,SOLJA Petrissa,3,1,"11,6,11,12|9,11,5,10",,OTHER,WS,350,Qualification,LIU Jia (AUT),SOLJA Petrissa (GER),LIU Jia
+Europe Cup Lausanne 2014,2014-02-07,HU Melek,POTA Georgina,3,2,"11,9,8,11,11|7,11,11,4,6",,OTHER,WS,350,Qualification,HU Melek (TUR),POTA Georgina (HUN),HU Melek
+Europe Cup Lausanne 2014,2014-02-07,PESOTSKA Margaryta,HU Melek,3,0,"11,11,11|9,7,8",,OTHER,WS,350,Qualification,HU Melek (TUR),PESOTSKA Margaryta (UKR),PESOTSKA Margaryta
+Europe Cup Lausanne 2014,2014-02-07,POTA Georgina,PESOTSKA Margaryta,3,0,"11,11,11|9,7,8",,OTHER,WS,350,Qualification,PESOTSKA Margaryta (UKR),POTA Georgina (HUN),POTA Georgina
+Europe Cup Lausanne 2014,2014-02-07,MATTENET Adrien,APOLONIA Tiago,4,2,"11,5,12,4,11,11|5,11,10,11,6,7",QF,OTHER,MS,350,Main Draw,APOLONIA Tiago (POR),MATTENET Adrien (FRA),MATTENET Adrien
+Europe Cup Lausanne 2014,2014-02-07,FREITAS Marcos,SHIBAEV Alexander,4,1,"11,12,11,7,11|7,10,7,11,9",QF,OTHER,MS,350,Main Draw,SHIBAEV Alexander (RUS),FREITAS Marcos (POR),FREITAS Marcos
+Europe Cup Lausanne 2014,2014-02-07,MAZE Michael,GIONIS Panagiotis,4,1,"11,11,11,7,13|5,5,3,11,11",QF,OTHER,MS,350,Main Draw,GIONIS Panagiotis (GRE),MAZE Michael (DEN),MAZE Michael
+Europe Cup Lausanne 2014,2014-02-07,OVTCHAROV Dimitrij,BOLL Timo,4,3,"14,11,4,11,8,10,14|12,8,11,7,11,12,12",QF,OTHER,MS,350,Main Draw,OVTCHAROV Dimitrij (GER),BOLL Timo (GER),OVTCHAROV Dimitrij
+Europe Cup Lausanne 2014,2014-02-07,FREITAS Marcos,MATTENET Adrien,4,0,"11,11,11,11|9,9,1,6",SF,OTHER,MS,350,Main Draw,MATTENET Adrien (FRA),FREITAS Marcos (POR),FREITAS Marcos
+Europe Cup Lausanne 2014,2014-02-07,MAZE Michael,OVTCHAROV Dimitrij,4,2,"7,11,11,11,11,11|11,7,8,7,13,3",SF,OTHER,MS,350,Main Draw,MAZE Michael (DEN),OVTCHAROV Dimitrij (GER),MAZE Michael
+Europe Cup Lausanne 2014,2014-02-07,SHIBAEV Alexander,APOLONIA Tiago,4,2,"11,15,11,11,9,11|7,17,9,4,11,8",5-8,OTHER,MS,350,Position Draw,APOLONIA Tiago (POR),SHIBAEV Alexander (RUS),SHIBAEV Alexander
+Europe Cup Lausanne 2014,2014-02-07,BOLL Timo,GIONIS Panagiotis,4,0,"11,11,11,11|6,0,0,0",5-8,OTHER,MS,350,Position Draw,GIONIS Panagiotis (GRE),BOLL Timo (GER),BOLL Timo
+Europe Cup Lausanne 2014,2014-02-07,GIONIS Panagiotis,APOLONIA Tiago,4,3,"11,8,11,11,8,3,13|4,11,9,6,11,11,11",3RD,OTHER,MS,350,Position Draw,APOLONIA Tiago (POR),GIONIS Panagiotis (GRE),GIONIS Panagiotis
+Europe Cup Lausanne 2014,2014-02-07,OVTCHAROV Dimitrij,MATTENET Adrien,4,2,"8,11,8,11,18,12|11,2,11,9,16,10",3RD,OTHER,MS,350,Position Draw,MATTENET Adrien (FRA),OVTCHAROV Dimitrij (GER),OVTCHAROV Dimitrij
+Europe Cup Lausanne 2014,2014-02-07,LI Jiao,PESOTSKA Margaryta,4,0,"11,11,11,11|8,7,5,7",QF,OTHER,WS,350,Main Draw,LI Jiao (NED),PESOTSKA Margaryta (UKR),LI Jiao
+Europe Cup Lausanne 2014,2014-02-07,LIU Jia,WU Jiaduo,4,3,"9,12,8,11,11,11,11|11,14,11,8,9,6,7",QF,OTHER,WS,350,Main Draw,WU Jiaduo (GER),LIU Jia (AUT),LIU Jia
+Europe Cup Lausanne 2014,2014-02-07,SOLJA Petrissa,POTA Georgina,4,0,"11,13,11,11|9,11,5,6",QF,OTHER,WS,350,Main Draw,POTA Georgina (HUN),SOLJA Petrissa (GER),SOLJA Petrissa
+Europe Cup Lausanne 2014,2014-02-07,PAVLOVICH Viktoria,VACENOVSKA Iveta,4,2,"8,11,11,11,9,11|11,3,5,7,11,5",QF,OTHER,WS,350,Main Draw,VACENOVSKA Iveta (CZE),PAVLOVICH Viktoria (BLR),PAVLOVICH Viktoria
+Europe Cup Lausanne 2014,2014-02-07,LIU Jia,LI Jiao,4,2,"11,11,8,11,7,11|4,7,11,8,11,4",SF,OTHER,WS,350,Main Draw,LI Jiao (NED),LIU Jia (AUT),LIU Jia
+Europe Cup Lausanne 2014,2014-02-07,PAVLOVICH Viktoria,SOLJA Petrissa,4,0,"11,11,11,11|5,8,8,8",SF,OTHER,WS,350,Main Draw,SOLJA Petrissa (GER),PAVLOVICH Viktoria (BLR),PAVLOVICH Viktoria
+Europe Cup Lausanne 2014,2014-02-07,LIU Jia,PAVLOVICH Viktoria,4,2,"11,6,7,11,14,11|9,11,11,5,12,7",F,OTHER,WS,350,Main Draw,LIU Jia (AUT),PAVLOVICH Viktoria (BLR),LIU Jia
+Europe Cup Lausanne 2014,2014-02-07,WU Jiaduo,PESOTSKA Margaryta,4,1,"11,10,11,11,11|7,12,7,7,9",5-8,OTHER,WS,350,Position Draw,PESOTSKA Margaryta (UKR),WU Jiaduo (GER),WU Jiaduo
+Europe Cup Lausanne 2014,2014-02-07,POTA Georgina,VACENOVSKA Iveta,4,1,"11,11,17,4,11|9,6,15,11,3",5-8,OTHER,WS,350,Position Draw,POTA Georgina (HUN),VACENOVSKA Iveta (CZE),POTA Georgina
+Europe Cup Lausanne 2014,2014-02-07,WU Jiaduo,POTA Georgina,4,0,"11,11,11,11|6,9,7,8",3RD,OTHER,WS,350,Position Draw,WU Jiaduo (GER),POTA Georgina (HUN),WU Jiaduo
+Europe Cup Lausanne 2014,2014-02-07,VACENOVSKA Iveta,PESOTSKA Margaryta,4,2,"12,7,4,11,11,11|10,11,11,6,6,3",3RD,OTHER,WS,350,Position Draw,PESOTSKA Margaryta (UKR),VACENOVSKA Iveta (CZE),VACENOVSKA Iveta
+Europe Cup Lausanne 2014,2014-02-07,LI Jiao,SOLJA Petrissa,4,1,"11,11,9,11,11|4,5,11,9,8",3RD,OTHER,WS,350,Position Draw,LI Jiao (NED),SOLJA Petrissa (GER),LI Jiao

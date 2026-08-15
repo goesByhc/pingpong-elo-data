@@ -1,41 +1,41 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-ITTF Latin American Cup Asuncion 2014,2014-06-06,TSUBOI Gustavo,TORANZOS Alejandro,4,1,"11,10,11,11,12|7,12,4,6,10",,OTHER,MS,333,Qualification,TSUBOI Gustavo (BRA),TORANZOS Alejandro (PAR)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,TSUBOI Gustavo,ALTO Gaston,4,3,"11,9,8,9,11,12,11|5,11,11,11,3,10,9",,OTHER,MS,333,Qualification,TSUBOI Gustavo (BRA),ALTO Gaston (ARG)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,ALTO Gaston,TORANZOS Alejandro,4,0,"11,11,11,11|8,6,6,5",,OTHER,MS,333,Qualification,ALTO Gaston (ARG),TORANZOS Alejandro (PAR)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,MATSUMOTO Cazuo,TENTI Fermin,4,1,"13,11,11,8,11|11,1,6,11,3",,OTHER,MS,333,Qualification,MATSUMOTO Cazuo (BRA),TENTI Fermin (ARG)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,MATSUMOTO Cazuo,MINO Alberto,4,2,"11,11,11,6,7,11|8,1,4,11,11,9",,OTHER,MS,333,Qualification,MATSUMOTO Cazuo (BRA),MINO Alberto (ECU)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,MINO Alberto,TENTI Fermin,4,2,"12,11,11,6,1,12|10,9,8,11,11,10",,OTHER,MS,333,Qualification,MINO Alberto (ECU),TENTI Fermin (ARG)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,ISHIY Vitor,LIU Song,4,1,"11,11,11,8,11|2,8,8,11,6",,OTHER,MS,333,Qualification,LIU Song (ARG),ISHIY Vitor (BRA)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,AGUIRRE Marcelo,LIU Song,4,1,"11,11,11,7,11|7,8,7,11,5",,OTHER,MS,333,Qualification,LIU Song (ARG),AGUIRRE Marcelo (PAR)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,ISHIY Vitor,AGUIRRE Marcelo,4,1,"11,11,5,11,14|9,3,11,8,12",,OTHER,MS,333,Qualification,AGUIRRE Marcelo (PAR),ISHIY Vitor (BRA)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,MADRID Marcos,ST LOUIS Dexter,4,2,"11,11,9,11,7,11|9,9,11,6,11,6",,OTHER,MS,333,Qualification,MADRID Marcos (MEX),ST LOUIS Dexter (TTO)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,MADRID Marcos,GONZALEZ Daniel,4,1,"11,5,11,11,11|9,11,7,5,9",,OTHER,MS,333,Qualification,MADRID Marcos (MEX),GONZALEZ Daniel (PUR)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,GONZALEZ Daniel,ST LOUIS Dexter,4,2,"7,11,11,11,5,12|11,5,3,9,11,10",,OTHER,MS,333,Qualification,GONZALEZ Daniel (PUR),ST LOUIS Dexter (TTO)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,KUMAHARA Luca,MADRID Mercedes,4,2,"8,11,11,11,10,12|11,3,6,9,12,10",,OTHER,WS,333,Qualification,KUMAHARA Luca (BRA),MADRID Mercedes (MEX)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,KUMAHARA Luca,CORDERO Carelyn,4,0,"14,12,11,11|12,10,8,5",,OTHER,WS,333,Qualification,KUMAHARA Luca (BRA),CORDERO Carelyn (PUR)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,CORDERO Carelyn,MADRID Mercedes,4,2,"7,11,12,11,9,11|11,9,10,8,11,7",,OTHER,WS,333,Qualification,CORDERO Carelyn (PUR),MADRID Mercedes (MEX)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,GUI Lin,CHUNG Rheann,4,0,"11,11,11,11|2,4,4,6",,OTHER,WS,333,Qualification,GUI Lin (BRA),CHUNG Rheann (TTO)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,GUI Lin,VEGA Paulina,4,0,"11,11,11,11|8,5,5,6",,OTHER,WS,333,Qualification,GUI Lin (BRA),VEGA Paulina (CHI)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,CHUNG Rheann,VEGA Paulina,4,1,"11,2,11,11,11|9,11,6,4,7",,OTHER,WS,333,Qualification,VEGA Paulina (CHI),CHUNG Rheann (TTO)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,SILVA Ligia,BRITO Eva,4,1,"11,11,4,12,11|7,3,11,10,4",,OTHER,WS,333,Qualification,SILVA Ligia (BRA),BRITO Eva (DOM)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,SILVA Ligia,ARVELO Gremlis,4,0,"11,11,11,11|2,5,5,6",,OTHER,WS,333,Qualification,SILVA Ligia (BRA),ARVELO Gremlis (VEN)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,ARVELO Gremlis,BRITO Eva,4,2,"11,11,10,6,11,11|8,8,12,11,4,3",,OTHER,WS,333,Qualification,ARVELO Gremlis (VEN),BRITO Eva (DOM)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,MEDINA Paula,MARTINEZ Fatima,4,1,"11,11,11,7,11|6,4,3,11,7",,OTHER,WS,333,Qualification,MEDINA Paula (COL),MARTINEZ Fatima (PAR)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,MEDINA Paula,DIAZ Adriana,4,1,"11,8,11,11,11|7,11,4,6,5",,OTHER,WS,333,Qualification,MEDINA Paula (COL),DIAZ Adriana (PUR)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,DIAZ Adriana,MARTINEZ Fatima,4,1,"9,11,11,11,11|11,7,8,7,9",,OTHER,WS,333,Qualification,DIAZ Adriana (PUR),MARTINEZ Fatima (PAR)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,KUMAHARA Luca,CHUNG Rheann,4,1,"11,11,11,11,11|6,6,7,13,9",QF,OTHER,WS,333,Main Draw,KUMAHARA Luca (BRA),CHUNG Rheann (TTO)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,ARVELO Gremlis,MEDINA Paula,4,1,"13,11,11,12,11|11,1,8,14,6",QF,OTHER,WS,333,Main Draw,ARVELO Gremlis (VEN),MEDINA Paula (COL)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,SILVA Ligia,CORDERO Carelyn,4,0,"11,11,11,11|9,9,6,3",QF,OTHER,WS,333,Main Draw,SILVA Ligia (BRA),CORDERO Carelyn (PUR)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,DIAZ Adriana,GUI Lin,4,1,"11,11,11,6,11|8,9,7,11,8",QF,OTHER,WS,333,Main Draw,DIAZ Adriana (PUR),GUI Lin (BRA)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,KUMAHARA Luca,ARVELO Gremlis,4,0,"11,11,11,11|4,8,9,6",SF,OTHER,WS,333,Main Draw,KUMAHARA Luca (BRA),ARVELO Gremlis (VEN)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,SILVA Ligia,DIAZ Adriana,4,3,"3,8,11,11,11,11,11|11,11,13,8,7,6,5",SF,OTHER,WS,333,Main Draw,SILVA Ligia (BRA),DIAZ Adriana (PUR)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,KUMAHARA Luca,SILVA Ligia,4,2,"8,8,11,11,11,13|11,11,9,8,6,11",F,OTHER,WS,333,Main Draw,KUMAHARA Luca (BRA),SILVA Ligia (BRA)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,ARVELO Gremlis,DIAZ Adriana,4,2,"11,11,7,11,6,13|6,5,11,6,11,11",3RD,OTHER,WS,333,Position Draw,ARVELO Gremlis (VEN),DIAZ Adriana (PUR)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,TSUBOI Gustavo,MINO Alberto,4,0,"11,11,11,11|5,5,9,9",QF,OTHER,MS,333,Main Draw,TSUBOI Gustavo (BRA),MINO Alberto (ECU)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,MADRID Marcos,AGUIRRE Marcelo,4,1,"11,8,11,12,11|8,11,7,10,4",QF,OTHER,MS,333,Main Draw,AGUIRRE Marcelo (PAR),MADRID Marcos (MEX)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,ISHIY Vitor,ALTO Gaston,4,0,"11,11,11,11|6,7,8,4",QF,OTHER,MS,333,Main Draw,ISHIY Vitor (BRA),ALTO Gaston (ARG)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,MATSUMOTO Cazuo,GONZALEZ Daniel,4,3,"11,10,11,8,8,11,11|4,12,3,11,11,3,6",QF,OTHER,MS,333,Main Draw,GONZALEZ Daniel (PUR),MATSUMOTO Cazuo (BRA)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,MADRID Marcos,TSUBOI Gustavo,4,1,"8,11,11,11,11|11,4,8,4,7",SF,OTHER,MS,333,Main Draw,TSUBOI Gustavo (BRA),MADRID Marcos (MEX)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,MATSUMOTO Cazuo,ISHIY Vitor,4,1,"9,11,12,14,11|11,5,10,12,9",SF,OTHER,MS,333,Main Draw,ISHIY Vitor (BRA),MATSUMOTO Cazuo (BRA)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,MATSUMOTO Cazuo,MADRID Marcos,4,1,"13,11,14,11,11|15,7,12,7,9",F,OTHER,MS,333,Main Draw,MADRID Marcos (MEX),MATSUMOTO Cazuo (BRA)
-ITTF Latin American Cup Asuncion 2014,2014-06-06,TSUBOI Gustavo,ISHIY Vitor,4,0,"11,11,11,11|7,2,8,9",3RD,OTHER,MS,333,Position Draw,TSUBOI Gustavo (BRA),ISHIY Vitor (BRA)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+ITTF Latin American Cup Asuncion 2014,2014-06-06,TSUBOI Gustavo,TORANZOS Alejandro,4,1,"11,10,11,11,12|7,12,4,6,10",,OTHER,MS,333,Qualification,TSUBOI Gustavo (BRA),TORANZOS Alejandro (PAR),TSUBOI Gustavo
+ITTF Latin American Cup Asuncion 2014,2014-06-06,TSUBOI Gustavo,ALTO Gaston,4,3,"11,9,8,9,11,12,11|5,11,11,11,3,10,9",,OTHER,MS,333,Qualification,TSUBOI Gustavo (BRA),ALTO Gaston (ARG),TSUBOI Gustavo
+ITTF Latin American Cup Asuncion 2014,2014-06-06,ALTO Gaston,TORANZOS Alejandro,4,0,"11,11,11,11|8,6,6,5",,OTHER,MS,333,Qualification,ALTO Gaston (ARG),TORANZOS Alejandro (PAR),ALTO Gaston
+ITTF Latin American Cup Asuncion 2014,2014-06-06,MATSUMOTO Cazuo,TENTI Fermin,4,1,"13,11,11,8,11|11,1,6,11,3",,OTHER,MS,333,Qualification,MATSUMOTO Cazuo (BRA),TENTI Fermin (ARG),MATSUMOTO Cazuo
+ITTF Latin American Cup Asuncion 2014,2014-06-06,MATSUMOTO Cazuo,MINO Alberto,4,2,"11,11,11,6,7,11|8,1,4,11,11,9",,OTHER,MS,333,Qualification,MATSUMOTO Cazuo (BRA),MINO Alberto (ECU),MATSUMOTO Cazuo
+ITTF Latin American Cup Asuncion 2014,2014-06-06,MINO Alberto,TENTI Fermin,4,2,"12,11,11,6,1,12|10,9,8,11,11,10",,OTHER,MS,333,Qualification,MINO Alberto (ECU),TENTI Fermin (ARG),MINO Alberto
+ITTF Latin American Cup Asuncion 2014,2014-06-06,ISHIY Vitor,LIU Song,4,1,"11,11,11,8,11|2,8,8,11,6",,OTHER,MS,333,Qualification,LIU Song (ARG),ISHIY Vitor (BRA),ISHIY Vitor
+ITTF Latin American Cup Asuncion 2014,2014-06-06,AGUIRRE Marcelo,LIU Song,4,1,"11,11,11,7,11|7,8,7,11,5",,OTHER,MS,333,Qualification,LIU Song (ARG),AGUIRRE Marcelo (PAR),AGUIRRE Marcelo
+ITTF Latin American Cup Asuncion 2014,2014-06-06,ISHIY Vitor,AGUIRRE Marcelo,4,1,"11,11,5,11,14|9,3,11,8,12",,OTHER,MS,333,Qualification,AGUIRRE Marcelo (PAR),ISHIY Vitor (BRA),ISHIY Vitor
+ITTF Latin American Cup Asuncion 2014,2014-06-06,MADRID Marcos,ST LOUIS Dexter,4,2,"11,11,9,11,7,11|9,9,11,6,11,6",,OTHER,MS,333,Qualification,MADRID Marcos (MEX),ST LOUIS Dexter (TTO),MADRID Marcos
+ITTF Latin American Cup Asuncion 2014,2014-06-06,MADRID Marcos,GONZALEZ Daniel,4,1,"11,5,11,11,11|9,11,7,5,9",,OTHER,MS,333,Qualification,MADRID Marcos (MEX),GONZALEZ Daniel (PUR),MADRID Marcos
+ITTF Latin American Cup Asuncion 2014,2014-06-06,GONZALEZ Daniel,ST LOUIS Dexter,4,2,"7,11,11,11,5,12|11,5,3,9,11,10",,OTHER,MS,333,Qualification,GONZALEZ Daniel (PUR),ST LOUIS Dexter (TTO),GONZALEZ Daniel
+ITTF Latin American Cup Asuncion 2014,2014-06-06,KUMAHARA Luca,MADRID Mercedes,4,2,"8,11,11,11,10,12|11,3,6,9,12,10",,OTHER,WS,333,Qualification,KUMAHARA Luca (BRA),MADRID Mercedes (MEX),KUMAHARA Luca
+ITTF Latin American Cup Asuncion 2014,2014-06-06,KUMAHARA Luca,CORDERO Carelyn,4,0,"14,12,11,11|12,10,8,5",,OTHER,WS,333,Qualification,KUMAHARA Luca (BRA),CORDERO Carelyn (PUR),KUMAHARA Luca
+ITTF Latin American Cup Asuncion 2014,2014-06-06,CORDERO Carelyn,MADRID Mercedes,4,2,"7,11,12,11,9,11|11,9,10,8,11,7",,OTHER,WS,333,Qualification,CORDERO Carelyn (PUR),MADRID Mercedes (MEX),CORDERO Carelyn
+ITTF Latin American Cup Asuncion 2014,2014-06-06,GUI Lin,CHUNG Rheann,4,0,"11,11,11,11|2,4,4,6",,OTHER,WS,333,Qualification,GUI Lin (BRA),CHUNG Rheann (TTO),GUI Lin
+ITTF Latin American Cup Asuncion 2014,2014-06-06,GUI Lin,VEGA Paulina,4,0,"11,11,11,11|8,5,5,6",,OTHER,WS,333,Qualification,GUI Lin (BRA),VEGA Paulina (CHI),GUI Lin
+ITTF Latin American Cup Asuncion 2014,2014-06-06,CHUNG Rheann,VEGA Paulina,4,1,"11,2,11,11,11|9,11,6,4,7",,OTHER,WS,333,Qualification,VEGA Paulina (CHI),CHUNG Rheann (TTO),CHUNG Rheann
+ITTF Latin American Cup Asuncion 2014,2014-06-06,SILVA Ligia,BRITO Eva,4,1,"11,11,4,12,11|7,3,11,10,4",,OTHER,WS,333,Qualification,SILVA Ligia (BRA),BRITO Eva (DOM),SILVA Ligia
+ITTF Latin American Cup Asuncion 2014,2014-06-06,SILVA Ligia,ARVELO Gremlis,4,0,"11,11,11,11|2,5,5,6",,OTHER,WS,333,Qualification,SILVA Ligia (BRA),ARVELO Gremlis (VEN),SILVA Ligia
+ITTF Latin American Cup Asuncion 2014,2014-06-06,ARVELO Gremlis,BRITO Eva,4,2,"11,11,10,6,11,11|8,8,12,11,4,3",,OTHER,WS,333,Qualification,ARVELO Gremlis (VEN),BRITO Eva (DOM),ARVELO Gremlis
+ITTF Latin American Cup Asuncion 2014,2014-06-06,MEDINA Paula,MARTINEZ Fatima,4,1,"11,11,11,7,11|6,4,3,11,7",,OTHER,WS,333,Qualification,MEDINA Paula (COL),MARTINEZ Fatima (PAR),MEDINA Paula
+ITTF Latin American Cup Asuncion 2014,2014-06-06,MEDINA Paula,DIAZ Adriana,4,1,"11,8,11,11,11|7,11,4,6,5",,OTHER,WS,333,Qualification,MEDINA Paula (COL),DIAZ Adriana (PUR),MEDINA Paula
+ITTF Latin American Cup Asuncion 2014,2014-06-06,DIAZ Adriana,MARTINEZ Fatima,4,1,"9,11,11,11,11|11,7,8,7,9",,OTHER,WS,333,Qualification,DIAZ Adriana (PUR),MARTINEZ Fatima (PAR),DIAZ Adriana
+ITTF Latin American Cup Asuncion 2014,2014-06-06,KUMAHARA Luca,CHUNG Rheann,4,1,"11,11,11,11,11|6,6,7,13,9",QF,OTHER,WS,333,Main Draw,KUMAHARA Luca (BRA),CHUNG Rheann (TTO),KUMAHARA Luca
+ITTF Latin American Cup Asuncion 2014,2014-06-06,ARVELO Gremlis,MEDINA Paula,4,1,"13,11,11,12,11|11,1,8,14,6",QF,OTHER,WS,333,Main Draw,ARVELO Gremlis (VEN),MEDINA Paula (COL),ARVELO Gremlis
+ITTF Latin American Cup Asuncion 2014,2014-06-06,SILVA Ligia,CORDERO Carelyn,4,0,"11,11,11,11|9,9,6,3",QF,OTHER,WS,333,Main Draw,SILVA Ligia (BRA),CORDERO Carelyn (PUR),SILVA Ligia
+ITTF Latin American Cup Asuncion 2014,2014-06-06,DIAZ Adriana,GUI Lin,4,1,"11,11,11,6,11|8,9,7,11,8",QF,OTHER,WS,333,Main Draw,DIAZ Adriana (PUR),GUI Lin (BRA),DIAZ Adriana
+ITTF Latin American Cup Asuncion 2014,2014-06-06,KUMAHARA Luca,ARVELO Gremlis,4,0,"11,11,11,11|4,8,9,6",SF,OTHER,WS,333,Main Draw,KUMAHARA Luca (BRA),ARVELO Gremlis (VEN),KUMAHARA Luca
+ITTF Latin American Cup Asuncion 2014,2014-06-06,SILVA Ligia,DIAZ Adriana,4,3,"3,8,11,11,11,11,11|11,11,13,8,7,6,5",SF,OTHER,WS,333,Main Draw,SILVA Ligia (BRA),DIAZ Adriana (PUR),SILVA Ligia
+ITTF Latin American Cup Asuncion 2014,2014-06-06,KUMAHARA Luca,SILVA Ligia,4,2,"8,8,11,11,11,13|11,11,9,8,6,11",F,OTHER,WS,333,Main Draw,KUMAHARA Luca (BRA),SILVA Ligia (BRA),KUMAHARA Luca
+ITTF Latin American Cup Asuncion 2014,2014-06-06,ARVELO Gremlis,DIAZ Adriana,4,2,"11,11,7,11,6,13|6,5,11,6,11,11",3RD,OTHER,WS,333,Position Draw,ARVELO Gremlis (VEN),DIAZ Adriana (PUR),ARVELO Gremlis
+ITTF Latin American Cup Asuncion 2014,2014-06-06,TSUBOI Gustavo,MINO Alberto,4,0,"11,11,11,11|5,5,9,9",QF,OTHER,MS,333,Main Draw,TSUBOI Gustavo (BRA),MINO Alberto (ECU),TSUBOI Gustavo
+ITTF Latin American Cup Asuncion 2014,2014-06-06,MADRID Marcos,AGUIRRE Marcelo,4,1,"11,8,11,12,11|8,11,7,10,4",QF,OTHER,MS,333,Main Draw,AGUIRRE Marcelo (PAR),MADRID Marcos (MEX),MADRID Marcos
+ITTF Latin American Cup Asuncion 2014,2014-06-06,ISHIY Vitor,ALTO Gaston,4,0,"11,11,11,11|6,7,8,4",QF,OTHER,MS,333,Main Draw,ISHIY Vitor (BRA),ALTO Gaston (ARG),ISHIY Vitor
+ITTF Latin American Cup Asuncion 2014,2014-06-06,MATSUMOTO Cazuo,GONZALEZ Daniel,4,3,"11,10,11,8,8,11,11|4,12,3,11,11,3,6",QF,OTHER,MS,333,Main Draw,GONZALEZ Daniel (PUR),MATSUMOTO Cazuo (BRA),MATSUMOTO Cazuo
+ITTF Latin American Cup Asuncion 2014,2014-06-06,MADRID Marcos,TSUBOI Gustavo,4,1,"8,11,11,11,11|11,4,8,4,7",SF,OTHER,MS,333,Main Draw,TSUBOI Gustavo (BRA),MADRID Marcos (MEX),MADRID Marcos
+ITTF Latin American Cup Asuncion 2014,2014-06-06,MATSUMOTO Cazuo,ISHIY Vitor,4,1,"9,11,12,14,11|11,5,10,12,9",SF,OTHER,MS,333,Main Draw,ISHIY Vitor (BRA),MATSUMOTO Cazuo (BRA),MATSUMOTO Cazuo
+ITTF Latin American Cup Asuncion 2014,2014-06-06,MATSUMOTO Cazuo,MADRID Marcos,4,1,"13,11,14,11,11|15,7,12,7,9",F,OTHER,MS,333,Main Draw,MADRID Marcos (MEX),MATSUMOTO Cazuo (BRA),MATSUMOTO Cazuo
+ITTF Latin American Cup Asuncion 2014,2014-06-06,TSUBOI Gustavo,ISHIY Vitor,4,0,"11,11,11,11|7,2,8,9",3RD,OTHER,MS,333,Position Draw,TSUBOI Gustavo (BRA),ISHIY Vitor (BRA),TSUBOI Gustavo

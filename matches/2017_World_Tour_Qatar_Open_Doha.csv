@@ -1,313 +1,313 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-World Tour Qatar Open Doha 2017,2017-02-21,PUCAR Tomislav,PARK Ganghyeon,4,1,"9,12,11,12,11|11,10,8,10,8",,GRAND_SLAM,MS,456,Qualification,PARK Ganghyeon (KOR),PUCAR Tomislav (CRO)
-World Tour Qatar Open Doha 2017,2017-02-21,PUCAR Tomislav,TANG Peng,4,1,"11,6,11,11,11|6,11,7,9,9",,GRAND_SLAM,MS,456,Qualification,TANG Peng (HKG),PUCAR Tomislav (CRO)
-World Tour Qatar Open Doha 2017,2017-02-21,TANG Peng,PARK Ganghyeon,4,1,"11,11,11,7,11|4,5,5,11,6",,GRAND_SLAM,MS,456,Qualification,TANG Peng (HKG),PARK Ganghyeon (KOR)
-World Tour Qatar Open Doha 2017,2017-02-21,SALIFOU Abdel-Kader,DEVOS Robin,4,2,"11,11,15,11,5,11|5,6,17,7,11,4",,GRAND_SLAM,MS,456,Qualification,DEVOS Robin (BEL),SALIFOU Abdel-Kader (BEN)
-World Tour Qatar Open Doha 2017,2017-02-21,SALIFOU Abdel-Kader,MURAMATSU Yuto,4,0,"11,11,12,11|9,7,10,5",,GRAND_SLAM,MS,456,Qualification,MURAMATSU Yuto (JPN),SALIFOU Abdel-Kader (BEN)
-World Tour Qatar Open Doha 2017,2017-02-21,MURAMATSU Yuto,DEVOS Robin,4,0,"11,12,11,11|7,10,5,6",,GRAND_SLAM,MS,456,Qualification,MURAMATSU Yuto (JPN),DEVOS Robin (BEL)
-World Tour Qatar Open Doha 2017,2017-02-21,PERSSON Jon,LIVENTSOV Alexey,4,1,"12,11,11,7,11|10,4,9,11,8",,GRAND_SLAM,MS,456,Qualification,PERSSON Jon (SWE),LIVENTSOV Alexey (RUS)
-World Tour Qatar Open Doha 2017,2017-02-21,APOLONIA Tiago,LIVENTSOV Alexey,4,2,"13,12,5,11,4,11|11,10,11,5,11,8",,GRAND_SLAM,MS,456,Qualification,APOLONIA Tiago (POR),LIVENTSOV Alexey (RUS)
-World Tour Qatar Open Doha 2017,2017-02-21,APOLONIA Tiago,PERSSON Jon,4,2,"14,11,11,9,9,11|12,7,6,11,11,3",,GRAND_SLAM,MS,456,Qualification,APOLONIA Tiago (POR),PERSSON Jon (SWE)
-World Tour Qatar Open Doha 2017,2017-02-21,ROBLES Alvaro,KIM Minhyeok,4,3,"7,12,9,13,11,11,11|11,10,11,15,6,5,5",,GRAND_SLAM,MS,456,Qualification,ROBLES Alvaro (ESP),KIM Minhyeok (KOR)
-World Tour Qatar Open Doha 2017,2017-02-21,KARLSSON Kristian,KIM Minhyeok,4,1,"11,11,8,11,11|3,5,11,6,4",,GRAND_SLAM,MS,456,Qualification,KARLSSON Kristian (SWE),KIM Minhyeok (KOR)
-World Tour Qatar Open Doha 2017,2017-02-21,ROBLES Alvaro,KARLSSON Kristian,4,3,"11,8,11,11,15,4,11|7,11,13,5,13,11,9",,GRAND_SLAM,MS,456,Qualification,KARLSSON Kristian (SWE),ROBLES Alvaro (ESP)
-World Tour Qatar Open Doha 2017,2017-02-21,LIAO Cheng-Ting,KIZUKURI Yuto,4,0,"12,12,11,12|10,10,1,10",,GRAND_SLAM,MS,456,Qualification,LIAO Cheng-Ting (TPE),KIZUKURI Yuto (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,KIZUKURI Yuto,GACINA Andrej,4,0,"11,12,11,11|9,10,8,8",,GRAND_SLAM,MS,456,Qualification,GACINA Andrej (CRO),KIZUKURI Yuto (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,LIAO Cheng-Ting,GACINA Andrej,4,2,"9,11,11,2,14,14|11,6,8,11,12,12",,GRAND_SLAM,MS,456,Qualification,GACINA Andrej (CRO),LIAO Cheng-Ting (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,SAKAI Asuka,BOBOCICA Mihai,4,3,"11,8,8,11,7,11,11|6,11,11,6,11,7,8",,GRAND_SLAM,MS,456,Qualification,BOBOCICA Mihai (ITA),SAKAI Asuka (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,CHEN Chien-An,SAKAI Asuka,4,0,"11,11,11,11|4,9,8,6",,GRAND_SLAM,MS,456,Qualification,CHEN Chien-An (TPE),SAKAI Asuka (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,CHEN Chien-An,BOBOCICA Mihai,4,1,"11,11,11,10,11|5,9,2,12,4",,GRAND_SLAM,MS,456,Qualification,CHEN Chien-An (TPE),BOBOCICA Mihai (ITA)
-World Tour Qatar Open Doha 2017,2017-02-21,HABESOHN Daniel,STOYANOV Niagol,4,2,"6,11,11,14,5,11|11,5,5,12,11,7",,GRAND_SLAM,MS,456,Qualification,HABESOHN Daniel (AUT),STOYANOV Niagol (ITA)
-World Tour Qatar Open Doha 2017,2017-02-21,YOSHIMURA Maharu,STOYANOV Niagol,4,1,"11,6,11,11,11|8,11,3,6,8",,GRAND_SLAM,MS,456,Qualification,YOSHIMURA Maharu (JPN),STOYANOV Niagol (ITA)
-World Tour Qatar Open Doha 2017,2017-02-21,YOSHIMURA Maharu,HABESOHN Daniel,4,2,"11,5,11,9,11,11|7,11,8,11,9,5",,GRAND_SLAM,MS,456,Qualification,YOSHIMURA Maharu (JPN),HABESOHN Daniel (AUT)
-World Tour Qatar Open Doha 2017,2017-02-21,ROBINOT Quentin,KOSIBA Daniel,4,2,"5,11,6,11,11,11|11,6,11,5,7,9",,GRAND_SLAM,MS,456,Qualification,ROBINOT Quentin (FRA),KOSIBA Daniel (HUN)
-World Tour Qatar Open Doha 2017,2017-02-21,KARLSSON Mattias,KOSIBA Daniel,4,2,"11,11,8,1,11,11|9,9,11,11,5,7",,GRAND_SLAM,MS,456,Qualification,KARLSSON Mattias (SWE),KOSIBA Daniel (HUN)
-World Tour Qatar Open Doha 2017,2017-02-21,KARLSSON Mattias,ROBINOT Quentin,4,1,"11,9,12,11,11|8,11,10,8,2",,GRAND_SLAM,MS,456,Qualification,KARLSSON Mattias (SWE),ROBINOT Quentin (FRA)
-World Tour Qatar Open Doha 2017,2017-02-21,OIKAWA Mizuki,LAMBIET Florent,4,2,"11,4,9,11,11,11|7,11,11,5,6,7",,GRAND_SLAM,MS,456,Qualification,OIKAWA Mizuki (JPN),LAMBIET Florent (BEL)
-World Tour Qatar Open Doha 2017,2017-02-21,LEBESSON Emmanuel,LAMBIET Florent,4,0,"11,11,11,11|9,9,4,9",,GRAND_SLAM,MS,456,Qualification,LEBESSON Emmanuel (FRA),LAMBIET Florent (BEL)
-World Tour Qatar Open Doha 2017,2017-02-21,LEBESSON Emmanuel,OIKAWA Mizuki,4,1,"11,9,11,11,11|6,11,8,7,8",,GRAND_SLAM,MS,456,Qualification,LEBESSON Emmanuel (FRA),OIKAWA Mizuki (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,ARVIDSSON Simon,JANCARIK Lubomir,4,3,"11,10,14,11,11,11,13|13,12,16,9,5,6,11",,GRAND_SLAM,MS,456,Qualification,JANCARIK Lubomir (CZE),ARVIDSSON Simon (SWE)
-World Tour Qatar Open Doha 2017,2017-02-21,KOU Lei,ARVIDSSON Simon,4,3,"7,5,7,11,11,11,11|11,11,11,5,9,4,4",,GRAND_SLAM,MS,456,Qualification,KOU Lei (UKR),ARVIDSSON Simon (SWE)
-World Tour Qatar Open Doha 2017,2017-02-21,KOU Lei,JANCARIK Lubomir,4,1,"6,11,11,11,0,11|10,9,6,6,11,6",,GRAND_SLAM,MS,456,Qualification,KOU Lei (UKR),JANCARIK Lubomir (CZE)
-World Tour Qatar Open Doha 2017,2017-02-21,SZOCS Hunor,KOJIC Frane,4,1,"11,11,11,8,11|6,9,8,11,9",,GRAND_SLAM,MS,456,Qualification,SZOCS Hunor (ROU),KOJIC Frane (CRO)
-World Tour Qatar Open Doha 2017,2017-02-21,MONTEIRO Joao,KOJIC Frane,4,2,"11,8,12,11,9,11|8,11,10,5,11,8",,GRAND_SLAM,MS,456,Qualification,MONTEIRO Joao (POR),KOJIC Frane (CRO)
-World Tour Qatar Open Doha 2017,2017-02-21,MONTEIRO Joao,SZOCS Hunor,4,1,"11,12,8,11,11|4,10,11,4,6",,GRAND_SLAM,MS,456,Qualification,MONTEIRO Joao (POR),SZOCS Hunor (ROU)
-World Tour Qatar Open Doha 2017,2017-02-21,KALLBERG Anton,MUTTI Leonardo,4,0,,,GRAND_SLAM,MS,456,Qualification,KALLBERG Anton (SWE),MUTTI Leonardo (ITA)
-World Tour Qatar Open Doha 2017,2017-02-21,SHIBAEV Alexander,MUTTI Leonardo,4,0,,,GRAND_SLAM,MS,456,Qualification,SHIBAEV Alexander (RUS),MUTTI Leonardo (ITA)
-World Tour Qatar Open Doha 2017,2017-02-21,KALLBERG Anton,SHIBAEV Alexander,4,1,"11,11,11,11,11|5,13,9,3,7",,GRAND_SLAM,MS,456,Qualification,SHIBAEV Alexander (RUS),KALLBERG Anton (SWE)
-World Tour Qatar Open Doha 2017,2017-02-21,CHO Seungmin,ELBEIALI Mohamed,4,0,"19,11,12,11|17,8,10,7",,GRAND_SLAM,MS,456,Qualification,CHO Seungmin (KOR),ELBEIALI Mohamed (EGY)
-World Tour Qatar Open Doha 2017,2017-02-21,GROTH Jonathan,ELBEIALI Mohamed,4,2,"6,7,11,11,11,11|11,11,7,6,1,6",,GRAND_SLAM,MS,456,Qualification,GROTH Jonathan (DEN),ELBEIALI Mohamed (EGY)
-World Tour Qatar Open Doha 2017,2017-02-21,GROTH Jonathan,CHO Seungmin,4,1,"8,11,12,11,13|11,5,10,7,11",,GRAND_SLAM,MS,456,Qualification,GROTH Jonathan (DEN),CHO Seungmin (KOR)
-World Tour Qatar Open Doha 2017,2017-02-21,JIANG Tianyi,DURAN Marc,4,1,"11,11,11,10,11|6,6,9,12,8",,GRAND_SLAM,MS,456,Qualification,JIANG Tianyi (HKG),DURAN Marc (ESP)
-World Tour Qatar Open Doha 2017,2017-02-21,GERELL Par,DURAN Marc,4,2,"11,8,11,11,11,12|7,11,13,8,6,10",,GRAND_SLAM,MS,456,Qualification,GERELL Par (SWE),DURAN Marc (ESP)
-World Tour Qatar Open Doha 2017,2017-02-21,JIANG Tianyi,GERELL Par,4,2,"11,9,11,11,4,11|8,11,8,6,11,2",,GRAND_SLAM,MS,456,Qualification,GERELL Par (SWE),JIANG Tianyi (HKG)
-World Tour Qatar Open Doha 2017,2017-02-21,NUYTINCK Cedric,LAM Siu Hang,4,1,"11,8,11,11,11|5,11,8,5,9",,GRAND_SLAM,MS,456,Qualification,NUYTINCK Cedric (BEL),LAM Siu Hang (HKG)
-World Tour Qatar Open Doha 2017,2017-02-21,OSHIMA Yuya,LAM Siu Hang,4,0,"11,11,11,13|8,6,6,11",,GRAND_SLAM,MS,456,Qualification,OSHIMA Yuya (JPN),LAM Siu Hang (HKG)
-World Tour Qatar Open Doha 2017,2017-02-21,OSHIMA Yuya,NUYTINCK Cedric,4,1,"11,8,12,11,11|2,11,10,5,7",,GRAND_SLAM,MS,456,Qualification,OSHIMA Yuya (JPN),NUYTINCK Cedric (BEL)
-World Tour Qatar Open Doha 2017,2017-02-21,TSUBOI Yuma,BROSSIER Benjamin,4,3,"11,11,13,12,10,7,12|8,9,15,10,12,11,10",,GRAND_SLAM,MS,456,Qualification,BROSSIER Benjamin (FRA),TSUBOI Yuma (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,DYJAS Jakub,TSUBOI Yuma,4,2,"11,10,11,13,11,11|13,12,8,11,7,9",,GRAND_SLAM,MS,456,Qualification,DYJAS Jakub (POL),TSUBOI Yuma (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,DYJAS Jakub,BROSSIER Benjamin,4,2,"11,12,7,9,11,11|9,10,11,11,9,6",,GRAND_SLAM,MS,456,Qualification,DYJAS Jakub (POL),BROSSIER Benjamin (FRA)
-World Tour Qatar Open Doha 2017,2017-02-21,ALAMIYAN Noshad,SUN Chia-Hung,4,2,"4,11,10,13,13,11|11,4,12,11,11,4",,GRAND_SLAM,MS,456,Qualification,ALAMIYAN Noshad (IRI),SUN Chia-Hung (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,DUDA Benedikt,SUN Chia-Hung,4,1,"11,11,5,12,11|7,9,11,10,7",,GRAND_SLAM,MS,456,Qualification,DUDA Benedikt (GER),SUN Chia-Hung (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,ALAMIYAN Noshad,DUDA Benedikt,4,1,"11,11,11,8,11|3,5,9,11,5",,GRAND_SLAM,MS,456,Qualification,DUDA Benedikt (GER),ALAMIYAN Noshad (IRI)
-World Tour Qatar Open Doha 2017,2017-02-21,PAIKOV Mikhail,RECH DALDOSSO Marco,4,2,"11,5,6,11,11,11|8,11,11,8,3,7",,GRAND_SLAM,MS,456,Qualification,PAIKOV Mikhail (RUS),RECH DALDOSSO Marco (ITA)
-World Tour Qatar Open Doha 2017,2017-02-21,TOKIC Bojan,RECH DALDOSSO Marco,4,1,"11,11,6,11,11|9,9,11,5,3",,GRAND_SLAM,MS,456,Qualification,TOKIC Bojan (SLO),RECH DALDOSSO Marco (ITA)
-World Tour Qatar Open Doha 2017,2017-02-21,TOKIC Bojan,PAIKOV Mikhail,4,2,"13,11,6,13,7,11|11,4,11,11,11,9",,GRAND_SLAM,MS,456,Qualification,TOKIC Bojan (SLO),PAIKOV Mikhail (RUS)
-World Tour Qatar Open Doha 2017,2017-02-21,YANG Heng-Wei,TSUBOI Gustavo,4,3,"9,11,9,11,5,11,11|11,8,11,5,11,5,5",,GRAND_SLAM,MS,456,Qualification,TSUBOI Gustavo (BRA),YANG Heng-Wei (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,ASSAR Omar,YANG Heng-Wei,4,1,"12,11,8,11,11|10,8,11,4,7",,GRAND_SLAM,MS,456,Qualification,ASSAR Omar (EGY),YANG Heng-Wei (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,ASSAR Omar,TSUBOI Gustavo,4,0,"11,11,11,11|9,5,5,2",,GRAND_SLAM,MS,456,Qualification,ASSAR Omar (EGY),TSUBOI Gustavo (BRA)
-World Tour Qatar Open Doha 2017,2017-02-21,KIM Minseok,LANDRIEU Andrea,4,0,"11,15,11,12|6,13,7,10",,GRAND_SLAM,MS,456,Qualification,KIM Minseok (KOR),LANDRIEU Andrea (FRA)
-World Tour Qatar Open Doha 2017,2017-02-21,GAO Ning,LANDRIEU Andrea,4,1,"11,11,11,7,11|8,9,3,11,9",,GRAND_SLAM,MS,456,Qualification,GAO Ning (SGP),LANDRIEU Andrea (FRA)
-World Tour Qatar Open Doha 2017,2017-02-21,KIM Minseok,GAO Ning,4,1,"11,10,11,11,11|9,12,8,8,4",,GRAND_SLAM,MS,456,Qualification,GAO Ning (SGP),KIM Minseok (KOR)
-World Tour Qatar Open Doha 2017,2017-02-21,NG Pak Nam,CHIANG Hung-Chieh,4,3,"11,10,12,11,9,13,11|7,12,14,9,11,11,9",,GRAND_SLAM,MS,456,Qualification,CHIANG Hung-Chieh (TPE),NG Pak Nam (HKG)
-World Tour Qatar Open Doha 2017,2017-02-21,JANG Woojin,HAMEED Anwer,4,0,"11,11,11,11|5,3,6,6",,GRAND_SLAM,MS,456,Qualification,JANG Woojin (KOR),HAMEED Anwer (IRQ)
-World Tour Qatar Open Doha 2017,2017-02-21,JANG Woojin,NG Pak Nam,4,2,"11,18,11,11,10,11|2,20,1,6,12,4",,GRAND_SLAM,MS,456,Qualification,JANG Woojin (KOR),NG Pak Nam (HKG)
-World Tour Qatar Open Doha 2017,2017-02-21,CHIANG Hung-Chieh,HAMEED Anwer,4,0,"11,11,11,11|8,7,5,8",,GRAND_SLAM,MS,456,Qualification,CHIANG Hung-Chieh (TPE),HAMEED Anwer (IRQ)
-World Tour Qatar Open Doha 2017,2017-02-21,JANG Woojin,CHIANG Hung-Chieh,4,0,"11,11,11,18|6,6,6,16",,GRAND_SLAM,MS,456,Qualification,JANG Woojin (KOR),CHIANG Hung-Chieh (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,NG Pak Nam,HAMEED Anwer,4,0,"11,11,11,11|9,8,7,5",,GRAND_SLAM,MS,456,Qualification,NG Pak Nam (HKG),HAMEED Anwer (IRQ)
-World Tour Qatar Open Doha 2017,2017-02-21,GERALDO Joao,ALLEGRO Martin,4,1,"11,11,6,11,11|6,9,11,9,7",,GRAND_SLAM,MS,456,Qualification,GERALDO Joao (POR),ALLEGRO Martin (BEL)
-World Tour Qatar Open Doha 2017,2017-02-21,LIANG Jingkun,HO Kwan Kit,4,1,"11,11,11,5,11|6,9,5,11,4",,GRAND_SLAM,MS,456,Qualification,HO Kwan Kit (HKG),LIANG Jingkun (CHN)
-World Tour Qatar Open Doha 2017,2017-02-21,HO Kwan Kit,ALLEGRO Martin,4,1,"13,11,13,7,11|11,7,11,11,8",,GRAND_SLAM,MS,456,Qualification,HO Kwan Kit (HKG),ALLEGRO Martin (BEL)
-World Tour Qatar Open Doha 2017,2017-02-21,LIANG Jingkun,GERALDO Joao,4,1,"11,11,10,11,11|2,4,12,9,5",,GRAND_SLAM,MS,456,Qualification,GERALDO Joao (POR),LIANG Jingkun (CHN)
-World Tour Qatar Open Doha 2017,2017-02-21,HO Kwan Kit,GERALDO Joao,4,1,"11,5,11,11,11|7,11,7,7,9",,GRAND_SLAM,MS,456,Qualification,HO Kwan Kit (HKG),GERALDO Joao (POR)
-World Tour Qatar Open Doha 2017,2017-02-21,LIANG Jingkun,ALLEGRO Martin,4,1,"11,11,12,9,11|8,9,10,11,6",,GRAND_SLAM,MS,456,Qualification,ALLEGRO Martin (BEL),LIANG Jingkun (CHN)
-World Tour Qatar Open Doha 2017,2017-02-21,FLORE Tristan,LEE Chia-Sheng,4,0,"11,11,11,11|6,8,4,7",,GRAND_SLAM,MS,456,Qualification,FLORE Tristan (FRA),LEE Chia-Sheng (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,MORIZONO Masataka,FAHES Ghaleb,4,0,"11,11,11,11|8,1,1,5",,GRAND_SLAM,MS,456,Qualification,MORIZONO Masataka (JPN),FAHES Ghaleb (LBN)
-World Tour Qatar Open Doha 2017,2017-02-21,MORIZONO Masataka,LEE Chia-Sheng,4,3,"6,8,12,6,11,11,11|11,11,10,11,8,8,4",,GRAND_SLAM,MS,456,Qualification,MORIZONO Masataka (JPN),LEE Chia-Sheng (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,FLORE Tristan,FAHES Ghaleb,4,0,"11,11,11,11|3,8,6,4",,GRAND_SLAM,MS,456,Qualification,FLORE Tristan (FRA),FAHES Ghaleb (LBN)
-World Tour Qatar Open Doha 2017,2017-02-21,FLORE Tristan,MORIZONO Masataka,4,2,"13,12,7,8,14,11|11,10,11,11,12,4",,GRAND_SLAM,MS,456,Qualification,MORIZONO Masataka (JPN),FLORE Tristan (FRA)
-World Tour Qatar Open Doha 2017,2017-02-21,LEE Chia-Sheng,FAHES Ghaleb,4,0,"11,11,11,11|7,6,2,4",,GRAND_SLAM,MS,456,Qualification,LEE Chia-Sheng (TPE),FAHES Ghaleb (LBN)
-World Tour Qatar Open Doha 2017,2017-02-21,YOSHIDA Masaki,CHEW Clarence,4,1,"11,5,11,11,11|3,11,6,8,7",,GRAND_SLAM,MS,456,Qualification,YOSHIDA Masaki (JPN),CHEW Clarence (SGP)
-World Tour Qatar Open Doha 2017,2017-02-21,CHEN Weixing,ZAZA Obaida,4,0,"11,11,11,11|4,4,3,2",,GRAND_SLAM,MS,456,Qualification,CHEN Weixing (AUT),ZAZA Obaida (SYR)
-World Tour Qatar Open Doha 2017,2017-02-21,CHEN Weixing,CHEW Clarence,4,1,"8,13,11,11,11|11,11,6,5,5",,GRAND_SLAM,MS,456,Qualification,CHEN Weixing (AUT),CHEW Clarence (SGP)
-World Tour Qatar Open Doha 2017,2017-02-21,YOSHIDA Masaki,ZAZA Obaida,4,0,"11,11,11,11|6,4,1,3",,GRAND_SLAM,MS,456,Qualification,YOSHIDA Masaki (JPN),ZAZA Obaida (SYR)
-World Tour Qatar Open Doha 2017,2017-02-21,YOSHIDA Masaki,CHEN Weixing,4,0,"11,11,11,11|6,3,5,8",,GRAND_SLAM,MS,456,Qualification,CHEN Weixing (AUT),YOSHIDA Masaki (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,CHEW Clarence,ZAZA Obaida,4,0,"11,11,11,11|2,2,9,5",,GRAND_SLAM,MS,456,Qualification,CHEW Clarence (SGP),ZAZA Obaida (SYR)
-World Tour Qatar Open Doha 2017,2017-02-21,KONECNY Tomas,NOROOZI Afshin,4,3,"9,11,11,9,7,15,11|11,4,7,11,11,13,3",,GRAND_SLAM,MS,456,Qualification,KONECNY Tomas (CZE),NOROOZI Afshin (IRI)
-World Tour Qatar Open Doha 2017,2017-02-21,WANG Yang,EL HAKIM Rock,4,0,"11,11,11,11|2,8,6,8",,GRAND_SLAM,MS,456,Qualification,WANG Yang (SVK),EL HAKIM Rock (LBN)
-World Tour Qatar Open Doha 2017,2017-02-21,WANG Yang,NOROOZI Afshin,4,3,"9,11,11,9,5,11,11|11,4,3,11,11,4,3",,GRAND_SLAM,MS,456,Qualification,WANG Yang (SVK),NOROOZI Afshin (IRI)
-World Tour Qatar Open Doha 2017,2017-02-21,KONECNY Tomas,EL HAKIM Rock,4,0,"11,11,11,11|3,4,2,8",,GRAND_SLAM,MS,456,Qualification,KONECNY Tomas (CZE),EL HAKIM Rock (LBN)
-World Tour Qatar Open Doha 2017,2017-02-21,KONECNY Tomas,WANG Yang,4,1,"11,6,11,11,11|9,11,2,7,8",,GRAND_SLAM,MS,456,Qualification,WANG Yang (SVK),KONECNY Tomas (CZE)
-World Tour Qatar Open Doha 2017,2017-02-21,NOROOZI Afshin,EL HAKIM Rock,4,0,"11,11,11,15|7,8,6,13",,GRAND_SLAM,MS,456,Qualification,NOROOZI Afshin (IRI),EL HAKIM Rock (LBN)
-World Tour Qatar Open Doha 2017,2017-02-21,UDA Yukiya,IONESCU Ovidiu,4,3,"8,4,12,11,5,11,11|11,11,10,4,11,9,2",,GRAND_SLAM,MS,456,Qualification,IONESCU Ovidiu (ROU),UDA Yukiya (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,FILUS Ruwen,OLUYOMI Salako,4,0,"11,11,11,11|2,2,3,7",,GRAND_SLAM,MS,456,Qualification,FILUS Ruwen (GER),OLUYOMI Salako (NGR)
-World Tour Qatar Open Doha 2017,2017-02-21,FILUS Ruwen,UDA Yukiya,4,0,"13,11,11,11|11,8,6,7",,GRAND_SLAM,MS,456,Qualification,FILUS Ruwen (GER),UDA Yukiya (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,IONESCU Ovidiu,OLUYOMI Salako,4,0,"11,11,11,11|2,2,3,5",,GRAND_SLAM,MS,456,Qualification,IONESCU Ovidiu (ROU),OLUYOMI Salako (NGR)
-World Tour Qatar Open Doha 2017,2017-02-21,IONESCU Ovidiu,FILUS Ruwen,4,3,"12,2,3,11,11,11,11|14,11,11,5,6,8,9",,GRAND_SLAM,MS,456,Qualification,FILUS Ruwen (GER),IONESCU Ovidiu (ROU)
-World Tour Qatar Open Doha 2017,2017-02-21,UDA Yukiya,OLUYOMI Salako,4,0,"11,11,11,11|8,5,7,5",,GRAND_SLAM,MS,456,Qualification,UDA Yukiya (JPN),OLUYOMI Salako (NGR)
-World Tour Qatar Open Doha 2017,2017-02-21,HARIMOTO Tomokazu,ABDULWAHHAB Mohammed,4,1,"11,11,11,9,11|1,7,8,11,4",,GRAND_SLAM,MS,456,Qualification,HARIMOTO Tomokazu (JPN),ABDULWAHHAB Mohammed (QAT)
-World Tour Qatar Open Doha 2017,2017-02-21,WALTHER Ricardo,KOUKEZIAN Berge,4,0,"11,11,11,11|0,4,5,2",,GRAND_SLAM,MS,456,Qualification,WALTHER Ricardo (GER),KOUKEZIAN Berge (LBN)
-World Tour Qatar Open Doha 2017,2017-02-21,WALTHER Ricardo,ABDULWAHHAB Mohammed,4,0,"11,11,11,11|7,5,5,5",,GRAND_SLAM,MS,456,Qualification,WALTHER Ricardo (GER),ABDULWAHHAB Mohammed (QAT)
-World Tour Qatar Open Doha 2017,2017-02-21,HARIMOTO Tomokazu,KOUKEZIAN Berge,4,0,"11,11,11,11|1,0,2,6",,GRAND_SLAM,MS,456,Qualification,HARIMOTO Tomokazu (JPN),KOUKEZIAN Berge (LBN)
-World Tour Qatar Open Doha 2017,2017-02-21,WALTHER Ricardo,HARIMOTO Tomokazu,4,3,"11,11,9,7,6,11,13|9,9,11,11,11,5,11",,GRAND_SLAM,MS,456,Qualification,WALTHER Ricardo (GER),HARIMOTO Tomokazu (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,ABDULWAHHAB Mohammed,KOUKEZIAN Berge,4,0,"11,11,11,11|3,5,3,8",,GRAND_SLAM,MS,456,Qualification,ABDULWAHHAB Mohammed (QAT),KOUKEZIAN Berge (LBN)
-World Tour Qatar Open Doha 2017,2017-02-21,MENGEL Steffen,ALDMAISY Zeyad,4,1,"11,9,11,11,11|5,11,4,5,4",,GRAND_SLAM,MS,456,Qualification,MENGEL Steffen (GER),ALDMAISY Zeyad (JOR)
-World Tour Qatar Open Doha 2017,2017-02-21,OLAH Benedek,HALLAK Mohamed,4,0,"11,11,11,11|8,4,6,7",,GRAND_SLAM,MS,456,Qualification,OLAH Benedek (FIN),HALLAK Mohamed (SYR)
-World Tour Qatar Open Doha 2017,2017-02-21,OLAH Benedek,ALDMAISY Zeyad,4,0,"11,11,14,11|5,6,12,8",,GRAND_SLAM,MS,456,Qualification,OLAH Benedek (FIN),ALDMAISY Zeyad (JOR)
-World Tour Qatar Open Doha 2017,2017-02-21,MENGEL Steffen,HALLAK Mohamed,4,0,"11,11,11,11|4,6,3,3",,GRAND_SLAM,MS,456,Qualification,MENGEL Steffen (GER),HALLAK Mohamed (SYR)
-World Tour Qatar Open Doha 2017,2017-02-21,MENGEL Steffen,OLAH Benedek,4,1,"11,11,11,9,11|4,8,9,11,9",,GRAND_SLAM,MS,456,Qualification,OLAH Benedek (FIN),MENGEL Steffen (GER)
-World Tour Qatar Open Doha 2017,2017-02-21,ALDMAISY Zeyad,HALLAK Mohamed,4,0,"11,11,11,11|7,8,7,6",,GRAND_SLAM,MS,456,Qualification,ALDMAISY Zeyad (JOR),HALLAK Mohamed (SYR)
-World Tour Qatar Open Doha 2017,2017-02-21,MATELOVA Hana,CHENG Hsien-Tzu,4,1,"5,11,11,11,11|11,8,4,5,7",,GRAND_SLAM,WS,456,Qualification,MATELOVA Hana (CZE),CHENG Hsien-Tzu (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,HAMAMOTO Yui,CHENG Hsien-Tzu,4,3,"11,8,11,9,11,11,11|4,11,13,11,5,8,9",,GRAND_SLAM,WS,456,Qualification,HAMAMOTO Yui (AUT),CHENG Hsien-Tzu (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,MATELOVA Hana,HAMAMOTO Yui,4,2,"7,4,11,12,11,11|11,11,7,10,6,5",,GRAND_SLAM,WS,456,Qualification,HAMAMOTO Yui (AUT),MATELOVA Hana (CZE)
-World Tour Qatar Open Doha 2017,2017-02-21,PERGEL Szandra,MORIZONO Mizuki,4,2,"11,5,11,5,11,11|8,11,8,11,3,6",,GRAND_SLAM,WS,456,Qualification,MORIZONO Mizuki (JPN),PERGEL Szandra (HUN)
-World Tour Qatar Open Doha 2017,2017-02-21,LI Jie,PERGEL Szandra,4,0,"11,11,11,11|4,7,5,2",,GRAND_SLAM,WS,456,Qualification,LI Jie (NED),PERGEL Szandra (HUN)
-World Tour Qatar Open Doha 2017,2017-02-21,MORIZONO Mizuki,LI Jie,4,3,"11,2,11,3,11,9,11|3,11,8,11,9,11,5",,GRAND_SLAM,WS,456,Qualification,LI Jie (NED),MORIZONO Mizuki (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,SOLJA Amelie,LEE I-Chen,4,3,"11,11,6,7,11,9,15|4,9,11,11,8,11,13",,GRAND_SLAM,WS,456,Qualification,LEE I-Chen (TPE),SOLJA Amelie (AUT)
-World Tour Qatar Open Doha 2017,2017-02-21,YANG Ha Eun,SOLJA Amelie,4,1,"11,11,9,11,11|8,2,11,7,4",,GRAND_SLAM,WS,456,Qualification,YANG Ha Eun (KOR),SOLJA Amelie (AUT)
-World Tour Qatar Open Doha 2017,2017-02-21,YANG Ha Eun,LEE I-Chen,4,0,"11,11,12,12|8,5,10,10",,GRAND_SLAM,WS,456,Qualification,YANG Ha Eun (KOR),LEE I-Chen (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,MAK Tze Wing,MADARASZ Dora,4,2,"11,11,11,8,11,11|9,9,13,11,5,9",,GRAND_SLAM,WS,456,Qualification,MADARASZ Dora (HUN),MAK Tze Wing (HKG)
-World Tour Qatar Open Doha 2017,2017-02-21,ZENG Jian,MAK Tze Wing,4,0,"11,11,11,11|7,8,7,9",,GRAND_SLAM,WS,456,Qualification,ZENG Jian (SGP),MAK Tze Wing (HKG)
-World Tour Qatar Open Doha 2017,2017-02-21,ZENG Jian,MADARASZ Dora,4,1,"11,16,10,11,11|6,14,12,4,5",,GRAND_SLAM,WS,456,Qualification,ZENG Jian (SGP),MADARASZ Dora (HUN)
-World Tour Qatar Open Doha 2017,2017-02-21,PARTYKA Natalia,DE NUTTE Sarah,4,1,"11,12,11,6,11|5,10,8,11,8",,GRAND_SLAM,WS,456,Qualification,PARTYKA Natalia (POL),DE NUTTE Sarah (LUX)
-World Tour Qatar Open Doha 2017,2017-02-21,ZHOU Yihan,DE NUTTE Sarah,4,0,"11,11,13,18|7,8,11,16",,GRAND_SLAM,WS,456,Qualification,ZHOU Yihan (SGP),DE NUTTE Sarah (LUX)
-World Tour Qatar Open Doha 2017,2017-02-21,PARTYKA Natalia,ZHOU Yihan,4,2,"12,15,7,7,11,12|10,13,11,11,6,10",,GRAND_SLAM,WS,456,Qualification,ZHOU Yihan (SGP),PARTYKA Natalia (POL)
-World Tour Qatar Open Doha 2017,2017-02-21,LIU Hsing-Yin,KATO Kyoka,4,2,"4,11,4,11,11,11|11,6,11,6,8,8",,GRAND_SLAM,WS,456,Qualification,KATO Kyoka (JPN),LIU Hsing-Yin (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,YU Fu,LIU Hsing-Yin,4,2,"5,11,4,11,11,11|11,8,11,5,4,3",,GRAND_SLAM,WS,456,Qualification,YU Fu (POR),LIU Hsing-Yin (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,KATO Kyoka,YU Fu,4,2,"5,13,10,15,11,11|11,11,12,13,4,8",,GRAND_SLAM,WS,456,Qualification,YU Fu (POR),KATO Kyoka (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,STEFANSKA Kinga,VARADY Barbora,4,3,"11,9,11,4,13,11,11|13,11,9,11,11,6,8",,GRAND_SLAM,WS,456,Qualification,VARADY Barbora (SVK),STEFANSKA Kinga (POL)
-World Tour Qatar Open Doha 2017,2017-02-21,HASHIMOTO Honoka,STEFANSKA Kinga,4,2,"11,11,11,7,6,11|8,6,9,11,11,5",,GRAND_SLAM,WS,456,Qualification,HASHIMOTO Honoka (JPN),STEFANSKA Kinga (POL)
-World Tour Qatar Open Doha 2017,2017-02-21,VARADY Barbora,HASHIMOTO Honoka,4,1,"11,12,11,12,13|7,10,7,14,11",,GRAND_SLAM,WS,456,Qualification,HASHIMOTO Honoka (JPN),VARADY Barbora (SVK)
-World Tour Qatar Open Doha 2017,2017-02-21,TODOROVIC Andrea,LIN Ye,4,2,"8,11,10,15,11,11|11,8,12,13,9,9",,GRAND_SLAM,WS,456,Qualification,LIN Ye (CAN),TODOROVIC Andrea (SRB)
-World Tour Qatar Open Doha 2017,2017-02-21,MORIZONO Misaki,TODOROVIC Andrea,4,0,"11,11,22,11|4,8,20,3",,GRAND_SLAM,WS,456,Qualification,MORIZONO Misaki (JPN),TODOROVIC Andrea (SRB)
-World Tour Qatar Open Doha 2017,2017-02-21,MORIZONO Misaki,LIN Ye,4,0,"11,11,11,11|9,3,7,1",,GRAND_SLAM,WS,456,Qualification,MORIZONO Misaki (JPN),LIN Ye (CAN)
-World Tour Qatar Open Doha 2017,2017-02-21,GRZYBOWSKA-FRANC Katarzyna,LIN Chia-Chih,4,0,"11,11,11,11|8,9,9,4",,GRAND_SLAM,WS,456,Qualification,GRZYBOWSKA-FRANC Katarzyna (POL),LIN Chia-Chih (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,KATO Miyu,LIN Chia-Chih,4,0,"11,11,11,11|6,9,4,7",,GRAND_SLAM,WS,456,Qualification,KATO Miyu (JPN),LIN Chia-Chih (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,KATO Miyu,GRZYBOWSKA-FRANC Katarzyna,4,0,"11,11,11,11|9,9,4,7",,GRAND_SLAM,WS,456,Qualification,KATO Miyu (JPN),GRZYBOWSKA-FRANC Katarzyna (POL)
-World Tour Qatar Open Doha 2017,2017-02-21,HUANG Yi-Hua,MIGOT Marie,4,0,"11,16,11,16|8,14,5,14",,GRAND_SLAM,WS,456,Qualification,HUANG Yi-Hua (TPE),MIGOT Marie (FRA)
-World Tour Qatar Open Doha 2017,2017-02-21,LI Qian,MIGOT Marie,4,1,"11,10,11,11,11|9,12,3,7,5",,GRAND_SLAM,WS,456,Qualification,LI Qian (POL),MIGOT Marie (FRA)
-World Tour Qatar Open Doha 2017,2017-02-21,LI Qian,HUANG Yi-Hua,4,3,"8,11,3,4,12,11,12|11,5,11,11,10,8,10",,GRAND_SLAM,WS,456,Qualification,LI Qian (POL),HUANG Yi-Hua (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,SOO Wai Yam,LIN Po-Hsuan,4,1,"11,11,11,8,11|9,5,2,11,7",,GRAND_SLAM,WS,456,Qualification,SOO Wai Yam (HKG),LIN Po-Hsuan (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,POTA Georgina,LIN Po-Hsuan,4,1,"11,7,11,11,11|3,11,5,3,7",,GRAND_SLAM,WS,456,Qualification,POTA Georgina (HUN),LIN Po-Hsuan (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,SOO Wai Yam,POTA Georgina,4,3,"8,11,4,11,11,7,11|11,7,11,5,9,11,7",,GRAND_SLAM,WS,456,Qualification,POTA Georgina (HUN),SOO Wai Yam (HKG)
-World Tour Qatar Open Doha 2017,2017-02-21,MATSUZAWA Marina,LIU Yu-Hsin,4,1,"11,11,7,11,11|8,7,11,5,6",,GRAND_SLAM,WS,456,Qualification,MATSUZAWA Marina (JPN),LIU Yu-Hsin (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,JIANG Huajun,LIU Yu-Hsin,4,0,"11,11,11,11|4,6,3,8",,GRAND_SLAM,WS,456,Qualification,JIANG Huajun (HKG),LIU Yu-Hsin (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,JIANG Huajun,MATSUZAWA Marina,4,2,"11,9,11,12,9,11|8,11,7,10,11,3",,GRAND_SLAM,WS,456,Qualification,JIANG Huajun (HKG),MATSUZAWA Marina (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,GU Yuting,MAEDA Miyu,4,3,"9,7,10,11,11,11,12|11,11,12,7,9,6,10",,GRAND_SLAM,WS,456,Qualification,MAEDA Miyu (JPN),GU Yuting (CHN)
-World Tour Qatar Open Doha 2017,2017-02-21,GU Yuting,CHOI Hyojoo,4,1,"11,11,6,11,11|9,9,11,9,9",,GRAND_SLAM,WS,456,Qualification,CHOI Hyojoo (KOR),GU Yuting (CHN)
-World Tour Qatar Open Doha 2017,2017-02-21,MAEDA Miyu,CHOI Hyojoo,4,1,"12,11,11,8,11|10,8,6,11,5",,GRAND_SLAM,WS,456,Qualification,CHOI Hyojoo (KOR),MAEDA Miyu (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,NG Wing Nam,CHO Hala,4,3,"11,11,8,12,12,15,11|6,8,11,14,10,17,6",,GRAND_SLAM,WS,456,Qualification,NG Wing Nam (HKG),CHO Hala (KOR)
-World Tour Qatar Open Doha 2017,2017-02-21,MORI Sakura,CHO Hala,4,0,"13,14,11,11|11,12,8,8",,GRAND_SLAM,WS,456,Qualification,MORI Sakura (JPN),CHO Hala (KOR)
-World Tour Qatar Open Doha 2017,2017-02-21,NG Wing Nam,MORI Sakura,4,3,"3,7,11,12,5,11,11|11,11,9,10,11,6,4",,GRAND_SLAM,WS,456,Qualification,MORI Sakura (JPN),NG Wing Nam (HKG)
-World Tour Qatar Open Doha 2017,2017-02-21,WANG Manyu,BILAL Afaf,4,0,"11,11,11,11|1,2,1,4",,GRAND_SLAM,WS,456,Qualification,WANG Manyu (CHN),BILAL Afaf (IRQ)
-World Tour Qatar Open Doha 2017,2017-02-21,CHEN Szu-Yu,BILAL Afaf,4,0,"11,11,11,11|3,5,2,5",,GRAND_SLAM,WS,456,Qualification,CHEN Szu-Yu (TPE),BILAL Afaf (IRQ)
-World Tour Qatar Open Doha 2017,2017-02-21,WANG Manyu,CHEN Szu-Yu,4,2,"3,11,10,11,11,11|11,8,12,9,4,8",,GRAND_SLAM,WS,456,Qualification,CHEN Szu-Yu (TPE),WANG Manyu (CHN)
-World Tour Qatar Open Doha 2017,2017-02-21,SHIBATA Saki,KHAYAT Jennifer,4,0,"11,11,11,11|2,2,3,4",,GRAND_SLAM,WS,456,Qualification,SHIBATA Saki (JPN),KHAYAT Jennifer (LBN)
-World Tour Qatar Open Doha 2017,2017-02-21,POLCANOVA Sofia,KHAYAT Jennifer,4,0,"11,11,11,11|3,6,1,3",,GRAND_SLAM,WS,456,Qualification,POLCANOVA Sofia (AUT),KHAYAT Jennifer (LBN)
-World Tour Qatar Open Doha 2017,2017-02-21,POLCANOVA Sofia,SHIBATA Saki,4,2,"10,11,11,11,8,11|12,8,8,6,11,7",,GRAND_SLAM,WS,456,Qualification,POLCANOVA Sofia (AUT),SHIBATA Saki (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,MA Long,LIAO Cheng-Ting,4,0,"11,11,11,11|9,9,4,3",R32,GRAND_SLAM,MS,456,Main Draw,MA Long (CHN),LIAO Cheng-Ting (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,LI Ping,KIM Minseok,4,1,"11,11,11,10,11|9,9,7,12,5",R32,GRAND_SLAM,MS,456,Main Draw,KIM Minseok (KOR),LI Ping (QAT)
-World Tour Qatar Open Doha 2017,2017-02-21,FREITAS Marcos,MENGEL Steffen,4,1,"11,4,11,11,11|4,11,5,8,8",R32,GRAND_SLAM,MS,456,Main Draw,FREITAS Marcos (POR),MENGEL Steffen (GER)
-World Tour Qatar Open Doha 2017,2017-02-21,PUCAR Tomislav,ALAMIYAN Noshad,4,3,"5,11,9,11,12,8,11|11,5,11,6,10,11,5",R32,GRAND_SLAM,MS,456,Main Draw,ALAMIYAN Noshad (IRI),PUCAR Tomislav (CRO)
-World Tour Qatar Open Doha 2017,2017-02-21,WONG Chun Ting,FILUS Ruwen,4,3,"11,11,6,11,10,10,13|8,1,11,6,12,12,11",R32,GRAND_SLAM,MS,456,Main Draw,WONG Chun Ting (HKG),FILUS Ruwen (GER)
-World Tour Qatar Open Doha 2017,2017-02-21,CHUANG Chih-Yuan,KOU Lei,4,1,"11,11,11,9,11|5,7,9,11,9",R32,GRAND_SLAM,MS,456,Main Draw,KOU Lei (UKR),CHUANG Chih-Yuan (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,NIWA Koki,WALTHER Ricardo,4,1,"11,13,11,8,11|6,11,9,11,8",R32,GRAND_SLAM,MS,456,Main Draw,NIWA Koki (JPN),WALTHER Ricardo (GER)
-World Tour Qatar Open Doha 2017,2017-02-21,ZHANG Jike,APOLONIA Tiago,4,1,"11,11,11,7,11|7,5,9,11,3",R32,GRAND_SLAM,MS,456,Main Draw,APOLONIA Tiago (POR),ZHANG Jike (CHN)
-World Tour Qatar Open Doha 2017,2017-02-21,XU Xin,SALIFOU Abdel-Kader,4,0,"11,11,11,11|8,6,6,6",R32,GRAND_SLAM,MS,456,Main Draw,XU Xin (CHN),SALIFOU Abdel-Kader (BEN)
-World Tour Qatar Open Doha 2017,2017-02-21,FANG Bo,JANG Woojin,4,3,"8,14,10,11,11,10,11|11,12,12,7,9,12,3",R32,GRAND_SLAM,MS,456,Main Draw,JANG Woojin (KOR),FANG Bo (KAZ)
-World Tour Qatar Open Doha 2017,2017-02-21,LIANG Jingkun,MATSUDAIRA Kenta,4,3,"7,11,8,9,11,11,13|11,8,11,11,6,9,11",R32,GRAND_SLAM,MS,456,Main Draw,MATSUDAIRA Kenta (JPN),LIANG Jingkun (CHN)
-World Tour Qatar Open Doha 2017,2017-02-21,KARLSSON Mattias,SAMSONOV Vladimir,4,2,"8,10,11,11,11,11|11,12,7,6,9,9",R32,GRAND_SLAM,MS,456,Main Draw,KARLSSON Mattias (SWE),SAMSONOV Vladimir (BLR)
-World Tour Qatar Open Doha 2017,2017-02-21,OVTCHAROV Dimitrij,JIANG Tianyi,4,1,"11,11,9,11,11|7,7,11,7,6",R32,GRAND_SLAM,MS,456,Main Draw,OVTCHAROV Dimitrij (GER),JIANG Tianyi (HKG)
-World Tour Qatar Open Doha 2017,2017-02-21,YOSHIDA Masaki,JEOUNG Youngsik,4,1,"7,17,11,11,11|11,15,2,8,9",R32,GRAND_SLAM,MS,456,Main Draw,YOSHIDA Masaki (JPN),JEOUNG Youngsik (KOR)
-World Tour Qatar Open Doha 2017,2017-02-21,ROBLES Alvaro,AL-MOHANNADI Ahmad Khalil,4,0,"11,11,11,11|1,1,6,2",R32,GRAND_SLAM,MS,456,Main Draw,AL-MOHANNADI Ahmad Khalil (QAT),ROBLES Alvaro (ESP)
-World Tour Qatar Open Doha 2017,2017-02-21,FAN Zhendong,OSHIMA Yuya,4,0,"11,11,11,11|5,8,5,4",R32,GRAND_SLAM,MS,456,Main Draw,OSHIMA Yuya (JPN),FAN Zhendong (CHN)
-World Tour Qatar Open Doha 2017,2017-02-21,MA Long,LI Ping,4,1,"11,7,11,11,11|7,11,4,6,9",R16,GRAND_SLAM,MS,456,Main Draw,MA Long (CHN),LI Ping (QAT)
-World Tour Qatar Open Doha 2017,2017-02-21,FREITAS Marcos,PUCAR Tomislav,4,3,"7,11,8,11,11,11,11|11,6,11,13,3,6,6",R16,GRAND_SLAM,MS,456,Main Draw,FREITAS Marcos (POR),PUCAR Tomislav (CRO)
-World Tour Qatar Open Doha 2017,2017-02-21,CHUANG Chih-Yuan,WONG Chun Ting,4,3,"9,8,11,11,11,8,11|11,11,6,9,7,11,8",R16,GRAND_SLAM,MS,456,Main Draw,WONG Chun Ting (HKG),CHUANG Chih-Yuan (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,NIWA Koki,ZHANG Jike,4,0,"11,11,11,11|1,0,0,0",R16,GRAND_SLAM,MS,456,Main Draw,NIWA Koki (JPN),ZHANG Jike (CHN)
-World Tour Qatar Open Doha 2017,2017-02-21,FANG Bo,XU Xin,4,2,"11,11,14,4,4,13|6,7,12,11,11,11",R16,GRAND_SLAM,MS,456,Main Draw,XU Xin (CHN),FANG Bo (KAZ)
-World Tour Qatar Open Doha 2017,2017-02-21,LIANG Jingkun,KARLSSON Mattias,4,1,"11,9,11,11,11|7,11,9,8,6",R16,GRAND_SLAM,MS,456,Main Draw,LIANG Jingkun (CHN),KARLSSON Mattias (SWE)
-World Tour Qatar Open Doha 2017,2017-02-21,YOSHIDA Masaki,OVTCHAROV Dimitrij,4,2,"11,6,4,11,11,11|6,11,11,7,9,8",R16,GRAND_SLAM,MS,456,Main Draw,OVTCHAROV Dimitrij (GER),YOSHIDA Masaki (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,FAN Zhendong,ROBLES Alvaro,4,0,"11,11,11,12|6,8,8,10",R16,GRAND_SLAM,MS,456,Main Draw,ROBLES Alvaro (ESP),FAN Zhendong (CHN)
-World Tour Qatar Open Doha 2017,2017-02-21,MA Long,FREITAS Marcos,4,1,"11,11,8,11,11|7,8,11,6,9",QF,GRAND_SLAM,MS,456,Main Draw,MA Long (CHN),FREITAS Marcos (POR)
-World Tour Qatar Open Doha 2017,2017-02-21,CHUANG Chih-Yuan,NIWA Koki,4,2,"9,16,6,12,11,11|11,14,11,10,8,4",QF,GRAND_SLAM,MS,456,Main Draw,CHUANG Chih-Yuan (TPE),NIWA Koki (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,FANG Bo,LIANG Jingkun,4,0,"11,11,15,11|9,6,13,5",QF,GRAND_SLAM,MS,456,Main Draw,FANG Bo (KAZ),LIANG Jingkun (CHN)
-World Tour Qatar Open Doha 2017,2017-02-21,FAN Zhendong,YOSHIDA Masaki,4,0,"11,11,11,11|7,7,4,3",QF,GRAND_SLAM,MS,456,Main Draw,YOSHIDA Masaki (JPN),FAN Zhendong (CHN)
-World Tour Qatar Open Doha 2017,2017-02-21,MA Long,CHUANG Chih-Yuan,4,0,"11,11,11,11|8,8,6,4",SF,GRAND_SLAM,MS,456,Main Draw,MA Long (CHN),CHUANG Chih-Yuan (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,FAN Zhendong,FANG Bo,4,3,"9,11,12,5,11,13,11|11,3,10,11,6,15,8",SF,GRAND_SLAM,MS,456,Main Draw,FANG Bo (KAZ),FAN Zhendong (CHN)
-World Tour Qatar Open Doha 2017,2017-02-21,MA Long,FAN Zhendong,4,2,"11,11,11,5,6,11|8,8,7,11,11,4",F,GRAND_SLAM,MS,456,Main Draw,MA Long (CHN),FAN Zhendong (CHN)
-World Tour Qatar Open Doha 2017,2017-02-21,ZHU Yuling,JIANG Huajun,4,2,"11,11,8,11,15,11|5,7,11,7,17,3",R32,GRAND_SLAM,WS,456,Main Draw,ZHU Yuling (MAC),JIANG Huajun (HKG)
-World Tour Qatar Open Doha 2017,2017-02-21,SHAN Xiaona,LI Qian,4,2,"8,11,4,11,11,11|11,8,11,6,4,8",R32,GRAND_SLAM,WS,456,Main Draw,LI Qian (POL),SHAN Xiaona (GER)
-World Tour Qatar Open Doha 2017,2017-02-21,YANG Ha Eun,LEE Ho Ching,4,2,"5,11,11,11,9,11|11,8,5,5,11,5",R32,GRAND_SLAM,WS,456,Main Draw,LEE Ho Ching (HKG),YANG Ha Eun (KOR)
-World Tour Qatar Open Doha 2017,2017-02-21,PARTYKA Natalia,WU Yang,4,3,"11,9,11,9,11,4,11|7,11,9,11,4,11,9",R32,GRAND_SLAM,WS,456,Main Draw,PARTYKA Natalia (POL),WU Yang (CHN)
-World Tour Qatar Open Doha 2017,2017-02-21,HAN Ying,MATELOVA Hana,4,0,"11,11,11,11|9,2,5,4",R32,GRAND_SLAM,WS,456,Main Draw,HAN Ying (GER),MATELOVA Hana (CZE)
-World Tour Qatar Open Doha 2017,2017-02-21,CHEN Meng,NG Wing Nam,4,2,"6,11,11,11,11,11|11,13,4,8,7,7",R32,GRAND_SLAM,WS,456,Main Draw,NG Wing Nam (HKG),CHEN Meng (CHN)
-World Tour Qatar Open Doha 2017,2017-02-21,MORIZONO Misaki,HU Melek,4,1,"11,9,11,11,11|8,11,5,8,7",R32,GRAND_SLAM,WS,456,Main Draw,HU Melek (TUR),MORIZONO Misaki (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,CHENG I-Ching,YU Fu,4,1,"11,11,8,11,11|5,5,11,8,3",R32,GRAND_SLAM,WS,456,Main Draw,YU Fu (POR),CHENG I-Ching (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,FENG Tianwei,SOO Wai Yam,4,1,"11,8,13,11,11|5,11,11,7,6",R32,GRAND_SLAM,WS,456,Main Draw,FENG Tianwei (SGP),SOO Wai Yam (HKG)
-World Tour Qatar Open Doha 2017,2017-02-21,LI Jie,SATO Hitomi,4,3,"10,6,11,11,11,3,11|12,11,9,8,9,11,9",R32,GRAND_SLAM,WS,456,Main Draw,LI Jie (NED),SATO Hitomi (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,DOO Hoi Kem,POLCANOVA Sofia,4,3,"10,11,7,12,6,13,13|12,4,11,10,11,11,11",R32,GRAND_SLAM,WS,456,Main Draw,DOO Hoi Kem (HKG),POLCANOVA Sofia (AUT)
-World Tour Qatar Open Doha 2017,2017-02-21,GU Yuting,HIRANO Miu,4,1,"7,11,11,11,11|11,7,7,5,5",R32,GRAND_SLAM,WS,456,Main Draw,GU Yuting (CHN),HIRANO Miu (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,ITO Mima,ZENG Jian,4,2,"4,13,9,11,13,11|11,11,11,4,11,9",R32,GRAND_SLAM,WS,456,Main Draw,ITO Mima (JPN),ZENG Jian (SGP)
-World Tour Qatar Open Doha 2017,2017-02-21,KATO Miyu,JEON Jihee,4,3,"15,13,9,11,11,10,11|13,15,11,8,9,12,4",R32,GRAND_SLAM,WS,456,Main Draw,KATO Miyu (JPN),JEON Jihee (KOR)
-World Tour Qatar Open Doha 2017,2017-02-21,VARADY Barbora,TIE Yana,4,1,"12,10,11,16,11|10,12,9,14,9",R32,GRAND_SLAM,WS,456,Main Draw,TIE Yana (HKG),VARADY Barbora (SVK)
-World Tour Qatar Open Doha 2017,2017-02-21,WANG Manyu,ISHIKAWA Kasumi,4,0,"11,11,11,11|4,8,4,6",R32,GRAND_SLAM,WS,456,Main Draw,WANG Manyu (CHN),ISHIKAWA Kasumi (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,SHAN Xiaona,ZHU Yuling,4,1,"11,6,11,12,11|8,11,9,10,7",R16,GRAND_SLAM,WS,456,Main Draw,ZHU Yuling (MAC),SHAN Xiaona (GER)
-World Tour Qatar Open Doha 2017,2017-02-21,PARTYKA Natalia,YANG Ha Eun,4,0,"11,12,11,13|9,10,5,11",R16,GRAND_SLAM,WS,456,Main Draw,YANG Ha Eun (KOR),PARTYKA Natalia (POL)
-World Tour Qatar Open Doha 2017,2017-02-21,CHEN Meng,HAN Ying,4,2,"7,11,11,11,11,11|11,6,6,13,5,4",R16,GRAND_SLAM,WS,456,Main Draw,HAN Ying (GER),CHEN Meng (CHN)
-World Tour Qatar Open Doha 2017,2017-02-21,CHENG I-Ching,MORIZONO Misaki,4,1,"8,11,11,11,12|11,7,5,4,10",R16,GRAND_SLAM,WS,456,Main Draw,MORIZONO Misaki (JPN),CHENG I-Ching (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,FENG Tianwei,LI Jie,4,2,"6,7,11,11,11,11|11,11,5,6,9,8",R16,GRAND_SLAM,WS,456,Main Draw,FENG Tianwei (SGP),LI Jie (NED)
-World Tour Qatar Open Doha 2017,2017-02-21,GU Yuting,DOO Hoi Kem,4,0,"11,13,11,11|7,11,9,6",R16,GRAND_SLAM,WS,456,Main Draw,DOO Hoi Kem (HKG),GU Yuting (CHN)
-World Tour Qatar Open Doha 2017,2017-02-21,ITO Mima,KATO Miyu,4,1,"7,11,11,11,11|11,7,8,7,9",R16,GRAND_SLAM,WS,456,Main Draw,ITO Mima (JPN),KATO Miyu (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,WANG Manyu,VARADY Barbora,4,1,"11,7,11,11,11|6,11,2,6,6",R16,GRAND_SLAM,WS,456,Main Draw,VARADY Barbora (SVK),WANG Manyu (CHN)
-World Tour Qatar Open Doha 2017,2017-02-21,SHAN Xiaona,PARTYKA Natalia,4,0,"14,11,11,11|12,7,5,8",QF,GRAND_SLAM,WS,456,Main Draw,SHAN Xiaona (GER),PARTYKA Natalia (POL)
-World Tour Qatar Open Doha 2017,2017-02-21,CHEN Meng,CHENG I-Ching,4,0,,QF,GRAND_SLAM,WS,456,Main Draw,CHEN Meng (CHN),CHENG I-Ching (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,GU Yuting,FENG Tianwei,4,0,"11,11,11,14|8,6,5,12",QF,GRAND_SLAM,WS,456,Main Draw,FENG Tianwei (SGP),GU Yuting (CHN)
-World Tour Qatar Open Doha 2017,2017-02-21,WANG Manyu,ITO Mima,4,1,"11,11,11,8,11|3,9,5,11,6",QF,GRAND_SLAM,WS,456,Main Draw,ITO Mima (JPN),WANG Manyu (CHN)
-World Tour Qatar Open Doha 2017,2017-02-21,CHEN Meng,SHAN Xiaona,4,0,"11,12,11,11|4,10,5,3",SF,GRAND_SLAM,WS,456,Main Draw,SHAN Xiaona (GER),CHEN Meng (CHN)
-World Tour Qatar Open Doha 2017,2017-02-21,WANG Manyu,GU Yuting,4,1,"11,20,11,7,11|6,18,6,11,6",SF,GRAND_SLAM,WS,456,Main Draw,GU Yuting (CHN),WANG Manyu (CHN)
-World Tour Qatar Open Doha 2017,2017-02-21,CHEN Meng,WANG Manyu,4,1,"12,11,11,2,11|10,9,6,11,6",F,GRAND_SLAM,WS,456,Main Draw,CHEN Meng (CHN),WANG Manyu (CHN)
-World Tour Qatar Open Doha 2017,2017-02-21,UDA Yukiya,SUN Chia-Hung,3,1,"11,11,9,11|9,9,11,6",R32,GRAND_SLAM,U21MS,456,Main Draw,UDA Yukiya (JPN),SUN Chia-Hung (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,KIM Minhyeok,ABDULWAHHAB Mohammed,3,1,"11,11,11,11|13,6,5,2",R32,GRAND_SLAM,U21MS,456,Main Draw,KIM Minhyeok (KOR),ABDULWAHHAB Mohammed (QAT)
-World Tour Qatar Open Doha 2017,2017-02-21,PUCAR Tomislav,ALLEGRO Martin,3,0,"11,11,11|8,8,5",R32,GRAND_SLAM,U21MS,456,Main Draw,ALLEGRO Martin (BEL),PUCAR Tomislav (CRO)
-World Tour Qatar Open Doha 2017,2017-02-21,OIKAWA Mizuki,ALMALKI Nawaf,3,0,"11,11,11|3,1,2",R32,GRAND_SLAM,U21MS,456,Main Draw,OIKAWA Mizuki (JPN),ALMALKI Nawaf (QAT)
-World Tour Qatar Open Doha 2017,2017-02-21,KIZUKURI Yuto,AL-HAJAJI Abdulaziz,3,0,"11,11,11|5,3,4",R32,GRAND_SLAM,U21MS,456,Main Draw,AL-HAJAJI Abdulaziz (QAT),KIZUKURI Yuto (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,TSUBOI Yuma,ALDMAISY Zeyad,3,0,"11,11,11|6,8,4",R32,GRAND_SLAM,U21MS,456,Main Draw,TSUBOI Yuma (JPN),ALDMAISY Zeyad (JOR)
-World Tour Qatar Open Doha 2017,2017-02-21,CHO Seungmin,AL ABDULLA Abdulaziz,3,0,"11,11,13|9,8,11",R32,GRAND_SLAM,U21MS,456,Main Draw,AL ABDULLA Abdulaziz (QAT),CHO Seungmin (KOR)
-World Tour Qatar Open Doha 2017,2017-02-21,SAKAI Asuka,NG Pak Nam,3,2,"11,11,5,14,11|6,9,11,16,7",R32,GRAND_SLAM,U21MS,456,Main Draw,NG Pak Nam (HKG),SAKAI Asuka (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,LAM Siu Hang,HAMEED Anwer,3,0,"11,11,11|6,5,6",R32,GRAND_SLAM,U21MS,456,Main Draw,LAM Siu Hang (HKG),HAMEED Anwer (IRQ)
-World Tour Qatar Open Doha 2017,2017-02-21,LIAO Cheng-Ting,KOUKEZIAN Berge,3,0,"11,11,11|4,5,2",R32,GRAND_SLAM,U21MS,456,Main Draw,KOUKEZIAN Berge (LBN),LIAO Cheng-Ting (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,PARK Ganghyeon,FAHES Ghaleb,3,0,"11,11,11|3,2,3",R32,GRAND_SLAM,U21MS,456,Main Draw,PARK Ganghyeon (KOR),FAHES Ghaleb (LBN)
-World Tour Qatar Open Doha 2017,2017-02-21,YANG Heng-Wei,HALLAK Mohamed,3,0,"11,11,11|2,8,2",R32,GRAND_SLAM,U21MS,456,Main Draw,HALLAK Mohamed (SYR),YANG Heng-Wei (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,LANDRIEU Andrea,ZAZA Obaida,3,0,"11,11,11|5,4,4",R32,GRAND_SLAM,U21MS,456,Main Draw,LANDRIEU Andrea (FRA),ZAZA Obaida (SYR)
-World Tour Qatar Open Doha 2017,2017-02-21,HO Kwan Kit,UDA Yukiya,3,0,"11,11,12|4,9,10",R16,GRAND_SLAM,U21MS,456,Main Draw,HO Kwan Kit (HKG),UDA Yukiya (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,PUCAR Tomislav,KIM Minhyeok,3,0,"11,11,11|8,5,7",R16,GRAND_SLAM,U21MS,456,Main Draw,KIM Minhyeok (KOR),PUCAR Tomislav (CRO)
-World Tour Qatar Open Doha 2017,2017-02-21,OIKAWA Mizuki,KIZUKURI Yuto,3,1,"10,11,11,11|12,6,9,7",R16,GRAND_SLAM,U21MS,456,Main Draw,OIKAWA Mizuki (JPN),KIZUKURI Yuto (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,CHO Seungmin,TSUBOI Yuma,3,2,"11,9,12,11,11|6,11,14,2,6",R16,GRAND_SLAM,U21MS,456,Main Draw,TSUBOI Yuma (JPN),CHO Seungmin (KOR)
-World Tour Qatar Open Doha 2017,2017-02-21,SAKAI Asuka,KALLBERG Anton,3,0,"11,11,11|8,7,6",R16,GRAND_SLAM,U21MS,456,Main Draw,KALLBERG Anton (SWE),SAKAI Asuka (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,LAM Siu Hang,LIAO Cheng-Ting,3,0,"12,11,11|10,8,6",R16,GRAND_SLAM,U21MS,456,Main Draw,LAM Siu Hang (HKG),LIAO Cheng-Ting (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,PARK Ganghyeon,YANG Heng-Wei,3,0,"11,11,11|4,5,7",R16,GRAND_SLAM,U21MS,456,Main Draw,PARK Ganghyeon (KOR),YANG Heng-Wei (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,LANDRIEU Andrea,HARIMOTO Tomokazu,3,2,"10,14,10,11,11|12,12,12,9,4",R16,GRAND_SLAM,U21MS,456,Main Draw,LANDRIEU Andrea (FRA),HARIMOTO Tomokazu (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,PUCAR Tomislav,HO Kwan Kit,3,2,"11,8,11,8,11|8,11,6,11,3",QF,GRAND_SLAM,U21MS,456,Main Draw,HO Kwan Kit (HKG),PUCAR Tomislav (CRO)
-World Tour Qatar Open Doha 2017,2017-02-21,CHO Seungmin,OIKAWA Mizuki,3,2,"13,8,8,11,13|11,11,11,9,11",QF,GRAND_SLAM,U21MS,456,Main Draw,OIKAWA Mizuki (JPN),CHO Seungmin (KOR)
-World Tour Qatar Open Doha 2017,2017-02-21,LAM Siu Hang,SAKAI Asuka,3,0,"12,11,11|10,7,8",QF,GRAND_SLAM,U21MS,456,Main Draw,SAKAI Asuka (JPN),LAM Siu Hang (HKG)
-World Tour Qatar Open Doha 2017,2017-02-21,LANDRIEU Andrea,PARK Ganghyeon,3,2,"3,11,11,9,11|11,8,9,11,7",QF,GRAND_SLAM,U21MS,456,Main Draw,PARK Ganghyeon (KOR),LANDRIEU Andrea (FRA)
-World Tour Qatar Open Doha 2017,2017-02-21,PUCAR Tomislav,CHO Seungmin,3,2,"12,11,8,3,11|10,8,11,11,6",SF,GRAND_SLAM,U21MS,456,Main Draw,PUCAR Tomislav (CRO),CHO Seungmin (KOR)
-World Tour Qatar Open Doha 2017,2017-02-21,LAM Siu Hang,LANDRIEU Andrea,3,2,"11,4,13,1,11|5,11,11,11,7",SF,GRAND_SLAM,U21MS,456,Main Draw,LAM Siu Hang (HKG),LANDRIEU Andrea (FRA)
-World Tour Qatar Open Doha 2017,2017-02-21,LAM Siu Hang,PUCAR Tomislav,3,0,"11,11,11|3,5,9",F,GRAND_SLAM,U21MS,456,Main Draw,PUCAR Tomislav (CRO),LAM Siu Hang (HKG)
-World Tour Qatar Open Doha 2017,2017-02-21,MAEDA Miyu,MIGOT Marie,3,0,"11,11,11|2,5,2",R16,GRAND_SLAM,U21WS,456,Main Draw,MIGOT Marie (FRA),MAEDA Miyu (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,LIN Ye,KHAYAT Jennifer,3,0,"11,11,11|6,4,5",R16,GRAND_SLAM,U21WS,456,Main Draw,LIN Ye (CAN),KHAYAT Jennifer (LBN)
-World Tour Qatar Open Doha 2017,2017-02-21,SHIBATA Saki,MAK Tze Wing,3,0,"11,11,11|7,2,7",R16,GRAND_SLAM,U21WS,456,Main Draw,MAK Tze Wing (HKG),SHIBATA Saki (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,CHOI Hyojoo,MORIZONO Mizuki,3,1,"11,6,11,11|7,11,9,6",R16,GRAND_SLAM,U21WS,456,Main Draw,CHOI Hyojoo (KOR),MORIZONO Mizuki (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,KATO Kyoka,BILAL Afaf,3,0,"11,11,11|4,4,6",R16,GRAND_SLAM,U21WS,456,Main Draw,KATO Kyoka (JPN),BILAL Afaf (IRQ)
-World Tour Qatar Open Doha 2017,2017-02-21,DOO Hoi Kem,MAEDA Miyu,3,0,"11,11,13|8,7,11",QF,GRAND_SLAM,U21WS,456,Main Draw,DOO Hoi Kem (HKG),MAEDA Miyu (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,SHIBATA Saki,LIN Ye,3,2,"11,11,7,11,11|8,13,11,7,7",QF,GRAND_SLAM,U21WS,456,Main Draw,LIN Ye (CAN),SHIBATA Saki (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,SOO Wai Yam,CHOI Hyojoo,3,1,"10,11,11,11|12,6,6,4",QF,GRAND_SLAM,U21WS,456,Main Draw,CHOI Hyojoo (KOR),SOO Wai Yam (HKG)
-World Tour Qatar Open Doha 2017,2017-02-21,KATO Kyoka,ZENG Jian,3,2,"13,10,11,8,11|11,12,7,11,9",QF,GRAND_SLAM,U21WS,456,Main Draw,KATO Kyoka (JPN),ZENG Jian (SGP)
-World Tour Qatar Open Doha 2017,2017-02-21,DOO Hoi Kem,SHIBATA Saki,3,0,"11,11,11|8,6,5",SF,GRAND_SLAM,U21WS,456,Main Draw,DOO Hoi Kem (HKG),SHIBATA Saki (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,SOO Wai Yam,KATO Kyoka,3,0,"11,11,13|8,7,11",SF,GRAND_SLAM,U21WS,456,Main Draw,SOO Wai Yam (HKG),KATO Kyoka (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,DOO Hoi Kem,SOO Wai Yam,3,1,"11,8,11,11|7,11,5,4",F,GRAND_SLAM,U21WS,456,Main Draw,DOO Hoi Kem (HKG),SOO Wai Yam (HKG)
-World Tour Qatar Open Doha 2017,2017-02-21,MENGEL Steffen,LIAO Cheng-Ting,4,3,"11,9,5,11,11,10,11|6,11,11,7,8,12,5",QR32,GRAND_SLAM,MS,456,Qualification,LIAO Cheng-Ting (TPE),MENGEL Steffen (GER)
-World Tour Qatar Open Doha 2017,2017-02-21,WALTHER Ricardo,CHEN Chien-An,4,0,"11,14,11,11|7,12,8,5",QR32,GRAND_SLAM,MS,456,Qualification,CHEN Chien-An (TPE),WALTHER Ricardo (GER)
-World Tour Qatar Open Doha 2017,2017-02-21,FILUS Ruwen,YOSHIMURA Maharu,4,3,"11,10,12,6,11,7,11|5,12,10,11,8,11,9",QR32,GRAND_SLAM,MS,456,Qualification,YOSHIMURA Maharu (JPN),FILUS Ruwen (GER)
-World Tour Qatar Open Doha 2017,2017-02-21,KARLSSON Mattias,KONECNY Tomas,4,1,"11,8,11,11,11|5,11,4,9,7",QR32,GRAND_SLAM,MS,456,Qualification,KARLSSON Mattias (SWE),KONECNY Tomas (CZE)
-World Tour Qatar Open Doha 2017,2017-02-21,YOSHIDA Masaki,LEBESSON Emmanuel,4,2,"11,6,11,9,11,11|9,11,5,11,7,7",QR32,GRAND_SLAM,MS,456,Qualification,LEBESSON Emmanuel (FRA),YOSHIDA Masaki (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,KOU Lei,FLORE Tristan,4,1,"11,9,12,11,11|5,11,10,3,8",QR32,GRAND_SLAM,MS,456,Qualification,KOU Lei (UKR),FLORE Tristan (FRA)
-World Tour Qatar Open Doha 2017,2017-02-21,LIANG Jingkun,MONTEIRO Joao,4,1,"11,11,11,8,11|6,1,2,11,6",QR32,GRAND_SLAM,MS,456,Qualification,MONTEIRO Joao (POR),LIANG Jingkun (CHN)
-World Tour Qatar Open Doha 2017,2017-02-21,JANG Woojin,KALLBERG Anton,4,3,"6,13,11,11,7,5,11|11,11,5,6,11,11,9",QR32,GRAND_SLAM,MS,456,Qualification,KALLBERG Anton (SWE),JANG Woojin (KOR)
-World Tour Qatar Open Doha 2017,2017-02-21,KIM Minseok,GROTH Jonathan,4,3,"10,11,7,10,11,11,11|12,9,11,12,4,5,4",QR32,GRAND_SLAM,MS,456,Qualification,GROTH Jonathan (DEN),KIM Minseok (KOR)
-World Tour Qatar Open Doha 2017,2017-02-21,JIANG Tianyi,ASSAR Omar,4,1,"7,11,11,12,12|11,8,8,10,10",QR32,GRAND_SLAM,MS,456,Qualification,JIANG Tianyi (HKG),ASSAR Omar (EGY)
-World Tour Qatar Open Doha 2017,2017-02-21,OSHIMA Yuya,TOKIC Bojan,4,1,"11,11,9,11,11|5,3,11,9,4",QR32,GRAND_SLAM,MS,456,Qualification,OSHIMA Yuya (JPN),TOKIC Bojan (SLO)
-World Tour Qatar Open Doha 2017,2017-02-21,ALAMIYAN Noshad,DYJAS Jakub,4,3,"11,2,11,10,11,8,11|4,11,8,12,4,11,6",QR32,GRAND_SLAM,MS,456,Qualification,DYJAS Jakub (POL),ALAMIYAN Noshad (IRI)
-World Tour Qatar Open Doha 2017,2017-02-21,POLCANOVA Sofia/SOLJA Amelie,GRZYBOWSKA-FRANC Katarzyna/PARTYKA Natalia,3,1,"11,11,11,11|13,5,6,3",R16,GRAND_SLAM,WD,456,Main Draw,POLCANOVA Sofia (AUT) / SOLJA Amelie (AUT),GRZYBOWSKA-FRANC Katarzyna (POL) / PARTYKA Natalia (POL)
-World Tour Qatar Open Doha 2017,2017-02-21,POLCANOVA Sofia/SOLJA Amelie,LIU Hsing-Yin/LIU Yu-Hsin,3,1,"11,11,4,11|5,6,11,7",QR16,GRAND_SLAM,WD,456,Qualification,POLCANOVA Sofia (AUT) / SOLJA Amelie (AUT),LIU Hsing-Yin (TPE) / LIU Yu-Hsin (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,DEVOS Robin/NUYTINCK Cedric,LIAO Cheng-Ting/SUN Chia-Hung,3,1,"12,11,12,11|14,7,10,8",R16,GRAND_SLAM,MD,456,Main Draw,DEVOS Robin (BEL) / NUYTINCK Cedric (BEL),LIAO Cheng-Ting (TPE) / SUN Chia-Hung (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,DEVOS Robin/NUYTINCK Cedric,JIANG Tianyi/LAM Siu Hang,3,1,"11,11,7,11|9,9,11,4",QF,GRAND_SLAM,MD,456,Main Draw,DEVOS Robin (BEL) / NUYTINCK Cedric (BEL),JIANG Tianyi (HKG) / LAM Siu Hang (HKG)
-World Tour Qatar Open Doha 2017,2017-02-21,FAN Zhendong/LIANG Jingkun,HO Kwan Kit/WONG Chun Ting,3,1,"9,11,11,11|11,5,8,3",R16,GRAND_SLAM,MD,456,Main Draw,FAN Zhendong (CHN) / LIANG Jingkun (CHN),HO Kwan Kit (HKG) / WONG Chun Ting (HKG)
-World Tour Qatar Open Doha 2017,2017-02-21,CHEN Meng/WANG Manyu,POLCANOVA Sofia/SOLJA Amelie,3,0,"11,11,11|2,7,5",QF,GRAND_SLAM,WD,456,Main Draw,CHEN Meng (CHN) / WANG Manyu (CHN),POLCANOVA Sofia (AUT) / SOLJA Amelie (AUT)
-World Tour Qatar Open Doha 2017,2017-02-21,CHEN Meng/WANG Manyu,DOO Hoi Kem/LEE Ho Ching,3,2,"11,12,9,6,11|3,10,11,11,8",SF,GRAND_SLAM,WD,456,Main Draw,CHEN Meng (CHN) / WANG Manyu (CHN),DOO Hoi Kem (HKG) / LEE Ho Ching (HKG)
-World Tour Qatar Open Doha 2017,2017-02-21,FAN Zhendong/LIANG Jingkun,ALAMIYAN Noshad/NOROOZI Afshin,3,0,,QR16,GRAND_SLAM,MD,456,Qualification,FAN Zhendong (CHN) / LIANG Jingkun (CHN),ALAMIYAN Noshad (IRI) / NOROOZI Afshin (IRI)
-World Tour Qatar Open Doha 2017,2017-02-21,VARADY Barbora/MATELOVA Hana,LI Jie/LI Qian,3,1,"11,11,11,11|5,9,13,4",QF,GRAND_SLAM,WD,456,Main Draw,VARADY Barbora (SVK) / MATELOVA Hana (CZE),LI Jie (NED) / LI Qian (POL)
-World Tour Qatar Open Doha 2017,2017-02-21,JIANG Tianyi/LAM Siu Hang,KOJIC Frane/ROBLES Alvaro,3,0,"11,11,11|7,8,7",QR16,GRAND_SLAM,MD,456,Qualification,JIANG Tianyi (HKG) / LAM Siu Hang (HKG),KOJIC Frane (CRO) / ROBLES Alvaro (ESP)
-World Tour Qatar Open Doha 2017,2017-02-21,FLORE Tristan/LEBESSON Emmanuel,FAN Zhendong/LIANG Jingkun,3,0,"11,11,11|7,4,9",QF,GRAND_SLAM,MD,456,Main Draw,FLORE Tristan (FRA) / LEBESSON Emmanuel (FRA),FAN Zhendong (CHN) / LIANG Jingkun (CHN)
-World Tour Qatar Open Doha 2017,2017-02-21,KARLSSON Kristian/KARLSSON Mattias,FLORE Tristan/LEBESSON Emmanuel,3,1,"11,5,11,11|8,11,7,2",SF,GRAND_SLAM,MD,456,Main Draw,KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),FLORE Tristan (FRA) / LEBESSON Emmanuel (FRA)
-World Tour Qatar Open Doha 2017,2017-02-21,NG Wing Nam/SOO Wai Yam,DE NUTTE Sarah/MIGOT Marie,3,1,"7,11,11,11|11,7,2,7",QR16,GRAND_SLAM,WD,456,Qualification,NG Wing Nam (HKG) / SOO Wai Yam (HKG),DE NUTTE Sarah (LUX) / MIGOT Marie (FRA)
-World Tour Qatar Open Doha 2017,2017-02-21,VARADY Barbora/MATELOVA Hana,HAN Ying/SHAN Xiaona,3,0,"11,11,12|5,8,10",R16,GRAND_SLAM,WD,456,Main Draw,VARADY Barbora (SVK) / MATELOVA Hana (CZE),HAN Ying (GER) / SHAN Xiaona (GER)
-World Tour Qatar Open Doha 2017,2017-02-21,FLORE Tristan/LEBESSON Emmanuel,FILUS Ruwen/WALTHER Ricardo,3,0,"11,13,11|9,11,3",QR16,GRAND_SLAM,MD,456,Qualification,FLORE Tristan (FRA) / LEBESSON Emmanuel (FRA),FILUS Ruwen (GER) / WALTHER Ricardo (GER)
-World Tour Qatar Open Doha 2017,2017-02-21,JIANG Tianyi/LAM Siu Hang,JANG Woojin/JEOUNG Youngsik,3,1,"11,10,11,11|6,12,8,9",R16,GRAND_SLAM,MD,456,Main Draw,JIANG Tianyi (HKG) / LAM Siu Hang (HKG),JANG Woojin (KOR) / JEOUNG Youngsik (KOR)
-World Tour Qatar Open Doha 2017,2017-02-21,CHEN Szu-Yu/CHENG I-Ching,NG Wing Nam/SOO Wai Yam,3,2,"11,11,7,10,11|9,8,11,12,6",R16,GRAND_SLAM,WD,456,Main Draw,CHEN Szu-Yu (TPE) / CHENG I-Ching (TPE),NG Wing Nam (HKG) / SOO Wai Yam (HKG)
-World Tour Qatar Open Doha 2017,2017-02-21,LI Jie/LI Qian,MADARASZ Dora/PERGEL Szandra,3,0,"11,11,11|4,4,2",R16,GRAND_SLAM,WD,456,Main Draw,LI Jie (NED) / LI Qian (POL),MADARASZ Dora (HUN) / PERGEL Szandra (HUN)
-World Tour Qatar Open Doha 2017,2017-02-21,CHEN Meng/WANG Manyu,EKHOLM Matilda/POTA Georgina,3,2,"9,11,11,6,11|11,7,6,11,4",R16,GRAND_SLAM,WD,456,Main Draw,CHEN Meng (CHN) / WANG Manyu (CHN),EKHOLM Matilda (SWE) / POTA Georgina (HUN)
-World Tour Qatar Open Doha 2017,2017-02-21,RECH DALDOSSO Marco/STOYANOV Niagol,JANCARIK Lubomir/KONECNY Tomas,3,2,"12,11,8,6,11|10,5,11,11,6",QR16,GRAND_SLAM,MD,456,Qualification,RECH DALDOSSO Marco (ITA) / STOYANOV Niagol (ITA),JANCARIK Lubomir (CZE) / KONECNY Tomas (CZE)
-World Tour Qatar Open Doha 2017,2017-02-21,MORIZONO Masataka/OSHIMA Yuya,RECH DALDOSSO Marco/STOYANOV Niagol,3,0,,R16,GRAND_SLAM,MD,456,Main Draw,MORIZONO Masataka (JPN) / OSHIMA Yuya (JPN),RECH DALDOSSO Marco (ITA) / STOYANOV Niagol (ITA)
-World Tour Qatar Open Doha 2017,2017-02-21,MORIZONO Masataka/OSHIMA Yuya,CHEN Chien-An/CHIANG Hung-Chieh,3,1,"11,6,11,11|7,11,5,5",QF,GRAND_SLAM,MD,456,Main Draw,MORIZONO Masataka (JPN) / OSHIMA Yuya (JPN),CHEN Chien-An (TPE) / CHIANG Hung-Chieh (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,MORIZONO Masataka/OSHIMA Yuya,DEVOS Robin/NUYTINCK Cedric,3,0,"11,12,11|4,10,8",SF,GRAND_SLAM,MD,456,Main Draw,MORIZONO Masataka (JPN) / OSHIMA Yuya (JPN),DEVOS Robin (BEL) / NUYTINCK Cedric (BEL)
-World Tour Qatar Open Doha 2017,2017-02-21,MORIZONO Masataka/OSHIMA Yuya,KARLSSON Kristian/KARLSSON Mattias,3,1,"9,11,11,11|11,5,5,9",F,GRAND_SLAM,MD,456,Main Draw,MORIZONO Masataka (JPN) / OSHIMA Yuya (JPN),KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE)
-World Tour Qatar Open Doha 2017,2017-02-21,DOO Hoi Kem/LEE Ho Ching,HIRANO Miu/ISHIKAWA Kasumi,3,2,"11,7,12,11,11|6,11,10,13,6",QF,GRAND_SLAM,WD,456,Main Draw,DOO Hoi Kem (HKG) / LEE Ho Ching (HKG),HIRANO Miu (JPN) / ISHIKAWA Kasumi (JPN)
-World Tour Qatar Open Doha 2017,2017-02-21,JEON Jihee/YANG Ha Eun,CHENG Hsien-Tzu/LIN Chia-Chih,3,1,"11,11,5,11|7,7,11,8",R16,GRAND_SLAM,WD,456,Main Draw,JEON Jihee (KOR) / YANG Ha Eun (KOR),CHENG Hsien-Tzu (TPE) / LIN Chia-Chih (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,JEON Jihee/YANG Ha Eun,CHEN Szu-Yu/CHENG I-Ching,3,2,"10,11,10,11,11|12,5,12,3,9",QF,GRAND_SLAM,WD,456,Main Draw,JEON Jihee (KOR) / YANG Ha Eun (KOR),CHEN Szu-Yu (TPE) / CHENG I-Ching (TPE)
-World Tour Qatar Open Doha 2017,2017-02-21,JEON Jihee/YANG Ha Eun,VARADY Barbora/MATELOVA Hana,3,1,"9,11,11,11|11,8,6,4",SF,GRAND_SLAM,WD,456,Main Draw,JEON Jihee (KOR) / YANG Ha Eun (KOR),VARADY Barbora (SVK) / MATELOVA Hana (CZE)
-World Tour Qatar Open Doha 2017,2017-02-21,CHEN Meng/WANG Manyu,JEON Jihee/YANG Ha Eun,3,1,"11,11,4,11|4,6,11,6",F,GRAND_SLAM,WD,456,Main Draw,CHEN Meng (CHN) / WANG Manyu (CHN),JEON Jihee (KOR) / YANG Ha Eun (KOR)
-World Tour Qatar Open Doha 2017,2017-02-21,HIRANO Miu/ISHIKAWA Kasumi,CHO Hala/CHOI Hyojoo,3,2,"6,9,11,11,11|11,11,6,4,4",QR16,GRAND_SLAM,WD,456,Qualification,HIRANO Miu (JPN) / ISHIKAWA Kasumi (JPN),CHO Hala (KOR) / CHOI Hyojoo (KOR)
-World Tour Qatar Open Doha 2017,2017-02-21,LIAO Cheng-Ting/SUN Chia-Hung,DYJAS Jakub/GERALDO Joao,3,0,,QR16,GRAND_SLAM,MD,456,Qualification,LIAO Cheng-Ting (TPE) / SUN Chia-Hung (TPE),DYJAS Jakub (POL) / GERALDO Joao (POR)
-World Tour Qatar Open Doha 2017,2017-02-21,GERELL Par/KALLBERG Anton,AL-MOHANNADI Ahmad Khalil/LI Ping,3,2,"12,9,9,11,12|10,11,11,6,10",R16,GRAND_SLAM,MD,456,Main Draw,GERELL Par (SWE) / KALLBERG Anton (SWE),AL-MOHANNADI Ahmad Khalil (QAT) / LI Ping (QAT)
-World Tour Qatar Open Doha 2017,2017-02-21,CHEN Chien-An/CHIANG Hung-Chieh,ABDULWAHHAB Mohammed/ALMALKI Nawaf,3,0,"11,11,11|2,2,3",QR16,GRAND_SLAM,MD,456,Qualification,CHEN Chien-An (TPE) / CHIANG Hung-Chieh (TPE),ABDULWAHHAB Mohammed (QAT) / ALMALKI Nawaf (QAT)
-World Tour Qatar Open Doha 2017,2017-02-21,FLORE Tristan/LEBESSON Emmanuel,LIVENTSOV Alexey/PAIKOV Mikhail,3,1,"10,11,11,11|12,7,7,5",R16,GRAND_SLAM,MD,456,Main Draw,FLORE Tristan (FRA) / LEBESSON Emmanuel (FRA),LIVENTSOV Alexey (RUS) / PAIKOV Mikhail (RUS)
-World Tour Qatar Open Doha 2017,2017-02-21,HIRANO Miu/ISHIKAWA Kasumi,LIN Ye/ZHOU Yihan,3,1,"6,11,12,11|11,6,10,5",R16,GRAND_SLAM,WD,456,Main Draw,HIRANO Miu (JPN) / ISHIKAWA Kasumi (JPN),LIN Ye (CAN) / ZHOU Yihan (SGP)
-World Tour Qatar Open Doha 2017,2017-02-21,DOO Hoi Kem/LEE Ho Ching,HU Melek/ZENG Jian,3,1,"11,11,9,11|5,6,11,9",R16,GRAND_SLAM,WD,456,Main Draw,DOO Hoi Kem (HKG) / LEE Ho Ching (HKG),HU Melek (TUR) / ZENG Jian (SGP)
-World Tour Qatar Open Doha 2017,2017-02-21,VARADY Barbora/MATELOVA Hana,STEFANSKA Kinga/TODOROVIC Andrea,3,0,"11,13,11|8,11,7",QR16,GRAND_SLAM,WD,456,Qualification,VARADY Barbora (SVK) / MATELOVA Hana (CZE),STEFANSKA Kinga (POL) / TODOROVIC Andrea (SRB)
-World Tour Qatar Open Doha 2017,2017-02-21,KARLSSON Kristian/KARLSSON Mattias,MA Long/ZHANG Jike,3,1,"5,11,12,11|11,8,10,3",R16,GRAND_SLAM,MD,456,Main Draw,KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),MA Long (CHN) / ZHANG Jike (CHN)
-World Tour Qatar Open Doha 2017,2017-02-21,KARLSSON Kristian/KARLSSON Mattias,GERELL Par/KALLBERG Anton,3,0,"11,12,11|6,10,7",QF,GRAND_SLAM,MD,456,Main Draw,KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),GERELL Par (SWE) / KALLBERG Anton (SWE)
-World Tour Qatar Open Doha 2017,2017-02-21,GERELL Par/KALLBERG Anton,GROTH Jonathan/TOKIC Bojan,3,0,,QR16,GRAND_SLAM,MD,456,Qualification,GERELL Par (SWE) / KALLBERG Anton (SWE),GROTH Jonathan (DEN) / TOKIC Bojan (SLO)
-World Tour Qatar Open Doha 2017,2017-02-21,KARLSSON Kristian/KARLSSON Mattias,ARUNA Quadri/ASSAR Omar,3,0,"12,11,11|10,9,7",QR16,GRAND_SLAM,MD,456,Qualification,KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),ARUNA Quadri (NGR) / ASSAR Omar (EGY)
-World Tour Qatar Open Doha 2017,2017-02-21,CHEN Chien-An/CHIANG Hung-Chieh,NIWA Koki/YOSHIMURA Maharu,3,2,"12,10,11,11,11|14,12,3,8,8",R16,GRAND_SLAM,MD,456,Main Draw,CHEN Chien-An (TPE) / CHIANG Hung-Chieh (TPE),NIWA Koki (JPN) / YOSHIMURA Maharu (JPN)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+World Tour Qatar Open Doha 2017,2017-02-21,PUCAR Tomislav,PARK Ganghyeon,4,1,"9,12,11,12,11|11,10,8,10,8",,GRAND_SLAM,MS,456,Qualification,PARK Ganghyeon (KOR),PUCAR Tomislav (CRO),PUCAR Tomislav
+World Tour Qatar Open Doha 2017,2017-02-21,PUCAR Tomislav,TANG Peng,4,1,"11,6,11,11,11|6,11,7,9,9",,GRAND_SLAM,MS,456,Qualification,TANG Peng (HKG),PUCAR Tomislav (CRO),PUCAR Tomislav
+World Tour Qatar Open Doha 2017,2017-02-21,TANG Peng,PARK Ganghyeon,4,1,"11,11,11,7,11|4,5,5,11,6",,GRAND_SLAM,MS,456,Qualification,TANG Peng (HKG),PARK Ganghyeon (KOR),TANG Peng
+World Tour Qatar Open Doha 2017,2017-02-21,SALIFOU Abdel-Kader,DEVOS Robin,4,2,"11,11,15,11,5,11|5,6,17,7,11,4",,GRAND_SLAM,MS,456,Qualification,DEVOS Robin (BEL),SALIFOU Abdel-Kader (BEN),SALIFOU Abdel-Kader
+World Tour Qatar Open Doha 2017,2017-02-21,SALIFOU Abdel-Kader,MURAMATSU Yuto,4,0,"11,11,12,11|9,7,10,5",,GRAND_SLAM,MS,456,Qualification,MURAMATSU Yuto (JPN),SALIFOU Abdel-Kader (BEN),SALIFOU Abdel-Kader
+World Tour Qatar Open Doha 2017,2017-02-21,MURAMATSU Yuto,DEVOS Robin,4,0,"11,12,11,11|7,10,5,6",,GRAND_SLAM,MS,456,Qualification,MURAMATSU Yuto (JPN),DEVOS Robin (BEL),MURAMATSU Yuto
+World Tour Qatar Open Doha 2017,2017-02-21,PERSSON Jon,LIVENTSOV Alexey,4,1,"12,11,11,7,11|10,4,9,11,8",,GRAND_SLAM,MS,456,Qualification,PERSSON Jon (SWE),LIVENTSOV Alexey (RUS),PERSSON Jon
+World Tour Qatar Open Doha 2017,2017-02-21,APOLONIA Tiago,LIVENTSOV Alexey,4,2,"13,12,5,11,4,11|11,10,11,5,11,8",,GRAND_SLAM,MS,456,Qualification,APOLONIA Tiago (POR),LIVENTSOV Alexey (RUS),APOLONIA Tiago
+World Tour Qatar Open Doha 2017,2017-02-21,APOLONIA Tiago,PERSSON Jon,4,2,"14,11,11,9,9,11|12,7,6,11,11,3",,GRAND_SLAM,MS,456,Qualification,APOLONIA Tiago (POR),PERSSON Jon (SWE),APOLONIA Tiago
+World Tour Qatar Open Doha 2017,2017-02-21,ROBLES Alvaro,KIM Minhyeok,4,3,"7,12,9,13,11,11,11|11,10,11,15,6,5,5",,GRAND_SLAM,MS,456,Qualification,ROBLES Alvaro (ESP),KIM Minhyeok (KOR),ROBLES Alvaro
+World Tour Qatar Open Doha 2017,2017-02-21,KARLSSON Kristian,KIM Minhyeok,4,1,"11,11,8,11,11|3,5,11,6,4",,GRAND_SLAM,MS,456,Qualification,KARLSSON Kristian (SWE),KIM Minhyeok (KOR),KARLSSON Kristian
+World Tour Qatar Open Doha 2017,2017-02-21,ROBLES Alvaro,KARLSSON Kristian,4,3,"11,8,11,11,15,4,11|7,11,13,5,13,11,9",,GRAND_SLAM,MS,456,Qualification,KARLSSON Kristian (SWE),ROBLES Alvaro (ESP),ROBLES Alvaro
+World Tour Qatar Open Doha 2017,2017-02-21,LIAO Cheng-Ting,KIZUKURI Yuto,4,0,"12,12,11,12|10,10,1,10",,GRAND_SLAM,MS,456,Qualification,LIAO Cheng-Ting (TPE),KIZUKURI Yuto (JPN),LIAO Cheng-Ting
+World Tour Qatar Open Doha 2017,2017-02-21,KIZUKURI Yuto,GACINA Andrej,4,0,"11,12,11,11|9,10,8,8",,GRAND_SLAM,MS,456,Qualification,GACINA Andrej (CRO),KIZUKURI Yuto (JPN),KIZUKURI Yuto
+World Tour Qatar Open Doha 2017,2017-02-21,LIAO Cheng-Ting,GACINA Andrej,4,2,"9,11,11,2,14,14|11,6,8,11,12,12",,GRAND_SLAM,MS,456,Qualification,GACINA Andrej (CRO),LIAO Cheng-Ting (TPE),LIAO Cheng-Ting
+World Tour Qatar Open Doha 2017,2017-02-21,SAKAI Asuka,BOBOCICA Mihai,4,3,"11,8,8,11,7,11,11|6,11,11,6,11,7,8",,GRAND_SLAM,MS,456,Qualification,BOBOCICA Mihai (ITA),SAKAI Asuka (JPN),SAKAI Asuka
+World Tour Qatar Open Doha 2017,2017-02-21,CHEN Chien-An,SAKAI Asuka,4,0,"11,11,11,11|4,9,8,6",,GRAND_SLAM,MS,456,Qualification,CHEN Chien-An (TPE),SAKAI Asuka (JPN),CHEN Chien-An
+World Tour Qatar Open Doha 2017,2017-02-21,CHEN Chien-An,BOBOCICA Mihai,4,1,"11,11,11,10,11|5,9,2,12,4",,GRAND_SLAM,MS,456,Qualification,CHEN Chien-An (TPE),BOBOCICA Mihai (ITA),CHEN Chien-An
+World Tour Qatar Open Doha 2017,2017-02-21,HABESOHN Daniel,STOYANOV Niagol,4,2,"6,11,11,14,5,11|11,5,5,12,11,7",,GRAND_SLAM,MS,456,Qualification,HABESOHN Daniel (AUT),STOYANOV Niagol (ITA),HABESOHN Daniel
+World Tour Qatar Open Doha 2017,2017-02-21,YOSHIMURA Maharu,STOYANOV Niagol,4,1,"11,6,11,11,11|8,11,3,6,8",,GRAND_SLAM,MS,456,Qualification,YOSHIMURA Maharu (JPN),STOYANOV Niagol (ITA),YOSHIMURA Maharu
+World Tour Qatar Open Doha 2017,2017-02-21,YOSHIMURA Maharu,HABESOHN Daniel,4,2,"11,5,11,9,11,11|7,11,8,11,9,5",,GRAND_SLAM,MS,456,Qualification,YOSHIMURA Maharu (JPN),HABESOHN Daniel (AUT),YOSHIMURA Maharu
+World Tour Qatar Open Doha 2017,2017-02-21,ROBINOT Quentin,KOSIBA Daniel,4,2,"5,11,6,11,11,11|11,6,11,5,7,9",,GRAND_SLAM,MS,456,Qualification,ROBINOT Quentin (FRA),KOSIBA Daniel (HUN),ROBINOT Quentin
+World Tour Qatar Open Doha 2017,2017-02-21,KARLSSON Mattias,KOSIBA Daniel,4,2,"11,11,8,1,11,11|9,9,11,11,5,7",,GRAND_SLAM,MS,456,Qualification,KARLSSON Mattias (SWE),KOSIBA Daniel (HUN),KARLSSON Mattias
+World Tour Qatar Open Doha 2017,2017-02-21,KARLSSON Mattias,ROBINOT Quentin,4,1,"11,9,12,11,11|8,11,10,8,2",,GRAND_SLAM,MS,456,Qualification,KARLSSON Mattias (SWE),ROBINOT Quentin (FRA),KARLSSON Mattias
+World Tour Qatar Open Doha 2017,2017-02-21,OIKAWA Mizuki,LAMBIET Florent,4,2,"11,4,9,11,11,11|7,11,11,5,6,7",,GRAND_SLAM,MS,456,Qualification,OIKAWA Mizuki (JPN),LAMBIET Florent (BEL),OIKAWA Mizuki
+World Tour Qatar Open Doha 2017,2017-02-21,LEBESSON Emmanuel,LAMBIET Florent,4,0,"11,11,11,11|9,9,4,9",,GRAND_SLAM,MS,456,Qualification,LEBESSON Emmanuel (FRA),LAMBIET Florent (BEL),LEBESSON Emmanuel
+World Tour Qatar Open Doha 2017,2017-02-21,LEBESSON Emmanuel,OIKAWA Mizuki,4,1,"11,9,11,11,11|6,11,8,7,8",,GRAND_SLAM,MS,456,Qualification,LEBESSON Emmanuel (FRA),OIKAWA Mizuki (JPN),LEBESSON Emmanuel
+World Tour Qatar Open Doha 2017,2017-02-21,ARVIDSSON Simon,JANCARIK Lubomir,4,3,"11,10,14,11,11,11,13|13,12,16,9,5,6,11",,GRAND_SLAM,MS,456,Qualification,JANCARIK Lubomir (CZE),ARVIDSSON Simon (SWE),ARVIDSSON Simon
+World Tour Qatar Open Doha 2017,2017-02-21,KOU Lei,ARVIDSSON Simon,4,3,"7,5,7,11,11,11,11|11,11,11,5,9,4,4",,GRAND_SLAM,MS,456,Qualification,KOU Lei (UKR),ARVIDSSON Simon (SWE),KOU Lei
+World Tour Qatar Open Doha 2017,2017-02-21,KOU Lei,JANCARIK Lubomir,4,1,"6,11,11,11,0,11|10,9,6,6,11,6",,GRAND_SLAM,MS,456,Qualification,KOU Lei (UKR),JANCARIK Lubomir (CZE),KOU Lei
+World Tour Qatar Open Doha 2017,2017-02-21,SZOCS Hunor,KOJIC Frane,4,1,"11,11,11,8,11|6,9,8,11,9",,GRAND_SLAM,MS,456,Qualification,SZOCS Hunor (ROU),KOJIC Frane (CRO),SZOCS Hunor
+World Tour Qatar Open Doha 2017,2017-02-21,MONTEIRO Joao,KOJIC Frane,4,2,"11,8,12,11,9,11|8,11,10,5,11,8",,GRAND_SLAM,MS,456,Qualification,MONTEIRO Joao (POR),KOJIC Frane (CRO),MONTEIRO Joao
+World Tour Qatar Open Doha 2017,2017-02-21,MONTEIRO Joao,SZOCS Hunor,4,1,"11,12,8,11,11|4,10,11,4,6",,GRAND_SLAM,MS,456,Qualification,MONTEIRO Joao (POR),SZOCS Hunor (ROU),MONTEIRO Joao
+World Tour Qatar Open Doha 2017,2017-02-21,KALLBERG Anton,MUTTI Leonardo,4,0,,,GRAND_SLAM,MS,456,Qualification,KALLBERG Anton (SWE),MUTTI Leonardo (ITA),KALLBERG Anton
+World Tour Qatar Open Doha 2017,2017-02-21,SHIBAEV Alexander,MUTTI Leonardo,4,0,,,GRAND_SLAM,MS,456,Qualification,SHIBAEV Alexander (RUS),MUTTI Leonardo (ITA),SHIBAEV Alexander
+World Tour Qatar Open Doha 2017,2017-02-21,KALLBERG Anton,SHIBAEV Alexander,4,1,"11,11,11,11,11|5,13,9,3,7",,GRAND_SLAM,MS,456,Qualification,SHIBAEV Alexander (RUS),KALLBERG Anton (SWE),KALLBERG Anton
+World Tour Qatar Open Doha 2017,2017-02-21,CHO Seungmin,ELBEIALI Mohamed,4,0,"19,11,12,11|17,8,10,7",,GRAND_SLAM,MS,456,Qualification,CHO Seungmin (KOR),ELBEIALI Mohamed (EGY),CHO Seungmin
+World Tour Qatar Open Doha 2017,2017-02-21,GROTH Jonathan,ELBEIALI Mohamed,4,2,"6,7,11,11,11,11|11,11,7,6,1,6",,GRAND_SLAM,MS,456,Qualification,GROTH Jonathan (DEN),ELBEIALI Mohamed (EGY),GROTH Jonathan
+World Tour Qatar Open Doha 2017,2017-02-21,GROTH Jonathan,CHO Seungmin,4,1,"8,11,12,11,13|11,5,10,7,11",,GRAND_SLAM,MS,456,Qualification,GROTH Jonathan (DEN),CHO Seungmin (KOR),GROTH Jonathan
+World Tour Qatar Open Doha 2017,2017-02-21,JIANG Tianyi,DURAN Marc,4,1,"11,11,11,10,11|6,6,9,12,8",,GRAND_SLAM,MS,456,Qualification,JIANG Tianyi (HKG),DURAN Marc (ESP),JIANG Tianyi
+World Tour Qatar Open Doha 2017,2017-02-21,GERELL Par,DURAN Marc,4,2,"11,8,11,11,11,12|7,11,13,8,6,10",,GRAND_SLAM,MS,456,Qualification,GERELL Par (SWE),DURAN Marc (ESP),GERELL Par
+World Tour Qatar Open Doha 2017,2017-02-21,JIANG Tianyi,GERELL Par,4,2,"11,9,11,11,4,11|8,11,8,6,11,2",,GRAND_SLAM,MS,456,Qualification,GERELL Par (SWE),JIANG Tianyi (HKG),JIANG Tianyi
+World Tour Qatar Open Doha 2017,2017-02-21,NUYTINCK Cedric,LAM Siu Hang,4,1,"11,8,11,11,11|5,11,8,5,9",,GRAND_SLAM,MS,456,Qualification,NUYTINCK Cedric (BEL),LAM Siu Hang (HKG),NUYTINCK Cedric
+World Tour Qatar Open Doha 2017,2017-02-21,OSHIMA Yuya,LAM Siu Hang,4,0,"11,11,11,13|8,6,6,11",,GRAND_SLAM,MS,456,Qualification,OSHIMA Yuya (JPN),LAM Siu Hang (HKG),OSHIMA Yuya
+World Tour Qatar Open Doha 2017,2017-02-21,OSHIMA Yuya,NUYTINCK Cedric,4,1,"11,8,12,11,11|2,11,10,5,7",,GRAND_SLAM,MS,456,Qualification,OSHIMA Yuya (JPN),NUYTINCK Cedric (BEL),OSHIMA Yuya
+World Tour Qatar Open Doha 2017,2017-02-21,TSUBOI Yuma,BROSSIER Benjamin,4,3,"11,11,13,12,10,7,12|8,9,15,10,12,11,10",,GRAND_SLAM,MS,456,Qualification,BROSSIER Benjamin (FRA),TSUBOI Yuma (JPN),TSUBOI Yuma
+World Tour Qatar Open Doha 2017,2017-02-21,DYJAS Jakub,TSUBOI Yuma,4,2,"11,10,11,13,11,11|13,12,8,11,7,9",,GRAND_SLAM,MS,456,Qualification,DYJAS Jakub (POL),TSUBOI Yuma (JPN),DYJAS Jakub
+World Tour Qatar Open Doha 2017,2017-02-21,DYJAS Jakub,BROSSIER Benjamin,4,2,"11,12,7,9,11,11|9,10,11,11,9,6",,GRAND_SLAM,MS,456,Qualification,DYJAS Jakub (POL),BROSSIER Benjamin (FRA),DYJAS Jakub
+World Tour Qatar Open Doha 2017,2017-02-21,ALAMIYAN Noshad,SUN Chia-Hung,4,2,"4,11,10,13,13,11|11,4,12,11,11,4",,GRAND_SLAM,MS,456,Qualification,ALAMIYAN Noshad (IRI),SUN Chia-Hung (TPE),ALAMIYAN Noshad
+World Tour Qatar Open Doha 2017,2017-02-21,DUDA Benedikt,SUN Chia-Hung,4,1,"11,11,5,12,11|7,9,11,10,7",,GRAND_SLAM,MS,456,Qualification,DUDA Benedikt (GER),SUN Chia-Hung (TPE),DUDA Benedikt
+World Tour Qatar Open Doha 2017,2017-02-21,ALAMIYAN Noshad,DUDA Benedikt,4,1,"11,11,11,8,11|3,5,9,11,5",,GRAND_SLAM,MS,456,Qualification,DUDA Benedikt (GER),ALAMIYAN Noshad (IRI),ALAMIYAN Noshad
+World Tour Qatar Open Doha 2017,2017-02-21,PAIKOV Mikhail,RECH DALDOSSO Marco,4,2,"11,5,6,11,11,11|8,11,11,8,3,7",,GRAND_SLAM,MS,456,Qualification,PAIKOV Mikhail (RUS),RECH DALDOSSO Marco (ITA),PAIKOV Mikhail
+World Tour Qatar Open Doha 2017,2017-02-21,TOKIC Bojan,RECH DALDOSSO Marco,4,1,"11,11,6,11,11|9,9,11,5,3",,GRAND_SLAM,MS,456,Qualification,TOKIC Bojan (SLO),RECH DALDOSSO Marco (ITA),TOKIC Bojan
+World Tour Qatar Open Doha 2017,2017-02-21,TOKIC Bojan,PAIKOV Mikhail,4,2,"13,11,6,13,7,11|11,4,11,11,11,9",,GRAND_SLAM,MS,456,Qualification,TOKIC Bojan (SLO),PAIKOV Mikhail (RUS),TOKIC Bojan
+World Tour Qatar Open Doha 2017,2017-02-21,YANG Heng-Wei,TSUBOI Gustavo,4,3,"9,11,9,11,5,11,11|11,8,11,5,11,5,5",,GRAND_SLAM,MS,456,Qualification,TSUBOI Gustavo (BRA),YANG Heng-Wei (TPE),YANG Heng-Wei
+World Tour Qatar Open Doha 2017,2017-02-21,ASSAR Omar,YANG Heng-Wei,4,1,"12,11,8,11,11|10,8,11,4,7",,GRAND_SLAM,MS,456,Qualification,ASSAR Omar (EGY),YANG Heng-Wei (TPE),ASSAR Omar
+World Tour Qatar Open Doha 2017,2017-02-21,ASSAR Omar,TSUBOI Gustavo,4,0,"11,11,11,11|9,5,5,2",,GRAND_SLAM,MS,456,Qualification,ASSAR Omar (EGY),TSUBOI Gustavo (BRA),ASSAR Omar
+World Tour Qatar Open Doha 2017,2017-02-21,KIM Minseok,LANDRIEU Andrea,4,0,"11,15,11,12|6,13,7,10",,GRAND_SLAM,MS,456,Qualification,KIM Minseok (KOR),LANDRIEU Andrea (FRA),KIM Minseok
+World Tour Qatar Open Doha 2017,2017-02-21,GAO Ning,LANDRIEU Andrea,4,1,"11,11,11,7,11|8,9,3,11,9",,GRAND_SLAM,MS,456,Qualification,GAO Ning (SGP),LANDRIEU Andrea (FRA),GAO Ning
+World Tour Qatar Open Doha 2017,2017-02-21,KIM Minseok,GAO Ning,4,1,"11,10,11,11,11|9,12,8,8,4",,GRAND_SLAM,MS,456,Qualification,GAO Ning (SGP),KIM Minseok (KOR),KIM Minseok
+World Tour Qatar Open Doha 2017,2017-02-21,NG Pak Nam,CHIANG Hung-Chieh,4,3,"11,10,12,11,9,13,11|7,12,14,9,11,11,9",,GRAND_SLAM,MS,456,Qualification,CHIANG Hung-Chieh (TPE),NG Pak Nam (HKG),NG Pak Nam
+World Tour Qatar Open Doha 2017,2017-02-21,JANG Woojin,HAMEED Anwer,4,0,"11,11,11,11|5,3,6,6",,GRAND_SLAM,MS,456,Qualification,JANG Woojin (KOR),HAMEED Anwer (IRQ),JANG Woojin
+World Tour Qatar Open Doha 2017,2017-02-21,JANG Woojin,NG Pak Nam,4,2,"11,18,11,11,10,11|2,20,1,6,12,4",,GRAND_SLAM,MS,456,Qualification,JANG Woojin (KOR),NG Pak Nam (HKG),JANG Woojin
+World Tour Qatar Open Doha 2017,2017-02-21,CHIANG Hung-Chieh,HAMEED Anwer,4,0,"11,11,11,11|8,7,5,8",,GRAND_SLAM,MS,456,Qualification,CHIANG Hung-Chieh (TPE),HAMEED Anwer (IRQ),CHIANG Hung-Chieh
+World Tour Qatar Open Doha 2017,2017-02-21,JANG Woojin,CHIANG Hung-Chieh,4,0,"11,11,11,18|6,6,6,16",,GRAND_SLAM,MS,456,Qualification,JANG Woojin (KOR),CHIANG Hung-Chieh (TPE),JANG Woojin
+World Tour Qatar Open Doha 2017,2017-02-21,NG Pak Nam,HAMEED Anwer,4,0,"11,11,11,11|9,8,7,5",,GRAND_SLAM,MS,456,Qualification,NG Pak Nam (HKG),HAMEED Anwer (IRQ),NG Pak Nam
+World Tour Qatar Open Doha 2017,2017-02-21,GERALDO Joao,ALLEGRO Martin,4,1,"11,11,6,11,11|6,9,11,9,7",,GRAND_SLAM,MS,456,Qualification,GERALDO Joao (POR),ALLEGRO Martin (BEL),GERALDO Joao
+World Tour Qatar Open Doha 2017,2017-02-21,LIANG Jingkun,HO Kwan Kit,4,1,"11,11,11,5,11|6,9,5,11,4",,GRAND_SLAM,MS,456,Qualification,HO Kwan Kit (HKG),LIANG Jingkun (CHN),LIANG Jingkun
+World Tour Qatar Open Doha 2017,2017-02-21,HO Kwan Kit,ALLEGRO Martin,4,1,"13,11,13,7,11|11,7,11,11,8",,GRAND_SLAM,MS,456,Qualification,HO Kwan Kit (HKG),ALLEGRO Martin (BEL),HO Kwan Kit
+World Tour Qatar Open Doha 2017,2017-02-21,LIANG Jingkun,GERALDO Joao,4,1,"11,11,10,11,11|2,4,12,9,5",,GRAND_SLAM,MS,456,Qualification,GERALDO Joao (POR),LIANG Jingkun (CHN),LIANG Jingkun
+World Tour Qatar Open Doha 2017,2017-02-21,HO Kwan Kit,GERALDO Joao,4,1,"11,5,11,11,11|7,11,7,7,9",,GRAND_SLAM,MS,456,Qualification,HO Kwan Kit (HKG),GERALDO Joao (POR),HO Kwan Kit
+World Tour Qatar Open Doha 2017,2017-02-21,LIANG Jingkun,ALLEGRO Martin,4,1,"11,11,12,9,11|8,9,10,11,6",,GRAND_SLAM,MS,456,Qualification,ALLEGRO Martin (BEL),LIANG Jingkun (CHN),LIANG Jingkun
+World Tour Qatar Open Doha 2017,2017-02-21,FLORE Tristan,LEE Chia-Sheng,4,0,"11,11,11,11|6,8,4,7",,GRAND_SLAM,MS,456,Qualification,FLORE Tristan (FRA),LEE Chia-Sheng (TPE),FLORE Tristan
+World Tour Qatar Open Doha 2017,2017-02-21,MORIZONO Masataka,FAHES Ghaleb,4,0,"11,11,11,11|8,1,1,5",,GRAND_SLAM,MS,456,Qualification,MORIZONO Masataka (JPN),FAHES Ghaleb (LBN),MORIZONO Masataka
+World Tour Qatar Open Doha 2017,2017-02-21,MORIZONO Masataka,LEE Chia-Sheng,4,3,"6,8,12,6,11,11,11|11,11,10,11,8,8,4",,GRAND_SLAM,MS,456,Qualification,MORIZONO Masataka (JPN),LEE Chia-Sheng (TPE),MORIZONO Masataka
+World Tour Qatar Open Doha 2017,2017-02-21,FLORE Tristan,FAHES Ghaleb,4,0,"11,11,11,11|3,8,6,4",,GRAND_SLAM,MS,456,Qualification,FLORE Tristan (FRA),FAHES Ghaleb (LBN),FLORE Tristan
+World Tour Qatar Open Doha 2017,2017-02-21,FLORE Tristan,MORIZONO Masataka,4,2,"13,12,7,8,14,11|11,10,11,11,12,4",,GRAND_SLAM,MS,456,Qualification,MORIZONO Masataka (JPN),FLORE Tristan (FRA),FLORE Tristan
+World Tour Qatar Open Doha 2017,2017-02-21,LEE Chia-Sheng,FAHES Ghaleb,4,0,"11,11,11,11|7,6,2,4",,GRAND_SLAM,MS,456,Qualification,LEE Chia-Sheng (TPE),FAHES Ghaleb (LBN),LEE Chia-Sheng
+World Tour Qatar Open Doha 2017,2017-02-21,YOSHIDA Masaki,CHEW Clarence,4,1,"11,5,11,11,11|3,11,6,8,7",,GRAND_SLAM,MS,456,Qualification,YOSHIDA Masaki (JPN),CHEW Clarence (SGP),YOSHIDA Masaki
+World Tour Qatar Open Doha 2017,2017-02-21,CHEN Weixing,ZAZA Obaida,4,0,"11,11,11,11|4,4,3,2",,GRAND_SLAM,MS,456,Qualification,CHEN Weixing (AUT),ZAZA Obaida (SYR),CHEN Weixing
+World Tour Qatar Open Doha 2017,2017-02-21,CHEN Weixing,CHEW Clarence,4,1,"8,13,11,11,11|11,11,6,5,5",,GRAND_SLAM,MS,456,Qualification,CHEN Weixing (AUT),CHEW Clarence (SGP),CHEN Weixing
+World Tour Qatar Open Doha 2017,2017-02-21,YOSHIDA Masaki,ZAZA Obaida,4,0,"11,11,11,11|6,4,1,3",,GRAND_SLAM,MS,456,Qualification,YOSHIDA Masaki (JPN),ZAZA Obaida (SYR),YOSHIDA Masaki
+World Tour Qatar Open Doha 2017,2017-02-21,YOSHIDA Masaki,CHEN Weixing,4,0,"11,11,11,11|6,3,5,8",,GRAND_SLAM,MS,456,Qualification,CHEN Weixing (AUT),YOSHIDA Masaki (JPN),YOSHIDA Masaki
+World Tour Qatar Open Doha 2017,2017-02-21,CHEW Clarence,ZAZA Obaida,4,0,"11,11,11,11|2,2,9,5",,GRAND_SLAM,MS,456,Qualification,CHEW Clarence (SGP),ZAZA Obaida (SYR),CHEW Clarence
+World Tour Qatar Open Doha 2017,2017-02-21,KONECNY Tomas,NOROOZI Afshin,4,3,"9,11,11,9,7,15,11|11,4,7,11,11,13,3",,GRAND_SLAM,MS,456,Qualification,KONECNY Tomas (CZE),NOROOZI Afshin (IRI),KONECNY Tomas
+World Tour Qatar Open Doha 2017,2017-02-21,WANG Yang,EL HAKIM Rock,4,0,"11,11,11,11|2,8,6,8",,GRAND_SLAM,MS,456,Qualification,WANG Yang (SVK),EL HAKIM Rock (LBN),WANG Yang
+World Tour Qatar Open Doha 2017,2017-02-21,WANG Yang,NOROOZI Afshin,4,3,"9,11,11,9,5,11,11|11,4,3,11,11,4,3",,GRAND_SLAM,MS,456,Qualification,WANG Yang (SVK),NOROOZI Afshin (IRI),WANG Yang
+World Tour Qatar Open Doha 2017,2017-02-21,KONECNY Tomas,EL HAKIM Rock,4,0,"11,11,11,11|3,4,2,8",,GRAND_SLAM,MS,456,Qualification,KONECNY Tomas (CZE),EL HAKIM Rock (LBN),KONECNY Tomas
+World Tour Qatar Open Doha 2017,2017-02-21,KONECNY Tomas,WANG Yang,4,1,"11,6,11,11,11|9,11,2,7,8",,GRAND_SLAM,MS,456,Qualification,WANG Yang (SVK),KONECNY Tomas (CZE),KONECNY Tomas
+World Tour Qatar Open Doha 2017,2017-02-21,NOROOZI Afshin,EL HAKIM Rock,4,0,"11,11,11,15|7,8,6,13",,GRAND_SLAM,MS,456,Qualification,NOROOZI Afshin (IRI),EL HAKIM Rock (LBN),NOROOZI Afshin
+World Tour Qatar Open Doha 2017,2017-02-21,UDA Yukiya,IONESCU Ovidiu,4,3,"8,4,12,11,5,11,11|11,11,10,4,11,9,2",,GRAND_SLAM,MS,456,Qualification,IONESCU Ovidiu (ROU),UDA Yukiya (JPN),UDA Yukiya
+World Tour Qatar Open Doha 2017,2017-02-21,FILUS Ruwen,OLUYOMI Salako,4,0,"11,11,11,11|2,2,3,7",,GRAND_SLAM,MS,456,Qualification,FILUS Ruwen (GER),OLUYOMI Salako (NGR),FILUS Ruwen
+World Tour Qatar Open Doha 2017,2017-02-21,FILUS Ruwen,UDA Yukiya,4,0,"13,11,11,11|11,8,6,7",,GRAND_SLAM,MS,456,Qualification,FILUS Ruwen (GER),UDA Yukiya (JPN),FILUS Ruwen
+World Tour Qatar Open Doha 2017,2017-02-21,IONESCU Ovidiu,OLUYOMI Salako,4,0,"11,11,11,11|2,2,3,5",,GRAND_SLAM,MS,456,Qualification,IONESCU Ovidiu (ROU),OLUYOMI Salako (NGR),IONESCU Ovidiu
+World Tour Qatar Open Doha 2017,2017-02-21,IONESCU Ovidiu,FILUS Ruwen,4,3,"12,2,3,11,11,11,11|14,11,11,5,6,8,9",,GRAND_SLAM,MS,456,Qualification,FILUS Ruwen (GER),IONESCU Ovidiu (ROU),IONESCU Ovidiu
+World Tour Qatar Open Doha 2017,2017-02-21,UDA Yukiya,OLUYOMI Salako,4,0,"11,11,11,11|8,5,7,5",,GRAND_SLAM,MS,456,Qualification,UDA Yukiya (JPN),OLUYOMI Salako (NGR),UDA Yukiya
+World Tour Qatar Open Doha 2017,2017-02-21,HARIMOTO Tomokazu,ABDULWAHHAB Mohammed,4,1,"11,11,11,9,11|1,7,8,11,4",,GRAND_SLAM,MS,456,Qualification,HARIMOTO Tomokazu (JPN),ABDULWAHHAB Mohammed (QAT),HARIMOTO Tomokazu
+World Tour Qatar Open Doha 2017,2017-02-21,WALTHER Ricardo,KOUKEZIAN Berge,4,0,"11,11,11,11|0,4,5,2",,GRAND_SLAM,MS,456,Qualification,WALTHER Ricardo (GER),KOUKEZIAN Berge (LBN),WALTHER Ricardo
+World Tour Qatar Open Doha 2017,2017-02-21,WALTHER Ricardo,ABDULWAHHAB Mohammed,4,0,"11,11,11,11|7,5,5,5",,GRAND_SLAM,MS,456,Qualification,WALTHER Ricardo (GER),ABDULWAHHAB Mohammed (QAT),WALTHER Ricardo
+World Tour Qatar Open Doha 2017,2017-02-21,HARIMOTO Tomokazu,KOUKEZIAN Berge,4,0,"11,11,11,11|1,0,2,6",,GRAND_SLAM,MS,456,Qualification,HARIMOTO Tomokazu (JPN),KOUKEZIAN Berge (LBN),HARIMOTO Tomokazu
+World Tour Qatar Open Doha 2017,2017-02-21,WALTHER Ricardo,HARIMOTO Tomokazu,4,3,"11,11,9,7,6,11,13|9,9,11,11,11,5,11",,GRAND_SLAM,MS,456,Qualification,WALTHER Ricardo (GER),HARIMOTO Tomokazu (JPN),WALTHER Ricardo
+World Tour Qatar Open Doha 2017,2017-02-21,ABDULWAHHAB Mohammed,KOUKEZIAN Berge,4,0,"11,11,11,11|3,5,3,8",,GRAND_SLAM,MS,456,Qualification,ABDULWAHHAB Mohammed (QAT),KOUKEZIAN Berge (LBN),ABDULWAHHAB Mohammed
+World Tour Qatar Open Doha 2017,2017-02-21,MENGEL Steffen,ALDMAISY Zeyad,4,1,"11,9,11,11,11|5,11,4,5,4",,GRAND_SLAM,MS,456,Qualification,MENGEL Steffen (GER),ALDMAISY Zeyad (JOR),MENGEL Steffen
+World Tour Qatar Open Doha 2017,2017-02-21,OLAH Benedek,HALLAK Mohamed,4,0,"11,11,11,11|8,4,6,7",,GRAND_SLAM,MS,456,Qualification,OLAH Benedek (FIN),HALLAK Mohamed (SYR),OLAH Benedek
+World Tour Qatar Open Doha 2017,2017-02-21,OLAH Benedek,ALDMAISY Zeyad,4,0,"11,11,14,11|5,6,12,8",,GRAND_SLAM,MS,456,Qualification,OLAH Benedek (FIN),ALDMAISY Zeyad (JOR),OLAH Benedek
+World Tour Qatar Open Doha 2017,2017-02-21,MENGEL Steffen,HALLAK Mohamed,4,0,"11,11,11,11|4,6,3,3",,GRAND_SLAM,MS,456,Qualification,MENGEL Steffen (GER),HALLAK Mohamed (SYR),MENGEL Steffen
+World Tour Qatar Open Doha 2017,2017-02-21,MENGEL Steffen,OLAH Benedek,4,1,"11,11,11,9,11|4,8,9,11,9",,GRAND_SLAM,MS,456,Qualification,OLAH Benedek (FIN),MENGEL Steffen (GER),MENGEL Steffen
+World Tour Qatar Open Doha 2017,2017-02-21,ALDMAISY Zeyad,HALLAK Mohamed,4,0,"11,11,11,11|7,8,7,6",,GRAND_SLAM,MS,456,Qualification,ALDMAISY Zeyad (JOR),HALLAK Mohamed (SYR),ALDMAISY Zeyad
+World Tour Qatar Open Doha 2017,2017-02-21,MATELOVA Hana,CHENG Hsien-Tzu,4,1,"5,11,11,11,11|11,8,4,5,7",,GRAND_SLAM,WS,456,Qualification,MATELOVA Hana (CZE),CHENG Hsien-Tzu (TPE),MATELOVA Hana
+World Tour Qatar Open Doha 2017,2017-02-21,HAMAMOTO Yui,CHENG Hsien-Tzu,4,3,"11,8,11,9,11,11,11|4,11,13,11,5,8,9",,GRAND_SLAM,WS,456,Qualification,HAMAMOTO Yui (AUT),CHENG Hsien-Tzu (TPE),HAMAMOTO Yui
+World Tour Qatar Open Doha 2017,2017-02-21,MATELOVA Hana,HAMAMOTO Yui,4,2,"7,4,11,12,11,11|11,11,7,10,6,5",,GRAND_SLAM,WS,456,Qualification,HAMAMOTO Yui (AUT),MATELOVA Hana (CZE),MATELOVA Hana
+World Tour Qatar Open Doha 2017,2017-02-21,PERGEL Szandra,MORIZONO Mizuki,4,2,"11,5,11,5,11,11|8,11,8,11,3,6",,GRAND_SLAM,WS,456,Qualification,MORIZONO Mizuki (JPN),PERGEL Szandra (HUN),PERGEL Szandra
+World Tour Qatar Open Doha 2017,2017-02-21,LI Jie,PERGEL Szandra,4,0,"11,11,11,11|4,7,5,2",,GRAND_SLAM,WS,456,Qualification,LI Jie (NED),PERGEL Szandra (HUN),LI Jie
+World Tour Qatar Open Doha 2017,2017-02-21,MORIZONO Mizuki,LI Jie,4,3,"11,2,11,3,11,9,11|3,11,8,11,9,11,5",,GRAND_SLAM,WS,456,Qualification,LI Jie (NED),MORIZONO Mizuki (JPN),MORIZONO Mizuki
+World Tour Qatar Open Doha 2017,2017-02-21,SOLJA Amelie,LEE I-Chen,4,3,"11,11,6,7,11,9,15|4,9,11,11,8,11,13",,GRAND_SLAM,WS,456,Qualification,LEE I-Chen (TPE),SOLJA Amelie (AUT),SOLJA Amelie
+World Tour Qatar Open Doha 2017,2017-02-21,YANG Ha Eun,SOLJA Amelie,4,1,"11,11,9,11,11|8,2,11,7,4",,GRAND_SLAM,WS,456,Qualification,YANG Ha Eun (KOR),SOLJA Amelie (AUT),YANG Ha Eun
+World Tour Qatar Open Doha 2017,2017-02-21,YANG Ha Eun,LEE I-Chen,4,0,"11,11,12,12|8,5,10,10",,GRAND_SLAM,WS,456,Qualification,YANG Ha Eun (KOR),LEE I-Chen (TPE),YANG Ha Eun
+World Tour Qatar Open Doha 2017,2017-02-21,MAK Tze Wing,MADARASZ Dora,4,2,"11,11,11,8,11,11|9,9,13,11,5,9",,GRAND_SLAM,WS,456,Qualification,MADARASZ Dora (HUN),MAK Tze Wing (HKG),MAK Tze Wing
+World Tour Qatar Open Doha 2017,2017-02-21,ZENG Jian,MAK Tze Wing,4,0,"11,11,11,11|7,8,7,9",,GRAND_SLAM,WS,456,Qualification,ZENG Jian (SGP),MAK Tze Wing (HKG),ZENG Jian
+World Tour Qatar Open Doha 2017,2017-02-21,ZENG Jian,MADARASZ Dora,4,1,"11,16,10,11,11|6,14,12,4,5",,GRAND_SLAM,WS,456,Qualification,ZENG Jian (SGP),MADARASZ Dora (HUN),ZENG Jian
+World Tour Qatar Open Doha 2017,2017-02-21,PARTYKA Natalia,DE NUTTE Sarah,4,1,"11,12,11,6,11|5,10,8,11,8",,GRAND_SLAM,WS,456,Qualification,PARTYKA Natalia (POL),DE NUTTE Sarah (LUX),PARTYKA Natalia
+World Tour Qatar Open Doha 2017,2017-02-21,ZHOU Yihan,DE NUTTE Sarah,4,0,"11,11,13,18|7,8,11,16",,GRAND_SLAM,WS,456,Qualification,ZHOU Yihan (SGP),DE NUTTE Sarah (LUX),ZHOU Yihan
+World Tour Qatar Open Doha 2017,2017-02-21,PARTYKA Natalia,ZHOU Yihan,4,2,"12,15,7,7,11,12|10,13,11,11,6,10",,GRAND_SLAM,WS,456,Qualification,ZHOU Yihan (SGP),PARTYKA Natalia (POL),PARTYKA Natalia
+World Tour Qatar Open Doha 2017,2017-02-21,LIU Hsing-Yin,KATO Kyoka,4,2,"4,11,4,11,11,11|11,6,11,6,8,8",,GRAND_SLAM,WS,456,Qualification,KATO Kyoka (JPN),LIU Hsing-Yin (TPE),LIU Hsing-Yin
+World Tour Qatar Open Doha 2017,2017-02-21,YU Fu,LIU Hsing-Yin,4,2,"5,11,4,11,11,11|11,8,11,5,4,3",,GRAND_SLAM,WS,456,Qualification,YU Fu (POR),LIU Hsing-Yin (TPE),YU Fu
+World Tour Qatar Open Doha 2017,2017-02-21,KATO Kyoka,YU Fu,4,2,"5,13,10,15,11,11|11,11,12,13,4,8",,GRAND_SLAM,WS,456,Qualification,YU Fu (POR),KATO Kyoka (JPN),KATO Kyoka
+World Tour Qatar Open Doha 2017,2017-02-21,STEFANSKA Kinga,VARADY Barbora,4,3,"11,9,11,4,13,11,11|13,11,9,11,11,6,8",,GRAND_SLAM,WS,456,Qualification,VARADY Barbora (SVK),STEFANSKA Kinga (POL),STEFANSKA Kinga
+World Tour Qatar Open Doha 2017,2017-02-21,HASHIMOTO Honoka,STEFANSKA Kinga,4,2,"11,11,11,7,6,11|8,6,9,11,11,5",,GRAND_SLAM,WS,456,Qualification,HASHIMOTO Honoka (JPN),STEFANSKA Kinga (POL),HASHIMOTO Honoka
+World Tour Qatar Open Doha 2017,2017-02-21,VARADY Barbora,HASHIMOTO Honoka,4,1,"11,12,11,12,13|7,10,7,14,11",,GRAND_SLAM,WS,456,Qualification,HASHIMOTO Honoka (JPN),VARADY Barbora (SVK),VARADY Barbora
+World Tour Qatar Open Doha 2017,2017-02-21,TODOROVIC Andrea,LIN Ye,4,2,"8,11,10,15,11,11|11,8,12,13,9,9",,GRAND_SLAM,WS,456,Qualification,LIN Ye (CAN),TODOROVIC Andrea (SRB),TODOROVIC Andrea
+World Tour Qatar Open Doha 2017,2017-02-21,MORIZONO Misaki,TODOROVIC Andrea,4,0,"11,11,22,11|4,8,20,3",,GRAND_SLAM,WS,456,Qualification,MORIZONO Misaki (JPN),TODOROVIC Andrea (SRB),MORIZONO Misaki
+World Tour Qatar Open Doha 2017,2017-02-21,MORIZONO Misaki,LIN Ye,4,0,"11,11,11,11|9,3,7,1",,GRAND_SLAM,WS,456,Qualification,MORIZONO Misaki (JPN),LIN Ye (CAN),MORIZONO Misaki
+World Tour Qatar Open Doha 2017,2017-02-21,GRZYBOWSKA-FRANC Katarzyna,LIN Chia-Chih,4,0,"11,11,11,11|8,9,9,4",,GRAND_SLAM,WS,456,Qualification,GRZYBOWSKA-FRANC Katarzyna (POL),LIN Chia-Chih (TPE),GRZYBOWSKA-FRANC Katarzyna
+World Tour Qatar Open Doha 2017,2017-02-21,KATO Miyu,LIN Chia-Chih,4,0,"11,11,11,11|6,9,4,7",,GRAND_SLAM,WS,456,Qualification,KATO Miyu (JPN),LIN Chia-Chih (TPE),KATO Miyu
+World Tour Qatar Open Doha 2017,2017-02-21,KATO Miyu,GRZYBOWSKA-FRANC Katarzyna,4,0,"11,11,11,11|9,9,4,7",,GRAND_SLAM,WS,456,Qualification,KATO Miyu (JPN),GRZYBOWSKA-FRANC Katarzyna (POL),KATO Miyu
+World Tour Qatar Open Doha 2017,2017-02-21,HUANG Yi-Hua,MIGOT Marie,4,0,"11,16,11,16|8,14,5,14",,GRAND_SLAM,WS,456,Qualification,HUANG Yi-Hua (TPE),MIGOT Marie (FRA),HUANG Yi-Hua
+World Tour Qatar Open Doha 2017,2017-02-21,LI Qian,MIGOT Marie,4,1,"11,10,11,11,11|9,12,3,7,5",,GRAND_SLAM,WS,456,Qualification,LI Qian (POL),MIGOT Marie (FRA),LI Qian
+World Tour Qatar Open Doha 2017,2017-02-21,LI Qian,HUANG Yi-Hua,4,3,"8,11,3,4,12,11,12|11,5,11,11,10,8,10",,GRAND_SLAM,WS,456,Qualification,LI Qian (POL),HUANG Yi-Hua (TPE),LI Qian
+World Tour Qatar Open Doha 2017,2017-02-21,SOO Wai Yam,LIN Po-Hsuan,4,1,"11,11,11,8,11|9,5,2,11,7",,GRAND_SLAM,WS,456,Qualification,SOO Wai Yam (HKG),LIN Po-Hsuan (TPE),SOO Wai Yam
+World Tour Qatar Open Doha 2017,2017-02-21,POTA Georgina,LIN Po-Hsuan,4,1,"11,7,11,11,11|3,11,5,3,7",,GRAND_SLAM,WS,456,Qualification,POTA Georgina (HUN),LIN Po-Hsuan (TPE),POTA Georgina
+World Tour Qatar Open Doha 2017,2017-02-21,SOO Wai Yam,POTA Georgina,4,3,"8,11,4,11,11,7,11|11,7,11,5,9,11,7",,GRAND_SLAM,WS,456,Qualification,POTA Georgina (HUN),SOO Wai Yam (HKG),SOO Wai Yam
+World Tour Qatar Open Doha 2017,2017-02-21,MATSUZAWA Marina,LIU Yu-Hsin,4,1,"11,11,7,11,11|8,7,11,5,6",,GRAND_SLAM,WS,456,Qualification,MATSUZAWA Marina (JPN),LIU Yu-Hsin (TPE),MATSUZAWA Marina
+World Tour Qatar Open Doha 2017,2017-02-21,JIANG Huajun,LIU Yu-Hsin,4,0,"11,11,11,11|4,6,3,8",,GRAND_SLAM,WS,456,Qualification,JIANG Huajun (HKG),LIU Yu-Hsin (TPE),JIANG Huajun
+World Tour Qatar Open Doha 2017,2017-02-21,JIANG Huajun,MATSUZAWA Marina,4,2,"11,9,11,12,9,11|8,11,7,10,11,3",,GRAND_SLAM,WS,456,Qualification,JIANG Huajun (HKG),MATSUZAWA Marina (JPN),JIANG Huajun
+World Tour Qatar Open Doha 2017,2017-02-21,GU Yuting,MAEDA Miyu,4,3,"9,7,10,11,11,11,12|11,11,12,7,9,6,10",,GRAND_SLAM,WS,456,Qualification,MAEDA Miyu (JPN),GU Yuting (CHN),GU Yuting
+World Tour Qatar Open Doha 2017,2017-02-21,GU Yuting,CHOI Hyojoo,4,1,"11,11,6,11,11|9,9,11,9,9",,GRAND_SLAM,WS,456,Qualification,CHOI Hyojoo (KOR),GU Yuting (CHN),GU Yuting
+World Tour Qatar Open Doha 2017,2017-02-21,MAEDA Miyu,CHOI Hyojoo,4,1,"12,11,11,8,11|10,8,6,11,5",,GRAND_SLAM,WS,456,Qualification,CHOI Hyojoo (KOR),MAEDA Miyu (JPN),MAEDA Miyu
+World Tour Qatar Open Doha 2017,2017-02-21,NG Wing Nam,CHO Hala,4,3,"11,11,8,12,12,15,11|6,8,11,14,10,17,6",,GRAND_SLAM,WS,456,Qualification,NG Wing Nam (HKG),CHO Hala (KOR),NG Wing Nam
+World Tour Qatar Open Doha 2017,2017-02-21,MORI Sakura,CHO Hala,4,0,"13,14,11,11|11,12,8,8",,GRAND_SLAM,WS,456,Qualification,MORI Sakura (JPN),CHO Hala (KOR),MORI Sakura
+World Tour Qatar Open Doha 2017,2017-02-21,NG Wing Nam,MORI Sakura,4,3,"3,7,11,12,5,11,11|11,11,9,10,11,6,4",,GRAND_SLAM,WS,456,Qualification,MORI Sakura (JPN),NG Wing Nam (HKG),NG Wing Nam
+World Tour Qatar Open Doha 2017,2017-02-21,WANG Manyu,BILAL Afaf,4,0,"11,11,11,11|1,2,1,4",,GRAND_SLAM,WS,456,Qualification,WANG Manyu (CHN),BILAL Afaf (IRQ),WANG Manyu
+World Tour Qatar Open Doha 2017,2017-02-21,CHEN Szu-Yu,BILAL Afaf,4,0,"11,11,11,11|3,5,2,5",,GRAND_SLAM,WS,456,Qualification,CHEN Szu-Yu (TPE),BILAL Afaf (IRQ),CHEN Szu-Yu
+World Tour Qatar Open Doha 2017,2017-02-21,WANG Manyu,CHEN Szu-Yu,4,2,"3,11,10,11,11,11|11,8,12,9,4,8",,GRAND_SLAM,WS,456,Qualification,CHEN Szu-Yu (TPE),WANG Manyu (CHN),WANG Manyu
+World Tour Qatar Open Doha 2017,2017-02-21,SHIBATA Saki,KHAYAT Jennifer,4,0,"11,11,11,11|2,2,3,4",,GRAND_SLAM,WS,456,Qualification,SHIBATA Saki (JPN),KHAYAT Jennifer (LBN),SHIBATA Saki
+World Tour Qatar Open Doha 2017,2017-02-21,POLCANOVA Sofia,KHAYAT Jennifer,4,0,"11,11,11,11|3,6,1,3",,GRAND_SLAM,WS,456,Qualification,POLCANOVA Sofia (AUT),KHAYAT Jennifer (LBN),POLCANOVA Sofia
+World Tour Qatar Open Doha 2017,2017-02-21,POLCANOVA Sofia,SHIBATA Saki,4,2,"10,11,11,11,8,11|12,8,8,6,11,7",,GRAND_SLAM,WS,456,Qualification,POLCANOVA Sofia (AUT),SHIBATA Saki (JPN),POLCANOVA Sofia
+World Tour Qatar Open Doha 2017,2017-02-21,MA Long,LIAO Cheng-Ting,4,0,"11,11,11,11|9,9,4,3",R32,GRAND_SLAM,MS,456,Main Draw,MA Long (CHN),LIAO Cheng-Ting (TPE),MA Long
+World Tour Qatar Open Doha 2017,2017-02-21,LI Ping,KIM Minseok,4,1,"11,11,11,10,11|9,9,7,12,5",R32,GRAND_SLAM,MS,456,Main Draw,KIM Minseok (KOR),LI Ping (QAT),LI Ping
+World Tour Qatar Open Doha 2017,2017-02-21,FREITAS Marcos,MENGEL Steffen,4,1,"11,4,11,11,11|4,11,5,8,8",R32,GRAND_SLAM,MS,456,Main Draw,FREITAS Marcos (POR),MENGEL Steffen (GER),FREITAS Marcos
+World Tour Qatar Open Doha 2017,2017-02-21,PUCAR Tomislav,ALAMIYAN Noshad,4,3,"5,11,9,11,12,8,11|11,5,11,6,10,11,5",R32,GRAND_SLAM,MS,456,Main Draw,ALAMIYAN Noshad (IRI),PUCAR Tomislav (CRO),PUCAR Tomislav
+World Tour Qatar Open Doha 2017,2017-02-21,WONG Chun Ting,FILUS Ruwen,4,3,"11,11,6,11,10,10,13|8,1,11,6,12,12,11",R32,GRAND_SLAM,MS,456,Main Draw,WONG Chun Ting (HKG),FILUS Ruwen (GER),WONG Chun Ting
+World Tour Qatar Open Doha 2017,2017-02-21,CHUANG Chih-Yuan,KOU Lei,4,1,"11,11,11,9,11|5,7,9,11,9",R32,GRAND_SLAM,MS,456,Main Draw,KOU Lei (UKR),CHUANG Chih-Yuan (TPE),CHUANG Chih-Yuan
+World Tour Qatar Open Doha 2017,2017-02-21,NIWA Koki,WALTHER Ricardo,4,1,"11,13,11,8,11|6,11,9,11,8",R32,GRAND_SLAM,MS,456,Main Draw,NIWA Koki (JPN),WALTHER Ricardo (GER),NIWA Koki
+World Tour Qatar Open Doha 2017,2017-02-21,ZHANG Jike,APOLONIA Tiago,4,1,"11,11,11,7,11|7,5,9,11,3",R32,GRAND_SLAM,MS,456,Main Draw,APOLONIA Tiago (POR),ZHANG Jike (CHN),ZHANG Jike
+World Tour Qatar Open Doha 2017,2017-02-21,XU Xin,SALIFOU Abdel-Kader,4,0,"11,11,11,11|8,6,6,6",R32,GRAND_SLAM,MS,456,Main Draw,XU Xin (CHN),SALIFOU Abdel-Kader (BEN),XU Xin
+World Tour Qatar Open Doha 2017,2017-02-21,FANG Bo,JANG Woojin,4,3,"8,14,10,11,11,10,11|11,12,12,7,9,12,3",R32,GRAND_SLAM,MS,456,Main Draw,JANG Woojin (KOR),FANG Bo (KAZ),FANG Bo
+World Tour Qatar Open Doha 2017,2017-02-21,LIANG Jingkun,MATSUDAIRA Kenta,4,3,"7,11,8,9,11,11,13|11,8,11,11,6,9,11",R32,GRAND_SLAM,MS,456,Main Draw,MATSUDAIRA Kenta (JPN),LIANG Jingkun (CHN),LIANG Jingkun
+World Tour Qatar Open Doha 2017,2017-02-21,KARLSSON Mattias,SAMSONOV Vladimir,4,2,"8,10,11,11,11,11|11,12,7,6,9,9",R32,GRAND_SLAM,MS,456,Main Draw,KARLSSON Mattias (SWE),SAMSONOV Vladimir (BLR),KARLSSON Mattias
+World Tour Qatar Open Doha 2017,2017-02-21,OVTCHAROV Dimitrij,JIANG Tianyi,4,1,"11,11,9,11,11|7,7,11,7,6",R32,GRAND_SLAM,MS,456,Main Draw,OVTCHAROV Dimitrij (GER),JIANG Tianyi (HKG),OVTCHAROV Dimitrij
+World Tour Qatar Open Doha 2017,2017-02-21,YOSHIDA Masaki,JEOUNG Youngsik,4,1,"7,17,11,11,11|11,15,2,8,9",R32,GRAND_SLAM,MS,456,Main Draw,YOSHIDA Masaki (JPN),JEOUNG Youngsik (KOR),YOSHIDA Masaki
+World Tour Qatar Open Doha 2017,2017-02-21,ROBLES Alvaro,AL-MOHANNADI Ahmad Khalil,4,0,"11,11,11,11|1,1,6,2",R32,GRAND_SLAM,MS,456,Main Draw,AL-MOHANNADI Ahmad Khalil (QAT),ROBLES Alvaro (ESP),ROBLES Alvaro
+World Tour Qatar Open Doha 2017,2017-02-21,FAN Zhendong,OSHIMA Yuya,4,0,"11,11,11,11|5,8,5,4",R32,GRAND_SLAM,MS,456,Main Draw,OSHIMA Yuya (JPN),FAN Zhendong (CHN),FAN Zhendong
+World Tour Qatar Open Doha 2017,2017-02-21,MA Long,LI Ping,4,1,"11,7,11,11,11|7,11,4,6,9",R16,GRAND_SLAM,MS,456,Main Draw,MA Long (CHN),LI Ping (QAT),MA Long
+World Tour Qatar Open Doha 2017,2017-02-21,FREITAS Marcos,PUCAR Tomislav,4,3,"7,11,8,11,11,11,11|11,6,11,13,3,6,6",R16,GRAND_SLAM,MS,456,Main Draw,FREITAS Marcos (POR),PUCAR Tomislav (CRO),FREITAS Marcos
+World Tour Qatar Open Doha 2017,2017-02-21,CHUANG Chih-Yuan,WONG Chun Ting,4,3,"9,8,11,11,11,8,11|11,11,6,9,7,11,8",R16,GRAND_SLAM,MS,456,Main Draw,WONG Chun Ting (HKG),CHUANG Chih-Yuan (TPE),CHUANG Chih-Yuan
+World Tour Qatar Open Doha 2017,2017-02-21,NIWA Koki,ZHANG Jike,4,0,"11,11,11,11|1,0,0,0",R16,GRAND_SLAM,MS,456,Main Draw,NIWA Koki (JPN),ZHANG Jike (CHN),NIWA Koki
+World Tour Qatar Open Doha 2017,2017-02-21,FANG Bo,XU Xin,4,2,"11,11,14,4,4,13|6,7,12,11,11,11",R16,GRAND_SLAM,MS,456,Main Draw,XU Xin (CHN),FANG Bo (KAZ),FANG Bo
+World Tour Qatar Open Doha 2017,2017-02-21,LIANG Jingkun,KARLSSON Mattias,4,1,"11,9,11,11,11|7,11,9,8,6",R16,GRAND_SLAM,MS,456,Main Draw,LIANG Jingkun (CHN),KARLSSON Mattias (SWE),LIANG Jingkun
+World Tour Qatar Open Doha 2017,2017-02-21,YOSHIDA Masaki,OVTCHAROV Dimitrij,4,2,"11,6,4,11,11,11|6,11,11,7,9,8",R16,GRAND_SLAM,MS,456,Main Draw,OVTCHAROV Dimitrij (GER),YOSHIDA Masaki (JPN),YOSHIDA Masaki
+World Tour Qatar Open Doha 2017,2017-02-21,FAN Zhendong,ROBLES Alvaro,4,0,"11,11,11,12|6,8,8,10",R16,GRAND_SLAM,MS,456,Main Draw,ROBLES Alvaro (ESP),FAN Zhendong (CHN),FAN Zhendong
+World Tour Qatar Open Doha 2017,2017-02-21,MA Long,FREITAS Marcos,4,1,"11,11,8,11,11|7,8,11,6,9",QF,GRAND_SLAM,MS,456,Main Draw,MA Long (CHN),FREITAS Marcos (POR),MA Long
+World Tour Qatar Open Doha 2017,2017-02-21,CHUANG Chih-Yuan,NIWA Koki,4,2,"9,16,6,12,11,11|11,14,11,10,8,4",QF,GRAND_SLAM,MS,456,Main Draw,CHUANG Chih-Yuan (TPE),NIWA Koki (JPN),CHUANG Chih-Yuan
+World Tour Qatar Open Doha 2017,2017-02-21,FANG Bo,LIANG Jingkun,4,0,"11,11,15,11|9,6,13,5",QF,GRAND_SLAM,MS,456,Main Draw,FANG Bo (KAZ),LIANG Jingkun (CHN),FANG Bo
+World Tour Qatar Open Doha 2017,2017-02-21,FAN Zhendong,YOSHIDA Masaki,4,0,"11,11,11,11|7,7,4,3",QF,GRAND_SLAM,MS,456,Main Draw,YOSHIDA Masaki (JPN),FAN Zhendong (CHN),FAN Zhendong
+World Tour Qatar Open Doha 2017,2017-02-21,MA Long,CHUANG Chih-Yuan,4,0,"11,11,11,11|8,8,6,4",SF,GRAND_SLAM,MS,456,Main Draw,MA Long (CHN),CHUANG Chih-Yuan (TPE),MA Long
+World Tour Qatar Open Doha 2017,2017-02-21,FAN Zhendong,FANG Bo,4,3,"9,11,12,5,11,13,11|11,3,10,11,6,15,8",SF,GRAND_SLAM,MS,456,Main Draw,FANG Bo (KAZ),FAN Zhendong (CHN),FAN Zhendong
+World Tour Qatar Open Doha 2017,2017-02-21,MA Long,FAN Zhendong,4,2,"11,11,11,5,6,11|8,8,7,11,11,4",F,GRAND_SLAM,MS,456,Main Draw,MA Long (CHN),FAN Zhendong (CHN),MA Long
+World Tour Qatar Open Doha 2017,2017-02-21,ZHU Yuling,JIANG Huajun,4,2,"11,11,8,11,15,11|5,7,11,7,17,3",R32,GRAND_SLAM,WS,456,Main Draw,ZHU Yuling (MAC),JIANG Huajun (HKG),ZHU Yuling
+World Tour Qatar Open Doha 2017,2017-02-21,SHAN Xiaona,LI Qian,4,2,"8,11,4,11,11,11|11,8,11,6,4,8",R32,GRAND_SLAM,WS,456,Main Draw,LI Qian (POL),SHAN Xiaona (GER),SHAN Xiaona
+World Tour Qatar Open Doha 2017,2017-02-21,YANG Ha Eun,LEE Ho Ching,4,2,"5,11,11,11,9,11|11,8,5,5,11,5",R32,GRAND_SLAM,WS,456,Main Draw,LEE Ho Ching (HKG),YANG Ha Eun (KOR),YANG Ha Eun
+World Tour Qatar Open Doha 2017,2017-02-21,PARTYKA Natalia,WU Yang,4,3,"11,9,11,9,11,4,11|7,11,9,11,4,11,9",R32,GRAND_SLAM,WS,456,Main Draw,PARTYKA Natalia (POL),WU Yang (CHN),PARTYKA Natalia
+World Tour Qatar Open Doha 2017,2017-02-21,HAN Ying,MATELOVA Hana,4,0,"11,11,11,11|9,2,5,4",R32,GRAND_SLAM,WS,456,Main Draw,HAN Ying (GER),MATELOVA Hana (CZE),HAN Ying
+World Tour Qatar Open Doha 2017,2017-02-21,CHEN Meng,NG Wing Nam,4,2,"6,11,11,11,11,11|11,13,4,8,7,7",R32,GRAND_SLAM,WS,456,Main Draw,NG Wing Nam (HKG),CHEN Meng (CHN),CHEN Meng
+World Tour Qatar Open Doha 2017,2017-02-21,MORIZONO Misaki,HU Melek,4,1,"11,9,11,11,11|8,11,5,8,7",R32,GRAND_SLAM,WS,456,Main Draw,HU Melek (TUR),MORIZONO Misaki (JPN),MORIZONO Misaki
+World Tour Qatar Open Doha 2017,2017-02-21,CHENG I-Ching,YU Fu,4,1,"11,11,8,11,11|5,5,11,8,3",R32,GRAND_SLAM,WS,456,Main Draw,YU Fu (POR),CHENG I-Ching (TPE),CHENG I-Ching
+World Tour Qatar Open Doha 2017,2017-02-21,FENG Tianwei,SOO Wai Yam,4,1,"11,8,13,11,11|5,11,11,7,6",R32,GRAND_SLAM,WS,456,Main Draw,FENG Tianwei (SGP),SOO Wai Yam (HKG),FENG Tianwei
+World Tour Qatar Open Doha 2017,2017-02-21,LI Jie,SATO Hitomi,4,3,"10,6,11,11,11,3,11|12,11,9,8,9,11,9",R32,GRAND_SLAM,WS,456,Main Draw,LI Jie (NED),SATO Hitomi (JPN),LI Jie
+World Tour Qatar Open Doha 2017,2017-02-21,DOO Hoi Kem,POLCANOVA Sofia,4,3,"10,11,7,12,6,13,13|12,4,11,10,11,11,11",R32,GRAND_SLAM,WS,456,Main Draw,DOO Hoi Kem (HKG),POLCANOVA Sofia (AUT),DOO Hoi Kem
+World Tour Qatar Open Doha 2017,2017-02-21,GU Yuting,HIRANO Miu,4,1,"7,11,11,11,11|11,7,7,5,5",R32,GRAND_SLAM,WS,456,Main Draw,GU Yuting (CHN),HIRANO Miu (JPN),GU Yuting
+World Tour Qatar Open Doha 2017,2017-02-21,ITO Mima,ZENG Jian,4,2,"4,13,9,11,13,11|11,11,11,4,11,9",R32,GRAND_SLAM,WS,456,Main Draw,ITO Mima (JPN),ZENG Jian (SGP),ITO Mima
+World Tour Qatar Open Doha 2017,2017-02-21,KATO Miyu,JEON Jihee,4,3,"15,13,9,11,11,10,11|13,15,11,8,9,12,4",R32,GRAND_SLAM,WS,456,Main Draw,KATO Miyu (JPN),JEON Jihee (KOR),KATO Miyu
+World Tour Qatar Open Doha 2017,2017-02-21,VARADY Barbora,TIE Yana,4,1,"12,10,11,16,11|10,12,9,14,9",R32,GRAND_SLAM,WS,456,Main Draw,TIE Yana (HKG),VARADY Barbora (SVK),VARADY Barbora
+World Tour Qatar Open Doha 2017,2017-02-21,WANG Manyu,ISHIKAWA Kasumi,4,0,"11,11,11,11|4,8,4,6",R32,GRAND_SLAM,WS,456,Main Draw,WANG Manyu (CHN),ISHIKAWA Kasumi (JPN),WANG Manyu
+World Tour Qatar Open Doha 2017,2017-02-21,SHAN Xiaona,ZHU Yuling,4,1,"11,6,11,12,11|8,11,9,10,7",R16,GRAND_SLAM,WS,456,Main Draw,ZHU Yuling (MAC),SHAN Xiaona (GER),SHAN Xiaona
+World Tour Qatar Open Doha 2017,2017-02-21,PARTYKA Natalia,YANG Ha Eun,4,0,"11,12,11,13|9,10,5,11",R16,GRAND_SLAM,WS,456,Main Draw,YANG Ha Eun (KOR),PARTYKA Natalia (POL),PARTYKA Natalia
+World Tour Qatar Open Doha 2017,2017-02-21,CHEN Meng,HAN Ying,4,2,"7,11,11,11,11,11|11,6,6,13,5,4",R16,GRAND_SLAM,WS,456,Main Draw,HAN Ying (GER),CHEN Meng (CHN),CHEN Meng
+World Tour Qatar Open Doha 2017,2017-02-21,CHENG I-Ching,MORIZONO Misaki,4,1,"8,11,11,11,12|11,7,5,4,10",R16,GRAND_SLAM,WS,456,Main Draw,MORIZONO Misaki (JPN),CHENG I-Ching (TPE),CHENG I-Ching
+World Tour Qatar Open Doha 2017,2017-02-21,FENG Tianwei,LI Jie,4,2,"6,7,11,11,11,11|11,11,5,6,9,8",R16,GRAND_SLAM,WS,456,Main Draw,FENG Tianwei (SGP),LI Jie (NED),FENG Tianwei
+World Tour Qatar Open Doha 2017,2017-02-21,GU Yuting,DOO Hoi Kem,4,0,"11,13,11,11|7,11,9,6",R16,GRAND_SLAM,WS,456,Main Draw,DOO Hoi Kem (HKG),GU Yuting (CHN),GU Yuting
+World Tour Qatar Open Doha 2017,2017-02-21,ITO Mima,KATO Miyu,4,1,"7,11,11,11,11|11,7,8,7,9",R16,GRAND_SLAM,WS,456,Main Draw,ITO Mima (JPN),KATO Miyu (JPN),ITO Mima
+World Tour Qatar Open Doha 2017,2017-02-21,WANG Manyu,VARADY Barbora,4,1,"11,7,11,11,11|6,11,2,6,6",R16,GRAND_SLAM,WS,456,Main Draw,VARADY Barbora (SVK),WANG Manyu (CHN),WANG Manyu
+World Tour Qatar Open Doha 2017,2017-02-21,SHAN Xiaona,PARTYKA Natalia,4,0,"14,11,11,11|12,7,5,8",QF,GRAND_SLAM,WS,456,Main Draw,SHAN Xiaona (GER),PARTYKA Natalia (POL),SHAN Xiaona
+World Tour Qatar Open Doha 2017,2017-02-21,CHEN Meng,CHENG I-Ching,4,0,,QF,GRAND_SLAM,WS,456,Main Draw,CHEN Meng (CHN),CHENG I-Ching (TPE),CHEN Meng
+World Tour Qatar Open Doha 2017,2017-02-21,GU Yuting,FENG Tianwei,4,0,"11,11,11,14|8,6,5,12",QF,GRAND_SLAM,WS,456,Main Draw,FENG Tianwei (SGP),GU Yuting (CHN),GU Yuting
+World Tour Qatar Open Doha 2017,2017-02-21,WANG Manyu,ITO Mima,4,1,"11,11,11,8,11|3,9,5,11,6",QF,GRAND_SLAM,WS,456,Main Draw,ITO Mima (JPN),WANG Manyu (CHN),WANG Manyu
+World Tour Qatar Open Doha 2017,2017-02-21,CHEN Meng,SHAN Xiaona,4,0,"11,12,11,11|4,10,5,3",SF,GRAND_SLAM,WS,456,Main Draw,SHAN Xiaona (GER),CHEN Meng (CHN),CHEN Meng
+World Tour Qatar Open Doha 2017,2017-02-21,WANG Manyu,GU Yuting,4,1,"11,20,11,7,11|6,18,6,11,6",SF,GRAND_SLAM,WS,456,Main Draw,GU Yuting (CHN),WANG Manyu (CHN),WANG Manyu
+World Tour Qatar Open Doha 2017,2017-02-21,CHEN Meng,WANG Manyu,4,1,"12,11,11,2,11|10,9,6,11,6",F,GRAND_SLAM,WS,456,Main Draw,CHEN Meng (CHN),WANG Manyu (CHN),CHEN Meng
+World Tour Qatar Open Doha 2017,2017-02-21,UDA Yukiya,SUN Chia-Hung,3,1,"11,11,9,11|9,9,11,6",R32,GRAND_SLAM,U21MS,456,Main Draw,UDA Yukiya (JPN),SUN Chia-Hung (TPE),UDA Yukiya
+World Tour Qatar Open Doha 2017,2017-02-21,KIM Minhyeok,ABDULWAHHAB Mohammed,3,1,"11,11,11,11|13,6,5,2",R32,GRAND_SLAM,U21MS,456,Main Draw,KIM Minhyeok (KOR),ABDULWAHHAB Mohammed (QAT),KIM Minhyeok
+World Tour Qatar Open Doha 2017,2017-02-21,PUCAR Tomislav,ALLEGRO Martin,3,0,"11,11,11|8,8,5",R32,GRAND_SLAM,U21MS,456,Main Draw,ALLEGRO Martin (BEL),PUCAR Tomislav (CRO),PUCAR Tomislav
+World Tour Qatar Open Doha 2017,2017-02-21,OIKAWA Mizuki,ALMALKI Nawaf,3,0,"11,11,11|3,1,2",R32,GRAND_SLAM,U21MS,456,Main Draw,OIKAWA Mizuki (JPN),ALMALKI Nawaf (QAT),OIKAWA Mizuki
+World Tour Qatar Open Doha 2017,2017-02-21,KIZUKURI Yuto,AL-HAJAJI Abdulaziz,3,0,"11,11,11|5,3,4",R32,GRAND_SLAM,U21MS,456,Main Draw,AL-HAJAJI Abdulaziz (QAT),KIZUKURI Yuto (JPN),KIZUKURI Yuto
+World Tour Qatar Open Doha 2017,2017-02-21,TSUBOI Yuma,ALDMAISY Zeyad,3,0,"11,11,11|6,8,4",R32,GRAND_SLAM,U21MS,456,Main Draw,TSUBOI Yuma (JPN),ALDMAISY Zeyad (JOR),TSUBOI Yuma
+World Tour Qatar Open Doha 2017,2017-02-21,CHO Seungmin,AL ABDULLA Abdulaziz,3,0,"11,11,13|9,8,11",R32,GRAND_SLAM,U21MS,456,Main Draw,AL ABDULLA Abdulaziz (QAT),CHO Seungmin (KOR),CHO Seungmin
+World Tour Qatar Open Doha 2017,2017-02-21,SAKAI Asuka,NG Pak Nam,3,2,"11,11,5,14,11|6,9,11,16,7",R32,GRAND_SLAM,U21MS,456,Main Draw,NG Pak Nam (HKG),SAKAI Asuka (JPN),SAKAI Asuka
+World Tour Qatar Open Doha 2017,2017-02-21,LAM Siu Hang,HAMEED Anwer,3,0,"11,11,11|6,5,6",R32,GRAND_SLAM,U21MS,456,Main Draw,LAM Siu Hang (HKG),HAMEED Anwer (IRQ),LAM Siu Hang
+World Tour Qatar Open Doha 2017,2017-02-21,LIAO Cheng-Ting,KOUKEZIAN Berge,3,0,"11,11,11|4,5,2",R32,GRAND_SLAM,U21MS,456,Main Draw,KOUKEZIAN Berge (LBN),LIAO Cheng-Ting (TPE),LIAO Cheng-Ting
+World Tour Qatar Open Doha 2017,2017-02-21,PARK Ganghyeon,FAHES Ghaleb,3,0,"11,11,11|3,2,3",R32,GRAND_SLAM,U21MS,456,Main Draw,PARK Ganghyeon (KOR),FAHES Ghaleb (LBN),PARK Ganghyeon
+World Tour Qatar Open Doha 2017,2017-02-21,YANG Heng-Wei,HALLAK Mohamed,3,0,"11,11,11|2,8,2",R32,GRAND_SLAM,U21MS,456,Main Draw,HALLAK Mohamed (SYR),YANG Heng-Wei (TPE),YANG Heng-Wei
+World Tour Qatar Open Doha 2017,2017-02-21,LANDRIEU Andrea,ZAZA Obaida,3,0,"11,11,11|5,4,4",R32,GRAND_SLAM,U21MS,456,Main Draw,LANDRIEU Andrea (FRA),ZAZA Obaida (SYR),LANDRIEU Andrea
+World Tour Qatar Open Doha 2017,2017-02-21,HO Kwan Kit,UDA Yukiya,3,0,"11,11,12|4,9,10",R16,GRAND_SLAM,U21MS,456,Main Draw,HO Kwan Kit (HKG),UDA Yukiya (JPN),HO Kwan Kit
+World Tour Qatar Open Doha 2017,2017-02-21,PUCAR Tomislav,KIM Minhyeok,3,0,"11,11,11|8,5,7",R16,GRAND_SLAM,U21MS,456,Main Draw,KIM Minhyeok (KOR),PUCAR Tomislav (CRO),PUCAR Tomislav
+World Tour Qatar Open Doha 2017,2017-02-21,OIKAWA Mizuki,KIZUKURI Yuto,3,1,"10,11,11,11|12,6,9,7",R16,GRAND_SLAM,U21MS,456,Main Draw,OIKAWA Mizuki (JPN),KIZUKURI Yuto (JPN),OIKAWA Mizuki
+World Tour Qatar Open Doha 2017,2017-02-21,CHO Seungmin,TSUBOI Yuma,3,2,"11,9,12,11,11|6,11,14,2,6",R16,GRAND_SLAM,U21MS,456,Main Draw,TSUBOI Yuma (JPN),CHO Seungmin (KOR),CHO Seungmin
+World Tour Qatar Open Doha 2017,2017-02-21,SAKAI Asuka,KALLBERG Anton,3,0,"11,11,11|8,7,6",R16,GRAND_SLAM,U21MS,456,Main Draw,KALLBERG Anton (SWE),SAKAI Asuka (JPN),SAKAI Asuka
+World Tour Qatar Open Doha 2017,2017-02-21,LAM Siu Hang,LIAO Cheng-Ting,3,0,"12,11,11|10,8,6",R16,GRAND_SLAM,U21MS,456,Main Draw,LAM Siu Hang (HKG),LIAO Cheng-Ting (TPE),LAM Siu Hang
+World Tour Qatar Open Doha 2017,2017-02-21,PARK Ganghyeon,YANG Heng-Wei,3,0,"11,11,11|4,5,7",R16,GRAND_SLAM,U21MS,456,Main Draw,PARK Ganghyeon (KOR),YANG Heng-Wei (TPE),PARK Ganghyeon
+World Tour Qatar Open Doha 2017,2017-02-21,LANDRIEU Andrea,HARIMOTO Tomokazu,3,2,"10,14,10,11,11|12,12,12,9,4",R16,GRAND_SLAM,U21MS,456,Main Draw,LANDRIEU Andrea (FRA),HARIMOTO Tomokazu (JPN),LANDRIEU Andrea
+World Tour Qatar Open Doha 2017,2017-02-21,PUCAR Tomislav,HO Kwan Kit,3,2,"11,8,11,8,11|8,11,6,11,3",QF,GRAND_SLAM,U21MS,456,Main Draw,HO Kwan Kit (HKG),PUCAR Tomislav (CRO),PUCAR Tomislav
+World Tour Qatar Open Doha 2017,2017-02-21,CHO Seungmin,OIKAWA Mizuki,3,2,"13,8,8,11,13|11,11,11,9,11",QF,GRAND_SLAM,U21MS,456,Main Draw,OIKAWA Mizuki (JPN),CHO Seungmin (KOR),CHO Seungmin
+World Tour Qatar Open Doha 2017,2017-02-21,LAM Siu Hang,SAKAI Asuka,3,0,"12,11,11|10,7,8",QF,GRAND_SLAM,U21MS,456,Main Draw,SAKAI Asuka (JPN),LAM Siu Hang (HKG),LAM Siu Hang
+World Tour Qatar Open Doha 2017,2017-02-21,LANDRIEU Andrea,PARK Ganghyeon,3,2,"3,11,11,9,11|11,8,9,11,7",QF,GRAND_SLAM,U21MS,456,Main Draw,PARK Ganghyeon (KOR),LANDRIEU Andrea (FRA),LANDRIEU Andrea
+World Tour Qatar Open Doha 2017,2017-02-21,PUCAR Tomislav,CHO Seungmin,3,2,"12,11,8,3,11|10,8,11,11,6",SF,GRAND_SLAM,U21MS,456,Main Draw,PUCAR Tomislav (CRO),CHO Seungmin (KOR),PUCAR Tomislav
+World Tour Qatar Open Doha 2017,2017-02-21,LAM Siu Hang,LANDRIEU Andrea,3,2,"11,4,13,1,11|5,11,11,11,7",SF,GRAND_SLAM,U21MS,456,Main Draw,LAM Siu Hang (HKG),LANDRIEU Andrea (FRA),LAM Siu Hang
+World Tour Qatar Open Doha 2017,2017-02-21,LAM Siu Hang,PUCAR Tomislav,3,0,"11,11,11|3,5,9",F,GRAND_SLAM,U21MS,456,Main Draw,PUCAR Tomislav (CRO),LAM Siu Hang (HKG),LAM Siu Hang
+World Tour Qatar Open Doha 2017,2017-02-21,MAEDA Miyu,MIGOT Marie,3,0,"11,11,11|2,5,2",R16,GRAND_SLAM,U21WS,456,Main Draw,MIGOT Marie (FRA),MAEDA Miyu (JPN),MAEDA Miyu
+World Tour Qatar Open Doha 2017,2017-02-21,LIN Ye,KHAYAT Jennifer,3,0,"11,11,11|6,4,5",R16,GRAND_SLAM,U21WS,456,Main Draw,LIN Ye (CAN),KHAYAT Jennifer (LBN),LIN Ye
+World Tour Qatar Open Doha 2017,2017-02-21,SHIBATA Saki,MAK Tze Wing,3,0,"11,11,11|7,2,7",R16,GRAND_SLAM,U21WS,456,Main Draw,MAK Tze Wing (HKG),SHIBATA Saki (JPN),SHIBATA Saki
+World Tour Qatar Open Doha 2017,2017-02-21,CHOI Hyojoo,MORIZONO Mizuki,3,1,"11,6,11,11|7,11,9,6",R16,GRAND_SLAM,U21WS,456,Main Draw,CHOI Hyojoo (KOR),MORIZONO Mizuki (JPN),CHOI Hyojoo
+World Tour Qatar Open Doha 2017,2017-02-21,KATO Kyoka,BILAL Afaf,3,0,"11,11,11|4,4,6",R16,GRAND_SLAM,U21WS,456,Main Draw,KATO Kyoka (JPN),BILAL Afaf (IRQ),KATO Kyoka
+World Tour Qatar Open Doha 2017,2017-02-21,DOO Hoi Kem,MAEDA Miyu,3,0,"11,11,13|8,7,11",QF,GRAND_SLAM,U21WS,456,Main Draw,DOO Hoi Kem (HKG),MAEDA Miyu (JPN),DOO Hoi Kem
+World Tour Qatar Open Doha 2017,2017-02-21,SHIBATA Saki,LIN Ye,3,2,"11,11,7,11,11|8,13,11,7,7",QF,GRAND_SLAM,U21WS,456,Main Draw,LIN Ye (CAN),SHIBATA Saki (JPN),SHIBATA Saki
+World Tour Qatar Open Doha 2017,2017-02-21,SOO Wai Yam,CHOI Hyojoo,3,1,"10,11,11,11|12,6,6,4",QF,GRAND_SLAM,U21WS,456,Main Draw,CHOI Hyojoo (KOR),SOO Wai Yam (HKG),SOO Wai Yam
+World Tour Qatar Open Doha 2017,2017-02-21,KATO Kyoka,ZENG Jian,3,2,"13,10,11,8,11|11,12,7,11,9",QF,GRAND_SLAM,U21WS,456,Main Draw,KATO Kyoka (JPN),ZENG Jian (SGP),KATO Kyoka
+World Tour Qatar Open Doha 2017,2017-02-21,DOO Hoi Kem,SHIBATA Saki,3,0,"11,11,11|8,6,5",SF,GRAND_SLAM,U21WS,456,Main Draw,DOO Hoi Kem (HKG),SHIBATA Saki (JPN),DOO Hoi Kem
+World Tour Qatar Open Doha 2017,2017-02-21,SOO Wai Yam,KATO Kyoka,3,0,"11,11,13|8,7,11",SF,GRAND_SLAM,U21WS,456,Main Draw,SOO Wai Yam (HKG),KATO Kyoka (JPN),SOO Wai Yam
+World Tour Qatar Open Doha 2017,2017-02-21,DOO Hoi Kem,SOO Wai Yam,3,1,"11,8,11,11|7,11,5,4",F,GRAND_SLAM,U21WS,456,Main Draw,DOO Hoi Kem (HKG),SOO Wai Yam (HKG),DOO Hoi Kem
+World Tour Qatar Open Doha 2017,2017-02-21,MENGEL Steffen,LIAO Cheng-Ting,4,3,"11,9,5,11,11,10,11|6,11,11,7,8,12,5",QR32,GRAND_SLAM,MS,456,Qualification,LIAO Cheng-Ting (TPE),MENGEL Steffen (GER),MENGEL Steffen
+World Tour Qatar Open Doha 2017,2017-02-21,WALTHER Ricardo,CHEN Chien-An,4,0,"11,14,11,11|7,12,8,5",QR32,GRAND_SLAM,MS,456,Qualification,CHEN Chien-An (TPE),WALTHER Ricardo (GER),WALTHER Ricardo
+World Tour Qatar Open Doha 2017,2017-02-21,FILUS Ruwen,YOSHIMURA Maharu,4,3,"11,10,12,6,11,7,11|5,12,10,11,8,11,9",QR32,GRAND_SLAM,MS,456,Qualification,YOSHIMURA Maharu (JPN),FILUS Ruwen (GER),FILUS Ruwen
+World Tour Qatar Open Doha 2017,2017-02-21,KARLSSON Mattias,KONECNY Tomas,4,1,"11,8,11,11,11|5,11,4,9,7",QR32,GRAND_SLAM,MS,456,Qualification,KARLSSON Mattias (SWE),KONECNY Tomas (CZE),KARLSSON Mattias
+World Tour Qatar Open Doha 2017,2017-02-21,YOSHIDA Masaki,LEBESSON Emmanuel,4,2,"11,6,11,9,11,11|9,11,5,11,7,7",QR32,GRAND_SLAM,MS,456,Qualification,LEBESSON Emmanuel (FRA),YOSHIDA Masaki (JPN),YOSHIDA Masaki
+World Tour Qatar Open Doha 2017,2017-02-21,KOU Lei,FLORE Tristan,4,1,"11,9,12,11,11|5,11,10,3,8",QR32,GRAND_SLAM,MS,456,Qualification,KOU Lei (UKR),FLORE Tristan (FRA),KOU Lei
+World Tour Qatar Open Doha 2017,2017-02-21,LIANG Jingkun,MONTEIRO Joao,4,1,"11,11,11,8,11|6,1,2,11,6",QR32,GRAND_SLAM,MS,456,Qualification,MONTEIRO Joao (POR),LIANG Jingkun (CHN),LIANG Jingkun
+World Tour Qatar Open Doha 2017,2017-02-21,JANG Woojin,KALLBERG Anton,4,3,"6,13,11,11,7,5,11|11,11,5,6,11,11,9",QR32,GRAND_SLAM,MS,456,Qualification,KALLBERG Anton (SWE),JANG Woojin (KOR),JANG Woojin
+World Tour Qatar Open Doha 2017,2017-02-21,KIM Minseok,GROTH Jonathan,4,3,"10,11,7,10,11,11,11|12,9,11,12,4,5,4",QR32,GRAND_SLAM,MS,456,Qualification,GROTH Jonathan (DEN),KIM Minseok (KOR),KIM Minseok
+World Tour Qatar Open Doha 2017,2017-02-21,JIANG Tianyi,ASSAR Omar,4,1,"7,11,11,12,12|11,8,8,10,10",QR32,GRAND_SLAM,MS,456,Qualification,JIANG Tianyi (HKG),ASSAR Omar (EGY),JIANG Tianyi
+World Tour Qatar Open Doha 2017,2017-02-21,OSHIMA Yuya,TOKIC Bojan,4,1,"11,11,9,11,11|5,3,11,9,4",QR32,GRAND_SLAM,MS,456,Qualification,OSHIMA Yuya (JPN),TOKIC Bojan (SLO),OSHIMA Yuya
+World Tour Qatar Open Doha 2017,2017-02-21,ALAMIYAN Noshad,DYJAS Jakub,4,3,"11,2,11,10,11,8,11|4,11,8,12,4,11,6",QR32,GRAND_SLAM,MS,456,Qualification,DYJAS Jakub (POL),ALAMIYAN Noshad (IRI),ALAMIYAN Noshad
+World Tour Qatar Open Doha 2017,2017-02-21,POLCANOVA Sofia/SOLJA Amelie,GRZYBOWSKA-FRANC Katarzyna/PARTYKA Natalia,3,1,"11,11,11,11|13,5,6,3",R16,GRAND_SLAM,WD,456,Main Draw,POLCANOVA Sofia (AUT) / SOLJA Amelie (AUT),GRZYBOWSKA-FRANC Katarzyna (POL) / PARTYKA Natalia (POL),POLCANOVA Sofia
+World Tour Qatar Open Doha 2017,2017-02-21,POLCANOVA Sofia/SOLJA Amelie,LIU Hsing-Yin/LIU Yu-Hsin,3,1,"11,11,4,11|5,6,11,7",QR16,GRAND_SLAM,WD,456,Qualification,POLCANOVA Sofia (AUT) / SOLJA Amelie (AUT),LIU Hsing-Yin (TPE) / LIU Yu-Hsin (TPE),POLCANOVA Sofia
+World Tour Qatar Open Doha 2017,2017-02-21,DEVOS Robin/NUYTINCK Cedric,LIAO Cheng-Ting/SUN Chia-Hung,3,1,"12,11,12,11|14,7,10,8",R16,GRAND_SLAM,MD,456,Main Draw,DEVOS Robin (BEL) / NUYTINCK Cedric (BEL),LIAO Cheng-Ting (TPE) / SUN Chia-Hung (TPE),DEVOS Robin
+World Tour Qatar Open Doha 2017,2017-02-21,DEVOS Robin/NUYTINCK Cedric,JIANG Tianyi/LAM Siu Hang,3,1,"11,11,7,11|9,9,11,4",QF,GRAND_SLAM,MD,456,Main Draw,DEVOS Robin (BEL) / NUYTINCK Cedric (BEL),JIANG Tianyi (HKG) / LAM Siu Hang (HKG),DEVOS Robin
+World Tour Qatar Open Doha 2017,2017-02-21,FAN Zhendong/LIANG Jingkun,HO Kwan Kit/WONG Chun Ting,3,1,"9,11,11,11|11,5,8,3",R16,GRAND_SLAM,MD,456,Main Draw,FAN Zhendong (CHN) / LIANG Jingkun (CHN),HO Kwan Kit (HKG) / WONG Chun Ting (HKG),FAN Zhendong
+World Tour Qatar Open Doha 2017,2017-02-21,CHEN Meng/WANG Manyu,POLCANOVA Sofia/SOLJA Amelie,3,0,"11,11,11|2,7,5",QF,GRAND_SLAM,WD,456,Main Draw,CHEN Meng (CHN) / WANG Manyu (CHN),POLCANOVA Sofia (AUT) / SOLJA Amelie (AUT),CHEN Meng
+World Tour Qatar Open Doha 2017,2017-02-21,CHEN Meng/WANG Manyu,DOO Hoi Kem/LEE Ho Ching,3,2,"11,12,9,6,11|3,10,11,11,8",SF,GRAND_SLAM,WD,456,Main Draw,CHEN Meng (CHN) / WANG Manyu (CHN),DOO Hoi Kem (HKG) / LEE Ho Ching (HKG),CHEN Meng
+World Tour Qatar Open Doha 2017,2017-02-21,FAN Zhendong/LIANG Jingkun,ALAMIYAN Noshad/NOROOZI Afshin,3,0,,QR16,GRAND_SLAM,MD,456,Qualification,FAN Zhendong (CHN) / LIANG Jingkun (CHN),ALAMIYAN Noshad (IRI) / NOROOZI Afshin (IRI),FAN Zhendong
+World Tour Qatar Open Doha 2017,2017-02-21,VARADY Barbora/MATELOVA Hana,LI Jie/LI Qian,3,1,"11,11,11,11|5,9,13,4",QF,GRAND_SLAM,WD,456,Main Draw,VARADY Barbora (SVK) / MATELOVA Hana (CZE),LI Jie (NED) / LI Qian (POL),VARADY Barbora
+World Tour Qatar Open Doha 2017,2017-02-21,JIANG Tianyi/LAM Siu Hang,KOJIC Frane/ROBLES Alvaro,3,0,"11,11,11|7,8,7",QR16,GRAND_SLAM,MD,456,Qualification,JIANG Tianyi (HKG) / LAM Siu Hang (HKG),KOJIC Frane (CRO) / ROBLES Alvaro (ESP),JIANG Tianyi
+World Tour Qatar Open Doha 2017,2017-02-21,FLORE Tristan/LEBESSON Emmanuel,FAN Zhendong/LIANG Jingkun,3,0,"11,11,11|7,4,9",QF,GRAND_SLAM,MD,456,Main Draw,FLORE Tristan (FRA) / LEBESSON Emmanuel (FRA),FAN Zhendong (CHN) / LIANG Jingkun (CHN),FLORE Tristan
+World Tour Qatar Open Doha 2017,2017-02-21,KARLSSON Kristian/KARLSSON Mattias,FLORE Tristan/LEBESSON Emmanuel,3,1,"11,5,11,11|8,11,7,2",SF,GRAND_SLAM,MD,456,Main Draw,KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),FLORE Tristan (FRA) / LEBESSON Emmanuel (FRA),KARLSSON Kristian
+World Tour Qatar Open Doha 2017,2017-02-21,NG Wing Nam/SOO Wai Yam,DE NUTTE Sarah/MIGOT Marie,3,1,"7,11,11,11|11,7,2,7",QR16,GRAND_SLAM,WD,456,Qualification,NG Wing Nam (HKG) / SOO Wai Yam (HKG),DE NUTTE Sarah (LUX) / MIGOT Marie (FRA),NG Wing Nam
+World Tour Qatar Open Doha 2017,2017-02-21,VARADY Barbora/MATELOVA Hana,HAN Ying/SHAN Xiaona,3,0,"11,11,12|5,8,10",R16,GRAND_SLAM,WD,456,Main Draw,VARADY Barbora (SVK) / MATELOVA Hana (CZE),HAN Ying (GER) / SHAN Xiaona (GER),VARADY Barbora
+World Tour Qatar Open Doha 2017,2017-02-21,FLORE Tristan/LEBESSON Emmanuel,FILUS Ruwen/WALTHER Ricardo,3,0,"11,13,11|9,11,3",QR16,GRAND_SLAM,MD,456,Qualification,FLORE Tristan (FRA) / LEBESSON Emmanuel (FRA),FILUS Ruwen (GER) / WALTHER Ricardo (GER),FLORE Tristan
+World Tour Qatar Open Doha 2017,2017-02-21,JIANG Tianyi/LAM Siu Hang,JANG Woojin/JEOUNG Youngsik,3,1,"11,10,11,11|6,12,8,9",R16,GRAND_SLAM,MD,456,Main Draw,JIANG Tianyi (HKG) / LAM Siu Hang (HKG),JANG Woojin (KOR) / JEOUNG Youngsik (KOR),JIANG Tianyi
+World Tour Qatar Open Doha 2017,2017-02-21,CHEN Szu-Yu/CHENG I-Ching,NG Wing Nam/SOO Wai Yam,3,2,"11,11,7,10,11|9,8,11,12,6",R16,GRAND_SLAM,WD,456,Main Draw,CHEN Szu-Yu (TPE) / CHENG I-Ching (TPE),NG Wing Nam (HKG) / SOO Wai Yam (HKG),CHEN Szu-Yu
+World Tour Qatar Open Doha 2017,2017-02-21,LI Jie/LI Qian,MADARASZ Dora/PERGEL Szandra,3,0,"11,11,11|4,4,2",R16,GRAND_SLAM,WD,456,Main Draw,LI Jie (NED) / LI Qian (POL),MADARASZ Dora (HUN) / PERGEL Szandra (HUN),LI Jie
+World Tour Qatar Open Doha 2017,2017-02-21,CHEN Meng/WANG Manyu,EKHOLM Matilda/POTA Georgina,3,2,"9,11,11,6,11|11,7,6,11,4",R16,GRAND_SLAM,WD,456,Main Draw,CHEN Meng (CHN) / WANG Manyu (CHN),EKHOLM Matilda (SWE) / POTA Georgina (HUN),CHEN Meng
+World Tour Qatar Open Doha 2017,2017-02-21,RECH DALDOSSO Marco/STOYANOV Niagol,JANCARIK Lubomir/KONECNY Tomas,3,2,"12,11,8,6,11|10,5,11,11,6",QR16,GRAND_SLAM,MD,456,Qualification,RECH DALDOSSO Marco (ITA) / STOYANOV Niagol (ITA),JANCARIK Lubomir (CZE) / KONECNY Tomas (CZE),RECH DALDOSSO Marco
+World Tour Qatar Open Doha 2017,2017-02-21,MORIZONO Masataka/OSHIMA Yuya,RECH DALDOSSO Marco/STOYANOV Niagol,3,0,,R16,GRAND_SLAM,MD,456,Main Draw,MORIZONO Masataka (JPN) / OSHIMA Yuya (JPN),RECH DALDOSSO Marco (ITA) / STOYANOV Niagol (ITA),MORIZONO Masataka
+World Tour Qatar Open Doha 2017,2017-02-21,MORIZONO Masataka/OSHIMA Yuya,CHEN Chien-An/CHIANG Hung-Chieh,3,1,"11,6,11,11|7,11,5,5",QF,GRAND_SLAM,MD,456,Main Draw,MORIZONO Masataka (JPN) / OSHIMA Yuya (JPN),CHEN Chien-An (TPE) / CHIANG Hung-Chieh (TPE),MORIZONO Masataka
+World Tour Qatar Open Doha 2017,2017-02-21,MORIZONO Masataka/OSHIMA Yuya,DEVOS Robin/NUYTINCK Cedric,3,0,"11,12,11|4,10,8",SF,GRAND_SLAM,MD,456,Main Draw,MORIZONO Masataka (JPN) / OSHIMA Yuya (JPN),DEVOS Robin (BEL) / NUYTINCK Cedric (BEL),MORIZONO Masataka
+World Tour Qatar Open Doha 2017,2017-02-21,MORIZONO Masataka/OSHIMA Yuya,KARLSSON Kristian/KARLSSON Mattias,3,1,"9,11,11,11|11,5,5,9",F,GRAND_SLAM,MD,456,Main Draw,MORIZONO Masataka (JPN) / OSHIMA Yuya (JPN),KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),MORIZONO Masataka
+World Tour Qatar Open Doha 2017,2017-02-21,DOO Hoi Kem/LEE Ho Ching,HIRANO Miu/ISHIKAWA Kasumi,3,2,"11,7,12,11,11|6,11,10,13,6",QF,GRAND_SLAM,WD,456,Main Draw,DOO Hoi Kem (HKG) / LEE Ho Ching (HKG),HIRANO Miu (JPN) / ISHIKAWA Kasumi (JPN),DOO Hoi Kem
+World Tour Qatar Open Doha 2017,2017-02-21,JEON Jihee/YANG Ha Eun,CHENG Hsien-Tzu/LIN Chia-Chih,3,1,"11,11,5,11|7,7,11,8",R16,GRAND_SLAM,WD,456,Main Draw,JEON Jihee (KOR) / YANG Ha Eun (KOR),CHENG Hsien-Tzu (TPE) / LIN Chia-Chih (TPE),JEON Jihee
+World Tour Qatar Open Doha 2017,2017-02-21,JEON Jihee/YANG Ha Eun,CHEN Szu-Yu/CHENG I-Ching,3,2,"10,11,10,11,11|12,5,12,3,9",QF,GRAND_SLAM,WD,456,Main Draw,JEON Jihee (KOR) / YANG Ha Eun (KOR),CHEN Szu-Yu (TPE) / CHENG I-Ching (TPE),JEON Jihee
+World Tour Qatar Open Doha 2017,2017-02-21,JEON Jihee/YANG Ha Eun,VARADY Barbora/MATELOVA Hana,3,1,"9,11,11,11|11,8,6,4",SF,GRAND_SLAM,WD,456,Main Draw,JEON Jihee (KOR) / YANG Ha Eun (KOR),VARADY Barbora (SVK) / MATELOVA Hana (CZE),JEON Jihee
+World Tour Qatar Open Doha 2017,2017-02-21,CHEN Meng/WANG Manyu,JEON Jihee/YANG Ha Eun,3,1,"11,11,4,11|4,6,11,6",F,GRAND_SLAM,WD,456,Main Draw,CHEN Meng (CHN) / WANG Manyu (CHN),JEON Jihee (KOR) / YANG Ha Eun (KOR),CHEN Meng
+World Tour Qatar Open Doha 2017,2017-02-21,HIRANO Miu/ISHIKAWA Kasumi,CHO Hala/CHOI Hyojoo,3,2,"6,9,11,11,11|11,11,6,4,4",QR16,GRAND_SLAM,WD,456,Qualification,HIRANO Miu (JPN) / ISHIKAWA Kasumi (JPN),CHO Hala (KOR) / CHOI Hyojoo (KOR),HIRANO Miu
+World Tour Qatar Open Doha 2017,2017-02-21,LIAO Cheng-Ting/SUN Chia-Hung,DYJAS Jakub/GERALDO Joao,3,0,,QR16,GRAND_SLAM,MD,456,Qualification,LIAO Cheng-Ting (TPE) / SUN Chia-Hung (TPE),DYJAS Jakub (POL) / GERALDO Joao (POR),LIAO Cheng-Ting
+World Tour Qatar Open Doha 2017,2017-02-21,GERELL Par/KALLBERG Anton,AL-MOHANNADI Ahmad Khalil/LI Ping,3,2,"12,9,9,11,12|10,11,11,6,10",R16,GRAND_SLAM,MD,456,Main Draw,GERELL Par (SWE) / KALLBERG Anton (SWE),AL-MOHANNADI Ahmad Khalil (QAT) / LI Ping (QAT),GERELL Par
+World Tour Qatar Open Doha 2017,2017-02-21,CHEN Chien-An/CHIANG Hung-Chieh,ABDULWAHHAB Mohammed/ALMALKI Nawaf,3,0,"11,11,11|2,2,3",QR16,GRAND_SLAM,MD,456,Qualification,CHEN Chien-An (TPE) / CHIANG Hung-Chieh (TPE),ABDULWAHHAB Mohammed (QAT) / ALMALKI Nawaf (QAT),CHEN Chien-An
+World Tour Qatar Open Doha 2017,2017-02-21,FLORE Tristan/LEBESSON Emmanuel,LIVENTSOV Alexey/PAIKOV Mikhail,3,1,"10,11,11,11|12,7,7,5",R16,GRAND_SLAM,MD,456,Main Draw,FLORE Tristan (FRA) / LEBESSON Emmanuel (FRA),LIVENTSOV Alexey (RUS) / PAIKOV Mikhail (RUS),FLORE Tristan
+World Tour Qatar Open Doha 2017,2017-02-21,HIRANO Miu/ISHIKAWA Kasumi,LIN Ye/ZHOU Yihan,3,1,"6,11,12,11|11,6,10,5",R16,GRAND_SLAM,WD,456,Main Draw,HIRANO Miu (JPN) / ISHIKAWA Kasumi (JPN),LIN Ye (CAN) / ZHOU Yihan (SGP),HIRANO Miu
+World Tour Qatar Open Doha 2017,2017-02-21,DOO Hoi Kem/LEE Ho Ching,HU Melek/ZENG Jian,3,1,"11,11,9,11|5,6,11,9",R16,GRAND_SLAM,WD,456,Main Draw,DOO Hoi Kem (HKG) / LEE Ho Ching (HKG),HU Melek (TUR) / ZENG Jian (SGP),DOO Hoi Kem
+World Tour Qatar Open Doha 2017,2017-02-21,VARADY Barbora/MATELOVA Hana,STEFANSKA Kinga/TODOROVIC Andrea,3,0,"11,13,11|8,11,7",QR16,GRAND_SLAM,WD,456,Qualification,VARADY Barbora (SVK) / MATELOVA Hana (CZE),STEFANSKA Kinga (POL) / TODOROVIC Andrea (SRB),VARADY Barbora
+World Tour Qatar Open Doha 2017,2017-02-21,KARLSSON Kristian/KARLSSON Mattias,MA Long/ZHANG Jike,3,1,"5,11,12,11|11,8,10,3",R16,GRAND_SLAM,MD,456,Main Draw,KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),MA Long (CHN) / ZHANG Jike (CHN),KARLSSON Kristian
+World Tour Qatar Open Doha 2017,2017-02-21,KARLSSON Kristian/KARLSSON Mattias,GERELL Par/KALLBERG Anton,3,0,"11,12,11|6,10,7",QF,GRAND_SLAM,MD,456,Main Draw,KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),GERELL Par (SWE) / KALLBERG Anton (SWE),KARLSSON Kristian
+World Tour Qatar Open Doha 2017,2017-02-21,GERELL Par/KALLBERG Anton,GROTH Jonathan/TOKIC Bojan,3,0,,QR16,GRAND_SLAM,MD,456,Qualification,GERELL Par (SWE) / KALLBERG Anton (SWE),GROTH Jonathan (DEN) / TOKIC Bojan (SLO),GERELL Par
+World Tour Qatar Open Doha 2017,2017-02-21,KARLSSON Kristian/KARLSSON Mattias,ARUNA Quadri/ASSAR Omar,3,0,"12,11,11|10,9,7",QR16,GRAND_SLAM,MD,456,Qualification,KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),ARUNA Quadri (NGR) / ASSAR Omar (EGY),KARLSSON Kristian
+World Tour Qatar Open Doha 2017,2017-02-21,CHEN Chien-An/CHIANG Hung-Chieh,NIWA Koki/YOSHIMURA Maharu,3,2,"12,10,11,11,11|14,12,3,8,8",R16,GRAND_SLAM,MD,456,Main Draw,CHEN Chien-An (TPE) / CHIANG Hung-Chieh (TPE),NIWA Koki (JPN) / YOSHIMURA Maharu (JPN),CHEN Chien-An

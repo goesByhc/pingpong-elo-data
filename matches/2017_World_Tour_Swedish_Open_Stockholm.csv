@@ -1,154 +1,154 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-World Tour Swedish Open Stockholm 2017,2017-11-13,CHO Seungmin,AHMADIAN Amin,3,0,"13,11,11|11,3,5",R32,GRAND_SLAM,U21MS,502,Main Draw,CHO Seungmin (KOR),AHMADIAN Amin (IRI)
-World Tour Swedish Open Stockholm 2017,2017-11-13,SODERLUND Simon,PARK Jeongwoo,3,2,"4,11,7,11,11|11,9,11,7,7",R32,GRAND_SLAM,U21MS,502,Main Draw,SODERLUND Simon (SWE),PARK Jeongwoo (KOR)
-World Tour Swedish Open Stockholm 2017,2017-11-13,PARK Ganghyeon,SGOUROPOULOS Ioannis,3,0,"11,11,11|8,4,8",R32,GRAND_SLAM,U21MS,502,Main Draw,PARK Ganghyeon (KOR),SGOUROPOULOS Ioannis (GRE)
-World Tour Swedish Open Stockholm 2017,2017-11-13,SHAMRUK Gleb,RYUZAKI Tonin,3,2,"8,11,11,6,11|11,4,9,11,5",R32,GRAND_SLAM,U21MS,502,Main Draw,SHAMRUK Gleb (BLR),RYUZAKI Tonin (JPN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,SAKAI Asuka,WISUTMAYTHANGKOON Supanut,3,0,"11,11,11|9,8,8",R32,GRAND_SLAM,U21MS,502,Main Draw,SAKAI Asuka (JPN),WISUTMAYTHANGKOON Supanut (THA)
-World Tour Swedish Open Stockholm 2017,2017-11-13,SUN Chia-Hung,JARVIS Tom,3,1,"14,6,11,11|12,11,8,3",R32,GRAND_SLAM,U21MS,502,Main Draw,JARVIS Tom (ENG),SUN Chia-Hung (TPE)
-World Tour Swedish Open Stockholm 2017,2017-11-13,YANG Heng-Wei,LEVENKO Andreas,3,0,"11,11,11|7,9,7",R32,GRAND_SLAM,U21MS,502,Main Draw,YANG Heng-Wei (TPE),LEVENKO Andreas (AUT)
-World Tour Swedish Open Stockholm 2017,2017-11-13,OIKAWA Mizuki,MOREGARD Truls,3,0,"11,11,11|6,8,9",R32,GRAND_SLAM,U21MS,502,Main Draw,MOREGARD Truls (SWE),OIKAWA Mizuki (JPN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,LAM Siu Hang,BERGLUND Simon,3,0,"11,11,13|9,9,11",R32,GRAND_SLAM,U21MS,502,Main Draw,LAM Siu Hang (HKG),BERGLUND Simon (SWE)
-World Tour Swedish Open Stockholm 2017,2017-11-13,VILCHEZ Miguel,LANDRIEU Andrea,3,1,"13,12,4,12|11,10,11,10",R32,GRAND_SLAM,U21MS,502,Main Draw,VILCHEZ Miguel (ESP),LANDRIEU Andrea (FRA)
-World Tour Swedish Open Stockholm 2017,2017-11-13,RANEFUR Elias,BADOWSKI Marek,3,0,"18,11,11|16,8,6",R32,GRAND_SLAM,U21MS,502,Main Draw,RANEFUR Elias (SWE),BADOWSKI Marek (POL)
-World Tour Swedish Open Stockholm 2017,2017-11-13,NG Pak Nam,PETER Ingemar,3,1,"11,11,10,11|3,6,12,6",R32,GRAND_SLAM,U21MS,502,Main Draw,PETER Ingemar (SVK),NG Pak Nam (HKG)
-World Tour Swedish Open Stockholm 2017,2017-11-13,JORGIC Darko,ZATOWKA Patryk,3,0,"11,11,11|8,9,4",R32,GRAND_SLAM,U21MS,502,Main Draw,JORGIC Darko (SLO),ZATOWKA Patryk (POL)
-World Tour Swedish Open Stockholm 2017,2017-11-13,SEYFRIED Joe,CHO Daeseong,3,1,"11,6,12,11|7,11,10,8",R32,GRAND_SLAM,U21MS,502,Main Draw,CHO Daeseong (KOR),SEYFRIED Joe (FRA)
-World Tour Swedish Open Stockholm 2017,2017-11-13,TANVIRIYAVECHAKUL Padasak,KWAN Man Ho,3,2,"11,4,11,11,11|13,11,4,6,9",R32,GRAND_SLAM,U21MS,502,Main Draw,TANVIRIYAVECHAKUL Padasak (THA),KWAN Man Ho (HKG)
-World Tour Swedish Open Stockholm 2017,2017-11-13,LI Hon Ming,KALLBERG Anton,3,2,"5,12,7,11,11|11,10,11,5,5",R32,GRAND_SLAM,U21MS,502,Main Draw,LI Hon Ming (HKG),KALLBERG Anton (SWE)
-World Tour Swedish Open Stockholm 2017,2017-11-13,CHO Seungmin,SODERLUND Simon,3,0,"11,11,11|8,4,9",R16,GRAND_SLAM,U21MS,502,Main Draw,CHO Seungmin (KOR),SODERLUND Simon (SWE)
-World Tour Swedish Open Stockholm 2017,2017-11-13,PARK Ganghyeon,SHAMRUK Gleb,3,1,"11,11,11,11|5,8,13,5",R16,GRAND_SLAM,U21MS,502,Main Draw,PARK Ganghyeon (KOR),SHAMRUK Gleb (BLR)
-World Tour Swedish Open Stockholm 2017,2017-11-13,SAKAI Asuka,SUN Chia-Hung,3,0,"11,12,11|4,10,9",R16,GRAND_SLAM,U21MS,502,Main Draw,SAKAI Asuka (JPN),SUN Chia-Hung (TPE)
-World Tour Swedish Open Stockholm 2017,2017-11-13,YANG Heng-Wei,OIKAWA Mizuki,3,0,"11,11,11|6,8,4",R16,GRAND_SLAM,U21MS,502,Main Draw,YANG Heng-Wei (TPE),OIKAWA Mizuki (JPN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,LAM Siu Hang,VILCHEZ Miguel,3,0,"11,11,13|9,6,11",R16,GRAND_SLAM,U21MS,502,Main Draw,LAM Siu Hang (HKG),VILCHEZ Miguel (ESP)
-World Tour Swedish Open Stockholm 2017,2017-11-13,RANEFUR Elias,NG Pak Nam,3,1,"11,11,7,11|7,7,11,7",R16,GRAND_SLAM,U21MS,502,Main Draw,RANEFUR Elias (SWE),NG Pak Nam (HKG)
-World Tour Swedish Open Stockholm 2017,2017-11-13,JORGIC Darko,SEYFRIED Joe,3,0,"15,11,11|13,8,8",R16,GRAND_SLAM,U21MS,502,Main Draw,JORGIC Darko (SLO),SEYFRIED Joe (FRA)
-World Tour Swedish Open Stockholm 2017,2017-11-13,TANVIRIYAVECHAKUL Padasak,LI Hon Ming,3,0,"11,11,11|9,8,6",R16,GRAND_SLAM,U21MS,502,Main Draw,TANVIRIYAVECHAKUL Padasak (THA),LI Hon Ming (HKG)
-World Tour Swedish Open Stockholm 2017,2017-11-13,PARK Ganghyeon,CHO Seungmin,3,2,"3,7,11,11,11|11,11,5,8,4",QF,GRAND_SLAM,U21MS,502,Main Draw,CHO Seungmin (KOR),PARK Ganghyeon (KOR)
-World Tour Swedish Open Stockholm 2017,2017-11-13,SAKAI Asuka,YANG Heng-Wei,3,0,"11,11,11|4,2,4",QF,GRAND_SLAM,U21MS,502,Main Draw,SAKAI Asuka (JPN),YANG Heng-Wei (TPE)
-World Tour Swedish Open Stockholm 2017,2017-11-13,LAM Siu Hang,RANEFUR Elias,3,0,"11,12,11|2,10,9",QF,GRAND_SLAM,U21MS,502,Main Draw,LAM Siu Hang (HKG),RANEFUR Elias (SWE)
-World Tour Swedish Open Stockholm 2017,2017-11-13,JORGIC Darko,TANVIRIYAVECHAKUL Padasak,3,0,"11,11,11|7,8,5",QF,GRAND_SLAM,U21MS,502,Main Draw,JORGIC Darko (SLO),TANVIRIYAVECHAKUL Padasak (THA)
-World Tour Swedish Open Stockholm 2017,2017-11-13,PARK Ganghyeon,SAKAI Asuka,3,1,"12,11,9,11|10,8,11,6",SF,GRAND_SLAM,U21MS,502,Main Draw,PARK Ganghyeon (KOR),SAKAI Asuka (JPN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,LAM Siu Hang,JORGIC Darko,3,0,"14,18,11|12,16,5",SF,GRAND_SLAM,U21MS,502,Main Draw,LAM Siu Hang (HKG),JORGIC Darko (SLO)
-World Tour Swedish Open Stockholm 2017,2017-11-13,PARK Ganghyeon,LAM Siu Hang,3,1,"11,15,12,12|13,13,10,10",F,GRAND_SLAM,U21MS,502,Main Draw,PARK Ganghyeon (KOR),LAM Siu Hang (HKG)
-World Tour Swedish Open Stockholm 2017,2017-11-13,SOO Wai Yam,WAN Yuan,3,0,"11,11,11|5,6,5",R32,GRAND_SLAM,U21WS,502,Main Draw,SOO Wai Yam (HKG),WAN Yuan (GER)
-World Tour Swedish Open Stockholm 2017,2017-11-13,KIHARA Miyuu,BERGAND Filippa,3,1,"7,11,11,11|11,8,5,7",R32,GRAND_SLAM,U21WS,502,Main Draw,BERGAND Filippa (SWE),KIHARA Miyuu (JPN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,ZHU Chengzhu,HOLMSTEN Ellen,3,1,"12,7,11,12|10,11,8,10",R32,GRAND_SLAM,U21WS,502,Main Draw,ZHU Chengzhu (HKG),HOLMSTEN Ellen (SWE)
-World Tour Swedish Open Stockholm 2017,2017-11-13,WANG Yidi,HO Tin-Tin,3,0,"11,11,11|4,7,2",R32,GRAND_SLAM,U21WS,502,Main Draw,HO Tin-Tin (ENG),WANG Yidi (CHN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,LIN Ye,KALLBERG Christina,3,2,"11,13,11,2,11|13,11,6,11,5",R32,GRAND_SLAM,U21WS,502,Main Draw,LIN Ye (CAN),KALLBERG Christina (SWE)
-World Tour Swedish Open Stockholm 2017,2017-11-13,SUN Mingyang,LIN Chia-Hsuan,3,0,"11,11,11|3,1,8",R32,GRAND_SLAM,U21WS,502,Main Draw,SUN Mingyang (CHN),LIN Chia-Hsuan (TPE)
-World Tour Swedish Open Stockholm 2017,2017-11-13,NAGASAKI Miyu,VERMAAS Kim,3,1,"11,9,11,11|7,11,8,9",R32,GRAND_SLAM,U21WS,502,Main Draw,NAGASAKI Miyu (JPN),VERMAAS Kim (NED)
-World Tour Swedish Open Stockholm 2017,2017-11-13,GUISNEL Oceane,DIAZ Adriana,3,1,"11,7,11,11|3,11,6,5",R32,GRAND_SLAM,U21WS,502,Main Draw,GUISNEL Oceane (FRA),DIAZ Adriana (PUR)
-World Tour Swedish Open Stockholm 2017,2017-11-13,CHEN Ke,PARANANG Orawan,3,0,"11,11,11|5,4,4",R32,GRAND_SLAM,U21WS,502,Main Draw,CHEN Ke (CHN),PARANANG Orawan (THA)
-World Tour Swedish Open Stockholm 2017,2017-11-13,TAKAHASHI Bruna,PFEFER Laura,3,2,"8,11,6,11,11|11,5,11,6,9",R32,GRAND_SLAM,U21WS,502,Main Draw,PFEFER Laura (FRA),TAKAHASHI Bruna (BRA)
-World Tour Swedish Open Stockholm 2017,2017-11-13,KIM Jiho,JOHANSSON Tilda,3,1,"11,11,9,11|8,9,11,2",R32,GRAND_SLAM,U21WS,502,Main Draw,KIM Jiho (KOR),JOHANSSON Tilda (SWE)
-World Tour Swedish Open Stockholm 2017,2017-11-13,LEE Zion,MIGOT Marie,3,1,"13,11,11,11|11,13,7,3",R32,GRAND_SLAM,U21WS,502,Main Draw,MIGOT Marie (FRA),LEE Zion (KOR)
-World Tour Swedish Open Stockholm 2017,2017-11-13,ZHANG Rui,LAM Yee Lok,3,1,"7,11,12,11|11,5,10,7",R32,GRAND_SLAM,U21WS,502,Main Draw,ZHANG Rui (CHN),LAM Yee Lok (HKG)
-World Tour Swedish Open Stockholm 2017,2017-11-13,KHETKHUAN Tamolwan,ZARIF Audrey,3,1,"11,8,11,11|3,11,7,8",R32,GRAND_SLAM,U21WS,502,Main Draw,ZARIF Audrey (FRA),KHETKHUAN Tamolwan (THA)
-World Tour Swedish Open Stockholm 2017,2017-11-13,MAK Tze Wing,TRIGOLOS Daria,3,1,"9,11,11,11|11,8,7,8",R32,GRAND_SLAM,U21WS,502,Main Draw,MAK Tze Wing (HKG),TRIGOLOS Daria (BLR)
-World Tour Swedish Open Stockholm 2017,2017-11-13,ANDO Minami,SHCHERBATYKH Valeriia,3,0,"11,11,12|7,3,10",R32,GRAND_SLAM,U21WS,502,Main Draw,SHCHERBATYKH Valeriia (RUS),ANDO Minami (JPN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,KIHARA Miyuu,SOO Wai Yam,3,0,"11,13,11|8,11,8",R16,GRAND_SLAM,U21WS,502,Main Draw,SOO Wai Yam (HKG),KIHARA Miyuu (JPN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,WANG Yidi,ZHU Chengzhu,3,0,"11,11,11|4,2,3",R16,GRAND_SLAM,U21WS,502,Main Draw,ZHU Chengzhu (HKG),WANG Yidi (CHN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,SUN Mingyang,LIN Ye,3,0,"11,11,11|8,5,9",R16,GRAND_SLAM,U21WS,502,Main Draw,LIN Ye (CAN),SUN Mingyang (CHN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,NAGASAKI Miyu,GUISNEL Oceane,3,1,"11,7,11,11|4,11,3,3",R16,GRAND_SLAM,U21WS,502,Main Draw,NAGASAKI Miyu (JPN),GUISNEL Oceane (FRA)
-World Tour Swedish Open Stockholm 2017,2017-11-13,CHEN Ke,TAKAHASHI Bruna,3,0,"11,11,11|5,9,5",R16,GRAND_SLAM,U21WS,502,Main Draw,CHEN Ke (CHN),TAKAHASHI Bruna (BRA)
-World Tour Swedish Open Stockholm 2017,2017-11-13,KIM Jiho,LEE Zion,3,1,"11,11,11,11|7,8,13,9",R16,GRAND_SLAM,U21WS,502,Main Draw,KIM Jiho (KOR),LEE Zion (KOR)
-World Tour Swedish Open Stockholm 2017,2017-11-13,ZHANG Rui,KHETKHUAN Tamolwan,3,0,"11,11,11|4,3,9",R16,GRAND_SLAM,U21WS,502,Main Draw,ZHANG Rui (CHN),KHETKHUAN Tamolwan (THA)
-World Tour Swedish Open Stockholm 2017,2017-11-13,ANDO Minami,MAK Tze Wing,3,0,"11,11,11|4,5,7",R16,GRAND_SLAM,U21WS,502,Main Draw,MAK Tze Wing (HKG),ANDO Minami (JPN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,WANG Yidi,KIHARA Miyuu,3,0,"11,11,11|6,6,9",QF,GRAND_SLAM,U21WS,502,Main Draw,KIHARA Miyuu (JPN),WANG Yidi (CHN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,SUN Mingyang,NAGASAKI Miyu,3,1,"11,7,11,14|6,11,9,12",QF,GRAND_SLAM,U21WS,502,Main Draw,SUN Mingyang (CHN),NAGASAKI Miyu (JPN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,CHEN Ke,KIM Jiho,3,1,"11,15,8,11|7,13,11,5",QF,GRAND_SLAM,U21WS,502,Main Draw,CHEN Ke (CHN),KIM Jiho (KOR)
-World Tour Swedish Open Stockholm 2017,2017-11-13,ZHANG Rui,ANDO Minami,3,1,"12,6,11,11|10,11,7,3",QF,GRAND_SLAM,U21WS,502,Main Draw,ZHANG Rui (CHN),ANDO Minami (JPN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,WANG Yidi,SUN Mingyang,3,1,"7,11,12,11|11,7,10,4",SF,GRAND_SLAM,U21WS,502,Main Draw,WANG Yidi (CHN),SUN Mingyang (CHN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,ZHANG Rui,CHEN Ke,3,1,"15,11,3,12|13,3,11,10",SF,GRAND_SLAM,U21WS,502,Main Draw,CHEN Ke (CHN),ZHANG Rui (CHN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,ZHANG Rui,WANG Yidi,3,1,"9,11,12,11|11,8,10,5",F,GRAND_SLAM,U21WS,502,Main Draw,WANG Yidi (CHN),ZHANG Rui (CHN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,FAN Zhendong,JANG Woojin,4,0,"11,11,11,11|1,6,3,9",R32,GRAND_SLAM,MS,502,Main Draw,FAN Zhendong (CHN),JANG Woojin (KOR)
-World Tour Swedish Open Stockholm 2017,2017-11-13,DUDA Benedikt,OSHIMA Yuya,4,2,"13,10,11,11,10,11|11,12,6,8,12,6",R32,GRAND_SLAM,MS,502,Main Draw,DUDA Benedikt (GER),OSHIMA Yuya (JPN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,FREITAS Marcos,ZHAI Yujia,4,3,"9,5,11,11,9,11,11|11,11,4,8,11,3,6",R32,GRAND_SLAM,MS,502,Main Draw,FREITAS Marcos (POR),ZHAI Yujia (DEN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,ARUNA Quadri,WONG Chun Ting,4,2,"11,11,11,6,2,11|7,4,8,11,11,6",R32,GRAND_SLAM,MS,502,Main Draw,ARUNA Quadri (NGR),WONG Chun Ting (HKG)
-World Tour Swedish Open Stockholm 2017,2017-11-13,ZHOU Yu,CHUANG Chih-Yuan,4,3,"11,9,5,12,10,13,11|9,11,11,10,12,11,6",R32,GRAND_SLAM,MS,502,Main Draw,CHUANG Chih-Yuan (TPE),ZHOU Yu (CHN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,YAN An,MORIZONO Masataka,4,0,"11,11,11,11|8,6,9,7",R32,GRAND_SLAM,MS,502,Main Draw,MORIZONO Masataka (JPN),YAN An (CHN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,LIU Dingshuo,LEBESSON Emmanuel,4,1,"11,12,11,3,13|7,10,7,11,11",R32,GRAND_SLAM,MS,502,Main Draw,LEBESSON Emmanuel (FRA),LIU Dingshuo (CHN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,LIN Gaoyuan,YOSHIMURA Maharu,4,0,"13,13,11,11|11,11,2,6",R32,GRAND_SLAM,MS,502,Main Draw,YOSHIMURA Maharu (JPN),LIN Gaoyuan (CHN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,NIWA Koki,JORGIC Darko,4,2,"11,11,11,10,11,11|9,4,7,12,13,4",R32,GRAND_SLAM,MS,502,Main Draw,NIWA Koki (JPN),JORGIC Darko (SLO)
-World Tour Swedish Open Stockholm 2017,2017-11-13,WANG Yang,KARLSSON Mattias,4,3,"11,9,11,11,12,12,11|9,11,13,5,10,14,4",R32,GRAND_SLAM,MS,502,Main Draw,WANG Yang (SVK),KARLSSON Mattias (SWE)
-World Tour Swedish Open Stockholm 2017,2017-11-13,KARLSSON Kristian,SIRUCEK Pavel,4,2,"8,9,11,11,11,12|11,11,7,9,9,10",R32,GRAND_SLAM,MS,502,Main Draw,KARLSSON Kristian (SWE),SIRUCEK Pavel (CZE)
-World Tour Swedish Open Stockholm 2017,2017-11-13,FANG Bo,GERASSIMENKO Kirill,4,1,"11,11,11,9,12|4,8,7,11,10",R32,GRAND_SLAM,MS,502,Main Draw,GERASSIMENKO Kirill (KAZ),FANG Bo (KAZ)
-World Tour Swedish Open Stockholm 2017,2017-11-13,MATSUDAIRA Kenta,KIM Donghyun,4,2,"11,8,11,8,11,11|7,11,4,11,4,9",R32,GRAND_SLAM,MS,502,Main Draw,MATSUDAIRA Kenta (JPN),KIM Donghyun (KOR)
-World Tour Swedish Open Stockholm 2017,2017-11-13,GROTH Jonathan,LEE Sang Su,4,3,"11,12,7,6,11,2,12|8,10,11,11,9,11,10",R32,GRAND_SLAM,MS,502,Main Draw,GROTH Jonathan (DEN),LEE Sang Su (KOR)
-World Tour Swedish Open Stockholm 2017,2017-11-13,HARIMOTO Tomokazu,LUNDQVIST Jens,4,3,"11,9,9,10,11,11,11|4,11,11,12,5,9,8",R32,GRAND_SLAM,MS,502,Main Draw,HARIMOTO Tomokazu (JPN),LUNDQVIST Jens (SWE)
-World Tour Swedish Open Stockholm 2017,2017-11-13,XU Xin,CHEN Chien-An,4,0,"11,12,12,11|7,10,10,3",R32,GRAND_SLAM,MS,502,Main Draw,CHEN Chien-An (TPE),XU Xin (CHN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,FAN Zhendong,DUDA Benedikt,4,1,"6,11,11,11,11|11,5,6,6,3",R16,GRAND_SLAM,MS,502,Main Draw,FAN Zhendong (CHN),DUDA Benedikt (GER)
-World Tour Swedish Open Stockholm 2017,2017-11-13,ARUNA Quadri,FREITAS Marcos,4,0,"11,11,13,12|6,4,11,10",R16,GRAND_SLAM,MS,502,Main Draw,FREITAS Marcos (POR),ARUNA Quadri (NGR)
-World Tour Swedish Open Stockholm 2017,2017-11-13,ZHOU Yu,YAN An,4,0,"11,11,11,11|9,8,9,2",R16,GRAND_SLAM,MS,502,Main Draw,ZHOU Yu (CHN),YAN An (CHN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,LIN Gaoyuan,LIU Dingshuo,4,0,"11,11,11,11|1,9,3,0",R16,GRAND_SLAM,MS,502,Main Draw,LIU Dingshuo (CHN),LIN Gaoyuan (CHN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,NIWA Koki,WANG Yang,4,1,"11,6,11,11,11|4,11,4,8,7",R16,GRAND_SLAM,MS,502,Main Draw,NIWA Koki (JPN),WANG Yang (SVK)
-World Tour Swedish Open Stockholm 2017,2017-11-13,FANG Bo,KARLSSON Kristian,4,0,"14,11,11,11|12,4,1,6",R16,GRAND_SLAM,MS,502,Main Draw,KARLSSON Kristian (SWE),FANG Bo (KAZ)
-World Tour Swedish Open Stockholm 2017,2017-11-13,GROTH Jonathan,MATSUDAIRA Kenta,4,2,"7,11,11,11,10,12|11,5,8,9,12,10",R16,GRAND_SLAM,MS,502,Main Draw,MATSUDAIRA Kenta (JPN),GROTH Jonathan (DEN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,XU Xin,HARIMOTO Tomokazu,4,3,"9,4,11,8,11,11,11|11,11,7,11,5,6,9",R16,GRAND_SLAM,MS,502,Main Draw,HARIMOTO Tomokazu (JPN),XU Xin (CHN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,FAN Zhendong,ARUNA Quadri,4,0,"11,11,12,11|6,8,10,5",QF,GRAND_SLAM,MS,502,Main Draw,FAN Zhendong (CHN),ARUNA Quadri (NGR)
-World Tour Swedish Open Stockholm 2017,2017-11-13,ZHOU Yu,LIN Gaoyuan,4,2,"7,6,13,11,16,11|11,11,11,3,14,6",QF,GRAND_SLAM,MS,502,Main Draw,ZHOU Yu (CHN),LIN Gaoyuan (CHN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,FANG Bo,NIWA Koki,4,3,"11,11,7,8,8,11,11|7,6,11,11,11,8,8",QF,GRAND_SLAM,MS,502,Main Draw,NIWA Koki (JPN),FANG Bo (KAZ)
-World Tour Swedish Open Stockholm 2017,2017-11-13,XU Xin,GROTH Jonathan,4,1,"7,11,11,11,11|11,5,4,3,9",QF,GRAND_SLAM,MS,502,Main Draw,GROTH Jonathan (DEN),XU Xin (CHN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,FAN Zhendong,ZHOU Yu,4,3,"6,11,11,10,12,10,12|11,3,8,12,10,12,10",SF,GRAND_SLAM,MS,502,Main Draw,FAN Zhendong (CHN),ZHOU Yu (CHN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,XU Xin,FANG Bo,4,2,"11,12,11,11,8,11|9,14,5,5,11,1",SF,GRAND_SLAM,MS,502,Main Draw,FANG Bo (KAZ),XU Xin (CHN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,XU Xin,FAN Zhendong,4,1,"6,11,11,11,11|11,7,9,6,2",F,GRAND_SLAM,MS,502,Main Draw,FAN Zhendong (CHN),XU Xin (CHN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,DING Ning,POLCANOVA Sofia,4,0,"11,11,11,11|7,5,3,4",R32,GRAND_SLAM,WS,502,Main Draw,DING Ning (CHN),POLCANOVA Sofia (AUT)
-World Tour Swedish Open Stockholm 2017,2017-11-13,CHEN Ke,JEON Jihee,4,2,"8,11,11,11,7,11|11,7,9,1,11,6",R32,GRAND_SLAM,WS,502,Main Draw,CHEN Ke (CHN),JEON Jihee (KOR)
-World Tour Swedish Open Stockholm 2017,2017-11-13,ZHANG Qiang,SHAN Xiaona,4,2,"5,11,6,11,11,11|11,9,11,7,8,8",R32,GRAND_SLAM,WS,502,Main Draw,SHAN Xiaona (GER),ZHANG Qiang (CHN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,SUN Mingyang,ITO Mima,4,2,"11,12,8,11,9,11|7,10,11,9,11,4",R32,GRAND_SLAM,WS,502,Main Draw,SUN Mingyang (CHN),ITO Mima (JPN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,CHENG I-Ching,LI Jiayi,4,3,"5,5,11,12,11,11,11|11,11,9,14,5,2,8",R32,GRAND_SLAM,WS,502,Main Draw,CHENG I-Ching (TPE),LI Jiayi (CHN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,GU Yuting,HASHIMOTO Honoka,4,0,"11,13,11,11|4,11,2,4",R32,GRAND_SLAM,WS,502,Main Draw,GU Yuting (CHN),HASHIMOTO Honoka (JPN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,LI Xiaodan,LI Fen,4,1,"14,11,5,11,12|12,7,11,8,10",R32,GRAND_SLAM,WS,502,Main Draw,LI Fen (SWE),LI Xiaodan (CHN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,ISHIKAWA Kasumi,LI Qian,4,1,"9,11,16,11,11|11,9,14,5,6",R32,GRAND_SLAM,WS,502,Main Draw,LI Qian (POL),ISHIKAWA Kasumi (JPN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,CHEN Meng,LEE Ho Ching,4,2,"11,9,11,7,11,11|2,11,6,11,6,5",R32,GRAND_SLAM,WS,502,Main Draw,CHEN Meng (CHN),LEE Ho Ching (HKG)
-World Tour Swedish Open Stockholm 2017,2017-11-13,EKHOLM Matilda,SOO Wai Yam,4,1,"11,11,13,11,11|9,9,15,7,9",R32,GRAND_SLAM,WS,502,Main Draw,SOO Wai Yam (HKG),EKHOLM Matilda (SWE)
-World Tour Swedish Open Stockholm 2017,2017-11-13,HU Melek,SATO Hitomi,4,1,"8,11,11,11,11|11,9,6,8,8",R32,GRAND_SLAM,WS,502,Main Draw,SATO Hitomi (JPN),HU Melek (TUR)
-World Tour Swedish Open Stockholm 2017,2017-11-13,CHEN Xingtong,HIRANO Miu,4,1,"6,11,11,11,11|11,8,4,7,8",R32,GRAND_SLAM,WS,502,Main Draw,CHEN Xingtong (CHN),HIRANO Miu (JPN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,KATO Miyu,HAN Ying,4,3,"10,5,11,11,11,5,11|12,11,9,9,3,11,8",R32,GRAND_SLAM,WS,502,Main Draw,HAN Ying (GER),KATO Miyu (JPN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,YU Mengyu,HAYATA Hina,4,2,"9,12,5,11,11,11|11,10,11,5,9,3",R32,GRAND_SLAM,WS,502,Main Draw,YU Mengyu (SGP),HAYATA Hina (JPN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,DOO Hoi Kem,YU Fu,4,2,"8,16,11,9,11,11|11,14,5,11,8,3",R32,GRAND_SLAM,WS,502,Main Draw,DOO Hoi Kem (HKG),YU Fu (POR)
-World Tour Swedish Open Stockholm 2017,2017-11-13,ZHU Yuling,KIHARA Miyuu,4,1,"11,6,11,11,11|4,11,8,6,9",R32,GRAND_SLAM,WS,502,Main Draw,KIHARA Miyuu (JPN),ZHU Yuling (MAC)
-World Tour Swedish Open Stockholm 2017,2017-11-13,DING Ning,CHEN Ke,4,0,"11,11,11,11|9,6,7,5",R16,GRAND_SLAM,WS,502,Main Draw,DING Ning (CHN),CHEN Ke (CHN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,ZHANG Qiang,SUN Mingyang,4,1,"11,11,8,11,11|9,7,11,8,5",R16,GRAND_SLAM,WS,502,Main Draw,ZHANG Qiang (CHN),SUN Mingyang (CHN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,GU Yuting,CHENG I-Ching,4,1,"11,8,11,11,11|7,11,6,7,0",R16,GRAND_SLAM,WS,502,Main Draw,CHENG I-Ching (TPE),GU Yuting (CHN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,ISHIKAWA Kasumi,LI Xiaodan,4,3,"8,12,11,9,12,5,11|11,10,9,11,10,11,4",R16,GRAND_SLAM,WS,502,Main Draw,LI Xiaodan (CHN),ISHIKAWA Kasumi (JPN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,CHEN Meng,EKHOLM Matilda,4,0,"11,11,11,11|7,5,1,3",R16,GRAND_SLAM,WS,502,Main Draw,CHEN Meng (CHN),EKHOLM Matilda (SWE)
-World Tour Swedish Open Stockholm 2017,2017-11-13,CHEN Xingtong,HU Melek,4,1,"11,11,11,6,11|5,4,6,11,4",R16,GRAND_SLAM,WS,502,Main Draw,HU Melek (TUR),CHEN Xingtong (CHN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,KATO Miyu,YU Mengyu,4,1,"11,11,12,11,11|13,5,10,5,9",R16,GRAND_SLAM,WS,502,Main Draw,KATO Miyu (JPN),YU Mengyu (SGP)
-World Tour Swedish Open Stockholm 2017,2017-11-13,ZHU Yuling,DOO Hoi Kem,4,0,"11,11,11,11|7,7,4,6",R16,GRAND_SLAM,WS,502,Main Draw,DOO Hoi Kem (HKG),ZHU Yuling (MAC)
-World Tour Swedish Open Stockholm 2017,2017-11-13,DING Ning,ZHANG Qiang,4,2,"7,11,14,5,11,11|11,9,12,11,3,6",QF,GRAND_SLAM,WS,502,Main Draw,DING Ning (CHN),ZHANG Qiang (CHN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,ISHIKAWA Kasumi,GU Yuting,4,3,"12,12,8,5,11,6,11|10,10,11,11,9,11,6",QF,GRAND_SLAM,WS,502,Main Draw,GU Yuting (CHN),ISHIKAWA Kasumi (JPN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,CHEN Xingtong,CHEN Meng,4,3,"9,11,11,6,11,8,11|11,7,6,11,6,11,4",QF,GRAND_SLAM,WS,502,Main Draw,CHEN Meng (CHN),CHEN Xingtong (CHN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,ZHU Yuling,KATO Miyu,4,3,"11,11,12,11,10,8,11|9,4,14,6,12,11,4",QF,GRAND_SLAM,WS,502,Main Draw,KATO Miyu (JPN),ZHU Yuling (MAC)
-World Tour Swedish Open Stockholm 2017,2017-11-13,DING Ning,ISHIKAWA Kasumi,4,0,"11,11,11,11|9,9,8,6",SF,GRAND_SLAM,WS,502,Main Draw,DING Ning (CHN),ISHIKAWA Kasumi (JPN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,CHEN Xingtong,ZHU Yuling,4,1,"4,11,11,11,11|11,6,8,8,6",SF,GRAND_SLAM,WS,502,Main Draw,CHEN Xingtong (CHN),ZHU Yuling (MAC)
-World Tour Swedish Open Stockholm 2017,2017-11-13,CHEN Xingtong,DING Ning,4,3,"11,15,10,11,6,6,11|9,13,12,6,11,11,9",F,GRAND_SLAM,WS,502,Main Draw,DING Ning (CHN),CHEN Xingtong (CHN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,ARUNA Quadri/CARVALHO Diogo,MORIZONO Masataka/OSHIMA Yuya,3,0,,R16,GRAND_SLAM,MD,502,Main Draw,ARUNA Quadri (NGR) / CARVALHO Diogo (POR),MORIZONO Masataka (JPN) / OSHIMA Yuya (JPN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,ACHANTA Sharath/GNANASEKARAN Sathiyan,DRINKHALL Paul/PITCHFORD Liam,3,2,"4,10,12,11,11|11,12,10,8,8",R16,GRAND_SLAM,MD,502,Main Draw,ACHANTA Sharath (IND) / GNANASEKARAN Sathiyan (IND),DRINKHALL Paul (ENG) / PITCHFORD Liam (ENG)
-World Tour Swedish Open Stockholm 2017,2017-11-13,JEONG Sangeun/PARK Ganghyeon,GAO Ning/PANG Xue Jie,3,0,"12,11,11|10,8,4",R16,GRAND_SLAM,MD,502,Main Draw,JEONG Sangeun (KOR) / PARK Ganghyeon (KOR),GAO Ning (SGP) / PANG Xue Jie (SGP)
-World Tour Swedish Open Stockholm 2017,2017-11-13,HO Kwan Kit/WONG Chun Ting,JORGIC Darko/PUCAR Tomislav,3,0,"11,11,11|6,6,8",R16,GRAND_SLAM,MD,502,Main Draw,HO Kwan Kit (HKG) / WONG Chun Ting (HKG),JORGIC Darko (SLO) / PUCAR Tomislav (CRO)
-World Tour Swedish Open Stockholm 2017,2017-11-13,JANG Woojin/JEOUNG Youngsik,BADOWSKI Marek/ZATOWKA Patryk,3,1,"9,12,11,13|11,10,7,11",R16,GRAND_SLAM,MD,502,Main Draw,JANG Woojin (KOR) / JEOUNG Youngsik (KOR),BADOWSKI Marek (POL) / ZATOWKA Patryk (POL)
-World Tour Swedish Open Stockholm 2017,2017-11-13,DESAI Harmeet/GHOSH Soumyajit,GERELL Par/PERSSON Jon,3,2,"6,2,11,11,11|11,11,9,4,5",R16,GRAND_SLAM,MD,502,Main Draw,DESAI Harmeet (IND) / GHOSH Soumyajit (IND),GERELL Par (SWE) / PERSSON Jon (SWE)
-World Tour Swedish Open Stockholm 2017,2017-11-13,KARLSSON Kristian/KARLSSON Mattias,LANDRIEU Andrea/LORENTZ Romain,3,2,"11,11,7,12,11|6,5,11,14,8",R16,GRAND_SLAM,MD,502,Main Draw,KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),LANDRIEU Andrea (FRA) / LORENTZ Romain (FRA)
-World Tour Swedish Open Stockholm 2017,2017-11-13,FAN Zhendong/XU Xin,PLATONOV Pavel/SKACHKOV Kirill,3,1,"11,6,11,11|3,11,2,7",R16,GRAND_SLAM,MD,502,Main Draw,FAN Zhendong (CHN) / XU Xin (CHN),PLATONOV Pavel (BLR) / SKACHKOV Kirill (RUS)
-World Tour Swedish Open Stockholm 2017,2017-11-13,ACHANTA Sharath/GNANASEKARAN Sathiyan,ARUNA Quadri/CARVALHO Diogo,3,1,"11,11,11,11|7,13,8,4",QF,GRAND_SLAM,MD,502,Main Draw,ACHANTA Sharath (IND) / GNANASEKARAN Sathiyan (IND),ARUNA Quadri (NGR) / CARVALHO Diogo (POR)
-World Tour Swedish Open Stockholm 2017,2017-11-13,HO Kwan Kit/WONG Chun Ting,JEONG Sangeun/PARK Ganghyeon,3,0,"11,11,11|5,6,8",QF,GRAND_SLAM,MD,502,Main Draw,HO Kwan Kit (HKG) / WONG Chun Ting (HKG),JEONG Sangeun (KOR) / PARK Ganghyeon (KOR)
-World Tour Swedish Open Stockholm 2017,2017-11-13,JANG Woojin/JEOUNG Youngsik,DESAI Harmeet/GHOSH Soumyajit,3,0,"11,11,11|9,9,5",QF,GRAND_SLAM,MD,502,Main Draw,JANG Woojin (KOR) / JEOUNG Youngsik (KOR),DESAI Harmeet (IND) / GHOSH Soumyajit (IND)
-World Tour Swedish Open Stockholm 2017,2017-11-13,FAN Zhendong/XU Xin,KARLSSON Kristian/KARLSSON Mattias,3,2,"9,11,6,11,12|11,9,11,5,10",QF,GRAND_SLAM,MD,502,Main Draw,FAN Zhendong (CHN) / XU Xin (CHN),KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE)
-World Tour Swedish Open Stockholm 2017,2017-11-13,HO Kwan Kit/WONG Chun Ting,ACHANTA Sharath/GNANASEKARAN Sathiyan,3,1,"12,11,7,11|10,3,11,4",SF,GRAND_SLAM,MD,502,Main Draw,HO Kwan Kit (HKG) / WONG Chun Ting (HKG),ACHANTA Sharath (IND) / GNANASEKARAN Sathiyan (IND)
-World Tour Swedish Open Stockholm 2017,2017-11-13,FAN Zhendong/XU Xin,HO Kwan Kit/WONG Chun Ting,3,1,"6,11,11,11|11,5,6,8",F,GRAND_SLAM,MD,502,Main Draw,FAN Zhendong (CHN) / XU Xin (CHN),HO Kwan Kit (HKG) / WONG Chun Ting (HKG)
-World Tour Swedish Open Stockholm 2017,2017-11-13,DOO Hoi Kem/LEE Ho Ching,MESHREF Dina/VIVARELLI Debora,3,1,"11,10,11,11|5,12,7,1",R16,GRAND_SLAM,WD,502,Main Draw,DOO Hoi Kem (HKG) / LEE Ho Ching (HKG),MESHREF Dina (EGY) / VIVARELLI Debora (ITA)
-World Tour Swedish Open Stockholm 2017,2017-11-13,XIAO Maria/ZHANG Mo,BERGSTROM Linda/JONSSON Jennifer,3,0,"11,13,13|8,11,11",R16,GRAND_SLAM,WD,502,Main Draw,XIAO Maria (ESP) / ZHANG Mo (CAN),BERGSTROM Linda (SWE) / JONSSON Jennifer (SWE)
-World Tour Swedish Open Stockholm 2017,2017-11-13,VARADY Barbora/MATELOVA Hana,LIN Chia-Chih/WANG Yi-Ju,3,2,"12,11,5,4,12|10,9,11,11,10",R16,GRAND_SLAM,WD,502,Main Draw,VARADY Barbora (SVK) / MATELOVA Hana (CZE),LIN Chia-Chih (TPE) / WANG Yi-Ju (TPE)
-World Tour Swedish Open Stockholm 2017,2017-11-13,CHEN Meng/ZHU Yuling,MIKHAILOVA Polina/PAVLOVICH Viktoria,3,0,"11,13,11|7,11,7",R16,GRAND_SLAM,WD,502,Main Draw,CHEN Meng (CHN) / ZHU Yuling (MAC),MIKHAILOVA Polina (RUS) / PAVLOVICH Viktoria (BLR)
-World Tour Swedish Open Stockholm 2017,2017-11-13,JEON Jihee/YANG Ha Eun,GU Yuting/SOO Wai Yam,3,1,"11,7,11,11|8,11,6,4",R16,GRAND_SLAM,WD,502,Main Draw,JEON Jihee (KOR) / YANG Ha Eun (KOR),GU Yuting (CHN) / SOO Wai Yam (HKG)
-World Tour Swedish Open Stockholm 2017,2017-11-13,CHEN Szu-Yu/CHENG I-Ching,KATO Miyu/NAGASAKI Miyu,3,1,"11,10,11,11|8,12,4,5",R16,GRAND_SLAM,WD,502,Main Draw,CHEN Szu-Yu (TPE) / CHENG I-Ching (TPE),KATO Miyu (JPN) / NAGASAKI Miyu (JPN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,DE NUTTE Sarah/NI Xia Lian,HAN Ying/SHAN Xiaona,3,1,"11,13,4,11|9,11,11,8",R16,GRAND_SLAM,WD,502,Main Draw,DE NUTTE Sarah (LUX) / NI Xia Lian (LUX),HAN Ying (GER) / SHAN Xiaona (GER)
-World Tour Swedish Open Stockholm 2017,2017-11-13,HAYATA Hina/ITO Mima,KHETKHUAN Tamolwan/KOMWONG Nanthana,3,0,"11,11,12|6,9,10",R16,GRAND_SLAM,WD,502,Main Draw,HAYATA Hina (JPN) / ITO Mima (JPN),KHETKHUAN Tamolwan (THA) / KOMWONG Nanthana (THA)
-World Tour Swedish Open Stockholm 2017,2017-11-13,DOO Hoi Kem/LEE Ho Ching,XIAO Maria/ZHANG Mo,3,2,"9,11,11,13,11|11,13,5,11,7",QF,GRAND_SLAM,WD,502,Main Draw,DOO Hoi Kem (HKG) / LEE Ho Ching (HKG),XIAO Maria (ESP) / ZHANG Mo (CAN)
-World Tour Swedish Open Stockholm 2017,2017-11-13,CHEN Meng/ZHU Yuling,VARADY Barbora/MATELOVA Hana,3,0,"11,13,13|4,11,11",QF,GRAND_SLAM,WD,502,Main Draw,CHEN Meng (CHN) / ZHU Yuling (MAC),VARADY Barbora (SVK) / MATELOVA Hana (CZE)
-World Tour Swedish Open Stockholm 2017,2017-11-13,CHEN Szu-Yu/CHENG I-Ching,JEON Jihee/YANG Ha Eun,3,1,"9,11,11,11|11,9,8,6",QF,GRAND_SLAM,WD,502,Main Draw,CHEN Szu-Yu (TPE) / CHENG I-Ching (TPE),JEON Jihee (KOR) / YANG Ha Eun (KOR)
-World Tour Swedish Open Stockholm 2017,2017-11-13,HAYATA Hina/ITO Mima,DE NUTTE Sarah/NI Xia Lian,3,0,"11,11,11|3,9,8",QF,GRAND_SLAM,WD,502,Main Draw,HAYATA Hina (JPN) / ITO Mima (JPN),DE NUTTE Sarah (LUX) / NI Xia Lian (LUX)
-World Tour Swedish Open Stockholm 2017,2017-11-13,CHEN Meng/ZHU Yuling,DOO Hoi Kem/LEE Ho Ching,3,0,"11,13,11|5,11,6",SF,GRAND_SLAM,WD,502,Main Draw,CHEN Meng (CHN) / ZHU Yuling (MAC),DOO Hoi Kem (HKG) / LEE Ho Ching (HKG)
-World Tour Swedish Open Stockholm 2017,2017-11-13,HAYATA Hina/ITO Mima,CHEN Szu-Yu/CHENG I-Ching,3,0,"11,11,11|6,6,8",SF,GRAND_SLAM,WD,502,Main Draw,HAYATA Hina (JPN) / ITO Mima (JPN),CHEN Szu-Yu (TPE) / CHENG I-Ching (TPE)
-World Tour Swedish Open Stockholm 2017,2017-11-13,HAYATA Hina/ITO Mima,CHEN Meng/ZHU Yuling,3,1,"11,1,11,11|8,11,9,9",F,GRAND_SLAM,WD,502,Main Draw,HAYATA Hina (JPN) / ITO Mima (JPN),CHEN Meng (CHN) / ZHU Yuling (MAC)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+World Tour Swedish Open Stockholm 2017,2017-11-13,CHO Seungmin,AHMADIAN Amin,3,0,"13,11,11|11,3,5",R32,GRAND_SLAM,U21MS,502,Main Draw,CHO Seungmin (KOR),AHMADIAN Amin (IRI),CHO Seungmin
+World Tour Swedish Open Stockholm 2017,2017-11-13,SODERLUND Simon,PARK Jeongwoo,3,2,"4,11,7,11,11|11,9,11,7,7",R32,GRAND_SLAM,U21MS,502,Main Draw,SODERLUND Simon (SWE),PARK Jeongwoo (KOR),SODERLUND Simon
+World Tour Swedish Open Stockholm 2017,2017-11-13,PARK Ganghyeon,SGOUROPOULOS Ioannis,3,0,"11,11,11|8,4,8",R32,GRAND_SLAM,U21MS,502,Main Draw,PARK Ganghyeon (KOR),SGOUROPOULOS Ioannis (GRE),PARK Ganghyeon
+World Tour Swedish Open Stockholm 2017,2017-11-13,SHAMRUK Gleb,RYUZAKI Tonin,3,2,"8,11,11,6,11|11,4,9,11,5",R32,GRAND_SLAM,U21MS,502,Main Draw,SHAMRUK Gleb (BLR),RYUZAKI Tonin (JPN),SHAMRUK Gleb
+World Tour Swedish Open Stockholm 2017,2017-11-13,SAKAI Asuka,WISUTMAYTHANGKOON Supanut,3,0,"11,11,11|9,8,8",R32,GRAND_SLAM,U21MS,502,Main Draw,SAKAI Asuka (JPN),WISUTMAYTHANGKOON Supanut (THA),SAKAI Asuka
+World Tour Swedish Open Stockholm 2017,2017-11-13,SUN Chia-Hung,JARVIS Tom,3,1,"14,6,11,11|12,11,8,3",R32,GRAND_SLAM,U21MS,502,Main Draw,JARVIS Tom (ENG),SUN Chia-Hung (TPE),SUN Chia-Hung
+World Tour Swedish Open Stockholm 2017,2017-11-13,YANG Heng-Wei,LEVENKO Andreas,3,0,"11,11,11|7,9,7",R32,GRAND_SLAM,U21MS,502,Main Draw,YANG Heng-Wei (TPE),LEVENKO Andreas (AUT),YANG Heng-Wei
+World Tour Swedish Open Stockholm 2017,2017-11-13,OIKAWA Mizuki,MOREGARD Truls,3,0,"11,11,11|6,8,9",R32,GRAND_SLAM,U21MS,502,Main Draw,MOREGARD Truls (SWE),OIKAWA Mizuki (JPN),OIKAWA Mizuki
+World Tour Swedish Open Stockholm 2017,2017-11-13,LAM Siu Hang,BERGLUND Simon,3,0,"11,11,13|9,9,11",R32,GRAND_SLAM,U21MS,502,Main Draw,LAM Siu Hang (HKG),BERGLUND Simon (SWE),LAM Siu Hang
+World Tour Swedish Open Stockholm 2017,2017-11-13,VILCHEZ Miguel,LANDRIEU Andrea,3,1,"13,12,4,12|11,10,11,10",R32,GRAND_SLAM,U21MS,502,Main Draw,VILCHEZ Miguel (ESP),LANDRIEU Andrea (FRA),VILCHEZ Miguel
+World Tour Swedish Open Stockholm 2017,2017-11-13,RANEFUR Elias,BADOWSKI Marek,3,0,"18,11,11|16,8,6",R32,GRAND_SLAM,U21MS,502,Main Draw,RANEFUR Elias (SWE),BADOWSKI Marek (POL),RANEFUR Elias
+World Tour Swedish Open Stockholm 2017,2017-11-13,NG Pak Nam,PETER Ingemar,3,1,"11,11,10,11|3,6,12,6",R32,GRAND_SLAM,U21MS,502,Main Draw,PETER Ingemar (SVK),NG Pak Nam (HKG),NG Pak Nam
+World Tour Swedish Open Stockholm 2017,2017-11-13,JORGIC Darko,ZATOWKA Patryk,3,0,"11,11,11|8,9,4",R32,GRAND_SLAM,U21MS,502,Main Draw,JORGIC Darko (SLO),ZATOWKA Patryk (POL),JORGIC Darko
+World Tour Swedish Open Stockholm 2017,2017-11-13,SEYFRIED Joe,CHO Daeseong,3,1,"11,6,12,11|7,11,10,8",R32,GRAND_SLAM,U21MS,502,Main Draw,CHO Daeseong (KOR),SEYFRIED Joe (FRA),SEYFRIED Joe
+World Tour Swedish Open Stockholm 2017,2017-11-13,TANVIRIYAVECHAKUL Padasak,KWAN Man Ho,3,2,"11,4,11,11,11|13,11,4,6,9",R32,GRAND_SLAM,U21MS,502,Main Draw,TANVIRIYAVECHAKUL Padasak (THA),KWAN Man Ho (HKG),TANVIRIYAVECHAKUL Padasak
+World Tour Swedish Open Stockholm 2017,2017-11-13,LI Hon Ming,KALLBERG Anton,3,2,"5,12,7,11,11|11,10,11,5,5",R32,GRAND_SLAM,U21MS,502,Main Draw,LI Hon Ming (HKG),KALLBERG Anton (SWE),LI Hon Ming
+World Tour Swedish Open Stockholm 2017,2017-11-13,CHO Seungmin,SODERLUND Simon,3,0,"11,11,11|8,4,9",R16,GRAND_SLAM,U21MS,502,Main Draw,CHO Seungmin (KOR),SODERLUND Simon (SWE),CHO Seungmin
+World Tour Swedish Open Stockholm 2017,2017-11-13,PARK Ganghyeon,SHAMRUK Gleb,3,1,"11,11,11,11|5,8,13,5",R16,GRAND_SLAM,U21MS,502,Main Draw,PARK Ganghyeon (KOR),SHAMRUK Gleb (BLR),PARK Ganghyeon
+World Tour Swedish Open Stockholm 2017,2017-11-13,SAKAI Asuka,SUN Chia-Hung,3,0,"11,12,11|4,10,9",R16,GRAND_SLAM,U21MS,502,Main Draw,SAKAI Asuka (JPN),SUN Chia-Hung (TPE),SAKAI Asuka
+World Tour Swedish Open Stockholm 2017,2017-11-13,YANG Heng-Wei,OIKAWA Mizuki,3,0,"11,11,11|6,8,4",R16,GRAND_SLAM,U21MS,502,Main Draw,YANG Heng-Wei (TPE),OIKAWA Mizuki (JPN),YANG Heng-Wei
+World Tour Swedish Open Stockholm 2017,2017-11-13,LAM Siu Hang,VILCHEZ Miguel,3,0,"11,11,13|9,6,11",R16,GRAND_SLAM,U21MS,502,Main Draw,LAM Siu Hang (HKG),VILCHEZ Miguel (ESP),LAM Siu Hang
+World Tour Swedish Open Stockholm 2017,2017-11-13,RANEFUR Elias,NG Pak Nam,3,1,"11,11,7,11|7,7,11,7",R16,GRAND_SLAM,U21MS,502,Main Draw,RANEFUR Elias (SWE),NG Pak Nam (HKG),RANEFUR Elias
+World Tour Swedish Open Stockholm 2017,2017-11-13,JORGIC Darko,SEYFRIED Joe,3,0,"15,11,11|13,8,8",R16,GRAND_SLAM,U21MS,502,Main Draw,JORGIC Darko (SLO),SEYFRIED Joe (FRA),JORGIC Darko
+World Tour Swedish Open Stockholm 2017,2017-11-13,TANVIRIYAVECHAKUL Padasak,LI Hon Ming,3,0,"11,11,11|9,8,6",R16,GRAND_SLAM,U21MS,502,Main Draw,TANVIRIYAVECHAKUL Padasak (THA),LI Hon Ming (HKG),TANVIRIYAVECHAKUL Padasak
+World Tour Swedish Open Stockholm 2017,2017-11-13,PARK Ganghyeon,CHO Seungmin,3,2,"3,7,11,11,11|11,11,5,8,4",QF,GRAND_SLAM,U21MS,502,Main Draw,CHO Seungmin (KOR),PARK Ganghyeon (KOR),PARK Ganghyeon
+World Tour Swedish Open Stockholm 2017,2017-11-13,SAKAI Asuka,YANG Heng-Wei,3,0,"11,11,11|4,2,4",QF,GRAND_SLAM,U21MS,502,Main Draw,SAKAI Asuka (JPN),YANG Heng-Wei (TPE),SAKAI Asuka
+World Tour Swedish Open Stockholm 2017,2017-11-13,LAM Siu Hang,RANEFUR Elias,3,0,"11,12,11|2,10,9",QF,GRAND_SLAM,U21MS,502,Main Draw,LAM Siu Hang (HKG),RANEFUR Elias (SWE),LAM Siu Hang
+World Tour Swedish Open Stockholm 2017,2017-11-13,JORGIC Darko,TANVIRIYAVECHAKUL Padasak,3,0,"11,11,11|7,8,5",QF,GRAND_SLAM,U21MS,502,Main Draw,JORGIC Darko (SLO),TANVIRIYAVECHAKUL Padasak (THA),JORGIC Darko
+World Tour Swedish Open Stockholm 2017,2017-11-13,PARK Ganghyeon,SAKAI Asuka,3,1,"12,11,9,11|10,8,11,6",SF,GRAND_SLAM,U21MS,502,Main Draw,PARK Ganghyeon (KOR),SAKAI Asuka (JPN),PARK Ganghyeon
+World Tour Swedish Open Stockholm 2017,2017-11-13,LAM Siu Hang,JORGIC Darko,3,0,"14,18,11|12,16,5",SF,GRAND_SLAM,U21MS,502,Main Draw,LAM Siu Hang (HKG),JORGIC Darko (SLO),LAM Siu Hang
+World Tour Swedish Open Stockholm 2017,2017-11-13,PARK Ganghyeon,LAM Siu Hang,3,1,"11,15,12,12|13,13,10,10",F,GRAND_SLAM,U21MS,502,Main Draw,PARK Ganghyeon (KOR),LAM Siu Hang (HKG),PARK Ganghyeon
+World Tour Swedish Open Stockholm 2017,2017-11-13,SOO Wai Yam,WAN Yuan,3,0,"11,11,11|5,6,5",R32,GRAND_SLAM,U21WS,502,Main Draw,SOO Wai Yam (HKG),WAN Yuan (GER),SOO Wai Yam
+World Tour Swedish Open Stockholm 2017,2017-11-13,KIHARA Miyuu,BERGAND Filippa,3,1,"7,11,11,11|11,8,5,7",R32,GRAND_SLAM,U21WS,502,Main Draw,BERGAND Filippa (SWE),KIHARA Miyuu (JPN),KIHARA Miyuu
+World Tour Swedish Open Stockholm 2017,2017-11-13,ZHU Chengzhu,HOLMSTEN Ellen,3,1,"12,7,11,12|10,11,8,10",R32,GRAND_SLAM,U21WS,502,Main Draw,ZHU Chengzhu (HKG),HOLMSTEN Ellen (SWE),ZHU Chengzhu
+World Tour Swedish Open Stockholm 2017,2017-11-13,WANG Yidi,HO Tin-Tin,3,0,"11,11,11|4,7,2",R32,GRAND_SLAM,U21WS,502,Main Draw,HO Tin-Tin (ENG),WANG Yidi (CHN),WANG Yidi
+World Tour Swedish Open Stockholm 2017,2017-11-13,LIN Ye,KALLBERG Christina,3,2,"11,13,11,2,11|13,11,6,11,5",R32,GRAND_SLAM,U21WS,502,Main Draw,LIN Ye (CAN),KALLBERG Christina (SWE),LIN Ye
+World Tour Swedish Open Stockholm 2017,2017-11-13,SUN Mingyang,LIN Chia-Hsuan,3,0,"11,11,11|3,1,8",R32,GRAND_SLAM,U21WS,502,Main Draw,SUN Mingyang (CHN),LIN Chia-Hsuan (TPE),SUN Mingyang
+World Tour Swedish Open Stockholm 2017,2017-11-13,NAGASAKI Miyu,VERMAAS Kim,3,1,"11,9,11,11|7,11,8,9",R32,GRAND_SLAM,U21WS,502,Main Draw,NAGASAKI Miyu (JPN),VERMAAS Kim (NED),NAGASAKI Miyu
+World Tour Swedish Open Stockholm 2017,2017-11-13,GUISNEL Oceane,DIAZ Adriana,3,1,"11,7,11,11|3,11,6,5",R32,GRAND_SLAM,U21WS,502,Main Draw,GUISNEL Oceane (FRA),DIAZ Adriana (PUR),GUISNEL Oceane
+World Tour Swedish Open Stockholm 2017,2017-11-13,CHEN Ke,PARANANG Orawan,3,0,"11,11,11|5,4,4",R32,GRAND_SLAM,U21WS,502,Main Draw,CHEN Ke (CHN),PARANANG Orawan (THA),CHEN Ke
+World Tour Swedish Open Stockholm 2017,2017-11-13,TAKAHASHI Bruna,PFEFER Laura,3,2,"8,11,6,11,11|11,5,11,6,9",R32,GRAND_SLAM,U21WS,502,Main Draw,PFEFER Laura (FRA),TAKAHASHI Bruna (BRA),TAKAHASHI Bruna
+World Tour Swedish Open Stockholm 2017,2017-11-13,KIM Jiho,JOHANSSON Tilda,3,1,"11,11,9,11|8,9,11,2",R32,GRAND_SLAM,U21WS,502,Main Draw,KIM Jiho (KOR),JOHANSSON Tilda (SWE),KIM Jiho
+World Tour Swedish Open Stockholm 2017,2017-11-13,LEE Zion,MIGOT Marie,3,1,"13,11,11,11|11,13,7,3",R32,GRAND_SLAM,U21WS,502,Main Draw,MIGOT Marie (FRA),LEE Zion (KOR),LEE Zion
+World Tour Swedish Open Stockholm 2017,2017-11-13,ZHANG Rui,LAM Yee Lok,3,1,"7,11,12,11|11,5,10,7",R32,GRAND_SLAM,U21WS,502,Main Draw,ZHANG Rui (CHN),LAM Yee Lok (HKG),ZHANG Rui
+World Tour Swedish Open Stockholm 2017,2017-11-13,KHETKHUAN Tamolwan,ZARIF Audrey,3,1,"11,8,11,11|3,11,7,8",R32,GRAND_SLAM,U21WS,502,Main Draw,ZARIF Audrey (FRA),KHETKHUAN Tamolwan (THA),KHETKHUAN Tamolwan
+World Tour Swedish Open Stockholm 2017,2017-11-13,MAK Tze Wing,TRIGOLOS Daria,3,1,"9,11,11,11|11,8,7,8",R32,GRAND_SLAM,U21WS,502,Main Draw,MAK Tze Wing (HKG),TRIGOLOS Daria (BLR),MAK Tze Wing
+World Tour Swedish Open Stockholm 2017,2017-11-13,ANDO Minami,SHCHERBATYKH Valeriia,3,0,"11,11,12|7,3,10",R32,GRAND_SLAM,U21WS,502,Main Draw,SHCHERBATYKH Valeriia (RUS),ANDO Minami (JPN),ANDO Minami
+World Tour Swedish Open Stockholm 2017,2017-11-13,KIHARA Miyuu,SOO Wai Yam,3,0,"11,13,11|8,11,8",R16,GRAND_SLAM,U21WS,502,Main Draw,SOO Wai Yam (HKG),KIHARA Miyuu (JPN),KIHARA Miyuu
+World Tour Swedish Open Stockholm 2017,2017-11-13,WANG Yidi,ZHU Chengzhu,3,0,"11,11,11|4,2,3",R16,GRAND_SLAM,U21WS,502,Main Draw,ZHU Chengzhu (HKG),WANG Yidi (CHN),WANG Yidi
+World Tour Swedish Open Stockholm 2017,2017-11-13,SUN Mingyang,LIN Ye,3,0,"11,11,11|8,5,9",R16,GRAND_SLAM,U21WS,502,Main Draw,LIN Ye (CAN),SUN Mingyang (CHN),SUN Mingyang
+World Tour Swedish Open Stockholm 2017,2017-11-13,NAGASAKI Miyu,GUISNEL Oceane,3,1,"11,7,11,11|4,11,3,3",R16,GRAND_SLAM,U21WS,502,Main Draw,NAGASAKI Miyu (JPN),GUISNEL Oceane (FRA),NAGASAKI Miyu
+World Tour Swedish Open Stockholm 2017,2017-11-13,CHEN Ke,TAKAHASHI Bruna,3,0,"11,11,11|5,9,5",R16,GRAND_SLAM,U21WS,502,Main Draw,CHEN Ke (CHN),TAKAHASHI Bruna (BRA),CHEN Ke
+World Tour Swedish Open Stockholm 2017,2017-11-13,KIM Jiho,LEE Zion,3,1,"11,11,11,11|7,8,13,9",R16,GRAND_SLAM,U21WS,502,Main Draw,KIM Jiho (KOR),LEE Zion (KOR),KIM Jiho
+World Tour Swedish Open Stockholm 2017,2017-11-13,ZHANG Rui,KHETKHUAN Tamolwan,3,0,"11,11,11|4,3,9",R16,GRAND_SLAM,U21WS,502,Main Draw,ZHANG Rui (CHN),KHETKHUAN Tamolwan (THA),ZHANG Rui
+World Tour Swedish Open Stockholm 2017,2017-11-13,ANDO Minami,MAK Tze Wing,3,0,"11,11,11|4,5,7",R16,GRAND_SLAM,U21WS,502,Main Draw,MAK Tze Wing (HKG),ANDO Minami (JPN),ANDO Minami
+World Tour Swedish Open Stockholm 2017,2017-11-13,WANG Yidi,KIHARA Miyuu,3,0,"11,11,11|6,6,9",QF,GRAND_SLAM,U21WS,502,Main Draw,KIHARA Miyuu (JPN),WANG Yidi (CHN),WANG Yidi
+World Tour Swedish Open Stockholm 2017,2017-11-13,SUN Mingyang,NAGASAKI Miyu,3,1,"11,7,11,14|6,11,9,12",QF,GRAND_SLAM,U21WS,502,Main Draw,SUN Mingyang (CHN),NAGASAKI Miyu (JPN),SUN Mingyang
+World Tour Swedish Open Stockholm 2017,2017-11-13,CHEN Ke,KIM Jiho,3,1,"11,15,8,11|7,13,11,5",QF,GRAND_SLAM,U21WS,502,Main Draw,CHEN Ke (CHN),KIM Jiho (KOR),CHEN Ke
+World Tour Swedish Open Stockholm 2017,2017-11-13,ZHANG Rui,ANDO Minami,3,1,"12,6,11,11|10,11,7,3",QF,GRAND_SLAM,U21WS,502,Main Draw,ZHANG Rui (CHN),ANDO Minami (JPN),ZHANG Rui
+World Tour Swedish Open Stockholm 2017,2017-11-13,WANG Yidi,SUN Mingyang,3,1,"7,11,12,11|11,7,10,4",SF,GRAND_SLAM,U21WS,502,Main Draw,WANG Yidi (CHN),SUN Mingyang (CHN),WANG Yidi
+World Tour Swedish Open Stockholm 2017,2017-11-13,ZHANG Rui,CHEN Ke,3,1,"15,11,3,12|13,3,11,10",SF,GRAND_SLAM,U21WS,502,Main Draw,CHEN Ke (CHN),ZHANG Rui (CHN),ZHANG Rui
+World Tour Swedish Open Stockholm 2017,2017-11-13,ZHANG Rui,WANG Yidi,3,1,"9,11,12,11|11,8,10,5",F,GRAND_SLAM,U21WS,502,Main Draw,WANG Yidi (CHN),ZHANG Rui (CHN),ZHANG Rui
+World Tour Swedish Open Stockholm 2017,2017-11-13,FAN Zhendong,JANG Woojin,4,0,"11,11,11,11|1,6,3,9",R32,GRAND_SLAM,MS,502,Main Draw,FAN Zhendong (CHN),JANG Woojin (KOR),FAN Zhendong
+World Tour Swedish Open Stockholm 2017,2017-11-13,DUDA Benedikt,OSHIMA Yuya,4,2,"13,10,11,11,10,11|11,12,6,8,12,6",R32,GRAND_SLAM,MS,502,Main Draw,DUDA Benedikt (GER),OSHIMA Yuya (JPN),DUDA Benedikt
+World Tour Swedish Open Stockholm 2017,2017-11-13,FREITAS Marcos,ZHAI Yujia,4,3,"9,5,11,11,9,11,11|11,11,4,8,11,3,6",R32,GRAND_SLAM,MS,502,Main Draw,FREITAS Marcos (POR),ZHAI Yujia (DEN),FREITAS Marcos
+World Tour Swedish Open Stockholm 2017,2017-11-13,ARUNA Quadri,WONG Chun Ting,4,2,"11,11,11,6,2,11|7,4,8,11,11,6",R32,GRAND_SLAM,MS,502,Main Draw,ARUNA Quadri (NGR),WONG Chun Ting (HKG),ARUNA Quadri
+World Tour Swedish Open Stockholm 2017,2017-11-13,ZHOU Yu,CHUANG Chih-Yuan,4,3,"11,9,5,12,10,13,11|9,11,11,10,12,11,6",R32,GRAND_SLAM,MS,502,Main Draw,CHUANG Chih-Yuan (TPE),ZHOU Yu (CHN),ZHOU Yu
+World Tour Swedish Open Stockholm 2017,2017-11-13,YAN An,MORIZONO Masataka,4,0,"11,11,11,11|8,6,9,7",R32,GRAND_SLAM,MS,502,Main Draw,MORIZONO Masataka (JPN),YAN An (CHN),YAN An
+World Tour Swedish Open Stockholm 2017,2017-11-13,LIU Dingshuo,LEBESSON Emmanuel,4,1,"11,12,11,3,13|7,10,7,11,11",R32,GRAND_SLAM,MS,502,Main Draw,LEBESSON Emmanuel (FRA),LIU Dingshuo (CHN),LIU Dingshuo
+World Tour Swedish Open Stockholm 2017,2017-11-13,LIN Gaoyuan,YOSHIMURA Maharu,4,0,"13,13,11,11|11,11,2,6",R32,GRAND_SLAM,MS,502,Main Draw,YOSHIMURA Maharu (JPN),LIN Gaoyuan (CHN),LIN Gaoyuan
+World Tour Swedish Open Stockholm 2017,2017-11-13,NIWA Koki,JORGIC Darko,4,2,"11,11,11,10,11,11|9,4,7,12,13,4",R32,GRAND_SLAM,MS,502,Main Draw,NIWA Koki (JPN),JORGIC Darko (SLO),NIWA Koki
+World Tour Swedish Open Stockholm 2017,2017-11-13,WANG Yang,KARLSSON Mattias,4,3,"11,9,11,11,12,12,11|9,11,13,5,10,14,4",R32,GRAND_SLAM,MS,502,Main Draw,WANG Yang (SVK),KARLSSON Mattias (SWE),WANG Yang
+World Tour Swedish Open Stockholm 2017,2017-11-13,KARLSSON Kristian,SIRUCEK Pavel,4,2,"8,9,11,11,11,12|11,11,7,9,9,10",R32,GRAND_SLAM,MS,502,Main Draw,KARLSSON Kristian (SWE),SIRUCEK Pavel (CZE),KARLSSON Kristian
+World Tour Swedish Open Stockholm 2017,2017-11-13,FANG Bo,GERASSIMENKO Kirill,4,1,"11,11,11,9,12|4,8,7,11,10",R32,GRAND_SLAM,MS,502,Main Draw,GERASSIMENKO Kirill (KAZ),FANG Bo (KAZ),FANG Bo
+World Tour Swedish Open Stockholm 2017,2017-11-13,MATSUDAIRA Kenta,KIM Donghyun,4,2,"11,8,11,8,11,11|7,11,4,11,4,9",R32,GRAND_SLAM,MS,502,Main Draw,MATSUDAIRA Kenta (JPN),KIM Donghyun (KOR),MATSUDAIRA Kenta
+World Tour Swedish Open Stockholm 2017,2017-11-13,GROTH Jonathan,LEE Sang Su,4,3,"11,12,7,6,11,2,12|8,10,11,11,9,11,10",R32,GRAND_SLAM,MS,502,Main Draw,GROTH Jonathan (DEN),LEE Sang Su (KOR),GROTH Jonathan
+World Tour Swedish Open Stockholm 2017,2017-11-13,HARIMOTO Tomokazu,LUNDQVIST Jens,4,3,"11,9,9,10,11,11,11|4,11,11,12,5,9,8",R32,GRAND_SLAM,MS,502,Main Draw,HARIMOTO Tomokazu (JPN),LUNDQVIST Jens (SWE),HARIMOTO Tomokazu
+World Tour Swedish Open Stockholm 2017,2017-11-13,XU Xin,CHEN Chien-An,4,0,"11,12,12,11|7,10,10,3",R32,GRAND_SLAM,MS,502,Main Draw,CHEN Chien-An (TPE),XU Xin (CHN),XU Xin
+World Tour Swedish Open Stockholm 2017,2017-11-13,FAN Zhendong,DUDA Benedikt,4,1,"6,11,11,11,11|11,5,6,6,3",R16,GRAND_SLAM,MS,502,Main Draw,FAN Zhendong (CHN),DUDA Benedikt (GER),FAN Zhendong
+World Tour Swedish Open Stockholm 2017,2017-11-13,ARUNA Quadri,FREITAS Marcos,4,0,"11,11,13,12|6,4,11,10",R16,GRAND_SLAM,MS,502,Main Draw,FREITAS Marcos (POR),ARUNA Quadri (NGR),ARUNA Quadri
+World Tour Swedish Open Stockholm 2017,2017-11-13,ZHOU Yu,YAN An,4,0,"11,11,11,11|9,8,9,2",R16,GRAND_SLAM,MS,502,Main Draw,ZHOU Yu (CHN),YAN An (CHN),ZHOU Yu
+World Tour Swedish Open Stockholm 2017,2017-11-13,LIN Gaoyuan,LIU Dingshuo,4,0,"11,11,11,11|1,9,3,0",R16,GRAND_SLAM,MS,502,Main Draw,LIU Dingshuo (CHN),LIN Gaoyuan (CHN),LIN Gaoyuan
+World Tour Swedish Open Stockholm 2017,2017-11-13,NIWA Koki,WANG Yang,4,1,"11,6,11,11,11|4,11,4,8,7",R16,GRAND_SLAM,MS,502,Main Draw,NIWA Koki (JPN),WANG Yang (SVK),NIWA Koki
+World Tour Swedish Open Stockholm 2017,2017-11-13,FANG Bo,KARLSSON Kristian,4,0,"14,11,11,11|12,4,1,6",R16,GRAND_SLAM,MS,502,Main Draw,KARLSSON Kristian (SWE),FANG Bo (KAZ),FANG Bo
+World Tour Swedish Open Stockholm 2017,2017-11-13,GROTH Jonathan,MATSUDAIRA Kenta,4,2,"7,11,11,11,10,12|11,5,8,9,12,10",R16,GRAND_SLAM,MS,502,Main Draw,MATSUDAIRA Kenta (JPN),GROTH Jonathan (DEN),GROTH Jonathan
+World Tour Swedish Open Stockholm 2017,2017-11-13,XU Xin,HARIMOTO Tomokazu,4,3,"9,4,11,8,11,11,11|11,11,7,11,5,6,9",R16,GRAND_SLAM,MS,502,Main Draw,HARIMOTO Tomokazu (JPN),XU Xin (CHN),XU Xin
+World Tour Swedish Open Stockholm 2017,2017-11-13,FAN Zhendong,ARUNA Quadri,4,0,"11,11,12,11|6,8,10,5",QF,GRAND_SLAM,MS,502,Main Draw,FAN Zhendong (CHN),ARUNA Quadri (NGR),FAN Zhendong
+World Tour Swedish Open Stockholm 2017,2017-11-13,ZHOU Yu,LIN Gaoyuan,4,2,"7,6,13,11,16,11|11,11,11,3,14,6",QF,GRAND_SLAM,MS,502,Main Draw,ZHOU Yu (CHN),LIN Gaoyuan (CHN),ZHOU Yu
+World Tour Swedish Open Stockholm 2017,2017-11-13,FANG Bo,NIWA Koki,4,3,"11,11,7,8,8,11,11|7,6,11,11,11,8,8",QF,GRAND_SLAM,MS,502,Main Draw,NIWA Koki (JPN),FANG Bo (KAZ),FANG Bo
+World Tour Swedish Open Stockholm 2017,2017-11-13,XU Xin,GROTH Jonathan,4,1,"7,11,11,11,11|11,5,4,3,9",QF,GRAND_SLAM,MS,502,Main Draw,GROTH Jonathan (DEN),XU Xin (CHN),XU Xin
+World Tour Swedish Open Stockholm 2017,2017-11-13,FAN Zhendong,ZHOU Yu,4,3,"6,11,11,10,12,10,12|11,3,8,12,10,12,10",SF,GRAND_SLAM,MS,502,Main Draw,FAN Zhendong (CHN),ZHOU Yu (CHN),FAN Zhendong
+World Tour Swedish Open Stockholm 2017,2017-11-13,XU Xin,FANG Bo,4,2,"11,12,11,11,8,11|9,14,5,5,11,1",SF,GRAND_SLAM,MS,502,Main Draw,FANG Bo (KAZ),XU Xin (CHN),XU Xin
+World Tour Swedish Open Stockholm 2017,2017-11-13,XU Xin,FAN Zhendong,4,1,"6,11,11,11,11|11,7,9,6,2",F,GRAND_SLAM,MS,502,Main Draw,FAN Zhendong (CHN),XU Xin (CHN),XU Xin
+World Tour Swedish Open Stockholm 2017,2017-11-13,DING Ning,POLCANOVA Sofia,4,0,"11,11,11,11|7,5,3,4",R32,GRAND_SLAM,WS,502,Main Draw,DING Ning (CHN),POLCANOVA Sofia (AUT),DING Ning
+World Tour Swedish Open Stockholm 2017,2017-11-13,CHEN Ke,JEON Jihee,4,2,"8,11,11,11,7,11|11,7,9,1,11,6",R32,GRAND_SLAM,WS,502,Main Draw,CHEN Ke (CHN),JEON Jihee (KOR),CHEN Ke
+World Tour Swedish Open Stockholm 2017,2017-11-13,ZHANG Qiang,SHAN Xiaona,4,2,"5,11,6,11,11,11|11,9,11,7,8,8",R32,GRAND_SLAM,WS,502,Main Draw,SHAN Xiaona (GER),ZHANG Qiang (CHN),ZHANG Qiang
+World Tour Swedish Open Stockholm 2017,2017-11-13,SUN Mingyang,ITO Mima,4,2,"11,12,8,11,9,11|7,10,11,9,11,4",R32,GRAND_SLAM,WS,502,Main Draw,SUN Mingyang (CHN),ITO Mima (JPN),SUN Mingyang
+World Tour Swedish Open Stockholm 2017,2017-11-13,CHENG I-Ching,LI Jiayi,4,3,"5,5,11,12,11,11,11|11,11,9,14,5,2,8",R32,GRAND_SLAM,WS,502,Main Draw,CHENG I-Ching (TPE),LI Jiayi (CHN),CHENG I-Ching
+World Tour Swedish Open Stockholm 2017,2017-11-13,GU Yuting,HASHIMOTO Honoka,4,0,"11,13,11,11|4,11,2,4",R32,GRAND_SLAM,WS,502,Main Draw,GU Yuting (CHN),HASHIMOTO Honoka (JPN),GU Yuting
+World Tour Swedish Open Stockholm 2017,2017-11-13,LI Xiaodan,LI Fen,4,1,"14,11,5,11,12|12,7,11,8,10",R32,GRAND_SLAM,WS,502,Main Draw,LI Fen (SWE),LI Xiaodan (CHN),LI Xiaodan
+World Tour Swedish Open Stockholm 2017,2017-11-13,ISHIKAWA Kasumi,LI Qian,4,1,"9,11,16,11,11|11,9,14,5,6",R32,GRAND_SLAM,WS,502,Main Draw,LI Qian (POL),ISHIKAWA Kasumi (JPN),ISHIKAWA Kasumi
+World Tour Swedish Open Stockholm 2017,2017-11-13,CHEN Meng,LEE Ho Ching,4,2,"11,9,11,7,11,11|2,11,6,11,6,5",R32,GRAND_SLAM,WS,502,Main Draw,CHEN Meng (CHN),LEE Ho Ching (HKG),CHEN Meng
+World Tour Swedish Open Stockholm 2017,2017-11-13,EKHOLM Matilda,SOO Wai Yam,4,1,"11,11,13,11,11|9,9,15,7,9",R32,GRAND_SLAM,WS,502,Main Draw,SOO Wai Yam (HKG),EKHOLM Matilda (SWE),EKHOLM Matilda
+World Tour Swedish Open Stockholm 2017,2017-11-13,HU Melek,SATO Hitomi,4,1,"8,11,11,11,11|11,9,6,8,8",R32,GRAND_SLAM,WS,502,Main Draw,SATO Hitomi (JPN),HU Melek (TUR),HU Melek
+World Tour Swedish Open Stockholm 2017,2017-11-13,CHEN Xingtong,HIRANO Miu,4,1,"6,11,11,11,11|11,8,4,7,8",R32,GRAND_SLAM,WS,502,Main Draw,CHEN Xingtong (CHN),HIRANO Miu (JPN),CHEN Xingtong
+World Tour Swedish Open Stockholm 2017,2017-11-13,KATO Miyu,HAN Ying,4,3,"10,5,11,11,11,5,11|12,11,9,9,3,11,8",R32,GRAND_SLAM,WS,502,Main Draw,HAN Ying (GER),KATO Miyu (JPN),KATO Miyu
+World Tour Swedish Open Stockholm 2017,2017-11-13,YU Mengyu,HAYATA Hina,4,2,"9,12,5,11,11,11|11,10,11,5,9,3",R32,GRAND_SLAM,WS,502,Main Draw,YU Mengyu (SGP),HAYATA Hina (JPN),YU Mengyu
+World Tour Swedish Open Stockholm 2017,2017-11-13,DOO Hoi Kem,YU Fu,4,2,"8,16,11,9,11,11|11,14,5,11,8,3",R32,GRAND_SLAM,WS,502,Main Draw,DOO Hoi Kem (HKG),YU Fu (POR),DOO Hoi Kem
+World Tour Swedish Open Stockholm 2017,2017-11-13,ZHU Yuling,KIHARA Miyuu,4,1,"11,6,11,11,11|4,11,8,6,9",R32,GRAND_SLAM,WS,502,Main Draw,KIHARA Miyuu (JPN),ZHU Yuling (MAC),ZHU Yuling
+World Tour Swedish Open Stockholm 2017,2017-11-13,DING Ning,CHEN Ke,4,0,"11,11,11,11|9,6,7,5",R16,GRAND_SLAM,WS,502,Main Draw,DING Ning (CHN),CHEN Ke (CHN),DING Ning
+World Tour Swedish Open Stockholm 2017,2017-11-13,ZHANG Qiang,SUN Mingyang,4,1,"11,11,8,11,11|9,7,11,8,5",R16,GRAND_SLAM,WS,502,Main Draw,ZHANG Qiang (CHN),SUN Mingyang (CHN),ZHANG Qiang
+World Tour Swedish Open Stockholm 2017,2017-11-13,GU Yuting,CHENG I-Ching,4,1,"11,8,11,11,11|7,11,6,7,0",R16,GRAND_SLAM,WS,502,Main Draw,CHENG I-Ching (TPE),GU Yuting (CHN),GU Yuting
+World Tour Swedish Open Stockholm 2017,2017-11-13,ISHIKAWA Kasumi,LI Xiaodan,4,3,"8,12,11,9,12,5,11|11,10,9,11,10,11,4",R16,GRAND_SLAM,WS,502,Main Draw,LI Xiaodan (CHN),ISHIKAWA Kasumi (JPN),ISHIKAWA Kasumi
+World Tour Swedish Open Stockholm 2017,2017-11-13,CHEN Meng,EKHOLM Matilda,4,0,"11,11,11,11|7,5,1,3",R16,GRAND_SLAM,WS,502,Main Draw,CHEN Meng (CHN),EKHOLM Matilda (SWE),CHEN Meng
+World Tour Swedish Open Stockholm 2017,2017-11-13,CHEN Xingtong,HU Melek,4,1,"11,11,11,6,11|5,4,6,11,4",R16,GRAND_SLAM,WS,502,Main Draw,HU Melek (TUR),CHEN Xingtong (CHN),CHEN Xingtong
+World Tour Swedish Open Stockholm 2017,2017-11-13,KATO Miyu,YU Mengyu,4,1,"11,11,12,11,11|13,5,10,5,9",R16,GRAND_SLAM,WS,502,Main Draw,KATO Miyu (JPN),YU Mengyu (SGP),KATO Miyu
+World Tour Swedish Open Stockholm 2017,2017-11-13,ZHU Yuling,DOO Hoi Kem,4,0,"11,11,11,11|7,7,4,6",R16,GRAND_SLAM,WS,502,Main Draw,DOO Hoi Kem (HKG),ZHU Yuling (MAC),ZHU Yuling
+World Tour Swedish Open Stockholm 2017,2017-11-13,DING Ning,ZHANG Qiang,4,2,"7,11,14,5,11,11|11,9,12,11,3,6",QF,GRAND_SLAM,WS,502,Main Draw,DING Ning (CHN),ZHANG Qiang (CHN),DING Ning
+World Tour Swedish Open Stockholm 2017,2017-11-13,ISHIKAWA Kasumi,GU Yuting,4,3,"12,12,8,5,11,6,11|10,10,11,11,9,11,6",QF,GRAND_SLAM,WS,502,Main Draw,GU Yuting (CHN),ISHIKAWA Kasumi (JPN),ISHIKAWA Kasumi
+World Tour Swedish Open Stockholm 2017,2017-11-13,CHEN Xingtong,CHEN Meng,4,3,"9,11,11,6,11,8,11|11,7,6,11,6,11,4",QF,GRAND_SLAM,WS,502,Main Draw,CHEN Meng (CHN),CHEN Xingtong (CHN),CHEN Xingtong
+World Tour Swedish Open Stockholm 2017,2017-11-13,ZHU Yuling,KATO Miyu,4,3,"11,11,12,11,10,8,11|9,4,14,6,12,11,4",QF,GRAND_SLAM,WS,502,Main Draw,KATO Miyu (JPN),ZHU Yuling (MAC),ZHU Yuling
+World Tour Swedish Open Stockholm 2017,2017-11-13,DING Ning,ISHIKAWA Kasumi,4,0,"11,11,11,11|9,9,8,6",SF,GRAND_SLAM,WS,502,Main Draw,DING Ning (CHN),ISHIKAWA Kasumi (JPN),DING Ning
+World Tour Swedish Open Stockholm 2017,2017-11-13,CHEN Xingtong,ZHU Yuling,4,1,"4,11,11,11,11|11,6,8,8,6",SF,GRAND_SLAM,WS,502,Main Draw,CHEN Xingtong (CHN),ZHU Yuling (MAC),CHEN Xingtong
+World Tour Swedish Open Stockholm 2017,2017-11-13,CHEN Xingtong,DING Ning,4,3,"11,15,10,11,6,6,11|9,13,12,6,11,11,9",F,GRAND_SLAM,WS,502,Main Draw,DING Ning (CHN),CHEN Xingtong (CHN),CHEN Xingtong
+World Tour Swedish Open Stockholm 2017,2017-11-13,ARUNA Quadri/CARVALHO Diogo,MORIZONO Masataka/OSHIMA Yuya,3,0,,R16,GRAND_SLAM,MD,502,Main Draw,ARUNA Quadri (NGR) / CARVALHO Diogo (POR),MORIZONO Masataka (JPN) / OSHIMA Yuya (JPN),ARUNA Quadri
+World Tour Swedish Open Stockholm 2017,2017-11-13,ACHANTA Sharath/GNANASEKARAN Sathiyan,DRINKHALL Paul/PITCHFORD Liam,3,2,"4,10,12,11,11|11,12,10,8,8",R16,GRAND_SLAM,MD,502,Main Draw,ACHANTA Sharath (IND) / GNANASEKARAN Sathiyan (IND),DRINKHALL Paul (ENG) / PITCHFORD Liam (ENG),ACHANTA Sharath
+World Tour Swedish Open Stockholm 2017,2017-11-13,JEONG Sangeun/PARK Ganghyeon,GAO Ning/PANG Xue Jie,3,0,"12,11,11|10,8,4",R16,GRAND_SLAM,MD,502,Main Draw,JEONG Sangeun (KOR) / PARK Ganghyeon (KOR),GAO Ning (SGP) / PANG Xue Jie (SGP),JEONG Sangeun
+World Tour Swedish Open Stockholm 2017,2017-11-13,HO Kwan Kit/WONG Chun Ting,JORGIC Darko/PUCAR Tomislav,3,0,"11,11,11|6,6,8",R16,GRAND_SLAM,MD,502,Main Draw,HO Kwan Kit (HKG) / WONG Chun Ting (HKG),JORGIC Darko (SLO) / PUCAR Tomislav (CRO),HO Kwan Kit
+World Tour Swedish Open Stockholm 2017,2017-11-13,JANG Woojin/JEOUNG Youngsik,BADOWSKI Marek/ZATOWKA Patryk,3,1,"9,12,11,13|11,10,7,11",R16,GRAND_SLAM,MD,502,Main Draw,JANG Woojin (KOR) / JEOUNG Youngsik (KOR),BADOWSKI Marek (POL) / ZATOWKA Patryk (POL),JANG Woojin
+World Tour Swedish Open Stockholm 2017,2017-11-13,DESAI Harmeet/GHOSH Soumyajit,GERELL Par/PERSSON Jon,3,2,"6,2,11,11,11|11,11,9,4,5",R16,GRAND_SLAM,MD,502,Main Draw,DESAI Harmeet (IND) / GHOSH Soumyajit (IND),GERELL Par (SWE) / PERSSON Jon (SWE),DESAI Harmeet
+World Tour Swedish Open Stockholm 2017,2017-11-13,KARLSSON Kristian/KARLSSON Mattias,LANDRIEU Andrea/LORENTZ Romain,3,2,"11,11,7,12,11|6,5,11,14,8",R16,GRAND_SLAM,MD,502,Main Draw,KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),LANDRIEU Andrea (FRA) / LORENTZ Romain (FRA),KARLSSON Kristian
+World Tour Swedish Open Stockholm 2017,2017-11-13,FAN Zhendong/XU Xin,PLATONOV Pavel/SKACHKOV Kirill,3,1,"11,6,11,11|3,11,2,7",R16,GRAND_SLAM,MD,502,Main Draw,FAN Zhendong (CHN) / XU Xin (CHN),PLATONOV Pavel (BLR) / SKACHKOV Kirill (RUS),FAN Zhendong
+World Tour Swedish Open Stockholm 2017,2017-11-13,ACHANTA Sharath/GNANASEKARAN Sathiyan,ARUNA Quadri/CARVALHO Diogo,3,1,"11,11,11,11|7,13,8,4",QF,GRAND_SLAM,MD,502,Main Draw,ACHANTA Sharath (IND) / GNANASEKARAN Sathiyan (IND),ARUNA Quadri (NGR) / CARVALHO Diogo (POR),ACHANTA Sharath
+World Tour Swedish Open Stockholm 2017,2017-11-13,HO Kwan Kit/WONG Chun Ting,JEONG Sangeun/PARK Ganghyeon,3,0,"11,11,11|5,6,8",QF,GRAND_SLAM,MD,502,Main Draw,HO Kwan Kit (HKG) / WONG Chun Ting (HKG),JEONG Sangeun (KOR) / PARK Ganghyeon (KOR),HO Kwan Kit
+World Tour Swedish Open Stockholm 2017,2017-11-13,JANG Woojin/JEOUNG Youngsik,DESAI Harmeet/GHOSH Soumyajit,3,0,"11,11,11|9,9,5",QF,GRAND_SLAM,MD,502,Main Draw,JANG Woojin (KOR) / JEOUNG Youngsik (KOR),DESAI Harmeet (IND) / GHOSH Soumyajit (IND),JANG Woojin
+World Tour Swedish Open Stockholm 2017,2017-11-13,FAN Zhendong/XU Xin,KARLSSON Kristian/KARLSSON Mattias,3,2,"9,11,6,11,12|11,9,11,5,10",QF,GRAND_SLAM,MD,502,Main Draw,FAN Zhendong (CHN) / XU Xin (CHN),KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),FAN Zhendong
+World Tour Swedish Open Stockholm 2017,2017-11-13,HO Kwan Kit/WONG Chun Ting,ACHANTA Sharath/GNANASEKARAN Sathiyan,3,1,"12,11,7,11|10,3,11,4",SF,GRAND_SLAM,MD,502,Main Draw,HO Kwan Kit (HKG) / WONG Chun Ting (HKG),ACHANTA Sharath (IND) / GNANASEKARAN Sathiyan (IND),HO Kwan Kit
+World Tour Swedish Open Stockholm 2017,2017-11-13,FAN Zhendong/XU Xin,HO Kwan Kit/WONG Chun Ting,3,1,"6,11,11,11|11,5,6,8",F,GRAND_SLAM,MD,502,Main Draw,FAN Zhendong (CHN) / XU Xin (CHN),HO Kwan Kit (HKG) / WONG Chun Ting (HKG),FAN Zhendong
+World Tour Swedish Open Stockholm 2017,2017-11-13,DOO Hoi Kem/LEE Ho Ching,MESHREF Dina/VIVARELLI Debora,3,1,"11,10,11,11|5,12,7,1",R16,GRAND_SLAM,WD,502,Main Draw,DOO Hoi Kem (HKG) / LEE Ho Ching (HKG),MESHREF Dina (EGY) / VIVARELLI Debora (ITA),DOO Hoi Kem
+World Tour Swedish Open Stockholm 2017,2017-11-13,XIAO Maria/ZHANG Mo,BERGSTROM Linda/JONSSON Jennifer,3,0,"11,13,13|8,11,11",R16,GRAND_SLAM,WD,502,Main Draw,XIAO Maria (ESP) / ZHANG Mo (CAN),BERGSTROM Linda (SWE) / JONSSON Jennifer (SWE),XIAO Maria
+World Tour Swedish Open Stockholm 2017,2017-11-13,VARADY Barbora/MATELOVA Hana,LIN Chia-Chih/WANG Yi-Ju,3,2,"12,11,5,4,12|10,9,11,11,10",R16,GRAND_SLAM,WD,502,Main Draw,VARADY Barbora (SVK) / MATELOVA Hana (CZE),LIN Chia-Chih (TPE) / WANG Yi-Ju (TPE),VARADY Barbora
+World Tour Swedish Open Stockholm 2017,2017-11-13,CHEN Meng/ZHU Yuling,MIKHAILOVA Polina/PAVLOVICH Viktoria,3,0,"11,13,11|7,11,7",R16,GRAND_SLAM,WD,502,Main Draw,CHEN Meng (CHN) / ZHU Yuling (MAC),MIKHAILOVA Polina (RUS) / PAVLOVICH Viktoria (BLR),CHEN Meng
+World Tour Swedish Open Stockholm 2017,2017-11-13,JEON Jihee/YANG Ha Eun,GU Yuting/SOO Wai Yam,3,1,"11,7,11,11|8,11,6,4",R16,GRAND_SLAM,WD,502,Main Draw,JEON Jihee (KOR) / YANG Ha Eun (KOR),GU Yuting (CHN) / SOO Wai Yam (HKG),JEON Jihee
+World Tour Swedish Open Stockholm 2017,2017-11-13,CHEN Szu-Yu/CHENG I-Ching,KATO Miyu/NAGASAKI Miyu,3,1,"11,10,11,11|8,12,4,5",R16,GRAND_SLAM,WD,502,Main Draw,CHEN Szu-Yu (TPE) / CHENG I-Ching (TPE),KATO Miyu (JPN) / NAGASAKI Miyu (JPN),CHEN Szu-Yu
+World Tour Swedish Open Stockholm 2017,2017-11-13,DE NUTTE Sarah/NI Xia Lian,HAN Ying/SHAN Xiaona,3,1,"11,13,4,11|9,11,11,8",R16,GRAND_SLAM,WD,502,Main Draw,DE NUTTE Sarah (LUX) / NI Xia Lian (LUX),HAN Ying (GER) / SHAN Xiaona (GER),DE NUTTE Sarah
+World Tour Swedish Open Stockholm 2017,2017-11-13,HAYATA Hina/ITO Mima,KHETKHUAN Tamolwan/KOMWONG Nanthana,3,0,"11,11,12|6,9,10",R16,GRAND_SLAM,WD,502,Main Draw,HAYATA Hina (JPN) / ITO Mima (JPN),KHETKHUAN Tamolwan (THA) / KOMWONG Nanthana (THA),HAYATA Hina
+World Tour Swedish Open Stockholm 2017,2017-11-13,DOO Hoi Kem/LEE Ho Ching,XIAO Maria/ZHANG Mo,3,2,"9,11,11,13,11|11,13,5,11,7",QF,GRAND_SLAM,WD,502,Main Draw,DOO Hoi Kem (HKG) / LEE Ho Ching (HKG),XIAO Maria (ESP) / ZHANG Mo (CAN),DOO Hoi Kem
+World Tour Swedish Open Stockholm 2017,2017-11-13,CHEN Meng/ZHU Yuling,VARADY Barbora/MATELOVA Hana,3,0,"11,13,13|4,11,11",QF,GRAND_SLAM,WD,502,Main Draw,CHEN Meng (CHN) / ZHU Yuling (MAC),VARADY Barbora (SVK) / MATELOVA Hana (CZE),CHEN Meng
+World Tour Swedish Open Stockholm 2017,2017-11-13,CHEN Szu-Yu/CHENG I-Ching,JEON Jihee/YANG Ha Eun,3,1,"9,11,11,11|11,9,8,6",QF,GRAND_SLAM,WD,502,Main Draw,CHEN Szu-Yu (TPE) / CHENG I-Ching (TPE),JEON Jihee (KOR) / YANG Ha Eun (KOR),CHEN Szu-Yu
+World Tour Swedish Open Stockholm 2017,2017-11-13,HAYATA Hina/ITO Mima,DE NUTTE Sarah/NI Xia Lian,3,0,"11,11,11|3,9,8",QF,GRAND_SLAM,WD,502,Main Draw,HAYATA Hina (JPN) / ITO Mima (JPN),DE NUTTE Sarah (LUX) / NI Xia Lian (LUX),HAYATA Hina
+World Tour Swedish Open Stockholm 2017,2017-11-13,CHEN Meng/ZHU Yuling,DOO Hoi Kem/LEE Ho Ching,3,0,"11,13,11|5,11,6",SF,GRAND_SLAM,WD,502,Main Draw,CHEN Meng (CHN) / ZHU Yuling (MAC),DOO Hoi Kem (HKG) / LEE Ho Ching (HKG),CHEN Meng
+World Tour Swedish Open Stockholm 2017,2017-11-13,HAYATA Hina/ITO Mima,CHEN Szu-Yu/CHENG I-Ching,3,0,"11,11,11|6,6,8",SF,GRAND_SLAM,WD,502,Main Draw,HAYATA Hina (JPN) / ITO Mima (JPN),CHEN Szu-Yu (TPE) / CHENG I-Ching (TPE),HAYATA Hina
+World Tour Swedish Open Stockholm 2017,2017-11-13,HAYATA Hina/ITO Mima,CHEN Meng/ZHU Yuling,3,1,"11,1,11,11|8,11,9,9",F,GRAND_SLAM,WD,502,Main Draw,HAYATA Hina (JPN) / ITO Mima (JPN),CHEN Meng (CHN) / ZHU Yuling (MAC),HAYATA Hina

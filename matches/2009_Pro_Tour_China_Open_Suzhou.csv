@@ -1,286 +1,286 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Pro Tour China Open Suzhou 2009,2009-06-03,MA Liang,LKHAGVADORJ Altantulga,4,0,,,GRAND_SLAM,MS,45,Qualification,MA Liang (SGP),LKHAGVADORJ Altantulga (MGL)
-Pro Tour China Open Suzhou 2009,2009-06-03,MA Liang,KIM Donghyun,4,0,"11,11,11,11|9,7,5,9",,GRAND_SLAM,MS,45,Qualification,MA Liang (SGP),KIM Donghyun (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,KIM Donghyun,LKHAGVADORJ Altantulga,4,0,"11,11,11,12|8,2,9,10",,GRAND_SLAM,MS,45,Qualification,KIM Donghyun (KOR),LKHAGVADORJ Altantulga (MGL)
-Pro Tour China Open Suzhou 2009,2009-06-03,DRINKHALL Paul,BABUNGU Bomboko,4,0,,,GRAND_SLAM,MS,45,Qualification,DRINKHALL Paul (ENG),BABUNGU Bomboko (COD)
-Pro Tour China Open Suzhou 2009,2009-06-03,DRINKHALL Paul,CHANG Shun-Hung,4,1,"11,11,3,11,11|4,5,11,7,8",,GRAND_SLAM,MS,45,Qualification,DRINKHALL Paul (ENG),CHANG Shun-Hung (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,CHANG Shun-Hung,BABUNGU Bomboko,4,0,,,GRAND_SLAM,MS,45,Qualification,CHANG Shun-Hung (TPE),BABUNGU Bomboko (COD)
-Pro Tour China Open Suzhou 2009,2009-06-03,CHO Jihoon,HUNG Tzu-Hsiang,4,2,"11,5,11,9,11,23|8,11,6,11,9,21",,GRAND_SLAM,MS,45,Qualification,CHO Jihoon (KOR),HUNG Tzu-Hsiang (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,CHO Jihoon,PANG Xue Jie,4,0,"11,11,11,11|5,3,8,7",,GRAND_SLAM,MS,45,Qualification,CHO Jihoon (KOR),PANG Xue Jie (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,PANG Xue Jie,HUNG Tzu-Hsiang,4,2,"17,11,9,13,6,11|15,5,11,11,11,4",,GRAND_SLAM,MS,45,Qualification,PANG Xue Jie (SGP),HUNG Tzu-Hsiang (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,HABESOHN Daniel,BOLA Christian,4,0,,,GRAND_SLAM,MS,45,Qualification,HABESOHN Daniel (AUT),BOLA Christian (COD)
-Pro Tour China Open Suzhou 2009,2009-06-03,HABESOHN Daniel,LORENTZ Romain,4,2,"8,12,11,11,11,11|11,10,8,13,8,8",,GRAND_SLAM,MS,45,Qualification,HABESOHN Daniel (AUT),LORENTZ Romain (FRA)
-Pro Tour China Open Suzhou 2009,2009-06-03,LORENTZ Romain,BOLA Christian,4,0,,,GRAND_SLAM,MS,45,Qualification,LORENTZ Romain (FRA),BOLA Christian (COD)
-Pro Tour China Open Suzhou 2009,2009-06-03,JEONG Sangeun,CHEW Clarence,4,0,"11,11,11,11|7,2,6,8",,GRAND_SLAM,MS,45,Qualification,JEONG Sangeun (KOR),CHEW Clarence (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,JEONG Sangeun,GAUZY Simon,4,2,"3,16,11,11,10,11|11,14,3,4,12,4",,GRAND_SLAM,MS,45,Qualification,JEONG Sangeun (KOR),GAUZY Simon (FRA)
-Pro Tour China Open Suzhou 2009,2009-06-03,GAUZY Simon,CHEW Clarence,4,0,"12,11,11,11|10,9,7,7",,GRAND_SLAM,MS,45,Qualification,GAUZY Simon (FRA),CHEW Clarence (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,HUANG Sheng-Sheng,BIZAKU Jonathan,4,0,,,GRAND_SLAM,MS,45,Qualification,HUANG Sheng-Sheng (TPE),BIZAKU Jonathan (COD)
-Pro Tour China Open Suzhou 2009,2009-06-03,HUANG Sheng-Sheng,RONNEBERG Espen,4,1,"12,11,9,11,11|10,5,11,4,8",,GRAND_SLAM,MS,45,Qualification,HUANG Sheng-Sheng (TPE),RONNEBERG Espen (NOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,RONNEBERG Espen,BIZAKU Jonathan,4,0,,,GRAND_SLAM,MS,45,Qualification,RONNEBERG Espen (NOR),BIZAKU Jonathan (COD)
-Pro Tour China Open Suzhou 2009,2009-06-03,CHO Eonrae,LIU Zhongze,4,1,"5,11,14,11,12|11,3,12,2,10",,GRAND_SLAM,MS,45,Qualification,CHO Eonrae (KOR),LIU Zhongze (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,LIU Zhongze,LI Kwun Ngai,4,1,"20,8,11,11,11|18,11,9,9,6",,GRAND_SLAM,MS,45,Qualification,LIU Zhongze (SGP),LI Kwun Ngai (HKG)
-Pro Tour China Open Suzhou 2009,2009-06-03,CHO Eonrae,LI Kwun Ngai,4,0,"11,11,11,11|7,9,7,9",,GRAND_SLAM,MS,45,Qualification,CHO Eonrae (KOR),LI Kwun Ngai (HKG)
-Pro Tour China Open Suzhou 2009,2009-06-03,KO Junhyung,WANG Yi-Tse,4,0,"11,11,11,11|8,9,7,5",,GRAND_SLAM,MS,45,Qualification,KO Junhyung (KOR),WANG Yi-Tse (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,KO Junhyung,ALAMIYAN Noshad,4,0,,,GRAND_SLAM,MS,45,Qualification,KO Junhyung (KOR),ALAMIYAN Noshad (IRI)
-Pro Tour China Open Suzhou 2009,2009-06-03,WANG Yi-Tse,ALAMIYAN Noshad,4,0,,,GRAND_SLAM,MS,45,Qualification,WANG Yi-Tse (TPE),ALAMIYAN Noshad (IRI)
-Pro Tour China Open Suzhou 2009,2009-06-03,FEGERL Stefan,KIWAYA Varlin,4,0,,,GRAND_SLAM,MS,45,Qualification,FEGERL Stefan (AUT),KIWAYA Varlin (COD)
-Pro Tour China Open Suzhou 2009,2009-06-03,WANG Bing,FEGERL Stefan,4,2,"12,11,7,11,6,11|10,5,11,7,11,6",,GRAND_SLAM,MS,45,Qualification,WANG Bing (NOR),FEGERL Stefan (AUT)
-Pro Tour China Open Suzhou 2009,2009-06-03,WANG Bing,KIWAYA Varlin,4,0,,,GRAND_SLAM,MS,45,Qualification,WANG Bing (NOR),KIWAYA Varlin (COD)
-Pro Tour China Open Suzhou 2009,2009-06-03,LEE Sang Su,PAN Yingjun,4,0,"11,11,11,11|2,7,6,2",,GRAND_SLAM,MS,45,Qualification,LEE Sang Su (KOR),PAN Yingjun (MAC)
-Pro Tour China Open Suzhou 2009,2009-06-03,LEE Sang Su,TSE Ka Chun,4,1,"8,11,11,11,11|11,9,8,6,9",,GRAND_SLAM,MS,45,Qualification,LEE Sang Su (KOR),TSE Ka Chun (HKG)
-Pro Tour China Open Suzhou 2009,2009-06-03,TSE Ka Chun,PAN Yingjun,4,0,"11,11,11,11|4,6,3,5",,GRAND_SLAM,MS,45,Qualification,TSE Ka Chun (HKG),PAN Yingjun (MAC)
-Pro Tour China Open Suzhou 2009,2009-06-03,CHEN Chien-An,KIM Gangwoog,4,1,"10,11,11,11,11|12,4,8,6,9",,GRAND_SLAM,MS,45,Qualification,CHEN Chien-An (TPE),KIM Gangwoog (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,NIWA Koki,CHEN Chien-An,4,1,"9,12,12,11,11|11,10,10,3,6",,GRAND_SLAM,MS,45,Qualification,NIWA Koki (JPN),CHEN Chien-An (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,KIM Gangwoog,NIWA Koki,4,1,"13,8,11,11,11|11,11,9,9,9",,GRAND_SLAM,MS,45,Qualification,KIM Gangwoog (KOR),NIWA Koki (JPN)
-Pro Tour China Open Suzhou 2009,2009-06-03,KIM Song Nam,TAY Jit Kiat,4,0,"11,11,11,11|1,5,1,5",,GRAND_SLAM,MS,45,Qualification,KIM Song Nam (PRK),TAY Jit Kiat (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,KIM Song Nam,KANG Donghoon,4,2,"11,12,4,11,4,11|5,10,11,9,11,8",,GRAND_SLAM,MS,45,Qualification,KIM Song Nam (PRK),KANG Donghoon (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,KANG Donghoon,TAY Jit Kiat,4,0,"11,11,11,11|8,3,6,8",,GRAND_SLAM,MS,45,Qualification,KANG Donghoon (KOR),TAY Jit Kiat (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,KIM Nam Chol,FENG Xiaoquan,4,1,"11,11,9,11,11|6,5,11,8,8",,GRAND_SLAM,MS,45,Qualification,KIM Nam Chol (PRK),FENG Xiaoquan (AUT)
-Pro Tour China Open Suzhou 2009,2009-06-03,RUMGAY Gavin,MAYAMU Guillit,4,0,,,GRAND_SLAM,MS,45,Qualification,RUMGAY Gavin (SCO),MAYAMU Guillit (COD)
-Pro Tour China Open Suzhou 2009,2009-06-03,RUMGAY Gavin,FENG Xiaoquan,4,0,"11,11,11,11|5,3,9,9",,GRAND_SLAM,MS,45,Qualification,RUMGAY Gavin (SCO),FENG Xiaoquan (AUT)
-Pro Tour China Open Suzhou 2009,2009-06-03,KIM Nam Chol,MAYAMU Guillit,4,0,,,GRAND_SLAM,MS,45,Qualification,KIM Nam Chol (PRK),MAYAMU Guillit (COD)
-Pro Tour China Open Suzhou 2009,2009-06-03,KIM Nam Chol,RUMGAY Gavin,4,2,"11,11,11,8,4,11|9,9,6,11,11,4",,GRAND_SLAM,MS,45,Qualification,KIM Nam Chol (PRK),RUMGAY Gavin (SCO)
-Pro Tour China Open Suzhou 2009,2009-06-03,FENG Xiaoquan,MAYAMU Guillit,4,0,,,GRAND_SLAM,MS,45,Qualification,FENG Xiaoquan (AUT),MAYAMU Guillit (COD)
-Pro Tour China Open Suzhou 2009,2009-06-03,MA Long,CHEW Clarence,4,0,"11,11,11,11|4,8,5,6",R64,GRAND_SLAM,MS,45,Main Draw,MA Long (CHN),CHEW Clarence (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,YANG Zi,KANG Donghoon,4,1,"11,12,6,11,11|5,10,11,2,9",R64,GRAND_SLAM,MS,45,Main Draw,YANG Zi (SGP),KANG Donghoon (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,HUANG Sheng-Sheng,CHOI Hyunjin,4,0,"11,11,11,11|8,9,5,8",R64,GRAND_SLAM,MS,45,Main Draw,HUANG Sheng-Sheng (TPE),CHOI Hyunjin (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,YOON Jaeyoung,WANG Yi-Tse,4,2,"6,11,11,11,7,11|11,4,7,6,11,6",R64,GRAND_SLAM,MS,45,Main Draw,YOON Jaeyoung (KOR),WANG Yi-Tse (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,MIZUTANI Jun,CHANG Shun-Hung,4,1,"11,11,9,11,11|7,3,11,8,9",R64,GRAND_SLAM,MS,45,Main Draw,MIZUTANI Jun (JPN),CHANG Shun-Hung (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,LEE Jinkwon,NIWA Koki,4,2,"8,11,5,11,11,11|11,6,11,7,7,7",R64,GRAND_SLAM,MS,45,Main Draw,LEE Jinkwon (KOR),NIWA Koki (JPN)
-Pro Tour China Open Suzhou 2009,2009-06-03,CHO Jihoon,CHIANG Hung-Chieh,4,0,"11,11,11,11|8,9,9,6",R64,GRAND_SLAM,MS,45,Main Draw,CHO Jihoon (KOR),CHIANG Hung-Chieh (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,OH Sangeun,RUMGAY Gavin,4,1,"11,9,11,11,14|9,11,3,8,12",R64,GRAND_SLAM,MS,45,Main Draw,OH Sangeun (KOR),RUMGAY Gavin (SCO)
-Pro Tour China Open Suzhou 2009,2009-06-03,JOO Saehyuk,LI Kwun Ngai,4,0,"11,11,11,11|4,6,8,7",R64,GRAND_SLAM,MS,45,Main Draw,JOO Saehyuk (KOR),LI Kwun Ngai (HKG)
-Pro Tour China Open Suzhou 2009,2009-06-03,KIM Song Nam,LEUNG Chu Yan,4,2,"11,11,11,8,11,11|9,6,13,11,9,4",R64,GRAND_SLAM,MS,45,Main Draw,KIM Song Nam (PRK),LEUNG Chu Yan (HKG)
-Pro Tour China Open Suzhou 2009,2009-06-03,HIELSCHER Lars,KIM Nam Chol,4,3,"11,9,9,3,11,12,11|7,11,11,11,8,10,9",R64,GRAND_SLAM,MS,45,Main Draw,HIELSCHER Lars (GER),KIM Nam Chol (PRK)
-Pro Tour China Open Suzhou 2009,2009-06-03,JIANG Tianyi,LIU Zhongze,4,0,"11,11,11,11|8,6,4,4",R64,GRAND_SLAM,MS,45,Main Draw,JIANG Tianyi (HKG),LIU Zhongze (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,ZHANG Jike,TSE Ka Chun,4,1,"6,11,17,11,11|11,6,15,4,1",R64,GRAND_SLAM,MS,45,Main Draw,ZHANG Jike (CHN),TSE Ka Chun (HKG)
-Pro Tour China Open Suzhou 2009,2009-06-03,LEE Sang Su,FEJER-KONNERTH Zoltan,4,2,"11,6,13,4,11,11|8,11,11,11,9,9",R64,GRAND_SLAM,MS,45,Main Draw,LEE Sang Su (KOR),FEJER-KONNERTH Zoltan (GER)
-Pro Tour China Open Suzhou 2009,2009-06-03,MATSUDAIRA Kenta,RONNEBERG Espen,4,0,"11,11,11,12|7,7,5,10",R64,GRAND_SLAM,MS,45,Main Draw,MATSUDAIRA Kenta (JPN),RONNEBERG Espen (NOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,CHEN Qi,KIM Gangwoog,4,0,"11,11,11,11|7,6,9,5",R64,GRAND_SLAM,MS,45,Main Draw,CHEN Qi (CHN),KIM Gangwoog (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,WANG Liqin,PAN Yingjun,4,0,"11,11,11,11|6,2,1,5",R64,GRAND_SLAM,MS,45,Main Draw,WANG Liqin (CHN),PAN Yingjun (MAC)
-Pro Tour China Open Suzhou 2009,2009-06-03,CHO Eonrae,KIM Hyok Bong,4,3,"10,13,11,8,14,7,11|12,11,9,11,12,11,7",R64,GRAND_SLAM,MS,45,Main Draw,CHO Eonrae (KOR),KIM Hyok Bong (PRK)
-Pro Tour China Open Suzhou 2009,2009-06-03,HABESOHN Daniel,WU Chih-Chi,4,0,,R64,GRAND_SLAM,MS,45,Main Draw,HABESOHN Daniel (AUT),WU Chih-Chi (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,CHEN Weixing,CHEN Chien-An,4,3,"11,9,11,14,9,8,11|3,11,9,12,11,11,9",R64,GRAND_SLAM,MS,45,Main Draw,CHEN Weixing (AUT),CHEN Chien-An (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,STEGER Bastian,KIM Donghyun,4,0,"11,11,14,11|8,8,12,3",R64,GRAND_SLAM,MS,45,Main Draw,STEGER Bastian (GER),KIM Donghyun (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,KOSOWSKI Jakub,PANG Xue Jie,4,0,"11,11,11,11|4,6,9,6",R64,GRAND_SLAM,MS,45,Main Draw,KOSOWSKI Jakub (POL),PANG Xue Jie (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,RI Chol Guk,KO Junhyung,4,1,"11,11,11,11,11|7,9,13,9,5",R64,GRAND_SLAM,MS,45,Main Draw,RI Chol Guk (PRK),KO Junhyung (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,LI Ching,FENG Xiaoquan,4,2,"11,8,11,11,8,11|9,11,3,8,11,9",R64,GRAND_SLAM,MS,45,Main Draw,LI Ching (HKG),FENG Xiaoquan (AUT)
-Pro Tour China Open Suzhou 2009,2009-06-03,CHEUNG Yuk,GAUZY Simon,4,0,"11,11,11,11|9,9,3,7",R64,GRAND_SLAM,MS,45,Main Draw,CHEUNG Yuk (HKG),GAUZY Simon (FRA)
-Pro Tour China Open Suzhou 2009,2009-06-03,KEINATH Thomas,MA Liang,4,1,"3,12,12,11,11|11,10,10,4,9",R64,GRAND_SLAM,MS,45,Main Draw,KEINATH Thomas (SVK),MA Liang (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,WOSIK Torben,JEONG Sangeun,4,1,"8,11,11,11,11|11,5,8,8,2",R64,GRAND_SLAM,MS,45,Main Draw,WOSIK Torben (GER),JEONG Sangeun (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,TANG Peng,LORENTZ Romain,4,2,"11,11,10,11,9,11|9,9,12,5,11,6",R64,GRAND_SLAM,MS,45,Main Draw,TANG Peng (HKG),LORENTZ Romain (FRA)
-Pro Tour China Open Suzhou 2009,2009-06-03,XU Xin,FEGERL Stefan,4,0,"11,11,11,11|6,8,2,4",R64,GRAND_SLAM,MS,45,Main Draw,XU Xin (CHN),FEGERL Stefan (AUT)
-Pro Tour China Open Suzhou 2009,2009-06-03,KISHIKAWA Seiya,WANG Bing,4,0,"11,11,11,12|4,2,6,10",R64,GRAND_SLAM,MS,45,Main Draw,KISHIKAWA Seiya (JPN),WANG Bing (NOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,BAUM Patrick,DRINKHALL Paul,4,0,"11,11,11,11|3,3,2,8",R64,GRAND_SLAM,MS,45,Main Draw,BAUM Patrick (GER),DRINKHALL Paul (ENG)
-Pro Tour China Open Suzhou 2009,2009-06-03,MA Lin,TAY Jit Kiat,4,0,"11,11,11,11|3,7,3,5",R64,GRAND_SLAM,MS,45,Main Draw,MA Lin (CHN),TAY Jit Kiat (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,MA Long,YANG Zi,4,0,"11,11,11,11|4,7,5,9",R32,GRAND_SLAM,MS,45,Main Draw,MA Long (CHN),YANG Zi (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,YOON Jaeyoung,HUANG Sheng-Sheng,4,1,"12,11,11,11,11|14,4,9,5,6",R32,GRAND_SLAM,MS,45,Main Draw,YOON Jaeyoung (KOR),HUANG Sheng-Sheng (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,MIZUTANI Jun,LEE Jinkwon,4,2,"8,11,10,11,11,11|11,4,12,8,8,6",R32,GRAND_SLAM,MS,45,Main Draw,MIZUTANI Jun (JPN),LEE Jinkwon (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,OH Sangeun,CHO Jihoon,4,2,"8,11,11,7,11,11|11,7,5,11,4,4",R32,GRAND_SLAM,MS,45,Main Draw,OH Sangeun (KOR),CHO Jihoon (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,JOO Saehyuk,KIM Song Nam,4,1,"5,11,11,11,11|11,7,5,5,8",R32,GRAND_SLAM,MS,45,Main Draw,JOO Saehyuk (KOR),KIM Song Nam (PRK)
-Pro Tour China Open Suzhou 2009,2009-06-03,JIANG Tianyi,HIELSCHER Lars,4,2,"9,11,10,11,11,11|11,7,12,7,7,6",R32,GRAND_SLAM,MS,45,Main Draw,JIANG Tianyi (HKG),HIELSCHER Lars (GER)
-Pro Tour China Open Suzhou 2009,2009-06-03,ZHANG Jike,LEE Sang Su,4,0,"11,11,11,11|7,5,5,8",R32,GRAND_SLAM,MS,45,Main Draw,ZHANG Jike (CHN),LEE Sang Su (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,CHEN Qi,MATSUDAIRA Kenta,4,0,"11,11,11,13|3,4,9,11",R32,GRAND_SLAM,MS,45,Main Draw,CHEN Qi (CHN),MATSUDAIRA Kenta (JPN)
-Pro Tour China Open Suzhou 2009,2009-06-03,WANG Liqin,CHO Eonrae,4,1,"11,11,10,11,11|5,8,12,6,5",R32,GRAND_SLAM,MS,45,Main Draw,WANG Liqin (CHN),CHO Eonrae (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,HABESOHN Daniel,CHEN Weixing,4,2,"11,6,11,11,10,11|5,11,7,9,12,7",R32,GRAND_SLAM,MS,45,Main Draw,HABESOHN Daniel (AUT),CHEN Weixing (AUT)
-Pro Tour China Open Suzhou 2009,2009-06-03,KOSOWSKI Jakub,STEGER Bastian,4,1,"11,9,11,11,13|5,11,2,7,11",R32,GRAND_SLAM,MS,45,Main Draw,KOSOWSKI Jakub (POL),STEGER Bastian (GER)
-Pro Tour China Open Suzhou 2009,2009-06-03,LI Ching,RI Chol Guk,4,0,"11,11,11,11|7,4,4,6",R32,GRAND_SLAM,MS,45,Main Draw,LI Ching (HKG),RI Chol Guk (PRK)
-Pro Tour China Open Suzhou 2009,2009-06-03,CHEUNG Yuk,KEINATH Thomas,4,2,"11,11,5,9,11,11|6,8,11,11,5,7",R32,GRAND_SLAM,MS,45,Main Draw,CHEUNG Yuk (HKG),KEINATH Thomas (SVK)
-Pro Tour China Open Suzhou 2009,2009-06-03,TANG Peng,WOSIK Torben,4,1,"11,15,4,11,11|6,13,11,9,5",R32,GRAND_SLAM,MS,45,Main Draw,TANG Peng (HKG),WOSIK Torben (GER)
-Pro Tour China Open Suzhou 2009,2009-06-03,XU Xin,KISHIKAWA Seiya,4,2,"11,8,11,11,5,11|4,11,8,8,11,5",R32,GRAND_SLAM,MS,45,Main Draw,XU Xin (CHN),KISHIKAWA Seiya (JPN)
-Pro Tour China Open Suzhou 2009,2009-06-03,MA Lin,BAUM Patrick,4,3,"10,9,11,11,11,11,11|12,11,4,13,5,4,3",R32,GRAND_SLAM,MS,45,Main Draw,MA Lin (CHN),BAUM Patrick (GER)
-Pro Tour China Open Suzhou 2009,2009-06-03,MA Long,YOON Jaeyoung,4,0,"11,11,11,11|1,9,4,4",R16,GRAND_SLAM,MS,45,Main Draw,MA Long (CHN),YOON Jaeyoung (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,OH Sangeun,MIZUTANI Jun,4,2,"11,12,11,8,11,11|8,14,7,11,9,6",R16,GRAND_SLAM,MS,45,Main Draw,OH Sangeun (KOR),MIZUTANI Jun (JPN)
-Pro Tour China Open Suzhou 2009,2009-06-03,JOO Saehyuk,JIANG Tianyi,4,1,"13,11,7,11,11|11,5,11,6,7",R16,GRAND_SLAM,MS,45,Main Draw,JOO Saehyuk (KOR),JIANG Tianyi (HKG)
-Pro Tour China Open Suzhou 2009,2009-06-03,ZHANG Jike,CHEN Qi,4,2,"11,11,16,6,4,11|7,7,14,11,11,5",R16,GRAND_SLAM,MS,45,Main Draw,ZHANG Jike (CHN),CHEN Qi (CHN)
-Pro Tour China Open Suzhou 2009,2009-06-03,WANG Liqin,HABESOHN Daniel,4,0,"11,11,11,11|4,4,6,5",R16,GRAND_SLAM,MS,45,Main Draw,WANG Liqin (CHN),HABESOHN Daniel (AUT)
-Pro Tour China Open Suzhou 2009,2009-06-03,LI Ching,KOSOWSKI Jakub,4,2,"7,11,11,10,11,11|11,9,3,12,7,4",R16,GRAND_SLAM,MS,45,Main Draw,LI Ching (HKG),KOSOWSKI Jakub (POL)
-Pro Tour China Open Suzhou 2009,2009-06-03,CHEUNG Yuk,TANG Peng,4,3,"11,3,11,8,2,11,12|6,11,7,11,11,9,10",R16,GRAND_SLAM,MS,45,Main Draw,CHEUNG Yuk (HKG),TANG Peng (HKG)
-Pro Tour China Open Suzhou 2009,2009-06-03,MA Lin,XU Xin,4,3,"11,2,6,11,8,11,11|7,11,11,8,11,2,7",R16,GRAND_SLAM,MS,45,Main Draw,MA Lin (CHN),XU Xin (CHN)
-Pro Tour China Open Suzhou 2009,2009-06-03,MA Long,OH Sangeun,4,1,"6,11,11,11,11|11,8,4,6,5",QF,GRAND_SLAM,MS,45,Main Draw,MA Long (CHN),OH Sangeun (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,JOO Saehyuk,ZHANG Jike,4,3,"15,8,6,11,7,11,11|13,11,11,8,11,2,8",QF,GRAND_SLAM,MS,45,Main Draw,JOO Saehyuk (KOR),ZHANG Jike (CHN)
-Pro Tour China Open Suzhou 2009,2009-06-03,WANG Liqin,LI Ching,4,2,"11,11,11,8,11,11|4,1,6,11,13,9",QF,GRAND_SLAM,MS,45,Main Draw,WANG Liqin (CHN),LI Ching (HKG)
-Pro Tour China Open Suzhou 2009,2009-06-03,MA Lin,CHEUNG Yuk,4,0,"11,11,11,11|3,4,5,9",QF,GRAND_SLAM,MS,45,Main Draw,MA Lin (CHN),CHEUNG Yuk (HKG)
-Pro Tour China Open Suzhou 2009,2009-06-03,MA Long,JOO Saehyuk,4,3,"11,11,8,11,7,4,13|7,8,11,7,11,11,11",SF,GRAND_SLAM,MS,45,Main Draw,MA Long (CHN),JOO Saehyuk (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,WANG Liqin,MA Lin,4,3,"7,11,11,12,10,11,11|11,7,13,10,12,6,7",SF,GRAND_SLAM,MS,45,Main Draw,WANG Liqin (CHN),MA Lin (CHN)
-Pro Tour China Open Suzhou 2009,2009-06-03,MA Long,WANG Liqin,4,0,"11,13,11,11|6,11,5,9",F,GRAND_SLAM,MS,45,Main Draw,MA Long (CHN),WANG Liqin (CHN)
-Pro Tour China Open Suzhou 2009,2009-06-03,HUNG Tzu-Hsiang,CHEW Clarence,3,1,"10,12,11,11|12,10,5,8",,GRAND_SLAM,U21MS,45,Qualification,HUNG Tzu-Hsiang (TPE),CHEW Clarence (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,KIM Song Nam,CHEW Clarence,3,0,"11,11,11|3,1,7",,GRAND_SLAM,U21MS,45,Qualification,KIM Song Nam (PRK),CHEW Clarence (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,KIM Song Nam,HUNG Tzu-Hsiang,3,0,"11,11,11|8,7,5",,GRAND_SLAM,U21MS,45,Qualification,KIM Song Nam (PRK),HUNG Tzu-Hsiang (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,LKHAGVADORJ Altantulga,BIZAKU Jonathan,3,0,,,GRAND_SLAM,U21MS,45,Qualification,LKHAGVADORJ Altantulga (MGL),BIZAKU Jonathan (COD)
-Pro Tour China Open Suzhou 2009,2009-06-03,NIWA Koki,BIZAKU Jonathan,3,0,,,GRAND_SLAM,U21MS,45,Qualification,NIWA Koki (JPN),BIZAKU Jonathan (COD)
-Pro Tour China Open Suzhou 2009,2009-06-03,NIWA Koki,LKHAGVADORJ Altantulga,3,0,"11,11,11|7,5,7",,GRAND_SLAM,U21MS,45,Qualification,NIWA Koki (JPN),LKHAGVADORJ Altantulga (MGL)
-Pro Tour China Open Suzhou 2009,2009-06-03,KIM Nam Chol,KIM Donghyun,3,0,"11,11,11|8,2,6",,GRAND_SLAM,U21MS,45,Qualification,KIM Nam Chol (PRK),KIM Donghyun (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,KIM Nam Chol,ALAMIYAN Noshad,3,0,,,GRAND_SLAM,U21MS,45,Qualification,KIM Nam Chol (PRK),ALAMIYAN Noshad (IRI)
-Pro Tour China Open Suzhou 2009,2009-06-03,KIM Donghyun,ALAMIYAN Noshad,3,0,,,GRAND_SLAM,U21MS,45,Qualification,KIM Donghyun (KOR),ALAMIYAN Noshad (IRI)
-Pro Tour China Open Suzhou 2009,2009-06-03,CHANG Shun-Hung,PAN Yingjun,3,0,"11,11,11|2,4,7",,GRAND_SLAM,U21MS,45,Qualification,CHANG Shun-Hung (TPE),PAN Yingjun (MAC)
-Pro Tour China Open Suzhou 2009,2009-06-03,LI Kwun Ngai,PAN Yingjun,3,0,"11,11,11|5,9,3",,GRAND_SLAM,U21MS,45,Qualification,LI Kwun Ngai (HKG),PAN Yingjun (MAC)
-Pro Tour China Open Suzhou 2009,2009-06-03,LI Kwun Ngai,CHANG Shun-Hung,3,0,"11,11,11|8,6,9",,GRAND_SLAM,U21MS,45,Qualification,LI Kwun Ngai (HKG),CHANG Shun-Hung (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,LORENTZ Romain,TAY Jit Kiat,3,0,"11,11,11|5,4,7",,GRAND_SLAM,U21MS,45,Qualification,LORENTZ Romain (FRA),TAY Jit Kiat (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,RONNEBERG Espen,TAY Jit Kiat,3,0,"11,11,11|6,9,5",,GRAND_SLAM,U21MS,45,Qualification,RONNEBERG Espen (NOR),TAY Jit Kiat (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,LORENTZ Romain,RONNEBERG Espen,3,0,"11,11,11|3,7,4",,GRAND_SLAM,U21MS,45,Qualification,LORENTZ Romain (FRA),RONNEBERG Espen (NOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,WANG Yi-Tse,PANG Xue Jie,3,1,"12,11,11,11|14,6,7,9",,GRAND_SLAM,U21MS,45,Qualification,WANG Yi-Tse (TPE),PANG Xue Jie (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,WANG Yi-Tse,GAUZY Simon,3,2,"11,4,11,4,11|6,11,6,11,6",,GRAND_SLAM,U21MS,45,Qualification,WANG Yi-Tse (TPE),GAUZY Simon (FRA)
-Pro Tour China Open Suzhou 2009,2009-06-03,GAUZY Simon,PANG Xue Jie,3,2,"10,11,11,11,11|12,13,4,7,8",,GRAND_SLAM,U21MS,45,Qualification,GAUZY Simon (FRA),PANG Xue Jie (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,CHIANG Hung-Chieh,RONNEBERG Espen,4,0,,R16,GRAND_SLAM,U21MS,45,Main Draw,CHIANG Hung-Chieh (TPE),RONNEBERG Espen (NOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,CHEN Chien-An,KIM Song Nam,4,1,"6,11,11,11,12|11,7,5,8,10",R16,GRAND_SLAM,U21MS,45,Main Draw,CHEN Chien-An (TPE),KIM Song Nam (PRK)
-Pro Tour China Open Suzhou 2009,2009-06-03,NIWA Koki,LEE Sang Su,4,1,"5,11,11,11,11|11,4,3,6,7",R16,GRAND_SLAM,U21MS,45,Main Draw,NIWA Koki (JPN),LEE Sang Su (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,KIM Nam Chol,JEONG Sangeun,4,3,"11,11,13,10,12,11,11|13,8,15,12,10,7,8",R16,GRAND_SLAM,U21MS,45,Main Draw,KIM Nam Chol (PRK),JEONG Sangeun (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,DRINKHALL Paul,LORENTZ Romain,4,3,"12,11,8,11,11,21,11|14,13,11,9,6,19,8",R16,GRAND_SLAM,U21MS,45,Main Draw,DRINKHALL Paul (ENG),LORENTZ Romain (FRA)
-Pro Tour China Open Suzhou 2009,2009-06-03,FEGERL Stefan,LI Kwun Ngai,4,1,"11,12,7,12,11|9,10,11,10,8",R16,GRAND_SLAM,U21MS,45,Main Draw,FEGERL Stefan (AUT),LI Kwun Ngai (HKG)
-Pro Tour China Open Suzhou 2009,2009-06-03,WANG Yi-Tse,LIU Zhongze,4,2,"11,12,9,11,5,11|5,10,11,8,11,6",R16,GRAND_SLAM,U21MS,45,Main Draw,WANG Yi-Tse (TPE),LIU Zhongze (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,MA Liang,CHANG Shun-Hung,4,3,"11,6,11,6,16,8,11|6,11,8,11,14,11,3",R16,GRAND_SLAM,U21MS,45,Main Draw,MA Liang (SGP),CHANG Shun-Hung (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,CHIANG Hung-Chieh,CHEN Chien-An,4,0,"11,11,11,11|7,5,5,6",QF,GRAND_SLAM,U21MS,45,Main Draw,CHIANG Hung-Chieh (TPE),CHEN Chien-An (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,KIM Nam Chol,NIWA Koki,4,0,"11,13,11,11|5,11,5,5",QF,GRAND_SLAM,U21MS,45,Main Draw,KIM Nam Chol (PRK),NIWA Koki (JPN)
-Pro Tour China Open Suzhou 2009,2009-06-03,DRINKHALL Paul,FEGERL Stefan,4,1,"11,11,11,11,11|4,13,4,8,7",QF,GRAND_SLAM,U21MS,45,Main Draw,DRINKHALL Paul (ENG),FEGERL Stefan (AUT)
-Pro Tour China Open Suzhou 2009,2009-06-03,WANG Yi-Tse,MA Liang,4,3,"11,11,11,4,10,11,11|8,13,4,11,12,7,9",QF,GRAND_SLAM,U21MS,45,Main Draw,WANG Yi-Tse (TPE),MA Liang (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,CHIANG Hung-Chieh,KIM Nam Chol,4,3,"11,11,5,8,6,11,11|6,7,11,11,11,7,6",SF,GRAND_SLAM,U21MS,45,Main Draw,CHIANG Hung-Chieh (TPE),KIM Nam Chol (PRK)
-Pro Tour China Open Suzhou 2009,2009-06-03,DRINKHALL Paul,WANG Yi-Tse,4,0,"11,11,11,11|3,8,4,8",SF,GRAND_SLAM,U21MS,45,Main Draw,DRINKHALL Paul (ENG),WANG Yi-Tse (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,DRINKHALL Paul,CHIANG Hung-Chieh,4,3,"11,11,6,9,11,7,11|6,9,11,11,9,11,5",F,GRAND_SLAM,U21MS,45,Main Draw,DRINKHALL Paul (ENG),CHIANG Hung-Chieh (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,CHEN Szu-Yu,LITOBAKA Ammadine,4,0,,,GRAND_SLAM,WS,45,Qualification,CHEN Szu-Yu (TPE),LITOBAKA Ammadine (COD)
-Pro Tour China Open Suzhou 2009,2009-06-03,YU Mengyu,LITOBAKA Ammadine,4,0,,,GRAND_SLAM,WS,45,Qualification,YU Mengyu (SGP),LITOBAKA Ammadine (COD)
-Pro Tour China Open Suzhou 2009,2009-06-03,YU Mengyu,CHEN Szu-Yu,4,1,"6,11,11,11,11|11,3,8,8,5",,GRAND_SLAM,WS,45,Qualification,YU Mengyu (SGP),CHEN Szu-Yu (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,HOU Yu-Ling,LI Isabelle Siyun,4,1,"11,7,11,11,11|7,11,6,8,9",,GRAND_SLAM,WS,45,Qualification,HOU Yu-Ling (TPE),LI Isabelle Siyun (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,LEE Eunhee,LI Isabelle Siyun,4,0,"11,11,11,11|5,4,3,2",,GRAND_SLAM,WS,45,Qualification,LEE Eunhee (KOR),LI Isabelle Siyun (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,LEE Eunhee,HOU Yu-Ling,4,0,"11,11,11,11|6,3,8,9",,GRAND_SLAM,WS,45,Qualification,LEE Eunhee (KOR),HOU Yu-Ling (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,YANG Ha Eun,LIU Yu-Hsin,4,3,"11,7,11,9,5,12,11|5,11,4,11,11,10,4",,GRAND_SLAM,WS,45,Qualification,YANG Ha Eun (KOR),LIU Yu-Hsin (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,LAU Sui Fei,LIU Yu-Hsin,4,0,"11,11,12,11|8,3,10,1",,GRAND_SLAM,WS,45,Qualification,LAU Sui Fei (HKG),LIU Yu-Hsin (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,YANG Ha Eun,LAU Sui Fei,4,3,"11,9,9,11,5,12,11|8,11,11,9,11,10,6",,GRAND_SLAM,WS,45,Qualification,YANG Ha Eun (KOR),LAU Sui Fei (HKG)
-Pro Tour China Open Suzhou 2009,2009-06-03,HSIUNG Nai-I,SIM Kai Xin Zena,4,2,"11,11,5,11,11,11|13,9,11,8,9,5",,GRAND_SLAM,WS,45,Qualification,HSIUNG Nai-I (TPE),SIM Kai Xin Zena (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,HIURA Reiko,SIM Kai Xin Zena,4,0,"11,11,11,11|8,5,9,5",,GRAND_SLAM,WS,45,Qualification,HIURA Reiko (JPN),SIM Kai Xin Zena (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,HIURA Reiko,HSIUNG Nai-I,4,3,"9,11,11,11,7,9,11|11,8,6,5,11,11,6",,GRAND_SLAM,WS,45,Qualification,HIURA Reiko (JPN),HSIUNG Nai-I (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,KANG Misoon,LIU Hsing-Yin,4,2,"2,13,11,11,10,11|11,11,7,8,12,7",,GRAND_SLAM,WS,45,Qualification,KANG Misoon (KOR),LIU Hsing-Yin (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,SUN Jin,KANG Misoon,4,1,"13,14,11,11,11|11,16,4,8,8",,GRAND_SLAM,WS,45,Qualification,SUN Jin (HKG),KANG Misoon (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,LIU Hsing-Yin,SUN Jin,4,3,"11,11,5,2,3,13,11|8,3,11,11,11,11,8",,GRAND_SLAM,WS,45,Qualification,LIU Hsing-Yin (TPE),SUN Jin (HKG)
-Pro Tour China Open Suzhou 2009,2009-06-03,LIN Chia-Hui,MONGONDI Dacha,4,0,,,GRAND_SLAM,WS,45,Qualification,LIN Chia-Hui (TPE),MONGONDI Dacha (COD)
-Pro Tour China Open Suzhou 2009,2009-06-03,LI Qiangbing,MONGONDI Dacha,4,0,,,GRAND_SLAM,WS,45,Qualification,LI Qiangbing (AUT),MONGONDI Dacha (COD)
-Pro Tour China Open Suzhou 2009,2009-06-03,LI Qiangbing,LIN Chia-Hui,4,1,"11,11,8,11,11|9,9,11,3,6",,GRAND_SLAM,WS,45,Qualification,LI Qiangbing (AUT),LIN Chia-Hui (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,CHO Hala,LOMBO Faty,4,0,,,GRAND_SLAM,WS,45,Qualification,CHO Hala (KOR),LOMBO Faty (COD)
-Pro Tour China Open Suzhou 2009,2009-06-03,LI Xiaodan,LOMBO Faty,4,0,,,GRAND_SLAM,WS,45,Qualification,LI Xiaodan (CHN),LOMBO Faty (COD)
-Pro Tour China Open Suzhou 2009,2009-06-03,LI Xiaodan,CHO Hala,4,0,"11,11,11,11|8,3,9,2",,GRAND_SLAM,WS,45,Qualification,LI Xiaodan (CHN),CHO Hala (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,HAN Hye Song,SIBLEY Kelly,4,1,"11,11,11,6,11|6,2,8,11,8",,GRAND_SLAM,WS,45,Qualification,HAN Hye Song (PRK),SIBLEY Kelly (ENG)
-Pro Tour China Open Suzhou 2009,2009-06-03,HAN Hye Song,SEOK Hajung,4,2,"11,12,11,6,15,11|7,14,4,11,13,8",,GRAND_SLAM,WS,45,Qualification,HAN Hye Song (PRK),SEOK Hajung (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,SEOK Hajung,SIBLEY Kelly,4,0,"11,11,11,11|6,7,9,4",,GRAND_SLAM,WS,45,Qualification,SEOK Hajung (KOR),SIBLEY Kelly (ENG)
-Pro Tour China Open Suzhou 2009,2009-06-03,SHIM Serom,CHINBAT Nomin-Erdene,4,0,,,GRAND_SLAM,WS,45,Qualification,SHIM Serom (KOR),CHINBAT Nomin-Erdene (MGL)
-Pro Tour China Open Suzhou 2009,2009-06-03,ISHIKAWA Kasumi,CHINBAT Nomin-Erdene,4,0,,,GRAND_SLAM,WS,45,Qualification,ISHIKAWA Kasumi (JPN),CHINBAT Nomin-Erdene (MGL)
-Pro Tour China Open Suzhou 2009,2009-06-03,ISHIKAWA Kasumi,SHIM Serom,4,1,"11,3,11,11,11|2,11,4,8,8",,GRAND_SLAM,WS,45,Qualification,ISHIKAWA Kasumi (JPN),SHIM Serom (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,PARK Youngsook,NZANGANI Cyntia,4,0,,,GRAND_SLAM,WS,45,Qualification,PARK Youngsook (KOR),NZANGANI Cyntia (COD)
-Pro Tour China Open Suzhou 2009,2009-06-03,ZHANG Rui,NZANGANI Cyntia,4,0,,,GRAND_SLAM,WS,45,Qualification,ZHANG Rui (HKG),NZANGANI Cyntia (COD)
-Pro Tour China Open Suzhou 2009,2009-06-03,PARK Youngsook,ZHANG Rui,4,3,"17,3,15,5,12,11,11|15,11,13,11,14,9,7",,GRAND_SLAM,WS,45,Qualification,PARK Youngsook (KOR),ZHANG Rui (HKG)
-Pro Tour China Open Suzhou 2009,2009-06-03,KIM Hye Song,YU Kwok See,4,1,"11,11,9,11,11|6,8,11,5,7",,GRAND_SLAM,WS,45,Qualification,KIM Hye Song (PRK),YU Kwok See (HKG)
-Pro Tour China Open Suzhou 2009,2009-06-03,KIM Hye Song,SUH Hyo Won,4,2,"3,11,11,14,3,11|11,9,1,12,11,5",,GRAND_SLAM,WS,45,Qualification,KIM Hye Song (PRK),SUH Hyo Won (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,YU Kwok See,SUH Hyo Won,4,3,"11,8,8,8,11,12,11|6,11,11,11,5,10,6",,GRAND_SLAM,WS,45,Qualification,YU Kwok See (HKG),SUH Hyo Won (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,DRINKHALL Joanna,SIM Yun Hui,4,2,"5,11,4,11,11,11|11,5,11,4,7,7",,GRAND_SLAM,WS,45,Qualification,DRINKHALL Joanna (ENG),SIM Yun Hui (PRK)
-Pro Tour China Open Suzhou 2009,2009-06-03,KIM Junghyun,DRINKHALL Joanna,4,3,"11,9,7,8,11,11,12|8,11,11,11,8,6,10",,GRAND_SLAM,WS,45,Qualification,KIM Junghyun (KOR),DRINKHALL Joanna (ENG)
-Pro Tour China Open Suzhou 2009,2009-06-03,CHOI Moonyoung,MA Minglu,4,0,"11,11,12,11|6,8,10,5",,GRAND_SLAM,WS,45,Qualification,CHOI Moonyoung (KOR),MA Minglu (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,CHENG I-Ching,MA Minglu,4,2,"11,11,8,11,11,11|8,7,11,4,13,5",,GRAND_SLAM,WS,45,Qualification,CHENG I-Ching (TPE),MA Minglu (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,CHOI Moonyoung,CHENG I-Ching,4,2,"6,6,11,16,11,11|11,11,6,14,4,2",,GRAND_SLAM,WS,45,Qualification,CHOI Moonyoung (KOR),CHENG I-Ching (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,GUO Yue,HOU Yu-Ling,4,0,"11,11,11,11|5,6,8,3",R32,GRAND_SLAM,WS,45,Main Draw,GUO Yue (CHN),HOU Yu-Ling (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,HIRANO Sayaka,KIM Hye Song,4,3,"6,11,8,11,8,11,11|11,4,11,7,11,8,6",R32,GRAND_SLAM,WS,45,Main Draw,HIRANO Sayaka (JPN),KIM Hye Song (PRK)
-Pro Tour China Open Suzhou 2009,2009-06-03,DING Ning,KIM Junghyun,4,0,"11,11,11,11|5,5,1,8",R32,GRAND_SLAM,WS,45,Main Draw,DING Ning (CHN),KIM Junghyun (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,JIANG Huajun,HIURA Reiko,4,2,"11,11,4,7,11,11|9,9,11,11,8,5",R32,GRAND_SLAM,WS,45,Main Draw,JIANG Huajun (HKG),HIURA Reiko (JPN)
-Pro Tour China Open Suzhou 2009,2009-06-03,KIM Kyungah,HAN Hye Song,4,1,"7,11,12,11,11|11,9,10,7,9",R32,GRAND_SLAM,WS,45,Main Draw,KIM Kyungah (KOR),HAN Hye Song (PRK)
-Pro Tour China Open Suzhou 2009,2009-06-03,FUKUHARA Ai,PARK Youngsook,4,2,"12,11,5,10,11,11|10,7,11,12,5,9",R32,GRAND_SLAM,WS,45,Main Draw,FUKUHARA Ai (JPN),PARK Youngsook (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,CHOI Moonyoung,SUN Beibei,4,1,"13,14,2,11,11|11,12,11,3,3",R32,GRAND_SLAM,WS,45,Main Draw,CHOI Moonyoung (KOR),SUN Beibei (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,FENG Tianwei,LIN Chia-Hui,4,0,"11,11,11,11|8,5,7,4",R32,GRAND_SLAM,WS,45,Main Draw,FENG Tianwei (SGP),LIN Chia-Hui (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,YU Mengyu,GUO Yan (1982),4,2,"11,4,11,11,8,11|8,11,6,9,11,7",R32,GRAND_SLAM,WS,45,Main Draw,YU Mengyu (SGP),GUO Yan (1982) (CHN)
-Pro Tour China Open Suzhou 2009,2009-06-03,PARK Miyoung,SUN Jin,4,0,"11,16,11,11|7,14,7,8",R32,GRAND_SLAM,WS,45,Main Draw,PARK Miyoung (KOR),SUN Jin (HKG)
-Pro Tour China Open Suzhou 2009,2009-06-03,LI Jie,LI Qiangbing,4,0,"14,11,11,11|12,6,8,8",R32,GRAND_SLAM,WS,45,Main Draw,LI Jie (NED),LI Qiangbing (AUT)
-Pro Tour China Open Suzhou 2009,2009-06-03,LIU Shiwen,ISHIKAWA Kasumi,4,0,"11,13,11,11|5,11,8,9",R32,GRAND_SLAM,WS,45,Main Draw,LIU Shiwen (CHN),ISHIKAWA Kasumi (JPN)
-Pro Tour China Open Suzhou 2009,2009-06-03,TIE Yana,YANG Ha Eun,4,2,"9,11,5,11,11,11|11,4,11,2,6,4",R32,GRAND_SLAM,WS,45,Main Draw,TIE Yana (HKG),YANG Ha Eun (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,LI Xiaodan,LIN Ling,4,0,"11,11,11,11|9,8,4,4",R32,GRAND_SLAM,WS,45,Main Draw,LI Xiaodan (CHN),LIN Ling (HKG)
-Pro Tour China Open Suzhou 2009,2009-06-03,LI Jiao,LEE Eunhee,4,2,"11,5,11,5,11,11|8,11,8,11,6,8",R32,GRAND_SLAM,WS,45,Main Draw,LI Jiao (NED),LEE Eunhee (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,LI Xiaoxia,CHENG I-Ching,4,0,"11,11,11,11|5,6,6,7",R32,GRAND_SLAM,WS,45,Main Draw,LI Xiaoxia (CHN),CHENG I-Ching (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,GUO Yue,HIRANO Sayaka,4,0,"11,11,11,11|3,2,9,6",R16,GRAND_SLAM,WS,45,Main Draw,GUO Yue (CHN),HIRANO Sayaka (JPN)
-Pro Tour China Open Suzhou 2009,2009-06-03,DING Ning,JIANG Huajun,4,0,"11,11,11,11|6,5,9,6",R16,GRAND_SLAM,WS,45,Main Draw,DING Ning (CHN),JIANG Huajun (HKG)
-Pro Tour China Open Suzhou 2009,2009-06-03,KIM Kyungah,FUKUHARA Ai,4,2,"5,6,12,11,12,11|11,11,10,7,10,6",R16,GRAND_SLAM,WS,45,Main Draw,KIM Kyungah (KOR),FUKUHARA Ai (JPN)
-Pro Tour China Open Suzhou 2009,2009-06-03,FENG Tianwei,CHOI Moonyoung,4,1,"11,11,11,12,11|6,7,8,14,8",R16,GRAND_SLAM,WS,45,Main Draw,FENG Tianwei (SGP),CHOI Moonyoung (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,PARK Miyoung,YU Mengyu,4,1,"11,11,11,9,11|5,8,2,11,6",R16,GRAND_SLAM,WS,45,Main Draw,PARK Miyoung (KOR),YU Mengyu (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,LIU Shiwen,LI Jie,4,1,"11,11,11,7,11|3,8,5,11,3",R16,GRAND_SLAM,WS,45,Main Draw,LIU Shiwen (CHN),LI Jie (NED)
-Pro Tour China Open Suzhou 2009,2009-06-03,LI Xiaodan,TIE Yana,4,1,"11,11,11,11,11|5,7,9,13,8",R16,GRAND_SLAM,WS,45,Main Draw,LI Xiaodan (CHN),TIE Yana (HKG)
-Pro Tour China Open Suzhou 2009,2009-06-03,LI Xiaoxia,LI Jiao,4,0,"11,11,11,11|3,6,7,4",R16,GRAND_SLAM,WS,45,Main Draw,LI Xiaoxia (CHN),LI Jiao (NED)
-Pro Tour China Open Suzhou 2009,2009-06-03,GUO Yue,DING Ning,4,1,"11,13,11,4,11|7,11,3,11,2",QF,GRAND_SLAM,WS,45,Main Draw,GUO Yue (CHN),DING Ning (CHN)
-Pro Tour China Open Suzhou 2009,2009-06-03,KIM Kyungah,FENG Tianwei,4,1,"11,11,9,12,11|9,9,11,10,3",QF,GRAND_SLAM,WS,45,Main Draw,KIM Kyungah (KOR),FENG Tianwei (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,LIU Shiwen,PARK Miyoung,4,1,"11,5,11,11,11|4,11,4,8,7",QF,GRAND_SLAM,WS,45,Main Draw,LIU Shiwen (CHN),PARK Miyoung (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,LI Xiaoxia,LI Xiaodan,4,1,"11,9,11,11,11|9,11,3,7,5",QF,GRAND_SLAM,WS,45,Main Draw,LI Xiaoxia (CHN),LI Xiaodan (CHN)
-Pro Tour China Open Suzhou 2009,2009-06-03,GUO Yue,KIM Kyungah,4,0,"11,11,13,11|8,6,11,6",SF,GRAND_SLAM,WS,45,Main Draw,GUO Yue (CHN),KIM Kyungah (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,LIU Shiwen,LI Xiaoxia,4,1,"11,11,10,11,11|7,7,12,7,9",SF,GRAND_SLAM,WS,45,Main Draw,LIU Shiwen (CHN),LI Xiaoxia (CHN)
-Pro Tour China Open Suzhou 2009,2009-06-03,LIU Shiwen,GUO Yue,4,2,"11,11,12,14,8,11|9,9,14,12,11,7",F,GRAND_SLAM,WS,45,Main Draw,LIU Shiwen (CHN),GUO Yue (CHN)
-Pro Tour China Open Suzhou 2009,2009-06-03,CHEN Szu-Yu,HAN Hye Song,3,0,,,GRAND_SLAM,U21WS,45,Qualification,CHEN Szu-Yu (TPE),HAN Hye Song (PRK)
-Pro Tour China Open Suzhou 2009,2009-06-03,CHEN Szu-Yu,CHINBAT Nomin-Erdene,3,0,,,GRAND_SLAM,U21WS,45,Qualification,CHEN Szu-Yu (TPE),CHINBAT Nomin-Erdene (MGL)
-Pro Tour China Open Suzhou 2009,2009-06-03,KANG Misoon,SIM Kai Xin Zena,3,0,"11,11,11|3,9,4",,GRAND_SLAM,U21WS,45,Qualification,KANG Misoon (KOR),SIM Kai Xin Zena (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,SIM Kai Xin Zena,NZANGANI Cyntia,3,0,,,GRAND_SLAM,U21WS,45,Qualification,SIM Kai Xin Zena (SGP),NZANGANI Cyntia (COD)
-Pro Tour China Open Suzhou 2009,2009-06-03,KANG Misoon,NZANGANI Cyntia,3,0,,,GRAND_SLAM,U21WS,45,Qualification,KANG Misoon (KOR),NZANGANI Cyntia (COD)
-Pro Tour China Open Suzhou 2009,2009-06-03,KIM Hye Song,LI Isabelle Siyun,3,0,"11,12,11|9,10,3",,GRAND_SLAM,U21WS,45,Qualification,KIM Hye Song (PRK),LI Isabelle Siyun (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,LI Isabelle Siyun,MONGONDI Dacha,3,0,,,GRAND_SLAM,U21WS,45,Qualification,LI Isabelle Siyun (SGP),MONGONDI Dacha (COD)
-Pro Tour China Open Suzhou 2009,2009-06-03,KIM Hye Song,MONGONDI Dacha,3,0,,,GRAND_SLAM,U21WS,45,Qualification,KIM Hye Song (PRK),MONGONDI Dacha (COD)
-Pro Tour China Open Suzhou 2009,2009-06-03,LIU Yu-Hsin,MA Minglu,3,1,"12,5,11,12|10,11,9,10",,GRAND_SLAM,U21WS,45,Qualification,LIU Yu-Hsin (TPE),MA Minglu (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,SIM Yun Hui,LITOBAKA Ammadine,3,0,,,GRAND_SLAM,U21WS,45,Qualification,SIM Yun Hui (PRK),LITOBAKA Ammadine (COD)
-Pro Tour China Open Suzhou 2009,2009-06-03,LIU Yu-Hsin,LITOBAKA Ammadine,3,0,,,GRAND_SLAM,U21WS,45,Qualification,LIU Yu-Hsin (TPE),LITOBAKA Ammadine (COD)
-Pro Tour China Open Suzhou 2009,2009-06-03,MA Minglu,SIM Yun Hui,3,0,"11,12,12|7,10,10",,GRAND_SLAM,U21WS,45,Qualification,MA Minglu (SGP),SIM Yun Hui (PRK)
-Pro Tour China Open Suzhou 2009,2009-06-03,MA Minglu,LITOBAKA Ammadine,3,0,,,GRAND_SLAM,U21WS,45,Qualification,MA Minglu (SGP),LITOBAKA Ammadine (COD)
-Pro Tour China Open Suzhou 2009,2009-06-03,SIM Yun Hui,LIU Yu-Hsin,3,0,"11,11,11|9,4,7",,GRAND_SLAM,U21WS,45,Qualification,SIM Yun Hui (PRK),LIU Yu-Hsin (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,YU Mengyu,LIU Yu-Hsin,4,0,"11,11,11,11|3,3,2,5",R16,GRAND_SLAM,U21WS,45,Main Draw,YU Mengyu (SGP),LIU Yu-Hsin (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,CHEN Szu-Yu,SIBLEY Kelly,4,2,"5,11,11,11,9,11|11,6,6,9,11,9",R16,GRAND_SLAM,U21WS,45,Main Draw,CHEN Szu-Yu (TPE),SIBLEY Kelly (ENG)
-Pro Tour China Open Suzhou 2009,2009-06-03,KIM Hye Song,YANG Ha Eun,4,3,"8,3,17,6,11,11,11|11,11,15,11,3,8,5",R16,GRAND_SLAM,U21WS,45,Main Draw,KIM Hye Song (PRK),YANG Ha Eun (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,CHO Hala,SIM Kai Xin Zena,4,1,"7,11,11,11,11|11,5,8,7,2",R16,GRAND_SLAM,U21WS,45,Main Draw,CHO Hala (KOR),SIM Kai Xin Zena (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,SIM Yun Hui,PARK Youngsook,4,1,"5,12,13,11,11|11,10,11,4,9",R16,GRAND_SLAM,U21WS,45,Main Draw,SIM Yun Hui (PRK),PARK Youngsook (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,HSIUNG Nai-I,MA Minglu,4,0,"11,11,11,11|9,7,7,7",R16,GRAND_SLAM,U21WS,45,Main Draw,HSIUNG Nai-I (TPE),MA Minglu (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,KANG Misoon,HOU Yu-Ling,4,2,"11,7,11,11,12,11|9,11,7,6,14,8",R16,GRAND_SLAM,U21WS,45,Main Draw,KANG Misoon (KOR),HOU Yu-Ling (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,CHENG I-Ching,LI Isabelle Siyun,4,2,"11,8,11,11,9,11|6,11,4,2,11,9",R16,GRAND_SLAM,U21WS,45,Main Draw,CHENG I-Ching (TPE),LI Isabelle Siyun (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,KIM Hye Song,CHO Hala,4,0,"11,11,11,11|8,8,6,7",QF,GRAND_SLAM,U21WS,45,Main Draw,KIM Hye Song (PRK),CHO Hala (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,HSIUNG Nai-I,SIM Yun Hui,4,1,"11,11,11,8,11|8,8,4,11,6",QF,GRAND_SLAM,U21WS,45,Main Draw,HSIUNG Nai-I (TPE),SIM Yun Hui (PRK)
-Pro Tour China Open Suzhou 2009,2009-06-03,CHENG I-Ching,KANG Misoon,4,1,"11,11,13,3,12|9,6,11,11,10",QF,GRAND_SLAM,U21WS,45,Main Draw,CHENG I-Ching (TPE),KANG Misoon (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,YU Mengyu,KIM Hye Song,4,1,"14,11,11,6,12|12,4,8,11,10",SF,GRAND_SLAM,U21WS,45,Main Draw,YU Mengyu (SGP),KIM Hye Song (PRK)
-Pro Tour China Open Suzhou 2009,2009-06-03,CHENG I-Ching,HSIUNG Nai-I,4,3,"11,5,9,6,11,11,11|7,11,11,11,3,4,8",SF,GRAND_SLAM,U21WS,45,Main Draw,CHENG I-Ching (TPE),HSIUNG Nai-I (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,YU Mengyu,CHENG I-Ching,4,1,"11,11,11,9,11|3,6,4,11,7",F,GRAND_SLAM,U21WS,45,Main Draw,YU Mengyu (SGP),CHENG I-Ching (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,XU Xin/ZHANG Jike,KEINATH Thomas/STEGER Bastian,4,1,"11,11,11,9,11|8,6,9,11,3",R16,GRAND_SLAM,MD,45,Main Draw,XU Xin (CHN) / ZHANG Jike (CHN),KEINATH Thomas (SVK) / STEGER Bastian (GER)
-Pro Tour China Open Suzhou 2009,2009-06-03,CHEN Qi/MA Long,CHEUNG Yuk/LI Ching,4,2,"14,13,11,11,11,11|16,15,7,5,8,8",R16,GRAND_SLAM,MD,45,Main Draw,CHEN Qi (CHN) / MA Long (CHN),CHEUNG Yuk (HKG) / LI Ching (HKG)
-Pro Tour China Open Suzhou 2009,2009-06-03,XU Xin/ZHANG Jike,CHEN Qi/MA Long,4,3,"12,10,11,10,7,11,11|10,12,7,12,11,5,8",SF,GRAND_SLAM,MD,45,Main Draw,XU Xin (CHN) / ZHANG Jike (CHN),CHEN Qi (CHN) / MA Long (CHN)
-Pro Tour China Open Suzhou 2009,2009-06-03,CHEN Qi/MA Long,GAUZY Simon/LORENTZ Romain,3,0,"11,11,11|7,4,4",QR16,GRAND_SLAM,MD,45,Qualification,CHEN Qi (CHN) / MA Long (CHN),GAUZY Simon (FRA) / LORENTZ Romain (FRA)
-Pro Tour China Open Suzhou 2009,2009-06-03,GAUZY Simon/LORENTZ Romain,BABUNGU Bomboko/BOLA Christian,3,0,,QR32,GRAND_SLAM,MD,45,Qualification,GAUZY Simon (FRA) / LORENTZ Romain (FRA),BABUNGU Bomboko (COD) / BOLA Christian (COD)
-Pro Tour China Open Suzhou 2009,2009-06-03,BAUM Patrick/HIELSCHER Lars,MATSUDAIRA Kenta/NIWA Koki,4,3,"7,7,11,11,7,11,12|11,11,8,4,11,8,10",R16,GRAND_SLAM,MD,45,Main Draw,BAUM Patrick (GER) / HIELSCHER Lars (GER),MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN)
-Pro Tour China Open Suzhou 2009,2009-06-03,FEJER-KONNERTH Zoltan/WOSIK Torben,OH Sangeun/YOON Jaeyoung,4,1,"12,11,6,13,11|10,8,11,11,6",R16,GRAND_SLAM,MD,45,Main Draw,FEJER-KONNERTH Zoltan (GER) / WOSIK Torben (GER),OH Sangeun (KOR) / YOON Jaeyoung (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,BAUM Patrick/HIELSCHER Lars,FEJER-KONNERTH Zoltan/WOSIK Torben,4,3,"11,4,11,3,11,9,11|8,11,2,11,9,11,9",QF,GRAND_SLAM,MD,45,Main Draw,BAUM Patrick (GER) / HIELSCHER Lars (GER),FEJER-KONNERTH Zoltan (GER) / WOSIK Torben (GER)
-Pro Tour China Open Suzhou 2009,2009-06-03,FEJER-KONNERTH Zoltan/WOSIK Torben,BIZAKU Jonathan/KIWAYA Varlin,3,0,,QR16,GRAND_SLAM,MD,45,Qualification,FEJER-KONNERTH Zoltan (GER) / WOSIK Torben (GER),BIZAKU Jonathan (COD) / KIWAYA Varlin (COD)
-Pro Tour China Open Suzhou 2009,2009-06-03,JIANG Tianyi/LEUNG Chu Yan,KIM Nam Chol/RI Chol Guk,4,3,"11,13,9,11,7,6,11|6,11,11,9,11,11,9",R16,GRAND_SLAM,MD,45,Main Draw,JIANG Tianyi (HKG) / LEUNG Chu Yan (HKG),KIM Nam Chol (PRK) / RI Chol Guk (PRK)
-Pro Tour China Open Suzhou 2009,2009-06-03,XU Xin/ZHANG Jike,JIANG Tianyi/LEUNG Chu Yan,4,1,"11,6,11,11,11|5,11,2,6,9",QF,GRAND_SLAM,MD,45,Main Draw,XU Xin (CHN) / ZHANG Jike (CHN),JIANG Tianyi (HKG) / LEUNG Chu Yan (HKG)
-Pro Tour China Open Suzhou 2009,2009-06-03,LI Kwun Ngai/TSE Ka Chun,LKHAGVADORJ Altantulga/PAN Yingjun,3,0,,QR32,GRAND_SLAM,MD,45,Qualification,LI Kwun Ngai (HKG) / TSE Ka Chun (HKG),LKHAGVADORJ Altantulga (MGL) / PAN Yingjun (MAC)
-Pro Tour China Open Suzhou 2009,2009-06-03,LI Kwun Ngai/TSE Ka Chun,CHO Eonrae/LEE Jinkwon,3,0,,QR16,GRAND_SLAM,MD,45,Qualification,LI Kwun Ngai (HKG) / TSE Ka Chun (HKG),CHO Eonrae (KOR) / LEE Jinkwon (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,KISHIKAWA Seiya/MIZUTANI Jun,MA Lin/WANG Liqin,4,0,"12,11,11,11|10,8,3,8",R16,GRAND_SLAM,MD,45,Main Draw,KISHIKAWA Seiya (JPN) / MIZUTANI Jun (JPN),MA Lin (CHN) / WANG Liqin (CHN)
-Pro Tour China Open Suzhou 2009,2009-06-03,KISHIKAWA Seiya/MIZUTANI Jun,KIM Hyok Bong/KIM Song Nam,4,2,"11,6,5,11,11,11|8,11,11,6,5,8",QF,GRAND_SLAM,MD,45,Main Draw,KISHIKAWA Seiya (JPN) / MIZUTANI Jun (JPN),KIM Hyok Bong (PRK) / KIM Song Nam (PRK)
-Pro Tour China Open Suzhou 2009,2009-06-03,KISHIKAWA Seiya/MIZUTANI Jun,BAUM Patrick/HIELSCHER Lars,4,2,"9,11,13,11,8,13|11,9,11,4,11,11",SF,GRAND_SLAM,MD,45,Main Draw,KISHIKAWA Seiya (JPN) / MIZUTANI Jun (JPN),BAUM Patrick (GER) / HIELSCHER Lars (GER)
-Pro Tour China Open Suzhou 2009,2009-06-03,KISHIKAWA Seiya/MIZUTANI Jun,XU Xin/ZHANG Jike,4,2,"12,4,8,11,11,11|10,11,11,5,9,9",F,GRAND_SLAM,MD,45,Main Draw,KISHIKAWA Seiya (JPN) / MIZUTANI Jun (JPN),XU Xin (CHN) / ZHANG Jike (CHN)
-Pro Tour China Open Suzhou 2009,2009-06-03,KIM Hyok Bong/KIM Song Nam,CHO Jihoon/JOO Saehyuk,3,0,,QR16,GRAND_SLAM,MD,45,Qualification,KIM Hyok Bong (PRK) / KIM Song Nam (PRK),CHO Jihoon (KOR) / JOO Saehyuk (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,LIU Zhongze/MA Liang,RONNEBERG Espen/WANG Bing,3,0,,QR32,GRAND_SLAM,MD,45,Qualification,LIU Zhongze (SGP) / MA Liang (SGP),RONNEBERG Espen (NOR) / WANG Bing (NOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,HABESOHN Daniel/KOSOWSKI Jakub,LI Kwun Ngai/TSE Ka Chun,4,3,"11,11,11,6,10,4,11|6,3,8,11,12,11,4",R16,GRAND_SLAM,MD,45,Main Draw,HABESOHN Daniel (AUT) / KOSOWSKI Jakub (POL),LI Kwun Ngai (HKG) / TSE Ka Chun (HKG)
-Pro Tour China Open Suzhou 2009,2009-06-03,CHEN Qi/MA Long,HABESOHN Daniel/KOSOWSKI Jakub,4,0,"11,11,11,11|3,2,3,5",QF,GRAND_SLAM,MD,45,Main Draw,CHEN Qi (CHN) / MA Long (CHN),HABESOHN Daniel (AUT) / KOSOWSKI Jakub (POL)
-Pro Tour China Open Suzhou 2009,2009-06-03,KIM Hyok Bong/KIM Song Nam,HUNG Tzu-Hsiang/WU Chih-Chi,4,0,,R16,GRAND_SLAM,MD,45,Main Draw,KIM Hyok Bong (PRK) / KIM Song Nam (PRK),HUNG Tzu-Hsiang (TPE) / WU Chih-Chi (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,KIM Hyok Bong/KIM Song Nam,CHANG Shun-Hung/CHEN Chien-An,3,0,"11,11,11|6,6,5",QR32,GRAND_SLAM,MD,45,Qualification,KIM Hyok Bong (PRK) / KIM Song Nam (PRK),CHANG Shun-Hung (TPE) / CHEN Chien-An (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,KIM Nam Chol/RI Chol Guk,FEGERL Stefan/FENG Xiaoquan,3,0,"11,11,17|5,6,15",QR32,GRAND_SLAM,MD,45,Qualification,KIM Nam Chol (PRK) / RI Chol Guk (PRK),FEGERL Stefan (AUT) / FENG Xiaoquan (AUT)
-Pro Tour China Open Suzhou 2009,2009-06-03,DRINKHALL Paul/RUMGAY Gavin,ALAMIYAN Noshad/CHEN Weixing,3,0,,QR32,GRAND_SLAM,MD,45,Qualification,DRINKHALL Paul (ENG) / RUMGAY Gavin (SCO),ALAMIYAN Noshad (IRI) / CHEN Weixing (AUT)
-Pro Tour China Open Suzhou 2009,2009-06-03,XU Xin/ZHANG Jike,DRINKHALL Paul/RUMGAY Gavin,3,0,"11,11,11|7,3,3",QR16,GRAND_SLAM,MD,45,Qualification,XU Xin (CHN) / ZHANG Jike (CHN),DRINKHALL Paul (ENG) / RUMGAY Gavin (SCO)
-Pro Tour China Open Suzhou 2009,2009-06-03,MA Lin/WANG Liqin,CHEW Clarence/TAY Jit Kiat,3,0,"11,11,11|4,1,4",QR16,GRAND_SLAM,MD,45,Qualification,MA Lin (CHN) / WANG Liqin (CHN),CHEW Clarence (SGP) / TAY Jit Kiat (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,MATSUDAIRA Kenta/NIWA Koki,LIU Zhongze/MA Liang,3,0,"11,11,12|2,3,10",QR16,GRAND_SLAM,MD,45,Qualification,MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN),LIU Zhongze (SGP) / MA Liang (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,KIM Nam Chol/RI Chol Guk,CHIANG Hung-Chieh/HUANG Sheng-Sheng,3,1,"13,11,11,11|15,6,7,8",QR16,GRAND_SLAM,MD,45,Qualification,KIM Nam Chol (PRK) / RI Chol Guk (PRK),CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,GUO Yue/LI Xiaoxia,LIN Ling/ZHANG Rui,4,1,"11,11,7,11,11|6,7,11,5,8",R16,GRAND_SLAM,WD,45,Main Draw,GUO Yue (CHN) / LI Xiaoxia (CHN),LIN Ling (HKG) / ZHANG Rui (HKG)
-Pro Tour China Open Suzhou 2009,2009-06-03,LI Xiaodan/LIU Shiwen,KIM Junghyun/LEE Eunhee,4,1,"11,11,11,4,11|9,8,6,11,8",R16,GRAND_SLAM,WD,45,Main Draw,LI Xiaodan (CHN) / LIU Shiwen (CHN),KIM Junghyun (KOR) / LEE Eunhee (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,DING Ning/GUO Yan (1982),SUN Beibei/YU Mengyu,4,0,"11,11,16,12|5,8,14,10",QF,GRAND_SLAM,WD,45,Main Draw,DING Ning (CHN) / GUO Yan (1982) (CHN),SUN Beibei (SGP) / YU Mengyu (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,LI Xiaodan/LIU Shiwen,FUKUHARA Ai/ISHIKAWA Kasumi,4,2,"7,7,11,11,12,11|11,11,2,5,10,4",QF,GRAND_SLAM,WD,45,Main Draw,LI Xiaodan (CHN) / LIU Shiwen (CHN),FUKUHARA Ai (JPN) / ISHIKAWA Kasumi (JPN)
-Pro Tour China Open Suzhou 2009,2009-06-03,GUO Yue/LI Xiaoxia,DING Ning/GUO Yan (1982),4,0,"11,11,11,11|8,6,9,7",SF,GRAND_SLAM,WD,45,Main Draw,GUO Yue (CHN) / LI Xiaoxia (CHN),DING Ning (CHN) / GUO Yan (1982) (CHN)
-Pro Tour China Open Suzhou 2009,2009-06-03,LI Xiaodan/LIU Shiwen,KIM Kyungah/PARK Miyoung,4,1,"8,11,11,11,11|11,7,8,8,8",SF,GRAND_SLAM,WD,45,Main Draw,LI Xiaodan (CHN) / LIU Shiwen (CHN),KIM Kyungah (KOR) / PARK Miyoung (KOR)
-Pro Tour China Open Suzhou 2009,2009-06-03,GUO Yue/LI Xiaoxia,LI Xiaodan/LIU Shiwen,4,1,"7,11,11,11,12|11,7,4,4,10",F,GRAND_SLAM,WD,45,Main Draw,GUO Yue (CHN) / LI Xiaoxia (CHN),LI Xiaodan (CHN) / LIU Shiwen (CHN)
-Pro Tour China Open Suzhou 2009,2009-06-03,LI Isabelle Siyun/SIM Kai Xin Zena,LOMBO Faty/NZANGANI Cyntia,3,0,,QR16,GRAND_SLAM,WD,45,Qualification,LI Isabelle Siyun (SGP) / SIM Kai Xin Zena (SGP),LOMBO Faty (COD) / NZANGANI Cyntia (COD)
-Pro Tour China Open Suzhou 2009,2009-06-03,HAN Hye Song/KIM Hye Song,DRINKHALL Joanna/SIBLEY Kelly,3,0,"11,11,11|6,7,8",QR16,GRAND_SLAM,WD,45,Qualification,HAN Hye Song (PRK) / KIM Hye Song (PRK),DRINKHALL Joanna (ENG) / SIBLEY Kelly (ENG)
-Pro Tour China Open Suzhou 2009,2009-06-03,JIANG Huajun/TIE Yana,LI Isabelle Siyun/SIM Kai Xin Zena,4,1,"8,11,11,11,11|11,5,6,3,6",R16,GRAND_SLAM,WD,45,Main Draw,JIANG Huajun (HKG) / TIE Yana (HKG),LI Isabelle Siyun (SGP) / SIM Kai Xin Zena (SGP)
-Pro Tour China Open Suzhou 2009,2009-06-03,KIM Kyungah/PARK Miyoung,LAU Sui Fei/SUN Jin,4,3,"9,6,11,9,11,11,11|11,11,8,11,8,7,4",R16,GRAND_SLAM,WD,45,Main Draw,KIM Kyungah (KOR) / PARK Miyoung (KOR),LAU Sui Fei (HKG) / SUN Jin (HKG)
-Pro Tour China Open Suzhou 2009,2009-06-03,GUO Yue/LI Xiaoxia,JIANG Huajun/TIE Yana,4,0,"12,11,11,11|10,7,8,5",QF,GRAND_SLAM,WD,45,Main Draw,GUO Yue (CHN) / LI Xiaoxia (CHN),JIANG Huajun (HKG) / TIE Yana (HKG)
-Pro Tour China Open Suzhou 2009,2009-06-03,DING Ning/GUO Yan (1982),HIRANO Sayaka/HIURA Reiko,4,2,"8,9,11,13,11,11|11,11,8,11,5,6",R16,GRAND_SLAM,WD,45,Main Draw,DING Ning (CHN) / GUO Yan (1982) (CHN),HIRANO Sayaka (JPN) / HIURA Reiko (JPN)
-Pro Tour China Open Suzhou 2009,2009-06-03,KIM Junghyun/LEE Eunhee,CHENG I-Ching/HSIUNG Nai-I,3,0,"14,12,11|12,10,5",QR16,GRAND_SLAM,WD,45,Qualification,KIM Junghyun (KOR) / LEE Eunhee (KOR),CHENG I-Ching (TPE) / HSIUNG Nai-I (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,LI Jiao/LI Jie,CHEN Szu-Yu/HOU Yu-Ling,4,1,"11,10,11,12,11|4,12,6,10,3",R16,GRAND_SLAM,WD,45,Main Draw,LI Jiao (NED) / LI Jie (NED),CHEN Szu-Yu (TPE) / HOU Yu-Ling (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,KIM Kyungah/PARK Miyoung,LI Jiao/LI Jie,4,1,"7,11,16,11,11|11,6,14,7,5",QF,GRAND_SLAM,WD,45,Main Draw,KIM Kyungah (KOR) / PARK Miyoung (KOR),LI Jiao (NED) / LI Jie (NED)
-Pro Tour China Open Suzhou 2009,2009-06-03,SUN Beibei/YU Mengyu,HAN Hye Song/KIM Hye Song,4,2,"7,8,15,11,11,11|11,11,13,5,7,9",R16,GRAND_SLAM,WD,45,Main Draw,SUN Beibei (SGP) / YU Mengyu (SGP),HAN Hye Song (PRK) / KIM Hye Song (PRK)
-Pro Tour China Open Suzhou 2009,2009-06-03,LAU Sui Fei/SUN Jin,CHINBAT Nomin-Erdene/SIM Yun Hui,3,0,,QR16,GRAND_SLAM,WD,45,Qualification,LAU Sui Fei (HKG) / SUN Jin (HKG),CHINBAT Nomin-Erdene (MGL) / SIM Yun Hui (PRK)
-Pro Tour China Open Suzhou 2009,2009-06-03,FUKUHARA Ai/ISHIKAWA Kasumi,LIN Chia-Hui/LIU Hsing-Yin,4,2,"11,11,4,6,11,11|9,4,11,11,7,7",R16,GRAND_SLAM,WD,45,Main Draw,FUKUHARA Ai (JPN) / ISHIKAWA Kasumi (JPN),LIN Chia-Hui (TPE) / LIU Hsing-Yin (TPE)
-Pro Tour China Open Suzhou 2009,2009-06-03,LIN Chia-Hui/LIU Hsing-Yin,MONGONDI Dacha/LITOBAKA Ammadine,3,0,,QR16,GRAND_SLAM,WD,45,Qualification,LIN Chia-Hui (TPE) / LIU Hsing-Yin (TPE),MONGONDI Dacha (COD) / LITOBAKA Ammadine (COD)
-Pro Tour China Open Suzhou 2009,2009-06-03,CHEN Szu-Yu/HOU Yu-Ling,PARK Youngsook/SEOK Hajung,3,0,"12,11,11|10,7,6",QR16,GRAND_SLAM,WD,45,Qualification,CHEN Szu-Yu (TPE) / HOU Yu-Ling (TPE),PARK Youngsook (KOR) / SEOK Hajung (KOR)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Pro Tour China Open Suzhou 2009,2009-06-03,MA Liang,LKHAGVADORJ Altantulga,4,0,,,GRAND_SLAM,MS,45,Qualification,MA Liang (SGP),LKHAGVADORJ Altantulga (MGL),MA Liang
+Pro Tour China Open Suzhou 2009,2009-06-03,MA Liang,KIM Donghyun,4,0,"11,11,11,11|9,7,5,9",,GRAND_SLAM,MS,45,Qualification,MA Liang (SGP),KIM Donghyun (KOR),MA Liang
+Pro Tour China Open Suzhou 2009,2009-06-03,KIM Donghyun,LKHAGVADORJ Altantulga,4,0,"11,11,11,12|8,2,9,10",,GRAND_SLAM,MS,45,Qualification,KIM Donghyun (KOR),LKHAGVADORJ Altantulga (MGL),KIM Donghyun
+Pro Tour China Open Suzhou 2009,2009-06-03,DRINKHALL Paul,BABUNGU Bomboko,4,0,,,GRAND_SLAM,MS,45,Qualification,DRINKHALL Paul (ENG),BABUNGU Bomboko (COD),DRINKHALL Paul
+Pro Tour China Open Suzhou 2009,2009-06-03,DRINKHALL Paul,CHANG Shun-Hung,4,1,"11,11,3,11,11|4,5,11,7,8",,GRAND_SLAM,MS,45,Qualification,DRINKHALL Paul (ENG),CHANG Shun-Hung (TPE),DRINKHALL Paul
+Pro Tour China Open Suzhou 2009,2009-06-03,CHANG Shun-Hung,BABUNGU Bomboko,4,0,,,GRAND_SLAM,MS,45,Qualification,CHANG Shun-Hung (TPE),BABUNGU Bomboko (COD),CHANG Shun-Hung
+Pro Tour China Open Suzhou 2009,2009-06-03,CHO Jihoon,HUNG Tzu-Hsiang,4,2,"11,5,11,9,11,23|8,11,6,11,9,21",,GRAND_SLAM,MS,45,Qualification,CHO Jihoon (KOR),HUNG Tzu-Hsiang (TPE),CHO Jihoon
+Pro Tour China Open Suzhou 2009,2009-06-03,CHO Jihoon,PANG Xue Jie,4,0,"11,11,11,11|5,3,8,7",,GRAND_SLAM,MS,45,Qualification,CHO Jihoon (KOR),PANG Xue Jie (SGP),CHO Jihoon
+Pro Tour China Open Suzhou 2009,2009-06-03,PANG Xue Jie,HUNG Tzu-Hsiang,4,2,"17,11,9,13,6,11|15,5,11,11,11,4",,GRAND_SLAM,MS,45,Qualification,PANG Xue Jie (SGP),HUNG Tzu-Hsiang (TPE),PANG Xue Jie
+Pro Tour China Open Suzhou 2009,2009-06-03,HABESOHN Daniel,BOLA Christian,4,0,,,GRAND_SLAM,MS,45,Qualification,HABESOHN Daniel (AUT),BOLA Christian (COD),HABESOHN Daniel
+Pro Tour China Open Suzhou 2009,2009-06-03,HABESOHN Daniel,LORENTZ Romain,4,2,"8,12,11,11,11,11|11,10,8,13,8,8",,GRAND_SLAM,MS,45,Qualification,HABESOHN Daniel (AUT),LORENTZ Romain (FRA),HABESOHN Daniel
+Pro Tour China Open Suzhou 2009,2009-06-03,LORENTZ Romain,BOLA Christian,4,0,,,GRAND_SLAM,MS,45,Qualification,LORENTZ Romain (FRA),BOLA Christian (COD),LORENTZ Romain
+Pro Tour China Open Suzhou 2009,2009-06-03,JEONG Sangeun,CHEW Clarence,4,0,"11,11,11,11|7,2,6,8",,GRAND_SLAM,MS,45,Qualification,JEONG Sangeun (KOR),CHEW Clarence (SGP),JEONG Sangeun
+Pro Tour China Open Suzhou 2009,2009-06-03,JEONG Sangeun,GAUZY Simon,4,2,"3,16,11,11,10,11|11,14,3,4,12,4",,GRAND_SLAM,MS,45,Qualification,JEONG Sangeun (KOR),GAUZY Simon (FRA),JEONG Sangeun
+Pro Tour China Open Suzhou 2009,2009-06-03,GAUZY Simon,CHEW Clarence,4,0,"12,11,11,11|10,9,7,7",,GRAND_SLAM,MS,45,Qualification,GAUZY Simon (FRA),CHEW Clarence (SGP),GAUZY Simon
+Pro Tour China Open Suzhou 2009,2009-06-03,HUANG Sheng-Sheng,BIZAKU Jonathan,4,0,,,GRAND_SLAM,MS,45,Qualification,HUANG Sheng-Sheng (TPE),BIZAKU Jonathan (COD),HUANG Sheng-Sheng
+Pro Tour China Open Suzhou 2009,2009-06-03,HUANG Sheng-Sheng,RONNEBERG Espen,4,1,"12,11,9,11,11|10,5,11,4,8",,GRAND_SLAM,MS,45,Qualification,HUANG Sheng-Sheng (TPE),RONNEBERG Espen (NOR),HUANG Sheng-Sheng
+Pro Tour China Open Suzhou 2009,2009-06-03,RONNEBERG Espen,BIZAKU Jonathan,4,0,,,GRAND_SLAM,MS,45,Qualification,RONNEBERG Espen (NOR),BIZAKU Jonathan (COD),RONNEBERG Espen
+Pro Tour China Open Suzhou 2009,2009-06-03,CHO Eonrae,LIU Zhongze,4,1,"5,11,14,11,12|11,3,12,2,10",,GRAND_SLAM,MS,45,Qualification,CHO Eonrae (KOR),LIU Zhongze (SGP),CHO Eonrae
+Pro Tour China Open Suzhou 2009,2009-06-03,LIU Zhongze,LI Kwun Ngai,4,1,"20,8,11,11,11|18,11,9,9,6",,GRAND_SLAM,MS,45,Qualification,LIU Zhongze (SGP),LI Kwun Ngai (HKG),LIU Zhongze
+Pro Tour China Open Suzhou 2009,2009-06-03,CHO Eonrae,LI Kwun Ngai,4,0,"11,11,11,11|7,9,7,9",,GRAND_SLAM,MS,45,Qualification,CHO Eonrae (KOR),LI Kwun Ngai (HKG),CHO Eonrae
+Pro Tour China Open Suzhou 2009,2009-06-03,KO Junhyung,WANG Yi-Tse,4,0,"11,11,11,11|8,9,7,5",,GRAND_SLAM,MS,45,Qualification,KO Junhyung (KOR),WANG Yi-Tse (TPE),KO Junhyung
+Pro Tour China Open Suzhou 2009,2009-06-03,KO Junhyung,ALAMIYAN Noshad,4,0,,,GRAND_SLAM,MS,45,Qualification,KO Junhyung (KOR),ALAMIYAN Noshad (IRI),KO Junhyung
+Pro Tour China Open Suzhou 2009,2009-06-03,WANG Yi-Tse,ALAMIYAN Noshad,4,0,,,GRAND_SLAM,MS,45,Qualification,WANG Yi-Tse (TPE),ALAMIYAN Noshad (IRI),WANG Yi-Tse
+Pro Tour China Open Suzhou 2009,2009-06-03,FEGERL Stefan,KIWAYA Varlin,4,0,,,GRAND_SLAM,MS,45,Qualification,FEGERL Stefan (AUT),KIWAYA Varlin (COD),FEGERL Stefan
+Pro Tour China Open Suzhou 2009,2009-06-03,WANG Bing,FEGERL Stefan,4,2,"12,11,7,11,6,11|10,5,11,7,11,6",,GRAND_SLAM,MS,45,Qualification,WANG Bing (NOR),FEGERL Stefan (AUT),WANG Bing
+Pro Tour China Open Suzhou 2009,2009-06-03,WANG Bing,KIWAYA Varlin,4,0,,,GRAND_SLAM,MS,45,Qualification,WANG Bing (NOR),KIWAYA Varlin (COD),WANG Bing
+Pro Tour China Open Suzhou 2009,2009-06-03,LEE Sang Su,PAN Yingjun,4,0,"11,11,11,11|2,7,6,2",,GRAND_SLAM,MS,45,Qualification,LEE Sang Su (KOR),PAN Yingjun (MAC),LEE Sang Su
+Pro Tour China Open Suzhou 2009,2009-06-03,LEE Sang Su,TSE Ka Chun,4,1,"8,11,11,11,11|11,9,8,6,9",,GRAND_SLAM,MS,45,Qualification,LEE Sang Su (KOR),TSE Ka Chun (HKG),LEE Sang Su
+Pro Tour China Open Suzhou 2009,2009-06-03,TSE Ka Chun,PAN Yingjun,4,0,"11,11,11,11|4,6,3,5",,GRAND_SLAM,MS,45,Qualification,TSE Ka Chun (HKG),PAN Yingjun (MAC),TSE Ka Chun
+Pro Tour China Open Suzhou 2009,2009-06-03,CHEN Chien-An,KIM Gangwoog,4,1,"10,11,11,11,11|12,4,8,6,9",,GRAND_SLAM,MS,45,Qualification,CHEN Chien-An (TPE),KIM Gangwoog (KOR),CHEN Chien-An
+Pro Tour China Open Suzhou 2009,2009-06-03,NIWA Koki,CHEN Chien-An,4,1,"9,12,12,11,11|11,10,10,3,6",,GRAND_SLAM,MS,45,Qualification,NIWA Koki (JPN),CHEN Chien-An (TPE),NIWA Koki
+Pro Tour China Open Suzhou 2009,2009-06-03,KIM Gangwoog,NIWA Koki,4,1,"13,8,11,11,11|11,11,9,9,9",,GRAND_SLAM,MS,45,Qualification,KIM Gangwoog (KOR),NIWA Koki (JPN),KIM Gangwoog
+Pro Tour China Open Suzhou 2009,2009-06-03,KIM Song Nam,TAY Jit Kiat,4,0,"11,11,11,11|1,5,1,5",,GRAND_SLAM,MS,45,Qualification,KIM Song Nam (PRK),TAY Jit Kiat (SGP),KIM Song Nam
+Pro Tour China Open Suzhou 2009,2009-06-03,KIM Song Nam,KANG Donghoon,4,2,"11,12,4,11,4,11|5,10,11,9,11,8",,GRAND_SLAM,MS,45,Qualification,KIM Song Nam (PRK),KANG Donghoon (KOR),KIM Song Nam
+Pro Tour China Open Suzhou 2009,2009-06-03,KANG Donghoon,TAY Jit Kiat,4,0,"11,11,11,11|8,3,6,8",,GRAND_SLAM,MS,45,Qualification,KANG Donghoon (KOR),TAY Jit Kiat (SGP),KANG Donghoon
+Pro Tour China Open Suzhou 2009,2009-06-03,KIM Nam Chol,FENG Xiaoquan,4,1,"11,11,9,11,11|6,5,11,8,8",,GRAND_SLAM,MS,45,Qualification,KIM Nam Chol (PRK),FENG Xiaoquan (AUT),KIM Nam Chol
+Pro Tour China Open Suzhou 2009,2009-06-03,RUMGAY Gavin,MAYAMU Guillit,4,0,,,GRAND_SLAM,MS,45,Qualification,RUMGAY Gavin (SCO),MAYAMU Guillit (COD),RUMGAY Gavin
+Pro Tour China Open Suzhou 2009,2009-06-03,RUMGAY Gavin,FENG Xiaoquan,4,0,"11,11,11,11|5,3,9,9",,GRAND_SLAM,MS,45,Qualification,RUMGAY Gavin (SCO),FENG Xiaoquan (AUT),RUMGAY Gavin
+Pro Tour China Open Suzhou 2009,2009-06-03,KIM Nam Chol,MAYAMU Guillit,4,0,,,GRAND_SLAM,MS,45,Qualification,KIM Nam Chol (PRK),MAYAMU Guillit (COD),KIM Nam Chol
+Pro Tour China Open Suzhou 2009,2009-06-03,KIM Nam Chol,RUMGAY Gavin,4,2,"11,11,11,8,4,11|9,9,6,11,11,4",,GRAND_SLAM,MS,45,Qualification,KIM Nam Chol (PRK),RUMGAY Gavin (SCO),KIM Nam Chol
+Pro Tour China Open Suzhou 2009,2009-06-03,FENG Xiaoquan,MAYAMU Guillit,4,0,,,GRAND_SLAM,MS,45,Qualification,FENG Xiaoquan (AUT),MAYAMU Guillit (COD),FENG Xiaoquan
+Pro Tour China Open Suzhou 2009,2009-06-03,MA Long,CHEW Clarence,4,0,"11,11,11,11|4,8,5,6",R64,GRAND_SLAM,MS,45,Main Draw,MA Long (CHN),CHEW Clarence (SGP),MA Long
+Pro Tour China Open Suzhou 2009,2009-06-03,YANG Zi,KANG Donghoon,4,1,"11,12,6,11,11|5,10,11,2,9",R64,GRAND_SLAM,MS,45,Main Draw,YANG Zi (SGP),KANG Donghoon (KOR),YANG Zi
+Pro Tour China Open Suzhou 2009,2009-06-03,HUANG Sheng-Sheng,CHOI Hyunjin,4,0,"11,11,11,11|8,9,5,8",R64,GRAND_SLAM,MS,45,Main Draw,HUANG Sheng-Sheng (TPE),CHOI Hyunjin (KOR),HUANG Sheng-Sheng
+Pro Tour China Open Suzhou 2009,2009-06-03,YOON Jaeyoung,WANG Yi-Tse,4,2,"6,11,11,11,7,11|11,4,7,6,11,6",R64,GRAND_SLAM,MS,45,Main Draw,YOON Jaeyoung (KOR),WANG Yi-Tse (TPE),YOON Jaeyoung
+Pro Tour China Open Suzhou 2009,2009-06-03,MIZUTANI Jun,CHANG Shun-Hung,4,1,"11,11,9,11,11|7,3,11,8,9",R64,GRAND_SLAM,MS,45,Main Draw,MIZUTANI Jun (JPN),CHANG Shun-Hung (TPE),MIZUTANI Jun
+Pro Tour China Open Suzhou 2009,2009-06-03,LEE Jinkwon,NIWA Koki,4,2,"8,11,5,11,11,11|11,6,11,7,7,7",R64,GRAND_SLAM,MS,45,Main Draw,LEE Jinkwon (KOR),NIWA Koki (JPN),LEE Jinkwon
+Pro Tour China Open Suzhou 2009,2009-06-03,CHO Jihoon,CHIANG Hung-Chieh,4,0,"11,11,11,11|8,9,9,6",R64,GRAND_SLAM,MS,45,Main Draw,CHO Jihoon (KOR),CHIANG Hung-Chieh (TPE),CHO Jihoon
+Pro Tour China Open Suzhou 2009,2009-06-03,OH Sangeun,RUMGAY Gavin,4,1,"11,9,11,11,14|9,11,3,8,12",R64,GRAND_SLAM,MS,45,Main Draw,OH Sangeun (KOR),RUMGAY Gavin (SCO),OH Sangeun
+Pro Tour China Open Suzhou 2009,2009-06-03,JOO Saehyuk,LI Kwun Ngai,4,0,"11,11,11,11|4,6,8,7",R64,GRAND_SLAM,MS,45,Main Draw,JOO Saehyuk (KOR),LI Kwun Ngai (HKG),JOO Saehyuk
+Pro Tour China Open Suzhou 2009,2009-06-03,KIM Song Nam,LEUNG Chu Yan,4,2,"11,11,11,8,11,11|9,6,13,11,9,4",R64,GRAND_SLAM,MS,45,Main Draw,KIM Song Nam (PRK),LEUNG Chu Yan (HKG),KIM Song Nam
+Pro Tour China Open Suzhou 2009,2009-06-03,HIELSCHER Lars,KIM Nam Chol,4,3,"11,9,9,3,11,12,11|7,11,11,11,8,10,9",R64,GRAND_SLAM,MS,45,Main Draw,HIELSCHER Lars (GER),KIM Nam Chol (PRK),HIELSCHER Lars
+Pro Tour China Open Suzhou 2009,2009-06-03,JIANG Tianyi,LIU Zhongze,4,0,"11,11,11,11|8,6,4,4",R64,GRAND_SLAM,MS,45,Main Draw,JIANG Tianyi (HKG),LIU Zhongze (SGP),JIANG Tianyi
+Pro Tour China Open Suzhou 2009,2009-06-03,ZHANG Jike,TSE Ka Chun,4,1,"6,11,17,11,11|11,6,15,4,1",R64,GRAND_SLAM,MS,45,Main Draw,ZHANG Jike (CHN),TSE Ka Chun (HKG),ZHANG Jike
+Pro Tour China Open Suzhou 2009,2009-06-03,LEE Sang Su,FEJER-KONNERTH Zoltan,4,2,"11,6,13,4,11,11|8,11,11,11,9,9",R64,GRAND_SLAM,MS,45,Main Draw,LEE Sang Su (KOR),FEJER-KONNERTH Zoltan (GER),LEE Sang Su
+Pro Tour China Open Suzhou 2009,2009-06-03,MATSUDAIRA Kenta,RONNEBERG Espen,4,0,"11,11,11,12|7,7,5,10",R64,GRAND_SLAM,MS,45,Main Draw,MATSUDAIRA Kenta (JPN),RONNEBERG Espen (NOR),MATSUDAIRA Kenta
+Pro Tour China Open Suzhou 2009,2009-06-03,CHEN Qi,KIM Gangwoog,4,0,"11,11,11,11|7,6,9,5",R64,GRAND_SLAM,MS,45,Main Draw,CHEN Qi (CHN),KIM Gangwoog (KOR),CHEN Qi
+Pro Tour China Open Suzhou 2009,2009-06-03,WANG Liqin,PAN Yingjun,4,0,"11,11,11,11|6,2,1,5",R64,GRAND_SLAM,MS,45,Main Draw,WANG Liqin (CHN),PAN Yingjun (MAC),WANG Liqin
+Pro Tour China Open Suzhou 2009,2009-06-03,CHO Eonrae,KIM Hyok Bong,4,3,"10,13,11,8,14,7,11|12,11,9,11,12,11,7",R64,GRAND_SLAM,MS,45,Main Draw,CHO Eonrae (KOR),KIM Hyok Bong (PRK),CHO Eonrae
+Pro Tour China Open Suzhou 2009,2009-06-03,HABESOHN Daniel,WU Chih-Chi,4,0,,R64,GRAND_SLAM,MS,45,Main Draw,HABESOHN Daniel (AUT),WU Chih-Chi (TPE),HABESOHN Daniel
+Pro Tour China Open Suzhou 2009,2009-06-03,CHEN Weixing,CHEN Chien-An,4,3,"11,9,11,14,9,8,11|3,11,9,12,11,11,9",R64,GRAND_SLAM,MS,45,Main Draw,CHEN Weixing (AUT),CHEN Chien-An (TPE),CHEN Weixing
+Pro Tour China Open Suzhou 2009,2009-06-03,STEGER Bastian,KIM Donghyun,4,0,"11,11,14,11|8,8,12,3",R64,GRAND_SLAM,MS,45,Main Draw,STEGER Bastian (GER),KIM Donghyun (KOR),STEGER Bastian
+Pro Tour China Open Suzhou 2009,2009-06-03,KOSOWSKI Jakub,PANG Xue Jie,4,0,"11,11,11,11|4,6,9,6",R64,GRAND_SLAM,MS,45,Main Draw,KOSOWSKI Jakub (POL),PANG Xue Jie (SGP),KOSOWSKI Jakub
+Pro Tour China Open Suzhou 2009,2009-06-03,RI Chol Guk,KO Junhyung,4,1,"11,11,11,11,11|7,9,13,9,5",R64,GRAND_SLAM,MS,45,Main Draw,RI Chol Guk (PRK),KO Junhyung (KOR),RI Chol Guk
+Pro Tour China Open Suzhou 2009,2009-06-03,LI Ching,FENG Xiaoquan,4,2,"11,8,11,11,8,11|9,11,3,8,11,9",R64,GRAND_SLAM,MS,45,Main Draw,LI Ching (HKG),FENG Xiaoquan (AUT),LI Ching
+Pro Tour China Open Suzhou 2009,2009-06-03,CHEUNG Yuk,GAUZY Simon,4,0,"11,11,11,11|9,9,3,7",R64,GRAND_SLAM,MS,45,Main Draw,CHEUNG Yuk (HKG),GAUZY Simon (FRA),CHEUNG Yuk
+Pro Tour China Open Suzhou 2009,2009-06-03,KEINATH Thomas,MA Liang,4,1,"3,12,12,11,11|11,10,10,4,9",R64,GRAND_SLAM,MS,45,Main Draw,KEINATH Thomas (SVK),MA Liang (SGP),KEINATH Thomas
+Pro Tour China Open Suzhou 2009,2009-06-03,WOSIK Torben,JEONG Sangeun,4,1,"8,11,11,11,11|11,5,8,8,2",R64,GRAND_SLAM,MS,45,Main Draw,WOSIK Torben (GER),JEONG Sangeun (KOR),WOSIK Torben
+Pro Tour China Open Suzhou 2009,2009-06-03,TANG Peng,LORENTZ Romain,4,2,"11,11,10,11,9,11|9,9,12,5,11,6",R64,GRAND_SLAM,MS,45,Main Draw,TANG Peng (HKG),LORENTZ Romain (FRA),TANG Peng
+Pro Tour China Open Suzhou 2009,2009-06-03,XU Xin,FEGERL Stefan,4,0,"11,11,11,11|6,8,2,4",R64,GRAND_SLAM,MS,45,Main Draw,XU Xin (CHN),FEGERL Stefan (AUT),XU Xin
+Pro Tour China Open Suzhou 2009,2009-06-03,KISHIKAWA Seiya,WANG Bing,4,0,"11,11,11,12|4,2,6,10",R64,GRAND_SLAM,MS,45,Main Draw,KISHIKAWA Seiya (JPN),WANG Bing (NOR),KISHIKAWA Seiya
+Pro Tour China Open Suzhou 2009,2009-06-03,BAUM Patrick,DRINKHALL Paul,4,0,"11,11,11,11|3,3,2,8",R64,GRAND_SLAM,MS,45,Main Draw,BAUM Patrick (GER),DRINKHALL Paul (ENG),BAUM Patrick
+Pro Tour China Open Suzhou 2009,2009-06-03,MA Lin,TAY Jit Kiat,4,0,"11,11,11,11|3,7,3,5",R64,GRAND_SLAM,MS,45,Main Draw,MA Lin (CHN),TAY Jit Kiat (SGP),MA Lin
+Pro Tour China Open Suzhou 2009,2009-06-03,MA Long,YANG Zi,4,0,"11,11,11,11|4,7,5,9",R32,GRAND_SLAM,MS,45,Main Draw,MA Long (CHN),YANG Zi (SGP),MA Long
+Pro Tour China Open Suzhou 2009,2009-06-03,YOON Jaeyoung,HUANG Sheng-Sheng,4,1,"12,11,11,11,11|14,4,9,5,6",R32,GRAND_SLAM,MS,45,Main Draw,YOON Jaeyoung (KOR),HUANG Sheng-Sheng (TPE),YOON Jaeyoung
+Pro Tour China Open Suzhou 2009,2009-06-03,MIZUTANI Jun,LEE Jinkwon,4,2,"8,11,10,11,11,11|11,4,12,8,8,6",R32,GRAND_SLAM,MS,45,Main Draw,MIZUTANI Jun (JPN),LEE Jinkwon (KOR),MIZUTANI Jun
+Pro Tour China Open Suzhou 2009,2009-06-03,OH Sangeun,CHO Jihoon,4,2,"8,11,11,7,11,11|11,7,5,11,4,4",R32,GRAND_SLAM,MS,45,Main Draw,OH Sangeun (KOR),CHO Jihoon (KOR),OH Sangeun
+Pro Tour China Open Suzhou 2009,2009-06-03,JOO Saehyuk,KIM Song Nam,4,1,"5,11,11,11,11|11,7,5,5,8",R32,GRAND_SLAM,MS,45,Main Draw,JOO Saehyuk (KOR),KIM Song Nam (PRK),JOO Saehyuk
+Pro Tour China Open Suzhou 2009,2009-06-03,JIANG Tianyi,HIELSCHER Lars,4,2,"9,11,10,11,11,11|11,7,12,7,7,6",R32,GRAND_SLAM,MS,45,Main Draw,JIANG Tianyi (HKG),HIELSCHER Lars (GER),JIANG Tianyi
+Pro Tour China Open Suzhou 2009,2009-06-03,ZHANG Jike,LEE Sang Su,4,0,"11,11,11,11|7,5,5,8",R32,GRAND_SLAM,MS,45,Main Draw,ZHANG Jike (CHN),LEE Sang Su (KOR),ZHANG Jike
+Pro Tour China Open Suzhou 2009,2009-06-03,CHEN Qi,MATSUDAIRA Kenta,4,0,"11,11,11,13|3,4,9,11",R32,GRAND_SLAM,MS,45,Main Draw,CHEN Qi (CHN),MATSUDAIRA Kenta (JPN),CHEN Qi
+Pro Tour China Open Suzhou 2009,2009-06-03,WANG Liqin,CHO Eonrae,4,1,"11,11,10,11,11|5,8,12,6,5",R32,GRAND_SLAM,MS,45,Main Draw,WANG Liqin (CHN),CHO Eonrae (KOR),WANG Liqin
+Pro Tour China Open Suzhou 2009,2009-06-03,HABESOHN Daniel,CHEN Weixing,4,2,"11,6,11,11,10,11|5,11,7,9,12,7",R32,GRAND_SLAM,MS,45,Main Draw,HABESOHN Daniel (AUT),CHEN Weixing (AUT),HABESOHN Daniel
+Pro Tour China Open Suzhou 2009,2009-06-03,KOSOWSKI Jakub,STEGER Bastian,4,1,"11,9,11,11,13|5,11,2,7,11",R32,GRAND_SLAM,MS,45,Main Draw,KOSOWSKI Jakub (POL),STEGER Bastian (GER),KOSOWSKI Jakub
+Pro Tour China Open Suzhou 2009,2009-06-03,LI Ching,RI Chol Guk,4,0,"11,11,11,11|7,4,4,6",R32,GRAND_SLAM,MS,45,Main Draw,LI Ching (HKG),RI Chol Guk (PRK),LI Ching
+Pro Tour China Open Suzhou 2009,2009-06-03,CHEUNG Yuk,KEINATH Thomas,4,2,"11,11,5,9,11,11|6,8,11,11,5,7",R32,GRAND_SLAM,MS,45,Main Draw,CHEUNG Yuk (HKG),KEINATH Thomas (SVK),CHEUNG Yuk
+Pro Tour China Open Suzhou 2009,2009-06-03,TANG Peng,WOSIK Torben,4,1,"11,15,4,11,11|6,13,11,9,5",R32,GRAND_SLAM,MS,45,Main Draw,TANG Peng (HKG),WOSIK Torben (GER),TANG Peng
+Pro Tour China Open Suzhou 2009,2009-06-03,XU Xin,KISHIKAWA Seiya,4,2,"11,8,11,11,5,11|4,11,8,8,11,5",R32,GRAND_SLAM,MS,45,Main Draw,XU Xin (CHN),KISHIKAWA Seiya (JPN),XU Xin
+Pro Tour China Open Suzhou 2009,2009-06-03,MA Lin,BAUM Patrick,4,3,"10,9,11,11,11,11,11|12,11,4,13,5,4,3",R32,GRAND_SLAM,MS,45,Main Draw,MA Lin (CHN),BAUM Patrick (GER),MA Lin
+Pro Tour China Open Suzhou 2009,2009-06-03,MA Long,YOON Jaeyoung,4,0,"11,11,11,11|1,9,4,4",R16,GRAND_SLAM,MS,45,Main Draw,MA Long (CHN),YOON Jaeyoung (KOR),MA Long
+Pro Tour China Open Suzhou 2009,2009-06-03,OH Sangeun,MIZUTANI Jun,4,2,"11,12,11,8,11,11|8,14,7,11,9,6",R16,GRAND_SLAM,MS,45,Main Draw,OH Sangeun (KOR),MIZUTANI Jun (JPN),OH Sangeun
+Pro Tour China Open Suzhou 2009,2009-06-03,JOO Saehyuk,JIANG Tianyi,4,1,"13,11,7,11,11|11,5,11,6,7",R16,GRAND_SLAM,MS,45,Main Draw,JOO Saehyuk (KOR),JIANG Tianyi (HKG),JOO Saehyuk
+Pro Tour China Open Suzhou 2009,2009-06-03,ZHANG Jike,CHEN Qi,4,2,"11,11,16,6,4,11|7,7,14,11,11,5",R16,GRAND_SLAM,MS,45,Main Draw,ZHANG Jike (CHN),CHEN Qi (CHN),ZHANG Jike
+Pro Tour China Open Suzhou 2009,2009-06-03,WANG Liqin,HABESOHN Daniel,4,0,"11,11,11,11|4,4,6,5",R16,GRAND_SLAM,MS,45,Main Draw,WANG Liqin (CHN),HABESOHN Daniel (AUT),WANG Liqin
+Pro Tour China Open Suzhou 2009,2009-06-03,LI Ching,KOSOWSKI Jakub,4,2,"7,11,11,10,11,11|11,9,3,12,7,4",R16,GRAND_SLAM,MS,45,Main Draw,LI Ching (HKG),KOSOWSKI Jakub (POL),LI Ching
+Pro Tour China Open Suzhou 2009,2009-06-03,CHEUNG Yuk,TANG Peng,4,3,"11,3,11,8,2,11,12|6,11,7,11,11,9,10",R16,GRAND_SLAM,MS,45,Main Draw,CHEUNG Yuk (HKG),TANG Peng (HKG),CHEUNG Yuk
+Pro Tour China Open Suzhou 2009,2009-06-03,MA Lin,XU Xin,4,3,"11,2,6,11,8,11,11|7,11,11,8,11,2,7",R16,GRAND_SLAM,MS,45,Main Draw,MA Lin (CHN),XU Xin (CHN),MA Lin
+Pro Tour China Open Suzhou 2009,2009-06-03,MA Long,OH Sangeun,4,1,"6,11,11,11,11|11,8,4,6,5",QF,GRAND_SLAM,MS,45,Main Draw,MA Long (CHN),OH Sangeun (KOR),MA Long
+Pro Tour China Open Suzhou 2009,2009-06-03,JOO Saehyuk,ZHANG Jike,4,3,"15,8,6,11,7,11,11|13,11,11,8,11,2,8",QF,GRAND_SLAM,MS,45,Main Draw,JOO Saehyuk (KOR),ZHANG Jike (CHN),JOO Saehyuk
+Pro Tour China Open Suzhou 2009,2009-06-03,WANG Liqin,LI Ching,4,2,"11,11,11,8,11,11|4,1,6,11,13,9",QF,GRAND_SLAM,MS,45,Main Draw,WANG Liqin (CHN),LI Ching (HKG),WANG Liqin
+Pro Tour China Open Suzhou 2009,2009-06-03,MA Lin,CHEUNG Yuk,4,0,"11,11,11,11|3,4,5,9",QF,GRAND_SLAM,MS,45,Main Draw,MA Lin (CHN),CHEUNG Yuk (HKG),MA Lin
+Pro Tour China Open Suzhou 2009,2009-06-03,MA Long,JOO Saehyuk,4,3,"11,11,8,11,7,4,13|7,8,11,7,11,11,11",SF,GRAND_SLAM,MS,45,Main Draw,MA Long (CHN),JOO Saehyuk (KOR),MA Long
+Pro Tour China Open Suzhou 2009,2009-06-03,WANG Liqin,MA Lin,4,3,"7,11,11,12,10,11,11|11,7,13,10,12,6,7",SF,GRAND_SLAM,MS,45,Main Draw,WANG Liqin (CHN),MA Lin (CHN),WANG Liqin
+Pro Tour China Open Suzhou 2009,2009-06-03,MA Long,WANG Liqin,4,0,"11,13,11,11|6,11,5,9",F,GRAND_SLAM,MS,45,Main Draw,MA Long (CHN),WANG Liqin (CHN),MA Long
+Pro Tour China Open Suzhou 2009,2009-06-03,HUNG Tzu-Hsiang,CHEW Clarence,3,1,"10,12,11,11|12,10,5,8",,GRAND_SLAM,U21MS,45,Qualification,HUNG Tzu-Hsiang (TPE),CHEW Clarence (SGP),HUNG Tzu-Hsiang
+Pro Tour China Open Suzhou 2009,2009-06-03,KIM Song Nam,CHEW Clarence,3,0,"11,11,11|3,1,7",,GRAND_SLAM,U21MS,45,Qualification,KIM Song Nam (PRK),CHEW Clarence (SGP),KIM Song Nam
+Pro Tour China Open Suzhou 2009,2009-06-03,KIM Song Nam,HUNG Tzu-Hsiang,3,0,"11,11,11|8,7,5",,GRAND_SLAM,U21MS,45,Qualification,KIM Song Nam (PRK),HUNG Tzu-Hsiang (TPE),KIM Song Nam
+Pro Tour China Open Suzhou 2009,2009-06-03,LKHAGVADORJ Altantulga,BIZAKU Jonathan,3,0,,,GRAND_SLAM,U21MS,45,Qualification,LKHAGVADORJ Altantulga (MGL),BIZAKU Jonathan (COD),LKHAGVADORJ Altantulga
+Pro Tour China Open Suzhou 2009,2009-06-03,NIWA Koki,BIZAKU Jonathan,3,0,,,GRAND_SLAM,U21MS,45,Qualification,NIWA Koki (JPN),BIZAKU Jonathan (COD),NIWA Koki
+Pro Tour China Open Suzhou 2009,2009-06-03,NIWA Koki,LKHAGVADORJ Altantulga,3,0,"11,11,11|7,5,7",,GRAND_SLAM,U21MS,45,Qualification,NIWA Koki (JPN),LKHAGVADORJ Altantulga (MGL),NIWA Koki
+Pro Tour China Open Suzhou 2009,2009-06-03,KIM Nam Chol,KIM Donghyun,3,0,"11,11,11|8,2,6",,GRAND_SLAM,U21MS,45,Qualification,KIM Nam Chol (PRK),KIM Donghyun (KOR),KIM Nam Chol
+Pro Tour China Open Suzhou 2009,2009-06-03,KIM Nam Chol,ALAMIYAN Noshad,3,0,,,GRAND_SLAM,U21MS,45,Qualification,KIM Nam Chol (PRK),ALAMIYAN Noshad (IRI),KIM Nam Chol
+Pro Tour China Open Suzhou 2009,2009-06-03,KIM Donghyun,ALAMIYAN Noshad,3,0,,,GRAND_SLAM,U21MS,45,Qualification,KIM Donghyun (KOR),ALAMIYAN Noshad (IRI),KIM Donghyun
+Pro Tour China Open Suzhou 2009,2009-06-03,CHANG Shun-Hung,PAN Yingjun,3,0,"11,11,11|2,4,7",,GRAND_SLAM,U21MS,45,Qualification,CHANG Shun-Hung (TPE),PAN Yingjun (MAC),CHANG Shun-Hung
+Pro Tour China Open Suzhou 2009,2009-06-03,LI Kwun Ngai,PAN Yingjun,3,0,"11,11,11|5,9,3",,GRAND_SLAM,U21MS,45,Qualification,LI Kwun Ngai (HKG),PAN Yingjun (MAC),LI Kwun Ngai
+Pro Tour China Open Suzhou 2009,2009-06-03,LI Kwun Ngai,CHANG Shun-Hung,3,0,"11,11,11|8,6,9",,GRAND_SLAM,U21MS,45,Qualification,LI Kwun Ngai (HKG),CHANG Shun-Hung (TPE),LI Kwun Ngai
+Pro Tour China Open Suzhou 2009,2009-06-03,LORENTZ Romain,TAY Jit Kiat,3,0,"11,11,11|5,4,7",,GRAND_SLAM,U21MS,45,Qualification,LORENTZ Romain (FRA),TAY Jit Kiat (SGP),LORENTZ Romain
+Pro Tour China Open Suzhou 2009,2009-06-03,RONNEBERG Espen,TAY Jit Kiat,3,0,"11,11,11|6,9,5",,GRAND_SLAM,U21MS,45,Qualification,RONNEBERG Espen (NOR),TAY Jit Kiat (SGP),RONNEBERG Espen
+Pro Tour China Open Suzhou 2009,2009-06-03,LORENTZ Romain,RONNEBERG Espen,3,0,"11,11,11|3,7,4",,GRAND_SLAM,U21MS,45,Qualification,LORENTZ Romain (FRA),RONNEBERG Espen (NOR),LORENTZ Romain
+Pro Tour China Open Suzhou 2009,2009-06-03,WANG Yi-Tse,PANG Xue Jie,3,1,"12,11,11,11|14,6,7,9",,GRAND_SLAM,U21MS,45,Qualification,WANG Yi-Tse (TPE),PANG Xue Jie (SGP),WANG Yi-Tse
+Pro Tour China Open Suzhou 2009,2009-06-03,WANG Yi-Tse,GAUZY Simon,3,2,"11,4,11,4,11|6,11,6,11,6",,GRAND_SLAM,U21MS,45,Qualification,WANG Yi-Tse (TPE),GAUZY Simon (FRA),WANG Yi-Tse
+Pro Tour China Open Suzhou 2009,2009-06-03,GAUZY Simon,PANG Xue Jie,3,2,"10,11,11,11,11|12,13,4,7,8",,GRAND_SLAM,U21MS,45,Qualification,GAUZY Simon (FRA),PANG Xue Jie (SGP),GAUZY Simon
+Pro Tour China Open Suzhou 2009,2009-06-03,CHIANG Hung-Chieh,RONNEBERG Espen,4,0,,R16,GRAND_SLAM,U21MS,45,Main Draw,CHIANG Hung-Chieh (TPE),RONNEBERG Espen (NOR),CHIANG Hung-Chieh
+Pro Tour China Open Suzhou 2009,2009-06-03,CHEN Chien-An,KIM Song Nam,4,1,"6,11,11,11,12|11,7,5,8,10",R16,GRAND_SLAM,U21MS,45,Main Draw,CHEN Chien-An (TPE),KIM Song Nam (PRK),CHEN Chien-An
+Pro Tour China Open Suzhou 2009,2009-06-03,NIWA Koki,LEE Sang Su,4,1,"5,11,11,11,11|11,4,3,6,7",R16,GRAND_SLAM,U21MS,45,Main Draw,NIWA Koki (JPN),LEE Sang Su (KOR),NIWA Koki
+Pro Tour China Open Suzhou 2009,2009-06-03,KIM Nam Chol,JEONG Sangeun,4,3,"11,11,13,10,12,11,11|13,8,15,12,10,7,8",R16,GRAND_SLAM,U21MS,45,Main Draw,KIM Nam Chol (PRK),JEONG Sangeun (KOR),KIM Nam Chol
+Pro Tour China Open Suzhou 2009,2009-06-03,DRINKHALL Paul,LORENTZ Romain,4,3,"12,11,8,11,11,21,11|14,13,11,9,6,19,8",R16,GRAND_SLAM,U21MS,45,Main Draw,DRINKHALL Paul (ENG),LORENTZ Romain (FRA),DRINKHALL Paul
+Pro Tour China Open Suzhou 2009,2009-06-03,FEGERL Stefan,LI Kwun Ngai,4,1,"11,12,7,12,11|9,10,11,10,8",R16,GRAND_SLAM,U21MS,45,Main Draw,FEGERL Stefan (AUT),LI Kwun Ngai (HKG),FEGERL Stefan
+Pro Tour China Open Suzhou 2009,2009-06-03,WANG Yi-Tse,LIU Zhongze,4,2,"11,12,9,11,5,11|5,10,11,8,11,6",R16,GRAND_SLAM,U21MS,45,Main Draw,WANG Yi-Tse (TPE),LIU Zhongze (SGP),WANG Yi-Tse
+Pro Tour China Open Suzhou 2009,2009-06-03,MA Liang,CHANG Shun-Hung,4,3,"11,6,11,6,16,8,11|6,11,8,11,14,11,3",R16,GRAND_SLAM,U21MS,45,Main Draw,MA Liang (SGP),CHANG Shun-Hung (TPE),MA Liang
+Pro Tour China Open Suzhou 2009,2009-06-03,CHIANG Hung-Chieh,CHEN Chien-An,4,0,"11,11,11,11|7,5,5,6",QF,GRAND_SLAM,U21MS,45,Main Draw,CHIANG Hung-Chieh (TPE),CHEN Chien-An (TPE),CHIANG Hung-Chieh
+Pro Tour China Open Suzhou 2009,2009-06-03,KIM Nam Chol,NIWA Koki,4,0,"11,13,11,11|5,11,5,5",QF,GRAND_SLAM,U21MS,45,Main Draw,KIM Nam Chol (PRK),NIWA Koki (JPN),KIM Nam Chol
+Pro Tour China Open Suzhou 2009,2009-06-03,DRINKHALL Paul,FEGERL Stefan,4,1,"11,11,11,11,11|4,13,4,8,7",QF,GRAND_SLAM,U21MS,45,Main Draw,DRINKHALL Paul (ENG),FEGERL Stefan (AUT),DRINKHALL Paul
+Pro Tour China Open Suzhou 2009,2009-06-03,WANG Yi-Tse,MA Liang,4,3,"11,11,11,4,10,11,11|8,13,4,11,12,7,9",QF,GRAND_SLAM,U21MS,45,Main Draw,WANG Yi-Tse (TPE),MA Liang (SGP),WANG Yi-Tse
+Pro Tour China Open Suzhou 2009,2009-06-03,CHIANG Hung-Chieh,KIM Nam Chol,4,3,"11,11,5,8,6,11,11|6,7,11,11,11,7,6",SF,GRAND_SLAM,U21MS,45,Main Draw,CHIANG Hung-Chieh (TPE),KIM Nam Chol (PRK),CHIANG Hung-Chieh
+Pro Tour China Open Suzhou 2009,2009-06-03,DRINKHALL Paul,WANG Yi-Tse,4,0,"11,11,11,11|3,8,4,8",SF,GRAND_SLAM,U21MS,45,Main Draw,DRINKHALL Paul (ENG),WANG Yi-Tse (TPE),DRINKHALL Paul
+Pro Tour China Open Suzhou 2009,2009-06-03,DRINKHALL Paul,CHIANG Hung-Chieh,4,3,"11,11,6,9,11,7,11|6,9,11,11,9,11,5",F,GRAND_SLAM,U21MS,45,Main Draw,DRINKHALL Paul (ENG),CHIANG Hung-Chieh (TPE),DRINKHALL Paul
+Pro Tour China Open Suzhou 2009,2009-06-03,CHEN Szu-Yu,LITOBAKA Ammadine,4,0,,,GRAND_SLAM,WS,45,Qualification,CHEN Szu-Yu (TPE),LITOBAKA Ammadine (COD),CHEN Szu-Yu
+Pro Tour China Open Suzhou 2009,2009-06-03,YU Mengyu,LITOBAKA Ammadine,4,0,,,GRAND_SLAM,WS,45,Qualification,YU Mengyu (SGP),LITOBAKA Ammadine (COD),YU Mengyu
+Pro Tour China Open Suzhou 2009,2009-06-03,YU Mengyu,CHEN Szu-Yu,4,1,"6,11,11,11,11|11,3,8,8,5",,GRAND_SLAM,WS,45,Qualification,YU Mengyu (SGP),CHEN Szu-Yu (TPE),YU Mengyu
+Pro Tour China Open Suzhou 2009,2009-06-03,HOU Yu-Ling,LI Isabelle Siyun,4,1,"11,7,11,11,11|7,11,6,8,9",,GRAND_SLAM,WS,45,Qualification,HOU Yu-Ling (TPE),LI Isabelle Siyun (SGP),HOU Yu-Ling
+Pro Tour China Open Suzhou 2009,2009-06-03,LEE Eunhee,LI Isabelle Siyun,4,0,"11,11,11,11|5,4,3,2",,GRAND_SLAM,WS,45,Qualification,LEE Eunhee (KOR),LI Isabelle Siyun (SGP),LEE Eunhee
+Pro Tour China Open Suzhou 2009,2009-06-03,LEE Eunhee,HOU Yu-Ling,4,0,"11,11,11,11|6,3,8,9",,GRAND_SLAM,WS,45,Qualification,LEE Eunhee (KOR),HOU Yu-Ling (TPE),LEE Eunhee
+Pro Tour China Open Suzhou 2009,2009-06-03,YANG Ha Eun,LIU Yu-Hsin,4,3,"11,7,11,9,5,12,11|5,11,4,11,11,10,4",,GRAND_SLAM,WS,45,Qualification,YANG Ha Eun (KOR),LIU Yu-Hsin (TPE),YANG Ha Eun
+Pro Tour China Open Suzhou 2009,2009-06-03,LAU Sui Fei,LIU Yu-Hsin,4,0,"11,11,12,11|8,3,10,1",,GRAND_SLAM,WS,45,Qualification,LAU Sui Fei (HKG),LIU Yu-Hsin (TPE),LAU Sui Fei
+Pro Tour China Open Suzhou 2009,2009-06-03,YANG Ha Eun,LAU Sui Fei,4,3,"11,9,9,11,5,12,11|8,11,11,9,11,10,6",,GRAND_SLAM,WS,45,Qualification,YANG Ha Eun (KOR),LAU Sui Fei (HKG),YANG Ha Eun
+Pro Tour China Open Suzhou 2009,2009-06-03,HSIUNG Nai-I,SIM Kai Xin Zena,4,2,"11,11,5,11,11,11|13,9,11,8,9,5",,GRAND_SLAM,WS,45,Qualification,HSIUNG Nai-I (TPE),SIM Kai Xin Zena (SGP),HSIUNG Nai-I
+Pro Tour China Open Suzhou 2009,2009-06-03,HIURA Reiko,SIM Kai Xin Zena,4,0,"11,11,11,11|8,5,9,5",,GRAND_SLAM,WS,45,Qualification,HIURA Reiko (JPN),SIM Kai Xin Zena (SGP),HIURA Reiko
+Pro Tour China Open Suzhou 2009,2009-06-03,HIURA Reiko,HSIUNG Nai-I,4,3,"9,11,11,11,7,9,11|11,8,6,5,11,11,6",,GRAND_SLAM,WS,45,Qualification,HIURA Reiko (JPN),HSIUNG Nai-I (TPE),HIURA Reiko
+Pro Tour China Open Suzhou 2009,2009-06-03,KANG Misoon,LIU Hsing-Yin,4,2,"2,13,11,11,10,11|11,11,7,8,12,7",,GRAND_SLAM,WS,45,Qualification,KANG Misoon (KOR),LIU Hsing-Yin (TPE),KANG Misoon
+Pro Tour China Open Suzhou 2009,2009-06-03,SUN Jin,KANG Misoon,4,1,"13,14,11,11,11|11,16,4,8,8",,GRAND_SLAM,WS,45,Qualification,SUN Jin (HKG),KANG Misoon (KOR),SUN Jin
+Pro Tour China Open Suzhou 2009,2009-06-03,LIU Hsing-Yin,SUN Jin,4,3,"11,11,5,2,3,13,11|8,3,11,11,11,11,8",,GRAND_SLAM,WS,45,Qualification,LIU Hsing-Yin (TPE),SUN Jin (HKG),LIU Hsing-Yin
+Pro Tour China Open Suzhou 2009,2009-06-03,LIN Chia-Hui,MONGONDI Dacha,4,0,,,GRAND_SLAM,WS,45,Qualification,LIN Chia-Hui (TPE),MONGONDI Dacha (COD),LIN Chia-Hui
+Pro Tour China Open Suzhou 2009,2009-06-03,LI Qiangbing,MONGONDI Dacha,4,0,,,GRAND_SLAM,WS,45,Qualification,LI Qiangbing (AUT),MONGONDI Dacha (COD),LI Qiangbing
+Pro Tour China Open Suzhou 2009,2009-06-03,LI Qiangbing,LIN Chia-Hui,4,1,"11,11,8,11,11|9,9,11,3,6",,GRAND_SLAM,WS,45,Qualification,LI Qiangbing (AUT),LIN Chia-Hui (TPE),LI Qiangbing
+Pro Tour China Open Suzhou 2009,2009-06-03,CHO Hala,LOMBO Faty,4,0,,,GRAND_SLAM,WS,45,Qualification,CHO Hala (KOR),LOMBO Faty (COD),CHO Hala
+Pro Tour China Open Suzhou 2009,2009-06-03,LI Xiaodan,LOMBO Faty,4,0,,,GRAND_SLAM,WS,45,Qualification,LI Xiaodan (CHN),LOMBO Faty (COD),LI Xiaodan
+Pro Tour China Open Suzhou 2009,2009-06-03,LI Xiaodan,CHO Hala,4,0,"11,11,11,11|8,3,9,2",,GRAND_SLAM,WS,45,Qualification,LI Xiaodan (CHN),CHO Hala (KOR),LI Xiaodan
+Pro Tour China Open Suzhou 2009,2009-06-03,HAN Hye Song,SIBLEY Kelly,4,1,"11,11,11,6,11|6,2,8,11,8",,GRAND_SLAM,WS,45,Qualification,HAN Hye Song (PRK),SIBLEY Kelly (ENG),HAN Hye Song
+Pro Tour China Open Suzhou 2009,2009-06-03,HAN Hye Song,SEOK Hajung,4,2,"11,12,11,6,15,11|7,14,4,11,13,8",,GRAND_SLAM,WS,45,Qualification,HAN Hye Song (PRK),SEOK Hajung (KOR),HAN Hye Song
+Pro Tour China Open Suzhou 2009,2009-06-03,SEOK Hajung,SIBLEY Kelly,4,0,"11,11,11,11|6,7,9,4",,GRAND_SLAM,WS,45,Qualification,SEOK Hajung (KOR),SIBLEY Kelly (ENG),SEOK Hajung
+Pro Tour China Open Suzhou 2009,2009-06-03,SHIM Serom,CHINBAT Nomin-Erdene,4,0,,,GRAND_SLAM,WS,45,Qualification,SHIM Serom (KOR),CHINBAT Nomin-Erdene (MGL),SHIM Serom
+Pro Tour China Open Suzhou 2009,2009-06-03,ISHIKAWA Kasumi,CHINBAT Nomin-Erdene,4,0,,,GRAND_SLAM,WS,45,Qualification,ISHIKAWA Kasumi (JPN),CHINBAT Nomin-Erdene (MGL),ISHIKAWA Kasumi
+Pro Tour China Open Suzhou 2009,2009-06-03,ISHIKAWA Kasumi,SHIM Serom,4,1,"11,3,11,11,11|2,11,4,8,8",,GRAND_SLAM,WS,45,Qualification,ISHIKAWA Kasumi (JPN),SHIM Serom (KOR),ISHIKAWA Kasumi
+Pro Tour China Open Suzhou 2009,2009-06-03,PARK Youngsook,NZANGANI Cyntia,4,0,,,GRAND_SLAM,WS,45,Qualification,PARK Youngsook (KOR),NZANGANI Cyntia (COD),PARK Youngsook
+Pro Tour China Open Suzhou 2009,2009-06-03,ZHANG Rui,NZANGANI Cyntia,4,0,,,GRAND_SLAM,WS,45,Qualification,ZHANG Rui (HKG),NZANGANI Cyntia (COD),ZHANG Rui
+Pro Tour China Open Suzhou 2009,2009-06-03,PARK Youngsook,ZHANG Rui,4,3,"17,3,15,5,12,11,11|15,11,13,11,14,9,7",,GRAND_SLAM,WS,45,Qualification,PARK Youngsook (KOR),ZHANG Rui (HKG),PARK Youngsook
+Pro Tour China Open Suzhou 2009,2009-06-03,KIM Hye Song,YU Kwok See,4,1,"11,11,9,11,11|6,8,11,5,7",,GRAND_SLAM,WS,45,Qualification,KIM Hye Song (PRK),YU Kwok See (HKG),KIM Hye Song
+Pro Tour China Open Suzhou 2009,2009-06-03,KIM Hye Song,SUH Hyo Won,4,2,"3,11,11,14,3,11|11,9,1,12,11,5",,GRAND_SLAM,WS,45,Qualification,KIM Hye Song (PRK),SUH Hyo Won (KOR),KIM Hye Song
+Pro Tour China Open Suzhou 2009,2009-06-03,YU Kwok See,SUH Hyo Won,4,3,"11,8,8,8,11,12,11|6,11,11,11,5,10,6",,GRAND_SLAM,WS,45,Qualification,YU Kwok See (HKG),SUH Hyo Won (KOR),YU Kwok See
+Pro Tour China Open Suzhou 2009,2009-06-03,DRINKHALL Joanna,SIM Yun Hui,4,2,"5,11,4,11,11,11|11,5,11,4,7,7",,GRAND_SLAM,WS,45,Qualification,DRINKHALL Joanna (ENG),SIM Yun Hui (PRK),DRINKHALL Joanna
+Pro Tour China Open Suzhou 2009,2009-06-03,KIM Junghyun,DRINKHALL Joanna,4,3,"11,9,7,8,11,11,12|8,11,11,11,8,6,10",,GRAND_SLAM,WS,45,Qualification,KIM Junghyun (KOR),DRINKHALL Joanna (ENG),KIM Junghyun
+Pro Tour China Open Suzhou 2009,2009-06-03,CHOI Moonyoung,MA Minglu,4,0,"11,11,12,11|6,8,10,5",,GRAND_SLAM,WS,45,Qualification,CHOI Moonyoung (KOR),MA Minglu (SGP),CHOI Moonyoung
+Pro Tour China Open Suzhou 2009,2009-06-03,CHENG I-Ching,MA Minglu,4,2,"11,11,8,11,11,11|8,7,11,4,13,5",,GRAND_SLAM,WS,45,Qualification,CHENG I-Ching (TPE),MA Minglu (SGP),CHENG I-Ching
+Pro Tour China Open Suzhou 2009,2009-06-03,CHOI Moonyoung,CHENG I-Ching,4,2,"6,6,11,16,11,11|11,11,6,14,4,2",,GRAND_SLAM,WS,45,Qualification,CHOI Moonyoung (KOR),CHENG I-Ching (TPE),CHOI Moonyoung
+Pro Tour China Open Suzhou 2009,2009-06-03,GUO Yue,HOU Yu-Ling,4,0,"11,11,11,11|5,6,8,3",R32,GRAND_SLAM,WS,45,Main Draw,GUO Yue (CHN),HOU Yu-Ling (TPE),GUO Yue
+Pro Tour China Open Suzhou 2009,2009-06-03,HIRANO Sayaka,KIM Hye Song,4,3,"6,11,8,11,8,11,11|11,4,11,7,11,8,6",R32,GRAND_SLAM,WS,45,Main Draw,HIRANO Sayaka (JPN),KIM Hye Song (PRK),HIRANO Sayaka
+Pro Tour China Open Suzhou 2009,2009-06-03,DING Ning,KIM Junghyun,4,0,"11,11,11,11|5,5,1,8",R32,GRAND_SLAM,WS,45,Main Draw,DING Ning (CHN),KIM Junghyun (KOR),DING Ning
+Pro Tour China Open Suzhou 2009,2009-06-03,JIANG Huajun,HIURA Reiko,4,2,"11,11,4,7,11,11|9,9,11,11,8,5",R32,GRAND_SLAM,WS,45,Main Draw,JIANG Huajun (HKG),HIURA Reiko (JPN),JIANG Huajun
+Pro Tour China Open Suzhou 2009,2009-06-03,KIM Kyungah,HAN Hye Song,4,1,"7,11,12,11,11|11,9,10,7,9",R32,GRAND_SLAM,WS,45,Main Draw,KIM Kyungah (KOR),HAN Hye Song (PRK),KIM Kyungah
+Pro Tour China Open Suzhou 2009,2009-06-03,FUKUHARA Ai,PARK Youngsook,4,2,"12,11,5,10,11,11|10,7,11,12,5,9",R32,GRAND_SLAM,WS,45,Main Draw,FUKUHARA Ai (JPN),PARK Youngsook (KOR),FUKUHARA Ai
+Pro Tour China Open Suzhou 2009,2009-06-03,CHOI Moonyoung,SUN Beibei,4,1,"13,14,2,11,11|11,12,11,3,3",R32,GRAND_SLAM,WS,45,Main Draw,CHOI Moonyoung (KOR),SUN Beibei (SGP),CHOI Moonyoung
+Pro Tour China Open Suzhou 2009,2009-06-03,FENG Tianwei,LIN Chia-Hui,4,0,"11,11,11,11|8,5,7,4",R32,GRAND_SLAM,WS,45,Main Draw,FENG Tianwei (SGP),LIN Chia-Hui (TPE),FENG Tianwei
+Pro Tour China Open Suzhou 2009,2009-06-03,YU Mengyu,GUO Yan (1982),4,2,"11,4,11,11,8,11|8,11,6,9,11,7",R32,GRAND_SLAM,WS,45,Main Draw,YU Mengyu (SGP),GUO Yan (1982) (CHN),YU Mengyu
+Pro Tour China Open Suzhou 2009,2009-06-03,PARK Miyoung,SUN Jin,4,0,"11,16,11,11|7,14,7,8",R32,GRAND_SLAM,WS,45,Main Draw,PARK Miyoung (KOR),SUN Jin (HKG),PARK Miyoung
+Pro Tour China Open Suzhou 2009,2009-06-03,LI Jie,LI Qiangbing,4,0,"14,11,11,11|12,6,8,8",R32,GRAND_SLAM,WS,45,Main Draw,LI Jie (NED),LI Qiangbing (AUT),LI Jie
+Pro Tour China Open Suzhou 2009,2009-06-03,LIU Shiwen,ISHIKAWA Kasumi,4,0,"11,13,11,11|5,11,8,9",R32,GRAND_SLAM,WS,45,Main Draw,LIU Shiwen (CHN),ISHIKAWA Kasumi (JPN),LIU Shiwen
+Pro Tour China Open Suzhou 2009,2009-06-03,TIE Yana,YANG Ha Eun,4,2,"9,11,5,11,11,11|11,4,11,2,6,4",R32,GRAND_SLAM,WS,45,Main Draw,TIE Yana (HKG),YANG Ha Eun (KOR),TIE Yana
+Pro Tour China Open Suzhou 2009,2009-06-03,LI Xiaodan,LIN Ling,4,0,"11,11,11,11|9,8,4,4",R32,GRAND_SLAM,WS,45,Main Draw,LI Xiaodan (CHN),LIN Ling (HKG),LI Xiaodan
+Pro Tour China Open Suzhou 2009,2009-06-03,LI Jiao,LEE Eunhee,4,2,"11,5,11,5,11,11|8,11,8,11,6,8",R32,GRAND_SLAM,WS,45,Main Draw,LI Jiao (NED),LEE Eunhee (KOR),LI Jiao
+Pro Tour China Open Suzhou 2009,2009-06-03,LI Xiaoxia,CHENG I-Ching,4,0,"11,11,11,11|5,6,6,7",R32,GRAND_SLAM,WS,45,Main Draw,LI Xiaoxia (CHN),CHENG I-Ching (TPE),LI Xiaoxia
+Pro Tour China Open Suzhou 2009,2009-06-03,GUO Yue,HIRANO Sayaka,4,0,"11,11,11,11|3,2,9,6",R16,GRAND_SLAM,WS,45,Main Draw,GUO Yue (CHN),HIRANO Sayaka (JPN),GUO Yue
+Pro Tour China Open Suzhou 2009,2009-06-03,DING Ning,JIANG Huajun,4,0,"11,11,11,11|6,5,9,6",R16,GRAND_SLAM,WS,45,Main Draw,DING Ning (CHN),JIANG Huajun (HKG),DING Ning
+Pro Tour China Open Suzhou 2009,2009-06-03,KIM Kyungah,FUKUHARA Ai,4,2,"5,6,12,11,12,11|11,11,10,7,10,6",R16,GRAND_SLAM,WS,45,Main Draw,KIM Kyungah (KOR),FUKUHARA Ai (JPN),KIM Kyungah
+Pro Tour China Open Suzhou 2009,2009-06-03,FENG Tianwei,CHOI Moonyoung,4,1,"11,11,11,12,11|6,7,8,14,8",R16,GRAND_SLAM,WS,45,Main Draw,FENG Tianwei (SGP),CHOI Moonyoung (KOR),FENG Tianwei
+Pro Tour China Open Suzhou 2009,2009-06-03,PARK Miyoung,YU Mengyu,4,1,"11,11,11,9,11|5,8,2,11,6",R16,GRAND_SLAM,WS,45,Main Draw,PARK Miyoung (KOR),YU Mengyu (SGP),PARK Miyoung
+Pro Tour China Open Suzhou 2009,2009-06-03,LIU Shiwen,LI Jie,4,1,"11,11,11,7,11|3,8,5,11,3",R16,GRAND_SLAM,WS,45,Main Draw,LIU Shiwen (CHN),LI Jie (NED),LIU Shiwen
+Pro Tour China Open Suzhou 2009,2009-06-03,LI Xiaodan,TIE Yana,4,1,"11,11,11,11,11|5,7,9,13,8",R16,GRAND_SLAM,WS,45,Main Draw,LI Xiaodan (CHN),TIE Yana (HKG),LI Xiaodan
+Pro Tour China Open Suzhou 2009,2009-06-03,LI Xiaoxia,LI Jiao,4,0,"11,11,11,11|3,6,7,4",R16,GRAND_SLAM,WS,45,Main Draw,LI Xiaoxia (CHN),LI Jiao (NED),LI Xiaoxia
+Pro Tour China Open Suzhou 2009,2009-06-03,GUO Yue,DING Ning,4,1,"11,13,11,4,11|7,11,3,11,2",QF,GRAND_SLAM,WS,45,Main Draw,GUO Yue (CHN),DING Ning (CHN),GUO Yue
+Pro Tour China Open Suzhou 2009,2009-06-03,KIM Kyungah,FENG Tianwei,4,1,"11,11,9,12,11|9,9,11,10,3",QF,GRAND_SLAM,WS,45,Main Draw,KIM Kyungah (KOR),FENG Tianwei (SGP),KIM Kyungah
+Pro Tour China Open Suzhou 2009,2009-06-03,LIU Shiwen,PARK Miyoung,4,1,"11,5,11,11,11|4,11,4,8,7",QF,GRAND_SLAM,WS,45,Main Draw,LIU Shiwen (CHN),PARK Miyoung (KOR),LIU Shiwen
+Pro Tour China Open Suzhou 2009,2009-06-03,LI Xiaoxia,LI Xiaodan,4,1,"11,9,11,11,11|9,11,3,7,5",QF,GRAND_SLAM,WS,45,Main Draw,LI Xiaoxia (CHN),LI Xiaodan (CHN),LI Xiaoxia
+Pro Tour China Open Suzhou 2009,2009-06-03,GUO Yue,KIM Kyungah,4,0,"11,11,13,11|8,6,11,6",SF,GRAND_SLAM,WS,45,Main Draw,GUO Yue (CHN),KIM Kyungah (KOR),GUO Yue
+Pro Tour China Open Suzhou 2009,2009-06-03,LIU Shiwen,LI Xiaoxia,4,1,"11,11,10,11,11|7,7,12,7,9",SF,GRAND_SLAM,WS,45,Main Draw,LIU Shiwen (CHN),LI Xiaoxia (CHN),LIU Shiwen
+Pro Tour China Open Suzhou 2009,2009-06-03,LIU Shiwen,GUO Yue,4,2,"11,11,12,14,8,11|9,9,14,12,11,7",F,GRAND_SLAM,WS,45,Main Draw,LIU Shiwen (CHN),GUO Yue (CHN),LIU Shiwen
+Pro Tour China Open Suzhou 2009,2009-06-03,CHEN Szu-Yu,HAN Hye Song,3,0,,,GRAND_SLAM,U21WS,45,Qualification,CHEN Szu-Yu (TPE),HAN Hye Song (PRK),CHEN Szu-Yu
+Pro Tour China Open Suzhou 2009,2009-06-03,CHEN Szu-Yu,CHINBAT Nomin-Erdene,3,0,,,GRAND_SLAM,U21WS,45,Qualification,CHEN Szu-Yu (TPE),CHINBAT Nomin-Erdene (MGL),CHEN Szu-Yu
+Pro Tour China Open Suzhou 2009,2009-06-03,KANG Misoon,SIM Kai Xin Zena,3,0,"11,11,11|3,9,4",,GRAND_SLAM,U21WS,45,Qualification,KANG Misoon (KOR),SIM Kai Xin Zena (SGP),KANG Misoon
+Pro Tour China Open Suzhou 2009,2009-06-03,SIM Kai Xin Zena,NZANGANI Cyntia,3,0,,,GRAND_SLAM,U21WS,45,Qualification,SIM Kai Xin Zena (SGP),NZANGANI Cyntia (COD),SIM Kai Xin Zena
+Pro Tour China Open Suzhou 2009,2009-06-03,KANG Misoon,NZANGANI Cyntia,3,0,,,GRAND_SLAM,U21WS,45,Qualification,KANG Misoon (KOR),NZANGANI Cyntia (COD),KANG Misoon
+Pro Tour China Open Suzhou 2009,2009-06-03,KIM Hye Song,LI Isabelle Siyun,3,0,"11,12,11|9,10,3",,GRAND_SLAM,U21WS,45,Qualification,KIM Hye Song (PRK),LI Isabelle Siyun (SGP),KIM Hye Song
+Pro Tour China Open Suzhou 2009,2009-06-03,LI Isabelle Siyun,MONGONDI Dacha,3,0,,,GRAND_SLAM,U21WS,45,Qualification,LI Isabelle Siyun (SGP),MONGONDI Dacha (COD),LI Isabelle Siyun
+Pro Tour China Open Suzhou 2009,2009-06-03,KIM Hye Song,MONGONDI Dacha,3,0,,,GRAND_SLAM,U21WS,45,Qualification,KIM Hye Song (PRK),MONGONDI Dacha (COD),KIM Hye Song
+Pro Tour China Open Suzhou 2009,2009-06-03,LIU Yu-Hsin,MA Minglu,3,1,"12,5,11,12|10,11,9,10",,GRAND_SLAM,U21WS,45,Qualification,LIU Yu-Hsin (TPE),MA Minglu (SGP),LIU Yu-Hsin
+Pro Tour China Open Suzhou 2009,2009-06-03,SIM Yun Hui,LITOBAKA Ammadine,3,0,,,GRAND_SLAM,U21WS,45,Qualification,SIM Yun Hui (PRK),LITOBAKA Ammadine (COD),SIM Yun Hui
+Pro Tour China Open Suzhou 2009,2009-06-03,LIU Yu-Hsin,LITOBAKA Ammadine,3,0,,,GRAND_SLAM,U21WS,45,Qualification,LIU Yu-Hsin (TPE),LITOBAKA Ammadine (COD),LIU Yu-Hsin
+Pro Tour China Open Suzhou 2009,2009-06-03,MA Minglu,SIM Yun Hui,3,0,"11,12,12|7,10,10",,GRAND_SLAM,U21WS,45,Qualification,MA Minglu (SGP),SIM Yun Hui (PRK),MA Minglu
+Pro Tour China Open Suzhou 2009,2009-06-03,MA Minglu,LITOBAKA Ammadine,3,0,,,GRAND_SLAM,U21WS,45,Qualification,MA Minglu (SGP),LITOBAKA Ammadine (COD),MA Minglu
+Pro Tour China Open Suzhou 2009,2009-06-03,SIM Yun Hui,LIU Yu-Hsin,3,0,"11,11,11|9,4,7",,GRAND_SLAM,U21WS,45,Qualification,SIM Yun Hui (PRK),LIU Yu-Hsin (TPE),SIM Yun Hui
+Pro Tour China Open Suzhou 2009,2009-06-03,YU Mengyu,LIU Yu-Hsin,4,0,"11,11,11,11|3,3,2,5",R16,GRAND_SLAM,U21WS,45,Main Draw,YU Mengyu (SGP),LIU Yu-Hsin (TPE),YU Mengyu
+Pro Tour China Open Suzhou 2009,2009-06-03,CHEN Szu-Yu,SIBLEY Kelly,4,2,"5,11,11,11,9,11|11,6,6,9,11,9",R16,GRAND_SLAM,U21WS,45,Main Draw,CHEN Szu-Yu (TPE),SIBLEY Kelly (ENG),CHEN Szu-Yu
+Pro Tour China Open Suzhou 2009,2009-06-03,KIM Hye Song,YANG Ha Eun,4,3,"8,3,17,6,11,11,11|11,11,15,11,3,8,5",R16,GRAND_SLAM,U21WS,45,Main Draw,KIM Hye Song (PRK),YANG Ha Eun (KOR),KIM Hye Song
+Pro Tour China Open Suzhou 2009,2009-06-03,CHO Hala,SIM Kai Xin Zena,4,1,"7,11,11,11,11|11,5,8,7,2",R16,GRAND_SLAM,U21WS,45,Main Draw,CHO Hala (KOR),SIM Kai Xin Zena (SGP),CHO Hala
+Pro Tour China Open Suzhou 2009,2009-06-03,SIM Yun Hui,PARK Youngsook,4,1,"5,12,13,11,11|11,10,11,4,9",R16,GRAND_SLAM,U21WS,45,Main Draw,SIM Yun Hui (PRK),PARK Youngsook (KOR),SIM Yun Hui
+Pro Tour China Open Suzhou 2009,2009-06-03,HSIUNG Nai-I,MA Minglu,4,0,"11,11,11,11|9,7,7,7",R16,GRAND_SLAM,U21WS,45,Main Draw,HSIUNG Nai-I (TPE),MA Minglu (SGP),HSIUNG Nai-I
+Pro Tour China Open Suzhou 2009,2009-06-03,KANG Misoon,HOU Yu-Ling,4,2,"11,7,11,11,12,11|9,11,7,6,14,8",R16,GRAND_SLAM,U21WS,45,Main Draw,KANG Misoon (KOR),HOU Yu-Ling (TPE),KANG Misoon
+Pro Tour China Open Suzhou 2009,2009-06-03,CHENG I-Ching,LI Isabelle Siyun,4,2,"11,8,11,11,9,11|6,11,4,2,11,9",R16,GRAND_SLAM,U21WS,45,Main Draw,CHENG I-Ching (TPE),LI Isabelle Siyun (SGP),CHENG I-Ching
+Pro Tour China Open Suzhou 2009,2009-06-03,KIM Hye Song,CHO Hala,4,0,"11,11,11,11|8,8,6,7",QF,GRAND_SLAM,U21WS,45,Main Draw,KIM Hye Song (PRK),CHO Hala (KOR),KIM Hye Song
+Pro Tour China Open Suzhou 2009,2009-06-03,HSIUNG Nai-I,SIM Yun Hui,4,1,"11,11,11,8,11|8,8,4,11,6",QF,GRAND_SLAM,U21WS,45,Main Draw,HSIUNG Nai-I (TPE),SIM Yun Hui (PRK),HSIUNG Nai-I
+Pro Tour China Open Suzhou 2009,2009-06-03,CHENG I-Ching,KANG Misoon,4,1,"11,11,13,3,12|9,6,11,11,10",QF,GRAND_SLAM,U21WS,45,Main Draw,CHENG I-Ching (TPE),KANG Misoon (KOR),CHENG I-Ching
+Pro Tour China Open Suzhou 2009,2009-06-03,YU Mengyu,KIM Hye Song,4,1,"14,11,11,6,12|12,4,8,11,10",SF,GRAND_SLAM,U21WS,45,Main Draw,YU Mengyu (SGP),KIM Hye Song (PRK),YU Mengyu
+Pro Tour China Open Suzhou 2009,2009-06-03,CHENG I-Ching,HSIUNG Nai-I,4,3,"11,5,9,6,11,11,11|7,11,11,11,3,4,8",SF,GRAND_SLAM,U21WS,45,Main Draw,CHENG I-Ching (TPE),HSIUNG Nai-I (TPE),CHENG I-Ching
+Pro Tour China Open Suzhou 2009,2009-06-03,YU Mengyu,CHENG I-Ching,4,1,"11,11,11,9,11|3,6,4,11,7",F,GRAND_SLAM,U21WS,45,Main Draw,YU Mengyu (SGP),CHENG I-Ching (TPE),YU Mengyu
+Pro Tour China Open Suzhou 2009,2009-06-03,XU Xin/ZHANG Jike,KEINATH Thomas/STEGER Bastian,4,1,"11,11,11,9,11|8,6,9,11,3",R16,GRAND_SLAM,MD,45,Main Draw,XU Xin (CHN) / ZHANG Jike (CHN),KEINATH Thomas (SVK) / STEGER Bastian (GER),XU Xin
+Pro Tour China Open Suzhou 2009,2009-06-03,CHEN Qi/MA Long,CHEUNG Yuk/LI Ching,4,2,"14,13,11,11,11,11|16,15,7,5,8,8",R16,GRAND_SLAM,MD,45,Main Draw,CHEN Qi (CHN) / MA Long (CHN),CHEUNG Yuk (HKG) / LI Ching (HKG),CHEN Qi
+Pro Tour China Open Suzhou 2009,2009-06-03,XU Xin/ZHANG Jike,CHEN Qi/MA Long,4,3,"12,10,11,10,7,11,11|10,12,7,12,11,5,8",SF,GRAND_SLAM,MD,45,Main Draw,XU Xin (CHN) / ZHANG Jike (CHN),CHEN Qi (CHN) / MA Long (CHN),XU Xin
+Pro Tour China Open Suzhou 2009,2009-06-03,CHEN Qi/MA Long,GAUZY Simon/LORENTZ Romain,3,0,"11,11,11|7,4,4",QR16,GRAND_SLAM,MD,45,Qualification,CHEN Qi (CHN) / MA Long (CHN),GAUZY Simon (FRA) / LORENTZ Romain (FRA),CHEN Qi
+Pro Tour China Open Suzhou 2009,2009-06-03,GAUZY Simon/LORENTZ Romain,BABUNGU Bomboko/BOLA Christian,3,0,,QR32,GRAND_SLAM,MD,45,Qualification,GAUZY Simon (FRA) / LORENTZ Romain (FRA),BABUNGU Bomboko (COD) / BOLA Christian (COD),GAUZY Simon
+Pro Tour China Open Suzhou 2009,2009-06-03,BAUM Patrick/HIELSCHER Lars,MATSUDAIRA Kenta/NIWA Koki,4,3,"7,7,11,11,7,11,12|11,11,8,4,11,8,10",R16,GRAND_SLAM,MD,45,Main Draw,BAUM Patrick (GER) / HIELSCHER Lars (GER),MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN),BAUM Patrick
+Pro Tour China Open Suzhou 2009,2009-06-03,FEJER-KONNERTH Zoltan/WOSIK Torben,OH Sangeun/YOON Jaeyoung,4,1,"12,11,6,13,11|10,8,11,11,6",R16,GRAND_SLAM,MD,45,Main Draw,FEJER-KONNERTH Zoltan (GER) / WOSIK Torben (GER),OH Sangeun (KOR) / YOON Jaeyoung (KOR),FEJER-KONNERTH Zoltan
+Pro Tour China Open Suzhou 2009,2009-06-03,BAUM Patrick/HIELSCHER Lars,FEJER-KONNERTH Zoltan/WOSIK Torben,4,3,"11,4,11,3,11,9,11|8,11,2,11,9,11,9",QF,GRAND_SLAM,MD,45,Main Draw,BAUM Patrick (GER) / HIELSCHER Lars (GER),FEJER-KONNERTH Zoltan (GER) / WOSIK Torben (GER),BAUM Patrick
+Pro Tour China Open Suzhou 2009,2009-06-03,FEJER-KONNERTH Zoltan/WOSIK Torben,BIZAKU Jonathan/KIWAYA Varlin,3,0,,QR16,GRAND_SLAM,MD,45,Qualification,FEJER-KONNERTH Zoltan (GER) / WOSIK Torben (GER),BIZAKU Jonathan (COD) / KIWAYA Varlin (COD),FEJER-KONNERTH Zoltan
+Pro Tour China Open Suzhou 2009,2009-06-03,JIANG Tianyi/LEUNG Chu Yan,KIM Nam Chol/RI Chol Guk,4,3,"11,13,9,11,7,6,11|6,11,11,9,11,11,9",R16,GRAND_SLAM,MD,45,Main Draw,JIANG Tianyi (HKG) / LEUNG Chu Yan (HKG),KIM Nam Chol (PRK) / RI Chol Guk (PRK),JIANG Tianyi
+Pro Tour China Open Suzhou 2009,2009-06-03,XU Xin/ZHANG Jike,JIANG Tianyi/LEUNG Chu Yan,4,1,"11,6,11,11,11|5,11,2,6,9",QF,GRAND_SLAM,MD,45,Main Draw,XU Xin (CHN) / ZHANG Jike (CHN),JIANG Tianyi (HKG) / LEUNG Chu Yan (HKG),XU Xin
+Pro Tour China Open Suzhou 2009,2009-06-03,LI Kwun Ngai/TSE Ka Chun,LKHAGVADORJ Altantulga/PAN Yingjun,3,0,,QR32,GRAND_SLAM,MD,45,Qualification,LI Kwun Ngai (HKG) / TSE Ka Chun (HKG),LKHAGVADORJ Altantulga (MGL) / PAN Yingjun (MAC),LI Kwun Ngai
+Pro Tour China Open Suzhou 2009,2009-06-03,LI Kwun Ngai/TSE Ka Chun,CHO Eonrae/LEE Jinkwon,3,0,,QR16,GRAND_SLAM,MD,45,Qualification,LI Kwun Ngai (HKG) / TSE Ka Chun (HKG),CHO Eonrae (KOR) / LEE Jinkwon (KOR),LI Kwun Ngai
+Pro Tour China Open Suzhou 2009,2009-06-03,KISHIKAWA Seiya/MIZUTANI Jun,MA Lin/WANG Liqin,4,0,"12,11,11,11|10,8,3,8",R16,GRAND_SLAM,MD,45,Main Draw,KISHIKAWA Seiya (JPN) / MIZUTANI Jun (JPN),MA Lin (CHN) / WANG Liqin (CHN),KISHIKAWA Seiya
+Pro Tour China Open Suzhou 2009,2009-06-03,KISHIKAWA Seiya/MIZUTANI Jun,KIM Hyok Bong/KIM Song Nam,4,2,"11,6,5,11,11,11|8,11,11,6,5,8",QF,GRAND_SLAM,MD,45,Main Draw,KISHIKAWA Seiya (JPN) / MIZUTANI Jun (JPN),KIM Hyok Bong (PRK) / KIM Song Nam (PRK),KISHIKAWA Seiya
+Pro Tour China Open Suzhou 2009,2009-06-03,KISHIKAWA Seiya/MIZUTANI Jun,BAUM Patrick/HIELSCHER Lars,4,2,"9,11,13,11,8,13|11,9,11,4,11,11",SF,GRAND_SLAM,MD,45,Main Draw,KISHIKAWA Seiya (JPN) / MIZUTANI Jun (JPN),BAUM Patrick (GER) / HIELSCHER Lars (GER),KISHIKAWA Seiya
+Pro Tour China Open Suzhou 2009,2009-06-03,KISHIKAWA Seiya/MIZUTANI Jun,XU Xin/ZHANG Jike,4,2,"12,4,8,11,11,11|10,11,11,5,9,9",F,GRAND_SLAM,MD,45,Main Draw,KISHIKAWA Seiya (JPN) / MIZUTANI Jun (JPN),XU Xin (CHN) / ZHANG Jike (CHN),KISHIKAWA Seiya
+Pro Tour China Open Suzhou 2009,2009-06-03,KIM Hyok Bong/KIM Song Nam,CHO Jihoon/JOO Saehyuk,3,0,,QR16,GRAND_SLAM,MD,45,Qualification,KIM Hyok Bong (PRK) / KIM Song Nam (PRK),CHO Jihoon (KOR) / JOO Saehyuk (KOR),KIM Hyok Bong
+Pro Tour China Open Suzhou 2009,2009-06-03,LIU Zhongze/MA Liang,RONNEBERG Espen/WANG Bing,3,0,,QR32,GRAND_SLAM,MD,45,Qualification,LIU Zhongze (SGP) / MA Liang (SGP),RONNEBERG Espen (NOR) / WANG Bing (NOR),LIU Zhongze
+Pro Tour China Open Suzhou 2009,2009-06-03,HABESOHN Daniel/KOSOWSKI Jakub,LI Kwun Ngai/TSE Ka Chun,4,3,"11,11,11,6,10,4,11|6,3,8,11,12,11,4",R16,GRAND_SLAM,MD,45,Main Draw,HABESOHN Daniel (AUT) / KOSOWSKI Jakub (POL),LI Kwun Ngai (HKG) / TSE Ka Chun (HKG),HABESOHN Daniel
+Pro Tour China Open Suzhou 2009,2009-06-03,CHEN Qi/MA Long,HABESOHN Daniel/KOSOWSKI Jakub,4,0,"11,11,11,11|3,2,3,5",QF,GRAND_SLAM,MD,45,Main Draw,CHEN Qi (CHN) / MA Long (CHN),HABESOHN Daniel (AUT) / KOSOWSKI Jakub (POL),CHEN Qi
+Pro Tour China Open Suzhou 2009,2009-06-03,KIM Hyok Bong/KIM Song Nam,HUNG Tzu-Hsiang/WU Chih-Chi,4,0,,R16,GRAND_SLAM,MD,45,Main Draw,KIM Hyok Bong (PRK) / KIM Song Nam (PRK),HUNG Tzu-Hsiang (TPE) / WU Chih-Chi (TPE),KIM Hyok Bong
+Pro Tour China Open Suzhou 2009,2009-06-03,KIM Hyok Bong/KIM Song Nam,CHANG Shun-Hung/CHEN Chien-An,3,0,"11,11,11|6,6,5",QR32,GRAND_SLAM,MD,45,Qualification,KIM Hyok Bong (PRK) / KIM Song Nam (PRK),CHANG Shun-Hung (TPE) / CHEN Chien-An (TPE),KIM Hyok Bong
+Pro Tour China Open Suzhou 2009,2009-06-03,KIM Nam Chol/RI Chol Guk,FEGERL Stefan/FENG Xiaoquan,3,0,"11,11,17|5,6,15",QR32,GRAND_SLAM,MD,45,Qualification,KIM Nam Chol (PRK) / RI Chol Guk (PRK),FEGERL Stefan (AUT) / FENG Xiaoquan (AUT),KIM Nam Chol
+Pro Tour China Open Suzhou 2009,2009-06-03,DRINKHALL Paul/RUMGAY Gavin,ALAMIYAN Noshad/CHEN Weixing,3,0,,QR32,GRAND_SLAM,MD,45,Qualification,DRINKHALL Paul (ENG) / RUMGAY Gavin (SCO),ALAMIYAN Noshad (IRI) / CHEN Weixing (AUT),DRINKHALL Paul
+Pro Tour China Open Suzhou 2009,2009-06-03,XU Xin/ZHANG Jike,DRINKHALL Paul/RUMGAY Gavin,3,0,"11,11,11|7,3,3",QR16,GRAND_SLAM,MD,45,Qualification,XU Xin (CHN) / ZHANG Jike (CHN),DRINKHALL Paul (ENG) / RUMGAY Gavin (SCO),XU Xin
+Pro Tour China Open Suzhou 2009,2009-06-03,MA Lin/WANG Liqin,CHEW Clarence/TAY Jit Kiat,3,0,"11,11,11|4,1,4",QR16,GRAND_SLAM,MD,45,Qualification,MA Lin (CHN) / WANG Liqin (CHN),CHEW Clarence (SGP) / TAY Jit Kiat (SGP),MA Lin
+Pro Tour China Open Suzhou 2009,2009-06-03,MATSUDAIRA Kenta/NIWA Koki,LIU Zhongze/MA Liang,3,0,"11,11,12|2,3,10",QR16,GRAND_SLAM,MD,45,Qualification,MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN),LIU Zhongze (SGP) / MA Liang (SGP),MATSUDAIRA Kenta
+Pro Tour China Open Suzhou 2009,2009-06-03,KIM Nam Chol/RI Chol Guk,CHIANG Hung-Chieh/HUANG Sheng-Sheng,3,1,"13,11,11,11|15,6,7,8",QR16,GRAND_SLAM,MD,45,Qualification,KIM Nam Chol (PRK) / RI Chol Guk (PRK),CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE),KIM Nam Chol
+Pro Tour China Open Suzhou 2009,2009-06-03,GUO Yue/LI Xiaoxia,LIN Ling/ZHANG Rui,4,1,"11,11,7,11,11|6,7,11,5,8",R16,GRAND_SLAM,WD,45,Main Draw,GUO Yue (CHN) / LI Xiaoxia (CHN),LIN Ling (HKG) / ZHANG Rui (HKG),GUO Yue
+Pro Tour China Open Suzhou 2009,2009-06-03,LI Xiaodan/LIU Shiwen,KIM Junghyun/LEE Eunhee,4,1,"11,11,11,4,11|9,8,6,11,8",R16,GRAND_SLAM,WD,45,Main Draw,LI Xiaodan (CHN) / LIU Shiwen (CHN),KIM Junghyun (KOR) / LEE Eunhee (KOR),LI Xiaodan
+Pro Tour China Open Suzhou 2009,2009-06-03,DING Ning/GUO Yan (1982),SUN Beibei/YU Mengyu,4,0,"11,11,16,12|5,8,14,10",QF,GRAND_SLAM,WD,45,Main Draw,DING Ning (CHN) / GUO Yan (1982) (CHN),SUN Beibei (SGP) / YU Mengyu (SGP),DING Ning
+Pro Tour China Open Suzhou 2009,2009-06-03,LI Xiaodan/LIU Shiwen,FUKUHARA Ai/ISHIKAWA Kasumi,4,2,"7,7,11,11,12,11|11,11,2,5,10,4",QF,GRAND_SLAM,WD,45,Main Draw,LI Xiaodan (CHN) / LIU Shiwen (CHN),FUKUHARA Ai (JPN) / ISHIKAWA Kasumi (JPN),LI Xiaodan
+Pro Tour China Open Suzhou 2009,2009-06-03,GUO Yue/LI Xiaoxia,DING Ning/GUO Yan (1982),4,0,"11,11,11,11|8,6,9,7",SF,GRAND_SLAM,WD,45,Main Draw,GUO Yue (CHN) / LI Xiaoxia (CHN),DING Ning (CHN) / GUO Yan (1982) (CHN),GUO Yue
+Pro Tour China Open Suzhou 2009,2009-06-03,LI Xiaodan/LIU Shiwen,KIM Kyungah/PARK Miyoung,4,1,"8,11,11,11,11|11,7,8,8,8",SF,GRAND_SLAM,WD,45,Main Draw,LI Xiaodan (CHN) / LIU Shiwen (CHN),KIM Kyungah (KOR) / PARK Miyoung (KOR),LI Xiaodan
+Pro Tour China Open Suzhou 2009,2009-06-03,GUO Yue/LI Xiaoxia,LI Xiaodan/LIU Shiwen,4,1,"7,11,11,11,12|11,7,4,4,10",F,GRAND_SLAM,WD,45,Main Draw,GUO Yue (CHN) / LI Xiaoxia (CHN),LI Xiaodan (CHN) / LIU Shiwen (CHN),GUO Yue
+Pro Tour China Open Suzhou 2009,2009-06-03,LI Isabelle Siyun/SIM Kai Xin Zena,LOMBO Faty/NZANGANI Cyntia,3,0,,QR16,GRAND_SLAM,WD,45,Qualification,LI Isabelle Siyun (SGP) / SIM Kai Xin Zena (SGP),LOMBO Faty (COD) / NZANGANI Cyntia (COD),LI Isabelle Siyun
+Pro Tour China Open Suzhou 2009,2009-06-03,HAN Hye Song/KIM Hye Song,DRINKHALL Joanna/SIBLEY Kelly,3,0,"11,11,11|6,7,8",QR16,GRAND_SLAM,WD,45,Qualification,HAN Hye Song (PRK) / KIM Hye Song (PRK),DRINKHALL Joanna (ENG) / SIBLEY Kelly (ENG),HAN Hye Song
+Pro Tour China Open Suzhou 2009,2009-06-03,JIANG Huajun/TIE Yana,LI Isabelle Siyun/SIM Kai Xin Zena,4,1,"8,11,11,11,11|11,5,6,3,6",R16,GRAND_SLAM,WD,45,Main Draw,JIANG Huajun (HKG) / TIE Yana (HKG),LI Isabelle Siyun (SGP) / SIM Kai Xin Zena (SGP),JIANG Huajun
+Pro Tour China Open Suzhou 2009,2009-06-03,KIM Kyungah/PARK Miyoung,LAU Sui Fei/SUN Jin,4,3,"9,6,11,9,11,11,11|11,11,8,11,8,7,4",R16,GRAND_SLAM,WD,45,Main Draw,KIM Kyungah (KOR) / PARK Miyoung (KOR),LAU Sui Fei (HKG) / SUN Jin (HKG),KIM Kyungah
+Pro Tour China Open Suzhou 2009,2009-06-03,GUO Yue/LI Xiaoxia,JIANG Huajun/TIE Yana,4,0,"12,11,11,11|10,7,8,5",QF,GRAND_SLAM,WD,45,Main Draw,GUO Yue (CHN) / LI Xiaoxia (CHN),JIANG Huajun (HKG) / TIE Yana (HKG),GUO Yue
+Pro Tour China Open Suzhou 2009,2009-06-03,DING Ning/GUO Yan (1982),HIRANO Sayaka/HIURA Reiko,4,2,"8,9,11,13,11,11|11,11,8,11,5,6",R16,GRAND_SLAM,WD,45,Main Draw,DING Ning (CHN) / GUO Yan (1982) (CHN),HIRANO Sayaka (JPN) / HIURA Reiko (JPN),DING Ning
+Pro Tour China Open Suzhou 2009,2009-06-03,KIM Junghyun/LEE Eunhee,CHENG I-Ching/HSIUNG Nai-I,3,0,"14,12,11|12,10,5",QR16,GRAND_SLAM,WD,45,Qualification,KIM Junghyun (KOR) / LEE Eunhee (KOR),CHENG I-Ching (TPE) / HSIUNG Nai-I (TPE),KIM Junghyun
+Pro Tour China Open Suzhou 2009,2009-06-03,LI Jiao/LI Jie,CHEN Szu-Yu/HOU Yu-Ling,4,1,"11,10,11,12,11|4,12,6,10,3",R16,GRAND_SLAM,WD,45,Main Draw,LI Jiao (NED) / LI Jie (NED),CHEN Szu-Yu (TPE) / HOU Yu-Ling (TPE),LI Jiao
+Pro Tour China Open Suzhou 2009,2009-06-03,KIM Kyungah/PARK Miyoung,LI Jiao/LI Jie,4,1,"7,11,16,11,11|11,6,14,7,5",QF,GRAND_SLAM,WD,45,Main Draw,KIM Kyungah (KOR) / PARK Miyoung (KOR),LI Jiao (NED) / LI Jie (NED),KIM Kyungah
+Pro Tour China Open Suzhou 2009,2009-06-03,SUN Beibei/YU Mengyu,HAN Hye Song/KIM Hye Song,4,2,"7,8,15,11,11,11|11,11,13,5,7,9",R16,GRAND_SLAM,WD,45,Main Draw,SUN Beibei (SGP) / YU Mengyu (SGP),HAN Hye Song (PRK) / KIM Hye Song (PRK),SUN Beibei
+Pro Tour China Open Suzhou 2009,2009-06-03,LAU Sui Fei/SUN Jin,CHINBAT Nomin-Erdene/SIM Yun Hui,3,0,,QR16,GRAND_SLAM,WD,45,Qualification,LAU Sui Fei (HKG) / SUN Jin (HKG),CHINBAT Nomin-Erdene (MGL) / SIM Yun Hui (PRK),LAU Sui Fei
+Pro Tour China Open Suzhou 2009,2009-06-03,FUKUHARA Ai/ISHIKAWA Kasumi,LIN Chia-Hui/LIU Hsing-Yin,4,2,"11,11,4,6,11,11|9,4,11,11,7,7",R16,GRAND_SLAM,WD,45,Main Draw,FUKUHARA Ai (JPN) / ISHIKAWA Kasumi (JPN),LIN Chia-Hui (TPE) / LIU Hsing-Yin (TPE),FUKUHARA Ai
+Pro Tour China Open Suzhou 2009,2009-06-03,LIN Chia-Hui/LIU Hsing-Yin,MONGONDI Dacha/LITOBAKA Ammadine,3,0,,QR16,GRAND_SLAM,WD,45,Qualification,LIN Chia-Hui (TPE) / LIU Hsing-Yin (TPE),MONGONDI Dacha (COD) / LITOBAKA Ammadine (COD),LIN Chia-Hui
+Pro Tour China Open Suzhou 2009,2009-06-03,CHEN Szu-Yu/HOU Yu-Ling,PARK Youngsook/SEOK Hajung,3,0,"12,11,11|10,7,6",QR16,GRAND_SLAM,WD,45,Qualification,CHEN Szu-Yu (TPE) / HOU Yu-Ling (TPE),PARK Youngsook (KOR) / SEOK Hajung (KOR),CHEN Szu-Yu

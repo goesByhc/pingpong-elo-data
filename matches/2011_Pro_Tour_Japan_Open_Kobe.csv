@@ -1,297 +1,297 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Pro Tour Japan Open Kobe 2011,2011-07-07,JIN Yixiong/SONG Hongyuan,JEOUNG Youngsik/KIM Minseok,3,2,"11,10,12,9,11|9,12,10,11,6",R16,GRAND_SLAM,MD,75,Main Draw,JIN Yixiong (CHN) / SONG Hongyuan (CHN),JEOUNG Youngsik (KOR) / KIM Minseok (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,KARUBE Ryusuke/KASAHARA Hiromitsu,LIU Yi/YIN Hang,3,0,"11,11,11|3,3,9",QR16,GRAND_SLAM,MD,75,Qualification,KARUBE Ryusuke (JPN) / KASAHARA Hiromitsu (JPN),LIU Yi (CHN) / YIN Hang (CHN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,LIN Gaoyuan/WU Jiaji,KISHIKAWA Seiya/YOSHIDA Kaii,4,1,"11,11,7,11,11|9,8,11,8,7",QF,GRAND_SLAM,MD,75,Main Draw,LIN Gaoyuan (CHN) / WU Jiaji (DOM),KISHIKAWA Seiya (JPN) / YOSHIDA Kaii (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,LIN Gaoyuan/WU Jiaji,JIN Yixiong/SONG Hongyuan,4,3,"11,9,11,11,8,13,11|8,11,9,1,11,15,9",SF,GRAND_SLAM,MD,75,Main Draw,LIN Gaoyuan (CHN) / WU Jiaji (DOM),JIN Yixiong (CHN) / SONG Hongyuan (CHN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,LIN Gaoyuan/WU Jiaji,LEE Chia-Sheng/WANG LI Chung-Yi,3,0,"11,11,11|8,7,7",QR16,GRAND_SLAM,MD,75,Qualification,LIN Gaoyuan (CHN) / WU Jiaji (DOM),LEE Chia-Sheng (TPE) / WANG LI Chung-Yi (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,KISHIKAWA Seiya/YOSHIDA Kaii,FLORE Tristan/GAUZY Simon,3,2,"5,11,4,11,11|11,8,11,5,9",R16,GRAND_SLAM,MD,75,Main Draw,KISHIKAWA Seiya (JPN) / YOSHIDA Kaii (JPN),FLORE Tristan (FRA) / GAUZY Simon (FRA)
-Pro Tour Japan Open Kobe 2011,2011-07-07,FLORE Tristan/GAUZY Simon,SAKAI Asuka/YOSHIMURA Maharu,3,2,"11,13,10,4,12|9,11,12,11,10",QR16,GRAND_SLAM,MD,75,Qualification,FLORE Tristan (FRA) / GAUZY Simon (FRA),SAKAI Asuka (JPN) / YOSHIMURA Maharu (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MATSUDAIRA Kenta/NIWA Koki,KORBEL Petr/TAN Ruiwu,3,2,"5,11,7,11,11|11,6,11,4,8",R16,GRAND_SLAM,MD,75,Main Draw,MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN),KORBEL Petr (CZE) / TAN Ruiwu (CRO)
-Pro Tour Japan Open Kobe 2011,2011-07-07,CHIANG Hung-Chieh/HUANG Sheng-Sheng,OYA Hidetoshi/TAKAKIWA Taku,3,1,"9,11,11,11|11,8,8,7",R16,GRAND_SLAM,MD,75,Main Draw,CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE),OYA Hidetoshi (JPN) / TAKAKIWA Taku (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,CHAN Kazuhiro/MATSUDAIRA Kenji,HAN Jimin/LEE Jungsam,3,1,"4,11,14,11|11,5,12,6",R16,GRAND_SLAM,MD,75,Main Draw,CHAN Kazuhiro (JPN) / MATSUDAIRA Kenji (JPN),HAN Jimin (KOR) / LEE Jungsam (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MATSUDAIRA Kenta/NIWA Koki,CHIANG Hung-Chieh/HUANG Sheng-Sheng,4,2,"9,11,11,11,7,11|11,4,9,4,11,5",QF,GRAND_SLAM,MD,75,Main Draw,MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN),CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,CHAN Kazuhiro/MATSUDAIRA Kenji,RYU Seungmin/SEO Hyundeok,4,1,"11,9,11,11,11|5,11,6,7,8",QF,GRAND_SLAM,MD,75,Main Draw,CHAN Kazuhiro (JPN) / MATSUDAIRA Kenji (JPN),RYU Seungmin (KOR) / SEO Hyundeok (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MATSUDAIRA Kenta/NIWA Koki,CHAN Kazuhiro/MATSUDAIRA Kenji,4,1,"11,5,12,11,11|9,11,10,5,8",SF,GRAND_SLAM,MD,75,Main Draw,MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN),CHAN Kazuhiro (JPN) / MATSUDAIRA Kenji (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,LIN Gaoyuan/WU Jiaji,MATSUDAIRA Kenta/NIWA Koki,4,1,"11,11,9,11,11|6,9,11,7,9",F,GRAND_SLAM,MD,75,Main Draw,LIN Gaoyuan (CHN) / WU Jiaji (DOM),MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,HAN Jimin/LEE Jungsam,CHAITAT Chaisit/HOYAMA Hugo,3,0,,QR16,GRAND_SLAM,MD,75,Qualification,HAN Jimin (KOR) / LEE Jungsam (KOR),CHAITAT Chaisit (THA) / HOYAMA Hugo (BRA)
-Pro Tour Japan Open Kobe 2011,2011-07-07,RYU Seungmin/SEO Hyundeok,CHEN Feng/LI Hu,3,1,"11,11,9,11|9,9,11,2",R16,GRAND_SLAM,MD,75,Main Draw,RYU Seungmin (KOR) / SEO Hyundeok (KOR),CHEN Feng (SGP) / LI Hu (SGP)
-Pro Tour Japan Open Kobe 2011,2011-07-07,YANG Zi/ZHAN Jian,KARUBE Ryusuke/KASAHARA Hiromitsu,3,1,"11,11,11,11|8,13,8,9",R16,GRAND_SLAM,MD,75,Main Draw,YANG Zi (SGP) / ZHAN Jian (SGP),KARUBE Ryusuke (JPN) / KASAHARA Hiromitsu (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,JIN Yixiong/SONG Hongyuan,YANG Zi/ZHAN Jian,4,0,"11,11,11,11|8,7,8,4",QF,GRAND_SLAM,MD,75,Main Draw,JIN Yixiong (CHN) / SONG Hongyuan (CHN),YANG Zi (SGP) / ZHAN Jian (SGP)
-Pro Tour Japan Open Kobe 2011,2011-07-07,LIN Gaoyuan/WU Jiaji,CHUANG Chih-Yuan/WU Chih-Chi,3,2,"11,6,11,8,11|8,11,5,11,9",R16,GRAND_SLAM,MD,75,Main Draw,LIN Gaoyuan (CHN) / WU Jiaji (DOM),CHUANG Chih-Yuan (TPE) / WU Chih-Chi (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MIZUTANI Jun,CHEN Feng,4,0,"11,11,13,11|5,4,11,4",R32,GRAND_SLAM,MS,75,Main Draw,MIZUTANI Jun (JPN),CHEN Feng (SGP)
-Pro Tour Japan Open Kobe 2011,2011-07-07,KORBEL Petr,KASAHARA Hiromitsu,4,2,"1,11,5,11,13,20|11,8,11,7,11,18",R32,GRAND_SLAM,MS,75,Main Draw,KORBEL Petr (CZE),KASAHARA Hiromitsu (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,LI Hu,JEONG Sangeun,4,3,"8,13,12,6,11,15,11|11,15,10,11,9,13,3",R32,GRAND_SLAM,MS,75,Main Draw,LI Hu (SGP),JEONG Sangeun (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,KARUBE Ryusuke,KIM Minseok,4,2,"11,6,10,11,11,11|9,11,12,8,7,7",R32,GRAND_SLAM,MS,75,Main Draw,KARUBE Ryusuke (JPN),KIM Minseok (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,LIU Yi,YOSHIDA Kaii,4,1,"6,11,11,12,11|11,9,2,10,6",R32,GRAND_SLAM,MS,75,Main Draw,LIU Yi (CHN),YOSHIDA Kaii (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,WU Jiaji,CHAN Kazuhiro,4,2,"3,6,11,11,11,11|11,11,7,6,9,4",R32,GRAND_SLAM,MS,75,Main Draw,WU Jiaji (DOM),CHAN Kazuhiro (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MIUCHI Kentaro,JEOUNG Youngsik,4,1,"11,11,11,11,11|8,5,13,8,8",R32,GRAND_SLAM,MS,75,Main Draw,MIUCHI Kentaro (JPN),JEOUNG Youngsik (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,TAKAKIWA Taku,RYU Seungmin,4,2,"13,16,4,13,10,11|11,14,11,11,12,7",R32,GRAND_SLAM,MS,75,Main Draw,TAKAKIWA Taku (JPN),RYU Seungmin (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,CHUANG Chih-Yuan,ZHAN Jian,4,3,"11,10,6,11,11,9,11|8,12,11,7,5,11,5",R32,GRAND_SLAM,MS,75,Main Draw,CHUANG Chih-Yuan (TPE),ZHAN Jian (SGP)
-Pro Tour Japan Open Kobe 2011,2011-07-07,OYA Hidetoshi,YOON Jaeyoung,4,3,"9,11,11,8,5,11,12|11,2,6,11,11,9,10",R32,GRAND_SLAM,MS,75,Main Draw,OYA Hidetoshi (JPN),YOON Jaeyoung (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MATSUDAIRA Kenji,YANG Zi,4,1,"11,11,12,11,11|9,8,14,8,4",R32,GRAND_SLAM,MS,75,Main Draw,MATSUDAIRA Kenji (JPN),YANG Zi (SGP)
-Pro Tour Japan Open Kobe 2011,2011-07-07,KISHIKAWA Seiya,HUANG Sheng-Sheng,4,1,"11,11,7,12,14|7,6,11,10,12",R32,GRAND_SLAM,MS,75,Main Draw,KISHIKAWA Seiya (JPN),HUANG Sheng-Sheng (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,LIN Gaoyuan,MATSUDAIRA Kenta,4,3,"5,8,11,6,11,11,11|11,11,4,11,8,6,5",R32,GRAND_SLAM,MS,75,Main Draw,LIN Gaoyuan (CHN),MATSUDAIRA Kenta (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,NIWA Koki,JIN Yixiong,4,2,"13,11,9,11,4,11|11,9,11,8,11,7",R32,GRAND_SLAM,MS,75,Main Draw,NIWA Koki (JPN),JIN Yixiong (CHN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,SONG Hongyuan,SEO Hyundeok,4,1,"11,12,11,9,11|6,10,8,11,7",R32,GRAND_SLAM,MS,75,Main Draw,SONG Hongyuan (CHN),SEO Hyundeok (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,YIN Hang,OH Sangeun,4,3,"11,7,11,5,11,4,11|7,11,6,11,3,11,8",R32,GRAND_SLAM,MS,75,Main Draw,YIN Hang (CHN),OH Sangeun (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MIZUTANI Jun,KORBEL Petr,4,3,"11,9,11,4,12,14,11|5,11,6,11,14,12,8",R16,GRAND_SLAM,MS,75,Main Draw,MIZUTANI Jun (JPN),KORBEL Petr (CZE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,LI Hu,KARUBE Ryusuke,4,3,"8,11,8,11,7,11,11|11,5,11,5,11,3,8",R16,GRAND_SLAM,MS,75,Main Draw,LI Hu (SGP),KARUBE Ryusuke (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,LIU Yi,WU Jiaji,4,0,"11,11,11,11|6,5,9,1",R16,GRAND_SLAM,MS,75,Main Draw,LIU Yi (CHN),WU Jiaji (DOM)
-Pro Tour Japan Open Kobe 2011,2011-07-07,TAKAKIWA Taku,MIUCHI Kentaro,4,0,"11,11,11,11|1,7,5,7",R16,GRAND_SLAM,MS,75,Main Draw,TAKAKIWA Taku (JPN),MIUCHI Kentaro (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,CHUANG Chih-Yuan,OYA Hidetoshi,4,1,"11,11,9,11,11|7,5,11,7,3",R16,GRAND_SLAM,MS,75,Main Draw,CHUANG Chih-Yuan (TPE),OYA Hidetoshi (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,KISHIKAWA Seiya,MATSUDAIRA Kenji,4,3,"8,11,3,7,11,11,11|11,5,11,11,5,2,3",R16,GRAND_SLAM,MS,75,Main Draw,KISHIKAWA Seiya (JPN),MATSUDAIRA Kenji (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,NIWA Koki,LIN Gaoyuan,4,3,"11,12,3,3,11,3,11|9,10,11,11,8,11,4",R16,GRAND_SLAM,MS,75,Main Draw,NIWA Koki (JPN),LIN Gaoyuan (CHN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,SONG Hongyuan,YIN Hang,4,1,"11,14,11,6,11|3,12,8,11,5",R16,GRAND_SLAM,MS,75,Main Draw,SONG Hongyuan (CHN),YIN Hang (CHN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MIZUTANI Jun,LI Hu,4,2,"10,11,11,11,10,15|12,7,8,5,12,13",QF,GRAND_SLAM,MS,75,Main Draw,MIZUTANI Jun (JPN),LI Hu (SGP)
-Pro Tour Japan Open Kobe 2011,2011-07-07,TAKAKIWA Taku,LIU Yi,4,3,"11,10,13,11,10,8,11|7,12,11,8,12,11,6",QF,GRAND_SLAM,MS,75,Main Draw,TAKAKIWA Taku (JPN),LIU Yi (CHN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,KISHIKAWA Seiya,CHUANG Chih-Yuan,4,3,"8,8,11,7,11,11,11|11,11,8,11,5,6,7",QF,GRAND_SLAM,MS,75,Main Draw,KISHIKAWA Seiya (JPN),CHUANG Chih-Yuan (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,NIWA Koki,SONG Hongyuan,4,1,"11,14,8,11,14|5,12,11,6,12",QF,GRAND_SLAM,MS,75,Main Draw,NIWA Koki (JPN),SONG Hongyuan (CHN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MIZUTANI Jun,TAKAKIWA Taku,4,3,"11,11,10,14,8,8,11|9,9,12,12,11,11,8",SF,GRAND_SLAM,MS,75,Main Draw,MIZUTANI Jun (JPN),TAKAKIWA Taku (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,KISHIKAWA Seiya,NIWA Koki,4,0,"11,11,12,11|8,2,10,8",SF,GRAND_SLAM,MS,75,Main Draw,KISHIKAWA Seiya (JPN),NIWA Koki (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,KISHIKAWA Seiya,MIZUTANI Jun,4,1,"11,6,11,11,11|3,11,9,9,8",F,GRAND_SLAM,MS,75,Main Draw,KISHIKAWA Seiya (JPN),MIZUTANI Jun (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,KIM Minseok,MACHI Asuka,3,0,"11,13,11|4,11,9",R16,GRAND_SLAM,U21MS,75,Main Draw,KIM Minseok (KOR),MACHI Asuka (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,LIU Yi,CHEN Chien-An,3,1,"11,8,11,11|9,11,8,8",R16,GRAND_SLAM,U21MS,75,Main Draw,LIU Yi (CHN),CHEN Chien-An (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MORIMOTO Kohei,WU Jiaji,3,2,"9,11,4,11,11|11,9,11,7,7",R16,GRAND_SLAM,U21MS,75,Main Draw,MORIMOTO Kohei (JPN),WU Jiaji (DOM)
-Pro Tour Japan Open Kobe 2011,2011-07-07,YIN Hang,JEONG Sangeun,3,1,"11,6,11,11|8,11,6,4",R16,GRAND_SLAM,U21MS,75,Main Draw,YIN Hang (CHN),JEONG Sangeun (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,LIN Gaoyuan,MURAMATSU Yuto,3,0,"11,12,11|5,10,7",R16,GRAND_SLAM,U21MS,75,Main Draw,LIN Gaoyuan (CHN),MURAMATSU Yuto (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,UEDA Jin,HUNG Tzu-Hsiang,3,0,"11,11,11|4,7,8",R16,GRAND_SLAM,U21MS,75,Main Draw,UEDA Jin (JPN),HUNG Tzu-Hsiang (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,YOSHIDA Masaki,SONG Hongyuan,3,1,"11,11,2,12|6,7,11,10",R16,GRAND_SLAM,U21MS,75,Main Draw,YOSHIDA Masaki (JPN),SONG Hongyuan (CHN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,JEOUNG Youngsik,HIRANO Yuki,3,2,"7,8,11,11,11|11,11,8,4,7",R16,GRAND_SLAM,U21MS,75,Main Draw,JEOUNG Youngsik (KOR),HIRANO Yuki (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,KIM Minseok,LIU Yi,4,2,"10,12,11,10,11,11|12,10,8,12,3,8",QF,GRAND_SLAM,U21MS,75,Main Draw,KIM Minseok (KOR),LIU Yi (CHN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,YIN Hang,MORIMOTO Kohei,4,1,"11,11,8,11,11|9,5,11,7,9",QF,GRAND_SLAM,U21MS,75,Main Draw,YIN Hang (CHN),MORIMOTO Kohei (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,UEDA Jin,LIN Gaoyuan,4,1,"11,11,6,11,11|8,8,11,6,7",QF,GRAND_SLAM,U21MS,75,Main Draw,UEDA Jin (JPN),LIN Gaoyuan (CHN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,JEOUNG Youngsik,YOSHIDA Masaki,4,2,"12,8,8,11,12,11|10,11,11,5,10,8",QF,GRAND_SLAM,U21MS,75,Main Draw,JEOUNG Youngsik (KOR),YOSHIDA Masaki (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,YIN Hang,KIM Minseok,4,0,"11,11,11,11|9,9,7,6",SF,GRAND_SLAM,U21MS,75,Main Draw,YIN Hang (CHN),KIM Minseok (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,JEOUNG Youngsik,UEDA Jin,4,2,"12,11,6,11,7,16|10,9,11,8,11,14",SF,GRAND_SLAM,U21MS,75,Main Draw,JEOUNG Youngsik (KOR),UEDA Jin (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,YIN Hang,JEOUNG Youngsik,4,2,"11,11,11,5,7,12|3,7,9,11,11,10",F,GRAND_SLAM,U21MS,75,Main Draw,YIN Hang (CHN),JEOUNG Youngsik (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,NIWA Koki,FLORE Tristan,4,0,"11,13,11,11|4,11,6,9",,GRAND_SLAM,MS,75,Qualification,NIWA Koki (JPN),FLORE Tristan (FRA)
-Pro Tour Japan Open Kobe 2011,2011-07-07,NIWA Koki,HOYAMA Hugo,4,2,"11,9,11,9,11,11|2,11,6,11,5,2",,GRAND_SLAM,MS,75,Qualification,NIWA Koki (JPN),HOYAMA Hugo (BRA)
-Pro Tour Japan Open Kobe 2011,2011-07-07,HOYAMA Hugo,FLORE Tristan,4,3,"4,9,11,12,11,10,11|11,11,5,10,9,12,8",,GRAND_SLAM,MS,75,Qualification,HOYAMA Hugo (BRA),FLORE Tristan (FRA)
-Pro Tour Japan Open Kobe 2011,2011-07-07,LIN Gaoyuan,SHIMOYAMA Takanori,4,1,"11,7,11,11,14|3,11,8,2,12",,GRAND_SLAM,MS,75,Qualification,LIN Gaoyuan (CHN),SHIMOYAMA Takanori (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,CHEN Feng,TAN Ruiwu,4,2,"11,11,11,8,9,11|7,1,6,11,11,8",,GRAND_SLAM,MS,75,Qualification,CHEN Feng (SGP),TAN Ruiwu (CRO)
-Pro Tour Japan Open Kobe 2011,2011-07-07,LIN Gaoyuan,CHEN Feng,4,0,"11,11,11,11|3,4,8,9",,GRAND_SLAM,MS,75,Qualification,LIN Gaoyuan (CHN),CHEN Feng (SGP)
-Pro Tour Japan Open Kobe 2011,2011-07-07,SHIMOYAMA Takanori,TAN Ruiwu,4,2,"11,11,8,11,5,12|8,5,11,3,11,10",,GRAND_SLAM,MS,75,Qualification,SHIMOYAMA Takanori (JPN),TAN Ruiwu (CRO)
-Pro Tour Japan Open Kobe 2011,2011-07-07,LIN Gaoyuan,TAN Ruiwu,4,2,"11,12,1,11,8,11|7,10,11,8,11,8",,GRAND_SLAM,MS,75,Qualification,LIN Gaoyuan (CHN),TAN Ruiwu (CRO)
-Pro Tour Japan Open Kobe 2011,2011-07-07,CHEN Feng,SHIMOYAMA Takanori,4,1,"14,11,14,9,12|12,4,12,11,10",,GRAND_SLAM,MS,75,Qualification,CHEN Feng (SGP),SHIMOYAMA Takanori (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,GAUZY Simon,JEONG Sangeun,4,2,"9,12,11,2,11,11|11,10,8,11,6,9",,GRAND_SLAM,MS,75,Qualification,GAUZY Simon (FRA),JEONG Sangeun (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,UEDA Jin,WANG LI Chung-Yi,4,0,"11,11,11,12|7,7,3,10",,GRAND_SLAM,MS,75,Qualification,UEDA Jin (JPN),WANG LI Chung-Yi (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,JEONG Sangeun,UEDA Jin,4,1,"11,11,11,10,11|1,9,7,12,5",,GRAND_SLAM,MS,75,Qualification,JEONG Sangeun (KOR),UEDA Jin (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,GAUZY Simon,WANG LI Chung-Yi,4,1,"11,11,11,12,11|5,8,3,14,6",,GRAND_SLAM,MS,75,Qualification,GAUZY Simon (FRA),WANG LI Chung-Yi (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,JEONG Sangeun,WANG LI Chung-Yi,4,1,"11,11,11,10,11|9,4,3,12,5",,GRAND_SLAM,MS,75,Qualification,JEONG Sangeun (KOR),WANG LI Chung-Yi (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,UEDA Jin,GAUZY Simon,4,1,"11,11,11,10,11|7,8,4,12,6",,GRAND_SLAM,MS,75,Qualification,UEDA Jin (JPN),GAUZY Simon (FRA)
-Pro Tour Japan Open Kobe 2011,2011-07-07,ZHAN Jian,HAN Jimin,4,0,"11,11,11,11|5,6,4,8",,GRAND_SLAM,MS,75,Qualification,ZHAN Jian (SGP),HAN Jimin (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,OYA Hidetoshi,LEE Chia-Sheng,4,0,"12,11,11,11|10,5,7,8",,GRAND_SLAM,MS,75,Qualification,OYA Hidetoshi (JPN),LEE Chia-Sheng (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,OYA Hidetoshi,ZHAN Jian,4,0,"11,11,12,11|5,9,10,6",,GRAND_SLAM,MS,75,Qualification,OYA Hidetoshi (JPN),ZHAN Jian (SGP)
-Pro Tour Japan Open Kobe 2011,2011-07-07,HAN Jimin,LEE Chia-Sheng,4,3,"9,6,11,13,9,11,11|11,11,4,11,11,6,7",,GRAND_SLAM,MS,75,Qualification,HAN Jimin (KOR),LEE Chia-Sheng (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,ZHAN Jian,LEE Chia-Sheng,4,0,"11,11,11,11|5,9,7,9",,GRAND_SLAM,MS,75,Qualification,ZHAN Jian (SGP),LEE Chia-Sheng (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,OYA Hidetoshi,HAN Jimin,4,1,"11,11,10,11,11|4,8,12,5,9",,GRAND_SLAM,MS,75,Qualification,OYA Hidetoshi (JPN),HAN Jimin (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MATSUDAIRA Kenji,YIN Hang,4,0,"12,12,12,11|10,10,10,3",,GRAND_SLAM,MS,75,Qualification,MATSUDAIRA Kenji (JPN),YIN Hang (CHN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,HUNG Tzu-Hsiang,ZORIGT Turbold,4,0,"11,11,11,11|6,5,7,9",,GRAND_SLAM,MS,75,Qualification,HUNG Tzu-Hsiang (TPE),ZORIGT Turbold (MGL)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MATSUDAIRA Kenji,HUNG Tzu-Hsiang,4,1,"11,9,11,11,11|6,11,3,9,5",,GRAND_SLAM,MS,75,Qualification,MATSUDAIRA Kenji (JPN),HUNG Tzu-Hsiang (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,YIN Hang,ZORIGT Turbold,4,1,"11,7,11,11,11|5,11,4,1,1",,GRAND_SLAM,MS,75,Qualification,YIN Hang (CHN),ZORIGT Turbold (MGL)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MATSUDAIRA Kenji,ZORIGT Turbold,4,0,"11,11,11,11|1,8,4,2",,GRAND_SLAM,MS,75,Qualification,MATSUDAIRA Kenji (JPN),ZORIGT Turbold (MGL)
-Pro Tour Japan Open Kobe 2011,2011-07-07,YIN Hang,HUNG Tzu-Hsiang,4,3,"11,9,11,7,6,11,11|8,11,4,11,11,8,7",,GRAND_SLAM,MS,75,Qualification,YIN Hang (CHN),HUNG Tzu-Hsiang (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,TAKAKIWA Taku,CHO Jaejun,4,0,"11,11,11,11|3,7,7,8",,GRAND_SLAM,MS,75,Qualification,TAKAKIWA Taku (JPN),CHO Jaejun (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,JIN Yixiong,CHIANG Hung-Chieh,4,1,"11,11,7,11,11|5,9,11,9,9",,GRAND_SLAM,MS,75,Qualification,JIN Yixiong (CHN),CHIANG Hung-Chieh (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,TAKAKIWA Taku,CHIANG Hung-Chieh,4,2,"12,6,11,13,11,11|14,11,1,11,8,5",,GRAND_SLAM,MS,75,Qualification,TAKAKIWA Taku (JPN),CHIANG Hung-Chieh (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,JIN Yixiong,CHO Jaejun,4,0,"11,11,11,11|7,6,4,6",,GRAND_SLAM,MS,75,Qualification,JIN Yixiong (CHN),CHO Jaejun (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,JIN Yixiong,TAKAKIWA Taku,4,3,"11,12,14,10,9,11,11|9,14,12,12,11,9,6",,GRAND_SLAM,MS,75,Qualification,JIN Yixiong (CHN),TAKAKIWA Taku (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,CHIANG Hung-Chieh,CHO Jaejun,4,1,"11,11,11,8,11|7,7,2,11,9",,GRAND_SLAM,MS,75,Qualification,CHIANG Hung-Chieh (TPE),CHO Jaejun (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MIUCHI Kentaro,CHEN Chien-An,4,0,"11,11,11,11|4,4,6,9",,GRAND_SLAM,MS,75,Qualification,MIUCHI Kentaro (JPN),CHEN Chien-An (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,LEE Seungjun,LIU Zhongze,4,3,"6,11,11,9,11,9,11|11,8,5,11,9,11,7",,GRAND_SLAM,MS,75,Qualification,LEE Seungjun (KOR),LIU Zhongze (SGP)
-Pro Tour Japan Open Kobe 2011,2011-07-07,CHEN Chien-An,LIU Zhongze,4,0,"11,12,11,11|9,10,0,0",,GRAND_SLAM,MS,75,Qualification,CHEN Chien-An (TPE),LIU Zhongze (SGP)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MIUCHI Kentaro,LEE Seungjun,4,1,"11,10,11,11,11|9,12,6,8,2",,GRAND_SLAM,MS,75,Qualification,MIUCHI Kentaro (JPN),LEE Seungjun (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,LEE Seungjun,CHEN Chien-An,4,2,"6,2,13,11,11,11|11,11,11,6,8,9",,GRAND_SLAM,MS,75,Qualification,LEE Seungjun (KOR),CHEN Chien-An (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MIUCHI Kentaro,LIU Zhongze,4,0,,,GRAND_SLAM,MS,75,Qualification,MIUCHI Kentaro (JPN),LIU Zhongze (SGP)
-Pro Tour Japan Open Kobe 2011,2011-07-07,LEE Jungsam,WANG Yi-Tse,4,1,"15,12,6,11,11|13,10,11,6,9",,GRAND_SLAM,MS,75,Qualification,LEE Jungsam (KOR),WANG Yi-Tse (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,KASAHARA Hiromitsu,LIU Yi,4,1,"14,11,7,11,12|12,9,11,8,10",,GRAND_SLAM,MS,75,Qualification,KASAHARA Hiromitsu (JPN),LIU Yi (CHN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,KASAHARA Hiromitsu,LEE Jungsam,4,2,"11,11,5,14,11,11|9,6,11,16,3,4",,GRAND_SLAM,MS,75,Qualification,KASAHARA Hiromitsu (JPN),LEE Jungsam (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,LIU Yi,WANG Yi-Tse,4,0,"11,11,11,11|7,6,8,8",,GRAND_SLAM,MS,75,Qualification,LIU Yi (CHN),WANG Yi-Tse (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,LIU Yi,LEE Jungsam,4,0,"11,13,11,11|7,11,8,4",,GRAND_SLAM,MS,75,Qualification,LIU Yi (CHN),LEE Jungsam (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,KASAHARA Hiromitsu,WANG Yi-Tse,4,3,"7,8,11,13,11,11,11|11,11,6,11,13,7,2",,GRAND_SLAM,MS,75,Qualification,KASAHARA Hiromitsu (JPN),WANG Yi-Tse (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,HUANG Sheng-Sheng,FUJIMOTO Kaito,4,1,"11,11,7,11,11|8,5,11,8,5",,GRAND_SLAM,MS,75,Qualification,HUANG Sheng-Sheng (TPE),FUJIMOTO Kaito (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,WU Jiaji,LEE Seunghyeok,4,1,"11,11,7,11,11|6,8,11,8,5",,GRAND_SLAM,MS,75,Qualification,WU Jiaji (DOM),LEE Seunghyeok (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,WU Jiaji,HUANG Sheng-Sheng,4,0,"11,12,11,11|9,10,8,4",,GRAND_SLAM,MS,75,Qualification,WU Jiaji (DOM),HUANG Sheng-Sheng (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,FUJIMOTO Kaito,LEE Seunghyeok,4,3,"7,5,10,11,12,11,11|11,11,12,5,10,5,3",,GRAND_SLAM,MS,75,Qualification,FUJIMOTO Kaito (JPN),LEE Seunghyeok (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,HUANG Sheng-Sheng,LEE Seunghyeok,4,1,"11,11,9,13,11|9,8,11,11,4",,GRAND_SLAM,MS,75,Qualification,HUANG Sheng-Sheng (TPE),LEE Seunghyeok (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,FUJIMOTO Kaito,WU Jiaji,4,3,"12,9,4,13,12,11,11|10,11,11,15,10,8,9",,GRAND_SLAM,MS,75,Qualification,FUJIMOTO Kaito (JPN),WU Jiaji (DOM)
-Pro Tour Japan Open Kobe 2011,2011-07-07,WU Chih-Chi,CHAITAT Chaisit,4,0,"11,11,13,11|8,5,11,1",,GRAND_SLAM,MS,75,Qualification,WU Chih-Chi (TPE),CHAITAT Chaisit (THA)
-Pro Tour Japan Open Kobe 2011,2011-07-07,SONG Hongyuan,KARUBE Ryusuke,4,2,"14,8,7,12,11,11|12,11,11,10,7,9",,GRAND_SLAM,MS,75,Qualification,SONG Hongyuan (CHN),KARUBE Ryusuke (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,SONG Hongyuan,WU Chih-Chi,4,1,"11,11,11,11,14|5,8,9,13,12",,GRAND_SLAM,MS,75,Qualification,SONG Hongyuan (CHN),WU Chih-Chi (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,KARUBE Ryusuke,CHAITAT Chaisit,4,1,"11,11,9,11,11|1,6,11,3,6",,GRAND_SLAM,MS,75,Qualification,KARUBE Ryusuke (JPN),CHAITAT Chaisit (THA)
-Pro Tour Japan Open Kobe 2011,2011-07-07,KARUBE Ryusuke,WU Chih-Chi,4,3,"10,9,11,7,11,11,11|12,11,8,11,5,8,7",,GRAND_SLAM,MS,75,Qualification,KARUBE Ryusuke (JPN),WU Chih-Chi (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,SONG Hongyuan,CHAITAT Chaisit,4,0,"11,11,11,11|4,8,7,7",,GRAND_SLAM,MS,75,Qualification,SONG Hongyuan (CHN),CHAITAT Chaisit (THA)
-Pro Tour Japan Open Kobe 2011,2011-07-07,YOSHIDA Masaki,HIGASHI Yuto,3,2,"10,12,6,11,11|12,10,11,5,7",,GRAND_SLAM,U21MS,75,Qualification,YOSHIDA Masaki (JPN),HIGASHI Yuto (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,HIGASHI Yuto,LEE Chia-Sheng,3,1,"7,13,11,11|11,11,8,5",,GRAND_SLAM,U21MS,75,Qualification,HIGASHI Yuto (JPN),LEE Chia-Sheng (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,YOSHIDA Masaki,LEE Chia-Sheng,3,0,"11,11,11|4,5,8",,GRAND_SLAM,U21MS,75,Qualification,YOSHIDA Masaki (JPN),LEE Chia-Sheng (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,UEDA Jin,MORIZONO Masataka,3,0,"11,11,11|4,5,9",,GRAND_SLAM,U21MS,75,Qualification,UEDA Jin (JPN),MORIZONO Masataka (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,CHO Jaejun,MORIZONO Masataka,3,2,"11,11,4,9,11|9,9,11,11,9",,GRAND_SLAM,U21MS,75,Qualification,CHO Jaejun (KOR),MORIZONO Masataka (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,UEDA Jin,CHO Jaejun,3,0,"11,11,11|9,9,7",,GRAND_SLAM,U21MS,75,Qualification,UEDA Jin (JPN),CHO Jaejun (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MACHI Asuka,LEE Seunghyeok,3,0,"11,11,11|5,6,5",,GRAND_SLAM,U21MS,75,Qualification,MACHI Asuka (JPN),LEE Seunghyeok (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,CHEN Feng,LEE Seunghyeok,3,1,"11,7,11,11|1,11,5,5",,GRAND_SLAM,U21MS,75,Qualification,CHEN Feng (SGP),LEE Seunghyeok (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MACHI Asuka,CHEN Feng,3,1,"9,11,11,11|11,8,7,8",,GRAND_SLAM,U21MS,75,Qualification,MACHI Asuka (JPN),CHEN Feng (SGP)
-Pro Tour Japan Open Kobe 2011,2011-07-07,HIRANO Yuki,YOSHIMURA Maharu,3,2,"11,11,15,4,11|13,9,13,11,7",,GRAND_SLAM,U21MS,75,Qualification,HIRANO Yuki (JPN),YOSHIMURA Maharu (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,YOSHIMURA Maharu,WANG LI Chung-Yi,3,0,"11,11,11|7,8,9",,GRAND_SLAM,U21MS,75,Qualification,YOSHIMURA Maharu (JPN),WANG LI Chung-Yi (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,HIRANO Yuki,WANG LI Chung-Yi,3,0,"12,11,11|10,4,9",,GRAND_SLAM,U21MS,75,Qualification,HIRANO Yuki (JPN),WANG LI Chung-Yi (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MURAMATSU Yuto,FUJIMOTO Kaito,3,0,"11,12,11|7,10,8",,GRAND_SLAM,U21MS,75,Qualification,MURAMATSU Yuto (JPN),FUJIMOTO Kaito (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MURAMATSU Yuto,LEE Seungjun,3,1,"11,8,11,11|6,11,7,9",,GRAND_SLAM,U21MS,75,Qualification,MURAMATSU Yuto (JPN),LEE Seungjun (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,FUJIMOTO Kaito,LEE Seungjun,3,0,"11,11,11|6,9,8",,GRAND_SLAM,U21MS,75,Qualification,FUJIMOTO Kaito (JPN),LEE Seungjun (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,JIN Yixiong,MORIMOTO Kohei,3,1,"11,11,6,11|9,7,11,8",,GRAND_SLAM,U21MS,75,Qualification,JIN Yixiong (CHN),MORIMOTO Kohei (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,FLORE Tristan,JIN Yixiong,3,1,"11,8,11,11|8,11,6,9",,GRAND_SLAM,U21MS,75,Qualification,FLORE Tristan (FRA),JIN Yixiong (CHN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MORIMOTO Kohei,FLORE Tristan,3,0,"11,12,11|7,10,9",,GRAND_SLAM,U21MS,75,Qualification,MORIMOTO Kohei (JPN),FLORE Tristan (FRA)
-Pro Tour Japan Open Kobe 2011,2011-07-07,LIU Yi,SAKAI Asuka,3,2,"10,11,10,11,11|12,5,12,3,5",,GRAND_SLAM,U21MS,75,Qualification,LIU Yi (CHN),SAKAI Asuka (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,LIU Yi,GAUZY Simon,3,1,"11,9,11,11|8,11,5,7",,GRAND_SLAM,U21MS,75,Qualification,LIU Yi (CHN),GAUZY Simon (FRA)
-Pro Tour Japan Open Kobe 2011,2011-07-07,GAUZY Simon,SAKAI Asuka,3,0,"11,11,11|5,3,6",,GRAND_SLAM,U21MS,75,Qualification,GAUZY Simon (FRA),SAKAI Asuka (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,JIN Takuya,OTSUKA Masahiro,3,0,"12,11,11|10,7,8",,GRAND_SLAM,U21MS,75,Qualification,JIN Takuya (JPN),OTSUKA Masahiro (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,YIN Hang,OTSUKA Masahiro,3,0,"11,11,11|5,7,9",,GRAND_SLAM,U21MS,75,Qualification,YIN Hang (CHN),OTSUKA Masahiro (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,YIN Hang,JIN Takuya,3,2,"8,17,7,11,11|11,15,11,7,5",,GRAND_SLAM,U21MS,75,Qualification,YIN Hang (CHN),JIN Takuya (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,KARUBE Ryusuke,HOYAMA Hugo,4,1,"11,11,11,9,11|3,6,5,11,6",QR16,GRAND_SLAM,MS,75,Qualification,KARUBE Ryusuke (JPN),HOYAMA Hugo (BRA)
-Pro Tour Japan Open Kobe 2011,2011-07-07,HUANG Sheng-Sheng,CHEN Feng,4,1,"11,11,11,11,11|4,7,9,13,2",QR16,GRAND_SLAM,MS,75,Qualification,HUANG Sheng-Sheng (TPE),CHEN Feng (SGP)
-Pro Tour Japan Open Kobe 2011,2011-07-07,LIU Yi,UEDA Jin,4,3,"12,11,10,11,7,11,11|14,7,12,4,11,5,4",QR16,GRAND_SLAM,MS,75,Qualification,LIU Yi (CHN),UEDA Jin (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,ZHAN Jian,LEE Seungjun,4,1,"12,11,11,7,11|10,8,4,11,7",QR16,GRAND_SLAM,MS,75,Qualification,ZHAN Jian (SGP),LEE Seungjun (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,TAKAKIWA Taku,YIN Hang,4,2,"11,12,11,15,9,11|5,14,9,13,11,6",QR16,GRAND_SLAM,MS,75,Qualification,TAKAKIWA Taku (JPN),YIN Hang (CHN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,CHEN Szu-Yu,YANG Ha Eun,3,0,"11,11,11|8,6,8",R16,GRAND_SLAM,U21WS,75,Main Draw,CHEN Szu-Yu (TPE),YANG Ha Eun (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,TASHIRO Saki,NG Wing Nam,3,2,"6,11,11,6,11|11,2,6,11,5",R16,GRAND_SLAM,U21WS,75,Main Draw,TASHIRO Saki (JPN),NG Wing Nam (HKG)
-Pro Tour Japan Open Kobe 2011,2011-07-07,HOU Yu-Ling,MAEDA Miyu,3,0,"11,11,11|9,6,6",R16,GRAND_SLAM,U21WS,75,Main Draw,HOU Yu-Ling (TPE),MAEDA Miyu (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,CHENG I-Ching,SO Eka,3,2,"11,10,11,7,11|7,12,2,11,4",R16,GRAND_SLAM,U21WS,75,Main Draw,CHENG I-Ching (TPE),SO Eka (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MORIZONO Misaki,CHANG Ya-Chuan,3,0,"13,11,11|11,8,3",R16,GRAND_SLAM,U21WS,75,Main Draw,MORIZONO Misaki (JPN),CHANG Ya-Chuan (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,HAMAMOTO Yui,SONG Maeum,3,2,"11,11,8,4,11|9,8,11,11,6",R16,GRAND_SLAM,U21WS,75,Main Draw,HAMAMOTO Yui (AUT),SONG Maeum (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,JEON Jihee,TSUCHIDA Miki,3,0,"11,11,11|5,6,8",R16,GRAND_SLAM,U21WS,75,Main Draw,JEON Jihee (KOR),TSUCHIDA Miki (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,FUJII Yuko,KANG Misoon,3,0,"11,11,13|3,3,11",R16,GRAND_SLAM,U21WS,75,Main Draw,FUJII Yuko (JPN),KANG Misoon (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,TASHIRO Saki,CHEN Szu-Yu,4,1,"5,11,11,12,11|11,7,5,10,9",QF,GRAND_SLAM,U21WS,75,Main Draw,TASHIRO Saki (JPN),CHEN Szu-Yu (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,CHENG I-Ching,HOU Yu-Ling,4,0,"11,11,11,11|8,8,5,8",QF,GRAND_SLAM,U21WS,75,Main Draw,CHENG I-Ching (TPE),HOU Yu-Ling (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MORIZONO Misaki,HAMAMOTO Yui,4,1,"10,11,11,11,11|12,7,9,6,6",QF,GRAND_SLAM,U21WS,75,Main Draw,MORIZONO Misaki (JPN),HAMAMOTO Yui (AUT)
-Pro Tour Japan Open Kobe 2011,2011-07-07,JEON Jihee,FUJII Yuko,4,2,"8,6,11,11,11,11|11,11,8,6,9,6",QF,GRAND_SLAM,U21WS,75,Main Draw,JEON Jihee (KOR),FUJII Yuko (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,TASHIRO Saki,CHENG I-Ching,4,0,"11,11,11,11|2,8,3,2",SF,GRAND_SLAM,U21WS,75,Main Draw,TASHIRO Saki (JPN),CHENG I-Ching (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,JEON Jihee,MORIZONO Misaki,4,0,"11,11,11,11|9,5,9,9",SF,GRAND_SLAM,U21WS,75,Main Draw,JEON Jihee (KOR),MORIZONO Misaki (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,JEON Jihee,TASHIRO Saki,4,1,"11,9,16,15,11|8,11,14,13,9",F,GRAND_SLAM,U21WS,75,Main Draw,JEON Jihee (KOR),TASHIRO Saki (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MATSUZAWA Marina,KATO Miyu,3,1,"10,11,11,11|12,7,8,8",,GRAND_SLAM,U21WS,75,Qualification,MATSUZAWA Marina (JPN),KATO Miyu (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,KATO Miyu,CHANG Ya-Chuan,3,1,"14,11,11,11|16,7,7,7",,GRAND_SLAM,U21WS,75,Qualification,KATO Miyu (JPN),CHANG Ya-Chuan (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,CHANG Ya-Chuan,MATSUZAWA Marina,3,1,"11,9,11,11|4,11,7,7",,GRAND_SLAM,U21WS,75,Qualification,CHANG Ya-Chuan (TPE),MATSUZAWA Marina (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,FUJII Yuko,MORITA Ayane,3,1,"11,11,7,15|4,7,11,13",,GRAND_SLAM,U21WS,75,Qualification,FUJII Yuko (JPN),MORITA Ayane (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,CHEN Szu-Yu,MORITA Ayane,3,1,"11,7,11,11|7,11,2,8",,GRAND_SLAM,U21WS,75,Qualification,CHEN Szu-Yu (TPE),MORITA Ayane (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,FUJII Yuko,CHEN Szu-Yu,3,2,"11,4,2,11,11|9,11,11,5,5",,GRAND_SLAM,U21WS,75,Qualification,FUJII Yuko (JPN),CHEN Szu-Yu (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,TASHIRO Saki,ISHIKAWA Rira,3,0,"13,11,11|11,6,5",,GRAND_SLAM,U21WS,75,Qualification,TASHIRO Saki (JPN),ISHIKAWA Rira (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,ISHIKAWA Rira,LUO Anqi,3,0,"11,11,11|7,7,6",,GRAND_SLAM,U21WS,75,Qualification,ISHIKAWA Rira (JPN),LUO Anqi (CAN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,TASHIRO Saki,LUO Anqi,3,0,"11,11,11|3,6,2",,GRAND_SLAM,U21WS,75,Qualification,TASHIRO Saki (JPN),LUO Anqi (CAN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,HAMAMOTO Yui,ITO Mima,3,1,"11,11,11,11|13,7,5,4",,GRAND_SLAM,U21WS,75,Qualification,HAMAMOTO Yui (AUT),ITO Mima (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,HSIUNG Nai-I,ITO Mima,3,0,"11,11,15|9,8,13",,GRAND_SLAM,U21WS,75,Qualification,HSIUNG Nai-I (TPE),ITO Mima (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,HAMAMOTO Yui,HSIUNG Nai-I,3,0,"11,11,11|8,8,1",,GRAND_SLAM,U21WS,75,Qualification,HAMAMOTO Yui (AUT),HSIUNG Nai-I (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,SO Eka,HIRANO Miu,3,0,"11,11,11|9,6,6",,GRAND_SLAM,U21WS,75,Qualification,SO Eka (JPN),HIRANO Miu (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,HIRANO Miu,TSUI Pao-Wen,3,1,"11,8,11,11|5,11,3,9",,GRAND_SLAM,U21WS,75,Qualification,HIRANO Miu (JPN),TSUI Pao-Wen (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,SO Eka,TSUI Pao-Wen,3,2,"5,6,14,11,11|11,11,12,4,5",,GRAND_SLAM,U21WS,75,Qualification,SO Eka (JPN),TSUI Pao-Wen (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,SIM Kai Xin Zena,KIM Seoyeon,3,1,"12,5,12,11|10,11,10,6",,GRAND_SLAM,U21WS,75,Qualification,SIM Kai Xin Zena (SGP),KIM Seoyeon (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,TSUCHIDA Miki,MIYAKE Natsumi,3,0,"11,11,11|9,9,4",,GRAND_SLAM,U21WS,75,Qualification,TSUCHIDA Miki (JPN),MIYAKE Natsumi (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MIYAKE Natsumi,KIM Seoyeon,3,2,"5,5,11,11,11|11,11,7,8,8",,GRAND_SLAM,U21WS,75,Qualification,MIYAKE Natsumi (JPN),KIM Seoyeon (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,TSUCHIDA Miki,SIM Kai Xin Zena,3,0,"11,11,11|5,4,6",,GRAND_SLAM,U21WS,75,Qualification,TSUCHIDA Miki (JPN),SIM Kai Xin Zena (SGP)
-Pro Tour Japan Open Kobe 2011,2011-07-07,KIM Seoyeon,TSUCHIDA Miki,3,2,"11,5,7,11,11|6,11,11,6,8",,GRAND_SLAM,U21WS,75,Qualification,KIM Seoyeon (KOR),TSUCHIDA Miki (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MIYAKE Natsumi,SIM Kai Xin Zena,3,0,"11,11,14|8,4,12",,GRAND_SLAM,U21WS,75,Qualification,MIYAKE Natsumi (JPN),SIM Kai Xin Zena (SGP)
-Pro Tour Japan Open Kobe 2011,2011-07-07,HOU Yu-Ling,CHINBAT Nomin-Erdene,3,0,"11,11,11|1,5,4",,GRAND_SLAM,U21WS,75,Qualification,HOU Yu-Ling (TPE),CHINBAT Nomin-Erdene (MGL)
-Pro Tour Japan Open Kobe 2011,2011-07-07,TAKAHASHI Mariko,SATO Yui,3,2,"11,7,11,7,11|4,11,5,11,6",,GRAND_SLAM,U21WS,75,Qualification,TAKAHASHI Mariko (JPN),SATO Yui (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,HOU Yu-Ling,TAKAHASHI Mariko,3,2,"11,11,5,5,11|9,9,11,11,8",,GRAND_SLAM,U21WS,75,Qualification,HOU Yu-Ling (TPE),TAKAHASHI Mariko (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,SATO Yui,CHINBAT Nomin-Erdene,3,0,"11,11,11|8,7,6",,GRAND_SLAM,U21WS,75,Qualification,SATO Yui (JPN),CHINBAT Nomin-Erdene (MGL)
-Pro Tour Japan Open Kobe 2011,2011-07-07,HOU Yu-Ling,SATO Yui,3,1,"3,11,11,12|11,6,8,10",,GRAND_SLAM,U21WS,75,Qualification,HOU Yu-Ling (TPE),SATO Yui (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,TAKAHASHI Mariko,CHINBAT Nomin-Erdene,3,0,"11,11,11|5,4,3",,GRAND_SLAM,U21WS,75,Qualification,TAKAHASHI Mariko (JPN),CHINBAT Nomin-Erdene (MGL)
-Pro Tour Japan Open Kobe 2011,2011-07-07,ABE Megumi/ONO Shiho,LUO Anqi/ZHANG Mo,3,0,"11,11,11|5,5,6",QR16,GRAND_SLAM,WD,75,Qualification,ABE Megumi (JPN) / ONO Shiho (JPN),LUO Anqi (CAN) / ZHANG Mo (CAN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,PARK Miyoung/SUH Hyo Won,JIANG Huajun/NG Wing Nam,3,1,"8,11,11,11|11,6,8,4",R16,GRAND_SLAM,WD,75,Main Draw,PARK Miyoung (KOR) / SUH Hyo Won (KOR),JIANG Huajun (HKG) / NG Wing Nam (HKG)
-Pro Tour Japan Open Kobe 2011,2011-07-07,ISHIGAKI Yuka/YAMANASHI Yuri,CHANG Ya-Chuan/CHEN Szu-Yu,3,0,"11,11,11|5,5,8",R16,GRAND_SLAM,WD,75,Main Draw,ISHIGAKI Yuka (JPN) / YAMANASHI Yuri (JPN),CHANG Ya-Chuan (TPE) / CHEN Szu-Yu (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,FUKUHARA Ai/ISHIKAWA Kasumi,KOMWONG Nanthana/MUANGSUK Anisara,3,0,"11,11,11|8,5,9",R16,GRAND_SLAM,WD,75,Main Draw,FUKUHARA Ai (JPN) / ISHIKAWA Kasumi (JPN),KOMWONG Nanthana (THA) / MUANGSUK Anisara (THA)
-Pro Tour Japan Open Kobe 2011,2011-07-07,KANG Misoon/SONG Maeum,DOI Minami/FUKUOKA Haruna,3,2,"5,11,9,11,11|11,8,11,7,2",R16,GRAND_SLAM,WD,75,Main Draw,KANG Misoon (KOR) / SONG Maeum (KOR),DOI Minami (JPN) / FUKUOKA Haruna (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,LI Jiawei/WANG Yuegu,MAEDA Miyu/TANIOKA Ayuka,3,0,"11,11,11|6,6,6",R16,GRAND_SLAM,WD,75,Main Draw,LI Jiawei (SGP) / WANG Yuegu (SGP),MAEDA Miyu (JPN) / TANIOKA Ayuka (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,PARK Miyoung/SUH Hyo Won,ABE Megumi/ONO Shiho,4,2,"11,8,11,5,11,11|3,11,7,11,6,5",QF,GRAND_SLAM,WD,75,Main Draw,PARK Miyoung (KOR) / SUH Hyo Won (KOR),ABE Megumi (JPN) / ONO Shiho (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,FUJII Hiroko/WAKAMIYA Misako,ISHIGAKI Yuka/YAMANASHI Yuri,4,2,"7,15,11,11,12,12|11,13,9,4,14,10",QF,GRAND_SLAM,WD,75,Main Draw,FUJII Hiroko (JPN) / WAKAMIYA Misako (JPN),ISHIGAKI Yuka (JPN) / YAMANASHI Yuri (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,FUKUHARA Ai/ISHIKAWA Kasumi,KANG Misoon/SONG Maeum,4,1,"11,11,9,11,12|7,1,11,2,10",QF,GRAND_SLAM,WD,75,Main Draw,FUKUHARA Ai (JPN) / ISHIKAWA Kasumi (JPN),KANG Misoon (KOR) / SONG Maeum (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,LI Jiawei/WANG Yuegu,FUKUHARA Ai/ISHIKAWA Kasumi,4,2,"11,7,11,8,20,11|8,11,6,11,18,7",SF,GRAND_SLAM,WD,75,Main Draw,LI Jiawei (SGP) / WANG Yuegu (SGP),FUKUHARA Ai (JPN) / ISHIKAWA Kasumi (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,FUJII Hiroko/WAKAMIYA Misako,LI Jiawei/WANG Yuegu,4,1,"5,11,11,13,11|11,9,8,11,6",F,GRAND_SLAM,WD,75,Main Draw,FUJII Hiroko (JPN) / WAKAMIYA Misako (JPN),LI Jiawei (SGP) / WANG Yuegu (SGP)
-Pro Tour Japan Open Kobe 2011,2011-07-07,LI Jiawei/WANG Yuegu,PARK Youngsook/YANG Ha Eun,4,1,"7,11,11,11,11|11,3,6,6,3",QF,GRAND_SLAM,WD,75,Main Draw,LI Jiawei (SGP) / WANG Yuegu (SGP),PARK Youngsook (KOR) / YANG Ha Eun (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,FUJII Hiroko/WAKAMIYA Misako,PARK Miyoung/SUH Hyo Won,4,0,"11,11,11,11|6,5,6,4",SF,GRAND_SLAM,WD,75,Main Draw,FUJII Hiroko (JPN) / WAKAMIYA Misako (JPN),PARK Miyoung (KOR) / SUH Hyo Won (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,PARK Youngsook/YANG Ha Eun,FENG Tianwei/SUN Beibei,3,2,"8,11,8,11,11|11,7,11,9,5",R16,GRAND_SLAM,WD,75,Main Draw,PARK Youngsook (KOR) / YANG Ha Eun (KOR),FENG Tianwei (SGP) / SUN Beibei (SGP)
-Pro Tour Japan Open Kobe 2011,2011-07-07,ABE Megumi/ONO Shiho,CHENG I-Ching/HUANG Yi-Hua,3,1,"11,11,6,11|7,7,11,9",R16,GRAND_SLAM,WD,75,Main Draw,ABE Megumi (JPN) / ONO Shiho (JPN),CHENG I-Ching (TPE) / HUANG Yi-Hua (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,FUJII Hiroko/WAKAMIYA Misako,LIN Chia-Hui/LIU Hsing-Yin,3,0,"11,11,11|9,7,9",R16,GRAND_SLAM,WD,75,Main Draw,FUJII Hiroko (JPN) / WAKAMIYA Misako (JPN),LIN Chia-Hui (TPE) / LIU Hsing-Yin (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,LIN Chia-Hui/LIU Hsing-Yin,CHINBAT Nomin-Erdene/OWEN Naomi,3,0,,QR16,GRAND_SLAM,WD,75,Qualification,LIN Chia-Hui (TPE) / LIU Hsing-Yin (TPE),CHINBAT Nomin-Erdene (MGL) / OWEN Naomi (WAL)
-Pro Tour Japan Open Kobe 2011,2011-07-07,FENG Tianwei,CHEN Szu-Yu,4,1,"11,11,11,5,11|6,6,2,11,8",R32,GRAND_SLAM,WS,75,Main Draw,FENG Tianwei (SGP),CHEN Szu-Yu (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,LI Jiawei,MORIZONO Misaki,4,0,"11,11,11,12|7,9,8,10",R32,GRAND_SLAM,WS,75,Main Draw,LI Jiawei (SGP),MORIZONO Misaki (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,FUJII Hiroko,JEON Jihee,4,2,"11,11,5,12,10,11|5,9,11,10,12,8",R32,GRAND_SLAM,WS,75,Main Draw,FUJII Hiroko (JPN),JEON Jihee (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,JIANG Huajun,TANIOKA Ayuka,4,0,"11,11,11,12|7,8,3,10",R32,GRAND_SLAM,WS,75,Main Draw,JIANG Huajun (HKG),TANIOKA Ayuka (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,WANG Yuegu,ABE Megumi,4,1,"11,8,11,11,11|7,11,5,2,2",R32,GRAND_SLAM,WS,75,Main Draw,WANG Yuegu (SGP),ABE Megumi (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,WAKAMIYA Misako,SUN Beibei,4,3,"6,11,9,11,4,11,11|11,9,11,4,11,8,5",R32,GRAND_SLAM,WS,75,Main Draw,WAKAMIYA Misako (JPN),SUN Beibei (SGP)
-Pro Tour Japan Open Kobe 2011,2011-07-07,YAMANASHI Yuri,KANG Misoon,4,1,"11,11,11,10,11|6,3,8,12,8",R32,GRAND_SLAM,WS,75,Main Draw,YAMANASHI Yuri (JPN),KANG Misoon (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,HIRANO Sayaka,SUH Hyo Won,4,1,"6,11,11,11,11|11,6,8,6,4",R32,GRAND_SLAM,WS,75,Main Draw,HIRANO Sayaka (JPN),SUH Hyo Won (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,FUKUHARA Ai,CHENG I-Ching,4,3,"11,11,11,9,6,5,11|5,4,8,11,11,11,8",R32,GRAND_SLAM,WS,75,Main Draw,FUKUHARA Ai (JPN),CHENG I-Ching (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,SONG Maeum,ISHIGAKI Yuka,4,3,"8,3,11,11,9,11,11|11,11,6,7,11,9,8",R32,GRAND_SLAM,WS,75,Main Draw,SONG Maeum (KOR),ISHIGAKI Yuka (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,LEE I-Chen,YANG Ha Eun,4,3,"10,11,11,4,11,8,11|12,5,9,11,6,11,5",R32,GRAND_SLAM,WS,75,Main Draw,LEE I-Chen (TPE),YANG Ha Eun (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,SHEN Yanfei,MAEDA Miyu,4,0,"12,11,11,12|10,4,8,10",R32,GRAND_SLAM,WS,75,Main Draw,SHEN Yanfei (ESP),MAEDA Miyu (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,ONO Shiho,PARK Miyoung,4,2,"11,12,11,11,6,11|9,14,8,9,11,6",R32,GRAND_SLAM,WS,75,Main Draw,ONO Shiho (JPN),PARK Miyoung (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MOON Hyunjung,YU Mengyu,4,3,"4,11,11,11,8,11,11|11,6,3,8,11,13,8",R32,GRAND_SLAM,WS,75,Main Draw,MOON Hyunjung (KOR),YU Mengyu (SGP)
-Pro Tour Japan Open Kobe 2011,2011-07-07,NG Wing Nam,HUANG Yi-Hua,4,2,"11,2,11,8,11,11|8,11,7,11,6,8",R32,GRAND_SLAM,WS,75,Main Draw,NG Wing Nam (HKG),HUANG Yi-Hua (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,ISHIKAWA Kasumi,CHOI Moonyoung,4,0,"11,11,11,11|7,9,5,5",R32,GRAND_SLAM,WS,75,Main Draw,ISHIKAWA Kasumi (JPN),CHOI Moonyoung (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,FENG Tianwei,LI Jiawei,4,3,"10,4,11,11,11,11,11|12,11,13,8,6,6,8",R16,GRAND_SLAM,WS,75,Main Draw,FENG Tianwei (SGP),LI Jiawei (SGP)
-Pro Tour Japan Open Kobe 2011,2011-07-07,FUJII Hiroko,JIANG Huajun,4,0,"13,11,11,11|11,4,4,9",R16,GRAND_SLAM,WS,75,Main Draw,FUJII Hiroko (JPN),JIANG Huajun (HKG)
-Pro Tour Japan Open Kobe 2011,2011-07-07,WANG Yuegu,WAKAMIYA Misako,4,1,"8,11,11,11,11|11,5,2,9,7",R16,GRAND_SLAM,WS,75,Main Draw,WANG Yuegu (SGP),WAKAMIYA Misako (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,HIRANO Sayaka,YAMANASHI Yuri,4,1,"3,11,12,11,11|11,9,10,7,7",R16,GRAND_SLAM,WS,75,Main Draw,HIRANO Sayaka (JPN),YAMANASHI Yuri (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,FUKUHARA Ai,SONG Maeum,4,2,"11,9,11,8,13,11|9,11,5,11,11,5",R16,GRAND_SLAM,WS,75,Main Draw,FUKUHARA Ai (JPN),SONG Maeum (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,LEE I-Chen,SHEN Yanfei,4,3,"11,5,7,11,4,11,14|9,11,11,5,11,4,12",R16,GRAND_SLAM,WS,75,Main Draw,LEE I-Chen (TPE),SHEN Yanfei (ESP)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MOON Hyunjung,ONO Shiho,4,3,"11,7,11,3,12,11,12|7,11,13,11,10,8,10",R16,GRAND_SLAM,WS,75,Main Draw,MOON Hyunjung (KOR),ONO Shiho (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,ISHIKAWA Kasumi,NG Wing Nam,4,1,"11,11,12,11,11|8,6,14,7,4",R16,GRAND_SLAM,WS,75,Main Draw,ISHIKAWA Kasumi (JPN),NG Wing Nam (HKG)
-Pro Tour Japan Open Kobe 2011,2011-07-07,FENG Tianwei,FUJII Hiroko,4,0,"11,11,11,11|9,8,2,6",QF,GRAND_SLAM,WS,75,Main Draw,FENG Tianwei (SGP),FUJII Hiroko (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,WANG Yuegu,HIRANO Sayaka,4,2,"11,11,9,9,11,11|4,9,11,11,5,8",QF,GRAND_SLAM,WS,75,Main Draw,WANG Yuegu (SGP),HIRANO Sayaka (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,FUKUHARA Ai,LEE I-Chen,4,2,"11,11,7,11,10,11|5,7,11,9,12,5",QF,GRAND_SLAM,WS,75,Main Draw,FUKUHARA Ai (JPN),LEE I-Chen (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,ISHIKAWA Kasumi,MOON Hyunjung,4,2,"13,9,11,11,13,11|15,11,7,6,11,7",QF,GRAND_SLAM,WS,75,Main Draw,ISHIKAWA Kasumi (JPN),MOON Hyunjung (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,FENG Tianwei,WANG Yuegu,4,1,"6,11,11,11,11|11,3,5,7,7",SF,GRAND_SLAM,WS,75,Main Draw,FENG Tianwei (SGP),WANG Yuegu (SGP)
-Pro Tour Japan Open Kobe 2011,2011-07-07,FUKUHARA Ai,ISHIKAWA Kasumi,4,0,"13,11,16,11|11,9,14,6",SF,GRAND_SLAM,WS,75,Main Draw,FUKUHARA Ai (JPN),ISHIKAWA Kasumi (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,FENG Tianwei,FUKUHARA Ai,4,0,"11,12,11,15|8,10,9,13",F,GRAND_SLAM,WS,75,Main Draw,FENG Tianwei (SGP),FUKUHARA Ai (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,ABE Megumi,SUH Hyo Won,4,1,"11,11,11,11,11|8,4,9,13,5",,GRAND_SLAM,WS,75,Qualification,ABE Megumi (JPN),SUH Hyo Won (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,SUH Hyo Won,HSIUNG Nai-I,4,0,"11,11,11,11|5,9,9,4",,GRAND_SLAM,WS,75,Qualification,SUH Hyo Won (KOR),HSIUNG Nai-I (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,HSIUNG Nai-I,ABE Megumi,4,1,"11,8,11,11,11|2,11,6,9,7",,GRAND_SLAM,WS,75,Qualification,HSIUNG Nai-I (TPE),ABE Megumi (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MOON Hyunjung,SATO Yui,4,1,"11,11,11,11,11|13,8,6,9,5",,GRAND_SLAM,WS,75,Qualification,MOON Hyunjung (KOR),SATO Yui (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MOON Hyunjung,LIN Chia-Hui,4,0,"11,11,11,11|6,8,7,5",,GRAND_SLAM,WS,75,Qualification,MOON Hyunjung (KOR),LIN Chia-Hui (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,LIN Chia-Hui,SATO Yui,4,3,"13,7,11,9,8,11,11|11,11,5,11,11,7,5",,GRAND_SLAM,WS,75,Qualification,LIN Chia-Hui (TPE),SATO Yui (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,WAKAMIYA Misako,PAN Chun-Chu,4,0,"11,11,11,11|4,9,8,7",,GRAND_SLAM,WS,75,Qualification,WAKAMIYA Misako (JPN),PAN Chun-Chu (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,WAKAMIYA Misako,MUANGSUK Anisara,4,0,"11,15,11,11|4,13,4,6",,GRAND_SLAM,WS,75,Qualification,WAKAMIYA Misako (JPN),MUANGSUK Anisara (THA)
-Pro Tour Japan Open Kobe 2011,2011-07-07,PAN Chun-Chu,MUANGSUK Anisara,4,0,"12,11,11,16|10,4,7,14",,GRAND_SLAM,WS,75,Qualification,PAN Chun-Chu (TPE),MUANGSUK Anisara (THA)
-Pro Tour Japan Open Kobe 2011,2011-07-07,CHENG I-Ching,KIM Seoyeon,4,3,"2,7,11,17,11,12,11|11,11,7,15,8,14,8",,GRAND_SLAM,WS,75,Qualification,CHENG I-Ching (TPE),KIM Seoyeon (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,ONO Shiho,ZHANG Mo,4,0,"11,11,11,11|6,7,9,8",,GRAND_SLAM,WS,75,Qualification,ONO Shiho (JPN),ZHANG Mo (CAN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,CHENG I-Ching,ZHANG Mo,4,3,"8,5,11,11,9,11,11|11,11,3,6,11,8,3",,GRAND_SLAM,WS,75,Qualification,CHENG I-Ching (TPE),ZHANG Mo (CAN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,ONO Shiho,KIM Seoyeon,4,0,"11,11,11,11|9,4,6,4",,GRAND_SLAM,WS,75,Qualification,ONO Shiho (JPN),KIM Seoyeon (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,CHENG I-Ching,ONO Shiho,4,3,"8,11,11,8,11,2,11|11,8,7,11,7,11,7",,GRAND_SLAM,WS,75,Qualification,CHENG I-Ching (TPE),ONO Shiho (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,KIM Seoyeon,ZHANG Mo,4,2,"8,12,11,11,10,11|11,10,3,7,12,4",,GRAND_SLAM,WS,75,Qualification,KIM Seoyeon (KOR),ZHANG Mo (CAN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MORIZONO Misaki,LUO Anqi,4,0,"11,11,11,11|5,2,1,3",,GRAND_SLAM,WS,75,Qualification,MORIZONO Misaki (JPN),LUO Anqi (CAN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,CHEN Szu-Yu,MOON Bosun,4,0,"11,11,11,11|5,5,6,7",,GRAND_SLAM,WS,75,Qualification,CHEN Szu-Yu (TPE),MOON Bosun (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MORIZONO Misaki,CHEN Szu-Yu,4,0,"11,11,11,11|6,7,6,6",,GRAND_SLAM,WS,75,Qualification,MORIZONO Misaki (JPN),CHEN Szu-Yu (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MOON Bosun,LUO Anqi,4,1,"11,11,8,11,11|7,2,11,3,9",,GRAND_SLAM,WS,75,Qualification,MOON Bosun (KOR),LUO Anqi (CAN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MORIZONO Misaki,MOON Bosun,4,0,"11,11,11,11|2,4,9,9",,GRAND_SLAM,WS,75,Qualification,MORIZONO Misaki (JPN),MOON Bosun (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,CHEN Szu-Yu,LUO Anqi,4,0,"11,11,11,11|4,7,3,9",,GRAND_SLAM,WS,75,Qualification,CHEN Szu-Yu (TPE),LUO Anqi (CAN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,SONG Maeum,LIU Hsing-Yin,4,0,"11,11,11,11|8,5,8,6",,GRAND_SLAM,WS,75,Qualification,SONG Maeum (KOR),LIU Hsing-Yin (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,KOMWONG Nanthana,TORII Yuka,4,0,"11,11,11,11|7,3,5,6",,GRAND_SLAM,WS,75,Qualification,KOMWONG Nanthana (THA),TORII Yuka (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,SONG Maeum,KOMWONG Nanthana,4,1,"6,11,11,11,11|11,3,4,8,8",,GRAND_SLAM,WS,75,Qualification,SONG Maeum (KOR),KOMWONG Nanthana (THA)
-Pro Tour Japan Open Kobe 2011,2011-07-07,TORII Yuka,LIU Hsing-Yin,4,3,"8,11,11,13,10,8,11|11,5,5,11,12,11,6",,GRAND_SLAM,WS,75,Qualification,TORII Yuka (JPN),LIU Hsing-Yin (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,SONG Maeum,TORII Yuka,4,3,"7,11,5,11,11,8,11|11,2,11,6,5,11,3",,GRAND_SLAM,WS,75,Qualification,SONG Maeum (KOR),TORII Yuka (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,LIU Hsing-Yin,KOMWONG Nanthana,4,1,"11,11,8,11,11|8,8,11,7,8",,GRAND_SLAM,WS,75,Qualification,LIU Hsing-Yin (TPE),KOMWONG Nanthana (THA)
-Pro Tour Japan Open Kobe 2011,2011-07-07,JEON Jihee,HOU Yu-Ling,4,1,"11,10,11,12,11|8,12,3,10,8",,GRAND_SLAM,WS,75,Qualification,JEON Jihee (KOR),HOU Yu-Ling (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MAEDA Miyu,CHINBAT Nomin-Erdene,4,0,"11,11,11,11|3,2,7,6",,GRAND_SLAM,WS,75,Qualification,MAEDA Miyu (JPN),CHINBAT Nomin-Erdene (MGL)
-Pro Tour Japan Open Kobe 2011,2011-07-07,JEON Jihee,MAEDA Miyu,4,1,"11,6,11,11,11|5,11,5,8,5",,GRAND_SLAM,WS,75,Qualification,JEON Jihee (KOR),MAEDA Miyu (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,JEON Jihee,CHINBAT Nomin-Erdene,4,0,"11,11,11,11|2,5,3,6",,GRAND_SLAM,WS,75,Qualification,JEON Jihee (KOR),CHINBAT Nomin-Erdene (MGL)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MAEDA Miyu,HOU Yu-Ling,4,1,"11,11,5,11,11|6,4,11,6,6",,GRAND_SLAM,WS,75,Qualification,MAEDA Miyu (JPN),HOU Yu-Ling (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,TANIOKA Ayuka,OWEN Naomi,4,0,"11,11,11,12|5,3,5,10",,GRAND_SLAM,WS,75,Qualification,TANIOKA Ayuka (JPN),OWEN Naomi (WAL)
-Pro Tour Japan Open Kobe 2011,2011-07-07,LEE I-Chen,SIM Kai Xin Zena,4,2,"11,7,11,7,11,11|3,11,7,11,4,5",,GRAND_SLAM,WS,75,Qualification,LEE I-Chen (TPE),SIM Kai Xin Zena (SGP)
-Pro Tour Japan Open Kobe 2011,2011-07-07,LEE I-Chen,TANIOKA Ayuka,4,3,"2,8,11,11,7,11,12|11,11,4,8,11,7,10",,GRAND_SLAM,WS,75,Qualification,LEE I-Chen (TPE),TANIOKA Ayuka (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,OWEN Naomi,SIM Kai Xin Zena,4,0,"11,11,11,11|5,7,9,7",,GRAND_SLAM,WS,75,Qualification,OWEN Naomi (WAL),SIM Kai Xin Zena (SGP)
-Pro Tour Japan Open Kobe 2011,2011-07-07,TANIOKA Ayuka,SIM Kai Xin Zena,4,3,"11,5,11,11,9,4,14|7,11,7,5,11,11,12",,GRAND_SLAM,WS,75,Qualification,TANIOKA Ayuka (JPN),SIM Kai Xin Zena (SGP)
-Pro Tour Japan Open Kobe 2011,2011-07-07,LEE I-Chen,OWEN Naomi,4,0,"11,11,11,11|8,5,9,6",,GRAND_SLAM,WS,75,Qualification,LEE I-Chen (TPE),OWEN Naomi (WAL)
-Pro Tour Japan Open Kobe 2011,2011-07-07,YAMANASHI Yuri,AMANO Yu,4,2,"13,11,11,10,8,11|11,7,3,12,11,5",,GRAND_SLAM,WS,75,Qualification,YAMANASHI Yuri (JPN),AMANO Yu (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,CHOI Moonyoung,TSUI Pao-Wen,4,2,"12,11,11,6,11,13|14,7,8,11,6,11",,GRAND_SLAM,WS,75,Qualification,CHOI Moonyoung (KOR),TSUI Pao-Wen (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,YAMANASHI Yuri,CHOI Moonyoung,4,1,"7,11,11,12,11|11,7,5,10,5",,GRAND_SLAM,WS,75,Qualification,YAMANASHI Yuri (JPN),CHOI Moonyoung (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,AMANO Yu,TSUI Pao-Wen,4,1,"9,11,11,11,11|11,9,4,3,7",,GRAND_SLAM,WS,75,Qualification,AMANO Yu (JPN),TSUI Pao-Wen (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,YAMANASHI Yuri,TSUI Pao-Wen,4,0,"11,11,11,11|1,5,9,6",,GRAND_SLAM,WS,75,Qualification,YAMANASHI Yuri (JPN),TSUI Pao-Wen (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,CHOI Moonyoung,AMANO Yu,4,1,"11,11,11,9,11|5,5,9,11,6",,GRAND_SLAM,WS,75,Qualification,CHOI Moonyoung (KOR),AMANO Yu (JPN)
-Pro Tour Japan Open Kobe 2011,2011-07-07,NG Wing Nam,HAMAMOTO Yui,4,3,"11,11,8,11,5,2,11|8,9,11,7,11,11,7",,GRAND_SLAM,WS,75,Qualification,NG Wing Nam (HKG),HAMAMOTO Yui (AUT)
-Pro Tour Japan Open Kobe 2011,2011-07-07,PARK Youngsook,CHANG Ya-Chuan,4,1,"11,11,7,11,11|5,3,11,3,7",,GRAND_SLAM,WS,75,Qualification,PARK Youngsook (KOR),CHANG Ya-Chuan (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,NG Wing Nam,PARK Youngsook,4,2,"11,11,9,6,11,13|4,8,11,11,9,11",,GRAND_SLAM,WS,75,Qualification,NG Wing Nam (HKG),PARK Youngsook (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,HAMAMOTO Yui,CHANG Ya-Chuan,4,2,"11,12,11,10,8,11|6,10,9,12,11,8",,GRAND_SLAM,WS,75,Qualification,HAMAMOTO Yui (AUT),CHANG Ya-Chuan (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,NG Wing Nam,CHANG Ya-Chuan,4,1,"11,11,11,4,13|7,5,7,11,11",,GRAND_SLAM,WS,75,Qualification,NG Wing Nam (HKG),CHANG Ya-Chuan (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,PARK Youngsook,HAMAMOTO Yui,4,0,"11,11,11,11|8,8,4,6",,GRAND_SLAM,WS,75,Qualification,PARK Youngsook (KOR),HAMAMOTO Yui (AUT)
-Pro Tour Japan Open Kobe 2011,2011-07-07,ABE Megumi,PARK Youngsook,4,1,"11,11,13,11,11|6,9,15,9,8",QR16,GRAND_SLAM,WS,75,Qualification,ABE Megumi (JPN),PARK Youngsook (KOR)
-Pro Tour Japan Open Kobe 2011,2011-07-07,CHOI Moonyoung,LIN Chia-Hui,4,1,"11,11,10,11,11|7,6,12,9,1",QR16,GRAND_SLAM,WS,75,Qualification,CHOI Moonyoung (KOR),LIN Chia-Hui (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,TANIOKA Ayuka,PAN Chun-Chu,4,0,"11,11,11,11|9,4,3,4",QR16,GRAND_SLAM,WS,75,Qualification,TANIOKA Ayuka (JPN),PAN Chun-Chu (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,ONO Shiho,LIU Hsing-Yin,4,1,"11,12,11,7,11|8,10,8,11,9",QR16,GRAND_SLAM,WS,75,Qualification,ONO Shiho (JPN),LIU Hsing-Yin (TPE)
-Pro Tour Japan Open Kobe 2011,2011-07-07,MAEDA Miyu,CHEN Szu-Yu,4,2,"5,17,6,11,11,17|11,15,11,8,8,15",QR16,GRAND_SLAM,WS,75,Qualification,MAEDA Miyu (JPN),CHEN Szu-Yu (TPE)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Pro Tour Japan Open Kobe 2011,2011-07-07,JIN Yixiong/SONG Hongyuan,JEOUNG Youngsik/KIM Minseok,3,2,"11,10,12,9,11|9,12,10,11,6",R16,GRAND_SLAM,MD,75,Main Draw,JIN Yixiong (CHN) / SONG Hongyuan (CHN),JEOUNG Youngsik (KOR) / KIM Minseok (KOR),JIN Yixiong
+Pro Tour Japan Open Kobe 2011,2011-07-07,KARUBE Ryusuke/KASAHARA Hiromitsu,LIU Yi/YIN Hang,3,0,"11,11,11|3,3,9",QR16,GRAND_SLAM,MD,75,Qualification,KARUBE Ryusuke (JPN) / KASAHARA Hiromitsu (JPN),LIU Yi (CHN) / YIN Hang (CHN),KARUBE Ryusuke
+Pro Tour Japan Open Kobe 2011,2011-07-07,LIN Gaoyuan/WU Jiaji,KISHIKAWA Seiya/YOSHIDA Kaii,4,1,"11,11,7,11,11|9,8,11,8,7",QF,GRAND_SLAM,MD,75,Main Draw,LIN Gaoyuan (CHN) / WU Jiaji (DOM),KISHIKAWA Seiya (JPN) / YOSHIDA Kaii (JPN),LIN Gaoyuan
+Pro Tour Japan Open Kobe 2011,2011-07-07,LIN Gaoyuan/WU Jiaji,JIN Yixiong/SONG Hongyuan,4,3,"11,9,11,11,8,13,11|8,11,9,1,11,15,9",SF,GRAND_SLAM,MD,75,Main Draw,LIN Gaoyuan (CHN) / WU Jiaji (DOM),JIN Yixiong (CHN) / SONG Hongyuan (CHN),LIN Gaoyuan
+Pro Tour Japan Open Kobe 2011,2011-07-07,LIN Gaoyuan/WU Jiaji,LEE Chia-Sheng/WANG LI Chung-Yi,3,0,"11,11,11|8,7,7",QR16,GRAND_SLAM,MD,75,Qualification,LIN Gaoyuan (CHN) / WU Jiaji (DOM),LEE Chia-Sheng (TPE) / WANG LI Chung-Yi (TPE),LIN Gaoyuan
+Pro Tour Japan Open Kobe 2011,2011-07-07,KISHIKAWA Seiya/YOSHIDA Kaii,FLORE Tristan/GAUZY Simon,3,2,"5,11,4,11,11|11,8,11,5,9",R16,GRAND_SLAM,MD,75,Main Draw,KISHIKAWA Seiya (JPN) / YOSHIDA Kaii (JPN),FLORE Tristan (FRA) / GAUZY Simon (FRA),KISHIKAWA Seiya
+Pro Tour Japan Open Kobe 2011,2011-07-07,FLORE Tristan/GAUZY Simon,SAKAI Asuka/YOSHIMURA Maharu,3,2,"11,13,10,4,12|9,11,12,11,10",QR16,GRAND_SLAM,MD,75,Qualification,FLORE Tristan (FRA) / GAUZY Simon (FRA),SAKAI Asuka (JPN) / YOSHIMURA Maharu (JPN),FLORE Tristan
+Pro Tour Japan Open Kobe 2011,2011-07-07,MATSUDAIRA Kenta/NIWA Koki,KORBEL Petr/TAN Ruiwu,3,2,"5,11,7,11,11|11,6,11,4,8",R16,GRAND_SLAM,MD,75,Main Draw,MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN),KORBEL Petr (CZE) / TAN Ruiwu (CRO),MATSUDAIRA Kenta
+Pro Tour Japan Open Kobe 2011,2011-07-07,CHIANG Hung-Chieh/HUANG Sheng-Sheng,OYA Hidetoshi/TAKAKIWA Taku,3,1,"9,11,11,11|11,8,8,7",R16,GRAND_SLAM,MD,75,Main Draw,CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE),OYA Hidetoshi (JPN) / TAKAKIWA Taku (JPN),CHIANG Hung-Chieh
+Pro Tour Japan Open Kobe 2011,2011-07-07,CHAN Kazuhiro/MATSUDAIRA Kenji,HAN Jimin/LEE Jungsam,3,1,"4,11,14,11|11,5,12,6",R16,GRAND_SLAM,MD,75,Main Draw,CHAN Kazuhiro (JPN) / MATSUDAIRA Kenji (JPN),HAN Jimin (KOR) / LEE Jungsam (KOR),CHAN Kazuhiro
+Pro Tour Japan Open Kobe 2011,2011-07-07,MATSUDAIRA Kenta/NIWA Koki,CHIANG Hung-Chieh/HUANG Sheng-Sheng,4,2,"9,11,11,11,7,11|11,4,9,4,11,5",QF,GRAND_SLAM,MD,75,Main Draw,MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN),CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE),MATSUDAIRA Kenta
+Pro Tour Japan Open Kobe 2011,2011-07-07,CHAN Kazuhiro/MATSUDAIRA Kenji,RYU Seungmin/SEO Hyundeok,4,1,"11,9,11,11,11|5,11,6,7,8",QF,GRAND_SLAM,MD,75,Main Draw,CHAN Kazuhiro (JPN) / MATSUDAIRA Kenji (JPN),RYU Seungmin (KOR) / SEO Hyundeok (KOR),CHAN Kazuhiro
+Pro Tour Japan Open Kobe 2011,2011-07-07,MATSUDAIRA Kenta/NIWA Koki,CHAN Kazuhiro/MATSUDAIRA Kenji,4,1,"11,5,12,11,11|9,11,10,5,8",SF,GRAND_SLAM,MD,75,Main Draw,MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN),CHAN Kazuhiro (JPN) / MATSUDAIRA Kenji (JPN),MATSUDAIRA Kenta
+Pro Tour Japan Open Kobe 2011,2011-07-07,LIN Gaoyuan/WU Jiaji,MATSUDAIRA Kenta/NIWA Koki,4,1,"11,11,9,11,11|6,9,11,7,9",F,GRAND_SLAM,MD,75,Main Draw,LIN Gaoyuan (CHN) / WU Jiaji (DOM),MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN),LIN Gaoyuan
+Pro Tour Japan Open Kobe 2011,2011-07-07,HAN Jimin/LEE Jungsam,CHAITAT Chaisit/HOYAMA Hugo,3,0,,QR16,GRAND_SLAM,MD,75,Qualification,HAN Jimin (KOR) / LEE Jungsam (KOR),CHAITAT Chaisit (THA) / HOYAMA Hugo (BRA),HAN Jimin
+Pro Tour Japan Open Kobe 2011,2011-07-07,RYU Seungmin/SEO Hyundeok,CHEN Feng/LI Hu,3,1,"11,11,9,11|9,9,11,2",R16,GRAND_SLAM,MD,75,Main Draw,RYU Seungmin (KOR) / SEO Hyundeok (KOR),CHEN Feng (SGP) / LI Hu (SGP),RYU Seungmin
+Pro Tour Japan Open Kobe 2011,2011-07-07,YANG Zi/ZHAN Jian,KARUBE Ryusuke/KASAHARA Hiromitsu,3,1,"11,11,11,11|8,13,8,9",R16,GRAND_SLAM,MD,75,Main Draw,YANG Zi (SGP) / ZHAN Jian (SGP),KARUBE Ryusuke (JPN) / KASAHARA Hiromitsu (JPN),YANG Zi
+Pro Tour Japan Open Kobe 2011,2011-07-07,JIN Yixiong/SONG Hongyuan,YANG Zi/ZHAN Jian,4,0,"11,11,11,11|8,7,8,4",QF,GRAND_SLAM,MD,75,Main Draw,JIN Yixiong (CHN) / SONG Hongyuan (CHN),YANG Zi (SGP) / ZHAN Jian (SGP),JIN Yixiong
+Pro Tour Japan Open Kobe 2011,2011-07-07,LIN Gaoyuan/WU Jiaji,CHUANG Chih-Yuan/WU Chih-Chi,3,2,"11,6,11,8,11|8,11,5,11,9",R16,GRAND_SLAM,MD,75,Main Draw,LIN Gaoyuan (CHN) / WU Jiaji (DOM),CHUANG Chih-Yuan (TPE) / WU Chih-Chi (TPE),LIN Gaoyuan
+Pro Tour Japan Open Kobe 2011,2011-07-07,MIZUTANI Jun,CHEN Feng,4,0,"11,11,13,11|5,4,11,4",R32,GRAND_SLAM,MS,75,Main Draw,MIZUTANI Jun (JPN),CHEN Feng (SGP),MIZUTANI Jun
+Pro Tour Japan Open Kobe 2011,2011-07-07,KORBEL Petr,KASAHARA Hiromitsu,4,2,"1,11,5,11,13,20|11,8,11,7,11,18",R32,GRAND_SLAM,MS,75,Main Draw,KORBEL Petr (CZE),KASAHARA Hiromitsu (JPN),KORBEL Petr
+Pro Tour Japan Open Kobe 2011,2011-07-07,LI Hu,JEONG Sangeun,4,3,"8,13,12,6,11,15,11|11,15,10,11,9,13,3",R32,GRAND_SLAM,MS,75,Main Draw,LI Hu (SGP),JEONG Sangeun (KOR),LI Hu
+Pro Tour Japan Open Kobe 2011,2011-07-07,KARUBE Ryusuke,KIM Minseok,4,2,"11,6,10,11,11,11|9,11,12,8,7,7",R32,GRAND_SLAM,MS,75,Main Draw,KARUBE Ryusuke (JPN),KIM Minseok (KOR),KARUBE Ryusuke
+Pro Tour Japan Open Kobe 2011,2011-07-07,LIU Yi,YOSHIDA Kaii,4,1,"6,11,11,12,11|11,9,2,10,6",R32,GRAND_SLAM,MS,75,Main Draw,LIU Yi (CHN),YOSHIDA Kaii (JPN),LIU Yi
+Pro Tour Japan Open Kobe 2011,2011-07-07,WU Jiaji,CHAN Kazuhiro,4,2,"3,6,11,11,11,11|11,11,7,6,9,4",R32,GRAND_SLAM,MS,75,Main Draw,WU Jiaji (DOM),CHAN Kazuhiro (JPN),WU Jiaji
+Pro Tour Japan Open Kobe 2011,2011-07-07,MIUCHI Kentaro,JEOUNG Youngsik,4,1,"11,11,11,11,11|8,5,13,8,8",R32,GRAND_SLAM,MS,75,Main Draw,MIUCHI Kentaro (JPN),JEOUNG Youngsik (KOR),MIUCHI Kentaro
+Pro Tour Japan Open Kobe 2011,2011-07-07,TAKAKIWA Taku,RYU Seungmin,4,2,"13,16,4,13,10,11|11,14,11,11,12,7",R32,GRAND_SLAM,MS,75,Main Draw,TAKAKIWA Taku (JPN),RYU Seungmin (KOR),TAKAKIWA Taku
+Pro Tour Japan Open Kobe 2011,2011-07-07,CHUANG Chih-Yuan,ZHAN Jian,4,3,"11,10,6,11,11,9,11|8,12,11,7,5,11,5",R32,GRAND_SLAM,MS,75,Main Draw,CHUANG Chih-Yuan (TPE),ZHAN Jian (SGP),CHUANG Chih-Yuan
+Pro Tour Japan Open Kobe 2011,2011-07-07,OYA Hidetoshi,YOON Jaeyoung,4,3,"9,11,11,8,5,11,12|11,2,6,11,11,9,10",R32,GRAND_SLAM,MS,75,Main Draw,OYA Hidetoshi (JPN),YOON Jaeyoung (KOR),OYA Hidetoshi
+Pro Tour Japan Open Kobe 2011,2011-07-07,MATSUDAIRA Kenji,YANG Zi,4,1,"11,11,12,11,11|9,8,14,8,4",R32,GRAND_SLAM,MS,75,Main Draw,MATSUDAIRA Kenji (JPN),YANG Zi (SGP),MATSUDAIRA Kenji
+Pro Tour Japan Open Kobe 2011,2011-07-07,KISHIKAWA Seiya,HUANG Sheng-Sheng,4,1,"11,11,7,12,14|7,6,11,10,12",R32,GRAND_SLAM,MS,75,Main Draw,KISHIKAWA Seiya (JPN),HUANG Sheng-Sheng (TPE),KISHIKAWA Seiya
+Pro Tour Japan Open Kobe 2011,2011-07-07,LIN Gaoyuan,MATSUDAIRA Kenta,4,3,"5,8,11,6,11,11,11|11,11,4,11,8,6,5",R32,GRAND_SLAM,MS,75,Main Draw,LIN Gaoyuan (CHN),MATSUDAIRA Kenta (JPN),LIN Gaoyuan
+Pro Tour Japan Open Kobe 2011,2011-07-07,NIWA Koki,JIN Yixiong,4,2,"13,11,9,11,4,11|11,9,11,8,11,7",R32,GRAND_SLAM,MS,75,Main Draw,NIWA Koki (JPN),JIN Yixiong (CHN),NIWA Koki
+Pro Tour Japan Open Kobe 2011,2011-07-07,SONG Hongyuan,SEO Hyundeok,4,1,"11,12,11,9,11|6,10,8,11,7",R32,GRAND_SLAM,MS,75,Main Draw,SONG Hongyuan (CHN),SEO Hyundeok (KOR),SONG Hongyuan
+Pro Tour Japan Open Kobe 2011,2011-07-07,YIN Hang,OH Sangeun,4,3,"11,7,11,5,11,4,11|7,11,6,11,3,11,8",R32,GRAND_SLAM,MS,75,Main Draw,YIN Hang (CHN),OH Sangeun (KOR),YIN Hang
+Pro Tour Japan Open Kobe 2011,2011-07-07,MIZUTANI Jun,KORBEL Petr,4,3,"11,9,11,4,12,14,11|5,11,6,11,14,12,8",R16,GRAND_SLAM,MS,75,Main Draw,MIZUTANI Jun (JPN),KORBEL Petr (CZE),MIZUTANI Jun
+Pro Tour Japan Open Kobe 2011,2011-07-07,LI Hu,KARUBE Ryusuke,4,3,"8,11,8,11,7,11,11|11,5,11,5,11,3,8",R16,GRAND_SLAM,MS,75,Main Draw,LI Hu (SGP),KARUBE Ryusuke (JPN),LI Hu
+Pro Tour Japan Open Kobe 2011,2011-07-07,LIU Yi,WU Jiaji,4,0,"11,11,11,11|6,5,9,1",R16,GRAND_SLAM,MS,75,Main Draw,LIU Yi (CHN),WU Jiaji (DOM),LIU Yi
+Pro Tour Japan Open Kobe 2011,2011-07-07,TAKAKIWA Taku,MIUCHI Kentaro,4,0,"11,11,11,11|1,7,5,7",R16,GRAND_SLAM,MS,75,Main Draw,TAKAKIWA Taku (JPN),MIUCHI Kentaro (JPN),TAKAKIWA Taku
+Pro Tour Japan Open Kobe 2011,2011-07-07,CHUANG Chih-Yuan,OYA Hidetoshi,4,1,"11,11,9,11,11|7,5,11,7,3",R16,GRAND_SLAM,MS,75,Main Draw,CHUANG Chih-Yuan (TPE),OYA Hidetoshi (JPN),CHUANG Chih-Yuan
+Pro Tour Japan Open Kobe 2011,2011-07-07,KISHIKAWA Seiya,MATSUDAIRA Kenji,4,3,"8,11,3,7,11,11,11|11,5,11,11,5,2,3",R16,GRAND_SLAM,MS,75,Main Draw,KISHIKAWA Seiya (JPN),MATSUDAIRA Kenji (JPN),KISHIKAWA Seiya
+Pro Tour Japan Open Kobe 2011,2011-07-07,NIWA Koki,LIN Gaoyuan,4,3,"11,12,3,3,11,3,11|9,10,11,11,8,11,4",R16,GRAND_SLAM,MS,75,Main Draw,NIWA Koki (JPN),LIN Gaoyuan (CHN),NIWA Koki
+Pro Tour Japan Open Kobe 2011,2011-07-07,SONG Hongyuan,YIN Hang,4,1,"11,14,11,6,11|3,12,8,11,5",R16,GRAND_SLAM,MS,75,Main Draw,SONG Hongyuan (CHN),YIN Hang (CHN),SONG Hongyuan
+Pro Tour Japan Open Kobe 2011,2011-07-07,MIZUTANI Jun,LI Hu,4,2,"10,11,11,11,10,15|12,7,8,5,12,13",QF,GRAND_SLAM,MS,75,Main Draw,MIZUTANI Jun (JPN),LI Hu (SGP),MIZUTANI Jun
+Pro Tour Japan Open Kobe 2011,2011-07-07,TAKAKIWA Taku,LIU Yi,4,3,"11,10,13,11,10,8,11|7,12,11,8,12,11,6",QF,GRAND_SLAM,MS,75,Main Draw,TAKAKIWA Taku (JPN),LIU Yi (CHN),TAKAKIWA Taku
+Pro Tour Japan Open Kobe 2011,2011-07-07,KISHIKAWA Seiya,CHUANG Chih-Yuan,4,3,"8,8,11,7,11,11,11|11,11,8,11,5,6,7",QF,GRAND_SLAM,MS,75,Main Draw,KISHIKAWA Seiya (JPN),CHUANG Chih-Yuan (TPE),KISHIKAWA Seiya
+Pro Tour Japan Open Kobe 2011,2011-07-07,NIWA Koki,SONG Hongyuan,4,1,"11,14,8,11,14|5,12,11,6,12",QF,GRAND_SLAM,MS,75,Main Draw,NIWA Koki (JPN),SONG Hongyuan (CHN),NIWA Koki
+Pro Tour Japan Open Kobe 2011,2011-07-07,MIZUTANI Jun,TAKAKIWA Taku,4,3,"11,11,10,14,8,8,11|9,9,12,12,11,11,8",SF,GRAND_SLAM,MS,75,Main Draw,MIZUTANI Jun (JPN),TAKAKIWA Taku (JPN),MIZUTANI Jun
+Pro Tour Japan Open Kobe 2011,2011-07-07,KISHIKAWA Seiya,NIWA Koki,4,0,"11,11,12,11|8,2,10,8",SF,GRAND_SLAM,MS,75,Main Draw,KISHIKAWA Seiya (JPN),NIWA Koki (JPN),KISHIKAWA Seiya
+Pro Tour Japan Open Kobe 2011,2011-07-07,KISHIKAWA Seiya,MIZUTANI Jun,4,1,"11,6,11,11,11|3,11,9,9,8",F,GRAND_SLAM,MS,75,Main Draw,KISHIKAWA Seiya (JPN),MIZUTANI Jun (JPN),KISHIKAWA Seiya
+Pro Tour Japan Open Kobe 2011,2011-07-07,KIM Minseok,MACHI Asuka,3,0,"11,13,11|4,11,9",R16,GRAND_SLAM,U21MS,75,Main Draw,KIM Minseok (KOR),MACHI Asuka (JPN),KIM Minseok
+Pro Tour Japan Open Kobe 2011,2011-07-07,LIU Yi,CHEN Chien-An,3,1,"11,8,11,11|9,11,8,8",R16,GRAND_SLAM,U21MS,75,Main Draw,LIU Yi (CHN),CHEN Chien-An (TPE),LIU Yi
+Pro Tour Japan Open Kobe 2011,2011-07-07,MORIMOTO Kohei,WU Jiaji,3,2,"9,11,4,11,11|11,9,11,7,7",R16,GRAND_SLAM,U21MS,75,Main Draw,MORIMOTO Kohei (JPN),WU Jiaji (DOM),MORIMOTO Kohei
+Pro Tour Japan Open Kobe 2011,2011-07-07,YIN Hang,JEONG Sangeun,3,1,"11,6,11,11|8,11,6,4",R16,GRAND_SLAM,U21MS,75,Main Draw,YIN Hang (CHN),JEONG Sangeun (KOR),YIN Hang
+Pro Tour Japan Open Kobe 2011,2011-07-07,LIN Gaoyuan,MURAMATSU Yuto,3,0,"11,12,11|5,10,7",R16,GRAND_SLAM,U21MS,75,Main Draw,LIN Gaoyuan (CHN),MURAMATSU Yuto (JPN),LIN Gaoyuan
+Pro Tour Japan Open Kobe 2011,2011-07-07,UEDA Jin,HUNG Tzu-Hsiang,3,0,"11,11,11|4,7,8",R16,GRAND_SLAM,U21MS,75,Main Draw,UEDA Jin (JPN),HUNG Tzu-Hsiang (TPE),UEDA Jin
+Pro Tour Japan Open Kobe 2011,2011-07-07,YOSHIDA Masaki,SONG Hongyuan,3,1,"11,11,2,12|6,7,11,10",R16,GRAND_SLAM,U21MS,75,Main Draw,YOSHIDA Masaki (JPN),SONG Hongyuan (CHN),YOSHIDA Masaki
+Pro Tour Japan Open Kobe 2011,2011-07-07,JEOUNG Youngsik,HIRANO Yuki,3,2,"7,8,11,11,11|11,11,8,4,7",R16,GRAND_SLAM,U21MS,75,Main Draw,JEOUNG Youngsik (KOR),HIRANO Yuki (JPN),JEOUNG Youngsik
+Pro Tour Japan Open Kobe 2011,2011-07-07,KIM Minseok,LIU Yi,4,2,"10,12,11,10,11,11|12,10,8,12,3,8",QF,GRAND_SLAM,U21MS,75,Main Draw,KIM Minseok (KOR),LIU Yi (CHN),KIM Minseok
+Pro Tour Japan Open Kobe 2011,2011-07-07,YIN Hang,MORIMOTO Kohei,4,1,"11,11,8,11,11|9,5,11,7,9",QF,GRAND_SLAM,U21MS,75,Main Draw,YIN Hang (CHN),MORIMOTO Kohei (JPN),YIN Hang
+Pro Tour Japan Open Kobe 2011,2011-07-07,UEDA Jin,LIN Gaoyuan,4,1,"11,11,6,11,11|8,8,11,6,7",QF,GRAND_SLAM,U21MS,75,Main Draw,UEDA Jin (JPN),LIN Gaoyuan (CHN),UEDA Jin
+Pro Tour Japan Open Kobe 2011,2011-07-07,JEOUNG Youngsik,YOSHIDA Masaki,4,2,"12,8,8,11,12,11|10,11,11,5,10,8",QF,GRAND_SLAM,U21MS,75,Main Draw,JEOUNG Youngsik (KOR),YOSHIDA Masaki (JPN),JEOUNG Youngsik
+Pro Tour Japan Open Kobe 2011,2011-07-07,YIN Hang,KIM Minseok,4,0,"11,11,11,11|9,9,7,6",SF,GRAND_SLAM,U21MS,75,Main Draw,YIN Hang (CHN),KIM Minseok (KOR),YIN Hang
+Pro Tour Japan Open Kobe 2011,2011-07-07,JEOUNG Youngsik,UEDA Jin,4,2,"12,11,6,11,7,16|10,9,11,8,11,14",SF,GRAND_SLAM,U21MS,75,Main Draw,JEOUNG Youngsik (KOR),UEDA Jin (JPN),JEOUNG Youngsik
+Pro Tour Japan Open Kobe 2011,2011-07-07,YIN Hang,JEOUNG Youngsik,4,2,"11,11,11,5,7,12|3,7,9,11,11,10",F,GRAND_SLAM,U21MS,75,Main Draw,YIN Hang (CHN),JEOUNG Youngsik (KOR),YIN Hang
+Pro Tour Japan Open Kobe 2011,2011-07-07,NIWA Koki,FLORE Tristan,4,0,"11,13,11,11|4,11,6,9",,GRAND_SLAM,MS,75,Qualification,NIWA Koki (JPN),FLORE Tristan (FRA),NIWA Koki
+Pro Tour Japan Open Kobe 2011,2011-07-07,NIWA Koki,HOYAMA Hugo,4,2,"11,9,11,9,11,11|2,11,6,11,5,2",,GRAND_SLAM,MS,75,Qualification,NIWA Koki (JPN),HOYAMA Hugo (BRA),NIWA Koki
+Pro Tour Japan Open Kobe 2011,2011-07-07,HOYAMA Hugo,FLORE Tristan,4,3,"4,9,11,12,11,10,11|11,11,5,10,9,12,8",,GRAND_SLAM,MS,75,Qualification,HOYAMA Hugo (BRA),FLORE Tristan (FRA),HOYAMA Hugo
+Pro Tour Japan Open Kobe 2011,2011-07-07,LIN Gaoyuan,SHIMOYAMA Takanori,4,1,"11,7,11,11,14|3,11,8,2,12",,GRAND_SLAM,MS,75,Qualification,LIN Gaoyuan (CHN),SHIMOYAMA Takanori (JPN),LIN Gaoyuan
+Pro Tour Japan Open Kobe 2011,2011-07-07,CHEN Feng,TAN Ruiwu,4,2,"11,11,11,8,9,11|7,1,6,11,11,8",,GRAND_SLAM,MS,75,Qualification,CHEN Feng (SGP),TAN Ruiwu (CRO),CHEN Feng
+Pro Tour Japan Open Kobe 2011,2011-07-07,LIN Gaoyuan,CHEN Feng,4,0,"11,11,11,11|3,4,8,9",,GRAND_SLAM,MS,75,Qualification,LIN Gaoyuan (CHN),CHEN Feng (SGP),LIN Gaoyuan
+Pro Tour Japan Open Kobe 2011,2011-07-07,SHIMOYAMA Takanori,TAN Ruiwu,4,2,"11,11,8,11,5,12|8,5,11,3,11,10",,GRAND_SLAM,MS,75,Qualification,SHIMOYAMA Takanori (JPN),TAN Ruiwu (CRO),SHIMOYAMA Takanori
+Pro Tour Japan Open Kobe 2011,2011-07-07,LIN Gaoyuan,TAN Ruiwu,4,2,"11,12,1,11,8,11|7,10,11,8,11,8",,GRAND_SLAM,MS,75,Qualification,LIN Gaoyuan (CHN),TAN Ruiwu (CRO),LIN Gaoyuan
+Pro Tour Japan Open Kobe 2011,2011-07-07,CHEN Feng,SHIMOYAMA Takanori,4,1,"14,11,14,9,12|12,4,12,11,10",,GRAND_SLAM,MS,75,Qualification,CHEN Feng (SGP),SHIMOYAMA Takanori (JPN),CHEN Feng
+Pro Tour Japan Open Kobe 2011,2011-07-07,GAUZY Simon,JEONG Sangeun,4,2,"9,12,11,2,11,11|11,10,8,11,6,9",,GRAND_SLAM,MS,75,Qualification,GAUZY Simon (FRA),JEONG Sangeun (KOR),GAUZY Simon
+Pro Tour Japan Open Kobe 2011,2011-07-07,UEDA Jin,WANG LI Chung-Yi,4,0,"11,11,11,12|7,7,3,10",,GRAND_SLAM,MS,75,Qualification,UEDA Jin (JPN),WANG LI Chung-Yi (TPE),UEDA Jin
+Pro Tour Japan Open Kobe 2011,2011-07-07,JEONG Sangeun,UEDA Jin,4,1,"11,11,11,10,11|1,9,7,12,5",,GRAND_SLAM,MS,75,Qualification,JEONG Sangeun (KOR),UEDA Jin (JPN),JEONG Sangeun
+Pro Tour Japan Open Kobe 2011,2011-07-07,GAUZY Simon,WANG LI Chung-Yi,4,1,"11,11,11,12,11|5,8,3,14,6",,GRAND_SLAM,MS,75,Qualification,GAUZY Simon (FRA),WANG LI Chung-Yi (TPE),GAUZY Simon
+Pro Tour Japan Open Kobe 2011,2011-07-07,JEONG Sangeun,WANG LI Chung-Yi,4,1,"11,11,11,10,11|9,4,3,12,5",,GRAND_SLAM,MS,75,Qualification,JEONG Sangeun (KOR),WANG LI Chung-Yi (TPE),JEONG Sangeun
+Pro Tour Japan Open Kobe 2011,2011-07-07,UEDA Jin,GAUZY Simon,4,1,"11,11,11,10,11|7,8,4,12,6",,GRAND_SLAM,MS,75,Qualification,UEDA Jin (JPN),GAUZY Simon (FRA),UEDA Jin
+Pro Tour Japan Open Kobe 2011,2011-07-07,ZHAN Jian,HAN Jimin,4,0,"11,11,11,11|5,6,4,8",,GRAND_SLAM,MS,75,Qualification,ZHAN Jian (SGP),HAN Jimin (KOR),ZHAN Jian
+Pro Tour Japan Open Kobe 2011,2011-07-07,OYA Hidetoshi,LEE Chia-Sheng,4,0,"12,11,11,11|10,5,7,8",,GRAND_SLAM,MS,75,Qualification,OYA Hidetoshi (JPN),LEE Chia-Sheng (TPE),OYA Hidetoshi
+Pro Tour Japan Open Kobe 2011,2011-07-07,OYA Hidetoshi,ZHAN Jian,4,0,"11,11,12,11|5,9,10,6",,GRAND_SLAM,MS,75,Qualification,OYA Hidetoshi (JPN),ZHAN Jian (SGP),OYA Hidetoshi
+Pro Tour Japan Open Kobe 2011,2011-07-07,HAN Jimin,LEE Chia-Sheng,4,3,"9,6,11,13,9,11,11|11,11,4,11,11,6,7",,GRAND_SLAM,MS,75,Qualification,HAN Jimin (KOR),LEE Chia-Sheng (TPE),HAN Jimin
+Pro Tour Japan Open Kobe 2011,2011-07-07,ZHAN Jian,LEE Chia-Sheng,4,0,"11,11,11,11|5,9,7,9",,GRAND_SLAM,MS,75,Qualification,ZHAN Jian (SGP),LEE Chia-Sheng (TPE),ZHAN Jian
+Pro Tour Japan Open Kobe 2011,2011-07-07,OYA Hidetoshi,HAN Jimin,4,1,"11,11,10,11,11|4,8,12,5,9",,GRAND_SLAM,MS,75,Qualification,OYA Hidetoshi (JPN),HAN Jimin (KOR),OYA Hidetoshi
+Pro Tour Japan Open Kobe 2011,2011-07-07,MATSUDAIRA Kenji,YIN Hang,4,0,"12,12,12,11|10,10,10,3",,GRAND_SLAM,MS,75,Qualification,MATSUDAIRA Kenji (JPN),YIN Hang (CHN),MATSUDAIRA Kenji
+Pro Tour Japan Open Kobe 2011,2011-07-07,HUNG Tzu-Hsiang,ZORIGT Turbold,4,0,"11,11,11,11|6,5,7,9",,GRAND_SLAM,MS,75,Qualification,HUNG Tzu-Hsiang (TPE),ZORIGT Turbold (MGL),HUNG Tzu-Hsiang
+Pro Tour Japan Open Kobe 2011,2011-07-07,MATSUDAIRA Kenji,HUNG Tzu-Hsiang,4,1,"11,9,11,11,11|6,11,3,9,5",,GRAND_SLAM,MS,75,Qualification,MATSUDAIRA Kenji (JPN),HUNG Tzu-Hsiang (TPE),MATSUDAIRA Kenji
+Pro Tour Japan Open Kobe 2011,2011-07-07,YIN Hang,ZORIGT Turbold,4,1,"11,7,11,11,11|5,11,4,1,1",,GRAND_SLAM,MS,75,Qualification,YIN Hang (CHN),ZORIGT Turbold (MGL),YIN Hang
+Pro Tour Japan Open Kobe 2011,2011-07-07,MATSUDAIRA Kenji,ZORIGT Turbold,4,0,"11,11,11,11|1,8,4,2",,GRAND_SLAM,MS,75,Qualification,MATSUDAIRA Kenji (JPN),ZORIGT Turbold (MGL),MATSUDAIRA Kenji
+Pro Tour Japan Open Kobe 2011,2011-07-07,YIN Hang,HUNG Tzu-Hsiang,4,3,"11,9,11,7,6,11,11|8,11,4,11,11,8,7",,GRAND_SLAM,MS,75,Qualification,YIN Hang (CHN),HUNG Tzu-Hsiang (TPE),YIN Hang
+Pro Tour Japan Open Kobe 2011,2011-07-07,TAKAKIWA Taku,CHO Jaejun,4,0,"11,11,11,11|3,7,7,8",,GRAND_SLAM,MS,75,Qualification,TAKAKIWA Taku (JPN),CHO Jaejun (KOR),TAKAKIWA Taku
+Pro Tour Japan Open Kobe 2011,2011-07-07,JIN Yixiong,CHIANG Hung-Chieh,4,1,"11,11,7,11,11|5,9,11,9,9",,GRAND_SLAM,MS,75,Qualification,JIN Yixiong (CHN),CHIANG Hung-Chieh (TPE),JIN Yixiong
+Pro Tour Japan Open Kobe 2011,2011-07-07,TAKAKIWA Taku,CHIANG Hung-Chieh,4,2,"12,6,11,13,11,11|14,11,1,11,8,5",,GRAND_SLAM,MS,75,Qualification,TAKAKIWA Taku (JPN),CHIANG Hung-Chieh (TPE),TAKAKIWA Taku
+Pro Tour Japan Open Kobe 2011,2011-07-07,JIN Yixiong,CHO Jaejun,4,0,"11,11,11,11|7,6,4,6",,GRAND_SLAM,MS,75,Qualification,JIN Yixiong (CHN),CHO Jaejun (KOR),JIN Yixiong
+Pro Tour Japan Open Kobe 2011,2011-07-07,JIN Yixiong,TAKAKIWA Taku,4,3,"11,12,14,10,9,11,11|9,14,12,12,11,9,6",,GRAND_SLAM,MS,75,Qualification,JIN Yixiong (CHN),TAKAKIWA Taku (JPN),JIN Yixiong
+Pro Tour Japan Open Kobe 2011,2011-07-07,CHIANG Hung-Chieh,CHO Jaejun,4,1,"11,11,11,8,11|7,7,2,11,9",,GRAND_SLAM,MS,75,Qualification,CHIANG Hung-Chieh (TPE),CHO Jaejun (KOR),CHIANG Hung-Chieh
+Pro Tour Japan Open Kobe 2011,2011-07-07,MIUCHI Kentaro,CHEN Chien-An,4,0,"11,11,11,11|4,4,6,9",,GRAND_SLAM,MS,75,Qualification,MIUCHI Kentaro (JPN),CHEN Chien-An (TPE),MIUCHI Kentaro
+Pro Tour Japan Open Kobe 2011,2011-07-07,LEE Seungjun,LIU Zhongze,4,3,"6,11,11,9,11,9,11|11,8,5,11,9,11,7",,GRAND_SLAM,MS,75,Qualification,LEE Seungjun (KOR),LIU Zhongze (SGP),LEE Seungjun
+Pro Tour Japan Open Kobe 2011,2011-07-07,CHEN Chien-An,LIU Zhongze,4,0,"11,12,11,11|9,10,0,0",,GRAND_SLAM,MS,75,Qualification,CHEN Chien-An (TPE),LIU Zhongze (SGP),CHEN Chien-An
+Pro Tour Japan Open Kobe 2011,2011-07-07,MIUCHI Kentaro,LEE Seungjun,4,1,"11,10,11,11,11|9,12,6,8,2",,GRAND_SLAM,MS,75,Qualification,MIUCHI Kentaro (JPN),LEE Seungjun (KOR),MIUCHI Kentaro
+Pro Tour Japan Open Kobe 2011,2011-07-07,LEE Seungjun,CHEN Chien-An,4,2,"6,2,13,11,11,11|11,11,11,6,8,9",,GRAND_SLAM,MS,75,Qualification,LEE Seungjun (KOR),CHEN Chien-An (TPE),LEE Seungjun
+Pro Tour Japan Open Kobe 2011,2011-07-07,MIUCHI Kentaro,LIU Zhongze,4,0,,,GRAND_SLAM,MS,75,Qualification,MIUCHI Kentaro (JPN),LIU Zhongze (SGP),MIUCHI Kentaro
+Pro Tour Japan Open Kobe 2011,2011-07-07,LEE Jungsam,WANG Yi-Tse,4,1,"15,12,6,11,11|13,10,11,6,9",,GRAND_SLAM,MS,75,Qualification,LEE Jungsam (KOR),WANG Yi-Tse (TPE),LEE Jungsam
+Pro Tour Japan Open Kobe 2011,2011-07-07,KASAHARA Hiromitsu,LIU Yi,4,1,"14,11,7,11,12|12,9,11,8,10",,GRAND_SLAM,MS,75,Qualification,KASAHARA Hiromitsu (JPN),LIU Yi (CHN),KASAHARA Hiromitsu
+Pro Tour Japan Open Kobe 2011,2011-07-07,KASAHARA Hiromitsu,LEE Jungsam,4,2,"11,11,5,14,11,11|9,6,11,16,3,4",,GRAND_SLAM,MS,75,Qualification,KASAHARA Hiromitsu (JPN),LEE Jungsam (KOR),KASAHARA Hiromitsu
+Pro Tour Japan Open Kobe 2011,2011-07-07,LIU Yi,WANG Yi-Tse,4,0,"11,11,11,11|7,6,8,8",,GRAND_SLAM,MS,75,Qualification,LIU Yi (CHN),WANG Yi-Tse (TPE),LIU Yi
+Pro Tour Japan Open Kobe 2011,2011-07-07,LIU Yi,LEE Jungsam,4,0,"11,13,11,11|7,11,8,4",,GRAND_SLAM,MS,75,Qualification,LIU Yi (CHN),LEE Jungsam (KOR),LIU Yi
+Pro Tour Japan Open Kobe 2011,2011-07-07,KASAHARA Hiromitsu,WANG Yi-Tse,4,3,"7,8,11,13,11,11,11|11,11,6,11,13,7,2",,GRAND_SLAM,MS,75,Qualification,KASAHARA Hiromitsu (JPN),WANG Yi-Tse (TPE),KASAHARA Hiromitsu
+Pro Tour Japan Open Kobe 2011,2011-07-07,HUANG Sheng-Sheng,FUJIMOTO Kaito,4,1,"11,11,7,11,11|8,5,11,8,5",,GRAND_SLAM,MS,75,Qualification,HUANG Sheng-Sheng (TPE),FUJIMOTO Kaito (JPN),HUANG Sheng-Sheng
+Pro Tour Japan Open Kobe 2011,2011-07-07,WU Jiaji,LEE Seunghyeok,4,1,"11,11,7,11,11|6,8,11,8,5",,GRAND_SLAM,MS,75,Qualification,WU Jiaji (DOM),LEE Seunghyeok (KOR),WU Jiaji
+Pro Tour Japan Open Kobe 2011,2011-07-07,WU Jiaji,HUANG Sheng-Sheng,4,0,"11,12,11,11|9,10,8,4",,GRAND_SLAM,MS,75,Qualification,WU Jiaji (DOM),HUANG Sheng-Sheng (TPE),WU Jiaji
+Pro Tour Japan Open Kobe 2011,2011-07-07,FUJIMOTO Kaito,LEE Seunghyeok,4,3,"7,5,10,11,12,11,11|11,11,12,5,10,5,3",,GRAND_SLAM,MS,75,Qualification,FUJIMOTO Kaito (JPN),LEE Seunghyeok (KOR),FUJIMOTO Kaito
+Pro Tour Japan Open Kobe 2011,2011-07-07,HUANG Sheng-Sheng,LEE Seunghyeok,4,1,"11,11,9,13,11|9,8,11,11,4",,GRAND_SLAM,MS,75,Qualification,HUANG Sheng-Sheng (TPE),LEE Seunghyeok (KOR),HUANG Sheng-Sheng
+Pro Tour Japan Open Kobe 2011,2011-07-07,FUJIMOTO Kaito,WU Jiaji,4,3,"12,9,4,13,12,11,11|10,11,11,15,10,8,9",,GRAND_SLAM,MS,75,Qualification,FUJIMOTO Kaito (JPN),WU Jiaji (DOM),FUJIMOTO Kaito
+Pro Tour Japan Open Kobe 2011,2011-07-07,WU Chih-Chi,CHAITAT Chaisit,4,0,"11,11,13,11|8,5,11,1",,GRAND_SLAM,MS,75,Qualification,WU Chih-Chi (TPE),CHAITAT Chaisit (THA),WU Chih-Chi
+Pro Tour Japan Open Kobe 2011,2011-07-07,SONG Hongyuan,KARUBE Ryusuke,4,2,"14,8,7,12,11,11|12,11,11,10,7,9",,GRAND_SLAM,MS,75,Qualification,SONG Hongyuan (CHN),KARUBE Ryusuke (JPN),SONG Hongyuan
+Pro Tour Japan Open Kobe 2011,2011-07-07,SONG Hongyuan,WU Chih-Chi,4,1,"11,11,11,11,14|5,8,9,13,12",,GRAND_SLAM,MS,75,Qualification,SONG Hongyuan (CHN),WU Chih-Chi (TPE),SONG Hongyuan
+Pro Tour Japan Open Kobe 2011,2011-07-07,KARUBE Ryusuke,CHAITAT Chaisit,4,1,"11,11,9,11,11|1,6,11,3,6",,GRAND_SLAM,MS,75,Qualification,KARUBE Ryusuke (JPN),CHAITAT Chaisit (THA),KARUBE Ryusuke
+Pro Tour Japan Open Kobe 2011,2011-07-07,KARUBE Ryusuke,WU Chih-Chi,4,3,"10,9,11,7,11,11,11|12,11,8,11,5,8,7",,GRAND_SLAM,MS,75,Qualification,KARUBE Ryusuke (JPN),WU Chih-Chi (TPE),KARUBE Ryusuke
+Pro Tour Japan Open Kobe 2011,2011-07-07,SONG Hongyuan,CHAITAT Chaisit,4,0,"11,11,11,11|4,8,7,7",,GRAND_SLAM,MS,75,Qualification,SONG Hongyuan (CHN),CHAITAT Chaisit (THA),SONG Hongyuan
+Pro Tour Japan Open Kobe 2011,2011-07-07,YOSHIDA Masaki,HIGASHI Yuto,3,2,"10,12,6,11,11|12,10,11,5,7",,GRAND_SLAM,U21MS,75,Qualification,YOSHIDA Masaki (JPN),HIGASHI Yuto (JPN),YOSHIDA Masaki
+Pro Tour Japan Open Kobe 2011,2011-07-07,HIGASHI Yuto,LEE Chia-Sheng,3,1,"7,13,11,11|11,11,8,5",,GRAND_SLAM,U21MS,75,Qualification,HIGASHI Yuto (JPN),LEE Chia-Sheng (TPE),HIGASHI Yuto
+Pro Tour Japan Open Kobe 2011,2011-07-07,YOSHIDA Masaki,LEE Chia-Sheng,3,0,"11,11,11|4,5,8",,GRAND_SLAM,U21MS,75,Qualification,YOSHIDA Masaki (JPN),LEE Chia-Sheng (TPE),YOSHIDA Masaki
+Pro Tour Japan Open Kobe 2011,2011-07-07,UEDA Jin,MORIZONO Masataka,3,0,"11,11,11|4,5,9",,GRAND_SLAM,U21MS,75,Qualification,UEDA Jin (JPN),MORIZONO Masataka (JPN),UEDA Jin
+Pro Tour Japan Open Kobe 2011,2011-07-07,CHO Jaejun,MORIZONO Masataka,3,2,"11,11,4,9,11|9,9,11,11,9",,GRAND_SLAM,U21MS,75,Qualification,CHO Jaejun (KOR),MORIZONO Masataka (JPN),CHO Jaejun
+Pro Tour Japan Open Kobe 2011,2011-07-07,UEDA Jin,CHO Jaejun,3,0,"11,11,11|9,9,7",,GRAND_SLAM,U21MS,75,Qualification,UEDA Jin (JPN),CHO Jaejun (KOR),UEDA Jin
+Pro Tour Japan Open Kobe 2011,2011-07-07,MACHI Asuka,LEE Seunghyeok,3,0,"11,11,11|5,6,5",,GRAND_SLAM,U21MS,75,Qualification,MACHI Asuka (JPN),LEE Seunghyeok (KOR),MACHI Asuka
+Pro Tour Japan Open Kobe 2011,2011-07-07,CHEN Feng,LEE Seunghyeok,3,1,"11,7,11,11|1,11,5,5",,GRAND_SLAM,U21MS,75,Qualification,CHEN Feng (SGP),LEE Seunghyeok (KOR),CHEN Feng
+Pro Tour Japan Open Kobe 2011,2011-07-07,MACHI Asuka,CHEN Feng,3,1,"9,11,11,11|11,8,7,8",,GRAND_SLAM,U21MS,75,Qualification,MACHI Asuka (JPN),CHEN Feng (SGP),MACHI Asuka
+Pro Tour Japan Open Kobe 2011,2011-07-07,HIRANO Yuki,YOSHIMURA Maharu,3,2,"11,11,15,4,11|13,9,13,11,7",,GRAND_SLAM,U21MS,75,Qualification,HIRANO Yuki (JPN),YOSHIMURA Maharu (JPN),HIRANO Yuki
+Pro Tour Japan Open Kobe 2011,2011-07-07,YOSHIMURA Maharu,WANG LI Chung-Yi,3,0,"11,11,11|7,8,9",,GRAND_SLAM,U21MS,75,Qualification,YOSHIMURA Maharu (JPN),WANG LI Chung-Yi (TPE),YOSHIMURA Maharu
+Pro Tour Japan Open Kobe 2011,2011-07-07,HIRANO Yuki,WANG LI Chung-Yi,3,0,"12,11,11|10,4,9",,GRAND_SLAM,U21MS,75,Qualification,HIRANO Yuki (JPN),WANG LI Chung-Yi (TPE),HIRANO Yuki
+Pro Tour Japan Open Kobe 2011,2011-07-07,MURAMATSU Yuto,FUJIMOTO Kaito,3,0,"11,12,11|7,10,8",,GRAND_SLAM,U21MS,75,Qualification,MURAMATSU Yuto (JPN),FUJIMOTO Kaito (JPN),MURAMATSU Yuto
+Pro Tour Japan Open Kobe 2011,2011-07-07,MURAMATSU Yuto,LEE Seungjun,3,1,"11,8,11,11|6,11,7,9",,GRAND_SLAM,U21MS,75,Qualification,MURAMATSU Yuto (JPN),LEE Seungjun (KOR),MURAMATSU Yuto
+Pro Tour Japan Open Kobe 2011,2011-07-07,FUJIMOTO Kaito,LEE Seungjun,3,0,"11,11,11|6,9,8",,GRAND_SLAM,U21MS,75,Qualification,FUJIMOTO Kaito (JPN),LEE Seungjun (KOR),FUJIMOTO Kaito
+Pro Tour Japan Open Kobe 2011,2011-07-07,JIN Yixiong,MORIMOTO Kohei,3,1,"11,11,6,11|9,7,11,8",,GRAND_SLAM,U21MS,75,Qualification,JIN Yixiong (CHN),MORIMOTO Kohei (JPN),JIN Yixiong
+Pro Tour Japan Open Kobe 2011,2011-07-07,FLORE Tristan,JIN Yixiong,3,1,"11,8,11,11|8,11,6,9",,GRAND_SLAM,U21MS,75,Qualification,FLORE Tristan (FRA),JIN Yixiong (CHN),FLORE Tristan
+Pro Tour Japan Open Kobe 2011,2011-07-07,MORIMOTO Kohei,FLORE Tristan,3,0,"11,12,11|7,10,9",,GRAND_SLAM,U21MS,75,Qualification,MORIMOTO Kohei (JPN),FLORE Tristan (FRA),MORIMOTO Kohei
+Pro Tour Japan Open Kobe 2011,2011-07-07,LIU Yi,SAKAI Asuka,3,2,"10,11,10,11,11|12,5,12,3,5",,GRAND_SLAM,U21MS,75,Qualification,LIU Yi (CHN),SAKAI Asuka (JPN),LIU Yi
+Pro Tour Japan Open Kobe 2011,2011-07-07,LIU Yi,GAUZY Simon,3,1,"11,9,11,11|8,11,5,7",,GRAND_SLAM,U21MS,75,Qualification,LIU Yi (CHN),GAUZY Simon (FRA),LIU Yi
+Pro Tour Japan Open Kobe 2011,2011-07-07,GAUZY Simon,SAKAI Asuka,3,0,"11,11,11|5,3,6",,GRAND_SLAM,U21MS,75,Qualification,GAUZY Simon (FRA),SAKAI Asuka (JPN),GAUZY Simon
+Pro Tour Japan Open Kobe 2011,2011-07-07,JIN Takuya,OTSUKA Masahiro,3,0,"12,11,11|10,7,8",,GRAND_SLAM,U21MS,75,Qualification,JIN Takuya (JPN),OTSUKA Masahiro (JPN),JIN Takuya
+Pro Tour Japan Open Kobe 2011,2011-07-07,YIN Hang,OTSUKA Masahiro,3,0,"11,11,11|5,7,9",,GRAND_SLAM,U21MS,75,Qualification,YIN Hang (CHN),OTSUKA Masahiro (JPN),YIN Hang
+Pro Tour Japan Open Kobe 2011,2011-07-07,YIN Hang,JIN Takuya,3,2,"8,17,7,11,11|11,15,11,7,5",,GRAND_SLAM,U21MS,75,Qualification,YIN Hang (CHN),JIN Takuya (JPN),YIN Hang
+Pro Tour Japan Open Kobe 2011,2011-07-07,KARUBE Ryusuke,HOYAMA Hugo,4,1,"11,11,11,9,11|3,6,5,11,6",QR16,GRAND_SLAM,MS,75,Qualification,KARUBE Ryusuke (JPN),HOYAMA Hugo (BRA),KARUBE Ryusuke
+Pro Tour Japan Open Kobe 2011,2011-07-07,HUANG Sheng-Sheng,CHEN Feng,4,1,"11,11,11,11,11|4,7,9,13,2",QR16,GRAND_SLAM,MS,75,Qualification,HUANG Sheng-Sheng (TPE),CHEN Feng (SGP),HUANG Sheng-Sheng
+Pro Tour Japan Open Kobe 2011,2011-07-07,LIU Yi,UEDA Jin,4,3,"12,11,10,11,7,11,11|14,7,12,4,11,5,4",QR16,GRAND_SLAM,MS,75,Qualification,LIU Yi (CHN),UEDA Jin (JPN),LIU Yi
+Pro Tour Japan Open Kobe 2011,2011-07-07,ZHAN Jian,LEE Seungjun,4,1,"12,11,11,7,11|10,8,4,11,7",QR16,GRAND_SLAM,MS,75,Qualification,ZHAN Jian (SGP),LEE Seungjun (KOR),ZHAN Jian
+Pro Tour Japan Open Kobe 2011,2011-07-07,TAKAKIWA Taku,YIN Hang,4,2,"11,12,11,15,9,11|5,14,9,13,11,6",QR16,GRAND_SLAM,MS,75,Qualification,TAKAKIWA Taku (JPN),YIN Hang (CHN),TAKAKIWA Taku
+Pro Tour Japan Open Kobe 2011,2011-07-07,CHEN Szu-Yu,YANG Ha Eun,3,0,"11,11,11|8,6,8",R16,GRAND_SLAM,U21WS,75,Main Draw,CHEN Szu-Yu (TPE),YANG Ha Eun (KOR),CHEN Szu-Yu
+Pro Tour Japan Open Kobe 2011,2011-07-07,TASHIRO Saki,NG Wing Nam,3,2,"6,11,11,6,11|11,2,6,11,5",R16,GRAND_SLAM,U21WS,75,Main Draw,TASHIRO Saki (JPN),NG Wing Nam (HKG),TASHIRO Saki
+Pro Tour Japan Open Kobe 2011,2011-07-07,HOU Yu-Ling,MAEDA Miyu,3,0,"11,11,11|9,6,6",R16,GRAND_SLAM,U21WS,75,Main Draw,HOU Yu-Ling (TPE),MAEDA Miyu (JPN),HOU Yu-Ling
+Pro Tour Japan Open Kobe 2011,2011-07-07,CHENG I-Ching,SO Eka,3,2,"11,10,11,7,11|7,12,2,11,4",R16,GRAND_SLAM,U21WS,75,Main Draw,CHENG I-Ching (TPE),SO Eka (JPN),CHENG I-Ching
+Pro Tour Japan Open Kobe 2011,2011-07-07,MORIZONO Misaki,CHANG Ya-Chuan,3,0,"13,11,11|11,8,3",R16,GRAND_SLAM,U21WS,75,Main Draw,MORIZONO Misaki (JPN),CHANG Ya-Chuan (TPE),MORIZONO Misaki
+Pro Tour Japan Open Kobe 2011,2011-07-07,HAMAMOTO Yui,SONG Maeum,3,2,"11,11,8,4,11|9,8,11,11,6",R16,GRAND_SLAM,U21WS,75,Main Draw,HAMAMOTO Yui (AUT),SONG Maeum (KOR),HAMAMOTO Yui
+Pro Tour Japan Open Kobe 2011,2011-07-07,JEON Jihee,TSUCHIDA Miki,3,0,"11,11,11|5,6,8",R16,GRAND_SLAM,U21WS,75,Main Draw,JEON Jihee (KOR),TSUCHIDA Miki (JPN),JEON Jihee
+Pro Tour Japan Open Kobe 2011,2011-07-07,FUJII Yuko,KANG Misoon,3,0,"11,11,13|3,3,11",R16,GRAND_SLAM,U21WS,75,Main Draw,FUJII Yuko (JPN),KANG Misoon (KOR),FUJII Yuko
+Pro Tour Japan Open Kobe 2011,2011-07-07,TASHIRO Saki,CHEN Szu-Yu,4,1,"5,11,11,12,11|11,7,5,10,9",QF,GRAND_SLAM,U21WS,75,Main Draw,TASHIRO Saki (JPN),CHEN Szu-Yu (TPE),TASHIRO Saki
+Pro Tour Japan Open Kobe 2011,2011-07-07,CHENG I-Ching,HOU Yu-Ling,4,0,"11,11,11,11|8,8,5,8",QF,GRAND_SLAM,U21WS,75,Main Draw,CHENG I-Ching (TPE),HOU Yu-Ling (TPE),CHENG I-Ching
+Pro Tour Japan Open Kobe 2011,2011-07-07,MORIZONO Misaki,HAMAMOTO Yui,4,1,"10,11,11,11,11|12,7,9,6,6",QF,GRAND_SLAM,U21WS,75,Main Draw,MORIZONO Misaki (JPN),HAMAMOTO Yui (AUT),MORIZONO Misaki
+Pro Tour Japan Open Kobe 2011,2011-07-07,JEON Jihee,FUJII Yuko,4,2,"8,6,11,11,11,11|11,11,8,6,9,6",QF,GRAND_SLAM,U21WS,75,Main Draw,JEON Jihee (KOR),FUJII Yuko (JPN),JEON Jihee
+Pro Tour Japan Open Kobe 2011,2011-07-07,TASHIRO Saki,CHENG I-Ching,4,0,"11,11,11,11|2,8,3,2",SF,GRAND_SLAM,U21WS,75,Main Draw,TASHIRO Saki (JPN),CHENG I-Ching (TPE),TASHIRO Saki
+Pro Tour Japan Open Kobe 2011,2011-07-07,JEON Jihee,MORIZONO Misaki,4,0,"11,11,11,11|9,5,9,9",SF,GRAND_SLAM,U21WS,75,Main Draw,JEON Jihee (KOR),MORIZONO Misaki (JPN),JEON Jihee
+Pro Tour Japan Open Kobe 2011,2011-07-07,JEON Jihee,TASHIRO Saki,4,1,"11,9,16,15,11|8,11,14,13,9",F,GRAND_SLAM,U21WS,75,Main Draw,JEON Jihee (KOR),TASHIRO Saki (JPN),JEON Jihee
+Pro Tour Japan Open Kobe 2011,2011-07-07,MATSUZAWA Marina,KATO Miyu,3,1,"10,11,11,11|12,7,8,8",,GRAND_SLAM,U21WS,75,Qualification,MATSUZAWA Marina (JPN),KATO Miyu (JPN),MATSUZAWA Marina
+Pro Tour Japan Open Kobe 2011,2011-07-07,KATO Miyu,CHANG Ya-Chuan,3,1,"14,11,11,11|16,7,7,7",,GRAND_SLAM,U21WS,75,Qualification,KATO Miyu (JPN),CHANG Ya-Chuan (TPE),KATO Miyu
+Pro Tour Japan Open Kobe 2011,2011-07-07,CHANG Ya-Chuan,MATSUZAWA Marina,3,1,"11,9,11,11|4,11,7,7",,GRAND_SLAM,U21WS,75,Qualification,CHANG Ya-Chuan (TPE),MATSUZAWA Marina (JPN),CHANG Ya-Chuan
+Pro Tour Japan Open Kobe 2011,2011-07-07,FUJII Yuko,MORITA Ayane,3,1,"11,11,7,15|4,7,11,13",,GRAND_SLAM,U21WS,75,Qualification,FUJII Yuko (JPN),MORITA Ayane (JPN),FUJII Yuko
+Pro Tour Japan Open Kobe 2011,2011-07-07,CHEN Szu-Yu,MORITA Ayane,3,1,"11,7,11,11|7,11,2,8",,GRAND_SLAM,U21WS,75,Qualification,CHEN Szu-Yu (TPE),MORITA Ayane (JPN),CHEN Szu-Yu
+Pro Tour Japan Open Kobe 2011,2011-07-07,FUJII Yuko,CHEN Szu-Yu,3,2,"11,4,2,11,11|9,11,11,5,5",,GRAND_SLAM,U21WS,75,Qualification,FUJII Yuko (JPN),CHEN Szu-Yu (TPE),FUJII Yuko
+Pro Tour Japan Open Kobe 2011,2011-07-07,TASHIRO Saki,ISHIKAWA Rira,3,0,"13,11,11|11,6,5",,GRAND_SLAM,U21WS,75,Qualification,TASHIRO Saki (JPN),ISHIKAWA Rira (JPN),TASHIRO Saki
+Pro Tour Japan Open Kobe 2011,2011-07-07,ISHIKAWA Rira,LUO Anqi,3,0,"11,11,11|7,7,6",,GRAND_SLAM,U21WS,75,Qualification,ISHIKAWA Rira (JPN),LUO Anqi (CAN),ISHIKAWA Rira
+Pro Tour Japan Open Kobe 2011,2011-07-07,TASHIRO Saki,LUO Anqi,3,0,"11,11,11|3,6,2",,GRAND_SLAM,U21WS,75,Qualification,TASHIRO Saki (JPN),LUO Anqi (CAN),TASHIRO Saki
+Pro Tour Japan Open Kobe 2011,2011-07-07,HAMAMOTO Yui,ITO Mima,3,1,"11,11,11,11|13,7,5,4",,GRAND_SLAM,U21WS,75,Qualification,HAMAMOTO Yui (AUT),ITO Mima (JPN),HAMAMOTO Yui
+Pro Tour Japan Open Kobe 2011,2011-07-07,HSIUNG Nai-I,ITO Mima,3,0,"11,11,15|9,8,13",,GRAND_SLAM,U21WS,75,Qualification,HSIUNG Nai-I (TPE),ITO Mima (JPN),HSIUNG Nai-I
+Pro Tour Japan Open Kobe 2011,2011-07-07,HAMAMOTO Yui,HSIUNG Nai-I,3,0,"11,11,11|8,8,1",,GRAND_SLAM,U21WS,75,Qualification,HAMAMOTO Yui (AUT),HSIUNG Nai-I (TPE),HAMAMOTO Yui
+Pro Tour Japan Open Kobe 2011,2011-07-07,SO Eka,HIRANO Miu,3,0,"11,11,11|9,6,6",,GRAND_SLAM,U21WS,75,Qualification,SO Eka (JPN),HIRANO Miu (JPN),SO Eka
+Pro Tour Japan Open Kobe 2011,2011-07-07,HIRANO Miu,TSUI Pao-Wen,3,1,"11,8,11,11|5,11,3,9",,GRAND_SLAM,U21WS,75,Qualification,HIRANO Miu (JPN),TSUI Pao-Wen (TPE),HIRANO Miu
+Pro Tour Japan Open Kobe 2011,2011-07-07,SO Eka,TSUI Pao-Wen,3,2,"5,6,14,11,11|11,11,12,4,5",,GRAND_SLAM,U21WS,75,Qualification,SO Eka (JPN),TSUI Pao-Wen (TPE),SO Eka
+Pro Tour Japan Open Kobe 2011,2011-07-07,SIM Kai Xin Zena,KIM Seoyeon,3,1,"12,5,12,11|10,11,10,6",,GRAND_SLAM,U21WS,75,Qualification,SIM Kai Xin Zena (SGP),KIM Seoyeon (KOR),SIM Kai Xin Zena
+Pro Tour Japan Open Kobe 2011,2011-07-07,TSUCHIDA Miki,MIYAKE Natsumi,3,0,"11,11,11|9,9,4",,GRAND_SLAM,U21WS,75,Qualification,TSUCHIDA Miki (JPN),MIYAKE Natsumi (JPN),TSUCHIDA Miki
+Pro Tour Japan Open Kobe 2011,2011-07-07,MIYAKE Natsumi,KIM Seoyeon,3,2,"5,5,11,11,11|11,11,7,8,8",,GRAND_SLAM,U21WS,75,Qualification,MIYAKE Natsumi (JPN),KIM Seoyeon (KOR),MIYAKE Natsumi
+Pro Tour Japan Open Kobe 2011,2011-07-07,TSUCHIDA Miki,SIM Kai Xin Zena,3,0,"11,11,11|5,4,6",,GRAND_SLAM,U21WS,75,Qualification,TSUCHIDA Miki (JPN),SIM Kai Xin Zena (SGP),TSUCHIDA Miki
+Pro Tour Japan Open Kobe 2011,2011-07-07,KIM Seoyeon,TSUCHIDA Miki,3,2,"11,5,7,11,11|6,11,11,6,8",,GRAND_SLAM,U21WS,75,Qualification,KIM Seoyeon (KOR),TSUCHIDA Miki (JPN),KIM Seoyeon
+Pro Tour Japan Open Kobe 2011,2011-07-07,MIYAKE Natsumi,SIM Kai Xin Zena,3,0,"11,11,14|8,4,12",,GRAND_SLAM,U21WS,75,Qualification,MIYAKE Natsumi (JPN),SIM Kai Xin Zena (SGP),MIYAKE Natsumi
+Pro Tour Japan Open Kobe 2011,2011-07-07,HOU Yu-Ling,CHINBAT Nomin-Erdene,3,0,"11,11,11|1,5,4",,GRAND_SLAM,U21WS,75,Qualification,HOU Yu-Ling (TPE),CHINBAT Nomin-Erdene (MGL),HOU Yu-Ling
+Pro Tour Japan Open Kobe 2011,2011-07-07,TAKAHASHI Mariko,SATO Yui,3,2,"11,7,11,7,11|4,11,5,11,6",,GRAND_SLAM,U21WS,75,Qualification,TAKAHASHI Mariko (JPN),SATO Yui (JPN),TAKAHASHI Mariko
+Pro Tour Japan Open Kobe 2011,2011-07-07,HOU Yu-Ling,TAKAHASHI Mariko,3,2,"11,11,5,5,11|9,9,11,11,8",,GRAND_SLAM,U21WS,75,Qualification,HOU Yu-Ling (TPE),TAKAHASHI Mariko (JPN),HOU Yu-Ling
+Pro Tour Japan Open Kobe 2011,2011-07-07,SATO Yui,CHINBAT Nomin-Erdene,3,0,"11,11,11|8,7,6",,GRAND_SLAM,U21WS,75,Qualification,SATO Yui (JPN),CHINBAT Nomin-Erdene (MGL),SATO Yui
+Pro Tour Japan Open Kobe 2011,2011-07-07,HOU Yu-Ling,SATO Yui,3,1,"3,11,11,12|11,6,8,10",,GRAND_SLAM,U21WS,75,Qualification,HOU Yu-Ling (TPE),SATO Yui (JPN),HOU Yu-Ling
+Pro Tour Japan Open Kobe 2011,2011-07-07,TAKAHASHI Mariko,CHINBAT Nomin-Erdene,3,0,"11,11,11|5,4,3",,GRAND_SLAM,U21WS,75,Qualification,TAKAHASHI Mariko (JPN),CHINBAT Nomin-Erdene (MGL),TAKAHASHI Mariko
+Pro Tour Japan Open Kobe 2011,2011-07-07,ABE Megumi/ONO Shiho,LUO Anqi/ZHANG Mo,3,0,"11,11,11|5,5,6",QR16,GRAND_SLAM,WD,75,Qualification,ABE Megumi (JPN) / ONO Shiho (JPN),LUO Anqi (CAN) / ZHANG Mo (CAN),ABE Megumi
+Pro Tour Japan Open Kobe 2011,2011-07-07,PARK Miyoung/SUH Hyo Won,JIANG Huajun/NG Wing Nam,3,1,"8,11,11,11|11,6,8,4",R16,GRAND_SLAM,WD,75,Main Draw,PARK Miyoung (KOR) / SUH Hyo Won (KOR),JIANG Huajun (HKG) / NG Wing Nam (HKG),PARK Miyoung
+Pro Tour Japan Open Kobe 2011,2011-07-07,ISHIGAKI Yuka/YAMANASHI Yuri,CHANG Ya-Chuan/CHEN Szu-Yu,3,0,"11,11,11|5,5,8",R16,GRAND_SLAM,WD,75,Main Draw,ISHIGAKI Yuka (JPN) / YAMANASHI Yuri (JPN),CHANG Ya-Chuan (TPE) / CHEN Szu-Yu (TPE),ISHIGAKI Yuka
+Pro Tour Japan Open Kobe 2011,2011-07-07,FUKUHARA Ai/ISHIKAWA Kasumi,KOMWONG Nanthana/MUANGSUK Anisara,3,0,"11,11,11|8,5,9",R16,GRAND_SLAM,WD,75,Main Draw,FUKUHARA Ai (JPN) / ISHIKAWA Kasumi (JPN),KOMWONG Nanthana (THA) / MUANGSUK Anisara (THA),FUKUHARA Ai
+Pro Tour Japan Open Kobe 2011,2011-07-07,KANG Misoon/SONG Maeum,DOI Minami/FUKUOKA Haruna,3,2,"5,11,9,11,11|11,8,11,7,2",R16,GRAND_SLAM,WD,75,Main Draw,KANG Misoon (KOR) / SONG Maeum (KOR),DOI Minami (JPN) / FUKUOKA Haruna (JPN),KANG Misoon
+Pro Tour Japan Open Kobe 2011,2011-07-07,LI Jiawei/WANG Yuegu,MAEDA Miyu/TANIOKA Ayuka,3,0,"11,11,11|6,6,6",R16,GRAND_SLAM,WD,75,Main Draw,LI Jiawei (SGP) / WANG Yuegu (SGP),MAEDA Miyu (JPN) / TANIOKA Ayuka (JPN),LI Jiawei
+Pro Tour Japan Open Kobe 2011,2011-07-07,PARK Miyoung/SUH Hyo Won,ABE Megumi/ONO Shiho,4,2,"11,8,11,5,11,11|3,11,7,11,6,5",QF,GRAND_SLAM,WD,75,Main Draw,PARK Miyoung (KOR) / SUH Hyo Won (KOR),ABE Megumi (JPN) / ONO Shiho (JPN),PARK Miyoung
+Pro Tour Japan Open Kobe 2011,2011-07-07,FUJII Hiroko/WAKAMIYA Misako,ISHIGAKI Yuka/YAMANASHI Yuri,4,2,"7,15,11,11,12,12|11,13,9,4,14,10",QF,GRAND_SLAM,WD,75,Main Draw,FUJII Hiroko (JPN) / WAKAMIYA Misako (JPN),ISHIGAKI Yuka (JPN) / YAMANASHI Yuri (JPN),FUJII Hiroko
+Pro Tour Japan Open Kobe 2011,2011-07-07,FUKUHARA Ai/ISHIKAWA Kasumi,KANG Misoon/SONG Maeum,4,1,"11,11,9,11,12|7,1,11,2,10",QF,GRAND_SLAM,WD,75,Main Draw,FUKUHARA Ai (JPN) / ISHIKAWA Kasumi (JPN),KANG Misoon (KOR) / SONG Maeum (KOR),FUKUHARA Ai
+Pro Tour Japan Open Kobe 2011,2011-07-07,LI Jiawei/WANG Yuegu,FUKUHARA Ai/ISHIKAWA Kasumi,4,2,"11,7,11,8,20,11|8,11,6,11,18,7",SF,GRAND_SLAM,WD,75,Main Draw,LI Jiawei (SGP) / WANG Yuegu (SGP),FUKUHARA Ai (JPN) / ISHIKAWA Kasumi (JPN),LI Jiawei
+Pro Tour Japan Open Kobe 2011,2011-07-07,FUJII Hiroko/WAKAMIYA Misako,LI Jiawei/WANG Yuegu,4,1,"5,11,11,13,11|11,9,8,11,6",F,GRAND_SLAM,WD,75,Main Draw,FUJII Hiroko (JPN) / WAKAMIYA Misako (JPN),LI Jiawei (SGP) / WANG Yuegu (SGP),FUJII Hiroko
+Pro Tour Japan Open Kobe 2011,2011-07-07,LI Jiawei/WANG Yuegu,PARK Youngsook/YANG Ha Eun,4,1,"7,11,11,11,11|11,3,6,6,3",QF,GRAND_SLAM,WD,75,Main Draw,LI Jiawei (SGP) / WANG Yuegu (SGP),PARK Youngsook (KOR) / YANG Ha Eun (KOR),LI Jiawei
+Pro Tour Japan Open Kobe 2011,2011-07-07,FUJII Hiroko/WAKAMIYA Misako,PARK Miyoung/SUH Hyo Won,4,0,"11,11,11,11|6,5,6,4",SF,GRAND_SLAM,WD,75,Main Draw,FUJII Hiroko (JPN) / WAKAMIYA Misako (JPN),PARK Miyoung (KOR) / SUH Hyo Won (KOR),FUJII Hiroko
+Pro Tour Japan Open Kobe 2011,2011-07-07,PARK Youngsook/YANG Ha Eun,FENG Tianwei/SUN Beibei,3,2,"8,11,8,11,11|11,7,11,9,5",R16,GRAND_SLAM,WD,75,Main Draw,PARK Youngsook (KOR) / YANG Ha Eun (KOR),FENG Tianwei (SGP) / SUN Beibei (SGP),PARK Youngsook
+Pro Tour Japan Open Kobe 2011,2011-07-07,ABE Megumi/ONO Shiho,CHENG I-Ching/HUANG Yi-Hua,3,1,"11,11,6,11|7,7,11,9",R16,GRAND_SLAM,WD,75,Main Draw,ABE Megumi (JPN) / ONO Shiho (JPN),CHENG I-Ching (TPE) / HUANG Yi-Hua (TPE),ABE Megumi
+Pro Tour Japan Open Kobe 2011,2011-07-07,FUJII Hiroko/WAKAMIYA Misako,LIN Chia-Hui/LIU Hsing-Yin,3,0,"11,11,11|9,7,9",R16,GRAND_SLAM,WD,75,Main Draw,FUJII Hiroko (JPN) / WAKAMIYA Misako (JPN),LIN Chia-Hui (TPE) / LIU Hsing-Yin (TPE),FUJII Hiroko
+Pro Tour Japan Open Kobe 2011,2011-07-07,LIN Chia-Hui/LIU Hsing-Yin,CHINBAT Nomin-Erdene/OWEN Naomi,3,0,,QR16,GRAND_SLAM,WD,75,Qualification,LIN Chia-Hui (TPE) / LIU Hsing-Yin (TPE),CHINBAT Nomin-Erdene (MGL) / OWEN Naomi (WAL),LIN Chia-Hui
+Pro Tour Japan Open Kobe 2011,2011-07-07,FENG Tianwei,CHEN Szu-Yu,4,1,"11,11,11,5,11|6,6,2,11,8",R32,GRAND_SLAM,WS,75,Main Draw,FENG Tianwei (SGP),CHEN Szu-Yu (TPE),FENG Tianwei
+Pro Tour Japan Open Kobe 2011,2011-07-07,LI Jiawei,MORIZONO Misaki,4,0,"11,11,11,12|7,9,8,10",R32,GRAND_SLAM,WS,75,Main Draw,LI Jiawei (SGP),MORIZONO Misaki (JPN),LI Jiawei
+Pro Tour Japan Open Kobe 2011,2011-07-07,FUJII Hiroko,JEON Jihee,4,2,"11,11,5,12,10,11|5,9,11,10,12,8",R32,GRAND_SLAM,WS,75,Main Draw,FUJII Hiroko (JPN),JEON Jihee (KOR),FUJII Hiroko
+Pro Tour Japan Open Kobe 2011,2011-07-07,JIANG Huajun,TANIOKA Ayuka,4,0,"11,11,11,12|7,8,3,10",R32,GRAND_SLAM,WS,75,Main Draw,JIANG Huajun (HKG),TANIOKA Ayuka (JPN),JIANG Huajun
+Pro Tour Japan Open Kobe 2011,2011-07-07,WANG Yuegu,ABE Megumi,4,1,"11,8,11,11,11|7,11,5,2,2",R32,GRAND_SLAM,WS,75,Main Draw,WANG Yuegu (SGP),ABE Megumi (JPN),WANG Yuegu
+Pro Tour Japan Open Kobe 2011,2011-07-07,WAKAMIYA Misako,SUN Beibei,4,3,"6,11,9,11,4,11,11|11,9,11,4,11,8,5",R32,GRAND_SLAM,WS,75,Main Draw,WAKAMIYA Misako (JPN),SUN Beibei (SGP),WAKAMIYA Misako
+Pro Tour Japan Open Kobe 2011,2011-07-07,YAMANASHI Yuri,KANG Misoon,4,1,"11,11,11,10,11|6,3,8,12,8",R32,GRAND_SLAM,WS,75,Main Draw,YAMANASHI Yuri (JPN),KANG Misoon (KOR),YAMANASHI Yuri
+Pro Tour Japan Open Kobe 2011,2011-07-07,HIRANO Sayaka,SUH Hyo Won,4,1,"6,11,11,11,11|11,6,8,6,4",R32,GRAND_SLAM,WS,75,Main Draw,HIRANO Sayaka (JPN),SUH Hyo Won (KOR),HIRANO Sayaka
+Pro Tour Japan Open Kobe 2011,2011-07-07,FUKUHARA Ai,CHENG I-Ching,4,3,"11,11,11,9,6,5,11|5,4,8,11,11,11,8",R32,GRAND_SLAM,WS,75,Main Draw,FUKUHARA Ai (JPN),CHENG I-Ching (TPE),FUKUHARA Ai
+Pro Tour Japan Open Kobe 2011,2011-07-07,SONG Maeum,ISHIGAKI Yuka,4,3,"8,3,11,11,9,11,11|11,11,6,7,11,9,8",R32,GRAND_SLAM,WS,75,Main Draw,SONG Maeum (KOR),ISHIGAKI Yuka (JPN),SONG Maeum
+Pro Tour Japan Open Kobe 2011,2011-07-07,LEE I-Chen,YANG Ha Eun,4,3,"10,11,11,4,11,8,11|12,5,9,11,6,11,5",R32,GRAND_SLAM,WS,75,Main Draw,LEE I-Chen (TPE),YANG Ha Eun (KOR),LEE I-Chen
+Pro Tour Japan Open Kobe 2011,2011-07-07,SHEN Yanfei,MAEDA Miyu,4,0,"12,11,11,12|10,4,8,10",R32,GRAND_SLAM,WS,75,Main Draw,SHEN Yanfei (ESP),MAEDA Miyu (JPN),SHEN Yanfei
+Pro Tour Japan Open Kobe 2011,2011-07-07,ONO Shiho,PARK Miyoung,4,2,"11,12,11,11,6,11|9,14,8,9,11,6",R32,GRAND_SLAM,WS,75,Main Draw,ONO Shiho (JPN),PARK Miyoung (KOR),ONO Shiho
+Pro Tour Japan Open Kobe 2011,2011-07-07,MOON Hyunjung,YU Mengyu,4,3,"4,11,11,11,8,11,11|11,6,3,8,11,13,8",R32,GRAND_SLAM,WS,75,Main Draw,MOON Hyunjung (KOR),YU Mengyu (SGP),MOON Hyunjung
+Pro Tour Japan Open Kobe 2011,2011-07-07,NG Wing Nam,HUANG Yi-Hua,4,2,"11,2,11,8,11,11|8,11,7,11,6,8",R32,GRAND_SLAM,WS,75,Main Draw,NG Wing Nam (HKG),HUANG Yi-Hua (TPE),NG Wing Nam
+Pro Tour Japan Open Kobe 2011,2011-07-07,ISHIKAWA Kasumi,CHOI Moonyoung,4,0,"11,11,11,11|7,9,5,5",R32,GRAND_SLAM,WS,75,Main Draw,ISHIKAWA Kasumi (JPN),CHOI Moonyoung (KOR),ISHIKAWA Kasumi
+Pro Tour Japan Open Kobe 2011,2011-07-07,FENG Tianwei,LI Jiawei,4,3,"10,4,11,11,11,11,11|12,11,13,8,6,6,8",R16,GRAND_SLAM,WS,75,Main Draw,FENG Tianwei (SGP),LI Jiawei (SGP),FENG Tianwei
+Pro Tour Japan Open Kobe 2011,2011-07-07,FUJII Hiroko,JIANG Huajun,4,0,"13,11,11,11|11,4,4,9",R16,GRAND_SLAM,WS,75,Main Draw,FUJII Hiroko (JPN),JIANG Huajun (HKG),FUJII Hiroko
+Pro Tour Japan Open Kobe 2011,2011-07-07,WANG Yuegu,WAKAMIYA Misako,4,1,"8,11,11,11,11|11,5,2,9,7",R16,GRAND_SLAM,WS,75,Main Draw,WANG Yuegu (SGP),WAKAMIYA Misako (JPN),WANG Yuegu
+Pro Tour Japan Open Kobe 2011,2011-07-07,HIRANO Sayaka,YAMANASHI Yuri,4,1,"3,11,12,11,11|11,9,10,7,7",R16,GRAND_SLAM,WS,75,Main Draw,HIRANO Sayaka (JPN),YAMANASHI Yuri (JPN),HIRANO Sayaka
+Pro Tour Japan Open Kobe 2011,2011-07-07,FUKUHARA Ai,SONG Maeum,4,2,"11,9,11,8,13,11|9,11,5,11,11,5",R16,GRAND_SLAM,WS,75,Main Draw,FUKUHARA Ai (JPN),SONG Maeum (KOR),FUKUHARA Ai
+Pro Tour Japan Open Kobe 2011,2011-07-07,LEE I-Chen,SHEN Yanfei,4,3,"11,5,7,11,4,11,14|9,11,11,5,11,4,12",R16,GRAND_SLAM,WS,75,Main Draw,LEE I-Chen (TPE),SHEN Yanfei (ESP),LEE I-Chen
+Pro Tour Japan Open Kobe 2011,2011-07-07,MOON Hyunjung,ONO Shiho,4,3,"11,7,11,3,12,11,12|7,11,13,11,10,8,10",R16,GRAND_SLAM,WS,75,Main Draw,MOON Hyunjung (KOR),ONO Shiho (JPN),MOON Hyunjung
+Pro Tour Japan Open Kobe 2011,2011-07-07,ISHIKAWA Kasumi,NG Wing Nam,4,1,"11,11,12,11,11|8,6,14,7,4",R16,GRAND_SLAM,WS,75,Main Draw,ISHIKAWA Kasumi (JPN),NG Wing Nam (HKG),ISHIKAWA Kasumi
+Pro Tour Japan Open Kobe 2011,2011-07-07,FENG Tianwei,FUJII Hiroko,4,0,"11,11,11,11|9,8,2,6",QF,GRAND_SLAM,WS,75,Main Draw,FENG Tianwei (SGP),FUJII Hiroko (JPN),FENG Tianwei
+Pro Tour Japan Open Kobe 2011,2011-07-07,WANG Yuegu,HIRANO Sayaka,4,2,"11,11,9,9,11,11|4,9,11,11,5,8",QF,GRAND_SLAM,WS,75,Main Draw,WANG Yuegu (SGP),HIRANO Sayaka (JPN),WANG Yuegu
+Pro Tour Japan Open Kobe 2011,2011-07-07,FUKUHARA Ai,LEE I-Chen,4,2,"11,11,7,11,10,11|5,7,11,9,12,5",QF,GRAND_SLAM,WS,75,Main Draw,FUKUHARA Ai (JPN),LEE I-Chen (TPE),FUKUHARA Ai
+Pro Tour Japan Open Kobe 2011,2011-07-07,ISHIKAWA Kasumi,MOON Hyunjung,4,2,"13,9,11,11,13,11|15,11,7,6,11,7",QF,GRAND_SLAM,WS,75,Main Draw,ISHIKAWA Kasumi (JPN),MOON Hyunjung (KOR),ISHIKAWA Kasumi
+Pro Tour Japan Open Kobe 2011,2011-07-07,FENG Tianwei,WANG Yuegu,4,1,"6,11,11,11,11|11,3,5,7,7",SF,GRAND_SLAM,WS,75,Main Draw,FENG Tianwei (SGP),WANG Yuegu (SGP),FENG Tianwei
+Pro Tour Japan Open Kobe 2011,2011-07-07,FUKUHARA Ai,ISHIKAWA Kasumi,4,0,"13,11,16,11|11,9,14,6",SF,GRAND_SLAM,WS,75,Main Draw,FUKUHARA Ai (JPN),ISHIKAWA Kasumi (JPN),FUKUHARA Ai
+Pro Tour Japan Open Kobe 2011,2011-07-07,FENG Tianwei,FUKUHARA Ai,4,0,"11,12,11,15|8,10,9,13",F,GRAND_SLAM,WS,75,Main Draw,FENG Tianwei (SGP),FUKUHARA Ai (JPN),FENG Tianwei
+Pro Tour Japan Open Kobe 2011,2011-07-07,ABE Megumi,SUH Hyo Won,4,1,"11,11,11,11,11|8,4,9,13,5",,GRAND_SLAM,WS,75,Qualification,ABE Megumi (JPN),SUH Hyo Won (KOR),ABE Megumi
+Pro Tour Japan Open Kobe 2011,2011-07-07,SUH Hyo Won,HSIUNG Nai-I,4,0,"11,11,11,11|5,9,9,4",,GRAND_SLAM,WS,75,Qualification,SUH Hyo Won (KOR),HSIUNG Nai-I (TPE),SUH Hyo Won
+Pro Tour Japan Open Kobe 2011,2011-07-07,HSIUNG Nai-I,ABE Megumi,4,1,"11,8,11,11,11|2,11,6,9,7",,GRAND_SLAM,WS,75,Qualification,HSIUNG Nai-I (TPE),ABE Megumi (JPN),HSIUNG Nai-I
+Pro Tour Japan Open Kobe 2011,2011-07-07,MOON Hyunjung,SATO Yui,4,1,"11,11,11,11,11|13,8,6,9,5",,GRAND_SLAM,WS,75,Qualification,MOON Hyunjung (KOR),SATO Yui (JPN),MOON Hyunjung
+Pro Tour Japan Open Kobe 2011,2011-07-07,MOON Hyunjung,LIN Chia-Hui,4,0,"11,11,11,11|6,8,7,5",,GRAND_SLAM,WS,75,Qualification,MOON Hyunjung (KOR),LIN Chia-Hui (TPE),MOON Hyunjung
+Pro Tour Japan Open Kobe 2011,2011-07-07,LIN Chia-Hui,SATO Yui,4,3,"13,7,11,9,8,11,11|11,11,5,11,11,7,5",,GRAND_SLAM,WS,75,Qualification,LIN Chia-Hui (TPE),SATO Yui (JPN),LIN Chia-Hui
+Pro Tour Japan Open Kobe 2011,2011-07-07,WAKAMIYA Misako,PAN Chun-Chu,4,0,"11,11,11,11|4,9,8,7",,GRAND_SLAM,WS,75,Qualification,WAKAMIYA Misako (JPN),PAN Chun-Chu (TPE),WAKAMIYA Misako
+Pro Tour Japan Open Kobe 2011,2011-07-07,WAKAMIYA Misako,MUANGSUK Anisara,4,0,"11,15,11,11|4,13,4,6",,GRAND_SLAM,WS,75,Qualification,WAKAMIYA Misako (JPN),MUANGSUK Anisara (THA),WAKAMIYA Misako
+Pro Tour Japan Open Kobe 2011,2011-07-07,PAN Chun-Chu,MUANGSUK Anisara,4,0,"12,11,11,16|10,4,7,14",,GRAND_SLAM,WS,75,Qualification,PAN Chun-Chu (TPE),MUANGSUK Anisara (THA),PAN Chun-Chu
+Pro Tour Japan Open Kobe 2011,2011-07-07,CHENG I-Ching,KIM Seoyeon,4,3,"2,7,11,17,11,12,11|11,11,7,15,8,14,8",,GRAND_SLAM,WS,75,Qualification,CHENG I-Ching (TPE),KIM Seoyeon (KOR),CHENG I-Ching
+Pro Tour Japan Open Kobe 2011,2011-07-07,ONO Shiho,ZHANG Mo,4,0,"11,11,11,11|6,7,9,8",,GRAND_SLAM,WS,75,Qualification,ONO Shiho (JPN),ZHANG Mo (CAN),ONO Shiho
+Pro Tour Japan Open Kobe 2011,2011-07-07,CHENG I-Ching,ZHANG Mo,4,3,"8,5,11,11,9,11,11|11,11,3,6,11,8,3",,GRAND_SLAM,WS,75,Qualification,CHENG I-Ching (TPE),ZHANG Mo (CAN),CHENG I-Ching
+Pro Tour Japan Open Kobe 2011,2011-07-07,ONO Shiho,KIM Seoyeon,4,0,"11,11,11,11|9,4,6,4",,GRAND_SLAM,WS,75,Qualification,ONO Shiho (JPN),KIM Seoyeon (KOR),ONO Shiho
+Pro Tour Japan Open Kobe 2011,2011-07-07,CHENG I-Ching,ONO Shiho,4,3,"8,11,11,8,11,2,11|11,8,7,11,7,11,7",,GRAND_SLAM,WS,75,Qualification,CHENG I-Ching (TPE),ONO Shiho (JPN),CHENG I-Ching
+Pro Tour Japan Open Kobe 2011,2011-07-07,KIM Seoyeon,ZHANG Mo,4,2,"8,12,11,11,10,11|11,10,3,7,12,4",,GRAND_SLAM,WS,75,Qualification,KIM Seoyeon (KOR),ZHANG Mo (CAN),KIM Seoyeon
+Pro Tour Japan Open Kobe 2011,2011-07-07,MORIZONO Misaki,LUO Anqi,4,0,"11,11,11,11|5,2,1,3",,GRAND_SLAM,WS,75,Qualification,MORIZONO Misaki (JPN),LUO Anqi (CAN),MORIZONO Misaki
+Pro Tour Japan Open Kobe 2011,2011-07-07,CHEN Szu-Yu,MOON Bosun,4,0,"11,11,11,11|5,5,6,7",,GRAND_SLAM,WS,75,Qualification,CHEN Szu-Yu (TPE),MOON Bosun (KOR),CHEN Szu-Yu
+Pro Tour Japan Open Kobe 2011,2011-07-07,MORIZONO Misaki,CHEN Szu-Yu,4,0,"11,11,11,11|6,7,6,6",,GRAND_SLAM,WS,75,Qualification,MORIZONO Misaki (JPN),CHEN Szu-Yu (TPE),MORIZONO Misaki
+Pro Tour Japan Open Kobe 2011,2011-07-07,MOON Bosun,LUO Anqi,4,1,"11,11,8,11,11|7,2,11,3,9",,GRAND_SLAM,WS,75,Qualification,MOON Bosun (KOR),LUO Anqi (CAN),MOON Bosun
+Pro Tour Japan Open Kobe 2011,2011-07-07,MORIZONO Misaki,MOON Bosun,4,0,"11,11,11,11|2,4,9,9",,GRAND_SLAM,WS,75,Qualification,MORIZONO Misaki (JPN),MOON Bosun (KOR),MORIZONO Misaki
+Pro Tour Japan Open Kobe 2011,2011-07-07,CHEN Szu-Yu,LUO Anqi,4,0,"11,11,11,11|4,7,3,9",,GRAND_SLAM,WS,75,Qualification,CHEN Szu-Yu (TPE),LUO Anqi (CAN),CHEN Szu-Yu
+Pro Tour Japan Open Kobe 2011,2011-07-07,SONG Maeum,LIU Hsing-Yin,4,0,"11,11,11,11|8,5,8,6",,GRAND_SLAM,WS,75,Qualification,SONG Maeum (KOR),LIU Hsing-Yin (TPE),SONG Maeum
+Pro Tour Japan Open Kobe 2011,2011-07-07,KOMWONG Nanthana,TORII Yuka,4,0,"11,11,11,11|7,3,5,6",,GRAND_SLAM,WS,75,Qualification,KOMWONG Nanthana (THA),TORII Yuka (JPN),KOMWONG Nanthana
+Pro Tour Japan Open Kobe 2011,2011-07-07,SONG Maeum,KOMWONG Nanthana,4,1,"6,11,11,11,11|11,3,4,8,8",,GRAND_SLAM,WS,75,Qualification,SONG Maeum (KOR),KOMWONG Nanthana (THA),SONG Maeum
+Pro Tour Japan Open Kobe 2011,2011-07-07,TORII Yuka,LIU Hsing-Yin,4,3,"8,11,11,13,10,8,11|11,5,5,11,12,11,6",,GRAND_SLAM,WS,75,Qualification,TORII Yuka (JPN),LIU Hsing-Yin (TPE),TORII Yuka
+Pro Tour Japan Open Kobe 2011,2011-07-07,SONG Maeum,TORII Yuka,4,3,"7,11,5,11,11,8,11|11,2,11,6,5,11,3",,GRAND_SLAM,WS,75,Qualification,SONG Maeum (KOR),TORII Yuka (JPN),SONG Maeum
+Pro Tour Japan Open Kobe 2011,2011-07-07,LIU Hsing-Yin,KOMWONG Nanthana,4,1,"11,11,8,11,11|8,8,11,7,8",,GRAND_SLAM,WS,75,Qualification,LIU Hsing-Yin (TPE),KOMWONG Nanthana (THA),LIU Hsing-Yin
+Pro Tour Japan Open Kobe 2011,2011-07-07,JEON Jihee,HOU Yu-Ling,4,1,"11,10,11,12,11|8,12,3,10,8",,GRAND_SLAM,WS,75,Qualification,JEON Jihee (KOR),HOU Yu-Ling (TPE),JEON Jihee
+Pro Tour Japan Open Kobe 2011,2011-07-07,MAEDA Miyu,CHINBAT Nomin-Erdene,4,0,"11,11,11,11|3,2,7,6",,GRAND_SLAM,WS,75,Qualification,MAEDA Miyu (JPN),CHINBAT Nomin-Erdene (MGL),MAEDA Miyu
+Pro Tour Japan Open Kobe 2011,2011-07-07,JEON Jihee,MAEDA Miyu,4,1,"11,6,11,11,11|5,11,5,8,5",,GRAND_SLAM,WS,75,Qualification,JEON Jihee (KOR),MAEDA Miyu (JPN),JEON Jihee
+Pro Tour Japan Open Kobe 2011,2011-07-07,JEON Jihee,CHINBAT Nomin-Erdene,4,0,"11,11,11,11|2,5,3,6",,GRAND_SLAM,WS,75,Qualification,JEON Jihee (KOR),CHINBAT Nomin-Erdene (MGL),JEON Jihee
+Pro Tour Japan Open Kobe 2011,2011-07-07,MAEDA Miyu,HOU Yu-Ling,4,1,"11,11,5,11,11|6,4,11,6,6",,GRAND_SLAM,WS,75,Qualification,MAEDA Miyu (JPN),HOU Yu-Ling (TPE),MAEDA Miyu
+Pro Tour Japan Open Kobe 2011,2011-07-07,TANIOKA Ayuka,OWEN Naomi,4,0,"11,11,11,12|5,3,5,10",,GRAND_SLAM,WS,75,Qualification,TANIOKA Ayuka (JPN),OWEN Naomi (WAL),TANIOKA Ayuka
+Pro Tour Japan Open Kobe 2011,2011-07-07,LEE I-Chen,SIM Kai Xin Zena,4,2,"11,7,11,7,11,11|3,11,7,11,4,5",,GRAND_SLAM,WS,75,Qualification,LEE I-Chen (TPE),SIM Kai Xin Zena (SGP),LEE I-Chen
+Pro Tour Japan Open Kobe 2011,2011-07-07,LEE I-Chen,TANIOKA Ayuka,4,3,"2,8,11,11,7,11,12|11,11,4,8,11,7,10",,GRAND_SLAM,WS,75,Qualification,LEE I-Chen (TPE),TANIOKA Ayuka (JPN),LEE I-Chen
+Pro Tour Japan Open Kobe 2011,2011-07-07,OWEN Naomi,SIM Kai Xin Zena,4,0,"11,11,11,11|5,7,9,7",,GRAND_SLAM,WS,75,Qualification,OWEN Naomi (WAL),SIM Kai Xin Zena (SGP),OWEN Naomi
+Pro Tour Japan Open Kobe 2011,2011-07-07,TANIOKA Ayuka,SIM Kai Xin Zena,4,3,"11,5,11,11,9,4,14|7,11,7,5,11,11,12",,GRAND_SLAM,WS,75,Qualification,TANIOKA Ayuka (JPN),SIM Kai Xin Zena (SGP),TANIOKA Ayuka
+Pro Tour Japan Open Kobe 2011,2011-07-07,LEE I-Chen,OWEN Naomi,4,0,"11,11,11,11|8,5,9,6",,GRAND_SLAM,WS,75,Qualification,LEE I-Chen (TPE),OWEN Naomi (WAL),LEE I-Chen
+Pro Tour Japan Open Kobe 2011,2011-07-07,YAMANASHI Yuri,AMANO Yu,4,2,"13,11,11,10,8,11|11,7,3,12,11,5",,GRAND_SLAM,WS,75,Qualification,YAMANASHI Yuri (JPN),AMANO Yu (JPN),YAMANASHI Yuri
+Pro Tour Japan Open Kobe 2011,2011-07-07,CHOI Moonyoung,TSUI Pao-Wen,4,2,"12,11,11,6,11,13|14,7,8,11,6,11",,GRAND_SLAM,WS,75,Qualification,CHOI Moonyoung (KOR),TSUI Pao-Wen (TPE),CHOI Moonyoung
+Pro Tour Japan Open Kobe 2011,2011-07-07,YAMANASHI Yuri,CHOI Moonyoung,4,1,"7,11,11,12,11|11,7,5,10,5",,GRAND_SLAM,WS,75,Qualification,YAMANASHI Yuri (JPN),CHOI Moonyoung (KOR),YAMANASHI Yuri
+Pro Tour Japan Open Kobe 2011,2011-07-07,AMANO Yu,TSUI Pao-Wen,4,1,"9,11,11,11,11|11,9,4,3,7",,GRAND_SLAM,WS,75,Qualification,AMANO Yu (JPN),TSUI Pao-Wen (TPE),AMANO Yu
+Pro Tour Japan Open Kobe 2011,2011-07-07,YAMANASHI Yuri,TSUI Pao-Wen,4,0,"11,11,11,11|1,5,9,6",,GRAND_SLAM,WS,75,Qualification,YAMANASHI Yuri (JPN),TSUI Pao-Wen (TPE),YAMANASHI Yuri
+Pro Tour Japan Open Kobe 2011,2011-07-07,CHOI Moonyoung,AMANO Yu,4,1,"11,11,11,9,11|5,5,9,11,6",,GRAND_SLAM,WS,75,Qualification,CHOI Moonyoung (KOR),AMANO Yu (JPN),CHOI Moonyoung
+Pro Tour Japan Open Kobe 2011,2011-07-07,NG Wing Nam,HAMAMOTO Yui,4,3,"11,11,8,11,5,2,11|8,9,11,7,11,11,7",,GRAND_SLAM,WS,75,Qualification,NG Wing Nam (HKG),HAMAMOTO Yui (AUT),NG Wing Nam
+Pro Tour Japan Open Kobe 2011,2011-07-07,PARK Youngsook,CHANG Ya-Chuan,4,1,"11,11,7,11,11|5,3,11,3,7",,GRAND_SLAM,WS,75,Qualification,PARK Youngsook (KOR),CHANG Ya-Chuan (TPE),PARK Youngsook
+Pro Tour Japan Open Kobe 2011,2011-07-07,NG Wing Nam,PARK Youngsook,4,2,"11,11,9,6,11,13|4,8,11,11,9,11",,GRAND_SLAM,WS,75,Qualification,NG Wing Nam (HKG),PARK Youngsook (KOR),NG Wing Nam
+Pro Tour Japan Open Kobe 2011,2011-07-07,HAMAMOTO Yui,CHANG Ya-Chuan,4,2,"11,12,11,10,8,11|6,10,9,12,11,8",,GRAND_SLAM,WS,75,Qualification,HAMAMOTO Yui (AUT),CHANG Ya-Chuan (TPE),HAMAMOTO Yui
+Pro Tour Japan Open Kobe 2011,2011-07-07,NG Wing Nam,CHANG Ya-Chuan,4,1,"11,11,11,4,13|7,5,7,11,11",,GRAND_SLAM,WS,75,Qualification,NG Wing Nam (HKG),CHANG Ya-Chuan (TPE),NG Wing Nam
+Pro Tour Japan Open Kobe 2011,2011-07-07,PARK Youngsook,HAMAMOTO Yui,4,0,"11,11,11,11|8,8,4,6",,GRAND_SLAM,WS,75,Qualification,PARK Youngsook (KOR),HAMAMOTO Yui (AUT),PARK Youngsook
+Pro Tour Japan Open Kobe 2011,2011-07-07,ABE Megumi,PARK Youngsook,4,1,"11,11,13,11,11|6,9,15,9,8",QR16,GRAND_SLAM,WS,75,Qualification,ABE Megumi (JPN),PARK Youngsook (KOR),ABE Megumi
+Pro Tour Japan Open Kobe 2011,2011-07-07,CHOI Moonyoung,LIN Chia-Hui,4,1,"11,11,10,11,11|7,6,12,9,1",QR16,GRAND_SLAM,WS,75,Qualification,CHOI Moonyoung (KOR),LIN Chia-Hui (TPE),CHOI Moonyoung
+Pro Tour Japan Open Kobe 2011,2011-07-07,TANIOKA Ayuka,PAN Chun-Chu,4,0,"11,11,11,11|9,4,3,4",QR16,GRAND_SLAM,WS,75,Qualification,TANIOKA Ayuka (JPN),PAN Chun-Chu (TPE),TANIOKA Ayuka
+Pro Tour Japan Open Kobe 2011,2011-07-07,ONO Shiho,LIU Hsing-Yin,4,1,"11,12,11,7,11|8,10,8,11,9",QR16,GRAND_SLAM,WS,75,Qualification,ONO Shiho (JPN),LIU Hsing-Yin (TPE),ONO Shiho
+Pro Tour Japan Open Kobe 2011,2011-07-07,MAEDA Miyu,CHEN Szu-Yu,4,2,"5,17,6,11,11,17|11,15,11,8,8,15",QR16,GRAND_SLAM,WS,75,Qualification,MAEDA Miyu (JPN),CHEN Szu-Yu (TPE),MAEDA Miyu

@@ -1,154 +1,154 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-World Tour Hungarian Open Budapest 2018,2018-01-18,FAN Zhendong,XUE Fei,4,0,"11,11,11,11|5,7,2,5",R32,GRAND_SLAM,MS,869,Main Draw,FAN Zhendong (CHN),XUE Fei (CHN)
-World Tour Hungarian Open Budapest 2018,2018-01-18,GERASSIMENKO Kirill,KARLSSON Mattias,4,3,"9,11,11,6,11,8,11|11,4,9,11,9,11,4",R32,GRAND_SLAM,MS,869,Main Draw,GERASSIMENKO Kirill (KAZ),KARLSSON Mattias (SWE)
-World Tour Hungarian Open Budapest 2018,2018-01-18,APOLONIA Tiago,LAKATOS Tamas,4,2,"9,9,11,12,11,11|11,11,1,10,5,4",R32,GRAND_SLAM,MS,869,Main Draw,LAKATOS Tamas (HUN),APOLONIA Tiago (POR)
-World Tour Hungarian Open Budapest 2018,2018-01-18,KARLSSON Kristian,ROBINOT Quentin,4,2,"7,10,11,11,11,11|11,12,8,5,7,9",R32,GRAND_SLAM,MS,869,Main Draw,ROBINOT Quentin (FRA),KARLSSON Kristian (SWE)
-World Tour Hungarian Open Budapest 2018,2018-01-18,FRANZISKA Patrick,SAMSONOV Vladimir,4,3,"9,11,11,12,9,9,11|11,6,9,10,11,11,5",R32,GRAND_SLAM,MS,869,Main Draw,SAMSONOV Vladimir (BLR),FRANZISKA Patrick (GER)
-World Tour Hungarian Open Budapest 2018,2018-01-18,KOU Lei,PERSSON Jon,4,2,"10,11,12,11,11,11|12,9,10,8,13,6",R32,GRAND_SLAM,MS,869,Main Draw,PERSSON Jon (SWE),KOU Lei (UKR)
-World Tour Hungarian Open Budapest 2018,2018-01-18,LIAO Cheng-Ting,DRINKHALL Paul,4,2,"11,9,11,11,11,11|4,11,8,13,6,6",R32,GRAND_SLAM,MS,869,Main Draw,DRINKHALL Paul (ENG),LIAO Cheng-Ting (TPE)
-World Tour Hungarian Open Budapest 2018,2018-01-18,CALDERANO Hugo,SUN Chia-Hung,4,1,"11,11,11,9,11|8,9,4,11,7",R32,GRAND_SLAM,MS,869,Main Draw,SUN Chia-Hung (TPE),CALDERANO Hugo (BRA)
-World Tour Hungarian Open Budapest 2018,2018-01-18,XU Chenhao,ASSAR Omar,4,0,"11,11,11,16|7,4,8,14",R32,GRAND_SLAM,MS,869,Main Draw,ASSAR Omar (EGY),XU Chenhao (CHN)
-World Tour Hungarian Open Budapest 2018,2018-01-18,LIU Dingshuo,LEBESSON Emmanuel,4,0,"12,11,13,11|10,9,11,8",R32,GRAND_SLAM,MS,869,Main Draw,LIU Dingshuo (CHN),LEBESSON Emmanuel (FRA)
-World Tour Hungarian Open Budapest 2018,2018-01-18,GROTH Jonathan,MOREGARD Truls,4,3,"8,7,11,11,8,11,11|11,11,7,8,11,8,9",R32,GRAND_SLAM,MS,869,Main Draw,GROTH Jonathan (DEN),MOREGARD Truls (SWE)
-World Tour Hungarian Open Budapest 2018,2018-01-18,FILUS Ruwen,GERALDO Joao,4,1,"11,5,11,11,11|6,11,4,9,1",R32,GRAND_SLAM,MS,869,Main Draw,GERALDO Joao (POR),FILUS Ruwen (GER)
-World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Chien-An,GAO Ning,4,2,"18,8,11,11,7,11|16,11,8,6,11,7",R32,GRAND_SLAM,MS,869,Main Draw,CHEN Chien-An (TPE),GAO Ning (SGP)
-World Tour Hungarian Open Budapest 2018,2018-01-18,ROBLES Alvaro,ZHAI Yujia,4,3,"11,2,11,11,4,7,11|8,11,8,4,11,11,8",R32,GRAND_SLAM,MS,869,Main Draw,ZHAI Yujia (DEN),ROBLES Alvaro (ESP)
-World Tour Hungarian Open Budapest 2018,2018-01-18,WANG Chuqin,WALTHER Ricardo,4,1,"11,11,11,8,11|6,3,3,11,7",R32,GRAND_SLAM,MS,869,Main Draw,WALTHER Ricardo (GER),WANG Chuqin (CHN)
-World Tour Hungarian Open Budapest 2018,2018-01-18,CHUANG Chih-Yuan,FEGERL Stefan,4,1,"11,11,11,5,11|8,8,4,11,6",R32,GRAND_SLAM,MS,869,Main Draw,FEGERL Stefan (AUT),CHUANG Chih-Yuan (TPE)
-World Tour Hungarian Open Budapest 2018,2018-01-18,FAN Zhendong,GERASSIMENKO Kirill,4,1,"12,9,11,11,11|10,11,5,8,4",R16,GRAND_SLAM,MS,869,Main Draw,FAN Zhendong (CHN),GERASSIMENKO Kirill (KAZ)
-World Tour Hungarian Open Budapest 2018,2018-01-18,KARLSSON Kristian,APOLONIA Tiago,4,0,"11,12,11,11|7,10,8,9",R16,GRAND_SLAM,MS,869,Main Draw,APOLONIA Tiago (POR),KARLSSON Kristian (SWE)
-World Tour Hungarian Open Budapest 2018,2018-01-18,FRANZISKA Patrick,KOU Lei,4,2,"9,11,11,6,12,11|11,8,2,11,10,7",R16,GRAND_SLAM,MS,869,Main Draw,FRANZISKA Patrick (GER),KOU Lei (UKR)
-World Tour Hungarian Open Budapest 2018,2018-01-18,CALDERANO Hugo,LIAO Cheng-Ting,4,3,"6,11,11,11,8,9,11|11,7,6,6,11,11,3",R16,GRAND_SLAM,MS,869,Main Draw,LIAO Cheng-Ting (TPE),CALDERANO Hugo (BRA)
-World Tour Hungarian Open Budapest 2018,2018-01-18,LIU Dingshuo,XU Chenhao,4,3,"11,11,11,7,9,9,12|3,8,9,11,11,11,10",R16,GRAND_SLAM,MS,869,Main Draw,XU Chenhao (CHN),LIU Dingshuo (CHN)
-World Tour Hungarian Open Budapest 2018,2018-01-18,GROTH Jonathan,FILUS Ruwen,4,1,"11,10,11,11,11|6,12,6,2,9",R16,GRAND_SLAM,MS,869,Main Draw,GROTH Jonathan (DEN),FILUS Ruwen (GER)
-World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Chien-An,ROBLES Alvaro,4,3,"9,9,5,11,11,11,11|11,11,11,9,3,8,7",R16,GRAND_SLAM,MS,869,Main Draw,CHEN Chien-An (TPE),ROBLES Alvaro (ESP)
-World Tour Hungarian Open Budapest 2018,2018-01-18,WANG Chuqin,CHUANG Chih-Yuan,4,0,"11,11,11,11|9,9,6,8",R16,GRAND_SLAM,MS,869,Main Draw,WANG Chuqin (CHN),CHUANG Chih-Yuan (TPE)
-World Tour Hungarian Open Budapest 2018,2018-01-18,FAN Zhendong,KARLSSON Kristian,4,1,"9,11,11,11,11|11,6,8,9,6",QF,GRAND_SLAM,MS,869,Main Draw,FAN Zhendong (CHN),KARLSSON Kristian (SWE)
-World Tour Hungarian Open Budapest 2018,2018-01-18,CALDERANO Hugo,FRANZISKA Patrick,4,2,"8,11,11,11,11,11|11,7,7,13,9,7",QF,GRAND_SLAM,MS,869,Main Draw,FRANZISKA Patrick (GER),CALDERANO Hugo (BRA)
-World Tour Hungarian Open Budapest 2018,2018-01-18,LIU Dingshuo,GROTH Jonathan,4,3,"11,6,11,13,8,9,11|6,11,7,11,11,11,2",QF,GRAND_SLAM,MS,869,Main Draw,LIU Dingshuo (CHN),GROTH Jonathan (DEN)
-World Tour Hungarian Open Budapest 2018,2018-01-18,WANG Chuqin,CHEN Chien-An,4,0,"11,11,11,11|9,6,5,6",QF,GRAND_SLAM,MS,869,Main Draw,CHEN Chien-An (TPE),WANG Chuqin (CHN)
-World Tour Hungarian Open Budapest 2018,2018-01-18,FAN Zhendong,CALDERANO Hugo,4,1,"11,9,11,11,11|8,11,7,8,5",SF,GRAND_SLAM,MS,869,Main Draw,FAN Zhendong (CHN),CALDERANO Hugo (BRA)
-World Tour Hungarian Open Budapest 2018,2018-01-18,WANG Chuqin,LIU Dingshuo,4,2,"11,8,11,6,15,11|7,11,7,11,13,7",SF,GRAND_SLAM,MS,869,Main Draw,LIU Dingshuo (CHN),WANG Chuqin (CHN)
-World Tour Hungarian Open Budapest 2018,2018-01-18,FAN Zhendong,WANG Chuqin,4,1,"11,9,11,14,11|6,11,7,12,3",F,GRAND_SLAM,MS,869,Main Draw,FAN Zhendong (CHN),WANG Chuqin (CHN)
-World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Meng,VOROBEVA Olga,4,1,"11,11,11,7,11|6,2,5,11,5",R32,GRAND_SLAM,WS,869,Main Draw,CHEN Meng (CHN),VOROBEVA Olga (RUS)
-World Tour Hungarian Open Budapest 2018,2018-01-18,HE Zhuojia,EKHOLM Matilda,4,0,"11,11,11,11|6,1,9,5",R32,GRAND_SLAM,WS,869,Main Draw,HE Zhuojia (CHN),EKHOLM Matilda (SWE)
-World Tour Hungarian Open Budapest 2018,2018-01-18,SZOCS Bernadette,PERGEL Szandra,4,0,"11,11,11,11|5,5,8,9",R32,GRAND_SLAM,WS,869,Main Draw,PERGEL Szandra (HUN),SZOCS Bernadette (ROU)
-World Tour Hungarian Open Budapest 2018,2018-01-18,WANG Manyu,DIACONU Adina,4,0,"11,11,11,11|5,6,5,5",R32,GRAND_SLAM,WS,869,Main Draw,DIACONU Adina (ROU),WANG Manyu (CHN)
-World Tour Hungarian Open Budapest 2018,2018-01-18,POLCANOVA Sofia,PARTYKA Natalia,4,3,"11,11,11,11,6,8,11|8,5,9,13,11,11,6",R32,GRAND_SLAM,WS,869,Main Draw,POLCANOVA Sofia (AUT),PARTYKA Natalia (POL)
-World Tour Hungarian Open Budapest 2018,2018-01-18,ZHANG Mo,MADARASZ Dora,4,3,"11,5,9,9,11,11,11|4,11,11,11,4,7,9",R32,GRAND_SLAM,WS,869,Main Draw,MADARASZ Dora (HUN),ZHANG Mo (CAN)
-World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Xingtong,LI Qian,4,0,"11,11,11,11|3,4,2,9",R32,GRAND_SLAM,WS,869,Main Draw,CHEN Xingtong (CHN),LI Qian (POL)
-World Tour Hungarian Open Budapest 2018,2018-01-18,DOO Hoi Kem,YANG Xiaoxin,4,3,"8,11,5,11,11,11,11|11,7,11,13,8,6,9",R32,GRAND_SLAM,WS,869,Main Draw,YANG Xiaoxin (MON),DOO Hoi Kem (HKG)
-World Tour Hungarian Open Budapest 2018,2018-01-18,LI Jie,NG Wing Nam,4,0,"11,11,11,11|9,4,6,1",R32,GRAND_SLAM,WS,869,Main Draw,LI Jie (NED),NG Wing Nam (HKG)
-World Tour Hungarian Open Budapest 2018,2018-01-18,SOO Wai Yam,LI Xiang,4,0,"11,11,12,11|9,8,10,7",R32,GRAND_SLAM,WS,869,Main Draw,LI Xiang (ITA),SOO Wai Yam (HKG)
-World Tour Hungarian Open Budapest 2018,2018-01-18,MIKHAILOVA Polina,HAMAMOTO Yui,4,2,"8,12,11,11,7,11|11,10,9,8,11,6",R32,GRAND_SLAM,WS,869,Main Draw,HAMAMOTO Yui (AUT),MIKHAILOVA Polina (RUS)
-World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Szu-Yu,HAPONOVA Hanna,4,0,"11,11,11,11|6,6,3,9",R32,GRAND_SLAM,WS,869,Main Draw,HAPONOVA Hanna (UKR),CHEN Szu-Yu (TPE)
-World Tour Hungarian Open Budapest 2018,2018-01-18,SUN Yingsha,POTA Georgina,4,0,"11,11,13,11|6,5,11,1",R32,GRAND_SLAM,WS,869,Main Draw,POTA Georgina (HUN),SUN Yingsha (CHN)
-World Tour Hungarian Open Budapest 2018,2018-01-18,YU Fu,DAS Mouma,4,2,"8,11,11,11,9,11|11,4,3,5,11,9",R32,GRAND_SLAM,WS,869,Main Draw,DAS Mouma (IND),YU Fu (POR)
-World Tour Hungarian Open Budapest 2018,2018-01-18,ZENG Jian,MITTELHAM Nina,4,3,"11,14,11,10,7,10,11|7,12,8,12,11,12,7",R32,GRAND_SLAM,WS,869,Main Draw,ZENG Jian (SGP),MITTELHAM Nina (GER)
-World Tour Hungarian Open Budapest 2018,2018-01-18,LEE Ho Ching,MESHREF Dina,4,2,"11,11,11,6,11,11|13,4,9,11,7,7",R32,GRAND_SLAM,WS,869,Main Draw,MESHREF Dina (EGY),LEE Ho Ching (HKG)
-World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Meng,HE Zhuojia,4,2,"11,10,11,4,11,11|8,12,2,11,3,2",R16,GRAND_SLAM,WS,869,Main Draw,CHEN Meng (CHN),HE Zhuojia (CHN)
-World Tour Hungarian Open Budapest 2018,2018-01-18,WANG Manyu,SZOCS Bernadette,4,0,"11,11,11,11|3,1,8,9",R16,GRAND_SLAM,WS,869,Main Draw,SZOCS Bernadette (ROU),WANG Manyu (CHN)
-World Tour Hungarian Open Budapest 2018,2018-01-18,POLCANOVA Sofia,ZHANG Mo,4,1,"11,12,7,11,13|9,10,11,4,11",R16,GRAND_SLAM,WS,869,Main Draw,POLCANOVA Sofia (AUT),ZHANG Mo (CAN)
-World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Xingtong,DOO Hoi Kem,4,1,"11,11,14,9,11|4,2,12,11,5",R16,GRAND_SLAM,WS,869,Main Draw,CHEN Xingtong (CHN),DOO Hoi Kem (HKG)
-World Tour Hungarian Open Budapest 2018,2018-01-18,LI Jie,SOO Wai Yam,4,3,"3,5,11,16,9,11,11|11,11,6,14,11,6,8",R16,GRAND_SLAM,WS,869,Main Draw,LI Jie (NED),SOO Wai Yam (HKG)
-World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Szu-Yu,MIKHAILOVA Polina,4,2,"11,11,6,11,8,11|8,9,11,9,11,4",R16,GRAND_SLAM,WS,869,Main Draw,MIKHAILOVA Polina (RUS),CHEN Szu-Yu (TPE)
-World Tour Hungarian Open Budapest 2018,2018-01-18,SUN Yingsha,YU Fu,4,3,"12,11,9,11,11,2,11|10,8,11,13,5,11,4",R16,GRAND_SLAM,WS,869,Main Draw,SUN Yingsha (CHN),YU Fu (POR)
-World Tour Hungarian Open Budapest 2018,2018-01-18,LEE Ho Ching,ZENG Jian,4,0,"11,11,11,11|6,6,3,7",R16,GRAND_SLAM,WS,869,Main Draw,ZENG Jian (SGP),LEE Ho Ching (HKG)
-World Tour Hungarian Open Budapest 2018,2018-01-18,WANG Manyu,CHEN Meng,4,1,"11,7,14,13,11|8,11,12,11,7",QF,GRAND_SLAM,WS,869,Main Draw,CHEN Meng (CHN),WANG Manyu (CHN)
-World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Xingtong,POLCANOVA Sofia,4,2,"11,11,11,3,5,11|5,5,8,11,11,9",QF,GRAND_SLAM,WS,869,Main Draw,POLCANOVA Sofia (AUT),CHEN Xingtong (CHN)
-World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Szu-Yu,LI Jie,4,2,"11,7,11,11,9,11|6,11,7,8,11,9",QF,GRAND_SLAM,WS,869,Main Draw,LI Jie (NED),CHEN Szu-Yu (TPE)
-World Tour Hungarian Open Budapest 2018,2018-01-18,SUN Yingsha,LEE Ho Ching,4,1,"11,11,9,11,11|6,4,11,8,6",QF,GRAND_SLAM,WS,869,Main Draw,SUN Yingsha (CHN),LEE Ho Ching (HKG)
-World Tour Hungarian Open Budapest 2018,2018-01-18,WANG Manyu,CHEN Xingtong,4,3,"12,13,11,11,15,9,11|14,11,8,13,13,11,5",SF,GRAND_SLAM,WS,869,Main Draw,WANG Manyu (CHN),CHEN Xingtong (CHN)
-World Tour Hungarian Open Budapest 2018,2018-01-18,SUN Yingsha,CHEN Szu-Yu,4,1,"11,11,11,11,11|5,8,5,13,7",SF,GRAND_SLAM,WS,869,Main Draw,CHEN Szu-Yu (TPE),SUN Yingsha (CHN)
-World Tour Hungarian Open Budapest 2018,2018-01-18,WANG Manyu,SUN Yingsha,4,3,"9,11,10,11,9,11,11|11,6,12,8,11,8,4",F,GRAND_SLAM,WS,869,Main Draw,WANG Manyu (CHN),SUN Yingsha (CHN)
-World Tour Hungarian Open Budapest 2018,2018-01-18,POLANSKY Tomas,JUHASZ Patrik,3,0,"11,11,11|4,7,9",R32,GRAND_SLAM,U21MS,869,Main Draw,POLANSKY Tomas (CZE),JUHASZ Patrik (HUN)
-World Tour Hungarian Open Budapest 2018,2018-01-18,GUNDUZ Ibrahim,KALUZNY Samuel,3,1,"9,11,11,11|11,7,8,6",R32,GRAND_SLAM,U21MS,869,Main Draw,KALUZNY Samuel (SVK),GUNDUZ Ibrahim (TUR)
-World Tour Hungarian Open Budapest 2018,2018-01-18,MAJOROS Bence,HOHMEIER Nils,3,1,"12,11,8,11|10,2,11,8",R32,GRAND_SLAM,U21MS,869,Main Draw,MAJOROS Bence (HUN),HOHMEIER Nils (GER)
-World Tour Hungarian Open Budapest 2018,2018-01-18,SIPOS Rares,KOTOWSKI Tomasz,3,0,"11,11,12|7,4,10",R32,GRAND_SLAM,U21MS,869,Main Draw,SIPOS Rares (ROU),KOTOWSKI Tomasz (POL)
-World Tour Hungarian Open Budapest 2018,2018-01-18,ZATOWKA Patryk,PUTUNTICA Andrei,3,1,"13,11,11,11|15,5,3,7",R32,GRAND_SLAM,U21MS,869,Main Draw,PUTUNTICA Andrei (MDA),ZATOWKA Patryk (POL)
-World Tour Hungarian Open Budapest 2018,2018-01-18,IVONIN Denis,ANDRAS Csaba,3,1,"11,6,11,11|8,11,9,2",R32,GRAND_SLAM,U21MS,869,Main Draw,IVONIN Denis (RUS),ANDRAS Csaba (HUN)
-World Tour Hungarian Open Budapest 2018,2018-01-18,NG Pak Nam,AFANADOR Brian,3,0,"11,11,11|9,9,5",R32,GRAND_SLAM,U21MS,869,Main Draw,NG Pak Nam (HKG),AFANADOR Brian (PUR)
-World Tour Hungarian Open Budapest 2018,2018-01-18,KHANIN Aleksandr,YIGENLER Abdullah,3,1,"14,9,14,11|12,11,12,5",R32,GRAND_SLAM,U21MS,869,Main Draw,YIGENLER Abdullah (TUR),KHANIN Aleksandr (BLR)
-World Tour Hungarian Open Budapest 2018,2018-01-18,LIN Yun-Ju,JARVIS Tom,3,0,"11,11,11|3,5,6",R32,GRAND_SLAM,U21MS,869,Main Draw,LIN Yun-Ju (TPE),JARVIS Tom (ENG)
-World Tour Hungarian Open Budapest 2018,2018-01-18,NIU Guankai,PLETEA Cristian,3,0,"12,11,11|10,9,8",R32,GRAND_SLAM,U21MS,869,Main Draw,NIU Guankai (CHN),PLETEA Cristian (ROU)
-World Tour Hungarian Open Budapest 2018,2018-01-18,MOREGARD Truls,LEVENKO Andreas,3,2,"4,11,6,11,11|11,3,11,3,4",R32,GRAND_SLAM,U21MS,869,Main Draw,LEVENKO Andreas (AUT),MOREGARD Truls (SWE)
-World Tour Hungarian Open Budapest 2018,2018-01-18,BADOWSKI Marek,MOLNAR Istvan,3,1,"11,16,6,11|5,14,11,8",R32,GRAND_SLAM,U21MS,869,Main Draw,MOLNAR Istvan (HUN),BADOWSKI Marek (POL)
-World Tour Hungarian Open Budapest 2018,2018-01-18,POLANSKY Tomas,GUNDUZ Ibrahim,3,1,"11,6,11,11|6,11,5,9",R16,GRAND_SLAM,U21MS,869,Main Draw,POLANSKY Tomas (CZE),GUNDUZ Ibrahim (TUR)
-World Tour Hungarian Open Budapest 2018,2018-01-18,MAJOROS Bence,BERTRAND Irvin,3,1,"11,11,2,11|9,5,11,8",R16,GRAND_SLAM,U21MS,869,Main Draw,MAJOROS Bence (HUN),BERTRAND Irvin (FRA)
-World Tour Hungarian Open Budapest 2018,2018-01-18,ZATOWKA Patryk,SIPOS Rares,3,2,"4,11,5,13,11|11,7,11,11,9",R16,GRAND_SLAM,U21MS,869,Main Draw,SIPOS Rares (ROU),ZATOWKA Patryk (POL)
-World Tour Hungarian Open Budapest 2018,2018-01-18,SEYFRIED Joe,IVONIN Denis,3,1,"11,8,11,14|6,11,8,12",R16,GRAND_SLAM,U21MS,869,Main Draw,IVONIN Denis (RUS),SEYFRIED Joe (FRA)
-World Tour Hungarian Open Budapest 2018,2018-01-18,NG Pak Nam,KHANIN Aleksandr,3,0,"11,11,11|7,6,8",R16,GRAND_SLAM,U21MS,869,Main Draw,NG Pak Nam (HKG),KHANIN Aleksandr (BLR)
-World Tour Hungarian Open Budapest 2018,2018-01-18,LIN Yun-Ju,NIU Guankai,3,0,"11,11,11|4,5,4",R16,GRAND_SLAM,U21MS,869,Main Draw,LIN Yun-Ju (TPE),NIU Guankai (CHN)
-World Tour Hungarian Open Budapest 2018,2018-01-18,MOREGARD Truls,BADOWSKI Marek,3,1,"11,6,11,11|7,11,9,8",R16,GRAND_SLAM,U21MS,869,Main Draw,MOREGARD Truls (SWE),BADOWSKI Marek (POL)
-World Tour Hungarian Open Budapest 2018,2018-01-18,JORGIC Darko,LIND Anders,3,2,"11,8,11,11,11|3,11,9,13,8",R16,GRAND_SLAM,U21MS,869,Main Draw,LIND Anders (DEN),JORGIC Darko (SLO)
-World Tour Hungarian Open Budapest 2018,2018-01-18,MAJOROS Bence,POLANSKY Tomas,3,0,"11,11,11|6,7,8",QF,GRAND_SLAM,U21MS,869,Main Draw,POLANSKY Tomas (CZE),MAJOROS Bence (HUN)
-World Tour Hungarian Open Budapest 2018,2018-01-18,SEYFRIED Joe,ZATOWKA Patryk,3,0,"11,11,11|8,9,3",QF,GRAND_SLAM,U21MS,869,Main Draw,ZATOWKA Patryk (POL),SEYFRIED Joe (FRA)
-World Tour Hungarian Open Budapest 2018,2018-01-18,LIN Yun-Ju,NG Pak Nam,3,1,"9,11,11,11|11,6,6,7",QF,GRAND_SLAM,U21MS,869,Main Draw,NG Pak Nam (HKG),LIN Yun-Ju (TPE)
-World Tour Hungarian Open Budapest 2018,2018-01-18,MOREGARD Truls,JORGIC Darko,3,2,"10,8,11,11,11|12,11,8,9,6",QF,GRAND_SLAM,U21MS,869,Main Draw,MOREGARD Truls (SWE),JORGIC Darko (SLO)
-World Tour Hungarian Open Budapest 2018,2018-01-18,MAJOROS Bence,SEYFRIED Joe,3,2,"11,4,11,5,11|7,11,8,11,9",SF,GRAND_SLAM,U21MS,869,Main Draw,MAJOROS Bence (HUN),SEYFRIED Joe (FRA)
-World Tour Hungarian Open Budapest 2018,2018-01-18,LIN Yun-Ju,MOREGARD Truls,3,0,"13,11,11|11,6,9",SF,GRAND_SLAM,U21MS,869,Main Draw,LIN Yun-Ju (TPE),MOREGARD Truls (SWE)
-World Tour Hungarian Open Budapest 2018,2018-01-18,LIN Yun-Ju,MAJOROS Bence,3,0,"11,11,11|5,6,6",F,GRAND_SLAM,U21MS,869,Main Draw,MAJOROS Bence (HUN),LIN Yun-Ju (TPE)
-World Tour Hungarian Open Budapest 2018,2018-01-18,SOO Wai Yam,HARASZTOVICH Fanni,3,0,"11,11,11|6,7,8",R32,GRAND_SLAM,U21WS,869,Main Draw,SOO Wai Yam (HKG),HARASZTOVICH Fanni (HUN)
-World Tour Hungarian Open Budapest 2018,2018-01-18,KUKULKOVA Tatiana,MIGOT Marie,3,2,"10,11,6,11,12|12,6,11,9,10",R32,GRAND_SLAM,U21WS,869,Main Draw,KUKULKOVA Tatiana (SVK),MIGOT Marie (FRA)
-World Tour Hungarian Open Budapest 2018,2018-01-18,LUNG Lisa,HARTBRICH Leonie,3,0,"11,11,12|4,4,10",R32,GRAND_SLAM,U21WS,869,Main Draw,LUNG Lisa (BEL),HARTBRICH Leonie (HUN)
-World Tour Hungarian Open Budapest 2018,2018-01-18,DIACONU Adina,DEGRAEF Margo,3,0,"11,11,11|8,9,8",R32,GRAND_SLAM,U21WS,869,Main Draw,DEGRAEF Margo (BEL),DIACONU Adina (ROU)
-World Tour Hungarian Open Budapest 2018,2018-01-18,TAILAKOVA Mariia,MISCHEK-COLUCCI Karoline,3,1,"11,11,1,11|8,8,11,8",R32,GRAND_SLAM,U21WS,869,Main Draw,TAILAKOVA Mariia (RUS),MISCHEK-COLUCCI Karoline (AUT)
-World Tour Hungarian Open Budapest 2018,2018-01-18,BOGDANOVA Nadezhda,GAUTHIER Lucie,3,2,"11,7,11,8,11|9,11,8,11,9",R32,GRAND_SLAM,U21WS,869,Main Draw,GAUTHIER Lucie (FRA),BOGDANOVA Nadezhda (BLR)
-World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Ke,TSAI Yu-Chin,3,0,"11,11,11|5,6,3",R32,GRAND_SLAM,U21WS,869,Main Draw,CHEN Ke (CHN),TSAI Yu-Chin (TPE)
-World Tour Hungarian Open Budapest 2018,2018-01-18,LIN Chia-Hsuan,MOSCONI Veronica,3,0,"11,11,11|2,9,8",R32,GRAND_SLAM,U21WS,869,Main Draw,MOSCONI Veronica (ITA),LIN Chia-Hsuan (TPE)
-World Tour Hungarian Open Budapest 2018,2018-01-18,WAN Yuan,BERGAND Filippa,3,0,"12,11,11|10,4,8",R32,GRAND_SLAM,U21WS,869,Main Draw,WAN Yuan (GER),BERGAND Filippa (SWE)
-World Tour Hungarian Open Budapest 2018,2018-01-18,FEHER Orsolya,TRIGOLOS Daria,3,1,"11,11,2,11|9,4,11,9",R32,GRAND_SLAM,U21WS,869,Main Draw,FEHER Orsolya (HUN),TRIGOLOS Daria (BLR)
-World Tour Hungarian Open Budapest 2018,2018-01-18,HO Tin-Tin,IMRE Leila,3,0,"11,11,11|5,8,7",R32,GRAND_SLAM,U21WS,869,Main Draw,HO Tin-Tin (ENG),IMRE Leila (HUN)
-World Tour Hungarian Open Budapest 2018,2018-01-18,ZHANG Sofia-Xuan,ZARIF Audrey,3,2,"11,11,7,9,11|6,9,11,11,6",R32,GRAND_SLAM,U21WS,869,Main Draw,ZHANG Sofia-Xuan (ESP),ZARIF Audrey (FRA)
-World Tour Hungarian Open Budapest 2018,2018-01-18,TSAPTSINOS Maria,NIKITCHANKA Alina,3,0,"11,11,11|8,7,5",R32,GRAND_SLAM,U21WS,869,Main Draw,NIKITCHANKA Alina (BLR),TSAPTSINOS Maria (ENG)
-World Tour Hungarian Open Budapest 2018,2018-01-18,BAJOR Natalia,MALANINA Maria,3,1,"11,11,5,11|7,8,11,7",R32,GRAND_SLAM,U21WS,869,Main Draw,MALANINA Maria (RUS),BAJOR Natalia (POL)
-World Tour Hungarian Open Budapest 2018,2018-01-18,YAREMCHUK Solomiya,CHASSELIN Pauline,3,1,"12,11,7,11|10,7,11,3",R32,GRAND_SLAM,U21WS,869,Main Draw,YAREMCHUK Solomiya (UKR),CHASSELIN Pauline (FRA)
-World Tour Hungarian Open Budapest 2018,2018-01-18,MAK Tze Wing,SUN Jiayi,3,0,"11,11,11|6,9,7",R32,GRAND_SLAM,U21WS,869,Main Draw,SUN Jiayi (CRO),MAK Tze Wing (HKG)
-World Tour Hungarian Open Budapest 2018,2018-01-18,SOO Wai Yam,KUKULKOVA Tatiana,3,1,"11,11,11,11|13,6,5,9",R16,GRAND_SLAM,U21WS,869,Main Draw,SOO Wai Yam (HKG),KUKULKOVA Tatiana (SVK)
-World Tour Hungarian Open Budapest 2018,2018-01-18,DIACONU Adina,LUNG Lisa,3,2,"10,7,11,11,11|12,11,2,8,4",R16,GRAND_SLAM,U21WS,869,Main Draw,LUNG Lisa (BEL),DIACONU Adina (ROU)
-World Tour Hungarian Open Budapest 2018,2018-01-18,TAILAKOVA Mariia,BOGDANOVA Nadezhda,3,1,"11,5,11,11|7,11,9,4",R16,GRAND_SLAM,U21WS,869,Main Draw,TAILAKOVA Mariia (RUS),BOGDANOVA Nadezhda (BLR)
-World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Ke,LIN Chia-Hsuan,3,0,"11,11,11|7,5,1",R16,GRAND_SLAM,U21WS,869,Main Draw,CHEN Ke (CHN),LIN Chia-Hsuan (TPE)
-World Tour Hungarian Open Budapest 2018,2018-01-18,FEHER Orsolya,WAN Yuan,3,0,"11,11,11|5,7,2",R16,GRAND_SLAM,U21WS,869,Main Draw,WAN Yuan (GER),FEHER Orsolya (HUN)
-World Tour Hungarian Open Budapest 2018,2018-01-18,HO Tin-Tin,ZHANG Sofia-Xuan,3,1,"11,11,8,11|8,9,11,6",R16,GRAND_SLAM,U21WS,869,Main Draw,HO Tin-Tin (ENG),ZHANG Sofia-Xuan (ESP)
-World Tour Hungarian Open Budapest 2018,2018-01-18,BAJOR Natalia,TSAPTSINOS Maria,3,1,"7,12,15,11|11,10,13,7",R16,GRAND_SLAM,U21WS,869,Main Draw,TSAPTSINOS Maria (ENG),BAJOR Natalia (POL)
-World Tour Hungarian Open Budapest 2018,2018-01-18,MAK Tze Wing,YAREMCHUK Solomiya,3,1,"11,11,11,11|13,5,8,4",R16,GRAND_SLAM,U21WS,869,Main Draw,YAREMCHUK Solomiya (UKR),MAK Tze Wing (HKG)
-World Tour Hungarian Open Budapest 2018,2018-01-18,SOO Wai Yam,DIACONU Adina,3,1,"5,11,11,11|11,6,9,9",QF,GRAND_SLAM,U21WS,869,Main Draw,SOO Wai Yam (HKG),DIACONU Adina (ROU)
-World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Ke,TAILAKOVA Mariia,3,0,"11,11,11|5,8,8",QF,GRAND_SLAM,U21WS,869,Main Draw,TAILAKOVA Mariia (RUS),CHEN Ke (CHN)
-World Tour Hungarian Open Budapest 2018,2018-01-18,FEHER Orsolya,HO Tin-Tin,3,0,"11,11,13|8,7,11",QF,GRAND_SLAM,U21WS,869,Main Draw,FEHER Orsolya (HUN),HO Tin-Tin (ENG)
-World Tour Hungarian Open Budapest 2018,2018-01-18,MAK Tze Wing,BAJOR Natalia,3,1,"7,11,11,12|11,4,6,10",QF,GRAND_SLAM,U21WS,869,Main Draw,BAJOR Natalia (POL),MAK Tze Wing (HKG)
-World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Ke,SOO Wai Yam,3,1,"11,14,11,11|6,16,9,4",SF,GRAND_SLAM,U21WS,869,Main Draw,SOO Wai Yam (HKG),CHEN Ke (CHN)
-World Tour Hungarian Open Budapest 2018,2018-01-18,MAK Tze Wing,FEHER Orsolya,3,0,"11,11,11|5,2,7",SF,GRAND_SLAM,U21WS,869,Main Draw,FEHER Orsolya (HUN),MAK Tze Wing (HKG)
-World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Ke,MAK Tze Wing,3,1,"1,11,11,11|11,6,3,3",F,GRAND_SLAM,U21WS,869,Main Draw,CHEN Ke (CHN),MAK Tze Wing (HKG)
-World Tour Hungarian Open Budapest 2018,2018-01-18,FRANZISKA Patrick/GROTH Jonathan,LIAO Cheng-Ting/LIN Yun-Ju,3,0,"12,11,11|10,6,4",R16,GRAND_SLAM,MD,869,Main Draw,FRANZISKA Patrick (GER) / GROTH Jonathan (DEN),LIAO Cheng-Ting (TPE) / LIN Yun-Ju (TPE)
-World Tour Hungarian Open Budapest 2018,2018-01-18,ECSEKI Nandor/SZUDI Adam,ASSAR Khalid/ELBEIALI Mohamed,3,1,"11,8,11,11|7,11,8,6",R16,GRAND_SLAM,MD,869,Main Draw,ECSEKI Nandor (HUN) / SZUDI Adam (HUN),ASSAR Khalid (EGY) / ELBEIALI Mohamed (EGY)
-World Tour Hungarian Open Budapest 2018,2018-01-18,FAN Zhendong/YU Ziyang,LAM Siu Hang/NG Pak Nam,3,0,"11,11,11|8,5,8",R16,GRAND_SLAM,MD,869,Main Draw,FAN Zhendong (CHN) / YU Ziyang (CHN),LAM Siu Hang (HKG) / NG Pak Nam (HKG)
-World Tour Hungarian Open Budapest 2018,2018-01-18,FILUS Ruwen/WALTHER Ricardo,KONECNY Tomas/POLANSKY Tomas,3,1,"11,13,12,13|7,15,10,11",R16,GRAND_SLAM,MD,869,Main Draw,FILUS Ruwen (GER) / WALTHER Ricardo (GER),KONECNY Tomas (CZE) / POLANSKY Tomas (CZE)
-World Tour Hungarian Open Budapest 2018,2018-01-18,DEVOS Robin/NUYTINCK Cedric,GERELL Par/KALLBERG Anton,3,2,"12,11,11,7,12|14,7,6,11,10",R16,GRAND_SLAM,MD,869,Main Draw,DEVOS Robin (BEL) / NUYTINCK Cedric (BEL),GERELL Par (SWE) / KALLBERG Anton (SWE)
-World Tour Hungarian Open Budapest 2018,2018-01-18,PLATONOV Pavel/SAMSONOV Vladimir,ACHANTA Sharath/GNANASEKARAN Sathiyan,3,2,"11,7,6,11,11|3,11,11,8,8",R16,GRAND_SLAM,MD,869,Main Draw,PLATONOV Pavel (BLR) / SAMSONOV Vladimir (BLR),ACHANTA Sharath (IND) / GNANASEKARAN Sathiyan (IND)
-World Tour Hungarian Open Budapest 2018,2018-01-18,KARLSSON Kristian/KARLSSON Mattias,GARDOS Robert/HABESOHN Daniel,3,0,"11,11,12|6,8,10",R16,GRAND_SLAM,MD,869,Main Draw,KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),GARDOS Robert (AUT) / HABESOHN Daniel (AUT)
-World Tour Hungarian Open Budapest 2018,2018-01-18,GAO Ning/PANG Xue Jie,RASMUSSEN Tobias/SZITA Marton,3,1,"11,11,6,11|9,9,11,6",R16,GRAND_SLAM,MD,869,Main Draw,GAO Ning (SGP) / PANG Xue Jie (SGP),RASMUSSEN Tobias (DEN) / SZITA Marton (HUN)
-World Tour Hungarian Open Budapest 2018,2018-01-18,FRANZISKA Patrick/GROTH Jonathan,ECSEKI Nandor/SZUDI Adam,3,1,"8,11,12,11|11,9,10,7",QF,GRAND_SLAM,MD,869,Main Draw,FRANZISKA Patrick (GER) / GROTH Jonathan (DEN),ECSEKI Nandor (HUN) / SZUDI Adam (HUN)
-World Tour Hungarian Open Budapest 2018,2018-01-18,FAN Zhendong/YU Ziyang,FILUS Ruwen/WALTHER Ricardo,3,1,"9,11,11,11|11,4,5,9",QF,GRAND_SLAM,MD,869,Main Draw,FAN Zhendong (CHN) / YU Ziyang (CHN),FILUS Ruwen (GER) / WALTHER Ricardo (GER)
-World Tour Hungarian Open Budapest 2018,2018-01-18,PLATONOV Pavel/SAMSONOV Vladimir,DEVOS Robin/NUYTINCK Cedric,3,0,"12,11,12|10,9,10",QF,GRAND_SLAM,MD,869,Main Draw,PLATONOV Pavel (BLR) / SAMSONOV Vladimir (BLR),DEVOS Robin (BEL) / NUYTINCK Cedric (BEL)
-World Tour Hungarian Open Budapest 2018,2018-01-18,KARLSSON Kristian/KARLSSON Mattias,GAO Ning/PANG Xue Jie,3,1,"11,13,7,11|9,11,11,6",QF,GRAND_SLAM,MD,869,Main Draw,KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),GAO Ning (SGP) / PANG Xue Jie (SGP)
-World Tour Hungarian Open Budapest 2018,2018-01-18,FAN Zhendong/YU Ziyang,FRANZISKA Patrick/GROTH Jonathan,3,0,"11,11,11|6,5,7",SF,GRAND_SLAM,MD,869,Main Draw,FAN Zhendong (CHN) / YU Ziyang (CHN),FRANZISKA Patrick (GER) / GROTH Jonathan (DEN)
-World Tour Hungarian Open Budapest 2018,2018-01-18,PLATONOV Pavel/SAMSONOV Vladimir,KARLSSON Kristian/KARLSSON Mattias,3,2,"13,1,11,6,11|11,11,8,11,6",SF,GRAND_SLAM,MD,869,Main Draw,PLATONOV Pavel (BLR) / SAMSONOV Vladimir (BLR),KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE)
-World Tour Hungarian Open Budapest 2018,2018-01-18,FAN Zhendong/YU Ziyang,PLATONOV Pavel/SAMSONOV Vladimir,3,0,"11,11,11|5,5,4",F,GRAND_SLAM,MD,869,Main Draw,FAN Zhendong (CHN) / YU Ziyang (CHN),PLATONOV Pavel (BLR) / SAMSONOV Vladimir (BLR)
-World Tour Hungarian Open Budapest 2018,2018-01-18,DOO Hoi Kem/LEE Ho Ching,MIKHAILOVA Polina/PAVLOVICH Viktoria,3,1,"11,3,11,11|6,11,8,3",R16,GRAND_SLAM,WD,869,Main Draw,DOO Hoi Kem (HKG) / LEE Ho Ching (HKG),MIKHAILOVA Polina (RUS) / PAVLOVICH Viktoria (BLR)
-World Tour Hungarian Open Budapest 2018,2018-01-18,GRZYBOWSKA-FRANC Katarzyna/PARTYKA Natalia,MADARASZ Dora/PERGEL Szandra,3,1,"11,11,11,11|13,7,6,8",R16,GRAND_SLAM,WD,869,Main Draw,GRZYBOWSKA-FRANC Katarzyna (POL) / PARTYKA Natalia (POL),MADARASZ Dora (HUN) / PERGEL Szandra (HUN)
-World Tour Hungarian Open Budapest 2018,2018-01-18,BATRA Manika/DAS Mouma,HELMY Yousra/MESHREF Dina,3,0,"11,11,11|8,3,5",R16,GRAND_SLAM,WD,869,Main Draw,BATRA Manika (IND) / DAS Mouma (IND),HELMY Yousra (EGY) / MESHREF Dina (EGY)
-World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Xingtong/SUN Yingsha,BERGSTROM Linda/JONSSON Jennifer,3,1,"11,11,9,11|7,5,11,4",R16,GRAND_SLAM,WD,869,Main Draw,CHEN Xingtong (CHN) / SUN Yingsha (CHN),BERGSTROM Linda (SWE) / JONSSON Jennifer (SWE)
-World Tour Hungarian Open Budapest 2018,2018-01-18,NG Wing Nam/SOO Wai Yam,GROFOVA Karin/SIRUCKOVA Aneta,3,0,"11,11,12|7,5,10",R16,GRAND_SLAM,WD,869,Main Draw,NG Wing Nam (HKG) / SOO Wai Yam (HKG),GROFOVA Karin (CZE) / SIRUCKOVA Aneta (CZE)
-World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Ke/WANG Manyu,MITTELHAM Nina/WINTER Sabine,3,0,"11,11,11|4,7,7",R16,GRAND_SLAM,WD,869,Main Draw,CHEN Ke (CHN) / WANG Manyu (CHN),MITTELHAM Nina (GER) / WINTER Sabine (GER)
-World Tour Hungarian Open Budapest 2018,2018-01-18,POLCANOVA Sofia/ZHANG Mo,HAPONOVA Hanna/VASYLIEVA Ievgeniia,3,0,"11,11,11|9,2,9",R16,GRAND_SLAM,WD,869,Main Draw,POLCANOVA Sofia (AUT) / ZHANG Mo (CAN),HAPONOVA Hanna (UKR) / VASYLIEVA Ievgeniia (UKR)
-World Tour Hungarian Open Budapest 2018,2018-01-18,EKHOLM Matilda/POTA Georgina,NOSKOVA Yana/TAILAKOVA Mariia,3,0,"11,11,11|5,4,8",R16,GRAND_SLAM,WD,869,Main Draw,EKHOLM Matilda (SWE) / POTA Georgina (HUN),NOSKOVA Yana (RUS) / TAILAKOVA Mariia (RUS)
-World Tour Hungarian Open Budapest 2018,2018-01-18,DOO Hoi Kem/LEE Ho Ching,GRZYBOWSKA-FRANC Katarzyna/PARTYKA Natalia,3,0,"14,11,11|12,6,9",QF,GRAND_SLAM,WD,869,Main Draw,DOO Hoi Kem (HKG) / LEE Ho Ching (HKG),GRZYBOWSKA-FRANC Katarzyna (POL) / PARTYKA Natalia (POL)
-World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Xingtong/SUN Yingsha,BATRA Manika/DAS Mouma,3,0,"11,11,11|5,6,8",QF,GRAND_SLAM,WD,869,Main Draw,CHEN Xingtong (CHN) / SUN Yingsha (CHN),BATRA Manika (IND) / DAS Mouma (IND)
-World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Ke/WANG Manyu,NG Wing Nam/SOO Wai Yam,3,0,"11,11,11|5,7,4",QF,GRAND_SLAM,WD,869,Main Draw,CHEN Ke (CHN) / WANG Manyu (CHN),NG Wing Nam (HKG) / SOO Wai Yam (HKG)
-World Tour Hungarian Open Budapest 2018,2018-01-18,EKHOLM Matilda/POTA Georgina,POLCANOVA Sofia/ZHANG Mo,3,0,"11,13,11|8,11,5",QF,GRAND_SLAM,WD,869,Main Draw,EKHOLM Matilda (SWE) / POTA Georgina (HUN),POLCANOVA Sofia (AUT) / ZHANG Mo (CAN)
-World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Ke/WANG Manyu,EKHOLM Matilda/POTA Georgina,3,0,"11,11,11|6,5,2",SF,GRAND_SLAM,WD,869,Main Draw,CHEN Ke (CHN) / WANG Manyu (CHN),EKHOLM Matilda (SWE) / POTA Georgina (HUN)
-World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Xingtong/SUN Yingsha,CHEN Ke/WANG Manyu,3,0,"14,11,11|12,8,8",F,GRAND_SLAM,WD,869,Main Draw,CHEN Xingtong (CHN) / SUN Yingsha (CHN),CHEN Ke (CHN) / WANG Manyu (CHN)
-World Tour Hungarian Open Budapest 2018,2018-01-18,BERTRAND Irvin,KOZUL Deni,3,0,,R32,GRAND_SLAM,U21MS,869,Main Draw,BERTRAND Irvin (FRA),KOZUL Deni (SLO)
-World Tour Hungarian Open Budapest 2018,2018-01-18,SEYFRIED Joe,PICCOLIN Jordy,3,0,,R32,GRAND_SLAM,U21MS,869,Main Draw,PICCOLIN Jordy (ITA),SEYFRIED Joe (FRA)
-World Tour Hungarian Open Budapest 2018,2018-01-18,LIND Anders,ALKHADRAWI Ali,3,0,,R32,GRAND_SLAM,U21MS,869,Main Draw,LIND Anders (DEN),ALKHADRAWI Ali (KSA)
-World Tour Hungarian Open Budapest 2018,2018-01-18,JORGIC Darko,BU SHULAYBI Abdulaziz,3,0,,R32,GRAND_SLAM,U21MS,869,Main Draw,BU SHULAYBI Abdulaziz (KSA),JORGIC Darko (SLO)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+World Tour Hungarian Open Budapest 2018,2018-01-18,FAN Zhendong,XUE Fei,4,0,"11,11,11,11|5,7,2,5",R32,GRAND_SLAM,MS,869,Main Draw,FAN Zhendong (CHN),XUE Fei (CHN),FAN Zhendong
+World Tour Hungarian Open Budapest 2018,2018-01-18,GERASSIMENKO Kirill,KARLSSON Mattias,4,3,"9,11,11,6,11,8,11|11,4,9,11,9,11,4",R32,GRAND_SLAM,MS,869,Main Draw,GERASSIMENKO Kirill (KAZ),KARLSSON Mattias (SWE),GERASSIMENKO Kirill
+World Tour Hungarian Open Budapest 2018,2018-01-18,APOLONIA Tiago,LAKATOS Tamas,4,2,"9,9,11,12,11,11|11,11,1,10,5,4",R32,GRAND_SLAM,MS,869,Main Draw,LAKATOS Tamas (HUN),APOLONIA Tiago (POR),APOLONIA Tiago
+World Tour Hungarian Open Budapest 2018,2018-01-18,KARLSSON Kristian,ROBINOT Quentin,4,2,"7,10,11,11,11,11|11,12,8,5,7,9",R32,GRAND_SLAM,MS,869,Main Draw,ROBINOT Quentin (FRA),KARLSSON Kristian (SWE),KARLSSON Kristian
+World Tour Hungarian Open Budapest 2018,2018-01-18,FRANZISKA Patrick,SAMSONOV Vladimir,4,3,"9,11,11,12,9,9,11|11,6,9,10,11,11,5",R32,GRAND_SLAM,MS,869,Main Draw,SAMSONOV Vladimir (BLR),FRANZISKA Patrick (GER),FRANZISKA Patrick
+World Tour Hungarian Open Budapest 2018,2018-01-18,KOU Lei,PERSSON Jon,4,2,"10,11,12,11,11,11|12,9,10,8,13,6",R32,GRAND_SLAM,MS,869,Main Draw,PERSSON Jon (SWE),KOU Lei (UKR),KOU Lei
+World Tour Hungarian Open Budapest 2018,2018-01-18,LIAO Cheng-Ting,DRINKHALL Paul,4,2,"11,9,11,11,11,11|4,11,8,13,6,6",R32,GRAND_SLAM,MS,869,Main Draw,DRINKHALL Paul (ENG),LIAO Cheng-Ting (TPE),LIAO Cheng-Ting
+World Tour Hungarian Open Budapest 2018,2018-01-18,CALDERANO Hugo,SUN Chia-Hung,4,1,"11,11,11,9,11|8,9,4,11,7",R32,GRAND_SLAM,MS,869,Main Draw,SUN Chia-Hung (TPE),CALDERANO Hugo (BRA),CALDERANO Hugo
+World Tour Hungarian Open Budapest 2018,2018-01-18,XU Chenhao,ASSAR Omar,4,0,"11,11,11,16|7,4,8,14",R32,GRAND_SLAM,MS,869,Main Draw,ASSAR Omar (EGY),XU Chenhao (CHN),XU Chenhao
+World Tour Hungarian Open Budapest 2018,2018-01-18,LIU Dingshuo,LEBESSON Emmanuel,4,0,"12,11,13,11|10,9,11,8",R32,GRAND_SLAM,MS,869,Main Draw,LIU Dingshuo (CHN),LEBESSON Emmanuel (FRA),LIU Dingshuo
+World Tour Hungarian Open Budapest 2018,2018-01-18,GROTH Jonathan,MOREGARD Truls,4,3,"8,7,11,11,8,11,11|11,11,7,8,11,8,9",R32,GRAND_SLAM,MS,869,Main Draw,GROTH Jonathan (DEN),MOREGARD Truls (SWE),GROTH Jonathan
+World Tour Hungarian Open Budapest 2018,2018-01-18,FILUS Ruwen,GERALDO Joao,4,1,"11,5,11,11,11|6,11,4,9,1",R32,GRAND_SLAM,MS,869,Main Draw,GERALDO Joao (POR),FILUS Ruwen (GER),FILUS Ruwen
+World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Chien-An,GAO Ning,4,2,"18,8,11,11,7,11|16,11,8,6,11,7",R32,GRAND_SLAM,MS,869,Main Draw,CHEN Chien-An (TPE),GAO Ning (SGP),CHEN Chien-An
+World Tour Hungarian Open Budapest 2018,2018-01-18,ROBLES Alvaro,ZHAI Yujia,4,3,"11,2,11,11,4,7,11|8,11,8,4,11,11,8",R32,GRAND_SLAM,MS,869,Main Draw,ZHAI Yujia (DEN),ROBLES Alvaro (ESP),ROBLES Alvaro
+World Tour Hungarian Open Budapest 2018,2018-01-18,WANG Chuqin,WALTHER Ricardo,4,1,"11,11,11,8,11|6,3,3,11,7",R32,GRAND_SLAM,MS,869,Main Draw,WALTHER Ricardo (GER),WANG Chuqin (CHN),WANG Chuqin
+World Tour Hungarian Open Budapest 2018,2018-01-18,CHUANG Chih-Yuan,FEGERL Stefan,4,1,"11,11,11,5,11|8,8,4,11,6",R32,GRAND_SLAM,MS,869,Main Draw,FEGERL Stefan (AUT),CHUANG Chih-Yuan (TPE),CHUANG Chih-Yuan
+World Tour Hungarian Open Budapest 2018,2018-01-18,FAN Zhendong,GERASSIMENKO Kirill,4,1,"12,9,11,11,11|10,11,5,8,4",R16,GRAND_SLAM,MS,869,Main Draw,FAN Zhendong (CHN),GERASSIMENKO Kirill (KAZ),FAN Zhendong
+World Tour Hungarian Open Budapest 2018,2018-01-18,KARLSSON Kristian,APOLONIA Tiago,4,0,"11,12,11,11|7,10,8,9",R16,GRAND_SLAM,MS,869,Main Draw,APOLONIA Tiago (POR),KARLSSON Kristian (SWE),KARLSSON Kristian
+World Tour Hungarian Open Budapest 2018,2018-01-18,FRANZISKA Patrick,KOU Lei,4,2,"9,11,11,6,12,11|11,8,2,11,10,7",R16,GRAND_SLAM,MS,869,Main Draw,FRANZISKA Patrick (GER),KOU Lei (UKR),FRANZISKA Patrick
+World Tour Hungarian Open Budapest 2018,2018-01-18,CALDERANO Hugo,LIAO Cheng-Ting,4,3,"6,11,11,11,8,9,11|11,7,6,6,11,11,3",R16,GRAND_SLAM,MS,869,Main Draw,LIAO Cheng-Ting (TPE),CALDERANO Hugo (BRA),CALDERANO Hugo
+World Tour Hungarian Open Budapest 2018,2018-01-18,LIU Dingshuo,XU Chenhao,4,3,"11,11,11,7,9,9,12|3,8,9,11,11,11,10",R16,GRAND_SLAM,MS,869,Main Draw,XU Chenhao (CHN),LIU Dingshuo (CHN),LIU Dingshuo
+World Tour Hungarian Open Budapest 2018,2018-01-18,GROTH Jonathan,FILUS Ruwen,4,1,"11,10,11,11,11|6,12,6,2,9",R16,GRAND_SLAM,MS,869,Main Draw,GROTH Jonathan (DEN),FILUS Ruwen (GER),GROTH Jonathan
+World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Chien-An,ROBLES Alvaro,4,3,"9,9,5,11,11,11,11|11,11,11,9,3,8,7",R16,GRAND_SLAM,MS,869,Main Draw,CHEN Chien-An (TPE),ROBLES Alvaro (ESP),CHEN Chien-An
+World Tour Hungarian Open Budapest 2018,2018-01-18,WANG Chuqin,CHUANG Chih-Yuan,4,0,"11,11,11,11|9,9,6,8",R16,GRAND_SLAM,MS,869,Main Draw,WANG Chuqin (CHN),CHUANG Chih-Yuan (TPE),WANG Chuqin
+World Tour Hungarian Open Budapest 2018,2018-01-18,FAN Zhendong,KARLSSON Kristian,4,1,"9,11,11,11,11|11,6,8,9,6",QF,GRAND_SLAM,MS,869,Main Draw,FAN Zhendong (CHN),KARLSSON Kristian (SWE),FAN Zhendong
+World Tour Hungarian Open Budapest 2018,2018-01-18,CALDERANO Hugo,FRANZISKA Patrick,4,2,"8,11,11,11,11,11|11,7,7,13,9,7",QF,GRAND_SLAM,MS,869,Main Draw,FRANZISKA Patrick (GER),CALDERANO Hugo (BRA),CALDERANO Hugo
+World Tour Hungarian Open Budapest 2018,2018-01-18,LIU Dingshuo,GROTH Jonathan,4,3,"11,6,11,13,8,9,11|6,11,7,11,11,11,2",QF,GRAND_SLAM,MS,869,Main Draw,LIU Dingshuo (CHN),GROTH Jonathan (DEN),LIU Dingshuo
+World Tour Hungarian Open Budapest 2018,2018-01-18,WANG Chuqin,CHEN Chien-An,4,0,"11,11,11,11|9,6,5,6",QF,GRAND_SLAM,MS,869,Main Draw,CHEN Chien-An (TPE),WANG Chuqin (CHN),WANG Chuqin
+World Tour Hungarian Open Budapest 2018,2018-01-18,FAN Zhendong,CALDERANO Hugo,4,1,"11,9,11,11,11|8,11,7,8,5",SF,GRAND_SLAM,MS,869,Main Draw,FAN Zhendong (CHN),CALDERANO Hugo (BRA),FAN Zhendong
+World Tour Hungarian Open Budapest 2018,2018-01-18,WANG Chuqin,LIU Dingshuo,4,2,"11,8,11,6,15,11|7,11,7,11,13,7",SF,GRAND_SLAM,MS,869,Main Draw,LIU Dingshuo (CHN),WANG Chuqin (CHN),WANG Chuqin
+World Tour Hungarian Open Budapest 2018,2018-01-18,FAN Zhendong,WANG Chuqin,4,1,"11,9,11,14,11|6,11,7,12,3",F,GRAND_SLAM,MS,869,Main Draw,FAN Zhendong (CHN),WANG Chuqin (CHN),FAN Zhendong
+World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Meng,VOROBEVA Olga,4,1,"11,11,11,7,11|6,2,5,11,5",R32,GRAND_SLAM,WS,869,Main Draw,CHEN Meng (CHN),VOROBEVA Olga (RUS),CHEN Meng
+World Tour Hungarian Open Budapest 2018,2018-01-18,HE Zhuojia,EKHOLM Matilda,4,0,"11,11,11,11|6,1,9,5",R32,GRAND_SLAM,WS,869,Main Draw,HE Zhuojia (CHN),EKHOLM Matilda (SWE),HE Zhuojia
+World Tour Hungarian Open Budapest 2018,2018-01-18,SZOCS Bernadette,PERGEL Szandra,4,0,"11,11,11,11|5,5,8,9",R32,GRAND_SLAM,WS,869,Main Draw,PERGEL Szandra (HUN),SZOCS Bernadette (ROU),SZOCS Bernadette
+World Tour Hungarian Open Budapest 2018,2018-01-18,WANG Manyu,DIACONU Adina,4,0,"11,11,11,11|5,6,5,5",R32,GRAND_SLAM,WS,869,Main Draw,DIACONU Adina (ROU),WANG Manyu (CHN),WANG Manyu
+World Tour Hungarian Open Budapest 2018,2018-01-18,POLCANOVA Sofia,PARTYKA Natalia,4,3,"11,11,11,11,6,8,11|8,5,9,13,11,11,6",R32,GRAND_SLAM,WS,869,Main Draw,POLCANOVA Sofia (AUT),PARTYKA Natalia (POL),POLCANOVA Sofia
+World Tour Hungarian Open Budapest 2018,2018-01-18,ZHANG Mo,MADARASZ Dora,4,3,"11,5,9,9,11,11,11|4,11,11,11,4,7,9",R32,GRAND_SLAM,WS,869,Main Draw,MADARASZ Dora (HUN),ZHANG Mo (CAN),ZHANG Mo
+World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Xingtong,LI Qian,4,0,"11,11,11,11|3,4,2,9",R32,GRAND_SLAM,WS,869,Main Draw,CHEN Xingtong (CHN),LI Qian (POL),CHEN Xingtong
+World Tour Hungarian Open Budapest 2018,2018-01-18,DOO Hoi Kem,YANG Xiaoxin,4,3,"8,11,5,11,11,11,11|11,7,11,13,8,6,9",R32,GRAND_SLAM,WS,869,Main Draw,YANG Xiaoxin (MON),DOO Hoi Kem (HKG),DOO Hoi Kem
+World Tour Hungarian Open Budapest 2018,2018-01-18,LI Jie,NG Wing Nam,4,0,"11,11,11,11|9,4,6,1",R32,GRAND_SLAM,WS,869,Main Draw,LI Jie (NED),NG Wing Nam (HKG),LI Jie
+World Tour Hungarian Open Budapest 2018,2018-01-18,SOO Wai Yam,LI Xiang,4,0,"11,11,12,11|9,8,10,7",R32,GRAND_SLAM,WS,869,Main Draw,LI Xiang (ITA),SOO Wai Yam (HKG),SOO Wai Yam
+World Tour Hungarian Open Budapest 2018,2018-01-18,MIKHAILOVA Polina,HAMAMOTO Yui,4,2,"8,12,11,11,7,11|11,10,9,8,11,6",R32,GRAND_SLAM,WS,869,Main Draw,HAMAMOTO Yui (AUT),MIKHAILOVA Polina (RUS),MIKHAILOVA Polina
+World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Szu-Yu,HAPONOVA Hanna,4,0,"11,11,11,11|6,6,3,9",R32,GRAND_SLAM,WS,869,Main Draw,HAPONOVA Hanna (UKR),CHEN Szu-Yu (TPE),CHEN Szu-Yu
+World Tour Hungarian Open Budapest 2018,2018-01-18,SUN Yingsha,POTA Georgina,4,0,"11,11,13,11|6,5,11,1",R32,GRAND_SLAM,WS,869,Main Draw,POTA Georgina (HUN),SUN Yingsha (CHN),SUN Yingsha
+World Tour Hungarian Open Budapest 2018,2018-01-18,YU Fu,DAS Mouma,4,2,"8,11,11,11,9,11|11,4,3,5,11,9",R32,GRAND_SLAM,WS,869,Main Draw,DAS Mouma (IND),YU Fu (POR),YU Fu
+World Tour Hungarian Open Budapest 2018,2018-01-18,ZENG Jian,MITTELHAM Nina,4,3,"11,14,11,10,7,10,11|7,12,8,12,11,12,7",R32,GRAND_SLAM,WS,869,Main Draw,ZENG Jian (SGP),MITTELHAM Nina (GER),ZENG Jian
+World Tour Hungarian Open Budapest 2018,2018-01-18,LEE Ho Ching,MESHREF Dina,4,2,"11,11,11,6,11,11|13,4,9,11,7,7",R32,GRAND_SLAM,WS,869,Main Draw,MESHREF Dina (EGY),LEE Ho Ching (HKG),LEE Ho Ching
+World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Meng,HE Zhuojia,4,2,"11,10,11,4,11,11|8,12,2,11,3,2",R16,GRAND_SLAM,WS,869,Main Draw,CHEN Meng (CHN),HE Zhuojia (CHN),CHEN Meng
+World Tour Hungarian Open Budapest 2018,2018-01-18,WANG Manyu,SZOCS Bernadette,4,0,"11,11,11,11|3,1,8,9",R16,GRAND_SLAM,WS,869,Main Draw,SZOCS Bernadette (ROU),WANG Manyu (CHN),WANG Manyu
+World Tour Hungarian Open Budapest 2018,2018-01-18,POLCANOVA Sofia,ZHANG Mo,4,1,"11,12,7,11,13|9,10,11,4,11",R16,GRAND_SLAM,WS,869,Main Draw,POLCANOVA Sofia (AUT),ZHANG Mo (CAN),POLCANOVA Sofia
+World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Xingtong,DOO Hoi Kem,4,1,"11,11,14,9,11|4,2,12,11,5",R16,GRAND_SLAM,WS,869,Main Draw,CHEN Xingtong (CHN),DOO Hoi Kem (HKG),CHEN Xingtong
+World Tour Hungarian Open Budapest 2018,2018-01-18,LI Jie,SOO Wai Yam,4,3,"3,5,11,16,9,11,11|11,11,6,14,11,6,8",R16,GRAND_SLAM,WS,869,Main Draw,LI Jie (NED),SOO Wai Yam (HKG),LI Jie
+World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Szu-Yu,MIKHAILOVA Polina,4,2,"11,11,6,11,8,11|8,9,11,9,11,4",R16,GRAND_SLAM,WS,869,Main Draw,MIKHAILOVA Polina (RUS),CHEN Szu-Yu (TPE),CHEN Szu-Yu
+World Tour Hungarian Open Budapest 2018,2018-01-18,SUN Yingsha,YU Fu,4,3,"12,11,9,11,11,2,11|10,8,11,13,5,11,4",R16,GRAND_SLAM,WS,869,Main Draw,SUN Yingsha (CHN),YU Fu (POR),SUN Yingsha
+World Tour Hungarian Open Budapest 2018,2018-01-18,LEE Ho Ching,ZENG Jian,4,0,"11,11,11,11|6,6,3,7",R16,GRAND_SLAM,WS,869,Main Draw,ZENG Jian (SGP),LEE Ho Ching (HKG),LEE Ho Ching
+World Tour Hungarian Open Budapest 2018,2018-01-18,WANG Manyu,CHEN Meng,4,1,"11,7,14,13,11|8,11,12,11,7",QF,GRAND_SLAM,WS,869,Main Draw,CHEN Meng (CHN),WANG Manyu (CHN),WANG Manyu
+World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Xingtong,POLCANOVA Sofia,4,2,"11,11,11,3,5,11|5,5,8,11,11,9",QF,GRAND_SLAM,WS,869,Main Draw,POLCANOVA Sofia (AUT),CHEN Xingtong (CHN),CHEN Xingtong
+World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Szu-Yu,LI Jie,4,2,"11,7,11,11,9,11|6,11,7,8,11,9",QF,GRAND_SLAM,WS,869,Main Draw,LI Jie (NED),CHEN Szu-Yu (TPE),CHEN Szu-Yu
+World Tour Hungarian Open Budapest 2018,2018-01-18,SUN Yingsha,LEE Ho Ching,4,1,"11,11,9,11,11|6,4,11,8,6",QF,GRAND_SLAM,WS,869,Main Draw,SUN Yingsha (CHN),LEE Ho Ching (HKG),SUN Yingsha
+World Tour Hungarian Open Budapest 2018,2018-01-18,WANG Manyu,CHEN Xingtong,4,3,"12,13,11,11,15,9,11|14,11,8,13,13,11,5",SF,GRAND_SLAM,WS,869,Main Draw,WANG Manyu (CHN),CHEN Xingtong (CHN),WANG Manyu
+World Tour Hungarian Open Budapest 2018,2018-01-18,SUN Yingsha,CHEN Szu-Yu,4,1,"11,11,11,11,11|5,8,5,13,7",SF,GRAND_SLAM,WS,869,Main Draw,CHEN Szu-Yu (TPE),SUN Yingsha (CHN),SUN Yingsha
+World Tour Hungarian Open Budapest 2018,2018-01-18,WANG Manyu,SUN Yingsha,4,3,"9,11,10,11,9,11,11|11,6,12,8,11,8,4",F,GRAND_SLAM,WS,869,Main Draw,WANG Manyu (CHN),SUN Yingsha (CHN),WANG Manyu
+World Tour Hungarian Open Budapest 2018,2018-01-18,POLANSKY Tomas,JUHASZ Patrik,3,0,"11,11,11|4,7,9",R32,GRAND_SLAM,U21MS,869,Main Draw,POLANSKY Tomas (CZE),JUHASZ Patrik (HUN),POLANSKY Tomas
+World Tour Hungarian Open Budapest 2018,2018-01-18,GUNDUZ Ibrahim,KALUZNY Samuel,3,1,"9,11,11,11|11,7,8,6",R32,GRAND_SLAM,U21MS,869,Main Draw,KALUZNY Samuel (SVK),GUNDUZ Ibrahim (TUR),GUNDUZ Ibrahim
+World Tour Hungarian Open Budapest 2018,2018-01-18,MAJOROS Bence,HOHMEIER Nils,3,1,"12,11,8,11|10,2,11,8",R32,GRAND_SLAM,U21MS,869,Main Draw,MAJOROS Bence (HUN),HOHMEIER Nils (GER),MAJOROS Bence
+World Tour Hungarian Open Budapest 2018,2018-01-18,SIPOS Rares,KOTOWSKI Tomasz,3,0,"11,11,12|7,4,10",R32,GRAND_SLAM,U21MS,869,Main Draw,SIPOS Rares (ROU),KOTOWSKI Tomasz (POL),SIPOS Rares
+World Tour Hungarian Open Budapest 2018,2018-01-18,ZATOWKA Patryk,PUTUNTICA Andrei,3,1,"13,11,11,11|15,5,3,7",R32,GRAND_SLAM,U21MS,869,Main Draw,PUTUNTICA Andrei (MDA),ZATOWKA Patryk (POL),ZATOWKA Patryk
+World Tour Hungarian Open Budapest 2018,2018-01-18,IVONIN Denis,ANDRAS Csaba,3,1,"11,6,11,11|8,11,9,2",R32,GRAND_SLAM,U21MS,869,Main Draw,IVONIN Denis (RUS),ANDRAS Csaba (HUN),IVONIN Denis
+World Tour Hungarian Open Budapest 2018,2018-01-18,NG Pak Nam,AFANADOR Brian,3,0,"11,11,11|9,9,5",R32,GRAND_SLAM,U21MS,869,Main Draw,NG Pak Nam (HKG),AFANADOR Brian (PUR),NG Pak Nam
+World Tour Hungarian Open Budapest 2018,2018-01-18,KHANIN Aleksandr,YIGENLER Abdullah,3,1,"14,9,14,11|12,11,12,5",R32,GRAND_SLAM,U21MS,869,Main Draw,YIGENLER Abdullah (TUR),KHANIN Aleksandr (BLR),KHANIN Aleksandr
+World Tour Hungarian Open Budapest 2018,2018-01-18,LIN Yun-Ju,JARVIS Tom,3,0,"11,11,11|3,5,6",R32,GRAND_SLAM,U21MS,869,Main Draw,LIN Yun-Ju (TPE),JARVIS Tom (ENG),LIN Yun-Ju
+World Tour Hungarian Open Budapest 2018,2018-01-18,NIU Guankai,PLETEA Cristian,3,0,"12,11,11|10,9,8",R32,GRAND_SLAM,U21MS,869,Main Draw,NIU Guankai (CHN),PLETEA Cristian (ROU),NIU Guankai
+World Tour Hungarian Open Budapest 2018,2018-01-18,MOREGARD Truls,LEVENKO Andreas,3,2,"4,11,6,11,11|11,3,11,3,4",R32,GRAND_SLAM,U21MS,869,Main Draw,LEVENKO Andreas (AUT),MOREGARD Truls (SWE),MOREGARD Truls
+World Tour Hungarian Open Budapest 2018,2018-01-18,BADOWSKI Marek,MOLNAR Istvan,3,1,"11,16,6,11|5,14,11,8",R32,GRAND_SLAM,U21MS,869,Main Draw,MOLNAR Istvan (HUN),BADOWSKI Marek (POL),BADOWSKI Marek
+World Tour Hungarian Open Budapest 2018,2018-01-18,POLANSKY Tomas,GUNDUZ Ibrahim,3,1,"11,6,11,11|6,11,5,9",R16,GRAND_SLAM,U21MS,869,Main Draw,POLANSKY Tomas (CZE),GUNDUZ Ibrahim (TUR),POLANSKY Tomas
+World Tour Hungarian Open Budapest 2018,2018-01-18,MAJOROS Bence,BERTRAND Irvin,3,1,"11,11,2,11|9,5,11,8",R16,GRAND_SLAM,U21MS,869,Main Draw,MAJOROS Bence (HUN),BERTRAND Irvin (FRA),MAJOROS Bence
+World Tour Hungarian Open Budapest 2018,2018-01-18,ZATOWKA Patryk,SIPOS Rares,3,2,"4,11,5,13,11|11,7,11,11,9",R16,GRAND_SLAM,U21MS,869,Main Draw,SIPOS Rares (ROU),ZATOWKA Patryk (POL),ZATOWKA Patryk
+World Tour Hungarian Open Budapest 2018,2018-01-18,SEYFRIED Joe,IVONIN Denis,3,1,"11,8,11,14|6,11,8,12",R16,GRAND_SLAM,U21MS,869,Main Draw,IVONIN Denis (RUS),SEYFRIED Joe (FRA),SEYFRIED Joe
+World Tour Hungarian Open Budapest 2018,2018-01-18,NG Pak Nam,KHANIN Aleksandr,3,0,"11,11,11|7,6,8",R16,GRAND_SLAM,U21MS,869,Main Draw,NG Pak Nam (HKG),KHANIN Aleksandr (BLR),NG Pak Nam
+World Tour Hungarian Open Budapest 2018,2018-01-18,LIN Yun-Ju,NIU Guankai,3,0,"11,11,11|4,5,4",R16,GRAND_SLAM,U21MS,869,Main Draw,LIN Yun-Ju (TPE),NIU Guankai (CHN),LIN Yun-Ju
+World Tour Hungarian Open Budapest 2018,2018-01-18,MOREGARD Truls,BADOWSKI Marek,3,1,"11,6,11,11|7,11,9,8",R16,GRAND_SLAM,U21MS,869,Main Draw,MOREGARD Truls (SWE),BADOWSKI Marek (POL),MOREGARD Truls
+World Tour Hungarian Open Budapest 2018,2018-01-18,JORGIC Darko,LIND Anders,3,2,"11,8,11,11,11|3,11,9,13,8",R16,GRAND_SLAM,U21MS,869,Main Draw,LIND Anders (DEN),JORGIC Darko (SLO),JORGIC Darko
+World Tour Hungarian Open Budapest 2018,2018-01-18,MAJOROS Bence,POLANSKY Tomas,3,0,"11,11,11|6,7,8",QF,GRAND_SLAM,U21MS,869,Main Draw,POLANSKY Tomas (CZE),MAJOROS Bence (HUN),MAJOROS Bence
+World Tour Hungarian Open Budapest 2018,2018-01-18,SEYFRIED Joe,ZATOWKA Patryk,3,0,"11,11,11|8,9,3",QF,GRAND_SLAM,U21MS,869,Main Draw,ZATOWKA Patryk (POL),SEYFRIED Joe (FRA),SEYFRIED Joe
+World Tour Hungarian Open Budapest 2018,2018-01-18,LIN Yun-Ju,NG Pak Nam,3,1,"9,11,11,11|11,6,6,7",QF,GRAND_SLAM,U21MS,869,Main Draw,NG Pak Nam (HKG),LIN Yun-Ju (TPE),LIN Yun-Ju
+World Tour Hungarian Open Budapest 2018,2018-01-18,MOREGARD Truls,JORGIC Darko,3,2,"10,8,11,11,11|12,11,8,9,6",QF,GRAND_SLAM,U21MS,869,Main Draw,MOREGARD Truls (SWE),JORGIC Darko (SLO),MOREGARD Truls
+World Tour Hungarian Open Budapest 2018,2018-01-18,MAJOROS Bence,SEYFRIED Joe,3,2,"11,4,11,5,11|7,11,8,11,9",SF,GRAND_SLAM,U21MS,869,Main Draw,MAJOROS Bence (HUN),SEYFRIED Joe (FRA),MAJOROS Bence
+World Tour Hungarian Open Budapest 2018,2018-01-18,LIN Yun-Ju,MOREGARD Truls,3,0,"13,11,11|11,6,9",SF,GRAND_SLAM,U21MS,869,Main Draw,LIN Yun-Ju (TPE),MOREGARD Truls (SWE),LIN Yun-Ju
+World Tour Hungarian Open Budapest 2018,2018-01-18,LIN Yun-Ju,MAJOROS Bence,3,0,"11,11,11|5,6,6",F,GRAND_SLAM,U21MS,869,Main Draw,MAJOROS Bence (HUN),LIN Yun-Ju (TPE),LIN Yun-Ju
+World Tour Hungarian Open Budapest 2018,2018-01-18,SOO Wai Yam,HARASZTOVICH Fanni,3,0,"11,11,11|6,7,8",R32,GRAND_SLAM,U21WS,869,Main Draw,SOO Wai Yam (HKG),HARASZTOVICH Fanni (HUN),SOO Wai Yam
+World Tour Hungarian Open Budapest 2018,2018-01-18,KUKULKOVA Tatiana,MIGOT Marie,3,2,"10,11,6,11,12|12,6,11,9,10",R32,GRAND_SLAM,U21WS,869,Main Draw,KUKULKOVA Tatiana (SVK),MIGOT Marie (FRA),KUKULKOVA Tatiana
+World Tour Hungarian Open Budapest 2018,2018-01-18,LUNG Lisa,HARTBRICH Leonie,3,0,"11,11,12|4,4,10",R32,GRAND_SLAM,U21WS,869,Main Draw,LUNG Lisa (BEL),HARTBRICH Leonie (HUN),LUNG Lisa
+World Tour Hungarian Open Budapest 2018,2018-01-18,DIACONU Adina,DEGRAEF Margo,3,0,"11,11,11|8,9,8",R32,GRAND_SLAM,U21WS,869,Main Draw,DEGRAEF Margo (BEL),DIACONU Adina (ROU),DIACONU Adina
+World Tour Hungarian Open Budapest 2018,2018-01-18,TAILAKOVA Mariia,MISCHEK-COLUCCI Karoline,3,1,"11,11,1,11|8,8,11,8",R32,GRAND_SLAM,U21WS,869,Main Draw,TAILAKOVA Mariia (RUS),MISCHEK-COLUCCI Karoline (AUT),TAILAKOVA Mariia
+World Tour Hungarian Open Budapest 2018,2018-01-18,BOGDANOVA Nadezhda,GAUTHIER Lucie,3,2,"11,7,11,8,11|9,11,8,11,9",R32,GRAND_SLAM,U21WS,869,Main Draw,GAUTHIER Lucie (FRA),BOGDANOVA Nadezhda (BLR),BOGDANOVA Nadezhda
+World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Ke,TSAI Yu-Chin,3,0,"11,11,11|5,6,3",R32,GRAND_SLAM,U21WS,869,Main Draw,CHEN Ke (CHN),TSAI Yu-Chin (TPE),CHEN Ke
+World Tour Hungarian Open Budapest 2018,2018-01-18,LIN Chia-Hsuan,MOSCONI Veronica,3,0,"11,11,11|2,9,8",R32,GRAND_SLAM,U21WS,869,Main Draw,MOSCONI Veronica (ITA),LIN Chia-Hsuan (TPE),LIN Chia-Hsuan
+World Tour Hungarian Open Budapest 2018,2018-01-18,WAN Yuan,BERGAND Filippa,3,0,"12,11,11|10,4,8",R32,GRAND_SLAM,U21WS,869,Main Draw,WAN Yuan (GER),BERGAND Filippa (SWE),WAN Yuan
+World Tour Hungarian Open Budapest 2018,2018-01-18,FEHER Orsolya,TRIGOLOS Daria,3,1,"11,11,2,11|9,4,11,9",R32,GRAND_SLAM,U21WS,869,Main Draw,FEHER Orsolya (HUN),TRIGOLOS Daria (BLR),FEHER Orsolya
+World Tour Hungarian Open Budapest 2018,2018-01-18,HO Tin-Tin,IMRE Leila,3,0,"11,11,11|5,8,7",R32,GRAND_SLAM,U21WS,869,Main Draw,HO Tin-Tin (ENG),IMRE Leila (HUN),HO Tin-Tin
+World Tour Hungarian Open Budapest 2018,2018-01-18,ZHANG Sofia-Xuan,ZARIF Audrey,3,2,"11,11,7,9,11|6,9,11,11,6",R32,GRAND_SLAM,U21WS,869,Main Draw,ZHANG Sofia-Xuan (ESP),ZARIF Audrey (FRA),ZHANG Sofia-Xuan
+World Tour Hungarian Open Budapest 2018,2018-01-18,TSAPTSINOS Maria,NIKITCHANKA Alina,3,0,"11,11,11|8,7,5",R32,GRAND_SLAM,U21WS,869,Main Draw,NIKITCHANKA Alina (BLR),TSAPTSINOS Maria (ENG),TSAPTSINOS Maria
+World Tour Hungarian Open Budapest 2018,2018-01-18,BAJOR Natalia,MALANINA Maria,3,1,"11,11,5,11|7,8,11,7",R32,GRAND_SLAM,U21WS,869,Main Draw,MALANINA Maria (RUS),BAJOR Natalia (POL),BAJOR Natalia
+World Tour Hungarian Open Budapest 2018,2018-01-18,YAREMCHUK Solomiya,CHASSELIN Pauline,3,1,"12,11,7,11|10,7,11,3",R32,GRAND_SLAM,U21WS,869,Main Draw,YAREMCHUK Solomiya (UKR),CHASSELIN Pauline (FRA),YAREMCHUK Solomiya
+World Tour Hungarian Open Budapest 2018,2018-01-18,MAK Tze Wing,SUN Jiayi,3,0,"11,11,11|6,9,7",R32,GRAND_SLAM,U21WS,869,Main Draw,SUN Jiayi (CRO),MAK Tze Wing (HKG),MAK Tze Wing
+World Tour Hungarian Open Budapest 2018,2018-01-18,SOO Wai Yam,KUKULKOVA Tatiana,3,1,"11,11,11,11|13,6,5,9",R16,GRAND_SLAM,U21WS,869,Main Draw,SOO Wai Yam (HKG),KUKULKOVA Tatiana (SVK),SOO Wai Yam
+World Tour Hungarian Open Budapest 2018,2018-01-18,DIACONU Adina,LUNG Lisa,3,2,"10,7,11,11,11|12,11,2,8,4",R16,GRAND_SLAM,U21WS,869,Main Draw,LUNG Lisa (BEL),DIACONU Adina (ROU),DIACONU Adina
+World Tour Hungarian Open Budapest 2018,2018-01-18,TAILAKOVA Mariia,BOGDANOVA Nadezhda,3,1,"11,5,11,11|7,11,9,4",R16,GRAND_SLAM,U21WS,869,Main Draw,TAILAKOVA Mariia (RUS),BOGDANOVA Nadezhda (BLR),TAILAKOVA Mariia
+World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Ke,LIN Chia-Hsuan,3,0,"11,11,11|7,5,1",R16,GRAND_SLAM,U21WS,869,Main Draw,CHEN Ke (CHN),LIN Chia-Hsuan (TPE),CHEN Ke
+World Tour Hungarian Open Budapest 2018,2018-01-18,FEHER Orsolya,WAN Yuan,3,0,"11,11,11|5,7,2",R16,GRAND_SLAM,U21WS,869,Main Draw,WAN Yuan (GER),FEHER Orsolya (HUN),FEHER Orsolya
+World Tour Hungarian Open Budapest 2018,2018-01-18,HO Tin-Tin,ZHANG Sofia-Xuan,3,1,"11,11,8,11|8,9,11,6",R16,GRAND_SLAM,U21WS,869,Main Draw,HO Tin-Tin (ENG),ZHANG Sofia-Xuan (ESP),HO Tin-Tin
+World Tour Hungarian Open Budapest 2018,2018-01-18,BAJOR Natalia,TSAPTSINOS Maria,3,1,"7,12,15,11|11,10,13,7",R16,GRAND_SLAM,U21WS,869,Main Draw,TSAPTSINOS Maria (ENG),BAJOR Natalia (POL),BAJOR Natalia
+World Tour Hungarian Open Budapest 2018,2018-01-18,MAK Tze Wing,YAREMCHUK Solomiya,3,1,"11,11,11,11|13,5,8,4",R16,GRAND_SLAM,U21WS,869,Main Draw,YAREMCHUK Solomiya (UKR),MAK Tze Wing (HKG),MAK Tze Wing
+World Tour Hungarian Open Budapest 2018,2018-01-18,SOO Wai Yam,DIACONU Adina,3,1,"5,11,11,11|11,6,9,9",QF,GRAND_SLAM,U21WS,869,Main Draw,SOO Wai Yam (HKG),DIACONU Adina (ROU),SOO Wai Yam
+World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Ke,TAILAKOVA Mariia,3,0,"11,11,11|5,8,8",QF,GRAND_SLAM,U21WS,869,Main Draw,TAILAKOVA Mariia (RUS),CHEN Ke (CHN),CHEN Ke
+World Tour Hungarian Open Budapest 2018,2018-01-18,FEHER Orsolya,HO Tin-Tin,3,0,"11,11,13|8,7,11",QF,GRAND_SLAM,U21WS,869,Main Draw,FEHER Orsolya (HUN),HO Tin-Tin (ENG),FEHER Orsolya
+World Tour Hungarian Open Budapest 2018,2018-01-18,MAK Tze Wing,BAJOR Natalia,3,1,"7,11,11,12|11,4,6,10",QF,GRAND_SLAM,U21WS,869,Main Draw,BAJOR Natalia (POL),MAK Tze Wing (HKG),MAK Tze Wing
+World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Ke,SOO Wai Yam,3,1,"11,14,11,11|6,16,9,4",SF,GRAND_SLAM,U21WS,869,Main Draw,SOO Wai Yam (HKG),CHEN Ke (CHN),CHEN Ke
+World Tour Hungarian Open Budapest 2018,2018-01-18,MAK Tze Wing,FEHER Orsolya,3,0,"11,11,11|5,2,7",SF,GRAND_SLAM,U21WS,869,Main Draw,FEHER Orsolya (HUN),MAK Tze Wing (HKG),MAK Tze Wing
+World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Ke,MAK Tze Wing,3,1,"1,11,11,11|11,6,3,3",F,GRAND_SLAM,U21WS,869,Main Draw,CHEN Ke (CHN),MAK Tze Wing (HKG),CHEN Ke
+World Tour Hungarian Open Budapest 2018,2018-01-18,FRANZISKA Patrick/GROTH Jonathan,LIAO Cheng-Ting/LIN Yun-Ju,3,0,"12,11,11|10,6,4",R16,GRAND_SLAM,MD,869,Main Draw,FRANZISKA Patrick (GER) / GROTH Jonathan (DEN),LIAO Cheng-Ting (TPE) / LIN Yun-Ju (TPE),FRANZISKA Patrick
+World Tour Hungarian Open Budapest 2018,2018-01-18,ECSEKI Nandor/SZUDI Adam,ASSAR Khalid/ELBEIALI Mohamed,3,1,"11,8,11,11|7,11,8,6",R16,GRAND_SLAM,MD,869,Main Draw,ECSEKI Nandor (HUN) / SZUDI Adam (HUN),ASSAR Khalid (EGY) / ELBEIALI Mohamed (EGY),ECSEKI Nandor
+World Tour Hungarian Open Budapest 2018,2018-01-18,FAN Zhendong/YU Ziyang,LAM Siu Hang/NG Pak Nam,3,0,"11,11,11|8,5,8",R16,GRAND_SLAM,MD,869,Main Draw,FAN Zhendong (CHN) / YU Ziyang (CHN),LAM Siu Hang (HKG) / NG Pak Nam (HKG),FAN Zhendong
+World Tour Hungarian Open Budapest 2018,2018-01-18,FILUS Ruwen/WALTHER Ricardo,KONECNY Tomas/POLANSKY Tomas,3,1,"11,13,12,13|7,15,10,11",R16,GRAND_SLAM,MD,869,Main Draw,FILUS Ruwen (GER) / WALTHER Ricardo (GER),KONECNY Tomas (CZE) / POLANSKY Tomas (CZE),FILUS Ruwen
+World Tour Hungarian Open Budapest 2018,2018-01-18,DEVOS Robin/NUYTINCK Cedric,GERELL Par/KALLBERG Anton,3,2,"12,11,11,7,12|14,7,6,11,10",R16,GRAND_SLAM,MD,869,Main Draw,DEVOS Robin (BEL) / NUYTINCK Cedric (BEL),GERELL Par (SWE) / KALLBERG Anton (SWE),DEVOS Robin
+World Tour Hungarian Open Budapest 2018,2018-01-18,PLATONOV Pavel/SAMSONOV Vladimir,ACHANTA Sharath/GNANASEKARAN Sathiyan,3,2,"11,7,6,11,11|3,11,11,8,8",R16,GRAND_SLAM,MD,869,Main Draw,PLATONOV Pavel (BLR) / SAMSONOV Vladimir (BLR),ACHANTA Sharath (IND) / GNANASEKARAN Sathiyan (IND),PLATONOV Pavel
+World Tour Hungarian Open Budapest 2018,2018-01-18,KARLSSON Kristian/KARLSSON Mattias,GARDOS Robert/HABESOHN Daniel,3,0,"11,11,12|6,8,10",R16,GRAND_SLAM,MD,869,Main Draw,KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),GARDOS Robert (AUT) / HABESOHN Daniel (AUT),KARLSSON Kristian
+World Tour Hungarian Open Budapest 2018,2018-01-18,GAO Ning/PANG Xue Jie,RASMUSSEN Tobias/SZITA Marton,3,1,"11,11,6,11|9,9,11,6",R16,GRAND_SLAM,MD,869,Main Draw,GAO Ning (SGP) / PANG Xue Jie (SGP),RASMUSSEN Tobias (DEN) / SZITA Marton (HUN),GAO Ning
+World Tour Hungarian Open Budapest 2018,2018-01-18,FRANZISKA Patrick/GROTH Jonathan,ECSEKI Nandor/SZUDI Adam,3,1,"8,11,12,11|11,9,10,7",QF,GRAND_SLAM,MD,869,Main Draw,FRANZISKA Patrick (GER) / GROTH Jonathan (DEN),ECSEKI Nandor (HUN) / SZUDI Adam (HUN),FRANZISKA Patrick
+World Tour Hungarian Open Budapest 2018,2018-01-18,FAN Zhendong/YU Ziyang,FILUS Ruwen/WALTHER Ricardo,3,1,"9,11,11,11|11,4,5,9",QF,GRAND_SLAM,MD,869,Main Draw,FAN Zhendong (CHN) / YU Ziyang (CHN),FILUS Ruwen (GER) / WALTHER Ricardo (GER),FAN Zhendong
+World Tour Hungarian Open Budapest 2018,2018-01-18,PLATONOV Pavel/SAMSONOV Vladimir,DEVOS Robin/NUYTINCK Cedric,3,0,"12,11,12|10,9,10",QF,GRAND_SLAM,MD,869,Main Draw,PLATONOV Pavel (BLR) / SAMSONOV Vladimir (BLR),DEVOS Robin (BEL) / NUYTINCK Cedric (BEL),PLATONOV Pavel
+World Tour Hungarian Open Budapest 2018,2018-01-18,KARLSSON Kristian/KARLSSON Mattias,GAO Ning/PANG Xue Jie,3,1,"11,13,7,11|9,11,11,6",QF,GRAND_SLAM,MD,869,Main Draw,KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),GAO Ning (SGP) / PANG Xue Jie (SGP),KARLSSON Kristian
+World Tour Hungarian Open Budapest 2018,2018-01-18,FAN Zhendong/YU Ziyang,FRANZISKA Patrick/GROTH Jonathan,3,0,"11,11,11|6,5,7",SF,GRAND_SLAM,MD,869,Main Draw,FAN Zhendong (CHN) / YU Ziyang (CHN),FRANZISKA Patrick (GER) / GROTH Jonathan (DEN),FAN Zhendong
+World Tour Hungarian Open Budapest 2018,2018-01-18,PLATONOV Pavel/SAMSONOV Vladimir,KARLSSON Kristian/KARLSSON Mattias,3,2,"13,1,11,6,11|11,11,8,11,6",SF,GRAND_SLAM,MD,869,Main Draw,PLATONOV Pavel (BLR) / SAMSONOV Vladimir (BLR),KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),PLATONOV Pavel
+World Tour Hungarian Open Budapest 2018,2018-01-18,FAN Zhendong/YU Ziyang,PLATONOV Pavel/SAMSONOV Vladimir,3,0,"11,11,11|5,5,4",F,GRAND_SLAM,MD,869,Main Draw,FAN Zhendong (CHN) / YU Ziyang (CHN),PLATONOV Pavel (BLR) / SAMSONOV Vladimir (BLR),FAN Zhendong
+World Tour Hungarian Open Budapest 2018,2018-01-18,DOO Hoi Kem/LEE Ho Ching,MIKHAILOVA Polina/PAVLOVICH Viktoria,3,1,"11,3,11,11|6,11,8,3",R16,GRAND_SLAM,WD,869,Main Draw,DOO Hoi Kem (HKG) / LEE Ho Ching (HKG),MIKHAILOVA Polina (RUS) / PAVLOVICH Viktoria (BLR),DOO Hoi Kem
+World Tour Hungarian Open Budapest 2018,2018-01-18,GRZYBOWSKA-FRANC Katarzyna/PARTYKA Natalia,MADARASZ Dora/PERGEL Szandra,3,1,"11,11,11,11|13,7,6,8",R16,GRAND_SLAM,WD,869,Main Draw,GRZYBOWSKA-FRANC Katarzyna (POL) / PARTYKA Natalia (POL),MADARASZ Dora (HUN) / PERGEL Szandra (HUN),GRZYBOWSKA-FRANC Katarzyna
+World Tour Hungarian Open Budapest 2018,2018-01-18,BATRA Manika/DAS Mouma,HELMY Yousra/MESHREF Dina,3,0,"11,11,11|8,3,5",R16,GRAND_SLAM,WD,869,Main Draw,BATRA Manika (IND) / DAS Mouma (IND),HELMY Yousra (EGY) / MESHREF Dina (EGY),BATRA Manika
+World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Xingtong/SUN Yingsha,BERGSTROM Linda/JONSSON Jennifer,3,1,"11,11,9,11|7,5,11,4",R16,GRAND_SLAM,WD,869,Main Draw,CHEN Xingtong (CHN) / SUN Yingsha (CHN),BERGSTROM Linda (SWE) / JONSSON Jennifer (SWE),CHEN Xingtong
+World Tour Hungarian Open Budapest 2018,2018-01-18,NG Wing Nam/SOO Wai Yam,GROFOVA Karin/SIRUCKOVA Aneta,3,0,"11,11,12|7,5,10",R16,GRAND_SLAM,WD,869,Main Draw,NG Wing Nam (HKG) / SOO Wai Yam (HKG),GROFOVA Karin (CZE) / SIRUCKOVA Aneta (CZE),NG Wing Nam
+World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Ke/WANG Manyu,MITTELHAM Nina/WINTER Sabine,3,0,"11,11,11|4,7,7",R16,GRAND_SLAM,WD,869,Main Draw,CHEN Ke (CHN) / WANG Manyu (CHN),MITTELHAM Nina (GER) / WINTER Sabine (GER),CHEN Ke
+World Tour Hungarian Open Budapest 2018,2018-01-18,POLCANOVA Sofia/ZHANG Mo,HAPONOVA Hanna/VASYLIEVA Ievgeniia,3,0,"11,11,11|9,2,9",R16,GRAND_SLAM,WD,869,Main Draw,POLCANOVA Sofia (AUT) / ZHANG Mo (CAN),HAPONOVA Hanna (UKR) / VASYLIEVA Ievgeniia (UKR),POLCANOVA Sofia
+World Tour Hungarian Open Budapest 2018,2018-01-18,EKHOLM Matilda/POTA Georgina,NOSKOVA Yana/TAILAKOVA Mariia,3,0,"11,11,11|5,4,8",R16,GRAND_SLAM,WD,869,Main Draw,EKHOLM Matilda (SWE) / POTA Georgina (HUN),NOSKOVA Yana (RUS) / TAILAKOVA Mariia (RUS),EKHOLM Matilda
+World Tour Hungarian Open Budapest 2018,2018-01-18,DOO Hoi Kem/LEE Ho Ching,GRZYBOWSKA-FRANC Katarzyna/PARTYKA Natalia,3,0,"14,11,11|12,6,9",QF,GRAND_SLAM,WD,869,Main Draw,DOO Hoi Kem (HKG) / LEE Ho Ching (HKG),GRZYBOWSKA-FRANC Katarzyna (POL) / PARTYKA Natalia (POL),DOO Hoi Kem
+World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Xingtong/SUN Yingsha,BATRA Manika/DAS Mouma,3,0,"11,11,11|5,6,8",QF,GRAND_SLAM,WD,869,Main Draw,CHEN Xingtong (CHN) / SUN Yingsha (CHN),BATRA Manika (IND) / DAS Mouma (IND),CHEN Xingtong
+World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Ke/WANG Manyu,NG Wing Nam/SOO Wai Yam,3,0,"11,11,11|5,7,4",QF,GRAND_SLAM,WD,869,Main Draw,CHEN Ke (CHN) / WANG Manyu (CHN),NG Wing Nam (HKG) / SOO Wai Yam (HKG),CHEN Ke
+World Tour Hungarian Open Budapest 2018,2018-01-18,EKHOLM Matilda/POTA Georgina,POLCANOVA Sofia/ZHANG Mo,3,0,"11,13,11|8,11,5",QF,GRAND_SLAM,WD,869,Main Draw,EKHOLM Matilda (SWE) / POTA Georgina (HUN),POLCANOVA Sofia (AUT) / ZHANG Mo (CAN),EKHOLM Matilda
+World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Ke/WANG Manyu,EKHOLM Matilda/POTA Georgina,3,0,"11,11,11|6,5,2",SF,GRAND_SLAM,WD,869,Main Draw,CHEN Ke (CHN) / WANG Manyu (CHN),EKHOLM Matilda (SWE) / POTA Georgina (HUN),CHEN Ke
+World Tour Hungarian Open Budapest 2018,2018-01-18,CHEN Xingtong/SUN Yingsha,CHEN Ke/WANG Manyu,3,0,"14,11,11|12,8,8",F,GRAND_SLAM,WD,869,Main Draw,CHEN Xingtong (CHN) / SUN Yingsha (CHN),CHEN Ke (CHN) / WANG Manyu (CHN),CHEN Xingtong
+World Tour Hungarian Open Budapest 2018,2018-01-18,BERTRAND Irvin,KOZUL Deni,3,0,,R32,GRAND_SLAM,U21MS,869,Main Draw,BERTRAND Irvin (FRA),KOZUL Deni (SLO),BERTRAND Irvin
+World Tour Hungarian Open Budapest 2018,2018-01-18,SEYFRIED Joe,PICCOLIN Jordy,3,0,,R32,GRAND_SLAM,U21MS,869,Main Draw,PICCOLIN Jordy (ITA),SEYFRIED Joe (FRA),SEYFRIED Joe
+World Tour Hungarian Open Budapest 2018,2018-01-18,LIND Anders,ALKHADRAWI Ali,3,0,,R32,GRAND_SLAM,U21MS,869,Main Draw,LIND Anders (DEN),ALKHADRAWI Ali (KSA),LIND Anders
+World Tour Hungarian Open Budapest 2018,2018-01-18,JORGIC Darko,BU SHULAYBI Abdulaziz,3,0,,R32,GRAND_SLAM,U21MS,869,Main Draw,BU SHULAYBI Abdulaziz (KSA),JORGIC Darko (SLO),JORGIC Darko

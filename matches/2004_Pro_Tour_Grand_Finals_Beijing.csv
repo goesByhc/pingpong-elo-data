@@ -1,45 +1,45 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Pro Tour Grand Finals Beijing 2004,2004-12-10,WANG Liqin,SAIVE Jean-Michel,4,2,"6,11,12,11,11,12|11,8,10,7,13,10",R16,GRAND_SLAM,MS,1716,Main Draw,WANG Liqin (CHN),SAIVE Jean-Michel (BEL)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,CHEN Qi,LEUNG Chu Yan,4,2,"11,5,11,11,10,11|7,11,8,7,12,7",R16,GRAND_SLAM,MS,1716,Main Draw,CHEN Qi (CHN),LEUNG Chu Yan (HKG)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,SCHLAGER Werner,KONG Linghui,4,3,"11,7,4,10,11,11,14|9,11,11,12,5,4,12",R16,GRAND_SLAM,MS,1716,Main Draw,SCHLAGER Werner (AUT),KONG Linghui (CHN)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,WANG Hao,KREANGA Kalinikos,4,2,"9,9,12,11,11,11|11,11,10,4,7,4",R16,GRAND_SLAM,MS,1716,Main Draw,WANG Hao (CHN),KREANGA Kalinikos (GRE)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,MA Lin,KARLSSON Peter,4,1,"11,9,11,11,11|7,11,3,8,6",R16,GRAND_SLAM,MS,1716,Main Draw,MA Lin (CHN),KARLSSON Peter (SWE)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,MAZE Michael,CHEN Weixing,4,3,"11,11,11,8,12,9,11|5,8,9,11,14,11,9",R16,GRAND_SLAM,MS,1716,Main Draw,MAZE Michael (DEN),CHEN Weixing (AUT)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,SAMSONOV Vladimir,CHUANG Chih-Yuan,4,1,"11,13,11,8,11|7,11,9,11,1",R16,GRAND_SLAM,MS,1716,Main Draw,SAMSONOV Vladimir (BLR),CHUANG Chih-Yuan (TPE)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,BOLL Timo,BLASZCZYK Lucjan,4,2,"7,9,11,11,11,11|11,11,7,8,7,7",R16,GRAND_SLAM,MS,1716,Main Draw,BOLL Timo (GER),BLASZCZYK Lucjan (POL)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,WANG Liqin,CHEN Qi,4,2,"8,14,14,11,5,11|11,12,12,9,11,8",QF,GRAND_SLAM,MS,1716,Main Draw,WANG Liqin (CHN),CHEN Qi (CHN)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,WANG Hao,SCHLAGER Werner,4,3,"11,8,4,9,11,11,11|9,11,11,11,4,9,6",QF,GRAND_SLAM,MS,1716,Main Draw,WANG Hao (CHN),SCHLAGER Werner (AUT)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,MA Lin,MAZE Michael,4,2,"11,11,9,11,8,11|4,6,11,8,11,9",QF,GRAND_SLAM,MS,1716,Main Draw,MA Lin (CHN),MAZE Michael (DEN)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,BOLL Timo,SAMSONOV Vladimir,4,1,"11,11,4,11,11|7,8,11,7,8",QF,GRAND_SLAM,MS,1716,Main Draw,BOLL Timo (GER),SAMSONOV Vladimir (BLR)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,WANG Liqin,WANG Hao,4,0,"11,11,13,13|5,9,11,11",SF,GRAND_SLAM,MS,1716,Main Draw,WANG Liqin (CHN),WANG Hao (CHN)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,MA Lin,BOLL Timo,4,3,"11,7,8,6,11,11,14|7,11,11,11,5,7,12",SF,GRAND_SLAM,MS,1716,Main Draw,MA Lin (CHN),BOLL Timo (GER)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,WANG Liqin,MA Lin,4,1,"11,11,3,11,11|8,8,11,9,4",F,GRAND_SLAM,MS,1716,Main Draw,WANG Liqin (CHN),MA Lin (CHN)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,ZHANG Yining,PAVLOVICH Viktoria,4,1,"10,13,11,13,11|12,11,2,11,8",R16,GRAND_SLAM,WS,1716,Main Draw,ZHANG Yining (CHN),PAVLOVICH Viktoria (BLR)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,WANG Nan,LEE Eunsil,4,2,"9,11,11,11,9,11|11,4,4,4,11,9",R16,GRAND_SLAM,WS,1716,Main Draw,WANG Nan (CHN),LEE Eunsil (KOR)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,GUO Yue,LI Jiawei,4,0,"11,11,12,11|5,6,10,3",R16,GRAND_SLAM,WS,1716,Main Draw,GUO Yue (CHN),LI Jiawei (SGP)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,KIM Kyungah,SONG Ah Sim,4,3,"11,11,9,11,11,9,11|9,8,11,13,9,11,5",R16,GRAND_SLAM,WS,1716,Main Draw,KIM Kyungah (KOR),SONG Ah Sim (HKG)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,LIU Jia,ZHANG Rui,4,2,"11,13,11,8,11,11|8,15,9,11,5,6",R16,GRAND_SLAM,WS,1716,Main Draw,LIU Jia (AUT),ZHANG Rui (HKG)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,LAU Sui Fei,GANINA Svetlana,4,2,"8,11,11,11,9,17|11,8,8,7,11,15",R16,GRAND_SLAM,WS,1716,Main Draw,LAU Sui Fei (HKG),GANINA Svetlana (RUS)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,BOROS Tamara,LANG Kristin,4,0,"11,11,11,11|6,7,4,3",R16,GRAND_SLAM,WS,1716,Main Draw,BOROS Tamara (CRO),LANG Kristin (GER)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,NIU Jianfeng,TIE Yana,4,0,"11,11,12,11|9,6,10,6",R16,GRAND_SLAM,WS,1716,Main Draw,NIU Jianfeng (CHN),TIE Yana (HKG)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,WANG Nan,ZHANG Yining,4,1,"12,4,11,11,12|10,11,7,9,10",QF,GRAND_SLAM,WS,1716,Main Draw,WANG Nan (CHN),ZHANG Yining (CHN)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,GUO Yue,KIM Kyungah,4,1,"11,11,11,11,11|5,13,9,6,4",QF,GRAND_SLAM,WS,1716,Main Draw,GUO Yue (CHN),KIM Kyungah (KOR)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,LIU Jia,LAU Sui Fei,4,1,"11,5,11,11,11|7,11,3,3,9",QF,GRAND_SLAM,WS,1716,Main Draw,LIU Jia (AUT),LAU Sui Fei (HKG)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,NIU Jianfeng,BOROS Tamara,4,2,"9,11,11,8,11,11|11,7,3,11,4,4",QF,GRAND_SLAM,WS,1716,Main Draw,NIU Jianfeng (CHN),BOROS Tamara (CRO)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,GUO Yue,WANG Nan,4,1,"11,11,8,11,11|9,9,11,9,7",SF,GRAND_SLAM,WS,1716,Main Draw,GUO Yue (CHN),WANG Nan (CHN)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,NIU Jianfeng,LIU Jia,4,1,"11,11,7,11,11|8,9,11,5,5",SF,GRAND_SLAM,WS,1716,Main Draw,NIU Jianfeng (CHN),LIU Jia (AUT)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,GUO Yue,NIU Jianfeng,4,2,"11,12,11,12,14,11|8,10,3,14,16,8",F,GRAND_SLAM,WS,1716,Main Draw,GUO Yue (CHN),NIU Jianfeng (CHN)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,KONG Linghui/WANG Hao,JINDRAK Karl/SCHLAGER Werner,4,2,"6,11,11,11,10,11|11,7,9,7,12,4",QF,GRAND_SLAM,MD,1716,Main Draw,KONG Linghui (CHN) / WANG Hao (CHN),JINDRAK Karl (AUT) / SCHLAGER Werner (AUT)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,CHEN Qi/MA Lin,FRANZ Peter/LUNDQVIST Jens,4,1,"6,11,11,11,11|11,5,9,6,7",QF,GRAND_SLAM,MD,1716,Main Draw,CHEN Qi (CHN) / MA Lin (CHN),FRANZ Peter (GER) / LUNDQVIST Jens (SWE)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,CHEN Qi/MA Lin,MAZE Michael/TUGWELL Finn,4,3,"11,11,9,6,11,10,11|8,9,11,11,5,12,8",SF,GRAND_SLAM,MD,1716,Main Draw,CHEN Qi (CHN) / MA Lin (CHN),MAZE Michael (DEN) / TUGWELL Finn (DEN)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,CHEN Qi/MA Lin,KONG Linghui/WANG Hao,4,3,"7,11,10,11,11,10,11|11,8,12,7,4,12,9",F,GRAND_SLAM,MD,1716,Main Draw,CHEN Qi (CHN) / MA Lin (CHN),KONG Linghui (CHN) / WANG Hao (CHN)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,MAZE Michael/TUGWELL Finn,BOLL Timo/SUSS Christian,4,3,"11,8,18,11,7,12,11|13,11,16,3,11,10,5",QF,GRAND_SLAM,MD,1716,Main Draw,MAZE Michael (DEN) / TUGWELL Finn (DEN),BOLL Timo (GER) / SUSS Christian (GER)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,LI Ching/KO Lai Chak,CHEUNG Yuk/LEUNG Chu Yan,4,3,"9,11,11,7,11,7,11|11,4,7,11,7,11,6",QF,GRAND_SLAM,MD,1716,Main Draw,LI Ching (HKG) / KO Lai Chak (HKG),CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,KONG Linghui/WANG Hao,LI Ching/KO Lai Chak,4,1,"11,11,9,11,11|3,3,11,6,8",SF,GRAND_SLAM,MD,1716,Main Draw,KONG Linghui (CHN) / WANG Hao (CHN),LI Ching (HKG) / KO Lai Chak (HKG)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,WANG Nan/ZHANG Yining,LIU Jia/HEINE Veronika,4,0,"11,11,11,11|5,4,5,6",QF,GRAND_SLAM,WD,1716,Main Draw,WANG Nan (CHN) / ZHANG Yining (CHN),LIU Jia (AUT) / HEINE Veronika (AUT)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,GUO Yue/NIU Jianfeng,KOSTROMINA Tatyana (1973)/PAVLOVICH Viktoria,4,1,"11,11,6,11,11|4,7,11,2,7",QF,GRAND_SLAM,WD,1716,Main Draw,GUO Yue (CHN) / NIU Jianfeng (CHN),KOSTROMINA Tatyana (1973) (BLR) / PAVLOVICH Viktoria (BLR)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,GUO Yue/NIU Jianfeng,TIE Yana/SONG Ah Sim,4,0,"11,11,11,11|8,9,6,6",SF,GRAND_SLAM,WD,1716,Main Draw,GUO Yue (CHN) / NIU Jianfeng (CHN),TIE Yana (HKG) / SONG Ah Sim (HKG)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,WANG Nan/ZHANG Yining,GUO Yue/NIU Jianfeng,4,1,"11,11,11,8,14|6,7,3,11,12",F,GRAND_SLAM,WD,1716,Main Draw,WANG Nan (CHN) / ZHANG Yining (CHN),GUO Yue (CHN) / NIU Jianfeng (CHN)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,LEE Eunsil/SUK Eunmi,ZHANG Rui/LAU Sui Fei,4,0,"11,11,11,11|8,5,9,4",QF,GRAND_SLAM,WD,1716,Main Draw,LEE Eunsil (KOR) / SUK Eunmi (KOR),ZHANG Rui (HKG) / LAU Sui Fei (HKG)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,WANG Nan/ZHANG Yining,LEE Eunsil/SUK Eunmi,4,2,"11,11,3,11,5,11|3,8,11,1,11,6",SF,GRAND_SLAM,WD,1716,Main Draw,WANG Nan (CHN) / ZHANG Yining (CHN),LEE Eunsil (KOR) / SUK Eunmi (KOR)
-Pro Tour Grand Finals Beijing 2004,2004-12-10,TIE Yana/SONG Ah Sim,LU Yun-Feng/HUANG Yi-Hua,4,2,"11,15,11,13,8,11|7,13,5,15,11,6",QF,GRAND_SLAM,WD,1716,Main Draw,TIE Yana (HKG) / SONG Ah Sim (HKG),LU Yun-Feng (TPE) / HUANG Yi-Hua (TPE)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Pro Tour Grand Finals Beijing 2004,2004-12-10,WANG Liqin,SAIVE Jean-Michel,4,2,"6,11,12,11,11,12|11,8,10,7,13,10",R16,GRAND_SLAM,MS,1716,Main Draw,WANG Liqin (CHN),SAIVE Jean-Michel (BEL),WANG Liqin
+Pro Tour Grand Finals Beijing 2004,2004-12-10,CHEN Qi,LEUNG Chu Yan,4,2,"11,5,11,11,10,11|7,11,8,7,12,7",R16,GRAND_SLAM,MS,1716,Main Draw,CHEN Qi (CHN),LEUNG Chu Yan (HKG),CHEN Qi
+Pro Tour Grand Finals Beijing 2004,2004-12-10,SCHLAGER Werner,KONG Linghui,4,3,"11,7,4,10,11,11,14|9,11,11,12,5,4,12",R16,GRAND_SLAM,MS,1716,Main Draw,SCHLAGER Werner (AUT),KONG Linghui (CHN),SCHLAGER Werner
+Pro Tour Grand Finals Beijing 2004,2004-12-10,WANG Hao,KREANGA Kalinikos,4,2,"9,9,12,11,11,11|11,11,10,4,7,4",R16,GRAND_SLAM,MS,1716,Main Draw,WANG Hao (CHN),KREANGA Kalinikos (GRE),WANG Hao
+Pro Tour Grand Finals Beijing 2004,2004-12-10,MA Lin,KARLSSON Peter,4,1,"11,9,11,11,11|7,11,3,8,6",R16,GRAND_SLAM,MS,1716,Main Draw,MA Lin (CHN),KARLSSON Peter (SWE),MA Lin
+Pro Tour Grand Finals Beijing 2004,2004-12-10,MAZE Michael,CHEN Weixing,4,3,"11,11,11,8,12,9,11|5,8,9,11,14,11,9",R16,GRAND_SLAM,MS,1716,Main Draw,MAZE Michael (DEN),CHEN Weixing (AUT),MAZE Michael
+Pro Tour Grand Finals Beijing 2004,2004-12-10,SAMSONOV Vladimir,CHUANG Chih-Yuan,4,1,"11,13,11,8,11|7,11,9,11,1",R16,GRAND_SLAM,MS,1716,Main Draw,SAMSONOV Vladimir (BLR),CHUANG Chih-Yuan (TPE),SAMSONOV Vladimir
+Pro Tour Grand Finals Beijing 2004,2004-12-10,BOLL Timo,BLASZCZYK Lucjan,4,2,"7,9,11,11,11,11|11,11,7,8,7,7",R16,GRAND_SLAM,MS,1716,Main Draw,BOLL Timo (GER),BLASZCZYK Lucjan (POL),BOLL Timo
+Pro Tour Grand Finals Beijing 2004,2004-12-10,WANG Liqin,CHEN Qi,4,2,"8,14,14,11,5,11|11,12,12,9,11,8",QF,GRAND_SLAM,MS,1716,Main Draw,WANG Liqin (CHN),CHEN Qi (CHN),WANG Liqin
+Pro Tour Grand Finals Beijing 2004,2004-12-10,WANG Hao,SCHLAGER Werner,4,3,"11,8,4,9,11,11,11|9,11,11,11,4,9,6",QF,GRAND_SLAM,MS,1716,Main Draw,WANG Hao (CHN),SCHLAGER Werner (AUT),WANG Hao
+Pro Tour Grand Finals Beijing 2004,2004-12-10,MA Lin,MAZE Michael,4,2,"11,11,9,11,8,11|4,6,11,8,11,9",QF,GRAND_SLAM,MS,1716,Main Draw,MA Lin (CHN),MAZE Michael (DEN),MA Lin
+Pro Tour Grand Finals Beijing 2004,2004-12-10,BOLL Timo,SAMSONOV Vladimir,4,1,"11,11,4,11,11|7,8,11,7,8",QF,GRAND_SLAM,MS,1716,Main Draw,BOLL Timo (GER),SAMSONOV Vladimir (BLR),BOLL Timo
+Pro Tour Grand Finals Beijing 2004,2004-12-10,WANG Liqin,WANG Hao,4,0,"11,11,13,13|5,9,11,11",SF,GRAND_SLAM,MS,1716,Main Draw,WANG Liqin (CHN),WANG Hao (CHN),WANG Liqin
+Pro Tour Grand Finals Beijing 2004,2004-12-10,MA Lin,BOLL Timo,4,3,"11,7,8,6,11,11,14|7,11,11,11,5,7,12",SF,GRAND_SLAM,MS,1716,Main Draw,MA Lin (CHN),BOLL Timo (GER),MA Lin
+Pro Tour Grand Finals Beijing 2004,2004-12-10,WANG Liqin,MA Lin,4,1,"11,11,3,11,11|8,8,11,9,4",F,GRAND_SLAM,MS,1716,Main Draw,WANG Liqin (CHN),MA Lin (CHN),WANG Liqin
+Pro Tour Grand Finals Beijing 2004,2004-12-10,ZHANG Yining,PAVLOVICH Viktoria,4,1,"10,13,11,13,11|12,11,2,11,8",R16,GRAND_SLAM,WS,1716,Main Draw,ZHANG Yining (CHN),PAVLOVICH Viktoria (BLR),ZHANG Yining
+Pro Tour Grand Finals Beijing 2004,2004-12-10,WANG Nan,LEE Eunsil,4,2,"9,11,11,11,9,11|11,4,4,4,11,9",R16,GRAND_SLAM,WS,1716,Main Draw,WANG Nan (CHN),LEE Eunsil (KOR),WANG Nan
+Pro Tour Grand Finals Beijing 2004,2004-12-10,GUO Yue,LI Jiawei,4,0,"11,11,12,11|5,6,10,3",R16,GRAND_SLAM,WS,1716,Main Draw,GUO Yue (CHN),LI Jiawei (SGP),GUO Yue
+Pro Tour Grand Finals Beijing 2004,2004-12-10,KIM Kyungah,SONG Ah Sim,4,3,"11,11,9,11,11,9,11|9,8,11,13,9,11,5",R16,GRAND_SLAM,WS,1716,Main Draw,KIM Kyungah (KOR),SONG Ah Sim (HKG),KIM Kyungah
+Pro Tour Grand Finals Beijing 2004,2004-12-10,LIU Jia,ZHANG Rui,4,2,"11,13,11,8,11,11|8,15,9,11,5,6",R16,GRAND_SLAM,WS,1716,Main Draw,LIU Jia (AUT),ZHANG Rui (HKG),LIU Jia
+Pro Tour Grand Finals Beijing 2004,2004-12-10,LAU Sui Fei,GANINA Svetlana,4,2,"8,11,11,11,9,17|11,8,8,7,11,15",R16,GRAND_SLAM,WS,1716,Main Draw,LAU Sui Fei (HKG),GANINA Svetlana (RUS),LAU Sui Fei
+Pro Tour Grand Finals Beijing 2004,2004-12-10,BOROS Tamara,LANG Kristin,4,0,"11,11,11,11|6,7,4,3",R16,GRAND_SLAM,WS,1716,Main Draw,BOROS Tamara (CRO),LANG Kristin (GER),BOROS Tamara
+Pro Tour Grand Finals Beijing 2004,2004-12-10,NIU Jianfeng,TIE Yana,4,0,"11,11,12,11|9,6,10,6",R16,GRAND_SLAM,WS,1716,Main Draw,NIU Jianfeng (CHN),TIE Yana (HKG),NIU Jianfeng
+Pro Tour Grand Finals Beijing 2004,2004-12-10,WANG Nan,ZHANG Yining,4,1,"12,4,11,11,12|10,11,7,9,10",QF,GRAND_SLAM,WS,1716,Main Draw,WANG Nan (CHN),ZHANG Yining (CHN),WANG Nan
+Pro Tour Grand Finals Beijing 2004,2004-12-10,GUO Yue,KIM Kyungah,4,1,"11,11,11,11,11|5,13,9,6,4",QF,GRAND_SLAM,WS,1716,Main Draw,GUO Yue (CHN),KIM Kyungah (KOR),GUO Yue
+Pro Tour Grand Finals Beijing 2004,2004-12-10,LIU Jia,LAU Sui Fei,4,1,"11,5,11,11,11|7,11,3,3,9",QF,GRAND_SLAM,WS,1716,Main Draw,LIU Jia (AUT),LAU Sui Fei (HKG),LIU Jia
+Pro Tour Grand Finals Beijing 2004,2004-12-10,NIU Jianfeng,BOROS Tamara,4,2,"9,11,11,8,11,11|11,7,3,11,4,4",QF,GRAND_SLAM,WS,1716,Main Draw,NIU Jianfeng (CHN),BOROS Tamara (CRO),NIU Jianfeng
+Pro Tour Grand Finals Beijing 2004,2004-12-10,GUO Yue,WANG Nan,4,1,"11,11,8,11,11|9,9,11,9,7",SF,GRAND_SLAM,WS,1716,Main Draw,GUO Yue (CHN),WANG Nan (CHN),GUO Yue
+Pro Tour Grand Finals Beijing 2004,2004-12-10,NIU Jianfeng,LIU Jia,4,1,"11,11,7,11,11|8,9,11,5,5",SF,GRAND_SLAM,WS,1716,Main Draw,NIU Jianfeng (CHN),LIU Jia (AUT),NIU Jianfeng
+Pro Tour Grand Finals Beijing 2004,2004-12-10,GUO Yue,NIU Jianfeng,4,2,"11,12,11,12,14,11|8,10,3,14,16,8",F,GRAND_SLAM,WS,1716,Main Draw,GUO Yue (CHN),NIU Jianfeng (CHN),GUO Yue
+Pro Tour Grand Finals Beijing 2004,2004-12-10,KONG Linghui/WANG Hao,JINDRAK Karl/SCHLAGER Werner,4,2,"6,11,11,11,10,11|11,7,9,7,12,4",QF,GRAND_SLAM,MD,1716,Main Draw,KONG Linghui (CHN) / WANG Hao (CHN),JINDRAK Karl (AUT) / SCHLAGER Werner (AUT),KONG Linghui
+Pro Tour Grand Finals Beijing 2004,2004-12-10,CHEN Qi/MA Lin,FRANZ Peter/LUNDQVIST Jens,4,1,"6,11,11,11,11|11,5,9,6,7",QF,GRAND_SLAM,MD,1716,Main Draw,CHEN Qi (CHN) / MA Lin (CHN),FRANZ Peter (GER) / LUNDQVIST Jens (SWE),CHEN Qi
+Pro Tour Grand Finals Beijing 2004,2004-12-10,CHEN Qi/MA Lin,MAZE Michael/TUGWELL Finn,4,3,"11,11,9,6,11,10,11|8,9,11,11,5,12,8",SF,GRAND_SLAM,MD,1716,Main Draw,CHEN Qi (CHN) / MA Lin (CHN),MAZE Michael (DEN) / TUGWELL Finn (DEN),CHEN Qi
+Pro Tour Grand Finals Beijing 2004,2004-12-10,CHEN Qi/MA Lin,KONG Linghui/WANG Hao,4,3,"7,11,10,11,11,10,11|11,8,12,7,4,12,9",F,GRAND_SLAM,MD,1716,Main Draw,CHEN Qi (CHN) / MA Lin (CHN),KONG Linghui (CHN) / WANG Hao (CHN),CHEN Qi
+Pro Tour Grand Finals Beijing 2004,2004-12-10,MAZE Michael/TUGWELL Finn,BOLL Timo/SUSS Christian,4,3,"11,8,18,11,7,12,11|13,11,16,3,11,10,5",QF,GRAND_SLAM,MD,1716,Main Draw,MAZE Michael (DEN) / TUGWELL Finn (DEN),BOLL Timo (GER) / SUSS Christian (GER),MAZE Michael
+Pro Tour Grand Finals Beijing 2004,2004-12-10,LI Ching/KO Lai Chak,CHEUNG Yuk/LEUNG Chu Yan,4,3,"9,11,11,7,11,7,11|11,4,7,11,7,11,6",QF,GRAND_SLAM,MD,1716,Main Draw,LI Ching (HKG) / KO Lai Chak (HKG),CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),LI Ching
+Pro Tour Grand Finals Beijing 2004,2004-12-10,KONG Linghui/WANG Hao,LI Ching/KO Lai Chak,4,1,"11,11,9,11,11|3,3,11,6,8",SF,GRAND_SLAM,MD,1716,Main Draw,KONG Linghui (CHN) / WANG Hao (CHN),LI Ching (HKG) / KO Lai Chak (HKG),KONG Linghui
+Pro Tour Grand Finals Beijing 2004,2004-12-10,WANG Nan/ZHANG Yining,LIU Jia/HEINE Veronika,4,0,"11,11,11,11|5,4,5,6",QF,GRAND_SLAM,WD,1716,Main Draw,WANG Nan (CHN) / ZHANG Yining (CHN),LIU Jia (AUT) / HEINE Veronika (AUT),WANG Nan
+Pro Tour Grand Finals Beijing 2004,2004-12-10,GUO Yue/NIU Jianfeng,KOSTROMINA Tatyana (1973)/PAVLOVICH Viktoria,4,1,"11,11,6,11,11|4,7,11,2,7",QF,GRAND_SLAM,WD,1716,Main Draw,GUO Yue (CHN) / NIU Jianfeng (CHN),KOSTROMINA Tatyana (1973) (BLR) / PAVLOVICH Viktoria (BLR),GUO Yue
+Pro Tour Grand Finals Beijing 2004,2004-12-10,GUO Yue/NIU Jianfeng,TIE Yana/SONG Ah Sim,4,0,"11,11,11,11|8,9,6,6",SF,GRAND_SLAM,WD,1716,Main Draw,GUO Yue (CHN) / NIU Jianfeng (CHN),TIE Yana (HKG) / SONG Ah Sim (HKG),GUO Yue
+Pro Tour Grand Finals Beijing 2004,2004-12-10,WANG Nan/ZHANG Yining,GUO Yue/NIU Jianfeng,4,1,"11,11,11,8,14|6,7,3,11,12",F,GRAND_SLAM,WD,1716,Main Draw,WANG Nan (CHN) / ZHANG Yining (CHN),GUO Yue (CHN) / NIU Jianfeng (CHN),WANG Nan
+Pro Tour Grand Finals Beijing 2004,2004-12-10,LEE Eunsil/SUK Eunmi,ZHANG Rui/LAU Sui Fei,4,0,"11,11,11,11|8,5,9,4",QF,GRAND_SLAM,WD,1716,Main Draw,LEE Eunsil (KOR) / SUK Eunmi (KOR),ZHANG Rui (HKG) / LAU Sui Fei (HKG),LEE Eunsil
+Pro Tour Grand Finals Beijing 2004,2004-12-10,WANG Nan/ZHANG Yining,LEE Eunsil/SUK Eunmi,4,2,"11,11,3,11,5,11|3,8,11,1,11,6",SF,GRAND_SLAM,WD,1716,Main Draw,WANG Nan (CHN) / ZHANG Yining (CHN),LEE Eunsil (KOR) / SUK Eunmi (KOR),WANG Nan
+Pro Tour Grand Finals Beijing 2004,2004-12-10,TIE Yana/SONG Ah Sim,LU Yun-Feng/HUANG Yi-Hua,4,2,"11,15,11,13,8,11|7,13,5,15,11,6",QF,GRAND_SLAM,WD,1716,Main Draw,TIE Yana (HKG) / SONG Ah Sim (HKG),LU Yun-Feng (TPE) / HUANG Yi-Hua (TPE),TIE Yana

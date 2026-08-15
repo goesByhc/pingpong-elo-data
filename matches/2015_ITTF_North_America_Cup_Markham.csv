@@ -1,94 +1,94 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-ITTF North America Cup Markham 2015,2015-05-15,ILIJEVSKI Filip,MORAN Alexander,3,1,"11,11,8,11|2,6,11,6",,OTHER,MS,319,Qualification,ILIJEVSKI Filip (CAN),MORAN Alexander (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,ILIJEVSKI Filip,ALGUETTI Gal,3,2,"12,8,11,8,11|10,11,9,11,9",,OTHER,MS,319,Qualification,ILIJEVSKI Filip (CAN),ALGUETTI Gal (USA)
-ITTF North America Cup Markham 2015,2015-05-15,ALGUETTI Gal,MORAN Alexander,3,2,"5,12,13,11,11|11,14,11,7,9",,OTHER,MS,319,Qualification,ALGUETTI Gal (USA),MORAN Alexander (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,MEDJUGORAC Marko,HAZIN Jeremy,3,1,"13,11,9,11|11,9,11,1",,OTHER,MS,319,Qualification,HAZIN Jeremy (CAN),MEDJUGORAC Marko (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,HAZIN Jeremy,ALGUETTI Adar,3,1,"11,11,9,11|2,9,11,9",,OTHER,MS,319,Qualification,HAZIN Jeremy (CAN),ALGUETTI Adar (USA)
-ITTF North America Cup Markham 2015,2015-05-15,ALGUETTI Adar,MEDJUGORAC Marko,3,2,"12,9,11,11,11|10,11,8,13,7",,OTHER,MS,319,Qualification,ALGUETTI Adar (USA),MEDJUGORAC Marko (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,YEUNG Klement,GUO Moxi,3,1,"11,10,11,11|8,12,8,4",,OTHER,MS,319,Qualification,YEUNG Klement (CAN),GUO Moxi (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,LIU Victor,YU James,3,2,"11,11,7,8,11|5,3,11,11,4",,OTHER,MS,319,Qualification,LIU Victor (USA),YU James (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,LIU Victor,YEUNG Klement,3,1,"11,8,11,11|7,11,3,7",,OTHER,MS,319,Qualification,YEUNG Klement (CAN),LIU Victor (USA)
-ITTF North America Cup Markham 2015,2015-05-15,GUO Moxi,YU James,3,1,"11,9,13,15|4,11,11,13",,OTHER,MS,319,Qualification,GUO Moxi (CAN),YU James (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,YU James,YEUNG Klement,3,2,"11,5,11,13,12|8,11,7,15,10",,OTHER,MS,319,Qualification,YEUNG Klement (CAN),YU James (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,LIU Victor,GUO Moxi,3,0,"11,11,11|9,4,6",,OTHER,MS,319,Qualification,LIU Victor (USA),GUO Moxi (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,ALGUETTI Sharon,PLOG Jason,3,0,"11,11,11|9,7,5",,OTHER,MS,319,Qualification,ALGUETTI Sharon (USA),PLOG Jason (USA)
-ITTF North America Cup Markham 2015,2015-05-15,LIU Jason,BERNADET Antoine,3,2,"6,12,11,11,11|11,14,4,9,8",,OTHER,MS,319,Qualification,BERNADET Antoine (CAN),LIU Jason (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,ALGUETTI Sharon,BERNADET Antoine,3,2,"14,9,8,12,11|12,11,11,10,5",,OTHER,MS,319,Qualification,ALGUETTI Sharon (USA),BERNADET Antoine (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,LIU Jason,PLOG Jason,3,0,"11,11,11|1,9,7",,OTHER,MS,319,Qualification,PLOG Jason (USA),LIU Jason (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,ALGUETTI Sharon,LIU Jason,3,1,"11,6,11,13|7,11,9,11",,OTHER,MS,319,Qualification,ALGUETTI Sharon (USA),LIU Jason (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,BERNADET Antoine,PLOG Jason,3,0,"11,11,11|9,6,5",,OTHER,MS,319,Qualification,BERNADET Antoine (CAN),PLOG Jason (USA)
-ITTF North America Cup Markham 2015,2015-05-15,ZHANG Lily,WANG Amy,3,0,"11,11,11|3,6,8",,OTHER,WS,319,Qualification,ZHANG Lily (USA),WANG Amy (USA)
-ITTF North America Cup Markham 2015,2015-05-15,ZHANG Lily,YEUNG Justina,3,0,"11,12,11|7,10,7",,OTHER,WS,319,Qualification,ZHANG Lily (USA),YEUNG Justina (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,WANG Amy,YEUNG Justina,3,0,"11,11,11|4,9,8",,OTHER,WS,319,Qualification,YEUNG Justina (CAN),WANG Amy (USA)
-ITTF North America Cup Markham 2015,2015-05-15,ZHANG Mo,COTE Alicia,3,0,"11,11,11|6,8,8",,OTHER,WS,319,Qualification,ZHANG Mo (CAN),COTE Alicia (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,HUGH Judy,LIAO Ivy,3,0,"11,11,11|8,5,1",,OTHER,WS,319,Qualification,HUGH Judy (USA),LIAO Ivy (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,ZHANG Mo,HUGH Judy,3,1,"11,7,11,12|8,11,7,10",,OTHER,WS,319,Qualification,ZHANG Mo (CAN),HUGH Judy (USA)
-ITTF North America Cup Markham 2015,2015-05-15,COTE Alicia,LIAO Ivy,3,0,"11,11,11|8,9,7",,OTHER,WS,319,Qualification,COTE Alicia (CAN),LIAO Ivy (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,ZHANG Mo,LIAO Ivy,3,0,"11,11,11|9,7,6",,OTHER,WS,319,Qualification,ZHANG Mo (CAN),LIAO Ivy (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,HUGH Judy,COTE Alicia,3,0,"11,11,12|7,6,10",,OTHER,WS,319,Qualification,HUGH Judy (USA),COTE Alicia (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,LUO Anqi,LIU Jiabao,3,1,"11,11,9,11|7,5,11,3",,OTHER,WS,319,Qualification,LUO Anqi (CAN),LIU Jiabao (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,GUAN Angela,FEI Jean,3,0,"11,11,11|4,4,9",,OTHER,WS,319,Qualification,GUAN Angela (USA),FEI Jean (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,GUAN Angela,LUO Anqi,3,0,"11,11,11|7,9,9",,OTHER,WS,319,Qualification,LUO Anqi (CAN),GUAN Angela (USA)
-ITTF North America Cup Markham 2015,2015-05-15,LIU Jiabao,FEI Jean,3,0,"11,11,11|7,4,9",,OTHER,WS,319,Qualification,LIU Jiabao (CAN),FEI Jean (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,LUO Anqi,FEI Jean,3,0,"13,11,11|11,7,8",,OTHER,WS,319,Qualification,LUO Anqi (CAN),FEI Jean (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,GUAN Angela,LIU Jiabao,3,0,"11,11,11|5,2,9",,OTHER,WS,319,Qualification,GUAN Angela (USA),LIU Jiabao (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,WANG Crystal,NICHOLS Amy,3,1,"11,11,8,11|9,7,11,2",,OTHER,WS,319,Qualification,WANG Crystal (USA),NICHOLS Amy (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,YUEN Sara,XU Joyce,3,0,"11,11,11|5,8,9",,OTHER,WS,319,Qualification,YUEN Sara (CAN),XU Joyce (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,YUEN Sara,WANG Crystal,3,2,"11,8,11,15,13|8,11,13,13,11",,OTHER,WS,319,Qualification,WANG Crystal (USA),YUEN Sara (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,NICHOLS Amy,XU Joyce,3,0,"11,11,11|4,5,7",,OTHER,WS,319,Qualification,NICHOLS Amy (CAN),XU Joyce (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,WANG Crystal,XU Joyce,3,0,"11,11,11|8,4,7",,OTHER,WS,319,Qualification,WANG Crystal (USA),XU Joyce (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,NICHOLS Amy,YUEN Sara,3,1,"11,11,6,11|7,6,11,6",,OTHER,WS,319,Qualification,YUEN Sara (CAN),NICHOLS Amy (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,ALGUETTI Sharon,ALGUETTI Gal,3,0,"11,11,11|7,9,9",QF,OTHER,MS,319,Main Draw,ALGUETTI Gal (USA),ALGUETTI Sharon (USA)
-ITTF North America Cup Markham 2015,2015-05-15,CHODRI Kunal,YEUNG Klement,3,1,"11,11,6,11|5,3,11,3",QF,OTHER,MS,319,Main Draw,CHODRI Kunal (USA),YEUNG Klement (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,WANG Jack,HAZIN Jeremy,3,0,"13,11,11|11,5,7",QF,OTHER,MS,319,Main Draw,HAZIN Jeremy (CAN),WANG Jack (USA)
-ITTF North America Cup Markham 2015,2015-05-15,ILIJEVSKI Filip,LIU Jason,3,1,"11,12,9,11|8,10,11,6",QF,OTHER,MS,319,Main Draw,ILIJEVSKI Filip (CAN),LIU Jason (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,CHODRI Kunal,ALGUETTI Sharon,3,1,"13,13,9,11|11,11,11,5",5-8,OTHER,MS,319,Position Draw,ALGUETTI Sharon (USA),CHODRI Kunal (USA)
-ITTF North America Cup Markham 2015,2015-05-15,ILIJEVSKI Filip,WANG Jack,3,2,"11,11,9,6,11|9,8,11,11,3",5-8,OTHER,MS,319,Position Draw,WANG Jack (USA),ILIJEVSKI Filip (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,ILIJEVSKI Filip,CHODRI Kunal,3,0,"11,11,11|9,4,9",3RD,OTHER,MS,319,Position Draw,CHODRI Kunal (USA),ILIJEVSKI Filip (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,AVVARI Krishnateja,MEDJUGORAC Marko,3,1,"11,11,11,11|13,9,9,7",5-8,OTHER,MS,319,Position Draw,AVVARI Krishnateja (USA),MEDJUGORAC Marko (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,LIU Victor,THERIEN Xavier,3,0,"11,12,11|8,10,6",5-8,OTHER,MS,319,Position Draw,LIU Victor (USA),THERIEN Xavier (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,AVVARI Krishnateja,LIU Victor,3,0,"12,12,11|10,10,8",3RD,OTHER,MS,319,Position Draw,AVVARI Krishnateja (USA),LIU Victor (USA)
-ITTF North America Cup Markham 2015,2015-05-15,ALGUETTI Gal,YEUNG Klement,3,0,"11,11,11|5,6,3",5-8,OTHER,MS,319,Position Draw,ALGUETTI Gal (USA),YEUNG Klement (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,HAZIN Jeremy,LIU Jason,3,0,"11,11,11|6,8,2",5-8,OTHER,MS,319,Position Draw,HAZIN Jeremy (CAN),LIU Jason (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,HAZIN Jeremy,ALGUETTI Gal,3,0,"11,11,11|6,2,1",3RD,OTHER,MS,319,Position Draw,ALGUETTI Gal (USA),HAZIN Jeremy (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,THERIEN Xavier,MEDJUGORAC Marko,3,2,"11,7,5,11,11|4,11,11,8,8",3RD,OTHER,MS,319,Position Draw,MEDJUGORAC Marko (CAN),THERIEN Xavier (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,THERIAULT Pierre-Luc,JHA Kanak,3,1,"11,8,11,11|9,11,8,7",3RD,OTHER,MS,319,Position Draw,JHA Kanak (USA),THERIAULT Pierre-Luc (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,WANG Jack,ALGUETTI Sharon,3,0,"11,11,11|3,9,8",3RD,OTHER,MS,319,Position Draw,ALGUETTI Sharon (USA),WANG Jack (USA)
-ITTF North America Cup Markham 2015,2015-05-15,WANG Timothy,ALGUETTI Gal,4,0,"11,11,11,11|5,7,6,4",R16,OTHER,MS,319,Main Draw,WANG Timothy (USA),ALGUETTI Gal (USA)
-ITTF North America Cup Markham 2015,2015-05-15,AVVARI Krishnateja,ALGUETTI Sharon,4,0,"14,11,11,12|12,8,7,10",R16,OTHER,MS,319,Main Draw,ALGUETTI Sharon (USA),AVVARI Krishnateja (USA)
-ITTF North America Cup Markham 2015,2015-05-15,MEDJUGORAC Marko,CHODRI Kunal,4,2,"1,4,11,11,11,12|11,11,5,5,9,10",R16,OTHER,MS,319,Main Draw,CHODRI Kunal (USA),MEDJUGORAC Marko (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,JHA Kanak,YEUNG Klement,4,0,"11,11,11,11|7,4,9,2",R16,OTHER,MS,319,Main Draw,YEUNG Klement (CAN),JHA Kanak (USA)
-ITTF North America Cup Markham 2015,2015-05-15,BUTLER Jimmy,HAZIN Jeremy,4,2,"6,11,11,11,5,11|11,9,9,4,11,4",R16,OTHER,MS,319,Main Draw,BUTLER Jimmy (USA),HAZIN Jeremy (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,LIU Victor,WANG Jack,4,2,"11,8,11,11,10,11|5,11,9,9,12,8",R16,OTHER,MS,319,Main Draw,LIU Victor (USA),WANG Jack (USA)
-ITTF North America Cup Markham 2015,2015-05-15,THERIEN Xavier,ILIJEVSKI Filip,4,3,"11,11,10,12,4,4,11|7,4,12,10,11,11,8",R16,OTHER,MS,319,Main Draw,THERIEN Xavier (CAN),ILIJEVSKI Filip (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,THERIAULT Pierre-Luc,LIU Jason,4,0,"11,11,11,11|4,6,1,6",R16,OTHER,MS,319,Main Draw,LIU Jason (CAN),THERIAULT Pierre-Luc (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,WANG Timothy,AVVARI Krishnateja,4,2,"9,11,11,9,11,11|11,3,7,11,8,8",QF,OTHER,MS,319,Main Draw,WANG Timothy (USA),AVVARI Krishnateja (USA)
-ITTF North America Cup Markham 2015,2015-05-15,JHA Kanak,MEDJUGORAC Marko,4,0,"11,14,11,11|6,12,7,8",QF,OTHER,MS,319,Main Draw,MEDJUGORAC Marko (CAN),JHA Kanak (USA)
-ITTF North America Cup Markham 2015,2015-05-15,BUTLER Jimmy,LIU Victor,4,2,"4,11,5,11,12,11|11,6,11,5,10,5",QF,OTHER,MS,319,Main Draw,BUTLER Jimmy (USA),LIU Victor (USA)
-ITTF North America Cup Markham 2015,2015-05-15,THERIAULT Pierre-Luc,THERIEN Xavier,4,2,"11,12,9,8,13,11|8,10,11,11,11,8",QF,OTHER,MS,319,Main Draw,THERIEN Xavier (CAN),THERIAULT Pierre-Luc (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,WANG Timothy,JHA Kanak,4,3,"11,11,14,6,1,8,11|8,9,12,11,11,11,5",SF,OTHER,MS,319,Main Draw,WANG Timothy (USA),JHA Kanak (USA)
-ITTF North America Cup Markham 2015,2015-05-15,BUTLER Jimmy,THERIAULT Pierre-Luc,4,3,"11,12,4,11,3,7,18|8,10,11,9,11,11,16",SF,OTHER,MS,319,Main Draw,BUTLER Jimmy (USA),THERIAULT Pierre-Luc (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,BUTLER Jimmy,WANG Timothy,4,2,"11,11,8,11,10,11|5,6,11,8,12,6",F,OTHER,MS,319,Main Draw,WANG Timothy (USA),BUTLER Jimmy (USA)
-ITTF North America Cup Markham 2015,2015-05-15,PLOG Jason,ALGUETTI Adar,3,2,"7,5,14,12,11|11,11,12,10,9",8,OTHER,MS,319,Consolation,PLOG Jason (USA),ALGUETTI Adar (USA)
-ITTF North America Cup Markham 2015,2015-05-15,BERNADET Antoine,YU James,3,2,"12,11,7,10,11|10,9,11,12,3",8,OTHER,MS,319,Consolation,BERNADET Antoine (CAN),YU James (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,PLOG Jason,BERNADET Antoine,3,2,"5,7,11,11,12|11,11,9,8,10",2,OTHER,MS,319,Consolation,PLOG Jason (USA),BERNADET Antoine (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,ALGUETTI Adar,YU James,3,1,"11,9,11,11|9,11,3,8",2,OTHER,MS,319,Consolation,ALGUETTI Adar (USA),YU James (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,ZHANG Lily,LUO Anqi,4,0,"11,12,12,11|8,10,10,4",QF,OTHER,WS,319,Main Draw,ZHANG Lily (USA),LUO Anqi (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,HUGH Judy,WANG Crystal,4,0,"11,11,11,11|9,8,7,8",QF,OTHER,WS,319,Main Draw,HUGH Judy (USA),WANG Crystal (USA)
-ITTF North America Cup Markham 2015,2015-05-15,WANG Amy,GUAN Angela,4,3,"3,7,13,9,11,11,12|11,11,11,11,9,4,10",QF,OTHER,WS,319,Main Draw,GUAN Angela (USA),WANG Amy (USA)
-ITTF North America Cup Markham 2015,2015-05-15,ZHANG Mo,NICHOLS Amy,4,0,"11,11,11,11|3,4,8,8",QF,OTHER,WS,319,Main Draw,NICHOLS Amy (CAN),ZHANG Mo (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,ZHANG Lily,HUGH Judy,4,1,"9,11,11,11,11|11,7,3,3,8",SF,OTHER,WS,319,Main Draw,ZHANG Lily (USA),HUGH Judy (USA)
-ITTF North America Cup Markham 2015,2015-05-15,ZHANG Mo,WANG Amy,4,2,"11,11,8,11,11,11|3,3,11,13,9,9",SF,OTHER,WS,319,Main Draw,WANG Amy (USA),ZHANG Mo (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,ZHANG Mo,ZHANG Lily,4,1,"11,11,8,11,11|3,1,11,8,7",F,OTHER,WS,319,Main Draw,ZHANG Lily (USA),ZHANG Mo (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,LUO Anqi,WANG Crystal,3,2,"11,11,6,8,11|9,9,11,11,9",5-8,OTHER,WS,319,Position Draw,LUO Anqi (CAN),WANG Crystal (USA)
-ITTF North America Cup Markham 2015,2015-05-15,GUAN Angela,NICHOLS Amy,3,0,"11,11,12|3,4,10",5-8,OTHER,WS,319,Position Draw,GUAN Angela (USA),NICHOLS Amy (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,WANG Amy,HUGH Judy,3,0,"13,11,11|11,8,9",3RD,OTHER,WS,319,Position Draw,HUGH Judy (USA),WANG Amy (USA)
-ITTF North America Cup Markham 2015,2015-05-15,YUEN Sara,LIAO Ivy,3,2,"11,6,11,4,11|9,11,8,11,7",8,OTHER,WS,319,Consolation,LIAO Ivy (CAN),YUEN Sara (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,COTE Alicia,FEI Jean,3,0,"11,14,11|4,12,3",8,OTHER,WS,319,Consolation,COTE Alicia (CAN),FEI Jean (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,LIU Jiabao,XU Joyce,3,1,"11,8,11,11|9,11,7,6",8,OTHER,WS,319,Consolation,XU Joyce (CAN),LIU Jiabao (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,YUEN Sara,YEUNG Justina,3,0,"11,11,11|7,7,6",4,OTHER,WS,319,Consolation,YEUNG Justina (CAN),YUEN Sara (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,LIU Jiabao,COTE Alicia,3,0,"15,11,16|13,6,14",4,OTHER,WS,319,Consolation,COTE Alicia (CAN),LIU Jiabao (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,YUEN Sara,LIU Jiabao,3,1,"11,11,6,11|5,7,11,7",2,OTHER,WS,319,Consolation,YUEN Sara (CAN),LIU Jiabao (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,FEI Jean,XU Joyce,3,2,"11,11,5,11,11|9,4,11,13,9",4,OTHER,WS,319,Consolation,FEI Jean (CAN),XU Joyce (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,LIAO Ivy,FEI Jean,3,0,"11,11,13|2,3,11",2,OTHER,WS,319,Consolation,LIAO Ivy (CAN),FEI Jean (CAN)
-ITTF North America Cup Markham 2015,2015-05-15,YEUNG Justina,COTE Alicia,3,1,"12,5,11,12|10,11,7,10",2,OTHER,WS,319,Consolation,YEUNG Justina (CAN),COTE Alicia (CAN)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+ITTF North America Cup Markham 2015,2015-05-15,ILIJEVSKI Filip,MORAN Alexander,3,1,"11,11,8,11|2,6,11,6",,OTHER,MS,319,Qualification,ILIJEVSKI Filip (CAN),MORAN Alexander (CAN),ILIJEVSKI Filip
+ITTF North America Cup Markham 2015,2015-05-15,ILIJEVSKI Filip,ALGUETTI Gal,3,2,"12,8,11,8,11|10,11,9,11,9",,OTHER,MS,319,Qualification,ILIJEVSKI Filip (CAN),ALGUETTI Gal (USA),ILIJEVSKI Filip
+ITTF North America Cup Markham 2015,2015-05-15,ALGUETTI Gal,MORAN Alexander,3,2,"5,12,13,11,11|11,14,11,7,9",,OTHER,MS,319,Qualification,ALGUETTI Gal (USA),MORAN Alexander (CAN),ALGUETTI Gal
+ITTF North America Cup Markham 2015,2015-05-15,MEDJUGORAC Marko,HAZIN Jeremy,3,1,"13,11,9,11|11,9,11,1",,OTHER,MS,319,Qualification,HAZIN Jeremy (CAN),MEDJUGORAC Marko (CAN),MEDJUGORAC Marko
+ITTF North America Cup Markham 2015,2015-05-15,HAZIN Jeremy,ALGUETTI Adar,3,1,"11,11,9,11|2,9,11,9",,OTHER,MS,319,Qualification,HAZIN Jeremy (CAN),ALGUETTI Adar (USA),HAZIN Jeremy
+ITTF North America Cup Markham 2015,2015-05-15,ALGUETTI Adar,MEDJUGORAC Marko,3,2,"12,9,11,11,11|10,11,8,13,7",,OTHER,MS,319,Qualification,ALGUETTI Adar (USA),MEDJUGORAC Marko (CAN),ALGUETTI Adar
+ITTF North America Cup Markham 2015,2015-05-15,YEUNG Klement,GUO Moxi,3,1,"11,10,11,11|8,12,8,4",,OTHER,MS,319,Qualification,YEUNG Klement (CAN),GUO Moxi (CAN),YEUNG Klement
+ITTF North America Cup Markham 2015,2015-05-15,LIU Victor,YU James,3,2,"11,11,7,8,11|5,3,11,11,4",,OTHER,MS,319,Qualification,LIU Victor (USA),YU James (CAN),LIU Victor
+ITTF North America Cup Markham 2015,2015-05-15,LIU Victor,YEUNG Klement,3,1,"11,8,11,11|7,11,3,7",,OTHER,MS,319,Qualification,YEUNG Klement (CAN),LIU Victor (USA),LIU Victor
+ITTF North America Cup Markham 2015,2015-05-15,GUO Moxi,YU James,3,1,"11,9,13,15|4,11,11,13",,OTHER,MS,319,Qualification,GUO Moxi (CAN),YU James (CAN),GUO Moxi
+ITTF North America Cup Markham 2015,2015-05-15,YU James,YEUNG Klement,3,2,"11,5,11,13,12|8,11,7,15,10",,OTHER,MS,319,Qualification,YEUNG Klement (CAN),YU James (CAN),YU James
+ITTF North America Cup Markham 2015,2015-05-15,LIU Victor,GUO Moxi,3,0,"11,11,11|9,4,6",,OTHER,MS,319,Qualification,LIU Victor (USA),GUO Moxi (CAN),LIU Victor
+ITTF North America Cup Markham 2015,2015-05-15,ALGUETTI Sharon,PLOG Jason,3,0,"11,11,11|9,7,5",,OTHER,MS,319,Qualification,ALGUETTI Sharon (USA),PLOG Jason (USA),ALGUETTI Sharon
+ITTF North America Cup Markham 2015,2015-05-15,LIU Jason,BERNADET Antoine,3,2,"6,12,11,11,11|11,14,4,9,8",,OTHER,MS,319,Qualification,BERNADET Antoine (CAN),LIU Jason (CAN),LIU Jason
+ITTF North America Cup Markham 2015,2015-05-15,ALGUETTI Sharon,BERNADET Antoine,3,2,"14,9,8,12,11|12,11,11,10,5",,OTHER,MS,319,Qualification,ALGUETTI Sharon (USA),BERNADET Antoine (CAN),ALGUETTI Sharon
+ITTF North America Cup Markham 2015,2015-05-15,LIU Jason,PLOG Jason,3,0,"11,11,11|1,9,7",,OTHER,MS,319,Qualification,PLOG Jason (USA),LIU Jason (CAN),LIU Jason
+ITTF North America Cup Markham 2015,2015-05-15,ALGUETTI Sharon,LIU Jason,3,1,"11,6,11,13|7,11,9,11",,OTHER,MS,319,Qualification,ALGUETTI Sharon (USA),LIU Jason (CAN),ALGUETTI Sharon
+ITTF North America Cup Markham 2015,2015-05-15,BERNADET Antoine,PLOG Jason,3,0,"11,11,11|9,6,5",,OTHER,MS,319,Qualification,BERNADET Antoine (CAN),PLOG Jason (USA),BERNADET Antoine
+ITTF North America Cup Markham 2015,2015-05-15,ZHANG Lily,WANG Amy,3,0,"11,11,11|3,6,8",,OTHER,WS,319,Qualification,ZHANG Lily (USA),WANG Amy (USA),ZHANG Lily
+ITTF North America Cup Markham 2015,2015-05-15,ZHANG Lily,YEUNG Justina,3,0,"11,12,11|7,10,7",,OTHER,WS,319,Qualification,ZHANG Lily (USA),YEUNG Justina (CAN),ZHANG Lily
+ITTF North America Cup Markham 2015,2015-05-15,WANG Amy,YEUNG Justina,3,0,"11,11,11|4,9,8",,OTHER,WS,319,Qualification,YEUNG Justina (CAN),WANG Amy (USA),WANG Amy
+ITTF North America Cup Markham 2015,2015-05-15,ZHANG Mo,COTE Alicia,3,0,"11,11,11|6,8,8",,OTHER,WS,319,Qualification,ZHANG Mo (CAN),COTE Alicia (CAN),ZHANG Mo
+ITTF North America Cup Markham 2015,2015-05-15,HUGH Judy,LIAO Ivy,3,0,"11,11,11|8,5,1",,OTHER,WS,319,Qualification,HUGH Judy (USA),LIAO Ivy (CAN),HUGH Judy
+ITTF North America Cup Markham 2015,2015-05-15,ZHANG Mo,HUGH Judy,3,1,"11,7,11,12|8,11,7,10",,OTHER,WS,319,Qualification,ZHANG Mo (CAN),HUGH Judy (USA),ZHANG Mo
+ITTF North America Cup Markham 2015,2015-05-15,COTE Alicia,LIAO Ivy,3,0,"11,11,11|8,9,7",,OTHER,WS,319,Qualification,COTE Alicia (CAN),LIAO Ivy (CAN),COTE Alicia
+ITTF North America Cup Markham 2015,2015-05-15,ZHANG Mo,LIAO Ivy,3,0,"11,11,11|9,7,6",,OTHER,WS,319,Qualification,ZHANG Mo (CAN),LIAO Ivy (CAN),ZHANG Mo
+ITTF North America Cup Markham 2015,2015-05-15,HUGH Judy,COTE Alicia,3,0,"11,11,12|7,6,10",,OTHER,WS,319,Qualification,HUGH Judy (USA),COTE Alicia (CAN),HUGH Judy
+ITTF North America Cup Markham 2015,2015-05-15,LUO Anqi,LIU Jiabao,3,1,"11,11,9,11|7,5,11,3",,OTHER,WS,319,Qualification,LUO Anqi (CAN),LIU Jiabao (CAN),LUO Anqi
+ITTF North America Cup Markham 2015,2015-05-15,GUAN Angela,FEI Jean,3,0,"11,11,11|4,4,9",,OTHER,WS,319,Qualification,GUAN Angela (USA),FEI Jean (CAN),GUAN Angela
+ITTF North America Cup Markham 2015,2015-05-15,GUAN Angela,LUO Anqi,3,0,"11,11,11|7,9,9",,OTHER,WS,319,Qualification,LUO Anqi (CAN),GUAN Angela (USA),GUAN Angela
+ITTF North America Cup Markham 2015,2015-05-15,LIU Jiabao,FEI Jean,3,0,"11,11,11|7,4,9",,OTHER,WS,319,Qualification,LIU Jiabao (CAN),FEI Jean (CAN),LIU Jiabao
+ITTF North America Cup Markham 2015,2015-05-15,LUO Anqi,FEI Jean,3,0,"13,11,11|11,7,8",,OTHER,WS,319,Qualification,LUO Anqi (CAN),FEI Jean (CAN),LUO Anqi
+ITTF North America Cup Markham 2015,2015-05-15,GUAN Angela,LIU Jiabao,3,0,"11,11,11|5,2,9",,OTHER,WS,319,Qualification,GUAN Angela (USA),LIU Jiabao (CAN),GUAN Angela
+ITTF North America Cup Markham 2015,2015-05-15,WANG Crystal,NICHOLS Amy,3,1,"11,11,8,11|9,7,11,2",,OTHER,WS,319,Qualification,WANG Crystal (USA),NICHOLS Amy (CAN),WANG Crystal
+ITTF North America Cup Markham 2015,2015-05-15,YUEN Sara,XU Joyce,3,0,"11,11,11|5,8,9",,OTHER,WS,319,Qualification,YUEN Sara (CAN),XU Joyce (CAN),YUEN Sara
+ITTF North America Cup Markham 2015,2015-05-15,YUEN Sara,WANG Crystal,3,2,"11,8,11,15,13|8,11,13,13,11",,OTHER,WS,319,Qualification,WANG Crystal (USA),YUEN Sara (CAN),YUEN Sara
+ITTF North America Cup Markham 2015,2015-05-15,NICHOLS Amy,XU Joyce,3,0,"11,11,11|4,5,7",,OTHER,WS,319,Qualification,NICHOLS Amy (CAN),XU Joyce (CAN),NICHOLS Amy
+ITTF North America Cup Markham 2015,2015-05-15,WANG Crystal,XU Joyce,3,0,"11,11,11|8,4,7",,OTHER,WS,319,Qualification,WANG Crystal (USA),XU Joyce (CAN),WANG Crystal
+ITTF North America Cup Markham 2015,2015-05-15,NICHOLS Amy,YUEN Sara,3,1,"11,11,6,11|7,6,11,6",,OTHER,WS,319,Qualification,YUEN Sara (CAN),NICHOLS Amy (CAN),NICHOLS Amy
+ITTF North America Cup Markham 2015,2015-05-15,ALGUETTI Sharon,ALGUETTI Gal,3,0,"11,11,11|7,9,9",QF,OTHER,MS,319,Main Draw,ALGUETTI Gal (USA),ALGUETTI Sharon (USA),ALGUETTI Sharon
+ITTF North America Cup Markham 2015,2015-05-15,CHODRI Kunal,YEUNG Klement,3,1,"11,11,6,11|5,3,11,3",QF,OTHER,MS,319,Main Draw,CHODRI Kunal (USA),YEUNG Klement (CAN),CHODRI Kunal
+ITTF North America Cup Markham 2015,2015-05-15,WANG Jack,HAZIN Jeremy,3,0,"13,11,11|11,5,7",QF,OTHER,MS,319,Main Draw,HAZIN Jeremy (CAN),WANG Jack (USA),WANG Jack
+ITTF North America Cup Markham 2015,2015-05-15,ILIJEVSKI Filip,LIU Jason,3,1,"11,12,9,11|8,10,11,6",QF,OTHER,MS,319,Main Draw,ILIJEVSKI Filip (CAN),LIU Jason (CAN),ILIJEVSKI Filip
+ITTF North America Cup Markham 2015,2015-05-15,CHODRI Kunal,ALGUETTI Sharon,3,1,"13,13,9,11|11,11,11,5",5-8,OTHER,MS,319,Position Draw,ALGUETTI Sharon (USA),CHODRI Kunal (USA),CHODRI Kunal
+ITTF North America Cup Markham 2015,2015-05-15,ILIJEVSKI Filip,WANG Jack,3,2,"11,11,9,6,11|9,8,11,11,3",5-8,OTHER,MS,319,Position Draw,WANG Jack (USA),ILIJEVSKI Filip (CAN),ILIJEVSKI Filip
+ITTF North America Cup Markham 2015,2015-05-15,ILIJEVSKI Filip,CHODRI Kunal,3,0,"11,11,11|9,4,9",3RD,OTHER,MS,319,Position Draw,CHODRI Kunal (USA),ILIJEVSKI Filip (CAN),ILIJEVSKI Filip
+ITTF North America Cup Markham 2015,2015-05-15,AVVARI Krishnateja,MEDJUGORAC Marko,3,1,"11,11,11,11|13,9,9,7",5-8,OTHER,MS,319,Position Draw,AVVARI Krishnateja (USA),MEDJUGORAC Marko (CAN),AVVARI Krishnateja
+ITTF North America Cup Markham 2015,2015-05-15,LIU Victor,THERIEN Xavier,3,0,"11,12,11|8,10,6",5-8,OTHER,MS,319,Position Draw,LIU Victor (USA),THERIEN Xavier (CAN),LIU Victor
+ITTF North America Cup Markham 2015,2015-05-15,AVVARI Krishnateja,LIU Victor,3,0,"12,12,11|10,10,8",3RD,OTHER,MS,319,Position Draw,AVVARI Krishnateja (USA),LIU Victor (USA),AVVARI Krishnateja
+ITTF North America Cup Markham 2015,2015-05-15,ALGUETTI Gal,YEUNG Klement,3,0,"11,11,11|5,6,3",5-8,OTHER,MS,319,Position Draw,ALGUETTI Gal (USA),YEUNG Klement (CAN),ALGUETTI Gal
+ITTF North America Cup Markham 2015,2015-05-15,HAZIN Jeremy,LIU Jason,3,0,"11,11,11|6,8,2",5-8,OTHER,MS,319,Position Draw,HAZIN Jeremy (CAN),LIU Jason (CAN),HAZIN Jeremy
+ITTF North America Cup Markham 2015,2015-05-15,HAZIN Jeremy,ALGUETTI Gal,3,0,"11,11,11|6,2,1",3RD,OTHER,MS,319,Position Draw,ALGUETTI Gal (USA),HAZIN Jeremy (CAN),HAZIN Jeremy
+ITTF North America Cup Markham 2015,2015-05-15,THERIEN Xavier,MEDJUGORAC Marko,3,2,"11,7,5,11,11|4,11,11,8,8",3RD,OTHER,MS,319,Position Draw,MEDJUGORAC Marko (CAN),THERIEN Xavier (CAN),THERIEN Xavier
+ITTF North America Cup Markham 2015,2015-05-15,THERIAULT Pierre-Luc,JHA Kanak,3,1,"11,8,11,11|9,11,8,7",3RD,OTHER,MS,319,Position Draw,JHA Kanak (USA),THERIAULT Pierre-Luc (CAN),THERIAULT Pierre-Luc
+ITTF North America Cup Markham 2015,2015-05-15,WANG Jack,ALGUETTI Sharon,3,0,"11,11,11|3,9,8",3RD,OTHER,MS,319,Position Draw,ALGUETTI Sharon (USA),WANG Jack (USA),WANG Jack
+ITTF North America Cup Markham 2015,2015-05-15,WANG Timothy,ALGUETTI Gal,4,0,"11,11,11,11|5,7,6,4",R16,OTHER,MS,319,Main Draw,WANG Timothy (USA),ALGUETTI Gal (USA),WANG Timothy
+ITTF North America Cup Markham 2015,2015-05-15,AVVARI Krishnateja,ALGUETTI Sharon,4,0,"14,11,11,12|12,8,7,10",R16,OTHER,MS,319,Main Draw,ALGUETTI Sharon (USA),AVVARI Krishnateja (USA),AVVARI Krishnateja
+ITTF North America Cup Markham 2015,2015-05-15,MEDJUGORAC Marko,CHODRI Kunal,4,2,"1,4,11,11,11,12|11,11,5,5,9,10",R16,OTHER,MS,319,Main Draw,CHODRI Kunal (USA),MEDJUGORAC Marko (CAN),MEDJUGORAC Marko
+ITTF North America Cup Markham 2015,2015-05-15,JHA Kanak,YEUNG Klement,4,0,"11,11,11,11|7,4,9,2",R16,OTHER,MS,319,Main Draw,YEUNG Klement (CAN),JHA Kanak (USA),JHA Kanak
+ITTF North America Cup Markham 2015,2015-05-15,BUTLER Jimmy,HAZIN Jeremy,4,2,"6,11,11,11,5,11|11,9,9,4,11,4",R16,OTHER,MS,319,Main Draw,BUTLER Jimmy (USA),HAZIN Jeremy (CAN),BUTLER Jimmy
+ITTF North America Cup Markham 2015,2015-05-15,LIU Victor,WANG Jack,4,2,"11,8,11,11,10,11|5,11,9,9,12,8",R16,OTHER,MS,319,Main Draw,LIU Victor (USA),WANG Jack (USA),LIU Victor
+ITTF North America Cup Markham 2015,2015-05-15,THERIEN Xavier,ILIJEVSKI Filip,4,3,"11,11,10,12,4,4,11|7,4,12,10,11,11,8",R16,OTHER,MS,319,Main Draw,THERIEN Xavier (CAN),ILIJEVSKI Filip (CAN),THERIEN Xavier
+ITTF North America Cup Markham 2015,2015-05-15,THERIAULT Pierre-Luc,LIU Jason,4,0,"11,11,11,11|4,6,1,6",R16,OTHER,MS,319,Main Draw,LIU Jason (CAN),THERIAULT Pierre-Luc (CAN),THERIAULT Pierre-Luc
+ITTF North America Cup Markham 2015,2015-05-15,WANG Timothy,AVVARI Krishnateja,4,2,"9,11,11,9,11,11|11,3,7,11,8,8",QF,OTHER,MS,319,Main Draw,WANG Timothy (USA),AVVARI Krishnateja (USA),WANG Timothy
+ITTF North America Cup Markham 2015,2015-05-15,JHA Kanak,MEDJUGORAC Marko,4,0,"11,14,11,11|6,12,7,8",QF,OTHER,MS,319,Main Draw,MEDJUGORAC Marko (CAN),JHA Kanak (USA),JHA Kanak
+ITTF North America Cup Markham 2015,2015-05-15,BUTLER Jimmy,LIU Victor,4,2,"4,11,5,11,12,11|11,6,11,5,10,5",QF,OTHER,MS,319,Main Draw,BUTLER Jimmy (USA),LIU Victor (USA),BUTLER Jimmy
+ITTF North America Cup Markham 2015,2015-05-15,THERIAULT Pierre-Luc,THERIEN Xavier,4,2,"11,12,9,8,13,11|8,10,11,11,11,8",QF,OTHER,MS,319,Main Draw,THERIEN Xavier (CAN),THERIAULT Pierre-Luc (CAN),THERIAULT Pierre-Luc
+ITTF North America Cup Markham 2015,2015-05-15,WANG Timothy,JHA Kanak,4,3,"11,11,14,6,1,8,11|8,9,12,11,11,11,5",SF,OTHER,MS,319,Main Draw,WANG Timothy (USA),JHA Kanak (USA),WANG Timothy
+ITTF North America Cup Markham 2015,2015-05-15,BUTLER Jimmy,THERIAULT Pierre-Luc,4,3,"11,12,4,11,3,7,18|8,10,11,9,11,11,16",SF,OTHER,MS,319,Main Draw,BUTLER Jimmy (USA),THERIAULT Pierre-Luc (CAN),BUTLER Jimmy
+ITTF North America Cup Markham 2015,2015-05-15,BUTLER Jimmy,WANG Timothy,4,2,"11,11,8,11,10,11|5,6,11,8,12,6",F,OTHER,MS,319,Main Draw,WANG Timothy (USA),BUTLER Jimmy (USA),BUTLER Jimmy
+ITTF North America Cup Markham 2015,2015-05-15,PLOG Jason,ALGUETTI Adar,3,2,"7,5,14,12,11|11,11,12,10,9",8,OTHER,MS,319,Consolation,PLOG Jason (USA),ALGUETTI Adar (USA),PLOG Jason
+ITTF North America Cup Markham 2015,2015-05-15,BERNADET Antoine,YU James,3,2,"12,11,7,10,11|10,9,11,12,3",8,OTHER,MS,319,Consolation,BERNADET Antoine (CAN),YU James (CAN),BERNADET Antoine
+ITTF North America Cup Markham 2015,2015-05-15,PLOG Jason,BERNADET Antoine,3,2,"5,7,11,11,12|11,11,9,8,10",2,OTHER,MS,319,Consolation,PLOG Jason (USA),BERNADET Antoine (CAN),PLOG Jason
+ITTF North America Cup Markham 2015,2015-05-15,ALGUETTI Adar,YU James,3,1,"11,9,11,11|9,11,3,8",2,OTHER,MS,319,Consolation,ALGUETTI Adar (USA),YU James (CAN),ALGUETTI Adar
+ITTF North America Cup Markham 2015,2015-05-15,ZHANG Lily,LUO Anqi,4,0,"11,12,12,11|8,10,10,4",QF,OTHER,WS,319,Main Draw,ZHANG Lily (USA),LUO Anqi (CAN),ZHANG Lily
+ITTF North America Cup Markham 2015,2015-05-15,HUGH Judy,WANG Crystal,4,0,"11,11,11,11|9,8,7,8",QF,OTHER,WS,319,Main Draw,HUGH Judy (USA),WANG Crystal (USA),HUGH Judy
+ITTF North America Cup Markham 2015,2015-05-15,WANG Amy,GUAN Angela,4,3,"3,7,13,9,11,11,12|11,11,11,11,9,4,10",QF,OTHER,WS,319,Main Draw,GUAN Angela (USA),WANG Amy (USA),WANG Amy
+ITTF North America Cup Markham 2015,2015-05-15,ZHANG Mo,NICHOLS Amy,4,0,"11,11,11,11|3,4,8,8",QF,OTHER,WS,319,Main Draw,NICHOLS Amy (CAN),ZHANG Mo (CAN),ZHANG Mo
+ITTF North America Cup Markham 2015,2015-05-15,ZHANG Lily,HUGH Judy,4,1,"9,11,11,11,11|11,7,3,3,8",SF,OTHER,WS,319,Main Draw,ZHANG Lily (USA),HUGH Judy (USA),ZHANG Lily
+ITTF North America Cup Markham 2015,2015-05-15,ZHANG Mo,WANG Amy,4,2,"11,11,8,11,11,11|3,3,11,13,9,9",SF,OTHER,WS,319,Main Draw,WANG Amy (USA),ZHANG Mo (CAN),ZHANG Mo
+ITTF North America Cup Markham 2015,2015-05-15,ZHANG Mo,ZHANG Lily,4,1,"11,11,8,11,11|3,1,11,8,7",F,OTHER,WS,319,Main Draw,ZHANG Lily (USA),ZHANG Mo (CAN),ZHANG Mo
+ITTF North America Cup Markham 2015,2015-05-15,LUO Anqi,WANG Crystal,3,2,"11,11,6,8,11|9,9,11,11,9",5-8,OTHER,WS,319,Position Draw,LUO Anqi (CAN),WANG Crystal (USA),LUO Anqi
+ITTF North America Cup Markham 2015,2015-05-15,GUAN Angela,NICHOLS Amy,3,0,"11,11,12|3,4,10",5-8,OTHER,WS,319,Position Draw,GUAN Angela (USA),NICHOLS Amy (CAN),GUAN Angela
+ITTF North America Cup Markham 2015,2015-05-15,WANG Amy,HUGH Judy,3,0,"13,11,11|11,8,9",3RD,OTHER,WS,319,Position Draw,HUGH Judy (USA),WANG Amy (USA),WANG Amy
+ITTF North America Cup Markham 2015,2015-05-15,YUEN Sara,LIAO Ivy,3,2,"11,6,11,4,11|9,11,8,11,7",8,OTHER,WS,319,Consolation,LIAO Ivy (CAN),YUEN Sara (CAN),YUEN Sara
+ITTF North America Cup Markham 2015,2015-05-15,COTE Alicia,FEI Jean,3,0,"11,14,11|4,12,3",8,OTHER,WS,319,Consolation,COTE Alicia (CAN),FEI Jean (CAN),COTE Alicia
+ITTF North America Cup Markham 2015,2015-05-15,LIU Jiabao,XU Joyce,3,1,"11,8,11,11|9,11,7,6",8,OTHER,WS,319,Consolation,XU Joyce (CAN),LIU Jiabao (CAN),LIU Jiabao
+ITTF North America Cup Markham 2015,2015-05-15,YUEN Sara,YEUNG Justina,3,0,"11,11,11|7,7,6",4,OTHER,WS,319,Consolation,YEUNG Justina (CAN),YUEN Sara (CAN),YUEN Sara
+ITTF North America Cup Markham 2015,2015-05-15,LIU Jiabao,COTE Alicia,3,0,"15,11,16|13,6,14",4,OTHER,WS,319,Consolation,COTE Alicia (CAN),LIU Jiabao (CAN),LIU Jiabao
+ITTF North America Cup Markham 2015,2015-05-15,YUEN Sara,LIU Jiabao,3,1,"11,11,6,11|5,7,11,7",2,OTHER,WS,319,Consolation,YUEN Sara (CAN),LIU Jiabao (CAN),YUEN Sara
+ITTF North America Cup Markham 2015,2015-05-15,FEI Jean,XU Joyce,3,2,"11,11,5,11,11|9,4,11,13,9",4,OTHER,WS,319,Consolation,FEI Jean (CAN),XU Joyce (CAN),FEI Jean
+ITTF North America Cup Markham 2015,2015-05-15,LIAO Ivy,FEI Jean,3,0,"11,11,13|2,3,11",2,OTHER,WS,319,Consolation,LIAO Ivy (CAN),FEI Jean (CAN),LIAO Ivy
+ITTF North America Cup Markham 2015,2015-05-15,YEUNG Justina,COTE Alicia,3,1,"12,5,11,12|10,11,7,10",2,OTHER,WS,319,Consolation,YEUNG Justina (CAN),COTE Alicia (CAN),YEUNG Justina

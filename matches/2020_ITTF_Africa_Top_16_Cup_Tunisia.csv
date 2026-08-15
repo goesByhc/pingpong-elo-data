@@ -1,87 +1,87 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,SALEH Ahmed,ARUNA Quadri,4,3,"11,5,11,6,11,9,11|6,11,9,11,9,11,3",F,OTHER,MS,2250,Main Draw,SALEH Ahmed (EGY),ARUNA Quadri (NGR)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,MESHREF Dina,EDEM Offiong,4,1,"11,11,8,11,11|2,8,11,5,6",F,OTHER,WS,2250,Main Draw,MESHREF Dina (EGY),EDEM Offiong (NGR)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,ASSAR Omar,DIAW Ibrahima,3,0,"11,11,12|6,8,10",3RD,OTHER,MS,2250,Position Draw,ASSAR Omar (EGY),DIAW Ibrahima (DEN)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,HANFFOU Sarah,HELMY Yousra,3,1,"11,5,11,12|8,11,6,10",3RD,OTHER,WS,2250,Position Draw,HANFFOU Sarah (CMR),HELMY Yousra (EGY)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,LOGHRAIBI Lynda,KESSACI Katia,3,0,"15,11,11|13,7,4",3RD,OTHER,WS,2250,Position Draw,LOGHRAIBI Lynda (ALG),KESSACI Katia (ALG)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,HMAM Adam,FANNY Kokou,3,0,"11,11,11|6,8,3",3RD,OTHER,MS,2250,Position Draw,HMAM Adam (TUN),FANNY Kokou (TOG)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,GARCI Fadwa,SAIDANI Safa,3,0,"11,11,11|6,8,5",3RD,OTHER,WS,2250,Position Draw,GARCI Fadwa (TUN),SAIDANI Safa (TUN)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,OMOTAYO Olajide,IDOWU Saheed,3,2,"11,17,12,10,11|5,15,14,12,2",3RD,OTHER,MS,2250,Position Draw,OMOTAYO Olajide (NGR),IDOWU Saheed (CGO)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,OLABIYI Monday,MUTUA Brian,3,0,"11,11,11|3,5,7",3RD,OTHER,MS,2250,Position Draw,OLABIYI Monday (BEN),MUTUA Brian (KEN)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,COGILL Theo,OVERMEYER Shane,3,2,"4,11,11,3,12|11,8,6,11,10",3RD,OTHER,MS,2250,Position Draw,COGILL Theo (RSA),OVERMEYER Shane (RSA)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,OBA Oba Kizito,KHEROUF Sami,3,0,"0,0,0|0,0,0",3RD,OTHER,MS,2250,Position Draw,OBA Oba Kizito (CIV),KHEROUF Sami (ALG)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,BOURIAH Larbi,KASSA Gedeon,3,1,"14,11,9,11|12,8,11,4",3RD,OTHER,MS,2250,Position Draw,BOURIAH Larbi (ALG),KASSA Gedeon (COD)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,BELLO Fatimo,JALIM Nandeshwaree,3,2,"11,6,11,6,11|7,11,6,11,7",3RD,OTHER,WS,2250,Position Draw,BELLO Fatimo (NGR),JALIM Nandeshwaree (MRI)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,KALAM Musfiquh,MOOKREY Simeen,3,1,"9,11,11,11|11,5,7,5",3RD,OTHER,WS,2250,Position Draw,KALAM Musfiquh (RSA),MOOKREY Simeen (RSA)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,SALEH Ahmed,DIAW Ibrahima,4,1,"14,11,3,11,11|12,7,11,9,7",SF,OTHER,MS,2250,Main Draw,SALEH Ahmed (EGY),DIAW Ibrahima (DEN)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,ARUNA Quadri,ASSAR Omar,4,3,"5,6,11,14,7,11,12|11,11,4,12,11,5,10",SF,OTHER,MS,2250,Main Draw,ARUNA Quadri (NGR),ASSAR Omar (EGY)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,EDEM Offiong,HELMY Yousra,4,2,"6,14,11,11,11,11|11,16,8,7,7,6",SF,OTHER,WS,2250,Main Draw,EDEM Offiong (NGR),HELMY Yousra (EGY)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,MESHREF Dina,HANFFOU Sarah,4,2,"11,11,11,9,11,11|6,1,13,11,7,4",SF,OTHER,WS,2250,Main Draw,MESHREF Dina (EGY),HANFFOU Sarah (CMR)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,IDOWU Saheed,HMAM Adam,3,2,"11,11,6,9,11|4,7,11,11,8",5-8,OTHER,MS,2250,Position Draw,IDOWU Saheed (CGO),HMAM Adam (TUN)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,GARCI Fadwa,KESSACI Katia,3,1,"13,11,11,11|15,9,7,8",5-8,OTHER,WS,2250,Position Draw,GARCI Fadwa (TUN),KESSACI Katia (ALG)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,OMOTAYO Olajide,FANNY Kokou,3,1,"11,12,11,11|5,14,7,9",5-8,OTHER,MS,2250,Position Draw,OMOTAYO Olajide (NGR),FANNY Kokou (TOG)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,SAIDANI Safa,LOGHRAIBI Lynda,3,1,"11,1,11,11|9,11,8,4",5-8,OTHER,WS,2250,Position Draw,SAIDANI Safa (TUN),LOGHRAIBI Lynda (ALG)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,COGILL Theo,MUTUA Brian,3,2,"12,11,11,3,11|14,9,3,11,3",5-8,OTHER,MS,2250,Position Draw,COGILL Theo (RSA),MUTUA Brian (KEN)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,OVERMEYER Shane,OLABIYI Monday,3,2,"11,8,11,12,11|13,11,9,10,8",5-8,OTHER,MS,2250,Position Draw,OVERMEYER Shane (RSA),OLABIYI Monday (BEN)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,KHEROUF Sami,KASSA Gedeon,3,2,"11,15,7,11,11|7,17,11,8,5",5-8,OTHER,MS,2250,Position Draw,KHEROUF Sami (ALG),KASSA Gedeon (COD)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,OBA Oba Kizito,BOURIAH Larbi,3,1,"11,11,7,11|3,6,11,8",5-8,OTHER,MS,2250,Position Draw,OBA Oba Kizito (CIV),BOURIAH Larbi (ALG)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,JALIM Nandeshwaree,MOOKREY Simeen,3,0,"11,11,11|6,8,8",5-8,OTHER,WS,2250,Position Draw,JALIM Nandeshwaree (MRI),MOOKREY Simeen (RSA)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,BELLO Fatimo,KALAM Musfiquh,3,0,"11,11,11|5,4,2",5-8,OTHER,WS,2250,Position Draw,BELLO Fatimo (NGR),KALAM Musfiquh (RSA)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,DIAW Ibrahima,IDOWU Saheed,4,2,"18,3,11,8,11,11|16,11,5,11,6,1",QF,OTHER,MS,2250,Main Draw,DIAW Ibrahima (DEN),IDOWU Saheed (CGO)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,ARUNA Quadri,FANNY Kokou,4,0,"11,11,11,11|7,7,4,7",QF,OTHER,MS,2250,Main Draw,ARUNA Quadri (NGR),FANNY Kokou (TOG)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,ASSAR Omar,OMOTAYO Olajide,4,0,"11,12,11,11|7,10,5,7",QF,OTHER,MS,2250,Main Draw,ASSAR Omar (EGY),OMOTAYO Olajide (NGR)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,SALEH Ahmed,HMAM Adam,4,0,"11,11,11,11|4,2,5,8",QF,OTHER,MS,2250,Main Draw,SALEH Ahmed (EGY),HMAM Adam (TUN)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,HANFFOU Sarah,SAIDANI Safa,4,3,"11,8,11,11,5,11,11|4,11,9,4,11,13,9",QF,OTHER,WS,2250,Main Draw,HANFFOU Sarah (CMR),SAIDANI Safa (TUN)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,HELMY Yousra,KESSACI Katia,4,0,"11,11,11,11|6,6,4,1",QF,OTHER,WS,2250,Main Draw,HELMY Yousra (EGY),KESSACI Katia (ALG)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,MESHREF Dina,LOGHRAIBI Lynda,4,1,"11,9,11,11,11|6,11,2,6,7",QF,OTHER,WS,2250,Main Draw,MESHREF Dina (EGY),LOGHRAIBI Lynda (ALG)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,EDEM Offiong,GARCI Fadwa,4,1,"11,7,11,11,11|8,11,5,8,6",QF,OTHER,WS,2250,Main Draw,EDEM Offiong (NGR),GARCI Fadwa (TUN)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,OBA Oba Kizito,OVERMEYER Shane,3,1,"8,11,11,11|11,3,9,8",9-16,OTHER,MS,2250,Position Draw,OBA Oba Kizito (CIV),OVERMEYER Shane (RSA)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,BOURIAH Larbi,OLABIYI Monday,3,1,"10,11,11,11|12,4,7,5",9-16,OTHER,MS,2250,Position Draw,BOURIAH Larbi (ALG),OLABIYI Monday (BEN)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,KASSA Gedeon,COGILL Theo,3,0,"11,11,11|4,9,8",9-16,OTHER,MS,2250,Position Draw,KASSA Gedeon (COD),COGILL Theo (RSA)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,KHEROUF Sami,MUTUA Brian,3,0,"11,12,11|5,10,7",9-16,OTHER,MS,2250,Position Draw,KHEROUF Sami (ALG),MUTUA Brian (KEN)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,KALAM Musfiquh,GULTI Marta,3,0,"0,0,0|0,0,0",9-16,OTHER,WS,2250,Position Draw,KALAM Musfiquh (RSA),GULTI Marta (ETH)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,BELLO Fatimo,KILINDO Christy,3,0,"0,0,0|0,0,0",9-16,OTHER,WS,2250,Position Draw,BELLO Fatimo (NGR),KILINDO Christy (SEY)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,JALIM Nandeshwaree,NZANGANI Cyntia,3,0,"11,11,11|9,4,5",9-16,OTHER,WS,2250,Position Draw,JALIM Nandeshwaree (MRI),NZANGANI Cyntia (COD)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,OMOTAYO Olajide,BOURIAH Larbi,3,0,"11,11,11|3,9,7",QUAL,OTHER,MS,2250,Qualification,OMOTAYO Olajide (NGR),BOURIAH Larbi (ALG)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,ASSAR Omar,COGILL Theo,3,0,"11,11,11|7,3,2",QUAL,OTHER,MS,2250,Qualification,ASSAR Omar (EGY),COGILL Theo (RSA)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,DIAW Ibrahima,KASSA Gedeon,3,0,"11,11,11|3,2,6",QUAL,OTHER,MS,2250,Qualification,DIAW Ibrahima (DEN),KASSA Gedeon (COD)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,IDOWU Saheed,OLABIYI Monday,3,1,"11,11,9,11|4,9,11,4",QUAL,OTHER,MS,2250,Qualification,IDOWU Saheed (CGO),OLABIYI Monday (BEN)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,FANNY Kokou,OVERMEYER Shane,3,1,"11,11,11,11|9,13,8,4",QUAL,OTHER,MS,2250,Qualification,FANNY Kokou (TOG),OVERMEYER Shane (RSA)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,SALEH Ahmed,MUTUA Brian,3,0,"11,11,11|8,5,5",QUAL,OTHER,MS,2250,Qualification,SALEH Ahmed (EGY),MUTUA Brian (KEN)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,ARUNA Quadri,OBA Oba Kizito,3,0,"11,11,11|5,5,7",QUAL,OTHER,MS,2250,Qualification,ARUNA Quadri (NGR),OBA Oba Kizito (CIV)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,HMAM Adam,KHEROUF Sami,3,1,"6,11,11,11|11,2,8,8",QUAL,OTHER,MS,2250,Qualification,HMAM Adam (TUN),KHEROUF Sami (ALG)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,HELMY Yousra,GULTI Marta,3,0,"0,0,0|0,0,0",QUAL,OTHER,WS,2250,Qualification,HELMY Yousra (EGY),GULTI Marta (ETH)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,LOGHRAIBI Lynda,JALIM Nandeshwaree,3,1,"11,11,6,11|4,4,11,6",QUAL,OTHER,WS,2250,Qualification,LOGHRAIBI Lynda (ALG),JALIM Nandeshwaree (MRI)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,KESSACI Katia,KALAM Musfiquh,3,0,"11,11,11|7,4,7",QUAL,OTHER,WS,2250,Qualification,KESSACI Katia (ALG),KALAM Musfiquh (RSA)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,HANFFOU Sarah,NZANGANI Cyntia,3,0,"11,11,11|1,4,6",QUAL,OTHER,WS,2250,Qualification,HANFFOU Sarah (CMR),NZANGANI Cyntia (COD)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,SAIDANI Safa,MOOKREY Simeen,3,0,"11,11,11|2,6,9",QUAL,OTHER,WS,2250,Qualification,SAIDANI Safa (TUN),MOOKREY Simeen (RSA)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,EDEM Offiong,KILINDO Christy,3,0,"0,0,0|0,0,0",QUAL,OTHER,WS,2250,Qualification,EDEM Offiong (NGR),KILINDO Christy (SEY)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,GARCI Fadwa,BELLO Fatimo,3,0,"11,11,11|7,4,5",QUAL,OTHER,WS,2250,Qualification,GARCI Fadwa (TUN),BELLO Fatimo (NGR)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,COGILL Theo,OLABIYI Monday,3,1,"12,11,13,11|14,9,11,8",QUAL,OTHER,MS,2250,Qualification,COGILL Theo (RSA),OLABIYI Monday (BEN)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,ASSAR Omar,IDOWU Saheed,3,1,"9,11,11,11|11,8,7,3",QUAL,OTHER,MS,2250,Qualification,ASSAR Omar (EGY),IDOWU Saheed (CGO)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,DIAW Ibrahima,OMOTAYO Olajide,3,1,"11,5,11,11|7,11,3,8",QUAL,OTHER,MS,2250,Qualification,DIAW Ibrahima (DEN),OMOTAYO Olajide (NGR)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,MUTUA Brian,OVERMEYER Shane,3,2,"11,8,10,11,11|8,11,12,8,8",QUAL,OTHER,MS,2250,Qualification,MUTUA Brian (KEN),OVERMEYER Shane (RSA)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,HMAM Adam,OBA Oba Kizito,3,0,"12,11,13|10,9,11",QUAL,OTHER,MS,2250,Qualification,HMAM Adam (TUN),OBA Oba Kizito (CIV)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,ARUNA Quadri,KHEROUF Sami,3,0,"11,11,11|2,9,2",QUAL,OTHER,MS,2250,Qualification,ARUNA Quadri (NGR),KHEROUF Sami (ALG)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,SALEH Ahmed,FANNY Kokou,3,1,"11,11,8,11|5,6,11,2",QUAL,OTHER,MS,2250,Qualification,SALEH Ahmed (EGY),FANNY Kokou (TOG)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,JALIM Nandeshwaree,GULTI Marta,3,0,"0,0,0|0,0,0",QUAL,OTHER,WS,2250,Qualification,JALIM Nandeshwaree (MRI),GULTI Marta (ETH)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,HELMY Yousra,LOGHRAIBI Lynda,3,2,"10,11,9,11,11|12,6,11,5,7",QUAL,OTHER,WS,2250,Qualification,HELMY Yousra (EGY),LOGHRAIBI Lynda (ALG)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,KALAM Musfiquh,NZANGANI Cyntia,3,0,"11,11,11|9,7,8",QUAL,OTHER,WS,2250,Qualification,KALAM Musfiquh (RSA),NZANGANI Cyntia (COD)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,HANFFOU Sarah,KESSACI Katia,3,1,"11,11,9,11|6,6,11,1",QUAL,OTHER,WS,2250,Qualification,HANFFOU Sarah (CMR),KESSACI Katia (ALG)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,SAIDANI Safa,KILINDO Christy,3,0,"0,0,0|0,0,0",QUAL,OTHER,WS,2250,Qualification,SAIDANI Safa (TUN),KILINDO Christy (SEY)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,EDEM Offiong,MOOKREY Simeen,3,1,"11,8,11,11|3,11,3,7",QUAL,OTHER,WS,2250,Qualification,EDEM Offiong (NGR),MOOKREY Simeen (RSA)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,MESHREF Dina,GARCI Fadwa,3,0,"11,11,11|9,7,5",QUAL,OTHER,WS,2250,Qualification,MESHREF Dina (EGY),GARCI Fadwa (TUN)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,OMOTAYO Olajide,KASSA Gedeon,3,1,"8,11,11,11|11,6,3,7",QUAL,OTHER,MS,2250,Qualification,OMOTAYO Olajide (NGR),KASSA Gedeon (COD)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,ASSAR Omar,OLABIYI Monday,3,0,"11,11,11|6,3,1",QUAL,OTHER,MS,2250,Qualification,ASSAR Omar (EGY),OLABIYI Monday (BEN)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,IDOWU Saheed,COGILL Theo,3,0,"11,11,11|4,3,9",QUAL,OTHER,MS,2250,Qualification,IDOWU Saheed (CGO),COGILL Theo (RSA)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,DIAW Ibrahima,BOURIAH Larbi,3,0,"11,11,11|4,7,8",QUAL,OTHER,MS,2250,Qualification,DIAW Ibrahima (DEN),BOURIAH Larbi (ALG)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,SALEH Ahmed,OVERMEYER Shane,3,0,"11,11,11|3,6,5",QUAL,OTHER,MS,2250,Qualification,SALEH Ahmed (EGY),OVERMEYER Shane (RSA)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,ARUNA Quadri,HMAM Adam,3,0,"11,14,11|5,12,4",QUAL,OTHER,MS,2250,Qualification,ARUNA Quadri (NGR),HMAM Adam (TUN)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,FANNY Kokou,MUTUA Brian,3,1,"11,6,11,11|8,11,6,7",QUAL,OTHER,MS,2250,Qualification,FANNY Kokou (TOG),MUTUA Brian (KEN)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,LOGHRAIBI Lynda,GULTI Marta,3,0,"0,0,0|0,0,0",QUAL,OTHER,WS,2250,Qualification,LOGHRAIBI Lynda (ALG),GULTI Marta (ETH)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,HELMY Yousra,JALIM Nandeshwaree,3,2,"11,11,10,7,13|6,9,12,11,11",QUAL,OTHER,WS,2250,Qualification,HELMY Yousra (EGY),JALIM Nandeshwaree (MRI)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,KESSACI Katia,NZANGANI Cyntia,3,0,"11,12,11|5,10,7",QUAL,OTHER,WS,2250,Qualification,KESSACI Katia (ALG),NZANGANI Cyntia (COD)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,HANFFOU Sarah,KALAM Musfiquh,3,0,"11,11,11|7,4,7",QUAL,OTHER,WS,2250,Qualification,HANFFOU Sarah (CMR),KALAM Musfiquh (RSA)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,MOOKREY Simeen,KILINDO Christy,3,0,"0,0,0|0,0,0",QUAL,OTHER,WS,2250,Qualification,MOOKREY Simeen (RSA),KILINDO Christy (SEY)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,MESHREF Dina,BELLO Fatimo,3,1,"11,11,12,11|9,4,14,6",QUAL,OTHER,WS,2250,Qualification,MESHREF Dina (EGY),BELLO Fatimo (NGR)
-ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,EDEM Offiong,SAIDANI Safa,3,1,"8,11,11,11|11,9,7,6",QUAL,OTHER,WS,2250,Qualification,EDEM Offiong (NGR),SAIDANI Safa (TUN)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,SALEH Ahmed,ARUNA Quadri,4,3,"11,5,11,6,11,9,11|6,11,9,11,9,11,3",F,OTHER,MS,2250,Main Draw,SALEH Ahmed (EGY),ARUNA Quadri (NGR),SALEH Ahmed
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,MESHREF Dina,EDEM Offiong,4,1,"11,11,8,11,11|2,8,11,5,6",F,OTHER,WS,2250,Main Draw,MESHREF Dina (EGY),EDEM Offiong (NGR),MESHREF Dina
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,ASSAR Omar,DIAW Ibrahima,3,0,"11,11,12|6,8,10",3RD,OTHER,MS,2250,Position Draw,ASSAR Omar (EGY),DIAW Ibrahima (DEN),ASSAR Omar
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,HANFFOU Sarah,HELMY Yousra,3,1,"11,5,11,12|8,11,6,10",3RD,OTHER,WS,2250,Position Draw,HANFFOU Sarah (CMR),HELMY Yousra (EGY),HANFFOU Sarah
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,LOGHRAIBI Lynda,KESSACI Katia,3,0,"15,11,11|13,7,4",3RD,OTHER,WS,2250,Position Draw,LOGHRAIBI Lynda (ALG),KESSACI Katia (ALG),LOGHRAIBI Lynda
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,HMAM Adam,FANNY Kokou,3,0,"11,11,11|6,8,3",3RD,OTHER,MS,2250,Position Draw,HMAM Adam (TUN),FANNY Kokou (TOG),HMAM Adam
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,GARCI Fadwa,SAIDANI Safa,3,0,"11,11,11|6,8,5",3RD,OTHER,WS,2250,Position Draw,GARCI Fadwa (TUN),SAIDANI Safa (TUN),GARCI Fadwa
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,OMOTAYO Olajide,IDOWU Saheed,3,2,"11,17,12,10,11|5,15,14,12,2",3RD,OTHER,MS,2250,Position Draw,OMOTAYO Olajide (NGR),IDOWU Saheed (CGO),OMOTAYO Olajide
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,OLABIYI Monday,MUTUA Brian,3,0,"11,11,11|3,5,7",3RD,OTHER,MS,2250,Position Draw,OLABIYI Monday (BEN),MUTUA Brian (KEN),OLABIYI Monday
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,COGILL Theo,OVERMEYER Shane,3,2,"4,11,11,3,12|11,8,6,11,10",3RD,OTHER,MS,2250,Position Draw,COGILL Theo (RSA),OVERMEYER Shane (RSA),COGILL Theo
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,OBA Oba Kizito,KHEROUF Sami,3,0,"0,0,0|0,0,0",3RD,OTHER,MS,2250,Position Draw,OBA Oba Kizito (CIV),KHEROUF Sami (ALG),OBA Oba Kizito
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,BOURIAH Larbi,KASSA Gedeon,3,1,"14,11,9,11|12,8,11,4",3RD,OTHER,MS,2250,Position Draw,BOURIAH Larbi (ALG),KASSA Gedeon (COD),BOURIAH Larbi
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,BELLO Fatimo,JALIM Nandeshwaree,3,2,"11,6,11,6,11|7,11,6,11,7",3RD,OTHER,WS,2250,Position Draw,BELLO Fatimo (NGR),JALIM Nandeshwaree (MRI),BELLO Fatimo
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,KALAM Musfiquh,MOOKREY Simeen,3,1,"9,11,11,11|11,5,7,5",3RD,OTHER,WS,2250,Position Draw,KALAM Musfiquh (RSA),MOOKREY Simeen (RSA),KALAM Musfiquh
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,SALEH Ahmed,DIAW Ibrahima,4,1,"14,11,3,11,11|12,7,11,9,7",SF,OTHER,MS,2250,Main Draw,SALEH Ahmed (EGY),DIAW Ibrahima (DEN),SALEH Ahmed
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,ARUNA Quadri,ASSAR Omar,4,3,"5,6,11,14,7,11,12|11,11,4,12,11,5,10",SF,OTHER,MS,2250,Main Draw,ARUNA Quadri (NGR),ASSAR Omar (EGY),ARUNA Quadri
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,EDEM Offiong,HELMY Yousra,4,2,"6,14,11,11,11,11|11,16,8,7,7,6",SF,OTHER,WS,2250,Main Draw,EDEM Offiong (NGR),HELMY Yousra (EGY),EDEM Offiong
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,MESHREF Dina,HANFFOU Sarah,4,2,"11,11,11,9,11,11|6,1,13,11,7,4",SF,OTHER,WS,2250,Main Draw,MESHREF Dina (EGY),HANFFOU Sarah (CMR),MESHREF Dina
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,IDOWU Saheed,HMAM Adam,3,2,"11,11,6,9,11|4,7,11,11,8",5-8,OTHER,MS,2250,Position Draw,IDOWU Saheed (CGO),HMAM Adam (TUN),IDOWU Saheed
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,GARCI Fadwa,KESSACI Katia,3,1,"13,11,11,11|15,9,7,8",5-8,OTHER,WS,2250,Position Draw,GARCI Fadwa (TUN),KESSACI Katia (ALG),GARCI Fadwa
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,OMOTAYO Olajide,FANNY Kokou,3,1,"11,12,11,11|5,14,7,9",5-8,OTHER,MS,2250,Position Draw,OMOTAYO Olajide (NGR),FANNY Kokou (TOG),OMOTAYO Olajide
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,SAIDANI Safa,LOGHRAIBI Lynda,3,1,"11,1,11,11|9,11,8,4",5-8,OTHER,WS,2250,Position Draw,SAIDANI Safa (TUN),LOGHRAIBI Lynda (ALG),SAIDANI Safa
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,COGILL Theo,MUTUA Brian,3,2,"12,11,11,3,11|14,9,3,11,3",5-8,OTHER,MS,2250,Position Draw,COGILL Theo (RSA),MUTUA Brian (KEN),COGILL Theo
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,OVERMEYER Shane,OLABIYI Monday,3,2,"11,8,11,12,11|13,11,9,10,8",5-8,OTHER,MS,2250,Position Draw,OVERMEYER Shane (RSA),OLABIYI Monday (BEN),OVERMEYER Shane
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,KHEROUF Sami,KASSA Gedeon,3,2,"11,15,7,11,11|7,17,11,8,5",5-8,OTHER,MS,2250,Position Draw,KHEROUF Sami (ALG),KASSA Gedeon (COD),KHEROUF Sami
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,OBA Oba Kizito,BOURIAH Larbi,3,1,"11,11,7,11|3,6,11,8",5-8,OTHER,MS,2250,Position Draw,OBA Oba Kizito (CIV),BOURIAH Larbi (ALG),OBA Oba Kizito
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,JALIM Nandeshwaree,MOOKREY Simeen,3,0,"11,11,11|6,8,8",5-8,OTHER,WS,2250,Position Draw,JALIM Nandeshwaree (MRI),MOOKREY Simeen (RSA),JALIM Nandeshwaree
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,BELLO Fatimo,KALAM Musfiquh,3,0,"11,11,11|5,4,2",5-8,OTHER,WS,2250,Position Draw,BELLO Fatimo (NGR),KALAM Musfiquh (RSA),BELLO Fatimo
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,DIAW Ibrahima,IDOWU Saheed,4,2,"18,3,11,8,11,11|16,11,5,11,6,1",QF,OTHER,MS,2250,Main Draw,DIAW Ibrahima (DEN),IDOWU Saheed (CGO),DIAW Ibrahima
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,ARUNA Quadri,FANNY Kokou,4,0,"11,11,11,11|7,7,4,7",QF,OTHER,MS,2250,Main Draw,ARUNA Quadri (NGR),FANNY Kokou (TOG),ARUNA Quadri
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,ASSAR Omar,OMOTAYO Olajide,4,0,"11,12,11,11|7,10,5,7",QF,OTHER,MS,2250,Main Draw,ASSAR Omar (EGY),OMOTAYO Olajide (NGR),ASSAR Omar
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,SALEH Ahmed,HMAM Adam,4,0,"11,11,11,11|4,2,5,8",QF,OTHER,MS,2250,Main Draw,SALEH Ahmed (EGY),HMAM Adam (TUN),SALEH Ahmed
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,HANFFOU Sarah,SAIDANI Safa,4,3,"11,8,11,11,5,11,11|4,11,9,4,11,13,9",QF,OTHER,WS,2250,Main Draw,HANFFOU Sarah (CMR),SAIDANI Safa (TUN),HANFFOU Sarah
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,HELMY Yousra,KESSACI Katia,4,0,"11,11,11,11|6,6,4,1",QF,OTHER,WS,2250,Main Draw,HELMY Yousra (EGY),KESSACI Katia (ALG),HELMY Yousra
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,MESHREF Dina,LOGHRAIBI Lynda,4,1,"11,9,11,11,11|6,11,2,6,7",QF,OTHER,WS,2250,Main Draw,MESHREF Dina (EGY),LOGHRAIBI Lynda (ALG),MESHREF Dina
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,EDEM Offiong,GARCI Fadwa,4,1,"11,7,11,11,11|8,11,5,8,6",QF,OTHER,WS,2250,Main Draw,EDEM Offiong (NGR),GARCI Fadwa (TUN),EDEM Offiong
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,OBA Oba Kizito,OVERMEYER Shane,3,1,"8,11,11,11|11,3,9,8",9-16,OTHER,MS,2250,Position Draw,OBA Oba Kizito (CIV),OVERMEYER Shane (RSA),OBA Oba Kizito
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,BOURIAH Larbi,OLABIYI Monday,3,1,"10,11,11,11|12,4,7,5",9-16,OTHER,MS,2250,Position Draw,BOURIAH Larbi (ALG),OLABIYI Monday (BEN),BOURIAH Larbi
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,KASSA Gedeon,COGILL Theo,3,0,"11,11,11|4,9,8",9-16,OTHER,MS,2250,Position Draw,KASSA Gedeon (COD),COGILL Theo (RSA),KASSA Gedeon
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,KHEROUF Sami,MUTUA Brian,3,0,"11,12,11|5,10,7",9-16,OTHER,MS,2250,Position Draw,KHEROUF Sami (ALG),MUTUA Brian (KEN),KHEROUF Sami
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,KALAM Musfiquh,GULTI Marta,3,0,"0,0,0|0,0,0",9-16,OTHER,WS,2250,Position Draw,KALAM Musfiquh (RSA),GULTI Marta (ETH),KALAM Musfiquh
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,BELLO Fatimo,KILINDO Christy,3,0,"0,0,0|0,0,0",9-16,OTHER,WS,2250,Position Draw,BELLO Fatimo (NGR),KILINDO Christy (SEY),BELLO Fatimo
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,JALIM Nandeshwaree,NZANGANI Cyntia,3,0,"11,11,11|9,4,5",9-16,OTHER,WS,2250,Position Draw,JALIM Nandeshwaree (MRI),NZANGANI Cyntia (COD),JALIM Nandeshwaree
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,OMOTAYO Olajide,BOURIAH Larbi,3,0,"11,11,11|3,9,7",QUAL,OTHER,MS,2250,Qualification,OMOTAYO Olajide (NGR),BOURIAH Larbi (ALG),OMOTAYO Olajide
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,ASSAR Omar,COGILL Theo,3,0,"11,11,11|7,3,2",QUAL,OTHER,MS,2250,Qualification,ASSAR Omar (EGY),COGILL Theo (RSA),ASSAR Omar
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,DIAW Ibrahima,KASSA Gedeon,3,0,"11,11,11|3,2,6",QUAL,OTHER,MS,2250,Qualification,DIAW Ibrahima (DEN),KASSA Gedeon (COD),DIAW Ibrahima
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,IDOWU Saheed,OLABIYI Monday,3,1,"11,11,9,11|4,9,11,4",QUAL,OTHER,MS,2250,Qualification,IDOWU Saheed (CGO),OLABIYI Monday (BEN),IDOWU Saheed
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,FANNY Kokou,OVERMEYER Shane,3,1,"11,11,11,11|9,13,8,4",QUAL,OTHER,MS,2250,Qualification,FANNY Kokou (TOG),OVERMEYER Shane (RSA),FANNY Kokou
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,SALEH Ahmed,MUTUA Brian,3,0,"11,11,11|8,5,5",QUAL,OTHER,MS,2250,Qualification,SALEH Ahmed (EGY),MUTUA Brian (KEN),SALEH Ahmed
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,ARUNA Quadri,OBA Oba Kizito,3,0,"11,11,11|5,5,7",QUAL,OTHER,MS,2250,Qualification,ARUNA Quadri (NGR),OBA Oba Kizito (CIV),ARUNA Quadri
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,HMAM Adam,KHEROUF Sami,3,1,"6,11,11,11|11,2,8,8",QUAL,OTHER,MS,2250,Qualification,HMAM Adam (TUN),KHEROUF Sami (ALG),HMAM Adam
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,HELMY Yousra,GULTI Marta,3,0,"0,0,0|0,0,0",QUAL,OTHER,WS,2250,Qualification,HELMY Yousra (EGY),GULTI Marta (ETH),HELMY Yousra
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,LOGHRAIBI Lynda,JALIM Nandeshwaree,3,1,"11,11,6,11|4,4,11,6",QUAL,OTHER,WS,2250,Qualification,LOGHRAIBI Lynda (ALG),JALIM Nandeshwaree (MRI),LOGHRAIBI Lynda
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,KESSACI Katia,KALAM Musfiquh,3,0,"11,11,11|7,4,7",QUAL,OTHER,WS,2250,Qualification,KESSACI Katia (ALG),KALAM Musfiquh (RSA),KESSACI Katia
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,HANFFOU Sarah,NZANGANI Cyntia,3,0,"11,11,11|1,4,6",QUAL,OTHER,WS,2250,Qualification,HANFFOU Sarah (CMR),NZANGANI Cyntia (COD),HANFFOU Sarah
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,SAIDANI Safa,MOOKREY Simeen,3,0,"11,11,11|2,6,9",QUAL,OTHER,WS,2250,Qualification,SAIDANI Safa (TUN),MOOKREY Simeen (RSA),SAIDANI Safa
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,EDEM Offiong,KILINDO Christy,3,0,"0,0,0|0,0,0",QUAL,OTHER,WS,2250,Qualification,EDEM Offiong (NGR),KILINDO Christy (SEY),EDEM Offiong
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,GARCI Fadwa,BELLO Fatimo,3,0,"11,11,11|7,4,5",QUAL,OTHER,WS,2250,Qualification,GARCI Fadwa (TUN),BELLO Fatimo (NGR),GARCI Fadwa
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,COGILL Theo,OLABIYI Monday,3,1,"12,11,13,11|14,9,11,8",QUAL,OTHER,MS,2250,Qualification,COGILL Theo (RSA),OLABIYI Monday (BEN),COGILL Theo
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,ASSAR Omar,IDOWU Saheed,3,1,"9,11,11,11|11,8,7,3",QUAL,OTHER,MS,2250,Qualification,ASSAR Omar (EGY),IDOWU Saheed (CGO),ASSAR Omar
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,DIAW Ibrahima,OMOTAYO Olajide,3,1,"11,5,11,11|7,11,3,8",QUAL,OTHER,MS,2250,Qualification,DIAW Ibrahima (DEN),OMOTAYO Olajide (NGR),DIAW Ibrahima
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,MUTUA Brian,OVERMEYER Shane,3,2,"11,8,10,11,11|8,11,12,8,8",QUAL,OTHER,MS,2250,Qualification,MUTUA Brian (KEN),OVERMEYER Shane (RSA),MUTUA Brian
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,HMAM Adam,OBA Oba Kizito,3,0,"12,11,13|10,9,11",QUAL,OTHER,MS,2250,Qualification,HMAM Adam (TUN),OBA Oba Kizito (CIV),HMAM Adam
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,ARUNA Quadri,KHEROUF Sami,3,0,"11,11,11|2,9,2",QUAL,OTHER,MS,2250,Qualification,ARUNA Quadri (NGR),KHEROUF Sami (ALG),ARUNA Quadri
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,SALEH Ahmed,FANNY Kokou,3,1,"11,11,8,11|5,6,11,2",QUAL,OTHER,MS,2250,Qualification,SALEH Ahmed (EGY),FANNY Kokou (TOG),SALEH Ahmed
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,JALIM Nandeshwaree,GULTI Marta,3,0,"0,0,0|0,0,0",QUAL,OTHER,WS,2250,Qualification,JALIM Nandeshwaree (MRI),GULTI Marta (ETH),JALIM Nandeshwaree
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,HELMY Yousra,LOGHRAIBI Lynda,3,2,"10,11,9,11,11|12,6,11,5,7",QUAL,OTHER,WS,2250,Qualification,HELMY Yousra (EGY),LOGHRAIBI Lynda (ALG),HELMY Yousra
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,KALAM Musfiquh,NZANGANI Cyntia,3,0,"11,11,11|9,7,8",QUAL,OTHER,WS,2250,Qualification,KALAM Musfiquh (RSA),NZANGANI Cyntia (COD),KALAM Musfiquh
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,HANFFOU Sarah,KESSACI Katia,3,1,"11,11,9,11|6,6,11,1",QUAL,OTHER,WS,2250,Qualification,HANFFOU Sarah (CMR),KESSACI Katia (ALG),HANFFOU Sarah
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,SAIDANI Safa,KILINDO Christy,3,0,"0,0,0|0,0,0",QUAL,OTHER,WS,2250,Qualification,SAIDANI Safa (TUN),KILINDO Christy (SEY),SAIDANI Safa
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,EDEM Offiong,MOOKREY Simeen,3,1,"11,8,11,11|3,11,3,7",QUAL,OTHER,WS,2250,Qualification,EDEM Offiong (NGR),MOOKREY Simeen (RSA),EDEM Offiong
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,MESHREF Dina,GARCI Fadwa,3,0,"11,11,11|9,7,5",QUAL,OTHER,WS,2250,Qualification,MESHREF Dina (EGY),GARCI Fadwa (TUN),MESHREF Dina
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,OMOTAYO Olajide,KASSA Gedeon,3,1,"8,11,11,11|11,6,3,7",QUAL,OTHER,MS,2250,Qualification,OMOTAYO Olajide (NGR),KASSA Gedeon (COD),OMOTAYO Olajide
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,ASSAR Omar,OLABIYI Monday,3,0,"11,11,11|6,3,1",QUAL,OTHER,MS,2250,Qualification,ASSAR Omar (EGY),OLABIYI Monday (BEN),ASSAR Omar
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,IDOWU Saheed,COGILL Theo,3,0,"11,11,11|4,3,9",QUAL,OTHER,MS,2250,Qualification,IDOWU Saheed (CGO),COGILL Theo (RSA),IDOWU Saheed
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,DIAW Ibrahima,BOURIAH Larbi,3,0,"11,11,11|4,7,8",QUAL,OTHER,MS,2250,Qualification,DIAW Ibrahima (DEN),BOURIAH Larbi (ALG),DIAW Ibrahima
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,SALEH Ahmed,OVERMEYER Shane,3,0,"11,11,11|3,6,5",QUAL,OTHER,MS,2250,Qualification,SALEH Ahmed (EGY),OVERMEYER Shane (RSA),SALEH Ahmed
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,ARUNA Quadri,HMAM Adam,3,0,"11,14,11|5,12,4",QUAL,OTHER,MS,2250,Qualification,ARUNA Quadri (NGR),HMAM Adam (TUN),ARUNA Quadri
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,FANNY Kokou,MUTUA Brian,3,1,"11,6,11,11|8,11,6,7",QUAL,OTHER,MS,2250,Qualification,FANNY Kokou (TOG),MUTUA Brian (KEN),FANNY Kokou
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,LOGHRAIBI Lynda,GULTI Marta,3,0,"0,0,0|0,0,0",QUAL,OTHER,WS,2250,Qualification,LOGHRAIBI Lynda (ALG),GULTI Marta (ETH),LOGHRAIBI Lynda
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,HELMY Yousra,JALIM Nandeshwaree,3,2,"11,11,10,7,13|6,9,12,11,11",QUAL,OTHER,WS,2250,Qualification,HELMY Yousra (EGY),JALIM Nandeshwaree (MRI),HELMY Yousra
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,KESSACI Katia,NZANGANI Cyntia,3,0,"11,12,11|5,10,7",QUAL,OTHER,WS,2250,Qualification,KESSACI Katia (ALG),NZANGANI Cyntia (COD),KESSACI Katia
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,HANFFOU Sarah,KALAM Musfiquh,3,0,"11,11,11|7,4,7",QUAL,OTHER,WS,2250,Qualification,HANFFOU Sarah (CMR),KALAM Musfiquh (RSA),HANFFOU Sarah
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,MOOKREY Simeen,KILINDO Christy,3,0,"0,0,0|0,0,0",QUAL,OTHER,WS,2250,Qualification,MOOKREY Simeen (RSA),KILINDO Christy (SEY),MOOKREY Simeen
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,MESHREF Dina,BELLO Fatimo,3,1,"11,11,12,11|9,4,14,6",QUAL,OTHER,WS,2250,Qualification,MESHREF Dina (EGY),BELLO Fatimo (NGR),MESHREF Dina
+ITTF Africa Top 16 Cup Tunisia 2020,2020-02-24,EDEM Offiong,SAIDANI Safa,3,1,"8,11,11,11|11,9,7,6",QUAL,OTHER,WS,2250,Qualification,EDEM Offiong (NGR),SAIDANI Safa (TUN),EDEM Offiong

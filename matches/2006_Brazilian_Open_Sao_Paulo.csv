@@ -1,331 +1,331 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Brazilian Open Sao Paulo 2006,2006-06-21,OLEA Carlos,THERIEN Xavier,4,0,"11,12,12,11|9,10,10,9",,GRAND_SLAM,MS,1787,Qualification,OLEA Carlos (CHI),THERIEN Xavier (CAN)
-Brazilian Open Sao Paulo 2006,2006-06-21,LEE Jinkwon,OLEA Carlos,4,0,"11,11,11,14|5,9,4,12",QR2,GRAND_SLAM,MS,1787,Qualification,LEE Jinkwon (KOR),OLEA Carlos (CHI)
-Brazilian Open Sao Paulo 2006,2006-06-21,LEE Jinkwon,THERIEN Xavier,4,1,"11,11,6,15,11|7,6,11,13,8",3,GRAND_SLAM,MS,1787,Qualification,LEE Jinkwon (KOR),THERIEN Xavier (CAN)
-Brazilian Open Sao Paulo 2006,2006-06-21,CASTRO Lidney,SHEN Qiang,4,3,"8,11,8,9,11,11,11|11,8,11,11,9,5,5",,GRAND_SLAM,MS,1787,Qualification,CASTRO Lidney (USA),SHEN Qiang (CAN)
-Brazilian Open Sao Paulo 2006,2006-06-21,MONTEIRO Joao,CASTRO Lidney,4,1,"11,11,11,11,11|3,3,8,13,8",QR2,GRAND_SLAM,MS,1787,Qualification,MONTEIRO Joao (POR),CASTRO Lidney (USA)
-Brazilian Open Sao Paulo 2006,2006-06-21,MONTEIRO Joao,SHEN Qiang,4,0,"11,11,11,11|7,2,7,9",3,GRAND_SLAM,MS,1787,Qualification,MONTEIRO Joao (POR),SHEN Qiang (CAN)
-Brazilian Open Sao Paulo 2006,2006-06-21,HINSE Pierre-Luc,ZOMBORI David,4,3,"11,11,3,11,3,5,15|6,4,11,6,11,11,13",,GRAND_SLAM,MS,1787,Qualification,HINSE Pierre-Luc (CAN),ZOMBORI David (HUN)
-Brazilian Open Sao Paulo 2006,2006-06-21,CARNEROS Alfredo,HINSE Pierre-Luc,4,0,"11,11,14,11|4,7,12,8",QR2,GRAND_SLAM,MS,1787,Qualification,CARNEROS Alfredo (ESP),HINSE Pierre-Luc (CAN)
-Brazilian Open Sao Paulo 2006,2006-06-21,CARNEROS Alfredo,ZOMBORI David,4,0,"11,11,11,11|6,8,6,4",3,GRAND_SLAM,MS,1787,Qualification,CARNEROS Alfredo (ESP),ZOMBORI David (HUN)
-Brazilian Open Sao Paulo 2006,2006-06-21,MOLNAR Csaba,ALTO Gaston,4,2,"11,11,9,10,11,11|4,4,11,12,9,8",,GRAND_SLAM,MS,1787,Qualification,MOLNAR Csaba (HUN),ALTO Gaston (ARG)
-Brazilian Open Sao Paulo 2006,2006-06-21,ZHANG Wilson,ALTO Gaston,4,1,"11,11,9,11,11|8,5,11,7,7",QR2,GRAND_SLAM,MS,1787,Qualification,ZHANG Wilson (CAN),ALTO Gaston (ARG)
-Brazilian Open Sao Paulo 2006,2006-06-21,ZHANG Wilson,MOLNAR Csaba,4,3,"11,11,7,8,11,11,12|9,13,11,11,6,4,10",3,GRAND_SLAM,MS,1787,Qualification,ZHANG Wilson (CAN),MOLNAR Csaba (HUN)
-Brazilian Open Sao Paulo 2006,2006-06-21,CROTTI Mattia,UBILLA Nicolas,4,2,"11,7,11,7,11,11|2,11,6,11,3,8",,GRAND_SLAM,MS,1787,Qualification,CROTTI Mattia (ITA),UBILLA Nicolas (CHI)
-Brazilian Open Sao Paulo 2006,2006-06-21,TAKAKIWA Kenichi,UBILLA Nicolas,4,2,"9,11,11,16,11,11|11,8,7,18,3,6",QR2,GRAND_SLAM,MS,1787,Qualification,TAKAKIWA Kenichi (JPN),UBILLA Nicolas (CHI)
-Brazilian Open Sao Paulo 2006,2006-06-21,TAKAKIWA Kenichi,CROTTI Mattia,4,0,"14,12,11,11|12,10,7,7",3,GRAND_SLAM,MS,1787,Qualification,TAKAKIWA Kenichi (JPN),CROTTI Mattia (ITA)
-Brazilian Open Sao Paulo 2006,2006-06-21,VENTURA DOS ANJOS Bruno,GAVILAN Oscar,4,0,"11,11,11,11|8,3,6,5",,GRAND_SLAM,MS,1787,Qualification,VENTURA DOS ANJOS Bruno (BRA),GAVILAN Oscar (PAR)
-Brazilian Open Sao Paulo 2006,2006-06-21,ZWICKL Daniel,GAVILAN Oscar,4,1,"9,13,11,11,11|11,11,2,4,4",QR2,GRAND_SLAM,MS,1787,Qualification,ZWICKL Daniel (HUN),GAVILAN Oscar (PAR)
-Brazilian Open Sao Paulo 2006,2006-06-21,ZWICKL Daniel,VENTURA DOS ANJOS Bruno,4,0,"11,11,11,11|8,5,7,6",3,GRAND_SLAM,MS,1787,Qualification,ZWICKL Daniel (HUN),VENTURA DOS ANJOS Bruno (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,KOJIMA Ricardo,MAECK Anthony,4,3,"6,11,6,11,3,11,11|11,6,11,9,11,9,8",,GRAND_SLAM,MS,1787,Qualification,KOJIMA Ricardo (BRA),MAECK Anthony (BEL)
-Brazilian Open Sao Paulo 2006,2006-06-21,KIM Taehoon,MIERES Juan Manuel,4,0,"11,11,11,11|5,6,8,9",QR2,GRAND_SLAM,MS,1787,Qualification,KIM Taehoon (KOR),MIERES Juan Manuel (PAR)
-Brazilian Open Sao Paulo 2006,2006-06-21,MAECK Anthony,MIERES Juan Manuel,4,2,"8,11,11,11,5,13|11,4,5,5,11,11",3,GRAND_SLAM,MS,1787,Qualification,MAECK Anthony (BEL),MIERES Juan Manuel (PAR)
-Brazilian Open Sao Paulo 2006,2006-06-21,KIM Taehoon,KOJIMA Ricardo,4,0,"11,11,11,14|9,8,5,12",QR4,GRAND_SLAM,MS,1787,Qualification,KIM Taehoon (KOR),KOJIMA Ricardo (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,KOJIMA Ricardo,MIERES Juan Manuel,4,2,"11,11,7,9,11,11|2,6,11,11,4,4",5,GRAND_SLAM,MS,1787,Qualification,KOJIMA Ricardo (BRA),MIERES Juan Manuel (PAR)
-Brazilian Open Sao Paulo 2006,2006-06-21,KIM Taehoon,MAECK Anthony,4,1,"11,11,11,8,11|8,6,3,11,4",6,GRAND_SLAM,MS,1787,Qualification,KIM Taehoon (KOR),MAECK Anthony (BEL)
-Brazilian Open Sao Paulo 2006,2006-06-21,TOMASI Stefano,LEVIS Bruno,4,3,"11,11,10,11,7,9,11|9,5,12,7,11,11,9",,GRAND_SLAM,MS,1787,Qualification,TOMASI Stefano (ITA),LEVIS Bruno (CHI)
-Brazilian Open Sao Paulo 2006,2006-06-21,VOZICKY Bohumil,WIEST Renan,4,0,"11,11,11,11|2,5,7,6",QR2,GRAND_SLAM,MS,1787,Qualification,VOZICKY Bohumil (CZE),WIEST Renan (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,TOMASI Stefano,WIEST Renan,4,0,"11,11,12,11|3,4,10,3",3,GRAND_SLAM,MS,1787,Qualification,TOMASI Stefano (ITA),WIEST Renan (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,VOZICKY Bohumil,LEVIS Bruno,4,0,"11,11,11,11|9,5,5,5",QR4,GRAND_SLAM,MS,1787,Qualification,VOZICKY Bohumil (CZE),LEVIS Bruno (CHI)
-Brazilian Open Sao Paulo 2006,2006-06-21,LEVIS Bruno,WIEST Renan,4,1,"11,11,6,11,11|5,6,11,7,7",5,GRAND_SLAM,MS,1787,Qualification,LEVIS Bruno (CHI),WIEST Renan (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,VOZICKY Bohumil,TOMASI Stefano,4,1,"11,11,11,9,13|3,5,6,11,11",6,GRAND_SLAM,MS,1787,Qualification,VOZICKY Bohumil (CZE),TOMASI Stefano (ITA)
-Brazilian Open Sao Paulo 2006,2006-06-21,LEBESSON Emmanuel,TEMPERLEY Diego,4,2,"11,11,11,8,9,11|8,5,8,11,11,3",,GRAND_SLAM,MS,1787,Qualification,LEBESSON Emmanuel (FRA),TEMPERLEY Diego (ARG)
-Brazilian Open Sao Paulo 2006,2006-06-21,APOLONIA Tiago,CORSINI Marcelo,4,1,"8,11,11,11,11|11,3,6,5,8",QR2,GRAND_SLAM,MS,1787,Qualification,APOLONIA Tiago (POR),CORSINI Marcelo (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,LEBESSON Emmanuel,CORSINI Marcelo,4,0,"11,11,11,11|7,7,6,9",3,GRAND_SLAM,MS,1787,Qualification,LEBESSON Emmanuel (FRA),CORSINI Marcelo (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,APOLONIA Tiago,TEMPERLEY Diego,4,3,"11,4,11,11,11,11,11|5,11,4,5,13,13,6",QR4,GRAND_SLAM,MS,1787,Qualification,APOLONIA Tiago (POR),TEMPERLEY Diego (ARG)
-Brazilian Open Sao Paulo 2006,2006-06-21,TEMPERLEY Diego,CORSINI Marcelo,4,1,"4,11,11,11,11|11,4,8,9,6",5,GRAND_SLAM,MS,1787,Qualification,TEMPERLEY Diego (ARG),CORSINI Marcelo (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,APOLONIA Tiago,LEBESSON Emmanuel,4,2,"11,11,6,11,7,11|1,4,11,4,11,6",6,GRAND_SLAM,MS,1787,Qualification,APOLONIA Tiago (POR),LEBESSON Emmanuel (FRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,SAHA Subhajit,GRECO Juan,4,0,"11,11,11,11|3,4,3,1",,GRAND_SLAM,MS,1787,Qualification,SAHA Subhajit (IND),GRECO Juan (ARG)
-Brazilian Open Sao Paulo 2006,2006-06-21,MATSUMOTO Cazuo,BISSACO Manoel,4,0,"11,11,11,11|4,4,2,6",QR2,GRAND_SLAM,MS,1787,Qualification,MATSUMOTO Cazuo (BRA),BISSACO Manoel (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,SAHA Subhajit,BISSACO Manoel,4,2,"11,11,9,9,11,11|6,5,11,11,3,8",3,GRAND_SLAM,MS,1787,Qualification,SAHA Subhajit (IND),BISSACO Manoel (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,MATSUMOTO Cazuo,GRECO Juan,4,0,"11,11,11,11|5,3,2,4",QR4,GRAND_SLAM,MS,1787,Qualification,MATSUMOTO Cazuo (BRA),GRECO Juan (ARG)
-Brazilian Open Sao Paulo 2006,2006-06-21,BISSACO Manoel,GRECO Juan,4,0,"11,11,11,11|4,5,4,4",5,GRAND_SLAM,MS,1787,Qualification,BISSACO Manoel (BRA),GRECO Juan (ARG)
-Brazilian Open Sao Paulo 2006,2006-06-21,MATSUMOTO Cazuo,SAHA Subhajit,4,1,"11,11,13,1,11|9,8,11,11,7",6,GRAND_SLAM,MS,1787,Qualification,MATSUMOTO Cazuo (BRA),SAHA Subhajit (IND)
-Brazilian Open Sao Paulo 2006,2006-06-21,DELOBBE Damien,MOAVRO Sebastian,4,2,"11,9,11,10,11,11|6,11,7,12,7,4",,GRAND_SLAM,MS,1787,Qualification,DELOBBE Damien (BEL),MOAVRO Sebastian (ARG)
-Brazilian Open Sao Paulo 2006,2006-06-21,MACHADO Carlos,SILVA Lucas,4,0,"11,11,11,11|1,3,3,3",QR2,GRAND_SLAM,MS,1787,Qualification,MACHADO Carlos (ESP),SILVA Lucas (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,DELOBBE Damien,SILVA Lucas,4,0,"11,11,11,11|4,6,3,6",3,GRAND_SLAM,MS,1787,Qualification,DELOBBE Damien (BEL),SILVA Lucas (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,MACHADO Carlos,MOAVRO Sebastian,4,0,"11,11,11,11|7,2,7,3",QR4,GRAND_SLAM,MS,1787,Qualification,MACHADO Carlos (ESP),MOAVRO Sebastian (ARG)
-Brazilian Open Sao Paulo 2006,2006-06-21,MOAVRO Sebastian,SILVA Lucas,4,2,"11,7,11,10,11,11|9,11,5,12,8,6",5,GRAND_SLAM,MS,1787,Qualification,MOAVRO Sebastian (ARG),SILVA Lucas (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,MACHADO Carlos,DELOBBE Damien,4,0,"11,11,11,11|7,8,6,4",6,GRAND_SLAM,MS,1787,Qualification,MACHADO Carlos (ESP),DELOBBE Damien (BEL)
-Brazilian Open Sao Paulo 2006,2006-06-21,PETERSEN Christoffer,MANHANI Humberto,4,1,"8,11,11,11,11|11,7,7,2,0",,GRAND_SLAM,MS,1787,Qualification,PETERSEN Christoffer (DEN),MANHANI Humberto (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,DURAN Marc,GALLINDO Ivo,4,0,"11,11,11,11|8,4,3,2",QR2,GRAND_SLAM,MS,1787,Qualification,DURAN Marc (ESP),GALLINDO Ivo (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,PETERSEN Christoffer,GALLINDO Ivo,4,0,"11,11,11,12|5,1,2,10",3,GRAND_SLAM,MS,1787,Qualification,PETERSEN Christoffer (DEN),GALLINDO Ivo (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,DURAN Marc,MANHANI Humberto,4,0,"11,11,12,11|6,5,10,7",QR4,GRAND_SLAM,MS,1787,Qualification,DURAN Marc (ESP),MANHANI Humberto (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,MANHANI Humberto,GALLINDO Ivo,4,1,"11,11,9,11,11|3,8,11,3,8",5,GRAND_SLAM,MS,1787,Qualification,MANHANI Humberto (BRA),GALLINDO Ivo (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,DURAN Marc,PETERSEN Christoffer,4,2,"12,11,8,11,11,11|14,7,11,8,8,8",6,GRAND_SLAM,MS,1787,Qualification,DURAN Marc (ESP),PETERSEN Christoffer (DEN)
-Brazilian Open Sao Paulo 2006,2006-06-21,TABACHNIK Pablo,MANCINI Eric,4,2,"11,10,11,11,3,11|7,12,8,9,11,6",,GRAND_SLAM,MS,1787,Qualification,TABACHNIK Pablo (ARG),MANCINI Eric (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,KONGSGAARD Christian,SOUZA Diego,4,0,"11,11,11,11|4,8,7,3",QR2,GRAND_SLAM,MS,1787,Qualification,KONGSGAARD Christian (DEN),SOUZA Diego (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,TABACHNIK Pablo,SOUZA Diego,4,0,"11,11,11,11|4,5,4,7",3,GRAND_SLAM,MS,1787,Qualification,TABACHNIK Pablo (ARG),SOUZA Diego (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,KONGSGAARD Christian,MANCINI Eric,4,2,"11,2,11,9,11,12|8,11,8,11,9,10",QR4,GRAND_SLAM,MS,1787,Qualification,KONGSGAARD Christian (DEN),MANCINI Eric (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,MANCINI Eric,SOUZA Diego,4,0,"11,11,11,11|3,3,2,6",5,GRAND_SLAM,MS,1787,Qualification,MANCINI Eric (BRA),SOUZA Diego (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,KONGSGAARD Christian,TABACHNIK Pablo,4,0,"11,11,11,11|8,9,5,7",6,GRAND_SLAM,MS,1787,Qualification,KONGSGAARD Christian (DEN),TABACHNIK Pablo (ARG)
-Brazilian Open Sao Paulo 2006,2006-06-21,VOSTES Yannick,BARBOSA Jose,4,0,"11,11,11,11|5,6,7,6",,GRAND_SLAM,MS,1787,Qualification,VOSTES Yannick (BEL),BARBOSA Jose (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,ROY Soumyadeep,COSTA Daniel,4,1,"11,11,10,11,11|7,4,12,4,6",QR2,GRAND_SLAM,MS,1787,Qualification,ROY Soumyadeep (IND),COSTA Daniel (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,VOSTES Yannick,COSTA Daniel,4,0,"11,11,11,12|8,3,6,10",3,GRAND_SLAM,MS,1787,Qualification,VOSTES Yannick (BEL),COSTA Daniel (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,ROY Soumyadeep,BARBOSA Jose,4,0,"11,11,11,11|6,8,4,4",QR4,GRAND_SLAM,MS,1787,Qualification,ROY Soumyadeep (IND),BARBOSA Jose (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,COSTA Daniel,BARBOSA Jose,4,1,"11,12,11,9,11|7,10,8,11,4",5,GRAND_SLAM,MS,1787,Qualification,COSTA Daniel (BRA),BARBOSA Jose (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,VOSTES Yannick,ROY Soumyadeep,4,0,"11,11,11,11|2,7,6,9",6,GRAND_SLAM,MS,1787,Qualification,VOSTES Yannick (BEL),ROY Soumyadeep (IND)
-Brazilian Open Sao Paulo 2006,2006-06-21,DESPRES Rodolphe,BARRETO Israel,4,3,"6,9,11,9,11,11,11|11,11,9,11,5,7,9",,GRAND_SLAM,MS,1787,Qualification,DESPRES Rodolphe (FRA),BARRETO Israel (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,CLOSSET Marc,SILVA Daniel,4,0,"11,11,11,11|5,7,7,8",QR2,GRAND_SLAM,MS,1787,Qualification,CLOSSET Marc (BEL),SILVA Daniel (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,DESPRES Rodolphe,SILVA Daniel,4,0,"11,11,11,11|8,5,8,6",3,GRAND_SLAM,MS,1787,Qualification,DESPRES Rodolphe (FRA),SILVA Daniel (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,CLOSSET Marc,BARRETO Israel,4,1,"11,11,11,10,11|8,5,4,12,5",QR4,GRAND_SLAM,MS,1787,Qualification,CLOSSET Marc (BEL),BARRETO Israel (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,BARRETO Israel,SILVA Daniel,4,1,"9,11,11,11,11|11,3,7,7,9",5,GRAND_SLAM,MS,1787,Qualification,BARRETO Israel (BRA),SILVA Daniel (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,DESPRES Rodolphe,CLOSSET Marc,4,2,"6,13,7,14,11,11|11,11,11,12,5,7",6,GRAND_SLAM,MS,1787,Qualification,DESPRES Rodolphe (FRA),CLOSSET Marc (BEL)
-Brazilian Open Sao Paulo 2006,2006-06-21,TSUBOI Gustavo,AGUIRRE Marcelo,4,0,"13,11,11,11|11,9,5,4",,GRAND_SLAM,MS,1787,Qualification,TSUBOI Gustavo (BRA),AGUIRRE Marcelo (PAR)
-Brazilian Open Sao Paulo 2006,2006-06-21,KONECNY Tomas,SILVA NETO Olimpio Gomes,4,0,"11,11,11,11|3,7,5,3",QR2,GRAND_SLAM,MS,1787,Qualification,KONECNY Tomas (CZE),SILVA NETO Olimpio Gomes (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,TSUBOI Gustavo,SILVA NETO Olimpio Gomes,4,1,"11,14,12,11,11|6,12,14,8,8",3,GRAND_SLAM,MS,1787,Qualification,TSUBOI Gustavo (BRA),SILVA NETO Olimpio Gomes (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,KONECNY Tomas,AGUIRRE Marcelo,4,1,"13,11,11,5,11|11,8,7,11,1",QR4,GRAND_SLAM,MS,1787,Qualification,KONECNY Tomas (CZE),AGUIRRE Marcelo (PAR)
-Brazilian Open Sao Paulo 2006,2006-06-21,SILVA NETO Olimpio Gomes,AGUIRRE Marcelo,4,2,"11,11,11,9,5,11|5,9,8,11,11,9",5,GRAND_SLAM,MS,1787,Qualification,SILVA NETO Olimpio Gomes (BRA),AGUIRRE Marcelo (PAR)
-Brazilian Open Sao Paulo 2006,2006-06-21,KONECNY Tomas,TSUBOI Gustavo,4,1,"11,11,11,5,11|6,8,5,11,7",6,GRAND_SLAM,MS,1787,Qualification,KONECNY Tomas (CZE),TSUBOI Gustavo (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,YOSHIDA Kaii,CARNEROS Alfredo,4,0,"11,11,11,11|4,3,6,3",R32,GRAND_SLAM,MS,1787,Main Draw,YOSHIDA Kaii (JPN),CARNEROS Alfredo (ESP)
-Brazilian Open Sao Paulo 2006,2006-06-21,HOYAMA Hugo,KONGSGAARD Christian,4,2,"11,11,10,11,9,11|6,4,12,9,11,5",R32,GRAND_SLAM,MS,1787,Main Draw,HOYAMA Hugo (BRA),KONGSGAARD Christian (DEN)
-Brazilian Open Sao Paulo 2006,2006-06-21,MACHADO Carlos,DIDUKH Oleksandr,4,0,"11,11,11,11|8,5,5,8",R32,GRAND_SLAM,MS,1787,Main Draw,MACHADO Carlos (ESP),DIDUKH Oleksandr (UKR)
-Brazilian Open Sao Paulo 2006,2006-06-21,LIU Song,KIM Taehoon,4,1,"13,11,11,11,11|15,5,2,7,6",R32,GRAND_SLAM,MS,1787,Main Draw,LIU Song (ARG),KIM Taehoon (KOR)
-Brazilian Open Sao Paulo 2006,2006-06-21,MONDELLO Massimiliano,VOSTES Yannick,4,0,"11,11,11,11|1,7,4,7",R32,GRAND_SLAM,MS,1787,Main Draw,MONDELLO Massimiliano (ITA),VOSTES Yannick (BEL)
-Brazilian Open Sao Paulo 2006,2006-06-21,ZWICKL Daniel,PISTEJ Lubomir,4,2,"11,11,11,9,10,11|8,7,2,11,12,6",R32,GRAND_SLAM,MS,1787,Main Draw,ZWICKL Daniel (HUN),PISTEJ Lubomir (SVK)
-Brazilian Open Sao Paulo 2006,2006-06-21,CHO Eonrae,DESPRES Rodolphe,4,1,"11,11,12,6,11|2,4,10,11,8",R32,GRAND_SLAM,MS,1787,Main Draw,CHO Eonrae (KOR),DESPRES Rodolphe (FRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,SEREDA Peter,VOZICKY Bohumil,4,3,"11,1,8,11,11,10,11|8,11,11,5,7,12,8",R32,GRAND_SLAM,MS,1787,Main Draw,SEREDA Peter (SVK),VOZICKY Bohumil (CZE)
-Brazilian Open Sao Paulo 2006,2006-06-21,TOKIC Bojan,DURAN Marc,4,1,"11,11,11,4,11|6,6,9,11,3",R32,GRAND_SLAM,MS,1787,Main Draw,TOKIC Bojan (SLO),DURAN Marc (ESP)
-Brazilian Open Sao Paulo 2006,2006-06-21,BERTIN Christophe,KONECNY Tomas,4,2,"8,11,11,11,11,11|11,13,7,8,4,7",R32,GRAND_SLAM,MS,1787,Main Draw,BERTIN Christophe (FRA),KONECNY Tomas (CZE)
-Brazilian Open Sao Paulo 2006,2006-06-21,ACHANTA Sharath,MATSUMOTO Cazuo,4,2,"11,11,11,9,10,11|4,7,8,11,12,7",R32,GRAND_SLAM,MS,1787,Main Draw,ACHANTA Sharath (IND),MATSUMOTO Cazuo (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,MONTEIRO Joao,CHO Jihoon,4,1,"7,15,11,11,13|11,13,6,8,11",R32,GRAND_SLAM,MS,1787,Main Draw,MONTEIRO Joao (POR),CHO Jihoon (KOR)
-Brazilian Open Sao Paulo 2006,2006-06-21,ZHANG Wilson,MONTEIRO Thiago,4,0,"11,11,17,11|8,8,15,7",R32,GRAND_SLAM,MS,1787,Main Draw,ZHANG Wilson (CAN),MONTEIRO Thiago (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,PAZSY Ferenc,APOLONIA Tiago,4,1,"11,9,17,16,11|6,11,15,14,5",R32,GRAND_SLAM,MS,1787,Main Draw,PAZSY Ferenc (HUN),APOLONIA Tiago (POR)
-Brazilian Open Sao Paulo 2006,2006-06-21,TAKAKIWA Kenichi,JAKAB Janos,4,0,"13,14,11,11|11,12,9,4",R32,GRAND_SLAM,MS,1787,Main Draw,TAKAKIWA Kenichi (JPN),JAKAB Janos (HUN)
-Brazilian Open Sao Paulo 2006,2006-06-21,LEE Jinkwon,LEGOUT Christophe,4,1,"11,11,6,11,11|8,7,11,8,5",R32,GRAND_SLAM,MS,1787,Main Draw,LEE Jinkwon (KOR),LEGOUT Christophe (FRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,YOSHIDA Kaii,HOYAMA Hugo,4,0,"15,11,11,11|13,9,6,9",R16,GRAND_SLAM,MS,1787,Main Draw,YOSHIDA Kaii (JPN),HOYAMA Hugo (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,LIU Song,MACHADO Carlos,4,2,"6,11,11,11,8,11|11,5,8,3,11,9",R16,GRAND_SLAM,MS,1787,Main Draw,LIU Song (ARG),MACHADO Carlos (ESP)
-Brazilian Open Sao Paulo 2006,2006-06-21,ZWICKL Daniel,MONDELLO Massimiliano,4,3,"11,11,11,8,8,12,14|6,5,6,11,11,14,12",R16,GRAND_SLAM,MS,1787,Main Draw,ZWICKL Daniel (HUN),MONDELLO Massimiliano (ITA)
-Brazilian Open Sao Paulo 2006,2006-06-21,CHO Eonrae,SEREDA Peter,4,0,"11,11,11,11|7,6,1,9",R16,GRAND_SLAM,MS,1787,Main Draw,CHO Eonrae (KOR),SEREDA Peter (SVK)
-Brazilian Open Sao Paulo 2006,2006-06-21,BERTIN Christophe,TOKIC Bojan,4,3,"9,5,11,11,9,11,11|11,11,6,7,11,9,7",R16,GRAND_SLAM,MS,1787,Main Draw,BERTIN Christophe (FRA),TOKIC Bojan (SLO)
-Brazilian Open Sao Paulo 2006,2006-06-21,ACHANTA Sharath,MONTEIRO Joao,4,2,"11,11,9,12,7,11|8,9,11,10,11,9",R16,GRAND_SLAM,MS,1787,Main Draw,ACHANTA Sharath (IND),MONTEIRO Joao (POR)
-Brazilian Open Sao Paulo 2006,2006-06-21,ZHANG Wilson,PAZSY Ferenc,4,3,"11,11,7,12,8,11,11|8,8,11,14,11,7,3",R16,GRAND_SLAM,MS,1787,Main Draw,ZHANG Wilson (CAN),PAZSY Ferenc (HUN)
-Brazilian Open Sao Paulo 2006,2006-06-21,LEE Jinkwon,TAKAKIWA Kenichi,4,3,"9,11,10,12,4,15,11|11,9,12,10,11,13,9",R16,GRAND_SLAM,MS,1787,Main Draw,LEE Jinkwon (KOR),TAKAKIWA Kenichi (JPN)
-Brazilian Open Sao Paulo 2006,2006-06-21,LIU Song,YOSHIDA Kaii,4,3,"11,12,6,7,11,9,11|7,10,11,11,5,11,8",QF,GRAND_SLAM,MS,1787,Main Draw,LIU Song (ARG),YOSHIDA Kaii (JPN)
-Brazilian Open Sao Paulo 2006,2006-06-21,CHO Eonrae,ZWICKL Daniel,4,1,"4,11,11,11,12|11,3,6,7,10",QF,GRAND_SLAM,MS,1787,Main Draw,CHO Eonrae (KOR),ZWICKL Daniel (HUN)
-Brazilian Open Sao Paulo 2006,2006-06-21,ACHANTA Sharath,BERTIN Christophe,4,1,"11,7,11,12,11|8,11,9,10,3",QF,GRAND_SLAM,MS,1787,Main Draw,ACHANTA Sharath (IND),BERTIN Christophe (FRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,LEE Jinkwon,ZHANG Wilson,4,1,"12,11,11,8,14|10,9,8,11,12",QF,GRAND_SLAM,MS,1787,Main Draw,LEE Jinkwon (KOR),ZHANG Wilson (CAN)
-Brazilian Open Sao Paulo 2006,2006-06-21,CHO Eonrae,LIU Song,4,0,"11,12,12,11|6,10,10,9",SF,GRAND_SLAM,MS,1787,Main Draw,CHO Eonrae (KOR),LIU Song (ARG)
-Brazilian Open Sao Paulo 2006,2006-06-21,LEE Jinkwon,ACHANTA Sharath,4,2,"7,11,11,8,11,11|11,9,6,11,8,9",SF,GRAND_SLAM,MS,1787,Main Draw,LEE Jinkwon (KOR),ACHANTA Sharath (IND)
-Brazilian Open Sao Paulo 2006,2006-06-21,CHO Eonrae,LEE Jinkwon,4,1,"11,11,9,11,11|3,9,11,2,5",F,GRAND_SLAM,MS,1787,Main Draw,CHO Eonrae (KOR),LEE Jinkwon (KOR)
-Brazilian Open Sao Paulo 2006,2006-06-21,LEBESSON Emmanuel,JAKAB Janos,4,0,"11,11,11,13|7,9,8,11",R16,GRAND_SLAM,U21MS,1787,Main Draw,LEBESSON Emmanuel (FRA),JAKAB Janos (HUN)
-Brazilian Open Sao Paulo 2006,2006-06-21,MATSUMOTO Cazuo,UBILLA Nicolas,4,2,"8,11,13,11,9,11|11,9,11,5,11,6",R16,GRAND_SLAM,U21MS,1787,Main Draw,MATSUMOTO Cazuo (BRA),UBILLA Nicolas (CHI)
-Brazilian Open Sao Paulo 2006,2006-06-21,VOSTES Yannick,OLEA Carlos,4,2,"11,8,11,8,11,11|3,11,7,11,6,9",R16,GRAND_SLAM,U21MS,1787,Main Draw,VOSTES Yannick (BEL),OLEA Carlos (CHI)
-Brazilian Open Sao Paulo 2006,2006-06-21,KIM Taehoon,HINSE Pierre-Luc,4,1,"11,6,11,13,11|5,11,7,11,4",R16,GRAND_SLAM,U21MS,1787,Main Draw,KIM Taehoon (KOR),HINSE Pierre-Luc (CAN)
-Brazilian Open Sao Paulo 2006,2006-06-21,APOLONIA Tiago,MOLNAR Csaba,4,2,"9,9,11,11,11,11|11,11,5,9,5,2",R16,GRAND_SLAM,U21MS,1787,Main Draw,APOLONIA Tiago (POR),MOLNAR Csaba (HUN)
-Brazilian Open Sao Paulo 2006,2006-06-21,ZOMBORI David,DURAN Marc,4,3,"11,11,12,10,11,4,11|9,9,14,12,7,11,9",R16,GRAND_SLAM,U21MS,1787,Main Draw,ZOMBORI David (HUN),DURAN Marc (ESP)
-Brazilian Open Sao Paulo 2006,2006-06-21,TSUBOI Gustavo,SHEN Qiang,4,2,"11,13,13,11,10,11|7,11,15,7,12,4",R16,GRAND_SLAM,U21MS,1787,Main Draw,TSUBOI Gustavo (BRA),SHEN Qiang (CAN)
-Brazilian Open Sao Paulo 2006,2006-06-21,LEE Jinkwon,KOJIMA Ricardo,4,1,"11,7,11,11,11|6,11,4,7,5",R16,GRAND_SLAM,U21MS,1787,Main Draw,LEE Jinkwon (KOR),KOJIMA Ricardo (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,MATSUMOTO Cazuo,LEBESSON Emmanuel,4,0,"11,11,11,11|6,7,8,7",QF,GRAND_SLAM,U21MS,1787,Main Draw,MATSUMOTO Cazuo (BRA),LEBESSON Emmanuel (FRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,KIM Taehoon,VOSTES Yannick,4,2,"10,11,11,11,9,11|12,7,8,5,11,5",QF,GRAND_SLAM,U21MS,1787,Main Draw,KIM Taehoon (KOR),VOSTES Yannick (BEL)
-Brazilian Open Sao Paulo 2006,2006-06-21,APOLONIA Tiago,ZOMBORI David,4,1,"11,11,9,11,11|5,6,11,7,7",QF,GRAND_SLAM,U21MS,1787,Main Draw,APOLONIA Tiago (POR),ZOMBORI David (HUN)
-Brazilian Open Sao Paulo 2006,2006-06-21,TSUBOI Gustavo,LEE Jinkwon,4,0,,QF,GRAND_SLAM,U21MS,1787,Main Draw,TSUBOI Gustavo (BRA),LEE Jinkwon (KOR)
-Brazilian Open Sao Paulo 2006,2006-06-21,KIM Taehoon,MATSUMOTO Cazuo,4,3,"11,11,8,1,5,11,11|4,7,11,11,11,9,8",SF,GRAND_SLAM,U21MS,1787,Main Draw,KIM Taehoon (KOR),MATSUMOTO Cazuo (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,APOLONIA Tiago,TSUBOI Gustavo,4,0,"11,11,11,11|3,8,8,7",SF,GRAND_SLAM,U21MS,1787,Main Draw,APOLONIA Tiago (POR),TSUBOI Gustavo (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,APOLONIA Tiago,KIM Taehoon,4,0,"12,11,11,11|10,5,8,7",F,GRAND_SLAM,U21MS,1787,Main Draw,APOLONIA Tiago (POR),KIM Taehoon (KOR)
-Brazilian Open Sao Paulo 2006,2006-06-21,AGUIRRE Marcelo,CARVALHO Daniel,3,0,"11,11,11|8,8,8",,GRAND_SLAM,U21MS,1787,Qualification,AGUIRRE Marcelo (PAR),CARVALHO Daniel (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,LEBESSON Emmanuel,CARVALHO Daniel,3,1,"10,11,11,11|12,6,9,6",QR2,GRAND_SLAM,U21MS,1787,Qualification,LEBESSON Emmanuel (FRA),CARVALHO Daniel (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,LEBESSON Emmanuel,AGUIRRE Marcelo,3,0,"11,11,11|3,4,3",3,GRAND_SLAM,U21MS,1787,Qualification,LEBESSON Emmanuel (FRA),AGUIRRE Marcelo (PAR)
-Brazilian Open Sao Paulo 2006,2006-06-21,BARBOSA Jose,MIERES Juan Manuel,3,2,"11,7,5,11,11|7,11,11,8,7",,GRAND_SLAM,U21MS,1787,Qualification,BARBOSA Jose (BRA),MIERES Juan Manuel (PAR)
-Brazilian Open Sao Paulo 2006,2006-06-21,MOLNAR Csaba,MIERES Juan Manuel,3,0,"12,11,11|10,5,7",QR2,GRAND_SLAM,U21MS,1787,Qualification,MOLNAR Csaba (HUN),MIERES Juan Manuel (PAR)
-Brazilian Open Sao Paulo 2006,2006-06-21,MOLNAR Csaba,BARBOSA Jose,3,1,"11,9,11,11|1,11,7,3",3,GRAND_SLAM,U21MS,1787,Qualification,MOLNAR Csaba (HUN),BARBOSA Jose (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,COSTA Daniel,MOAVRO Sebastian,3,1,"11,8,11,11|9,11,8,6",,GRAND_SLAM,U21MS,1787,Qualification,COSTA Daniel (BRA),MOAVRO Sebastian (ARG)
-Brazilian Open Sao Paulo 2006,2006-06-21,ZOMBORI David,COSTA Daniel,3,0,"11,11,11|7,3,7",QR2,GRAND_SLAM,U21MS,1787,Qualification,ZOMBORI David (HUN),COSTA Daniel (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,ZOMBORI David,MOAVRO Sebastian,3,0,"11,11,11|7,4,6",3,GRAND_SLAM,U21MS,1787,Qualification,ZOMBORI David (HUN),MOAVRO Sebastian (ARG)
-Brazilian Open Sao Paulo 2006,2006-06-21,LEVIS Bruno,SILVA Lucas,3,0,"11,11,11|8,6,4",,GRAND_SLAM,U21MS,1787,Qualification,LEVIS Bruno (CHI),SILVA Lucas (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,SHEN Qiang,SILVA Lucas,3,0,"13,11,11|11,2,7",QR2,GRAND_SLAM,U21MS,1787,Qualification,SHEN Qiang (CAN),SILVA Lucas (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,SHEN Qiang,LEVIS Bruno,3,1,"6,11,11,12|11,8,6,10",3,GRAND_SLAM,U21MS,1787,Qualification,SHEN Qiang (CAN),LEVIS Bruno (CHI)
-Brazilian Open Sao Paulo 2006,2006-06-21,MANCINI Eric,SILVA NETO Olimpio Gomes,3,1,"11,11,9,11|3,8,11,5",,GRAND_SLAM,U21MS,1787,Qualification,MANCINI Eric (BRA),SILVA NETO Olimpio Gomes (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,HINSE Pierre-Luc,SILVA NETO Olimpio Gomes,3,0,"11,11,11|7,4,8",QR2,GRAND_SLAM,U21MS,1787,Qualification,HINSE Pierre-Luc (CAN),SILVA NETO Olimpio Gomes (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,HINSE Pierre-Luc,MANCINI Eric,3,2,"11,11,7,6,11|7,9,11,11,9",3,GRAND_SLAM,U21MS,1787,Qualification,HINSE Pierre-Luc (CAN),MANCINI Eric (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,MANHANI Humberto,SOUZA Diego,3,0,"11,11,11|7,1,9",,GRAND_SLAM,U21MS,1787,Qualification,MANHANI Humberto (BRA),SOUZA Diego (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,OLEA Carlos,SOUZA Diego,3,0,"11,11,11|2,1,4",QR2,GRAND_SLAM,U21MS,1787,Qualification,OLEA Carlos (CHI),SOUZA Diego (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,OLEA Carlos,MANHANI Humberto,3,2,"10,6,11,11,11|12,11,7,5,8",3,GRAND_SLAM,U21MS,1787,Qualification,OLEA Carlos (CHI),MANHANI Humberto (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,UBILLA Nicolas,WIEST Renan,4,0,,,GRAND_SLAM,U21MS,1787,Qualification,UBILLA Nicolas (CHI),WIEST Renan (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,CASTRO Lidney,WIEST Renan,3,0,"11,11,11|6,4,7",QR2,GRAND_SLAM,U21MS,1787,Qualification,CASTRO Lidney (USA),WIEST Renan (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,UBILLA Nicolas,CASTRO Lidney,3,0,"11,11,11|5,5,4",3,GRAND_SLAM,U21MS,1787,Qualification,UBILLA Nicolas (CHI),CASTRO Lidney (USA)
-Brazilian Open Sao Paulo 2006,2006-06-21,KOJIMA Ricardo,COSTA Patrick,4,0,,,GRAND_SLAM,U21MS,1787,Qualification,KOJIMA Ricardo (BRA),COSTA Patrick (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,ALTO Gaston,COSTA Patrick,4,0,,QR2,GRAND_SLAM,U21MS,1787,Qualification,ALTO Gaston (ARG),COSTA Patrick (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,KOJIMA Ricardo,ALTO Gaston,3,2,"12,11,8,5,12|10,6,11,11,10",3,GRAND_SLAM,U21MS,1787,Qualification,KOJIMA Ricardo (BRA),ALTO Gaston (ARG)
-Brazilian Open Sao Paulo 2006,2006-06-21,RANZEIRO Maira,CERON Ximena,4,0,"11,12,11,11|7,10,9,8",,GRAND_SLAM,WS,1787,Qualification,RANZEIRO Maira (BRA),CERON Ximena (CHI)
-Brazilian Open Sao Paulo 2006,2006-06-21,LANG Kristin,RANZEIRO Maira,4,1,"9,11,11,11,11|11,9,7,9,6",QR2,GRAND_SLAM,WS,1787,Qualification,LANG Kristin (GER),RANZEIRO Maira (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,LANG Kristin,CERON Ximena,4,0,"11,11,11,11|8,6,4,4",3,GRAND_SLAM,WS,1787,Qualification,LANG Kristin (GER),CERON Ximena (CHI)
-Brazilian Open Sao Paulo 2006,2006-06-21,YAMADA Jessica,YUEN Stephanie,4,0,"11,11,11,11|8,6,5,9",,GRAND_SLAM,WS,1787,Qualification,YAMADA Jessica (BRA),YUEN Stephanie (CAN)
-Brazilian Open Sao Paulo 2006,2006-06-21,PAOVIC Sandra,YAMADA Jessica,4,0,"11,11,11,11|3,5,3,6",QR2,GRAND_SLAM,WS,1787,Qualification,PAOVIC Sandra (CRO),YAMADA Jessica (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,PAOVIC Sandra,YUEN Stephanie,4,2,"8,11,7,11,11,11|11,3,11,5,5,7",3,GRAND_SLAM,WS,1787,Qualification,PAOVIC Sandra (CRO),YUEN Stephanie (CAN)
-Brazilian Open Sao Paulo 2006,2006-06-21,RABONI Patricia,CASTELLANO Natalia,4,2,"4,11,11,9,12,11|11,7,4,11,10,9",,GRAND_SLAM,WS,1787,Qualification,RABONI Patricia (BRA),CASTELLANO Natalia (CHI)
-Brazilian Open Sao Paulo 2006,2006-06-21,TASEI Mikie,RABONI Patricia,4,0,"11,11,11,11|5,7,7,2",QR2,GRAND_SLAM,WS,1787,Qualification,TASEI Mikie (JPN),RABONI Patricia (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,TASEI Mikie,CASTELLANO Natalia,4,0,"11,11,11,11|5,7,4,3",3,GRAND_SLAM,WS,1787,Qualification,TASEI Mikie (JPN),CASTELLANO Natalia (CHI)
-Brazilian Open Sao Paulo 2006,2006-06-21,IKEIZUMI Claudia,ROJAS Karen,4,3,"2,10,13,11,6,11,11|11,12,11,6,11,4,2",,GRAND_SLAM,WS,1787,Qualification,IKEIZUMI Claudia (BRA),ROJAS Karen (CHI)
-Brazilian Open Sao Paulo 2006,2006-06-21,MOLNAR Cornelia,ROJAS Karen,4,0,"11,11,11,11|3,6,7,5",QR2,GRAND_SLAM,WS,1787,Qualification,MOLNAR Cornelia (CRO),ROJAS Karen (CHI)
-Brazilian Open Sao Paulo 2006,2006-06-21,MOLNAR Cornelia,IKEIZUMI Claudia,4,0,"11,11,11,11|1,6,6,5",3,GRAND_SLAM,WS,1787,Qualification,MOLNAR Cornelia (CRO),IKEIZUMI Claudia (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,MURASHIGE Carina,PAULIN Nancy,4,1,"11,8,11,11,11|4,11,5,7,9",,GRAND_SLAM,WS,1787,Qualification,MURASHIGE Carina (BRA),PAULIN Nancy (CAN)
-Brazilian Open Sao Paulo 2006,2006-06-21,KISHIDA Satoko,PAULIN Nancy,4,0,"11,11,11,11|3,5,1,3",QR2,GRAND_SLAM,WS,1787,Qualification,KISHIDA Satoko (JPN),PAULIN Nancy (CAN)
-Brazilian Open Sao Paulo 2006,2006-06-21,KISHIDA Satoko,MURASHIGE Carina,4,1,"11,11,11,8,11|5,5,8,11,9",3,GRAND_SLAM,WS,1787,Qualification,KISHIDA Satoko (JPN),MURASHIGE Carina (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,LONG Judy (Zhu),SAKO Karin,4,0,"11,11,11,11|7,3,7,7",,GRAND_SLAM,WS,1787,Qualification,LONG Judy (Zhu) (CAN),SAKO Karin (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,YOON Sunae,LONG Judy (Zhu),4,0,"11,11,11,11|7,5,5,5",QR2,GRAND_SLAM,WS,1787,Qualification,YOON Sunae (KOR),LONG Judy (Zhu) (CAN)
-Brazilian Open Sao Paulo 2006,2006-06-21,YOON Sunae,SAKO Karin,4,0,"11,11,11,11|5,1,3,4",3,GRAND_SLAM,WS,1787,Qualification,YOON Sunae (KOR),SAKO Karin (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,CHAKRABORTY Kasturi,KOCK Gabriela,4,3,"11,5,11,8,11,10,11|6,11,9,11,9,12,7",,GRAND_SLAM,WS,1787,Qualification,CHAKRABORTY Kasturi (IND),KOCK Gabriela (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,GRUNDISCH Carole,KOCK Gabriela,4,0,"11,11,11,11|8,6,4,3",QR2,GRAND_SLAM,WS,1787,Qualification,GRUNDISCH Carole (FRA),KOCK Gabriela (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,GRUNDISCH Carole,CHAKRABORTY Kasturi,4,0,"11,11,11,11|9,9,7,6",3,GRAND_SLAM,WS,1787,Qualification,GRUNDISCH Carole (FRA),CHAKRABORTY Kasturi (IND)
-Brazilian Open Sao Paulo 2006,2006-06-21,CODINA Ana,PAUL Mousumi,4,0,,,GRAND_SLAM,WS,1787,Qualification,CODINA Ana (ARG),PAUL Mousumi (IND)
-Brazilian Open Sao Paulo 2006,2006-06-21,ETSUZAKI Ayumi,CODINA Ana,4,0,"11,11,11,11|2,1,1,3",QR2,GRAND_SLAM,WS,1787,Qualification,ETSUZAKI Ayumi (JPN),CODINA Ana (ARG)
-Brazilian Open Sao Paulo 2006,2006-06-21,ETSUZAKI Ayumi,PAUL Mousumi,4,0,,3,GRAND_SLAM,WS,1787,Qualification,ETSUZAKI Ayumi (JPN),PAUL Mousumi (IND)
-Brazilian Open Sao Paulo 2006,2006-06-21,FUKUSHIMA Karin,CHIU Wennin,4,1,"12,11,7,12,11|10,9,11,10,3",,GRAND_SLAM,WS,1787,Qualification,FUKUSHIMA Karin (BRA),CHIU Wennin (CAN)
-Brazilian Open Sao Paulo 2006,2006-06-21,EKHOLM Matilda,FUKUSHIMA Karin,4,1,"13,11,13,12,11|11,6,15,10,4",QR2,GRAND_SLAM,WS,1787,Qualification,EKHOLM Matilda (SWE),FUKUSHIMA Karin (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,EKHOLM Matilda,CHIU Wennin,4,1,"6,11,11,11,11|11,4,6,6,6",3,GRAND_SLAM,WS,1787,Qualification,EKHOLM Matilda (SWE),CHIU Wennin (CAN)
-Brazilian Open Sao Paulo 2006,2006-06-21,LEE Eunsil,COULIBALY Dieniouma,4,0,"11,11,14,11|8,3,12,6",,GRAND_SLAM,WS,1787,Qualification,LEE Eunsil (KOR),COULIBALY Dieniouma (FRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,LEE Eunsil,RAMIREZ Sara,4,2,"11,11,11,11,10,12|13,7,7,7,12,10",QR2,GRAND_SLAM,WS,1787,Qualification,LEE Eunsil (KOR),RAMIREZ Sara (ESP)
-Brazilian Open Sao Paulo 2006,2006-06-21,RAMIREZ Sara,COULIBALY Dieniouma,4,1,"12,11,11,11,12|10,6,13,8,10",3,GRAND_SLAM,WS,1787,Qualification,RAMIREZ Sara (ESP),COULIBALY Dieniouma (FRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,YOON Suwon,YUEN Sara,4,1,"11,11,11,4,11|9,6,6,11,6",,GRAND_SLAM,WS,1787,Qualification,YOON Suwon (KOR),YUEN Sara (CAN)
-Brazilian Open Sao Paulo 2006,2006-06-21,WANG Yu (YOB=1981),YOON Suwon,4,0,"11,11,11,12|9,9,9,10",QR2,GRAND_SLAM,WS,1787,Qualification,WANG Yu (YOB=1981) (ITA),YOON Suwon (KOR)
-Brazilian Open Sao Paulo 2006,2006-06-21,WANG Yu (YOB=1981),YUEN Sara,4,1,"11,11,11,9,11|7,4,4,11,3",3,GRAND_SLAM,WS,1787,Qualification,WANG Yu (YOB=1981) (ITA),YUEN Sara (CAN)
-Brazilian Open Sao Paulo 2006,2006-06-21,NONAKA Mariany,GAVILAN Sandy,4,1,"11,11,11,11,12|3,3,3,13,10",,GRAND_SLAM,WS,1787,Qualification,NONAKA Mariany (BRA),GAVILAN Sandy (PAR)
-Brazilian Open Sao Paulo 2006,2006-06-21,SHIM Serom,GAVILAN Sandy,4,0,"11,11,11,11|5,4,8,3",QR2,GRAND_SLAM,WS,1787,Qualification,SHIM Serom (KOR),GAVILAN Sandy (PAR)
-Brazilian Open Sao Paulo 2006,2006-06-21,SHIM Serom,NONAKA Mariany,4,1,"9,11,11,11,11|11,6,6,5,5",3,GRAND_SLAM,WS,1787,Qualification,SHIM Serom (KOR),NONAKA Mariany (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,YU Yunmi,SKOV Mie,4,1,"11,4,11,11,11|9,11,8,8,8",,GRAND_SLAM,WS,1787,Qualification,YU Yunmi (KOR),SKOV Mie (DEN)
-Brazilian Open Sao Paulo 2006,2006-06-21,YU Yunmi,ZHANG Mo,4,2,"11,8,12,11,10,11|5,11,10,8,12,8",QR2,GRAND_SLAM,WS,1787,Qualification,YU Yunmi (KOR),ZHANG Mo (CAN)
-Brazilian Open Sao Paulo 2006,2006-06-21,ZHANG Mo,SKOV Mie,4,3,"11,5,8,11,11,8,11|6,11,11,7,7,11,7",3,GRAND_SLAM,WS,1787,Qualification,ZHANG Mo (CAN),SKOV Mie (DEN)
-Brazilian Open Sao Paulo 2006,2006-06-21,NOUWEN Carla,OVELAR Lucero,4,0,"11,11,11,16|5,3,6,14",,GRAND_SLAM,WS,1787,Qualification,NOUWEN Carla (NED),OVELAR Lucero (PAR)
-Brazilian Open Sao Paulo 2006,2006-06-21,GHATAK Poulomi,OVELAR Lucero,4,0,"11,11,11,11|7,2,8,4",QR2,GRAND_SLAM,WS,1787,Qualification,GHATAK Poulomi (IND),OVELAR Lucero (PAR)
-Brazilian Open Sao Paulo 2006,2006-06-21,NOUWEN Carla,GHATAK Poulomi,4,0,"11,11,11,11|6,6,7,9",3,GRAND_SLAM,WS,1787,Qualification,NOUWEN Carla (NED),GHATAK Poulomi (IND)
-Brazilian Open Sao Paulo 2006,2006-06-21,HANFFOU Sarah,SOAVE Isabela,4,0,"11,11,11,12|4,3,3,10",,GRAND_SLAM,WS,1787,Qualification,HANFFOU Sarah (CMR),SOAVE Isabela (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,CREEMERS Linda,SOAVE Isabela,4,0,"11,11,11,11|1,2,5,0",QR2,GRAND_SLAM,WS,1787,Qualification,CREEMERS Linda (NED),SOAVE Isabela (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,HANFFOU Sarah,CREEMERS Linda,4,2,"4,7,11,11,11,14|11,11,3,7,6,12",3,GRAND_SLAM,WS,1787,Qualification,HANFFOU Sarah (CMR),CREEMERS Linda (NED)
-Brazilian Open Sao Paulo 2006,2006-06-21,GRUNDISCH Carole,BOROS Tamara,4,2,"11,10,11,13,6,12|5,12,6,11,11,10",R32,GRAND_SLAM,WS,1787,Main Draw,GRUNDISCH Carole (FRA),BOROS Tamara (CRO)
-Brazilian Open Sao Paulo 2006,2006-06-21,YU Yunmi,SILVA Ligia,4,0,"11,11,13,11|5,6,11,9",R32,GRAND_SLAM,WS,1787,Main Draw,YU Yunmi (KOR),SILVA Ligia (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,FUJII Hiroko,WANG Yu (YOB=1981),4,0,"11,11,11,12|7,5,1,10",R32,GRAND_SLAM,WS,1787,Main Draw,FUJII Hiroko (JPN),WANG Yu (YOB=1981) (ITA)
-Brazilian Open Sao Paulo 2006,2006-06-21,PARK Miyoung,KISHIDA Satoko,4,0,"11,11,11,11|4,6,7,5",R32,GRAND_SLAM,WS,1787,Main Draw,PARK Miyoung (KOR),KISHIDA Satoko (JPN)
-Brazilian Open Sao Paulo 2006,2006-06-21,STEFANOVA Nikoleta,LANG Kristin,4,2,"11,12,6,12,11,11|5,14,11,10,7,5",R32,GRAND_SLAM,WS,1787,Main Draw,STEFANOVA Nikoleta (ITA),LANG Kristin (GER)
-Brazilian Open Sao Paulo 2006,2006-06-21,LEE Eunsil,KONISHI An,4,2,"6,11,12,7,11,11|11,5,10,11,9,1",R32,GRAND_SLAM,WS,1787,Main Draw,LEE Eunsil (KOR),KONISHI An (JPN)
-Brazilian Open Sao Paulo 2006,2006-06-21,FUJINUMA Ai,NOUWEN Carla,4,1,"11,11,11,9,11|8,9,2,11,8",R32,GRAND_SLAM,WS,1787,Main Draw,FUJINUMA Ai (JPN),NOUWEN Carla (NED)
-Brazilian Open Sao Paulo 2006,2006-06-21,HIRANO Sayaka,PAOVIC Sandra,4,2,"11,9,11,11,8,11|8,11,8,5,11,7",R32,GRAND_SLAM,WS,1787,Main Draw,HIRANO Sayaka (JPN),PAOVIC Sandra (CRO)
-Brazilian Open Sao Paulo 2006,2006-06-21,TASEI Mikie,TAN Wenling,4,2,"13,8,11,11,8,11|11,11,1,9,11,4",R32,GRAND_SLAM,WS,1787,Main Draw,TASEI Mikie (JPN),TAN Wenling (ITA)
-Brazilian Open Sao Paulo 2006,2006-06-21,LEE Eunhee,EKHOLM Matilda,4,2,"11,7,11,11,6,11|5,11,6,7,11,7",R32,GRAND_SLAM,WS,1787,Main Draw,LEE Eunhee (KOR),EKHOLM Matilda (SWE)
-Brazilian Open Sao Paulo 2006,2006-06-21,YOON Sunae,POTA Georgina,4,3,"12,11,11,6,5,6,11|10,8,7,11,11,11,5",R32,GRAND_SLAM,WS,1787,Main Draw,YOON Sunae (KOR),POTA Georgina (HUN)
-Brazilian Open Sao Paulo 2006,2006-06-21,KANAZAWA Saki,MOLNAR Cornelia,4,1,"11,12,11,11,14|6,10,13,5,12",R32,GRAND_SLAM,WS,1787,Main Draw,KANAZAWA Saki (JPN),MOLNAR Cornelia (CRO)
-Brazilian Open Sao Paulo 2006,2006-06-21,UMEMURA Aya,SHIM Serom,4,1,"16,11,11,8,11|14,3,7,11,5",R32,GRAND_SLAM,WS,1787,Main Draw,UMEMURA Aya (JPN),SHIM Serom (KOR)
-Brazilian Open Sao Paulo 2006,2006-06-21,FUKUOKA Haruna,HANFFOU Sarah,4,1,"14,6,11,11,12|12,11,2,8,10",R32,GRAND_SLAM,WS,1787,Main Draw,FUKUOKA Haruna (JPN),HANFFOU Sarah (CMR)
-Brazilian Open Sao Paulo 2006,2006-06-21,HIURA Reiko,PHAI PANG Laurie,4,0,"11,11,11,11|4,9,8,6",R32,GRAND_SLAM,WS,1787,Main Draw,HIURA Reiko (JPN),PHAI PANG Laurie (FRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,MOON Hyunjung,ETSUZAKI Ayumi,4,2,"11,11,11,12,9,11|7,6,1,14,11,5",R32,GRAND_SLAM,WS,1787,Main Draw,MOON Hyunjung (KOR),ETSUZAKI Ayumi (JPN)
-Brazilian Open Sao Paulo 2006,2006-06-21,GRUNDISCH Carole,YU Yunmi,4,1,"13,11,7,11,11|11,8,11,9,9",R16,GRAND_SLAM,WS,1787,Main Draw,GRUNDISCH Carole (FRA),YU Yunmi (KOR)
-Brazilian Open Sao Paulo 2006,2006-06-21,FUJII Hiroko,PARK Miyoung,4,3,"11,7,3,12,8,16,11|9,11,11,10,11,14,5",R16,GRAND_SLAM,WS,1787,Main Draw,FUJII Hiroko (JPN),PARK Miyoung (KOR)
-Brazilian Open Sao Paulo 2006,2006-06-21,STEFANOVA Nikoleta,LEE Eunsil,4,1,"11,11,5,11,13|5,9,11,7,11",R16,GRAND_SLAM,WS,1787,Main Draw,STEFANOVA Nikoleta (ITA),LEE Eunsil (KOR)
-Brazilian Open Sao Paulo 2006,2006-06-21,HIRANO Sayaka,FUJINUMA Ai,4,1,"11,11,9,11,11|7,8,11,7,8",R16,GRAND_SLAM,WS,1787,Main Draw,HIRANO Sayaka (JPN),FUJINUMA Ai (JPN)
-Brazilian Open Sao Paulo 2006,2006-06-21,LEE Eunhee,TASEI Mikie,4,3,"5,11,14,11,10,7,12|11,9,12,6,12,11,10",R16,GRAND_SLAM,WS,1787,Main Draw,LEE Eunhee (KOR),TASEI Mikie (JPN)
-Brazilian Open Sao Paulo 2006,2006-06-21,KANAZAWA Saki,YOON Sunae,4,3,"6,11,13,9,11,11,11|11,8,15,11,8,8,3",R16,GRAND_SLAM,WS,1787,Main Draw,KANAZAWA Saki (JPN),YOON Sunae (KOR)
-Brazilian Open Sao Paulo 2006,2006-06-21,FUKUOKA Haruna,UMEMURA Aya,4,3,"7,11,15,8,13,7,11|11,8,13,11,11,11,6",R16,GRAND_SLAM,WS,1787,Main Draw,FUKUOKA Haruna (JPN),UMEMURA Aya (JPN)
-Brazilian Open Sao Paulo 2006,2006-06-21,MOON Hyunjung,HIURA Reiko,4,0,"14,11,11,11|12,9,6,9",R16,GRAND_SLAM,WS,1787,Main Draw,MOON Hyunjung (KOR),HIURA Reiko (JPN)
-Brazilian Open Sao Paulo 2006,2006-06-21,FUJII Hiroko,GRUNDISCH Carole,4,2,"11,11,9,11,12,11|3,4,11,4,14,9",QF,GRAND_SLAM,WS,1787,Main Draw,FUJII Hiroko (JPN),GRUNDISCH Carole (FRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,STEFANOVA Nikoleta,HIRANO Sayaka,4,3,"11,12,3,8,7,11,11|8,10,11,11,11,9,9",QF,GRAND_SLAM,WS,1787,Main Draw,STEFANOVA Nikoleta (ITA),HIRANO Sayaka (JPN)
-Brazilian Open Sao Paulo 2006,2006-06-21,LEE Eunhee,KANAZAWA Saki,4,2,"11,11,11,12,7,11|2,6,5,14,11,9",QF,GRAND_SLAM,WS,1787,Main Draw,LEE Eunhee (KOR),KANAZAWA Saki (JPN)
-Brazilian Open Sao Paulo 2006,2006-06-21,FUKUOKA Haruna,MOON Hyunjung,4,3,"7,11,13,6,9,11,11|11,3,11,11,11,8,8",QF,GRAND_SLAM,WS,1787,Main Draw,FUKUOKA Haruna (JPN),MOON Hyunjung (KOR)
-Brazilian Open Sao Paulo 2006,2006-06-21,STEFANOVA Nikoleta,FUJII Hiroko,4,0,"12,11,11,11|10,8,9,8",SF,GRAND_SLAM,WS,1787,Main Draw,STEFANOVA Nikoleta (ITA),FUJII Hiroko (JPN)
-Brazilian Open Sao Paulo 2006,2006-06-21,FUKUOKA Haruna,LEE Eunhee,4,2,"5,11,6,15,14,11|11,9,11,13,12,6",SF,GRAND_SLAM,WS,1787,Main Draw,FUKUOKA Haruna (JPN),LEE Eunhee (KOR)
-Brazilian Open Sao Paulo 2006,2006-06-21,FUKUOKA Haruna,STEFANOVA Nikoleta,4,2,"8,7,11,11,11,11|11,11,5,8,6,7",F,GRAND_SLAM,WS,1787,Main Draw,FUKUOKA Haruna (JPN),STEFANOVA Nikoleta (ITA)
-Brazilian Open Sao Paulo 2006,2006-06-21,PHAI PANG Laurie,MARANHAO Valesca,4,0,"11,11,11,11|9,5,8,4",,GRAND_SLAM,WS,1787,Qualification,PHAI PANG Laurie (FRA),MARANHAO Valesca (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,RODRIGUEZ Berta,MARANHAO Valesca,4,0,"11,13,11,11|7,11,9,9",QR2,GRAND_SLAM,WS,1787,Qualification,RODRIGUEZ Berta (CHI),MARANHAO Valesca (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,PHAI PANG Laurie,RODRIGUEZ Berta,4,3,"9,9,11,9,11,11,11|11,11,4,11,9,7,6",3,GRAND_SLAM,WS,1787,Qualification,PHAI PANG Laurie (FRA),RODRIGUEZ Berta (CHI)
-Brazilian Open Sao Paulo 2006,2006-06-21,LEE Eunhee,NONAKA Mariany,4,0,"11,11,11,11|8,5,4,9",R16,GRAND_SLAM,U21WS,1787,Main Draw,LEE Eunhee (KOR),NONAKA Mariany (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,MURASHIGE Carina,CREEMERS Linda,4,3,"11,6,3,15,5,11,11|7,11,11,13,11,2,8",R16,GRAND_SLAM,U21WS,1787,Main Draw,MURASHIGE Carina (BRA),CREEMERS Linda (NED)
-Brazilian Open Sao Paulo 2006,2006-06-21,HANFFOU Sarah,SHIM Serom,4,1,"7,11,14,11,11|11,9,12,2,9",R16,GRAND_SLAM,U21WS,1787,Main Draw,HANFFOU Sarah (CMR),SHIM Serom (KOR)
-Brazilian Open Sao Paulo 2006,2006-06-21,YU Yunmi,RAMIREZ Sara,4,2,"11,11,11,10,10,11|5,6,8,12,12,8",R16,GRAND_SLAM,U21WS,1787,Main Draw,YU Yunmi (KOR),RAMIREZ Sara (ESP)
-Brazilian Open Sao Paulo 2006,2006-06-21,GRUNDISCH Carole,NOUWEN Carla,4,2,"6,9,11,11,11,11|11,11,7,7,4,3",R16,GRAND_SLAM,U21WS,1787,Main Draw,GRUNDISCH Carole (FRA),NOUWEN Carla (NED)
-Brazilian Open Sao Paulo 2006,2006-06-21,ZHANG Mo,SAKO Karin,4,1,"11,11,11,9,11|6,5,3,11,7",R16,GRAND_SLAM,U21WS,1787,Main Draw,ZHANG Mo (CAN),SAKO Karin (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,PHAI PANG Laurie,YUEN Sara,4,2,"8,11,11,11,11,11|11,7,9,13,7,7",R16,GRAND_SLAM,U21WS,1787,Main Draw,PHAI PANG Laurie (FRA),YUEN Sara (CAN)
-Brazilian Open Sao Paulo 2006,2006-06-21,POTA Georgina,COULIBALY Dieniouma,4,0,"11,11,11,11|8,9,8,5",R16,GRAND_SLAM,U21WS,1787,Main Draw,POTA Georgina (HUN),COULIBALY Dieniouma (FRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,LEE Eunhee,MURASHIGE Carina,4,0,"11,11,11,11|5,5,7,6",QF,GRAND_SLAM,U21WS,1787,Main Draw,LEE Eunhee (KOR),MURASHIGE Carina (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,HANFFOU Sarah,YU Yunmi,4,1,"11,11,8,11,11|8,8,11,5,8",QF,GRAND_SLAM,U21WS,1787,Main Draw,HANFFOU Sarah (CMR),YU Yunmi (KOR)
-Brazilian Open Sao Paulo 2006,2006-06-21,GRUNDISCH Carole,ZHANG Mo,4,3,"11,11,11,9,11,7,11|7,13,9,11,5,11,4",QF,GRAND_SLAM,U21WS,1787,Main Draw,GRUNDISCH Carole (FRA),ZHANG Mo (CAN)
-Brazilian Open Sao Paulo 2006,2006-06-21,POTA Georgina,PHAI PANG Laurie,4,1,"4,11,11,13,11|11,7,3,11,8",QF,GRAND_SLAM,U21WS,1787,Main Draw,POTA Georgina (HUN),PHAI PANG Laurie (FRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,LEE Eunhee,HANFFOU Sarah,4,0,"11,11,11,11|7,1,3,5",SF,GRAND_SLAM,U21WS,1787,Main Draw,LEE Eunhee (KOR),HANFFOU Sarah (CMR)
-Brazilian Open Sao Paulo 2006,2006-06-21,POTA Georgina,GRUNDISCH Carole,4,3,"11,11,9,15,16,8,15|6,4,11,13,18,11,13",SF,GRAND_SLAM,U21WS,1787,Main Draw,POTA Georgina (HUN),GRUNDISCH Carole (FRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,LEE Eunhee,POTA Georgina,4,2,"10,13,11,11,9,11|12,11,7,9,11,9",F,GRAND_SLAM,U21WS,1787,Main Draw,LEE Eunhee (KOR),POTA Georgina (HUN)
-Brazilian Open Sao Paulo 2006,2006-06-21,RABONI Patricia,ROJAS Karen,3,0,"11,11,15|6,2,13",,GRAND_SLAM,U21WS,1787,Qualification,RABONI Patricia (BRA),ROJAS Karen (CHI)
-Brazilian Open Sao Paulo 2006,2006-06-21,HANFFOU Sarah,ROJAS Karen,3,0,"11,11,11|3,7,2",QR2,GRAND_SLAM,U21WS,1787,Qualification,HANFFOU Sarah (CMR),ROJAS Karen (CHI)
-Brazilian Open Sao Paulo 2006,2006-06-21,HANFFOU Sarah,RABONI Patricia,3,0,"11,11,11|2,4,7",3,GRAND_SLAM,U21WS,1787,Qualification,HANFFOU Sarah (CMR),RABONI Patricia (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,YAMADA Jessica,CODINA Ana,3,2,"11,11,8,11,11|13,2,11,6,4",,GRAND_SLAM,U21WS,1787,Qualification,YAMADA Jessica (BRA),CODINA Ana (ARG)
-Brazilian Open Sao Paulo 2006,2006-06-21,NOUWEN Carla,CODINA Ana,3,0,"11,11,11|3,5,2",QR2,GRAND_SLAM,U21WS,1787,Qualification,NOUWEN Carla (NED),CODINA Ana (ARG)
-Brazilian Open Sao Paulo 2006,2006-06-21,NOUWEN Carla,YAMADA Jessica,3,0,"11,11,11|7,5,9",3,GRAND_SLAM,U21WS,1787,Qualification,NOUWEN Carla (NED),YAMADA Jessica (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,YU Yunmi,RANZEIRO Maira,3,0,"11,11,11|9,5,3",,GRAND_SLAM,U21WS,1787,Qualification,YU Yunmi (KOR),RANZEIRO Maira (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,SKOV Mie,RANZEIRO Maira,3,0,"11,12,11|7,10,9",3,GRAND_SLAM,U21WS,1787,Qualification,SKOV Mie (DEN),RANZEIRO Maira (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,YUEN Stephanie,GAVILAN Sandy,3,2,"11,9,12,11,13|8,11,14,7,11",,GRAND_SLAM,U21WS,1787,Qualification,YUEN Stephanie (CAN),GAVILAN Sandy (PAR)
-Brazilian Open Sao Paulo 2006,2006-06-21,NONAKA Mariany,YUEN Stephanie,3,0,"11,17,11|7,15,9",3,GRAND_SLAM,U21WS,1787,Qualification,NONAKA Mariany (BRA),YUEN Stephanie (CAN)
-Brazilian Open Sao Paulo 2006,2006-06-21,CASTELLANO Natalia,KOCK Gabriela,3,2,"7,6,13,11,12|11,11,11,4,10",,GRAND_SLAM,U21WS,1787,Qualification,CASTELLANO Natalia (CHI),KOCK Gabriela (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,YUEN Sara,KOCK Gabriela,3,1,"11,11,12,12|2,7,14,10",QR2,GRAND_SLAM,U21WS,1787,Qualification,YUEN Sara (CAN),KOCK Gabriela (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,YUEN Sara,CASTELLANO Natalia,3,1,"11,9,11,11|4,11,5,5",3,GRAND_SLAM,U21WS,1787,Qualification,YUEN Sara (CAN),CASTELLANO Natalia (CHI)
-Brazilian Open Sao Paulo 2006,2006-06-21,IKEIZUMI Claudia,OVELAR Lucero,3,0,"11,11,11|2,6,5",,GRAND_SLAM,U21WS,1787,Qualification,IKEIZUMI Claudia (BRA),OVELAR Lucero (PAR)
-Brazilian Open Sao Paulo 2006,2006-06-21,COULIBALY Dieniouma,OVELAR Lucero,3,0,"11,11,11|3,5,3",QR2,GRAND_SLAM,U21WS,1787,Qualification,COULIBALY Dieniouma (FRA),OVELAR Lucero (PAR)
-Brazilian Open Sao Paulo 2006,2006-06-21,COULIBALY Dieniouma,IKEIZUMI Claudia,3,0,"11,11,13|9,8,11",3,GRAND_SLAM,U21WS,1787,Qualification,COULIBALY Dieniouma (FRA),IKEIZUMI Claudia (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,FUKUSHIMA Karin,MURASHIGE Carina,3,2,"8,3,13,11,11|11,11,11,9,5",,GRAND_SLAM,U21WS,1787,Qualification,FUKUSHIMA Karin (BRA),MURASHIGE Carina (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,CHIU Wennin,FUKUSHIMA Karin,3,2,"11,11,6,13,17|4,5,11,15,15",QR2,GRAND_SLAM,U21WS,1787,Qualification,CHIU Wennin (CAN),FUKUSHIMA Karin (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,MURASHIGE Carina,CHIU Wennin,3,1,"8,12,11,11|11,10,3,8",3,GRAND_SLAM,U21WS,1787,Qualification,MURASHIGE Carina (BRA),CHIU Wennin (CAN)
-Brazilian Open Sao Paulo 2006,2006-06-21,SAKO Karin,SOAVE Isabela,3,0,"13,11,11|11,8,6",,GRAND_SLAM,U21WS,1787,Qualification,SAKO Karin (BRA),SOAVE Isabela (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,SOAVE Isabela,PAUL Mousumi,4,0,,QR2,GRAND_SLAM,U21WS,1787,Qualification,SOAVE Isabela (BRA),PAUL Mousumi (IND)
-Brazilian Open Sao Paulo 2006,2006-06-21,SAKO Karin,PAUL Mousumi,3,0,,3,GRAND_SLAM,U21WS,1787,Qualification,SAKO Karin (BRA),PAUL Mousumi (IND)
-Brazilian Open Sao Paulo 2006,2006-06-21,KOJIMA Ricardo/MANCINI Eric,GRECO Juan/MOAVRO Sebastian,3,0,"11,11,11|1,8,2",QR16,GRAND_SLAM,MD,1787,Qualification,KOJIMA Ricardo (BRA) / MANCINI Eric (BRA),GRECO Juan (ARG) / MOAVRO Sebastian (ARG)
-Brazilian Open Sao Paulo 2006,2006-06-21,CLOSSET Marc/DELOBBE Damien,MANHANI Humberto/WIEST Renan,3,0,"11,11,11|3,8,5",QR32,GRAND_SLAM,MD,1787,Qualification,CLOSSET Marc (BEL) / DELOBBE Damien (BEL),MANHANI Humberto (BRA) / WIEST Renan (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,PAZSY Ferenc/TOKIC Bojan,CLOSSET Marc/DELOBBE Damien,3,1,"11,9,11,11|7,11,7,5",QR16,GRAND_SLAM,MD,1787,Qualification,PAZSY Ferenc (HUN) / TOKIC Bojan (SLO),CLOSSET Marc (BEL) / DELOBBE Damien (BEL)
-Brazilian Open Sao Paulo 2006,2006-06-21,HOYAMA Hugo/MONTEIRO Thiago,CHO Eonrae/CHO Jihoon,4,3,"11,11,11,6,5,3,12|4,6,8,11,11,11,10",R16,GRAND_SLAM,MD,1787,Main Draw,HOYAMA Hugo (BRA) / MONTEIRO Thiago (BRA),CHO Eonrae (KOR) / CHO Jihoon (KOR)
-Brazilian Open Sao Paulo 2006,2006-06-21,MATSUMOTO Cazuo/TSUBOI Gustavo,CARNEROS Alfredo/DURAN Marc,4,0,,R16,GRAND_SLAM,MD,1787,Main Draw,MATSUMOTO Cazuo (BRA) / TSUBOI Gustavo (BRA),CARNEROS Alfredo (ESP) / DURAN Marc (ESP)
-Brazilian Open Sao Paulo 2006,2006-06-21,HOYAMA Hugo/MONTEIRO Thiago,MATSUMOTO Cazuo/TSUBOI Gustavo,4,3,"11,11,2,11,4,7,11|8,4,11,8,11,11,3",QF,GRAND_SLAM,MD,1787,Main Draw,HOYAMA Hugo (BRA) / MONTEIRO Thiago (BRA),MATSUMOTO Cazuo (BRA) / TSUBOI Gustavo (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,ALTO Gaston/TEMPERLEY Diego,BISSACO Manoel/CORSINI Marcelo,3,2,"7,11,9,12,11|11,7,11,10,2",QR32,GRAND_SLAM,MD,1787,Qualification,ALTO Gaston (ARG) / TEMPERLEY Diego (ARG),BISSACO Manoel (BRA) / CORSINI Marcelo (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,LIU Song/TABACHNIK Pablo,VENTURA DOS ANJOS Bruno/CASTRO Lidney,3,0,"11,11,11|4,9,7",QR32,GRAND_SLAM,MD,1787,Qualification,LIU Song (ARG) / TABACHNIK Pablo (ARG),VENTURA DOS ANJOS Bruno (BRA) / CASTRO Lidney (USA)
-Brazilian Open Sao Paulo 2006,2006-06-21,TAKAKIWA Kenichi/YOSHIDA Kaii,SILVA Daniel/SILVA NETO Olimpio Gomes,3,0,"11,11,11|5,2,6",QR32,GRAND_SLAM,MD,1787,Qualification,TAKAKIWA Kenichi (JPN) / YOSHIDA Kaii (JPN),SILVA Daniel (BRA) / SILVA NETO Olimpio Gomes (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,OLEA Carlos/LEVIS Bruno,GALLINDO Ivo/SILVA Lucas,3,0,,QR32,GRAND_SLAM,MD,1787,Qualification,OLEA Carlos (CHI) / LEVIS Bruno (CHI),GALLINDO Ivo (BRA) / SILVA Lucas (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,MACHADO Carlos/SAHA Subhajit,BARBOSA Jose/COSTA Daniel,3,0,"11,11,11|4,6,7",QR32,GRAND_SLAM,MD,1787,Qualification,MACHADO Carlos (ESP) / SAHA Subhajit (IND),BARBOSA Jose (BRA) / COSTA Daniel (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,MATSUMOTO Cazuo/TSUBOI Gustavo,HINSE Pierre-Luc/THERIEN Xavier,3,1,"11,9,11,11|8,11,7,7",QR32,GRAND_SLAM,MD,1787,Qualification,MATSUMOTO Cazuo (BRA) / TSUBOI Gustavo (BRA),HINSE Pierre-Luc (CAN) / THERIEN Xavier (CAN)
-Brazilian Open Sao Paulo 2006,2006-06-21,MATSUMOTO Cazuo/TSUBOI Gustavo,KONECNY Tomas/VOZICKY Bohumil,3,1,"11,11,7,11|8,8,11,6",QR16,GRAND_SLAM,MD,1787,Qualification,MATSUMOTO Cazuo (BRA) / TSUBOI Gustavo (BRA),KONECNY Tomas (CZE) / VOZICKY Bohumil (CZE)
-Brazilian Open Sao Paulo 2006,2006-06-21,SHEN Qiang/ZHANG Wilson,GAVILAN Oscar/UBILLA Nicolas,3,0,"11,11,11|3,3,3",QR32,GRAND_SLAM,MD,1787,Qualification,SHEN Qiang (CAN) / ZHANG Wilson (CAN),GAVILAN Oscar (PAR) / UBILLA Nicolas (CHI)
-Brazilian Open Sao Paulo 2006,2006-06-21,SHEN Qiang/ZHANG Wilson,LIU Song/TABACHNIK Pablo,3,0,"11,13,11|4,11,9",QR16,GRAND_SLAM,MD,1787,Qualification,SHEN Qiang (CAN) / ZHANG Wilson (CAN),LIU Song (ARG) / TABACHNIK Pablo (ARG)
-Brazilian Open Sao Paulo 2006,2006-06-21,CROTTI Mattia/TOMASI Stefano,KONGSGAARD Christian/PETERSEN Christoffer,3,2,"12,3,11,13,11|14,11,5,11,4",QR32,GRAND_SLAM,MD,1787,Qualification,CROTTI Mattia (ITA) / TOMASI Stefano (ITA),KONGSGAARD Christian (DEN) / PETERSEN Christoffer (DEN)
-Brazilian Open Sao Paulo 2006,2006-06-21,TAKAKIWA Kenichi/YOSHIDA Kaii,BERTIN Christophe/LEBESSON Emmanuel,4,2,"11,11,11,8,9,11|9,5,8,11,11,3",R16,GRAND_SLAM,MD,1787,Main Draw,TAKAKIWA Kenichi (JPN) / YOSHIDA Kaii (JPN),BERTIN Christophe (FRA) / LEBESSON Emmanuel (FRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,KONECNY Tomas/VOZICKY Bohumil,MOLNAR Csaba/ZOMBORI David,3,1,"11,9,11,11|2,11,5,9",QR32,GRAND_SLAM,MD,1787,Qualification,KONECNY Tomas (CZE) / VOZICKY Bohumil (CZE),MOLNAR Csaba (HUN) / ZOMBORI David (HUN)
-Brazilian Open Sao Paulo 2006,2006-06-21,JAKAB Janos/ZWICKL Daniel,MACHADO Carlos/SAHA Subhajit,4,0,"11,11,11,11|7,7,6,8",R16,GRAND_SLAM,MD,1787,Main Draw,JAKAB Janos (HUN) / ZWICKL Daniel (HUN),MACHADO Carlos (ESP) / SAHA Subhajit (IND)
-Brazilian Open Sao Paulo 2006,2006-06-21,ACHANTA Sharath/ROY Soumyadeep,BARRETO Israel/SOUZA Diego,3,1,"11,7,15,11|9,11,13,7",QR32,GRAND_SLAM,MD,1787,Qualification,ACHANTA Sharath (IND) / ROY Soumyadeep (IND),BARRETO Israel (BRA) / SOUZA Diego (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,TAKAKIWA Kenichi/YOSHIDA Kaii,ACHANTA Sharath/ROY Soumyadeep,3,0,"11,11,11|5,5,8",QR16,GRAND_SLAM,MD,1787,Qualification,TAKAKIWA Kenichi (JPN) / YOSHIDA Kaii (JPN),ACHANTA Sharath (IND) / ROY Soumyadeep (IND)
-Brazilian Open Sao Paulo 2006,2006-06-21,GRECO Juan/MOAVRO Sebastian,DIDUKH Oleksandr/MONDELLO Massimiliano,3,0,,QR32,GRAND_SLAM,MD,1787,Qualification,GRECO Juan (ARG) / MOAVRO Sebastian (ARG),DIDUKH Oleksandr (UKR) / MONDELLO Massimiliano (ITA)
-Brazilian Open Sao Paulo 2006,2006-06-21,MACHADO Carlos/SAHA Subhajit,CROTTI Mattia/TOMASI Stefano,3,1,"11,11,8,11|6,6,11,2",QR16,GRAND_SLAM,MD,1787,Qualification,MACHADO Carlos (ESP) / SAHA Subhajit (IND),CROTTI Mattia (ITA) / TOMASI Stefano (ITA)
-Brazilian Open Sao Paulo 2006,2006-06-21,TAKAKIWA Kenichi/YOSHIDA Kaii,JAKAB Janos/ZWICKL Daniel,4,3,"11,9,9,5,11,13,11|7,11,11,11,6,11,7",QF,GRAND_SLAM,MD,1787,Main Draw,TAKAKIWA Kenichi (JPN) / YOSHIDA Kaii (JPN),JAKAB Janos (HUN) / ZWICKL Daniel (HUN)
-Brazilian Open Sao Paulo 2006,2006-06-21,APOLONIA Tiago/MONTEIRO Joao,TAKAKIWA Kenichi/YOSHIDA Kaii,4,2,"11,11,5,11,11,11|8,13,11,5,9,4",SF,GRAND_SLAM,MD,1787,Main Draw,APOLONIA Tiago (POR) / MONTEIRO Joao (POR),TAKAKIWA Kenichi (JPN) / YOSHIDA Kaii (JPN)
-Brazilian Open Sao Paulo 2006,2006-06-21,KIM Taehoon/LEE Jinkwon,SHEN Qiang/ZHANG Wilson,4,1,"11,11,11,7,11|7,8,8,11,4",R16,GRAND_SLAM,MD,1787,Main Draw,KIM Taehoon (KOR) / LEE Jinkwon (KOR),SHEN Qiang (CAN) / ZHANG Wilson (CAN)
-Brazilian Open Sao Paulo 2006,2006-06-21,KIM Taehoon/LEE Jinkwon,PAZSY Ferenc/TOKIC Bojan,4,1,"11,11,6,12,11|7,9,11,10,8",QF,GRAND_SLAM,MD,1787,Main Draw,KIM Taehoon (KOR) / LEE Jinkwon (KOR),PAZSY Ferenc (HUN) / TOKIC Bojan (SLO)
-Brazilian Open Sao Paulo 2006,2006-06-21,KIM Taehoon/LEE Jinkwon,HOYAMA Hugo/MONTEIRO Thiago,4,0,"11,11,12,11|6,6,10,7",SF,GRAND_SLAM,MD,1787,Main Draw,KIM Taehoon (KOR) / LEE Jinkwon (KOR),HOYAMA Hugo (BRA) / MONTEIRO Thiago (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,APOLONIA Tiago/MONTEIRO Joao,KIM Taehoon/LEE Jinkwon,4,1,"11,11,11,6,11|6,3,8,11,5",F,GRAND_SLAM,MD,1787,Main Draw,APOLONIA Tiago (POR) / MONTEIRO Joao (POR),KIM Taehoon (KOR) / LEE Jinkwon (KOR)
-Brazilian Open Sao Paulo 2006,2006-06-21,CHO Eonrae/CHO Jihoon,ALTO Gaston/TEMPERLEY Diego,3,0,"11,11,11|8,6,4",QR16,GRAND_SLAM,MD,1787,Qualification,CHO Eonrae (KOR) / CHO Jihoon (KOR),ALTO Gaston (ARG) / TEMPERLEY Diego (ARG)
-Brazilian Open Sao Paulo 2006,2006-06-21,KOJIMA Ricardo/MANCINI Eric,AGUIRRE Marcelo/MIERES Juan Manuel,3,2,"11,8,11,8,11|4,11,8,11,9",QR32,GRAND_SLAM,MD,1787,Qualification,KOJIMA Ricardo (BRA) / MANCINI Eric (BRA),AGUIRRE Marcelo (PAR) / MIERES Juan Manuel (PAR)
-Brazilian Open Sao Paulo 2006,2006-06-21,APOLONIA Tiago/MONTEIRO Joao,DESPRES Rodolphe/LEGOUT Christophe,4,2,"9,8,11,11,11,14|11,11,5,7,7,12",R16,GRAND_SLAM,MD,1787,Main Draw,APOLONIA Tiago (POR) / MONTEIRO Joao (POR),DESPRES Rodolphe (FRA) / LEGOUT Christophe (FRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,APOLONIA Tiago/MONTEIRO Joao,OLEA Carlos/LEVIS Bruno,3,1,"11,11,10,11|8,5,12,7",QR16,GRAND_SLAM,MD,1787,Qualification,APOLONIA Tiago (POR) / MONTEIRO Joao (POR),OLEA Carlos (CHI) / LEVIS Bruno (CHI)
-Brazilian Open Sao Paulo 2006,2006-06-21,PAZSY Ferenc/TOKIC Bojan,MAECK Anthony/VOSTES Yannick,4,1,"8,11,12,11,11|11,8,10,8,7",R16,GRAND_SLAM,MD,1787,Main Draw,PAZSY Ferenc (HUN) / TOKIC Bojan (SLO),MAECK Anthony (BEL) / VOSTES Yannick (BEL)
-Brazilian Open Sao Paulo 2006,2006-06-21,PISTEJ Lubomir/SEREDA Peter,KOJIMA Ricardo/MANCINI Eric,4,2,"11,9,11,7,15,11|3,11,6,11,13,9",R16,GRAND_SLAM,MD,1787,Main Draw,PISTEJ Lubomir (SVK) / SEREDA Peter (SVK),KOJIMA Ricardo (BRA) / MANCINI Eric (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,APOLONIA Tiago/MONTEIRO Joao,PISTEJ Lubomir/SEREDA Peter,4,0,"11,11,11,11|8,3,6,9",QF,GRAND_SLAM,MD,1787,Main Draw,APOLONIA Tiago (POR) / MONTEIRO Joao (POR),PISTEJ Lubomir (SVK) / SEREDA Peter (SVK)
-Brazilian Open Sao Paulo 2006,2006-06-21,MURASHIGE Carina/YAMADA Jessica,GAVILAN Sandy/OVELAR Lucero,3,1,"11,11,9,11|4,3,11,7",QR32,GRAND_SLAM,WD,1787,Qualification,MURASHIGE Carina (BRA) / YAMADA Jessica (BRA),GAVILAN Sandy (PAR) / OVELAR Lucero (PAR)
-Brazilian Open Sao Paulo 2006,2006-06-21,YOON Suwon/YU Yunmi,MARANHAO Valesca/RABONI Patricia,3,1,"12,10,11,11|10,12,8,6",QR32,GRAND_SLAM,WD,1787,Qualification,YOON Suwon (KOR) / YU Yunmi (KOR),MARANHAO Valesca (BRA) / RABONI Patricia (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,EKHOLM Matilda/RAMIREZ Sara,MURASHIGE Carina/YAMADA Jessica,3,1,"2,11,11,11|11,1,7,6",QR16,GRAND_SLAM,WD,1787,Qualification,EKHOLM Matilda (SWE) / RAMIREZ Sara (ESP),MURASHIGE Carina (BRA) / YAMADA Jessica (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,FUJINUMA Ai/HIRANO Sayaka,CHIU Wennin/YUEN Sara,4,1,"11,11,11,8,11|4,6,9,11,5",R16,GRAND_SLAM,WD,1787,Main Draw,FUJINUMA Ai (JPN) / HIRANO Sayaka (JPN),CHIU Wennin (CAN) / YUEN Sara (CAN)
-Brazilian Open Sao Paulo 2006,2006-06-21,CHIU Wennin/YUEN Sara,FUKUSHIMA Karin/SOAVE Isabela,3,1,"11,11,9,11|7,5,11,7",QR32,GRAND_SLAM,WD,1787,Qualification,CHIU Wennin (CAN) / YUEN Sara (CAN),FUKUSHIMA Karin (BRA) / SOAVE Isabela (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,PAULIN Nancy/YUEN Stephanie,KOCK Gabriela/RANZEIRO Maira,3,1,"11,11,5,11|9,9,11,7",QR16,GRAND_SLAM,WD,1787,Qualification,PAULIN Nancy (CAN) / YUEN Stephanie (CAN),KOCK Gabriela (BRA) / RANZEIRO Maira (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,CHIU Wennin/YUEN Sara,GRUNDISCH Carole/PHAI PANG Laurie,3,1,"11,7,11,11|6,11,2,3",QR16,GRAND_SLAM,WD,1787,Qualification,CHIU Wennin (CAN) / YUEN Sara (CAN),GRUNDISCH Carole (FRA) / PHAI PANG Laurie (FRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,PAULIN Nancy/YUEN Stephanie,CERON Ximena/RODRIGUEZ Berta,3,2,"11,11,9,5,11|6,5,11,11,9",QR32,GRAND_SLAM,WD,1787,Qualification,PAULIN Nancy (CAN) / YUEN Stephanie (CAN),CERON Ximena (CHI) / RODRIGUEZ Berta (CHI)
-Brazilian Open Sao Paulo 2006,2006-06-21,CHAKRABORTY Kasturi/GHATAK Poulomi,CASTELLANO Natalia/ROJAS Karen,3,1,"11,11,11,12|13,6,9,10",QR32,GRAND_SLAM,WD,1787,Qualification,CHAKRABORTY Kasturi (IND) / GHATAK Poulomi (IND),CASTELLANO Natalia (CHI) / ROJAS Karen (CHI)
-Brazilian Open Sao Paulo 2006,2006-06-21,SKOV Mie/WANG Yu (YOB=1981),COULIBALY Dieniouma/HANFFOU Sarah,3,0,"11,11,11|8,3,8",QR16,GRAND_SLAM,WD,1787,Qualification,SKOV Mie (DEN) / WANG Yu (YOB=1981) (ITA),COULIBALY Dieniouma (FRA) / HANFFOU Sarah (CMR)
-Brazilian Open Sao Paulo 2006,2006-06-21,PAOVIC Sandra/MOLNAR Cornelia,PAULIN Nancy/YUEN Stephanie,4,1,"11,11,9,11,11|8,6,11,8,6",R16,GRAND_SLAM,WD,1787,Main Draw,PAOVIC Sandra (CRO) / MOLNAR Cornelia (CRO),PAULIN Nancy (CAN) / YUEN Stephanie (CAN)
-Brazilian Open Sao Paulo 2006,2006-06-21,FUKUOKA Haruna/TASEI Mikie,PAOVIC Sandra/MOLNAR Cornelia,4,0,"11,11,11,11|9,8,6,7",QF,GRAND_SLAM,WD,1787,Main Draw,FUKUOKA Haruna (JPN) / TASEI Mikie (JPN),PAOVIC Sandra (CRO) / MOLNAR Cornelia (CRO)
-Brazilian Open Sao Paulo 2006,2006-06-21,STEFANOVA Nikoleta/TAN Wenling,EKHOLM Matilda/RAMIREZ Sara,4,1,"5,13,11,14,11|11,11,5,12,4",R16,GRAND_SLAM,WD,1787,Main Draw,STEFANOVA Nikoleta (ITA) / TAN Wenling (ITA),EKHOLM Matilda (SWE) / RAMIREZ Sara (ESP)
-Brazilian Open Sao Paulo 2006,2006-06-21,HIURA Reiko/KONISHI An,POTA Georgina/LANG Kristin,4,0,"11,11,11,11|7,4,4,8",R16,GRAND_SLAM,WD,1787,Main Draw,HIURA Reiko (JPN) / KONISHI An (JPN),POTA Georgina (HUN) / LANG Kristin (GER)
-Brazilian Open Sao Paulo 2006,2006-06-21,SKOV Mie/WANG Yu (YOB=1981),IKEIZUMI Claudia/SAKO Karin,3,1,"12,6,11,11|10,11,9,8",QR32,GRAND_SLAM,WD,1787,Qualification,SKOV Mie (DEN) / WANG Yu (YOB=1981) (ITA),IKEIZUMI Claudia (BRA) / SAKO Karin (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,PARK Miyoung/YOON Sunae,KISHIDA Satoko/UMEMURA Aya,4,0,"11,11,11,11|8,7,4,8",R16,GRAND_SLAM,WD,1787,Main Draw,PARK Miyoung (KOR) / YOON Sunae (KOR),KISHIDA Satoko (JPN) / UMEMURA Aya (JPN)
-Brazilian Open Sao Paulo 2006,2006-06-21,FUKUOKA Haruna/TASEI Mikie,NONAKA Mariany/SILVA Ligia,4,0,"11,11,11,11|3,6,6,3",R16,GRAND_SLAM,WD,1787,Main Draw,FUKUOKA Haruna (JPN) / TASEI Mikie (JPN),NONAKA Mariany (BRA) / SILVA Ligia (BRA)
-Brazilian Open Sao Paulo 2006,2006-06-21,FUJII Hiroko/KANAZAWA Saki,LEE Eunhee/SHIM Serom,4,2,"11,8,11,6,11,11|4,11,8,11,5,9",R16,GRAND_SLAM,WD,1787,Main Draw,FUJII Hiroko (JPN) / KANAZAWA Saki (JPN),LEE Eunhee (KOR) / SHIM Serom (KOR)
-Brazilian Open Sao Paulo 2006,2006-06-21,PARK Miyoung/YOON Sunae,HIURA Reiko/KONISHI An,4,0,"12,12,11,11|10,10,9,6",QF,GRAND_SLAM,WD,1787,Main Draw,PARK Miyoung (KOR) / YOON Sunae (KOR),HIURA Reiko (JPN) / KONISHI An (JPN)
-Brazilian Open Sao Paulo 2006,2006-06-21,FUJINUMA Ai/HIRANO Sayaka,FUJII Hiroko/KANAZAWA Saki,4,3,"11,5,7,11,11,8,11|6,11,11,6,6,11,8",QF,GRAND_SLAM,WD,1787,Main Draw,FUJINUMA Ai (JPN) / HIRANO Sayaka (JPN),FUJII Hiroko (JPN) / KANAZAWA Saki (JPN)
-Brazilian Open Sao Paulo 2006,2006-06-21,FUJINUMA Ai/HIRANO Sayaka,FUKUOKA Haruna/TASEI Mikie,4,1,"15,9,13,11,11|13,11,11,8,8",SF,GRAND_SLAM,WD,1787,Main Draw,FUJINUMA Ai (JPN) / HIRANO Sayaka (JPN),FUKUOKA Haruna (JPN) / TASEI Mikie (JPN)
-Brazilian Open Sao Paulo 2006,2006-06-21,KISHIDA Satoko/UMEMURA Aya,LONG Judy (Zhu)/ZHANG Mo,3,1,"11,8,11,14|5,11,6,12",QR16,GRAND_SLAM,WD,1787,Qualification,KISHIDA Satoko (JPN) / UMEMURA Aya (JPN),LONG Judy (Zhu) (CAN) / ZHANG Mo (CAN)
-Brazilian Open Sao Paulo 2006,2006-06-21,FUKUOKA Haruna/TASEI Mikie,CHAKRABORTY Kasturi/GHATAK Poulomi,3,0,"11,11,12|2,7,10",QR16,GRAND_SLAM,WD,1787,Qualification,FUKUOKA Haruna (JPN) / TASEI Mikie (JPN),CHAKRABORTY Kasturi (IND) / GHATAK Poulomi (IND)
-Brazilian Open Sao Paulo 2006,2006-06-21,LEE Eunsil/MOON Hyunjung,SKOV Mie/WANG Yu (YOB=1981),4,1,"8,11,11,11,11|11,6,3,8,5",R16,GRAND_SLAM,WD,1787,Main Draw,LEE Eunsil (KOR) / MOON Hyunjung (KOR),SKOV Mie (DEN) / WANG Yu (YOB=1981) (ITA)
-Brazilian Open Sao Paulo 2006,2006-06-21,LEE Eunsil/MOON Hyunjung,STEFANOVA Nikoleta/TAN Wenling,4,2,"11,11,9,8,11,12|9,5,11,11,6,10",QF,GRAND_SLAM,WD,1787,Main Draw,LEE Eunsil (KOR) / MOON Hyunjung (KOR),STEFANOVA Nikoleta (ITA) / TAN Wenling (ITA)
-Brazilian Open Sao Paulo 2006,2006-06-21,LEE Eunsil/MOON Hyunjung,PARK Miyoung/YOON Sunae,4,2,"13,11,11,11,10,11|15,8,8,9,12,5",SF,GRAND_SLAM,WD,1787,Main Draw,LEE Eunsil (KOR) / MOON Hyunjung (KOR),PARK Miyoung (KOR) / YOON Sunae (KOR)
-Brazilian Open Sao Paulo 2006,2006-06-21,LEE Eunsil/MOON Hyunjung,FUJINUMA Ai/HIRANO Sayaka,4,3,"9,7,8,11,18,11,11|11,11,11,4,16,7,8",F,GRAND_SLAM,WD,1787,Main Draw,LEE Eunsil (KOR) / MOON Hyunjung (KOR),FUJINUMA Ai (JPN) / HIRANO Sayaka (JPN)
-Brazilian Open Sao Paulo 2006,2006-06-21,LEE Eunhee/SHIM Serom,ETSUZAKI Ayumi/CODINA Ana,3,1,"6,11,11,11|11,2,4,6",QR16,GRAND_SLAM,WD,1787,Qualification,LEE Eunhee (KOR) / SHIM Serom (KOR),ETSUZAKI Ayumi (JPN) / CODINA Ana (ARG)
-Brazilian Open Sao Paulo 2006,2006-06-21,HIURA Reiko/KONISHI An,YOON Suwon/YU Yunmi,3,1,"3,11,11,11|11,7,7,6",QR16,GRAND_SLAM,WD,1787,Qualification,HIURA Reiko (JPN) / KONISHI An (JPN),YOON Suwon (KOR) / YU Yunmi (KOR)
-Brazilian Open Sao Paulo 2006,2006-06-21,LONG Judy (Zhu)/ZHANG Mo,CREEMERS Linda/NOUWEN Carla,3,0,"11,11,11|8,5,7",QR32,GRAND_SLAM,WD,1787,Qualification,LONG Judy (Zhu) (CAN) / ZHANG Mo (CAN),CREEMERS Linda (NED) / NOUWEN Carla (NED)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Brazilian Open Sao Paulo 2006,2006-06-21,OLEA Carlos,THERIEN Xavier,4,0,"11,12,12,11|9,10,10,9",,GRAND_SLAM,MS,1787,Qualification,OLEA Carlos (CHI),THERIEN Xavier (CAN),OLEA Carlos
+Brazilian Open Sao Paulo 2006,2006-06-21,LEE Jinkwon,OLEA Carlos,4,0,"11,11,11,14|5,9,4,12",QR2,GRAND_SLAM,MS,1787,Qualification,LEE Jinkwon (KOR),OLEA Carlos (CHI),LEE Jinkwon
+Brazilian Open Sao Paulo 2006,2006-06-21,LEE Jinkwon,THERIEN Xavier,4,1,"11,11,6,15,11|7,6,11,13,8",3,GRAND_SLAM,MS,1787,Qualification,LEE Jinkwon (KOR),THERIEN Xavier (CAN),LEE Jinkwon
+Brazilian Open Sao Paulo 2006,2006-06-21,CASTRO Lidney,SHEN Qiang,4,3,"8,11,8,9,11,11,11|11,8,11,11,9,5,5",,GRAND_SLAM,MS,1787,Qualification,CASTRO Lidney (USA),SHEN Qiang (CAN),CASTRO Lidney
+Brazilian Open Sao Paulo 2006,2006-06-21,MONTEIRO Joao,CASTRO Lidney,4,1,"11,11,11,11,11|3,3,8,13,8",QR2,GRAND_SLAM,MS,1787,Qualification,MONTEIRO Joao (POR),CASTRO Lidney (USA),MONTEIRO Joao
+Brazilian Open Sao Paulo 2006,2006-06-21,MONTEIRO Joao,SHEN Qiang,4,0,"11,11,11,11|7,2,7,9",3,GRAND_SLAM,MS,1787,Qualification,MONTEIRO Joao (POR),SHEN Qiang (CAN),MONTEIRO Joao
+Brazilian Open Sao Paulo 2006,2006-06-21,HINSE Pierre-Luc,ZOMBORI David,4,3,"11,11,3,11,3,5,15|6,4,11,6,11,11,13",,GRAND_SLAM,MS,1787,Qualification,HINSE Pierre-Luc (CAN),ZOMBORI David (HUN),HINSE Pierre-Luc
+Brazilian Open Sao Paulo 2006,2006-06-21,CARNEROS Alfredo,HINSE Pierre-Luc,4,0,"11,11,14,11|4,7,12,8",QR2,GRAND_SLAM,MS,1787,Qualification,CARNEROS Alfredo (ESP),HINSE Pierre-Luc (CAN),CARNEROS Alfredo
+Brazilian Open Sao Paulo 2006,2006-06-21,CARNEROS Alfredo,ZOMBORI David,4,0,"11,11,11,11|6,8,6,4",3,GRAND_SLAM,MS,1787,Qualification,CARNEROS Alfredo (ESP),ZOMBORI David (HUN),CARNEROS Alfredo
+Brazilian Open Sao Paulo 2006,2006-06-21,MOLNAR Csaba,ALTO Gaston,4,2,"11,11,9,10,11,11|4,4,11,12,9,8",,GRAND_SLAM,MS,1787,Qualification,MOLNAR Csaba (HUN),ALTO Gaston (ARG),MOLNAR Csaba
+Brazilian Open Sao Paulo 2006,2006-06-21,ZHANG Wilson,ALTO Gaston,4,1,"11,11,9,11,11|8,5,11,7,7",QR2,GRAND_SLAM,MS,1787,Qualification,ZHANG Wilson (CAN),ALTO Gaston (ARG),ZHANG Wilson
+Brazilian Open Sao Paulo 2006,2006-06-21,ZHANG Wilson,MOLNAR Csaba,4,3,"11,11,7,8,11,11,12|9,13,11,11,6,4,10",3,GRAND_SLAM,MS,1787,Qualification,ZHANG Wilson (CAN),MOLNAR Csaba (HUN),ZHANG Wilson
+Brazilian Open Sao Paulo 2006,2006-06-21,CROTTI Mattia,UBILLA Nicolas,4,2,"11,7,11,7,11,11|2,11,6,11,3,8",,GRAND_SLAM,MS,1787,Qualification,CROTTI Mattia (ITA),UBILLA Nicolas (CHI),CROTTI Mattia
+Brazilian Open Sao Paulo 2006,2006-06-21,TAKAKIWA Kenichi,UBILLA Nicolas,4,2,"9,11,11,16,11,11|11,8,7,18,3,6",QR2,GRAND_SLAM,MS,1787,Qualification,TAKAKIWA Kenichi (JPN),UBILLA Nicolas (CHI),TAKAKIWA Kenichi
+Brazilian Open Sao Paulo 2006,2006-06-21,TAKAKIWA Kenichi,CROTTI Mattia,4,0,"14,12,11,11|12,10,7,7",3,GRAND_SLAM,MS,1787,Qualification,TAKAKIWA Kenichi (JPN),CROTTI Mattia (ITA),TAKAKIWA Kenichi
+Brazilian Open Sao Paulo 2006,2006-06-21,VENTURA DOS ANJOS Bruno,GAVILAN Oscar,4,0,"11,11,11,11|8,3,6,5",,GRAND_SLAM,MS,1787,Qualification,VENTURA DOS ANJOS Bruno (BRA),GAVILAN Oscar (PAR),VENTURA DOS ANJOS Bruno
+Brazilian Open Sao Paulo 2006,2006-06-21,ZWICKL Daniel,GAVILAN Oscar,4,1,"9,13,11,11,11|11,11,2,4,4",QR2,GRAND_SLAM,MS,1787,Qualification,ZWICKL Daniel (HUN),GAVILAN Oscar (PAR),ZWICKL Daniel
+Brazilian Open Sao Paulo 2006,2006-06-21,ZWICKL Daniel,VENTURA DOS ANJOS Bruno,4,0,"11,11,11,11|8,5,7,6",3,GRAND_SLAM,MS,1787,Qualification,ZWICKL Daniel (HUN),VENTURA DOS ANJOS Bruno (BRA),ZWICKL Daniel
+Brazilian Open Sao Paulo 2006,2006-06-21,KOJIMA Ricardo,MAECK Anthony,4,3,"6,11,6,11,3,11,11|11,6,11,9,11,9,8",,GRAND_SLAM,MS,1787,Qualification,KOJIMA Ricardo (BRA),MAECK Anthony (BEL),KOJIMA Ricardo
+Brazilian Open Sao Paulo 2006,2006-06-21,KIM Taehoon,MIERES Juan Manuel,4,0,"11,11,11,11|5,6,8,9",QR2,GRAND_SLAM,MS,1787,Qualification,KIM Taehoon (KOR),MIERES Juan Manuel (PAR),KIM Taehoon
+Brazilian Open Sao Paulo 2006,2006-06-21,MAECK Anthony,MIERES Juan Manuel,4,2,"8,11,11,11,5,13|11,4,5,5,11,11",3,GRAND_SLAM,MS,1787,Qualification,MAECK Anthony (BEL),MIERES Juan Manuel (PAR),MAECK Anthony
+Brazilian Open Sao Paulo 2006,2006-06-21,KIM Taehoon,KOJIMA Ricardo,4,0,"11,11,11,14|9,8,5,12",QR4,GRAND_SLAM,MS,1787,Qualification,KIM Taehoon (KOR),KOJIMA Ricardo (BRA),KIM Taehoon
+Brazilian Open Sao Paulo 2006,2006-06-21,KOJIMA Ricardo,MIERES Juan Manuel,4,2,"11,11,7,9,11,11|2,6,11,11,4,4",5,GRAND_SLAM,MS,1787,Qualification,KOJIMA Ricardo (BRA),MIERES Juan Manuel (PAR),KOJIMA Ricardo
+Brazilian Open Sao Paulo 2006,2006-06-21,KIM Taehoon,MAECK Anthony,4,1,"11,11,11,8,11|8,6,3,11,4",6,GRAND_SLAM,MS,1787,Qualification,KIM Taehoon (KOR),MAECK Anthony (BEL),KIM Taehoon
+Brazilian Open Sao Paulo 2006,2006-06-21,TOMASI Stefano,LEVIS Bruno,4,3,"11,11,10,11,7,9,11|9,5,12,7,11,11,9",,GRAND_SLAM,MS,1787,Qualification,TOMASI Stefano (ITA),LEVIS Bruno (CHI),TOMASI Stefano
+Brazilian Open Sao Paulo 2006,2006-06-21,VOZICKY Bohumil,WIEST Renan,4,0,"11,11,11,11|2,5,7,6",QR2,GRAND_SLAM,MS,1787,Qualification,VOZICKY Bohumil (CZE),WIEST Renan (BRA),VOZICKY Bohumil
+Brazilian Open Sao Paulo 2006,2006-06-21,TOMASI Stefano,WIEST Renan,4,0,"11,11,12,11|3,4,10,3",3,GRAND_SLAM,MS,1787,Qualification,TOMASI Stefano (ITA),WIEST Renan (BRA),TOMASI Stefano
+Brazilian Open Sao Paulo 2006,2006-06-21,VOZICKY Bohumil,LEVIS Bruno,4,0,"11,11,11,11|9,5,5,5",QR4,GRAND_SLAM,MS,1787,Qualification,VOZICKY Bohumil (CZE),LEVIS Bruno (CHI),VOZICKY Bohumil
+Brazilian Open Sao Paulo 2006,2006-06-21,LEVIS Bruno,WIEST Renan,4,1,"11,11,6,11,11|5,6,11,7,7",5,GRAND_SLAM,MS,1787,Qualification,LEVIS Bruno (CHI),WIEST Renan (BRA),LEVIS Bruno
+Brazilian Open Sao Paulo 2006,2006-06-21,VOZICKY Bohumil,TOMASI Stefano,4,1,"11,11,11,9,13|3,5,6,11,11",6,GRAND_SLAM,MS,1787,Qualification,VOZICKY Bohumil (CZE),TOMASI Stefano (ITA),VOZICKY Bohumil
+Brazilian Open Sao Paulo 2006,2006-06-21,LEBESSON Emmanuel,TEMPERLEY Diego,4,2,"11,11,11,8,9,11|8,5,8,11,11,3",,GRAND_SLAM,MS,1787,Qualification,LEBESSON Emmanuel (FRA),TEMPERLEY Diego (ARG),LEBESSON Emmanuel
+Brazilian Open Sao Paulo 2006,2006-06-21,APOLONIA Tiago,CORSINI Marcelo,4,1,"8,11,11,11,11|11,3,6,5,8",QR2,GRAND_SLAM,MS,1787,Qualification,APOLONIA Tiago (POR),CORSINI Marcelo (BRA),APOLONIA Tiago
+Brazilian Open Sao Paulo 2006,2006-06-21,LEBESSON Emmanuel,CORSINI Marcelo,4,0,"11,11,11,11|7,7,6,9",3,GRAND_SLAM,MS,1787,Qualification,LEBESSON Emmanuel (FRA),CORSINI Marcelo (BRA),LEBESSON Emmanuel
+Brazilian Open Sao Paulo 2006,2006-06-21,APOLONIA Tiago,TEMPERLEY Diego,4,3,"11,4,11,11,11,11,11|5,11,4,5,13,13,6",QR4,GRAND_SLAM,MS,1787,Qualification,APOLONIA Tiago (POR),TEMPERLEY Diego (ARG),APOLONIA Tiago
+Brazilian Open Sao Paulo 2006,2006-06-21,TEMPERLEY Diego,CORSINI Marcelo,4,1,"4,11,11,11,11|11,4,8,9,6",5,GRAND_SLAM,MS,1787,Qualification,TEMPERLEY Diego (ARG),CORSINI Marcelo (BRA),TEMPERLEY Diego
+Brazilian Open Sao Paulo 2006,2006-06-21,APOLONIA Tiago,LEBESSON Emmanuel,4,2,"11,11,6,11,7,11|1,4,11,4,11,6",6,GRAND_SLAM,MS,1787,Qualification,APOLONIA Tiago (POR),LEBESSON Emmanuel (FRA),APOLONIA Tiago
+Brazilian Open Sao Paulo 2006,2006-06-21,SAHA Subhajit,GRECO Juan,4,0,"11,11,11,11|3,4,3,1",,GRAND_SLAM,MS,1787,Qualification,SAHA Subhajit (IND),GRECO Juan (ARG),SAHA Subhajit
+Brazilian Open Sao Paulo 2006,2006-06-21,MATSUMOTO Cazuo,BISSACO Manoel,4,0,"11,11,11,11|4,4,2,6",QR2,GRAND_SLAM,MS,1787,Qualification,MATSUMOTO Cazuo (BRA),BISSACO Manoel (BRA),MATSUMOTO Cazuo
+Brazilian Open Sao Paulo 2006,2006-06-21,SAHA Subhajit,BISSACO Manoel,4,2,"11,11,9,9,11,11|6,5,11,11,3,8",3,GRAND_SLAM,MS,1787,Qualification,SAHA Subhajit (IND),BISSACO Manoel (BRA),SAHA Subhajit
+Brazilian Open Sao Paulo 2006,2006-06-21,MATSUMOTO Cazuo,GRECO Juan,4,0,"11,11,11,11|5,3,2,4",QR4,GRAND_SLAM,MS,1787,Qualification,MATSUMOTO Cazuo (BRA),GRECO Juan (ARG),MATSUMOTO Cazuo
+Brazilian Open Sao Paulo 2006,2006-06-21,BISSACO Manoel,GRECO Juan,4,0,"11,11,11,11|4,5,4,4",5,GRAND_SLAM,MS,1787,Qualification,BISSACO Manoel (BRA),GRECO Juan (ARG),BISSACO Manoel
+Brazilian Open Sao Paulo 2006,2006-06-21,MATSUMOTO Cazuo,SAHA Subhajit,4,1,"11,11,13,1,11|9,8,11,11,7",6,GRAND_SLAM,MS,1787,Qualification,MATSUMOTO Cazuo (BRA),SAHA Subhajit (IND),MATSUMOTO Cazuo
+Brazilian Open Sao Paulo 2006,2006-06-21,DELOBBE Damien,MOAVRO Sebastian,4,2,"11,9,11,10,11,11|6,11,7,12,7,4",,GRAND_SLAM,MS,1787,Qualification,DELOBBE Damien (BEL),MOAVRO Sebastian (ARG),DELOBBE Damien
+Brazilian Open Sao Paulo 2006,2006-06-21,MACHADO Carlos,SILVA Lucas,4,0,"11,11,11,11|1,3,3,3",QR2,GRAND_SLAM,MS,1787,Qualification,MACHADO Carlos (ESP),SILVA Lucas (BRA),MACHADO Carlos
+Brazilian Open Sao Paulo 2006,2006-06-21,DELOBBE Damien,SILVA Lucas,4,0,"11,11,11,11|4,6,3,6",3,GRAND_SLAM,MS,1787,Qualification,DELOBBE Damien (BEL),SILVA Lucas (BRA),DELOBBE Damien
+Brazilian Open Sao Paulo 2006,2006-06-21,MACHADO Carlos,MOAVRO Sebastian,4,0,"11,11,11,11|7,2,7,3",QR4,GRAND_SLAM,MS,1787,Qualification,MACHADO Carlos (ESP),MOAVRO Sebastian (ARG),MACHADO Carlos
+Brazilian Open Sao Paulo 2006,2006-06-21,MOAVRO Sebastian,SILVA Lucas,4,2,"11,7,11,10,11,11|9,11,5,12,8,6",5,GRAND_SLAM,MS,1787,Qualification,MOAVRO Sebastian (ARG),SILVA Lucas (BRA),MOAVRO Sebastian
+Brazilian Open Sao Paulo 2006,2006-06-21,MACHADO Carlos,DELOBBE Damien,4,0,"11,11,11,11|7,8,6,4",6,GRAND_SLAM,MS,1787,Qualification,MACHADO Carlos (ESP),DELOBBE Damien (BEL),MACHADO Carlos
+Brazilian Open Sao Paulo 2006,2006-06-21,PETERSEN Christoffer,MANHANI Humberto,4,1,"8,11,11,11,11|11,7,7,2,0",,GRAND_SLAM,MS,1787,Qualification,PETERSEN Christoffer (DEN),MANHANI Humberto (BRA),PETERSEN Christoffer
+Brazilian Open Sao Paulo 2006,2006-06-21,DURAN Marc,GALLINDO Ivo,4,0,"11,11,11,11|8,4,3,2",QR2,GRAND_SLAM,MS,1787,Qualification,DURAN Marc (ESP),GALLINDO Ivo (BRA),DURAN Marc
+Brazilian Open Sao Paulo 2006,2006-06-21,PETERSEN Christoffer,GALLINDO Ivo,4,0,"11,11,11,12|5,1,2,10",3,GRAND_SLAM,MS,1787,Qualification,PETERSEN Christoffer (DEN),GALLINDO Ivo (BRA),PETERSEN Christoffer
+Brazilian Open Sao Paulo 2006,2006-06-21,DURAN Marc,MANHANI Humberto,4,0,"11,11,12,11|6,5,10,7",QR4,GRAND_SLAM,MS,1787,Qualification,DURAN Marc (ESP),MANHANI Humberto (BRA),DURAN Marc
+Brazilian Open Sao Paulo 2006,2006-06-21,MANHANI Humberto,GALLINDO Ivo,4,1,"11,11,9,11,11|3,8,11,3,8",5,GRAND_SLAM,MS,1787,Qualification,MANHANI Humberto (BRA),GALLINDO Ivo (BRA),MANHANI Humberto
+Brazilian Open Sao Paulo 2006,2006-06-21,DURAN Marc,PETERSEN Christoffer,4,2,"12,11,8,11,11,11|14,7,11,8,8,8",6,GRAND_SLAM,MS,1787,Qualification,DURAN Marc (ESP),PETERSEN Christoffer (DEN),DURAN Marc
+Brazilian Open Sao Paulo 2006,2006-06-21,TABACHNIK Pablo,MANCINI Eric,4,2,"11,10,11,11,3,11|7,12,8,9,11,6",,GRAND_SLAM,MS,1787,Qualification,TABACHNIK Pablo (ARG),MANCINI Eric (BRA),TABACHNIK Pablo
+Brazilian Open Sao Paulo 2006,2006-06-21,KONGSGAARD Christian,SOUZA Diego,4,0,"11,11,11,11|4,8,7,3",QR2,GRAND_SLAM,MS,1787,Qualification,KONGSGAARD Christian (DEN),SOUZA Diego (BRA),KONGSGAARD Christian
+Brazilian Open Sao Paulo 2006,2006-06-21,TABACHNIK Pablo,SOUZA Diego,4,0,"11,11,11,11|4,5,4,7",3,GRAND_SLAM,MS,1787,Qualification,TABACHNIK Pablo (ARG),SOUZA Diego (BRA),TABACHNIK Pablo
+Brazilian Open Sao Paulo 2006,2006-06-21,KONGSGAARD Christian,MANCINI Eric,4,2,"11,2,11,9,11,12|8,11,8,11,9,10",QR4,GRAND_SLAM,MS,1787,Qualification,KONGSGAARD Christian (DEN),MANCINI Eric (BRA),KONGSGAARD Christian
+Brazilian Open Sao Paulo 2006,2006-06-21,MANCINI Eric,SOUZA Diego,4,0,"11,11,11,11|3,3,2,6",5,GRAND_SLAM,MS,1787,Qualification,MANCINI Eric (BRA),SOUZA Diego (BRA),MANCINI Eric
+Brazilian Open Sao Paulo 2006,2006-06-21,KONGSGAARD Christian,TABACHNIK Pablo,4,0,"11,11,11,11|8,9,5,7",6,GRAND_SLAM,MS,1787,Qualification,KONGSGAARD Christian (DEN),TABACHNIK Pablo (ARG),KONGSGAARD Christian
+Brazilian Open Sao Paulo 2006,2006-06-21,VOSTES Yannick,BARBOSA Jose,4,0,"11,11,11,11|5,6,7,6",,GRAND_SLAM,MS,1787,Qualification,VOSTES Yannick (BEL),BARBOSA Jose (BRA),VOSTES Yannick
+Brazilian Open Sao Paulo 2006,2006-06-21,ROY Soumyadeep,COSTA Daniel,4,1,"11,11,10,11,11|7,4,12,4,6",QR2,GRAND_SLAM,MS,1787,Qualification,ROY Soumyadeep (IND),COSTA Daniel (BRA),ROY Soumyadeep
+Brazilian Open Sao Paulo 2006,2006-06-21,VOSTES Yannick,COSTA Daniel,4,0,"11,11,11,12|8,3,6,10",3,GRAND_SLAM,MS,1787,Qualification,VOSTES Yannick (BEL),COSTA Daniel (BRA),VOSTES Yannick
+Brazilian Open Sao Paulo 2006,2006-06-21,ROY Soumyadeep,BARBOSA Jose,4,0,"11,11,11,11|6,8,4,4",QR4,GRAND_SLAM,MS,1787,Qualification,ROY Soumyadeep (IND),BARBOSA Jose (BRA),ROY Soumyadeep
+Brazilian Open Sao Paulo 2006,2006-06-21,COSTA Daniel,BARBOSA Jose,4,1,"11,12,11,9,11|7,10,8,11,4",5,GRAND_SLAM,MS,1787,Qualification,COSTA Daniel (BRA),BARBOSA Jose (BRA),COSTA Daniel
+Brazilian Open Sao Paulo 2006,2006-06-21,VOSTES Yannick,ROY Soumyadeep,4,0,"11,11,11,11|2,7,6,9",6,GRAND_SLAM,MS,1787,Qualification,VOSTES Yannick (BEL),ROY Soumyadeep (IND),VOSTES Yannick
+Brazilian Open Sao Paulo 2006,2006-06-21,DESPRES Rodolphe,BARRETO Israel,4,3,"6,9,11,9,11,11,11|11,11,9,11,5,7,9",,GRAND_SLAM,MS,1787,Qualification,DESPRES Rodolphe (FRA),BARRETO Israel (BRA),DESPRES Rodolphe
+Brazilian Open Sao Paulo 2006,2006-06-21,CLOSSET Marc,SILVA Daniel,4,0,"11,11,11,11|5,7,7,8",QR2,GRAND_SLAM,MS,1787,Qualification,CLOSSET Marc (BEL),SILVA Daniel (BRA),CLOSSET Marc
+Brazilian Open Sao Paulo 2006,2006-06-21,DESPRES Rodolphe,SILVA Daniel,4,0,"11,11,11,11|8,5,8,6",3,GRAND_SLAM,MS,1787,Qualification,DESPRES Rodolphe (FRA),SILVA Daniel (BRA),DESPRES Rodolphe
+Brazilian Open Sao Paulo 2006,2006-06-21,CLOSSET Marc,BARRETO Israel,4,1,"11,11,11,10,11|8,5,4,12,5",QR4,GRAND_SLAM,MS,1787,Qualification,CLOSSET Marc (BEL),BARRETO Israel (BRA),CLOSSET Marc
+Brazilian Open Sao Paulo 2006,2006-06-21,BARRETO Israel,SILVA Daniel,4,1,"9,11,11,11,11|11,3,7,7,9",5,GRAND_SLAM,MS,1787,Qualification,BARRETO Israel (BRA),SILVA Daniel (BRA),BARRETO Israel
+Brazilian Open Sao Paulo 2006,2006-06-21,DESPRES Rodolphe,CLOSSET Marc,4,2,"6,13,7,14,11,11|11,11,11,12,5,7",6,GRAND_SLAM,MS,1787,Qualification,DESPRES Rodolphe (FRA),CLOSSET Marc (BEL),DESPRES Rodolphe
+Brazilian Open Sao Paulo 2006,2006-06-21,TSUBOI Gustavo,AGUIRRE Marcelo,4,0,"13,11,11,11|11,9,5,4",,GRAND_SLAM,MS,1787,Qualification,TSUBOI Gustavo (BRA),AGUIRRE Marcelo (PAR),TSUBOI Gustavo
+Brazilian Open Sao Paulo 2006,2006-06-21,KONECNY Tomas,SILVA NETO Olimpio Gomes,4,0,"11,11,11,11|3,7,5,3",QR2,GRAND_SLAM,MS,1787,Qualification,KONECNY Tomas (CZE),SILVA NETO Olimpio Gomes (BRA),KONECNY Tomas
+Brazilian Open Sao Paulo 2006,2006-06-21,TSUBOI Gustavo,SILVA NETO Olimpio Gomes,4,1,"11,14,12,11,11|6,12,14,8,8",3,GRAND_SLAM,MS,1787,Qualification,TSUBOI Gustavo (BRA),SILVA NETO Olimpio Gomes (BRA),TSUBOI Gustavo
+Brazilian Open Sao Paulo 2006,2006-06-21,KONECNY Tomas,AGUIRRE Marcelo,4,1,"13,11,11,5,11|11,8,7,11,1",QR4,GRAND_SLAM,MS,1787,Qualification,KONECNY Tomas (CZE),AGUIRRE Marcelo (PAR),KONECNY Tomas
+Brazilian Open Sao Paulo 2006,2006-06-21,SILVA NETO Olimpio Gomes,AGUIRRE Marcelo,4,2,"11,11,11,9,5,11|5,9,8,11,11,9",5,GRAND_SLAM,MS,1787,Qualification,SILVA NETO Olimpio Gomes (BRA),AGUIRRE Marcelo (PAR),SILVA NETO Olimpio Gomes
+Brazilian Open Sao Paulo 2006,2006-06-21,KONECNY Tomas,TSUBOI Gustavo,4,1,"11,11,11,5,11|6,8,5,11,7",6,GRAND_SLAM,MS,1787,Qualification,KONECNY Tomas (CZE),TSUBOI Gustavo (BRA),KONECNY Tomas
+Brazilian Open Sao Paulo 2006,2006-06-21,YOSHIDA Kaii,CARNEROS Alfredo,4,0,"11,11,11,11|4,3,6,3",R32,GRAND_SLAM,MS,1787,Main Draw,YOSHIDA Kaii (JPN),CARNEROS Alfredo (ESP),YOSHIDA Kaii
+Brazilian Open Sao Paulo 2006,2006-06-21,HOYAMA Hugo,KONGSGAARD Christian,4,2,"11,11,10,11,9,11|6,4,12,9,11,5",R32,GRAND_SLAM,MS,1787,Main Draw,HOYAMA Hugo (BRA),KONGSGAARD Christian (DEN),HOYAMA Hugo
+Brazilian Open Sao Paulo 2006,2006-06-21,MACHADO Carlos,DIDUKH Oleksandr,4,0,"11,11,11,11|8,5,5,8",R32,GRAND_SLAM,MS,1787,Main Draw,MACHADO Carlos (ESP),DIDUKH Oleksandr (UKR),MACHADO Carlos
+Brazilian Open Sao Paulo 2006,2006-06-21,LIU Song,KIM Taehoon,4,1,"13,11,11,11,11|15,5,2,7,6",R32,GRAND_SLAM,MS,1787,Main Draw,LIU Song (ARG),KIM Taehoon (KOR),LIU Song
+Brazilian Open Sao Paulo 2006,2006-06-21,MONDELLO Massimiliano,VOSTES Yannick,4,0,"11,11,11,11|1,7,4,7",R32,GRAND_SLAM,MS,1787,Main Draw,MONDELLO Massimiliano (ITA),VOSTES Yannick (BEL),MONDELLO Massimiliano
+Brazilian Open Sao Paulo 2006,2006-06-21,ZWICKL Daniel,PISTEJ Lubomir,4,2,"11,11,11,9,10,11|8,7,2,11,12,6",R32,GRAND_SLAM,MS,1787,Main Draw,ZWICKL Daniel (HUN),PISTEJ Lubomir (SVK),ZWICKL Daniel
+Brazilian Open Sao Paulo 2006,2006-06-21,CHO Eonrae,DESPRES Rodolphe,4,1,"11,11,12,6,11|2,4,10,11,8",R32,GRAND_SLAM,MS,1787,Main Draw,CHO Eonrae (KOR),DESPRES Rodolphe (FRA),CHO Eonrae
+Brazilian Open Sao Paulo 2006,2006-06-21,SEREDA Peter,VOZICKY Bohumil,4,3,"11,1,8,11,11,10,11|8,11,11,5,7,12,8",R32,GRAND_SLAM,MS,1787,Main Draw,SEREDA Peter (SVK),VOZICKY Bohumil (CZE),SEREDA Peter
+Brazilian Open Sao Paulo 2006,2006-06-21,TOKIC Bojan,DURAN Marc,4,1,"11,11,11,4,11|6,6,9,11,3",R32,GRAND_SLAM,MS,1787,Main Draw,TOKIC Bojan (SLO),DURAN Marc (ESP),TOKIC Bojan
+Brazilian Open Sao Paulo 2006,2006-06-21,BERTIN Christophe,KONECNY Tomas,4,2,"8,11,11,11,11,11|11,13,7,8,4,7",R32,GRAND_SLAM,MS,1787,Main Draw,BERTIN Christophe (FRA),KONECNY Tomas (CZE),BERTIN Christophe
+Brazilian Open Sao Paulo 2006,2006-06-21,ACHANTA Sharath,MATSUMOTO Cazuo,4,2,"11,11,11,9,10,11|4,7,8,11,12,7",R32,GRAND_SLAM,MS,1787,Main Draw,ACHANTA Sharath (IND),MATSUMOTO Cazuo (BRA),ACHANTA Sharath
+Brazilian Open Sao Paulo 2006,2006-06-21,MONTEIRO Joao,CHO Jihoon,4,1,"7,15,11,11,13|11,13,6,8,11",R32,GRAND_SLAM,MS,1787,Main Draw,MONTEIRO Joao (POR),CHO Jihoon (KOR),MONTEIRO Joao
+Brazilian Open Sao Paulo 2006,2006-06-21,ZHANG Wilson,MONTEIRO Thiago,4,0,"11,11,17,11|8,8,15,7",R32,GRAND_SLAM,MS,1787,Main Draw,ZHANG Wilson (CAN),MONTEIRO Thiago (BRA),ZHANG Wilson
+Brazilian Open Sao Paulo 2006,2006-06-21,PAZSY Ferenc,APOLONIA Tiago,4,1,"11,9,17,16,11|6,11,15,14,5",R32,GRAND_SLAM,MS,1787,Main Draw,PAZSY Ferenc (HUN),APOLONIA Tiago (POR),PAZSY Ferenc
+Brazilian Open Sao Paulo 2006,2006-06-21,TAKAKIWA Kenichi,JAKAB Janos,4,0,"13,14,11,11|11,12,9,4",R32,GRAND_SLAM,MS,1787,Main Draw,TAKAKIWA Kenichi (JPN),JAKAB Janos (HUN),TAKAKIWA Kenichi
+Brazilian Open Sao Paulo 2006,2006-06-21,LEE Jinkwon,LEGOUT Christophe,4,1,"11,11,6,11,11|8,7,11,8,5",R32,GRAND_SLAM,MS,1787,Main Draw,LEE Jinkwon (KOR),LEGOUT Christophe (FRA),LEE Jinkwon
+Brazilian Open Sao Paulo 2006,2006-06-21,YOSHIDA Kaii,HOYAMA Hugo,4,0,"15,11,11,11|13,9,6,9",R16,GRAND_SLAM,MS,1787,Main Draw,YOSHIDA Kaii (JPN),HOYAMA Hugo (BRA),YOSHIDA Kaii
+Brazilian Open Sao Paulo 2006,2006-06-21,LIU Song,MACHADO Carlos,4,2,"6,11,11,11,8,11|11,5,8,3,11,9",R16,GRAND_SLAM,MS,1787,Main Draw,LIU Song (ARG),MACHADO Carlos (ESP),LIU Song
+Brazilian Open Sao Paulo 2006,2006-06-21,ZWICKL Daniel,MONDELLO Massimiliano,4,3,"11,11,11,8,8,12,14|6,5,6,11,11,14,12",R16,GRAND_SLAM,MS,1787,Main Draw,ZWICKL Daniel (HUN),MONDELLO Massimiliano (ITA),ZWICKL Daniel
+Brazilian Open Sao Paulo 2006,2006-06-21,CHO Eonrae,SEREDA Peter,4,0,"11,11,11,11|7,6,1,9",R16,GRAND_SLAM,MS,1787,Main Draw,CHO Eonrae (KOR),SEREDA Peter (SVK),CHO Eonrae
+Brazilian Open Sao Paulo 2006,2006-06-21,BERTIN Christophe,TOKIC Bojan,4,3,"9,5,11,11,9,11,11|11,11,6,7,11,9,7",R16,GRAND_SLAM,MS,1787,Main Draw,BERTIN Christophe (FRA),TOKIC Bojan (SLO),BERTIN Christophe
+Brazilian Open Sao Paulo 2006,2006-06-21,ACHANTA Sharath,MONTEIRO Joao,4,2,"11,11,9,12,7,11|8,9,11,10,11,9",R16,GRAND_SLAM,MS,1787,Main Draw,ACHANTA Sharath (IND),MONTEIRO Joao (POR),ACHANTA Sharath
+Brazilian Open Sao Paulo 2006,2006-06-21,ZHANG Wilson,PAZSY Ferenc,4,3,"11,11,7,12,8,11,11|8,8,11,14,11,7,3",R16,GRAND_SLAM,MS,1787,Main Draw,ZHANG Wilson (CAN),PAZSY Ferenc (HUN),ZHANG Wilson
+Brazilian Open Sao Paulo 2006,2006-06-21,LEE Jinkwon,TAKAKIWA Kenichi,4,3,"9,11,10,12,4,15,11|11,9,12,10,11,13,9",R16,GRAND_SLAM,MS,1787,Main Draw,LEE Jinkwon (KOR),TAKAKIWA Kenichi (JPN),LEE Jinkwon
+Brazilian Open Sao Paulo 2006,2006-06-21,LIU Song,YOSHIDA Kaii,4,3,"11,12,6,7,11,9,11|7,10,11,11,5,11,8",QF,GRAND_SLAM,MS,1787,Main Draw,LIU Song (ARG),YOSHIDA Kaii (JPN),LIU Song
+Brazilian Open Sao Paulo 2006,2006-06-21,CHO Eonrae,ZWICKL Daniel,4,1,"4,11,11,11,12|11,3,6,7,10",QF,GRAND_SLAM,MS,1787,Main Draw,CHO Eonrae (KOR),ZWICKL Daniel (HUN),CHO Eonrae
+Brazilian Open Sao Paulo 2006,2006-06-21,ACHANTA Sharath,BERTIN Christophe,4,1,"11,7,11,12,11|8,11,9,10,3",QF,GRAND_SLAM,MS,1787,Main Draw,ACHANTA Sharath (IND),BERTIN Christophe (FRA),ACHANTA Sharath
+Brazilian Open Sao Paulo 2006,2006-06-21,LEE Jinkwon,ZHANG Wilson,4,1,"12,11,11,8,14|10,9,8,11,12",QF,GRAND_SLAM,MS,1787,Main Draw,LEE Jinkwon (KOR),ZHANG Wilson (CAN),LEE Jinkwon
+Brazilian Open Sao Paulo 2006,2006-06-21,CHO Eonrae,LIU Song,4,0,"11,12,12,11|6,10,10,9",SF,GRAND_SLAM,MS,1787,Main Draw,CHO Eonrae (KOR),LIU Song (ARG),CHO Eonrae
+Brazilian Open Sao Paulo 2006,2006-06-21,LEE Jinkwon,ACHANTA Sharath,4,2,"7,11,11,8,11,11|11,9,6,11,8,9",SF,GRAND_SLAM,MS,1787,Main Draw,LEE Jinkwon (KOR),ACHANTA Sharath (IND),LEE Jinkwon
+Brazilian Open Sao Paulo 2006,2006-06-21,CHO Eonrae,LEE Jinkwon,4,1,"11,11,9,11,11|3,9,11,2,5",F,GRAND_SLAM,MS,1787,Main Draw,CHO Eonrae (KOR),LEE Jinkwon (KOR),CHO Eonrae
+Brazilian Open Sao Paulo 2006,2006-06-21,LEBESSON Emmanuel,JAKAB Janos,4,0,"11,11,11,13|7,9,8,11",R16,GRAND_SLAM,U21MS,1787,Main Draw,LEBESSON Emmanuel (FRA),JAKAB Janos (HUN),LEBESSON Emmanuel
+Brazilian Open Sao Paulo 2006,2006-06-21,MATSUMOTO Cazuo,UBILLA Nicolas,4,2,"8,11,13,11,9,11|11,9,11,5,11,6",R16,GRAND_SLAM,U21MS,1787,Main Draw,MATSUMOTO Cazuo (BRA),UBILLA Nicolas (CHI),MATSUMOTO Cazuo
+Brazilian Open Sao Paulo 2006,2006-06-21,VOSTES Yannick,OLEA Carlos,4,2,"11,8,11,8,11,11|3,11,7,11,6,9",R16,GRAND_SLAM,U21MS,1787,Main Draw,VOSTES Yannick (BEL),OLEA Carlos (CHI),VOSTES Yannick
+Brazilian Open Sao Paulo 2006,2006-06-21,KIM Taehoon,HINSE Pierre-Luc,4,1,"11,6,11,13,11|5,11,7,11,4",R16,GRAND_SLAM,U21MS,1787,Main Draw,KIM Taehoon (KOR),HINSE Pierre-Luc (CAN),KIM Taehoon
+Brazilian Open Sao Paulo 2006,2006-06-21,APOLONIA Tiago,MOLNAR Csaba,4,2,"9,9,11,11,11,11|11,11,5,9,5,2",R16,GRAND_SLAM,U21MS,1787,Main Draw,APOLONIA Tiago (POR),MOLNAR Csaba (HUN),APOLONIA Tiago
+Brazilian Open Sao Paulo 2006,2006-06-21,ZOMBORI David,DURAN Marc,4,3,"11,11,12,10,11,4,11|9,9,14,12,7,11,9",R16,GRAND_SLAM,U21MS,1787,Main Draw,ZOMBORI David (HUN),DURAN Marc (ESP),ZOMBORI David
+Brazilian Open Sao Paulo 2006,2006-06-21,TSUBOI Gustavo,SHEN Qiang,4,2,"11,13,13,11,10,11|7,11,15,7,12,4",R16,GRAND_SLAM,U21MS,1787,Main Draw,TSUBOI Gustavo (BRA),SHEN Qiang (CAN),TSUBOI Gustavo
+Brazilian Open Sao Paulo 2006,2006-06-21,LEE Jinkwon,KOJIMA Ricardo,4,1,"11,7,11,11,11|6,11,4,7,5",R16,GRAND_SLAM,U21MS,1787,Main Draw,LEE Jinkwon (KOR),KOJIMA Ricardo (BRA),LEE Jinkwon
+Brazilian Open Sao Paulo 2006,2006-06-21,MATSUMOTO Cazuo,LEBESSON Emmanuel,4,0,"11,11,11,11|6,7,8,7",QF,GRAND_SLAM,U21MS,1787,Main Draw,MATSUMOTO Cazuo (BRA),LEBESSON Emmanuel (FRA),MATSUMOTO Cazuo
+Brazilian Open Sao Paulo 2006,2006-06-21,KIM Taehoon,VOSTES Yannick,4,2,"10,11,11,11,9,11|12,7,8,5,11,5",QF,GRAND_SLAM,U21MS,1787,Main Draw,KIM Taehoon (KOR),VOSTES Yannick (BEL),KIM Taehoon
+Brazilian Open Sao Paulo 2006,2006-06-21,APOLONIA Tiago,ZOMBORI David,4,1,"11,11,9,11,11|5,6,11,7,7",QF,GRAND_SLAM,U21MS,1787,Main Draw,APOLONIA Tiago (POR),ZOMBORI David (HUN),APOLONIA Tiago
+Brazilian Open Sao Paulo 2006,2006-06-21,TSUBOI Gustavo,LEE Jinkwon,4,0,,QF,GRAND_SLAM,U21MS,1787,Main Draw,TSUBOI Gustavo (BRA),LEE Jinkwon (KOR),TSUBOI Gustavo
+Brazilian Open Sao Paulo 2006,2006-06-21,KIM Taehoon,MATSUMOTO Cazuo,4,3,"11,11,8,1,5,11,11|4,7,11,11,11,9,8",SF,GRAND_SLAM,U21MS,1787,Main Draw,KIM Taehoon (KOR),MATSUMOTO Cazuo (BRA),KIM Taehoon
+Brazilian Open Sao Paulo 2006,2006-06-21,APOLONIA Tiago,TSUBOI Gustavo,4,0,"11,11,11,11|3,8,8,7",SF,GRAND_SLAM,U21MS,1787,Main Draw,APOLONIA Tiago (POR),TSUBOI Gustavo (BRA),APOLONIA Tiago
+Brazilian Open Sao Paulo 2006,2006-06-21,APOLONIA Tiago,KIM Taehoon,4,0,"12,11,11,11|10,5,8,7",F,GRAND_SLAM,U21MS,1787,Main Draw,APOLONIA Tiago (POR),KIM Taehoon (KOR),APOLONIA Tiago
+Brazilian Open Sao Paulo 2006,2006-06-21,AGUIRRE Marcelo,CARVALHO Daniel,3,0,"11,11,11|8,8,8",,GRAND_SLAM,U21MS,1787,Qualification,AGUIRRE Marcelo (PAR),CARVALHO Daniel (BRA),AGUIRRE Marcelo
+Brazilian Open Sao Paulo 2006,2006-06-21,LEBESSON Emmanuel,CARVALHO Daniel,3,1,"10,11,11,11|12,6,9,6",QR2,GRAND_SLAM,U21MS,1787,Qualification,LEBESSON Emmanuel (FRA),CARVALHO Daniel (BRA),LEBESSON Emmanuel
+Brazilian Open Sao Paulo 2006,2006-06-21,LEBESSON Emmanuel,AGUIRRE Marcelo,3,0,"11,11,11|3,4,3",3,GRAND_SLAM,U21MS,1787,Qualification,LEBESSON Emmanuel (FRA),AGUIRRE Marcelo (PAR),LEBESSON Emmanuel
+Brazilian Open Sao Paulo 2006,2006-06-21,BARBOSA Jose,MIERES Juan Manuel,3,2,"11,7,5,11,11|7,11,11,8,7",,GRAND_SLAM,U21MS,1787,Qualification,BARBOSA Jose (BRA),MIERES Juan Manuel (PAR),BARBOSA Jose
+Brazilian Open Sao Paulo 2006,2006-06-21,MOLNAR Csaba,MIERES Juan Manuel,3,0,"12,11,11|10,5,7",QR2,GRAND_SLAM,U21MS,1787,Qualification,MOLNAR Csaba (HUN),MIERES Juan Manuel (PAR),MOLNAR Csaba
+Brazilian Open Sao Paulo 2006,2006-06-21,MOLNAR Csaba,BARBOSA Jose,3,1,"11,9,11,11|1,11,7,3",3,GRAND_SLAM,U21MS,1787,Qualification,MOLNAR Csaba (HUN),BARBOSA Jose (BRA),MOLNAR Csaba
+Brazilian Open Sao Paulo 2006,2006-06-21,COSTA Daniel,MOAVRO Sebastian,3,1,"11,8,11,11|9,11,8,6",,GRAND_SLAM,U21MS,1787,Qualification,COSTA Daniel (BRA),MOAVRO Sebastian (ARG),COSTA Daniel
+Brazilian Open Sao Paulo 2006,2006-06-21,ZOMBORI David,COSTA Daniel,3,0,"11,11,11|7,3,7",QR2,GRAND_SLAM,U21MS,1787,Qualification,ZOMBORI David (HUN),COSTA Daniel (BRA),ZOMBORI David
+Brazilian Open Sao Paulo 2006,2006-06-21,ZOMBORI David,MOAVRO Sebastian,3,0,"11,11,11|7,4,6",3,GRAND_SLAM,U21MS,1787,Qualification,ZOMBORI David (HUN),MOAVRO Sebastian (ARG),ZOMBORI David
+Brazilian Open Sao Paulo 2006,2006-06-21,LEVIS Bruno,SILVA Lucas,3,0,"11,11,11|8,6,4",,GRAND_SLAM,U21MS,1787,Qualification,LEVIS Bruno (CHI),SILVA Lucas (BRA),LEVIS Bruno
+Brazilian Open Sao Paulo 2006,2006-06-21,SHEN Qiang,SILVA Lucas,3,0,"13,11,11|11,2,7",QR2,GRAND_SLAM,U21MS,1787,Qualification,SHEN Qiang (CAN),SILVA Lucas (BRA),SHEN Qiang
+Brazilian Open Sao Paulo 2006,2006-06-21,SHEN Qiang,LEVIS Bruno,3,1,"6,11,11,12|11,8,6,10",3,GRAND_SLAM,U21MS,1787,Qualification,SHEN Qiang (CAN),LEVIS Bruno (CHI),SHEN Qiang
+Brazilian Open Sao Paulo 2006,2006-06-21,MANCINI Eric,SILVA NETO Olimpio Gomes,3,1,"11,11,9,11|3,8,11,5",,GRAND_SLAM,U21MS,1787,Qualification,MANCINI Eric (BRA),SILVA NETO Olimpio Gomes (BRA),MANCINI Eric
+Brazilian Open Sao Paulo 2006,2006-06-21,HINSE Pierre-Luc,SILVA NETO Olimpio Gomes,3,0,"11,11,11|7,4,8",QR2,GRAND_SLAM,U21MS,1787,Qualification,HINSE Pierre-Luc (CAN),SILVA NETO Olimpio Gomes (BRA),HINSE Pierre-Luc
+Brazilian Open Sao Paulo 2006,2006-06-21,HINSE Pierre-Luc,MANCINI Eric,3,2,"11,11,7,6,11|7,9,11,11,9",3,GRAND_SLAM,U21MS,1787,Qualification,HINSE Pierre-Luc (CAN),MANCINI Eric (BRA),HINSE Pierre-Luc
+Brazilian Open Sao Paulo 2006,2006-06-21,MANHANI Humberto,SOUZA Diego,3,0,"11,11,11|7,1,9",,GRAND_SLAM,U21MS,1787,Qualification,MANHANI Humberto (BRA),SOUZA Diego (BRA),MANHANI Humberto
+Brazilian Open Sao Paulo 2006,2006-06-21,OLEA Carlos,SOUZA Diego,3,0,"11,11,11|2,1,4",QR2,GRAND_SLAM,U21MS,1787,Qualification,OLEA Carlos (CHI),SOUZA Diego (BRA),OLEA Carlos
+Brazilian Open Sao Paulo 2006,2006-06-21,OLEA Carlos,MANHANI Humberto,3,2,"10,6,11,11,11|12,11,7,5,8",3,GRAND_SLAM,U21MS,1787,Qualification,OLEA Carlos (CHI),MANHANI Humberto (BRA),OLEA Carlos
+Brazilian Open Sao Paulo 2006,2006-06-21,UBILLA Nicolas,WIEST Renan,4,0,,,GRAND_SLAM,U21MS,1787,Qualification,UBILLA Nicolas (CHI),WIEST Renan (BRA),UBILLA Nicolas
+Brazilian Open Sao Paulo 2006,2006-06-21,CASTRO Lidney,WIEST Renan,3,0,"11,11,11|6,4,7",QR2,GRAND_SLAM,U21MS,1787,Qualification,CASTRO Lidney (USA),WIEST Renan (BRA),CASTRO Lidney
+Brazilian Open Sao Paulo 2006,2006-06-21,UBILLA Nicolas,CASTRO Lidney,3,0,"11,11,11|5,5,4",3,GRAND_SLAM,U21MS,1787,Qualification,UBILLA Nicolas (CHI),CASTRO Lidney (USA),UBILLA Nicolas
+Brazilian Open Sao Paulo 2006,2006-06-21,KOJIMA Ricardo,COSTA Patrick,4,0,,,GRAND_SLAM,U21MS,1787,Qualification,KOJIMA Ricardo (BRA),COSTA Patrick (BRA),KOJIMA Ricardo
+Brazilian Open Sao Paulo 2006,2006-06-21,ALTO Gaston,COSTA Patrick,4,0,,QR2,GRAND_SLAM,U21MS,1787,Qualification,ALTO Gaston (ARG),COSTA Patrick (BRA),ALTO Gaston
+Brazilian Open Sao Paulo 2006,2006-06-21,KOJIMA Ricardo,ALTO Gaston,3,2,"12,11,8,5,12|10,6,11,11,10",3,GRAND_SLAM,U21MS,1787,Qualification,KOJIMA Ricardo (BRA),ALTO Gaston (ARG),KOJIMA Ricardo
+Brazilian Open Sao Paulo 2006,2006-06-21,RANZEIRO Maira,CERON Ximena,4,0,"11,12,11,11|7,10,9,8",,GRAND_SLAM,WS,1787,Qualification,RANZEIRO Maira (BRA),CERON Ximena (CHI),RANZEIRO Maira
+Brazilian Open Sao Paulo 2006,2006-06-21,LANG Kristin,RANZEIRO Maira,4,1,"9,11,11,11,11|11,9,7,9,6",QR2,GRAND_SLAM,WS,1787,Qualification,LANG Kristin (GER),RANZEIRO Maira (BRA),LANG Kristin
+Brazilian Open Sao Paulo 2006,2006-06-21,LANG Kristin,CERON Ximena,4,0,"11,11,11,11|8,6,4,4",3,GRAND_SLAM,WS,1787,Qualification,LANG Kristin (GER),CERON Ximena (CHI),LANG Kristin
+Brazilian Open Sao Paulo 2006,2006-06-21,YAMADA Jessica,YUEN Stephanie,4,0,"11,11,11,11|8,6,5,9",,GRAND_SLAM,WS,1787,Qualification,YAMADA Jessica (BRA),YUEN Stephanie (CAN),YAMADA Jessica
+Brazilian Open Sao Paulo 2006,2006-06-21,PAOVIC Sandra,YAMADA Jessica,4,0,"11,11,11,11|3,5,3,6",QR2,GRAND_SLAM,WS,1787,Qualification,PAOVIC Sandra (CRO),YAMADA Jessica (BRA),PAOVIC Sandra
+Brazilian Open Sao Paulo 2006,2006-06-21,PAOVIC Sandra,YUEN Stephanie,4,2,"8,11,7,11,11,11|11,3,11,5,5,7",3,GRAND_SLAM,WS,1787,Qualification,PAOVIC Sandra (CRO),YUEN Stephanie (CAN),PAOVIC Sandra
+Brazilian Open Sao Paulo 2006,2006-06-21,RABONI Patricia,CASTELLANO Natalia,4,2,"4,11,11,9,12,11|11,7,4,11,10,9",,GRAND_SLAM,WS,1787,Qualification,RABONI Patricia (BRA),CASTELLANO Natalia (CHI),RABONI Patricia
+Brazilian Open Sao Paulo 2006,2006-06-21,TASEI Mikie,RABONI Patricia,4,0,"11,11,11,11|5,7,7,2",QR2,GRAND_SLAM,WS,1787,Qualification,TASEI Mikie (JPN),RABONI Patricia (BRA),TASEI Mikie
+Brazilian Open Sao Paulo 2006,2006-06-21,TASEI Mikie,CASTELLANO Natalia,4,0,"11,11,11,11|5,7,4,3",3,GRAND_SLAM,WS,1787,Qualification,TASEI Mikie (JPN),CASTELLANO Natalia (CHI),TASEI Mikie
+Brazilian Open Sao Paulo 2006,2006-06-21,IKEIZUMI Claudia,ROJAS Karen,4,3,"2,10,13,11,6,11,11|11,12,11,6,11,4,2",,GRAND_SLAM,WS,1787,Qualification,IKEIZUMI Claudia (BRA),ROJAS Karen (CHI),IKEIZUMI Claudia
+Brazilian Open Sao Paulo 2006,2006-06-21,MOLNAR Cornelia,ROJAS Karen,4,0,"11,11,11,11|3,6,7,5",QR2,GRAND_SLAM,WS,1787,Qualification,MOLNAR Cornelia (CRO),ROJAS Karen (CHI),MOLNAR Cornelia
+Brazilian Open Sao Paulo 2006,2006-06-21,MOLNAR Cornelia,IKEIZUMI Claudia,4,0,"11,11,11,11|1,6,6,5",3,GRAND_SLAM,WS,1787,Qualification,MOLNAR Cornelia (CRO),IKEIZUMI Claudia (BRA),MOLNAR Cornelia
+Brazilian Open Sao Paulo 2006,2006-06-21,MURASHIGE Carina,PAULIN Nancy,4,1,"11,8,11,11,11|4,11,5,7,9",,GRAND_SLAM,WS,1787,Qualification,MURASHIGE Carina (BRA),PAULIN Nancy (CAN),MURASHIGE Carina
+Brazilian Open Sao Paulo 2006,2006-06-21,KISHIDA Satoko,PAULIN Nancy,4,0,"11,11,11,11|3,5,1,3",QR2,GRAND_SLAM,WS,1787,Qualification,KISHIDA Satoko (JPN),PAULIN Nancy (CAN),KISHIDA Satoko
+Brazilian Open Sao Paulo 2006,2006-06-21,KISHIDA Satoko,MURASHIGE Carina,4,1,"11,11,11,8,11|5,5,8,11,9",3,GRAND_SLAM,WS,1787,Qualification,KISHIDA Satoko (JPN),MURASHIGE Carina (BRA),KISHIDA Satoko
+Brazilian Open Sao Paulo 2006,2006-06-21,LONG Judy (Zhu),SAKO Karin,4,0,"11,11,11,11|7,3,7,7",,GRAND_SLAM,WS,1787,Qualification,LONG Judy (Zhu) (CAN),SAKO Karin (BRA),LONG Judy (Zhu)
+Brazilian Open Sao Paulo 2006,2006-06-21,YOON Sunae,LONG Judy (Zhu),4,0,"11,11,11,11|7,5,5,5",QR2,GRAND_SLAM,WS,1787,Qualification,YOON Sunae (KOR),LONG Judy (Zhu) (CAN),YOON Sunae
+Brazilian Open Sao Paulo 2006,2006-06-21,YOON Sunae,SAKO Karin,4,0,"11,11,11,11|5,1,3,4",3,GRAND_SLAM,WS,1787,Qualification,YOON Sunae (KOR),SAKO Karin (BRA),YOON Sunae
+Brazilian Open Sao Paulo 2006,2006-06-21,CHAKRABORTY Kasturi,KOCK Gabriela,4,3,"11,5,11,8,11,10,11|6,11,9,11,9,12,7",,GRAND_SLAM,WS,1787,Qualification,CHAKRABORTY Kasturi (IND),KOCK Gabriela (BRA),CHAKRABORTY Kasturi
+Brazilian Open Sao Paulo 2006,2006-06-21,GRUNDISCH Carole,KOCK Gabriela,4,0,"11,11,11,11|8,6,4,3",QR2,GRAND_SLAM,WS,1787,Qualification,GRUNDISCH Carole (FRA),KOCK Gabriela (BRA),GRUNDISCH Carole
+Brazilian Open Sao Paulo 2006,2006-06-21,GRUNDISCH Carole,CHAKRABORTY Kasturi,4,0,"11,11,11,11|9,9,7,6",3,GRAND_SLAM,WS,1787,Qualification,GRUNDISCH Carole (FRA),CHAKRABORTY Kasturi (IND),GRUNDISCH Carole
+Brazilian Open Sao Paulo 2006,2006-06-21,CODINA Ana,PAUL Mousumi,4,0,,,GRAND_SLAM,WS,1787,Qualification,CODINA Ana (ARG),PAUL Mousumi (IND),CODINA Ana
+Brazilian Open Sao Paulo 2006,2006-06-21,ETSUZAKI Ayumi,CODINA Ana,4,0,"11,11,11,11|2,1,1,3",QR2,GRAND_SLAM,WS,1787,Qualification,ETSUZAKI Ayumi (JPN),CODINA Ana (ARG),ETSUZAKI Ayumi
+Brazilian Open Sao Paulo 2006,2006-06-21,ETSUZAKI Ayumi,PAUL Mousumi,4,0,,3,GRAND_SLAM,WS,1787,Qualification,ETSUZAKI Ayumi (JPN),PAUL Mousumi (IND),ETSUZAKI Ayumi
+Brazilian Open Sao Paulo 2006,2006-06-21,FUKUSHIMA Karin,CHIU Wennin,4,1,"12,11,7,12,11|10,9,11,10,3",,GRAND_SLAM,WS,1787,Qualification,FUKUSHIMA Karin (BRA),CHIU Wennin (CAN),FUKUSHIMA Karin
+Brazilian Open Sao Paulo 2006,2006-06-21,EKHOLM Matilda,FUKUSHIMA Karin,4,1,"13,11,13,12,11|11,6,15,10,4",QR2,GRAND_SLAM,WS,1787,Qualification,EKHOLM Matilda (SWE),FUKUSHIMA Karin (BRA),EKHOLM Matilda
+Brazilian Open Sao Paulo 2006,2006-06-21,EKHOLM Matilda,CHIU Wennin,4,1,"6,11,11,11,11|11,4,6,6,6",3,GRAND_SLAM,WS,1787,Qualification,EKHOLM Matilda (SWE),CHIU Wennin (CAN),EKHOLM Matilda
+Brazilian Open Sao Paulo 2006,2006-06-21,LEE Eunsil,COULIBALY Dieniouma,4,0,"11,11,14,11|8,3,12,6",,GRAND_SLAM,WS,1787,Qualification,LEE Eunsil (KOR),COULIBALY Dieniouma (FRA),LEE Eunsil
+Brazilian Open Sao Paulo 2006,2006-06-21,LEE Eunsil,RAMIREZ Sara,4,2,"11,11,11,11,10,12|13,7,7,7,12,10",QR2,GRAND_SLAM,WS,1787,Qualification,LEE Eunsil (KOR),RAMIREZ Sara (ESP),LEE Eunsil
+Brazilian Open Sao Paulo 2006,2006-06-21,RAMIREZ Sara,COULIBALY Dieniouma,4,1,"12,11,11,11,12|10,6,13,8,10",3,GRAND_SLAM,WS,1787,Qualification,RAMIREZ Sara (ESP),COULIBALY Dieniouma (FRA),RAMIREZ Sara
+Brazilian Open Sao Paulo 2006,2006-06-21,YOON Suwon,YUEN Sara,4,1,"11,11,11,4,11|9,6,6,11,6",,GRAND_SLAM,WS,1787,Qualification,YOON Suwon (KOR),YUEN Sara (CAN),YOON Suwon
+Brazilian Open Sao Paulo 2006,2006-06-21,WANG Yu (YOB=1981),YOON Suwon,4,0,"11,11,11,12|9,9,9,10",QR2,GRAND_SLAM,WS,1787,Qualification,WANG Yu (YOB=1981) (ITA),YOON Suwon (KOR),WANG Yu (YOB=1981)
+Brazilian Open Sao Paulo 2006,2006-06-21,WANG Yu (YOB=1981),YUEN Sara,4,1,"11,11,11,9,11|7,4,4,11,3",3,GRAND_SLAM,WS,1787,Qualification,WANG Yu (YOB=1981) (ITA),YUEN Sara (CAN),WANG Yu (YOB=1981)
+Brazilian Open Sao Paulo 2006,2006-06-21,NONAKA Mariany,GAVILAN Sandy,4,1,"11,11,11,11,12|3,3,3,13,10",,GRAND_SLAM,WS,1787,Qualification,NONAKA Mariany (BRA),GAVILAN Sandy (PAR),NONAKA Mariany
+Brazilian Open Sao Paulo 2006,2006-06-21,SHIM Serom,GAVILAN Sandy,4,0,"11,11,11,11|5,4,8,3",QR2,GRAND_SLAM,WS,1787,Qualification,SHIM Serom (KOR),GAVILAN Sandy (PAR),SHIM Serom
+Brazilian Open Sao Paulo 2006,2006-06-21,SHIM Serom,NONAKA Mariany,4,1,"9,11,11,11,11|11,6,6,5,5",3,GRAND_SLAM,WS,1787,Qualification,SHIM Serom (KOR),NONAKA Mariany (BRA),SHIM Serom
+Brazilian Open Sao Paulo 2006,2006-06-21,YU Yunmi,SKOV Mie,4,1,"11,4,11,11,11|9,11,8,8,8",,GRAND_SLAM,WS,1787,Qualification,YU Yunmi (KOR),SKOV Mie (DEN),YU Yunmi
+Brazilian Open Sao Paulo 2006,2006-06-21,YU Yunmi,ZHANG Mo,4,2,"11,8,12,11,10,11|5,11,10,8,12,8",QR2,GRAND_SLAM,WS,1787,Qualification,YU Yunmi (KOR),ZHANG Mo (CAN),YU Yunmi
+Brazilian Open Sao Paulo 2006,2006-06-21,ZHANG Mo,SKOV Mie,4,3,"11,5,8,11,11,8,11|6,11,11,7,7,11,7",3,GRAND_SLAM,WS,1787,Qualification,ZHANG Mo (CAN),SKOV Mie (DEN),ZHANG Mo
+Brazilian Open Sao Paulo 2006,2006-06-21,NOUWEN Carla,OVELAR Lucero,4,0,"11,11,11,16|5,3,6,14",,GRAND_SLAM,WS,1787,Qualification,NOUWEN Carla (NED),OVELAR Lucero (PAR),NOUWEN Carla
+Brazilian Open Sao Paulo 2006,2006-06-21,GHATAK Poulomi,OVELAR Lucero,4,0,"11,11,11,11|7,2,8,4",QR2,GRAND_SLAM,WS,1787,Qualification,GHATAK Poulomi (IND),OVELAR Lucero (PAR),GHATAK Poulomi
+Brazilian Open Sao Paulo 2006,2006-06-21,NOUWEN Carla,GHATAK Poulomi,4,0,"11,11,11,11|6,6,7,9",3,GRAND_SLAM,WS,1787,Qualification,NOUWEN Carla (NED),GHATAK Poulomi (IND),NOUWEN Carla
+Brazilian Open Sao Paulo 2006,2006-06-21,HANFFOU Sarah,SOAVE Isabela,4,0,"11,11,11,12|4,3,3,10",,GRAND_SLAM,WS,1787,Qualification,HANFFOU Sarah (CMR),SOAVE Isabela (BRA),HANFFOU Sarah
+Brazilian Open Sao Paulo 2006,2006-06-21,CREEMERS Linda,SOAVE Isabela,4,0,"11,11,11,11|1,2,5,0",QR2,GRAND_SLAM,WS,1787,Qualification,CREEMERS Linda (NED),SOAVE Isabela (BRA),CREEMERS Linda
+Brazilian Open Sao Paulo 2006,2006-06-21,HANFFOU Sarah,CREEMERS Linda,4,2,"4,7,11,11,11,14|11,11,3,7,6,12",3,GRAND_SLAM,WS,1787,Qualification,HANFFOU Sarah (CMR),CREEMERS Linda (NED),HANFFOU Sarah
+Brazilian Open Sao Paulo 2006,2006-06-21,GRUNDISCH Carole,BOROS Tamara,4,2,"11,10,11,13,6,12|5,12,6,11,11,10",R32,GRAND_SLAM,WS,1787,Main Draw,GRUNDISCH Carole (FRA),BOROS Tamara (CRO),GRUNDISCH Carole
+Brazilian Open Sao Paulo 2006,2006-06-21,YU Yunmi,SILVA Ligia,4,0,"11,11,13,11|5,6,11,9",R32,GRAND_SLAM,WS,1787,Main Draw,YU Yunmi (KOR),SILVA Ligia (BRA),YU Yunmi
+Brazilian Open Sao Paulo 2006,2006-06-21,FUJII Hiroko,WANG Yu (YOB=1981),4,0,"11,11,11,12|7,5,1,10",R32,GRAND_SLAM,WS,1787,Main Draw,FUJII Hiroko (JPN),WANG Yu (YOB=1981) (ITA),FUJII Hiroko
+Brazilian Open Sao Paulo 2006,2006-06-21,PARK Miyoung,KISHIDA Satoko,4,0,"11,11,11,11|4,6,7,5",R32,GRAND_SLAM,WS,1787,Main Draw,PARK Miyoung (KOR),KISHIDA Satoko (JPN),PARK Miyoung
+Brazilian Open Sao Paulo 2006,2006-06-21,STEFANOVA Nikoleta,LANG Kristin,4,2,"11,12,6,12,11,11|5,14,11,10,7,5",R32,GRAND_SLAM,WS,1787,Main Draw,STEFANOVA Nikoleta (ITA),LANG Kristin (GER),STEFANOVA Nikoleta
+Brazilian Open Sao Paulo 2006,2006-06-21,LEE Eunsil,KONISHI An,4,2,"6,11,12,7,11,11|11,5,10,11,9,1",R32,GRAND_SLAM,WS,1787,Main Draw,LEE Eunsil (KOR),KONISHI An (JPN),LEE Eunsil
+Brazilian Open Sao Paulo 2006,2006-06-21,FUJINUMA Ai,NOUWEN Carla,4,1,"11,11,11,9,11|8,9,2,11,8",R32,GRAND_SLAM,WS,1787,Main Draw,FUJINUMA Ai (JPN),NOUWEN Carla (NED),FUJINUMA Ai
+Brazilian Open Sao Paulo 2006,2006-06-21,HIRANO Sayaka,PAOVIC Sandra,4,2,"11,9,11,11,8,11|8,11,8,5,11,7",R32,GRAND_SLAM,WS,1787,Main Draw,HIRANO Sayaka (JPN),PAOVIC Sandra (CRO),HIRANO Sayaka
+Brazilian Open Sao Paulo 2006,2006-06-21,TASEI Mikie,TAN Wenling,4,2,"13,8,11,11,8,11|11,11,1,9,11,4",R32,GRAND_SLAM,WS,1787,Main Draw,TASEI Mikie (JPN),TAN Wenling (ITA),TASEI Mikie
+Brazilian Open Sao Paulo 2006,2006-06-21,LEE Eunhee,EKHOLM Matilda,4,2,"11,7,11,11,6,11|5,11,6,7,11,7",R32,GRAND_SLAM,WS,1787,Main Draw,LEE Eunhee (KOR),EKHOLM Matilda (SWE),LEE Eunhee
+Brazilian Open Sao Paulo 2006,2006-06-21,YOON Sunae,POTA Georgina,4,3,"12,11,11,6,5,6,11|10,8,7,11,11,11,5",R32,GRAND_SLAM,WS,1787,Main Draw,YOON Sunae (KOR),POTA Georgina (HUN),YOON Sunae
+Brazilian Open Sao Paulo 2006,2006-06-21,KANAZAWA Saki,MOLNAR Cornelia,4,1,"11,12,11,11,14|6,10,13,5,12",R32,GRAND_SLAM,WS,1787,Main Draw,KANAZAWA Saki (JPN),MOLNAR Cornelia (CRO),KANAZAWA Saki
+Brazilian Open Sao Paulo 2006,2006-06-21,UMEMURA Aya,SHIM Serom,4,1,"16,11,11,8,11|14,3,7,11,5",R32,GRAND_SLAM,WS,1787,Main Draw,UMEMURA Aya (JPN),SHIM Serom (KOR),UMEMURA Aya
+Brazilian Open Sao Paulo 2006,2006-06-21,FUKUOKA Haruna,HANFFOU Sarah,4,1,"14,6,11,11,12|12,11,2,8,10",R32,GRAND_SLAM,WS,1787,Main Draw,FUKUOKA Haruna (JPN),HANFFOU Sarah (CMR),FUKUOKA Haruna
+Brazilian Open Sao Paulo 2006,2006-06-21,HIURA Reiko,PHAI PANG Laurie,4,0,"11,11,11,11|4,9,8,6",R32,GRAND_SLAM,WS,1787,Main Draw,HIURA Reiko (JPN),PHAI PANG Laurie (FRA),HIURA Reiko
+Brazilian Open Sao Paulo 2006,2006-06-21,MOON Hyunjung,ETSUZAKI Ayumi,4,2,"11,11,11,12,9,11|7,6,1,14,11,5",R32,GRAND_SLAM,WS,1787,Main Draw,MOON Hyunjung (KOR),ETSUZAKI Ayumi (JPN),MOON Hyunjung
+Brazilian Open Sao Paulo 2006,2006-06-21,GRUNDISCH Carole,YU Yunmi,4,1,"13,11,7,11,11|11,8,11,9,9",R16,GRAND_SLAM,WS,1787,Main Draw,GRUNDISCH Carole (FRA),YU Yunmi (KOR),GRUNDISCH Carole
+Brazilian Open Sao Paulo 2006,2006-06-21,FUJII Hiroko,PARK Miyoung,4,3,"11,7,3,12,8,16,11|9,11,11,10,11,14,5",R16,GRAND_SLAM,WS,1787,Main Draw,FUJII Hiroko (JPN),PARK Miyoung (KOR),FUJII Hiroko
+Brazilian Open Sao Paulo 2006,2006-06-21,STEFANOVA Nikoleta,LEE Eunsil,4,1,"11,11,5,11,13|5,9,11,7,11",R16,GRAND_SLAM,WS,1787,Main Draw,STEFANOVA Nikoleta (ITA),LEE Eunsil (KOR),STEFANOVA Nikoleta
+Brazilian Open Sao Paulo 2006,2006-06-21,HIRANO Sayaka,FUJINUMA Ai,4,1,"11,11,9,11,11|7,8,11,7,8",R16,GRAND_SLAM,WS,1787,Main Draw,HIRANO Sayaka (JPN),FUJINUMA Ai (JPN),HIRANO Sayaka
+Brazilian Open Sao Paulo 2006,2006-06-21,LEE Eunhee,TASEI Mikie,4,3,"5,11,14,11,10,7,12|11,9,12,6,12,11,10",R16,GRAND_SLAM,WS,1787,Main Draw,LEE Eunhee (KOR),TASEI Mikie (JPN),LEE Eunhee
+Brazilian Open Sao Paulo 2006,2006-06-21,KANAZAWA Saki,YOON Sunae,4,3,"6,11,13,9,11,11,11|11,8,15,11,8,8,3",R16,GRAND_SLAM,WS,1787,Main Draw,KANAZAWA Saki (JPN),YOON Sunae (KOR),KANAZAWA Saki
+Brazilian Open Sao Paulo 2006,2006-06-21,FUKUOKA Haruna,UMEMURA Aya,4,3,"7,11,15,8,13,7,11|11,8,13,11,11,11,6",R16,GRAND_SLAM,WS,1787,Main Draw,FUKUOKA Haruna (JPN),UMEMURA Aya (JPN),FUKUOKA Haruna
+Brazilian Open Sao Paulo 2006,2006-06-21,MOON Hyunjung,HIURA Reiko,4,0,"14,11,11,11|12,9,6,9",R16,GRAND_SLAM,WS,1787,Main Draw,MOON Hyunjung (KOR),HIURA Reiko (JPN),MOON Hyunjung
+Brazilian Open Sao Paulo 2006,2006-06-21,FUJII Hiroko,GRUNDISCH Carole,4,2,"11,11,9,11,12,11|3,4,11,4,14,9",QF,GRAND_SLAM,WS,1787,Main Draw,FUJII Hiroko (JPN),GRUNDISCH Carole (FRA),FUJII Hiroko
+Brazilian Open Sao Paulo 2006,2006-06-21,STEFANOVA Nikoleta,HIRANO Sayaka,4,3,"11,12,3,8,7,11,11|8,10,11,11,11,9,9",QF,GRAND_SLAM,WS,1787,Main Draw,STEFANOVA Nikoleta (ITA),HIRANO Sayaka (JPN),STEFANOVA Nikoleta
+Brazilian Open Sao Paulo 2006,2006-06-21,LEE Eunhee,KANAZAWA Saki,4,2,"11,11,11,12,7,11|2,6,5,14,11,9",QF,GRAND_SLAM,WS,1787,Main Draw,LEE Eunhee (KOR),KANAZAWA Saki (JPN),LEE Eunhee
+Brazilian Open Sao Paulo 2006,2006-06-21,FUKUOKA Haruna,MOON Hyunjung,4,3,"7,11,13,6,9,11,11|11,3,11,11,11,8,8",QF,GRAND_SLAM,WS,1787,Main Draw,FUKUOKA Haruna (JPN),MOON Hyunjung (KOR),FUKUOKA Haruna
+Brazilian Open Sao Paulo 2006,2006-06-21,STEFANOVA Nikoleta,FUJII Hiroko,4,0,"12,11,11,11|10,8,9,8",SF,GRAND_SLAM,WS,1787,Main Draw,STEFANOVA Nikoleta (ITA),FUJII Hiroko (JPN),STEFANOVA Nikoleta
+Brazilian Open Sao Paulo 2006,2006-06-21,FUKUOKA Haruna,LEE Eunhee,4,2,"5,11,6,15,14,11|11,9,11,13,12,6",SF,GRAND_SLAM,WS,1787,Main Draw,FUKUOKA Haruna (JPN),LEE Eunhee (KOR),FUKUOKA Haruna
+Brazilian Open Sao Paulo 2006,2006-06-21,FUKUOKA Haruna,STEFANOVA Nikoleta,4,2,"8,7,11,11,11,11|11,11,5,8,6,7",F,GRAND_SLAM,WS,1787,Main Draw,FUKUOKA Haruna (JPN),STEFANOVA Nikoleta (ITA),FUKUOKA Haruna
+Brazilian Open Sao Paulo 2006,2006-06-21,PHAI PANG Laurie,MARANHAO Valesca,4,0,"11,11,11,11|9,5,8,4",,GRAND_SLAM,WS,1787,Qualification,PHAI PANG Laurie (FRA),MARANHAO Valesca (BRA),PHAI PANG Laurie
+Brazilian Open Sao Paulo 2006,2006-06-21,RODRIGUEZ Berta,MARANHAO Valesca,4,0,"11,13,11,11|7,11,9,9",QR2,GRAND_SLAM,WS,1787,Qualification,RODRIGUEZ Berta (CHI),MARANHAO Valesca (BRA),RODRIGUEZ Berta
+Brazilian Open Sao Paulo 2006,2006-06-21,PHAI PANG Laurie,RODRIGUEZ Berta,4,3,"9,9,11,9,11,11,11|11,11,4,11,9,7,6",3,GRAND_SLAM,WS,1787,Qualification,PHAI PANG Laurie (FRA),RODRIGUEZ Berta (CHI),PHAI PANG Laurie
+Brazilian Open Sao Paulo 2006,2006-06-21,LEE Eunhee,NONAKA Mariany,4,0,"11,11,11,11|8,5,4,9",R16,GRAND_SLAM,U21WS,1787,Main Draw,LEE Eunhee (KOR),NONAKA Mariany (BRA),LEE Eunhee
+Brazilian Open Sao Paulo 2006,2006-06-21,MURASHIGE Carina,CREEMERS Linda,4,3,"11,6,3,15,5,11,11|7,11,11,13,11,2,8",R16,GRAND_SLAM,U21WS,1787,Main Draw,MURASHIGE Carina (BRA),CREEMERS Linda (NED),MURASHIGE Carina
+Brazilian Open Sao Paulo 2006,2006-06-21,HANFFOU Sarah,SHIM Serom,4,1,"7,11,14,11,11|11,9,12,2,9",R16,GRAND_SLAM,U21WS,1787,Main Draw,HANFFOU Sarah (CMR),SHIM Serom (KOR),HANFFOU Sarah
+Brazilian Open Sao Paulo 2006,2006-06-21,YU Yunmi,RAMIREZ Sara,4,2,"11,11,11,10,10,11|5,6,8,12,12,8",R16,GRAND_SLAM,U21WS,1787,Main Draw,YU Yunmi (KOR),RAMIREZ Sara (ESP),YU Yunmi
+Brazilian Open Sao Paulo 2006,2006-06-21,GRUNDISCH Carole,NOUWEN Carla,4,2,"6,9,11,11,11,11|11,11,7,7,4,3",R16,GRAND_SLAM,U21WS,1787,Main Draw,GRUNDISCH Carole (FRA),NOUWEN Carla (NED),GRUNDISCH Carole
+Brazilian Open Sao Paulo 2006,2006-06-21,ZHANG Mo,SAKO Karin,4,1,"11,11,11,9,11|6,5,3,11,7",R16,GRAND_SLAM,U21WS,1787,Main Draw,ZHANG Mo (CAN),SAKO Karin (BRA),ZHANG Mo
+Brazilian Open Sao Paulo 2006,2006-06-21,PHAI PANG Laurie,YUEN Sara,4,2,"8,11,11,11,11,11|11,7,9,13,7,7",R16,GRAND_SLAM,U21WS,1787,Main Draw,PHAI PANG Laurie (FRA),YUEN Sara (CAN),PHAI PANG Laurie
+Brazilian Open Sao Paulo 2006,2006-06-21,POTA Georgina,COULIBALY Dieniouma,4,0,"11,11,11,11|8,9,8,5",R16,GRAND_SLAM,U21WS,1787,Main Draw,POTA Georgina (HUN),COULIBALY Dieniouma (FRA),POTA Georgina
+Brazilian Open Sao Paulo 2006,2006-06-21,LEE Eunhee,MURASHIGE Carina,4,0,"11,11,11,11|5,5,7,6",QF,GRAND_SLAM,U21WS,1787,Main Draw,LEE Eunhee (KOR),MURASHIGE Carina (BRA),LEE Eunhee
+Brazilian Open Sao Paulo 2006,2006-06-21,HANFFOU Sarah,YU Yunmi,4,1,"11,11,8,11,11|8,8,11,5,8",QF,GRAND_SLAM,U21WS,1787,Main Draw,HANFFOU Sarah (CMR),YU Yunmi (KOR),HANFFOU Sarah
+Brazilian Open Sao Paulo 2006,2006-06-21,GRUNDISCH Carole,ZHANG Mo,4,3,"11,11,11,9,11,7,11|7,13,9,11,5,11,4",QF,GRAND_SLAM,U21WS,1787,Main Draw,GRUNDISCH Carole (FRA),ZHANG Mo (CAN),GRUNDISCH Carole
+Brazilian Open Sao Paulo 2006,2006-06-21,POTA Georgina,PHAI PANG Laurie,4,1,"4,11,11,13,11|11,7,3,11,8",QF,GRAND_SLAM,U21WS,1787,Main Draw,POTA Georgina (HUN),PHAI PANG Laurie (FRA),POTA Georgina
+Brazilian Open Sao Paulo 2006,2006-06-21,LEE Eunhee,HANFFOU Sarah,4,0,"11,11,11,11|7,1,3,5",SF,GRAND_SLAM,U21WS,1787,Main Draw,LEE Eunhee (KOR),HANFFOU Sarah (CMR),LEE Eunhee
+Brazilian Open Sao Paulo 2006,2006-06-21,POTA Georgina,GRUNDISCH Carole,4,3,"11,11,9,15,16,8,15|6,4,11,13,18,11,13",SF,GRAND_SLAM,U21WS,1787,Main Draw,POTA Georgina (HUN),GRUNDISCH Carole (FRA),POTA Georgina
+Brazilian Open Sao Paulo 2006,2006-06-21,LEE Eunhee,POTA Georgina,4,2,"10,13,11,11,9,11|12,11,7,9,11,9",F,GRAND_SLAM,U21WS,1787,Main Draw,LEE Eunhee (KOR),POTA Georgina (HUN),LEE Eunhee
+Brazilian Open Sao Paulo 2006,2006-06-21,RABONI Patricia,ROJAS Karen,3,0,"11,11,15|6,2,13",,GRAND_SLAM,U21WS,1787,Qualification,RABONI Patricia (BRA),ROJAS Karen (CHI),RABONI Patricia
+Brazilian Open Sao Paulo 2006,2006-06-21,HANFFOU Sarah,ROJAS Karen,3,0,"11,11,11|3,7,2",QR2,GRAND_SLAM,U21WS,1787,Qualification,HANFFOU Sarah (CMR),ROJAS Karen (CHI),HANFFOU Sarah
+Brazilian Open Sao Paulo 2006,2006-06-21,HANFFOU Sarah,RABONI Patricia,3,0,"11,11,11|2,4,7",3,GRAND_SLAM,U21WS,1787,Qualification,HANFFOU Sarah (CMR),RABONI Patricia (BRA),HANFFOU Sarah
+Brazilian Open Sao Paulo 2006,2006-06-21,YAMADA Jessica,CODINA Ana,3,2,"11,11,8,11,11|13,2,11,6,4",,GRAND_SLAM,U21WS,1787,Qualification,YAMADA Jessica (BRA),CODINA Ana (ARG),YAMADA Jessica
+Brazilian Open Sao Paulo 2006,2006-06-21,NOUWEN Carla,CODINA Ana,3,0,"11,11,11|3,5,2",QR2,GRAND_SLAM,U21WS,1787,Qualification,NOUWEN Carla (NED),CODINA Ana (ARG),NOUWEN Carla
+Brazilian Open Sao Paulo 2006,2006-06-21,NOUWEN Carla,YAMADA Jessica,3,0,"11,11,11|7,5,9",3,GRAND_SLAM,U21WS,1787,Qualification,NOUWEN Carla (NED),YAMADA Jessica (BRA),NOUWEN Carla
+Brazilian Open Sao Paulo 2006,2006-06-21,YU Yunmi,RANZEIRO Maira,3,0,"11,11,11|9,5,3",,GRAND_SLAM,U21WS,1787,Qualification,YU Yunmi (KOR),RANZEIRO Maira (BRA),YU Yunmi
+Brazilian Open Sao Paulo 2006,2006-06-21,SKOV Mie,RANZEIRO Maira,3,0,"11,12,11|7,10,9",3,GRAND_SLAM,U21WS,1787,Qualification,SKOV Mie (DEN),RANZEIRO Maira (BRA),SKOV Mie
+Brazilian Open Sao Paulo 2006,2006-06-21,YUEN Stephanie,GAVILAN Sandy,3,2,"11,9,12,11,13|8,11,14,7,11",,GRAND_SLAM,U21WS,1787,Qualification,YUEN Stephanie (CAN),GAVILAN Sandy (PAR),YUEN Stephanie
+Brazilian Open Sao Paulo 2006,2006-06-21,NONAKA Mariany,YUEN Stephanie,3,0,"11,17,11|7,15,9",3,GRAND_SLAM,U21WS,1787,Qualification,NONAKA Mariany (BRA),YUEN Stephanie (CAN),NONAKA Mariany
+Brazilian Open Sao Paulo 2006,2006-06-21,CASTELLANO Natalia,KOCK Gabriela,3,2,"7,6,13,11,12|11,11,11,4,10",,GRAND_SLAM,U21WS,1787,Qualification,CASTELLANO Natalia (CHI),KOCK Gabriela (BRA),CASTELLANO Natalia
+Brazilian Open Sao Paulo 2006,2006-06-21,YUEN Sara,KOCK Gabriela,3,1,"11,11,12,12|2,7,14,10",QR2,GRAND_SLAM,U21WS,1787,Qualification,YUEN Sara (CAN),KOCK Gabriela (BRA),YUEN Sara
+Brazilian Open Sao Paulo 2006,2006-06-21,YUEN Sara,CASTELLANO Natalia,3,1,"11,9,11,11|4,11,5,5",3,GRAND_SLAM,U21WS,1787,Qualification,YUEN Sara (CAN),CASTELLANO Natalia (CHI),YUEN Sara
+Brazilian Open Sao Paulo 2006,2006-06-21,IKEIZUMI Claudia,OVELAR Lucero,3,0,"11,11,11|2,6,5",,GRAND_SLAM,U21WS,1787,Qualification,IKEIZUMI Claudia (BRA),OVELAR Lucero (PAR),IKEIZUMI Claudia
+Brazilian Open Sao Paulo 2006,2006-06-21,COULIBALY Dieniouma,OVELAR Lucero,3,0,"11,11,11|3,5,3",QR2,GRAND_SLAM,U21WS,1787,Qualification,COULIBALY Dieniouma (FRA),OVELAR Lucero (PAR),COULIBALY Dieniouma
+Brazilian Open Sao Paulo 2006,2006-06-21,COULIBALY Dieniouma,IKEIZUMI Claudia,3,0,"11,11,13|9,8,11",3,GRAND_SLAM,U21WS,1787,Qualification,COULIBALY Dieniouma (FRA),IKEIZUMI Claudia (BRA),COULIBALY Dieniouma
+Brazilian Open Sao Paulo 2006,2006-06-21,FUKUSHIMA Karin,MURASHIGE Carina,3,2,"8,3,13,11,11|11,11,11,9,5",,GRAND_SLAM,U21WS,1787,Qualification,FUKUSHIMA Karin (BRA),MURASHIGE Carina (BRA),FUKUSHIMA Karin
+Brazilian Open Sao Paulo 2006,2006-06-21,CHIU Wennin,FUKUSHIMA Karin,3,2,"11,11,6,13,17|4,5,11,15,15",QR2,GRAND_SLAM,U21WS,1787,Qualification,CHIU Wennin (CAN),FUKUSHIMA Karin (BRA),CHIU Wennin
+Brazilian Open Sao Paulo 2006,2006-06-21,MURASHIGE Carina,CHIU Wennin,3,1,"8,12,11,11|11,10,3,8",3,GRAND_SLAM,U21WS,1787,Qualification,MURASHIGE Carina (BRA),CHIU Wennin (CAN),MURASHIGE Carina
+Brazilian Open Sao Paulo 2006,2006-06-21,SAKO Karin,SOAVE Isabela,3,0,"13,11,11|11,8,6",,GRAND_SLAM,U21WS,1787,Qualification,SAKO Karin (BRA),SOAVE Isabela (BRA),SAKO Karin
+Brazilian Open Sao Paulo 2006,2006-06-21,SOAVE Isabela,PAUL Mousumi,4,0,,QR2,GRAND_SLAM,U21WS,1787,Qualification,SOAVE Isabela (BRA),PAUL Mousumi (IND),SOAVE Isabela
+Brazilian Open Sao Paulo 2006,2006-06-21,SAKO Karin,PAUL Mousumi,3,0,,3,GRAND_SLAM,U21WS,1787,Qualification,SAKO Karin (BRA),PAUL Mousumi (IND),SAKO Karin
+Brazilian Open Sao Paulo 2006,2006-06-21,KOJIMA Ricardo/MANCINI Eric,GRECO Juan/MOAVRO Sebastian,3,0,"11,11,11|1,8,2",QR16,GRAND_SLAM,MD,1787,Qualification,KOJIMA Ricardo (BRA) / MANCINI Eric (BRA),GRECO Juan (ARG) / MOAVRO Sebastian (ARG),KOJIMA Ricardo
+Brazilian Open Sao Paulo 2006,2006-06-21,CLOSSET Marc/DELOBBE Damien,MANHANI Humberto/WIEST Renan,3,0,"11,11,11|3,8,5",QR32,GRAND_SLAM,MD,1787,Qualification,CLOSSET Marc (BEL) / DELOBBE Damien (BEL),MANHANI Humberto (BRA) / WIEST Renan (BRA),CLOSSET Marc
+Brazilian Open Sao Paulo 2006,2006-06-21,PAZSY Ferenc/TOKIC Bojan,CLOSSET Marc/DELOBBE Damien,3,1,"11,9,11,11|7,11,7,5",QR16,GRAND_SLAM,MD,1787,Qualification,PAZSY Ferenc (HUN) / TOKIC Bojan (SLO),CLOSSET Marc (BEL) / DELOBBE Damien (BEL),PAZSY Ferenc
+Brazilian Open Sao Paulo 2006,2006-06-21,HOYAMA Hugo/MONTEIRO Thiago,CHO Eonrae/CHO Jihoon,4,3,"11,11,11,6,5,3,12|4,6,8,11,11,11,10",R16,GRAND_SLAM,MD,1787,Main Draw,HOYAMA Hugo (BRA) / MONTEIRO Thiago (BRA),CHO Eonrae (KOR) / CHO Jihoon (KOR),HOYAMA Hugo
+Brazilian Open Sao Paulo 2006,2006-06-21,MATSUMOTO Cazuo/TSUBOI Gustavo,CARNEROS Alfredo/DURAN Marc,4,0,,R16,GRAND_SLAM,MD,1787,Main Draw,MATSUMOTO Cazuo (BRA) / TSUBOI Gustavo (BRA),CARNEROS Alfredo (ESP) / DURAN Marc (ESP),MATSUMOTO Cazuo
+Brazilian Open Sao Paulo 2006,2006-06-21,HOYAMA Hugo/MONTEIRO Thiago,MATSUMOTO Cazuo/TSUBOI Gustavo,4,3,"11,11,2,11,4,7,11|8,4,11,8,11,11,3",QF,GRAND_SLAM,MD,1787,Main Draw,HOYAMA Hugo (BRA) / MONTEIRO Thiago (BRA),MATSUMOTO Cazuo (BRA) / TSUBOI Gustavo (BRA),HOYAMA Hugo
+Brazilian Open Sao Paulo 2006,2006-06-21,ALTO Gaston/TEMPERLEY Diego,BISSACO Manoel/CORSINI Marcelo,3,2,"7,11,9,12,11|11,7,11,10,2",QR32,GRAND_SLAM,MD,1787,Qualification,ALTO Gaston (ARG) / TEMPERLEY Diego (ARG),BISSACO Manoel (BRA) / CORSINI Marcelo (BRA),ALTO Gaston
+Brazilian Open Sao Paulo 2006,2006-06-21,LIU Song/TABACHNIK Pablo,VENTURA DOS ANJOS Bruno/CASTRO Lidney,3,0,"11,11,11|4,9,7",QR32,GRAND_SLAM,MD,1787,Qualification,LIU Song (ARG) / TABACHNIK Pablo (ARG),VENTURA DOS ANJOS Bruno (BRA) / CASTRO Lidney (USA),LIU Song
+Brazilian Open Sao Paulo 2006,2006-06-21,TAKAKIWA Kenichi/YOSHIDA Kaii,SILVA Daniel/SILVA NETO Olimpio Gomes,3,0,"11,11,11|5,2,6",QR32,GRAND_SLAM,MD,1787,Qualification,TAKAKIWA Kenichi (JPN) / YOSHIDA Kaii (JPN),SILVA Daniel (BRA) / SILVA NETO Olimpio Gomes (BRA),TAKAKIWA Kenichi
+Brazilian Open Sao Paulo 2006,2006-06-21,OLEA Carlos/LEVIS Bruno,GALLINDO Ivo/SILVA Lucas,3,0,,QR32,GRAND_SLAM,MD,1787,Qualification,OLEA Carlos (CHI) / LEVIS Bruno (CHI),GALLINDO Ivo (BRA) / SILVA Lucas (BRA),OLEA Carlos
+Brazilian Open Sao Paulo 2006,2006-06-21,MACHADO Carlos/SAHA Subhajit,BARBOSA Jose/COSTA Daniel,3,0,"11,11,11|4,6,7",QR32,GRAND_SLAM,MD,1787,Qualification,MACHADO Carlos (ESP) / SAHA Subhajit (IND),BARBOSA Jose (BRA) / COSTA Daniel (BRA),MACHADO Carlos
+Brazilian Open Sao Paulo 2006,2006-06-21,MATSUMOTO Cazuo/TSUBOI Gustavo,HINSE Pierre-Luc/THERIEN Xavier,3,1,"11,9,11,11|8,11,7,7",QR32,GRAND_SLAM,MD,1787,Qualification,MATSUMOTO Cazuo (BRA) / TSUBOI Gustavo (BRA),HINSE Pierre-Luc (CAN) / THERIEN Xavier (CAN),MATSUMOTO Cazuo
+Brazilian Open Sao Paulo 2006,2006-06-21,MATSUMOTO Cazuo/TSUBOI Gustavo,KONECNY Tomas/VOZICKY Bohumil,3,1,"11,11,7,11|8,8,11,6",QR16,GRAND_SLAM,MD,1787,Qualification,MATSUMOTO Cazuo (BRA) / TSUBOI Gustavo (BRA),KONECNY Tomas (CZE) / VOZICKY Bohumil (CZE),MATSUMOTO Cazuo
+Brazilian Open Sao Paulo 2006,2006-06-21,SHEN Qiang/ZHANG Wilson,GAVILAN Oscar/UBILLA Nicolas,3,0,"11,11,11|3,3,3",QR32,GRAND_SLAM,MD,1787,Qualification,SHEN Qiang (CAN) / ZHANG Wilson (CAN),GAVILAN Oscar (PAR) / UBILLA Nicolas (CHI),SHEN Qiang
+Brazilian Open Sao Paulo 2006,2006-06-21,SHEN Qiang/ZHANG Wilson,LIU Song/TABACHNIK Pablo,3,0,"11,13,11|4,11,9",QR16,GRAND_SLAM,MD,1787,Qualification,SHEN Qiang (CAN) / ZHANG Wilson (CAN),LIU Song (ARG) / TABACHNIK Pablo (ARG),SHEN Qiang
+Brazilian Open Sao Paulo 2006,2006-06-21,CROTTI Mattia/TOMASI Stefano,KONGSGAARD Christian/PETERSEN Christoffer,3,2,"12,3,11,13,11|14,11,5,11,4",QR32,GRAND_SLAM,MD,1787,Qualification,CROTTI Mattia (ITA) / TOMASI Stefano (ITA),KONGSGAARD Christian (DEN) / PETERSEN Christoffer (DEN),CROTTI Mattia
+Brazilian Open Sao Paulo 2006,2006-06-21,TAKAKIWA Kenichi/YOSHIDA Kaii,BERTIN Christophe/LEBESSON Emmanuel,4,2,"11,11,11,8,9,11|9,5,8,11,11,3",R16,GRAND_SLAM,MD,1787,Main Draw,TAKAKIWA Kenichi (JPN) / YOSHIDA Kaii (JPN),BERTIN Christophe (FRA) / LEBESSON Emmanuel (FRA),TAKAKIWA Kenichi
+Brazilian Open Sao Paulo 2006,2006-06-21,KONECNY Tomas/VOZICKY Bohumil,MOLNAR Csaba/ZOMBORI David,3,1,"11,9,11,11|2,11,5,9",QR32,GRAND_SLAM,MD,1787,Qualification,KONECNY Tomas (CZE) / VOZICKY Bohumil (CZE),MOLNAR Csaba (HUN) / ZOMBORI David (HUN),KONECNY Tomas
+Brazilian Open Sao Paulo 2006,2006-06-21,JAKAB Janos/ZWICKL Daniel,MACHADO Carlos/SAHA Subhajit,4,0,"11,11,11,11|7,7,6,8",R16,GRAND_SLAM,MD,1787,Main Draw,JAKAB Janos (HUN) / ZWICKL Daniel (HUN),MACHADO Carlos (ESP) / SAHA Subhajit (IND),JAKAB Janos
+Brazilian Open Sao Paulo 2006,2006-06-21,ACHANTA Sharath/ROY Soumyadeep,BARRETO Israel/SOUZA Diego,3,1,"11,7,15,11|9,11,13,7",QR32,GRAND_SLAM,MD,1787,Qualification,ACHANTA Sharath (IND) / ROY Soumyadeep (IND),BARRETO Israel (BRA) / SOUZA Diego (BRA),ACHANTA Sharath
+Brazilian Open Sao Paulo 2006,2006-06-21,TAKAKIWA Kenichi/YOSHIDA Kaii,ACHANTA Sharath/ROY Soumyadeep,3,0,"11,11,11|5,5,8",QR16,GRAND_SLAM,MD,1787,Qualification,TAKAKIWA Kenichi (JPN) / YOSHIDA Kaii (JPN),ACHANTA Sharath (IND) / ROY Soumyadeep (IND),TAKAKIWA Kenichi
+Brazilian Open Sao Paulo 2006,2006-06-21,GRECO Juan/MOAVRO Sebastian,DIDUKH Oleksandr/MONDELLO Massimiliano,3,0,,QR32,GRAND_SLAM,MD,1787,Qualification,GRECO Juan (ARG) / MOAVRO Sebastian (ARG),DIDUKH Oleksandr (UKR) / MONDELLO Massimiliano (ITA),GRECO Juan
+Brazilian Open Sao Paulo 2006,2006-06-21,MACHADO Carlos/SAHA Subhajit,CROTTI Mattia/TOMASI Stefano,3,1,"11,11,8,11|6,6,11,2",QR16,GRAND_SLAM,MD,1787,Qualification,MACHADO Carlos (ESP) / SAHA Subhajit (IND),CROTTI Mattia (ITA) / TOMASI Stefano (ITA),MACHADO Carlos
+Brazilian Open Sao Paulo 2006,2006-06-21,TAKAKIWA Kenichi/YOSHIDA Kaii,JAKAB Janos/ZWICKL Daniel,4,3,"11,9,9,5,11,13,11|7,11,11,11,6,11,7",QF,GRAND_SLAM,MD,1787,Main Draw,TAKAKIWA Kenichi (JPN) / YOSHIDA Kaii (JPN),JAKAB Janos (HUN) / ZWICKL Daniel (HUN),TAKAKIWA Kenichi
+Brazilian Open Sao Paulo 2006,2006-06-21,APOLONIA Tiago/MONTEIRO Joao,TAKAKIWA Kenichi/YOSHIDA Kaii,4,2,"11,11,5,11,11,11|8,13,11,5,9,4",SF,GRAND_SLAM,MD,1787,Main Draw,APOLONIA Tiago (POR) / MONTEIRO Joao (POR),TAKAKIWA Kenichi (JPN) / YOSHIDA Kaii (JPN),APOLONIA Tiago
+Brazilian Open Sao Paulo 2006,2006-06-21,KIM Taehoon/LEE Jinkwon,SHEN Qiang/ZHANG Wilson,4,1,"11,11,11,7,11|7,8,8,11,4",R16,GRAND_SLAM,MD,1787,Main Draw,KIM Taehoon (KOR) / LEE Jinkwon (KOR),SHEN Qiang (CAN) / ZHANG Wilson (CAN),KIM Taehoon
+Brazilian Open Sao Paulo 2006,2006-06-21,KIM Taehoon/LEE Jinkwon,PAZSY Ferenc/TOKIC Bojan,4,1,"11,11,6,12,11|7,9,11,10,8",QF,GRAND_SLAM,MD,1787,Main Draw,KIM Taehoon (KOR) / LEE Jinkwon (KOR),PAZSY Ferenc (HUN) / TOKIC Bojan (SLO),KIM Taehoon
+Brazilian Open Sao Paulo 2006,2006-06-21,KIM Taehoon/LEE Jinkwon,HOYAMA Hugo/MONTEIRO Thiago,4,0,"11,11,12,11|6,6,10,7",SF,GRAND_SLAM,MD,1787,Main Draw,KIM Taehoon (KOR) / LEE Jinkwon (KOR),HOYAMA Hugo (BRA) / MONTEIRO Thiago (BRA),KIM Taehoon
+Brazilian Open Sao Paulo 2006,2006-06-21,APOLONIA Tiago/MONTEIRO Joao,KIM Taehoon/LEE Jinkwon,4,1,"11,11,11,6,11|6,3,8,11,5",F,GRAND_SLAM,MD,1787,Main Draw,APOLONIA Tiago (POR) / MONTEIRO Joao (POR),KIM Taehoon (KOR) / LEE Jinkwon (KOR),APOLONIA Tiago
+Brazilian Open Sao Paulo 2006,2006-06-21,CHO Eonrae/CHO Jihoon,ALTO Gaston/TEMPERLEY Diego,3,0,"11,11,11|8,6,4",QR16,GRAND_SLAM,MD,1787,Qualification,CHO Eonrae (KOR) / CHO Jihoon (KOR),ALTO Gaston (ARG) / TEMPERLEY Diego (ARG),CHO Eonrae
+Brazilian Open Sao Paulo 2006,2006-06-21,KOJIMA Ricardo/MANCINI Eric,AGUIRRE Marcelo/MIERES Juan Manuel,3,2,"11,8,11,8,11|4,11,8,11,9",QR32,GRAND_SLAM,MD,1787,Qualification,KOJIMA Ricardo (BRA) / MANCINI Eric (BRA),AGUIRRE Marcelo (PAR) / MIERES Juan Manuel (PAR),KOJIMA Ricardo
+Brazilian Open Sao Paulo 2006,2006-06-21,APOLONIA Tiago/MONTEIRO Joao,DESPRES Rodolphe/LEGOUT Christophe,4,2,"9,8,11,11,11,14|11,11,5,7,7,12",R16,GRAND_SLAM,MD,1787,Main Draw,APOLONIA Tiago (POR) / MONTEIRO Joao (POR),DESPRES Rodolphe (FRA) / LEGOUT Christophe (FRA),APOLONIA Tiago
+Brazilian Open Sao Paulo 2006,2006-06-21,APOLONIA Tiago/MONTEIRO Joao,OLEA Carlos/LEVIS Bruno,3,1,"11,11,10,11|8,5,12,7",QR16,GRAND_SLAM,MD,1787,Qualification,APOLONIA Tiago (POR) / MONTEIRO Joao (POR),OLEA Carlos (CHI) / LEVIS Bruno (CHI),APOLONIA Tiago
+Brazilian Open Sao Paulo 2006,2006-06-21,PAZSY Ferenc/TOKIC Bojan,MAECK Anthony/VOSTES Yannick,4,1,"8,11,12,11,11|11,8,10,8,7",R16,GRAND_SLAM,MD,1787,Main Draw,PAZSY Ferenc (HUN) / TOKIC Bojan (SLO),MAECK Anthony (BEL) / VOSTES Yannick (BEL),PAZSY Ferenc
+Brazilian Open Sao Paulo 2006,2006-06-21,PISTEJ Lubomir/SEREDA Peter,KOJIMA Ricardo/MANCINI Eric,4,2,"11,9,11,7,15,11|3,11,6,11,13,9",R16,GRAND_SLAM,MD,1787,Main Draw,PISTEJ Lubomir (SVK) / SEREDA Peter (SVK),KOJIMA Ricardo (BRA) / MANCINI Eric (BRA),PISTEJ Lubomir
+Brazilian Open Sao Paulo 2006,2006-06-21,APOLONIA Tiago/MONTEIRO Joao,PISTEJ Lubomir/SEREDA Peter,4,0,"11,11,11,11|8,3,6,9",QF,GRAND_SLAM,MD,1787,Main Draw,APOLONIA Tiago (POR) / MONTEIRO Joao (POR),PISTEJ Lubomir (SVK) / SEREDA Peter (SVK),APOLONIA Tiago
+Brazilian Open Sao Paulo 2006,2006-06-21,MURASHIGE Carina/YAMADA Jessica,GAVILAN Sandy/OVELAR Lucero,3,1,"11,11,9,11|4,3,11,7",QR32,GRAND_SLAM,WD,1787,Qualification,MURASHIGE Carina (BRA) / YAMADA Jessica (BRA),GAVILAN Sandy (PAR) / OVELAR Lucero (PAR),MURASHIGE Carina
+Brazilian Open Sao Paulo 2006,2006-06-21,YOON Suwon/YU Yunmi,MARANHAO Valesca/RABONI Patricia,3,1,"12,10,11,11|10,12,8,6",QR32,GRAND_SLAM,WD,1787,Qualification,YOON Suwon (KOR) / YU Yunmi (KOR),MARANHAO Valesca (BRA) / RABONI Patricia (BRA),YOON Suwon
+Brazilian Open Sao Paulo 2006,2006-06-21,EKHOLM Matilda/RAMIREZ Sara,MURASHIGE Carina/YAMADA Jessica,3,1,"2,11,11,11|11,1,7,6",QR16,GRAND_SLAM,WD,1787,Qualification,EKHOLM Matilda (SWE) / RAMIREZ Sara (ESP),MURASHIGE Carina (BRA) / YAMADA Jessica (BRA),EKHOLM Matilda
+Brazilian Open Sao Paulo 2006,2006-06-21,FUJINUMA Ai/HIRANO Sayaka,CHIU Wennin/YUEN Sara,4,1,"11,11,11,8,11|4,6,9,11,5",R16,GRAND_SLAM,WD,1787,Main Draw,FUJINUMA Ai (JPN) / HIRANO Sayaka (JPN),CHIU Wennin (CAN) / YUEN Sara (CAN),FUJINUMA Ai
+Brazilian Open Sao Paulo 2006,2006-06-21,CHIU Wennin/YUEN Sara,FUKUSHIMA Karin/SOAVE Isabela,3,1,"11,11,9,11|7,5,11,7",QR32,GRAND_SLAM,WD,1787,Qualification,CHIU Wennin (CAN) / YUEN Sara (CAN),FUKUSHIMA Karin (BRA) / SOAVE Isabela (BRA),CHIU Wennin
+Brazilian Open Sao Paulo 2006,2006-06-21,PAULIN Nancy/YUEN Stephanie,KOCK Gabriela/RANZEIRO Maira,3,1,"11,11,5,11|9,9,11,7",QR16,GRAND_SLAM,WD,1787,Qualification,PAULIN Nancy (CAN) / YUEN Stephanie (CAN),KOCK Gabriela (BRA) / RANZEIRO Maira (BRA),PAULIN Nancy
+Brazilian Open Sao Paulo 2006,2006-06-21,CHIU Wennin/YUEN Sara,GRUNDISCH Carole/PHAI PANG Laurie,3,1,"11,7,11,11|6,11,2,3",QR16,GRAND_SLAM,WD,1787,Qualification,CHIU Wennin (CAN) / YUEN Sara (CAN),GRUNDISCH Carole (FRA) / PHAI PANG Laurie (FRA),CHIU Wennin
+Brazilian Open Sao Paulo 2006,2006-06-21,PAULIN Nancy/YUEN Stephanie,CERON Ximena/RODRIGUEZ Berta,3,2,"11,11,9,5,11|6,5,11,11,9",QR32,GRAND_SLAM,WD,1787,Qualification,PAULIN Nancy (CAN) / YUEN Stephanie (CAN),CERON Ximena (CHI) / RODRIGUEZ Berta (CHI),PAULIN Nancy
+Brazilian Open Sao Paulo 2006,2006-06-21,CHAKRABORTY Kasturi/GHATAK Poulomi,CASTELLANO Natalia/ROJAS Karen,3,1,"11,11,11,12|13,6,9,10",QR32,GRAND_SLAM,WD,1787,Qualification,CHAKRABORTY Kasturi (IND) / GHATAK Poulomi (IND),CASTELLANO Natalia (CHI) / ROJAS Karen (CHI),CHAKRABORTY Kasturi
+Brazilian Open Sao Paulo 2006,2006-06-21,SKOV Mie/WANG Yu (YOB=1981),COULIBALY Dieniouma/HANFFOU Sarah,3,0,"11,11,11|8,3,8",QR16,GRAND_SLAM,WD,1787,Qualification,SKOV Mie (DEN) / WANG Yu (YOB=1981) (ITA),COULIBALY Dieniouma (FRA) / HANFFOU Sarah (CMR),SKOV Mie
+Brazilian Open Sao Paulo 2006,2006-06-21,PAOVIC Sandra/MOLNAR Cornelia,PAULIN Nancy/YUEN Stephanie,4,1,"11,11,9,11,11|8,6,11,8,6",R16,GRAND_SLAM,WD,1787,Main Draw,PAOVIC Sandra (CRO) / MOLNAR Cornelia (CRO),PAULIN Nancy (CAN) / YUEN Stephanie (CAN),PAOVIC Sandra
+Brazilian Open Sao Paulo 2006,2006-06-21,FUKUOKA Haruna/TASEI Mikie,PAOVIC Sandra/MOLNAR Cornelia,4,0,"11,11,11,11|9,8,6,7",QF,GRAND_SLAM,WD,1787,Main Draw,FUKUOKA Haruna (JPN) / TASEI Mikie (JPN),PAOVIC Sandra (CRO) / MOLNAR Cornelia (CRO),FUKUOKA Haruna
+Brazilian Open Sao Paulo 2006,2006-06-21,STEFANOVA Nikoleta/TAN Wenling,EKHOLM Matilda/RAMIREZ Sara,4,1,"5,13,11,14,11|11,11,5,12,4",R16,GRAND_SLAM,WD,1787,Main Draw,STEFANOVA Nikoleta (ITA) / TAN Wenling (ITA),EKHOLM Matilda (SWE) / RAMIREZ Sara (ESP),STEFANOVA Nikoleta
+Brazilian Open Sao Paulo 2006,2006-06-21,HIURA Reiko/KONISHI An,POTA Georgina/LANG Kristin,4,0,"11,11,11,11|7,4,4,8",R16,GRAND_SLAM,WD,1787,Main Draw,HIURA Reiko (JPN) / KONISHI An (JPN),POTA Georgina (HUN) / LANG Kristin (GER),HIURA Reiko
+Brazilian Open Sao Paulo 2006,2006-06-21,SKOV Mie/WANG Yu (YOB=1981),IKEIZUMI Claudia/SAKO Karin,3,1,"12,6,11,11|10,11,9,8",QR32,GRAND_SLAM,WD,1787,Qualification,SKOV Mie (DEN) / WANG Yu (YOB=1981) (ITA),IKEIZUMI Claudia (BRA) / SAKO Karin (BRA),SKOV Mie
+Brazilian Open Sao Paulo 2006,2006-06-21,PARK Miyoung/YOON Sunae,KISHIDA Satoko/UMEMURA Aya,4,0,"11,11,11,11|8,7,4,8",R16,GRAND_SLAM,WD,1787,Main Draw,PARK Miyoung (KOR) / YOON Sunae (KOR),KISHIDA Satoko (JPN) / UMEMURA Aya (JPN),PARK Miyoung
+Brazilian Open Sao Paulo 2006,2006-06-21,FUKUOKA Haruna/TASEI Mikie,NONAKA Mariany/SILVA Ligia,4,0,"11,11,11,11|3,6,6,3",R16,GRAND_SLAM,WD,1787,Main Draw,FUKUOKA Haruna (JPN) / TASEI Mikie (JPN),NONAKA Mariany (BRA) / SILVA Ligia (BRA),FUKUOKA Haruna
+Brazilian Open Sao Paulo 2006,2006-06-21,FUJII Hiroko/KANAZAWA Saki,LEE Eunhee/SHIM Serom,4,2,"11,8,11,6,11,11|4,11,8,11,5,9",R16,GRAND_SLAM,WD,1787,Main Draw,FUJII Hiroko (JPN) / KANAZAWA Saki (JPN),LEE Eunhee (KOR) / SHIM Serom (KOR),FUJII Hiroko
+Brazilian Open Sao Paulo 2006,2006-06-21,PARK Miyoung/YOON Sunae,HIURA Reiko/KONISHI An,4,0,"12,12,11,11|10,10,9,6",QF,GRAND_SLAM,WD,1787,Main Draw,PARK Miyoung (KOR) / YOON Sunae (KOR),HIURA Reiko (JPN) / KONISHI An (JPN),PARK Miyoung
+Brazilian Open Sao Paulo 2006,2006-06-21,FUJINUMA Ai/HIRANO Sayaka,FUJII Hiroko/KANAZAWA Saki,4,3,"11,5,7,11,11,8,11|6,11,11,6,6,11,8",QF,GRAND_SLAM,WD,1787,Main Draw,FUJINUMA Ai (JPN) / HIRANO Sayaka (JPN),FUJII Hiroko (JPN) / KANAZAWA Saki (JPN),FUJINUMA Ai
+Brazilian Open Sao Paulo 2006,2006-06-21,FUJINUMA Ai/HIRANO Sayaka,FUKUOKA Haruna/TASEI Mikie,4,1,"15,9,13,11,11|13,11,11,8,8",SF,GRAND_SLAM,WD,1787,Main Draw,FUJINUMA Ai (JPN) / HIRANO Sayaka (JPN),FUKUOKA Haruna (JPN) / TASEI Mikie (JPN),FUJINUMA Ai
+Brazilian Open Sao Paulo 2006,2006-06-21,KISHIDA Satoko/UMEMURA Aya,LONG Judy (Zhu)/ZHANG Mo,3,1,"11,8,11,14|5,11,6,12",QR16,GRAND_SLAM,WD,1787,Qualification,KISHIDA Satoko (JPN) / UMEMURA Aya (JPN),LONG Judy (Zhu) (CAN) / ZHANG Mo (CAN),KISHIDA Satoko
+Brazilian Open Sao Paulo 2006,2006-06-21,FUKUOKA Haruna/TASEI Mikie,CHAKRABORTY Kasturi/GHATAK Poulomi,3,0,"11,11,12|2,7,10",QR16,GRAND_SLAM,WD,1787,Qualification,FUKUOKA Haruna (JPN) / TASEI Mikie (JPN),CHAKRABORTY Kasturi (IND) / GHATAK Poulomi (IND),FUKUOKA Haruna
+Brazilian Open Sao Paulo 2006,2006-06-21,LEE Eunsil/MOON Hyunjung,SKOV Mie/WANG Yu (YOB=1981),4,1,"8,11,11,11,11|11,6,3,8,5",R16,GRAND_SLAM,WD,1787,Main Draw,LEE Eunsil (KOR) / MOON Hyunjung (KOR),SKOV Mie (DEN) / WANG Yu (YOB=1981) (ITA),LEE Eunsil
+Brazilian Open Sao Paulo 2006,2006-06-21,LEE Eunsil/MOON Hyunjung,STEFANOVA Nikoleta/TAN Wenling,4,2,"11,11,9,8,11,12|9,5,11,11,6,10",QF,GRAND_SLAM,WD,1787,Main Draw,LEE Eunsil (KOR) / MOON Hyunjung (KOR),STEFANOVA Nikoleta (ITA) / TAN Wenling (ITA),LEE Eunsil
+Brazilian Open Sao Paulo 2006,2006-06-21,LEE Eunsil/MOON Hyunjung,PARK Miyoung/YOON Sunae,4,2,"13,11,11,11,10,11|15,8,8,9,12,5",SF,GRAND_SLAM,WD,1787,Main Draw,LEE Eunsil (KOR) / MOON Hyunjung (KOR),PARK Miyoung (KOR) / YOON Sunae (KOR),LEE Eunsil
+Brazilian Open Sao Paulo 2006,2006-06-21,LEE Eunsil/MOON Hyunjung,FUJINUMA Ai/HIRANO Sayaka,4,3,"9,7,8,11,18,11,11|11,11,11,4,16,7,8",F,GRAND_SLAM,WD,1787,Main Draw,LEE Eunsil (KOR) / MOON Hyunjung (KOR),FUJINUMA Ai (JPN) / HIRANO Sayaka (JPN),LEE Eunsil
+Brazilian Open Sao Paulo 2006,2006-06-21,LEE Eunhee/SHIM Serom,ETSUZAKI Ayumi/CODINA Ana,3,1,"6,11,11,11|11,2,4,6",QR16,GRAND_SLAM,WD,1787,Qualification,LEE Eunhee (KOR) / SHIM Serom (KOR),ETSUZAKI Ayumi (JPN) / CODINA Ana (ARG),LEE Eunhee
+Brazilian Open Sao Paulo 2006,2006-06-21,HIURA Reiko/KONISHI An,YOON Suwon/YU Yunmi,3,1,"3,11,11,11|11,7,7,6",QR16,GRAND_SLAM,WD,1787,Qualification,HIURA Reiko (JPN) / KONISHI An (JPN),YOON Suwon (KOR) / YU Yunmi (KOR),HIURA Reiko
+Brazilian Open Sao Paulo 2006,2006-06-21,LONG Judy (Zhu)/ZHANG Mo,CREEMERS Linda/NOUWEN Carla,3,0,"11,11,11|8,5,7",QR32,GRAND_SLAM,WD,1787,Qualification,LONG Judy (Zhu) (CAN) / ZHANG Mo (CAN),CREEMERS Linda (NED) / NOUWEN Carla (NED),LONG Judy (Zhu)

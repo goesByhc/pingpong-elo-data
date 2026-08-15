@@ -1,21 +1,21 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Central Asia Regional Team Championships 2025,2025-07-14,ISKANDAROV Shokhrukh,KASYMOV Atai,3,0,"11,11,11|3,6,7",GROUP,OTHER,MT,3208,Main Draw,ISKANDAROV Shokhrukh (UZB),KASYMOV Atai (KGZ)
-Central Asia Regional Team Championships 2025,2025-07-14,DILSHODOV Diyorbek,BEKBOLOTOV Bektursun,3,2,"8,11,11,5,11|11,1,7,11,2",GROUP,OTHER,MT,3208,Main Draw,DILSHODOV Diyorbek (UZB),BEKBOLOTOV Bektursun (KGZ)
-Central Asia Regional Team Championships 2025,2025-07-14,AKHMEDOV Khurshid,BAKHAUTDINOV Mavlankhan,3,0,"11,11,11|4,7,4",GROUP,OTHER,MT,3208,Main Draw,AKHMEDOV Khurshid (UZB),BAKHAUTDINOV Mavlankhan (KGZ)
-Central Asia Regional Team Championships 2025,2025-07-14,MAGDIEVA Markhabo,ULANBEKOVA Aiana,3,0,"11,11,11|7,5,6",GROUP,OTHER,WT,3208,Main Draw,MAGDIEVA Markhabo (UZB),ULANBEKOVA Aiana (KGZ)
-Central Asia Regional Team Championships 2025,2025-07-14,KAMALOVA Arujan,RUSTANBEKOVA Keremet,3,0,"11,11,11|5,7,6",GROUP,OTHER,WT,3208,Main Draw,KAMALOVA Arujan (UZB),RUSTANBEKOVA Keremet (KGZ)
-Central Asia Regional Team Championships 2025,2025-07-14,ERKEBAEVA Asel,MURATALIEVA Raiana,3,0,"11,11,11|2,4,1",GROUP,OTHER,WT,3208,Main Draw,ERKEBAEVA Asel (UZB),MURATALIEVA Raiana (KGZ)
-Central Asia Regional Team Championships 2025,2025-07-14,KURMANGALIYEV Alan,KASYMOV Atai,3,0,"11,11,11|4,6,9",GROUP,OTHER,MT,3208,Main Draw,KASYMOV Atai (KGZ),KURMANGALIYEV Alan (KAZ)
-Central Asia Regional Team Championships 2025,2025-07-14,GERASSIMENKO Kirill,BEKBOLOTOV Bektursun,3,0,"11,11,11|8,1,4",GROUP,OTHER,MT,3208,Main Draw,BEKBOLOTOV Bektursun (KGZ),GERASSIMENKO Kirill (KAZ)
-Central Asia Regional Team Championships 2025,2025-07-14,KENZHIGULOV Aidos,BAKHAUTDINOV Mavlankhan,3,0,"11,11,11|6,4,4",GROUP,OTHER,MT,3208,Main Draw,BAKHAUTDINOV Mavlankhan (KGZ),KENZHIGULOV Aidos (KAZ)
-Central Asia Regional Team Championships 2025,2025-07-14,AKASHEVA Zauresh,ULANBEKOVA Aiana,3,0,"11,11,11|9,3,5",GROUP,OTHER,WT,3208,Main Draw,AKASHEVA Zauresh (KAZ),ULANBEKOVA Aiana (KGZ)
-Central Asia Regional Team Championships 2025,2025-07-14,MIRKADIROVA Sarvinoz,MURATALIEVA Raiana,3,0,"11,11,11|8,8,6",GROUP,OTHER,WT,3208,Main Draw,MIRKADIROVA Sarvinoz (KAZ),MURATALIEVA Raiana (KGZ)
-Central Asia Regional Team Championships 2025,2025-07-14,KOSHKUMBAYEVA Zhanerke,RUSTANBEKOVA Keremet,3,0,"11,11,11|3,7,1",GROUP,OTHER,WT,3208,Main Draw,KOSHKUMBAYEVA Zhanerke (KAZ),RUSTANBEKOVA Keremet (KGZ)
-Central Asia Regional Team Championships 2025,2025-07-14,MAGDIEVA Markhabo,MIRKADIROVA Sarvinoz,3,1,"11,11,8,11|9,4,11,9",GROUP,OTHER,WT,3208,Main Draw,MIRKADIROVA Sarvinoz (KAZ),MAGDIEVA Markhabo (UZB)
-Central Asia Regional Team Championships 2025,2025-07-14,KAMALOVA Arujan,AKASHEVA Zauresh,3,2,"11,10,6,13,11|9,12,11,11,8",GROUP,OTHER,WT,3208,Main Draw,AKASHEVA Zauresh (KAZ),KAMALOVA Arujan (UZB)
-Central Asia Regional Team Championships 2025,2025-07-14,BAKHYT Anel,ERKEBAEVA Asel,3,2,"11,5,9,11,11|7,11,11,7,5",GROUP,OTHER,WT,3208,Main Draw,BAKHYT Anel (KAZ),ERKEBAEVA Asel (UZB)
-Central Asia Regional Team Championships 2025,2025-07-14,MIRKADIROVA Sarvinoz,KAMALOVA Arujan,3,2,"8,11,9,11,11|11,9,11,9,3",GROUP,OTHER,WT,3208,Main Draw,MIRKADIROVA Sarvinoz (KAZ),KAMALOVA Arujan (UZB)
-Central Asia Regional Team Championships 2025,2025-07-14,AKASHEVA Zauresh,MAGDIEVA Markhabo,3,1,"11,7,11,11|4,11,6,7",GROUP,OTHER,WT,3208,Main Draw,AKASHEVA Zauresh (KAZ),MAGDIEVA Markhabo (UZB)
-Central Asia Regional Team Championships 2025,2025-07-14,KURMANGALIYEV Alan,ISKANDAROV Shokhrukh,3,0,"11,11,11|7,9,6",GROUP,OTHER,MT,3208,Main Draw,ISKANDAROV Shokhrukh (UZB),KURMANGALIYEV Alan (KAZ)
-Central Asia Regional Team Championships 2025,2025-07-14,GERASSIMENKO Kirill,AKHMEDOV Khurshid,3,0,"11,11,11|4,8,6",GROUP,OTHER,MT,3208,Main Draw,AKHMEDOV Khurshid (UZB),GERASSIMENKO Kirill (KAZ)
-Central Asia Regional Team Championships 2025,2025-07-14,KENZHIGULOV Aidos,DILSHODOV Diyorbek,3,2,"11,9,11,9,11|5,11,5,11,7",GROUP,OTHER,MT,3208,Main Draw,DILSHODOV Diyorbek (UZB),KENZHIGULOV Aidos (KAZ)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Central Asia Regional Team Championships 2025,2025-07-14,ISKANDAROV Shokhrukh,KASYMOV Atai,3,0,"11,11,11|3,6,7",GROUP,OTHER,MT,3208,Main Draw,ISKANDAROV Shokhrukh (UZB),KASYMOV Atai (KGZ),ISKANDAROV Shokhrukh
+Central Asia Regional Team Championships 2025,2025-07-14,DILSHODOV Diyorbek,BEKBOLOTOV Bektursun,3,2,"8,11,11,5,11|11,1,7,11,2",GROUP,OTHER,MT,3208,Main Draw,DILSHODOV Diyorbek (UZB),BEKBOLOTOV Bektursun (KGZ),DILSHODOV Diyorbek
+Central Asia Regional Team Championships 2025,2025-07-14,AKHMEDOV Khurshid,BAKHAUTDINOV Mavlankhan,3,0,"11,11,11|4,7,4",GROUP,OTHER,MT,3208,Main Draw,AKHMEDOV Khurshid (UZB),BAKHAUTDINOV Mavlankhan (KGZ),AKHMEDOV Khurshid
+Central Asia Regional Team Championships 2025,2025-07-14,MAGDIEVA Markhabo,ULANBEKOVA Aiana,3,0,"11,11,11|7,5,6",GROUP,OTHER,WT,3208,Main Draw,MAGDIEVA Markhabo (UZB),ULANBEKOVA Aiana (KGZ),MAGDIEVA Markhabo
+Central Asia Regional Team Championships 2025,2025-07-14,KAMALOVA Arujan,RUSTANBEKOVA Keremet,3,0,"11,11,11|5,7,6",GROUP,OTHER,WT,3208,Main Draw,KAMALOVA Arujan (UZB),RUSTANBEKOVA Keremet (KGZ),KAMALOVA Arujan
+Central Asia Regional Team Championships 2025,2025-07-14,ERKEBAEVA Asel,MURATALIEVA Raiana,3,0,"11,11,11|2,4,1",GROUP,OTHER,WT,3208,Main Draw,ERKEBAEVA Asel (UZB),MURATALIEVA Raiana (KGZ),ERKEBAEVA Asel
+Central Asia Regional Team Championships 2025,2025-07-14,KURMANGALIYEV Alan,KASYMOV Atai,3,0,"11,11,11|4,6,9",GROUP,OTHER,MT,3208,Main Draw,KASYMOV Atai (KGZ),KURMANGALIYEV Alan (KAZ),KURMANGALIYEV Alan
+Central Asia Regional Team Championships 2025,2025-07-14,GERASSIMENKO Kirill,BEKBOLOTOV Bektursun,3,0,"11,11,11|8,1,4",GROUP,OTHER,MT,3208,Main Draw,BEKBOLOTOV Bektursun (KGZ),GERASSIMENKO Kirill (KAZ),GERASSIMENKO Kirill
+Central Asia Regional Team Championships 2025,2025-07-14,KENZHIGULOV Aidos,BAKHAUTDINOV Mavlankhan,3,0,"11,11,11|6,4,4",GROUP,OTHER,MT,3208,Main Draw,BAKHAUTDINOV Mavlankhan (KGZ),KENZHIGULOV Aidos (KAZ),KENZHIGULOV Aidos
+Central Asia Regional Team Championships 2025,2025-07-14,AKASHEVA Zauresh,ULANBEKOVA Aiana,3,0,"11,11,11|9,3,5",GROUP,OTHER,WT,3208,Main Draw,AKASHEVA Zauresh (KAZ),ULANBEKOVA Aiana (KGZ),AKASHEVA Zauresh
+Central Asia Regional Team Championships 2025,2025-07-14,MIRKADIROVA Sarvinoz,MURATALIEVA Raiana,3,0,"11,11,11|8,8,6",GROUP,OTHER,WT,3208,Main Draw,MIRKADIROVA Sarvinoz (KAZ),MURATALIEVA Raiana (KGZ),MIRKADIROVA Sarvinoz
+Central Asia Regional Team Championships 2025,2025-07-14,KOSHKUMBAYEVA Zhanerke,RUSTANBEKOVA Keremet,3,0,"11,11,11|3,7,1",GROUP,OTHER,WT,3208,Main Draw,KOSHKUMBAYEVA Zhanerke (KAZ),RUSTANBEKOVA Keremet (KGZ),KOSHKUMBAYEVA Zhanerke
+Central Asia Regional Team Championships 2025,2025-07-14,MAGDIEVA Markhabo,MIRKADIROVA Sarvinoz,3,1,"11,11,8,11|9,4,11,9",GROUP,OTHER,WT,3208,Main Draw,MIRKADIROVA Sarvinoz (KAZ),MAGDIEVA Markhabo (UZB),MAGDIEVA Markhabo
+Central Asia Regional Team Championships 2025,2025-07-14,KAMALOVA Arujan,AKASHEVA Zauresh,3,2,"11,10,6,13,11|9,12,11,11,8",GROUP,OTHER,WT,3208,Main Draw,AKASHEVA Zauresh (KAZ),KAMALOVA Arujan (UZB),KAMALOVA Arujan
+Central Asia Regional Team Championships 2025,2025-07-14,BAKHYT Anel,ERKEBAEVA Asel,3,2,"11,5,9,11,11|7,11,11,7,5",GROUP,OTHER,WT,3208,Main Draw,BAKHYT Anel (KAZ),ERKEBAEVA Asel (UZB),BAKHYT Anel
+Central Asia Regional Team Championships 2025,2025-07-14,MIRKADIROVA Sarvinoz,KAMALOVA Arujan,3,2,"8,11,9,11,11|11,9,11,9,3",GROUP,OTHER,WT,3208,Main Draw,MIRKADIROVA Sarvinoz (KAZ),KAMALOVA Arujan (UZB),MIRKADIROVA Sarvinoz
+Central Asia Regional Team Championships 2025,2025-07-14,AKASHEVA Zauresh,MAGDIEVA Markhabo,3,1,"11,7,11,11|4,11,6,7",GROUP,OTHER,WT,3208,Main Draw,AKASHEVA Zauresh (KAZ),MAGDIEVA Markhabo (UZB),AKASHEVA Zauresh
+Central Asia Regional Team Championships 2025,2025-07-14,KURMANGALIYEV Alan,ISKANDAROV Shokhrukh,3,0,"11,11,11|7,9,6",GROUP,OTHER,MT,3208,Main Draw,ISKANDAROV Shokhrukh (UZB),KURMANGALIYEV Alan (KAZ),KURMANGALIYEV Alan
+Central Asia Regional Team Championships 2025,2025-07-14,GERASSIMENKO Kirill,AKHMEDOV Khurshid,3,0,"11,11,11|4,8,6",GROUP,OTHER,MT,3208,Main Draw,AKHMEDOV Khurshid (UZB),GERASSIMENKO Kirill (KAZ),GERASSIMENKO Kirill
+Central Asia Regional Team Championships 2025,2025-07-14,KENZHIGULOV Aidos,DILSHODOV Diyorbek,3,2,"11,9,11,9,11|5,11,5,11,7",GROUP,OTHER,MT,3208,Main Draw,DILSHODOV Diyorbek (UZB),KENZHIGULOV Aidos (KAZ),KENZHIGULOV Aidos

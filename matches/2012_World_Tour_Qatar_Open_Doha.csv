@@ -1,356 +1,356 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-World Tour Qatar Open Doha 2012,2012-02-07,HAN Ying,FENG Tianwei,4,2,"4,11,10,11,11,11|11,6,12,5,2,9",R32,GRAND_SLAM,WS,85,Main Draw,HAN Ying (GER),FENG Tianwei (SGP)
-World Tour Qatar Open Doha 2012,2012-02-07,YANG Ha Eun,CHENG I-Ching,4,0,"11,15,11,12|6,13,1,10",R32,GRAND_SLAM,WS,85,Main Draw,YANG Ha Eun (KOR),CHENG I-Ching (TPE)
-World Tour Qatar Open Doha 2012,2012-02-07,GRZYBOWSKA-FRANC Katarzyna,WEN Jia,4,2,"11,11,8,11,7,12|8,9,11,8,11,10",R32,GRAND_SLAM,WS,85,Main Draw,GRZYBOWSKA-FRANC Katarzyna (POL),WEN Jia (CHN)
-World Tour Qatar Open Doha 2012,2012-02-07,CHEN Meng,HIRANO Sayaka,4,0,"11,11,11,11|4,7,4,3",R32,GRAND_SLAM,WS,85,Main Draw,CHEN Meng (CHN),HIRANO Sayaka (JPN)
-World Tour Qatar Open Doha 2012,2012-02-07,WU Jiaduo,LOVAS Petra,4,2,"11,11,11,12,3,11|7,9,6,14,11,5",R32,GRAND_SLAM,WS,85,Main Draw,WU Jiaduo (GER),LOVAS Petra (HUN)
-World Tour Qatar Open Doha 2012,2012-02-07,FENG Yalan,HUANG Yi-Hua,4,0,"13,11,11,11|11,8,9,7",R32,GRAND_SLAM,WS,85,Main Draw,FENG Yalan (CHN),HUANG Yi-Hua (TPE)
-World Tour Qatar Open Doha 2012,2012-02-07,LI Xiaodan,JEON Jihee,4,1,"11,9,11,11,11|8,11,6,4,9",R32,GRAND_SLAM,WS,85,Main Draw,LI Xiaodan (CHN),JEON Jihee (KOR)
-World Tour Qatar Open Doha 2012,2012-02-07,FUKUHARA Ai,YU Mengyu,4,0,"13,11,11,11|11,7,9,4",R32,GRAND_SLAM,WS,85,Main Draw,FUKUHARA Ai (JPN),YU Mengyu (SGP)
-World Tour Qatar Open Doha 2012,2012-02-07,TIE Yana,EKHOLM Matilda,4,2,"11,4,11,10,11,11|9,11,6,12,5,2",R32,GRAND_SLAM,WS,85,Main Draw,TIE Yana (HKG),EKHOLM Matilda (SWE)
-World Tour Qatar Open Doha 2012,2012-02-07,PARK Miyoung,BARTHEL Zhenqi,4,3,"2,11,6,17,14,9,11|11,8,11,15,12,11,8",R32,GRAND_SLAM,WS,85,Main Draw,PARK Miyoung (KOR),BARTHEL Zhenqi (GER)
-World Tour Qatar Open Doha 2012,2012-02-07,KIM Kyungah,VACENOVSKA Iveta,4,3,"11,6,9,11,11,2,12|8,11,11,8,5,11,10",R32,GRAND_SLAM,WS,85,Main Draw,KIM Kyungah (KOR),VACENOVSKA Iveta (CZE)
-World Tour Qatar Open Doha 2012,2012-02-07,POTA Georgina,JIANG Huajun,4,1,"11,11,11,3,15|9,6,5,11,13",R32,GRAND_SLAM,WS,85,Main Draw,POTA Georgina (HUN),JIANG Huajun (HKG)
-World Tour Qatar Open Doha 2012,2012-02-07,DANG Yeseo,LI Jiawei,4,0,"11,11,12,12|3,9,10,10",R32,GRAND_SLAM,WS,85,Main Draw,DANG Yeseo (KOR),LI Jiawei (SGP)
-World Tour Qatar Open Doha 2012,2012-02-07,SUN Beibei,NI Xia Lian,4,0,"11,14,11,11|3,12,8,7",R32,GRAND_SLAM,WS,85,Main Draw,SUN Beibei (SGP),NI Xia Lian (LUX)
-World Tour Qatar Open Doha 2012,2012-02-07,SEOK Hajung,YAO Yan,4,1,"12,9,11,11,11|10,11,6,8,9",R32,GRAND_SLAM,WS,85,Main Draw,SEOK Hajung (KOR),YAO Yan (CHN)
-World Tour Qatar Open Doha 2012,2012-02-07,ISHIKAWA Kasumi,IVANCAN Irene,4,1,"11,11,8,11,11|7,9,11,9,4",R32,GRAND_SLAM,WS,85,Main Draw,ISHIKAWA Kasumi (JPN),IVANCAN Irene (GER)
-World Tour Qatar Open Doha 2012,2012-02-07,HAN Ying,YANG Ha Eun,4,1,"7,11,11,11,11|11,6,8,7,1",R16,GRAND_SLAM,WS,85,Main Draw,HAN Ying (GER),YANG Ha Eun (KOR)
-World Tour Qatar Open Doha 2012,2012-02-07,CHEN Meng,GRZYBOWSKA-FRANC Katarzyna,4,2,"11,10,11,3,11,11|5,12,6,11,8,9",R16,GRAND_SLAM,WS,85,Main Draw,CHEN Meng (CHN),GRZYBOWSKA-FRANC Katarzyna (POL)
-World Tour Qatar Open Doha 2012,2012-02-07,FENG Yalan,WU Jiaduo,4,2,"11,11,6,9,12,11|7,7,11,11,10,6",R16,GRAND_SLAM,WS,85,Main Draw,FENG Yalan (CHN),WU Jiaduo (GER)
-World Tour Qatar Open Doha 2012,2012-02-07,LI Xiaodan,FUKUHARA Ai,4,1,"9,11,13,11,11|11,8,11,5,6",R16,GRAND_SLAM,WS,85,Main Draw,LI Xiaodan (CHN),FUKUHARA Ai (JPN)
-World Tour Qatar Open Doha 2012,2012-02-07,TIE Yana,PARK Miyoung,4,2,"11,11,3,11,4,12|4,7,11,6,11,10",R16,GRAND_SLAM,WS,85,Main Draw,TIE Yana (HKG),PARK Miyoung (KOR)
-World Tour Qatar Open Doha 2012,2012-02-07,KIM Kyungah,POTA Georgina,4,1,"11,11,15,12,12|8,3,17,10,10",R16,GRAND_SLAM,WS,85,Main Draw,KIM Kyungah (KOR),POTA Georgina (HUN)
-World Tour Qatar Open Doha 2012,2012-02-07,DANG Yeseo,SUN Beibei,4,1,"15,11,5,11,11|13,5,11,6,8",R16,GRAND_SLAM,WS,85,Main Draw,DANG Yeseo (KOR),SUN Beibei (SGP)
-World Tour Qatar Open Doha 2012,2012-02-07,SEOK Hajung,ISHIKAWA Kasumi,4,3,"11,11,11,9,5,12,11|7,7,9,11,11,14,8",R16,GRAND_SLAM,WS,85,Main Draw,SEOK Hajung (KOR),ISHIKAWA Kasumi (JPN)
-World Tour Qatar Open Doha 2012,2012-02-07,CHEN Meng,HAN Ying,4,3,"4,6,11,6,11,11,13|11,11,2,11,8,7,11",QF,GRAND_SLAM,WS,85,Main Draw,CHEN Meng (CHN),HAN Ying (GER)
-World Tour Qatar Open Doha 2012,2012-02-07,LI Xiaodan,FENG Yalan,4,1,"11,8,11,11,11|5,11,2,9,6",QF,GRAND_SLAM,WS,85,Main Draw,LI Xiaodan (CHN),FENG Yalan (CHN)
-World Tour Qatar Open Doha 2012,2012-02-07,TIE Yana,KIM Kyungah,4,1,"11,11,4,11,11|7,4,11,6,9",QF,GRAND_SLAM,WS,85,Main Draw,TIE Yana (HKG),KIM Kyungah (KOR)
-World Tour Qatar Open Doha 2012,2012-02-07,SEOK Hajung,DANG Yeseo,4,2,"9,8,11,11,12,11|11,11,7,9,10,4",QF,GRAND_SLAM,WS,85,Main Draw,SEOK Hajung (KOR),DANG Yeseo (KOR)
-World Tour Qatar Open Doha 2012,2012-02-07,CHEN Meng,LI Xiaodan,4,1,"12,6,11,11,12|10,11,7,7,10",SF,GRAND_SLAM,WS,85,Main Draw,CHEN Meng (CHN),LI Xiaodan (CHN)
-World Tour Qatar Open Doha 2012,2012-02-07,SEOK Hajung,TIE Yana,4,3,"4,8,11,15,11,3,12|11,11,8,13,7,11,10",SF,GRAND_SLAM,WS,85,Main Draw,SEOK Hajung (KOR),TIE Yana (HKG)
-World Tour Qatar Open Doha 2012,2012-02-07,CHEN Meng,SEOK Hajung,4,0,"11,20,11,11|8,18,6,9",F,GRAND_SLAM,WS,85,Main Draw,CHEN Meng (CHN),SEOK Hajung (KOR)
-World Tour Qatar Open Doha 2012,2012-02-07,ISHIKAWA Kasumi,AL ABRI Noora,3,0,"11,11,11|1,3,5",R16,GRAND_SLAM,U21WS,85,Main Draw,ISHIKAWA Kasumi (JPN),AL ABRI Noora (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,CHEN Szu-Yu,GUAN Mengyuan,3,0,"11,11,11|5,9,5",R16,GRAND_SLAM,U21WS,85,Main Draw,CHEN Szu-Yu (TPE),GUAN Mengyuan (HKG)
-World Tour Qatar Open Doha 2012,2012-02-07,NOSKOVA Yana,FARAMARZI Maha,3,0,"11,11,11|3,4,3",R16,GRAND_SLAM,U21WS,85,Main Draw,NOSKOVA Yana (RUS),FARAMARZI Maha (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,LEE Ho Ching,LEE Dasom,3,0,"11,11,11|7,6,4",R16,GRAND_SLAM,U21WS,85,Main Draw,LEE Ho Ching (HKG),LEE Dasom (KOR)
-World Tour Qatar Open Doha 2012,2012-02-07,PESOTSKA Margaryta,MOHAMED Aia,3,0,"11,11,11|1,3,6",R16,GRAND_SLAM,U21WS,85,Main Draw,PESOTSKA Margaryta (UKR),MOHAMED Aia (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,NG Wing Nam,SO Eka,3,0,"11,11,11|5,5,6",R16,GRAND_SLAM,U21WS,85,Main Draw,NG Wing Nam (HKG),SO Eka (JPN)
-World Tour Qatar Open Doha 2012,2012-02-07,WINTER Sabine,CHENG Hsien-Tzu,3,1,"11,11,6,11|9,9,11,9",R16,GRAND_SLAM,U21WS,85,Main Draw,WINTER Sabine (GER),CHENG Hsien-Tzu (TPE)
-World Tour Qatar Open Doha 2012,2012-02-07,CHENG I-Ching,WEHBE Hala,3,0,"11,11,11|3,4,4",R16,GRAND_SLAM,U21WS,85,Main Draw,CHENG I-Ching (TPE),WEHBE Hala (LBN)
-World Tour Qatar Open Doha 2012,2012-02-07,ISHIKAWA Kasumi,CHEN Szu-Yu,4,2,"12,9,11,11,10,11|10,11,9,8,12,6",QF,GRAND_SLAM,U21WS,85,Main Draw,ISHIKAWA Kasumi (JPN),CHEN Szu-Yu (TPE)
-World Tour Qatar Open Doha 2012,2012-02-07,NOSKOVA Yana,LEE Ho Ching,4,2,"3,11,4,11,11,11|11,9,11,9,9,5",QF,GRAND_SLAM,U21WS,85,Main Draw,NOSKOVA Yana (RUS),LEE Ho Ching (HKG)
-World Tour Qatar Open Doha 2012,2012-02-07,PESOTSKA Margaryta,NG Wing Nam,4,2,"7,11,9,11,11,11|11,4,11,6,8,5",QF,GRAND_SLAM,U21WS,85,Main Draw,PESOTSKA Margaryta (UKR),NG Wing Nam (HKG)
-World Tour Qatar Open Doha 2012,2012-02-07,CHENG I-Ching,WINTER Sabine,4,0,"11,11,11,11|8,8,6,7",QF,GRAND_SLAM,U21WS,85,Main Draw,CHENG I-Ching (TPE),WINTER Sabine (GER)
-World Tour Qatar Open Doha 2012,2012-02-07,ISHIKAWA Kasumi,NOSKOVA Yana,4,0,"14,11,11,11|12,4,5,4",SF,GRAND_SLAM,U21WS,85,Main Draw,ISHIKAWA Kasumi (JPN),NOSKOVA Yana (RUS)
-World Tour Qatar Open Doha 2012,2012-02-07,PESOTSKA Margaryta,CHENG I-Ching,4,3,"11,11,7,8,11,7,11|7,8,11,11,6,11,7",SF,GRAND_SLAM,U21WS,85,Main Draw,PESOTSKA Margaryta (UKR),CHENG I-Ching (TPE)
-World Tour Qatar Open Doha 2012,2012-02-07,ISHIKAWA Kasumi,PESOTSKA Margaryta,4,0,"11,11,11,11|4,7,5,9",F,GRAND_SLAM,U21WS,85,Main Draw,ISHIKAWA Kasumi (JPN),PESOTSKA Margaryta (UKR)
-World Tour Qatar Open Doha 2012,2012-02-07,BUROV Viacheslav,KIM Donghyun,4,1,"10,12,11,11,11|12,10,8,7,9",,GRAND_SLAM,MS,85,Qualification,BUROV Viacheslav (RUS),KIM Donghyun (KOR)
-World Tour Qatar Open Doha 2012,2012-02-07,LUNDQVIST Jens,KIM Donghyun,4,0,"11,11,11,11|7,7,1,6",,GRAND_SLAM,MS,85,Qualification,LUNDQVIST Jens (SWE),KIM Donghyun (KOR)
-World Tour Qatar Open Doha 2012,2012-02-07,BUROV Viacheslav,LUNDQVIST Jens,4,3,"12,6,11,11,11,9,11|14,11,5,9,7,11,7",,GRAND_SLAM,MS,85,Qualification,BUROV Viacheslav (RUS),LUNDQVIST Jens (SWE)
-World Tour Qatar Open Doha 2012,2012-02-07,PATTANTYUS Adam,FLORITZ Philipp,4,3,"11,11,9,6,11,3,12|5,9,11,11,8,11,10",,GRAND_SLAM,MS,85,Qualification,PATTANTYUS Adam (HUN),FLORITZ Philipp (BUL)
-World Tour Qatar Open Doha 2012,2012-02-07,GERELL Par,FLORITZ Philipp,4,1,"11,14,7,11,11|5,12,11,8,9",,GRAND_SLAM,MS,85,Qualification,GERELL Par (SWE),FLORITZ Philipp (BUL)
-World Tour Qatar Open Doha 2012,2012-02-07,GERELL Par,PATTANTYUS Adam,4,0,"11,11,11,11|5,5,4,6",,GRAND_SLAM,MS,85,Qualification,GERELL Par (SWE),PATTANTYUS Adam (HUN)
-World Tour Qatar Open Doha 2012,2012-02-07,KARLSSON Kristian,AL-HASAN Ibrahem,4,0,"11,11,11,11|3,8,5,8",,GRAND_SLAM,MS,85,Qualification,KARLSSON Kristian (SWE),AL-HASAN Ibrahem (KUW)
-World Tour Qatar Open Doha 2012,2012-02-07,KREANGA Kalinikos,AL-HASAN Ibrahem,4,2,"11,10,11,14,10,11|6,12,8,12,12,8",,GRAND_SLAM,MS,85,Qualification,KREANGA Kalinikos (GRE),AL-HASAN Ibrahem (KUW)
-World Tour Qatar Open Doha 2012,2012-02-07,KARLSSON Kristian,KREANGA Kalinikos,2,0,"11,11,6|9,5,4",,GRAND_SLAM,MS,85,Qualification,KARLSSON Kristian (SWE),KREANGA Kalinikos (GRE)
-World Tour Qatar Open Doha 2012,2012-02-07,FENG Xiaoquan,NUYTINCK Cedric,4,2,"9,11,4,15,11,11|11,6,11,13,2,4",,GRAND_SLAM,MS,85,Qualification,FENG Xiaoquan (AUT),NUYTINCK Cedric (BEL)
-World Tour Qatar Open Doha 2012,2012-02-07,CHAN Kazuhiro,NUYTINCK Cedric,4,1,"11,11,12,10,11|8,8,10,12,3",,GRAND_SLAM,MS,85,Qualification,CHAN Kazuhiro (JPN),NUYTINCK Cedric (BEL)
-World Tour Qatar Open Doha 2012,2012-02-07,CHAN Kazuhiro,FENG Xiaoquan,4,2,"7,11,12,11,6,11|11,6,10,5,11,4",,GRAND_SLAM,MS,85,Qualification,CHAN Kazuhiro (JPN),FENG Xiaoquan (AUT)
-World Tour Qatar Open Doha 2012,2012-02-07,FLORE Tristan,JEAN Lauric,4,1,"11,8,11,11,11|6,11,2,7,4",,GRAND_SLAM,MS,85,Qualification,FLORE Tristan (FRA),JEAN Lauric (BEL)
-World Tour Qatar Open Doha 2012,2012-02-07,SHIBAEV Alexander,JEAN Lauric,4,0,"11,14,11,11|4,12,8,4",,GRAND_SLAM,MS,85,Qualification,SHIBAEV Alexander (RUS),JEAN Lauric (BEL)
-World Tour Qatar Open Doha 2012,2012-02-07,SHIBAEV Alexander,FLORE Tristan,4,1,"11,13,5,11,11|5,11,11,6,8",,GRAND_SLAM,MS,85,Qualification,SHIBAEV Alexander (RUS),FLORE Tristan (FRA)
-World Tour Qatar Open Doha 2012,2012-02-07,LAKEEV Vasily,PANG Xue Jie,4,1,"11,12,7,12,11|8,10,11,10,8",,GRAND_SLAM,MS,85,Qualification,LAKEEV Vasily (RUS),PANG Xue Jie (SGP)
-World Tour Qatar Open Doha 2012,2012-02-07,MONTEIRO Joao,PANG Xue Jie,4,0,"11,11,11,11|6,4,5,8",,GRAND_SLAM,MS,85,Qualification,MONTEIRO Joao (POR),PANG Xue Jie (SGP)
-World Tour Qatar Open Doha 2012,2012-02-07,MONTEIRO Joao,LAKEEV Vasily,4,0,"11,11,11,11|4,9,8,6",,GRAND_SLAM,MS,85,Qualification,MONTEIRO Joao (POR),LAKEEV Vasily (RUS)
-World Tour Qatar Open Doha 2012,2012-02-07,KOSIBA Daniel,AL-MOHANNADI Ahmad Khalil,4,0,"11,11,14,11|4,2,12,6",,GRAND_SLAM,MS,85,Qualification,KOSIBA Daniel (HUN),AL-MOHANNADI Ahmad Khalil (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,RUBTSOV Igor,AL-MOHANNADI Ahmad Khalil,4,1,"6,11,11,11,11|11,7,4,4,5",,GRAND_SLAM,MS,85,Qualification,RUBTSOV Igor (RUS),AL-MOHANNADI Ahmad Khalil (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,RUBTSOV Igor,KOSIBA Daniel,4,2,"10,11,11,11,11,11|12,13,4,6,5,7",,GRAND_SLAM,MS,85,Qualification,RUBTSOV Igor (RUS),KOSIBA Daniel (HUN)
-World Tour Qatar Open Doha 2012,2012-02-07,STOYANOV Niagol,STETSENKO Alexander,4,1,"11,11,11,7,13|8,6,8,11,11",,GRAND_SLAM,MS,85,Qualification,STOYANOV Niagol (ITA),STETSENKO Alexander (RUS)
-World Tour Qatar Open Doha 2012,2012-02-07,SAIVE Jean-Michel,STETSENKO Alexander,4,0,"11,11,11,11|5,9,9,9",,GRAND_SLAM,MS,85,Qualification,SAIVE Jean-Michel (BEL),STETSENKO Alexander (RUS)
-World Tour Qatar Open Doha 2012,2012-02-07,SAIVE Jean-Michel,STOYANOV Niagol,4,1,"7,11,11,11,11|11,6,9,1,8",,GRAND_SLAM,MS,85,Qualification,SAIVE Jean-Michel (BEL),STOYANOV Niagol (ITA)
-World Tour Qatar Open Doha 2012,2012-02-07,VOSTES Yannick,MERZLIKIN Taras,4,1,"12,7,11,11,11|10,11,7,7,7",,GRAND_SLAM,MS,85,Qualification,VOSTES Yannick (BEL),MERZLIKIN Taras (RUS)
-World Tour Qatar Open Doha 2012,2012-02-07,ZHAN Jian,MERZLIKIN Taras,4,1,"6,11,11,12,11|11,6,9,10,2",,GRAND_SLAM,MS,85,Qualification,ZHAN Jian (SGP),MERZLIKIN Taras (RUS)
-World Tour Qatar Open Doha 2012,2012-02-07,ZHAN Jian,VOSTES Yannick,4,2,"8,11,11,11,6,11|11,5,8,8,11,6",,GRAND_SLAM,MS,85,Qualification,ZHAN Jian (SGP),VOSTES Yannick (BEL)
-World Tour Qatar Open Doha 2012,2012-02-07,HUNG Tzu-Hsiang,LAKATOS Tamas,4,1,"4,11,11,13,11|11,5,7,11,7",,GRAND_SLAM,MS,85,Qualification,HUNG Tzu-Hsiang (TPE),LAKATOS Tamas (HUN)
-World Tour Qatar Open Doha 2012,2012-02-07,MATSUDAIRA Kenji,LAKATOS Tamas,4,0,"12,11,11,11|10,3,7,4",,GRAND_SLAM,MS,85,Qualification,MATSUDAIRA Kenji (JPN),LAKATOS Tamas (HUN)
-World Tour Qatar Open Doha 2012,2012-02-07,MATSUDAIRA Kenji,HUNG Tzu-Hsiang,4,0,"11,11,11,11|8,6,9,4",,GRAND_SLAM,MS,85,Qualification,MATSUDAIRA Kenji (JPN),HUNG Tzu-Hsiang (TPE)
-World Tour Qatar Open Doha 2012,2012-02-07,CHIANG Hung-Chieh,ALHAJJAI Waled Nasser,4,0,"11,11,11,11|6,7,3,8",,GRAND_SLAM,MS,85,Qualification,CHIANG Hung-Chieh (TPE),ALHAJJAI Waled Nasser (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,GACINA Andrej,ALHAJJAI Waled Nasser,4,0,"11,11,11,11|6,2,3,8",,GRAND_SLAM,MS,85,Qualification,GACINA Andrej (CRO),ALHAJJAI Waled Nasser (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,GACINA Andrej,CHIANG Hung-Chieh,4,0,"11,11,11,12|7,8,8,10",,GRAND_SLAM,MS,85,Qualification,GACINA Andrej (CRO),CHIANG Hung-Chieh (TPE)
-World Tour Qatar Open Doha 2012,2012-02-07,PLATONOV Pavel,BUHIJJI Hamad,4,2,"10,5,11,11,11,11|12,11,6,6,7,8",,GRAND_SLAM,MS,85,Qualification,PLATONOV Pavel (BLR),BUHIJJI Hamad (BRN)
-World Tour Qatar Open Doha 2012,2012-02-07,LEBESSON Emmanuel,BUHIJJI Hamad,4,0,"11,11,11,11|8,6,4,7",,GRAND_SLAM,MS,85,Qualification,LEBESSON Emmanuel (FRA),BUHIJJI Hamad (BRN)
-World Tour Qatar Open Doha 2012,2012-02-07,LEBESSON Emmanuel,PLATONOV Pavel,4,3,"11,6,12,11,11,5,11|2,11,14,5,9,11,6",,GRAND_SLAM,MS,85,Qualification,LEBESSON Emmanuel (FRA),PLATONOV Pavel (BLR)
-World Tour Qatar Open Doha 2012,2012-02-07,KARLSSON Mattias,AL-QERSHI Wael,4,1,"9,11,11,11,11|11,6,4,7,3",,GRAND_SLAM,MS,85,Qualification,KARLSSON Mattias (SWE),AL-QERSHI Wael (YEM)
-World Tour Qatar Open Doha 2012,2012-02-07,CHTCHETININE Evgueni,AL-QERSHI Wael,4,0,"12,11,11,11|10,4,4,3",,GRAND_SLAM,MS,85,Qualification,CHTCHETININE Evgueni (BLR),AL-QERSHI Wael (YEM)
-World Tour Qatar Open Doha 2012,2012-02-07,CHTCHETININE Evgueni,KARLSSON Mattias,4,2,"10,11,5,11,11,11|12,7,11,0,9,6",,GRAND_SLAM,MS,85,Qualification,CHTCHETININE Evgueni (BLR),KARLSSON Mattias (SWE)
-World Tour Qatar Open Doha 2012,2012-02-07,WU Chih-Chi,MORICZ Mate,4,0,"11,11,11,11|5,5,6,9",,GRAND_SLAM,MS,85,Qualification,WU Chih-Chi (TPE),MORICZ Mate (HUN)
-World Tour Qatar Open Doha 2012,2012-02-07,SVENSSON Robert,MORICZ Mate,4,1,"7,11,11,11,11|11,5,6,7,5",,GRAND_SLAM,MS,85,Qualification,SVENSSON Robert (SWE),MORICZ Mate (HUN)
-World Tour Qatar Open Doha 2012,2012-02-07,WU Chih-Chi,SVENSSON Robert,4,1,"11,11,3,11,11|4,4,11,7,7",,GRAND_SLAM,MS,85,Qualification,WU Chih-Chi (TPE),SVENSSON Robert (SWE)
-World Tour Qatar Open Doha 2012,2012-02-07,FRANZISKA Patrick,AL-HASHEDI Mohammed,4,0,"11,11,11,11|4,6,8,9",,GRAND_SLAM,MS,85,Qualification,FRANZISKA Patrick (GER),AL-HASHEDI Mohammed (YEM)
-World Tour Qatar Open Doha 2012,2012-02-07,LEGOUT Christophe,AL-HASHEDI Mohammed,4,0,"11,13,11,11|6,11,3,7",,GRAND_SLAM,MS,85,Qualification,LEGOUT Christophe (FRA),AL-HASHEDI Mohammed (YEM)
-World Tour Qatar Open Doha 2012,2012-02-07,FRANZISKA Patrick,LEGOUT Christophe,4,2,"11,5,8,11,11,11|9,11,11,5,6,8",,GRAND_SLAM,MS,85,Qualification,FRANZISKA Patrick (GER),LEGOUT Christophe (FRA)
-World Tour Qatar Open Doha 2012,2012-02-07,VLASOV Grigory,ALI Omar,4,0,"11,11,11,11|5,4,2,5",,GRAND_SLAM,MS,85,Qualification,VLASOV Grigory (RUS),ALI Omar (YEM)
-World Tour Qatar Open Doha 2012,2012-02-07,JEONG Sangeun,ALI Omar,4,0,"11,11,11,11|4,6,4,6",,GRAND_SLAM,MS,85,Qualification,JEONG Sangeun (KOR),ALI Omar (YEM)
-World Tour Qatar Open Doha 2012,2012-02-07,JEONG Sangeun,VLASOV Grigory,4,2,"7,11,11,6,11,11|11,8,9,11,8,6",,GRAND_SLAM,MS,85,Qualification,JEONG Sangeun (KOR),VLASOV Grigory (RUS)
-World Tour Qatar Open Doha 2012,2012-02-07,PAIKOV Mikhail,ALMAJED Rashed,4,1,"11,8,11,11,11|7,11,6,4,4",,GRAND_SLAM,MS,85,Qualification,PAIKOV Mikhail (RUS),ALMAJED Rashed (BRN)
-World Tour Qatar Open Doha 2012,2012-02-07,FILUS Ruwen,ALMAJED Rashed,4,0,"11,11,11,11|6,6,8,6",,GRAND_SLAM,MS,85,Qualification,FILUS Ruwen (GER),ALMAJED Rashed (BRN)
-World Tour Qatar Open Doha 2012,2012-02-07,FILUS Ruwen,PAIKOV Mikhail,4,1,"11,14,10,11,11|4,12,12,3,4",,GRAND_SLAM,MS,85,Qualification,FILUS Ruwen (GER),PAIKOV Mikhail (RUS)
-World Tour Qatar Open Doha 2012,2012-02-07,HUANG Sheng-Sheng,ALMUGHANNE Fahed,4,0,"11,11,11,11|5,3,6,5",,GRAND_SLAM,MS,85,Qualification,HUANG Sheng-Sheng (TPE),ALMUGHANNE Fahed (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,KUZMIN Fedor,ALMUGHANNE Fahed,4,0,"11,11,11,11|2,4,6,7",,GRAND_SLAM,MS,85,Qualification,KUZMIN Fedor (RUS),ALMUGHANNE Fahed (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,KUZMIN Fedor,HUANG Sheng-Sheng,4,1,"11,11,11,11,11|13,7,4,3,6",,GRAND_SLAM,MS,85,Qualification,KUZMIN Fedor (RUS),HUANG Sheng-Sheng (TPE)
-World Tour Qatar Open Doha 2012,2012-02-07,CHEN Feng,AL-HASAN Salem,4,0,"11,11,11,11|7,9,8,3",,GRAND_SLAM,MS,85,Qualification,CHEN Feng (SGP),AL-HASAN Salem (KUW)
-World Tour Qatar Open Doha 2012,2012-02-07,JEOUNG Youngsik,AL-HASAN Salem,4,0,"11,11,11,11|9,6,4,2",,GRAND_SLAM,MS,85,Qualification,JEOUNG Youngsik (KOR),AL-HASAN Salem (KUW)
-World Tour Qatar Open Doha 2012,2012-02-07,CHEN Feng,JEOUNG Youngsik,4,1,"11,5,11,11,11|7,11,4,7,7",,GRAND_SLAM,MS,85,Qualification,CHEN Feng (SGP),JEOUNG Youngsik (KOR)
-World Tour Qatar Open Doha 2012,2012-02-07,DIDUKH Oleksandr,MOUMJOGHLIAN Avo,4,0,"11,11,11,11|8,5,6,6",,GRAND_SLAM,MS,85,Qualification,DIDUKH Oleksandr (UKR),MOUMJOGHLIAN Avo (LBN)
-World Tour Qatar Open Doha 2012,2012-02-07,HABESOHN Daniel,MOUMJOGHLIAN Avo,4,0,"11,11,11,11|5,4,6,4",,GRAND_SLAM,MS,85,Qualification,HABESOHN Daniel (AUT),MOUMJOGHLIAN Avo (LBN)
-World Tour Qatar Open Doha 2012,2012-02-07,DIDUKH Oleksandr,HABESOHN Daniel,4,0,"11,11,11,15|7,9,7,13",,GRAND_SLAM,MS,85,Qualification,DIDUKH Oleksandr (UKR),HABESOHN Daniel (AUT)
-World Tour Qatar Open Doha 2012,2012-02-07,GAUZY Simon,BUSHELAIBI Mohamed,4,1,"11,11,5,11,11|8,5,11,2,4",,GRAND_SLAM,MS,85,Qualification,GAUZY Simon (FRA),BUSHELAIBI Mohamed (BRN)
-World Tour Qatar Open Doha 2012,2012-02-07,KOSOWSKI Jakub,BUSHELAIBI Mohamed,4,0,"11,11,11,11|6,6,5,4",,GRAND_SLAM,MS,85,Qualification,KOSOWSKI Jakub (POL),BUSHELAIBI Mohamed (BRN)
-World Tour Qatar Open Doha 2012,2012-02-07,GAUZY Simon,KOSOWSKI Jakub,4,3,"2,12,11,10,11,11,11|11,10,13,12,6,9,6",,GRAND_SLAM,MS,85,Qualification,GAUZY Simon (FRA),KOSOWSKI Jakub (POL)
-World Tour Qatar Open Doha 2012,2012-02-07,ZHMUDENKO Yaroslav,JUMA Hasan,4,0,"11,11,11,11|5,2,7,5",,GRAND_SLAM,MS,85,Qualification,ZHMUDENKO Yaroslav (UKR),JUMA Hasan (BRN)
-World Tour Qatar Open Doha 2012,2012-02-07,YOSHIMURA Maharu,JUMA Hasan,4,0,"11,11,11,11|1,4,3,6",,GRAND_SLAM,MS,85,Qualification,YOSHIMURA Maharu (JPN),JUMA Hasan (BRN)
-World Tour Qatar Open Doha 2012,2012-02-07,ZHMUDENKO Yaroslav,YOSHIMURA Maharu,4,1,"11,11,11,4,11|8,7,7,11,7",,GRAND_SLAM,MS,85,Qualification,ZHMUDENKO Yaroslav (UKR),YOSHIMURA Maharu (JPN)
-World Tour Qatar Open Doha 2012,2012-02-07,BOBOCICA Mihai,SHEMET German,4,0,"11,11,11,11|6,9,8,9",,GRAND_SLAM,MS,85,Qualification,BOBOCICA Mihai (ITA),SHEMET German (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,LIVENTSOV Alexey,EL HAKIM Rock,4,0,"11,11,11,11|2,6,3,5",,GRAND_SLAM,MS,85,Qualification,LIVENTSOV Alexey (RUS),EL HAKIM Rock (LBN)
-World Tour Qatar Open Doha 2012,2012-02-07,LIVENTSOV Alexey,SHEMET German,4,0,"11,12,11,11|4,10,3,6",,GRAND_SLAM,MS,85,Qualification,LIVENTSOV Alexey (RUS),SHEMET German (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,BOBOCICA Mihai,EL HAKIM Rock,4,0,"11,11,11,11|7,3,5,5",,GRAND_SLAM,MS,85,Qualification,BOBOCICA Mihai (ITA),EL HAKIM Rock (LBN)
-World Tour Qatar Open Doha 2012,2012-02-07,LIVENTSOV Alexey,BOBOCICA Mihai,4,3,"9,8,11,11,11,11,11|11,11,4,13,6,9,5",,GRAND_SLAM,MS,85,Qualification,LIVENTSOV Alexey (RUS),BOBOCICA Mihai (ITA)
-World Tour Qatar Open Doha 2012,2012-02-07,SHEMET German,EL HAKIM Rock,4,0,"11,11,11,11|8,9,9,5",,GRAND_SLAM,MS,85,Qualification,SHEMET German (QAT),EL HAKIM Rock (LBN)
-World Tour Qatar Open Doha 2012,2012-02-07,ROBINOT Quentin,BAND Joshua,4,0,"11,11,11,11|1,5,7,5",,GRAND_SLAM,MS,85,Qualification,ROBINOT Quentin (FRA),BAND Joshua (JEY)
-World Tour Qatar Open Doha 2012,2012-02-07,FEGERL Stefan,FATA Anthony,4,0,"11,11,11,11|2,4,1,4",,GRAND_SLAM,MS,85,Qualification,FEGERL Stefan (AUT),FATA Anthony (LBN)
-World Tour Qatar Open Doha 2012,2012-02-07,FEGERL Stefan,BAND Joshua,4,0,"11,11,11,11|6,2,3,6",,GRAND_SLAM,MS,85,Qualification,FEGERL Stefan (AUT),BAND Joshua (JEY)
-World Tour Qatar Open Doha 2012,2012-02-07,ROBINOT Quentin,FATA Anthony,4,0,"11,11,11,11|5,0,1,5",,GRAND_SLAM,MS,85,Qualification,ROBINOT Quentin (FRA),FATA Anthony (LBN)
-World Tour Qatar Open Doha 2012,2012-02-07,ROBINOT Quentin,FEGERL Stefan,4,1,"11,12,10,11,12|7,10,12,7,10",,GRAND_SLAM,MS,85,Qualification,ROBINOT Quentin (FRA),FEGERL Stefan (AUT)
-World Tour Qatar Open Doha 2012,2012-02-07,BAND Joshua,FATA Anthony,4,0,"11,11,11,11|1,6,5,7",,GRAND_SLAM,MS,85,Qualification,BAND Joshua (JEY),FATA Anthony (LBN)
-World Tour Qatar Open Doha 2012,2012-02-07,YU Kwok See,MIKHAILOVA Polina,4,0,"11,11,16,11|9,8,14,8",,GRAND_SLAM,WS,85,Qualification,YU Kwok See (HKG),MIKHAILOVA Polina (RUS)
-World Tour Qatar Open Doha 2012,2012-02-07,YU Mengyu,YU Kwok See,4,0,"11,11,11,11|3,5,8,4",,GRAND_SLAM,WS,85,Qualification,YU Mengyu (SGP),YU Kwok See (HKG)
-World Tour Qatar Open Doha 2012,2012-02-07,MIKHAILOVA Polina,YU Mengyu,4,3,"12,4,12,9,11,6,12|10,11,10,11,4,11,10",,GRAND_SLAM,WS,85,Qualification,MIKHAILOVA Polina (RUS),YU Mengyu (SGP)
-World Tour Qatar Open Doha 2012,2012-02-07,RAMIREZ Sara,BOROS Tamara,4,2,"11,5,11,11,4,11|7,11,9,5,11,7",,GRAND_SLAM,WS,85,Qualification,RAMIREZ Sara (ESP),BOROS Tamara (CRO)
-World Tour Qatar Open Doha 2012,2012-02-07,CHEN Meng,BOROS Tamara,4,1,"11,11,11,9,13|8,8,3,11,11",,GRAND_SLAM,WS,85,Qualification,CHEN Meng (CHN),BOROS Tamara (CRO)
-World Tour Qatar Open Doha 2012,2012-02-07,CHEN Meng,RAMIREZ Sara,4,1,"11,7,11,11,11|6,11,2,3,2",,GRAND_SLAM,WS,85,Qualification,CHEN Meng (CHN),RAMIREZ Sara (ESP)
-World Tour Qatar Open Doha 2012,2012-02-07,NOSKOVA Yana,WINTER Sabine,4,2,"2,12,8,13,11,11|11,10,11,11,5,8",,GRAND_SLAM,WS,85,Qualification,NOSKOVA Yana (RUS),WINTER Sabine (GER)
-World Tour Qatar Open Doha 2012,2012-02-07,HUANG Yi-Hua,WINTER Sabine,4,3,"8,11,9,11,11,8,11|11,7,11,6,7,11,4",,GRAND_SLAM,WS,85,Qualification,HUANG Yi-Hua (TPE),WINTER Sabine (GER)
-World Tour Qatar Open Doha 2012,2012-02-07,HUANG Yi-Hua,NOSKOVA Yana,4,0,"11,11,11,11|7,5,8,6",,GRAND_SLAM,WS,85,Qualification,HUANG Yi-Hua (TPE),NOSKOVA Yana (RUS)
-World Tour Qatar Open Doha 2012,2012-02-07,GRUNDISCH Carole,BILENKO Tetyana,4,2,"12,11,11,6,9,11|10,5,9,11,11,8",,GRAND_SLAM,WS,85,Qualification,GRUNDISCH Carole (FRA),BILENKO Tetyana (UKR)
-World Tour Qatar Open Doha 2012,2012-02-07,NI Xia Lian,BILENKO Tetyana,4,2,"9,8,11,11,11,11|11,11,4,5,5,3",,GRAND_SLAM,WS,85,Qualification,NI Xia Lian (LUX),BILENKO Tetyana (UKR)
-World Tour Qatar Open Doha 2012,2012-02-07,NI Xia Lian,GRUNDISCH Carole,4,2,"8,7,12,11,11,11|11,11,10,7,6,6",,GRAND_SLAM,WS,85,Qualification,NI Xia Lian (LUX),GRUNDISCH Carole (FRA)
-World Tour Qatar Open Doha 2012,2012-02-07,HAN Ying,PARTYKA Natalia,4,0,"12,11,11,11|10,9,5,5",,GRAND_SLAM,WS,85,Qualification,HAN Ying (GER),PARTYKA Natalia (POL)
-World Tour Qatar Open Doha 2012,2012-02-07,HAN Ying,SUH Hyo Won,4,2,"11,6,11,11,7,12|9,11,9,9,11,10",,GRAND_SLAM,WS,85,Qualification,HAN Ying (GER),SUH Hyo Won (KOR)
-World Tour Qatar Open Doha 2012,2012-02-07,SUH Hyo Won,PARTYKA Natalia,4,1,"8,11,11,12,11|11,6,8,10,6",,GRAND_SLAM,WS,85,Qualification,SUH Hyo Won (KOR),PARTYKA Natalia (POL)
-World Tour Qatar Open Doha 2012,2012-02-07,XIAN Yifang,CECHOVA Dana,4,1,"11,11,11,9,11|2,6,4,11,5",,GRAND_SLAM,WS,85,Qualification,XIAN Yifang (FRA),CECHOVA Dana (CZE)
-World Tour Qatar Open Doha 2012,2012-02-07,POTA Georgina,CECHOVA Dana,4,1,"13,11,11,11,11|11,13,8,6,8",,GRAND_SLAM,WS,85,Qualification,POTA Georgina (HUN),CECHOVA Dana (CZE)
-World Tour Qatar Open Doha 2012,2012-02-07,POTA Georgina,XIAN Yifang,4,2,"11,11,9,11,9,11|4,5,11,9,11,8",,GRAND_SLAM,WS,85,Qualification,POTA Georgina (HUN),XIAN Yifang (FRA)
-World Tour Qatar Open Doha 2012,2012-02-07,IVANCAN Irene,AMBRUS Krisztina,4,1,"11,8,11,11,11|3,11,9,7,9",,GRAND_SLAM,WS,85,Qualification,IVANCAN Irene (GER),AMBRUS Krisztina (HUN)
-World Tour Qatar Open Doha 2012,2012-02-07,GRZYBOWSKA-FRANC Katarzyna,CHEN Szu-Yu,4,2,"11,8,12,12,11,11|7,11,14,10,7,8",,GRAND_SLAM,WS,85,Qualification,GRZYBOWSKA-FRANC Katarzyna (POL),CHEN Szu-Yu (TPE)
-World Tour Qatar Open Doha 2012,2012-02-07,GRZYBOWSKA-FRANC Katarzyna,TOTH Krisztina,4,2,"9,11,4,11,11,11|11,8,11,8,8,5",,GRAND_SLAM,WS,85,Qualification,GRZYBOWSKA-FRANC Katarzyna (POL),TOTH Krisztina (HUN)
-World Tour Qatar Open Doha 2012,2012-02-07,CHEN Szu-Yu,TOTH Krisztina,4,2,"5,11,8,11,11,11|11,8,11,7,9,7",,GRAND_SLAM,WS,85,Qualification,CHEN Szu-Yu (TPE),TOTH Krisztina (HUN)
-World Tour Qatar Open Doha 2012,2012-02-07,FADEEVA Oxana,CHENG Hsien-Tzu,4,2,"11,11,7,11,4,11|5,6,11,6,11,9",,GRAND_SLAM,WS,85,Qualification,FADEEVA Oxana (RUS),CHENG Hsien-Tzu (TPE)
-World Tour Qatar Open Doha 2012,2012-02-07,DANG Yeseo,CHENG Hsien-Tzu,4,0,"11,11,11,11|4,4,2,6",,GRAND_SLAM,WS,85,Qualification,DANG Yeseo (KOR),CHENG Hsien-Tzu (TPE)
-World Tour Qatar Open Doha 2012,2012-02-07,DANG Yeseo,FADEEVA Oxana,4,1,"11,5,11,11,14|7,11,7,8,12",,GRAND_SLAM,WS,85,Qualification,DANG Yeseo (KOR),FADEEVA Oxana (RUS)
-World Tour Qatar Open Doha 2012,2012-02-07,VACENOVSKA Iveta,SO Eka,4,1,"11,11,3,11,11|9,4,11,4,6",,GRAND_SLAM,WS,85,Qualification,VACENOVSKA Iveta (CZE),SO Eka (JPN)
-World Tour Qatar Open Doha 2012,2012-02-07,VACENOVSKA Iveta,NG Wing Nam,4,1,"11,11,11,8,11|8,6,5,11,9",,GRAND_SLAM,WS,85,Qualification,VACENOVSKA Iveta (CZE),NG Wing Nam (HKG)
-World Tour Qatar Open Doha 2012,2012-02-07,CHENG I-Ching,LEE Dasom,4,3,"11,2,11,10,9,11,14|6,11,6,12,11,4,12",,GRAND_SLAM,WS,85,Qualification,CHENG I-Ching (TPE),LEE Dasom (KOR)
-World Tour Qatar Open Doha 2012,2012-02-07,CHENG I-Ching,LEE Ho Ching,4,0,"12,12,11,14|10,10,6,12",,GRAND_SLAM,WS,85,Qualification,CHENG I-Ching (TPE),LEE Ho Ching (HKG)
-World Tour Qatar Open Doha 2012,2012-02-07,LEE I-Chen,GUAN Mengyuan,4,0,"11,11,11,11|7,4,3,4",,GRAND_SLAM,WS,85,Qualification,LEE I-Chen (TPE),GUAN Mengyuan (HKG)
-World Tour Qatar Open Doha 2012,2012-02-07,LOVAS Petra,AL-HAMAD Hissa,4,0,"11,11,11,11|4,5,1,3",,GRAND_SLAM,WS,85,Qualification,LOVAS Petra (HUN),AL-HAMAD Hissa (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,LOVAS Petra,GUAN Mengyuan,4,1,"11,4,11,11,11|9,11,5,6,9",,GRAND_SLAM,WS,85,Qualification,LOVAS Petra (HUN),GUAN Mengyuan (HKG)
-World Tour Qatar Open Doha 2012,2012-02-07,LEE I-Chen,AL-HAMAD Hissa,4,0,"11,11,11,11|5,2,6,4",,GRAND_SLAM,WS,85,Qualification,LEE I-Chen (TPE),AL-HAMAD Hissa (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,LOVAS Petra,LEE I-Chen,4,2,"12,3,14,8,11,12|10,11,12,11,4,10",,GRAND_SLAM,WS,85,Qualification,LOVAS Petra (HUN),LEE I-Chen (TPE)
-World Tour Qatar Open Doha 2012,2012-02-07,GUAN Mengyuan,AL-HAMAD Hissa,4,0,"11,11,11,11|1,2,4,4",,GRAND_SLAM,WS,85,Qualification,GUAN Mengyuan (HKG),AL-HAMAD Hissa (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,EKHOLM Matilda,MOHAMED Aia,4,0,"11,11,11,11|6,3,6,4",,GRAND_SLAM,WS,85,Qualification,EKHOLM Matilda (SWE),MOHAMED Aia (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,LANG Kristin,MOHAMED Aia,4,0,"11,11,11,11|6,3,2,4",,GRAND_SLAM,WS,85,Qualification,LANG Kristin (GER),MOHAMED Aia (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,EKHOLM Matilda,LANG Kristin,4,1,"11,11,8,11,11|9,7,11,6,6",,GRAND_SLAM,WS,85,Qualification,EKHOLM Matilda (SWE),LANG Kristin (GER)
-World Tour Qatar Open Doha 2012,2012-02-07,TIKHOMIROVA Anna,XU Chris,4,0,"11,11,11,11|7,3,6,5",,GRAND_SLAM,WS,85,Qualification,TIKHOMIROVA Anna (RUS),XU Chris (CAN)
-World Tour Qatar Open Doha 2012,2012-02-07,LI Xiaodan,TAN Wenling,4,0,"12,11,11,11|10,7,4,5",,GRAND_SLAM,WS,85,Qualification,LI Xiaodan (CHN),TAN Wenling (ITA)
-World Tour Qatar Open Doha 2012,2012-02-07,LI Xiaodan,XU Chris,4,0,"11,11,11,11|9,2,7,2",,GRAND_SLAM,WS,85,Qualification,LI Xiaodan (CHN),XU Chris (CAN)
-World Tour Qatar Open Doha 2012,2012-02-07,TIKHOMIROVA Anna,TAN Wenling,4,1,"11,9,11,11,11|6,11,7,6,5",,GRAND_SLAM,WS,85,Qualification,TIKHOMIROVA Anna (RUS),TAN Wenling (ITA)
-World Tour Qatar Open Doha 2012,2012-02-07,LI Xiaodan,TIKHOMIROVA Anna,4,0,"12,16,11,12|10,14,4,10",,GRAND_SLAM,WS,85,Qualification,LI Xiaodan (CHN),TIKHOMIROVA Anna (RUS)
-World Tour Qatar Open Doha 2012,2012-02-07,TAN Wenling,XU Chris,4,0,"11,11,11,11|2,2,5,5",,GRAND_SLAM,WS,85,Qualification,TAN Wenling (ITA),XU Chris (CAN)
-World Tour Qatar Open Doha 2012,2012-02-07,BARTHEL Zhenqi,AL ABRI Noora,4,0,"11,11,11,11|5,2,3,5",,GRAND_SLAM,WS,85,Qualification,BARTHEL Zhenqi (GER),AL ABRI Noora (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,GU Yuting,WEHBE Hala,4,0,"11,11,11,11|2,2,1,1",,GRAND_SLAM,WS,85,Qualification,GU Yuting (CHN),WEHBE Hala (LBN)
-World Tour Qatar Open Doha 2012,2012-02-07,GU Yuting,AL ABRI Noora,4,0,"11,11,11,11|4,3,3,1",,GRAND_SLAM,WS,85,Qualification,GU Yuting (CHN),AL ABRI Noora (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,BARTHEL Zhenqi,WEHBE Hala,4,0,"11,11,11,11|3,4,5,4",,GRAND_SLAM,WS,85,Qualification,BARTHEL Zhenqi (GER),WEHBE Hala (LBN)
-World Tour Qatar Open Doha 2012,2012-02-07,BARTHEL Zhenqi,GU Yuting,4,1,"6,12,11,11,11|11,10,9,7,4",,GRAND_SLAM,WS,85,Qualification,BARTHEL Zhenqi (GER),GU Yuting (CHN)
-World Tour Qatar Open Doha 2012,2012-02-07,WEHBE Hala,AL ABRI Noora,4,1,"11,11,10,11,11|9,7,12,8,6",,GRAND_SLAM,WS,85,Qualification,WEHBE Hala (LBN),AL ABRI Noora (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,YAO Yan,PESOTSKA Margaryta,4,0,"11,11,11,11|4,7,3,4",,GRAND_SLAM,WS,85,Qualification,YAO Yan (CHN),PESOTSKA Margaryta (UKR)
-World Tour Qatar Open Doha 2012,2012-02-07,LI Xue,FARAMARZI Maha,4,0,"11,11,11,11|1,3,1,1",,GRAND_SLAM,WS,85,Qualification,LI Xue (FRA),FARAMARZI Maha (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,YAO Yan,LI Xue,4,0,"11,11,11,11|1,7,7,7",,GRAND_SLAM,WS,85,Qualification,YAO Yan (CHN),LI Xue (FRA)
-World Tour Qatar Open Doha 2012,2012-02-07,PESOTSKA Margaryta,FARAMARZI Maha,4,0,"11,11,11,11|3,1,4,4",,GRAND_SLAM,WS,85,Qualification,PESOTSKA Margaryta (UKR),FARAMARZI Maha (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,LI Xue,PESOTSKA Margaryta,4,3,"6,11,9,6,11,11,13|11,7,11,11,6,6,11",,GRAND_SLAM,WS,85,Qualification,LI Xue (FRA),PESOTSKA Margaryta (UKR)
-World Tour Qatar Open Doha 2012,2012-02-07,YAO Yan,FARAMARZI Maha,4,0,"11,11,11,11|3,3,4,3",,GRAND_SLAM,WS,85,Qualification,YAO Yan (CHN),FARAMARZI Maha (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,AL-HASAN Salem,MOUMJOGHLIAN Avo,3,2,"12,11,9,11,11|14,1,11,5,8",,GRAND_SLAM,U21MS,85,Qualification,AL-HASAN Salem (KUW),MOUMJOGHLIAN Avo (LBN)
-World Tour Qatar Open Doha 2012,2012-02-07,KOSIBA Daniel,MOUMJOGHLIAN Avo,3,0,"11,11,14|6,3,12",,GRAND_SLAM,U21MS,85,Qualification,KOSIBA Daniel (HUN),MOUMJOGHLIAN Avo (LBN)
-World Tour Qatar Open Doha 2012,2012-02-07,KOSIBA Daniel,AL-HASAN Salem,3,0,"11,11,11|6,8,9",,GRAND_SLAM,U21MS,85,Qualification,KOSIBA Daniel (HUN),AL-HASAN Salem (KUW)
-World Tour Qatar Open Doha 2012,2012-02-07,ALMUGHANNE Fahed,BUSHELAIBI Mohamed,3,1,"1,11,11,11|11,9,7,8",,GRAND_SLAM,U21MS,85,Qualification,ALMUGHANNE Fahed (QAT),BUSHELAIBI Mohamed (BRN)
-World Tour Qatar Open Doha 2012,2012-02-07,FLORE Tristan,BUSHELAIBI Mohamed,3,0,"11,11,11|5,7,3",,GRAND_SLAM,U21MS,85,Qualification,FLORE Tristan (FRA),BUSHELAIBI Mohamed (BRN)
-World Tour Qatar Open Doha 2012,2012-02-07,FLORE Tristan,ALMUGHANNE Fahed,3,1,"9,11,11,11|11,5,5,9",,GRAND_SLAM,U21MS,85,Qualification,FLORE Tristan (FRA),ALMUGHANNE Fahed (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,JUMA Hasan,ALI Omar,3,1,"11,5,11,11|5,11,4,8",,GRAND_SLAM,U21MS,85,Qualification,JUMA Hasan (BRN),ALI Omar (YEM)
-World Tour Qatar Open Doha 2012,2012-02-07,KARLSSON Kristian,JUMA Hasan,3,1,"11,10,11,11|3,12,2,6",,GRAND_SLAM,U21MS,85,Qualification,KARLSSON Kristian (SWE),JUMA Hasan (BRN)
-World Tour Qatar Open Doha 2012,2012-02-07,KARLSSON Kristian,ALI Omar,3,1,"11,9,11,11|5,11,2,6",,GRAND_SLAM,U21MS,85,Qualification,KARLSSON Kristian (SWE),ALI Omar (YEM)
-World Tour Qatar Open Doha 2012,2012-02-07,MORICZ Mate,SHEMET German,3,0,"11,11,11|8,4,8",,GRAND_SLAM,U21MS,85,Qualification,MORICZ Mate (HUN),SHEMET German (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,KIM Donghyun,SHEMET German,3,0,"11,11,11|5,1,8",,GRAND_SLAM,U21MS,85,Qualification,KIM Donghyun (KOR),SHEMET German (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,KIM Donghyun,MORICZ Mate,3,1,"6,11,11,11|11,6,9,9",,GRAND_SLAM,U21MS,85,Qualification,KIM Donghyun (KOR),MORICZ Mate (HUN)
-World Tour Qatar Open Doha 2012,2012-02-07,MERZLIKIN Taras,AL-NAGGAR Abdulrahman,3,0,"11,11,11|6,5,6",,GRAND_SLAM,U21MS,85,Qualification,MERZLIKIN Taras (RUS),AL-NAGGAR Abdulrahman (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,FLORITZ Philipp,AL-NAGGAR Abdulrahman,3,0,"11,11,11|3,6,5",,GRAND_SLAM,U21MS,85,Qualification,FLORITZ Philipp (BUL),AL-NAGGAR Abdulrahman (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,FLORITZ Philipp,MERZLIKIN Taras,3,2,"9,12,11,3,11|11,10,9,11,6",,GRAND_SLAM,U21MS,85,Qualification,FLORITZ Philipp (BUL),MERZLIKIN Taras (RUS)
-World Tour Qatar Open Doha 2012,2012-02-07,LAKATOS Tamas,AL-SANADI Jassim,3,0,"11,11,11|5,6,1",,GRAND_SLAM,U21MS,85,Qualification,LAKATOS Tamas (HUN),AL-SANADI Jassim (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,NUYTINCK Cedric,AL-SANADI Jassim,3,1,"11,8,13,11|6,11,11,5",,GRAND_SLAM,U21MS,85,Qualification,NUYTINCK Cedric (BEL),AL-SANADI Jassim (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,NUYTINCK Cedric,LAKATOS Tamas,3,2,"11,12,6,4,11|8,10,11,11,7",,GRAND_SLAM,U21MS,85,Qualification,NUYTINCK Cedric (BEL),LAKATOS Tamas (HUN)
-World Tour Qatar Open Doha 2012,2012-02-07,PANG Xue Jie,BAND Joshua,3,0,"11,11,11|3,3,5",,GRAND_SLAM,U21MS,85,Qualification,PANG Xue Jie (SGP),BAND Joshua (JEY)
-World Tour Qatar Open Doha 2012,2012-02-07,JEAN Lauric,FATA Anthony,3,0,"11,11,11|2,1,1",,GRAND_SLAM,U21MS,85,Qualification,JEAN Lauric (BEL),FATA Anthony (LBN)
-World Tour Qatar Open Doha 2012,2012-02-07,JEAN Lauric,BAND Joshua,3,0,"11,11,11|7,7,8",,GRAND_SLAM,U21MS,85,Qualification,JEAN Lauric (BEL),BAND Joshua (JEY)
-World Tour Qatar Open Doha 2012,2012-02-07,PANG Xue Jie,FATA Anthony,3,0,"11,11,11|4,1,1",,GRAND_SLAM,U21MS,85,Qualification,PANG Xue Jie (SGP),FATA Anthony (LBN)
-World Tour Qatar Open Doha 2012,2012-02-07,JEAN Lauric,PANG Xue Jie,3,0,"11,11,11|5,9,4",,GRAND_SLAM,U21MS,85,Qualification,JEAN Lauric (BEL),PANG Xue Jie (SGP)
-World Tour Qatar Open Doha 2012,2012-02-07,CHENG Hsien-Tzu,FARAMARZI Maha,3,0,"11,11,11|5,3,1",,GRAND_SLAM,U21WS,85,Qualification,CHENG Hsien-Tzu (TPE),FARAMARZI Maha (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,SO Eka,WEHBE Hala,3,0,"11,11,11|1,2,3",,GRAND_SLAM,U21WS,85,Qualification,SO Eka (JPN),WEHBE Hala (LBN)
-World Tour Qatar Open Doha 2012,2012-02-07,SO Eka,MOHAMED Aia,3,0,"11,11,11|5,1,4",,GRAND_SLAM,U21WS,85,Qualification,SO Eka (JPN),MOHAMED Aia (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,MOHAMED Aia,WEHBE Hala,3,0,"11,11,11|7,8,8",,GRAND_SLAM,U21WS,85,Qualification,MOHAMED Aia (QAT),WEHBE Hala (LBN)
-World Tour Qatar Open Doha 2012,2012-02-07,LEE Dasom,AL ABRI Noora,3,0,"11,11,11|4,2,3",,GRAND_SLAM,U21WS,85,Qualification,LEE Dasom (KOR),AL ABRI Noora (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,GUAN Mengyuan,LEE Dasom,3,1,"11,3,11,11|7,11,3,5",,GRAND_SLAM,U21WS,85,Qualification,GUAN Mengyuan (HKG),LEE Dasom (KOR)
-World Tour Qatar Open Doha 2012,2012-02-07,AL ABRI Noora,AL-HAMAD Hissa,3,0,"11,11,11|4,6,9",,GRAND_SLAM,U21WS,85,Qualification,AL ABRI Noora (QAT),AL-HAMAD Hissa (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,GUAN Mengyuan,AL ABRI Noora,3,0,"11,11,11|4,4,0",,GRAND_SLAM,U21WS,85,Qualification,GUAN Mengyuan (HKG),AL ABRI Noora (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,LEE Dasom,AL-HAMAD Hissa,3,0,"11,11,11|5,3,1",,GRAND_SLAM,U21WS,85,Qualification,LEE Dasom (KOR),AL-HAMAD Hissa (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,WANG Hao,KOSOWSKI Jakub,4,0,"11,11,11,11|6,7,7,3",R64,GRAND_SLAM,MS,85,Main Draw,WANG Hao (CHN),KOSOWSKI Jakub (POL)
-World Tour Qatar Open Doha 2012,2012-02-07,MATSUDAIRA Kenta,CHEN Feng,4,3,"10,11,11,11,12,8,11|12,5,9,9,14,11,7",R64,GRAND_SLAM,MS,85,Main Draw,MATSUDAIRA Kenta (JPN),CHEN Feng (SGP)
-World Tour Qatar Open Doha 2012,2012-02-07,LEBESSON Emmanuel,CHEUNG Yuk,4,3,"11,16,7,8,11,6,13|9,14,11,11,6,11,11",R64,GRAND_SLAM,MS,85,Main Draw,LEBESSON Emmanuel (FRA),CHEUNG Yuk (HKG)
-World Tour Qatar Open Doha 2012,2012-02-07,SAMSONOV Vladimir,MATSUDAIRA Kenji,4,3,"14,9,9,11,11,11,11|16,11,11,7,6,5,8",R64,GRAND_SLAM,MS,85,Main Draw,SAMSONOV Vladimir (BLR),MATSUDAIRA Kenji (JPN)
-World Tour Qatar Open Doha 2012,2012-02-07,FILUS Ruwen,KISHIKAWA Seiya,4,2,"12,11,11,13,7,11|10,6,13,11,11,9",R64,GRAND_SLAM,MS,85,Main Draw,FILUS Ruwen (GER),KISHIKAWA Seiya (JPN)
-World Tour Qatar Open Doha 2012,2012-02-07,LEE Jungwoo,CHAN Kazuhiro,4,2,"11,11,12,12,11,11|6,5,14,14,8,7",R64,GRAND_SLAM,MS,85,Main Draw,LEE Jungwoo (KOR),CHAN Kazuhiro (JPN)
-World Tour Qatar Open Doha 2012,2012-02-07,CRISAN Adrian,CHTCHETININE Evgueni,4,0,"11,11,11,11|8,6,6,8",R64,GRAND_SLAM,MS,85,Main Draw,CRISAN Adrian (ROU),CHTCHETININE Evgueni (BLR)
-World Tour Qatar Open Doha 2012,2012-02-07,OVTCHAROV Dimitrij,STOYANOV Niagol,4,0,"11,12,11,11|7,10,5,4",R64,GRAND_SLAM,MS,85,Main Draw,OVTCHAROV Dimitrij (GER),STOYANOV Niagol (ITA)
-World Tour Qatar Open Doha 2012,2012-02-07,CHUANG Chih-Yuan,LEGOUT Christophe,4,0,"11,11,11,11|9,7,6,7",R64,GRAND_SLAM,MS,85,Main Draw,CHUANG Chih-Yuan (TPE),LEGOUT Christophe (FRA)
-World Tour Qatar Open Doha 2012,2012-02-07,APOLONIA Tiago,GAUZY Simon,4,1,"11,13,7,11,11|6,11,11,9,9",R64,GRAND_SLAM,MS,85,Main Draw,APOLONIA Tiago (POR),GAUZY Simon (FRA)
-World Tour Qatar Open Doha 2012,2012-02-07,FRANZISKA Patrick,PERSSON Jorgen,4,3,"5,8,8,11,11,11,11|11,11,11,7,7,8,9",R64,GRAND_SLAM,MS,85,Main Draw,FRANZISKA Patrick (GER),PERSSON Jorgen (SWE)
-World Tour Qatar Open Doha 2012,2012-02-07,TOKIC Bojan,LIVENTSOV Alexey,4,1,"11,10,11,12,14|9,12,7,10,12",R64,GRAND_SLAM,MS,85,Main Draw,TOKIC Bojan (SLO),LIVENTSOV Alexey (RUS)
-World Tour Qatar Open Doha 2012,2012-02-07,JEONG Sangeun,LI Hu,4,2,"12,11,11,9,11,11|14,7,8,11,9,9",R64,GRAND_SLAM,MS,85,Main Draw,JEONG Sangeun (KOR),LI Hu (SGP)
-World Tour Qatar Open Doha 2012,2012-02-07,CHEN Weixing,SAIVE Jean-Michel,4,0,"11,11,11,12|8,2,6,10",R64,GRAND_SLAM,MS,85,Main Draw,CHEN Weixing (AUT),SAIVE Jean-Michel (BEL)
-World Tour Qatar Open Doha 2012,2012-02-07,SKACHKOV Kirill,GERELL Par,4,2,"12,11,9,11,3,11|10,5,11,3,11,7",R64,GRAND_SLAM,MS,85,Main Draw,SKACHKOV Kirill (RUS),GERELL Par (SWE)
-World Tour Qatar Open Doha 2012,2012-02-07,JOO Saehyuk,LUNDQVIST Jens,4,1,"11,13,11,9,14|4,11,9,11,12",R64,GRAND_SLAM,MS,85,Main Draw,JOO Saehyuk (KOR),LUNDQVIST Jens (SWE)
-World Tour Qatar Open Doha 2012,2012-02-07,MA Lin,FEGERL Stefan,4,0,"12,11,12,11|10,3,10,6",R64,GRAND_SLAM,MS,85,Main Draw,MA Lin (CHN),FEGERL Stefan (AUT)
-World Tour Qatar Open Doha 2012,2012-02-07,ZHAN Jian,TANG Peng,4,1,"11,11,11,11,11|4,7,8,13,7",R64,GRAND_SLAM,MS,85,Main Draw,ZHAN Jian (SGP),TANG Peng (HKG)
-World Tour Qatar Open Doha 2012,2012-02-07,DIDUKH Oleksandr,PRIMORAC Zoran,4,0,"11,11,11,11|7,6,9,3",R64,GRAND_SLAM,MS,85,Main Draw,DIDUKH Oleksandr (UKR),PRIMORAC Zoran (CRO)
-World Tour Qatar Open Doha 2012,2012-02-07,BAUM Patrick,ZHMUDENKO Yaroslav,4,2,"11,7,11,6,11,11|4,11,8,11,7,5",R64,GRAND_SLAM,MS,85,Main Draw,BAUM Patrick (GER),ZHMUDENKO Yaroslav (UKR)
-World Tour Qatar Open Doha 2012,2012-02-07,SHIBAEV Alexander,RYU Seungmin,4,1,"5,13,11,12,14|11,11,8,10,12",R64,GRAND_SLAM,MS,85,Main Draw,SHIBAEV Alexander (RUS),RYU Seungmin (KOR)
-World Tour Qatar Open Doha 2012,2012-02-07,MONTEIRO Joao,SMIRNOV Alexey,4,0,"11,11,11,11|9,8,6,5",R64,GRAND_SLAM,MS,85,Main Draw,MONTEIRO Joao (POR),SMIRNOV Alexey (RUS)
-World Tour Qatar Open Doha 2012,2012-02-07,GACINA Andrej,GARDOS Robert,4,2,"5,11,8,12,11,11|11,8,11,10,7,8",R64,GRAND_SLAM,MS,85,Main Draw,GACINA Andrej (CRO),GARDOS Robert (AUT)
-World Tour Qatar Open Doha 2012,2012-02-07,MIZUTANI Jun,HABESOHN Daniel,4,3,"9,10,12,11,11,6,11|11,12,10,9,3,11,9",R64,GRAND_SLAM,MS,85,Main Draw,MIZUTANI Jun (JPN),HABESOHN Daniel (AUT)
-World Tour Qatar Open Doha 2012,2012-02-07,OH Sangeun,PAIKOV Mikhail,4,2,"11,12,12,11,5,11|5,10,14,7,11,7",R64,GRAND_SLAM,MS,85,Main Draw,OH Sangeun (KOR),PAIKOV Mikhail (RUS)
-World Tour Qatar Open Doha 2012,2012-02-07,JIANG Tianyi,KUZMIN Fedor,4,3,"12,16,6,9,11,6,13|10,14,11,11,6,11,11",R64,GRAND_SLAM,MS,85,Main Draw,JIANG Tianyi (HKG),KUZMIN Fedor (RUS)
-World Tour Qatar Open Doha 2012,2012-02-07,LEUNG Chu Yan,ROBINOT Quentin,4,3,"11,8,8,11,11,8,11|4,11,11,9,8,11,8",R64,GRAND_SLAM,MS,85,Main Draw,LEUNG Chu Yan (HKG),ROBINOT Quentin (FRA)
-World Tour Qatar Open Doha 2012,2012-02-07,NIWA Koki,KARLSSON Kristian,4,2,"5,11,11,11,3,11|11,9,9,8,11,7",R64,GRAND_SLAM,MS,85,Main Draw,NIWA Koki (JPN),KARLSSON Kristian (SWE)
-World Tour Qatar Open Doha 2012,2012-02-07,GAO Ning,BUROV Viacheslav,4,0,"12,11,11,11|10,6,6,8",R64,GRAND_SLAM,MS,85,Main Draw,GAO Ning (SGP),BUROV Viacheslav (RUS)
-World Tour Qatar Open Doha 2012,2012-02-07,SUSS Christian,WU Chih-Chi,4,2,"11,11,11,6,9,11|3,9,9,11,11,5",R64,GRAND_SLAM,MS,85,Main Draw,SUSS Christian (GER),WU Chih-Chi (TPE)
-World Tour Qatar Open Doha 2012,2012-02-07,RUBTSOV Igor,YANG Zi,4,2,"9,11,9,19,11,11|11,4,11,17,9,6",R64,GRAND_SLAM,MS,85,Main Draw,RUBTSOV Igor (RUS),YANG Zi (SGP)
-World Tour Qatar Open Doha 2012,2012-02-07,XU Xin,HUNG Tzu-Hsiang,4,0,"11,11,11,11|5,6,4,7",R64,GRAND_SLAM,MS,85,Main Draw,XU Xin (CHN),HUNG Tzu-Hsiang (TPE)
-World Tour Qatar Open Doha 2012,2012-02-07,WANG Hao,MATSUDAIRA Kenta,4,1,"11,7,11,11,11|2,11,6,6,3",R32,GRAND_SLAM,MS,85,Main Draw,WANG Hao (CHN),MATSUDAIRA Kenta (JPN)
-World Tour Qatar Open Doha 2012,2012-02-07,SAMSONOV Vladimir,LEBESSON Emmanuel,4,0,"11,11,11,11|8,6,2,2",R32,GRAND_SLAM,MS,85,Main Draw,SAMSONOV Vladimir (BLR),LEBESSON Emmanuel (FRA)
-World Tour Qatar Open Doha 2012,2012-02-07,LEE Jungwoo,FILUS Ruwen,4,0,"11,11,11,11|6,7,4,3",R32,GRAND_SLAM,MS,85,Main Draw,LEE Jungwoo (KOR),FILUS Ruwen (GER)
-World Tour Qatar Open Doha 2012,2012-02-07,OVTCHAROV Dimitrij,CRISAN Adrian,4,0,"11,11,12,11|4,2,10,6",R32,GRAND_SLAM,MS,85,Main Draw,OVTCHAROV Dimitrij (GER),CRISAN Adrian (ROU)
-World Tour Qatar Open Doha 2012,2012-02-07,CHUANG Chih-Yuan,APOLONIA Tiago,4,2,"11,12,12,5,7,11|9,10,10,11,11,6",R32,GRAND_SLAM,MS,85,Main Draw,CHUANG Chih-Yuan (TPE),APOLONIA Tiago (POR)
-World Tour Qatar Open Doha 2012,2012-02-07,FRANZISKA Patrick,TOKIC Bojan,4,3,"9,6,14,11,11,3,12|11,11,12,8,5,11,10",R32,GRAND_SLAM,MS,85,Main Draw,FRANZISKA Patrick (GER),TOKIC Bojan (SLO)
-World Tour Qatar Open Doha 2012,2012-02-07,JEONG Sangeun,CHEN Weixing,4,1,"9,11,11,11,11|11,7,7,7,9",R32,GRAND_SLAM,MS,85,Main Draw,JEONG Sangeun (KOR),CHEN Weixing (AUT)
-World Tour Qatar Open Doha 2012,2012-02-07,JOO Saehyuk,SKACHKOV Kirill,4,3,"9,11,10,6,11,11,11|11,2,12,11,7,2,4",R32,GRAND_SLAM,MS,85,Main Draw,JOO Saehyuk (KOR),SKACHKOV Kirill (RUS)
-World Tour Qatar Open Doha 2012,2012-02-07,MA Lin,ZHAN Jian,4,1,"12,5,11,11,11|10,11,4,7,5",R32,GRAND_SLAM,MS,85,Main Draw,MA Lin (CHN),ZHAN Jian (SGP)
-World Tour Qatar Open Doha 2012,2012-02-07,BAUM Patrick,DIDUKH Oleksandr,4,0,"11,11,11,11|7,8,9,5",R32,GRAND_SLAM,MS,85,Main Draw,BAUM Patrick (GER),DIDUKH Oleksandr (UKR)
-World Tour Qatar Open Doha 2012,2012-02-07,SHIBAEV Alexander,MONTEIRO Joao,4,2,"11,7,11,5,12,11|4,11,6,11,10,9",R32,GRAND_SLAM,MS,85,Main Draw,SHIBAEV Alexander (RUS),MONTEIRO Joao (POR)
-World Tour Qatar Open Doha 2012,2012-02-07,MIZUTANI Jun,GACINA Andrej,4,0,"11,11,11,11|5,5,7,6",R32,GRAND_SLAM,MS,85,Main Draw,MIZUTANI Jun (JPN),GACINA Andrej (CRO)
-World Tour Qatar Open Doha 2012,2012-02-07,JIANG Tianyi,OH Sangeun,4,2,"4,8,15,11,11,15|11,11,13,1,5,13",R32,GRAND_SLAM,MS,85,Main Draw,JIANG Tianyi (HKG),OH Sangeun (KOR)
-World Tour Qatar Open Doha 2012,2012-02-07,NIWA Koki,LEUNG Chu Yan,4,3,"11,11,7,8,8,11,12|3,8,11,11,11,7,10",R32,GRAND_SLAM,MS,85,Main Draw,NIWA Koki (JPN),LEUNG Chu Yan (HKG)
-World Tour Qatar Open Doha 2012,2012-02-07,GAO Ning,SUSS Christian,4,2,"11,9,4,13,12,17|6,11,11,11,10,15",R32,GRAND_SLAM,MS,85,Main Draw,GAO Ning (SGP),SUSS Christian (GER)
-World Tour Qatar Open Doha 2012,2012-02-07,XU Xin,RUBTSOV Igor,4,1,"11,11,9,11,11|4,8,11,9,5",R32,GRAND_SLAM,MS,85,Main Draw,XU Xin (CHN),RUBTSOV Igor (RUS)
-World Tour Qatar Open Doha 2012,2012-02-07,WANG Hao,SAMSONOV Vladimir,4,2,"11,10,11,11,7,11|6,12,6,7,11,6",R16,GRAND_SLAM,MS,85,Main Draw,WANG Hao (CHN),SAMSONOV Vladimir (BLR)
-World Tour Qatar Open Doha 2012,2012-02-07,LEE Jungwoo,OVTCHAROV Dimitrij,4,3,"6,12,4,11,4,11,11|11,10,11,5,11,9,9",R16,GRAND_SLAM,MS,85,Main Draw,LEE Jungwoo (KOR),OVTCHAROV Dimitrij (GER)
-World Tour Qatar Open Doha 2012,2012-02-07,FRANZISKA Patrick,CHUANG Chih-Yuan,4,3,"11,3,9,11,11,11,11|9,11,11,9,9,13,7",R16,GRAND_SLAM,MS,85,Main Draw,FRANZISKA Patrick (GER),CHUANG Chih-Yuan (TPE)
-World Tour Qatar Open Doha 2012,2012-02-07,JOO Saehyuk,JEONG Sangeun,4,3,"11,11,9,11,7,7,11|8,9,11,6,11,11,6",R16,GRAND_SLAM,MS,85,Main Draw,JOO Saehyuk (KOR),JEONG Sangeun (KOR)
-World Tour Qatar Open Doha 2012,2012-02-07,MA Lin,BAUM Patrick,4,1,"11,11,7,11,13|6,4,11,7,11",R16,GRAND_SLAM,MS,85,Main Draw,MA Lin (CHN),BAUM Patrick (GER)
-World Tour Qatar Open Doha 2012,2012-02-07,MIZUTANI Jun,SHIBAEV Alexander,4,3,"11,11,8,9,8,11,11|8,5,11,11,11,0,7",R16,GRAND_SLAM,MS,85,Main Draw,MIZUTANI Jun (JPN),SHIBAEV Alexander (RUS)
-World Tour Qatar Open Doha 2012,2012-02-07,JIANG Tianyi,NIWA Koki,4,1,"14,7,11,11,11|12,11,8,6,5",R16,GRAND_SLAM,MS,85,Main Draw,JIANG Tianyi (HKG),NIWA Koki (JPN)
-World Tour Qatar Open Doha 2012,2012-02-07,XU Xin,GAO Ning,4,1,"11,7,11,11,11|7,11,9,2,5",R16,GRAND_SLAM,MS,85,Main Draw,XU Xin (CHN),GAO Ning (SGP)
-World Tour Qatar Open Doha 2012,2012-02-07,WANG Hao,LEE Jungwoo,4,2,"12,9,8,11,11,11|10,11,11,5,7,9",QF,GRAND_SLAM,MS,85,Main Draw,WANG Hao (CHN),LEE Jungwoo (KOR)
-World Tour Qatar Open Doha 2012,2012-02-07,JOO Saehyuk,FRANZISKA Patrick,4,2,"5,11,11,11,8,11|11,6,3,7,11,6",QF,GRAND_SLAM,MS,85,Main Draw,JOO Saehyuk (KOR),FRANZISKA Patrick (GER)
-World Tour Qatar Open Doha 2012,2012-02-07,MA Lin,MIZUTANI Jun,4,3,"5,11,8,11,11,11,11|11,7,11,13,6,7,5",QF,GRAND_SLAM,MS,85,Main Draw,MA Lin (CHN),MIZUTANI Jun (JPN)
-World Tour Qatar Open Doha 2012,2012-02-07,XU Xin,JIANG Tianyi,4,0,"11,11,11,11|7,4,6,2",QF,GRAND_SLAM,MS,85,Main Draw,XU Xin (CHN),JIANG Tianyi (HKG)
-World Tour Qatar Open Doha 2012,2012-02-07,WANG Hao,JOO Saehyuk,4,1,"9,11,11,11,11|11,6,7,2,3",SF,GRAND_SLAM,MS,85,Main Draw,WANG Hao (CHN),JOO Saehyuk (KOR)
-World Tour Qatar Open Doha 2012,2012-02-07,XU Xin,MA Lin,4,3,"11,11,5,11,8,9,11|7,9,11,9,11,11,6",SF,GRAND_SLAM,MS,85,Main Draw,XU Xin (CHN),MA Lin (CHN)
-World Tour Qatar Open Doha 2012,2012-02-07,XU Xin,WANG Hao,4,3,"11,7,9,4,12,11,12|7,11,11,11,10,5,10",F,GRAND_SLAM,MS,85,Main Draw,XU Xin (CHN),WANG Hao (CHN)
-World Tour Qatar Open Doha 2012,2012-02-07,JEOUNG Youngsik,JUMA Hasan,3,0,"11,11,11|6,4,2",R16,GRAND_SLAM,U21MS,85,Main Draw,JEOUNG Youngsik (KOR),JUMA Hasan (BRN)
-World Tour Qatar Open Doha 2012,2012-02-07,KARLSSON Mattias,KOSIBA Daniel,3,1,"11,15,11,11|7,13,13,9",R16,GRAND_SLAM,U21MS,85,Main Draw,KARLSSON Mattias (SWE),KOSIBA Daniel (HUN)
-World Tour Qatar Open Doha 2012,2012-02-07,HUNG Tzu-Hsiang,NUYTINCK Cedric,3,1,"12,11,11,11|14,7,6,5",R16,GRAND_SLAM,U21MS,85,Main Draw,HUNG Tzu-Hsiang (TPE),NUYTINCK Cedric (BEL)
-World Tour Qatar Open Doha 2012,2012-02-07,ROBINOT Quentin,KARLSSON Kristian,3,1,"7,11,13,11|11,7,11,8",R16,GRAND_SLAM,U21MS,85,Main Draw,ROBINOT Quentin (FRA),KARLSSON Kristian (SWE)
-World Tour Qatar Open Doha 2012,2012-02-07,GAUZY Simon,JEAN Lauric,3,0,"11,11,11|7,7,4",R16,GRAND_SLAM,U21MS,85,Main Draw,GAUZY Simon (FRA),JEAN Lauric (BEL)
-World Tour Qatar Open Doha 2012,2012-02-07,FLORE Tristan,CHEN Feng,3,0,"11,12,15|4,10,13",R16,GRAND_SLAM,U21MS,85,Main Draw,FLORE Tristan (FRA),CHEN Feng (SGP)
-World Tour Qatar Open Doha 2012,2012-02-07,KIM Donghyun,FRANZISKA Patrick,3,1,"11,4,11,14|5,11,6,12",R16,GRAND_SLAM,U21MS,85,Main Draw,KIM Donghyun (KOR),FRANZISKA Patrick (GER)
-World Tour Qatar Open Doha 2012,2012-02-07,FLORITZ Philipp,YOSHIMURA Maharu,3,1,"11,13,11,13|6,15,7,11",R16,GRAND_SLAM,U21MS,85,Main Draw,FLORITZ Philipp (BUL),YOSHIMURA Maharu (JPN)
-World Tour Qatar Open Doha 2012,2012-02-07,KARLSSON Mattias,JEOUNG Youngsik,4,2,"12,11,4,11,4,12|10,6,11,7,11,10",QF,GRAND_SLAM,U21MS,85,Main Draw,KARLSSON Mattias (SWE),JEOUNG Youngsik (KOR)
-World Tour Qatar Open Doha 2012,2012-02-07,HUNG Tzu-Hsiang,ROBINOT Quentin,4,3,"11,3,11,11,7,8,11|8,11,8,9,11,11,8",QF,GRAND_SLAM,U21MS,85,Main Draw,HUNG Tzu-Hsiang (TPE),ROBINOT Quentin (FRA)
-World Tour Qatar Open Doha 2012,2012-02-07,GAUZY Simon,FLORE Tristan,4,1,"11,11,11,8,11|9,8,4,11,9",QF,GRAND_SLAM,U21MS,85,Main Draw,GAUZY Simon (FRA),FLORE Tristan (FRA)
-World Tour Qatar Open Doha 2012,2012-02-07,KIM Donghyun,FLORITZ Philipp,4,2,"10,11,9,11,11,11|12,3,11,6,7,5",QF,GRAND_SLAM,U21MS,85,Main Draw,KIM Donghyun (KOR),FLORITZ Philipp (BUL)
-World Tour Qatar Open Doha 2012,2012-02-07,HUNG Tzu-Hsiang,KARLSSON Mattias,4,3,"5,9,11,10,11,11,11|11,11,6,12,9,5,9",SF,GRAND_SLAM,U21MS,85,Main Draw,HUNG Tzu-Hsiang (TPE),KARLSSON Mattias (SWE)
-World Tour Qatar Open Doha 2012,2012-02-07,GAUZY Simon,KIM Donghyun,4,1,"12,11,11,7,11|10,4,8,11,8",SF,GRAND_SLAM,U21MS,85,Main Draw,GAUZY Simon (FRA),KIM Donghyun (KOR)
-World Tour Qatar Open Doha 2012,2012-02-07,GAUZY Simon,HUNG Tzu-Hsiang,4,1,"11,11,9,11,11|6,5,11,4,7",F,GRAND_SLAM,U21MS,85,Main Draw,GAUZY Simon (FRA),HUNG Tzu-Hsiang (TPE)
-World Tour Qatar Open Doha 2012,2012-02-07,BOBOCICA Mihai/STOYANOV Niagol,FEGERL Stefan/FENG Xiaoquan,3,2,"9,10,11,11,11|11,12,7,9,9",QR32,GRAND_SLAM,MD,85,Qualification,BOBOCICA Mihai (ITA) / STOYANOV Niagol (ITA),FEGERL Stefan (AUT) / FENG Xiaoquan (AUT)
-World Tour Qatar Open Doha 2012,2012-02-07,CHIANG Hung-Chieh/HUANG Sheng-Sheng,LEGOUT Christophe/VOSTES Yannick,3,1,"11,4,12,11|6,11,10,2",QR32,GRAND_SLAM,MD,85,Qualification,CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE),LEGOUT Christophe (FRA) / VOSTES Yannick (BEL)
-World Tour Qatar Open Doha 2012,2012-02-07,PLATONOV Pavel/SAMSONOV Vladimir,JEAN Lauric/NUYTINCK Cedric,3,2,"12,11,8,8,12|10,7,11,11,10",QR32,GRAND_SLAM,MD,85,Qualification,PLATONOV Pavel (BLR) / SAMSONOV Vladimir (BLR),JEAN Lauric (BEL) / NUYTINCK Cedric (BEL)
-World Tour Qatar Open Doha 2012,2012-02-07,PLATONOV Pavel/SAMSONOV Vladimir,GERELL Par/PERSSON Jorgen,3,1,"10,11,17,11|12,8,15,9",QR16,GRAND_SLAM,MD,85,Qualification,PLATONOV Pavel (BLR) / SAMSONOV Vladimir (BLR),GERELL Par (SWE) / PERSSON Jorgen (SWE)
-World Tour Qatar Open Doha 2012,2012-02-07,MA Lin/XU Xin,SHIBAEV Alexander/SKACHKOV Kirill,3,0,"11,11,11|4,7,7",R16,GRAND_SLAM,MD,85,Main Draw,MA Lin (CHN) / XU Xin (CHN),SHIBAEV Alexander (RUS) / SKACHKOV Kirill (RUS)
-World Tour Qatar Open Doha 2012,2012-02-07,MA Lin/XU Xin,FLORE Tristan/LEBESSON Emmanuel,4,0,"11,11,11,15|4,9,8,13",QF,GRAND_SLAM,MD,85,Main Draw,MA Lin (CHN) / XU Xin (CHN),FLORE Tristan (FRA) / LEBESSON Emmanuel (FRA)
-World Tour Qatar Open Doha 2012,2012-02-07,MA Lin/XU Xin,CHAN Kazuhiro/MATSUDAIRA Kenji,4,0,"11,11,11,11|7,4,8,8",SF,GRAND_SLAM,MD,85,Main Draw,MA Lin (CHN) / XU Xin (CHN),CHAN Kazuhiro (JPN) / MATSUDAIRA Kenji (JPN)
-World Tour Qatar Open Doha 2012,2012-02-07,MA Lin/XU Xin,KIM Donghyun/LEE Jungwoo,4,3,"11,5,8,11,11,10,11|9,11,11,8,4,12,2",F,GRAND_SLAM,MD,85,Main Draw,MA Lin (CHN) / XU Xin (CHN),KIM Donghyun (KOR) / LEE Jungwoo (KOR)
-World Tour Qatar Open Doha 2012,2012-02-07,CHEN Meng/GU Yuting,POTA Georgina/TOTH Krisztina,3,2,"11,9,11,9,11|8,11,3,11,6",R16,GRAND_SLAM,WD,85,Main Draw,CHEN Meng (CHN) / GU Yuting (CHN),POTA Georgina (HUN) / TOTH Krisztina (HUN)
-World Tour Qatar Open Doha 2012,2012-02-07,LI Xiaodan/WEN Jia,FENG Tianwei/YU Mengyu,3,0,"11,11,11|6,5,4",R16,GRAND_SLAM,WD,85,Main Draw,LI Xiaodan (CHN) / WEN Jia (CHN),FENG Tianwei (SGP) / YU Mengyu (SGP)
-World Tour Qatar Open Doha 2012,2012-02-07,FENG Yalan/YAO Yan,KIM Kyungah/PARK Miyoung,4,2,"10,11,13,11,7,11|12,5,11,8,11,5",QF,GRAND_SLAM,WD,85,Main Draw,FENG Yalan (CHN) / YAO Yan (CHN),KIM Kyungah (KOR) / PARK Miyoung (KOR)
-World Tour Qatar Open Doha 2012,2012-02-07,LI Xiaodan/WEN Jia,SEOK Hajung/YANG Ha Eun,4,3,"11,9,5,11,11,11,11|5,11,11,9,13,8,5",QF,GRAND_SLAM,WD,85,Main Draw,LI Xiaodan (CHN) / WEN Jia (CHN),SEOK Hajung (KOR) / YANG Ha Eun (KOR)
-World Tour Qatar Open Doha 2012,2012-02-07,LI Xiaodan/WEN Jia,CHEN Meng/GU Yuting,4,3,"5,11,4,9,11,11,12|11,8,11,11,5,7,10",SF,GRAND_SLAM,WD,85,Main Draw,LI Xiaodan (CHN) / WEN Jia (CHN),CHEN Meng (CHN) / GU Yuting (CHN)
-World Tour Qatar Open Doha 2012,2012-02-07,CHEN Meng/GU Yuting,NOSKOVA Yana/TIKHOMIROVA Anna,3,1,"6,11,13,11|11,4,11,6",QR16,GRAND_SLAM,WD,85,Qualification,CHEN Meng (CHN) / GU Yuting (CHN),NOSKOVA Yana (RUS) / TIKHOMIROVA Anna (RUS)
-World Tour Qatar Open Doha 2012,2012-02-07,FENG Yalan/YAO Yan,EKHOLM Matilda/RAMIREZ Sara,3,0,"11,11,11|9,9,9",R16,GRAND_SLAM,WD,85,Main Draw,FENG Yalan (CHN) / YAO Yan (CHN),EKHOLM Matilda (SWE) / RAMIREZ Sara (ESP)
-World Tour Qatar Open Doha 2012,2012-02-07,FLORE Tristan/LEBESSON Emmanuel,JIANG Tianyi/TANG Peng,3,2,"10,11,11,8,11|12,9,6,11,7",R16,GRAND_SLAM,MD,85,Main Draw,FLORE Tristan (FRA) / LEBESSON Emmanuel (FRA),JIANG Tianyi (HKG) / TANG Peng (HKG)
-World Tour Qatar Open Doha 2012,2012-02-07,GAUZY Simon/ROBINOT Quentin,KARLSSON Kristian/KARLSSON Mattias,3,1,"8,11,13,11|11,9,11,9",QR32,GRAND_SLAM,MD,85,Qualification,GAUZY Simon (FRA) / ROBINOT Quentin (FRA),KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE)
-World Tour Qatar Open Doha 2012,2012-02-07,FLORE Tristan/LEBESSON Emmanuel,LIVENTSOV Alexey/PAIKOV Mikhail,3,1,"6,11,12,11|11,8,10,2",QR32,GRAND_SLAM,MD,85,Qualification,FLORE Tristan (FRA) / LEBESSON Emmanuel (FRA),LIVENTSOV Alexey (RUS) / PAIKOV Mikhail (RUS)
-World Tour Qatar Open Doha 2012,2012-02-07,FLORE Tristan/LEBESSON Emmanuel,MATSUDAIRA Kenta/YOSHIMURA Maharu,3,0,"11,11,12|5,6,10",QR16,GRAND_SLAM,MD,85,Qualification,FLORE Tristan (FRA) / LEBESSON Emmanuel (FRA),MATSUDAIRA Kenta (JPN) / YOSHIMURA Maharu (JPN)
-World Tour Qatar Open Doha 2012,2012-02-07,GRUNDISCH Carole/LI Xue,MIKHAILOVA Polina/TAN Wenling,3,2,"6,7,11,11,11|11,11,6,8,5",QR16,GRAND_SLAM,WD,85,Qualification,GRUNDISCH Carole (FRA) / LI Xue (FRA),MIKHAILOVA Polina (RUS) / TAN Wenling (ITA)
-World Tour Qatar Open Doha 2012,2012-02-07,SEOK Hajung/YANG Ha Eun,BARTHEL Zhenqi/WINTER Sabine,3,0,"11,12,11|7,10,9",R16,GRAND_SLAM,WD,85,Main Draw,SEOK Hajung (KOR) / YANG Ha Eun (KOR),BARTHEL Zhenqi (GER) / WINTER Sabine (GER)
-World Tour Qatar Open Doha 2012,2012-02-07,GARDOS Robert/HABESOHN Daniel,CHEUNG Yuk/LEUNG Chu Yan,4,2,"12,11,11,11,9,11|10,7,13,9,11,8",QF,GRAND_SLAM,MD,85,Main Draw,GARDOS Robert (AUT) / HABESOHN Daniel (AUT),CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG)
-World Tour Qatar Open Doha 2012,2012-02-07,JIANG Huajun/LEE Ho Ching,GRZYBOWSKA-FRANC Katarzyna/PARTYKA Natalia,3,0,"13,11,12|11,5,10",R16,GRAND_SLAM,WD,85,Main Draw,JIANG Huajun (HKG) / LEE Ho Ching (HKG),GRZYBOWSKA-FRANC Katarzyna (POL) / PARTYKA Natalia (POL)
-World Tour Qatar Open Doha 2012,2012-02-07,CHEN Meng/GU Yuting,JIANG Huajun/LEE Ho Ching,4,1,"11,10,11,11,11|5,12,6,9,5",QF,GRAND_SLAM,WD,85,Main Draw,CHEN Meng (CHN) / GU Yuting (CHN),JIANG Huajun (HKG) / LEE Ho Ching (HKG)
-World Tour Qatar Open Doha 2012,2012-02-07,CHEUNG Yuk/LEUNG Chu Yan,KOSIBA Daniel/LAKATOS Tamas,3,0,"11,11,14|3,2,12",QR32,GRAND_SLAM,MD,85,Qualification,CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),KOSIBA Daniel (HUN) / LAKATOS Tamas (HUN)
-World Tour Qatar Open Doha 2012,2012-02-07,CHEUNG Yuk/LEUNG Chu Yan,BUHIJJI Hamad/BUSHELAIBI Mohamed,3,1,"11,11,9,14|2,8,11,12",QR16,GRAND_SLAM,MD,85,Qualification,CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),BUHIJJI Hamad (BRN) / BUSHELAIBI Mohamed (BRN)
-World Tour Qatar Open Doha 2012,2012-02-07,BARTHEL Zhenqi/WINTER Sabine,GUAN Mengyuan/YU Kwok See,3,1,"10,11,12,11|12,6,10,3",QR16,GRAND_SLAM,WD,85,Qualification,BARTHEL Zhenqi (GER) / WINTER Sabine (GER),GUAN Mengyuan (HKG) / YU Kwok See (HKG)
-World Tour Qatar Open Doha 2012,2012-02-07,GAO Ning/LI Hu,MORICZ Mate/PATTANTYUS Adam,3,1,"11,10,11,11|9,12,5,3",QR16,GRAND_SLAM,MD,85,Qualification,GAO Ning (SGP) / LI Hu (SGP),MORICZ Mate (HUN) / PATTANTYUS Adam (HUN)
-World Tour Qatar Open Doha 2012,2012-02-07,CHEN Meng/GU Yuting,AMBRUS Krisztina/LOVAS Petra,3,0,"11,11,12,0|5,3,10,0",QR32,GRAND_SLAM,WD,85,Qualification,CHEN Meng (CHN) / GU Yuting (CHN),AMBRUS Krisztina (HUN) / LOVAS Petra (HUN)
-World Tour Qatar Open Doha 2012,2012-02-07,CHIANG Hung-Chieh/HUANG Sheng-Sheng,BOBOCICA Mihai/STOYANOV Niagol,3,2,"13,3,11,11,11|11,11,6,13,5",QR16,GRAND_SLAM,MD,85,Qualification,CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE),BOBOCICA Mihai (ITA) / STOYANOV Niagol (ITA)
-World Tour Qatar Open Doha 2012,2012-02-07,KISHIKAWA Seiya/NIWA Koki,PLATONOV Pavel/SAMSONOV Vladimir,3,0,"11,11,11|7,4,7",R16,GRAND_SLAM,MD,85,Main Draw,KISHIKAWA Seiya (JPN) / NIWA Koki (JPN),PLATONOV Pavel (BLR) / SAMSONOV Vladimir (BLR)
-World Tour Qatar Open Doha 2012,2012-02-07,CHAN Kazuhiro/MATSUDAIRA Kenji,KISHIKAWA Seiya/NIWA Koki,4,1,"14,11,7,11,11|12,6,11,9,7",QF,GRAND_SLAM,MD,85,Main Draw,CHAN Kazuhiro (JPN) / MATSUDAIRA Kenji (JPN),KISHIKAWA Seiya (JPN) / NIWA Koki (JPN)
-World Tour Qatar Open Doha 2012,2012-02-07,KIM Kyungah/PARK Miyoung,FUKUHARA Ai/HIRANO Sayaka,3,0,"11,11,11|7,8,8",R16,GRAND_SLAM,WD,85,Main Draw,KIM Kyungah (KOR) / PARK Miyoung (KOR),FUKUHARA Ai (JPN) / HIRANO Sayaka (JPN)
-World Tour Qatar Open Doha 2012,2012-02-07,KIM Donghyun/LEE Jungwoo,YANG Zi/ZHAN Jian,3,2,"10,11,6,11,11|12,5,11,9,8",R16,GRAND_SLAM,MD,85,Main Draw,KIM Donghyun (KOR) / LEE Jungwoo (KOR),YANG Zi (SGP) / ZHAN Jian (SGP)
-World Tour Qatar Open Doha 2012,2012-02-07,CHEUNG Yuk/LEUNG Chu Yan,OH Sangeun/RYU Seungmin,3,0,"15,11,11|13,5,6",R16,GRAND_SLAM,MD,85,Main Draw,CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),OH Sangeun (KOR) / RYU Seungmin (KOR)
-World Tour Qatar Open Doha 2012,2012-02-07,KIM Donghyun/LEE Jungwoo,GARDOS Robert/HABESOHN Daniel,4,2,"10,9,12,11,11,11|12,11,10,7,9,7",SF,GRAND_SLAM,MD,85,Main Draw,KIM Donghyun (KOR) / LEE Jungwoo (KOR),GARDOS Robert (AUT) / HABESOHN Daniel (AUT)
-World Tour Qatar Open Doha 2012,2012-02-07,MORICZ Mate/PATTANTYUS Adam,JOO Saehyuk/JEOUNG Youngsik,3,0,"11,13,13|6,11,11",QR32,GRAND_SLAM,MD,85,Qualification,MORICZ Mate (HUN) / PATTANTYUS Adam (HUN),JOO Saehyuk (KOR) / JEOUNG Youngsik (KOR)
-World Tour Qatar Open Doha 2012,2012-02-07,GERELL Par/PERSSON Jorgen,AL-HASAN Ibrahem/AL-HASAN Salem,3,0,"11,11,11|7,3,3",QR32,GRAND_SLAM,MD,85,Qualification,GERELL Par (SWE) / PERSSON Jorgen (SWE),AL-HASAN Ibrahem (KUW) / AL-HASAN Salem (KUW)
-World Tour Qatar Open Doha 2012,2012-02-07,GAO Ning/LI Hu,EL HAKIM Rock/MOUMJOGHLIAN Avo,3,0,"11,11,11|5,9,5",QR32,GRAND_SLAM,MD,85,Qualification,GAO Ning (SGP) / LI Hu (SGP),EL HAKIM Rock (LBN) / MOUMJOGHLIAN Avo (LBN)
-World Tour Qatar Open Doha 2012,2012-02-07,MATSUDAIRA Kenta/YOSHIMURA Maharu,CHTCHETININE Evgueni/KOSOWSKI Jakub,3,1,"11,12,4,11|3,10,11,7",QR32,GRAND_SLAM,MD,85,Qualification,MATSUDAIRA Kenta (JPN) / YOSHIMURA Maharu (JPN),CHTCHETININE Evgueni (BLR) / KOSOWSKI Jakub (POL)
-World Tour Qatar Open Doha 2012,2012-02-07,GRZYBOWSKA-FRANC Katarzyna/PARTYKA Natalia,IVANCAN Irene/LANG Kristin,3,0,"11,11,11|7,5,7",QR16,GRAND_SLAM,WD,85,Qualification,GRZYBOWSKA-FRANC Katarzyna (POL) / PARTYKA Natalia (POL),IVANCAN Irene (GER) / LANG Kristin (GER)
-World Tour Qatar Open Doha 2012,2012-02-07,APOLONIA Tiago/MONTEIRO Joao,AL-MOHANNADI Ahmad Khalil/ALMUGHANNE Fahed,3,0,"11,11,11|2,3,2",QR32,GRAND_SLAM,MD,85,Qualification,APOLONIA Tiago (POR) / MONTEIRO Joao (POR),AL-MOHANNADI Ahmad Khalil (QAT) / ALMUGHANNE Fahed (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,APOLONIA Tiago/MONTEIRO Joao,GAUZY Simon/ROBINOT Quentin,3,1,"11,6,11,11|8,11,7,5",QR16,GRAND_SLAM,MD,85,Qualification,APOLONIA Tiago (POR) / MONTEIRO Joao (POR),GAUZY Simon (FRA) / ROBINOT Quentin (FRA)
-World Tour Qatar Open Doha 2012,2012-02-07,JEAN Lauric/NUYTINCK Cedric,AL-NAGGAR Abdulrahman/AL-SANADI Jassim,3,0,"11,11,11|9,1,9",QR64,GRAND_SLAM,MD,85,Qualification,JEAN Lauric (BEL) / NUYTINCK Cedric (BEL),AL-NAGGAR Abdulrahman (QAT) / AL-SANADI Jassim (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,KUZMIN Fedor/RUBTSOV Igor,CHEN Feng/PANG Xue Jie,3,2,"5,7,15,11,11|11,11,13,7,9",QR32,GRAND_SLAM,MD,85,Qualification,KUZMIN Fedor (RUS) / RUBTSOV Igor (RUS),CHEN Feng (SGP) / PANG Xue Jie (SGP)
-World Tour Qatar Open Doha 2012,2012-02-07,SHIBAEV Alexander/SKACHKOV Kirill,PRIMORAC Zoran/TOKIC Bojan,3,0,"11,11,11|8,5,6",QR32,GRAND_SLAM,MD,85,Qualification,SHIBAEV Alexander (RUS) / SKACHKOV Kirill (RUS),PRIMORAC Zoran (CRO) / TOKIC Bojan (SLO)
-World Tour Qatar Open Doha 2012,2012-02-07,KIM Donghyun/LEE Jungwoo,KUZMIN Fedor/RUBTSOV Igor,3,1,"11,8,12,11|7,11,10,9",QR16,GRAND_SLAM,MD,85,Qualification,KIM Donghyun (KOR) / LEE Jungwoo (KOR),KUZMIN Fedor (RUS) / RUBTSOV Igor (RUS)
-World Tour Qatar Open Doha 2012,2012-02-07,SHIBAEV Alexander/SKACHKOV Kirill,LUNDQVIST Jens/SVENSSON Robert,3,1,"12,11,6,11|10,4,11,8",QR16,GRAND_SLAM,MD,85,Qualification,SHIBAEV Alexander (RUS) / SKACHKOV Kirill (RUS),LUNDQVIST Jens (SWE) / SVENSSON Robert (SWE)
-World Tour Qatar Open Doha 2012,2012-02-07,BILENKO Tetyana/FADEEVA Oxana,AL ABRI Noora/AL-HAMAD Hissa,3,0,"11,11,11|2,3,1",QR32,GRAND_SLAM,WD,85,Qualification,BILENKO Tetyana (UKR) / FADEEVA Oxana (RUS),AL ABRI Noora (QAT) / AL-HAMAD Hissa (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,FENG Yalan/YAO Yan,BILENKO Tetyana/FADEEVA Oxana,3,1,"5,11,11,11|11,3,7,9",QR16,GRAND_SLAM,WD,85,Qualification,FENG Yalan (CHN) / YAO Yan (CHN),BILENKO Tetyana (UKR) / FADEEVA Oxana (RUS)
-World Tour Qatar Open Doha 2012,2012-02-07,LI Jiawei/SUN Beibei,NG Wing Nam/TIE Yana,3,0,"11,11,11|8,8,7",R16,GRAND_SLAM,WD,85,Main Draw,LI Jiawei (SGP) / SUN Beibei (SGP),NG Wing Nam (HKG) / TIE Yana (HKG)
-World Tour Qatar Open Doha 2012,2012-02-07,LI Jiawei/SUN Beibei,FENG Yalan/YAO Yan,4,0,"11,11,11,11|8,8,7,8",SF,GRAND_SLAM,WD,85,Main Draw,LI Jiawei (SGP) / SUN Beibei (SGP),FENG Yalan (CHN) / YAO Yan (CHN)
-World Tour Qatar Open Doha 2012,2012-02-07,LI Xiaodan/WEN Jia,LI Jiawei/SUN Beibei,4,1,"7,11,11,11,11|11,6,8,8,5",F,GRAND_SLAM,WD,85,Main Draw,LI Xiaodan (CHN) / WEN Jia (CHN),LI Jiawei (SGP) / SUN Beibei (SGP)
-World Tour Qatar Open Doha 2012,2012-02-07,LI Jiawei/SUN Beibei,CECHOVA Dana/VACENOVSKA Iveta,3,0,"11,11,11,0|8,2,3,0",QR16,GRAND_SLAM,WD,85,Qualification,LI Jiawei (SGP) / SUN Beibei (SGP),CECHOVA Dana (CZE) / VACENOVSKA Iveta (CZE)
-World Tour Qatar Open Doha 2012,2012-02-07,FENG Tianwei/YU Mengyu,DANG Yeseo/LEE Dasom,3,2,"9,7,11,11,12|11,11,9,4,10",QR16,GRAND_SLAM,WD,85,Qualification,FENG Tianwei (SGP) / YU Mengyu (SGP),DANG Yeseo (KOR) / LEE Dasom (KOR)
-World Tour Qatar Open Doha 2012,2012-02-07,CHUANG Chih-Yuan/WU Chih-Chi,GAO Ning/LI Hu,3,2,"11,10,11,10,11|7,12,9,12,4",R16,GRAND_SLAM,MD,85,Main Draw,CHUANG Chih-Yuan (TPE) / WU Chih-Chi (TPE),GAO Ning (SGP) / LI Hu (SGP)
-World Tour Qatar Open Doha 2012,2012-02-07,GARDOS Robert/HABESOHN Daniel,CHIANG Hung-Chieh/HUANG Sheng-Sheng,3,0,"11,11,13|8,9,11",R16,GRAND_SLAM,MD,85,Main Draw,GARDOS Robert (AUT) / HABESOHN Daniel (AUT),CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE)
-World Tour Qatar Open Doha 2012,2012-02-07,KIM Donghyun/LEE Jungwoo,CHUANG Chih-Yuan/WU Chih-Chi,4,0,"12,11,11,11|10,8,7,4",QF,GRAND_SLAM,MD,85,Main Draw,KIM Donghyun (KOR) / LEE Jungwoo (KOR),CHUANG Chih-Yuan (TPE) / WU Chih-Chi (TPE)
-World Tour Qatar Open Doha 2012,2012-02-07,CHENG I-Ching/HUANG Yi-Hua,GRUNDISCH Carole/LI Xue,3,1,"11,11,5,11|7,2,11,7",R16,GRAND_SLAM,WD,85,Main Draw,CHENG I-Ching (TPE) / HUANG Yi-Hua (TPE),GRUNDISCH Carole (FRA) / LI Xue (FRA)
-World Tour Qatar Open Doha 2012,2012-02-07,LI Jiawei/SUN Beibei,CHENG I-Ching/HUANG Yi-Hua,4,1,"11,11,3,11,11|9,8,11,6,7",QF,GRAND_SLAM,WD,85,Main Draw,LI Jiawei (SGP) / SUN Beibei (SGP),CHENG I-Ching (TPE) / HUANG Yi-Hua (TPE)
-World Tour Qatar Open Doha 2012,2012-02-07,CHENG Hsien-Tzu/CHEN Szu-Yu,FARAMARZI Maha/MOHAMED Aia,3,0,"11,11,11|4,3,6",QR32,GRAND_SLAM,WD,85,Qualification,CHENG Hsien-Tzu (TPE) / CHEN Szu-Yu (TPE),FARAMARZI Maha (QAT) / MOHAMED Aia (QAT)
-World Tour Qatar Open Doha 2012,2012-02-07,FUKUHARA Ai/HIRANO Sayaka,CHENG Hsien-Tzu/CHEN Szu-Yu,3,2,"12,11,6,7,11|10,5,11,11,1",QR16,GRAND_SLAM,WD,85,Qualification,FUKUHARA Ai (JPN) / HIRANO Sayaka (JPN),CHENG Hsien-Tzu (TPE) / CHEN Szu-Yu (TPE)
-World Tour Qatar Open Doha 2012,2012-02-07,DIDUKH Oleksandr/ZHMUDENKO Yaroslav,ALMAJED Rashed/JUMA Hasan,3,0,"11,11,11|2,6,3",QR64,GRAND_SLAM,MD,85,Qualification,DIDUKH Oleksandr (UKR) / ZHMUDENKO Yaroslav (UKR),ALMAJED Rashed (BRN) / JUMA Hasan (BRN)
-World Tour Qatar Open Doha 2012,2012-02-07,KIM Donghyun/LEE Jungwoo,DIDUKH Oleksandr/ZHMUDENKO Yaroslav,3,2,"11,8,10,12,11|6,11,12,10,3",QR32,GRAND_SLAM,MD,85,Qualification,KIM Donghyun (KOR) / LEE Jungwoo (KOR),DIDUKH Oleksandr (UKR) / ZHMUDENKO Yaroslav (UKR)
-World Tour Qatar Open Doha 2012,2012-02-07,KARLSSON Kristian/KARLSSON Mattias,ALI Omar/AL-QERSHI Wael,3,0,"11,11,11|5,5,7",QR64,GRAND_SLAM,MD,85,Qualification,KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),ALI Omar (YEM) / AL-QERSHI Wael (YEM)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+World Tour Qatar Open Doha 2012,2012-02-07,HAN Ying,FENG Tianwei,4,2,"4,11,10,11,11,11|11,6,12,5,2,9",R32,GRAND_SLAM,WS,85,Main Draw,HAN Ying (GER),FENG Tianwei (SGP),HAN Ying
+World Tour Qatar Open Doha 2012,2012-02-07,YANG Ha Eun,CHENG I-Ching,4,0,"11,15,11,12|6,13,1,10",R32,GRAND_SLAM,WS,85,Main Draw,YANG Ha Eun (KOR),CHENG I-Ching (TPE),YANG Ha Eun
+World Tour Qatar Open Doha 2012,2012-02-07,GRZYBOWSKA-FRANC Katarzyna,WEN Jia,4,2,"11,11,8,11,7,12|8,9,11,8,11,10",R32,GRAND_SLAM,WS,85,Main Draw,GRZYBOWSKA-FRANC Katarzyna (POL),WEN Jia (CHN),GRZYBOWSKA-FRANC Katarzyna
+World Tour Qatar Open Doha 2012,2012-02-07,CHEN Meng,HIRANO Sayaka,4,0,"11,11,11,11|4,7,4,3",R32,GRAND_SLAM,WS,85,Main Draw,CHEN Meng (CHN),HIRANO Sayaka (JPN),CHEN Meng
+World Tour Qatar Open Doha 2012,2012-02-07,WU Jiaduo,LOVAS Petra,4,2,"11,11,11,12,3,11|7,9,6,14,11,5",R32,GRAND_SLAM,WS,85,Main Draw,WU Jiaduo (GER),LOVAS Petra (HUN),WU Jiaduo
+World Tour Qatar Open Doha 2012,2012-02-07,FENG Yalan,HUANG Yi-Hua,4,0,"13,11,11,11|11,8,9,7",R32,GRAND_SLAM,WS,85,Main Draw,FENG Yalan (CHN),HUANG Yi-Hua (TPE),FENG Yalan
+World Tour Qatar Open Doha 2012,2012-02-07,LI Xiaodan,JEON Jihee,4,1,"11,9,11,11,11|8,11,6,4,9",R32,GRAND_SLAM,WS,85,Main Draw,LI Xiaodan (CHN),JEON Jihee (KOR),LI Xiaodan
+World Tour Qatar Open Doha 2012,2012-02-07,FUKUHARA Ai,YU Mengyu,4,0,"13,11,11,11|11,7,9,4",R32,GRAND_SLAM,WS,85,Main Draw,FUKUHARA Ai (JPN),YU Mengyu (SGP),FUKUHARA Ai
+World Tour Qatar Open Doha 2012,2012-02-07,TIE Yana,EKHOLM Matilda,4,2,"11,4,11,10,11,11|9,11,6,12,5,2",R32,GRAND_SLAM,WS,85,Main Draw,TIE Yana (HKG),EKHOLM Matilda (SWE),TIE Yana
+World Tour Qatar Open Doha 2012,2012-02-07,PARK Miyoung,BARTHEL Zhenqi,4,3,"2,11,6,17,14,9,11|11,8,11,15,12,11,8",R32,GRAND_SLAM,WS,85,Main Draw,PARK Miyoung (KOR),BARTHEL Zhenqi (GER),PARK Miyoung
+World Tour Qatar Open Doha 2012,2012-02-07,KIM Kyungah,VACENOVSKA Iveta,4,3,"11,6,9,11,11,2,12|8,11,11,8,5,11,10",R32,GRAND_SLAM,WS,85,Main Draw,KIM Kyungah (KOR),VACENOVSKA Iveta (CZE),KIM Kyungah
+World Tour Qatar Open Doha 2012,2012-02-07,POTA Georgina,JIANG Huajun,4,1,"11,11,11,3,15|9,6,5,11,13",R32,GRAND_SLAM,WS,85,Main Draw,POTA Georgina (HUN),JIANG Huajun (HKG),POTA Georgina
+World Tour Qatar Open Doha 2012,2012-02-07,DANG Yeseo,LI Jiawei,4,0,"11,11,12,12|3,9,10,10",R32,GRAND_SLAM,WS,85,Main Draw,DANG Yeseo (KOR),LI Jiawei (SGP),DANG Yeseo
+World Tour Qatar Open Doha 2012,2012-02-07,SUN Beibei,NI Xia Lian,4,0,"11,14,11,11|3,12,8,7",R32,GRAND_SLAM,WS,85,Main Draw,SUN Beibei (SGP),NI Xia Lian (LUX),SUN Beibei
+World Tour Qatar Open Doha 2012,2012-02-07,SEOK Hajung,YAO Yan,4,1,"12,9,11,11,11|10,11,6,8,9",R32,GRAND_SLAM,WS,85,Main Draw,SEOK Hajung (KOR),YAO Yan (CHN),SEOK Hajung
+World Tour Qatar Open Doha 2012,2012-02-07,ISHIKAWA Kasumi,IVANCAN Irene,4,1,"11,11,8,11,11|7,9,11,9,4",R32,GRAND_SLAM,WS,85,Main Draw,ISHIKAWA Kasumi (JPN),IVANCAN Irene (GER),ISHIKAWA Kasumi
+World Tour Qatar Open Doha 2012,2012-02-07,HAN Ying,YANG Ha Eun,4,1,"7,11,11,11,11|11,6,8,7,1",R16,GRAND_SLAM,WS,85,Main Draw,HAN Ying (GER),YANG Ha Eun (KOR),HAN Ying
+World Tour Qatar Open Doha 2012,2012-02-07,CHEN Meng,GRZYBOWSKA-FRANC Katarzyna,4,2,"11,10,11,3,11,11|5,12,6,11,8,9",R16,GRAND_SLAM,WS,85,Main Draw,CHEN Meng (CHN),GRZYBOWSKA-FRANC Katarzyna (POL),CHEN Meng
+World Tour Qatar Open Doha 2012,2012-02-07,FENG Yalan,WU Jiaduo,4,2,"11,11,6,9,12,11|7,7,11,11,10,6",R16,GRAND_SLAM,WS,85,Main Draw,FENG Yalan (CHN),WU Jiaduo (GER),FENG Yalan
+World Tour Qatar Open Doha 2012,2012-02-07,LI Xiaodan,FUKUHARA Ai,4,1,"9,11,13,11,11|11,8,11,5,6",R16,GRAND_SLAM,WS,85,Main Draw,LI Xiaodan (CHN),FUKUHARA Ai (JPN),LI Xiaodan
+World Tour Qatar Open Doha 2012,2012-02-07,TIE Yana,PARK Miyoung,4,2,"11,11,3,11,4,12|4,7,11,6,11,10",R16,GRAND_SLAM,WS,85,Main Draw,TIE Yana (HKG),PARK Miyoung (KOR),TIE Yana
+World Tour Qatar Open Doha 2012,2012-02-07,KIM Kyungah,POTA Georgina,4,1,"11,11,15,12,12|8,3,17,10,10",R16,GRAND_SLAM,WS,85,Main Draw,KIM Kyungah (KOR),POTA Georgina (HUN),KIM Kyungah
+World Tour Qatar Open Doha 2012,2012-02-07,DANG Yeseo,SUN Beibei,4,1,"15,11,5,11,11|13,5,11,6,8",R16,GRAND_SLAM,WS,85,Main Draw,DANG Yeseo (KOR),SUN Beibei (SGP),DANG Yeseo
+World Tour Qatar Open Doha 2012,2012-02-07,SEOK Hajung,ISHIKAWA Kasumi,4,3,"11,11,11,9,5,12,11|7,7,9,11,11,14,8",R16,GRAND_SLAM,WS,85,Main Draw,SEOK Hajung (KOR),ISHIKAWA Kasumi (JPN),SEOK Hajung
+World Tour Qatar Open Doha 2012,2012-02-07,CHEN Meng,HAN Ying,4,3,"4,6,11,6,11,11,13|11,11,2,11,8,7,11",QF,GRAND_SLAM,WS,85,Main Draw,CHEN Meng (CHN),HAN Ying (GER),CHEN Meng
+World Tour Qatar Open Doha 2012,2012-02-07,LI Xiaodan,FENG Yalan,4,1,"11,8,11,11,11|5,11,2,9,6",QF,GRAND_SLAM,WS,85,Main Draw,LI Xiaodan (CHN),FENG Yalan (CHN),LI Xiaodan
+World Tour Qatar Open Doha 2012,2012-02-07,TIE Yana,KIM Kyungah,4,1,"11,11,4,11,11|7,4,11,6,9",QF,GRAND_SLAM,WS,85,Main Draw,TIE Yana (HKG),KIM Kyungah (KOR),TIE Yana
+World Tour Qatar Open Doha 2012,2012-02-07,SEOK Hajung,DANG Yeseo,4,2,"9,8,11,11,12,11|11,11,7,9,10,4",QF,GRAND_SLAM,WS,85,Main Draw,SEOK Hajung (KOR),DANG Yeseo (KOR),SEOK Hajung
+World Tour Qatar Open Doha 2012,2012-02-07,CHEN Meng,LI Xiaodan,4,1,"12,6,11,11,12|10,11,7,7,10",SF,GRAND_SLAM,WS,85,Main Draw,CHEN Meng (CHN),LI Xiaodan (CHN),CHEN Meng
+World Tour Qatar Open Doha 2012,2012-02-07,SEOK Hajung,TIE Yana,4,3,"4,8,11,15,11,3,12|11,11,8,13,7,11,10",SF,GRAND_SLAM,WS,85,Main Draw,SEOK Hajung (KOR),TIE Yana (HKG),SEOK Hajung
+World Tour Qatar Open Doha 2012,2012-02-07,CHEN Meng,SEOK Hajung,4,0,"11,20,11,11|8,18,6,9",F,GRAND_SLAM,WS,85,Main Draw,CHEN Meng (CHN),SEOK Hajung (KOR),CHEN Meng
+World Tour Qatar Open Doha 2012,2012-02-07,ISHIKAWA Kasumi,AL ABRI Noora,3,0,"11,11,11|1,3,5",R16,GRAND_SLAM,U21WS,85,Main Draw,ISHIKAWA Kasumi (JPN),AL ABRI Noora (QAT),ISHIKAWA Kasumi
+World Tour Qatar Open Doha 2012,2012-02-07,CHEN Szu-Yu,GUAN Mengyuan,3,0,"11,11,11|5,9,5",R16,GRAND_SLAM,U21WS,85,Main Draw,CHEN Szu-Yu (TPE),GUAN Mengyuan (HKG),CHEN Szu-Yu
+World Tour Qatar Open Doha 2012,2012-02-07,NOSKOVA Yana,FARAMARZI Maha,3,0,"11,11,11|3,4,3",R16,GRAND_SLAM,U21WS,85,Main Draw,NOSKOVA Yana (RUS),FARAMARZI Maha (QAT),NOSKOVA Yana
+World Tour Qatar Open Doha 2012,2012-02-07,LEE Ho Ching,LEE Dasom,3,0,"11,11,11|7,6,4",R16,GRAND_SLAM,U21WS,85,Main Draw,LEE Ho Ching (HKG),LEE Dasom (KOR),LEE Ho Ching
+World Tour Qatar Open Doha 2012,2012-02-07,PESOTSKA Margaryta,MOHAMED Aia,3,0,"11,11,11|1,3,6",R16,GRAND_SLAM,U21WS,85,Main Draw,PESOTSKA Margaryta (UKR),MOHAMED Aia (QAT),PESOTSKA Margaryta
+World Tour Qatar Open Doha 2012,2012-02-07,NG Wing Nam,SO Eka,3,0,"11,11,11|5,5,6",R16,GRAND_SLAM,U21WS,85,Main Draw,NG Wing Nam (HKG),SO Eka (JPN),NG Wing Nam
+World Tour Qatar Open Doha 2012,2012-02-07,WINTER Sabine,CHENG Hsien-Tzu,3,1,"11,11,6,11|9,9,11,9",R16,GRAND_SLAM,U21WS,85,Main Draw,WINTER Sabine (GER),CHENG Hsien-Tzu (TPE),WINTER Sabine
+World Tour Qatar Open Doha 2012,2012-02-07,CHENG I-Ching,WEHBE Hala,3,0,"11,11,11|3,4,4",R16,GRAND_SLAM,U21WS,85,Main Draw,CHENG I-Ching (TPE),WEHBE Hala (LBN),CHENG I-Ching
+World Tour Qatar Open Doha 2012,2012-02-07,ISHIKAWA Kasumi,CHEN Szu-Yu,4,2,"12,9,11,11,10,11|10,11,9,8,12,6",QF,GRAND_SLAM,U21WS,85,Main Draw,ISHIKAWA Kasumi (JPN),CHEN Szu-Yu (TPE),ISHIKAWA Kasumi
+World Tour Qatar Open Doha 2012,2012-02-07,NOSKOVA Yana,LEE Ho Ching,4,2,"3,11,4,11,11,11|11,9,11,9,9,5",QF,GRAND_SLAM,U21WS,85,Main Draw,NOSKOVA Yana (RUS),LEE Ho Ching (HKG),NOSKOVA Yana
+World Tour Qatar Open Doha 2012,2012-02-07,PESOTSKA Margaryta,NG Wing Nam,4,2,"7,11,9,11,11,11|11,4,11,6,8,5",QF,GRAND_SLAM,U21WS,85,Main Draw,PESOTSKA Margaryta (UKR),NG Wing Nam (HKG),PESOTSKA Margaryta
+World Tour Qatar Open Doha 2012,2012-02-07,CHENG I-Ching,WINTER Sabine,4,0,"11,11,11,11|8,8,6,7",QF,GRAND_SLAM,U21WS,85,Main Draw,CHENG I-Ching (TPE),WINTER Sabine (GER),CHENG I-Ching
+World Tour Qatar Open Doha 2012,2012-02-07,ISHIKAWA Kasumi,NOSKOVA Yana,4,0,"14,11,11,11|12,4,5,4",SF,GRAND_SLAM,U21WS,85,Main Draw,ISHIKAWA Kasumi (JPN),NOSKOVA Yana (RUS),ISHIKAWA Kasumi
+World Tour Qatar Open Doha 2012,2012-02-07,PESOTSKA Margaryta,CHENG I-Ching,4,3,"11,11,7,8,11,7,11|7,8,11,11,6,11,7",SF,GRAND_SLAM,U21WS,85,Main Draw,PESOTSKA Margaryta (UKR),CHENG I-Ching (TPE),PESOTSKA Margaryta
+World Tour Qatar Open Doha 2012,2012-02-07,ISHIKAWA Kasumi,PESOTSKA Margaryta,4,0,"11,11,11,11|4,7,5,9",F,GRAND_SLAM,U21WS,85,Main Draw,ISHIKAWA Kasumi (JPN),PESOTSKA Margaryta (UKR),ISHIKAWA Kasumi
+World Tour Qatar Open Doha 2012,2012-02-07,BUROV Viacheslav,KIM Donghyun,4,1,"10,12,11,11,11|12,10,8,7,9",,GRAND_SLAM,MS,85,Qualification,BUROV Viacheslav (RUS),KIM Donghyun (KOR),BUROV Viacheslav
+World Tour Qatar Open Doha 2012,2012-02-07,LUNDQVIST Jens,KIM Donghyun,4,0,"11,11,11,11|7,7,1,6",,GRAND_SLAM,MS,85,Qualification,LUNDQVIST Jens (SWE),KIM Donghyun (KOR),LUNDQVIST Jens
+World Tour Qatar Open Doha 2012,2012-02-07,BUROV Viacheslav,LUNDQVIST Jens,4,3,"12,6,11,11,11,9,11|14,11,5,9,7,11,7",,GRAND_SLAM,MS,85,Qualification,BUROV Viacheslav (RUS),LUNDQVIST Jens (SWE),BUROV Viacheslav
+World Tour Qatar Open Doha 2012,2012-02-07,PATTANTYUS Adam,FLORITZ Philipp,4,3,"11,11,9,6,11,3,12|5,9,11,11,8,11,10",,GRAND_SLAM,MS,85,Qualification,PATTANTYUS Adam (HUN),FLORITZ Philipp (BUL),PATTANTYUS Adam
+World Tour Qatar Open Doha 2012,2012-02-07,GERELL Par,FLORITZ Philipp,4,1,"11,14,7,11,11|5,12,11,8,9",,GRAND_SLAM,MS,85,Qualification,GERELL Par (SWE),FLORITZ Philipp (BUL),GERELL Par
+World Tour Qatar Open Doha 2012,2012-02-07,GERELL Par,PATTANTYUS Adam,4,0,"11,11,11,11|5,5,4,6",,GRAND_SLAM,MS,85,Qualification,GERELL Par (SWE),PATTANTYUS Adam (HUN),GERELL Par
+World Tour Qatar Open Doha 2012,2012-02-07,KARLSSON Kristian,AL-HASAN Ibrahem,4,0,"11,11,11,11|3,8,5,8",,GRAND_SLAM,MS,85,Qualification,KARLSSON Kristian (SWE),AL-HASAN Ibrahem (KUW),KARLSSON Kristian
+World Tour Qatar Open Doha 2012,2012-02-07,KREANGA Kalinikos,AL-HASAN Ibrahem,4,2,"11,10,11,14,10,11|6,12,8,12,12,8",,GRAND_SLAM,MS,85,Qualification,KREANGA Kalinikos (GRE),AL-HASAN Ibrahem (KUW),KREANGA Kalinikos
+World Tour Qatar Open Doha 2012,2012-02-07,KARLSSON Kristian,KREANGA Kalinikos,2,0,"11,11,6|9,5,4",,GRAND_SLAM,MS,85,Qualification,KARLSSON Kristian (SWE),KREANGA Kalinikos (GRE),KARLSSON Kristian
+World Tour Qatar Open Doha 2012,2012-02-07,FENG Xiaoquan,NUYTINCK Cedric,4,2,"9,11,4,15,11,11|11,6,11,13,2,4",,GRAND_SLAM,MS,85,Qualification,FENG Xiaoquan (AUT),NUYTINCK Cedric (BEL),FENG Xiaoquan
+World Tour Qatar Open Doha 2012,2012-02-07,CHAN Kazuhiro,NUYTINCK Cedric,4,1,"11,11,12,10,11|8,8,10,12,3",,GRAND_SLAM,MS,85,Qualification,CHAN Kazuhiro (JPN),NUYTINCK Cedric (BEL),CHAN Kazuhiro
+World Tour Qatar Open Doha 2012,2012-02-07,CHAN Kazuhiro,FENG Xiaoquan,4,2,"7,11,12,11,6,11|11,6,10,5,11,4",,GRAND_SLAM,MS,85,Qualification,CHAN Kazuhiro (JPN),FENG Xiaoquan (AUT),CHAN Kazuhiro
+World Tour Qatar Open Doha 2012,2012-02-07,FLORE Tristan,JEAN Lauric,4,1,"11,8,11,11,11|6,11,2,7,4",,GRAND_SLAM,MS,85,Qualification,FLORE Tristan (FRA),JEAN Lauric (BEL),FLORE Tristan
+World Tour Qatar Open Doha 2012,2012-02-07,SHIBAEV Alexander,JEAN Lauric,4,0,"11,14,11,11|4,12,8,4",,GRAND_SLAM,MS,85,Qualification,SHIBAEV Alexander (RUS),JEAN Lauric (BEL),SHIBAEV Alexander
+World Tour Qatar Open Doha 2012,2012-02-07,SHIBAEV Alexander,FLORE Tristan,4,1,"11,13,5,11,11|5,11,11,6,8",,GRAND_SLAM,MS,85,Qualification,SHIBAEV Alexander (RUS),FLORE Tristan (FRA),SHIBAEV Alexander
+World Tour Qatar Open Doha 2012,2012-02-07,LAKEEV Vasily,PANG Xue Jie,4,1,"11,12,7,12,11|8,10,11,10,8",,GRAND_SLAM,MS,85,Qualification,LAKEEV Vasily (RUS),PANG Xue Jie (SGP),LAKEEV Vasily
+World Tour Qatar Open Doha 2012,2012-02-07,MONTEIRO Joao,PANG Xue Jie,4,0,"11,11,11,11|6,4,5,8",,GRAND_SLAM,MS,85,Qualification,MONTEIRO Joao (POR),PANG Xue Jie (SGP),MONTEIRO Joao
+World Tour Qatar Open Doha 2012,2012-02-07,MONTEIRO Joao,LAKEEV Vasily,4,0,"11,11,11,11|4,9,8,6",,GRAND_SLAM,MS,85,Qualification,MONTEIRO Joao (POR),LAKEEV Vasily (RUS),MONTEIRO Joao
+World Tour Qatar Open Doha 2012,2012-02-07,KOSIBA Daniel,AL-MOHANNADI Ahmad Khalil,4,0,"11,11,14,11|4,2,12,6",,GRAND_SLAM,MS,85,Qualification,KOSIBA Daniel (HUN),AL-MOHANNADI Ahmad Khalil (QAT),KOSIBA Daniel
+World Tour Qatar Open Doha 2012,2012-02-07,RUBTSOV Igor,AL-MOHANNADI Ahmad Khalil,4,1,"6,11,11,11,11|11,7,4,4,5",,GRAND_SLAM,MS,85,Qualification,RUBTSOV Igor (RUS),AL-MOHANNADI Ahmad Khalil (QAT),RUBTSOV Igor
+World Tour Qatar Open Doha 2012,2012-02-07,RUBTSOV Igor,KOSIBA Daniel,4,2,"10,11,11,11,11,11|12,13,4,6,5,7",,GRAND_SLAM,MS,85,Qualification,RUBTSOV Igor (RUS),KOSIBA Daniel (HUN),RUBTSOV Igor
+World Tour Qatar Open Doha 2012,2012-02-07,STOYANOV Niagol,STETSENKO Alexander,4,1,"11,11,11,7,13|8,6,8,11,11",,GRAND_SLAM,MS,85,Qualification,STOYANOV Niagol (ITA),STETSENKO Alexander (RUS),STOYANOV Niagol
+World Tour Qatar Open Doha 2012,2012-02-07,SAIVE Jean-Michel,STETSENKO Alexander,4,0,"11,11,11,11|5,9,9,9",,GRAND_SLAM,MS,85,Qualification,SAIVE Jean-Michel (BEL),STETSENKO Alexander (RUS),SAIVE Jean-Michel
+World Tour Qatar Open Doha 2012,2012-02-07,SAIVE Jean-Michel,STOYANOV Niagol,4,1,"7,11,11,11,11|11,6,9,1,8",,GRAND_SLAM,MS,85,Qualification,SAIVE Jean-Michel (BEL),STOYANOV Niagol (ITA),SAIVE Jean-Michel
+World Tour Qatar Open Doha 2012,2012-02-07,VOSTES Yannick,MERZLIKIN Taras,4,1,"12,7,11,11,11|10,11,7,7,7",,GRAND_SLAM,MS,85,Qualification,VOSTES Yannick (BEL),MERZLIKIN Taras (RUS),VOSTES Yannick
+World Tour Qatar Open Doha 2012,2012-02-07,ZHAN Jian,MERZLIKIN Taras,4,1,"6,11,11,12,11|11,6,9,10,2",,GRAND_SLAM,MS,85,Qualification,ZHAN Jian (SGP),MERZLIKIN Taras (RUS),ZHAN Jian
+World Tour Qatar Open Doha 2012,2012-02-07,ZHAN Jian,VOSTES Yannick,4,2,"8,11,11,11,6,11|11,5,8,8,11,6",,GRAND_SLAM,MS,85,Qualification,ZHAN Jian (SGP),VOSTES Yannick (BEL),ZHAN Jian
+World Tour Qatar Open Doha 2012,2012-02-07,HUNG Tzu-Hsiang,LAKATOS Tamas,4,1,"4,11,11,13,11|11,5,7,11,7",,GRAND_SLAM,MS,85,Qualification,HUNG Tzu-Hsiang (TPE),LAKATOS Tamas (HUN),HUNG Tzu-Hsiang
+World Tour Qatar Open Doha 2012,2012-02-07,MATSUDAIRA Kenji,LAKATOS Tamas,4,0,"12,11,11,11|10,3,7,4",,GRAND_SLAM,MS,85,Qualification,MATSUDAIRA Kenji (JPN),LAKATOS Tamas (HUN),MATSUDAIRA Kenji
+World Tour Qatar Open Doha 2012,2012-02-07,MATSUDAIRA Kenji,HUNG Tzu-Hsiang,4,0,"11,11,11,11|8,6,9,4",,GRAND_SLAM,MS,85,Qualification,MATSUDAIRA Kenji (JPN),HUNG Tzu-Hsiang (TPE),MATSUDAIRA Kenji
+World Tour Qatar Open Doha 2012,2012-02-07,CHIANG Hung-Chieh,ALHAJJAI Waled Nasser,4,0,"11,11,11,11|6,7,3,8",,GRAND_SLAM,MS,85,Qualification,CHIANG Hung-Chieh (TPE),ALHAJJAI Waled Nasser (QAT),CHIANG Hung-Chieh
+World Tour Qatar Open Doha 2012,2012-02-07,GACINA Andrej,ALHAJJAI Waled Nasser,4,0,"11,11,11,11|6,2,3,8",,GRAND_SLAM,MS,85,Qualification,GACINA Andrej (CRO),ALHAJJAI Waled Nasser (QAT),GACINA Andrej
+World Tour Qatar Open Doha 2012,2012-02-07,GACINA Andrej,CHIANG Hung-Chieh,4,0,"11,11,11,12|7,8,8,10",,GRAND_SLAM,MS,85,Qualification,GACINA Andrej (CRO),CHIANG Hung-Chieh (TPE),GACINA Andrej
+World Tour Qatar Open Doha 2012,2012-02-07,PLATONOV Pavel,BUHIJJI Hamad,4,2,"10,5,11,11,11,11|12,11,6,6,7,8",,GRAND_SLAM,MS,85,Qualification,PLATONOV Pavel (BLR),BUHIJJI Hamad (BRN),PLATONOV Pavel
+World Tour Qatar Open Doha 2012,2012-02-07,LEBESSON Emmanuel,BUHIJJI Hamad,4,0,"11,11,11,11|8,6,4,7",,GRAND_SLAM,MS,85,Qualification,LEBESSON Emmanuel (FRA),BUHIJJI Hamad (BRN),LEBESSON Emmanuel
+World Tour Qatar Open Doha 2012,2012-02-07,LEBESSON Emmanuel,PLATONOV Pavel,4,3,"11,6,12,11,11,5,11|2,11,14,5,9,11,6",,GRAND_SLAM,MS,85,Qualification,LEBESSON Emmanuel (FRA),PLATONOV Pavel (BLR),LEBESSON Emmanuel
+World Tour Qatar Open Doha 2012,2012-02-07,KARLSSON Mattias,AL-QERSHI Wael,4,1,"9,11,11,11,11|11,6,4,7,3",,GRAND_SLAM,MS,85,Qualification,KARLSSON Mattias (SWE),AL-QERSHI Wael (YEM),KARLSSON Mattias
+World Tour Qatar Open Doha 2012,2012-02-07,CHTCHETININE Evgueni,AL-QERSHI Wael,4,0,"12,11,11,11|10,4,4,3",,GRAND_SLAM,MS,85,Qualification,CHTCHETININE Evgueni (BLR),AL-QERSHI Wael (YEM),CHTCHETININE Evgueni
+World Tour Qatar Open Doha 2012,2012-02-07,CHTCHETININE Evgueni,KARLSSON Mattias,4,2,"10,11,5,11,11,11|12,7,11,0,9,6",,GRAND_SLAM,MS,85,Qualification,CHTCHETININE Evgueni (BLR),KARLSSON Mattias (SWE),CHTCHETININE Evgueni
+World Tour Qatar Open Doha 2012,2012-02-07,WU Chih-Chi,MORICZ Mate,4,0,"11,11,11,11|5,5,6,9",,GRAND_SLAM,MS,85,Qualification,WU Chih-Chi (TPE),MORICZ Mate (HUN),WU Chih-Chi
+World Tour Qatar Open Doha 2012,2012-02-07,SVENSSON Robert,MORICZ Mate,4,1,"7,11,11,11,11|11,5,6,7,5",,GRAND_SLAM,MS,85,Qualification,SVENSSON Robert (SWE),MORICZ Mate (HUN),SVENSSON Robert
+World Tour Qatar Open Doha 2012,2012-02-07,WU Chih-Chi,SVENSSON Robert,4,1,"11,11,3,11,11|4,4,11,7,7",,GRAND_SLAM,MS,85,Qualification,WU Chih-Chi (TPE),SVENSSON Robert (SWE),WU Chih-Chi
+World Tour Qatar Open Doha 2012,2012-02-07,FRANZISKA Patrick,AL-HASHEDI Mohammed,4,0,"11,11,11,11|4,6,8,9",,GRAND_SLAM,MS,85,Qualification,FRANZISKA Patrick (GER),AL-HASHEDI Mohammed (YEM),FRANZISKA Patrick
+World Tour Qatar Open Doha 2012,2012-02-07,LEGOUT Christophe,AL-HASHEDI Mohammed,4,0,"11,13,11,11|6,11,3,7",,GRAND_SLAM,MS,85,Qualification,LEGOUT Christophe (FRA),AL-HASHEDI Mohammed (YEM),LEGOUT Christophe
+World Tour Qatar Open Doha 2012,2012-02-07,FRANZISKA Patrick,LEGOUT Christophe,4,2,"11,5,8,11,11,11|9,11,11,5,6,8",,GRAND_SLAM,MS,85,Qualification,FRANZISKA Patrick (GER),LEGOUT Christophe (FRA),FRANZISKA Patrick
+World Tour Qatar Open Doha 2012,2012-02-07,VLASOV Grigory,ALI Omar,4,0,"11,11,11,11|5,4,2,5",,GRAND_SLAM,MS,85,Qualification,VLASOV Grigory (RUS),ALI Omar (YEM),VLASOV Grigory
+World Tour Qatar Open Doha 2012,2012-02-07,JEONG Sangeun,ALI Omar,4,0,"11,11,11,11|4,6,4,6",,GRAND_SLAM,MS,85,Qualification,JEONG Sangeun (KOR),ALI Omar (YEM),JEONG Sangeun
+World Tour Qatar Open Doha 2012,2012-02-07,JEONG Sangeun,VLASOV Grigory,4,2,"7,11,11,6,11,11|11,8,9,11,8,6",,GRAND_SLAM,MS,85,Qualification,JEONG Sangeun (KOR),VLASOV Grigory (RUS),JEONG Sangeun
+World Tour Qatar Open Doha 2012,2012-02-07,PAIKOV Mikhail,ALMAJED Rashed,4,1,"11,8,11,11,11|7,11,6,4,4",,GRAND_SLAM,MS,85,Qualification,PAIKOV Mikhail (RUS),ALMAJED Rashed (BRN),PAIKOV Mikhail
+World Tour Qatar Open Doha 2012,2012-02-07,FILUS Ruwen,ALMAJED Rashed,4,0,"11,11,11,11|6,6,8,6",,GRAND_SLAM,MS,85,Qualification,FILUS Ruwen (GER),ALMAJED Rashed (BRN),FILUS Ruwen
+World Tour Qatar Open Doha 2012,2012-02-07,FILUS Ruwen,PAIKOV Mikhail,4,1,"11,14,10,11,11|4,12,12,3,4",,GRAND_SLAM,MS,85,Qualification,FILUS Ruwen (GER),PAIKOV Mikhail (RUS),FILUS Ruwen
+World Tour Qatar Open Doha 2012,2012-02-07,HUANG Sheng-Sheng,ALMUGHANNE Fahed,4,0,"11,11,11,11|5,3,6,5",,GRAND_SLAM,MS,85,Qualification,HUANG Sheng-Sheng (TPE),ALMUGHANNE Fahed (QAT),HUANG Sheng-Sheng
+World Tour Qatar Open Doha 2012,2012-02-07,KUZMIN Fedor,ALMUGHANNE Fahed,4,0,"11,11,11,11|2,4,6,7",,GRAND_SLAM,MS,85,Qualification,KUZMIN Fedor (RUS),ALMUGHANNE Fahed (QAT),KUZMIN Fedor
+World Tour Qatar Open Doha 2012,2012-02-07,KUZMIN Fedor,HUANG Sheng-Sheng,4,1,"11,11,11,11,11|13,7,4,3,6",,GRAND_SLAM,MS,85,Qualification,KUZMIN Fedor (RUS),HUANG Sheng-Sheng (TPE),KUZMIN Fedor
+World Tour Qatar Open Doha 2012,2012-02-07,CHEN Feng,AL-HASAN Salem,4,0,"11,11,11,11|7,9,8,3",,GRAND_SLAM,MS,85,Qualification,CHEN Feng (SGP),AL-HASAN Salem (KUW),CHEN Feng
+World Tour Qatar Open Doha 2012,2012-02-07,JEOUNG Youngsik,AL-HASAN Salem,4,0,"11,11,11,11|9,6,4,2",,GRAND_SLAM,MS,85,Qualification,JEOUNG Youngsik (KOR),AL-HASAN Salem (KUW),JEOUNG Youngsik
+World Tour Qatar Open Doha 2012,2012-02-07,CHEN Feng,JEOUNG Youngsik,4,1,"11,5,11,11,11|7,11,4,7,7",,GRAND_SLAM,MS,85,Qualification,CHEN Feng (SGP),JEOUNG Youngsik (KOR),CHEN Feng
+World Tour Qatar Open Doha 2012,2012-02-07,DIDUKH Oleksandr,MOUMJOGHLIAN Avo,4,0,"11,11,11,11|8,5,6,6",,GRAND_SLAM,MS,85,Qualification,DIDUKH Oleksandr (UKR),MOUMJOGHLIAN Avo (LBN),DIDUKH Oleksandr
+World Tour Qatar Open Doha 2012,2012-02-07,HABESOHN Daniel,MOUMJOGHLIAN Avo,4,0,"11,11,11,11|5,4,6,4",,GRAND_SLAM,MS,85,Qualification,HABESOHN Daniel (AUT),MOUMJOGHLIAN Avo (LBN),HABESOHN Daniel
+World Tour Qatar Open Doha 2012,2012-02-07,DIDUKH Oleksandr,HABESOHN Daniel,4,0,"11,11,11,15|7,9,7,13",,GRAND_SLAM,MS,85,Qualification,DIDUKH Oleksandr (UKR),HABESOHN Daniel (AUT),DIDUKH Oleksandr
+World Tour Qatar Open Doha 2012,2012-02-07,GAUZY Simon,BUSHELAIBI Mohamed,4,1,"11,11,5,11,11|8,5,11,2,4",,GRAND_SLAM,MS,85,Qualification,GAUZY Simon (FRA),BUSHELAIBI Mohamed (BRN),GAUZY Simon
+World Tour Qatar Open Doha 2012,2012-02-07,KOSOWSKI Jakub,BUSHELAIBI Mohamed,4,0,"11,11,11,11|6,6,5,4",,GRAND_SLAM,MS,85,Qualification,KOSOWSKI Jakub (POL),BUSHELAIBI Mohamed (BRN),KOSOWSKI Jakub
+World Tour Qatar Open Doha 2012,2012-02-07,GAUZY Simon,KOSOWSKI Jakub,4,3,"2,12,11,10,11,11,11|11,10,13,12,6,9,6",,GRAND_SLAM,MS,85,Qualification,GAUZY Simon (FRA),KOSOWSKI Jakub (POL),GAUZY Simon
+World Tour Qatar Open Doha 2012,2012-02-07,ZHMUDENKO Yaroslav,JUMA Hasan,4,0,"11,11,11,11|5,2,7,5",,GRAND_SLAM,MS,85,Qualification,ZHMUDENKO Yaroslav (UKR),JUMA Hasan (BRN),ZHMUDENKO Yaroslav
+World Tour Qatar Open Doha 2012,2012-02-07,YOSHIMURA Maharu,JUMA Hasan,4,0,"11,11,11,11|1,4,3,6",,GRAND_SLAM,MS,85,Qualification,YOSHIMURA Maharu (JPN),JUMA Hasan (BRN),YOSHIMURA Maharu
+World Tour Qatar Open Doha 2012,2012-02-07,ZHMUDENKO Yaroslav,YOSHIMURA Maharu,4,1,"11,11,11,4,11|8,7,7,11,7",,GRAND_SLAM,MS,85,Qualification,ZHMUDENKO Yaroslav (UKR),YOSHIMURA Maharu (JPN),ZHMUDENKO Yaroslav
+World Tour Qatar Open Doha 2012,2012-02-07,BOBOCICA Mihai,SHEMET German,4,0,"11,11,11,11|6,9,8,9",,GRAND_SLAM,MS,85,Qualification,BOBOCICA Mihai (ITA),SHEMET German (QAT),BOBOCICA Mihai
+World Tour Qatar Open Doha 2012,2012-02-07,LIVENTSOV Alexey,EL HAKIM Rock,4,0,"11,11,11,11|2,6,3,5",,GRAND_SLAM,MS,85,Qualification,LIVENTSOV Alexey (RUS),EL HAKIM Rock (LBN),LIVENTSOV Alexey
+World Tour Qatar Open Doha 2012,2012-02-07,LIVENTSOV Alexey,SHEMET German,4,0,"11,12,11,11|4,10,3,6",,GRAND_SLAM,MS,85,Qualification,LIVENTSOV Alexey (RUS),SHEMET German (QAT),LIVENTSOV Alexey
+World Tour Qatar Open Doha 2012,2012-02-07,BOBOCICA Mihai,EL HAKIM Rock,4,0,"11,11,11,11|7,3,5,5",,GRAND_SLAM,MS,85,Qualification,BOBOCICA Mihai (ITA),EL HAKIM Rock (LBN),BOBOCICA Mihai
+World Tour Qatar Open Doha 2012,2012-02-07,LIVENTSOV Alexey,BOBOCICA Mihai,4,3,"9,8,11,11,11,11,11|11,11,4,13,6,9,5",,GRAND_SLAM,MS,85,Qualification,LIVENTSOV Alexey (RUS),BOBOCICA Mihai (ITA),LIVENTSOV Alexey
+World Tour Qatar Open Doha 2012,2012-02-07,SHEMET German,EL HAKIM Rock,4,0,"11,11,11,11|8,9,9,5",,GRAND_SLAM,MS,85,Qualification,SHEMET German (QAT),EL HAKIM Rock (LBN),SHEMET German
+World Tour Qatar Open Doha 2012,2012-02-07,ROBINOT Quentin,BAND Joshua,4,0,"11,11,11,11|1,5,7,5",,GRAND_SLAM,MS,85,Qualification,ROBINOT Quentin (FRA),BAND Joshua (JEY),ROBINOT Quentin
+World Tour Qatar Open Doha 2012,2012-02-07,FEGERL Stefan,FATA Anthony,4,0,"11,11,11,11|2,4,1,4",,GRAND_SLAM,MS,85,Qualification,FEGERL Stefan (AUT),FATA Anthony (LBN),FEGERL Stefan
+World Tour Qatar Open Doha 2012,2012-02-07,FEGERL Stefan,BAND Joshua,4,0,"11,11,11,11|6,2,3,6",,GRAND_SLAM,MS,85,Qualification,FEGERL Stefan (AUT),BAND Joshua (JEY),FEGERL Stefan
+World Tour Qatar Open Doha 2012,2012-02-07,ROBINOT Quentin,FATA Anthony,4,0,"11,11,11,11|5,0,1,5",,GRAND_SLAM,MS,85,Qualification,ROBINOT Quentin (FRA),FATA Anthony (LBN),ROBINOT Quentin
+World Tour Qatar Open Doha 2012,2012-02-07,ROBINOT Quentin,FEGERL Stefan,4,1,"11,12,10,11,12|7,10,12,7,10",,GRAND_SLAM,MS,85,Qualification,ROBINOT Quentin (FRA),FEGERL Stefan (AUT),ROBINOT Quentin
+World Tour Qatar Open Doha 2012,2012-02-07,BAND Joshua,FATA Anthony,4,0,"11,11,11,11|1,6,5,7",,GRAND_SLAM,MS,85,Qualification,BAND Joshua (JEY),FATA Anthony (LBN),BAND Joshua
+World Tour Qatar Open Doha 2012,2012-02-07,YU Kwok See,MIKHAILOVA Polina,4,0,"11,11,16,11|9,8,14,8",,GRAND_SLAM,WS,85,Qualification,YU Kwok See (HKG),MIKHAILOVA Polina (RUS),YU Kwok See
+World Tour Qatar Open Doha 2012,2012-02-07,YU Mengyu,YU Kwok See,4,0,"11,11,11,11|3,5,8,4",,GRAND_SLAM,WS,85,Qualification,YU Mengyu (SGP),YU Kwok See (HKG),YU Mengyu
+World Tour Qatar Open Doha 2012,2012-02-07,MIKHAILOVA Polina,YU Mengyu,4,3,"12,4,12,9,11,6,12|10,11,10,11,4,11,10",,GRAND_SLAM,WS,85,Qualification,MIKHAILOVA Polina (RUS),YU Mengyu (SGP),MIKHAILOVA Polina
+World Tour Qatar Open Doha 2012,2012-02-07,RAMIREZ Sara,BOROS Tamara,4,2,"11,5,11,11,4,11|7,11,9,5,11,7",,GRAND_SLAM,WS,85,Qualification,RAMIREZ Sara (ESP),BOROS Tamara (CRO),RAMIREZ Sara
+World Tour Qatar Open Doha 2012,2012-02-07,CHEN Meng,BOROS Tamara,4,1,"11,11,11,9,13|8,8,3,11,11",,GRAND_SLAM,WS,85,Qualification,CHEN Meng (CHN),BOROS Tamara (CRO),CHEN Meng
+World Tour Qatar Open Doha 2012,2012-02-07,CHEN Meng,RAMIREZ Sara,4,1,"11,7,11,11,11|6,11,2,3,2",,GRAND_SLAM,WS,85,Qualification,CHEN Meng (CHN),RAMIREZ Sara (ESP),CHEN Meng
+World Tour Qatar Open Doha 2012,2012-02-07,NOSKOVA Yana,WINTER Sabine,4,2,"2,12,8,13,11,11|11,10,11,11,5,8",,GRAND_SLAM,WS,85,Qualification,NOSKOVA Yana (RUS),WINTER Sabine (GER),NOSKOVA Yana
+World Tour Qatar Open Doha 2012,2012-02-07,HUANG Yi-Hua,WINTER Sabine,4,3,"8,11,9,11,11,8,11|11,7,11,6,7,11,4",,GRAND_SLAM,WS,85,Qualification,HUANG Yi-Hua (TPE),WINTER Sabine (GER),HUANG Yi-Hua
+World Tour Qatar Open Doha 2012,2012-02-07,HUANG Yi-Hua,NOSKOVA Yana,4,0,"11,11,11,11|7,5,8,6",,GRAND_SLAM,WS,85,Qualification,HUANG Yi-Hua (TPE),NOSKOVA Yana (RUS),HUANG Yi-Hua
+World Tour Qatar Open Doha 2012,2012-02-07,GRUNDISCH Carole,BILENKO Tetyana,4,2,"12,11,11,6,9,11|10,5,9,11,11,8",,GRAND_SLAM,WS,85,Qualification,GRUNDISCH Carole (FRA),BILENKO Tetyana (UKR),GRUNDISCH Carole
+World Tour Qatar Open Doha 2012,2012-02-07,NI Xia Lian,BILENKO Tetyana,4,2,"9,8,11,11,11,11|11,11,4,5,5,3",,GRAND_SLAM,WS,85,Qualification,NI Xia Lian (LUX),BILENKO Tetyana (UKR),NI Xia Lian
+World Tour Qatar Open Doha 2012,2012-02-07,NI Xia Lian,GRUNDISCH Carole,4,2,"8,7,12,11,11,11|11,11,10,7,6,6",,GRAND_SLAM,WS,85,Qualification,NI Xia Lian (LUX),GRUNDISCH Carole (FRA),NI Xia Lian
+World Tour Qatar Open Doha 2012,2012-02-07,HAN Ying,PARTYKA Natalia,4,0,"12,11,11,11|10,9,5,5",,GRAND_SLAM,WS,85,Qualification,HAN Ying (GER),PARTYKA Natalia (POL),HAN Ying
+World Tour Qatar Open Doha 2012,2012-02-07,HAN Ying,SUH Hyo Won,4,2,"11,6,11,11,7,12|9,11,9,9,11,10",,GRAND_SLAM,WS,85,Qualification,HAN Ying (GER),SUH Hyo Won (KOR),HAN Ying
+World Tour Qatar Open Doha 2012,2012-02-07,SUH Hyo Won,PARTYKA Natalia,4,1,"8,11,11,12,11|11,6,8,10,6",,GRAND_SLAM,WS,85,Qualification,SUH Hyo Won (KOR),PARTYKA Natalia (POL),SUH Hyo Won
+World Tour Qatar Open Doha 2012,2012-02-07,XIAN Yifang,CECHOVA Dana,4,1,"11,11,11,9,11|2,6,4,11,5",,GRAND_SLAM,WS,85,Qualification,XIAN Yifang (FRA),CECHOVA Dana (CZE),XIAN Yifang
+World Tour Qatar Open Doha 2012,2012-02-07,POTA Georgina,CECHOVA Dana,4,1,"13,11,11,11,11|11,13,8,6,8",,GRAND_SLAM,WS,85,Qualification,POTA Georgina (HUN),CECHOVA Dana (CZE),POTA Georgina
+World Tour Qatar Open Doha 2012,2012-02-07,POTA Georgina,XIAN Yifang,4,2,"11,11,9,11,9,11|4,5,11,9,11,8",,GRAND_SLAM,WS,85,Qualification,POTA Georgina (HUN),XIAN Yifang (FRA),POTA Georgina
+World Tour Qatar Open Doha 2012,2012-02-07,IVANCAN Irene,AMBRUS Krisztina,4,1,"11,8,11,11,11|3,11,9,7,9",,GRAND_SLAM,WS,85,Qualification,IVANCAN Irene (GER),AMBRUS Krisztina (HUN),IVANCAN Irene
+World Tour Qatar Open Doha 2012,2012-02-07,GRZYBOWSKA-FRANC Katarzyna,CHEN Szu-Yu,4,2,"11,8,12,12,11,11|7,11,14,10,7,8",,GRAND_SLAM,WS,85,Qualification,GRZYBOWSKA-FRANC Katarzyna (POL),CHEN Szu-Yu (TPE),GRZYBOWSKA-FRANC Katarzyna
+World Tour Qatar Open Doha 2012,2012-02-07,GRZYBOWSKA-FRANC Katarzyna,TOTH Krisztina,4,2,"9,11,4,11,11,11|11,8,11,8,8,5",,GRAND_SLAM,WS,85,Qualification,GRZYBOWSKA-FRANC Katarzyna (POL),TOTH Krisztina (HUN),GRZYBOWSKA-FRANC Katarzyna
+World Tour Qatar Open Doha 2012,2012-02-07,CHEN Szu-Yu,TOTH Krisztina,4,2,"5,11,8,11,11,11|11,8,11,7,9,7",,GRAND_SLAM,WS,85,Qualification,CHEN Szu-Yu (TPE),TOTH Krisztina (HUN),CHEN Szu-Yu
+World Tour Qatar Open Doha 2012,2012-02-07,FADEEVA Oxana,CHENG Hsien-Tzu,4,2,"11,11,7,11,4,11|5,6,11,6,11,9",,GRAND_SLAM,WS,85,Qualification,FADEEVA Oxana (RUS),CHENG Hsien-Tzu (TPE),FADEEVA Oxana
+World Tour Qatar Open Doha 2012,2012-02-07,DANG Yeseo,CHENG Hsien-Tzu,4,0,"11,11,11,11|4,4,2,6",,GRAND_SLAM,WS,85,Qualification,DANG Yeseo (KOR),CHENG Hsien-Tzu (TPE),DANG Yeseo
+World Tour Qatar Open Doha 2012,2012-02-07,DANG Yeseo,FADEEVA Oxana,4,1,"11,5,11,11,14|7,11,7,8,12",,GRAND_SLAM,WS,85,Qualification,DANG Yeseo (KOR),FADEEVA Oxana (RUS),DANG Yeseo
+World Tour Qatar Open Doha 2012,2012-02-07,VACENOVSKA Iveta,SO Eka,4,1,"11,11,3,11,11|9,4,11,4,6",,GRAND_SLAM,WS,85,Qualification,VACENOVSKA Iveta (CZE),SO Eka (JPN),VACENOVSKA Iveta
+World Tour Qatar Open Doha 2012,2012-02-07,VACENOVSKA Iveta,NG Wing Nam,4,1,"11,11,11,8,11|8,6,5,11,9",,GRAND_SLAM,WS,85,Qualification,VACENOVSKA Iveta (CZE),NG Wing Nam (HKG),VACENOVSKA Iveta
+World Tour Qatar Open Doha 2012,2012-02-07,CHENG I-Ching,LEE Dasom,4,3,"11,2,11,10,9,11,14|6,11,6,12,11,4,12",,GRAND_SLAM,WS,85,Qualification,CHENG I-Ching (TPE),LEE Dasom (KOR),CHENG I-Ching
+World Tour Qatar Open Doha 2012,2012-02-07,CHENG I-Ching,LEE Ho Ching,4,0,"12,12,11,14|10,10,6,12",,GRAND_SLAM,WS,85,Qualification,CHENG I-Ching (TPE),LEE Ho Ching (HKG),CHENG I-Ching
+World Tour Qatar Open Doha 2012,2012-02-07,LEE I-Chen,GUAN Mengyuan,4,0,"11,11,11,11|7,4,3,4",,GRAND_SLAM,WS,85,Qualification,LEE I-Chen (TPE),GUAN Mengyuan (HKG),LEE I-Chen
+World Tour Qatar Open Doha 2012,2012-02-07,LOVAS Petra,AL-HAMAD Hissa,4,0,"11,11,11,11|4,5,1,3",,GRAND_SLAM,WS,85,Qualification,LOVAS Petra (HUN),AL-HAMAD Hissa (QAT),LOVAS Petra
+World Tour Qatar Open Doha 2012,2012-02-07,LOVAS Petra,GUAN Mengyuan,4,1,"11,4,11,11,11|9,11,5,6,9",,GRAND_SLAM,WS,85,Qualification,LOVAS Petra (HUN),GUAN Mengyuan (HKG),LOVAS Petra
+World Tour Qatar Open Doha 2012,2012-02-07,LEE I-Chen,AL-HAMAD Hissa,4,0,"11,11,11,11|5,2,6,4",,GRAND_SLAM,WS,85,Qualification,LEE I-Chen (TPE),AL-HAMAD Hissa (QAT),LEE I-Chen
+World Tour Qatar Open Doha 2012,2012-02-07,LOVAS Petra,LEE I-Chen,4,2,"12,3,14,8,11,12|10,11,12,11,4,10",,GRAND_SLAM,WS,85,Qualification,LOVAS Petra (HUN),LEE I-Chen (TPE),LOVAS Petra
+World Tour Qatar Open Doha 2012,2012-02-07,GUAN Mengyuan,AL-HAMAD Hissa,4,0,"11,11,11,11|1,2,4,4",,GRAND_SLAM,WS,85,Qualification,GUAN Mengyuan (HKG),AL-HAMAD Hissa (QAT),GUAN Mengyuan
+World Tour Qatar Open Doha 2012,2012-02-07,EKHOLM Matilda,MOHAMED Aia,4,0,"11,11,11,11|6,3,6,4",,GRAND_SLAM,WS,85,Qualification,EKHOLM Matilda (SWE),MOHAMED Aia (QAT),EKHOLM Matilda
+World Tour Qatar Open Doha 2012,2012-02-07,LANG Kristin,MOHAMED Aia,4,0,"11,11,11,11|6,3,2,4",,GRAND_SLAM,WS,85,Qualification,LANG Kristin (GER),MOHAMED Aia (QAT),LANG Kristin
+World Tour Qatar Open Doha 2012,2012-02-07,EKHOLM Matilda,LANG Kristin,4,1,"11,11,8,11,11|9,7,11,6,6",,GRAND_SLAM,WS,85,Qualification,EKHOLM Matilda (SWE),LANG Kristin (GER),EKHOLM Matilda
+World Tour Qatar Open Doha 2012,2012-02-07,TIKHOMIROVA Anna,XU Chris,4,0,"11,11,11,11|7,3,6,5",,GRAND_SLAM,WS,85,Qualification,TIKHOMIROVA Anna (RUS),XU Chris (CAN),TIKHOMIROVA Anna
+World Tour Qatar Open Doha 2012,2012-02-07,LI Xiaodan,TAN Wenling,4,0,"12,11,11,11|10,7,4,5",,GRAND_SLAM,WS,85,Qualification,LI Xiaodan (CHN),TAN Wenling (ITA),LI Xiaodan
+World Tour Qatar Open Doha 2012,2012-02-07,LI Xiaodan,XU Chris,4,0,"11,11,11,11|9,2,7,2",,GRAND_SLAM,WS,85,Qualification,LI Xiaodan (CHN),XU Chris (CAN),LI Xiaodan
+World Tour Qatar Open Doha 2012,2012-02-07,TIKHOMIROVA Anna,TAN Wenling,4,1,"11,9,11,11,11|6,11,7,6,5",,GRAND_SLAM,WS,85,Qualification,TIKHOMIROVA Anna (RUS),TAN Wenling (ITA),TIKHOMIROVA Anna
+World Tour Qatar Open Doha 2012,2012-02-07,LI Xiaodan,TIKHOMIROVA Anna,4,0,"12,16,11,12|10,14,4,10",,GRAND_SLAM,WS,85,Qualification,LI Xiaodan (CHN),TIKHOMIROVA Anna (RUS),LI Xiaodan
+World Tour Qatar Open Doha 2012,2012-02-07,TAN Wenling,XU Chris,4,0,"11,11,11,11|2,2,5,5",,GRAND_SLAM,WS,85,Qualification,TAN Wenling (ITA),XU Chris (CAN),TAN Wenling
+World Tour Qatar Open Doha 2012,2012-02-07,BARTHEL Zhenqi,AL ABRI Noora,4,0,"11,11,11,11|5,2,3,5",,GRAND_SLAM,WS,85,Qualification,BARTHEL Zhenqi (GER),AL ABRI Noora (QAT),BARTHEL Zhenqi
+World Tour Qatar Open Doha 2012,2012-02-07,GU Yuting,WEHBE Hala,4,0,"11,11,11,11|2,2,1,1",,GRAND_SLAM,WS,85,Qualification,GU Yuting (CHN),WEHBE Hala (LBN),GU Yuting
+World Tour Qatar Open Doha 2012,2012-02-07,GU Yuting,AL ABRI Noora,4,0,"11,11,11,11|4,3,3,1",,GRAND_SLAM,WS,85,Qualification,GU Yuting (CHN),AL ABRI Noora (QAT),GU Yuting
+World Tour Qatar Open Doha 2012,2012-02-07,BARTHEL Zhenqi,WEHBE Hala,4,0,"11,11,11,11|3,4,5,4",,GRAND_SLAM,WS,85,Qualification,BARTHEL Zhenqi (GER),WEHBE Hala (LBN),BARTHEL Zhenqi
+World Tour Qatar Open Doha 2012,2012-02-07,BARTHEL Zhenqi,GU Yuting,4,1,"6,12,11,11,11|11,10,9,7,4",,GRAND_SLAM,WS,85,Qualification,BARTHEL Zhenqi (GER),GU Yuting (CHN),BARTHEL Zhenqi
+World Tour Qatar Open Doha 2012,2012-02-07,WEHBE Hala,AL ABRI Noora,4,1,"11,11,10,11,11|9,7,12,8,6",,GRAND_SLAM,WS,85,Qualification,WEHBE Hala (LBN),AL ABRI Noora (QAT),WEHBE Hala
+World Tour Qatar Open Doha 2012,2012-02-07,YAO Yan,PESOTSKA Margaryta,4,0,"11,11,11,11|4,7,3,4",,GRAND_SLAM,WS,85,Qualification,YAO Yan (CHN),PESOTSKA Margaryta (UKR),YAO Yan
+World Tour Qatar Open Doha 2012,2012-02-07,LI Xue,FARAMARZI Maha,4,0,"11,11,11,11|1,3,1,1",,GRAND_SLAM,WS,85,Qualification,LI Xue (FRA),FARAMARZI Maha (QAT),LI Xue
+World Tour Qatar Open Doha 2012,2012-02-07,YAO Yan,LI Xue,4,0,"11,11,11,11|1,7,7,7",,GRAND_SLAM,WS,85,Qualification,YAO Yan (CHN),LI Xue (FRA),YAO Yan
+World Tour Qatar Open Doha 2012,2012-02-07,PESOTSKA Margaryta,FARAMARZI Maha,4,0,"11,11,11,11|3,1,4,4",,GRAND_SLAM,WS,85,Qualification,PESOTSKA Margaryta (UKR),FARAMARZI Maha (QAT),PESOTSKA Margaryta
+World Tour Qatar Open Doha 2012,2012-02-07,LI Xue,PESOTSKA Margaryta,4,3,"6,11,9,6,11,11,13|11,7,11,11,6,6,11",,GRAND_SLAM,WS,85,Qualification,LI Xue (FRA),PESOTSKA Margaryta (UKR),LI Xue
+World Tour Qatar Open Doha 2012,2012-02-07,YAO Yan,FARAMARZI Maha,4,0,"11,11,11,11|3,3,4,3",,GRAND_SLAM,WS,85,Qualification,YAO Yan (CHN),FARAMARZI Maha (QAT),YAO Yan
+World Tour Qatar Open Doha 2012,2012-02-07,AL-HASAN Salem,MOUMJOGHLIAN Avo,3,2,"12,11,9,11,11|14,1,11,5,8",,GRAND_SLAM,U21MS,85,Qualification,AL-HASAN Salem (KUW),MOUMJOGHLIAN Avo (LBN),AL-HASAN Salem
+World Tour Qatar Open Doha 2012,2012-02-07,KOSIBA Daniel,MOUMJOGHLIAN Avo,3,0,"11,11,14|6,3,12",,GRAND_SLAM,U21MS,85,Qualification,KOSIBA Daniel (HUN),MOUMJOGHLIAN Avo (LBN),KOSIBA Daniel
+World Tour Qatar Open Doha 2012,2012-02-07,KOSIBA Daniel,AL-HASAN Salem,3,0,"11,11,11|6,8,9",,GRAND_SLAM,U21MS,85,Qualification,KOSIBA Daniel (HUN),AL-HASAN Salem (KUW),KOSIBA Daniel
+World Tour Qatar Open Doha 2012,2012-02-07,ALMUGHANNE Fahed,BUSHELAIBI Mohamed,3,1,"1,11,11,11|11,9,7,8",,GRAND_SLAM,U21MS,85,Qualification,ALMUGHANNE Fahed (QAT),BUSHELAIBI Mohamed (BRN),ALMUGHANNE Fahed
+World Tour Qatar Open Doha 2012,2012-02-07,FLORE Tristan,BUSHELAIBI Mohamed,3,0,"11,11,11|5,7,3",,GRAND_SLAM,U21MS,85,Qualification,FLORE Tristan (FRA),BUSHELAIBI Mohamed (BRN),FLORE Tristan
+World Tour Qatar Open Doha 2012,2012-02-07,FLORE Tristan,ALMUGHANNE Fahed,3,1,"9,11,11,11|11,5,5,9",,GRAND_SLAM,U21MS,85,Qualification,FLORE Tristan (FRA),ALMUGHANNE Fahed (QAT),FLORE Tristan
+World Tour Qatar Open Doha 2012,2012-02-07,JUMA Hasan,ALI Omar,3,1,"11,5,11,11|5,11,4,8",,GRAND_SLAM,U21MS,85,Qualification,JUMA Hasan (BRN),ALI Omar (YEM),JUMA Hasan
+World Tour Qatar Open Doha 2012,2012-02-07,KARLSSON Kristian,JUMA Hasan,3,1,"11,10,11,11|3,12,2,6",,GRAND_SLAM,U21MS,85,Qualification,KARLSSON Kristian (SWE),JUMA Hasan (BRN),KARLSSON Kristian
+World Tour Qatar Open Doha 2012,2012-02-07,KARLSSON Kristian,ALI Omar,3,1,"11,9,11,11|5,11,2,6",,GRAND_SLAM,U21MS,85,Qualification,KARLSSON Kristian (SWE),ALI Omar (YEM),KARLSSON Kristian
+World Tour Qatar Open Doha 2012,2012-02-07,MORICZ Mate,SHEMET German,3,0,"11,11,11|8,4,8",,GRAND_SLAM,U21MS,85,Qualification,MORICZ Mate (HUN),SHEMET German (QAT),MORICZ Mate
+World Tour Qatar Open Doha 2012,2012-02-07,KIM Donghyun,SHEMET German,3,0,"11,11,11|5,1,8",,GRAND_SLAM,U21MS,85,Qualification,KIM Donghyun (KOR),SHEMET German (QAT),KIM Donghyun
+World Tour Qatar Open Doha 2012,2012-02-07,KIM Donghyun,MORICZ Mate,3,1,"6,11,11,11|11,6,9,9",,GRAND_SLAM,U21MS,85,Qualification,KIM Donghyun (KOR),MORICZ Mate (HUN),KIM Donghyun
+World Tour Qatar Open Doha 2012,2012-02-07,MERZLIKIN Taras,AL-NAGGAR Abdulrahman,3,0,"11,11,11|6,5,6",,GRAND_SLAM,U21MS,85,Qualification,MERZLIKIN Taras (RUS),AL-NAGGAR Abdulrahman (QAT),MERZLIKIN Taras
+World Tour Qatar Open Doha 2012,2012-02-07,FLORITZ Philipp,AL-NAGGAR Abdulrahman,3,0,"11,11,11|3,6,5",,GRAND_SLAM,U21MS,85,Qualification,FLORITZ Philipp (BUL),AL-NAGGAR Abdulrahman (QAT),FLORITZ Philipp
+World Tour Qatar Open Doha 2012,2012-02-07,FLORITZ Philipp,MERZLIKIN Taras,3,2,"9,12,11,3,11|11,10,9,11,6",,GRAND_SLAM,U21MS,85,Qualification,FLORITZ Philipp (BUL),MERZLIKIN Taras (RUS),FLORITZ Philipp
+World Tour Qatar Open Doha 2012,2012-02-07,LAKATOS Tamas,AL-SANADI Jassim,3,0,"11,11,11|5,6,1",,GRAND_SLAM,U21MS,85,Qualification,LAKATOS Tamas (HUN),AL-SANADI Jassim (QAT),LAKATOS Tamas
+World Tour Qatar Open Doha 2012,2012-02-07,NUYTINCK Cedric,AL-SANADI Jassim,3,1,"11,8,13,11|6,11,11,5",,GRAND_SLAM,U21MS,85,Qualification,NUYTINCK Cedric (BEL),AL-SANADI Jassim (QAT),NUYTINCK Cedric
+World Tour Qatar Open Doha 2012,2012-02-07,NUYTINCK Cedric,LAKATOS Tamas,3,2,"11,12,6,4,11|8,10,11,11,7",,GRAND_SLAM,U21MS,85,Qualification,NUYTINCK Cedric (BEL),LAKATOS Tamas (HUN),NUYTINCK Cedric
+World Tour Qatar Open Doha 2012,2012-02-07,PANG Xue Jie,BAND Joshua,3,0,"11,11,11|3,3,5",,GRAND_SLAM,U21MS,85,Qualification,PANG Xue Jie (SGP),BAND Joshua (JEY),PANG Xue Jie
+World Tour Qatar Open Doha 2012,2012-02-07,JEAN Lauric,FATA Anthony,3,0,"11,11,11|2,1,1",,GRAND_SLAM,U21MS,85,Qualification,JEAN Lauric (BEL),FATA Anthony (LBN),JEAN Lauric
+World Tour Qatar Open Doha 2012,2012-02-07,JEAN Lauric,BAND Joshua,3,0,"11,11,11|7,7,8",,GRAND_SLAM,U21MS,85,Qualification,JEAN Lauric (BEL),BAND Joshua (JEY),JEAN Lauric
+World Tour Qatar Open Doha 2012,2012-02-07,PANG Xue Jie,FATA Anthony,3,0,"11,11,11|4,1,1",,GRAND_SLAM,U21MS,85,Qualification,PANG Xue Jie (SGP),FATA Anthony (LBN),PANG Xue Jie
+World Tour Qatar Open Doha 2012,2012-02-07,JEAN Lauric,PANG Xue Jie,3,0,"11,11,11|5,9,4",,GRAND_SLAM,U21MS,85,Qualification,JEAN Lauric (BEL),PANG Xue Jie (SGP),JEAN Lauric
+World Tour Qatar Open Doha 2012,2012-02-07,CHENG Hsien-Tzu,FARAMARZI Maha,3,0,"11,11,11|5,3,1",,GRAND_SLAM,U21WS,85,Qualification,CHENG Hsien-Tzu (TPE),FARAMARZI Maha (QAT),CHENG Hsien-Tzu
+World Tour Qatar Open Doha 2012,2012-02-07,SO Eka,WEHBE Hala,3,0,"11,11,11|1,2,3",,GRAND_SLAM,U21WS,85,Qualification,SO Eka (JPN),WEHBE Hala (LBN),SO Eka
+World Tour Qatar Open Doha 2012,2012-02-07,SO Eka,MOHAMED Aia,3,0,"11,11,11|5,1,4",,GRAND_SLAM,U21WS,85,Qualification,SO Eka (JPN),MOHAMED Aia (QAT),SO Eka
+World Tour Qatar Open Doha 2012,2012-02-07,MOHAMED Aia,WEHBE Hala,3,0,"11,11,11|7,8,8",,GRAND_SLAM,U21WS,85,Qualification,MOHAMED Aia (QAT),WEHBE Hala (LBN),MOHAMED Aia
+World Tour Qatar Open Doha 2012,2012-02-07,LEE Dasom,AL ABRI Noora,3,0,"11,11,11|4,2,3",,GRAND_SLAM,U21WS,85,Qualification,LEE Dasom (KOR),AL ABRI Noora (QAT),LEE Dasom
+World Tour Qatar Open Doha 2012,2012-02-07,GUAN Mengyuan,LEE Dasom,3,1,"11,3,11,11|7,11,3,5",,GRAND_SLAM,U21WS,85,Qualification,GUAN Mengyuan (HKG),LEE Dasom (KOR),GUAN Mengyuan
+World Tour Qatar Open Doha 2012,2012-02-07,AL ABRI Noora,AL-HAMAD Hissa,3,0,"11,11,11|4,6,9",,GRAND_SLAM,U21WS,85,Qualification,AL ABRI Noora (QAT),AL-HAMAD Hissa (QAT),AL ABRI Noora
+World Tour Qatar Open Doha 2012,2012-02-07,GUAN Mengyuan,AL ABRI Noora,3,0,"11,11,11|4,4,0",,GRAND_SLAM,U21WS,85,Qualification,GUAN Mengyuan (HKG),AL ABRI Noora (QAT),GUAN Mengyuan
+World Tour Qatar Open Doha 2012,2012-02-07,LEE Dasom,AL-HAMAD Hissa,3,0,"11,11,11|5,3,1",,GRAND_SLAM,U21WS,85,Qualification,LEE Dasom (KOR),AL-HAMAD Hissa (QAT),LEE Dasom
+World Tour Qatar Open Doha 2012,2012-02-07,WANG Hao,KOSOWSKI Jakub,4,0,"11,11,11,11|6,7,7,3",R64,GRAND_SLAM,MS,85,Main Draw,WANG Hao (CHN),KOSOWSKI Jakub (POL),WANG Hao
+World Tour Qatar Open Doha 2012,2012-02-07,MATSUDAIRA Kenta,CHEN Feng,4,3,"10,11,11,11,12,8,11|12,5,9,9,14,11,7",R64,GRAND_SLAM,MS,85,Main Draw,MATSUDAIRA Kenta (JPN),CHEN Feng (SGP),MATSUDAIRA Kenta
+World Tour Qatar Open Doha 2012,2012-02-07,LEBESSON Emmanuel,CHEUNG Yuk,4,3,"11,16,7,8,11,6,13|9,14,11,11,6,11,11",R64,GRAND_SLAM,MS,85,Main Draw,LEBESSON Emmanuel (FRA),CHEUNG Yuk (HKG),LEBESSON Emmanuel
+World Tour Qatar Open Doha 2012,2012-02-07,SAMSONOV Vladimir,MATSUDAIRA Kenji,4,3,"14,9,9,11,11,11,11|16,11,11,7,6,5,8",R64,GRAND_SLAM,MS,85,Main Draw,SAMSONOV Vladimir (BLR),MATSUDAIRA Kenji (JPN),SAMSONOV Vladimir
+World Tour Qatar Open Doha 2012,2012-02-07,FILUS Ruwen,KISHIKAWA Seiya,4,2,"12,11,11,13,7,11|10,6,13,11,11,9",R64,GRAND_SLAM,MS,85,Main Draw,FILUS Ruwen (GER),KISHIKAWA Seiya (JPN),FILUS Ruwen
+World Tour Qatar Open Doha 2012,2012-02-07,LEE Jungwoo,CHAN Kazuhiro,4,2,"11,11,12,12,11,11|6,5,14,14,8,7",R64,GRAND_SLAM,MS,85,Main Draw,LEE Jungwoo (KOR),CHAN Kazuhiro (JPN),LEE Jungwoo
+World Tour Qatar Open Doha 2012,2012-02-07,CRISAN Adrian,CHTCHETININE Evgueni,4,0,"11,11,11,11|8,6,6,8",R64,GRAND_SLAM,MS,85,Main Draw,CRISAN Adrian (ROU),CHTCHETININE Evgueni (BLR),CRISAN Adrian
+World Tour Qatar Open Doha 2012,2012-02-07,OVTCHAROV Dimitrij,STOYANOV Niagol,4,0,"11,12,11,11|7,10,5,4",R64,GRAND_SLAM,MS,85,Main Draw,OVTCHAROV Dimitrij (GER),STOYANOV Niagol (ITA),OVTCHAROV Dimitrij
+World Tour Qatar Open Doha 2012,2012-02-07,CHUANG Chih-Yuan,LEGOUT Christophe,4,0,"11,11,11,11|9,7,6,7",R64,GRAND_SLAM,MS,85,Main Draw,CHUANG Chih-Yuan (TPE),LEGOUT Christophe (FRA),CHUANG Chih-Yuan
+World Tour Qatar Open Doha 2012,2012-02-07,APOLONIA Tiago,GAUZY Simon,4,1,"11,13,7,11,11|6,11,11,9,9",R64,GRAND_SLAM,MS,85,Main Draw,APOLONIA Tiago (POR),GAUZY Simon (FRA),APOLONIA Tiago
+World Tour Qatar Open Doha 2012,2012-02-07,FRANZISKA Patrick,PERSSON Jorgen,4,3,"5,8,8,11,11,11,11|11,11,11,7,7,8,9",R64,GRAND_SLAM,MS,85,Main Draw,FRANZISKA Patrick (GER),PERSSON Jorgen (SWE),FRANZISKA Patrick
+World Tour Qatar Open Doha 2012,2012-02-07,TOKIC Bojan,LIVENTSOV Alexey,4,1,"11,10,11,12,14|9,12,7,10,12",R64,GRAND_SLAM,MS,85,Main Draw,TOKIC Bojan (SLO),LIVENTSOV Alexey (RUS),TOKIC Bojan
+World Tour Qatar Open Doha 2012,2012-02-07,JEONG Sangeun,LI Hu,4,2,"12,11,11,9,11,11|14,7,8,11,9,9",R64,GRAND_SLAM,MS,85,Main Draw,JEONG Sangeun (KOR),LI Hu (SGP),JEONG Sangeun
+World Tour Qatar Open Doha 2012,2012-02-07,CHEN Weixing,SAIVE Jean-Michel,4,0,"11,11,11,12|8,2,6,10",R64,GRAND_SLAM,MS,85,Main Draw,CHEN Weixing (AUT),SAIVE Jean-Michel (BEL),CHEN Weixing
+World Tour Qatar Open Doha 2012,2012-02-07,SKACHKOV Kirill,GERELL Par,4,2,"12,11,9,11,3,11|10,5,11,3,11,7",R64,GRAND_SLAM,MS,85,Main Draw,SKACHKOV Kirill (RUS),GERELL Par (SWE),SKACHKOV Kirill
+World Tour Qatar Open Doha 2012,2012-02-07,JOO Saehyuk,LUNDQVIST Jens,4,1,"11,13,11,9,14|4,11,9,11,12",R64,GRAND_SLAM,MS,85,Main Draw,JOO Saehyuk (KOR),LUNDQVIST Jens (SWE),JOO Saehyuk
+World Tour Qatar Open Doha 2012,2012-02-07,MA Lin,FEGERL Stefan,4,0,"12,11,12,11|10,3,10,6",R64,GRAND_SLAM,MS,85,Main Draw,MA Lin (CHN),FEGERL Stefan (AUT),MA Lin
+World Tour Qatar Open Doha 2012,2012-02-07,ZHAN Jian,TANG Peng,4,1,"11,11,11,11,11|4,7,8,13,7",R64,GRAND_SLAM,MS,85,Main Draw,ZHAN Jian (SGP),TANG Peng (HKG),ZHAN Jian
+World Tour Qatar Open Doha 2012,2012-02-07,DIDUKH Oleksandr,PRIMORAC Zoran,4,0,"11,11,11,11|7,6,9,3",R64,GRAND_SLAM,MS,85,Main Draw,DIDUKH Oleksandr (UKR),PRIMORAC Zoran (CRO),DIDUKH Oleksandr
+World Tour Qatar Open Doha 2012,2012-02-07,BAUM Patrick,ZHMUDENKO Yaroslav,4,2,"11,7,11,6,11,11|4,11,8,11,7,5",R64,GRAND_SLAM,MS,85,Main Draw,BAUM Patrick (GER),ZHMUDENKO Yaroslav (UKR),BAUM Patrick
+World Tour Qatar Open Doha 2012,2012-02-07,SHIBAEV Alexander,RYU Seungmin,4,1,"5,13,11,12,14|11,11,8,10,12",R64,GRAND_SLAM,MS,85,Main Draw,SHIBAEV Alexander (RUS),RYU Seungmin (KOR),SHIBAEV Alexander
+World Tour Qatar Open Doha 2012,2012-02-07,MONTEIRO Joao,SMIRNOV Alexey,4,0,"11,11,11,11|9,8,6,5",R64,GRAND_SLAM,MS,85,Main Draw,MONTEIRO Joao (POR),SMIRNOV Alexey (RUS),MONTEIRO Joao
+World Tour Qatar Open Doha 2012,2012-02-07,GACINA Andrej,GARDOS Robert,4,2,"5,11,8,12,11,11|11,8,11,10,7,8",R64,GRAND_SLAM,MS,85,Main Draw,GACINA Andrej (CRO),GARDOS Robert (AUT),GACINA Andrej
+World Tour Qatar Open Doha 2012,2012-02-07,MIZUTANI Jun,HABESOHN Daniel,4,3,"9,10,12,11,11,6,11|11,12,10,9,3,11,9",R64,GRAND_SLAM,MS,85,Main Draw,MIZUTANI Jun (JPN),HABESOHN Daniel (AUT),MIZUTANI Jun
+World Tour Qatar Open Doha 2012,2012-02-07,OH Sangeun,PAIKOV Mikhail,4,2,"11,12,12,11,5,11|5,10,14,7,11,7",R64,GRAND_SLAM,MS,85,Main Draw,OH Sangeun (KOR),PAIKOV Mikhail (RUS),OH Sangeun
+World Tour Qatar Open Doha 2012,2012-02-07,JIANG Tianyi,KUZMIN Fedor,4,3,"12,16,6,9,11,6,13|10,14,11,11,6,11,11",R64,GRAND_SLAM,MS,85,Main Draw,JIANG Tianyi (HKG),KUZMIN Fedor (RUS),JIANG Tianyi
+World Tour Qatar Open Doha 2012,2012-02-07,LEUNG Chu Yan,ROBINOT Quentin,4,3,"11,8,8,11,11,8,11|4,11,11,9,8,11,8",R64,GRAND_SLAM,MS,85,Main Draw,LEUNG Chu Yan (HKG),ROBINOT Quentin (FRA),LEUNG Chu Yan
+World Tour Qatar Open Doha 2012,2012-02-07,NIWA Koki,KARLSSON Kristian,4,2,"5,11,11,11,3,11|11,9,9,8,11,7",R64,GRAND_SLAM,MS,85,Main Draw,NIWA Koki (JPN),KARLSSON Kristian (SWE),NIWA Koki
+World Tour Qatar Open Doha 2012,2012-02-07,GAO Ning,BUROV Viacheslav,4,0,"12,11,11,11|10,6,6,8",R64,GRAND_SLAM,MS,85,Main Draw,GAO Ning (SGP),BUROV Viacheslav (RUS),GAO Ning
+World Tour Qatar Open Doha 2012,2012-02-07,SUSS Christian,WU Chih-Chi,4,2,"11,11,11,6,9,11|3,9,9,11,11,5",R64,GRAND_SLAM,MS,85,Main Draw,SUSS Christian (GER),WU Chih-Chi (TPE),SUSS Christian
+World Tour Qatar Open Doha 2012,2012-02-07,RUBTSOV Igor,YANG Zi,4,2,"9,11,9,19,11,11|11,4,11,17,9,6",R64,GRAND_SLAM,MS,85,Main Draw,RUBTSOV Igor (RUS),YANG Zi (SGP),RUBTSOV Igor
+World Tour Qatar Open Doha 2012,2012-02-07,XU Xin,HUNG Tzu-Hsiang,4,0,"11,11,11,11|5,6,4,7",R64,GRAND_SLAM,MS,85,Main Draw,XU Xin (CHN),HUNG Tzu-Hsiang (TPE),XU Xin
+World Tour Qatar Open Doha 2012,2012-02-07,WANG Hao,MATSUDAIRA Kenta,4,1,"11,7,11,11,11|2,11,6,6,3",R32,GRAND_SLAM,MS,85,Main Draw,WANG Hao (CHN),MATSUDAIRA Kenta (JPN),WANG Hao
+World Tour Qatar Open Doha 2012,2012-02-07,SAMSONOV Vladimir,LEBESSON Emmanuel,4,0,"11,11,11,11|8,6,2,2",R32,GRAND_SLAM,MS,85,Main Draw,SAMSONOV Vladimir (BLR),LEBESSON Emmanuel (FRA),SAMSONOV Vladimir
+World Tour Qatar Open Doha 2012,2012-02-07,LEE Jungwoo,FILUS Ruwen,4,0,"11,11,11,11|6,7,4,3",R32,GRAND_SLAM,MS,85,Main Draw,LEE Jungwoo (KOR),FILUS Ruwen (GER),LEE Jungwoo
+World Tour Qatar Open Doha 2012,2012-02-07,OVTCHAROV Dimitrij,CRISAN Adrian,4,0,"11,11,12,11|4,2,10,6",R32,GRAND_SLAM,MS,85,Main Draw,OVTCHAROV Dimitrij (GER),CRISAN Adrian (ROU),OVTCHAROV Dimitrij
+World Tour Qatar Open Doha 2012,2012-02-07,CHUANG Chih-Yuan,APOLONIA Tiago,4,2,"11,12,12,5,7,11|9,10,10,11,11,6",R32,GRAND_SLAM,MS,85,Main Draw,CHUANG Chih-Yuan (TPE),APOLONIA Tiago (POR),CHUANG Chih-Yuan
+World Tour Qatar Open Doha 2012,2012-02-07,FRANZISKA Patrick,TOKIC Bojan,4,3,"9,6,14,11,11,3,12|11,11,12,8,5,11,10",R32,GRAND_SLAM,MS,85,Main Draw,FRANZISKA Patrick (GER),TOKIC Bojan (SLO),FRANZISKA Patrick
+World Tour Qatar Open Doha 2012,2012-02-07,JEONG Sangeun,CHEN Weixing,4,1,"9,11,11,11,11|11,7,7,7,9",R32,GRAND_SLAM,MS,85,Main Draw,JEONG Sangeun (KOR),CHEN Weixing (AUT),JEONG Sangeun
+World Tour Qatar Open Doha 2012,2012-02-07,JOO Saehyuk,SKACHKOV Kirill,4,3,"9,11,10,6,11,11,11|11,2,12,11,7,2,4",R32,GRAND_SLAM,MS,85,Main Draw,JOO Saehyuk (KOR),SKACHKOV Kirill (RUS),JOO Saehyuk
+World Tour Qatar Open Doha 2012,2012-02-07,MA Lin,ZHAN Jian,4,1,"12,5,11,11,11|10,11,4,7,5",R32,GRAND_SLAM,MS,85,Main Draw,MA Lin (CHN),ZHAN Jian (SGP),MA Lin
+World Tour Qatar Open Doha 2012,2012-02-07,BAUM Patrick,DIDUKH Oleksandr,4,0,"11,11,11,11|7,8,9,5",R32,GRAND_SLAM,MS,85,Main Draw,BAUM Patrick (GER),DIDUKH Oleksandr (UKR),BAUM Patrick
+World Tour Qatar Open Doha 2012,2012-02-07,SHIBAEV Alexander,MONTEIRO Joao,4,2,"11,7,11,5,12,11|4,11,6,11,10,9",R32,GRAND_SLAM,MS,85,Main Draw,SHIBAEV Alexander (RUS),MONTEIRO Joao (POR),SHIBAEV Alexander
+World Tour Qatar Open Doha 2012,2012-02-07,MIZUTANI Jun,GACINA Andrej,4,0,"11,11,11,11|5,5,7,6",R32,GRAND_SLAM,MS,85,Main Draw,MIZUTANI Jun (JPN),GACINA Andrej (CRO),MIZUTANI Jun
+World Tour Qatar Open Doha 2012,2012-02-07,JIANG Tianyi,OH Sangeun,4,2,"4,8,15,11,11,15|11,11,13,1,5,13",R32,GRAND_SLAM,MS,85,Main Draw,JIANG Tianyi (HKG),OH Sangeun (KOR),JIANG Tianyi
+World Tour Qatar Open Doha 2012,2012-02-07,NIWA Koki,LEUNG Chu Yan,4,3,"11,11,7,8,8,11,12|3,8,11,11,11,7,10",R32,GRAND_SLAM,MS,85,Main Draw,NIWA Koki (JPN),LEUNG Chu Yan (HKG),NIWA Koki
+World Tour Qatar Open Doha 2012,2012-02-07,GAO Ning,SUSS Christian,4,2,"11,9,4,13,12,17|6,11,11,11,10,15",R32,GRAND_SLAM,MS,85,Main Draw,GAO Ning (SGP),SUSS Christian (GER),GAO Ning
+World Tour Qatar Open Doha 2012,2012-02-07,XU Xin,RUBTSOV Igor,4,1,"11,11,9,11,11|4,8,11,9,5",R32,GRAND_SLAM,MS,85,Main Draw,XU Xin (CHN),RUBTSOV Igor (RUS),XU Xin
+World Tour Qatar Open Doha 2012,2012-02-07,WANG Hao,SAMSONOV Vladimir,4,2,"11,10,11,11,7,11|6,12,6,7,11,6",R16,GRAND_SLAM,MS,85,Main Draw,WANG Hao (CHN),SAMSONOV Vladimir (BLR),WANG Hao
+World Tour Qatar Open Doha 2012,2012-02-07,LEE Jungwoo,OVTCHAROV Dimitrij,4,3,"6,12,4,11,4,11,11|11,10,11,5,11,9,9",R16,GRAND_SLAM,MS,85,Main Draw,LEE Jungwoo (KOR),OVTCHAROV Dimitrij (GER),LEE Jungwoo
+World Tour Qatar Open Doha 2012,2012-02-07,FRANZISKA Patrick,CHUANG Chih-Yuan,4,3,"11,3,9,11,11,11,11|9,11,11,9,9,13,7",R16,GRAND_SLAM,MS,85,Main Draw,FRANZISKA Patrick (GER),CHUANG Chih-Yuan (TPE),FRANZISKA Patrick
+World Tour Qatar Open Doha 2012,2012-02-07,JOO Saehyuk,JEONG Sangeun,4,3,"11,11,9,11,7,7,11|8,9,11,6,11,11,6",R16,GRAND_SLAM,MS,85,Main Draw,JOO Saehyuk (KOR),JEONG Sangeun (KOR),JOO Saehyuk
+World Tour Qatar Open Doha 2012,2012-02-07,MA Lin,BAUM Patrick,4,1,"11,11,7,11,13|6,4,11,7,11",R16,GRAND_SLAM,MS,85,Main Draw,MA Lin (CHN),BAUM Patrick (GER),MA Lin
+World Tour Qatar Open Doha 2012,2012-02-07,MIZUTANI Jun,SHIBAEV Alexander,4,3,"11,11,8,9,8,11,11|8,5,11,11,11,0,7",R16,GRAND_SLAM,MS,85,Main Draw,MIZUTANI Jun (JPN),SHIBAEV Alexander (RUS),MIZUTANI Jun
+World Tour Qatar Open Doha 2012,2012-02-07,JIANG Tianyi,NIWA Koki,4,1,"14,7,11,11,11|12,11,8,6,5",R16,GRAND_SLAM,MS,85,Main Draw,JIANG Tianyi (HKG),NIWA Koki (JPN),JIANG Tianyi
+World Tour Qatar Open Doha 2012,2012-02-07,XU Xin,GAO Ning,4,1,"11,7,11,11,11|7,11,9,2,5",R16,GRAND_SLAM,MS,85,Main Draw,XU Xin (CHN),GAO Ning (SGP),XU Xin
+World Tour Qatar Open Doha 2012,2012-02-07,WANG Hao,LEE Jungwoo,4,2,"12,9,8,11,11,11|10,11,11,5,7,9",QF,GRAND_SLAM,MS,85,Main Draw,WANG Hao (CHN),LEE Jungwoo (KOR),WANG Hao
+World Tour Qatar Open Doha 2012,2012-02-07,JOO Saehyuk,FRANZISKA Patrick,4,2,"5,11,11,11,8,11|11,6,3,7,11,6",QF,GRAND_SLAM,MS,85,Main Draw,JOO Saehyuk (KOR),FRANZISKA Patrick (GER),JOO Saehyuk
+World Tour Qatar Open Doha 2012,2012-02-07,MA Lin,MIZUTANI Jun,4,3,"5,11,8,11,11,11,11|11,7,11,13,6,7,5",QF,GRAND_SLAM,MS,85,Main Draw,MA Lin (CHN),MIZUTANI Jun (JPN),MA Lin
+World Tour Qatar Open Doha 2012,2012-02-07,XU Xin,JIANG Tianyi,4,0,"11,11,11,11|7,4,6,2",QF,GRAND_SLAM,MS,85,Main Draw,XU Xin (CHN),JIANG Tianyi (HKG),XU Xin
+World Tour Qatar Open Doha 2012,2012-02-07,WANG Hao,JOO Saehyuk,4,1,"9,11,11,11,11|11,6,7,2,3",SF,GRAND_SLAM,MS,85,Main Draw,WANG Hao (CHN),JOO Saehyuk (KOR),WANG Hao
+World Tour Qatar Open Doha 2012,2012-02-07,XU Xin,MA Lin,4,3,"11,11,5,11,8,9,11|7,9,11,9,11,11,6",SF,GRAND_SLAM,MS,85,Main Draw,XU Xin (CHN),MA Lin (CHN),XU Xin
+World Tour Qatar Open Doha 2012,2012-02-07,XU Xin,WANG Hao,4,3,"11,7,9,4,12,11,12|7,11,11,11,10,5,10",F,GRAND_SLAM,MS,85,Main Draw,XU Xin (CHN),WANG Hao (CHN),XU Xin
+World Tour Qatar Open Doha 2012,2012-02-07,JEOUNG Youngsik,JUMA Hasan,3,0,"11,11,11|6,4,2",R16,GRAND_SLAM,U21MS,85,Main Draw,JEOUNG Youngsik (KOR),JUMA Hasan (BRN),JEOUNG Youngsik
+World Tour Qatar Open Doha 2012,2012-02-07,KARLSSON Mattias,KOSIBA Daniel,3,1,"11,15,11,11|7,13,13,9",R16,GRAND_SLAM,U21MS,85,Main Draw,KARLSSON Mattias (SWE),KOSIBA Daniel (HUN),KARLSSON Mattias
+World Tour Qatar Open Doha 2012,2012-02-07,HUNG Tzu-Hsiang,NUYTINCK Cedric,3,1,"12,11,11,11|14,7,6,5",R16,GRAND_SLAM,U21MS,85,Main Draw,HUNG Tzu-Hsiang (TPE),NUYTINCK Cedric (BEL),HUNG Tzu-Hsiang
+World Tour Qatar Open Doha 2012,2012-02-07,ROBINOT Quentin,KARLSSON Kristian,3,1,"7,11,13,11|11,7,11,8",R16,GRAND_SLAM,U21MS,85,Main Draw,ROBINOT Quentin (FRA),KARLSSON Kristian (SWE),ROBINOT Quentin
+World Tour Qatar Open Doha 2012,2012-02-07,GAUZY Simon,JEAN Lauric,3,0,"11,11,11|7,7,4",R16,GRAND_SLAM,U21MS,85,Main Draw,GAUZY Simon (FRA),JEAN Lauric (BEL),GAUZY Simon
+World Tour Qatar Open Doha 2012,2012-02-07,FLORE Tristan,CHEN Feng,3,0,"11,12,15|4,10,13",R16,GRAND_SLAM,U21MS,85,Main Draw,FLORE Tristan (FRA),CHEN Feng (SGP),FLORE Tristan
+World Tour Qatar Open Doha 2012,2012-02-07,KIM Donghyun,FRANZISKA Patrick,3,1,"11,4,11,14|5,11,6,12",R16,GRAND_SLAM,U21MS,85,Main Draw,KIM Donghyun (KOR),FRANZISKA Patrick (GER),KIM Donghyun
+World Tour Qatar Open Doha 2012,2012-02-07,FLORITZ Philipp,YOSHIMURA Maharu,3,1,"11,13,11,13|6,15,7,11",R16,GRAND_SLAM,U21MS,85,Main Draw,FLORITZ Philipp (BUL),YOSHIMURA Maharu (JPN),FLORITZ Philipp
+World Tour Qatar Open Doha 2012,2012-02-07,KARLSSON Mattias,JEOUNG Youngsik,4,2,"12,11,4,11,4,12|10,6,11,7,11,10",QF,GRAND_SLAM,U21MS,85,Main Draw,KARLSSON Mattias (SWE),JEOUNG Youngsik (KOR),KARLSSON Mattias
+World Tour Qatar Open Doha 2012,2012-02-07,HUNG Tzu-Hsiang,ROBINOT Quentin,4,3,"11,3,11,11,7,8,11|8,11,8,9,11,11,8",QF,GRAND_SLAM,U21MS,85,Main Draw,HUNG Tzu-Hsiang (TPE),ROBINOT Quentin (FRA),HUNG Tzu-Hsiang
+World Tour Qatar Open Doha 2012,2012-02-07,GAUZY Simon,FLORE Tristan,4,1,"11,11,11,8,11|9,8,4,11,9",QF,GRAND_SLAM,U21MS,85,Main Draw,GAUZY Simon (FRA),FLORE Tristan (FRA),GAUZY Simon
+World Tour Qatar Open Doha 2012,2012-02-07,KIM Donghyun,FLORITZ Philipp,4,2,"10,11,9,11,11,11|12,3,11,6,7,5",QF,GRAND_SLAM,U21MS,85,Main Draw,KIM Donghyun (KOR),FLORITZ Philipp (BUL),KIM Donghyun
+World Tour Qatar Open Doha 2012,2012-02-07,HUNG Tzu-Hsiang,KARLSSON Mattias,4,3,"5,9,11,10,11,11,11|11,11,6,12,9,5,9",SF,GRAND_SLAM,U21MS,85,Main Draw,HUNG Tzu-Hsiang (TPE),KARLSSON Mattias (SWE),HUNG Tzu-Hsiang
+World Tour Qatar Open Doha 2012,2012-02-07,GAUZY Simon,KIM Donghyun,4,1,"12,11,11,7,11|10,4,8,11,8",SF,GRAND_SLAM,U21MS,85,Main Draw,GAUZY Simon (FRA),KIM Donghyun (KOR),GAUZY Simon
+World Tour Qatar Open Doha 2012,2012-02-07,GAUZY Simon,HUNG Tzu-Hsiang,4,1,"11,11,9,11,11|6,5,11,4,7",F,GRAND_SLAM,U21MS,85,Main Draw,GAUZY Simon (FRA),HUNG Tzu-Hsiang (TPE),GAUZY Simon
+World Tour Qatar Open Doha 2012,2012-02-07,BOBOCICA Mihai/STOYANOV Niagol,FEGERL Stefan/FENG Xiaoquan,3,2,"9,10,11,11,11|11,12,7,9,9",QR32,GRAND_SLAM,MD,85,Qualification,BOBOCICA Mihai (ITA) / STOYANOV Niagol (ITA),FEGERL Stefan (AUT) / FENG Xiaoquan (AUT),BOBOCICA Mihai
+World Tour Qatar Open Doha 2012,2012-02-07,CHIANG Hung-Chieh/HUANG Sheng-Sheng,LEGOUT Christophe/VOSTES Yannick,3,1,"11,4,12,11|6,11,10,2",QR32,GRAND_SLAM,MD,85,Qualification,CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE),LEGOUT Christophe (FRA) / VOSTES Yannick (BEL),CHIANG Hung-Chieh
+World Tour Qatar Open Doha 2012,2012-02-07,PLATONOV Pavel/SAMSONOV Vladimir,JEAN Lauric/NUYTINCK Cedric,3,2,"12,11,8,8,12|10,7,11,11,10",QR32,GRAND_SLAM,MD,85,Qualification,PLATONOV Pavel (BLR) / SAMSONOV Vladimir (BLR),JEAN Lauric (BEL) / NUYTINCK Cedric (BEL),PLATONOV Pavel
+World Tour Qatar Open Doha 2012,2012-02-07,PLATONOV Pavel/SAMSONOV Vladimir,GERELL Par/PERSSON Jorgen,3,1,"10,11,17,11|12,8,15,9",QR16,GRAND_SLAM,MD,85,Qualification,PLATONOV Pavel (BLR) / SAMSONOV Vladimir (BLR),GERELL Par (SWE) / PERSSON Jorgen (SWE),PLATONOV Pavel
+World Tour Qatar Open Doha 2012,2012-02-07,MA Lin/XU Xin,SHIBAEV Alexander/SKACHKOV Kirill,3,0,"11,11,11|4,7,7",R16,GRAND_SLAM,MD,85,Main Draw,MA Lin (CHN) / XU Xin (CHN),SHIBAEV Alexander (RUS) / SKACHKOV Kirill (RUS),MA Lin
+World Tour Qatar Open Doha 2012,2012-02-07,MA Lin/XU Xin,FLORE Tristan/LEBESSON Emmanuel,4,0,"11,11,11,15|4,9,8,13",QF,GRAND_SLAM,MD,85,Main Draw,MA Lin (CHN) / XU Xin (CHN),FLORE Tristan (FRA) / LEBESSON Emmanuel (FRA),MA Lin
+World Tour Qatar Open Doha 2012,2012-02-07,MA Lin/XU Xin,CHAN Kazuhiro/MATSUDAIRA Kenji,4,0,"11,11,11,11|7,4,8,8",SF,GRAND_SLAM,MD,85,Main Draw,MA Lin (CHN) / XU Xin (CHN),CHAN Kazuhiro (JPN) / MATSUDAIRA Kenji (JPN),MA Lin
+World Tour Qatar Open Doha 2012,2012-02-07,MA Lin/XU Xin,KIM Donghyun/LEE Jungwoo,4,3,"11,5,8,11,11,10,11|9,11,11,8,4,12,2",F,GRAND_SLAM,MD,85,Main Draw,MA Lin (CHN) / XU Xin (CHN),KIM Donghyun (KOR) / LEE Jungwoo (KOR),MA Lin
+World Tour Qatar Open Doha 2012,2012-02-07,CHEN Meng/GU Yuting,POTA Georgina/TOTH Krisztina,3,2,"11,9,11,9,11|8,11,3,11,6",R16,GRAND_SLAM,WD,85,Main Draw,CHEN Meng (CHN) / GU Yuting (CHN),POTA Georgina (HUN) / TOTH Krisztina (HUN),CHEN Meng
+World Tour Qatar Open Doha 2012,2012-02-07,LI Xiaodan/WEN Jia,FENG Tianwei/YU Mengyu,3,0,"11,11,11|6,5,4",R16,GRAND_SLAM,WD,85,Main Draw,LI Xiaodan (CHN) / WEN Jia (CHN),FENG Tianwei (SGP) / YU Mengyu (SGP),LI Xiaodan
+World Tour Qatar Open Doha 2012,2012-02-07,FENG Yalan/YAO Yan,KIM Kyungah/PARK Miyoung,4,2,"10,11,13,11,7,11|12,5,11,8,11,5",QF,GRAND_SLAM,WD,85,Main Draw,FENG Yalan (CHN) / YAO Yan (CHN),KIM Kyungah (KOR) / PARK Miyoung (KOR),FENG Yalan
+World Tour Qatar Open Doha 2012,2012-02-07,LI Xiaodan/WEN Jia,SEOK Hajung/YANG Ha Eun,4,3,"11,9,5,11,11,11,11|5,11,11,9,13,8,5",QF,GRAND_SLAM,WD,85,Main Draw,LI Xiaodan (CHN) / WEN Jia (CHN),SEOK Hajung (KOR) / YANG Ha Eun (KOR),LI Xiaodan
+World Tour Qatar Open Doha 2012,2012-02-07,LI Xiaodan/WEN Jia,CHEN Meng/GU Yuting,4,3,"5,11,4,9,11,11,12|11,8,11,11,5,7,10",SF,GRAND_SLAM,WD,85,Main Draw,LI Xiaodan (CHN) / WEN Jia (CHN),CHEN Meng (CHN) / GU Yuting (CHN),LI Xiaodan
+World Tour Qatar Open Doha 2012,2012-02-07,CHEN Meng/GU Yuting,NOSKOVA Yana/TIKHOMIROVA Anna,3,1,"6,11,13,11|11,4,11,6",QR16,GRAND_SLAM,WD,85,Qualification,CHEN Meng (CHN) / GU Yuting (CHN),NOSKOVA Yana (RUS) / TIKHOMIROVA Anna (RUS),CHEN Meng
+World Tour Qatar Open Doha 2012,2012-02-07,FENG Yalan/YAO Yan,EKHOLM Matilda/RAMIREZ Sara,3,0,"11,11,11|9,9,9",R16,GRAND_SLAM,WD,85,Main Draw,FENG Yalan (CHN) / YAO Yan (CHN),EKHOLM Matilda (SWE) / RAMIREZ Sara (ESP),FENG Yalan
+World Tour Qatar Open Doha 2012,2012-02-07,FLORE Tristan/LEBESSON Emmanuel,JIANG Tianyi/TANG Peng,3,2,"10,11,11,8,11|12,9,6,11,7",R16,GRAND_SLAM,MD,85,Main Draw,FLORE Tristan (FRA) / LEBESSON Emmanuel (FRA),JIANG Tianyi (HKG) / TANG Peng (HKG),FLORE Tristan
+World Tour Qatar Open Doha 2012,2012-02-07,GAUZY Simon/ROBINOT Quentin,KARLSSON Kristian/KARLSSON Mattias,3,1,"8,11,13,11|11,9,11,9",QR32,GRAND_SLAM,MD,85,Qualification,GAUZY Simon (FRA) / ROBINOT Quentin (FRA),KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),GAUZY Simon
+World Tour Qatar Open Doha 2012,2012-02-07,FLORE Tristan/LEBESSON Emmanuel,LIVENTSOV Alexey/PAIKOV Mikhail,3,1,"6,11,12,11|11,8,10,2",QR32,GRAND_SLAM,MD,85,Qualification,FLORE Tristan (FRA) / LEBESSON Emmanuel (FRA),LIVENTSOV Alexey (RUS) / PAIKOV Mikhail (RUS),FLORE Tristan
+World Tour Qatar Open Doha 2012,2012-02-07,FLORE Tristan/LEBESSON Emmanuel,MATSUDAIRA Kenta/YOSHIMURA Maharu,3,0,"11,11,12|5,6,10",QR16,GRAND_SLAM,MD,85,Qualification,FLORE Tristan (FRA) / LEBESSON Emmanuel (FRA),MATSUDAIRA Kenta (JPN) / YOSHIMURA Maharu (JPN),FLORE Tristan
+World Tour Qatar Open Doha 2012,2012-02-07,GRUNDISCH Carole/LI Xue,MIKHAILOVA Polina/TAN Wenling,3,2,"6,7,11,11,11|11,11,6,8,5",QR16,GRAND_SLAM,WD,85,Qualification,GRUNDISCH Carole (FRA) / LI Xue (FRA),MIKHAILOVA Polina (RUS) / TAN Wenling (ITA),GRUNDISCH Carole
+World Tour Qatar Open Doha 2012,2012-02-07,SEOK Hajung/YANG Ha Eun,BARTHEL Zhenqi/WINTER Sabine,3,0,"11,12,11|7,10,9",R16,GRAND_SLAM,WD,85,Main Draw,SEOK Hajung (KOR) / YANG Ha Eun (KOR),BARTHEL Zhenqi (GER) / WINTER Sabine (GER),SEOK Hajung
+World Tour Qatar Open Doha 2012,2012-02-07,GARDOS Robert/HABESOHN Daniel,CHEUNG Yuk/LEUNG Chu Yan,4,2,"12,11,11,11,9,11|10,7,13,9,11,8",QF,GRAND_SLAM,MD,85,Main Draw,GARDOS Robert (AUT) / HABESOHN Daniel (AUT),CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),GARDOS Robert
+World Tour Qatar Open Doha 2012,2012-02-07,JIANG Huajun/LEE Ho Ching,GRZYBOWSKA-FRANC Katarzyna/PARTYKA Natalia,3,0,"13,11,12|11,5,10",R16,GRAND_SLAM,WD,85,Main Draw,JIANG Huajun (HKG) / LEE Ho Ching (HKG),GRZYBOWSKA-FRANC Katarzyna (POL) / PARTYKA Natalia (POL),JIANG Huajun
+World Tour Qatar Open Doha 2012,2012-02-07,CHEN Meng/GU Yuting,JIANG Huajun/LEE Ho Ching,4,1,"11,10,11,11,11|5,12,6,9,5",QF,GRAND_SLAM,WD,85,Main Draw,CHEN Meng (CHN) / GU Yuting (CHN),JIANG Huajun (HKG) / LEE Ho Ching (HKG),CHEN Meng
+World Tour Qatar Open Doha 2012,2012-02-07,CHEUNG Yuk/LEUNG Chu Yan,KOSIBA Daniel/LAKATOS Tamas,3,0,"11,11,14|3,2,12",QR32,GRAND_SLAM,MD,85,Qualification,CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),KOSIBA Daniel (HUN) / LAKATOS Tamas (HUN),CHEUNG Yuk
+World Tour Qatar Open Doha 2012,2012-02-07,CHEUNG Yuk/LEUNG Chu Yan,BUHIJJI Hamad/BUSHELAIBI Mohamed,3,1,"11,11,9,14|2,8,11,12",QR16,GRAND_SLAM,MD,85,Qualification,CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),BUHIJJI Hamad (BRN) / BUSHELAIBI Mohamed (BRN),CHEUNG Yuk
+World Tour Qatar Open Doha 2012,2012-02-07,BARTHEL Zhenqi/WINTER Sabine,GUAN Mengyuan/YU Kwok See,3,1,"10,11,12,11|12,6,10,3",QR16,GRAND_SLAM,WD,85,Qualification,BARTHEL Zhenqi (GER) / WINTER Sabine (GER),GUAN Mengyuan (HKG) / YU Kwok See (HKG),BARTHEL Zhenqi
+World Tour Qatar Open Doha 2012,2012-02-07,GAO Ning/LI Hu,MORICZ Mate/PATTANTYUS Adam,3,1,"11,10,11,11|9,12,5,3",QR16,GRAND_SLAM,MD,85,Qualification,GAO Ning (SGP) / LI Hu (SGP),MORICZ Mate (HUN) / PATTANTYUS Adam (HUN),GAO Ning
+World Tour Qatar Open Doha 2012,2012-02-07,CHEN Meng/GU Yuting,AMBRUS Krisztina/LOVAS Petra,3,0,"11,11,12,0|5,3,10,0",QR32,GRAND_SLAM,WD,85,Qualification,CHEN Meng (CHN) / GU Yuting (CHN),AMBRUS Krisztina (HUN) / LOVAS Petra (HUN),CHEN Meng
+World Tour Qatar Open Doha 2012,2012-02-07,CHIANG Hung-Chieh/HUANG Sheng-Sheng,BOBOCICA Mihai/STOYANOV Niagol,3,2,"13,3,11,11,11|11,11,6,13,5",QR16,GRAND_SLAM,MD,85,Qualification,CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE),BOBOCICA Mihai (ITA) / STOYANOV Niagol (ITA),CHIANG Hung-Chieh
+World Tour Qatar Open Doha 2012,2012-02-07,KISHIKAWA Seiya/NIWA Koki,PLATONOV Pavel/SAMSONOV Vladimir,3,0,"11,11,11|7,4,7",R16,GRAND_SLAM,MD,85,Main Draw,KISHIKAWA Seiya (JPN) / NIWA Koki (JPN),PLATONOV Pavel (BLR) / SAMSONOV Vladimir (BLR),KISHIKAWA Seiya
+World Tour Qatar Open Doha 2012,2012-02-07,CHAN Kazuhiro/MATSUDAIRA Kenji,KISHIKAWA Seiya/NIWA Koki,4,1,"14,11,7,11,11|12,6,11,9,7",QF,GRAND_SLAM,MD,85,Main Draw,CHAN Kazuhiro (JPN) / MATSUDAIRA Kenji (JPN),KISHIKAWA Seiya (JPN) / NIWA Koki (JPN),CHAN Kazuhiro
+World Tour Qatar Open Doha 2012,2012-02-07,KIM Kyungah/PARK Miyoung,FUKUHARA Ai/HIRANO Sayaka,3,0,"11,11,11|7,8,8",R16,GRAND_SLAM,WD,85,Main Draw,KIM Kyungah (KOR) / PARK Miyoung (KOR),FUKUHARA Ai (JPN) / HIRANO Sayaka (JPN),KIM Kyungah
+World Tour Qatar Open Doha 2012,2012-02-07,KIM Donghyun/LEE Jungwoo,YANG Zi/ZHAN Jian,3,2,"10,11,6,11,11|12,5,11,9,8",R16,GRAND_SLAM,MD,85,Main Draw,KIM Donghyun (KOR) / LEE Jungwoo (KOR),YANG Zi (SGP) / ZHAN Jian (SGP),KIM Donghyun
+World Tour Qatar Open Doha 2012,2012-02-07,CHEUNG Yuk/LEUNG Chu Yan,OH Sangeun/RYU Seungmin,3,0,"15,11,11|13,5,6",R16,GRAND_SLAM,MD,85,Main Draw,CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),OH Sangeun (KOR) / RYU Seungmin (KOR),CHEUNG Yuk
+World Tour Qatar Open Doha 2012,2012-02-07,KIM Donghyun/LEE Jungwoo,GARDOS Robert/HABESOHN Daniel,4,2,"10,9,12,11,11,11|12,11,10,7,9,7",SF,GRAND_SLAM,MD,85,Main Draw,KIM Donghyun (KOR) / LEE Jungwoo (KOR),GARDOS Robert (AUT) / HABESOHN Daniel (AUT),KIM Donghyun
+World Tour Qatar Open Doha 2012,2012-02-07,MORICZ Mate/PATTANTYUS Adam,JOO Saehyuk/JEOUNG Youngsik,3,0,"11,13,13|6,11,11",QR32,GRAND_SLAM,MD,85,Qualification,MORICZ Mate (HUN) / PATTANTYUS Adam (HUN),JOO Saehyuk (KOR) / JEOUNG Youngsik (KOR),MORICZ Mate
+World Tour Qatar Open Doha 2012,2012-02-07,GERELL Par/PERSSON Jorgen,AL-HASAN Ibrahem/AL-HASAN Salem,3,0,"11,11,11|7,3,3",QR32,GRAND_SLAM,MD,85,Qualification,GERELL Par (SWE) / PERSSON Jorgen (SWE),AL-HASAN Ibrahem (KUW) / AL-HASAN Salem (KUW),GERELL Par
+World Tour Qatar Open Doha 2012,2012-02-07,GAO Ning/LI Hu,EL HAKIM Rock/MOUMJOGHLIAN Avo,3,0,"11,11,11|5,9,5",QR32,GRAND_SLAM,MD,85,Qualification,GAO Ning (SGP) / LI Hu (SGP),EL HAKIM Rock (LBN) / MOUMJOGHLIAN Avo (LBN),GAO Ning
+World Tour Qatar Open Doha 2012,2012-02-07,MATSUDAIRA Kenta/YOSHIMURA Maharu,CHTCHETININE Evgueni/KOSOWSKI Jakub,3,1,"11,12,4,11|3,10,11,7",QR32,GRAND_SLAM,MD,85,Qualification,MATSUDAIRA Kenta (JPN) / YOSHIMURA Maharu (JPN),CHTCHETININE Evgueni (BLR) / KOSOWSKI Jakub (POL),MATSUDAIRA Kenta
+World Tour Qatar Open Doha 2012,2012-02-07,GRZYBOWSKA-FRANC Katarzyna/PARTYKA Natalia,IVANCAN Irene/LANG Kristin,3,0,"11,11,11|7,5,7",QR16,GRAND_SLAM,WD,85,Qualification,GRZYBOWSKA-FRANC Katarzyna (POL) / PARTYKA Natalia (POL),IVANCAN Irene (GER) / LANG Kristin (GER),GRZYBOWSKA-FRANC Katarzyna
+World Tour Qatar Open Doha 2012,2012-02-07,APOLONIA Tiago/MONTEIRO Joao,AL-MOHANNADI Ahmad Khalil/ALMUGHANNE Fahed,3,0,"11,11,11|2,3,2",QR32,GRAND_SLAM,MD,85,Qualification,APOLONIA Tiago (POR) / MONTEIRO Joao (POR),AL-MOHANNADI Ahmad Khalil (QAT) / ALMUGHANNE Fahed (QAT),APOLONIA Tiago
+World Tour Qatar Open Doha 2012,2012-02-07,APOLONIA Tiago/MONTEIRO Joao,GAUZY Simon/ROBINOT Quentin,3,1,"11,6,11,11|8,11,7,5",QR16,GRAND_SLAM,MD,85,Qualification,APOLONIA Tiago (POR) / MONTEIRO Joao (POR),GAUZY Simon (FRA) / ROBINOT Quentin (FRA),APOLONIA Tiago
+World Tour Qatar Open Doha 2012,2012-02-07,JEAN Lauric/NUYTINCK Cedric,AL-NAGGAR Abdulrahman/AL-SANADI Jassim,3,0,"11,11,11|9,1,9",QR64,GRAND_SLAM,MD,85,Qualification,JEAN Lauric (BEL) / NUYTINCK Cedric (BEL),AL-NAGGAR Abdulrahman (QAT) / AL-SANADI Jassim (QAT),JEAN Lauric
+World Tour Qatar Open Doha 2012,2012-02-07,KUZMIN Fedor/RUBTSOV Igor,CHEN Feng/PANG Xue Jie,3,2,"5,7,15,11,11|11,11,13,7,9",QR32,GRAND_SLAM,MD,85,Qualification,KUZMIN Fedor (RUS) / RUBTSOV Igor (RUS),CHEN Feng (SGP) / PANG Xue Jie (SGP),KUZMIN Fedor
+World Tour Qatar Open Doha 2012,2012-02-07,SHIBAEV Alexander/SKACHKOV Kirill,PRIMORAC Zoran/TOKIC Bojan,3,0,"11,11,11|8,5,6",QR32,GRAND_SLAM,MD,85,Qualification,SHIBAEV Alexander (RUS) / SKACHKOV Kirill (RUS),PRIMORAC Zoran (CRO) / TOKIC Bojan (SLO),SHIBAEV Alexander
+World Tour Qatar Open Doha 2012,2012-02-07,KIM Donghyun/LEE Jungwoo,KUZMIN Fedor/RUBTSOV Igor,3,1,"11,8,12,11|7,11,10,9",QR16,GRAND_SLAM,MD,85,Qualification,KIM Donghyun (KOR) / LEE Jungwoo (KOR),KUZMIN Fedor (RUS) / RUBTSOV Igor (RUS),KIM Donghyun
+World Tour Qatar Open Doha 2012,2012-02-07,SHIBAEV Alexander/SKACHKOV Kirill,LUNDQVIST Jens/SVENSSON Robert,3,1,"12,11,6,11|10,4,11,8",QR16,GRAND_SLAM,MD,85,Qualification,SHIBAEV Alexander (RUS) / SKACHKOV Kirill (RUS),LUNDQVIST Jens (SWE) / SVENSSON Robert (SWE),SHIBAEV Alexander
+World Tour Qatar Open Doha 2012,2012-02-07,BILENKO Tetyana/FADEEVA Oxana,AL ABRI Noora/AL-HAMAD Hissa,3,0,"11,11,11|2,3,1",QR32,GRAND_SLAM,WD,85,Qualification,BILENKO Tetyana (UKR) / FADEEVA Oxana (RUS),AL ABRI Noora (QAT) / AL-HAMAD Hissa (QAT),BILENKO Tetyana
+World Tour Qatar Open Doha 2012,2012-02-07,FENG Yalan/YAO Yan,BILENKO Tetyana/FADEEVA Oxana,3,1,"5,11,11,11|11,3,7,9",QR16,GRAND_SLAM,WD,85,Qualification,FENG Yalan (CHN) / YAO Yan (CHN),BILENKO Tetyana (UKR) / FADEEVA Oxana (RUS),FENG Yalan
+World Tour Qatar Open Doha 2012,2012-02-07,LI Jiawei/SUN Beibei,NG Wing Nam/TIE Yana,3,0,"11,11,11|8,8,7",R16,GRAND_SLAM,WD,85,Main Draw,LI Jiawei (SGP) / SUN Beibei (SGP),NG Wing Nam (HKG) / TIE Yana (HKG),LI Jiawei
+World Tour Qatar Open Doha 2012,2012-02-07,LI Jiawei/SUN Beibei,FENG Yalan/YAO Yan,4,0,"11,11,11,11|8,8,7,8",SF,GRAND_SLAM,WD,85,Main Draw,LI Jiawei (SGP) / SUN Beibei (SGP),FENG Yalan (CHN) / YAO Yan (CHN),LI Jiawei
+World Tour Qatar Open Doha 2012,2012-02-07,LI Xiaodan/WEN Jia,LI Jiawei/SUN Beibei,4,1,"7,11,11,11,11|11,6,8,8,5",F,GRAND_SLAM,WD,85,Main Draw,LI Xiaodan (CHN) / WEN Jia (CHN),LI Jiawei (SGP) / SUN Beibei (SGP),LI Xiaodan
+World Tour Qatar Open Doha 2012,2012-02-07,LI Jiawei/SUN Beibei,CECHOVA Dana/VACENOVSKA Iveta,3,0,"11,11,11,0|8,2,3,0",QR16,GRAND_SLAM,WD,85,Qualification,LI Jiawei (SGP) / SUN Beibei (SGP),CECHOVA Dana (CZE) / VACENOVSKA Iveta (CZE),LI Jiawei
+World Tour Qatar Open Doha 2012,2012-02-07,FENG Tianwei/YU Mengyu,DANG Yeseo/LEE Dasom,3,2,"9,7,11,11,12|11,11,9,4,10",QR16,GRAND_SLAM,WD,85,Qualification,FENG Tianwei (SGP) / YU Mengyu (SGP),DANG Yeseo (KOR) / LEE Dasom (KOR),FENG Tianwei
+World Tour Qatar Open Doha 2012,2012-02-07,CHUANG Chih-Yuan/WU Chih-Chi,GAO Ning/LI Hu,3,2,"11,10,11,10,11|7,12,9,12,4",R16,GRAND_SLAM,MD,85,Main Draw,CHUANG Chih-Yuan (TPE) / WU Chih-Chi (TPE),GAO Ning (SGP) / LI Hu (SGP),CHUANG Chih-Yuan
+World Tour Qatar Open Doha 2012,2012-02-07,GARDOS Robert/HABESOHN Daniel,CHIANG Hung-Chieh/HUANG Sheng-Sheng,3,0,"11,11,13|8,9,11",R16,GRAND_SLAM,MD,85,Main Draw,GARDOS Robert (AUT) / HABESOHN Daniel (AUT),CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE),GARDOS Robert
+World Tour Qatar Open Doha 2012,2012-02-07,KIM Donghyun/LEE Jungwoo,CHUANG Chih-Yuan/WU Chih-Chi,4,0,"12,11,11,11|10,8,7,4",QF,GRAND_SLAM,MD,85,Main Draw,KIM Donghyun (KOR) / LEE Jungwoo (KOR),CHUANG Chih-Yuan (TPE) / WU Chih-Chi (TPE),KIM Donghyun
+World Tour Qatar Open Doha 2012,2012-02-07,CHENG I-Ching/HUANG Yi-Hua,GRUNDISCH Carole/LI Xue,3,1,"11,11,5,11|7,2,11,7",R16,GRAND_SLAM,WD,85,Main Draw,CHENG I-Ching (TPE) / HUANG Yi-Hua (TPE),GRUNDISCH Carole (FRA) / LI Xue (FRA),CHENG I-Ching
+World Tour Qatar Open Doha 2012,2012-02-07,LI Jiawei/SUN Beibei,CHENG I-Ching/HUANG Yi-Hua,4,1,"11,11,3,11,11|9,8,11,6,7",QF,GRAND_SLAM,WD,85,Main Draw,LI Jiawei (SGP) / SUN Beibei (SGP),CHENG I-Ching (TPE) / HUANG Yi-Hua (TPE),LI Jiawei
+World Tour Qatar Open Doha 2012,2012-02-07,CHENG Hsien-Tzu/CHEN Szu-Yu,FARAMARZI Maha/MOHAMED Aia,3,0,"11,11,11|4,3,6",QR32,GRAND_SLAM,WD,85,Qualification,CHENG Hsien-Tzu (TPE) / CHEN Szu-Yu (TPE),FARAMARZI Maha (QAT) / MOHAMED Aia (QAT),CHENG Hsien-Tzu
+World Tour Qatar Open Doha 2012,2012-02-07,FUKUHARA Ai/HIRANO Sayaka,CHENG Hsien-Tzu/CHEN Szu-Yu,3,2,"12,11,6,7,11|10,5,11,11,1",QR16,GRAND_SLAM,WD,85,Qualification,FUKUHARA Ai (JPN) / HIRANO Sayaka (JPN),CHENG Hsien-Tzu (TPE) / CHEN Szu-Yu (TPE),FUKUHARA Ai
+World Tour Qatar Open Doha 2012,2012-02-07,DIDUKH Oleksandr/ZHMUDENKO Yaroslav,ALMAJED Rashed/JUMA Hasan,3,0,"11,11,11|2,6,3",QR64,GRAND_SLAM,MD,85,Qualification,DIDUKH Oleksandr (UKR) / ZHMUDENKO Yaroslav (UKR),ALMAJED Rashed (BRN) / JUMA Hasan (BRN),DIDUKH Oleksandr
+World Tour Qatar Open Doha 2012,2012-02-07,KIM Donghyun/LEE Jungwoo,DIDUKH Oleksandr/ZHMUDENKO Yaroslav,3,2,"11,8,10,12,11|6,11,12,10,3",QR32,GRAND_SLAM,MD,85,Qualification,KIM Donghyun (KOR) / LEE Jungwoo (KOR),DIDUKH Oleksandr (UKR) / ZHMUDENKO Yaroslav (UKR),KIM Donghyun
+World Tour Qatar Open Doha 2012,2012-02-07,KARLSSON Kristian/KARLSSON Mattias,ALI Omar/AL-QERSHI Wael,3,0,"11,11,11|5,5,7",QR64,GRAND_SLAM,MD,85,Qualification,KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),ALI Omar (YEM) / AL-QERSHI Wael (YEM),KARLSSON Kristian

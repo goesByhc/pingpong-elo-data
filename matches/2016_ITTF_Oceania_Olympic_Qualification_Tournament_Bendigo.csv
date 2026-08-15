@@ -1,11 +1,11 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-ITTF Oceania Olympic Qualification Tournament Bendigo 2016,2016-03-22,FREDDY Choy,RESTURE Alex,4,0,"11,11,11,11|4,7,8,6",QR8,OLYMPICS,MS,166,Qualification,FREDDY Choy (KIR),RESTURE Alex (TUV)
-ITTF Oceania Olympic Qualification Tournament Bendigo 2016,2016-03-22,LIU Tengteng,SHING Yoshua,4,0,"13,11,11,12|11,7,9,10",QR8,OLYMPICS,MS,166,Qualification,LIU Tengteng (NZL),SHING Yoshua (VAN)
-ITTF Oceania Olympic Qualification Tournament Bendigo 2016,2016-03-22,POWELL David,YAN Xin,4,3,"6,11,11,11,3,9,11|11,8,6,7,11,11,9",QR8,OLYMPICS,MS,166,Qualification,YAN Xin (AUS),POWELL David (AUS)
-ITTF Oceania Olympic Qualification Tournament Bendigo 2016,2016-03-22,YEE Grace Rosi,YEE Sally,4,2,"13,14,11,4,4,11|11,12,8,11,11,8",QR8,OLYMPICS,WS,166,Qualification,YEE Grace Rosi (FIJ),YEE Sally (FIJ)
-ITTF Oceania Olympic Qualification Tournament Bendigo 2016,2016-03-22,LAY Jian Fang,TAPPER Melissa,4,1,"11,11,11,6,11|2,7,8,11,6",QR8,OLYMPICS,WS,166,Qualification,LAY Jian Fang (AUS),TAPPER Melissa (AUS)
-ITTF Oceania Olympic Qualification Tournament Bendigo 2016,2016-03-22,YEE Sally,RESTURE Kaimalie,4,0,"11,11,11,11|3,7,4,6",QF,OLYMPICS,WS,166,Main Draw,YEE Sally (FIJ),RESTURE Kaimalie (TUV)
-ITTF Oceania Olympic Qualification Tournament Bendigo 2016,2016-03-22,TAPPER Melissa,YEE Grace Rosi,4,0,"11,11,11,11|2,3,4,7",QF,OLYMPICS,WS,166,Main Draw,TAPPER Melissa (AUS),YEE Grace Rosi (FIJ)
-ITTF Oceania Olympic Qualification Tournament Bendigo 2016,2016-03-22,YEE Sally,YEE Grace Rosi,4,0,"11,11,14,12|7,7,12,10",QF,OLYMPICS,WS,166,Main Draw,YEE Grace Rosi (FIJ),YEE Sally (FIJ)
-ITTF Oceania Olympic Qualification Tournament Bendigo 2016,2016-03-22,SHING Yoshua,FREDDY Choy,4,1,"13,11,7,11,12|11,5,11,9,10",QF,OLYMPICS,MS,166,Main Draw,SHING Yoshua (VAN),FREDDY Choy (KIR)
-ITTF Oceania Olympic Qualification Tournament Bendigo 2016,2016-03-22,YAN Xin,LIU Tengteng,4,0,"11,11,11,11|7,4,8,7",QF,OLYMPICS,MS,166,Main Draw,YAN Xin (AUS),LIU Tengteng (NZL)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+ITTF Oceania Olympic Qualification Tournament Bendigo 2016,2016-03-22,FREDDY Choy,RESTURE Alex,4,0,"11,11,11,11|4,7,8,6",QR8,OLYMPICS,MS,166,Qualification,FREDDY Choy (KIR),RESTURE Alex (TUV),FREDDY Choy
+ITTF Oceania Olympic Qualification Tournament Bendigo 2016,2016-03-22,LIU Tengteng,SHING Yoshua,4,0,"13,11,11,12|11,7,9,10",QR8,OLYMPICS,MS,166,Qualification,LIU Tengteng (NZL),SHING Yoshua (VAN),LIU Tengteng
+ITTF Oceania Olympic Qualification Tournament Bendigo 2016,2016-03-22,POWELL David,YAN Xin,4,3,"6,11,11,11,3,9,11|11,8,6,7,11,11,9",QR8,OLYMPICS,MS,166,Qualification,YAN Xin (AUS),POWELL David (AUS),POWELL David
+ITTF Oceania Olympic Qualification Tournament Bendigo 2016,2016-03-22,YEE Grace Rosi,YEE Sally,4,2,"13,14,11,4,4,11|11,12,8,11,11,8",QR8,OLYMPICS,WS,166,Qualification,YEE Grace Rosi (FIJ),YEE Sally (FIJ),YEE Grace Rosi
+ITTF Oceania Olympic Qualification Tournament Bendigo 2016,2016-03-22,LAY Jian Fang,TAPPER Melissa,4,1,"11,11,11,6,11|2,7,8,11,6",QR8,OLYMPICS,WS,166,Qualification,LAY Jian Fang (AUS),TAPPER Melissa (AUS),LAY Jian Fang
+ITTF Oceania Olympic Qualification Tournament Bendigo 2016,2016-03-22,YEE Sally,RESTURE Kaimalie,4,0,"11,11,11,11|3,7,4,6",QF,OLYMPICS,WS,166,Main Draw,YEE Sally (FIJ),RESTURE Kaimalie (TUV),YEE Sally
+ITTF Oceania Olympic Qualification Tournament Bendigo 2016,2016-03-22,TAPPER Melissa,YEE Grace Rosi,4,0,"11,11,11,11|2,3,4,7",QF,OLYMPICS,WS,166,Main Draw,TAPPER Melissa (AUS),YEE Grace Rosi (FIJ),TAPPER Melissa
+ITTF Oceania Olympic Qualification Tournament Bendigo 2016,2016-03-22,YEE Sally,YEE Grace Rosi,4,0,"11,11,14,12|7,7,12,10",QF,OLYMPICS,WS,166,Main Draw,YEE Grace Rosi (FIJ),YEE Sally (FIJ),YEE Sally
+ITTF Oceania Olympic Qualification Tournament Bendigo 2016,2016-03-22,SHING Yoshua,FREDDY Choy,4,1,"13,11,7,11,12|11,5,11,9,10",QF,OLYMPICS,MS,166,Main Draw,SHING Yoshua (VAN),FREDDY Choy (KIR),SHING Yoshua
+ITTF Oceania Olympic Qualification Tournament Bendigo 2016,2016-03-22,YAN Xin,LIU Tengteng,4,0,"11,11,11,11|7,4,8,7",QF,OLYMPICS,MS,166,Main Draw,YAN Xin (AUS),LIU Tengteng (NZL),YAN Xin

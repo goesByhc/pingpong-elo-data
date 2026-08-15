@@ -1,275 +1,275 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-United States Smash 2026,2026-06-26,ZAHARIA Elena,MONFARDINI Gaia,3,2,"11,9,9,11,11|9,11,11,7,7",QR2,GRAND_SLAM,WS,3242,Qualification,ZAHARIA Elena (ROU),MONFARDINI Gaia (ITA)
-United States Smash 2026,2026-06-26,YANG Xiaoxin,ORTEGA Daniela,3,1,"8,11,11,11|11,8,5,6",QR2,GRAND_SLAM,WS,3242,Qualification,YANG Xiaoxin (MON),ORTEGA Daniela (CHI)
-United States Smash 2026,2026-06-26,GACINA Andrej,KUMAR Nikhil,3,1,"9,11,11,12|11,9,5,10",QR2,GRAND_SLAM,MS,3242,Qualification,GACINA Andrej (CRO),KUMAR Nikhil (USA)
-United States Smash 2026,2026-06-26,BERTELSMEIER Andre,KARLSSON Mattias,3,2,"8,12,11,9,11|11,10,8,11,7",QR2,GRAND_SLAM,MS,3242,Qualification,BERTELSMEIER Andre (GER),KARLSSON Mattias (SWE)
-United States Smash 2026,2026-06-26,ANDRAS Csaba,APOLONIA Tiago,3,1,"10,11,12,11|12,4,10,7",QR2,GRAND_SLAM,MS,3242,Qualification,ANDRAS Csaba (HUN),APOLONIA Tiago (POR)
-United States Smash 2026,2026-06-26,PICCOLIN Giorgia,MUKHERJEE Sutirtha,3,2,"11,11,7,9,11|5,5,11,11,4",QR2,GRAND_SLAM,WS,3242,Qualification,PICCOLIN Giorgia (ITA),MUKHERJEE Sutirtha (IND)
-United States Smash 2026,2026-06-26,NG Wing Lam,LUPULESKU Izabela,3,0,"11,11,11|9,8,8",QR2,GRAND_SLAM,WS,3242,Qualification,NG Wing Lam (HKG),LUPULESKU Izabela (SRB)
-United States Smash 2026,2026-06-26,GHORPADE Yashaswini,SURJAN Sabina,3,1,"11,11,9,11|6,6,11,8",QR2,GRAND_SLAM,WS,3242,Qualification,GHORPADE Yashaswini (IND),SURJAN Sabina (SRB)
-United States Smash 2026,2026-06-26,FENG Yi-Hsin,TEODORO Guilherme,3,1,"13,8,11,11|11,11,7,8",QR2,GRAND_SLAM,MS,3242,Qualification,FENG Yi-Hsin (TPE),TEODORO Guilherme (BRA)
-United States Smash 2026,2026-06-26,HUANG Youzheng,OYEBODE John,3,0,"11,12,11|5,10,9",QR2,GRAND_SLAM,MS,3242,Qualification,HUANG Youzheng (CHN),OYEBODE John (ITA)
-United States Smash 2026,2026-06-26,CHAN Baldwin,WANG Eugene,3,1,"17,11,11,11|15,8,13,6",QR2,GRAND_SLAM,MS,3242,Qualification,CHAN Baldwin (HKG),WANG Eugene (CAN)
-United States Smash 2026,2026-06-26,ZARIF Audrey,JEE Minhyung,3,1,"11,8,11,11|3,11,9,7",QR2,GRAND_SLAM,WS,3242,Qualification,ZARIF Audrey (FRA),JEE Minhyung (AUS)
-United States Smash 2026,2026-06-26,DE NUTTE Sarah,LUTZ Camille,3,1,"14,7,13,11|12,11,11,8",QR2,GRAND_SLAM,WS,3242,Qualification,DE NUTTE Sarah (LUX),LUTZ Camille (FRA)
-United States Smash 2026,2026-06-26,RANEFUR Elias,BURGOS Nicolas,3,0,"11,11,11|4,4,6",QR2,GRAND_SLAM,MS,3242,Qualification,RANEFUR Elias (SWE),BURGOS Nicolas (CHI)
-United States Smash 2026,2026-06-26,LIM Jonghoon,LIAO Cheng-Ting,3,1,"14,11,12,11|12,13,10,7",QR2,GRAND_SLAM,MS,3242,Qualification,LIM Jonghoon (KOR),LIAO Cheng-Ting (TPE)
-United States Smash 2026,2026-06-26,SHAN Xiaona,ZHANG Sofia-Xuan,3,1,"6,13,12,11|11,11,10,8",QR2,GRAND_SLAM,WS,3242,Qualification,SHAN Xiaona (GER),ZHANG Sofia-Xuan (ESP)
-United States Smash 2026,2026-06-26,CIFUENTES Horacio,LY Edward,3,1,"11,8,11,11|7,11,4,9",QR1,GRAND_SLAM,MS,3242,Qualification,CIFUENTES Horacio (ARG),LY Edward (CAN)
-United States Smash 2026,2026-06-26,PSIHOGIOS Constantina,CHEN Hildy,3,0,"11,11,11|7,7,5",QR1,GRAND_SLAM,WS,3242,Qualification,PSIHOGIOS Constantina (AUS),CHEN Hildy (USA)
-United States Smash 2026,2026-06-26,APOLONIA Tiago,LUO Alex,3,0,"11,11,11|1,4,7",QR1,GRAND_SLAM,MS,3242,Qualification,APOLONIA Tiago (POR),LUO Alex (USA)
-United States Smash 2026,2026-06-26,CHANG Yu-An,BATIX Ylane,3,2,"8,11,11,7,11|11,7,7,11,3",QR1,GRAND_SLAM,MS,3242,Qualification,CHANG Yu-An (TPE),BATIX Ylane (CMR)
-United States Smash 2026,2026-06-26,VARADY Barbora,WANG Ke,3,0,"11,11,11|9,6,6",QR1,GRAND_SLAM,WS,3242,Qualification,VARADY Barbora (SVK),WANG Ke (USA)
-United States Smash 2026,2026-06-26,ORTEGA Daniela,ASPATHI Satya,3,2,"11,11,7,5,11|6,8,11,11,6",QR1,GRAND_SLAM,WS,3242,Qualification,ORTEGA Daniela (CHI),ASPATHI Satya (USA)
-United States Smash 2026,2026-06-26,IONESCU Ovidiu,NARESH Sid,3,1,"11,9,11,11|4,11,5,8",QR1,GRAND_SLAM,MS,3242,Qualification,IONESCU Ovidiu (ROU),NARESH Sid (USA)
-United States Smash 2026,2026-06-26,BERGAND Filippa,ARAPOVIC Hana,3,1,"11,5,11,11|7,11,7,9",QR1,GRAND_SLAM,WS,3242,Qualification,BERGAND Filippa (SWE),ARAPOVIC Hana (CRO)
-United States Smash 2026,2026-06-26,KUMAR Nikhil,LAM Siu Hang,3,1,"9,11,14,13|11,7,12,11",QR1,GRAND_SLAM,MS,3242,Qualification,KUMAR Nikhil (USA),LAM Siu Hang (HKG)
-United States Smash 2026,2026-06-26,KUKULKOVA Tatiana,DIACONU Adina,3,1,"11,5,13,12|7,11,11,10",QR1,GRAND_SLAM,WS,3242,Qualification,KUKULKOVA Tatiana (SVK),DIACONU Adina (ROU)
-United States Smash 2026,2026-06-26,ALLEGRO Martin,CASTRO Rogelio,3,1,"13,11,8,11|11,8,11,9",QR1,GRAND_SLAM,MS,3242,Qualification,ALLEGRO Martin (BEL),CASTRO Rogelio (MEX)
-United States Smash 2026,2026-06-26,TAN Zhao Yun,WU Jiamuwa,3,0,"11,11,11|5,4,5",QR1,GRAND_SLAM,WS,3242,Qualification,TAN Zhao Yun (SGP),WU Jiamuwa (AUS)
-United States Smash 2026,2026-06-26,KOZUL Deni,QUEK Izaac,3,0,"11,11,11|6,9,6",QR1,GRAND_SLAM,MS,3242,Qualification,KOZUL Deni (SLO),QUEK Izaac (SGP)
-United States Smash 2026,2026-06-26,IIZUKA Leonardo,SALIFOU Abdel-Kader,3,0,"11,11,16|8,9,14",QR1,GRAND_SLAM,MS,3242,Qualification,IIZUKA Leonardo (BRA),SALIFOU Abdel-Kader (BEN)
-United States Smash 2026,2026-06-26,ALTINKAYA Sibel,TAKAHASHI Giulia,3,0,"11,12,11|7,10,5",QR1,GRAND_SLAM,WS,3242,Qualification,ALTINKAYA Sibel (TUR),TAKAHASHI Giulia (BRA)
-United States Smash 2026,2026-06-26,AKASHEVA Zauresh,KALLBERG Christina,3,2,"11,3,5,13,11|9,11,11,11,3",QR1,GRAND_SLAM,WS,3242,Qualification,AKASHEVA Zauresh (KAZ),KALLBERG Christina (SWE)
-United States Smash 2026,2026-06-26,CHIRITA Iulian,NUYTINCK Cedric,3,2,"11,11,6,9,11|7,6,11,11,4",QR1,GRAND_SLAM,MS,3242,Qualification,CHIRITA Iulian (ROU),NUYTINCK Cedric (BEL)
-United States Smash 2026,2026-06-26,ZAHARIA Elena,NEUMANN Josephina,3,0,"11,11,11|3,8,4",QR1,GRAND_SLAM,WS,3242,Qualification,ZAHARIA Elena (ROU),NEUMANN Josephina (GER)
-United States Smash 2026,2026-06-26,KARLSSON Mattias,PISTEJ Lubomir,3,2,"12,11,7,11,11|14,8,11,4,7",QR1,GRAND_SLAM,MS,3242,Qualification,KARLSSON Mattias (SWE),PISTEJ Lubomir (SVK)
-United States Smash 2026,2026-06-26,OYEBODE John,MLADENOVIC Luka,3,1,"16,11,11,11|18,6,8,6",QR1,GRAND_SLAM,MS,3242,Qualification,OYEBODE John (ITA),MLADENOVIC Luka (LUX)
-United States Smash 2026,2026-06-26,ZARIF Audrey,WATANABE Laura,3,0,"11,11,11|9,9,4",QR1,GRAND_SLAM,WS,3242,Qualification,ZARIF Audrey (FRA),WATANABE Laura (BRA)
-United States Smash 2026,2026-06-26,WEGRZYN Katarzyna,VEGA Paulina,3,1,"11,11,11,11|9,13,7,6",QR1,GRAND_SLAM,WS,3242,Qualification,WEGRZYN Katarzyna (POL),VEGA Paulina (CHI)
-United States Smash 2026,2026-06-26,LUPULESKU Izabela,ARLIA Nicole,3,0,"12,12,12|10,10,10",QR1,GRAND_SLAM,WS,3242,Qualification,LUPULESKU Izabela (SRB),ARLIA Nicole (ITA)
-United States Smash 2026,2026-06-26,TEODORO Guilherme,BAE Hwan,3,0,"11,11,11|8,8,7",QR1,GRAND_SLAM,MS,3242,Qualification,TEODORO Guilherme (BRA),BAE Hwan (AUS)
-United States Smash 2026,2026-06-26,XUE Fei,SURAVAJJULA Snehit,3,0,"11,11,11|7,9,7",QR1,GRAND_SLAM,MS,3242,Qualification,XUE Fei (CHN),SURAVAJJULA Snehit (IND)
-United States Smash 2026,2026-06-26,WANG Eugene,PAL Akash,3,1,"10,11,11,11|12,5,8,5",QR1,GRAND_SLAM,MS,3242,Qualification,WANG Eugene (CAN),PAL Akash (IND)
-United States Smash 2026,2026-06-26,SURJAN Sabina,WAN Yuan,3,1,"9,11,11,11|11,9,4,7",QR1,GRAND_SLAM,WS,3242,Qualification,SURJAN Sabina (SRB),WAN Yuan (GER)
-United States Smash 2026,2026-06-26,ZHANG Sofia-Xuan,BURGOS Brianna,3,0,"11,11,11|9,6,9",QR1,GRAND_SLAM,WS,3242,Qualification,ZHANG Sofia-Xuan (ESP),BURGOS Brianna (PUR)
-United States Smash 2026,2026-06-26,LIAO Cheng-Ting,SAREEN Aditya,3,2,"11,14,12,3,11|13,12,10,11,6",QR1,GRAND_SLAM,MS,3242,Qualification,LIAO Cheng-Ting (TPE),SAREEN Aditya (AUS)
-United States Smash 2026,2026-06-26,BURGOS Nicolas,GOMEZ Gustavo,3,0,"11,11,12|8,7,10",QR1,GRAND_SLAM,MS,3242,Qualification,BURGOS Nicolas (CHI),GOMEZ Gustavo (CHI)
-United States Smash 2026,2026-06-26,MUKHERJEE Sutirtha,PIYADASA Tashiya,3,2,"11,11,6,2,11|5,3,11,11,9",QR1,GRAND_SLAM,WS,3242,Qualification,MUKHERJEE Sutirtha (IND),PIYADASA Tashiya (USA)
-United States Smash 2026,2026-06-26,LUTZ Camille,YU Mandy,3,0,"11,11,11|1,8,3",QR1,GRAND_SLAM,WS,3242,Qualification,LUTZ Camille (FRA),YU Mandy (USA)
-United States Smash 2026,2026-06-27,SHAO Jieni,HO Tin-Tin,3,1,"16,10,11,11|14,12,6,7",QR3,GRAND_SLAM,WS,3242,Qualification,SHAO Jieni (POR),HO Tin-Tin (ENG)
-United States Smash 2026,2026-06-27,CIFUENTES Horacio,FREITAS Marcos,3,1,"11,11,10,11|6,7,12,5",QR3,GRAND_SLAM,MS,3242,Qualification,CIFUENTES Horacio (ARG),FREITAS Marcos (POR)
-United States Smash 2026,2026-06-27,KAO Cheng-Jui,XUE Fei,3,2,"9,11,12,13,11|11,4,10,15,7",QR3,GRAND_SLAM,MS,3242,Qualification,KAO Cheng-Jui (TPE),XUE Fei (CHN)
-United States Smash 2026,2026-06-27,PENG Yu-Han,CHIEN Tung-Chuan,3,2,"7,10,11,12,11|11,12,9,10,6",QR3,GRAND_SLAM,WS,3242,Qualification,PENG Yu-Han (TPE),CHIEN Tung-Chuan (TPE)
-United States Smash 2026,2026-06-27,HUANG Yu-Jie,SER Lin Qian,3,1,"11,11,9,11|6,7,11,5",QR3,GRAND_SLAM,WS,3242,Qualification,HUANG Yu-Jie (TPE),SER Lin Qian (SGP)
-United States Smash 2026,2026-06-27,TAN Zhao Yun,AKASHEVA Zauresh,3,1,"9,11,11,11|11,7,9,7",QR3,GRAND_SLAM,WS,3242,Qualification,TAN Zhao Yun (SGP),AKASHEVA Zauresh (KAZ)
-United States Smash 2026,2026-06-27,URSU Vladislav,ALLEGRO Martin,3,0,"11,11,11|5,8,8",QR3,GRAND_SLAM,MS,3242,Qualification,URSU Vladislav (MDA),ALLEGRO Martin (BEL)
-United States Smash 2026,2026-06-27,CHIRITA Iulian,KOZUL Deni,3,2,"7,11,5,11,11|11,6,11,5,8",QR3,GRAND_SLAM,MS,3242,Qualification,CHIRITA Iulian (ROU),KOZUL Deni (SLO)
-United States Smash 2026,2026-06-27,ZAHARIA Elena,YANG Xiaoxin,3,0,"11,11,11|3,4,6",QR3,GRAND_SLAM,WS,3242,Qualification,ZAHARIA Elena (ROU),YANG Xiaoxin (MON)
-United States Smash 2026,2026-06-27,BERTELSMEIER Andre,GACINA Andrej,3,0,"11,11,14|9,7,12",QR3,GRAND_SLAM,MS,3242,Qualification,BERTELSMEIER Andre (GER),GACINA Andrej (CRO)
-United States Smash 2026,2026-06-27,ANDRAS Csaba,FENG Yi-Hsin,3,2,"11,11,1,9,11|9,7,11,11,7",QR3,GRAND_SLAM,MS,3242,Qualification,ANDRAS Csaba (HUN),FENG Yi-Hsin (TPE)
-United States Smash 2026,2026-06-27,GHORPADE Yashaswini,PICCOLIN Giorgia,3,1,"9,11,11,11|11,4,3,9",QR3,GRAND_SLAM,WS,3242,Qualification,GHORPADE Yashaswini (IND),PICCOLIN Giorgia (ITA)
-United States Smash 2026,2026-06-27,SHAN Xiaona,NG Wing Lam,3,1,"11,11,8,13|8,6,11,11",QR3,GRAND_SLAM,WS,3242,Qualification,SHAN Xiaona (GER),NG Wing Lam (HKG)
-United States Smash 2026,2026-06-27,CHAN Baldwin,HUANG Youzheng,3,0,"17,11,13|15,8,11",QR3,GRAND_SLAM,MS,3242,Qualification,CHAN Baldwin (HKG),HUANG Youzheng (CHN)
-United States Smash 2026,2026-06-27,ZARIF Audrey,DE NUTTE Sarah,3,2,"8,12,11,6,11|11,10,7,11,7",QR3,GRAND_SLAM,WS,3242,Qualification,ZARIF Audrey (FRA),DE NUTTE Sarah (LUX)
-United States Smash 2026,2026-06-27,RANEFUR Elias,LIM Jonghoon,3,1,"11,11,8,11|6,4,11,7",QR3,GRAND_SLAM,MS,3242,Qualification,RANEFUR Elias (SWE),LIM Jonghoon (KOR)
-United States Smash 2026,2026-06-27,SHAO Jieni,PSIHOGIOS Constantina,3,0,"11,11,11|9,5,4",QR2,GRAND_SLAM,WS,3242,Qualification,SHAO Jieni (POR),PSIHOGIOS Constantina (AUS)
-United States Smash 2026,2026-06-27,FREITAS Marcos,CHANG Yu-An,3,2,"7,9,11,12,11|11,11,9,10,6",QR2,GRAND_SLAM,MS,3242,Qualification,FREITAS Marcos (POR),CHANG Yu-An (TPE)
-United States Smash 2026,2026-06-27,CIFUENTES Horacio,SHAH Manush,3,0,"13,11,11|11,7,6",QR2,GRAND_SLAM,MS,3242,Qualification,CIFUENTES Horacio (ARG),SHAH Manush (IND)
-United States Smash 2026,2026-06-27,HO Tin-Tin,VARADY Barbora,3,0,"11,11,12|6,8,10",QR2,GRAND_SLAM,WS,3242,Qualification,HO Tin-Tin (ENG),VARADY Barbora (SVK)
-United States Smash 2026,2026-06-27,PENG Yu-Han,BERGAND Filippa,3,2,"13,12,11,9,11|11,14,6,11,9",QR2,GRAND_SLAM,WS,3242,Qualification,PENG Yu-Han (TPE),BERGAND Filippa (SWE)
-United States Smash 2026,2026-06-27,KAO Cheng-Jui,IIZUKA Leonardo,3,1,"11,11,5,11|8,6,11,9",QR2,GRAND_SLAM,MS,3242,Qualification,KAO Cheng-Jui (TPE),IIZUKA Leonardo (BRA)
-United States Smash 2026,2026-06-27,XUE Fei,WALTHER Ricardo,3,2,"8,11,9,11,11|11,9,11,6,6",QR2,GRAND_SLAM,MS,3242,Qualification,XUE Fei (CHN),WALTHER Ricardo (GER)
-United States Smash 2026,2026-06-27,ALLEGRO Martin,PARK Gyuhyeon,3,2,"5,11,9,13,11|11,9,11,11,8",QR2,GRAND_SLAM,MS,3242,Qualification,ALLEGRO Martin (BEL),PARK Gyuhyeon (KOR)
-United States Smash 2026,2026-06-27,HUANG Yu-Jie,KUKULKOVA Tatiana,3,0,"11,11,11|9,5,4",QR2,GRAND_SLAM,WS,3242,Qualification,HUANG Yu-Jie (TPE),KUKULKOVA Tatiana (SVK)
-United States Smash 2026,2026-06-27,SER Lin Qian,ALTINKAYA Sibel,3,1,"11,11,4,11|8,7,11,8",QR2,GRAND_SLAM,WS,3242,Qualification,SER Lin Qian (SGP),ALTINKAYA Sibel (TUR)
-United States Smash 2026,2026-06-27,AKASHEVA Zauresh,CHITALE Diya,3,2,"9,5,12,11,11|11,11,10,6,9",QR2,GRAND_SLAM,WS,3242,Qualification,AKASHEVA Zauresh (KAZ),CHITALE Diya (IND)
-United States Smash 2026,2026-06-27,KOZUL Deni,BOULOUSSA Mehdi,3,1,"11,5,11,14|7,11,5,12",QR2,GRAND_SLAM,MS,3242,Qualification,KOZUL Deni (SLO),BOULOUSSA Mehdi (ALG)
-United States Smash 2026,2026-06-27,URSU Vladislav,IONESCU Ovidiu,3,2,"11,12,9,4,11|5,10,11,11,9",QR2,GRAND_SLAM,MS,3242,Qualification,URSU Vladislav (MDA),IONESCU Ovidiu (ROU)
-United States Smash 2026,2026-06-27,CHIRITA Iulian,ROBLES Alvaro,3,2,"12,10,14,8,11|10,12,12,11,7",QR2,GRAND_SLAM,MS,3242,Qualification,CHIRITA Iulian (ROU),ROBLES Alvaro (ESP)
-United States Smash 2026,2026-06-27,TAN Zhao Yun,MUKHERJEE Ayhika,3,1,"12,13,11,11|10,11,13,2",QR2,GRAND_SLAM,WS,3242,Qualification,TAN Zhao Yun (SGP),MUKHERJEE Ayhika (IND)
-United States Smash 2026,2026-06-27,CHIEN Tung-Chuan,WEGRZYN Katarzyna,3,1,"11,8,11,11|6,11,9,8",QR2,GRAND_SLAM,WS,3242,Qualification,CHIEN Tung-Chuan (TPE),WEGRZYN Katarzyna (POL)
-United States Smash 2026,2026-06-28,LIANG Jishan/MOYLAND Sally,PANG Koen/ZENG Jian,3,2,"13,9,12,10,11|11,11,10,12,4",R32,GRAND_SLAM,XD,3242,Main Draw,LIANG Jishan/MOYLAND Sally (USA),PANG Koen/ZENG Jian (SGP)
-United States Smash 2026,2026-06-28,PISTEJ Lubomir/KUKULKOVA Tatiana,CHAN Baldwin/KIM Nayeong,3,1,"9,11,11,11|11,6,8,9",R32,GRAND_SLAM,XD,3242,Main Draw,PISTEJ Lubomir/KUKULKOVA Tatiana (SVK),CHAN Baldwin/KIM Nayeong (HKG/KOR)
-United States Smash 2026,2026-06-28,LUPULESKU Izabela/SURJAN Sabina,PAVADE Prithika/LUTZ Charlotte,3,1,"11,5,11,11|7,11,4,4",R32,GRAND_SLAM,WD,3242,Main Draw,LUPULESKU Izabela/SURJAN Sabina (SRB),PAVADE Prithika/LUTZ Charlotte (FRA)
-United States Smash 2026,2026-06-28,NARESH Nandan/REYES LAI Jessica,BOTHA Bosman/QIN Yuxuan,3,0,"14,11,11|12,5,6",R32,GRAND_SLAM,XD,3242,Main Draw,NARESH Nandan/REYES LAI Jessica (USA),BOTHA Bosman/QIN Yuxuan (USA/CHN)
-United States Smash 2026,2026-06-28,FRANZISKA Patrick/DIAZ Adriana,SAREEN Aditya/VARADY Barbora,3,0,"11,11,11|3,7,5",R32,GRAND_SLAM,XD,3242,Main Draw,FRANZISKA Patrick/DIAZ Adriana (GER/PUR),SAREEN Aditya/VARADY Barbora (AUS/SVK)
-United States Smash 2026,2026-06-28,ITO Mima,WANG Amy,3,1,"11,7,11,11|2,11,7,5",R64,GRAND_SLAM,WS,3242,Main Draw,ITO Mima (JPN),WANG Amy (USA)
-United States Smash 2026,2026-06-28,WONG Chun Ting,GROTH Jonathan,3,2,"5,12,12,8,11|11,10,10,11,6",R64,GRAND_SLAM,MS,3242,Main Draw,WONG Chun Ting (HKG),GROTH Jonathan (DEN)
-United States Smash 2026,2026-06-28,QIU Dang/WINTER Sabine,GOMEZ Gustavo/ORTEGA Daniela,3,0,"11,11,11|3,9,3",R32,GRAND_SLAM,XD,3242,Main Draw,QIU Dang/WINTER Sabine (GER),GOMEZ Gustavo/ORTEGA Daniela (CHI)
-United States Smash 2026,2026-06-28,LIND Anders/HURSEY Anna,MLADENOVIC Luka/NG Wing Lam,3,0,"11,11,14|7,5,12",R32,GRAND_SLAM,XD,3242,Main Draw,LIND Anders/HURSEY Anna (DEN/WAL),MLADENOVIC Luka/NG Wing Lam (LUX/HKG)
-United States Smash 2026,2026-06-28,KUO Guan-Hong,LIN Yun-Ju,3,2,"11,11,2,8,11|9,8,11,11,4",R64,GRAND_SLAM,MS,3242,Main Draw,KUO Guan-Hong (TPE),LIN Yun-Ju (TPE)
-United States Smash 2026,2026-06-28,CALDERANO Hugo,YOSHIMURA Maharu,3,1,"11,11,7,11|4,8,11,9",R64,GRAND_SLAM,MS,3242,Main Draw,CALDERANO Hugo (BRA),YOSHIMURA Maharu (JPN)
-United States Smash 2026,2026-06-28,HASHIMOTO Honoka,YU Fu,3,0,"13,11,11|11,7,5",R64,GRAND_SLAM,WS,3242,Main Draw,HASHIMOTO Honoka (JPN),YU Fu (POR)
-United States Smash 2026,2026-06-28,SHI Xunyao,SAMARA Elizabeta,3,2,"12,8,11,12,11|10,11,7,14,9",R64,GRAND_SLAM,WS,3242,Main Draw,SHI Xunyao (CHN),SAMARA Elizabeta (ROU)
-United States Smash 2026,2026-06-28,TANAKA Yuta,GNANASEKARAN Sathiyan,3,0,"11,11,12|5,7,10",R64,GRAND_SLAM,MS,3242,Main Draw,TANAKA Yuta (JPN),GNANASEKARAN Sathiyan (IND)
-United States Smash 2026,2026-06-28,WEN Ruibo/KUAI Man,LUM Nicholas/LIU Yangzi,3,1,"11,11,6,11|1,9,11,5",R32,GRAND_SLAM,XD,3242,Main Draw,WEN Ruibo/KUAI Man (CHN),LUM Nicholas/LIU Yangzi (AUS)
-United States Smash 2026,2026-06-28,WANG Manyu,YEOH Irene,3,0,"11,11,11|5,3,4",R64,GRAND_SLAM,WS,3242,Main Draw,WANG Manyu (CHN),YEOH Irene (USA)
-United States Smash 2026,2026-06-28,RASSENFOSSE Adrien,RANEFUR Elias,3,1,"11,7,11,11|8,11,3,9",R64,GRAND_SLAM,MS,3242,Main Draw,RASSENFOSSE Adrien (BEL),RANEFUR Elias (SWE)
-United States Smash 2026,2026-06-28,CHENG I-Ching,REYES LAI Jessica,3,0,"12,11,11|10,5,6",R64,GRAND_SLAM,WS,3242,Main Draw,CHENG I-Ching (TPE),REYES LAI Jessica (USA)
-United States Smash 2026,2026-06-28,UDA Yukiya,URSU Vladislav,3,2,"7,11,6,11,11|11,9,11,6,7",R64,GRAND_SLAM,MS,3242,Main Draw,UDA Yukiya (JPN),URSU Vladislav (MDA)
-United States Smash 2026,2026-06-28,WANG Chuqin,ZHOU Qihao,3,0,"11,15,11|6,13,3",R64,GRAND_SLAM,MS,3242,Main Draw,WANG Chuqin (CHN),ZHOU Qihao (CHN)
-United States Smash 2026,2026-06-28,GERALDO Joao,CHIRITA Iulian,3,2,"9,11,10,11,12|11,9,12,4,10",R64,GRAND_SLAM,MS,3242,Main Draw,GERALDO Joao (POR),CHIRITA Iulian (ROU)
-United States Smash 2026,2026-06-28,ZENG Jian,BAJOR Natalia,3,1,"11,6,11,11|7,11,8,9",R64,GRAND_SLAM,WS,3242,Main Draw,ZENG Jian (SGP),BAJOR Natalia (POL)
-United States Smash 2026,2026-06-28,SATO Hitomi,DIAZ Adriana,3,0,"11,11,11|7,7,5",R64,GRAND_SLAM,WS,3242,Main Draw,SATO Hitomi (JPN),DIAZ Adriana (PUR)
-United States Smash 2026,2026-06-28,KIM Nayeong,XIAO Maria,3,0,"11,11,11|7,7,7",R64,GRAND_SLAM,WS,3242,Main Draw,KIM Nayeong (KOR),XIAO Maria (ESP)
-United States Smash 2026,2026-06-28,LIN Yun-Ju/FENG Yi-Hsin,BAE Hwan/CIFUENTES Horacio,3,0,"11,11,11|8,2,7",R32,GRAND_SLAM,MD,3242,Main Draw,LIN Yun-Ju/FENG Yi-Hsin (TPE),BAE Hwan/CIFUENTES Horacio (AUS/ARG)
-United States Smash 2026,2026-06-28,LEBRUN Alexis/ODO Satsuki,PORET Thibault/PAVADE Prithika,3,2,"6,14,11,8,11|11,12,4,11,6",R32,GRAND_SLAM,XD,3242,Main Draw,LEBRUN Alexis/ODO Satsuki (FRA/JPN),PORET Thibault/PAVADE Prithika (FRA)
-United States Smash 2026,2026-06-28,FRANZISKA Patrick/OVTCHAROV Dimitrij,LIANG Jishan/BOTHA Bosman,3,0,"11,11,11|4,5,2",R32,GRAND_SLAM,MD,3242,Main Draw,FRANZISKA Patrick/OVTCHAROV Dimitrij (GER),LIANG Jishan/BOTHA Bosman (USA)
-United States Smash 2026,2026-06-28,LIU Yangzi/MITTELHAM Nina,MESHREF Dina/GODA Hana,3,2,"6,9,11,11,11|11,11,5,9,8",R32,GRAND_SLAM,WD,3242,Main Draw,LIU Yangzi/MITTELHAM Nina (AUS/GER),MESHREF Dina/GODA Hana (EGY)
-United States Smash 2026,2026-06-28,MOYLAND Sally/ZHANG Lily,REYES LAI Jessica/WANG Amy,3,1,"11,11,6,11|5,9,11,2",R32,GRAND_SLAM,WD,3242,Main Draw,MOYLAND Sally/ZHANG Lily (USA),REYES LAI Jessica/WANG Amy (USA)
-United States Smash 2026,2026-06-28,SAMARA Elizabeta/SZOCS Bernadette,JEE Minhyung/BATRA Manika,3,2,"9,7,11,11,11|11,11,7,9,5",R32,GRAND_SLAM,WD,3242,Main Draw,SAMARA Elizabeta/SZOCS Bernadette (ROU),JEE Minhyung/BATRA Manika (AUS/IND)
-United States Smash 2026,2026-06-28,MATSUSHIMA Sora,GERASSIMENKO Kirill,3,0,"11,11,11|9,6,5",R64,GRAND_SLAM,MS,3242,Main Draw,MATSUSHIMA Sora (JPN),GERASSIMENKO Kirill (KAZ)
-United States Smash 2026,2026-06-28,IONESCU Eduard/MOVILEANU Darius,ZELINKA Jakub/PISTEJ Lubomir,3,2,"11,8,8,11,11|7,11,11,9,3",R32,GRAND_SLAM,MD,3242,Main Draw,IONESCU Eduard/MOVILEANU Darius (ROU),ZELINKA Jakub/PISTEJ Lubomir (SVK)
-United States Smash 2026,2026-06-28,CHEN Yuanyu,NARESH Nandan,3,1,"11,11,8,11|6,8,11,4",R64,GRAND_SLAM,MS,3242,Main Draw,CHEN Yuanyu (CHN),NARESH Nandan (USA)
-United States Smash 2026,2026-06-28,LIND Anders,LUM Nicholas,3,1,"11,11,9,11|6,6,11,5",R64,GRAND_SLAM,MS,3242,Main Draw,LIND Anders (DEN),LUM Nicholas (AUS)
-United States Smash 2026,2026-06-28,HARIMOTO Miwa,LI Yu-Jhun,3,0,"11,11,11|6,4,0",R64,GRAND_SLAM,WS,3242,Main Draw,HARIMOTO Miwa (JPN),LI Yu-Jhun (TPE)
-United States Smash 2026,2026-06-28,ZHANG Mo,TAN Zhao Yun,3,0,"11,12,11|5,10,8",R64,GRAND_SLAM,WS,3242,Main Draw,ZHANG Mo (CAN),TAN Zhao Yun (SGP)
-United States Smash 2026,2026-06-28,HURSEY Anna,PENG Yu-Han,3,0,"13,11,12|11,8,10",R64,GRAND_SLAM,WS,3242,Main Draw,HURSEY Anna (WAL),PENG Yu-Han (TPE)
-United States Smash 2026,2026-06-28,WEN Ruibo/YUAN Licen,JHA Kanak/XUE Fei,3,1,"11,11,8,11|9,6,11,9",R32,GRAND_SLAM,MD,3242,Main Draw,WEN Ruibo/YUAN Licen (CHN),JHA Kanak/XUE Fei (USA/CHN)
-United States Smash 2026,2026-06-28,SHIN Yubin,LUTZ Charlotte,3,0,"13,11,11|11,8,6",R64,GRAND_SLAM,WS,3242,Main Draw,SHIN Yubin (KOR),LUTZ Charlotte (FRA)
-United States Smash 2026,2026-06-28,ASSAR Omar,LUU Finn,3,1,"15,9,12,11|13,11,10,8",R64,GRAND_SLAM,MS,3242,Main Draw,ASSAR Omar (EGY),LUU Finn (AUS)
-United States Smash 2026,2026-06-28,JORGIC Darko,TRAN Daniel,3,0,"11,11,11|6,7,8",R64,GRAND_SLAM,MS,3242,Main Draw,JORGIC Darko (SLO),TRAN Daniel (USA)
-United States Smash 2026,2026-06-28,THAKKAR Manav,COTON Flavien,3,2,"12,10,11,7,11|10,12,7,11,7",R64,GRAND_SLAM,MS,3242,Main Draw,THAKKAR Manav (IND),COTON Flavien (FRA)
-United States Smash 2026,2026-06-28,HAYATA Hina,YEH Yi-Tian,3,0,"11,11,11|3,7,8",R64,GRAND_SLAM,WS,3242,Main Draw,HAYATA Hina (JPN),YEH Yi-Tian (TPE)
-United States Smash 2026,2026-06-28,SHAN Xiaona,DRAGOMAN Andreea,3,1,"8,11,11,11|11,8,5,8",R64,GRAND_SLAM,WS,3242,Main Draw,SHAN Xiaona (GER),DRAGOMAN Andreea (ROU)
-United States Smash 2026,2026-06-28,MESHREF Dina,SHAO Jieni,3,1,"11,9,11,11|8,11,8,5",R64,GRAND_SLAM,WS,3242,Main Draw,MESHREF Dina (EGY),SHAO Jieni (POR)
-United States Smash 2026,2026-06-28,LEBRUN Felix,KAO Cheng-Jui,3,0,"11,12,11|9,10,6",R64,GRAND_SLAM,MS,3242,Main Draw,LEBRUN Felix (FRA),KAO Cheng-Jui (TPE)
-United States Smash 2026,2026-06-28,LIN Shidong,PARK Ganghyeon,3,0,"11,11,11|5,2,6",R64,GRAND_SLAM,MS,3242,Main Draw,LIN Shidong (CHN),PARK Ganghyeon (KOR)
-United States Smash 2026,2026-06-28,KUAI Man,ZAHARIA Elena,3,0,"11,11,11|3,6,4",R64,GRAND_SLAM,WS,3242,Main Draw,KUAI Man (CHN),ZAHARIA Elena (ROU)
-United States Smash 2026,2026-06-29,CALDERANO Hugo/TAKAHASHI Bruna,NARESH Nandan/REYES LAI Jessica,3,1,"11,13,11,11|7,15,3,8",R16,GRAND_SLAM,XD,3242,Main Draw,CALDERANO Hugo/TAKAHASHI Bruna (BRA),NARESH Nandan/REYES LAI Jessica (USA)
-United States Smash 2026,2026-06-29,KUKULKOVA Tatiana/VARADY Barbora,SHAN Xiaona/LEE Eunhye,3,2,"11,11,7,3,11|9,8,11,11,8",R32,GRAND_SLAM,WD,3242,Main Draw,KUKULKOVA Tatiana/VARADY Barbora (SVK),SHAN Xiaona/LEE Eunhye (GER/KOR)
-United States Smash 2026,2026-06-29,ZHANG Lily,YUAN Jia Nan,3,1,"11,6,11,11|3,11,7,9",R64,GRAND_SLAM,WS,3242,Main Draw,ZHANG Lily (USA),YUAN Jia Nan (FRA)
-United States Smash 2026,2026-06-29,BURGOS Nicolas/GOMEZ Gustavo,LUM Nicholas/LUU Finn,3,1,"8,11,11,11|11,8,7,4",R32,GRAND_SLAM,MD,3242,Main Draw,BURGOS Nicolas/GOMEZ Gustavo (CHI),LUM Nicholas/LUU Finn (AUS)
-United States Smash 2026,2026-06-29,MATSUSHIMA Sora/TOGAMI Shunsuke,FREITAS Marcos/APOLONIA Tiago,3,1,"11,7,11,12|7,11,6,10",R32,GRAND_SLAM,MD,3242,Main Draw,MATSUSHIMA Sora/TOGAMI Shunsuke (JPN),FREITAS Marcos/APOLONIA Tiago (POR)
-United States Smash 2026,2026-06-29,HARIMOTO Tomokazu,LIANG Jishan,3,0,"11,12,11|1,10,4",R64,GRAND_SLAM,MS,3242,Main Draw,HARIMOTO Tomokazu (JPN),LIANG Jishan (USA)
-United States Smash 2026,2026-06-29,JOO Cheonhui,AKULA Sreeja,3,0,"12,11,11|10,8,2",R64,GRAND_SLAM,WS,3242,Main Draw,JOO Cheonhui (KOR),AKULA Sreeja (IND)
-United States Smash 2026,2026-06-29,JARVIS Tom,OH Junsung,3,2,"11,11,7,8,11|8,2,11,11,5",R64,GRAND_SLAM,MS,3242,Main Draw,JARVIS Tom (ENG),OH Junsung (KOR)
-United States Smash 2026,2026-06-29,HURSEY Anna/XIAO Maria,BARCENAS Clio/COSSIO Arantxa,3,0,"11,12,11|4,10,8",R32,GRAND_SLAM,WD,3242,Main Draw,HURSEY Anna/XIAO Maria (WAL/ESP),BARCENAS Clio/COSSIO Arantxa (MEX)
-United States Smash 2026,2026-06-29,ZENG Jian/SER Lin Qian,ORTEGA Daniela/VEGA Paulina,3,1,"11,12,11,11|8,14,8,6",R32,GRAND_SLAM,WD,3242,Main Draw,ZENG Jian/SER Lin Qian (SGP),ORTEGA Daniela/VEGA Paulina (CHI)
-United States Smash 2026,2026-06-29,CHENG I-Ching/YEH Yi-Tian,WAN Yuan/WINTER Sabine,3,1,"6,12,11,15|11,10,9,13",R32,GRAND_SLAM,WD,3242,Main Draw,CHENG I-Ching/YEH Yi-Tian (TPE),WAN Yuan/WINTER Sabine (GER)
-United States Smash 2026,2026-06-29,WANG Yidi,PESOTSKA Margaryta,3,0,"11,11,11|5,9,8",R64,GRAND_SLAM,WS,3242,Main Draw,WANG Yidi (CHN),PESOTSKA Margaryta (UKR)
-United States Smash 2026,2026-06-29,ODO Satsuki,LEE Eunhye,3,0,"11,16,11|8,14,3",R64,GRAND_SLAM,WS,3242,Main Draw,ODO Satsuki (JPN),LEE Eunhye (KOR)
-United States Smash 2026,2026-06-29,WEN Ruibo,JANCARIK Lubomir,3,0,"11,11,13|9,4,11",R64,GRAND_SLAM,MS,3242,Main Draw,WEN Ruibo (CHN),JANCARIK Lubomir (CZE)
-United States Smash 2026,2026-06-29,JHA Kanak,TOGAMI Shunsuke,3,2,"11,12,4,7,12|6,10,11,11,10",R64,GRAND_SLAM,MS,3242,Main Draw,JHA Kanak (USA),TOGAMI Shunsuke (JPN)
-United States Smash 2026,2026-06-29,DUDA Benedikt,PORET Thibault,3,0,"11,11,11|7,6,3",R64,GRAND_SLAM,MS,3242,Main Draw,DUDA Benedikt (GER),PORET Thibault (FRA)
-United States Smash 2026,2026-06-29,SHINOZUKA Hiroto,PITCHFORD Liam,3,1,"11,5,13,11|6,11,11,9",R64,GRAND_SLAM,MS,3242,Main Draw,SHINOZUKA Hiroto (JPN),PITCHFORD Liam (ENG)
-United States Smash 2026,2026-06-29,HAN Ying,CHEN Yi,3,2,"5,9,11,11,11|11,11,3,7,7",R64,GRAND_SLAM,WS,3242,Main Draw,HAN Ying (GER),CHEN Yi (CHN)
-United States Smash 2026,2026-06-29,QIU Dang,ANDRAS Csaba,3,0,"11,11,11|3,8,2",R64,GRAND_SLAM,MS,3242,Main Draw,QIU Dang (GER),ANDRAS Csaba (HUN)
-United States Smash 2026,2026-06-29,DOO Hoi Kem,GODA Hana,3,2,"11,9,11,5,11|9,11,5,11,4",R64,GRAND_SLAM,WS,3242,Main Draw,DOO Hoi Kem (HKG),GODA Hana (EGY)
-United States Smash 2026,2026-06-29,YANG Ha Eun,ZARIF Audrey,3,1,"11,7,11,15|4,11,8,13",R64,GRAND_SLAM,WS,3242,Main Draw,YANG Ha Eun (KOR),ZARIF Audrey (FRA)
-United States Smash 2026,2026-06-29,SUN Yingsha,LIU Yangzi,3,0,"11,11,11|9,3,6",R64,GRAND_SLAM,WS,3242,Main Draw,SUN Yingsha (CHN),LIU Yangzi (AUS)
-United States Smash 2026,2026-06-29,SIDORENKO Vladimir,CIFUENTES Horacio,3,0,"11,11,11|6,5,4",R64,GRAND_SLAM,MS,3242,Main Draw,SIDORENKO Vladimir (AIN),CIFUENTES Horacio (ARG)
-United States Smash 2026,2026-06-29,QIU Dang/WINTER Sabine,IONESCU Eduard/SZOCS Bernadette,3,2,"9,10,11,11,13|11,12,9,6,11",R16,GRAND_SLAM,XD,3242,Main Draw,QIU Dang/WINTER Sabine (GER),IONESCU Eduard/SZOCS Bernadette (ROU)
-United States Smash 2026,2026-06-29,MOREGARD Truls,ARUNA Quadri,3,0,"14,11,11|12,6,5",R64,GRAND_SLAM,MS,3242,Main Draw,MOREGARD Truls (SWE),ARUNA Quadri (NGR)
-United States Smash 2026,2026-06-29,LIANG Jishan/MOYLAND Sally,SHAH Manush/CHITALE Diya,3,1,"9,11,11,11|11,6,4,8",R16,GRAND_SLAM,XD,3242,Main Draw,LIANG Jishan/MOYLAND Sally (USA),SHAH Manush/CHITALE Diya (IND)
-United States Smash 2026,2026-06-29,LEBRUN Alexis/ODO Satsuki,ROBLES Alvaro/XIAO Maria,3,0,"11,11,11|9,5,3",R16,GRAND_SLAM,XD,3242,Main Draw,LEBRUN Alexis/ODO Satsuki (FRA/JPN),ROBLES Alvaro/XIAO Maria (ESP)
-United States Smash 2026,2026-06-29,MATSUSHIMA Sora/HARIMOTO Miwa,FRANZISKA Patrick/DIAZ Adriana,3,2,"10,11,11,5,11|12,9,8,11,9",R16,GRAND_SLAM,XD,3242,Main Draw,MATSUSHIMA Sora/HARIMOTO Miwa (JPN),FRANZISKA Patrick/DIAZ Adriana (GER/PUR)
-United States Smash 2026,2026-06-29,WANG Chuqin/SUN Yingsha,PISTEJ Lubomir/KUKULKOVA Tatiana,3,0,"11,11,11|7,6,4",R16,GRAND_SLAM,XD,3242,Main Draw,WANG Chuqin/SUN Yingsha (CHN),PISTEJ Lubomir/KUKULKOVA Tatiana (SVK)
-United States Smash 2026,2026-06-29,WEN Ruibo/KUAI Man,WONG Chun Ting/DOO Hoi Kem,3,0,"11,14,13|8,12,11",R16,GRAND_SLAM,XD,3242,Main Draw,WEN Ruibo/KUAI Man (CHN),WONG Chun Ting/DOO Hoi Kem (HKG)
-United States Smash 2026,2026-06-29,LIM Jonghoon/SHIN Yubin,LIND Anders/HURSEY Anna,3,0,"11,11,11|9,3,8",R16,GRAND_SLAM,XD,3242,Main Draw,LIM Jonghoon/SHIN Yubin (KOR),LIND Anders/HURSEY Anna (DEN/WAL)
-United States Smash 2026,2026-06-29,TAKAHASHI Bruna,RAKOVAC Lea,3,1,"11,11,5,11|6,6,11,9",R64,GRAND_SLAM,WS,3242,Main Draw,TAKAHASHI Bruna (BRA),RAKOVAC Lea (CRO)
-United States Smash 2026,2026-06-29,CHEN Xingtong,YOO Yerin,3,0,"11,11,11|6,8,4",R64,GRAND_SLAM,WS,3242,Main Draw,CHEN Xingtong (CHN),YOO Yerin (KOR)
-United States Smash 2026,2026-06-29,YOKOI Sakura,BATRA Manika,3,1,"7,11,11,11|11,9,4,8",R64,GRAND_SLAM,WS,3242,Main Draw,YOKOI Sakura (JPN),BATRA Manika (IND)
-United States Smash 2026,2026-06-29,OVTCHAROV Dimitrij,SEYFRIED Joe,3,1,"9,11,11,11|11,5,7,5",R64,GRAND_SLAM,MS,3242,Main Draw,OVTCHAROV Dimitrij (GER),SEYFRIED Joe (FRA)
-United States Smash 2026,2026-06-29,GAUZY Simon,REDZIMSKI Milosz,3,1,"9,11,11,11|11,6,4,9",R64,GRAND_SLAM,MS,3242,Main Draw,GAUZY Simon (FRA),REDZIMSKI Milosz (POL)
-United States Smash 2026,2026-06-29,TEODORO Guilherme/IIZUKA Leonardo,NARESH Nandan/NARESH Sid,3,1,"11,11,9,11|3,5,11,7",R32,GRAND_SLAM,MD,3242,Main Draw,TEODORO Guilherme/IIZUKA Leonardo (BRA),NARESH Nandan/NARESH Sid (USA)
-United States Smash 2026,2026-06-29,MITTELHAM Nina,SZOCS Bernadette,3,0,"11,11,11|7,3,3",R64,GRAND_SLAM,WS,3242,Main Draw,MITTELHAM Nina (GER),SZOCS Bernadette (ROU)
-United States Smash 2026,2026-06-29,BERTELSMEIER Andre,AN Jaehyun,3,1,"7,11,11,11|11,8,8,9",R64,GRAND_SLAM,MS,3242,Main Draw,BERTELSMEIER Andre (GER),AN Jaehyun (KOR)
-United States Smash 2026,2026-06-29,PAVADE Prithika,MOYLAND Sally,3,2,"11,11,11,9,11|9,13,9,11,7",R64,GRAND_SLAM,WS,3242,Main Draw,PAVADE Prithika (FRA),MOYLAND Sally (USA)
-United States Smash 2026,2026-06-29,QIN Yuxuan,WINTER Sabine,3,1,"11,6,12,11|8,11,10,9",R64,GRAND_SLAM,WS,3242,Main Draw,QIN Yuxuan (CHN),WINTER Sabine (GER)
-United States Smash 2026,2026-06-29,FRANZISKA Patrick,PUCAR Tomislav,3,1,"4,12,13,11|11,10,11,6",R64,GRAND_SLAM,MS,3242,Main Draw,FRANZISKA Patrick (GER),PUCAR Tomislav (CRO)
-United States Smash 2026,2026-06-29,HUANG Yu-Jie,NAGASAKI Miyu,3,1,"6,11,13,13|11,9,11,11",R64,GRAND_SLAM,WS,3242,Main Draw,HUANG Yu-Jie (TPE),NAGASAKI Miyu (JPN)
-United States Smash 2026,2026-06-29,BARDET Lilian,IONESCU Eduard,3,2,"7,11,11,12,11|11,7,6,14,8",R64,GRAND_SLAM,MS,3242,Main Draw,BARDET Lilian (FRA),IONESCU Eduard (ROU)
-United States Smash 2026,2026-06-29,ZHU Yuling,GHORPADE Yashaswini,3,1,"11,5,11,11|7,11,3,9",R64,GRAND_SLAM,WS,3242,Main Draw,ZHU Yuling (MAC),GHORPADE Yashaswini (IND)
-United States Smash 2026,2026-06-29,LEBRUN Alexis,KALLBERG Anton,3,0,"11,11,13|4,9,11",R64,GRAND_SLAM,MS,3242,Main Draw,LEBRUN Alexis (FRA),KALLBERG Anton (SWE)
-United States Smash 2026,2026-06-29,JANG Woojin,CHAN Baldwin,3,0,"11,11,11|7,3,7",R64,GRAND_SLAM,MS,3242,Main Draw,JANG Woojin (KOR),CHAN Baldwin (HKG)
-United States Smash 2026,2026-06-30,THAKKAR Manav/SHAH Manush,MATSUSHIMA Sora/TOGAMI Shunsuke,3,1,"8,11,11,11|11,8,8,7",R16,GRAND_SLAM,MD,3242,Main Draw,THAKKAR Manav/SHAH Manush (IND),MATSUSHIMA Sora/TOGAMI Shunsuke (JPN)
-United States Smash 2026,2026-06-30,LIND Anders,RASSENFOSSE Adrien,3,1,"9,11,11,11|11,7,9,9",R32,GRAND_SLAM,MS,3242,Main Draw,LIND Anders (DEN),RASSENFOSSE Adrien (BEL)
-United States Smash 2026,2026-06-30,HASHIMOTO Honoka,CHENG I-Ching,3,0,"13,11,12|11,6,10",R32,GRAND_SLAM,WS,3242,Main Draw,HASHIMOTO Honoka (JPN),CHENG I-Ching (TPE)
-United States Smash 2026,2026-06-30,ITO Mima,SHAN Xiaona,3,0,"11,11,11|2,2,8",R32,GRAND_SLAM,WS,3242,Main Draw,ITO Mima (JPN),SHAN Xiaona (GER)
-United States Smash 2026,2026-06-30,LIN Shidong,TANAKA Yuta,3,0,"11,11,11|9,8,5",R32,GRAND_SLAM,MS,3242,Main Draw,LIN Shidong (CHN),TANAKA Yuta (JPN)
-United States Smash 2026,2026-06-30,GERALDO Joao,JORGIC Darko,3,1,"12,11,6,11|10,9,11,8",R32,GRAND_SLAM,MS,3242,Main Draw,GERALDO Joao (POR),JORGIC Darko (SLO)
-United States Smash 2026,2026-06-30,HARIMOTO Miwa/HAYATA Hina,MOYLAND Sally/ZHANG Lily,3,0,"11,11,11|8,3,6",R16,GRAND_SLAM,WD,3242,Main Draw,HARIMOTO Miwa/HAYATA Hina (JPN),MOYLAND Sally/ZHANG Lily (USA)
-United States Smash 2026,2026-06-30,KUAI Man,ZHANG Mo,3,1,"11,2,11,11|6,11,7,4",R32,GRAND_SLAM,WS,3242,Main Draw,KUAI Man (CHN),ZHANG Mo (CAN)
-United States Smash 2026,2026-06-30,OH Junsung/LIM Jonghoon,TEODORO Guilherme/IIZUKA Leonardo,3,1,"11,11,8,11|6,8,11,9",R16,GRAND_SLAM,MD,3242,Main Draw,OH Junsung/LIM Jonghoon (KOR),TEODORO Guilherme/IIZUKA Leonardo (BRA)
-United States Smash 2026,2026-06-30,WANG Chuqin,THAKKAR Manav,3,0,"11,11,11|3,5,9",R32,GRAND_SLAM,MS,3242,Main Draw,WANG Chuqin (CHN),THAKKAR Manav (IND)
-United States Smash 2026,2026-06-30,QUEK Izaac/PANG Koen,ALLEGRO Martin/RASSENFOSSE Adrien,3,0,"11,11,11|5,3,3",R16,GRAND_SLAM,MD,3242,Main Draw,QUEK Izaac/PANG Koen (SGP),ALLEGRO Martin/RASSENFOSSE Adrien (BEL)
-United States Smash 2026,2026-06-30,NAGASAKI Miyu/KIM Nayeong,ZENG Jian/SER Lin Qian,3,0,"11,11,11|7,5,5",R16,GRAND_SLAM,WD,3242,Main Draw,NAGASAKI Miyu/KIM Nayeong (JPN/KOR),ZENG Jian/SER Lin Qian (SGP)
-United States Smash 2026,2026-06-30,DUDA Benedikt/QIU Dang,FRANZISKA Patrick/OVTCHAROV Dimitrij,3,2,"11,6,11,11,11|13,11,4,7,6",R16,GRAND_SLAM,MD,3242,Main Draw,DUDA Benedikt/QIU Dang (GER),FRANZISKA Patrick/OVTCHAROV Dimitrij (GER)
-United States Smash 2026,2026-06-30,SATO Hitomi,WANG Manyu,3,0,"12,11,15|10,4,13",R32,GRAND_SLAM,WS,3242,Main Draw,SATO Hitomi (JPN),WANG Manyu (CHN)
-United States Smash 2026,2026-06-30,CHIEN Tung-Chuan/LI Yu-Jhun,KUKULKOVA Tatiana/VARADY Barbora,3,2,"11,6,11,9,11|7,11,4,11,7",R16,GRAND_SLAM,WD,3242,Main Draw,CHIEN Tung-Chuan/LI Yu-Jhun (TPE),KUKULKOVA Tatiana/VARADY Barbora (SVK)
-United States Smash 2026,2026-06-30,HURSEY Anna/XIAO Maria,DOO Hoi Kem/NG Wing Lam,3,0,"22,11,11|20,9,9",R16,GRAND_SLAM,WD,3242,Main Draw,HURSEY Anna/XIAO Maria (WAL/ESP),DOO Hoi Kem/NG Wing Lam (HKG)
-United States Smash 2026,2026-06-30,LEBRUN Alexis,GAUZY Simon,3,2,"6,11,11,3,12|11,5,5,11,10",R32,GRAND_SLAM,MS,3242,Main Draw,LEBRUN Alexis (FRA),GAUZY Simon (FRA)
-United States Smash 2026,2026-06-30,WANG Yidi/CHEN Yi,SAMARA Elizabeta/SZOCS Bernadette,3,1,"11,8,11,13|4,11,3,11",R16,GRAND_SLAM,WD,3242,Main Draw,WANG Yidi/CHEN Yi (CHN),SAMARA Elizabeta/SZOCS Bernadette (ROU)
-United States Smash 2026,2026-06-30,SHIN Yubin,KIM Nayeong,3,0,"11,11,11|4,2,6",R32,GRAND_SLAM,WS,3242,Main Draw,SHIN Yubin (KOR),KIM Nayeong (KOR)
-United States Smash 2026,2026-06-30,LEBRUN Felix,WONG Chun Ting,3,1,"11,11,11,12|7,13,9,10",R32,GRAND_SLAM,MS,3242,Main Draw,LEBRUN Felix (FRA),WONG Chun Ting (HKG)
-United States Smash 2026,2026-06-30,QIU Dang,OVTCHAROV Dimitrij,3,1,"7,11,14,11|11,8,12,9",R32,GRAND_SLAM,MS,3242,Main Draw,QIU Dang (GER),OVTCHAROV Dimitrij (GER)
-United States Smash 2026,2026-06-30,HAYATA Hina,ZENG Jian,3,0,"11,11,11|4,7,6",R32,GRAND_SLAM,WS,3242,Main Draw,HAYATA Hina (JPN),ZENG Jian (SGP)
-United States Smash 2026,2026-06-30,WANG Manyu/KUAI Man,LIU Yangzi/MITTELHAM Nina,3,0,"14,11,11|12,6,9",R16,GRAND_SLAM,WD,3242,Main Draw,WANG Manyu/KUAI Man (CHN),LIU Yangzi/MITTELHAM Nina (AUS/GER)
-United States Smash 2026,2026-06-30,MATSUSHIMA Sora,ASSAR Omar,3,0,"11,11,11|2,8,4",R32,GRAND_SLAM,MS,3242,Main Draw,MATSUSHIMA Sora (JPN),ASSAR Omar (EGY)
-United States Smash 2026,2026-06-30,BURGOS Nicolas/GOMEZ Gustavo,DORR Esteban/BOURRASSAUD Florian,3,1,"8,11,11,11|11,8,5,8",R16,GRAND_SLAM,MD,3242,Main Draw,BURGOS Nicolas/GOMEZ Gustavo (CHI),DORR Esteban/BOURRASSAUD Florian (FRA)
-United States Smash 2026,2026-06-30,HAN Ying,ZHANG Lily,3,0,"11,11,11|3,8,2",R32,GRAND_SLAM,WS,3242,Main Draw,HAN Ying (GER),ZHANG Lily (USA)
-United States Smash 2026,2026-06-30,CHITALE Diya/GHORPADE Yashaswini,CHENG I-Ching/YEH Yi-Tian,3,2,"11,12,11,6,11|13,10,4,11,7",R16,GRAND_SLAM,WD,3242,Main Draw,CHITALE Diya/GHORPADE Yashaswini (IND),CHENG I-Ching/YEH Yi-Tian (TPE)
-United States Smash 2026,2026-06-30,HARIMOTO Miwa,HURSEY Anna,3,0,"11,11,11|7,8,4",R32,GRAND_SLAM,WS,3242,Main Draw,HARIMOTO Miwa (JPN),HURSEY Anna (WAL)
-United States Smash 2026,2026-06-30,LIN Yun-Ju/FENG Yi-Hsin,WONG Chun Ting/CHAN Baldwin,3,2,"11,9,11,10,11|9,11,6,12,9",R16,GRAND_SLAM,MD,3242,Main Draw,LIN Yun-Ju/FENG Yi-Hsin (TPE),WONG Chun Ting/CHAN Baldwin (HKG)
-United States Smash 2026,2026-06-30,SHIN Yubin/JOO Cheonhui,LUPULESKU Izabela/SURJAN Sabina,3,1,"11,11,10,14|8,5,12,12",R16,GRAND_SLAM,WD,3242,Main Draw,SHIN Yubin/JOO Cheonhui (KOR),LUPULESKU Izabela/SURJAN Sabina (SRB)
-United States Smash 2026,2026-06-30,WEN Ruibo/YUAN Licen,LEBRUN Alexis/LEBRUN Felix,3,0,"11,11,11|8,4,9",R16,GRAND_SLAM,MD,3242,Main Draw,WEN Ruibo/YUAN Licen (CHN),LEBRUN Alexis/LEBRUN Felix (FRA)
-United States Smash 2026,2026-06-30,LIN Shidong/HUANG Youzheng,IONESCU Eduard/MOVILEANU Darius,3,0,"11,11,11|4,2,4",R16,GRAND_SLAM,MD,3242,Main Draw,LIN Shidong/HUANG Youzheng (CHN),IONESCU Eduard/MOVILEANU Darius (ROU)
-United States Smash 2026,2026-07-01,LIM Jonghoon/SHIN Yubin,QIU Dang/WINTER Sabine,3,0,"11,11,12|4,3,10",QF,GRAND_SLAM,XD,3242,Main Draw,LIM Jonghoon/SHIN Yubin (KOR),QIU Dang/WINTER Sabine (GER)
-United States Smash 2026,2026-07-01,WEN Ruibo/KUAI Man,MATSUSHIMA Sora/HARIMOTO Miwa,3,1,"11,11,8,11|8,2,11,9",QF,GRAND_SLAM,XD,3242,Main Draw,WEN Ruibo/KUAI Man (CHN),MATSUSHIMA Sora/HARIMOTO Miwa (JPN)
-United States Smash 2026,2026-07-01,JHA Kanak,JARVIS Tom,3,1,"11,11,6,11|2,3,11,4",R32,GRAND_SLAM,MS,3242,Main Draw,JHA Kanak (USA),JARVIS Tom (ENG)
-United States Smash 2026,2026-07-01,YOKOI Sakura,ODO Satsuki,3,2,"8,11,15,8,11|11,4,13,11,9",R32,GRAND_SLAM,WS,3242,Main Draw,YOKOI Sakura (JPN),ODO Satsuki (JPN)
-United States Smash 2026,2026-07-01,CHEN Xingtong,HUANG Yu-Jie,3,0,"12,11,11|10,3,3",R32,GRAND_SLAM,WS,3242,Main Draw,CHEN Xingtong (CHN),HUANG Yu-Jie (TPE)
-United States Smash 2026,2026-07-01,LIN Shidong/HUANG Youzheng,QUEK Izaac/PANG Koen,3,1,"11,11,4,11|9,7,11,4",QF,GRAND_SLAM,MD,3242,Main Draw,LIN Shidong/HUANG Youzheng (CHN),QUEK Izaac/PANG Koen (SGP)
-United States Smash 2026,2026-07-01,SIDORENKO Vladimir,DUDA Benedikt,3,0,"11,11,11|8,9,5",R32,GRAND_SLAM,MS,3242,Main Draw,SIDORENKO Vladimir (AIN),DUDA Benedikt (GER)
-United States Smash 2026,2026-07-01,WANG Yidi,YANG Ha Eun,3,1,"11,11,9,11|7,1,11,4",R32,GRAND_SLAM,WS,3242,Main Draw,WANG Yidi (CHN),YANG Ha Eun (KOR)
-United States Smash 2026,2026-07-01,SUN Yingsha,MITTELHAM Nina,3,0,"11,11,11|1,4,6",R32,GRAND_SLAM,WS,3242,Main Draw,SUN Yingsha (CHN),MITTELHAM Nina (GER)
-United States Smash 2026,2026-07-01,SHINOZUKA Hiroto,WEN Ruibo,3,2,"11,7,11,4,11|8,11,8,11,4",R32,GRAND_SLAM,MS,3242,Main Draw,SHINOZUKA Hiroto (JPN),WEN Ruibo (CHN)
-United States Smash 2026,2026-07-01,JANG Woojin,FRANZISKA Patrick,3,2,"11,11,8,9,14|3,7,11,11,12",R32,GRAND_SLAM,MS,3242,Main Draw,JANG Woojin (KOR),FRANZISKA Patrick (GER)
-United States Smash 2026,2026-07-01,SHIN Yubin/JOO Cheonhui,CHIEN Tung-Chuan/LI Yu-Jhun,3,0,"11,11,11|7,6,9",QF,GRAND_SLAM,WD,3242,Main Draw,SHIN Yubin/JOO Cheonhui (KOR),CHIEN Tung-Chuan/LI Yu-Jhun (TPE)
-United States Smash 2026,2026-07-01,CALDERANO Hugo/TAKAHASHI Bruna,LIANG Jishan/MOYLAND Sally,3,2,"11,7,11,10,11|6,11,8,12,4",QF,GRAND_SLAM,XD,3242,Main Draw,CALDERANO Hugo/TAKAHASHI Bruna (BRA),LIANG Jishan/MOYLAND Sally (USA)
-United States Smash 2026,2026-07-01,WANG Chuqin/SUN Yingsha,LEBRUN Alexis/ODO Satsuki,3,2,"9,10,11,11,11|11,12,2,6,4",QF,GRAND_SLAM,XD,3242,Main Draw,WANG Chuqin/SUN Yingsha (CHN),LEBRUN Alexis/ODO Satsuki (FRA/JPN)
-United States Smash 2026,2026-07-01,QIN Yuxuan,DOO Hoi Kem,3,1,"12,11,8,11|10,7,11,7",R32,GRAND_SLAM,WS,3242,Main Draw,QIN Yuxuan (CHN),DOO Hoi Kem (HKG)
-United States Smash 2026,2026-07-01,HARIMOTO Tomokazu,BARDET Lilian,3,0,"12,11,13|10,7,11",R32,GRAND_SLAM,MS,3242,Main Draw,HARIMOTO Tomokazu (JPN),BARDET Lilian (FRA)
-United States Smash 2026,2026-07-01,MOREGARD Truls,BERTELSMEIER Andre,3,2,"10,13,5,11,12|12,11,11,6,10",R32,GRAND_SLAM,MS,3242,Main Draw,MOREGARD Truls (SWE),BERTELSMEIER Andre (GER)
-United States Smash 2026,2026-07-01,ZHU Yuling,PAVADE Prithika,3,0,"11,11,11|6,8,8",R32,GRAND_SLAM,WS,3242,Main Draw,ZHU Yuling (MAC),PAVADE Prithika (FRA)
-United States Smash 2026,2026-07-01,MESHREF Dina,SHI Xunyao,3,1,"11,4,11,11|4,11,9,9",R32,GRAND_SLAM,WS,3242,Main Draw,MESHREF Dina (EGY),SHI Xunyao (CHN)
-United States Smash 2026,2026-07-01,DUDA Benedikt/QIU Dang,OH Junsung/LIM Jonghoon,3,0,"11,11,11|2,3,8",QF,GRAND_SLAM,MD,3242,Main Draw,DUDA Benedikt/QIU Dang (GER),OH Junsung/LIM Jonghoon (KOR)
-United States Smash 2026,2026-07-01,WANG Yidi/CHEN Yi,NAGASAKI Miyu/KIM Nayeong,3,2,"7,11,11,8,11|11,8,9,11,8",QF,GRAND_SLAM,WD,3242,Main Draw,WANG Yidi/CHEN Yi (CHN),NAGASAKI Miyu/KIM Nayeong (JPN/KOR)
-United States Smash 2026,2026-07-01,JOO Cheonhui,TAKAHASHI Bruna,3,1,"4,11,11,11|11,6,6,5",R32,GRAND_SLAM,WS,3242,Main Draw,JOO Cheonhui (KOR),TAKAHASHI Bruna (BRA)
-United States Smash 2026,2026-07-01,UDA Yukiya,KUO Guan-Hong,3,1,"4,12,11,11|11,10,8,7",R32,GRAND_SLAM,MS,3242,Main Draw,UDA Yukiya (JPN),KUO Guan-Hong (TPE)
-United States Smash 2026,2026-07-01,HARIMOTO Miwa/HAYATA Hina,CHITALE Diya/GHORPADE Yashaswini,3,0,"11,11,11|8,3,5",QF,GRAND_SLAM,WD,3242,Main Draw,HARIMOTO Miwa/HAYATA Hina (JPN),CHITALE Diya/GHORPADE Yashaswini (IND)
-United States Smash 2026,2026-07-01,WANG Manyu/KUAI Man,HURSEY Anna/XIAO Maria,3,1,"11,12,12,11|8,14,10,3",QF,GRAND_SLAM,WD,3242,Main Draw,WANG Manyu/KUAI Man (CHN),HURSEY Anna/XIAO Maria (WAL/ESP)
-United States Smash 2026,2026-07-01,WEN Ruibo/YUAN Licen,THAKKAR Manav/SHAH Manush,3,1,"11,11,8,11|6,5,11,8",QF,GRAND_SLAM,MD,3242,Main Draw,WEN Ruibo/YUAN Licen (CHN),THAKKAR Manav/SHAH Manush (IND)
-United States Smash 2026,2026-07-01,CALDERANO Hugo,CHEN Yuanyu,3,0,"11,11,11|5,5,2",R32,GRAND_SLAM,MS,3242,Main Draw,CALDERANO Hugo (BRA),CHEN Yuanyu (CHN)
-United States Smash 2026,2026-07-01,LIN Yun-Ju/FENG Yi-Hsin,BURGOS Nicolas/GOMEZ Gustavo,3,1,"6,11,11,11|11,8,5,1",QF,GRAND_SLAM,MD,3242,Main Draw,LIN Yun-Ju/FENG Yi-Hsin (TPE),BURGOS Nicolas/GOMEZ Gustavo (CHI)
-United States Smash 2026,2026-07-02,LIM Jonghoon/SHIN Yubin,WEN Ruibo/KUAI Man,3,1,"13,11,5,11|11,6,11,9",SF,GRAND_SLAM,XD,3242,Main Draw,LIM Jonghoon/SHIN Yubin (KOR),WEN Ruibo/KUAI Man (CHN)
-United States Smash 2026,2026-07-02,HAYATA Hina,HAN Ying,3,0,"11,11,11|6,9,7",R16,GRAND_SLAM,WS,3242,Main Draw,HAYATA Hina (JPN),HAN Ying (GER)
-United States Smash 2026,2026-07-02,LEBRUN Alexis,LIN Shidong,3,0,"11,11,11|9,9,8",R16,GRAND_SLAM,MS,3242,Main Draw,LEBRUN Alexis (FRA),LIN Shidong (CHN)
-United States Smash 2026,2026-07-02,HARIMOTO Miwa,ITO Mima,3,0,"11,11,11|7,8,7",R16,GRAND_SLAM,WS,3242,Main Draw,HARIMOTO Miwa (JPN),ITO Mima (JPN)
-United States Smash 2026,2026-07-02,LIND Anders,WANG Chuqin,3,1,"13,11,8,11|11,2,11,7",R16,GRAND_SLAM,MS,3242,Main Draw,LIND Anders (DEN),WANG Chuqin (CHN)
-United States Smash 2026,2026-07-02,WANG Manyu/KUAI Man,WANG Yidi/CHEN Yi,3,0,"11,11,16|7,6,14",SF,GRAND_SLAM,WD,3242,Main Draw,WANG Manyu/KUAI Man (CHN),WANG Yidi/CHEN Yi (CHN)
-United States Smash 2026,2026-07-02,WANG Chuqin/SUN Yingsha,CALDERANO Hugo/TAKAHASHI Bruna,3,0,"11,11,11|9,4,6",SF,GRAND_SLAM,XD,3242,Main Draw,WANG Chuqin/SUN Yingsha (CHN),CALDERANO Hugo/TAKAHASHI Bruna (BRA)
-United States Smash 2026,2026-07-02,KUAI Man,SHIN Yubin,3,0,"11,11,13|8,8,11",R16,GRAND_SLAM,WS,3242,Main Draw,KUAI Man (CHN),SHIN Yubin (KOR)
-United States Smash 2026,2026-07-02,MATSUSHIMA Sora,QIU Dang,3,0,"15,11,11|13,9,9",R16,GRAND_SLAM,MS,3242,Main Draw,MATSUSHIMA Sora (JPN),QIU Dang (GER)
-United States Smash 2026,2026-07-02,SATO Hitomi,HASHIMOTO Honoka,3,0,"11,11,11|8,6,9",R16,GRAND_SLAM,WS,3242,Main Draw,SATO Hitomi (JPN),HASHIMOTO Honoka (JPN)
-United States Smash 2026,2026-07-02,LEBRUN Felix,GERALDO Joao,3,0,"11,11,11|7,8,8",R16,GRAND_SLAM,MS,3242,Main Draw,LEBRUN Felix (FRA),GERALDO Joao (POR)
-United States Smash 2026,2026-07-02,HARIMOTO Miwa/HAYATA Hina,SHIN Yubin/JOO Cheonhui,3,1,"11,11,12,11|7,8,14,8",SF,GRAND_SLAM,WD,3242,Main Draw,HARIMOTO Miwa/HAYATA Hina (JPN),SHIN Yubin/JOO Cheonhui (KOR)
-United States Smash 2026,2026-07-03,LIM Jonghoon/SHIN Yubin,WANG Chuqin/SUN Yingsha,3,2,"11,6,7,11,11|9,11,11,7,8",F,GRAND_SLAM,XD,3242,Main Draw,LIM Jonghoon/SHIN Yubin (KOR),WANG Chuqin/SUN Yingsha (CHN)
-United States Smash 2026,2026-07-03,MOREGARD Truls,JHA Kanak,3,1,"11,6,11,11|3,11,5,9",R16,GRAND_SLAM,MS,3242,Main Draw,MOREGARD Truls (SWE),JHA Kanak (USA)
-United States Smash 2026,2026-07-03,WANG Yidi,YOKOI Sakura,3,2,"15,11,7,11,11|13,13,11,6,9",R16,GRAND_SLAM,WS,3242,Main Draw,WANG Yidi (CHN),YOKOI Sakura (JPN)
-United States Smash 2026,2026-07-03,SIDORENKO Vladimir,HARIMOTO Tomokazu,3,0,"11,13,11|8,11,8",R16,GRAND_SLAM,MS,3242,Main Draw,SIDORENKO Vladimir (AIN),HARIMOTO Tomokazu (JPN)
-United States Smash 2026,2026-07-03,JOO Cheonhui,ZHU Yuling,3,0,"11,11,15|4,8,13",R16,GRAND_SLAM,WS,3242,Main Draw,JOO Cheonhui (KOR),ZHU Yuling (MAC)
-United States Smash 2026,2026-07-03,LIN Shidong/HUANG Youzheng,DUDA Benedikt/QIU Dang,3,0,"11,11,11|7,8,6",SF,GRAND_SLAM,MD,3242,Main Draw,LIN Shidong/HUANG Youzheng (CHN),DUDA Benedikt/QIU Dang (GER)
-United States Smash 2026,2026-07-03,SHINOZUKA Hiroto,CALDERANO Hugo,3,1,"4,11,11,11|11,9,6,3",R16,GRAND_SLAM,MS,3242,Main Draw,SHINOZUKA Hiroto (JPN),CALDERANO Hugo (BRA)
-United States Smash 2026,2026-07-03,SUN Yingsha,MESHREF Dina,3,0,"11,11,11|8,3,5",R16,GRAND_SLAM,WS,3242,Main Draw,SUN Yingsha (CHN),MESHREF Dina (EGY)
-United States Smash 2026,2026-07-03,JANG Woojin,UDA Yukiya,3,1,"9,11,11,11|11,8,6,8",R16,GRAND_SLAM,MS,3242,Main Draw,JANG Woojin (KOR),UDA Yukiya (JPN)
-United States Smash 2026,2026-07-03,CHEN Xingtong,QIN Yuxuan,3,0,"11,11,11|2,5,5",R16,GRAND_SLAM,WS,3242,Main Draw,CHEN Xingtong (CHN),QIN Yuxuan (CHN)
-United States Smash 2026,2026-07-03,WEN Ruibo/YUAN Licen,LIN Yun-Ju/FENG Yi-Hsin,3,0,"12,11,11|10,8,7",SF,GRAND_SLAM,MD,3242,Main Draw,WEN Ruibo/YUAN Licen (CHN),LIN Yun-Ju/FENG Yi-Hsin (TPE)
-United States Smash 2026,2026-07-04,WEN Ruibo/YUAN Licen,LIN Shidong/HUANG Youzheng,3,2,"11,8,6,11,11|9,11,11,7,9",F,GRAND_SLAM,MD,3242,Main Draw,WEN Ruibo/YUAN Licen (CHN),LIN Shidong/HUANG Youzheng (CHN)
-United States Smash 2026,2026-07-04,SIDORENKO Vladimir,SHINOZUKA Hiroto,4,1,"11,11,8,11,11|9,9,11,9,8",QF,GRAND_SLAM,MS,3242,Main Draw,SIDORENKO Vladimir (AIN),SHINOZUKA Hiroto (JPN)
-United States Smash 2026,2026-07-04,KUAI Man,SATO Hitomi,4,3,"5,11,9,7,12,11,18|11,5,11,11,10,3,16",QF,GRAND_SLAM,WS,3242,Main Draw,KUAI Man (CHN),SATO Hitomi (JPN)
-United States Smash 2026,2026-07-04,MOREGARD Truls,JANG Woojin,4,0,"11,11,11,11|4,6,5,5",QF,GRAND_SLAM,MS,3242,Main Draw,MOREGARD Truls (SWE),JANG Woojin (KOR)
-United States Smash 2026,2026-07-04,SUN Yingsha,CHEN Xingtong,4,0,"11,11,11,11|5,5,6,6",QF,GRAND_SLAM,WS,3242,Main Draw,SUN Yingsha (CHN),CHEN Xingtong (CHN)
-United States Smash 2026,2026-07-04,WANG Manyu/KUAI Man,HARIMOTO Miwa/HAYATA Hina,3,1,"13,4,14,11|11,11,12,8",F,GRAND_SLAM,WD,3242,Main Draw,WANG Manyu/KUAI Man (CHN),HARIMOTO Miwa/HAYATA Hina (JPN)
-United States Smash 2026,2026-07-04,MATSUSHIMA Sora,LIND Anders,4,0,"11,11,11,11|5,7,5,8",QF,GRAND_SLAM,MS,3242,Main Draw,MATSUSHIMA Sora (JPN),LIND Anders (DEN)
-United States Smash 2026,2026-07-04,WANG Yidi,JOO Cheonhui,4,0,"11,11,11,11|8,5,7,6",QF,GRAND_SLAM,WS,3242,Main Draw,WANG Yidi (CHN),JOO Cheonhui (KOR)
-United States Smash 2026,2026-07-04,LEBRUN Felix,LEBRUN Alexis,4,2,"9,6,11,11,11,11|11,11,7,6,9,8",QF,GRAND_SLAM,MS,3242,Main Draw,LEBRUN Felix (FRA),LEBRUN Alexis (FRA)
-United States Smash 2026,2026-07-04,HARIMOTO Miwa,HAYATA Hina,4,1,"11,11,13,9,11|7,7,11,11,6",QF,GRAND_SLAM,WS,3242,Main Draw,HARIMOTO Miwa (JPN),HAYATA Hina (JPN)
-United States Smash 2026,2026-07-05,MATSUSHIMA Sora,SIDORENKO Vladimir,4,2,"11,11,11,11,5,11|5,13,7,4,11,7",F,GRAND_SLAM,MS,3242,Main Draw,MATSUSHIMA Sora (JPN),SIDORENKO Vladimir (AIN)
-United States Smash 2026,2026-07-05,SUN Yingsha,KUAI Man,4,3,"11,11,9,11,7,10,11|9,6,11,5,11,12,4",F,GRAND_SLAM,WS,3242,Main Draw,SUN Yingsha (CHN),KUAI Man (CHN)
-United States Smash 2026,2026-07-05,SIDORENKO Vladimir,MOREGARD Truls,4,3,"4,11,5,3,11,11,12|11,8,11,11,9,4,10",SF,GRAND_SLAM,MS,3242,Main Draw,SIDORENKO Vladimir (AIN),MOREGARD Truls (SWE)
-United States Smash 2026,2026-07-05,MATSUSHIMA Sora,LEBRUN Felix,4,1,"12,11,10,12,12|10,7,12,10,10",SF,GRAND_SLAM,MS,3242,Main Draw,MATSUSHIMA Sora (JPN),LEBRUN Felix (FRA)
-United States Smash 2026,2026-07-05,KUAI Man,HARIMOTO Miwa,4,3,"11,10,12,11,4,11,11|9,12,14,8,11,9,8",SF,GRAND_SLAM,WS,3242,Main Draw,KUAI Man (CHN),HARIMOTO Miwa (JPN)
-United States Smash 2026,2026-07-05,SUN Yingsha,WANG Yidi,4,1,"11,11,11,9,11|6,9,9,11,3",SF,GRAND_SLAM,WS,3242,Main Draw,SUN Yingsha (CHN),WANG Yidi (CHN)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+United States Smash 2026,2026-06-26,ZAHARIA Elena,MONFARDINI Gaia,3,2,"11,9,9,11,11|9,11,11,7,7",QR2,GRAND_SLAM,WS,3242,Qualification,ZAHARIA Elena (ROU),MONFARDINI Gaia (ITA),ZAHARIA Elena
+United States Smash 2026,2026-06-26,YANG Xiaoxin,ORTEGA Daniela,3,1,"8,11,11,11|11,8,5,6",QR2,GRAND_SLAM,WS,3242,Qualification,YANG Xiaoxin (MON),ORTEGA Daniela (CHI),YANG Xiaoxin
+United States Smash 2026,2026-06-26,GACINA Andrej,KUMAR Nikhil,3,1,"9,11,11,12|11,9,5,10",QR2,GRAND_SLAM,MS,3242,Qualification,GACINA Andrej (CRO),KUMAR Nikhil (USA),GACINA Andrej
+United States Smash 2026,2026-06-26,BERTELSMEIER Andre,KARLSSON Mattias,3,2,"8,12,11,9,11|11,10,8,11,7",QR2,GRAND_SLAM,MS,3242,Qualification,BERTELSMEIER Andre (GER),KARLSSON Mattias (SWE),BERTELSMEIER Andre
+United States Smash 2026,2026-06-26,ANDRAS Csaba,APOLONIA Tiago,3,1,"10,11,12,11|12,4,10,7",QR2,GRAND_SLAM,MS,3242,Qualification,ANDRAS Csaba (HUN),APOLONIA Tiago (POR),ANDRAS Csaba
+United States Smash 2026,2026-06-26,PICCOLIN Giorgia,MUKHERJEE Sutirtha,3,2,"11,11,7,9,11|5,5,11,11,4",QR2,GRAND_SLAM,WS,3242,Qualification,PICCOLIN Giorgia (ITA),MUKHERJEE Sutirtha (IND),PICCOLIN Giorgia
+United States Smash 2026,2026-06-26,NG Wing Lam,LUPULESKU Izabela,3,0,"11,11,11|9,8,8",QR2,GRAND_SLAM,WS,3242,Qualification,NG Wing Lam (HKG),LUPULESKU Izabela (SRB),NG Wing Lam
+United States Smash 2026,2026-06-26,GHORPADE Yashaswini,SURJAN Sabina,3,1,"11,11,9,11|6,6,11,8",QR2,GRAND_SLAM,WS,3242,Qualification,GHORPADE Yashaswini (IND),SURJAN Sabina (SRB),GHORPADE Yashaswini
+United States Smash 2026,2026-06-26,FENG Yi-Hsin,TEODORO Guilherme,3,1,"13,8,11,11|11,11,7,8",QR2,GRAND_SLAM,MS,3242,Qualification,FENG Yi-Hsin (TPE),TEODORO Guilherme (BRA),FENG Yi-Hsin
+United States Smash 2026,2026-06-26,HUANG Youzheng,OYEBODE John,3,0,"11,12,11|5,10,9",QR2,GRAND_SLAM,MS,3242,Qualification,HUANG Youzheng (CHN),OYEBODE John (ITA),HUANG Youzheng
+United States Smash 2026,2026-06-26,CHAN Baldwin,WANG Eugene,3,1,"17,11,11,11|15,8,13,6",QR2,GRAND_SLAM,MS,3242,Qualification,CHAN Baldwin (HKG),WANG Eugene (CAN),CHAN Baldwin
+United States Smash 2026,2026-06-26,ZARIF Audrey,JEE Minhyung,3,1,"11,8,11,11|3,11,9,7",QR2,GRAND_SLAM,WS,3242,Qualification,ZARIF Audrey (FRA),JEE Minhyung (AUS),ZARIF Audrey
+United States Smash 2026,2026-06-26,DE NUTTE Sarah,LUTZ Camille,3,1,"14,7,13,11|12,11,11,8",QR2,GRAND_SLAM,WS,3242,Qualification,DE NUTTE Sarah (LUX),LUTZ Camille (FRA),DE NUTTE Sarah
+United States Smash 2026,2026-06-26,RANEFUR Elias,BURGOS Nicolas,3,0,"11,11,11|4,4,6",QR2,GRAND_SLAM,MS,3242,Qualification,RANEFUR Elias (SWE),BURGOS Nicolas (CHI),RANEFUR Elias
+United States Smash 2026,2026-06-26,LIM Jonghoon,LIAO Cheng-Ting,3,1,"14,11,12,11|12,13,10,7",QR2,GRAND_SLAM,MS,3242,Qualification,LIM Jonghoon (KOR),LIAO Cheng-Ting (TPE),LIM Jonghoon
+United States Smash 2026,2026-06-26,SHAN Xiaona,ZHANG Sofia-Xuan,3,1,"6,13,12,11|11,11,10,8",QR2,GRAND_SLAM,WS,3242,Qualification,SHAN Xiaona (GER),ZHANG Sofia-Xuan (ESP),SHAN Xiaona
+United States Smash 2026,2026-06-26,CIFUENTES Horacio,LY Edward,3,1,"11,8,11,11|7,11,4,9",QR1,GRAND_SLAM,MS,3242,Qualification,CIFUENTES Horacio (ARG),LY Edward (CAN),CIFUENTES Horacio
+United States Smash 2026,2026-06-26,PSIHOGIOS Constantina,CHEN Hildy,3,0,"11,11,11|7,7,5",QR1,GRAND_SLAM,WS,3242,Qualification,PSIHOGIOS Constantina (AUS),CHEN Hildy (USA),PSIHOGIOS Constantina
+United States Smash 2026,2026-06-26,APOLONIA Tiago,LUO Alex,3,0,"11,11,11|1,4,7",QR1,GRAND_SLAM,MS,3242,Qualification,APOLONIA Tiago (POR),LUO Alex (USA),APOLONIA Tiago
+United States Smash 2026,2026-06-26,CHANG Yu-An,BATIX Ylane,3,2,"8,11,11,7,11|11,7,7,11,3",QR1,GRAND_SLAM,MS,3242,Qualification,CHANG Yu-An (TPE),BATIX Ylane (CMR),CHANG Yu-An
+United States Smash 2026,2026-06-26,VARADY Barbora,WANG Ke,3,0,"11,11,11|9,6,6",QR1,GRAND_SLAM,WS,3242,Qualification,VARADY Barbora (SVK),WANG Ke (USA),VARADY Barbora
+United States Smash 2026,2026-06-26,ORTEGA Daniela,ASPATHI Satya,3,2,"11,11,7,5,11|6,8,11,11,6",QR1,GRAND_SLAM,WS,3242,Qualification,ORTEGA Daniela (CHI),ASPATHI Satya (USA),ORTEGA Daniela
+United States Smash 2026,2026-06-26,IONESCU Ovidiu,NARESH Sid,3,1,"11,9,11,11|4,11,5,8",QR1,GRAND_SLAM,MS,3242,Qualification,IONESCU Ovidiu (ROU),NARESH Sid (USA),IONESCU Ovidiu
+United States Smash 2026,2026-06-26,BERGAND Filippa,ARAPOVIC Hana,3,1,"11,5,11,11|7,11,7,9",QR1,GRAND_SLAM,WS,3242,Qualification,BERGAND Filippa (SWE),ARAPOVIC Hana (CRO),BERGAND Filippa
+United States Smash 2026,2026-06-26,KUMAR Nikhil,LAM Siu Hang,3,1,"9,11,14,13|11,7,12,11",QR1,GRAND_SLAM,MS,3242,Qualification,KUMAR Nikhil (USA),LAM Siu Hang (HKG),KUMAR Nikhil
+United States Smash 2026,2026-06-26,KUKULKOVA Tatiana,DIACONU Adina,3,1,"11,5,13,12|7,11,11,10",QR1,GRAND_SLAM,WS,3242,Qualification,KUKULKOVA Tatiana (SVK),DIACONU Adina (ROU),KUKULKOVA Tatiana
+United States Smash 2026,2026-06-26,ALLEGRO Martin,CASTRO Rogelio,3,1,"13,11,8,11|11,8,11,9",QR1,GRAND_SLAM,MS,3242,Qualification,ALLEGRO Martin (BEL),CASTRO Rogelio (MEX),ALLEGRO Martin
+United States Smash 2026,2026-06-26,TAN Zhao Yun,WU Jiamuwa,3,0,"11,11,11|5,4,5",QR1,GRAND_SLAM,WS,3242,Qualification,TAN Zhao Yun (SGP),WU Jiamuwa (AUS),TAN Zhao Yun
+United States Smash 2026,2026-06-26,KOZUL Deni,QUEK Izaac,3,0,"11,11,11|6,9,6",QR1,GRAND_SLAM,MS,3242,Qualification,KOZUL Deni (SLO),QUEK Izaac (SGP),KOZUL Deni
+United States Smash 2026,2026-06-26,IIZUKA Leonardo,SALIFOU Abdel-Kader,3,0,"11,11,16|8,9,14",QR1,GRAND_SLAM,MS,3242,Qualification,IIZUKA Leonardo (BRA),SALIFOU Abdel-Kader (BEN),IIZUKA Leonardo
+United States Smash 2026,2026-06-26,ALTINKAYA Sibel,TAKAHASHI Giulia,3,0,"11,12,11|7,10,5",QR1,GRAND_SLAM,WS,3242,Qualification,ALTINKAYA Sibel (TUR),TAKAHASHI Giulia (BRA),ALTINKAYA Sibel
+United States Smash 2026,2026-06-26,AKASHEVA Zauresh,KALLBERG Christina,3,2,"11,3,5,13,11|9,11,11,11,3",QR1,GRAND_SLAM,WS,3242,Qualification,AKASHEVA Zauresh (KAZ),KALLBERG Christina (SWE),AKASHEVA Zauresh
+United States Smash 2026,2026-06-26,CHIRITA Iulian,NUYTINCK Cedric,3,2,"11,11,6,9,11|7,6,11,11,4",QR1,GRAND_SLAM,MS,3242,Qualification,CHIRITA Iulian (ROU),NUYTINCK Cedric (BEL),CHIRITA Iulian
+United States Smash 2026,2026-06-26,ZAHARIA Elena,NEUMANN Josephina,3,0,"11,11,11|3,8,4",QR1,GRAND_SLAM,WS,3242,Qualification,ZAHARIA Elena (ROU),NEUMANN Josephina (GER),ZAHARIA Elena
+United States Smash 2026,2026-06-26,KARLSSON Mattias,PISTEJ Lubomir,3,2,"12,11,7,11,11|14,8,11,4,7",QR1,GRAND_SLAM,MS,3242,Qualification,KARLSSON Mattias (SWE),PISTEJ Lubomir (SVK),KARLSSON Mattias
+United States Smash 2026,2026-06-26,OYEBODE John,MLADENOVIC Luka,3,1,"16,11,11,11|18,6,8,6",QR1,GRAND_SLAM,MS,3242,Qualification,OYEBODE John (ITA),MLADENOVIC Luka (LUX),OYEBODE John
+United States Smash 2026,2026-06-26,ZARIF Audrey,WATANABE Laura,3,0,"11,11,11|9,9,4",QR1,GRAND_SLAM,WS,3242,Qualification,ZARIF Audrey (FRA),WATANABE Laura (BRA),ZARIF Audrey
+United States Smash 2026,2026-06-26,WEGRZYN Katarzyna,VEGA Paulina,3,1,"11,11,11,11|9,13,7,6",QR1,GRAND_SLAM,WS,3242,Qualification,WEGRZYN Katarzyna (POL),VEGA Paulina (CHI),WEGRZYN Katarzyna
+United States Smash 2026,2026-06-26,LUPULESKU Izabela,ARLIA Nicole,3,0,"12,12,12|10,10,10",QR1,GRAND_SLAM,WS,3242,Qualification,LUPULESKU Izabela (SRB),ARLIA Nicole (ITA),LUPULESKU Izabela
+United States Smash 2026,2026-06-26,TEODORO Guilherme,BAE Hwan,3,0,"11,11,11|8,8,7",QR1,GRAND_SLAM,MS,3242,Qualification,TEODORO Guilherme (BRA),BAE Hwan (AUS),TEODORO Guilherme
+United States Smash 2026,2026-06-26,XUE Fei,SURAVAJJULA Snehit,3,0,"11,11,11|7,9,7",QR1,GRAND_SLAM,MS,3242,Qualification,XUE Fei (CHN),SURAVAJJULA Snehit (IND),XUE Fei
+United States Smash 2026,2026-06-26,WANG Eugene,PAL Akash,3,1,"10,11,11,11|12,5,8,5",QR1,GRAND_SLAM,MS,3242,Qualification,WANG Eugene (CAN),PAL Akash (IND),WANG Eugene
+United States Smash 2026,2026-06-26,SURJAN Sabina,WAN Yuan,3,1,"9,11,11,11|11,9,4,7",QR1,GRAND_SLAM,WS,3242,Qualification,SURJAN Sabina (SRB),WAN Yuan (GER),SURJAN Sabina
+United States Smash 2026,2026-06-26,ZHANG Sofia-Xuan,BURGOS Brianna,3,0,"11,11,11|9,6,9",QR1,GRAND_SLAM,WS,3242,Qualification,ZHANG Sofia-Xuan (ESP),BURGOS Brianna (PUR),ZHANG Sofia-Xuan
+United States Smash 2026,2026-06-26,LIAO Cheng-Ting,SAREEN Aditya,3,2,"11,14,12,3,11|13,12,10,11,6",QR1,GRAND_SLAM,MS,3242,Qualification,LIAO Cheng-Ting (TPE),SAREEN Aditya (AUS),LIAO Cheng-Ting
+United States Smash 2026,2026-06-26,BURGOS Nicolas,GOMEZ Gustavo,3,0,"11,11,12|8,7,10",QR1,GRAND_SLAM,MS,3242,Qualification,BURGOS Nicolas (CHI),GOMEZ Gustavo (CHI),BURGOS Nicolas
+United States Smash 2026,2026-06-26,MUKHERJEE Sutirtha,PIYADASA Tashiya,3,2,"11,11,6,2,11|5,3,11,11,9",QR1,GRAND_SLAM,WS,3242,Qualification,MUKHERJEE Sutirtha (IND),PIYADASA Tashiya (USA),MUKHERJEE Sutirtha
+United States Smash 2026,2026-06-26,LUTZ Camille,YU Mandy,3,0,"11,11,11|1,8,3",QR1,GRAND_SLAM,WS,3242,Qualification,LUTZ Camille (FRA),YU Mandy (USA),LUTZ Camille
+United States Smash 2026,2026-06-27,SHAO Jieni,HO Tin-Tin,3,1,"16,10,11,11|14,12,6,7",QR3,GRAND_SLAM,WS,3242,Qualification,SHAO Jieni (POR),HO Tin-Tin (ENG),SHAO Jieni
+United States Smash 2026,2026-06-27,CIFUENTES Horacio,FREITAS Marcos,3,1,"11,11,10,11|6,7,12,5",QR3,GRAND_SLAM,MS,3242,Qualification,CIFUENTES Horacio (ARG),FREITAS Marcos (POR),CIFUENTES Horacio
+United States Smash 2026,2026-06-27,KAO Cheng-Jui,XUE Fei,3,2,"9,11,12,13,11|11,4,10,15,7",QR3,GRAND_SLAM,MS,3242,Qualification,KAO Cheng-Jui (TPE),XUE Fei (CHN),KAO Cheng-Jui
+United States Smash 2026,2026-06-27,PENG Yu-Han,CHIEN Tung-Chuan,3,2,"7,10,11,12,11|11,12,9,10,6",QR3,GRAND_SLAM,WS,3242,Qualification,PENG Yu-Han (TPE),CHIEN Tung-Chuan (TPE),PENG Yu-Han
+United States Smash 2026,2026-06-27,HUANG Yu-Jie,SER Lin Qian,3,1,"11,11,9,11|6,7,11,5",QR3,GRAND_SLAM,WS,3242,Qualification,HUANG Yu-Jie (TPE),SER Lin Qian (SGP),HUANG Yu-Jie
+United States Smash 2026,2026-06-27,TAN Zhao Yun,AKASHEVA Zauresh,3,1,"9,11,11,11|11,7,9,7",QR3,GRAND_SLAM,WS,3242,Qualification,TAN Zhao Yun (SGP),AKASHEVA Zauresh (KAZ),TAN Zhao Yun
+United States Smash 2026,2026-06-27,URSU Vladislav,ALLEGRO Martin,3,0,"11,11,11|5,8,8",QR3,GRAND_SLAM,MS,3242,Qualification,URSU Vladislav (MDA),ALLEGRO Martin (BEL),URSU Vladislav
+United States Smash 2026,2026-06-27,CHIRITA Iulian,KOZUL Deni,3,2,"7,11,5,11,11|11,6,11,5,8",QR3,GRAND_SLAM,MS,3242,Qualification,CHIRITA Iulian (ROU),KOZUL Deni (SLO),CHIRITA Iulian
+United States Smash 2026,2026-06-27,ZAHARIA Elena,YANG Xiaoxin,3,0,"11,11,11|3,4,6",QR3,GRAND_SLAM,WS,3242,Qualification,ZAHARIA Elena (ROU),YANG Xiaoxin (MON),ZAHARIA Elena
+United States Smash 2026,2026-06-27,BERTELSMEIER Andre,GACINA Andrej,3,0,"11,11,14|9,7,12",QR3,GRAND_SLAM,MS,3242,Qualification,BERTELSMEIER Andre (GER),GACINA Andrej (CRO),BERTELSMEIER Andre
+United States Smash 2026,2026-06-27,ANDRAS Csaba,FENG Yi-Hsin,3,2,"11,11,1,9,11|9,7,11,11,7",QR3,GRAND_SLAM,MS,3242,Qualification,ANDRAS Csaba (HUN),FENG Yi-Hsin (TPE),ANDRAS Csaba
+United States Smash 2026,2026-06-27,GHORPADE Yashaswini,PICCOLIN Giorgia,3,1,"9,11,11,11|11,4,3,9",QR3,GRAND_SLAM,WS,3242,Qualification,GHORPADE Yashaswini (IND),PICCOLIN Giorgia (ITA),GHORPADE Yashaswini
+United States Smash 2026,2026-06-27,SHAN Xiaona,NG Wing Lam,3,1,"11,11,8,13|8,6,11,11",QR3,GRAND_SLAM,WS,3242,Qualification,SHAN Xiaona (GER),NG Wing Lam (HKG),SHAN Xiaona
+United States Smash 2026,2026-06-27,CHAN Baldwin,HUANG Youzheng,3,0,"17,11,13|15,8,11",QR3,GRAND_SLAM,MS,3242,Qualification,CHAN Baldwin (HKG),HUANG Youzheng (CHN),CHAN Baldwin
+United States Smash 2026,2026-06-27,ZARIF Audrey,DE NUTTE Sarah,3,2,"8,12,11,6,11|11,10,7,11,7",QR3,GRAND_SLAM,WS,3242,Qualification,ZARIF Audrey (FRA),DE NUTTE Sarah (LUX),ZARIF Audrey
+United States Smash 2026,2026-06-27,RANEFUR Elias,LIM Jonghoon,3,1,"11,11,8,11|6,4,11,7",QR3,GRAND_SLAM,MS,3242,Qualification,RANEFUR Elias (SWE),LIM Jonghoon (KOR),RANEFUR Elias
+United States Smash 2026,2026-06-27,SHAO Jieni,PSIHOGIOS Constantina,3,0,"11,11,11|9,5,4",QR2,GRAND_SLAM,WS,3242,Qualification,SHAO Jieni (POR),PSIHOGIOS Constantina (AUS),SHAO Jieni
+United States Smash 2026,2026-06-27,FREITAS Marcos,CHANG Yu-An,3,2,"7,9,11,12,11|11,11,9,10,6",QR2,GRAND_SLAM,MS,3242,Qualification,FREITAS Marcos (POR),CHANG Yu-An (TPE),FREITAS Marcos
+United States Smash 2026,2026-06-27,CIFUENTES Horacio,SHAH Manush,3,0,"13,11,11|11,7,6",QR2,GRAND_SLAM,MS,3242,Qualification,CIFUENTES Horacio (ARG),SHAH Manush (IND),CIFUENTES Horacio
+United States Smash 2026,2026-06-27,HO Tin-Tin,VARADY Barbora,3,0,"11,11,12|6,8,10",QR2,GRAND_SLAM,WS,3242,Qualification,HO Tin-Tin (ENG),VARADY Barbora (SVK),HO Tin-Tin
+United States Smash 2026,2026-06-27,PENG Yu-Han,BERGAND Filippa,3,2,"13,12,11,9,11|11,14,6,11,9",QR2,GRAND_SLAM,WS,3242,Qualification,PENG Yu-Han (TPE),BERGAND Filippa (SWE),PENG Yu-Han
+United States Smash 2026,2026-06-27,KAO Cheng-Jui,IIZUKA Leonardo,3,1,"11,11,5,11|8,6,11,9",QR2,GRAND_SLAM,MS,3242,Qualification,KAO Cheng-Jui (TPE),IIZUKA Leonardo (BRA),KAO Cheng-Jui
+United States Smash 2026,2026-06-27,XUE Fei,WALTHER Ricardo,3,2,"8,11,9,11,11|11,9,11,6,6",QR2,GRAND_SLAM,MS,3242,Qualification,XUE Fei (CHN),WALTHER Ricardo (GER),XUE Fei
+United States Smash 2026,2026-06-27,ALLEGRO Martin,PARK Gyuhyeon,3,2,"5,11,9,13,11|11,9,11,11,8",QR2,GRAND_SLAM,MS,3242,Qualification,ALLEGRO Martin (BEL),PARK Gyuhyeon (KOR),ALLEGRO Martin
+United States Smash 2026,2026-06-27,HUANG Yu-Jie,KUKULKOVA Tatiana,3,0,"11,11,11|9,5,4",QR2,GRAND_SLAM,WS,3242,Qualification,HUANG Yu-Jie (TPE),KUKULKOVA Tatiana (SVK),HUANG Yu-Jie
+United States Smash 2026,2026-06-27,SER Lin Qian,ALTINKAYA Sibel,3,1,"11,11,4,11|8,7,11,8",QR2,GRAND_SLAM,WS,3242,Qualification,SER Lin Qian (SGP),ALTINKAYA Sibel (TUR),SER Lin Qian
+United States Smash 2026,2026-06-27,AKASHEVA Zauresh,CHITALE Diya,3,2,"9,5,12,11,11|11,11,10,6,9",QR2,GRAND_SLAM,WS,3242,Qualification,AKASHEVA Zauresh (KAZ),CHITALE Diya (IND),AKASHEVA Zauresh
+United States Smash 2026,2026-06-27,KOZUL Deni,BOULOUSSA Mehdi,3,1,"11,5,11,14|7,11,5,12",QR2,GRAND_SLAM,MS,3242,Qualification,KOZUL Deni (SLO),BOULOUSSA Mehdi (ALG),KOZUL Deni
+United States Smash 2026,2026-06-27,URSU Vladislav,IONESCU Ovidiu,3,2,"11,12,9,4,11|5,10,11,11,9",QR2,GRAND_SLAM,MS,3242,Qualification,URSU Vladislav (MDA),IONESCU Ovidiu (ROU),URSU Vladislav
+United States Smash 2026,2026-06-27,CHIRITA Iulian,ROBLES Alvaro,3,2,"12,10,14,8,11|10,12,12,11,7",QR2,GRAND_SLAM,MS,3242,Qualification,CHIRITA Iulian (ROU),ROBLES Alvaro (ESP),CHIRITA Iulian
+United States Smash 2026,2026-06-27,TAN Zhao Yun,MUKHERJEE Ayhika,3,1,"12,13,11,11|10,11,13,2",QR2,GRAND_SLAM,WS,3242,Qualification,TAN Zhao Yun (SGP),MUKHERJEE Ayhika (IND),TAN Zhao Yun
+United States Smash 2026,2026-06-27,CHIEN Tung-Chuan,WEGRZYN Katarzyna,3,1,"11,8,11,11|6,11,9,8",QR2,GRAND_SLAM,WS,3242,Qualification,CHIEN Tung-Chuan (TPE),WEGRZYN Katarzyna (POL),CHIEN Tung-Chuan
+United States Smash 2026,2026-06-28,LIANG Jishan/MOYLAND Sally,PANG Koen/ZENG Jian,3,2,"13,9,12,10,11|11,11,10,12,4",R32,GRAND_SLAM,XD,3242,Main Draw,LIANG Jishan/MOYLAND Sally (USA),PANG Koen/ZENG Jian (SGP),LIANG Jishan/MOYLAND Sally
+United States Smash 2026,2026-06-28,PISTEJ Lubomir/KUKULKOVA Tatiana,CHAN Baldwin/KIM Nayeong,3,1,"9,11,11,11|11,6,8,9",R32,GRAND_SLAM,XD,3242,Main Draw,PISTEJ Lubomir/KUKULKOVA Tatiana (SVK),CHAN Baldwin/KIM Nayeong (HKG/KOR),PISTEJ Lubomir/KUKULKOVA Tatiana
+United States Smash 2026,2026-06-28,LUPULESKU Izabela/SURJAN Sabina,PAVADE Prithika/LUTZ Charlotte,3,1,"11,5,11,11|7,11,4,4",R32,GRAND_SLAM,WD,3242,Main Draw,LUPULESKU Izabela/SURJAN Sabina (SRB),PAVADE Prithika/LUTZ Charlotte (FRA),LUPULESKU Izabela/SURJAN Sabina
+United States Smash 2026,2026-06-28,NARESH Nandan/REYES LAI Jessica,BOTHA Bosman/QIN Yuxuan,3,0,"14,11,11|12,5,6",R32,GRAND_SLAM,XD,3242,Main Draw,NARESH Nandan/REYES LAI Jessica (USA),BOTHA Bosman/QIN Yuxuan (USA/CHN),NARESH Nandan/REYES LAI Jessica
+United States Smash 2026,2026-06-28,FRANZISKA Patrick/DIAZ Adriana,SAREEN Aditya/VARADY Barbora,3,0,"11,11,11|3,7,5",R32,GRAND_SLAM,XD,3242,Main Draw,FRANZISKA Patrick/DIAZ Adriana (GER/PUR),SAREEN Aditya/VARADY Barbora (AUS/SVK),FRANZISKA Patrick/DIAZ Adriana
+United States Smash 2026,2026-06-28,ITO Mima,WANG Amy,3,1,"11,7,11,11|2,11,7,5",R64,GRAND_SLAM,WS,3242,Main Draw,ITO Mima (JPN),WANG Amy (USA),ITO Mima
+United States Smash 2026,2026-06-28,WONG Chun Ting,GROTH Jonathan,3,2,"5,12,12,8,11|11,10,10,11,6",R64,GRAND_SLAM,MS,3242,Main Draw,WONG Chun Ting (HKG),GROTH Jonathan (DEN),WONG Chun Ting
+United States Smash 2026,2026-06-28,QIU Dang/WINTER Sabine,GOMEZ Gustavo/ORTEGA Daniela,3,0,"11,11,11|3,9,3",R32,GRAND_SLAM,XD,3242,Main Draw,QIU Dang/WINTER Sabine (GER),GOMEZ Gustavo/ORTEGA Daniela (CHI),QIU Dang/WINTER Sabine
+United States Smash 2026,2026-06-28,LIND Anders/HURSEY Anna,MLADENOVIC Luka/NG Wing Lam,3,0,"11,11,14|7,5,12",R32,GRAND_SLAM,XD,3242,Main Draw,LIND Anders/HURSEY Anna (DEN/WAL),MLADENOVIC Luka/NG Wing Lam (LUX/HKG),LIND Anders/HURSEY Anna
+United States Smash 2026,2026-06-28,KUO Guan-Hong,LIN Yun-Ju,3,2,"11,11,2,8,11|9,8,11,11,4",R64,GRAND_SLAM,MS,3242,Main Draw,KUO Guan-Hong (TPE),LIN Yun-Ju (TPE),KUO Guan-Hong
+United States Smash 2026,2026-06-28,CALDERANO Hugo,YOSHIMURA Maharu,3,1,"11,11,7,11|4,8,11,9",R64,GRAND_SLAM,MS,3242,Main Draw,CALDERANO Hugo (BRA),YOSHIMURA Maharu (JPN),CALDERANO Hugo
+United States Smash 2026,2026-06-28,HASHIMOTO Honoka,YU Fu,3,0,"13,11,11|11,7,5",R64,GRAND_SLAM,WS,3242,Main Draw,HASHIMOTO Honoka (JPN),YU Fu (POR),HASHIMOTO Honoka
+United States Smash 2026,2026-06-28,SHI Xunyao,SAMARA Elizabeta,3,2,"12,8,11,12,11|10,11,7,14,9",R64,GRAND_SLAM,WS,3242,Main Draw,SHI Xunyao (CHN),SAMARA Elizabeta (ROU),SHI Xunyao
+United States Smash 2026,2026-06-28,TANAKA Yuta,GNANASEKARAN Sathiyan,3,0,"11,11,12|5,7,10",R64,GRAND_SLAM,MS,3242,Main Draw,TANAKA Yuta (JPN),GNANASEKARAN Sathiyan (IND),TANAKA Yuta
+United States Smash 2026,2026-06-28,WEN Ruibo/KUAI Man,LUM Nicholas/LIU Yangzi,3,1,"11,11,6,11|1,9,11,5",R32,GRAND_SLAM,XD,3242,Main Draw,WEN Ruibo/KUAI Man (CHN),LUM Nicholas/LIU Yangzi (AUS),WEN Ruibo/KUAI Man
+United States Smash 2026,2026-06-28,WANG Manyu,YEOH Irene,3,0,"11,11,11|5,3,4",R64,GRAND_SLAM,WS,3242,Main Draw,WANG Manyu (CHN),YEOH Irene (USA),WANG Manyu
+United States Smash 2026,2026-06-28,RASSENFOSSE Adrien,RANEFUR Elias,3,1,"11,7,11,11|8,11,3,9",R64,GRAND_SLAM,MS,3242,Main Draw,RASSENFOSSE Adrien (BEL),RANEFUR Elias (SWE),RASSENFOSSE Adrien
+United States Smash 2026,2026-06-28,CHENG I-Ching,REYES LAI Jessica,3,0,"12,11,11|10,5,6",R64,GRAND_SLAM,WS,3242,Main Draw,CHENG I-Ching (TPE),REYES LAI Jessica (USA),CHENG I-Ching
+United States Smash 2026,2026-06-28,UDA Yukiya,URSU Vladislav,3,2,"7,11,6,11,11|11,9,11,6,7",R64,GRAND_SLAM,MS,3242,Main Draw,UDA Yukiya (JPN),URSU Vladislav (MDA),UDA Yukiya
+United States Smash 2026,2026-06-28,WANG Chuqin,ZHOU Qihao,3,0,"11,15,11|6,13,3",R64,GRAND_SLAM,MS,3242,Main Draw,WANG Chuqin (CHN),ZHOU Qihao (CHN),WANG Chuqin
+United States Smash 2026,2026-06-28,GERALDO Joao,CHIRITA Iulian,3,2,"9,11,10,11,12|11,9,12,4,10",R64,GRAND_SLAM,MS,3242,Main Draw,GERALDO Joao (POR),CHIRITA Iulian (ROU),GERALDO Joao
+United States Smash 2026,2026-06-28,ZENG Jian,BAJOR Natalia,3,1,"11,6,11,11|7,11,8,9",R64,GRAND_SLAM,WS,3242,Main Draw,ZENG Jian (SGP),BAJOR Natalia (POL),ZENG Jian
+United States Smash 2026,2026-06-28,SATO Hitomi,DIAZ Adriana,3,0,"11,11,11|7,7,5",R64,GRAND_SLAM,WS,3242,Main Draw,SATO Hitomi (JPN),DIAZ Adriana (PUR),SATO Hitomi
+United States Smash 2026,2026-06-28,KIM Nayeong,XIAO Maria,3,0,"11,11,11|7,7,7",R64,GRAND_SLAM,WS,3242,Main Draw,KIM Nayeong (KOR),XIAO Maria (ESP),KIM Nayeong
+United States Smash 2026,2026-06-28,LIN Yun-Ju/FENG Yi-Hsin,BAE Hwan/CIFUENTES Horacio,3,0,"11,11,11|8,2,7",R32,GRAND_SLAM,MD,3242,Main Draw,LIN Yun-Ju/FENG Yi-Hsin (TPE),BAE Hwan/CIFUENTES Horacio (AUS/ARG),LIN Yun-Ju/FENG Yi-Hsin
+United States Smash 2026,2026-06-28,LEBRUN Alexis/ODO Satsuki,PORET Thibault/PAVADE Prithika,3,2,"6,14,11,8,11|11,12,4,11,6",R32,GRAND_SLAM,XD,3242,Main Draw,LEBRUN Alexis/ODO Satsuki (FRA/JPN),PORET Thibault/PAVADE Prithika (FRA),LEBRUN Alexis/ODO Satsuki
+United States Smash 2026,2026-06-28,FRANZISKA Patrick/OVTCHAROV Dimitrij,LIANG Jishan/BOTHA Bosman,3,0,"11,11,11|4,5,2",R32,GRAND_SLAM,MD,3242,Main Draw,FRANZISKA Patrick/OVTCHAROV Dimitrij (GER),LIANG Jishan/BOTHA Bosman (USA),FRANZISKA Patrick/OVTCHAROV Dimitrij
+United States Smash 2026,2026-06-28,LIU Yangzi/MITTELHAM Nina,MESHREF Dina/GODA Hana,3,2,"6,9,11,11,11|11,11,5,9,8",R32,GRAND_SLAM,WD,3242,Main Draw,LIU Yangzi/MITTELHAM Nina (AUS/GER),MESHREF Dina/GODA Hana (EGY),LIU Yangzi/MITTELHAM Nina
+United States Smash 2026,2026-06-28,MOYLAND Sally/ZHANG Lily,REYES LAI Jessica/WANG Amy,3,1,"11,11,6,11|5,9,11,2",R32,GRAND_SLAM,WD,3242,Main Draw,MOYLAND Sally/ZHANG Lily (USA),REYES LAI Jessica/WANG Amy (USA),MOYLAND Sally/ZHANG Lily
+United States Smash 2026,2026-06-28,SAMARA Elizabeta/SZOCS Bernadette,JEE Minhyung/BATRA Manika,3,2,"9,7,11,11,11|11,11,7,9,5",R32,GRAND_SLAM,WD,3242,Main Draw,SAMARA Elizabeta/SZOCS Bernadette (ROU),JEE Minhyung/BATRA Manika (AUS/IND),SAMARA Elizabeta/SZOCS Bernadette
+United States Smash 2026,2026-06-28,MATSUSHIMA Sora,GERASSIMENKO Kirill,3,0,"11,11,11|9,6,5",R64,GRAND_SLAM,MS,3242,Main Draw,MATSUSHIMA Sora (JPN),GERASSIMENKO Kirill (KAZ),MATSUSHIMA Sora
+United States Smash 2026,2026-06-28,IONESCU Eduard/MOVILEANU Darius,ZELINKA Jakub/PISTEJ Lubomir,3,2,"11,8,8,11,11|7,11,11,9,3",R32,GRAND_SLAM,MD,3242,Main Draw,IONESCU Eduard/MOVILEANU Darius (ROU),ZELINKA Jakub/PISTEJ Lubomir (SVK),IONESCU Eduard/MOVILEANU Darius
+United States Smash 2026,2026-06-28,CHEN Yuanyu,NARESH Nandan,3,1,"11,11,8,11|6,8,11,4",R64,GRAND_SLAM,MS,3242,Main Draw,CHEN Yuanyu (CHN),NARESH Nandan (USA),CHEN Yuanyu
+United States Smash 2026,2026-06-28,LIND Anders,LUM Nicholas,3,1,"11,11,9,11|6,6,11,5",R64,GRAND_SLAM,MS,3242,Main Draw,LIND Anders (DEN),LUM Nicholas (AUS),LIND Anders
+United States Smash 2026,2026-06-28,HARIMOTO Miwa,LI Yu-Jhun,3,0,"11,11,11|6,4,0",R64,GRAND_SLAM,WS,3242,Main Draw,HARIMOTO Miwa (JPN),LI Yu-Jhun (TPE),HARIMOTO Miwa
+United States Smash 2026,2026-06-28,ZHANG Mo,TAN Zhao Yun,3,0,"11,12,11|5,10,8",R64,GRAND_SLAM,WS,3242,Main Draw,ZHANG Mo (CAN),TAN Zhao Yun (SGP),ZHANG Mo
+United States Smash 2026,2026-06-28,HURSEY Anna,PENG Yu-Han,3,0,"13,11,12|11,8,10",R64,GRAND_SLAM,WS,3242,Main Draw,HURSEY Anna (WAL),PENG Yu-Han (TPE),HURSEY Anna
+United States Smash 2026,2026-06-28,WEN Ruibo/YUAN Licen,JHA Kanak/XUE Fei,3,1,"11,11,8,11|9,6,11,9",R32,GRAND_SLAM,MD,3242,Main Draw,WEN Ruibo/YUAN Licen (CHN),JHA Kanak/XUE Fei (USA/CHN),WEN Ruibo/YUAN Licen
+United States Smash 2026,2026-06-28,SHIN Yubin,LUTZ Charlotte,3,0,"13,11,11|11,8,6",R64,GRAND_SLAM,WS,3242,Main Draw,SHIN Yubin (KOR),LUTZ Charlotte (FRA),SHIN Yubin
+United States Smash 2026,2026-06-28,ASSAR Omar,LUU Finn,3,1,"15,9,12,11|13,11,10,8",R64,GRAND_SLAM,MS,3242,Main Draw,ASSAR Omar (EGY),LUU Finn (AUS),ASSAR Omar
+United States Smash 2026,2026-06-28,JORGIC Darko,TRAN Daniel,3,0,"11,11,11|6,7,8",R64,GRAND_SLAM,MS,3242,Main Draw,JORGIC Darko (SLO),TRAN Daniel (USA),JORGIC Darko
+United States Smash 2026,2026-06-28,THAKKAR Manav,COTON Flavien,3,2,"12,10,11,7,11|10,12,7,11,7",R64,GRAND_SLAM,MS,3242,Main Draw,THAKKAR Manav (IND),COTON Flavien (FRA),THAKKAR Manav
+United States Smash 2026,2026-06-28,HAYATA Hina,YEH Yi-Tian,3,0,"11,11,11|3,7,8",R64,GRAND_SLAM,WS,3242,Main Draw,HAYATA Hina (JPN),YEH Yi-Tian (TPE),HAYATA Hina
+United States Smash 2026,2026-06-28,SHAN Xiaona,DRAGOMAN Andreea,3,1,"8,11,11,11|11,8,5,8",R64,GRAND_SLAM,WS,3242,Main Draw,SHAN Xiaona (GER),DRAGOMAN Andreea (ROU),SHAN Xiaona
+United States Smash 2026,2026-06-28,MESHREF Dina,SHAO Jieni,3,1,"11,9,11,11|8,11,8,5",R64,GRAND_SLAM,WS,3242,Main Draw,MESHREF Dina (EGY),SHAO Jieni (POR),MESHREF Dina
+United States Smash 2026,2026-06-28,LEBRUN Felix,KAO Cheng-Jui,3,0,"11,12,11|9,10,6",R64,GRAND_SLAM,MS,3242,Main Draw,LEBRUN Felix (FRA),KAO Cheng-Jui (TPE),LEBRUN Felix
+United States Smash 2026,2026-06-28,LIN Shidong,PARK Ganghyeon,3,0,"11,11,11|5,2,6",R64,GRAND_SLAM,MS,3242,Main Draw,LIN Shidong (CHN),PARK Ganghyeon (KOR),LIN Shidong
+United States Smash 2026,2026-06-28,KUAI Man,ZAHARIA Elena,3,0,"11,11,11|3,6,4",R64,GRAND_SLAM,WS,3242,Main Draw,KUAI Man (CHN),ZAHARIA Elena (ROU),KUAI Man
+United States Smash 2026,2026-06-29,CALDERANO Hugo/TAKAHASHI Bruna,NARESH Nandan/REYES LAI Jessica,3,1,"11,13,11,11|7,15,3,8",R16,GRAND_SLAM,XD,3242,Main Draw,CALDERANO Hugo/TAKAHASHI Bruna (BRA),NARESH Nandan/REYES LAI Jessica (USA),CALDERANO Hugo/TAKAHASHI Bruna
+United States Smash 2026,2026-06-29,KUKULKOVA Tatiana/VARADY Barbora,SHAN Xiaona/LEE Eunhye,3,2,"11,11,7,3,11|9,8,11,11,8",R32,GRAND_SLAM,WD,3242,Main Draw,KUKULKOVA Tatiana/VARADY Barbora (SVK),SHAN Xiaona/LEE Eunhye (GER/KOR),KUKULKOVA Tatiana/VARADY Barbora
+United States Smash 2026,2026-06-29,ZHANG Lily,YUAN Jia Nan,3,1,"11,6,11,11|3,11,7,9",R64,GRAND_SLAM,WS,3242,Main Draw,ZHANG Lily (USA),YUAN Jia Nan (FRA),ZHANG Lily
+United States Smash 2026,2026-06-29,BURGOS Nicolas/GOMEZ Gustavo,LUM Nicholas/LUU Finn,3,1,"8,11,11,11|11,8,7,4",R32,GRAND_SLAM,MD,3242,Main Draw,BURGOS Nicolas/GOMEZ Gustavo (CHI),LUM Nicholas/LUU Finn (AUS),BURGOS Nicolas/GOMEZ Gustavo
+United States Smash 2026,2026-06-29,MATSUSHIMA Sora/TOGAMI Shunsuke,FREITAS Marcos/APOLONIA Tiago,3,1,"11,7,11,12|7,11,6,10",R32,GRAND_SLAM,MD,3242,Main Draw,MATSUSHIMA Sora/TOGAMI Shunsuke (JPN),FREITAS Marcos/APOLONIA Tiago (POR),MATSUSHIMA Sora/TOGAMI Shunsuke
+United States Smash 2026,2026-06-29,HARIMOTO Tomokazu,LIANG Jishan,3,0,"11,12,11|1,10,4",R64,GRAND_SLAM,MS,3242,Main Draw,HARIMOTO Tomokazu (JPN),LIANG Jishan (USA),HARIMOTO Tomokazu
+United States Smash 2026,2026-06-29,JOO Cheonhui,AKULA Sreeja,3,0,"12,11,11|10,8,2",R64,GRAND_SLAM,WS,3242,Main Draw,JOO Cheonhui (KOR),AKULA Sreeja (IND),JOO Cheonhui
+United States Smash 2026,2026-06-29,JARVIS Tom,OH Junsung,3,2,"11,11,7,8,11|8,2,11,11,5",R64,GRAND_SLAM,MS,3242,Main Draw,JARVIS Tom (ENG),OH Junsung (KOR),JARVIS Tom
+United States Smash 2026,2026-06-29,HURSEY Anna/XIAO Maria,BARCENAS Clio/COSSIO Arantxa,3,0,"11,12,11|4,10,8",R32,GRAND_SLAM,WD,3242,Main Draw,HURSEY Anna/XIAO Maria (WAL/ESP),BARCENAS Clio/COSSIO Arantxa (MEX),HURSEY Anna/XIAO Maria
+United States Smash 2026,2026-06-29,ZENG Jian/SER Lin Qian,ORTEGA Daniela/VEGA Paulina,3,1,"11,12,11,11|8,14,8,6",R32,GRAND_SLAM,WD,3242,Main Draw,ZENG Jian/SER Lin Qian (SGP),ORTEGA Daniela/VEGA Paulina (CHI),ZENG Jian/SER Lin Qian
+United States Smash 2026,2026-06-29,CHENG I-Ching/YEH Yi-Tian,WAN Yuan/WINTER Sabine,3,1,"6,12,11,15|11,10,9,13",R32,GRAND_SLAM,WD,3242,Main Draw,CHENG I-Ching/YEH Yi-Tian (TPE),WAN Yuan/WINTER Sabine (GER),CHENG I-Ching/YEH Yi-Tian
+United States Smash 2026,2026-06-29,WANG Yidi,PESOTSKA Margaryta,3,0,"11,11,11|5,9,8",R64,GRAND_SLAM,WS,3242,Main Draw,WANG Yidi (CHN),PESOTSKA Margaryta (UKR),WANG Yidi
+United States Smash 2026,2026-06-29,ODO Satsuki,LEE Eunhye,3,0,"11,16,11|8,14,3",R64,GRAND_SLAM,WS,3242,Main Draw,ODO Satsuki (JPN),LEE Eunhye (KOR),ODO Satsuki
+United States Smash 2026,2026-06-29,WEN Ruibo,JANCARIK Lubomir,3,0,"11,11,13|9,4,11",R64,GRAND_SLAM,MS,3242,Main Draw,WEN Ruibo (CHN),JANCARIK Lubomir (CZE),WEN Ruibo
+United States Smash 2026,2026-06-29,JHA Kanak,TOGAMI Shunsuke,3,2,"11,12,4,7,12|6,10,11,11,10",R64,GRAND_SLAM,MS,3242,Main Draw,JHA Kanak (USA),TOGAMI Shunsuke (JPN),JHA Kanak
+United States Smash 2026,2026-06-29,DUDA Benedikt,PORET Thibault,3,0,"11,11,11|7,6,3",R64,GRAND_SLAM,MS,3242,Main Draw,DUDA Benedikt (GER),PORET Thibault (FRA),DUDA Benedikt
+United States Smash 2026,2026-06-29,SHINOZUKA Hiroto,PITCHFORD Liam,3,1,"11,5,13,11|6,11,11,9",R64,GRAND_SLAM,MS,3242,Main Draw,SHINOZUKA Hiroto (JPN),PITCHFORD Liam (ENG),SHINOZUKA Hiroto
+United States Smash 2026,2026-06-29,HAN Ying,CHEN Yi,3,2,"5,9,11,11,11|11,11,3,7,7",R64,GRAND_SLAM,WS,3242,Main Draw,HAN Ying (GER),CHEN Yi (CHN),HAN Ying
+United States Smash 2026,2026-06-29,QIU Dang,ANDRAS Csaba,3,0,"11,11,11|3,8,2",R64,GRAND_SLAM,MS,3242,Main Draw,QIU Dang (GER),ANDRAS Csaba (HUN),QIU Dang
+United States Smash 2026,2026-06-29,DOO Hoi Kem,GODA Hana,3,2,"11,9,11,5,11|9,11,5,11,4",R64,GRAND_SLAM,WS,3242,Main Draw,DOO Hoi Kem (HKG),GODA Hana (EGY),DOO Hoi Kem
+United States Smash 2026,2026-06-29,YANG Ha Eun,ZARIF Audrey,3,1,"11,7,11,15|4,11,8,13",R64,GRAND_SLAM,WS,3242,Main Draw,YANG Ha Eun (KOR),ZARIF Audrey (FRA),YANG Ha Eun
+United States Smash 2026,2026-06-29,SUN Yingsha,LIU Yangzi,3,0,"11,11,11|9,3,6",R64,GRAND_SLAM,WS,3242,Main Draw,SUN Yingsha (CHN),LIU Yangzi (AUS),SUN Yingsha
+United States Smash 2026,2026-06-29,SIDORENKO Vladimir,CIFUENTES Horacio,3,0,"11,11,11|6,5,4",R64,GRAND_SLAM,MS,3242,Main Draw,SIDORENKO Vladimir (AIN),CIFUENTES Horacio (ARG),SIDORENKO Vladimir
+United States Smash 2026,2026-06-29,QIU Dang/WINTER Sabine,IONESCU Eduard/SZOCS Bernadette,3,2,"9,10,11,11,13|11,12,9,6,11",R16,GRAND_SLAM,XD,3242,Main Draw,QIU Dang/WINTER Sabine (GER),IONESCU Eduard/SZOCS Bernadette (ROU),QIU Dang/WINTER Sabine
+United States Smash 2026,2026-06-29,MOREGARD Truls,ARUNA Quadri,3,0,"14,11,11|12,6,5",R64,GRAND_SLAM,MS,3242,Main Draw,MOREGARD Truls (SWE),ARUNA Quadri (NGR),MOREGARD Truls
+United States Smash 2026,2026-06-29,LIANG Jishan/MOYLAND Sally,SHAH Manush/CHITALE Diya,3,1,"9,11,11,11|11,6,4,8",R16,GRAND_SLAM,XD,3242,Main Draw,LIANG Jishan/MOYLAND Sally (USA),SHAH Manush/CHITALE Diya (IND),LIANG Jishan/MOYLAND Sally
+United States Smash 2026,2026-06-29,LEBRUN Alexis/ODO Satsuki,ROBLES Alvaro/XIAO Maria,3,0,"11,11,11|9,5,3",R16,GRAND_SLAM,XD,3242,Main Draw,LEBRUN Alexis/ODO Satsuki (FRA/JPN),ROBLES Alvaro/XIAO Maria (ESP),LEBRUN Alexis/ODO Satsuki
+United States Smash 2026,2026-06-29,MATSUSHIMA Sora/HARIMOTO Miwa,FRANZISKA Patrick/DIAZ Adriana,3,2,"10,11,11,5,11|12,9,8,11,9",R16,GRAND_SLAM,XD,3242,Main Draw,MATSUSHIMA Sora/HARIMOTO Miwa (JPN),FRANZISKA Patrick/DIAZ Adriana (GER/PUR),MATSUSHIMA Sora/HARIMOTO Miwa
+United States Smash 2026,2026-06-29,WANG Chuqin/SUN Yingsha,PISTEJ Lubomir/KUKULKOVA Tatiana,3,0,"11,11,11|7,6,4",R16,GRAND_SLAM,XD,3242,Main Draw,WANG Chuqin/SUN Yingsha (CHN),PISTEJ Lubomir/KUKULKOVA Tatiana (SVK),WANG Chuqin/SUN Yingsha
+United States Smash 2026,2026-06-29,WEN Ruibo/KUAI Man,WONG Chun Ting/DOO Hoi Kem,3,0,"11,14,13|8,12,11",R16,GRAND_SLAM,XD,3242,Main Draw,WEN Ruibo/KUAI Man (CHN),WONG Chun Ting/DOO Hoi Kem (HKG),WEN Ruibo/KUAI Man
+United States Smash 2026,2026-06-29,LIM Jonghoon/SHIN Yubin,LIND Anders/HURSEY Anna,3,0,"11,11,11|9,3,8",R16,GRAND_SLAM,XD,3242,Main Draw,LIM Jonghoon/SHIN Yubin (KOR),LIND Anders/HURSEY Anna (DEN/WAL),LIM Jonghoon/SHIN Yubin
+United States Smash 2026,2026-06-29,TAKAHASHI Bruna,RAKOVAC Lea,3,1,"11,11,5,11|6,6,11,9",R64,GRAND_SLAM,WS,3242,Main Draw,TAKAHASHI Bruna (BRA),RAKOVAC Lea (CRO),TAKAHASHI Bruna
+United States Smash 2026,2026-06-29,CHEN Xingtong,YOO Yerin,3,0,"11,11,11|6,8,4",R64,GRAND_SLAM,WS,3242,Main Draw,CHEN Xingtong (CHN),YOO Yerin (KOR),CHEN Xingtong
+United States Smash 2026,2026-06-29,YOKOI Sakura,BATRA Manika,3,1,"7,11,11,11|11,9,4,8",R64,GRAND_SLAM,WS,3242,Main Draw,YOKOI Sakura (JPN),BATRA Manika (IND),YOKOI Sakura
+United States Smash 2026,2026-06-29,OVTCHAROV Dimitrij,SEYFRIED Joe,3,1,"9,11,11,11|11,5,7,5",R64,GRAND_SLAM,MS,3242,Main Draw,OVTCHAROV Dimitrij (GER),SEYFRIED Joe (FRA),OVTCHAROV Dimitrij
+United States Smash 2026,2026-06-29,GAUZY Simon,REDZIMSKI Milosz,3,1,"9,11,11,11|11,6,4,9",R64,GRAND_SLAM,MS,3242,Main Draw,GAUZY Simon (FRA),REDZIMSKI Milosz (POL),GAUZY Simon
+United States Smash 2026,2026-06-29,TEODORO Guilherme/IIZUKA Leonardo,NARESH Nandan/NARESH Sid,3,1,"11,11,9,11|3,5,11,7",R32,GRAND_SLAM,MD,3242,Main Draw,TEODORO Guilherme/IIZUKA Leonardo (BRA),NARESH Nandan/NARESH Sid (USA),TEODORO Guilherme/IIZUKA Leonardo
+United States Smash 2026,2026-06-29,MITTELHAM Nina,SZOCS Bernadette,3,0,"11,11,11|7,3,3",R64,GRAND_SLAM,WS,3242,Main Draw,MITTELHAM Nina (GER),SZOCS Bernadette (ROU),MITTELHAM Nina
+United States Smash 2026,2026-06-29,BERTELSMEIER Andre,AN Jaehyun,3,1,"7,11,11,11|11,8,8,9",R64,GRAND_SLAM,MS,3242,Main Draw,BERTELSMEIER Andre (GER),AN Jaehyun (KOR),BERTELSMEIER Andre
+United States Smash 2026,2026-06-29,PAVADE Prithika,MOYLAND Sally,3,2,"11,11,11,9,11|9,13,9,11,7",R64,GRAND_SLAM,WS,3242,Main Draw,PAVADE Prithika (FRA),MOYLAND Sally (USA),PAVADE Prithika
+United States Smash 2026,2026-06-29,QIN Yuxuan,WINTER Sabine,3,1,"11,6,12,11|8,11,10,9",R64,GRAND_SLAM,WS,3242,Main Draw,QIN Yuxuan (CHN),WINTER Sabine (GER),QIN Yuxuan
+United States Smash 2026,2026-06-29,FRANZISKA Patrick,PUCAR Tomislav,3,1,"4,12,13,11|11,10,11,6",R64,GRAND_SLAM,MS,3242,Main Draw,FRANZISKA Patrick (GER),PUCAR Tomislav (CRO),FRANZISKA Patrick
+United States Smash 2026,2026-06-29,HUANG Yu-Jie,NAGASAKI Miyu,3,1,"6,11,13,13|11,9,11,11",R64,GRAND_SLAM,WS,3242,Main Draw,HUANG Yu-Jie (TPE),NAGASAKI Miyu (JPN),HUANG Yu-Jie
+United States Smash 2026,2026-06-29,BARDET Lilian,IONESCU Eduard,3,2,"7,11,11,12,11|11,7,6,14,8",R64,GRAND_SLAM,MS,3242,Main Draw,BARDET Lilian (FRA),IONESCU Eduard (ROU),BARDET Lilian
+United States Smash 2026,2026-06-29,ZHU Yuling,GHORPADE Yashaswini,3,1,"11,5,11,11|7,11,3,9",R64,GRAND_SLAM,WS,3242,Main Draw,ZHU Yuling (MAC),GHORPADE Yashaswini (IND),ZHU Yuling
+United States Smash 2026,2026-06-29,LEBRUN Alexis,KALLBERG Anton,3,0,"11,11,13|4,9,11",R64,GRAND_SLAM,MS,3242,Main Draw,LEBRUN Alexis (FRA),KALLBERG Anton (SWE),LEBRUN Alexis
+United States Smash 2026,2026-06-29,JANG Woojin,CHAN Baldwin,3,0,"11,11,11|7,3,7",R64,GRAND_SLAM,MS,3242,Main Draw,JANG Woojin (KOR),CHAN Baldwin (HKG),JANG Woojin
+United States Smash 2026,2026-06-30,THAKKAR Manav/SHAH Manush,MATSUSHIMA Sora/TOGAMI Shunsuke,3,1,"8,11,11,11|11,8,8,7",R16,GRAND_SLAM,MD,3242,Main Draw,THAKKAR Manav/SHAH Manush (IND),MATSUSHIMA Sora/TOGAMI Shunsuke (JPN),THAKKAR Manav/SHAH Manush
+United States Smash 2026,2026-06-30,LIND Anders,RASSENFOSSE Adrien,3,1,"9,11,11,11|11,7,9,9",R32,GRAND_SLAM,MS,3242,Main Draw,LIND Anders (DEN),RASSENFOSSE Adrien (BEL),LIND Anders
+United States Smash 2026,2026-06-30,HASHIMOTO Honoka,CHENG I-Ching,3,0,"13,11,12|11,6,10",R32,GRAND_SLAM,WS,3242,Main Draw,HASHIMOTO Honoka (JPN),CHENG I-Ching (TPE),HASHIMOTO Honoka
+United States Smash 2026,2026-06-30,ITO Mima,SHAN Xiaona,3,0,"11,11,11|2,2,8",R32,GRAND_SLAM,WS,3242,Main Draw,ITO Mima (JPN),SHAN Xiaona (GER),ITO Mima
+United States Smash 2026,2026-06-30,LIN Shidong,TANAKA Yuta,3,0,"11,11,11|9,8,5",R32,GRAND_SLAM,MS,3242,Main Draw,LIN Shidong (CHN),TANAKA Yuta (JPN),LIN Shidong
+United States Smash 2026,2026-06-30,GERALDO Joao,JORGIC Darko,3,1,"12,11,6,11|10,9,11,8",R32,GRAND_SLAM,MS,3242,Main Draw,GERALDO Joao (POR),JORGIC Darko (SLO),GERALDO Joao
+United States Smash 2026,2026-06-30,HARIMOTO Miwa/HAYATA Hina,MOYLAND Sally/ZHANG Lily,3,0,"11,11,11|8,3,6",R16,GRAND_SLAM,WD,3242,Main Draw,HARIMOTO Miwa/HAYATA Hina (JPN),MOYLAND Sally/ZHANG Lily (USA),HARIMOTO Miwa/HAYATA Hina
+United States Smash 2026,2026-06-30,KUAI Man,ZHANG Mo,3,1,"11,2,11,11|6,11,7,4",R32,GRAND_SLAM,WS,3242,Main Draw,KUAI Man (CHN),ZHANG Mo (CAN),KUAI Man
+United States Smash 2026,2026-06-30,OH Junsung/LIM Jonghoon,TEODORO Guilherme/IIZUKA Leonardo,3,1,"11,11,8,11|6,8,11,9",R16,GRAND_SLAM,MD,3242,Main Draw,OH Junsung/LIM Jonghoon (KOR),TEODORO Guilherme/IIZUKA Leonardo (BRA),OH Junsung/LIM Jonghoon
+United States Smash 2026,2026-06-30,WANG Chuqin,THAKKAR Manav,3,0,"11,11,11|3,5,9",R32,GRAND_SLAM,MS,3242,Main Draw,WANG Chuqin (CHN),THAKKAR Manav (IND),WANG Chuqin
+United States Smash 2026,2026-06-30,QUEK Izaac/PANG Koen,ALLEGRO Martin/RASSENFOSSE Adrien,3,0,"11,11,11|5,3,3",R16,GRAND_SLAM,MD,3242,Main Draw,QUEK Izaac/PANG Koen (SGP),ALLEGRO Martin/RASSENFOSSE Adrien (BEL),QUEK Izaac/PANG Koen
+United States Smash 2026,2026-06-30,NAGASAKI Miyu/KIM Nayeong,ZENG Jian/SER Lin Qian,3,0,"11,11,11|7,5,5",R16,GRAND_SLAM,WD,3242,Main Draw,NAGASAKI Miyu/KIM Nayeong (JPN/KOR),ZENG Jian/SER Lin Qian (SGP),NAGASAKI Miyu/KIM Nayeong
+United States Smash 2026,2026-06-30,DUDA Benedikt/QIU Dang,FRANZISKA Patrick/OVTCHAROV Dimitrij,3,2,"11,6,11,11,11|13,11,4,7,6",R16,GRAND_SLAM,MD,3242,Main Draw,DUDA Benedikt/QIU Dang (GER),FRANZISKA Patrick/OVTCHAROV Dimitrij (GER),DUDA Benedikt/QIU Dang
+United States Smash 2026,2026-06-30,SATO Hitomi,WANG Manyu,3,0,"12,11,15|10,4,13",R32,GRAND_SLAM,WS,3242,Main Draw,SATO Hitomi (JPN),WANG Manyu (CHN),SATO Hitomi
+United States Smash 2026,2026-06-30,CHIEN Tung-Chuan/LI Yu-Jhun,KUKULKOVA Tatiana/VARADY Barbora,3,2,"11,6,11,9,11|7,11,4,11,7",R16,GRAND_SLAM,WD,3242,Main Draw,CHIEN Tung-Chuan/LI Yu-Jhun (TPE),KUKULKOVA Tatiana/VARADY Barbora (SVK),CHIEN Tung-Chuan/LI Yu-Jhun
+United States Smash 2026,2026-06-30,HURSEY Anna/XIAO Maria,DOO Hoi Kem/NG Wing Lam,3,0,"22,11,11|20,9,9",R16,GRAND_SLAM,WD,3242,Main Draw,HURSEY Anna/XIAO Maria (WAL/ESP),DOO Hoi Kem/NG Wing Lam (HKG),HURSEY Anna/XIAO Maria
+United States Smash 2026,2026-06-30,LEBRUN Alexis,GAUZY Simon,3,2,"6,11,11,3,12|11,5,5,11,10",R32,GRAND_SLAM,MS,3242,Main Draw,LEBRUN Alexis (FRA),GAUZY Simon (FRA),LEBRUN Alexis
+United States Smash 2026,2026-06-30,WANG Yidi/CHEN Yi,SAMARA Elizabeta/SZOCS Bernadette,3,1,"11,8,11,13|4,11,3,11",R16,GRAND_SLAM,WD,3242,Main Draw,WANG Yidi/CHEN Yi (CHN),SAMARA Elizabeta/SZOCS Bernadette (ROU),WANG Yidi/CHEN Yi
+United States Smash 2026,2026-06-30,SHIN Yubin,KIM Nayeong,3,0,"11,11,11|4,2,6",R32,GRAND_SLAM,WS,3242,Main Draw,SHIN Yubin (KOR),KIM Nayeong (KOR),SHIN Yubin
+United States Smash 2026,2026-06-30,LEBRUN Felix,WONG Chun Ting,3,1,"11,11,11,12|7,13,9,10",R32,GRAND_SLAM,MS,3242,Main Draw,LEBRUN Felix (FRA),WONG Chun Ting (HKG),LEBRUN Felix
+United States Smash 2026,2026-06-30,QIU Dang,OVTCHAROV Dimitrij,3,1,"7,11,14,11|11,8,12,9",R32,GRAND_SLAM,MS,3242,Main Draw,QIU Dang (GER),OVTCHAROV Dimitrij (GER),QIU Dang
+United States Smash 2026,2026-06-30,HAYATA Hina,ZENG Jian,3,0,"11,11,11|4,7,6",R32,GRAND_SLAM,WS,3242,Main Draw,HAYATA Hina (JPN),ZENG Jian (SGP),HAYATA Hina
+United States Smash 2026,2026-06-30,WANG Manyu/KUAI Man,LIU Yangzi/MITTELHAM Nina,3,0,"14,11,11|12,6,9",R16,GRAND_SLAM,WD,3242,Main Draw,WANG Manyu/KUAI Man (CHN),LIU Yangzi/MITTELHAM Nina (AUS/GER),WANG Manyu/KUAI Man
+United States Smash 2026,2026-06-30,MATSUSHIMA Sora,ASSAR Omar,3,0,"11,11,11|2,8,4",R32,GRAND_SLAM,MS,3242,Main Draw,MATSUSHIMA Sora (JPN),ASSAR Omar (EGY),MATSUSHIMA Sora
+United States Smash 2026,2026-06-30,BURGOS Nicolas/GOMEZ Gustavo,DORR Esteban/BOURRASSAUD Florian,3,1,"8,11,11,11|11,8,5,8",R16,GRAND_SLAM,MD,3242,Main Draw,BURGOS Nicolas/GOMEZ Gustavo (CHI),DORR Esteban/BOURRASSAUD Florian (FRA),BURGOS Nicolas/GOMEZ Gustavo
+United States Smash 2026,2026-06-30,HAN Ying,ZHANG Lily,3,0,"11,11,11|3,8,2",R32,GRAND_SLAM,WS,3242,Main Draw,HAN Ying (GER),ZHANG Lily (USA),HAN Ying
+United States Smash 2026,2026-06-30,CHITALE Diya/GHORPADE Yashaswini,CHENG I-Ching/YEH Yi-Tian,3,2,"11,12,11,6,11|13,10,4,11,7",R16,GRAND_SLAM,WD,3242,Main Draw,CHITALE Diya/GHORPADE Yashaswini (IND),CHENG I-Ching/YEH Yi-Tian (TPE),CHITALE Diya/GHORPADE Yashaswini
+United States Smash 2026,2026-06-30,HARIMOTO Miwa,HURSEY Anna,3,0,"11,11,11|7,8,4",R32,GRAND_SLAM,WS,3242,Main Draw,HARIMOTO Miwa (JPN),HURSEY Anna (WAL),HARIMOTO Miwa
+United States Smash 2026,2026-06-30,LIN Yun-Ju/FENG Yi-Hsin,WONG Chun Ting/CHAN Baldwin,3,2,"11,9,11,10,11|9,11,6,12,9",R16,GRAND_SLAM,MD,3242,Main Draw,LIN Yun-Ju/FENG Yi-Hsin (TPE),WONG Chun Ting/CHAN Baldwin (HKG),LIN Yun-Ju/FENG Yi-Hsin
+United States Smash 2026,2026-06-30,SHIN Yubin/JOO Cheonhui,LUPULESKU Izabela/SURJAN Sabina,3,1,"11,11,10,14|8,5,12,12",R16,GRAND_SLAM,WD,3242,Main Draw,SHIN Yubin/JOO Cheonhui (KOR),LUPULESKU Izabela/SURJAN Sabina (SRB),SHIN Yubin/JOO Cheonhui
+United States Smash 2026,2026-06-30,WEN Ruibo/YUAN Licen,LEBRUN Alexis/LEBRUN Felix,3,0,"11,11,11|8,4,9",R16,GRAND_SLAM,MD,3242,Main Draw,WEN Ruibo/YUAN Licen (CHN),LEBRUN Alexis/LEBRUN Felix (FRA),WEN Ruibo/YUAN Licen
+United States Smash 2026,2026-06-30,LIN Shidong/HUANG Youzheng,IONESCU Eduard/MOVILEANU Darius,3,0,"11,11,11|4,2,4",R16,GRAND_SLAM,MD,3242,Main Draw,LIN Shidong/HUANG Youzheng (CHN),IONESCU Eduard/MOVILEANU Darius (ROU),LIN Shidong/HUANG Youzheng
+United States Smash 2026,2026-07-01,LIM Jonghoon/SHIN Yubin,QIU Dang/WINTER Sabine,3,0,"11,11,12|4,3,10",QF,GRAND_SLAM,XD,3242,Main Draw,LIM Jonghoon/SHIN Yubin (KOR),QIU Dang/WINTER Sabine (GER),LIM Jonghoon/SHIN Yubin
+United States Smash 2026,2026-07-01,WEN Ruibo/KUAI Man,MATSUSHIMA Sora/HARIMOTO Miwa,3,1,"11,11,8,11|8,2,11,9",QF,GRAND_SLAM,XD,3242,Main Draw,WEN Ruibo/KUAI Man (CHN),MATSUSHIMA Sora/HARIMOTO Miwa (JPN),WEN Ruibo/KUAI Man
+United States Smash 2026,2026-07-01,JHA Kanak,JARVIS Tom,3,1,"11,11,6,11|2,3,11,4",R32,GRAND_SLAM,MS,3242,Main Draw,JHA Kanak (USA),JARVIS Tom (ENG),JHA Kanak
+United States Smash 2026,2026-07-01,YOKOI Sakura,ODO Satsuki,3,2,"8,11,15,8,11|11,4,13,11,9",R32,GRAND_SLAM,WS,3242,Main Draw,YOKOI Sakura (JPN),ODO Satsuki (JPN),YOKOI Sakura
+United States Smash 2026,2026-07-01,CHEN Xingtong,HUANG Yu-Jie,3,0,"12,11,11|10,3,3",R32,GRAND_SLAM,WS,3242,Main Draw,CHEN Xingtong (CHN),HUANG Yu-Jie (TPE),CHEN Xingtong
+United States Smash 2026,2026-07-01,LIN Shidong/HUANG Youzheng,QUEK Izaac/PANG Koen,3,1,"11,11,4,11|9,7,11,4",QF,GRAND_SLAM,MD,3242,Main Draw,LIN Shidong/HUANG Youzheng (CHN),QUEK Izaac/PANG Koen (SGP),LIN Shidong/HUANG Youzheng
+United States Smash 2026,2026-07-01,SIDORENKO Vladimir,DUDA Benedikt,3,0,"11,11,11|8,9,5",R32,GRAND_SLAM,MS,3242,Main Draw,SIDORENKO Vladimir (AIN),DUDA Benedikt (GER),SIDORENKO Vladimir
+United States Smash 2026,2026-07-01,WANG Yidi,YANG Ha Eun,3,1,"11,11,9,11|7,1,11,4",R32,GRAND_SLAM,WS,3242,Main Draw,WANG Yidi (CHN),YANG Ha Eun (KOR),WANG Yidi
+United States Smash 2026,2026-07-01,SUN Yingsha,MITTELHAM Nina,3,0,"11,11,11|1,4,6",R32,GRAND_SLAM,WS,3242,Main Draw,SUN Yingsha (CHN),MITTELHAM Nina (GER),SUN Yingsha
+United States Smash 2026,2026-07-01,SHINOZUKA Hiroto,WEN Ruibo,3,2,"11,7,11,4,11|8,11,8,11,4",R32,GRAND_SLAM,MS,3242,Main Draw,SHINOZUKA Hiroto (JPN),WEN Ruibo (CHN),SHINOZUKA Hiroto
+United States Smash 2026,2026-07-01,JANG Woojin,FRANZISKA Patrick,3,2,"11,11,8,9,14|3,7,11,11,12",R32,GRAND_SLAM,MS,3242,Main Draw,JANG Woojin (KOR),FRANZISKA Patrick (GER),JANG Woojin
+United States Smash 2026,2026-07-01,SHIN Yubin/JOO Cheonhui,CHIEN Tung-Chuan/LI Yu-Jhun,3,0,"11,11,11|7,6,9",QF,GRAND_SLAM,WD,3242,Main Draw,SHIN Yubin/JOO Cheonhui (KOR),CHIEN Tung-Chuan/LI Yu-Jhun (TPE),SHIN Yubin/JOO Cheonhui
+United States Smash 2026,2026-07-01,CALDERANO Hugo/TAKAHASHI Bruna,LIANG Jishan/MOYLAND Sally,3,2,"11,7,11,10,11|6,11,8,12,4",QF,GRAND_SLAM,XD,3242,Main Draw,CALDERANO Hugo/TAKAHASHI Bruna (BRA),LIANG Jishan/MOYLAND Sally (USA),CALDERANO Hugo/TAKAHASHI Bruna
+United States Smash 2026,2026-07-01,WANG Chuqin/SUN Yingsha,LEBRUN Alexis/ODO Satsuki,3,2,"9,10,11,11,11|11,12,2,6,4",QF,GRAND_SLAM,XD,3242,Main Draw,WANG Chuqin/SUN Yingsha (CHN),LEBRUN Alexis/ODO Satsuki (FRA/JPN),WANG Chuqin/SUN Yingsha
+United States Smash 2026,2026-07-01,QIN Yuxuan,DOO Hoi Kem,3,1,"12,11,8,11|10,7,11,7",R32,GRAND_SLAM,WS,3242,Main Draw,QIN Yuxuan (CHN),DOO Hoi Kem (HKG),QIN Yuxuan
+United States Smash 2026,2026-07-01,HARIMOTO Tomokazu,BARDET Lilian,3,0,"12,11,13|10,7,11",R32,GRAND_SLAM,MS,3242,Main Draw,HARIMOTO Tomokazu (JPN),BARDET Lilian (FRA),HARIMOTO Tomokazu
+United States Smash 2026,2026-07-01,MOREGARD Truls,BERTELSMEIER Andre,3,2,"10,13,5,11,12|12,11,11,6,10",R32,GRAND_SLAM,MS,3242,Main Draw,MOREGARD Truls (SWE),BERTELSMEIER Andre (GER),MOREGARD Truls
+United States Smash 2026,2026-07-01,ZHU Yuling,PAVADE Prithika,3,0,"11,11,11|6,8,8",R32,GRAND_SLAM,WS,3242,Main Draw,ZHU Yuling (MAC),PAVADE Prithika (FRA),ZHU Yuling
+United States Smash 2026,2026-07-01,MESHREF Dina,SHI Xunyao,3,1,"11,4,11,11|4,11,9,9",R32,GRAND_SLAM,WS,3242,Main Draw,MESHREF Dina (EGY),SHI Xunyao (CHN),MESHREF Dina
+United States Smash 2026,2026-07-01,DUDA Benedikt/QIU Dang,OH Junsung/LIM Jonghoon,3,0,"11,11,11|2,3,8",QF,GRAND_SLAM,MD,3242,Main Draw,DUDA Benedikt/QIU Dang (GER),OH Junsung/LIM Jonghoon (KOR),DUDA Benedikt/QIU Dang
+United States Smash 2026,2026-07-01,WANG Yidi/CHEN Yi,NAGASAKI Miyu/KIM Nayeong,3,2,"7,11,11,8,11|11,8,9,11,8",QF,GRAND_SLAM,WD,3242,Main Draw,WANG Yidi/CHEN Yi (CHN),NAGASAKI Miyu/KIM Nayeong (JPN/KOR),WANG Yidi/CHEN Yi
+United States Smash 2026,2026-07-01,JOO Cheonhui,TAKAHASHI Bruna,3,1,"4,11,11,11|11,6,6,5",R32,GRAND_SLAM,WS,3242,Main Draw,JOO Cheonhui (KOR),TAKAHASHI Bruna (BRA),JOO Cheonhui
+United States Smash 2026,2026-07-01,UDA Yukiya,KUO Guan-Hong,3,1,"4,12,11,11|11,10,8,7",R32,GRAND_SLAM,MS,3242,Main Draw,UDA Yukiya (JPN),KUO Guan-Hong (TPE),UDA Yukiya
+United States Smash 2026,2026-07-01,HARIMOTO Miwa/HAYATA Hina,CHITALE Diya/GHORPADE Yashaswini,3,0,"11,11,11|8,3,5",QF,GRAND_SLAM,WD,3242,Main Draw,HARIMOTO Miwa/HAYATA Hina (JPN),CHITALE Diya/GHORPADE Yashaswini (IND),HARIMOTO Miwa/HAYATA Hina
+United States Smash 2026,2026-07-01,WANG Manyu/KUAI Man,HURSEY Anna/XIAO Maria,3,1,"11,12,12,11|8,14,10,3",QF,GRAND_SLAM,WD,3242,Main Draw,WANG Manyu/KUAI Man (CHN),HURSEY Anna/XIAO Maria (WAL/ESP),WANG Manyu/KUAI Man
+United States Smash 2026,2026-07-01,WEN Ruibo/YUAN Licen,THAKKAR Manav/SHAH Manush,3,1,"11,11,8,11|6,5,11,8",QF,GRAND_SLAM,MD,3242,Main Draw,WEN Ruibo/YUAN Licen (CHN),THAKKAR Manav/SHAH Manush (IND),WEN Ruibo/YUAN Licen
+United States Smash 2026,2026-07-01,CALDERANO Hugo,CHEN Yuanyu,3,0,"11,11,11|5,5,2",R32,GRAND_SLAM,MS,3242,Main Draw,CALDERANO Hugo (BRA),CHEN Yuanyu (CHN),CALDERANO Hugo
+United States Smash 2026,2026-07-01,LIN Yun-Ju/FENG Yi-Hsin,BURGOS Nicolas/GOMEZ Gustavo,3,1,"6,11,11,11|11,8,5,1",QF,GRAND_SLAM,MD,3242,Main Draw,LIN Yun-Ju/FENG Yi-Hsin (TPE),BURGOS Nicolas/GOMEZ Gustavo (CHI),LIN Yun-Ju/FENG Yi-Hsin
+United States Smash 2026,2026-07-02,LIM Jonghoon/SHIN Yubin,WEN Ruibo/KUAI Man,3,1,"13,11,5,11|11,6,11,9",SF,GRAND_SLAM,XD,3242,Main Draw,LIM Jonghoon/SHIN Yubin (KOR),WEN Ruibo/KUAI Man (CHN),LIM Jonghoon/SHIN Yubin
+United States Smash 2026,2026-07-02,HAYATA Hina,HAN Ying,3,0,"11,11,11|6,9,7",R16,GRAND_SLAM,WS,3242,Main Draw,HAYATA Hina (JPN),HAN Ying (GER),HAYATA Hina
+United States Smash 2026,2026-07-02,LEBRUN Alexis,LIN Shidong,3,0,"11,11,11|9,9,8",R16,GRAND_SLAM,MS,3242,Main Draw,LEBRUN Alexis (FRA),LIN Shidong (CHN),LEBRUN Alexis
+United States Smash 2026,2026-07-02,HARIMOTO Miwa,ITO Mima,3,0,"11,11,11|7,8,7",R16,GRAND_SLAM,WS,3242,Main Draw,HARIMOTO Miwa (JPN),ITO Mima (JPN),HARIMOTO Miwa
+United States Smash 2026,2026-07-02,LIND Anders,WANG Chuqin,3,1,"13,11,8,11|11,2,11,7",R16,GRAND_SLAM,MS,3242,Main Draw,LIND Anders (DEN),WANG Chuqin (CHN),LIND Anders
+United States Smash 2026,2026-07-02,WANG Manyu/KUAI Man,WANG Yidi/CHEN Yi,3,0,"11,11,16|7,6,14",SF,GRAND_SLAM,WD,3242,Main Draw,WANG Manyu/KUAI Man (CHN),WANG Yidi/CHEN Yi (CHN),WANG Manyu/KUAI Man
+United States Smash 2026,2026-07-02,WANG Chuqin/SUN Yingsha,CALDERANO Hugo/TAKAHASHI Bruna,3,0,"11,11,11|9,4,6",SF,GRAND_SLAM,XD,3242,Main Draw,WANG Chuqin/SUN Yingsha (CHN),CALDERANO Hugo/TAKAHASHI Bruna (BRA),WANG Chuqin/SUN Yingsha
+United States Smash 2026,2026-07-02,KUAI Man,SHIN Yubin,3,0,"11,11,13|8,8,11",R16,GRAND_SLAM,WS,3242,Main Draw,KUAI Man (CHN),SHIN Yubin (KOR),KUAI Man
+United States Smash 2026,2026-07-02,MATSUSHIMA Sora,QIU Dang,3,0,"15,11,11|13,9,9",R16,GRAND_SLAM,MS,3242,Main Draw,MATSUSHIMA Sora (JPN),QIU Dang (GER),MATSUSHIMA Sora
+United States Smash 2026,2026-07-02,SATO Hitomi,HASHIMOTO Honoka,3,0,"11,11,11|8,6,9",R16,GRAND_SLAM,WS,3242,Main Draw,SATO Hitomi (JPN),HASHIMOTO Honoka (JPN),SATO Hitomi
+United States Smash 2026,2026-07-02,LEBRUN Felix,GERALDO Joao,3,0,"11,11,11|7,8,8",R16,GRAND_SLAM,MS,3242,Main Draw,LEBRUN Felix (FRA),GERALDO Joao (POR),LEBRUN Felix
+United States Smash 2026,2026-07-02,HARIMOTO Miwa/HAYATA Hina,SHIN Yubin/JOO Cheonhui,3,1,"11,11,12,11|7,8,14,8",SF,GRAND_SLAM,WD,3242,Main Draw,HARIMOTO Miwa/HAYATA Hina (JPN),SHIN Yubin/JOO Cheonhui (KOR),HARIMOTO Miwa/HAYATA Hina
+United States Smash 2026,2026-07-03,LIM Jonghoon/SHIN Yubin,WANG Chuqin/SUN Yingsha,3,2,"11,6,7,11,11|9,11,11,7,8",F,GRAND_SLAM,XD,3242,Main Draw,LIM Jonghoon/SHIN Yubin (KOR),WANG Chuqin/SUN Yingsha (CHN),LIM Jonghoon/SHIN Yubin
+United States Smash 2026,2026-07-03,MOREGARD Truls,JHA Kanak,3,1,"11,6,11,11|3,11,5,9",R16,GRAND_SLAM,MS,3242,Main Draw,MOREGARD Truls (SWE),JHA Kanak (USA),MOREGARD Truls
+United States Smash 2026,2026-07-03,WANG Yidi,YOKOI Sakura,3,2,"15,11,7,11,11|13,13,11,6,9",R16,GRAND_SLAM,WS,3242,Main Draw,WANG Yidi (CHN),YOKOI Sakura (JPN),WANG Yidi
+United States Smash 2026,2026-07-03,SIDORENKO Vladimir,HARIMOTO Tomokazu,3,0,"11,13,11|8,11,8",R16,GRAND_SLAM,MS,3242,Main Draw,SIDORENKO Vladimir (AIN),HARIMOTO Tomokazu (JPN),SIDORENKO Vladimir
+United States Smash 2026,2026-07-03,JOO Cheonhui,ZHU Yuling,3,0,"11,11,15|4,8,13",R16,GRAND_SLAM,WS,3242,Main Draw,JOO Cheonhui (KOR),ZHU Yuling (MAC),JOO Cheonhui
+United States Smash 2026,2026-07-03,LIN Shidong/HUANG Youzheng,DUDA Benedikt/QIU Dang,3,0,"11,11,11|7,8,6",SF,GRAND_SLAM,MD,3242,Main Draw,LIN Shidong/HUANG Youzheng (CHN),DUDA Benedikt/QIU Dang (GER),LIN Shidong/HUANG Youzheng
+United States Smash 2026,2026-07-03,SHINOZUKA Hiroto,CALDERANO Hugo,3,1,"4,11,11,11|11,9,6,3",R16,GRAND_SLAM,MS,3242,Main Draw,SHINOZUKA Hiroto (JPN),CALDERANO Hugo (BRA),SHINOZUKA Hiroto
+United States Smash 2026,2026-07-03,SUN Yingsha,MESHREF Dina,3,0,"11,11,11|8,3,5",R16,GRAND_SLAM,WS,3242,Main Draw,SUN Yingsha (CHN),MESHREF Dina (EGY),SUN Yingsha
+United States Smash 2026,2026-07-03,JANG Woojin,UDA Yukiya,3,1,"9,11,11,11|11,8,6,8",R16,GRAND_SLAM,MS,3242,Main Draw,JANG Woojin (KOR),UDA Yukiya (JPN),JANG Woojin
+United States Smash 2026,2026-07-03,CHEN Xingtong,QIN Yuxuan,3,0,"11,11,11|2,5,5",R16,GRAND_SLAM,WS,3242,Main Draw,CHEN Xingtong (CHN),QIN Yuxuan (CHN),CHEN Xingtong
+United States Smash 2026,2026-07-03,WEN Ruibo/YUAN Licen,LIN Yun-Ju/FENG Yi-Hsin,3,0,"12,11,11|10,8,7",SF,GRAND_SLAM,MD,3242,Main Draw,WEN Ruibo/YUAN Licen (CHN),LIN Yun-Ju/FENG Yi-Hsin (TPE),WEN Ruibo/YUAN Licen
+United States Smash 2026,2026-07-04,WEN Ruibo/YUAN Licen,LIN Shidong/HUANG Youzheng,3,2,"11,8,6,11,11|9,11,11,7,9",F,GRAND_SLAM,MD,3242,Main Draw,WEN Ruibo/YUAN Licen (CHN),LIN Shidong/HUANG Youzheng (CHN),WEN Ruibo/YUAN Licen
+United States Smash 2026,2026-07-04,SIDORENKO Vladimir,SHINOZUKA Hiroto,4,1,"11,11,8,11,11|9,9,11,9,8",QF,GRAND_SLAM,MS,3242,Main Draw,SIDORENKO Vladimir (AIN),SHINOZUKA Hiroto (JPN),SIDORENKO Vladimir
+United States Smash 2026,2026-07-04,KUAI Man,SATO Hitomi,4,3,"5,11,9,7,12,11,18|11,5,11,11,10,3,16",QF,GRAND_SLAM,WS,3242,Main Draw,KUAI Man (CHN),SATO Hitomi (JPN),KUAI Man
+United States Smash 2026,2026-07-04,MOREGARD Truls,JANG Woojin,4,0,"11,11,11,11|4,6,5,5",QF,GRAND_SLAM,MS,3242,Main Draw,MOREGARD Truls (SWE),JANG Woojin (KOR),MOREGARD Truls
+United States Smash 2026,2026-07-04,SUN Yingsha,CHEN Xingtong,4,0,"11,11,11,11|5,5,6,6",QF,GRAND_SLAM,WS,3242,Main Draw,SUN Yingsha (CHN),CHEN Xingtong (CHN),SUN Yingsha
+United States Smash 2026,2026-07-04,WANG Manyu/KUAI Man,HARIMOTO Miwa/HAYATA Hina,3,1,"13,4,14,11|11,11,12,8",F,GRAND_SLAM,WD,3242,Main Draw,WANG Manyu/KUAI Man (CHN),HARIMOTO Miwa/HAYATA Hina (JPN),WANG Manyu/KUAI Man
+United States Smash 2026,2026-07-04,MATSUSHIMA Sora,LIND Anders,4,0,"11,11,11,11|5,7,5,8",QF,GRAND_SLAM,MS,3242,Main Draw,MATSUSHIMA Sora (JPN),LIND Anders (DEN),MATSUSHIMA Sora
+United States Smash 2026,2026-07-04,WANG Yidi,JOO Cheonhui,4,0,"11,11,11,11|8,5,7,6",QF,GRAND_SLAM,WS,3242,Main Draw,WANG Yidi (CHN),JOO Cheonhui (KOR),WANG Yidi
+United States Smash 2026,2026-07-04,LEBRUN Felix,LEBRUN Alexis,4,2,"9,6,11,11,11,11|11,11,7,6,9,8",QF,GRAND_SLAM,MS,3242,Main Draw,LEBRUN Felix (FRA),LEBRUN Alexis (FRA),LEBRUN Felix
+United States Smash 2026,2026-07-04,HARIMOTO Miwa,HAYATA Hina,4,1,"11,11,13,9,11|7,7,11,11,6",QF,GRAND_SLAM,WS,3242,Main Draw,HARIMOTO Miwa (JPN),HAYATA Hina (JPN),HARIMOTO Miwa
+United States Smash 2026,2026-07-05,MATSUSHIMA Sora,SIDORENKO Vladimir,4,2,"11,11,11,11,5,11|5,13,7,4,11,7",F,GRAND_SLAM,MS,3242,Main Draw,MATSUSHIMA Sora (JPN),SIDORENKO Vladimir (AIN),MATSUSHIMA Sora
+United States Smash 2026,2026-07-05,SUN Yingsha,KUAI Man,4,3,"11,11,9,11,7,10,11|9,6,11,5,11,12,4",F,GRAND_SLAM,WS,3242,Main Draw,SUN Yingsha (CHN),KUAI Man (CHN),SUN Yingsha
+United States Smash 2026,2026-07-05,SIDORENKO Vladimir,MOREGARD Truls,4,3,"4,11,5,3,11,11,12|11,8,11,11,9,4,10",SF,GRAND_SLAM,MS,3242,Main Draw,SIDORENKO Vladimir (AIN),MOREGARD Truls (SWE),SIDORENKO Vladimir
+United States Smash 2026,2026-07-05,MATSUSHIMA Sora,LEBRUN Felix,4,1,"12,11,10,12,12|10,7,12,10,10",SF,GRAND_SLAM,MS,3242,Main Draw,MATSUSHIMA Sora (JPN),LEBRUN Felix (FRA),MATSUSHIMA Sora
+United States Smash 2026,2026-07-05,KUAI Man,HARIMOTO Miwa,4,3,"11,10,12,11,4,11,11|9,12,14,8,11,9,8",SF,GRAND_SLAM,WS,3242,Main Draw,KUAI Man (CHN),HARIMOTO Miwa (JPN),KUAI Man
+United States Smash 2026,2026-07-05,SUN Yingsha,WANG Yidi,4,1,"11,11,11,9,11|6,9,9,11,3",SF,GRAND_SLAM,WS,3242,Main Draw,SUN Yingsha (CHN),WANG Yidi (CHN),SUN Yingsha

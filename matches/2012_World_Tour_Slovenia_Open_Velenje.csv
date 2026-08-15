@@ -1,430 +1,430 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-World Tour Slovenia Open Velenje 2012,2012-01-25,MATELOVA Hana,RADONJIC Aleksandra,4,0,"11,11,11,14|5,4,5,12",,GRAND_SLAM,WS,84,Qualification,MATELOVA Hana (CZE),RADONJIC Aleksandra (SRB)
-World Tour Slovenia Open Velenje 2012,2012-01-25,LIU Jia,RADONJIC Aleksandra,4,0,"11,11,11,11|7,4,4,7",,GRAND_SLAM,WS,84,Qualification,LIU Jia (AUT),RADONJIC Aleksandra (SRB)
-World Tour Slovenia Open Velenje 2012,2012-01-25,LIU Jia,MATELOVA Hana,4,1,"11,8,11,11,11|8,11,5,7,4",,GRAND_SLAM,WS,84,Qualification,LIU Jia (AUT),MATELOVA Hana (CZE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,STUCKYTE Egle,KUMAHARA Luca,4,1,"11,11,11,9,11|4,8,9,11,9",,GRAND_SLAM,WS,84,Qualification,STUCKYTE Egle (LTU),KUMAHARA Luca (BRA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,BARTHEL Zhenqi,KUMAHARA Luca,4,0,"11,11,13,11|9,3,11,5",,GRAND_SLAM,WS,84,Qualification,BARTHEL Zhenqi (GER),KUMAHARA Luca (BRA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,BARTHEL Zhenqi,STUCKYTE Egle,4,0,"11,11,11,11|8,7,5,8",,GRAND_SLAM,WS,84,Qualification,BARTHEL Zhenqi (GER),STUCKYTE Egle (LTU)
-World Tour Slovenia Open Velenje 2012,2012-01-25,YAMADA Jessica,LUPULESKU Anelia,4,0,"11,12,11,11|8,10,4,9",,GRAND_SLAM,WS,84,Qualification,YAMADA Jessica (BRA),LUPULESKU Anelia (SRB)
-World Tour Slovenia Open Velenje 2012,2012-01-25,TIKHOMIROVA Anna,LUPULESKU Anelia,4,0,"11,11,11,11|6,5,4,3",,GRAND_SLAM,WS,84,Qualification,TIKHOMIROVA Anna (RUS),LUPULESKU Anelia (SRB)
-World Tour Slovenia Open Velenje 2012,2012-01-25,TIKHOMIROVA Anna,YAMADA Jessica,4,0,"11,11,11,11|6,1,6,3",,GRAND_SLAM,WS,84,Qualification,TIKHOMIROVA Anna (RUS),YAMADA Jessica (BRA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,LOEUILLETTE Stephanie,SLIFIRCZYK Katarzyna,4,2,"11,11,11,6,11,14|8,9,2,11,13,12",,GRAND_SLAM,WS,84,Qualification,LOEUILLETTE Stephanie (FRA),SLIFIRCZYK Katarzyna (POL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,LEE I-Chen,LOEUILLETTE Stephanie,4,0,"11,11,11,11|4,6,8,7",,GRAND_SLAM,WS,84,Qualification,LEE I-Chen (TPE),LOEUILLETTE Stephanie (FRA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,LEE I-Chen,SLIFIRCZYK Katarzyna,4,1,"9,11,11,11,11|11,4,4,5,7",,GRAND_SLAM,WS,84,Qualification,LEE I-Chen (TPE),SLIFIRCZYK Katarzyna (POL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,MIKULCOVA Kristyna,VIVARELLI Debora,4,0,"11,12,11,11|4,10,5,9",,GRAND_SLAM,WS,84,Qualification,MIKULCOVA Kristyna (CZE),VIVARELLI Debora (ITA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,EKHOLM Matilda,VIVARELLI Debora,4,0,"11,11,13,11|9,4,11,3",,GRAND_SLAM,WS,84,Qualification,EKHOLM Matilda (SWE),VIVARELLI Debora (ITA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,EKHOLM Matilda,MIKULCOVA Kristyna,4,2,"11,10,11,11,9,11|9,12,3,6,11,3",,GRAND_SLAM,WS,84,Qualification,EKHOLM Matilda (SWE),MIKULCOVA Kristyna (CZE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,LI Qiangbing,VEGA Paulina,4,1,"11,11,3,11,11|5,7,11,9,6",,GRAND_SLAM,WS,84,Qualification,LI Qiangbing (AUT),VEGA Paulina (CHI)
-World Tour Slovenia Open Velenje 2012,2012-01-25,ALI Meral Ildiz,VASYLIEVA Ievgeniia,4,1,"11,11,7,11,11|8,9,11,3,4",,GRAND_SLAM,WS,84,Qualification,ALI Meral Ildiz (TUR),VASYLIEVA Ievgeniia (UKR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,ZHU Fang,VASYLIEVA Ievgeniia,4,1,"9,11,11,11,11|12,3,6,4,5",,GRAND_SLAM,WS,84,Qualification,ZHU Fang (ESP),VASYLIEVA Ievgeniia (UKR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,ALI Meral Ildiz,ZHU Fang,4,2,"8,11,8,11,11,12|11,7,11,7,7,10",,GRAND_SLAM,WS,84,Qualification,ALI Meral Ildiz (TUR),ZHU Fang (ESP)
-World Tour Slovenia Open Velenje 2012,2012-01-25,SIRUCKOVA Aneta,PETERMAN-VARGA Timea,4,1,"11,15,11,7,11|6,13,3,11,8",,GRAND_SLAM,WS,84,Qualification,SIRUCKOVA Aneta (CZE),PETERMAN-VARGA Timea (HUN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,FEHER Gabriela,SIRUCKOVA Aneta,4,1,"7,11,11,12,11|11,6,9,10,7",,GRAND_SLAM,WS,84,Qualification,FEHER Gabriela (SRB),SIRUCKOVA Aneta (CZE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,FEHER Gabriela,PETERMAN-VARGA Timea,4,2,"10,11,15,13,11,11|12,8,17,11,8,6",,GRAND_SLAM,WS,84,Qualification,FEHER Gabriela (SRB),PETERMAN-VARGA Timea (HUN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,DOBREVA Polina,KRZEWICKA Maja,4,0,"11,11,11,11|7,8,7,6",,GRAND_SLAM,WS,84,Qualification,DOBREVA Polina (BUL),KRZEWICKA Maja (POL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,GANINA Svetlana,KRZEWICKA Maja,4,0,"11,11,11,11|5,7,3,6",,GRAND_SLAM,WS,84,Qualification,GANINA Svetlana (RUS),KRZEWICKA Maja (POL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,GANINA Svetlana,DOBREVA Polina,4,2,"11,11,5,11,9,11|8,5,11,2,11,9",,GRAND_SLAM,WS,84,Qualification,GANINA Svetlana (RUS),DOBREVA Polina (BUL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,XIAN Yifang,GALIC Alex,4,0,"11,11,11,11|5,2,1,6",,GRAND_SLAM,WS,84,Qualification,XIAN Yifang (FRA),GALIC Alex (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,GUI Lin,PETEK Petra,4,2,"9,8,11,14,12,11|11,11,7,12,10,1",,GRAND_SLAM,WS,84,Qualification,GUI Lin (BRA),PETEK Petra (CRO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,MADARASZ Dora,PETEK Petra,4,0,"11,11,11,11|2,2,9,4",,GRAND_SLAM,WS,84,Qualification,MADARASZ Dora (HUN),PETEK Petra (CRO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,MADARASZ Dora,GUI Lin,4,1,"11,11,11,9,11|8,6,9,11,5",,GRAND_SLAM,WS,84,Qualification,MADARASZ Dora (HUN),GUI Lin (BRA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,TUBIKANEC Ivana,GUNGOR Gokce Nur,4,0,"11,11,11,11|9,6,4,6",,GRAND_SLAM,WS,84,Qualification,TUBIKANEC Ivana (CRO),GUNGOR Gokce Nur (TUR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,PAVLOVICH Veronika,GUNGOR Gokce Nur,4,0,"11,12,11,14|8,10,6,12",,GRAND_SLAM,WS,84,Qualification,PAVLOVICH Veronika (BLR),GUNGOR Gokce Nur (TUR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,PAVLOVICH Veronika,TUBIKANEC Ivana,4,1,"8,11,16,11,11|11,9,14,9,6",,GRAND_SLAM,WS,84,Qualification,PAVLOVICH Veronika (BLR),TUBIKANEC Ivana (CRO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,KNEZEVIC Monika,ROJKO Vesna,4,0,"11,11,11,11|7,9,4,5",,GRAND_SLAM,WS,84,Qualification,KNEZEVIC Monika (SRB),ROJKO Vesna (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,GRUNDISCH Carole,ROJKO Vesna,4,1,"11,5,11,11,11|6,11,9,7,2",,GRAND_SLAM,WS,84,Qualification,GRUNDISCH Carole (FRA),ROJKO Vesna (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,GRUNDISCH Carole,KNEZEVIC Monika,4,0,"11,11,11,14|7,8,4,12",,GRAND_SLAM,WS,84,Qualification,GRUNDISCH Carole (FRA),KNEZEVIC Monika (SRB)
-World Tour Slovenia Open Velenje 2012,2012-01-25,LENNON Emmanuelle,FULOP Szilvia,4,0,"11,11,12,11|5,4,10,4",,GRAND_SLAM,WS,84,Qualification,LENNON Emmanuelle (FRA),FULOP Szilvia (HUN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,MIKHAILOVA Polina,FULOP Szilvia,4,0,"11,11,11,12|4,9,4,10",,GRAND_SLAM,WS,84,Qualification,MIKHAILOVA Polina (RUS),FULOP Szilvia (HUN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,MIKHAILOVA Polina,LENNON Emmanuelle,4,2,"9,11,11,11,3,11|11,8,4,2,11,8",,GRAND_SLAM,WS,84,Qualification,MIKHAILOVA Polina (RUS),LENNON Emmanuelle (FRA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,KERTAI Rita,ZERA Ivana,4,1,"14,11,9,11,11|12,6,11,8,7",,GRAND_SLAM,WS,84,Qualification,KERTAI Rita (HUN),ZERA Ivana (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,WINTER Sabine,ZERA Ivana,4,0,"11,11,11,11|8,6,2,5",,GRAND_SLAM,WS,84,Qualification,WINTER Sabine (GER),ZERA Ivana (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,KERTAI Rita,WINTER Sabine,4,1,"11,11,6,11,12|8,8,11,5,10",,GRAND_SLAM,WS,84,Qualification,KERTAI Rita (HUN),WINTER Sabine (GER)
-World Tour Slovenia Open Velenje 2012,2012-01-25,KASABOVA Asya,ZUPANCIC Nina,4,0,"11,11,13,11|8,8,11,5",,GRAND_SLAM,WS,84,Qualification,KASABOVA Asya (BUL),ZUPANCIC Nina (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,RAMIREZ Sara,ZUPANCIC Nina,4,1,"11,11,6,11,11|1,9,11,5,6",,GRAND_SLAM,WS,84,Qualification,RAMIREZ Sara (ESP),ZUPANCIC Nina (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,RAMIREZ Sara,KASABOVA Asya,4,1,"11,11,11,9,11|7,3,8,11,5",,GRAND_SLAM,WS,84,Qualification,RAMIREZ Sara (ESP),KASABOVA Asya (BUL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,TODOROVIC Andrea,JERIC Tamara,4,0,"11,11,11,11|6,8,6,7",,GRAND_SLAM,WS,84,Qualification,TODOROVIC Andrea (SRB),JERIC Tamara (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,DVORAK Galia,JERIC Tamara,4,2,"16,6,11,11,12,11|18,11,4,3,10,3",,GRAND_SLAM,WS,84,Qualification,DVORAK Galia (ESP),JERIC Tamara (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,TODOROVIC Andrea,DVORAK Galia,4,2,"6,11,12,7,11,11|11,7,10,11,8,6",,GRAND_SLAM,WS,84,Qualification,TODOROVIC Andrea (SRB),DVORAK Galia (ESP)
-World Tour Slovenia Open Velenje 2012,2012-01-25,SILVA Ligia,GUTNIK Katja,4,0,"11,11,11,11|6,7,2,6",,GRAND_SLAM,WS,84,Qualification,SILVA Ligia (BRA),GUTNIK Katja (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,TIAN Yuan,GUTNIK Katja,4,0,"11,11,11,11|5,3,9,4",,GRAND_SLAM,WS,84,Qualification,TIAN Yuan (CRO),GUTNIK Katja (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,TIAN Yuan,SILVA Ligia,4,1,"11,8,11,11,11|2,11,8,8,5",,GRAND_SLAM,WS,84,Qualification,TIAN Yuan (CRO),SILVA Ligia (BRA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,DRINKHALL Joanna,PAVLIN Nina,4,1,"11,9,13,11,11|7,11,11,7,8",,GRAND_SLAM,WS,84,Qualification,DRINKHALL Joanna (ENG),PAVLIN Nina (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,KIM Mingyung,DRINKHALL Joanna,4,2,"8,11,11,11,6,12|11,6,8,3,11,10",,GRAND_SLAM,WS,84,Qualification,KIM Mingyung (KOR),DRINKHALL Joanna (ENG)
-World Tour Slovenia Open Velenje 2012,2012-01-25,YOO Eunchong,KARAHAN Ipek,4,0,"11,11,11,11|7,4,5,6",,GRAND_SLAM,WS,84,Qualification,YOO Eunchong (KOR),KARAHAN Ipek (TUR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,MOLNAR Cornelia,KARAHAN Ipek,4,0,"11,11,11,11|4,8,7,4",,GRAND_SLAM,WS,84,Qualification,MOLNAR Cornelia (CRO),KARAHAN Ipek (TUR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,MOLNAR Cornelia,YOO Eunchong,4,3,"6,8,7,11,11,11,11|11,11,11,9,8,6,2",,GRAND_SLAM,WS,84,Qualification,MOLNAR Cornelia (CRO),YOO Eunchong (KOR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,KUSINSKA Klaudia,MARKATI Paula,4,0,"11,11,11,12|8,8,4,10",,GRAND_SLAM,WS,84,Qualification,KUSINSKA Klaudia (POL),MARKATI Paula (CRO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,SOLJA Amelie,MARKATI Paula,4,0,"11,11,11,11|3,4,4,3",,GRAND_SLAM,WS,84,Qualification,SOLJA Amelie (AUT),MARKATI Paula (CRO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,SOLJA Amelie,KUSINSKA Klaudia,4,1,"11,9,11,11,11|8,11,8,6,7",,GRAND_SLAM,WS,84,Qualification,SOLJA Amelie (AUT),KUSINSKA Klaudia (POL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,PENKAVOVA Katerina,KOVACS Karina,4,0,"11,11,11,11|1,7,5,5",,GRAND_SLAM,WS,84,Qualification,PENKAVOVA Katerina (CZE),KOVACS Karina (AUT)
-World Tour Slovenia Open Velenje 2012,2012-01-25,VARADY Barbora,KOVACS Karina,4,0,"11,11,11,11|8,3,5,8",,GRAND_SLAM,WS,84,Qualification,VARADY Barbora (SVK),KOVACS Karina (AUT)
-World Tour Slovenia Open Velenje 2012,2012-01-25,PENKAVOVA Katerina,VARADY Barbora,4,1,"5,11,11,14,11|11,4,8,12,8",,GRAND_SLAM,WS,84,Qualification,PENKAVOVA Katerina (CZE),VARADY Barbora (SVK)
-World Tour Slovenia Open Velenje 2012,2012-01-25,VORONOVA Anastasia,ZALOZNIK Tjasa,4,0,"11,11,11,12|6,4,6,10",,GRAND_SLAM,WS,84,Qualification,VORONOVA Anastasia (RUS),ZALOZNIK Tjasa (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,JO Yujin,ZALOZNIK Tjasa,4,0,"11,11,11,11|8,5,6,3",,GRAND_SLAM,WS,84,Qualification,JO Yujin (KOR),ZALOZNIK Tjasa (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,JO Yujin,VORONOVA Anastasia,4,3,"13,8,9,12,12,11,13|15,11,11,10,10,7,11",,GRAND_SLAM,WS,84,Qualification,JO Yujin (KOR),VORONOVA Anastasia (RUS)
-World Tour Slovenia Open Velenje 2012,2012-01-25,HWANG Jina,ABBAT Alice,4,1,"11,11,8,11,11|2,4,11,9,5",,GRAND_SLAM,WS,84,Qualification,HWANG Jina (KOR),ABBAT Alice (FRA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,HWANG Jina,KUZMINA Elena,4,1,"12,13,6,11,12|10,11,11,7,10",,GRAND_SLAM,WS,84,Qualification,HWANG Jina (KOR),KUZMINA Elena (RUS)
-World Tour Slovenia Open Velenje 2012,2012-01-25,KUZMINA Elena,ABBAT Alice,4,3,"9,11,9,11,8,11,11|11,9,11,8,11,4,9",,GRAND_SLAM,WS,84,Qualification,KUZMINA Elena (RUS),ABBAT Alice (FRA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,KIM Minhee (YOB=1991),BILENKO Tetyana,4,0,"11,11,11,11|6,5,9,3",,GRAND_SLAM,WS,84,Qualification,KIM Minhee (YOB=1991) (KOR),BILENKO Tetyana (UKR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,BILENKO Tetyana,AMBRUS Krisztina,4,0,"11,11,11,11|4,7,7,4",,GRAND_SLAM,WS,84,Qualification,BILENKO Tetyana (UKR),AMBRUS Krisztina (HUN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,AMBRUS Krisztina,KIM Minhee (YOB=1991),4,1,"7,11,15,11,11|11,6,13,8,9",,GRAND_SLAM,WS,84,Qualification,AMBRUS Krisztina (HUN),KIM Minhee (YOB=1991) (KOR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,TAN Wenling,PERGEL Szandra,4,2,"12,8,11,11,12,12|10,11,7,4,14,10",,GRAND_SLAM,WS,84,Qualification,TAN Wenling (ITA),PERGEL Szandra (HUN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,TAN Wenling,PRIVALOVA Alexandra,4,1,"11,7,11,11,11|5,11,8,8,8",,GRAND_SLAM,WS,84,Qualification,TAN Wenling (ITA),PRIVALOVA Alexandra (BLR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,PRIVALOVA Alexandra,PERGEL Szandra,4,0,"11,13,11,11|8,11,5,9",,GRAND_SLAM,WS,84,Qualification,PRIVALOVA Alexandra (BLR),PERGEL Szandra (HUN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,HAPONOVA Hanna,MOLINA Laura,4,0,,,GRAND_SLAM,WS,84,Qualification,HAPONOVA Hanna (UKR),MOLINA Laura (COL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,HAPONOVA Hanna,DOLGIKH Maria,4,3,"7,11,7,11,9,11,13|11,4,11,7,11,6,11",,GRAND_SLAM,WS,84,Qualification,HAPONOVA Hanna (UKR),DOLGIKH Maria (RUS)
-World Tour Slovenia Open Velenje 2012,2012-01-25,NONAKA Yuki,SZCZERKOWSKA Magdalena,4,0,"11,11,11,11|6,5,3,6",,GRAND_SLAM,WS,84,Qualification,NONAKA Yuki (JPN),SZCZERKOWSKA Magdalena (POL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,NONAKA Yuki,DUBKOVA Elena,4,1,"11,12,11,8,11|8,10,8,11,8",,GRAND_SLAM,WS,84,Qualification,NONAKA Yuki (JPN),DUBKOVA Elena (BLR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,DUBKOVA Elena,SZCZERKOWSKA Magdalena,4,1,"11,12,9,11,11|6,10,11,7,1",,GRAND_SLAM,WS,84,Qualification,DUBKOVA Elena (BLR),SZCZERKOWSKA Magdalena (POL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,POLCANOVA Sofia,STEFANOVA Nikoleta,4,3,"13,8,11,9,12,9,11|11,11,8,11,10,11,7",,GRAND_SLAM,WS,84,Qualification,POLCANOVA Sofia (AUT),STEFANOVA Nikoleta (ITA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,STEFANOVA Nikoleta,IACOB Camelia,4,2,"11,8,11,7,11,11|7,11,5,11,7,5",,GRAND_SLAM,WS,84,Qualification,STEFANOVA Nikoleta (ITA),IACOB Camelia (ROU)
-World Tour Slovenia Open Velenje 2012,2012-01-25,POLCANOVA Sofia,IACOB Camelia,4,1,"11,13,11,11,11|13,11,9,5,8",,GRAND_SLAM,WS,84,Qualification,POLCANOVA Sofia (AUT),IACOB Camelia (ROU)
-World Tour Slovenia Open Velenje 2012,2012-01-25,OOSTWOUDER Ewout,SLODEJ Matic,3,2,"15,11,6,9,11|13,9,11,11,6",,GRAND_SLAM,U21MS,84,Qualification,OOSTWOUDER Ewout (NED),SLODEJ Matic (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,FLORAS Robert,OOSTWOUDER Ewout,3,0,"12,12,11|10,10,8",,GRAND_SLAM,U21MS,84,Qualification,FLORAS Robert (POL),OOSTWOUDER Ewout (NED)
-World Tour Slovenia Open Velenje 2012,2012-01-25,FLORAS Robert,SLODEJ Matic,3,0,"11,11,11|5,8,5",,GRAND_SLAM,U21MS,84,Qualification,FLORAS Robert (POL),SLODEJ Matic (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,BENES Michal,PAVAN Federico,3,0,"11,11,11|5,8,5",,GRAND_SLAM,U21MS,84,Qualification,BENES Michal (CZE),PAVAN Federico (ITA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,JEAN Lauric,PAVAN Federico,3,1,"11,5,11,11|9,11,4,6",,GRAND_SLAM,U21MS,84,Qualification,JEAN Lauric (BEL),PAVAN Federico (ITA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,JEAN Lauric,BENES Michal,3,1,"11,4,11,11|5,11,9,6",,GRAND_SLAM,U21MS,84,Qualification,JEAN Lauric (BEL),BENES Michal (CZE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,PERSOLJA Ludvik,BARABANOV Kiryl,3,0,"11,12,11|6,10,9",,GRAND_SLAM,U21MS,84,Qualification,PERSOLJA Ludvik (SLO),BARABANOV Kiryl (BLR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,SZOCS Hunor,PERSOLJA Ludvik,3,0,"11,11,11|8,7,4",,GRAND_SLAM,U21MS,84,Qualification,SZOCS Hunor (ROU),PERSOLJA Ludvik (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,SZOCS Hunor,BARABANOV Kiryl,3,0,"11,11,11|8,4,6",,GRAND_SLAM,U21MS,84,Qualification,SZOCS Hunor (ROU),BARABANOV Kiryl (BLR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,RADONJIC Vladimir,LEBEDA Michal,3,0,"11,11,11|8,5,7",,GRAND_SLAM,U21MS,84,Qualification,RADONJIC Vladimir (SRB),LEBEDA Michal (CZE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,ANDERSSON Harald,LEBEDA Michal,3,0,"11,11,11|3,4,4",,GRAND_SLAM,U21MS,84,Qualification,ANDERSSON Harald (SWE),LEBEDA Michal (CZE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,ANDERSSON Harald,RADONJIC Vladimir,3,0,"11,11,11|9,8,6",,GRAND_SLAM,U21MS,84,Qualification,ANDERSSON Harald (SWE),RADONJIC Vladimir (SRB)
-World Tour Slovenia Open Velenje 2012,2012-01-25,LEITGEB Stefan,SUKIC Patrik,3,0,"11,11,11|6,9,5",,GRAND_SLAM,U21MS,84,Qualification,LEITGEB Stefan (AUT),SUKIC Patrik (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,CREPULJA Bojan,SUKIC Patrik,3,0,"11,11,11|2,3,6",,GRAND_SLAM,U21MS,84,Qualification,CREPULJA Bojan (SRB),SUKIC Patrik (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,CREPULJA Bojan,LEITGEB Stefan,3,1,"13,11,11,11|15,8,9,8",,GRAND_SLAM,U21MS,84,Qualification,CREPULJA Bojan (SRB),LEITGEB Stefan (AUT)
-World Tour Slovenia Open Velenje 2012,2012-01-25,SZITA Marton,MARELJA Franjo,3,1,"11,8,11,11|6,11,5,8",,GRAND_SLAM,U21MS,84,Qualification,SZITA Marton (HUN),MARELJA Franjo (CRO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,ZIBRAT Jan,MARELJA Franjo,3,0,"11,11,11|8,6,8",,GRAND_SLAM,U21MS,84,Qualification,ZIBRAT Jan (SLO),MARELJA Franjo (CRO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,ZIBRAT Jan,SZITA Marton,3,1,"11,6,11,11|9,11,7,3",,GRAND_SLAM,U21MS,84,Qualification,ZIBRAT Jan (SLO),SZITA Marton (HUN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,PFEFFER Simon,PINTAR Denis,3,0,"11,11,11|5,9,6",,GRAND_SLAM,U21MS,84,Qualification,PFEFFER Simon (AUT),PINTAR Denis (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,OVERSJO Mattias,PINTAR Denis,3,0,"11,11,11|6,3,5",,GRAND_SLAM,U21MS,84,Qualification,OVERSJO Mattias (SWE),PINTAR Denis (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,OVERSJO Mattias,PFEFFER Simon,3,1,"13,11,6,12|11,8,11,10",,GRAND_SLAM,U21MS,84,Qualification,OVERSJO Mattias (SWE),PFEFFER Simon (AUT)
-World Tour Slovenia Open Velenje 2012,2012-01-25,SUBOTIC Dragan,NOVAK Tilen,3,0,"11,11,11|1,3,5",,GRAND_SLAM,U21MS,84,Qualification,SUBOTIC Dragan (SRB),NOVAK Tilen (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,MORICZ Mate,BERARDI Mattia,3,0,"11,11,11|5,3,3",,GRAND_SLAM,U21MS,84,Qualification,MORICZ Mate (HUN),BERARDI Mattia (SMR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,DEVOS Robin,BERARDI Mattia,3,0,"11,11,11|7,4,7",,GRAND_SLAM,U21MS,84,Qualification,DEVOS Robin (BEL),BERARDI Mattia (SMR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,MORICZ Mate,DEVOS Robin,3,0,"13,11,11|11,8,8",,GRAND_SLAM,U21MS,84,Qualification,MORICZ Mate (HUN),DEVOS Robin (BEL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,RECH DALDOSSO Marco,SFILIGOJ Tom,3,0,"11,11,11|5,8,8",,GRAND_SLAM,U21MS,84,Qualification,RECH DALDOSSO Marco (ITA),SFILIGOJ Tom (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,CHANG Shun-Hung,KOZUL Deni,3,0,"11,11,11|4,4,7",,GRAND_SLAM,U21MS,84,Qualification,CHANG Shun-Hung (TPE),KOZUL Deni (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,KULPA Konrad,JELIC Matej,3,0,"12,11,11|10,5,7",,GRAND_SLAM,U21MS,84,Qualification,KULPA Konrad (POL),JELIC Matej (CRO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,DORAN Christopher,JELIC Matej,3,0,"11,11,12|2,6,10",,GRAND_SLAM,U21MS,84,Qualification,DORAN Christopher (ENG),JELIC Matej (CRO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,DORAN Christopher,KULPA Konrad,3,1,"11,11,3,13|8,9,11,11",,GRAND_SLAM,U21MS,84,Qualification,DORAN Christopher (ENG),KULPA Konrad (POL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,HO Andre,JORGIC Darko,3,0,"11,11,12|9,5,10",,GRAND_SLAM,U21MS,84,Qualification,HO Andre (CAN),JORGIC Darko (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,DYJAS Jakub,JORGIC Darko,3,0,"11,13,15|8,11,13",,GRAND_SLAM,U21MS,84,Qualification,DYJAS Jakub (POL),JORGIC Darko (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,DYJAS Jakub,HO Andre,3,1,"12,9,11,11|10,11,4,1",,GRAND_SLAM,U21MS,84,Qualification,DYJAS Jakub (POL),HO Andre (CAN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,INDEHERBERG Julien,PALATINUS Martin,3,1,"11,11,11,11|3,13,6,9",,GRAND_SLAM,U21MS,84,Qualification,INDEHERBERG Julien (BEL),PALATINUS Martin (HUN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,CIPIN Filip,SHVETC Kirill,3,2,"10,14,7,11,12|12,12,11,9,10",,GRAND_SLAM,U21MS,84,Qualification,CIPIN Filip (CRO),SHVETC Kirill (RUS)
-World Tour Slovenia Open Velenje 2012,2012-01-25,CAMPOS Jorge,SHVETC Kirill,3,2,"11,11,10,12,12|13,7,12,10,10",,GRAND_SLAM,U21MS,84,Qualification,CAMPOS Jorge (CUB),SHVETC Kirill (RUS)
-World Tour Slovenia Open Velenje 2012,2012-01-25,CAMPOS Jorge,CIPIN Filip,3,0,"11,11,11|1,6,2",,GRAND_SLAM,U21MS,84,Qualification,CAMPOS Jorge (CUB),CIPIN Filip (CRO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,SCHAFFER Daniel,BAJGER Ondrej,3,2,"6,11,11,9,12|11,9,8,11,10",,GRAND_SLAM,U21MS,84,Qualification,SCHAFFER Daniel (HUN),BAJGER Ondrej (CZE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,UDRA Alfredas,PEPERKO Domen,3,0,"11,11,11|7,6,6",,GRAND_SLAM,U21MS,84,Qualification,UDRA Alfredas (LTU),PEPERKO Domen (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,SCHAFFER Daniel,UDRA Alfredas,3,0,"11,11,11|7,6,8",,GRAND_SLAM,U21MS,84,Qualification,SCHAFFER Daniel (HUN),UDRA Alfredas (LTU)
-World Tour Slovenia Open Velenje 2012,2012-01-25,BAJGER Ondrej,PEPERKO Domen,3,0,"11,11,11|3,7,7",,GRAND_SLAM,U21MS,84,Qualification,BAJGER Ondrej (CZE),PEPERKO Domen (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,BAJGER Ondrej,UDRA Alfredas,3,2,"8,11,4,11,11|11,4,11,5,4",,GRAND_SLAM,U21MS,84,Qualification,BAJGER Ondrej (CZE),UDRA Alfredas (LTU)
-World Tour Slovenia Open Velenje 2012,2012-01-25,SCHAFFER Daniel,PEPERKO Domen,3,1,"11,9,11,11|9,11,8,3",,GRAND_SLAM,U21MS,84,Qualification,SCHAFFER Daniel (HUN),PEPERKO Domen (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,SIMOVIC Miho,ROSC Patrik,3,0,"11,11,11|6,8,4",,GRAND_SLAM,U21MS,84,Qualification,SIMOVIC Miho (CRO),ROSC Patrik (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,CHEN Hongtao,BAND Joshua,3,0,"11,11,11|3,7,5",,GRAND_SLAM,U21MS,84,Qualification,CHEN Hongtao (CAN),BAND Joshua (JEY)
-World Tour Slovenia Open Velenje 2012,2012-01-25,CHEN Hongtao,ROSC Patrik,3,2,"6,11,11,9,11|11,5,9,11,3",,GRAND_SLAM,U21MS,84,Qualification,CHEN Hongtao (CAN),ROSC Patrik (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,SIMOVIC Miho,BAND Joshua,3,0,"11,11,11|5,7,6",,GRAND_SLAM,U21MS,84,Qualification,SIMOVIC Miho (CRO),BAND Joshua (JEY)
-World Tour Slovenia Open Velenje 2012,2012-01-25,SIMOVIC Miho,CHEN Hongtao,3,1,"11,7,11,12|6,11,3,10",,GRAND_SLAM,U21MS,84,Qualification,SIMOVIC Miho (CRO),CHEN Hongtao (CAN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,ROSC Patrik,BAND Joshua,3,0,"11,12,11|8,10,8",,GRAND_SLAM,U21MS,84,Qualification,ROSC Patrik (SLO),BAND Joshua (JEY)
-World Tour Slovenia Open Velenje 2012,2012-01-25,KUSINSKA Klaudia,ROJKO Vesna,3,0,"11,11,11|8,9,8",,GRAND_SLAM,U21WS,84,Qualification,KUSINSKA Klaudia (POL),ROJKO Vesna (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,KUSINSKA Klaudia,GUNGOR Gokce Nur,3,0,"14,11,11|12,8,8",,GRAND_SLAM,U21WS,84,Qualification,KUSINSKA Klaudia (POL),GUNGOR Gokce Nur (TUR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,GUNGOR Gokce Nur,ROJKO Vesna,3,2,"11,9,11,3,11|7,11,9,11,6",,GRAND_SLAM,U21WS,84,Qualification,GUNGOR Gokce Nur (TUR),ROJKO Vesna (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,YOO Eunchong,FULOP Szilvia,3,0,"11,11,11|3,9,6",,GRAND_SLAM,U21WS,84,Qualification,YOO Eunchong (KOR),FULOP Szilvia (HUN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,YOO Eunchong,PETEK Petra,3,2,"5,11,9,11,11|11,7,11,3,6",,GRAND_SLAM,U21WS,84,Qualification,YOO Eunchong (KOR),PETEK Petra (CRO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,PETEK Petra,FULOP Szilvia,3,2,"11,14,9,6,11|2,12,11,11,6",,GRAND_SLAM,U21WS,84,Qualification,PETEK Petra (CRO),FULOP Szilvia (HUN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,KIM Mingyung,KARAHAN Ipek,3,0,"11,11,12|1,4,10",,GRAND_SLAM,U21WS,84,Qualification,KIM Mingyung (KOR),KARAHAN Ipek (TUR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,KIM Mingyung,GALIC Alex,3,0,"11,11,11|1,2,8",,GRAND_SLAM,U21WS,84,Qualification,KIM Mingyung (KOR),GALIC Alex (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,KARAHAN Ipek,GALIC Alex,3,0,"11,11,11|5,2,5",,GRAND_SLAM,U21WS,84,Qualification,KARAHAN Ipek (TUR),GALIC Alex (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,TODOROVIC Andrea,GUTNIK Katja,3,0,"11,11,11|9,3,9",,GRAND_SLAM,U21WS,84,Qualification,TODOROVIC Andrea (SRB),GUTNIK Katja (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,TODOROVIC Andrea,KRZEWICKA Maja,3,1,"7,11,11,11|11,4,6,1",,GRAND_SLAM,U21WS,84,Qualification,TODOROVIC Andrea (SRB),KRZEWICKA Maja (POL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,KRZEWICKA Maja,GUTNIK Katja,3,2,"11,6,11,6,11|9,11,9,11,7",,GRAND_SLAM,U21WS,84,Qualification,KRZEWICKA Maja (POL),GUTNIK Katja (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,TUBIKANEC Ivana,PAVLIN Nina,3,1,"11,9,12,11|9,11,10,5",,GRAND_SLAM,U21WS,84,Qualification,TUBIKANEC Ivana (CRO),PAVLIN Nina (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,TUBIKANEC Ivana,SIRUCKOVA Aneta,3,1,"11,9,11,11|2,11,4,3",,GRAND_SLAM,U21WS,84,Qualification,TUBIKANEC Ivana (CRO),SIRUCKOVA Aneta (CZE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,SIRUCKOVA Aneta,PAVLIN Nina,3,1,"15,11,6,12|13,8,11,10",,GRAND_SLAM,U21WS,84,Qualification,SIRUCKOVA Aneta (CZE),PAVLIN Nina (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,GUI Lin,ZUPANCIC Nina,3,1,"9,11,11,11|11,6,2,6",,GRAND_SLAM,U21WS,84,Qualification,GUI Lin (BRA),ZUPANCIC Nina (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,VIVARELLI Debora,GUI Lin,3,2,"6,12,7,11,11|11,10,11,7,9",,GRAND_SLAM,U21WS,84,Qualification,VIVARELLI Debora (ITA),GUI Lin (BRA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,VIVARELLI Debora,ZUPANCIC Nina,3,1,"14,7,13,12|12,11,11,10",,GRAND_SLAM,U21WS,84,Qualification,VIVARELLI Debora (ITA),ZUPANCIC Nina (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,DOBREVA Polina,MARKATI Paula,3,0,"11,11,11|3,5,3",,GRAND_SLAM,U21WS,84,Qualification,DOBREVA Polina (BUL),MARKATI Paula (CRO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,DOBREVA Polina,LOEUILLETTE Stephanie,3,1,"11,11,9,11|6,7,11,8",,GRAND_SLAM,U21WS,84,Qualification,DOBREVA Polina (BUL),LOEUILLETTE Stephanie (FRA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,LOEUILLETTE Stephanie,MARKATI Paula,3,0,"11,11,11|6,7,8",,GRAND_SLAM,U21WS,84,Qualification,LOEUILLETTE Stephanie (FRA),MARKATI Paula (CRO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,MIKULCOVA Kristyna,KOVACS Karina,3,0,"11,11,13|5,9,11",,GRAND_SLAM,U21WS,84,Qualification,MIKULCOVA Kristyna (CZE),KOVACS Karina (AUT)
-World Tour Slovenia Open Velenje 2012,2012-01-25,LUPULESKU Anelia,MIKULCOVA Kristyna,3,1,"11,8,11,12|2,11,5,10",,GRAND_SLAM,U21WS,84,Qualification,LUPULESKU Anelia (SRB),MIKULCOVA Kristyna (CZE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,LUPULESKU Anelia,KOVACS Karina,3,2,"11,7,15,11,11|6,11,17,6,2",,GRAND_SLAM,U21WS,84,Qualification,LUPULESKU Anelia (SRB),KOVACS Karina (AUT)
-World Tour Slovenia Open Velenje 2012,2012-01-25,SLIFIRCZYK Katarzyna,ZALOZNIK Tjasa,3,0,"11,11,11|9,7,8",,GRAND_SLAM,U21WS,84,Qualification,SLIFIRCZYK Katarzyna (POL),ZALOZNIK Tjasa (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,SLIFIRCZYK Katarzyna,KUMAHARA Luca,3,0,"11,11,13|8,4,11",,GRAND_SLAM,U21WS,84,Qualification,SLIFIRCZYK Katarzyna (POL),KUMAHARA Luca (BRA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,KUMAHARA Luca,ZALOZNIK Tjasa,3,0,"11,11,11|4,2,4",,GRAND_SLAM,U21WS,84,Qualification,KUMAHARA Luca (BRA),ZALOZNIK Tjasa (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,HWANG Jina,STUCKYTE Egle,3,0,"11,11,11|4,6,5",,GRAND_SLAM,U21WS,84,Qualification,HWANG Jina (KOR),STUCKYTE Egle (LTU)
-World Tour Slovenia Open Velenje 2012,2012-01-25,STUCKYTE Egle,RADONJIC Aleksandra,3,1,"11,13,5,12|4,11,11,10",,GRAND_SLAM,U21WS,84,Qualification,STUCKYTE Egle (LTU),RADONJIC Aleksandra (SRB)
-World Tour Slovenia Open Velenje 2012,2012-01-25,HWANG Jina,RADONJIC Aleksandra,3,0,"11,11,11|5,9,4",,GRAND_SLAM,U21WS,84,Qualification,HWANG Jina (KOR),RADONJIC Aleksandra (SRB)
-World Tour Slovenia Open Velenje 2012,2012-01-25,MA Long,PAIKOV Mikhail,4,0,"11,11,11,11|3,6,5,8",R64,GRAND_SLAM,MS,84,Main Draw,MA Long (CHN),PAIKOV Mikhail (RUS)
-World Tour Slovenia Open Velenje 2012,2012-01-25,KEINATH Thomas,WOSIK Torben,4,2,"10,11,11,7,11,11|12,4,8,11,7,7",R64,GRAND_SLAM,MS,84,Main Draw,KEINATH Thomas (SVK),WOSIK Torben (GER)
-World Tour Slovenia Open Velenje 2012,2012-01-25,TOKIC Bojan,TSUBOI Gustavo,4,2,"10,11,9,11,11,11|12,8,11,8,6,4",R64,GRAND_SLAM,MS,84,Main Draw,TOKIC Bojan (SLO),TSUBOI Gustavo (BRA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,HUANG Sheng-Sheng,SUSS Christian,4,2,"13,15,5,11,8,11|11,13,11,9,11,2",R64,GRAND_SLAM,MS,84,Main Draw,HUANG Sheng-Sheng (TPE),SUSS Christian (GER)
-World Tour Slovenia Open Velenje 2012,2012-01-25,TAN Ruiwu,HIELSCHER Lars,4,1,"11,11,13,8,12|8,4,11,11,10",R64,GRAND_SLAM,MS,84,Main Draw,TAN Ruiwu (CRO),HIELSCHER Lars (GER)
-World Tour Slovenia Open Velenje 2012,2012-01-25,YANG Zi,ZHMUDENKO Yaroslav,4,2,"8,8,11,11,11,11|11,11,6,7,6,9",R64,GRAND_SLAM,MS,84,Main Draw,YANG Zi (SGP),ZHMUDENKO Yaroslav (UKR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,WANG Eugene,GAO Ning,4,2,"10,11,13,11,5,12|12,9,11,5,11,10",R64,GRAND_SLAM,MS,84,Main Draw,WANG Eugene (CAN),GAO Ning (SGP)
-World Tour Slovenia Open Velenje 2012,2012-01-25,MA Lin,PATTANTYUS Adam,4,0,"11,11,11,11|3,6,5,4",R64,GRAND_SLAM,MS,84,Main Draw,MA Lin (CHN),PATTANTYUS Adam (HUN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,SHIBAEV Alexander,STERNBERG Kasper,4,3,"9,5,14,11,11,6,12|11,11,12,6,9,11,10",R64,GRAND_SLAM,MS,84,Main Draw,SHIBAEV Alexander (RUS),STERNBERG Kasper (DEN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,GERELL Par,VRABLIK Jiri,4,0,"11,11,11,11|5,3,5,6",R64,GRAND_SLAM,MS,84,Main Draw,GERELL Par (SWE),VRABLIK Jiri (CZE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,SEO Hyundeok,GAVLAS Antonin,4,1,"11,11,11,8,11|9,6,7,11,8",R64,GRAND_SLAM,MS,84,Main Draw,SEO Hyundeok (KOR),GAVLAS Antonin (CZE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,LEE Jungwoo,GORAK Daniel,4,3,"1,7,11,9,11,11,11|11,11,9,11,6,9,4",R64,GRAND_SLAM,MS,84,Main Draw,LEE Jungwoo (KOR),GORAK Daniel (POL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,CHEN Chien-An,HABESOHN Daniel,4,2,"11,11,8,10,11,11|5,5,11,12,9,8",R64,GRAND_SLAM,MS,84,Main Draw,CHEN Chien-An (TPE),HABESOHN Daniel (AUT)
-World Tour Slovenia Open Velenje 2012,2012-01-25,JIANG Tianyi,GROTH Jonathan,4,0,"11,11,11,13|9,4,8,11",R64,GRAND_SLAM,MS,84,Main Draw,JIANG Tianyi (HKG),GROTH Jonathan (DEN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,WANG Hao,FEGERL Stefan,4,0,"11,11,11,14|7,7,8,12",R64,GRAND_SLAM,MS,84,Main Draw,WANG Hao (CHN),FEGERL Stefan (AUT)
-World Tour Slovenia Open Velenje 2012,2012-01-25,XU Xin,DRINKHALL Paul,4,1,"11,8,11,11,11|4,11,6,8,4",R64,GRAND_SLAM,MS,84,Main Draw,XU Xin (CHN),DRINKHALL Paul (ENG)
-World Tour Slovenia Open Velenje 2012,2012-01-25,LI Ahmet,LEGOUT Christophe,4,2,"11,11,11,6,7,11|5,9,4,11,11,5",R64,GRAND_SLAM,MS,84,Main Draw,LI Ahmet (TUR),LEGOUT Christophe (FRA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,FILUS Ruwen,LASAN Sas,4,1,"11,11,8,11,11|2,2,11,3,6",R64,GRAND_SLAM,MS,84,Main Draw,FILUS Ruwen (GER),LASAN Sas (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,FRANZISKA Patrick,APOLONIA Tiago,4,3,"7,11,8,11,11,12,11|11,7,11,9,13,10,6",R64,GRAND_SLAM,MS,84,Main Draw,FRANZISKA Patrick (GER),APOLONIA Tiago (POR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,BAUM Patrick,WANG Zengyi,4,2,"6,10,11,11,11,11|11,12,5,5,6,9",R64,GRAND_SLAM,MS,84,Main Draw,BAUM Patrick (GER),WANG Zengyi (POL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,LEBESSON Emmanuel,VLASOV Grigory,4,3,"7,11,5,11,11,7,11|11,6,11,5,8,11,7",R64,GRAND_SLAM,MS,84,Main Draw,LEBESSON Emmanuel (FRA),VLASOV Grigory (RUS)
-World Tour Slovenia Open Velenje 2012,2012-01-25,MACHADO Carlos,FENG Xiaoquan,4,1,"11,10,11,11,11|5,12,3,8,4",R64,GRAND_SLAM,MS,84,Main Draw,MACHADO Carlos (ESP),FENG Xiaoquan (AUT)
-World Tour Slovenia Open Velenje 2012,2012-01-25,JOO Saehyuk,WONG Chun Ting,4,0,"11,11,11,11|7,5,9,6",R64,GRAND_SLAM,MS,84,Main Draw,JOO Saehyuk (KOR),WONG Chun Ting (HKG)
-World Tour Slovenia Open Velenje 2012,2012-01-25,TOSIC Roko,STEGER Bastian,4,3,"4,11,11,10,8,14,11|11,5,4,12,11,12,3",R64,GRAND_SLAM,MS,84,Main Draw,TOSIC Roko (CRO),STEGER Bastian (GER)
-World Tour Slovenia Open Velenje 2012,2012-01-25,RUBTSOV Igor,SUCH Bartosz,4,3,"5,13,11,11,9,8,11|11,11,3,9,11,11,3",R64,GRAND_SLAM,MS,84,Main Draw,RUBTSOV Igor (RUS),SUCH Bartosz (POL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,SVENSSON Robert,STORF Martin,4,1,"9,11,11,11,11|11,6,7,9,6",R64,GRAND_SLAM,MS,84,Main Draw,SVENSSON Robert (SWE),STORF Martin (AUT)
-World Tour Slovenia Open Velenje 2012,2012-01-25,CHEN Weixing,KUZMIN Fedor,4,0,"11,11,11,11|7,5,6,9",R64,GRAND_SLAM,MS,84,Main Draw,CHEN Weixing (AUT),KUZMIN Fedor (RUS)
-World Tour Slovenia Open Velenje 2012,2012-01-25,YAN An,BURGIS Matiss,4,0,"11,11,11,11|9,4,7,9",R64,GRAND_SLAM,MS,84,Main Draw,YAN An (CHN),BURGIS Matiss (LAT)
-World Tour Slovenia Open Velenje 2012,2012-01-25,GAUZY Simon,JEOUNG Youngsik,4,0,"11,11,11,11|9,8,9,9",R64,GRAND_SLAM,MS,84,Main Draw,GAUZY Simon (FRA),JEOUNG Youngsik (KOR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,ZHANG Jike,MATSUMOTO Cazuo,4,1,"5,11,11,11,11|11,5,3,5,3",R64,GRAND_SLAM,MS,84,Main Draw,ZHANG Jike (CHN),MATSUMOTO Cazuo (BRA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,MA Long,HE Zhiwen,4,1,"15,12,9,11,12|13,10,11,6,10",R32,GRAND_SLAM,MS,84,Main Draw,MA Long (CHN),HE Zhiwen (ESP)
-World Tour Slovenia Open Velenje 2012,2012-01-25,TOKIC Bojan,KEINATH Thomas,4,2,"11,11,9,7,11,11|5,7,11,11,6,3",R32,GRAND_SLAM,MS,84,Main Draw,TOKIC Bojan (SLO),KEINATH Thomas (SVK)
-World Tour Slovenia Open Velenje 2012,2012-01-25,TAN Ruiwu,HUANG Sheng-Sheng,4,1,"11,11,7,11,12|7,9,11,7,10",R32,GRAND_SLAM,MS,84,Main Draw,TAN Ruiwu (CRO),HUANG Sheng-Sheng (TPE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,WANG Eugene,YANG Zi,4,3,"5,11,11,9,11,7,11|11,4,4,11,5,11,5",R32,GRAND_SLAM,MS,84,Main Draw,WANG Eugene (CAN),YANG Zi (SGP)
-World Tour Slovenia Open Velenje 2012,2012-01-25,MA Lin,SHIBAEV Alexander,4,1,"9,11,11,11,12|11,9,5,4,10",R32,GRAND_SLAM,MS,84,Main Draw,MA Lin (CHN),SHIBAEV Alexander (RUS)
-World Tour Slovenia Open Velenje 2012,2012-01-25,SEO Hyundeok,GERELL Par,4,3,"14,11,5,11,9,11,11|16,7,11,7,11,7,8",R32,GRAND_SLAM,MS,84,Main Draw,SEO Hyundeok (KOR),GERELL Par (SWE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,LEE Jungwoo,CHEN Chien-An,4,0,"15,11,11,11|13,7,7,7",R32,GRAND_SLAM,MS,84,Main Draw,LEE Jungwoo (KOR),CHEN Chien-An (TPE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,WANG Hao,JIANG Tianyi,4,2,"11,11,13,11,10,11|5,8,15,6,12,6",R32,GRAND_SLAM,MS,84,Main Draw,WANG Hao (CHN),JIANG Tianyi (HKG)
-World Tour Slovenia Open Velenje 2012,2012-01-25,XU Xin,LI Ahmet,4,0,"11,11,11,13|3,6,6,11",R32,GRAND_SLAM,MS,84,Main Draw,XU Xin (CHN),LI Ahmet (TUR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,FRANZISKA Patrick,FILUS Ruwen,4,3,"11,11,11,12,9,10,12|9,7,4,14,11,12,10",R32,GRAND_SLAM,MS,84,Main Draw,FRANZISKA Patrick (GER),FILUS Ruwen (GER)
-World Tour Slovenia Open Velenje 2012,2012-01-25,BAUM Patrick,LEBESSON Emmanuel,4,2,"12,7,11,11,9,11|10,11,7,5,11,8",R32,GRAND_SLAM,MS,84,Main Draw,BAUM Patrick (GER),LEBESSON Emmanuel (FRA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,JOO Saehyuk,MACHADO Carlos,4,1,"9,11,11,11,11|11,4,6,6,7",R32,GRAND_SLAM,MS,84,Main Draw,JOO Saehyuk (KOR),MACHADO Carlos (ESP)
-World Tour Slovenia Open Velenje 2012,2012-01-25,TOSIC Roko,RUBTSOV Igor,4,2,"11,7,11,11,12,11|5,11,6,9,14,9",R32,GRAND_SLAM,MS,84,Main Draw,TOSIC Roko (CRO),RUBTSOV Igor (RUS)
-World Tour Slovenia Open Velenje 2012,2012-01-25,BOBOCICA Mihai,SVENSSON Robert,4,0,"14,11,13,11|12,4,11,7",R32,GRAND_SLAM,MS,84,Main Draw,BOBOCICA Mihai (ITA),SVENSSON Robert (SWE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,YAN An,CHEN Weixing,4,0,"11,11,11,11|9,6,8,6",R32,GRAND_SLAM,MS,84,Main Draw,YAN An (CHN),CHEN Weixing (AUT)
-World Tour Slovenia Open Velenje 2012,2012-01-25,ZHANG Jike,GAUZY Simon,4,2,"11,11,6,8,11,11|9,4,11,11,8,7",R32,GRAND_SLAM,MS,84,Main Draw,ZHANG Jike (CHN),GAUZY Simon (FRA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,MA Long,TOKIC Bojan,4,1,"11,11,11,6,11|8,6,7,11,4",R16,GRAND_SLAM,MS,84,Main Draw,MA Long (CHN),TOKIC Bojan (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,WANG Eugene,TAN Ruiwu,4,0,"11,11,11,11|2,7,4,9",R16,GRAND_SLAM,MS,84,Main Draw,WANG Eugene (CAN),TAN Ruiwu (CRO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,MA Lin,SEO Hyundeok,4,0,"11,11,11,11|5,9,5,1",R16,GRAND_SLAM,MS,84,Main Draw,MA Lin (CHN),SEO Hyundeok (KOR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,WANG Hao,LEE Jungwoo,4,0,"11,11,11,11|5,8,1,9",R16,GRAND_SLAM,MS,84,Main Draw,WANG Hao (CHN),LEE Jungwoo (KOR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,XU Xin,FRANZISKA Patrick,4,2,"11,10,12,7,11,12|7,12,10,11,2,10",R16,GRAND_SLAM,MS,84,Main Draw,XU Xin (CHN),FRANZISKA Patrick (GER)
-World Tour Slovenia Open Velenje 2012,2012-01-25,JOO Saehyuk,BAUM Patrick,4,2,"10,11,11,9,11,11|12,3,4,11,7,5",R16,GRAND_SLAM,MS,84,Main Draw,JOO Saehyuk (KOR),BAUM Patrick (GER)
-World Tour Slovenia Open Velenje 2012,2012-01-25,BOBOCICA Mihai,TOSIC Roko,4,2,"12,8,11,11,9,11|10,11,6,2,11,3",R16,GRAND_SLAM,MS,84,Main Draw,BOBOCICA Mihai (ITA),TOSIC Roko (CRO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,ZHANG Jike,YAN An,4,1,"11,11,11,10,11|5,2,9,12,9",R16,GRAND_SLAM,MS,84,Main Draw,ZHANG Jike (CHN),YAN An (CHN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,MA Long,WANG Eugene,4,0,"11,11,11,11|6,7,4,4",QF,GRAND_SLAM,MS,84,Main Draw,MA Long (CHN),WANG Eugene (CAN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,MA Lin,WANG Hao,4,1,"12,6,11,11,11|10,11,5,2,7",QF,GRAND_SLAM,MS,84,Main Draw,MA Lin (CHN),WANG Hao (CHN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,XU Xin,JOO Saehyuk,4,1,"11,11,8,11,11|2,6,11,6,1",QF,GRAND_SLAM,MS,84,Main Draw,XU Xin (CHN),JOO Saehyuk (KOR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,ZHANG Jike,BOBOCICA Mihai,4,0,"11,11,11,11|5,9,7,5",QF,GRAND_SLAM,MS,84,Main Draw,ZHANG Jike (CHN),BOBOCICA Mihai (ITA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,MA Long,MA Lin,4,1,"6,11,11,11,11|11,6,2,9,6",SF,GRAND_SLAM,MS,84,Main Draw,MA Long (CHN),MA Lin (CHN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,ZHANG Jike,XU Xin,4,0,"11,11,11,11|7,4,5,6",SF,GRAND_SLAM,MS,84,Main Draw,ZHANG Jike (CHN),XU Xin (CHN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,ZHANG Jike,MA Long,4,3,"6,11,7,11,11,9,11|11,4,11,4,7,11,7",F,GRAND_SLAM,MS,84,Main Draw,ZHANG Jike (CHN),MA Long (CHN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,DING Ning,DUBKOVA Elena,4,0,"14,11,11,11|12,2,6,8",R64,GRAND_SLAM,WS,84,Main Draw,DING Ning (CHN),DUBKOVA Elena (BLR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,KIM Minhee (YOB=1991),FAJMUT Manca,4,0,"11,11,12,11|2,5,10,5",R64,GRAND_SLAM,WS,84,Main Draw,KIM Minhee (YOB=1991) (KOR),FAJMUT Manca (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,DODEAN Daniela,MOLNAR Cornelia,4,2,"6,11,11,11,11,11|11,13,5,9,6,4",R64,GRAND_SLAM,WS,84,Main Draw,DODEAN Daniela (ROU),MOLNAR Cornelia (CRO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,LEE Eunhee,DRINKHALL Joanna,4,0,"11,11,11,11|2,2,2,6",R64,GRAND_SLAM,WS,84,Main Draw,LEE Eunhee (KOR),DRINKHALL Joanna (ENG)
-World Tour Slovenia Open Velenje 2012,2012-01-25,LI Jiao,RAMIREZ Sara,4,1,"11,9,12,14,12|7,11,10,12,10",R64,GRAND_SLAM,WS,84,Main Draw,LI Jiao (NED),RAMIREZ Sara (ESP)
-World Tour Slovenia Open Velenje 2012,2012-01-25,GANINA Svetlana,LOVAS Petra,4,1,"16,11,3,11,11|14,9,11,4,7",R64,GRAND_SLAM,WS,84,Main Draw,GANINA Svetlana (RUS),LOVAS Petra (HUN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,EKHOLM Matilda,TOTH Krisztina,4,1,"11,8,12,11,11|7,11,10,9,5",R64,GRAND_SLAM,WS,84,Main Draw,EKHOLM Matilda (SWE),TOTH Krisztina (HUN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,ISHIKAWA Kasumi,HWANG Jina,4,2,"9,11,14,11,5,11|11,7,12,9,11,5",R64,GRAND_SLAM,WS,84,Main Draw,ISHIKAWA Kasumi (JPN),HWANG Jina (KOR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,HIRANO Sayaka,TIAN Yuan,4,0,"11,11,11,11|4,6,9,8",R64,GRAND_SLAM,WS,84,Main Draw,HIRANO Sayaka (JPN),TIAN Yuan (CRO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,HU Melek,MADARASZ Dora,4,2,"3,11,11,8,11,11|11,4,3,11,8,9",R64,GRAND_SLAM,WS,84,Main Draw,HU Melek (TUR),MADARASZ Dora (HUN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,MORIZONO Misaki,FEHER Gabriela,4,1,"5,11,11,11,11|11,5,4,9,6",R64,GRAND_SLAM,WS,84,Main Draw,MORIZONO Misaki (JPN),FEHER Gabriela (SRB)
-World Tour Slovenia Open Velenje 2012,2012-01-25,WU Jiaduo,PAVLOVICH Veronika,4,0,"11,11,11,11|8,6,8,6",R64,GRAND_SLAM,WS,84,Main Draw,WU Jiaduo (GER),PAVLOVICH Veronika (BLR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,PARK Miyoung,POLCANOVA Sofia,4,1,"3,11,11,11,11|11,7,2,7,8",R64,GRAND_SLAM,WS,84,Main Draw,PARK Miyoung (KOR),POLCANOVA Sofia (AUT)
-World Tour Slovenia Open Velenje 2012,2012-01-25,LANG Kristin,TIKHOMIROVA Anna,4,3,"7,10,9,11,11,11,11|11,12,11,8,7,4,6",R64,GRAND_SLAM,WS,84,Main Draw,LANG Kristin (GER),TIKHOMIROVA Anna (RUS)
-World Tour Slovenia Open Velenje 2012,2012-01-25,BARTHEL Zhenqi,KANG Misoon,4,1,"11,8,11,13,11|4,11,6,11,6",R64,GRAND_SLAM,WS,84,Main Draw,BARTHEL Zhenqi (GER),KANG Misoon (KOR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,GUO Yan (1982),YOO Eunchong,4,0,"11,11,11,11|5,4,4,6",R64,GRAND_SLAM,WS,84,Main Draw,GUO Yan (1982) (CHN),YOO Eunchong (KOR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,LIU Shiwen,KASABOVA Asya,4,0,"11,11,11,11|5,4,3,1",R64,GRAND_SLAM,WS,84,Main Draw,LIU Shiwen (CHN),KASABOVA Asya (BUL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,SHEN Yanfei,SOLJA Amelie,4,3,"11,9,13,4,8,11,11|8,11,11,11,11,7,6",R64,GRAND_SLAM,WS,84,Main Draw,SHEN Yanfei (ESP),SOLJA Amelie (AUT)
-World Tour Slovenia Open Velenje 2012,2012-01-25,NONAKA Yuki,PESOTSKA Margaryta,4,1,"11,11,11,10,11|8,6,8,12,7",R64,GRAND_SLAM,WS,84,Main Draw,NONAKA Yuki (JPN),PESOTSKA Margaryta (UKR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,FAN Ying,ALI Meral Ildiz,4,0,"11,11,11,11|4,5,5,3",R64,GRAND_SLAM,WS,84,Main Draw,FAN Ying (CHN),ALI Meral Ildiz (TUR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,JO Yujin,LI Jie,4,2,"11,8,11,11,11,11|7,11,8,5,13,8",R64,GRAND_SLAM,WS,84,Main Draw,JO Yujin (KOR),LI Jie (NED)
-World Tour Slovenia Open Velenje 2012,2012-01-25,POTA Georgina,GRUNDISCH Carole,4,2,"11,9,11,11,9,11|9,11,8,8,11,6",R64,GRAND_SLAM,WS,84,Main Draw,POTA Georgina (HUN),GRUNDISCH Carole (FRA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,CHENG I-Ching,TAN Wenling,4,1,"11,8,11,11,11|5,11,9,8,4",R64,GRAND_SLAM,WS,84,Main Draw,CHENG I-Ching (TPE),TAN Wenling (ITA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,FUKUHARA Ai,PENKAVOVA Katerina,4,1,"11,11,11,9,11|7,9,8,11,2",R64,GRAND_SLAM,WS,84,Main Draw,FUKUHARA Ai (JPN),PENKAVOVA Katerina (CZE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,WU Yang,TODOROVIC Andrea,4,0,"11,11,11,11|2,7,4,8",R64,GRAND_SLAM,WS,84,Main Draw,WU Yang (CHN),TODOROVIC Andrea (SRB)
-World Tour Slovenia Open Velenje 2012,2012-01-25,SUH Hyo Won,HAPONOVA Hanna,4,0,"11,11,12,11|9,5,10,7",R64,GRAND_SLAM,WS,84,Main Draw,SUH Hyo Won (KOR),HAPONOVA Hanna (UKR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,HUANG Yi-Hua,LI Qiangbing,4,0,"11,11,12,11|6,8,10,7",R64,GRAND_SLAM,WS,84,Main Draw,HUANG Yi-Hua (TPE),LI Qiangbing (AUT)
-World Tour Slovenia Open Velenje 2012,2012-01-25,JEON Jihee,MIKHAILOVA Polina,4,2,"11,9,12,11,11,11|6,11,14,9,8,5",R64,GRAND_SLAM,WS,84,Main Draw,JEON Jihee (KOR),MIKHAILOVA Polina (RUS)
-World Tour Slovenia Open Velenje 2012,2012-01-25,PAVLOVICH Viktoria,KERTAI Rita,4,0,"11,11,11,11|4,2,5,8",R64,GRAND_SLAM,WS,84,Main Draw,PAVLOVICH Viktoria (BLR),KERTAI Rita (HUN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,SAMARA Elizabeta,LEE I-Chen,4,0,"11,16,11,11|9,14,9,4",R64,GRAND_SLAM,WS,84,Main Draw,SAMARA Elizabeta (ROU),LEE I-Chen (TPE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,VACENOVSKA Iveta,XIAN Yifang,4,1,"11,11,7,11,11|9,8,11,8,8",R64,GRAND_SLAM,WS,84,Main Draw,VACENOVSKA Iveta (CZE),XIAN Yifang (FRA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,LIU Jia,GALIC Alex,4,0,"11,11,11,11|7,8,1,3",R64,GRAND_SLAM,WS,84,Main Draw,LIU Jia (AUT),GALIC Alex (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,DING Ning,KIM Minhee (YOB=1991),4,0,"11,11,11,11|3,2,3,3",R32,GRAND_SLAM,WS,84,Main Draw,DING Ning (CHN),KIM Minhee (YOB=1991) (KOR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,LEE Eunhee,DODEAN Daniela,4,3,"10,11,11,12,10,6,11|12,7,8,10,12,11,4",R32,GRAND_SLAM,WS,84,Main Draw,LEE Eunhee (KOR),DODEAN Daniela (ROU)
-World Tour Slovenia Open Velenje 2012,2012-01-25,LI Jiao,GANINA Svetlana,4,0,"12,11,11,11|10,9,6,8",R32,GRAND_SLAM,WS,84,Main Draw,LI Jiao (NED),GANINA Svetlana (RUS)
-World Tour Slovenia Open Velenje 2012,2012-01-25,ISHIKAWA Kasumi,EKHOLM Matilda,4,1,"12,17,11,11,11|10,19,6,7,5",R32,GRAND_SLAM,WS,84,Main Draw,ISHIKAWA Kasumi (JPN),EKHOLM Matilda (SWE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,HIRANO Sayaka,HU Melek,4,0,"11,11,12,11|7,5,10,8",R32,GRAND_SLAM,WS,84,Main Draw,HIRANO Sayaka (JPN),HU Melek (TUR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,WU Jiaduo,MORIZONO Misaki,4,0,"11,11,11,11|9,6,7,2",R32,GRAND_SLAM,WS,84,Main Draw,WU Jiaduo (GER),MORIZONO Misaki (JPN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,PARK Miyoung,LANG Kristin,4,0,"13,11,11,11|11,8,6,6",R32,GRAND_SLAM,WS,84,Main Draw,PARK Miyoung (KOR),LANG Kristin (GER)
-World Tour Slovenia Open Velenje 2012,2012-01-25,GUO Yan (1982),BARTHEL Zhenqi,4,0,"11,11,12,11|9,9,10,3",R32,GRAND_SLAM,WS,84,Main Draw,GUO Yan (1982) (CHN),BARTHEL Zhenqi (GER)
-World Tour Slovenia Open Velenje 2012,2012-01-25,LIU Shiwen,SHEN Yanfei,4,0,"12,11,11,11|10,9,5,9",R32,GRAND_SLAM,WS,84,Main Draw,LIU Shiwen (CHN),SHEN Yanfei (ESP)
-World Tour Slovenia Open Velenje 2012,2012-01-25,FAN Ying,NONAKA Yuki,4,1,"6,11,11,13,11|11,6,6,11,7",R32,GRAND_SLAM,WS,84,Main Draw,FAN Ying (CHN),NONAKA Yuki (JPN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,POTA Georgina,JO Yujin,4,2,"11,7,10,11,11,11|8,11,12,8,4,9",R32,GRAND_SLAM,WS,84,Main Draw,POTA Georgina (HUN),JO Yujin (KOR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,FUKUHARA Ai,CHENG I-Ching,4,1,"9,11,11,11,11|11,9,9,7,8",R32,GRAND_SLAM,WS,84,Main Draw,FUKUHARA Ai (JPN),CHENG I-Ching (TPE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,WU Yang,SUH Hyo Won,4,1,"11,11,12,6,11|4,6,10,11,4",R32,GRAND_SLAM,WS,84,Main Draw,WU Yang (CHN),SUH Hyo Won (KOR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,JEON Jihee,HUANG Yi-Hua,4,2,"3,9,11,11,11,11|11,11,7,9,8,4",R32,GRAND_SLAM,WS,84,Main Draw,JEON Jihee (KOR),HUANG Yi-Hua (TPE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,SAMARA Elizabeta,PAVLOVICH Viktoria,4,2,"7,11,12,11,6,11|11,8,10,9,11,9",R32,GRAND_SLAM,WS,84,Main Draw,SAMARA Elizabeta (ROU),PAVLOVICH Viktoria (BLR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,VACENOVSKA Iveta,LIU Jia,4,3,"11,10,11,12,13,12,12|8,12,3,14,15,10,10",R32,GRAND_SLAM,WS,84,Main Draw,VACENOVSKA Iveta (CZE),LIU Jia (AUT)
-World Tour Slovenia Open Velenje 2012,2012-01-25,DING Ning,LEE Eunhee,4,1,"11,11,9,11,11|4,3,11,7,7",R16,GRAND_SLAM,WS,84,Main Draw,DING Ning (CHN),LEE Eunhee (KOR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,ISHIKAWA Kasumi,LI Jiao,4,1,"11,7,11,11,11|6,11,4,3,6",R16,GRAND_SLAM,WS,84,Main Draw,ISHIKAWA Kasumi (JPN),LI Jiao (NED)
-World Tour Slovenia Open Velenje 2012,2012-01-25,HIRANO Sayaka,WU Jiaduo,4,3,"11,4,8,11,8,11,11|6,11,11,6,11,4,6",R16,GRAND_SLAM,WS,84,Main Draw,HIRANO Sayaka (JPN),WU Jiaduo (GER)
-World Tour Slovenia Open Velenje 2012,2012-01-25,GUO Yan (1982),PARK Miyoung,4,1,"11,11,11,9,11|3,3,7,11,6",R16,GRAND_SLAM,WS,84,Main Draw,GUO Yan (1982) (CHN),PARK Miyoung (KOR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,LIU Shiwen,FAN Ying,4,0,"11,11,11,11|3,6,5,6",R16,GRAND_SLAM,WS,84,Main Draw,LIU Shiwen (CHN),FAN Ying (CHN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,FUKUHARA Ai,POTA Georgina,4,1,"7,11,11,11,11|11,5,7,8,4",R16,GRAND_SLAM,WS,84,Main Draw,FUKUHARA Ai (JPN),POTA Georgina (HUN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,WU Yang,JEON Jihee,4,1,"11,7,11,11,11|8,11,4,3,4",R16,GRAND_SLAM,WS,84,Main Draw,WU Yang (CHN),JEON Jihee (KOR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,SAMARA Elizabeta,VACENOVSKA Iveta,4,2,"10,11,11,11,12,11|12,9,7,9,14,6",R16,GRAND_SLAM,WS,84,Main Draw,SAMARA Elizabeta (ROU),VACENOVSKA Iveta (CZE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,DING Ning,ISHIKAWA Kasumi,4,1,"11,9,11,11,11|1,11,8,6,5",QF,GRAND_SLAM,WS,84,Main Draw,DING Ning (CHN),ISHIKAWA Kasumi (JPN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,GUO Yan (1982),HIRANO Sayaka,4,0,"11,11,11,11|9,5,4,5",QF,GRAND_SLAM,WS,84,Main Draw,GUO Yan (1982) (CHN),HIRANO Sayaka (JPN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,LIU Shiwen,FUKUHARA Ai,4,1,"11,10,11,11,11|2,12,5,2,9",QF,GRAND_SLAM,WS,84,Main Draw,LIU Shiwen (CHN),FUKUHARA Ai (JPN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,WU Yang,SAMARA Elizabeta,4,1,"11,8,11,11,11|7,11,3,8,7",QF,GRAND_SLAM,WS,84,Main Draw,WU Yang (CHN),SAMARA Elizabeta (ROU)
-World Tour Slovenia Open Velenje 2012,2012-01-25,DING Ning,GUO Yan (1982),4,1,"11,5,12,13,11|3,11,10,11,4",SF,GRAND_SLAM,WS,84,Main Draw,DING Ning (CHN),GUO Yan (1982) (CHN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,LIU Shiwen,WU Yang,4,0,"11,11,11,11|6,4,3,6",SF,GRAND_SLAM,WS,84,Main Draw,LIU Shiwen (CHN),WU Yang (CHN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,DING Ning,LIU Shiwen,4,2,"13,6,9,11,11,11|11,11,11,7,7,3",F,GRAND_SLAM,WS,84,Main Draw,DING Ning (CHN),LIU Shiwen (CHN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,CHEN Chien-An,INDEHERBERG Julien,3,0,"11,11,11|2,5,7",R32,GRAND_SLAM,U21MS,84,Main Draw,CHEN Chien-An (TPE),INDEHERBERG Julien (BEL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,NUYTINCK Cedric,DORAN Christopher,3,1,"11,11,11,13|8,13,5,11",R32,GRAND_SLAM,U21MS,84,Main Draw,NUYTINCK Cedric (BEL),DORAN Christopher (ENG)
-World Tour Slovenia Open Velenje 2012,2012-01-25,FLORE Tristan,ANDERSSON Harald,3,1,"10,11,11,11|12,8,7,1",R32,GRAND_SLAM,U21MS,84,Main Draw,FLORE Tristan (FRA),ANDERSSON Harald (SWE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,KARLSSON Mattias,FLORAS Robert,3,1,"9,11,14,13|11,5,12,11",R32,GRAND_SLAM,U21MS,84,Main Draw,KARLSSON Mattias (SWE),FLORAS Robert (POL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,SIRUCEK Pavel,SUBOTIC Dragan,3,1,"11,11,6,11|2,6,11,9",R32,GRAND_SLAM,U21MS,84,Main Draw,SIRUCEK Pavel (CZE),SUBOTIC Dragan (SRB)
-World Tour Slovenia Open Velenje 2012,2012-01-25,KARLSSON Kristian,DYJAS Jakub,3,1,"11,11,12,11|0,6,14,4",R32,GRAND_SLAM,U21MS,84,Main Draw,KARLSSON Kristian (SWE),DYJAS Jakub (POL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,WALTHER Ricardo,CREPULJA Bojan,3,0,"11,11,12|8,9,10",R32,GRAND_SLAM,U21MS,84,Main Draw,WALTHER Ricardo (GER),CREPULJA Bojan (SRB)
-World Tour Slovenia Open Velenje 2012,2012-01-25,CHANG Shun-Hung,LI Ahmet,3,0,"11,11,11|6,4,9",R32,GRAND_SLAM,U21MS,84,Main Draw,CHANG Shun-Hung (TPE),LI Ahmet (TUR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,ROBINOT Quentin,OVERSJO Mattias,3,0,"11,11,16|7,6,14",R32,GRAND_SLAM,U21MS,84,Main Draw,ROBINOT Quentin (FRA),OVERSJO Mattias (SWE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,FLORITZ Philipp,SZOCS Hunor,3,2,"10,11,11,8,11|12,9,8,11,6",R32,GRAND_SLAM,U21MS,84,Main Draw,FLORITZ Philipp (BUL),SZOCS Hunor (ROU)
-World Tour Slovenia Open Velenje 2012,2012-01-25,JEAN Lauric,LORENTZ Romain,3,0,"11,11,11|1,0,0",R32,GRAND_SLAM,U21MS,84,Main Draw,JEAN Lauric (BEL),LORENTZ Romain (FRA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,FRANZISKA Patrick,ZIBRAT Jan,3,1,"11,3,11,11|5,11,6,7",R32,GRAND_SLAM,U21MS,84,Main Draw,FRANZISKA Patrick (GER),ZIBRAT Jan (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,GAUZY Simon,CAMPOS Jorge,3,0,"11,11,11|8,7,9",R32,GRAND_SLAM,U21MS,84,Main Draw,GAUZY Simon (FRA),CAMPOS Jorge (CUB)
-World Tour Slovenia Open Velenje 2012,2012-01-25,PITCHFORD Liam,MORICZ Mate,3,0,"11,11,11|7,7,9",R32,GRAND_SLAM,U21MS,84,Main Draw,PITCHFORD Liam (ENG),MORICZ Mate (HUN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,RECH DALDOSSO Marco,WONG Chun Ting,3,2,"8,12,11,9,15|11,10,8,11,13",R32,GRAND_SLAM,U21MS,84,Main Draw,RECH DALDOSSO Marco (ITA),WONG Chun Ting (HKG)
-World Tour Slovenia Open Velenje 2012,2012-01-25,JEOUNG Youngsik,SIMOVIC Miho,3,0,"11,11,11|9,7,8",R32,GRAND_SLAM,U21MS,84,Main Draw,JEOUNG Youngsik (KOR),SIMOVIC Miho (CRO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,CHEN Chien-An,NUYTINCK Cedric,3,1,"11,11,5,11|2,7,11,4",R16,GRAND_SLAM,U21MS,84,Main Draw,CHEN Chien-An (TPE),NUYTINCK Cedric (BEL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,KARLSSON Mattias,FLORE Tristan,3,2,"4,12,11,6,11|11,10,7,11,6",R16,GRAND_SLAM,U21MS,84,Main Draw,KARLSSON Mattias (SWE),FLORE Tristan (FRA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,KARLSSON Kristian,SIRUCEK Pavel,3,2,"11,11,7,9,13|8,9,11,11,11",R16,GRAND_SLAM,U21MS,84,Main Draw,KARLSSON Kristian (SWE),SIRUCEK Pavel (CZE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,WALTHER Ricardo,CHANG Shun-Hung,3,0,"11,13,11|6,11,7",R16,GRAND_SLAM,U21MS,84,Main Draw,WALTHER Ricardo (GER),CHANG Shun-Hung (TPE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,ROBINOT Quentin,FLORITZ Philipp,3,0,"11,11,11|6,5,8",R16,GRAND_SLAM,U21MS,84,Main Draw,ROBINOT Quentin (FRA),FLORITZ Philipp (BUL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,FRANZISKA Patrick,JEAN Lauric,3,1,"5,11,11,11|11,6,4,8",R16,GRAND_SLAM,U21MS,84,Main Draw,FRANZISKA Patrick (GER),JEAN Lauric (BEL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,GAUZY Simon,PITCHFORD Liam,3,0,"12,11,11|10,8,4",R16,GRAND_SLAM,U21MS,84,Main Draw,GAUZY Simon (FRA),PITCHFORD Liam (ENG)
-World Tour Slovenia Open Velenje 2012,2012-01-25,JEOUNG Youngsik,RECH DALDOSSO Marco,3,2,"12,14,11,7,11|10,16,2,11,6",R16,GRAND_SLAM,U21MS,84,Main Draw,JEOUNG Youngsik (KOR),RECH DALDOSSO Marco (ITA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,KARLSSON Mattias,CHEN Chien-An,4,2,"11,11,16,8,8,11|9,4,14,11,11,8",QF,GRAND_SLAM,U21MS,84,Main Draw,KARLSSON Mattias (SWE),CHEN Chien-An (TPE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,WALTHER Ricardo,KARLSSON Kristian,4,1,"11,11,11,2,12|7,8,9,11,10",QF,GRAND_SLAM,U21MS,84,Main Draw,WALTHER Ricardo (GER),KARLSSON Kristian (SWE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,ROBINOT Quentin,FRANZISKA Patrick,4,2,"13,11,11,10,7,11|11,7,8,12,11,4",QF,GRAND_SLAM,U21MS,84,Main Draw,ROBINOT Quentin (FRA),FRANZISKA Patrick (GER)
-World Tour Slovenia Open Velenje 2012,2012-01-25,WALTHER Ricardo,KARLSSON Mattias,4,2,"11,11,6,5,11,11|8,8,11,11,9,8",SF,GRAND_SLAM,U21MS,84,Main Draw,WALTHER Ricardo (GER),KARLSSON Mattias (SWE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,GAUZY Simon,ROBINOT Quentin,4,1,"12,8,11,11,11|10,11,9,8,9",SF,GRAND_SLAM,U21MS,84,Main Draw,GAUZY Simon (FRA),ROBINOT Quentin (FRA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,GAUZY Simon,WALTHER Ricardo,4,2,"11,11,7,11,9,11|9,8,11,4,11,2",F,GRAND_SLAM,U21MS,84,Main Draw,GAUZY Simon (FRA),WALTHER Ricardo (GER)
-World Tour Slovenia Open Velenje 2012,2012-01-25,ISHIKAWA Kasumi,LOEUILLETTE Stephanie,3,0,"12,13,11|10,11,1",R32,GRAND_SLAM,U21WS,84,Main Draw,ISHIKAWA Kasumi (JPN),LOEUILLETTE Stephanie (FRA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,POLCANOVA Sofia,HWANG Jina,3,1,"11,5,13,11|8,11,11,6",R32,GRAND_SLAM,U21WS,84,Main Draw,POLCANOVA Sofia (AUT),HWANG Jina (KOR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,KIM Mingyung,DUBKOVA Elena,3,1,"11,11,7,11|7,4,11,5",R32,GRAND_SLAM,U21WS,84,Main Draw,KIM Mingyung (KOR),DUBKOVA Elena (BLR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,PESOTSKA Margaryta,GUNGOR Gokce Nur,3,0,"11,11,11|7,3,5",R32,GRAND_SLAM,U21WS,84,Main Draw,PESOTSKA Margaryta (UKR),GUNGOR Gokce Nur (TUR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,WINTER Sabine,SLIFIRCZYK Katarzyna,3,2,"11,9,10,11,11|4,11,12,5,5",R32,GRAND_SLAM,U21WS,84,Main Draw,WINTER Sabine (GER),SLIFIRCZYK Katarzyna (POL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,KIM Minhee (YOB=1991),KUSINSKA Klaudia,3,0,"11,11,11|7,8,4",R32,GRAND_SLAM,U21WS,84,Main Draw,KIM Minhee (YOB=1991) (KOR),KUSINSKA Klaudia (POL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,ABBAT Alice,DOBREVA Polina,3,1,"8,11,11,11|11,9,8,8",R32,GRAND_SLAM,U21WS,84,Main Draw,ABBAT Alice (FRA),DOBREVA Polina (BUL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,KANG Misoon,MIKULCOVA Kristyna,3,1,"8,11,11,11|11,6,4,3",R32,GRAND_SLAM,U21WS,84,Main Draw,KANG Misoon (KOR),MIKULCOVA Kristyna (CZE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,CHENG I-Ching,SIRUCKOVA Aneta,3,0,"11,11,11|8,5,9",R32,GRAND_SLAM,U21WS,84,Main Draw,CHENG I-Ching (TPE),SIRUCKOVA Aneta (CZE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,IACOB Camelia,TODOROVIC Andrea,3,1,"11,9,11,12|5,11,6,10",R32,GRAND_SLAM,U21WS,84,Main Draw,IACOB Camelia (ROU),TODOROVIC Andrea (SRB)
-World Tour Slovenia Open Velenje 2012,2012-01-25,SZCZERKOWSKA Magdalena,VIVARELLI Debora,3,1,"12,11,7,11|10,7,11,6",R32,GRAND_SLAM,U21WS,84,Main Draw,SZCZERKOWSKA Magdalena (POL),VIVARELLI Debora (ITA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,VARADY Barbora,YOO Eunchong,3,0,"11,11,11|5,5,4",R32,GRAND_SLAM,U21WS,84,Main Draw,VARADY Barbora (SVK),YOO Eunchong (KOR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,MADARASZ Dora,KRZEWICKA Maja,3,0,"11,11,12|5,4,10",R32,GRAND_SLAM,U21WS,84,Main Draw,MADARASZ Dora (HUN),KRZEWICKA Maja (POL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,JO Yujin,LUPULESKU Anelia,3,0,"11,11,11|6,6,3",R32,GRAND_SLAM,U21WS,84,Main Draw,JO Yujin (KOR),LUPULESKU Anelia (SRB)
-World Tour Slovenia Open Velenje 2012,2012-01-25,AMBRUS Krisztina,TUBIKANEC Ivana,3,0,"11,11,11|5,8,7",R32,GRAND_SLAM,U21WS,84,Main Draw,AMBRUS Krisztina (HUN),TUBIKANEC Ivana (CRO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,MORIZONO Misaki,KUMAHARA Luca,3,1,"11,11,12,11|4,5,14,9",R32,GRAND_SLAM,U21WS,84,Main Draw,MORIZONO Misaki (JPN),KUMAHARA Luca (BRA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,ISHIKAWA Kasumi,POLCANOVA Sofia,3,1,"11,1,11,11|6,11,6,7",R16,GRAND_SLAM,U21WS,84,Main Draw,ISHIKAWA Kasumi (JPN),POLCANOVA Sofia (AUT)
-World Tour Slovenia Open Velenje 2012,2012-01-25,KIM Mingyung,PESOTSKA Margaryta,3,2,"6,11,9,12,11|11,6,11,10,6",R16,GRAND_SLAM,U21WS,84,Main Draw,KIM Mingyung (KOR),PESOTSKA Margaryta (UKR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,WINTER Sabine,KIM Minhee (YOB=1991),3,1,"11,8,11,11|8,11,8,8",R16,GRAND_SLAM,U21WS,84,Main Draw,WINTER Sabine (GER),KIM Minhee (YOB=1991) (KOR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,ABBAT Alice,KANG Misoon,3,2,"12,7,11,5,11|10,11,9,11,5",R16,GRAND_SLAM,U21WS,84,Main Draw,ABBAT Alice (FRA),KANG Misoon (KOR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,CHENG I-Ching,IACOB Camelia,3,0,"11,11,11|9,9,8",R16,GRAND_SLAM,U21WS,84,Main Draw,CHENG I-Ching (TPE),IACOB Camelia (ROU)
-World Tour Slovenia Open Velenje 2012,2012-01-25,SZCZERKOWSKA Magdalena,VARADY Barbora,3,0,"11,11,11|7,7,5",R16,GRAND_SLAM,U21WS,84,Main Draw,SZCZERKOWSKA Magdalena (POL),VARADY Barbora (SVK)
-World Tour Slovenia Open Velenje 2012,2012-01-25,MADARASZ Dora,JO Yujin,3,1,"11,11,9,11|2,4,11,8",R16,GRAND_SLAM,U21WS,84,Main Draw,MADARASZ Dora (HUN),JO Yujin (KOR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,MORIZONO Misaki,AMBRUS Krisztina,3,1,"11,11,8,11|5,4,11,3",R16,GRAND_SLAM,U21WS,84,Main Draw,MORIZONO Misaki (JPN),AMBRUS Krisztina (HUN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,ISHIKAWA Kasumi,KIM Mingyung,4,0,"11,11,11,11|9,6,5,8",QF,GRAND_SLAM,U21WS,84,Main Draw,ISHIKAWA Kasumi (JPN),KIM Mingyung (KOR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,ABBAT Alice,WINTER Sabine,4,1,"13,11,11,6,11|11,9,6,11,2",QF,GRAND_SLAM,U21WS,84,Main Draw,ABBAT Alice (FRA),WINTER Sabine (GER)
-World Tour Slovenia Open Velenje 2012,2012-01-25,CHENG I-Ching,SZCZERKOWSKA Magdalena,4,1,"11,8,13,11,11|2,11,11,3,7",QF,GRAND_SLAM,U21WS,84,Main Draw,CHENG I-Ching (TPE),SZCZERKOWSKA Magdalena (POL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,MORIZONO Misaki,MADARASZ Dora,4,1,"11,9,11,12,11|8,11,3,10,6",QF,GRAND_SLAM,U21WS,84,Main Draw,MORIZONO Misaki (JPN),MADARASZ Dora (HUN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,ISHIKAWA Kasumi,ABBAT Alice,4,0,"11,11,11,11|5,8,8,4",SF,GRAND_SLAM,U21WS,84,Main Draw,ISHIKAWA Kasumi (JPN),ABBAT Alice (FRA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,MORIZONO Misaki,CHENG I-Ching,4,3,"11,12,6,10,9,11,12|8,10,11,12,11,7,10",SF,GRAND_SLAM,U21WS,84,Main Draw,MORIZONO Misaki (JPN),CHENG I-Ching (TPE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,ISHIKAWA Kasumi,MORIZONO Misaki,4,3,"11,11,8,9,9,11,11|7,8,11,11,11,6,3",F,GRAND_SLAM,U21WS,84,Main Draw,ISHIKAWA Kasumi (JPN),MORIZONO Misaki (JPN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,GAVLAS Antonin,HINSE Pierre-Luc,4,1,"10,11,11,11,11|12,2,8,7,5",QR64,GRAND_SLAM,MS,84,Qualification,GAVLAS Antonin (CZE),HINSE Pierre-Luc (CAN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,WONG Chun Ting,DIDUKH Oleksandr,4,3,"8,11,11,5,11,10,11|11,9,9,11,3,12,6",QR64,GRAND_SLAM,MS,84,Qualification,WONG Chun Ting (HKG),DIDUKH Oleksandr (UKR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,FENG Xiaoquan,CREPULJA Bojan,4,0,"11,11,11,11|4,7,7,9",QR64,GRAND_SLAM,MS,84,Qualification,FENG Xiaoquan (AUT),CREPULJA Bojan (SRB)
-World Tour Slovenia Open Velenje 2012,2012-01-25,MATSUMOTO Cazuo,BUROV Viacheslav,4,3,"11,13,9,11,11,10,11|9,15,11,5,8,12,8",QR64,GRAND_SLAM,MS,84,Qualification,MATSUMOTO Cazuo (BRA),BUROV Viacheslav (RUS)
-World Tour Slovenia Open Velenje 2012,2012-01-25,VRABLIK Jiri,SALIFOU Abdel-Kader,4,3,"11,9,11,9,9,11,11|6,11,6,11,11,6,9",QR64,GRAND_SLAM,MS,84,Qualification,VRABLIK Jiri (CZE),SALIFOU Abdel-Kader (BEN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,GROTH Jonathan,CARNEROS Alfredo,4,3,"6,6,11,12,10,11,11|11,11,6,10,12,5,8",QR64,GRAND_SLAM,MS,84,Qualification,GROTH Jonathan (DEN),CARNEROS Alfredo (ESP)
-World Tour Slovenia Open Velenje 2012,2012-01-25,STORF Martin,KOSIBA Daniel,4,2,"14,2,4,13,13,11|12,11,11,11,11,9",QR64,GRAND_SLAM,MS,84,Qualification,STORF Martin (AUT),KOSIBA Daniel (HUN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,DRINKHALL Paul,TSE Ka Chun,4,3,"11,4,11,4,12,5,12|7,11,5,11,10,11,10",QR64,GRAND_SLAM,MS,84,Qualification,DRINKHALL Paul (ENG),TSE Ka Chun (HKG)
-World Tour Slovenia Open Velenje 2012,2012-01-25,VLASOV Grigory,CHIANG Hung-Chieh,4,1,"6,11,11,11,11|11,8,9,9,9",QR64,GRAND_SLAM,MS,84,Qualification,VLASOV Grigory (RUS),CHIANG Hung-Chieh (TPE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,TOSIC Roko,BAGGALEY Andrew,4,1,"11,14,9,11,11|8,12,11,7,9",QR64,GRAND_SLAM,MS,84,Qualification,TOSIC Roko (CRO),BAGGALEY Andrew (ENG)
-World Tour Slovenia Open Velenje 2012,2012-01-25,PATTANTYUS Adam,FLORAS Robert,4,1,"12,8,11,11,11|10,11,4,4,4",QR64,GRAND_SLAM,MS,84,Qualification,PATTANTYUS Adam (HUN),FLORAS Robert (POL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,WANG Eugene,PETO Zsolt,4,0,"11,11,11,11|7,7,9,5",QR64,GRAND_SLAM,MS,84,Qualification,WANG Eugene (CAN),PETO Zsolt (SRB)
-World Tour Slovenia Open Velenje 2012,2012-01-25,HIELSCHER Lars,OBESLO Michal,4,1,"11,11,11,7,11|8,2,3,11,5",QR64,GRAND_SLAM,MS,84,Qualification,HIELSCHER Lars (GER),OBESLO Michal (CZE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,PAIKOV Mikhail,PITCHFORD Liam,4,3,"4,8,11,11,12,8,12|11,11,8,7,10,11,10",QR64,GRAND_SLAM,MS,84,Qualification,PAIKOV Mikhail (RUS),PITCHFORD Liam (ENG)
-World Tour Slovenia Open Velenje 2012,2012-01-25,HUANG Sheng-Sheng,KNIGHT Darius,4,1,"4,11,11,11,11|11,4,4,6,8",QR64,GRAND_SLAM,MS,84,Qualification,HUANG Sheng-Sheng (TPE),KNIGHT Darius (ENG)
-World Tour Slovenia Open Velenje 2012,2012-01-25,FRANZISKA Patrick,PEREIRA Andy,4,1,"11,9,11,13,11|7,11,5,11,3",QR64,GRAND_SLAM,MS,84,Qualification,FRANZISKA Patrick (GER),PEREIRA Andy (CUB)
-World Tour Slovenia Open Velenje 2012,2012-01-25,STERNBERG Kasper,JANCARIK Lubomir,4,3,"11,8,11,11,6,8,11|9,11,9,8,11,11,7",QR64,GRAND_SLAM,MS,84,Qualification,STERNBERG Kasper (DEN),JANCARIK Lubomir (CZE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,SIMOVIC Miho,SCHAFFER Daniel,3,2,"7,7,11,12,11|11,11,6,10,6",QR2,GRAND_SLAM,U21MS,84,Qualification,SIMOVIC Miho (CRO),SCHAFFER Daniel (HUN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,KUMAHARA Luca,PETEK Petra,3,2,"8,9,11,11,11|11,11,9,8,5",QR16,GRAND_SLAM,U21WS,84,Qualification,KUMAHARA Luca (BRA),PETEK Petra (CRO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,MIKULCOVA Kristyna,KARAHAN Ipek,3,1,"11,6,14,11|8,11,12,3",QR16,GRAND_SLAM,U21WS,84,Qualification,MIKULCOVA Kristyna (CZE),KARAHAN Ipek (TUR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,KRZEWICKA Maja,LOEUILLETTE Stephanie,3,1,"3,11,11,11|11,6,8,5",QR16,GRAND_SLAM,U21WS,84,Qualification,KRZEWICKA Maja (POL),LOEUILLETTE Stephanie (FRA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,SIRUCKOVA Aneta,GUI Lin,3,2,"11,6,6,11,11|8,11,11,9,7",QR16,GRAND_SLAM,U21WS,84,Qualification,SIRUCKOVA Aneta (CZE),GUI Lin (BRA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,DYJAS Jakub,DORAN Christopher,4,1,"9,11,11,11,11|11,8,8,9,5",,GRAND_SLAM,MS,84,Qualification,DYJAS Jakub (POL),DORAN Christopher (ENG)
-World Tour Slovenia Open Velenje 2012,2012-01-25,TSUBOI Gustavo,DYJAS Jakub,4,1,"11,11,6,11,11|6,1,11,5,9",,GRAND_SLAM,MS,84,Qualification,TSUBOI Gustavo (BRA),DYJAS Jakub (POL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,TSUBOI Gustavo,DORAN Christopher,4,3,"11,11,11,13,12,9,11|7,3,8,15,14,11,8",,GRAND_SLAM,MS,84,Qualification,TSUBOI Gustavo (BRA),DORAN Christopher (ENG)
-World Tour Slovenia Open Velenje 2012,2012-01-25,CHANG Shun-Hung,INDEHERBERG Julien,4,0,"11,11,11,11|7,6,8,5",,GRAND_SLAM,MS,84,Qualification,CHANG Shun-Hung (TPE),INDEHERBERG Julien (BEL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,FILUS Ruwen,INDEHERBERG Julien,4,0,"11,11,11,11|1,0,0,0",,GRAND_SLAM,MS,84,Qualification,FILUS Ruwen (GER),INDEHERBERG Julien (BEL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,FILUS Ruwen,CHANG Shun-Hung,4,2,"8,11,11,9,11,11|11,8,1,11,7,3",,GRAND_SLAM,MS,84,Qualification,FILUS Ruwen (GER),CHANG Shun-Hung (TPE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,RECH DALDOSSO Marco,PLATTNER Dominique,4,0,"11,11,11,13|4,4,6,11",,GRAND_SLAM,MS,84,Qualification,RECH DALDOSSO Marco (ITA),PLATTNER Dominique (AUT)
-World Tour Slovenia Open Velenje 2012,2012-01-25,KUZMIN Fedor,PLATTNER Dominique,4,2,"11,7,11,11,7,11|7,11,3,7,11,1",,GRAND_SLAM,MS,84,Qualification,KUZMIN Fedor (RUS),PLATTNER Dominique (AUT)
-World Tour Slovenia Open Velenje 2012,2012-01-25,KUZMIN Fedor,RECH DALDOSSO Marco,4,1,"11,11,8,11,11|5,4,11,2,7",,GRAND_SLAM,MS,84,Qualification,KUZMIN Fedor (RUS),RECH DALDOSSO Marco (ITA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,ECHAVARRIA Alexander,CAMPOS Jorge,4,2,"13,11,8,11,11,11|11,13,11,7,9,9",,GRAND_SLAM,MS,84,Qualification,ECHAVARRIA Alexander (COL),CAMPOS Jorge (CUB)
-World Tour Slovenia Open Velenje 2012,2012-01-25,WOSIK Torben,CAMPOS Jorge,4,2,"11,11,6,11,8,11|4,9,11,5,11,4",,GRAND_SLAM,MS,84,Qualification,WOSIK Torben (GER),CAMPOS Jorge (CUB)
-World Tour Slovenia Open Velenje 2012,2012-01-25,WOSIK Torben,ECHAVARRIA Alexander,4,0,"11,11,11,11|6,1,6,5",,GRAND_SLAM,MS,84,Qualification,WOSIK Torben (GER),ECHAVARRIA Alexander (COL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,UDRA Alfredas,DEVOS Robin,4,1,"11,11,6,11,11|9,7,11,7,6",,GRAND_SLAM,MS,84,Qualification,UDRA Alfredas (LTU),DEVOS Robin (BEL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,HABESOHN Daniel,UDRA Alfredas,4,1,"11,11,11,7,11|9,8,4,11,4",,GRAND_SLAM,MS,84,Qualification,HABESOHN Daniel (AUT),UDRA Alfredas (LTU)
-World Tour Slovenia Open Velenje 2012,2012-01-25,HABESOHN Daniel,DEVOS Robin,4,1,"12,6,11,11,11|10,11,9,8,7",,GRAND_SLAM,MS,84,Qualification,HABESOHN Daniel (AUT),DEVOS Robin (BEL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,BEN ARI Omri,DONADO Josue,4,1,"12,4,11,14,11|10,11,5,12,9",,GRAND_SLAM,MS,84,Qualification,BEN ARI Omri (ISR),DONADO Josue (ESA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,WANG Zengyi,BEN ARI Omri,4,0,"11,11,11,11|5,5,8,3",,GRAND_SLAM,MS,84,Qualification,WANG Zengyi (POL),BEN ARI Omri (ISR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,CHEN Hongtao,ZAFOSTNIK Gregor,4,3,"5,13,5,5,11,11,11|11,11,11,11,5,8,6",,GRAND_SLAM,MS,84,Qualification,CHEN Hongtao (CAN),ZAFOSTNIK Gregor (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,CHEN Hongtao,ROBINOT Quentin,4,2,"7,11,11,3,12,11|11,7,9,11,10,8",,GRAND_SLAM,MS,84,Qualification,CHEN Hongtao (CAN),ROBINOT Quentin (FRA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,ROBINOT Quentin,ZAFOSTNIK Gregor,4,0,"15,11,11,11|13,4,7,3",,GRAND_SLAM,MS,84,Qualification,ROBINOT Quentin (FRA),ZAFOSTNIK Gregor (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,MANHANI Humberto,SIMOVIC Miho,4,2,"19,8,10,13,11,11|17,11,12,11,9,5",,GRAND_SLAM,MS,84,Qualification,MANHANI Humberto (BRA),SIMOVIC Miho (CRO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,LI Ahmet,SIMOVIC Miho,4,1,"11,11,9,11,11|8,8,11,6,9",,GRAND_SLAM,MS,84,Qualification,LI Ahmet (TUR),SIMOVIC Miho (CRO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,LI Ahmet,MANHANI Humberto,4,2,"7,11,5,11,11,11|11,4,11,9,5,5",,GRAND_SLAM,MS,84,Qualification,LI Ahmet (TUR),MANHANI Humberto (BRA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,BAJGER Ondrej,SUBOTIC Dragan,4,3,"11,11,7,10,9,11,11|8,7,11,12,11,8,9",,GRAND_SLAM,MS,84,Qualification,BAJGER Ondrej (CZE),SUBOTIC Dragan (SRB)
-World Tour Slovenia Open Velenje 2012,2012-01-25,SUCH Bartosz,BAJGER Ondrej,4,2,"10,11,11,6,11,11|12,2,3,11,3,8",,GRAND_SLAM,MS,84,Qualification,SUCH Bartosz (POL),BAJGER Ondrej (CZE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,SUCH Bartosz,SUBOTIC Dragan,4,0,"11,11,11,11|6,9,6,3",,GRAND_SLAM,MS,84,Qualification,SUCH Bartosz (POL),SUBOTIC Dragan (SRB)
-World Tour Slovenia Open Velenje 2012,2012-01-25,SLATINSEK Uros,CIPIN Filip,4,3,"12,13,3,13,11,8,11|10,11,11,15,6,11,6",,GRAND_SLAM,MS,84,Qualification,SLATINSEK Uros (SLO),CIPIN Filip (CRO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,GAUZY Simon,CIPIN Filip,4,1,"11,13,11,3,11|7,11,5,11,7",,GRAND_SLAM,MS,84,Qualification,GAUZY Simon (FRA),CIPIN Filip (CRO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,GAUZY Simon,SLATINSEK Uros,4,0,"12,11,11,11|10,2,3,7",,GRAND_SLAM,MS,84,Qualification,GAUZY Simon (FRA),SLATINSEK Uros (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,PETO Zoltan,PALATINUS Martin,4,0,"11,11,11,11|7,6,8,7",,GRAND_SLAM,MS,84,Qualification,PETO Zoltan (SRB),PALATINUS Martin (HUN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,FEGERL Stefan,PALATINUS Martin,4,1,"8,11,11,11,11|11,7,8,8,7",,GRAND_SLAM,MS,84,Qualification,FEGERL Stefan (AUT),PALATINUS Martin (HUN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,FEGERL Stefan,PETO Zoltan,4,0,"11,11,11,12|8,5,6,10",,GRAND_SLAM,MS,84,Qualification,FEGERL Stefan (AUT),PETO Zoltan (SRB)
-World Tour Slovenia Open Velenje 2012,2012-01-25,DODEAN Daniela/SAMARA Elizabeta,DUBKOVA Elena/PAVLOVICH Viktoria,3,1,"7,11,11,13|11,7,6,11",R16,GRAND_SLAM,WD,84,Main Draw,DODEAN Daniela (ROU) / SAMARA Elizabeta (ROU),DUBKOVA Elena (BLR) / PAVLOVICH Viktoria (BLR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,FUKUHARA Ai/HIRANO Sayaka,PAVLOVICH Veronika/PRIVALOVA Alexandra,3,0,"15,11,11|13,5,5",R16,GRAND_SLAM,WD,84,Main Draw,FUKUHARA Ai (JPN) / HIRANO Sayaka (JPN),PAVLOVICH Veronika (BLR) / PRIVALOVA Alexandra (BLR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,MA Long/ZHANG Jike,FEGERL Stefan/FENG Xiaoquan,3,0,"11,11,11|3,7,4",R16,GRAND_SLAM,MD,84,Main Draw,MA Long (CHN) / ZHANG Jike (CHN),FEGERL Stefan (AUT) / FENG Xiaoquan (AUT)
-World Tour Slovenia Open Velenje 2012,2012-01-25,MA Long/ZHANG Jike,GAO Ning/YANG Zi,4,1,"11,11,13,11,11|6,3,15,6,9",QF,GRAND_SLAM,MD,84,Main Draw,MA Long (CHN) / ZHANG Jike (CHN),GAO Ning (SGP) / YANG Zi (SGP)
-World Tour Slovenia Open Velenje 2012,2012-01-25,MA Long/ZHANG Jike,MA Lin/YAN An,4,1,"8,11,11,15,11|11,7,6,13,8",SF,GRAND_SLAM,MD,84,Main Draw,MA Long (CHN) / ZHANG Jike (CHN),MA Lin (CHN) / YAN An (CHN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,MA Long/ZHANG Jike,WANG Hao/XU Xin,4,2,"11,12,11,11,5,16|3,14,9,3,11,14",F,GRAND_SLAM,MD,84,Main Draw,MA Long (CHN) / ZHANG Jike (CHN),WANG Hao (CHN) / XU Xin (CHN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,DING Ning/GUO Yan (1982),DOLGIKH Maria/MIKHAILOVA Polina,3,0,"11,11,11|9,4,4",R16,GRAND_SLAM,WD,84,Main Draw,DING Ning (CHN) / GUO Yan (1982) (CHN),DOLGIKH Maria (RUS) / MIKHAILOVA Polina (RUS)
-World Tour Slovenia Open Velenje 2012,2012-01-25,FAN Ying/WU Yang,RAMIREZ Sara/SHEN Yanfei,3,0,"11,11,11|7,6,2",R16,GRAND_SLAM,WD,84,Main Draw,FAN Ying (CHN) / WU Yang (CHN),RAMIREZ Sara (ESP) / SHEN Yanfei (ESP)
-World Tour Slovenia Open Velenje 2012,2012-01-25,DING Ning/GUO Yan (1982),DODEAN Daniela/SAMARA Elizabeta,4,0,"11,14,11,11|6,12,4,2",QF,GRAND_SLAM,WD,84,Main Draw,DING Ning (CHN) / GUO Yan (1982) (CHN),DODEAN Daniela (ROU) / SAMARA Elizabeta (ROU)
-World Tour Slovenia Open Velenje 2012,2012-01-25,DING Ning/GUO Yan (1982),POTA Georgina/TOTH Krisztina,4,3,"9,11,11,6,10,11,11|11,4,8,11,12,8,9",SF,GRAND_SLAM,WD,84,Main Draw,DING Ning (CHN) / GUO Yan (1982) (CHN),POTA Georgina (HUN) / TOTH Krisztina (HUN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,FAN Ying/WU Yang,LANG Kristin/WU Jiaduo,4,0,"11,11,11,12|6,5,9,10",SF,GRAND_SLAM,WD,84,Main Draw,FAN Ying (CHN) / WU Yang (CHN),LANG Kristin (GER) / WU Jiaduo (GER)
-World Tour Slovenia Open Velenje 2012,2012-01-25,DING Ning/GUO Yan (1982),FAN Ying/WU Yang,4,0,"12,12,11,11|10,10,9,8",F,GRAND_SLAM,WD,84,Main Draw,DING Ning (CHN) / GUO Yan (1982) (CHN),FAN Ying (CHN) / WU Yang (CHN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,GAO Ning/YANG Zi,FLORE Tristan/LEBESSON Emmanuel,3,1,"10,11,13,11|12,6,11,9",R16,GRAND_SLAM,MD,84,Main Draw,GAO Ning (SGP) / YANG Zi (SGP),FLORE Tristan (FRA) / LEBESSON Emmanuel (FRA)
-World Tour Slovenia Open Velenje 2012,2012-01-25,LANG Kristin/WU Jiaduo,CHENG I-Ching/HUANG Yi-Hua,3,1,"11,8,12,11|8,11,10,5",R16,GRAND_SLAM,WD,84,Main Draw,LANG Kristin (GER) / WU Jiaduo (GER),CHENG I-Ching (TPE) / HUANG Yi-Hua (TPE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,POTA Georgina/TOTH Krisztina,TIKHOMIROVA Anna/VORONOVA Anastasia,3,2,"11,6,11,8,11|5,11,9,11,8",R16,GRAND_SLAM,WD,84,Main Draw,POTA Georgina (HUN) / TOTH Krisztina (HUN),TIKHOMIROVA Anna (RUS) / VORONOVA Anastasia (RUS)
-World Tour Slovenia Open Velenje 2012,2012-01-25,POTA Georgina/TOTH Krisztina,FUKUHARA Ai/HIRANO Sayaka,4,2,"11,11,6,9,11,11|9,8,11,11,8,8",QF,GRAND_SLAM,WD,84,Main Draw,POTA Georgina (HUN) / TOTH Krisztina (HUN),FUKUHARA Ai (JPN) / HIRANO Sayaka (JPN)
-World Tour Slovenia Open Velenje 2012,2012-01-25,JEOUNG Youngsik/KIM Minseok,CANTERO Jesus/HE Zhiwen,3,1,"11,11,9,11|8,8,11,6",R16,GRAND_SLAM,MD,84,Main Draw,JEOUNG Youngsik (KOR) / KIM Minseok (KOR),CANTERO Jesus (ESP) / HE Zhiwen (ESP)
-World Tour Slovenia Open Velenje 2012,2012-01-25,WANG Hao/XU Xin,CHOI Wonjin/LEE Jungwoo,3,2,"11,9,9,11,12|8,11,11,9,10",R16,GRAND_SLAM,MD,84,Main Draw,WANG Hao (CHN) / XU Xin (CHN),CHOI Wonjin (KOR) / LEE Jungwoo (KOR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,CHIANG Hung-Chieh/HUANG Sheng-Sheng,JEOUNG Youngsik/KIM Minseok,4,1,"11,11,11,10,11|9,6,9,12,7",QF,GRAND_SLAM,MD,84,Main Draw,CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE),JEOUNG Youngsik (KOR) / KIM Minseok (KOR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,PARK Miyoung/SUH Hyo Won,EKHOLM Matilda/FEHER Gabriela,3,2,"7,16,11,5,11|11,14,9,11,7",R16,GRAND_SLAM,WD,84,Main Draw,PARK Miyoung (KOR) / SUH Hyo Won (KOR),EKHOLM Matilda (SWE) / FEHER Gabriela (SRB)
-World Tour Slovenia Open Velenje 2012,2012-01-25,FAN Ying/WU Yang,PARK Miyoung/SUH Hyo Won,4,0,"11,11,11,11|2,4,9,3",QF,GRAND_SLAM,WD,84,Main Draw,FAN Ying (CHN) / WU Yang (CHN),PARK Miyoung (KOR) / SUH Hyo Won (KOR)
-World Tour Slovenia Open Velenje 2012,2012-01-25,LI Jiao/LI Jie,POLCANOVA Sofia/SOLJA Amelie,3,0,"11,11,11|3,4,6",R16,GRAND_SLAM,WD,84,Main Draw,LI Jiao (NED) / LI Jie (NED),POLCANOVA Sofia (AUT) / SOLJA Amelie (AUT)
-World Tour Slovenia Open Velenje 2012,2012-01-25,LANG Kristin/WU Jiaduo,LI Jiao/LI Jie,4,2,"12,9,11,11,12,11|14,11,6,8,10,6",QF,GRAND_SLAM,WD,84,Main Draw,LANG Kristin (GER) / WU Jiaduo (GER),LI Jiao (NED) / LI Jie (NED)
-World Tour Slovenia Open Velenje 2012,2012-01-25,MA Lin/YAN An,FERTIKOWSKI Pawel/WANG Zengyi,3,0,"11,11,11|8,7,4",R16,GRAND_SLAM,MD,84,Main Draw,MA Lin (CHN) / YAN An (CHN),FERTIKOWSKI Pawel (POL) / WANG Zengyi (POL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,KARLSSON Kristian/KARLSSON Mattias,KUZMIN Fedor/RUBTSOV Igor,3,0,"11,11,11|9,9,7",R16,GRAND_SLAM,MD,84,Main Draw,KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),KUZMIN Fedor (RUS) / RUBTSOV Igor (RUS)
-World Tour Slovenia Open Velenje 2012,2012-01-25,TOKIC Bojan/ZIBRAT Jan,FLORAS Robert/GORAK Daniel,3,2,"5,6,11,11,11|11,11,6,8,6",R16,GRAND_SLAM,MD,84,Main Draw,TOKIC Bojan (SLO) / ZIBRAT Jan (SLO),FLORAS Robert (POL) / GORAK Daniel (POL)
-World Tour Slovenia Open Velenje 2012,2012-01-25,MA Lin/YAN An,TOKIC Bojan/ZIBRAT Jan,4,0,"13,11,11,11|11,8,2,6",QF,GRAND_SLAM,MD,84,Main Draw,MA Lin (CHN) / YAN An (CHN),TOKIC Bojan (SLO) / ZIBRAT Jan (SLO)
-World Tour Slovenia Open Velenje 2012,2012-01-25,WANG Hao/XU Xin,KARLSSON Kristian/KARLSSON Mattias,4,1,"6,15,11,11,11|11,13,7,5,5",QF,GRAND_SLAM,MD,84,Main Draw,WANG Hao (CHN) / XU Xin (CHN),KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,WANG Hao/XU Xin,CHIANG Hung-Chieh/HUANG Sheng-Sheng,4,1,"11,12,7,11,11|5,10,11,8,5",SF,GRAND_SLAM,MD,84,Main Draw,WANG Hao (CHN) / XU Xin (CHN),CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE)
-World Tour Slovenia Open Velenje 2012,2012-01-25,CHIANG Hung-Chieh/HUANG Sheng-Sheng,DIDUKH Oleksandr/PRYSHCHEPA Ievgen,3,1,"11,4,13,11|9,11,11,5",R16,GRAND_SLAM,MD,84,Main Draw,CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE),DIDUKH Oleksandr (UKR) / PRYSHCHEPA Ievgen (UKR)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+World Tour Slovenia Open Velenje 2012,2012-01-25,MATELOVA Hana,RADONJIC Aleksandra,4,0,"11,11,11,14|5,4,5,12",,GRAND_SLAM,WS,84,Qualification,MATELOVA Hana (CZE),RADONJIC Aleksandra (SRB),MATELOVA Hana
+World Tour Slovenia Open Velenje 2012,2012-01-25,LIU Jia,RADONJIC Aleksandra,4,0,"11,11,11,11|7,4,4,7",,GRAND_SLAM,WS,84,Qualification,LIU Jia (AUT),RADONJIC Aleksandra (SRB),LIU Jia
+World Tour Slovenia Open Velenje 2012,2012-01-25,LIU Jia,MATELOVA Hana,4,1,"11,8,11,11,11|8,11,5,7,4",,GRAND_SLAM,WS,84,Qualification,LIU Jia (AUT),MATELOVA Hana (CZE),LIU Jia
+World Tour Slovenia Open Velenje 2012,2012-01-25,STUCKYTE Egle,KUMAHARA Luca,4,1,"11,11,11,9,11|4,8,9,11,9",,GRAND_SLAM,WS,84,Qualification,STUCKYTE Egle (LTU),KUMAHARA Luca (BRA),STUCKYTE Egle
+World Tour Slovenia Open Velenje 2012,2012-01-25,BARTHEL Zhenqi,KUMAHARA Luca,4,0,"11,11,13,11|9,3,11,5",,GRAND_SLAM,WS,84,Qualification,BARTHEL Zhenqi (GER),KUMAHARA Luca (BRA),BARTHEL Zhenqi
+World Tour Slovenia Open Velenje 2012,2012-01-25,BARTHEL Zhenqi,STUCKYTE Egle,4,0,"11,11,11,11|8,7,5,8",,GRAND_SLAM,WS,84,Qualification,BARTHEL Zhenqi (GER),STUCKYTE Egle (LTU),BARTHEL Zhenqi
+World Tour Slovenia Open Velenje 2012,2012-01-25,YAMADA Jessica,LUPULESKU Anelia,4,0,"11,12,11,11|8,10,4,9",,GRAND_SLAM,WS,84,Qualification,YAMADA Jessica (BRA),LUPULESKU Anelia (SRB),YAMADA Jessica
+World Tour Slovenia Open Velenje 2012,2012-01-25,TIKHOMIROVA Anna,LUPULESKU Anelia,4,0,"11,11,11,11|6,5,4,3",,GRAND_SLAM,WS,84,Qualification,TIKHOMIROVA Anna (RUS),LUPULESKU Anelia (SRB),TIKHOMIROVA Anna
+World Tour Slovenia Open Velenje 2012,2012-01-25,TIKHOMIROVA Anna,YAMADA Jessica,4,0,"11,11,11,11|6,1,6,3",,GRAND_SLAM,WS,84,Qualification,TIKHOMIROVA Anna (RUS),YAMADA Jessica (BRA),TIKHOMIROVA Anna
+World Tour Slovenia Open Velenje 2012,2012-01-25,LOEUILLETTE Stephanie,SLIFIRCZYK Katarzyna,4,2,"11,11,11,6,11,14|8,9,2,11,13,12",,GRAND_SLAM,WS,84,Qualification,LOEUILLETTE Stephanie (FRA),SLIFIRCZYK Katarzyna (POL),LOEUILLETTE Stephanie
+World Tour Slovenia Open Velenje 2012,2012-01-25,LEE I-Chen,LOEUILLETTE Stephanie,4,0,"11,11,11,11|4,6,8,7",,GRAND_SLAM,WS,84,Qualification,LEE I-Chen (TPE),LOEUILLETTE Stephanie (FRA),LEE I-Chen
+World Tour Slovenia Open Velenje 2012,2012-01-25,LEE I-Chen,SLIFIRCZYK Katarzyna,4,1,"9,11,11,11,11|11,4,4,5,7",,GRAND_SLAM,WS,84,Qualification,LEE I-Chen (TPE),SLIFIRCZYK Katarzyna (POL),LEE I-Chen
+World Tour Slovenia Open Velenje 2012,2012-01-25,MIKULCOVA Kristyna,VIVARELLI Debora,4,0,"11,12,11,11|4,10,5,9",,GRAND_SLAM,WS,84,Qualification,MIKULCOVA Kristyna (CZE),VIVARELLI Debora (ITA),MIKULCOVA Kristyna
+World Tour Slovenia Open Velenje 2012,2012-01-25,EKHOLM Matilda,VIVARELLI Debora,4,0,"11,11,13,11|9,4,11,3",,GRAND_SLAM,WS,84,Qualification,EKHOLM Matilda (SWE),VIVARELLI Debora (ITA),EKHOLM Matilda
+World Tour Slovenia Open Velenje 2012,2012-01-25,EKHOLM Matilda,MIKULCOVA Kristyna,4,2,"11,10,11,11,9,11|9,12,3,6,11,3",,GRAND_SLAM,WS,84,Qualification,EKHOLM Matilda (SWE),MIKULCOVA Kristyna (CZE),EKHOLM Matilda
+World Tour Slovenia Open Velenje 2012,2012-01-25,LI Qiangbing,VEGA Paulina,4,1,"11,11,3,11,11|5,7,11,9,6",,GRAND_SLAM,WS,84,Qualification,LI Qiangbing (AUT),VEGA Paulina (CHI),LI Qiangbing
+World Tour Slovenia Open Velenje 2012,2012-01-25,ALI Meral Ildiz,VASYLIEVA Ievgeniia,4,1,"11,11,7,11,11|8,9,11,3,4",,GRAND_SLAM,WS,84,Qualification,ALI Meral Ildiz (TUR),VASYLIEVA Ievgeniia (UKR),ALI Meral Ildiz
+World Tour Slovenia Open Velenje 2012,2012-01-25,ZHU Fang,VASYLIEVA Ievgeniia,4,1,"9,11,11,11,11|12,3,6,4,5",,GRAND_SLAM,WS,84,Qualification,ZHU Fang (ESP),VASYLIEVA Ievgeniia (UKR),ZHU Fang
+World Tour Slovenia Open Velenje 2012,2012-01-25,ALI Meral Ildiz,ZHU Fang,4,2,"8,11,8,11,11,12|11,7,11,7,7,10",,GRAND_SLAM,WS,84,Qualification,ALI Meral Ildiz (TUR),ZHU Fang (ESP),ALI Meral Ildiz
+World Tour Slovenia Open Velenje 2012,2012-01-25,SIRUCKOVA Aneta,PETERMAN-VARGA Timea,4,1,"11,15,11,7,11|6,13,3,11,8",,GRAND_SLAM,WS,84,Qualification,SIRUCKOVA Aneta (CZE),PETERMAN-VARGA Timea (HUN),SIRUCKOVA Aneta
+World Tour Slovenia Open Velenje 2012,2012-01-25,FEHER Gabriela,SIRUCKOVA Aneta,4,1,"7,11,11,12,11|11,6,9,10,7",,GRAND_SLAM,WS,84,Qualification,FEHER Gabriela (SRB),SIRUCKOVA Aneta (CZE),FEHER Gabriela
+World Tour Slovenia Open Velenje 2012,2012-01-25,FEHER Gabriela,PETERMAN-VARGA Timea,4,2,"10,11,15,13,11,11|12,8,17,11,8,6",,GRAND_SLAM,WS,84,Qualification,FEHER Gabriela (SRB),PETERMAN-VARGA Timea (HUN),FEHER Gabriela
+World Tour Slovenia Open Velenje 2012,2012-01-25,DOBREVA Polina,KRZEWICKA Maja,4,0,"11,11,11,11|7,8,7,6",,GRAND_SLAM,WS,84,Qualification,DOBREVA Polina (BUL),KRZEWICKA Maja (POL),DOBREVA Polina
+World Tour Slovenia Open Velenje 2012,2012-01-25,GANINA Svetlana,KRZEWICKA Maja,4,0,"11,11,11,11|5,7,3,6",,GRAND_SLAM,WS,84,Qualification,GANINA Svetlana (RUS),KRZEWICKA Maja (POL),GANINA Svetlana
+World Tour Slovenia Open Velenje 2012,2012-01-25,GANINA Svetlana,DOBREVA Polina,4,2,"11,11,5,11,9,11|8,5,11,2,11,9",,GRAND_SLAM,WS,84,Qualification,GANINA Svetlana (RUS),DOBREVA Polina (BUL),GANINA Svetlana
+World Tour Slovenia Open Velenje 2012,2012-01-25,XIAN Yifang,GALIC Alex,4,0,"11,11,11,11|5,2,1,6",,GRAND_SLAM,WS,84,Qualification,XIAN Yifang (FRA),GALIC Alex (SLO),XIAN Yifang
+World Tour Slovenia Open Velenje 2012,2012-01-25,GUI Lin,PETEK Petra,4,2,"9,8,11,14,12,11|11,11,7,12,10,1",,GRAND_SLAM,WS,84,Qualification,GUI Lin (BRA),PETEK Petra (CRO),GUI Lin
+World Tour Slovenia Open Velenje 2012,2012-01-25,MADARASZ Dora,PETEK Petra,4,0,"11,11,11,11|2,2,9,4",,GRAND_SLAM,WS,84,Qualification,MADARASZ Dora (HUN),PETEK Petra (CRO),MADARASZ Dora
+World Tour Slovenia Open Velenje 2012,2012-01-25,MADARASZ Dora,GUI Lin,4,1,"11,11,11,9,11|8,6,9,11,5",,GRAND_SLAM,WS,84,Qualification,MADARASZ Dora (HUN),GUI Lin (BRA),MADARASZ Dora
+World Tour Slovenia Open Velenje 2012,2012-01-25,TUBIKANEC Ivana,GUNGOR Gokce Nur,4,0,"11,11,11,11|9,6,4,6",,GRAND_SLAM,WS,84,Qualification,TUBIKANEC Ivana (CRO),GUNGOR Gokce Nur (TUR),TUBIKANEC Ivana
+World Tour Slovenia Open Velenje 2012,2012-01-25,PAVLOVICH Veronika,GUNGOR Gokce Nur,4,0,"11,12,11,14|8,10,6,12",,GRAND_SLAM,WS,84,Qualification,PAVLOVICH Veronika (BLR),GUNGOR Gokce Nur (TUR),PAVLOVICH Veronika
+World Tour Slovenia Open Velenje 2012,2012-01-25,PAVLOVICH Veronika,TUBIKANEC Ivana,4,1,"8,11,16,11,11|11,9,14,9,6",,GRAND_SLAM,WS,84,Qualification,PAVLOVICH Veronika (BLR),TUBIKANEC Ivana (CRO),PAVLOVICH Veronika
+World Tour Slovenia Open Velenje 2012,2012-01-25,KNEZEVIC Monika,ROJKO Vesna,4,0,"11,11,11,11|7,9,4,5",,GRAND_SLAM,WS,84,Qualification,KNEZEVIC Monika (SRB),ROJKO Vesna (SLO),KNEZEVIC Monika
+World Tour Slovenia Open Velenje 2012,2012-01-25,GRUNDISCH Carole,ROJKO Vesna,4,1,"11,5,11,11,11|6,11,9,7,2",,GRAND_SLAM,WS,84,Qualification,GRUNDISCH Carole (FRA),ROJKO Vesna (SLO),GRUNDISCH Carole
+World Tour Slovenia Open Velenje 2012,2012-01-25,GRUNDISCH Carole,KNEZEVIC Monika,4,0,"11,11,11,14|7,8,4,12",,GRAND_SLAM,WS,84,Qualification,GRUNDISCH Carole (FRA),KNEZEVIC Monika (SRB),GRUNDISCH Carole
+World Tour Slovenia Open Velenje 2012,2012-01-25,LENNON Emmanuelle,FULOP Szilvia,4,0,"11,11,12,11|5,4,10,4",,GRAND_SLAM,WS,84,Qualification,LENNON Emmanuelle (FRA),FULOP Szilvia (HUN),LENNON Emmanuelle
+World Tour Slovenia Open Velenje 2012,2012-01-25,MIKHAILOVA Polina,FULOP Szilvia,4,0,"11,11,11,12|4,9,4,10",,GRAND_SLAM,WS,84,Qualification,MIKHAILOVA Polina (RUS),FULOP Szilvia (HUN),MIKHAILOVA Polina
+World Tour Slovenia Open Velenje 2012,2012-01-25,MIKHAILOVA Polina,LENNON Emmanuelle,4,2,"9,11,11,11,3,11|11,8,4,2,11,8",,GRAND_SLAM,WS,84,Qualification,MIKHAILOVA Polina (RUS),LENNON Emmanuelle (FRA),MIKHAILOVA Polina
+World Tour Slovenia Open Velenje 2012,2012-01-25,KERTAI Rita,ZERA Ivana,4,1,"14,11,9,11,11|12,6,11,8,7",,GRAND_SLAM,WS,84,Qualification,KERTAI Rita (HUN),ZERA Ivana (SLO),KERTAI Rita
+World Tour Slovenia Open Velenje 2012,2012-01-25,WINTER Sabine,ZERA Ivana,4,0,"11,11,11,11|8,6,2,5",,GRAND_SLAM,WS,84,Qualification,WINTER Sabine (GER),ZERA Ivana (SLO),WINTER Sabine
+World Tour Slovenia Open Velenje 2012,2012-01-25,KERTAI Rita,WINTER Sabine,4,1,"11,11,6,11,12|8,8,11,5,10",,GRAND_SLAM,WS,84,Qualification,KERTAI Rita (HUN),WINTER Sabine (GER),KERTAI Rita
+World Tour Slovenia Open Velenje 2012,2012-01-25,KASABOVA Asya,ZUPANCIC Nina,4,0,"11,11,13,11|8,8,11,5",,GRAND_SLAM,WS,84,Qualification,KASABOVA Asya (BUL),ZUPANCIC Nina (SLO),KASABOVA Asya
+World Tour Slovenia Open Velenje 2012,2012-01-25,RAMIREZ Sara,ZUPANCIC Nina,4,1,"11,11,6,11,11|1,9,11,5,6",,GRAND_SLAM,WS,84,Qualification,RAMIREZ Sara (ESP),ZUPANCIC Nina (SLO),RAMIREZ Sara
+World Tour Slovenia Open Velenje 2012,2012-01-25,RAMIREZ Sara,KASABOVA Asya,4,1,"11,11,11,9,11|7,3,8,11,5",,GRAND_SLAM,WS,84,Qualification,RAMIREZ Sara (ESP),KASABOVA Asya (BUL),RAMIREZ Sara
+World Tour Slovenia Open Velenje 2012,2012-01-25,TODOROVIC Andrea,JERIC Tamara,4,0,"11,11,11,11|6,8,6,7",,GRAND_SLAM,WS,84,Qualification,TODOROVIC Andrea (SRB),JERIC Tamara (SLO),TODOROVIC Andrea
+World Tour Slovenia Open Velenje 2012,2012-01-25,DVORAK Galia,JERIC Tamara,4,2,"16,6,11,11,12,11|18,11,4,3,10,3",,GRAND_SLAM,WS,84,Qualification,DVORAK Galia (ESP),JERIC Tamara (SLO),DVORAK Galia
+World Tour Slovenia Open Velenje 2012,2012-01-25,TODOROVIC Andrea,DVORAK Galia,4,2,"6,11,12,7,11,11|11,7,10,11,8,6",,GRAND_SLAM,WS,84,Qualification,TODOROVIC Andrea (SRB),DVORAK Galia (ESP),TODOROVIC Andrea
+World Tour Slovenia Open Velenje 2012,2012-01-25,SILVA Ligia,GUTNIK Katja,4,0,"11,11,11,11|6,7,2,6",,GRAND_SLAM,WS,84,Qualification,SILVA Ligia (BRA),GUTNIK Katja (SLO),SILVA Ligia
+World Tour Slovenia Open Velenje 2012,2012-01-25,TIAN Yuan,GUTNIK Katja,4,0,"11,11,11,11|5,3,9,4",,GRAND_SLAM,WS,84,Qualification,TIAN Yuan (CRO),GUTNIK Katja (SLO),TIAN Yuan
+World Tour Slovenia Open Velenje 2012,2012-01-25,TIAN Yuan,SILVA Ligia,4,1,"11,8,11,11,11|2,11,8,8,5",,GRAND_SLAM,WS,84,Qualification,TIAN Yuan (CRO),SILVA Ligia (BRA),TIAN Yuan
+World Tour Slovenia Open Velenje 2012,2012-01-25,DRINKHALL Joanna,PAVLIN Nina,4,1,"11,9,13,11,11|7,11,11,7,8",,GRAND_SLAM,WS,84,Qualification,DRINKHALL Joanna (ENG),PAVLIN Nina (SLO),DRINKHALL Joanna
+World Tour Slovenia Open Velenje 2012,2012-01-25,KIM Mingyung,DRINKHALL Joanna,4,2,"8,11,11,11,6,12|11,6,8,3,11,10",,GRAND_SLAM,WS,84,Qualification,KIM Mingyung (KOR),DRINKHALL Joanna (ENG),KIM Mingyung
+World Tour Slovenia Open Velenje 2012,2012-01-25,YOO Eunchong,KARAHAN Ipek,4,0,"11,11,11,11|7,4,5,6",,GRAND_SLAM,WS,84,Qualification,YOO Eunchong (KOR),KARAHAN Ipek (TUR),YOO Eunchong
+World Tour Slovenia Open Velenje 2012,2012-01-25,MOLNAR Cornelia,KARAHAN Ipek,4,0,"11,11,11,11|4,8,7,4",,GRAND_SLAM,WS,84,Qualification,MOLNAR Cornelia (CRO),KARAHAN Ipek (TUR),MOLNAR Cornelia
+World Tour Slovenia Open Velenje 2012,2012-01-25,MOLNAR Cornelia,YOO Eunchong,4,3,"6,8,7,11,11,11,11|11,11,11,9,8,6,2",,GRAND_SLAM,WS,84,Qualification,MOLNAR Cornelia (CRO),YOO Eunchong (KOR),MOLNAR Cornelia
+World Tour Slovenia Open Velenje 2012,2012-01-25,KUSINSKA Klaudia,MARKATI Paula,4,0,"11,11,11,12|8,8,4,10",,GRAND_SLAM,WS,84,Qualification,KUSINSKA Klaudia (POL),MARKATI Paula (CRO),KUSINSKA Klaudia
+World Tour Slovenia Open Velenje 2012,2012-01-25,SOLJA Amelie,MARKATI Paula,4,0,"11,11,11,11|3,4,4,3",,GRAND_SLAM,WS,84,Qualification,SOLJA Amelie (AUT),MARKATI Paula (CRO),SOLJA Amelie
+World Tour Slovenia Open Velenje 2012,2012-01-25,SOLJA Amelie,KUSINSKA Klaudia,4,1,"11,9,11,11,11|8,11,8,6,7",,GRAND_SLAM,WS,84,Qualification,SOLJA Amelie (AUT),KUSINSKA Klaudia (POL),SOLJA Amelie
+World Tour Slovenia Open Velenje 2012,2012-01-25,PENKAVOVA Katerina,KOVACS Karina,4,0,"11,11,11,11|1,7,5,5",,GRAND_SLAM,WS,84,Qualification,PENKAVOVA Katerina (CZE),KOVACS Karina (AUT),PENKAVOVA Katerina
+World Tour Slovenia Open Velenje 2012,2012-01-25,VARADY Barbora,KOVACS Karina,4,0,"11,11,11,11|8,3,5,8",,GRAND_SLAM,WS,84,Qualification,VARADY Barbora (SVK),KOVACS Karina (AUT),VARADY Barbora
+World Tour Slovenia Open Velenje 2012,2012-01-25,PENKAVOVA Katerina,VARADY Barbora,4,1,"5,11,11,14,11|11,4,8,12,8",,GRAND_SLAM,WS,84,Qualification,PENKAVOVA Katerina (CZE),VARADY Barbora (SVK),PENKAVOVA Katerina
+World Tour Slovenia Open Velenje 2012,2012-01-25,VORONOVA Anastasia,ZALOZNIK Tjasa,4,0,"11,11,11,12|6,4,6,10",,GRAND_SLAM,WS,84,Qualification,VORONOVA Anastasia (RUS),ZALOZNIK Tjasa (SLO),VORONOVA Anastasia
+World Tour Slovenia Open Velenje 2012,2012-01-25,JO Yujin,ZALOZNIK Tjasa,4,0,"11,11,11,11|8,5,6,3",,GRAND_SLAM,WS,84,Qualification,JO Yujin (KOR),ZALOZNIK Tjasa (SLO),JO Yujin
+World Tour Slovenia Open Velenje 2012,2012-01-25,JO Yujin,VORONOVA Anastasia,4,3,"13,8,9,12,12,11,13|15,11,11,10,10,7,11",,GRAND_SLAM,WS,84,Qualification,JO Yujin (KOR),VORONOVA Anastasia (RUS),JO Yujin
+World Tour Slovenia Open Velenje 2012,2012-01-25,HWANG Jina,ABBAT Alice,4,1,"11,11,8,11,11|2,4,11,9,5",,GRAND_SLAM,WS,84,Qualification,HWANG Jina (KOR),ABBAT Alice (FRA),HWANG Jina
+World Tour Slovenia Open Velenje 2012,2012-01-25,HWANG Jina,KUZMINA Elena,4,1,"12,13,6,11,12|10,11,11,7,10",,GRAND_SLAM,WS,84,Qualification,HWANG Jina (KOR),KUZMINA Elena (RUS),HWANG Jina
+World Tour Slovenia Open Velenje 2012,2012-01-25,KUZMINA Elena,ABBAT Alice,4,3,"9,11,9,11,8,11,11|11,9,11,8,11,4,9",,GRAND_SLAM,WS,84,Qualification,KUZMINA Elena (RUS),ABBAT Alice (FRA),KUZMINA Elena
+World Tour Slovenia Open Velenje 2012,2012-01-25,KIM Minhee (YOB=1991),BILENKO Tetyana,4,0,"11,11,11,11|6,5,9,3",,GRAND_SLAM,WS,84,Qualification,KIM Minhee (YOB=1991) (KOR),BILENKO Tetyana (UKR),KIM Minhee (YOB=1991)
+World Tour Slovenia Open Velenje 2012,2012-01-25,BILENKO Tetyana,AMBRUS Krisztina,4,0,"11,11,11,11|4,7,7,4",,GRAND_SLAM,WS,84,Qualification,BILENKO Tetyana (UKR),AMBRUS Krisztina (HUN),BILENKO Tetyana
+World Tour Slovenia Open Velenje 2012,2012-01-25,AMBRUS Krisztina,KIM Minhee (YOB=1991),4,1,"7,11,15,11,11|11,6,13,8,9",,GRAND_SLAM,WS,84,Qualification,AMBRUS Krisztina (HUN),KIM Minhee (YOB=1991) (KOR),AMBRUS Krisztina
+World Tour Slovenia Open Velenje 2012,2012-01-25,TAN Wenling,PERGEL Szandra,4,2,"12,8,11,11,12,12|10,11,7,4,14,10",,GRAND_SLAM,WS,84,Qualification,TAN Wenling (ITA),PERGEL Szandra (HUN),TAN Wenling
+World Tour Slovenia Open Velenje 2012,2012-01-25,TAN Wenling,PRIVALOVA Alexandra,4,1,"11,7,11,11,11|5,11,8,8,8",,GRAND_SLAM,WS,84,Qualification,TAN Wenling (ITA),PRIVALOVA Alexandra (BLR),TAN Wenling
+World Tour Slovenia Open Velenje 2012,2012-01-25,PRIVALOVA Alexandra,PERGEL Szandra,4,0,"11,13,11,11|8,11,5,9",,GRAND_SLAM,WS,84,Qualification,PRIVALOVA Alexandra (BLR),PERGEL Szandra (HUN),PRIVALOVA Alexandra
+World Tour Slovenia Open Velenje 2012,2012-01-25,HAPONOVA Hanna,MOLINA Laura,4,0,,,GRAND_SLAM,WS,84,Qualification,HAPONOVA Hanna (UKR),MOLINA Laura (COL),HAPONOVA Hanna
+World Tour Slovenia Open Velenje 2012,2012-01-25,HAPONOVA Hanna,DOLGIKH Maria,4,3,"7,11,7,11,9,11,13|11,4,11,7,11,6,11",,GRAND_SLAM,WS,84,Qualification,HAPONOVA Hanna (UKR),DOLGIKH Maria (RUS),HAPONOVA Hanna
+World Tour Slovenia Open Velenje 2012,2012-01-25,NONAKA Yuki,SZCZERKOWSKA Magdalena,4,0,"11,11,11,11|6,5,3,6",,GRAND_SLAM,WS,84,Qualification,NONAKA Yuki (JPN),SZCZERKOWSKA Magdalena (POL),NONAKA Yuki
+World Tour Slovenia Open Velenje 2012,2012-01-25,NONAKA Yuki,DUBKOVA Elena,4,1,"11,12,11,8,11|8,10,8,11,8",,GRAND_SLAM,WS,84,Qualification,NONAKA Yuki (JPN),DUBKOVA Elena (BLR),NONAKA Yuki
+World Tour Slovenia Open Velenje 2012,2012-01-25,DUBKOVA Elena,SZCZERKOWSKA Magdalena,4,1,"11,12,9,11,11|6,10,11,7,1",,GRAND_SLAM,WS,84,Qualification,DUBKOVA Elena (BLR),SZCZERKOWSKA Magdalena (POL),DUBKOVA Elena
+World Tour Slovenia Open Velenje 2012,2012-01-25,POLCANOVA Sofia,STEFANOVA Nikoleta,4,3,"13,8,11,9,12,9,11|11,11,8,11,10,11,7",,GRAND_SLAM,WS,84,Qualification,POLCANOVA Sofia (AUT),STEFANOVA Nikoleta (ITA),POLCANOVA Sofia
+World Tour Slovenia Open Velenje 2012,2012-01-25,STEFANOVA Nikoleta,IACOB Camelia,4,2,"11,8,11,7,11,11|7,11,5,11,7,5",,GRAND_SLAM,WS,84,Qualification,STEFANOVA Nikoleta (ITA),IACOB Camelia (ROU),STEFANOVA Nikoleta
+World Tour Slovenia Open Velenje 2012,2012-01-25,POLCANOVA Sofia,IACOB Camelia,4,1,"11,13,11,11,11|13,11,9,5,8",,GRAND_SLAM,WS,84,Qualification,POLCANOVA Sofia (AUT),IACOB Camelia (ROU),POLCANOVA Sofia
+World Tour Slovenia Open Velenje 2012,2012-01-25,OOSTWOUDER Ewout,SLODEJ Matic,3,2,"15,11,6,9,11|13,9,11,11,6",,GRAND_SLAM,U21MS,84,Qualification,OOSTWOUDER Ewout (NED),SLODEJ Matic (SLO),OOSTWOUDER Ewout
+World Tour Slovenia Open Velenje 2012,2012-01-25,FLORAS Robert,OOSTWOUDER Ewout,3,0,"12,12,11|10,10,8",,GRAND_SLAM,U21MS,84,Qualification,FLORAS Robert (POL),OOSTWOUDER Ewout (NED),FLORAS Robert
+World Tour Slovenia Open Velenje 2012,2012-01-25,FLORAS Robert,SLODEJ Matic,3,0,"11,11,11|5,8,5",,GRAND_SLAM,U21MS,84,Qualification,FLORAS Robert (POL),SLODEJ Matic (SLO),FLORAS Robert
+World Tour Slovenia Open Velenje 2012,2012-01-25,BENES Michal,PAVAN Federico,3,0,"11,11,11|5,8,5",,GRAND_SLAM,U21MS,84,Qualification,BENES Michal (CZE),PAVAN Federico (ITA),BENES Michal
+World Tour Slovenia Open Velenje 2012,2012-01-25,JEAN Lauric,PAVAN Federico,3,1,"11,5,11,11|9,11,4,6",,GRAND_SLAM,U21MS,84,Qualification,JEAN Lauric (BEL),PAVAN Federico (ITA),JEAN Lauric
+World Tour Slovenia Open Velenje 2012,2012-01-25,JEAN Lauric,BENES Michal,3,1,"11,4,11,11|5,11,9,6",,GRAND_SLAM,U21MS,84,Qualification,JEAN Lauric (BEL),BENES Michal (CZE),JEAN Lauric
+World Tour Slovenia Open Velenje 2012,2012-01-25,PERSOLJA Ludvik,BARABANOV Kiryl,3,0,"11,12,11|6,10,9",,GRAND_SLAM,U21MS,84,Qualification,PERSOLJA Ludvik (SLO),BARABANOV Kiryl (BLR),PERSOLJA Ludvik
+World Tour Slovenia Open Velenje 2012,2012-01-25,SZOCS Hunor,PERSOLJA Ludvik,3,0,"11,11,11|8,7,4",,GRAND_SLAM,U21MS,84,Qualification,SZOCS Hunor (ROU),PERSOLJA Ludvik (SLO),SZOCS Hunor
+World Tour Slovenia Open Velenje 2012,2012-01-25,SZOCS Hunor,BARABANOV Kiryl,3,0,"11,11,11|8,4,6",,GRAND_SLAM,U21MS,84,Qualification,SZOCS Hunor (ROU),BARABANOV Kiryl (BLR),SZOCS Hunor
+World Tour Slovenia Open Velenje 2012,2012-01-25,RADONJIC Vladimir,LEBEDA Michal,3,0,"11,11,11|8,5,7",,GRAND_SLAM,U21MS,84,Qualification,RADONJIC Vladimir (SRB),LEBEDA Michal (CZE),RADONJIC Vladimir
+World Tour Slovenia Open Velenje 2012,2012-01-25,ANDERSSON Harald,LEBEDA Michal,3,0,"11,11,11|3,4,4",,GRAND_SLAM,U21MS,84,Qualification,ANDERSSON Harald (SWE),LEBEDA Michal (CZE),ANDERSSON Harald
+World Tour Slovenia Open Velenje 2012,2012-01-25,ANDERSSON Harald,RADONJIC Vladimir,3,0,"11,11,11|9,8,6",,GRAND_SLAM,U21MS,84,Qualification,ANDERSSON Harald (SWE),RADONJIC Vladimir (SRB),ANDERSSON Harald
+World Tour Slovenia Open Velenje 2012,2012-01-25,LEITGEB Stefan,SUKIC Patrik,3,0,"11,11,11|6,9,5",,GRAND_SLAM,U21MS,84,Qualification,LEITGEB Stefan (AUT),SUKIC Patrik (SLO),LEITGEB Stefan
+World Tour Slovenia Open Velenje 2012,2012-01-25,CREPULJA Bojan,SUKIC Patrik,3,0,"11,11,11|2,3,6",,GRAND_SLAM,U21MS,84,Qualification,CREPULJA Bojan (SRB),SUKIC Patrik (SLO),CREPULJA Bojan
+World Tour Slovenia Open Velenje 2012,2012-01-25,CREPULJA Bojan,LEITGEB Stefan,3,1,"13,11,11,11|15,8,9,8",,GRAND_SLAM,U21MS,84,Qualification,CREPULJA Bojan (SRB),LEITGEB Stefan (AUT),CREPULJA Bojan
+World Tour Slovenia Open Velenje 2012,2012-01-25,SZITA Marton,MARELJA Franjo,3,1,"11,8,11,11|6,11,5,8",,GRAND_SLAM,U21MS,84,Qualification,SZITA Marton (HUN),MARELJA Franjo (CRO),SZITA Marton
+World Tour Slovenia Open Velenje 2012,2012-01-25,ZIBRAT Jan,MARELJA Franjo,3,0,"11,11,11|8,6,8",,GRAND_SLAM,U21MS,84,Qualification,ZIBRAT Jan (SLO),MARELJA Franjo (CRO),ZIBRAT Jan
+World Tour Slovenia Open Velenje 2012,2012-01-25,ZIBRAT Jan,SZITA Marton,3,1,"11,6,11,11|9,11,7,3",,GRAND_SLAM,U21MS,84,Qualification,ZIBRAT Jan (SLO),SZITA Marton (HUN),ZIBRAT Jan
+World Tour Slovenia Open Velenje 2012,2012-01-25,PFEFFER Simon,PINTAR Denis,3,0,"11,11,11|5,9,6",,GRAND_SLAM,U21MS,84,Qualification,PFEFFER Simon (AUT),PINTAR Denis (SLO),PFEFFER Simon
+World Tour Slovenia Open Velenje 2012,2012-01-25,OVERSJO Mattias,PINTAR Denis,3,0,"11,11,11|6,3,5",,GRAND_SLAM,U21MS,84,Qualification,OVERSJO Mattias (SWE),PINTAR Denis (SLO),OVERSJO Mattias
+World Tour Slovenia Open Velenje 2012,2012-01-25,OVERSJO Mattias,PFEFFER Simon,3,1,"13,11,6,12|11,8,11,10",,GRAND_SLAM,U21MS,84,Qualification,OVERSJO Mattias (SWE),PFEFFER Simon (AUT),OVERSJO Mattias
+World Tour Slovenia Open Velenje 2012,2012-01-25,SUBOTIC Dragan,NOVAK Tilen,3,0,"11,11,11|1,3,5",,GRAND_SLAM,U21MS,84,Qualification,SUBOTIC Dragan (SRB),NOVAK Tilen (SLO),SUBOTIC Dragan
+World Tour Slovenia Open Velenje 2012,2012-01-25,MORICZ Mate,BERARDI Mattia,3,0,"11,11,11|5,3,3",,GRAND_SLAM,U21MS,84,Qualification,MORICZ Mate (HUN),BERARDI Mattia (SMR),MORICZ Mate
+World Tour Slovenia Open Velenje 2012,2012-01-25,DEVOS Robin,BERARDI Mattia,3,0,"11,11,11|7,4,7",,GRAND_SLAM,U21MS,84,Qualification,DEVOS Robin (BEL),BERARDI Mattia (SMR),DEVOS Robin
+World Tour Slovenia Open Velenje 2012,2012-01-25,MORICZ Mate,DEVOS Robin,3,0,"13,11,11|11,8,8",,GRAND_SLAM,U21MS,84,Qualification,MORICZ Mate (HUN),DEVOS Robin (BEL),MORICZ Mate
+World Tour Slovenia Open Velenje 2012,2012-01-25,RECH DALDOSSO Marco,SFILIGOJ Tom,3,0,"11,11,11|5,8,8",,GRAND_SLAM,U21MS,84,Qualification,RECH DALDOSSO Marco (ITA),SFILIGOJ Tom (SLO),RECH DALDOSSO Marco
+World Tour Slovenia Open Velenje 2012,2012-01-25,CHANG Shun-Hung,KOZUL Deni,3,0,"11,11,11|4,4,7",,GRAND_SLAM,U21MS,84,Qualification,CHANG Shun-Hung (TPE),KOZUL Deni (SLO),CHANG Shun-Hung
+World Tour Slovenia Open Velenje 2012,2012-01-25,KULPA Konrad,JELIC Matej,3,0,"12,11,11|10,5,7",,GRAND_SLAM,U21MS,84,Qualification,KULPA Konrad (POL),JELIC Matej (CRO),KULPA Konrad
+World Tour Slovenia Open Velenje 2012,2012-01-25,DORAN Christopher,JELIC Matej,3,0,"11,11,12|2,6,10",,GRAND_SLAM,U21MS,84,Qualification,DORAN Christopher (ENG),JELIC Matej (CRO),DORAN Christopher
+World Tour Slovenia Open Velenje 2012,2012-01-25,DORAN Christopher,KULPA Konrad,3,1,"11,11,3,13|8,9,11,11",,GRAND_SLAM,U21MS,84,Qualification,DORAN Christopher (ENG),KULPA Konrad (POL),DORAN Christopher
+World Tour Slovenia Open Velenje 2012,2012-01-25,HO Andre,JORGIC Darko,3,0,"11,11,12|9,5,10",,GRAND_SLAM,U21MS,84,Qualification,HO Andre (CAN),JORGIC Darko (SLO),HO Andre
+World Tour Slovenia Open Velenje 2012,2012-01-25,DYJAS Jakub,JORGIC Darko,3,0,"11,13,15|8,11,13",,GRAND_SLAM,U21MS,84,Qualification,DYJAS Jakub (POL),JORGIC Darko (SLO),DYJAS Jakub
+World Tour Slovenia Open Velenje 2012,2012-01-25,DYJAS Jakub,HO Andre,3,1,"12,9,11,11|10,11,4,1",,GRAND_SLAM,U21MS,84,Qualification,DYJAS Jakub (POL),HO Andre (CAN),DYJAS Jakub
+World Tour Slovenia Open Velenje 2012,2012-01-25,INDEHERBERG Julien,PALATINUS Martin,3,1,"11,11,11,11|3,13,6,9",,GRAND_SLAM,U21MS,84,Qualification,INDEHERBERG Julien (BEL),PALATINUS Martin (HUN),INDEHERBERG Julien
+World Tour Slovenia Open Velenje 2012,2012-01-25,CIPIN Filip,SHVETC Kirill,3,2,"10,14,7,11,12|12,12,11,9,10",,GRAND_SLAM,U21MS,84,Qualification,CIPIN Filip (CRO),SHVETC Kirill (RUS),CIPIN Filip
+World Tour Slovenia Open Velenje 2012,2012-01-25,CAMPOS Jorge,SHVETC Kirill,3,2,"11,11,10,12,12|13,7,12,10,10",,GRAND_SLAM,U21MS,84,Qualification,CAMPOS Jorge (CUB),SHVETC Kirill (RUS),CAMPOS Jorge
+World Tour Slovenia Open Velenje 2012,2012-01-25,CAMPOS Jorge,CIPIN Filip,3,0,"11,11,11|1,6,2",,GRAND_SLAM,U21MS,84,Qualification,CAMPOS Jorge (CUB),CIPIN Filip (CRO),CAMPOS Jorge
+World Tour Slovenia Open Velenje 2012,2012-01-25,SCHAFFER Daniel,BAJGER Ondrej,3,2,"6,11,11,9,12|11,9,8,11,10",,GRAND_SLAM,U21MS,84,Qualification,SCHAFFER Daniel (HUN),BAJGER Ondrej (CZE),SCHAFFER Daniel
+World Tour Slovenia Open Velenje 2012,2012-01-25,UDRA Alfredas,PEPERKO Domen,3,0,"11,11,11|7,6,6",,GRAND_SLAM,U21MS,84,Qualification,UDRA Alfredas (LTU),PEPERKO Domen (SLO),UDRA Alfredas
+World Tour Slovenia Open Velenje 2012,2012-01-25,SCHAFFER Daniel,UDRA Alfredas,3,0,"11,11,11|7,6,8",,GRAND_SLAM,U21MS,84,Qualification,SCHAFFER Daniel (HUN),UDRA Alfredas (LTU),SCHAFFER Daniel
+World Tour Slovenia Open Velenje 2012,2012-01-25,BAJGER Ondrej,PEPERKO Domen,3,0,"11,11,11|3,7,7",,GRAND_SLAM,U21MS,84,Qualification,BAJGER Ondrej (CZE),PEPERKO Domen (SLO),BAJGER Ondrej
+World Tour Slovenia Open Velenje 2012,2012-01-25,BAJGER Ondrej,UDRA Alfredas,3,2,"8,11,4,11,11|11,4,11,5,4",,GRAND_SLAM,U21MS,84,Qualification,BAJGER Ondrej (CZE),UDRA Alfredas (LTU),BAJGER Ondrej
+World Tour Slovenia Open Velenje 2012,2012-01-25,SCHAFFER Daniel,PEPERKO Domen,3,1,"11,9,11,11|9,11,8,3",,GRAND_SLAM,U21MS,84,Qualification,SCHAFFER Daniel (HUN),PEPERKO Domen (SLO),SCHAFFER Daniel
+World Tour Slovenia Open Velenje 2012,2012-01-25,SIMOVIC Miho,ROSC Patrik,3,0,"11,11,11|6,8,4",,GRAND_SLAM,U21MS,84,Qualification,SIMOVIC Miho (CRO),ROSC Patrik (SLO),SIMOVIC Miho
+World Tour Slovenia Open Velenje 2012,2012-01-25,CHEN Hongtao,BAND Joshua,3,0,"11,11,11|3,7,5",,GRAND_SLAM,U21MS,84,Qualification,CHEN Hongtao (CAN),BAND Joshua (JEY),CHEN Hongtao
+World Tour Slovenia Open Velenje 2012,2012-01-25,CHEN Hongtao,ROSC Patrik,3,2,"6,11,11,9,11|11,5,9,11,3",,GRAND_SLAM,U21MS,84,Qualification,CHEN Hongtao (CAN),ROSC Patrik (SLO),CHEN Hongtao
+World Tour Slovenia Open Velenje 2012,2012-01-25,SIMOVIC Miho,BAND Joshua,3,0,"11,11,11|5,7,6",,GRAND_SLAM,U21MS,84,Qualification,SIMOVIC Miho (CRO),BAND Joshua (JEY),SIMOVIC Miho
+World Tour Slovenia Open Velenje 2012,2012-01-25,SIMOVIC Miho,CHEN Hongtao,3,1,"11,7,11,12|6,11,3,10",,GRAND_SLAM,U21MS,84,Qualification,SIMOVIC Miho (CRO),CHEN Hongtao (CAN),SIMOVIC Miho
+World Tour Slovenia Open Velenje 2012,2012-01-25,ROSC Patrik,BAND Joshua,3,0,"11,12,11|8,10,8",,GRAND_SLAM,U21MS,84,Qualification,ROSC Patrik (SLO),BAND Joshua (JEY),ROSC Patrik
+World Tour Slovenia Open Velenje 2012,2012-01-25,KUSINSKA Klaudia,ROJKO Vesna,3,0,"11,11,11|8,9,8",,GRAND_SLAM,U21WS,84,Qualification,KUSINSKA Klaudia (POL),ROJKO Vesna (SLO),KUSINSKA Klaudia
+World Tour Slovenia Open Velenje 2012,2012-01-25,KUSINSKA Klaudia,GUNGOR Gokce Nur,3,0,"14,11,11|12,8,8",,GRAND_SLAM,U21WS,84,Qualification,KUSINSKA Klaudia (POL),GUNGOR Gokce Nur (TUR),KUSINSKA Klaudia
+World Tour Slovenia Open Velenje 2012,2012-01-25,GUNGOR Gokce Nur,ROJKO Vesna,3,2,"11,9,11,3,11|7,11,9,11,6",,GRAND_SLAM,U21WS,84,Qualification,GUNGOR Gokce Nur (TUR),ROJKO Vesna (SLO),GUNGOR Gokce Nur
+World Tour Slovenia Open Velenje 2012,2012-01-25,YOO Eunchong,FULOP Szilvia,3,0,"11,11,11|3,9,6",,GRAND_SLAM,U21WS,84,Qualification,YOO Eunchong (KOR),FULOP Szilvia (HUN),YOO Eunchong
+World Tour Slovenia Open Velenje 2012,2012-01-25,YOO Eunchong,PETEK Petra,3,2,"5,11,9,11,11|11,7,11,3,6",,GRAND_SLAM,U21WS,84,Qualification,YOO Eunchong (KOR),PETEK Petra (CRO),YOO Eunchong
+World Tour Slovenia Open Velenje 2012,2012-01-25,PETEK Petra,FULOP Szilvia,3,2,"11,14,9,6,11|2,12,11,11,6",,GRAND_SLAM,U21WS,84,Qualification,PETEK Petra (CRO),FULOP Szilvia (HUN),PETEK Petra
+World Tour Slovenia Open Velenje 2012,2012-01-25,KIM Mingyung,KARAHAN Ipek,3,0,"11,11,12|1,4,10",,GRAND_SLAM,U21WS,84,Qualification,KIM Mingyung (KOR),KARAHAN Ipek (TUR),KIM Mingyung
+World Tour Slovenia Open Velenje 2012,2012-01-25,KIM Mingyung,GALIC Alex,3,0,"11,11,11|1,2,8",,GRAND_SLAM,U21WS,84,Qualification,KIM Mingyung (KOR),GALIC Alex (SLO),KIM Mingyung
+World Tour Slovenia Open Velenje 2012,2012-01-25,KARAHAN Ipek,GALIC Alex,3,0,"11,11,11|5,2,5",,GRAND_SLAM,U21WS,84,Qualification,KARAHAN Ipek (TUR),GALIC Alex (SLO),KARAHAN Ipek
+World Tour Slovenia Open Velenje 2012,2012-01-25,TODOROVIC Andrea,GUTNIK Katja,3,0,"11,11,11|9,3,9",,GRAND_SLAM,U21WS,84,Qualification,TODOROVIC Andrea (SRB),GUTNIK Katja (SLO),TODOROVIC Andrea
+World Tour Slovenia Open Velenje 2012,2012-01-25,TODOROVIC Andrea,KRZEWICKA Maja,3,1,"7,11,11,11|11,4,6,1",,GRAND_SLAM,U21WS,84,Qualification,TODOROVIC Andrea (SRB),KRZEWICKA Maja (POL),TODOROVIC Andrea
+World Tour Slovenia Open Velenje 2012,2012-01-25,KRZEWICKA Maja,GUTNIK Katja,3,2,"11,6,11,6,11|9,11,9,11,7",,GRAND_SLAM,U21WS,84,Qualification,KRZEWICKA Maja (POL),GUTNIK Katja (SLO),KRZEWICKA Maja
+World Tour Slovenia Open Velenje 2012,2012-01-25,TUBIKANEC Ivana,PAVLIN Nina,3,1,"11,9,12,11|9,11,10,5",,GRAND_SLAM,U21WS,84,Qualification,TUBIKANEC Ivana (CRO),PAVLIN Nina (SLO),TUBIKANEC Ivana
+World Tour Slovenia Open Velenje 2012,2012-01-25,TUBIKANEC Ivana,SIRUCKOVA Aneta,3,1,"11,9,11,11|2,11,4,3",,GRAND_SLAM,U21WS,84,Qualification,TUBIKANEC Ivana (CRO),SIRUCKOVA Aneta (CZE),TUBIKANEC Ivana
+World Tour Slovenia Open Velenje 2012,2012-01-25,SIRUCKOVA Aneta,PAVLIN Nina,3,1,"15,11,6,12|13,8,11,10",,GRAND_SLAM,U21WS,84,Qualification,SIRUCKOVA Aneta (CZE),PAVLIN Nina (SLO),SIRUCKOVA Aneta
+World Tour Slovenia Open Velenje 2012,2012-01-25,GUI Lin,ZUPANCIC Nina,3,1,"9,11,11,11|11,6,2,6",,GRAND_SLAM,U21WS,84,Qualification,GUI Lin (BRA),ZUPANCIC Nina (SLO),GUI Lin
+World Tour Slovenia Open Velenje 2012,2012-01-25,VIVARELLI Debora,GUI Lin,3,2,"6,12,7,11,11|11,10,11,7,9",,GRAND_SLAM,U21WS,84,Qualification,VIVARELLI Debora (ITA),GUI Lin (BRA),VIVARELLI Debora
+World Tour Slovenia Open Velenje 2012,2012-01-25,VIVARELLI Debora,ZUPANCIC Nina,3,1,"14,7,13,12|12,11,11,10",,GRAND_SLAM,U21WS,84,Qualification,VIVARELLI Debora (ITA),ZUPANCIC Nina (SLO),VIVARELLI Debora
+World Tour Slovenia Open Velenje 2012,2012-01-25,DOBREVA Polina,MARKATI Paula,3,0,"11,11,11|3,5,3",,GRAND_SLAM,U21WS,84,Qualification,DOBREVA Polina (BUL),MARKATI Paula (CRO),DOBREVA Polina
+World Tour Slovenia Open Velenje 2012,2012-01-25,DOBREVA Polina,LOEUILLETTE Stephanie,3,1,"11,11,9,11|6,7,11,8",,GRAND_SLAM,U21WS,84,Qualification,DOBREVA Polina (BUL),LOEUILLETTE Stephanie (FRA),DOBREVA Polina
+World Tour Slovenia Open Velenje 2012,2012-01-25,LOEUILLETTE Stephanie,MARKATI Paula,3,0,"11,11,11|6,7,8",,GRAND_SLAM,U21WS,84,Qualification,LOEUILLETTE Stephanie (FRA),MARKATI Paula (CRO),LOEUILLETTE Stephanie
+World Tour Slovenia Open Velenje 2012,2012-01-25,MIKULCOVA Kristyna,KOVACS Karina,3,0,"11,11,13|5,9,11",,GRAND_SLAM,U21WS,84,Qualification,MIKULCOVA Kristyna (CZE),KOVACS Karina (AUT),MIKULCOVA Kristyna
+World Tour Slovenia Open Velenje 2012,2012-01-25,LUPULESKU Anelia,MIKULCOVA Kristyna,3,1,"11,8,11,12|2,11,5,10",,GRAND_SLAM,U21WS,84,Qualification,LUPULESKU Anelia (SRB),MIKULCOVA Kristyna (CZE),LUPULESKU Anelia
+World Tour Slovenia Open Velenje 2012,2012-01-25,LUPULESKU Anelia,KOVACS Karina,3,2,"11,7,15,11,11|6,11,17,6,2",,GRAND_SLAM,U21WS,84,Qualification,LUPULESKU Anelia (SRB),KOVACS Karina (AUT),LUPULESKU Anelia
+World Tour Slovenia Open Velenje 2012,2012-01-25,SLIFIRCZYK Katarzyna,ZALOZNIK Tjasa,3,0,"11,11,11|9,7,8",,GRAND_SLAM,U21WS,84,Qualification,SLIFIRCZYK Katarzyna (POL),ZALOZNIK Tjasa (SLO),SLIFIRCZYK Katarzyna
+World Tour Slovenia Open Velenje 2012,2012-01-25,SLIFIRCZYK Katarzyna,KUMAHARA Luca,3,0,"11,11,13|8,4,11",,GRAND_SLAM,U21WS,84,Qualification,SLIFIRCZYK Katarzyna (POL),KUMAHARA Luca (BRA),SLIFIRCZYK Katarzyna
+World Tour Slovenia Open Velenje 2012,2012-01-25,KUMAHARA Luca,ZALOZNIK Tjasa,3,0,"11,11,11|4,2,4",,GRAND_SLAM,U21WS,84,Qualification,KUMAHARA Luca (BRA),ZALOZNIK Tjasa (SLO),KUMAHARA Luca
+World Tour Slovenia Open Velenje 2012,2012-01-25,HWANG Jina,STUCKYTE Egle,3,0,"11,11,11|4,6,5",,GRAND_SLAM,U21WS,84,Qualification,HWANG Jina (KOR),STUCKYTE Egle (LTU),HWANG Jina
+World Tour Slovenia Open Velenje 2012,2012-01-25,STUCKYTE Egle,RADONJIC Aleksandra,3,1,"11,13,5,12|4,11,11,10",,GRAND_SLAM,U21WS,84,Qualification,STUCKYTE Egle (LTU),RADONJIC Aleksandra (SRB),STUCKYTE Egle
+World Tour Slovenia Open Velenje 2012,2012-01-25,HWANG Jina,RADONJIC Aleksandra,3,0,"11,11,11|5,9,4",,GRAND_SLAM,U21WS,84,Qualification,HWANG Jina (KOR),RADONJIC Aleksandra (SRB),HWANG Jina
+World Tour Slovenia Open Velenje 2012,2012-01-25,MA Long,PAIKOV Mikhail,4,0,"11,11,11,11|3,6,5,8",R64,GRAND_SLAM,MS,84,Main Draw,MA Long (CHN),PAIKOV Mikhail (RUS),MA Long
+World Tour Slovenia Open Velenje 2012,2012-01-25,KEINATH Thomas,WOSIK Torben,4,2,"10,11,11,7,11,11|12,4,8,11,7,7",R64,GRAND_SLAM,MS,84,Main Draw,KEINATH Thomas (SVK),WOSIK Torben (GER),KEINATH Thomas
+World Tour Slovenia Open Velenje 2012,2012-01-25,TOKIC Bojan,TSUBOI Gustavo,4,2,"10,11,9,11,11,11|12,8,11,8,6,4",R64,GRAND_SLAM,MS,84,Main Draw,TOKIC Bojan (SLO),TSUBOI Gustavo (BRA),TOKIC Bojan
+World Tour Slovenia Open Velenje 2012,2012-01-25,HUANG Sheng-Sheng,SUSS Christian,4,2,"13,15,5,11,8,11|11,13,11,9,11,2",R64,GRAND_SLAM,MS,84,Main Draw,HUANG Sheng-Sheng (TPE),SUSS Christian (GER),HUANG Sheng-Sheng
+World Tour Slovenia Open Velenje 2012,2012-01-25,TAN Ruiwu,HIELSCHER Lars,4,1,"11,11,13,8,12|8,4,11,11,10",R64,GRAND_SLAM,MS,84,Main Draw,TAN Ruiwu (CRO),HIELSCHER Lars (GER),TAN Ruiwu
+World Tour Slovenia Open Velenje 2012,2012-01-25,YANG Zi,ZHMUDENKO Yaroslav,4,2,"8,8,11,11,11,11|11,11,6,7,6,9",R64,GRAND_SLAM,MS,84,Main Draw,YANG Zi (SGP),ZHMUDENKO Yaroslav (UKR),YANG Zi
+World Tour Slovenia Open Velenje 2012,2012-01-25,WANG Eugene,GAO Ning,4,2,"10,11,13,11,5,12|12,9,11,5,11,10",R64,GRAND_SLAM,MS,84,Main Draw,WANG Eugene (CAN),GAO Ning (SGP),WANG Eugene
+World Tour Slovenia Open Velenje 2012,2012-01-25,MA Lin,PATTANTYUS Adam,4,0,"11,11,11,11|3,6,5,4",R64,GRAND_SLAM,MS,84,Main Draw,MA Lin (CHN),PATTANTYUS Adam (HUN),MA Lin
+World Tour Slovenia Open Velenje 2012,2012-01-25,SHIBAEV Alexander,STERNBERG Kasper,4,3,"9,5,14,11,11,6,12|11,11,12,6,9,11,10",R64,GRAND_SLAM,MS,84,Main Draw,SHIBAEV Alexander (RUS),STERNBERG Kasper (DEN),SHIBAEV Alexander
+World Tour Slovenia Open Velenje 2012,2012-01-25,GERELL Par,VRABLIK Jiri,4,0,"11,11,11,11|5,3,5,6",R64,GRAND_SLAM,MS,84,Main Draw,GERELL Par (SWE),VRABLIK Jiri (CZE),GERELL Par
+World Tour Slovenia Open Velenje 2012,2012-01-25,SEO Hyundeok,GAVLAS Antonin,4,1,"11,11,11,8,11|9,6,7,11,8",R64,GRAND_SLAM,MS,84,Main Draw,SEO Hyundeok (KOR),GAVLAS Antonin (CZE),SEO Hyundeok
+World Tour Slovenia Open Velenje 2012,2012-01-25,LEE Jungwoo,GORAK Daniel,4,3,"1,7,11,9,11,11,11|11,11,9,11,6,9,4",R64,GRAND_SLAM,MS,84,Main Draw,LEE Jungwoo (KOR),GORAK Daniel (POL),LEE Jungwoo
+World Tour Slovenia Open Velenje 2012,2012-01-25,CHEN Chien-An,HABESOHN Daniel,4,2,"11,11,8,10,11,11|5,5,11,12,9,8",R64,GRAND_SLAM,MS,84,Main Draw,CHEN Chien-An (TPE),HABESOHN Daniel (AUT),CHEN Chien-An
+World Tour Slovenia Open Velenje 2012,2012-01-25,JIANG Tianyi,GROTH Jonathan,4,0,"11,11,11,13|9,4,8,11",R64,GRAND_SLAM,MS,84,Main Draw,JIANG Tianyi (HKG),GROTH Jonathan (DEN),JIANG Tianyi
+World Tour Slovenia Open Velenje 2012,2012-01-25,WANG Hao,FEGERL Stefan,4,0,"11,11,11,14|7,7,8,12",R64,GRAND_SLAM,MS,84,Main Draw,WANG Hao (CHN),FEGERL Stefan (AUT),WANG Hao
+World Tour Slovenia Open Velenje 2012,2012-01-25,XU Xin,DRINKHALL Paul,4,1,"11,8,11,11,11|4,11,6,8,4",R64,GRAND_SLAM,MS,84,Main Draw,XU Xin (CHN),DRINKHALL Paul (ENG),XU Xin
+World Tour Slovenia Open Velenje 2012,2012-01-25,LI Ahmet,LEGOUT Christophe,4,2,"11,11,11,6,7,11|5,9,4,11,11,5",R64,GRAND_SLAM,MS,84,Main Draw,LI Ahmet (TUR),LEGOUT Christophe (FRA),LI Ahmet
+World Tour Slovenia Open Velenje 2012,2012-01-25,FILUS Ruwen,LASAN Sas,4,1,"11,11,8,11,11|2,2,11,3,6",R64,GRAND_SLAM,MS,84,Main Draw,FILUS Ruwen (GER),LASAN Sas (SLO),FILUS Ruwen
+World Tour Slovenia Open Velenje 2012,2012-01-25,FRANZISKA Patrick,APOLONIA Tiago,4,3,"7,11,8,11,11,12,11|11,7,11,9,13,10,6",R64,GRAND_SLAM,MS,84,Main Draw,FRANZISKA Patrick (GER),APOLONIA Tiago (POR),FRANZISKA Patrick
+World Tour Slovenia Open Velenje 2012,2012-01-25,BAUM Patrick,WANG Zengyi,4,2,"6,10,11,11,11,11|11,12,5,5,6,9",R64,GRAND_SLAM,MS,84,Main Draw,BAUM Patrick (GER),WANG Zengyi (POL),BAUM Patrick
+World Tour Slovenia Open Velenje 2012,2012-01-25,LEBESSON Emmanuel,VLASOV Grigory,4,3,"7,11,5,11,11,7,11|11,6,11,5,8,11,7",R64,GRAND_SLAM,MS,84,Main Draw,LEBESSON Emmanuel (FRA),VLASOV Grigory (RUS),LEBESSON Emmanuel
+World Tour Slovenia Open Velenje 2012,2012-01-25,MACHADO Carlos,FENG Xiaoquan,4,1,"11,10,11,11,11|5,12,3,8,4",R64,GRAND_SLAM,MS,84,Main Draw,MACHADO Carlos (ESP),FENG Xiaoquan (AUT),MACHADO Carlos
+World Tour Slovenia Open Velenje 2012,2012-01-25,JOO Saehyuk,WONG Chun Ting,4,0,"11,11,11,11|7,5,9,6",R64,GRAND_SLAM,MS,84,Main Draw,JOO Saehyuk (KOR),WONG Chun Ting (HKG),JOO Saehyuk
+World Tour Slovenia Open Velenje 2012,2012-01-25,TOSIC Roko,STEGER Bastian,4,3,"4,11,11,10,8,14,11|11,5,4,12,11,12,3",R64,GRAND_SLAM,MS,84,Main Draw,TOSIC Roko (CRO),STEGER Bastian (GER),TOSIC Roko
+World Tour Slovenia Open Velenje 2012,2012-01-25,RUBTSOV Igor,SUCH Bartosz,4,3,"5,13,11,11,9,8,11|11,11,3,9,11,11,3",R64,GRAND_SLAM,MS,84,Main Draw,RUBTSOV Igor (RUS),SUCH Bartosz (POL),RUBTSOV Igor
+World Tour Slovenia Open Velenje 2012,2012-01-25,SVENSSON Robert,STORF Martin,4,1,"9,11,11,11,11|11,6,7,9,6",R64,GRAND_SLAM,MS,84,Main Draw,SVENSSON Robert (SWE),STORF Martin (AUT),SVENSSON Robert
+World Tour Slovenia Open Velenje 2012,2012-01-25,CHEN Weixing,KUZMIN Fedor,4,0,"11,11,11,11|7,5,6,9",R64,GRAND_SLAM,MS,84,Main Draw,CHEN Weixing (AUT),KUZMIN Fedor (RUS),CHEN Weixing
+World Tour Slovenia Open Velenje 2012,2012-01-25,YAN An,BURGIS Matiss,4,0,"11,11,11,11|9,4,7,9",R64,GRAND_SLAM,MS,84,Main Draw,YAN An (CHN),BURGIS Matiss (LAT),YAN An
+World Tour Slovenia Open Velenje 2012,2012-01-25,GAUZY Simon,JEOUNG Youngsik,4,0,"11,11,11,11|9,8,9,9",R64,GRAND_SLAM,MS,84,Main Draw,GAUZY Simon (FRA),JEOUNG Youngsik (KOR),GAUZY Simon
+World Tour Slovenia Open Velenje 2012,2012-01-25,ZHANG Jike,MATSUMOTO Cazuo,4,1,"5,11,11,11,11|11,5,3,5,3",R64,GRAND_SLAM,MS,84,Main Draw,ZHANG Jike (CHN),MATSUMOTO Cazuo (BRA),ZHANG Jike
+World Tour Slovenia Open Velenje 2012,2012-01-25,MA Long,HE Zhiwen,4,1,"15,12,9,11,12|13,10,11,6,10",R32,GRAND_SLAM,MS,84,Main Draw,MA Long (CHN),HE Zhiwen (ESP),MA Long
+World Tour Slovenia Open Velenje 2012,2012-01-25,TOKIC Bojan,KEINATH Thomas,4,2,"11,11,9,7,11,11|5,7,11,11,6,3",R32,GRAND_SLAM,MS,84,Main Draw,TOKIC Bojan (SLO),KEINATH Thomas (SVK),TOKIC Bojan
+World Tour Slovenia Open Velenje 2012,2012-01-25,TAN Ruiwu,HUANG Sheng-Sheng,4,1,"11,11,7,11,12|7,9,11,7,10",R32,GRAND_SLAM,MS,84,Main Draw,TAN Ruiwu (CRO),HUANG Sheng-Sheng (TPE),TAN Ruiwu
+World Tour Slovenia Open Velenje 2012,2012-01-25,WANG Eugene,YANG Zi,4,3,"5,11,11,9,11,7,11|11,4,4,11,5,11,5",R32,GRAND_SLAM,MS,84,Main Draw,WANG Eugene (CAN),YANG Zi (SGP),WANG Eugene
+World Tour Slovenia Open Velenje 2012,2012-01-25,MA Lin,SHIBAEV Alexander,4,1,"9,11,11,11,12|11,9,5,4,10",R32,GRAND_SLAM,MS,84,Main Draw,MA Lin (CHN),SHIBAEV Alexander (RUS),MA Lin
+World Tour Slovenia Open Velenje 2012,2012-01-25,SEO Hyundeok,GERELL Par,4,3,"14,11,5,11,9,11,11|16,7,11,7,11,7,8",R32,GRAND_SLAM,MS,84,Main Draw,SEO Hyundeok (KOR),GERELL Par (SWE),SEO Hyundeok
+World Tour Slovenia Open Velenje 2012,2012-01-25,LEE Jungwoo,CHEN Chien-An,4,0,"15,11,11,11|13,7,7,7",R32,GRAND_SLAM,MS,84,Main Draw,LEE Jungwoo (KOR),CHEN Chien-An (TPE),LEE Jungwoo
+World Tour Slovenia Open Velenje 2012,2012-01-25,WANG Hao,JIANG Tianyi,4,2,"11,11,13,11,10,11|5,8,15,6,12,6",R32,GRAND_SLAM,MS,84,Main Draw,WANG Hao (CHN),JIANG Tianyi (HKG),WANG Hao
+World Tour Slovenia Open Velenje 2012,2012-01-25,XU Xin,LI Ahmet,4,0,"11,11,11,13|3,6,6,11",R32,GRAND_SLAM,MS,84,Main Draw,XU Xin (CHN),LI Ahmet (TUR),XU Xin
+World Tour Slovenia Open Velenje 2012,2012-01-25,FRANZISKA Patrick,FILUS Ruwen,4,3,"11,11,11,12,9,10,12|9,7,4,14,11,12,10",R32,GRAND_SLAM,MS,84,Main Draw,FRANZISKA Patrick (GER),FILUS Ruwen (GER),FRANZISKA Patrick
+World Tour Slovenia Open Velenje 2012,2012-01-25,BAUM Patrick,LEBESSON Emmanuel,4,2,"12,7,11,11,9,11|10,11,7,5,11,8",R32,GRAND_SLAM,MS,84,Main Draw,BAUM Patrick (GER),LEBESSON Emmanuel (FRA),BAUM Patrick
+World Tour Slovenia Open Velenje 2012,2012-01-25,JOO Saehyuk,MACHADO Carlos,4,1,"9,11,11,11,11|11,4,6,6,7",R32,GRAND_SLAM,MS,84,Main Draw,JOO Saehyuk (KOR),MACHADO Carlos (ESP),JOO Saehyuk
+World Tour Slovenia Open Velenje 2012,2012-01-25,TOSIC Roko,RUBTSOV Igor,4,2,"11,7,11,11,12,11|5,11,6,9,14,9",R32,GRAND_SLAM,MS,84,Main Draw,TOSIC Roko (CRO),RUBTSOV Igor (RUS),TOSIC Roko
+World Tour Slovenia Open Velenje 2012,2012-01-25,BOBOCICA Mihai,SVENSSON Robert,4,0,"14,11,13,11|12,4,11,7",R32,GRAND_SLAM,MS,84,Main Draw,BOBOCICA Mihai (ITA),SVENSSON Robert (SWE),BOBOCICA Mihai
+World Tour Slovenia Open Velenje 2012,2012-01-25,YAN An,CHEN Weixing,4,0,"11,11,11,11|9,6,8,6",R32,GRAND_SLAM,MS,84,Main Draw,YAN An (CHN),CHEN Weixing (AUT),YAN An
+World Tour Slovenia Open Velenje 2012,2012-01-25,ZHANG Jike,GAUZY Simon,4,2,"11,11,6,8,11,11|9,4,11,11,8,7",R32,GRAND_SLAM,MS,84,Main Draw,ZHANG Jike (CHN),GAUZY Simon (FRA),ZHANG Jike
+World Tour Slovenia Open Velenje 2012,2012-01-25,MA Long,TOKIC Bojan,4,1,"11,11,11,6,11|8,6,7,11,4",R16,GRAND_SLAM,MS,84,Main Draw,MA Long (CHN),TOKIC Bojan (SLO),MA Long
+World Tour Slovenia Open Velenje 2012,2012-01-25,WANG Eugene,TAN Ruiwu,4,0,"11,11,11,11|2,7,4,9",R16,GRAND_SLAM,MS,84,Main Draw,WANG Eugene (CAN),TAN Ruiwu (CRO),WANG Eugene
+World Tour Slovenia Open Velenje 2012,2012-01-25,MA Lin,SEO Hyundeok,4,0,"11,11,11,11|5,9,5,1",R16,GRAND_SLAM,MS,84,Main Draw,MA Lin (CHN),SEO Hyundeok (KOR),MA Lin
+World Tour Slovenia Open Velenje 2012,2012-01-25,WANG Hao,LEE Jungwoo,4,0,"11,11,11,11|5,8,1,9",R16,GRAND_SLAM,MS,84,Main Draw,WANG Hao (CHN),LEE Jungwoo (KOR),WANG Hao
+World Tour Slovenia Open Velenje 2012,2012-01-25,XU Xin,FRANZISKA Patrick,4,2,"11,10,12,7,11,12|7,12,10,11,2,10",R16,GRAND_SLAM,MS,84,Main Draw,XU Xin (CHN),FRANZISKA Patrick (GER),XU Xin
+World Tour Slovenia Open Velenje 2012,2012-01-25,JOO Saehyuk,BAUM Patrick,4,2,"10,11,11,9,11,11|12,3,4,11,7,5",R16,GRAND_SLAM,MS,84,Main Draw,JOO Saehyuk (KOR),BAUM Patrick (GER),JOO Saehyuk
+World Tour Slovenia Open Velenje 2012,2012-01-25,BOBOCICA Mihai,TOSIC Roko,4,2,"12,8,11,11,9,11|10,11,6,2,11,3",R16,GRAND_SLAM,MS,84,Main Draw,BOBOCICA Mihai (ITA),TOSIC Roko (CRO),BOBOCICA Mihai
+World Tour Slovenia Open Velenje 2012,2012-01-25,ZHANG Jike,YAN An,4,1,"11,11,11,10,11|5,2,9,12,9",R16,GRAND_SLAM,MS,84,Main Draw,ZHANG Jike (CHN),YAN An (CHN),ZHANG Jike
+World Tour Slovenia Open Velenje 2012,2012-01-25,MA Long,WANG Eugene,4,0,"11,11,11,11|6,7,4,4",QF,GRAND_SLAM,MS,84,Main Draw,MA Long (CHN),WANG Eugene (CAN),MA Long
+World Tour Slovenia Open Velenje 2012,2012-01-25,MA Lin,WANG Hao,4,1,"12,6,11,11,11|10,11,5,2,7",QF,GRAND_SLAM,MS,84,Main Draw,MA Lin (CHN),WANG Hao (CHN),MA Lin
+World Tour Slovenia Open Velenje 2012,2012-01-25,XU Xin,JOO Saehyuk,4,1,"11,11,8,11,11|2,6,11,6,1",QF,GRAND_SLAM,MS,84,Main Draw,XU Xin (CHN),JOO Saehyuk (KOR),XU Xin
+World Tour Slovenia Open Velenje 2012,2012-01-25,ZHANG Jike,BOBOCICA Mihai,4,0,"11,11,11,11|5,9,7,5",QF,GRAND_SLAM,MS,84,Main Draw,ZHANG Jike (CHN),BOBOCICA Mihai (ITA),ZHANG Jike
+World Tour Slovenia Open Velenje 2012,2012-01-25,MA Long,MA Lin,4,1,"6,11,11,11,11|11,6,2,9,6",SF,GRAND_SLAM,MS,84,Main Draw,MA Long (CHN),MA Lin (CHN),MA Long
+World Tour Slovenia Open Velenje 2012,2012-01-25,ZHANG Jike,XU Xin,4,0,"11,11,11,11|7,4,5,6",SF,GRAND_SLAM,MS,84,Main Draw,ZHANG Jike (CHN),XU Xin (CHN),ZHANG Jike
+World Tour Slovenia Open Velenje 2012,2012-01-25,ZHANG Jike,MA Long,4,3,"6,11,7,11,11,9,11|11,4,11,4,7,11,7",F,GRAND_SLAM,MS,84,Main Draw,ZHANG Jike (CHN),MA Long (CHN),ZHANG Jike
+World Tour Slovenia Open Velenje 2012,2012-01-25,DING Ning,DUBKOVA Elena,4,0,"14,11,11,11|12,2,6,8",R64,GRAND_SLAM,WS,84,Main Draw,DING Ning (CHN),DUBKOVA Elena (BLR),DING Ning
+World Tour Slovenia Open Velenje 2012,2012-01-25,KIM Minhee (YOB=1991),FAJMUT Manca,4,0,"11,11,12,11|2,5,10,5",R64,GRAND_SLAM,WS,84,Main Draw,KIM Minhee (YOB=1991) (KOR),FAJMUT Manca (SLO),KIM Minhee (YOB=1991)
+World Tour Slovenia Open Velenje 2012,2012-01-25,DODEAN Daniela,MOLNAR Cornelia,4,2,"6,11,11,11,11,11|11,13,5,9,6,4",R64,GRAND_SLAM,WS,84,Main Draw,DODEAN Daniela (ROU),MOLNAR Cornelia (CRO),DODEAN Daniela
+World Tour Slovenia Open Velenje 2012,2012-01-25,LEE Eunhee,DRINKHALL Joanna,4,0,"11,11,11,11|2,2,2,6",R64,GRAND_SLAM,WS,84,Main Draw,LEE Eunhee (KOR),DRINKHALL Joanna (ENG),LEE Eunhee
+World Tour Slovenia Open Velenje 2012,2012-01-25,LI Jiao,RAMIREZ Sara,4,1,"11,9,12,14,12|7,11,10,12,10",R64,GRAND_SLAM,WS,84,Main Draw,LI Jiao (NED),RAMIREZ Sara (ESP),LI Jiao
+World Tour Slovenia Open Velenje 2012,2012-01-25,GANINA Svetlana,LOVAS Petra,4,1,"16,11,3,11,11|14,9,11,4,7",R64,GRAND_SLAM,WS,84,Main Draw,GANINA Svetlana (RUS),LOVAS Petra (HUN),GANINA Svetlana
+World Tour Slovenia Open Velenje 2012,2012-01-25,EKHOLM Matilda,TOTH Krisztina,4,1,"11,8,12,11,11|7,11,10,9,5",R64,GRAND_SLAM,WS,84,Main Draw,EKHOLM Matilda (SWE),TOTH Krisztina (HUN),EKHOLM Matilda
+World Tour Slovenia Open Velenje 2012,2012-01-25,ISHIKAWA Kasumi,HWANG Jina,4,2,"9,11,14,11,5,11|11,7,12,9,11,5",R64,GRAND_SLAM,WS,84,Main Draw,ISHIKAWA Kasumi (JPN),HWANG Jina (KOR),ISHIKAWA Kasumi
+World Tour Slovenia Open Velenje 2012,2012-01-25,HIRANO Sayaka,TIAN Yuan,4,0,"11,11,11,11|4,6,9,8",R64,GRAND_SLAM,WS,84,Main Draw,HIRANO Sayaka (JPN),TIAN Yuan (CRO),HIRANO Sayaka
+World Tour Slovenia Open Velenje 2012,2012-01-25,HU Melek,MADARASZ Dora,4,2,"3,11,11,8,11,11|11,4,3,11,8,9",R64,GRAND_SLAM,WS,84,Main Draw,HU Melek (TUR),MADARASZ Dora (HUN),HU Melek
+World Tour Slovenia Open Velenje 2012,2012-01-25,MORIZONO Misaki,FEHER Gabriela,4,1,"5,11,11,11,11|11,5,4,9,6",R64,GRAND_SLAM,WS,84,Main Draw,MORIZONO Misaki (JPN),FEHER Gabriela (SRB),MORIZONO Misaki
+World Tour Slovenia Open Velenje 2012,2012-01-25,WU Jiaduo,PAVLOVICH Veronika,4,0,"11,11,11,11|8,6,8,6",R64,GRAND_SLAM,WS,84,Main Draw,WU Jiaduo (GER),PAVLOVICH Veronika (BLR),WU Jiaduo
+World Tour Slovenia Open Velenje 2012,2012-01-25,PARK Miyoung,POLCANOVA Sofia,4,1,"3,11,11,11,11|11,7,2,7,8",R64,GRAND_SLAM,WS,84,Main Draw,PARK Miyoung (KOR),POLCANOVA Sofia (AUT),PARK Miyoung
+World Tour Slovenia Open Velenje 2012,2012-01-25,LANG Kristin,TIKHOMIROVA Anna,4,3,"7,10,9,11,11,11,11|11,12,11,8,7,4,6",R64,GRAND_SLAM,WS,84,Main Draw,LANG Kristin (GER),TIKHOMIROVA Anna (RUS),LANG Kristin
+World Tour Slovenia Open Velenje 2012,2012-01-25,BARTHEL Zhenqi,KANG Misoon,4,1,"11,8,11,13,11|4,11,6,11,6",R64,GRAND_SLAM,WS,84,Main Draw,BARTHEL Zhenqi (GER),KANG Misoon (KOR),BARTHEL Zhenqi
+World Tour Slovenia Open Velenje 2012,2012-01-25,GUO Yan (1982),YOO Eunchong,4,0,"11,11,11,11|5,4,4,6",R64,GRAND_SLAM,WS,84,Main Draw,GUO Yan (1982) (CHN),YOO Eunchong (KOR),GUO Yan (1982)
+World Tour Slovenia Open Velenje 2012,2012-01-25,LIU Shiwen,KASABOVA Asya,4,0,"11,11,11,11|5,4,3,1",R64,GRAND_SLAM,WS,84,Main Draw,LIU Shiwen (CHN),KASABOVA Asya (BUL),LIU Shiwen
+World Tour Slovenia Open Velenje 2012,2012-01-25,SHEN Yanfei,SOLJA Amelie,4,3,"11,9,13,4,8,11,11|8,11,11,11,11,7,6",R64,GRAND_SLAM,WS,84,Main Draw,SHEN Yanfei (ESP),SOLJA Amelie (AUT),SHEN Yanfei
+World Tour Slovenia Open Velenje 2012,2012-01-25,NONAKA Yuki,PESOTSKA Margaryta,4,1,"11,11,11,10,11|8,6,8,12,7",R64,GRAND_SLAM,WS,84,Main Draw,NONAKA Yuki (JPN),PESOTSKA Margaryta (UKR),NONAKA Yuki
+World Tour Slovenia Open Velenje 2012,2012-01-25,FAN Ying,ALI Meral Ildiz,4,0,"11,11,11,11|4,5,5,3",R64,GRAND_SLAM,WS,84,Main Draw,FAN Ying (CHN),ALI Meral Ildiz (TUR),FAN Ying
+World Tour Slovenia Open Velenje 2012,2012-01-25,JO Yujin,LI Jie,4,2,"11,8,11,11,11,11|7,11,8,5,13,8",R64,GRAND_SLAM,WS,84,Main Draw,JO Yujin (KOR),LI Jie (NED),JO Yujin
+World Tour Slovenia Open Velenje 2012,2012-01-25,POTA Georgina,GRUNDISCH Carole,4,2,"11,9,11,11,9,11|9,11,8,8,11,6",R64,GRAND_SLAM,WS,84,Main Draw,POTA Georgina (HUN),GRUNDISCH Carole (FRA),POTA Georgina
+World Tour Slovenia Open Velenje 2012,2012-01-25,CHENG I-Ching,TAN Wenling,4,1,"11,8,11,11,11|5,11,9,8,4",R64,GRAND_SLAM,WS,84,Main Draw,CHENG I-Ching (TPE),TAN Wenling (ITA),CHENG I-Ching
+World Tour Slovenia Open Velenje 2012,2012-01-25,FUKUHARA Ai,PENKAVOVA Katerina,4,1,"11,11,11,9,11|7,9,8,11,2",R64,GRAND_SLAM,WS,84,Main Draw,FUKUHARA Ai (JPN),PENKAVOVA Katerina (CZE),FUKUHARA Ai
+World Tour Slovenia Open Velenje 2012,2012-01-25,WU Yang,TODOROVIC Andrea,4,0,"11,11,11,11|2,7,4,8",R64,GRAND_SLAM,WS,84,Main Draw,WU Yang (CHN),TODOROVIC Andrea (SRB),WU Yang
+World Tour Slovenia Open Velenje 2012,2012-01-25,SUH Hyo Won,HAPONOVA Hanna,4,0,"11,11,12,11|9,5,10,7",R64,GRAND_SLAM,WS,84,Main Draw,SUH Hyo Won (KOR),HAPONOVA Hanna (UKR),SUH Hyo Won
+World Tour Slovenia Open Velenje 2012,2012-01-25,HUANG Yi-Hua,LI Qiangbing,4,0,"11,11,12,11|6,8,10,7",R64,GRAND_SLAM,WS,84,Main Draw,HUANG Yi-Hua (TPE),LI Qiangbing (AUT),HUANG Yi-Hua
+World Tour Slovenia Open Velenje 2012,2012-01-25,JEON Jihee,MIKHAILOVA Polina,4,2,"11,9,12,11,11,11|6,11,14,9,8,5",R64,GRAND_SLAM,WS,84,Main Draw,JEON Jihee (KOR),MIKHAILOVA Polina (RUS),JEON Jihee
+World Tour Slovenia Open Velenje 2012,2012-01-25,PAVLOVICH Viktoria,KERTAI Rita,4,0,"11,11,11,11|4,2,5,8",R64,GRAND_SLAM,WS,84,Main Draw,PAVLOVICH Viktoria (BLR),KERTAI Rita (HUN),PAVLOVICH Viktoria
+World Tour Slovenia Open Velenje 2012,2012-01-25,SAMARA Elizabeta,LEE I-Chen,4,0,"11,16,11,11|9,14,9,4",R64,GRAND_SLAM,WS,84,Main Draw,SAMARA Elizabeta (ROU),LEE I-Chen (TPE),SAMARA Elizabeta
+World Tour Slovenia Open Velenje 2012,2012-01-25,VACENOVSKA Iveta,XIAN Yifang,4,1,"11,11,7,11,11|9,8,11,8,8",R64,GRAND_SLAM,WS,84,Main Draw,VACENOVSKA Iveta (CZE),XIAN Yifang (FRA),VACENOVSKA Iveta
+World Tour Slovenia Open Velenje 2012,2012-01-25,LIU Jia,GALIC Alex,4,0,"11,11,11,11|7,8,1,3",R64,GRAND_SLAM,WS,84,Main Draw,LIU Jia (AUT),GALIC Alex (SLO),LIU Jia
+World Tour Slovenia Open Velenje 2012,2012-01-25,DING Ning,KIM Minhee (YOB=1991),4,0,"11,11,11,11|3,2,3,3",R32,GRAND_SLAM,WS,84,Main Draw,DING Ning (CHN),KIM Minhee (YOB=1991) (KOR),DING Ning
+World Tour Slovenia Open Velenje 2012,2012-01-25,LEE Eunhee,DODEAN Daniela,4,3,"10,11,11,12,10,6,11|12,7,8,10,12,11,4",R32,GRAND_SLAM,WS,84,Main Draw,LEE Eunhee (KOR),DODEAN Daniela (ROU),LEE Eunhee
+World Tour Slovenia Open Velenje 2012,2012-01-25,LI Jiao,GANINA Svetlana,4,0,"12,11,11,11|10,9,6,8",R32,GRAND_SLAM,WS,84,Main Draw,LI Jiao (NED),GANINA Svetlana (RUS),LI Jiao
+World Tour Slovenia Open Velenje 2012,2012-01-25,ISHIKAWA Kasumi,EKHOLM Matilda,4,1,"12,17,11,11,11|10,19,6,7,5",R32,GRAND_SLAM,WS,84,Main Draw,ISHIKAWA Kasumi (JPN),EKHOLM Matilda (SWE),ISHIKAWA Kasumi
+World Tour Slovenia Open Velenje 2012,2012-01-25,HIRANO Sayaka,HU Melek,4,0,"11,11,12,11|7,5,10,8",R32,GRAND_SLAM,WS,84,Main Draw,HIRANO Sayaka (JPN),HU Melek (TUR),HIRANO Sayaka
+World Tour Slovenia Open Velenje 2012,2012-01-25,WU Jiaduo,MORIZONO Misaki,4,0,"11,11,11,11|9,6,7,2",R32,GRAND_SLAM,WS,84,Main Draw,WU Jiaduo (GER),MORIZONO Misaki (JPN),WU Jiaduo
+World Tour Slovenia Open Velenje 2012,2012-01-25,PARK Miyoung,LANG Kristin,4,0,"13,11,11,11|11,8,6,6",R32,GRAND_SLAM,WS,84,Main Draw,PARK Miyoung (KOR),LANG Kristin (GER),PARK Miyoung
+World Tour Slovenia Open Velenje 2012,2012-01-25,GUO Yan (1982),BARTHEL Zhenqi,4,0,"11,11,12,11|9,9,10,3",R32,GRAND_SLAM,WS,84,Main Draw,GUO Yan (1982) (CHN),BARTHEL Zhenqi (GER),GUO Yan (1982)
+World Tour Slovenia Open Velenje 2012,2012-01-25,LIU Shiwen,SHEN Yanfei,4,0,"12,11,11,11|10,9,5,9",R32,GRAND_SLAM,WS,84,Main Draw,LIU Shiwen (CHN),SHEN Yanfei (ESP),LIU Shiwen
+World Tour Slovenia Open Velenje 2012,2012-01-25,FAN Ying,NONAKA Yuki,4,1,"6,11,11,13,11|11,6,6,11,7",R32,GRAND_SLAM,WS,84,Main Draw,FAN Ying (CHN),NONAKA Yuki (JPN),FAN Ying
+World Tour Slovenia Open Velenje 2012,2012-01-25,POTA Georgina,JO Yujin,4,2,"11,7,10,11,11,11|8,11,12,8,4,9",R32,GRAND_SLAM,WS,84,Main Draw,POTA Georgina (HUN),JO Yujin (KOR),POTA Georgina
+World Tour Slovenia Open Velenje 2012,2012-01-25,FUKUHARA Ai,CHENG I-Ching,4,1,"9,11,11,11,11|11,9,9,7,8",R32,GRAND_SLAM,WS,84,Main Draw,FUKUHARA Ai (JPN),CHENG I-Ching (TPE),FUKUHARA Ai
+World Tour Slovenia Open Velenje 2012,2012-01-25,WU Yang,SUH Hyo Won,4,1,"11,11,12,6,11|4,6,10,11,4",R32,GRAND_SLAM,WS,84,Main Draw,WU Yang (CHN),SUH Hyo Won (KOR),WU Yang
+World Tour Slovenia Open Velenje 2012,2012-01-25,JEON Jihee,HUANG Yi-Hua,4,2,"3,9,11,11,11,11|11,11,7,9,8,4",R32,GRAND_SLAM,WS,84,Main Draw,JEON Jihee (KOR),HUANG Yi-Hua (TPE),JEON Jihee
+World Tour Slovenia Open Velenje 2012,2012-01-25,SAMARA Elizabeta,PAVLOVICH Viktoria,4,2,"7,11,12,11,6,11|11,8,10,9,11,9",R32,GRAND_SLAM,WS,84,Main Draw,SAMARA Elizabeta (ROU),PAVLOVICH Viktoria (BLR),SAMARA Elizabeta
+World Tour Slovenia Open Velenje 2012,2012-01-25,VACENOVSKA Iveta,LIU Jia,4,3,"11,10,11,12,13,12,12|8,12,3,14,15,10,10",R32,GRAND_SLAM,WS,84,Main Draw,VACENOVSKA Iveta (CZE),LIU Jia (AUT),VACENOVSKA Iveta
+World Tour Slovenia Open Velenje 2012,2012-01-25,DING Ning,LEE Eunhee,4,1,"11,11,9,11,11|4,3,11,7,7",R16,GRAND_SLAM,WS,84,Main Draw,DING Ning (CHN),LEE Eunhee (KOR),DING Ning
+World Tour Slovenia Open Velenje 2012,2012-01-25,ISHIKAWA Kasumi,LI Jiao,4,1,"11,7,11,11,11|6,11,4,3,6",R16,GRAND_SLAM,WS,84,Main Draw,ISHIKAWA Kasumi (JPN),LI Jiao (NED),ISHIKAWA Kasumi
+World Tour Slovenia Open Velenje 2012,2012-01-25,HIRANO Sayaka,WU Jiaduo,4,3,"11,4,8,11,8,11,11|6,11,11,6,11,4,6",R16,GRAND_SLAM,WS,84,Main Draw,HIRANO Sayaka (JPN),WU Jiaduo (GER),HIRANO Sayaka
+World Tour Slovenia Open Velenje 2012,2012-01-25,GUO Yan (1982),PARK Miyoung,4,1,"11,11,11,9,11|3,3,7,11,6",R16,GRAND_SLAM,WS,84,Main Draw,GUO Yan (1982) (CHN),PARK Miyoung (KOR),GUO Yan (1982)
+World Tour Slovenia Open Velenje 2012,2012-01-25,LIU Shiwen,FAN Ying,4,0,"11,11,11,11|3,6,5,6",R16,GRAND_SLAM,WS,84,Main Draw,LIU Shiwen (CHN),FAN Ying (CHN),LIU Shiwen
+World Tour Slovenia Open Velenje 2012,2012-01-25,FUKUHARA Ai,POTA Georgina,4,1,"7,11,11,11,11|11,5,7,8,4",R16,GRAND_SLAM,WS,84,Main Draw,FUKUHARA Ai (JPN),POTA Georgina (HUN),FUKUHARA Ai
+World Tour Slovenia Open Velenje 2012,2012-01-25,WU Yang,JEON Jihee,4,1,"11,7,11,11,11|8,11,4,3,4",R16,GRAND_SLAM,WS,84,Main Draw,WU Yang (CHN),JEON Jihee (KOR),WU Yang
+World Tour Slovenia Open Velenje 2012,2012-01-25,SAMARA Elizabeta,VACENOVSKA Iveta,4,2,"10,11,11,11,12,11|12,9,7,9,14,6",R16,GRAND_SLAM,WS,84,Main Draw,SAMARA Elizabeta (ROU),VACENOVSKA Iveta (CZE),SAMARA Elizabeta
+World Tour Slovenia Open Velenje 2012,2012-01-25,DING Ning,ISHIKAWA Kasumi,4,1,"11,9,11,11,11|1,11,8,6,5",QF,GRAND_SLAM,WS,84,Main Draw,DING Ning (CHN),ISHIKAWA Kasumi (JPN),DING Ning
+World Tour Slovenia Open Velenje 2012,2012-01-25,GUO Yan (1982),HIRANO Sayaka,4,0,"11,11,11,11|9,5,4,5",QF,GRAND_SLAM,WS,84,Main Draw,GUO Yan (1982) (CHN),HIRANO Sayaka (JPN),GUO Yan (1982)
+World Tour Slovenia Open Velenje 2012,2012-01-25,LIU Shiwen,FUKUHARA Ai,4,1,"11,10,11,11,11|2,12,5,2,9",QF,GRAND_SLAM,WS,84,Main Draw,LIU Shiwen (CHN),FUKUHARA Ai (JPN),LIU Shiwen
+World Tour Slovenia Open Velenje 2012,2012-01-25,WU Yang,SAMARA Elizabeta,4,1,"11,8,11,11,11|7,11,3,8,7",QF,GRAND_SLAM,WS,84,Main Draw,WU Yang (CHN),SAMARA Elizabeta (ROU),WU Yang
+World Tour Slovenia Open Velenje 2012,2012-01-25,DING Ning,GUO Yan (1982),4,1,"11,5,12,13,11|3,11,10,11,4",SF,GRAND_SLAM,WS,84,Main Draw,DING Ning (CHN),GUO Yan (1982) (CHN),DING Ning
+World Tour Slovenia Open Velenje 2012,2012-01-25,LIU Shiwen,WU Yang,4,0,"11,11,11,11|6,4,3,6",SF,GRAND_SLAM,WS,84,Main Draw,LIU Shiwen (CHN),WU Yang (CHN),LIU Shiwen
+World Tour Slovenia Open Velenje 2012,2012-01-25,DING Ning,LIU Shiwen,4,2,"13,6,9,11,11,11|11,11,11,7,7,3",F,GRAND_SLAM,WS,84,Main Draw,DING Ning (CHN),LIU Shiwen (CHN),DING Ning
+World Tour Slovenia Open Velenje 2012,2012-01-25,CHEN Chien-An,INDEHERBERG Julien,3,0,"11,11,11|2,5,7",R32,GRAND_SLAM,U21MS,84,Main Draw,CHEN Chien-An (TPE),INDEHERBERG Julien (BEL),CHEN Chien-An
+World Tour Slovenia Open Velenje 2012,2012-01-25,NUYTINCK Cedric,DORAN Christopher,3,1,"11,11,11,13|8,13,5,11",R32,GRAND_SLAM,U21MS,84,Main Draw,NUYTINCK Cedric (BEL),DORAN Christopher (ENG),NUYTINCK Cedric
+World Tour Slovenia Open Velenje 2012,2012-01-25,FLORE Tristan,ANDERSSON Harald,3,1,"10,11,11,11|12,8,7,1",R32,GRAND_SLAM,U21MS,84,Main Draw,FLORE Tristan (FRA),ANDERSSON Harald (SWE),FLORE Tristan
+World Tour Slovenia Open Velenje 2012,2012-01-25,KARLSSON Mattias,FLORAS Robert,3,1,"9,11,14,13|11,5,12,11",R32,GRAND_SLAM,U21MS,84,Main Draw,KARLSSON Mattias (SWE),FLORAS Robert (POL),KARLSSON Mattias
+World Tour Slovenia Open Velenje 2012,2012-01-25,SIRUCEK Pavel,SUBOTIC Dragan,3,1,"11,11,6,11|2,6,11,9",R32,GRAND_SLAM,U21MS,84,Main Draw,SIRUCEK Pavel (CZE),SUBOTIC Dragan (SRB),SIRUCEK Pavel
+World Tour Slovenia Open Velenje 2012,2012-01-25,KARLSSON Kristian,DYJAS Jakub,3,1,"11,11,12,11|0,6,14,4",R32,GRAND_SLAM,U21MS,84,Main Draw,KARLSSON Kristian (SWE),DYJAS Jakub (POL),KARLSSON Kristian
+World Tour Slovenia Open Velenje 2012,2012-01-25,WALTHER Ricardo,CREPULJA Bojan,3,0,"11,11,12|8,9,10",R32,GRAND_SLAM,U21MS,84,Main Draw,WALTHER Ricardo (GER),CREPULJA Bojan (SRB),WALTHER Ricardo
+World Tour Slovenia Open Velenje 2012,2012-01-25,CHANG Shun-Hung,LI Ahmet,3,0,"11,11,11|6,4,9",R32,GRAND_SLAM,U21MS,84,Main Draw,CHANG Shun-Hung (TPE),LI Ahmet (TUR),CHANG Shun-Hung
+World Tour Slovenia Open Velenje 2012,2012-01-25,ROBINOT Quentin,OVERSJO Mattias,3,0,"11,11,16|7,6,14",R32,GRAND_SLAM,U21MS,84,Main Draw,ROBINOT Quentin (FRA),OVERSJO Mattias (SWE),ROBINOT Quentin
+World Tour Slovenia Open Velenje 2012,2012-01-25,FLORITZ Philipp,SZOCS Hunor,3,2,"10,11,11,8,11|12,9,8,11,6",R32,GRAND_SLAM,U21MS,84,Main Draw,FLORITZ Philipp (BUL),SZOCS Hunor (ROU),FLORITZ Philipp
+World Tour Slovenia Open Velenje 2012,2012-01-25,JEAN Lauric,LORENTZ Romain,3,0,"11,11,11|1,0,0",R32,GRAND_SLAM,U21MS,84,Main Draw,JEAN Lauric (BEL),LORENTZ Romain (FRA),JEAN Lauric
+World Tour Slovenia Open Velenje 2012,2012-01-25,FRANZISKA Patrick,ZIBRAT Jan,3,1,"11,3,11,11|5,11,6,7",R32,GRAND_SLAM,U21MS,84,Main Draw,FRANZISKA Patrick (GER),ZIBRAT Jan (SLO),FRANZISKA Patrick
+World Tour Slovenia Open Velenje 2012,2012-01-25,GAUZY Simon,CAMPOS Jorge,3,0,"11,11,11|8,7,9",R32,GRAND_SLAM,U21MS,84,Main Draw,GAUZY Simon (FRA),CAMPOS Jorge (CUB),GAUZY Simon
+World Tour Slovenia Open Velenje 2012,2012-01-25,PITCHFORD Liam,MORICZ Mate,3,0,"11,11,11|7,7,9",R32,GRAND_SLAM,U21MS,84,Main Draw,PITCHFORD Liam (ENG),MORICZ Mate (HUN),PITCHFORD Liam
+World Tour Slovenia Open Velenje 2012,2012-01-25,RECH DALDOSSO Marco,WONG Chun Ting,3,2,"8,12,11,9,15|11,10,8,11,13",R32,GRAND_SLAM,U21MS,84,Main Draw,RECH DALDOSSO Marco (ITA),WONG Chun Ting (HKG),RECH DALDOSSO Marco
+World Tour Slovenia Open Velenje 2012,2012-01-25,JEOUNG Youngsik,SIMOVIC Miho,3,0,"11,11,11|9,7,8",R32,GRAND_SLAM,U21MS,84,Main Draw,JEOUNG Youngsik (KOR),SIMOVIC Miho (CRO),JEOUNG Youngsik
+World Tour Slovenia Open Velenje 2012,2012-01-25,CHEN Chien-An,NUYTINCK Cedric,3,1,"11,11,5,11|2,7,11,4",R16,GRAND_SLAM,U21MS,84,Main Draw,CHEN Chien-An (TPE),NUYTINCK Cedric (BEL),CHEN Chien-An
+World Tour Slovenia Open Velenje 2012,2012-01-25,KARLSSON Mattias,FLORE Tristan,3,2,"4,12,11,6,11|11,10,7,11,6",R16,GRAND_SLAM,U21MS,84,Main Draw,KARLSSON Mattias (SWE),FLORE Tristan (FRA),KARLSSON Mattias
+World Tour Slovenia Open Velenje 2012,2012-01-25,KARLSSON Kristian,SIRUCEK Pavel,3,2,"11,11,7,9,13|8,9,11,11,11",R16,GRAND_SLAM,U21MS,84,Main Draw,KARLSSON Kristian (SWE),SIRUCEK Pavel (CZE),KARLSSON Kristian
+World Tour Slovenia Open Velenje 2012,2012-01-25,WALTHER Ricardo,CHANG Shun-Hung,3,0,"11,13,11|6,11,7",R16,GRAND_SLAM,U21MS,84,Main Draw,WALTHER Ricardo (GER),CHANG Shun-Hung (TPE),WALTHER Ricardo
+World Tour Slovenia Open Velenje 2012,2012-01-25,ROBINOT Quentin,FLORITZ Philipp,3,0,"11,11,11|6,5,8",R16,GRAND_SLAM,U21MS,84,Main Draw,ROBINOT Quentin (FRA),FLORITZ Philipp (BUL),ROBINOT Quentin
+World Tour Slovenia Open Velenje 2012,2012-01-25,FRANZISKA Patrick,JEAN Lauric,3,1,"5,11,11,11|11,6,4,8",R16,GRAND_SLAM,U21MS,84,Main Draw,FRANZISKA Patrick (GER),JEAN Lauric (BEL),FRANZISKA Patrick
+World Tour Slovenia Open Velenje 2012,2012-01-25,GAUZY Simon,PITCHFORD Liam,3,0,"12,11,11|10,8,4",R16,GRAND_SLAM,U21MS,84,Main Draw,GAUZY Simon (FRA),PITCHFORD Liam (ENG),GAUZY Simon
+World Tour Slovenia Open Velenje 2012,2012-01-25,JEOUNG Youngsik,RECH DALDOSSO Marco,3,2,"12,14,11,7,11|10,16,2,11,6",R16,GRAND_SLAM,U21MS,84,Main Draw,JEOUNG Youngsik (KOR),RECH DALDOSSO Marco (ITA),JEOUNG Youngsik
+World Tour Slovenia Open Velenje 2012,2012-01-25,KARLSSON Mattias,CHEN Chien-An,4,2,"11,11,16,8,8,11|9,4,14,11,11,8",QF,GRAND_SLAM,U21MS,84,Main Draw,KARLSSON Mattias (SWE),CHEN Chien-An (TPE),KARLSSON Mattias
+World Tour Slovenia Open Velenje 2012,2012-01-25,WALTHER Ricardo,KARLSSON Kristian,4,1,"11,11,11,2,12|7,8,9,11,10",QF,GRAND_SLAM,U21MS,84,Main Draw,WALTHER Ricardo (GER),KARLSSON Kristian (SWE),WALTHER Ricardo
+World Tour Slovenia Open Velenje 2012,2012-01-25,ROBINOT Quentin,FRANZISKA Patrick,4,2,"13,11,11,10,7,11|11,7,8,12,11,4",QF,GRAND_SLAM,U21MS,84,Main Draw,ROBINOT Quentin (FRA),FRANZISKA Patrick (GER),ROBINOT Quentin
+World Tour Slovenia Open Velenje 2012,2012-01-25,WALTHER Ricardo,KARLSSON Mattias,4,2,"11,11,6,5,11,11|8,8,11,11,9,8",SF,GRAND_SLAM,U21MS,84,Main Draw,WALTHER Ricardo (GER),KARLSSON Mattias (SWE),WALTHER Ricardo
+World Tour Slovenia Open Velenje 2012,2012-01-25,GAUZY Simon,ROBINOT Quentin,4,1,"12,8,11,11,11|10,11,9,8,9",SF,GRAND_SLAM,U21MS,84,Main Draw,GAUZY Simon (FRA),ROBINOT Quentin (FRA),GAUZY Simon
+World Tour Slovenia Open Velenje 2012,2012-01-25,GAUZY Simon,WALTHER Ricardo,4,2,"11,11,7,11,9,11|9,8,11,4,11,2",F,GRAND_SLAM,U21MS,84,Main Draw,GAUZY Simon (FRA),WALTHER Ricardo (GER),GAUZY Simon
+World Tour Slovenia Open Velenje 2012,2012-01-25,ISHIKAWA Kasumi,LOEUILLETTE Stephanie,3,0,"12,13,11|10,11,1",R32,GRAND_SLAM,U21WS,84,Main Draw,ISHIKAWA Kasumi (JPN),LOEUILLETTE Stephanie (FRA),ISHIKAWA Kasumi
+World Tour Slovenia Open Velenje 2012,2012-01-25,POLCANOVA Sofia,HWANG Jina,3,1,"11,5,13,11|8,11,11,6",R32,GRAND_SLAM,U21WS,84,Main Draw,POLCANOVA Sofia (AUT),HWANG Jina (KOR),POLCANOVA Sofia
+World Tour Slovenia Open Velenje 2012,2012-01-25,KIM Mingyung,DUBKOVA Elena,3,1,"11,11,7,11|7,4,11,5",R32,GRAND_SLAM,U21WS,84,Main Draw,KIM Mingyung (KOR),DUBKOVA Elena (BLR),KIM Mingyung
+World Tour Slovenia Open Velenje 2012,2012-01-25,PESOTSKA Margaryta,GUNGOR Gokce Nur,3,0,"11,11,11|7,3,5",R32,GRAND_SLAM,U21WS,84,Main Draw,PESOTSKA Margaryta (UKR),GUNGOR Gokce Nur (TUR),PESOTSKA Margaryta
+World Tour Slovenia Open Velenje 2012,2012-01-25,WINTER Sabine,SLIFIRCZYK Katarzyna,3,2,"11,9,10,11,11|4,11,12,5,5",R32,GRAND_SLAM,U21WS,84,Main Draw,WINTER Sabine (GER),SLIFIRCZYK Katarzyna (POL),WINTER Sabine
+World Tour Slovenia Open Velenje 2012,2012-01-25,KIM Minhee (YOB=1991),KUSINSKA Klaudia,3,0,"11,11,11|7,8,4",R32,GRAND_SLAM,U21WS,84,Main Draw,KIM Minhee (YOB=1991) (KOR),KUSINSKA Klaudia (POL),KIM Minhee (YOB=1991)
+World Tour Slovenia Open Velenje 2012,2012-01-25,ABBAT Alice,DOBREVA Polina,3,1,"8,11,11,11|11,9,8,8",R32,GRAND_SLAM,U21WS,84,Main Draw,ABBAT Alice (FRA),DOBREVA Polina (BUL),ABBAT Alice
+World Tour Slovenia Open Velenje 2012,2012-01-25,KANG Misoon,MIKULCOVA Kristyna,3,1,"8,11,11,11|11,6,4,3",R32,GRAND_SLAM,U21WS,84,Main Draw,KANG Misoon (KOR),MIKULCOVA Kristyna (CZE),KANG Misoon
+World Tour Slovenia Open Velenje 2012,2012-01-25,CHENG I-Ching,SIRUCKOVA Aneta,3,0,"11,11,11|8,5,9",R32,GRAND_SLAM,U21WS,84,Main Draw,CHENG I-Ching (TPE),SIRUCKOVA Aneta (CZE),CHENG I-Ching
+World Tour Slovenia Open Velenje 2012,2012-01-25,IACOB Camelia,TODOROVIC Andrea,3,1,"11,9,11,12|5,11,6,10",R32,GRAND_SLAM,U21WS,84,Main Draw,IACOB Camelia (ROU),TODOROVIC Andrea (SRB),IACOB Camelia
+World Tour Slovenia Open Velenje 2012,2012-01-25,SZCZERKOWSKA Magdalena,VIVARELLI Debora,3,1,"12,11,7,11|10,7,11,6",R32,GRAND_SLAM,U21WS,84,Main Draw,SZCZERKOWSKA Magdalena (POL),VIVARELLI Debora (ITA),SZCZERKOWSKA Magdalena
+World Tour Slovenia Open Velenje 2012,2012-01-25,VARADY Barbora,YOO Eunchong,3,0,"11,11,11|5,5,4",R32,GRAND_SLAM,U21WS,84,Main Draw,VARADY Barbora (SVK),YOO Eunchong (KOR),VARADY Barbora
+World Tour Slovenia Open Velenje 2012,2012-01-25,MADARASZ Dora,KRZEWICKA Maja,3,0,"11,11,12|5,4,10",R32,GRAND_SLAM,U21WS,84,Main Draw,MADARASZ Dora (HUN),KRZEWICKA Maja (POL),MADARASZ Dora
+World Tour Slovenia Open Velenje 2012,2012-01-25,JO Yujin,LUPULESKU Anelia,3,0,"11,11,11|6,6,3",R32,GRAND_SLAM,U21WS,84,Main Draw,JO Yujin (KOR),LUPULESKU Anelia (SRB),JO Yujin
+World Tour Slovenia Open Velenje 2012,2012-01-25,AMBRUS Krisztina,TUBIKANEC Ivana,3,0,"11,11,11|5,8,7",R32,GRAND_SLAM,U21WS,84,Main Draw,AMBRUS Krisztina (HUN),TUBIKANEC Ivana (CRO),AMBRUS Krisztina
+World Tour Slovenia Open Velenje 2012,2012-01-25,MORIZONO Misaki,KUMAHARA Luca,3,1,"11,11,12,11|4,5,14,9",R32,GRAND_SLAM,U21WS,84,Main Draw,MORIZONO Misaki (JPN),KUMAHARA Luca (BRA),MORIZONO Misaki
+World Tour Slovenia Open Velenje 2012,2012-01-25,ISHIKAWA Kasumi,POLCANOVA Sofia,3,1,"11,1,11,11|6,11,6,7",R16,GRAND_SLAM,U21WS,84,Main Draw,ISHIKAWA Kasumi (JPN),POLCANOVA Sofia (AUT),ISHIKAWA Kasumi
+World Tour Slovenia Open Velenje 2012,2012-01-25,KIM Mingyung,PESOTSKA Margaryta,3,2,"6,11,9,12,11|11,6,11,10,6",R16,GRAND_SLAM,U21WS,84,Main Draw,KIM Mingyung (KOR),PESOTSKA Margaryta (UKR),KIM Mingyung
+World Tour Slovenia Open Velenje 2012,2012-01-25,WINTER Sabine,KIM Minhee (YOB=1991),3,1,"11,8,11,11|8,11,8,8",R16,GRAND_SLAM,U21WS,84,Main Draw,WINTER Sabine (GER),KIM Minhee (YOB=1991) (KOR),WINTER Sabine
+World Tour Slovenia Open Velenje 2012,2012-01-25,ABBAT Alice,KANG Misoon,3,2,"12,7,11,5,11|10,11,9,11,5",R16,GRAND_SLAM,U21WS,84,Main Draw,ABBAT Alice (FRA),KANG Misoon (KOR),ABBAT Alice
+World Tour Slovenia Open Velenje 2012,2012-01-25,CHENG I-Ching,IACOB Camelia,3,0,"11,11,11|9,9,8",R16,GRAND_SLAM,U21WS,84,Main Draw,CHENG I-Ching (TPE),IACOB Camelia (ROU),CHENG I-Ching
+World Tour Slovenia Open Velenje 2012,2012-01-25,SZCZERKOWSKA Magdalena,VARADY Barbora,3,0,"11,11,11|7,7,5",R16,GRAND_SLAM,U21WS,84,Main Draw,SZCZERKOWSKA Magdalena (POL),VARADY Barbora (SVK),SZCZERKOWSKA Magdalena
+World Tour Slovenia Open Velenje 2012,2012-01-25,MADARASZ Dora,JO Yujin,3,1,"11,11,9,11|2,4,11,8",R16,GRAND_SLAM,U21WS,84,Main Draw,MADARASZ Dora (HUN),JO Yujin (KOR),MADARASZ Dora
+World Tour Slovenia Open Velenje 2012,2012-01-25,MORIZONO Misaki,AMBRUS Krisztina,3,1,"11,11,8,11|5,4,11,3",R16,GRAND_SLAM,U21WS,84,Main Draw,MORIZONO Misaki (JPN),AMBRUS Krisztina (HUN),MORIZONO Misaki
+World Tour Slovenia Open Velenje 2012,2012-01-25,ISHIKAWA Kasumi,KIM Mingyung,4,0,"11,11,11,11|9,6,5,8",QF,GRAND_SLAM,U21WS,84,Main Draw,ISHIKAWA Kasumi (JPN),KIM Mingyung (KOR),ISHIKAWA Kasumi
+World Tour Slovenia Open Velenje 2012,2012-01-25,ABBAT Alice,WINTER Sabine,4,1,"13,11,11,6,11|11,9,6,11,2",QF,GRAND_SLAM,U21WS,84,Main Draw,ABBAT Alice (FRA),WINTER Sabine (GER),ABBAT Alice
+World Tour Slovenia Open Velenje 2012,2012-01-25,CHENG I-Ching,SZCZERKOWSKA Magdalena,4,1,"11,8,13,11,11|2,11,11,3,7",QF,GRAND_SLAM,U21WS,84,Main Draw,CHENG I-Ching (TPE),SZCZERKOWSKA Magdalena (POL),CHENG I-Ching
+World Tour Slovenia Open Velenje 2012,2012-01-25,MORIZONO Misaki,MADARASZ Dora,4,1,"11,9,11,12,11|8,11,3,10,6",QF,GRAND_SLAM,U21WS,84,Main Draw,MORIZONO Misaki (JPN),MADARASZ Dora (HUN),MORIZONO Misaki
+World Tour Slovenia Open Velenje 2012,2012-01-25,ISHIKAWA Kasumi,ABBAT Alice,4,0,"11,11,11,11|5,8,8,4",SF,GRAND_SLAM,U21WS,84,Main Draw,ISHIKAWA Kasumi (JPN),ABBAT Alice (FRA),ISHIKAWA Kasumi
+World Tour Slovenia Open Velenje 2012,2012-01-25,MORIZONO Misaki,CHENG I-Ching,4,3,"11,12,6,10,9,11,12|8,10,11,12,11,7,10",SF,GRAND_SLAM,U21WS,84,Main Draw,MORIZONO Misaki (JPN),CHENG I-Ching (TPE),MORIZONO Misaki
+World Tour Slovenia Open Velenje 2012,2012-01-25,ISHIKAWA Kasumi,MORIZONO Misaki,4,3,"11,11,8,9,9,11,11|7,8,11,11,11,6,3",F,GRAND_SLAM,U21WS,84,Main Draw,ISHIKAWA Kasumi (JPN),MORIZONO Misaki (JPN),ISHIKAWA Kasumi
+World Tour Slovenia Open Velenje 2012,2012-01-25,GAVLAS Antonin,HINSE Pierre-Luc,4,1,"10,11,11,11,11|12,2,8,7,5",QR64,GRAND_SLAM,MS,84,Qualification,GAVLAS Antonin (CZE),HINSE Pierre-Luc (CAN),GAVLAS Antonin
+World Tour Slovenia Open Velenje 2012,2012-01-25,WONG Chun Ting,DIDUKH Oleksandr,4,3,"8,11,11,5,11,10,11|11,9,9,11,3,12,6",QR64,GRAND_SLAM,MS,84,Qualification,WONG Chun Ting (HKG),DIDUKH Oleksandr (UKR),WONG Chun Ting
+World Tour Slovenia Open Velenje 2012,2012-01-25,FENG Xiaoquan,CREPULJA Bojan,4,0,"11,11,11,11|4,7,7,9",QR64,GRAND_SLAM,MS,84,Qualification,FENG Xiaoquan (AUT),CREPULJA Bojan (SRB),FENG Xiaoquan
+World Tour Slovenia Open Velenje 2012,2012-01-25,MATSUMOTO Cazuo,BUROV Viacheslav,4,3,"11,13,9,11,11,10,11|9,15,11,5,8,12,8",QR64,GRAND_SLAM,MS,84,Qualification,MATSUMOTO Cazuo (BRA),BUROV Viacheslav (RUS),MATSUMOTO Cazuo
+World Tour Slovenia Open Velenje 2012,2012-01-25,VRABLIK Jiri,SALIFOU Abdel-Kader,4,3,"11,9,11,9,9,11,11|6,11,6,11,11,6,9",QR64,GRAND_SLAM,MS,84,Qualification,VRABLIK Jiri (CZE),SALIFOU Abdel-Kader (BEN),VRABLIK Jiri
+World Tour Slovenia Open Velenje 2012,2012-01-25,GROTH Jonathan,CARNEROS Alfredo,4,3,"6,6,11,12,10,11,11|11,11,6,10,12,5,8",QR64,GRAND_SLAM,MS,84,Qualification,GROTH Jonathan (DEN),CARNEROS Alfredo (ESP),GROTH Jonathan
+World Tour Slovenia Open Velenje 2012,2012-01-25,STORF Martin,KOSIBA Daniel,4,2,"14,2,4,13,13,11|12,11,11,11,11,9",QR64,GRAND_SLAM,MS,84,Qualification,STORF Martin (AUT),KOSIBA Daniel (HUN),STORF Martin
+World Tour Slovenia Open Velenje 2012,2012-01-25,DRINKHALL Paul,TSE Ka Chun,4,3,"11,4,11,4,12,5,12|7,11,5,11,10,11,10",QR64,GRAND_SLAM,MS,84,Qualification,DRINKHALL Paul (ENG),TSE Ka Chun (HKG),DRINKHALL Paul
+World Tour Slovenia Open Velenje 2012,2012-01-25,VLASOV Grigory,CHIANG Hung-Chieh,4,1,"6,11,11,11,11|11,8,9,9,9",QR64,GRAND_SLAM,MS,84,Qualification,VLASOV Grigory (RUS),CHIANG Hung-Chieh (TPE),VLASOV Grigory
+World Tour Slovenia Open Velenje 2012,2012-01-25,TOSIC Roko,BAGGALEY Andrew,4,1,"11,14,9,11,11|8,12,11,7,9",QR64,GRAND_SLAM,MS,84,Qualification,TOSIC Roko (CRO),BAGGALEY Andrew (ENG),TOSIC Roko
+World Tour Slovenia Open Velenje 2012,2012-01-25,PATTANTYUS Adam,FLORAS Robert,4,1,"12,8,11,11,11|10,11,4,4,4",QR64,GRAND_SLAM,MS,84,Qualification,PATTANTYUS Adam (HUN),FLORAS Robert (POL),PATTANTYUS Adam
+World Tour Slovenia Open Velenje 2012,2012-01-25,WANG Eugene,PETO Zsolt,4,0,"11,11,11,11|7,7,9,5",QR64,GRAND_SLAM,MS,84,Qualification,WANG Eugene (CAN),PETO Zsolt (SRB),WANG Eugene
+World Tour Slovenia Open Velenje 2012,2012-01-25,HIELSCHER Lars,OBESLO Michal,4,1,"11,11,11,7,11|8,2,3,11,5",QR64,GRAND_SLAM,MS,84,Qualification,HIELSCHER Lars (GER),OBESLO Michal (CZE),HIELSCHER Lars
+World Tour Slovenia Open Velenje 2012,2012-01-25,PAIKOV Mikhail,PITCHFORD Liam,4,3,"4,8,11,11,12,8,12|11,11,8,7,10,11,10",QR64,GRAND_SLAM,MS,84,Qualification,PAIKOV Mikhail (RUS),PITCHFORD Liam (ENG),PAIKOV Mikhail
+World Tour Slovenia Open Velenje 2012,2012-01-25,HUANG Sheng-Sheng,KNIGHT Darius,4,1,"4,11,11,11,11|11,4,4,6,8",QR64,GRAND_SLAM,MS,84,Qualification,HUANG Sheng-Sheng (TPE),KNIGHT Darius (ENG),HUANG Sheng-Sheng
+World Tour Slovenia Open Velenje 2012,2012-01-25,FRANZISKA Patrick,PEREIRA Andy,4,1,"11,9,11,13,11|7,11,5,11,3",QR64,GRAND_SLAM,MS,84,Qualification,FRANZISKA Patrick (GER),PEREIRA Andy (CUB),FRANZISKA Patrick
+World Tour Slovenia Open Velenje 2012,2012-01-25,STERNBERG Kasper,JANCARIK Lubomir,4,3,"11,8,11,11,6,8,11|9,11,9,8,11,11,7",QR64,GRAND_SLAM,MS,84,Qualification,STERNBERG Kasper (DEN),JANCARIK Lubomir (CZE),STERNBERG Kasper
+World Tour Slovenia Open Velenje 2012,2012-01-25,SIMOVIC Miho,SCHAFFER Daniel,3,2,"7,7,11,12,11|11,11,6,10,6",QR2,GRAND_SLAM,U21MS,84,Qualification,SIMOVIC Miho (CRO),SCHAFFER Daniel (HUN),SIMOVIC Miho
+World Tour Slovenia Open Velenje 2012,2012-01-25,KUMAHARA Luca,PETEK Petra,3,2,"8,9,11,11,11|11,11,9,8,5",QR16,GRAND_SLAM,U21WS,84,Qualification,KUMAHARA Luca (BRA),PETEK Petra (CRO),KUMAHARA Luca
+World Tour Slovenia Open Velenje 2012,2012-01-25,MIKULCOVA Kristyna,KARAHAN Ipek,3,1,"11,6,14,11|8,11,12,3",QR16,GRAND_SLAM,U21WS,84,Qualification,MIKULCOVA Kristyna (CZE),KARAHAN Ipek (TUR),MIKULCOVA Kristyna
+World Tour Slovenia Open Velenje 2012,2012-01-25,KRZEWICKA Maja,LOEUILLETTE Stephanie,3,1,"3,11,11,11|11,6,8,5",QR16,GRAND_SLAM,U21WS,84,Qualification,KRZEWICKA Maja (POL),LOEUILLETTE Stephanie (FRA),KRZEWICKA Maja
+World Tour Slovenia Open Velenje 2012,2012-01-25,SIRUCKOVA Aneta,GUI Lin,3,2,"11,6,6,11,11|8,11,11,9,7",QR16,GRAND_SLAM,U21WS,84,Qualification,SIRUCKOVA Aneta (CZE),GUI Lin (BRA),SIRUCKOVA Aneta
+World Tour Slovenia Open Velenje 2012,2012-01-25,DYJAS Jakub,DORAN Christopher,4,1,"9,11,11,11,11|11,8,8,9,5",,GRAND_SLAM,MS,84,Qualification,DYJAS Jakub (POL),DORAN Christopher (ENG),DYJAS Jakub
+World Tour Slovenia Open Velenje 2012,2012-01-25,TSUBOI Gustavo,DYJAS Jakub,4,1,"11,11,6,11,11|6,1,11,5,9",,GRAND_SLAM,MS,84,Qualification,TSUBOI Gustavo (BRA),DYJAS Jakub (POL),TSUBOI Gustavo
+World Tour Slovenia Open Velenje 2012,2012-01-25,TSUBOI Gustavo,DORAN Christopher,4,3,"11,11,11,13,12,9,11|7,3,8,15,14,11,8",,GRAND_SLAM,MS,84,Qualification,TSUBOI Gustavo (BRA),DORAN Christopher (ENG),TSUBOI Gustavo
+World Tour Slovenia Open Velenje 2012,2012-01-25,CHANG Shun-Hung,INDEHERBERG Julien,4,0,"11,11,11,11|7,6,8,5",,GRAND_SLAM,MS,84,Qualification,CHANG Shun-Hung (TPE),INDEHERBERG Julien (BEL),CHANG Shun-Hung
+World Tour Slovenia Open Velenje 2012,2012-01-25,FILUS Ruwen,INDEHERBERG Julien,4,0,"11,11,11,11|1,0,0,0",,GRAND_SLAM,MS,84,Qualification,FILUS Ruwen (GER),INDEHERBERG Julien (BEL),FILUS Ruwen
+World Tour Slovenia Open Velenje 2012,2012-01-25,FILUS Ruwen,CHANG Shun-Hung,4,2,"8,11,11,9,11,11|11,8,1,11,7,3",,GRAND_SLAM,MS,84,Qualification,FILUS Ruwen (GER),CHANG Shun-Hung (TPE),FILUS Ruwen
+World Tour Slovenia Open Velenje 2012,2012-01-25,RECH DALDOSSO Marco,PLATTNER Dominique,4,0,"11,11,11,13|4,4,6,11",,GRAND_SLAM,MS,84,Qualification,RECH DALDOSSO Marco (ITA),PLATTNER Dominique (AUT),RECH DALDOSSO Marco
+World Tour Slovenia Open Velenje 2012,2012-01-25,KUZMIN Fedor,PLATTNER Dominique,4,2,"11,7,11,11,7,11|7,11,3,7,11,1",,GRAND_SLAM,MS,84,Qualification,KUZMIN Fedor (RUS),PLATTNER Dominique (AUT),KUZMIN Fedor
+World Tour Slovenia Open Velenje 2012,2012-01-25,KUZMIN Fedor,RECH DALDOSSO Marco,4,1,"11,11,8,11,11|5,4,11,2,7",,GRAND_SLAM,MS,84,Qualification,KUZMIN Fedor (RUS),RECH DALDOSSO Marco (ITA),KUZMIN Fedor
+World Tour Slovenia Open Velenje 2012,2012-01-25,ECHAVARRIA Alexander,CAMPOS Jorge,4,2,"13,11,8,11,11,11|11,13,11,7,9,9",,GRAND_SLAM,MS,84,Qualification,ECHAVARRIA Alexander (COL),CAMPOS Jorge (CUB),ECHAVARRIA Alexander
+World Tour Slovenia Open Velenje 2012,2012-01-25,WOSIK Torben,CAMPOS Jorge,4,2,"11,11,6,11,8,11|4,9,11,5,11,4",,GRAND_SLAM,MS,84,Qualification,WOSIK Torben (GER),CAMPOS Jorge (CUB),WOSIK Torben
+World Tour Slovenia Open Velenje 2012,2012-01-25,WOSIK Torben,ECHAVARRIA Alexander,4,0,"11,11,11,11|6,1,6,5",,GRAND_SLAM,MS,84,Qualification,WOSIK Torben (GER),ECHAVARRIA Alexander (COL),WOSIK Torben
+World Tour Slovenia Open Velenje 2012,2012-01-25,UDRA Alfredas,DEVOS Robin,4,1,"11,11,6,11,11|9,7,11,7,6",,GRAND_SLAM,MS,84,Qualification,UDRA Alfredas (LTU),DEVOS Robin (BEL),UDRA Alfredas
+World Tour Slovenia Open Velenje 2012,2012-01-25,HABESOHN Daniel,UDRA Alfredas,4,1,"11,11,11,7,11|9,8,4,11,4",,GRAND_SLAM,MS,84,Qualification,HABESOHN Daniel (AUT),UDRA Alfredas (LTU),HABESOHN Daniel
+World Tour Slovenia Open Velenje 2012,2012-01-25,HABESOHN Daniel,DEVOS Robin,4,1,"12,6,11,11,11|10,11,9,8,7",,GRAND_SLAM,MS,84,Qualification,HABESOHN Daniel (AUT),DEVOS Robin (BEL),HABESOHN Daniel
+World Tour Slovenia Open Velenje 2012,2012-01-25,BEN ARI Omri,DONADO Josue,4,1,"12,4,11,14,11|10,11,5,12,9",,GRAND_SLAM,MS,84,Qualification,BEN ARI Omri (ISR),DONADO Josue (ESA),BEN ARI Omri
+World Tour Slovenia Open Velenje 2012,2012-01-25,WANG Zengyi,BEN ARI Omri,4,0,"11,11,11,11|5,5,8,3",,GRAND_SLAM,MS,84,Qualification,WANG Zengyi (POL),BEN ARI Omri (ISR),WANG Zengyi
+World Tour Slovenia Open Velenje 2012,2012-01-25,CHEN Hongtao,ZAFOSTNIK Gregor,4,3,"5,13,5,5,11,11,11|11,11,11,11,5,8,6",,GRAND_SLAM,MS,84,Qualification,CHEN Hongtao (CAN),ZAFOSTNIK Gregor (SLO),CHEN Hongtao
+World Tour Slovenia Open Velenje 2012,2012-01-25,CHEN Hongtao,ROBINOT Quentin,4,2,"7,11,11,3,12,11|11,7,9,11,10,8",,GRAND_SLAM,MS,84,Qualification,CHEN Hongtao (CAN),ROBINOT Quentin (FRA),CHEN Hongtao
+World Tour Slovenia Open Velenje 2012,2012-01-25,ROBINOT Quentin,ZAFOSTNIK Gregor,4,0,"15,11,11,11|13,4,7,3",,GRAND_SLAM,MS,84,Qualification,ROBINOT Quentin (FRA),ZAFOSTNIK Gregor (SLO),ROBINOT Quentin
+World Tour Slovenia Open Velenje 2012,2012-01-25,MANHANI Humberto,SIMOVIC Miho,4,2,"19,8,10,13,11,11|17,11,12,11,9,5",,GRAND_SLAM,MS,84,Qualification,MANHANI Humberto (BRA),SIMOVIC Miho (CRO),MANHANI Humberto
+World Tour Slovenia Open Velenje 2012,2012-01-25,LI Ahmet,SIMOVIC Miho,4,1,"11,11,9,11,11|8,8,11,6,9",,GRAND_SLAM,MS,84,Qualification,LI Ahmet (TUR),SIMOVIC Miho (CRO),LI Ahmet
+World Tour Slovenia Open Velenje 2012,2012-01-25,LI Ahmet,MANHANI Humberto,4,2,"7,11,5,11,11,11|11,4,11,9,5,5",,GRAND_SLAM,MS,84,Qualification,LI Ahmet (TUR),MANHANI Humberto (BRA),LI Ahmet
+World Tour Slovenia Open Velenje 2012,2012-01-25,BAJGER Ondrej,SUBOTIC Dragan,4,3,"11,11,7,10,9,11,11|8,7,11,12,11,8,9",,GRAND_SLAM,MS,84,Qualification,BAJGER Ondrej (CZE),SUBOTIC Dragan (SRB),BAJGER Ondrej
+World Tour Slovenia Open Velenje 2012,2012-01-25,SUCH Bartosz,BAJGER Ondrej,4,2,"10,11,11,6,11,11|12,2,3,11,3,8",,GRAND_SLAM,MS,84,Qualification,SUCH Bartosz (POL),BAJGER Ondrej (CZE),SUCH Bartosz
+World Tour Slovenia Open Velenje 2012,2012-01-25,SUCH Bartosz,SUBOTIC Dragan,4,0,"11,11,11,11|6,9,6,3",,GRAND_SLAM,MS,84,Qualification,SUCH Bartosz (POL),SUBOTIC Dragan (SRB),SUCH Bartosz
+World Tour Slovenia Open Velenje 2012,2012-01-25,SLATINSEK Uros,CIPIN Filip,4,3,"12,13,3,13,11,8,11|10,11,11,15,6,11,6",,GRAND_SLAM,MS,84,Qualification,SLATINSEK Uros (SLO),CIPIN Filip (CRO),SLATINSEK Uros
+World Tour Slovenia Open Velenje 2012,2012-01-25,GAUZY Simon,CIPIN Filip,4,1,"11,13,11,3,11|7,11,5,11,7",,GRAND_SLAM,MS,84,Qualification,GAUZY Simon (FRA),CIPIN Filip (CRO),GAUZY Simon
+World Tour Slovenia Open Velenje 2012,2012-01-25,GAUZY Simon,SLATINSEK Uros,4,0,"12,11,11,11|10,2,3,7",,GRAND_SLAM,MS,84,Qualification,GAUZY Simon (FRA),SLATINSEK Uros (SLO),GAUZY Simon
+World Tour Slovenia Open Velenje 2012,2012-01-25,PETO Zoltan,PALATINUS Martin,4,0,"11,11,11,11|7,6,8,7",,GRAND_SLAM,MS,84,Qualification,PETO Zoltan (SRB),PALATINUS Martin (HUN),PETO Zoltan
+World Tour Slovenia Open Velenje 2012,2012-01-25,FEGERL Stefan,PALATINUS Martin,4,1,"8,11,11,11,11|11,7,8,8,7",,GRAND_SLAM,MS,84,Qualification,FEGERL Stefan (AUT),PALATINUS Martin (HUN),FEGERL Stefan
+World Tour Slovenia Open Velenje 2012,2012-01-25,FEGERL Stefan,PETO Zoltan,4,0,"11,11,11,12|8,5,6,10",,GRAND_SLAM,MS,84,Qualification,FEGERL Stefan (AUT),PETO Zoltan (SRB),FEGERL Stefan
+World Tour Slovenia Open Velenje 2012,2012-01-25,DODEAN Daniela/SAMARA Elizabeta,DUBKOVA Elena/PAVLOVICH Viktoria,3,1,"7,11,11,13|11,7,6,11",R16,GRAND_SLAM,WD,84,Main Draw,DODEAN Daniela (ROU) / SAMARA Elizabeta (ROU),DUBKOVA Elena (BLR) / PAVLOVICH Viktoria (BLR),DODEAN Daniela
+World Tour Slovenia Open Velenje 2012,2012-01-25,FUKUHARA Ai/HIRANO Sayaka,PAVLOVICH Veronika/PRIVALOVA Alexandra,3,0,"15,11,11|13,5,5",R16,GRAND_SLAM,WD,84,Main Draw,FUKUHARA Ai (JPN) / HIRANO Sayaka (JPN),PAVLOVICH Veronika (BLR) / PRIVALOVA Alexandra (BLR),FUKUHARA Ai
+World Tour Slovenia Open Velenje 2012,2012-01-25,MA Long/ZHANG Jike,FEGERL Stefan/FENG Xiaoquan,3,0,"11,11,11|3,7,4",R16,GRAND_SLAM,MD,84,Main Draw,MA Long (CHN) / ZHANG Jike (CHN),FEGERL Stefan (AUT) / FENG Xiaoquan (AUT),MA Long
+World Tour Slovenia Open Velenje 2012,2012-01-25,MA Long/ZHANG Jike,GAO Ning/YANG Zi,4,1,"11,11,13,11,11|6,3,15,6,9",QF,GRAND_SLAM,MD,84,Main Draw,MA Long (CHN) / ZHANG Jike (CHN),GAO Ning (SGP) / YANG Zi (SGP),MA Long
+World Tour Slovenia Open Velenje 2012,2012-01-25,MA Long/ZHANG Jike,MA Lin/YAN An,4,1,"8,11,11,15,11|11,7,6,13,8",SF,GRAND_SLAM,MD,84,Main Draw,MA Long (CHN) / ZHANG Jike (CHN),MA Lin (CHN) / YAN An (CHN),MA Long
+World Tour Slovenia Open Velenje 2012,2012-01-25,MA Long/ZHANG Jike,WANG Hao/XU Xin,4,2,"11,12,11,11,5,16|3,14,9,3,11,14",F,GRAND_SLAM,MD,84,Main Draw,MA Long (CHN) / ZHANG Jike (CHN),WANG Hao (CHN) / XU Xin (CHN),MA Long
+World Tour Slovenia Open Velenje 2012,2012-01-25,DING Ning/GUO Yan (1982),DOLGIKH Maria/MIKHAILOVA Polina,3,0,"11,11,11|9,4,4",R16,GRAND_SLAM,WD,84,Main Draw,DING Ning (CHN) / GUO Yan (1982) (CHN),DOLGIKH Maria (RUS) / MIKHAILOVA Polina (RUS),DING Ning
+World Tour Slovenia Open Velenje 2012,2012-01-25,FAN Ying/WU Yang,RAMIREZ Sara/SHEN Yanfei,3,0,"11,11,11|7,6,2",R16,GRAND_SLAM,WD,84,Main Draw,FAN Ying (CHN) / WU Yang (CHN),RAMIREZ Sara (ESP) / SHEN Yanfei (ESP),FAN Ying
+World Tour Slovenia Open Velenje 2012,2012-01-25,DING Ning/GUO Yan (1982),DODEAN Daniela/SAMARA Elizabeta,4,0,"11,14,11,11|6,12,4,2",QF,GRAND_SLAM,WD,84,Main Draw,DING Ning (CHN) / GUO Yan (1982) (CHN),DODEAN Daniela (ROU) / SAMARA Elizabeta (ROU),DING Ning
+World Tour Slovenia Open Velenje 2012,2012-01-25,DING Ning/GUO Yan (1982),POTA Georgina/TOTH Krisztina,4,3,"9,11,11,6,10,11,11|11,4,8,11,12,8,9",SF,GRAND_SLAM,WD,84,Main Draw,DING Ning (CHN) / GUO Yan (1982) (CHN),POTA Georgina (HUN) / TOTH Krisztina (HUN),DING Ning
+World Tour Slovenia Open Velenje 2012,2012-01-25,FAN Ying/WU Yang,LANG Kristin/WU Jiaduo,4,0,"11,11,11,12|6,5,9,10",SF,GRAND_SLAM,WD,84,Main Draw,FAN Ying (CHN) / WU Yang (CHN),LANG Kristin (GER) / WU Jiaduo (GER),FAN Ying
+World Tour Slovenia Open Velenje 2012,2012-01-25,DING Ning/GUO Yan (1982),FAN Ying/WU Yang,4,0,"12,12,11,11|10,10,9,8",F,GRAND_SLAM,WD,84,Main Draw,DING Ning (CHN) / GUO Yan (1982) (CHN),FAN Ying (CHN) / WU Yang (CHN),DING Ning
+World Tour Slovenia Open Velenje 2012,2012-01-25,GAO Ning/YANG Zi,FLORE Tristan/LEBESSON Emmanuel,3,1,"10,11,13,11|12,6,11,9",R16,GRAND_SLAM,MD,84,Main Draw,GAO Ning (SGP) / YANG Zi (SGP),FLORE Tristan (FRA) / LEBESSON Emmanuel (FRA),GAO Ning
+World Tour Slovenia Open Velenje 2012,2012-01-25,LANG Kristin/WU Jiaduo,CHENG I-Ching/HUANG Yi-Hua,3,1,"11,8,12,11|8,11,10,5",R16,GRAND_SLAM,WD,84,Main Draw,LANG Kristin (GER) / WU Jiaduo (GER),CHENG I-Ching (TPE) / HUANG Yi-Hua (TPE),LANG Kristin
+World Tour Slovenia Open Velenje 2012,2012-01-25,POTA Georgina/TOTH Krisztina,TIKHOMIROVA Anna/VORONOVA Anastasia,3,2,"11,6,11,8,11|5,11,9,11,8",R16,GRAND_SLAM,WD,84,Main Draw,POTA Georgina (HUN) / TOTH Krisztina (HUN),TIKHOMIROVA Anna (RUS) / VORONOVA Anastasia (RUS),POTA Georgina
+World Tour Slovenia Open Velenje 2012,2012-01-25,POTA Georgina/TOTH Krisztina,FUKUHARA Ai/HIRANO Sayaka,4,2,"11,11,6,9,11,11|9,8,11,11,8,8",QF,GRAND_SLAM,WD,84,Main Draw,POTA Georgina (HUN) / TOTH Krisztina (HUN),FUKUHARA Ai (JPN) / HIRANO Sayaka (JPN),POTA Georgina
+World Tour Slovenia Open Velenje 2012,2012-01-25,JEOUNG Youngsik/KIM Minseok,CANTERO Jesus/HE Zhiwen,3,1,"11,11,9,11|8,8,11,6",R16,GRAND_SLAM,MD,84,Main Draw,JEOUNG Youngsik (KOR) / KIM Minseok (KOR),CANTERO Jesus (ESP) / HE Zhiwen (ESP),JEOUNG Youngsik
+World Tour Slovenia Open Velenje 2012,2012-01-25,WANG Hao/XU Xin,CHOI Wonjin/LEE Jungwoo,3,2,"11,9,9,11,12|8,11,11,9,10",R16,GRAND_SLAM,MD,84,Main Draw,WANG Hao (CHN) / XU Xin (CHN),CHOI Wonjin (KOR) / LEE Jungwoo (KOR),WANG Hao
+World Tour Slovenia Open Velenje 2012,2012-01-25,CHIANG Hung-Chieh/HUANG Sheng-Sheng,JEOUNG Youngsik/KIM Minseok,4,1,"11,11,11,10,11|9,6,9,12,7",QF,GRAND_SLAM,MD,84,Main Draw,CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE),JEOUNG Youngsik (KOR) / KIM Minseok (KOR),CHIANG Hung-Chieh
+World Tour Slovenia Open Velenje 2012,2012-01-25,PARK Miyoung/SUH Hyo Won,EKHOLM Matilda/FEHER Gabriela,3,2,"7,16,11,5,11|11,14,9,11,7",R16,GRAND_SLAM,WD,84,Main Draw,PARK Miyoung (KOR) / SUH Hyo Won (KOR),EKHOLM Matilda (SWE) / FEHER Gabriela (SRB),PARK Miyoung
+World Tour Slovenia Open Velenje 2012,2012-01-25,FAN Ying/WU Yang,PARK Miyoung/SUH Hyo Won,4,0,"11,11,11,11|2,4,9,3",QF,GRAND_SLAM,WD,84,Main Draw,FAN Ying (CHN) / WU Yang (CHN),PARK Miyoung (KOR) / SUH Hyo Won (KOR),FAN Ying
+World Tour Slovenia Open Velenje 2012,2012-01-25,LI Jiao/LI Jie,POLCANOVA Sofia/SOLJA Amelie,3,0,"11,11,11|3,4,6",R16,GRAND_SLAM,WD,84,Main Draw,LI Jiao (NED) / LI Jie (NED),POLCANOVA Sofia (AUT) / SOLJA Amelie (AUT),LI Jiao
+World Tour Slovenia Open Velenje 2012,2012-01-25,LANG Kristin/WU Jiaduo,LI Jiao/LI Jie,4,2,"12,9,11,11,12,11|14,11,6,8,10,6",QF,GRAND_SLAM,WD,84,Main Draw,LANG Kristin (GER) / WU Jiaduo (GER),LI Jiao (NED) / LI Jie (NED),LANG Kristin
+World Tour Slovenia Open Velenje 2012,2012-01-25,MA Lin/YAN An,FERTIKOWSKI Pawel/WANG Zengyi,3,0,"11,11,11|8,7,4",R16,GRAND_SLAM,MD,84,Main Draw,MA Lin (CHN) / YAN An (CHN),FERTIKOWSKI Pawel (POL) / WANG Zengyi (POL),MA Lin
+World Tour Slovenia Open Velenje 2012,2012-01-25,KARLSSON Kristian/KARLSSON Mattias,KUZMIN Fedor/RUBTSOV Igor,3,0,"11,11,11|9,9,7",R16,GRAND_SLAM,MD,84,Main Draw,KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),KUZMIN Fedor (RUS) / RUBTSOV Igor (RUS),KARLSSON Kristian
+World Tour Slovenia Open Velenje 2012,2012-01-25,TOKIC Bojan/ZIBRAT Jan,FLORAS Robert/GORAK Daniel,3,2,"5,6,11,11,11|11,11,6,8,6",R16,GRAND_SLAM,MD,84,Main Draw,TOKIC Bojan (SLO) / ZIBRAT Jan (SLO),FLORAS Robert (POL) / GORAK Daniel (POL),TOKIC Bojan
+World Tour Slovenia Open Velenje 2012,2012-01-25,MA Lin/YAN An,TOKIC Bojan/ZIBRAT Jan,4,0,"13,11,11,11|11,8,2,6",QF,GRAND_SLAM,MD,84,Main Draw,MA Lin (CHN) / YAN An (CHN),TOKIC Bojan (SLO) / ZIBRAT Jan (SLO),MA Lin
+World Tour Slovenia Open Velenje 2012,2012-01-25,WANG Hao/XU Xin,KARLSSON Kristian/KARLSSON Mattias,4,1,"6,15,11,11,11|11,13,7,5,5",QF,GRAND_SLAM,MD,84,Main Draw,WANG Hao (CHN) / XU Xin (CHN),KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),WANG Hao
+World Tour Slovenia Open Velenje 2012,2012-01-25,WANG Hao/XU Xin,CHIANG Hung-Chieh/HUANG Sheng-Sheng,4,1,"11,12,7,11,11|5,10,11,8,5",SF,GRAND_SLAM,MD,84,Main Draw,WANG Hao (CHN) / XU Xin (CHN),CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE),WANG Hao
+World Tour Slovenia Open Velenje 2012,2012-01-25,CHIANG Hung-Chieh/HUANG Sheng-Sheng,DIDUKH Oleksandr/PRYSHCHEPA Ievgen,3,1,"11,4,13,11|9,11,11,5",R16,GRAND_SLAM,MD,84,Main Draw,CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE),DIDUKH Oleksandr (UKR) / PRYSHCHEPA Ievgen (UKR),CHIANG Hung-Chieh

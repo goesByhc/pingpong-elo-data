@@ -1,72 +1,72 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,HARIMOTO Tomokazu,KHADER Khaled,4,1,"11,11,13,12,11|4,6,15,10,3",,OTHER,JBS,861,Qualification,HARIMOTO Tomokazu (JPN),KHADER Khaled (JOR)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,HARIMOTO Tomokazu,ALAMRI Abdulaziz,4,0,"11,11,11,11|5,3,1,4",,OTHER,JBS,861,Qualification,HARIMOTO Tomokazu (JPN),ALAMRI Abdulaziz (KSA)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,KHADER Khaled,ALAMRI Abdulaziz,4,0,"11,11,11,11|6,4,7,7",,OTHER,JBS,861,Qualification,ALAMRI Abdulaziz (KSA),KHADER Khaled (JOR)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,LIN Yun-Ju,ALBALUSHI Salah,4,0,"11,11,11,11|3,7,1,8",,OTHER,JBS,861,Qualification,LIN Yun-Ju (TPE),ALBALUSHI Salah (UAE)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,LIN Yun-Ju,PANG Koen,4,2,"11,7,11,11,9,11|4,11,7,4,11,3",,OTHER,JBS,861,Qualification,LIN Yun-Ju (TPE),PANG Koen (SGP)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,PANG Koen,ALBALUSHI Salah,4,0,"11,11,11,16|5,2,4,14",,OTHER,JBS,861,Qualification,PANG Koen (SGP),ALBALUSHI Salah (UAE)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,WANG Chuqin,KENZHIGULOV Aidos,4,0,"11,11,11,11|6,5,6,5",,OTHER,JBS,861,Qualification,WANG Chuqin (CHN),KENZHIGULOV Aidos (KAZ)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,WANG Chuqin,CHOONG Javen,4,0,"11,11,11,11|5,2,8,7",,OTHER,JBS,861,Qualification,WANG Chuqin (CHN),CHOONG Javen (MAS)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,KENZHIGULOV Aidos,CHOONG Javen,4,2,"8,5,11,11,11,11|11,11,4,4,5,8",,OTHER,JBS,861,Qualification,CHOONG Javen (MAS),KENZHIGULOV Aidos (KAZ)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,CHO Daeseong,SHAFFAN Mohamed,4,0,"11,11,11,11|4,1,7,4",,OTHER,JBS,861,Qualification,CHO Daeseong (KOR),SHAFFAN Mohamed (MDV)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,CHO Daeseong,CHONG Kai Ning,4,0,"11,11,11,11|8,5,7,5",,OTHER,JBS,861,Qualification,CHO Daeseong (KOR),CHONG Kai Ning (HKG)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,CHONG Kai Ning,SHAFFAN Mohamed,4,0,"11,11,11,11|5,3,4,2",,OTHER,JBS,861,Qualification,CHONG Kai Ning (HKG),SHAFFAN Mohamed (MDV)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,THAKKAR Manav,PATIRANALAGE Dishanka,4,1,"13,11,9,14,11|11,4,11,12,6",,OTHER,JBS,861,Qualification,THAKKAR Manav (IND),PATIRANALAGE Dishanka (SRI)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,THAKKAR Manav,PANAGITGUN Yanapong,4,0,"11,11,11,11|5,9,5,2",,OTHER,JBS,861,Qualification,THAKKAR Manav (IND),PANAGITGUN Yanapong (THA)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,PANAGITGUN Yanapong,PATIRANALAGE Dishanka,4,0,"11,11,11,11|8,6,3,6",,OTHER,JBS,861,Qualification,PANAGITGUN Yanapong (THA),PATIRANALAGE Dishanka (SRI)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,AHMADIAN Amin,FAHES Ghaleb,4,1,"13,7,11,11,11|11,11,9,6,4",,OTHER,JBS,861,Qualification,AHMADIAN Amin (IRI),FAHES Ghaleb (LBN)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,AHMADIAN Amin,NAYRE Jann Mari,4,2,"11,11,7,7,11,11|9,5,11,11,7,9",,OTHER,JBS,861,Qualification,AHMADIAN Amin (IRI),NAYRE Jann Mari (PHI)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,NAYRE Jann Mari,FAHES Ghaleb,4,1,"11,14,11,12,11|6,12,8,14,7",,OTHER,JBS,861,Qualification,NAYRE Jann Mari (PHI),FAHES Ghaleb (LBN)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,HIRANO Miu,ZHANG Wanling,4,1,"11,11,11,6,11|7,8,8,11,5",,OTHER,JGS,861,Qualification,HIRANO Miu (JPN),ZHANG Wanling (SGP)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,AKASHEVA Zauresh,ALKHOURY Tina,4,0,"11,11,11,11|2,4,6,6",,OTHER,JGS,861,Qualification,AKASHEVA Zauresh (KAZ),ALKHOURY Tina (JOR)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,HIRANO Miu,ALKHOURY Tina,4,0,"11,11,11,11|3,3,3,6",,OTHER,JGS,861,Qualification,HIRANO Miu (JPN),ALKHOURY Tina (JOR)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,AKASHEVA Zauresh,ZHANG Wanling,4,2,"11,11,8,11,4,11|5,6,11,3,11,5",,OTHER,JGS,861,Qualification,AKASHEVA Zauresh (KAZ),ZHANG Wanling (SGP)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,HIRANO Miu,AKASHEVA Zauresh,4,0,"11,13,11,11|6,11,8,9",,OTHER,JGS,861,Qualification,HIRANO Miu (JPN),AKASHEVA Zauresh (KAZ)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,ZHANG Wanling,ALKHOURY Tina,4,0,"11,11,11,11|3,3,3,3",,OTHER,JGS,861,Qualification,ZHANG Wanling (SGP),ALKHOURY Tina (JOR)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,SUN Yingsha,ASHTARI Mahshid,4,0,"11,11,11,11|2,6,1,6",,OTHER,JGS,861,Qualification,SUN Yingsha (CHN),ASHTARI Mahshid (IRI)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,LYNE Karen,KAPUGEEKIYANA Hansani,4,0,"11,11,11,11|6,4,7,7",,OTHER,JGS,861,Qualification,LYNE Karen (MAS),KAPUGEEKIYANA Hansani (SRI)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,SUN Yingsha,KAPUGEEKIYANA Hansani,4,0,"11,11,11,11|5,7,4,7",,OTHER,JGS,861,Qualification,SUN Yingsha (CHN),KAPUGEEKIYANA Hansani (SRI)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,LYNE Karen,ASHTARI Mahshid,4,2,"9,11,11,11,10,11|11,7,4,9,12,9",,OTHER,JGS,861,Qualification,LYNE Karen (MAS),ASHTARI Mahshid (IRI)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,SUN Yingsha,LYNE Karen,4,0,"11,11,11,11|5,5,3,7",,OTHER,JGS,861,Qualification,SUN Yingsha (CHN),LYNE Karen (MAS)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,ASHTARI Mahshid,KAPUGEEKIYANA Hansani,4,1,"11,9,11,11,11|6,11,0,7,9",,OTHER,JGS,861,Qualification,ASHTARI Mahshid (IRI),KAPUGEEKIYANA Hansani (SRI)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,SAWETTABUT Jinnipa,LEE Daeun,4,2,"10,11,11,11,9,13|12,9,8,8,11,11",,OTHER,JGS,861,Qualification,SAWETTABUT Jinnipa (THA),LEE Daeun (KOR)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,KAMATH Archana,STOJANOVSKA Ana,4,0,"11,11,11,11|4,6,8,3",,OTHER,JGS,861,Qualification,KAMATH Archana (IND),STOJANOVSKA Ana (MKD)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,SAWETTABUT Jinnipa,STOJANOVSKA Ana,4,0,"11,12,11,12|7,10,5,10",,OTHER,JGS,861,Qualification,SAWETTABUT Jinnipa (THA),STOJANOVSKA Ana (MKD)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,KAMATH Archana,LEE Daeun,4,3,"11,11,11,11,7,11,11|6,13,8,13,11,7,8",,OTHER,JGS,861,Qualification,KAMATH Archana (IND),LEE Daeun (KOR)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,SAWETTABUT Jinnipa,KAMATH Archana,4,0,"11,12,11,11|7,10,7,7",,OTHER,JGS,861,Qualification,SAWETTABUT Jinnipa (THA),KAMATH Archana (IND)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,LEE Daeun,STOJANOVSKA Ana,4,0,"11,11,11,11|9,5,8,6",,OTHER,JGS,861,Qualification,LEE Daeun (KOR),STOJANOVSKA Ana (MKD)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,SU Pei-Ling,KHALIKOVA Kamila,4,0,"11,11,11,11|9,5,5,4",,OTHER,JGS,861,Qualification,SU Pei-Ling (TPE),KHALIKOVA Kamila (UZB)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,CHAU Wing Sze,AZAR Laetitia,4,1,"9,11,11,11,11|11,3,2,3,1",,OTHER,JGS,861,Qualification,CHAU Wing Sze (HKG),AZAR Laetitia (LBN)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,SU Pei-Ling,AZAR Laetitia,4,0,"11,11,11,11|2,7,4,2",,OTHER,JGS,861,Qualification,SU Pei-Ling (TPE),AZAR Laetitia (LBN)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,CHAU Wing Sze,KHALIKOVA Kamila,4,0,"11,11,11,11|2,8,4,7",,OTHER,JGS,861,Qualification,CHAU Wing Sze (HKG),KHALIKOVA Kamila (UZB)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,SU Pei-Ling,CHAU Wing Sze,4,0,"11,11,12,11|8,2,10,6",,OTHER,JGS,861,Qualification,SU Pei-Ling (TPE),CHAU Wing Sze (HKG)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,KHALIKOVA Kamila,AZAR Laetitia,4,0,"11,11,11,11|4,7,9,6",,OTHER,JGS,861,Qualification,KHALIKOVA Kamila (UZB),AZAR Laetitia (LBN)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,HARIMOTO Tomokazu,PANG Koen,4,1,"11,12,11,11,11|7,14,7,9,3",,OTHER,JBS,861,Main Draw,HARIMOTO Tomokazu (JPN),PANG Koen (SGP)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,PANAGITGUN Yanapong,PANG Koen,4,2,"12,6,11,11,10,11|10,11,6,8,12,9",,OTHER,JBS,861,Main Draw,PANAGITGUN Yanapong (THA),PANG Koen (SGP)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,HARIMOTO Tomokazu,PANAGITGUN Yanapong,4,1,"8,11,11,11,11|11,7,3,2,9",,OTHER,JBS,861,Main Draw,HARIMOTO Tomokazu (JPN),PANAGITGUN Yanapong (THA)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,LIN Yun-Ju,CHONG Kai Ning,4,2,"11,11,11,9,9,11|7,3,4,11,11,5",,OTHER,JBS,861,Main Draw,LIN Yun-Ju (TPE),CHONG Kai Ning (HKG)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,NAYRE Jann Mari,CHONG Kai Ning,4,3,"11,9,11,4,11,13,11|6,11,6,11,6,15,9",,OTHER,JBS,861,Main Draw,NAYRE Jann Mari (PHI),CHONG Kai Ning (HKG)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,LIN Yun-Ju,NAYRE Jann Mari,4,0,"11,11,11,11|3,2,4,6",,OTHER,JBS,861,Main Draw,LIN Yun-Ju (TPE),NAYRE Jann Mari (PHI)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,WANG Chuqin,KHADER Khaled,4,0,"11,11,11,11|2,9,3,3",,OTHER,JBS,861,Main Draw,WANG Chuqin (CHN),KHADER Khaled (JOR)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,THAKKAR Manav,KHADER Khaled,4,0,"11,11,11,11|9,5,6,3",,OTHER,JBS,861,Main Draw,THAKKAR Manav (IND),KHADER Khaled (JOR)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,WANG Chuqin,THAKKAR Manav,4,0,"11,11,11,11|3,5,4,8",,OTHER,JBS,861,Main Draw,WANG Chuqin (CHN),THAKKAR Manav (IND)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,CHO Daeseong,KENZHIGULOV Aidos,4,0,"11,11,11,11|9,8,4,6",,OTHER,JBS,861,Main Draw,CHO Daeseong (KOR),KENZHIGULOV Aidos (KAZ)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,AHMADIAN Amin,KENZHIGULOV Aidos,4,1,"13,11,11,15,11|11,5,4,17,9",,OTHER,JBS,861,Main Draw,AHMADIAN Amin (IRI),KENZHIGULOV Aidos (KAZ)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,CHO Daeseong,AHMADIAN Amin,4,1,"11,8,11,11,11|9,11,7,5,3",,OTHER,JBS,861,Main Draw,CHO Daeseong (KOR),AHMADIAN Amin (IRI)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,HIRANO Miu,LEE Daeun,4,0,"11,11,11,11|8,3,8,6",,OTHER,JGS,861,Main Draw,HIRANO Miu (JPN),LEE Daeun (KOR)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,LEE Daeun,LYNE Karen,4,1,"11,11,9,11,11|6,6,11,9,9",,OTHER,JGS,861,Main Draw,LYNE Karen (MAS),LEE Daeun (KOR)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,HIRANO Miu,LYNE Karen,4,0,"11,11,11,11|5,4,3,4",,OTHER,JGS,861,Main Draw,HIRANO Miu (JPN),LYNE Karen (MAS)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,SUN Yingsha,KHALIKOVA Kamila,4,0,"11,11,11,11|4,5,4,3",,OTHER,JGS,861,Main Draw,SUN Yingsha (CHN),KHALIKOVA Kamila (UZB)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,KHALIKOVA Kamila,AKASHEVA Zauresh,4,1,"11,12,8,13,11|7,10,11,11,9",,OTHER,JGS,861,Main Draw,AKASHEVA Zauresh (KAZ),KHALIKOVA Kamila (UZB)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,SUN Yingsha,AKASHEVA Zauresh,4,0,"11,11,11,11|6,3,4,2",,OTHER,JGS,861,Main Draw,SUN Yingsha (CHN),AKASHEVA Zauresh (KAZ)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,SAWETTABUT Jinnipa,ZHANG Wanling,4,0,"11,11,11,11|9,3,6,3",,OTHER,JGS,861,Main Draw,SAWETTABUT Jinnipa (THA),ZHANG Wanling (SGP)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,CHAU Wing Sze,ZHANG Wanling,4,2,"11,11,11,3,4,11|9,8,7,11,11,8",,OTHER,JGS,861,Main Draw,CHAU Wing Sze (HKG),ZHANG Wanling (SGP)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,SAWETTABUT Jinnipa,CHAU Wing Sze,4,1,"12,11,9,11,11|10,7,11,5,5",,OTHER,JGS,861,Main Draw,SAWETTABUT Jinnipa (THA),CHAU Wing Sze (HKG)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,SU Pei-Ling,ASHTARI Mahshid,4,1,"11,11,11,3,11|7,5,4,11,2",,OTHER,JGS,861,Main Draw,SU Pei-Ling (TPE),ASHTARI Mahshid (IRI)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,KAMATH Archana,ASHTARI Mahshid,4,0,"12,11,11,11|10,4,5,5",,OTHER,JGS,861,Main Draw,KAMATH Archana (IND),ASHTARI Mahshid (IRI)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,SU Pei-Ling,KAMATH Archana,4,0,"11,11,11,11|7,8,3,6",,OTHER,JGS,861,Main Draw,SU Pei-Ling (TPE),KAMATH Archana (IND)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,NAYRE Jann Mari,AHMADIAN Amin,4,3,"11,10,11,7,7,11,12|4,12,5,11,11,9,10",SF,OTHER,JBS,861,Main Draw,AHMADIAN Amin (IRI),NAYRE Jann Mari (PHI)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,THAKKAR Manav,NAYRE Jann Mari,4,1,"14,11,11,5,11|12,6,5,11,4",F,OTHER,JBS,861,Main Draw,THAKKAR Manav (IND),NAYRE Jann Mari (PHI)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,PANAGITGUN Yanapong,AHMADIAN Amin,4,2,"11,7,11,8,13,12|8,11,9,11,11,10",F,OTHER,JBS,861,Main Draw,PANAGITGUN Yanapong (THA),AHMADIAN Amin (IRI)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,KAMATH Archana,CHAU Wing Sze,4,2,"12,11,10,11,11,11|14,3,12,8,8,4",F,OTHER,JGS,861,Main Draw,CHAU Wing Sze (HKG),KAMATH Archana (IND)
-YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,LEE Daeun,KHALIKOVA Kamila,4,2,"11,11,10,4,11,11|5,3,12,11,5,7",F,OTHER,JGS,861,Main Draw,KHALIKOVA Kamila (UZB),LEE Daeun (KOR)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,HARIMOTO Tomokazu,KHADER Khaled,4,1,"11,11,13,12,11|4,6,15,10,3",,OTHER,JBS,861,Qualification,HARIMOTO Tomokazu (JPN),KHADER Khaled (JOR),HARIMOTO Tomokazu
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,HARIMOTO Tomokazu,ALAMRI Abdulaziz,4,0,"11,11,11,11|5,3,1,4",,OTHER,JBS,861,Qualification,HARIMOTO Tomokazu (JPN),ALAMRI Abdulaziz (KSA),HARIMOTO Tomokazu
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,KHADER Khaled,ALAMRI Abdulaziz,4,0,"11,11,11,11|6,4,7,7",,OTHER,JBS,861,Qualification,ALAMRI Abdulaziz (KSA),KHADER Khaled (JOR),KHADER Khaled
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,LIN Yun-Ju,ALBALUSHI Salah,4,0,"11,11,11,11|3,7,1,8",,OTHER,JBS,861,Qualification,LIN Yun-Ju (TPE),ALBALUSHI Salah (UAE),LIN Yun-Ju
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,LIN Yun-Ju,PANG Koen,4,2,"11,7,11,11,9,11|4,11,7,4,11,3",,OTHER,JBS,861,Qualification,LIN Yun-Ju (TPE),PANG Koen (SGP),LIN Yun-Ju
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,PANG Koen,ALBALUSHI Salah,4,0,"11,11,11,16|5,2,4,14",,OTHER,JBS,861,Qualification,PANG Koen (SGP),ALBALUSHI Salah (UAE),PANG Koen
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,WANG Chuqin,KENZHIGULOV Aidos,4,0,"11,11,11,11|6,5,6,5",,OTHER,JBS,861,Qualification,WANG Chuqin (CHN),KENZHIGULOV Aidos (KAZ),WANG Chuqin
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,WANG Chuqin,CHOONG Javen,4,0,"11,11,11,11|5,2,8,7",,OTHER,JBS,861,Qualification,WANG Chuqin (CHN),CHOONG Javen (MAS),WANG Chuqin
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,KENZHIGULOV Aidos,CHOONG Javen,4,2,"8,5,11,11,11,11|11,11,4,4,5,8",,OTHER,JBS,861,Qualification,CHOONG Javen (MAS),KENZHIGULOV Aidos (KAZ),KENZHIGULOV Aidos
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,CHO Daeseong,SHAFFAN Mohamed,4,0,"11,11,11,11|4,1,7,4",,OTHER,JBS,861,Qualification,CHO Daeseong (KOR),SHAFFAN Mohamed (MDV),CHO Daeseong
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,CHO Daeseong,CHONG Kai Ning,4,0,"11,11,11,11|8,5,7,5",,OTHER,JBS,861,Qualification,CHO Daeseong (KOR),CHONG Kai Ning (HKG),CHO Daeseong
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,CHONG Kai Ning,SHAFFAN Mohamed,4,0,"11,11,11,11|5,3,4,2",,OTHER,JBS,861,Qualification,CHONG Kai Ning (HKG),SHAFFAN Mohamed (MDV),CHONG Kai Ning
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,THAKKAR Manav,PATIRANALAGE Dishanka,4,1,"13,11,9,14,11|11,4,11,12,6",,OTHER,JBS,861,Qualification,THAKKAR Manav (IND),PATIRANALAGE Dishanka (SRI),THAKKAR Manav
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,THAKKAR Manav,PANAGITGUN Yanapong,4,0,"11,11,11,11|5,9,5,2",,OTHER,JBS,861,Qualification,THAKKAR Manav (IND),PANAGITGUN Yanapong (THA),THAKKAR Manav
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,PANAGITGUN Yanapong,PATIRANALAGE Dishanka,4,0,"11,11,11,11|8,6,3,6",,OTHER,JBS,861,Qualification,PANAGITGUN Yanapong (THA),PATIRANALAGE Dishanka (SRI),PANAGITGUN Yanapong
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,AHMADIAN Amin,FAHES Ghaleb,4,1,"13,7,11,11,11|11,11,9,6,4",,OTHER,JBS,861,Qualification,AHMADIAN Amin (IRI),FAHES Ghaleb (LBN),AHMADIAN Amin
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,AHMADIAN Amin,NAYRE Jann Mari,4,2,"11,11,7,7,11,11|9,5,11,11,7,9",,OTHER,JBS,861,Qualification,AHMADIAN Amin (IRI),NAYRE Jann Mari (PHI),AHMADIAN Amin
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,NAYRE Jann Mari,FAHES Ghaleb,4,1,"11,14,11,12,11|6,12,8,14,7",,OTHER,JBS,861,Qualification,NAYRE Jann Mari (PHI),FAHES Ghaleb (LBN),NAYRE Jann Mari
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,HIRANO Miu,ZHANG Wanling,4,1,"11,11,11,6,11|7,8,8,11,5",,OTHER,JGS,861,Qualification,HIRANO Miu (JPN),ZHANG Wanling (SGP),HIRANO Miu
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,AKASHEVA Zauresh,ALKHOURY Tina,4,0,"11,11,11,11|2,4,6,6",,OTHER,JGS,861,Qualification,AKASHEVA Zauresh (KAZ),ALKHOURY Tina (JOR),AKASHEVA Zauresh
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,HIRANO Miu,ALKHOURY Tina,4,0,"11,11,11,11|3,3,3,6",,OTHER,JGS,861,Qualification,HIRANO Miu (JPN),ALKHOURY Tina (JOR),HIRANO Miu
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,AKASHEVA Zauresh,ZHANG Wanling,4,2,"11,11,8,11,4,11|5,6,11,3,11,5",,OTHER,JGS,861,Qualification,AKASHEVA Zauresh (KAZ),ZHANG Wanling (SGP),AKASHEVA Zauresh
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,HIRANO Miu,AKASHEVA Zauresh,4,0,"11,13,11,11|6,11,8,9",,OTHER,JGS,861,Qualification,HIRANO Miu (JPN),AKASHEVA Zauresh (KAZ),HIRANO Miu
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,ZHANG Wanling,ALKHOURY Tina,4,0,"11,11,11,11|3,3,3,3",,OTHER,JGS,861,Qualification,ZHANG Wanling (SGP),ALKHOURY Tina (JOR),ZHANG Wanling
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,SUN Yingsha,ASHTARI Mahshid,4,0,"11,11,11,11|2,6,1,6",,OTHER,JGS,861,Qualification,SUN Yingsha (CHN),ASHTARI Mahshid (IRI),SUN Yingsha
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,LYNE Karen,KAPUGEEKIYANA Hansani,4,0,"11,11,11,11|6,4,7,7",,OTHER,JGS,861,Qualification,LYNE Karen (MAS),KAPUGEEKIYANA Hansani (SRI),LYNE Karen
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,SUN Yingsha,KAPUGEEKIYANA Hansani,4,0,"11,11,11,11|5,7,4,7",,OTHER,JGS,861,Qualification,SUN Yingsha (CHN),KAPUGEEKIYANA Hansani (SRI),SUN Yingsha
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,LYNE Karen,ASHTARI Mahshid,4,2,"9,11,11,11,10,11|11,7,4,9,12,9",,OTHER,JGS,861,Qualification,LYNE Karen (MAS),ASHTARI Mahshid (IRI),LYNE Karen
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,SUN Yingsha,LYNE Karen,4,0,"11,11,11,11|5,5,3,7",,OTHER,JGS,861,Qualification,SUN Yingsha (CHN),LYNE Karen (MAS),SUN Yingsha
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,ASHTARI Mahshid,KAPUGEEKIYANA Hansani,4,1,"11,9,11,11,11|6,11,0,7,9",,OTHER,JGS,861,Qualification,ASHTARI Mahshid (IRI),KAPUGEEKIYANA Hansani (SRI),ASHTARI Mahshid
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,SAWETTABUT Jinnipa,LEE Daeun,4,2,"10,11,11,11,9,13|12,9,8,8,11,11",,OTHER,JGS,861,Qualification,SAWETTABUT Jinnipa (THA),LEE Daeun (KOR),SAWETTABUT Jinnipa
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,KAMATH Archana,STOJANOVSKA Ana,4,0,"11,11,11,11|4,6,8,3",,OTHER,JGS,861,Qualification,KAMATH Archana (IND),STOJANOVSKA Ana (MKD),KAMATH Archana
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,SAWETTABUT Jinnipa,STOJANOVSKA Ana,4,0,"11,12,11,12|7,10,5,10",,OTHER,JGS,861,Qualification,SAWETTABUT Jinnipa (THA),STOJANOVSKA Ana (MKD),SAWETTABUT Jinnipa
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,KAMATH Archana,LEE Daeun,4,3,"11,11,11,11,7,11,11|6,13,8,13,11,7,8",,OTHER,JGS,861,Qualification,KAMATH Archana (IND),LEE Daeun (KOR),KAMATH Archana
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,SAWETTABUT Jinnipa,KAMATH Archana,4,0,"11,12,11,11|7,10,7,7",,OTHER,JGS,861,Qualification,SAWETTABUT Jinnipa (THA),KAMATH Archana (IND),SAWETTABUT Jinnipa
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,LEE Daeun,STOJANOVSKA Ana,4,0,"11,11,11,11|9,5,8,6",,OTHER,JGS,861,Qualification,LEE Daeun (KOR),STOJANOVSKA Ana (MKD),LEE Daeun
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,SU Pei-Ling,KHALIKOVA Kamila,4,0,"11,11,11,11|9,5,5,4",,OTHER,JGS,861,Qualification,SU Pei-Ling (TPE),KHALIKOVA Kamila (UZB),SU Pei-Ling
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,CHAU Wing Sze,AZAR Laetitia,4,1,"9,11,11,11,11|11,3,2,3,1",,OTHER,JGS,861,Qualification,CHAU Wing Sze (HKG),AZAR Laetitia (LBN),CHAU Wing Sze
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,SU Pei-Ling,AZAR Laetitia,4,0,"11,11,11,11|2,7,4,2",,OTHER,JGS,861,Qualification,SU Pei-Ling (TPE),AZAR Laetitia (LBN),SU Pei-Ling
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,CHAU Wing Sze,KHALIKOVA Kamila,4,0,"11,11,11,11|2,8,4,7",,OTHER,JGS,861,Qualification,CHAU Wing Sze (HKG),KHALIKOVA Kamila (UZB),CHAU Wing Sze
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,SU Pei-Ling,CHAU Wing Sze,4,0,"11,11,12,11|8,2,10,6",,OTHER,JGS,861,Qualification,SU Pei-Ling (TPE),CHAU Wing Sze (HKG),SU Pei-Ling
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,KHALIKOVA Kamila,AZAR Laetitia,4,0,"11,11,11,11|4,7,9,6",,OTHER,JGS,861,Qualification,KHALIKOVA Kamila (UZB),AZAR Laetitia (LBN),KHALIKOVA Kamila
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,HARIMOTO Tomokazu,PANG Koen,4,1,"11,12,11,11,11|7,14,7,9,3",,OTHER,JBS,861,Main Draw,HARIMOTO Tomokazu (JPN),PANG Koen (SGP),HARIMOTO Tomokazu
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,PANAGITGUN Yanapong,PANG Koen,4,2,"12,6,11,11,10,11|10,11,6,8,12,9",,OTHER,JBS,861,Main Draw,PANAGITGUN Yanapong (THA),PANG Koen (SGP),PANAGITGUN Yanapong
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,HARIMOTO Tomokazu,PANAGITGUN Yanapong,4,1,"8,11,11,11,11|11,7,3,2,9",,OTHER,JBS,861,Main Draw,HARIMOTO Tomokazu (JPN),PANAGITGUN Yanapong (THA),HARIMOTO Tomokazu
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,LIN Yun-Ju,CHONG Kai Ning,4,2,"11,11,11,9,9,11|7,3,4,11,11,5",,OTHER,JBS,861,Main Draw,LIN Yun-Ju (TPE),CHONG Kai Ning (HKG),LIN Yun-Ju
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,NAYRE Jann Mari,CHONG Kai Ning,4,3,"11,9,11,4,11,13,11|6,11,6,11,6,15,9",,OTHER,JBS,861,Main Draw,NAYRE Jann Mari (PHI),CHONG Kai Ning (HKG),NAYRE Jann Mari
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,LIN Yun-Ju,NAYRE Jann Mari,4,0,"11,11,11,11|3,2,4,6",,OTHER,JBS,861,Main Draw,LIN Yun-Ju (TPE),NAYRE Jann Mari (PHI),LIN Yun-Ju
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,WANG Chuqin,KHADER Khaled,4,0,"11,11,11,11|2,9,3,3",,OTHER,JBS,861,Main Draw,WANG Chuqin (CHN),KHADER Khaled (JOR),WANG Chuqin
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,THAKKAR Manav,KHADER Khaled,4,0,"11,11,11,11|9,5,6,3",,OTHER,JBS,861,Main Draw,THAKKAR Manav (IND),KHADER Khaled (JOR),THAKKAR Manav
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,WANG Chuqin,THAKKAR Manav,4,0,"11,11,11,11|3,5,4,8",,OTHER,JBS,861,Main Draw,WANG Chuqin (CHN),THAKKAR Manav (IND),WANG Chuqin
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,CHO Daeseong,KENZHIGULOV Aidos,4,0,"11,11,11,11|9,8,4,6",,OTHER,JBS,861,Main Draw,CHO Daeseong (KOR),KENZHIGULOV Aidos (KAZ),CHO Daeseong
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,AHMADIAN Amin,KENZHIGULOV Aidos,4,1,"13,11,11,15,11|11,5,4,17,9",,OTHER,JBS,861,Main Draw,AHMADIAN Amin (IRI),KENZHIGULOV Aidos (KAZ),AHMADIAN Amin
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,CHO Daeseong,AHMADIAN Amin,4,1,"11,8,11,11,11|9,11,7,5,3",,OTHER,JBS,861,Main Draw,CHO Daeseong (KOR),AHMADIAN Amin (IRI),CHO Daeseong
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,HIRANO Miu,LEE Daeun,4,0,"11,11,11,11|8,3,8,6",,OTHER,JGS,861,Main Draw,HIRANO Miu (JPN),LEE Daeun (KOR),HIRANO Miu
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,LEE Daeun,LYNE Karen,4,1,"11,11,9,11,11|6,6,11,9,9",,OTHER,JGS,861,Main Draw,LYNE Karen (MAS),LEE Daeun (KOR),LEE Daeun
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,HIRANO Miu,LYNE Karen,4,0,"11,11,11,11|5,4,3,4",,OTHER,JGS,861,Main Draw,HIRANO Miu (JPN),LYNE Karen (MAS),HIRANO Miu
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,SUN Yingsha,KHALIKOVA Kamila,4,0,"11,11,11,11|4,5,4,3",,OTHER,JGS,861,Main Draw,SUN Yingsha (CHN),KHALIKOVA Kamila (UZB),SUN Yingsha
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,KHALIKOVA Kamila,AKASHEVA Zauresh,4,1,"11,12,8,13,11|7,10,11,11,9",,OTHER,JGS,861,Main Draw,AKASHEVA Zauresh (KAZ),KHALIKOVA Kamila (UZB),KHALIKOVA Kamila
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,SUN Yingsha,AKASHEVA Zauresh,4,0,"11,11,11,11|6,3,4,2",,OTHER,JGS,861,Main Draw,SUN Yingsha (CHN),AKASHEVA Zauresh (KAZ),SUN Yingsha
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,SAWETTABUT Jinnipa,ZHANG Wanling,4,0,"11,11,11,11|9,3,6,3",,OTHER,JGS,861,Main Draw,SAWETTABUT Jinnipa (THA),ZHANG Wanling (SGP),SAWETTABUT Jinnipa
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,CHAU Wing Sze,ZHANG Wanling,4,2,"11,11,11,3,4,11|9,8,7,11,11,8",,OTHER,JGS,861,Main Draw,CHAU Wing Sze (HKG),ZHANG Wanling (SGP),CHAU Wing Sze
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,SAWETTABUT Jinnipa,CHAU Wing Sze,4,1,"12,11,9,11,11|10,7,11,5,5",,OTHER,JGS,861,Main Draw,SAWETTABUT Jinnipa (THA),CHAU Wing Sze (HKG),SAWETTABUT Jinnipa
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,SU Pei-Ling,ASHTARI Mahshid,4,1,"11,11,11,3,11|7,5,4,11,2",,OTHER,JGS,861,Main Draw,SU Pei-Ling (TPE),ASHTARI Mahshid (IRI),SU Pei-Ling
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,KAMATH Archana,ASHTARI Mahshid,4,0,"12,11,11,11|10,4,5,5",,OTHER,JGS,861,Main Draw,KAMATH Archana (IND),ASHTARI Mahshid (IRI),KAMATH Archana
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,SU Pei-Ling,KAMATH Archana,4,0,"11,11,11,11|7,8,3,6",,OTHER,JGS,861,Main Draw,SU Pei-Ling (TPE),KAMATH Archana (IND),SU Pei-Ling
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,NAYRE Jann Mari,AHMADIAN Amin,4,3,"11,10,11,7,7,11,12|4,12,5,11,11,9,10",SF,OTHER,JBS,861,Main Draw,AHMADIAN Amin (IRI),NAYRE Jann Mari (PHI),NAYRE Jann Mari
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,THAKKAR Manav,NAYRE Jann Mari,4,1,"14,11,11,5,11|12,6,5,11,4",F,OTHER,JBS,861,Main Draw,THAKKAR Manav (IND),NAYRE Jann Mari (PHI),THAKKAR Manav
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,PANAGITGUN Yanapong,AHMADIAN Amin,4,2,"11,7,11,8,13,12|8,11,9,11,11,10",F,OTHER,JBS,861,Main Draw,PANAGITGUN Yanapong (THA),AHMADIAN Amin (IRI),PANAGITGUN Yanapong
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,KAMATH Archana,CHAU Wing Sze,4,2,"12,11,10,11,11,11|14,3,12,8,8,4",F,OTHER,JGS,861,Main Draw,CHAU Wing Sze (HKG),KAMATH Archana (IND),KAMATH Archana
+YOG Asia Continental Qualification Greater Noida 2017,2017-11-03,LEE Daeun,KHALIKOVA Kamila,4,2,"11,11,10,4,11,11|5,3,12,11,5,7",F,OTHER,JGS,861,Main Draw,KHALIKOVA Kamila (UZB),LEE Daeun (KOR),LEE Daeun

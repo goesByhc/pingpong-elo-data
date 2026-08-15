@@ -1,15 +1,15 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Tournament of Champions Changcha 2007,2007-12-21,SAMSONOV Vladimir,RYU Seungmin,4,0,"11,11,11,14|7,4,8,12",QF,OTHER,MS,1891,Main Draw,SAMSONOV Vladimir (BLR),RYU Seungmin (KOR)
-Tournament of Champions Changcha 2007,2007-12-21,WANG Hao,GAO Ning,4,0,"11,11,11,14|8,6,9,12",QF,OTHER,MS,1891,Main Draw,WANG Hao (CHN),GAO Ning (SGP)
-Tournament of Champions Changcha 2007,2007-12-21,MA Lin,JOO Saehyuk,4,2,"11,9,12,11,11,11|3,11,14,8,7,4",QF,OTHER,MS,1891,Main Draw,MA Lin (CHN),JOO Saehyuk (KOR)
-Tournament of Champions Changcha 2007,2007-12-21,WANG Liqin,BOLL Timo,4,1,"11,11,6,11,11|7,8,11,7,9",QF,OTHER,MS,1891,Main Draw,WANG Liqin (CHN),BOLL Timo (GER)
-Tournament of Champions Changcha 2007,2007-12-21,WANG Hao,SAMSONOV Vladimir,4,3,"12,14,11,4,11,6,11|14,12,6,11,9,11,6",SF,OTHER,MS,1891,Main Draw,WANG Hao (CHN),SAMSONOV Vladimir (BLR)
-Tournament of Champions Changcha 2007,2007-12-21,MA Lin,WANG Liqin,4,2,"11,11,7,11,9,11|7,6,11,9,11,3",SF,OTHER,MS,1891,Main Draw,MA Lin (CHN),WANG Liqin (CHN)
-Tournament of Champions Changcha 2007,2007-12-21,WANG Hao,MA Lin,4,2,"11,9,11,11,11,11|7,11,8,7,13,6",F,OTHER,MS,1891,Main Draw,WANG Hao (CHN),MA Lin (CHN)
-Tournament of Champions Changcha 2007,2007-12-21,GUO Yue,FUKUHARA Ai,4,0,"11,11,11,11|6,7,3,6",QF,OTHER,WS,1891,Main Draw,GUO Yue (CHN),FUKUHARA Ai (JPN)
-Tournament of Champions Changcha 2007,2007-12-21,LI Xiaoxia,BOROS Tamara,4,1,"9,11,11,11,12|11,8,5,7,10",QF,OTHER,WS,1891,Main Draw,LI Xiaoxia (CHN),BOROS Tamara (CRO)
-Tournament of Champions Changcha 2007,2007-12-21,WANG Yuegu,LI Jiawei,4,2,"11,12,5,14,13,11|4,14,11,12,11,7",QF,OTHER,WS,1891,Main Draw,WANG Yuegu (SGP),LI Jiawei (SGP)
-Tournament of Champions Changcha 2007,2007-12-21,WANG Nan,JIANG Huajun,4,2,"11,11,8,11,4,11|7,8,11,9,11,8",QF,OTHER,WS,1891,Main Draw,WANG Nan (CHN),JIANG Huajun (HKG)
-Tournament of Champions Changcha 2007,2007-12-21,LI Xiaoxia,GUO Yue,4,1,"8,16,11,11,11|11,14,7,3,5",SF,OTHER,WS,1891,Main Draw,LI Xiaoxia (CHN),GUO Yue (CHN)
-Tournament of Champions Changcha 2007,2007-12-21,WANG Nan,WANG Yuegu,4,1,"11,11,11,10,11|3,5,5,12,5",SF,OTHER,WS,1891,Main Draw,WANG Nan (CHN),WANG Yuegu (SGP)
-Tournament of Champions Changcha 2007,2007-12-21,WANG Nan,LI Xiaoxia,4,3,"11,9,12,11,6,6,11|5,11,10,6,11,11,9",F,OTHER,WS,1891,Main Draw,WANG Nan (CHN),LI Xiaoxia (CHN)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Tournament of Champions Changcha 2007,2007-12-21,SAMSONOV Vladimir,RYU Seungmin,4,0,"11,11,11,14|7,4,8,12",QF,OTHER,MS,1891,Main Draw,SAMSONOV Vladimir (BLR),RYU Seungmin (KOR),SAMSONOV Vladimir
+Tournament of Champions Changcha 2007,2007-12-21,WANG Hao,GAO Ning,4,0,"11,11,11,14|8,6,9,12",QF,OTHER,MS,1891,Main Draw,WANG Hao (CHN),GAO Ning (SGP),WANG Hao
+Tournament of Champions Changcha 2007,2007-12-21,MA Lin,JOO Saehyuk,4,2,"11,9,12,11,11,11|3,11,14,8,7,4",QF,OTHER,MS,1891,Main Draw,MA Lin (CHN),JOO Saehyuk (KOR),MA Lin
+Tournament of Champions Changcha 2007,2007-12-21,WANG Liqin,BOLL Timo,4,1,"11,11,6,11,11|7,8,11,7,9",QF,OTHER,MS,1891,Main Draw,WANG Liqin (CHN),BOLL Timo (GER),WANG Liqin
+Tournament of Champions Changcha 2007,2007-12-21,WANG Hao,SAMSONOV Vladimir,4,3,"12,14,11,4,11,6,11|14,12,6,11,9,11,6",SF,OTHER,MS,1891,Main Draw,WANG Hao (CHN),SAMSONOV Vladimir (BLR),WANG Hao
+Tournament of Champions Changcha 2007,2007-12-21,MA Lin,WANG Liqin,4,2,"11,11,7,11,9,11|7,6,11,9,11,3",SF,OTHER,MS,1891,Main Draw,MA Lin (CHN),WANG Liqin (CHN),MA Lin
+Tournament of Champions Changcha 2007,2007-12-21,WANG Hao,MA Lin,4,2,"11,9,11,11,11,11|7,11,8,7,13,6",F,OTHER,MS,1891,Main Draw,WANG Hao (CHN),MA Lin (CHN),WANG Hao
+Tournament of Champions Changcha 2007,2007-12-21,GUO Yue,FUKUHARA Ai,4,0,"11,11,11,11|6,7,3,6",QF,OTHER,WS,1891,Main Draw,GUO Yue (CHN),FUKUHARA Ai (JPN),GUO Yue
+Tournament of Champions Changcha 2007,2007-12-21,LI Xiaoxia,BOROS Tamara,4,1,"9,11,11,11,12|11,8,5,7,10",QF,OTHER,WS,1891,Main Draw,LI Xiaoxia (CHN),BOROS Tamara (CRO),LI Xiaoxia
+Tournament of Champions Changcha 2007,2007-12-21,WANG Yuegu,LI Jiawei,4,2,"11,12,5,14,13,11|4,14,11,12,11,7",QF,OTHER,WS,1891,Main Draw,WANG Yuegu (SGP),LI Jiawei (SGP),WANG Yuegu
+Tournament of Champions Changcha 2007,2007-12-21,WANG Nan,JIANG Huajun,4,2,"11,11,8,11,4,11|7,8,11,9,11,8",QF,OTHER,WS,1891,Main Draw,WANG Nan (CHN),JIANG Huajun (HKG),WANG Nan
+Tournament of Champions Changcha 2007,2007-12-21,LI Xiaoxia,GUO Yue,4,1,"8,16,11,11,11|11,14,7,3,5",SF,OTHER,WS,1891,Main Draw,LI Xiaoxia (CHN),GUO Yue (CHN),LI Xiaoxia
+Tournament of Champions Changcha 2007,2007-12-21,WANG Nan,WANG Yuegu,4,1,"11,11,11,10,11|3,5,5,12,5",SF,OTHER,WS,1891,Main Draw,WANG Nan (CHN),WANG Yuegu (SGP),WANG Nan
+Tournament of Champions Changcha 2007,2007-12-21,WANG Nan,LI Xiaoxia,4,3,"11,9,12,11,6,6,11|5,11,10,6,11,11,9",F,OTHER,WS,1891,Main Draw,WANG Nan (CHN),LI Xiaoxia (CHN),WANG Nan

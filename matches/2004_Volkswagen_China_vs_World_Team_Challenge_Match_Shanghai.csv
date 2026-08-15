@@ -1,11 +1,11 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Volkswagen China vs. World Team Challenge Match Shanghai 2004,2004-12-14,JOO Saehyuk,MA Long,3,1,"11,12,11,11|8,14,6,8",,WTT_FEEDER,MT,1928,Main Draw,JOO Saehyuk (KOR),MA Long (CHN)
-Volkswagen China vs. World Team Challenge Match Shanghai 2004,2004-12-14,XU Xin,SAMSONOV Vladimir,3,1,"8,15,11,11|11,13,6,9",,WTT_FEEDER,MT,1928,Main Draw,XU Xin (CHN),SAMSONOV Vladimir (BLR)
-Volkswagen China vs. World Team Challenge Match Shanghai 2004,2004-12-14,WANG Liqin,MATSUDAIRA Kenta,3,2,"9,11,11,6,11|11,5,7,11,9",,WTT_FEEDER,MT,1928,Main Draw,WANG Liqin (CHN),MATSUDAIRA Kenta (JPN)
-Volkswagen China vs. World Team Challenge Match Shanghai 2004,2004-12-14,MA Long,SAMSONOV Vladimir,3,0,"11,13,11|9,11,6",,WTT_FEEDER,MT,1928,Main Draw,MA Long (CHN),SAMSONOV Vladimir (BLR)
-Volkswagen China vs. World Team Challenge Match Shanghai 2004,2004-12-14,XU Xin,JOO Saehyuk,3,1,"9,11,11,11|11,9,5,5",,WTT_FEEDER,MT,1928,Main Draw,XU Xin (CHN),JOO Saehyuk (KOR)
-Volkswagen China vs. World Team Challenge Match Shanghai 2004,2004-12-14,LIU Shiwen,KIM Kyungah,3,0,"11,11,11|8,5,5",,WTT_FEEDER,WT,1928,Main Draw,LIU Shiwen (CHN),KIM Kyungah (KOR)
-Volkswagen China vs. World Team Challenge Match Shanghai 2004,2004-12-14,DING Ning,FENG Tianwei,3,1,"11,11,9,11|6,9,11,2",,WTT_FEEDER,WT,1928,Main Draw,DING Ning (CHN),FENG Tianwei (SGP)
-Volkswagen China vs. World Team Challenge Match Shanghai 2004,2004-12-14,LI Xiaoxia,DODEAN Daniela,3,0,"13,11,11|11,6,4",,WTT_FEEDER,WT,1928,Main Draw,LI Xiaoxia (CHN),DODEAN Daniela (ROU)
-Volkswagen China vs. World Team Challenge Match Shanghai 2004,2004-12-14,LIU Shiwen,FENG Tianwei,3,0,"11,11,11|7,8,4",,WTT_FEEDER,WT,1928,Main Draw,LIU Shiwen (CHN),FENG Tianwei (SGP)
-Volkswagen China vs. World Team Challenge Match Shanghai 2004,2004-12-14,KIM Kyungah,DING Ning,3,2,"8,11,12,11,11|11,13,10,5,9",,WTT_FEEDER,WT,1928,Main Draw,KIM Kyungah (KOR),DING Ning (CHN)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Volkswagen China vs. World Team Challenge Match Shanghai 2004,2004-12-14,JOO Saehyuk,MA Long,3,1,"11,12,11,11|8,14,6,8",,WTT_FEEDER,MT,1928,Main Draw,JOO Saehyuk (KOR),MA Long (CHN),JOO Saehyuk
+Volkswagen China vs. World Team Challenge Match Shanghai 2004,2004-12-14,XU Xin,SAMSONOV Vladimir,3,1,"8,15,11,11|11,13,6,9",,WTT_FEEDER,MT,1928,Main Draw,XU Xin (CHN),SAMSONOV Vladimir (BLR),XU Xin
+Volkswagen China vs. World Team Challenge Match Shanghai 2004,2004-12-14,WANG Liqin,MATSUDAIRA Kenta,3,2,"9,11,11,6,11|11,5,7,11,9",,WTT_FEEDER,MT,1928,Main Draw,WANG Liqin (CHN),MATSUDAIRA Kenta (JPN),WANG Liqin
+Volkswagen China vs. World Team Challenge Match Shanghai 2004,2004-12-14,MA Long,SAMSONOV Vladimir,3,0,"11,13,11|9,11,6",,WTT_FEEDER,MT,1928,Main Draw,MA Long (CHN),SAMSONOV Vladimir (BLR),MA Long
+Volkswagen China vs. World Team Challenge Match Shanghai 2004,2004-12-14,XU Xin,JOO Saehyuk,3,1,"9,11,11,11|11,9,5,5",,WTT_FEEDER,MT,1928,Main Draw,XU Xin (CHN),JOO Saehyuk (KOR),XU Xin
+Volkswagen China vs. World Team Challenge Match Shanghai 2004,2004-12-14,LIU Shiwen,KIM Kyungah,3,0,"11,11,11|8,5,5",,WTT_FEEDER,WT,1928,Main Draw,LIU Shiwen (CHN),KIM Kyungah (KOR),LIU Shiwen
+Volkswagen China vs. World Team Challenge Match Shanghai 2004,2004-12-14,DING Ning,FENG Tianwei,3,1,"11,11,9,11|6,9,11,2",,WTT_FEEDER,WT,1928,Main Draw,DING Ning (CHN),FENG Tianwei (SGP),DING Ning
+Volkswagen China vs. World Team Challenge Match Shanghai 2004,2004-12-14,LI Xiaoxia,DODEAN Daniela,3,0,"13,11,11|11,6,4",,WTT_FEEDER,WT,1928,Main Draw,LI Xiaoxia (CHN),DODEAN Daniela (ROU),LI Xiaoxia
+Volkswagen China vs. World Team Challenge Match Shanghai 2004,2004-12-14,LIU Shiwen,FENG Tianwei,3,0,"11,11,11|7,8,4",,WTT_FEEDER,WT,1928,Main Draw,LIU Shiwen (CHN),FENG Tianwei (SGP),LIU Shiwen
+Volkswagen China vs. World Team Challenge Match Shanghai 2004,2004-12-14,KIM Kyungah,DING Ning,3,2,"8,11,12,11,11|11,13,10,5,9",,WTT_FEEDER,WT,1928,Main Draw,KIM Kyungah (KOR),DING Ning (CHN),KIM Kyungah

@@ -1,406 +1,406 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Chile Open Santiago 2006,2006-06-28,BRIZUELA Hernan,BRAVO Sergio,4,2,"8,11,12,11,11,11|11,2,14,6,9,6",,GRAND_SLAM,MS,1789,Qualification,BRIZUELA Hernan (ARG),BRAVO Sergio (CHI)
-Chile Open Santiago 2006,2006-06-28,APOLONIA Tiago,BRAVO Sergio,4,0,"11,11,11,11|6,6,5,9",QR2,GRAND_SLAM,MS,1789,Qualification,APOLONIA Tiago (POR),BRAVO Sergio (CHI)
-Chile Open Santiago 2006,2006-06-28,APOLONIA Tiago,BRIZUELA Hernan,4,1,"8,12,11,11,11|11,10,5,4,4",3,GRAND_SLAM,MS,1789,Qualification,APOLONIA Tiago (POR),BRIZUELA Hernan (ARG)
-Chile Open Santiago 2006,2006-06-28,BUSTOS Cristian,GRECO Juan,4,0,"11,11,11,11|6,6,4,7",,GRAND_SLAM,MS,1789,Qualification,BUSTOS Cristian (CHI),GRECO Juan (ARG)
-Chile Open Santiago 2006,2006-06-28,MATSUMOTO Cazuo,BUSTOS Cristian,4,0,"11,11,11,11|6,3,4,5",QR2,GRAND_SLAM,MS,1789,Qualification,MATSUMOTO Cazuo (BRA),BUSTOS Cristian (CHI)
-Chile Open Santiago 2006,2006-06-28,MATSUMOTO Cazuo,GRECO Juan,4,0,"11,11,11,11|1,2,6,3",3,GRAND_SLAM,MS,1789,Qualification,MATSUMOTO Cazuo (BRA),GRECO Juan (ARG)
-Chile Open Santiago 2006,2006-06-28,MARTINEZ Rodrigo,MOAVRO Sebastian,4,0,"11,11,11,11|8,8,6,8",,GRAND_SLAM,MS,1789,Qualification,MARTINEZ Rodrigo (CHI),MOAVRO Sebastian (ARG)
-Chile Open Santiago 2006,2006-06-28,MACHADO Carlos,MARTINEZ Rodrigo,4,0,"12,11,11,11|10,9,5,3",QR2,GRAND_SLAM,MS,1789,Qualification,MACHADO Carlos (ESP),MARTINEZ Rodrigo (CHI)
-Chile Open Santiago 2006,2006-06-28,MACHADO Carlos,MOAVRO Sebastian,4,0,"11,11,11,11|2,4,6,4",3,GRAND_SLAM,MS,1789,Qualification,MACHADO Carlos (ESP),MOAVRO Sebastian (ARG)
-Chile Open Santiago 2006,2006-06-28,SZENFELD Jorge,ROSENFELD Federico,4,1,"10,11,13,11,11|12,6,11,5,5",,GRAND_SLAM,MS,1789,Qualification,SZENFELD Jorge (CHI),ROSENFELD Federico (ARG)
-Chile Open Santiago 2006,2006-06-28,DURAN Marc,ROSENFELD Federico,4,0,"11,11,11,11|5,3,6,5",QR2,GRAND_SLAM,MS,1789,Qualification,DURAN Marc (ESP),ROSENFELD Federico (ARG)
-Chile Open Santiago 2006,2006-06-28,DURAN Marc,SZENFELD Jorge,4,0,"11,11,11,11|0,8,8,9",3,GRAND_SLAM,MS,1789,Qualification,DURAN Marc (ESP),SZENFELD Jorge (CHI)
-Chile Open Santiago 2006,2006-06-28,CONTRERAS Matias,TASSARA Fernando,4,3,"9,6,11,11,7,11,11|11,11,7,6,11,5,6",,GRAND_SLAM,MS,1789,Qualification,CONTRERAS Matias (CHI),TASSARA Fernando (ARG)
-Chile Open Santiago 2006,2006-06-28,KONGSGAARD Christian,TASSARA Fernando,4,1,"11,14,11,8,11|7,12,6,11,6",QR2,GRAND_SLAM,MS,1789,Qualification,KONGSGAARD Christian (DEN),TASSARA Fernando (ARG)
-Chile Open Santiago 2006,2006-06-28,KONGSGAARD Christian,CONTRERAS Matias,4,0,"11,11,11,11|2,8,8,7",3,GRAND_SLAM,MS,1789,Qualification,KONGSGAARD Christian (DEN),CONTRERAS Matias (CHI)
-Chile Open Santiago 2006,2006-06-28,FLORES Jose Manuel,BERMUDEZ Marcos,4,0,,,GRAND_SLAM,MS,1789,Qualification,FLORES Jose Manuel (CHI),BERMUDEZ Marcos (ECU)
-Chile Open Santiago 2006,2006-06-28,ZUBCIC Tomislav,BERMUDEZ Marcos,4,0,,QR2,GRAND_SLAM,MS,1789,Qualification,ZUBCIC Tomislav (CRO),BERMUDEZ Marcos (ECU)
-Chile Open Santiago 2006,2006-06-28,ZUBCIC Tomislav,FLORES Jose Manuel,4,0,"11,11,11,11|7,7,9,7",3,GRAND_SLAM,MS,1789,Qualification,ZUBCIC Tomislav (CRO),FLORES Jose Manuel (CHI)
-Chile Open Santiago 2006,2006-06-28,OLIVARES Felipe,ABBASI MWINYI Mohamed,4,0,,,GRAND_SLAM,MS,1789,Qualification,OLIVARES Felipe (CHI),ABBASI MWINYI Mohamed (TAN)
-Chile Open Santiago 2006,2006-06-28,ROY Soumyadeep,ABBASI MWINYI Mohamed,4,0,,QR2,GRAND_SLAM,MS,1789,Qualification,ROY Soumyadeep (IND),ABBASI MWINYI Mohamed (TAN)
-Chile Open Santiago 2006,2006-06-28,ROY Soumyadeep,OLIVARES Felipe,4,2,"4,7,11,11,11,11|11,11,3,5,8,4",3,GRAND_SLAM,MS,1789,Qualification,ROY Soumyadeep (IND),OLIVARES Felipe (CHI)
-Chile Open Santiago 2006,2006-06-28,RODRIGUEZ Alejandro,MOSHAMED OMARY Yassini,4,0,,,GRAND_SLAM,MS,1789,Qualification,RODRIGUEZ Alejandro (CHI),MOSHAMED OMARY Yassini (TAN)
-Chile Open Santiago 2006,2006-06-28,KONECNY Tomas,MOSHAMED OMARY Yassini,4,0,,QR2,GRAND_SLAM,MS,1789,Qualification,KONECNY Tomas (CZE),MOSHAMED OMARY Yassini (TAN)
-Chile Open Santiago 2006,2006-06-28,KONECNY Tomas,RODRIGUEZ Alejandro,4,0,"11,11,11,12|5,4,4,10",3,GRAND_SLAM,MS,1789,Qualification,KONECNY Tomas (CZE),RODRIGUEZ Alejandro (CHI)
-Chile Open Santiago 2006,2006-06-28,NILO Felipe,SALUM JABIR Saleh,4,0,,,GRAND_SLAM,MS,1789,Qualification,NILO Felipe (CHI),SALUM JABIR Saleh (TAN)
-Chile Open Santiago 2006,2006-06-28,DESPRES Rodolphe,SALUM JABIR Saleh,4,0,,QR2,GRAND_SLAM,MS,1789,Qualification,DESPRES Rodolphe (FRA),SALUM JABIR Saleh (TAN)
-Chile Open Santiago 2006,2006-06-28,DESPRES Rodolphe,NILO Felipe,4,2,"11,6,11,15,11,11|7,11,4,17,7,6",3,GRAND_SLAM,MS,1789,Qualification,DESPRES Rodolphe (FRA),NILO Felipe (CHI)
-Chile Open Santiago 2006,2006-06-28,GAETE Pablo,SHAIB HAMAD Humuod,4,0,,,GRAND_SLAM,MS,1789,Qualification,GAETE Pablo (CHI),SHAIB HAMAD Humuod (TAN)
-Chile Open Santiago 2006,2006-06-28,VOSTES Yannick,SHAIB HAMAD Humuod,4,0,,QR2,GRAND_SLAM,MS,1789,Qualification,VOSTES Yannick (BEL),SHAIB HAMAD Humuod (TAN)
-Chile Open Santiago 2006,2006-06-28,VOSTES Yannick,GAETE Pablo,4,0,"11,11,11,11|6,6,7,7",3,GRAND_SLAM,MS,1789,Qualification,VOSTES Yannick (BEL),GAETE Pablo (CHI)
-Chile Open Santiago 2006,2006-06-28,CORSINI Marcelo,FLORES Patricio,4,1,"7,11,13,11,12|11,2,11,9,10",,GRAND_SLAM,MS,1789,Qualification,CORSINI Marcelo (BRA),FLORES Patricio (CHI)
-Chile Open Santiago 2006,2006-06-28,TABACHNIK Pablo,CORSINI Marcelo,4,1,"11,9,11,11,11|7,11,5,6,7",QR2,GRAND_SLAM,MS,1789,Qualification,TABACHNIK Pablo (ARG),CORSINI Marcelo (BRA)
-Chile Open Santiago 2006,2006-06-28,TABACHNIK Pablo,FLORES Patricio,4,1,"11,11,11,6,11|5,9,6,11,6",3,GRAND_SLAM,MS,1789,Qualification,TABACHNIK Pablo (ARG),FLORES Patricio (CHI)
-Chile Open Santiago 2006,2006-06-28,HERRERA Antonio,REYES Orlando,4,2,"9,11,7,11,11,11|11,3,11,4,9,6",,GRAND_SLAM,MS,1789,Qualification,HERRERA Antonio (VEN),REYES Orlando (CHI)
-Chile Open Santiago 2006,2006-06-28,PETERSEN Christoffer,REYES Orlando,4,0,"11,11,11,11|7,7,4,7",QR2,GRAND_SLAM,MS,1789,Qualification,PETERSEN Christoffer (DEN),REYES Orlando (CHI)
-Chile Open Santiago 2006,2006-06-28,PETERSEN Christoffer,HERRERA Antonio,4,0,"11,11,11,11|8,7,5,8",3,GRAND_SLAM,MS,1789,Qualification,PETERSEN Christoffer (DEN),HERRERA Antonio (VEN)
-Chile Open Santiago 2006,2006-06-28,RONDON Ely,SALAZAR Sergio,4,1,"7,11,11,11,11|11,9,1,4,8",,GRAND_SLAM,MS,1789,Qualification,RONDON Ely (VEN),SALAZAR Sergio (CHI)
-Chile Open Santiago 2006,2006-06-28,DELOBBE Damien,SALAZAR Sergio,4,0,"11,11,11,11|2,5,5,5",QR2,GRAND_SLAM,MS,1789,Qualification,DELOBBE Damien (BEL),SALAZAR Sergio (CHI)
-Chile Open Santiago 2006,2006-06-28,DELOBBE Damien,RONDON Ely,4,1,"11,11,9,11,11|3,8,11,4,5",3,GRAND_SLAM,MS,1789,Qualification,DELOBBE Damien (BEL),RONDON Ely (VEN)
-Chile Open Santiago 2006,2006-06-28,LEVIS Bruno,SAUD Jorge,4,0,"11,11,11,11|7,4,5,5",,GRAND_SLAM,MS,1789,Qualification,LEVIS Bruno (CHI),SAUD Jorge (CHI)
-Chile Open Santiago 2006,2006-06-28,NEKHVEDOVICH Vitaly,SAUD Jorge,4,0,"11,11,11,11|1,4,5,6",QR2,GRAND_SLAM,MS,1789,Qualification,NEKHVEDOVICH Vitaly (BLR),SAUD Jorge (CHI)
-Chile Open Santiago 2006,2006-06-28,NEKHVEDOVICH Vitaly,LEVIS Bruno,4,2,"11,11,11,11,9,11|9,13,4,5,11,6",3,GRAND_SLAM,MS,1789,Qualification,NEKHVEDOVICH Vitaly (BLR),LEVIS Bruno (CHI)
-Chile Open Santiago 2006,2006-06-28,TOLEDO Marcelo,COELLO Geovanny,4,2,"8,11,6,11,11,11|11,8,11,7,5,6",,GRAND_SLAM,MS,1789,Qualification,TOLEDO Marcelo (CHI),COELLO Geovanny (ECU)
-Chile Open Santiago 2006,2006-06-28,SAHA Subhajit,TOLEDO Marcelo,4,0,"11,11,12,11|4,6,10,8",QR2,GRAND_SLAM,MS,1789,Qualification,SAHA Subhajit (IND),TOLEDO Marcelo (CHI)
-Chile Open Santiago 2006,2006-06-28,SAHA Subhajit,COELLO Geovanny,4,0,"14,11,11,11|12,7,7,8",3,GRAND_SLAM,MS,1789,Qualification,SAHA Subhajit (IND),COELLO Geovanny (ECU)
-Chile Open Santiago 2006,2006-06-28,UBILLA Nicolas,TOVAR Alexis,4,0,,,GRAND_SLAM,MS,1789,Qualification,UBILLA Nicolas (CHI),TOVAR Alexis (VEN)
-Chile Open Santiago 2006,2006-06-28,LEBESSON Emmanuel,TOVAR Alexis,4,0,,QR2,GRAND_SLAM,MS,1789,Qualification,LEBESSON Emmanuel (FRA),TOVAR Alexis (VEN)
-Chile Open Santiago 2006,2006-06-28,LEBESSON Emmanuel,UBILLA Nicolas,4,0,"11,12,13,11|4,10,11,5",3,GRAND_SLAM,MS,1789,Qualification,LEBESSON Emmanuel (FRA),UBILLA Nicolas (CHI)
-Chile Open Santiago 2006,2006-06-28,OLEA Carlos,HERNANDEZ Paul,4,0,,,GRAND_SLAM,MS,1789,Qualification,OLEA Carlos (CHI),HERNANDEZ Paul (ECU)
-Chile Open Santiago 2006,2006-06-28,GACINA Andrej,HERNANDEZ Paul,4,0,,QR2,GRAND_SLAM,MS,1789,Qualification,GACINA Andrej (CRO),HERNANDEZ Paul (ECU)
-Chile Open Santiago 2006,2006-06-28,GACINA Andrej,OLEA Carlos,4,2,"11,9,11,8,11,11|8,11,8,11,6,5",3,GRAND_SLAM,MS,1789,Qualification,GACINA Andrej (CRO),OLEA Carlos (CHI)
-Chile Open Santiago 2006,2006-06-28,GONZALES Rudy,AGUIRRE Marcelo,4,3,"11,11,2,11,10,10,11|3,8,11,6,12,12,9",,GRAND_SLAM,MS,1789,Qualification,GONZALES Rudy (CHI),AGUIRRE Marcelo (PAR)
-Chile Open Santiago 2006,2006-06-28,TOMASI Stefano,AGUIRRE Marcelo,4,0,"11,11,11,11|6,5,9,7",QR2,GRAND_SLAM,MS,1789,Qualification,TOMASI Stefano (ITA),AGUIRRE Marcelo (PAR)
-Chile Open Santiago 2006,2006-06-28,TOMASI Stefano,GONZALES Rudy,4,0,"11,11,11,11|2,5,6,7",3,GRAND_SLAM,MS,1789,Qualification,TOMASI Stefano (ITA),GONZALES Rudy (CHI)
-Chile Open Santiago 2006,2006-06-28,HINSE Pierre-Luc,CONCHA Fernando,4,0,"11,11,11,11|6,7,7,7",,GRAND_SLAM,MS,1789,Qualification,HINSE Pierre-Luc (CAN),CONCHA Fernando (CHI)
-Chile Open Santiago 2006,2006-06-28,MAECK Anthony,CONCHA Fernando,4,2,"11,8,9,11,15,11|5,11,11,4,13,9",QR2,GRAND_SLAM,MS,1789,Qualification,MAECK Anthony (BEL),CONCHA Fernando (CHI)
-Chile Open Santiago 2006,2006-06-28,MAECK Anthony,HINSE Pierre-Luc,4,1,"11,11,11,4,11|2,7,7,11,9",3,GRAND_SLAM,MS,1789,Qualification,MAECK Anthony (BEL),HINSE Pierre-Luc (CAN)
-Chile Open Santiago 2006,2006-06-28,THERIEN Xavier,CONTRERAS Felipe,4,0,"11,11,11,11|8,8,5,7",,GRAND_SLAM,MS,1789,Qualification,THERIEN Xavier (CAN),CONTRERAS Felipe (CHI)
-Chile Open Santiago 2006,2006-06-28,VENTURA DOS ANJOS Bruno,CONTRERAS Felipe,4,3,"8,10,11,5,11,11,11|11,12,7,11,3,8,5",QR2,GRAND_SLAM,MS,1789,Qualification,VENTURA DOS ANJOS Bruno (BRA),CONTRERAS Felipe (CHI)
-Chile Open Santiago 2006,2006-06-28,VENTURA DOS ANJOS Bruno,THERIEN Xavier,4,1,"11,9,12,11,11|8,11,10,7,9",3,GRAND_SLAM,MS,1789,Qualification,VENTURA DOS ANJOS Bruno (BRA),THERIEN Xavier (CAN)
-Chile Open Santiago 2006,2006-06-28,SHEN Qiang,DONAIRE Eduardo,4,0,"11,11,11,11|5,1,5,3",,GRAND_SLAM,MS,1789,Qualification,SHEN Qiang (CAN),DONAIRE Eduardo (CHI)
-Chile Open Santiago 2006,2006-06-28,KUCHUK Aleksandr,DONAIRE Eduardo,4,0,"14,11,11,11|12,4,7,7",QR2,GRAND_SLAM,MS,1789,Qualification,KUCHUK Aleksandr (BLR),DONAIRE Eduardo (CHI)
-Chile Open Santiago 2006,2006-06-28,KUCHUK Aleksandr,SHEN Qiang,4,1,"11,11,9,11,11|8,2,11,4,7",3,GRAND_SLAM,MS,1789,Qualification,KUCHUK Aleksandr (BLR),SHEN Qiang (CAN)
-Chile Open Santiago 2006,2006-06-28,ZOMBORI David,FERNANDEZ Marcelo,4,0,"11,11,11,11|6,7,5,6",,GRAND_SLAM,MS,1789,Qualification,ZOMBORI David (HUN),FERNANDEZ Marcelo (CHI)
-Chile Open Santiago 2006,2006-06-28,CROTTI Mattia,FERNANDEZ Marcelo,4,0,"11,11,11,11|5,6,5,6",QR2,GRAND_SLAM,MS,1789,Qualification,CROTTI Mattia (ITA),FERNANDEZ Marcelo (CHI)
-Chile Open Santiago 2006,2006-06-28,ZOMBORI David,CROTTI Mattia,4,2,"11,11,12,11,7,11|13,4,10,4,11,6",3,GRAND_SLAM,MS,1789,Qualification,ZOMBORI David (HUN),CROTTI Mattia (ITA)
-Chile Open Santiago 2006,2006-06-28,MOLNAR Csaba,CAMPUSANO Guillermo,4,1,"11,11,11,9,11|9,6,9,11,5",,GRAND_SLAM,MS,1789,Qualification,MOLNAR Csaba (HUN),CAMPUSANO Guillermo (CHI)
-Chile Open Santiago 2006,2006-06-28,ANGEL Felipe,MEHTA Pathik,4,0,,QR2,GRAND_SLAM,MS,1789,Qualification,ANGEL Felipe (CHI),MEHTA Pathik (IND)
-Chile Open Santiago 2006,2006-06-28,MOLNAR Csaba,ANGEL Felipe,4,2,"11,11,11,5,8,11|7,5,9,11,11,7",3,GRAND_SLAM,MS,1789,Qualification,MOLNAR Csaba (HUN),ANGEL Felipe (CHI)
-Chile Open Santiago 2006,2006-06-28,CAMPUSANO Guillermo,MEHTA Pathik,4,0,,QR4,GRAND_SLAM,MS,1789,Qualification,CAMPUSANO Guillermo (CHI),MEHTA Pathik (IND)
-Chile Open Santiago 2006,2006-06-28,CAMPUSANO Guillermo,ANGEL Felipe,4,1,"11,8,11,11,13|8,11,3,7,11",5,GRAND_SLAM,MS,1789,Qualification,CAMPUSANO Guillermo (CHI),ANGEL Felipe (CHI)
-Chile Open Santiago 2006,2006-06-28,MOLNAR Csaba,MEHTA Pathik,4,0,,6,GRAND_SLAM,MS,1789,Qualification,MOLNAR Csaba (HUN),MEHTA Pathik (IND)
-Chile Open Santiago 2006,2006-06-28,MOAVRO Sebastian,OLIVARES Felipe,3,1,"9,11,11,11|11,9,9,9",,GRAND_SLAM,U21MS,1789,Qualification,MOAVRO Sebastian (ARG),OLIVARES Felipe (CHI)
-Chile Open Santiago 2006,2006-06-28,VOSTES Yannick,MOAVRO Sebastian,3,0,"11,11,11|5,6,5",QR2,GRAND_SLAM,U21MS,1789,Qualification,VOSTES Yannick (BEL),MOAVRO Sebastian (ARG)
-Chile Open Santiago 2006,2006-06-28,VOSTES Yannick,OLIVARES Felipe,3,0,"11,11,11|2,6,5",3,GRAND_SLAM,U21MS,1789,Qualification,VOSTES Yannick (BEL),OLIVARES Felipe (CHI)
-Chile Open Santiago 2006,2006-06-28,NILO Felipe,CARRASCO Cristian,3,2,"11,11,11,9,13|5,13,7,11,11",,GRAND_SLAM,U21MS,1789,Qualification,NILO Felipe (CHI),CARRASCO Cristian (CHI)
-Chile Open Santiago 2006,2006-06-28,LEBESSON Emmanuel,CARRASCO Cristian,3,0,"11,11,11|0,1,5",QR2,GRAND_SLAM,U21MS,1789,Qualification,LEBESSON Emmanuel (FRA),CARRASCO Cristian (CHI)
-Chile Open Santiago 2006,2006-06-28,LEBESSON Emmanuel,NILO Felipe,3,0,"11,11,11|9,4,4",3,GRAND_SLAM,U21MS,1789,Qualification,LEBESSON Emmanuel (FRA),NILO Felipe (CHI)
-Chile Open Santiago 2006,2006-06-28,GAETE Pablo,GONZALEZ Felipe,3,1,"11,8,11,11|4,11,8,4",,GRAND_SLAM,U21MS,1789,Qualification,GAETE Pablo (CHI),GONZALEZ Felipe (CHI)
-Chile Open Santiago 2006,2006-06-28,GACINA Andrej,GONZALEZ Felipe,3,0,"11,11,11|4,9,4",QR2,GRAND_SLAM,U21MS,1789,Qualification,GACINA Andrej (CRO),GONZALEZ Felipe (CHI)
-Chile Open Santiago 2006,2006-06-28,GACINA Andrej,GAETE Pablo,3,0,"11,12,11|5,10,8",3,GRAND_SLAM,U21MS,1789,Qualification,GACINA Andrej (CRO),GAETE Pablo (CHI)
-Chile Open Santiago 2006,2006-06-28,FLORES Patricio,PONCE Max,3,1,"11,11,6,11|5,8,11,8",,GRAND_SLAM,U21MS,1789,Qualification,FLORES Patricio (CHI),PONCE Max (CHI)
-Chile Open Santiago 2006,2006-06-28,KUCHUK Aleksandr,PONCE Max,3,0,"11,11,12|4,4,10",QR2,GRAND_SLAM,U21MS,1789,Qualification,KUCHUK Aleksandr (BLR),PONCE Max (CHI)
-Chile Open Santiago 2006,2006-06-28,KUCHUK Aleksandr,FLORES Patricio,3,0,"11,11,11|8,8,1",3,GRAND_SLAM,U21MS,1789,Qualification,KUCHUK Aleksandr (BLR),FLORES Patricio (CHI)
-Chile Open Santiago 2006,2006-06-28,LEVIS Bruno,TOVAR Alexis,3,0,,,GRAND_SLAM,U21MS,1789,Qualification,LEVIS Bruno (CHI),TOVAR Alexis (VEN)
-Chile Open Santiago 2006,2006-06-28,LEVIS Bruno,MEHTA Pathik,3,0,,3,GRAND_SLAM,U21MS,1789,Qualification,LEVIS Bruno (CHI),MEHTA Pathik (IND)
-Chile Open Santiago 2006,2006-06-28,UBILLA Nicolas,AGUIRRE Marcelo,3,0,"11,11,11|8,4,6",,GRAND_SLAM,U21MS,1789,Qualification,UBILLA Nicolas (CHI),AGUIRRE Marcelo (PAR)
-Chile Open Santiago 2006,2006-06-28,MOLNAR Csaba,AGUIRRE Marcelo,3,2,"6,11,11,8,11|11,7,5,11,5",QR2,GRAND_SLAM,U21MS,1789,Qualification,MOLNAR Csaba (HUN),AGUIRRE Marcelo (PAR)
-Chile Open Santiago 2006,2006-06-28,MOLNAR Csaba,UBILLA Nicolas,3,0,"11,11,11|7,6,7",3,GRAND_SLAM,U21MS,1789,Qualification,MOLNAR Csaba (HUN),UBILLA Nicolas (CHI)
-Chile Open Santiago 2006,2006-06-28,HINSE Pierre-Luc,ZAPATA Marcelo,3,0,"11,11,13|8,7,11",,GRAND_SLAM,U21MS,1789,Qualification,HINSE Pierre-Luc (CAN),ZAPATA Marcelo (CHI)
-Chile Open Santiago 2006,2006-06-28,ZOMBORI David,ZAPATA Marcelo,3,1,"7,11,11,11|11,1,6,7",QR2,GRAND_SLAM,U21MS,1789,Qualification,ZOMBORI David (HUN),ZAPATA Marcelo (CHI)
-Chile Open Santiago 2006,2006-06-28,ZOMBORI David,HINSE Pierre-Luc,3,1,"11,11,9,11|5,8,11,4",3,GRAND_SLAM,U21MS,1789,Qualification,ZOMBORI David (HUN),HINSE Pierre-Luc (CAN)
-Chile Open Santiago 2006,2006-06-28,OLEA Carlos,MUNIZAGA Rodrigo,3,0,"11,11,11|9,2,6",,GRAND_SLAM,U21MS,1789,Qualification,OLEA Carlos (CHI),MUNIZAGA Rodrigo (CHI)
-Chile Open Santiago 2006,2006-06-28,SHEN Qiang,MUNIZAGA Rodrigo,3,0,"11,11,11|5,6,5",QR2,GRAND_SLAM,U21MS,1789,Qualification,SHEN Qiang (CAN),MUNIZAGA Rodrigo (CHI)
-Chile Open Santiago 2006,2006-06-28,OLEA Carlos,SHEN Qiang,3,2,"9,11,11,8,11|11,8,8,11,7",3,GRAND_SLAM,U21MS,1789,Qualification,OLEA Carlos (CHI),SHEN Qiang (CAN)
-Chile Open Santiago 2006,2006-06-28,SAMSONOV Vladimir,CORSINI Marcelo,4,0,"11,11,11,11|2,5,4,4",R64,GRAND_SLAM,MS,1789,Main Draw,SAMSONOV Vladimir (BLR),CORSINI Marcelo (BRA)
-Chile Open Santiago 2006,2006-06-28,ZWICKL Daniel,DELOBBE Damien,4,2,"11,9,11,12,11,11|13,11,3,10,7,3",R64,GRAND_SLAM,MS,1789,Main Draw,ZWICKL Daniel (HUN),DELOBBE Damien (BEL)
-Chile Open Santiago 2006,2006-06-28,DIDUKH Oleksandr,TABACHNIK Pablo,4,2,"12,11,11,8,6,11|10,5,5,11,11,4",R64,GRAND_SLAM,MS,1789,Main Draw,DIDUKH Oleksandr (UKR),TABACHNIK Pablo (ARG)
-Chile Open Santiago 2006,2006-06-28,KEINATH Thomas,DURAN Marc,4,2,"17,9,11,11,12,11|19,11,8,6,10,7",R64,GRAND_SLAM,MS,1789,Main Draw,KEINATH Thomas (SVK),DURAN Marc (ESP)
-Chile Open Santiago 2006,2006-06-28,CHO Jihoon,NILO Felipe,4,0,"11,11,11,14|8,6,4,12",R64,GRAND_SLAM,MS,1789,Main Draw,CHO Jihoon (KOR),NILO Felipe (CHI)
-Chile Open Santiago 2006,2006-06-28,KIM Taehoon,MACHADO Carlos,4,0,"11,11,11,11|5,8,9,9",R64,GRAND_SLAM,MS,1789,Main Draw,KIM Taehoon (KOR),MACHADO Carlos (ESP)
-Chile Open Santiago 2006,2006-06-28,LEE Jinkwon,KONGSGAARD Christian,4,3,"11,12,6,11,11,10,11|7,14,11,7,5,12,7",R64,GRAND_SLAM,MS,1789,Main Draw,LEE Jinkwon (KOR),KONGSGAARD Christian (DEN)
-Chile Open Santiago 2006,2006-06-28,LEGOUT Christophe,CONTRERAS Matias,4,0,"11,11,12,11|5,6,10,7",R64,GRAND_SLAM,MS,1789,Main Draw,LEGOUT Christophe (FRA),CONTRERAS Matias (CHI)
-Chile Open Santiago 2006,2006-06-28,SEREDA Peter,SHEN Qiang,4,0,"11,11,12,12|4,5,10,10",R64,GRAND_SLAM,MS,1789,Main Draw,SEREDA Peter (SVK),SHEN Qiang (CAN)
-Chile Open Santiago 2006,2006-06-28,BERTIN Christophe,VENTURA DOS ANJOS Bruno,4,2,"11,9,11,11,10,12|7,11,5,6,12,10",R64,GRAND_SLAM,MS,1789,Main Draw,BERTIN Christophe (FRA),VENTURA DOS ANJOS Bruno (BRA)
-Chile Open Santiago 2006,2006-06-28,TAKAKIWA Kenichi,ZUBCIC Tomislav,4,0,"11,11,11,11|9,5,3,6",R64,GRAND_SLAM,MS,1789,Main Draw,TAKAKIWA Kenichi (JPN),ZUBCIC Tomislav (CRO)
-Chile Open Santiago 2006,2006-06-28,HOYAMA Hugo,KONECNY Tomas,4,1,"9,11,11,11,11|11,4,7,6,7",R64,GRAND_SLAM,MS,1789,Main Draw,HOYAMA Hugo (BRA),KONECNY Tomas (CZE)
-Chile Open Santiago 2006,2006-06-28,MONTEIRO Thiago,DESPRES Rodolphe,4,0,"11,13,11,11|7,11,7,6",R64,GRAND_SLAM,MS,1789,Main Draw,MONTEIRO Thiago (BRA),DESPRES Rodolphe (FRA)
-Chile Open Santiago 2006,2006-06-28,PAZSY Ferenc,KUCHUK Aleksandr,4,1,"11,11,11,11,11|13,2,7,4,9",R64,GRAND_SLAM,MS,1789,Main Draw,PAZSY Ferenc (HUN),KUCHUK Aleksandr (BLR)
-Chile Open Santiago 2006,2006-06-28,PISTEJ Lubomir,GACINA Andrej,4,3,"4,2,11,11,6,11,11|11,11,4,9,11,4,7",R64,GRAND_SLAM,MS,1789,Main Draw,PISTEJ Lubomir (SVK),GACINA Andrej (CRO)
-Chile Open Santiago 2006,2006-06-28,SAIVE Jean-Michel,OLEA Carlos,4,1,"11,11,12,9,11|6,7,10,11,6",R64,GRAND_SLAM,MS,1789,Main Draw,SAIVE Jean-Michel (BEL),OLEA Carlos (CHI)
-Chile Open Santiago 2006,2006-06-28,KORBEL Petr,UBILLA Nicolas,4,0,"11,11,11,11|3,4,5,8",R64,GRAND_SLAM,MS,1789,Main Draw,KORBEL Petr (CZE),UBILLA Nicolas (CHI)
-Chile Open Santiago 2006,2006-06-28,PETERSEN Christoffer,PAPIC Juan,4,0,"11,11,11,11|6,9,6,8",R64,GRAND_SLAM,MS,1789,Main Draw,PETERSEN Christoffer (DEN),PAPIC Juan (CHI)
-Chile Open Santiago 2006,2006-06-28,ACHANTA Sharath,ZOMBORI David,4,0,"11,11,11,11|5,4,5,5",R64,GRAND_SLAM,MS,1789,Main Draw,ACHANTA Sharath (IND),ZOMBORI David (HUN)
-Chile Open Santiago 2006,2006-06-28,APOLONIA Tiago,MONDELLO Massimiliano,4,0,,R64,GRAND_SLAM,MS,1789,Main Draw,APOLONIA Tiago (POR),MONDELLO Massimiliano (ITA)
-Chile Open Santiago 2006,2006-06-28,KLASEK Marek,ROY Soumyadeep,4,0,"11,11,11,11|4,3,7,8",R64,GRAND_SLAM,MS,1789,Main Draw,KLASEK Marek (CZE),ROY Soumyadeep (IND)
-Chile Open Santiago 2006,2006-06-28,VOSTES Yannick,JAKAB Janos,4,2,"11,10,3,11,11,11|8,12,11,3,6,7",R64,GRAND_SLAM,MS,1789,Main Draw,VOSTES Yannick (BEL),JAKAB Janos (HUN)
-Chile Open Santiago 2006,2006-06-28,MONTEIRO Joao,MATSUMOTO Cazuo,4,2,"11,11,11,9,8,11|6,2,5,11,11,3",R64,GRAND_SLAM,MS,1789,Main Draw,MONTEIRO Joao (POR),MATSUMOTO Cazuo (BRA)
-Chile Open Santiago 2006,2006-06-28,LEVIS Bruno,YOSHIDA Kaii,4,0,,R64,GRAND_SLAM,MS,1789,Main Draw,LEVIS Bruno (CHI),YOSHIDA Kaii (JPN)
-Chile Open Santiago 2006,2006-06-28,GARDOS Robert,HERRERA Antonio,4,0,"11,11,11,11|7,4,8,1",R64,GRAND_SLAM,MS,1789,Main Draw,GARDOS Robert (AUT),HERRERA Antonio (VEN)
-Chile Open Santiago 2006,2006-06-28,SAHA Subhajit,MORALES Augusto,4,0,"11,11,11,11|8,7,8,6",R64,GRAND_SLAM,MS,1789,Main Draw,SAHA Subhajit (IND),MORALES Augusto (CHI)
-Chile Open Santiago 2006,2006-06-28,ZHANG Wilson,MOLNAR Csaba,4,1,"11,10,11,11,12|9,12,8,5,10",R64,GRAND_SLAM,MS,1789,Main Draw,ZHANG Wilson (CAN),MOLNAR Csaba (HUN)
-Chile Open Santiago 2006,2006-06-28,LIU Song,TOMASI Stefano,4,0,"12,11,11,11|10,8,5,3",R64,GRAND_SLAM,MS,1789,Main Draw,LIU Song (ARG),TOMASI Stefano (ITA)
-Chile Open Santiago 2006,2006-06-28,TOKIC Bojan,LEBESSON Emmanuel,4,0,"11,11,11,11|8,5,3,6",R64,GRAND_SLAM,MS,1789,Main Draw,TOKIC Bojan (SLO),LEBESSON Emmanuel (FRA)
-Chile Open Santiago 2006,2006-06-28,VOZICKY Bohumil,MAECK Anthony,4,1,"11,11,11,10,11|7,7,3,12,5",R64,GRAND_SLAM,MS,1789,Main Draw,VOZICKY Bohumil (CZE),MAECK Anthony (BEL)
-Chile Open Santiago 2006,2006-06-28,CHO Eonrae,NEKHVEDOVICH Vitaly,4,1,"11,11,11,8,11|6,9,6,11,4",R64,GRAND_SLAM,MS,1789,Main Draw,CHO Eonrae (KOR),NEKHVEDOVICH Vitaly (BLR)
-Chile Open Santiago 2006,2006-06-28,CHEN Weixing,FLORES Jose Manuel,4,1,"11,11,12,11,11|9,3,14,3,2",R64,GRAND_SLAM,MS,1789,Main Draw,CHEN Weixing (AUT),FLORES Jose Manuel (CHI)
-Chile Open Santiago 2006,2006-06-28,SAMSONOV Vladimir,ZWICKL Daniel,4,1,"11,12,11,8,12|6,10,6,11,10",R32,GRAND_SLAM,MS,1789,Main Draw,SAMSONOV Vladimir (BLR),ZWICKL Daniel (HUN)
-Chile Open Santiago 2006,2006-06-28,DIDUKH Oleksandr,KEINATH Thomas,4,1,"11,9,11,12,11|8,11,7,10,9",R32,GRAND_SLAM,MS,1789,Main Draw,DIDUKH Oleksandr (UKR),KEINATH Thomas (SVK)
-Chile Open Santiago 2006,2006-06-28,KIM Taehoon,CHO Jihoon,4,3,"13,8,11,11,10,10,11|11,11,2,9,12,12,7",R32,GRAND_SLAM,MS,1789,Main Draw,KIM Taehoon (KOR),CHO Jihoon (KOR)
-Chile Open Santiago 2006,2006-06-28,LEE Jinkwon,LEGOUT Christophe,4,2,"8,11,3,11,11,11|11,7,11,7,2,9",R32,GRAND_SLAM,MS,1789,Main Draw,LEE Jinkwon (KOR),LEGOUT Christophe (FRA)
-Chile Open Santiago 2006,2006-06-28,SEREDA Peter,BERTIN Christophe,4,0,"11,11,11,11|5,7,2,4",R32,GRAND_SLAM,MS,1789,Main Draw,SEREDA Peter (SVK),BERTIN Christophe (FRA)
-Chile Open Santiago 2006,2006-06-28,HOYAMA Hugo,TAKAKIWA Kenichi,4,1,"12,5,11,11,11|10,11,5,6,4",R32,GRAND_SLAM,MS,1789,Main Draw,HOYAMA Hugo (BRA),TAKAKIWA Kenichi (JPN)
-Chile Open Santiago 2006,2006-06-28,PAZSY Ferenc,MONTEIRO Thiago,4,1,"11,11,8,11,11|9,8,11,6,5",R32,GRAND_SLAM,MS,1789,Main Draw,PAZSY Ferenc (HUN),MONTEIRO Thiago (BRA)
-Chile Open Santiago 2006,2006-06-28,PISTEJ Lubomir,SAIVE Jean-Michel,4,2,"6,1,11,11,11,11|11,11,8,6,8,9",R32,GRAND_SLAM,MS,1789,Main Draw,PISTEJ Lubomir (SVK),SAIVE Jean-Michel (BEL)
-Chile Open Santiago 2006,2006-06-28,KORBEL Petr,PETERSEN Christoffer,4,0,"11,11,11,11|3,8,8,9",R32,GRAND_SLAM,MS,1789,Main Draw,KORBEL Petr (CZE),PETERSEN Christoffer (DEN)
-Chile Open Santiago 2006,2006-06-28,ACHANTA Sharath,APOLONIA Tiago,4,3,"8,11,7,11,12,4,11|11,5,11,4,10,11,8",R32,GRAND_SLAM,MS,1789,Main Draw,ACHANTA Sharath (IND),APOLONIA Tiago (POR)
-Chile Open Santiago 2006,2006-06-28,KLASEK Marek,VOSTES Yannick,4,0,"11,11,11,12|8,9,4,10",R32,GRAND_SLAM,MS,1789,Main Draw,KLASEK Marek (CZE),VOSTES Yannick (BEL)
-Chile Open Santiago 2006,2006-06-28,MONTEIRO Joao,LEVIS Bruno,4,0,"11,11,11,11|5,6,8,7",R32,GRAND_SLAM,MS,1789,Main Draw,MONTEIRO Joao (POR),LEVIS Bruno (CHI)
-Chile Open Santiago 2006,2006-06-28,GARDOS Robert,SAHA Subhajit,4,0,"11,11,11,12|5,7,6,10",R32,GRAND_SLAM,MS,1789,Main Draw,GARDOS Robert (AUT),SAHA Subhajit (IND)
-Chile Open Santiago 2006,2006-06-28,ZHANG Wilson,LIU Song,4,2,"8,11,5,12,12,11|11,5,11,10,10,9",R32,GRAND_SLAM,MS,1789,Main Draw,ZHANG Wilson (CAN),LIU Song (ARG)
-Chile Open Santiago 2006,2006-06-28,TOKIC Bojan,VOZICKY Bohumil,4,2,"9,9,11,11,11,11|11,11,5,7,7,9",R32,GRAND_SLAM,MS,1789,Main Draw,TOKIC Bojan (SLO),VOZICKY Bohumil (CZE)
-Chile Open Santiago 2006,2006-06-28,CHEN Weixing,CHO Eonrae,4,1,"9,11,11,11,11|11,9,9,3,5",R32,GRAND_SLAM,MS,1789,Main Draw,CHEN Weixing (AUT),CHO Eonrae (KOR)
-Chile Open Santiago 2006,2006-06-28,SAMSONOV Vladimir,DIDUKH Oleksandr,4,1,"11,11,9,11,11|6,4,11,9,7",R16,GRAND_SLAM,MS,1789,Main Draw,SAMSONOV Vladimir (BLR),DIDUKH Oleksandr (UKR)
-Chile Open Santiago 2006,2006-06-28,LEE Jinkwon,KIM Taehoon,4,2,"11,14,12,11,10,11|9,12,14,6,12,9",R16,GRAND_SLAM,MS,1789,Main Draw,LEE Jinkwon (KOR),KIM Taehoon (KOR)
-Chile Open Santiago 2006,2006-06-28,SEREDA Peter,HOYAMA Hugo,4,1,"11,11,11,14,11|13,5,9,12,9",R16,GRAND_SLAM,MS,1789,Main Draw,SEREDA Peter (SVK),HOYAMA Hugo (BRA)
-Chile Open Santiago 2006,2006-06-28,PAZSY Ferenc,PISTEJ Lubomir,4,3,"8,7,11,11,11,2,11|11,11,8,4,9,11,3",R16,GRAND_SLAM,MS,1789,Main Draw,PAZSY Ferenc (HUN),PISTEJ Lubomir (SVK)
-Chile Open Santiago 2006,2006-06-28,KORBEL Petr,ACHANTA Sharath,4,3,"11,9,11,7,11,10,11|8,11,2,11,7,12,6",R16,GRAND_SLAM,MS,1789,Main Draw,KORBEL Petr (CZE),ACHANTA Sharath (IND)
-Chile Open Santiago 2006,2006-06-28,MONTEIRO Joao,KLASEK Marek,4,0,"11,11,11,13|3,3,8,11",R16,GRAND_SLAM,MS,1789,Main Draw,MONTEIRO Joao (POR),KLASEK Marek (CZE)
-Chile Open Santiago 2006,2006-06-28,GARDOS Robert,ZHANG Wilson,4,1,"8,11,11,11,11|11,8,8,8,8",R16,GRAND_SLAM,MS,1789,Main Draw,GARDOS Robert (AUT),ZHANG Wilson (CAN)
-Chile Open Santiago 2006,2006-06-28,CHEN Weixing,TOKIC Bojan,4,0,"11,11,11,14|2,2,9,12",R16,GRAND_SLAM,MS,1789,Main Draw,CHEN Weixing (AUT),TOKIC Bojan (SLO)
-Chile Open Santiago 2006,2006-06-28,SAMSONOV Vladimir,LEE Jinkwon,4,1,"11,13,11,8,11|3,11,5,11,6",QF,GRAND_SLAM,MS,1789,Main Draw,SAMSONOV Vladimir (BLR),LEE Jinkwon (KOR)
-Chile Open Santiago 2006,2006-06-28,SEREDA Peter,PAZSY Ferenc,4,2,"11,10,11,8,11,11|7,12,9,11,5,3",QF,GRAND_SLAM,MS,1789,Main Draw,SEREDA Peter (SVK),PAZSY Ferenc (HUN)
-Chile Open Santiago 2006,2006-06-28,MONTEIRO Joao,KORBEL Petr,4,0,"11,13,11,13|9,11,4,11",QF,GRAND_SLAM,MS,1789,Main Draw,MONTEIRO Joao (POR),KORBEL Petr (CZE)
-Chile Open Santiago 2006,2006-06-28,GARDOS Robert,CHEN Weixing,4,2,"8,11,11,7,11,11|11,4,3,11,9,7",QF,GRAND_SLAM,MS,1789,Main Draw,GARDOS Robert (AUT),CHEN Weixing (AUT)
-Chile Open Santiago 2006,2006-06-28,SAMSONOV Vladimir,SEREDA Peter,4,1,"11,11,8,11,11|5,9,11,4,8",SF,GRAND_SLAM,MS,1789,Main Draw,SAMSONOV Vladimir (BLR),SEREDA Peter (SVK)
-Chile Open Santiago 2006,2006-06-28,GARDOS Robert,MONTEIRO Joao,4,1,"11,11,14,9,11|4,3,12,11,7",SF,GRAND_SLAM,MS,1789,Main Draw,GARDOS Robert (AUT),MONTEIRO Joao (POR)
-Chile Open Santiago 2006,2006-06-28,SAMSONOV Vladimir,GARDOS Robert,4,3,"9,11,5,11,11,7,12|11,8,11,5,9,11,10",F,GRAND_SLAM,MS,1789,Main Draw,SAMSONOV Vladimir (BLR),GARDOS Robert (AUT)
-Chile Open Santiago 2006,2006-06-28,JAKAB Janos,OLEA Carlos,4,1,"11,11,7,11,11|7,4,11,8,4",R16,GRAND_SLAM,U21MS,1789,Main Draw,JAKAB Janos (HUN),OLEA Carlos (CHI)
-Chile Open Santiago 2006,2006-06-28,KONECNY Tomas,ZOMBORI David,4,1,"8,11,11,11,11|11,9,5,8,8",R16,GRAND_SLAM,U21MS,1789,Main Draw,KONECNY Tomas (CZE),ZOMBORI David (HUN)
-Chile Open Santiago 2006,2006-06-28,ZUBCIC Tomislav,MOLNAR Csaba,4,2,"11,6,11,9,11,11|7,11,8,11,5,9",R16,GRAND_SLAM,U21MS,1789,Main Draw,ZUBCIC Tomislav (CRO),MOLNAR Csaba (HUN)
-Chile Open Santiago 2006,2006-06-28,KIM Taehoon,GACINA Andrej,4,3,"4,11,11,9,13,9,11|11,8,7,11,11,11,7",R16,GRAND_SLAM,U21MS,1789,Main Draw,KIM Taehoon (KOR),GACINA Andrej (CRO)
-Chile Open Santiago 2006,2006-06-28,APOLONIA Tiago,LEVIS Bruno,4,1,"11,11,4,11,11|5,9,11,6,4",R16,GRAND_SLAM,U21MS,1789,Main Draw,APOLONIA Tiago (POR),LEVIS Bruno (CHI)
-Chile Open Santiago 2006,2006-06-28,DURAN Marc,LEBESSON Emmanuel,4,1,"12,6,11,11,11|10,11,5,9,6",R16,GRAND_SLAM,U21MS,1789,Main Draw,DURAN Marc (ESP),LEBESSON Emmanuel (FRA)
-Chile Open Santiago 2006,2006-06-28,MATSUMOTO Cazuo,VOSTES Yannick,4,1,"15,11,11,11,11|17,9,4,4,8",R16,GRAND_SLAM,U21MS,1789,Main Draw,MATSUMOTO Cazuo (BRA),VOSTES Yannick (BEL)
-Chile Open Santiago 2006,2006-06-28,LEE Jinkwon,KUCHUK Aleksandr,4,2,"6,11,7,11,11,11|11,1,11,7,3,7",R16,GRAND_SLAM,U21MS,1789,Main Draw,LEE Jinkwon (KOR),KUCHUK Aleksandr (BLR)
-Chile Open Santiago 2006,2006-06-28,JAKAB Janos,KONECNY Tomas,4,0,"11,11,11,11|6,6,7,3",QF,GRAND_SLAM,U21MS,1789,Main Draw,JAKAB Janos (HUN),KONECNY Tomas (CZE)
-Chile Open Santiago 2006,2006-06-28,KIM Taehoon,ZUBCIC Tomislav,4,0,"11,11,14,11|6,9,12,4",QF,GRAND_SLAM,U21MS,1789,Main Draw,KIM Taehoon (KOR),ZUBCIC Tomislav (CRO)
-Chile Open Santiago 2006,2006-06-28,DURAN Marc,APOLONIA Tiago,4,2,"7,6,13,11,11,11|11,11,11,8,8,7",QF,GRAND_SLAM,U21MS,1789,Main Draw,DURAN Marc (ESP),APOLONIA Tiago (POR)
-Chile Open Santiago 2006,2006-06-28,MATSUMOTO Cazuo,LEE Jinkwon,4,0,"11,11,11,11|6,9,3,7",QF,GRAND_SLAM,U21MS,1789,Main Draw,MATSUMOTO Cazuo (BRA),LEE Jinkwon (KOR)
-Chile Open Santiago 2006,2006-06-28,KIM Taehoon,JAKAB Janos,4,0,"11,18,13,11|9,16,11,4",SF,GRAND_SLAM,U21MS,1789,Main Draw,KIM Taehoon (KOR),JAKAB Janos (HUN)
-Chile Open Santiago 2006,2006-06-28,DURAN Marc,MATSUMOTO Cazuo,4,3,"8,11,11,10,3,11,11|11,2,8,12,11,9,9",SF,GRAND_SLAM,U21MS,1789,Main Draw,DURAN Marc (ESP),MATSUMOTO Cazuo (BRA)
-Chile Open Santiago 2006,2006-06-28,KIM Taehoon,DURAN Marc,4,2,"11,11,9,2,11,11|9,6,11,11,3,6",F,GRAND_SLAM,U21MS,1789,Main Draw,KIM Taehoon (KOR),DURAN Marc (ESP)
-Chile Open Santiago 2006,2006-06-28,LEE Eunsil,ZHANG Mo,4,1,"11,11,11,10,11|5,4,5,12,4",,GRAND_SLAM,WS,1789,Qualification,LEE Eunsil (KOR),ZHANG Mo (CAN)
-Chile Open Santiago 2006,2006-06-28,ZHANG Mo,GOMEZ Giovanna,4,1,"11,8,11,11,11|3,11,7,3,4",QR2,GRAND_SLAM,WS,1789,Qualification,ZHANG Mo (CAN),GOMEZ Giovanna (CHI)
-Chile Open Santiago 2006,2006-06-28,LEE Eunsil,GOMEZ Giovanna,4,0,"11,11,11,11|6,8,6,7",3,GRAND_SLAM,WS,1789,Qualification,LEE Eunsil (KOR),GOMEZ Giovanna (CHI)
-Chile Open Santiago 2006,2006-06-28,GHATAK Poulomi,LONG Judy (Zhu),4,1,"14,9,11,15,11|12,11,8,13,4",,GRAND_SLAM,WS,1789,Qualification,GHATAK Poulomi (IND),LONG Judy (Zhu) (CAN)
-Chile Open Santiago 2006,2006-06-28,GHATAK Poulomi,CONCHA Romina,4,1,"11,9,11,11,11|6,11,1,5,5",QR2,GRAND_SLAM,WS,1789,Qualification,GHATAK Poulomi (IND),CONCHA Romina (CHI)
-Chile Open Santiago 2006,2006-06-28,LONG Judy (Zhu),CONCHA Romina,4,1,"11,11,11,7,11|7,7,6,11,3",3,GRAND_SLAM,WS,1789,Qualification,LONG Judy (Zhu) (CAN),CONCHA Romina (CHI)
-Chile Open Santiago 2006,2006-06-28,YU Yunmi,DAS Mouma,4,0,,,GRAND_SLAM,WS,1789,Qualification,YU Yunmi (KOR),DAS Mouma (IND)
-Chile Open Santiago 2006,2006-06-28,DURAN Blanca,DAS Mouma,4,0,,QR2,GRAND_SLAM,WS,1789,Qualification,DURAN Blanca (CHI),DAS Mouma (IND)
-Chile Open Santiago 2006,2006-06-28,YU Yunmi,DURAN Blanca,4,1,"11,11,11,9,11|9,4,1,11,6",3,GRAND_SLAM,WS,1789,Qualification,YU Yunmi (KOR),DURAN Blanca (CHI)
-Chile Open Santiago 2006,2006-06-28,CREEMERS Linda,RODRIGUEZ Laura,4,0,"11,11,11,11|7,3,5,7",,GRAND_SLAM,WS,1789,Qualification,CREEMERS Linda (NED),RODRIGUEZ Laura (CHI)
-Chile Open Santiago 2006,2006-06-28,CREEMERS Linda,PAULIN Nancy,4,0,"11,11,11,11|5,6,5,5",QR2,GRAND_SLAM,WS,1789,Qualification,CREEMERS Linda (NED),PAULIN Nancy (CAN)
-Chile Open Santiago 2006,2006-06-28,PAULIN Nancy,RODRIGUEZ Laura,4,1,"11,11,9,18,11|4,7,11,16,6",3,GRAND_SLAM,WS,1789,Qualification,PAULIN Nancy (CAN),RODRIGUEZ Laura (CHI)
-Chile Open Santiago 2006,2006-06-28,SILVA Ligia,OSMAN MOHAMEDY Hodho,4,0,"11,11,11,11|5,5,3,7",,GRAND_SLAM,WS,1789,Qualification,SILVA Ligia (BRA),OSMAN MOHAMEDY Hodho (TAN)
-Chile Open Santiago 2006,2006-06-28,SILVA Ligia,ROJAS Karen,4,0,"11,11,11,11|5,5,3,7",QR2,GRAND_SLAM,WS,1789,Qualification,SILVA Ligia (BRA),ROJAS Karen (CHI)
-Chile Open Santiago 2006,2006-06-28,ROJAS Karen,OSMAN MOHAMEDY Hodho,4,0,,3,GRAND_SLAM,WS,1789,Qualification,ROJAS Karen (CHI),OSMAN MOHAMEDY Hodho (TAN)
-Chile Open Santiago 2006,2006-06-28,PHAI PANG Laurie,SAID MZEE Asnath,4,0,,,GRAND_SLAM,WS,1789,Qualification,PHAI PANG Laurie (FRA),SAID MZEE Asnath (TAN)
-Chile Open Santiago 2006,2006-06-28,PHAI PANG Laurie,CAMPILLAY Beatriz,4,1,"7,13,11,11,13|11,11,9,7,11",QR2,GRAND_SLAM,WS,1789,Qualification,PHAI PANG Laurie (FRA),CAMPILLAY Beatriz (CHI)
-Chile Open Santiago 2006,2006-06-28,CAMPILLAY Beatriz,SAID MZEE Asnath,4,0,,3,GRAND_SLAM,WS,1789,Qualification,CAMPILLAY Beatriz (CHI),SAID MZEE Asnath (TAN)
-Chile Open Santiago 2006,2006-06-28,RAMOS Fabiola,AQUEVEQUE Gabriela,4,0,"11,11,11,11|5,5,5,7",,GRAND_SLAM,WS,1789,Qualification,RAMOS Fabiola (VEN),AQUEVEQUE Gabriela (CHI)
-Chile Open Santiago 2006,2006-06-28,RAMOS Fabiola,ZEAS Valeria,4,0,,QR2,GRAND_SLAM,WS,1789,Qualification,RAMOS Fabiola (VEN),ZEAS Valeria (ECU)
-Chile Open Santiago 2006,2006-06-28,AQUEVEQUE Gabriela,ZEAS Valeria,4,0,,3,GRAND_SLAM,WS,1789,Qualification,AQUEVEQUE Gabriela (CHI),ZEAS Valeria (ECU)
-Chile Open Santiago 2006,2006-06-28,HANFFOU Sarah,YOON Suwon,4,0,"11,11,11,11|8,8,8,5",,GRAND_SLAM,WS,1789,Qualification,HANFFOU Sarah (CMR),YOON Suwon (KOR)
-Chile Open Santiago 2006,2006-06-28,HANFFOU Sarah,CERON Ximena,4,1,"11,11,9,12,11|4,4,11,10,9",QR2,GRAND_SLAM,WS,1789,Qualification,HANFFOU Sarah (CMR),CERON Ximena (CHI)
-Chile Open Santiago 2006,2006-06-28,YOON Suwon,CERON Ximena,4,2,"12,11,6,11,8,14|10,4,11,5,11,12",3,GRAND_SLAM,WS,1789,Qualification,YOON Suwon (KOR),CERON Ximena (CHI)
-Chile Open Santiago 2006,2006-06-28,NOUWEN Carla,AVALOS Paula,4,0,"11,11,11,12|7,9,2,10",,GRAND_SLAM,WS,1789,Qualification,NOUWEN Carla (NED),AVALOS Paula (CHI)
-Chile Open Santiago 2006,2006-06-28,NOUWEN Carla,RAMOS Maria,4,0,"12,11,11,11|10,5,4,6",QR2,GRAND_SLAM,WS,1789,Qualification,NOUWEN Carla (NED),RAMOS Maria (VEN)
-Chile Open Santiago 2006,2006-06-28,RAMOS Maria,AVALOS Paula,4,2,"12,11,5,11,11,11|14,4,11,5,5,4",3,GRAND_SLAM,WS,1789,Qualification,RAMOS Maria (VEN),AVALOS Paula (CHI)
-Chile Open Santiago 2006,2006-06-28,SKOV Mie,MUSSA ISSA Asha,4,0,,,GRAND_SLAM,WS,1789,Qualification,SKOV Mie (DEN),MUSSA ISSA Asha (TAN)
-Chile Open Santiago 2006,2006-06-28,SKOV Mie,YANEZ Melita,4,1,"11,11,9,11,11|5,6,11,9,7",QR2,GRAND_SLAM,WS,1789,Qualification,SKOV Mie (DEN),YANEZ Melita (CHI)
-Chile Open Santiago 2006,2006-06-28,YANEZ Melita,MUSSA ISSA Asha,4,0,,3,GRAND_SLAM,WS,1789,Qualification,YANEZ Melita (CHI),MUSSA ISSA Asha (TAN)
-Chile Open Santiago 2006,2006-06-28,NONAKA Mariany,RUZ Angela,4,0,"11,11,11,11|4,8,9,3",,GRAND_SLAM,WS,1789,Qualification,NONAKA Mariany (BRA),RUZ Angela (CHI)
-Chile Open Santiago 2006,2006-06-28,NONAKA Mariany,YUEN Stephanie,4,0,"11,11,11,11|2,9,8,3",QR2,GRAND_SLAM,WS,1789,Qualification,NONAKA Mariany (BRA),YUEN Stephanie (CAN)
-Chile Open Santiago 2006,2006-06-28,RUZ Angela,YUEN Stephanie,4,3,"11,11,9,11,4,4,13|9,8,11,9,11,11,11",3,GRAND_SLAM,WS,1789,Qualification,RUZ Angela (CHI),YUEN Stephanie (CAN)
-Chile Open Santiago 2006,2006-06-28,YUEN Sara,RASHID JUMA Sabra,4,0,,,GRAND_SLAM,WS,1789,Qualification,YUEN Sara (CAN),RASHID JUMA Sabra (TAN)
-Chile Open Santiago 2006,2006-06-28,YUEN Sara,CASTELLANO Natalia,4,1,"14,12,11,11,11|12,14,5,5,8",QR2,GRAND_SLAM,WS,1789,Qualification,YUEN Sara (CAN),CASTELLANO Natalia (CHI)
-Chile Open Santiago 2006,2006-06-28,CASTELLANO Natalia,RASHID JUMA Sabra,4,0,,3,GRAND_SLAM,WS,1789,Qualification,CASTELLANO Natalia (CHI),RASHID JUMA Sabra (TAN)
-Chile Open Santiago 2006,2006-06-28,COULIBALY Dieniouma,TEIGUEL Betzabet,4,0,"11,11,11,11|5,3,9,2",,GRAND_SLAM,WS,1789,Qualification,COULIBALY Dieniouma (FRA),TEIGUEL Betzabet (CHI)
-Chile Open Santiago 2006,2006-06-28,IKEIZUMI Claudia,COULIBALY Dieniouma,4,2,"4,4,13,11,11,13|11,11,11,6,8,11",QR2,GRAND_SLAM,WS,1789,Qualification,IKEIZUMI Claudia (BRA),COULIBALY Dieniouma (FRA)
-Chile Open Santiago 2006,2006-06-28,IKEIZUMI Claudia,TEIGUEL Betzabet,4,0,"11,11,11,11|5,6,5,5",3,GRAND_SLAM,WS,1789,Qualification,IKEIZUMI Claudia (BRA),TEIGUEL Betzabet (CHI)
-Chile Open Santiago 2006,2006-06-28,WANG Chen,CHIU Wennin,4,0,,,GRAND_SLAM,WS,1789,Qualification,WANG Chen (USA),CHIU Wennin (CAN)
-Chile Open Santiago 2006,2006-06-28,CHAKRABORTY Kasturi,CHIU Wennin,4,0,,QR2,GRAND_SLAM,WS,1789,Qualification,CHAKRABORTY Kasturi (IND),CHIU Wennin (CAN)
-Chile Open Santiago 2006,2006-06-28,WANG Chen,CHAKRABORTY Kasturi,4,1,"11,11,11,6,11|3,3,4,11,5",3,GRAND_SLAM,WS,1789,Qualification,WANG Chen (USA),CHAKRABORTY Kasturi (IND)
-Chile Open Santiago 2006,2006-06-28,HERNANDEZ Silvia,PAUL Mousumi,4,0,,,GRAND_SLAM,WS,1789,Qualification,HERNANDEZ Silvia (CHI),PAUL Mousumi (IND)
-Chile Open Santiago 2006,2006-06-28,SAKO Karin,PAUL Mousumi,4,0,,QR2,GRAND_SLAM,WS,1789,Qualification,SAKO Karin (BRA),PAUL Mousumi (IND)
-Chile Open Santiago 2006,2006-06-28,SAKO Karin,HERNANDEZ Silvia,4,0,"11,11,11,11|1,6,3,5",3,GRAND_SLAM,WS,1789,Qualification,SAKO Karin (BRA),HERNANDEZ Silvia (CHI)
-Chile Open Santiago 2006,2006-06-28,REINERO Daniela,KUMARESAN Shamini,4,0,,,GRAND_SLAM,WS,1789,Qualification,REINERO Daniela (CHI),KUMARESAN Shamini (IND)
-Chile Open Santiago 2006,2006-06-28,GUANCHEZ Mariana,KUMARESAN Shamini,4,0,,QR2,GRAND_SLAM,WS,1789,Qualification,GUANCHEZ Mariana (VEN),KUMARESAN Shamini (IND)
-Chile Open Santiago 2006,2006-06-28,GUANCHEZ Mariana,REINERO Daniela,4,2,"10,11,11,11,11,11|12,13,7,9,9,7",3,GRAND_SLAM,WS,1789,Qualification,GUANCHEZ Mariana (VEN),REINERO Daniela (CHI)
-Chile Open Santiago 2006,2006-06-28,GOMEZ Giovanna,ALARCON Rocio,3,0,"11,11,11|8,2,5",,GRAND_SLAM,U21WS,1789,Qualification,GOMEZ Giovanna (CHI),ALARCON Rocio (CHI)
-Chile Open Santiago 2006,2006-06-28,HANFFOU Sarah,ALARCON Rocio,3,0,"11,11,11|4,2,3",QR2,GRAND_SLAM,U21WS,1789,Qualification,HANFFOU Sarah (CMR),ALARCON Rocio (CHI)
-Chile Open Santiago 2006,2006-06-28,HANFFOU Sarah,GOMEZ Giovanna,3,0,"11,11,11|8,5,9",3,GRAND_SLAM,U21WS,1789,Qualification,HANFFOU Sarah (CMR),GOMEZ Giovanna (CHI)
-Chile Open Santiago 2006,2006-06-28,AVALOS Paula,CONCHA Romina,3,1,"11,6,11,11|9,11,9,8",,GRAND_SLAM,U21WS,1789,Qualification,AVALOS Paula (CHI),CONCHA Romina (CHI)
-Chile Open Santiago 2006,2006-06-28,NOUWEN Carla,CONCHA Romina,3,0,"11,11,11|6,6,4",3,GRAND_SLAM,U21WS,1789,Qualification,NOUWEN Carla (NED),CONCHA Romina (CHI)
-Chile Open Santiago 2006,2006-06-28,ROJAS Karen,ESCOBAR Constanza,3,0,"11,11,11|5,6,8",,GRAND_SLAM,U21WS,1789,Qualification,ROJAS Karen (CHI),ESCOBAR Constanza (CHI)
-Chile Open Santiago 2006,2006-06-28,SKOV Mie,ESCOBAR Constanza,3,0,"11,11,11|5,7,9",QR2,GRAND_SLAM,U21WS,1789,Qualification,SKOV Mie (DEN),ESCOBAR Constanza (CHI)
-Chile Open Santiago 2006,2006-06-28,SKOV Mie,ROJAS Karen,3,0,"11,11,11|7,4,9",3,GRAND_SLAM,U21WS,1789,Qualification,SKOV Mie (DEN),ROJAS Karen (CHI)
-Chile Open Santiago 2006,2006-06-28,CAMPILLAY Beatriz,MORALES Judith,3,0,"11,11,11|8,9,2",,GRAND_SLAM,U21WS,1789,Qualification,CAMPILLAY Beatriz (CHI),MORALES Judith (CHI)
-Chile Open Santiago 2006,2006-06-28,NONAKA Mariany,MORALES Judith,3,0,"11,11,11|9,5,3",QR2,GRAND_SLAM,U21WS,1789,Qualification,NONAKA Mariany (BRA),MORALES Judith (CHI)
-Chile Open Santiago 2006,2006-06-28,NONAKA Mariany,CAMPILLAY Beatriz,3,1,"11,9,11,11|9,11,7,5",3,GRAND_SLAM,U21WS,1789,Qualification,NONAKA Mariany (BRA),CAMPILLAY Beatriz (CHI)
-Chile Open Santiago 2006,2006-06-28,YU Yunmi,CASTELLANO Natalia,3,0,"11,11,11|5,5,6",,GRAND_SLAM,U21WS,1789,Qualification,YU Yunmi (KOR),CASTELLANO Natalia (CHI)
-Chile Open Santiago 2006,2006-06-28,YU Yunmi,YUEN Sara,3,2,"11,9,11,6,11|6,11,3,11,4",QR2,GRAND_SLAM,U21WS,1789,Qualification,YU Yunmi (KOR),YUEN Sara (CAN)
-Chile Open Santiago 2006,2006-06-28,CASTELLANO Natalia,YUEN Sara,3,2,"8,11,11,10,11|11,7,9,12,7",3,GRAND_SLAM,U21WS,1789,Qualification,CASTELLANO Natalia (CHI),YUEN Sara (CAN)
-Chile Open Santiago 2006,2006-06-28,YUEN Stephanie,RUZ Angela,3,0,"11,12,11|7,10,6",,GRAND_SLAM,U21WS,1789,Qualification,YUEN Stephanie (CAN),RUZ Angela (CHI)
-Chile Open Santiago 2006,2006-06-28,COULIBALY Dieniouma,RUZ Angela,3,0,"11,11,11|1,2,3",QR2,GRAND_SLAM,U21WS,1789,Qualification,COULIBALY Dieniouma (FRA),RUZ Angela (CHI)
-Chile Open Santiago 2006,2006-06-28,COULIBALY Dieniouma,YUEN Stephanie,3,1,"11,9,12,11|9,11,10,4",3,GRAND_SLAM,U21WS,1789,Qualification,COULIBALY Dieniouma (FRA),YUEN Stephanie (CAN)
-Chile Open Santiago 2006,2006-06-28,IKEIZUMI Claudia,REINERO Daniela,3,0,"11,11,11|6,7,4",,GRAND_SLAM,U21WS,1789,Qualification,IKEIZUMI Claudia (BRA),REINERO Daniela (CHI)
-Chile Open Santiago 2006,2006-06-28,CHIU Wennin,REINERO Daniela,3,0,"11,11,11|7,7,6",QR2,GRAND_SLAM,U21WS,1789,Qualification,CHIU Wennin (CAN),REINERO Daniela (CHI)
-Chile Open Santiago 2006,2006-06-28,CHIU Wennin,IKEIZUMI Claudia,3,0,"11,12,11|6,10,6",3,GRAND_SLAM,U21WS,1789,Qualification,CHIU Wennin (CAN),IKEIZUMI Claudia (BRA)
-Chile Open Santiago 2006,2006-06-28,BOROS Tamara,AQUEVEQUE Gabriela,4,0,"11,11,11,11|3,2,3,6",R64,GRAND_SLAM,WS,1789,Main Draw,BOROS Tamara (CRO),AQUEVEQUE Gabriela (CHI)
-Chile Open Santiago 2006,2006-06-28,LANG Kristin,SILVA Ligia,4,1,"11,11,9,11,11|3,4,11,4,4",R64,GRAND_SLAM,WS,1789,Main Draw,LANG Kristin (GER),SILVA Ligia (BRA)
-Chile Open Santiago 2006,2006-06-28,MOLNAR Cornelia,NONAKA Mariany,4,0,"11,11,12,11|3,7,10,5",R64,GRAND_SLAM,WS,1789,Main Draw,MOLNAR Cornelia (CRO),NONAKA Mariany (BRA)
-Chile Open Santiago 2006,2006-06-28,LEE Eunhee,CHAKRABORTY Kasturi,4,0,"11,11,11,11|5,2,8,1",R64,GRAND_SLAM,WS,1789,Main Draw,LEE Eunhee (KOR),CHAKRABORTY Kasturi (IND)
-Chile Open Santiago 2006,2006-06-28,FUJII Hiroko,LONG Judy (Zhu),4,1,"11,11,11,4,11|2,4,6,11,2",R64,GRAND_SLAM,WS,1789,Main Draw,FUJII Hiroko (JPN),LONG Judy (Zhu) (CAN)
-Chile Open Santiago 2006,2006-06-28,WANG Yu (YOB=1981),GHATAK Poulomi,4,1,"11,7,11,11,11|7,11,5,5,5",R64,GRAND_SLAM,WS,1789,Main Draw,WANG Yu (YOB=1981) (ITA),GHATAK Poulomi (IND)
-Chile Open Santiago 2006,2006-06-28,RAMOS Fabiola,VEGA Paulina,4,1,"3,13,11,11,11|11,11,5,3,8",R64,GRAND_SLAM,WS,1789,Main Draw,RAMOS Fabiola (VEN),VEGA Paulina (CHI)
-Chile Open Santiago 2006,2006-06-28,KANAZAWA Saki,PAULIN Nancy,4,0,"11,11,11,11|2,4,7,7",R64,GRAND_SLAM,WS,1789,Main Draw,KANAZAWA Saki (JPN),PAULIN Nancy (CAN)
-Chile Open Santiago 2006,2006-06-28,UMEMURA Aya,YOON Suwon,4,0,"11,11,11,12|2,6,6,10",R64,GRAND_SLAM,WS,1789,Main Draw,UMEMURA Aya (JPN),YOON Suwon (KOR)
-Chile Open Santiago 2006,2006-06-28,KISHIDA Satoko,GUANCHEZ Mariana,4,0,"11,11,11,11|6,9,5,4",R64,GRAND_SLAM,WS,1789,Main Draw,KISHIDA Satoko (JPN),GUANCHEZ Mariana (VEN)
-Chile Open Santiago 2006,2006-06-28,YOON Sunae,CREEMERS Linda,4,0,"11,11,11,11|5,4,6,0",R64,GRAND_SLAM,WS,1789,Main Draw,YOON Sunae (KOR),CREEMERS Linda (NED)
-Chile Open Santiago 2006,2006-06-28,HIURA Reiko,HERNANDEZ Silvia,4,0,"11,11,11,11|5,3,5,4",R64,GRAND_SLAM,WS,1789,Main Draw,HIURA Reiko (JPN),HERNANDEZ Silvia (CHI)
-Chile Open Santiago 2006,2006-06-28,FUKUOKA Haruna,CASTELLANO Natalia,4,0,"11,11,11,11|5,2,6,8",R64,GRAND_SLAM,WS,1789,Main Draw,FUKUOKA Haruna (JPN),CASTELLANO Natalia (CHI)
-Chile Open Santiago 2006,2006-06-28,WANG Chen,EKHOLM Matilda,4,3,"11,11,8,5,11,9,11|6,8,11,11,4,11,9",R64,GRAND_SLAM,WS,1789,Main Draw,WANG Chen (USA),EKHOLM Matilda (SWE)
-Chile Open Santiago 2006,2006-06-28,ETSUZAKI Ayumi,PHAI PANG Laurie,4,1,"11,11,11,9,11|4,5,6,11,8",R64,GRAND_SLAM,WS,1789,Main Draw,ETSUZAKI Ayumi (JPN),PHAI PANG Laurie (FRA)
-Chile Open Santiago 2006,2006-06-28,MOON Hyunjung,IKEIZUMI Claudia,4,2,"13,9,10,11,11,11|11,11,12,2,5,9",R64,GRAND_SLAM,WS,1789,Main Draw,MOON Hyunjung (KOR),IKEIZUMI Claudia (BRA)
-Chile Open Santiago 2006,2006-06-28,HIRANO Sayaka,CAMPILLAY Beatriz,4,0,"11,11,11,11|5,5,7,1",R64,GRAND_SLAM,WS,1789,Main Draw,HIRANO Sayaka (JPN),CAMPILLAY Beatriz (CHI)
-Chile Open Santiago 2006,2006-06-28,KONISHI An,YU Yunmi,4,0,"11,11,11,11|5,5,9,8",R64,GRAND_SLAM,WS,1789,Main Draw,KONISHI An (JPN),YU Yunmi (KOR)
-Chile Open Santiago 2006,2006-06-28,SKOV Mie,PAVLOVICH Veronika,4,2,"3,14,13,11,13,11|11,12,11,13,11,8",R64,GRAND_SLAM,WS,1789,Main Draw,SKOV Mie (DEN),PAVLOVICH Veronika (BLR)
-Chile Open Santiago 2006,2006-06-28,STEFANOVA Nikoleta,DURAN Blanca,4,0,"11,11,11,11|2,7,5,6",R64,GRAND_SLAM,WS,1789,Main Draw,STEFANOVA Nikoleta (ITA),DURAN Blanca (CHI)
-Chile Open Santiago 2006,2006-06-28,GANINA Svetlana,RAMOS Maria,4,0,"11,11,11,11|6,5,5,8",R64,GRAND_SLAM,WS,1789,Main Draw,GANINA Svetlana (RUS),RAMOS Maria (VEN)
-Chile Open Santiago 2006,2006-06-28,PAOVIC Sandra,HANFFOU Sarah,4,1,"11,13,9,11,11|9,11,11,4,1",R64,GRAND_SLAM,WS,1789,Main Draw,PAOVIC Sandra (CRO),HANFFOU Sarah (CMR)
-Chile Open Santiago 2006,2006-06-28,GRUNDISCH Carole,SAKO Karin,4,1,"11,11,6,11,11|9,5,11,6,9",R64,GRAND_SLAM,WS,1789,Main Draw,GRUNDISCH Carole (FRA),SAKO Karin (BRA)
-Chile Open Santiago 2006,2006-06-28,PARK Miyoung,ROJAS Karen,4,0,"11,11,11,11|1,3,2,3",R64,GRAND_SLAM,WS,1789,Main Draw,PARK Miyoung (KOR),ROJAS Karen (CHI)
-Chile Open Santiago 2006,2006-06-28,TAN Wenling,ZHANG Mo,4,3,"7,11,6,11,11,7,11|11,7,11,7,4,11,7",R64,GRAND_SLAM,WS,1789,Main Draw,TAN Wenling (ITA),ZHANG Mo (CAN)
-Chile Open Santiago 2006,2006-06-28,SHIM Serom,COULIBALY Dieniouma,4,2,"11,11,13,12,7,11|5,3,15,10,11,3",R64,GRAND_SLAM,WS,1789,Main Draw,SHIM Serom (KOR),COULIBALY Dieniouma (FRA)
-Chile Open Santiago 2006,2006-06-28,TASEI Mikie,LEE Eunsil,4,0,"11,11,11,11|7,9,7,6",R64,GRAND_SLAM,WS,1789,Main Draw,TASEI Mikie (JPN),LEE Eunsil (KOR)
-Chile Open Santiago 2006,2006-06-28,POTA Georgina,YANEZ Melita,4,0,"11,11,11,11|3,6,5,6",R64,GRAND_SLAM,WS,1789,Main Draw,POTA Georgina (HUN),YANEZ Melita (CHI)
-Chile Open Santiago 2006,2006-06-28,FUJINUMA Ai,REINERO Daniela,4,0,"11,11,11,11|1,6,6,9",R64,GRAND_SLAM,WS,1789,Main Draw,FUJINUMA Ai (JPN),REINERO Daniela (CHI)
-Chile Open Santiago 2006,2006-06-28,NOUWEN Carla,RODRIGUEZ Berta,4,1,"11,4,11,11,11|7,11,6,7,4",R64,GRAND_SLAM,WS,1789,Main Draw,NOUWEN Carla (NED),RODRIGUEZ Berta (CHI)
-Chile Open Santiago 2006,2006-06-28,RAMIREZ Sara,YUEN Sara,4,0,"11,11,11,11|1,5,5,6",R64,GRAND_SLAM,WS,1789,Main Draw,RAMIREZ Sara (ESP),YUEN Sara (CAN)
-Chile Open Santiago 2006,2006-06-28,PAVLOVICH Viktoria,RUZ Angela,4,0,"11,11,11,11|4,4,1,2",R64,GRAND_SLAM,WS,1789,Main Draw,PAVLOVICH Viktoria (BLR),RUZ Angela (CHI)
-Chile Open Santiago 2006,2006-06-28,BOROS Tamara,LANG Kristin,4,3,"11,3,12,4,11,10,11|8,11,10,11,2,12,4",R32,GRAND_SLAM,WS,1789,Main Draw,BOROS Tamara (CRO),LANG Kristin (GER)
-Chile Open Santiago 2006,2006-06-28,MOLNAR Cornelia,LEE Eunhee,4,3,"11,11,6,8,11,8,13|8,6,11,11,9,11,11",R32,GRAND_SLAM,WS,1789,Main Draw,MOLNAR Cornelia (CRO),LEE Eunhee (KOR)
-Chile Open Santiago 2006,2006-06-28,FUJII Hiroko,WANG Yu (YOB=1981),4,0,"11,11,11,11|8,9,6,6",R32,GRAND_SLAM,WS,1789,Main Draw,FUJII Hiroko (JPN),WANG Yu (YOB=1981) (ITA)
-Chile Open Santiago 2006,2006-06-28,KANAZAWA Saki,RAMOS Fabiola,4,0,"11,11,11,11|2,5,7,2",R32,GRAND_SLAM,WS,1789,Main Draw,KANAZAWA Saki (JPN),RAMOS Fabiola (VEN)
-Chile Open Santiago 2006,2006-06-28,UMEMURA Aya,KISHIDA Satoko,4,0,"13,11,11,11|11,6,8,5",R32,GRAND_SLAM,WS,1789,Main Draw,UMEMURA Aya (JPN),KISHIDA Satoko (JPN)
-Chile Open Santiago 2006,2006-06-28,HIURA Reiko,YOON Sunae,4,3,"3,11,11,8,8,13,11|11,6,7,11,11,11,7",R32,GRAND_SLAM,WS,1789,Main Draw,HIURA Reiko (JPN),YOON Sunae (KOR)
-Chile Open Santiago 2006,2006-06-28,WANG Chen,FUKUOKA Haruna,4,3,"8,11,11,11,8,9,14|11,3,3,7,11,11,12",R32,GRAND_SLAM,WS,1789,Main Draw,WANG Chen (USA),FUKUOKA Haruna (JPN)
-Chile Open Santiago 2006,2006-06-28,MOON Hyunjung,ETSUZAKI Ayumi,4,0,"11,12,11,12|6,10,5,10",R32,GRAND_SLAM,WS,1789,Main Draw,MOON Hyunjung (KOR),ETSUZAKI Ayumi (JPN)
-Chile Open Santiago 2006,2006-06-28,KONISHI An,HIRANO Sayaka,4,2,"11,9,9,11,11,11|6,11,11,9,9,0",R32,GRAND_SLAM,WS,1789,Main Draw,KONISHI An (JPN),HIRANO Sayaka (JPN)
-Chile Open Santiago 2006,2006-06-28,STEFANOVA Nikoleta,SKOV Mie,4,1,"11,11,9,11,11|7,2,11,9,8",R32,GRAND_SLAM,WS,1789,Main Draw,STEFANOVA Nikoleta (ITA),SKOV Mie (DEN)
-Chile Open Santiago 2006,2006-06-28,GANINA Svetlana,PAOVIC Sandra,4,2,"6,11,11,6,11,11|11,7,4,11,7,5",R32,GRAND_SLAM,WS,1789,Main Draw,GANINA Svetlana (RUS),PAOVIC Sandra (CRO)
-Chile Open Santiago 2006,2006-06-28,PARK Miyoung,GRUNDISCH Carole,4,3,"11,9,11,9,12,5,14|4,11,6,11,10,11,12",R32,GRAND_SLAM,WS,1789,Main Draw,PARK Miyoung (KOR),GRUNDISCH Carole (FRA)
-Chile Open Santiago 2006,2006-06-28,SHIM Serom,TAN Wenling,4,2,"15,9,2,13,11,11|13,11,11,11,9,7",R32,GRAND_SLAM,WS,1789,Main Draw,SHIM Serom (KOR),TAN Wenling (ITA)
-Chile Open Santiago 2006,2006-06-28,TASEI Mikie,POTA Georgina,4,1,"13,11,12,9,11|11,8,10,11,6",R32,GRAND_SLAM,WS,1789,Main Draw,TASEI Mikie (JPN),POTA Georgina (HUN)
-Chile Open Santiago 2006,2006-06-28,FUJINUMA Ai,NOUWEN Carla,4,1,"11,11,11,11,11|3,13,7,2,5",R32,GRAND_SLAM,WS,1789,Main Draw,FUJINUMA Ai (JPN),NOUWEN Carla (NED)
-Chile Open Santiago 2006,2006-06-28,PAVLOVICH Viktoria,RAMIREZ Sara,4,0,"11,11,11,17|7,9,6,15",R32,GRAND_SLAM,WS,1789,Main Draw,PAVLOVICH Viktoria (BLR),RAMIREZ Sara (ESP)
-Chile Open Santiago 2006,2006-06-28,BOROS Tamara,MOLNAR Cornelia,4,2,"4,11,9,11,11,12|11,8,11,8,9,10",R16,GRAND_SLAM,WS,1789,Main Draw,BOROS Tamara (CRO),MOLNAR Cornelia (CRO)
-Chile Open Santiago 2006,2006-06-28,FUJII Hiroko,KANAZAWA Saki,4,2,"7,7,11,11,11,11|11,11,9,6,9,4",R16,GRAND_SLAM,WS,1789,Main Draw,FUJII Hiroko (JPN),KANAZAWA Saki (JPN)
-Chile Open Santiago 2006,2006-06-28,HIURA Reiko,UMEMURA Aya,4,0,"11,11,11,11|7,3,2,8",R16,GRAND_SLAM,WS,1789,Main Draw,HIURA Reiko (JPN),UMEMURA Aya (JPN)
-Chile Open Santiago 2006,2006-06-28,WANG Chen,MOON Hyunjung,4,1,"11,9,11,11,11|9,11,4,9,5",R16,GRAND_SLAM,WS,1789,Main Draw,WANG Chen (USA),MOON Hyunjung (KOR)
-Chile Open Santiago 2006,2006-06-28,KONISHI An,STEFANOVA Nikoleta,4,2,"11,12,13,8,8,11|5,10,11,11,11,6",R16,GRAND_SLAM,WS,1789,Main Draw,KONISHI An (JPN),STEFANOVA Nikoleta (ITA)
-Chile Open Santiago 2006,2006-06-28,PARK Miyoung,GANINA Svetlana,4,2,"9,6,11,11,11,11|11,11,6,7,4,8",R16,GRAND_SLAM,WS,1789,Main Draw,PARK Miyoung (KOR),GANINA Svetlana (RUS)
-Chile Open Santiago 2006,2006-06-28,SHIM Serom,TASEI Mikie,4,1,"11,14,5,11,11|8,12,11,7,6",R16,GRAND_SLAM,WS,1789,Main Draw,SHIM Serom (KOR),TASEI Mikie (JPN)
-Chile Open Santiago 2006,2006-06-28,FUJINUMA Ai,PAVLOVICH Viktoria,4,0,"11,11,11,11|7,9,5,4",R16,GRAND_SLAM,WS,1789,Main Draw,FUJINUMA Ai (JPN),PAVLOVICH Viktoria (BLR)
-Chile Open Santiago 2006,2006-06-28,BOROS Tamara,FUJII Hiroko,4,0,"11,12,11,11|6,10,4,7",QF,GRAND_SLAM,WS,1789,Main Draw,BOROS Tamara (CRO),FUJII Hiroko (JPN)
-Chile Open Santiago 2006,2006-06-28,HIURA Reiko,WANG Chen,4,1,"11,11,11,9,11|1,3,5,11,3",QF,GRAND_SLAM,WS,1789,Main Draw,HIURA Reiko (JPN),WANG Chen (USA)
-Chile Open Santiago 2006,2006-06-28,PARK Miyoung,KONISHI An,4,0,"11,11,11,11|4,7,6,7",QF,GRAND_SLAM,WS,1789,Main Draw,PARK Miyoung (KOR),KONISHI An (JPN)
-Chile Open Santiago 2006,2006-06-28,FUJINUMA Ai,SHIM Serom,4,2,"11,11,4,4,11,11|9,9,11,11,3,3",QF,GRAND_SLAM,WS,1789,Main Draw,FUJINUMA Ai (JPN),SHIM Serom (KOR)
-Chile Open Santiago 2006,2006-06-28,HIURA Reiko,BOROS Tamara,4,3,"11,4,11,8,11,7,11|5,11,6,11,7,11,9",SF,GRAND_SLAM,WS,1789,Main Draw,HIURA Reiko (JPN),BOROS Tamara (CRO)
-Chile Open Santiago 2006,2006-06-28,PARK Miyoung,FUJINUMA Ai,4,2,"11,11,7,11,9,11|8,9,11,9,11,3",SF,GRAND_SLAM,WS,1789,Main Draw,PARK Miyoung (KOR),FUJINUMA Ai (JPN)
-Chile Open Santiago 2006,2006-06-28,PARK Miyoung,HIURA Reiko,4,1,"11,11,7,11,12|5,5,11,4,10",F,GRAND_SLAM,WS,1789,Main Draw,PARK Miyoung (KOR),HIURA Reiko (JPN)
-Chile Open Santiago 2006,2006-06-28,LEE Eunhee,SKOV Mie,4,0,"11,11,11,11|4,4,3,2",R16,GRAND_SLAM,U21WS,1789,Main Draw,LEE Eunhee (KOR),SKOV Mie (DEN)
-Chile Open Santiago 2006,2006-06-28,PHAI PANG Laurie,CHIU Wennin,4,1,"5,11,11,11,11|11,6,5,6,6",R16,GRAND_SLAM,U21WS,1789,Main Draw,PHAI PANG Laurie (FRA),CHIU Wennin (CAN)
-Chile Open Santiago 2006,2006-06-28,SHIM Serom,HANFFOU Sarah,4,1,"9,11,11,11,11|11,2,5,8,3",R16,GRAND_SLAM,U21WS,1789,Main Draw,SHIM Serom (KOR),HANFFOU Sarah (CMR)
-Chile Open Santiago 2006,2006-06-28,RAMIREZ Sara,NOUWEN Carla,4,1,"11,8,11,11,11|9,11,9,4,6",R16,GRAND_SLAM,U21WS,1789,Main Draw,RAMIREZ Sara (ESP),NOUWEN Carla (NED)
-Chile Open Santiago 2006,2006-06-28,ZHANG Mo,COULIBALY Dieniouma,4,1,"11,11,11,11,11|8,13,4,9,2",R16,GRAND_SLAM,U21WS,1789,Main Draw,ZHANG Mo (CAN),COULIBALY Dieniouma (FRA)
-Chile Open Santiago 2006,2006-06-28,NONAKA Mariany,CREEMERS Linda,4,2,"7,6,12,11,12,11|11,11,10,8,10,9",R16,GRAND_SLAM,U21WS,1789,Main Draw,NONAKA Mariany (BRA),CREEMERS Linda (NED)
-Chile Open Santiago 2006,2006-06-28,POTA Georgina,YU Yunmi,4,1,"11,11,6,11,11|2,7,11,8,5",R16,GRAND_SLAM,U21WS,1789,Main Draw,POTA Georgina (HUN),YU Yunmi (KOR)
-Chile Open Santiago 2006,2006-06-28,LEE Eunhee,PHAI PANG Laurie,4,0,"11,11,11,11|9,3,8,2",QF,GRAND_SLAM,U21WS,1789,Main Draw,LEE Eunhee (KOR),PHAI PANG Laurie (FRA)
-Chile Open Santiago 2006,2006-06-28,SHIM Serom,GRUNDISCH Carole,4,0,"11,11,11,11|8,5,2,9",QF,GRAND_SLAM,U21WS,1789,Main Draw,SHIM Serom (KOR),GRUNDISCH Carole (FRA)
-Chile Open Santiago 2006,2006-06-28,RAMIREZ Sara,ZHANG Mo,4,2,"11,11,11,5,3,11|8,3,9,11,11,9",QF,GRAND_SLAM,U21WS,1789,Main Draw,RAMIREZ Sara (ESP),ZHANG Mo (CAN)
-Chile Open Santiago 2006,2006-06-28,POTA Georgina,NONAKA Mariany,4,2,"11,12,11,9,11,11|5,10,13,11,8,4",QF,GRAND_SLAM,U21WS,1789,Main Draw,POTA Georgina (HUN),NONAKA Mariany (BRA)
-Chile Open Santiago 2006,2006-06-28,LEE Eunhee,SHIM Serom,4,2,"8,17,11,11,7,11|11,15,8,3,11,7",SF,GRAND_SLAM,U21WS,1789,Main Draw,LEE Eunhee (KOR),SHIM Serom (KOR)
-Chile Open Santiago 2006,2006-06-28,POTA Georgina,RAMIREZ Sara,4,0,"11,11,11,12|6,8,6,10",SF,GRAND_SLAM,U21WS,1789,Main Draw,POTA Georgina (HUN),RAMIREZ Sara (ESP)
-Chile Open Santiago 2006,2006-06-28,LEE Eunhee,POTA Georgina,4,0,"11,12,11,11|7,10,6,5",F,GRAND_SLAM,U21WS,1789,Main Draw,LEE Eunhee (KOR),POTA Georgina (HUN)
-Chile Open Santiago 2006,2006-06-28,CROTTI Mattia/TOMASI Stefano,BRIZUELA Hernan/MOAVRO Sebastian,3,0,"11,11,11|3,7,4",QR64,GRAND_SLAM,MD,1789,Qualification,CROTTI Mattia (ITA) / TOMASI Stefano (ITA),BRIZUELA Hernan (ARG) / MOAVRO Sebastian (ARG)
-Chile Open Santiago 2006,2006-06-28,ROSENFELD Federico/TASSARA Fernando,ARCE Osvaldo/SALAZAR Bladimir,3,0,"12,11,11|10,8,7",QR64,GRAND_SLAM,MD,1789,Qualification,ROSENFELD Federico (ARG) / TASSARA Fernando (ARG),ARCE Osvaldo (CHI) / SALAZAR Bladimir (CHI)
-Chile Open Santiago 2006,2006-06-28,DURAN Marc/MACHADO Carlos,ROSENFELD Federico/TASSARA Fernando,3,0,"11,11,11|3,3,6",QR32,GRAND_SLAM,MD,1789,Qualification,DURAN Marc (ESP) / MACHADO Carlos (ESP),ROSENFELD Federico (ARG) / TASSARA Fernando (ARG)
-Chile Open Santiago 2006,2006-06-28,CHEN Weixing/GARDOS Robert,DELOBBE Damien/DIDUKH Oleksandr,4,0,"11,11,11,11|9,7,6,7",R16,GRAND_SLAM,MD,1789,Main Draw,CHEN Weixing (AUT) / GARDOS Robert (AUT),DELOBBE Damien (BEL) / DIDUKH Oleksandr (UKR)
-Chile Open Santiago 2006,2006-06-28,CHEN Weixing/GARDOS Robert,APOLONIA Tiago/MONTEIRO Joao,4,2,"11,7,11,8,11,11|3,11,6,11,8,8",QF,GRAND_SLAM,MD,1789,Main Draw,CHEN Weixing (AUT) / GARDOS Robert (AUT),APOLONIA Tiago (POR) / MONTEIRO Joao (POR)
-Chile Open Santiago 2006,2006-06-28,CHEN Weixing/GARDOS Robert,DESPRES Rodolphe/LEGOUT Christophe,4,3,"9,11,5,12,11,9,11|11,9,11,10,7,11,4",SF,GRAND_SLAM,MD,1789,Main Draw,CHEN Weixing (AUT) / GARDOS Robert (AUT),DESPRES Rodolphe (FRA) / LEGOUT Christophe (FRA)
-Chile Open Santiago 2006,2006-06-28,CHEN Weixing/GARDOS Robert,PAZSY Ferenc/TOKIC Bojan,4,0,"11,11,11,14|8,8,5,12",F,GRAND_SLAM,MD,1789,Main Draw,CHEN Weixing (AUT) / GARDOS Robert (AUT),PAZSY Ferenc (HUN) / TOKIC Bojan (SLO)
-Chile Open Santiago 2006,2006-06-28,PAZSY Ferenc/TOKIC Bojan,KUCHUK Aleksandr/NEKHVEDOVICH Vitaly,4,1,"9,11,11,11,11|11,6,7,4,8",R16,GRAND_SLAM,MD,1789,Main Draw,PAZSY Ferenc (HUN) / TOKIC Bojan (SLO),KUCHUK Aleksandr (BLR) / NEKHVEDOVICH Vitaly (BLR)
-Chile Open Santiago 2006,2006-06-28,KUCHUK Aleksandr/NEKHVEDOVICH Vitaly,HERRERA Antonio/RONDON Ely,3,1,"11,12,11,11|4,14,9,9",QR32,GRAND_SLAM,MD,1789,Qualification,KUCHUK Aleksandr (BLR) / NEKHVEDOVICH Vitaly (BLR),HERRERA Antonio (VEN) / RONDON Ely (VEN)
-Chile Open Santiago 2006,2006-06-28,KUCHUK Aleksandr/NEKHVEDOVICH Vitaly,KEINATH Thomas/MARTINEZ Rodrigo,3,1,"8,11,11,11|11,4,7,9",QR16,GRAND_SLAM,MD,1789,Qualification,KUCHUK Aleksandr (BLR) / NEKHVEDOVICH Vitaly (BLR),KEINATH Thomas (SVK) / MARTINEZ Rodrigo (CHI)
-Chile Open Santiago 2006,2006-06-28,HOYAMA Hugo/MONTEIRO Thiago,BERTIN Christophe/LEBESSON Emmanuel,4,3,"11,11,8,7,11,10,11|7,6,11,11,7,12,3",R16,GRAND_SLAM,MD,1789,Main Draw,HOYAMA Hugo (BRA) / MONTEIRO Thiago (BRA),BERTIN Christophe (FRA) / LEBESSON Emmanuel (FRA)
-Chile Open Santiago 2006,2006-06-28,SHEN Qiang/ZHANG Wilson,COYDAN Victor/MUNIZAGA Rodrigo,3,0,,QR64,GRAND_SLAM,MD,1789,Qualification,SHEN Qiang (CAN) / ZHANG Wilson (CAN),COYDAN Victor (CHI) / MUNIZAGA Rodrigo (CHI)
-Chile Open Santiago 2006,2006-06-28,SHEN Qiang/ZHANG Wilson,VENTURA DOS ANJOS Bruno/MATSUMOTO Cazuo,3,0,"11,11,13|7,8,11",QR32,GRAND_SLAM,MD,1789,Qualification,SHEN Qiang (CAN) / ZHANG Wilson (CAN),VENTURA DOS ANJOS Bruno (BRA) / MATSUMOTO Cazuo (BRA)
-Chile Open Santiago 2006,2006-06-28,KONGSGAARD Christian/PETERSEN Christoffer,PAPIC Juan/RODRIGUEZ Alejandro,4,0,"11,12,11,11|9,10,5,6",R16,GRAND_SLAM,MD,1789,Main Draw,KONGSGAARD Christian (DEN) / PETERSEN Christoffer (DEN),PAPIC Juan (CHI) / RODRIGUEZ Alejandro (CHI)
-Chile Open Santiago 2006,2006-06-28,MOLNAR Csaba/ZOMBORI David,LORCA Fabian/ROSALES Alberto,3,0,"11,11,11|5,6,7",QR64,GRAND_SLAM,MD,1789,Qualification,MOLNAR Csaba (HUN) / ZOMBORI David (HUN),LORCA Fabian (CHI) / ROSALES Alberto (CHI)
-Chile Open Santiago 2006,2006-06-28,ALVEAR Julian/GAETE Pablo,AGUIRRE Marcelo/COELLO Geovanny,3,2,"11,11,10,5,11|5,7,12,11,9",QR64,GRAND_SLAM,MD,1789,Qualification,ALVEAR Julian (CHI) / GAETE Pablo (CHI),AGUIRRE Marcelo (PAR) / COELLO Geovanny (ECU)
-Chile Open Santiago 2006,2006-06-28,ACHANTA Sharath/SAHA Subhajit,CONTRERAS Matias/OLIVARES Felipe,3,0,"11,11,11|5,8,3",QR64,GRAND_SLAM,MD,1789,Qualification,ACHANTA Sharath (IND) / SAHA Subhajit (IND),CONTRERAS Matias (CHI) / OLIVARES Felipe (CHI)
-Chile Open Santiago 2006,2006-06-28,NILO Felipe/SZENFELD Jorge,CORSINI Marcelo/GRECO Juan,3,0,"11,12,11|7,10,4",QR64,GRAND_SLAM,MD,1789,Qualification,NILO Felipe (CHI) / SZENFELD Jorge (CHI),CORSINI Marcelo (BRA) / GRECO Juan (ARG)
-Chile Open Santiago 2006,2006-06-28,DELOBBE Damien/DIDUKH Oleksandr,BRAVO Sergio/PINTO Martin,3,0,"11,11,11|2,4,7",QR32,GRAND_SLAM,MD,1789,Qualification,DELOBBE Damien (BEL) / DIDUKH Oleksandr (UKR),BRAVO Sergio (CHI) / PINTO Martin (CHI)
-Chile Open Santiago 2006,2006-06-28,LIU Song/TABACHNIK Pablo,ALVEAR Julian/GAETE Pablo,3,0,"12,11,11|10,7,9",QR32,GRAND_SLAM,MD,1789,Qualification,LIU Song (ARG) / TABACHNIK Pablo (ARG),ALVEAR Julian (CHI) / GAETE Pablo (CHI)
-Chile Open Santiago 2006,2006-06-28,KEINATH Thomas/MARTINEZ Rodrigo,ALARCON Felipe/DONAIRE Eduardo,3,0,"11,11,11|4,7,9",QR32,GRAND_SLAM,MD,1789,Qualification,KEINATH Thomas (SVK) / MARTINEZ Rodrigo (CHI),ALARCON Felipe (CHI) / DONAIRE Eduardo (CHI)
-Chile Open Santiago 2006,2006-06-28,GACINA Andrej/ZUBCIC Tomislav,CONTRERAS Felipe/TOLEDO Marcelo,3,0,"13,11,15|11,5,13",QR32,GRAND_SLAM,MD,1789,Qualification,GACINA Andrej (CRO) / ZUBCIC Tomislav (CRO),CONTRERAS Felipe (CHI) / TOLEDO Marcelo (CHI)
-Chile Open Santiago 2006,2006-06-28,NILO Felipe/SZENFELD Jorge,LEVIS Bruno/UBILLA Nicolas,3,0,"11,11,13|9,5,11",QR32,GRAND_SLAM,MD,1789,Qualification,NILO Felipe (CHI) / SZENFELD Jorge (CHI),LEVIS Bruno (CHI) / UBILLA Nicolas (CHI)
-Chile Open Santiago 2006,2006-06-28,DURAN Marc/MACHADO Carlos,NILO Felipe/SZENFELD Jorge,3,0,"11,11,11|7,4,8",QR16,GRAND_SLAM,MD,1789,Qualification,DURAN Marc (ESP) / MACHADO Carlos (ESP),NILO Felipe (CHI) / SZENFELD Jorge (CHI)
-Chile Open Santiago 2006,2006-06-28,CHO Eonrae/CHO Jihoon,KLASEK Marek/KORBEL Petr,4,0,"11,11,11,11|7,7,8,5",R16,GRAND_SLAM,MD,1789,Main Draw,CHO Eonrae (KOR) / CHO Jihoon (KOR),KLASEK Marek (CZE) / KORBEL Petr (CZE)
-Chile Open Santiago 2006,2006-06-28,KONECNY Tomas/VOZICKY Bohumil,BELTRAN Jorge/CAMPUSANO Guillermo,3,0,"11,12,11|9,10,0",QR32,GRAND_SLAM,MD,1789,Qualification,KONECNY Tomas (CZE) / VOZICKY Bohumil (CZE),BELTRAN Jorge (CHI) / CAMPUSANO Guillermo (CHI)
-Chile Open Santiago 2006,2006-06-28,KLASEK Marek/KORBEL Petr,BUSTOS Cristian/CARMONA Vicente,3,0,"11,11,11|0,5,6",QR32,GRAND_SLAM,MD,1789,Qualification,KLASEK Marek (CZE) / KORBEL Petr (CZE),BUSTOS Cristian (CHI) / CARMONA Vicente (CHI)
-Chile Open Santiago 2006,2006-06-28,HOYAMA Hugo/MONTEIRO Thiago,KONECNY Tomas/VOZICKY Bohumil,3,1,"11,7,12,12|6,11,10,10",QR16,GRAND_SLAM,MD,1789,Qualification,HOYAMA Hugo (BRA) / MONTEIRO Thiago (BRA),KONECNY Tomas (CZE) / VOZICKY Bohumil (CZE)
-Chile Open Santiago 2006,2006-06-28,KLASEK Marek/KORBEL Petr,GACINA Andrej/ZUBCIC Tomislav,3,2,"8,7,11,11,11|11,11,7,6,6",QR16,GRAND_SLAM,MD,1789,Qualification,KLASEK Marek (CZE) / KORBEL Petr (CZE),GACINA Andrej (CRO) / ZUBCIC Tomislav (CRO)
-Chile Open Santiago 2006,2006-06-28,KONGSGAARD Christian/PETERSEN Christoffer,HOYAMA Hugo/MONTEIRO Thiago,4,1,"11,12,8,11,11|7,10,11,6,3",QF,GRAND_SLAM,MD,1789,Main Draw,KONGSGAARD Christian (DEN) / PETERSEN Christoffer (DEN),HOYAMA Hugo (BRA) / MONTEIRO Thiago (BRA)
-Chile Open Santiago 2006,2006-06-28,KONGSGAARD Christian/PETERSEN Christoffer,PEREZ Fernando/ZAPATA Juan Pablo,3,0,"11,11,11|7,2,4",QR64,GRAND_SLAM,MD,1789,Qualification,KONGSGAARD Christian (DEN) / PETERSEN Christoffer (DEN),PEREZ Fernando (CHI) / ZAPATA Juan Pablo (CHI)
-Chile Open Santiago 2006,2006-06-28,KONGSGAARD Christian/PETERSEN Christoffer,ACHANTA Sharath/SAHA Subhajit,3,1,"11,11,9,11|5,9,11,4",QR32,GRAND_SLAM,MD,1789,Qualification,KONGSGAARD Christian (DEN) / PETERSEN Christoffer (DEN),ACHANTA Sharath (IND) / SAHA Subhajit (IND)
-Chile Open Santiago 2006,2006-06-28,DESPRES Rodolphe/LEGOUT Christophe,DURAN Marc/MACHADO Carlos,4,1,"11,9,11,11,11|6,11,9,7,3",R16,GRAND_SLAM,MD,1789,Main Draw,DESPRES Rodolphe (FRA) / LEGOUT Christophe (FRA),DURAN Marc (ESP) / MACHADO Carlos (ESP)
-Chile Open Santiago 2006,2006-06-28,DESPRES Rodolphe/LEGOUT Christophe,CHO Eonrae/CHO Jihoon,4,3,"11,14,11,7,7,10,11|7,12,8,11,11,12,2",QF,GRAND_SLAM,MD,1789,Main Draw,DESPRES Rodolphe (FRA) / LEGOUT Christophe (FRA),CHO Eonrae (KOR) / CHO Jihoon (KOR)
-Chile Open Santiago 2006,2006-06-28,JAKAB Janos/ZWICKL Daniel,HINSE Pierre-Luc/THERIEN Xavier,3,1,"7,11,11,11|11,6,9,8",QR32,GRAND_SLAM,MD,1789,Qualification,JAKAB Janos (HUN) / ZWICKL Daniel (HUN),HINSE Pierre-Luc (CAN) / THERIEN Xavier (CAN)
-Chile Open Santiago 2006,2006-06-28,KONGSGAARD Christian/PETERSEN Christoffer,JAKAB Janos/ZWICKL Daniel,3,1,"3,11,11,14|11,2,6,12",QR16,GRAND_SLAM,MD,1789,Qualification,KONGSGAARD Christian (DEN) / PETERSEN Christoffer (DEN),JAKAB Janos (HUN) / ZWICKL Daniel (HUN)
-Chile Open Santiago 2006,2006-06-28,HOYAMA Hugo/MONTEIRO Thiago,CROTTI Mattia/TOMASI Stefano,3,0,"11,11,11|8,4,6",QR32,GRAND_SLAM,MD,1789,Qualification,HOYAMA Hugo (BRA) / MONTEIRO Thiago (BRA),CROTTI Mattia (ITA) / TOMASI Stefano (ITA)
-Chile Open Santiago 2006,2006-06-28,TAKAKIWA Kenichi/YOSHIDA Kaii,GONZALES Rudy/OLEA Carlos,3,1,"12,11,11,11|14,9,5,5",QR32,GRAND_SLAM,MD,1789,Qualification,TAKAKIWA Kenichi (JPN) / YOSHIDA Kaii (JPN),GONZALES Rudy (CHI) / OLEA Carlos (CHI)
-Chile Open Santiago 2006,2006-06-28,TAKAKIWA Kenichi/YOSHIDA Kaii,SHEN Qiang/ZHANG Wilson,3,0,"11,11,11|7,7,7",QR16,GRAND_SLAM,MD,1789,Qualification,TAKAKIWA Kenichi (JPN) / YOSHIDA Kaii (JPN),SHEN Qiang (CAN) / ZHANG Wilson (CAN)
-Chile Open Santiago 2006,2006-06-28,KIM Taehoon/LEE Jinkwon,TAKAKIWA Kenichi/YOSHIDA Kaii,4,0,,R16,GRAND_SLAM,MD,1789,Main Draw,KIM Taehoon (KOR) / LEE Jinkwon (KOR),TAKAKIWA Kenichi (JPN) / YOSHIDA Kaii (JPN)
-Chile Open Santiago 2006,2006-06-28,PAZSY Ferenc/TOKIC Bojan,KIM Taehoon/LEE Jinkwon,4,2,"8,11,10,11,11,11|11,8,12,7,7,9",QF,GRAND_SLAM,MD,1789,Main Draw,PAZSY Ferenc (HUN) / TOKIC Bojan (SLO),KIM Taehoon (KOR) / LEE Jinkwon (KOR)
-Chile Open Santiago 2006,2006-06-28,APOLONIA Tiago/MONTEIRO Joao,MAECK Anthony/VOSTES Yannick,4,0,"11,11,11,11|9,8,5,9",R16,GRAND_SLAM,MD,1789,Main Draw,APOLONIA Tiago (POR) / MONTEIRO Joao (POR),MAECK Anthony (BEL) / VOSTES Yannick (BEL)
-Chile Open Santiago 2006,2006-06-28,APOLONIA Tiago/MONTEIRO Joao,MOLNAR Csaba/ZOMBORI David,3,0,"11,11,11|9,5,3",QR32,GRAND_SLAM,MD,1789,Qualification,APOLONIA Tiago (POR) / MONTEIRO Joao (POR),MOLNAR Csaba (HUN) / ZOMBORI David (HUN)
-Chile Open Santiago 2006,2006-06-28,APOLONIA Tiago/MONTEIRO Joao,LIU Song/TABACHNIK Pablo,3,0,"11,11,11|4,3,5",QR16,GRAND_SLAM,MD,1789,Qualification,APOLONIA Tiago (POR) / MONTEIRO Joao (POR),LIU Song (ARG) / TABACHNIK Pablo (ARG)
-Chile Open Santiago 2006,2006-06-28,PAZSY Ferenc/TOKIC Bojan,KONGSGAARD Christian/PETERSEN Christoffer,4,0,"11,11,12,11|8,4,10,4",SF,GRAND_SLAM,MD,1789,Main Draw,PAZSY Ferenc (HUN) / TOKIC Bojan (SLO),KONGSGAARD Christian (DEN) / PETERSEN Christoffer (DEN)
-Chile Open Santiago 2006,2006-06-28,PISTEJ Lubomir/SEREDA Peter,LILLO Gustavo/OPORTO Ronald,3,0,"11,11,11|1,5,3",QR32,GRAND_SLAM,MD,1789,Qualification,PISTEJ Lubomir (SVK) / SEREDA Peter (SVK),LILLO Gustavo (CHI) / OPORTO Ronald (CHI)
-Chile Open Santiago 2006,2006-06-28,DELOBBE Damien/DIDUKH Oleksandr,PISTEJ Lubomir/SEREDA Peter,3,1,"11,11,7,11|6,7,11,7",QR16,GRAND_SLAM,MD,1789,Qualification,DELOBBE Damien (BEL) / DIDUKH Oleksandr (UKR),PISTEJ Lubomir (SVK) / SEREDA Peter (SVK)
-Chile Open Santiago 2006,2006-06-28,HERRERA Antonio/RONDON Ely,FERNANDEZ Marcelo/OROSTICA Juan Pablo,3,0,"11,11,12|9,7,10",QR64,GRAND_SLAM,MD,1789,Qualification,HERRERA Antonio (VEN) / RONDON Ely (VEN),FERNANDEZ Marcelo (CHI) / OROSTICA Juan Pablo (CHI)
-Chile Open Santiago 2006,2006-06-28,LONG Judy (Zhu)/ZHANG Mo,CERON Ximena/RODRIGUEZ Berta,4,1,"11,12,7,11,12|6,10,11,9,10",R16,GRAND_SLAM,WD,1789,Main Draw,LONG Judy (Zhu) (CAN) / ZHANG Mo (CAN),CERON Ximena (CHI) / RODRIGUEZ Berta (CHI)
-Chile Open Santiago 2006,2006-06-28,PAULIN Nancy/YUEN Stephanie,CAMPILLAY Beatriz/RUZ Angela,3,1,"12,7,11,11|10,11,6,7",QR64,GRAND_SLAM,WD,1789,Qualification,PAULIN Nancy (CAN) / YUEN Stephanie (CAN),CAMPILLAY Beatriz (CHI) / RUZ Angela (CHI)
-Chile Open Santiago 2006,2006-06-28,LANG Kristin/WANG Chen,CHIU Wennin/YUEN Sara,3,0,"11,12,11|3,10,7",QR32,GRAND_SLAM,WD,1789,Qualification,LANG Kristin (GER) / WANG Chen (USA),CHIU Wennin (CAN) / YUEN Sara (CAN)
-Chile Open Santiago 2006,2006-06-28,LEE Eunhee/SHIM Serom,PAULIN Nancy/YUEN Stephanie,3,1,"10,11,11,11|12,3,7,9",QR32,GRAND_SLAM,WD,1789,Qualification,LEE Eunhee (KOR) / SHIM Serom (KOR),PAULIN Nancy (CAN) / YUEN Stephanie (CAN)
-Chile Open Santiago 2006,2006-06-28,VEGA Paulina/YANEZ Melita,AQUEVEQUE Gabriela/RODRIGUEZ Laura,3,0,"11,11,11|8,8,8",QR32,GRAND_SLAM,WD,1789,Qualification,VEGA Paulina (CHI) / YANEZ Melita (CHI),AQUEVEQUE Gabriela (CHI) / RODRIGUEZ Laura (CHI)
-Chile Open Santiago 2006,2006-06-28,FUKUOKA Haruna/TASEI Mikie,BARRUETO Eliane/HERNANDEZ Silvia,3,0,,QR32,GRAND_SLAM,WD,1789,Qualification,FUKUOKA Haruna (JPN) / TASEI Mikie (JPN),BARRUETO Eliane (CHI) / HERNANDEZ Silvia (CHI)
-Chile Open Santiago 2006,2006-06-28,LONG Judy (Zhu)/ZHANG Mo,DURAN Blanca/ROJAS Karen,3,0,"11,12,11|7,10,1",QR32,GRAND_SLAM,WD,1789,Qualification,LONG Judy (Zhu) (CAN) / ZHANG Mo (CAN),DURAN Blanca (CHI) / ROJAS Karen (CHI)
-Chile Open Santiago 2006,2006-06-28,FUKUOKA Haruna/TASEI Mikie,VEGA Paulina/YANEZ Melita,3,0,"11,11,11|9,5,3",QR16,GRAND_SLAM,WD,1789,Qualification,FUKUOKA Haruna (JPN) / TASEI Mikie (JPN),VEGA Paulina (CHI) / YANEZ Melita (CHI)
-Chile Open Santiago 2006,2006-06-28,COULIBALY Dieniouma/HANFFOU Sarah,BELMAR Allyson/MORALES Judith,3,0,"11,11,11|4,6,5",QR32,GRAND_SLAM,WD,1789,Qualification,COULIBALY Dieniouma (FRA) / HANFFOU Sarah (CMR),BELMAR Allyson (CHI) / MORALES Judith (CHI)
-Chile Open Santiago 2006,2006-06-28,LANG Kristin/WANG Chen,COULIBALY Dieniouma/HANFFOU Sarah,3,0,"11,11,11|3,6,9",QR16,GRAND_SLAM,WD,1789,Qualification,LANG Kristin (GER) / WANG Chen (USA),COULIBALY Dieniouma (FRA) / HANFFOU Sarah (CMR)
-Chile Open Santiago 2006,2006-06-28,PAVLOVICH Viktoria/GANINA Svetlana,GRUNDISCH Carole/PHAI PANG Laurie,4,1,"11,13,8,11,11|5,11,11,8,7",R16,GRAND_SLAM,WD,1789,Main Draw,PAVLOVICH Viktoria (BLR) / GANINA Svetlana (RUS),GRUNDISCH Carole (FRA) / PHAI PANG Laurie (FRA)
-Chile Open Santiago 2006,2006-06-28,GRUNDISCH Carole/PHAI PANG Laurie,AVALOS Paula/ESCOBAR Constanza,3,0,"11,11,11|5,5,4",QR32,GRAND_SLAM,WD,1789,Qualification,GRUNDISCH Carole (FRA) / PHAI PANG Laurie (FRA),AVALOS Paula (CHI) / ESCOBAR Constanza (CHI)
-Chile Open Santiago 2006,2006-06-28,GRUNDISCH Carole/PHAI PANG Laurie,TEIGUEL Betzabet/YANEZ Milena,3,0,"11,11,12|5,2,10",QR16,GRAND_SLAM,WD,1789,Qualification,GRUNDISCH Carole (FRA) / PHAI PANG Laurie (FRA),TEIGUEL Betzabet (CHI) / YANEZ Milena (CHI)
-Chile Open Santiago 2006,2006-06-28,CHAKRABORTY Kasturi/GHATAK Poulomi,IKEIZUMI Claudia/SAKO Karin,3,0,"11,11,11|6,8,2",QR32,GRAND_SLAM,WD,1789,Qualification,CHAKRABORTY Kasturi (IND) / GHATAK Poulomi (IND),IKEIZUMI Claudia (BRA) / SAKO Karin (BRA)
-Chile Open Santiago 2006,2006-06-28,KISHIDA Satoko/UMEMURA Aya,ZEAS Valeria/PAUL Mousumi,3,0,,QR32,GRAND_SLAM,WD,1789,Qualification,KISHIDA Satoko (JPN) / UMEMURA Aya (JPN),ZEAS Valeria (ECU) / PAUL Mousumi (IND)
-Chile Open Santiago 2006,2006-06-28,STEFANOVA Nikoleta/TAN Wenling,LEE Eunhee/SHIM Serom,4,2,"12,6,6,11,12,11|10,11,11,6,10,4",R16,GRAND_SLAM,WD,1789,Main Draw,STEFANOVA Nikoleta (ITA) / TAN Wenling (ITA),LEE Eunhee (KOR) / SHIM Serom (KOR)
-Chile Open Santiago 2006,2006-06-28,FUJII Hiroko/KANAZAWA Saki,STEFANOVA Nikoleta/TAN Wenling,4,0,"11,11,11,11|4,7,5,4",QF,GRAND_SLAM,WD,1789,Main Draw,FUJII Hiroko (JPN) / KANAZAWA Saki (JPN),STEFANOVA Nikoleta (ITA) / TAN Wenling (ITA)
-Chile Open Santiago 2006,2006-06-28,CREEMERS Linda/NOUWEN Carla,SKOV Mie/WANG Yu (YOB=1981),3,1,"11,8,11,11|4,11,5,9",QR32,GRAND_SLAM,WD,1789,Qualification,CREEMERS Linda (NED) / NOUWEN Carla (NED),SKOV Mie (DEN) / WANG Yu (YOB=1981) (ITA)
-Chile Open Santiago 2006,2006-06-28,FUJINUMA Ai/HIRANO Sayaka,LANG Kristin/WANG Chen,4,2,"7,9,11,11,11,11|11,11,5,6,8,7",R16,GRAND_SLAM,WD,1789,Main Draw,FUJINUMA Ai (JPN) / HIRANO Sayaka (JPN),LANG Kristin (GER) / WANG Chen (USA)
-Chile Open Santiago 2006,2006-06-28,FUJII Hiroko/KANAZAWA Saki,PAOVIC Sandra/MOLNAR Cornelia,4,0,"11,15,11,11|2,13,9,2",R16,GRAND_SLAM,WD,1789,Main Draw,FUJII Hiroko (JPN) / KANAZAWA Saki (JPN),PAOVIC Sandra (CRO) / MOLNAR Cornelia (CRO)
-Chile Open Santiago 2006,2006-06-28,HIURA Reiko/KONISHI An,PAVLOVICH Veronika/POTA Georgina,4,0,"14,11,11,11|12,6,3,3",R16,GRAND_SLAM,WD,1789,Main Draw,HIURA Reiko (JPN) / KONISHI An (JPN),PAVLOVICH Veronika (BLR) / POTA Georgina (HUN)
-Chile Open Santiago 2006,2006-06-28,FUJINUMA Ai/HIRANO Sayaka,LONG Judy (Zhu)/ZHANG Mo,4,0,"11,11,12,11|6,9,10,3",QF,GRAND_SLAM,WD,1789,Main Draw,FUJINUMA Ai (JPN) / HIRANO Sayaka (JPN),LONG Judy (Zhu) (CAN) / ZHANG Mo (CAN)
-Chile Open Santiago 2006,2006-06-28,FUKUOKA Haruna/TASEI Mikie,PAVLOVICH Viktoria/GANINA Svetlana,4,1,"11,11,6,11,11|8,7,11,3,6",QF,GRAND_SLAM,WD,1789,Main Draw,FUKUOKA Haruna (JPN) / TASEI Mikie (JPN),PAVLOVICH Viktoria (BLR) / GANINA Svetlana (RUS)
-Chile Open Santiago 2006,2006-06-28,HIURA Reiko/KONISHI An,KISHIDA Satoko/UMEMURA Aya,4,3,"9,5,11,11,11,11,11|11,11,4,8,13,9,4",QF,GRAND_SLAM,WD,1789,Main Draw,HIURA Reiko (JPN) / KONISHI An (JPN),KISHIDA Satoko (JPN) / UMEMURA Aya (JPN)
-Chile Open Santiago 2006,2006-06-28,FUJINUMA Ai/HIRANO Sayaka,FUKUOKA Haruna/TASEI Mikie,4,0,"11,11,11,11|7,8,9,5",SF,GRAND_SLAM,WD,1789,Main Draw,FUJINUMA Ai (JPN) / HIRANO Sayaka (JPN),FUKUOKA Haruna (JPN) / TASEI Mikie (JPN)
-Chile Open Santiago 2006,2006-06-28,FUJII Hiroko/KANAZAWA Saki,HIURA Reiko/KONISHI An,4,1,"11,7,11,11,12|8,11,7,6,10",SF,GRAND_SLAM,WD,1789,Main Draw,FUJII Hiroko (JPN) / KANAZAWA Saki (JPN),HIURA Reiko (JPN) / KONISHI An (JPN)
-Chile Open Santiago 2006,2006-06-28,FUJII Hiroko/KANAZAWA Saki,FUJINUMA Ai/HIRANO Sayaka,4,0,"11,12,11,11|7,10,8,4",F,GRAND_SLAM,WD,1789,Main Draw,FUJII Hiroko (JPN) / KANAZAWA Saki (JPN),FUJINUMA Ai (JPN) / HIRANO Sayaka (JPN)
-Chile Open Santiago 2006,2006-06-28,FUJII Hiroko/KANAZAWA Saki,ALARCON Rocio/ROJAS Nicole,3,0,"11,11,11|5,5,3",QR32,GRAND_SLAM,WD,1789,Qualification,FUJII Hiroko (JPN) / KANAZAWA Saki (JPN),ALARCON Rocio (CHI) / ROJAS Nicole (CHI)
-Chile Open Santiago 2006,2006-06-28,HIURA Reiko/KONISHI An,DIAZ Violeta/MORENO Camila,3,0,"11,11,11|4,5,7",QR32,GRAND_SLAM,WD,1789,Qualification,HIURA Reiko (JPN) / KONISHI An (JPN),DIAZ Violeta (CHI) / MORENO Camila (CHI)
-Chile Open Santiago 2006,2006-06-28,FUJII Hiroko/KANAZAWA Saki,YOON Suwon/YU Yunmi,3,0,"11,11,12|3,8,10",QR16,GRAND_SLAM,WD,1789,Qualification,FUJII Hiroko (JPN) / KANAZAWA Saki (JPN),YOON Suwon (KOR) / YU Yunmi (KOR)
-Chile Open Santiago 2006,2006-06-28,HIURA Reiko/KONISHI An,CHAKRABORTY Kasturi/GHATAK Poulomi,3,1,"9,11,11,11|11,7,4,7",QR16,GRAND_SLAM,WD,1789,Qualification,HIURA Reiko (JPN) / KONISHI An (JPN),CHAKRABORTY Kasturi (IND) / GHATAK Poulomi (IND)
-Chile Open Santiago 2006,2006-06-28,FUKUOKA Haruna/TASEI Mikie,PARK Miyoung/YOON Sunae,4,3,"11,8,9,9,11,11,11|9,11,11,11,9,9,8",R16,GRAND_SLAM,WD,1789,Main Draw,FUKUOKA Haruna (JPN) / TASEI Mikie (JPN),PARK Miyoung (KOR) / YOON Sunae (KOR)
-Chile Open Santiago 2006,2006-06-28,KISHIDA Satoko/UMEMURA Aya,LEE Eunsil/MOON Hyunjung,4,0,"11,11,15,12|5,9,13,10",R16,GRAND_SLAM,WD,1789,Main Draw,KISHIDA Satoko (JPN) / UMEMURA Aya (JPN),LEE Eunsil (KOR) / MOON Hyunjung (KOR)
-Chile Open Santiago 2006,2006-06-28,YOON Suwon/YU Yunmi,NONAKA Mariany/SILVA Ligia,3,1,"8,11,11,11|11,9,4,4",QR32,GRAND_SLAM,WD,1789,Qualification,YOON Suwon (KOR) / YU Yunmi (KOR),NONAKA Mariany (BRA) / SILVA Ligia (BRA)
-Chile Open Santiago 2006,2006-06-28,LEE Eunhee/SHIM Serom,CREEMERS Linda/NOUWEN Carla,3,2,"15,11,11,2,11|17,5,4,11,3",QR16,GRAND_SLAM,WD,1789,Qualification,LEE Eunhee (KOR) / SHIM Serom (KOR),CREEMERS Linda (NED) / NOUWEN Carla (NED)
-Chile Open Santiago 2006,2006-06-28,RAMIREZ Sara/EKHOLM Matilda,GOMEZ Giovanna/REINERO Daniela,3,0,"11,11,11|7,9,5",QR32,GRAND_SLAM,WD,1789,Qualification,RAMIREZ Sara (ESP) / EKHOLM Matilda (SWE),GOMEZ Giovanna (CHI) / REINERO Daniela (CHI)
-Chile Open Santiago 2006,2006-06-28,LONG Judy (Zhu)/ZHANG Mo,RAMIREZ Sara/EKHOLM Matilda,3,0,"11,11,13|8,5,11",QR16,GRAND_SLAM,WD,1789,Qualification,LONG Judy (Zhu) (CAN) / ZHANG Mo (CAN),RAMIREZ Sara (ESP) / EKHOLM Matilda (SWE)
-Chile Open Santiago 2006,2006-06-28,GUANCHEZ Mariana/RAMOS Fabiola,CASTELLANO Natalia/CONCHA Romina,3,1,"4,11,11,11|11,9,2,2",QR32,GRAND_SLAM,WD,1789,Qualification,GUANCHEZ Mariana (VEN) / RAMOS Fabiola (VEN),CASTELLANO Natalia (CHI) / CONCHA Romina (CHI)
-Chile Open Santiago 2006,2006-06-28,KISHIDA Satoko/UMEMURA Aya,GUANCHEZ Mariana/RAMOS Fabiola,3,0,"11,11,13|6,5,11",QR16,GRAND_SLAM,WD,1789,Qualification,KISHIDA Satoko (JPN) / UMEMURA Aya (JPN),GUANCHEZ Mariana (VEN) / RAMOS Fabiola (VEN)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Chile Open Santiago 2006,2006-06-28,BRIZUELA Hernan,BRAVO Sergio,4,2,"8,11,12,11,11,11|11,2,14,6,9,6",,GRAND_SLAM,MS,1789,Qualification,BRIZUELA Hernan (ARG),BRAVO Sergio (CHI),BRIZUELA Hernan
+Chile Open Santiago 2006,2006-06-28,APOLONIA Tiago,BRAVO Sergio,4,0,"11,11,11,11|6,6,5,9",QR2,GRAND_SLAM,MS,1789,Qualification,APOLONIA Tiago (POR),BRAVO Sergio (CHI),APOLONIA Tiago
+Chile Open Santiago 2006,2006-06-28,APOLONIA Tiago,BRIZUELA Hernan,4,1,"8,12,11,11,11|11,10,5,4,4",3,GRAND_SLAM,MS,1789,Qualification,APOLONIA Tiago (POR),BRIZUELA Hernan (ARG),APOLONIA Tiago
+Chile Open Santiago 2006,2006-06-28,BUSTOS Cristian,GRECO Juan,4,0,"11,11,11,11|6,6,4,7",,GRAND_SLAM,MS,1789,Qualification,BUSTOS Cristian (CHI),GRECO Juan (ARG),BUSTOS Cristian
+Chile Open Santiago 2006,2006-06-28,MATSUMOTO Cazuo,BUSTOS Cristian,4,0,"11,11,11,11|6,3,4,5",QR2,GRAND_SLAM,MS,1789,Qualification,MATSUMOTO Cazuo (BRA),BUSTOS Cristian (CHI),MATSUMOTO Cazuo
+Chile Open Santiago 2006,2006-06-28,MATSUMOTO Cazuo,GRECO Juan,4,0,"11,11,11,11|1,2,6,3",3,GRAND_SLAM,MS,1789,Qualification,MATSUMOTO Cazuo (BRA),GRECO Juan (ARG),MATSUMOTO Cazuo
+Chile Open Santiago 2006,2006-06-28,MARTINEZ Rodrigo,MOAVRO Sebastian,4,0,"11,11,11,11|8,8,6,8",,GRAND_SLAM,MS,1789,Qualification,MARTINEZ Rodrigo (CHI),MOAVRO Sebastian (ARG),MARTINEZ Rodrigo
+Chile Open Santiago 2006,2006-06-28,MACHADO Carlos,MARTINEZ Rodrigo,4,0,"12,11,11,11|10,9,5,3",QR2,GRAND_SLAM,MS,1789,Qualification,MACHADO Carlos (ESP),MARTINEZ Rodrigo (CHI),MACHADO Carlos
+Chile Open Santiago 2006,2006-06-28,MACHADO Carlos,MOAVRO Sebastian,4,0,"11,11,11,11|2,4,6,4",3,GRAND_SLAM,MS,1789,Qualification,MACHADO Carlos (ESP),MOAVRO Sebastian (ARG),MACHADO Carlos
+Chile Open Santiago 2006,2006-06-28,SZENFELD Jorge,ROSENFELD Federico,4,1,"10,11,13,11,11|12,6,11,5,5",,GRAND_SLAM,MS,1789,Qualification,SZENFELD Jorge (CHI),ROSENFELD Federico (ARG),SZENFELD Jorge
+Chile Open Santiago 2006,2006-06-28,DURAN Marc,ROSENFELD Federico,4,0,"11,11,11,11|5,3,6,5",QR2,GRAND_SLAM,MS,1789,Qualification,DURAN Marc (ESP),ROSENFELD Federico (ARG),DURAN Marc
+Chile Open Santiago 2006,2006-06-28,DURAN Marc,SZENFELD Jorge,4,0,"11,11,11,11|0,8,8,9",3,GRAND_SLAM,MS,1789,Qualification,DURAN Marc (ESP),SZENFELD Jorge (CHI),DURAN Marc
+Chile Open Santiago 2006,2006-06-28,CONTRERAS Matias,TASSARA Fernando,4,3,"9,6,11,11,7,11,11|11,11,7,6,11,5,6",,GRAND_SLAM,MS,1789,Qualification,CONTRERAS Matias (CHI),TASSARA Fernando (ARG),CONTRERAS Matias
+Chile Open Santiago 2006,2006-06-28,KONGSGAARD Christian,TASSARA Fernando,4,1,"11,14,11,8,11|7,12,6,11,6",QR2,GRAND_SLAM,MS,1789,Qualification,KONGSGAARD Christian (DEN),TASSARA Fernando (ARG),KONGSGAARD Christian
+Chile Open Santiago 2006,2006-06-28,KONGSGAARD Christian,CONTRERAS Matias,4,0,"11,11,11,11|2,8,8,7",3,GRAND_SLAM,MS,1789,Qualification,KONGSGAARD Christian (DEN),CONTRERAS Matias (CHI),KONGSGAARD Christian
+Chile Open Santiago 2006,2006-06-28,FLORES Jose Manuel,BERMUDEZ Marcos,4,0,,,GRAND_SLAM,MS,1789,Qualification,FLORES Jose Manuel (CHI),BERMUDEZ Marcos (ECU),FLORES Jose Manuel
+Chile Open Santiago 2006,2006-06-28,ZUBCIC Tomislav,BERMUDEZ Marcos,4,0,,QR2,GRAND_SLAM,MS,1789,Qualification,ZUBCIC Tomislav (CRO),BERMUDEZ Marcos (ECU),ZUBCIC Tomislav
+Chile Open Santiago 2006,2006-06-28,ZUBCIC Tomislav,FLORES Jose Manuel,4,0,"11,11,11,11|7,7,9,7",3,GRAND_SLAM,MS,1789,Qualification,ZUBCIC Tomislav (CRO),FLORES Jose Manuel (CHI),ZUBCIC Tomislav
+Chile Open Santiago 2006,2006-06-28,OLIVARES Felipe,ABBASI MWINYI Mohamed,4,0,,,GRAND_SLAM,MS,1789,Qualification,OLIVARES Felipe (CHI),ABBASI MWINYI Mohamed (TAN),OLIVARES Felipe
+Chile Open Santiago 2006,2006-06-28,ROY Soumyadeep,ABBASI MWINYI Mohamed,4,0,,QR2,GRAND_SLAM,MS,1789,Qualification,ROY Soumyadeep (IND),ABBASI MWINYI Mohamed (TAN),ROY Soumyadeep
+Chile Open Santiago 2006,2006-06-28,ROY Soumyadeep,OLIVARES Felipe,4,2,"4,7,11,11,11,11|11,11,3,5,8,4",3,GRAND_SLAM,MS,1789,Qualification,ROY Soumyadeep (IND),OLIVARES Felipe (CHI),ROY Soumyadeep
+Chile Open Santiago 2006,2006-06-28,RODRIGUEZ Alejandro,MOSHAMED OMARY Yassini,4,0,,,GRAND_SLAM,MS,1789,Qualification,RODRIGUEZ Alejandro (CHI),MOSHAMED OMARY Yassini (TAN),RODRIGUEZ Alejandro
+Chile Open Santiago 2006,2006-06-28,KONECNY Tomas,MOSHAMED OMARY Yassini,4,0,,QR2,GRAND_SLAM,MS,1789,Qualification,KONECNY Tomas (CZE),MOSHAMED OMARY Yassini (TAN),KONECNY Tomas
+Chile Open Santiago 2006,2006-06-28,KONECNY Tomas,RODRIGUEZ Alejandro,4,0,"11,11,11,12|5,4,4,10",3,GRAND_SLAM,MS,1789,Qualification,KONECNY Tomas (CZE),RODRIGUEZ Alejandro (CHI),KONECNY Tomas
+Chile Open Santiago 2006,2006-06-28,NILO Felipe,SALUM JABIR Saleh,4,0,,,GRAND_SLAM,MS,1789,Qualification,NILO Felipe (CHI),SALUM JABIR Saleh (TAN),NILO Felipe
+Chile Open Santiago 2006,2006-06-28,DESPRES Rodolphe,SALUM JABIR Saleh,4,0,,QR2,GRAND_SLAM,MS,1789,Qualification,DESPRES Rodolphe (FRA),SALUM JABIR Saleh (TAN),DESPRES Rodolphe
+Chile Open Santiago 2006,2006-06-28,DESPRES Rodolphe,NILO Felipe,4,2,"11,6,11,15,11,11|7,11,4,17,7,6",3,GRAND_SLAM,MS,1789,Qualification,DESPRES Rodolphe (FRA),NILO Felipe (CHI),DESPRES Rodolphe
+Chile Open Santiago 2006,2006-06-28,GAETE Pablo,SHAIB HAMAD Humuod,4,0,,,GRAND_SLAM,MS,1789,Qualification,GAETE Pablo (CHI),SHAIB HAMAD Humuod (TAN),GAETE Pablo
+Chile Open Santiago 2006,2006-06-28,VOSTES Yannick,SHAIB HAMAD Humuod,4,0,,QR2,GRAND_SLAM,MS,1789,Qualification,VOSTES Yannick (BEL),SHAIB HAMAD Humuod (TAN),VOSTES Yannick
+Chile Open Santiago 2006,2006-06-28,VOSTES Yannick,GAETE Pablo,4,0,"11,11,11,11|6,6,7,7",3,GRAND_SLAM,MS,1789,Qualification,VOSTES Yannick (BEL),GAETE Pablo (CHI),VOSTES Yannick
+Chile Open Santiago 2006,2006-06-28,CORSINI Marcelo,FLORES Patricio,4,1,"7,11,13,11,12|11,2,11,9,10",,GRAND_SLAM,MS,1789,Qualification,CORSINI Marcelo (BRA),FLORES Patricio (CHI),CORSINI Marcelo
+Chile Open Santiago 2006,2006-06-28,TABACHNIK Pablo,CORSINI Marcelo,4,1,"11,9,11,11,11|7,11,5,6,7",QR2,GRAND_SLAM,MS,1789,Qualification,TABACHNIK Pablo (ARG),CORSINI Marcelo (BRA),TABACHNIK Pablo
+Chile Open Santiago 2006,2006-06-28,TABACHNIK Pablo,FLORES Patricio,4,1,"11,11,11,6,11|5,9,6,11,6",3,GRAND_SLAM,MS,1789,Qualification,TABACHNIK Pablo (ARG),FLORES Patricio (CHI),TABACHNIK Pablo
+Chile Open Santiago 2006,2006-06-28,HERRERA Antonio,REYES Orlando,4,2,"9,11,7,11,11,11|11,3,11,4,9,6",,GRAND_SLAM,MS,1789,Qualification,HERRERA Antonio (VEN),REYES Orlando (CHI),HERRERA Antonio
+Chile Open Santiago 2006,2006-06-28,PETERSEN Christoffer,REYES Orlando,4,0,"11,11,11,11|7,7,4,7",QR2,GRAND_SLAM,MS,1789,Qualification,PETERSEN Christoffer (DEN),REYES Orlando (CHI),PETERSEN Christoffer
+Chile Open Santiago 2006,2006-06-28,PETERSEN Christoffer,HERRERA Antonio,4,0,"11,11,11,11|8,7,5,8",3,GRAND_SLAM,MS,1789,Qualification,PETERSEN Christoffer (DEN),HERRERA Antonio (VEN),PETERSEN Christoffer
+Chile Open Santiago 2006,2006-06-28,RONDON Ely,SALAZAR Sergio,4,1,"7,11,11,11,11|11,9,1,4,8",,GRAND_SLAM,MS,1789,Qualification,RONDON Ely (VEN),SALAZAR Sergio (CHI),RONDON Ely
+Chile Open Santiago 2006,2006-06-28,DELOBBE Damien,SALAZAR Sergio,4,0,"11,11,11,11|2,5,5,5",QR2,GRAND_SLAM,MS,1789,Qualification,DELOBBE Damien (BEL),SALAZAR Sergio (CHI),DELOBBE Damien
+Chile Open Santiago 2006,2006-06-28,DELOBBE Damien,RONDON Ely,4,1,"11,11,9,11,11|3,8,11,4,5",3,GRAND_SLAM,MS,1789,Qualification,DELOBBE Damien (BEL),RONDON Ely (VEN),DELOBBE Damien
+Chile Open Santiago 2006,2006-06-28,LEVIS Bruno,SAUD Jorge,4,0,"11,11,11,11|7,4,5,5",,GRAND_SLAM,MS,1789,Qualification,LEVIS Bruno (CHI),SAUD Jorge (CHI),LEVIS Bruno
+Chile Open Santiago 2006,2006-06-28,NEKHVEDOVICH Vitaly,SAUD Jorge,4,0,"11,11,11,11|1,4,5,6",QR2,GRAND_SLAM,MS,1789,Qualification,NEKHVEDOVICH Vitaly (BLR),SAUD Jorge (CHI),NEKHVEDOVICH Vitaly
+Chile Open Santiago 2006,2006-06-28,NEKHVEDOVICH Vitaly,LEVIS Bruno,4,2,"11,11,11,11,9,11|9,13,4,5,11,6",3,GRAND_SLAM,MS,1789,Qualification,NEKHVEDOVICH Vitaly (BLR),LEVIS Bruno (CHI),NEKHVEDOVICH Vitaly
+Chile Open Santiago 2006,2006-06-28,TOLEDO Marcelo,COELLO Geovanny,4,2,"8,11,6,11,11,11|11,8,11,7,5,6",,GRAND_SLAM,MS,1789,Qualification,TOLEDO Marcelo (CHI),COELLO Geovanny (ECU),TOLEDO Marcelo
+Chile Open Santiago 2006,2006-06-28,SAHA Subhajit,TOLEDO Marcelo,4,0,"11,11,12,11|4,6,10,8",QR2,GRAND_SLAM,MS,1789,Qualification,SAHA Subhajit (IND),TOLEDO Marcelo (CHI),SAHA Subhajit
+Chile Open Santiago 2006,2006-06-28,SAHA Subhajit,COELLO Geovanny,4,0,"14,11,11,11|12,7,7,8",3,GRAND_SLAM,MS,1789,Qualification,SAHA Subhajit (IND),COELLO Geovanny (ECU),SAHA Subhajit
+Chile Open Santiago 2006,2006-06-28,UBILLA Nicolas,TOVAR Alexis,4,0,,,GRAND_SLAM,MS,1789,Qualification,UBILLA Nicolas (CHI),TOVAR Alexis (VEN),UBILLA Nicolas
+Chile Open Santiago 2006,2006-06-28,LEBESSON Emmanuel,TOVAR Alexis,4,0,,QR2,GRAND_SLAM,MS,1789,Qualification,LEBESSON Emmanuel (FRA),TOVAR Alexis (VEN),LEBESSON Emmanuel
+Chile Open Santiago 2006,2006-06-28,LEBESSON Emmanuel,UBILLA Nicolas,4,0,"11,12,13,11|4,10,11,5",3,GRAND_SLAM,MS,1789,Qualification,LEBESSON Emmanuel (FRA),UBILLA Nicolas (CHI),LEBESSON Emmanuel
+Chile Open Santiago 2006,2006-06-28,OLEA Carlos,HERNANDEZ Paul,4,0,,,GRAND_SLAM,MS,1789,Qualification,OLEA Carlos (CHI),HERNANDEZ Paul (ECU),OLEA Carlos
+Chile Open Santiago 2006,2006-06-28,GACINA Andrej,HERNANDEZ Paul,4,0,,QR2,GRAND_SLAM,MS,1789,Qualification,GACINA Andrej (CRO),HERNANDEZ Paul (ECU),GACINA Andrej
+Chile Open Santiago 2006,2006-06-28,GACINA Andrej,OLEA Carlos,4,2,"11,9,11,8,11,11|8,11,8,11,6,5",3,GRAND_SLAM,MS,1789,Qualification,GACINA Andrej (CRO),OLEA Carlos (CHI),GACINA Andrej
+Chile Open Santiago 2006,2006-06-28,GONZALES Rudy,AGUIRRE Marcelo,4,3,"11,11,2,11,10,10,11|3,8,11,6,12,12,9",,GRAND_SLAM,MS,1789,Qualification,GONZALES Rudy (CHI),AGUIRRE Marcelo (PAR),GONZALES Rudy
+Chile Open Santiago 2006,2006-06-28,TOMASI Stefano,AGUIRRE Marcelo,4,0,"11,11,11,11|6,5,9,7",QR2,GRAND_SLAM,MS,1789,Qualification,TOMASI Stefano (ITA),AGUIRRE Marcelo (PAR),TOMASI Stefano
+Chile Open Santiago 2006,2006-06-28,TOMASI Stefano,GONZALES Rudy,4,0,"11,11,11,11|2,5,6,7",3,GRAND_SLAM,MS,1789,Qualification,TOMASI Stefano (ITA),GONZALES Rudy (CHI),TOMASI Stefano
+Chile Open Santiago 2006,2006-06-28,HINSE Pierre-Luc,CONCHA Fernando,4,0,"11,11,11,11|6,7,7,7",,GRAND_SLAM,MS,1789,Qualification,HINSE Pierre-Luc (CAN),CONCHA Fernando (CHI),HINSE Pierre-Luc
+Chile Open Santiago 2006,2006-06-28,MAECK Anthony,CONCHA Fernando,4,2,"11,8,9,11,15,11|5,11,11,4,13,9",QR2,GRAND_SLAM,MS,1789,Qualification,MAECK Anthony (BEL),CONCHA Fernando (CHI),MAECK Anthony
+Chile Open Santiago 2006,2006-06-28,MAECK Anthony,HINSE Pierre-Luc,4,1,"11,11,11,4,11|2,7,7,11,9",3,GRAND_SLAM,MS,1789,Qualification,MAECK Anthony (BEL),HINSE Pierre-Luc (CAN),MAECK Anthony
+Chile Open Santiago 2006,2006-06-28,THERIEN Xavier,CONTRERAS Felipe,4,0,"11,11,11,11|8,8,5,7",,GRAND_SLAM,MS,1789,Qualification,THERIEN Xavier (CAN),CONTRERAS Felipe (CHI),THERIEN Xavier
+Chile Open Santiago 2006,2006-06-28,VENTURA DOS ANJOS Bruno,CONTRERAS Felipe,4,3,"8,10,11,5,11,11,11|11,12,7,11,3,8,5",QR2,GRAND_SLAM,MS,1789,Qualification,VENTURA DOS ANJOS Bruno (BRA),CONTRERAS Felipe (CHI),VENTURA DOS ANJOS Bruno
+Chile Open Santiago 2006,2006-06-28,VENTURA DOS ANJOS Bruno,THERIEN Xavier,4,1,"11,9,12,11,11|8,11,10,7,9",3,GRAND_SLAM,MS,1789,Qualification,VENTURA DOS ANJOS Bruno (BRA),THERIEN Xavier (CAN),VENTURA DOS ANJOS Bruno
+Chile Open Santiago 2006,2006-06-28,SHEN Qiang,DONAIRE Eduardo,4,0,"11,11,11,11|5,1,5,3",,GRAND_SLAM,MS,1789,Qualification,SHEN Qiang (CAN),DONAIRE Eduardo (CHI),SHEN Qiang
+Chile Open Santiago 2006,2006-06-28,KUCHUK Aleksandr,DONAIRE Eduardo,4,0,"14,11,11,11|12,4,7,7",QR2,GRAND_SLAM,MS,1789,Qualification,KUCHUK Aleksandr (BLR),DONAIRE Eduardo (CHI),KUCHUK Aleksandr
+Chile Open Santiago 2006,2006-06-28,KUCHUK Aleksandr,SHEN Qiang,4,1,"11,11,9,11,11|8,2,11,4,7",3,GRAND_SLAM,MS,1789,Qualification,KUCHUK Aleksandr (BLR),SHEN Qiang (CAN),KUCHUK Aleksandr
+Chile Open Santiago 2006,2006-06-28,ZOMBORI David,FERNANDEZ Marcelo,4,0,"11,11,11,11|6,7,5,6",,GRAND_SLAM,MS,1789,Qualification,ZOMBORI David (HUN),FERNANDEZ Marcelo (CHI),ZOMBORI David
+Chile Open Santiago 2006,2006-06-28,CROTTI Mattia,FERNANDEZ Marcelo,4,0,"11,11,11,11|5,6,5,6",QR2,GRAND_SLAM,MS,1789,Qualification,CROTTI Mattia (ITA),FERNANDEZ Marcelo (CHI),CROTTI Mattia
+Chile Open Santiago 2006,2006-06-28,ZOMBORI David,CROTTI Mattia,4,2,"11,11,12,11,7,11|13,4,10,4,11,6",3,GRAND_SLAM,MS,1789,Qualification,ZOMBORI David (HUN),CROTTI Mattia (ITA),ZOMBORI David
+Chile Open Santiago 2006,2006-06-28,MOLNAR Csaba,CAMPUSANO Guillermo,4,1,"11,11,11,9,11|9,6,9,11,5",,GRAND_SLAM,MS,1789,Qualification,MOLNAR Csaba (HUN),CAMPUSANO Guillermo (CHI),MOLNAR Csaba
+Chile Open Santiago 2006,2006-06-28,ANGEL Felipe,MEHTA Pathik,4,0,,QR2,GRAND_SLAM,MS,1789,Qualification,ANGEL Felipe (CHI),MEHTA Pathik (IND),ANGEL Felipe
+Chile Open Santiago 2006,2006-06-28,MOLNAR Csaba,ANGEL Felipe,4,2,"11,11,11,5,8,11|7,5,9,11,11,7",3,GRAND_SLAM,MS,1789,Qualification,MOLNAR Csaba (HUN),ANGEL Felipe (CHI),MOLNAR Csaba
+Chile Open Santiago 2006,2006-06-28,CAMPUSANO Guillermo,MEHTA Pathik,4,0,,QR4,GRAND_SLAM,MS,1789,Qualification,CAMPUSANO Guillermo (CHI),MEHTA Pathik (IND),CAMPUSANO Guillermo
+Chile Open Santiago 2006,2006-06-28,CAMPUSANO Guillermo,ANGEL Felipe,4,1,"11,8,11,11,13|8,11,3,7,11",5,GRAND_SLAM,MS,1789,Qualification,CAMPUSANO Guillermo (CHI),ANGEL Felipe (CHI),CAMPUSANO Guillermo
+Chile Open Santiago 2006,2006-06-28,MOLNAR Csaba,MEHTA Pathik,4,0,,6,GRAND_SLAM,MS,1789,Qualification,MOLNAR Csaba (HUN),MEHTA Pathik (IND),MOLNAR Csaba
+Chile Open Santiago 2006,2006-06-28,MOAVRO Sebastian,OLIVARES Felipe,3,1,"9,11,11,11|11,9,9,9",,GRAND_SLAM,U21MS,1789,Qualification,MOAVRO Sebastian (ARG),OLIVARES Felipe (CHI),MOAVRO Sebastian
+Chile Open Santiago 2006,2006-06-28,VOSTES Yannick,MOAVRO Sebastian,3,0,"11,11,11|5,6,5",QR2,GRAND_SLAM,U21MS,1789,Qualification,VOSTES Yannick (BEL),MOAVRO Sebastian (ARG),VOSTES Yannick
+Chile Open Santiago 2006,2006-06-28,VOSTES Yannick,OLIVARES Felipe,3,0,"11,11,11|2,6,5",3,GRAND_SLAM,U21MS,1789,Qualification,VOSTES Yannick (BEL),OLIVARES Felipe (CHI),VOSTES Yannick
+Chile Open Santiago 2006,2006-06-28,NILO Felipe,CARRASCO Cristian,3,2,"11,11,11,9,13|5,13,7,11,11",,GRAND_SLAM,U21MS,1789,Qualification,NILO Felipe (CHI),CARRASCO Cristian (CHI),NILO Felipe
+Chile Open Santiago 2006,2006-06-28,LEBESSON Emmanuel,CARRASCO Cristian,3,0,"11,11,11|0,1,5",QR2,GRAND_SLAM,U21MS,1789,Qualification,LEBESSON Emmanuel (FRA),CARRASCO Cristian (CHI),LEBESSON Emmanuel
+Chile Open Santiago 2006,2006-06-28,LEBESSON Emmanuel,NILO Felipe,3,0,"11,11,11|9,4,4",3,GRAND_SLAM,U21MS,1789,Qualification,LEBESSON Emmanuel (FRA),NILO Felipe (CHI),LEBESSON Emmanuel
+Chile Open Santiago 2006,2006-06-28,GAETE Pablo,GONZALEZ Felipe,3,1,"11,8,11,11|4,11,8,4",,GRAND_SLAM,U21MS,1789,Qualification,GAETE Pablo (CHI),GONZALEZ Felipe (CHI),GAETE Pablo
+Chile Open Santiago 2006,2006-06-28,GACINA Andrej,GONZALEZ Felipe,3,0,"11,11,11|4,9,4",QR2,GRAND_SLAM,U21MS,1789,Qualification,GACINA Andrej (CRO),GONZALEZ Felipe (CHI),GACINA Andrej
+Chile Open Santiago 2006,2006-06-28,GACINA Andrej,GAETE Pablo,3,0,"11,12,11|5,10,8",3,GRAND_SLAM,U21MS,1789,Qualification,GACINA Andrej (CRO),GAETE Pablo (CHI),GACINA Andrej
+Chile Open Santiago 2006,2006-06-28,FLORES Patricio,PONCE Max,3,1,"11,11,6,11|5,8,11,8",,GRAND_SLAM,U21MS,1789,Qualification,FLORES Patricio (CHI),PONCE Max (CHI),FLORES Patricio
+Chile Open Santiago 2006,2006-06-28,KUCHUK Aleksandr,PONCE Max,3,0,"11,11,12|4,4,10",QR2,GRAND_SLAM,U21MS,1789,Qualification,KUCHUK Aleksandr (BLR),PONCE Max (CHI),KUCHUK Aleksandr
+Chile Open Santiago 2006,2006-06-28,KUCHUK Aleksandr,FLORES Patricio,3,0,"11,11,11|8,8,1",3,GRAND_SLAM,U21MS,1789,Qualification,KUCHUK Aleksandr (BLR),FLORES Patricio (CHI),KUCHUK Aleksandr
+Chile Open Santiago 2006,2006-06-28,LEVIS Bruno,TOVAR Alexis,3,0,,,GRAND_SLAM,U21MS,1789,Qualification,LEVIS Bruno (CHI),TOVAR Alexis (VEN),LEVIS Bruno
+Chile Open Santiago 2006,2006-06-28,LEVIS Bruno,MEHTA Pathik,3,0,,3,GRAND_SLAM,U21MS,1789,Qualification,LEVIS Bruno (CHI),MEHTA Pathik (IND),LEVIS Bruno
+Chile Open Santiago 2006,2006-06-28,UBILLA Nicolas,AGUIRRE Marcelo,3,0,"11,11,11|8,4,6",,GRAND_SLAM,U21MS,1789,Qualification,UBILLA Nicolas (CHI),AGUIRRE Marcelo (PAR),UBILLA Nicolas
+Chile Open Santiago 2006,2006-06-28,MOLNAR Csaba,AGUIRRE Marcelo,3,2,"6,11,11,8,11|11,7,5,11,5",QR2,GRAND_SLAM,U21MS,1789,Qualification,MOLNAR Csaba (HUN),AGUIRRE Marcelo (PAR),MOLNAR Csaba
+Chile Open Santiago 2006,2006-06-28,MOLNAR Csaba,UBILLA Nicolas,3,0,"11,11,11|7,6,7",3,GRAND_SLAM,U21MS,1789,Qualification,MOLNAR Csaba (HUN),UBILLA Nicolas (CHI),MOLNAR Csaba
+Chile Open Santiago 2006,2006-06-28,HINSE Pierre-Luc,ZAPATA Marcelo,3,0,"11,11,13|8,7,11",,GRAND_SLAM,U21MS,1789,Qualification,HINSE Pierre-Luc (CAN),ZAPATA Marcelo (CHI),HINSE Pierre-Luc
+Chile Open Santiago 2006,2006-06-28,ZOMBORI David,ZAPATA Marcelo,3,1,"7,11,11,11|11,1,6,7",QR2,GRAND_SLAM,U21MS,1789,Qualification,ZOMBORI David (HUN),ZAPATA Marcelo (CHI),ZOMBORI David
+Chile Open Santiago 2006,2006-06-28,ZOMBORI David,HINSE Pierre-Luc,3,1,"11,11,9,11|5,8,11,4",3,GRAND_SLAM,U21MS,1789,Qualification,ZOMBORI David (HUN),HINSE Pierre-Luc (CAN),ZOMBORI David
+Chile Open Santiago 2006,2006-06-28,OLEA Carlos,MUNIZAGA Rodrigo,3,0,"11,11,11|9,2,6",,GRAND_SLAM,U21MS,1789,Qualification,OLEA Carlos (CHI),MUNIZAGA Rodrigo (CHI),OLEA Carlos
+Chile Open Santiago 2006,2006-06-28,SHEN Qiang,MUNIZAGA Rodrigo,3,0,"11,11,11|5,6,5",QR2,GRAND_SLAM,U21MS,1789,Qualification,SHEN Qiang (CAN),MUNIZAGA Rodrigo (CHI),SHEN Qiang
+Chile Open Santiago 2006,2006-06-28,OLEA Carlos,SHEN Qiang,3,2,"9,11,11,8,11|11,8,8,11,7",3,GRAND_SLAM,U21MS,1789,Qualification,OLEA Carlos (CHI),SHEN Qiang (CAN),OLEA Carlos
+Chile Open Santiago 2006,2006-06-28,SAMSONOV Vladimir,CORSINI Marcelo,4,0,"11,11,11,11|2,5,4,4",R64,GRAND_SLAM,MS,1789,Main Draw,SAMSONOV Vladimir (BLR),CORSINI Marcelo (BRA),SAMSONOV Vladimir
+Chile Open Santiago 2006,2006-06-28,ZWICKL Daniel,DELOBBE Damien,4,2,"11,9,11,12,11,11|13,11,3,10,7,3",R64,GRAND_SLAM,MS,1789,Main Draw,ZWICKL Daniel (HUN),DELOBBE Damien (BEL),ZWICKL Daniel
+Chile Open Santiago 2006,2006-06-28,DIDUKH Oleksandr,TABACHNIK Pablo,4,2,"12,11,11,8,6,11|10,5,5,11,11,4",R64,GRAND_SLAM,MS,1789,Main Draw,DIDUKH Oleksandr (UKR),TABACHNIK Pablo (ARG),DIDUKH Oleksandr
+Chile Open Santiago 2006,2006-06-28,KEINATH Thomas,DURAN Marc,4,2,"17,9,11,11,12,11|19,11,8,6,10,7",R64,GRAND_SLAM,MS,1789,Main Draw,KEINATH Thomas (SVK),DURAN Marc (ESP),KEINATH Thomas
+Chile Open Santiago 2006,2006-06-28,CHO Jihoon,NILO Felipe,4,0,"11,11,11,14|8,6,4,12",R64,GRAND_SLAM,MS,1789,Main Draw,CHO Jihoon (KOR),NILO Felipe (CHI),CHO Jihoon
+Chile Open Santiago 2006,2006-06-28,KIM Taehoon,MACHADO Carlos,4,0,"11,11,11,11|5,8,9,9",R64,GRAND_SLAM,MS,1789,Main Draw,KIM Taehoon (KOR),MACHADO Carlos (ESP),KIM Taehoon
+Chile Open Santiago 2006,2006-06-28,LEE Jinkwon,KONGSGAARD Christian,4,3,"11,12,6,11,11,10,11|7,14,11,7,5,12,7",R64,GRAND_SLAM,MS,1789,Main Draw,LEE Jinkwon (KOR),KONGSGAARD Christian (DEN),LEE Jinkwon
+Chile Open Santiago 2006,2006-06-28,LEGOUT Christophe,CONTRERAS Matias,4,0,"11,11,12,11|5,6,10,7",R64,GRAND_SLAM,MS,1789,Main Draw,LEGOUT Christophe (FRA),CONTRERAS Matias (CHI),LEGOUT Christophe
+Chile Open Santiago 2006,2006-06-28,SEREDA Peter,SHEN Qiang,4,0,"11,11,12,12|4,5,10,10",R64,GRAND_SLAM,MS,1789,Main Draw,SEREDA Peter (SVK),SHEN Qiang (CAN),SEREDA Peter
+Chile Open Santiago 2006,2006-06-28,BERTIN Christophe,VENTURA DOS ANJOS Bruno,4,2,"11,9,11,11,10,12|7,11,5,6,12,10",R64,GRAND_SLAM,MS,1789,Main Draw,BERTIN Christophe (FRA),VENTURA DOS ANJOS Bruno (BRA),BERTIN Christophe
+Chile Open Santiago 2006,2006-06-28,TAKAKIWA Kenichi,ZUBCIC Tomislav,4,0,"11,11,11,11|9,5,3,6",R64,GRAND_SLAM,MS,1789,Main Draw,TAKAKIWA Kenichi (JPN),ZUBCIC Tomislav (CRO),TAKAKIWA Kenichi
+Chile Open Santiago 2006,2006-06-28,HOYAMA Hugo,KONECNY Tomas,4,1,"9,11,11,11,11|11,4,7,6,7",R64,GRAND_SLAM,MS,1789,Main Draw,HOYAMA Hugo (BRA),KONECNY Tomas (CZE),HOYAMA Hugo
+Chile Open Santiago 2006,2006-06-28,MONTEIRO Thiago,DESPRES Rodolphe,4,0,"11,13,11,11|7,11,7,6",R64,GRAND_SLAM,MS,1789,Main Draw,MONTEIRO Thiago (BRA),DESPRES Rodolphe (FRA),MONTEIRO Thiago
+Chile Open Santiago 2006,2006-06-28,PAZSY Ferenc,KUCHUK Aleksandr,4,1,"11,11,11,11,11|13,2,7,4,9",R64,GRAND_SLAM,MS,1789,Main Draw,PAZSY Ferenc (HUN),KUCHUK Aleksandr (BLR),PAZSY Ferenc
+Chile Open Santiago 2006,2006-06-28,PISTEJ Lubomir,GACINA Andrej,4,3,"4,2,11,11,6,11,11|11,11,4,9,11,4,7",R64,GRAND_SLAM,MS,1789,Main Draw,PISTEJ Lubomir (SVK),GACINA Andrej (CRO),PISTEJ Lubomir
+Chile Open Santiago 2006,2006-06-28,SAIVE Jean-Michel,OLEA Carlos,4,1,"11,11,12,9,11|6,7,10,11,6",R64,GRAND_SLAM,MS,1789,Main Draw,SAIVE Jean-Michel (BEL),OLEA Carlos (CHI),SAIVE Jean-Michel
+Chile Open Santiago 2006,2006-06-28,KORBEL Petr,UBILLA Nicolas,4,0,"11,11,11,11|3,4,5,8",R64,GRAND_SLAM,MS,1789,Main Draw,KORBEL Petr (CZE),UBILLA Nicolas (CHI),KORBEL Petr
+Chile Open Santiago 2006,2006-06-28,PETERSEN Christoffer,PAPIC Juan,4,0,"11,11,11,11|6,9,6,8",R64,GRAND_SLAM,MS,1789,Main Draw,PETERSEN Christoffer (DEN),PAPIC Juan (CHI),PETERSEN Christoffer
+Chile Open Santiago 2006,2006-06-28,ACHANTA Sharath,ZOMBORI David,4,0,"11,11,11,11|5,4,5,5",R64,GRAND_SLAM,MS,1789,Main Draw,ACHANTA Sharath (IND),ZOMBORI David (HUN),ACHANTA Sharath
+Chile Open Santiago 2006,2006-06-28,APOLONIA Tiago,MONDELLO Massimiliano,4,0,,R64,GRAND_SLAM,MS,1789,Main Draw,APOLONIA Tiago (POR),MONDELLO Massimiliano (ITA),APOLONIA Tiago
+Chile Open Santiago 2006,2006-06-28,KLASEK Marek,ROY Soumyadeep,4,0,"11,11,11,11|4,3,7,8",R64,GRAND_SLAM,MS,1789,Main Draw,KLASEK Marek (CZE),ROY Soumyadeep (IND),KLASEK Marek
+Chile Open Santiago 2006,2006-06-28,VOSTES Yannick,JAKAB Janos,4,2,"11,10,3,11,11,11|8,12,11,3,6,7",R64,GRAND_SLAM,MS,1789,Main Draw,VOSTES Yannick (BEL),JAKAB Janos (HUN),VOSTES Yannick
+Chile Open Santiago 2006,2006-06-28,MONTEIRO Joao,MATSUMOTO Cazuo,4,2,"11,11,11,9,8,11|6,2,5,11,11,3",R64,GRAND_SLAM,MS,1789,Main Draw,MONTEIRO Joao (POR),MATSUMOTO Cazuo (BRA),MONTEIRO Joao
+Chile Open Santiago 2006,2006-06-28,LEVIS Bruno,YOSHIDA Kaii,4,0,,R64,GRAND_SLAM,MS,1789,Main Draw,LEVIS Bruno (CHI),YOSHIDA Kaii (JPN),LEVIS Bruno
+Chile Open Santiago 2006,2006-06-28,GARDOS Robert,HERRERA Antonio,4,0,"11,11,11,11|7,4,8,1",R64,GRAND_SLAM,MS,1789,Main Draw,GARDOS Robert (AUT),HERRERA Antonio (VEN),GARDOS Robert
+Chile Open Santiago 2006,2006-06-28,SAHA Subhajit,MORALES Augusto,4,0,"11,11,11,11|8,7,8,6",R64,GRAND_SLAM,MS,1789,Main Draw,SAHA Subhajit (IND),MORALES Augusto (CHI),SAHA Subhajit
+Chile Open Santiago 2006,2006-06-28,ZHANG Wilson,MOLNAR Csaba,4,1,"11,10,11,11,12|9,12,8,5,10",R64,GRAND_SLAM,MS,1789,Main Draw,ZHANG Wilson (CAN),MOLNAR Csaba (HUN),ZHANG Wilson
+Chile Open Santiago 2006,2006-06-28,LIU Song,TOMASI Stefano,4,0,"12,11,11,11|10,8,5,3",R64,GRAND_SLAM,MS,1789,Main Draw,LIU Song (ARG),TOMASI Stefano (ITA),LIU Song
+Chile Open Santiago 2006,2006-06-28,TOKIC Bojan,LEBESSON Emmanuel,4,0,"11,11,11,11|8,5,3,6",R64,GRAND_SLAM,MS,1789,Main Draw,TOKIC Bojan (SLO),LEBESSON Emmanuel (FRA),TOKIC Bojan
+Chile Open Santiago 2006,2006-06-28,VOZICKY Bohumil,MAECK Anthony,4,1,"11,11,11,10,11|7,7,3,12,5",R64,GRAND_SLAM,MS,1789,Main Draw,VOZICKY Bohumil (CZE),MAECK Anthony (BEL),VOZICKY Bohumil
+Chile Open Santiago 2006,2006-06-28,CHO Eonrae,NEKHVEDOVICH Vitaly,4,1,"11,11,11,8,11|6,9,6,11,4",R64,GRAND_SLAM,MS,1789,Main Draw,CHO Eonrae (KOR),NEKHVEDOVICH Vitaly (BLR),CHO Eonrae
+Chile Open Santiago 2006,2006-06-28,CHEN Weixing,FLORES Jose Manuel,4,1,"11,11,12,11,11|9,3,14,3,2",R64,GRAND_SLAM,MS,1789,Main Draw,CHEN Weixing (AUT),FLORES Jose Manuel (CHI),CHEN Weixing
+Chile Open Santiago 2006,2006-06-28,SAMSONOV Vladimir,ZWICKL Daniel,4,1,"11,12,11,8,12|6,10,6,11,10",R32,GRAND_SLAM,MS,1789,Main Draw,SAMSONOV Vladimir (BLR),ZWICKL Daniel (HUN),SAMSONOV Vladimir
+Chile Open Santiago 2006,2006-06-28,DIDUKH Oleksandr,KEINATH Thomas,4,1,"11,9,11,12,11|8,11,7,10,9",R32,GRAND_SLAM,MS,1789,Main Draw,DIDUKH Oleksandr (UKR),KEINATH Thomas (SVK),DIDUKH Oleksandr
+Chile Open Santiago 2006,2006-06-28,KIM Taehoon,CHO Jihoon,4,3,"13,8,11,11,10,10,11|11,11,2,9,12,12,7",R32,GRAND_SLAM,MS,1789,Main Draw,KIM Taehoon (KOR),CHO Jihoon (KOR),KIM Taehoon
+Chile Open Santiago 2006,2006-06-28,LEE Jinkwon,LEGOUT Christophe,4,2,"8,11,3,11,11,11|11,7,11,7,2,9",R32,GRAND_SLAM,MS,1789,Main Draw,LEE Jinkwon (KOR),LEGOUT Christophe (FRA),LEE Jinkwon
+Chile Open Santiago 2006,2006-06-28,SEREDA Peter,BERTIN Christophe,4,0,"11,11,11,11|5,7,2,4",R32,GRAND_SLAM,MS,1789,Main Draw,SEREDA Peter (SVK),BERTIN Christophe (FRA),SEREDA Peter
+Chile Open Santiago 2006,2006-06-28,HOYAMA Hugo,TAKAKIWA Kenichi,4,1,"12,5,11,11,11|10,11,5,6,4",R32,GRAND_SLAM,MS,1789,Main Draw,HOYAMA Hugo (BRA),TAKAKIWA Kenichi (JPN),HOYAMA Hugo
+Chile Open Santiago 2006,2006-06-28,PAZSY Ferenc,MONTEIRO Thiago,4,1,"11,11,8,11,11|9,8,11,6,5",R32,GRAND_SLAM,MS,1789,Main Draw,PAZSY Ferenc (HUN),MONTEIRO Thiago (BRA),PAZSY Ferenc
+Chile Open Santiago 2006,2006-06-28,PISTEJ Lubomir,SAIVE Jean-Michel,4,2,"6,1,11,11,11,11|11,11,8,6,8,9",R32,GRAND_SLAM,MS,1789,Main Draw,PISTEJ Lubomir (SVK),SAIVE Jean-Michel (BEL),PISTEJ Lubomir
+Chile Open Santiago 2006,2006-06-28,KORBEL Petr,PETERSEN Christoffer,4,0,"11,11,11,11|3,8,8,9",R32,GRAND_SLAM,MS,1789,Main Draw,KORBEL Petr (CZE),PETERSEN Christoffer (DEN),KORBEL Petr
+Chile Open Santiago 2006,2006-06-28,ACHANTA Sharath,APOLONIA Tiago,4,3,"8,11,7,11,12,4,11|11,5,11,4,10,11,8",R32,GRAND_SLAM,MS,1789,Main Draw,ACHANTA Sharath (IND),APOLONIA Tiago (POR),ACHANTA Sharath
+Chile Open Santiago 2006,2006-06-28,KLASEK Marek,VOSTES Yannick,4,0,"11,11,11,12|8,9,4,10",R32,GRAND_SLAM,MS,1789,Main Draw,KLASEK Marek (CZE),VOSTES Yannick (BEL),KLASEK Marek
+Chile Open Santiago 2006,2006-06-28,MONTEIRO Joao,LEVIS Bruno,4,0,"11,11,11,11|5,6,8,7",R32,GRAND_SLAM,MS,1789,Main Draw,MONTEIRO Joao (POR),LEVIS Bruno (CHI),MONTEIRO Joao
+Chile Open Santiago 2006,2006-06-28,GARDOS Robert,SAHA Subhajit,4,0,"11,11,11,12|5,7,6,10",R32,GRAND_SLAM,MS,1789,Main Draw,GARDOS Robert (AUT),SAHA Subhajit (IND),GARDOS Robert
+Chile Open Santiago 2006,2006-06-28,ZHANG Wilson,LIU Song,4,2,"8,11,5,12,12,11|11,5,11,10,10,9",R32,GRAND_SLAM,MS,1789,Main Draw,ZHANG Wilson (CAN),LIU Song (ARG),ZHANG Wilson
+Chile Open Santiago 2006,2006-06-28,TOKIC Bojan,VOZICKY Bohumil,4,2,"9,9,11,11,11,11|11,11,5,7,7,9",R32,GRAND_SLAM,MS,1789,Main Draw,TOKIC Bojan (SLO),VOZICKY Bohumil (CZE),TOKIC Bojan
+Chile Open Santiago 2006,2006-06-28,CHEN Weixing,CHO Eonrae,4,1,"9,11,11,11,11|11,9,9,3,5",R32,GRAND_SLAM,MS,1789,Main Draw,CHEN Weixing (AUT),CHO Eonrae (KOR),CHEN Weixing
+Chile Open Santiago 2006,2006-06-28,SAMSONOV Vladimir,DIDUKH Oleksandr,4,1,"11,11,9,11,11|6,4,11,9,7",R16,GRAND_SLAM,MS,1789,Main Draw,SAMSONOV Vladimir (BLR),DIDUKH Oleksandr (UKR),SAMSONOV Vladimir
+Chile Open Santiago 2006,2006-06-28,LEE Jinkwon,KIM Taehoon,4,2,"11,14,12,11,10,11|9,12,14,6,12,9",R16,GRAND_SLAM,MS,1789,Main Draw,LEE Jinkwon (KOR),KIM Taehoon (KOR),LEE Jinkwon
+Chile Open Santiago 2006,2006-06-28,SEREDA Peter,HOYAMA Hugo,4,1,"11,11,11,14,11|13,5,9,12,9",R16,GRAND_SLAM,MS,1789,Main Draw,SEREDA Peter (SVK),HOYAMA Hugo (BRA),SEREDA Peter
+Chile Open Santiago 2006,2006-06-28,PAZSY Ferenc,PISTEJ Lubomir,4,3,"8,7,11,11,11,2,11|11,11,8,4,9,11,3",R16,GRAND_SLAM,MS,1789,Main Draw,PAZSY Ferenc (HUN),PISTEJ Lubomir (SVK),PAZSY Ferenc
+Chile Open Santiago 2006,2006-06-28,KORBEL Petr,ACHANTA Sharath,4,3,"11,9,11,7,11,10,11|8,11,2,11,7,12,6",R16,GRAND_SLAM,MS,1789,Main Draw,KORBEL Petr (CZE),ACHANTA Sharath (IND),KORBEL Petr
+Chile Open Santiago 2006,2006-06-28,MONTEIRO Joao,KLASEK Marek,4,0,"11,11,11,13|3,3,8,11",R16,GRAND_SLAM,MS,1789,Main Draw,MONTEIRO Joao (POR),KLASEK Marek (CZE),MONTEIRO Joao
+Chile Open Santiago 2006,2006-06-28,GARDOS Robert,ZHANG Wilson,4,1,"8,11,11,11,11|11,8,8,8,8",R16,GRAND_SLAM,MS,1789,Main Draw,GARDOS Robert (AUT),ZHANG Wilson (CAN),GARDOS Robert
+Chile Open Santiago 2006,2006-06-28,CHEN Weixing,TOKIC Bojan,4,0,"11,11,11,14|2,2,9,12",R16,GRAND_SLAM,MS,1789,Main Draw,CHEN Weixing (AUT),TOKIC Bojan (SLO),CHEN Weixing
+Chile Open Santiago 2006,2006-06-28,SAMSONOV Vladimir,LEE Jinkwon,4,1,"11,13,11,8,11|3,11,5,11,6",QF,GRAND_SLAM,MS,1789,Main Draw,SAMSONOV Vladimir (BLR),LEE Jinkwon (KOR),SAMSONOV Vladimir
+Chile Open Santiago 2006,2006-06-28,SEREDA Peter,PAZSY Ferenc,4,2,"11,10,11,8,11,11|7,12,9,11,5,3",QF,GRAND_SLAM,MS,1789,Main Draw,SEREDA Peter (SVK),PAZSY Ferenc (HUN),SEREDA Peter
+Chile Open Santiago 2006,2006-06-28,MONTEIRO Joao,KORBEL Petr,4,0,"11,13,11,13|9,11,4,11",QF,GRAND_SLAM,MS,1789,Main Draw,MONTEIRO Joao (POR),KORBEL Petr (CZE),MONTEIRO Joao
+Chile Open Santiago 2006,2006-06-28,GARDOS Robert,CHEN Weixing,4,2,"8,11,11,7,11,11|11,4,3,11,9,7",QF,GRAND_SLAM,MS,1789,Main Draw,GARDOS Robert (AUT),CHEN Weixing (AUT),GARDOS Robert
+Chile Open Santiago 2006,2006-06-28,SAMSONOV Vladimir,SEREDA Peter,4,1,"11,11,8,11,11|5,9,11,4,8",SF,GRAND_SLAM,MS,1789,Main Draw,SAMSONOV Vladimir (BLR),SEREDA Peter (SVK),SAMSONOV Vladimir
+Chile Open Santiago 2006,2006-06-28,GARDOS Robert,MONTEIRO Joao,4,1,"11,11,14,9,11|4,3,12,11,7",SF,GRAND_SLAM,MS,1789,Main Draw,GARDOS Robert (AUT),MONTEIRO Joao (POR),GARDOS Robert
+Chile Open Santiago 2006,2006-06-28,SAMSONOV Vladimir,GARDOS Robert,4,3,"9,11,5,11,11,7,12|11,8,11,5,9,11,10",F,GRAND_SLAM,MS,1789,Main Draw,SAMSONOV Vladimir (BLR),GARDOS Robert (AUT),SAMSONOV Vladimir
+Chile Open Santiago 2006,2006-06-28,JAKAB Janos,OLEA Carlos,4,1,"11,11,7,11,11|7,4,11,8,4",R16,GRAND_SLAM,U21MS,1789,Main Draw,JAKAB Janos (HUN),OLEA Carlos (CHI),JAKAB Janos
+Chile Open Santiago 2006,2006-06-28,KONECNY Tomas,ZOMBORI David,4,1,"8,11,11,11,11|11,9,5,8,8",R16,GRAND_SLAM,U21MS,1789,Main Draw,KONECNY Tomas (CZE),ZOMBORI David (HUN),KONECNY Tomas
+Chile Open Santiago 2006,2006-06-28,ZUBCIC Tomislav,MOLNAR Csaba,4,2,"11,6,11,9,11,11|7,11,8,11,5,9",R16,GRAND_SLAM,U21MS,1789,Main Draw,ZUBCIC Tomislav (CRO),MOLNAR Csaba (HUN),ZUBCIC Tomislav
+Chile Open Santiago 2006,2006-06-28,KIM Taehoon,GACINA Andrej,4,3,"4,11,11,9,13,9,11|11,8,7,11,11,11,7",R16,GRAND_SLAM,U21MS,1789,Main Draw,KIM Taehoon (KOR),GACINA Andrej (CRO),KIM Taehoon
+Chile Open Santiago 2006,2006-06-28,APOLONIA Tiago,LEVIS Bruno,4,1,"11,11,4,11,11|5,9,11,6,4",R16,GRAND_SLAM,U21MS,1789,Main Draw,APOLONIA Tiago (POR),LEVIS Bruno (CHI),APOLONIA Tiago
+Chile Open Santiago 2006,2006-06-28,DURAN Marc,LEBESSON Emmanuel,4,1,"12,6,11,11,11|10,11,5,9,6",R16,GRAND_SLAM,U21MS,1789,Main Draw,DURAN Marc (ESP),LEBESSON Emmanuel (FRA),DURAN Marc
+Chile Open Santiago 2006,2006-06-28,MATSUMOTO Cazuo,VOSTES Yannick,4,1,"15,11,11,11,11|17,9,4,4,8",R16,GRAND_SLAM,U21MS,1789,Main Draw,MATSUMOTO Cazuo (BRA),VOSTES Yannick (BEL),MATSUMOTO Cazuo
+Chile Open Santiago 2006,2006-06-28,LEE Jinkwon,KUCHUK Aleksandr,4,2,"6,11,7,11,11,11|11,1,11,7,3,7",R16,GRAND_SLAM,U21MS,1789,Main Draw,LEE Jinkwon (KOR),KUCHUK Aleksandr (BLR),LEE Jinkwon
+Chile Open Santiago 2006,2006-06-28,JAKAB Janos,KONECNY Tomas,4,0,"11,11,11,11|6,6,7,3",QF,GRAND_SLAM,U21MS,1789,Main Draw,JAKAB Janos (HUN),KONECNY Tomas (CZE),JAKAB Janos
+Chile Open Santiago 2006,2006-06-28,KIM Taehoon,ZUBCIC Tomislav,4,0,"11,11,14,11|6,9,12,4",QF,GRAND_SLAM,U21MS,1789,Main Draw,KIM Taehoon (KOR),ZUBCIC Tomislav (CRO),KIM Taehoon
+Chile Open Santiago 2006,2006-06-28,DURAN Marc,APOLONIA Tiago,4,2,"7,6,13,11,11,11|11,11,11,8,8,7",QF,GRAND_SLAM,U21MS,1789,Main Draw,DURAN Marc (ESP),APOLONIA Tiago (POR),DURAN Marc
+Chile Open Santiago 2006,2006-06-28,MATSUMOTO Cazuo,LEE Jinkwon,4,0,"11,11,11,11|6,9,3,7",QF,GRAND_SLAM,U21MS,1789,Main Draw,MATSUMOTO Cazuo (BRA),LEE Jinkwon (KOR),MATSUMOTO Cazuo
+Chile Open Santiago 2006,2006-06-28,KIM Taehoon,JAKAB Janos,4,0,"11,18,13,11|9,16,11,4",SF,GRAND_SLAM,U21MS,1789,Main Draw,KIM Taehoon (KOR),JAKAB Janos (HUN),KIM Taehoon
+Chile Open Santiago 2006,2006-06-28,DURAN Marc,MATSUMOTO Cazuo,4,3,"8,11,11,10,3,11,11|11,2,8,12,11,9,9",SF,GRAND_SLAM,U21MS,1789,Main Draw,DURAN Marc (ESP),MATSUMOTO Cazuo (BRA),DURAN Marc
+Chile Open Santiago 2006,2006-06-28,KIM Taehoon,DURAN Marc,4,2,"11,11,9,2,11,11|9,6,11,11,3,6",F,GRAND_SLAM,U21MS,1789,Main Draw,KIM Taehoon (KOR),DURAN Marc (ESP),KIM Taehoon
+Chile Open Santiago 2006,2006-06-28,LEE Eunsil,ZHANG Mo,4,1,"11,11,11,10,11|5,4,5,12,4",,GRAND_SLAM,WS,1789,Qualification,LEE Eunsil (KOR),ZHANG Mo (CAN),LEE Eunsil
+Chile Open Santiago 2006,2006-06-28,ZHANG Mo,GOMEZ Giovanna,4,1,"11,8,11,11,11|3,11,7,3,4",QR2,GRAND_SLAM,WS,1789,Qualification,ZHANG Mo (CAN),GOMEZ Giovanna (CHI),ZHANG Mo
+Chile Open Santiago 2006,2006-06-28,LEE Eunsil,GOMEZ Giovanna,4,0,"11,11,11,11|6,8,6,7",3,GRAND_SLAM,WS,1789,Qualification,LEE Eunsil (KOR),GOMEZ Giovanna (CHI),LEE Eunsil
+Chile Open Santiago 2006,2006-06-28,GHATAK Poulomi,LONG Judy (Zhu),4,1,"14,9,11,15,11|12,11,8,13,4",,GRAND_SLAM,WS,1789,Qualification,GHATAK Poulomi (IND),LONG Judy (Zhu) (CAN),GHATAK Poulomi
+Chile Open Santiago 2006,2006-06-28,GHATAK Poulomi,CONCHA Romina,4,1,"11,9,11,11,11|6,11,1,5,5",QR2,GRAND_SLAM,WS,1789,Qualification,GHATAK Poulomi (IND),CONCHA Romina (CHI),GHATAK Poulomi
+Chile Open Santiago 2006,2006-06-28,LONG Judy (Zhu),CONCHA Romina,4,1,"11,11,11,7,11|7,7,6,11,3",3,GRAND_SLAM,WS,1789,Qualification,LONG Judy (Zhu) (CAN),CONCHA Romina (CHI),LONG Judy (Zhu)
+Chile Open Santiago 2006,2006-06-28,YU Yunmi,DAS Mouma,4,0,,,GRAND_SLAM,WS,1789,Qualification,YU Yunmi (KOR),DAS Mouma (IND),YU Yunmi
+Chile Open Santiago 2006,2006-06-28,DURAN Blanca,DAS Mouma,4,0,,QR2,GRAND_SLAM,WS,1789,Qualification,DURAN Blanca (CHI),DAS Mouma (IND),DURAN Blanca
+Chile Open Santiago 2006,2006-06-28,YU Yunmi,DURAN Blanca,4,1,"11,11,11,9,11|9,4,1,11,6",3,GRAND_SLAM,WS,1789,Qualification,YU Yunmi (KOR),DURAN Blanca (CHI),YU Yunmi
+Chile Open Santiago 2006,2006-06-28,CREEMERS Linda,RODRIGUEZ Laura,4,0,"11,11,11,11|7,3,5,7",,GRAND_SLAM,WS,1789,Qualification,CREEMERS Linda (NED),RODRIGUEZ Laura (CHI),CREEMERS Linda
+Chile Open Santiago 2006,2006-06-28,CREEMERS Linda,PAULIN Nancy,4,0,"11,11,11,11|5,6,5,5",QR2,GRAND_SLAM,WS,1789,Qualification,CREEMERS Linda (NED),PAULIN Nancy (CAN),CREEMERS Linda
+Chile Open Santiago 2006,2006-06-28,PAULIN Nancy,RODRIGUEZ Laura,4,1,"11,11,9,18,11|4,7,11,16,6",3,GRAND_SLAM,WS,1789,Qualification,PAULIN Nancy (CAN),RODRIGUEZ Laura (CHI),PAULIN Nancy
+Chile Open Santiago 2006,2006-06-28,SILVA Ligia,OSMAN MOHAMEDY Hodho,4,0,"11,11,11,11|5,5,3,7",,GRAND_SLAM,WS,1789,Qualification,SILVA Ligia (BRA),OSMAN MOHAMEDY Hodho (TAN),SILVA Ligia
+Chile Open Santiago 2006,2006-06-28,SILVA Ligia,ROJAS Karen,4,0,"11,11,11,11|5,5,3,7",QR2,GRAND_SLAM,WS,1789,Qualification,SILVA Ligia (BRA),ROJAS Karen (CHI),SILVA Ligia
+Chile Open Santiago 2006,2006-06-28,ROJAS Karen,OSMAN MOHAMEDY Hodho,4,0,,3,GRAND_SLAM,WS,1789,Qualification,ROJAS Karen (CHI),OSMAN MOHAMEDY Hodho (TAN),ROJAS Karen
+Chile Open Santiago 2006,2006-06-28,PHAI PANG Laurie,SAID MZEE Asnath,4,0,,,GRAND_SLAM,WS,1789,Qualification,PHAI PANG Laurie (FRA),SAID MZEE Asnath (TAN),PHAI PANG Laurie
+Chile Open Santiago 2006,2006-06-28,PHAI PANG Laurie,CAMPILLAY Beatriz,4,1,"7,13,11,11,13|11,11,9,7,11",QR2,GRAND_SLAM,WS,1789,Qualification,PHAI PANG Laurie (FRA),CAMPILLAY Beatriz (CHI),PHAI PANG Laurie
+Chile Open Santiago 2006,2006-06-28,CAMPILLAY Beatriz,SAID MZEE Asnath,4,0,,3,GRAND_SLAM,WS,1789,Qualification,CAMPILLAY Beatriz (CHI),SAID MZEE Asnath (TAN),CAMPILLAY Beatriz
+Chile Open Santiago 2006,2006-06-28,RAMOS Fabiola,AQUEVEQUE Gabriela,4,0,"11,11,11,11|5,5,5,7",,GRAND_SLAM,WS,1789,Qualification,RAMOS Fabiola (VEN),AQUEVEQUE Gabriela (CHI),RAMOS Fabiola
+Chile Open Santiago 2006,2006-06-28,RAMOS Fabiola,ZEAS Valeria,4,0,,QR2,GRAND_SLAM,WS,1789,Qualification,RAMOS Fabiola (VEN),ZEAS Valeria (ECU),RAMOS Fabiola
+Chile Open Santiago 2006,2006-06-28,AQUEVEQUE Gabriela,ZEAS Valeria,4,0,,3,GRAND_SLAM,WS,1789,Qualification,AQUEVEQUE Gabriela (CHI),ZEAS Valeria (ECU),AQUEVEQUE Gabriela
+Chile Open Santiago 2006,2006-06-28,HANFFOU Sarah,YOON Suwon,4,0,"11,11,11,11|8,8,8,5",,GRAND_SLAM,WS,1789,Qualification,HANFFOU Sarah (CMR),YOON Suwon (KOR),HANFFOU Sarah
+Chile Open Santiago 2006,2006-06-28,HANFFOU Sarah,CERON Ximena,4,1,"11,11,9,12,11|4,4,11,10,9",QR2,GRAND_SLAM,WS,1789,Qualification,HANFFOU Sarah (CMR),CERON Ximena (CHI),HANFFOU Sarah
+Chile Open Santiago 2006,2006-06-28,YOON Suwon,CERON Ximena,4,2,"12,11,6,11,8,14|10,4,11,5,11,12",3,GRAND_SLAM,WS,1789,Qualification,YOON Suwon (KOR),CERON Ximena (CHI),YOON Suwon
+Chile Open Santiago 2006,2006-06-28,NOUWEN Carla,AVALOS Paula,4,0,"11,11,11,12|7,9,2,10",,GRAND_SLAM,WS,1789,Qualification,NOUWEN Carla (NED),AVALOS Paula (CHI),NOUWEN Carla
+Chile Open Santiago 2006,2006-06-28,NOUWEN Carla,RAMOS Maria,4,0,"12,11,11,11|10,5,4,6",QR2,GRAND_SLAM,WS,1789,Qualification,NOUWEN Carla (NED),RAMOS Maria (VEN),NOUWEN Carla
+Chile Open Santiago 2006,2006-06-28,RAMOS Maria,AVALOS Paula,4,2,"12,11,5,11,11,11|14,4,11,5,5,4",3,GRAND_SLAM,WS,1789,Qualification,RAMOS Maria (VEN),AVALOS Paula (CHI),RAMOS Maria
+Chile Open Santiago 2006,2006-06-28,SKOV Mie,MUSSA ISSA Asha,4,0,,,GRAND_SLAM,WS,1789,Qualification,SKOV Mie (DEN),MUSSA ISSA Asha (TAN),SKOV Mie
+Chile Open Santiago 2006,2006-06-28,SKOV Mie,YANEZ Melita,4,1,"11,11,9,11,11|5,6,11,9,7",QR2,GRAND_SLAM,WS,1789,Qualification,SKOV Mie (DEN),YANEZ Melita (CHI),SKOV Mie
+Chile Open Santiago 2006,2006-06-28,YANEZ Melita,MUSSA ISSA Asha,4,0,,3,GRAND_SLAM,WS,1789,Qualification,YANEZ Melita (CHI),MUSSA ISSA Asha (TAN),YANEZ Melita
+Chile Open Santiago 2006,2006-06-28,NONAKA Mariany,RUZ Angela,4,0,"11,11,11,11|4,8,9,3",,GRAND_SLAM,WS,1789,Qualification,NONAKA Mariany (BRA),RUZ Angela (CHI),NONAKA Mariany
+Chile Open Santiago 2006,2006-06-28,NONAKA Mariany,YUEN Stephanie,4,0,"11,11,11,11|2,9,8,3",QR2,GRAND_SLAM,WS,1789,Qualification,NONAKA Mariany (BRA),YUEN Stephanie (CAN),NONAKA Mariany
+Chile Open Santiago 2006,2006-06-28,RUZ Angela,YUEN Stephanie,4,3,"11,11,9,11,4,4,13|9,8,11,9,11,11,11",3,GRAND_SLAM,WS,1789,Qualification,RUZ Angela (CHI),YUEN Stephanie (CAN),RUZ Angela
+Chile Open Santiago 2006,2006-06-28,YUEN Sara,RASHID JUMA Sabra,4,0,,,GRAND_SLAM,WS,1789,Qualification,YUEN Sara (CAN),RASHID JUMA Sabra (TAN),YUEN Sara
+Chile Open Santiago 2006,2006-06-28,YUEN Sara,CASTELLANO Natalia,4,1,"14,12,11,11,11|12,14,5,5,8",QR2,GRAND_SLAM,WS,1789,Qualification,YUEN Sara (CAN),CASTELLANO Natalia (CHI),YUEN Sara
+Chile Open Santiago 2006,2006-06-28,CASTELLANO Natalia,RASHID JUMA Sabra,4,0,,3,GRAND_SLAM,WS,1789,Qualification,CASTELLANO Natalia (CHI),RASHID JUMA Sabra (TAN),CASTELLANO Natalia
+Chile Open Santiago 2006,2006-06-28,COULIBALY Dieniouma,TEIGUEL Betzabet,4,0,"11,11,11,11|5,3,9,2",,GRAND_SLAM,WS,1789,Qualification,COULIBALY Dieniouma (FRA),TEIGUEL Betzabet (CHI),COULIBALY Dieniouma
+Chile Open Santiago 2006,2006-06-28,IKEIZUMI Claudia,COULIBALY Dieniouma,4,2,"4,4,13,11,11,13|11,11,11,6,8,11",QR2,GRAND_SLAM,WS,1789,Qualification,IKEIZUMI Claudia (BRA),COULIBALY Dieniouma (FRA),IKEIZUMI Claudia
+Chile Open Santiago 2006,2006-06-28,IKEIZUMI Claudia,TEIGUEL Betzabet,4,0,"11,11,11,11|5,6,5,5",3,GRAND_SLAM,WS,1789,Qualification,IKEIZUMI Claudia (BRA),TEIGUEL Betzabet (CHI),IKEIZUMI Claudia
+Chile Open Santiago 2006,2006-06-28,WANG Chen,CHIU Wennin,4,0,,,GRAND_SLAM,WS,1789,Qualification,WANG Chen (USA),CHIU Wennin (CAN),WANG Chen
+Chile Open Santiago 2006,2006-06-28,CHAKRABORTY Kasturi,CHIU Wennin,4,0,,QR2,GRAND_SLAM,WS,1789,Qualification,CHAKRABORTY Kasturi (IND),CHIU Wennin (CAN),CHAKRABORTY Kasturi
+Chile Open Santiago 2006,2006-06-28,WANG Chen,CHAKRABORTY Kasturi,4,1,"11,11,11,6,11|3,3,4,11,5",3,GRAND_SLAM,WS,1789,Qualification,WANG Chen (USA),CHAKRABORTY Kasturi (IND),WANG Chen
+Chile Open Santiago 2006,2006-06-28,HERNANDEZ Silvia,PAUL Mousumi,4,0,,,GRAND_SLAM,WS,1789,Qualification,HERNANDEZ Silvia (CHI),PAUL Mousumi (IND),HERNANDEZ Silvia
+Chile Open Santiago 2006,2006-06-28,SAKO Karin,PAUL Mousumi,4,0,,QR2,GRAND_SLAM,WS,1789,Qualification,SAKO Karin (BRA),PAUL Mousumi (IND),SAKO Karin
+Chile Open Santiago 2006,2006-06-28,SAKO Karin,HERNANDEZ Silvia,4,0,"11,11,11,11|1,6,3,5",3,GRAND_SLAM,WS,1789,Qualification,SAKO Karin (BRA),HERNANDEZ Silvia (CHI),SAKO Karin
+Chile Open Santiago 2006,2006-06-28,REINERO Daniela,KUMARESAN Shamini,4,0,,,GRAND_SLAM,WS,1789,Qualification,REINERO Daniela (CHI),KUMARESAN Shamini (IND),REINERO Daniela
+Chile Open Santiago 2006,2006-06-28,GUANCHEZ Mariana,KUMARESAN Shamini,4,0,,QR2,GRAND_SLAM,WS,1789,Qualification,GUANCHEZ Mariana (VEN),KUMARESAN Shamini (IND),GUANCHEZ Mariana
+Chile Open Santiago 2006,2006-06-28,GUANCHEZ Mariana,REINERO Daniela,4,2,"10,11,11,11,11,11|12,13,7,9,9,7",3,GRAND_SLAM,WS,1789,Qualification,GUANCHEZ Mariana (VEN),REINERO Daniela (CHI),GUANCHEZ Mariana
+Chile Open Santiago 2006,2006-06-28,GOMEZ Giovanna,ALARCON Rocio,3,0,"11,11,11|8,2,5",,GRAND_SLAM,U21WS,1789,Qualification,GOMEZ Giovanna (CHI),ALARCON Rocio (CHI),GOMEZ Giovanna
+Chile Open Santiago 2006,2006-06-28,HANFFOU Sarah,ALARCON Rocio,3,0,"11,11,11|4,2,3",QR2,GRAND_SLAM,U21WS,1789,Qualification,HANFFOU Sarah (CMR),ALARCON Rocio (CHI),HANFFOU Sarah
+Chile Open Santiago 2006,2006-06-28,HANFFOU Sarah,GOMEZ Giovanna,3,0,"11,11,11|8,5,9",3,GRAND_SLAM,U21WS,1789,Qualification,HANFFOU Sarah (CMR),GOMEZ Giovanna (CHI),HANFFOU Sarah
+Chile Open Santiago 2006,2006-06-28,AVALOS Paula,CONCHA Romina,3,1,"11,6,11,11|9,11,9,8",,GRAND_SLAM,U21WS,1789,Qualification,AVALOS Paula (CHI),CONCHA Romina (CHI),AVALOS Paula
+Chile Open Santiago 2006,2006-06-28,NOUWEN Carla,CONCHA Romina,3,0,"11,11,11|6,6,4",3,GRAND_SLAM,U21WS,1789,Qualification,NOUWEN Carla (NED),CONCHA Romina (CHI),NOUWEN Carla
+Chile Open Santiago 2006,2006-06-28,ROJAS Karen,ESCOBAR Constanza,3,0,"11,11,11|5,6,8",,GRAND_SLAM,U21WS,1789,Qualification,ROJAS Karen (CHI),ESCOBAR Constanza (CHI),ROJAS Karen
+Chile Open Santiago 2006,2006-06-28,SKOV Mie,ESCOBAR Constanza,3,0,"11,11,11|5,7,9",QR2,GRAND_SLAM,U21WS,1789,Qualification,SKOV Mie (DEN),ESCOBAR Constanza (CHI),SKOV Mie
+Chile Open Santiago 2006,2006-06-28,SKOV Mie,ROJAS Karen,3,0,"11,11,11|7,4,9",3,GRAND_SLAM,U21WS,1789,Qualification,SKOV Mie (DEN),ROJAS Karen (CHI),SKOV Mie
+Chile Open Santiago 2006,2006-06-28,CAMPILLAY Beatriz,MORALES Judith,3,0,"11,11,11|8,9,2",,GRAND_SLAM,U21WS,1789,Qualification,CAMPILLAY Beatriz (CHI),MORALES Judith (CHI),CAMPILLAY Beatriz
+Chile Open Santiago 2006,2006-06-28,NONAKA Mariany,MORALES Judith,3,0,"11,11,11|9,5,3",QR2,GRAND_SLAM,U21WS,1789,Qualification,NONAKA Mariany (BRA),MORALES Judith (CHI),NONAKA Mariany
+Chile Open Santiago 2006,2006-06-28,NONAKA Mariany,CAMPILLAY Beatriz,3,1,"11,9,11,11|9,11,7,5",3,GRAND_SLAM,U21WS,1789,Qualification,NONAKA Mariany (BRA),CAMPILLAY Beatriz (CHI),NONAKA Mariany
+Chile Open Santiago 2006,2006-06-28,YU Yunmi,CASTELLANO Natalia,3,0,"11,11,11|5,5,6",,GRAND_SLAM,U21WS,1789,Qualification,YU Yunmi (KOR),CASTELLANO Natalia (CHI),YU Yunmi
+Chile Open Santiago 2006,2006-06-28,YU Yunmi,YUEN Sara,3,2,"11,9,11,6,11|6,11,3,11,4",QR2,GRAND_SLAM,U21WS,1789,Qualification,YU Yunmi (KOR),YUEN Sara (CAN),YU Yunmi
+Chile Open Santiago 2006,2006-06-28,CASTELLANO Natalia,YUEN Sara,3,2,"8,11,11,10,11|11,7,9,12,7",3,GRAND_SLAM,U21WS,1789,Qualification,CASTELLANO Natalia (CHI),YUEN Sara (CAN),CASTELLANO Natalia
+Chile Open Santiago 2006,2006-06-28,YUEN Stephanie,RUZ Angela,3,0,"11,12,11|7,10,6",,GRAND_SLAM,U21WS,1789,Qualification,YUEN Stephanie (CAN),RUZ Angela (CHI),YUEN Stephanie
+Chile Open Santiago 2006,2006-06-28,COULIBALY Dieniouma,RUZ Angela,3,0,"11,11,11|1,2,3",QR2,GRAND_SLAM,U21WS,1789,Qualification,COULIBALY Dieniouma (FRA),RUZ Angela (CHI),COULIBALY Dieniouma
+Chile Open Santiago 2006,2006-06-28,COULIBALY Dieniouma,YUEN Stephanie,3,1,"11,9,12,11|9,11,10,4",3,GRAND_SLAM,U21WS,1789,Qualification,COULIBALY Dieniouma (FRA),YUEN Stephanie (CAN),COULIBALY Dieniouma
+Chile Open Santiago 2006,2006-06-28,IKEIZUMI Claudia,REINERO Daniela,3,0,"11,11,11|6,7,4",,GRAND_SLAM,U21WS,1789,Qualification,IKEIZUMI Claudia (BRA),REINERO Daniela (CHI),IKEIZUMI Claudia
+Chile Open Santiago 2006,2006-06-28,CHIU Wennin,REINERO Daniela,3,0,"11,11,11|7,7,6",QR2,GRAND_SLAM,U21WS,1789,Qualification,CHIU Wennin (CAN),REINERO Daniela (CHI),CHIU Wennin
+Chile Open Santiago 2006,2006-06-28,CHIU Wennin,IKEIZUMI Claudia,3,0,"11,12,11|6,10,6",3,GRAND_SLAM,U21WS,1789,Qualification,CHIU Wennin (CAN),IKEIZUMI Claudia (BRA),CHIU Wennin
+Chile Open Santiago 2006,2006-06-28,BOROS Tamara,AQUEVEQUE Gabriela,4,0,"11,11,11,11|3,2,3,6",R64,GRAND_SLAM,WS,1789,Main Draw,BOROS Tamara (CRO),AQUEVEQUE Gabriela (CHI),BOROS Tamara
+Chile Open Santiago 2006,2006-06-28,LANG Kristin,SILVA Ligia,4,1,"11,11,9,11,11|3,4,11,4,4",R64,GRAND_SLAM,WS,1789,Main Draw,LANG Kristin (GER),SILVA Ligia (BRA),LANG Kristin
+Chile Open Santiago 2006,2006-06-28,MOLNAR Cornelia,NONAKA Mariany,4,0,"11,11,12,11|3,7,10,5",R64,GRAND_SLAM,WS,1789,Main Draw,MOLNAR Cornelia (CRO),NONAKA Mariany (BRA),MOLNAR Cornelia
+Chile Open Santiago 2006,2006-06-28,LEE Eunhee,CHAKRABORTY Kasturi,4,0,"11,11,11,11|5,2,8,1",R64,GRAND_SLAM,WS,1789,Main Draw,LEE Eunhee (KOR),CHAKRABORTY Kasturi (IND),LEE Eunhee
+Chile Open Santiago 2006,2006-06-28,FUJII Hiroko,LONG Judy (Zhu),4,1,"11,11,11,4,11|2,4,6,11,2",R64,GRAND_SLAM,WS,1789,Main Draw,FUJII Hiroko (JPN),LONG Judy (Zhu) (CAN),FUJII Hiroko
+Chile Open Santiago 2006,2006-06-28,WANG Yu (YOB=1981),GHATAK Poulomi,4,1,"11,7,11,11,11|7,11,5,5,5",R64,GRAND_SLAM,WS,1789,Main Draw,WANG Yu (YOB=1981) (ITA),GHATAK Poulomi (IND),WANG Yu (YOB=1981)
+Chile Open Santiago 2006,2006-06-28,RAMOS Fabiola,VEGA Paulina,4,1,"3,13,11,11,11|11,11,5,3,8",R64,GRAND_SLAM,WS,1789,Main Draw,RAMOS Fabiola (VEN),VEGA Paulina (CHI),RAMOS Fabiola
+Chile Open Santiago 2006,2006-06-28,KANAZAWA Saki,PAULIN Nancy,4,0,"11,11,11,11|2,4,7,7",R64,GRAND_SLAM,WS,1789,Main Draw,KANAZAWA Saki (JPN),PAULIN Nancy (CAN),KANAZAWA Saki
+Chile Open Santiago 2006,2006-06-28,UMEMURA Aya,YOON Suwon,4,0,"11,11,11,12|2,6,6,10",R64,GRAND_SLAM,WS,1789,Main Draw,UMEMURA Aya (JPN),YOON Suwon (KOR),UMEMURA Aya
+Chile Open Santiago 2006,2006-06-28,KISHIDA Satoko,GUANCHEZ Mariana,4,0,"11,11,11,11|6,9,5,4",R64,GRAND_SLAM,WS,1789,Main Draw,KISHIDA Satoko (JPN),GUANCHEZ Mariana (VEN),KISHIDA Satoko
+Chile Open Santiago 2006,2006-06-28,YOON Sunae,CREEMERS Linda,4,0,"11,11,11,11|5,4,6,0",R64,GRAND_SLAM,WS,1789,Main Draw,YOON Sunae (KOR),CREEMERS Linda (NED),YOON Sunae
+Chile Open Santiago 2006,2006-06-28,HIURA Reiko,HERNANDEZ Silvia,4,0,"11,11,11,11|5,3,5,4",R64,GRAND_SLAM,WS,1789,Main Draw,HIURA Reiko (JPN),HERNANDEZ Silvia (CHI),HIURA Reiko
+Chile Open Santiago 2006,2006-06-28,FUKUOKA Haruna,CASTELLANO Natalia,4,0,"11,11,11,11|5,2,6,8",R64,GRAND_SLAM,WS,1789,Main Draw,FUKUOKA Haruna (JPN),CASTELLANO Natalia (CHI),FUKUOKA Haruna
+Chile Open Santiago 2006,2006-06-28,WANG Chen,EKHOLM Matilda,4,3,"11,11,8,5,11,9,11|6,8,11,11,4,11,9",R64,GRAND_SLAM,WS,1789,Main Draw,WANG Chen (USA),EKHOLM Matilda (SWE),WANG Chen
+Chile Open Santiago 2006,2006-06-28,ETSUZAKI Ayumi,PHAI PANG Laurie,4,1,"11,11,11,9,11|4,5,6,11,8",R64,GRAND_SLAM,WS,1789,Main Draw,ETSUZAKI Ayumi (JPN),PHAI PANG Laurie (FRA),ETSUZAKI Ayumi
+Chile Open Santiago 2006,2006-06-28,MOON Hyunjung,IKEIZUMI Claudia,4,2,"13,9,10,11,11,11|11,11,12,2,5,9",R64,GRAND_SLAM,WS,1789,Main Draw,MOON Hyunjung (KOR),IKEIZUMI Claudia (BRA),MOON Hyunjung
+Chile Open Santiago 2006,2006-06-28,HIRANO Sayaka,CAMPILLAY Beatriz,4,0,"11,11,11,11|5,5,7,1",R64,GRAND_SLAM,WS,1789,Main Draw,HIRANO Sayaka (JPN),CAMPILLAY Beatriz (CHI),HIRANO Sayaka
+Chile Open Santiago 2006,2006-06-28,KONISHI An,YU Yunmi,4,0,"11,11,11,11|5,5,9,8",R64,GRAND_SLAM,WS,1789,Main Draw,KONISHI An (JPN),YU Yunmi (KOR),KONISHI An
+Chile Open Santiago 2006,2006-06-28,SKOV Mie,PAVLOVICH Veronika,4,2,"3,14,13,11,13,11|11,12,11,13,11,8",R64,GRAND_SLAM,WS,1789,Main Draw,SKOV Mie (DEN),PAVLOVICH Veronika (BLR),SKOV Mie
+Chile Open Santiago 2006,2006-06-28,STEFANOVA Nikoleta,DURAN Blanca,4,0,"11,11,11,11|2,7,5,6",R64,GRAND_SLAM,WS,1789,Main Draw,STEFANOVA Nikoleta (ITA),DURAN Blanca (CHI),STEFANOVA Nikoleta
+Chile Open Santiago 2006,2006-06-28,GANINA Svetlana,RAMOS Maria,4,0,"11,11,11,11|6,5,5,8",R64,GRAND_SLAM,WS,1789,Main Draw,GANINA Svetlana (RUS),RAMOS Maria (VEN),GANINA Svetlana
+Chile Open Santiago 2006,2006-06-28,PAOVIC Sandra,HANFFOU Sarah,4,1,"11,13,9,11,11|9,11,11,4,1",R64,GRAND_SLAM,WS,1789,Main Draw,PAOVIC Sandra (CRO),HANFFOU Sarah (CMR),PAOVIC Sandra
+Chile Open Santiago 2006,2006-06-28,GRUNDISCH Carole,SAKO Karin,4,1,"11,11,6,11,11|9,5,11,6,9",R64,GRAND_SLAM,WS,1789,Main Draw,GRUNDISCH Carole (FRA),SAKO Karin (BRA),GRUNDISCH Carole
+Chile Open Santiago 2006,2006-06-28,PARK Miyoung,ROJAS Karen,4,0,"11,11,11,11|1,3,2,3",R64,GRAND_SLAM,WS,1789,Main Draw,PARK Miyoung (KOR),ROJAS Karen (CHI),PARK Miyoung
+Chile Open Santiago 2006,2006-06-28,TAN Wenling,ZHANG Mo,4,3,"7,11,6,11,11,7,11|11,7,11,7,4,11,7",R64,GRAND_SLAM,WS,1789,Main Draw,TAN Wenling (ITA),ZHANG Mo (CAN),TAN Wenling
+Chile Open Santiago 2006,2006-06-28,SHIM Serom,COULIBALY Dieniouma,4,2,"11,11,13,12,7,11|5,3,15,10,11,3",R64,GRAND_SLAM,WS,1789,Main Draw,SHIM Serom (KOR),COULIBALY Dieniouma (FRA),SHIM Serom
+Chile Open Santiago 2006,2006-06-28,TASEI Mikie,LEE Eunsil,4,0,"11,11,11,11|7,9,7,6",R64,GRAND_SLAM,WS,1789,Main Draw,TASEI Mikie (JPN),LEE Eunsil (KOR),TASEI Mikie
+Chile Open Santiago 2006,2006-06-28,POTA Georgina,YANEZ Melita,4,0,"11,11,11,11|3,6,5,6",R64,GRAND_SLAM,WS,1789,Main Draw,POTA Georgina (HUN),YANEZ Melita (CHI),POTA Georgina
+Chile Open Santiago 2006,2006-06-28,FUJINUMA Ai,REINERO Daniela,4,0,"11,11,11,11|1,6,6,9",R64,GRAND_SLAM,WS,1789,Main Draw,FUJINUMA Ai (JPN),REINERO Daniela (CHI),FUJINUMA Ai
+Chile Open Santiago 2006,2006-06-28,NOUWEN Carla,RODRIGUEZ Berta,4,1,"11,4,11,11,11|7,11,6,7,4",R64,GRAND_SLAM,WS,1789,Main Draw,NOUWEN Carla (NED),RODRIGUEZ Berta (CHI),NOUWEN Carla
+Chile Open Santiago 2006,2006-06-28,RAMIREZ Sara,YUEN Sara,4,0,"11,11,11,11|1,5,5,6",R64,GRAND_SLAM,WS,1789,Main Draw,RAMIREZ Sara (ESP),YUEN Sara (CAN),RAMIREZ Sara
+Chile Open Santiago 2006,2006-06-28,PAVLOVICH Viktoria,RUZ Angela,4,0,"11,11,11,11|4,4,1,2",R64,GRAND_SLAM,WS,1789,Main Draw,PAVLOVICH Viktoria (BLR),RUZ Angela (CHI),PAVLOVICH Viktoria
+Chile Open Santiago 2006,2006-06-28,BOROS Tamara,LANG Kristin,4,3,"11,3,12,4,11,10,11|8,11,10,11,2,12,4",R32,GRAND_SLAM,WS,1789,Main Draw,BOROS Tamara (CRO),LANG Kristin (GER),BOROS Tamara
+Chile Open Santiago 2006,2006-06-28,MOLNAR Cornelia,LEE Eunhee,4,3,"11,11,6,8,11,8,13|8,6,11,11,9,11,11",R32,GRAND_SLAM,WS,1789,Main Draw,MOLNAR Cornelia (CRO),LEE Eunhee (KOR),MOLNAR Cornelia
+Chile Open Santiago 2006,2006-06-28,FUJII Hiroko,WANG Yu (YOB=1981),4,0,"11,11,11,11|8,9,6,6",R32,GRAND_SLAM,WS,1789,Main Draw,FUJII Hiroko (JPN),WANG Yu (YOB=1981) (ITA),FUJII Hiroko
+Chile Open Santiago 2006,2006-06-28,KANAZAWA Saki,RAMOS Fabiola,4,0,"11,11,11,11|2,5,7,2",R32,GRAND_SLAM,WS,1789,Main Draw,KANAZAWA Saki (JPN),RAMOS Fabiola (VEN),KANAZAWA Saki
+Chile Open Santiago 2006,2006-06-28,UMEMURA Aya,KISHIDA Satoko,4,0,"13,11,11,11|11,6,8,5",R32,GRAND_SLAM,WS,1789,Main Draw,UMEMURA Aya (JPN),KISHIDA Satoko (JPN),UMEMURA Aya
+Chile Open Santiago 2006,2006-06-28,HIURA Reiko,YOON Sunae,4,3,"3,11,11,8,8,13,11|11,6,7,11,11,11,7",R32,GRAND_SLAM,WS,1789,Main Draw,HIURA Reiko (JPN),YOON Sunae (KOR),HIURA Reiko
+Chile Open Santiago 2006,2006-06-28,WANG Chen,FUKUOKA Haruna,4,3,"8,11,11,11,8,9,14|11,3,3,7,11,11,12",R32,GRAND_SLAM,WS,1789,Main Draw,WANG Chen (USA),FUKUOKA Haruna (JPN),WANG Chen
+Chile Open Santiago 2006,2006-06-28,MOON Hyunjung,ETSUZAKI Ayumi,4,0,"11,12,11,12|6,10,5,10",R32,GRAND_SLAM,WS,1789,Main Draw,MOON Hyunjung (KOR),ETSUZAKI Ayumi (JPN),MOON Hyunjung
+Chile Open Santiago 2006,2006-06-28,KONISHI An,HIRANO Sayaka,4,2,"11,9,9,11,11,11|6,11,11,9,9,0",R32,GRAND_SLAM,WS,1789,Main Draw,KONISHI An (JPN),HIRANO Sayaka (JPN),KONISHI An
+Chile Open Santiago 2006,2006-06-28,STEFANOVA Nikoleta,SKOV Mie,4,1,"11,11,9,11,11|7,2,11,9,8",R32,GRAND_SLAM,WS,1789,Main Draw,STEFANOVA Nikoleta (ITA),SKOV Mie (DEN),STEFANOVA Nikoleta
+Chile Open Santiago 2006,2006-06-28,GANINA Svetlana,PAOVIC Sandra,4,2,"6,11,11,6,11,11|11,7,4,11,7,5",R32,GRAND_SLAM,WS,1789,Main Draw,GANINA Svetlana (RUS),PAOVIC Sandra (CRO),GANINA Svetlana
+Chile Open Santiago 2006,2006-06-28,PARK Miyoung,GRUNDISCH Carole,4,3,"11,9,11,9,12,5,14|4,11,6,11,10,11,12",R32,GRAND_SLAM,WS,1789,Main Draw,PARK Miyoung (KOR),GRUNDISCH Carole (FRA),PARK Miyoung
+Chile Open Santiago 2006,2006-06-28,SHIM Serom,TAN Wenling,4,2,"15,9,2,13,11,11|13,11,11,11,9,7",R32,GRAND_SLAM,WS,1789,Main Draw,SHIM Serom (KOR),TAN Wenling (ITA),SHIM Serom
+Chile Open Santiago 2006,2006-06-28,TASEI Mikie,POTA Georgina,4,1,"13,11,12,9,11|11,8,10,11,6",R32,GRAND_SLAM,WS,1789,Main Draw,TASEI Mikie (JPN),POTA Georgina (HUN),TASEI Mikie
+Chile Open Santiago 2006,2006-06-28,FUJINUMA Ai,NOUWEN Carla,4,1,"11,11,11,11,11|3,13,7,2,5",R32,GRAND_SLAM,WS,1789,Main Draw,FUJINUMA Ai (JPN),NOUWEN Carla (NED),FUJINUMA Ai
+Chile Open Santiago 2006,2006-06-28,PAVLOVICH Viktoria,RAMIREZ Sara,4,0,"11,11,11,17|7,9,6,15",R32,GRAND_SLAM,WS,1789,Main Draw,PAVLOVICH Viktoria (BLR),RAMIREZ Sara (ESP),PAVLOVICH Viktoria
+Chile Open Santiago 2006,2006-06-28,BOROS Tamara,MOLNAR Cornelia,4,2,"4,11,9,11,11,12|11,8,11,8,9,10",R16,GRAND_SLAM,WS,1789,Main Draw,BOROS Tamara (CRO),MOLNAR Cornelia (CRO),BOROS Tamara
+Chile Open Santiago 2006,2006-06-28,FUJII Hiroko,KANAZAWA Saki,4,2,"7,7,11,11,11,11|11,11,9,6,9,4",R16,GRAND_SLAM,WS,1789,Main Draw,FUJII Hiroko (JPN),KANAZAWA Saki (JPN),FUJII Hiroko
+Chile Open Santiago 2006,2006-06-28,HIURA Reiko,UMEMURA Aya,4,0,"11,11,11,11|7,3,2,8",R16,GRAND_SLAM,WS,1789,Main Draw,HIURA Reiko (JPN),UMEMURA Aya (JPN),HIURA Reiko
+Chile Open Santiago 2006,2006-06-28,WANG Chen,MOON Hyunjung,4,1,"11,9,11,11,11|9,11,4,9,5",R16,GRAND_SLAM,WS,1789,Main Draw,WANG Chen (USA),MOON Hyunjung (KOR),WANG Chen
+Chile Open Santiago 2006,2006-06-28,KONISHI An,STEFANOVA Nikoleta,4,2,"11,12,13,8,8,11|5,10,11,11,11,6",R16,GRAND_SLAM,WS,1789,Main Draw,KONISHI An (JPN),STEFANOVA Nikoleta (ITA),KONISHI An
+Chile Open Santiago 2006,2006-06-28,PARK Miyoung,GANINA Svetlana,4,2,"9,6,11,11,11,11|11,11,6,7,4,8",R16,GRAND_SLAM,WS,1789,Main Draw,PARK Miyoung (KOR),GANINA Svetlana (RUS),PARK Miyoung
+Chile Open Santiago 2006,2006-06-28,SHIM Serom,TASEI Mikie,4,1,"11,14,5,11,11|8,12,11,7,6",R16,GRAND_SLAM,WS,1789,Main Draw,SHIM Serom (KOR),TASEI Mikie (JPN),SHIM Serom
+Chile Open Santiago 2006,2006-06-28,FUJINUMA Ai,PAVLOVICH Viktoria,4,0,"11,11,11,11|7,9,5,4",R16,GRAND_SLAM,WS,1789,Main Draw,FUJINUMA Ai (JPN),PAVLOVICH Viktoria (BLR),FUJINUMA Ai
+Chile Open Santiago 2006,2006-06-28,BOROS Tamara,FUJII Hiroko,4,0,"11,12,11,11|6,10,4,7",QF,GRAND_SLAM,WS,1789,Main Draw,BOROS Tamara (CRO),FUJII Hiroko (JPN),BOROS Tamara
+Chile Open Santiago 2006,2006-06-28,HIURA Reiko,WANG Chen,4,1,"11,11,11,9,11|1,3,5,11,3",QF,GRAND_SLAM,WS,1789,Main Draw,HIURA Reiko (JPN),WANG Chen (USA),HIURA Reiko
+Chile Open Santiago 2006,2006-06-28,PARK Miyoung,KONISHI An,4,0,"11,11,11,11|4,7,6,7",QF,GRAND_SLAM,WS,1789,Main Draw,PARK Miyoung (KOR),KONISHI An (JPN),PARK Miyoung
+Chile Open Santiago 2006,2006-06-28,FUJINUMA Ai,SHIM Serom,4,2,"11,11,4,4,11,11|9,9,11,11,3,3",QF,GRAND_SLAM,WS,1789,Main Draw,FUJINUMA Ai (JPN),SHIM Serom (KOR),FUJINUMA Ai
+Chile Open Santiago 2006,2006-06-28,HIURA Reiko,BOROS Tamara,4,3,"11,4,11,8,11,7,11|5,11,6,11,7,11,9",SF,GRAND_SLAM,WS,1789,Main Draw,HIURA Reiko (JPN),BOROS Tamara (CRO),HIURA Reiko
+Chile Open Santiago 2006,2006-06-28,PARK Miyoung,FUJINUMA Ai,4,2,"11,11,7,11,9,11|8,9,11,9,11,3",SF,GRAND_SLAM,WS,1789,Main Draw,PARK Miyoung (KOR),FUJINUMA Ai (JPN),PARK Miyoung
+Chile Open Santiago 2006,2006-06-28,PARK Miyoung,HIURA Reiko,4,1,"11,11,7,11,12|5,5,11,4,10",F,GRAND_SLAM,WS,1789,Main Draw,PARK Miyoung (KOR),HIURA Reiko (JPN),PARK Miyoung
+Chile Open Santiago 2006,2006-06-28,LEE Eunhee,SKOV Mie,4,0,"11,11,11,11|4,4,3,2",R16,GRAND_SLAM,U21WS,1789,Main Draw,LEE Eunhee (KOR),SKOV Mie (DEN),LEE Eunhee
+Chile Open Santiago 2006,2006-06-28,PHAI PANG Laurie,CHIU Wennin,4,1,"5,11,11,11,11|11,6,5,6,6",R16,GRAND_SLAM,U21WS,1789,Main Draw,PHAI PANG Laurie (FRA),CHIU Wennin (CAN),PHAI PANG Laurie
+Chile Open Santiago 2006,2006-06-28,SHIM Serom,HANFFOU Sarah,4,1,"9,11,11,11,11|11,2,5,8,3",R16,GRAND_SLAM,U21WS,1789,Main Draw,SHIM Serom (KOR),HANFFOU Sarah (CMR),SHIM Serom
+Chile Open Santiago 2006,2006-06-28,RAMIREZ Sara,NOUWEN Carla,4,1,"11,8,11,11,11|9,11,9,4,6",R16,GRAND_SLAM,U21WS,1789,Main Draw,RAMIREZ Sara (ESP),NOUWEN Carla (NED),RAMIREZ Sara
+Chile Open Santiago 2006,2006-06-28,ZHANG Mo,COULIBALY Dieniouma,4,1,"11,11,11,11,11|8,13,4,9,2",R16,GRAND_SLAM,U21WS,1789,Main Draw,ZHANG Mo (CAN),COULIBALY Dieniouma (FRA),ZHANG Mo
+Chile Open Santiago 2006,2006-06-28,NONAKA Mariany,CREEMERS Linda,4,2,"7,6,12,11,12,11|11,11,10,8,10,9",R16,GRAND_SLAM,U21WS,1789,Main Draw,NONAKA Mariany (BRA),CREEMERS Linda (NED),NONAKA Mariany
+Chile Open Santiago 2006,2006-06-28,POTA Georgina,YU Yunmi,4,1,"11,11,6,11,11|2,7,11,8,5",R16,GRAND_SLAM,U21WS,1789,Main Draw,POTA Georgina (HUN),YU Yunmi (KOR),POTA Georgina
+Chile Open Santiago 2006,2006-06-28,LEE Eunhee,PHAI PANG Laurie,4,0,"11,11,11,11|9,3,8,2",QF,GRAND_SLAM,U21WS,1789,Main Draw,LEE Eunhee (KOR),PHAI PANG Laurie (FRA),LEE Eunhee
+Chile Open Santiago 2006,2006-06-28,SHIM Serom,GRUNDISCH Carole,4,0,"11,11,11,11|8,5,2,9",QF,GRAND_SLAM,U21WS,1789,Main Draw,SHIM Serom (KOR),GRUNDISCH Carole (FRA),SHIM Serom
+Chile Open Santiago 2006,2006-06-28,RAMIREZ Sara,ZHANG Mo,4,2,"11,11,11,5,3,11|8,3,9,11,11,9",QF,GRAND_SLAM,U21WS,1789,Main Draw,RAMIREZ Sara (ESP),ZHANG Mo (CAN),RAMIREZ Sara
+Chile Open Santiago 2006,2006-06-28,POTA Georgina,NONAKA Mariany,4,2,"11,12,11,9,11,11|5,10,13,11,8,4",QF,GRAND_SLAM,U21WS,1789,Main Draw,POTA Georgina (HUN),NONAKA Mariany (BRA),POTA Georgina
+Chile Open Santiago 2006,2006-06-28,LEE Eunhee,SHIM Serom,4,2,"8,17,11,11,7,11|11,15,8,3,11,7",SF,GRAND_SLAM,U21WS,1789,Main Draw,LEE Eunhee (KOR),SHIM Serom (KOR),LEE Eunhee
+Chile Open Santiago 2006,2006-06-28,POTA Georgina,RAMIREZ Sara,4,0,"11,11,11,12|6,8,6,10",SF,GRAND_SLAM,U21WS,1789,Main Draw,POTA Georgina (HUN),RAMIREZ Sara (ESP),POTA Georgina
+Chile Open Santiago 2006,2006-06-28,LEE Eunhee,POTA Georgina,4,0,"11,12,11,11|7,10,6,5",F,GRAND_SLAM,U21WS,1789,Main Draw,LEE Eunhee (KOR),POTA Georgina (HUN),LEE Eunhee
+Chile Open Santiago 2006,2006-06-28,CROTTI Mattia/TOMASI Stefano,BRIZUELA Hernan/MOAVRO Sebastian,3,0,"11,11,11|3,7,4",QR64,GRAND_SLAM,MD,1789,Qualification,CROTTI Mattia (ITA) / TOMASI Stefano (ITA),BRIZUELA Hernan (ARG) / MOAVRO Sebastian (ARG),CROTTI Mattia
+Chile Open Santiago 2006,2006-06-28,ROSENFELD Federico/TASSARA Fernando,ARCE Osvaldo/SALAZAR Bladimir,3,0,"12,11,11|10,8,7",QR64,GRAND_SLAM,MD,1789,Qualification,ROSENFELD Federico (ARG) / TASSARA Fernando (ARG),ARCE Osvaldo (CHI) / SALAZAR Bladimir (CHI),ROSENFELD Federico
+Chile Open Santiago 2006,2006-06-28,DURAN Marc/MACHADO Carlos,ROSENFELD Federico/TASSARA Fernando,3,0,"11,11,11|3,3,6",QR32,GRAND_SLAM,MD,1789,Qualification,DURAN Marc (ESP) / MACHADO Carlos (ESP),ROSENFELD Federico (ARG) / TASSARA Fernando (ARG),DURAN Marc
+Chile Open Santiago 2006,2006-06-28,CHEN Weixing/GARDOS Robert,DELOBBE Damien/DIDUKH Oleksandr,4,0,"11,11,11,11|9,7,6,7",R16,GRAND_SLAM,MD,1789,Main Draw,CHEN Weixing (AUT) / GARDOS Robert (AUT),DELOBBE Damien (BEL) / DIDUKH Oleksandr (UKR),CHEN Weixing
+Chile Open Santiago 2006,2006-06-28,CHEN Weixing/GARDOS Robert,APOLONIA Tiago/MONTEIRO Joao,4,2,"11,7,11,8,11,11|3,11,6,11,8,8",QF,GRAND_SLAM,MD,1789,Main Draw,CHEN Weixing (AUT) / GARDOS Robert (AUT),APOLONIA Tiago (POR) / MONTEIRO Joao (POR),CHEN Weixing
+Chile Open Santiago 2006,2006-06-28,CHEN Weixing/GARDOS Robert,DESPRES Rodolphe/LEGOUT Christophe,4,3,"9,11,5,12,11,9,11|11,9,11,10,7,11,4",SF,GRAND_SLAM,MD,1789,Main Draw,CHEN Weixing (AUT) / GARDOS Robert (AUT),DESPRES Rodolphe (FRA) / LEGOUT Christophe (FRA),CHEN Weixing
+Chile Open Santiago 2006,2006-06-28,CHEN Weixing/GARDOS Robert,PAZSY Ferenc/TOKIC Bojan,4,0,"11,11,11,14|8,8,5,12",F,GRAND_SLAM,MD,1789,Main Draw,CHEN Weixing (AUT) / GARDOS Robert (AUT),PAZSY Ferenc (HUN) / TOKIC Bojan (SLO),CHEN Weixing
+Chile Open Santiago 2006,2006-06-28,PAZSY Ferenc/TOKIC Bojan,KUCHUK Aleksandr/NEKHVEDOVICH Vitaly,4,1,"9,11,11,11,11|11,6,7,4,8",R16,GRAND_SLAM,MD,1789,Main Draw,PAZSY Ferenc (HUN) / TOKIC Bojan (SLO),KUCHUK Aleksandr (BLR) / NEKHVEDOVICH Vitaly (BLR),PAZSY Ferenc
+Chile Open Santiago 2006,2006-06-28,KUCHUK Aleksandr/NEKHVEDOVICH Vitaly,HERRERA Antonio/RONDON Ely,3,1,"11,12,11,11|4,14,9,9",QR32,GRAND_SLAM,MD,1789,Qualification,KUCHUK Aleksandr (BLR) / NEKHVEDOVICH Vitaly (BLR),HERRERA Antonio (VEN) / RONDON Ely (VEN),KUCHUK Aleksandr
+Chile Open Santiago 2006,2006-06-28,KUCHUK Aleksandr/NEKHVEDOVICH Vitaly,KEINATH Thomas/MARTINEZ Rodrigo,3,1,"8,11,11,11|11,4,7,9",QR16,GRAND_SLAM,MD,1789,Qualification,KUCHUK Aleksandr (BLR) / NEKHVEDOVICH Vitaly (BLR),KEINATH Thomas (SVK) / MARTINEZ Rodrigo (CHI),KUCHUK Aleksandr
+Chile Open Santiago 2006,2006-06-28,HOYAMA Hugo/MONTEIRO Thiago,BERTIN Christophe/LEBESSON Emmanuel,4,3,"11,11,8,7,11,10,11|7,6,11,11,7,12,3",R16,GRAND_SLAM,MD,1789,Main Draw,HOYAMA Hugo (BRA) / MONTEIRO Thiago (BRA),BERTIN Christophe (FRA) / LEBESSON Emmanuel (FRA),HOYAMA Hugo
+Chile Open Santiago 2006,2006-06-28,SHEN Qiang/ZHANG Wilson,COYDAN Victor/MUNIZAGA Rodrigo,3,0,,QR64,GRAND_SLAM,MD,1789,Qualification,SHEN Qiang (CAN) / ZHANG Wilson (CAN),COYDAN Victor (CHI) / MUNIZAGA Rodrigo (CHI),SHEN Qiang
+Chile Open Santiago 2006,2006-06-28,SHEN Qiang/ZHANG Wilson,VENTURA DOS ANJOS Bruno/MATSUMOTO Cazuo,3,0,"11,11,13|7,8,11",QR32,GRAND_SLAM,MD,1789,Qualification,SHEN Qiang (CAN) / ZHANG Wilson (CAN),VENTURA DOS ANJOS Bruno (BRA) / MATSUMOTO Cazuo (BRA),SHEN Qiang
+Chile Open Santiago 2006,2006-06-28,KONGSGAARD Christian/PETERSEN Christoffer,PAPIC Juan/RODRIGUEZ Alejandro,4,0,"11,12,11,11|9,10,5,6",R16,GRAND_SLAM,MD,1789,Main Draw,KONGSGAARD Christian (DEN) / PETERSEN Christoffer (DEN),PAPIC Juan (CHI) / RODRIGUEZ Alejandro (CHI),KONGSGAARD Christian
+Chile Open Santiago 2006,2006-06-28,MOLNAR Csaba/ZOMBORI David,LORCA Fabian/ROSALES Alberto,3,0,"11,11,11|5,6,7",QR64,GRAND_SLAM,MD,1789,Qualification,MOLNAR Csaba (HUN) / ZOMBORI David (HUN),LORCA Fabian (CHI) / ROSALES Alberto (CHI),MOLNAR Csaba
+Chile Open Santiago 2006,2006-06-28,ALVEAR Julian/GAETE Pablo,AGUIRRE Marcelo/COELLO Geovanny,3,2,"11,11,10,5,11|5,7,12,11,9",QR64,GRAND_SLAM,MD,1789,Qualification,ALVEAR Julian (CHI) / GAETE Pablo (CHI),AGUIRRE Marcelo (PAR) / COELLO Geovanny (ECU),ALVEAR Julian
+Chile Open Santiago 2006,2006-06-28,ACHANTA Sharath/SAHA Subhajit,CONTRERAS Matias/OLIVARES Felipe,3,0,"11,11,11|5,8,3",QR64,GRAND_SLAM,MD,1789,Qualification,ACHANTA Sharath (IND) / SAHA Subhajit (IND),CONTRERAS Matias (CHI) / OLIVARES Felipe (CHI),ACHANTA Sharath
+Chile Open Santiago 2006,2006-06-28,NILO Felipe/SZENFELD Jorge,CORSINI Marcelo/GRECO Juan,3,0,"11,12,11|7,10,4",QR64,GRAND_SLAM,MD,1789,Qualification,NILO Felipe (CHI) / SZENFELD Jorge (CHI),CORSINI Marcelo (BRA) / GRECO Juan (ARG),NILO Felipe
+Chile Open Santiago 2006,2006-06-28,DELOBBE Damien/DIDUKH Oleksandr,BRAVO Sergio/PINTO Martin,3,0,"11,11,11|2,4,7",QR32,GRAND_SLAM,MD,1789,Qualification,DELOBBE Damien (BEL) / DIDUKH Oleksandr (UKR),BRAVO Sergio (CHI) / PINTO Martin (CHI),DELOBBE Damien
+Chile Open Santiago 2006,2006-06-28,LIU Song/TABACHNIK Pablo,ALVEAR Julian/GAETE Pablo,3,0,"12,11,11|10,7,9",QR32,GRAND_SLAM,MD,1789,Qualification,LIU Song (ARG) / TABACHNIK Pablo (ARG),ALVEAR Julian (CHI) / GAETE Pablo (CHI),LIU Song
+Chile Open Santiago 2006,2006-06-28,KEINATH Thomas/MARTINEZ Rodrigo,ALARCON Felipe/DONAIRE Eduardo,3,0,"11,11,11|4,7,9",QR32,GRAND_SLAM,MD,1789,Qualification,KEINATH Thomas (SVK) / MARTINEZ Rodrigo (CHI),ALARCON Felipe (CHI) / DONAIRE Eduardo (CHI),KEINATH Thomas
+Chile Open Santiago 2006,2006-06-28,GACINA Andrej/ZUBCIC Tomislav,CONTRERAS Felipe/TOLEDO Marcelo,3,0,"13,11,15|11,5,13",QR32,GRAND_SLAM,MD,1789,Qualification,GACINA Andrej (CRO) / ZUBCIC Tomislav (CRO),CONTRERAS Felipe (CHI) / TOLEDO Marcelo (CHI),GACINA Andrej
+Chile Open Santiago 2006,2006-06-28,NILO Felipe/SZENFELD Jorge,LEVIS Bruno/UBILLA Nicolas,3,0,"11,11,13|9,5,11",QR32,GRAND_SLAM,MD,1789,Qualification,NILO Felipe (CHI) / SZENFELD Jorge (CHI),LEVIS Bruno (CHI) / UBILLA Nicolas (CHI),NILO Felipe
+Chile Open Santiago 2006,2006-06-28,DURAN Marc/MACHADO Carlos,NILO Felipe/SZENFELD Jorge,3,0,"11,11,11|7,4,8",QR16,GRAND_SLAM,MD,1789,Qualification,DURAN Marc (ESP) / MACHADO Carlos (ESP),NILO Felipe (CHI) / SZENFELD Jorge (CHI),DURAN Marc
+Chile Open Santiago 2006,2006-06-28,CHO Eonrae/CHO Jihoon,KLASEK Marek/KORBEL Petr,4,0,"11,11,11,11|7,7,8,5",R16,GRAND_SLAM,MD,1789,Main Draw,CHO Eonrae (KOR) / CHO Jihoon (KOR),KLASEK Marek (CZE) / KORBEL Petr (CZE),CHO Eonrae
+Chile Open Santiago 2006,2006-06-28,KONECNY Tomas/VOZICKY Bohumil,BELTRAN Jorge/CAMPUSANO Guillermo,3,0,"11,12,11|9,10,0",QR32,GRAND_SLAM,MD,1789,Qualification,KONECNY Tomas (CZE) / VOZICKY Bohumil (CZE),BELTRAN Jorge (CHI) / CAMPUSANO Guillermo (CHI),KONECNY Tomas
+Chile Open Santiago 2006,2006-06-28,KLASEK Marek/KORBEL Petr,BUSTOS Cristian/CARMONA Vicente,3,0,"11,11,11|0,5,6",QR32,GRAND_SLAM,MD,1789,Qualification,KLASEK Marek (CZE) / KORBEL Petr (CZE),BUSTOS Cristian (CHI) / CARMONA Vicente (CHI),KLASEK Marek
+Chile Open Santiago 2006,2006-06-28,HOYAMA Hugo/MONTEIRO Thiago,KONECNY Tomas/VOZICKY Bohumil,3,1,"11,7,12,12|6,11,10,10",QR16,GRAND_SLAM,MD,1789,Qualification,HOYAMA Hugo (BRA) / MONTEIRO Thiago (BRA),KONECNY Tomas (CZE) / VOZICKY Bohumil (CZE),HOYAMA Hugo
+Chile Open Santiago 2006,2006-06-28,KLASEK Marek/KORBEL Petr,GACINA Andrej/ZUBCIC Tomislav,3,2,"8,7,11,11,11|11,11,7,6,6",QR16,GRAND_SLAM,MD,1789,Qualification,KLASEK Marek (CZE) / KORBEL Petr (CZE),GACINA Andrej (CRO) / ZUBCIC Tomislav (CRO),KLASEK Marek
+Chile Open Santiago 2006,2006-06-28,KONGSGAARD Christian/PETERSEN Christoffer,HOYAMA Hugo/MONTEIRO Thiago,4,1,"11,12,8,11,11|7,10,11,6,3",QF,GRAND_SLAM,MD,1789,Main Draw,KONGSGAARD Christian (DEN) / PETERSEN Christoffer (DEN),HOYAMA Hugo (BRA) / MONTEIRO Thiago (BRA),KONGSGAARD Christian
+Chile Open Santiago 2006,2006-06-28,KONGSGAARD Christian/PETERSEN Christoffer,PEREZ Fernando/ZAPATA Juan Pablo,3,0,"11,11,11|7,2,4",QR64,GRAND_SLAM,MD,1789,Qualification,KONGSGAARD Christian (DEN) / PETERSEN Christoffer (DEN),PEREZ Fernando (CHI) / ZAPATA Juan Pablo (CHI),KONGSGAARD Christian
+Chile Open Santiago 2006,2006-06-28,KONGSGAARD Christian/PETERSEN Christoffer,ACHANTA Sharath/SAHA Subhajit,3,1,"11,11,9,11|5,9,11,4",QR32,GRAND_SLAM,MD,1789,Qualification,KONGSGAARD Christian (DEN) / PETERSEN Christoffer (DEN),ACHANTA Sharath (IND) / SAHA Subhajit (IND),KONGSGAARD Christian
+Chile Open Santiago 2006,2006-06-28,DESPRES Rodolphe/LEGOUT Christophe,DURAN Marc/MACHADO Carlos,4,1,"11,9,11,11,11|6,11,9,7,3",R16,GRAND_SLAM,MD,1789,Main Draw,DESPRES Rodolphe (FRA) / LEGOUT Christophe (FRA),DURAN Marc (ESP) / MACHADO Carlos (ESP),DESPRES Rodolphe
+Chile Open Santiago 2006,2006-06-28,DESPRES Rodolphe/LEGOUT Christophe,CHO Eonrae/CHO Jihoon,4,3,"11,14,11,7,7,10,11|7,12,8,11,11,12,2",QF,GRAND_SLAM,MD,1789,Main Draw,DESPRES Rodolphe (FRA) / LEGOUT Christophe (FRA),CHO Eonrae (KOR) / CHO Jihoon (KOR),DESPRES Rodolphe
+Chile Open Santiago 2006,2006-06-28,JAKAB Janos/ZWICKL Daniel,HINSE Pierre-Luc/THERIEN Xavier,3,1,"7,11,11,11|11,6,9,8",QR32,GRAND_SLAM,MD,1789,Qualification,JAKAB Janos (HUN) / ZWICKL Daniel (HUN),HINSE Pierre-Luc (CAN) / THERIEN Xavier (CAN),JAKAB Janos
+Chile Open Santiago 2006,2006-06-28,KONGSGAARD Christian/PETERSEN Christoffer,JAKAB Janos/ZWICKL Daniel,3,1,"3,11,11,14|11,2,6,12",QR16,GRAND_SLAM,MD,1789,Qualification,KONGSGAARD Christian (DEN) / PETERSEN Christoffer (DEN),JAKAB Janos (HUN) / ZWICKL Daniel (HUN),KONGSGAARD Christian
+Chile Open Santiago 2006,2006-06-28,HOYAMA Hugo/MONTEIRO Thiago,CROTTI Mattia/TOMASI Stefano,3,0,"11,11,11|8,4,6",QR32,GRAND_SLAM,MD,1789,Qualification,HOYAMA Hugo (BRA) / MONTEIRO Thiago (BRA),CROTTI Mattia (ITA) / TOMASI Stefano (ITA),HOYAMA Hugo
+Chile Open Santiago 2006,2006-06-28,TAKAKIWA Kenichi/YOSHIDA Kaii,GONZALES Rudy/OLEA Carlos,3,1,"12,11,11,11|14,9,5,5",QR32,GRAND_SLAM,MD,1789,Qualification,TAKAKIWA Kenichi (JPN) / YOSHIDA Kaii (JPN),GONZALES Rudy (CHI) / OLEA Carlos (CHI),TAKAKIWA Kenichi
+Chile Open Santiago 2006,2006-06-28,TAKAKIWA Kenichi/YOSHIDA Kaii,SHEN Qiang/ZHANG Wilson,3,0,"11,11,11|7,7,7",QR16,GRAND_SLAM,MD,1789,Qualification,TAKAKIWA Kenichi (JPN) / YOSHIDA Kaii (JPN),SHEN Qiang (CAN) / ZHANG Wilson (CAN),TAKAKIWA Kenichi
+Chile Open Santiago 2006,2006-06-28,KIM Taehoon/LEE Jinkwon,TAKAKIWA Kenichi/YOSHIDA Kaii,4,0,,R16,GRAND_SLAM,MD,1789,Main Draw,KIM Taehoon (KOR) / LEE Jinkwon (KOR),TAKAKIWA Kenichi (JPN) / YOSHIDA Kaii (JPN),KIM Taehoon
+Chile Open Santiago 2006,2006-06-28,PAZSY Ferenc/TOKIC Bojan,KIM Taehoon/LEE Jinkwon,4,2,"8,11,10,11,11,11|11,8,12,7,7,9",QF,GRAND_SLAM,MD,1789,Main Draw,PAZSY Ferenc (HUN) / TOKIC Bojan (SLO),KIM Taehoon (KOR) / LEE Jinkwon (KOR),PAZSY Ferenc
+Chile Open Santiago 2006,2006-06-28,APOLONIA Tiago/MONTEIRO Joao,MAECK Anthony/VOSTES Yannick,4,0,"11,11,11,11|9,8,5,9",R16,GRAND_SLAM,MD,1789,Main Draw,APOLONIA Tiago (POR) / MONTEIRO Joao (POR),MAECK Anthony (BEL) / VOSTES Yannick (BEL),APOLONIA Tiago
+Chile Open Santiago 2006,2006-06-28,APOLONIA Tiago/MONTEIRO Joao,MOLNAR Csaba/ZOMBORI David,3,0,"11,11,11|9,5,3",QR32,GRAND_SLAM,MD,1789,Qualification,APOLONIA Tiago (POR) / MONTEIRO Joao (POR),MOLNAR Csaba (HUN) / ZOMBORI David (HUN),APOLONIA Tiago
+Chile Open Santiago 2006,2006-06-28,APOLONIA Tiago/MONTEIRO Joao,LIU Song/TABACHNIK Pablo,3,0,"11,11,11|4,3,5",QR16,GRAND_SLAM,MD,1789,Qualification,APOLONIA Tiago (POR) / MONTEIRO Joao (POR),LIU Song (ARG) / TABACHNIK Pablo (ARG),APOLONIA Tiago
+Chile Open Santiago 2006,2006-06-28,PAZSY Ferenc/TOKIC Bojan,KONGSGAARD Christian/PETERSEN Christoffer,4,0,"11,11,12,11|8,4,10,4",SF,GRAND_SLAM,MD,1789,Main Draw,PAZSY Ferenc (HUN) / TOKIC Bojan (SLO),KONGSGAARD Christian (DEN) / PETERSEN Christoffer (DEN),PAZSY Ferenc
+Chile Open Santiago 2006,2006-06-28,PISTEJ Lubomir/SEREDA Peter,LILLO Gustavo/OPORTO Ronald,3,0,"11,11,11|1,5,3",QR32,GRAND_SLAM,MD,1789,Qualification,PISTEJ Lubomir (SVK) / SEREDA Peter (SVK),LILLO Gustavo (CHI) / OPORTO Ronald (CHI),PISTEJ Lubomir
+Chile Open Santiago 2006,2006-06-28,DELOBBE Damien/DIDUKH Oleksandr,PISTEJ Lubomir/SEREDA Peter,3,1,"11,11,7,11|6,7,11,7",QR16,GRAND_SLAM,MD,1789,Qualification,DELOBBE Damien (BEL) / DIDUKH Oleksandr (UKR),PISTEJ Lubomir (SVK) / SEREDA Peter (SVK),DELOBBE Damien
+Chile Open Santiago 2006,2006-06-28,HERRERA Antonio/RONDON Ely,FERNANDEZ Marcelo/OROSTICA Juan Pablo,3,0,"11,11,12|9,7,10",QR64,GRAND_SLAM,MD,1789,Qualification,HERRERA Antonio (VEN) / RONDON Ely (VEN),FERNANDEZ Marcelo (CHI) / OROSTICA Juan Pablo (CHI),HERRERA Antonio
+Chile Open Santiago 2006,2006-06-28,LONG Judy (Zhu)/ZHANG Mo,CERON Ximena/RODRIGUEZ Berta,4,1,"11,12,7,11,12|6,10,11,9,10",R16,GRAND_SLAM,WD,1789,Main Draw,LONG Judy (Zhu) (CAN) / ZHANG Mo (CAN),CERON Ximena (CHI) / RODRIGUEZ Berta (CHI),LONG Judy (Zhu)
+Chile Open Santiago 2006,2006-06-28,PAULIN Nancy/YUEN Stephanie,CAMPILLAY Beatriz/RUZ Angela,3,1,"12,7,11,11|10,11,6,7",QR64,GRAND_SLAM,WD,1789,Qualification,PAULIN Nancy (CAN) / YUEN Stephanie (CAN),CAMPILLAY Beatriz (CHI) / RUZ Angela (CHI),PAULIN Nancy
+Chile Open Santiago 2006,2006-06-28,LANG Kristin/WANG Chen,CHIU Wennin/YUEN Sara,3,0,"11,12,11|3,10,7",QR32,GRAND_SLAM,WD,1789,Qualification,LANG Kristin (GER) / WANG Chen (USA),CHIU Wennin (CAN) / YUEN Sara (CAN),LANG Kristin
+Chile Open Santiago 2006,2006-06-28,LEE Eunhee/SHIM Serom,PAULIN Nancy/YUEN Stephanie,3,1,"10,11,11,11|12,3,7,9",QR32,GRAND_SLAM,WD,1789,Qualification,LEE Eunhee (KOR) / SHIM Serom (KOR),PAULIN Nancy (CAN) / YUEN Stephanie (CAN),LEE Eunhee
+Chile Open Santiago 2006,2006-06-28,VEGA Paulina/YANEZ Melita,AQUEVEQUE Gabriela/RODRIGUEZ Laura,3,0,"11,11,11|8,8,8",QR32,GRAND_SLAM,WD,1789,Qualification,VEGA Paulina (CHI) / YANEZ Melita (CHI),AQUEVEQUE Gabriela (CHI) / RODRIGUEZ Laura (CHI),VEGA Paulina
+Chile Open Santiago 2006,2006-06-28,FUKUOKA Haruna/TASEI Mikie,BARRUETO Eliane/HERNANDEZ Silvia,3,0,,QR32,GRAND_SLAM,WD,1789,Qualification,FUKUOKA Haruna (JPN) / TASEI Mikie (JPN),BARRUETO Eliane (CHI) / HERNANDEZ Silvia (CHI),FUKUOKA Haruna
+Chile Open Santiago 2006,2006-06-28,LONG Judy (Zhu)/ZHANG Mo,DURAN Blanca/ROJAS Karen,3,0,"11,12,11|7,10,1",QR32,GRAND_SLAM,WD,1789,Qualification,LONG Judy (Zhu) (CAN) / ZHANG Mo (CAN),DURAN Blanca (CHI) / ROJAS Karen (CHI),LONG Judy (Zhu)
+Chile Open Santiago 2006,2006-06-28,FUKUOKA Haruna/TASEI Mikie,VEGA Paulina/YANEZ Melita,3,0,"11,11,11|9,5,3",QR16,GRAND_SLAM,WD,1789,Qualification,FUKUOKA Haruna (JPN) / TASEI Mikie (JPN),VEGA Paulina (CHI) / YANEZ Melita (CHI),FUKUOKA Haruna
+Chile Open Santiago 2006,2006-06-28,COULIBALY Dieniouma/HANFFOU Sarah,BELMAR Allyson/MORALES Judith,3,0,"11,11,11|4,6,5",QR32,GRAND_SLAM,WD,1789,Qualification,COULIBALY Dieniouma (FRA) / HANFFOU Sarah (CMR),BELMAR Allyson (CHI) / MORALES Judith (CHI),COULIBALY Dieniouma
+Chile Open Santiago 2006,2006-06-28,LANG Kristin/WANG Chen,COULIBALY Dieniouma/HANFFOU Sarah,3,0,"11,11,11|3,6,9",QR16,GRAND_SLAM,WD,1789,Qualification,LANG Kristin (GER) / WANG Chen (USA),COULIBALY Dieniouma (FRA) / HANFFOU Sarah (CMR),LANG Kristin
+Chile Open Santiago 2006,2006-06-28,PAVLOVICH Viktoria/GANINA Svetlana,GRUNDISCH Carole/PHAI PANG Laurie,4,1,"11,13,8,11,11|5,11,11,8,7",R16,GRAND_SLAM,WD,1789,Main Draw,PAVLOVICH Viktoria (BLR) / GANINA Svetlana (RUS),GRUNDISCH Carole (FRA) / PHAI PANG Laurie (FRA),PAVLOVICH Viktoria
+Chile Open Santiago 2006,2006-06-28,GRUNDISCH Carole/PHAI PANG Laurie,AVALOS Paula/ESCOBAR Constanza,3,0,"11,11,11|5,5,4",QR32,GRAND_SLAM,WD,1789,Qualification,GRUNDISCH Carole (FRA) / PHAI PANG Laurie (FRA),AVALOS Paula (CHI) / ESCOBAR Constanza (CHI),GRUNDISCH Carole
+Chile Open Santiago 2006,2006-06-28,GRUNDISCH Carole/PHAI PANG Laurie,TEIGUEL Betzabet/YANEZ Milena,3,0,"11,11,12|5,2,10",QR16,GRAND_SLAM,WD,1789,Qualification,GRUNDISCH Carole (FRA) / PHAI PANG Laurie (FRA),TEIGUEL Betzabet (CHI) / YANEZ Milena (CHI),GRUNDISCH Carole
+Chile Open Santiago 2006,2006-06-28,CHAKRABORTY Kasturi/GHATAK Poulomi,IKEIZUMI Claudia/SAKO Karin,3,0,"11,11,11|6,8,2",QR32,GRAND_SLAM,WD,1789,Qualification,CHAKRABORTY Kasturi (IND) / GHATAK Poulomi (IND),IKEIZUMI Claudia (BRA) / SAKO Karin (BRA),CHAKRABORTY Kasturi
+Chile Open Santiago 2006,2006-06-28,KISHIDA Satoko/UMEMURA Aya,ZEAS Valeria/PAUL Mousumi,3,0,,QR32,GRAND_SLAM,WD,1789,Qualification,KISHIDA Satoko (JPN) / UMEMURA Aya (JPN),ZEAS Valeria (ECU) / PAUL Mousumi (IND),KISHIDA Satoko
+Chile Open Santiago 2006,2006-06-28,STEFANOVA Nikoleta/TAN Wenling,LEE Eunhee/SHIM Serom,4,2,"12,6,6,11,12,11|10,11,11,6,10,4",R16,GRAND_SLAM,WD,1789,Main Draw,STEFANOVA Nikoleta (ITA) / TAN Wenling (ITA),LEE Eunhee (KOR) / SHIM Serom (KOR),STEFANOVA Nikoleta
+Chile Open Santiago 2006,2006-06-28,FUJII Hiroko/KANAZAWA Saki,STEFANOVA Nikoleta/TAN Wenling,4,0,"11,11,11,11|4,7,5,4",QF,GRAND_SLAM,WD,1789,Main Draw,FUJII Hiroko (JPN) / KANAZAWA Saki (JPN),STEFANOVA Nikoleta (ITA) / TAN Wenling (ITA),FUJII Hiroko
+Chile Open Santiago 2006,2006-06-28,CREEMERS Linda/NOUWEN Carla,SKOV Mie/WANG Yu (YOB=1981),3,1,"11,8,11,11|4,11,5,9",QR32,GRAND_SLAM,WD,1789,Qualification,CREEMERS Linda (NED) / NOUWEN Carla (NED),SKOV Mie (DEN) / WANG Yu (YOB=1981) (ITA),CREEMERS Linda
+Chile Open Santiago 2006,2006-06-28,FUJINUMA Ai/HIRANO Sayaka,LANG Kristin/WANG Chen,4,2,"7,9,11,11,11,11|11,11,5,6,8,7",R16,GRAND_SLAM,WD,1789,Main Draw,FUJINUMA Ai (JPN) / HIRANO Sayaka (JPN),LANG Kristin (GER) / WANG Chen (USA),FUJINUMA Ai
+Chile Open Santiago 2006,2006-06-28,FUJII Hiroko/KANAZAWA Saki,PAOVIC Sandra/MOLNAR Cornelia,4,0,"11,15,11,11|2,13,9,2",R16,GRAND_SLAM,WD,1789,Main Draw,FUJII Hiroko (JPN) / KANAZAWA Saki (JPN),PAOVIC Sandra (CRO) / MOLNAR Cornelia (CRO),FUJII Hiroko
+Chile Open Santiago 2006,2006-06-28,HIURA Reiko/KONISHI An,PAVLOVICH Veronika/POTA Georgina,4,0,"14,11,11,11|12,6,3,3",R16,GRAND_SLAM,WD,1789,Main Draw,HIURA Reiko (JPN) / KONISHI An (JPN),PAVLOVICH Veronika (BLR) / POTA Georgina (HUN),HIURA Reiko
+Chile Open Santiago 2006,2006-06-28,FUJINUMA Ai/HIRANO Sayaka,LONG Judy (Zhu)/ZHANG Mo,4,0,"11,11,12,11|6,9,10,3",QF,GRAND_SLAM,WD,1789,Main Draw,FUJINUMA Ai (JPN) / HIRANO Sayaka (JPN),LONG Judy (Zhu) (CAN) / ZHANG Mo (CAN),FUJINUMA Ai
+Chile Open Santiago 2006,2006-06-28,FUKUOKA Haruna/TASEI Mikie,PAVLOVICH Viktoria/GANINA Svetlana,4,1,"11,11,6,11,11|8,7,11,3,6",QF,GRAND_SLAM,WD,1789,Main Draw,FUKUOKA Haruna (JPN) / TASEI Mikie (JPN),PAVLOVICH Viktoria (BLR) / GANINA Svetlana (RUS),FUKUOKA Haruna
+Chile Open Santiago 2006,2006-06-28,HIURA Reiko/KONISHI An,KISHIDA Satoko/UMEMURA Aya,4,3,"9,5,11,11,11,11,11|11,11,4,8,13,9,4",QF,GRAND_SLAM,WD,1789,Main Draw,HIURA Reiko (JPN) / KONISHI An (JPN),KISHIDA Satoko (JPN) / UMEMURA Aya (JPN),HIURA Reiko
+Chile Open Santiago 2006,2006-06-28,FUJINUMA Ai/HIRANO Sayaka,FUKUOKA Haruna/TASEI Mikie,4,0,"11,11,11,11|7,8,9,5",SF,GRAND_SLAM,WD,1789,Main Draw,FUJINUMA Ai (JPN) / HIRANO Sayaka (JPN),FUKUOKA Haruna (JPN) / TASEI Mikie (JPN),FUJINUMA Ai
+Chile Open Santiago 2006,2006-06-28,FUJII Hiroko/KANAZAWA Saki,HIURA Reiko/KONISHI An,4,1,"11,7,11,11,12|8,11,7,6,10",SF,GRAND_SLAM,WD,1789,Main Draw,FUJII Hiroko (JPN) / KANAZAWA Saki (JPN),HIURA Reiko (JPN) / KONISHI An (JPN),FUJII Hiroko
+Chile Open Santiago 2006,2006-06-28,FUJII Hiroko/KANAZAWA Saki,FUJINUMA Ai/HIRANO Sayaka,4,0,"11,12,11,11|7,10,8,4",F,GRAND_SLAM,WD,1789,Main Draw,FUJII Hiroko (JPN) / KANAZAWA Saki (JPN),FUJINUMA Ai (JPN) / HIRANO Sayaka (JPN),FUJII Hiroko
+Chile Open Santiago 2006,2006-06-28,FUJII Hiroko/KANAZAWA Saki,ALARCON Rocio/ROJAS Nicole,3,0,"11,11,11|5,5,3",QR32,GRAND_SLAM,WD,1789,Qualification,FUJII Hiroko (JPN) / KANAZAWA Saki (JPN),ALARCON Rocio (CHI) / ROJAS Nicole (CHI),FUJII Hiroko
+Chile Open Santiago 2006,2006-06-28,HIURA Reiko/KONISHI An,DIAZ Violeta/MORENO Camila,3,0,"11,11,11|4,5,7",QR32,GRAND_SLAM,WD,1789,Qualification,HIURA Reiko (JPN) / KONISHI An (JPN),DIAZ Violeta (CHI) / MORENO Camila (CHI),HIURA Reiko
+Chile Open Santiago 2006,2006-06-28,FUJII Hiroko/KANAZAWA Saki,YOON Suwon/YU Yunmi,3,0,"11,11,12|3,8,10",QR16,GRAND_SLAM,WD,1789,Qualification,FUJII Hiroko (JPN) / KANAZAWA Saki (JPN),YOON Suwon (KOR) / YU Yunmi (KOR),FUJII Hiroko
+Chile Open Santiago 2006,2006-06-28,HIURA Reiko/KONISHI An,CHAKRABORTY Kasturi/GHATAK Poulomi,3,1,"9,11,11,11|11,7,4,7",QR16,GRAND_SLAM,WD,1789,Qualification,HIURA Reiko (JPN) / KONISHI An (JPN),CHAKRABORTY Kasturi (IND) / GHATAK Poulomi (IND),HIURA Reiko
+Chile Open Santiago 2006,2006-06-28,FUKUOKA Haruna/TASEI Mikie,PARK Miyoung/YOON Sunae,4,3,"11,8,9,9,11,11,11|9,11,11,11,9,9,8",R16,GRAND_SLAM,WD,1789,Main Draw,FUKUOKA Haruna (JPN) / TASEI Mikie (JPN),PARK Miyoung (KOR) / YOON Sunae (KOR),FUKUOKA Haruna
+Chile Open Santiago 2006,2006-06-28,KISHIDA Satoko/UMEMURA Aya,LEE Eunsil/MOON Hyunjung,4,0,"11,11,15,12|5,9,13,10",R16,GRAND_SLAM,WD,1789,Main Draw,KISHIDA Satoko (JPN) / UMEMURA Aya (JPN),LEE Eunsil (KOR) / MOON Hyunjung (KOR),KISHIDA Satoko
+Chile Open Santiago 2006,2006-06-28,YOON Suwon/YU Yunmi,NONAKA Mariany/SILVA Ligia,3,1,"8,11,11,11|11,9,4,4",QR32,GRAND_SLAM,WD,1789,Qualification,YOON Suwon (KOR) / YU Yunmi (KOR),NONAKA Mariany (BRA) / SILVA Ligia (BRA),YOON Suwon
+Chile Open Santiago 2006,2006-06-28,LEE Eunhee/SHIM Serom,CREEMERS Linda/NOUWEN Carla,3,2,"15,11,11,2,11|17,5,4,11,3",QR16,GRAND_SLAM,WD,1789,Qualification,LEE Eunhee (KOR) / SHIM Serom (KOR),CREEMERS Linda (NED) / NOUWEN Carla (NED),LEE Eunhee
+Chile Open Santiago 2006,2006-06-28,RAMIREZ Sara/EKHOLM Matilda,GOMEZ Giovanna/REINERO Daniela,3,0,"11,11,11|7,9,5",QR32,GRAND_SLAM,WD,1789,Qualification,RAMIREZ Sara (ESP) / EKHOLM Matilda (SWE),GOMEZ Giovanna (CHI) / REINERO Daniela (CHI),RAMIREZ Sara
+Chile Open Santiago 2006,2006-06-28,LONG Judy (Zhu)/ZHANG Mo,RAMIREZ Sara/EKHOLM Matilda,3,0,"11,11,13|8,5,11",QR16,GRAND_SLAM,WD,1789,Qualification,LONG Judy (Zhu) (CAN) / ZHANG Mo (CAN),RAMIREZ Sara (ESP) / EKHOLM Matilda (SWE),LONG Judy (Zhu)
+Chile Open Santiago 2006,2006-06-28,GUANCHEZ Mariana/RAMOS Fabiola,CASTELLANO Natalia/CONCHA Romina,3,1,"4,11,11,11|11,9,2,2",QR32,GRAND_SLAM,WD,1789,Qualification,GUANCHEZ Mariana (VEN) / RAMOS Fabiola (VEN),CASTELLANO Natalia (CHI) / CONCHA Romina (CHI),GUANCHEZ Mariana
+Chile Open Santiago 2006,2006-06-28,KISHIDA Satoko/UMEMURA Aya,GUANCHEZ Mariana/RAMOS Fabiola,3,0,"11,11,13|6,5,11",QR16,GRAND_SLAM,WD,1789,Qualification,KISHIDA Satoko (JPN) / UMEMURA Aya (JPN),GUANCHEZ Mariana (VEN) / RAMOS Fabiola (VEN),KISHIDA Satoko

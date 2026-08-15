@@ -1,89 +1,89 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-ITTF Oceania Cup Bendigo 2013,2013-06-30,LIN Yi-Sien,PARK Young Jun,4,0,"11,11,11,11|6,3,9,4",,OTHER,MS,572,Qualification,LIN Yi-Sien (NZL),PARK Young Jun (FIJ)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,ITAIA Obrian,REO Kevin,4,2,"11,11,8,9,11,11|8,7,11,11,8,8",,OTHER,MS,572,Qualification,ITAIA Obrian (NRU),REO Kevin (KIR)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,ITAIA Obrian,PARK Young Jun,4,2,"11,7,8,11,11,11|4,11,11,8,9,8",,OTHER,MS,572,Qualification,ITAIA Obrian (NRU),PARK Young Jun (FIJ)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,LIN Yi-Sien,REO Kevin,4,0,"11,11,11,11|5,6,7,3",,OTHER,MS,572,Qualification,LIN Yi-Sien (NZL),REO Kevin (KIR)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,LIN Yi-Sien,ITAIA Obrian,4,0,"11,11,11,11|5,2,6,3",,OTHER,MS,572,Qualification,LIN Yi-Sien (NZL),ITAIA Obrian (NRU)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,REO Kevin,PARK Young Jun,4,2,"6,10,11,16,11,11|11,12,6,14,7,8",,OTHER,MS,572,Qualification,REO Kevin (KIR),PARK Young Jun (FIJ)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,SCARLETT Oliver,ITAIA Sharky,4,0,"11,11,11,11|9,5,7,4",,OTHER,MS,572,Qualification,SCARLETT Oliver (NZL),ITAIA Sharky (NRU)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,VILLEMINOT Laurent,SEPA Gasika,4,0,"11,11,11,11|3,5,5,5",,OTHER,MS,572,Qualification,VILLEMINOT Laurent (NCL),SEPA Gasika (PNG)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,VILLEMINOT Laurent,ITAIA Sharky,4,0,"11,11,11,11|0,7,3,7",,OTHER,MS,572,Qualification,VILLEMINOT Laurent (NCL),ITAIA Sharky (NRU)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,SCARLETT Oliver,SEPA Gasika,4,0,"11,11,11,11|2,1,3,3",,OTHER,MS,572,Qualification,SCARLETT Oliver (NZL),SEPA Gasika (PNG)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,SCARLETT Oliver,VILLEMINOT Laurent,4,0,"11,11,11,11|6,5,5,4",,OTHER,MS,572,Qualification,SCARLETT Oliver (NZL),VILLEMINOT Laurent (NCL)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,ITAIA Sharky,SEPA Gasika,4,3,"11,9,8,8,11,11,11|9,11,11,11,5,4,4",,OTHER,MS,572,Qualification,ITAIA Sharky (NRU),SEPA Gasika (PNG)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,SENS Laurent,CHAND Sanesh,4,0,"11,11,11,11|2,2,4,5",,OTHER,MS,572,Qualification,SENS Laurent (NCL),CHAND Sanesh (FIJ)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,FREDDY Choy,LOI David,4,0,"11,11,11,11|5,3,7,8",,OTHER,MS,572,Qualification,FREDDY Choy (KIR),LOI David (PNG)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,FREDDY Choy,CHAND Sanesh,4,0,"14,11,11,11|12,4,7,7",,OTHER,MS,572,Qualification,FREDDY Choy (KIR),CHAND Sanesh (FIJ)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,SENS Laurent,LOI David,4,0,"11,11,11,11|1,1,2,4",,OTHER,MS,572,Qualification,SENS Laurent (NCL),LOI David (PNG)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,SENS Laurent,FREDDY Choy,4,1,"11,12,11,8,12|3,10,8,11,10",,OTHER,MS,572,Qualification,SENS Laurent (NCL),FREDDY Choy (KIR)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,LOI David,CHAND Sanesh,4,1,"11,5,11,11,11|6,11,6,9,4",,OTHER,MS,572,Qualification,LOI David (PNG),CHAND Sanesh (FIJ)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,SHING Yoshua,JOHNNY Allie,4,0,"11,11,11,11|4,4,5,9",,OTHER,MS,572,Qualification,SHING Yoshua (VAN),JOHNNY Allie (KIR)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,ARNAUD Gilles,KARIKO Jackson,4,0,"11,11,11,11|4,7,8,6",,OTHER,MS,572,Qualification,ARNAUD Gilles (NCL),KARIKO Jackson (PNG)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,ARNAUD Gilles,JOHNNY Allie,4,0,"11,11,11,11|4,7,8,8",,OTHER,MS,572,Qualification,ARNAUD Gilles (NCL),JOHNNY Allie (KIR)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,SHING Yoshua,KARIKO Jackson,4,0,"11,11,11,11|6,6,7,4",,OTHER,MS,572,Qualification,SHING Yoshua (VAN),KARIKO Jackson (PNG)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,SHING Yoshua,ARNAUD Gilles,4,2,"11,9,9,11,11,11|6,11,11,6,9,1",,OTHER,MS,572,Qualification,SHING Yoshua (VAN),ARNAUD Gilles (NCL)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,JOHNNY Allie,KARIKO Jackson,4,1,"6,11,12,11,11|11,6,10,9,2",,OTHER,MS,572,Qualification,JOHNNY Allie (KIR),KARIKO Jackson (PNG)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,HER-LEE Sarah,HUNT Kerryn,4,0,"11,11,11,11|8,1,3,7",,OTHER,WS,572,Qualification,HER-LEE Sarah (NZL),HUNT Kerryn (COK)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,QWEA Stephanie,HUNT Kerryn,4,2,"10,8,11,11,12,11|12,11,9,6,10,8",,OTHER,WS,572,Qualification,QWEA Stephanie (VAN),HUNT Kerryn (COK)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,HER-LEE Sarah,QWEA Stephanie,4,0,"11,11,11,11|4,6,2,5",,OTHER,WS,572,Qualification,HER-LEE Sarah (NZL),QWEA Stephanie (VAN)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,GAUTHIER Cathy,HANE Maryanne,4,0,"11,11,11,11|4,1,2,2",,OTHER,WS,572,Qualification,GAUTHIER Cathy (NCL),HANE Maryanne (PNG)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,GAUTHIER Cathy,LI Carolyn,4,0,"11,11,11,11|5,1,7,4",,OTHER,WS,572,Qualification,GAUTHIER Cathy (NCL),LI Carolyn (FIJ)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,BOUTEILLE Ornella,YEE Harvi,4,0,"11,11,13,11|1,6,11,5",,OTHER,WS,572,Qualification,BOUTEILLE Ornella (NCL),YEE Harvi (FIJ)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,GOBURE Oxyna,YEE Harvi,4,0,"13,11,11,14|11,4,7,12",,OTHER,WS,572,Qualification,GOBURE Oxyna (NRU),YEE Harvi (FIJ)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,BOUTEILLE Ornella,GOBURE Oxyna,4,0,"11,11,11,11|2,2,5,3",,OTHER,WS,572,Qualification,BOUTEILLE Ornella (NCL),GOBURE Oxyna (NRU)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,MANICO Louisa,LOI Samantha,4,0,"11,11,11,11|6,8,5,8",,OTHER,WS,572,Qualification,MANICO Louisa (COK),LOI Samantha (PNG)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,LAI VAN Lea,STEPHEN Odessa,4,0,"13,11,11,11|11,2,4,5",,OTHER,WS,572,Qualification,LAI VAN Lea (NCL),STEPHEN Odessa (NRU)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,LAI VAN Lea,LOI Samantha,4,0,"11,11,11,13|7,7,5,11",,OTHER,WS,572,Qualification,LAI VAN Lea (NCL),LOI Samantha (PNG)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,STEPHEN Odessa,MANICO Louisa,4,3,"11,13,11,7,8,6,11|9,11,9,11,11,11,6",,OTHER,WS,572,Qualification,STEPHEN Odessa (NRU),MANICO Louisa (COK)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,LAI VAN Lea,MANICO Louisa,4,2,"4,11,11,13,9,11|11,6,7,11,11,6",,OTHER,WS,572,Qualification,LAI VAN Lea (NCL),MANICO Louisa (COK)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,STEPHEN Odessa,LOI Samantha,4,1,"9,11,11,11,11|11,4,6,7,7",,OTHER,WS,572,Qualification,STEPHEN Odessa (NRU),LOI Samantha (PNG)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,FREDDY Choy,ITAIA Sharky,4,1,"11,11,11,10,11|8,4,6,12,2",R16,OTHER,MS,572,Main Draw,FREDDY Choy (KIR),ITAIA Sharky (NRU)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,ARNAUD Gilles,CHAND Sanesh,4,0,"11,11,11,11|5,5,1,2",R16,OTHER,MS,572,Main Draw,ARNAUD Gilles (NCL),CHAND Sanesh (FIJ)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,JOHNNY Allie,LOI David,4,1,"9,13,11,11,11|11,11,7,5,1",R16,OTHER,MS,572,Main Draw,JOHNNY Allie (KIR),LOI David (PNG)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,ITAIA Obrian,KARIKO Jackson,4,0,"11,11,11,11|5,7,5,6",R16,OTHER,MS,572,Main Draw,ITAIA Obrian (NRU),KARIKO Jackson (PNG)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,SENS Laurent,REO Kevin,4,0,"11,11,11,11|7,2,3,5",QF,OTHER,MS,572,Main Draw,SENS Laurent (NCL),REO Kevin (KIR)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,FREDDY Choy,VILLEMINOT Laurent,4,3,"11,9,5,8,11,13,13|9,11,11,11,8,11,11",QF,OTHER,MS,572,Main Draw,FREDDY Choy (KIR),VILLEMINOT Laurent (NCL)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,SHING Yoshua,ITAIA Obrian,4,2,"10,11,8,11,11,11|12,5,11,5,8,7",QF,OTHER,MS,572,Main Draw,SHING Yoshua (VAN),ITAIA Obrian (NRU)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,FREDDY Choy,SENS Laurent,4,3,"7,8,12,12,11,11,12|11,11,10,10,7,13,10",5-8,OTHER,MS,572,Position Draw,FREDDY Choy (KIR),SENS Laurent (NCL)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,SHING Yoshua,FREDDY Choy,4,2,"11,11,11,13,9,11|4,8,13,11,11,8",3RD,OTHER,MS,572,Position Draw,SHING Yoshua (VAN),FREDDY Choy (KIR)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,HUNT Kerryn,LOI Samantha,4,1,"5,11,11,11,11|11,5,7,5,8",R16,OTHER,WS,572,Main Draw,HUNT Kerryn (COK),LOI Samantha (PNG)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,QWEA Stephanie,STEPHEN Odessa,4,0,"11,11,11,13|7,6,6,11",R16,OTHER,WS,572,Main Draw,QWEA Stephanie (VAN),STEPHEN Odessa (NRU)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,LI Carolyn,HANE Maryanne,4,0,"11,11,11,11|2,6,2,5",R16,OTHER,WS,572,Main Draw,LI Carolyn (FIJ),HANE Maryanne (PNG)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,GAUTHIER Cathy,GOBURE Oxyna,4,0,"11,11,11,11|3,3,2,6",QF,OTHER,WS,572,Main Draw,GAUTHIER Cathy (NCL),GOBURE Oxyna (NRU)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,LAI VAN Lea,HUNT Kerryn,4,1,"12,9,11,11,11|10,11,8,7,5",QF,OTHER,WS,572,Main Draw,LAI VAN Lea (NCL),HUNT Kerryn (COK)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,QWEA Stephanie,MANICO Louisa,4,1,"11,11,11,11,11|6,7,8,13,9",QF,OTHER,WS,572,Main Draw,QWEA Stephanie (VAN),MANICO Louisa (COK)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,BOUTEILLE Ornella,LI Carolyn,4,3,"11,6,12,9,9,11,11|5,11,10,11,11,9,5",QF,OTHER,WS,572,Main Draw,BOUTEILLE Ornella (NCL),LI Carolyn (FIJ)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,GAUTHIER Cathy,LAI VAN Lea,4,1,"11,11,8,11,11|9,3,11,5,4",5-8,OTHER,WS,572,Position Draw,GAUTHIER Cathy (NCL),LAI VAN Lea (NCL)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,BOUTEILLE Ornella,QWEA Stephanie,4,1,"11,11,9,11,11|5,8,11,8,8",5-8,OTHER,WS,572,Position Draw,BOUTEILLE Ornella (NCL),QWEA Stephanie (VAN)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,GAUTHIER Cathy,BOUTEILLE Ornella,4,0,"11,11,11,11|4,8,7,5",3RD,OTHER,WS,572,Position Draw,GAUTHIER Cathy (NCL),BOUTEILLE Ornella (NCL)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,HENZELL William,LOI David,4,0,"11,11,11,11|1,1,4,5",R16,OTHER,MS,572,Main Draw,HENZELL William (AUS),LOI David (PNG)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,SCARLETT Oliver,ARNAUD Gilles,4,0,"11,11,11,11|4,2,4,6",R16,OTHER,MS,572,Main Draw,SCARLETT Oliver (NZL),ARNAUD Gilles (NCL)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,SENS Laurent,ITAIA Obrian,4,0,"11,11,11,11|3,3,3,5",R16,OTHER,MS,572,Main Draw,SENS Laurent (NCL),ITAIA Obrian (NRU)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,XIAO Phillip,JOHNNY Allie,4,0,"11,11,11,11|3,6,3,4",R16,OTHER,MS,572,Main Draw,XIAO Phillip (NZL),JOHNNY Allie (KIR)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,POWELL David,ITAIA Sharky,4,0,"11,11,11,11|9,1,0,5",R16,OTHER,MS,572,Main Draw,POWELL David (AUS),ITAIA Sharky (NRU)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,LIN Yi-Sien,FREDDY Choy,4,0,"11,11,12,11|6,7,10,9",R16,OTHER,MS,572,Main Draw,LIN Yi-Sien (NZL),FREDDY Choy (KIR)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,SHING Yoshua,VILLEMINOT Laurent,4,0,"11,11,14,11|7,8,12,8",R16,OTHER,MS,572,Main Draw,SHING Yoshua (VAN),VILLEMINOT Laurent (NCL)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,FRANK Robert,REO Kevin,4,0,"11,11,11,11|1,5,4,5",R16,OTHER,MS,572,Main Draw,FRANK Robert (AUS),REO Kevin (KIR)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,HENZELL William,SCARLETT Oliver,4,1,"11,8,11,11,11|2,11,2,5,4",QF,OTHER,MS,572,Main Draw,HENZELL William (AUS),SCARLETT Oliver (NZL)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,XIAO Phillip,SENS Laurent,4,0,"11,11,11,11|3,3,5,8",QF,OTHER,MS,572,Main Draw,XIAO Phillip (NZL),SENS Laurent (NCL)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,POWELL David,LIN Yi-Sien,4,0,"11,11,11,11|6,5,9,9",QF,OTHER,MS,572,Main Draw,POWELL David (AUS),LIN Yi-Sien (NZL)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,FRANK Robert,SHING Yoshua,4,0,"11,11,11,11|6,8,6,6",QF,OTHER,MS,572,Main Draw,FRANK Robert (AUS),SHING Yoshua (VAN)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,HENZELL William,XIAO Phillip,4,0,"11,11,11,11|7,7,9,7",SF,OTHER,MS,572,Main Draw,HENZELL William (AUS),XIAO Phillip (NZL)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,POWELL David,FRANK Robert,4,0,"11,11,11,11|7,8,8,4",SF,OTHER,MS,572,Main Draw,POWELL David (AUS),FRANK Robert (AUS)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,HENZELL William,POWELL David,4,1,"15,11,7,11,11|13,7,11,4,1",F,OTHER,MS,572,Main Draw,HENZELL William (AUS),POWELL David (AUS)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,FRANK Robert,XIAO Phillip,4,1,"11,11,11,8,11|3,7,5,11,9",3RD,OTHER,MS,572,Position Draw,FRANK Robert (AUS),XIAO Phillip (NZL)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,LI Chunli,YEE Harvi,4,0,"11,11,11,11|1,2,7,2",R16,OTHER,WS,572,Main Draw,LI Chunli (NZL),YEE Harvi (FIJ)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,GAUTHIER Cathy,STEPHEN Odessa,4,0,"11,11,11,11|6,6,1,1",R16,OTHER,WS,572,Main Draw,GAUTHIER Cathy (NCL),STEPHEN Odessa (NRU)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,TAPPER Melissa,HUNT Kerryn,4,0,"11,11,11,11|3,1,4,2",R16,OTHER,WS,572,Main Draw,TAPPER Melissa (AUS),HUNT Kerryn (COK)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,DEDERKO Zhenhua,MANICO Louisa,4,0,"11,11,11,11|4,3,3,2",R16,OTHER,WS,572,Main Draw,DEDERKO Zhenhua (AUS),MANICO Louisa (COK)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,LAI VAN Lea,LI Carolyn,4,2,"11,14,8,11,9,11|7,12,11,6,11,2",R16,OTHER,WS,572,Main Draw,LAI VAN Lea (NCL),LI Carolyn (FIJ)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,HER-LEE Sarah,GOBURE Oxyna,4,0,"11,11,11,11|7,7,6,5",R16,OTHER,WS,572,Main Draw,HER-LEE Sarah (NZL),GOBURE Oxyna (NRU)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,MIAO Miao,HANE Maryanne,4,0,"11,11,11,11|2,1,2,2",R16,OTHER,WS,572,Main Draw,MIAO Miao (AUS),HANE Maryanne (PNG)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,LI Chunli,BOUTEILLE Ornella,4,0,"11,11,11,11|5,3,5,1",QF,OTHER,WS,572,Main Draw,LI Chunli (NZL),BOUTEILLE Ornella (NCL)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,TAPPER Melissa,GAUTHIER Cathy,4,1,"9,11,11,11,11|11,5,9,3,9",QF,OTHER,WS,572,Main Draw,TAPPER Melissa (AUS),GAUTHIER Cathy (NCL)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,DEDERKO Zhenhua,LAI VAN Lea,4,0,"11,11,11,11|2,6,7,4",QF,OTHER,WS,572,Main Draw,DEDERKO Zhenhua (AUS),LAI VAN Lea (NCL)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,MIAO Miao,HER-LEE Sarah,4,1,"11,11,11,11,11|13,7,5,9,4",QF,OTHER,WS,572,Main Draw,MIAO Miao (AUS),HER-LEE Sarah (NZL)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,LI Chunli,TAPPER Melissa,4,1,"11,11,6,11,11|3,7,11,6,8",SF,OTHER,WS,572,Main Draw,LI Chunli (NZL),TAPPER Melissa (AUS)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,MIAO Miao,DEDERKO Zhenhua,4,2,"12,11,12,9,16,11|14,9,10,11,14,6",SF,OTHER,WS,572,Main Draw,MIAO Miao (AUS),DEDERKO Zhenhua (AUS)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,MIAO Miao,LI Chunli,4,3,"5,11,11,10,11,13,11|11,13,9,12,7,11,8",F,OTHER,WS,572,Main Draw,MIAO Miao (AUS),LI Chunli (NZL)
-ITTF Oceania Cup Bendigo 2013,2013-06-30,DEDERKO Zhenhua,TAPPER Melissa,4,2,"11,4,11,11,9,11|5,11,7,7,11,2",3RD,OTHER,WS,572,Position Draw,DEDERKO Zhenhua (AUS),TAPPER Melissa (AUS)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+ITTF Oceania Cup Bendigo 2013,2013-06-30,LIN Yi-Sien,PARK Young Jun,4,0,"11,11,11,11|6,3,9,4",,OTHER,MS,572,Qualification,LIN Yi-Sien (NZL),PARK Young Jun (FIJ),LIN Yi-Sien
+ITTF Oceania Cup Bendigo 2013,2013-06-30,ITAIA Obrian,REO Kevin,4,2,"11,11,8,9,11,11|8,7,11,11,8,8",,OTHER,MS,572,Qualification,ITAIA Obrian (NRU),REO Kevin (KIR),ITAIA Obrian
+ITTF Oceania Cup Bendigo 2013,2013-06-30,ITAIA Obrian,PARK Young Jun,4,2,"11,7,8,11,11,11|4,11,11,8,9,8",,OTHER,MS,572,Qualification,ITAIA Obrian (NRU),PARK Young Jun (FIJ),ITAIA Obrian
+ITTF Oceania Cup Bendigo 2013,2013-06-30,LIN Yi-Sien,REO Kevin,4,0,"11,11,11,11|5,6,7,3",,OTHER,MS,572,Qualification,LIN Yi-Sien (NZL),REO Kevin (KIR),LIN Yi-Sien
+ITTF Oceania Cup Bendigo 2013,2013-06-30,LIN Yi-Sien,ITAIA Obrian,4,0,"11,11,11,11|5,2,6,3",,OTHER,MS,572,Qualification,LIN Yi-Sien (NZL),ITAIA Obrian (NRU),LIN Yi-Sien
+ITTF Oceania Cup Bendigo 2013,2013-06-30,REO Kevin,PARK Young Jun,4,2,"6,10,11,16,11,11|11,12,6,14,7,8",,OTHER,MS,572,Qualification,REO Kevin (KIR),PARK Young Jun (FIJ),REO Kevin
+ITTF Oceania Cup Bendigo 2013,2013-06-30,SCARLETT Oliver,ITAIA Sharky,4,0,"11,11,11,11|9,5,7,4",,OTHER,MS,572,Qualification,SCARLETT Oliver (NZL),ITAIA Sharky (NRU),SCARLETT Oliver
+ITTF Oceania Cup Bendigo 2013,2013-06-30,VILLEMINOT Laurent,SEPA Gasika,4,0,"11,11,11,11|3,5,5,5",,OTHER,MS,572,Qualification,VILLEMINOT Laurent (NCL),SEPA Gasika (PNG),VILLEMINOT Laurent
+ITTF Oceania Cup Bendigo 2013,2013-06-30,VILLEMINOT Laurent,ITAIA Sharky,4,0,"11,11,11,11|0,7,3,7",,OTHER,MS,572,Qualification,VILLEMINOT Laurent (NCL),ITAIA Sharky (NRU),VILLEMINOT Laurent
+ITTF Oceania Cup Bendigo 2013,2013-06-30,SCARLETT Oliver,SEPA Gasika,4,0,"11,11,11,11|2,1,3,3",,OTHER,MS,572,Qualification,SCARLETT Oliver (NZL),SEPA Gasika (PNG),SCARLETT Oliver
+ITTF Oceania Cup Bendigo 2013,2013-06-30,SCARLETT Oliver,VILLEMINOT Laurent,4,0,"11,11,11,11|6,5,5,4",,OTHER,MS,572,Qualification,SCARLETT Oliver (NZL),VILLEMINOT Laurent (NCL),SCARLETT Oliver
+ITTF Oceania Cup Bendigo 2013,2013-06-30,ITAIA Sharky,SEPA Gasika,4,3,"11,9,8,8,11,11,11|9,11,11,11,5,4,4",,OTHER,MS,572,Qualification,ITAIA Sharky (NRU),SEPA Gasika (PNG),ITAIA Sharky
+ITTF Oceania Cup Bendigo 2013,2013-06-30,SENS Laurent,CHAND Sanesh,4,0,"11,11,11,11|2,2,4,5",,OTHER,MS,572,Qualification,SENS Laurent (NCL),CHAND Sanesh (FIJ),SENS Laurent
+ITTF Oceania Cup Bendigo 2013,2013-06-30,FREDDY Choy,LOI David,4,0,"11,11,11,11|5,3,7,8",,OTHER,MS,572,Qualification,FREDDY Choy (KIR),LOI David (PNG),FREDDY Choy
+ITTF Oceania Cup Bendigo 2013,2013-06-30,FREDDY Choy,CHAND Sanesh,4,0,"14,11,11,11|12,4,7,7",,OTHER,MS,572,Qualification,FREDDY Choy (KIR),CHAND Sanesh (FIJ),FREDDY Choy
+ITTF Oceania Cup Bendigo 2013,2013-06-30,SENS Laurent,LOI David,4,0,"11,11,11,11|1,1,2,4",,OTHER,MS,572,Qualification,SENS Laurent (NCL),LOI David (PNG),SENS Laurent
+ITTF Oceania Cup Bendigo 2013,2013-06-30,SENS Laurent,FREDDY Choy,4,1,"11,12,11,8,12|3,10,8,11,10",,OTHER,MS,572,Qualification,SENS Laurent (NCL),FREDDY Choy (KIR),SENS Laurent
+ITTF Oceania Cup Bendigo 2013,2013-06-30,LOI David,CHAND Sanesh,4,1,"11,5,11,11,11|6,11,6,9,4",,OTHER,MS,572,Qualification,LOI David (PNG),CHAND Sanesh (FIJ),LOI David
+ITTF Oceania Cup Bendigo 2013,2013-06-30,SHING Yoshua,JOHNNY Allie,4,0,"11,11,11,11|4,4,5,9",,OTHER,MS,572,Qualification,SHING Yoshua (VAN),JOHNNY Allie (KIR),SHING Yoshua
+ITTF Oceania Cup Bendigo 2013,2013-06-30,ARNAUD Gilles,KARIKO Jackson,4,0,"11,11,11,11|4,7,8,6",,OTHER,MS,572,Qualification,ARNAUD Gilles (NCL),KARIKO Jackson (PNG),ARNAUD Gilles
+ITTF Oceania Cup Bendigo 2013,2013-06-30,ARNAUD Gilles,JOHNNY Allie,4,0,"11,11,11,11|4,7,8,8",,OTHER,MS,572,Qualification,ARNAUD Gilles (NCL),JOHNNY Allie (KIR),ARNAUD Gilles
+ITTF Oceania Cup Bendigo 2013,2013-06-30,SHING Yoshua,KARIKO Jackson,4,0,"11,11,11,11|6,6,7,4",,OTHER,MS,572,Qualification,SHING Yoshua (VAN),KARIKO Jackson (PNG),SHING Yoshua
+ITTF Oceania Cup Bendigo 2013,2013-06-30,SHING Yoshua,ARNAUD Gilles,4,2,"11,9,9,11,11,11|6,11,11,6,9,1",,OTHER,MS,572,Qualification,SHING Yoshua (VAN),ARNAUD Gilles (NCL),SHING Yoshua
+ITTF Oceania Cup Bendigo 2013,2013-06-30,JOHNNY Allie,KARIKO Jackson,4,1,"6,11,12,11,11|11,6,10,9,2",,OTHER,MS,572,Qualification,JOHNNY Allie (KIR),KARIKO Jackson (PNG),JOHNNY Allie
+ITTF Oceania Cup Bendigo 2013,2013-06-30,HER-LEE Sarah,HUNT Kerryn,4,0,"11,11,11,11|8,1,3,7",,OTHER,WS,572,Qualification,HER-LEE Sarah (NZL),HUNT Kerryn (COK),HER-LEE Sarah
+ITTF Oceania Cup Bendigo 2013,2013-06-30,QWEA Stephanie,HUNT Kerryn,4,2,"10,8,11,11,12,11|12,11,9,6,10,8",,OTHER,WS,572,Qualification,QWEA Stephanie (VAN),HUNT Kerryn (COK),QWEA Stephanie
+ITTF Oceania Cup Bendigo 2013,2013-06-30,HER-LEE Sarah,QWEA Stephanie,4,0,"11,11,11,11|4,6,2,5",,OTHER,WS,572,Qualification,HER-LEE Sarah (NZL),QWEA Stephanie (VAN),HER-LEE Sarah
+ITTF Oceania Cup Bendigo 2013,2013-06-30,GAUTHIER Cathy,HANE Maryanne,4,0,"11,11,11,11|4,1,2,2",,OTHER,WS,572,Qualification,GAUTHIER Cathy (NCL),HANE Maryanne (PNG),GAUTHIER Cathy
+ITTF Oceania Cup Bendigo 2013,2013-06-30,GAUTHIER Cathy,LI Carolyn,4,0,"11,11,11,11|5,1,7,4",,OTHER,WS,572,Qualification,GAUTHIER Cathy (NCL),LI Carolyn (FIJ),GAUTHIER Cathy
+ITTF Oceania Cup Bendigo 2013,2013-06-30,BOUTEILLE Ornella,YEE Harvi,4,0,"11,11,13,11|1,6,11,5",,OTHER,WS,572,Qualification,BOUTEILLE Ornella (NCL),YEE Harvi (FIJ),BOUTEILLE Ornella
+ITTF Oceania Cup Bendigo 2013,2013-06-30,GOBURE Oxyna,YEE Harvi,4,0,"13,11,11,14|11,4,7,12",,OTHER,WS,572,Qualification,GOBURE Oxyna (NRU),YEE Harvi (FIJ),GOBURE Oxyna
+ITTF Oceania Cup Bendigo 2013,2013-06-30,BOUTEILLE Ornella,GOBURE Oxyna,4,0,"11,11,11,11|2,2,5,3",,OTHER,WS,572,Qualification,BOUTEILLE Ornella (NCL),GOBURE Oxyna (NRU),BOUTEILLE Ornella
+ITTF Oceania Cup Bendigo 2013,2013-06-30,MANICO Louisa,LOI Samantha,4,0,"11,11,11,11|6,8,5,8",,OTHER,WS,572,Qualification,MANICO Louisa (COK),LOI Samantha (PNG),MANICO Louisa
+ITTF Oceania Cup Bendigo 2013,2013-06-30,LAI VAN Lea,STEPHEN Odessa,4,0,"13,11,11,11|11,2,4,5",,OTHER,WS,572,Qualification,LAI VAN Lea (NCL),STEPHEN Odessa (NRU),LAI VAN Lea
+ITTF Oceania Cup Bendigo 2013,2013-06-30,LAI VAN Lea,LOI Samantha,4,0,"11,11,11,13|7,7,5,11",,OTHER,WS,572,Qualification,LAI VAN Lea (NCL),LOI Samantha (PNG),LAI VAN Lea
+ITTF Oceania Cup Bendigo 2013,2013-06-30,STEPHEN Odessa,MANICO Louisa,4,3,"11,13,11,7,8,6,11|9,11,9,11,11,11,6",,OTHER,WS,572,Qualification,STEPHEN Odessa (NRU),MANICO Louisa (COK),STEPHEN Odessa
+ITTF Oceania Cup Bendigo 2013,2013-06-30,LAI VAN Lea,MANICO Louisa,4,2,"4,11,11,13,9,11|11,6,7,11,11,6",,OTHER,WS,572,Qualification,LAI VAN Lea (NCL),MANICO Louisa (COK),LAI VAN Lea
+ITTF Oceania Cup Bendigo 2013,2013-06-30,STEPHEN Odessa,LOI Samantha,4,1,"9,11,11,11,11|11,4,6,7,7",,OTHER,WS,572,Qualification,STEPHEN Odessa (NRU),LOI Samantha (PNG),STEPHEN Odessa
+ITTF Oceania Cup Bendigo 2013,2013-06-30,FREDDY Choy,ITAIA Sharky,4,1,"11,11,11,10,11|8,4,6,12,2",R16,OTHER,MS,572,Main Draw,FREDDY Choy (KIR),ITAIA Sharky (NRU),FREDDY Choy
+ITTF Oceania Cup Bendigo 2013,2013-06-30,ARNAUD Gilles,CHAND Sanesh,4,0,"11,11,11,11|5,5,1,2",R16,OTHER,MS,572,Main Draw,ARNAUD Gilles (NCL),CHAND Sanesh (FIJ),ARNAUD Gilles
+ITTF Oceania Cup Bendigo 2013,2013-06-30,JOHNNY Allie,LOI David,4,1,"9,13,11,11,11|11,11,7,5,1",R16,OTHER,MS,572,Main Draw,JOHNNY Allie (KIR),LOI David (PNG),JOHNNY Allie
+ITTF Oceania Cup Bendigo 2013,2013-06-30,ITAIA Obrian,KARIKO Jackson,4,0,"11,11,11,11|5,7,5,6",R16,OTHER,MS,572,Main Draw,ITAIA Obrian (NRU),KARIKO Jackson (PNG),ITAIA Obrian
+ITTF Oceania Cup Bendigo 2013,2013-06-30,SENS Laurent,REO Kevin,4,0,"11,11,11,11|7,2,3,5",QF,OTHER,MS,572,Main Draw,SENS Laurent (NCL),REO Kevin (KIR),SENS Laurent
+ITTF Oceania Cup Bendigo 2013,2013-06-30,FREDDY Choy,VILLEMINOT Laurent,4,3,"11,9,5,8,11,13,13|9,11,11,11,8,11,11",QF,OTHER,MS,572,Main Draw,FREDDY Choy (KIR),VILLEMINOT Laurent (NCL),FREDDY Choy
+ITTF Oceania Cup Bendigo 2013,2013-06-30,SHING Yoshua,ITAIA Obrian,4,2,"10,11,8,11,11,11|12,5,11,5,8,7",QF,OTHER,MS,572,Main Draw,SHING Yoshua (VAN),ITAIA Obrian (NRU),SHING Yoshua
+ITTF Oceania Cup Bendigo 2013,2013-06-30,FREDDY Choy,SENS Laurent,4,3,"7,8,12,12,11,11,12|11,11,10,10,7,13,10",5-8,OTHER,MS,572,Position Draw,FREDDY Choy (KIR),SENS Laurent (NCL),FREDDY Choy
+ITTF Oceania Cup Bendigo 2013,2013-06-30,SHING Yoshua,FREDDY Choy,4,2,"11,11,11,13,9,11|4,8,13,11,11,8",3RD,OTHER,MS,572,Position Draw,SHING Yoshua (VAN),FREDDY Choy (KIR),SHING Yoshua
+ITTF Oceania Cup Bendigo 2013,2013-06-30,HUNT Kerryn,LOI Samantha,4,1,"5,11,11,11,11|11,5,7,5,8",R16,OTHER,WS,572,Main Draw,HUNT Kerryn (COK),LOI Samantha (PNG),HUNT Kerryn
+ITTF Oceania Cup Bendigo 2013,2013-06-30,QWEA Stephanie,STEPHEN Odessa,4,0,"11,11,11,13|7,6,6,11",R16,OTHER,WS,572,Main Draw,QWEA Stephanie (VAN),STEPHEN Odessa (NRU),QWEA Stephanie
+ITTF Oceania Cup Bendigo 2013,2013-06-30,LI Carolyn,HANE Maryanne,4,0,"11,11,11,11|2,6,2,5",R16,OTHER,WS,572,Main Draw,LI Carolyn (FIJ),HANE Maryanne (PNG),LI Carolyn
+ITTF Oceania Cup Bendigo 2013,2013-06-30,GAUTHIER Cathy,GOBURE Oxyna,4,0,"11,11,11,11|3,3,2,6",QF,OTHER,WS,572,Main Draw,GAUTHIER Cathy (NCL),GOBURE Oxyna (NRU),GAUTHIER Cathy
+ITTF Oceania Cup Bendigo 2013,2013-06-30,LAI VAN Lea,HUNT Kerryn,4,1,"12,9,11,11,11|10,11,8,7,5",QF,OTHER,WS,572,Main Draw,LAI VAN Lea (NCL),HUNT Kerryn (COK),LAI VAN Lea
+ITTF Oceania Cup Bendigo 2013,2013-06-30,QWEA Stephanie,MANICO Louisa,4,1,"11,11,11,11,11|6,7,8,13,9",QF,OTHER,WS,572,Main Draw,QWEA Stephanie (VAN),MANICO Louisa (COK),QWEA Stephanie
+ITTF Oceania Cup Bendigo 2013,2013-06-30,BOUTEILLE Ornella,LI Carolyn,4,3,"11,6,12,9,9,11,11|5,11,10,11,11,9,5",QF,OTHER,WS,572,Main Draw,BOUTEILLE Ornella (NCL),LI Carolyn (FIJ),BOUTEILLE Ornella
+ITTF Oceania Cup Bendigo 2013,2013-06-30,GAUTHIER Cathy,LAI VAN Lea,4,1,"11,11,8,11,11|9,3,11,5,4",5-8,OTHER,WS,572,Position Draw,GAUTHIER Cathy (NCL),LAI VAN Lea (NCL),GAUTHIER Cathy
+ITTF Oceania Cup Bendigo 2013,2013-06-30,BOUTEILLE Ornella,QWEA Stephanie,4,1,"11,11,9,11,11|5,8,11,8,8",5-8,OTHER,WS,572,Position Draw,BOUTEILLE Ornella (NCL),QWEA Stephanie (VAN),BOUTEILLE Ornella
+ITTF Oceania Cup Bendigo 2013,2013-06-30,GAUTHIER Cathy,BOUTEILLE Ornella,4,0,"11,11,11,11|4,8,7,5",3RD,OTHER,WS,572,Position Draw,GAUTHIER Cathy (NCL),BOUTEILLE Ornella (NCL),GAUTHIER Cathy
+ITTF Oceania Cup Bendigo 2013,2013-06-30,HENZELL William,LOI David,4,0,"11,11,11,11|1,1,4,5",R16,OTHER,MS,572,Main Draw,HENZELL William (AUS),LOI David (PNG),HENZELL William
+ITTF Oceania Cup Bendigo 2013,2013-06-30,SCARLETT Oliver,ARNAUD Gilles,4,0,"11,11,11,11|4,2,4,6",R16,OTHER,MS,572,Main Draw,SCARLETT Oliver (NZL),ARNAUD Gilles (NCL),SCARLETT Oliver
+ITTF Oceania Cup Bendigo 2013,2013-06-30,SENS Laurent,ITAIA Obrian,4,0,"11,11,11,11|3,3,3,5",R16,OTHER,MS,572,Main Draw,SENS Laurent (NCL),ITAIA Obrian (NRU),SENS Laurent
+ITTF Oceania Cup Bendigo 2013,2013-06-30,XIAO Phillip,JOHNNY Allie,4,0,"11,11,11,11|3,6,3,4",R16,OTHER,MS,572,Main Draw,XIAO Phillip (NZL),JOHNNY Allie (KIR),XIAO Phillip
+ITTF Oceania Cup Bendigo 2013,2013-06-30,POWELL David,ITAIA Sharky,4,0,"11,11,11,11|9,1,0,5",R16,OTHER,MS,572,Main Draw,POWELL David (AUS),ITAIA Sharky (NRU),POWELL David
+ITTF Oceania Cup Bendigo 2013,2013-06-30,LIN Yi-Sien,FREDDY Choy,4,0,"11,11,12,11|6,7,10,9",R16,OTHER,MS,572,Main Draw,LIN Yi-Sien (NZL),FREDDY Choy (KIR),LIN Yi-Sien
+ITTF Oceania Cup Bendigo 2013,2013-06-30,SHING Yoshua,VILLEMINOT Laurent,4,0,"11,11,14,11|7,8,12,8",R16,OTHER,MS,572,Main Draw,SHING Yoshua (VAN),VILLEMINOT Laurent (NCL),SHING Yoshua
+ITTF Oceania Cup Bendigo 2013,2013-06-30,FRANK Robert,REO Kevin,4,0,"11,11,11,11|1,5,4,5",R16,OTHER,MS,572,Main Draw,FRANK Robert (AUS),REO Kevin (KIR),FRANK Robert
+ITTF Oceania Cup Bendigo 2013,2013-06-30,HENZELL William,SCARLETT Oliver,4,1,"11,8,11,11,11|2,11,2,5,4",QF,OTHER,MS,572,Main Draw,HENZELL William (AUS),SCARLETT Oliver (NZL),HENZELL William
+ITTF Oceania Cup Bendigo 2013,2013-06-30,XIAO Phillip,SENS Laurent,4,0,"11,11,11,11|3,3,5,8",QF,OTHER,MS,572,Main Draw,XIAO Phillip (NZL),SENS Laurent (NCL),XIAO Phillip
+ITTF Oceania Cup Bendigo 2013,2013-06-30,POWELL David,LIN Yi-Sien,4,0,"11,11,11,11|6,5,9,9",QF,OTHER,MS,572,Main Draw,POWELL David (AUS),LIN Yi-Sien (NZL),POWELL David
+ITTF Oceania Cup Bendigo 2013,2013-06-30,FRANK Robert,SHING Yoshua,4,0,"11,11,11,11|6,8,6,6",QF,OTHER,MS,572,Main Draw,FRANK Robert (AUS),SHING Yoshua (VAN),FRANK Robert
+ITTF Oceania Cup Bendigo 2013,2013-06-30,HENZELL William,XIAO Phillip,4,0,"11,11,11,11|7,7,9,7",SF,OTHER,MS,572,Main Draw,HENZELL William (AUS),XIAO Phillip (NZL),HENZELL William
+ITTF Oceania Cup Bendigo 2013,2013-06-30,POWELL David,FRANK Robert,4,0,"11,11,11,11|7,8,8,4",SF,OTHER,MS,572,Main Draw,POWELL David (AUS),FRANK Robert (AUS),POWELL David
+ITTF Oceania Cup Bendigo 2013,2013-06-30,HENZELL William,POWELL David,4,1,"15,11,7,11,11|13,7,11,4,1",F,OTHER,MS,572,Main Draw,HENZELL William (AUS),POWELL David (AUS),HENZELL William
+ITTF Oceania Cup Bendigo 2013,2013-06-30,FRANK Robert,XIAO Phillip,4,1,"11,11,11,8,11|3,7,5,11,9",3RD,OTHER,MS,572,Position Draw,FRANK Robert (AUS),XIAO Phillip (NZL),FRANK Robert
+ITTF Oceania Cup Bendigo 2013,2013-06-30,LI Chunli,YEE Harvi,4,0,"11,11,11,11|1,2,7,2",R16,OTHER,WS,572,Main Draw,LI Chunli (NZL),YEE Harvi (FIJ),LI Chunli
+ITTF Oceania Cup Bendigo 2013,2013-06-30,GAUTHIER Cathy,STEPHEN Odessa,4,0,"11,11,11,11|6,6,1,1",R16,OTHER,WS,572,Main Draw,GAUTHIER Cathy (NCL),STEPHEN Odessa (NRU),GAUTHIER Cathy
+ITTF Oceania Cup Bendigo 2013,2013-06-30,TAPPER Melissa,HUNT Kerryn,4,0,"11,11,11,11|3,1,4,2",R16,OTHER,WS,572,Main Draw,TAPPER Melissa (AUS),HUNT Kerryn (COK),TAPPER Melissa
+ITTF Oceania Cup Bendigo 2013,2013-06-30,DEDERKO Zhenhua,MANICO Louisa,4,0,"11,11,11,11|4,3,3,2",R16,OTHER,WS,572,Main Draw,DEDERKO Zhenhua (AUS),MANICO Louisa (COK),DEDERKO Zhenhua
+ITTF Oceania Cup Bendigo 2013,2013-06-30,LAI VAN Lea,LI Carolyn,4,2,"11,14,8,11,9,11|7,12,11,6,11,2",R16,OTHER,WS,572,Main Draw,LAI VAN Lea (NCL),LI Carolyn (FIJ),LAI VAN Lea
+ITTF Oceania Cup Bendigo 2013,2013-06-30,HER-LEE Sarah,GOBURE Oxyna,4,0,"11,11,11,11|7,7,6,5",R16,OTHER,WS,572,Main Draw,HER-LEE Sarah (NZL),GOBURE Oxyna (NRU),HER-LEE Sarah
+ITTF Oceania Cup Bendigo 2013,2013-06-30,MIAO Miao,HANE Maryanne,4,0,"11,11,11,11|2,1,2,2",R16,OTHER,WS,572,Main Draw,MIAO Miao (AUS),HANE Maryanne (PNG),MIAO Miao
+ITTF Oceania Cup Bendigo 2013,2013-06-30,LI Chunli,BOUTEILLE Ornella,4,0,"11,11,11,11|5,3,5,1",QF,OTHER,WS,572,Main Draw,LI Chunli (NZL),BOUTEILLE Ornella (NCL),LI Chunli
+ITTF Oceania Cup Bendigo 2013,2013-06-30,TAPPER Melissa,GAUTHIER Cathy,4,1,"9,11,11,11,11|11,5,9,3,9",QF,OTHER,WS,572,Main Draw,TAPPER Melissa (AUS),GAUTHIER Cathy (NCL),TAPPER Melissa
+ITTF Oceania Cup Bendigo 2013,2013-06-30,DEDERKO Zhenhua,LAI VAN Lea,4,0,"11,11,11,11|2,6,7,4",QF,OTHER,WS,572,Main Draw,DEDERKO Zhenhua (AUS),LAI VAN Lea (NCL),DEDERKO Zhenhua
+ITTF Oceania Cup Bendigo 2013,2013-06-30,MIAO Miao,HER-LEE Sarah,4,1,"11,11,11,11,11|13,7,5,9,4",QF,OTHER,WS,572,Main Draw,MIAO Miao (AUS),HER-LEE Sarah (NZL),MIAO Miao
+ITTF Oceania Cup Bendigo 2013,2013-06-30,LI Chunli,TAPPER Melissa,4,1,"11,11,6,11,11|3,7,11,6,8",SF,OTHER,WS,572,Main Draw,LI Chunli (NZL),TAPPER Melissa (AUS),LI Chunli
+ITTF Oceania Cup Bendigo 2013,2013-06-30,MIAO Miao,DEDERKO Zhenhua,4,2,"12,11,12,9,16,11|14,9,10,11,14,6",SF,OTHER,WS,572,Main Draw,MIAO Miao (AUS),DEDERKO Zhenhua (AUS),MIAO Miao
+ITTF Oceania Cup Bendigo 2013,2013-06-30,MIAO Miao,LI Chunli,4,3,"5,11,11,10,11,13,11|11,13,9,12,7,11,8",F,OTHER,WS,572,Main Draw,MIAO Miao (AUS),LI Chunli (NZL),MIAO Miao
+ITTF Oceania Cup Bendigo 2013,2013-06-30,DEDERKO Zhenhua,TAPPER Melissa,4,2,"11,4,11,11,9,11|5,11,7,7,11,2",3RD,OTHER,WS,572,Position Draw,DEDERKO Zhenhua (AUS),TAPPER Melissa (AUS),DEDERKO Zhenhua

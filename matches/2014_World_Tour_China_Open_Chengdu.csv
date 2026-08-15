@@ -1,265 +1,265 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-World Tour China Open Chengdu 2014,2014-06-04,SUN Chia-Hung,AVI-TAL Omer,4,0,"11,11,11,11|6,6,7,7",,GRAND_SLAM,MS,134,Qualification,SUN Chia-Hung (TPE),AVI-TAL Omer (PAN)
-World Tour China Open Chengdu 2014,2014-06-04,WONG Chun Ting,AVI-TAL Omer,4,0,"11,11,11,11|4,6,1,1",,GRAND_SLAM,MS,134,Qualification,WONG Chun Ting (HKG),AVI-TAL Omer (PAN)
-World Tour China Open Chengdu 2014,2014-06-04,SUN Chia-Hung,WONG Chun Ting,4,2,"3,11,11,11,4,11|11,9,4,3,11,8",,GRAND_SLAM,MS,134,Qualification,WONG Chun Ting (HKG),SUN Chia-Hung (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,WEN Wei-Chieh,HUNG Ka Tak,4,3,"7,5,11,11,11,9,11|11,11,8,8,9,11,8",,GRAND_SLAM,MS,134,Qualification,HUNG Ka Tak (HKG),WEN Wei-Chieh (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,YOSHIDA Kaii,WEN Wei-Chieh,4,0,"11,11,11,11|6,6,9,5",,GRAND_SLAM,MS,134,Qualification,YOSHIDA Kaii (JPN),WEN Wei-Chieh (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,YOSHIDA Kaii,HUNG Ka Tak,4,0,"11,11,11,11|6,9,7,9",,GRAND_SLAM,MS,134,Qualification,YOSHIDA Kaii (JPN),HUNG Ka Tak (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,PARK Chan-Hyeok,LEE Chun-Lin,4,1,"8,11,14,21,11|11,8,12,19,7",,GRAND_SLAM,MS,134,Qualification,PARK Chan-Hyeok (KOR),LEE Chun-Lin (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,MENGEL Steffen,LEE Chun-Lin,4,2,"8,11,7,11,11,11|11,8,11,9,9,5",,GRAND_SLAM,MS,134,Qualification,MENGEL Steffen (GER),LEE Chun-Lin (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,MENGEL Steffen,PARK Chan-Hyeok,4,3,"11,6,7,11,11,10,11|7,11,11,5,7,12,5",,GRAND_SLAM,MS,134,Qualification,MENGEL Steffen (GER),PARK Chan-Hyeok (KOR)
-World Tour China Open Chengdu 2014,2014-06-04,LIAO Cheng-Ting,LI Hon Ming,4,1,"11,5,11,11,11|5,11,9,5,3",,GRAND_SLAM,MS,134,Qualification,LIAO Cheng-Ting (TPE),LI Hon Ming (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,LEE Sang Su,LI Hon Ming,4,1,"11,11,6,11,11|7,8,11,5,5",,GRAND_SLAM,MS,134,Qualification,LEE Sang Su (KOR),LI Hon Ming (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,LIAO Cheng-Ting,LEE Sang Su,4,3,"7,11,11,11,9,5,11|11,8,8,7,11,11,8",,GRAND_SLAM,MS,134,Qualification,LEE Sang Su (KOR),LIAO Cheng-Ting (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,FENG Xiaoquan,LAI Yi-Yao,4,2,"9,11,7,11,11,11|11,8,11,3,9,4",,GRAND_SLAM,MS,134,Qualification,FENG Xiaoquan (AUT),LAI Yi-Yao (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,JEONG Sangeun,LAI Yi-Yao,4,1,"11,4,11,11,11|8,11,6,6,4",,GRAND_SLAM,MS,134,Qualification,JEONG Sangeun (KOR),LAI Yi-Yao (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,JEONG Sangeun,FENG Xiaoquan,4,0,"11,11,11,11|9,5,6,6",,GRAND_SLAM,MS,134,Qualification,JEONG Sangeun (KOR),FENG Xiaoquan (AUT)
-World Tour China Open Chengdu 2014,2014-06-04,KIM Minhyeok,PENG Wang-Wei,4,1,"9,11,14,11,11|11,5,12,4,9",,GRAND_SLAM,MS,134,Qualification,KIM Minhyeok (KOR),PENG Wang-Wei (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,LI Hu,PENG Wang-Wei,4,0,"16,11,11,11|14,5,5,9",,GRAND_SLAM,MS,134,Qualification,LI Hu (SGP),PENG Wang-Wei (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,LI Hu,KIM Minhyeok,4,2,"12,10,11,9,13,11|10,12,5,11,11,3",,GRAND_SLAM,MS,134,Qualification,LI Hu (SGP),KIM Minhyeok (KOR)
-World Tour China Open Chengdu 2014,2014-06-04,SAKAI Asuka,LU Po-Hsien,4,0,"11,11,11,13|9,5,7,11",,GRAND_SLAM,MS,134,Qualification,SAKAI Asuka (JPN),LU Po-Hsien (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,YANG Zi,LU Po-Hsien,4,2,"4,11,9,11,11,11|11,3,11,7,3,9",,GRAND_SLAM,MS,134,Qualification,YANG Zi (SGP),LU Po-Hsien (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,SAKAI Asuka,YANG Zi,4,1,"13,9,11,11,11|11,11,5,9,7",,GRAND_SLAM,MS,134,Qualification,YANG Zi (SGP),SAKAI Asuka (JPN)
-World Tour China Open Chengdu 2014,2014-06-04,MACHI Asuka,MAK King Ho,4,0,"11,11,11,11|8,6,3,9",,GRAND_SLAM,MS,134,Qualification,MACHI Asuka (JPN),MAK King Ho (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,CHIANG Hung-Chieh,MAK King Ho,4,0,"11,11,11,11|7,8,2,8",,GRAND_SLAM,MS,134,Qualification,CHIANG Hung-Chieh (TPE),MAK King Ho (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,CHIANG Hung-Chieh,MACHI Asuka,4,3,"11,8,5,13,11,11,12|8,11,11,15,7,5,10",,GRAND_SLAM,MS,134,Qualification,CHIANG Hung-Chieh (TPE),MACHI Asuka (JPN)
-World Tour China Open Chengdu 2014,2014-06-04,HUANG Sheng-Sheng,POUNGSRI Max,4,0,"13,11,11,11|11,2,5,6",,GRAND_SLAM,MS,134,Qualification,HUANG Sheng-Sheng (TPE),POUNGSRI Max (THA)
-World Tour China Open Chengdu 2014,2014-06-04,CHEUNG Yuk,POUNGSRI Max,4,1,"9,11,11,11,14|11,5,7,9,12",,GRAND_SLAM,MS,134,Qualification,CHEUNG Yuk (HKG),POUNGSRI Max (THA)
-World Tour China Open Chengdu 2014,2014-06-04,HUANG Sheng-Sheng,CHEUNG Yuk,4,1,"11,11,12,10,11|6,8,10,12,4",,GRAND_SLAM,MS,134,Qualification,CHEUNG Yuk (HKG),HUANG Sheng-Sheng (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,HUNG Tzu-Hsiang,KWAN Man Ho,4,3,"11,11,10,9,12,11,11|5,13,12,11,10,5,5",,GRAND_SLAM,MS,134,Qualification,HUNG Tzu-Hsiang (TPE),KWAN Man Ho (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,MORIZONO Masataka,KWAN Man Ho,4,1,"14,9,11,11,11|12,11,5,6,9",,GRAND_SLAM,MS,134,Qualification,MORIZONO Masataka (JPN),KWAN Man Ho (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,MORIZONO Masataka,HUNG Tzu-Hsiang,4,3,"11,11,10,11,11,10,11|13,5,12,6,8,12,4",,GRAND_SLAM,MS,134,Qualification,MORIZONO Masataka (JPN),HUNG Tzu-Hsiang (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,WU Chih-Chi,HO Kwan Kit,4,3,"11,9,11,5,14,10,12|5,11,5,11,12,12,10",,GRAND_SLAM,MS,134,Qualification,WU Chih-Chi (TPE),HO Kwan Kit (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,HO Kwan Kit,MURAMATSU Yuto,4,2,"11,8,12,1,11,11|8,11,10,11,6,8",,GRAND_SLAM,MS,134,Qualification,MURAMATSU Yuto (JPN),HO Kwan Kit (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,MURAMATSU Yuto,WU Chih-Chi,4,1,"11,13,11,11,11|3,15,3,7,2",,GRAND_SLAM,MS,134,Qualification,MURAMATSU Yuto (JPN),WU Chih-Chi (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,WU Zhikang,CHANG Shun-Hung,4,1,"6,12,11,11,11|11,10,8,8,8",,GRAND_SLAM,MS,134,Qualification,WU Zhikang (SGP),CHANG Shun-Hung (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,SEO Hyundeok,CHANG Shun-Hung,4,1,"11,9,11,11,11|2,11,6,6,7",,GRAND_SLAM,MS,134,Qualification,SEO Hyundeok (KOR),CHANG Shun-Hung (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,WU Zhikang,SEO Hyundeok,4,1,"11,11,6,14,11|9,9,11,12,7",,GRAND_SLAM,MS,134,Qualification,SEO Hyundeok (KOR),WU Zhikang (SGP)
-World Tour China Open Chengdu 2014,2014-06-04,KIM Donghyun,GREEN Wally,4,0,"11,11,11,11|5,3,6,6",,GRAND_SLAM,MS,134,Qualification,KIM Donghyun (KOR),GREEN Wally (USA)
-World Tour China Open Chengdu 2014,2014-06-04,WANG Yang,CHEN Chao-Shun,4,0,"11,11,11,11|5,9,5,8",,GRAND_SLAM,MS,134,Qualification,WANG Yang (SVK),CHEN Chao-Shun (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,WANG Yang,GREEN Wally,4,0,"11,11,11,11|4,3,5,7",,GRAND_SLAM,MS,134,Qualification,WANG Yang (SVK),GREEN Wally (USA)
-World Tour China Open Chengdu 2014,2014-06-04,KIM Donghyun,CHEN Chao-Shun,4,2,"11,14,5,11,8,11|9,12,11,5,11,7",,GRAND_SLAM,MS,134,Qualification,KIM Donghyun (KOR),CHEN Chao-Shun (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,KIM Donghyun,WANG Yang,4,3,"11,11,11,8,11,12,11|13,8,13,11,8,10,8",,GRAND_SLAM,MS,134,Qualification,WANG Yang (SVK),KIM Donghyun (KOR)
-World Tour China Open Chengdu 2014,2014-06-04,CHEN Chao-Shun,GREEN Wally,4,0,"11,11,11,11|4,7,3,7",,GRAND_SLAM,MS,134,Qualification,GREEN Wally (USA),CHEN Chao-Shun (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,KANG Dongsoo,HOTZ Christian,4,2,"6,11,9,15,11,11|11,4,11,13,8,6",,GRAND_SLAM,MS,134,Qualification,KANG Dongsoo (KOR),HOTZ Christian (SUI)
-World Tour China Open Chengdu 2014,2014-06-04,CHEN Feng,CHIN Mao-Cheng,4,1,"10,12,11,11,11|12,10,7,5,4",,GRAND_SLAM,MS,134,Qualification,CHEN Feng (SGP),CHIN Mao-Cheng (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,CHEN Feng,HOTZ Christian,4,0,"11,12,11,11|4,10,6,9",,GRAND_SLAM,MS,134,Qualification,CHEN Feng (SGP),HOTZ Christian (SUI)
-World Tour China Open Chengdu 2014,2014-06-04,KANG Dongsoo,CHIN Mao-Cheng,4,1,"11,11,11,11,11|7,9,5,13,8",,GRAND_SLAM,MS,134,Qualification,KANG Dongsoo (KOR),CHIN Mao-Cheng (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,CHEN Feng,KANG Dongsoo,4,0,"11,11,11,11|7,8,3,5",,GRAND_SLAM,MS,134,Qualification,CHEN Feng (SGP),KANG Dongsoo (KOR)
-World Tour China Open Chengdu 2014,2014-06-04,CHIN Mao-Cheng,HOTZ Christian,4,1,"11,11,11,4,11|8,7,5,11,2",,GRAND_SLAM,MS,134,Qualification,HOTZ Christian (SUI),CHIN Mao-Cheng (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,LI Isabelle Siyun,HSIUNG Nai-I,4,0,"11,11,11,12|7,8,5,10",,GRAND_SLAM,WS,134,Qualification,HSIUNG Nai-I (TPE),LI Isabelle Siyun (SGP)
-World Tour China Open Chengdu 2014,2014-06-04,WU Jiaduo,LI Isabelle Siyun,4,0,"11,11,11,11|8,3,5,9",,GRAND_SLAM,WS,134,Qualification,WU Jiaduo (GER),LI Isabelle Siyun (SGP)
-World Tour China Open Chengdu 2014,2014-06-04,HSIUNG Nai-I,WU Jiaduo,4,2,"11,5,11,7,11,11|6,11,7,11,7,7",,GRAND_SLAM,WS,134,Qualification,WU Jiaduo (GER),HSIUNG Nai-I (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,KIM Mingyung,HUANG Hsin,4,1,"12,5,11,11,11|10,11,6,8,9",,GRAND_SLAM,WS,134,Qualification,KIM Mingyung (KOR),HUANG Hsin (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,NG Wing Nam,HUANG Hsin,4,1,"11,11,11,11,13|8,13,4,2,11",,GRAND_SLAM,WS,134,Qualification,NG Wing Nam (HKG),HUANG Hsin (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,NG Wing Nam,KIM Mingyung,4,1,"11,11,11,5,11|5,8,8,11,9",,GRAND_SLAM,WS,134,Qualification,NG Wing Nam (HKG),KIM Mingyung (KOR)
-World Tour China Open Chengdu 2014,2014-06-04,LEE Dasom,SOO Wai Yam,4,2,"11,11,11,9,5,11|9,2,9,11,11,8",,GRAND_SLAM,WS,134,Qualification,LEE Dasom (KOR),SOO Wai Yam (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,LEE I-Chen,SOO Wai Yam,4,1,"7,11,11,11,11|11,7,5,6,5",,GRAND_SLAM,WS,134,Qualification,LEE I-Chen (TPE),SOO Wai Yam (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,LEE I-Chen,LEE Dasom,4,1,"11,5,11,11,12|7,11,5,6,10",,GRAND_SLAM,WS,134,Qualification,LEE I-Chen (TPE),LEE Dasom (KOR)
-World Tour China Open Chengdu 2014,2014-06-04,TSUI Pao-Wen,LEE Eunhye,4,1,"11,11,11,9,11|6,4,5,11,9",,GRAND_SLAM,WS,134,Qualification,LEE Eunhye (KOR),TSUI Pao-Wen (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,LIN Ye,TSUI Pao-Wen,4,0,"11,11,11,11|2,4,4,4",,GRAND_SLAM,WS,134,Qualification,LIN Ye (CAN),TSUI Pao-Wen (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,LIN Ye,LEE Eunhye,4,1,"11,7,11,11,13|3,11,7,8,11",,GRAND_SLAM,WS,134,Qualification,LIN Ye (CAN),LEE Eunhye (KOR)
-World Tour China Open Chengdu 2014,2014-06-04,LI Ching Wan,CHO Hala,4,3,"5,11,7,11,11,7,11|11,7,11,9,9,11,5",,GRAND_SLAM,WS,134,Qualification,CHO Hala (KOR),LI Ching Wan (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,LI Ching Wan,HUANG Yi-Hua,4,2,"15,11,11,9,5,11|13,5,6,11,11,4",,GRAND_SLAM,WS,134,Qualification,HUANG Yi-Hua (TPE),LI Ching Wan (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,CHO Hala,HUANG Yi-Hua,4,1,"11,6,11,11,11|5,11,7,6,8",,GRAND_SLAM,WS,134,Qualification,HUANG Yi-Hua (TPE),CHO Hala (KOR)
-World Tour China Open Chengdu 2014,2014-06-04,LIU Hsing-Yin,KIM Minhee (YOB=1991),4,2,"6,10,11,12,11,11|11,12,7,10,9,5",,GRAND_SLAM,WS,134,Qualification,KIM Minhee (YOB=1991) (KOR),LIU Hsing-Yin (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,HIRANO Miu,LIU Hsing-Yin,4,2,"11,5,11,11,6,11|7,11,7,4,11,6",,GRAND_SLAM,WS,134,Qualification,HIRANO Miu (JPN),LIU Hsing-Yin (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,HIRANO Miu,KIM Minhee (YOB=1991),4,3,"11,12,4,5,11,9,11|8,10,11,11,9,11,9",,GRAND_SLAM,WS,134,Qualification,HIRANO Miu (JPN),KIM Minhee (YOB=1991) (KOR)
-World Tour China Open Chengdu 2014,2014-06-04,LEE Yearam,MORI Sakura,4,1,"11,5,14,11,12|7,11,12,7,10",,GRAND_SLAM,WS,134,Qualification,MORI Sakura (JPN),LEE Yearam (KOR)
-World Tour China Open Chengdu 2014,2014-06-04,LI Jie,LEE Yearam,4,1,"8,11,11,11,11|11,2,8,5,2",,GRAND_SLAM,WS,134,Qualification,LI Jie (NED),LEE Yearam (KOR)
-World Tour China Open Chengdu 2014,2014-06-04,LI Jie,MORI Sakura,4,0,"11,11,11,14|6,3,2,12",,GRAND_SLAM,WS,134,Qualification,LI Jie (NED),MORI Sakura (JPN)
-World Tour China Open Chengdu 2014,2014-06-04,CHENG Hsien-Tzu,MAK Tze Wing,4,2,"13,11,7,9,11,12|11,6,11,11,7,10",,GRAND_SLAM,WS,134,Qualification,CHENG Hsien-Tzu (TPE),MAK Tze Wing (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,HAMAMOTO Yui,MAK Tze Wing,4,1,"11,12,8,11,11|9,10,11,6,3",,GRAND_SLAM,WS,134,Qualification,HAMAMOTO Yui (AUT),MAK Tze Wing (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,CHENG Hsien-Tzu,HAMAMOTO Yui,4,2,"9,6,11,11,11,11|11,11,7,4,8,7",,GRAND_SLAM,WS,134,Qualification,HAMAMOTO Yui (AUT),CHENG Hsien-Tzu (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,MAEDA Miyu,WONG Chung Wan,4,0,"11,13,11,13|4,11,9,11",,GRAND_SLAM,WS,134,Qualification,MAEDA Miyu (JPN),WONG Chung Wan (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,CHEN Szu-Yu,WONG Chung Wan,4,1,"11,11,9,11,12|3,7,11,8,10",,GRAND_SLAM,WS,134,Qualification,CHEN Szu-Yu (TPE),WONG Chung Wan (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,CHEN Szu-Yu,MAEDA Miyu,4,0,"11,11,11,11|9,1,4,5",,GRAND_SLAM,WS,134,Qualification,CHEN Szu-Yu (TPE),MAEDA Miyu (JPN)
-World Tour China Open Chengdu 2014,2014-06-04,SAKAI Haruka,HSU Hui-Tsun,4,1,"8,11,11,11,11|11,9,8,4,6",,GRAND_SLAM,WS,134,Qualification,SAKAI Haruka (JPN),HSU Hui-Tsun (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,ZHOU Yihan,HSU Hui-Tsun,4,1,"11,6,11,11,11|9,11,9,4,5",,GRAND_SLAM,WS,134,Qualification,ZHOU Yihan (SGP),HSU Hui-Tsun (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,ZHOU Yihan,SAKAI Haruka,4,2,"11,11,2,7,12,11|8,8,11,11,10,7",,GRAND_SLAM,WS,134,Qualification,ZHOU Yihan (SGP),SAKAI Haruka (JPN)
-World Tour China Open Chengdu 2014,2014-06-04,KATO Miyu,LIN Chia-Chih,4,0,"11,11,11,11|7,7,7,6",,GRAND_SLAM,WS,134,Qualification,KATO Miyu (JPN),LIN Chia-Chih (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,SOLJA Amelie,LIN Chia-Chih,4,0,"11,13,11,11|9,11,4,3",,GRAND_SLAM,WS,134,Qualification,SOLJA Amelie (AUT),LIN Chia-Chih (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,SOLJA Amelie,KATO Miyu,4,2,"9,11,11,11,10,11|11,5,9,3,12,8",,GRAND_SLAM,WS,134,Qualification,SOLJA Amelie (AUT),KATO Miyu (JPN)
-World Tour China Open Chengdu 2014,2014-06-04,YAMANASHI Yuri,LIU Qi,4,1,"11,10,11,11,13|8,12,6,8,11",,GRAND_SLAM,WS,134,Qualification,YAMANASHI Yuri (JPN),LIU Qi (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,PARK Youngsook,LIU Qi,4,2,"11,13,11,5,10,14|6,11,6,11,12,12",,GRAND_SLAM,WS,134,Qualification,PARK Youngsook (KOR),LIU Qi (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,PARK Youngsook,YAMANASHI Yuri,4,3,"13,11,5,11,8,7,11|11,7,11,4,11,11,6",,GRAND_SLAM,WS,134,Qualification,PARK Youngsook (KOR),YAMANASHI Yuri (JPN)
-World Tour China Open Chengdu 2014,2014-06-04,KATO Kyoka,KOMWONG Nanthana,4,3,"9,11,11,5,5,13,12|11,6,8,11,11,11,10",,GRAND_SLAM,WS,134,Qualification,KOMWONG Nanthana (THA),KATO Kyoka (JPN)
-World Tour China Open Chengdu 2014,2014-06-04,KATO Kyoka,YOO Eunchong,4,0,"11,11,13,11|5,7,11,9",,GRAND_SLAM,WS,134,Qualification,YOO Eunchong (KOR),KATO Kyoka (JPN)
-World Tour China Open Chengdu 2014,2014-06-04,YOO Eunchong,KOMWONG Nanthana,4,1,"11,13,11,9,12|7,11,5,11,10",,GRAND_SLAM,WS,134,Qualification,YOO Eunchong (KOR),KOMWONG Nanthana (THA)
-World Tour China Open Chengdu 2014,2014-06-04,ZHU Chengzhu,HSING Ariel,4,2,"11,6,5,11,11,13|7,11,11,6,8,11",,GRAND_SLAM,WS,134,Qualification,HSING Ariel (USA),ZHU Chengzhu (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,ITO Mima,ZHU Chengzhu,4,1,"11,11,9,11,11|7,8,11,8,8",,GRAND_SLAM,WS,134,Qualification,ITO Mima (JPN),ZHU Chengzhu (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,HSING Ariel,ITO Mima,4,3,"9,11,11,11,10,7,13|11,7,9,8,12,11,11",,GRAND_SLAM,WS,134,Qualification,ITO Mima (JPN),HSING Ariel (USA)
-World Tour China Open Chengdu 2014,2014-06-04,MATSUDAIRA Shiho,WANG Yi-Ju,4,3,"11,16,10,11,3,3,11|8,14,12,9,11,11,6",,GRAND_SLAM,WS,134,Qualification,MATSUDAIRA Shiho (JPN),WANG Yi-Ju (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,LEE Eunhee,WANG Yi-Ju,4,2,"9,9,11,11,11,13|11,11,7,4,3,11",,GRAND_SLAM,WS,134,Qualification,LEE Eunhee (KOR),WANG Yi-Ju (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,MATSUDAIRA Shiho,LEE Eunhee,4,2,"10,9,11,11,11,11|12,11,7,7,5,9",,GRAND_SLAM,WS,134,Qualification,LEE Eunhee (KOR),MATSUDAIRA Shiho (JPN)
-World Tour China Open Chengdu 2014,2014-06-04,SAWETTABUT Suthasini,LIN Chia-Hui,4,2,"11,6,10,11,11,11|7,11,12,6,9,8",,GRAND_SLAM,WS,134,Qualification,LIN Chia-Hui (TPE),SAWETTABUT Suthasini (THA)
-World Tour China Open Chengdu 2014,2014-06-04,NONAKA Yuki,SAWETTABUT Suthasini,4,2,"11,4,11,7,11,11|5,11,7,11,5,9",,GRAND_SLAM,WS,134,Qualification,NONAKA Yuki (JPN),SAWETTABUT Suthasini (THA)
-World Tour China Open Chengdu 2014,2014-06-04,NONAKA Yuki,LIN Chia-Hui,4,2,"8,11,11,9,11,11|11,4,9,11,3,8",,GRAND_SLAM,WS,134,Qualification,NONAKA Yuki (JPN),LIN Chia-Hui (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,HO Kwan Kit,PENG Wang-Wei,3,1,"11,11,11,12|8,13,8,10",,GRAND_SLAM,U21MS,134,Qualification,PENG Wang-Wei (TPE),HO Kwan Kit (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,KIM Minhyeok,HO Kwan Kit,3,1,"4,13,11,11|11,11,9,7",,GRAND_SLAM,U21MS,134,Qualification,KIM Minhyeok (KOR),HO Kwan Kit (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,LIAO Cheng-Ting,LAI Yi-Yao,3,0,"15,11,11|13,5,2",,GRAND_SLAM,U21MS,134,Qualification,LAI Yi-Yao (TPE),LIAO Cheng-Ting (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,LIAO Cheng-Ting,MAK King Ho,3,2,"7,11,6,11,11|11,4,11,7,6",,GRAND_SLAM,U21MS,134,Qualification,MAK King Ho (HKG),LIAO Cheng-Ting (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,MAK King Ho,LAI Yi-Yao,3,1,"11,11,9,11|4,5,11,7",,GRAND_SLAM,U21MS,134,Qualification,MAK King Ho (HKG),LAI Yi-Yao (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,LEE Chun-Lin,KWAN Man Ho,3,0,"11,11,12|5,4,10",,GRAND_SLAM,U21MS,134,Qualification,LEE Chun-Lin (TPE),KWAN Man Ho (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,PARK Chan-Hyeok,KWAN Man Ho,3,0,"14,11,11|12,9,9",,GRAND_SLAM,U21MS,134,Qualification,PARK Chan-Hyeok (KOR),KWAN Man Ho (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,POUNGSRI Max,LI Hon Ming,3,2,"11,4,11,4,11|8,11,3,11,7",,GRAND_SLAM,U21MS,134,Qualification,LI Hon Ming (HKG),POUNGSRI Max (THA)
-World Tour China Open Chengdu 2014,2014-06-04,SUN Chia-Hung,CHIN Mao-Cheng,3,1,"11,11,9,11|5,9,11,8",,GRAND_SLAM,U21MS,134,Qualification,SUN Chia-Hung (TPE),CHIN Mao-Cheng (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,SUN Chia-Hung,POUNGSRI Max,3,0,"11,11,11|9,5,9",,GRAND_SLAM,U21MS,134,Qualification,SUN Chia-Hung (TPE),POUNGSRI Max (THA)
-World Tour China Open Chengdu 2014,2014-06-04,CHIN Mao-Cheng,LI Hon Ming,3,1,"11,11,8,11|7,8,11,8",,GRAND_SLAM,U21MS,134,Qualification,LI Hon Ming (HKG),CHIN Mao-Cheng (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,SUN Chia-Hung,LI Hon Ming,3,0,"11,11,11|9,8,8",,GRAND_SLAM,U21MS,134,Qualification,SUN Chia-Hung (TPE),LI Hon Ming (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,POUNGSRI Max,CHIN Mao-Cheng,3,2,"5,11,4,12,11|11,6,11,10,6",,GRAND_SLAM,U21MS,134,Qualification,POUNGSRI Max (THA),CHIN Mao-Cheng (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,LU Po-Hsien,WEN Wei-Chieh,3,2,"12,6,11,10,13|10,11,2,12,11",,GRAND_SLAM,U21MS,134,Qualification,WEN Wei-Chieh (TPE),LU Po-Hsien (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,HUNG Ka Tak,AVI-TAL Omer,3,1,"9,11,11,12|11,9,2,10",,GRAND_SLAM,U21MS,134,Qualification,HUNG Ka Tak (HKG),AVI-TAL Omer (PAN)
-World Tour China Open Chengdu 2014,2014-06-04,HUNG Ka Tak,LU Po-Hsien,3,2,"8,9,11,11,11|11,11,5,5,3",,GRAND_SLAM,U21MS,134,Qualification,HUNG Ka Tak (HKG),LU Po-Hsien (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,AVI-TAL Omer,WEN Wei-Chieh,3,2,"8,11,11,3,11|11,6,8,11,9",,GRAND_SLAM,U21MS,134,Qualification,WEN Wei-Chieh (TPE),AVI-TAL Omer (PAN)
-World Tour China Open Chengdu 2014,2014-06-04,LU Po-Hsien,AVI-TAL Omer,3,2,"8,11,9,11,11|11,5,11,5,7",,GRAND_SLAM,U21MS,134,Qualification,LU Po-Hsien (TPE),AVI-TAL Omer (PAN)
-World Tour China Open Chengdu 2014,2014-06-04,SAWETTABUT Suthasini,LI Ching Wan,3,2,"7,11,9,11,13|11,9,11,9,11",,GRAND_SLAM,U21WS,134,Qualification,LI Ching Wan (HKG),SAWETTABUT Suthasini (THA)
-World Tour China Open Chengdu 2014,2014-06-04,KATO Miyu,SAWETTABUT Suthasini,3,0,"11,11,11|9,4,8",,GRAND_SLAM,U21WS,134,Qualification,KATO Miyu (JPN),SAWETTABUT Suthasini (THA)
-World Tour China Open Chengdu 2014,2014-06-04,KATO Miyu,LI Ching Wan,3,0,"11,11,11|4,6,8",,GRAND_SLAM,U21WS,134,Qualification,KATO Miyu (JPN),LI Ching Wan (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,LI Isabelle Siyun,WONG Chung Wan,3,0,"11,11,11|5,6,4",,GRAND_SLAM,U21WS,134,Qualification,LI Isabelle Siyun (SGP),WONG Chung Wan (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,MATSUDAIRA Shiho,WONG Chung Wan,3,1,"11,5,11,11|4,11,9,7",,GRAND_SLAM,U21WS,134,Qualification,MATSUDAIRA Shiho (JPN),WONG Chung Wan (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,LI Isabelle Siyun,MATSUDAIRA Shiho,3,2,"4,11,7,11,11|11,7,11,9,1",,GRAND_SLAM,U21WS,134,Qualification,MATSUDAIRA Shiho (JPN),LI Isabelle Siyun (SGP)
-World Tour China Open Chengdu 2014,2014-06-04,LIU Qi,TSUI Pao-Wen,3,2,"15,4,11,13,11|13,11,13,11,5",,GRAND_SLAM,U21WS,134,Qualification,TSUI Pao-Wen (TPE),LIU Qi (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,LIU Qi,HSING Ariel,3,2,"11,17,9,11,11|8,19,11,5,8",,GRAND_SLAM,U21WS,134,Qualification,HSING Ariel (USA),LIU Qi (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,TSUI Pao-Wen,HSING Ariel,3,1,"15,11,7,11|13,6,11,6",,GRAND_SLAM,U21WS,134,Qualification,HSING Ariel (USA),TSUI Pao-Wen (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,HUANG Hsin,MAK Tze Wing,3,0,"11,11,11|4,8,5",,GRAND_SLAM,U21WS,134,Qualification,HUANG Hsin (TPE),MAK Tze Wing (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,MAEDA Miyu,MAK Tze Wing,3,0,"11,11,11|7,5,3",,GRAND_SLAM,U21WS,134,Qualification,MAEDA Miyu (JPN),MAK Tze Wing (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,MAEDA Miyu,HUANG Hsin,3,0,"11,11,11|5,4,8",,GRAND_SLAM,U21WS,134,Qualification,MAEDA Miyu (JPN),HUANG Hsin (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,KATO Kyoka,SOO Wai Yam,3,0,"11,11,11|9,9,7",,GRAND_SLAM,U21WS,134,Qualification,SOO Wai Yam (HKG),KATO Kyoka (JPN)
-World Tour China Open Chengdu 2014,2014-06-04,KATO Kyoka,CHENG Hsien-Tzu,3,2,"6,7,11,11,11|11,11,6,3,6",,GRAND_SLAM,U21WS,134,Qualification,CHENG Hsien-Tzu (TPE),KATO Kyoka (JPN)
-World Tour China Open Chengdu 2014,2014-06-04,CHENG Hsien-Tzu,SOO Wai Yam,3,0,"11,11,11|3,9,7",,GRAND_SLAM,U21WS,134,Qualification,CHENG Hsien-Tzu (TPE),SOO Wai Yam (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,LEE Dasom,WANG Yi-Ju,3,2,"13,7,6,11,11|11,11,11,8,8",,GRAND_SLAM,U21WS,134,Qualification,LEE Dasom (KOR),WANG Yi-Ju (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,ZHU Chengzhu,MORI Sakura,3,1,"12,14,11,11|14,12,9,5",,GRAND_SLAM,U21WS,134,Qualification,MORI Sakura (JPN),ZHU Chengzhu (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,MORI Sakura,WANG Yi-Ju,3,1,"16,6,11,11|14,11,6,6",,GRAND_SLAM,U21WS,134,Qualification,MORI Sakura (JPN),WANG Yi-Ju (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,LEE Dasom,ZHU Chengzhu,3,0,"11,11,11|8,3,9",,GRAND_SLAM,U21WS,134,Qualification,LEE Dasom (KOR),ZHU Chengzhu (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,LEE Dasom,MORI Sakura,3,0,"11,11,11|3,3,4",,GRAND_SLAM,U21WS,134,Qualification,MORI Sakura (JPN),LEE Dasom (KOR)
-World Tour China Open Chengdu 2014,2014-06-04,ZHU Chengzhu,WANG Yi-Ju,3,2,"5,11,8,11,12|11,6,11,9,10",,GRAND_SLAM,U21WS,134,Qualification,WANG Yi-Ju (TPE),ZHU Chengzhu (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,XU Xin,FENG Xiaoquan,4,0,"11,11,11,11|8,4,7,4",R32,GRAND_SLAM,MS,134,Main Draw,XU Xin (CHN),FENG Xiaoquan (AUT)
-World Tour China Open Chengdu 2014,2014-06-04,STEGER Bastian,SUN Chia-Hung,4,0,"11,11,11,12|6,9,8,10",R32,GRAND_SLAM,MS,134,Main Draw,SUN Chia-Hung (TPE),STEGER Bastian (GER)
-World Tour China Open Chengdu 2014,2014-06-04,KISHIKAWA Seiya,LIAO Cheng-Ting,4,3,"7,12,11,7,5,11,11|11,10,3,11,11,3,5",R32,GRAND_SLAM,MS,134,Main Draw,KISHIKAWA Seiya (JPN),LIAO Cheng-Ting (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,GAO Ning,KIM Donghyun,4,2,"11,8,11,7,11,11|7,11,2,11,9,7",R32,GRAND_SLAM,MS,134,Main Draw,KIM Donghyun (KOR),GAO Ning (SGP)
-World Tour China Open Chengdu 2014,2014-06-04,YAN An,MORIZONO Masataka,4,1,"9,11,11,11,11|11,9,7,9,8",R32,GRAND_SLAM,MS,134,Main Draw,YAN An (CHN),MORIZONO Masataka (JPN)
-World Tour China Open Chengdu 2014,2014-06-04,TANG Peng,CHEN Feng,4,3,"6,3,11,11,9,11,11|11,11,9,6,11,3,7",R32,GRAND_SLAM,MS,134,Main Draw,CHEN Feng (SGP),TANG Peng (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,JEONG Sangeun,MATSUDAIRA Kenta,4,0,"11,11,13,11|9,6,11,3",R32,GRAND_SLAM,MS,134,Main Draw,MATSUDAIRA Kenta (JPN),JEONG Sangeun (KOR)
-World Tour China Open Chengdu 2014,2014-06-04,ZHANG Jike,LI Hu,4,0,"11,11,11,11|4,3,5,9",R32,GRAND_SLAM,MS,134,Main Draw,LI Hu (SGP),ZHANG Jike (CHN)
-World Tour China Open Chengdu 2014,2014-06-04,FAN Zhendong,CHIANG Hung-Chieh,4,0,"11,12,12,11|5,10,10,4",R32,GRAND_SLAM,MS,134,Main Draw,FAN Zhendong (CHN),CHIANG Hung-Chieh (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,YOSHIDA Kaii,CHO Eonrae,4,3,"3,11,9,11,7,11,11|11,6,11,8,11,6,7",R32,GRAND_SLAM,MS,134,Main Draw,YOSHIDA Kaii (JPN),CHO Eonrae (KOR)
-World Tour China Open Chengdu 2014,2014-06-04,JIANG Tianyi,WU Zhikang,4,2,"2,11,4,11,11,11|11,5,11,9,8,5",R32,GRAND_SLAM,MS,134,Main Draw,JIANG Tianyi (HKG),WU Zhikang (SGP)
-World Tour China Open Chengdu 2014,2014-06-04,WANG Hao,HUANG Sheng-Sheng,4,0,"11,11,11,11|7,5,5,9",R32,GRAND_SLAM,MS,134,Main Draw,HUANG Sheng-Sheng (TPE),WANG Hao (CHN)
-World Tour China Open Chengdu 2014,2014-06-04,CHUANG Chih-Yuan,SAKAI Asuka,4,2,"14,8,11,11,13,12|16,11,3,6,11,10",R32,GRAND_SLAM,MS,134,Main Draw,CHUANG Chih-Yuan (TPE),SAKAI Asuka (JPN)
-World Tour China Open Chengdu 2014,2014-06-04,NIWA Koki,MENGEL Steffen,4,1,"9,11,11,11,11|11,3,9,7,9",R32,GRAND_SLAM,MS,134,Main Draw,MENGEL Steffen (GER),NIWA Koki (JPN)
-World Tour China Open Chengdu 2014,2014-06-04,MURAMATSU Yuto,CHEN Chien-An,4,1,"11,11,11,5,11|5,9,8,11,6",R32,GRAND_SLAM,MS,134,Main Draw,CHEN Chien-An (TPE),MURAMATSU Yuto (JPN)
-World Tour China Open Chengdu 2014,2014-06-04,MA Long,WEN Wei-Chieh,4,1,"11,11,11,11,12|13,4,8,6,10",R32,GRAND_SLAM,MS,134,Main Draw,WEN Wei-Chieh (TPE),MA Long (CHN)
-World Tour China Open Chengdu 2014,2014-06-04,XU Xin,STEGER Bastian,4,0,"11,11,11,11|5,7,4,7",R16,GRAND_SLAM,MS,134,Main Draw,XU Xin (CHN),STEGER Bastian (GER)
-World Tour China Open Chengdu 2014,2014-06-04,GAO Ning,KISHIKAWA Seiya,4,0,"11,11,14,11|4,8,12,9",R16,GRAND_SLAM,MS,134,Main Draw,KISHIKAWA Seiya (JPN),GAO Ning (SGP)
-World Tour China Open Chengdu 2014,2014-06-04,TANG Peng,YAN An,4,3,"10,12,7,12,9,11,11|12,10,11,10,11,9,4",R16,GRAND_SLAM,MS,134,Main Draw,YAN An (CHN),TANG Peng (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,ZHANG Jike,JEONG Sangeun,4,0,"11,11,11,11|9,8,2,9",R16,GRAND_SLAM,MS,134,Main Draw,JEONG Sangeun (KOR),ZHANG Jike (CHN)
-World Tour China Open Chengdu 2014,2014-06-04,FAN Zhendong,YOSHIDA Kaii,4,0,"11,11,11,13|7,8,7,11",R16,GRAND_SLAM,MS,134,Main Draw,FAN Zhendong (CHN),YOSHIDA Kaii (JPN)
-World Tour China Open Chengdu 2014,2014-06-04,WANG Hao,JIANG Tianyi,4,1,"11,3,11,11,11|7,11,6,9,5",R16,GRAND_SLAM,MS,134,Main Draw,JIANG Tianyi (HKG),WANG Hao (CHN)
-World Tour China Open Chengdu 2014,2014-06-04,CHUANG Chih-Yuan,NIWA Koki,4,0,"11,18,11,11|5,16,8,4",R16,GRAND_SLAM,MS,134,Main Draw,CHUANG Chih-Yuan (TPE),NIWA Koki (JPN)
-World Tour China Open Chengdu 2014,2014-06-04,MA Long,MURAMATSU Yuto,4,0,"11,11,11,11|7,8,5,7",R16,GRAND_SLAM,MS,134,Main Draw,MURAMATSU Yuto (JPN),MA Long (CHN)
-World Tour China Open Chengdu 2014,2014-06-04,XU Xin,GAO Ning,4,3,"11,11,9,8,10,11,11|7,7,11,11,12,9,6",QF,GRAND_SLAM,MS,134,Main Draw,XU Xin (CHN),GAO Ning (SGP)
-World Tour China Open Chengdu 2014,2014-06-04,ZHANG Jike,TANG Peng,4,1,"11,12,11,9,11|7,10,9,11,7",QF,GRAND_SLAM,MS,134,Main Draw,TANG Peng (HKG),ZHANG Jike (CHN)
-World Tour China Open Chengdu 2014,2014-06-04,FAN Zhendong,WANG Hao,4,1,"11,11,11,11,12|7,13,6,8,10",QF,GRAND_SLAM,MS,134,Main Draw,FAN Zhendong (CHN),WANG Hao (CHN)
-World Tour China Open Chengdu 2014,2014-06-04,MA Long,CHUANG Chih-Yuan,4,1,"11,11,7,11,11|6,2,11,8,6",QF,GRAND_SLAM,MS,134,Main Draw,CHUANG Chih-Yuan (TPE),MA Long (CHN)
-World Tour China Open Chengdu 2014,2014-06-04,XU Xin,ZHANG Jike,4,2,"7,11,11,8,11,14|11,7,9,11,7,12",SF,GRAND_SLAM,MS,134,Main Draw,XU Xin (CHN),ZHANG Jike (CHN)
-World Tour China Open Chengdu 2014,2014-06-04,MA Long,FAN Zhendong,4,3,"11,9,11,7,11,9,11|9,11,6,11,7,11,8",SF,GRAND_SLAM,MS,134,Main Draw,FAN Zhendong (CHN),MA Long (CHN)
-World Tour China Open Chengdu 2014,2014-06-04,MA Long,XU Xin,4,1,"11,11,8,11,11|7,9,11,7,4",F,GRAND_SLAM,MS,134,Main Draw,XU Xin (CHN),MA Long (CHN)
-World Tour China Open Chengdu 2014,2014-06-04,LIU Shiwen,LIN Ye,4,1,"11,12,9,11,11|4,10,11,7,6",R32,GRAND_SLAM,WS,134,Main Draw,LIU Shiwen (CHN),LIN Ye (CAN)
-World Tour China Open Chengdu 2014,2014-06-04,JEON Jihee,LI Ching Wan,4,1,"11,9,11,11,11|4,11,8,8,8",R32,GRAND_SLAM,WS,134,Main Draw,LI Ching Wan (HKG),JEON Jihee (KOR)
-World Tour China Open Chengdu 2014,2014-06-04,CHENG I-Ching,MATSUDAIRA Shiho,4,0,"11,11,11,11|7,8,6,8",R32,GRAND_SLAM,WS,134,Main Draw,CHENG I-Ching (TPE),MATSUDAIRA Shiho (JPN)
-World Tour China Open Chengdu 2014,2014-06-04,ZHU Yuling,NONAKA Yuki,4,2,"13,6,11,11,10,11|11,11,9,6,12,5",R32,GRAND_SLAM,WS,134,Main Draw,NONAKA Yuki (JPN),ZHU Yuling (MAC)
-World Tour China Open Chengdu 2014,2014-06-04,ISHIKAWA Kasumi,ZHOU Yihan,4,2,"11,11,11,6,12,12|5,9,9,11,14,10",R32,GRAND_SLAM,WS,134,Main Draw,ISHIKAWA Kasumi (JPN),ZHOU Yihan (SGP)
-World Tour China Open Chengdu 2014,2014-06-04,HIRANO Sayaka,PARK Youngsook,4,0,"11,11,11,12|9,6,6,10",R32,GRAND_SLAM,WS,134,Main Draw,PARK Youngsook (KOR),HIRANO Sayaka (JPN)
-World Tour China Open Chengdu 2014,2014-06-04,DOO Hoi Kem,SOLJA Amelie,4,3,"3,4,11,11,12,11,11|11,11,2,9,14,6,8",R32,GRAND_SLAM,WS,134,Main Draw,DOO Hoi Kem (HKG),SOLJA Amelie (AUT)
-World Tour China Open Chengdu 2014,2014-06-04,LI Xiaoxia,CHENG Hsien-Tzu,4,0,"12,13,11,11|10,11,5,2",R32,GRAND_SLAM,WS,134,Main Draw,CHENG Hsien-Tzu (TPE),LI Xiaoxia (CHN)
-World Tour China Open Chengdu 2014,2014-06-04,CHEN Meng,HIRANO Miu,4,0,"11,11,11,11|5,9,8,9",R32,GRAND_SLAM,WS,134,Main Draw,CHEN Meng (CHN),HIRANO Miu (JPN)
-World Tour China Open Chengdu 2014,2014-06-04,LEE Ho Ching,WU Jiaduo,4,3,"11,11,7,11,11,7,11|7,8,11,7,13,11,3",R32,GRAND_SLAM,WS,134,Main Draw,WU Jiaduo (GER),LEE Ho Ching (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,HAN Ying,NG Wing Nam,4,0,"11,11,11,11|4,6,5,6",R32,GRAND_SLAM,WS,134,Main Draw,HAN Ying (GER),NG Wing Nam (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,WU Yang,LI Jie,4,2,"7,7,11,11,13,11|11,11,7,6,11,7",R32,GRAND_SLAM,WS,134,Main Draw,LI Jie (NED),WU Yang (CHN)
-World Tour China Open Chengdu 2014,2014-06-04,SUH Hyo Won,CHEN Szu-Yu,4,0,"11,11,11,11|7,9,3,9",R32,GRAND_SLAM,WS,134,Main Draw,SUH Hyo Won (KOR),CHEN Szu-Yu (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,YU Mengyu,LEE I-Chen,4,2,"11,11,11,6,9,12|9,9,8,11,11,10",R32,GRAND_SLAM,WS,134,Main Draw,LEE I-Chen (TPE),YU Mengyu (SGP)
-World Tour China Open Chengdu 2014,2014-06-04,YANG Ha Eun,ITO Mima,4,1,"11,8,11,11,11|9,11,4,7,4",R32,GRAND_SLAM,WS,134,Main Draw,YANG Ha Eun (KOR),ITO Mima (JPN)
-World Tour China Open Chengdu 2014,2014-06-04,DING Ning,KATO Kyoka,4,0,"11,11,11,11|7,5,4,1",R32,GRAND_SLAM,WS,134,Main Draw,KATO Kyoka (JPN),DING Ning (CHN)
-World Tour China Open Chengdu 2014,2014-06-04,LIU Shiwen,JEON Jihee,4,0,"11,11,11,11|4,8,9,3",R16,GRAND_SLAM,WS,134,Main Draw,LIU Shiwen (CHN),JEON Jihee (KOR)
-World Tour China Open Chengdu 2014,2014-06-04,ZHU Yuling,CHENG I-Ching,4,0,"11,11,11,11|8,7,3,4",R16,GRAND_SLAM,WS,134,Main Draw,CHENG I-Ching (TPE),ZHU Yuling (MAC)
-World Tour China Open Chengdu 2014,2014-06-04,ISHIKAWA Kasumi,HIRANO Sayaka,4,0,"11,11,11,11|4,6,9,2",R16,GRAND_SLAM,WS,134,Main Draw,ISHIKAWA Kasumi (JPN),HIRANO Sayaka (JPN)
-World Tour China Open Chengdu 2014,2014-06-04,LI Xiaoxia,DOO Hoi Kem,4,2,"11,11,8,16,11,11|6,9,11,18,6,6",R16,GRAND_SLAM,WS,134,Main Draw,DOO Hoi Kem (HKG),LI Xiaoxia (CHN)
-World Tour China Open Chengdu 2014,2014-06-04,CHEN Meng,LEE Ho Ching,4,3,"5,11,11,8,8,11,12|11,5,6,11,11,6,10",R16,GRAND_SLAM,WS,134,Main Draw,CHEN Meng (CHN),LEE Ho Ching (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,WU Yang,HAN Ying,4,0,"11,11,12,11|8,7,10,4",R16,GRAND_SLAM,WS,134,Main Draw,HAN Ying (GER),WU Yang (CHN)
-World Tour China Open Chengdu 2014,2014-06-04,YU Mengyu,SUH Hyo Won,4,2,"11,4,11,11,2,11|9,11,9,8,11,4",R16,GRAND_SLAM,WS,134,Main Draw,SUH Hyo Won (KOR),YU Mengyu (SGP)
-World Tour China Open Chengdu 2014,2014-06-04,DING Ning,YANG Ha Eun,4,0,"11,11,11,11|6,4,7,7",R16,GRAND_SLAM,WS,134,Main Draw,YANG Ha Eun (KOR),DING Ning (CHN)
-World Tour China Open Chengdu 2014,2014-06-04,LIU Shiwen,ZHU Yuling,4,2,"11,11,11,5,7,11|7,7,6,11,11,8",QF,GRAND_SLAM,WS,134,Main Draw,LIU Shiwen (CHN),ZHU Yuling (MAC)
-World Tour China Open Chengdu 2014,2014-06-04,LI Xiaoxia,ISHIKAWA Kasumi,4,2,"9,6,11,11,13,11|11,11,3,3,11,2",QF,GRAND_SLAM,WS,134,Main Draw,ISHIKAWA Kasumi (JPN),LI Xiaoxia (CHN)
-World Tour China Open Chengdu 2014,2014-06-04,WU Yang,CHEN Meng,4,0,"11,11,11,11|5,9,8,9",QF,GRAND_SLAM,WS,134,Main Draw,CHEN Meng (CHN),WU Yang (CHN)
-World Tour China Open Chengdu 2014,2014-06-04,DING Ning,YU Mengyu,4,1,"11,11,11,8,11|8,9,6,11,7",QF,GRAND_SLAM,WS,134,Main Draw,YU Mengyu (SGP),DING Ning (CHN)
-World Tour China Open Chengdu 2014,2014-06-04,LIU Shiwen,LI Xiaoxia,4,1,"13,11,11,9,13|11,9,6,11,11",SF,GRAND_SLAM,WS,134,Main Draw,LIU Shiwen (CHN),LI Xiaoxia (CHN)
-World Tour China Open Chengdu 2014,2014-06-04,DING Ning,WU Yang,4,2,"11,7,14,10,14,11|6,11,12,12,12,9",SF,GRAND_SLAM,WS,134,Main Draw,WU Yang (CHN),DING Ning (CHN)
-World Tour China Open Chengdu 2014,2014-06-04,DING Ning,LIU Shiwen,4,3,"11,5,11,11,4,2,11|6,11,8,7,11,11,2",F,GRAND_SLAM,WS,134,Main Draw,LIU Shiwen (CHN),DING Ning (CHN)
-World Tour China Open Chengdu 2014,2014-06-04,WANG Yang,LU Po-Hsien,3,0,"11,11,11|7,2,7",R16,GRAND_SLAM,U21MS,134,Main Draw,WANG Yang (SVK),LU Po-Hsien (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,SAKAI Asuka,PARK Chan-Hyeok,3,1,"11,9,11,11|4,11,4,6",R16,GRAND_SLAM,U21MS,134,Main Draw,PARK Chan-Hyeok (KOR),SAKAI Asuka (JPN)
-World Tour China Open Chengdu 2014,2014-06-04,MACHI Asuka,LIAO Cheng-Ting,3,1,"11,11,7,11|6,4,11,9",R16,GRAND_SLAM,U21MS,134,Main Draw,MACHI Asuka (JPN),LIAO Cheng-Ting (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,KIM Donghyun,SUN Chia-Hung,3,0,"11,11,11|5,5,7",R16,GRAND_SLAM,U21MS,134,Main Draw,SUN Chia-Hung (TPE),KIM Donghyun (KOR)
-World Tour China Open Chengdu 2014,2014-06-04,KANG Dongsoo,HO Kwan Kit,3,2,"9,11,11,11,11|11,13,7,5,7",R16,GRAND_SLAM,U21MS,134,Main Draw,KANG Dongsoo (KOR),HO Kwan Kit (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,HUNG Tzu-Hsiang,HUNG Ka Tak,3,0,"11,11,11|8,8,7",R16,GRAND_SLAM,U21MS,134,Main Draw,HUNG Ka Tak (HKG),HUNG Tzu-Hsiang (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,WU Zhikang,KIM Minhyeok,3,1,"11,11,11,11|5,9,13,7",R16,GRAND_SLAM,U21MS,134,Main Draw,WU Zhikang (SGP),KIM Minhyeok (KOR)
-World Tour China Open Chengdu 2014,2014-06-04,CHEN Feng,LEE Chun-Lin,3,1,"10,11,12,11|12,8,10,6",R16,GRAND_SLAM,U21MS,134,Main Draw,LEE Chun-Lin (TPE),CHEN Feng (SGP)
-World Tour China Open Chengdu 2014,2014-06-04,SAKAI Asuka,WANG Yang,4,3,"11,11,11,2,11,10,11|13,7,4,11,4,12,1",QF,GRAND_SLAM,U21MS,134,Main Draw,WANG Yang (SVK),SAKAI Asuka (JPN)
-World Tour China Open Chengdu 2014,2014-06-04,MACHI Asuka,KIM Donghyun,4,2,"15,4,9,11,12,14|13,11,11,6,10,12",QF,GRAND_SLAM,U21MS,134,Main Draw,MACHI Asuka (JPN),KIM Donghyun (KOR)
-World Tour China Open Chengdu 2014,2014-06-04,HUNG Tzu-Hsiang,KANG Dongsoo,4,0,"11,11,11,11|8,7,7,2",QF,GRAND_SLAM,U21MS,134,Main Draw,KANG Dongsoo (KOR),HUNG Tzu-Hsiang (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,CHEN Feng,WU Zhikang,4,3,"11,6,11,7,11,8,11|8,11,4,11,5,11,7",QF,GRAND_SLAM,U21MS,134,Main Draw,WU Zhikang (SGP),CHEN Feng (SGP)
-World Tour China Open Chengdu 2014,2014-06-04,MACHI Asuka,SAKAI Asuka,4,0,"11,11,11,11|8,9,8,7",SF,GRAND_SLAM,U21MS,134,Main Draw,SAKAI Asuka (JPN),MACHI Asuka (JPN)
-World Tour China Open Chengdu 2014,2014-06-04,CHEN Feng,HUNG Tzu-Hsiang,4,1,"11,11,11,8,11|7,7,3,11,3",SF,GRAND_SLAM,U21MS,134,Main Draw,HUNG Tzu-Hsiang (TPE),CHEN Feng (SGP)
-World Tour China Open Chengdu 2014,2014-06-04,MACHI Asuka,CHEN Feng,4,3,"6,11,9,11,2,11,11|11,6,11,4,11,4,7",F,GRAND_SLAM,U21MS,134,Main Draw,MACHI Asuka (JPN),CHEN Feng (SGP)
-World Tour China Open Chengdu 2014,2014-06-04,MATSUDAIRA Shiho,YANG Ha Eun,3,2,"3,11,11,2,14|11,9,8,11,12",R16,GRAND_SLAM,U21WS,134,Main Draw,YANG Ha Eun (KOR),MATSUDAIRA Shiho (JPN)
-World Tour China Open Chengdu 2014,2014-06-04,ITO Mima,LIU Qi,3,1,"11,9,11,11|8,11,8,4",R16,GRAND_SLAM,U21WS,134,Main Draw,LIU Qi (HKG),ITO Mima (JPN)
-World Tour China Open Chengdu 2014,2014-06-04,ZHOU Yihan,LEE Dasom,3,1,"6,11,11,11|11,4,5,6",R16,GRAND_SLAM,U21WS,134,Main Draw,ZHOU Yihan (SGP),LEE Dasom (KOR)
-World Tour China Open Chengdu 2014,2014-06-04,KATO Miyu,LIN Ye,3,2,"6,14,11,5,11|11,12,9,11,9",R16,GRAND_SLAM,U21WS,134,Main Draw,KATO Miyu (JPN),LIN Ye (CAN)
-World Tour China Open Chengdu 2014,2014-06-04,LI Isabelle Siyun,HAMAMOTO Yui,3,2,"11,12,11,10,11|13,10,7,12,7",R16,GRAND_SLAM,U21WS,134,Main Draw,HAMAMOTO Yui (AUT),LI Isabelle Siyun (SGP)
-World Tour China Open Chengdu 2014,2014-06-04,YOO Eunchong,KATO Kyoka,3,2,"16,5,3,11,12|14,11,11,5,10",R16,GRAND_SLAM,U21WS,134,Main Draw,KATO Kyoka (JPN),YOO Eunchong (KOR)
-World Tour China Open Chengdu 2014,2014-06-04,DOO Hoi Kem,TSUI Pao-Wen,3,2,"5,11,9,11,13|11,3,11,7,11",R16,GRAND_SLAM,U21WS,134,Main Draw,TSUI Pao-Wen (TPE),DOO Hoi Kem (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,ITO Mima,MATSUDAIRA Shiho,4,0,"11,11,11,11|6,7,8,4",QF,GRAND_SLAM,U21WS,134,Main Draw,MATSUDAIRA Shiho (JPN),ITO Mima (JPN)
-World Tour China Open Chengdu 2014,2014-06-04,ZHOU Yihan,KATO Miyu,4,2,"11,12,11,8,11,11|8,10,13,11,7,9",QF,GRAND_SLAM,U21WS,134,Main Draw,ZHOU Yihan (SGP),KATO Miyu (JPN)
-World Tour China Open Chengdu 2014,2014-06-04,YOO Eunchong,LI Isabelle Siyun,4,1,"11,11,9,15,12|8,6,11,13,10",QF,GRAND_SLAM,U21WS,134,Main Draw,LI Isabelle Siyun (SGP),YOO Eunchong (KOR)
-World Tour China Open Chengdu 2014,2014-06-04,CHEN Szu-Yu,DOO Hoi Kem,4,1,"7,11,13,11,11|11,9,11,6,7",QF,GRAND_SLAM,U21WS,134,Main Draw,CHEN Szu-Yu (TPE),DOO Hoi Kem (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,ITO Mima,ZHOU Yihan,4,2,"7,12,5,11,11,11|11,10,11,8,7,9",SF,GRAND_SLAM,U21WS,134,Main Draw,ITO Mima (JPN),ZHOU Yihan (SGP)
-World Tour China Open Chengdu 2014,2014-06-04,CHEN Szu-Yu,YOO Eunchong,4,1,"11,11,5,11,11|9,8,11,6,9",SF,GRAND_SLAM,U21WS,134,Main Draw,YOO Eunchong (KOR),CHEN Szu-Yu (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,CHEN Szu-Yu,ITO Mima,4,1,"7,11,11,11,11|11,8,6,7,7",F,GRAND_SLAM,U21WS,134,Main Draw,ITO Mima (JPN),CHEN Szu-Yu (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,LU Po-Hsien,MAK King Ho,3,1,"8,11,11,11|11,9,4,7",QR8,GRAND_SLAM,U21MS,134,Qualification,MAK King Ho (HKG),LU Po-Hsien (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,LEE Chun-Lin,POUNGSRI Max,3,0,"11,15,11|6,13,8",QR8,GRAND_SLAM,U21MS,134,Qualification,POUNGSRI Max (THA),LEE Chun-Lin (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,CHENG Hsien-Tzu,ZHU Chengzhu,3,2,"9,7,11,11,11|11,11,9,5,6",QR8,GRAND_SLAM,U21WS,134,Qualification,CHENG Hsien-Tzu (TPE),ZHU Chengzhu (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,TSUI Pao-Wen,SAWETTABUT Suthasini,3,2,"11,11,10,7,11|7,7,12,11,9",QR8,GRAND_SLAM,U21WS,134,Qualification,SAWETTABUT Suthasini (THA),TSUI Pao-Wen (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,MATSUDAIRA Shiho,CHENG Hsien-Tzu,3,1,"11,11,11,11|8,13,7,4",QR4,GRAND_SLAM,U21WS,134,Qualification,MATSUDAIRA Shiho (JPN),CHENG Hsien-Tzu (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,TSUI Pao-Wen,HUANG Hsin,3,1,"5,13,11,11|11,11,5,7",QR4,GRAND_SLAM,U21WS,134,Qualification,TSUI Pao-Wen (TPE),HUANG Hsin (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,WANG Hao/YAN An,KIM Donghyun/LEE Sang Su,3,0,"14,11,11|12,5,7",R16,GRAND_SLAM,MD,134,Main Draw,WANG Hao (CHN) / YAN An (CHN),KIM Donghyun (KOR) / LEE Sang Su (KOR)
-World Tour China Open Chengdu 2014,2014-06-04,XU Xin/ZHANG Jike,CHO Eonrae/SEO Hyundeok,3,0,"11,11,11|9,7,9",R16,GRAND_SLAM,MD,134,Main Draw,XU Xin (CHN) / ZHANG Jike (CHN),CHO Eonrae (KOR) / SEO Hyundeok (KOR)
-World Tour China Open Chengdu 2014,2014-06-04,WANG Hao/YAN An,GAO Ning/LI Hu,3,1,"12,6,11,11|10,11,8,2",QF,GRAND_SLAM,MD,134,Main Draw,WANG Hao (CHN) / YAN An (CHN),GAO Ning (SGP) / LI Hu (SGP)
-World Tour China Open Chengdu 2014,2014-06-04,XU Xin/ZHANG Jike,MATSUDAIRA Kenta/NIWA Koki,3,0,"11,12,11|5,10,4",SF,GRAND_SLAM,MD,134,Main Draw,XU Xin (CHN) / ZHANG Jike (CHN),MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN)
-World Tour China Open Chengdu 2014,2014-06-04,FAN Zhendong/MA Long,XU Xin/ZHANG Jike,3,2,"6,11,5,11,14|11,4,11,4,12",F,GRAND_SLAM,MD,134,Main Draw,FAN Zhendong (CHN) / MA Long (CHN),XU Xin (CHN) / ZHANG Jike (CHN)
-World Tour China Open Chengdu 2014,2014-06-04,DING Ning/LIU Shiwen,KOMWONG Nanthana/SAWETTABUT Suthasini,3,0,"11,11,12|9,1,10",R16,GRAND_SLAM,WD,134,Main Draw,DING Ning (CHN) / LIU Shiwen (CHN),KOMWONG Nanthana (THA) / SAWETTABUT Suthasini (THA)
-World Tour China Open Chengdu 2014,2014-06-04,DING Ning/LIU Shiwen,MAEDA Miyu/MORI Sakura,3,0,"11,11,12|8,4,10",QF,GRAND_SLAM,WD,134,Main Draw,DING Ning (CHN) / LIU Shiwen (CHN),MAEDA Miyu (JPN) / MORI Sakura (JPN)
-World Tour China Open Chengdu 2014,2014-06-04,DING Ning/LIU Shiwen,FENG Tianwei/YU Mengyu,3,0,"11,11,11|5,2,1",SF,GRAND_SLAM,WD,134,Main Draw,DING Ning (CHN) / LIU Shiwen (CHN),FENG Tianwei (SGP) / YU Mengyu (SGP)
-World Tour China Open Chengdu 2014,2014-06-04,DING Ning/LIU Shiwen,CHENG I-Ching/HUANG Yi-Hua,3,0,"11,11,11|5,4,9",F,GRAND_SLAM,WD,134,Main Draw,DING Ning (CHN) / LIU Shiwen (CHN),CHENG I-Ching (TPE) / HUANG Yi-Hua (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,HAN Ying/WU Jiaduo,HIRANO Sayaka/ISHIKAWA Kasumi,3,2,"11,11,5,4,11|7,7,11,11,4",R16,GRAND_SLAM,WD,134,Main Draw,HAN Ying (GER) / WU Jiaduo (GER),HIRANO Sayaka (JPN) / ISHIKAWA Kasumi (JPN)
-World Tour China Open Chengdu 2014,2014-06-04,CHENG I-Ching/HUANG Yi-Hua,HAN Ying/WU Jiaduo,3,1,"12,11,11,11|14,9,4,8",SF,GRAND_SLAM,WD,134,Main Draw,CHENG I-Ching (TPE) / HUANG Yi-Hua (TPE),HAN Ying (GER) / WU Jiaduo (GER)
-World Tour China Open Chengdu 2014,2014-06-04,CHEN Chien-An/CHUANG Chih-Yuan,JIANG Tianyi/LEUNG Chu Yan,3,2,"11,10,12,7,11|5,12,10,11,5",R16,GRAND_SLAM,MD,134,Main Draw,CHEN Chien-An (TPE) / CHUANG Chih-Yuan (TPE),JIANG Tianyi (HKG) / LEUNG Chu Yan (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,XU Xin/ZHANG Jike,TANG Peng/WONG Chun Ting,3,0,"11,11,11|4,4,9",QF,GRAND_SLAM,MD,134,Main Draw,XU Xin (CHN) / ZHANG Jike (CHN),TANG Peng (HKG) / WONG Chun Ting (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,LEE Chun-Lin/WU Chih-Chi,HO Kwan Kit/HUNG Ka Tak,3,0,"11,13,15|2,11,13",QR16,GRAND_SLAM,MD,134,Qualification,LEE Chun-Lin (TPE) / WU Chih-Chi (TPE),HO Kwan Kit (HKG) / HUNG Ka Tak (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,LEE Ho Ching/NG Wing Nam,LEE Eunhee/LEE Yearam,3,2,"11,13,5,11,11|8,15,11,4,7",R16,GRAND_SLAM,WD,134,Main Draw,LEE Ho Ching (HKG) / NG Wing Nam (HKG),LEE Eunhee (KOR) / LEE Yearam (KOR)
-World Tour China Open Chengdu 2014,2014-06-04,CHENG I-Ching/HUANG Yi-Hua,LEE Ho Ching/NG Wing Nam,3,1,"11,11,5,11|8,6,11,8",QF,GRAND_SLAM,WD,134,Main Draw,CHENG I-Ching (TPE) / HUANG Yi-Hua (TPE),LEE Ho Ching (HKG) / NG Wing Nam (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,FAN Zhendong/MA Long,MACHI Asuka/MORIZONO Masataka,3,0,"13,11,11|11,9,9",R16,GRAND_SLAM,MD,134,Main Draw,FAN Zhendong (CHN) / MA Long (CHN),MACHI Asuka (JPN) / MORIZONO Masataka (JPN)
-World Tour China Open Chengdu 2014,2014-06-04,MATSUDAIRA Kenta/NIWA Koki,LEE Chun-Lin/WU Chih-Chi,3,0,"11,11,13|8,7,11",R16,GRAND_SLAM,MD,134,Main Draw,MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN),LEE Chun-Lin (TPE) / WU Chih-Chi (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,MATSUDAIRA Kenta/NIWA Koki,CHEN Chien-An/CHUANG Chih-Yuan,3,1,"13,5,14,12|11,11,12,10",QF,GRAND_SLAM,MD,134,Main Draw,MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN),CHEN Chien-An (TPE) / CHUANG Chih-Yuan (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,JEONG Sangeun/PARK Chan-Hyeok,MURAMATSU Yuto/SAKAI Asuka,3,0,"11,11,12|9,6,10",QR16,GRAND_SLAM,MD,134,Qualification,JEONG Sangeun (KOR) / PARK Chan-Hyeok (KOR),MURAMATSU Yuto (JPN) / SAKAI Asuka (JPN)
-World Tour China Open Chengdu 2014,2014-06-04,MAEDA Miyu/MORI Sakura,CHO Hala/PARK Youngsook,3,1,"11,11,8,11|8,8,11,9",R16,GRAND_SLAM,WD,134,Main Draw,MAEDA Miyu (JPN) / MORI Sakura (JPN),CHO Hala (KOR) / PARK Youngsook (KOR)
-World Tour China Open Chengdu 2014,2014-06-04,FAN Zhendong/MA Long,JEONG Sangeun/PARK Chan-Hyeok,3,2,"9,7,11,11,11|11,11,4,2,5",QF,GRAND_SLAM,MD,134,Main Draw,FAN Zhendong (CHN) / MA Long (CHN),JEONG Sangeun (KOR) / PARK Chan-Hyeok (KOR)
-World Tour China Open Chengdu 2014,2014-06-04,LIN Chia-Hui/LIU Hsing-Yin,JEON Jihee/YANG Ha Eun,3,2,"8,11,11,7,11|11,9,3,11,5",R16,GRAND_SLAM,WD,134,Main Draw,LIN Chia-Hui (TPE) / LIU Hsing-Yin (TPE),JEON Jihee (KOR) / YANG Ha Eun (KOR)
-World Tour China Open Chengdu 2014,2014-06-04,FENG Tianwei/YU Mengyu,DOO Hoi Kem/SOO Wai Yam,3,1,"12,8,11,11|10,11,7,4",R16,GRAND_SLAM,WD,134,Main Draw,FENG Tianwei (SGP) / YU Mengyu (SGP),DOO Hoi Kem (HKG) / SOO Wai Yam (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,CHENG I-Ching/HUANG Yi-Hua,LIN Ye/ZHOU Yihan,3,2,"11,10,11,7,11|8,12,4,11,4",R16,GRAND_SLAM,WD,134,Main Draw,CHENG I-Ching (TPE) / HUANG Yi-Hua (TPE),LIN Ye (CAN) / ZHOU Yihan (SGP)
-World Tour China Open Chengdu 2014,2014-06-04,FENG Tianwei/YU Mengyu,CHEN Meng/ZHU Yuling,3,2,"7,13,11,9,11|11,11,9,11,9",QF,GRAND_SLAM,WD,134,Main Draw,FENG Tianwei (SGP) / YU Mengyu (SGP),CHEN Meng (CHN) / ZHU Yuling (MAC)
-World Tour China Open Chengdu 2014,2014-06-04,GAO Ning/LI Hu,FENG Xiaoquan/POUNGSRI Max,3,0,"11,11,11|8,6,6",R16,GRAND_SLAM,MD,134,Main Draw,GAO Ning (SGP) / LI Hu (SGP),FENG Xiaoquan (AUT) / POUNGSRI Max (THA)
-World Tour China Open Chengdu 2014,2014-06-04,FENG Xiaoquan/POUNGSRI Max,GREEN Wally/HOTZ Christian,3,0,"11,11,11|4,9,4",QR16,GRAND_SLAM,MD,134,Qualification,FENG Xiaoquan (AUT) / POUNGSRI Max (THA),GREEN Wally (USA) / HOTZ Christian (SUI)
-World Tour China Open Chengdu 2014,2014-06-04,KOMWONG Nanthana/SAWETTABUT Suthasini,LIU Qi/MAK Tze Wing,3,1,"11,7,12,11|3,11,10,7",QR16,GRAND_SLAM,WD,134,Qualification,KOMWONG Nanthana (THA) / SAWETTABUT Suthasini (THA),LIU Qi (HKG) / MAK Tze Wing (HKG)
-World Tour China Open Chengdu 2014,2014-06-04,JEONG Sangeun/PARK Chan-Hyeok,CHIANG Hung-Chieh/HUANG Sheng-Sheng,3,1,"7,12,11,11|11,10,5,4",R16,GRAND_SLAM,MD,134,Main Draw,JEONG Sangeun (KOR) / PARK Chan-Hyeok (KOR),CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,CHEN Meng/ZHU Yuling,CHENG Hsien-Tzu/CHEN Szu-Yu,3,0,"11,11,11|5,4,9",R16,GRAND_SLAM,WD,134,Main Draw,CHEN Meng (CHN) / ZHU Yuling (MAC),CHENG Hsien-Tzu (TPE) / CHEN Szu-Yu (TPE)
-World Tour China Open Chengdu 2014,2014-06-04,HAN Ying/WU Jiaduo,LIN Chia-Hui/LIU Hsing-Yin,3,0,"11,11,11|7,6,2",QF,GRAND_SLAM,WD,134,Main Draw,HAN Ying (GER) / WU Jiaduo (GER),LIN Chia-Hui (TPE) / LIU Hsing-Yin (TPE)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+World Tour China Open Chengdu 2014,2014-06-04,SUN Chia-Hung,AVI-TAL Omer,4,0,"11,11,11,11|6,6,7,7",,GRAND_SLAM,MS,134,Qualification,SUN Chia-Hung (TPE),AVI-TAL Omer (PAN),SUN Chia-Hung
+World Tour China Open Chengdu 2014,2014-06-04,WONG Chun Ting,AVI-TAL Omer,4,0,"11,11,11,11|4,6,1,1",,GRAND_SLAM,MS,134,Qualification,WONG Chun Ting (HKG),AVI-TAL Omer (PAN),WONG Chun Ting
+World Tour China Open Chengdu 2014,2014-06-04,SUN Chia-Hung,WONG Chun Ting,4,2,"3,11,11,11,4,11|11,9,4,3,11,8",,GRAND_SLAM,MS,134,Qualification,WONG Chun Ting (HKG),SUN Chia-Hung (TPE),SUN Chia-Hung
+World Tour China Open Chengdu 2014,2014-06-04,WEN Wei-Chieh,HUNG Ka Tak,4,3,"7,5,11,11,11,9,11|11,11,8,8,9,11,8",,GRAND_SLAM,MS,134,Qualification,HUNG Ka Tak (HKG),WEN Wei-Chieh (TPE),WEN Wei-Chieh
+World Tour China Open Chengdu 2014,2014-06-04,YOSHIDA Kaii,WEN Wei-Chieh,4,0,"11,11,11,11|6,6,9,5",,GRAND_SLAM,MS,134,Qualification,YOSHIDA Kaii (JPN),WEN Wei-Chieh (TPE),YOSHIDA Kaii
+World Tour China Open Chengdu 2014,2014-06-04,YOSHIDA Kaii,HUNG Ka Tak,4,0,"11,11,11,11|6,9,7,9",,GRAND_SLAM,MS,134,Qualification,YOSHIDA Kaii (JPN),HUNG Ka Tak (HKG),YOSHIDA Kaii
+World Tour China Open Chengdu 2014,2014-06-04,PARK Chan-Hyeok,LEE Chun-Lin,4,1,"8,11,14,21,11|11,8,12,19,7",,GRAND_SLAM,MS,134,Qualification,PARK Chan-Hyeok (KOR),LEE Chun-Lin (TPE),PARK Chan-Hyeok
+World Tour China Open Chengdu 2014,2014-06-04,MENGEL Steffen,LEE Chun-Lin,4,2,"8,11,7,11,11,11|11,8,11,9,9,5",,GRAND_SLAM,MS,134,Qualification,MENGEL Steffen (GER),LEE Chun-Lin (TPE),MENGEL Steffen
+World Tour China Open Chengdu 2014,2014-06-04,MENGEL Steffen,PARK Chan-Hyeok,4,3,"11,6,7,11,11,10,11|7,11,11,5,7,12,5",,GRAND_SLAM,MS,134,Qualification,MENGEL Steffen (GER),PARK Chan-Hyeok (KOR),MENGEL Steffen
+World Tour China Open Chengdu 2014,2014-06-04,LIAO Cheng-Ting,LI Hon Ming,4,1,"11,5,11,11,11|5,11,9,5,3",,GRAND_SLAM,MS,134,Qualification,LIAO Cheng-Ting (TPE),LI Hon Ming (HKG),LIAO Cheng-Ting
+World Tour China Open Chengdu 2014,2014-06-04,LEE Sang Su,LI Hon Ming,4,1,"11,11,6,11,11|7,8,11,5,5",,GRAND_SLAM,MS,134,Qualification,LEE Sang Su (KOR),LI Hon Ming (HKG),LEE Sang Su
+World Tour China Open Chengdu 2014,2014-06-04,LIAO Cheng-Ting,LEE Sang Su,4,3,"7,11,11,11,9,5,11|11,8,8,7,11,11,8",,GRAND_SLAM,MS,134,Qualification,LEE Sang Su (KOR),LIAO Cheng-Ting (TPE),LIAO Cheng-Ting
+World Tour China Open Chengdu 2014,2014-06-04,FENG Xiaoquan,LAI Yi-Yao,4,2,"9,11,7,11,11,11|11,8,11,3,9,4",,GRAND_SLAM,MS,134,Qualification,FENG Xiaoquan (AUT),LAI Yi-Yao (TPE),FENG Xiaoquan
+World Tour China Open Chengdu 2014,2014-06-04,JEONG Sangeun,LAI Yi-Yao,4,1,"11,4,11,11,11|8,11,6,6,4",,GRAND_SLAM,MS,134,Qualification,JEONG Sangeun (KOR),LAI Yi-Yao (TPE),JEONG Sangeun
+World Tour China Open Chengdu 2014,2014-06-04,JEONG Sangeun,FENG Xiaoquan,4,0,"11,11,11,11|9,5,6,6",,GRAND_SLAM,MS,134,Qualification,JEONG Sangeun (KOR),FENG Xiaoquan (AUT),JEONG Sangeun
+World Tour China Open Chengdu 2014,2014-06-04,KIM Minhyeok,PENG Wang-Wei,4,1,"9,11,14,11,11|11,5,12,4,9",,GRAND_SLAM,MS,134,Qualification,KIM Minhyeok (KOR),PENG Wang-Wei (TPE),KIM Minhyeok
+World Tour China Open Chengdu 2014,2014-06-04,LI Hu,PENG Wang-Wei,4,0,"16,11,11,11|14,5,5,9",,GRAND_SLAM,MS,134,Qualification,LI Hu (SGP),PENG Wang-Wei (TPE),LI Hu
+World Tour China Open Chengdu 2014,2014-06-04,LI Hu,KIM Minhyeok,4,2,"12,10,11,9,13,11|10,12,5,11,11,3",,GRAND_SLAM,MS,134,Qualification,LI Hu (SGP),KIM Minhyeok (KOR),LI Hu
+World Tour China Open Chengdu 2014,2014-06-04,SAKAI Asuka,LU Po-Hsien,4,0,"11,11,11,13|9,5,7,11",,GRAND_SLAM,MS,134,Qualification,SAKAI Asuka (JPN),LU Po-Hsien (TPE),SAKAI Asuka
+World Tour China Open Chengdu 2014,2014-06-04,YANG Zi,LU Po-Hsien,4,2,"4,11,9,11,11,11|11,3,11,7,3,9",,GRAND_SLAM,MS,134,Qualification,YANG Zi (SGP),LU Po-Hsien (TPE),YANG Zi
+World Tour China Open Chengdu 2014,2014-06-04,SAKAI Asuka,YANG Zi,4,1,"13,9,11,11,11|11,11,5,9,7",,GRAND_SLAM,MS,134,Qualification,YANG Zi (SGP),SAKAI Asuka (JPN),SAKAI Asuka
+World Tour China Open Chengdu 2014,2014-06-04,MACHI Asuka,MAK King Ho,4,0,"11,11,11,11|8,6,3,9",,GRAND_SLAM,MS,134,Qualification,MACHI Asuka (JPN),MAK King Ho (HKG),MACHI Asuka
+World Tour China Open Chengdu 2014,2014-06-04,CHIANG Hung-Chieh,MAK King Ho,4,0,"11,11,11,11|7,8,2,8",,GRAND_SLAM,MS,134,Qualification,CHIANG Hung-Chieh (TPE),MAK King Ho (HKG),CHIANG Hung-Chieh
+World Tour China Open Chengdu 2014,2014-06-04,CHIANG Hung-Chieh,MACHI Asuka,4,3,"11,8,5,13,11,11,12|8,11,11,15,7,5,10",,GRAND_SLAM,MS,134,Qualification,CHIANG Hung-Chieh (TPE),MACHI Asuka (JPN),CHIANG Hung-Chieh
+World Tour China Open Chengdu 2014,2014-06-04,HUANG Sheng-Sheng,POUNGSRI Max,4,0,"13,11,11,11|11,2,5,6",,GRAND_SLAM,MS,134,Qualification,HUANG Sheng-Sheng (TPE),POUNGSRI Max (THA),HUANG Sheng-Sheng
+World Tour China Open Chengdu 2014,2014-06-04,CHEUNG Yuk,POUNGSRI Max,4,1,"9,11,11,11,14|11,5,7,9,12",,GRAND_SLAM,MS,134,Qualification,CHEUNG Yuk (HKG),POUNGSRI Max (THA),CHEUNG Yuk
+World Tour China Open Chengdu 2014,2014-06-04,HUANG Sheng-Sheng,CHEUNG Yuk,4,1,"11,11,12,10,11|6,8,10,12,4",,GRAND_SLAM,MS,134,Qualification,CHEUNG Yuk (HKG),HUANG Sheng-Sheng (TPE),HUANG Sheng-Sheng
+World Tour China Open Chengdu 2014,2014-06-04,HUNG Tzu-Hsiang,KWAN Man Ho,4,3,"11,11,10,9,12,11,11|5,13,12,11,10,5,5",,GRAND_SLAM,MS,134,Qualification,HUNG Tzu-Hsiang (TPE),KWAN Man Ho (HKG),HUNG Tzu-Hsiang
+World Tour China Open Chengdu 2014,2014-06-04,MORIZONO Masataka,KWAN Man Ho,4,1,"14,9,11,11,11|12,11,5,6,9",,GRAND_SLAM,MS,134,Qualification,MORIZONO Masataka (JPN),KWAN Man Ho (HKG),MORIZONO Masataka
+World Tour China Open Chengdu 2014,2014-06-04,MORIZONO Masataka,HUNG Tzu-Hsiang,4,3,"11,11,10,11,11,10,11|13,5,12,6,8,12,4",,GRAND_SLAM,MS,134,Qualification,MORIZONO Masataka (JPN),HUNG Tzu-Hsiang (TPE),MORIZONO Masataka
+World Tour China Open Chengdu 2014,2014-06-04,WU Chih-Chi,HO Kwan Kit,4,3,"11,9,11,5,14,10,12|5,11,5,11,12,12,10",,GRAND_SLAM,MS,134,Qualification,WU Chih-Chi (TPE),HO Kwan Kit (HKG),WU Chih-Chi
+World Tour China Open Chengdu 2014,2014-06-04,HO Kwan Kit,MURAMATSU Yuto,4,2,"11,8,12,1,11,11|8,11,10,11,6,8",,GRAND_SLAM,MS,134,Qualification,MURAMATSU Yuto (JPN),HO Kwan Kit (HKG),HO Kwan Kit
+World Tour China Open Chengdu 2014,2014-06-04,MURAMATSU Yuto,WU Chih-Chi,4,1,"11,13,11,11,11|3,15,3,7,2",,GRAND_SLAM,MS,134,Qualification,MURAMATSU Yuto (JPN),WU Chih-Chi (TPE),MURAMATSU Yuto
+World Tour China Open Chengdu 2014,2014-06-04,WU Zhikang,CHANG Shun-Hung,4,1,"6,12,11,11,11|11,10,8,8,8",,GRAND_SLAM,MS,134,Qualification,WU Zhikang (SGP),CHANG Shun-Hung (TPE),WU Zhikang
+World Tour China Open Chengdu 2014,2014-06-04,SEO Hyundeok,CHANG Shun-Hung,4,1,"11,9,11,11,11|2,11,6,6,7",,GRAND_SLAM,MS,134,Qualification,SEO Hyundeok (KOR),CHANG Shun-Hung (TPE),SEO Hyundeok
+World Tour China Open Chengdu 2014,2014-06-04,WU Zhikang,SEO Hyundeok,4,1,"11,11,6,14,11|9,9,11,12,7",,GRAND_SLAM,MS,134,Qualification,SEO Hyundeok (KOR),WU Zhikang (SGP),WU Zhikang
+World Tour China Open Chengdu 2014,2014-06-04,KIM Donghyun,GREEN Wally,4,0,"11,11,11,11|5,3,6,6",,GRAND_SLAM,MS,134,Qualification,KIM Donghyun (KOR),GREEN Wally (USA),KIM Donghyun
+World Tour China Open Chengdu 2014,2014-06-04,WANG Yang,CHEN Chao-Shun,4,0,"11,11,11,11|5,9,5,8",,GRAND_SLAM,MS,134,Qualification,WANG Yang (SVK),CHEN Chao-Shun (TPE),WANG Yang
+World Tour China Open Chengdu 2014,2014-06-04,WANG Yang,GREEN Wally,4,0,"11,11,11,11|4,3,5,7",,GRAND_SLAM,MS,134,Qualification,WANG Yang (SVK),GREEN Wally (USA),WANG Yang
+World Tour China Open Chengdu 2014,2014-06-04,KIM Donghyun,CHEN Chao-Shun,4,2,"11,14,5,11,8,11|9,12,11,5,11,7",,GRAND_SLAM,MS,134,Qualification,KIM Donghyun (KOR),CHEN Chao-Shun (TPE),KIM Donghyun
+World Tour China Open Chengdu 2014,2014-06-04,KIM Donghyun,WANG Yang,4,3,"11,11,11,8,11,12,11|13,8,13,11,8,10,8",,GRAND_SLAM,MS,134,Qualification,WANG Yang (SVK),KIM Donghyun (KOR),KIM Donghyun
+World Tour China Open Chengdu 2014,2014-06-04,CHEN Chao-Shun,GREEN Wally,4,0,"11,11,11,11|4,7,3,7",,GRAND_SLAM,MS,134,Qualification,GREEN Wally (USA),CHEN Chao-Shun (TPE),CHEN Chao-Shun
+World Tour China Open Chengdu 2014,2014-06-04,KANG Dongsoo,HOTZ Christian,4,2,"6,11,9,15,11,11|11,4,11,13,8,6",,GRAND_SLAM,MS,134,Qualification,KANG Dongsoo (KOR),HOTZ Christian (SUI),KANG Dongsoo
+World Tour China Open Chengdu 2014,2014-06-04,CHEN Feng,CHIN Mao-Cheng,4,1,"10,12,11,11,11|12,10,7,5,4",,GRAND_SLAM,MS,134,Qualification,CHEN Feng (SGP),CHIN Mao-Cheng (TPE),CHEN Feng
+World Tour China Open Chengdu 2014,2014-06-04,CHEN Feng,HOTZ Christian,4,0,"11,12,11,11|4,10,6,9",,GRAND_SLAM,MS,134,Qualification,CHEN Feng (SGP),HOTZ Christian (SUI),CHEN Feng
+World Tour China Open Chengdu 2014,2014-06-04,KANG Dongsoo,CHIN Mao-Cheng,4,1,"11,11,11,11,11|7,9,5,13,8",,GRAND_SLAM,MS,134,Qualification,KANG Dongsoo (KOR),CHIN Mao-Cheng (TPE),KANG Dongsoo
+World Tour China Open Chengdu 2014,2014-06-04,CHEN Feng,KANG Dongsoo,4,0,"11,11,11,11|7,8,3,5",,GRAND_SLAM,MS,134,Qualification,CHEN Feng (SGP),KANG Dongsoo (KOR),CHEN Feng
+World Tour China Open Chengdu 2014,2014-06-04,CHIN Mao-Cheng,HOTZ Christian,4,1,"11,11,11,4,11|8,7,5,11,2",,GRAND_SLAM,MS,134,Qualification,HOTZ Christian (SUI),CHIN Mao-Cheng (TPE),CHIN Mao-Cheng
+World Tour China Open Chengdu 2014,2014-06-04,LI Isabelle Siyun,HSIUNG Nai-I,4,0,"11,11,11,12|7,8,5,10",,GRAND_SLAM,WS,134,Qualification,HSIUNG Nai-I (TPE),LI Isabelle Siyun (SGP),LI Isabelle Siyun
+World Tour China Open Chengdu 2014,2014-06-04,WU Jiaduo,LI Isabelle Siyun,4,0,"11,11,11,11|8,3,5,9",,GRAND_SLAM,WS,134,Qualification,WU Jiaduo (GER),LI Isabelle Siyun (SGP),WU Jiaduo
+World Tour China Open Chengdu 2014,2014-06-04,HSIUNG Nai-I,WU Jiaduo,4,2,"11,5,11,7,11,11|6,11,7,11,7,7",,GRAND_SLAM,WS,134,Qualification,WU Jiaduo (GER),HSIUNG Nai-I (TPE),HSIUNG Nai-I
+World Tour China Open Chengdu 2014,2014-06-04,KIM Mingyung,HUANG Hsin,4,1,"12,5,11,11,11|10,11,6,8,9",,GRAND_SLAM,WS,134,Qualification,KIM Mingyung (KOR),HUANG Hsin (TPE),KIM Mingyung
+World Tour China Open Chengdu 2014,2014-06-04,NG Wing Nam,HUANG Hsin,4,1,"11,11,11,11,13|8,13,4,2,11",,GRAND_SLAM,WS,134,Qualification,NG Wing Nam (HKG),HUANG Hsin (TPE),NG Wing Nam
+World Tour China Open Chengdu 2014,2014-06-04,NG Wing Nam,KIM Mingyung,4,1,"11,11,11,5,11|5,8,8,11,9",,GRAND_SLAM,WS,134,Qualification,NG Wing Nam (HKG),KIM Mingyung (KOR),NG Wing Nam
+World Tour China Open Chengdu 2014,2014-06-04,LEE Dasom,SOO Wai Yam,4,2,"11,11,11,9,5,11|9,2,9,11,11,8",,GRAND_SLAM,WS,134,Qualification,LEE Dasom (KOR),SOO Wai Yam (HKG),LEE Dasom
+World Tour China Open Chengdu 2014,2014-06-04,LEE I-Chen,SOO Wai Yam,4,1,"7,11,11,11,11|11,7,5,6,5",,GRAND_SLAM,WS,134,Qualification,LEE I-Chen (TPE),SOO Wai Yam (HKG),LEE I-Chen
+World Tour China Open Chengdu 2014,2014-06-04,LEE I-Chen,LEE Dasom,4,1,"11,5,11,11,12|7,11,5,6,10",,GRAND_SLAM,WS,134,Qualification,LEE I-Chen (TPE),LEE Dasom (KOR),LEE I-Chen
+World Tour China Open Chengdu 2014,2014-06-04,TSUI Pao-Wen,LEE Eunhye,4,1,"11,11,11,9,11|6,4,5,11,9",,GRAND_SLAM,WS,134,Qualification,LEE Eunhye (KOR),TSUI Pao-Wen (TPE),TSUI Pao-Wen
+World Tour China Open Chengdu 2014,2014-06-04,LIN Ye,TSUI Pao-Wen,4,0,"11,11,11,11|2,4,4,4",,GRAND_SLAM,WS,134,Qualification,LIN Ye (CAN),TSUI Pao-Wen (TPE),LIN Ye
+World Tour China Open Chengdu 2014,2014-06-04,LIN Ye,LEE Eunhye,4,1,"11,7,11,11,13|3,11,7,8,11",,GRAND_SLAM,WS,134,Qualification,LIN Ye (CAN),LEE Eunhye (KOR),LIN Ye
+World Tour China Open Chengdu 2014,2014-06-04,LI Ching Wan,CHO Hala,4,3,"5,11,7,11,11,7,11|11,7,11,9,9,11,5",,GRAND_SLAM,WS,134,Qualification,CHO Hala (KOR),LI Ching Wan (HKG),LI Ching Wan
+World Tour China Open Chengdu 2014,2014-06-04,LI Ching Wan,HUANG Yi-Hua,4,2,"15,11,11,9,5,11|13,5,6,11,11,4",,GRAND_SLAM,WS,134,Qualification,HUANG Yi-Hua (TPE),LI Ching Wan (HKG),LI Ching Wan
+World Tour China Open Chengdu 2014,2014-06-04,CHO Hala,HUANG Yi-Hua,4,1,"11,6,11,11,11|5,11,7,6,8",,GRAND_SLAM,WS,134,Qualification,HUANG Yi-Hua (TPE),CHO Hala (KOR),CHO Hala
+World Tour China Open Chengdu 2014,2014-06-04,LIU Hsing-Yin,KIM Minhee (YOB=1991),4,2,"6,10,11,12,11,11|11,12,7,10,9,5",,GRAND_SLAM,WS,134,Qualification,KIM Minhee (YOB=1991) (KOR),LIU Hsing-Yin (TPE),LIU Hsing-Yin
+World Tour China Open Chengdu 2014,2014-06-04,HIRANO Miu,LIU Hsing-Yin,4,2,"11,5,11,11,6,11|7,11,7,4,11,6",,GRAND_SLAM,WS,134,Qualification,HIRANO Miu (JPN),LIU Hsing-Yin (TPE),HIRANO Miu
+World Tour China Open Chengdu 2014,2014-06-04,HIRANO Miu,KIM Minhee (YOB=1991),4,3,"11,12,4,5,11,9,11|8,10,11,11,9,11,9",,GRAND_SLAM,WS,134,Qualification,HIRANO Miu (JPN),KIM Minhee (YOB=1991) (KOR),HIRANO Miu
+World Tour China Open Chengdu 2014,2014-06-04,LEE Yearam,MORI Sakura,4,1,"11,5,14,11,12|7,11,12,7,10",,GRAND_SLAM,WS,134,Qualification,MORI Sakura (JPN),LEE Yearam (KOR),LEE Yearam
+World Tour China Open Chengdu 2014,2014-06-04,LI Jie,LEE Yearam,4,1,"8,11,11,11,11|11,2,8,5,2",,GRAND_SLAM,WS,134,Qualification,LI Jie (NED),LEE Yearam (KOR),LI Jie
+World Tour China Open Chengdu 2014,2014-06-04,LI Jie,MORI Sakura,4,0,"11,11,11,14|6,3,2,12",,GRAND_SLAM,WS,134,Qualification,LI Jie (NED),MORI Sakura (JPN),LI Jie
+World Tour China Open Chengdu 2014,2014-06-04,CHENG Hsien-Tzu,MAK Tze Wing,4,2,"13,11,7,9,11,12|11,6,11,11,7,10",,GRAND_SLAM,WS,134,Qualification,CHENG Hsien-Tzu (TPE),MAK Tze Wing (HKG),CHENG Hsien-Tzu
+World Tour China Open Chengdu 2014,2014-06-04,HAMAMOTO Yui,MAK Tze Wing,4,1,"11,12,8,11,11|9,10,11,6,3",,GRAND_SLAM,WS,134,Qualification,HAMAMOTO Yui (AUT),MAK Tze Wing (HKG),HAMAMOTO Yui
+World Tour China Open Chengdu 2014,2014-06-04,CHENG Hsien-Tzu,HAMAMOTO Yui,4,2,"9,6,11,11,11,11|11,11,7,4,8,7",,GRAND_SLAM,WS,134,Qualification,HAMAMOTO Yui (AUT),CHENG Hsien-Tzu (TPE),CHENG Hsien-Tzu
+World Tour China Open Chengdu 2014,2014-06-04,MAEDA Miyu,WONG Chung Wan,4,0,"11,13,11,13|4,11,9,11",,GRAND_SLAM,WS,134,Qualification,MAEDA Miyu (JPN),WONG Chung Wan (HKG),MAEDA Miyu
+World Tour China Open Chengdu 2014,2014-06-04,CHEN Szu-Yu,WONG Chung Wan,4,1,"11,11,9,11,12|3,7,11,8,10",,GRAND_SLAM,WS,134,Qualification,CHEN Szu-Yu (TPE),WONG Chung Wan (HKG),CHEN Szu-Yu
+World Tour China Open Chengdu 2014,2014-06-04,CHEN Szu-Yu,MAEDA Miyu,4,0,"11,11,11,11|9,1,4,5",,GRAND_SLAM,WS,134,Qualification,CHEN Szu-Yu (TPE),MAEDA Miyu (JPN),CHEN Szu-Yu
+World Tour China Open Chengdu 2014,2014-06-04,SAKAI Haruka,HSU Hui-Tsun,4,1,"8,11,11,11,11|11,9,8,4,6",,GRAND_SLAM,WS,134,Qualification,SAKAI Haruka (JPN),HSU Hui-Tsun (TPE),SAKAI Haruka
+World Tour China Open Chengdu 2014,2014-06-04,ZHOU Yihan,HSU Hui-Tsun,4,1,"11,6,11,11,11|9,11,9,4,5",,GRAND_SLAM,WS,134,Qualification,ZHOU Yihan (SGP),HSU Hui-Tsun (TPE),ZHOU Yihan
+World Tour China Open Chengdu 2014,2014-06-04,ZHOU Yihan,SAKAI Haruka,4,2,"11,11,2,7,12,11|8,8,11,11,10,7",,GRAND_SLAM,WS,134,Qualification,ZHOU Yihan (SGP),SAKAI Haruka (JPN),ZHOU Yihan
+World Tour China Open Chengdu 2014,2014-06-04,KATO Miyu,LIN Chia-Chih,4,0,"11,11,11,11|7,7,7,6",,GRAND_SLAM,WS,134,Qualification,KATO Miyu (JPN),LIN Chia-Chih (TPE),KATO Miyu
+World Tour China Open Chengdu 2014,2014-06-04,SOLJA Amelie,LIN Chia-Chih,4,0,"11,13,11,11|9,11,4,3",,GRAND_SLAM,WS,134,Qualification,SOLJA Amelie (AUT),LIN Chia-Chih (TPE),SOLJA Amelie
+World Tour China Open Chengdu 2014,2014-06-04,SOLJA Amelie,KATO Miyu,4,2,"9,11,11,11,10,11|11,5,9,3,12,8",,GRAND_SLAM,WS,134,Qualification,SOLJA Amelie (AUT),KATO Miyu (JPN),SOLJA Amelie
+World Tour China Open Chengdu 2014,2014-06-04,YAMANASHI Yuri,LIU Qi,4,1,"11,10,11,11,13|8,12,6,8,11",,GRAND_SLAM,WS,134,Qualification,YAMANASHI Yuri (JPN),LIU Qi (HKG),YAMANASHI Yuri
+World Tour China Open Chengdu 2014,2014-06-04,PARK Youngsook,LIU Qi,4,2,"11,13,11,5,10,14|6,11,6,11,12,12",,GRAND_SLAM,WS,134,Qualification,PARK Youngsook (KOR),LIU Qi (HKG),PARK Youngsook
+World Tour China Open Chengdu 2014,2014-06-04,PARK Youngsook,YAMANASHI Yuri,4,3,"13,11,5,11,8,7,11|11,7,11,4,11,11,6",,GRAND_SLAM,WS,134,Qualification,PARK Youngsook (KOR),YAMANASHI Yuri (JPN),PARK Youngsook
+World Tour China Open Chengdu 2014,2014-06-04,KATO Kyoka,KOMWONG Nanthana,4,3,"9,11,11,5,5,13,12|11,6,8,11,11,11,10",,GRAND_SLAM,WS,134,Qualification,KOMWONG Nanthana (THA),KATO Kyoka (JPN),KATO Kyoka
+World Tour China Open Chengdu 2014,2014-06-04,KATO Kyoka,YOO Eunchong,4,0,"11,11,13,11|5,7,11,9",,GRAND_SLAM,WS,134,Qualification,YOO Eunchong (KOR),KATO Kyoka (JPN),KATO Kyoka
+World Tour China Open Chengdu 2014,2014-06-04,YOO Eunchong,KOMWONG Nanthana,4,1,"11,13,11,9,12|7,11,5,11,10",,GRAND_SLAM,WS,134,Qualification,YOO Eunchong (KOR),KOMWONG Nanthana (THA),YOO Eunchong
+World Tour China Open Chengdu 2014,2014-06-04,ZHU Chengzhu,HSING Ariel,4,2,"11,6,5,11,11,13|7,11,11,6,8,11",,GRAND_SLAM,WS,134,Qualification,HSING Ariel (USA),ZHU Chengzhu (HKG),ZHU Chengzhu
+World Tour China Open Chengdu 2014,2014-06-04,ITO Mima,ZHU Chengzhu,4,1,"11,11,9,11,11|7,8,11,8,8",,GRAND_SLAM,WS,134,Qualification,ITO Mima (JPN),ZHU Chengzhu (HKG),ITO Mima
+World Tour China Open Chengdu 2014,2014-06-04,HSING Ariel,ITO Mima,4,3,"9,11,11,11,10,7,13|11,7,9,8,12,11,11",,GRAND_SLAM,WS,134,Qualification,ITO Mima (JPN),HSING Ariel (USA),HSING Ariel
+World Tour China Open Chengdu 2014,2014-06-04,MATSUDAIRA Shiho,WANG Yi-Ju,4,3,"11,16,10,11,3,3,11|8,14,12,9,11,11,6",,GRAND_SLAM,WS,134,Qualification,MATSUDAIRA Shiho (JPN),WANG Yi-Ju (TPE),MATSUDAIRA Shiho
+World Tour China Open Chengdu 2014,2014-06-04,LEE Eunhee,WANG Yi-Ju,4,2,"9,9,11,11,11,13|11,11,7,4,3,11",,GRAND_SLAM,WS,134,Qualification,LEE Eunhee (KOR),WANG Yi-Ju (TPE),LEE Eunhee
+World Tour China Open Chengdu 2014,2014-06-04,MATSUDAIRA Shiho,LEE Eunhee,4,2,"10,9,11,11,11,11|12,11,7,7,5,9",,GRAND_SLAM,WS,134,Qualification,LEE Eunhee (KOR),MATSUDAIRA Shiho (JPN),MATSUDAIRA Shiho
+World Tour China Open Chengdu 2014,2014-06-04,SAWETTABUT Suthasini,LIN Chia-Hui,4,2,"11,6,10,11,11,11|7,11,12,6,9,8",,GRAND_SLAM,WS,134,Qualification,LIN Chia-Hui (TPE),SAWETTABUT Suthasini (THA),SAWETTABUT Suthasini
+World Tour China Open Chengdu 2014,2014-06-04,NONAKA Yuki,SAWETTABUT Suthasini,4,2,"11,4,11,7,11,11|5,11,7,11,5,9",,GRAND_SLAM,WS,134,Qualification,NONAKA Yuki (JPN),SAWETTABUT Suthasini (THA),NONAKA Yuki
+World Tour China Open Chengdu 2014,2014-06-04,NONAKA Yuki,LIN Chia-Hui,4,2,"8,11,11,9,11,11|11,4,9,11,3,8",,GRAND_SLAM,WS,134,Qualification,NONAKA Yuki (JPN),LIN Chia-Hui (TPE),NONAKA Yuki
+World Tour China Open Chengdu 2014,2014-06-04,HO Kwan Kit,PENG Wang-Wei,3,1,"11,11,11,12|8,13,8,10",,GRAND_SLAM,U21MS,134,Qualification,PENG Wang-Wei (TPE),HO Kwan Kit (HKG),HO Kwan Kit
+World Tour China Open Chengdu 2014,2014-06-04,KIM Minhyeok,HO Kwan Kit,3,1,"4,13,11,11|11,11,9,7",,GRAND_SLAM,U21MS,134,Qualification,KIM Minhyeok (KOR),HO Kwan Kit (HKG),KIM Minhyeok
+World Tour China Open Chengdu 2014,2014-06-04,LIAO Cheng-Ting,LAI Yi-Yao,3,0,"15,11,11|13,5,2",,GRAND_SLAM,U21MS,134,Qualification,LAI Yi-Yao (TPE),LIAO Cheng-Ting (TPE),LIAO Cheng-Ting
+World Tour China Open Chengdu 2014,2014-06-04,LIAO Cheng-Ting,MAK King Ho,3,2,"7,11,6,11,11|11,4,11,7,6",,GRAND_SLAM,U21MS,134,Qualification,MAK King Ho (HKG),LIAO Cheng-Ting (TPE),LIAO Cheng-Ting
+World Tour China Open Chengdu 2014,2014-06-04,MAK King Ho,LAI Yi-Yao,3,1,"11,11,9,11|4,5,11,7",,GRAND_SLAM,U21MS,134,Qualification,MAK King Ho (HKG),LAI Yi-Yao (TPE),MAK King Ho
+World Tour China Open Chengdu 2014,2014-06-04,LEE Chun-Lin,KWAN Man Ho,3,0,"11,11,12|5,4,10",,GRAND_SLAM,U21MS,134,Qualification,LEE Chun-Lin (TPE),KWAN Man Ho (HKG),LEE Chun-Lin
+World Tour China Open Chengdu 2014,2014-06-04,PARK Chan-Hyeok,KWAN Man Ho,3,0,"14,11,11|12,9,9",,GRAND_SLAM,U21MS,134,Qualification,PARK Chan-Hyeok (KOR),KWAN Man Ho (HKG),PARK Chan-Hyeok
+World Tour China Open Chengdu 2014,2014-06-04,POUNGSRI Max,LI Hon Ming,3,2,"11,4,11,4,11|8,11,3,11,7",,GRAND_SLAM,U21MS,134,Qualification,LI Hon Ming (HKG),POUNGSRI Max (THA),POUNGSRI Max
+World Tour China Open Chengdu 2014,2014-06-04,SUN Chia-Hung,CHIN Mao-Cheng,3,1,"11,11,9,11|5,9,11,8",,GRAND_SLAM,U21MS,134,Qualification,SUN Chia-Hung (TPE),CHIN Mao-Cheng (TPE),SUN Chia-Hung
+World Tour China Open Chengdu 2014,2014-06-04,SUN Chia-Hung,POUNGSRI Max,3,0,"11,11,11|9,5,9",,GRAND_SLAM,U21MS,134,Qualification,SUN Chia-Hung (TPE),POUNGSRI Max (THA),SUN Chia-Hung
+World Tour China Open Chengdu 2014,2014-06-04,CHIN Mao-Cheng,LI Hon Ming,3,1,"11,11,8,11|7,8,11,8",,GRAND_SLAM,U21MS,134,Qualification,LI Hon Ming (HKG),CHIN Mao-Cheng (TPE),CHIN Mao-Cheng
+World Tour China Open Chengdu 2014,2014-06-04,SUN Chia-Hung,LI Hon Ming,3,0,"11,11,11|9,8,8",,GRAND_SLAM,U21MS,134,Qualification,SUN Chia-Hung (TPE),LI Hon Ming (HKG),SUN Chia-Hung
+World Tour China Open Chengdu 2014,2014-06-04,POUNGSRI Max,CHIN Mao-Cheng,3,2,"5,11,4,12,11|11,6,11,10,6",,GRAND_SLAM,U21MS,134,Qualification,POUNGSRI Max (THA),CHIN Mao-Cheng (TPE),POUNGSRI Max
+World Tour China Open Chengdu 2014,2014-06-04,LU Po-Hsien,WEN Wei-Chieh,3,2,"12,6,11,10,13|10,11,2,12,11",,GRAND_SLAM,U21MS,134,Qualification,WEN Wei-Chieh (TPE),LU Po-Hsien (TPE),LU Po-Hsien
+World Tour China Open Chengdu 2014,2014-06-04,HUNG Ka Tak,AVI-TAL Omer,3,1,"9,11,11,12|11,9,2,10",,GRAND_SLAM,U21MS,134,Qualification,HUNG Ka Tak (HKG),AVI-TAL Omer (PAN),HUNG Ka Tak
+World Tour China Open Chengdu 2014,2014-06-04,HUNG Ka Tak,LU Po-Hsien,3,2,"8,9,11,11,11|11,11,5,5,3",,GRAND_SLAM,U21MS,134,Qualification,HUNG Ka Tak (HKG),LU Po-Hsien (TPE),HUNG Ka Tak
+World Tour China Open Chengdu 2014,2014-06-04,AVI-TAL Omer,WEN Wei-Chieh,3,2,"8,11,11,3,11|11,6,8,11,9",,GRAND_SLAM,U21MS,134,Qualification,WEN Wei-Chieh (TPE),AVI-TAL Omer (PAN),AVI-TAL Omer
+World Tour China Open Chengdu 2014,2014-06-04,LU Po-Hsien,AVI-TAL Omer,3,2,"8,11,9,11,11|11,5,11,5,7",,GRAND_SLAM,U21MS,134,Qualification,LU Po-Hsien (TPE),AVI-TAL Omer (PAN),LU Po-Hsien
+World Tour China Open Chengdu 2014,2014-06-04,SAWETTABUT Suthasini,LI Ching Wan,3,2,"7,11,9,11,13|11,9,11,9,11",,GRAND_SLAM,U21WS,134,Qualification,LI Ching Wan (HKG),SAWETTABUT Suthasini (THA),SAWETTABUT Suthasini
+World Tour China Open Chengdu 2014,2014-06-04,KATO Miyu,SAWETTABUT Suthasini,3,0,"11,11,11|9,4,8",,GRAND_SLAM,U21WS,134,Qualification,KATO Miyu (JPN),SAWETTABUT Suthasini (THA),KATO Miyu
+World Tour China Open Chengdu 2014,2014-06-04,KATO Miyu,LI Ching Wan,3,0,"11,11,11|4,6,8",,GRAND_SLAM,U21WS,134,Qualification,KATO Miyu (JPN),LI Ching Wan (HKG),KATO Miyu
+World Tour China Open Chengdu 2014,2014-06-04,LI Isabelle Siyun,WONG Chung Wan,3,0,"11,11,11|5,6,4",,GRAND_SLAM,U21WS,134,Qualification,LI Isabelle Siyun (SGP),WONG Chung Wan (HKG),LI Isabelle Siyun
+World Tour China Open Chengdu 2014,2014-06-04,MATSUDAIRA Shiho,WONG Chung Wan,3,1,"11,5,11,11|4,11,9,7",,GRAND_SLAM,U21WS,134,Qualification,MATSUDAIRA Shiho (JPN),WONG Chung Wan (HKG),MATSUDAIRA Shiho
+World Tour China Open Chengdu 2014,2014-06-04,LI Isabelle Siyun,MATSUDAIRA Shiho,3,2,"4,11,7,11,11|11,7,11,9,1",,GRAND_SLAM,U21WS,134,Qualification,MATSUDAIRA Shiho (JPN),LI Isabelle Siyun (SGP),LI Isabelle Siyun
+World Tour China Open Chengdu 2014,2014-06-04,LIU Qi,TSUI Pao-Wen,3,2,"15,4,11,13,11|13,11,13,11,5",,GRAND_SLAM,U21WS,134,Qualification,TSUI Pao-Wen (TPE),LIU Qi (HKG),LIU Qi
+World Tour China Open Chengdu 2014,2014-06-04,LIU Qi,HSING Ariel,3,2,"11,17,9,11,11|8,19,11,5,8",,GRAND_SLAM,U21WS,134,Qualification,HSING Ariel (USA),LIU Qi (HKG),LIU Qi
+World Tour China Open Chengdu 2014,2014-06-04,TSUI Pao-Wen,HSING Ariel,3,1,"15,11,7,11|13,6,11,6",,GRAND_SLAM,U21WS,134,Qualification,HSING Ariel (USA),TSUI Pao-Wen (TPE),TSUI Pao-Wen
+World Tour China Open Chengdu 2014,2014-06-04,HUANG Hsin,MAK Tze Wing,3,0,"11,11,11|4,8,5",,GRAND_SLAM,U21WS,134,Qualification,HUANG Hsin (TPE),MAK Tze Wing (HKG),HUANG Hsin
+World Tour China Open Chengdu 2014,2014-06-04,MAEDA Miyu,MAK Tze Wing,3,0,"11,11,11|7,5,3",,GRAND_SLAM,U21WS,134,Qualification,MAEDA Miyu (JPN),MAK Tze Wing (HKG),MAEDA Miyu
+World Tour China Open Chengdu 2014,2014-06-04,MAEDA Miyu,HUANG Hsin,3,0,"11,11,11|5,4,8",,GRAND_SLAM,U21WS,134,Qualification,MAEDA Miyu (JPN),HUANG Hsin (TPE),MAEDA Miyu
+World Tour China Open Chengdu 2014,2014-06-04,KATO Kyoka,SOO Wai Yam,3,0,"11,11,11|9,9,7",,GRAND_SLAM,U21WS,134,Qualification,SOO Wai Yam (HKG),KATO Kyoka (JPN),KATO Kyoka
+World Tour China Open Chengdu 2014,2014-06-04,KATO Kyoka,CHENG Hsien-Tzu,3,2,"6,7,11,11,11|11,11,6,3,6",,GRAND_SLAM,U21WS,134,Qualification,CHENG Hsien-Tzu (TPE),KATO Kyoka (JPN),KATO Kyoka
+World Tour China Open Chengdu 2014,2014-06-04,CHENG Hsien-Tzu,SOO Wai Yam,3,0,"11,11,11|3,9,7",,GRAND_SLAM,U21WS,134,Qualification,CHENG Hsien-Tzu (TPE),SOO Wai Yam (HKG),CHENG Hsien-Tzu
+World Tour China Open Chengdu 2014,2014-06-04,LEE Dasom,WANG Yi-Ju,3,2,"13,7,6,11,11|11,11,11,8,8",,GRAND_SLAM,U21WS,134,Qualification,LEE Dasom (KOR),WANG Yi-Ju (TPE),LEE Dasom
+World Tour China Open Chengdu 2014,2014-06-04,ZHU Chengzhu,MORI Sakura,3,1,"12,14,11,11|14,12,9,5",,GRAND_SLAM,U21WS,134,Qualification,MORI Sakura (JPN),ZHU Chengzhu (HKG),ZHU Chengzhu
+World Tour China Open Chengdu 2014,2014-06-04,MORI Sakura,WANG Yi-Ju,3,1,"16,6,11,11|14,11,6,6",,GRAND_SLAM,U21WS,134,Qualification,MORI Sakura (JPN),WANG Yi-Ju (TPE),MORI Sakura
+World Tour China Open Chengdu 2014,2014-06-04,LEE Dasom,ZHU Chengzhu,3,0,"11,11,11|8,3,9",,GRAND_SLAM,U21WS,134,Qualification,LEE Dasom (KOR),ZHU Chengzhu (HKG),LEE Dasom
+World Tour China Open Chengdu 2014,2014-06-04,LEE Dasom,MORI Sakura,3,0,"11,11,11|3,3,4",,GRAND_SLAM,U21WS,134,Qualification,MORI Sakura (JPN),LEE Dasom (KOR),LEE Dasom
+World Tour China Open Chengdu 2014,2014-06-04,ZHU Chengzhu,WANG Yi-Ju,3,2,"5,11,8,11,12|11,6,11,9,10",,GRAND_SLAM,U21WS,134,Qualification,WANG Yi-Ju (TPE),ZHU Chengzhu (HKG),ZHU Chengzhu
+World Tour China Open Chengdu 2014,2014-06-04,XU Xin,FENG Xiaoquan,4,0,"11,11,11,11|8,4,7,4",R32,GRAND_SLAM,MS,134,Main Draw,XU Xin (CHN),FENG Xiaoquan (AUT),XU Xin
+World Tour China Open Chengdu 2014,2014-06-04,STEGER Bastian,SUN Chia-Hung,4,0,"11,11,11,12|6,9,8,10",R32,GRAND_SLAM,MS,134,Main Draw,SUN Chia-Hung (TPE),STEGER Bastian (GER),STEGER Bastian
+World Tour China Open Chengdu 2014,2014-06-04,KISHIKAWA Seiya,LIAO Cheng-Ting,4,3,"7,12,11,7,5,11,11|11,10,3,11,11,3,5",R32,GRAND_SLAM,MS,134,Main Draw,KISHIKAWA Seiya (JPN),LIAO Cheng-Ting (TPE),KISHIKAWA Seiya
+World Tour China Open Chengdu 2014,2014-06-04,GAO Ning,KIM Donghyun,4,2,"11,8,11,7,11,11|7,11,2,11,9,7",R32,GRAND_SLAM,MS,134,Main Draw,KIM Donghyun (KOR),GAO Ning (SGP),GAO Ning
+World Tour China Open Chengdu 2014,2014-06-04,YAN An,MORIZONO Masataka,4,1,"9,11,11,11,11|11,9,7,9,8",R32,GRAND_SLAM,MS,134,Main Draw,YAN An (CHN),MORIZONO Masataka (JPN),YAN An
+World Tour China Open Chengdu 2014,2014-06-04,TANG Peng,CHEN Feng,4,3,"6,3,11,11,9,11,11|11,11,9,6,11,3,7",R32,GRAND_SLAM,MS,134,Main Draw,CHEN Feng (SGP),TANG Peng (HKG),TANG Peng
+World Tour China Open Chengdu 2014,2014-06-04,JEONG Sangeun,MATSUDAIRA Kenta,4,0,"11,11,13,11|9,6,11,3",R32,GRAND_SLAM,MS,134,Main Draw,MATSUDAIRA Kenta (JPN),JEONG Sangeun (KOR),JEONG Sangeun
+World Tour China Open Chengdu 2014,2014-06-04,ZHANG Jike,LI Hu,4,0,"11,11,11,11|4,3,5,9",R32,GRAND_SLAM,MS,134,Main Draw,LI Hu (SGP),ZHANG Jike (CHN),ZHANG Jike
+World Tour China Open Chengdu 2014,2014-06-04,FAN Zhendong,CHIANG Hung-Chieh,4,0,"11,12,12,11|5,10,10,4",R32,GRAND_SLAM,MS,134,Main Draw,FAN Zhendong (CHN),CHIANG Hung-Chieh (TPE),FAN Zhendong
+World Tour China Open Chengdu 2014,2014-06-04,YOSHIDA Kaii,CHO Eonrae,4,3,"3,11,9,11,7,11,11|11,6,11,8,11,6,7",R32,GRAND_SLAM,MS,134,Main Draw,YOSHIDA Kaii (JPN),CHO Eonrae (KOR),YOSHIDA Kaii
+World Tour China Open Chengdu 2014,2014-06-04,JIANG Tianyi,WU Zhikang,4,2,"2,11,4,11,11,11|11,5,11,9,8,5",R32,GRAND_SLAM,MS,134,Main Draw,JIANG Tianyi (HKG),WU Zhikang (SGP),JIANG Tianyi
+World Tour China Open Chengdu 2014,2014-06-04,WANG Hao,HUANG Sheng-Sheng,4,0,"11,11,11,11|7,5,5,9",R32,GRAND_SLAM,MS,134,Main Draw,HUANG Sheng-Sheng (TPE),WANG Hao (CHN),WANG Hao
+World Tour China Open Chengdu 2014,2014-06-04,CHUANG Chih-Yuan,SAKAI Asuka,4,2,"14,8,11,11,13,12|16,11,3,6,11,10",R32,GRAND_SLAM,MS,134,Main Draw,CHUANG Chih-Yuan (TPE),SAKAI Asuka (JPN),CHUANG Chih-Yuan
+World Tour China Open Chengdu 2014,2014-06-04,NIWA Koki,MENGEL Steffen,4,1,"9,11,11,11,11|11,3,9,7,9",R32,GRAND_SLAM,MS,134,Main Draw,MENGEL Steffen (GER),NIWA Koki (JPN),NIWA Koki
+World Tour China Open Chengdu 2014,2014-06-04,MURAMATSU Yuto,CHEN Chien-An,4,1,"11,11,11,5,11|5,9,8,11,6",R32,GRAND_SLAM,MS,134,Main Draw,CHEN Chien-An (TPE),MURAMATSU Yuto (JPN),MURAMATSU Yuto
+World Tour China Open Chengdu 2014,2014-06-04,MA Long,WEN Wei-Chieh,4,1,"11,11,11,11,12|13,4,8,6,10",R32,GRAND_SLAM,MS,134,Main Draw,WEN Wei-Chieh (TPE),MA Long (CHN),MA Long
+World Tour China Open Chengdu 2014,2014-06-04,XU Xin,STEGER Bastian,4,0,"11,11,11,11|5,7,4,7",R16,GRAND_SLAM,MS,134,Main Draw,XU Xin (CHN),STEGER Bastian (GER),XU Xin
+World Tour China Open Chengdu 2014,2014-06-04,GAO Ning,KISHIKAWA Seiya,4,0,"11,11,14,11|4,8,12,9",R16,GRAND_SLAM,MS,134,Main Draw,KISHIKAWA Seiya (JPN),GAO Ning (SGP),GAO Ning
+World Tour China Open Chengdu 2014,2014-06-04,TANG Peng,YAN An,4,3,"10,12,7,12,9,11,11|12,10,11,10,11,9,4",R16,GRAND_SLAM,MS,134,Main Draw,YAN An (CHN),TANG Peng (HKG),TANG Peng
+World Tour China Open Chengdu 2014,2014-06-04,ZHANG Jike,JEONG Sangeun,4,0,"11,11,11,11|9,8,2,9",R16,GRAND_SLAM,MS,134,Main Draw,JEONG Sangeun (KOR),ZHANG Jike (CHN),ZHANG Jike
+World Tour China Open Chengdu 2014,2014-06-04,FAN Zhendong,YOSHIDA Kaii,4,0,"11,11,11,13|7,8,7,11",R16,GRAND_SLAM,MS,134,Main Draw,FAN Zhendong (CHN),YOSHIDA Kaii (JPN),FAN Zhendong
+World Tour China Open Chengdu 2014,2014-06-04,WANG Hao,JIANG Tianyi,4,1,"11,3,11,11,11|7,11,6,9,5",R16,GRAND_SLAM,MS,134,Main Draw,JIANG Tianyi (HKG),WANG Hao (CHN),WANG Hao
+World Tour China Open Chengdu 2014,2014-06-04,CHUANG Chih-Yuan,NIWA Koki,4,0,"11,18,11,11|5,16,8,4",R16,GRAND_SLAM,MS,134,Main Draw,CHUANG Chih-Yuan (TPE),NIWA Koki (JPN),CHUANG Chih-Yuan
+World Tour China Open Chengdu 2014,2014-06-04,MA Long,MURAMATSU Yuto,4,0,"11,11,11,11|7,8,5,7",R16,GRAND_SLAM,MS,134,Main Draw,MURAMATSU Yuto (JPN),MA Long (CHN),MA Long
+World Tour China Open Chengdu 2014,2014-06-04,XU Xin,GAO Ning,4,3,"11,11,9,8,10,11,11|7,7,11,11,12,9,6",QF,GRAND_SLAM,MS,134,Main Draw,XU Xin (CHN),GAO Ning (SGP),XU Xin
+World Tour China Open Chengdu 2014,2014-06-04,ZHANG Jike,TANG Peng,4,1,"11,12,11,9,11|7,10,9,11,7",QF,GRAND_SLAM,MS,134,Main Draw,TANG Peng (HKG),ZHANG Jike (CHN),ZHANG Jike
+World Tour China Open Chengdu 2014,2014-06-04,FAN Zhendong,WANG Hao,4,1,"11,11,11,11,12|7,13,6,8,10",QF,GRAND_SLAM,MS,134,Main Draw,FAN Zhendong (CHN),WANG Hao (CHN),FAN Zhendong
+World Tour China Open Chengdu 2014,2014-06-04,MA Long,CHUANG Chih-Yuan,4,1,"11,11,7,11,11|6,2,11,8,6",QF,GRAND_SLAM,MS,134,Main Draw,CHUANG Chih-Yuan (TPE),MA Long (CHN),MA Long
+World Tour China Open Chengdu 2014,2014-06-04,XU Xin,ZHANG Jike,4,2,"7,11,11,8,11,14|11,7,9,11,7,12",SF,GRAND_SLAM,MS,134,Main Draw,XU Xin (CHN),ZHANG Jike (CHN),XU Xin
+World Tour China Open Chengdu 2014,2014-06-04,MA Long,FAN Zhendong,4,3,"11,9,11,7,11,9,11|9,11,6,11,7,11,8",SF,GRAND_SLAM,MS,134,Main Draw,FAN Zhendong (CHN),MA Long (CHN),MA Long
+World Tour China Open Chengdu 2014,2014-06-04,MA Long,XU Xin,4,1,"11,11,8,11,11|7,9,11,7,4",F,GRAND_SLAM,MS,134,Main Draw,XU Xin (CHN),MA Long (CHN),MA Long
+World Tour China Open Chengdu 2014,2014-06-04,LIU Shiwen,LIN Ye,4,1,"11,12,9,11,11|4,10,11,7,6",R32,GRAND_SLAM,WS,134,Main Draw,LIU Shiwen (CHN),LIN Ye (CAN),LIU Shiwen
+World Tour China Open Chengdu 2014,2014-06-04,JEON Jihee,LI Ching Wan,4,1,"11,9,11,11,11|4,11,8,8,8",R32,GRAND_SLAM,WS,134,Main Draw,LI Ching Wan (HKG),JEON Jihee (KOR),JEON Jihee
+World Tour China Open Chengdu 2014,2014-06-04,CHENG I-Ching,MATSUDAIRA Shiho,4,0,"11,11,11,11|7,8,6,8",R32,GRAND_SLAM,WS,134,Main Draw,CHENG I-Ching (TPE),MATSUDAIRA Shiho (JPN),CHENG I-Ching
+World Tour China Open Chengdu 2014,2014-06-04,ZHU Yuling,NONAKA Yuki,4,2,"13,6,11,11,10,11|11,11,9,6,12,5",R32,GRAND_SLAM,WS,134,Main Draw,NONAKA Yuki (JPN),ZHU Yuling (MAC),ZHU Yuling
+World Tour China Open Chengdu 2014,2014-06-04,ISHIKAWA Kasumi,ZHOU Yihan,4,2,"11,11,11,6,12,12|5,9,9,11,14,10",R32,GRAND_SLAM,WS,134,Main Draw,ISHIKAWA Kasumi (JPN),ZHOU Yihan (SGP),ISHIKAWA Kasumi
+World Tour China Open Chengdu 2014,2014-06-04,HIRANO Sayaka,PARK Youngsook,4,0,"11,11,11,12|9,6,6,10",R32,GRAND_SLAM,WS,134,Main Draw,PARK Youngsook (KOR),HIRANO Sayaka (JPN),HIRANO Sayaka
+World Tour China Open Chengdu 2014,2014-06-04,DOO Hoi Kem,SOLJA Amelie,4,3,"3,4,11,11,12,11,11|11,11,2,9,14,6,8",R32,GRAND_SLAM,WS,134,Main Draw,DOO Hoi Kem (HKG),SOLJA Amelie (AUT),DOO Hoi Kem
+World Tour China Open Chengdu 2014,2014-06-04,LI Xiaoxia,CHENG Hsien-Tzu,4,0,"12,13,11,11|10,11,5,2",R32,GRAND_SLAM,WS,134,Main Draw,CHENG Hsien-Tzu (TPE),LI Xiaoxia (CHN),LI Xiaoxia
+World Tour China Open Chengdu 2014,2014-06-04,CHEN Meng,HIRANO Miu,4,0,"11,11,11,11|5,9,8,9",R32,GRAND_SLAM,WS,134,Main Draw,CHEN Meng (CHN),HIRANO Miu (JPN),CHEN Meng
+World Tour China Open Chengdu 2014,2014-06-04,LEE Ho Ching,WU Jiaduo,4,3,"11,11,7,11,11,7,11|7,8,11,7,13,11,3",R32,GRAND_SLAM,WS,134,Main Draw,WU Jiaduo (GER),LEE Ho Ching (HKG),LEE Ho Ching
+World Tour China Open Chengdu 2014,2014-06-04,HAN Ying,NG Wing Nam,4,0,"11,11,11,11|4,6,5,6",R32,GRAND_SLAM,WS,134,Main Draw,HAN Ying (GER),NG Wing Nam (HKG),HAN Ying
+World Tour China Open Chengdu 2014,2014-06-04,WU Yang,LI Jie,4,2,"7,7,11,11,13,11|11,11,7,6,11,7",R32,GRAND_SLAM,WS,134,Main Draw,LI Jie (NED),WU Yang (CHN),WU Yang
+World Tour China Open Chengdu 2014,2014-06-04,SUH Hyo Won,CHEN Szu-Yu,4,0,"11,11,11,11|7,9,3,9",R32,GRAND_SLAM,WS,134,Main Draw,SUH Hyo Won (KOR),CHEN Szu-Yu (TPE),SUH Hyo Won
+World Tour China Open Chengdu 2014,2014-06-04,YU Mengyu,LEE I-Chen,4,2,"11,11,11,6,9,12|9,9,8,11,11,10",R32,GRAND_SLAM,WS,134,Main Draw,LEE I-Chen (TPE),YU Mengyu (SGP),YU Mengyu
+World Tour China Open Chengdu 2014,2014-06-04,YANG Ha Eun,ITO Mima,4,1,"11,8,11,11,11|9,11,4,7,4",R32,GRAND_SLAM,WS,134,Main Draw,YANG Ha Eun (KOR),ITO Mima (JPN),YANG Ha Eun
+World Tour China Open Chengdu 2014,2014-06-04,DING Ning,KATO Kyoka,4,0,"11,11,11,11|7,5,4,1",R32,GRAND_SLAM,WS,134,Main Draw,KATO Kyoka (JPN),DING Ning (CHN),DING Ning
+World Tour China Open Chengdu 2014,2014-06-04,LIU Shiwen,JEON Jihee,4,0,"11,11,11,11|4,8,9,3",R16,GRAND_SLAM,WS,134,Main Draw,LIU Shiwen (CHN),JEON Jihee (KOR),LIU Shiwen
+World Tour China Open Chengdu 2014,2014-06-04,ZHU Yuling,CHENG I-Ching,4,0,"11,11,11,11|8,7,3,4",R16,GRAND_SLAM,WS,134,Main Draw,CHENG I-Ching (TPE),ZHU Yuling (MAC),ZHU Yuling
+World Tour China Open Chengdu 2014,2014-06-04,ISHIKAWA Kasumi,HIRANO Sayaka,4,0,"11,11,11,11|4,6,9,2",R16,GRAND_SLAM,WS,134,Main Draw,ISHIKAWA Kasumi (JPN),HIRANO Sayaka (JPN),ISHIKAWA Kasumi
+World Tour China Open Chengdu 2014,2014-06-04,LI Xiaoxia,DOO Hoi Kem,4,2,"11,11,8,16,11,11|6,9,11,18,6,6",R16,GRAND_SLAM,WS,134,Main Draw,DOO Hoi Kem (HKG),LI Xiaoxia (CHN),LI Xiaoxia
+World Tour China Open Chengdu 2014,2014-06-04,CHEN Meng,LEE Ho Ching,4,3,"5,11,11,8,8,11,12|11,5,6,11,11,6,10",R16,GRAND_SLAM,WS,134,Main Draw,CHEN Meng (CHN),LEE Ho Ching (HKG),CHEN Meng
+World Tour China Open Chengdu 2014,2014-06-04,WU Yang,HAN Ying,4,0,"11,11,12,11|8,7,10,4",R16,GRAND_SLAM,WS,134,Main Draw,HAN Ying (GER),WU Yang (CHN),WU Yang
+World Tour China Open Chengdu 2014,2014-06-04,YU Mengyu,SUH Hyo Won,4,2,"11,4,11,11,2,11|9,11,9,8,11,4",R16,GRAND_SLAM,WS,134,Main Draw,SUH Hyo Won (KOR),YU Mengyu (SGP),YU Mengyu
+World Tour China Open Chengdu 2014,2014-06-04,DING Ning,YANG Ha Eun,4,0,"11,11,11,11|6,4,7,7",R16,GRAND_SLAM,WS,134,Main Draw,YANG Ha Eun (KOR),DING Ning (CHN),DING Ning
+World Tour China Open Chengdu 2014,2014-06-04,LIU Shiwen,ZHU Yuling,4,2,"11,11,11,5,7,11|7,7,6,11,11,8",QF,GRAND_SLAM,WS,134,Main Draw,LIU Shiwen (CHN),ZHU Yuling (MAC),LIU Shiwen
+World Tour China Open Chengdu 2014,2014-06-04,LI Xiaoxia,ISHIKAWA Kasumi,4,2,"9,6,11,11,13,11|11,11,3,3,11,2",QF,GRAND_SLAM,WS,134,Main Draw,ISHIKAWA Kasumi (JPN),LI Xiaoxia (CHN),LI Xiaoxia
+World Tour China Open Chengdu 2014,2014-06-04,WU Yang,CHEN Meng,4,0,"11,11,11,11|5,9,8,9",QF,GRAND_SLAM,WS,134,Main Draw,CHEN Meng (CHN),WU Yang (CHN),WU Yang
+World Tour China Open Chengdu 2014,2014-06-04,DING Ning,YU Mengyu,4,1,"11,11,11,8,11|8,9,6,11,7",QF,GRAND_SLAM,WS,134,Main Draw,YU Mengyu (SGP),DING Ning (CHN),DING Ning
+World Tour China Open Chengdu 2014,2014-06-04,LIU Shiwen,LI Xiaoxia,4,1,"13,11,11,9,13|11,9,6,11,11",SF,GRAND_SLAM,WS,134,Main Draw,LIU Shiwen (CHN),LI Xiaoxia (CHN),LIU Shiwen
+World Tour China Open Chengdu 2014,2014-06-04,DING Ning,WU Yang,4,2,"11,7,14,10,14,11|6,11,12,12,12,9",SF,GRAND_SLAM,WS,134,Main Draw,WU Yang (CHN),DING Ning (CHN),DING Ning
+World Tour China Open Chengdu 2014,2014-06-04,DING Ning,LIU Shiwen,4,3,"11,5,11,11,4,2,11|6,11,8,7,11,11,2",F,GRAND_SLAM,WS,134,Main Draw,LIU Shiwen (CHN),DING Ning (CHN),DING Ning
+World Tour China Open Chengdu 2014,2014-06-04,WANG Yang,LU Po-Hsien,3,0,"11,11,11|7,2,7",R16,GRAND_SLAM,U21MS,134,Main Draw,WANG Yang (SVK),LU Po-Hsien (TPE),WANG Yang
+World Tour China Open Chengdu 2014,2014-06-04,SAKAI Asuka,PARK Chan-Hyeok,3,1,"11,9,11,11|4,11,4,6",R16,GRAND_SLAM,U21MS,134,Main Draw,PARK Chan-Hyeok (KOR),SAKAI Asuka (JPN),SAKAI Asuka
+World Tour China Open Chengdu 2014,2014-06-04,MACHI Asuka,LIAO Cheng-Ting,3,1,"11,11,7,11|6,4,11,9",R16,GRAND_SLAM,U21MS,134,Main Draw,MACHI Asuka (JPN),LIAO Cheng-Ting (TPE),MACHI Asuka
+World Tour China Open Chengdu 2014,2014-06-04,KIM Donghyun,SUN Chia-Hung,3,0,"11,11,11|5,5,7",R16,GRAND_SLAM,U21MS,134,Main Draw,SUN Chia-Hung (TPE),KIM Donghyun (KOR),KIM Donghyun
+World Tour China Open Chengdu 2014,2014-06-04,KANG Dongsoo,HO Kwan Kit,3,2,"9,11,11,11,11|11,13,7,5,7",R16,GRAND_SLAM,U21MS,134,Main Draw,KANG Dongsoo (KOR),HO Kwan Kit (HKG),KANG Dongsoo
+World Tour China Open Chengdu 2014,2014-06-04,HUNG Tzu-Hsiang,HUNG Ka Tak,3,0,"11,11,11|8,8,7",R16,GRAND_SLAM,U21MS,134,Main Draw,HUNG Ka Tak (HKG),HUNG Tzu-Hsiang (TPE),HUNG Tzu-Hsiang
+World Tour China Open Chengdu 2014,2014-06-04,WU Zhikang,KIM Minhyeok,3,1,"11,11,11,11|5,9,13,7",R16,GRAND_SLAM,U21MS,134,Main Draw,WU Zhikang (SGP),KIM Minhyeok (KOR),WU Zhikang
+World Tour China Open Chengdu 2014,2014-06-04,CHEN Feng,LEE Chun-Lin,3,1,"10,11,12,11|12,8,10,6",R16,GRAND_SLAM,U21MS,134,Main Draw,LEE Chun-Lin (TPE),CHEN Feng (SGP),CHEN Feng
+World Tour China Open Chengdu 2014,2014-06-04,SAKAI Asuka,WANG Yang,4,3,"11,11,11,2,11,10,11|13,7,4,11,4,12,1",QF,GRAND_SLAM,U21MS,134,Main Draw,WANG Yang (SVK),SAKAI Asuka (JPN),SAKAI Asuka
+World Tour China Open Chengdu 2014,2014-06-04,MACHI Asuka,KIM Donghyun,4,2,"15,4,9,11,12,14|13,11,11,6,10,12",QF,GRAND_SLAM,U21MS,134,Main Draw,MACHI Asuka (JPN),KIM Donghyun (KOR),MACHI Asuka
+World Tour China Open Chengdu 2014,2014-06-04,HUNG Tzu-Hsiang,KANG Dongsoo,4,0,"11,11,11,11|8,7,7,2",QF,GRAND_SLAM,U21MS,134,Main Draw,KANG Dongsoo (KOR),HUNG Tzu-Hsiang (TPE),HUNG Tzu-Hsiang
+World Tour China Open Chengdu 2014,2014-06-04,CHEN Feng,WU Zhikang,4,3,"11,6,11,7,11,8,11|8,11,4,11,5,11,7",QF,GRAND_SLAM,U21MS,134,Main Draw,WU Zhikang (SGP),CHEN Feng (SGP),CHEN Feng
+World Tour China Open Chengdu 2014,2014-06-04,MACHI Asuka,SAKAI Asuka,4,0,"11,11,11,11|8,9,8,7",SF,GRAND_SLAM,U21MS,134,Main Draw,SAKAI Asuka (JPN),MACHI Asuka (JPN),MACHI Asuka
+World Tour China Open Chengdu 2014,2014-06-04,CHEN Feng,HUNG Tzu-Hsiang,4,1,"11,11,11,8,11|7,7,3,11,3",SF,GRAND_SLAM,U21MS,134,Main Draw,HUNG Tzu-Hsiang (TPE),CHEN Feng (SGP),CHEN Feng
+World Tour China Open Chengdu 2014,2014-06-04,MACHI Asuka,CHEN Feng,4,3,"6,11,9,11,2,11,11|11,6,11,4,11,4,7",F,GRAND_SLAM,U21MS,134,Main Draw,MACHI Asuka (JPN),CHEN Feng (SGP),MACHI Asuka
+World Tour China Open Chengdu 2014,2014-06-04,MATSUDAIRA Shiho,YANG Ha Eun,3,2,"3,11,11,2,14|11,9,8,11,12",R16,GRAND_SLAM,U21WS,134,Main Draw,YANG Ha Eun (KOR),MATSUDAIRA Shiho (JPN),MATSUDAIRA Shiho
+World Tour China Open Chengdu 2014,2014-06-04,ITO Mima,LIU Qi,3,1,"11,9,11,11|8,11,8,4",R16,GRAND_SLAM,U21WS,134,Main Draw,LIU Qi (HKG),ITO Mima (JPN),ITO Mima
+World Tour China Open Chengdu 2014,2014-06-04,ZHOU Yihan,LEE Dasom,3,1,"6,11,11,11|11,4,5,6",R16,GRAND_SLAM,U21WS,134,Main Draw,ZHOU Yihan (SGP),LEE Dasom (KOR),ZHOU Yihan
+World Tour China Open Chengdu 2014,2014-06-04,KATO Miyu,LIN Ye,3,2,"6,14,11,5,11|11,12,9,11,9",R16,GRAND_SLAM,U21WS,134,Main Draw,KATO Miyu (JPN),LIN Ye (CAN),KATO Miyu
+World Tour China Open Chengdu 2014,2014-06-04,LI Isabelle Siyun,HAMAMOTO Yui,3,2,"11,12,11,10,11|13,10,7,12,7",R16,GRAND_SLAM,U21WS,134,Main Draw,HAMAMOTO Yui (AUT),LI Isabelle Siyun (SGP),LI Isabelle Siyun
+World Tour China Open Chengdu 2014,2014-06-04,YOO Eunchong,KATO Kyoka,3,2,"16,5,3,11,12|14,11,11,5,10",R16,GRAND_SLAM,U21WS,134,Main Draw,KATO Kyoka (JPN),YOO Eunchong (KOR),YOO Eunchong
+World Tour China Open Chengdu 2014,2014-06-04,DOO Hoi Kem,TSUI Pao-Wen,3,2,"5,11,9,11,13|11,3,11,7,11",R16,GRAND_SLAM,U21WS,134,Main Draw,TSUI Pao-Wen (TPE),DOO Hoi Kem (HKG),DOO Hoi Kem
+World Tour China Open Chengdu 2014,2014-06-04,ITO Mima,MATSUDAIRA Shiho,4,0,"11,11,11,11|6,7,8,4",QF,GRAND_SLAM,U21WS,134,Main Draw,MATSUDAIRA Shiho (JPN),ITO Mima (JPN),ITO Mima
+World Tour China Open Chengdu 2014,2014-06-04,ZHOU Yihan,KATO Miyu,4,2,"11,12,11,8,11,11|8,10,13,11,7,9",QF,GRAND_SLAM,U21WS,134,Main Draw,ZHOU Yihan (SGP),KATO Miyu (JPN),ZHOU Yihan
+World Tour China Open Chengdu 2014,2014-06-04,YOO Eunchong,LI Isabelle Siyun,4,1,"11,11,9,15,12|8,6,11,13,10",QF,GRAND_SLAM,U21WS,134,Main Draw,LI Isabelle Siyun (SGP),YOO Eunchong (KOR),YOO Eunchong
+World Tour China Open Chengdu 2014,2014-06-04,CHEN Szu-Yu,DOO Hoi Kem,4,1,"7,11,13,11,11|11,9,11,6,7",QF,GRAND_SLAM,U21WS,134,Main Draw,CHEN Szu-Yu (TPE),DOO Hoi Kem (HKG),CHEN Szu-Yu
+World Tour China Open Chengdu 2014,2014-06-04,ITO Mima,ZHOU Yihan,4,2,"7,12,5,11,11,11|11,10,11,8,7,9",SF,GRAND_SLAM,U21WS,134,Main Draw,ITO Mima (JPN),ZHOU Yihan (SGP),ITO Mima
+World Tour China Open Chengdu 2014,2014-06-04,CHEN Szu-Yu,YOO Eunchong,4,1,"11,11,5,11,11|9,8,11,6,9",SF,GRAND_SLAM,U21WS,134,Main Draw,YOO Eunchong (KOR),CHEN Szu-Yu (TPE),CHEN Szu-Yu
+World Tour China Open Chengdu 2014,2014-06-04,CHEN Szu-Yu,ITO Mima,4,1,"7,11,11,11,11|11,8,6,7,7",F,GRAND_SLAM,U21WS,134,Main Draw,ITO Mima (JPN),CHEN Szu-Yu (TPE),CHEN Szu-Yu
+World Tour China Open Chengdu 2014,2014-06-04,LU Po-Hsien,MAK King Ho,3,1,"8,11,11,11|11,9,4,7",QR8,GRAND_SLAM,U21MS,134,Qualification,MAK King Ho (HKG),LU Po-Hsien (TPE),LU Po-Hsien
+World Tour China Open Chengdu 2014,2014-06-04,LEE Chun-Lin,POUNGSRI Max,3,0,"11,15,11|6,13,8",QR8,GRAND_SLAM,U21MS,134,Qualification,POUNGSRI Max (THA),LEE Chun-Lin (TPE),LEE Chun-Lin
+World Tour China Open Chengdu 2014,2014-06-04,CHENG Hsien-Tzu,ZHU Chengzhu,3,2,"9,7,11,11,11|11,11,9,5,6",QR8,GRAND_SLAM,U21WS,134,Qualification,CHENG Hsien-Tzu (TPE),ZHU Chengzhu (HKG),CHENG Hsien-Tzu
+World Tour China Open Chengdu 2014,2014-06-04,TSUI Pao-Wen,SAWETTABUT Suthasini,3,2,"11,11,10,7,11|7,7,12,11,9",QR8,GRAND_SLAM,U21WS,134,Qualification,SAWETTABUT Suthasini (THA),TSUI Pao-Wen (TPE),TSUI Pao-Wen
+World Tour China Open Chengdu 2014,2014-06-04,MATSUDAIRA Shiho,CHENG Hsien-Tzu,3,1,"11,11,11,11|8,13,7,4",QR4,GRAND_SLAM,U21WS,134,Qualification,MATSUDAIRA Shiho (JPN),CHENG Hsien-Tzu (TPE),MATSUDAIRA Shiho
+World Tour China Open Chengdu 2014,2014-06-04,TSUI Pao-Wen,HUANG Hsin,3,1,"5,13,11,11|11,11,5,7",QR4,GRAND_SLAM,U21WS,134,Qualification,TSUI Pao-Wen (TPE),HUANG Hsin (TPE),TSUI Pao-Wen
+World Tour China Open Chengdu 2014,2014-06-04,WANG Hao/YAN An,KIM Donghyun/LEE Sang Su,3,0,"14,11,11|12,5,7",R16,GRAND_SLAM,MD,134,Main Draw,WANG Hao (CHN) / YAN An (CHN),KIM Donghyun (KOR) / LEE Sang Su (KOR),WANG Hao
+World Tour China Open Chengdu 2014,2014-06-04,XU Xin/ZHANG Jike,CHO Eonrae/SEO Hyundeok,3,0,"11,11,11|9,7,9",R16,GRAND_SLAM,MD,134,Main Draw,XU Xin (CHN) / ZHANG Jike (CHN),CHO Eonrae (KOR) / SEO Hyundeok (KOR),XU Xin
+World Tour China Open Chengdu 2014,2014-06-04,WANG Hao/YAN An,GAO Ning/LI Hu,3,1,"12,6,11,11|10,11,8,2",QF,GRAND_SLAM,MD,134,Main Draw,WANG Hao (CHN) / YAN An (CHN),GAO Ning (SGP) / LI Hu (SGP),WANG Hao
+World Tour China Open Chengdu 2014,2014-06-04,XU Xin/ZHANG Jike,MATSUDAIRA Kenta/NIWA Koki,3,0,"11,12,11|5,10,4",SF,GRAND_SLAM,MD,134,Main Draw,XU Xin (CHN) / ZHANG Jike (CHN),MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN),XU Xin
+World Tour China Open Chengdu 2014,2014-06-04,FAN Zhendong/MA Long,XU Xin/ZHANG Jike,3,2,"6,11,5,11,14|11,4,11,4,12",F,GRAND_SLAM,MD,134,Main Draw,FAN Zhendong (CHN) / MA Long (CHN),XU Xin (CHN) / ZHANG Jike (CHN),FAN Zhendong
+World Tour China Open Chengdu 2014,2014-06-04,DING Ning/LIU Shiwen,KOMWONG Nanthana/SAWETTABUT Suthasini,3,0,"11,11,12|9,1,10",R16,GRAND_SLAM,WD,134,Main Draw,DING Ning (CHN) / LIU Shiwen (CHN),KOMWONG Nanthana (THA) / SAWETTABUT Suthasini (THA),DING Ning
+World Tour China Open Chengdu 2014,2014-06-04,DING Ning/LIU Shiwen,MAEDA Miyu/MORI Sakura,3,0,"11,11,12|8,4,10",QF,GRAND_SLAM,WD,134,Main Draw,DING Ning (CHN) / LIU Shiwen (CHN),MAEDA Miyu (JPN) / MORI Sakura (JPN),DING Ning
+World Tour China Open Chengdu 2014,2014-06-04,DING Ning/LIU Shiwen,FENG Tianwei/YU Mengyu,3,0,"11,11,11|5,2,1",SF,GRAND_SLAM,WD,134,Main Draw,DING Ning (CHN) / LIU Shiwen (CHN),FENG Tianwei (SGP) / YU Mengyu (SGP),DING Ning
+World Tour China Open Chengdu 2014,2014-06-04,DING Ning/LIU Shiwen,CHENG I-Ching/HUANG Yi-Hua,3,0,"11,11,11|5,4,9",F,GRAND_SLAM,WD,134,Main Draw,DING Ning (CHN) / LIU Shiwen (CHN),CHENG I-Ching (TPE) / HUANG Yi-Hua (TPE),DING Ning
+World Tour China Open Chengdu 2014,2014-06-04,HAN Ying/WU Jiaduo,HIRANO Sayaka/ISHIKAWA Kasumi,3,2,"11,11,5,4,11|7,7,11,11,4",R16,GRAND_SLAM,WD,134,Main Draw,HAN Ying (GER) / WU Jiaduo (GER),HIRANO Sayaka (JPN) / ISHIKAWA Kasumi (JPN),HAN Ying
+World Tour China Open Chengdu 2014,2014-06-04,CHENG I-Ching/HUANG Yi-Hua,HAN Ying/WU Jiaduo,3,1,"12,11,11,11|14,9,4,8",SF,GRAND_SLAM,WD,134,Main Draw,CHENG I-Ching (TPE) / HUANG Yi-Hua (TPE),HAN Ying (GER) / WU Jiaduo (GER),CHENG I-Ching
+World Tour China Open Chengdu 2014,2014-06-04,CHEN Chien-An/CHUANG Chih-Yuan,JIANG Tianyi/LEUNG Chu Yan,3,2,"11,10,12,7,11|5,12,10,11,5",R16,GRAND_SLAM,MD,134,Main Draw,CHEN Chien-An (TPE) / CHUANG Chih-Yuan (TPE),JIANG Tianyi (HKG) / LEUNG Chu Yan (HKG),CHEN Chien-An
+World Tour China Open Chengdu 2014,2014-06-04,XU Xin/ZHANG Jike,TANG Peng/WONG Chun Ting,3,0,"11,11,11|4,4,9",QF,GRAND_SLAM,MD,134,Main Draw,XU Xin (CHN) / ZHANG Jike (CHN),TANG Peng (HKG) / WONG Chun Ting (HKG),XU Xin
+World Tour China Open Chengdu 2014,2014-06-04,LEE Chun-Lin/WU Chih-Chi,HO Kwan Kit/HUNG Ka Tak,3,0,"11,13,15|2,11,13",QR16,GRAND_SLAM,MD,134,Qualification,LEE Chun-Lin (TPE) / WU Chih-Chi (TPE),HO Kwan Kit (HKG) / HUNG Ka Tak (HKG),LEE Chun-Lin
+World Tour China Open Chengdu 2014,2014-06-04,LEE Ho Ching/NG Wing Nam,LEE Eunhee/LEE Yearam,3,2,"11,13,5,11,11|8,15,11,4,7",R16,GRAND_SLAM,WD,134,Main Draw,LEE Ho Ching (HKG) / NG Wing Nam (HKG),LEE Eunhee (KOR) / LEE Yearam (KOR),LEE Ho Ching
+World Tour China Open Chengdu 2014,2014-06-04,CHENG I-Ching/HUANG Yi-Hua,LEE Ho Ching/NG Wing Nam,3,1,"11,11,5,11|8,6,11,8",QF,GRAND_SLAM,WD,134,Main Draw,CHENG I-Ching (TPE) / HUANG Yi-Hua (TPE),LEE Ho Ching (HKG) / NG Wing Nam (HKG),CHENG I-Ching
+World Tour China Open Chengdu 2014,2014-06-04,FAN Zhendong/MA Long,MACHI Asuka/MORIZONO Masataka,3,0,"13,11,11|11,9,9",R16,GRAND_SLAM,MD,134,Main Draw,FAN Zhendong (CHN) / MA Long (CHN),MACHI Asuka (JPN) / MORIZONO Masataka (JPN),FAN Zhendong
+World Tour China Open Chengdu 2014,2014-06-04,MATSUDAIRA Kenta/NIWA Koki,LEE Chun-Lin/WU Chih-Chi,3,0,"11,11,13|8,7,11",R16,GRAND_SLAM,MD,134,Main Draw,MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN),LEE Chun-Lin (TPE) / WU Chih-Chi (TPE),MATSUDAIRA Kenta
+World Tour China Open Chengdu 2014,2014-06-04,MATSUDAIRA Kenta/NIWA Koki,CHEN Chien-An/CHUANG Chih-Yuan,3,1,"13,5,14,12|11,11,12,10",QF,GRAND_SLAM,MD,134,Main Draw,MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN),CHEN Chien-An (TPE) / CHUANG Chih-Yuan (TPE),MATSUDAIRA Kenta
+World Tour China Open Chengdu 2014,2014-06-04,JEONG Sangeun/PARK Chan-Hyeok,MURAMATSU Yuto/SAKAI Asuka,3,0,"11,11,12|9,6,10",QR16,GRAND_SLAM,MD,134,Qualification,JEONG Sangeun (KOR) / PARK Chan-Hyeok (KOR),MURAMATSU Yuto (JPN) / SAKAI Asuka (JPN),JEONG Sangeun
+World Tour China Open Chengdu 2014,2014-06-04,MAEDA Miyu/MORI Sakura,CHO Hala/PARK Youngsook,3,1,"11,11,8,11|8,8,11,9",R16,GRAND_SLAM,WD,134,Main Draw,MAEDA Miyu (JPN) / MORI Sakura (JPN),CHO Hala (KOR) / PARK Youngsook (KOR),MAEDA Miyu
+World Tour China Open Chengdu 2014,2014-06-04,FAN Zhendong/MA Long,JEONG Sangeun/PARK Chan-Hyeok,3,2,"9,7,11,11,11|11,11,4,2,5",QF,GRAND_SLAM,MD,134,Main Draw,FAN Zhendong (CHN) / MA Long (CHN),JEONG Sangeun (KOR) / PARK Chan-Hyeok (KOR),FAN Zhendong
+World Tour China Open Chengdu 2014,2014-06-04,LIN Chia-Hui/LIU Hsing-Yin,JEON Jihee/YANG Ha Eun,3,2,"8,11,11,7,11|11,9,3,11,5",R16,GRAND_SLAM,WD,134,Main Draw,LIN Chia-Hui (TPE) / LIU Hsing-Yin (TPE),JEON Jihee (KOR) / YANG Ha Eun (KOR),LIN Chia-Hui
+World Tour China Open Chengdu 2014,2014-06-04,FENG Tianwei/YU Mengyu,DOO Hoi Kem/SOO Wai Yam,3,1,"12,8,11,11|10,11,7,4",R16,GRAND_SLAM,WD,134,Main Draw,FENG Tianwei (SGP) / YU Mengyu (SGP),DOO Hoi Kem (HKG) / SOO Wai Yam (HKG),FENG Tianwei
+World Tour China Open Chengdu 2014,2014-06-04,CHENG I-Ching/HUANG Yi-Hua,LIN Ye/ZHOU Yihan,3,2,"11,10,11,7,11|8,12,4,11,4",R16,GRAND_SLAM,WD,134,Main Draw,CHENG I-Ching (TPE) / HUANG Yi-Hua (TPE),LIN Ye (CAN) / ZHOU Yihan (SGP),CHENG I-Ching
+World Tour China Open Chengdu 2014,2014-06-04,FENG Tianwei/YU Mengyu,CHEN Meng/ZHU Yuling,3,2,"7,13,11,9,11|11,11,9,11,9",QF,GRAND_SLAM,WD,134,Main Draw,FENG Tianwei (SGP) / YU Mengyu (SGP),CHEN Meng (CHN) / ZHU Yuling (MAC),FENG Tianwei
+World Tour China Open Chengdu 2014,2014-06-04,GAO Ning/LI Hu,FENG Xiaoquan/POUNGSRI Max,3,0,"11,11,11|8,6,6",R16,GRAND_SLAM,MD,134,Main Draw,GAO Ning (SGP) / LI Hu (SGP),FENG Xiaoquan (AUT) / POUNGSRI Max (THA),GAO Ning
+World Tour China Open Chengdu 2014,2014-06-04,FENG Xiaoquan/POUNGSRI Max,GREEN Wally/HOTZ Christian,3,0,"11,11,11|4,9,4",QR16,GRAND_SLAM,MD,134,Qualification,FENG Xiaoquan (AUT) / POUNGSRI Max (THA),GREEN Wally (USA) / HOTZ Christian (SUI),FENG Xiaoquan
+World Tour China Open Chengdu 2014,2014-06-04,KOMWONG Nanthana/SAWETTABUT Suthasini,LIU Qi/MAK Tze Wing,3,1,"11,7,12,11|3,11,10,7",QR16,GRAND_SLAM,WD,134,Qualification,KOMWONG Nanthana (THA) / SAWETTABUT Suthasini (THA),LIU Qi (HKG) / MAK Tze Wing (HKG),KOMWONG Nanthana
+World Tour China Open Chengdu 2014,2014-06-04,JEONG Sangeun/PARK Chan-Hyeok,CHIANG Hung-Chieh/HUANG Sheng-Sheng,3,1,"7,12,11,11|11,10,5,4",R16,GRAND_SLAM,MD,134,Main Draw,JEONG Sangeun (KOR) / PARK Chan-Hyeok (KOR),CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE),JEONG Sangeun
+World Tour China Open Chengdu 2014,2014-06-04,CHEN Meng/ZHU Yuling,CHENG Hsien-Tzu/CHEN Szu-Yu,3,0,"11,11,11|5,4,9",R16,GRAND_SLAM,WD,134,Main Draw,CHEN Meng (CHN) / ZHU Yuling (MAC),CHENG Hsien-Tzu (TPE) / CHEN Szu-Yu (TPE),CHEN Meng
+World Tour China Open Chengdu 2014,2014-06-04,HAN Ying/WU Jiaduo,LIN Chia-Hui/LIU Hsing-Yin,3,0,"11,11,11|7,6,2",QF,GRAND_SLAM,WD,134,Main Draw,HAN Ying (GER) / WU Jiaduo (GER),LIN Chia-Hui (TPE) / LIU Hsing-Yin (TPE),HAN Ying

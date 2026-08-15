@@ -1,73 +1,73 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-ITTF Europe Cup Antibes 2017,2017-02-03,WINTER Sabine,POTA Georgina,4,3,"11,8,11,6,11,7,11|9,11,2,11,5,11,8",QF,OTHER,WS,473,Main Draw,POTA Georgina (HUN),WINTER Sabine (GER)
-ITTF Europe Cup Antibes 2017,2017-02-03,LI Jie,EKHOLM Matilda,4,2,"7,11,11,11,11,11|11,13,5,7,8,9",QF,OTHER,WS,473,Main Draw,EKHOLM Matilda (SWE),LI Jie (NED)
-ITTF Europe Cup Antibes 2017,2017-02-03,SOLJA Petrissa,SZOCS Bernadette,4,2,"11,11,6,11,7,11|9,8,11,9,11,6",QF,OTHER,WS,473,Main Draw,SOLJA Petrissa (GER),SZOCS Bernadette (ROU)
-ITTF Europe Cup Antibes 2017,2017-02-03,LIU Jia,DODEAN Daniela,4,0,"11,11,11,11|6,8,7,7",QF,OTHER,WS,473,Main Draw,DODEAN Daniela (ROU),LIU Jia (AUT)
-ITTF Europe Cup Antibes 2017,2017-02-03,LI Jie,WINTER Sabine,4,2,"5,11,15,9,11,11|11,7,13,11,7,6",SF,OTHER,WS,473,Main Draw,WINTER Sabine (GER),LI Jie (NED)
-ITTF Europe Cup Antibes 2017,2017-02-03,SOLJA Petrissa,LIU Jia,4,1,"13,7,11,13,11|11,11,5,11,5",SF,OTHER,WS,473,Main Draw,SOLJA Petrissa (GER),LIU Jia (AUT)
-ITTF Europe Cup Antibes 2017,2017-02-03,LI Jie,SOLJA Petrissa,4,1,"11,7,11,11,11|7,11,3,6,0",F,OTHER,WS,473,Main Draw,LI Jie (NED),SOLJA Petrissa (GER)
-ITTF Europe Cup Antibes 2017,2017-02-03,POTA Georgina,EKHOLM Matilda,4,3,"11,11,10,8,11,9,11|7,9,12,11,9,11,6",5-8,OTHER,WS,473,Position Draw,POTA Georgina (HUN),EKHOLM Matilda (SWE)
-ITTF Europe Cup Antibes 2017,2017-02-03,SZOCS Bernadette,DODEAN Daniela,4,3,"11,4,9,6,11,11,12|8,11,11,11,9,8,10",5-8,OTHER,WS,473,Position Draw,SZOCS Bernadette (ROU),DODEAN Daniela (ROU)
-ITTF Europe Cup Antibes 2017,2017-02-03,POTA Georgina,SZOCS Bernadette,4,0,,3RD,OTHER,WS,473,Position Draw,POTA Georgina (HUN),SZOCS Bernadette (ROU)
-ITTF Europe Cup Antibes 2017,2017-02-03,EKHOLM Matilda,DODEAN Daniela,4,2,"11,11,8,12,7,11|8,9,11,10,11,6",3RD,OTHER,WS,473,Position Draw,EKHOLM Matilda (SWE),DODEAN Daniela (ROU)
-ITTF Europe Cup Antibes 2017,2017-02-03,WINTER Sabine,LIU Jia,4,3,"11,8,11,11,2,7,11|6,11,8,5,11,11,9",3RD,OTHER,WS,473,Position Draw,WINTER Sabine (GER),LIU Jia (AUT)
-ITTF Europe Cup Antibes 2017,2017-02-03,OVTCHAROV Dimitrij,FEGERL Stefan,4,0,"11,11,11,11|4,8,5,9",QF,OTHER,MS,473,Main Draw,OVTCHAROV Dimitrij (GER),FEGERL Stefan (AUT)
-ITTF Europe Cup Antibes 2017,2017-02-03,KOU Lei,GACINA Andrej,4,3,"11,11,8,9,11,8,11|7,7,11,11,9,11,6",QF,OTHER,MS,473,Main Draw,KOU Lei (UKR),GACINA Andrej (CRO)
-ITTF Europe Cup Antibes 2017,2017-02-03,GAUZY Simon,BOLL Timo,4,2,"11,3,4,11,11,11|8,11,11,7,8,7",QF,OTHER,MS,473,Main Draw,BOLL Timo (GER),GAUZY Simon (FRA)
-ITTF Europe Cup Antibes 2017,2017-02-03,SHIBAEV Alexander,APOLONIA Tiago,4,3,"11,5,9,11,11,10,11|5,11,11,8,7,12,5",QF,OTHER,MS,473,Main Draw,SHIBAEV Alexander (RUS),APOLONIA Tiago (POR)
-ITTF Europe Cup Antibes 2017,2017-02-03,OVTCHAROV Dimitrij,KOU Lei,4,3,"11,11,11,10,3,2,11|8,9,8,12,11,11,6",SF,OTHER,MS,473,Main Draw,OVTCHAROV Dimitrij (GER),KOU Lei (UKR)
-ITTF Europe Cup Antibes 2017,2017-02-03,SHIBAEV Alexander,GAUZY Simon,4,2,"11,11,8,12,8,11|7,9,11,10,11,9",SF,OTHER,MS,473,Main Draw,GAUZY Simon (FRA),SHIBAEV Alexander (RUS)
-ITTF Europe Cup Antibes 2017,2017-02-03,OVTCHAROV Dimitrij,SHIBAEV Alexander,4,2,"11,12,11,11,11,11|8,14,5,13,8,8",F,OTHER,MS,473,Main Draw,OVTCHAROV Dimitrij (GER),SHIBAEV Alexander (RUS)
-ITTF Europe Cup Antibes 2017,2017-02-03,GACINA Andrej,FEGERL Stefan,4,3,"11,6,11,11,6,8,11|9,11,6,8,11,11,7",5-8,OTHER,MS,473,Position Draw,FEGERL Stefan (AUT),GACINA Andrej (CRO)
-ITTF Europe Cup Antibes 2017,2017-02-03,BOLL Timo,APOLONIA Tiago,4,1,"11,8,11,11,15|9,11,9,4,13",5-8,OTHER,MS,473,Position Draw,BOLL Timo (GER),APOLONIA Tiago (POR)
-ITTF Europe Cup Antibes 2017,2017-02-03,BOLL Timo,GACINA Andrej,4,0,"11,11,13,11|5,8,11,3",3RD,OTHER,MS,473,Position Draw,GACINA Andrej (CRO),BOLL Timo (GER)
-ITTF Europe Cup Antibes 2017,2017-02-03,APOLONIA Tiago,FEGERL Stefan,4,0,"11,11,11,11|4,8,7,8",3RD,OTHER,MS,473,Position Draw,FEGERL Stefan (AUT),APOLONIA Tiago (POR)
-ITTF Europe Cup Antibes 2017,2017-02-03,GAUZY Simon,KOU Lei,4,0,"11,11,11,16|6,3,9,14",3RD,OTHER,MS,473,Position Draw,KOU Lei (UKR),GAUZY Simon (FRA)
-ITTF Europe Cup Antibes 2017,2017-02-03,OVTCHAROV Dimitrij,MONTEIRO Joao,3,1,"11,8,11,11|3,11,5,9",,OTHER,MS,473,Qualification,OVTCHAROV Dimitrij (GER),MONTEIRO Joao (POR)
-ITTF Europe Cup Antibes 2017,2017-02-03,GAUZY Simon,GROTH Jonathan,3,2,"11,9,11,7,11|7,11,4,11,8",,OTHER,MS,473,Qualification,GAUZY Simon (FRA),GROTH Jonathan (DEN)
-ITTF Europe Cup Antibes 2017,2017-02-03,OVTCHAROV Dimitrij,GAUZY Simon,3,2,"7,5,11,11,11|11,11,9,9,6",,OTHER,MS,473,Qualification,OVTCHAROV Dimitrij (GER),GAUZY Simon (FRA)
-ITTF Europe Cup Antibes 2017,2017-02-03,GROTH Jonathan,MONTEIRO Joao,3,1,"11,11,6,11|7,6,11,7",,OTHER,MS,473,Qualification,MONTEIRO Joao (POR),GROTH Jonathan (DEN)
-ITTF Europe Cup Antibes 2017,2017-02-03,GAUZY Simon,MONTEIRO Joao,3,1,"1,11,11,11|11,5,6,8",,OTHER,MS,473,Qualification,GAUZY Simon (FRA),MONTEIRO Joao (POR)
-ITTF Europe Cup Antibes 2017,2017-02-03,OVTCHAROV Dimitrij,GROTH Jonathan,3,2,"11,8,11,9,13|5,11,5,11,11",,OTHER,MS,473,Qualification,OVTCHAROV Dimitrij (GER),GROTH Jonathan (DEN)
-ITTF Europe Cup Antibes 2017,2017-02-03,LEBESSON Emmanuel,SAMSONOV Vladimir,3,2,"13,11,6,11,11|15,4,11,6,9",,OTHER,MS,473,Qualification,SAMSONOV Vladimir (BLR),LEBESSON Emmanuel (FRA)
-ITTF Europe Cup Antibes 2017,2017-02-03,APOLONIA Tiago,KOU Lei,3,2,"8,11,11,9,11|11,7,9,11,7",,OTHER,MS,473,Qualification,APOLONIA Tiago (POR),KOU Lei (UKR)
-ITTF Europe Cup Antibes 2017,2017-02-03,APOLONIA Tiago,SAMSONOV Vladimir,3,1,"12,8,11,15|10,11,5,13",,OTHER,MS,473,Qualification,SAMSONOV Vladimir (BLR),APOLONIA Tiago (POR)
-ITTF Europe Cup Antibes 2017,2017-02-03,KOU Lei,LEBESSON Emmanuel,3,0,"11,11,11|8,9,3",,OTHER,MS,473,Qualification,LEBESSON Emmanuel (FRA),KOU Lei (UKR)
-ITTF Europe Cup Antibes 2017,2017-02-03,APOLONIA Tiago,LEBESSON Emmanuel,3,1,"11,3,11,11|6,11,5,4",,OTHER,MS,473,Qualification,APOLONIA Tiago (POR),LEBESSON Emmanuel (FRA)
-ITTF Europe Cup Antibes 2017,2017-02-03,KOU Lei,SAMSONOV Vladimir,3,0,"11,11,11|9,9,7",,OTHER,MS,473,Qualification,SAMSONOV Vladimir (BLR),KOU Lei (UKR)
-ITTF Europe Cup Antibes 2017,2017-02-03,BOLL Timo,KARLSSON Mattias,3,2,"11,9,7,11,11|3,11,11,3,9",,OTHER,MS,473,Qualification,BOLL Timo (GER),KARLSSON Mattias (SWE)
-ITTF Europe Cup Antibes 2017,2017-02-03,FEGERL Stefan,GIONIS Panagiotis,3,2,"7,11,12,5,11|11,5,10,11,9",,OTHER,MS,473,Qualification,FEGERL Stefan (AUT),GIONIS Panagiotis (GRE)
-ITTF Europe Cup Antibes 2017,2017-02-03,BOLL Timo,FEGERL Stefan,3,1,"9,11,11,11|11,3,5,8",,OTHER,MS,473,Qualification,BOLL Timo (GER),FEGERL Stefan (AUT)
-ITTF Europe Cup Antibes 2017,2017-02-03,GIONIS Panagiotis,KARLSSON Mattias,3,0,"11,11,13|5,9,11",,OTHER,MS,473,Qualification,KARLSSON Mattias (SWE),GIONIS Panagiotis (GRE)
-ITTF Europe Cup Antibes 2017,2017-02-03,FEGERL Stefan,KARLSSON Mattias,3,2,"11,11,9,13,11|5,5,11,15,9",,OTHER,MS,473,Qualification,FEGERL Stefan (AUT),KARLSSON Mattias (SWE)
-ITTF Europe Cup Antibes 2017,2017-02-03,BOLL Timo,GIONIS Panagiotis,3,0,"11,11,11|6,6,7",,OTHER,MS,473,Qualification,BOLL Timo (GER),GIONIS Panagiotis (GRE)
-ITTF Europe Cup Antibes 2017,2017-02-03,GACINA Andrej,FREITAS Marcos,3,0,"11,11,11|9,7,3",,OTHER,MS,473,Qualification,FREITAS Marcos (POR),GACINA Andrej (CRO)
-ITTF Europe Cup Antibes 2017,2017-02-03,SHIBAEV Alexander,KARLSSON Kristian,3,1,"11,3,11,11|9,11,6,8",,OTHER,MS,473,Qualification,KARLSSON Kristian (SWE),SHIBAEV Alexander (RUS)
-ITTF Europe Cup Antibes 2017,2017-02-03,FREITAS Marcos,KARLSSON Kristian,3,0,"12,11,11|10,4,8",,OTHER,MS,473,Qualification,FREITAS Marcos (POR),KARLSSON Kristian (SWE)
-ITTF Europe Cup Antibes 2017,2017-02-03,GACINA Andrej,SHIBAEV Alexander,3,2,"11,7,11,10,11|4,11,4,12,2",,OTHER,MS,473,Qualification,GACINA Andrej (CRO),SHIBAEV Alexander (RUS)
-ITTF Europe Cup Antibes 2017,2017-02-03,KARLSSON Kristian,GACINA Andrej,3,1,"13,8,11,11|11,11,8,8",,OTHER,MS,473,Qualification,KARLSSON Kristian (SWE),GACINA Andrej (CRO)
-ITTF Europe Cup Antibes 2017,2017-02-03,SHIBAEV Alexander,FREITAS Marcos,3,2,"11,8,9,13,13|8,11,11,11,11",,OTHER,MS,473,Qualification,FREITAS Marcos (POR),SHIBAEV Alexander (RUS)
-ITTF Europe Cup Antibes 2017,2017-02-03,DODEAN Daniela,HU Melek,3,0,"13,11,11|11,8,9",,OTHER,WS,473,Qualification,HU Melek (TUR),DODEAN Daniela (ROU)
-ITTF Europe Cup Antibes 2017,2017-02-03,POTA Georgina,POLCANOVA Sofia,3,2,"11,5,12,8,12|4,11,10,11,10",,OTHER,WS,473,Qualification,POTA Georgina (HUN),POLCANOVA Sofia (AUT)
-ITTF Europe Cup Antibes 2017,2017-02-03,HU Melek,POTA Georgina,3,2,"18,13,11,11,12|16,15,9,13,10",,OTHER,WS,473,Qualification,HU Melek (TUR),POTA Georgina (HUN)
-ITTF Europe Cup Antibes 2017,2017-02-03,DODEAN Daniela,POLCANOVA Sofia,3,2,"11,7,11,6,11|9,11,8,11,5",,OTHER,WS,473,Qualification,DODEAN Daniela (ROU),POLCANOVA Sofia (AUT)
-ITTF Europe Cup Antibes 2017,2017-02-03,POTA Georgina,DODEAN Daniela,3,2,"11,6,7,11,11|8,11,11,5,8",,OTHER,WS,473,Qualification,POTA Georgina (HUN),DODEAN Daniela (ROU)
-ITTF Europe Cup Antibes 2017,2017-02-03,POLCANOVA Sofia,HU Melek,3,1,"11,5,11,11|8,11,3,7",,OTHER,WS,473,Qualification,HU Melek (TUR),POLCANOVA Sofia (AUT)
-ITTF Europe Cup Antibes 2017,2017-02-03,LIU Jia,MIKHAILOVA Polina,3,1,"9,11,11,15|11,7,7,13",,OTHER,WS,473,Qualification,LIU Jia (AUT),MIKHAILOVA Polina (RUS)
-ITTF Europe Cup Antibes 2017,2017-02-03,WINTER Sabine,VARADY Barbora,3,2,"7,11,12,12,11|11,7,10,14,9",,OTHER,WS,473,Qualification,WINTER Sabine (GER),VARADY Barbora (SVK)
-ITTF Europe Cup Antibes 2017,2017-02-03,LIU Jia,WINTER Sabine,3,2,"11,4,11,9,11|7,11,4,11,7",,OTHER,WS,473,Qualification,LIU Jia (AUT),WINTER Sabine (GER)
-ITTF Europe Cup Antibes 2017,2017-02-03,VARADY Barbora,MIKHAILOVA Polina,3,0,"11,11,11|4,2,9",,OTHER,WS,473,Qualification,MIKHAILOVA Polina (RUS),VARADY Barbora (SVK)
-ITTF Europe Cup Antibes 2017,2017-02-03,WINTER Sabine,MIKHAILOVA Polina,3,0,"12,11,11|10,4,2",,OTHER,WS,473,Qualification,WINTER Sabine (GER),MIKHAILOVA Polina (RUS)
-ITTF Europe Cup Antibes 2017,2017-02-03,LIU Jia,VARADY Barbora,3,2,"9,10,11,11,11|11,12,7,9,6",,OTHER,WS,473,Qualification,LIU Jia (AUT),VARADY Barbora (SVK)
-ITTF Europe Cup Antibes 2017,2017-02-03,SOLJA Petrissa,BILENKO Tetyana,3,2,"8,11,8,11,11|11,8,11,7,6",,OTHER,WS,473,Qualification,SOLJA Petrissa (GER),BILENKO Tetyana (UKR)
-ITTF Europe Cup Antibes 2017,2017-02-03,EKHOLM Matilda,LOEUILLETTE Stephanie,3,1,"8,11,14,11|11,6,12,4",,OTHER,WS,473,Qualification,EKHOLM Matilda (SWE),LOEUILLETTE Stephanie (FRA)
-ITTF Europe Cup Antibes 2017,2017-02-03,SOLJA Petrissa,EKHOLM Matilda,3,1,"11,12,8,11|6,10,11,5",,OTHER,WS,473,Qualification,SOLJA Petrissa (GER),EKHOLM Matilda (SWE)
-ITTF Europe Cup Antibes 2017,2017-02-03,BILENKO Tetyana,LOEUILLETTE Stephanie,3,2,"11,7,5,11,11|9,11,11,7,8",,OTHER,WS,473,Qualification,BILENKO Tetyana (UKR),LOEUILLETTE Stephanie (FRA)
-ITTF Europe Cup Antibes 2017,2017-02-03,EKHOLM Matilda,BILENKO Tetyana,3,0,"11,11,11|7,8,7",,OTHER,WS,473,Qualification,EKHOLM Matilda (SWE),BILENKO Tetyana (UKR)
-ITTF Europe Cup Antibes 2017,2017-02-03,SOLJA Petrissa,LOEUILLETTE Stephanie,3,0,"11,11,11|4,6,8",,OTHER,WS,473,Qualification,SOLJA Petrissa (GER),LOEUILLETTE Stephanie (FRA)
-ITTF Europe Cup Antibes 2017,2017-02-03,PAVLOVICH Viktoria,LI Jie,3,0,"11,14,12|7,12,10",,OTHER,WS,473,Qualification,LI Jie (NED),PAVLOVICH Viktoria (BLR)
-ITTF Europe Cup Antibes 2017,2017-02-03,SZOCS Bernadette,LI Qian,3,2,"6,12,11,8,12|11,10,8,11,10",,OTHER,WS,473,Qualification,LI Qian (POL),SZOCS Bernadette (ROU)
-ITTF Europe Cup Antibes 2017,2017-02-03,LI Jie,LI Qian,3,2,"7,6,11,11,12|11,11,9,9,10",,OTHER,WS,473,Qualification,LI Jie (NED),LI Qian (POL)
-ITTF Europe Cup Antibes 2017,2017-02-03,SZOCS Bernadette,PAVLOVICH Viktoria,3,1,"11,11,8,13|4,6,11,11",,OTHER,WS,473,Qualification,PAVLOVICH Viktoria (BLR),SZOCS Bernadette (ROU)
-ITTF Europe Cup Antibes 2017,2017-02-03,LI Qian,PAVLOVICH Viktoria,3,2,"11,11,3,11,11|6,8,11,13,8",,OTHER,WS,473,Qualification,LI Qian (POL),PAVLOVICH Viktoria (BLR)
-ITTF Europe Cup Antibes 2017,2017-02-03,LI Jie,SZOCS Bernadette,3,2,"3,11,11,6,11|11,2,5,11,6",,OTHER,WS,473,Qualification,LI Jie (NED),SZOCS Bernadette (ROU)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+ITTF Europe Cup Antibes 2017,2017-02-03,WINTER Sabine,POTA Georgina,4,3,"11,8,11,6,11,7,11|9,11,2,11,5,11,8",QF,OTHER,WS,473,Main Draw,POTA Georgina (HUN),WINTER Sabine (GER),WINTER Sabine
+ITTF Europe Cup Antibes 2017,2017-02-03,LI Jie,EKHOLM Matilda,4,2,"7,11,11,11,11,11|11,13,5,7,8,9",QF,OTHER,WS,473,Main Draw,EKHOLM Matilda (SWE),LI Jie (NED),LI Jie
+ITTF Europe Cup Antibes 2017,2017-02-03,SOLJA Petrissa,SZOCS Bernadette,4,2,"11,11,6,11,7,11|9,8,11,9,11,6",QF,OTHER,WS,473,Main Draw,SOLJA Petrissa (GER),SZOCS Bernadette (ROU),SOLJA Petrissa
+ITTF Europe Cup Antibes 2017,2017-02-03,LIU Jia,DODEAN Daniela,4,0,"11,11,11,11|6,8,7,7",QF,OTHER,WS,473,Main Draw,DODEAN Daniela (ROU),LIU Jia (AUT),LIU Jia
+ITTF Europe Cup Antibes 2017,2017-02-03,LI Jie,WINTER Sabine,4,2,"5,11,15,9,11,11|11,7,13,11,7,6",SF,OTHER,WS,473,Main Draw,WINTER Sabine (GER),LI Jie (NED),LI Jie
+ITTF Europe Cup Antibes 2017,2017-02-03,SOLJA Petrissa,LIU Jia,4,1,"13,7,11,13,11|11,11,5,11,5",SF,OTHER,WS,473,Main Draw,SOLJA Petrissa (GER),LIU Jia (AUT),SOLJA Petrissa
+ITTF Europe Cup Antibes 2017,2017-02-03,LI Jie,SOLJA Petrissa,4,1,"11,7,11,11,11|7,11,3,6,0",F,OTHER,WS,473,Main Draw,LI Jie (NED),SOLJA Petrissa (GER),LI Jie
+ITTF Europe Cup Antibes 2017,2017-02-03,POTA Georgina,EKHOLM Matilda,4,3,"11,11,10,8,11,9,11|7,9,12,11,9,11,6",5-8,OTHER,WS,473,Position Draw,POTA Georgina (HUN),EKHOLM Matilda (SWE),POTA Georgina
+ITTF Europe Cup Antibes 2017,2017-02-03,SZOCS Bernadette,DODEAN Daniela,4,3,"11,4,9,6,11,11,12|8,11,11,11,9,8,10",5-8,OTHER,WS,473,Position Draw,SZOCS Bernadette (ROU),DODEAN Daniela (ROU),SZOCS Bernadette
+ITTF Europe Cup Antibes 2017,2017-02-03,POTA Georgina,SZOCS Bernadette,4,0,,3RD,OTHER,WS,473,Position Draw,POTA Georgina (HUN),SZOCS Bernadette (ROU),POTA Georgina
+ITTF Europe Cup Antibes 2017,2017-02-03,EKHOLM Matilda,DODEAN Daniela,4,2,"11,11,8,12,7,11|8,9,11,10,11,6",3RD,OTHER,WS,473,Position Draw,EKHOLM Matilda (SWE),DODEAN Daniela (ROU),EKHOLM Matilda
+ITTF Europe Cup Antibes 2017,2017-02-03,WINTER Sabine,LIU Jia,4,3,"11,8,11,11,2,7,11|6,11,8,5,11,11,9",3RD,OTHER,WS,473,Position Draw,WINTER Sabine (GER),LIU Jia (AUT),WINTER Sabine
+ITTF Europe Cup Antibes 2017,2017-02-03,OVTCHAROV Dimitrij,FEGERL Stefan,4,0,"11,11,11,11|4,8,5,9",QF,OTHER,MS,473,Main Draw,OVTCHAROV Dimitrij (GER),FEGERL Stefan (AUT),OVTCHAROV Dimitrij
+ITTF Europe Cup Antibes 2017,2017-02-03,KOU Lei,GACINA Andrej,4,3,"11,11,8,9,11,8,11|7,7,11,11,9,11,6",QF,OTHER,MS,473,Main Draw,KOU Lei (UKR),GACINA Andrej (CRO),KOU Lei
+ITTF Europe Cup Antibes 2017,2017-02-03,GAUZY Simon,BOLL Timo,4,2,"11,3,4,11,11,11|8,11,11,7,8,7",QF,OTHER,MS,473,Main Draw,BOLL Timo (GER),GAUZY Simon (FRA),GAUZY Simon
+ITTF Europe Cup Antibes 2017,2017-02-03,SHIBAEV Alexander,APOLONIA Tiago,4,3,"11,5,9,11,11,10,11|5,11,11,8,7,12,5",QF,OTHER,MS,473,Main Draw,SHIBAEV Alexander (RUS),APOLONIA Tiago (POR),SHIBAEV Alexander
+ITTF Europe Cup Antibes 2017,2017-02-03,OVTCHAROV Dimitrij,KOU Lei,4,3,"11,11,11,10,3,2,11|8,9,8,12,11,11,6",SF,OTHER,MS,473,Main Draw,OVTCHAROV Dimitrij (GER),KOU Lei (UKR),OVTCHAROV Dimitrij
+ITTF Europe Cup Antibes 2017,2017-02-03,SHIBAEV Alexander,GAUZY Simon,4,2,"11,11,8,12,8,11|7,9,11,10,11,9",SF,OTHER,MS,473,Main Draw,GAUZY Simon (FRA),SHIBAEV Alexander (RUS),SHIBAEV Alexander
+ITTF Europe Cup Antibes 2017,2017-02-03,OVTCHAROV Dimitrij,SHIBAEV Alexander,4,2,"11,12,11,11,11,11|8,14,5,13,8,8",F,OTHER,MS,473,Main Draw,OVTCHAROV Dimitrij (GER),SHIBAEV Alexander (RUS),OVTCHAROV Dimitrij
+ITTF Europe Cup Antibes 2017,2017-02-03,GACINA Andrej,FEGERL Stefan,4,3,"11,6,11,11,6,8,11|9,11,6,8,11,11,7",5-8,OTHER,MS,473,Position Draw,FEGERL Stefan (AUT),GACINA Andrej (CRO),GACINA Andrej
+ITTF Europe Cup Antibes 2017,2017-02-03,BOLL Timo,APOLONIA Tiago,4,1,"11,8,11,11,15|9,11,9,4,13",5-8,OTHER,MS,473,Position Draw,BOLL Timo (GER),APOLONIA Tiago (POR),BOLL Timo
+ITTF Europe Cup Antibes 2017,2017-02-03,BOLL Timo,GACINA Andrej,4,0,"11,11,13,11|5,8,11,3",3RD,OTHER,MS,473,Position Draw,GACINA Andrej (CRO),BOLL Timo (GER),BOLL Timo
+ITTF Europe Cup Antibes 2017,2017-02-03,APOLONIA Tiago,FEGERL Stefan,4,0,"11,11,11,11|4,8,7,8",3RD,OTHER,MS,473,Position Draw,FEGERL Stefan (AUT),APOLONIA Tiago (POR),APOLONIA Tiago
+ITTF Europe Cup Antibes 2017,2017-02-03,GAUZY Simon,KOU Lei,4,0,"11,11,11,16|6,3,9,14",3RD,OTHER,MS,473,Position Draw,KOU Lei (UKR),GAUZY Simon (FRA),GAUZY Simon
+ITTF Europe Cup Antibes 2017,2017-02-03,OVTCHAROV Dimitrij,MONTEIRO Joao,3,1,"11,8,11,11|3,11,5,9",,OTHER,MS,473,Qualification,OVTCHAROV Dimitrij (GER),MONTEIRO Joao (POR),OVTCHAROV Dimitrij
+ITTF Europe Cup Antibes 2017,2017-02-03,GAUZY Simon,GROTH Jonathan,3,2,"11,9,11,7,11|7,11,4,11,8",,OTHER,MS,473,Qualification,GAUZY Simon (FRA),GROTH Jonathan (DEN),GAUZY Simon
+ITTF Europe Cup Antibes 2017,2017-02-03,OVTCHAROV Dimitrij,GAUZY Simon,3,2,"7,5,11,11,11|11,11,9,9,6",,OTHER,MS,473,Qualification,OVTCHAROV Dimitrij (GER),GAUZY Simon (FRA),OVTCHAROV Dimitrij
+ITTF Europe Cup Antibes 2017,2017-02-03,GROTH Jonathan,MONTEIRO Joao,3,1,"11,11,6,11|7,6,11,7",,OTHER,MS,473,Qualification,MONTEIRO Joao (POR),GROTH Jonathan (DEN),GROTH Jonathan
+ITTF Europe Cup Antibes 2017,2017-02-03,GAUZY Simon,MONTEIRO Joao,3,1,"1,11,11,11|11,5,6,8",,OTHER,MS,473,Qualification,GAUZY Simon (FRA),MONTEIRO Joao (POR),GAUZY Simon
+ITTF Europe Cup Antibes 2017,2017-02-03,OVTCHAROV Dimitrij,GROTH Jonathan,3,2,"11,8,11,9,13|5,11,5,11,11",,OTHER,MS,473,Qualification,OVTCHAROV Dimitrij (GER),GROTH Jonathan (DEN),OVTCHAROV Dimitrij
+ITTF Europe Cup Antibes 2017,2017-02-03,LEBESSON Emmanuel,SAMSONOV Vladimir,3,2,"13,11,6,11,11|15,4,11,6,9",,OTHER,MS,473,Qualification,SAMSONOV Vladimir (BLR),LEBESSON Emmanuel (FRA),LEBESSON Emmanuel
+ITTF Europe Cup Antibes 2017,2017-02-03,APOLONIA Tiago,KOU Lei,3,2,"8,11,11,9,11|11,7,9,11,7",,OTHER,MS,473,Qualification,APOLONIA Tiago (POR),KOU Lei (UKR),APOLONIA Tiago
+ITTF Europe Cup Antibes 2017,2017-02-03,APOLONIA Tiago,SAMSONOV Vladimir,3,1,"12,8,11,15|10,11,5,13",,OTHER,MS,473,Qualification,SAMSONOV Vladimir (BLR),APOLONIA Tiago (POR),APOLONIA Tiago
+ITTF Europe Cup Antibes 2017,2017-02-03,KOU Lei,LEBESSON Emmanuel,3,0,"11,11,11|8,9,3",,OTHER,MS,473,Qualification,LEBESSON Emmanuel (FRA),KOU Lei (UKR),KOU Lei
+ITTF Europe Cup Antibes 2017,2017-02-03,APOLONIA Tiago,LEBESSON Emmanuel,3,1,"11,3,11,11|6,11,5,4",,OTHER,MS,473,Qualification,APOLONIA Tiago (POR),LEBESSON Emmanuel (FRA),APOLONIA Tiago
+ITTF Europe Cup Antibes 2017,2017-02-03,KOU Lei,SAMSONOV Vladimir,3,0,"11,11,11|9,9,7",,OTHER,MS,473,Qualification,SAMSONOV Vladimir (BLR),KOU Lei (UKR),KOU Lei
+ITTF Europe Cup Antibes 2017,2017-02-03,BOLL Timo,KARLSSON Mattias,3,2,"11,9,7,11,11|3,11,11,3,9",,OTHER,MS,473,Qualification,BOLL Timo (GER),KARLSSON Mattias (SWE),BOLL Timo
+ITTF Europe Cup Antibes 2017,2017-02-03,FEGERL Stefan,GIONIS Panagiotis,3,2,"7,11,12,5,11|11,5,10,11,9",,OTHER,MS,473,Qualification,FEGERL Stefan (AUT),GIONIS Panagiotis (GRE),FEGERL Stefan
+ITTF Europe Cup Antibes 2017,2017-02-03,BOLL Timo,FEGERL Stefan,3,1,"9,11,11,11|11,3,5,8",,OTHER,MS,473,Qualification,BOLL Timo (GER),FEGERL Stefan (AUT),BOLL Timo
+ITTF Europe Cup Antibes 2017,2017-02-03,GIONIS Panagiotis,KARLSSON Mattias,3,0,"11,11,13|5,9,11",,OTHER,MS,473,Qualification,KARLSSON Mattias (SWE),GIONIS Panagiotis (GRE),GIONIS Panagiotis
+ITTF Europe Cup Antibes 2017,2017-02-03,FEGERL Stefan,KARLSSON Mattias,3,2,"11,11,9,13,11|5,5,11,15,9",,OTHER,MS,473,Qualification,FEGERL Stefan (AUT),KARLSSON Mattias (SWE),FEGERL Stefan
+ITTF Europe Cup Antibes 2017,2017-02-03,BOLL Timo,GIONIS Panagiotis,3,0,"11,11,11|6,6,7",,OTHER,MS,473,Qualification,BOLL Timo (GER),GIONIS Panagiotis (GRE),BOLL Timo
+ITTF Europe Cup Antibes 2017,2017-02-03,GACINA Andrej,FREITAS Marcos,3,0,"11,11,11|9,7,3",,OTHER,MS,473,Qualification,FREITAS Marcos (POR),GACINA Andrej (CRO),GACINA Andrej
+ITTF Europe Cup Antibes 2017,2017-02-03,SHIBAEV Alexander,KARLSSON Kristian,3,1,"11,3,11,11|9,11,6,8",,OTHER,MS,473,Qualification,KARLSSON Kristian (SWE),SHIBAEV Alexander (RUS),SHIBAEV Alexander
+ITTF Europe Cup Antibes 2017,2017-02-03,FREITAS Marcos,KARLSSON Kristian,3,0,"12,11,11|10,4,8",,OTHER,MS,473,Qualification,FREITAS Marcos (POR),KARLSSON Kristian (SWE),FREITAS Marcos
+ITTF Europe Cup Antibes 2017,2017-02-03,GACINA Andrej,SHIBAEV Alexander,3,2,"11,7,11,10,11|4,11,4,12,2",,OTHER,MS,473,Qualification,GACINA Andrej (CRO),SHIBAEV Alexander (RUS),GACINA Andrej
+ITTF Europe Cup Antibes 2017,2017-02-03,KARLSSON Kristian,GACINA Andrej,3,1,"13,8,11,11|11,11,8,8",,OTHER,MS,473,Qualification,KARLSSON Kristian (SWE),GACINA Andrej (CRO),KARLSSON Kristian
+ITTF Europe Cup Antibes 2017,2017-02-03,SHIBAEV Alexander,FREITAS Marcos,3,2,"11,8,9,13,13|8,11,11,11,11",,OTHER,MS,473,Qualification,FREITAS Marcos (POR),SHIBAEV Alexander (RUS),SHIBAEV Alexander
+ITTF Europe Cup Antibes 2017,2017-02-03,DODEAN Daniela,HU Melek,3,0,"13,11,11|11,8,9",,OTHER,WS,473,Qualification,HU Melek (TUR),DODEAN Daniela (ROU),DODEAN Daniela
+ITTF Europe Cup Antibes 2017,2017-02-03,POTA Georgina,POLCANOVA Sofia,3,2,"11,5,12,8,12|4,11,10,11,10",,OTHER,WS,473,Qualification,POTA Georgina (HUN),POLCANOVA Sofia (AUT),POTA Georgina
+ITTF Europe Cup Antibes 2017,2017-02-03,HU Melek,POTA Georgina,3,2,"18,13,11,11,12|16,15,9,13,10",,OTHER,WS,473,Qualification,HU Melek (TUR),POTA Georgina (HUN),HU Melek
+ITTF Europe Cup Antibes 2017,2017-02-03,DODEAN Daniela,POLCANOVA Sofia,3,2,"11,7,11,6,11|9,11,8,11,5",,OTHER,WS,473,Qualification,DODEAN Daniela (ROU),POLCANOVA Sofia (AUT),DODEAN Daniela
+ITTF Europe Cup Antibes 2017,2017-02-03,POTA Georgina,DODEAN Daniela,3,2,"11,6,7,11,11|8,11,11,5,8",,OTHER,WS,473,Qualification,POTA Georgina (HUN),DODEAN Daniela (ROU),POTA Georgina
+ITTF Europe Cup Antibes 2017,2017-02-03,POLCANOVA Sofia,HU Melek,3,1,"11,5,11,11|8,11,3,7",,OTHER,WS,473,Qualification,HU Melek (TUR),POLCANOVA Sofia (AUT),POLCANOVA Sofia
+ITTF Europe Cup Antibes 2017,2017-02-03,LIU Jia,MIKHAILOVA Polina,3,1,"9,11,11,15|11,7,7,13",,OTHER,WS,473,Qualification,LIU Jia (AUT),MIKHAILOVA Polina (RUS),LIU Jia
+ITTF Europe Cup Antibes 2017,2017-02-03,WINTER Sabine,VARADY Barbora,3,2,"7,11,12,12,11|11,7,10,14,9",,OTHER,WS,473,Qualification,WINTER Sabine (GER),VARADY Barbora (SVK),WINTER Sabine
+ITTF Europe Cup Antibes 2017,2017-02-03,LIU Jia,WINTER Sabine,3,2,"11,4,11,9,11|7,11,4,11,7",,OTHER,WS,473,Qualification,LIU Jia (AUT),WINTER Sabine (GER),LIU Jia
+ITTF Europe Cup Antibes 2017,2017-02-03,VARADY Barbora,MIKHAILOVA Polina,3,0,"11,11,11|4,2,9",,OTHER,WS,473,Qualification,MIKHAILOVA Polina (RUS),VARADY Barbora (SVK),VARADY Barbora
+ITTF Europe Cup Antibes 2017,2017-02-03,WINTER Sabine,MIKHAILOVA Polina,3,0,"12,11,11|10,4,2",,OTHER,WS,473,Qualification,WINTER Sabine (GER),MIKHAILOVA Polina (RUS),WINTER Sabine
+ITTF Europe Cup Antibes 2017,2017-02-03,LIU Jia,VARADY Barbora,3,2,"9,10,11,11,11|11,12,7,9,6",,OTHER,WS,473,Qualification,LIU Jia (AUT),VARADY Barbora (SVK),LIU Jia
+ITTF Europe Cup Antibes 2017,2017-02-03,SOLJA Petrissa,BILENKO Tetyana,3,2,"8,11,8,11,11|11,8,11,7,6",,OTHER,WS,473,Qualification,SOLJA Petrissa (GER),BILENKO Tetyana (UKR),SOLJA Petrissa
+ITTF Europe Cup Antibes 2017,2017-02-03,EKHOLM Matilda,LOEUILLETTE Stephanie,3,1,"8,11,14,11|11,6,12,4",,OTHER,WS,473,Qualification,EKHOLM Matilda (SWE),LOEUILLETTE Stephanie (FRA),EKHOLM Matilda
+ITTF Europe Cup Antibes 2017,2017-02-03,SOLJA Petrissa,EKHOLM Matilda,3,1,"11,12,8,11|6,10,11,5",,OTHER,WS,473,Qualification,SOLJA Petrissa (GER),EKHOLM Matilda (SWE),SOLJA Petrissa
+ITTF Europe Cup Antibes 2017,2017-02-03,BILENKO Tetyana,LOEUILLETTE Stephanie,3,2,"11,7,5,11,11|9,11,11,7,8",,OTHER,WS,473,Qualification,BILENKO Tetyana (UKR),LOEUILLETTE Stephanie (FRA),BILENKO Tetyana
+ITTF Europe Cup Antibes 2017,2017-02-03,EKHOLM Matilda,BILENKO Tetyana,3,0,"11,11,11|7,8,7",,OTHER,WS,473,Qualification,EKHOLM Matilda (SWE),BILENKO Tetyana (UKR),EKHOLM Matilda
+ITTF Europe Cup Antibes 2017,2017-02-03,SOLJA Petrissa,LOEUILLETTE Stephanie,3,0,"11,11,11|4,6,8",,OTHER,WS,473,Qualification,SOLJA Petrissa (GER),LOEUILLETTE Stephanie (FRA),SOLJA Petrissa
+ITTF Europe Cup Antibes 2017,2017-02-03,PAVLOVICH Viktoria,LI Jie,3,0,"11,14,12|7,12,10",,OTHER,WS,473,Qualification,LI Jie (NED),PAVLOVICH Viktoria (BLR),PAVLOVICH Viktoria
+ITTF Europe Cup Antibes 2017,2017-02-03,SZOCS Bernadette,LI Qian,3,2,"6,12,11,8,12|11,10,8,11,10",,OTHER,WS,473,Qualification,LI Qian (POL),SZOCS Bernadette (ROU),SZOCS Bernadette
+ITTF Europe Cup Antibes 2017,2017-02-03,LI Jie,LI Qian,3,2,"7,6,11,11,12|11,11,9,9,10",,OTHER,WS,473,Qualification,LI Jie (NED),LI Qian (POL),LI Jie
+ITTF Europe Cup Antibes 2017,2017-02-03,SZOCS Bernadette,PAVLOVICH Viktoria,3,1,"11,11,8,13|4,6,11,11",,OTHER,WS,473,Qualification,PAVLOVICH Viktoria (BLR),SZOCS Bernadette (ROU),SZOCS Bernadette
+ITTF Europe Cup Antibes 2017,2017-02-03,LI Qian,PAVLOVICH Viktoria,3,2,"11,11,3,11,11|6,8,11,13,8",,OTHER,WS,473,Qualification,LI Qian (POL),PAVLOVICH Viktoria (BLR),LI Qian
+ITTF Europe Cup Antibes 2017,2017-02-03,LI Jie,SZOCS Bernadette,3,2,"3,11,11,6,11|11,2,5,11,6",,OTHER,WS,473,Qualification,LI Jie (NED),SZOCS Bernadette (ROU),LI Jie

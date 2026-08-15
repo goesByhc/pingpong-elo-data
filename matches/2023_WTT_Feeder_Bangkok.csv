@@ -1,183 +1,183 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-WTT Feeder Bangkok 2023,2023-09-04,ZHU Jiaqi,BOONSIRIWATCHARAKUL Chonlasith,3,1,"8,11,11,11|11,3,9,7",GROUP,WTT_FEEDER,MS,2740,Main Draw,ZHU Jiaqi (CHN),BOONSIRIWATCHARAKUL Chonlasith (THA)
-WTT Feeder Bangkok 2023,2023-09-04,KIM Yanghyun,YATAWANON Wasaphon,3,1,"11,4,11,11|9,11,9,8",GROUP,WTT_FEEDER,MS,2740,Main Draw,KIM Yanghyun (KOR),YATAWANON Wasaphon (THA)
-WTT Feeder Bangkok 2023,2023-09-04,KWAK Yu Bin,SUSILO Braydon,3,0,"11,11,11|5,5,8",GROUP,WTT_FEEDER,MS,2740,Main Draw,KWAK Yu Bin (KOR),SUSILO Braydon (INA)
-WTT Feeder Bangkok 2023,2023-09-04,YOSHIMURA Kazuhiro,SHI Cancheng,3,0,"11,11,11|8,6,8",GROUP,WTT_FEEDER,MS,2740,Main Draw,YOSHIMURA Kazuhiro (JPN),SHI Cancheng (CHN)
-WTT Feeder Bangkok 2023,2023-09-04,SEO Hyeonwoo,YAMLEEMUL Pongspat,3,0,"11,11,11|7,4,6",GROUP,WTT_FEEDER,MS,2740,Main Draw,SEO Hyeonwoo (KOR),YAMLEEMUL Pongspat (THA)
-WTT Feeder Bangkok 2023,2023-09-04,SONE Kakeru,MITRA Abhimanyu,3,0,"11,11,11|5,6,8",GROUP,WTT_FEEDER,MS,2740,Main Draw,SONE Kakeru (JPN),MITRA Abhimanyu (IND)
-WTT Feeder Bangkok 2023,2023-09-04,SAEOU Tieanchai,LIAUW Felix,3,0,"11,11,11|4,4,7",GROUP,WTT_FEEDER,MS,2740,Main Draw,SAEOU Tieanchai (THA),LIAUW Felix (INA)
-WTT Feeder Bangkok 2023,2023-09-04,SUN Yang,RATSAMIPLANG Ratchaphon,3,0,"11,11,11|4,4,3",GROUP,WTT_FEEDER,MS,2740,Main Draw,SUN Yang (CHN),RATSAMIPLANG Ratchaphon (THA)
-WTT Feeder Bangkok 2023,2023-09-04,YOKOTANI Jo,SOIPHUANG Nimit,3,0,"11,14,11|1,12,4",GROUP,WTT_FEEDER,MS,2740,Main Draw,YOKOTANI Jo (JPN),SOIPHUANG Nimit (THA)
-WTT Feeder Bangkok 2023,2023-09-04,YATAWANON Wasaphon/YAMLEEMUL Pongspat,BOONSIRIWATCHARAKUL Chonlasith/AUKADECHCHAIKUL Sittipol,3,1,"12,11,9,11|10,7,11,9",QR1,WTT_FEEDER,MD,2740,Qualification,YATAWANON Wasaphon/YAMLEEMUL Pongspat (THA),BOONSIRIWATCHARAKUL Chonlasith/AUKADECHCHAIKUL Sittipol (THA)
-WTT Feeder Bangkok 2023,2023-09-04,KIM Minhyeok/KWAK Yu Bin,SEO Hyeonwoo/KIM Munsu,3,0,"11,11,11|6,6,4",QR1,WTT_FEEDER,MD,2740,Qualification,KIM Minhyeok/KWAK Yu Bin (KOR),SEO Hyeonwoo/KIM Munsu (KOR)
-WTT Feeder Bangkok 2023,2023-09-04,KIM Minhyeok,MITRA Abhimanyu,3,1,"10,11,12,11|12,5,10,3",GROUP,WTT_FEEDER,MS,2740,Main Draw,KIM Minhyeok (KOR),MITRA Abhimanyu (IND)
-WTT Feeder Bangkok 2023,2023-09-04,SHI Cancheng,SEO Hyeonwoo,3,0,"11,11,11|8,7,9",GROUP,WTT_FEEDER,MS,2740,Main Draw,SHI Cancheng (CHN),SEO Hyeonwoo (KOR)
-WTT Feeder Bangkok 2023,2023-09-04,YOSHIMURA Kazuhiro,YAMLEEMUL Pongspat,3,0,"11,11,11|4,3,6",GROUP,WTT_FEEDER,MS,2740,Main Draw,YOSHIMURA Kazuhiro (JPN),YAMLEEMUL Pongspat (THA)
-WTT Feeder Bangkok 2023,2023-09-04,KIM Daewoo,YOKOTANI Jo,3,1,"11,11,9,11|8,7,11,7",GROUP,WTT_FEEDER,MS,2740,Main Draw,KIM Daewoo (KOR),YOKOTANI Jo (JPN)
-WTT Feeder Bangkok 2023,2023-09-04,KWAK Yu Bin,BOONSIRIWATCHARAKUL Chonlasith,3,0,"11,11,11|8,8,2",GROUP,WTT_FEEDER,MS,2740,Main Draw,KWAK Yu Bin (KOR),BOONSIRIWATCHARAKUL Chonlasith (THA)
-WTT Feeder Bangkok 2023,2023-09-04,ZHU Jiaqi,SUSILO Braydon,3,0,"12,11,11|10,4,6",GROUP,WTT_FEEDER,MS,2740,Main Draw,ZHU Jiaqi (CHN),SUSILO Braydon (INA)
-WTT Feeder Bangkok 2023,2023-09-04,KIM Munsu,LIAUW Felix,3,0,"11,11,11|5,9,6",GROUP,WTT_FEEDER,MS,2740,Main Draw,KIM Munsu (KOR),LIAUW Felix (INA)
-WTT Feeder Bangkok 2023,2023-09-04,KIM Yanghyun,FONG Jay Shern,3,0,"14,11,11|12,7,6",GROUP,WTT_FEEDER,MS,2740,Main Draw,KIM Yanghyun (KOR),FONG Jay Shern (MAS)
-WTT Feeder Bangkok 2023,2023-09-04,CHO Sangyeon,RATSAMIPLANG Ratchaphon,3,0,"11,14,11|2,12,9",GROUP,WTT_FEEDER,MS,2740,Main Draw,CHO Sangyeon (KOR),RATSAMIPLANG Ratchaphon (THA)
-WTT Feeder Bangkok 2023,2023-09-04,SAEOU Tieanchai/DIKAENG Natsima,YAMLEEMUL Pongspat/PANKHAOYOY Supamas,3,2,"5,11,7,11,11|11,9,11,7,7",QR1,WTT_FEEDER,XD,2740,Qualification,SAEOU Tieanchai/DIKAENG Natsima (THA),YAMLEEMUL Pongspat/PANKHAOYOY Supamas (THA)
-WTT Feeder Bangkok 2023,2023-09-04,KIM Daewoo/SIM Hyunju,MITRA Abhimanyu/GOEL Radhapriya,3,1,"11,11,9,11|3,6,11,7",QR1,WTT_FEEDER,XD,2740,Qualification,KIM Daewoo/SIM Hyunju (KOR),MITRA Abhimanyu/GOEL Radhapriya (IND)
-WTT Feeder Bangkok 2023,2023-09-04,PAL Akash/BAISYA Poymantee,GOMBOS Ludovic/KE Tiffany,3,1,"11,12,11,11|8,10,13,5",QR1,WTT_FEEDER,XD,2740,Qualification,PAL Akash/BAISYA Poymantee (IND),GOMBOS Ludovic/KE Tiffany (USA)
-WTT Feeder Bangkok 2023,2023-09-04,GHOSH Anirban/AMRUTE Shruti Vijay,THANMATHIKOM Tanapat/SREECHAK Wiranchana,3,2,"7,11,6,11,11|11,4,11,4,5",QR1,WTT_FEEDER,XD,2740,Qualification,GHOSH Anirban/AMRUTE Shruti Vijay (IND),THANMATHIKOM Tanapat/SREECHAK Wiranchana (THA)
-WTT Feeder Bangkok 2023,2023-09-04,CHEN Junsong/FAN Shuhan,YANG Chia-An/CHENG Hsien-Tzu,3,1,"11,11,8,11|9,9,11,3",QR1,WTT_FEEDER,XD,2740,Qualification,CHEN Junsong/FAN Shuhan (CHN),YANG Chia-An/CHENG Hsien-Tzu (TPE)
-WTT Feeder Bangkok 2023,2023-09-05,KWAK Yu Bin,ZHU Jiaqi,3,1,"7,14,11,12|11,12,5,10",GROUP,WTT_FEEDER,MS,2740,Main Draw,KWAK Yu Bin (KOR),ZHU Jiaqi (CHN)
-WTT Feeder Bangkok 2023,2023-09-05,YOSHIMURA Kazuhiro,SEO Hyeonwoo,3,0,"11,11,11|9,1,9",GROUP,WTT_FEEDER,MS,2740,Main Draw,YOSHIMURA Kazuhiro (JPN),SEO Hyeonwoo (KOR)
-WTT Feeder Bangkok 2023,2023-09-05,SHI Cancheng,YAMLEEMUL Pongspat,3,0,"11,11,11|4,3,4",GROUP,WTT_FEEDER,MS,2740,Main Draw,SHI Cancheng (CHN),YAMLEEMUL Pongspat (THA)
-WTT Feeder Bangkok 2023,2023-09-05,SUN Yang,CHO Sangyeon,3,0,"11,11,11|5,7,7",GROUP,WTT_FEEDER,MS,2740,Main Draw,SUN Yang (CHN),CHO Sangyeon (KOR)
-WTT Feeder Bangkok 2023,2023-09-05,BOONSIRIWATCHARAKUL Chonlasith,SUSILO Braydon,3,2,"11,7,9,12,11|8,11,11,10,8",GROUP,WTT_FEEDER,MS,2740,Main Draw,BOONSIRIWATCHARAKUL Chonlasith (THA),SUSILO Braydon (INA)
-WTT Feeder Bangkok 2023,2023-09-05,FONG Jay Shern,YATAWANON Wasaphon,3,1,"11,11,8,11|3,1,11,8",GROUP,WTT_FEEDER,MS,2740,Main Draw,FONG Jay Shern (MAS),YATAWANON Wasaphon (THA)
-WTT Feeder Bangkok 2023,2023-09-05,SONE Kakeru,KIM Minhyeok,3,2,"6,11,11,6,11|11,6,9,11,7",GROUP,WTT_FEEDER,MS,2740,Main Draw,SONE Kakeru (JPN),KIM Minhyeok (KOR)
-WTT Feeder Bangkok 2023,2023-09-05,KIM Daewoo,SOIPHUANG Nimit,3,2,"11,5,11,6,11|6,11,6,11,1",GROUP,WTT_FEEDER,MS,2740,Main Draw,KIM Daewoo (KOR),SOIPHUANG Nimit (THA)
-WTT Feeder Bangkok 2023,2023-09-05,KIM Munsu,SAEOU Tieanchai,3,0,"11,11,11|9,9,5",GROUP,WTT_FEEDER,MS,2740,Main Draw,KIM Munsu (KOR),SAEOU Tieanchai (THA)
-WTT Feeder Bangkok 2023,2023-09-05,PANKHAOYOY Supamas/DIKAENG Natsima,SREECHAK Wiranchana/WONGLAPASSAKUL Kullarat,3,1,"11,4,11,11|8,11,9,5",QR1,WTT_FEEDER,WD,2740,Qualification,PANKHAOYOY Supamas/DIKAENG Natsima (THA),SREECHAK Wiranchana/WONGLAPASSAKUL Kullarat (THA)
-WTT Feeder Bangkok 2023,2023-09-05,MANI Nithya/GOEL Radhapriya,CHANTANA Thanwarat/DERUJIJAROEN Khemisarar,3,1,"8,11,11,11|11,5,6,9",QR1,WTT_FEEDER,WD,2740,Qualification,MANI Nithya/GOEL Radhapriya (IND),CHANTANA Thanwarat/DERUJIJAROEN Khemisarar (THA)
-WTT Feeder Bangkok 2023,2023-09-05,KIM Yanghyun/CHO Sangyeon,SAEOU Tieanchai/RATSAMIPLANG Ratchaphon,3,0,"11,11,11|8,7,9",QR2,WTT_FEEDER,MD,2740,Qualification,KIM Yanghyun/CHO Sangyeon (KOR),SAEOU Tieanchai/RATSAMIPLANG Ratchaphon (THA)
-WTT Feeder Bangkok 2023,2023-09-05,CHOI Inhyeok/KIM Daewoo,KIM Minhyeok/KWAK Yu Bin,3,0,"11,12,11|7,10,9",QR2,WTT_FEEDER,MD,2740,Qualification,CHOI Inhyeok/KIM Daewoo (KOR),KIM Minhyeok/KWAK Yu Bin (KOR)
-WTT Feeder Bangkok 2023,2023-09-05,PAL Akash/MITRA Abhimanyu,SUSILO Braydon/LIAUW Felix,3,0,"11,11,11|4,6,2",QR2,WTT_FEEDER,MD,2740,Qualification,PAL Akash/MITRA Abhimanyu (IND),SUSILO Braydon/LIAUW Felix (INA)
-WTT Feeder Bangkok 2023,2023-09-05,CHEN Junsong/ZHU Jiaqi,YATAWANON Wasaphon/YAMLEEMUL Pongspat,3,0,"11,11,11|4,4,3",QR2,WTT_FEEDER,MD,2740,Qualification,CHEN Junsong/ZHU Jiaqi (CHN),YATAWANON Wasaphon/YAMLEEMUL Pongspat (THA)
-WTT Feeder Bangkok 2023,2023-09-05,GHOSH Anirban/AMRUTE Shruti Vijay,PRASONGPOL Nawachet/TAYAPITAK Wirakarn,3,1,"11,11,8,11|5,7,11,9",QR2,WTT_FEEDER,XD,2740,Qualification,GHOSH Anirban/AMRUTE Shruti Vijay (IND),PRASONGPOL Nawachet/TAYAPITAK Wirakarn (THA)
-WTT Feeder Bangkok 2023,2023-09-05,KIM Daewoo/SIM Hyunju,PAL Akash/BAISYA Poymantee,3,2,"12,3,11,3,11|10,11,4,11,6",QR2,WTT_FEEDER,XD,2740,Qualification,KIM Daewoo/SIM Hyunju (KOR),PAL Akash/BAISYA Poymantee (IND)
-WTT Feeder Bangkok 2023,2023-09-05,CHEN Junsong/FAN Shuhan,PARK Chan-Hyeok/LEE Daeun,3,1,"11,4,11,13|2,11,8,11",QR2,WTT_FEEDER,XD,2740,Qualification,CHEN Junsong/FAN Shuhan (CHN),PARK Chan-Hyeok/LEE Daeun (KOR)
-WTT Feeder Bangkok 2023,2023-09-05,LI Hsin-Yang/CHEN Ying-Chen,SAEOU Tieanchai/DIKAENG Natsima,3,0,"11,11,11|3,7,7",QR2,WTT_FEEDER,XD,2740,Qualification,LI Hsin-Yang/CHEN Ying-Chen (TPE),SAEOU Tieanchai/DIKAENG Natsima (THA)
-WTT Feeder Bangkok 2023,2023-09-06,SAELEE Puripong,CHUA Josh Shao Han,3,2,"8,6,11,11,11|11,11,6,9,8",R64,WTT_FEEDER,MS,2740,Main Draw,SAELEE Puripong (THA),CHUA Josh Shao Han (SGP)
-WTT Feeder Bangkok 2023,2023-09-06,YOSHIMURA Kazuhiro,CHOI Inhyeok,3,2,"5,11,11,5,11|11,9,5,11,9",R64,WTT_FEEDER,MS,2740,Main Draw,YOSHIMURA Kazuhiro (JPN),CHOI Inhyeok (KOR)
-WTT Feeder Bangkok 2023,2023-09-06,KIM Yanghyun,MAUNGWHAN Chayaduj,3,0,"11,13,13|9,11,11",R64,WTT_FEEDER,MS,2740,Main Draw,KIM Yanghyun (KOR),MAUNGWHAN Chayaduj (THA)
-WTT Feeder Bangkok 2023,2023-09-06,PARK Chan-Hyeok,DANI Mudit,3,0,"11,11,11|2,7,5",R64,WTT_FEEDER,MS,2740,Main Draw,PARK Chan-Hyeok (KOR),DANI Mudit (IND)
-WTT Feeder Bangkok 2023,2023-09-06,LI Hsin-Yang,CHANDRA Jeet,3,0,"11,11,11|7,9,7",R64,WTT_FEEDER,MS,2740,Main Draw,LI Hsin-Yang (TPE),CHANDRA Jeet (IND)
-WTT Feeder Bangkok 2023,2023-09-06,GHOSH Anirban,CHOY Chun Kit,3,1,"11,12,9,11|9,10,11,5",R64,WTT_FEEDER,MS,2740,Main Draw,GHOSH Anirban (IND),CHOY Chun Kit (HKG)
-WTT Feeder Bangkok 2023,2023-09-06,KONG Tsz Lam,KOLA Nanapat,3,2,"11,11,6,9,11|7,6,11,11,9",R64,WTT_FEEDER,WS,2740,Main Draw,KONG Tsz Lam (HKG),KOLA Nanapat (THA)
-WTT Feeder Bangkok 2023,2023-09-06,KIM Taehyun,SHETTY Sanil,3,1,"11,8,11,11|7,11,7,8",R64,WTT_FEEDER,MS,2740,Main Draw,KIM Taehyun (AUT),SHETTY Sanil (IND)
-WTT Feeder Bangkok 2023,2023-09-06,PAU Yik Man,GOMBOS Ludovic,3,0,"11,11,11|6,1,6",R64,WTT_FEEDER,MS,2740,Main Draw,PAU Yik Man (HKG),GOMBOS Ludovic (USA)
-WTT Feeder Bangkok 2023,2023-09-06,HUANG Yu-Chiao,BAISYA Poymantee,3,1,"8,11,11,11|11,8,8,7",R64,WTT_FEEDER,WS,2740,Main Draw,HUANG Yu-Chiao (TPE),BAISYA Poymantee (IND)
-WTT Feeder Bangkok 2023,2023-09-06,KIM Seoyun,CHANTANA Thanwarat,3,0,"11,11,11|4,3,2",R64,WTT_FEEDER,WS,2740,Main Draw,KIM Seoyun (KOR),CHANTANA Thanwarat (THA)
-WTT Feeder Bangkok 2023,2023-09-06,SUN Sinan,CHEN Ying-Chen,3,2,"11,11,9,5,12|6,5,11,11,10",R64,WTT_FEEDER,WS,2740,Main Draw,SUN Sinan (CHN),CHEN Ying-Chen (TPE)
-WTT Feeder Bangkok 2023,2023-09-06,CHENG Hsien-Tzu,SIM Hyunju,3,0,"11,11,11|4,6,8",R64,WTT_FEEDER,WS,2740,Main Draw,CHENG Hsien-Tzu (TPE),SIM Hyunju (KOR)
-WTT Feeder Bangkok 2023,2023-09-06,GHOSH Swastika,SREECHAK Wiranchana,3,1,"6,11,11,11|11,9,4,8",R64,WTT_FEEDER,WS,2740,Main Draw,GHOSH Swastika (IND),SREECHAK Wiranchana (THA)
-WTT Feeder Bangkok 2023,2023-09-06,MANI Nithya,DIKAENG Natsima,3,0,"11,11,14|7,8,12",R64,WTT_FEEDER,WS,2740,Main Draw,MANI Nithya (IND),DIKAENG Natsima (THA)
-WTT Feeder Bangkok 2023,2023-09-06,TAYAPITAK Wirakarn,WONG Hoi Tung,3,0,"11,11,11|7,5,8",R64,WTT_FEEDER,WS,2740,Main Draw,TAYAPITAK Wirakarn (THA),WONG Hoi Tung (HKG)
-WTT Feeder Bangkok 2023,2023-09-06,CHOI Inhyeok/KIM Daewoo,THANMATHIKOM Tanapat/SAELEE Puripong,3,0,"11,11,11|8,2,9",R16,WTT_FEEDER,MD,2740,Main Draw,CHOI Inhyeok/KIM Daewoo (KOR),THANMATHIKOM Tanapat/SAELEE Puripong (THA)
-WTT Feeder Bangkok 2023,2023-09-06,CHAN Baldwin Ho Wah/YIU Kwan To,PAL Akash/MITRA Abhimanyu,3,0,"11,11,11|8,4,5",R16,WTT_FEEDER,MD,2740,Main Draw,CHAN Baldwin Ho Wah/YIU Kwan To (HKG),PAL Akash/MITRA Abhimanyu (IND)
-WTT Feeder Bangkok 2023,2023-09-06,YOSHIMURA Maharu/YOKOTANI Jo,CHANDRA Jeet/SURAVAJJULA Snehit,3,0,"12,14,11|10,12,8",R16,WTT_FEEDER,MD,2740,Main Draw,YOSHIMURA Maharu/YOKOTANI Jo (JPN),CHANDRA Jeet/SURAVAJJULA Snehit (IND)
-WTT Feeder Bangkok 2023,2023-09-06,KANG Dongsoo/PARK Chan-Hyeok,YANG Chia-An/LIN Yen-Chun,3,1,"8,11,11,11|11,8,9,6",R16,WTT_FEEDER,MD,2740,Main Draw,KANG Dongsoo/PARK Chan-Hyeok (KOR),YANG Chia-An/LIN Yen-Chun (TPE)
-WTT Feeder Bangkok 2023,2023-09-06,OIKAWA Mizuki/YOSHIMURA Kazuhiro,CHUA Josh Shao Han/FONG Jay Shern,3,2,"11,11,8,5,11|9,6,11,11,8",R16,WTT_FEEDER,MD,2740,Main Draw,OIKAWA Mizuki/YOSHIMURA Kazuhiro (JPN),CHUA Josh Shao Han/FONG Jay Shern (SGP/MAS)
-WTT Feeder Bangkok 2023,2023-09-06,PRASONGPOL Nawachet/MAUNGWHAN Chayaduj,GHOSH Anirban/SHETTY Sanil,3,2,"5,11,6,11,11|11,6,11,6,9",R16,WTT_FEEDER,MD,2740,Main Draw,PRASONGPOL Nawachet/MAUNGWHAN Chayaduj (THA),GHOSH Anirban/SHETTY Sanil (IND)
-WTT Feeder Bangkok 2023,2023-09-06,HUANG Youzheng/WEN Ruibo,KIM Yanghyun/CHO Sangyeon,3,0,"11,11,11|7,8,5",R16,WTT_FEEDER,MD,2740,Main Draw,HUANG Youzheng/WEN Ruibo (CHN),KIM Yanghyun/CHO Sangyeon (KOR)
-WTT Feeder Bangkok 2023,2023-09-06,CHEN Junsong/ZHU Jiaqi,PAU Yik Man/CHOY Chun Kit,3,0,"11,13,11|4,11,7",R16,WTT_FEEDER,MD,2740,Main Draw,CHEN Junsong/ZHU Jiaqi (CHN),PAU Yik Man/CHOY Chun Kit (HKG)
-WTT Feeder Bangkok 2023,2023-09-06,YOON Hyobin/SIM Hyunju,KIM Nayeong/RYU Hanna,3,0,"11,11,11|2,3,8",R16,WTT_FEEDER,WD,2740,Main Draw,YOON Hyobin/SIM Hyunju (KOR),KIM Nayeong/RYU Hanna (KOR)
-WTT Feeder Bangkok 2023,2023-09-06,WONGLAKHON Phatsaraphon/VIJITVIRIYAGUL Kulapassr,MANI Nithya/GOEL Radhapriya,3,2,"10,7,11,11,11|12,11,9,6,5",R16,WTT_FEEDER,WD,2740,Main Draw,WONGLAKHON Phatsaraphon/VIJITVIRIYAGUL Kulapassr (THA),MANI Nithya/GOEL Radhapriya (IND)
-WTT Feeder Bangkok 2023,2023-09-06,NG Wing Lam/LAM Yee Lok,LIU Hsing-Yin/CHENG Hsien-Tzu,3,0,"13,11,11|11,9,7",R16,WTT_FEEDER,WD,2740,Main Draw,NG Wing Lam/LAM Yee Lok (HKG),LIU Hsing-Yin/CHENG Hsien-Tzu (TPE)
-WTT Feeder Bangkok 2023,2023-09-06,FAN Shuhan/QIN Yuxuan,HUANG Hsin/HUANG Yu-Chiao,3,1,"11,11,11,11|9,8,13,8",R16,WTT_FEEDER,WD,2740,Main Draw,FAN Shuhan/QIN Yuxuan (CHN),HUANG Hsin/HUANG Yu-Chiao (TPE)
-WTT Feeder Bangkok 2023,2023-09-06,XU Yi/DING Yijie,AMRUTE Shruti Vijay/GHOSH Swastika,3,0,"11,11,11|3,5,8",R16,WTT_FEEDER,WD,2740,Main Draw,XU Yi/DING Yijie (CHN),AMRUTE Shruti Vijay/GHOSH Swastika (IND)
-WTT Feeder Bangkok 2023,2023-09-06,KIM Munsu,ANTHONY Amalraj,3,0,"11,12,12|6,10,10",R64,WTT_FEEDER,MS,2740,Main Draw,KIM Munsu (KOR),ANTHONY Amalraj (IND)
-WTT Feeder Bangkok 2023,2023-09-06,KONG Tsz Lam/WONG Hoi Tung,PANKHAOYOY Supamas/DIKAENG Natsima,3,0,"11,11,11|5,8,5",R16,WTT_FEEDER,WD,2740,Main Draw,KONG Tsz Lam/WONG Hoi Tung (HKG),PANKHAOYOY Supamas/DIKAENG Natsima (THA)
-WTT Feeder Bangkok 2023,2023-09-06,ZHANG Xiangyu/ZONG Geman,TAYAPITAK Wirakarn/KOLA Nanapat,3,0,"11,11,11|4,9,6",R16,WTT_FEEDER,WD,2740,Main Draw,ZHANG Xiangyu/ZONG Geman (CHN),TAYAPITAK Wirakarn/KOLA Nanapat (THA)
-WTT Feeder Bangkok 2023,2023-09-06,KIM Seoyun/LEE Zion,BAISYA Poymantee/TENNISON Reeth,3,0,"11,11,11|8,6,7",R16,WTT_FEEDER,WD,2740,Main Draw,KIM Seoyun/LEE Zion (KOR),BAISYA Poymantee/TENNISON Reeth (IND)
-WTT Feeder Bangkok 2023,2023-09-06,KWAK Yu Bin,SUN Yang,3,0,"11,11,12|5,2,10",R64,WTT_FEEDER,MS,2740,Main Draw,KWAK Yu Bin (KOR),SUN Yang (CHN)
-WTT Feeder Bangkok 2023,2023-09-06,PAL Akash,SHI Cancheng,3,1,"11,8,11,11|3,11,8,5",R64,WTT_FEEDER,MS,2740,Main Draw,PAL Akash (IND),SHI Cancheng (CHN)
-WTT Feeder Bangkok 2023,2023-09-06,MALIK Yashansh,CHEN Junsong,3,1,"11,9,11,11|7,11,8,7",R64,WTT_FEEDER,MS,2740,Main Draw,MALIK Yashansh (IND),CHEN Junsong (CHN)
-WTT Feeder Bangkok 2023,2023-09-06,YANG Chia-An,THANMATHIKOM Tanapat,3,0,"11,11,11|7,6,6",R64,WTT_FEEDER,MS,2740,Main Draw,YANG Chia-An (TPE),THANMATHIKOM Tanapat (THA)
-WTT Feeder Bangkok 2023,2023-09-06,KIM Daewoo,PRASONGPOL Nawachet,3,0,"11,14,11|8,12,2",R64,WTT_FEEDER,MS,2740,Main Draw,KIM Daewoo (KOR),PRASONGPOL Nawachet (THA)
-WTT Feeder Bangkok 2023,2023-09-06,RYU Hanna,GOEL Radhapriya,3,1,"11,11,11,11|9,6,13,9",R64,WTT_FEEDER,WS,2740,Main Draw,RYU Hanna (KOR),GOEL Radhapriya (IND)
-WTT Feeder Bangkok 2023,2023-09-06,SONE Kakeru,CASTRO Rogelio,3,0,"11,11,11|8,5,4",R64,WTT_FEEDER,MS,2740,Main Draw,SONE Kakeru (JPN),CASTRO Rogelio (MEX)
-WTT Feeder Bangkok 2023,2023-09-06,CHEN Hengda,AHMAD Afzaal,3,0,"11,11,11|2,6,5",R64,WTT_FEEDER,MS,2740,Main Draw,CHEN Hengda (CHN),AHMAD Afzaal (PAK)
-WTT Feeder Bangkok 2023,2023-09-06,AMRUTE Shruti Vijay,MADURANGI Ishara,3,0,"11,11,11|9,5,9",R64,WTT_FEEDER,WS,2740,Main Draw,AMRUTE Shruti Vijay (IND),MADURANGI Ishara (SRI)
-WTT Feeder Bangkok 2023,2023-09-06,HUANG Hsin,WONGLAKHON Phatsaraphon,3,0,"11,11,11|9,4,7",R64,WTT_FEEDER,WS,2740,Main Draw,HUANG Hsin (TPE),WONGLAKHON Phatsaraphon (THA)
-WTT Feeder Bangkok 2023,2023-09-06,ZHANG Xiangyu,YEH Yi-Tian,3,0,"11,11,11|9,8,6",R64,WTT_FEEDER,WS,2740,Main Draw,ZHANG Xiangyu (CHN),YEH Yi-Tian (TPE)
-WTT Feeder Bangkok 2023,2023-09-06,VIJITVIRIYAGUL Kulapassr,PANKHAOYOY Supamas,3,2,"11,9,11,9,12|8,11,2,11,10",R64,WTT_FEEDER,WS,2740,Main Draw,VIJITVIRIYAGUL Kulapassr (THA),PANKHAOYOY Supamas (THA)
-WTT Feeder Bangkok 2023,2023-09-06,YAN Yutong,KE Tiffany,3,1,"15,6,11,11|13,11,7,5",R64,WTT_FEEDER,WS,2740,Main Draw,YAN Yutong (CHN),KE Tiffany (USA)
-WTT Feeder Bangkok 2023,2023-09-06,LEE Daeun,MAK Ming Shum,3,1,"11,15,11,11|5,17,9,7",R64,WTT_FEEDER,WS,2740,Main Draw,LEE Daeun (KOR),MAK Ming Shum (HKG)
-WTT Feeder Bangkok 2023,2023-09-06,DING Yijie,WONGLAPASSAKUL Kullarat,3,0,"11,11,11|8,1,2",R64,WTT_FEEDER,WS,2740,Main Draw,DING Yijie (CHN),WONGLAPASSAKUL Kullarat (THA)
-WTT Feeder Bangkok 2023,2023-09-06,SAELEE Puripong/WONGLAKHON Phatsaraphon,MAUNGWHAN Chayaduj/KOLA Nanapat,3,2,"11,11,11,10,13|13,4,4,12,11",R16,WTT_FEEDER,XD,2740,Main Draw,SAELEE Puripong/WONGLAKHON Phatsaraphon (THA),MAUNGWHAN Chayaduj/KOLA Nanapat (THA)
-WTT Feeder Bangkok 2023,2023-09-06,WEN Ruibo/ZHANG Xiangyu,KIM Minhyeok/KIM Seoyun,3,1,"8,11,11,11|11,4,4,8",R16,WTT_FEEDER,XD,2740,Main Draw,WEN Ruibo/ZHANG Xiangyu (CHN),KIM Minhyeok/KIM Seoyun (KOR)
-WTT Feeder Bangkok 2023,2023-09-06,KWAK Yu Bin/YOON Hyobin,LI Hsin-Yang/CHEN Ying-Chen,3,1,"10,11,11,11|12,5,8,8",R16,WTT_FEEDER,XD,2740,Main Draw,KWAK Yu Bin/YOON Hyobin (KOR),LI Hsin-Yang/CHEN Ying-Chen (TPE)
-WTT Feeder Bangkok 2023,2023-09-06,HUANG Youzheng/QIN Yuxuan,YIU Kwan To/NG Wing Lam,3,0,"14,11,12|12,9,10",R16,WTT_FEEDER,XD,2740,Main Draw,HUANG Youzheng/QIN Yuxuan (CHN),YIU Kwan To/NG Wing Lam (HKG)
-WTT Feeder Bangkok 2023,2023-09-06,CHEN Junsong/FAN Shuhan,CHO Daeseong/LEE Zion,3,1,"10,11,11,11|12,8,7,6",R16,WTT_FEEDER,XD,2740,Main Draw,CHEN Junsong/FAN Shuhan (CHN),CHO Daeseong/LEE Zion (KOR)
-WTT Feeder Bangkok 2023,2023-09-06,CHOY Chun Kit/KONG Tsz Lam,CHAN Baldwin Ho Wah/WONG Hoi Tung,3,1,"11,4,11,12|8,11,9,10",R16,WTT_FEEDER,XD,2740,Main Draw,CHOY Chun Kit/KONG Tsz Lam (HKG),CHAN Baldwin Ho Wah/WONG Hoi Tung (HKG)
-WTT Feeder Bangkok 2023,2023-09-06,CHANDRA Jeet/TENNISON Reeth,MALIK Yashansh/GHOSH Swastika,3,0,"11,11,11|4,8,8",R16,WTT_FEEDER,XD,2740,Main Draw,CHANDRA Jeet/TENNISON Reeth (IND),MALIK Yashansh/GHOSH Swastika (IND)
-WTT Feeder Bangkok 2023,2023-09-06,KIM Daewoo/SIM Hyunju,GHOSH Anirban/AMRUTE Shruti Vijay,3,0,"11,11,13|8,7,11",R16,WTT_FEEDER,XD,2740,Main Draw,KIM Daewoo/SIM Hyunju (KOR),GHOSH Anirban/AMRUTE Shruti Vijay (IND)
-WTT Feeder Bangkok 2023,2023-09-07,PARK Chan-Hyeok,STOYANOV Niagol,3,2,"7,10,11,11,11|11,12,6,9,5",R16,WTT_FEEDER,MS,2740,Main Draw,PARK Chan-Hyeok (KOR),STOYANOV Niagol (ITA)
-WTT Feeder Bangkok 2023,2023-09-07,OIKAWA Mizuki,KIM Daewoo,3,1,"8,11,12,11|11,5,10,2",R16,WTT_FEEDER,MS,2740,Main Draw,OIKAWA Mizuki (JPN),KIM Daewoo (KOR)
-WTT Feeder Bangkok 2023,2023-09-07,YOSHIMURA Maharu,SURAVAJJULA Snehit,3,2,"13,11,11,11,12|15,7,5,13,10",R16,WTT_FEEDER,MS,2740,Main Draw,YOSHIMURA Maharu (JPN),SURAVAJJULA Snehit (IND)
-WTT Feeder Bangkok 2023,2023-09-07,HUANG Youzheng,YOSHIMURA Kazuhiro,3,1,"11,5,11,11|9,11,9,8",R16,WTT_FEEDER,MS,2740,Main Draw,HUANG Youzheng (CHN),YOSHIMURA Kazuhiro (JPN)
-WTT Feeder Bangkok 2023,2023-09-07,WEN Ruibo,BOBOCICA Mihai,3,1,"11,11,9,12|6,6,11,10",R16,WTT_FEEDER,MS,2740,Main Draw,WEN Ruibo (CHN),BOBOCICA Mihai (ITA)
-WTT Feeder Bangkok 2023,2023-09-07,SONE Kakeru,CHAN Baldwin Ho Wah,3,0,"11,11,11|8,5,5",R16,WTT_FEEDER,MS,2740,Main Draw,SONE Kakeru (JPN),CHAN Baldwin Ho Wah (HKG)
-WTT Feeder Bangkok 2023,2023-09-07,QIN Yuxuan,YAN Yutong,3,1,"11,7,11,11|8,11,8,9",R16,WTT_FEEDER,WS,2740,Main Draw,QIN Yuxuan (CHN),YAN Yutong (CHN)
-WTT Feeder Bangkok 2023,2023-09-07,LIN Yen-Chun,LI Hsin-Yang,3,1,"7,13,16,11|11,11,14,8",R16,WTT_FEEDER,MS,2740,Main Draw,LIN Yen-Chun (TPE),LI Hsin-Yang (TPE)
-WTT Feeder Bangkok 2023,2023-09-07,KWAK Yu Bin,LIAO Cheng-Ting,3,2,"6,4,12,11,11|11,11,10,8,7",R16,WTT_FEEDER,MS,2740,Main Draw,KWAK Yu Bin (KOR),LIAO Cheng-Ting (TPE)
-WTT Feeder Bangkok 2023,2023-09-07,ZHANG Xiangyu,LEE Zion,3,1,"13,8,11,11|11,11,6,8",R16,WTT_FEEDER,WS,2740,Main Draw,ZHANG Xiangyu (CHN),LEE Zion (KOR)
-WTT Feeder Bangkok 2023,2023-09-07,FAN Shuhan,ZONG Geman,3,1,"11,14,7,11|9,12,11,3",R16,WTT_FEEDER,WS,2740,Main Draw,FAN Shuhan (CHN),ZONG Geman (CHN)
-WTT Feeder Bangkok 2023,2023-09-07,SASAO Asuka,LIU Hsing-Yin,3,1,"11,12,8,12|3,10,11,10",R16,WTT_FEEDER,WS,2740,Main Draw,SASAO Asuka (JPN),LIU Hsing-Yin (TPE)
-WTT Feeder Bangkok 2023,2023-09-07,GHOSH Swastika,NG Wing Lam,3,0,"12,11,12|10,9,10",R16,WTT_FEEDER,WS,2740,Main Draw,GHOSH Swastika (IND),NG Wing Lam (HKG)
-WTT Feeder Bangkok 2023,2023-09-07,XU Yi,HUANG Yu-Chiao,3,2,"6,11,9,11,11|11,4,11,4,8",R16,WTT_FEEDER,WS,2740,Main Draw,XU Yi (CHN),HUANG Yu-Chiao (TPE)
-WTT Feeder Bangkok 2023,2023-09-07,HUANG Hsin,MANI Nithya,3,2,"11,7,8,11,11|7,11,11,6,3",R16,WTT_FEEDER,WS,2740,Main Draw,HUANG Hsin (TPE),MANI Nithya (IND)
-WTT Feeder Bangkok 2023,2023-09-07,MORI Sakura,TENNISON Reeth,3,0,"11,11,11|5,9,4",R16,WTT_FEEDER,WS,2740,Main Draw,MORI Sakura (JPN),TENNISON Reeth (IND)
-WTT Feeder Bangkok 2023,2023-09-07,CHAN Baldwin Ho Wah/YIU Kwan To,HUANG Youzheng/WEN Ruibo,3,2,"4,11,11,11,11|11,13,4,9,8",QF,WTT_FEEDER,MD,2740,Main Draw,CHAN Baldwin Ho Wah/YIU Kwan To (HKG),HUANG Youzheng/WEN Ruibo (CHN)
-WTT Feeder Bangkok 2023,2023-09-07,CHEN Junsong/ZHU Jiaqi,PRASONGPOL Nawachet/MAUNGWHAN Chayaduj,3,0,"11,11,12|2,5,10",QF,WTT_FEEDER,MD,2740,Main Draw,CHEN Junsong/ZHU Jiaqi (CHN),PRASONGPOL Nawachet/MAUNGWHAN Chayaduj (THA)
-WTT Feeder Bangkok 2023,2023-09-07,OIKAWA Mizuki/YOSHIMURA Kazuhiro,CHOI Inhyeok/KIM Daewoo,3,0,"11,11,11|6,5,7",QF,WTT_FEEDER,MD,2740,Main Draw,OIKAWA Mizuki/YOSHIMURA Kazuhiro (JPN),CHOI Inhyeok/KIM Daewoo (KOR)
-WTT Feeder Bangkok 2023,2023-09-07,YOSHIMURA Maharu/YOKOTANI Jo,KANG Dongsoo/PARK Chan-Hyeok,3,0,"11,11,12|9,5,10",QF,WTT_FEEDER,MD,2740,Main Draw,YOSHIMURA Maharu/YOKOTANI Jo (JPN),KANG Dongsoo/PARK Chan-Hyeok (KOR)
-WTT Feeder Bangkok 2023,2023-09-07,XU Yi/DING Yijie,YOON Hyobin/SIM Hyunju,3,2,"11,2,12,6,11|5,11,10,11,5",QF,WTT_FEEDER,WD,2740,Main Draw,XU Yi/DING Yijie (CHN),YOON Hyobin/SIM Hyunju (KOR)
-WTT Feeder Bangkok 2023,2023-09-07,ZHANG Xiangyu/ZONG Geman,NG Wing Lam/LAM Yee Lok,3,1,"9,12,11,11|11,10,6,7",QF,WTT_FEEDER,WD,2740,Main Draw,ZHANG Xiangyu/ZONG Geman (CHN),NG Wing Lam/LAM Yee Lok (HKG)
-WTT Feeder Bangkok 2023,2023-09-07,WONGLAKHON Phatsaraphon/VIJITVIRIYAGUL Kulapassr,KIM Seoyun/LEE Zion,3,1,"3,11,11,12|11,5,8,10",QF,WTT_FEEDER,WD,2740,Main Draw,WONGLAKHON Phatsaraphon/VIJITVIRIYAGUL Kulapassr (THA),KIM Seoyun/LEE Zion (KOR)
-WTT Feeder Bangkok 2023,2023-09-07,FAN Shuhan/QIN Yuxuan,KONG Tsz Lam/WONG Hoi Tung,3,0,"11,11,11|6,9,5",QF,WTT_FEEDER,WD,2740,Main Draw,FAN Shuhan/QIN Yuxuan (CHN),KONG Tsz Lam/WONG Hoi Tung (HKG)
-WTT Feeder Bangkok 2023,2023-09-07,BOBOCICA Mihai,PAU Yik Man,3,0,"11,11,11|7,4,7",R32,WTT_FEEDER,MS,2740,Main Draw,BOBOCICA Mihai (ITA),PAU Yik Man (HKG)
-WTT Feeder Bangkok 2023,2023-09-07,HUANG Youzheng,KIM Taehyun,3,0,"11,11,13|6,9,11",R32,WTT_FEEDER,MS,2740,Main Draw,HUANG Youzheng (CHN),KIM Taehyun (AUT)
-WTT Feeder Bangkok 2023,2023-09-07,YOSHIMURA Kazuhiro,CHO Daeseong,3,0,"11,11,14|7,6,12",R32,WTT_FEEDER,MS,2740,Main Draw,YOSHIMURA Kazuhiro (JPN),CHO Daeseong (KOR)
-WTT Feeder Bangkok 2023,2023-09-07,LIU Hsing-Yin,KONG Tsz Lam,3,1,"10,15,11,11|12,13,6,5",R32,WTT_FEEDER,WS,2740,Main Draw,LIU Hsing-Yin (TPE),KONG Tsz Lam (HKG)
-WTT Feeder Bangkok 2023,2023-09-07,LI Hsin-Yang,AIDA Satoshi,3,0,"11,11,13|8,6,11",R32,WTT_FEEDER,MS,2740,Main Draw,LI Hsin-Yang (TPE),AIDA Satoshi (JPN)
-WTT Feeder Bangkok 2023,2023-09-07,STOYANOV Niagol,KIM Yanghyun,3,1,"13,6,11,14|11,11,1,12",R32,WTT_FEEDER,MS,2740,Main Draw,STOYANOV Niagol (ITA),KIM Yanghyun (KOR)
-WTT Feeder Bangkok 2023,2023-09-07,PARK Chan-Hyeok,PENG Wang-Wei,3,2,"7,11,11,8,11|11,8,8,11,7",R32,WTT_FEEDER,MS,2740,Main Draw,PARK Chan-Hyeok (KOR),PENG Wang-Wei (TPE)
-WTT Feeder Bangkok 2023,2023-09-07,QIN Yuxuan,CHENG Hsien-Tzu,3,2,"14,4,10,11,11|12,11,12,4,7",R32,WTT_FEEDER,WS,2740,Main Draw,QIN Yuxuan (CHN),CHENG Hsien-Tzu (TPE)
-WTT Feeder Bangkok 2023,2023-09-07,LIN Yen-Chun,SAELEE Puripong,3,0,"11,11,11|7,8,7",R32,WTT_FEEDER,MS,2740,Main Draw,LIN Yen-Chun (TPE),SAELEE Puripong (THA)
-WTT Feeder Bangkok 2023,2023-09-07,MANI Nithya,HUANG Yu-Jie,3,1,"15,11,9,11|13,4,11,6",R32,WTT_FEEDER,WS,2740,Main Draw,MANI Nithya (IND),HUANG Yu-Jie (TPE)
-WTT Feeder Bangkok 2023,2023-09-07,HUANG Hsin,CHIEN Tung-Chuan,3,2,"11,7,11,11,11|13,11,6,4,9",R32,WTT_FEEDER,WS,2740,Main Draw,HUANG Hsin (TPE),CHIEN Tung-Chuan (TPE)
-WTT Feeder Bangkok 2023,2023-09-07,WEN Ruibo,GHOSH Anirban,3,0,"11,11,11|9,8,4",R32,WTT_FEEDER,MS,2740,Main Draw,WEN Ruibo (CHN),GHOSH Anirban (IND)
-WTT Feeder Bangkok 2023,2023-09-07,KWAK Yu Bin,YIU Kwan To,3,2,"11,11,9,6,11|4,9,11,11,4",R32,WTT_FEEDER,MS,2740,Main Draw,KWAK Yu Bin (KOR),YIU Kwan To (HKG)
-WTT Feeder Bangkok 2023,2023-09-07,HUANG Yu-Chiao,YOON Hyobin,3,1,"9,11,15,11|11,7,13,6",R32,WTT_FEEDER,WS,2740,Main Draw,HUANG Yu-Chiao (TPE),YOON Hyobin (KOR)
-WTT Feeder Bangkok 2023,2023-09-07,FAN Shuhan,SUN Sinan,3,0,"11,11,11|6,8,4",R32,WTT_FEEDER,WS,2740,Main Draw,FAN Shuhan (CHN),SUN Sinan (CHN)
-WTT Feeder Bangkok 2023,2023-09-07,TENNISON Reeth,AMRUTE Shruti Vijay,3,2,"11,9,11,7,11|6,11,5,11,7",R32,WTT_FEEDER,WS,2740,Main Draw,TENNISON Reeth (IND),AMRUTE Shruti Vijay (IND)
-WTT Feeder Bangkok 2023,2023-09-07,ZHANG Xiangyu,KAMATH Archana Girish,3,0,"11,11,11|6,6,6",R32,WTT_FEEDER,WS,2740,Main Draw,ZHANG Xiangyu (CHN),KAMATH Archana Girish (IND)
-WTT Feeder Bangkok 2023,2023-09-07,SONE Kakeru,KANG Dongsoo,3,2,"9,9,11,11,11|11,11,8,8,8",R32,WTT_FEEDER,MS,2740,Main Draw,SONE Kakeru (JPN),KANG Dongsoo (KOR)
-WTT Feeder Bangkok 2023,2023-09-07,YOSHIMURA Maharu,YANG Chia-An,3,0,"11,11,11|5,7,6",R32,WTT_FEEDER,MS,2740,Main Draw,YOSHIMURA Maharu (JPN),YANG Chia-An (TPE)
-WTT Feeder Bangkok 2023,2023-09-07,KIM Daewoo,LI Hon Ming,3,1,"5,11,11,11|11,6,9,8",R32,WTT_FEEDER,MS,2740,Main Draw,KIM Daewoo (KOR),LI Hon Ming (HKG)
-WTT Feeder Bangkok 2023,2023-09-07,SURAVAJJULA Snehit,PAL Akash,3,0,"11,11,11|9,6,8",R32,WTT_FEEDER,MS,2740,Main Draw,SURAVAJJULA Snehit (IND),PAL Akash (IND)
-WTT Feeder Bangkok 2023,2023-09-07,CHAN Baldwin Ho Wah,CHEN Hengda,3,2,"11,11,7,3,11|8,7,11,11,4",R32,WTT_FEEDER,MS,2740,Main Draw,CHAN Baldwin Ho Wah (HKG),CHEN Hengda (CHN)
-WTT Feeder Bangkok 2023,2023-09-07,LIAO Cheng-Ting,KIM Munsu,3,1,"11,7,11,11|8,11,8,6",R32,WTT_FEEDER,MS,2740,Main Draw,LIAO Cheng-Ting (TPE),KIM Munsu (KOR)
-WTT Feeder Bangkok 2023,2023-09-07,SASAO Asuka,DING Yijie,3,2,"11,8,15,10,11|3,11,13,12,6",R32,WTT_FEEDER,WS,2740,Main Draw,SASAO Asuka (JPN),DING Yijie (CHN)
-WTT Feeder Bangkok 2023,2023-09-07,OIKAWA Mizuki,MALIK Yashansh,3,0,"11,11,11|1,1,9",R32,WTT_FEEDER,MS,2740,Main Draw,OIKAWA Mizuki (JPN),MALIK Yashansh (IND)
-WTT Feeder Bangkok 2023,2023-09-07,XU Yi,RYU Hanna,3,0,"12,11,11|10,5,8",R32,WTT_FEEDER,WS,2740,Main Draw,XU Yi (CHN),RYU Hanna (KOR)
-WTT Feeder Bangkok 2023,2023-09-07,YAN Yutong,LAM Yee Lok,3,0,"11,11,11|9,9,9",R32,WTT_FEEDER,WS,2740,Main Draw,YAN Yutong (CHN),LAM Yee Lok (HKG)
-WTT Feeder Bangkok 2023,2023-09-07,GHOSH Swastika,KIM Nayeong,3,1,"11,11,8,11|8,6,11,4",R32,WTT_FEEDER,WS,2740,Main Draw,GHOSH Swastika (IND),KIM Nayeong (KOR)
-WTT Feeder Bangkok 2023,2023-09-07,LEE Zion,VIJITVIRIYAGUL Kulapassr,3,2,"9,8,11,11,11|11,11,3,5,3",R32,WTT_FEEDER,WS,2740,Main Draw,LEE Zion (KOR),VIJITVIRIYAGUL Kulapassr (THA)
-WTT Feeder Bangkok 2023,2023-09-07,NG Wing Lam,LEE Daeun,3,0,"11,11,11|7,5,8",R32,WTT_FEEDER,WS,2740,Main Draw,NG Wing Lam (HKG),LEE Daeun (KOR)
-WTT Feeder Bangkok 2023,2023-09-07,MORI Sakura,KIM Seoyun,3,1,"12,11,9,12|10,8,11,10",R32,WTT_FEEDER,WS,2740,Main Draw,MORI Sakura (JPN),KIM Seoyun (KOR)
-WTT Feeder Bangkok 2023,2023-09-07,ZONG Geman,TAYAPITAK Wirakarn,3,0,"11,11,11|6,6,3",R32,WTT_FEEDER,WS,2740,Main Draw,ZONG Geman (CHN),TAYAPITAK Wirakarn (THA)
-WTT Feeder Bangkok 2023,2023-09-07,KWAK Yu Bin/YOON Hyobin,WEN Ruibo/ZHANG Xiangyu,3,2,"10,11,7,11,11|12,4,11,7,5",QF,WTT_FEEDER,XD,2740,Main Draw,KWAK Yu Bin/YOON Hyobin (KOR),WEN Ruibo/ZHANG Xiangyu (CHN)
-WTT Feeder Bangkok 2023,2023-09-07,HUANG Youzheng/QIN Yuxuan,SAELEE Puripong/WONGLAKHON Phatsaraphon,3,1,"12,8,13,11|10,11,11,5",QF,WTT_FEEDER,XD,2740,Main Draw,HUANG Youzheng/QIN Yuxuan (CHN),SAELEE Puripong/WONGLAKHON Phatsaraphon (THA)
-WTT Feeder Bangkok 2023,2023-09-07,CHEN Junsong/FAN Shuhan,CHANDRA Jeet/TENNISON Reeth,3,1,"11,10,11,13|8,12,7,11",QF,WTT_FEEDER,XD,2740,Main Draw,CHEN Junsong/FAN Shuhan (CHN),CHANDRA Jeet/TENNISON Reeth (IND)
-WTT Feeder Bangkok 2023,2023-09-07,KIM Daewoo/SIM Hyunju,CHOY Chun Kit/KONG Tsz Lam,3,0,"11,11,11|6,4,6",QF,WTT_FEEDER,XD,2740,Main Draw,KIM Daewoo/SIM Hyunju (KOR),CHOY Chun Kit/KONG Tsz Lam (HKG)
-WTT Feeder Bangkok 2023,2023-09-08,FAN Shuhan/QIN Yuxuan,WONGLAKHON Phatsaraphon/VIJITVIRIYAGUL Kulapassr,3,0,"11,11,11|3,6,9",SF,WTT_FEEDER,WD,2740,Main Draw,FAN Shuhan/QIN Yuxuan (CHN),WONGLAKHON Phatsaraphon/VIJITVIRIYAGUL Kulapassr (THA)
-WTT Feeder Bangkok 2023,2023-09-08,HUANG Youzheng/QIN Yuxuan,CHEN Junsong/FAN Shuhan,3,0,"11,11,11|7,7,4",F,WTT_FEEDER,XD,2740,Main Draw,HUANG Youzheng/QIN Yuxuan (CHN),CHEN Junsong/FAN Shuhan (CHN)
-WTT Feeder Bangkok 2023,2023-09-08,WEN Ruibo,PARK Chan-Hyeok,3,1,"6,11,11,11|11,8,9,6",QF,WTT_FEEDER,MS,2740,Main Draw,WEN Ruibo (CHN),PARK Chan-Hyeok (KOR)
-WTT Feeder Bangkok 2023,2023-09-08,HUANG Youzheng,LIN Yen-Chun,3,2,"11,12,2,11,11|13,10,11,8,4",QF,WTT_FEEDER,MS,2740,Main Draw,HUANG Youzheng (CHN),LIN Yen-Chun (TPE)
-WTT Feeder Bangkok 2023,2023-09-08,FAN Shuhan,GHOSH Swastika,3,0,"11,11,11|2,5,8",QF,WTT_FEEDER,WS,2740,Main Draw,FAN Shuhan (CHN),GHOSH Swastika (IND)
-WTT Feeder Bangkok 2023,2023-09-08,OIKAWA Mizuki/YOSHIMURA Kazuhiro,YOSHIMURA Maharu/YOKOTANI Jo,3,1,"6,11,11,11|11,5,6,7",SF,WTT_FEEDER,MD,2740,Main Draw,OIKAWA Mizuki/YOSHIMURA Kazuhiro (JPN),YOSHIMURA Maharu/YOKOTANI Jo (JPN)
-WTT Feeder Bangkok 2023,2023-09-08,CHEN Junsong/ZHU Jiaqi,CHAN Baldwin Ho Wah/YIU Kwan To,3,0,"11,11,11|8,4,9",SF,WTT_FEEDER,MD,2740,Main Draw,CHEN Junsong/ZHU Jiaqi (CHN),CHAN Baldwin Ho Wah/YIU Kwan To (HKG)
-WTT Feeder Bangkok 2023,2023-09-08,ZHANG Xiangyu/ZONG Geman,XU Yi/DING Yijie,3,1,"9,11,11,11|11,7,8,9",SF,WTT_FEEDER,WD,2740,Main Draw,ZHANG Xiangyu/ZONG Geman (CHN),XU Yi/DING Yijie (CHN)
-WTT Feeder Bangkok 2023,2023-09-08,YOSHIMURA Maharu,KWAK Yu Bin,3,0,"11,11,11|9,9,9",QF,WTT_FEEDER,MS,2740,Main Draw,YOSHIMURA Maharu (JPN),KWAK Yu Bin (KOR)
-WTT Feeder Bangkok 2023,2023-09-08,OIKAWA Mizuki,SONE Kakeru,3,1,"11,11,10,11|7,7,12,7",QF,WTT_FEEDER,MS,2740,Main Draw,OIKAWA Mizuki (JPN),SONE Kakeru (JPN)
-WTT Feeder Bangkok 2023,2023-09-08,XU Yi,QIN Yuxuan,3,0,"11,11,14|8,8,12",QF,WTT_FEEDER,WS,2740,Main Draw,XU Yi (CHN),QIN Yuxuan (CHN)
-WTT Feeder Bangkok 2023,2023-09-08,SASAO Asuka,HUANG Hsin,3,0,"11,11,11|9,3,9",QF,WTT_FEEDER,WS,2740,Main Draw,SASAO Asuka (JPN),HUANG Hsin (TPE)
-WTT Feeder Bangkok 2023,2023-09-08,CHEN Junsong/FAN Shuhan,KIM Daewoo/SIM Hyunju,3,1,"15,11,9,11|13,2,11,6",SF,WTT_FEEDER,XD,2740,Main Draw,CHEN Junsong/FAN Shuhan (CHN),KIM Daewoo/SIM Hyunju (KOR)
-WTT Feeder Bangkok 2023,2023-09-08,HUANG Youzheng/QIN Yuxuan,KWAK Yu Bin/YOON Hyobin,3,0,"11,11,11|5,6,4",SF,WTT_FEEDER,XD,2740,Main Draw,HUANG Youzheng/QIN Yuxuan (CHN),KWAK Yu Bin/YOON Hyobin (KOR)
-WTT Feeder Bangkok 2023,2023-09-09,YOSHIMURA Maharu,HUANG Youzheng,3,0,"11,11,11|8,8,7",F,WTT_FEEDER,MS,2740,Main Draw,YOSHIMURA Maharu (JPN),HUANG Youzheng (CHN)
-WTT Feeder Bangkok 2023,2023-09-09,MORI Sakura,SASAO Asuka,3,0,"11,11,11|8,9,9",F,WTT_FEEDER,WS,2740,Main Draw,MORI Sakura (JPN),SASAO Asuka (JPN)
-WTT Feeder Bangkok 2023,2023-09-09,CHEN Junsong/ZHU Jiaqi,OIKAWA Mizuki/YOSHIMURA Kazuhiro,3,1,"11,9,13,11|7,11,11,9",F,WTT_FEEDER,MD,2740,Main Draw,CHEN Junsong/ZHU Jiaqi (CHN),OIKAWA Mizuki/YOSHIMURA Kazuhiro (JPN)
-WTT Feeder Bangkok 2023,2023-09-09,FAN Shuhan/QIN Yuxuan,ZHANG Xiangyu/ZONG Geman,3,1,"13,6,11,11|11,11,8,8",F,WTT_FEEDER,WD,2740,Main Draw,FAN Shuhan/QIN Yuxuan (CHN),ZHANG Xiangyu/ZONG Geman (CHN)
-WTT Feeder Bangkok 2023,2023-09-09,HUANG Youzheng,WEN Ruibo,3,0,"13,11,11|11,9,8",SF,WTT_FEEDER,MS,2740,Main Draw,HUANG Youzheng (CHN),WEN Ruibo (CHN)
-WTT Feeder Bangkok 2023,2023-09-09,YOSHIMURA Maharu,OIKAWA Mizuki,3,2,"4,15,6,11,20|11,13,11,4,18",SF,WTT_FEEDER,MS,2740,Main Draw,YOSHIMURA Maharu (JPN),OIKAWA Mizuki (JPN)
-WTT Feeder Bangkok 2023,2023-09-09,SASAO Asuka,FAN Shuhan,3,1,"11,11,11,12|7,13,9,10",SF,WTT_FEEDER,WS,2740,Main Draw,SASAO Asuka (JPN),FAN Shuhan (CHN)
-WTT Feeder Bangkok 2023,2023-09-09,MORI Sakura,XU Yi,3,2,"6,11,11,8,12|11,7,9,11,10",SF,WTT_FEEDER,WS,2740,Main Draw,MORI Sakura (JPN),XU Yi (CHN)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+WTT Feeder Bangkok 2023,2023-09-04,ZHU Jiaqi,BOONSIRIWATCHARAKUL Chonlasith,3,1,"8,11,11,11|11,3,9,7",GROUP,WTT_FEEDER,MS,2740,Main Draw,ZHU Jiaqi (CHN),BOONSIRIWATCHARAKUL Chonlasith (THA),ZHU Jiaqi
+WTT Feeder Bangkok 2023,2023-09-04,KIM Yanghyun,YATAWANON Wasaphon,3,1,"11,4,11,11|9,11,9,8",GROUP,WTT_FEEDER,MS,2740,Main Draw,KIM Yanghyun (KOR),YATAWANON Wasaphon (THA),KIM Yanghyun
+WTT Feeder Bangkok 2023,2023-09-04,KWAK Yu Bin,SUSILO Braydon,3,0,"11,11,11|5,5,8",GROUP,WTT_FEEDER,MS,2740,Main Draw,KWAK Yu Bin (KOR),SUSILO Braydon (INA),KWAK Yu Bin
+WTT Feeder Bangkok 2023,2023-09-04,YOSHIMURA Kazuhiro,SHI Cancheng,3,0,"11,11,11|8,6,8",GROUP,WTT_FEEDER,MS,2740,Main Draw,YOSHIMURA Kazuhiro (JPN),SHI Cancheng (CHN),YOSHIMURA Kazuhiro
+WTT Feeder Bangkok 2023,2023-09-04,SEO Hyeonwoo,YAMLEEMUL Pongspat,3,0,"11,11,11|7,4,6",GROUP,WTT_FEEDER,MS,2740,Main Draw,SEO Hyeonwoo (KOR),YAMLEEMUL Pongspat (THA),SEO Hyeonwoo
+WTT Feeder Bangkok 2023,2023-09-04,SONE Kakeru,MITRA Abhimanyu,3,0,"11,11,11|5,6,8",GROUP,WTT_FEEDER,MS,2740,Main Draw,SONE Kakeru (JPN),MITRA Abhimanyu (IND),SONE Kakeru
+WTT Feeder Bangkok 2023,2023-09-04,SAEOU Tieanchai,LIAUW Felix,3,0,"11,11,11|4,4,7",GROUP,WTT_FEEDER,MS,2740,Main Draw,SAEOU Tieanchai (THA),LIAUW Felix (INA),SAEOU Tieanchai
+WTT Feeder Bangkok 2023,2023-09-04,SUN Yang,RATSAMIPLANG Ratchaphon,3,0,"11,11,11|4,4,3",GROUP,WTT_FEEDER,MS,2740,Main Draw,SUN Yang (CHN),RATSAMIPLANG Ratchaphon (THA),SUN Yang
+WTT Feeder Bangkok 2023,2023-09-04,YOKOTANI Jo,SOIPHUANG Nimit,3,0,"11,14,11|1,12,4",GROUP,WTT_FEEDER,MS,2740,Main Draw,YOKOTANI Jo (JPN),SOIPHUANG Nimit (THA),YOKOTANI Jo
+WTT Feeder Bangkok 2023,2023-09-04,YATAWANON Wasaphon/YAMLEEMUL Pongspat,BOONSIRIWATCHARAKUL Chonlasith/AUKADECHCHAIKUL Sittipol,3,1,"12,11,9,11|10,7,11,9",QR1,WTT_FEEDER,MD,2740,Qualification,YATAWANON Wasaphon/YAMLEEMUL Pongspat (THA),BOONSIRIWATCHARAKUL Chonlasith/AUKADECHCHAIKUL Sittipol (THA),YATAWANON Wasaphon/YAMLEEMUL Pongspat
+WTT Feeder Bangkok 2023,2023-09-04,KIM Minhyeok/KWAK Yu Bin,SEO Hyeonwoo/KIM Munsu,3,0,"11,11,11|6,6,4",QR1,WTT_FEEDER,MD,2740,Qualification,KIM Minhyeok/KWAK Yu Bin (KOR),SEO Hyeonwoo/KIM Munsu (KOR),KIM Minhyeok/KWAK Yu Bin
+WTT Feeder Bangkok 2023,2023-09-04,KIM Minhyeok,MITRA Abhimanyu,3,1,"10,11,12,11|12,5,10,3",GROUP,WTT_FEEDER,MS,2740,Main Draw,KIM Minhyeok (KOR),MITRA Abhimanyu (IND),KIM Minhyeok
+WTT Feeder Bangkok 2023,2023-09-04,SHI Cancheng,SEO Hyeonwoo,3,0,"11,11,11|8,7,9",GROUP,WTT_FEEDER,MS,2740,Main Draw,SHI Cancheng (CHN),SEO Hyeonwoo (KOR),SHI Cancheng
+WTT Feeder Bangkok 2023,2023-09-04,YOSHIMURA Kazuhiro,YAMLEEMUL Pongspat,3,0,"11,11,11|4,3,6",GROUP,WTT_FEEDER,MS,2740,Main Draw,YOSHIMURA Kazuhiro (JPN),YAMLEEMUL Pongspat (THA),YOSHIMURA Kazuhiro
+WTT Feeder Bangkok 2023,2023-09-04,KIM Daewoo,YOKOTANI Jo,3,1,"11,11,9,11|8,7,11,7",GROUP,WTT_FEEDER,MS,2740,Main Draw,KIM Daewoo (KOR),YOKOTANI Jo (JPN),KIM Daewoo
+WTT Feeder Bangkok 2023,2023-09-04,KWAK Yu Bin,BOONSIRIWATCHARAKUL Chonlasith,3,0,"11,11,11|8,8,2",GROUP,WTT_FEEDER,MS,2740,Main Draw,KWAK Yu Bin (KOR),BOONSIRIWATCHARAKUL Chonlasith (THA),KWAK Yu Bin
+WTT Feeder Bangkok 2023,2023-09-04,ZHU Jiaqi,SUSILO Braydon,3,0,"12,11,11|10,4,6",GROUP,WTT_FEEDER,MS,2740,Main Draw,ZHU Jiaqi (CHN),SUSILO Braydon (INA),ZHU Jiaqi
+WTT Feeder Bangkok 2023,2023-09-04,KIM Munsu,LIAUW Felix,3,0,"11,11,11|5,9,6",GROUP,WTT_FEEDER,MS,2740,Main Draw,KIM Munsu (KOR),LIAUW Felix (INA),KIM Munsu
+WTT Feeder Bangkok 2023,2023-09-04,KIM Yanghyun,FONG Jay Shern,3,0,"14,11,11|12,7,6",GROUP,WTT_FEEDER,MS,2740,Main Draw,KIM Yanghyun (KOR),FONG Jay Shern (MAS),KIM Yanghyun
+WTT Feeder Bangkok 2023,2023-09-04,CHO Sangyeon,RATSAMIPLANG Ratchaphon,3,0,"11,14,11|2,12,9",GROUP,WTT_FEEDER,MS,2740,Main Draw,CHO Sangyeon (KOR),RATSAMIPLANG Ratchaphon (THA),CHO Sangyeon
+WTT Feeder Bangkok 2023,2023-09-04,SAEOU Tieanchai/DIKAENG Natsima,YAMLEEMUL Pongspat/PANKHAOYOY Supamas,3,2,"5,11,7,11,11|11,9,11,7,7",QR1,WTT_FEEDER,XD,2740,Qualification,SAEOU Tieanchai/DIKAENG Natsima (THA),YAMLEEMUL Pongspat/PANKHAOYOY Supamas (THA),SAEOU Tieanchai/DIKAENG Natsima
+WTT Feeder Bangkok 2023,2023-09-04,KIM Daewoo/SIM Hyunju,MITRA Abhimanyu/GOEL Radhapriya,3,1,"11,11,9,11|3,6,11,7",QR1,WTT_FEEDER,XD,2740,Qualification,KIM Daewoo/SIM Hyunju (KOR),MITRA Abhimanyu/GOEL Radhapriya (IND),KIM Daewoo/SIM Hyunju
+WTT Feeder Bangkok 2023,2023-09-04,PAL Akash/BAISYA Poymantee,GOMBOS Ludovic/KE Tiffany,3,1,"11,12,11,11|8,10,13,5",QR1,WTT_FEEDER,XD,2740,Qualification,PAL Akash/BAISYA Poymantee (IND),GOMBOS Ludovic/KE Tiffany (USA),PAL Akash/BAISYA Poymantee
+WTT Feeder Bangkok 2023,2023-09-04,GHOSH Anirban/AMRUTE Shruti Vijay,THANMATHIKOM Tanapat/SREECHAK Wiranchana,3,2,"7,11,6,11,11|11,4,11,4,5",QR1,WTT_FEEDER,XD,2740,Qualification,GHOSH Anirban/AMRUTE Shruti Vijay (IND),THANMATHIKOM Tanapat/SREECHAK Wiranchana (THA),GHOSH Anirban/AMRUTE Shruti Vijay
+WTT Feeder Bangkok 2023,2023-09-04,CHEN Junsong/FAN Shuhan,YANG Chia-An/CHENG Hsien-Tzu,3,1,"11,11,8,11|9,9,11,3",QR1,WTT_FEEDER,XD,2740,Qualification,CHEN Junsong/FAN Shuhan (CHN),YANG Chia-An/CHENG Hsien-Tzu (TPE),CHEN Junsong/FAN Shuhan
+WTT Feeder Bangkok 2023,2023-09-05,KWAK Yu Bin,ZHU Jiaqi,3,1,"7,14,11,12|11,12,5,10",GROUP,WTT_FEEDER,MS,2740,Main Draw,KWAK Yu Bin (KOR),ZHU Jiaqi (CHN),KWAK Yu Bin
+WTT Feeder Bangkok 2023,2023-09-05,YOSHIMURA Kazuhiro,SEO Hyeonwoo,3,0,"11,11,11|9,1,9",GROUP,WTT_FEEDER,MS,2740,Main Draw,YOSHIMURA Kazuhiro (JPN),SEO Hyeonwoo (KOR),YOSHIMURA Kazuhiro
+WTT Feeder Bangkok 2023,2023-09-05,SHI Cancheng,YAMLEEMUL Pongspat,3,0,"11,11,11|4,3,4",GROUP,WTT_FEEDER,MS,2740,Main Draw,SHI Cancheng (CHN),YAMLEEMUL Pongspat (THA),SHI Cancheng
+WTT Feeder Bangkok 2023,2023-09-05,SUN Yang,CHO Sangyeon,3,0,"11,11,11|5,7,7",GROUP,WTT_FEEDER,MS,2740,Main Draw,SUN Yang (CHN),CHO Sangyeon (KOR),SUN Yang
+WTT Feeder Bangkok 2023,2023-09-05,BOONSIRIWATCHARAKUL Chonlasith,SUSILO Braydon,3,2,"11,7,9,12,11|8,11,11,10,8",GROUP,WTT_FEEDER,MS,2740,Main Draw,BOONSIRIWATCHARAKUL Chonlasith (THA),SUSILO Braydon (INA),BOONSIRIWATCHARAKUL Chonlasith
+WTT Feeder Bangkok 2023,2023-09-05,FONG Jay Shern,YATAWANON Wasaphon,3,1,"11,11,8,11|3,1,11,8",GROUP,WTT_FEEDER,MS,2740,Main Draw,FONG Jay Shern (MAS),YATAWANON Wasaphon (THA),FONG Jay Shern
+WTT Feeder Bangkok 2023,2023-09-05,SONE Kakeru,KIM Minhyeok,3,2,"6,11,11,6,11|11,6,9,11,7",GROUP,WTT_FEEDER,MS,2740,Main Draw,SONE Kakeru (JPN),KIM Minhyeok (KOR),SONE Kakeru
+WTT Feeder Bangkok 2023,2023-09-05,KIM Daewoo,SOIPHUANG Nimit,3,2,"11,5,11,6,11|6,11,6,11,1",GROUP,WTT_FEEDER,MS,2740,Main Draw,KIM Daewoo (KOR),SOIPHUANG Nimit (THA),KIM Daewoo
+WTT Feeder Bangkok 2023,2023-09-05,KIM Munsu,SAEOU Tieanchai,3,0,"11,11,11|9,9,5",GROUP,WTT_FEEDER,MS,2740,Main Draw,KIM Munsu (KOR),SAEOU Tieanchai (THA),KIM Munsu
+WTT Feeder Bangkok 2023,2023-09-05,PANKHAOYOY Supamas/DIKAENG Natsima,SREECHAK Wiranchana/WONGLAPASSAKUL Kullarat,3,1,"11,4,11,11|8,11,9,5",QR1,WTT_FEEDER,WD,2740,Qualification,PANKHAOYOY Supamas/DIKAENG Natsima (THA),SREECHAK Wiranchana/WONGLAPASSAKUL Kullarat (THA),PANKHAOYOY Supamas/DIKAENG Natsima
+WTT Feeder Bangkok 2023,2023-09-05,MANI Nithya/GOEL Radhapriya,CHANTANA Thanwarat/DERUJIJAROEN Khemisarar,3,1,"8,11,11,11|11,5,6,9",QR1,WTT_FEEDER,WD,2740,Qualification,MANI Nithya/GOEL Radhapriya (IND),CHANTANA Thanwarat/DERUJIJAROEN Khemisarar (THA),MANI Nithya/GOEL Radhapriya
+WTT Feeder Bangkok 2023,2023-09-05,KIM Yanghyun/CHO Sangyeon,SAEOU Tieanchai/RATSAMIPLANG Ratchaphon,3,0,"11,11,11|8,7,9",QR2,WTT_FEEDER,MD,2740,Qualification,KIM Yanghyun/CHO Sangyeon (KOR),SAEOU Tieanchai/RATSAMIPLANG Ratchaphon (THA),KIM Yanghyun/CHO Sangyeon
+WTT Feeder Bangkok 2023,2023-09-05,CHOI Inhyeok/KIM Daewoo,KIM Minhyeok/KWAK Yu Bin,3,0,"11,12,11|7,10,9",QR2,WTT_FEEDER,MD,2740,Qualification,CHOI Inhyeok/KIM Daewoo (KOR),KIM Minhyeok/KWAK Yu Bin (KOR),CHOI Inhyeok/KIM Daewoo
+WTT Feeder Bangkok 2023,2023-09-05,PAL Akash/MITRA Abhimanyu,SUSILO Braydon/LIAUW Felix,3,0,"11,11,11|4,6,2",QR2,WTT_FEEDER,MD,2740,Qualification,PAL Akash/MITRA Abhimanyu (IND),SUSILO Braydon/LIAUW Felix (INA),PAL Akash/MITRA Abhimanyu
+WTT Feeder Bangkok 2023,2023-09-05,CHEN Junsong/ZHU Jiaqi,YATAWANON Wasaphon/YAMLEEMUL Pongspat,3,0,"11,11,11|4,4,3",QR2,WTT_FEEDER,MD,2740,Qualification,CHEN Junsong/ZHU Jiaqi (CHN),YATAWANON Wasaphon/YAMLEEMUL Pongspat (THA),CHEN Junsong/ZHU Jiaqi
+WTT Feeder Bangkok 2023,2023-09-05,GHOSH Anirban/AMRUTE Shruti Vijay,PRASONGPOL Nawachet/TAYAPITAK Wirakarn,3,1,"11,11,8,11|5,7,11,9",QR2,WTT_FEEDER,XD,2740,Qualification,GHOSH Anirban/AMRUTE Shruti Vijay (IND),PRASONGPOL Nawachet/TAYAPITAK Wirakarn (THA),GHOSH Anirban/AMRUTE Shruti Vijay
+WTT Feeder Bangkok 2023,2023-09-05,KIM Daewoo/SIM Hyunju,PAL Akash/BAISYA Poymantee,3,2,"12,3,11,3,11|10,11,4,11,6",QR2,WTT_FEEDER,XD,2740,Qualification,KIM Daewoo/SIM Hyunju (KOR),PAL Akash/BAISYA Poymantee (IND),KIM Daewoo/SIM Hyunju
+WTT Feeder Bangkok 2023,2023-09-05,CHEN Junsong/FAN Shuhan,PARK Chan-Hyeok/LEE Daeun,3,1,"11,4,11,13|2,11,8,11",QR2,WTT_FEEDER,XD,2740,Qualification,CHEN Junsong/FAN Shuhan (CHN),PARK Chan-Hyeok/LEE Daeun (KOR),CHEN Junsong/FAN Shuhan
+WTT Feeder Bangkok 2023,2023-09-05,LI Hsin-Yang/CHEN Ying-Chen,SAEOU Tieanchai/DIKAENG Natsima,3,0,"11,11,11|3,7,7",QR2,WTT_FEEDER,XD,2740,Qualification,LI Hsin-Yang/CHEN Ying-Chen (TPE),SAEOU Tieanchai/DIKAENG Natsima (THA),LI Hsin-Yang/CHEN Ying-Chen
+WTT Feeder Bangkok 2023,2023-09-06,SAELEE Puripong,CHUA Josh Shao Han,3,2,"8,6,11,11,11|11,11,6,9,8",R64,WTT_FEEDER,MS,2740,Main Draw,SAELEE Puripong (THA),CHUA Josh Shao Han (SGP),SAELEE Puripong
+WTT Feeder Bangkok 2023,2023-09-06,YOSHIMURA Kazuhiro,CHOI Inhyeok,3,2,"5,11,11,5,11|11,9,5,11,9",R64,WTT_FEEDER,MS,2740,Main Draw,YOSHIMURA Kazuhiro (JPN),CHOI Inhyeok (KOR),YOSHIMURA Kazuhiro
+WTT Feeder Bangkok 2023,2023-09-06,KIM Yanghyun,MAUNGWHAN Chayaduj,3,0,"11,13,13|9,11,11",R64,WTT_FEEDER,MS,2740,Main Draw,KIM Yanghyun (KOR),MAUNGWHAN Chayaduj (THA),KIM Yanghyun
+WTT Feeder Bangkok 2023,2023-09-06,PARK Chan-Hyeok,DANI Mudit,3,0,"11,11,11|2,7,5",R64,WTT_FEEDER,MS,2740,Main Draw,PARK Chan-Hyeok (KOR),DANI Mudit (IND),PARK Chan-Hyeok
+WTT Feeder Bangkok 2023,2023-09-06,LI Hsin-Yang,CHANDRA Jeet,3,0,"11,11,11|7,9,7",R64,WTT_FEEDER,MS,2740,Main Draw,LI Hsin-Yang (TPE),CHANDRA Jeet (IND),LI Hsin-Yang
+WTT Feeder Bangkok 2023,2023-09-06,GHOSH Anirban,CHOY Chun Kit,3,1,"11,12,9,11|9,10,11,5",R64,WTT_FEEDER,MS,2740,Main Draw,GHOSH Anirban (IND),CHOY Chun Kit (HKG),GHOSH Anirban
+WTT Feeder Bangkok 2023,2023-09-06,KONG Tsz Lam,KOLA Nanapat,3,2,"11,11,6,9,11|7,6,11,11,9",R64,WTT_FEEDER,WS,2740,Main Draw,KONG Tsz Lam (HKG),KOLA Nanapat (THA),KONG Tsz Lam
+WTT Feeder Bangkok 2023,2023-09-06,KIM Taehyun,SHETTY Sanil,3,1,"11,8,11,11|7,11,7,8",R64,WTT_FEEDER,MS,2740,Main Draw,KIM Taehyun (AUT),SHETTY Sanil (IND),KIM Taehyun
+WTT Feeder Bangkok 2023,2023-09-06,PAU Yik Man,GOMBOS Ludovic,3,0,"11,11,11|6,1,6",R64,WTT_FEEDER,MS,2740,Main Draw,PAU Yik Man (HKG),GOMBOS Ludovic (USA),PAU Yik Man
+WTT Feeder Bangkok 2023,2023-09-06,HUANG Yu-Chiao,BAISYA Poymantee,3,1,"8,11,11,11|11,8,8,7",R64,WTT_FEEDER,WS,2740,Main Draw,HUANG Yu-Chiao (TPE),BAISYA Poymantee (IND),HUANG Yu-Chiao
+WTT Feeder Bangkok 2023,2023-09-06,KIM Seoyun,CHANTANA Thanwarat,3,0,"11,11,11|4,3,2",R64,WTT_FEEDER,WS,2740,Main Draw,KIM Seoyun (KOR),CHANTANA Thanwarat (THA),KIM Seoyun
+WTT Feeder Bangkok 2023,2023-09-06,SUN Sinan,CHEN Ying-Chen,3,2,"11,11,9,5,12|6,5,11,11,10",R64,WTT_FEEDER,WS,2740,Main Draw,SUN Sinan (CHN),CHEN Ying-Chen (TPE),SUN Sinan
+WTT Feeder Bangkok 2023,2023-09-06,CHENG Hsien-Tzu,SIM Hyunju,3,0,"11,11,11|4,6,8",R64,WTT_FEEDER,WS,2740,Main Draw,CHENG Hsien-Tzu (TPE),SIM Hyunju (KOR),CHENG Hsien-Tzu
+WTT Feeder Bangkok 2023,2023-09-06,GHOSH Swastika,SREECHAK Wiranchana,3,1,"6,11,11,11|11,9,4,8",R64,WTT_FEEDER,WS,2740,Main Draw,GHOSH Swastika (IND),SREECHAK Wiranchana (THA),GHOSH Swastika
+WTT Feeder Bangkok 2023,2023-09-06,MANI Nithya,DIKAENG Natsima,3,0,"11,11,14|7,8,12",R64,WTT_FEEDER,WS,2740,Main Draw,MANI Nithya (IND),DIKAENG Natsima (THA),MANI Nithya
+WTT Feeder Bangkok 2023,2023-09-06,TAYAPITAK Wirakarn,WONG Hoi Tung,3,0,"11,11,11|7,5,8",R64,WTT_FEEDER,WS,2740,Main Draw,TAYAPITAK Wirakarn (THA),WONG Hoi Tung (HKG),TAYAPITAK Wirakarn
+WTT Feeder Bangkok 2023,2023-09-06,CHOI Inhyeok/KIM Daewoo,THANMATHIKOM Tanapat/SAELEE Puripong,3,0,"11,11,11|8,2,9",R16,WTT_FEEDER,MD,2740,Main Draw,CHOI Inhyeok/KIM Daewoo (KOR),THANMATHIKOM Tanapat/SAELEE Puripong (THA),CHOI Inhyeok/KIM Daewoo
+WTT Feeder Bangkok 2023,2023-09-06,CHAN Baldwin Ho Wah/YIU Kwan To,PAL Akash/MITRA Abhimanyu,3,0,"11,11,11|8,4,5",R16,WTT_FEEDER,MD,2740,Main Draw,CHAN Baldwin Ho Wah/YIU Kwan To (HKG),PAL Akash/MITRA Abhimanyu (IND),CHAN Baldwin Ho Wah/YIU Kwan To
+WTT Feeder Bangkok 2023,2023-09-06,YOSHIMURA Maharu/YOKOTANI Jo,CHANDRA Jeet/SURAVAJJULA Snehit,3,0,"12,14,11|10,12,8",R16,WTT_FEEDER,MD,2740,Main Draw,YOSHIMURA Maharu/YOKOTANI Jo (JPN),CHANDRA Jeet/SURAVAJJULA Snehit (IND),YOSHIMURA Maharu/YOKOTANI Jo
+WTT Feeder Bangkok 2023,2023-09-06,KANG Dongsoo/PARK Chan-Hyeok,YANG Chia-An/LIN Yen-Chun,3,1,"8,11,11,11|11,8,9,6",R16,WTT_FEEDER,MD,2740,Main Draw,KANG Dongsoo/PARK Chan-Hyeok (KOR),YANG Chia-An/LIN Yen-Chun (TPE),KANG Dongsoo/PARK Chan-Hyeok
+WTT Feeder Bangkok 2023,2023-09-06,OIKAWA Mizuki/YOSHIMURA Kazuhiro,CHUA Josh Shao Han/FONG Jay Shern,3,2,"11,11,8,5,11|9,6,11,11,8",R16,WTT_FEEDER,MD,2740,Main Draw,OIKAWA Mizuki/YOSHIMURA Kazuhiro (JPN),CHUA Josh Shao Han/FONG Jay Shern (SGP/MAS),OIKAWA Mizuki/YOSHIMURA Kazuhiro
+WTT Feeder Bangkok 2023,2023-09-06,PRASONGPOL Nawachet/MAUNGWHAN Chayaduj,GHOSH Anirban/SHETTY Sanil,3,2,"5,11,6,11,11|11,6,11,6,9",R16,WTT_FEEDER,MD,2740,Main Draw,PRASONGPOL Nawachet/MAUNGWHAN Chayaduj (THA),GHOSH Anirban/SHETTY Sanil (IND),PRASONGPOL Nawachet/MAUNGWHAN Chayaduj
+WTT Feeder Bangkok 2023,2023-09-06,HUANG Youzheng/WEN Ruibo,KIM Yanghyun/CHO Sangyeon,3,0,"11,11,11|7,8,5",R16,WTT_FEEDER,MD,2740,Main Draw,HUANG Youzheng/WEN Ruibo (CHN),KIM Yanghyun/CHO Sangyeon (KOR),HUANG Youzheng/WEN Ruibo
+WTT Feeder Bangkok 2023,2023-09-06,CHEN Junsong/ZHU Jiaqi,PAU Yik Man/CHOY Chun Kit,3,0,"11,13,11|4,11,7",R16,WTT_FEEDER,MD,2740,Main Draw,CHEN Junsong/ZHU Jiaqi (CHN),PAU Yik Man/CHOY Chun Kit (HKG),CHEN Junsong/ZHU Jiaqi
+WTT Feeder Bangkok 2023,2023-09-06,YOON Hyobin/SIM Hyunju,KIM Nayeong/RYU Hanna,3,0,"11,11,11|2,3,8",R16,WTT_FEEDER,WD,2740,Main Draw,YOON Hyobin/SIM Hyunju (KOR),KIM Nayeong/RYU Hanna (KOR),YOON Hyobin/SIM Hyunju
+WTT Feeder Bangkok 2023,2023-09-06,WONGLAKHON Phatsaraphon/VIJITVIRIYAGUL Kulapassr,MANI Nithya/GOEL Radhapriya,3,2,"10,7,11,11,11|12,11,9,6,5",R16,WTT_FEEDER,WD,2740,Main Draw,WONGLAKHON Phatsaraphon/VIJITVIRIYAGUL Kulapassr (THA),MANI Nithya/GOEL Radhapriya (IND),WONGLAKHON Phatsaraphon/VIJITVIRIYAGUL Kulapassr
+WTT Feeder Bangkok 2023,2023-09-06,NG Wing Lam/LAM Yee Lok,LIU Hsing-Yin/CHENG Hsien-Tzu,3,0,"13,11,11|11,9,7",R16,WTT_FEEDER,WD,2740,Main Draw,NG Wing Lam/LAM Yee Lok (HKG),LIU Hsing-Yin/CHENG Hsien-Tzu (TPE),NG Wing Lam/LAM Yee Lok
+WTT Feeder Bangkok 2023,2023-09-06,FAN Shuhan/QIN Yuxuan,HUANG Hsin/HUANG Yu-Chiao,3,1,"11,11,11,11|9,8,13,8",R16,WTT_FEEDER,WD,2740,Main Draw,FAN Shuhan/QIN Yuxuan (CHN),HUANG Hsin/HUANG Yu-Chiao (TPE),FAN Shuhan/QIN Yuxuan
+WTT Feeder Bangkok 2023,2023-09-06,XU Yi/DING Yijie,AMRUTE Shruti Vijay/GHOSH Swastika,3,0,"11,11,11|3,5,8",R16,WTT_FEEDER,WD,2740,Main Draw,XU Yi/DING Yijie (CHN),AMRUTE Shruti Vijay/GHOSH Swastika (IND),XU Yi/DING Yijie
+WTT Feeder Bangkok 2023,2023-09-06,KIM Munsu,ANTHONY Amalraj,3,0,"11,12,12|6,10,10",R64,WTT_FEEDER,MS,2740,Main Draw,KIM Munsu (KOR),ANTHONY Amalraj (IND),KIM Munsu
+WTT Feeder Bangkok 2023,2023-09-06,KONG Tsz Lam/WONG Hoi Tung,PANKHAOYOY Supamas/DIKAENG Natsima,3,0,"11,11,11|5,8,5",R16,WTT_FEEDER,WD,2740,Main Draw,KONG Tsz Lam/WONG Hoi Tung (HKG),PANKHAOYOY Supamas/DIKAENG Natsima (THA),KONG Tsz Lam/WONG Hoi Tung
+WTT Feeder Bangkok 2023,2023-09-06,ZHANG Xiangyu/ZONG Geman,TAYAPITAK Wirakarn/KOLA Nanapat,3,0,"11,11,11|4,9,6",R16,WTT_FEEDER,WD,2740,Main Draw,ZHANG Xiangyu/ZONG Geman (CHN),TAYAPITAK Wirakarn/KOLA Nanapat (THA),ZHANG Xiangyu/ZONG Geman
+WTT Feeder Bangkok 2023,2023-09-06,KIM Seoyun/LEE Zion,BAISYA Poymantee/TENNISON Reeth,3,0,"11,11,11|8,6,7",R16,WTT_FEEDER,WD,2740,Main Draw,KIM Seoyun/LEE Zion (KOR),BAISYA Poymantee/TENNISON Reeth (IND),KIM Seoyun/LEE Zion
+WTT Feeder Bangkok 2023,2023-09-06,KWAK Yu Bin,SUN Yang,3,0,"11,11,12|5,2,10",R64,WTT_FEEDER,MS,2740,Main Draw,KWAK Yu Bin (KOR),SUN Yang (CHN),KWAK Yu Bin
+WTT Feeder Bangkok 2023,2023-09-06,PAL Akash,SHI Cancheng,3,1,"11,8,11,11|3,11,8,5",R64,WTT_FEEDER,MS,2740,Main Draw,PAL Akash (IND),SHI Cancheng (CHN),PAL Akash
+WTT Feeder Bangkok 2023,2023-09-06,MALIK Yashansh,CHEN Junsong,3,1,"11,9,11,11|7,11,8,7",R64,WTT_FEEDER,MS,2740,Main Draw,MALIK Yashansh (IND),CHEN Junsong (CHN),MALIK Yashansh
+WTT Feeder Bangkok 2023,2023-09-06,YANG Chia-An,THANMATHIKOM Tanapat,3,0,"11,11,11|7,6,6",R64,WTT_FEEDER,MS,2740,Main Draw,YANG Chia-An (TPE),THANMATHIKOM Tanapat (THA),YANG Chia-An
+WTT Feeder Bangkok 2023,2023-09-06,KIM Daewoo,PRASONGPOL Nawachet,3,0,"11,14,11|8,12,2",R64,WTT_FEEDER,MS,2740,Main Draw,KIM Daewoo (KOR),PRASONGPOL Nawachet (THA),KIM Daewoo
+WTT Feeder Bangkok 2023,2023-09-06,RYU Hanna,GOEL Radhapriya,3,1,"11,11,11,11|9,6,13,9",R64,WTT_FEEDER,WS,2740,Main Draw,RYU Hanna (KOR),GOEL Radhapriya (IND),RYU Hanna
+WTT Feeder Bangkok 2023,2023-09-06,SONE Kakeru,CASTRO Rogelio,3,0,"11,11,11|8,5,4",R64,WTT_FEEDER,MS,2740,Main Draw,SONE Kakeru (JPN),CASTRO Rogelio (MEX),SONE Kakeru
+WTT Feeder Bangkok 2023,2023-09-06,CHEN Hengda,AHMAD Afzaal,3,0,"11,11,11|2,6,5",R64,WTT_FEEDER,MS,2740,Main Draw,CHEN Hengda (CHN),AHMAD Afzaal (PAK),CHEN Hengda
+WTT Feeder Bangkok 2023,2023-09-06,AMRUTE Shruti Vijay,MADURANGI Ishara,3,0,"11,11,11|9,5,9",R64,WTT_FEEDER,WS,2740,Main Draw,AMRUTE Shruti Vijay (IND),MADURANGI Ishara (SRI),AMRUTE Shruti Vijay
+WTT Feeder Bangkok 2023,2023-09-06,HUANG Hsin,WONGLAKHON Phatsaraphon,3,0,"11,11,11|9,4,7",R64,WTT_FEEDER,WS,2740,Main Draw,HUANG Hsin (TPE),WONGLAKHON Phatsaraphon (THA),HUANG Hsin
+WTT Feeder Bangkok 2023,2023-09-06,ZHANG Xiangyu,YEH Yi-Tian,3,0,"11,11,11|9,8,6",R64,WTT_FEEDER,WS,2740,Main Draw,ZHANG Xiangyu (CHN),YEH Yi-Tian (TPE),ZHANG Xiangyu
+WTT Feeder Bangkok 2023,2023-09-06,VIJITVIRIYAGUL Kulapassr,PANKHAOYOY Supamas,3,2,"11,9,11,9,12|8,11,2,11,10",R64,WTT_FEEDER,WS,2740,Main Draw,VIJITVIRIYAGUL Kulapassr (THA),PANKHAOYOY Supamas (THA),VIJITVIRIYAGUL Kulapassr
+WTT Feeder Bangkok 2023,2023-09-06,YAN Yutong,KE Tiffany,3,1,"15,6,11,11|13,11,7,5",R64,WTT_FEEDER,WS,2740,Main Draw,YAN Yutong (CHN),KE Tiffany (USA),YAN Yutong
+WTT Feeder Bangkok 2023,2023-09-06,LEE Daeun,MAK Ming Shum,3,1,"11,15,11,11|5,17,9,7",R64,WTT_FEEDER,WS,2740,Main Draw,LEE Daeun (KOR),MAK Ming Shum (HKG),LEE Daeun
+WTT Feeder Bangkok 2023,2023-09-06,DING Yijie,WONGLAPASSAKUL Kullarat,3,0,"11,11,11|8,1,2",R64,WTT_FEEDER,WS,2740,Main Draw,DING Yijie (CHN),WONGLAPASSAKUL Kullarat (THA),DING Yijie
+WTT Feeder Bangkok 2023,2023-09-06,SAELEE Puripong/WONGLAKHON Phatsaraphon,MAUNGWHAN Chayaduj/KOLA Nanapat,3,2,"11,11,11,10,13|13,4,4,12,11",R16,WTT_FEEDER,XD,2740,Main Draw,SAELEE Puripong/WONGLAKHON Phatsaraphon (THA),MAUNGWHAN Chayaduj/KOLA Nanapat (THA),SAELEE Puripong/WONGLAKHON Phatsaraphon
+WTT Feeder Bangkok 2023,2023-09-06,WEN Ruibo/ZHANG Xiangyu,KIM Minhyeok/KIM Seoyun,3,1,"8,11,11,11|11,4,4,8",R16,WTT_FEEDER,XD,2740,Main Draw,WEN Ruibo/ZHANG Xiangyu (CHN),KIM Minhyeok/KIM Seoyun (KOR),WEN Ruibo/ZHANG Xiangyu
+WTT Feeder Bangkok 2023,2023-09-06,KWAK Yu Bin/YOON Hyobin,LI Hsin-Yang/CHEN Ying-Chen,3,1,"10,11,11,11|12,5,8,8",R16,WTT_FEEDER,XD,2740,Main Draw,KWAK Yu Bin/YOON Hyobin (KOR),LI Hsin-Yang/CHEN Ying-Chen (TPE),KWAK Yu Bin/YOON Hyobin
+WTT Feeder Bangkok 2023,2023-09-06,HUANG Youzheng/QIN Yuxuan,YIU Kwan To/NG Wing Lam,3,0,"14,11,12|12,9,10",R16,WTT_FEEDER,XD,2740,Main Draw,HUANG Youzheng/QIN Yuxuan (CHN),YIU Kwan To/NG Wing Lam (HKG),HUANG Youzheng/QIN Yuxuan
+WTT Feeder Bangkok 2023,2023-09-06,CHEN Junsong/FAN Shuhan,CHO Daeseong/LEE Zion,3,1,"10,11,11,11|12,8,7,6",R16,WTT_FEEDER,XD,2740,Main Draw,CHEN Junsong/FAN Shuhan (CHN),CHO Daeseong/LEE Zion (KOR),CHEN Junsong/FAN Shuhan
+WTT Feeder Bangkok 2023,2023-09-06,CHOY Chun Kit/KONG Tsz Lam,CHAN Baldwin Ho Wah/WONG Hoi Tung,3,1,"11,4,11,12|8,11,9,10",R16,WTT_FEEDER,XD,2740,Main Draw,CHOY Chun Kit/KONG Tsz Lam (HKG),CHAN Baldwin Ho Wah/WONG Hoi Tung (HKG),CHOY Chun Kit/KONG Tsz Lam
+WTT Feeder Bangkok 2023,2023-09-06,CHANDRA Jeet/TENNISON Reeth,MALIK Yashansh/GHOSH Swastika,3,0,"11,11,11|4,8,8",R16,WTT_FEEDER,XD,2740,Main Draw,CHANDRA Jeet/TENNISON Reeth (IND),MALIK Yashansh/GHOSH Swastika (IND),CHANDRA Jeet/TENNISON Reeth
+WTT Feeder Bangkok 2023,2023-09-06,KIM Daewoo/SIM Hyunju,GHOSH Anirban/AMRUTE Shruti Vijay,3,0,"11,11,13|8,7,11",R16,WTT_FEEDER,XD,2740,Main Draw,KIM Daewoo/SIM Hyunju (KOR),GHOSH Anirban/AMRUTE Shruti Vijay (IND),KIM Daewoo/SIM Hyunju
+WTT Feeder Bangkok 2023,2023-09-07,PARK Chan-Hyeok,STOYANOV Niagol,3,2,"7,10,11,11,11|11,12,6,9,5",R16,WTT_FEEDER,MS,2740,Main Draw,PARK Chan-Hyeok (KOR),STOYANOV Niagol (ITA),PARK Chan-Hyeok
+WTT Feeder Bangkok 2023,2023-09-07,OIKAWA Mizuki,KIM Daewoo,3,1,"8,11,12,11|11,5,10,2",R16,WTT_FEEDER,MS,2740,Main Draw,OIKAWA Mizuki (JPN),KIM Daewoo (KOR),OIKAWA Mizuki
+WTT Feeder Bangkok 2023,2023-09-07,YOSHIMURA Maharu,SURAVAJJULA Snehit,3,2,"13,11,11,11,12|15,7,5,13,10",R16,WTT_FEEDER,MS,2740,Main Draw,YOSHIMURA Maharu (JPN),SURAVAJJULA Snehit (IND),YOSHIMURA Maharu
+WTT Feeder Bangkok 2023,2023-09-07,HUANG Youzheng,YOSHIMURA Kazuhiro,3,1,"11,5,11,11|9,11,9,8",R16,WTT_FEEDER,MS,2740,Main Draw,HUANG Youzheng (CHN),YOSHIMURA Kazuhiro (JPN),HUANG Youzheng
+WTT Feeder Bangkok 2023,2023-09-07,WEN Ruibo,BOBOCICA Mihai,3,1,"11,11,9,12|6,6,11,10",R16,WTT_FEEDER,MS,2740,Main Draw,WEN Ruibo (CHN),BOBOCICA Mihai (ITA),WEN Ruibo
+WTT Feeder Bangkok 2023,2023-09-07,SONE Kakeru,CHAN Baldwin Ho Wah,3,0,"11,11,11|8,5,5",R16,WTT_FEEDER,MS,2740,Main Draw,SONE Kakeru (JPN),CHAN Baldwin Ho Wah (HKG),SONE Kakeru
+WTT Feeder Bangkok 2023,2023-09-07,QIN Yuxuan,YAN Yutong,3,1,"11,7,11,11|8,11,8,9",R16,WTT_FEEDER,WS,2740,Main Draw,QIN Yuxuan (CHN),YAN Yutong (CHN),QIN Yuxuan
+WTT Feeder Bangkok 2023,2023-09-07,LIN Yen-Chun,LI Hsin-Yang,3,1,"7,13,16,11|11,11,14,8",R16,WTT_FEEDER,MS,2740,Main Draw,LIN Yen-Chun (TPE),LI Hsin-Yang (TPE),LIN Yen-Chun
+WTT Feeder Bangkok 2023,2023-09-07,KWAK Yu Bin,LIAO Cheng-Ting,3,2,"6,4,12,11,11|11,11,10,8,7",R16,WTT_FEEDER,MS,2740,Main Draw,KWAK Yu Bin (KOR),LIAO Cheng-Ting (TPE),KWAK Yu Bin
+WTT Feeder Bangkok 2023,2023-09-07,ZHANG Xiangyu,LEE Zion,3,1,"13,8,11,11|11,11,6,8",R16,WTT_FEEDER,WS,2740,Main Draw,ZHANG Xiangyu (CHN),LEE Zion (KOR),ZHANG Xiangyu
+WTT Feeder Bangkok 2023,2023-09-07,FAN Shuhan,ZONG Geman,3,1,"11,14,7,11|9,12,11,3",R16,WTT_FEEDER,WS,2740,Main Draw,FAN Shuhan (CHN),ZONG Geman (CHN),FAN Shuhan
+WTT Feeder Bangkok 2023,2023-09-07,SASAO Asuka,LIU Hsing-Yin,3,1,"11,12,8,12|3,10,11,10",R16,WTT_FEEDER,WS,2740,Main Draw,SASAO Asuka (JPN),LIU Hsing-Yin (TPE),SASAO Asuka
+WTT Feeder Bangkok 2023,2023-09-07,GHOSH Swastika,NG Wing Lam,3,0,"12,11,12|10,9,10",R16,WTT_FEEDER,WS,2740,Main Draw,GHOSH Swastika (IND),NG Wing Lam (HKG),GHOSH Swastika
+WTT Feeder Bangkok 2023,2023-09-07,XU Yi,HUANG Yu-Chiao,3,2,"6,11,9,11,11|11,4,11,4,8",R16,WTT_FEEDER,WS,2740,Main Draw,XU Yi (CHN),HUANG Yu-Chiao (TPE),XU Yi
+WTT Feeder Bangkok 2023,2023-09-07,HUANG Hsin,MANI Nithya,3,2,"11,7,8,11,11|7,11,11,6,3",R16,WTT_FEEDER,WS,2740,Main Draw,HUANG Hsin (TPE),MANI Nithya (IND),HUANG Hsin
+WTT Feeder Bangkok 2023,2023-09-07,MORI Sakura,TENNISON Reeth,3,0,"11,11,11|5,9,4",R16,WTT_FEEDER,WS,2740,Main Draw,MORI Sakura (JPN),TENNISON Reeth (IND),MORI Sakura
+WTT Feeder Bangkok 2023,2023-09-07,CHAN Baldwin Ho Wah/YIU Kwan To,HUANG Youzheng/WEN Ruibo,3,2,"4,11,11,11,11|11,13,4,9,8",QF,WTT_FEEDER,MD,2740,Main Draw,CHAN Baldwin Ho Wah/YIU Kwan To (HKG),HUANG Youzheng/WEN Ruibo (CHN),CHAN Baldwin Ho Wah/YIU Kwan To
+WTT Feeder Bangkok 2023,2023-09-07,CHEN Junsong/ZHU Jiaqi,PRASONGPOL Nawachet/MAUNGWHAN Chayaduj,3,0,"11,11,12|2,5,10",QF,WTT_FEEDER,MD,2740,Main Draw,CHEN Junsong/ZHU Jiaqi (CHN),PRASONGPOL Nawachet/MAUNGWHAN Chayaduj (THA),CHEN Junsong/ZHU Jiaqi
+WTT Feeder Bangkok 2023,2023-09-07,OIKAWA Mizuki/YOSHIMURA Kazuhiro,CHOI Inhyeok/KIM Daewoo,3,0,"11,11,11|6,5,7",QF,WTT_FEEDER,MD,2740,Main Draw,OIKAWA Mizuki/YOSHIMURA Kazuhiro (JPN),CHOI Inhyeok/KIM Daewoo (KOR),OIKAWA Mizuki/YOSHIMURA Kazuhiro
+WTT Feeder Bangkok 2023,2023-09-07,YOSHIMURA Maharu/YOKOTANI Jo,KANG Dongsoo/PARK Chan-Hyeok,3,0,"11,11,12|9,5,10",QF,WTT_FEEDER,MD,2740,Main Draw,YOSHIMURA Maharu/YOKOTANI Jo (JPN),KANG Dongsoo/PARK Chan-Hyeok (KOR),YOSHIMURA Maharu/YOKOTANI Jo
+WTT Feeder Bangkok 2023,2023-09-07,XU Yi/DING Yijie,YOON Hyobin/SIM Hyunju,3,2,"11,2,12,6,11|5,11,10,11,5",QF,WTT_FEEDER,WD,2740,Main Draw,XU Yi/DING Yijie (CHN),YOON Hyobin/SIM Hyunju (KOR),XU Yi/DING Yijie
+WTT Feeder Bangkok 2023,2023-09-07,ZHANG Xiangyu/ZONG Geman,NG Wing Lam/LAM Yee Lok,3,1,"9,12,11,11|11,10,6,7",QF,WTT_FEEDER,WD,2740,Main Draw,ZHANG Xiangyu/ZONG Geman (CHN),NG Wing Lam/LAM Yee Lok (HKG),ZHANG Xiangyu/ZONG Geman
+WTT Feeder Bangkok 2023,2023-09-07,WONGLAKHON Phatsaraphon/VIJITVIRIYAGUL Kulapassr,KIM Seoyun/LEE Zion,3,1,"3,11,11,12|11,5,8,10",QF,WTT_FEEDER,WD,2740,Main Draw,WONGLAKHON Phatsaraphon/VIJITVIRIYAGUL Kulapassr (THA),KIM Seoyun/LEE Zion (KOR),WONGLAKHON Phatsaraphon/VIJITVIRIYAGUL Kulapassr
+WTT Feeder Bangkok 2023,2023-09-07,FAN Shuhan/QIN Yuxuan,KONG Tsz Lam/WONG Hoi Tung,3,0,"11,11,11|6,9,5",QF,WTT_FEEDER,WD,2740,Main Draw,FAN Shuhan/QIN Yuxuan (CHN),KONG Tsz Lam/WONG Hoi Tung (HKG),FAN Shuhan/QIN Yuxuan
+WTT Feeder Bangkok 2023,2023-09-07,BOBOCICA Mihai,PAU Yik Man,3,0,"11,11,11|7,4,7",R32,WTT_FEEDER,MS,2740,Main Draw,BOBOCICA Mihai (ITA),PAU Yik Man (HKG),BOBOCICA Mihai
+WTT Feeder Bangkok 2023,2023-09-07,HUANG Youzheng,KIM Taehyun,3,0,"11,11,13|6,9,11",R32,WTT_FEEDER,MS,2740,Main Draw,HUANG Youzheng (CHN),KIM Taehyun (AUT),HUANG Youzheng
+WTT Feeder Bangkok 2023,2023-09-07,YOSHIMURA Kazuhiro,CHO Daeseong,3,0,"11,11,14|7,6,12",R32,WTT_FEEDER,MS,2740,Main Draw,YOSHIMURA Kazuhiro (JPN),CHO Daeseong (KOR),YOSHIMURA Kazuhiro
+WTT Feeder Bangkok 2023,2023-09-07,LIU Hsing-Yin,KONG Tsz Lam,3,1,"10,15,11,11|12,13,6,5",R32,WTT_FEEDER,WS,2740,Main Draw,LIU Hsing-Yin (TPE),KONG Tsz Lam (HKG),LIU Hsing-Yin
+WTT Feeder Bangkok 2023,2023-09-07,LI Hsin-Yang,AIDA Satoshi,3,0,"11,11,13|8,6,11",R32,WTT_FEEDER,MS,2740,Main Draw,LI Hsin-Yang (TPE),AIDA Satoshi (JPN),LI Hsin-Yang
+WTT Feeder Bangkok 2023,2023-09-07,STOYANOV Niagol,KIM Yanghyun,3,1,"13,6,11,14|11,11,1,12",R32,WTT_FEEDER,MS,2740,Main Draw,STOYANOV Niagol (ITA),KIM Yanghyun (KOR),STOYANOV Niagol
+WTT Feeder Bangkok 2023,2023-09-07,PARK Chan-Hyeok,PENG Wang-Wei,3,2,"7,11,11,8,11|11,8,8,11,7",R32,WTT_FEEDER,MS,2740,Main Draw,PARK Chan-Hyeok (KOR),PENG Wang-Wei (TPE),PARK Chan-Hyeok
+WTT Feeder Bangkok 2023,2023-09-07,QIN Yuxuan,CHENG Hsien-Tzu,3,2,"14,4,10,11,11|12,11,12,4,7",R32,WTT_FEEDER,WS,2740,Main Draw,QIN Yuxuan (CHN),CHENG Hsien-Tzu (TPE),QIN Yuxuan
+WTT Feeder Bangkok 2023,2023-09-07,LIN Yen-Chun,SAELEE Puripong,3,0,"11,11,11|7,8,7",R32,WTT_FEEDER,MS,2740,Main Draw,LIN Yen-Chun (TPE),SAELEE Puripong (THA),LIN Yen-Chun
+WTT Feeder Bangkok 2023,2023-09-07,MANI Nithya,HUANG Yu-Jie,3,1,"15,11,9,11|13,4,11,6",R32,WTT_FEEDER,WS,2740,Main Draw,MANI Nithya (IND),HUANG Yu-Jie (TPE),MANI Nithya
+WTT Feeder Bangkok 2023,2023-09-07,HUANG Hsin,CHIEN Tung-Chuan,3,2,"11,7,11,11,11|13,11,6,4,9",R32,WTT_FEEDER,WS,2740,Main Draw,HUANG Hsin (TPE),CHIEN Tung-Chuan (TPE),HUANG Hsin
+WTT Feeder Bangkok 2023,2023-09-07,WEN Ruibo,GHOSH Anirban,3,0,"11,11,11|9,8,4",R32,WTT_FEEDER,MS,2740,Main Draw,WEN Ruibo (CHN),GHOSH Anirban (IND),WEN Ruibo
+WTT Feeder Bangkok 2023,2023-09-07,KWAK Yu Bin,YIU Kwan To,3,2,"11,11,9,6,11|4,9,11,11,4",R32,WTT_FEEDER,MS,2740,Main Draw,KWAK Yu Bin (KOR),YIU Kwan To (HKG),KWAK Yu Bin
+WTT Feeder Bangkok 2023,2023-09-07,HUANG Yu-Chiao,YOON Hyobin,3,1,"9,11,15,11|11,7,13,6",R32,WTT_FEEDER,WS,2740,Main Draw,HUANG Yu-Chiao (TPE),YOON Hyobin (KOR),HUANG Yu-Chiao
+WTT Feeder Bangkok 2023,2023-09-07,FAN Shuhan,SUN Sinan,3,0,"11,11,11|6,8,4",R32,WTT_FEEDER,WS,2740,Main Draw,FAN Shuhan (CHN),SUN Sinan (CHN),FAN Shuhan
+WTT Feeder Bangkok 2023,2023-09-07,TENNISON Reeth,AMRUTE Shruti Vijay,3,2,"11,9,11,7,11|6,11,5,11,7",R32,WTT_FEEDER,WS,2740,Main Draw,TENNISON Reeth (IND),AMRUTE Shruti Vijay (IND),TENNISON Reeth
+WTT Feeder Bangkok 2023,2023-09-07,ZHANG Xiangyu,KAMATH Archana Girish,3,0,"11,11,11|6,6,6",R32,WTT_FEEDER,WS,2740,Main Draw,ZHANG Xiangyu (CHN),KAMATH Archana Girish (IND),ZHANG Xiangyu
+WTT Feeder Bangkok 2023,2023-09-07,SONE Kakeru,KANG Dongsoo,3,2,"9,9,11,11,11|11,11,8,8,8",R32,WTT_FEEDER,MS,2740,Main Draw,SONE Kakeru (JPN),KANG Dongsoo (KOR),SONE Kakeru
+WTT Feeder Bangkok 2023,2023-09-07,YOSHIMURA Maharu,YANG Chia-An,3,0,"11,11,11|5,7,6",R32,WTT_FEEDER,MS,2740,Main Draw,YOSHIMURA Maharu (JPN),YANG Chia-An (TPE),YOSHIMURA Maharu
+WTT Feeder Bangkok 2023,2023-09-07,KIM Daewoo,LI Hon Ming,3,1,"5,11,11,11|11,6,9,8",R32,WTT_FEEDER,MS,2740,Main Draw,KIM Daewoo (KOR),LI Hon Ming (HKG),KIM Daewoo
+WTT Feeder Bangkok 2023,2023-09-07,SURAVAJJULA Snehit,PAL Akash,3,0,"11,11,11|9,6,8",R32,WTT_FEEDER,MS,2740,Main Draw,SURAVAJJULA Snehit (IND),PAL Akash (IND),SURAVAJJULA Snehit
+WTT Feeder Bangkok 2023,2023-09-07,CHAN Baldwin Ho Wah,CHEN Hengda,3,2,"11,11,7,3,11|8,7,11,11,4",R32,WTT_FEEDER,MS,2740,Main Draw,CHAN Baldwin Ho Wah (HKG),CHEN Hengda (CHN),CHAN Baldwin Ho Wah
+WTT Feeder Bangkok 2023,2023-09-07,LIAO Cheng-Ting,KIM Munsu,3,1,"11,7,11,11|8,11,8,6",R32,WTT_FEEDER,MS,2740,Main Draw,LIAO Cheng-Ting (TPE),KIM Munsu (KOR),LIAO Cheng-Ting
+WTT Feeder Bangkok 2023,2023-09-07,SASAO Asuka,DING Yijie,3,2,"11,8,15,10,11|3,11,13,12,6",R32,WTT_FEEDER,WS,2740,Main Draw,SASAO Asuka (JPN),DING Yijie (CHN),SASAO Asuka
+WTT Feeder Bangkok 2023,2023-09-07,OIKAWA Mizuki,MALIK Yashansh,3,0,"11,11,11|1,1,9",R32,WTT_FEEDER,MS,2740,Main Draw,OIKAWA Mizuki (JPN),MALIK Yashansh (IND),OIKAWA Mizuki
+WTT Feeder Bangkok 2023,2023-09-07,XU Yi,RYU Hanna,3,0,"12,11,11|10,5,8",R32,WTT_FEEDER,WS,2740,Main Draw,XU Yi (CHN),RYU Hanna (KOR),XU Yi
+WTT Feeder Bangkok 2023,2023-09-07,YAN Yutong,LAM Yee Lok,3,0,"11,11,11|9,9,9",R32,WTT_FEEDER,WS,2740,Main Draw,YAN Yutong (CHN),LAM Yee Lok (HKG),YAN Yutong
+WTT Feeder Bangkok 2023,2023-09-07,GHOSH Swastika,KIM Nayeong,3,1,"11,11,8,11|8,6,11,4",R32,WTT_FEEDER,WS,2740,Main Draw,GHOSH Swastika (IND),KIM Nayeong (KOR),GHOSH Swastika
+WTT Feeder Bangkok 2023,2023-09-07,LEE Zion,VIJITVIRIYAGUL Kulapassr,3,2,"9,8,11,11,11|11,11,3,5,3",R32,WTT_FEEDER,WS,2740,Main Draw,LEE Zion (KOR),VIJITVIRIYAGUL Kulapassr (THA),LEE Zion
+WTT Feeder Bangkok 2023,2023-09-07,NG Wing Lam,LEE Daeun,3,0,"11,11,11|7,5,8",R32,WTT_FEEDER,WS,2740,Main Draw,NG Wing Lam (HKG),LEE Daeun (KOR),NG Wing Lam
+WTT Feeder Bangkok 2023,2023-09-07,MORI Sakura,KIM Seoyun,3,1,"12,11,9,12|10,8,11,10",R32,WTT_FEEDER,WS,2740,Main Draw,MORI Sakura (JPN),KIM Seoyun (KOR),MORI Sakura
+WTT Feeder Bangkok 2023,2023-09-07,ZONG Geman,TAYAPITAK Wirakarn,3,0,"11,11,11|6,6,3",R32,WTT_FEEDER,WS,2740,Main Draw,ZONG Geman (CHN),TAYAPITAK Wirakarn (THA),ZONG Geman
+WTT Feeder Bangkok 2023,2023-09-07,KWAK Yu Bin/YOON Hyobin,WEN Ruibo/ZHANG Xiangyu,3,2,"10,11,7,11,11|12,4,11,7,5",QF,WTT_FEEDER,XD,2740,Main Draw,KWAK Yu Bin/YOON Hyobin (KOR),WEN Ruibo/ZHANG Xiangyu (CHN),KWAK Yu Bin/YOON Hyobin
+WTT Feeder Bangkok 2023,2023-09-07,HUANG Youzheng/QIN Yuxuan,SAELEE Puripong/WONGLAKHON Phatsaraphon,3,1,"12,8,13,11|10,11,11,5",QF,WTT_FEEDER,XD,2740,Main Draw,HUANG Youzheng/QIN Yuxuan (CHN),SAELEE Puripong/WONGLAKHON Phatsaraphon (THA),HUANG Youzheng/QIN Yuxuan
+WTT Feeder Bangkok 2023,2023-09-07,CHEN Junsong/FAN Shuhan,CHANDRA Jeet/TENNISON Reeth,3,1,"11,10,11,13|8,12,7,11",QF,WTT_FEEDER,XD,2740,Main Draw,CHEN Junsong/FAN Shuhan (CHN),CHANDRA Jeet/TENNISON Reeth (IND),CHEN Junsong/FAN Shuhan
+WTT Feeder Bangkok 2023,2023-09-07,KIM Daewoo/SIM Hyunju,CHOY Chun Kit/KONG Tsz Lam,3,0,"11,11,11|6,4,6",QF,WTT_FEEDER,XD,2740,Main Draw,KIM Daewoo/SIM Hyunju (KOR),CHOY Chun Kit/KONG Tsz Lam (HKG),KIM Daewoo/SIM Hyunju
+WTT Feeder Bangkok 2023,2023-09-08,FAN Shuhan/QIN Yuxuan,WONGLAKHON Phatsaraphon/VIJITVIRIYAGUL Kulapassr,3,0,"11,11,11|3,6,9",SF,WTT_FEEDER,WD,2740,Main Draw,FAN Shuhan/QIN Yuxuan (CHN),WONGLAKHON Phatsaraphon/VIJITVIRIYAGUL Kulapassr (THA),FAN Shuhan/QIN Yuxuan
+WTT Feeder Bangkok 2023,2023-09-08,HUANG Youzheng/QIN Yuxuan,CHEN Junsong/FAN Shuhan,3,0,"11,11,11|7,7,4",F,WTT_FEEDER,XD,2740,Main Draw,HUANG Youzheng/QIN Yuxuan (CHN),CHEN Junsong/FAN Shuhan (CHN),HUANG Youzheng/QIN Yuxuan
+WTT Feeder Bangkok 2023,2023-09-08,WEN Ruibo,PARK Chan-Hyeok,3,1,"6,11,11,11|11,8,9,6",QF,WTT_FEEDER,MS,2740,Main Draw,WEN Ruibo (CHN),PARK Chan-Hyeok (KOR),WEN Ruibo
+WTT Feeder Bangkok 2023,2023-09-08,HUANG Youzheng,LIN Yen-Chun,3,2,"11,12,2,11,11|13,10,11,8,4",QF,WTT_FEEDER,MS,2740,Main Draw,HUANG Youzheng (CHN),LIN Yen-Chun (TPE),HUANG Youzheng
+WTT Feeder Bangkok 2023,2023-09-08,FAN Shuhan,GHOSH Swastika,3,0,"11,11,11|2,5,8",QF,WTT_FEEDER,WS,2740,Main Draw,FAN Shuhan (CHN),GHOSH Swastika (IND),FAN Shuhan
+WTT Feeder Bangkok 2023,2023-09-08,OIKAWA Mizuki/YOSHIMURA Kazuhiro,YOSHIMURA Maharu/YOKOTANI Jo,3,1,"6,11,11,11|11,5,6,7",SF,WTT_FEEDER,MD,2740,Main Draw,OIKAWA Mizuki/YOSHIMURA Kazuhiro (JPN),YOSHIMURA Maharu/YOKOTANI Jo (JPN),OIKAWA Mizuki/YOSHIMURA Kazuhiro
+WTT Feeder Bangkok 2023,2023-09-08,CHEN Junsong/ZHU Jiaqi,CHAN Baldwin Ho Wah/YIU Kwan To,3,0,"11,11,11|8,4,9",SF,WTT_FEEDER,MD,2740,Main Draw,CHEN Junsong/ZHU Jiaqi (CHN),CHAN Baldwin Ho Wah/YIU Kwan To (HKG),CHEN Junsong/ZHU Jiaqi
+WTT Feeder Bangkok 2023,2023-09-08,ZHANG Xiangyu/ZONG Geman,XU Yi/DING Yijie,3,1,"9,11,11,11|11,7,8,9",SF,WTT_FEEDER,WD,2740,Main Draw,ZHANG Xiangyu/ZONG Geman (CHN),XU Yi/DING Yijie (CHN),ZHANG Xiangyu/ZONG Geman
+WTT Feeder Bangkok 2023,2023-09-08,YOSHIMURA Maharu,KWAK Yu Bin,3,0,"11,11,11|9,9,9",QF,WTT_FEEDER,MS,2740,Main Draw,YOSHIMURA Maharu (JPN),KWAK Yu Bin (KOR),YOSHIMURA Maharu
+WTT Feeder Bangkok 2023,2023-09-08,OIKAWA Mizuki,SONE Kakeru,3,1,"11,11,10,11|7,7,12,7",QF,WTT_FEEDER,MS,2740,Main Draw,OIKAWA Mizuki (JPN),SONE Kakeru (JPN),OIKAWA Mizuki
+WTT Feeder Bangkok 2023,2023-09-08,XU Yi,QIN Yuxuan,3,0,"11,11,14|8,8,12",QF,WTT_FEEDER,WS,2740,Main Draw,XU Yi (CHN),QIN Yuxuan (CHN),XU Yi
+WTT Feeder Bangkok 2023,2023-09-08,SASAO Asuka,HUANG Hsin,3,0,"11,11,11|9,3,9",QF,WTT_FEEDER,WS,2740,Main Draw,SASAO Asuka (JPN),HUANG Hsin (TPE),SASAO Asuka
+WTT Feeder Bangkok 2023,2023-09-08,CHEN Junsong/FAN Shuhan,KIM Daewoo/SIM Hyunju,3,1,"15,11,9,11|13,2,11,6",SF,WTT_FEEDER,XD,2740,Main Draw,CHEN Junsong/FAN Shuhan (CHN),KIM Daewoo/SIM Hyunju (KOR),CHEN Junsong/FAN Shuhan
+WTT Feeder Bangkok 2023,2023-09-08,HUANG Youzheng/QIN Yuxuan,KWAK Yu Bin/YOON Hyobin,3,0,"11,11,11|5,6,4",SF,WTT_FEEDER,XD,2740,Main Draw,HUANG Youzheng/QIN Yuxuan (CHN),KWAK Yu Bin/YOON Hyobin (KOR),HUANG Youzheng/QIN Yuxuan
+WTT Feeder Bangkok 2023,2023-09-09,YOSHIMURA Maharu,HUANG Youzheng,3,0,"11,11,11|8,8,7",F,WTT_FEEDER,MS,2740,Main Draw,YOSHIMURA Maharu (JPN),HUANG Youzheng (CHN),YOSHIMURA Maharu
+WTT Feeder Bangkok 2023,2023-09-09,MORI Sakura,SASAO Asuka,3,0,"11,11,11|8,9,9",F,WTT_FEEDER,WS,2740,Main Draw,MORI Sakura (JPN),SASAO Asuka (JPN),MORI Sakura
+WTT Feeder Bangkok 2023,2023-09-09,CHEN Junsong/ZHU Jiaqi,OIKAWA Mizuki/YOSHIMURA Kazuhiro,3,1,"11,9,13,11|7,11,11,9",F,WTT_FEEDER,MD,2740,Main Draw,CHEN Junsong/ZHU Jiaqi (CHN),OIKAWA Mizuki/YOSHIMURA Kazuhiro (JPN),CHEN Junsong/ZHU Jiaqi
+WTT Feeder Bangkok 2023,2023-09-09,FAN Shuhan/QIN Yuxuan,ZHANG Xiangyu/ZONG Geman,3,1,"13,6,11,11|11,11,8,8",F,WTT_FEEDER,WD,2740,Main Draw,FAN Shuhan/QIN Yuxuan (CHN),ZHANG Xiangyu/ZONG Geman (CHN),FAN Shuhan/QIN Yuxuan
+WTT Feeder Bangkok 2023,2023-09-09,HUANG Youzheng,WEN Ruibo,3,0,"13,11,11|11,9,8",SF,WTT_FEEDER,MS,2740,Main Draw,HUANG Youzheng (CHN),WEN Ruibo (CHN),HUANG Youzheng
+WTT Feeder Bangkok 2023,2023-09-09,YOSHIMURA Maharu,OIKAWA Mizuki,3,2,"4,15,6,11,20|11,13,11,4,18",SF,WTT_FEEDER,MS,2740,Main Draw,YOSHIMURA Maharu (JPN),OIKAWA Mizuki (JPN),YOSHIMURA Maharu
+WTT Feeder Bangkok 2023,2023-09-09,SASAO Asuka,FAN Shuhan,3,1,"11,11,11,12|7,13,9,10",SF,WTT_FEEDER,WS,2740,Main Draw,SASAO Asuka (JPN),FAN Shuhan (CHN),SASAO Asuka
+WTT Feeder Bangkok 2023,2023-09-09,MORI Sakura,XU Yi,3,2,"6,11,11,8,12|11,7,9,11,10",SF,WTT_FEEDER,WS,2740,Main Draw,MORI Sakura (JPN),XU Yi (CHN),MORI Sakura

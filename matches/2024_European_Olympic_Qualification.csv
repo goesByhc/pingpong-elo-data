@@ -1,206 +1,206 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-European Olympic Qualification 2024,2024-05-15,ROBLES Alvaro,URSU Vladislav,4,2,"11,11,11,9,11,11|13,7,9,11,6,9",,OLYMPICS,MS,2988,Qualification,ROBLES Alvaro (ESP),URSU Vladislav (MDA)
-European Olympic Qualification 2024,2024-05-15,ROBLES Alvaro,SGOUROPOULOS Ioannis,4,1,"11,11,11,7,11|5,8,2,11,4",,OLYMPICS,MS,2988,Qualification,ROBLES Alvaro (ESP),SGOUROPOULOS Ioannis (GRE)
-European Olympic Qualification 2024,2024-05-15,URSU Vladislav,SGOUROPOULOS Ioannis,4,1,"8,11,11,12,11|11,9,3,10,7",,OLYMPICS,MS,2988,Qualification,SGOUROPOULOS Ioannis (GRE),URSU Vladislav (MDA)
-European Olympic Qualification 2024,2024-05-15,IONESCU Ovidiu,GUNDUZ Ibrahim,4,2,"11,11,11,6,8,11|8,7,6,11,11,7",,OLYMPICS,MS,2988,Qualification,IONESCU Ovidiu (ROU),GUNDUZ Ibrahim (TUR)
-European Olympic Qualification 2024,2024-05-15,IONESCU Ovidiu,HAUG Borgar,4,3,"12,9,13,12,7,8,11|10,11,11,10,11,11,6",,OLYMPICS,MS,2988,Qualification,IONESCU Ovidiu (ROU),HAUG Borgar (NOR)
-European Olympic Qualification 2024,2024-05-15,GUNDUZ Ibrahim,HAUG Borgar,4,3,"11,10,4,6,11,11,11|6,12,11,11,9,7,8",,OLYMPICS,MS,2988,Qualification,HAUG Borgar (NOR),GUNDUZ Ibrahim (TUR)
-European Olympic Qualification 2024,2024-05-15,HABESOHN Daniel,LAKATOS Tamas,4,0,"11,11,11,11|5,9,8,5",,OLYMPICS,MS,2988,Qualification,HABESOHN Daniel (AUT),LAKATOS Tamas (HUN)
-European Olympic Qualification 2024,2024-05-15,PEREZ Juan,REINHOLDS Arturs,4,0,"11,11,11,11|9,8,9,5",,OLYMPICS,MS,2988,Qualification,PEREZ Juan (ESP),REINHOLDS Arturs (LAT)
-European Olympic Qualification 2024,2024-05-15,HABESOHN Daniel,PEREZ Juan,4,3,"11,11,9,11,8,3,11|8,5,11,9,11,11,8",,OLYMPICS,MS,2988,Qualification,HABESOHN Daniel (AUT),PEREZ Juan (ESP)
-European Olympic Qualification 2024,2024-05-15,LAKATOS Tamas,REINHOLDS Arturs,4,1,"11,11,12,9,11|9,6,10,11,7",,OLYMPICS,MS,2988,Qualification,LAKATOS Tamas (HUN),REINHOLDS Arturs (LAT)
-European Olympic Qualification 2024,2024-05-15,PEREZ Juan,LAKATOS Tamas,4,2,"19,3,7,11,11,11|17,11,11,3,7,7",,OLYMPICS,MS,2988,Qualification,PEREZ Juan (ESP),LAKATOS Tamas (HUN)
-European Olympic Qualification 2024,2024-05-15,HABESOHN Daniel,REINHOLDS Arturs,4,1,"11,11,5,11,11|6,4,11,8,4",,OLYMPICS,MS,2988,Qualification,HABESOHN Daniel (AUT),REINHOLDS Arturs (LAT)
-European Olympic Qualification 2024,2024-05-15,WANG Yang,LIMONOV Anton,4,0,"11,11,11,11|1,3,6,4",,OLYMPICS,MS,2988,Qualification,WANG Yang (SVK),LIMONOV Anton (UKR)
-European Olympic Qualification 2024,2024-05-15,SZUDI Adam,MIHAILOVIC Nikola,4,0,"11,11,11,11|6,5,6,2",,OLYMPICS,MS,2988,Qualification,SZUDI Adam (HUN),MIHAILOVIC Nikola (BIH)
-European Olympic Qualification 2024,2024-05-15,WANG Yang,SZUDI Adam,4,1,"11,11,11,4,11|2,6,8,11,3",,OLYMPICS,MS,2988,Qualification,WANG Yang (SVK),SZUDI Adam (HUN)
-European Olympic Qualification 2024,2024-05-15,LIMONOV Anton,MIHAILOVIC Nikola,4,1,"9,11,11,11,11|11,5,6,8,6",,OLYMPICS,MS,2988,Qualification,LIMONOV Anton (UKR),MIHAILOVIC Nikola (BIH)
-European Olympic Qualification 2024,2024-05-15,SZUDI Adam,LIMONOV Anton,4,0,"11,12,11,11|5,10,7,2",,OLYMPICS,MS,2988,Qualification,SZUDI Adam (HUN),LIMONOV Anton (UKR)
-European Olympic Qualification 2024,2024-05-15,WANG Yang,MIHAILOVIC Nikola,4,0,"11,11,11,11|7,3,5,7",,OLYMPICS,MS,2988,Qualification,WANG Yang (SVK),MIHAILOVIC Nikola (BIH)
-European Olympic Qualification 2024,2024-05-15,SIRUCEK Pavel,IONESCU Eduard,4,3,"12,11,7,11,7,11,11|14,7,11,6,11,9,9",,OLYMPICS,MS,2988,Qualification,IONESCU Eduard (ROU),SIRUCEK Pavel (CZE)
-European Olympic Qualification 2024,2024-05-15,KULCZYCKI Samuel,ZIJADIC Benjamin,4,0,"11,12,11,11|8,10,4,4",,OLYMPICS,MS,2988,Qualification,KULCZYCKI Samuel (POL),ZIJADIC Benjamin (BIH)
-European Olympic Qualification 2024,2024-05-15,IONESCU Eduard,KULCZYCKI Samuel,4,3,"11,11,9,8,11,9,11|5,8,11,11,8,11,5",,OLYMPICS,MS,2988,Qualification,IONESCU Eduard (ROU),KULCZYCKI Samuel (POL)
-European Olympic Qualification 2024,2024-05-15,SIRUCEK Pavel,ZIJADIC Benjamin,4,0,"11,11,11,11|4,4,4,4",,OLYMPICS,MS,2988,Qualification,SIRUCEK Pavel (CZE),ZIJADIC Benjamin (BIH)
-European Olympic Qualification 2024,2024-05-15,KULCZYCKI Samuel,SIRUCEK Pavel,4,1,"11,11,6,11,11|9,9,11,6,9",,OLYMPICS,MS,2988,Qualification,KULCZYCKI Samuel (POL),SIRUCEK Pavel (CZE)
-European Olympic Qualification 2024,2024-05-15,IONESCU Eduard,ZIJADIC Benjamin,4,0,"11,11,11,11|6,4,7,6",,OLYMPICS,MS,2988,Qualification,IONESCU Eduard (ROU),ZIJADIC Benjamin (BIH)
-European Olympic Qualification 2024,2024-05-15,REDZIMSKI Milosz,STOLL Loic,4,0,"11,11,11,11|3,6,9,4",,OLYMPICS,MS,2988,Qualification,REDZIMSKI Milosz (POL),STOLL Loic (SUI)
-European Olympic Qualification 2024,2024-05-15,JANCARIK Lubomir,KODJABASHEV Denislav,4,1,"12,11,6,11,12|10,7,11,7,10",,OLYMPICS,MS,2988,Qualification,JANCARIK Lubomir (CZE),KODJABASHEV Denislav (BUL)
-European Olympic Qualification 2024,2024-05-15,REDZIMSKI Milosz,JANCARIK Lubomir,4,0,"11,15,11,11|9,13,6,9",,OLYMPICS,MS,2988,Qualification,REDZIMSKI Milosz (POL),JANCARIK Lubomir (CZE)
-European Olympic Qualification 2024,2024-05-15,KODJABASHEV Denislav,STOLL Loic,4,1,"11,11,12,9,11|7,4,10,11,9",,OLYMPICS,MS,2988,Qualification,STOLL Loic (SUI),KODJABASHEV Denislav (BUL)
-European Olympic Qualification 2024,2024-05-15,JANCARIK Lubomir,STOLL Loic,4,0,"11,11,11,11|6,5,7,5",,OLYMPICS,MS,2988,Qualification,JANCARIK Lubomir (CZE),STOLL Loic (SUI)
-European Olympic Qualification 2024,2024-05-15,REDZIMSKI Milosz,KODJABASHEV Denislav,4,0,"11,11,11,11|5,8,9,4",,OLYMPICS,MS,2988,Qualification,REDZIMSKI Milosz (POL),KODJABASHEV Denislav (BUL)
-European Olympic Qualification 2024,2024-05-15,ALLEGRO Martin,NAUMI Alex,4,3,"9,13,9,11,9,11,11|11,11,11,4,11,5,6",,OLYMPICS,MS,2988,Qualification,ALLEGRO Martin (BEL),NAUMI Alex (FIN)
-European Olympic Qualification 2024,2024-05-15,LEVAJAC Dimitrije,KRASTEV Petyo,4,1,"12,11,12,11,11|14,4,10,5,6",,OLYMPICS,MS,2988,Qualification,LEVAJAC Dimitrije (SRB),KRASTEV Petyo (BUL)
-European Olympic Qualification 2024,2024-05-15,LEVAJAC Dimitrije,ALLEGRO Martin,4,3,"11,11,11,11,9,9,11|13,6,9,9,11,11,7",,OLYMPICS,MS,2988,Qualification,ALLEGRO Martin (BEL),LEVAJAC Dimitrije (SRB)
-European Olympic Qualification 2024,2024-05-15,NAUMI Alex,KRASTEV Petyo,4,2,"11,17,11,8,11,11|5,19,1,11,9,8",,OLYMPICS,MS,2988,Qualification,NAUMI Alex (FIN),KRASTEV Petyo (BUL)
-European Olympic Qualification 2024,2024-05-15,NAUMI Alex,LEVAJAC Dimitrije,4,3,"11,8,4,11,11,8,11|8,11,11,7,4,11,8",,OLYMPICS,MS,2988,Qualification,LEVAJAC Dimitrije (SRB),NAUMI Alex (FIN)
-European Olympic Qualification 2024,2024-05-15,ALLEGRO Martin,KRASTEV Petyo,4,1,"11,11,11,4,11|7,6,4,11,7",,OLYMPICS,MS,2988,Qualification,ALLEGRO Martin (BEL),KRASTEV Petyo (BUL)
-European Olympic Qualification 2024,2024-05-15,BOBOCICA Mihai,GACEV Aleksa,4,0,"11,11,11,11|9,2,5,7",,OLYMPICS,MS,2988,Qualification,BOBOCICA Mihai (ITA),GACEV Aleksa (SRB)
-European Olympic Qualification 2024,2024-05-15,ZHMUDENKO Yaroslav,MONGIUSTI Mattias,4,2,"8,12,7,11,11,15|11,10,11,3,9,13",,OLYMPICS,MS,2988,Qualification,ZHMUDENKO Yaroslav (UKR),MONGIUSTI Mattias (SMR)
-European Olympic Qualification 2024,2024-05-15,BOBOCICA Mihai,ZHMUDENKO Yaroslav,4,3,"7,11,11,11,8,11,11|11,5,9,5,11,13,8",,OLYMPICS,MS,2988,Qualification,BOBOCICA Mihai (ITA),ZHMUDENKO Yaroslav (UKR)
-European Olympic Qualification 2024,2024-05-15,GACEV Aleksa,MONGIUSTI Mattias,4,2,"8,11,17,11,9,11|11,5,15,7,11,6",,OLYMPICS,MS,2988,Qualification,GACEV Aleksa (SRB),MONGIUSTI Mattias (SMR)
-European Olympic Qualification 2024,2024-05-15,ZHMUDENKO Yaroslav,GACEV Aleksa,4,0,"11,11,11,11|3,8,4,8",,OLYMPICS,MS,2988,Qualification,ZHMUDENKO Yaroslav (UKR),GACEV Aleksa (SRB)
-European Olympic Qualification 2024,2024-05-15,BOBOCICA Mihai,MONGIUSTI Mattias,4,0,"11,11,11,11|5,5,9,9",,OLYMPICS,MS,2988,Qualification,BOBOCICA Mihai (ITA),MONGIUSTI Mattias (SMR)
-European Olympic Qualification 2024,2024-05-15,GIONIS Panagiotis,YIGENLER Abdullah,4,0,"11,11,11,11|2,4,2,6",,OLYMPICS,MS,2988,Qualification,GIONIS Panagiotis (GRE),YIGENLER Abdullah (TUR)
-European Olympic Qualification 2024,2024-05-15,NUYTINCK Cedric,GILLEN Alexander,4,0,"11,11,11,11|1,9,8,5",,OLYMPICS,MS,2988,Qualification,NUYTINCK Cedric (BEL),GILLEN Alexander (IRL)
-European Olympic Qualification 2024,2024-05-15,GIONIS Panagiotis,NUYTINCK Cedric,4,1,"12,7,11,13,12|10,11,8,11,10",,OLYMPICS,MS,2988,Qualification,GIONIS Panagiotis (GRE),NUYTINCK Cedric (BEL)
-European Olympic Qualification 2024,2024-05-15,YIGENLER Abdullah,GILLEN Alexander,4,0,"11,11,11,11|5,4,8,4",,OLYMPICS,MS,2988,Qualification,YIGENLER Abdullah (TUR),GILLEN Alexander (IRL)
-European Olympic Qualification 2024,2024-05-15,NUYTINCK Cedric,YIGENLER Abdullah,4,3,"11,8,11,9,11,12,11|5,11,5,11,13,10,8",,OLYMPICS,MS,2988,Qualification,NUYTINCK Cedric (BEL),YIGENLER Abdullah (TUR)
-European Olympic Qualification 2024,2024-05-15,GIONIS Panagiotis,GILLEN Alexander,4,0,"11,11,11,11|4,4,6,3",,OLYMPICS,MS,2988,Qualification,GIONIS Panagiotis (GRE),GILLEN Alexander (IRL)
-European Olympic Qualification 2024,2024-05-15,DRINKHALL Paul,KOGANS Daniels,4,0,"11,11,11,11|5,5,4,2",,OLYMPICS,MS,2988,Qualification,DRINKHALL Paul (ENG),KOGANS Daniels (LAT)
-European Olympic Qualification 2024,2024-05-15,STOYANOV Niagol,HARDMEIER Elias,4,0,"13,11,11,11|11,4,3,5",,OLYMPICS,MS,2988,Qualification,STOYANOV Niagol (ITA),HARDMEIER Elias (SUI)
-European Olympic Qualification 2024,2024-05-15,DRINKHALL Paul,STOYANOV Niagol,4,2,"6,9,11,11,11,11|11,11,9,9,6,8",,OLYMPICS,MS,2988,Qualification,DRINKHALL Paul (ENG),STOYANOV Niagol (ITA)
-European Olympic Qualification 2024,2024-05-15,HARDMEIER Elias,KOGANS Daniels,4,1,"13,11,12,8,14|11,7,10,11,12",,OLYMPICS,MS,2988,Qualification,KOGANS Daniels (LAT),HARDMEIER Elias (SUI)
-European Olympic Qualification 2024,2024-05-15,STOYANOV Niagol,KOGANS Daniels,4,1,"11,11,7,12,11|7,7,11,10,5",,OLYMPICS,MS,2988,Qualification,STOYANOV Niagol (ITA),KOGANS Daniels (LAT)
-European Olympic Qualification 2024,2024-05-15,DRINKHALL Paul,HARDMEIER Elias,4,2,"11,11,11,6,2,11|9,5,2,11,11,2",,OLYMPICS,MS,2988,Qualification,DRINKHALL Paul (ENG),HARDMEIER Elias (SUI)
-European Olympic Qualification 2024,2024-05-15,LEVENKO Andreas,YIANGOU Marios,4,1,"9,11,11,11,11|11,7,3,5,6",,OLYMPICS,MS,2988,Qualification,LEVENKO Andreas (AUT),YIANGOU Marios (CYP)
-European Olympic Qualification 2024,2024-05-15,VAN OOST Kas,MLADENOVIC Luka,4,2,"6,11,6,11,11,11|11,7,11,5,7,7",,OLYMPICS,MS,2988,Qualification,MLADENOVIC Luka (LUX),VAN OOST Kas (NED)
-European Olympic Qualification 2024,2024-05-15,MLADENOVIC Luka,LEVENKO Andreas,4,3,"11,11,9,9,11,10,11|5,9,11,11,8,12,9",,OLYMPICS,MS,2988,Qualification,LEVENKO Andreas (AUT),MLADENOVIC Luka (LUX)
-European Olympic Qualification 2024,2024-05-15,VAN OOST Kas,YIANGOU Marios,4,2,"11,9,12,9,11,11|7,11,10,11,6,7",,OLYMPICS,MS,2988,Qualification,YIANGOU Marios (CYP),VAN OOST Kas (NED)
-European Olympic Qualification 2024,2024-05-15,MLADENOVIC Luka,YIANGOU Marios,4,3,"9,8,11,11,6,11,11|11,11,9,9,11,5,6",,OLYMPICS,MS,2988,Qualification,MLADENOVIC Luka (LUX),YIANGOU Marios (CYP)
-European Olympic Qualification 2024,2024-05-15,LEVENKO Andreas,VAN OOST Kas,4,3,"4,12,11,4,11,11,11|11,10,8,11,4,13,3",,OLYMPICS,MS,2988,Qualification,LEVENKO Andreas (AUT),VAN OOST Kas (NED)
-European Olympic Qualification 2024,2024-05-15,PISTEJ Lubomir,PUTUNTICA Andrei,4,3,"10,11,10,11,11,9,12|12,7,12,3,8,11,10",,OLYMPICS,MS,2988,Qualification,PISTEJ Lubomir (SVK),PUTUNTICA Andrei (MDA)
-European Olympic Qualification 2024,2024-05-15,OLAH Benedek,DE BOER Milo,4,0,"11,11,11,11|6,6,6,9",,OLYMPICS,MS,2988,Qualification,OLAH Benedek (FIN),DE BOER Milo (NED)
-European Olympic Qualification 2024,2024-05-15,PISTEJ Lubomir,OLAH Benedek,4,1,"11,11,11,2,11|9,8,7,11,7",,OLYMPICS,MS,2988,Qualification,PISTEJ Lubomir (SVK),OLAH Benedek (FIN)
-European Olympic Qualification 2024,2024-05-15,PUTUNTICA Andrei,DE BOER Milo,4,1,"11,12,11,7,11|9,10,9,11,6",,OLYMPICS,MS,2988,Qualification,PUTUNTICA Andrei (MDA),DE BOER Milo (NED)
-European Olympic Qualification 2024,2024-05-15,OLAH Benedek,PUTUNTICA Andrei,4,1,"3,11,14,11,11|11,7,12,3,8",,OLYMPICS,MS,2988,Qualification,OLAH Benedek (FIN),PUTUNTICA Andrei (MDA)
-European Olympic Qualification 2024,2024-05-15,PISTEJ Lubomir,DE BOER Milo,4,1,"12,11,11,6,11|10,8,2,11,3",,OLYMPICS,MS,2988,Qualification,PISTEJ Lubomir (SVK),DE BOER Milo (NED)
-European Olympic Qualification 2024,2024-05-15,LEVAJAC Dimitrije,LEVENKO Andreas,4,2,"11,11,11,9,14,11|9,6,9,11,16,1",R32,OLYMPICS,MS,2988,Main Draw,LEVENKO Andreas (AUT),LEVAJAC Dimitrije (SRB)
-European Olympic Qualification 2024,2024-05-15,SZUDI Adam,DRINKHALL Paul,4,0,"14,11,11,11|12,8,7,4",R32,OLYMPICS,MS,2988,Main Draw,DRINKHALL Paul (ENG),SZUDI Adam (HUN)
-European Olympic Qualification 2024,2024-05-15,PISTEJ Lubomir,NUYTINCK Cedric,4,1,"11,11,11,9,11|7,9,1,11,9",R32,OLYMPICS,MS,2988,Main Draw,NUYTINCK Cedric (BEL),PISTEJ Lubomir (SVK)
-European Olympic Qualification 2024,2024-05-15,IONESCU Eduard,GUNDUZ Ibrahim,4,3,"5,8,6,11,11,11,11|11,11,11,3,5,6,8",R32,OLYMPICS,MS,2988,Main Draw,GUNDUZ Ibrahim (TUR),IONESCU Eduard (ROU)
-European Olympic Qualification 2024,2024-05-15,URSU Vladislav,JANCARIK Lubomir,4,2,"11,11,12,11,8,11|3,8,14,5,11,8",R32,OLYMPICS,MS,2988,Main Draw,JANCARIK Lubomir (CZE),URSU Vladislav (MDA)
-European Olympic Qualification 2024,2024-05-15,OLAH Benedek,VAN OOST Kas,4,3,"11,11,10,11,11,11,11|13,9,12,9,13,7,5",R32,OLYMPICS,MS,2988,Main Draw,VAN OOST Kas (NED),OLAH Benedek (FIN)
-European Olympic Qualification 2024,2024-05-15,GIONIS Panagiotis,STOYANOV Niagol,4,0,"11,11,11,14|7,4,7,12",R32,OLYMPICS,MS,2988,Main Draw,STOYANOV Niagol (ITA),GIONIS Panagiotis (GRE)
-European Olympic Qualification 2024,2024-05-15,ZHMUDENKO Yaroslav,PEREZ Juan,4,1,"11,9,12,11,11|7,11,10,8,8",R32,OLYMPICS,MS,2988,Main Draw,PEREZ Juan (ESP),ZHMUDENKO Yaroslav (UKR)
-European Olympic Qualification 2024,2024-05-15,ROBLES Alvaro,LEVAJAC Dimitrije,4,0,"11,11,11,11|9,9,8,8",R16,OLYMPICS,MS,2988,Main Draw,ROBLES Alvaro (ESP),LEVAJAC Dimitrije (SRB)
-European Olympic Qualification 2024,2024-05-15,BOBOCICA Mihai,SZUDI Adam,4,1,"16,11,6,11,11|14,7,11,2,6",R16,OLYMPICS,MS,2988,Main Draw,SZUDI Adam (HUN),BOBOCICA Mihai (ITA)
-European Olympic Qualification 2024,2024-05-15,REDZIMSKI Milosz,PISTEJ Lubomir,4,3,"11,12,9,9,11,9,11|4,10,11,11,8,11,6",R16,OLYMPICS,MS,2988,Main Draw,REDZIMSKI Milosz (POL),PISTEJ Lubomir (SVK)
-European Olympic Qualification 2024,2024-05-15,IONESCU Eduard,HABESOHN Daniel,4,1,"12,9,11,13,11|10,11,8,11,9",R16,OLYMPICS,MS,2988,Main Draw,IONESCU Eduard (ROU),HABESOHN Daniel (AUT)
-European Olympic Qualification 2024,2024-05-15,WANG Yang,URSU Vladislav,4,1,"11,6,11,11,11|9,11,7,7,8",R16,OLYMPICS,MS,2988,Main Draw,WANG Yang (SVK),URSU Vladislav (MDA)
-European Olympic Qualification 2024,2024-05-15,OLAH Benedek,KULCZYCKI Samuel,4,0,"11,13,11,11|5,11,5,4",R16,OLYMPICS,MS,2988,Main Draw,OLAH Benedek (FIN),KULCZYCKI Samuel (POL)
-European Olympic Qualification 2024,2024-05-15,GIONIS Panagiotis,ALLEGRO Martin,4,0,"11,12,11,11|7,10,4,3",R16,OLYMPICS,MS,2988,Main Draw,ALLEGRO Martin (BEL),GIONIS Panagiotis (GRE)
-European Olympic Qualification 2024,2024-05-15,ZHMUDENKO Yaroslav,IONESCU Ovidiu,4,1,"6,11,12,14,12|11,5,10,12,10",R16,OLYMPICS,MS,2988,Main Draw,ZHMUDENKO Yaroslav (UKR),IONESCU Ovidiu (ROU)
-European Olympic Qualification 2024,2024-05-15,ROBLES Alvaro,BOBOCICA Mihai,4,2,"9,11,7,11,11,12|11,7,11,4,2,10",QF,OLYMPICS,MS,2988,Main Draw,ROBLES Alvaro (ESP),BOBOCICA Mihai (ITA)
-European Olympic Qualification 2024,2024-05-15,REDZIMSKI Milosz,IONESCU Eduard,4,1,"6,11,11,11,12|11,9,7,3,10",QF,OLYMPICS,MS,2988,Main Draw,REDZIMSKI Milosz (POL),IONESCU Eduard (ROU)
-European Olympic Qualification 2024,2024-05-15,WANG Yang,OLAH Benedek,4,0,"11,12,11,12|5,10,9,10",QF,OLYMPICS,MS,2988,Main Draw,WANG Yang (SVK),OLAH Benedek (FIN)
-European Olympic Qualification 2024,2024-05-15,GIONIS Panagiotis,ZHMUDENKO Yaroslav,4,3,"9,11,11,8,11,9,11|11,7,3,11,7,11,5",QF,OLYMPICS,MS,2988,Main Draw,GIONIS Panagiotis (GRE),ZHMUDENKO Yaroslav (UKR)
-European Olympic Qualification 2024,2024-05-15,REDZIMSKI Milosz,ROBLES Alvaro,4,1,"5,11,11,11,14|11,5,7,9,12",SF,OLYMPICS,MS,2988,Main Draw,ROBLES Alvaro (ESP),REDZIMSKI Milosz (POL)
-European Olympic Qualification 2024,2024-05-15,GIONIS Panagiotis,WANG Yang,4,0,"12,11,11,14|10,5,8,12",SF,OLYMPICS,MS,2988,Main Draw,WANG Yang (SVK),GIONIS Panagiotis (GRE)
-European Olympic Qualification 2024,2024-05-15,STOYANOV Niagol,GUNDUZ Ibrahim,4,1,"9,11,11,11,11|11,7,6,5,5",R32,OLYMPICS,MS,2988,Main Draw,STOYANOV Niagol (ITA),GUNDUZ Ibrahim (TUR)
-European Olympic Qualification 2024,2024-05-15,ALLEGRO Martin,LEVENKO Andreas,4,3,"20,6,5,4,12,11,11|18,11,11,11,10,9,9",R32,OLYMPICS,MS,2988,Main Draw,LEVENKO Andreas (AUT),ALLEGRO Martin (BEL)
-European Olympic Qualification 2024,2024-05-15,SZUDI Adam,JANCARIK Lubomir,4,2,"11,12,13,4,8,11|5,10,11,11,11,8",R32,OLYMPICS,MS,2988,Main Draw,SZUDI Adam (HUN),JANCARIK Lubomir (CZE)
-European Olympic Qualification 2024,2024-05-15,NUYTINCK Cedric,KULCZYCKI Samuel,4,2,"12,6,11,8,11,11|10,11,7,11,5,6",R32,OLYMPICS,MS,2988,Main Draw,NUYTINCK Cedric (BEL),KULCZYCKI Samuel (POL)
-European Olympic Qualification 2024,2024-05-15,DRINKHALL Paul,HABESOHN Daniel,4,3,"9,11,10,12,12,9,11|11,8,12,10,10,11,6",R32,OLYMPICS,MS,2988,Main Draw,HABESOHN Daniel (AUT),DRINKHALL Paul (ENG)
-European Olympic Qualification 2024,2024-05-15,PEREZ Juan,VAN OOST Kas,4,0,"11,11,15,11|4,3,13,7",R32,OLYMPICS,MS,2988,Main Draw,PEREZ Juan (ESP),VAN OOST Kas (NED)
-European Olympic Qualification 2024,2024-05-15,ROBLES Alvaro,STOYANOV Niagol,4,2,"11,8,9,11,11,11|5,11,11,8,8,6",R16,OLYMPICS,MS,2988,Main Draw,ROBLES Alvaro (ESP),STOYANOV Niagol (ITA)
-European Olympic Qualification 2024,2024-05-15,URSU Vladislav,PISTEJ Lubomir,4,0,"12,13,14,11|10,11,12,3",R16,OLYMPICS,MS,2988,Main Draw,URSU Vladislav (MDA),PISTEJ Lubomir (SVK)
-European Olympic Qualification 2024,2024-05-15,ALLEGRO Martin,IONESCU Eduard,4,2,"5,13,4,11,11,11|11,11,11,9,8,7",R16,OLYMPICS,MS,2988,Main Draw,IONESCU Eduard (ROU),ALLEGRO Martin (BEL)
-European Olympic Qualification 2024,2024-05-15,SZUDI Adam,OLAH Benedek,4,2,"11,13,6,11,11,11|9,15,11,6,9,7",R16,OLYMPICS,MS,2988,Main Draw,SZUDI Adam (HUN),OLAH Benedek (FIN)
-European Olympic Qualification 2024,2024-05-15,NUYTINCK Cedric,BOBOCICA Mihai,4,0,"11,11,15,13|8,5,13,11",R16,OLYMPICS,MS,2988,Main Draw,BOBOCICA Mihai (ITA),NUYTINCK Cedric (BEL)
-European Olympic Qualification 2024,2024-05-15,ZHMUDENKO Yaroslav,DRINKHALL Paul,4,3,"9,9,11,6,11,11,11|11,11,3,11,5,8,8",R16,OLYMPICS,MS,2988,Main Draw,DRINKHALL Paul (ENG),ZHMUDENKO Yaroslav (UKR)
-European Olympic Qualification 2024,2024-05-15,LEVAJAC Dimitrije,IONESCU Ovidiu,4,2,"6,12,11,11,11,11|11,10,7,13,6,8",R16,OLYMPICS,MS,2988,Main Draw,IONESCU Ovidiu (ROU),LEVAJAC Dimitrije (SRB)
-European Olympic Qualification 2024,2024-05-15,WANG Yang,PEREZ Juan,4,0,"11,11,11,11|8,7,5,5",R16,OLYMPICS,MS,2988,Main Draw,PEREZ Juan (ESP),WANG Yang (SVK)
-European Olympic Qualification 2024,2024-05-15,URSU Vladislav,ROBLES Alvaro,4,3,"4,12,9,8,11,11,11|11,10,11,11,5,6,7",QF,OLYMPICS,MS,2988,Main Draw,ROBLES Alvaro (ESP),URSU Vladislav (MDA)
-European Olympic Qualification 2024,2024-05-15,SZUDI Adam,ALLEGRO Martin,4,3,"9,12,4,7,11,11,12|11,10,11,11,8,7,10",QF,OLYMPICS,MS,2988,Main Draw,ALLEGRO Martin (BEL),SZUDI Adam (HUN)
-European Olympic Qualification 2024,2024-05-15,ZHMUDENKO Yaroslav,NUYTINCK Cedric,4,0,"11,11,12,11|5,7,10,3",QF,OLYMPICS,MS,2988,Main Draw,NUYTINCK Cedric (BEL),ZHMUDENKO Yaroslav (UKR)
-European Olympic Qualification 2024,2024-05-15,WANG Yang,LEVAJAC Dimitrije,4,2,"11,12,4,11,11,11|7,14,11,7,7,7",QF,OLYMPICS,MS,2988,Main Draw,LEVAJAC Dimitrije (SRB),WANG Yang (SVK)
-European Olympic Qualification 2024,2024-05-15,URSU Vladislav,SZUDI Adam,4,0,"11,11,11,11|9,7,4,4",SF,OLYMPICS,MS,2988,Main Draw,URSU Vladislav (MDA),SZUDI Adam (HUN)
-European Olympic Qualification 2024,2024-05-15,ZHMUDENKO Yaroslav,WANG Yang,4,0,"11,11,11,11|6,5,5,5",SF,OLYMPICS,MS,2988,Main Draw,ZHMUDENKO Yaroslav (UKR),WANG Yang (SVK)
-European Olympic Qualification 2024,2024-05-15,PICCOLIN Giorgia,TOFANT Ana,4,1,"12,11,11,8,11|10,7,5,11,8",,OLYMPICS,WS,2988,Qualification,PICCOLIN Giorgia (ITA),TOFANT Ana (SLO)
-European Olympic Qualification 2024,2024-05-15,ARAPOVIC Hana,PICCOLIN Giorgia,4,1,"11,11,11,11,11|4,13,5,7,9",,OLYMPICS,WS,2988,Qualification,PICCOLIN Giorgia (ITA),ARAPOVIC Hana (CRO)
-European Olympic Qualification 2024,2024-05-15,ARAPOVIC Hana,TOFANT Ana,4,2,"11,9,6,14,11,11|9,11,11,12,3,7",,OLYMPICS,WS,2988,Qualification,ARAPOVIC Hana (CRO),TOFANT Ana (SLO)
-European Olympic Qualification 2024,2024-05-15,SHAO Jieni,BLASKOVA Zdena,4,2,"4,14,11,15,12,11|11,12,8,17,10,6",,OLYMPICS,WS,2988,Qualification,SHAO Jieni (POR),BLASKOVA Zdena (CZE)
-European Olympic Qualification 2024,2024-05-15,SHAO Jieni,YILMAZ Ozge,4,0,"16,11,11,11|14,9,3,9",,OLYMPICS,WS,2988,Qualification,SHAO Jieni (POR),YILMAZ Ozge (TUR)
-European Olympic Qualification 2024,2024-05-15,YILMAZ Ozge,BLASKOVA Zdena,4,3,"5,11,7,11,9,11,11|11,6,11,6,11,8,9",,OLYMPICS,WS,2988,Qualification,YILMAZ Ozge (TUR),BLASKOVA Zdena (CZE)
-European Olympic Qualification 2024,2024-05-15,MISCHEK-COLUCCI Karoline,XIAO Maria,4,3,"11,9,4,11,11,3,11|5,11,11,5,8,11,8",,OLYMPICS,WS,2988,Qualification,XIAO Maria (ESP),MISCHEK-COLUCCI Karoline (AUT)
-European Olympic Qualification 2024,2024-05-15,HO Tin-Tin,XIAO Maria,4,1,"11,13,9,11,11|3,11,11,5,8",,OLYMPICS,WS,2988,Qualification,XIAO Maria (ESP),HO Tin-Tin (ENG)
-European Olympic Qualification 2024,2024-05-15,HO Tin-Tin,MISCHEK-COLUCCI Karoline,4,1,"11,12,5,12,11|7,10,11,10,3",,OLYMPICS,WS,2988,Qualification,HO Tin-Tin (ENG),MISCHEK-COLUCCI Karoline (AUT)
-European Olympic Qualification 2024,2024-05-15,KUKULKOVA Tatiana,DEGRAEF Margo,4,0,"11,12,11,11|1,10,7,6",,OLYMPICS,WS,2988,Qualification,KUKULKOVA Tatiana (SVK),DEGRAEF Margo (BEL)
-European Olympic Qualification 2024,2024-05-15,KUKULKOVA Tatiana,SURJAN Sabina,4,2,"11,11,6,11,5,11|8,9,11,6,11,9",,OLYMPICS,WS,2988,Qualification,KUKULKOVA Tatiana (SVK),SURJAN Sabina (SRB)
-European Olympic Qualification 2024,2024-05-15,SURJAN Sabina,DEGRAEF Margo,4,2,"6,15,11,11,11,13|11,17,9,9,9,11",,OLYMPICS,WS,2988,Qualification,SURJAN Sabina (SRB),DEGRAEF Margo (BEL)
-European Olympic Qualification 2024,2024-05-15,POTA Georgina,TOLIOU Aikaterini,4,1,"10,11,11,11,11|12,9,5,8,8",,OLYMPICS,WS,2988,Qualification,POTA Georgina (HUN),TOLIOU Aikaterini (GRE)
-European Olympic Qualification 2024,2024-05-15,MORET Rachel,POTA Georgina,4,1,"13,4,11,12,12|11,11,7,10,10",,OLYMPICS,WS,2988,Qualification,POTA Georgina (HUN),MORET Rachel (SUI)
-European Olympic Qualification 2024,2024-05-15,TOLIOU Aikaterini,MORET Rachel,4,2,"7,11,11,11,10,11|11,7,9,4,12,9",,OLYMPICS,WS,2988,Qualification,MORET Rachel (SUI),TOLIOU Aikaterini (GRE)
-European Olympic Qualification 2024,2024-05-15,YU Fu,TOFTAKER Martine,4,0,"11,11,11,11|0,4,5,5",,OLYMPICS,WS,2988,Qualification,YU Fu (POR),TOFTAKER Martine (NOR)
-European Olympic Qualification 2024,2024-05-15,YU Fu,DE NUTTE Sarah,4,0,"11,11,11,11|6,6,7,6",,OLYMPICS,WS,2988,Qualification,YU Fu (POR),DE NUTTE Sarah (LUX)
-European Olympic Qualification 2024,2024-05-15,DE NUTTE Sarah,TOFTAKER Martine,4,0,"11,11,11,11|5,7,6,6",,OLYMPICS,WS,2988,Qualification,DE NUTTE Sarah (LUX),TOFTAKER Martine (NOR)
-European Olympic Qualification 2024,2024-05-15,EERLAND Britt,TERPOU Elisavet,4,3,"9,12,11,11,11,9,11|11,14,6,8,4,11,5",,OLYMPICS,WS,2988,Qualification,EERLAND Britt (NED),TERPOU Elisavet (GRE)
-European Olympic Qualification 2024,2024-05-15,ZHANG Sofia-Xuan,JERSOVA Aleksandra,4,1,"11,11,11,9,11|3,2,5,11,6",,OLYMPICS,WS,2988,Qualification,ZHANG Sofia-Xuan (ESP),JERSOVA Aleksandra (LAT)
-European Olympic Qualification 2024,2024-05-15,EERLAND Britt,ZHANG Sofia-Xuan,4,3,"11,7,7,11,8,11,11|8,11,11,7,11,3,8",,OLYMPICS,WS,2988,Qualification,EERLAND Britt (NED),ZHANG Sofia-Xuan (ESP)
-European Olympic Qualification 2024,2024-05-15,TERPOU Elisavet,JERSOVA Aleksandra,4,0,"11,11,11,11|6,8,8,5",,OLYMPICS,WS,2988,Qualification,TERPOU Elisavet (GRE),JERSOVA Aleksandra (LAT)
-European Olympic Qualification 2024,2024-05-15,ZHANG Sofia-Xuan,TERPOU Elisavet,4,0,"11,11,11,11|6,6,9,6",,OLYMPICS,WS,2988,Qualification,ZHANG Sofia-Xuan (ESP),TERPOU Elisavet (GRE)
-European Olympic Qualification 2024,2024-05-15,EERLAND Britt,JERSOVA Aleksandra,4,0,"11,11,11,11|6,6,5,6",,OLYMPICS,WS,2988,Qualification,EERLAND Britt (NED),JERSOVA Aleksandra (LAT)
-European Olympic Qualification 2024,2024-05-15,TOKIC Sara,PESOTSKA Margaryta,4,2,"9,4,14,11,11,14|11,11,12,9,9,12",,OLYMPICS,WS,2988,Qualification,PESOTSKA Margaryta (UKR),TOKIC Sara (SLO)
-European Olympic Qualification 2024,2024-05-15,ALTINKAYA Sibel,MUSAJEVA Sabina,4,0,"11,11,11,11|4,5,4,7",,OLYMPICS,WS,2988,Qualification,ALTINKAYA Sibel (TUR),MUSAJEVA Sabina (LAT)
-European Olympic Qualification 2024,2024-05-15,PESOTSKA Margaryta,ALTINKAYA Sibel,4,0,"13,12,11,11|11,10,7,8",,OLYMPICS,WS,2988,Qualification,PESOTSKA Margaryta (UKR),ALTINKAYA Sibel (TUR)
-European Olympic Qualification 2024,2024-05-15,TOKIC Sara,MUSAJEVA Sabina,4,0,"11,11,11,11|8,5,4,3",,OLYMPICS,WS,2988,Qualification,TOKIC Sara (SLO),MUSAJEVA Sabina (LAT)
-European Olympic Qualification 2024,2024-05-15,TOKIC Sara,ALTINKAYA Sibel,4,2,"11,11,6,11,11,13|7,13,11,7,7,11",,OLYMPICS,WS,2988,Qualification,ALTINKAYA Sibel (TUR),TOKIC Sara (SLO)
-European Olympic Qualification 2024,2024-05-15,PESOTSKA Margaryta,MUSAJEVA Sabina,4,0,"11,11,11,11|5,3,6,2",,OLYMPICS,WS,2988,Qualification,PESOTSKA Margaryta (UKR),MUSAJEVA Sabina (LAT)
-European Olympic Qualification 2024,2024-05-15,MALOBABIC Ivana,DONNER Marina,4,0,"11,11,11,11|7,6,5,7",,OLYMPICS,WS,2988,Qualification,MALOBABIC Ivana (CRO),DONNER Marina (FIN)
-European Olympic Qualification 2024,2024-05-15,HURSEY Anna,MESETOVIC Harisa,4,0,"11,11,11,11|4,3,3,3",,OLYMPICS,WS,2988,Qualification,HURSEY Anna (WAL),MESETOVIC Harisa (BIH)
-European Olympic Qualification 2024,2024-05-15,HURSEY Anna,MALOBABIC Ivana,4,1,"11,7,11,11,11|8,11,8,6,8",,OLYMPICS,WS,2988,Qualification,MALOBABIC Ivana (CRO),HURSEY Anna (WAL)
-European Olympic Qualification 2024,2024-05-15,DONNER Marina,MESETOVIC Harisa,4,0,"11,11,11,11|6,5,2,3",,OLYMPICS,WS,2988,Qualification,DONNER Marina (FIN),MESETOVIC Harisa (BIH)
-European Olympic Qualification 2024,2024-05-15,HURSEY Anna,DONNER Marina,4,0,"11,11,11,11|3,6,6,8",,OLYMPICS,WS,2988,Qualification,HURSEY Anna (WAL),DONNER Marina (FIN)
-European Olympic Qualification 2024,2024-05-15,MALOBABIC Ivana,MESETOVIC Harisa,4,0,"12,11,11,11|10,8,6,5",,OLYMPICS,WS,2988,Qualification,MALOBABIC Ivana (CRO),MESETOVIC Harisa (BIH)
-European Olympic Qualification 2024,2024-05-15,VARADY Barbora,YOVKOVA Maria,4,2,"9,11,11,7,13,11|11,6,7,11,11,2",,OLYMPICS,WS,2988,Qualification,VARADY Barbora (SVK),YOVKOVA Maria (BUL)
-European Olympic Qualification 2024,2024-05-15,YAREMCHUK Solomiya,RILISKYTE Kornelija,4,1,"9,11,11,11,11|11,1,8,4,5",,OLYMPICS,WS,2988,Qualification,YAREMCHUK Solomiya (UKR),RILISKYTE Kornelija (LTU)
-European Olympic Qualification 2024,2024-05-15,VARADY Barbora,YAREMCHUK Solomiya,4,2,"11,12,9,11,12,11|8,10,11,6,14,7",,OLYMPICS,WS,2988,Qualification,VARADY Barbora (SVK),YAREMCHUK Solomiya (UKR)
-European Olympic Qualification 2024,2024-05-15,YOVKOVA Maria,RILISKYTE Kornelija,4,2,"11,7,5,11,11,11|2,11,11,2,9,5",,OLYMPICS,WS,2988,Qualification,YOVKOVA Maria (BUL),RILISKYTE Kornelija (LTU)
-European Olympic Qualification 2024,2024-05-15,YAREMCHUK Solomiya,YOVKOVA Maria,4,0,"11,11,11,11|4,3,9,5",,OLYMPICS,WS,2988,Qualification,YAREMCHUK Solomiya (UKR),YOVKOVA Maria (BUL)
-European Olympic Qualification 2024,2024-05-15,VARADY Barbora,RILISKYTE Kornelija,4,1,"10,15,11,11,11|12,13,9,5,7",,OLYMPICS,WS,2988,Qualification,VARADY Barbora (SVK),RILISKYTE Kornelija (LTU)
-European Olympic Qualification 2024,2024-05-15,MATELOVA Hana,HELLE Tanja,4,0,"11,11,11,11|2,8,6,5",,OLYMPICS,WS,2988,Qualification,MATELOVA Hana (CZE),HELLE Tanja (NED)
-European Olympic Qualification 2024,2024-05-15,VIVARELLI Debora,CHIRIACOVA Alexandra,4,1,"11,11,11,5,11|8,9,6,11,8",,OLYMPICS,WS,2988,Qualification,VIVARELLI Debora (ITA),CHIRIACOVA Alexandra (MDA)
-European Olympic Qualification 2024,2024-05-15,VIVARELLI Debora,MATELOVA Hana,4,1,"11,11,10,11,11|9,9,12,4,5",,OLYMPICS,WS,2988,Qualification,MATELOVA Hana (CZE),VIVARELLI Debora (ITA)
-European Olympic Qualification 2024,2024-05-15,HELLE Tanja,CHIRIACOVA Alexandra,4,3,"5,11,6,11,11,9,11|11,7,11,8,9,11,9",,OLYMPICS,WS,2988,Qualification,HELLE Tanja (NED),CHIRIACOVA Alexandra (MDA)
-European Olympic Qualification 2024,2024-05-15,VIVARELLI Debora,HELLE Tanja,4,3,"11,11,9,9,8,11,11|7,4,11,11,11,9,8",,OLYMPICS,WS,2988,Qualification,VIVARELLI Debora (ITA),HELLE Tanja (NED)
-European Olympic Qualification 2024,2024-05-15,MATELOVA Hana,CHIRIACOVA Alexandra,4,0,"11,11,11,11|3,1,8,7",,OLYMPICS,WS,2988,Qualification,MATELOVA Hana (CZE),CHIRIACOVA Alexandra (MDA)
-European Olympic Qualification 2024,2024-05-15,LUPULESKU Izabela,CERIC Emina,4,0,"11,11,11,11|2,3,5,4",,OLYMPICS,WS,2988,Qualification,LUPULESKU Izabela (SRB),CERIC Emina (BIH)
-European Olympic Qualification 2024,2024-05-15,MADARASZ Dora,MERENCO Camelia,4,0,"11,11,11,12|7,3,4,10",,OLYMPICS,WS,2988,Qualification,MADARASZ Dora (HUN),MERENCO Camelia (MDA)
-European Olympic Qualification 2024,2024-05-15,LUPULESKU Izabela,MADARASZ Dora,4,3,"11,6,11,11,9,13,11|13,11,1,5,11,11,8",,OLYMPICS,WS,2988,Qualification,LUPULESKU Izabela (SRB),MADARASZ Dora (HUN)
-European Olympic Qualification 2024,2024-05-15,MERENCO Camelia,CERIC Emina,4,0,"11,11,11,11|7,4,6,7",,OLYMPICS,WS,2988,Qualification,CERIC Emina (BIH),MERENCO Camelia (MDA)
-European Olympic Qualification 2024,2024-05-15,MADARASZ Dora,CERIC Emina,4,0,"11,11,11,11|9,5,3,3",,OLYMPICS,WS,2988,Qualification,MADARASZ Dora (HUN),CERIC Emina (BIH)
-European Olympic Qualification 2024,2024-05-15,LUPULESKU Izabela,MERENCO Camelia,4,0,"11,11,11,11|5,4,6,4",,OLYMPICS,WS,2988,Qualification,LUPULESKU Izabela (SRB),MERENCO Camelia (MDA)
-European Olympic Qualification 2024,2024-05-15,YAREMCHUK Solomiya,MISCHEK-COLUCCI Karoline,4,1,"11,11,10,11,11|1,8,12,0,0",R32,OLYMPICS,WS,2988,Main Draw,MISCHEK-COLUCCI Karoline (AUT),YAREMCHUK Solomiya (UKR)
-European Olympic Qualification 2024,2024-05-15,POTA Georgina,VIVARELLI Debora,4,3,"11,11,11,6,5,7,11|4,4,5,11,11,11,8",R32,OLYMPICS,WS,2988,Main Draw,VIVARELLI Debora (ITA),POTA Georgina (HUN)
-European Olympic Qualification 2024,2024-05-15,HURSEY Anna,MADARASZ Dora,4,1,"11,6,11,11,11|5,11,9,8,7",R32,OLYMPICS,WS,2988,Main Draw,MADARASZ Dora (HUN),HURSEY Anna (WAL)
-European Olympic Qualification 2024,2024-05-15,ZHANG Sofia-Xuan,YILMAZ Ozge,4,0,"11,11,11,11|8,4,8,4",R32,OLYMPICS,WS,2988,Main Draw,YILMAZ Ozge (TUR),ZHANG Sofia-Xuan (ESP)
-European Olympic Qualification 2024,2024-05-15,DE NUTTE Sarah,MALOBABIC Ivana,4,0,"11,11,11,11|8,8,6,2",R32,OLYMPICS,WS,2988,Main Draw,MALOBABIC Ivana (CRO),DE NUTTE Sarah (LUX)
-European Olympic Qualification 2024,2024-05-15,MATELOVA Hana,LUPULESKU Izabela,4,2,"1,8,11,12,11,11|11,11,9,10,5,8",R32,OLYMPICS,WS,2988,Main Draw,LUPULESKU Izabela (SRB),MATELOVA Hana (CZE)
-European Olympic Qualification 2024,2024-05-15,VARADY Barbora,PICCOLIN Giorgia,4,3,"8,15,11,10,11,7,11|11,13,7,12,8,11,6",R32,OLYMPICS,WS,2988,Main Draw,PICCOLIN Giorgia (ITA),VARADY Barbora (SVK)
-European Olympic Qualification 2024,2024-05-15,PESOTSKA Margaryta,SURJAN Sabina,4,1,"12,11,11,8,11|10,8,6,11,2",R32,OLYMPICS,WS,2988,Main Draw,PESOTSKA Margaryta (UKR),SURJAN Sabina (SRB)
-European Olympic Qualification 2024,2024-05-15,ARAPOVIC Hana,YAREMCHUK Solomiya,4,2,"8,11,12,11,9,11|11,9,10,9,11,8",R16,OLYMPICS,WS,2988,Main Draw,ARAPOVIC Hana (CRO),YAREMCHUK Solomiya (UKR)
-European Olympic Qualification 2024,2024-05-15,POTA Georgina,YU Fu,4,1,"11,11,9,11,11|8,3,11,6,9",R16,OLYMPICS,WS,2988,Main Draw,POTA Georgina (HUN),YU Fu (POR)
-European Olympic Qualification 2024,2024-05-15,HURSEY Anna,TOKIC Sara,4,0,"11,11,11,11|4,5,5,8",R16,OLYMPICS,WS,2988,Main Draw,TOKIC Sara (SLO),HURSEY Anna (WAL)
-European Olympic Qualification 2024,2024-05-15,KUKULKOVA Tatiana,ZHANG Sofia-Xuan,4,2,"9,11,14,7,11,13|11,6,12,11,3,11",R16,OLYMPICS,WS,2988,Main Draw,ZHANG Sofia-Xuan (ESP),KUKULKOVA Tatiana (SVK)
-European Olympic Qualification 2024,2024-05-15,HO Tin-Tin,DE NUTTE Sarah,4,0,"14,11,11,11|12,8,4,4",R16,OLYMPICS,WS,2988,Main Draw,HO Tin-Tin (ENG),DE NUTTE Sarah (LUX)
-European Olympic Qualification 2024,2024-05-15,EERLAND Britt,MATELOVA Hana,4,3,"4,11,5,11,10,11,11|11,9,11,9,12,7,8",R16,OLYMPICS,WS,2988,Main Draw,MATELOVA Hana (CZE),EERLAND Britt (NED)
-European Olympic Qualification 2024,2024-05-15,VARADY Barbora,MORET Rachel,4,2,"12,11,11,4,11,11|10,4,7,11,13,7",R16,OLYMPICS,WS,2988,Main Draw,MORET Rachel (SUI),VARADY Barbora (SVK)
-European Olympic Qualification 2024,2024-05-15,SHAO Jieni,PESOTSKA Margaryta,4,2,"4,12,8,11,11,11|11,10,11,5,7,4",R16,OLYMPICS,WS,2988,Main Draw,PESOTSKA Margaryta (UKR),SHAO Jieni (POR)
-European Olympic Qualification 2024,2024-05-15,POTA Georgina,ARAPOVIC Hana,4,1,"11,12,11,5,11|9,10,3,11,3",QF,OLYMPICS,WS,2988,Main Draw,ARAPOVIC Hana (CRO),POTA Georgina (HUN)
-European Olympic Qualification 2024,2024-05-15,HURSEY Anna,KUKULKOVA Tatiana,4,3,"3,13,8,11,11,11,11|11,15,11,5,5,7,9",QF,OLYMPICS,WS,2988,Main Draw,HURSEY Anna (WAL),KUKULKOVA Tatiana (SVK)
-European Olympic Qualification 2024,2024-05-15,EERLAND Britt,HO Tin-Tin,4,3,"7,11,9,13,11,11,11|11,7,11,15,7,9,9",QF,OLYMPICS,WS,2988,Main Draw,HO Tin-Tin (ENG),EERLAND Britt (NED)
-European Olympic Qualification 2024,2024-05-15,VARADY Barbora,SHAO Jieni,4,3,"10,9,9,11,11,15,11|12,11,11,7,7,13,9",QF,OLYMPICS,WS,2988,Main Draw,VARADY Barbora (SVK),SHAO Jieni (POR)
-European Olympic Qualification 2024,2024-05-15,HURSEY Anna,POTA Georgina,4,1,"11,9,11,11,11|9,11,8,7,4",SF,OLYMPICS,WS,2988,Main Draw,POTA Georgina (HUN),HURSEY Anna (WAL)
-European Olympic Qualification 2024,2024-05-15,EERLAND Britt,VARADY Barbora,4,2,"9,11,9,11,15,11|11,4,11,6,13,6",SF,OLYMPICS,WS,2988,Main Draw,EERLAND Britt (NED),VARADY Barbora (SVK)
-European Olympic Qualification 2024,2024-05-15,LUPULESKU Izabela,YILMAZ Ozge,4,1,"11,11,8,11,11|7,8,11,3,4",R32,OLYMPICS,WS,2988,Main Draw,YILMAZ Ozge (TUR),LUPULESKU Izabela (SRB)
-European Olympic Qualification 2024,2024-05-15,PICCOLIN Giorgia,TOKIC Sara,4,0,"11,11,11,11|6,7,7,5",R32,OLYMPICS,WS,2988,Main Draw,TOKIC Sara (SLO),PICCOLIN Giorgia (ITA)
-European Olympic Qualification 2024,2024-05-15,YAREMCHUK Solomiya,MALOBABIC Ivana,4,1,"3,11,11,14,11|11,7,9,12,8",R32,OLYMPICS,WS,2988,Main Draw,YAREMCHUK Solomiya (UKR),MALOBABIC Ivana (CRO)
-European Olympic Qualification 2024,2024-05-15,PESOTSKA Margaryta,MADARASZ Dora,4,1,"11,11,11,11,12|13,5,4,5,10",R32,OLYMPICS,WS,2988,Main Draw,PESOTSKA Margaryta (UKR),MADARASZ Dora (HUN)
-European Olympic Qualification 2024,2024-05-15,MATELOVA Hana,SURJAN Sabina,4,0,"15,11,11,11|13,2,7,6",R32,OLYMPICS,WS,2988,Main Draw,SURJAN Sabina (SRB),MATELOVA Hana (CZE)
-European Olympic Qualification 2024,2024-05-15,VIVARELLI Debora,MISCHEK-COLUCCI Karoline,4,0,"11,11,11,11|0,0,0,0",R32,OLYMPICS,WS,2988,Main Draw,VIVARELLI Debora (ITA),MISCHEK-COLUCCI Karoline (AUT)
-European Olympic Qualification 2024,2024-05-15,POTA Georgina,LUPULESKU Izabela,4,1,"7,11,11,11,11|11,4,6,6,6",R16,OLYMPICS,WS,2988,Main Draw,POTA Georgina (HUN),LUPULESKU Izabela (SRB)
-European Olympic Qualification 2024,2024-05-15,DE NUTTE Sarah,PICCOLIN Giorgia,4,3,"5,11,11,4,11,6,11|11,7,7,11,2,11,8",R16,OLYMPICS,WS,2988,Main Draw,PICCOLIN Giorgia (ITA),DE NUTTE Sarah (LUX)
-European Olympic Qualification 2024,2024-05-15,KUKULKOVA Tatiana,MORET Rachel,4,2,"11,8,11,14,10,11|7,11,6,12,12,5",R16,OLYMPICS,WS,2988,Main Draw,KUKULKOVA Tatiana (SVK),MORET Rachel (SUI)
-European Olympic Qualification 2024,2024-05-15,SHAO Jieni,YAREMCHUK Solomiya,4,1,"9,11,11,11,11|11,6,7,8,5",R16,OLYMPICS,WS,2988,Main Draw,YAREMCHUK Solomiya (UKR),SHAO Jieni (POR)
-European Olympic Qualification 2024,2024-05-15,ARAPOVIC Hana,ZHANG Sofia-Xuan,4,2,"8,11,11,11,10,11|11,5,7,5,12,6",R16,OLYMPICS,WS,2988,Main Draw,ARAPOVIC Hana (CRO),ZHANG Sofia-Xuan (ESP)
-European Olympic Qualification 2024,2024-05-15,PESOTSKA Margaryta,HO Tin-Tin,4,0,"14,11,11,11|12,9,8,3",R16,OLYMPICS,WS,2988,Main Draw,PESOTSKA Margaryta (UKR),HO Tin-Tin (ENG)
-European Olympic Qualification 2024,2024-05-15,YU Fu,MATELOVA Hana,4,3,"14,11,9,8,11,7,11|12,8,11,11,8,11,6",R16,OLYMPICS,WS,2988,Main Draw,YU Fu (POR),MATELOVA Hana (CZE)
-European Olympic Qualification 2024,2024-05-15,VIVARELLI Debora,VARADY Barbora,4,1,"8,12,11,11,11|11,10,7,4,9",R16,OLYMPICS,WS,2988,Main Draw,VIVARELLI Debora (ITA),VARADY Barbora (SVK)
-European Olympic Qualification 2024,2024-05-15,POTA Georgina,DE NUTTE Sarah,4,0,"12,12,11,11|10,10,2,7",QF,OLYMPICS,WS,2988,Main Draw,POTA Georgina (HUN),DE NUTTE Sarah (LUX)
-European Olympic Qualification 2024,2024-05-15,SHAO Jieni,KUKULKOVA Tatiana,4,0,"11,12,11,11|4,10,5,2",QF,OLYMPICS,WS,2988,Main Draw,KUKULKOVA Tatiana (SVK),SHAO Jieni (POR)
-European Olympic Qualification 2024,2024-05-15,PESOTSKA Margaryta,ARAPOVIC Hana,4,0,"11,11,11,11|7,6,5,6",QF,OLYMPICS,WS,2988,Main Draw,ARAPOVIC Hana (CRO),PESOTSKA Margaryta (UKR)
-European Olympic Qualification 2024,2024-05-15,YU Fu,VIVARELLI Debora,4,0,"11,11,11,15|9,5,9,13",QF,OLYMPICS,WS,2988,Main Draw,YU Fu (POR),VIVARELLI Debora (ITA)
-European Olympic Qualification 2024,2024-05-15,SHAO Jieni,POTA Georgina,4,1,"11,11,11,11,11|13,5,7,4,5",SF,OLYMPICS,WS,2988,Main Draw,POTA Georgina (HUN),SHAO Jieni (POR)
-European Olympic Qualification 2024,2024-05-15,YU Fu,PESOTSKA Margaryta,4,3,"13,11,11,13,9,9,12|15,7,8,11,11,11,10",SF,OLYMPICS,WS,2988,Main Draw,PESOTSKA Margaryta (UKR),YU Fu (POR)
-European Olympic Qualification 2024,2024-05-15,PESOTSKA Margaryta,POTA Georgina,4,3,"12,11,11,7,5,5,11|10,8,9,11,11,11,5",3RD,OLYMPICS,WS,2988,Position Draw,POTA Georgina (HUN),PESOTSKA Margaryta (UKR)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+European Olympic Qualification 2024,2024-05-15,ROBLES Alvaro,URSU Vladislav,4,2,"11,11,11,9,11,11|13,7,9,11,6,9",,OLYMPICS,MS,2988,Qualification,ROBLES Alvaro (ESP),URSU Vladislav (MDA),ROBLES Alvaro
+European Olympic Qualification 2024,2024-05-15,ROBLES Alvaro,SGOUROPOULOS Ioannis,4,1,"11,11,11,7,11|5,8,2,11,4",,OLYMPICS,MS,2988,Qualification,ROBLES Alvaro (ESP),SGOUROPOULOS Ioannis (GRE),ROBLES Alvaro
+European Olympic Qualification 2024,2024-05-15,URSU Vladislav,SGOUROPOULOS Ioannis,4,1,"8,11,11,12,11|11,9,3,10,7",,OLYMPICS,MS,2988,Qualification,SGOUROPOULOS Ioannis (GRE),URSU Vladislav (MDA),URSU Vladislav
+European Olympic Qualification 2024,2024-05-15,IONESCU Ovidiu,GUNDUZ Ibrahim,4,2,"11,11,11,6,8,11|8,7,6,11,11,7",,OLYMPICS,MS,2988,Qualification,IONESCU Ovidiu (ROU),GUNDUZ Ibrahim (TUR),IONESCU Ovidiu
+European Olympic Qualification 2024,2024-05-15,IONESCU Ovidiu,HAUG Borgar,4,3,"12,9,13,12,7,8,11|10,11,11,10,11,11,6",,OLYMPICS,MS,2988,Qualification,IONESCU Ovidiu (ROU),HAUG Borgar (NOR),IONESCU Ovidiu
+European Olympic Qualification 2024,2024-05-15,GUNDUZ Ibrahim,HAUG Borgar,4,3,"11,10,4,6,11,11,11|6,12,11,11,9,7,8",,OLYMPICS,MS,2988,Qualification,HAUG Borgar (NOR),GUNDUZ Ibrahim (TUR),GUNDUZ Ibrahim
+European Olympic Qualification 2024,2024-05-15,HABESOHN Daniel,LAKATOS Tamas,4,0,"11,11,11,11|5,9,8,5",,OLYMPICS,MS,2988,Qualification,HABESOHN Daniel (AUT),LAKATOS Tamas (HUN),HABESOHN Daniel
+European Olympic Qualification 2024,2024-05-15,PEREZ Juan,REINHOLDS Arturs,4,0,"11,11,11,11|9,8,9,5",,OLYMPICS,MS,2988,Qualification,PEREZ Juan (ESP),REINHOLDS Arturs (LAT),PEREZ Juan
+European Olympic Qualification 2024,2024-05-15,HABESOHN Daniel,PEREZ Juan,4,3,"11,11,9,11,8,3,11|8,5,11,9,11,11,8",,OLYMPICS,MS,2988,Qualification,HABESOHN Daniel (AUT),PEREZ Juan (ESP),HABESOHN Daniel
+European Olympic Qualification 2024,2024-05-15,LAKATOS Tamas,REINHOLDS Arturs,4,1,"11,11,12,9,11|9,6,10,11,7",,OLYMPICS,MS,2988,Qualification,LAKATOS Tamas (HUN),REINHOLDS Arturs (LAT),LAKATOS Tamas
+European Olympic Qualification 2024,2024-05-15,PEREZ Juan,LAKATOS Tamas,4,2,"19,3,7,11,11,11|17,11,11,3,7,7",,OLYMPICS,MS,2988,Qualification,PEREZ Juan (ESP),LAKATOS Tamas (HUN),PEREZ Juan
+European Olympic Qualification 2024,2024-05-15,HABESOHN Daniel,REINHOLDS Arturs,4,1,"11,11,5,11,11|6,4,11,8,4",,OLYMPICS,MS,2988,Qualification,HABESOHN Daniel (AUT),REINHOLDS Arturs (LAT),HABESOHN Daniel
+European Olympic Qualification 2024,2024-05-15,WANG Yang,LIMONOV Anton,4,0,"11,11,11,11|1,3,6,4",,OLYMPICS,MS,2988,Qualification,WANG Yang (SVK),LIMONOV Anton (UKR),WANG Yang
+European Olympic Qualification 2024,2024-05-15,SZUDI Adam,MIHAILOVIC Nikola,4,0,"11,11,11,11|6,5,6,2",,OLYMPICS,MS,2988,Qualification,SZUDI Adam (HUN),MIHAILOVIC Nikola (BIH),SZUDI Adam
+European Olympic Qualification 2024,2024-05-15,WANG Yang,SZUDI Adam,4,1,"11,11,11,4,11|2,6,8,11,3",,OLYMPICS,MS,2988,Qualification,WANG Yang (SVK),SZUDI Adam (HUN),WANG Yang
+European Olympic Qualification 2024,2024-05-15,LIMONOV Anton,MIHAILOVIC Nikola,4,1,"9,11,11,11,11|11,5,6,8,6",,OLYMPICS,MS,2988,Qualification,LIMONOV Anton (UKR),MIHAILOVIC Nikola (BIH),LIMONOV Anton
+European Olympic Qualification 2024,2024-05-15,SZUDI Adam,LIMONOV Anton,4,0,"11,12,11,11|5,10,7,2",,OLYMPICS,MS,2988,Qualification,SZUDI Adam (HUN),LIMONOV Anton (UKR),SZUDI Adam
+European Olympic Qualification 2024,2024-05-15,WANG Yang,MIHAILOVIC Nikola,4,0,"11,11,11,11|7,3,5,7",,OLYMPICS,MS,2988,Qualification,WANG Yang (SVK),MIHAILOVIC Nikola (BIH),WANG Yang
+European Olympic Qualification 2024,2024-05-15,SIRUCEK Pavel,IONESCU Eduard,4,3,"12,11,7,11,7,11,11|14,7,11,6,11,9,9",,OLYMPICS,MS,2988,Qualification,IONESCU Eduard (ROU),SIRUCEK Pavel (CZE),SIRUCEK Pavel
+European Olympic Qualification 2024,2024-05-15,KULCZYCKI Samuel,ZIJADIC Benjamin,4,0,"11,12,11,11|8,10,4,4",,OLYMPICS,MS,2988,Qualification,KULCZYCKI Samuel (POL),ZIJADIC Benjamin (BIH),KULCZYCKI Samuel
+European Olympic Qualification 2024,2024-05-15,IONESCU Eduard,KULCZYCKI Samuel,4,3,"11,11,9,8,11,9,11|5,8,11,11,8,11,5",,OLYMPICS,MS,2988,Qualification,IONESCU Eduard (ROU),KULCZYCKI Samuel (POL),IONESCU Eduard
+European Olympic Qualification 2024,2024-05-15,SIRUCEK Pavel,ZIJADIC Benjamin,4,0,"11,11,11,11|4,4,4,4",,OLYMPICS,MS,2988,Qualification,SIRUCEK Pavel (CZE),ZIJADIC Benjamin (BIH),SIRUCEK Pavel
+European Olympic Qualification 2024,2024-05-15,KULCZYCKI Samuel,SIRUCEK Pavel,4,1,"11,11,6,11,11|9,9,11,6,9",,OLYMPICS,MS,2988,Qualification,KULCZYCKI Samuel (POL),SIRUCEK Pavel (CZE),KULCZYCKI Samuel
+European Olympic Qualification 2024,2024-05-15,IONESCU Eduard,ZIJADIC Benjamin,4,0,"11,11,11,11|6,4,7,6",,OLYMPICS,MS,2988,Qualification,IONESCU Eduard (ROU),ZIJADIC Benjamin (BIH),IONESCU Eduard
+European Olympic Qualification 2024,2024-05-15,REDZIMSKI Milosz,STOLL Loic,4,0,"11,11,11,11|3,6,9,4",,OLYMPICS,MS,2988,Qualification,REDZIMSKI Milosz (POL),STOLL Loic (SUI),REDZIMSKI Milosz
+European Olympic Qualification 2024,2024-05-15,JANCARIK Lubomir,KODJABASHEV Denislav,4,1,"12,11,6,11,12|10,7,11,7,10",,OLYMPICS,MS,2988,Qualification,JANCARIK Lubomir (CZE),KODJABASHEV Denislav (BUL),JANCARIK Lubomir
+European Olympic Qualification 2024,2024-05-15,REDZIMSKI Milosz,JANCARIK Lubomir,4,0,"11,15,11,11|9,13,6,9",,OLYMPICS,MS,2988,Qualification,REDZIMSKI Milosz (POL),JANCARIK Lubomir (CZE),REDZIMSKI Milosz
+European Olympic Qualification 2024,2024-05-15,KODJABASHEV Denislav,STOLL Loic,4,1,"11,11,12,9,11|7,4,10,11,9",,OLYMPICS,MS,2988,Qualification,STOLL Loic (SUI),KODJABASHEV Denislav (BUL),KODJABASHEV Denislav
+European Olympic Qualification 2024,2024-05-15,JANCARIK Lubomir,STOLL Loic,4,0,"11,11,11,11|6,5,7,5",,OLYMPICS,MS,2988,Qualification,JANCARIK Lubomir (CZE),STOLL Loic (SUI),JANCARIK Lubomir
+European Olympic Qualification 2024,2024-05-15,REDZIMSKI Milosz,KODJABASHEV Denislav,4,0,"11,11,11,11|5,8,9,4",,OLYMPICS,MS,2988,Qualification,REDZIMSKI Milosz (POL),KODJABASHEV Denislav (BUL),REDZIMSKI Milosz
+European Olympic Qualification 2024,2024-05-15,ALLEGRO Martin,NAUMI Alex,4,3,"9,13,9,11,9,11,11|11,11,11,4,11,5,6",,OLYMPICS,MS,2988,Qualification,ALLEGRO Martin (BEL),NAUMI Alex (FIN),ALLEGRO Martin
+European Olympic Qualification 2024,2024-05-15,LEVAJAC Dimitrije,KRASTEV Petyo,4,1,"12,11,12,11,11|14,4,10,5,6",,OLYMPICS,MS,2988,Qualification,LEVAJAC Dimitrije (SRB),KRASTEV Petyo (BUL),LEVAJAC Dimitrije
+European Olympic Qualification 2024,2024-05-15,LEVAJAC Dimitrije,ALLEGRO Martin,4,3,"11,11,11,11,9,9,11|13,6,9,9,11,11,7",,OLYMPICS,MS,2988,Qualification,ALLEGRO Martin (BEL),LEVAJAC Dimitrije (SRB),LEVAJAC Dimitrije
+European Olympic Qualification 2024,2024-05-15,NAUMI Alex,KRASTEV Petyo,4,2,"11,17,11,8,11,11|5,19,1,11,9,8",,OLYMPICS,MS,2988,Qualification,NAUMI Alex (FIN),KRASTEV Petyo (BUL),NAUMI Alex
+European Olympic Qualification 2024,2024-05-15,NAUMI Alex,LEVAJAC Dimitrije,4,3,"11,8,4,11,11,8,11|8,11,11,7,4,11,8",,OLYMPICS,MS,2988,Qualification,LEVAJAC Dimitrije (SRB),NAUMI Alex (FIN),NAUMI Alex
+European Olympic Qualification 2024,2024-05-15,ALLEGRO Martin,KRASTEV Petyo,4,1,"11,11,11,4,11|7,6,4,11,7",,OLYMPICS,MS,2988,Qualification,ALLEGRO Martin (BEL),KRASTEV Petyo (BUL),ALLEGRO Martin
+European Olympic Qualification 2024,2024-05-15,BOBOCICA Mihai,GACEV Aleksa,4,0,"11,11,11,11|9,2,5,7",,OLYMPICS,MS,2988,Qualification,BOBOCICA Mihai (ITA),GACEV Aleksa (SRB),BOBOCICA Mihai
+European Olympic Qualification 2024,2024-05-15,ZHMUDENKO Yaroslav,MONGIUSTI Mattias,4,2,"8,12,7,11,11,15|11,10,11,3,9,13",,OLYMPICS,MS,2988,Qualification,ZHMUDENKO Yaroslav (UKR),MONGIUSTI Mattias (SMR),ZHMUDENKO Yaroslav
+European Olympic Qualification 2024,2024-05-15,BOBOCICA Mihai,ZHMUDENKO Yaroslav,4,3,"7,11,11,11,8,11,11|11,5,9,5,11,13,8",,OLYMPICS,MS,2988,Qualification,BOBOCICA Mihai (ITA),ZHMUDENKO Yaroslav (UKR),BOBOCICA Mihai
+European Olympic Qualification 2024,2024-05-15,GACEV Aleksa,MONGIUSTI Mattias,4,2,"8,11,17,11,9,11|11,5,15,7,11,6",,OLYMPICS,MS,2988,Qualification,GACEV Aleksa (SRB),MONGIUSTI Mattias (SMR),GACEV Aleksa
+European Olympic Qualification 2024,2024-05-15,ZHMUDENKO Yaroslav,GACEV Aleksa,4,0,"11,11,11,11|3,8,4,8",,OLYMPICS,MS,2988,Qualification,ZHMUDENKO Yaroslav (UKR),GACEV Aleksa (SRB),ZHMUDENKO Yaroslav
+European Olympic Qualification 2024,2024-05-15,BOBOCICA Mihai,MONGIUSTI Mattias,4,0,"11,11,11,11|5,5,9,9",,OLYMPICS,MS,2988,Qualification,BOBOCICA Mihai (ITA),MONGIUSTI Mattias (SMR),BOBOCICA Mihai
+European Olympic Qualification 2024,2024-05-15,GIONIS Panagiotis,YIGENLER Abdullah,4,0,"11,11,11,11|2,4,2,6",,OLYMPICS,MS,2988,Qualification,GIONIS Panagiotis (GRE),YIGENLER Abdullah (TUR),GIONIS Panagiotis
+European Olympic Qualification 2024,2024-05-15,NUYTINCK Cedric,GILLEN Alexander,4,0,"11,11,11,11|1,9,8,5",,OLYMPICS,MS,2988,Qualification,NUYTINCK Cedric (BEL),GILLEN Alexander (IRL),NUYTINCK Cedric
+European Olympic Qualification 2024,2024-05-15,GIONIS Panagiotis,NUYTINCK Cedric,4,1,"12,7,11,13,12|10,11,8,11,10",,OLYMPICS,MS,2988,Qualification,GIONIS Panagiotis (GRE),NUYTINCK Cedric (BEL),GIONIS Panagiotis
+European Olympic Qualification 2024,2024-05-15,YIGENLER Abdullah,GILLEN Alexander,4,0,"11,11,11,11|5,4,8,4",,OLYMPICS,MS,2988,Qualification,YIGENLER Abdullah (TUR),GILLEN Alexander (IRL),YIGENLER Abdullah
+European Olympic Qualification 2024,2024-05-15,NUYTINCK Cedric,YIGENLER Abdullah,4,3,"11,8,11,9,11,12,11|5,11,5,11,13,10,8",,OLYMPICS,MS,2988,Qualification,NUYTINCK Cedric (BEL),YIGENLER Abdullah (TUR),NUYTINCK Cedric
+European Olympic Qualification 2024,2024-05-15,GIONIS Panagiotis,GILLEN Alexander,4,0,"11,11,11,11|4,4,6,3",,OLYMPICS,MS,2988,Qualification,GIONIS Panagiotis (GRE),GILLEN Alexander (IRL),GIONIS Panagiotis
+European Olympic Qualification 2024,2024-05-15,DRINKHALL Paul,KOGANS Daniels,4,0,"11,11,11,11|5,5,4,2",,OLYMPICS,MS,2988,Qualification,DRINKHALL Paul (ENG),KOGANS Daniels (LAT),DRINKHALL Paul
+European Olympic Qualification 2024,2024-05-15,STOYANOV Niagol,HARDMEIER Elias,4,0,"13,11,11,11|11,4,3,5",,OLYMPICS,MS,2988,Qualification,STOYANOV Niagol (ITA),HARDMEIER Elias (SUI),STOYANOV Niagol
+European Olympic Qualification 2024,2024-05-15,DRINKHALL Paul,STOYANOV Niagol,4,2,"6,9,11,11,11,11|11,11,9,9,6,8",,OLYMPICS,MS,2988,Qualification,DRINKHALL Paul (ENG),STOYANOV Niagol (ITA),DRINKHALL Paul
+European Olympic Qualification 2024,2024-05-15,HARDMEIER Elias,KOGANS Daniels,4,1,"13,11,12,8,14|11,7,10,11,12",,OLYMPICS,MS,2988,Qualification,KOGANS Daniels (LAT),HARDMEIER Elias (SUI),HARDMEIER Elias
+European Olympic Qualification 2024,2024-05-15,STOYANOV Niagol,KOGANS Daniels,4,1,"11,11,7,12,11|7,7,11,10,5",,OLYMPICS,MS,2988,Qualification,STOYANOV Niagol (ITA),KOGANS Daniels (LAT),STOYANOV Niagol
+European Olympic Qualification 2024,2024-05-15,DRINKHALL Paul,HARDMEIER Elias,4,2,"11,11,11,6,2,11|9,5,2,11,11,2",,OLYMPICS,MS,2988,Qualification,DRINKHALL Paul (ENG),HARDMEIER Elias (SUI),DRINKHALL Paul
+European Olympic Qualification 2024,2024-05-15,LEVENKO Andreas,YIANGOU Marios,4,1,"9,11,11,11,11|11,7,3,5,6",,OLYMPICS,MS,2988,Qualification,LEVENKO Andreas (AUT),YIANGOU Marios (CYP),LEVENKO Andreas
+European Olympic Qualification 2024,2024-05-15,VAN OOST Kas,MLADENOVIC Luka,4,2,"6,11,6,11,11,11|11,7,11,5,7,7",,OLYMPICS,MS,2988,Qualification,MLADENOVIC Luka (LUX),VAN OOST Kas (NED),VAN OOST Kas
+European Olympic Qualification 2024,2024-05-15,MLADENOVIC Luka,LEVENKO Andreas,4,3,"11,11,9,9,11,10,11|5,9,11,11,8,12,9",,OLYMPICS,MS,2988,Qualification,LEVENKO Andreas (AUT),MLADENOVIC Luka (LUX),MLADENOVIC Luka
+European Olympic Qualification 2024,2024-05-15,VAN OOST Kas,YIANGOU Marios,4,2,"11,9,12,9,11,11|7,11,10,11,6,7",,OLYMPICS,MS,2988,Qualification,YIANGOU Marios (CYP),VAN OOST Kas (NED),VAN OOST Kas
+European Olympic Qualification 2024,2024-05-15,MLADENOVIC Luka,YIANGOU Marios,4,3,"9,8,11,11,6,11,11|11,11,9,9,11,5,6",,OLYMPICS,MS,2988,Qualification,MLADENOVIC Luka (LUX),YIANGOU Marios (CYP),MLADENOVIC Luka
+European Olympic Qualification 2024,2024-05-15,LEVENKO Andreas,VAN OOST Kas,4,3,"4,12,11,4,11,11,11|11,10,8,11,4,13,3",,OLYMPICS,MS,2988,Qualification,LEVENKO Andreas (AUT),VAN OOST Kas (NED),LEVENKO Andreas
+European Olympic Qualification 2024,2024-05-15,PISTEJ Lubomir,PUTUNTICA Andrei,4,3,"10,11,10,11,11,9,12|12,7,12,3,8,11,10",,OLYMPICS,MS,2988,Qualification,PISTEJ Lubomir (SVK),PUTUNTICA Andrei (MDA),PISTEJ Lubomir
+European Olympic Qualification 2024,2024-05-15,OLAH Benedek,DE BOER Milo,4,0,"11,11,11,11|6,6,6,9",,OLYMPICS,MS,2988,Qualification,OLAH Benedek (FIN),DE BOER Milo (NED),OLAH Benedek
+European Olympic Qualification 2024,2024-05-15,PISTEJ Lubomir,OLAH Benedek,4,1,"11,11,11,2,11|9,8,7,11,7",,OLYMPICS,MS,2988,Qualification,PISTEJ Lubomir (SVK),OLAH Benedek (FIN),PISTEJ Lubomir
+European Olympic Qualification 2024,2024-05-15,PUTUNTICA Andrei,DE BOER Milo,4,1,"11,12,11,7,11|9,10,9,11,6",,OLYMPICS,MS,2988,Qualification,PUTUNTICA Andrei (MDA),DE BOER Milo (NED),PUTUNTICA Andrei
+European Olympic Qualification 2024,2024-05-15,OLAH Benedek,PUTUNTICA Andrei,4,1,"3,11,14,11,11|11,7,12,3,8",,OLYMPICS,MS,2988,Qualification,OLAH Benedek (FIN),PUTUNTICA Andrei (MDA),OLAH Benedek
+European Olympic Qualification 2024,2024-05-15,PISTEJ Lubomir,DE BOER Milo,4,1,"12,11,11,6,11|10,8,2,11,3",,OLYMPICS,MS,2988,Qualification,PISTEJ Lubomir (SVK),DE BOER Milo (NED),PISTEJ Lubomir
+European Olympic Qualification 2024,2024-05-15,LEVAJAC Dimitrije,LEVENKO Andreas,4,2,"11,11,11,9,14,11|9,6,9,11,16,1",R32,OLYMPICS,MS,2988,Main Draw,LEVENKO Andreas (AUT),LEVAJAC Dimitrije (SRB),LEVAJAC Dimitrije
+European Olympic Qualification 2024,2024-05-15,SZUDI Adam,DRINKHALL Paul,4,0,"14,11,11,11|12,8,7,4",R32,OLYMPICS,MS,2988,Main Draw,DRINKHALL Paul (ENG),SZUDI Adam (HUN),SZUDI Adam
+European Olympic Qualification 2024,2024-05-15,PISTEJ Lubomir,NUYTINCK Cedric,4,1,"11,11,11,9,11|7,9,1,11,9",R32,OLYMPICS,MS,2988,Main Draw,NUYTINCK Cedric (BEL),PISTEJ Lubomir (SVK),PISTEJ Lubomir
+European Olympic Qualification 2024,2024-05-15,IONESCU Eduard,GUNDUZ Ibrahim,4,3,"5,8,6,11,11,11,11|11,11,11,3,5,6,8",R32,OLYMPICS,MS,2988,Main Draw,GUNDUZ Ibrahim (TUR),IONESCU Eduard (ROU),IONESCU Eduard
+European Olympic Qualification 2024,2024-05-15,URSU Vladislav,JANCARIK Lubomir,4,2,"11,11,12,11,8,11|3,8,14,5,11,8",R32,OLYMPICS,MS,2988,Main Draw,JANCARIK Lubomir (CZE),URSU Vladislav (MDA),URSU Vladislav
+European Olympic Qualification 2024,2024-05-15,OLAH Benedek,VAN OOST Kas,4,3,"11,11,10,11,11,11,11|13,9,12,9,13,7,5",R32,OLYMPICS,MS,2988,Main Draw,VAN OOST Kas (NED),OLAH Benedek (FIN),OLAH Benedek
+European Olympic Qualification 2024,2024-05-15,GIONIS Panagiotis,STOYANOV Niagol,4,0,"11,11,11,14|7,4,7,12",R32,OLYMPICS,MS,2988,Main Draw,STOYANOV Niagol (ITA),GIONIS Panagiotis (GRE),GIONIS Panagiotis
+European Olympic Qualification 2024,2024-05-15,ZHMUDENKO Yaroslav,PEREZ Juan,4,1,"11,9,12,11,11|7,11,10,8,8",R32,OLYMPICS,MS,2988,Main Draw,PEREZ Juan (ESP),ZHMUDENKO Yaroslav (UKR),ZHMUDENKO Yaroslav
+European Olympic Qualification 2024,2024-05-15,ROBLES Alvaro,LEVAJAC Dimitrije,4,0,"11,11,11,11|9,9,8,8",R16,OLYMPICS,MS,2988,Main Draw,ROBLES Alvaro (ESP),LEVAJAC Dimitrije (SRB),ROBLES Alvaro
+European Olympic Qualification 2024,2024-05-15,BOBOCICA Mihai,SZUDI Adam,4,1,"16,11,6,11,11|14,7,11,2,6",R16,OLYMPICS,MS,2988,Main Draw,SZUDI Adam (HUN),BOBOCICA Mihai (ITA),BOBOCICA Mihai
+European Olympic Qualification 2024,2024-05-15,REDZIMSKI Milosz,PISTEJ Lubomir,4,3,"11,12,9,9,11,9,11|4,10,11,11,8,11,6",R16,OLYMPICS,MS,2988,Main Draw,REDZIMSKI Milosz (POL),PISTEJ Lubomir (SVK),REDZIMSKI Milosz
+European Olympic Qualification 2024,2024-05-15,IONESCU Eduard,HABESOHN Daniel,4,1,"12,9,11,13,11|10,11,8,11,9",R16,OLYMPICS,MS,2988,Main Draw,IONESCU Eduard (ROU),HABESOHN Daniel (AUT),IONESCU Eduard
+European Olympic Qualification 2024,2024-05-15,WANG Yang,URSU Vladislav,4,1,"11,6,11,11,11|9,11,7,7,8",R16,OLYMPICS,MS,2988,Main Draw,WANG Yang (SVK),URSU Vladislav (MDA),WANG Yang
+European Olympic Qualification 2024,2024-05-15,OLAH Benedek,KULCZYCKI Samuel,4,0,"11,13,11,11|5,11,5,4",R16,OLYMPICS,MS,2988,Main Draw,OLAH Benedek (FIN),KULCZYCKI Samuel (POL),OLAH Benedek
+European Olympic Qualification 2024,2024-05-15,GIONIS Panagiotis,ALLEGRO Martin,4,0,"11,12,11,11|7,10,4,3",R16,OLYMPICS,MS,2988,Main Draw,ALLEGRO Martin (BEL),GIONIS Panagiotis (GRE),GIONIS Panagiotis
+European Olympic Qualification 2024,2024-05-15,ZHMUDENKO Yaroslav,IONESCU Ovidiu,4,1,"6,11,12,14,12|11,5,10,12,10",R16,OLYMPICS,MS,2988,Main Draw,ZHMUDENKO Yaroslav (UKR),IONESCU Ovidiu (ROU),ZHMUDENKO Yaroslav
+European Olympic Qualification 2024,2024-05-15,ROBLES Alvaro,BOBOCICA Mihai,4,2,"9,11,7,11,11,12|11,7,11,4,2,10",QF,OLYMPICS,MS,2988,Main Draw,ROBLES Alvaro (ESP),BOBOCICA Mihai (ITA),ROBLES Alvaro
+European Olympic Qualification 2024,2024-05-15,REDZIMSKI Milosz,IONESCU Eduard,4,1,"6,11,11,11,12|11,9,7,3,10",QF,OLYMPICS,MS,2988,Main Draw,REDZIMSKI Milosz (POL),IONESCU Eduard (ROU),REDZIMSKI Milosz
+European Olympic Qualification 2024,2024-05-15,WANG Yang,OLAH Benedek,4,0,"11,12,11,12|5,10,9,10",QF,OLYMPICS,MS,2988,Main Draw,WANG Yang (SVK),OLAH Benedek (FIN),WANG Yang
+European Olympic Qualification 2024,2024-05-15,GIONIS Panagiotis,ZHMUDENKO Yaroslav,4,3,"9,11,11,8,11,9,11|11,7,3,11,7,11,5",QF,OLYMPICS,MS,2988,Main Draw,GIONIS Panagiotis (GRE),ZHMUDENKO Yaroslav (UKR),GIONIS Panagiotis
+European Olympic Qualification 2024,2024-05-15,REDZIMSKI Milosz,ROBLES Alvaro,4,1,"5,11,11,11,14|11,5,7,9,12",SF,OLYMPICS,MS,2988,Main Draw,ROBLES Alvaro (ESP),REDZIMSKI Milosz (POL),REDZIMSKI Milosz
+European Olympic Qualification 2024,2024-05-15,GIONIS Panagiotis,WANG Yang,4,0,"12,11,11,14|10,5,8,12",SF,OLYMPICS,MS,2988,Main Draw,WANG Yang (SVK),GIONIS Panagiotis (GRE),GIONIS Panagiotis
+European Olympic Qualification 2024,2024-05-15,STOYANOV Niagol,GUNDUZ Ibrahim,4,1,"9,11,11,11,11|11,7,6,5,5",R32,OLYMPICS,MS,2988,Main Draw,STOYANOV Niagol (ITA),GUNDUZ Ibrahim (TUR),STOYANOV Niagol
+European Olympic Qualification 2024,2024-05-15,ALLEGRO Martin,LEVENKO Andreas,4,3,"20,6,5,4,12,11,11|18,11,11,11,10,9,9",R32,OLYMPICS,MS,2988,Main Draw,LEVENKO Andreas (AUT),ALLEGRO Martin (BEL),ALLEGRO Martin
+European Olympic Qualification 2024,2024-05-15,SZUDI Adam,JANCARIK Lubomir,4,2,"11,12,13,4,8,11|5,10,11,11,11,8",R32,OLYMPICS,MS,2988,Main Draw,SZUDI Adam (HUN),JANCARIK Lubomir (CZE),SZUDI Adam
+European Olympic Qualification 2024,2024-05-15,NUYTINCK Cedric,KULCZYCKI Samuel,4,2,"12,6,11,8,11,11|10,11,7,11,5,6",R32,OLYMPICS,MS,2988,Main Draw,NUYTINCK Cedric (BEL),KULCZYCKI Samuel (POL),NUYTINCK Cedric
+European Olympic Qualification 2024,2024-05-15,DRINKHALL Paul,HABESOHN Daniel,4,3,"9,11,10,12,12,9,11|11,8,12,10,10,11,6",R32,OLYMPICS,MS,2988,Main Draw,HABESOHN Daniel (AUT),DRINKHALL Paul (ENG),DRINKHALL Paul
+European Olympic Qualification 2024,2024-05-15,PEREZ Juan,VAN OOST Kas,4,0,"11,11,15,11|4,3,13,7",R32,OLYMPICS,MS,2988,Main Draw,PEREZ Juan (ESP),VAN OOST Kas (NED),PEREZ Juan
+European Olympic Qualification 2024,2024-05-15,ROBLES Alvaro,STOYANOV Niagol,4,2,"11,8,9,11,11,11|5,11,11,8,8,6",R16,OLYMPICS,MS,2988,Main Draw,ROBLES Alvaro (ESP),STOYANOV Niagol (ITA),ROBLES Alvaro
+European Olympic Qualification 2024,2024-05-15,URSU Vladislav,PISTEJ Lubomir,4,0,"12,13,14,11|10,11,12,3",R16,OLYMPICS,MS,2988,Main Draw,URSU Vladislav (MDA),PISTEJ Lubomir (SVK),URSU Vladislav
+European Olympic Qualification 2024,2024-05-15,ALLEGRO Martin,IONESCU Eduard,4,2,"5,13,4,11,11,11|11,11,11,9,8,7",R16,OLYMPICS,MS,2988,Main Draw,IONESCU Eduard (ROU),ALLEGRO Martin (BEL),ALLEGRO Martin
+European Olympic Qualification 2024,2024-05-15,SZUDI Adam,OLAH Benedek,4,2,"11,13,6,11,11,11|9,15,11,6,9,7",R16,OLYMPICS,MS,2988,Main Draw,SZUDI Adam (HUN),OLAH Benedek (FIN),SZUDI Adam
+European Olympic Qualification 2024,2024-05-15,NUYTINCK Cedric,BOBOCICA Mihai,4,0,"11,11,15,13|8,5,13,11",R16,OLYMPICS,MS,2988,Main Draw,BOBOCICA Mihai (ITA),NUYTINCK Cedric (BEL),NUYTINCK Cedric
+European Olympic Qualification 2024,2024-05-15,ZHMUDENKO Yaroslav,DRINKHALL Paul,4,3,"9,9,11,6,11,11,11|11,11,3,11,5,8,8",R16,OLYMPICS,MS,2988,Main Draw,DRINKHALL Paul (ENG),ZHMUDENKO Yaroslav (UKR),ZHMUDENKO Yaroslav
+European Olympic Qualification 2024,2024-05-15,LEVAJAC Dimitrije,IONESCU Ovidiu,4,2,"6,12,11,11,11,11|11,10,7,13,6,8",R16,OLYMPICS,MS,2988,Main Draw,IONESCU Ovidiu (ROU),LEVAJAC Dimitrije (SRB),LEVAJAC Dimitrije
+European Olympic Qualification 2024,2024-05-15,WANG Yang,PEREZ Juan,4,0,"11,11,11,11|8,7,5,5",R16,OLYMPICS,MS,2988,Main Draw,PEREZ Juan (ESP),WANG Yang (SVK),WANG Yang
+European Olympic Qualification 2024,2024-05-15,URSU Vladislav,ROBLES Alvaro,4,3,"4,12,9,8,11,11,11|11,10,11,11,5,6,7",QF,OLYMPICS,MS,2988,Main Draw,ROBLES Alvaro (ESP),URSU Vladislav (MDA),URSU Vladislav
+European Olympic Qualification 2024,2024-05-15,SZUDI Adam,ALLEGRO Martin,4,3,"9,12,4,7,11,11,12|11,10,11,11,8,7,10",QF,OLYMPICS,MS,2988,Main Draw,ALLEGRO Martin (BEL),SZUDI Adam (HUN),SZUDI Adam
+European Olympic Qualification 2024,2024-05-15,ZHMUDENKO Yaroslav,NUYTINCK Cedric,4,0,"11,11,12,11|5,7,10,3",QF,OLYMPICS,MS,2988,Main Draw,NUYTINCK Cedric (BEL),ZHMUDENKO Yaroslav (UKR),ZHMUDENKO Yaroslav
+European Olympic Qualification 2024,2024-05-15,WANG Yang,LEVAJAC Dimitrije,4,2,"11,12,4,11,11,11|7,14,11,7,7,7",QF,OLYMPICS,MS,2988,Main Draw,LEVAJAC Dimitrije (SRB),WANG Yang (SVK),WANG Yang
+European Olympic Qualification 2024,2024-05-15,URSU Vladislav,SZUDI Adam,4,0,"11,11,11,11|9,7,4,4",SF,OLYMPICS,MS,2988,Main Draw,URSU Vladislav (MDA),SZUDI Adam (HUN),URSU Vladislav
+European Olympic Qualification 2024,2024-05-15,ZHMUDENKO Yaroslav,WANG Yang,4,0,"11,11,11,11|6,5,5,5",SF,OLYMPICS,MS,2988,Main Draw,ZHMUDENKO Yaroslav (UKR),WANG Yang (SVK),ZHMUDENKO Yaroslav
+European Olympic Qualification 2024,2024-05-15,PICCOLIN Giorgia,TOFANT Ana,4,1,"12,11,11,8,11|10,7,5,11,8",,OLYMPICS,WS,2988,Qualification,PICCOLIN Giorgia (ITA),TOFANT Ana (SLO),PICCOLIN Giorgia
+European Olympic Qualification 2024,2024-05-15,ARAPOVIC Hana,PICCOLIN Giorgia,4,1,"11,11,11,11,11|4,13,5,7,9",,OLYMPICS,WS,2988,Qualification,PICCOLIN Giorgia (ITA),ARAPOVIC Hana (CRO),ARAPOVIC Hana
+European Olympic Qualification 2024,2024-05-15,ARAPOVIC Hana,TOFANT Ana,4,2,"11,9,6,14,11,11|9,11,11,12,3,7",,OLYMPICS,WS,2988,Qualification,ARAPOVIC Hana (CRO),TOFANT Ana (SLO),ARAPOVIC Hana
+European Olympic Qualification 2024,2024-05-15,SHAO Jieni,BLASKOVA Zdena,4,2,"4,14,11,15,12,11|11,12,8,17,10,6",,OLYMPICS,WS,2988,Qualification,SHAO Jieni (POR),BLASKOVA Zdena (CZE),SHAO Jieni
+European Olympic Qualification 2024,2024-05-15,SHAO Jieni,YILMAZ Ozge,4,0,"16,11,11,11|14,9,3,9",,OLYMPICS,WS,2988,Qualification,SHAO Jieni (POR),YILMAZ Ozge (TUR),SHAO Jieni
+European Olympic Qualification 2024,2024-05-15,YILMAZ Ozge,BLASKOVA Zdena,4,3,"5,11,7,11,9,11,11|11,6,11,6,11,8,9",,OLYMPICS,WS,2988,Qualification,YILMAZ Ozge (TUR),BLASKOVA Zdena (CZE),YILMAZ Ozge
+European Olympic Qualification 2024,2024-05-15,MISCHEK-COLUCCI Karoline,XIAO Maria,4,3,"11,9,4,11,11,3,11|5,11,11,5,8,11,8",,OLYMPICS,WS,2988,Qualification,XIAO Maria (ESP),MISCHEK-COLUCCI Karoline (AUT),MISCHEK-COLUCCI Karoline
+European Olympic Qualification 2024,2024-05-15,HO Tin-Tin,XIAO Maria,4,1,"11,13,9,11,11|3,11,11,5,8",,OLYMPICS,WS,2988,Qualification,XIAO Maria (ESP),HO Tin-Tin (ENG),HO Tin-Tin
+European Olympic Qualification 2024,2024-05-15,HO Tin-Tin,MISCHEK-COLUCCI Karoline,4,1,"11,12,5,12,11|7,10,11,10,3",,OLYMPICS,WS,2988,Qualification,HO Tin-Tin (ENG),MISCHEK-COLUCCI Karoline (AUT),HO Tin-Tin
+European Olympic Qualification 2024,2024-05-15,KUKULKOVA Tatiana,DEGRAEF Margo,4,0,"11,12,11,11|1,10,7,6",,OLYMPICS,WS,2988,Qualification,KUKULKOVA Tatiana (SVK),DEGRAEF Margo (BEL),KUKULKOVA Tatiana
+European Olympic Qualification 2024,2024-05-15,KUKULKOVA Tatiana,SURJAN Sabina,4,2,"11,11,6,11,5,11|8,9,11,6,11,9",,OLYMPICS,WS,2988,Qualification,KUKULKOVA Tatiana (SVK),SURJAN Sabina (SRB),KUKULKOVA Tatiana
+European Olympic Qualification 2024,2024-05-15,SURJAN Sabina,DEGRAEF Margo,4,2,"6,15,11,11,11,13|11,17,9,9,9,11",,OLYMPICS,WS,2988,Qualification,SURJAN Sabina (SRB),DEGRAEF Margo (BEL),SURJAN Sabina
+European Olympic Qualification 2024,2024-05-15,POTA Georgina,TOLIOU Aikaterini,4,1,"10,11,11,11,11|12,9,5,8,8",,OLYMPICS,WS,2988,Qualification,POTA Georgina (HUN),TOLIOU Aikaterini (GRE),POTA Georgina
+European Olympic Qualification 2024,2024-05-15,MORET Rachel,POTA Georgina,4,1,"13,4,11,12,12|11,11,7,10,10",,OLYMPICS,WS,2988,Qualification,POTA Georgina (HUN),MORET Rachel (SUI),MORET Rachel
+European Olympic Qualification 2024,2024-05-15,TOLIOU Aikaterini,MORET Rachel,4,2,"7,11,11,11,10,11|11,7,9,4,12,9",,OLYMPICS,WS,2988,Qualification,MORET Rachel (SUI),TOLIOU Aikaterini (GRE),TOLIOU Aikaterini
+European Olympic Qualification 2024,2024-05-15,YU Fu,TOFTAKER Martine,4,0,"11,11,11,11|0,4,5,5",,OLYMPICS,WS,2988,Qualification,YU Fu (POR),TOFTAKER Martine (NOR),YU Fu
+European Olympic Qualification 2024,2024-05-15,YU Fu,DE NUTTE Sarah,4,0,"11,11,11,11|6,6,7,6",,OLYMPICS,WS,2988,Qualification,YU Fu (POR),DE NUTTE Sarah (LUX),YU Fu
+European Olympic Qualification 2024,2024-05-15,DE NUTTE Sarah,TOFTAKER Martine,4,0,"11,11,11,11|5,7,6,6",,OLYMPICS,WS,2988,Qualification,DE NUTTE Sarah (LUX),TOFTAKER Martine (NOR),DE NUTTE Sarah
+European Olympic Qualification 2024,2024-05-15,EERLAND Britt,TERPOU Elisavet,4,3,"9,12,11,11,11,9,11|11,14,6,8,4,11,5",,OLYMPICS,WS,2988,Qualification,EERLAND Britt (NED),TERPOU Elisavet (GRE),EERLAND Britt
+European Olympic Qualification 2024,2024-05-15,ZHANG Sofia-Xuan,JERSOVA Aleksandra,4,1,"11,11,11,9,11|3,2,5,11,6",,OLYMPICS,WS,2988,Qualification,ZHANG Sofia-Xuan (ESP),JERSOVA Aleksandra (LAT),ZHANG Sofia-Xuan
+European Olympic Qualification 2024,2024-05-15,EERLAND Britt,ZHANG Sofia-Xuan,4,3,"11,7,7,11,8,11,11|8,11,11,7,11,3,8",,OLYMPICS,WS,2988,Qualification,EERLAND Britt (NED),ZHANG Sofia-Xuan (ESP),EERLAND Britt
+European Olympic Qualification 2024,2024-05-15,TERPOU Elisavet,JERSOVA Aleksandra,4,0,"11,11,11,11|6,8,8,5",,OLYMPICS,WS,2988,Qualification,TERPOU Elisavet (GRE),JERSOVA Aleksandra (LAT),TERPOU Elisavet
+European Olympic Qualification 2024,2024-05-15,ZHANG Sofia-Xuan,TERPOU Elisavet,4,0,"11,11,11,11|6,6,9,6",,OLYMPICS,WS,2988,Qualification,ZHANG Sofia-Xuan (ESP),TERPOU Elisavet (GRE),ZHANG Sofia-Xuan
+European Olympic Qualification 2024,2024-05-15,EERLAND Britt,JERSOVA Aleksandra,4,0,"11,11,11,11|6,6,5,6",,OLYMPICS,WS,2988,Qualification,EERLAND Britt (NED),JERSOVA Aleksandra (LAT),EERLAND Britt
+European Olympic Qualification 2024,2024-05-15,TOKIC Sara,PESOTSKA Margaryta,4,2,"9,4,14,11,11,14|11,11,12,9,9,12",,OLYMPICS,WS,2988,Qualification,PESOTSKA Margaryta (UKR),TOKIC Sara (SLO),TOKIC Sara
+European Olympic Qualification 2024,2024-05-15,ALTINKAYA Sibel,MUSAJEVA Sabina,4,0,"11,11,11,11|4,5,4,7",,OLYMPICS,WS,2988,Qualification,ALTINKAYA Sibel (TUR),MUSAJEVA Sabina (LAT),ALTINKAYA Sibel
+European Olympic Qualification 2024,2024-05-15,PESOTSKA Margaryta,ALTINKAYA Sibel,4,0,"13,12,11,11|11,10,7,8",,OLYMPICS,WS,2988,Qualification,PESOTSKA Margaryta (UKR),ALTINKAYA Sibel (TUR),PESOTSKA Margaryta
+European Olympic Qualification 2024,2024-05-15,TOKIC Sara,MUSAJEVA Sabina,4,0,"11,11,11,11|8,5,4,3",,OLYMPICS,WS,2988,Qualification,TOKIC Sara (SLO),MUSAJEVA Sabina (LAT),TOKIC Sara
+European Olympic Qualification 2024,2024-05-15,TOKIC Sara,ALTINKAYA Sibel,4,2,"11,11,6,11,11,13|7,13,11,7,7,11",,OLYMPICS,WS,2988,Qualification,ALTINKAYA Sibel (TUR),TOKIC Sara (SLO),TOKIC Sara
+European Olympic Qualification 2024,2024-05-15,PESOTSKA Margaryta,MUSAJEVA Sabina,4,0,"11,11,11,11|5,3,6,2",,OLYMPICS,WS,2988,Qualification,PESOTSKA Margaryta (UKR),MUSAJEVA Sabina (LAT),PESOTSKA Margaryta
+European Olympic Qualification 2024,2024-05-15,MALOBABIC Ivana,DONNER Marina,4,0,"11,11,11,11|7,6,5,7",,OLYMPICS,WS,2988,Qualification,MALOBABIC Ivana (CRO),DONNER Marina (FIN),MALOBABIC Ivana
+European Olympic Qualification 2024,2024-05-15,HURSEY Anna,MESETOVIC Harisa,4,0,"11,11,11,11|4,3,3,3",,OLYMPICS,WS,2988,Qualification,HURSEY Anna (WAL),MESETOVIC Harisa (BIH),HURSEY Anna
+European Olympic Qualification 2024,2024-05-15,HURSEY Anna,MALOBABIC Ivana,4,1,"11,7,11,11,11|8,11,8,6,8",,OLYMPICS,WS,2988,Qualification,MALOBABIC Ivana (CRO),HURSEY Anna (WAL),HURSEY Anna
+European Olympic Qualification 2024,2024-05-15,DONNER Marina,MESETOVIC Harisa,4,0,"11,11,11,11|6,5,2,3",,OLYMPICS,WS,2988,Qualification,DONNER Marina (FIN),MESETOVIC Harisa (BIH),DONNER Marina
+European Olympic Qualification 2024,2024-05-15,HURSEY Anna,DONNER Marina,4,0,"11,11,11,11|3,6,6,8",,OLYMPICS,WS,2988,Qualification,HURSEY Anna (WAL),DONNER Marina (FIN),HURSEY Anna
+European Olympic Qualification 2024,2024-05-15,MALOBABIC Ivana,MESETOVIC Harisa,4,0,"12,11,11,11|10,8,6,5",,OLYMPICS,WS,2988,Qualification,MALOBABIC Ivana (CRO),MESETOVIC Harisa (BIH),MALOBABIC Ivana
+European Olympic Qualification 2024,2024-05-15,VARADY Barbora,YOVKOVA Maria,4,2,"9,11,11,7,13,11|11,6,7,11,11,2",,OLYMPICS,WS,2988,Qualification,VARADY Barbora (SVK),YOVKOVA Maria (BUL),VARADY Barbora
+European Olympic Qualification 2024,2024-05-15,YAREMCHUK Solomiya,RILISKYTE Kornelija,4,1,"9,11,11,11,11|11,1,8,4,5",,OLYMPICS,WS,2988,Qualification,YAREMCHUK Solomiya (UKR),RILISKYTE Kornelija (LTU),YAREMCHUK Solomiya
+European Olympic Qualification 2024,2024-05-15,VARADY Barbora,YAREMCHUK Solomiya,4,2,"11,12,9,11,12,11|8,10,11,6,14,7",,OLYMPICS,WS,2988,Qualification,VARADY Barbora (SVK),YAREMCHUK Solomiya (UKR),VARADY Barbora
+European Olympic Qualification 2024,2024-05-15,YOVKOVA Maria,RILISKYTE Kornelija,4,2,"11,7,5,11,11,11|2,11,11,2,9,5",,OLYMPICS,WS,2988,Qualification,YOVKOVA Maria (BUL),RILISKYTE Kornelija (LTU),YOVKOVA Maria
+European Olympic Qualification 2024,2024-05-15,YAREMCHUK Solomiya,YOVKOVA Maria,4,0,"11,11,11,11|4,3,9,5",,OLYMPICS,WS,2988,Qualification,YAREMCHUK Solomiya (UKR),YOVKOVA Maria (BUL),YAREMCHUK Solomiya
+European Olympic Qualification 2024,2024-05-15,VARADY Barbora,RILISKYTE Kornelija,4,1,"10,15,11,11,11|12,13,9,5,7",,OLYMPICS,WS,2988,Qualification,VARADY Barbora (SVK),RILISKYTE Kornelija (LTU),VARADY Barbora
+European Olympic Qualification 2024,2024-05-15,MATELOVA Hana,HELLE Tanja,4,0,"11,11,11,11|2,8,6,5",,OLYMPICS,WS,2988,Qualification,MATELOVA Hana (CZE),HELLE Tanja (NED),MATELOVA Hana
+European Olympic Qualification 2024,2024-05-15,VIVARELLI Debora,CHIRIACOVA Alexandra,4,1,"11,11,11,5,11|8,9,6,11,8",,OLYMPICS,WS,2988,Qualification,VIVARELLI Debora (ITA),CHIRIACOVA Alexandra (MDA),VIVARELLI Debora
+European Olympic Qualification 2024,2024-05-15,VIVARELLI Debora,MATELOVA Hana,4,1,"11,11,10,11,11|9,9,12,4,5",,OLYMPICS,WS,2988,Qualification,MATELOVA Hana (CZE),VIVARELLI Debora (ITA),VIVARELLI Debora
+European Olympic Qualification 2024,2024-05-15,HELLE Tanja,CHIRIACOVA Alexandra,4,3,"5,11,6,11,11,9,11|11,7,11,8,9,11,9",,OLYMPICS,WS,2988,Qualification,HELLE Tanja (NED),CHIRIACOVA Alexandra (MDA),HELLE Tanja
+European Olympic Qualification 2024,2024-05-15,VIVARELLI Debora,HELLE Tanja,4,3,"11,11,9,9,8,11,11|7,4,11,11,11,9,8",,OLYMPICS,WS,2988,Qualification,VIVARELLI Debora (ITA),HELLE Tanja (NED),VIVARELLI Debora
+European Olympic Qualification 2024,2024-05-15,MATELOVA Hana,CHIRIACOVA Alexandra,4,0,"11,11,11,11|3,1,8,7",,OLYMPICS,WS,2988,Qualification,MATELOVA Hana (CZE),CHIRIACOVA Alexandra (MDA),MATELOVA Hana
+European Olympic Qualification 2024,2024-05-15,LUPULESKU Izabela,CERIC Emina,4,0,"11,11,11,11|2,3,5,4",,OLYMPICS,WS,2988,Qualification,LUPULESKU Izabela (SRB),CERIC Emina (BIH),LUPULESKU Izabela
+European Olympic Qualification 2024,2024-05-15,MADARASZ Dora,MERENCO Camelia,4,0,"11,11,11,12|7,3,4,10",,OLYMPICS,WS,2988,Qualification,MADARASZ Dora (HUN),MERENCO Camelia (MDA),MADARASZ Dora
+European Olympic Qualification 2024,2024-05-15,LUPULESKU Izabela,MADARASZ Dora,4,3,"11,6,11,11,9,13,11|13,11,1,5,11,11,8",,OLYMPICS,WS,2988,Qualification,LUPULESKU Izabela (SRB),MADARASZ Dora (HUN),LUPULESKU Izabela
+European Olympic Qualification 2024,2024-05-15,MERENCO Camelia,CERIC Emina,4,0,"11,11,11,11|7,4,6,7",,OLYMPICS,WS,2988,Qualification,CERIC Emina (BIH),MERENCO Camelia (MDA),MERENCO Camelia
+European Olympic Qualification 2024,2024-05-15,MADARASZ Dora,CERIC Emina,4,0,"11,11,11,11|9,5,3,3",,OLYMPICS,WS,2988,Qualification,MADARASZ Dora (HUN),CERIC Emina (BIH),MADARASZ Dora
+European Olympic Qualification 2024,2024-05-15,LUPULESKU Izabela,MERENCO Camelia,4,0,"11,11,11,11|5,4,6,4",,OLYMPICS,WS,2988,Qualification,LUPULESKU Izabela (SRB),MERENCO Camelia (MDA),LUPULESKU Izabela
+European Olympic Qualification 2024,2024-05-15,YAREMCHUK Solomiya,MISCHEK-COLUCCI Karoline,4,1,"11,11,10,11,11|1,8,12,0,0",R32,OLYMPICS,WS,2988,Main Draw,MISCHEK-COLUCCI Karoline (AUT),YAREMCHUK Solomiya (UKR),YAREMCHUK Solomiya
+European Olympic Qualification 2024,2024-05-15,POTA Georgina,VIVARELLI Debora,4,3,"11,11,11,6,5,7,11|4,4,5,11,11,11,8",R32,OLYMPICS,WS,2988,Main Draw,VIVARELLI Debora (ITA),POTA Georgina (HUN),POTA Georgina
+European Olympic Qualification 2024,2024-05-15,HURSEY Anna,MADARASZ Dora,4,1,"11,6,11,11,11|5,11,9,8,7",R32,OLYMPICS,WS,2988,Main Draw,MADARASZ Dora (HUN),HURSEY Anna (WAL),HURSEY Anna
+European Olympic Qualification 2024,2024-05-15,ZHANG Sofia-Xuan,YILMAZ Ozge,4,0,"11,11,11,11|8,4,8,4",R32,OLYMPICS,WS,2988,Main Draw,YILMAZ Ozge (TUR),ZHANG Sofia-Xuan (ESP),ZHANG Sofia-Xuan
+European Olympic Qualification 2024,2024-05-15,DE NUTTE Sarah,MALOBABIC Ivana,4,0,"11,11,11,11|8,8,6,2",R32,OLYMPICS,WS,2988,Main Draw,MALOBABIC Ivana (CRO),DE NUTTE Sarah (LUX),DE NUTTE Sarah
+European Olympic Qualification 2024,2024-05-15,MATELOVA Hana,LUPULESKU Izabela,4,2,"1,8,11,12,11,11|11,11,9,10,5,8",R32,OLYMPICS,WS,2988,Main Draw,LUPULESKU Izabela (SRB),MATELOVA Hana (CZE),MATELOVA Hana
+European Olympic Qualification 2024,2024-05-15,VARADY Barbora,PICCOLIN Giorgia,4,3,"8,15,11,10,11,7,11|11,13,7,12,8,11,6",R32,OLYMPICS,WS,2988,Main Draw,PICCOLIN Giorgia (ITA),VARADY Barbora (SVK),VARADY Barbora
+European Olympic Qualification 2024,2024-05-15,PESOTSKA Margaryta,SURJAN Sabina,4,1,"12,11,11,8,11|10,8,6,11,2",R32,OLYMPICS,WS,2988,Main Draw,PESOTSKA Margaryta (UKR),SURJAN Sabina (SRB),PESOTSKA Margaryta
+European Olympic Qualification 2024,2024-05-15,ARAPOVIC Hana,YAREMCHUK Solomiya,4,2,"8,11,12,11,9,11|11,9,10,9,11,8",R16,OLYMPICS,WS,2988,Main Draw,ARAPOVIC Hana (CRO),YAREMCHUK Solomiya (UKR),ARAPOVIC Hana
+European Olympic Qualification 2024,2024-05-15,POTA Georgina,YU Fu,4,1,"11,11,9,11,11|8,3,11,6,9",R16,OLYMPICS,WS,2988,Main Draw,POTA Georgina (HUN),YU Fu (POR),POTA Georgina
+European Olympic Qualification 2024,2024-05-15,HURSEY Anna,TOKIC Sara,4,0,"11,11,11,11|4,5,5,8",R16,OLYMPICS,WS,2988,Main Draw,TOKIC Sara (SLO),HURSEY Anna (WAL),HURSEY Anna
+European Olympic Qualification 2024,2024-05-15,KUKULKOVA Tatiana,ZHANG Sofia-Xuan,4,2,"9,11,14,7,11,13|11,6,12,11,3,11",R16,OLYMPICS,WS,2988,Main Draw,ZHANG Sofia-Xuan (ESP),KUKULKOVA Tatiana (SVK),KUKULKOVA Tatiana
+European Olympic Qualification 2024,2024-05-15,HO Tin-Tin,DE NUTTE Sarah,4,0,"14,11,11,11|12,8,4,4",R16,OLYMPICS,WS,2988,Main Draw,HO Tin-Tin (ENG),DE NUTTE Sarah (LUX),HO Tin-Tin
+European Olympic Qualification 2024,2024-05-15,EERLAND Britt,MATELOVA Hana,4,3,"4,11,5,11,10,11,11|11,9,11,9,12,7,8",R16,OLYMPICS,WS,2988,Main Draw,MATELOVA Hana (CZE),EERLAND Britt (NED),EERLAND Britt
+European Olympic Qualification 2024,2024-05-15,VARADY Barbora,MORET Rachel,4,2,"12,11,11,4,11,11|10,4,7,11,13,7",R16,OLYMPICS,WS,2988,Main Draw,MORET Rachel (SUI),VARADY Barbora (SVK),VARADY Barbora
+European Olympic Qualification 2024,2024-05-15,SHAO Jieni,PESOTSKA Margaryta,4,2,"4,12,8,11,11,11|11,10,11,5,7,4",R16,OLYMPICS,WS,2988,Main Draw,PESOTSKA Margaryta (UKR),SHAO Jieni (POR),SHAO Jieni
+European Olympic Qualification 2024,2024-05-15,POTA Georgina,ARAPOVIC Hana,4,1,"11,12,11,5,11|9,10,3,11,3",QF,OLYMPICS,WS,2988,Main Draw,ARAPOVIC Hana (CRO),POTA Georgina (HUN),POTA Georgina
+European Olympic Qualification 2024,2024-05-15,HURSEY Anna,KUKULKOVA Tatiana,4,3,"3,13,8,11,11,11,11|11,15,11,5,5,7,9",QF,OLYMPICS,WS,2988,Main Draw,HURSEY Anna (WAL),KUKULKOVA Tatiana (SVK),HURSEY Anna
+European Olympic Qualification 2024,2024-05-15,EERLAND Britt,HO Tin-Tin,4,3,"7,11,9,13,11,11,11|11,7,11,15,7,9,9",QF,OLYMPICS,WS,2988,Main Draw,HO Tin-Tin (ENG),EERLAND Britt (NED),EERLAND Britt
+European Olympic Qualification 2024,2024-05-15,VARADY Barbora,SHAO Jieni,4,3,"10,9,9,11,11,15,11|12,11,11,7,7,13,9",QF,OLYMPICS,WS,2988,Main Draw,VARADY Barbora (SVK),SHAO Jieni (POR),VARADY Barbora
+European Olympic Qualification 2024,2024-05-15,HURSEY Anna,POTA Georgina,4,1,"11,9,11,11,11|9,11,8,7,4",SF,OLYMPICS,WS,2988,Main Draw,POTA Georgina (HUN),HURSEY Anna (WAL),HURSEY Anna
+European Olympic Qualification 2024,2024-05-15,EERLAND Britt,VARADY Barbora,4,2,"9,11,9,11,15,11|11,4,11,6,13,6",SF,OLYMPICS,WS,2988,Main Draw,EERLAND Britt (NED),VARADY Barbora (SVK),EERLAND Britt
+European Olympic Qualification 2024,2024-05-15,LUPULESKU Izabela,YILMAZ Ozge,4,1,"11,11,8,11,11|7,8,11,3,4",R32,OLYMPICS,WS,2988,Main Draw,YILMAZ Ozge (TUR),LUPULESKU Izabela (SRB),LUPULESKU Izabela
+European Olympic Qualification 2024,2024-05-15,PICCOLIN Giorgia,TOKIC Sara,4,0,"11,11,11,11|6,7,7,5",R32,OLYMPICS,WS,2988,Main Draw,TOKIC Sara (SLO),PICCOLIN Giorgia (ITA),PICCOLIN Giorgia
+European Olympic Qualification 2024,2024-05-15,YAREMCHUK Solomiya,MALOBABIC Ivana,4,1,"3,11,11,14,11|11,7,9,12,8",R32,OLYMPICS,WS,2988,Main Draw,YAREMCHUK Solomiya (UKR),MALOBABIC Ivana (CRO),YAREMCHUK Solomiya
+European Olympic Qualification 2024,2024-05-15,PESOTSKA Margaryta,MADARASZ Dora,4,1,"11,11,11,11,12|13,5,4,5,10",R32,OLYMPICS,WS,2988,Main Draw,PESOTSKA Margaryta (UKR),MADARASZ Dora (HUN),PESOTSKA Margaryta
+European Olympic Qualification 2024,2024-05-15,MATELOVA Hana,SURJAN Sabina,4,0,"15,11,11,11|13,2,7,6",R32,OLYMPICS,WS,2988,Main Draw,SURJAN Sabina (SRB),MATELOVA Hana (CZE),MATELOVA Hana
+European Olympic Qualification 2024,2024-05-15,VIVARELLI Debora,MISCHEK-COLUCCI Karoline,4,0,"11,11,11,11|0,0,0,0",R32,OLYMPICS,WS,2988,Main Draw,VIVARELLI Debora (ITA),MISCHEK-COLUCCI Karoline (AUT),VIVARELLI Debora
+European Olympic Qualification 2024,2024-05-15,POTA Georgina,LUPULESKU Izabela,4,1,"7,11,11,11,11|11,4,6,6,6",R16,OLYMPICS,WS,2988,Main Draw,POTA Georgina (HUN),LUPULESKU Izabela (SRB),POTA Georgina
+European Olympic Qualification 2024,2024-05-15,DE NUTTE Sarah,PICCOLIN Giorgia,4,3,"5,11,11,4,11,6,11|11,7,7,11,2,11,8",R16,OLYMPICS,WS,2988,Main Draw,PICCOLIN Giorgia (ITA),DE NUTTE Sarah (LUX),DE NUTTE Sarah
+European Olympic Qualification 2024,2024-05-15,KUKULKOVA Tatiana,MORET Rachel,4,2,"11,8,11,14,10,11|7,11,6,12,12,5",R16,OLYMPICS,WS,2988,Main Draw,KUKULKOVA Tatiana (SVK),MORET Rachel (SUI),KUKULKOVA Tatiana
+European Olympic Qualification 2024,2024-05-15,SHAO Jieni,YAREMCHUK Solomiya,4,1,"9,11,11,11,11|11,6,7,8,5",R16,OLYMPICS,WS,2988,Main Draw,YAREMCHUK Solomiya (UKR),SHAO Jieni (POR),SHAO Jieni
+European Olympic Qualification 2024,2024-05-15,ARAPOVIC Hana,ZHANG Sofia-Xuan,4,2,"8,11,11,11,10,11|11,5,7,5,12,6",R16,OLYMPICS,WS,2988,Main Draw,ARAPOVIC Hana (CRO),ZHANG Sofia-Xuan (ESP),ARAPOVIC Hana
+European Olympic Qualification 2024,2024-05-15,PESOTSKA Margaryta,HO Tin-Tin,4,0,"14,11,11,11|12,9,8,3",R16,OLYMPICS,WS,2988,Main Draw,PESOTSKA Margaryta (UKR),HO Tin-Tin (ENG),PESOTSKA Margaryta
+European Olympic Qualification 2024,2024-05-15,YU Fu,MATELOVA Hana,4,3,"14,11,9,8,11,7,11|12,8,11,11,8,11,6",R16,OLYMPICS,WS,2988,Main Draw,YU Fu (POR),MATELOVA Hana (CZE),YU Fu
+European Olympic Qualification 2024,2024-05-15,VIVARELLI Debora,VARADY Barbora,4,1,"8,12,11,11,11|11,10,7,4,9",R16,OLYMPICS,WS,2988,Main Draw,VIVARELLI Debora (ITA),VARADY Barbora (SVK),VIVARELLI Debora
+European Olympic Qualification 2024,2024-05-15,POTA Georgina,DE NUTTE Sarah,4,0,"12,12,11,11|10,10,2,7",QF,OLYMPICS,WS,2988,Main Draw,POTA Georgina (HUN),DE NUTTE Sarah (LUX),POTA Georgina
+European Olympic Qualification 2024,2024-05-15,SHAO Jieni,KUKULKOVA Tatiana,4,0,"11,12,11,11|4,10,5,2",QF,OLYMPICS,WS,2988,Main Draw,KUKULKOVA Tatiana (SVK),SHAO Jieni (POR),SHAO Jieni
+European Olympic Qualification 2024,2024-05-15,PESOTSKA Margaryta,ARAPOVIC Hana,4,0,"11,11,11,11|7,6,5,6",QF,OLYMPICS,WS,2988,Main Draw,ARAPOVIC Hana (CRO),PESOTSKA Margaryta (UKR),PESOTSKA Margaryta
+European Olympic Qualification 2024,2024-05-15,YU Fu,VIVARELLI Debora,4,0,"11,11,11,15|9,5,9,13",QF,OLYMPICS,WS,2988,Main Draw,YU Fu (POR),VIVARELLI Debora (ITA),YU Fu
+European Olympic Qualification 2024,2024-05-15,SHAO Jieni,POTA Georgina,4,1,"11,11,11,11,11|13,5,7,4,5",SF,OLYMPICS,WS,2988,Main Draw,POTA Georgina (HUN),SHAO Jieni (POR),SHAO Jieni
+European Olympic Qualification 2024,2024-05-15,YU Fu,PESOTSKA Margaryta,4,3,"13,11,11,13,9,9,12|15,7,8,11,11,11,10",SF,OLYMPICS,WS,2988,Main Draw,PESOTSKA Margaryta (UKR),YU Fu (POR),YU Fu
+European Olympic Qualification 2024,2024-05-15,PESOTSKA Margaryta,POTA Georgina,4,3,"12,11,11,7,5,5,11|10,8,9,11,11,11,5",3RD,OLYMPICS,WS,2988,Position Draw,POTA Georgina (HUN),PESOTSKA Margaryta (UKR),PESOTSKA Margaryta

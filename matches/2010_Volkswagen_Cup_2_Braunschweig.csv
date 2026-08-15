@@ -1,15 +1,15 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Volkswagen Cup 2 Braunschweig 2010,2010-11-30,BOLL Timo,GAO Ning,4,0,"11,11,11,11|5,4,2,7",QF,OTHER,MS,629,Main Draw,BOLL Timo (GER),GAO Ning (SGP)
-Volkswagen Cup 2 Braunschweig 2010,2010-11-30,MIZUTANI Jun,CHUANG Chih-Yuan,4,2,"6,6,12,11,11,11|11,11,10,8,4,6",QF,OTHER,MS,629,Main Draw,MIZUTANI Jun (JPN),CHUANG Chih-Yuan (TPE)
-Volkswagen Cup 2 Braunschweig 2010,2010-11-30,SAMSONOV Vladimir,JOO Saehyuk,4,2,"11,11,5,11,10,11|7,6,11,7,12,7",QF,OTHER,MS,629,Main Draw,SAMSONOV Vladimir (BLR),JOO Saehyuk (KOR)
-Volkswagen Cup 2 Braunschweig 2010,2010-11-30,MA Lin,TANG Peng,4,1,"11,11,11,9,11|9,3,9,11,3",QF,OTHER,MS,629,Main Draw,MA Lin (CHN),TANG Peng (HKG)
-Volkswagen Cup 2 Braunschweig 2010,2010-11-30,BOLL Timo,MIZUTANI Jun,4,0,"11,11,11,11|8,8,8,4",SF,OTHER,MS,629,Main Draw,BOLL Timo (GER),MIZUTANI Jun (JPN)
-Volkswagen Cup 2 Braunschweig 2010,2010-11-30,MA Lin,SAMSONOV Vladimir,4,0,"11,11,11,11|8,7,5,3",SF,OTHER,MS,629,Main Draw,MA Lin (CHN),SAMSONOV Vladimir (BLR)
-Volkswagen Cup 2 Braunschweig 2010,2010-11-30,BOLL Timo,MA Lin,4,1,"6,11,11,11,11|11,7,7,8,9",F,OTHER,MS,629,Main Draw,BOLL Timo (GER),MA Lin (CHN)
-Volkswagen Cup 2 Braunschweig 2010,2010-11-30,TOTH Krisztina,FENG Tianwei,4,3,"9,7,11,11,11,5,12|11,11,7,6,9,11,10",QF,OTHER,WS,629,Main Draw,TOTH Krisztina (HUN),FENG Tianwei (SGP)
-Volkswagen Cup 2 Braunschweig 2010,2010-11-30,LI Xiaoxia,FUKUHARA Ai,4,0,"11,13,11,11|5,11,4,3",QF,OTHER,WS,629,Main Draw,LI Xiaoxia (CHN),FUKUHARA Ai (JPN)
-Volkswagen Cup 2 Braunschweig 2010,2010-11-30,SHEN Yanfei,JIANG Huajun,4,3,"13,2,11,4,12,9,17|11,11,9,11,10,11,15",QF,OTHER,WS,629,Main Draw,SHEN Yanfei (ESP),JIANG Huajun (HKG)
-Volkswagen Cup 2 Braunschweig 2010,2010-11-30,KIM Kyungah,WU Jiaduo,4,0,"11,11,11,11|4,9,6,9",QF,OTHER,WS,629,Main Draw,KIM Kyungah (KOR),WU Jiaduo (GER)
-Volkswagen Cup 2 Braunschweig 2010,2010-11-30,LI Xiaoxia,TOTH Krisztina,4,0,"11,11,11,11|3,6,2,2",SF,OTHER,WS,629,Main Draw,LI Xiaoxia (CHN),TOTH Krisztina (HUN)
-Volkswagen Cup 2 Braunschweig 2010,2010-11-30,KIM Kyungah,SHEN Yanfei,4,0,"11,11,11,11|6,1,7,7",SF,OTHER,WS,629,Main Draw,KIM Kyungah (KOR),SHEN Yanfei (ESP)
-Volkswagen Cup 2 Braunschweig 2010,2010-11-30,LI Xiaoxia,KIM Kyungah,4,2,"11,11,6,10,11,11|7,5,11,12,6,4",F,OTHER,WS,629,Main Draw,LI Xiaoxia (CHN),KIM Kyungah (KOR)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Volkswagen Cup 2 Braunschweig 2010,2010-11-30,BOLL Timo,GAO Ning,4,0,"11,11,11,11|5,4,2,7",QF,OTHER,MS,629,Main Draw,BOLL Timo (GER),GAO Ning (SGP),BOLL Timo
+Volkswagen Cup 2 Braunschweig 2010,2010-11-30,MIZUTANI Jun,CHUANG Chih-Yuan,4,2,"6,6,12,11,11,11|11,11,10,8,4,6",QF,OTHER,MS,629,Main Draw,MIZUTANI Jun (JPN),CHUANG Chih-Yuan (TPE),MIZUTANI Jun
+Volkswagen Cup 2 Braunschweig 2010,2010-11-30,SAMSONOV Vladimir,JOO Saehyuk,4,2,"11,11,5,11,10,11|7,6,11,7,12,7",QF,OTHER,MS,629,Main Draw,SAMSONOV Vladimir (BLR),JOO Saehyuk (KOR),SAMSONOV Vladimir
+Volkswagen Cup 2 Braunschweig 2010,2010-11-30,MA Lin,TANG Peng,4,1,"11,11,11,9,11|9,3,9,11,3",QF,OTHER,MS,629,Main Draw,MA Lin (CHN),TANG Peng (HKG),MA Lin
+Volkswagen Cup 2 Braunschweig 2010,2010-11-30,BOLL Timo,MIZUTANI Jun,4,0,"11,11,11,11|8,8,8,4",SF,OTHER,MS,629,Main Draw,BOLL Timo (GER),MIZUTANI Jun (JPN),BOLL Timo
+Volkswagen Cup 2 Braunschweig 2010,2010-11-30,MA Lin,SAMSONOV Vladimir,4,0,"11,11,11,11|8,7,5,3",SF,OTHER,MS,629,Main Draw,MA Lin (CHN),SAMSONOV Vladimir (BLR),MA Lin
+Volkswagen Cup 2 Braunschweig 2010,2010-11-30,BOLL Timo,MA Lin,4,1,"6,11,11,11,11|11,7,7,8,9",F,OTHER,MS,629,Main Draw,BOLL Timo (GER),MA Lin (CHN),BOLL Timo
+Volkswagen Cup 2 Braunschweig 2010,2010-11-30,TOTH Krisztina,FENG Tianwei,4,3,"9,7,11,11,11,5,12|11,11,7,6,9,11,10",QF,OTHER,WS,629,Main Draw,TOTH Krisztina (HUN),FENG Tianwei (SGP),TOTH Krisztina
+Volkswagen Cup 2 Braunschweig 2010,2010-11-30,LI Xiaoxia,FUKUHARA Ai,4,0,"11,13,11,11|5,11,4,3",QF,OTHER,WS,629,Main Draw,LI Xiaoxia (CHN),FUKUHARA Ai (JPN),LI Xiaoxia
+Volkswagen Cup 2 Braunschweig 2010,2010-11-30,SHEN Yanfei,JIANG Huajun,4,3,"13,2,11,4,12,9,17|11,11,9,11,10,11,15",QF,OTHER,WS,629,Main Draw,SHEN Yanfei (ESP),JIANG Huajun (HKG),SHEN Yanfei
+Volkswagen Cup 2 Braunschweig 2010,2010-11-30,KIM Kyungah,WU Jiaduo,4,0,"11,11,11,11|4,9,6,9",QF,OTHER,WS,629,Main Draw,KIM Kyungah (KOR),WU Jiaduo (GER),KIM Kyungah
+Volkswagen Cup 2 Braunschweig 2010,2010-11-30,LI Xiaoxia,TOTH Krisztina,4,0,"11,11,11,11|3,6,2,2",SF,OTHER,WS,629,Main Draw,LI Xiaoxia (CHN),TOTH Krisztina (HUN),LI Xiaoxia
+Volkswagen Cup 2 Braunschweig 2010,2010-11-30,KIM Kyungah,SHEN Yanfei,4,0,"11,11,11,11|6,1,7,7",SF,OTHER,WS,629,Main Draw,KIM Kyungah (KOR),SHEN Yanfei (ESP),KIM Kyungah
+Volkswagen Cup 2 Braunschweig 2010,2010-11-30,LI Xiaoxia,KIM Kyungah,4,2,"11,11,6,10,11,11|7,5,11,12,6,4",F,OTHER,WS,629,Main Draw,LI Xiaoxia (CHN),KIM Kyungah (KOR),LI Xiaoxia

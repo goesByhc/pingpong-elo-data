@@ -1,391 +1,391 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WANG Hao,KLEPRLIK Michal,4,0,"11,11,11,11|6,5,5,8",R64,GRAND_SLAM,MS,785,Main Draw,WANG Hao (CHN),KLEPRLIK Michal (CZE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KEEN Trinko,RUBTSOV Igor,4,0,"12,11,11,11|10,7,2,5",R64,GRAND_SLAM,MS,785,Main Draw,KEEN Trinko (NED),RUBTSOV Igor (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KO Lai Chak,VOSTES Yannick,4,0,"11,11,11,11|7,7,5,9",R64,GRAND_SLAM,MS,785,Main Draw,KO Lai Chak (HKG),VOSTES Yannick (BEL)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SAIVE Jean-Michel,HAN Jimin,4,3,"9,10,11,11,11,11,11|11,12,6,8,7,13,8",R64,GRAND_SLAM,MS,785,Main Draw,SAIVE Jean-Michel (BEL),HAN Jimin (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,OVTCHAROV Dimitrij,TSUBOI Gustavo,4,0,"11,11,11,11|7,1,5,6",R64,GRAND_SLAM,MS,785,Main Draw,OVTCHAROV Dimitrij (GER),TSUBOI Gustavo (BRA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KIM Junghoon,MA Liang,4,1,"12,11,14,8,11|10,6,12,11,4",R64,GRAND_SLAM,MS,785,Main Draw,KIM Junghoon (KOR),MA Liang (SGP)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHO Eonrae,CAI Xiaoli,4,2,"11,13,7,11,12,12|8,15,11,5,10,10",R64,GRAND_SLAM,MS,785,Main Draw,CHO Eonrae (KOR),CAI Xiaoli (SGP)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SAMSONOV Vladimir,MENGE Gencay,4,0,"11,11,11,11|5,8,5,4",R64,GRAND_SLAM,MS,785,Main Draw,SAMSONOV Vladimir (BLR),MENGE Gencay (TUR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GAO Ning,JANCARIK Lubomir,4,0,"11,11,11,11|9,7,8,8",R64,GRAND_SLAM,MS,785,Main Draw,GAO Ning (SGP),JANCARIK Lubomir (CZE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ZHANG Jike,JIANG Tianyi,4,0,"11,11,11,11|5,5,8,5",R64,GRAND_SLAM,MS,785,Main Draw,ZHANG Jike (CHN),JIANG Tianyi (HKG)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHEN Weixing,LIVENTSOV Alexey,4,0,"11,11,11,11|8,7,8,7",R64,GRAND_SLAM,MS,785,Main Draw,CHEN Weixing (AUT),LIVENTSOV Alexey (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SMIRNOV Alexey,SEO Younggyun,4,2,"11,7,12,11,11,11|4,11,10,13,9,7",R64,GRAND_SLAM,MS,785,Main Draw,SMIRNOV Alexey (RUS),SEO Younggyun (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SCHLAGER Werner,ZENG Cem,4,3,"11,8,8,2,11,11,11|3,11,11,11,9,8,9",R64,GRAND_SLAM,MS,785,Main Draw,SCHLAGER Werner (AUT),ZENG Cem (TUR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MONTEIRO Thiago,WU Chih-Chi,4,1,"5,11,11,11,11|11,8,7,4,2",R64,GRAND_SLAM,MS,785,Main Draw,MONTEIRO Thiago (BRA),WU Chih-Chi (TPE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,YANG Zi,SKACHKOV Kirill,4,0,"11,11,11,11|6,2,8,8",R64,GRAND_SLAM,MS,785,Main Draw,YANG Zi (SGP),SKACHKOV Kirill (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MA Long,JABER Lutfi,4,0,"11,11,11,11|2,5,6,8",R64,GRAND_SLAM,MS,785,Main Draw,MA Long (CHN),JABER Lutfi (JOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WANG Liqin,ANDRIANOV Sergei,4,0,"11,11,11,13|4,3,5,11",R64,GRAND_SLAM,MS,785,Main Draw,WANG Liqin (CHN),ANDRIANOV Sergei (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LEGOUT Christophe,SALEH Ahmed,4,1,"11,11,10,11,12|4,8,12,6,10",R64,GRAND_SLAM,MS,785,Main Draw,LEGOUT Christophe (FRA),SALEH Ahmed (EGY)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LEE Jinkwon,KUZMIN Fedor,4,2,"13,11,10,11,5,14|11,5,12,7,11,12",R64,GRAND_SLAM,MS,785,Main Draw,LEE Jinkwon (KOR),KUZMIN Fedor (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MAZE Michael,NAGY Krisztian,4,1,"11,12,11,11,13|9,14,3,3,11",R64,GRAND_SLAM,MS,785,Main Draw,MAZE Michael (DEN),NAGY Krisztian (HUN)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LI Ching,FEGERL Stefan,4,0,"11,11,11,11|9,7,8,7",R64,GRAND_SLAM,MS,785,Main Draw,LI Ching (HKG),FEGERL Stefan (AUT)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,YOON Jaeyoung,HABESOHN Daniel,4,1,"8,11,11,11,11|11,9,6,4,5",R64,GRAND_SLAM,MS,785,Main Draw,YOON Jaeyoung (KOR),HABESOHN Daniel (AUT)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHOI Hyunjin,LUNDQVIST Jens,4,3,"6,11,5,11,6,11,12|11,7,11,9,11,7,10",R64,GRAND_SLAM,MS,785,Main Draw,CHOI Hyunjin (KOR),LUNDQVIST Jens (SWE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,RYU Seungmin,AL-ABBAD Abdulaziz,4,0,"11,11,11,11|7,6,7,4",R64,GRAND_SLAM,MS,785,Main Draw,RYU Seungmin (KOR),AL-ABBAD Abdulaziz (KSA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHEN Qi,PISTEJ Lubomir,4,0,"11,11,11,11|7,6,6,2",R64,GRAND_SLAM,MS,785,Main Draw,CHEN Qi (CHN),PISTEJ Lubomir (SVK)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LEE Jungsam,TANG Peng,4,1,"11,4,12,11,11|4,11,10,9,7",R64,GRAND_SLAM,MS,785,Main Draw,LEE Jungsam (KOR),TANG Peng (HKG)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LIU Zhongze,LIM Jaehyun,4,1,"13,11,7,11,13|11,6,11,8,11",R64,GRAND_SLAM,MS,785,Main Draw,LIU Zhongze (SGP),LIM Jaehyun (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHUANG Chih-Yuan,STETSENKO Alexander,4,0,"11,11,11,11|5,8,8,7",R64,GRAND_SLAM,MS,785,Main Draw,CHUANG Chih-Yuan (TPE),STETSENKO Alexander (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JOO Saehyuk,KATKOV Ivan,4,0,"11,11,12,11|8,9,10,7",R64,GRAND_SLAM,MS,785,Main Draw,JOO Saehyuk (KOR),KATKOV Ivan (UKR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LEE Jungwoo,LASHIN Elsayed,4,1,"11,8,11,11,11|6,11,2,4,8",R64,GRAND_SLAM,MS,785,Main Draw,LEE Jungwoo (KOR),LASHIN Elsayed (EGY)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,AL-HASAN Ibrahem,KONECNY Tomas,4,1,"11,12,8,11,11|9,10,11,8,9",R64,GRAND_SLAM,MS,785,Main Draw,AL-HASAN Ibrahem (KUW),KONECNY Tomas (CZE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MA Lin,JIANG Pengfei,4,0,"11,11,11,11|6,7,3,7",R64,GRAND_SLAM,MS,785,Main Draw,MA Lin (CHN),JIANG Pengfei (TUR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WANG Hao,KEEN Trinko,4,1,"11,11,6,11,15|8,6,11,6,13",R32,GRAND_SLAM,MS,785,Main Draw,WANG Hao (CHN),KEEN Trinko (NED)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KO Lai Chak,SAIVE Jean-Michel,4,0,"11,13,11,11|7,11,4,7",R32,GRAND_SLAM,MS,785,Main Draw,KO Lai Chak (HKG),SAIVE Jean-Michel (BEL)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KIM Junghoon,OVTCHAROV Dimitrij,4,3,"15,7,4,12,7,18,11|13,11,11,10,11,16,7",R32,GRAND_SLAM,MS,785,Main Draw,KIM Junghoon (KOR),OVTCHAROV Dimitrij (GER)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SAMSONOV Vladimir,CHO Eonrae,4,0,"11,11,11,11|2,9,5,5",R32,GRAND_SLAM,MS,785,Main Draw,SAMSONOV Vladimir (BLR),CHO Eonrae (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ZHANG Jike,GAO Ning,4,0,"11,11,11,11|8,5,6,7",R32,GRAND_SLAM,MS,785,Main Draw,ZHANG Jike (CHN),GAO Ning (SGP)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHEN Weixing,SMIRNOV Alexey,4,1,"2,11,11,11,11|11,5,2,3,7",R32,GRAND_SLAM,MS,785,Main Draw,CHEN Weixing (AUT),SMIRNOV Alexey (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SCHLAGER Werner,MONTEIRO Thiago,4,1,"11,11,9,18,11|7,8,11,16,7",R32,GRAND_SLAM,MS,785,Main Draw,SCHLAGER Werner (AUT),MONTEIRO Thiago (BRA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MA Long,YANG Zi,4,1,"11,11,11,8,11|6,5,5,11,6",R32,GRAND_SLAM,MS,785,Main Draw,MA Long (CHN),YANG Zi (SGP)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LEGOUT Christophe,WANG Liqin,4,3,"11,6,4,16,2,11,11|9,11,11,14,11,6,5",R32,GRAND_SLAM,MS,785,Main Draw,LEGOUT Christophe (FRA),WANG Liqin (CHN)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MAZE Michael,LEE Jinkwon,4,1,"9,11,11,11,12|11,3,9,9,10",R32,GRAND_SLAM,MS,785,Main Draw,MAZE Michael (DEN),LEE Jinkwon (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,YOON Jaeyoung,LI Ching,4,1,"5,11,11,11,11|11,6,8,3,8",R32,GRAND_SLAM,MS,785,Main Draw,YOON Jaeyoung (KOR),LI Ching (HKG)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,RYU Seungmin,CHOI Hyunjin,4,1,"11,11,11,9,11|4,8,6,11,6",R32,GRAND_SLAM,MS,785,Main Draw,RYU Seungmin (KOR),CHOI Hyunjin (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHEN Qi,LEE Jungsam,4,1,"11,11,9,11,11|9,4,11,4,8",R32,GRAND_SLAM,MS,785,Main Draw,CHEN Qi (CHN),LEE Jungsam (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHUANG Chih-Yuan,LIU Zhongze,4,1,"11,8,11,13,11|8,11,4,11,9",R32,GRAND_SLAM,MS,785,Main Draw,CHUANG Chih-Yuan (TPE),LIU Zhongze (SGP)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JOO Saehyuk,LEE Jungwoo,4,1,"11,16,9,11,11|5,14,11,5,4",R32,GRAND_SLAM,MS,785,Main Draw,JOO Saehyuk (KOR),LEE Jungwoo (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MA Lin,AL-HASAN Ibrahem,4,0,"11,11,11,11|1,5,6,1",R32,GRAND_SLAM,MS,785,Main Draw,MA Lin (CHN),AL-HASAN Ibrahem (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WANG Hao,KO Lai Chak,4,1,"11,11,8,11,11|8,5,11,6,5",R16,GRAND_SLAM,MS,785,Main Draw,WANG Hao (CHN),KO Lai Chak (HKG)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SAMSONOV Vladimir,KIM Junghoon,4,2,"9,5,14,11,11,11|11,11,12,4,6,6",R16,GRAND_SLAM,MS,785,Main Draw,SAMSONOV Vladimir (BLR),KIM Junghoon (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHEN Weixing,ZHANG Jike,4,3,"9,6,7,13,11,14,11|11,11,11,11,9,12,8",R16,GRAND_SLAM,MS,785,Main Draw,CHEN Weixing (AUT),ZHANG Jike (CHN)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MA Long,SCHLAGER Werner,4,2,"11,11,9,11,9,11|6,6,11,3,11,3",R16,GRAND_SLAM,MS,785,Main Draw,MA Long (CHN),SCHLAGER Werner (AUT)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MAZE Michael,LEGOUT Christophe,4,0,"11,11,11,12|9,4,9,10",R16,GRAND_SLAM,MS,785,Main Draw,MAZE Michael (DEN),LEGOUT Christophe (FRA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,YOON Jaeyoung,RYU Seungmin,4,3,"5,9,11,11,11,10,12|11,11,6,9,6,12,10",R16,GRAND_SLAM,MS,785,Main Draw,YOON Jaeyoung (KOR),RYU Seungmin (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHEN Qi,CHUANG Chih-Yuan,4,0,"11,11,11,11|6,5,7,4",R16,GRAND_SLAM,MS,785,Main Draw,CHEN Qi (CHN),CHUANG Chih-Yuan (TPE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JOO Saehyuk,MA Lin,4,3,"16,11,11,7,5,11,11|14,9,13,11,11,8,6",R16,GRAND_SLAM,MS,785,Main Draw,JOO Saehyuk (KOR),MA Lin (CHN)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SAMSONOV Vladimir,WANG Hao,4,1,"11,11,11,6,11|7,7,6,11,9",QF,GRAND_SLAM,MS,785,Main Draw,SAMSONOV Vladimir (BLR),WANG Hao (CHN)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MA Long,CHEN Weixing,4,0,"11,11,12,11|6,6,10,6",QF,GRAND_SLAM,MS,785,Main Draw,MA Long (CHN),CHEN Weixing (AUT)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,YOON Jaeyoung,MAZE Michael,4,3,"4,11,11,12,8,8,11|11,9,6,10,11,11,8",QF,GRAND_SLAM,MS,785,Main Draw,YOON Jaeyoung (KOR),MAZE Michael (DEN)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHEN Qi,JOO Saehyuk,4,2,"11,4,12,10,11,11|7,11,10,12,9,4",QF,GRAND_SLAM,MS,785,Main Draw,CHEN Qi (CHN),JOO Saehyuk (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SAMSONOV Vladimir,MA Long,4,3,"7,4,11,11,9,11,11|11,11,8,8,11,9,8",SF,GRAND_SLAM,MS,785,Main Draw,SAMSONOV Vladimir (BLR),MA Long (CHN)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHEN Qi,YOON Jaeyoung,4,3,"11,8,11,11,10,15,11|6,11,9,2,12,17,9",SF,GRAND_SLAM,MS,785,Main Draw,CHEN Qi (CHN),YOON Jaeyoung (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SAMSONOV Vladimir,CHEN Qi,4,0,"12,14,11,11|10,12,7,4",F,GRAND_SLAM,MS,785,Main Draw,SAMSONOV Vladimir (BLR),CHEN Qi (CHN)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LEE Jinkwon,FEGERL Stefan,4,2,"8,14,10,12,11,13|11,12,12,10,8,11",R16,GRAND_SLAM,U21MS,785,Main Draw,LEE Jinkwon (KOR),FEGERL Stefan (AUT)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KOU Lei,JIANG Pengfei,4,2,"11,11,8,8,11,11|4,8,11,11,7,6",R16,GRAND_SLAM,U21MS,785,Main Draw,KOU Lei (UKR),JIANG Pengfei (TUR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JANCARIK Lubomir,OMAR Rashid,4,0,"11,11,11,11|6,7,6,9",R16,GRAND_SLAM,U21MS,785,Main Draw,JANCARIK Lubomir (CZE),OMAR Rashid (UAE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MA Liang,PAIKOV Mikhail,4,3,"11,10,11,13,6,11,11|4,12,9,15,11,5,6",R16,GRAND_SLAM,U21MS,785,Main Draw,MA Liang (SGP),PAIKOV Mikhail (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LIU Zhongze,NAGY Krisztian,4,2,"8,8,11,11,11,11|11,11,8,7,1,5",R16,GRAND_SLAM,U21MS,785,Main Draw,LIU Zhongze (SGP),NAGY Krisztian (HUN)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,HAN Jimin,ALHAJJAI Waled Nasser,4,1,"11,11,7,11,11|4,5,11,8,4",R16,GRAND_SLAM,U21MS,785,Main Draw,HAN Jimin (KOR),ALHAJJAI Waled Nasser (QAT)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,FENG Xiaoquan,OBESLO Michal,4,1,"13,11,5,11,12|11,8,11,5,10",R16,GRAND_SLAM,U21MS,785,Main Draw,FENG Xiaoquan (AUT),OBESLO Michal (CZE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SKACHKOV Kirill,GUO Yi Teng,4,1,"11,9,11,11,11|9,11,6,8,8",R16,GRAND_SLAM,U21MS,785,Main Draw,SKACHKOV Kirill (RUS),GUO Yi Teng (SGP)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LEE Jinkwon,KOU Lei,4,2,"11,11,7,4,11,11|7,5,11,11,8,6",QF,GRAND_SLAM,U21MS,785,Main Draw,LEE Jinkwon (KOR),KOU Lei (UKR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JANCARIK Lubomir,MA Liang,4,1,"11,6,12,11,12|9,11,10,3,10",QF,GRAND_SLAM,U21MS,785,Main Draw,JANCARIK Lubomir (CZE),MA Liang (SGP)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LIU Zhongze,HAN Jimin,4,3,"11,7,7,11,13,8,11|7,11,11,7,11,11,7",QF,GRAND_SLAM,U21MS,785,Main Draw,LIU Zhongze (SGP),HAN Jimin (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,FENG Xiaoquan,SKACHKOV Kirill,4,2,"8,12,3,12,11,11|11,10,11,10,5,5",QF,GRAND_SLAM,U21MS,785,Main Draw,FENG Xiaoquan (AUT),SKACHKOV Kirill (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JANCARIK Lubomir,LEE Jinkwon,4,3,"7,6,11,11,11,7,11|11,11,7,7,8,11,9",SF,GRAND_SLAM,U21MS,785,Main Draw,JANCARIK Lubomir (CZE),LEE Jinkwon (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LIU Zhongze,FENG Xiaoquan,4,0,"11,11,11,11|2,5,4,4",SF,GRAND_SLAM,U21MS,785,Main Draw,LIU Zhongze (SGP),FENG Xiaoquan (AUT)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LIU Zhongze,JANCARIK Lubomir,4,1,"11,11,11,8,12|6,5,4,11,10",F,GRAND_SLAM,U21MS,785,Main Draw,LIU Zhongze (SGP),JANCARIK Lubomir (CZE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MONTEIRO Thiago,BUBA Ondrej,4,1,"10,14,11,11,11|12,12,6,4,2",,GRAND_SLAM,MS,785,Qualification,MONTEIRO Thiago (BRA),BUBA Ondrej (CZE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MONTEIRO Thiago,MENGE Gencay,4,0,"11,11,11,11|7,7,2,7",,GRAND_SLAM,MS,785,Qualification,MONTEIRO Thiago (BRA),MENGE Gencay (TUR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MENGE Gencay,BUBA Ondrej,4,1,"11,8,11,11,11|9,11,6,8,7",,GRAND_SLAM,MS,785,Qualification,MENGE Gencay (TUR),BUBA Ondrej (CZE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WU Chih-Chi,AL-HASAN Ali,4,0,"11,11,11,11|6,7,3,9",,GRAND_SLAM,MS,785,Qualification,WU Chih-Chi (TPE),AL-HASAN Ali (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WU Chih-Chi,OMAR Rashid,4,1,"11,5,11,11,11|3,11,4,4,6",,GRAND_SLAM,MS,785,Qualification,WU Chih-Chi (TPE),OMAR Rashid (UAE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,OMAR Rashid,AL-HASAN Ali,4,2,"9,9,11,11,11,11|11,11,3,5,8,5",,GRAND_SLAM,MS,785,Qualification,OMAR Rashid (UAE),AL-HASAN Ali (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LEE Jungsam,EL HABECH Mohamad,4,1,"7,11,11,11,11|11,5,5,6,7",,GRAND_SLAM,MS,785,Qualification,LEE Jungsam (KOR),EL HABECH Mohamad (LBN)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LEE Jungsam,OBESLO Michal,4,3,"8,12,5,6,12,11,11|11,10,11,11,10,6,4",,GRAND_SLAM,MS,785,Qualification,LEE Jungsam (KOR),OBESLO Michal (CZE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,OBESLO Michal,EL HABECH Mohamad,4,1,"11,19,11,9,11|5,17,9,11,6",,GRAND_SLAM,MS,785,Qualification,OBESLO Michal (CZE),EL HABECH Mohamad (LBN)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,RUBTSOV Igor,MOHED Osama,4,0,,,GRAND_SLAM,MS,785,Qualification,RUBTSOV Igor (RUS),MOHED Osama (SUD)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,RUBTSOV Igor,AL-HARBI Khaled,4,0,"11,11,11,11|6,1,9,0",,GRAND_SLAM,MS,785,Qualification,RUBTSOV Igor (RUS),AL-HARBI Khaled (KSA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,AL-HARBI Khaled,MOHED Osama,4,0,,,GRAND_SLAM,MS,785,Qualification,AL-HARBI Khaled (KSA),MOHED Osama (SUD)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHOI Hyunjin,EL BOUBOU Rachid,4,0,"11,11,11,11|7,2,8,4",,GRAND_SLAM,MS,785,Qualification,CHOI Hyunjin (KOR),EL BOUBOU Rachid (LBN)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHOI Hyunjin,KLEPRLIK Michal,4,0,"11,11,11,11|8,6,7,8",,GRAND_SLAM,MS,785,Qualification,CHOI Hyunjin (KOR),KLEPRLIK Michal (CZE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KLEPRLIK Michal,EL BOUBOU Rachid,4,1,"11,11,12,10,11|7,4,10,12,2",,GRAND_SLAM,MS,785,Qualification,KLEPRLIK Michal (CZE),EL BOUBOU Rachid (LBN)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PISTEJ Lubomir,AL-KANDRI Ali,4,0,"11,11,12,11|7,4,10,5",,GRAND_SLAM,MS,785,Qualification,PISTEJ Lubomir (SVK),AL-KANDRI Ali (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,NAGY Krisztian,PISTEJ Lubomir,4,3,"5,9,11,11,9,11,11|11,11,6,5,11,5,9",,GRAND_SLAM,MS,785,Qualification,NAGY Krisztian (HUN),PISTEJ Lubomir (SVK)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,NAGY Krisztian,AL-KANDRI Ali,4,1,"11,10,11,11,11|9,12,8,8,3",,GRAND_SLAM,MS,785,Qualification,NAGY Krisztian (HUN),AL-KANDRI Ali (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LEE Jinkwon,AL-MOHANNADI Ahmad Khalil,4,1,"11,11,11,8,11|8,8,3,11,8",,GRAND_SLAM,MS,785,Qualification,LEE Jinkwon (KOR),AL-MOHANNADI Ahmad Khalil (QAT)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LEE Jinkwon,AL-ABBAD Abdulaziz,4,0,"11,11,11,11|9,8,4,4",,GRAND_SLAM,MS,785,Qualification,LEE Jinkwon (KOR),AL-ABBAD Abdulaziz (KSA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,AL-ABBAD Abdulaziz,AL-MOHANNADI Ahmad Khalil,4,1,"11,11,8,11,11|8,7,11,7,4",,GRAND_SLAM,MS,785,Qualification,AL-ABBAD Abdulaziz (KSA),AL-MOHANNADI Ahmad Khalil (QAT)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SALEH Ahmed,ALHAJJAI Waled Nasser,4,1,"11,11,12,11,11|5,6,14,6,3",,GRAND_SLAM,MS,785,Qualification,SALEH Ahmed (EGY),ALHAJJAI Waled Nasser (QAT)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SALEH Ahmed,STETSENKO Alexander,4,3,"8,4,11,11,9,11,11|11,11,8,8,11,6,5",,GRAND_SLAM,MS,785,Qualification,SALEH Ahmed (EGY),STETSENKO Alexander (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,STETSENKO Alexander,ALHAJJAI Waled Nasser,4,1,"11,11,7,11,11|9,6,11,5,5",,GRAND_SLAM,MS,785,Qualification,STETSENKO Alexander (RUS),ALHAJJAI Waled Nasser (QAT)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SKACHKOV Kirill,ALEM Mansor,4,0,"18,11,11,11|16,9,3,9",,GRAND_SLAM,MS,785,Qualification,SKACHKOV Kirill (RUS),ALEM Mansor (KSA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SKACHKOV Kirill,JIANG Pengfei,4,1,"9,11,11,11,11|11,8,9,6,3",,GRAND_SLAM,MS,785,Qualification,SKACHKOV Kirill (RUS),JIANG Pengfei (TUR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JIANG Pengfei,ALEM Mansor,4,0,"11,11,11,11|6,6,9,7",,GRAND_SLAM,MS,785,Qualification,JIANG Pengfei (TUR),ALEM Mansor (KSA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LIVENTSOV Alexey,HASSAN Rashed,4,0,"11,11,11,12|8,6,8,10",,GRAND_SLAM,MS,785,Qualification,LIVENTSOV Alexey (RUS),HASSAN Rashed (UAE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LIVENTSOV Alexey,FEGERL Stefan,4,2,"4,9,11,11,11,11|11,11,4,5,9,8",,GRAND_SLAM,MS,785,Qualification,LIVENTSOV Alexey (RUS),FEGERL Stefan (AUT)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,FEGERL Stefan,HASSAN Rashed,4,0,"11,12,11,11|4,10,8,7",,GRAND_SLAM,MS,785,Qualification,FEGERL Stefan (AUT),HASSAN Rashed (UAE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LASHIN Elsayed,AL-ENEZY Mansour,4,1,"11,7,11,11,11|9,11,6,9,9",,GRAND_SLAM,MS,785,Qualification,LASHIN Elsayed (EGY),AL-ENEZY Mansour (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LASHIN Elsayed,BUROV Viacheslav,4,3,"11,7,11,13,11,10,14|1,11,13,11,7,12,12",,GRAND_SLAM,MS,785,Qualification,LASHIN Elsayed (EGY),BUROV Viacheslav (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,BUROV Viacheslav,AL-ENEZY Mansour,4,1,"14,11,8,11,11|12,4,11,6,3",,GRAND_SLAM,MS,785,Qualification,BUROV Viacheslav (RUS),AL-ENEZY Mansour (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ANDRIANOV Sergei,EL-JETIL Ahmed Lotfi,4,0,,,GRAND_SLAM,MS,785,Qualification,ANDRIANOV Sergei (RUS),EL-JETIL Ahmed Lotfi (LBA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SEO Younggyun,ALDMAISY Odai,4,0,"11,11,11,11|6,6,4,4",,GRAND_SLAM,MS,785,Qualification,SEO Younggyun (KOR),ALDMAISY Odai (JOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SEO Younggyun,ANDRIANOV Sergei,4,3,"11,6,6,8,11,11,11|8,11,11,11,5,8,6",,GRAND_SLAM,MS,785,Qualification,SEO Younggyun (KOR),ANDRIANOV Sergei (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ALDMAISY Odai,EL-JETIL Ahmed Lotfi,4,0,,,GRAND_SLAM,MS,785,Qualification,ALDMAISY Odai (JOR),EL-JETIL Ahmed Lotfi (LBA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ANDRIANOV Sergei,ALDMAISY Odai,4,0,"11,11,11,11|3,6,3,2",,GRAND_SLAM,MS,785,Qualification,ANDRIANOV Sergei (RUS),ALDMAISY Odai (JOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SEO Younggyun,EL-JETIL Ahmed Lotfi,4,0,,,GRAND_SLAM,MS,785,Qualification,SEO Younggyun (KOR),EL-JETIL Ahmed Lotfi (LBA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CAI Xiaoli,BAKEER Yazan,4,0,"11,11,11,11|4,4,5,2",,GRAND_SLAM,MS,785,Qualification,CAI Xiaoli (SGP),BAKEER Yazan (JOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,TAVUKCUOGLU Irfan,ISMAIL Hamid,4,0,,,GRAND_SLAM,MS,785,Qualification,TAVUKCUOGLU Irfan (TUR),ISMAIL Hamid (UAE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CAI Xiaoli,TAVUKCUOGLU Irfan,4,1,"11,11,11,9,11|3,4,4,11,7",,GRAND_SLAM,MS,785,Qualification,CAI Xiaoli (SGP),TAVUKCUOGLU Irfan (TUR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,BAKEER Yazan,ISMAIL Hamid,4,0,,,GRAND_SLAM,MS,785,Qualification,BAKEER Yazan (JOR),ISMAIL Hamid (UAE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CAI Xiaoli,ISMAIL Hamid,4,0,,,GRAND_SLAM,MS,785,Qualification,CAI Xiaoli (SGP),ISMAIL Hamid (UAE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,TAVUKCUOGLU Irfan,BAKEER Yazan,4,0,"11,11,11,11|2,7,6,3",,GRAND_SLAM,MS,785,Qualification,TAVUKCUOGLU Irfan (TUR),BAKEER Yazan (JOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,HABESOHN Daniel,ELHEBSHI Mohamed,4,0,,,GRAND_SLAM,MS,785,Qualification,HABESOHN Daniel (AUT),ELHEBSHI Mohamed (LBA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GUO Yi Teng,AL-SANADI Salah,4,1,"11,11,9,11,11|3,8,11,8,3",,GRAND_SLAM,MS,785,Qualification,GUO Yi Teng (SGP),AL-SANADI Salah (QAT)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,HABESOHN Daniel,GUO Yi Teng,4,1,"11,15,6,11,12|5,13,11,8,10",,GRAND_SLAM,MS,785,Qualification,HABESOHN Daniel (AUT),GUO Yi Teng (SGP)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,AL-SANADI Salah,ELHEBSHI Mohamed,4,0,,,GRAND_SLAM,MS,785,Qualification,AL-SANADI Salah (QAT),ELHEBSHI Mohamed (LBA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,HABESOHN Daniel,AL-SANADI Salah,4,0,"11,11,11,11|7,4,3,4",,GRAND_SLAM,MS,785,Qualification,HABESOHN Daniel (AUT),AL-SANADI Salah (QAT)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GUO Yi Teng,ELHEBSHI Mohamed,4,0,,,GRAND_SLAM,MS,785,Qualification,GUO Yi Teng (SGP),ELHEBSHI Mohamed (LBA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MA Liang,LINJAWI Jassem,4,0,"11,11,11,11|5,2,8,1",,GRAND_SLAM,MS,785,Qualification,MA Liang (SGP),LINJAWI Jassem (UAE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PAIKOV Mikhail,ABO YAMAN Zaid,4,1,"11,11,11,9,11|7,4,2,11,9",,GRAND_SLAM,MS,785,Qualification,PAIKOV Mikhail (RUS),ABO YAMAN Zaid (JOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LINJAWI Jassem,ABO YAMAN Zaid,4,2,"11,11,5,11,8,11|3,6,11,9,11,9",,GRAND_SLAM,MS,785,Qualification,LINJAWI Jassem (UAE),ABO YAMAN Zaid (JOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MA Liang,ABO YAMAN Zaid,4,0,"11,11,11,11|4,3,3,4",,GRAND_SLAM,MS,785,Qualification,MA Liang (SGP),ABO YAMAN Zaid (JOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PAIKOV Mikhail,LINJAWI Jassem,4,0,"11,11,11,11|7,7,5,3",,GRAND_SLAM,MS,785,Qualification,PAIKOV Mikhail (RUS),LINJAWI Jassem (UAE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ZHANG Jike,ZENG Cem,4,1,"11,11,8,11,11|8,4,11,6,6",,GRAND_SLAM,MS,785,Qualification,ZHANG Jike (CHN),ZENG Cem (TUR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,FENG Xiaoquan,EL-ARBI Mohamed Musbah,4,0,,,GRAND_SLAM,MS,785,Qualification,FENG Xiaoquan (AUT),EL-ARBI Mohamed Musbah (LBA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ZENG Cem,FENG Xiaoquan,4,3,"11,10,9,11,8,11,12|5,12,11,7,11,8,10",,GRAND_SLAM,MS,785,Qualification,ZENG Cem (TUR),FENG Xiaoquan (AUT)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ZHANG Jike,EL-ARBI Mohamed Musbah,4,0,,,GRAND_SLAM,MS,785,Qualification,ZHANG Jike (CHN),EL-ARBI Mohamed Musbah (LBA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ZENG Cem,EL-ARBI Mohamed Musbah,4,0,,,GRAND_SLAM,MS,785,Qualification,ZENG Cem (TUR),EL-ARBI Mohamed Musbah (LBA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ZHANG Jike,FENG Xiaoquan,4,1,"11,11,11,7,11|3,9,9,11,8",,GRAND_SLAM,MS,785,Qualification,ZHANG Jike (CHN),FENG Xiaoquan (AUT)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,TSUBOI Gustavo,LARIFI Hisham,4,0,,,GRAND_SLAM,MS,785,Qualification,TSUBOI Gustavo (BRA),LARIFI Hisham (LBA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,HAN Jimin,PLEVA Radek,4,0,"11,11,11,11|5,4,8,4",,GRAND_SLAM,MS,785,Qualification,HAN Jimin (KOR),PLEVA Radek (CZE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,HAN Jimin,TSUBOI Gustavo,4,0,"11,11,12,11|6,8,10,5",,GRAND_SLAM,MS,785,Qualification,HAN Jimin (KOR),TSUBOI Gustavo (BRA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PLEVA Radek,LARIFI Hisham,4,0,,,GRAND_SLAM,MS,785,Qualification,PLEVA Radek (CZE),LARIFI Hisham (LBA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,TSUBOI Gustavo,PLEVA Radek,4,0,"11,11,11,11|7,6,6,9",,GRAND_SLAM,MS,785,Qualification,TSUBOI Gustavo (BRA),PLEVA Radek (CZE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,HAN Jimin,LARIFI Hisham,4,0,,,GRAND_SLAM,MS,785,Qualification,HAN Jimin (KOR),LARIFI Hisham (LBA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LIU Zhongze,AL-JADAI Naif,4,0,"11,11,11,11|4,9,5,4",,GRAND_SLAM,MS,785,Qualification,LIU Zhongze (SGP),AL-JADAI Naif (KSA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JANCARIK Lubomir,ASHOOR Mohammed,4,1,"10,11,11,11,11|12,4,8,7,7",,GRAND_SLAM,MS,785,Qualification,JANCARIK Lubomir (CZE),ASHOOR Mohammed (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,AL-JADAI Naif,ASHOOR Mohammed,4,2,"11,6,11,11,9,11|5,11,9,7,11,2",,GRAND_SLAM,MS,785,Qualification,AL-JADAI Naif (KSA),ASHOOR Mohammed (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LIU Zhongze,ASHOOR Mohammed,4,0,"11,11,11,11|4,3,6,5",,GRAND_SLAM,MS,785,Qualification,LIU Zhongze (SGP),ASHOOR Mohammed (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JANCARIK Lubomir,AL-JADAI Naif,4,0,"11,11,12,11|5,6,10,2",,GRAND_SLAM,MS,785,Qualification,JANCARIK Lubomir (CZE),AL-JADAI Naif (KSA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KONECNY Tomas,ABUSHUWASHI Adir,4,0,,,GRAND_SLAM,MS,785,Qualification,KONECNY Tomas (CZE),ABUSHUWASHI Adir (LBA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KATKOV Ivan,AL-HASAN Salem,4,0,"11,12,11,11|9,10,5,9",,GRAND_SLAM,MS,785,Qualification,KATKOV Ivan (UKR),AL-HASAN Salem (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KONECNY Tomas,KATKOV Ivan,4,3,"11,6,3,11,7,11,11|7,11,11,8,11,8,7",,GRAND_SLAM,MS,785,Qualification,KONECNY Tomas (CZE),KATKOV Ivan (UKR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,AL-HASAN Salem,ABUSHUWASHI Adir,4,0,,,GRAND_SLAM,MS,785,Qualification,AL-HASAN Salem (KUW),ABUSHUWASHI Adir (LBA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KONECNY Tomas,AL-HASAN Salem,4,0,"11,11,11,13|7,7,4,11",,GRAND_SLAM,MS,785,Qualification,KONECNY Tomas (CZE),AL-HASAN Salem (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KATKOV Ivan,ABUSHUWASHI Adir,4,0,,,GRAND_SLAM,MS,785,Qualification,KATKOV Ivan (UKR),ABUSHUWASHI Adir (LBA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JABER Lutfi,KOU Lei,4,0,,,GRAND_SLAM,MS,785,Qualification,JABER Lutfi (JOR),KOU Lei (UKR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,VOSTES Yannick,EL-TAHIR Abdel-Wahab,4,0,,,GRAND_SLAM,MS,785,Qualification,VOSTES Yannick (BEL),EL-TAHIR Abdel-Wahab (SUD)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,VOSTES Yannick,KOU Lei,4,2,"11,11,7,9,12,11|4,6,11,11,10,6",,GRAND_SLAM,MS,785,Qualification,VOSTES Yannick (BEL),KOU Lei (UKR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JABER Lutfi,EL-TAHIR Abdel-Wahab,4,0,,,GRAND_SLAM,MS,785,Qualification,JABER Lutfi (JOR),EL-TAHIR Abdel-Wahab (SUD)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KOU Lei,EL-TAHIR Abdel-Wahab,4,0,,,GRAND_SLAM,MS,785,Qualification,KOU Lei (UKR),EL-TAHIR Abdel-Wahab (SUD)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,VOSTES Yannick,JABER Lutfi,4,0,"11,11,11,11|4,4,3,6",,GRAND_SLAM,MS,785,Qualification,VOSTES Yannick (BEL),JABER Lutfi (JOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MENGE Gencay,JABER Lutfi,4,1,"11,11,8,11,11|5,6,11,8,6",QR32,GRAND_SLAM,MS,785,Qualification,MENGE Gencay (TUR),JABER Lutfi (JOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KATKOV Ivan,OBESLO Michal,4,3,"13,11,3,11,8,12,11|11,8,11,13,11,10,6",QR32,GRAND_SLAM,MS,785,Qualification,KATKOV Ivan (UKR),OBESLO Michal (CZE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,TSUBOI Gustavo,AL-HARBI Khaled,4,0,"11,11,11,11|9,8,4,9",QR32,GRAND_SLAM,MS,785,Qualification,TSUBOI Gustavo (BRA),AL-HARBI Khaled (KSA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ZENG Cem,KLEPRLIK Michal,4,1,"11,11,14,7,11|9,4,12,11,7",QR32,GRAND_SLAM,MS,785,Qualification,ZENG Cem (TUR),KLEPRLIK Michal (CZE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PISTEJ Lubomir,PAIKOV Mikhail,4,2,"15,11,11,11,8,11|13,9,9,13,11,8",QR32,GRAND_SLAM,MS,785,Qualification,PISTEJ Lubomir (SVK),PAIKOV Mikhail (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,AL-ABBAD Abdulaziz,GUO Yi Teng,4,1,"11,11,8,12,11|9,8,11,10,6",QR32,GRAND_SLAM,MS,785,Qualification,AL-ABBAD Abdulaziz (KSA),GUO Yi Teng (SGP)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,STETSENKO Alexander,TAVUKCUOGLU Irfan,4,0,"11,11,11,11|6,8,6,2",QR32,GRAND_SLAM,MS,785,Qualification,STETSENKO Alexander (RUS),TAVUKCUOGLU Irfan (TUR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ANDRIANOV Sergei,JIANG Pengfei,4,1,"11,12,4,11,11|8,10,11,7,4",QR32,GRAND_SLAM,MS,785,Qualification,ANDRIANOV Sergei (RUS),JIANG Pengfei (TUR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,FEGERL Stefan,BUROV Viacheslav,4,3,"11,11,8,8,11,7,11|4,8,11,11,9,11,6",QR32,GRAND_SLAM,MS,785,Qualification,FEGERL Stefan (AUT),BUROV Viacheslav (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,AL-SANADI Salah,TARABOLSY Ahmed,3,2,"7,13,11,19,11|11,15,8,17,4",,GRAND_SLAM,U21MS,785,Qualification,AL-SANADI Salah (QAT),TARABOLSY Ahmed (SYR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GUO Yi Teng,TARABOLSY Ahmed,3,0,"11,11,11|7,4,4",,GRAND_SLAM,U21MS,785,Qualification,GUO Yi Teng (SGP),TARABOLSY Ahmed (SYR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LINJAWI Jassem,BAKEER Yazan,3,1,"11,11,9,11|2,6,11,9",,GRAND_SLAM,U21MS,785,Qualification,LINJAWI Jassem (UAE),BAKEER Yazan (JOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PAIKOV Mikhail,BAKEER Yazan,3,0,"11,11,11|7,7,5",,GRAND_SLAM,U21MS,785,Qualification,PAIKOV Mikhail (RUS),BAKEER Yazan (JOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MOSSLLY Yhya,ASHOOR Mohammed,3,2,"11,11,6,6,11|3,5,11,11,6",,GRAND_SLAM,U21MS,785,Qualification,MOSSLLY Yhya (SYR),ASHOOR Mohammed (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,FEGERL Stefan,MOSSLLY Yhya,3,0,"11,11,11|6,4,5",,GRAND_SLAM,U21MS,785,Qualification,FEGERL Stefan (AUT),MOSSLLY Yhya (SYR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,FEGERL Stefan,ASHOOR Mohammed,3,0,"11,11,11|1,6,5",,GRAND_SLAM,U21MS,785,Qualification,FEGERL Stefan (AUT),ASHOOR Mohammed (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,HASSAN Rashed,JABER Lutfi,3,1,"8,11,11,11|11,5,6,7",,GRAND_SLAM,U21MS,785,Qualification,HASSAN Rashed (UAE),JABER Lutfi (JOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JIANG Pengfei,JABER Lutfi,3,0,"11,11,11|8,4,9",,GRAND_SLAM,U21MS,785,Qualification,JIANG Pengfei (TUR),JABER Lutfi (JOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JIANG Pengfei,HASSAN Rashed,3,0,"11,12,11|7,10,1",,GRAND_SLAM,U21MS,785,Qualification,JIANG Pengfei (TUR),HASSAN Rashed (UAE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,NAGY Krisztian,AHMED Salem,3,0,"11,11,11|5,0,5",,GRAND_SLAM,U21MS,785,Qualification,NAGY Krisztian (HUN),AHMED Salem (IRQ)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,AL-HASAN Salem,BUBA Ondrej,3,2,"12,7,4,11,11|10,11,11,7,7",,GRAND_SLAM,U21MS,785,Qualification,AL-HASAN Salem (KUW),BUBA Ondrej (CZE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,NAGY Krisztian,AL-HASAN Salem,3,0,"11,11,11|6,7,7",,GRAND_SLAM,U21MS,785,Qualification,NAGY Krisztian (HUN),AL-HASAN Salem (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,BUBA Ondrej,AHMED Salem,3,0,"11,11,11|5,5,6",,GRAND_SLAM,U21MS,785,Qualification,BUBA Ondrej (CZE),AHMED Salem (IRQ)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,NAGY Krisztian,BUBA Ondrej,3,1,"8,11,11,11|11,6,7,8",,GRAND_SLAM,U21MS,785,Qualification,NAGY Krisztian (HUN),BUBA Ondrej (CZE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,AL-HASAN Salem,AHMED Salem,3,0,"11,11,13|4,9,11",,GRAND_SLAM,U21MS,785,Qualification,AL-HASAN Salem (KUW),AHMED Salem (IRQ)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ALHAJJAI Waled Nasser,ALDMAISY Odai,3,0,"11,11,11|6,7,9",,GRAND_SLAM,U21MS,785,Qualification,ALHAJJAI Waled Nasser (QAT),ALDMAISY Odai (JOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ALHAJJAI Waled Nasser,ISMAIL Hamid,4,0,,,GRAND_SLAM,U21MS,785,Qualification,ALHAJJAI Waled Nasser (QAT),ISMAIL Hamid (UAE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ALDMAISY Odai,ISMAIL Hamid,4,0,,,GRAND_SLAM,U21MS,785,Qualification,ALDMAISY Odai (JOR),ISMAIL Hamid (UAE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,OBESLO Michal,ABUSHUWASHI Adir,4,0,,,GRAND_SLAM,U21MS,785,Qualification,OBESLO Michal (CZE),ABUSHUWASHI Adir (LBA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,AL-MOHANNADI Ahmad Khalil,ABO YAMAN Zaid,3,1,"11,11,9,13|7,4,11,11",,GRAND_SLAM,U21MS,785,Qualification,AL-MOHANNADI Ahmad Khalil (QAT),ABO YAMAN Zaid (JOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,OBESLO Michal,ABO YAMAN Zaid,3,0,"11,11,11|5,5,6",,GRAND_SLAM,U21MS,785,Qualification,OBESLO Michal (CZE),ABO YAMAN Zaid (JOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,AL-MOHANNADI Ahmad Khalil,ABUSHUWASHI Adir,4,0,,,GRAND_SLAM,U21MS,785,Qualification,AL-MOHANNADI Ahmad Khalil (QAT),ABUSHUWASHI Adir (LBA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,OBESLO Michal,AL-MOHANNADI Ahmad Khalil,3,0,"11,11,11|6,5,6",,GRAND_SLAM,U21MS,785,Qualification,OBESLO Michal (CZE),AL-MOHANNADI Ahmad Khalil (QAT)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ABO YAMAN Zaid,ABUSHUWASHI Adir,4,0,,,GRAND_SLAM,U21MS,785,Qualification,ABO YAMAN Zaid (JOR),ABUSHUWASHI Adir (LBA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,OMAR Rashid,ELHEBSHI Mohamed,4,0,,,GRAND_SLAM,U21MS,785,Qualification,OMAR Rashid (UAE),ELHEBSHI Mohamed (LBA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MENGE Gencay,PLEVA Radek,3,0,"11,11,11|7,9,7",,GRAND_SLAM,U21MS,785,Qualification,MENGE Gencay (TUR),PLEVA Radek (CZE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,OMAR Rashid,PLEVA Radek,3,1,"7,11,11,11|11,2,6,7",,GRAND_SLAM,U21MS,785,Qualification,OMAR Rashid (UAE),PLEVA Radek (CZE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MENGE Gencay,ELHEBSHI Mohamed,4,0,,,GRAND_SLAM,U21MS,785,Qualification,MENGE Gencay (TUR),ELHEBSHI Mohamed (LBA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,OMAR Rashid,MENGE Gencay,3,0,"11,11,11|7,7,7",,GRAND_SLAM,U21MS,785,Qualification,OMAR Rashid (UAE),MENGE Gencay (TUR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PLEVA Radek,ELHEBSHI Mohamed,4,0,,,GRAND_SLAM,U21MS,785,Qualification,PLEVA Radek (CZE),ELHEBSHI Mohamed (LBA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ZHANG Yining,GANINA Svetlana,4,1,"11,11,9,11,11|5,7,11,6,6",R32,GRAND_SLAM,WS,785,Main Draw,ZHANG Yining (CHN),GANINA Svetlana (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LIN Ling,KIM Junghyun,4,1,"11,11,11,12,11|7,2,6,14,8",R32,GRAND_SLAM,WS,785,Main Draw,LIN Ling (HKG),KIM Junghyun (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PARK Miyoung,BOROS Tamara,4,0,"11,11,12,11|8,8,10,5",R32,GRAND_SLAM,WS,785,Main Draw,PARK Miyoung (KOR),BOROS Tamara (CRO)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GUO Yan (1982),ZHANG Rui,4,0,"11,11,11,13|6,7,6,11",R32,GRAND_SLAM,WS,785,Main Draw,GUO Yan (1982) (CHN),ZHANG Rui (HKG)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LI Jiawei,DOLGIKH Maria,4,0,"11,11,12,11|3,4,10,5",R32,GRAND_SLAM,WS,785,Main Draw,LI Jiawei (SGP),DOLGIKH Maria (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LIU Shiwen,DANG Yeseo,4,1,"11,11,11,8,11|5,9,8,11,4",R32,GRAND_SLAM,WS,785,Main Draw,LIU Shiwen (CHN),DANG Yeseo (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LIU Jia,PAVLOVICH Veronika,4,0,"12,11,11,11|10,7,7,6",R32,GRAND_SLAM,WS,785,Main Draw,LIU Jia (AUT),PAVLOVICH Veronika (BLR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WANG Nan,LEE Eunhee,4,0,"11,11,11,11|5,4,4,7",R32,GRAND_SLAM,WS,785,Main Draw,WANG Nan (CHN),LEE Eunhee (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GUO Yue,PAVLOVICH Viktoria,4,0,"11,11,11,13|3,7,8,11",R32,GRAND_SLAM,WS,785,Main Draw,GUO Yue (CHN),PAVLOVICH Viktoria (BLR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WANG Chen,KIM Kyungah,4,3,"11,8,11,11,7,4,11|8,11,9,8,11,11,8",R32,GRAND_SLAM,WS,785,Main Draw,WANG Chen (USA),KIM Kyungah (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WU Jiaduo,KWAK Bangbang,4,0,"11,11,11,11|8,9,8,7",R32,GRAND_SLAM,WS,785,Main Draw,WU Jiaduo (GER),KWAK Bangbang (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WANG Yuegu,SAMARA Elizabeta,4,1,"10,11,11,12,11|12,9,6,10,9",R32,GRAND_SLAM,WS,785,Main Draw,WANG Yuegu (SGP),SAMARA Elizabeta (ROU)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,FENG Tianwei,JIANG Huajun,4,0,"14,11,11,11|12,9,9,7",R32,GRAND_SLAM,WS,785,Main Draw,FENG Tianwei (SGP),JIANG Huajun (HKG)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,YU Mengyu,TIE Yana,4,1,"11,11,11,11,11|7,8,4,13,4",R32,GRAND_SLAM,WS,785,Main Draw,YU Mengyu (SGP),TIE Yana (HKG)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SUN Beibei,YU Kwok See,4,0,"11,11,11,11|6,7,3,6",R32,GRAND_SLAM,WS,785,Main Draw,SUN Beibei (SGP),YU Kwok See (HKG)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LI Xiaoxia,PROKHOROVA Yulia,4,0,"11,11,11,11|4,5,3,3",R32,GRAND_SLAM,WS,785,Main Draw,LI Xiaoxia (CHN),PROKHOROVA Yulia (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ZHANG Yining,LIN Ling,4,0,"11,11,11,11|6,1,7,4",R16,GRAND_SLAM,WS,785,Main Draw,ZHANG Yining (CHN),LIN Ling (HKG)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GUO Yan (1982),PARK Miyoung,4,1,"7,11,12,11,11|11,8,10,8,7",R16,GRAND_SLAM,WS,785,Main Draw,GUO Yan (1982) (CHN),PARK Miyoung (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LIU Shiwen,LI Jiawei,4,1,"11,6,11,13,11|6,11,7,11,4",R16,GRAND_SLAM,WS,785,Main Draw,LIU Shiwen (CHN),LI Jiawei (SGP)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WANG Nan,LIU Jia,4,0,"11,11,11,12|5,3,9,10",R16,GRAND_SLAM,WS,785,Main Draw,WANG Nan (CHN),LIU Jia (AUT)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GUO Yue,WANG Chen,4,2,"11,9,11,11,10,11|9,11,7,9,12,7",R16,GRAND_SLAM,WS,785,Main Draw,GUO Yue (CHN),WANG Chen (USA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WANG Yuegu,WU Jiaduo,4,3,"10,7,11,7,11,12,11|12,11,5,11,6,10,9",R16,GRAND_SLAM,WS,785,Main Draw,WANG Yuegu (SGP),WU Jiaduo (GER)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,FENG Tianwei,YU Mengyu,4,0,"11,12,12,11|5,10,10,9",R16,GRAND_SLAM,WS,785,Main Draw,FENG Tianwei (SGP),YU Mengyu (SGP)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LI Xiaoxia,SUN Beibei,4,1,"8,11,11,11,11|11,5,9,9,4",R16,GRAND_SLAM,WS,785,Main Draw,LI Xiaoxia (CHN),SUN Beibei (SGP)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ZHANG Yining,GUO Yan (1982),4,0,"11,11,11,11|8,7,9,5",QF,GRAND_SLAM,WS,785,Main Draw,ZHANG Yining (CHN),GUO Yan (1982) (CHN)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WANG Nan,LIU Shiwen,4,0,"12,11,11,11|10,8,6,9",QF,GRAND_SLAM,WS,785,Main Draw,WANG Nan (CHN),LIU Shiwen (CHN)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GUO Yue,WANG Yuegu,4,0,,QF,GRAND_SLAM,WS,785,Main Draw,GUO Yue (CHN),WANG Yuegu (SGP)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LI Xiaoxia,FENG Tianwei,4,0,"16,11,11,11|14,7,8,5",QF,GRAND_SLAM,WS,785,Main Draw,LI Xiaoxia (CHN),FENG Tianwei (SGP)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ZHANG Yining,WANG Nan,4,0,"11,11,11,11|9,2,7,1",SF,GRAND_SLAM,WS,785,Main Draw,ZHANG Yining (CHN),WANG Nan (CHN)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LI Xiaoxia,GUO Yue,4,1,"11,7,11,12,11|6,11,2,10,8",SF,GRAND_SLAM,WS,785,Main Draw,LI Xiaoxia (CHN),GUO Yue (CHN)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ZHANG Yining,LI Xiaoxia,4,2,"16,11,11,9,7,11|14,4,8,11,11,8",F,GRAND_SLAM,WS,785,Main Draw,ZHANG Yining (CHN),LI Xiaoxia (CHN)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,DODEAN Daniela,KUZMINA Elena,4,3,"11,11,11,6,7,8,12|4,6,8,11,11,11,10",QF,GRAND_SLAM,U21WS,785,Main Draw,DODEAN Daniela (ROU),KUZMINA Elena (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SAMARA Elizabeta,PARK Youngsook,4,2,"11,11,11,7,7,11|9,7,4,11,11,5",QF,GRAND_SLAM,U21WS,785,Main Draw,SAMARA Elizabeta (ROU),PARK Youngsook (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,HU Melek,DOLGIKH Maria,4,2,"7,11,9,11,11,11|11,7,11,7,3,8",QF,GRAND_SLAM,U21WS,785,Main Draw,HU Melek (TUR),DOLGIKH Maria (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PROKHOROVA Yulia,YU Mengyu,4,3,"11,11,5,8,11,9,11|8,6,11,11,8,11,5",QF,GRAND_SLAM,U21WS,785,Main Draw,PROKHOROVA Yulia (RUS),YU Mengyu (SGP)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,DODEAN Daniela,SAMARA Elizabeta,4,3,"11,11,4,11,12,11,12|13,5,11,6,14,5,10",SF,GRAND_SLAM,U21WS,785,Main Draw,DODEAN Daniela (ROU),SAMARA Elizabeta (ROU)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,HU Melek,PROKHOROVA Yulia,4,2,"11,15,9,11,6,11|8,13,11,9,11,2",SF,GRAND_SLAM,U21WS,785,Main Draw,HU Melek (TUR),PROKHOROVA Yulia (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,DODEAN Daniela,HU Melek,4,1,"11,11,9,11,12|7,9,11,4,10",F,GRAND_SLAM,U21WS,785,Main Draw,DODEAN Daniela (ROU),HU Melek (TUR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,VORONOVA Anastasia,MUTLU Nevin,4,2,"11,11,13,11,9,15|3,7,15,9,11,13",,GRAND_SLAM,WS,785,Qualification,VORONOVA Anastasia (RUS),MUTLU Nevin (TUR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,BOROS Tamara,MUTLU Nevin,4,0,"11,11,11,12|4,4,8,10",,GRAND_SLAM,WS,785,Qualification,BOROS Tamara (CRO),MUTLU Nevin (TUR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,BOROS Tamara,VORONOVA Anastasia,4,0,"11,11,12,13|5,8,10,11",,GRAND_SLAM,WS,785,Qualification,BOROS Tamara (CRO),VORONOVA Anastasia (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KUZMINA Elena,JUN Hyunsil,4,2,"11,11,8,13,3,15|4,6,11,11,11,13",,GRAND_SLAM,WS,785,Qualification,KUZMINA Elena (RUS),JUN Hyunsil (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ZHANG Rui,KUZMINA Elena,4,1,"11,9,11,11,11|3,11,7,9,9",,GRAND_SLAM,WS,785,Qualification,ZHANG Rui (HKG),KUZMINA Elena (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JUN Hyunsil,ZHANG Rui,4,2,"11,11,10,11,5,11|7,6,12,2,11,5",,GRAND_SLAM,WS,785,Qualification,JUN Hyunsil (KOR),ZHANG Rui (HKG)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,HU Melek,MIKHAILOVA Polina,4,0,"11,11,11,11|8,4,8,7",,GRAND_SLAM,WS,785,Qualification,HU Melek (TUR),MIKHAILOVA Polina (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,FENG Tianwei,MIKHAILOVA Polina,4,2,"11,10,11,11,10,11|4,12,4,8,12,6",,GRAND_SLAM,WS,785,Qualification,FENG Tianwei (SGP),MIKHAILOVA Polina (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,FENG Tianwei,HU Melek,4,0,"11,11,11,11|8,9,7,7",,GRAND_SLAM,WS,785,Qualification,FENG Tianwei (SGP),HU Melek (TUR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KERTAI Rita,YU Eomji,4,0,"11,11,11,11|7,5,4,8",,GRAND_SLAM,WS,785,Qualification,KERTAI Rita (HUN),YU Eomji (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WANG Chen,YU Eomji,4,0,"11,11,11,11|9,4,6,7",,GRAND_SLAM,WS,785,Qualification,WANG Chen (USA),YU Eomji (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WANG Chen,KERTAI Rita,4,0,"11,11,11,11|9,9,5,7",,GRAND_SLAM,WS,785,Qualification,WANG Chen (USA),KERTAI Rita (HUN)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,HEINE Veronika,YILDIRIM Fulya,4,0,"11,11,11,11|9,5,1,9",,GRAND_SLAM,WS,785,Qualification,HEINE Veronika (AUT),YILDIRIM Fulya (TUR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LEE Eunhee,YILDIRIM Fulya,4,1,"11,11,6,11,12|5,7,11,8,10",,GRAND_SLAM,WS,785,Qualification,LEE Eunhee (KOR),YILDIRIM Fulya (TUR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LEE Eunhee,HEINE Veronika,4,1,"11,11,11,7,11|1,6,3,11,7",,GRAND_SLAM,WS,785,Qualification,LEE Eunhee (KOR),HEINE Veronika (AUT)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PROKHOROVA Yulia,OSMAN Bacent,4,0,"15,11,11,11|13,5,8,8",,GRAND_SLAM,WS,785,Qualification,PROKHOROVA Yulia (RUS),OSMAN Bacent (EGY)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,DODEAN Daniela,OSMAN Bacent,4,0,"11,11,12,11|9,4,10,9",,GRAND_SLAM,WS,785,Qualification,DODEAN Daniela (ROU),OSMAN Bacent (EGY)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PROKHOROVA Yulia,DODEAN Daniela,4,3,"12,11,8,11,5,8,11|10,6,11,6,11,11,4",,GRAND_SLAM,WS,785,Qualification,PROKHOROVA Yulia (RUS),DODEAN Daniela (ROU)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,BAKULA Andrea,VINOGRADOVA Mariia,4,0,"11,11,11,11|8,8,9,6",,GRAND_SLAM,WS,785,Qualification,BAKULA Andrea (CRO),VINOGRADOVA Mariia (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,YU Mengyu,VINOGRADOVA Mariia,4,1,"11,11,7,11,11|6,3,11,1,1",,GRAND_SLAM,WS,785,Qualification,YU Mengyu (SGP),VINOGRADOVA Mariia (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,YU Mengyu,BAKULA Andrea,4,0,"11,11,11,11|4,5,7,9",,GRAND_SLAM,WS,785,Qualification,YU Mengyu (SGP),BAKULA Andrea (CRO)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PARK Youngsook,HASSAN Sara,4,0,"11,11,11,11|7,7,6,4",,GRAND_SLAM,WS,785,Qualification,PARK Youngsook (KOR),HASSAN Sara (EGY)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PAVLOVICH Viktoria,HASSAN Sara,4,0,"11,11,11,11|4,2,1,3",,GRAND_SLAM,WS,785,Qualification,PAVLOVICH Viktoria (BLR),HASSAN Sara (EGY)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PAVLOVICH Viktoria,PARK Youngsook,4,0,"14,11,11,11|12,9,8,7",,GRAND_SLAM,WS,785,Qualification,PAVLOVICH Viktoria (BLR),PARK Youngsook (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,DOLGIKH Maria,SEOK Hajung,4,1,"8,11,16,11,11|11,7,14,7,8",,GRAND_SLAM,WS,785,Qualification,DOLGIKH Maria (RUS),SEOK Hajung (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SEOK Hajung,HIURA Reiko,4,1,"11,11,11,9,11|5,5,9,11,8",,GRAND_SLAM,WS,785,Qualification,SEOK Hajung (KOR),HIURA Reiko (JPN)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,DOLGIKH Maria,HIURA Reiko,4,0,"11,11,11,11|9,7,9,6",,GRAND_SLAM,WS,785,Qualification,DOLGIKH Maria (RUS),HIURA Reiko (JPN)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KIM Junghyun,ABDULRAHEEM Maryam,4,0,"11,11,11,11|1,6,6,3",,GRAND_SLAM,WS,785,Qualification,KIM Junghyun (KOR),ABDULRAHEEM Maryam (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GANINA Svetlana,ABDULRAHEEM Maryam,4,0,"11,11,11,11|0,1,2,5",,GRAND_SLAM,WS,785,Qualification,GANINA Svetlana (RUS),ABDULRAHEEM Maryam (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KIM Junghyun,GANINA Svetlana,4,1,"11,12,13,8,12|9,10,11,11,10",,GRAND_SLAM,WS,785,Qualification,KIM Junghyun (KOR),GANINA Svetlana (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,YU Kwok See,ALI Meral Ildiz,4,0,"11,11,11,11|6,6,2,6",,GRAND_SLAM,WS,785,Qualification,YU Kwok See (HKG),ALI Meral Ildiz (TUR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MOON Hyunjung,ALI Meral Ildiz,4,0,"11,11,11,11|2,5,4,5",,GRAND_SLAM,WS,785,Qualification,MOON Hyunjung (KOR),ALI Meral Ildiz (TUR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,YU Kwok See,MOON Hyunjung,4,3,"12,13,11,5,11,7,11|14,11,8,11,6,11,9",,GRAND_SLAM,WS,785,Qualification,YU Kwok See (HKG),MOON Hyunjung (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,FADEEVA Oxana,AHMAD Fajir,4,0,"11,11,11,11|4,5,1,2",,GRAND_SLAM,WS,785,Qualification,FADEEVA Oxana (RUS),AHMAD Fajir (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KWAK Bangbang,AHMAD Fajir,4,0,"11,11,11,11|2,8,3,2",,GRAND_SLAM,WS,785,Qualification,KWAK Bangbang (KOR),AHMAD Fajir (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KWAK Bangbang,FADEEVA Oxana,4,2,"12,11,13,8,5,11|10,8,11,11,11,9",,GRAND_SLAM,WS,785,Qualification,KWAK Bangbang (KOR),FADEEVA Oxana (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,DANG Yeseo,KRAMER Tanja,4,1,"5,12,11,11,11|11,10,5,8,9",,GRAND_SLAM,WS,785,Qualification,DANG Yeseo (KOR),KRAMER Tanja (GER)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,DANG Yeseo,LI Qiangbing,4,0,"11,11,11,11|7,4,5,8",,GRAND_SLAM,WS,785,Qualification,DANG Yeseo (KOR),LI Qiangbing (AUT)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LI Qiangbing,KRAMER Tanja,4,2,"9,11,11,11,10,11|11,3,7,9,12,9",,GRAND_SLAM,WS,785,Qualification,LI Qiangbing (AUT),KRAMER Tanja (GER)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,TAN Paey Fern,ALSHAMMARI Menwah,4,0,,,GRAND_SLAM,WS,785,Qualification,TAN Paey Fern (SGP),ALSHAMMARI Menwah (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PAVLOVICH Veronika,ALSHAMMARI Menwah,4,0,"11,11,11,11|7,1,1,4",,GRAND_SLAM,WS,785,Qualification,PAVLOVICH Veronika (BLR),ALSHAMMARI Menwah (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PAVLOVICH Veronika,TAN Paey Fern,4,0,"11,11,11,11|3,7,9,9",,GRAND_SLAM,WS,785,Qualification,PAVLOVICH Veronika (BLR),TAN Paey Fern (SGP)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KOSTROMINA Tatyana (1973),KIM Garam,4,0,"11,11,11,11|9,7,7,4",,GRAND_SLAM,WS,785,Qualification,KOSTROMINA Tatyana (1973) (BLR),KIM Garam (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SAMARA Elizabeta,AL-SABAH Dalal,4,0,"11,11,11,11|2,3,2,0",,GRAND_SLAM,WS,785,Qualification,SAMARA Elizabeta (ROU),AL-SABAH Dalal (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SAMARA Elizabeta,KOSTROMINA Tatyana (1973),4,2,"9,11,8,14,11,11|11,6,11,12,9,6",,GRAND_SLAM,WS,785,Qualification,SAMARA Elizabeta (ROU),KOSTROMINA Tatyana (1973) (BLR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KIM Garam,AL-SABAH Dalal,4,0,"11,11,11,11|0,2,6,2",,GRAND_SLAM,WS,785,Qualification,KIM Garam (KOR),AL-SABAH Dalal (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KOSTROMINA Tatyana (1973),AL-SABAH Dalal,4,0,"11,11,11,11|1,1,3,1",,GRAND_SLAM,WS,785,Qualification,KOSTROMINA Tatyana (1973) (BLR),AL-SABAH Dalal (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SAMARA Elizabeta,KIM Garam,4,2,"8,11,12,12,5,11|11,6,10,10,11,4",,GRAND_SLAM,WS,785,Qualification,SAMARA Elizabeta (ROU),KIM Garam (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,QUASQUAS Zeina,ALSHAMMARI Menwah,3,1,"11,11,11,11|3,13,8,6",,GRAND_SLAM,U21WS,785,Qualification,QUASQUAS Zeina (SYR),ALSHAMMARI Menwah (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PARK Youngsook,QUASQUAS Zeina,3,0,"11,11,11|8,3,3",,GRAND_SLAM,U21WS,785,Qualification,PARK Youngsook (KOR),QUASQUAS Zeina (SYR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PARK Youngsook,ALSHAMMARI Menwah,3,0,"11,11,11|4,5,4",,GRAND_SLAM,U21WS,785,Qualification,PARK Youngsook (KOR),ALSHAMMARI Menwah (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ALI Meral Ildiz,ABDULRAHEEM Maryam,3,0,"11,11,11|5,7,2",,GRAND_SLAM,U21WS,785,Qualification,ALI Meral Ildiz (TUR),ABDULRAHEEM Maryam (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PROKHOROVA Yulia,ALI Meral Ildiz,3,0,"12,11,11|10,9,7",,GRAND_SLAM,U21WS,785,Qualification,PROKHOROVA Yulia (RUS),ALI Meral Ildiz (TUR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PROKHOROVA Yulia,ABDULRAHEEM Maryam,3,0,"11,11,11|6,8,4",,GRAND_SLAM,U21WS,785,Qualification,PROKHOROVA Yulia (RUS),ABDULRAHEEM Maryam (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,VINOGRADOVA Mariia,ALAMMAR Maha,3,0,"11,11,11|1,3,3",,GRAND_SLAM,U21WS,785,Qualification,VINOGRADOVA Mariia (RUS),ALAMMAR Maha (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,HU Melek,ALAMMAR Maha,3,0,"11,11,11|2,2,2",,GRAND_SLAM,U21WS,785,Qualification,HU Melek (TUR),ALAMMAR Maha (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,HU Melek,VINOGRADOVA Mariia,3,2,"12,11,11,9,11|14,7,9,11,3",,GRAND_SLAM,U21WS,785,Qualification,HU Melek (TUR),VINOGRADOVA Mariia (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KUZMINA Elena,KIM Garam,3,1,"11,12,11,11|2,14,4,6",,GRAND_SLAM,U21WS,785,Qualification,KUZMINA Elena (RUS),KIM Garam (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,HASSAN Sara,AHMAD Fajir,3,0,"11,11,11|8,4,6",,GRAND_SLAM,U21WS,785,Qualification,HASSAN Sara (EGY),AHMAD Fajir (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KUZMINA Elena,AHMAD Fajir,3,0,"11,11,11|2,4,3",,GRAND_SLAM,U21WS,785,Qualification,KUZMINA Elena (RUS),AHMAD Fajir (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KIM Garam,HASSAN Sara,3,0,"11,11,11|2,3,5",,GRAND_SLAM,U21WS,785,Qualification,KIM Garam (KOR),HASSAN Sara (EGY)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KUZMINA Elena,HASSAN Sara,3,0,"11,11,11|4,4,9",,GRAND_SLAM,U21WS,785,Qualification,KUZMINA Elena (RUS),HASSAN Sara (EGY)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KIM Garam,AHMAD Fajir,3,0,"11,11,11|4,4,4",,GRAND_SLAM,U21WS,785,Qualification,KIM Garam (KOR),AHMAD Fajir (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,YU Eomji,ALBSHLAWI Maisson,3,0,"11,11,11|4,6,2",,GRAND_SLAM,U21WS,785,Qualification,YU Eomji (KOR),ALBSHLAWI Maisson (SYR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,YILDIRIM Fulya,AL-SABAH Dalal,3,0,"11,11,11|4,3,1",,GRAND_SLAM,U21WS,785,Qualification,YILDIRIM Fulya (TUR),AL-SABAH Dalal (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,YU Eomji,AL-SABAH Dalal,3,0,"11,11,11|0,3,5",,GRAND_SLAM,U21WS,785,Qualification,YU Eomji (KOR),AL-SABAH Dalal (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,YILDIRIM Fulya,ALBSHLAWI Maisson,3,1,"11,11,7,11|6,5,11,4",,GRAND_SLAM,U21WS,785,Qualification,YILDIRIM Fulya (TUR),ALBSHLAWI Maisson (SYR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,YU Eomji,YILDIRIM Fulya,3,0,"11,11,12|9,6,10",,GRAND_SLAM,U21WS,785,Qualification,YU Eomji (KOR),YILDIRIM Fulya (TUR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ALBSHLAWI Maisson,AL-SABAH Dalal,3,0,"11,11,11|8,3,5",,GRAND_SLAM,U21WS,785,Qualification,ALBSHLAWI Maisson (SYR),AL-SABAH Dalal (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KUZMINA Elena,YU Eomji,3,2,"11,7,11,10,11|7,11,7,12,4",QR2,GRAND_SLAM,U21WS,785,Qualification,KUZMINA Elena (RUS),YU Eomji (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KIM Junghoon/LIM Jaehyun,FEGERL Stefan/FENG Xiaoquan,3,0,"11,11,11|9,6,5",QR32,GRAND_SLAM,MD,785,Qualification,KIM Junghoon (KOR) / LIM Jaehyun (KOR),FEGERL Stefan (AUT) / FENG Xiaoquan (AUT)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ANDRIANOV Sergei/PAIKOV Mikhail,CHEN Weixing/HABESOHN Daniel,3,2,"13,12,7,4,11|11,10,11,11,6",QR32,GRAND_SLAM,MD,785,Qualification,ANDRIANOV Sergei (RUS) / PAIKOV Mikhail (RUS),CHEN Weixing (AUT) / HABESOHN Daniel (AUT)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MONTEIRO Thiago/TSUBOI Gustavo,JIANG Pengfei/MENGE Gencay,3,1,"9,11,11,11|11,5,9,8",QR32,GRAND_SLAM,MD,785,Qualification,MONTEIRO Thiago (BRA) / TSUBOI Gustavo (BRA),JIANG Pengfei (TUR) / MENGE Gencay (TUR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LEE Jinkwon/LEE Jungsam,MONTEIRO Thiago/TSUBOI Gustavo,3,0,"13,12,11|11,10,9",QR16,GRAND_SLAM,MD,785,Qualification,LEE Jinkwon (KOR) / LEE Jungsam (KOR),MONTEIRO Thiago (BRA) / TSUBOI Gustavo (BRA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MA Lin/WANG Hao,KEEN Trinko/LUNDQVIST Jens,4,3,"12,11,8,7,12,11,11|14,5,11,11,10,7,6",R16,GRAND_SLAM,MD,785,Main Draw,MA Lin (CHN) / WANG Hao (CHN),KEEN Trinko (NED) / LUNDQVIST Jens (SWE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MA Lin/WANG Hao,JOO Saehyuk/LEE Jungwoo,4,0,"13,11,11,11|11,3,8,8",QF,GRAND_SLAM,MD,785,Main Draw,MA Lin (CHN) / WANG Hao (CHN),JOO Saehyuk (KOR) / LEE Jungwoo (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MA Lin/WANG Hao,MA Long/WANG Liqin,4,3,"9,7,3,11,11,11,11|11,11,11,8,3,8,9",SF,GRAND_SLAM,MD,785,Main Draw,MA Lin (CHN) / WANG Hao (CHN),MA Long (CHN) / WANG Liqin (CHN)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHEN Qi/ZHANG Jike,LEE Jinkwon/LEE Jungsam,4,0,"11,12,11,11|5,10,6,9",SF,GRAND_SLAM,MD,785,Main Draw,CHEN Qi (CHN) / ZHANG Jike (CHN),LEE Jinkwon (KOR) / LEE Jungsam (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MA Lin/WANG Hao,CHEN Qi/ZHANG Jike,4,0,"11,11,12,11|6,9,10,7",F,GRAND_SLAM,MD,785,Main Draw,MA Lin (CHN) / WANG Hao (CHN),CHEN Qi (CHN) / ZHANG Jike (CHN)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JANCARIK Lubomir/KLEPRLIK Michal,EL BOUBOU Rachid/EL HABECH Mohamad,3,0,"11,11,14|4,4,12",QR32,GRAND_SLAM,MD,785,Qualification,JANCARIK Lubomir (CZE) / KLEPRLIK Michal (CZE),EL BOUBOU Rachid (LBN) / EL HABECH Mohamad (LBN)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KEEN Trinko/LUNDQVIST Jens,JANCARIK Lubomir/KLEPRLIK Michal,3,0,"11,11,11|8,6,8",QR16,GRAND_SLAM,MD,785,Qualification,KEEN Trinko (NED) / LUNDQVIST Jens (SWE),JANCARIK Lubomir (CZE) / KLEPRLIK Michal (CZE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KEEN Trinko/LUNDQVIST Jens,SALEH Ahmed/LASHIN Elsayed,3,0,"11,11,11|7,9,6",QR32,GRAND_SLAM,MD,785,Qualification,KEEN Trinko (NED) / LUNDQVIST Jens (SWE),SALEH Ahmed (EGY) / LASHIN Elsayed (EGY)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GUO Yi Teng/LIU Zhongze,CHEUNG Yuk/LI Ching,4,0,,R16,GRAND_SLAM,MD,785,Main Draw,GUO Yi Teng (SGP) / LIU Zhongze (SGP),CHEUNG Yuk (HKG) / LI Ching (HKG)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MA Long/WANG Liqin,JIANG Tianyi/TANG Peng,4,0,"11,11,11,11|6,6,6,7",QF,GRAND_SLAM,MD,785,Main Draw,MA Long (CHN) / WANG Liqin (CHN),JIANG Tianyi (HKG) / TANG Peng (HKG)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JIANG Tianyi/TANG Peng,ALHAJJAI Waled Nasser/AL-MOHANNADI Ahmad Khalil,3,0,"11,11,11|8,6,4",QR32,GRAND_SLAM,MD,785,Qualification,JIANG Tianyi (HKG) / TANG Peng (HKG),ALHAJJAI Waled Nasser (QAT) / AL-MOHANNADI Ahmad Khalil (QAT)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JIANG Tianyi/TANG Peng,KIM Junghoon/LIM Jaehyun,3,1,"8,11,15,11|11,6,13,5",QR16,GRAND_SLAM,MD,785,Qualification,JIANG Tianyi (HKG) / TANG Peng (HKG),KIM Junghoon (KOR) / LIM Jaehyun (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,AL-SANADI Salah/NAGY Krisztian,DAWOUD Haidar/HUSSEIN Mohamed,3,0,"11,11,12|8,4,10",QR64,GRAND_SLAM,MD,785,Qualification,AL-SANADI Salah (QAT) / NAGY Krisztian (HUN),DAWOUD Haidar (IRQ) / HUSSEIN Mohamed (IRQ)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LEE Jinkwon/LEE Jungsam,AL-SANADI Salah/NAGY Krisztian,3,0,"11,11,11|6,6,2",QR32,GRAND_SLAM,MD,785,Qualification,LEE Jinkwon (KOR) / LEE Jungsam (KOR),AL-SANADI Salah (QAT) / NAGY Krisztian (HUN)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ANDRIANOV Sergei/PAIKOV Mikhail,ABDUL RAZZAG Ahmad/AHMED Salem,3,0,"11,11,11|3,4,3",QR64,GRAND_SLAM,MD,785,Qualification,ANDRIANOV Sergei (RUS) / PAIKOV Mikhail (RUS),ABDUL RAZZAG Ahmad (IRQ) / AHMED Salem (IRQ)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ALHAJJAI Waled Nasser/AL-MOHANNADI Ahmad Khalil,ABO YAMAN Zaid/BAKEER Yazan,3,0,"11,11,11|5,7,5",QR64,GRAND_SLAM,MD,785,Qualification,ALHAJJAI Waled Nasser (QAT) / AL-MOHANNADI Ahmad Khalil (QAT),ABO YAMAN Zaid (JOR) / BAKEER Yazan (JOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,EL BOUBOU Rachid/EL HABECH Mohamad,ALDMAISY Odai/JABER Lutfi,3,0,"11,11,12|9,9,10",QR64,GRAND_SLAM,MD,785,Qualification,EL BOUBOU Rachid (LBN) / EL HABECH Mohamad (LBN),ALDMAISY Odai (JOR) / JABER Lutfi (JOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHEN Qi/ZHANG Jike,RYU Seungmin/YOON Jaeyoung,4,2,"12,8,5,11,11,11|10,11,11,9,7,6",R16,GRAND_SLAM,MD,785,Main Draw,CHEN Qi (CHN) / ZHANG Jike (CHN),RYU Seungmin (KOR) / YOON Jaeyoung (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHO Eonrae/HAN Jimin,BUROV Viacheslav/STETSENKO Alexander,4,1,"8,11,11,11,13|11,6,7,7,11",R16,GRAND_SLAM,MD,785,Main Draw,CHO Eonrae (KOR) / HAN Jimin (KOR),BUROV Viacheslav (RUS) / STETSENKO Alexander (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LEE Jinkwon/LEE Jungsam,GAO Ning/YANG Zi,4,3,"11,11,7,11,8,6,12|9,6,11,2,11,11,10",R16,GRAND_SLAM,MD,785,Main Draw,LEE Jinkwon (KOR) / LEE Jungsam (KOR),GAO Ning (SGP) / YANG Zi (SGP)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LEE Jinkwon/LEE Jungsam,CHO Eonrae/HAN Jimin,4,3,"2,9,6,11,11,11,11|11,11,11,7,6,4,8",QF,GRAND_SLAM,MD,785,Main Draw,LEE Jinkwon (KOR) / LEE Jungsam (KOR),CHO Eonrae (KOR) / HAN Jimin (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,RYU Seungmin/YOON Jaeyoung,AL-HASAN Ibrahem/AL-KANDRI Ali,3,0,"11,11,12|5,3,10",QR32,GRAND_SLAM,MD,785,Qualification,RYU Seungmin (KOR) / YOON Jaeyoung (KOR),AL-HASAN Ibrahem (KUW) / AL-KANDRI Ali (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GUO Yi Teng/LIU Zhongze,CHOI Hyunjin/SEO Younggyun,3,2,"11,7,11,5,11|8,11,6,11,7",QR32,GRAND_SLAM,MD,785,Qualification,GUO Yi Teng (SGP) / LIU Zhongze (SGP),CHOI Hyunjin (KOR) / SEO Younggyun (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,RYU Seungmin/YOON Jaeyoung,KUZMIN Fedor/SKACHKOV Kirill,3,2,"14,11,8,9,11|12,6,11,11,8",QR16,GRAND_SLAM,MD,785,Qualification,RYU Seungmin (KOR) / YOON Jaeyoung (KOR),KUZMIN Fedor (RUS) / SKACHKOV Kirill (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,HASSAN Rashed/OMAR Rashid,ALEM Mansor/AL-JADAI Naif,3,0,"11,13,11|5,11,3",QR64,GRAND_SLAM,MD,785,Qualification,HASSAN Rashed (UAE) / OMAR Rashid (UAE),ALEM Mansor (KSA) / AL-JADAI Naif (KSA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KUZMIN Fedor/SKACHKOV Kirill,AL-ABBAD Abdulaziz/AL-HARBI Khaled,3,0,"11,11,11|6,6,8",QR32,GRAND_SLAM,MD,785,Qualification,KUZMIN Fedor (RUS) / SKACHKOV Kirill (RUS),AL-ABBAD Abdulaziz (KSA) / AL-HARBI Khaled (KSA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,AL-ENEZY Mansour/AL-HASAN Salem,ISMAIL Hamid/LINJAWI Jassem,3,0,,QR64,GRAND_SLAM,MD,785,Qualification,AL-ENEZY Mansour (KUW) / AL-HASAN Salem (KUW),ISMAIL Hamid (UAE) / LINJAWI Jassem (UAE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PISTEJ Lubomir/VOSTES Yannick,AL-ENEZY Mansour/AL-HASAN Salem,3,0,"11,11,11|6,6,8",QR32,GRAND_SLAM,MD,785,Qualification,PISTEJ Lubomir (SVK) / VOSTES Yannick (BEL),AL-ENEZY Mansour (KUW) / AL-HASAN Salem (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,BUBA Ondrej/PLEVA Radek,ABUSHUWASHI Adir/EL-JETIL Ahmed Lotfi,3,0,,QR64,GRAND_SLAM,MD,785,Qualification,BUBA Ondrej (CZE) / PLEVA Radek (CZE),ABUSHUWASHI Adir (LBA) / EL-JETIL Ahmed Lotfi (LBA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JIANG Pengfei/MENGE Gencay,EL-ARBI Mohamed Musbah/ELHEBSHI Mohamed,3,0,,QR64,GRAND_SLAM,MD,785,Qualification,JIANG Pengfei (TUR) / MENGE Gencay (TUR),EL-ARBI Mohamed Musbah (LBA) / ELHEBSHI Mohamed (LBA)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JOO Saehyuk/LEE Jungwoo,LIVENTSOV Alexey/RUBTSOV Igor,4,2,"12,7,11,11,11,11|14,11,8,7,7,3",R16,GRAND_SLAM,MD,785,Main Draw,JOO Saehyuk (KOR) / LEE Jungwoo (KOR),LIVENTSOV Alexey (RUS) / RUBTSOV Igor (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JIANG Tianyi/TANG Peng,OVTCHAROV Dimitrij/SMIRNOV Alexey,4,0,"11,11,11,11|7,6,8,3",R16,GRAND_SLAM,MD,785,Main Draw,JIANG Tianyi (HKG) / TANG Peng (HKG),OVTCHAROV Dimitrij (GER) / SMIRNOV Alexey (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,BUROV Viacheslav/STETSENKO Alexander,EL-TAHIR Abdel-Wahab/MOHED Osama,3,0,,QR64,GRAND_SLAM,MD,785,Qualification,BUROV Viacheslav (RUS) / STETSENKO Alexander (RUS),EL-TAHIR Abdel-Wahab (SUD) / MOHED Osama (SUD)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,BUROV Viacheslav/STETSENKO Alexander,LEGOUT Christophe/SCHLAGER Werner,3,0,,QR32,GRAND_SLAM,MD,785,Qualification,BUROV Viacheslav (RUS) / STETSENKO Alexander (RUS),LEGOUT Christophe (FRA) / SCHLAGER Werner (AUT)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LIVENTSOV Alexey/RUBTSOV Igor,KONECNY Tomas/OBESLO Michal,3,1,"11,14,16,12|2,16,14,10",QR32,GRAND_SLAM,MD,785,Qualification,LIVENTSOV Alexey (RUS) / RUBTSOV Igor (RUS),KONECNY Tomas (CZE) / OBESLO Michal (CZE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LIVENTSOV Alexey/RUBTSOV Igor,PISTEJ Lubomir/VOSTES Yannick,3,0,"11,15,11|8,13,3",QR16,GRAND_SLAM,MD,785,Qualification,LIVENTSOV Alexey (RUS) / RUBTSOV Igor (RUS),PISTEJ Lubomir (SVK) / VOSTES Yannick (BEL)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GUO Yi Teng/LIU Zhongze,ANDRIANOV Sergei/PAIKOV Mikhail,3,1,"11,11,13,11|7,9,15,9",QR16,GRAND_SLAM,MD,785,Qualification,GUO Yi Teng (SGP) / LIU Zhongze (SGP),ANDRIANOV Sergei (RUS) / PAIKOV Mikhail (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHEN Qi/ZHANG Jike,GUO Yi Teng/LIU Zhongze,4,0,"11,11,18,11|5,7,16,5",QF,GRAND_SLAM,MD,785,Main Draw,CHEN Qi (CHN) / ZHANG Jike (CHN),GUO Yi Teng (SGP) / LIU Zhongze (SGP)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,AL-HASAN Ibrahem/AL-KANDRI Ali,MOSSLLY Yhya/TARABOLSY Ahmed,3,1,"11,10,13,11|9,12,11,9",QR64,GRAND_SLAM,MD,785,Qualification,AL-HASAN Ibrahem (KUW) / AL-KANDRI Ali (KUW),MOSSLLY Yhya (SYR) / TARABOLSY Ahmed (SYR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MA Long/WANG Liqin,CHUANG Chih-Yuan/WU Chih-Chi,4,2,"8,5,11,11,13,11|11,11,8,5,11,9",R16,GRAND_SLAM,MD,785,Main Draw,MA Long (CHN) / WANG Liqin (CHN),CHUANG Chih-Yuan (TPE) / WU Chih-Chi (TPE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHUANG Chih-Yuan/WU Chih-Chi,HASSAN Rashed/OMAR Rashid,3,1,"8,11,11,11|11,5,9,7",QR32,GRAND_SLAM,MD,785,Qualification,CHUANG Chih-Yuan (TPE) / WU Chih-Chi (TPE),HASSAN Rashed (UAE) / OMAR Rashid (UAE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHUANG Chih-Yuan/WU Chih-Chi,CAI Xiaoli/MA Liang,3,1,"8,12,11,11|11,10,6,8",QR16,GRAND_SLAM,MD,785,Qualification,CHUANG Chih-Yuan (TPE) / WU Chih-Chi (TPE),CAI Xiaoli (SGP) / MA Liang (SGP)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CAI Xiaoli/MA Liang,TAVUKCUOGLU Irfan/ZENG Cem,3,1,"3,11,11,11|11,8,6,6",QR32,GRAND_SLAM,MD,785,Qualification,CAI Xiaoli (SGP) / MA Liang (SGP),TAVUKCUOGLU Irfan (TUR) / ZENG Cem (TUR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KATKOV Ivan/KOU Lei,BUBA Ondrej/PLEVA Radek,3,1,"11,11,9,11|5,8,11,9",QR32,GRAND_SLAM,MD,785,Qualification,KATKOV Ivan (UKR) / KOU Lei (UKR),BUBA Ondrej (CZE) / PLEVA Radek (CZE)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,BUROV Viacheslav/STETSENKO Alexander,KATKOV Ivan/KOU Lei,3,0,"11,11,11|7,5,8",QR16,GRAND_SLAM,MD,785,Qualification,BUROV Viacheslav (RUS) / STETSENKO Alexander (RUS),KATKOV Ivan (UKR) / KOU Lei (UKR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GANINA Svetlana/PAVLOVICH Viktoria,TIE Yana/ZHANG Rui,4,1,"11,11,11,9,12|8,7,7,11,10",QF,GRAND_SLAM,WD,785,Main Draw,GANINA Svetlana (RUS) / PAVLOVICH Viktoria (BLR),TIE Yana (HKG) / ZHANG Rui (HKG)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LI Jiawei/SUN Beibei,GANINA Svetlana/PAVLOVICH Viktoria,4,2,"11,11,11,6,9,11|6,7,3,11,11,9",SF,GRAND_SLAM,WD,785,Main Draw,LI Jiawei (SGP) / SUN Beibei (SGP),GANINA Svetlana (RUS) / PAVLOVICH Viktoria (BLR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,FADEEVA Oxana/PAVLOVICH Veronika,KERTAI Rita/OSMAN Bacent,3,0,"11,11,13|8,6,11",QR16,GRAND_SLAM,WD,785,Qualification,FADEEVA Oxana (RUS) / PAVLOVICH Veronika (BLR),KERTAI Rita (HUN) / OSMAN Bacent (EGY)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GUO Yue/LI Xiaoxia,FADEEVA Oxana/PAVLOVICH Veronika,4,0,"11,13,12,11|5,11,10,7",R16,GRAND_SLAM,WD,785,Main Draw,GUO Yue (CHN) / LI Xiaoxia (CHN),FADEEVA Oxana (RUS) / PAVLOVICH Veronika (BLR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GUO Yan (1982)/LIU Shiwen,DANG Yeseo/LEE Eunhee,4,2,"3,11,11,11,6,11|11,5,5,1,11,7",R16,GRAND_SLAM,WD,785,Main Draw,GUO Yan (1982) (CHN) / LIU Shiwen (CHN),DANG Yeseo (KOR) / LEE Eunhee (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GUO Yue/LI Xiaoxia,JIANG Huajun/LIN Ling,4,1,"7,11,11,11,11|11,9,8,4,8",QF,GRAND_SLAM,WD,785,Main Draw,GUO Yue (CHN) / LI Xiaoxia (CHN),JIANG Huajun (HKG) / LIN Ling (HKG)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WANG Nan/ZHANG Yining,GUO Yan (1982)/LIU Shiwen,4,1,"10,11,11,11,11|12,5,8,5,4",QF,GRAND_SLAM,WD,785,Main Draw,WANG Nan (CHN) / ZHANG Yining (CHN),GUO Yan (1982) (CHN) / LIU Shiwen (CHN)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WANG Nan/ZHANG Yining,GUO Yue/LI Xiaoxia,4,3,"11,9,11,6,11,5,11|2,11,7,11,8,11,7",SF,GRAND_SLAM,WD,785,Main Draw,WANG Nan (CHN) / ZHANG Yining (CHN),GUO Yue (CHN) / LI Xiaoxia (CHN)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WANG Nan/ZHANG Yining,LI Jiawei/SUN Beibei,4,2,"9,11,11,14,11,11|11,4,8,16,4,3",F,GRAND_SLAM,WD,785,Main Draw,WANG Nan (CHN) / ZHANG Yining (CHN),LI Jiawei (SGP) / SUN Beibei (SGP)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KIM Junghyun/SEOK Hajung,KOSTROMINA Tatyana (1973)/YU Kwok See,3,0,"11,11,11|9,2,8",QR32,GRAND_SLAM,WD,785,Qualification,KIM Junghyun (KOR) / SEOK Hajung (KOR),KOSTROMINA Tatyana (1973) (BLR) / YU Kwok See (HKG)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JIANG Huajun/LIN Ling,KRAMER Tanja/HIURA Reiko,4,0,"11,11,17,11|9,9,15,1",R16,GRAND_SLAM,WD,785,Main Draw,JIANG Huajun (HKG) / LIN Ling (HKG),KRAMER Tanja (GER) / HIURA Reiko (JPN)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KRAMER Tanja/HIURA Reiko,JUN Hyunsil/YU Eomji,3,1,"11,11,6,11|7,4,11,3",QR16,GRAND_SLAM,WD,785,Qualification,KRAMER Tanja (GER) / HIURA Reiko (JPN),JUN Hyunsil (KOR) / YU Eomji (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GANINA Svetlana/PAVLOVICH Viktoria,KIM Kyungah/PARK Miyoung,4,3,"11,11,3,7,11,11,11|9,6,11,11,13,7,6",R16,GRAND_SLAM,WD,785,Main Draw,GANINA Svetlana (RUS) / PAVLOVICH Viktoria (BLR),KIM Kyungah (KOR) / PARK Miyoung (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LI Jiawei/SUN Beibei,KIM Junghyun/SEOK Hajung,4,0,"11,11,11,11|4,2,8,6",R16,GRAND_SLAM,WD,785,Main Draw,LI Jiawei (SGP) / SUN Beibei (SGP),KIM Junghyun (KOR) / SEOK Hajung (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JUN Hyunsil/YU Eomji,BAKULA Andrea/BOROS Tamara,3,2,"5,11,7,11,13|11,6,11,9,11",QR32,GRAND_SLAM,WD,785,Qualification,JUN Hyunsil (KOR) / YU Eomji (KOR),BAKULA Andrea (CRO) / BOROS Tamara (CRO)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KWAK Bangbang/PARK Youngsook,LIU Jia/WU Jiaduo,3,1,"9,11,11,11|11,8,3,4",QR16,GRAND_SLAM,WD,785,Qualification,KWAK Bangbang (KOR) / PARK Youngsook (KOR),LIU Jia (AUT) / WU Jiaduo (GER)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,FENG Tianwei/YU Mengyu,KIM Garam/MOON Hyunjung,3,1,"13,13,10,11|11,11,12,8",QR16,GRAND_SLAM,WD,785,Qualification,FENG Tianwei (SGP) / YU Mengyu (SGP),KIM Garam (KOR) / MOON Hyunjung (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KERTAI Rita/OSMAN Bacent,ABDULRAHEEM Maryam/ALAMMAR Maha,3,0,"11,11,11|2,5,6",QR32,GRAND_SLAM,WD,785,Qualification,KERTAI Rita (HUN) / OSMAN Bacent (EGY),ABDULRAHEEM Maryam (KUW) / ALAMMAR Maha (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,DODEAN Daniela/SAMARA Elizabeta,KWAK Bangbang/PARK Youngsook,4,2,"17,6,11,7,11,13|15,11,7,11,5,11",R16,GRAND_SLAM,WD,785,Main Draw,DODEAN Daniela (ROU) / SAMARA Elizabeta (ROU),KWAK Bangbang (KOR) / PARK Youngsook (KOR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LI Jiawei/SUN Beibei,DODEAN Daniela/SAMARA Elizabeta,4,3,"12,11,10,9,11,7,11|10,8,12,11,8,11,6",QF,GRAND_SLAM,WD,785,Main Draw,LI Jiawei (SGP) / SUN Beibei (SGP),DODEAN Daniela (ROU) / SAMARA Elizabeta (ROU)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,TIE Yana/ZHANG Rui,PROKHOROVA Yulia/VORONOVA Anastasia,4,2,"11,11,6,11,7,11|9,8,11,6,11,8",R16,GRAND_SLAM,WD,785,Main Draw,TIE Yana (HKG) / ZHANG Rui (HKG),PROKHOROVA Yulia (RUS) / VORONOVA Anastasia (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,HU Melek/MUTLU Nevin,MIKHAILOVA Polina/DOLGIKH Maria,3,2,"7,8,11,11,11|11,11,6,9,7",QR32,GRAND_SLAM,WD,785,Qualification,HU Melek (TUR) / MUTLU Nevin (TUR),MIKHAILOVA Polina (RUS) / DOLGIKH Maria (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PROKHOROVA Yulia/VORONOVA Anastasia,ALBSHLAWI Maisson/QUASQUAS Zeina,3,0,"11,11,11|3,4,7",QR32,GRAND_SLAM,WD,785,Qualification,PROKHOROVA Yulia (RUS) / VORONOVA Anastasia (RUS),ALBSHLAWI Maisson (SYR) / QUASQUAS Zeina (SYR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,FENG Tianwei/YU Mengyu,VINOGRADOVA Mariia/KUZMINA Elena,3,0,"11,11,11|8,6,5",QR32,GRAND_SLAM,WD,785,Qualification,FENG Tianwei (SGP) / YU Mengyu (SGP),VINOGRADOVA Mariia (RUS) / KUZMINA Elena (RUS)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PROKHOROVA Yulia/VORONOVA Anastasia,HEINE Veronika/LI Qiangbing,3,0,"11,11,12|6,5,10",QR16,GRAND_SLAM,WD,785,Qualification,PROKHOROVA Yulia (RUS) / VORONOVA Anastasia (RUS),HEINE Veronika (AUT) / LI Qiangbing (AUT)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WANG Nan/ZHANG Yining,FENG Tianwei/YU Mengyu,4,0,"11,12,11,11|9,10,7,2",R16,GRAND_SLAM,WD,785,Main Draw,WANG Nan (CHN) / ZHANG Yining (CHN),FENG Tianwei (SGP) / YU Mengyu (SGP)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KIM Junghyun/SEOK Hajung,TAN Paey Fern/WANG Yuegu,3,2,"13,11,5,8,11|11,8,11,11,7",QR16,GRAND_SLAM,WD,785,Qualification,KIM Junghyun (KOR) / SEOK Hajung (KOR),TAN Paey Fern (SGP) / WANG Yuegu (SGP)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ALI Meral Ildiz/YILDIRIM Fulya,AHMAD Fajir/ALSHAMMARI Menwah,3,0,"11,11,11|3,3,7",QR32,GRAND_SLAM,WD,785,Qualification,ALI Meral Ildiz (TUR) / YILDIRIM Fulya (TUR),AHMAD Fajir (KUW) / ALSHAMMARI Menwah (KUW)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,DANG Yeseo/LEE Eunhee,HU Melek/MUTLU Nevin,3,0,"11,11,11|5,5,6",QR16,GRAND_SLAM,WD,785,Qualification,DANG Yeseo (KOR) / LEE Eunhee (KOR),HU Melek (TUR) / MUTLU Nevin (TUR)
-Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GANINA Svetlana/PAVLOVICH Viktoria,ALI Meral Ildiz/YILDIRIM Fulya,3,0,"11,11,11|2,4,8",QR16,GRAND_SLAM,WD,785,Qualification,GANINA Svetlana (RUS) / PAVLOVICH Viktoria (BLR),ALI Meral Ildiz (TUR) / YILDIRIM Fulya (TUR)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WANG Hao,KLEPRLIK Michal,4,0,"11,11,11,11|6,5,5,8",R64,GRAND_SLAM,MS,785,Main Draw,WANG Hao (CHN),KLEPRLIK Michal (CZE),WANG Hao
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KEEN Trinko,RUBTSOV Igor,4,0,"12,11,11,11|10,7,2,5",R64,GRAND_SLAM,MS,785,Main Draw,KEEN Trinko (NED),RUBTSOV Igor (RUS),KEEN Trinko
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KO Lai Chak,VOSTES Yannick,4,0,"11,11,11,11|7,7,5,9",R64,GRAND_SLAM,MS,785,Main Draw,KO Lai Chak (HKG),VOSTES Yannick (BEL),KO Lai Chak
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SAIVE Jean-Michel,HAN Jimin,4,3,"9,10,11,11,11,11,11|11,12,6,8,7,13,8",R64,GRAND_SLAM,MS,785,Main Draw,SAIVE Jean-Michel (BEL),HAN Jimin (KOR),SAIVE Jean-Michel
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,OVTCHAROV Dimitrij,TSUBOI Gustavo,4,0,"11,11,11,11|7,1,5,6",R64,GRAND_SLAM,MS,785,Main Draw,OVTCHAROV Dimitrij (GER),TSUBOI Gustavo (BRA),OVTCHAROV Dimitrij
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KIM Junghoon,MA Liang,4,1,"12,11,14,8,11|10,6,12,11,4",R64,GRAND_SLAM,MS,785,Main Draw,KIM Junghoon (KOR),MA Liang (SGP),KIM Junghoon
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHO Eonrae,CAI Xiaoli,4,2,"11,13,7,11,12,12|8,15,11,5,10,10",R64,GRAND_SLAM,MS,785,Main Draw,CHO Eonrae (KOR),CAI Xiaoli (SGP),CHO Eonrae
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SAMSONOV Vladimir,MENGE Gencay,4,0,"11,11,11,11|5,8,5,4",R64,GRAND_SLAM,MS,785,Main Draw,SAMSONOV Vladimir (BLR),MENGE Gencay (TUR),SAMSONOV Vladimir
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GAO Ning,JANCARIK Lubomir,4,0,"11,11,11,11|9,7,8,8",R64,GRAND_SLAM,MS,785,Main Draw,GAO Ning (SGP),JANCARIK Lubomir (CZE),GAO Ning
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ZHANG Jike,JIANG Tianyi,4,0,"11,11,11,11|5,5,8,5",R64,GRAND_SLAM,MS,785,Main Draw,ZHANG Jike (CHN),JIANG Tianyi (HKG),ZHANG Jike
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHEN Weixing,LIVENTSOV Alexey,4,0,"11,11,11,11|8,7,8,7",R64,GRAND_SLAM,MS,785,Main Draw,CHEN Weixing (AUT),LIVENTSOV Alexey (RUS),CHEN Weixing
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SMIRNOV Alexey,SEO Younggyun,4,2,"11,7,12,11,11,11|4,11,10,13,9,7",R64,GRAND_SLAM,MS,785,Main Draw,SMIRNOV Alexey (RUS),SEO Younggyun (KOR),SMIRNOV Alexey
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SCHLAGER Werner,ZENG Cem,4,3,"11,8,8,2,11,11,11|3,11,11,11,9,8,9",R64,GRAND_SLAM,MS,785,Main Draw,SCHLAGER Werner (AUT),ZENG Cem (TUR),SCHLAGER Werner
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MONTEIRO Thiago,WU Chih-Chi,4,1,"5,11,11,11,11|11,8,7,4,2",R64,GRAND_SLAM,MS,785,Main Draw,MONTEIRO Thiago (BRA),WU Chih-Chi (TPE),MONTEIRO Thiago
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,YANG Zi,SKACHKOV Kirill,4,0,"11,11,11,11|6,2,8,8",R64,GRAND_SLAM,MS,785,Main Draw,YANG Zi (SGP),SKACHKOV Kirill (RUS),YANG Zi
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MA Long,JABER Lutfi,4,0,"11,11,11,11|2,5,6,8",R64,GRAND_SLAM,MS,785,Main Draw,MA Long (CHN),JABER Lutfi (JOR),MA Long
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WANG Liqin,ANDRIANOV Sergei,4,0,"11,11,11,13|4,3,5,11",R64,GRAND_SLAM,MS,785,Main Draw,WANG Liqin (CHN),ANDRIANOV Sergei (RUS),WANG Liqin
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LEGOUT Christophe,SALEH Ahmed,4,1,"11,11,10,11,12|4,8,12,6,10",R64,GRAND_SLAM,MS,785,Main Draw,LEGOUT Christophe (FRA),SALEH Ahmed (EGY),LEGOUT Christophe
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LEE Jinkwon,KUZMIN Fedor,4,2,"13,11,10,11,5,14|11,5,12,7,11,12",R64,GRAND_SLAM,MS,785,Main Draw,LEE Jinkwon (KOR),KUZMIN Fedor (RUS),LEE Jinkwon
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MAZE Michael,NAGY Krisztian,4,1,"11,12,11,11,13|9,14,3,3,11",R64,GRAND_SLAM,MS,785,Main Draw,MAZE Michael (DEN),NAGY Krisztian (HUN),MAZE Michael
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LI Ching,FEGERL Stefan,4,0,"11,11,11,11|9,7,8,7",R64,GRAND_SLAM,MS,785,Main Draw,LI Ching (HKG),FEGERL Stefan (AUT),LI Ching
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,YOON Jaeyoung,HABESOHN Daniel,4,1,"8,11,11,11,11|11,9,6,4,5",R64,GRAND_SLAM,MS,785,Main Draw,YOON Jaeyoung (KOR),HABESOHN Daniel (AUT),YOON Jaeyoung
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHOI Hyunjin,LUNDQVIST Jens,4,3,"6,11,5,11,6,11,12|11,7,11,9,11,7,10",R64,GRAND_SLAM,MS,785,Main Draw,CHOI Hyunjin (KOR),LUNDQVIST Jens (SWE),CHOI Hyunjin
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,RYU Seungmin,AL-ABBAD Abdulaziz,4,0,"11,11,11,11|7,6,7,4",R64,GRAND_SLAM,MS,785,Main Draw,RYU Seungmin (KOR),AL-ABBAD Abdulaziz (KSA),RYU Seungmin
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHEN Qi,PISTEJ Lubomir,4,0,"11,11,11,11|7,6,6,2",R64,GRAND_SLAM,MS,785,Main Draw,CHEN Qi (CHN),PISTEJ Lubomir (SVK),CHEN Qi
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LEE Jungsam,TANG Peng,4,1,"11,4,12,11,11|4,11,10,9,7",R64,GRAND_SLAM,MS,785,Main Draw,LEE Jungsam (KOR),TANG Peng (HKG),LEE Jungsam
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LIU Zhongze,LIM Jaehyun,4,1,"13,11,7,11,13|11,6,11,8,11",R64,GRAND_SLAM,MS,785,Main Draw,LIU Zhongze (SGP),LIM Jaehyun (KOR),LIU Zhongze
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHUANG Chih-Yuan,STETSENKO Alexander,4,0,"11,11,11,11|5,8,8,7",R64,GRAND_SLAM,MS,785,Main Draw,CHUANG Chih-Yuan (TPE),STETSENKO Alexander (RUS),CHUANG Chih-Yuan
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JOO Saehyuk,KATKOV Ivan,4,0,"11,11,12,11|8,9,10,7",R64,GRAND_SLAM,MS,785,Main Draw,JOO Saehyuk (KOR),KATKOV Ivan (UKR),JOO Saehyuk
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LEE Jungwoo,LASHIN Elsayed,4,1,"11,8,11,11,11|6,11,2,4,8",R64,GRAND_SLAM,MS,785,Main Draw,LEE Jungwoo (KOR),LASHIN Elsayed (EGY),LEE Jungwoo
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,AL-HASAN Ibrahem,KONECNY Tomas,4,1,"11,12,8,11,11|9,10,11,8,9",R64,GRAND_SLAM,MS,785,Main Draw,AL-HASAN Ibrahem (KUW),KONECNY Tomas (CZE),AL-HASAN Ibrahem
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MA Lin,JIANG Pengfei,4,0,"11,11,11,11|6,7,3,7",R64,GRAND_SLAM,MS,785,Main Draw,MA Lin (CHN),JIANG Pengfei (TUR),MA Lin
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WANG Hao,KEEN Trinko,4,1,"11,11,6,11,15|8,6,11,6,13",R32,GRAND_SLAM,MS,785,Main Draw,WANG Hao (CHN),KEEN Trinko (NED),WANG Hao
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KO Lai Chak,SAIVE Jean-Michel,4,0,"11,13,11,11|7,11,4,7",R32,GRAND_SLAM,MS,785,Main Draw,KO Lai Chak (HKG),SAIVE Jean-Michel (BEL),KO Lai Chak
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KIM Junghoon,OVTCHAROV Dimitrij,4,3,"15,7,4,12,7,18,11|13,11,11,10,11,16,7",R32,GRAND_SLAM,MS,785,Main Draw,KIM Junghoon (KOR),OVTCHAROV Dimitrij (GER),KIM Junghoon
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SAMSONOV Vladimir,CHO Eonrae,4,0,"11,11,11,11|2,9,5,5",R32,GRAND_SLAM,MS,785,Main Draw,SAMSONOV Vladimir (BLR),CHO Eonrae (KOR),SAMSONOV Vladimir
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ZHANG Jike,GAO Ning,4,0,"11,11,11,11|8,5,6,7",R32,GRAND_SLAM,MS,785,Main Draw,ZHANG Jike (CHN),GAO Ning (SGP),ZHANG Jike
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHEN Weixing,SMIRNOV Alexey,4,1,"2,11,11,11,11|11,5,2,3,7",R32,GRAND_SLAM,MS,785,Main Draw,CHEN Weixing (AUT),SMIRNOV Alexey (RUS),CHEN Weixing
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SCHLAGER Werner,MONTEIRO Thiago,4,1,"11,11,9,18,11|7,8,11,16,7",R32,GRAND_SLAM,MS,785,Main Draw,SCHLAGER Werner (AUT),MONTEIRO Thiago (BRA),SCHLAGER Werner
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MA Long,YANG Zi,4,1,"11,11,11,8,11|6,5,5,11,6",R32,GRAND_SLAM,MS,785,Main Draw,MA Long (CHN),YANG Zi (SGP),MA Long
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LEGOUT Christophe,WANG Liqin,4,3,"11,6,4,16,2,11,11|9,11,11,14,11,6,5",R32,GRAND_SLAM,MS,785,Main Draw,LEGOUT Christophe (FRA),WANG Liqin (CHN),LEGOUT Christophe
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MAZE Michael,LEE Jinkwon,4,1,"9,11,11,11,12|11,3,9,9,10",R32,GRAND_SLAM,MS,785,Main Draw,MAZE Michael (DEN),LEE Jinkwon (KOR),MAZE Michael
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,YOON Jaeyoung,LI Ching,4,1,"5,11,11,11,11|11,6,8,3,8",R32,GRAND_SLAM,MS,785,Main Draw,YOON Jaeyoung (KOR),LI Ching (HKG),YOON Jaeyoung
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,RYU Seungmin,CHOI Hyunjin,4,1,"11,11,11,9,11|4,8,6,11,6",R32,GRAND_SLAM,MS,785,Main Draw,RYU Seungmin (KOR),CHOI Hyunjin (KOR),RYU Seungmin
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHEN Qi,LEE Jungsam,4,1,"11,11,9,11,11|9,4,11,4,8",R32,GRAND_SLAM,MS,785,Main Draw,CHEN Qi (CHN),LEE Jungsam (KOR),CHEN Qi
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHUANG Chih-Yuan,LIU Zhongze,4,1,"11,8,11,13,11|8,11,4,11,9",R32,GRAND_SLAM,MS,785,Main Draw,CHUANG Chih-Yuan (TPE),LIU Zhongze (SGP),CHUANG Chih-Yuan
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JOO Saehyuk,LEE Jungwoo,4,1,"11,16,9,11,11|5,14,11,5,4",R32,GRAND_SLAM,MS,785,Main Draw,JOO Saehyuk (KOR),LEE Jungwoo (KOR),JOO Saehyuk
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MA Lin,AL-HASAN Ibrahem,4,0,"11,11,11,11|1,5,6,1",R32,GRAND_SLAM,MS,785,Main Draw,MA Lin (CHN),AL-HASAN Ibrahem (KUW),MA Lin
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WANG Hao,KO Lai Chak,4,1,"11,11,8,11,11|8,5,11,6,5",R16,GRAND_SLAM,MS,785,Main Draw,WANG Hao (CHN),KO Lai Chak (HKG),WANG Hao
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SAMSONOV Vladimir,KIM Junghoon,4,2,"9,5,14,11,11,11|11,11,12,4,6,6",R16,GRAND_SLAM,MS,785,Main Draw,SAMSONOV Vladimir (BLR),KIM Junghoon (KOR),SAMSONOV Vladimir
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHEN Weixing,ZHANG Jike,4,3,"9,6,7,13,11,14,11|11,11,11,11,9,12,8",R16,GRAND_SLAM,MS,785,Main Draw,CHEN Weixing (AUT),ZHANG Jike (CHN),CHEN Weixing
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MA Long,SCHLAGER Werner,4,2,"11,11,9,11,9,11|6,6,11,3,11,3",R16,GRAND_SLAM,MS,785,Main Draw,MA Long (CHN),SCHLAGER Werner (AUT),MA Long
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MAZE Michael,LEGOUT Christophe,4,0,"11,11,11,12|9,4,9,10",R16,GRAND_SLAM,MS,785,Main Draw,MAZE Michael (DEN),LEGOUT Christophe (FRA),MAZE Michael
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,YOON Jaeyoung,RYU Seungmin,4,3,"5,9,11,11,11,10,12|11,11,6,9,6,12,10",R16,GRAND_SLAM,MS,785,Main Draw,YOON Jaeyoung (KOR),RYU Seungmin (KOR),YOON Jaeyoung
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHEN Qi,CHUANG Chih-Yuan,4,0,"11,11,11,11|6,5,7,4",R16,GRAND_SLAM,MS,785,Main Draw,CHEN Qi (CHN),CHUANG Chih-Yuan (TPE),CHEN Qi
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JOO Saehyuk,MA Lin,4,3,"16,11,11,7,5,11,11|14,9,13,11,11,8,6",R16,GRAND_SLAM,MS,785,Main Draw,JOO Saehyuk (KOR),MA Lin (CHN),JOO Saehyuk
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SAMSONOV Vladimir,WANG Hao,4,1,"11,11,11,6,11|7,7,6,11,9",QF,GRAND_SLAM,MS,785,Main Draw,SAMSONOV Vladimir (BLR),WANG Hao (CHN),SAMSONOV Vladimir
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MA Long,CHEN Weixing,4,0,"11,11,12,11|6,6,10,6",QF,GRAND_SLAM,MS,785,Main Draw,MA Long (CHN),CHEN Weixing (AUT),MA Long
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,YOON Jaeyoung,MAZE Michael,4,3,"4,11,11,12,8,8,11|11,9,6,10,11,11,8",QF,GRAND_SLAM,MS,785,Main Draw,YOON Jaeyoung (KOR),MAZE Michael (DEN),YOON Jaeyoung
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHEN Qi,JOO Saehyuk,4,2,"11,4,12,10,11,11|7,11,10,12,9,4",QF,GRAND_SLAM,MS,785,Main Draw,CHEN Qi (CHN),JOO Saehyuk (KOR),CHEN Qi
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SAMSONOV Vladimir,MA Long,4,3,"7,4,11,11,9,11,11|11,11,8,8,11,9,8",SF,GRAND_SLAM,MS,785,Main Draw,SAMSONOV Vladimir (BLR),MA Long (CHN),SAMSONOV Vladimir
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHEN Qi,YOON Jaeyoung,4,3,"11,8,11,11,10,15,11|6,11,9,2,12,17,9",SF,GRAND_SLAM,MS,785,Main Draw,CHEN Qi (CHN),YOON Jaeyoung (KOR),CHEN Qi
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SAMSONOV Vladimir,CHEN Qi,4,0,"12,14,11,11|10,12,7,4",F,GRAND_SLAM,MS,785,Main Draw,SAMSONOV Vladimir (BLR),CHEN Qi (CHN),SAMSONOV Vladimir
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LEE Jinkwon,FEGERL Stefan,4,2,"8,14,10,12,11,13|11,12,12,10,8,11",R16,GRAND_SLAM,U21MS,785,Main Draw,LEE Jinkwon (KOR),FEGERL Stefan (AUT),LEE Jinkwon
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KOU Lei,JIANG Pengfei,4,2,"11,11,8,8,11,11|4,8,11,11,7,6",R16,GRAND_SLAM,U21MS,785,Main Draw,KOU Lei (UKR),JIANG Pengfei (TUR),KOU Lei
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JANCARIK Lubomir,OMAR Rashid,4,0,"11,11,11,11|6,7,6,9",R16,GRAND_SLAM,U21MS,785,Main Draw,JANCARIK Lubomir (CZE),OMAR Rashid (UAE),JANCARIK Lubomir
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MA Liang,PAIKOV Mikhail,4,3,"11,10,11,13,6,11,11|4,12,9,15,11,5,6",R16,GRAND_SLAM,U21MS,785,Main Draw,MA Liang (SGP),PAIKOV Mikhail (RUS),MA Liang
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LIU Zhongze,NAGY Krisztian,4,2,"8,8,11,11,11,11|11,11,8,7,1,5",R16,GRAND_SLAM,U21MS,785,Main Draw,LIU Zhongze (SGP),NAGY Krisztian (HUN),LIU Zhongze
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,HAN Jimin,ALHAJJAI Waled Nasser,4,1,"11,11,7,11,11|4,5,11,8,4",R16,GRAND_SLAM,U21MS,785,Main Draw,HAN Jimin (KOR),ALHAJJAI Waled Nasser (QAT),HAN Jimin
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,FENG Xiaoquan,OBESLO Michal,4,1,"13,11,5,11,12|11,8,11,5,10",R16,GRAND_SLAM,U21MS,785,Main Draw,FENG Xiaoquan (AUT),OBESLO Michal (CZE),FENG Xiaoquan
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SKACHKOV Kirill,GUO Yi Teng,4,1,"11,9,11,11,11|9,11,6,8,8",R16,GRAND_SLAM,U21MS,785,Main Draw,SKACHKOV Kirill (RUS),GUO Yi Teng (SGP),SKACHKOV Kirill
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LEE Jinkwon,KOU Lei,4,2,"11,11,7,4,11,11|7,5,11,11,8,6",QF,GRAND_SLAM,U21MS,785,Main Draw,LEE Jinkwon (KOR),KOU Lei (UKR),LEE Jinkwon
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JANCARIK Lubomir,MA Liang,4,1,"11,6,12,11,12|9,11,10,3,10",QF,GRAND_SLAM,U21MS,785,Main Draw,JANCARIK Lubomir (CZE),MA Liang (SGP),JANCARIK Lubomir
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LIU Zhongze,HAN Jimin,4,3,"11,7,7,11,13,8,11|7,11,11,7,11,11,7",QF,GRAND_SLAM,U21MS,785,Main Draw,LIU Zhongze (SGP),HAN Jimin (KOR),LIU Zhongze
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,FENG Xiaoquan,SKACHKOV Kirill,4,2,"8,12,3,12,11,11|11,10,11,10,5,5",QF,GRAND_SLAM,U21MS,785,Main Draw,FENG Xiaoquan (AUT),SKACHKOV Kirill (RUS),FENG Xiaoquan
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JANCARIK Lubomir,LEE Jinkwon,4,3,"7,6,11,11,11,7,11|11,11,7,7,8,11,9",SF,GRAND_SLAM,U21MS,785,Main Draw,JANCARIK Lubomir (CZE),LEE Jinkwon (KOR),JANCARIK Lubomir
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LIU Zhongze,FENG Xiaoquan,4,0,"11,11,11,11|2,5,4,4",SF,GRAND_SLAM,U21MS,785,Main Draw,LIU Zhongze (SGP),FENG Xiaoquan (AUT),LIU Zhongze
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LIU Zhongze,JANCARIK Lubomir,4,1,"11,11,11,8,12|6,5,4,11,10",F,GRAND_SLAM,U21MS,785,Main Draw,LIU Zhongze (SGP),JANCARIK Lubomir (CZE),LIU Zhongze
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MONTEIRO Thiago,BUBA Ondrej,4,1,"10,14,11,11,11|12,12,6,4,2",,GRAND_SLAM,MS,785,Qualification,MONTEIRO Thiago (BRA),BUBA Ondrej (CZE),MONTEIRO Thiago
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MONTEIRO Thiago,MENGE Gencay,4,0,"11,11,11,11|7,7,2,7",,GRAND_SLAM,MS,785,Qualification,MONTEIRO Thiago (BRA),MENGE Gencay (TUR),MONTEIRO Thiago
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MENGE Gencay,BUBA Ondrej,4,1,"11,8,11,11,11|9,11,6,8,7",,GRAND_SLAM,MS,785,Qualification,MENGE Gencay (TUR),BUBA Ondrej (CZE),MENGE Gencay
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WU Chih-Chi,AL-HASAN Ali,4,0,"11,11,11,11|6,7,3,9",,GRAND_SLAM,MS,785,Qualification,WU Chih-Chi (TPE),AL-HASAN Ali (KUW),WU Chih-Chi
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WU Chih-Chi,OMAR Rashid,4,1,"11,5,11,11,11|3,11,4,4,6",,GRAND_SLAM,MS,785,Qualification,WU Chih-Chi (TPE),OMAR Rashid (UAE),WU Chih-Chi
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,OMAR Rashid,AL-HASAN Ali,4,2,"9,9,11,11,11,11|11,11,3,5,8,5",,GRAND_SLAM,MS,785,Qualification,OMAR Rashid (UAE),AL-HASAN Ali (KUW),OMAR Rashid
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LEE Jungsam,EL HABECH Mohamad,4,1,"7,11,11,11,11|11,5,5,6,7",,GRAND_SLAM,MS,785,Qualification,LEE Jungsam (KOR),EL HABECH Mohamad (LBN),LEE Jungsam
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LEE Jungsam,OBESLO Michal,4,3,"8,12,5,6,12,11,11|11,10,11,11,10,6,4",,GRAND_SLAM,MS,785,Qualification,LEE Jungsam (KOR),OBESLO Michal (CZE),LEE Jungsam
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,OBESLO Michal,EL HABECH Mohamad,4,1,"11,19,11,9,11|5,17,9,11,6",,GRAND_SLAM,MS,785,Qualification,OBESLO Michal (CZE),EL HABECH Mohamad (LBN),OBESLO Michal
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,RUBTSOV Igor,MOHED Osama,4,0,,,GRAND_SLAM,MS,785,Qualification,RUBTSOV Igor (RUS),MOHED Osama (SUD),RUBTSOV Igor
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,RUBTSOV Igor,AL-HARBI Khaled,4,0,"11,11,11,11|6,1,9,0",,GRAND_SLAM,MS,785,Qualification,RUBTSOV Igor (RUS),AL-HARBI Khaled (KSA),RUBTSOV Igor
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,AL-HARBI Khaled,MOHED Osama,4,0,,,GRAND_SLAM,MS,785,Qualification,AL-HARBI Khaled (KSA),MOHED Osama (SUD),AL-HARBI Khaled
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHOI Hyunjin,EL BOUBOU Rachid,4,0,"11,11,11,11|7,2,8,4",,GRAND_SLAM,MS,785,Qualification,CHOI Hyunjin (KOR),EL BOUBOU Rachid (LBN),CHOI Hyunjin
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHOI Hyunjin,KLEPRLIK Michal,4,0,"11,11,11,11|8,6,7,8",,GRAND_SLAM,MS,785,Qualification,CHOI Hyunjin (KOR),KLEPRLIK Michal (CZE),CHOI Hyunjin
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KLEPRLIK Michal,EL BOUBOU Rachid,4,1,"11,11,12,10,11|7,4,10,12,2",,GRAND_SLAM,MS,785,Qualification,KLEPRLIK Michal (CZE),EL BOUBOU Rachid (LBN),KLEPRLIK Michal
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PISTEJ Lubomir,AL-KANDRI Ali,4,0,"11,11,12,11|7,4,10,5",,GRAND_SLAM,MS,785,Qualification,PISTEJ Lubomir (SVK),AL-KANDRI Ali (KUW),PISTEJ Lubomir
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,NAGY Krisztian,PISTEJ Lubomir,4,3,"5,9,11,11,9,11,11|11,11,6,5,11,5,9",,GRAND_SLAM,MS,785,Qualification,NAGY Krisztian (HUN),PISTEJ Lubomir (SVK),NAGY Krisztian
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,NAGY Krisztian,AL-KANDRI Ali,4,1,"11,10,11,11,11|9,12,8,8,3",,GRAND_SLAM,MS,785,Qualification,NAGY Krisztian (HUN),AL-KANDRI Ali (KUW),NAGY Krisztian
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LEE Jinkwon,AL-MOHANNADI Ahmad Khalil,4,1,"11,11,11,8,11|8,8,3,11,8",,GRAND_SLAM,MS,785,Qualification,LEE Jinkwon (KOR),AL-MOHANNADI Ahmad Khalil (QAT),LEE Jinkwon
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LEE Jinkwon,AL-ABBAD Abdulaziz,4,0,"11,11,11,11|9,8,4,4",,GRAND_SLAM,MS,785,Qualification,LEE Jinkwon (KOR),AL-ABBAD Abdulaziz (KSA),LEE Jinkwon
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,AL-ABBAD Abdulaziz,AL-MOHANNADI Ahmad Khalil,4,1,"11,11,8,11,11|8,7,11,7,4",,GRAND_SLAM,MS,785,Qualification,AL-ABBAD Abdulaziz (KSA),AL-MOHANNADI Ahmad Khalil (QAT),AL-ABBAD Abdulaziz
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SALEH Ahmed,ALHAJJAI Waled Nasser,4,1,"11,11,12,11,11|5,6,14,6,3",,GRAND_SLAM,MS,785,Qualification,SALEH Ahmed (EGY),ALHAJJAI Waled Nasser (QAT),SALEH Ahmed
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SALEH Ahmed,STETSENKO Alexander,4,3,"8,4,11,11,9,11,11|11,11,8,8,11,6,5",,GRAND_SLAM,MS,785,Qualification,SALEH Ahmed (EGY),STETSENKO Alexander (RUS),SALEH Ahmed
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,STETSENKO Alexander,ALHAJJAI Waled Nasser,4,1,"11,11,7,11,11|9,6,11,5,5",,GRAND_SLAM,MS,785,Qualification,STETSENKO Alexander (RUS),ALHAJJAI Waled Nasser (QAT),STETSENKO Alexander
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SKACHKOV Kirill,ALEM Mansor,4,0,"18,11,11,11|16,9,3,9",,GRAND_SLAM,MS,785,Qualification,SKACHKOV Kirill (RUS),ALEM Mansor (KSA),SKACHKOV Kirill
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SKACHKOV Kirill,JIANG Pengfei,4,1,"9,11,11,11,11|11,8,9,6,3",,GRAND_SLAM,MS,785,Qualification,SKACHKOV Kirill (RUS),JIANG Pengfei (TUR),SKACHKOV Kirill
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JIANG Pengfei,ALEM Mansor,4,0,"11,11,11,11|6,6,9,7",,GRAND_SLAM,MS,785,Qualification,JIANG Pengfei (TUR),ALEM Mansor (KSA),JIANG Pengfei
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LIVENTSOV Alexey,HASSAN Rashed,4,0,"11,11,11,12|8,6,8,10",,GRAND_SLAM,MS,785,Qualification,LIVENTSOV Alexey (RUS),HASSAN Rashed (UAE),LIVENTSOV Alexey
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LIVENTSOV Alexey,FEGERL Stefan,4,2,"4,9,11,11,11,11|11,11,4,5,9,8",,GRAND_SLAM,MS,785,Qualification,LIVENTSOV Alexey (RUS),FEGERL Stefan (AUT),LIVENTSOV Alexey
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,FEGERL Stefan,HASSAN Rashed,4,0,"11,12,11,11|4,10,8,7",,GRAND_SLAM,MS,785,Qualification,FEGERL Stefan (AUT),HASSAN Rashed (UAE),FEGERL Stefan
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LASHIN Elsayed,AL-ENEZY Mansour,4,1,"11,7,11,11,11|9,11,6,9,9",,GRAND_SLAM,MS,785,Qualification,LASHIN Elsayed (EGY),AL-ENEZY Mansour (KUW),LASHIN Elsayed
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LASHIN Elsayed,BUROV Viacheslav,4,3,"11,7,11,13,11,10,14|1,11,13,11,7,12,12",,GRAND_SLAM,MS,785,Qualification,LASHIN Elsayed (EGY),BUROV Viacheslav (RUS),LASHIN Elsayed
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,BUROV Viacheslav,AL-ENEZY Mansour,4,1,"14,11,8,11,11|12,4,11,6,3",,GRAND_SLAM,MS,785,Qualification,BUROV Viacheslav (RUS),AL-ENEZY Mansour (KUW),BUROV Viacheslav
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ANDRIANOV Sergei,EL-JETIL Ahmed Lotfi,4,0,,,GRAND_SLAM,MS,785,Qualification,ANDRIANOV Sergei (RUS),EL-JETIL Ahmed Lotfi (LBA),ANDRIANOV Sergei
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SEO Younggyun,ALDMAISY Odai,4,0,"11,11,11,11|6,6,4,4",,GRAND_SLAM,MS,785,Qualification,SEO Younggyun (KOR),ALDMAISY Odai (JOR),SEO Younggyun
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SEO Younggyun,ANDRIANOV Sergei,4,3,"11,6,6,8,11,11,11|8,11,11,11,5,8,6",,GRAND_SLAM,MS,785,Qualification,SEO Younggyun (KOR),ANDRIANOV Sergei (RUS),SEO Younggyun
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ALDMAISY Odai,EL-JETIL Ahmed Lotfi,4,0,,,GRAND_SLAM,MS,785,Qualification,ALDMAISY Odai (JOR),EL-JETIL Ahmed Lotfi (LBA),ALDMAISY Odai
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ANDRIANOV Sergei,ALDMAISY Odai,4,0,"11,11,11,11|3,6,3,2",,GRAND_SLAM,MS,785,Qualification,ANDRIANOV Sergei (RUS),ALDMAISY Odai (JOR),ANDRIANOV Sergei
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SEO Younggyun,EL-JETIL Ahmed Lotfi,4,0,,,GRAND_SLAM,MS,785,Qualification,SEO Younggyun (KOR),EL-JETIL Ahmed Lotfi (LBA),SEO Younggyun
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CAI Xiaoli,BAKEER Yazan,4,0,"11,11,11,11|4,4,5,2",,GRAND_SLAM,MS,785,Qualification,CAI Xiaoli (SGP),BAKEER Yazan (JOR),CAI Xiaoli
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,TAVUKCUOGLU Irfan,ISMAIL Hamid,4,0,,,GRAND_SLAM,MS,785,Qualification,TAVUKCUOGLU Irfan (TUR),ISMAIL Hamid (UAE),TAVUKCUOGLU Irfan
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CAI Xiaoli,TAVUKCUOGLU Irfan,4,1,"11,11,11,9,11|3,4,4,11,7",,GRAND_SLAM,MS,785,Qualification,CAI Xiaoli (SGP),TAVUKCUOGLU Irfan (TUR),CAI Xiaoli
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,BAKEER Yazan,ISMAIL Hamid,4,0,,,GRAND_SLAM,MS,785,Qualification,BAKEER Yazan (JOR),ISMAIL Hamid (UAE),BAKEER Yazan
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CAI Xiaoli,ISMAIL Hamid,4,0,,,GRAND_SLAM,MS,785,Qualification,CAI Xiaoli (SGP),ISMAIL Hamid (UAE),CAI Xiaoli
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,TAVUKCUOGLU Irfan,BAKEER Yazan,4,0,"11,11,11,11|2,7,6,3",,GRAND_SLAM,MS,785,Qualification,TAVUKCUOGLU Irfan (TUR),BAKEER Yazan (JOR),TAVUKCUOGLU Irfan
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,HABESOHN Daniel,ELHEBSHI Mohamed,4,0,,,GRAND_SLAM,MS,785,Qualification,HABESOHN Daniel (AUT),ELHEBSHI Mohamed (LBA),HABESOHN Daniel
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GUO Yi Teng,AL-SANADI Salah,4,1,"11,11,9,11,11|3,8,11,8,3",,GRAND_SLAM,MS,785,Qualification,GUO Yi Teng (SGP),AL-SANADI Salah (QAT),GUO Yi Teng
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,HABESOHN Daniel,GUO Yi Teng,4,1,"11,15,6,11,12|5,13,11,8,10",,GRAND_SLAM,MS,785,Qualification,HABESOHN Daniel (AUT),GUO Yi Teng (SGP),HABESOHN Daniel
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,AL-SANADI Salah,ELHEBSHI Mohamed,4,0,,,GRAND_SLAM,MS,785,Qualification,AL-SANADI Salah (QAT),ELHEBSHI Mohamed (LBA),AL-SANADI Salah
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,HABESOHN Daniel,AL-SANADI Salah,4,0,"11,11,11,11|7,4,3,4",,GRAND_SLAM,MS,785,Qualification,HABESOHN Daniel (AUT),AL-SANADI Salah (QAT),HABESOHN Daniel
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GUO Yi Teng,ELHEBSHI Mohamed,4,0,,,GRAND_SLAM,MS,785,Qualification,GUO Yi Teng (SGP),ELHEBSHI Mohamed (LBA),GUO Yi Teng
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MA Liang,LINJAWI Jassem,4,0,"11,11,11,11|5,2,8,1",,GRAND_SLAM,MS,785,Qualification,MA Liang (SGP),LINJAWI Jassem (UAE),MA Liang
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PAIKOV Mikhail,ABO YAMAN Zaid,4,1,"11,11,11,9,11|7,4,2,11,9",,GRAND_SLAM,MS,785,Qualification,PAIKOV Mikhail (RUS),ABO YAMAN Zaid (JOR),PAIKOV Mikhail
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LINJAWI Jassem,ABO YAMAN Zaid,4,2,"11,11,5,11,8,11|3,6,11,9,11,9",,GRAND_SLAM,MS,785,Qualification,LINJAWI Jassem (UAE),ABO YAMAN Zaid (JOR),LINJAWI Jassem
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MA Liang,ABO YAMAN Zaid,4,0,"11,11,11,11|4,3,3,4",,GRAND_SLAM,MS,785,Qualification,MA Liang (SGP),ABO YAMAN Zaid (JOR),MA Liang
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PAIKOV Mikhail,LINJAWI Jassem,4,0,"11,11,11,11|7,7,5,3",,GRAND_SLAM,MS,785,Qualification,PAIKOV Mikhail (RUS),LINJAWI Jassem (UAE),PAIKOV Mikhail
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ZHANG Jike,ZENG Cem,4,1,"11,11,8,11,11|8,4,11,6,6",,GRAND_SLAM,MS,785,Qualification,ZHANG Jike (CHN),ZENG Cem (TUR),ZHANG Jike
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,FENG Xiaoquan,EL-ARBI Mohamed Musbah,4,0,,,GRAND_SLAM,MS,785,Qualification,FENG Xiaoquan (AUT),EL-ARBI Mohamed Musbah (LBA),FENG Xiaoquan
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ZENG Cem,FENG Xiaoquan,4,3,"11,10,9,11,8,11,12|5,12,11,7,11,8,10",,GRAND_SLAM,MS,785,Qualification,ZENG Cem (TUR),FENG Xiaoquan (AUT),ZENG Cem
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ZHANG Jike,EL-ARBI Mohamed Musbah,4,0,,,GRAND_SLAM,MS,785,Qualification,ZHANG Jike (CHN),EL-ARBI Mohamed Musbah (LBA),ZHANG Jike
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ZENG Cem,EL-ARBI Mohamed Musbah,4,0,,,GRAND_SLAM,MS,785,Qualification,ZENG Cem (TUR),EL-ARBI Mohamed Musbah (LBA),ZENG Cem
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ZHANG Jike,FENG Xiaoquan,4,1,"11,11,11,7,11|3,9,9,11,8",,GRAND_SLAM,MS,785,Qualification,ZHANG Jike (CHN),FENG Xiaoquan (AUT),ZHANG Jike
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,TSUBOI Gustavo,LARIFI Hisham,4,0,,,GRAND_SLAM,MS,785,Qualification,TSUBOI Gustavo (BRA),LARIFI Hisham (LBA),TSUBOI Gustavo
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,HAN Jimin,PLEVA Radek,4,0,"11,11,11,11|5,4,8,4",,GRAND_SLAM,MS,785,Qualification,HAN Jimin (KOR),PLEVA Radek (CZE),HAN Jimin
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,HAN Jimin,TSUBOI Gustavo,4,0,"11,11,12,11|6,8,10,5",,GRAND_SLAM,MS,785,Qualification,HAN Jimin (KOR),TSUBOI Gustavo (BRA),HAN Jimin
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PLEVA Radek,LARIFI Hisham,4,0,,,GRAND_SLAM,MS,785,Qualification,PLEVA Radek (CZE),LARIFI Hisham (LBA),PLEVA Radek
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,TSUBOI Gustavo,PLEVA Radek,4,0,"11,11,11,11|7,6,6,9",,GRAND_SLAM,MS,785,Qualification,TSUBOI Gustavo (BRA),PLEVA Radek (CZE),TSUBOI Gustavo
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,HAN Jimin,LARIFI Hisham,4,0,,,GRAND_SLAM,MS,785,Qualification,HAN Jimin (KOR),LARIFI Hisham (LBA),HAN Jimin
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LIU Zhongze,AL-JADAI Naif,4,0,"11,11,11,11|4,9,5,4",,GRAND_SLAM,MS,785,Qualification,LIU Zhongze (SGP),AL-JADAI Naif (KSA),LIU Zhongze
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JANCARIK Lubomir,ASHOOR Mohammed,4,1,"10,11,11,11,11|12,4,8,7,7",,GRAND_SLAM,MS,785,Qualification,JANCARIK Lubomir (CZE),ASHOOR Mohammed (KUW),JANCARIK Lubomir
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,AL-JADAI Naif,ASHOOR Mohammed,4,2,"11,6,11,11,9,11|5,11,9,7,11,2",,GRAND_SLAM,MS,785,Qualification,AL-JADAI Naif (KSA),ASHOOR Mohammed (KUW),AL-JADAI Naif
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LIU Zhongze,ASHOOR Mohammed,4,0,"11,11,11,11|4,3,6,5",,GRAND_SLAM,MS,785,Qualification,LIU Zhongze (SGP),ASHOOR Mohammed (KUW),LIU Zhongze
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JANCARIK Lubomir,AL-JADAI Naif,4,0,"11,11,12,11|5,6,10,2",,GRAND_SLAM,MS,785,Qualification,JANCARIK Lubomir (CZE),AL-JADAI Naif (KSA),JANCARIK Lubomir
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KONECNY Tomas,ABUSHUWASHI Adir,4,0,,,GRAND_SLAM,MS,785,Qualification,KONECNY Tomas (CZE),ABUSHUWASHI Adir (LBA),KONECNY Tomas
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KATKOV Ivan,AL-HASAN Salem,4,0,"11,12,11,11|9,10,5,9",,GRAND_SLAM,MS,785,Qualification,KATKOV Ivan (UKR),AL-HASAN Salem (KUW),KATKOV Ivan
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KONECNY Tomas,KATKOV Ivan,4,3,"11,6,3,11,7,11,11|7,11,11,8,11,8,7",,GRAND_SLAM,MS,785,Qualification,KONECNY Tomas (CZE),KATKOV Ivan (UKR),KONECNY Tomas
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,AL-HASAN Salem,ABUSHUWASHI Adir,4,0,,,GRAND_SLAM,MS,785,Qualification,AL-HASAN Salem (KUW),ABUSHUWASHI Adir (LBA),AL-HASAN Salem
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KONECNY Tomas,AL-HASAN Salem,4,0,"11,11,11,13|7,7,4,11",,GRAND_SLAM,MS,785,Qualification,KONECNY Tomas (CZE),AL-HASAN Salem (KUW),KONECNY Tomas
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KATKOV Ivan,ABUSHUWASHI Adir,4,0,,,GRAND_SLAM,MS,785,Qualification,KATKOV Ivan (UKR),ABUSHUWASHI Adir (LBA),KATKOV Ivan
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JABER Lutfi,KOU Lei,4,0,,,GRAND_SLAM,MS,785,Qualification,JABER Lutfi (JOR),KOU Lei (UKR),JABER Lutfi
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,VOSTES Yannick,EL-TAHIR Abdel-Wahab,4,0,,,GRAND_SLAM,MS,785,Qualification,VOSTES Yannick (BEL),EL-TAHIR Abdel-Wahab (SUD),VOSTES Yannick
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,VOSTES Yannick,KOU Lei,4,2,"11,11,7,9,12,11|4,6,11,11,10,6",,GRAND_SLAM,MS,785,Qualification,VOSTES Yannick (BEL),KOU Lei (UKR),VOSTES Yannick
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JABER Lutfi,EL-TAHIR Abdel-Wahab,4,0,,,GRAND_SLAM,MS,785,Qualification,JABER Lutfi (JOR),EL-TAHIR Abdel-Wahab (SUD),JABER Lutfi
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KOU Lei,EL-TAHIR Abdel-Wahab,4,0,,,GRAND_SLAM,MS,785,Qualification,KOU Lei (UKR),EL-TAHIR Abdel-Wahab (SUD),KOU Lei
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,VOSTES Yannick,JABER Lutfi,4,0,"11,11,11,11|4,4,3,6",,GRAND_SLAM,MS,785,Qualification,VOSTES Yannick (BEL),JABER Lutfi (JOR),VOSTES Yannick
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MENGE Gencay,JABER Lutfi,4,1,"11,11,8,11,11|5,6,11,8,6",QR32,GRAND_SLAM,MS,785,Qualification,MENGE Gencay (TUR),JABER Lutfi (JOR),MENGE Gencay
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KATKOV Ivan,OBESLO Michal,4,3,"13,11,3,11,8,12,11|11,8,11,13,11,10,6",QR32,GRAND_SLAM,MS,785,Qualification,KATKOV Ivan (UKR),OBESLO Michal (CZE),KATKOV Ivan
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,TSUBOI Gustavo,AL-HARBI Khaled,4,0,"11,11,11,11|9,8,4,9",QR32,GRAND_SLAM,MS,785,Qualification,TSUBOI Gustavo (BRA),AL-HARBI Khaled (KSA),TSUBOI Gustavo
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ZENG Cem,KLEPRLIK Michal,4,1,"11,11,14,7,11|9,4,12,11,7",QR32,GRAND_SLAM,MS,785,Qualification,ZENG Cem (TUR),KLEPRLIK Michal (CZE),ZENG Cem
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PISTEJ Lubomir,PAIKOV Mikhail,4,2,"15,11,11,11,8,11|13,9,9,13,11,8",QR32,GRAND_SLAM,MS,785,Qualification,PISTEJ Lubomir (SVK),PAIKOV Mikhail (RUS),PISTEJ Lubomir
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,AL-ABBAD Abdulaziz,GUO Yi Teng,4,1,"11,11,8,12,11|9,8,11,10,6",QR32,GRAND_SLAM,MS,785,Qualification,AL-ABBAD Abdulaziz (KSA),GUO Yi Teng (SGP),AL-ABBAD Abdulaziz
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,STETSENKO Alexander,TAVUKCUOGLU Irfan,4,0,"11,11,11,11|6,8,6,2",QR32,GRAND_SLAM,MS,785,Qualification,STETSENKO Alexander (RUS),TAVUKCUOGLU Irfan (TUR),STETSENKO Alexander
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ANDRIANOV Sergei,JIANG Pengfei,4,1,"11,12,4,11,11|8,10,11,7,4",QR32,GRAND_SLAM,MS,785,Qualification,ANDRIANOV Sergei (RUS),JIANG Pengfei (TUR),ANDRIANOV Sergei
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,FEGERL Stefan,BUROV Viacheslav,4,3,"11,11,8,8,11,7,11|4,8,11,11,9,11,6",QR32,GRAND_SLAM,MS,785,Qualification,FEGERL Stefan (AUT),BUROV Viacheslav (RUS),FEGERL Stefan
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,AL-SANADI Salah,TARABOLSY Ahmed,3,2,"7,13,11,19,11|11,15,8,17,4",,GRAND_SLAM,U21MS,785,Qualification,AL-SANADI Salah (QAT),TARABOLSY Ahmed (SYR),AL-SANADI Salah
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GUO Yi Teng,TARABOLSY Ahmed,3,0,"11,11,11|7,4,4",,GRAND_SLAM,U21MS,785,Qualification,GUO Yi Teng (SGP),TARABOLSY Ahmed (SYR),GUO Yi Teng
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LINJAWI Jassem,BAKEER Yazan,3,1,"11,11,9,11|2,6,11,9",,GRAND_SLAM,U21MS,785,Qualification,LINJAWI Jassem (UAE),BAKEER Yazan (JOR),LINJAWI Jassem
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PAIKOV Mikhail,BAKEER Yazan,3,0,"11,11,11|7,7,5",,GRAND_SLAM,U21MS,785,Qualification,PAIKOV Mikhail (RUS),BAKEER Yazan (JOR),PAIKOV Mikhail
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MOSSLLY Yhya,ASHOOR Mohammed,3,2,"11,11,6,6,11|3,5,11,11,6",,GRAND_SLAM,U21MS,785,Qualification,MOSSLLY Yhya (SYR),ASHOOR Mohammed (KUW),MOSSLLY Yhya
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,FEGERL Stefan,MOSSLLY Yhya,3,0,"11,11,11|6,4,5",,GRAND_SLAM,U21MS,785,Qualification,FEGERL Stefan (AUT),MOSSLLY Yhya (SYR),FEGERL Stefan
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,FEGERL Stefan,ASHOOR Mohammed,3,0,"11,11,11|1,6,5",,GRAND_SLAM,U21MS,785,Qualification,FEGERL Stefan (AUT),ASHOOR Mohammed (KUW),FEGERL Stefan
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,HASSAN Rashed,JABER Lutfi,3,1,"8,11,11,11|11,5,6,7",,GRAND_SLAM,U21MS,785,Qualification,HASSAN Rashed (UAE),JABER Lutfi (JOR),HASSAN Rashed
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JIANG Pengfei,JABER Lutfi,3,0,"11,11,11|8,4,9",,GRAND_SLAM,U21MS,785,Qualification,JIANG Pengfei (TUR),JABER Lutfi (JOR),JIANG Pengfei
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JIANG Pengfei,HASSAN Rashed,3,0,"11,12,11|7,10,1",,GRAND_SLAM,U21MS,785,Qualification,JIANG Pengfei (TUR),HASSAN Rashed (UAE),JIANG Pengfei
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,NAGY Krisztian,AHMED Salem,3,0,"11,11,11|5,0,5",,GRAND_SLAM,U21MS,785,Qualification,NAGY Krisztian (HUN),AHMED Salem (IRQ),NAGY Krisztian
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,AL-HASAN Salem,BUBA Ondrej,3,2,"12,7,4,11,11|10,11,11,7,7",,GRAND_SLAM,U21MS,785,Qualification,AL-HASAN Salem (KUW),BUBA Ondrej (CZE),AL-HASAN Salem
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,NAGY Krisztian,AL-HASAN Salem,3,0,"11,11,11|6,7,7",,GRAND_SLAM,U21MS,785,Qualification,NAGY Krisztian (HUN),AL-HASAN Salem (KUW),NAGY Krisztian
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,BUBA Ondrej,AHMED Salem,3,0,"11,11,11|5,5,6",,GRAND_SLAM,U21MS,785,Qualification,BUBA Ondrej (CZE),AHMED Salem (IRQ),BUBA Ondrej
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,NAGY Krisztian,BUBA Ondrej,3,1,"8,11,11,11|11,6,7,8",,GRAND_SLAM,U21MS,785,Qualification,NAGY Krisztian (HUN),BUBA Ondrej (CZE),NAGY Krisztian
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,AL-HASAN Salem,AHMED Salem,3,0,"11,11,13|4,9,11",,GRAND_SLAM,U21MS,785,Qualification,AL-HASAN Salem (KUW),AHMED Salem (IRQ),AL-HASAN Salem
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ALHAJJAI Waled Nasser,ALDMAISY Odai,3,0,"11,11,11|6,7,9",,GRAND_SLAM,U21MS,785,Qualification,ALHAJJAI Waled Nasser (QAT),ALDMAISY Odai (JOR),ALHAJJAI Waled Nasser
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ALHAJJAI Waled Nasser,ISMAIL Hamid,4,0,,,GRAND_SLAM,U21MS,785,Qualification,ALHAJJAI Waled Nasser (QAT),ISMAIL Hamid (UAE),ALHAJJAI Waled Nasser
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ALDMAISY Odai,ISMAIL Hamid,4,0,,,GRAND_SLAM,U21MS,785,Qualification,ALDMAISY Odai (JOR),ISMAIL Hamid (UAE),ALDMAISY Odai
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,OBESLO Michal,ABUSHUWASHI Adir,4,0,,,GRAND_SLAM,U21MS,785,Qualification,OBESLO Michal (CZE),ABUSHUWASHI Adir (LBA),OBESLO Michal
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,AL-MOHANNADI Ahmad Khalil,ABO YAMAN Zaid,3,1,"11,11,9,13|7,4,11,11",,GRAND_SLAM,U21MS,785,Qualification,AL-MOHANNADI Ahmad Khalil (QAT),ABO YAMAN Zaid (JOR),AL-MOHANNADI Ahmad Khalil
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,OBESLO Michal,ABO YAMAN Zaid,3,0,"11,11,11|5,5,6",,GRAND_SLAM,U21MS,785,Qualification,OBESLO Michal (CZE),ABO YAMAN Zaid (JOR),OBESLO Michal
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,AL-MOHANNADI Ahmad Khalil,ABUSHUWASHI Adir,4,0,,,GRAND_SLAM,U21MS,785,Qualification,AL-MOHANNADI Ahmad Khalil (QAT),ABUSHUWASHI Adir (LBA),AL-MOHANNADI Ahmad Khalil
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,OBESLO Michal,AL-MOHANNADI Ahmad Khalil,3,0,"11,11,11|6,5,6",,GRAND_SLAM,U21MS,785,Qualification,OBESLO Michal (CZE),AL-MOHANNADI Ahmad Khalil (QAT),OBESLO Michal
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ABO YAMAN Zaid,ABUSHUWASHI Adir,4,0,,,GRAND_SLAM,U21MS,785,Qualification,ABO YAMAN Zaid (JOR),ABUSHUWASHI Adir (LBA),ABO YAMAN Zaid
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,OMAR Rashid,ELHEBSHI Mohamed,4,0,,,GRAND_SLAM,U21MS,785,Qualification,OMAR Rashid (UAE),ELHEBSHI Mohamed (LBA),OMAR Rashid
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MENGE Gencay,PLEVA Radek,3,0,"11,11,11|7,9,7",,GRAND_SLAM,U21MS,785,Qualification,MENGE Gencay (TUR),PLEVA Radek (CZE),MENGE Gencay
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,OMAR Rashid,PLEVA Radek,3,1,"7,11,11,11|11,2,6,7",,GRAND_SLAM,U21MS,785,Qualification,OMAR Rashid (UAE),PLEVA Radek (CZE),OMAR Rashid
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MENGE Gencay,ELHEBSHI Mohamed,4,0,,,GRAND_SLAM,U21MS,785,Qualification,MENGE Gencay (TUR),ELHEBSHI Mohamed (LBA),MENGE Gencay
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,OMAR Rashid,MENGE Gencay,3,0,"11,11,11|7,7,7",,GRAND_SLAM,U21MS,785,Qualification,OMAR Rashid (UAE),MENGE Gencay (TUR),OMAR Rashid
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PLEVA Radek,ELHEBSHI Mohamed,4,0,,,GRAND_SLAM,U21MS,785,Qualification,PLEVA Radek (CZE),ELHEBSHI Mohamed (LBA),PLEVA Radek
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ZHANG Yining,GANINA Svetlana,4,1,"11,11,9,11,11|5,7,11,6,6",R32,GRAND_SLAM,WS,785,Main Draw,ZHANG Yining (CHN),GANINA Svetlana (RUS),ZHANG Yining
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LIN Ling,KIM Junghyun,4,1,"11,11,11,12,11|7,2,6,14,8",R32,GRAND_SLAM,WS,785,Main Draw,LIN Ling (HKG),KIM Junghyun (KOR),LIN Ling
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PARK Miyoung,BOROS Tamara,4,0,"11,11,12,11|8,8,10,5",R32,GRAND_SLAM,WS,785,Main Draw,PARK Miyoung (KOR),BOROS Tamara (CRO),PARK Miyoung
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GUO Yan (1982),ZHANG Rui,4,0,"11,11,11,13|6,7,6,11",R32,GRAND_SLAM,WS,785,Main Draw,GUO Yan (1982) (CHN),ZHANG Rui (HKG),GUO Yan (1982)
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LI Jiawei,DOLGIKH Maria,4,0,"11,11,12,11|3,4,10,5",R32,GRAND_SLAM,WS,785,Main Draw,LI Jiawei (SGP),DOLGIKH Maria (RUS),LI Jiawei
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LIU Shiwen,DANG Yeseo,4,1,"11,11,11,8,11|5,9,8,11,4",R32,GRAND_SLAM,WS,785,Main Draw,LIU Shiwen (CHN),DANG Yeseo (KOR),LIU Shiwen
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LIU Jia,PAVLOVICH Veronika,4,0,"12,11,11,11|10,7,7,6",R32,GRAND_SLAM,WS,785,Main Draw,LIU Jia (AUT),PAVLOVICH Veronika (BLR),LIU Jia
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WANG Nan,LEE Eunhee,4,0,"11,11,11,11|5,4,4,7",R32,GRAND_SLAM,WS,785,Main Draw,WANG Nan (CHN),LEE Eunhee (KOR),WANG Nan
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GUO Yue,PAVLOVICH Viktoria,4,0,"11,11,11,13|3,7,8,11",R32,GRAND_SLAM,WS,785,Main Draw,GUO Yue (CHN),PAVLOVICH Viktoria (BLR),GUO Yue
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WANG Chen,KIM Kyungah,4,3,"11,8,11,11,7,4,11|8,11,9,8,11,11,8",R32,GRAND_SLAM,WS,785,Main Draw,WANG Chen (USA),KIM Kyungah (KOR),WANG Chen
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WU Jiaduo,KWAK Bangbang,4,0,"11,11,11,11|8,9,8,7",R32,GRAND_SLAM,WS,785,Main Draw,WU Jiaduo (GER),KWAK Bangbang (KOR),WU Jiaduo
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WANG Yuegu,SAMARA Elizabeta,4,1,"10,11,11,12,11|12,9,6,10,9",R32,GRAND_SLAM,WS,785,Main Draw,WANG Yuegu (SGP),SAMARA Elizabeta (ROU),WANG Yuegu
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,FENG Tianwei,JIANG Huajun,4,0,"14,11,11,11|12,9,9,7",R32,GRAND_SLAM,WS,785,Main Draw,FENG Tianwei (SGP),JIANG Huajun (HKG),FENG Tianwei
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,YU Mengyu,TIE Yana,4,1,"11,11,11,11,11|7,8,4,13,4",R32,GRAND_SLAM,WS,785,Main Draw,YU Mengyu (SGP),TIE Yana (HKG),YU Mengyu
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SUN Beibei,YU Kwok See,4,0,"11,11,11,11|6,7,3,6",R32,GRAND_SLAM,WS,785,Main Draw,SUN Beibei (SGP),YU Kwok See (HKG),SUN Beibei
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LI Xiaoxia,PROKHOROVA Yulia,4,0,"11,11,11,11|4,5,3,3",R32,GRAND_SLAM,WS,785,Main Draw,LI Xiaoxia (CHN),PROKHOROVA Yulia (RUS),LI Xiaoxia
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ZHANG Yining,LIN Ling,4,0,"11,11,11,11|6,1,7,4",R16,GRAND_SLAM,WS,785,Main Draw,ZHANG Yining (CHN),LIN Ling (HKG),ZHANG Yining
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GUO Yan (1982),PARK Miyoung,4,1,"7,11,12,11,11|11,8,10,8,7",R16,GRAND_SLAM,WS,785,Main Draw,GUO Yan (1982) (CHN),PARK Miyoung (KOR),GUO Yan (1982)
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LIU Shiwen,LI Jiawei,4,1,"11,6,11,13,11|6,11,7,11,4",R16,GRAND_SLAM,WS,785,Main Draw,LIU Shiwen (CHN),LI Jiawei (SGP),LIU Shiwen
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WANG Nan,LIU Jia,4,0,"11,11,11,12|5,3,9,10",R16,GRAND_SLAM,WS,785,Main Draw,WANG Nan (CHN),LIU Jia (AUT),WANG Nan
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GUO Yue,WANG Chen,4,2,"11,9,11,11,10,11|9,11,7,9,12,7",R16,GRAND_SLAM,WS,785,Main Draw,GUO Yue (CHN),WANG Chen (USA),GUO Yue
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WANG Yuegu,WU Jiaduo,4,3,"10,7,11,7,11,12,11|12,11,5,11,6,10,9",R16,GRAND_SLAM,WS,785,Main Draw,WANG Yuegu (SGP),WU Jiaduo (GER),WANG Yuegu
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,FENG Tianwei,YU Mengyu,4,0,"11,12,12,11|5,10,10,9",R16,GRAND_SLAM,WS,785,Main Draw,FENG Tianwei (SGP),YU Mengyu (SGP),FENG Tianwei
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LI Xiaoxia,SUN Beibei,4,1,"8,11,11,11,11|11,5,9,9,4",R16,GRAND_SLAM,WS,785,Main Draw,LI Xiaoxia (CHN),SUN Beibei (SGP),LI Xiaoxia
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ZHANG Yining,GUO Yan (1982),4,0,"11,11,11,11|8,7,9,5",QF,GRAND_SLAM,WS,785,Main Draw,ZHANG Yining (CHN),GUO Yan (1982) (CHN),ZHANG Yining
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WANG Nan,LIU Shiwen,4,0,"12,11,11,11|10,8,6,9",QF,GRAND_SLAM,WS,785,Main Draw,WANG Nan (CHN),LIU Shiwen (CHN),WANG Nan
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GUO Yue,WANG Yuegu,4,0,,QF,GRAND_SLAM,WS,785,Main Draw,GUO Yue (CHN),WANG Yuegu (SGP),GUO Yue
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LI Xiaoxia,FENG Tianwei,4,0,"16,11,11,11|14,7,8,5",QF,GRAND_SLAM,WS,785,Main Draw,LI Xiaoxia (CHN),FENG Tianwei (SGP),LI Xiaoxia
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ZHANG Yining,WANG Nan,4,0,"11,11,11,11|9,2,7,1",SF,GRAND_SLAM,WS,785,Main Draw,ZHANG Yining (CHN),WANG Nan (CHN),ZHANG Yining
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LI Xiaoxia,GUO Yue,4,1,"11,7,11,12,11|6,11,2,10,8",SF,GRAND_SLAM,WS,785,Main Draw,LI Xiaoxia (CHN),GUO Yue (CHN),LI Xiaoxia
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ZHANG Yining,LI Xiaoxia,4,2,"16,11,11,9,7,11|14,4,8,11,11,8",F,GRAND_SLAM,WS,785,Main Draw,ZHANG Yining (CHN),LI Xiaoxia (CHN),ZHANG Yining
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,DODEAN Daniela,KUZMINA Elena,4,3,"11,11,11,6,7,8,12|4,6,8,11,11,11,10",QF,GRAND_SLAM,U21WS,785,Main Draw,DODEAN Daniela (ROU),KUZMINA Elena (RUS),DODEAN Daniela
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SAMARA Elizabeta,PARK Youngsook,4,2,"11,11,11,7,7,11|9,7,4,11,11,5",QF,GRAND_SLAM,U21WS,785,Main Draw,SAMARA Elizabeta (ROU),PARK Youngsook (KOR),SAMARA Elizabeta
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,HU Melek,DOLGIKH Maria,4,2,"7,11,9,11,11,11|11,7,11,7,3,8",QF,GRAND_SLAM,U21WS,785,Main Draw,HU Melek (TUR),DOLGIKH Maria (RUS),HU Melek
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PROKHOROVA Yulia,YU Mengyu,4,3,"11,11,5,8,11,9,11|8,6,11,11,8,11,5",QF,GRAND_SLAM,U21WS,785,Main Draw,PROKHOROVA Yulia (RUS),YU Mengyu (SGP),PROKHOROVA Yulia
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,DODEAN Daniela,SAMARA Elizabeta,4,3,"11,11,4,11,12,11,12|13,5,11,6,14,5,10",SF,GRAND_SLAM,U21WS,785,Main Draw,DODEAN Daniela (ROU),SAMARA Elizabeta (ROU),DODEAN Daniela
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,HU Melek,PROKHOROVA Yulia,4,2,"11,15,9,11,6,11|8,13,11,9,11,2",SF,GRAND_SLAM,U21WS,785,Main Draw,HU Melek (TUR),PROKHOROVA Yulia (RUS),HU Melek
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,DODEAN Daniela,HU Melek,4,1,"11,11,9,11,12|7,9,11,4,10",F,GRAND_SLAM,U21WS,785,Main Draw,DODEAN Daniela (ROU),HU Melek (TUR),DODEAN Daniela
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,VORONOVA Anastasia,MUTLU Nevin,4,2,"11,11,13,11,9,15|3,7,15,9,11,13",,GRAND_SLAM,WS,785,Qualification,VORONOVA Anastasia (RUS),MUTLU Nevin (TUR),VORONOVA Anastasia
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,BOROS Tamara,MUTLU Nevin,4,0,"11,11,11,12|4,4,8,10",,GRAND_SLAM,WS,785,Qualification,BOROS Tamara (CRO),MUTLU Nevin (TUR),BOROS Tamara
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,BOROS Tamara,VORONOVA Anastasia,4,0,"11,11,12,13|5,8,10,11",,GRAND_SLAM,WS,785,Qualification,BOROS Tamara (CRO),VORONOVA Anastasia (RUS),BOROS Tamara
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KUZMINA Elena,JUN Hyunsil,4,2,"11,11,8,13,3,15|4,6,11,11,11,13",,GRAND_SLAM,WS,785,Qualification,KUZMINA Elena (RUS),JUN Hyunsil (KOR),KUZMINA Elena
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ZHANG Rui,KUZMINA Elena,4,1,"11,9,11,11,11|3,11,7,9,9",,GRAND_SLAM,WS,785,Qualification,ZHANG Rui (HKG),KUZMINA Elena (RUS),ZHANG Rui
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JUN Hyunsil,ZHANG Rui,4,2,"11,11,10,11,5,11|7,6,12,2,11,5",,GRAND_SLAM,WS,785,Qualification,JUN Hyunsil (KOR),ZHANG Rui (HKG),JUN Hyunsil
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,HU Melek,MIKHAILOVA Polina,4,0,"11,11,11,11|8,4,8,7",,GRAND_SLAM,WS,785,Qualification,HU Melek (TUR),MIKHAILOVA Polina (RUS),HU Melek
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,FENG Tianwei,MIKHAILOVA Polina,4,2,"11,10,11,11,10,11|4,12,4,8,12,6",,GRAND_SLAM,WS,785,Qualification,FENG Tianwei (SGP),MIKHAILOVA Polina (RUS),FENG Tianwei
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,FENG Tianwei,HU Melek,4,0,"11,11,11,11|8,9,7,7",,GRAND_SLAM,WS,785,Qualification,FENG Tianwei (SGP),HU Melek (TUR),FENG Tianwei
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KERTAI Rita,YU Eomji,4,0,"11,11,11,11|7,5,4,8",,GRAND_SLAM,WS,785,Qualification,KERTAI Rita (HUN),YU Eomji (KOR),KERTAI Rita
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WANG Chen,YU Eomji,4,0,"11,11,11,11|9,4,6,7",,GRAND_SLAM,WS,785,Qualification,WANG Chen (USA),YU Eomji (KOR),WANG Chen
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WANG Chen,KERTAI Rita,4,0,"11,11,11,11|9,9,5,7",,GRAND_SLAM,WS,785,Qualification,WANG Chen (USA),KERTAI Rita (HUN),WANG Chen
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,HEINE Veronika,YILDIRIM Fulya,4,0,"11,11,11,11|9,5,1,9",,GRAND_SLAM,WS,785,Qualification,HEINE Veronika (AUT),YILDIRIM Fulya (TUR),HEINE Veronika
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LEE Eunhee,YILDIRIM Fulya,4,1,"11,11,6,11,12|5,7,11,8,10",,GRAND_SLAM,WS,785,Qualification,LEE Eunhee (KOR),YILDIRIM Fulya (TUR),LEE Eunhee
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LEE Eunhee,HEINE Veronika,4,1,"11,11,11,7,11|1,6,3,11,7",,GRAND_SLAM,WS,785,Qualification,LEE Eunhee (KOR),HEINE Veronika (AUT),LEE Eunhee
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PROKHOROVA Yulia,OSMAN Bacent,4,0,"15,11,11,11|13,5,8,8",,GRAND_SLAM,WS,785,Qualification,PROKHOROVA Yulia (RUS),OSMAN Bacent (EGY),PROKHOROVA Yulia
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,DODEAN Daniela,OSMAN Bacent,4,0,"11,11,12,11|9,4,10,9",,GRAND_SLAM,WS,785,Qualification,DODEAN Daniela (ROU),OSMAN Bacent (EGY),DODEAN Daniela
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PROKHOROVA Yulia,DODEAN Daniela,4,3,"12,11,8,11,5,8,11|10,6,11,6,11,11,4",,GRAND_SLAM,WS,785,Qualification,PROKHOROVA Yulia (RUS),DODEAN Daniela (ROU),PROKHOROVA Yulia
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,BAKULA Andrea,VINOGRADOVA Mariia,4,0,"11,11,11,11|8,8,9,6",,GRAND_SLAM,WS,785,Qualification,BAKULA Andrea (CRO),VINOGRADOVA Mariia (RUS),BAKULA Andrea
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,YU Mengyu,VINOGRADOVA Mariia,4,1,"11,11,7,11,11|6,3,11,1,1",,GRAND_SLAM,WS,785,Qualification,YU Mengyu (SGP),VINOGRADOVA Mariia (RUS),YU Mengyu
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,YU Mengyu,BAKULA Andrea,4,0,"11,11,11,11|4,5,7,9",,GRAND_SLAM,WS,785,Qualification,YU Mengyu (SGP),BAKULA Andrea (CRO),YU Mengyu
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PARK Youngsook,HASSAN Sara,4,0,"11,11,11,11|7,7,6,4",,GRAND_SLAM,WS,785,Qualification,PARK Youngsook (KOR),HASSAN Sara (EGY),PARK Youngsook
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PAVLOVICH Viktoria,HASSAN Sara,4,0,"11,11,11,11|4,2,1,3",,GRAND_SLAM,WS,785,Qualification,PAVLOVICH Viktoria (BLR),HASSAN Sara (EGY),PAVLOVICH Viktoria
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PAVLOVICH Viktoria,PARK Youngsook,4,0,"14,11,11,11|12,9,8,7",,GRAND_SLAM,WS,785,Qualification,PAVLOVICH Viktoria (BLR),PARK Youngsook (KOR),PAVLOVICH Viktoria
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,DOLGIKH Maria,SEOK Hajung,4,1,"8,11,16,11,11|11,7,14,7,8",,GRAND_SLAM,WS,785,Qualification,DOLGIKH Maria (RUS),SEOK Hajung (KOR),DOLGIKH Maria
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SEOK Hajung,HIURA Reiko,4,1,"11,11,11,9,11|5,5,9,11,8",,GRAND_SLAM,WS,785,Qualification,SEOK Hajung (KOR),HIURA Reiko (JPN),SEOK Hajung
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,DOLGIKH Maria,HIURA Reiko,4,0,"11,11,11,11|9,7,9,6",,GRAND_SLAM,WS,785,Qualification,DOLGIKH Maria (RUS),HIURA Reiko (JPN),DOLGIKH Maria
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KIM Junghyun,ABDULRAHEEM Maryam,4,0,"11,11,11,11|1,6,6,3",,GRAND_SLAM,WS,785,Qualification,KIM Junghyun (KOR),ABDULRAHEEM Maryam (KUW),KIM Junghyun
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GANINA Svetlana,ABDULRAHEEM Maryam,4,0,"11,11,11,11|0,1,2,5",,GRAND_SLAM,WS,785,Qualification,GANINA Svetlana (RUS),ABDULRAHEEM Maryam (KUW),GANINA Svetlana
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KIM Junghyun,GANINA Svetlana,4,1,"11,12,13,8,12|9,10,11,11,10",,GRAND_SLAM,WS,785,Qualification,KIM Junghyun (KOR),GANINA Svetlana (RUS),KIM Junghyun
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,YU Kwok See,ALI Meral Ildiz,4,0,"11,11,11,11|6,6,2,6",,GRAND_SLAM,WS,785,Qualification,YU Kwok See (HKG),ALI Meral Ildiz (TUR),YU Kwok See
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MOON Hyunjung,ALI Meral Ildiz,4,0,"11,11,11,11|2,5,4,5",,GRAND_SLAM,WS,785,Qualification,MOON Hyunjung (KOR),ALI Meral Ildiz (TUR),MOON Hyunjung
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,YU Kwok See,MOON Hyunjung,4,3,"12,13,11,5,11,7,11|14,11,8,11,6,11,9",,GRAND_SLAM,WS,785,Qualification,YU Kwok See (HKG),MOON Hyunjung (KOR),YU Kwok See
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,FADEEVA Oxana,AHMAD Fajir,4,0,"11,11,11,11|4,5,1,2",,GRAND_SLAM,WS,785,Qualification,FADEEVA Oxana (RUS),AHMAD Fajir (KUW),FADEEVA Oxana
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KWAK Bangbang,AHMAD Fajir,4,0,"11,11,11,11|2,8,3,2",,GRAND_SLAM,WS,785,Qualification,KWAK Bangbang (KOR),AHMAD Fajir (KUW),KWAK Bangbang
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KWAK Bangbang,FADEEVA Oxana,4,2,"12,11,13,8,5,11|10,8,11,11,11,9",,GRAND_SLAM,WS,785,Qualification,KWAK Bangbang (KOR),FADEEVA Oxana (RUS),KWAK Bangbang
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,DANG Yeseo,KRAMER Tanja,4,1,"5,12,11,11,11|11,10,5,8,9",,GRAND_SLAM,WS,785,Qualification,DANG Yeseo (KOR),KRAMER Tanja (GER),DANG Yeseo
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,DANG Yeseo,LI Qiangbing,4,0,"11,11,11,11|7,4,5,8",,GRAND_SLAM,WS,785,Qualification,DANG Yeseo (KOR),LI Qiangbing (AUT),DANG Yeseo
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LI Qiangbing,KRAMER Tanja,4,2,"9,11,11,11,10,11|11,3,7,9,12,9",,GRAND_SLAM,WS,785,Qualification,LI Qiangbing (AUT),KRAMER Tanja (GER),LI Qiangbing
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,TAN Paey Fern,ALSHAMMARI Menwah,4,0,,,GRAND_SLAM,WS,785,Qualification,TAN Paey Fern (SGP),ALSHAMMARI Menwah (KUW),TAN Paey Fern
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PAVLOVICH Veronika,ALSHAMMARI Menwah,4,0,"11,11,11,11|7,1,1,4",,GRAND_SLAM,WS,785,Qualification,PAVLOVICH Veronika (BLR),ALSHAMMARI Menwah (KUW),PAVLOVICH Veronika
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PAVLOVICH Veronika,TAN Paey Fern,4,0,"11,11,11,11|3,7,9,9",,GRAND_SLAM,WS,785,Qualification,PAVLOVICH Veronika (BLR),TAN Paey Fern (SGP),PAVLOVICH Veronika
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KOSTROMINA Tatyana (1973),KIM Garam,4,0,"11,11,11,11|9,7,7,4",,GRAND_SLAM,WS,785,Qualification,KOSTROMINA Tatyana (1973) (BLR),KIM Garam (KOR),KOSTROMINA Tatyana (1973)
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SAMARA Elizabeta,AL-SABAH Dalal,4,0,"11,11,11,11|2,3,2,0",,GRAND_SLAM,WS,785,Qualification,SAMARA Elizabeta (ROU),AL-SABAH Dalal (KUW),SAMARA Elizabeta
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SAMARA Elizabeta,KOSTROMINA Tatyana (1973),4,2,"9,11,8,14,11,11|11,6,11,12,9,6",,GRAND_SLAM,WS,785,Qualification,SAMARA Elizabeta (ROU),KOSTROMINA Tatyana (1973) (BLR),SAMARA Elizabeta
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KIM Garam,AL-SABAH Dalal,4,0,"11,11,11,11|0,2,6,2",,GRAND_SLAM,WS,785,Qualification,KIM Garam (KOR),AL-SABAH Dalal (KUW),KIM Garam
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KOSTROMINA Tatyana (1973),AL-SABAH Dalal,4,0,"11,11,11,11|1,1,3,1",,GRAND_SLAM,WS,785,Qualification,KOSTROMINA Tatyana (1973) (BLR),AL-SABAH Dalal (KUW),KOSTROMINA Tatyana (1973)
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,SAMARA Elizabeta,KIM Garam,4,2,"8,11,12,12,5,11|11,6,10,10,11,4",,GRAND_SLAM,WS,785,Qualification,SAMARA Elizabeta (ROU),KIM Garam (KOR),SAMARA Elizabeta
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,QUASQUAS Zeina,ALSHAMMARI Menwah,3,1,"11,11,11,11|3,13,8,6",,GRAND_SLAM,U21WS,785,Qualification,QUASQUAS Zeina (SYR),ALSHAMMARI Menwah (KUW),QUASQUAS Zeina
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PARK Youngsook,QUASQUAS Zeina,3,0,"11,11,11|8,3,3",,GRAND_SLAM,U21WS,785,Qualification,PARK Youngsook (KOR),QUASQUAS Zeina (SYR),PARK Youngsook
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PARK Youngsook,ALSHAMMARI Menwah,3,0,"11,11,11|4,5,4",,GRAND_SLAM,U21WS,785,Qualification,PARK Youngsook (KOR),ALSHAMMARI Menwah (KUW),PARK Youngsook
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ALI Meral Ildiz,ABDULRAHEEM Maryam,3,0,"11,11,11|5,7,2",,GRAND_SLAM,U21WS,785,Qualification,ALI Meral Ildiz (TUR),ABDULRAHEEM Maryam (KUW),ALI Meral Ildiz
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PROKHOROVA Yulia,ALI Meral Ildiz,3,0,"12,11,11|10,9,7",,GRAND_SLAM,U21WS,785,Qualification,PROKHOROVA Yulia (RUS),ALI Meral Ildiz (TUR),PROKHOROVA Yulia
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PROKHOROVA Yulia,ABDULRAHEEM Maryam,3,0,"11,11,11|6,8,4",,GRAND_SLAM,U21WS,785,Qualification,PROKHOROVA Yulia (RUS),ABDULRAHEEM Maryam (KUW),PROKHOROVA Yulia
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,VINOGRADOVA Mariia,ALAMMAR Maha,3,0,"11,11,11|1,3,3",,GRAND_SLAM,U21WS,785,Qualification,VINOGRADOVA Mariia (RUS),ALAMMAR Maha (KUW),VINOGRADOVA Mariia
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,HU Melek,ALAMMAR Maha,3,0,"11,11,11|2,2,2",,GRAND_SLAM,U21WS,785,Qualification,HU Melek (TUR),ALAMMAR Maha (KUW),HU Melek
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,HU Melek,VINOGRADOVA Mariia,3,2,"12,11,11,9,11|14,7,9,11,3",,GRAND_SLAM,U21WS,785,Qualification,HU Melek (TUR),VINOGRADOVA Mariia (RUS),HU Melek
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KUZMINA Elena,KIM Garam,3,1,"11,12,11,11|2,14,4,6",,GRAND_SLAM,U21WS,785,Qualification,KUZMINA Elena (RUS),KIM Garam (KOR),KUZMINA Elena
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,HASSAN Sara,AHMAD Fajir,3,0,"11,11,11|8,4,6",,GRAND_SLAM,U21WS,785,Qualification,HASSAN Sara (EGY),AHMAD Fajir (KUW),HASSAN Sara
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KUZMINA Elena,AHMAD Fajir,3,0,"11,11,11|2,4,3",,GRAND_SLAM,U21WS,785,Qualification,KUZMINA Elena (RUS),AHMAD Fajir (KUW),KUZMINA Elena
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KIM Garam,HASSAN Sara,3,0,"11,11,11|2,3,5",,GRAND_SLAM,U21WS,785,Qualification,KIM Garam (KOR),HASSAN Sara (EGY),KIM Garam
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KUZMINA Elena,HASSAN Sara,3,0,"11,11,11|4,4,9",,GRAND_SLAM,U21WS,785,Qualification,KUZMINA Elena (RUS),HASSAN Sara (EGY),KUZMINA Elena
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KIM Garam,AHMAD Fajir,3,0,"11,11,11|4,4,4",,GRAND_SLAM,U21WS,785,Qualification,KIM Garam (KOR),AHMAD Fajir (KUW),KIM Garam
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,YU Eomji,ALBSHLAWI Maisson,3,0,"11,11,11|4,6,2",,GRAND_SLAM,U21WS,785,Qualification,YU Eomji (KOR),ALBSHLAWI Maisson (SYR),YU Eomji
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,YILDIRIM Fulya,AL-SABAH Dalal,3,0,"11,11,11|4,3,1",,GRAND_SLAM,U21WS,785,Qualification,YILDIRIM Fulya (TUR),AL-SABAH Dalal (KUW),YILDIRIM Fulya
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,YU Eomji,AL-SABAH Dalal,3,0,"11,11,11|0,3,5",,GRAND_SLAM,U21WS,785,Qualification,YU Eomji (KOR),AL-SABAH Dalal (KUW),YU Eomji
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,YILDIRIM Fulya,ALBSHLAWI Maisson,3,1,"11,11,7,11|6,5,11,4",,GRAND_SLAM,U21WS,785,Qualification,YILDIRIM Fulya (TUR),ALBSHLAWI Maisson (SYR),YILDIRIM Fulya
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,YU Eomji,YILDIRIM Fulya,3,0,"11,11,12|9,6,10",,GRAND_SLAM,U21WS,785,Qualification,YU Eomji (KOR),YILDIRIM Fulya (TUR),YU Eomji
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ALBSHLAWI Maisson,AL-SABAH Dalal,3,0,"11,11,11|8,3,5",,GRAND_SLAM,U21WS,785,Qualification,ALBSHLAWI Maisson (SYR),AL-SABAH Dalal (KUW),ALBSHLAWI Maisson
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KUZMINA Elena,YU Eomji,3,2,"11,7,11,10,11|7,11,7,12,4",QR2,GRAND_SLAM,U21WS,785,Qualification,KUZMINA Elena (RUS),YU Eomji (KOR),KUZMINA Elena
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KIM Junghoon/LIM Jaehyun,FEGERL Stefan/FENG Xiaoquan,3,0,"11,11,11|9,6,5",QR32,GRAND_SLAM,MD,785,Qualification,KIM Junghoon (KOR) / LIM Jaehyun (KOR),FEGERL Stefan (AUT) / FENG Xiaoquan (AUT),KIM Junghoon
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ANDRIANOV Sergei/PAIKOV Mikhail,CHEN Weixing/HABESOHN Daniel,3,2,"13,12,7,4,11|11,10,11,11,6",QR32,GRAND_SLAM,MD,785,Qualification,ANDRIANOV Sergei (RUS) / PAIKOV Mikhail (RUS),CHEN Weixing (AUT) / HABESOHN Daniel (AUT),ANDRIANOV Sergei
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MONTEIRO Thiago/TSUBOI Gustavo,JIANG Pengfei/MENGE Gencay,3,1,"9,11,11,11|11,5,9,8",QR32,GRAND_SLAM,MD,785,Qualification,MONTEIRO Thiago (BRA) / TSUBOI Gustavo (BRA),JIANG Pengfei (TUR) / MENGE Gencay (TUR),MONTEIRO Thiago
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LEE Jinkwon/LEE Jungsam,MONTEIRO Thiago/TSUBOI Gustavo,3,0,"13,12,11|11,10,9",QR16,GRAND_SLAM,MD,785,Qualification,LEE Jinkwon (KOR) / LEE Jungsam (KOR),MONTEIRO Thiago (BRA) / TSUBOI Gustavo (BRA),LEE Jinkwon
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MA Lin/WANG Hao,KEEN Trinko/LUNDQVIST Jens,4,3,"12,11,8,7,12,11,11|14,5,11,11,10,7,6",R16,GRAND_SLAM,MD,785,Main Draw,MA Lin (CHN) / WANG Hao (CHN),KEEN Trinko (NED) / LUNDQVIST Jens (SWE),MA Lin
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MA Lin/WANG Hao,JOO Saehyuk/LEE Jungwoo,4,0,"13,11,11,11|11,3,8,8",QF,GRAND_SLAM,MD,785,Main Draw,MA Lin (CHN) / WANG Hao (CHN),JOO Saehyuk (KOR) / LEE Jungwoo (KOR),MA Lin
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MA Lin/WANG Hao,MA Long/WANG Liqin,4,3,"9,7,3,11,11,11,11|11,11,11,8,3,8,9",SF,GRAND_SLAM,MD,785,Main Draw,MA Lin (CHN) / WANG Hao (CHN),MA Long (CHN) / WANG Liqin (CHN),MA Lin
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHEN Qi/ZHANG Jike,LEE Jinkwon/LEE Jungsam,4,0,"11,12,11,11|5,10,6,9",SF,GRAND_SLAM,MD,785,Main Draw,CHEN Qi (CHN) / ZHANG Jike (CHN),LEE Jinkwon (KOR) / LEE Jungsam (KOR),CHEN Qi
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MA Lin/WANG Hao,CHEN Qi/ZHANG Jike,4,0,"11,11,12,11|6,9,10,7",F,GRAND_SLAM,MD,785,Main Draw,MA Lin (CHN) / WANG Hao (CHN),CHEN Qi (CHN) / ZHANG Jike (CHN),MA Lin
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JANCARIK Lubomir/KLEPRLIK Michal,EL BOUBOU Rachid/EL HABECH Mohamad,3,0,"11,11,14|4,4,12",QR32,GRAND_SLAM,MD,785,Qualification,JANCARIK Lubomir (CZE) / KLEPRLIK Michal (CZE),EL BOUBOU Rachid (LBN) / EL HABECH Mohamad (LBN),JANCARIK Lubomir
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KEEN Trinko/LUNDQVIST Jens,JANCARIK Lubomir/KLEPRLIK Michal,3,0,"11,11,11|8,6,8",QR16,GRAND_SLAM,MD,785,Qualification,KEEN Trinko (NED) / LUNDQVIST Jens (SWE),JANCARIK Lubomir (CZE) / KLEPRLIK Michal (CZE),KEEN Trinko
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KEEN Trinko/LUNDQVIST Jens,SALEH Ahmed/LASHIN Elsayed,3,0,"11,11,11|7,9,6",QR32,GRAND_SLAM,MD,785,Qualification,KEEN Trinko (NED) / LUNDQVIST Jens (SWE),SALEH Ahmed (EGY) / LASHIN Elsayed (EGY),KEEN Trinko
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GUO Yi Teng/LIU Zhongze,CHEUNG Yuk/LI Ching,4,0,,R16,GRAND_SLAM,MD,785,Main Draw,GUO Yi Teng (SGP) / LIU Zhongze (SGP),CHEUNG Yuk (HKG) / LI Ching (HKG),GUO Yi Teng
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MA Long/WANG Liqin,JIANG Tianyi/TANG Peng,4,0,"11,11,11,11|6,6,6,7",QF,GRAND_SLAM,MD,785,Main Draw,MA Long (CHN) / WANG Liqin (CHN),JIANG Tianyi (HKG) / TANG Peng (HKG),MA Long
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JIANG Tianyi/TANG Peng,ALHAJJAI Waled Nasser/AL-MOHANNADI Ahmad Khalil,3,0,"11,11,11|8,6,4",QR32,GRAND_SLAM,MD,785,Qualification,JIANG Tianyi (HKG) / TANG Peng (HKG),ALHAJJAI Waled Nasser (QAT) / AL-MOHANNADI Ahmad Khalil (QAT),JIANG Tianyi
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JIANG Tianyi/TANG Peng,KIM Junghoon/LIM Jaehyun,3,1,"8,11,15,11|11,6,13,5",QR16,GRAND_SLAM,MD,785,Qualification,JIANG Tianyi (HKG) / TANG Peng (HKG),KIM Junghoon (KOR) / LIM Jaehyun (KOR),JIANG Tianyi
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,AL-SANADI Salah/NAGY Krisztian,DAWOUD Haidar/HUSSEIN Mohamed,3,0,"11,11,12|8,4,10",QR64,GRAND_SLAM,MD,785,Qualification,AL-SANADI Salah (QAT) / NAGY Krisztian (HUN),DAWOUD Haidar (IRQ) / HUSSEIN Mohamed (IRQ),AL-SANADI Salah
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LEE Jinkwon/LEE Jungsam,AL-SANADI Salah/NAGY Krisztian,3,0,"11,11,11|6,6,2",QR32,GRAND_SLAM,MD,785,Qualification,LEE Jinkwon (KOR) / LEE Jungsam (KOR),AL-SANADI Salah (QAT) / NAGY Krisztian (HUN),LEE Jinkwon
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ANDRIANOV Sergei/PAIKOV Mikhail,ABDUL RAZZAG Ahmad/AHMED Salem,3,0,"11,11,11|3,4,3",QR64,GRAND_SLAM,MD,785,Qualification,ANDRIANOV Sergei (RUS) / PAIKOV Mikhail (RUS),ABDUL RAZZAG Ahmad (IRQ) / AHMED Salem (IRQ),ANDRIANOV Sergei
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ALHAJJAI Waled Nasser/AL-MOHANNADI Ahmad Khalil,ABO YAMAN Zaid/BAKEER Yazan,3,0,"11,11,11|5,7,5",QR64,GRAND_SLAM,MD,785,Qualification,ALHAJJAI Waled Nasser (QAT) / AL-MOHANNADI Ahmad Khalil (QAT),ABO YAMAN Zaid (JOR) / BAKEER Yazan (JOR),ALHAJJAI Waled Nasser
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,EL BOUBOU Rachid/EL HABECH Mohamad,ALDMAISY Odai/JABER Lutfi,3,0,"11,11,12|9,9,10",QR64,GRAND_SLAM,MD,785,Qualification,EL BOUBOU Rachid (LBN) / EL HABECH Mohamad (LBN),ALDMAISY Odai (JOR) / JABER Lutfi (JOR),EL BOUBOU Rachid
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHEN Qi/ZHANG Jike,RYU Seungmin/YOON Jaeyoung,4,2,"12,8,5,11,11,11|10,11,11,9,7,6",R16,GRAND_SLAM,MD,785,Main Draw,CHEN Qi (CHN) / ZHANG Jike (CHN),RYU Seungmin (KOR) / YOON Jaeyoung (KOR),CHEN Qi
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHO Eonrae/HAN Jimin,BUROV Viacheslav/STETSENKO Alexander,4,1,"8,11,11,11,13|11,6,7,7,11",R16,GRAND_SLAM,MD,785,Main Draw,CHO Eonrae (KOR) / HAN Jimin (KOR),BUROV Viacheslav (RUS) / STETSENKO Alexander (RUS),CHO Eonrae
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LEE Jinkwon/LEE Jungsam,GAO Ning/YANG Zi,4,3,"11,11,7,11,8,6,12|9,6,11,2,11,11,10",R16,GRAND_SLAM,MD,785,Main Draw,LEE Jinkwon (KOR) / LEE Jungsam (KOR),GAO Ning (SGP) / YANG Zi (SGP),LEE Jinkwon
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LEE Jinkwon/LEE Jungsam,CHO Eonrae/HAN Jimin,4,3,"2,9,6,11,11,11,11|11,11,11,7,6,4,8",QF,GRAND_SLAM,MD,785,Main Draw,LEE Jinkwon (KOR) / LEE Jungsam (KOR),CHO Eonrae (KOR) / HAN Jimin (KOR),LEE Jinkwon
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,RYU Seungmin/YOON Jaeyoung,AL-HASAN Ibrahem/AL-KANDRI Ali,3,0,"11,11,12|5,3,10",QR32,GRAND_SLAM,MD,785,Qualification,RYU Seungmin (KOR) / YOON Jaeyoung (KOR),AL-HASAN Ibrahem (KUW) / AL-KANDRI Ali (KUW),RYU Seungmin
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GUO Yi Teng/LIU Zhongze,CHOI Hyunjin/SEO Younggyun,3,2,"11,7,11,5,11|8,11,6,11,7",QR32,GRAND_SLAM,MD,785,Qualification,GUO Yi Teng (SGP) / LIU Zhongze (SGP),CHOI Hyunjin (KOR) / SEO Younggyun (KOR),GUO Yi Teng
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,RYU Seungmin/YOON Jaeyoung,KUZMIN Fedor/SKACHKOV Kirill,3,2,"14,11,8,9,11|12,6,11,11,8",QR16,GRAND_SLAM,MD,785,Qualification,RYU Seungmin (KOR) / YOON Jaeyoung (KOR),KUZMIN Fedor (RUS) / SKACHKOV Kirill (RUS),RYU Seungmin
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,HASSAN Rashed/OMAR Rashid,ALEM Mansor/AL-JADAI Naif,3,0,"11,13,11|5,11,3",QR64,GRAND_SLAM,MD,785,Qualification,HASSAN Rashed (UAE) / OMAR Rashid (UAE),ALEM Mansor (KSA) / AL-JADAI Naif (KSA),HASSAN Rashed
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KUZMIN Fedor/SKACHKOV Kirill,AL-ABBAD Abdulaziz/AL-HARBI Khaled,3,0,"11,11,11|6,6,8",QR32,GRAND_SLAM,MD,785,Qualification,KUZMIN Fedor (RUS) / SKACHKOV Kirill (RUS),AL-ABBAD Abdulaziz (KSA) / AL-HARBI Khaled (KSA),KUZMIN Fedor
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,AL-ENEZY Mansour/AL-HASAN Salem,ISMAIL Hamid/LINJAWI Jassem,3,0,,QR64,GRAND_SLAM,MD,785,Qualification,AL-ENEZY Mansour (KUW) / AL-HASAN Salem (KUW),ISMAIL Hamid (UAE) / LINJAWI Jassem (UAE),AL-ENEZY Mansour
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PISTEJ Lubomir/VOSTES Yannick,AL-ENEZY Mansour/AL-HASAN Salem,3,0,"11,11,11|6,6,8",QR32,GRAND_SLAM,MD,785,Qualification,PISTEJ Lubomir (SVK) / VOSTES Yannick (BEL),AL-ENEZY Mansour (KUW) / AL-HASAN Salem (KUW),PISTEJ Lubomir
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,BUBA Ondrej/PLEVA Radek,ABUSHUWASHI Adir/EL-JETIL Ahmed Lotfi,3,0,,QR64,GRAND_SLAM,MD,785,Qualification,BUBA Ondrej (CZE) / PLEVA Radek (CZE),ABUSHUWASHI Adir (LBA) / EL-JETIL Ahmed Lotfi (LBA),BUBA Ondrej
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JIANG Pengfei/MENGE Gencay,EL-ARBI Mohamed Musbah/ELHEBSHI Mohamed,3,0,,QR64,GRAND_SLAM,MD,785,Qualification,JIANG Pengfei (TUR) / MENGE Gencay (TUR),EL-ARBI Mohamed Musbah (LBA) / ELHEBSHI Mohamed (LBA),JIANG Pengfei
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JOO Saehyuk/LEE Jungwoo,LIVENTSOV Alexey/RUBTSOV Igor,4,2,"12,7,11,11,11,11|14,11,8,7,7,3",R16,GRAND_SLAM,MD,785,Main Draw,JOO Saehyuk (KOR) / LEE Jungwoo (KOR),LIVENTSOV Alexey (RUS) / RUBTSOV Igor (RUS),JOO Saehyuk
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JIANG Tianyi/TANG Peng,OVTCHAROV Dimitrij/SMIRNOV Alexey,4,0,"11,11,11,11|7,6,8,3",R16,GRAND_SLAM,MD,785,Main Draw,JIANG Tianyi (HKG) / TANG Peng (HKG),OVTCHAROV Dimitrij (GER) / SMIRNOV Alexey (RUS),JIANG Tianyi
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,BUROV Viacheslav/STETSENKO Alexander,EL-TAHIR Abdel-Wahab/MOHED Osama,3,0,,QR64,GRAND_SLAM,MD,785,Qualification,BUROV Viacheslav (RUS) / STETSENKO Alexander (RUS),EL-TAHIR Abdel-Wahab (SUD) / MOHED Osama (SUD),BUROV Viacheslav
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,BUROV Viacheslav/STETSENKO Alexander,LEGOUT Christophe/SCHLAGER Werner,3,0,,QR32,GRAND_SLAM,MD,785,Qualification,BUROV Viacheslav (RUS) / STETSENKO Alexander (RUS),LEGOUT Christophe (FRA) / SCHLAGER Werner (AUT),BUROV Viacheslav
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LIVENTSOV Alexey/RUBTSOV Igor,KONECNY Tomas/OBESLO Michal,3,1,"11,14,16,12|2,16,14,10",QR32,GRAND_SLAM,MD,785,Qualification,LIVENTSOV Alexey (RUS) / RUBTSOV Igor (RUS),KONECNY Tomas (CZE) / OBESLO Michal (CZE),LIVENTSOV Alexey
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LIVENTSOV Alexey/RUBTSOV Igor,PISTEJ Lubomir/VOSTES Yannick,3,0,"11,15,11|8,13,3",QR16,GRAND_SLAM,MD,785,Qualification,LIVENTSOV Alexey (RUS) / RUBTSOV Igor (RUS),PISTEJ Lubomir (SVK) / VOSTES Yannick (BEL),LIVENTSOV Alexey
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GUO Yi Teng/LIU Zhongze,ANDRIANOV Sergei/PAIKOV Mikhail,3,1,"11,11,13,11|7,9,15,9",QR16,GRAND_SLAM,MD,785,Qualification,GUO Yi Teng (SGP) / LIU Zhongze (SGP),ANDRIANOV Sergei (RUS) / PAIKOV Mikhail (RUS),GUO Yi Teng
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHEN Qi/ZHANG Jike,GUO Yi Teng/LIU Zhongze,4,0,"11,11,18,11|5,7,16,5",QF,GRAND_SLAM,MD,785,Main Draw,CHEN Qi (CHN) / ZHANG Jike (CHN),GUO Yi Teng (SGP) / LIU Zhongze (SGP),CHEN Qi
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,AL-HASAN Ibrahem/AL-KANDRI Ali,MOSSLLY Yhya/TARABOLSY Ahmed,3,1,"11,10,13,11|9,12,11,9",QR64,GRAND_SLAM,MD,785,Qualification,AL-HASAN Ibrahem (KUW) / AL-KANDRI Ali (KUW),MOSSLLY Yhya (SYR) / TARABOLSY Ahmed (SYR),AL-HASAN Ibrahem
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,MA Long/WANG Liqin,CHUANG Chih-Yuan/WU Chih-Chi,4,2,"8,5,11,11,13,11|11,11,8,5,11,9",R16,GRAND_SLAM,MD,785,Main Draw,MA Long (CHN) / WANG Liqin (CHN),CHUANG Chih-Yuan (TPE) / WU Chih-Chi (TPE),MA Long
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHUANG Chih-Yuan/WU Chih-Chi,HASSAN Rashed/OMAR Rashid,3,1,"8,11,11,11|11,5,9,7",QR32,GRAND_SLAM,MD,785,Qualification,CHUANG Chih-Yuan (TPE) / WU Chih-Chi (TPE),HASSAN Rashed (UAE) / OMAR Rashid (UAE),CHUANG Chih-Yuan
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CHUANG Chih-Yuan/WU Chih-Chi,CAI Xiaoli/MA Liang,3,1,"8,12,11,11|11,10,6,8",QR16,GRAND_SLAM,MD,785,Qualification,CHUANG Chih-Yuan (TPE) / WU Chih-Chi (TPE),CAI Xiaoli (SGP) / MA Liang (SGP),CHUANG Chih-Yuan
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,CAI Xiaoli/MA Liang,TAVUKCUOGLU Irfan/ZENG Cem,3,1,"3,11,11,11|11,8,6,6",QR32,GRAND_SLAM,MD,785,Qualification,CAI Xiaoli (SGP) / MA Liang (SGP),TAVUKCUOGLU Irfan (TUR) / ZENG Cem (TUR),CAI Xiaoli
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KATKOV Ivan/KOU Lei,BUBA Ondrej/PLEVA Radek,3,1,"11,11,9,11|5,8,11,9",QR32,GRAND_SLAM,MD,785,Qualification,KATKOV Ivan (UKR) / KOU Lei (UKR),BUBA Ondrej (CZE) / PLEVA Radek (CZE),KATKOV Ivan
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,BUROV Viacheslav/STETSENKO Alexander,KATKOV Ivan/KOU Lei,3,0,"11,11,11|7,5,8",QR16,GRAND_SLAM,MD,785,Qualification,BUROV Viacheslav (RUS) / STETSENKO Alexander (RUS),KATKOV Ivan (UKR) / KOU Lei (UKR),BUROV Viacheslav
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GANINA Svetlana/PAVLOVICH Viktoria,TIE Yana/ZHANG Rui,4,1,"11,11,11,9,12|8,7,7,11,10",QF,GRAND_SLAM,WD,785,Main Draw,GANINA Svetlana (RUS) / PAVLOVICH Viktoria (BLR),TIE Yana (HKG) / ZHANG Rui (HKG),GANINA Svetlana
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LI Jiawei/SUN Beibei,GANINA Svetlana/PAVLOVICH Viktoria,4,2,"11,11,11,6,9,11|6,7,3,11,11,9",SF,GRAND_SLAM,WD,785,Main Draw,LI Jiawei (SGP) / SUN Beibei (SGP),GANINA Svetlana (RUS) / PAVLOVICH Viktoria (BLR),LI Jiawei
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,FADEEVA Oxana/PAVLOVICH Veronika,KERTAI Rita/OSMAN Bacent,3,0,"11,11,13|8,6,11",QR16,GRAND_SLAM,WD,785,Qualification,FADEEVA Oxana (RUS) / PAVLOVICH Veronika (BLR),KERTAI Rita (HUN) / OSMAN Bacent (EGY),FADEEVA Oxana
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GUO Yue/LI Xiaoxia,FADEEVA Oxana/PAVLOVICH Veronika,4,0,"11,13,12,11|5,11,10,7",R16,GRAND_SLAM,WD,785,Main Draw,GUO Yue (CHN) / LI Xiaoxia (CHN),FADEEVA Oxana (RUS) / PAVLOVICH Veronika (BLR),GUO Yue
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GUO Yan (1982)/LIU Shiwen,DANG Yeseo/LEE Eunhee,4,2,"3,11,11,11,6,11|11,5,5,1,11,7",R16,GRAND_SLAM,WD,785,Main Draw,GUO Yan (1982) (CHN) / LIU Shiwen (CHN),DANG Yeseo (KOR) / LEE Eunhee (KOR),GUO Yan (1982)
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GUO Yue/LI Xiaoxia,JIANG Huajun/LIN Ling,4,1,"7,11,11,11,11|11,9,8,4,8",QF,GRAND_SLAM,WD,785,Main Draw,GUO Yue (CHN) / LI Xiaoxia (CHN),JIANG Huajun (HKG) / LIN Ling (HKG),GUO Yue
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WANG Nan/ZHANG Yining,GUO Yan (1982)/LIU Shiwen,4,1,"10,11,11,11,11|12,5,8,5,4",QF,GRAND_SLAM,WD,785,Main Draw,WANG Nan (CHN) / ZHANG Yining (CHN),GUO Yan (1982) (CHN) / LIU Shiwen (CHN),WANG Nan
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WANG Nan/ZHANG Yining,GUO Yue/LI Xiaoxia,4,3,"11,9,11,6,11,5,11|2,11,7,11,8,11,7",SF,GRAND_SLAM,WD,785,Main Draw,WANG Nan (CHN) / ZHANG Yining (CHN),GUO Yue (CHN) / LI Xiaoxia (CHN),WANG Nan
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WANG Nan/ZHANG Yining,LI Jiawei/SUN Beibei,4,2,"9,11,11,14,11,11|11,4,8,16,4,3",F,GRAND_SLAM,WD,785,Main Draw,WANG Nan (CHN) / ZHANG Yining (CHN),LI Jiawei (SGP) / SUN Beibei (SGP),WANG Nan
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KIM Junghyun/SEOK Hajung,KOSTROMINA Tatyana (1973)/YU Kwok See,3,0,"11,11,11|9,2,8",QR32,GRAND_SLAM,WD,785,Qualification,KIM Junghyun (KOR) / SEOK Hajung (KOR),KOSTROMINA Tatyana (1973) (BLR) / YU Kwok See (HKG),KIM Junghyun
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JIANG Huajun/LIN Ling,KRAMER Tanja/HIURA Reiko,4,0,"11,11,17,11|9,9,15,1",R16,GRAND_SLAM,WD,785,Main Draw,JIANG Huajun (HKG) / LIN Ling (HKG),KRAMER Tanja (GER) / HIURA Reiko (JPN),JIANG Huajun
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KRAMER Tanja/HIURA Reiko,JUN Hyunsil/YU Eomji,3,1,"11,11,6,11|7,4,11,3",QR16,GRAND_SLAM,WD,785,Qualification,KRAMER Tanja (GER) / HIURA Reiko (JPN),JUN Hyunsil (KOR) / YU Eomji (KOR),KRAMER Tanja
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GANINA Svetlana/PAVLOVICH Viktoria,KIM Kyungah/PARK Miyoung,4,3,"11,11,3,7,11,11,11|9,6,11,11,13,7,6",R16,GRAND_SLAM,WD,785,Main Draw,GANINA Svetlana (RUS) / PAVLOVICH Viktoria (BLR),KIM Kyungah (KOR) / PARK Miyoung (KOR),GANINA Svetlana
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LI Jiawei/SUN Beibei,KIM Junghyun/SEOK Hajung,4,0,"11,11,11,11|4,2,8,6",R16,GRAND_SLAM,WD,785,Main Draw,LI Jiawei (SGP) / SUN Beibei (SGP),KIM Junghyun (KOR) / SEOK Hajung (KOR),LI Jiawei
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,JUN Hyunsil/YU Eomji,BAKULA Andrea/BOROS Tamara,3,2,"5,11,7,11,13|11,6,11,9,11",QR32,GRAND_SLAM,WD,785,Qualification,JUN Hyunsil (KOR) / YU Eomji (KOR),BAKULA Andrea (CRO) / BOROS Tamara (CRO),JUN Hyunsil
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KWAK Bangbang/PARK Youngsook,LIU Jia/WU Jiaduo,3,1,"9,11,11,11|11,8,3,4",QR16,GRAND_SLAM,WD,785,Qualification,KWAK Bangbang (KOR) / PARK Youngsook (KOR),LIU Jia (AUT) / WU Jiaduo (GER),KWAK Bangbang
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,FENG Tianwei/YU Mengyu,KIM Garam/MOON Hyunjung,3,1,"13,13,10,11|11,11,12,8",QR16,GRAND_SLAM,WD,785,Qualification,FENG Tianwei (SGP) / YU Mengyu (SGP),KIM Garam (KOR) / MOON Hyunjung (KOR),FENG Tianwei
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KERTAI Rita/OSMAN Bacent,ABDULRAHEEM Maryam/ALAMMAR Maha,3,0,"11,11,11|2,5,6",QR32,GRAND_SLAM,WD,785,Qualification,KERTAI Rita (HUN) / OSMAN Bacent (EGY),ABDULRAHEEM Maryam (KUW) / ALAMMAR Maha (KUW),KERTAI Rita
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,DODEAN Daniela/SAMARA Elizabeta,KWAK Bangbang/PARK Youngsook,4,2,"17,6,11,7,11,13|15,11,7,11,5,11",R16,GRAND_SLAM,WD,785,Main Draw,DODEAN Daniela (ROU) / SAMARA Elizabeta (ROU),KWAK Bangbang (KOR) / PARK Youngsook (KOR),DODEAN Daniela
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,LI Jiawei/SUN Beibei,DODEAN Daniela/SAMARA Elizabeta,4,3,"12,11,10,9,11,7,11|10,8,12,11,8,11,6",QF,GRAND_SLAM,WD,785,Main Draw,LI Jiawei (SGP) / SUN Beibei (SGP),DODEAN Daniela (ROU) / SAMARA Elizabeta (ROU),LI Jiawei
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,TIE Yana/ZHANG Rui,PROKHOROVA Yulia/VORONOVA Anastasia,4,2,"11,11,6,11,7,11|9,8,11,6,11,8",R16,GRAND_SLAM,WD,785,Main Draw,TIE Yana (HKG) / ZHANG Rui (HKG),PROKHOROVA Yulia (RUS) / VORONOVA Anastasia (RUS),TIE Yana
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,HU Melek/MUTLU Nevin,MIKHAILOVA Polina/DOLGIKH Maria,3,2,"7,8,11,11,11|11,11,6,9,7",QR32,GRAND_SLAM,WD,785,Qualification,HU Melek (TUR) / MUTLU Nevin (TUR),MIKHAILOVA Polina (RUS) / DOLGIKH Maria (RUS),HU Melek
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PROKHOROVA Yulia/VORONOVA Anastasia,ALBSHLAWI Maisson/QUASQUAS Zeina,3,0,"11,11,11|3,4,7",QR32,GRAND_SLAM,WD,785,Qualification,PROKHOROVA Yulia (RUS) / VORONOVA Anastasia (RUS),ALBSHLAWI Maisson (SYR) / QUASQUAS Zeina (SYR),PROKHOROVA Yulia
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,FENG Tianwei/YU Mengyu,VINOGRADOVA Mariia/KUZMINA Elena,3,0,"11,11,11|8,6,5",QR32,GRAND_SLAM,WD,785,Qualification,FENG Tianwei (SGP) / YU Mengyu (SGP),VINOGRADOVA Mariia (RUS) / KUZMINA Elena (RUS),FENG Tianwei
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,PROKHOROVA Yulia/VORONOVA Anastasia,HEINE Veronika/LI Qiangbing,3,0,"11,11,12|6,5,10",QR16,GRAND_SLAM,WD,785,Qualification,PROKHOROVA Yulia (RUS) / VORONOVA Anastasia (RUS),HEINE Veronika (AUT) / LI Qiangbing (AUT),PROKHOROVA Yulia
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,WANG Nan/ZHANG Yining,FENG Tianwei/YU Mengyu,4,0,"11,12,11,11|9,10,7,2",R16,GRAND_SLAM,WD,785,Main Draw,WANG Nan (CHN) / ZHANG Yining (CHN),FENG Tianwei (SGP) / YU Mengyu (SGP),WANG Nan
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,KIM Junghyun/SEOK Hajung,TAN Paey Fern/WANG Yuegu,3,2,"13,11,5,8,11|11,8,11,11,7",QR16,GRAND_SLAM,WD,785,Qualification,KIM Junghyun (KOR) / SEOK Hajung (KOR),TAN Paey Fern (SGP) / WANG Yuegu (SGP),KIM Junghyun
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,ALI Meral Ildiz/YILDIRIM Fulya,AHMAD Fajir/ALSHAMMARI Menwah,3,0,"11,11,11|3,3,7",QR32,GRAND_SLAM,WD,785,Qualification,ALI Meral Ildiz (TUR) / YILDIRIM Fulya (TUR),AHMAD Fajir (KUW) / ALSHAMMARI Menwah (KUW),ALI Meral Ildiz
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,DANG Yeseo/LEE Eunhee,HU Melek/MUTLU Nevin,3,0,"11,11,11|5,5,6",QR16,GRAND_SLAM,WD,785,Qualification,DANG Yeseo (KOR) / LEE Eunhee (KOR),HU Melek (TUR) / MUTLU Nevin (TUR),DANG Yeseo
+Pro Tour Kuwait Open Kuwait City 2008,2008-03-13,GANINA Svetlana/PAVLOVICH Viktoria,ALI Meral Ildiz/YILDIRIM Fulya,3,0,"11,11,11|2,4,8",QR16,GRAND_SLAM,WD,785,Qualification,GANINA Svetlana (RUS) / PAVLOVICH Viktoria (BLR),ALI Meral Ildiz (TUR) / YILDIRIM Fulya (TUR),GANINA Svetlana

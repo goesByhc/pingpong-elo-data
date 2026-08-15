@@ -1,15 +1,15 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Volkswagen Cup Guangzhou 2011,2011-03-23,BOLL Timo,TANG Peng,4,1,"13,8,11,11,11|11,11,9,9,5",QF,OTHER,MS,701,Main Draw,BOLL Timo (GER),TANG Peng (HKG)
-Volkswagen Cup Guangzhou 2011,2011-03-23,MIZUTANI Jun,CHUANG Chih-Yuan,4,2,"11,8,11,5,11,11|5,11,9,11,8,8",QF,OTHER,MS,701,Main Draw,MIZUTANI Jun (JPN),CHUANG Chih-Yuan (TPE)
-Volkswagen Cup Guangzhou 2011,2011-03-23,SAMSONOV Vladimir,JOO Saehyuk,4,2,"11,10,11,6,11,13|3,12,8,11,8,11",QF,OTHER,MS,701,Main Draw,SAMSONOV Vladimir (BLR),JOO Saehyuk (KOR)
-Volkswagen Cup Guangzhou 2011,2011-03-23,WANG Hao,MAZE Michael,4,1,"11,11,10,11,11|9,6,12,6,5",QF,OTHER,MS,701,Main Draw,WANG Hao (CHN),MAZE Michael (DEN)
-Volkswagen Cup Guangzhou 2011,2011-03-23,BOLL Timo,MIZUTANI Jun,4,2,"7,6,11,11,11,11|11,11,1,9,5,5",SF,OTHER,MS,701,Main Draw,BOLL Timo (GER),MIZUTANI Jun (JPN)
-Volkswagen Cup Guangzhou 2011,2011-03-23,WANG Hao,SAMSONOV Vladimir,4,0,"11,11,11,11|5,2,9,4",SF,OTHER,MS,701,Main Draw,WANG Hao (CHN),SAMSONOV Vladimir (BLR)
-Volkswagen Cup Guangzhou 2011,2011-03-23,WANG Hao,BOLL Timo,4,2,"11,5,5,11,11,11|9,11,11,4,7,7",F,OTHER,MS,701,Main Draw,WANG Hao (CHN),BOLL Timo (GER)
-Volkswagen Cup Guangzhou 2011,2011-03-23,LI Xiaoxia,SHEN Yanfei,4,2,"9,11,11,11,8,11|11,7,6,9,11,9",QF,OTHER,WS,701,Main Draw,LI Xiaoxia (CHN),SHEN Yanfei (ESP)
-Volkswagen Cup Guangzhou 2011,2011-03-23,FUKUHARA Ai,JIANG Huajun,4,0,"11,11,11,13|9,3,9,11",QF,OTHER,WS,701,Main Draw,FUKUHARA Ai (JPN),JIANG Huajun (HKG)
-Volkswagen Cup Guangzhou 2011,2011-03-23,WU Jiaduo,KIM Kyungah,4,3,"9,3,11,9,11,11,17|11,11,6,11,5,7,15",QF,OTHER,WS,701,Main Draw,WU Jiaduo (GER),KIM Kyungah (KOR)
-Volkswagen Cup Guangzhou 2011,2011-03-23,LI Jiao,FENG Tianwei,4,2,"6,11,11,12,3,12|11,8,8,10,11,10",QF,OTHER,WS,701,Main Draw,LI Jiao (NED),FENG Tianwei (SGP)
-Volkswagen Cup Guangzhou 2011,2011-03-23,LI Xiaoxia,FUKUHARA Ai,4,2,"8,12,11,11,11,11|11,14,2,5,7,7",SF,OTHER,WS,701,Main Draw,LI Xiaoxia (CHN),FUKUHARA Ai (JPN)
-Volkswagen Cup Guangzhou 2011,2011-03-23,WU Jiaduo,LI Jiao,4,2,"9,11,9,11,11,11|11,5,11,5,7,7",SF,OTHER,WS,701,Main Draw,WU Jiaduo (GER),LI Jiao (NED)
-Volkswagen Cup Guangzhou 2011,2011-03-23,LI Xiaoxia,WU Jiaduo,4,1,"10,11,11,11,11|12,7,9,4,3",F,OTHER,WS,701,Main Draw,LI Xiaoxia (CHN),WU Jiaduo (GER)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Volkswagen Cup Guangzhou 2011,2011-03-23,BOLL Timo,TANG Peng,4,1,"13,8,11,11,11|11,11,9,9,5",QF,OTHER,MS,701,Main Draw,BOLL Timo (GER),TANG Peng (HKG),BOLL Timo
+Volkswagen Cup Guangzhou 2011,2011-03-23,MIZUTANI Jun,CHUANG Chih-Yuan,4,2,"11,8,11,5,11,11|5,11,9,11,8,8",QF,OTHER,MS,701,Main Draw,MIZUTANI Jun (JPN),CHUANG Chih-Yuan (TPE),MIZUTANI Jun
+Volkswagen Cup Guangzhou 2011,2011-03-23,SAMSONOV Vladimir,JOO Saehyuk,4,2,"11,10,11,6,11,13|3,12,8,11,8,11",QF,OTHER,MS,701,Main Draw,SAMSONOV Vladimir (BLR),JOO Saehyuk (KOR),SAMSONOV Vladimir
+Volkswagen Cup Guangzhou 2011,2011-03-23,WANG Hao,MAZE Michael,4,1,"11,11,10,11,11|9,6,12,6,5",QF,OTHER,MS,701,Main Draw,WANG Hao (CHN),MAZE Michael (DEN),WANG Hao
+Volkswagen Cup Guangzhou 2011,2011-03-23,BOLL Timo,MIZUTANI Jun,4,2,"7,6,11,11,11,11|11,11,1,9,5,5",SF,OTHER,MS,701,Main Draw,BOLL Timo (GER),MIZUTANI Jun (JPN),BOLL Timo
+Volkswagen Cup Guangzhou 2011,2011-03-23,WANG Hao,SAMSONOV Vladimir,4,0,"11,11,11,11|5,2,9,4",SF,OTHER,MS,701,Main Draw,WANG Hao (CHN),SAMSONOV Vladimir (BLR),WANG Hao
+Volkswagen Cup Guangzhou 2011,2011-03-23,WANG Hao,BOLL Timo,4,2,"11,5,5,11,11,11|9,11,11,4,7,7",F,OTHER,MS,701,Main Draw,WANG Hao (CHN),BOLL Timo (GER),WANG Hao
+Volkswagen Cup Guangzhou 2011,2011-03-23,LI Xiaoxia,SHEN Yanfei,4,2,"9,11,11,11,8,11|11,7,6,9,11,9",QF,OTHER,WS,701,Main Draw,LI Xiaoxia (CHN),SHEN Yanfei (ESP),LI Xiaoxia
+Volkswagen Cup Guangzhou 2011,2011-03-23,FUKUHARA Ai,JIANG Huajun,4,0,"11,11,11,13|9,3,9,11",QF,OTHER,WS,701,Main Draw,FUKUHARA Ai (JPN),JIANG Huajun (HKG),FUKUHARA Ai
+Volkswagen Cup Guangzhou 2011,2011-03-23,WU Jiaduo,KIM Kyungah,4,3,"9,3,11,9,11,11,17|11,11,6,11,5,7,15",QF,OTHER,WS,701,Main Draw,WU Jiaduo (GER),KIM Kyungah (KOR),WU Jiaduo
+Volkswagen Cup Guangzhou 2011,2011-03-23,LI Jiao,FENG Tianwei,4,2,"6,11,11,12,3,12|11,8,8,10,11,10",QF,OTHER,WS,701,Main Draw,LI Jiao (NED),FENG Tianwei (SGP),LI Jiao
+Volkswagen Cup Guangzhou 2011,2011-03-23,LI Xiaoxia,FUKUHARA Ai,4,2,"8,12,11,11,11,11|11,14,2,5,7,7",SF,OTHER,WS,701,Main Draw,LI Xiaoxia (CHN),FUKUHARA Ai (JPN),LI Xiaoxia
+Volkswagen Cup Guangzhou 2011,2011-03-23,WU Jiaduo,LI Jiao,4,2,"9,11,9,11,11,11|11,5,11,5,7,7",SF,OTHER,WS,701,Main Draw,WU Jiaduo (GER),LI Jiao (NED),WU Jiaduo
+Volkswagen Cup Guangzhou 2011,2011-03-23,LI Xiaoxia,WU Jiaduo,4,1,"10,11,11,11,11|12,7,9,4,3",F,OTHER,WS,701,Main Draw,LI Xiaoxia (CHN),WU Jiaduo (GER),LI Xiaoxia

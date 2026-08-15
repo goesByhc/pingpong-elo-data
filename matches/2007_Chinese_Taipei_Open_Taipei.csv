@@ -1,261 +1,261 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Chinese Taipei Open Taipei 2007,2007-08-23,BOLL Timo,CANTERO Jesus,4,0,"11,14,11,11|4,12,9,7",R64,GRAND_SLAM,MS,1863,Main Draw,BOLL Timo (GER),CANTERO Jesus (ESP)
-Chinese Taipei Open Taipei 2007,2007-08-23,KARAKASEVIC Aleksandar,WANG Jianan,4,3,"3,9,5,11,11,11,11|11,11,11,8,9,6,4",R64,GRAND_SLAM,MS,1863,Main Draw,KARAKASEVIC Aleksandar (SRB),WANG Jianan (CGO)
-Chinese Taipei Open Taipei 2007,2007-08-23,CHEUNG Yuk,MA Liang,4,2,"4,11,11,7,11,11|11,9,8,11,2,6",R64,GRAND_SLAM,MS,1863,Main Draw,CHEUNG Yuk (HKG),MA Liang (SGP)
-Chinese Taipei Open Taipei 2007,2007-08-23,PERSSON Jorgen,GAVLAS Antonin,4,0,"11,11,11,11|8,3,7,6",R64,GRAND_SLAM,MS,1863,Main Draw,PERSSON Jorgen (SWE),GAVLAS Antonin (CZE)
-Chinese Taipei Open Taipei 2007,2007-08-23,KORBEL Petr,CAI Xiaoli,4,2,"10,11,11,10,11,11|12,5,8,12,5,9",R64,GRAND_SLAM,MS,1863,Main Draw,KORBEL Petr (CZE),CAI Xiaoli (SGP)
-Chinese Taipei Open Taipei 2007,2007-08-23,WU Chih-Chi,YOSHIDA Kaii,4,2,"11,11,11,3,7,11|6,7,6,11,11,8",R64,GRAND_SLAM,MS,1863,Main Draw,WU Chih-Chi (TPE),YOSHIDA Kaii (JPN)
-Chinese Taipei Open Taipei 2007,2007-08-23,TAKAKIWA Taku,LIM Jaehyun,4,0,"11,12,11,12|8,10,9,10",R64,GRAND_SLAM,MS,1863,Main Draw,TAKAKIWA Taku (JPN),LIM Jaehyun (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,GORAK Daniel,CHEN Weixing,4,0,,R64,GRAND_SLAM,MS,1863,Main Draw,GORAK Daniel (POL),CHEN Weixing (AUT)
-Chinese Taipei Open Taipei 2007,2007-08-23,GAO Ning,JAKAB Janos,4,3,"11,12,11,11,9,9,17|7,14,5,7,11,11,15",R64,GRAND_SLAM,MS,1863,Main Draw,GAO Ning (SGP),JAKAB Janos (HUN)
-Chinese Taipei Open Taipei 2007,2007-08-23,FEJER-KONNERTH Zoltan,SVENSSON Robert,4,0,"11,11,11,11|6,3,3,8",R64,GRAND_SLAM,MS,1863,Main Draw,FEJER-KONNERTH Zoltan (GER),SVENSSON Robert (SWE)
-Chinese Taipei Open Taipei 2007,2007-08-23,CHIANG Hung-Chieh,DURAN Marc,4,3,"7,11,11,5,3,11,11|11,9,5,11,11,6,8",R64,GRAND_SLAM,MS,1863,Main Draw,CHIANG Hung-Chieh (TPE),DURAN Marc (ESP)
-Chinese Taipei Open Taipei 2007,2007-08-23,LEE Jungwoo,LIU Zhongze,4,1,"10,12,11,11,11|12,10,9,5,9",R64,GRAND_SLAM,MS,1863,Main Draw,LEE Jungwoo (KOR),LIU Zhongze (SGP)
-Chinese Taipei Open Taipei 2007,2007-08-23,OVTCHAROV Dimitrij,VOSTES Yannick,4,1,"5,11,11,11,11|11,4,8,9,6",R64,GRAND_SLAM,MS,1863,Main Draw,OVTCHAROV Dimitrij (GER),VOSTES Yannick (BEL)
-Chinese Taipei Open Taipei 2007,2007-08-23,LEE Jungjae,NAMIKI Yusuke,4,3,"3,4,9,11,11,11,11|11,11,11,9,8,3,4",R64,GRAND_SLAM,MS,1863,Main Draw,LEE Jungjae (KOR),NAMIKI Yusuke (JPN)
-Chinese Taipei Open Taipei 2007,2007-08-23,SUSS Christian,AXELQVIST Johan,4,2,"4,6,11,11,11,11|11,11,4,8,9,8",R64,GRAND_SLAM,MS,1863,Main Draw,SUSS Christian (GER),AXELQVIST Johan (SWE)
-Chinese Taipei Open Taipei 2007,2007-08-23,JOO Saehyuk,HUANG Sheng-Sheng,4,0,"11,16,11,11|7,14,9,4",R64,GRAND_SLAM,MS,1863,Main Draw,JOO Saehyuk (KOR),HUANG Sheng-Sheng (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,OH Sangeun,CHEN Chien-An,4,0,"11,11,11,11|5,7,4,7",R64,GRAND_SLAM,MS,1863,Main Draw,OH Sangeun (KOR),CHEN Chien-An (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,WOSIK Torben,LEE Jinkwon,4,0,"11,11,11,11|5,6,9,4",R64,GRAND_SLAM,MS,1863,Main Draw,WOSIK Torben (GER),LEE Jinkwon (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,MATSUDAIRA Kenta,KEEN Trinko,4,2,"12,11,4,11,4,11|10,9,11,9,11,7",R64,GRAND_SLAM,MS,1863,Main Draw,MATSUDAIRA Kenta (JPN),KEEN Trinko (NED)
-Chinese Taipei Open Taipei 2007,2007-08-23,CHIANG Peng-Lung,KIM Junghoon,4,1,"11,11,11,10,11|7,8,8,12,7",R64,GRAND_SLAM,MS,1863,Main Draw,CHIANG Peng-Lung (TPE),KIM Junghoon (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,STEGER Bastian,ZOMBORI David,4,0,"11,11,11,11|6,8,7,1",R64,GRAND_SLAM,MS,1863,Main Draw,STEGER Bastian (GER),ZOMBORI David (HUN)
-Chinese Taipei Open Taipei 2007,2007-08-23,LEE Jungsam,LEUNG Chu Yan,4,1,"11,10,13,11,11|9,12,11,4,5",R64,GRAND_SLAM,MS,1863,Main Draw,LEE Jungsam (KOR),LEUNG Chu Yan (HKG)
-Chinese Taipei Open Taipei 2007,2007-08-23,MIZUTANI Jun,BAUM Patrick,4,0,"11,11,11,11|8,5,5,8",R64,GRAND_SLAM,MS,1863,Main Draw,MIZUTANI Jun (JPN),BAUM Patrick (GER)
-Chinese Taipei Open Taipei 2007,2007-08-23,CHOU Tung-Yu,HAN Jimin,4,2,"11,12,12,9,12,11|6,10,10,11,14,8",R64,GRAND_SLAM,MS,1863,Main Draw,CHOU Tung-Yu (TPE),HAN Jimin (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,CHUANG Chih-Yuan,OYA Hidetoshi,4,1,"11,11,11,11,12|13,2,5,3,10",R64,GRAND_SLAM,MS,1863,Main Draw,CHUANG Chih-Yuan (TPE),OYA Hidetoshi (JPN)
-Chinese Taipei Open Taipei 2007,2007-08-23,CHO Eonrae,SAKAMOTO Ryusuke,4,2,"7,11,8,11,11,11|11,7,11,5,8,4",R64,GRAND_SLAM,MS,1863,Main Draw,CHO Eonrae (KOR),SAKAMOTO Ryusuke (JPN)
-Chinese Taipei Open Taipei 2007,2007-08-23,ROSSKOPF Jorg,GERELL Par,4,3,"8,15,11,11,11,9,11|11,17,5,7,9,11,9",R64,GRAND_SLAM,MS,1863,Main Draw,ROSSKOPF Jorg (GER),GERELL Par (SWE)
-Chinese Taipei Open Taipei 2007,2007-08-23,SAIVE Jean-Michel,ZWICKL Daniel,4,2,"10,11,11,11,7,11|12,8,9,9,11,9",R64,GRAND_SLAM,MS,1863,Main Draw,SAIVE Jean-Michel (BEL),ZWICKL Daniel (HUN)
-Chinese Taipei Open Taipei 2007,2007-08-23,YANG Zi,CHANG Yen-Shu,4,2,"11,8,11,6,11,11|8,11,8,11,9,8",R64,GRAND_SLAM,MS,1863,Main Draw,YANG Zi (SGP),CHANG Yen-Shu (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,YOON Jaeyoung,NAKANO Yusuke,4,1,"8,11,11,11,11|11,5,4,5,6",R64,GRAND_SLAM,MS,1863,Main Draw,YOON Jaeyoung (KOR),NAKANO Yusuke (JPN)
-Chinese Taipei Open Taipei 2007,2007-08-23,LUNDQVIST Jens,PAZSY Ferenc,4,0,,R64,GRAND_SLAM,MS,1863,Main Draw,LUNDQVIST Jens (SWE),PAZSY Ferenc (HUN)
-Chinese Taipei Open Taipei 2007,2007-08-23,SAMSONOV Vladimir,LINDSAY Kenneth,4,0,"11,11,11,11|5,3,7,1",R64,GRAND_SLAM,MS,1863,Main Draw,SAMSONOV Vladimir (BLR),LINDSAY Kenneth (SCO)
-Chinese Taipei Open Taipei 2007,2007-08-23,BOLL Timo,KARAKASEVIC Aleksandar,4,1,"11,11,11,10,11|3,5,6,12,9",R32,GRAND_SLAM,MS,1863,Main Draw,BOLL Timo (GER),KARAKASEVIC Aleksandar (SRB)
-Chinese Taipei Open Taipei 2007,2007-08-23,PERSSON Jorgen,CHEUNG Yuk,4,1,"11,11,6,12,11|7,7,11,10,4",R32,GRAND_SLAM,MS,1863,Main Draw,PERSSON Jorgen (SWE),CHEUNG Yuk (HKG)
-Chinese Taipei Open Taipei 2007,2007-08-23,KORBEL Petr,WU Chih-Chi,4,0,"11,12,11,11|4,10,8,3",R32,GRAND_SLAM,MS,1863,Main Draw,KORBEL Petr (CZE),WU Chih-Chi (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,TAKAKIWA Taku,GORAK Daniel,4,2,"11,8,11,10,11,11|8,11,4,12,8,9",R32,GRAND_SLAM,MS,1863,Main Draw,TAKAKIWA Taku (JPN),GORAK Daniel (POL)
-Chinese Taipei Open Taipei 2007,2007-08-23,GAO Ning,FEJER-KONNERTH Zoltan,4,0,"11,11,17,11|7,8,15,9",R32,GRAND_SLAM,MS,1863,Main Draw,GAO Ning (SGP),FEJER-KONNERTH Zoltan (GER)
-Chinese Taipei Open Taipei 2007,2007-08-23,CHIANG Hung-Chieh,LEE Jungwoo,4,2,"12,11,11,10,11,11|14,9,8,12,8,8",R32,GRAND_SLAM,MS,1863,Main Draw,CHIANG Hung-Chieh (TPE),LEE Jungwoo (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,OVTCHAROV Dimitrij,LEE Jungjae,4,0,"11,11,11,11|5,7,6,6",R32,GRAND_SLAM,MS,1863,Main Draw,OVTCHAROV Dimitrij (GER),LEE Jungjae (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,JOO Saehyuk,SUSS Christian,4,3,"9,3,11,9,11,11,11|11,11,5,11,5,5,8",R32,GRAND_SLAM,MS,1863,Main Draw,JOO Saehyuk (KOR),SUSS Christian (GER)
-Chinese Taipei Open Taipei 2007,2007-08-23,OH Sangeun,WOSIK Torben,4,1,"11,8,12,15,11|8,11,10,13,3",R32,GRAND_SLAM,MS,1863,Main Draw,OH Sangeun (KOR),WOSIK Torben (GER)
-Chinese Taipei Open Taipei 2007,2007-08-23,CHIANG Peng-Lung,MATSUDAIRA Kenta,4,2,"9,11,7,11,11,11|11,3,11,9,3,6",R32,GRAND_SLAM,MS,1863,Main Draw,CHIANG Peng-Lung (TPE),MATSUDAIRA Kenta (JPN)
-Chinese Taipei Open Taipei 2007,2007-08-23,LEE Jungsam,STEGER Bastian,4,2,"10,11,11,9,11,11|12,9,3,11,2,8",R32,GRAND_SLAM,MS,1863,Main Draw,LEE Jungsam (KOR),STEGER Bastian (GER)
-Chinese Taipei Open Taipei 2007,2007-08-23,MIZUTANI Jun,CHOU Tung-Yu,4,0,"13,11,11,11|11,6,3,7",R32,GRAND_SLAM,MS,1863,Main Draw,MIZUTANI Jun (JPN),CHOU Tung-Yu (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,CHUANG Chih-Yuan,CHO Eonrae,4,1,"11,11,11,7,16|4,4,8,11,14",R32,GRAND_SLAM,MS,1863,Main Draw,CHUANG Chih-Yuan (TPE),CHO Eonrae (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,ROSSKOPF Jorg,SAIVE Jean-Michel,4,3,"4,11,11,11,11,8,11|11,9,4,13,6,11,9",R32,GRAND_SLAM,MS,1863,Main Draw,ROSSKOPF Jorg (GER),SAIVE Jean-Michel (BEL)
-Chinese Taipei Open Taipei 2007,2007-08-23,YOON Jaeyoung,YANG Zi,4,2,"11,14,11,9,11,11|9,16,6,11,8,3",R32,GRAND_SLAM,MS,1863,Main Draw,YOON Jaeyoung (KOR),YANG Zi (SGP)
-Chinese Taipei Open Taipei 2007,2007-08-23,SAMSONOV Vladimir,LUNDQVIST Jens,4,2,"11,7,8,11,11,11|6,11,11,4,7,6",R32,GRAND_SLAM,MS,1863,Main Draw,SAMSONOV Vladimir (BLR),LUNDQVIST Jens (SWE)
-Chinese Taipei Open Taipei 2007,2007-08-23,BOLL Timo,PERSSON Jorgen,4,1,"11,7,11,12,11|8,11,6,10,9",R16,GRAND_SLAM,MS,1863,Main Draw,BOLL Timo (GER),PERSSON Jorgen (SWE)
-Chinese Taipei Open Taipei 2007,2007-08-23,KORBEL Petr,TAKAKIWA Taku,4,3,"11,10,13,11,6,16,11|8,12,11,13,11,14,8",R16,GRAND_SLAM,MS,1863,Main Draw,KORBEL Petr (CZE),TAKAKIWA Taku (JPN)
-Chinese Taipei Open Taipei 2007,2007-08-23,GAO Ning,CHIANG Hung-Chieh,4,0,"11,11,11,11|9,5,8,9",R16,GRAND_SLAM,MS,1863,Main Draw,GAO Ning (SGP),CHIANG Hung-Chieh (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,OVTCHAROV Dimitrij,JOO Saehyuk,4,2,"5,11,11,13,7,11|11,7,9,11,11,8",R16,GRAND_SLAM,MS,1863,Main Draw,OVTCHAROV Dimitrij (GER),JOO Saehyuk (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,OH Sangeun,CHIANG Peng-Lung,4,1,"11,11,8,11,11|6,6,11,3,8",R16,GRAND_SLAM,MS,1863,Main Draw,OH Sangeun (KOR),CHIANG Peng-Lung (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,MIZUTANI Jun,LEE Jungsam,4,1,"11,11,11,7,11|8,7,9,11,6",R16,GRAND_SLAM,MS,1863,Main Draw,MIZUTANI Jun (JPN),LEE Jungsam (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,CHUANG Chih-Yuan,ROSSKOPF Jorg,4,2,"11,3,11,11,5,11|7,11,5,5,11,9",R16,GRAND_SLAM,MS,1863,Main Draw,CHUANG Chih-Yuan (TPE),ROSSKOPF Jorg (GER)
-Chinese Taipei Open Taipei 2007,2007-08-23,SAMSONOV Vladimir,YOON Jaeyoung,4,1,"13,12,5,11,11|11,10,11,9,9",R16,GRAND_SLAM,MS,1863,Main Draw,SAMSONOV Vladimir (BLR),YOON Jaeyoung (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,BOLL Timo,KORBEL Petr,4,1,"11,11,7,11,11|9,9,11,4,5",QF,GRAND_SLAM,MS,1863,Main Draw,BOLL Timo (GER),KORBEL Petr (CZE)
-Chinese Taipei Open Taipei 2007,2007-08-23,GAO Ning,OVTCHAROV Dimitrij,4,1,"10,11,17,11,11|12,9,15,9,4",QF,GRAND_SLAM,MS,1863,Main Draw,GAO Ning (SGP),OVTCHAROV Dimitrij (GER)
-Chinese Taipei Open Taipei 2007,2007-08-23,MIZUTANI Jun,OH Sangeun,4,2,"8,11,11,15,11,12|11,6,13,13,3,10",QF,GRAND_SLAM,MS,1863,Main Draw,MIZUTANI Jun (JPN),OH Sangeun (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,SAMSONOV Vladimir,CHUANG Chih-Yuan,4,1,"11,11,10,11,11|6,7,12,9,5",QF,GRAND_SLAM,MS,1863,Main Draw,SAMSONOV Vladimir (BLR),CHUANG Chih-Yuan (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,BOLL Timo,GAO Ning,4,2,"13,13,6,7,11,11|11,11,11,11,8,8",SF,GRAND_SLAM,MS,1863,Main Draw,BOLL Timo (GER),GAO Ning (SGP)
-Chinese Taipei Open Taipei 2007,2007-08-23,SAMSONOV Vladimir,MIZUTANI Jun,4,0,"11,11,11,11|6,7,8,8",SF,GRAND_SLAM,MS,1863,Main Draw,SAMSONOV Vladimir (BLR),MIZUTANI Jun (JPN)
-Chinese Taipei Open Taipei 2007,2007-08-23,SAMSONOV Vladimir,BOLL Timo,4,0,"11,11,11,11|4,8,8,3",F,GRAND_SLAM,MS,1863,Main Draw,SAMSONOV Vladimir (BLR),BOLL Timo (GER)
-Chinese Taipei Open Taipei 2007,2007-08-23,CHOU Yuan-Chieh,WANG YANG Martin,3,0,"11,11,11|6,8,5",,GRAND_SLAM,U21MS,1863,Qualification,CHOU Yuan-Chieh (TPE),WANG YANG Martin (PAR)
-Chinese Taipei Open Taipei 2007,2007-08-23,DURAN Marc,WANG YANG Martin,3,0,"11,11,11|4,3,5",QR2,GRAND_SLAM,U21MS,1863,Qualification,DURAN Marc (ESP),WANG YANG Martin (PAR)
-Chinese Taipei Open Taipei 2007,2007-08-23,DURAN Marc,CHOU Yuan-Chieh,3,0,"11,12,11|3,10,8",3,GRAND_SLAM,U21MS,1863,Qualification,DURAN Marc (ESP),CHOU Yuan-Chieh (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,LINDSAY Kenneth,CHEN Po-Huang,3,2,"12,9,10,13,14|10,11,12,11,12",,GRAND_SLAM,U21MS,1863,Qualification,LINDSAY Kenneth (SCO),CHEN Po-Huang (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,LIU Zhongze,CHEN Po-Huang,3,2,"10,6,11,13,11|12,11,8,11,8",QR2,GRAND_SLAM,U21MS,1863,Qualification,LIU Zhongze (SGP),CHEN Po-Huang (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,LIU Zhongze,LINDSAY Kenneth,3,0,"11,11,11|5,8,8",3,GRAND_SLAM,U21MS,1863,Qualification,LIU Zhongze (SGP),LINDSAY Kenneth (SCO)
-Chinese Taipei Open Taipei 2007,2007-08-23,HUANG Chang-Chun,LI Kwun Ngai,3,0,"11,11,11|8,3,6",,GRAND_SLAM,U21MS,1863,Qualification,HUANG Chang-Chun (TPE),LI Kwun Ngai (HKG)
-Chinese Taipei Open Taipei 2007,2007-08-23,HUANG Chang-Chun,MA Liang,3,2,"11,6,5,11,11|5,11,11,8,8",QR2,GRAND_SLAM,U21MS,1863,Qualification,HUANG Chang-Chun (TPE),MA Liang (SGP)
-Chinese Taipei Open Taipei 2007,2007-08-23,MA Liang,LI Kwun Ngai,3,0,"11,11,11|1,7,8",3,GRAND_SLAM,U21MS,1863,Qualification,MA Liang (SGP),LI Kwun Ngai (HKG)
-Chinese Taipei Open Taipei 2007,2007-08-23,WANG Juo-Lin,HUNG Tzu-Hsiang,3,2,"8,10,11,11,11|11,12,3,9,6",,GRAND_SLAM,U21MS,1863,Qualification,WANG Juo-Lin (TPE),HUNG Tzu-Hsiang (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,LEBESSON Emmanuel,HUNG Tzu-Hsiang,3,0,"11,11,12|3,3,10",QR2,GRAND_SLAM,U21MS,1863,Qualification,LEBESSON Emmanuel (FRA),HUNG Tzu-Hsiang (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,LEBESSON Emmanuel,WANG Juo-Lin,3,2,"11,3,11,7,13|3,11,9,11,11",3,GRAND_SLAM,U21MS,1863,Qualification,LEBESSON Emmanuel (FRA),WANG Juo-Lin (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,TSE Ka Chun,KVIST Andreas,3,2,"12,9,11,11,11|14,11,9,9,5",,GRAND_SLAM,U21MS,1863,Qualification,TSE Ka Chun (HKG),KVIST Andreas (SWE)
-Chinese Taipei Open Taipei 2007,2007-08-23,HUANG Sheng-Sheng,KVIST Andreas,3,0,"11,11,13|8,7,11",QR2,GRAND_SLAM,U21MS,1863,Qualification,HUANG Sheng-Sheng (TPE),KVIST Andreas (SWE)
-Chinese Taipei Open Taipei 2007,2007-08-23,HUANG Sheng-Sheng,TSE Ka Chun,3,1,"11,10,11,11|6,12,8,5",3,GRAND_SLAM,U21MS,1863,Qualification,HUANG Sheng-Sheng (TPE),TSE Ka Chun (HKG)
-Chinese Taipei Open Taipei 2007,2007-08-23,ZOMBORI David,BORRE Rickard,3,1,"9,11,11,11|11,3,8,3",,GRAND_SLAM,U21MS,1863,Qualification,ZOMBORI David (HUN),BORRE Rickard (SWE)
-Chinese Taipei Open Taipei 2007,2007-08-23,CHOU Tung-Yu,BORRE Rickard,3,1,"11,8,11,11|3,11,6,5",QR2,GRAND_SLAM,U21MS,1863,Qualification,CHOU Tung-Yu (TPE),BORRE Rickard (SWE)
-Chinese Taipei Open Taipei 2007,2007-08-23,CHOU Tung-Yu,ZOMBORI David,3,0,"11,11,11|9,4,5",3,GRAND_SLAM,U21MS,1863,Qualification,CHOU Tung-Yu (TPE),ZOMBORI David (HUN)
-Chinese Taipei Open Taipei 2007,2007-08-23,HAN Jimin,YEH Chih-Wei,3,0,"12,11,11|10,6,3",,GRAND_SLAM,U21MS,1863,Qualification,HAN Jimin (KOR),YEH Chih-Wei (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,OYA Hidetoshi,YEH Chih-Wei,3,0,"11,11,11|9,8,9",QR2,GRAND_SLAM,U21MS,1863,Qualification,OYA Hidetoshi (JPN),YEH Chih-Wei (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,OYA Hidetoshi,HAN Jimin,3,1,"11,12,11,11|6,10,13,4",3,GRAND_SLAM,U21MS,1863,Qualification,OYA Hidetoshi (JPN),HAN Jimin (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,DURAN Marc,CHO Eonrae,4,1,"11,11,11,9,12|8,9,8,11,10",R16,GRAND_SLAM,U21MS,1863,Main Draw,DURAN Marc (ESP),CHO Eonrae (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,OYA Hidetoshi,JAKAB Janos,4,2,"12,11,7,7,11,11|10,9,11,11,8,5",R16,GRAND_SLAM,U21MS,1863,Main Draw,OYA Hidetoshi (JPN),JAKAB Janos (HUN)
-Chinese Taipei Open Taipei 2007,2007-08-23,MATTENET Adrien,LEE Jinkwon,4,3,"6,11,12,5,11,7,11|11,9,10,11,6,11,8",R16,GRAND_SLAM,U21MS,1863,Main Draw,MATTENET Adrien (FRA),LEE Jinkwon (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,CHIANG Hung-Chieh,LIU Zhongze,4,1,"11,14,11,9,13|7,12,6,11,11",R16,GRAND_SLAM,U21MS,1863,Main Draw,CHIANG Hung-Chieh (TPE),LIU Zhongze (SGP)
-Chinese Taipei Open Taipei 2007,2007-08-23,WU Chih-Chi,LEBESSON Emmanuel,4,1,"11,8,11,11,11|7,11,8,9,9",R16,GRAND_SLAM,U21MS,1863,Main Draw,WU Chih-Chi (TPE),LEBESSON Emmanuel (FRA)
-Chinese Taipei Open Taipei 2007,2007-08-23,MATSUDAIRA Kenta,HUANG Sheng-Sheng,4,0,"11,11,11,11|6,3,8,6",R16,GRAND_SLAM,U21MS,1863,Main Draw,MATSUDAIRA Kenta (JPN),HUANG Sheng-Sheng (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,BAUM Patrick,HUANG Chang-Chun,4,3,"9,12,11,8,11,9,11|11,10,4,11,4,11,2",R16,GRAND_SLAM,U21MS,1863,Main Draw,BAUM Patrick (GER),HUANG Chang-Chun (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,OYA Hidetoshi,DURAN Marc,4,0,"11,12,11,11|9,10,9,7",QF,GRAND_SLAM,U21MS,1863,Main Draw,OYA Hidetoshi (JPN),DURAN Marc (ESP)
-Chinese Taipei Open Taipei 2007,2007-08-23,MATTENET Adrien,CHIANG Hung-Chieh,4,3,"5,11,6,11,11,12,11|11,7,11,13,8,10,3",QF,GRAND_SLAM,U21MS,1863,Main Draw,MATTENET Adrien (FRA),CHIANG Hung-Chieh (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,MATSUDAIRA Kenta,WU Chih-Chi,4,2,"11,8,11,16,11,11|6,11,5,14,13,5",QF,GRAND_SLAM,U21MS,1863,Main Draw,MATSUDAIRA Kenta (JPN),WU Chih-Chi (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,BAUM Patrick,MIZUTANI Jun,4,3,"9,9,11,11,9,11,11|11,11,6,7,11,9,5",QF,GRAND_SLAM,U21MS,1863,Main Draw,BAUM Patrick (GER),MIZUTANI Jun (JPN)
-Chinese Taipei Open Taipei 2007,2007-08-23,MATTENET Adrien,OYA Hidetoshi,4,0,"11,11,11,16|5,8,7,14",SF,GRAND_SLAM,U21MS,1863,Main Draw,MATTENET Adrien (FRA),OYA Hidetoshi (JPN)
-Chinese Taipei Open Taipei 2007,2007-08-23,MATSUDAIRA Kenta,BAUM Patrick,4,0,"11,11,11,11|6,7,5,5",SF,GRAND_SLAM,U21MS,1863,Main Draw,MATSUDAIRA Kenta (JPN),BAUM Patrick (GER)
-Chinese Taipei Open Taipei 2007,2007-08-23,MATSUDAIRA Kenta,MATTENET Adrien,4,0,"11,11,11,11|6,2,7,4",F,GRAND_SLAM,U21MS,1863,Main Draw,MATSUDAIRA Kenta (JPN),MATTENET Adrien (FRA)
-Chinese Taipei Open Taipei 2007,2007-08-23,CHEN Chien-An,CHUANG Cheng-Hsuan,3,1,"11,11,5,11|7,1,11,7",,GRAND_SLAM,U21MS,1863,Qualification,CHEN Chien-An (TPE),CHUANG Cheng-Hsuan (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,MATTENET Adrien,CHUANG Cheng-Hsuan,3,1,"11,11,8,11|5,5,11,7",QR2,GRAND_SLAM,U21MS,1863,Qualification,MATTENET Adrien (FRA),CHUANG Cheng-Hsuan (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,MATTENET Adrien,CHEN Chien-An,3,0,"11,11,11|7,4,7",3,GRAND_SLAM,U21MS,1863,Qualification,MATTENET Adrien (FRA),CHEN Chien-An (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,LEE Hyangmi,LI Bin,4,3,"11,9,11,10,16,11,11|8,11,13,12,14,7,3",,GRAND_SLAM,WS,1863,Qualification,LEE Hyangmi (KOR),LI Bin (HUN)
-Chinese Taipei Open Taipei 2007,2007-08-23,TAN Wenling,LI Bin,4,0,"11,11,15,11|7,8,13,4",QR2,GRAND_SLAM,WS,1863,Qualification,TAN Wenling (ITA),LI Bin (HUN)
-Chinese Taipei Open Taipei 2007,2007-08-23,TAN Wenling,LEE Hyangmi,4,1,"14,11,11,4,11|12,8,8,11,5",3,GRAND_SLAM,WS,1863,Qualification,TAN Wenling (ITA),LEE Hyangmi (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,PAN Chun-Chu,CHO Hala,4,3,"2,8,11,12,6,11,11|11,11,8,10,11,2,9",,GRAND_SLAM,WS,1863,Qualification,PAN Chun-Chu (TPE),CHO Hala (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,TOTH Krisztina,CHO Hala,4,3,"9,9,11,3,11,11,11|11,11,9,11,5,9,4",QR2,GRAND_SLAM,WS,1863,Qualification,TOTH Krisztina (HUN),CHO Hala (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,TOTH Krisztina,PAN Chun-Chu,4,2,"11,10,11,11,9,11|9,12,5,8,11,8",3,GRAND_SLAM,WS,1863,Qualification,TOTH Krisztina (HUN),PAN Chun-Chu (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,CHENG I-Ching,YU Kwok See,4,2,"11,11,9,11,10,11|8,8,11,5,12,5",,GRAND_SLAM,WS,1863,Qualification,CHENG I-Ching (TPE),YU Kwok See (HKG)
-Chinese Taipei Open Taipei 2007,2007-08-23,LEE Eunhee,CHENG I-Ching,4,0,"11,11,11,11|7,7,7,6",QR2,GRAND_SLAM,WS,1863,Qualification,LEE Eunhee (KOR),CHENG I-Ching (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,LEE Eunhee,YU Kwok See,4,1,"12,9,11,11,11|10,11,7,1,9",3,GRAND_SLAM,WS,1863,Qualification,LEE Eunhee (KOR),YU Kwok See (HKG)
-Chinese Taipei Open Taipei 2007,2007-08-23,LEE I-Chen,BARTHEL Zhenqi,4,3,"9,12,5,8,11,12,14|11,10,11,11,9,10,12",,GRAND_SLAM,WS,1863,Qualification,LEE I-Chen (TPE),BARTHEL Zhenqi (GER)
-Chinese Taipei Open Taipei 2007,2007-08-23,BOROS Tamara,LEE I-Chen,4,1,"12,11,8,11,11|10,9,11,8,9",QR2,GRAND_SLAM,WS,1863,Qualification,BOROS Tamara (CRO),LEE I-Chen (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,BOROS Tamara,BARTHEL Zhenqi,4,1,"11,11,9,11,11|9,7,11,4,5",3,GRAND_SLAM,WS,1863,Qualification,BOROS Tamara (CRO),BARTHEL Zhenqi (GER)
-Chinese Taipei Open Taipei 2007,2007-08-23,WATANABE Yuko,LU Yun-Feng,4,1,"11,11,4,11,11|7,9,11,7,5",,GRAND_SLAM,WS,1863,Qualification,WATANABE Yuko (JPN),LU Yun-Feng (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,WATANABE Yuko,STEFANOVA Nikoleta,4,2,"5,9,11,11,12,11|11,11,9,6,10,8",QR2,GRAND_SLAM,WS,1863,Qualification,WATANABE Yuko (JPN),STEFANOVA Nikoleta (ITA)
-Chinese Taipei Open Taipei 2007,2007-08-23,LU Yun-Feng,STEFANOVA Nikoleta,4,2,"11,11,8,7,14,11|6,2,11,11,12,5",3,GRAND_SLAM,WS,1863,Qualification,LU Yun-Feng (TPE),STEFANOVA Nikoleta (ITA)
-Chinese Taipei Open Taipei 2007,2007-08-23,ETSUZAKI Ayumi,HEINE Veronika,4,0,"11,11,11,11|9,6,5,2",,GRAND_SLAM,WS,1863,Qualification,ETSUZAKI Ayumi (JPN),HEINE Veronika (AUT)
-Chinese Taipei Open Taipei 2007,2007-08-23,HEINE Veronika,STRUSE Nicole,4,3,"4,8,5,12,12,11,11|11,11,11,10,10,7,9",QR2,GRAND_SLAM,WS,1863,Qualification,HEINE Veronika (AUT),STRUSE Nicole (GER)
-Chinese Taipei Open Taipei 2007,2007-08-23,ETSUZAKI Ayumi,STRUSE Nicole,4,2,"7,11,13,5,11,11|11,5,11,11,7,3",3,GRAND_SLAM,WS,1863,Qualification,ETSUZAKI Ayumi (JPN),STRUSE Nicole (GER)
-Chinese Taipei Open Taipei 2007,2007-08-23,KIM Junghyun,PERGEL Szandra,4,2,"11,9,11,11,4,11|6,11,4,9,11,8",,GRAND_SLAM,WS,1863,Qualification,KIM Junghyun (KOR),PERGEL Szandra (HUN)
-Chinese Taipei Open Taipei 2007,2007-08-23,FUJII Hiroko,PERGEL Szandra,4,0,"11,11,11,11|6,4,5,4",QR2,GRAND_SLAM,WS,1863,Qualification,FUJII Hiroko (JPN),PERGEL Szandra (HUN)
-Chinese Taipei Open Taipei 2007,2007-08-23,FUJII Hiroko,KIM Junghyun,4,3,"11,11,11,6,9,7,11|6,8,4,11,11,11,6",3,GRAND_SLAM,WS,1863,Qualification,FUJII Hiroko (JPN),KIM Junghyun (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,TAN Paey Fern,MOON Bosun,4,3,"11,11,11,9,6,6,11|7,6,8,11,11,11,8",,GRAND_SLAM,WS,1863,Qualification,TAN Paey Fern (SGP),MOON Bosun (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,FUJINUMA Ai,MOON Bosun,4,2,"8,12,11,13,9,11|11,10,8,11,11,9",QR2,GRAND_SLAM,WS,1863,Qualification,FUJINUMA Ai (JPN),MOON Bosun (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,FUJINUMA Ai,TAN Paey Fern,4,1,"11,11,11,11,11|9,6,13,6,6",3,GRAND_SLAM,WS,1863,Qualification,FUJINUMA Ai (JPN),TAN Paey Fern (SGP)
-Chinese Taipei Open Taipei 2007,2007-08-23,JEE Minhyung,MA Minglu,4,1,"11,5,11,11,11|8,11,7,7,8",,GRAND_SLAM,WS,1863,Qualification,JEE Minhyung (AUS),MA Minglu (SGP)
-Chinese Taipei Open Taipei 2007,2007-08-23,HIURA Reiko,MA Minglu,4,3,"8,11,11,8,8,11,11|11,7,9,11,11,5,8",QR2,GRAND_SLAM,WS,1863,Qualification,HIURA Reiko (JPN),MA Minglu (SGP)
-Chinese Taipei Open Taipei 2007,2007-08-23,HIURA Reiko,JEE Minhyung,4,0,"11,11,11,11|9,7,5,5",3,GRAND_SLAM,WS,1863,Qualification,HIURA Reiko (JPN),JEE Minhyung (AUS)
-Chinese Taipei Open Taipei 2007,2007-08-23,ZHU Fang,YU Mei-Ju,4,2,"6,11,9,14,11,11|11,6,11,12,7,9",,GRAND_SLAM,WS,1863,Qualification,ZHU Fang (ESP),YU Mei-Ju (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,TASEI Mikie,YU Mei-Ju,4,1,"11,11,3,11,11|6,4,11,8,9",QR2,GRAND_SLAM,WS,1863,Qualification,TASEI Mikie (JPN),YU Mei-Ju (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,ZHU Fang,TASEI Mikie,4,0,"11,11,11,11|6,7,7,5",3,GRAND_SLAM,WS,1863,Qualification,ZHU Fang (ESP),TASEI Mikie (JPN)
-Chinese Taipei Open Taipei 2007,2007-08-23,LI Jiawei,PAOVIC Sandra,4,3,"7,11,9,11,10,11,11|11,6,11,9,12,7,7",R32,GRAND_SLAM,WS,1863,Main Draw,LI Jiawei (SGP),PAOVIC Sandra (CRO)
-Chinese Taipei Open Taipei 2007,2007-08-23,HUANG Yi-Hua,WATANABE Yuko,4,0,"11,11,11,11|2,5,5,7",R32,GRAND_SLAM,WS,1863,Main Draw,HUANG Yi-Hua (TPE),WATANABE Yuko (JPN)
-Chinese Taipei Open Taipei 2007,2007-08-23,ZHANG Rui,MOLNAR Cornelia,4,3,"7,8,6,11,11,11,11|11,11,11,7,7,7,3",R32,GRAND_SLAM,WS,1863,Main Draw,ZHANG Rui (HKG),MOLNAR Cornelia (CRO)
-Chinese Taipei Open Taipei 2007,2007-08-23,HIURA Reiko,GAO Jun,4,3,"8,12,11,11,11,12,11|11,14,3,7,9,14,4",R32,GRAND_SLAM,WS,1863,Main Draw,HIURA Reiko (JPN),GAO Jun (USA)
-Chinese Taipei Open Taipei 2007,2007-08-23,HIRANO Sayaka,LEE Eunhee,4,1,"11,11,11,8,11|6,9,6,11,1",R32,GRAND_SLAM,WS,1863,Main Draw,HIRANO Sayaka (JPN),LEE Eunhee (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,WU Jiaduo,FUJINUMA Ai,4,3,"11,7,6,11,5,11,11|8,11,11,3,11,9,9",R32,GRAND_SLAM,WS,1863,Main Draw,WU Jiaduo (GER),FUJINUMA Ai (JPN)
-Chinese Taipei Open Taipei 2007,2007-08-23,LAU Sui Fei,TAN Wenling,4,0,"13,11,11,11|11,7,8,8",R32,GRAND_SLAM,WS,1863,Main Draw,LAU Sui Fei (HKG),TAN Wenling (ITA)
-Chinese Taipei Open Taipei 2007,2007-08-23,KIM Kyungah,YU Mengyu,4,1,"11,8,13,11,11|7,11,11,8,7",R32,GRAND_SLAM,WS,1863,Main Draw,KIM Kyungah (KOR),YU Mengyu (SGP)
-Chinese Taipei Open Taipei 2007,2007-08-23,MOON Hyunjung,FUKUHARA Ai,4,2,"11,7,11,11,11,15|4,11,5,13,6,13",R32,GRAND_SLAM,WS,1863,Main Draw,MOON Hyunjung (KOR),FUKUHARA Ai (JPN)
-Chinese Taipei Open Taipei 2007,2007-08-23,FUKUOKA Haruna,ZHU Fang,4,1,"16,13,11,6,11|14,11,9,11,7",R32,GRAND_SLAM,WS,1863,Main Draw,FUKUOKA Haruna (JPN),ZHU Fang (ESP)
-Chinese Taipei Open Taipei 2007,2007-08-23,KANAZAWA Saki,BOROS Tamara,4,2,"9,11,11,8,11,11|11,8,8,11,7,8",R32,GRAND_SLAM,WS,1863,Main Draw,KANAZAWA Saki (JPN),BOROS Tamara (CRO)
-Chinese Taipei Open Taipei 2007,2007-08-23,SUN Beibei,ETSUZAKI Ayumi,4,1,"11,11,9,11,11|4,4,11,8,2",R32,GRAND_SLAM,WS,1863,Main Draw,SUN Beibei (SGP),ETSUZAKI Ayumi (JPN)
-Chinese Taipei Open Taipei 2007,2007-08-23,FENG Tianwei,LIU Jia,4,3,"11,12,8,11,10,8,11|8,10,11,6,12,11,3",R32,GRAND_SLAM,WS,1863,Main Draw,FENG Tianwei (SGP),LIU Jia (AUT)
-Chinese Taipei Open Taipei 2007,2007-08-23,POTA Georgina,PARK Miyoung,4,1,"11,11,8,12,11|7,3,11,10,9",R32,GRAND_SLAM,WS,1863,Main Draw,POTA Georgina (HUN),PARK Miyoung (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,TOTH Krisztina,SHEN Yanfei,4,3,"11,11,11,9,6,8,11|6,6,4,11,11,11,8",R32,GRAND_SLAM,WS,1863,Main Draw,TOTH Krisztina (HUN),SHEN Yanfei (ESP)
-Chinese Taipei Open Taipei 2007,2007-08-23,WANG Yuegu,FUJII Hiroko,4,1,"11,15,11,12,11|5,13,8,14,8",R32,GRAND_SLAM,WS,1863,Main Draw,WANG Yuegu (SGP),FUJII Hiroko (JPN)
-Chinese Taipei Open Taipei 2007,2007-08-23,LI Jiawei,HUANG Yi-Hua,4,0,"11,11,11,11|8,7,7,5",R16,GRAND_SLAM,WS,1863,Main Draw,LI Jiawei (SGP),HUANG Yi-Hua (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,ZHANG Rui,HIURA Reiko,4,1,"11,11,11,9,11|6,7,2,11,8",R16,GRAND_SLAM,WS,1863,Main Draw,ZHANG Rui (HKG),HIURA Reiko (JPN)
-Chinese Taipei Open Taipei 2007,2007-08-23,WU Jiaduo,HIRANO Sayaka,4,0,"11,11,13,11|6,6,11,9",R16,GRAND_SLAM,WS,1863,Main Draw,WU Jiaduo (GER),HIRANO Sayaka (JPN)
-Chinese Taipei Open Taipei 2007,2007-08-23,KIM Kyungah,LAU Sui Fei,4,1,"4,11,11,11,11|11,7,6,7,9",R16,GRAND_SLAM,WS,1863,Main Draw,KIM Kyungah (KOR),LAU Sui Fei (HKG)
-Chinese Taipei Open Taipei 2007,2007-08-23,FUKUOKA Haruna,MOON Hyunjung,4,0,"11,11,12,11|8,7,10,9",R16,GRAND_SLAM,WS,1863,Main Draw,FUKUOKA Haruna (JPN),MOON Hyunjung (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,SUN Beibei,KANAZAWA Saki,4,1,"11,13,17,10,11|5,11,15,12,3",R16,GRAND_SLAM,WS,1863,Main Draw,SUN Beibei (SGP),KANAZAWA Saki (JPN)
-Chinese Taipei Open Taipei 2007,2007-08-23,FENG Tianwei,POTA Georgina,4,0,"11,11,11,11|3,6,3,5",R16,GRAND_SLAM,WS,1863,Main Draw,FENG Tianwei (SGP),POTA Georgina (HUN)
-Chinese Taipei Open Taipei 2007,2007-08-23,WANG Yuegu,TOTH Krisztina,4,0,"11,11,12,11|9,4,10,7",R16,GRAND_SLAM,WS,1863,Main Draw,WANG Yuegu (SGP),TOTH Krisztina (HUN)
-Chinese Taipei Open Taipei 2007,2007-08-23,LI Jiawei,ZHANG Rui,4,0,"11,13,11,11|6,11,7,9",QF,GRAND_SLAM,WS,1863,Main Draw,LI Jiawei (SGP),ZHANG Rui (HKG)
-Chinese Taipei Open Taipei 2007,2007-08-23,WU Jiaduo,KIM Kyungah,4,2,"11,6,5,14,11,11|6,11,11,12,6,7",QF,GRAND_SLAM,WS,1863,Main Draw,WU Jiaduo (GER),KIM Kyungah (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,FUKUOKA Haruna,SUN Beibei,4,0,"12,11,11,11|10,7,6,6",QF,GRAND_SLAM,WS,1863,Main Draw,FUKUOKA Haruna (JPN),SUN Beibei (SGP)
-Chinese Taipei Open Taipei 2007,2007-08-23,FENG Tianwei,WANG Yuegu,4,0,"11,11,11,11|9,9,9,7",QF,GRAND_SLAM,WS,1863,Main Draw,FENG Tianwei (SGP),WANG Yuegu (SGP)
-Chinese Taipei Open Taipei 2007,2007-08-23,LI Jiawei,WU Jiaduo,4,3,"11,9,13,11,11,12,11|6,11,15,6,3,14,6",SF,GRAND_SLAM,WS,1863,Main Draw,LI Jiawei (SGP),WU Jiaduo (GER)
-Chinese Taipei Open Taipei 2007,2007-08-23,FENG Tianwei,FUKUOKA Haruna,4,1,"8,12,11,11,11|11,10,6,8,7",SF,GRAND_SLAM,WS,1863,Main Draw,FENG Tianwei (SGP),FUKUOKA Haruna (JPN)
-Chinese Taipei Open Taipei 2007,2007-08-23,LI Jiawei,FENG Tianwei,4,2,"8,11,11,11,9,11|11,8,4,7,11,5",F,GRAND_SLAM,WS,1863,Main Draw,LI Jiawei (SGP),FENG Tianwei (SGP)
-Chinese Taipei Open Taipei 2007,2007-08-23,HOU Yu-Ling,YU Chun-Ho,4,0,,,GRAND_SLAM,U21WS,1863,Qualification,HOU Yu-Ling (TPE),YU Chun-Ho (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,YU Kwok See,YU Chun-Ho,3,1,"10,11,11,11|12,7,4,3",QR2,GRAND_SLAM,U21WS,1863,Qualification,YU Kwok See (HKG),YU Chun-Ho (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,YU Kwok See,HOU Yu-Ling,3,0,"11,11,11|8,7,5",3,GRAND_SLAM,U21WS,1863,Qualification,YU Kwok See (HKG),HOU Yu-Ling (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,HSIUNG Nai-I,YANG Ching-Ching,3,1,"11,11,3,11|9,2,11,5",,GRAND_SLAM,U21WS,1863,Qualification,HSIUNG Nai-I (TPE),YANG Ching-Ching (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,CHO Hala,YANG Ching-Ching,3,0,"11,11,11|3,9,6",QR2,GRAND_SLAM,U21WS,1863,Qualification,CHO Hala (KOR),YANG Ching-Ching (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,CHO Hala,HSIUNG Nai-I,3,2,"11,11,9,7,12|3,8,11,11,10",3,GRAND_SLAM,U21WS,1863,Qualification,CHO Hala (KOR),HSIUNG Nai-I (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,LIU Hsing-Yin,TSAI Pei-Ju,3,2,"11,11,7,12,11|13,9,11,10,7",,GRAND_SLAM,U21WS,1863,Qualification,LIU Hsing-Yin (TPE),TSAI Pei-Ju (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,LI Bin,TSAI Pei-Ju,3,0,"11,11,11|3,4,7",QR2,GRAND_SLAM,U21WS,1863,Qualification,LI Bin (HUN),TSAI Pei-Ju (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,LIU Hsing-Yin,LI Bin,3,1,"12,12,8,11|10,10,11,8",3,GRAND_SLAM,U21WS,1863,Qualification,LIU Hsing-Yin (TPE),LI Bin (HUN)
-Chinese Taipei Open Taipei 2007,2007-08-23,CHENG I-Ching,YU Eomji,3,1,"11,11,9,11|6,3,11,8",,GRAND_SLAM,U21WS,1863,Qualification,CHENG I-Ching (TPE),YU Eomji (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,MA Minglu,CHEN Yu-Lin,3,0,"11,11,11|9,3,8",QR2,GRAND_SLAM,U21WS,1863,Qualification,MA Minglu (SGP),CHEN Yu-Lin (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,CHENG I-Ching,CHEN Yu-Lin,3,0,"11,11,11|8,6,6",3,GRAND_SLAM,U21WS,1863,Qualification,CHENG I-Ching (TPE),CHEN Yu-Lin (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,MA Minglu,YU Eomji,3,1,"11,8,11,11|9,11,6,9",QR4,GRAND_SLAM,U21WS,1863,Qualification,MA Minglu (SGP),YU Eomji (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,CHENG I-Ching,MA Minglu,3,0,"11,11,11|3,6,9",5,GRAND_SLAM,U21WS,1863,Qualification,CHENG I-Ching (TPE),MA Minglu (SGP)
-Chinese Taipei Open Taipei 2007,2007-08-23,YU Eomji,CHEN Yu-Lin,3,1,"12,11,6,11|10,9,11,8",6,GRAND_SLAM,U21WS,1863,Qualification,YU Eomji (KOR),CHEN Yu-Lin (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,PENG Wan-Hua,LEE I-Chen,3,0,"12,11,11|10,7,7",,GRAND_SLAM,U21WS,1863,Qualification,PENG Wan-Hua (TPE),LEE I-Chen (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,MOON Bosun,PENG Wan-Hua,3,0,"11,11,11|2,9,6",QR2,GRAND_SLAM,U21WS,1863,Qualification,MOON Bosun (KOR),PENG Wan-Hua (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,MOON Bosun,LEE I-Chen,3,0,"12,11,13|10,7,11",3,GRAND_SLAM,U21WS,1863,Qualification,MOON Bosun (KOR),LEE I-Chen (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,HEINE Veronika,CHO Yi-Chin,3,2,"11,5,12,11,11|7,11,14,7,4",,GRAND_SLAM,U21WS,1863,Qualification,HEINE Veronika (AUT),CHO Yi-Chin (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,PERGEL Szandra,HSU Hui-Tsun,3,2,"6,11,8,11,11|11,7,11,3,6",QR2,GRAND_SLAM,U21WS,1863,Qualification,PERGEL Szandra (HUN),HSU Hui-Tsun (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,HEINE Veronika,PERGEL Szandra,3,2,"11,9,7,14,11|5,11,11,12,9",3,GRAND_SLAM,U21WS,1863,Qualification,HEINE Veronika (AUT),PERGEL Szandra (HUN)
-Chinese Taipei Open Taipei 2007,2007-08-23,HSU Hui-Tsun,CHO Yi-Chin,3,1,"7,11,17,11|11,2,15,7",QR4,GRAND_SLAM,U21WS,1863,Qualification,HSU Hui-Tsun (TPE),CHO Yi-Chin (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,HEINE Veronika,HSU Hui-Tsun,3,2,"6,11,11,4,11|11,9,7,11,2",5,GRAND_SLAM,U21WS,1863,Qualification,HEINE Veronika (AUT),HSU Hui-Tsun (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,CHO Yi-Chin,PERGEL Szandra,3,2,"11,16,9,3,11|7,14,11,11,8",6,GRAND_SLAM,U21WS,1863,Qualification,CHO Yi-Chin (TPE),PERGEL Szandra (HUN)
-Chinese Taipei Open Taipei 2007,2007-08-23,CHENG I-Ching,YU Mengyu,4,2,"11,7,12,11,11,11|8,11,14,9,5,9",QF,GRAND_SLAM,U21WS,1863,Main Draw,CHENG I-Ching (TPE),YU Mengyu (SGP)
-Chinese Taipei Open Taipei 2007,2007-08-23,BARTHEL Zhenqi,LIU Hsing-Yin,4,0,"11,12,11,11|2,10,6,5",QF,GRAND_SLAM,U21WS,1863,Main Draw,BARTHEL Zhenqi (GER),LIU Hsing-Yin (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,YU Kwok See,JEE Minhyung,4,2,"9,11,9,11,12,11|11,7,11,8,10,2",QF,GRAND_SLAM,U21WS,1863,Main Draw,YU Kwok See (HKG),JEE Minhyung (AUS)
-Chinese Taipei Open Taipei 2007,2007-08-23,FENG Tianwei,CHO Hala,4,0,"13,11,11,16|11,7,7,14",QF,GRAND_SLAM,U21WS,1863,Main Draw,FENG Tianwei (SGP),CHO Hala (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,BARTHEL Zhenqi,CHENG I-Ching,4,2,"3,11,11,5,11,11|11,7,6,11,4,5",SF,GRAND_SLAM,U21WS,1863,Main Draw,BARTHEL Zhenqi (GER),CHENG I-Ching (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,FENG Tianwei,YU Kwok See,4,1,"9,14,11,11,11|11,12,8,8,5",SF,GRAND_SLAM,U21WS,1863,Main Draw,FENG Tianwei (SGP),YU Kwok See (HKG)
-Chinese Taipei Open Taipei 2007,2007-08-23,FENG Tianwei,BARTHEL Zhenqi,4,0,"11,11,11,11|9,2,9,9",F,GRAND_SLAM,U21WS,1863,Main Draw,FENG Tianwei (SGP),BARTHEL Zhenqi (GER)
-Chinese Taipei Open Taipei 2007,2007-08-23,LIU Hsing-Yin,HEINE Veronika,3,1,"11,8,14,11|5,11,12,8",QR4,GRAND_SLAM,U21WS,1863,Qualification,LIU Hsing-Yin (TPE),HEINE Veronika (AUT)
-Chinese Taipei Open Taipei 2007,2007-08-23,CHENG I-Ching,MOON Bosun,3,2,"7,11,11,9,11|11,8,7,11,3",QR4,GRAND_SLAM,U21WS,1863,Qualification,CHENG I-Ching (TPE),MOON Bosun (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,CANTERO Jesus/WANG Jianan,GORAK Daniel/VOSTES Yannick,3,2,"3,11,11,11,11|11,7,7,13,3",QR32,GRAND_SLAM,MD,1863,Qualification,CANTERO Jesus (ESP) / WANG Jianan (CGO),GORAK Daniel (POL) / VOSTES Yannick (BEL)
-Chinese Taipei Open Taipei 2007,2007-08-23,LEBESSON Emmanuel/MATTENET Adrien,MATSUDAIRA Kenta/OYA Hidetoshi,3,1,"9,11,13,11|11,8,11,5",QR32,GRAND_SLAM,MD,1863,Qualification,LEBESSON Emmanuel (FRA) / MATTENET Adrien (FRA),MATSUDAIRA Kenta (JPN) / OYA Hidetoshi (JPN)
-Chinese Taipei Open Taipei 2007,2007-08-23,ROSSKOPF Jorg/STEGER Bastian,LEBESSON Emmanuel/MATTENET Adrien,3,1,"11,11,12,11|9,7,14,7",QR16,GRAND_SLAM,MD,1863,Qualification,ROSSKOPF Jorg (GER) / STEGER Bastian (GER),LEBESSON Emmanuel (FRA) / MATTENET Adrien (FRA)
-Chinese Taipei Open Taipei 2007,2007-08-23,BAUM Patrick/FEJER-KONNERTH Zoltan,LI Kwun Ngai/TSE Ka Chun,3,1,"11,11,4,11|6,4,11,4",QR32,GRAND_SLAM,MD,1863,Qualification,BAUM Patrick (GER) / FEJER-KONNERTH Zoltan (GER),LI Kwun Ngai (HKG) / TSE Ka Chun (HKG)
-Chinese Taipei Open Taipei 2007,2007-08-23,CHO Eonrae/YOON Jaeyoung,BAUM Patrick/FEJER-KONNERTH Zoltan,3,2,"13,5,11,6,11|11,11,8,11,9",QR16,GRAND_SLAM,MD,1863,Qualification,CHO Eonrae (KOR) / YOON Jaeyoung (KOR),BAUM Patrick (GER) / FEJER-KONNERTH Zoltan (GER)
-Chinese Taipei Open Taipei 2007,2007-08-23,ROSSKOPF Jorg/STEGER Bastian,PERSSON Jorgen/SVENSSON Robert,4,3,"6,11,11,11,16,11,12|11,7,8,4,18,13,10",R16,GRAND_SLAM,MD,1863,Main Draw,ROSSKOPF Jorg (GER) / STEGER Bastian (GER),PERSSON Jorgen (SWE) / SVENSSON Robert (SWE)
-Chinese Taipei Open Taipei 2007,2007-08-23,OVTCHAROV Dimitrij/SUSS Christian,GERELL Par/LUNDQVIST Jens,4,0,"11,11,13,11|3,8,11,7",R16,GRAND_SLAM,MD,1863,Main Draw,OVTCHAROV Dimitrij (GER) / SUSS Christian (GER),GERELL Par (SWE) / LUNDQVIST Jens (SWE)
-Chinese Taipei Open Taipei 2007,2007-08-23,OVTCHAROV Dimitrij/SUSS Christian,LEE Jungwoo/OH Sangeun,4,1,"4,11,11,11,11|11,8,0,0,0",QF,GRAND_SLAM,MD,1863,Main Draw,OVTCHAROV Dimitrij (GER) / SUSS Christian (GER),LEE Jungwoo (KOR) / OH Sangeun (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,JAKAB Janos/PAZSY Ferenc,LAI Kuan-Shen/WEI Chun-Ta,3,0,"11,11,11|5,5,9",QR32,GRAND_SLAM,MD,1863,Qualification,JAKAB Janos (HUN) / PAZSY Ferenc (HUN),LAI Kuan-Shen (TPE) / WEI Chun-Ta (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,GAVLAS Antonin/KORBEL Petr,ZOMBORI David/ZWICKL Daniel,3,0,"11,11,11|8,7,2",QR32,GRAND_SLAM,MD,1863,Qualification,GAVLAS Antonin (CZE) / KORBEL Petr (CZE),ZOMBORI David (HUN) / ZWICKL Daniel (HUN)
-Chinese Taipei Open Taipei 2007,2007-08-23,JAKAB Janos/PAZSY Ferenc,KEEN Trinko/PRIMORAC Zoran,3,0,,QR16,GRAND_SLAM,MD,1863,Qualification,JAKAB Janos (HUN) / PAZSY Ferenc (HUN),KEEN Trinko (NED) / PRIMORAC Zoran (CRO)
-Chinese Taipei Open Taipei 2007,2007-08-23,LEE Jungwoo/OH Sangeun,JAKAB Janos/PAZSY Ferenc,4,0,,R16,GRAND_SLAM,MD,1863,Main Draw,LEE Jungwoo (KOR) / OH Sangeun (KOR),JAKAB Janos (HUN) / PAZSY Ferenc (HUN)
-Chinese Taipei Open Taipei 2007,2007-08-23,AXELQVIST Johan/WOSIK Torben,NAKANO Yusuke/NAMIKI Yusuke,3,2,"11,11,6,7,11|6,8,11,11,8",QR32,GRAND_SLAM,MD,1863,Qualification,AXELQVIST Johan (SWE) / WOSIK Torben (GER),NAKANO Yusuke (JPN) / NAMIKI Yusuke (JPN)
-Chinese Taipei Open Taipei 2007,2007-08-23,KISHIKAWA Seiya/MIZUTANI Jun,CHUANG Chih-Yuan/WU Chih-Chi,4,2,"10,11,9,12,11,11|12,8,11,10,4,6",R16,GRAND_SLAM,MD,1863,Main Draw,KISHIKAWA Seiya (JPN) / MIZUTANI Jun (JPN),CHUANG Chih-Yuan (TPE) / WU Chih-Chi (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,KISHIKAWA Seiya/MIZUTANI Jun,ROSSKOPF Jorg/STEGER Bastian,4,2,"11,11,7,5,11,12|9,9,11,11,8,10",QF,GRAND_SLAM,MD,1863,Main Draw,KISHIKAWA Seiya (JPN) / MIZUTANI Jun (JPN),ROSSKOPF Jorg (GER) / STEGER Bastian (GER)
-Chinese Taipei Open Taipei 2007,2007-08-23,OVTCHAROV Dimitrij/SUSS Christian,KISHIKAWA Seiya/MIZUTANI Jun,4,3,"4,13,12,11,11,7,11|11,15,10,8,9,11,9",SF,GRAND_SLAM,MD,1863,Main Draw,OVTCHAROV Dimitrij (GER) / SUSS Christian (GER),KISHIKAWA Seiya (JPN) / MIZUTANI Jun (JPN)
-Chinese Taipei Open Taipei 2007,2007-08-23,CHEN Weixing/JOO Saehyuk,CHOU Yuan-Chieh/HUANG Chang-Chun,3,1,"11,11,13,11|5,3,15,8",QR16,GRAND_SLAM,MD,1863,Qualification,CHEN Weixing (AUT) / JOO Saehyuk (KOR),CHOU Yuan-Chieh (TPE) / HUANG Chang-Chun (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,KIM Junghoon/LIM Jaehyun,AXELQVIST Johan/WOSIK Torben,3,0,"11,11,11|8,5,7",QR16,GRAND_SLAM,MD,1863,Qualification,KIM Junghoon (KOR) / LIM Jaehyun (KOR),AXELQVIST Johan (SWE) / WOSIK Torben (GER)
-Chinese Taipei Open Taipei 2007,2007-08-23,CHO Eonrae/YOON Jaeyoung,CHEUNG Yuk/LEUNG Chu Yan,4,1,"11,11,15,5,11|9,7,13,11,9",R16,GRAND_SLAM,MD,1863,Main Draw,CHO Eonrae (KOR) / YOON Jaeyoung (KOR),CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG)
-Chinese Taipei Open Taipei 2007,2007-08-23,LIU Zhongze/MA Liang,LEE Jinkwon/LEE Jungjae,4,2,"11,7,5,11,11,11|7,11,11,9,5,5",R16,GRAND_SLAM,MD,1863,Main Draw,LIU Zhongze (SGP) / MA Liang (SGP),LEE Jinkwon (KOR) / LEE Jungjae (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,KIM Junghoon/LIM Jaehyun,CHANG Yen-Shu/CHIANG Peng-Lung,4,2,"8,11,6,13,11,11|11,7,11,11,3,9",R16,GRAND_SLAM,MD,1863,Main Draw,KIM Junghoon (KOR) / LIM Jaehyun (KOR),CHANG Yen-Shu (TPE) / CHIANG Peng-Lung (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,LIU Zhongze/MA Liang,CANTERO Jesus/WANG Jianan,3,1,"13,8,12,11|11,11,10,6",QR16,GRAND_SLAM,MD,1863,Qualification,LIU Zhongze (SGP) / MA Liang (SGP),CANTERO Jesus (ESP) / WANG Jianan (CGO)
-Chinese Taipei Open Taipei 2007,2007-08-23,GAO Ning/YANG Zi,CHEN Weixing/JOO Saehyuk,4,0,,R16,GRAND_SLAM,MD,1863,Main Draw,GAO Ning (SGP) / YANG Zi (SGP),CHEN Weixing (AUT) / JOO Saehyuk (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,GAO Ning/YANG Zi,CHO Eonrae/YOON Jaeyoung,4,2,"11,9,7,11,11,11|4,11,11,6,9,9",QF,GRAND_SLAM,MD,1863,Main Draw,GAO Ning (SGP) / YANG Zi (SGP),CHO Eonrae (KOR) / YOON Jaeyoung (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,KIM Junghoon/LIM Jaehyun,LIU Zhongze/MA Liang,4,3,"11,5,11,11,11,11,11|13,11,4,8,8,13,9",QF,GRAND_SLAM,MD,1863,Main Draw,KIM Junghoon (KOR) / LIM Jaehyun (KOR),LIU Zhongze (SGP) / MA Liang (SGP)
-Chinese Taipei Open Taipei 2007,2007-08-23,GAO Ning/YANG Zi,KIM Junghoon/LIM Jaehyun,4,2,"11,11,11,8,11,11|8,6,13,11,7,8",SF,GRAND_SLAM,MD,1863,Main Draw,GAO Ning (SGP) / YANG Zi (SGP),KIM Junghoon (KOR) / LIM Jaehyun (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,OVTCHAROV Dimitrij/SUSS Christian,GAO Ning/YANG Zi,4,1,"8,11,11,12,11|11,7,7,10,7",F,GRAND_SLAM,MD,1863,Main Draw,OVTCHAROV Dimitrij (GER) / SUSS Christian (GER),GAO Ning (SGP) / YANG Zi (SGP)
-Chinese Taipei Open Taipei 2007,2007-08-23,GERELL Par/LUNDQVIST Jens,LINDSAY Kenneth/WANG YANG Martin,3,0,"11,11,11|1,2,3",QR32,GRAND_SLAM,MD,1863,Qualification,GERELL Par (SWE) / LUNDQVIST Jens (SWE),LINDSAY Kenneth (SCO) / WANG YANG Martin (PAR)
-Chinese Taipei Open Taipei 2007,2007-08-23,GERELL Par/LUNDQVIST Jens,HAN Jimin/LEE Jungsam,3,0,"11,17,11|5,15,7",QR16,GRAND_SLAM,MD,1863,Qualification,GERELL Par (SWE) / LUNDQVIST Jens (SWE),HAN Jimin (KOR) / LEE Jungsam (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,CHOU Yuan-Chieh/HUANG Chang-Chun,SAKAMOTO Ryusuke/TAKAKIWA Taku,3,1,"11,9,12,11|9,11,10,9",QR32,GRAND_SLAM,MD,1863,Qualification,CHOU Yuan-Chieh (TPE) / HUANG Chang-Chun (TPE),SAKAMOTO Ryusuke (JPN) / TAKAKIWA Taku (JPN)
-Chinese Taipei Open Taipei 2007,2007-08-23,HAN Jimin/LEE Jungsam,CHEN Chien-An/CHOU Tung-Yu,3,0,"11,11,11|7,5,8",QR32,GRAND_SLAM,MD,1863,Qualification,HAN Jimin (KOR) / LEE Jungsam (KOR),CHEN Chien-An (TPE) / CHOU Tung-Yu (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,LIU Zhongze/MA Liang,CHIANG Hung-Chieh/HUANG Sheng-Sheng,3,0,"12,11,11|10,8,5",QR32,GRAND_SLAM,MD,1863,Qualification,LIU Zhongze (SGP) / MA Liang (SGP),CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,CHUANG Chih-Yuan/WU Chih-Chi,DURAN Marc/MACHADO Carlos,3,0,"11,11,11|7,3,9",QR32,GRAND_SLAM,MD,1863,Qualification,CHUANG Chih-Yuan (TPE) / WU Chih-Chi (TPE),DURAN Marc (ESP) / MACHADO Carlos (ESP)
-Chinese Taipei Open Taipei 2007,2007-08-23,CHUANG Chih-Yuan/WU Chih-Chi,GAVLAS Antonin/KORBEL Petr,3,2,"11,11,12,9,11|6,8,14,11,4",QR16,GRAND_SLAM,MD,1863,Qualification,CHUANG Chih-Yuan (TPE) / WU Chih-Chi (TPE),GAVLAS Antonin (CZE) / KORBEL Petr (CZE)
-Chinese Taipei Open Taipei 2007,2007-08-23,HEINE Veronika/LI Qiangbing,PAN Chun-Chu/YU Mei-Ju,3,2,"7,11,9,11,12|11,9,11,6,10",QR16,GRAND_SLAM,WD,1863,Qualification,HEINE Veronika (AUT) / LI Qiangbing (AUT),PAN Chun-Chu (TPE) / YU Mei-Ju (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,PAOVIC Sandra/MOLNAR Cornelia,JUN Hyunsil/YU Eomji,3,2,"11,8,13,9,11|7,11,11,11,5",QR32,GRAND_SLAM,WD,1863,Qualification,PAOVIC Sandra (CRO) / MOLNAR Cornelia (CRO),JUN Hyunsil (KOR) / YU Eomji (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,FENG Tianwei/WANG Yuegu,PAOVIC Sandra/MOLNAR Cornelia,3,0,"11,11,11|6,9,7",QR16,GRAND_SLAM,WD,1863,Qualification,FENG Tianwei (SGP) / WANG Yuegu (SGP),PAOVIC Sandra (CRO) / MOLNAR Cornelia (CRO)
-Chinese Taipei Open Taipei 2007,2007-08-23,BOROS Tamara/KRAMER Tanja,CHEN Wen-Jing/LIU Hsing-Yin,3,2,"11,5,11,11,11|13,11,9,6,8",QR32,GRAND_SLAM,WD,1863,Qualification,BOROS Tamara (CRO) / KRAMER Tanja (GER),CHEN Wen-Jing (TPE) / LIU Hsing-Yin (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,FUKUOKA Haruna/TASEI Mikie,BOROS Tamara/KRAMER Tanja,3,0,"11,11,11|5,7,4",QR16,GRAND_SLAM,WD,1863,Qualification,FUKUOKA Haruna (JPN) / TASEI Mikie (JPN),BOROS Tamara (CRO) / KRAMER Tanja (GER)
-Chinese Taipei Open Taipei 2007,2007-08-23,HIURA Reiko/WATANABE Yuko,STRUSE Nicole/WU Jiaduo,3,2,"11,7,8,11,11|5,11,11,5,4",QR16,GRAND_SLAM,WD,1863,Qualification,HIURA Reiko (JPN) / WATANABE Yuko (JPN),STRUSE Nicole (GER) / WU Jiaduo (GER)
-Chinese Taipei Open Taipei 2007,2007-08-23,FUJII Hiroko/KONISHI An,LAU Sui Fei/ZHANG Rui,4,2,"11,12,4,11,11,11|7,14,11,4,9,4",R16,GRAND_SLAM,WD,1863,Main Draw,FUJII Hiroko (JPN) / KONISHI An (JPN),LAU Sui Fei (HKG) / ZHANG Rui (HKG)
-Chinese Taipei Open Taipei 2007,2007-08-23,CHENG I-Ching/LEE I-Chen,LOVAS Petra/PERGEL Szandra,3,0,"11,11,11|8,6,9",QR32,GRAND_SLAM,WD,1863,Qualification,CHENG I-Ching (TPE) / LEE I-Chen (TPE),LOVAS Petra (HUN) / PERGEL Szandra (HUN)
-Chinese Taipei Open Taipei 2007,2007-08-23,POTA Georgina/TOTH Krisztina,HEINE Veronika/LI Qiangbing,4,1,"8,11,11,11,11|11,4,4,4,2",R16,GRAND_SLAM,WD,1863,Main Draw,POTA Georgina (HUN) / TOTH Krisztina (HUN),HEINE Veronika (AUT) / LI Qiangbing (AUT)
-Chinese Taipei Open Taipei 2007,2007-08-23,GAO Jun/SHEN Yanfei,POTA Georgina/TOTH Krisztina,4,3,"11,11,8,9,11,11,11|6,13,11,11,5,3,7",QF,GRAND_SLAM,WD,1863,Main Draw,GAO Jun (USA) / SHEN Yanfei (ESP),POTA Georgina (HUN) / TOTH Krisztina (HUN)
-Chinese Taipei Open Taipei 2007,2007-08-23,KWAK Bangbang/LEE Eunhee,ETSUZAKI Ayumi/NONAKA Yuki,3,2,"4,10,11,14,11|11,12,6,12,3",QR32,GRAND_SLAM,WD,1863,Qualification,KWAK Bangbang (KOR) / LEE Eunhee (KOR),ETSUZAKI Ayumi (JPN) / NONAKA Yuki (JPN)
-Chinese Taipei Open Taipei 2007,2007-08-23,FUKUOKA Haruna/TASEI Mikie,STEFANOVA Nikoleta/TAN Wenling,4,2,"7,11,10,11,11,11|11,7,12,5,7,5",R16,GRAND_SLAM,WD,1863,Main Draw,FUKUOKA Haruna (JPN) / TASEI Mikie (JPN),STEFANOVA Nikoleta (ITA) / TAN Wenling (ITA)
-Chinese Taipei Open Taipei 2007,2007-08-23,FUJINUMA Ai/FUKUHARA Ai,KWAK Bangbang/LEE Eunhee,4,3,"11,12,13,11,9,3,11|9,14,11,6,11,11,6",R16,GRAND_SLAM,WD,1863,Main Draw,FUJINUMA Ai (JPN) / FUKUHARA Ai (JPN),KWAK Bangbang (KOR) / LEE Eunhee (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,GAO Jun/SHEN Yanfei,HIURA Reiko/WATANABE Yuko,4,2,"11,11,8,11,9,11|9,8,11,6,11,5",R16,GRAND_SLAM,WD,1863,Main Draw,GAO Jun (USA) / SHEN Yanfei (ESP),HIURA Reiko (JPN) / WATANABE Yuko (JPN)
-Chinese Taipei Open Taipei 2007,2007-08-23,FUJII Hiroko/KONISHI An,FUKUOKA Haruna/TASEI Mikie,4,2,"11,11,8,11,11,11|7,9,11,13,7,9",QF,GRAND_SLAM,WD,1863,Main Draw,FUJII Hiroko (JPN) / KONISHI An (JPN),FUKUOKA Haruna (JPN) / TASEI Mikie (JPN)
-Chinese Taipei Open Taipei 2007,2007-08-23,FUJINUMA Ai/FUKUHARA Ai,KIM Kyungah/PARK Miyoung,4,2,"7,11,11,11,9,11|11,8,8,7,11,8",QF,GRAND_SLAM,WD,1863,Main Draw,FUJINUMA Ai (JPN) / FUKUHARA Ai (JPN),KIM Kyungah (KOR) / PARK Miyoung (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,GAO Jun/SHEN Yanfei,FUJINUMA Ai/FUKUHARA Ai,4,0,"11,11,11,11|6,6,3,5",SF,GRAND_SLAM,WD,1863,Main Draw,GAO Jun (USA) / SHEN Yanfei (ESP),FUJINUMA Ai (JPN) / FUKUHARA Ai (JPN)
-Chinese Taipei Open Taipei 2007,2007-08-23,KIM Junghyun/LEE Hyangmi,LI Bin/YU Kwok See,3,2,"11,11,7,8,11|5,4,11,11,4",QR32,GRAND_SLAM,WD,1863,Qualification,KIM Junghyun (KOR) / LEE Hyangmi (KOR),LI Bin (HUN) / YU Kwok See (HKG)
-Chinese Taipei Open Taipei 2007,2007-08-23,KIM Junghyun/LEE Hyangmi,BARTHEL Zhenqi/LIU Jia,3,0,,QR16,GRAND_SLAM,WD,1863,Qualification,KIM Junghyun (KOR) / LEE Hyangmi (KOR),BARTHEL Zhenqi (GER) / LIU Jia (AUT)
-Chinese Taipei Open Taipei 2007,2007-08-23,CHENG I-Ching/LEE I-Chen,JEE Minhyung/MOON Hyunjung,3,2,"10,11,7,11,11|12,7,11,5,7",QR16,GRAND_SLAM,WD,1863,Qualification,CHENG I-Ching (TPE) / LEE I-Chen (TPE),JEE Minhyung (AUS) / MOON Hyunjung (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,MA Minglu/YU Mengyu,HSIUNG Nai-I/TSAI Pei-Ju,3,1,"11,1,12,11|4,11,10,7",QR32,GRAND_SLAM,WD,1863,Qualification,MA Minglu (SGP) / YU Mengyu (SGP),HSIUNG Nai-I (TPE) / TSAI Pei-Ju (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,FUJII Hiroko/KONISHI An,MA Minglu/YU Mengyu,3,2,"5,12,11,11,11|11,10,13,9,9",QR16,GRAND_SLAM,WD,1863,Qualification,FUJII Hiroko (JPN) / KONISHI An (JPN),MA Minglu (SGP) / YU Mengyu (SGP)
-Chinese Taipei Open Taipei 2007,2007-08-23,LI Jiawei/SUN Beibei,KIM Junghyun/LEE Hyangmi,4,2,"11,18,6,9,12,11|5,16,11,11,10,5",R16,GRAND_SLAM,WD,1863,Main Draw,LI Jiawei (SGP) / SUN Beibei (SGP),KIM Junghyun (KOR) / LEE Hyangmi (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,KIM Kyungah/PARK Miyoung,FENG Tianwei/WANG Yuegu,4,1,"11,10,11,12,11|7,12,7,10,5",R16,GRAND_SLAM,WD,1863,Main Draw,KIM Kyungah (KOR) / PARK Miyoung (KOR),FENG Tianwei (SGP) / WANG Yuegu (SGP)
-Chinese Taipei Open Taipei 2007,2007-08-23,LI Jiawei/SUN Beibei,HIRANO Sayaka/KANAZAWA Saki,4,2,"5,10,11,14,11,11|11,12,9,12,8,8",QF,GRAND_SLAM,WD,1863,Main Draw,LI Jiawei (SGP) / SUN Beibei (SGP),HIRANO Sayaka (JPN) / KANAZAWA Saki (JPN)
-Chinese Taipei Open Taipei 2007,2007-08-23,LI Jiawei/SUN Beibei,FUJII Hiroko/KONISHI An,4,1,"11,11,11,9,11|8,5,4,11,8",SF,GRAND_SLAM,WD,1863,Main Draw,LI Jiawei (SGP) / SUN Beibei (SGP),FUJII Hiroko (JPN) / KONISHI An (JPN)
-Chinese Taipei Open Taipei 2007,2007-08-23,GAO Jun/SHEN Yanfei,LI Jiawei/SUN Beibei,4,1,"11,11,7,11,11|9,5,11,3,5",F,GRAND_SLAM,WD,1863,Main Draw,GAO Jun (USA) / SHEN Yanfei (ESP),LI Jiawei (SGP) / SUN Beibei (SGP)
-Chinese Taipei Open Taipei 2007,2007-08-23,PAN Chun-Chu/YU Mei-Ju,CHO Hala/MOON Bosun,3,0,"11,11,15|5,6,13",QR32,GRAND_SLAM,WD,1863,Qualification,PAN Chun-Chu (TPE) / YU Mei-Ju (TPE),CHO Hala (KOR) / MOON Bosun (KOR)
-Chinese Taipei Open Taipei 2007,2007-08-23,HIURA Reiko/WATANABE Yuko,CHEN Yu-Lin/HSU Hui-Tsun,3,0,"11,11,15|5,4,13",QR32,GRAND_SLAM,WD,1863,Qualification,HIURA Reiko (JPN) / WATANABE Yuko (JPN),CHEN Yu-Lin (TPE) / HSU Hui-Tsun (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,KWAK Bangbang/LEE Eunhee,HUANG Yi-Hua/LU Yun-Feng,3,0,"12,11,11|10,9,8",QR16,GRAND_SLAM,WD,1863,Qualification,KWAK Bangbang (KOR) / LEE Eunhee (KOR),HUANG Yi-Hua (TPE) / LU Yun-Feng (TPE)
-Chinese Taipei Open Taipei 2007,2007-08-23,HIRANO Sayaka/KANAZAWA Saki,CHENG I-Ching/LEE I-Chen,4,2,"11,8,11,11,11,11|6,11,8,9,13,7",R16,GRAND_SLAM,WD,1863,Main Draw,HIRANO Sayaka (JPN) / KANAZAWA Saki (JPN),CHENG I-Ching (TPE) / LEE I-Chen (TPE)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Chinese Taipei Open Taipei 2007,2007-08-23,BOLL Timo,CANTERO Jesus,4,0,"11,14,11,11|4,12,9,7",R64,GRAND_SLAM,MS,1863,Main Draw,BOLL Timo (GER),CANTERO Jesus (ESP),BOLL Timo
+Chinese Taipei Open Taipei 2007,2007-08-23,KARAKASEVIC Aleksandar,WANG Jianan,4,3,"3,9,5,11,11,11,11|11,11,11,8,9,6,4",R64,GRAND_SLAM,MS,1863,Main Draw,KARAKASEVIC Aleksandar (SRB),WANG Jianan (CGO),KARAKASEVIC Aleksandar
+Chinese Taipei Open Taipei 2007,2007-08-23,CHEUNG Yuk,MA Liang,4,2,"4,11,11,7,11,11|11,9,8,11,2,6",R64,GRAND_SLAM,MS,1863,Main Draw,CHEUNG Yuk (HKG),MA Liang (SGP),CHEUNG Yuk
+Chinese Taipei Open Taipei 2007,2007-08-23,PERSSON Jorgen,GAVLAS Antonin,4,0,"11,11,11,11|8,3,7,6",R64,GRAND_SLAM,MS,1863,Main Draw,PERSSON Jorgen (SWE),GAVLAS Antonin (CZE),PERSSON Jorgen
+Chinese Taipei Open Taipei 2007,2007-08-23,KORBEL Petr,CAI Xiaoli,4,2,"10,11,11,10,11,11|12,5,8,12,5,9",R64,GRAND_SLAM,MS,1863,Main Draw,KORBEL Petr (CZE),CAI Xiaoli (SGP),KORBEL Petr
+Chinese Taipei Open Taipei 2007,2007-08-23,WU Chih-Chi,YOSHIDA Kaii,4,2,"11,11,11,3,7,11|6,7,6,11,11,8",R64,GRAND_SLAM,MS,1863,Main Draw,WU Chih-Chi (TPE),YOSHIDA Kaii (JPN),WU Chih-Chi
+Chinese Taipei Open Taipei 2007,2007-08-23,TAKAKIWA Taku,LIM Jaehyun,4,0,"11,12,11,12|8,10,9,10",R64,GRAND_SLAM,MS,1863,Main Draw,TAKAKIWA Taku (JPN),LIM Jaehyun (KOR),TAKAKIWA Taku
+Chinese Taipei Open Taipei 2007,2007-08-23,GORAK Daniel,CHEN Weixing,4,0,,R64,GRAND_SLAM,MS,1863,Main Draw,GORAK Daniel (POL),CHEN Weixing (AUT),GORAK Daniel
+Chinese Taipei Open Taipei 2007,2007-08-23,GAO Ning,JAKAB Janos,4,3,"11,12,11,11,9,9,17|7,14,5,7,11,11,15",R64,GRAND_SLAM,MS,1863,Main Draw,GAO Ning (SGP),JAKAB Janos (HUN),GAO Ning
+Chinese Taipei Open Taipei 2007,2007-08-23,FEJER-KONNERTH Zoltan,SVENSSON Robert,4,0,"11,11,11,11|6,3,3,8",R64,GRAND_SLAM,MS,1863,Main Draw,FEJER-KONNERTH Zoltan (GER),SVENSSON Robert (SWE),FEJER-KONNERTH Zoltan
+Chinese Taipei Open Taipei 2007,2007-08-23,CHIANG Hung-Chieh,DURAN Marc,4,3,"7,11,11,5,3,11,11|11,9,5,11,11,6,8",R64,GRAND_SLAM,MS,1863,Main Draw,CHIANG Hung-Chieh (TPE),DURAN Marc (ESP),CHIANG Hung-Chieh
+Chinese Taipei Open Taipei 2007,2007-08-23,LEE Jungwoo,LIU Zhongze,4,1,"10,12,11,11,11|12,10,9,5,9",R64,GRAND_SLAM,MS,1863,Main Draw,LEE Jungwoo (KOR),LIU Zhongze (SGP),LEE Jungwoo
+Chinese Taipei Open Taipei 2007,2007-08-23,OVTCHAROV Dimitrij,VOSTES Yannick,4,1,"5,11,11,11,11|11,4,8,9,6",R64,GRAND_SLAM,MS,1863,Main Draw,OVTCHAROV Dimitrij (GER),VOSTES Yannick (BEL),OVTCHAROV Dimitrij
+Chinese Taipei Open Taipei 2007,2007-08-23,LEE Jungjae,NAMIKI Yusuke,4,3,"3,4,9,11,11,11,11|11,11,11,9,8,3,4",R64,GRAND_SLAM,MS,1863,Main Draw,LEE Jungjae (KOR),NAMIKI Yusuke (JPN),LEE Jungjae
+Chinese Taipei Open Taipei 2007,2007-08-23,SUSS Christian,AXELQVIST Johan,4,2,"4,6,11,11,11,11|11,11,4,8,9,8",R64,GRAND_SLAM,MS,1863,Main Draw,SUSS Christian (GER),AXELQVIST Johan (SWE),SUSS Christian
+Chinese Taipei Open Taipei 2007,2007-08-23,JOO Saehyuk,HUANG Sheng-Sheng,4,0,"11,16,11,11|7,14,9,4",R64,GRAND_SLAM,MS,1863,Main Draw,JOO Saehyuk (KOR),HUANG Sheng-Sheng (TPE),JOO Saehyuk
+Chinese Taipei Open Taipei 2007,2007-08-23,OH Sangeun,CHEN Chien-An,4,0,"11,11,11,11|5,7,4,7",R64,GRAND_SLAM,MS,1863,Main Draw,OH Sangeun (KOR),CHEN Chien-An (TPE),OH Sangeun
+Chinese Taipei Open Taipei 2007,2007-08-23,WOSIK Torben,LEE Jinkwon,4,0,"11,11,11,11|5,6,9,4",R64,GRAND_SLAM,MS,1863,Main Draw,WOSIK Torben (GER),LEE Jinkwon (KOR),WOSIK Torben
+Chinese Taipei Open Taipei 2007,2007-08-23,MATSUDAIRA Kenta,KEEN Trinko,4,2,"12,11,4,11,4,11|10,9,11,9,11,7",R64,GRAND_SLAM,MS,1863,Main Draw,MATSUDAIRA Kenta (JPN),KEEN Trinko (NED),MATSUDAIRA Kenta
+Chinese Taipei Open Taipei 2007,2007-08-23,CHIANG Peng-Lung,KIM Junghoon,4,1,"11,11,11,10,11|7,8,8,12,7",R64,GRAND_SLAM,MS,1863,Main Draw,CHIANG Peng-Lung (TPE),KIM Junghoon (KOR),CHIANG Peng-Lung
+Chinese Taipei Open Taipei 2007,2007-08-23,STEGER Bastian,ZOMBORI David,4,0,"11,11,11,11|6,8,7,1",R64,GRAND_SLAM,MS,1863,Main Draw,STEGER Bastian (GER),ZOMBORI David (HUN),STEGER Bastian
+Chinese Taipei Open Taipei 2007,2007-08-23,LEE Jungsam,LEUNG Chu Yan,4,1,"11,10,13,11,11|9,12,11,4,5",R64,GRAND_SLAM,MS,1863,Main Draw,LEE Jungsam (KOR),LEUNG Chu Yan (HKG),LEE Jungsam
+Chinese Taipei Open Taipei 2007,2007-08-23,MIZUTANI Jun,BAUM Patrick,4,0,"11,11,11,11|8,5,5,8",R64,GRAND_SLAM,MS,1863,Main Draw,MIZUTANI Jun (JPN),BAUM Patrick (GER),MIZUTANI Jun
+Chinese Taipei Open Taipei 2007,2007-08-23,CHOU Tung-Yu,HAN Jimin,4,2,"11,12,12,9,12,11|6,10,10,11,14,8",R64,GRAND_SLAM,MS,1863,Main Draw,CHOU Tung-Yu (TPE),HAN Jimin (KOR),CHOU Tung-Yu
+Chinese Taipei Open Taipei 2007,2007-08-23,CHUANG Chih-Yuan,OYA Hidetoshi,4,1,"11,11,11,11,12|13,2,5,3,10",R64,GRAND_SLAM,MS,1863,Main Draw,CHUANG Chih-Yuan (TPE),OYA Hidetoshi (JPN),CHUANG Chih-Yuan
+Chinese Taipei Open Taipei 2007,2007-08-23,CHO Eonrae,SAKAMOTO Ryusuke,4,2,"7,11,8,11,11,11|11,7,11,5,8,4",R64,GRAND_SLAM,MS,1863,Main Draw,CHO Eonrae (KOR),SAKAMOTO Ryusuke (JPN),CHO Eonrae
+Chinese Taipei Open Taipei 2007,2007-08-23,ROSSKOPF Jorg,GERELL Par,4,3,"8,15,11,11,11,9,11|11,17,5,7,9,11,9",R64,GRAND_SLAM,MS,1863,Main Draw,ROSSKOPF Jorg (GER),GERELL Par (SWE),ROSSKOPF Jorg
+Chinese Taipei Open Taipei 2007,2007-08-23,SAIVE Jean-Michel,ZWICKL Daniel,4,2,"10,11,11,11,7,11|12,8,9,9,11,9",R64,GRAND_SLAM,MS,1863,Main Draw,SAIVE Jean-Michel (BEL),ZWICKL Daniel (HUN),SAIVE Jean-Michel
+Chinese Taipei Open Taipei 2007,2007-08-23,YANG Zi,CHANG Yen-Shu,4,2,"11,8,11,6,11,11|8,11,8,11,9,8",R64,GRAND_SLAM,MS,1863,Main Draw,YANG Zi (SGP),CHANG Yen-Shu (TPE),YANG Zi
+Chinese Taipei Open Taipei 2007,2007-08-23,YOON Jaeyoung,NAKANO Yusuke,4,1,"8,11,11,11,11|11,5,4,5,6",R64,GRAND_SLAM,MS,1863,Main Draw,YOON Jaeyoung (KOR),NAKANO Yusuke (JPN),YOON Jaeyoung
+Chinese Taipei Open Taipei 2007,2007-08-23,LUNDQVIST Jens,PAZSY Ferenc,4,0,,R64,GRAND_SLAM,MS,1863,Main Draw,LUNDQVIST Jens (SWE),PAZSY Ferenc (HUN),LUNDQVIST Jens
+Chinese Taipei Open Taipei 2007,2007-08-23,SAMSONOV Vladimir,LINDSAY Kenneth,4,0,"11,11,11,11|5,3,7,1",R64,GRAND_SLAM,MS,1863,Main Draw,SAMSONOV Vladimir (BLR),LINDSAY Kenneth (SCO),SAMSONOV Vladimir
+Chinese Taipei Open Taipei 2007,2007-08-23,BOLL Timo,KARAKASEVIC Aleksandar,4,1,"11,11,11,10,11|3,5,6,12,9",R32,GRAND_SLAM,MS,1863,Main Draw,BOLL Timo (GER),KARAKASEVIC Aleksandar (SRB),BOLL Timo
+Chinese Taipei Open Taipei 2007,2007-08-23,PERSSON Jorgen,CHEUNG Yuk,4,1,"11,11,6,12,11|7,7,11,10,4",R32,GRAND_SLAM,MS,1863,Main Draw,PERSSON Jorgen (SWE),CHEUNG Yuk (HKG),PERSSON Jorgen
+Chinese Taipei Open Taipei 2007,2007-08-23,KORBEL Petr,WU Chih-Chi,4,0,"11,12,11,11|4,10,8,3",R32,GRAND_SLAM,MS,1863,Main Draw,KORBEL Petr (CZE),WU Chih-Chi (TPE),KORBEL Petr
+Chinese Taipei Open Taipei 2007,2007-08-23,TAKAKIWA Taku,GORAK Daniel,4,2,"11,8,11,10,11,11|8,11,4,12,8,9",R32,GRAND_SLAM,MS,1863,Main Draw,TAKAKIWA Taku (JPN),GORAK Daniel (POL),TAKAKIWA Taku
+Chinese Taipei Open Taipei 2007,2007-08-23,GAO Ning,FEJER-KONNERTH Zoltan,4,0,"11,11,17,11|7,8,15,9",R32,GRAND_SLAM,MS,1863,Main Draw,GAO Ning (SGP),FEJER-KONNERTH Zoltan (GER),GAO Ning
+Chinese Taipei Open Taipei 2007,2007-08-23,CHIANG Hung-Chieh,LEE Jungwoo,4,2,"12,11,11,10,11,11|14,9,8,12,8,8",R32,GRAND_SLAM,MS,1863,Main Draw,CHIANG Hung-Chieh (TPE),LEE Jungwoo (KOR),CHIANG Hung-Chieh
+Chinese Taipei Open Taipei 2007,2007-08-23,OVTCHAROV Dimitrij,LEE Jungjae,4,0,"11,11,11,11|5,7,6,6",R32,GRAND_SLAM,MS,1863,Main Draw,OVTCHAROV Dimitrij (GER),LEE Jungjae (KOR),OVTCHAROV Dimitrij
+Chinese Taipei Open Taipei 2007,2007-08-23,JOO Saehyuk,SUSS Christian,4,3,"9,3,11,9,11,11,11|11,11,5,11,5,5,8",R32,GRAND_SLAM,MS,1863,Main Draw,JOO Saehyuk (KOR),SUSS Christian (GER),JOO Saehyuk
+Chinese Taipei Open Taipei 2007,2007-08-23,OH Sangeun,WOSIK Torben,4,1,"11,8,12,15,11|8,11,10,13,3",R32,GRAND_SLAM,MS,1863,Main Draw,OH Sangeun (KOR),WOSIK Torben (GER),OH Sangeun
+Chinese Taipei Open Taipei 2007,2007-08-23,CHIANG Peng-Lung,MATSUDAIRA Kenta,4,2,"9,11,7,11,11,11|11,3,11,9,3,6",R32,GRAND_SLAM,MS,1863,Main Draw,CHIANG Peng-Lung (TPE),MATSUDAIRA Kenta (JPN),CHIANG Peng-Lung
+Chinese Taipei Open Taipei 2007,2007-08-23,LEE Jungsam,STEGER Bastian,4,2,"10,11,11,9,11,11|12,9,3,11,2,8",R32,GRAND_SLAM,MS,1863,Main Draw,LEE Jungsam (KOR),STEGER Bastian (GER),LEE Jungsam
+Chinese Taipei Open Taipei 2007,2007-08-23,MIZUTANI Jun,CHOU Tung-Yu,4,0,"13,11,11,11|11,6,3,7",R32,GRAND_SLAM,MS,1863,Main Draw,MIZUTANI Jun (JPN),CHOU Tung-Yu (TPE),MIZUTANI Jun
+Chinese Taipei Open Taipei 2007,2007-08-23,CHUANG Chih-Yuan,CHO Eonrae,4,1,"11,11,11,7,16|4,4,8,11,14",R32,GRAND_SLAM,MS,1863,Main Draw,CHUANG Chih-Yuan (TPE),CHO Eonrae (KOR),CHUANG Chih-Yuan
+Chinese Taipei Open Taipei 2007,2007-08-23,ROSSKOPF Jorg,SAIVE Jean-Michel,4,3,"4,11,11,11,11,8,11|11,9,4,13,6,11,9",R32,GRAND_SLAM,MS,1863,Main Draw,ROSSKOPF Jorg (GER),SAIVE Jean-Michel (BEL),ROSSKOPF Jorg
+Chinese Taipei Open Taipei 2007,2007-08-23,YOON Jaeyoung,YANG Zi,4,2,"11,14,11,9,11,11|9,16,6,11,8,3",R32,GRAND_SLAM,MS,1863,Main Draw,YOON Jaeyoung (KOR),YANG Zi (SGP),YOON Jaeyoung
+Chinese Taipei Open Taipei 2007,2007-08-23,SAMSONOV Vladimir,LUNDQVIST Jens,4,2,"11,7,8,11,11,11|6,11,11,4,7,6",R32,GRAND_SLAM,MS,1863,Main Draw,SAMSONOV Vladimir (BLR),LUNDQVIST Jens (SWE),SAMSONOV Vladimir
+Chinese Taipei Open Taipei 2007,2007-08-23,BOLL Timo,PERSSON Jorgen,4,1,"11,7,11,12,11|8,11,6,10,9",R16,GRAND_SLAM,MS,1863,Main Draw,BOLL Timo (GER),PERSSON Jorgen (SWE),BOLL Timo
+Chinese Taipei Open Taipei 2007,2007-08-23,KORBEL Petr,TAKAKIWA Taku,4,3,"11,10,13,11,6,16,11|8,12,11,13,11,14,8",R16,GRAND_SLAM,MS,1863,Main Draw,KORBEL Petr (CZE),TAKAKIWA Taku (JPN),KORBEL Petr
+Chinese Taipei Open Taipei 2007,2007-08-23,GAO Ning,CHIANG Hung-Chieh,4,0,"11,11,11,11|9,5,8,9",R16,GRAND_SLAM,MS,1863,Main Draw,GAO Ning (SGP),CHIANG Hung-Chieh (TPE),GAO Ning
+Chinese Taipei Open Taipei 2007,2007-08-23,OVTCHAROV Dimitrij,JOO Saehyuk,4,2,"5,11,11,13,7,11|11,7,9,11,11,8",R16,GRAND_SLAM,MS,1863,Main Draw,OVTCHAROV Dimitrij (GER),JOO Saehyuk (KOR),OVTCHAROV Dimitrij
+Chinese Taipei Open Taipei 2007,2007-08-23,OH Sangeun,CHIANG Peng-Lung,4,1,"11,11,8,11,11|6,6,11,3,8",R16,GRAND_SLAM,MS,1863,Main Draw,OH Sangeun (KOR),CHIANG Peng-Lung (TPE),OH Sangeun
+Chinese Taipei Open Taipei 2007,2007-08-23,MIZUTANI Jun,LEE Jungsam,4,1,"11,11,11,7,11|8,7,9,11,6",R16,GRAND_SLAM,MS,1863,Main Draw,MIZUTANI Jun (JPN),LEE Jungsam (KOR),MIZUTANI Jun
+Chinese Taipei Open Taipei 2007,2007-08-23,CHUANG Chih-Yuan,ROSSKOPF Jorg,4,2,"11,3,11,11,5,11|7,11,5,5,11,9",R16,GRAND_SLAM,MS,1863,Main Draw,CHUANG Chih-Yuan (TPE),ROSSKOPF Jorg (GER),CHUANG Chih-Yuan
+Chinese Taipei Open Taipei 2007,2007-08-23,SAMSONOV Vladimir,YOON Jaeyoung,4,1,"13,12,5,11,11|11,10,11,9,9",R16,GRAND_SLAM,MS,1863,Main Draw,SAMSONOV Vladimir (BLR),YOON Jaeyoung (KOR),SAMSONOV Vladimir
+Chinese Taipei Open Taipei 2007,2007-08-23,BOLL Timo,KORBEL Petr,4,1,"11,11,7,11,11|9,9,11,4,5",QF,GRAND_SLAM,MS,1863,Main Draw,BOLL Timo (GER),KORBEL Petr (CZE),BOLL Timo
+Chinese Taipei Open Taipei 2007,2007-08-23,GAO Ning,OVTCHAROV Dimitrij,4,1,"10,11,17,11,11|12,9,15,9,4",QF,GRAND_SLAM,MS,1863,Main Draw,GAO Ning (SGP),OVTCHAROV Dimitrij (GER),GAO Ning
+Chinese Taipei Open Taipei 2007,2007-08-23,MIZUTANI Jun,OH Sangeun,4,2,"8,11,11,15,11,12|11,6,13,13,3,10",QF,GRAND_SLAM,MS,1863,Main Draw,MIZUTANI Jun (JPN),OH Sangeun (KOR),MIZUTANI Jun
+Chinese Taipei Open Taipei 2007,2007-08-23,SAMSONOV Vladimir,CHUANG Chih-Yuan,4,1,"11,11,10,11,11|6,7,12,9,5",QF,GRAND_SLAM,MS,1863,Main Draw,SAMSONOV Vladimir (BLR),CHUANG Chih-Yuan (TPE),SAMSONOV Vladimir
+Chinese Taipei Open Taipei 2007,2007-08-23,BOLL Timo,GAO Ning,4,2,"13,13,6,7,11,11|11,11,11,11,8,8",SF,GRAND_SLAM,MS,1863,Main Draw,BOLL Timo (GER),GAO Ning (SGP),BOLL Timo
+Chinese Taipei Open Taipei 2007,2007-08-23,SAMSONOV Vladimir,MIZUTANI Jun,4,0,"11,11,11,11|6,7,8,8",SF,GRAND_SLAM,MS,1863,Main Draw,SAMSONOV Vladimir (BLR),MIZUTANI Jun (JPN),SAMSONOV Vladimir
+Chinese Taipei Open Taipei 2007,2007-08-23,SAMSONOV Vladimir,BOLL Timo,4,0,"11,11,11,11|4,8,8,3",F,GRAND_SLAM,MS,1863,Main Draw,SAMSONOV Vladimir (BLR),BOLL Timo (GER),SAMSONOV Vladimir
+Chinese Taipei Open Taipei 2007,2007-08-23,CHOU Yuan-Chieh,WANG YANG Martin,3,0,"11,11,11|6,8,5",,GRAND_SLAM,U21MS,1863,Qualification,CHOU Yuan-Chieh (TPE),WANG YANG Martin (PAR),CHOU Yuan-Chieh
+Chinese Taipei Open Taipei 2007,2007-08-23,DURAN Marc,WANG YANG Martin,3,0,"11,11,11|4,3,5",QR2,GRAND_SLAM,U21MS,1863,Qualification,DURAN Marc (ESP),WANG YANG Martin (PAR),DURAN Marc
+Chinese Taipei Open Taipei 2007,2007-08-23,DURAN Marc,CHOU Yuan-Chieh,3,0,"11,12,11|3,10,8",3,GRAND_SLAM,U21MS,1863,Qualification,DURAN Marc (ESP),CHOU Yuan-Chieh (TPE),DURAN Marc
+Chinese Taipei Open Taipei 2007,2007-08-23,LINDSAY Kenneth,CHEN Po-Huang,3,2,"12,9,10,13,14|10,11,12,11,12",,GRAND_SLAM,U21MS,1863,Qualification,LINDSAY Kenneth (SCO),CHEN Po-Huang (TPE),LINDSAY Kenneth
+Chinese Taipei Open Taipei 2007,2007-08-23,LIU Zhongze,CHEN Po-Huang,3,2,"10,6,11,13,11|12,11,8,11,8",QR2,GRAND_SLAM,U21MS,1863,Qualification,LIU Zhongze (SGP),CHEN Po-Huang (TPE),LIU Zhongze
+Chinese Taipei Open Taipei 2007,2007-08-23,LIU Zhongze,LINDSAY Kenneth,3,0,"11,11,11|5,8,8",3,GRAND_SLAM,U21MS,1863,Qualification,LIU Zhongze (SGP),LINDSAY Kenneth (SCO),LIU Zhongze
+Chinese Taipei Open Taipei 2007,2007-08-23,HUANG Chang-Chun,LI Kwun Ngai,3,0,"11,11,11|8,3,6",,GRAND_SLAM,U21MS,1863,Qualification,HUANG Chang-Chun (TPE),LI Kwun Ngai (HKG),HUANG Chang-Chun
+Chinese Taipei Open Taipei 2007,2007-08-23,HUANG Chang-Chun,MA Liang,3,2,"11,6,5,11,11|5,11,11,8,8",QR2,GRAND_SLAM,U21MS,1863,Qualification,HUANG Chang-Chun (TPE),MA Liang (SGP),HUANG Chang-Chun
+Chinese Taipei Open Taipei 2007,2007-08-23,MA Liang,LI Kwun Ngai,3,0,"11,11,11|1,7,8",3,GRAND_SLAM,U21MS,1863,Qualification,MA Liang (SGP),LI Kwun Ngai (HKG),MA Liang
+Chinese Taipei Open Taipei 2007,2007-08-23,WANG Juo-Lin,HUNG Tzu-Hsiang,3,2,"8,10,11,11,11|11,12,3,9,6",,GRAND_SLAM,U21MS,1863,Qualification,WANG Juo-Lin (TPE),HUNG Tzu-Hsiang (TPE),WANG Juo-Lin
+Chinese Taipei Open Taipei 2007,2007-08-23,LEBESSON Emmanuel,HUNG Tzu-Hsiang,3,0,"11,11,12|3,3,10",QR2,GRAND_SLAM,U21MS,1863,Qualification,LEBESSON Emmanuel (FRA),HUNG Tzu-Hsiang (TPE),LEBESSON Emmanuel
+Chinese Taipei Open Taipei 2007,2007-08-23,LEBESSON Emmanuel,WANG Juo-Lin,3,2,"11,3,11,7,13|3,11,9,11,11",3,GRAND_SLAM,U21MS,1863,Qualification,LEBESSON Emmanuel (FRA),WANG Juo-Lin (TPE),LEBESSON Emmanuel
+Chinese Taipei Open Taipei 2007,2007-08-23,TSE Ka Chun,KVIST Andreas,3,2,"12,9,11,11,11|14,11,9,9,5",,GRAND_SLAM,U21MS,1863,Qualification,TSE Ka Chun (HKG),KVIST Andreas (SWE),TSE Ka Chun
+Chinese Taipei Open Taipei 2007,2007-08-23,HUANG Sheng-Sheng,KVIST Andreas,3,0,"11,11,13|8,7,11",QR2,GRAND_SLAM,U21MS,1863,Qualification,HUANG Sheng-Sheng (TPE),KVIST Andreas (SWE),HUANG Sheng-Sheng
+Chinese Taipei Open Taipei 2007,2007-08-23,HUANG Sheng-Sheng,TSE Ka Chun,3,1,"11,10,11,11|6,12,8,5",3,GRAND_SLAM,U21MS,1863,Qualification,HUANG Sheng-Sheng (TPE),TSE Ka Chun (HKG),HUANG Sheng-Sheng
+Chinese Taipei Open Taipei 2007,2007-08-23,ZOMBORI David,BORRE Rickard,3,1,"9,11,11,11|11,3,8,3",,GRAND_SLAM,U21MS,1863,Qualification,ZOMBORI David (HUN),BORRE Rickard (SWE),ZOMBORI David
+Chinese Taipei Open Taipei 2007,2007-08-23,CHOU Tung-Yu,BORRE Rickard,3,1,"11,8,11,11|3,11,6,5",QR2,GRAND_SLAM,U21MS,1863,Qualification,CHOU Tung-Yu (TPE),BORRE Rickard (SWE),CHOU Tung-Yu
+Chinese Taipei Open Taipei 2007,2007-08-23,CHOU Tung-Yu,ZOMBORI David,3,0,"11,11,11|9,4,5",3,GRAND_SLAM,U21MS,1863,Qualification,CHOU Tung-Yu (TPE),ZOMBORI David (HUN),CHOU Tung-Yu
+Chinese Taipei Open Taipei 2007,2007-08-23,HAN Jimin,YEH Chih-Wei,3,0,"12,11,11|10,6,3",,GRAND_SLAM,U21MS,1863,Qualification,HAN Jimin (KOR),YEH Chih-Wei (TPE),HAN Jimin
+Chinese Taipei Open Taipei 2007,2007-08-23,OYA Hidetoshi,YEH Chih-Wei,3,0,"11,11,11|9,8,9",QR2,GRAND_SLAM,U21MS,1863,Qualification,OYA Hidetoshi (JPN),YEH Chih-Wei (TPE),OYA Hidetoshi
+Chinese Taipei Open Taipei 2007,2007-08-23,OYA Hidetoshi,HAN Jimin,3,1,"11,12,11,11|6,10,13,4",3,GRAND_SLAM,U21MS,1863,Qualification,OYA Hidetoshi (JPN),HAN Jimin (KOR),OYA Hidetoshi
+Chinese Taipei Open Taipei 2007,2007-08-23,DURAN Marc,CHO Eonrae,4,1,"11,11,11,9,12|8,9,8,11,10",R16,GRAND_SLAM,U21MS,1863,Main Draw,DURAN Marc (ESP),CHO Eonrae (KOR),DURAN Marc
+Chinese Taipei Open Taipei 2007,2007-08-23,OYA Hidetoshi,JAKAB Janos,4,2,"12,11,7,7,11,11|10,9,11,11,8,5",R16,GRAND_SLAM,U21MS,1863,Main Draw,OYA Hidetoshi (JPN),JAKAB Janos (HUN),OYA Hidetoshi
+Chinese Taipei Open Taipei 2007,2007-08-23,MATTENET Adrien,LEE Jinkwon,4,3,"6,11,12,5,11,7,11|11,9,10,11,6,11,8",R16,GRAND_SLAM,U21MS,1863,Main Draw,MATTENET Adrien (FRA),LEE Jinkwon (KOR),MATTENET Adrien
+Chinese Taipei Open Taipei 2007,2007-08-23,CHIANG Hung-Chieh,LIU Zhongze,4,1,"11,14,11,9,13|7,12,6,11,11",R16,GRAND_SLAM,U21MS,1863,Main Draw,CHIANG Hung-Chieh (TPE),LIU Zhongze (SGP),CHIANG Hung-Chieh
+Chinese Taipei Open Taipei 2007,2007-08-23,WU Chih-Chi,LEBESSON Emmanuel,4,1,"11,8,11,11,11|7,11,8,9,9",R16,GRAND_SLAM,U21MS,1863,Main Draw,WU Chih-Chi (TPE),LEBESSON Emmanuel (FRA),WU Chih-Chi
+Chinese Taipei Open Taipei 2007,2007-08-23,MATSUDAIRA Kenta,HUANG Sheng-Sheng,4,0,"11,11,11,11|6,3,8,6",R16,GRAND_SLAM,U21MS,1863,Main Draw,MATSUDAIRA Kenta (JPN),HUANG Sheng-Sheng (TPE),MATSUDAIRA Kenta
+Chinese Taipei Open Taipei 2007,2007-08-23,BAUM Patrick,HUANG Chang-Chun,4,3,"9,12,11,8,11,9,11|11,10,4,11,4,11,2",R16,GRAND_SLAM,U21MS,1863,Main Draw,BAUM Patrick (GER),HUANG Chang-Chun (TPE),BAUM Patrick
+Chinese Taipei Open Taipei 2007,2007-08-23,OYA Hidetoshi,DURAN Marc,4,0,"11,12,11,11|9,10,9,7",QF,GRAND_SLAM,U21MS,1863,Main Draw,OYA Hidetoshi (JPN),DURAN Marc (ESP),OYA Hidetoshi
+Chinese Taipei Open Taipei 2007,2007-08-23,MATTENET Adrien,CHIANG Hung-Chieh,4,3,"5,11,6,11,11,12,11|11,7,11,13,8,10,3",QF,GRAND_SLAM,U21MS,1863,Main Draw,MATTENET Adrien (FRA),CHIANG Hung-Chieh (TPE),MATTENET Adrien
+Chinese Taipei Open Taipei 2007,2007-08-23,MATSUDAIRA Kenta,WU Chih-Chi,4,2,"11,8,11,16,11,11|6,11,5,14,13,5",QF,GRAND_SLAM,U21MS,1863,Main Draw,MATSUDAIRA Kenta (JPN),WU Chih-Chi (TPE),MATSUDAIRA Kenta
+Chinese Taipei Open Taipei 2007,2007-08-23,BAUM Patrick,MIZUTANI Jun,4,3,"9,9,11,11,9,11,11|11,11,6,7,11,9,5",QF,GRAND_SLAM,U21MS,1863,Main Draw,BAUM Patrick (GER),MIZUTANI Jun (JPN),BAUM Patrick
+Chinese Taipei Open Taipei 2007,2007-08-23,MATTENET Adrien,OYA Hidetoshi,4,0,"11,11,11,16|5,8,7,14",SF,GRAND_SLAM,U21MS,1863,Main Draw,MATTENET Adrien (FRA),OYA Hidetoshi (JPN),MATTENET Adrien
+Chinese Taipei Open Taipei 2007,2007-08-23,MATSUDAIRA Kenta,BAUM Patrick,4,0,"11,11,11,11|6,7,5,5",SF,GRAND_SLAM,U21MS,1863,Main Draw,MATSUDAIRA Kenta (JPN),BAUM Patrick (GER),MATSUDAIRA Kenta
+Chinese Taipei Open Taipei 2007,2007-08-23,MATSUDAIRA Kenta,MATTENET Adrien,4,0,"11,11,11,11|6,2,7,4",F,GRAND_SLAM,U21MS,1863,Main Draw,MATSUDAIRA Kenta (JPN),MATTENET Adrien (FRA),MATSUDAIRA Kenta
+Chinese Taipei Open Taipei 2007,2007-08-23,CHEN Chien-An,CHUANG Cheng-Hsuan,3,1,"11,11,5,11|7,1,11,7",,GRAND_SLAM,U21MS,1863,Qualification,CHEN Chien-An (TPE),CHUANG Cheng-Hsuan (TPE),CHEN Chien-An
+Chinese Taipei Open Taipei 2007,2007-08-23,MATTENET Adrien,CHUANG Cheng-Hsuan,3,1,"11,11,8,11|5,5,11,7",QR2,GRAND_SLAM,U21MS,1863,Qualification,MATTENET Adrien (FRA),CHUANG Cheng-Hsuan (TPE),MATTENET Adrien
+Chinese Taipei Open Taipei 2007,2007-08-23,MATTENET Adrien,CHEN Chien-An,3,0,"11,11,11|7,4,7",3,GRAND_SLAM,U21MS,1863,Qualification,MATTENET Adrien (FRA),CHEN Chien-An (TPE),MATTENET Adrien
+Chinese Taipei Open Taipei 2007,2007-08-23,LEE Hyangmi,LI Bin,4,3,"11,9,11,10,16,11,11|8,11,13,12,14,7,3",,GRAND_SLAM,WS,1863,Qualification,LEE Hyangmi (KOR),LI Bin (HUN),LEE Hyangmi
+Chinese Taipei Open Taipei 2007,2007-08-23,TAN Wenling,LI Bin,4,0,"11,11,15,11|7,8,13,4",QR2,GRAND_SLAM,WS,1863,Qualification,TAN Wenling (ITA),LI Bin (HUN),TAN Wenling
+Chinese Taipei Open Taipei 2007,2007-08-23,TAN Wenling,LEE Hyangmi,4,1,"14,11,11,4,11|12,8,8,11,5",3,GRAND_SLAM,WS,1863,Qualification,TAN Wenling (ITA),LEE Hyangmi (KOR),TAN Wenling
+Chinese Taipei Open Taipei 2007,2007-08-23,PAN Chun-Chu,CHO Hala,4,3,"2,8,11,12,6,11,11|11,11,8,10,11,2,9",,GRAND_SLAM,WS,1863,Qualification,PAN Chun-Chu (TPE),CHO Hala (KOR),PAN Chun-Chu
+Chinese Taipei Open Taipei 2007,2007-08-23,TOTH Krisztina,CHO Hala,4,3,"9,9,11,3,11,11,11|11,11,9,11,5,9,4",QR2,GRAND_SLAM,WS,1863,Qualification,TOTH Krisztina (HUN),CHO Hala (KOR),TOTH Krisztina
+Chinese Taipei Open Taipei 2007,2007-08-23,TOTH Krisztina,PAN Chun-Chu,4,2,"11,10,11,11,9,11|9,12,5,8,11,8",3,GRAND_SLAM,WS,1863,Qualification,TOTH Krisztina (HUN),PAN Chun-Chu (TPE),TOTH Krisztina
+Chinese Taipei Open Taipei 2007,2007-08-23,CHENG I-Ching,YU Kwok See,4,2,"11,11,9,11,10,11|8,8,11,5,12,5",,GRAND_SLAM,WS,1863,Qualification,CHENG I-Ching (TPE),YU Kwok See (HKG),CHENG I-Ching
+Chinese Taipei Open Taipei 2007,2007-08-23,LEE Eunhee,CHENG I-Ching,4,0,"11,11,11,11|7,7,7,6",QR2,GRAND_SLAM,WS,1863,Qualification,LEE Eunhee (KOR),CHENG I-Ching (TPE),LEE Eunhee
+Chinese Taipei Open Taipei 2007,2007-08-23,LEE Eunhee,YU Kwok See,4,1,"12,9,11,11,11|10,11,7,1,9",3,GRAND_SLAM,WS,1863,Qualification,LEE Eunhee (KOR),YU Kwok See (HKG),LEE Eunhee
+Chinese Taipei Open Taipei 2007,2007-08-23,LEE I-Chen,BARTHEL Zhenqi,4,3,"9,12,5,8,11,12,14|11,10,11,11,9,10,12",,GRAND_SLAM,WS,1863,Qualification,LEE I-Chen (TPE),BARTHEL Zhenqi (GER),LEE I-Chen
+Chinese Taipei Open Taipei 2007,2007-08-23,BOROS Tamara,LEE I-Chen,4,1,"12,11,8,11,11|10,9,11,8,9",QR2,GRAND_SLAM,WS,1863,Qualification,BOROS Tamara (CRO),LEE I-Chen (TPE),BOROS Tamara
+Chinese Taipei Open Taipei 2007,2007-08-23,BOROS Tamara,BARTHEL Zhenqi,4,1,"11,11,9,11,11|9,7,11,4,5",3,GRAND_SLAM,WS,1863,Qualification,BOROS Tamara (CRO),BARTHEL Zhenqi (GER),BOROS Tamara
+Chinese Taipei Open Taipei 2007,2007-08-23,WATANABE Yuko,LU Yun-Feng,4,1,"11,11,4,11,11|7,9,11,7,5",,GRAND_SLAM,WS,1863,Qualification,WATANABE Yuko (JPN),LU Yun-Feng (TPE),WATANABE Yuko
+Chinese Taipei Open Taipei 2007,2007-08-23,WATANABE Yuko,STEFANOVA Nikoleta,4,2,"5,9,11,11,12,11|11,11,9,6,10,8",QR2,GRAND_SLAM,WS,1863,Qualification,WATANABE Yuko (JPN),STEFANOVA Nikoleta (ITA),WATANABE Yuko
+Chinese Taipei Open Taipei 2007,2007-08-23,LU Yun-Feng,STEFANOVA Nikoleta,4,2,"11,11,8,7,14,11|6,2,11,11,12,5",3,GRAND_SLAM,WS,1863,Qualification,LU Yun-Feng (TPE),STEFANOVA Nikoleta (ITA),LU Yun-Feng
+Chinese Taipei Open Taipei 2007,2007-08-23,ETSUZAKI Ayumi,HEINE Veronika,4,0,"11,11,11,11|9,6,5,2",,GRAND_SLAM,WS,1863,Qualification,ETSUZAKI Ayumi (JPN),HEINE Veronika (AUT),ETSUZAKI Ayumi
+Chinese Taipei Open Taipei 2007,2007-08-23,HEINE Veronika,STRUSE Nicole,4,3,"4,8,5,12,12,11,11|11,11,11,10,10,7,9",QR2,GRAND_SLAM,WS,1863,Qualification,HEINE Veronika (AUT),STRUSE Nicole (GER),HEINE Veronika
+Chinese Taipei Open Taipei 2007,2007-08-23,ETSUZAKI Ayumi,STRUSE Nicole,4,2,"7,11,13,5,11,11|11,5,11,11,7,3",3,GRAND_SLAM,WS,1863,Qualification,ETSUZAKI Ayumi (JPN),STRUSE Nicole (GER),ETSUZAKI Ayumi
+Chinese Taipei Open Taipei 2007,2007-08-23,KIM Junghyun,PERGEL Szandra,4,2,"11,9,11,11,4,11|6,11,4,9,11,8",,GRAND_SLAM,WS,1863,Qualification,KIM Junghyun (KOR),PERGEL Szandra (HUN),KIM Junghyun
+Chinese Taipei Open Taipei 2007,2007-08-23,FUJII Hiroko,PERGEL Szandra,4,0,"11,11,11,11|6,4,5,4",QR2,GRAND_SLAM,WS,1863,Qualification,FUJII Hiroko (JPN),PERGEL Szandra (HUN),FUJII Hiroko
+Chinese Taipei Open Taipei 2007,2007-08-23,FUJII Hiroko,KIM Junghyun,4,3,"11,11,11,6,9,7,11|6,8,4,11,11,11,6",3,GRAND_SLAM,WS,1863,Qualification,FUJII Hiroko (JPN),KIM Junghyun (KOR),FUJII Hiroko
+Chinese Taipei Open Taipei 2007,2007-08-23,TAN Paey Fern,MOON Bosun,4,3,"11,11,11,9,6,6,11|7,6,8,11,11,11,8",,GRAND_SLAM,WS,1863,Qualification,TAN Paey Fern (SGP),MOON Bosun (KOR),TAN Paey Fern
+Chinese Taipei Open Taipei 2007,2007-08-23,FUJINUMA Ai,MOON Bosun,4,2,"8,12,11,13,9,11|11,10,8,11,11,9",QR2,GRAND_SLAM,WS,1863,Qualification,FUJINUMA Ai (JPN),MOON Bosun (KOR),FUJINUMA Ai
+Chinese Taipei Open Taipei 2007,2007-08-23,FUJINUMA Ai,TAN Paey Fern,4,1,"11,11,11,11,11|9,6,13,6,6",3,GRAND_SLAM,WS,1863,Qualification,FUJINUMA Ai (JPN),TAN Paey Fern (SGP),FUJINUMA Ai
+Chinese Taipei Open Taipei 2007,2007-08-23,JEE Minhyung,MA Minglu,4,1,"11,5,11,11,11|8,11,7,7,8",,GRAND_SLAM,WS,1863,Qualification,JEE Minhyung (AUS),MA Minglu (SGP),JEE Minhyung
+Chinese Taipei Open Taipei 2007,2007-08-23,HIURA Reiko,MA Minglu,4,3,"8,11,11,8,8,11,11|11,7,9,11,11,5,8",QR2,GRAND_SLAM,WS,1863,Qualification,HIURA Reiko (JPN),MA Minglu (SGP),HIURA Reiko
+Chinese Taipei Open Taipei 2007,2007-08-23,HIURA Reiko,JEE Minhyung,4,0,"11,11,11,11|9,7,5,5",3,GRAND_SLAM,WS,1863,Qualification,HIURA Reiko (JPN),JEE Minhyung (AUS),HIURA Reiko
+Chinese Taipei Open Taipei 2007,2007-08-23,ZHU Fang,YU Mei-Ju,4,2,"6,11,9,14,11,11|11,6,11,12,7,9",,GRAND_SLAM,WS,1863,Qualification,ZHU Fang (ESP),YU Mei-Ju (TPE),ZHU Fang
+Chinese Taipei Open Taipei 2007,2007-08-23,TASEI Mikie,YU Mei-Ju,4,1,"11,11,3,11,11|6,4,11,8,9",QR2,GRAND_SLAM,WS,1863,Qualification,TASEI Mikie (JPN),YU Mei-Ju (TPE),TASEI Mikie
+Chinese Taipei Open Taipei 2007,2007-08-23,ZHU Fang,TASEI Mikie,4,0,"11,11,11,11|6,7,7,5",3,GRAND_SLAM,WS,1863,Qualification,ZHU Fang (ESP),TASEI Mikie (JPN),ZHU Fang
+Chinese Taipei Open Taipei 2007,2007-08-23,LI Jiawei,PAOVIC Sandra,4,3,"7,11,9,11,10,11,11|11,6,11,9,12,7,7",R32,GRAND_SLAM,WS,1863,Main Draw,LI Jiawei (SGP),PAOVIC Sandra (CRO),LI Jiawei
+Chinese Taipei Open Taipei 2007,2007-08-23,HUANG Yi-Hua,WATANABE Yuko,4,0,"11,11,11,11|2,5,5,7",R32,GRAND_SLAM,WS,1863,Main Draw,HUANG Yi-Hua (TPE),WATANABE Yuko (JPN),HUANG Yi-Hua
+Chinese Taipei Open Taipei 2007,2007-08-23,ZHANG Rui,MOLNAR Cornelia,4,3,"7,8,6,11,11,11,11|11,11,11,7,7,7,3",R32,GRAND_SLAM,WS,1863,Main Draw,ZHANG Rui (HKG),MOLNAR Cornelia (CRO),ZHANG Rui
+Chinese Taipei Open Taipei 2007,2007-08-23,HIURA Reiko,GAO Jun,4,3,"8,12,11,11,11,12,11|11,14,3,7,9,14,4",R32,GRAND_SLAM,WS,1863,Main Draw,HIURA Reiko (JPN),GAO Jun (USA),HIURA Reiko
+Chinese Taipei Open Taipei 2007,2007-08-23,HIRANO Sayaka,LEE Eunhee,4,1,"11,11,11,8,11|6,9,6,11,1",R32,GRAND_SLAM,WS,1863,Main Draw,HIRANO Sayaka (JPN),LEE Eunhee (KOR),HIRANO Sayaka
+Chinese Taipei Open Taipei 2007,2007-08-23,WU Jiaduo,FUJINUMA Ai,4,3,"11,7,6,11,5,11,11|8,11,11,3,11,9,9",R32,GRAND_SLAM,WS,1863,Main Draw,WU Jiaduo (GER),FUJINUMA Ai (JPN),WU Jiaduo
+Chinese Taipei Open Taipei 2007,2007-08-23,LAU Sui Fei,TAN Wenling,4,0,"13,11,11,11|11,7,8,8",R32,GRAND_SLAM,WS,1863,Main Draw,LAU Sui Fei (HKG),TAN Wenling (ITA),LAU Sui Fei
+Chinese Taipei Open Taipei 2007,2007-08-23,KIM Kyungah,YU Mengyu,4,1,"11,8,13,11,11|7,11,11,8,7",R32,GRAND_SLAM,WS,1863,Main Draw,KIM Kyungah (KOR),YU Mengyu (SGP),KIM Kyungah
+Chinese Taipei Open Taipei 2007,2007-08-23,MOON Hyunjung,FUKUHARA Ai,4,2,"11,7,11,11,11,15|4,11,5,13,6,13",R32,GRAND_SLAM,WS,1863,Main Draw,MOON Hyunjung (KOR),FUKUHARA Ai (JPN),MOON Hyunjung
+Chinese Taipei Open Taipei 2007,2007-08-23,FUKUOKA Haruna,ZHU Fang,4,1,"16,13,11,6,11|14,11,9,11,7",R32,GRAND_SLAM,WS,1863,Main Draw,FUKUOKA Haruna (JPN),ZHU Fang (ESP),FUKUOKA Haruna
+Chinese Taipei Open Taipei 2007,2007-08-23,KANAZAWA Saki,BOROS Tamara,4,2,"9,11,11,8,11,11|11,8,8,11,7,8",R32,GRAND_SLAM,WS,1863,Main Draw,KANAZAWA Saki (JPN),BOROS Tamara (CRO),KANAZAWA Saki
+Chinese Taipei Open Taipei 2007,2007-08-23,SUN Beibei,ETSUZAKI Ayumi,4,1,"11,11,9,11,11|4,4,11,8,2",R32,GRAND_SLAM,WS,1863,Main Draw,SUN Beibei (SGP),ETSUZAKI Ayumi (JPN),SUN Beibei
+Chinese Taipei Open Taipei 2007,2007-08-23,FENG Tianwei,LIU Jia,4,3,"11,12,8,11,10,8,11|8,10,11,6,12,11,3",R32,GRAND_SLAM,WS,1863,Main Draw,FENG Tianwei (SGP),LIU Jia (AUT),FENG Tianwei
+Chinese Taipei Open Taipei 2007,2007-08-23,POTA Georgina,PARK Miyoung,4,1,"11,11,8,12,11|7,3,11,10,9",R32,GRAND_SLAM,WS,1863,Main Draw,POTA Georgina (HUN),PARK Miyoung (KOR),POTA Georgina
+Chinese Taipei Open Taipei 2007,2007-08-23,TOTH Krisztina,SHEN Yanfei,4,3,"11,11,11,9,6,8,11|6,6,4,11,11,11,8",R32,GRAND_SLAM,WS,1863,Main Draw,TOTH Krisztina (HUN),SHEN Yanfei (ESP),TOTH Krisztina
+Chinese Taipei Open Taipei 2007,2007-08-23,WANG Yuegu,FUJII Hiroko,4,1,"11,15,11,12,11|5,13,8,14,8",R32,GRAND_SLAM,WS,1863,Main Draw,WANG Yuegu (SGP),FUJII Hiroko (JPN),WANG Yuegu
+Chinese Taipei Open Taipei 2007,2007-08-23,LI Jiawei,HUANG Yi-Hua,4,0,"11,11,11,11|8,7,7,5",R16,GRAND_SLAM,WS,1863,Main Draw,LI Jiawei (SGP),HUANG Yi-Hua (TPE),LI Jiawei
+Chinese Taipei Open Taipei 2007,2007-08-23,ZHANG Rui,HIURA Reiko,4,1,"11,11,11,9,11|6,7,2,11,8",R16,GRAND_SLAM,WS,1863,Main Draw,ZHANG Rui (HKG),HIURA Reiko (JPN),ZHANG Rui
+Chinese Taipei Open Taipei 2007,2007-08-23,WU Jiaduo,HIRANO Sayaka,4,0,"11,11,13,11|6,6,11,9",R16,GRAND_SLAM,WS,1863,Main Draw,WU Jiaduo (GER),HIRANO Sayaka (JPN),WU Jiaduo
+Chinese Taipei Open Taipei 2007,2007-08-23,KIM Kyungah,LAU Sui Fei,4,1,"4,11,11,11,11|11,7,6,7,9",R16,GRAND_SLAM,WS,1863,Main Draw,KIM Kyungah (KOR),LAU Sui Fei (HKG),KIM Kyungah
+Chinese Taipei Open Taipei 2007,2007-08-23,FUKUOKA Haruna,MOON Hyunjung,4,0,"11,11,12,11|8,7,10,9",R16,GRAND_SLAM,WS,1863,Main Draw,FUKUOKA Haruna (JPN),MOON Hyunjung (KOR),FUKUOKA Haruna
+Chinese Taipei Open Taipei 2007,2007-08-23,SUN Beibei,KANAZAWA Saki,4,1,"11,13,17,10,11|5,11,15,12,3",R16,GRAND_SLAM,WS,1863,Main Draw,SUN Beibei (SGP),KANAZAWA Saki (JPN),SUN Beibei
+Chinese Taipei Open Taipei 2007,2007-08-23,FENG Tianwei,POTA Georgina,4,0,"11,11,11,11|3,6,3,5",R16,GRAND_SLAM,WS,1863,Main Draw,FENG Tianwei (SGP),POTA Georgina (HUN),FENG Tianwei
+Chinese Taipei Open Taipei 2007,2007-08-23,WANG Yuegu,TOTH Krisztina,4,0,"11,11,12,11|9,4,10,7",R16,GRAND_SLAM,WS,1863,Main Draw,WANG Yuegu (SGP),TOTH Krisztina (HUN),WANG Yuegu
+Chinese Taipei Open Taipei 2007,2007-08-23,LI Jiawei,ZHANG Rui,4,0,"11,13,11,11|6,11,7,9",QF,GRAND_SLAM,WS,1863,Main Draw,LI Jiawei (SGP),ZHANG Rui (HKG),LI Jiawei
+Chinese Taipei Open Taipei 2007,2007-08-23,WU Jiaduo,KIM Kyungah,4,2,"11,6,5,14,11,11|6,11,11,12,6,7",QF,GRAND_SLAM,WS,1863,Main Draw,WU Jiaduo (GER),KIM Kyungah (KOR),WU Jiaduo
+Chinese Taipei Open Taipei 2007,2007-08-23,FUKUOKA Haruna,SUN Beibei,4,0,"12,11,11,11|10,7,6,6",QF,GRAND_SLAM,WS,1863,Main Draw,FUKUOKA Haruna (JPN),SUN Beibei (SGP),FUKUOKA Haruna
+Chinese Taipei Open Taipei 2007,2007-08-23,FENG Tianwei,WANG Yuegu,4,0,"11,11,11,11|9,9,9,7",QF,GRAND_SLAM,WS,1863,Main Draw,FENG Tianwei (SGP),WANG Yuegu (SGP),FENG Tianwei
+Chinese Taipei Open Taipei 2007,2007-08-23,LI Jiawei,WU Jiaduo,4,3,"11,9,13,11,11,12,11|6,11,15,6,3,14,6",SF,GRAND_SLAM,WS,1863,Main Draw,LI Jiawei (SGP),WU Jiaduo (GER),LI Jiawei
+Chinese Taipei Open Taipei 2007,2007-08-23,FENG Tianwei,FUKUOKA Haruna,4,1,"8,12,11,11,11|11,10,6,8,7",SF,GRAND_SLAM,WS,1863,Main Draw,FENG Tianwei (SGP),FUKUOKA Haruna (JPN),FENG Tianwei
+Chinese Taipei Open Taipei 2007,2007-08-23,LI Jiawei,FENG Tianwei,4,2,"8,11,11,11,9,11|11,8,4,7,11,5",F,GRAND_SLAM,WS,1863,Main Draw,LI Jiawei (SGP),FENG Tianwei (SGP),LI Jiawei
+Chinese Taipei Open Taipei 2007,2007-08-23,HOU Yu-Ling,YU Chun-Ho,4,0,,,GRAND_SLAM,U21WS,1863,Qualification,HOU Yu-Ling (TPE),YU Chun-Ho (TPE),HOU Yu-Ling
+Chinese Taipei Open Taipei 2007,2007-08-23,YU Kwok See,YU Chun-Ho,3,1,"10,11,11,11|12,7,4,3",QR2,GRAND_SLAM,U21WS,1863,Qualification,YU Kwok See (HKG),YU Chun-Ho (TPE),YU Kwok See
+Chinese Taipei Open Taipei 2007,2007-08-23,YU Kwok See,HOU Yu-Ling,3,0,"11,11,11|8,7,5",3,GRAND_SLAM,U21WS,1863,Qualification,YU Kwok See (HKG),HOU Yu-Ling (TPE),YU Kwok See
+Chinese Taipei Open Taipei 2007,2007-08-23,HSIUNG Nai-I,YANG Ching-Ching,3,1,"11,11,3,11|9,2,11,5",,GRAND_SLAM,U21WS,1863,Qualification,HSIUNG Nai-I (TPE),YANG Ching-Ching (TPE),HSIUNG Nai-I
+Chinese Taipei Open Taipei 2007,2007-08-23,CHO Hala,YANG Ching-Ching,3,0,"11,11,11|3,9,6",QR2,GRAND_SLAM,U21WS,1863,Qualification,CHO Hala (KOR),YANG Ching-Ching (TPE),CHO Hala
+Chinese Taipei Open Taipei 2007,2007-08-23,CHO Hala,HSIUNG Nai-I,3,2,"11,11,9,7,12|3,8,11,11,10",3,GRAND_SLAM,U21WS,1863,Qualification,CHO Hala (KOR),HSIUNG Nai-I (TPE),CHO Hala
+Chinese Taipei Open Taipei 2007,2007-08-23,LIU Hsing-Yin,TSAI Pei-Ju,3,2,"11,11,7,12,11|13,9,11,10,7",,GRAND_SLAM,U21WS,1863,Qualification,LIU Hsing-Yin (TPE),TSAI Pei-Ju (TPE),LIU Hsing-Yin
+Chinese Taipei Open Taipei 2007,2007-08-23,LI Bin,TSAI Pei-Ju,3,0,"11,11,11|3,4,7",QR2,GRAND_SLAM,U21WS,1863,Qualification,LI Bin (HUN),TSAI Pei-Ju (TPE),LI Bin
+Chinese Taipei Open Taipei 2007,2007-08-23,LIU Hsing-Yin,LI Bin,3,1,"12,12,8,11|10,10,11,8",3,GRAND_SLAM,U21WS,1863,Qualification,LIU Hsing-Yin (TPE),LI Bin (HUN),LIU Hsing-Yin
+Chinese Taipei Open Taipei 2007,2007-08-23,CHENG I-Ching,YU Eomji,3,1,"11,11,9,11|6,3,11,8",,GRAND_SLAM,U21WS,1863,Qualification,CHENG I-Ching (TPE),YU Eomji (KOR),CHENG I-Ching
+Chinese Taipei Open Taipei 2007,2007-08-23,MA Minglu,CHEN Yu-Lin,3,0,"11,11,11|9,3,8",QR2,GRAND_SLAM,U21WS,1863,Qualification,MA Minglu (SGP),CHEN Yu-Lin (TPE),MA Minglu
+Chinese Taipei Open Taipei 2007,2007-08-23,CHENG I-Ching,CHEN Yu-Lin,3,0,"11,11,11|8,6,6",3,GRAND_SLAM,U21WS,1863,Qualification,CHENG I-Ching (TPE),CHEN Yu-Lin (TPE),CHENG I-Ching
+Chinese Taipei Open Taipei 2007,2007-08-23,MA Minglu,YU Eomji,3,1,"11,8,11,11|9,11,6,9",QR4,GRAND_SLAM,U21WS,1863,Qualification,MA Minglu (SGP),YU Eomji (KOR),MA Minglu
+Chinese Taipei Open Taipei 2007,2007-08-23,CHENG I-Ching,MA Minglu,3,0,"11,11,11|3,6,9",5,GRAND_SLAM,U21WS,1863,Qualification,CHENG I-Ching (TPE),MA Minglu (SGP),CHENG I-Ching
+Chinese Taipei Open Taipei 2007,2007-08-23,YU Eomji,CHEN Yu-Lin,3,1,"12,11,6,11|10,9,11,8",6,GRAND_SLAM,U21WS,1863,Qualification,YU Eomji (KOR),CHEN Yu-Lin (TPE),YU Eomji
+Chinese Taipei Open Taipei 2007,2007-08-23,PENG Wan-Hua,LEE I-Chen,3,0,"12,11,11|10,7,7",,GRAND_SLAM,U21WS,1863,Qualification,PENG Wan-Hua (TPE),LEE I-Chen (TPE),PENG Wan-Hua
+Chinese Taipei Open Taipei 2007,2007-08-23,MOON Bosun,PENG Wan-Hua,3,0,"11,11,11|2,9,6",QR2,GRAND_SLAM,U21WS,1863,Qualification,MOON Bosun (KOR),PENG Wan-Hua (TPE),MOON Bosun
+Chinese Taipei Open Taipei 2007,2007-08-23,MOON Bosun,LEE I-Chen,3,0,"12,11,13|10,7,11",3,GRAND_SLAM,U21WS,1863,Qualification,MOON Bosun (KOR),LEE I-Chen (TPE),MOON Bosun
+Chinese Taipei Open Taipei 2007,2007-08-23,HEINE Veronika,CHO Yi-Chin,3,2,"11,5,12,11,11|7,11,14,7,4",,GRAND_SLAM,U21WS,1863,Qualification,HEINE Veronika (AUT),CHO Yi-Chin (TPE),HEINE Veronika
+Chinese Taipei Open Taipei 2007,2007-08-23,PERGEL Szandra,HSU Hui-Tsun,3,2,"6,11,8,11,11|11,7,11,3,6",QR2,GRAND_SLAM,U21WS,1863,Qualification,PERGEL Szandra (HUN),HSU Hui-Tsun (TPE),PERGEL Szandra
+Chinese Taipei Open Taipei 2007,2007-08-23,HEINE Veronika,PERGEL Szandra,3,2,"11,9,7,14,11|5,11,11,12,9",3,GRAND_SLAM,U21WS,1863,Qualification,HEINE Veronika (AUT),PERGEL Szandra (HUN),HEINE Veronika
+Chinese Taipei Open Taipei 2007,2007-08-23,HSU Hui-Tsun,CHO Yi-Chin,3,1,"7,11,17,11|11,2,15,7",QR4,GRAND_SLAM,U21WS,1863,Qualification,HSU Hui-Tsun (TPE),CHO Yi-Chin (TPE),HSU Hui-Tsun
+Chinese Taipei Open Taipei 2007,2007-08-23,HEINE Veronika,HSU Hui-Tsun,3,2,"6,11,11,4,11|11,9,7,11,2",5,GRAND_SLAM,U21WS,1863,Qualification,HEINE Veronika (AUT),HSU Hui-Tsun (TPE),HEINE Veronika
+Chinese Taipei Open Taipei 2007,2007-08-23,CHO Yi-Chin,PERGEL Szandra,3,2,"11,16,9,3,11|7,14,11,11,8",6,GRAND_SLAM,U21WS,1863,Qualification,CHO Yi-Chin (TPE),PERGEL Szandra (HUN),CHO Yi-Chin
+Chinese Taipei Open Taipei 2007,2007-08-23,CHENG I-Ching,YU Mengyu,4,2,"11,7,12,11,11,11|8,11,14,9,5,9",QF,GRAND_SLAM,U21WS,1863,Main Draw,CHENG I-Ching (TPE),YU Mengyu (SGP),CHENG I-Ching
+Chinese Taipei Open Taipei 2007,2007-08-23,BARTHEL Zhenqi,LIU Hsing-Yin,4,0,"11,12,11,11|2,10,6,5",QF,GRAND_SLAM,U21WS,1863,Main Draw,BARTHEL Zhenqi (GER),LIU Hsing-Yin (TPE),BARTHEL Zhenqi
+Chinese Taipei Open Taipei 2007,2007-08-23,YU Kwok See,JEE Minhyung,4,2,"9,11,9,11,12,11|11,7,11,8,10,2",QF,GRAND_SLAM,U21WS,1863,Main Draw,YU Kwok See (HKG),JEE Minhyung (AUS),YU Kwok See
+Chinese Taipei Open Taipei 2007,2007-08-23,FENG Tianwei,CHO Hala,4,0,"13,11,11,16|11,7,7,14",QF,GRAND_SLAM,U21WS,1863,Main Draw,FENG Tianwei (SGP),CHO Hala (KOR),FENG Tianwei
+Chinese Taipei Open Taipei 2007,2007-08-23,BARTHEL Zhenqi,CHENG I-Ching,4,2,"3,11,11,5,11,11|11,7,6,11,4,5",SF,GRAND_SLAM,U21WS,1863,Main Draw,BARTHEL Zhenqi (GER),CHENG I-Ching (TPE),BARTHEL Zhenqi
+Chinese Taipei Open Taipei 2007,2007-08-23,FENG Tianwei,YU Kwok See,4,1,"9,14,11,11,11|11,12,8,8,5",SF,GRAND_SLAM,U21WS,1863,Main Draw,FENG Tianwei (SGP),YU Kwok See (HKG),FENG Tianwei
+Chinese Taipei Open Taipei 2007,2007-08-23,FENG Tianwei,BARTHEL Zhenqi,4,0,"11,11,11,11|9,2,9,9",F,GRAND_SLAM,U21WS,1863,Main Draw,FENG Tianwei (SGP),BARTHEL Zhenqi (GER),FENG Tianwei
+Chinese Taipei Open Taipei 2007,2007-08-23,LIU Hsing-Yin,HEINE Veronika,3,1,"11,8,14,11|5,11,12,8",QR4,GRAND_SLAM,U21WS,1863,Qualification,LIU Hsing-Yin (TPE),HEINE Veronika (AUT),LIU Hsing-Yin
+Chinese Taipei Open Taipei 2007,2007-08-23,CHENG I-Ching,MOON Bosun,3,2,"7,11,11,9,11|11,8,7,11,3",QR4,GRAND_SLAM,U21WS,1863,Qualification,CHENG I-Ching (TPE),MOON Bosun (KOR),CHENG I-Ching
+Chinese Taipei Open Taipei 2007,2007-08-23,CANTERO Jesus/WANG Jianan,GORAK Daniel/VOSTES Yannick,3,2,"3,11,11,11,11|11,7,7,13,3",QR32,GRAND_SLAM,MD,1863,Qualification,CANTERO Jesus (ESP) / WANG Jianan (CGO),GORAK Daniel (POL) / VOSTES Yannick (BEL),CANTERO Jesus
+Chinese Taipei Open Taipei 2007,2007-08-23,LEBESSON Emmanuel/MATTENET Adrien,MATSUDAIRA Kenta/OYA Hidetoshi,3,1,"9,11,13,11|11,8,11,5",QR32,GRAND_SLAM,MD,1863,Qualification,LEBESSON Emmanuel (FRA) / MATTENET Adrien (FRA),MATSUDAIRA Kenta (JPN) / OYA Hidetoshi (JPN),LEBESSON Emmanuel
+Chinese Taipei Open Taipei 2007,2007-08-23,ROSSKOPF Jorg/STEGER Bastian,LEBESSON Emmanuel/MATTENET Adrien,3,1,"11,11,12,11|9,7,14,7",QR16,GRAND_SLAM,MD,1863,Qualification,ROSSKOPF Jorg (GER) / STEGER Bastian (GER),LEBESSON Emmanuel (FRA) / MATTENET Adrien (FRA),ROSSKOPF Jorg
+Chinese Taipei Open Taipei 2007,2007-08-23,BAUM Patrick/FEJER-KONNERTH Zoltan,LI Kwun Ngai/TSE Ka Chun,3,1,"11,11,4,11|6,4,11,4",QR32,GRAND_SLAM,MD,1863,Qualification,BAUM Patrick (GER) / FEJER-KONNERTH Zoltan (GER),LI Kwun Ngai (HKG) / TSE Ka Chun (HKG),BAUM Patrick
+Chinese Taipei Open Taipei 2007,2007-08-23,CHO Eonrae/YOON Jaeyoung,BAUM Patrick/FEJER-KONNERTH Zoltan,3,2,"13,5,11,6,11|11,11,8,11,9",QR16,GRAND_SLAM,MD,1863,Qualification,CHO Eonrae (KOR) / YOON Jaeyoung (KOR),BAUM Patrick (GER) / FEJER-KONNERTH Zoltan (GER),CHO Eonrae
+Chinese Taipei Open Taipei 2007,2007-08-23,ROSSKOPF Jorg/STEGER Bastian,PERSSON Jorgen/SVENSSON Robert,4,3,"6,11,11,11,16,11,12|11,7,8,4,18,13,10",R16,GRAND_SLAM,MD,1863,Main Draw,ROSSKOPF Jorg (GER) / STEGER Bastian (GER),PERSSON Jorgen (SWE) / SVENSSON Robert (SWE),ROSSKOPF Jorg
+Chinese Taipei Open Taipei 2007,2007-08-23,OVTCHAROV Dimitrij/SUSS Christian,GERELL Par/LUNDQVIST Jens,4,0,"11,11,13,11|3,8,11,7",R16,GRAND_SLAM,MD,1863,Main Draw,OVTCHAROV Dimitrij (GER) / SUSS Christian (GER),GERELL Par (SWE) / LUNDQVIST Jens (SWE),OVTCHAROV Dimitrij
+Chinese Taipei Open Taipei 2007,2007-08-23,OVTCHAROV Dimitrij/SUSS Christian,LEE Jungwoo/OH Sangeun,4,1,"4,11,11,11,11|11,8,0,0,0",QF,GRAND_SLAM,MD,1863,Main Draw,OVTCHAROV Dimitrij (GER) / SUSS Christian (GER),LEE Jungwoo (KOR) / OH Sangeun (KOR),OVTCHAROV Dimitrij
+Chinese Taipei Open Taipei 2007,2007-08-23,JAKAB Janos/PAZSY Ferenc,LAI Kuan-Shen/WEI Chun-Ta,3,0,"11,11,11|5,5,9",QR32,GRAND_SLAM,MD,1863,Qualification,JAKAB Janos (HUN) / PAZSY Ferenc (HUN),LAI Kuan-Shen (TPE) / WEI Chun-Ta (TPE),JAKAB Janos
+Chinese Taipei Open Taipei 2007,2007-08-23,GAVLAS Antonin/KORBEL Petr,ZOMBORI David/ZWICKL Daniel,3,0,"11,11,11|8,7,2",QR32,GRAND_SLAM,MD,1863,Qualification,GAVLAS Antonin (CZE) / KORBEL Petr (CZE),ZOMBORI David (HUN) / ZWICKL Daniel (HUN),GAVLAS Antonin
+Chinese Taipei Open Taipei 2007,2007-08-23,JAKAB Janos/PAZSY Ferenc,KEEN Trinko/PRIMORAC Zoran,3,0,,QR16,GRAND_SLAM,MD,1863,Qualification,JAKAB Janos (HUN) / PAZSY Ferenc (HUN),KEEN Trinko (NED) / PRIMORAC Zoran (CRO),JAKAB Janos
+Chinese Taipei Open Taipei 2007,2007-08-23,LEE Jungwoo/OH Sangeun,JAKAB Janos/PAZSY Ferenc,4,0,,R16,GRAND_SLAM,MD,1863,Main Draw,LEE Jungwoo (KOR) / OH Sangeun (KOR),JAKAB Janos (HUN) / PAZSY Ferenc (HUN),LEE Jungwoo
+Chinese Taipei Open Taipei 2007,2007-08-23,AXELQVIST Johan/WOSIK Torben,NAKANO Yusuke/NAMIKI Yusuke,3,2,"11,11,6,7,11|6,8,11,11,8",QR32,GRAND_SLAM,MD,1863,Qualification,AXELQVIST Johan (SWE) / WOSIK Torben (GER),NAKANO Yusuke (JPN) / NAMIKI Yusuke (JPN),AXELQVIST Johan
+Chinese Taipei Open Taipei 2007,2007-08-23,KISHIKAWA Seiya/MIZUTANI Jun,CHUANG Chih-Yuan/WU Chih-Chi,4,2,"10,11,9,12,11,11|12,8,11,10,4,6",R16,GRAND_SLAM,MD,1863,Main Draw,KISHIKAWA Seiya (JPN) / MIZUTANI Jun (JPN),CHUANG Chih-Yuan (TPE) / WU Chih-Chi (TPE),KISHIKAWA Seiya
+Chinese Taipei Open Taipei 2007,2007-08-23,KISHIKAWA Seiya/MIZUTANI Jun,ROSSKOPF Jorg/STEGER Bastian,4,2,"11,11,7,5,11,12|9,9,11,11,8,10",QF,GRAND_SLAM,MD,1863,Main Draw,KISHIKAWA Seiya (JPN) / MIZUTANI Jun (JPN),ROSSKOPF Jorg (GER) / STEGER Bastian (GER),KISHIKAWA Seiya
+Chinese Taipei Open Taipei 2007,2007-08-23,OVTCHAROV Dimitrij/SUSS Christian,KISHIKAWA Seiya/MIZUTANI Jun,4,3,"4,13,12,11,11,7,11|11,15,10,8,9,11,9",SF,GRAND_SLAM,MD,1863,Main Draw,OVTCHAROV Dimitrij (GER) / SUSS Christian (GER),KISHIKAWA Seiya (JPN) / MIZUTANI Jun (JPN),OVTCHAROV Dimitrij
+Chinese Taipei Open Taipei 2007,2007-08-23,CHEN Weixing/JOO Saehyuk,CHOU Yuan-Chieh/HUANG Chang-Chun,3,1,"11,11,13,11|5,3,15,8",QR16,GRAND_SLAM,MD,1863,Qualification,CHEN Weixing (AUT) / JOO Saehyuk (KOR),CHOU Yuan-Chieh (TPE) / HUANG Chang-Chun (TPE),CHEN Weixing
+Chinese Taipei Open Taipei 2007,2007-08-23,KIM Junghoon/LIM Jaehyun,AXELQVIST Johan/WOSIK Torben,3,0,"11,11,11|8,5,7",QR16,GRAND_SLAM,MD,1863,Qualification,KIM Junghoon (KOR) / LIM Jaehyun (KOR),AXELQVIST Johan (SWE) / WOSIK Torben (GER),KIM Junghoon
+Chinese Taipei Open Taipei 2007,2007-08-23,CHO Eonrae/YOON Jaeyoung,CHEUNG Yuk/LEUNG Chu Yan,4,1,"11,11,15,5,11|9,7,13,11,9",R16,GRAND_SLAM,MD,1863,Main Draw,CHO Eonrae (KOR) / YOON Jaeyoung (KOR),CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),CHO Eonrae
+Chinese Taipei Open Taipei 2007,2007-08-23,LIU Zhongze/MA Liang,LEE Jinkwon/LEE Jungjae,4,2,"11,7,5,11,11,11|7,11,11,9,5,5",R16,GRAND_SLAM,MD,1863,Main Draw,LIU Zhongze (SGP) / MA Liang (SGP),LEE Jinkwon (KOR) / LEE Jungjae (KOR),LIU Zhongze
+Chinese Taipei Open Taipei 2007,2007-08-23,KIM Junghoon/LIM Jaehyun,CHANG Yen-Shu/CHIANG Peng-Lung,4,2,"8,11,6,13,11,11|11,7,11,11,3,9",R16,GRAND_SLAM,MD,1863,Main Draw,KIM Junghoon (KOR) / LIM Jaehyun (KOR),CHANG Yen-Shu (TPE) / CHIANG Peng-Lung (TPE),KIM Junghoon
+Chinese Taipei Open Taipei 2007,2007-08-23,LIU Zhongze/MA Liang,CANTERO Jesus/WANG Jianan,3,1,"13,8,12,11|11,11,10,6",QR16,GRAND_SLAM,MD,1863,Qualification,LIU Zhongze (SGP) / MA Liang (SGP),CANTERO Jesus (ESP) / WANG Jianan (CGO),LIU Zhongze
+Chinese Taipei Open Taipei 2007,2007-08-23,GAO Ning/YANG Zi,CHEN Weixing/JOO Saehyuk,4,0,,R16,GRAND_SLAM,MD,1863,Main Draw,GAO Ning (SGP) / YANG Zi (SGP),CHEN Weixing (AUT) / JOO Saehyuk (KOR),GAO Ning
+Chinese Taipei Open Taipei 2007,2007-08-23,GAO Ning/YANG Zi,CHO Eonrae/YOON Jaeyoung,4,2,"11,9,7,11,11,11|4,11,11,6,9,9",QF,GRAND_SLAM,MD,1863,Main Draw,GAO Ning (SGP) / YANG Zi (SGP),CHO Eonrae (KOR) / YOON Jaeyoung (KOR),GAO Ning
+Chinese Taipei Open Taipei 2007,2007-08-23,KIM Junghoon/LIM Jaehyun,LIU Zhongze/MA Liang,4,3,"11,5,11,11,11,11,11|13,11,4,8,8,13,9",QF,GRAND_SLAM,MD,1863,Main Draw,KIM Junghoon (KOR) / LIM Jaehyun (KOR),LIU Zhongze (SGP) / MA Liang (SGP),KIM Junghoon
+Chinese Taipei Open Taipei 2007,2007-08-23,GAO Ning/YANG Zi,KIM Junghoon/LIM Jaehyun,4,2,"11,11,11,8,11,11|8,6,13,11,7,8",SF,GRAND_SLAM,MD,1863,Main Draw,GAO Ning (SGP) / YANG Zi (SGP),KIM Junghoon (KOR) / LIM Jaehyun (KOR),GAO Ning
+Chinese Taipei Open Taipei 2007,2007-08-23,OVTCHAROV Dimitrij/SUSS Christian,GAO Ning/YANG Zi,4,1,"8,11,11,12,11|11,7,7,10,7",F,GRAND_SLAM,MD,1863,Main Draw,OVTCHAROV Dimitrij (GER) / SUSS Christian (GER),GAO Ning (SGP) / YANG Zi (SGP),OVTCHAROV Dimitrij
+Chinese Taipei Open Taipei 2007,2007-08-23,GERELL Par/LUNDQVIST Jens,LINDSAY Kenneth/WANG YANG Martin,3,0,"11,11,11|1,2,3",QR32,GRAND_SLAM,MD,1863,Qualification,GERELL Par (SWE) / LUNDQVIST Jens (SWE),LINDSAY Kenneth (SCO) / WANG YANG Martin (PAR),GERELL Par
+Chinese Taipei Open Taipei 2007,2007-08-23,GERELL Par/LUNDQVIST Jens,HAN Jimin/LEE Jungsam,3,0,"11,17,11|5,15,7",QR16,GRAND_SLAM,MD,1863,Qualification,GERELL Par (SWE) / LUNDQVIST Jens (SWE),HAN Jimin (KOR) / LEE Jungsam (KOR),GERELL Par
+Chinese Taipei Open Taipei 2007,2007-08-23,CHOU Yuan-Chieh/HUANG Chang-Chun,SAKAMOTO Ryusuke/TAKAKIWA Taku,3,1,"11,9,12,11|9,11,10,9",QR32,GRAND_SLAM,MD,1863,Qualification,CHOU Yuan-Chieh (TPE) / HUANG Chang-Chun (TPE),SAKAMOTO Ryusuke (JPN) / TAKAKIWA Taku (JPN),CHOU Yuan-Chieh
+Chinese Taipei Open Taipei 2007,2007-08-23,HAN Jimin/LEE Jungsam,CHEN Chien-An/CHOU Tung-Yu,3,0,"11,11,11|7,5,8",QR32,GRAND_SLAM,MD,1863,Qualification,HAN Jimin (KOR) / LEE Jungsam (KOR),CHEN Chien-An (TPE) / CHOU Tung-Yu (TPE),HAN Jimin
+Chinese Taipei Open Taipei 2007,2007-08-23,LIU Zhongze/MA Liang,CHIANG Hung-Chieh/HUANG Sheng-Sheng,3,0,"12,11,11|10,8,5",QR32,GRAND_SLAM,MD,1863,Qualification,LIU Zhongze (SGP) / MA Liang (SGP),CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE),LIU Zhongze
+Chinese Taipei Open Taipei 2007,2007-08-23,CHUANG Chih-Yuan/WU Chih-Chi,DURAN Marc/MACHADO Carlos,3,0,"11,11,11|7,3,9",QR32,GRAND_SLAM,MD,1863,Qualification,CHUANG Chih-Yuan (TPE) / WU Chih-Chi (TPE),DURAN Marc (ESP) / MACHADO Carlos (ESP),CHUANG Chih-Yuan
+Chinese Taipei Open Taipei 2007,2007-08-23,CHUANG Chih-Yuan/WU Chih-Chi,GAVLAS Antonin/KORBEL Petr,3,2,"11,11,12,9,11|6,8,14,11,4",QR16,GRAND_SLAM,MD,1863,Qualification,CHUANG Chih-Yuan (TPE) / WU Chih-Chi (TPE),GAVLAS Antonin (CZE) / KORBEL Petr (CZE),CHUANG Chih-Yuan
+Chinese Taipei Open Taipei 2007,2007-08-23,HEINE Veronika/LI Qiangbing,PAN Chun-Chu/YU Mei-Ju,3,2,"7,11,9,11,12|11,9,11,6,10",QR16,GRAND_SLAM,WD,1863,Qualification,HEINE Veronika (AUT) / LI Qiangbing (AUT),PAN Chun-Chu (TPE) / YU Mei-Ju (TPE),HEINE Veronika
+Chinese Taipei Open Taipei 2007,2007-08-23,PAOVIC Sandra/MOLNAR Cornelia,JUN Hyunsil/YU Eomji,3,2,"11,8,13,9,11|7,11,11,11,5",QR32,GRAND_SLAM,WD,1863,Qualification,PAOVIC Sandra (CRO) / MOLNAR Cornelia (CRO),JUN Hyunsil (KOR) / YU Eomji (KOR),PAOVIC Sandra
+Chinese Taipei Open Taipei 2007,2007-08-23,FENG Tianwei/WANG Yuegu,PAOVIC Sandra/MOLNAR Cornelia,3,0,"11,11,11|6,9,7",QR16,GRAND_SLAM,WD,1863,Qualification,FENG Tianwei (SGP) / WANG Yuegu (SGP),PAOVIC Sandra (CRO) / MOLNAR Cornelia (CRO),FENG Tianwei
+Chinese Taipei Open Taipei 2007,2007-08-23,BOROS Tamara/KRAMER Tanja,CHEN Wen-Jing/LIU Hsing-Yin,3,2,"11,5,11,11,11|13,11,9,6,8",QR32,GRAND_SLAM,WD,1863,Qualification,BOROS Tamara (CRO) / KRAMER Tanja (GER),CHEN Wen-Jing (TPE) / LIU Hsing-Yin (TPE),BOROS Tamara
+Chinese Taipei Open Taipei 2007,2007-08-23,FUKUOKA Haruna/TASEI Mikie,BOROS Tamara/KRAMER Tanja,3,0,"11,11,11|5,7,4",QR16,GRAND_SLAM,WD,1863,Qualification,FUKUOKA Haruna (JPN) / TASEI Mikie (JPN),BOROS Tamara (CRO) / KRAMER Tanja (GER),FUKUOKA Haruna
+Chinese Taipei Open Taipei 2007,2007-08-23,HIURA Reiko/WATANABE Yuko,STRUSE Nicole/WU Jiaduo,3,2,"11,7,8,11,11|5,11,11,5,4",QR16,GRAND_SLAM,WD,1863,Qualification,HIURA Reiko (JPN) / WATANABE Yuko (JPN),STRUSE Nicole (GER) / WU Jiaduo (GER),HIURA Reiko
+Chinese Taipei Open Taipei 2007,2007-08-23,FUJII Hiroko/KONISHI An,LAU Sui Fei/ZHANG Rui,4,2,"11,12,4,11,11,11|7,14,11,4,9,4",R16,GRAND_SLAM,WD,1863,Main Draw,FUJII Hiroko (JPN) / KONISHI An (JPN),LAU Sui Fei (HKG) / ZHANG Rui (HKG),FUJII Hiroko
+Chinese Taipei Open Taipei 2007,2007-08-23,CHENG I-Ching/LEE I-Chen,LOVAS Petra/PERGEL Szandra,3,0,"11,11,11|8,6,9",QR32,GRAND_SLAM,WD,1863,Qualification,CHENG I-Ching (TPE) / LEE I-Chen (TPE),LOVAS Petra (HUN) / PERGEL Szandra (HUN),CHENG I-Ching
+Chinese Taipei Open Taipei 2007,2007-08-23,POTA Georgina/TOTH Krisztina,HEINE Veronika/LI Qiangbing,4,1,"8,11,11,11,11|11,4,4,4,2",R16,GRAND_SLAM,WD,1863,Main Draw,POTA Georgina (HUN) / TOTH Krisztina (HUN),HEINE Veronika (AUT) / LI Qiangbing (AUT),POTA Georgina
+Chinese Taipei Open Taipei 2007,2007-08-23,GAO Jun/SHEN Yanfei,POTA Georgina/TOTH Krisztina,4,3,"11,11,8,9,11,11,11|6,13,11,11,5,3,7",QF,GRAND_SLAM,WD,1863,Main Draw,GAO Jun (USA) / SHEN Yanfei (ESP),POTA Georgina (HUN) / TOTH Krisztina (HUN),GAO Jun
+Chinese Taipei Open Taipei 2007,2007-08-23,KWAK Bangbang/LEE Eunhee,ETSUZAKI Ayumi/NONAKA Yuki,3,2,"4,10,11,14,11|11,12,6,12,3",QR32,GRAND_SLAM,WD,1863,Qualification,KWAK Bangbang (KOR) / LEE Eunhee (KOR),ETSUZAKI Ayumi (JPN) / NONAKA Yuki (JPN),KWAK Bangbang
+Chinese Taipei Open Taipei 2007,2007-08-23,FUKUOKA Haruna/TASEI Mikie,STEFANOVA Nikoleta/TAN Wenling,4,2,"7,11,10,11,11,11|11,7,12,5,7,5",R16,GRAND_SLAM,WD,1863,Main Draw,FUKUOKA Haruna (JPN) / TASEI Mikie (JPN),STEFANOVA Nikoleta (ITA) / TAN Wenling (ITA),FUKUOKA Haruna
+Chinese Taipei Open Taipei 2007,2007-08-23,FUJINUMA Ai/FUKUHARA Ai,KWAK Bangbang/LEE Eunhee,4,3,"11,12,13,11,9,3,11|9,14,11,6,11,11,6",R16,GRAND_SLAM,WD,1863,Main Draw,FUJINUMA Ai (JPN) / FUKUHARA Ai (JPN),KWAK Bangbang (KOR) / LEE Eunhee (KOR),FUJINUMA Ai
+Chinese Taipei Open Taipei 2007,2007-08-23,GAO Jun/SHEN Yanfei,HIURA Reiko/WATANABE Yuko,4,2,"11,11,8,11,9,11|9,8,11,6,11,5",R16,GRAND_SLAM,WD,1863,Main Draw,GAO Jun (USA) / SHEN Yanfei (ESP),HIURA Reiko (JPN) / WATANABE Yuko (JPN),GAO Jun
+Chinese Taipei Open Taipei 2007,2007-08-23,FUJII Hiroko/KONISHI An,FUKUOKA Haruna/TASEI Mikie,4,2,"11,11,8,11,11,11|7,9,11,13,7,9",QF,GRAND_SLAM,WD,1863,Main Draw,FUJII Hiroko (JPN) / KONISHI An (JPN),FUKUOKA Haruna (JPN) / TASEI Mikie (JPN),FUJII Hiroko
+Chinese Taipei Open Taipei 2007,2007-08-23,FUJINUMA Ai/FUKUHARA Ai,KIM Kyungah/PARK Miyoung,4,2,"7,11,11,11,9,11|11,8,8,7,11,8",QF,GRAND_SLAM,WD,1863,Main Draw,FUJINUMA Ai (JPN) / FUKUHARA Ai (JPN),KIM Kyungah (KOR) / PARK Miyoung (KOR),FUJINUMA Ai
+Chinese Taipei Open Taipei 2007,2007-08-23,GAO Jun/SHEN Yanfei,FUJINUMA Ai/FUKUHARA Ai,4,0,"11,11,11,11|6,6,3,5",SF,GRAND_SLAM,WD,1863,Main Draw,GAO Jun (USA) / SHEN Yanfei (ESP),FUJINUMA Ai (JPN) / FUKUHARA Ai (JPN),GAO Jun
+Chinese Taipei Open Taipei 2007,2007-08-23,KIM Junghyun/LEE Hyangmi,LI Bin/YU Kwok See,3,2,"11,11,7,8,11|5,4,11,11,4",QR32,GRAND_SLAM,WD,1863,Qualification,KIM Junghyun (KOR) / LEE Hyangmi (KOR),LI Bin (HUN) / YU Kwok See (HKG),KIM Junghyun
+Chinese Taipei Open Taipei 2007,2007-08-23,KIM Junghyun/LEE Hyangmi,BARTHEL Zhenqi/LIU Jia,3,0,,QR16,GRAND_SLAM,WD,1863,Qualification,KIM Junghyun (KOR) / LEE Hyangmi (KOR),BARTHEL Zhenqi (GER) / LIU Jia (AUT),KIM Junghyun
+Chinese Taipei Open Taipei 2007,2007-08-23,CHENG I-Ching/LEE I-Chen,JEE Minhyung/MOON Hyunjung,3,2,"10,11,7,11,11|12,7,11,5,7",QR16,GRAND_SLAM,WD,1863,Qualification,CHENG I-Ching (TPE) / LEE I-Chen (TPE),JEE Minhyung (AUS) / MOON Hyunjung (KOR),CHENG I-Ching
+Chinese Taipei Open Taipei 2007,2007-08-23,MA Minglu/YU Mengyu,HSIUNG Nai-I/TSAI Pei-Ju,3,1,"11,1,12,11|4,11,10,7",QR32,GRAND_SLAM,WD,1863,Qualification,MA Minglu (SGP) / YU Mengyu (SGP),HSIUNG Nai-I (TPE) / TSAI Pei-Ju (TPE),MA Minglu
+Chinese Taipei Open Taipei 2007,2007-08-23,FUJII Hiroko/KONISHI An,MA Minglu/YU Mengyu,3,2,"5,12,11,11,11|11,10,13,9,9",QR16,GRAND_SLAM,WD,1863,Qualification,FUJII Hiroko (JPN) / KONISHI An (JPN),MA Minglu (SGP) / YU Mengyu (SGP),FUJII Hiroko
+Chinese Taipei Open Taipei 2007,2007-08-23,LI Jiawei/SUN Beibei,KIM Junghyun/LEE Hyangmi,4,2,"11,18,6,9,12,11|5,16,11,11,10,5",R16,GRAND_SLAM,WD,1863,Main Draw,LI Jiawei (SGP) / SUN Beibei (SGP),KIM Junghyun (KOR) / LEE Hyangmi (KOR),LI Jiawei
+Chinese Taipei Open Taipei 2007,2007-08-23,KIM Kyungah/PARK Miyoung,FENG Tianwei/WANG Yuegu,4,1,"11,10,11,12,11|7,12,7,10,5",R16,GRAND_SLAM,WD,1863,Main Draw,KIM Kyungah (KOR) / PARK Miyoung (KOR),FENG Tianwei (SGP) / WANG Yuegu (SGP),KIM Kyungah
+Chinese Taipei Open Taipei 2007,2007-08-23,LI Jiawei/SUN Beibei,HIRANO Sayaka/KANAZAWA Saki,4,2,"5,10,11,14,11,11|11,12,9,12,8,8",QF,GRAND_SLAM,WD,1863,Main Draw,LI Jiawei (SGP) / SUN Beibei (SGP),HIRANO Sayaka (JPN) / KANAZAWA Saki (JPN),LI Jiawei
+Chinese Taipei Open Taipei 2007,2007-08-23,LI Jiawei/SUN Beibei,FUJII Hiroko/KONISHI An,4,1,"11,11,11,9,11|8,5,4,11,8",SF,GRAND_SLAM,WD,1863,Main Draw,LI Jiawei (SGP) / SUN Beibei (SGP),FUJII Hiroko (JPN) / KONISHI An (JPN),LI Jiawei
+Chinese Taipei Open Taipei 2007,2007-08-23,GAO Jun/SHEN Yanfei,LI Jiawei/SUN Beibei,4,1,"11,11,7,11,11|9,5,11,3,5",F,GRAND_SLAM,WD,1863,Main Draw,GAO Jun (USA) / SHEN Yanfei (ESP),LI Jiawei (SGP) / SUN Beibei (SGP),GAO Jun
+Chinese Taipei Open Taipei 2007,2007-08-23,PAN Chun-Chu/YU Mei-Ju,CHO Hala/MOON Bosun,3,0,"11,11,15|5,6,13",QR32,GRAND_SLAM,WD,1863,Qualification,PAN Chun-Chu (TPE) / YU Mei-Ju (TPE),CHO Hala (KOR) / MOON Bosun (KOR),PAN Chun-Chu
+Chinese Taipei Open Taipei 2007,2007-08-23,HIURA Reiko/WATANABE Yuko,CHEN Yu-Lin/HSU Hui-Tsun,3,0,"11,11,15|5,4,13",QR32,GRAND_SLAM,WD,1863,Qualification,HIURA Reiko (JPN) / WATANABE Yuko (JPN),CHEN Yu-Lin (TPE) / HSU Hui-Tsun (TPE),HIURA Reiko
+Chinese Taipei Open Taipei 2007,2007-08-23,KWAK Bangbang/LEE Eunhee,HUANG Yi-Hua/LU Yun-Feng,3,0,"12,11,11|10,9,8",QR16,GRAND_SLAM,WD,1863,Qualification,KWAK Bangbang (KOR) / LEE Eunhee (KOR),HUANG Yi-Hua (TPE) / LU Yun-Feng (TPE),KWAK Bangbang
+Chinese Taipei Open Taipei 2007,2007-08-23,HIRANO Sayaka/KANAZAWA Saki,CHENG I-Ching/LEE I-Chen,4,2,"11,8,11,11,11,11|6,11,8,9,13,7",R16,GRAND_SLAM,WD,1863,Main Draw,HIRANO Sayaka (JPN) / KANAZAWA Saki (JPN),CHENG I-Ching (TPE) / LEE I-Chen (TPE),HIRANO Sayaka

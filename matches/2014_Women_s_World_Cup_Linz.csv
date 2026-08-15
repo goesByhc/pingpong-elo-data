@@ -1,29 +1,29 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Women's World Cup Linz 2014,2014-10-17,LI Jiao,ZHANG Mo,4,3,"6,8,11,11,9,11,11|11,11,3,4,11,8,9",,WORLD_CUP,WS,329,Qualification,LI Jiao (NED),ZHANG Mo (CAN)
-Women's World Cup Linz 2014,2014-10-17,VACENOVSKA Iveta,LI Jiao,4,1,"15,11,12,11,13|17,7,10,6,11",,WORLD_CUP,WS,329,Qualification,LI Jiao (NED),VACENOVSKA Iveta (CZE)
-Women's World Cup Linz 2014,2014-10-17,VACENOVSKA Iveta,ZHANG Mo,4,1,"11,11,11,11,11|13,2,9,2,4",,WORLD_CUP,WS,329,Qualification,VACENOVSKA Iveta (CZE),ZHANG Mo (CAN)
-Women's World Cup Linz 2014,2014-10-17,POTA Georgina,LAY Jian Fang,4,1,"11,11,11,11,11|13,3,9,3,6",,WORLD_CUP,WS,329,Qualification,POTA Georgina (HUN),LAY Jian Fang (AUS)
-Women's World Cup Linz 2014,2014-10-17,POTA Georgina,CHENG I-Ching,4,1,"11,11,11,11,11|13,5,5,5,6",,WORLD_CUP,WS,329,Qualification,POTA Georgina (HUN),CHENG I-Ching (TPE)
-Women's World Cup Linz 2014,2014-10-17,CHENG I-Ching,LAY Jian Fang,4,0,"11,11,11,11|9,4,4,8",,WORLD_CUP,WS,329,Qualification,CHENG I-Ching (TPE),LAY Jian Fang (AUS)
-Women's World Cup Linz 2014,2014-10-17,WU Jiaduo,KUMAHARA Luca,4,0,"11,11,11,11|4,8,4,6",,WORLD_CUP,WS,329,Qualification,WU Jiaduo (GER),KUMAHARA Luca (BRA)
-Women's World Cup Linz 2014,2014-10-17,WU Jiaduo,JIANG Huajun,4,1,"10,11,11,13,11|12,6,2,11,6",,WORLD_CUP,WS,329,Qualification,WU Jiaduo (GER),JIANG Huajun (HKG)
-Women's World Cup Linz 2014,2014-10-17,JIANG Huajun,KUMAHARA Luca,4,0,"11,11,11,11|6,8,6,7",,WORLD_CUP,WS,329,Qualification,JIANG Huajun (HKG),KUMAHARA Luca (BRA)
-Women's World Cup Linz 2014,2014-10-17,HU Melek,MESHREF Dina,4,1,"9,11,11,12,11|11,8,5,10,8",,WORLD_CUP,WS,329,Qualification,HU Melek (TUR),MESHREF Dina (EGY)
-Women's World Cup Linz 2014,2014-10-17,HU Melek,SOLJA Petrissa,4,2,"4,11,5,11,11,13|11,6,11,2,3,11",,WORLD_CUP,WS,329,Qualification,HU Melek (TUR),SOLJA Petrissa (GER)
-Women's World Cup Linz 2014,2014-10-17,SOLJA Petrissa,MESHREF Dina,4,1,"11,11,12,13,11|8,8,14,11,3",,WORLD_CUP,WS,329,Qualification,SOLJA Petrissa (GER),MESHREF Dina (EGY)
-Women's World Cup Linz 2014,2014-10-17,DING Ning,LI Jiao,4,0,"11,11,11,11|3,4,4,5",R16,WORLD_CUP,WS,329,Main Draw,DING Ning (CHN),LI Jiao (NED)
-Women's World Cup Linz 2014,2014-10-17,HU Melek,SAMARA Elizabeta,4,0,"11,11,14,11|5,7,12,7",R16,WORLD_CUP,WS,329,Main Draw,HU Melek (TUR),SAMARA Elizabeta (ROU)
-Women's World Cup Linz 2014,2014-10-17,HIRANO Sayaka,WU Jiaduo,4,1,"11,11,11,3,11|9,6,3,11,9",R16,WORLD_CUP,WS,329,Main Draw,HIRANO Sayaka (JPN),WU Jiaduo (GER)
-Women's World Cup Linz 2014,2014-10-17,ISHIKAWA Kasumi,CHENG I-Ching,4,2,"11,10,8,11,11,12|7,12,11,5,6,10",R16,WORLD_CUP,WS,329,Main Draw,CHENG I-Ching (TPE),ISHIKAWA Kasumi (JPN)
-Women's World Cup Linz 2014,2014-10-17,JIANG Huajun,SUH Hyo Won,4,1,"11,11,11,2,11|9,7,6,11,8",R16,WORLD_CUP,WS,329,Main Draw,SUH Hyo Won (KOR),JIANG Huajun (HKG)
-Women's World Cup Linz 2014,2014-10-17,POTA Georgina,LEE Ho Ching,4,0,"11,11,11,11|2,8,9,5",R16,WORLD_CUP,WS,329,Main Draw,POTA Georgina (HUN),LEE Ho Ching (HKG)
-Women's World Cup Linz 2014,2014-10-17,LIU Jia,VACENOVSKA Iveta,4,1,"6,14,11,11,11|11,12,9,7,8",R16,WORLD_CUP,WS,329,Main Draw,LIU Jia (AUT),VACENOVSKA Iveta (CZE)
-Women's World Cup Linz 2014,2014-10-17,LI Xiaoxia,SOLJA Petrissa,4,0,"11,11,11,11|3,9,4,6",R16,WORLD_CUP,WS,329,Main Draw,SOLJA Petrissa (GER),LI Xiaoxia (CHN)
-Women's World Cup Linz 2014,2014-10-17,DING Ning,HU Melek,4,1,"11,11,11,9,11|9,4,9,11,9",QF,WORLD_CUP,WS,329,Main Draw,DING Ning (CHN),HU Melek (TUR)
-Women's World Cup Linz 2014,2014-10-17,ISHIKAWA Kasumi,HIRANO Sayaka,4,2,"11,11,12,7,3,11|5,3,10,11,11,5",QF,WORLD_CUP,WS,329,Main Draw,HIRANO Sayaka (JPN),ISHIKAWA Kasumi (JPN)
-Women's World Cup Linz 2014,2014-10-17,POTA Georgina,JIANG Huajun,4,3,"8,11,11,7,11,11,11|11,9,13,11,6,9,7",QF,WORLD_CUP,WS,329,Main Draw,JIANG Huajun (HKG),POTA Georgina (HUN)
-Women's World Cup Linz 2014,2014-10-17,LI Xiaoxia,LIU Jia,4,3,"7,11,11,11,9,14,11|11,3,6,3,11,16,4",QF,WORLD_CUP,WS,329,Main Draw,LIU Jia (AUT),LI Xiaoxia (CHN)
-Women's World Cup Linz 2014,2014-10-17,DING Ning,ISHIKAWA Kasumi,4,2,"11,11,7,9,11,11|6,3,11,11,6,7",SF,WORLD_CUP,WS,329,Main Draw,DING Ning (CHN),ISHIKAWA Kasumi (JPN)
-Women's World Cup Linz 2014,2014-10-17,LI Xiaoxia,POTA Georgina,4,1,"3,11,11,11,11|11,5,6,8,8",SF,WORLD_CUP,WS,329,Main Draw,POTA Georgina (HUN),LI Xiaoxia (CHN)
-Women's World Cup Linz 2014,2014-10-17,DING Ning,LI Xiaoxia,4,0,"11,11,13,11|7,9,11,5",F,WORLD_CUP,WS,329,Main Draw,DING Ning (CHN),LI Xiaoxia (CHN)
-Women's World Cup Linz 2014,2014-10-17,ISHIKAWA Kasumi,POTA Georgina,4,3,"11,8,6,11,7,11,11|9,11,11,3,11,9,4",3RD,WORLD_CUP,WS,329,Position Draw,ISHIKAWA Kasumi (JPN),POTA Georgina (HUN)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Women's World Cup Linz 2014,2014-10-17,LI Jiao,ZHANG Mo,4,3,"6,8,11,11,9,11,11|11,11,3,4,11,8,9",,WORLD_CUP,WS,329,Qualification,LI Jiao (NED),ZHANG Mo (CAN),LI Jiao
+Women's World Cup Linz 2014,2014-10-17,VACENOVSKA Iveta,LI Jiao,4,1,"15,11,12,11,13|17,7,10,6,11",,WORLD_CUP,WS,329,Qualification,LI Jiao (NED),VACENOVSKA Iveta (CZE),VACENOVSKA Iveta
+Women's World Cup Linz 2014,2014-10-17,VACENOVSKA Iveta,ZHANG Mo,4,1,"11,11,11,11,11|13,2,9,2,4",,WORLD_CUP,WS,329,Qualification,VACENOVSKA Iveta (CZE),ZHANG Mo (CAN),VACENOVSKA Iveta
+Women's World Cup Linz 2014,2014-10-17,POTA Georgina,LAY Jian Fang,4,1,"11,11,11,11,11|13,3,9,3,6",,WORLD_CUP,WS,329,Qualification,POTA Georgina (HUN),LAY Jian Fang (AUS),POTA Georgina
+Women's World Cup Linz 2014,2014-10-17,POTA Georgina,CHENG I-Ching,4,1,"11,11,11,11,11|13,5,5,5,6",,WORLD_CUP,WS,329,Qualification,POTA Georgina (HUN),CHENG I-Ching (TPE),POTA Georgina
+Women's World Cup Linz 2014,2014-10-17,CHENG I-Ching,LAY Jian Fang,4,0,"11,11,11,11|9,4,4,8",,WORLD_CUP,WS,329,Qualification,CHENG I-Ching (TPE),LAY Jian Fang (AUS),CHENG I-Ching
+Women's World Cup Linz 2014,2014-10-17,WU Jiaduo,KUMAHARA Luca,4,0,"11,11,11,11|4,8,4,6",,WORLD_CUP,WS,329,Qualification,WU Jiaduo (GER),KUMAHARA Luca (BRA),WU Jiaduo
+Women's World Cup Linz 2014,2014-10-17,WU Jiaduo,JIANG Huajun,4,1,"10,11,11,13,11|12,6,2,11,6",,WORLD_CUP,WS,329,Qualification,WU Jiaduo (GER),JIANG Huajun (HKG),WU Jiaduo
+Women's World Cup Linz 2014,2014-10-17,JIANG Huajun,KUMAHARA Luca,4,0,"11,11,11,11|6,8,6,7",,WORLD_CUP,WS,329,Qualification,JIANG Huajun (HKG),KUMAHARA Luca (BRA),JIANG Huajun
+Women's World Cup Linz 2014,2014-10-17,HU Melek,MESHREF Dina,4,1,"9,11,11,12,11|11,8,5,10,8",,WORLD_CUP,WS,329,Qualification,HU Melek (TUR),MESHREF Dina (EGY),HU Melek
+Women's World Cup Linz 2014,2014-10-17,HU Melek,SOLJA Petrissa,4,2,"4,11,5,11,11,13|11,6,11,2,3,11",,WORLD_CUP,WS,329,Qualification,HU Melek (TUR),SOLJA Petrissa (GER),HU Melek
+Women's World Cup Linz 2014,2014-10-17,SOLJA Petrissa,MESHREF Dina,4,1,"11,11,12,13,11|8,8,14,11,3",,WORLD_CUP,WS,329,Qualification,SOLJA Petrissa (GER),MESHREF Dina (EGY),SOLJA Petrissa
+Women's World Cup Linz 2014,2014-10-17,DING Ning,LI Jiao,4,0,"11,11,11,11|3,4,4,5",R16,WORLD_CUP,WS,329,Main Draw,DING Ning (CHN),LI Jiao (NED),DING Ning
+Women's World Cup Linz 2014,2014-10-17,HU Melek,SAMARA Elizabeta,4,0,"11,11,14,11|5,7,12,7",R16,WORLD_CUP,WS,329,Main Draw,HU Melek (TUR),SAMARA Elizabeta (ROU),HU Melek
+Women's World Cup Linz 2014,2014-10-17,HIRANO Sayaka,WU Jiaduo,4,1,"11,11,11,3,11|9,6,3,11,9",R16,WORLD_CUP,WS,329,Main Draw,HIRANO Sayaka (JPN),WU Jiaduo (GER),HIRANO Sayaka
+Women's World Cup Linz 2014,2014-10-17,ISHIKAWA Kasumi,CHENG I-Ching,4,2,"11,10,8,11,11,12|7,12,11,5,6,10",R16,WORLD_CUP,WS,329,Main Draw,CHENG I-Ching (TPE),ISHIKAWA Kasumi (JPN),ISHIKAWA Kasumi
+Women's World Cup Linz 2014,2014-10-17,JIANG Huajun,SUH Hyo Won,4,1,"11,11,11,2,11|9,7,6,11,8",R16,WORLD_CUP,WS,329,Main Draw,SUH Hyo Won (KOR),JIANG Huajun (HKG),JIANG Huajun
+Women's World Cup Linz 2014,2014-10-17,POTA Georgina,LEE Ho Ching,4,0,"11,11,11,11|2,8,9,5",R16,WORLD_CUP,WS,329,Main Draw,POTA Georgina (HUN),LEE Ho Ching (HKG),POTA Georgina
+Women's World Cup Linz 2014,2014-10-17,LIU Jia,VACENOVSKA Iveta,4,1,"6,14,11,11,11|11,12,9,7,8",R16,WORLD_CUP,WS,329,Main Draw,LIU Jia (AUT),VACENOVSKA Iveta (CZE),LIU Jia
+Women's World Cup Linz 2014,2014-10-17,LI Xiaoxia,SOLJA Petrissa,4,0,"11,11,11,11|3,9,4,6",R16,WORLD_CUP,WS,329,Main Draw,SOLJA Petrissa (GER),LI Xiaoxia (CHN),LI Xiaoxia
+Women's World Cup Linz 2014,2014-10-17,DING Ning,HU Melek,4,1,"11,11,11,9,11|9,4,9,11,9",QF,WORLD_CUP,WS,329,Main Draw,DING Ning (CHN),HU Melek (TUR),DING Ning
+Women's World Cup Linz 2014,2014-10-17,ISHIKAWA Kasumi,HIRANO Sayaka,4,2,"11,11,12,7,3,11|5,3,10,11,11,5",QF,WORLD_CUP,WS,329,Main Draw,HIRANO Sayaka (JPN),ISHIKAWA Kasumi (JPN),ISHIKAWA Kasumi
+Women's World Cup Linz 2014,2014-10-17,POTA Georgina,JIANG Huajun,4,3,"8,11,11,7,11,11,11|11,9,13,11,6,9,7",QF,WORLD_CUP,WS,329,Main Draw,JIANG Huajun (HKG),POTA Georgina (HUN),POTA Georgina
+Women's World Cup Linz 2014,2014-10-17,LI Xiaoxia,LIU Jia,4,3,"7,11,11,11,9,14,11|11,3,6,3,11,16,4",QF,WORLD_CUP,WS,329,Main Draw,LIU Jia (AUT),LI Xiaoxia (CHN),LI Xiaoxia
+Women's World Cup Linz 2014,2014-10-17,DING Ning,ISHIKAWA Kasumi,4,2,"11,11,7,9,11,11|6,3,11,11,6,7",SF,WORLD_CUP,WS,329,Main Draw,DING Ning (CHN),ISHIKAWA Kasumi (JPN),DING Ning
+Women's World Cup Linz 2014,2014-10-17,LI Xiaoxia,POTA Georgina,4,1,"3,11,11,11,11|11,5,6,8,8",SF,WORLD_CUP,WS,329,Main Draw,POTA Georgina (HUN),LI Xiaoxia (CHN),LI Xiaoxia
+Women's World Cup Linz 2014,2014-10-17,DING Ning,LI Xiaoxia,4,0,"11,11,13,11|7,9,11,5",F,WORLD_CUP,WS,329,Main Draw,DING Ning (CHN),LI Xiaoxia (CHN),DING Ning
+Women's World Cup Linz 2014,2014-10-17,ISHIKAWA Kasumi,POTA Georgina,4,3,"11,8,6,11,7,11,11|9,11,11,3,11,9,4",3RD,WORLD_CUP,WS,329,Position Draw,ISHIKAWA Kasumi (JPN),POTA Georgina (HUN),ISHIKAWA Kasumi

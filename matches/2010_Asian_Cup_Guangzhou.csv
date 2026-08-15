@@ -1,85 +1,85 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Asian Cup Guangzhou 2010,2010-03-26,MA Lin,CHAN Kazuhiro,3,0,,,OTHER,MS,615,Qualification,MA Lin (CHN),CHAN Kazuhiro (JPN)
-Asian Cup Guangzhou 2010,2010-03-26,TSE Ka Chun,YANG Zi,3,0,,,OTHER,MS,615,Qualification,TSE Ka Chun (HKG),YANG Zi (SGP)
-Asian Cup Guangzhou 2010,2010-03-26,MA Lin,YANG Zi,3,0,,,OTHER,MS,615,Qualification,MA Lin (CHN),YANG Zi (SGP)
-Asian Cup Guangzhou 2010,2010-03-26,CHAN Kazuhiro,TSE Ka Chun,3,0,,,OTHER,MS,615,Qualification,CHAN Kazuhiro (JPN),TSE Ka Chun (HKG)
-Asian Cup Guangzhou 2010,2010-03-26,MA Lin,TSE Ka Chun,3,0,,,OTHER,MS,615,Qualification,MA Lin (CHN),TSE Ka Chun (HKG)
-Asian Cup Guangzhou 2010,2010-03-26,YANG Zi,CHAN Kazuhiro,3,0,,,OTHER,MS,615,Qualification,YANG Zi (SGP),CHAN Kazuhiro (JPN)
-Asian Cup Guangzhou 2010,2010-03-26,ZHANG Jike,WU Chih-Chi,3,0,,,OTHER,MS,615,Qualification,ZHANG Jike (CHN),WU Chih-Chi (TPE)
-Asian Cup Guangzhou 2010,2010-03-26,KO Lai Chak,AL-HASAN Ibrahem,3,0,,,OTHER,MS,615,Qualification,KO Lai Chak (HKG),AL-HASAN Ibrahem (KUW)
-Asian Cup Guangzhou 2010,2010-03-26,KO Lai Chak,ZHANG Jike,3,0,,,OTHER,MS,615,Qualification,KO Lai Chak (HKG),ZHANG Jike (CHN)
-Asian Cup Guangzhou 2010,2010-03-26,WU Chih-Chi,AL-HASAN Ibrahem,3,0,,,OTHER,MS,615,Qualification,WU Chih-Chi (TPE),AL-HASAN Ibrahem (KUW)
-Asian Cup Guangzhou 2010,2010-03-26,ZHANG Jike,AL-HASAN Ibrahem,3,0,,,OTHER,MS,615,Qualification,ZHANG Jike (CHN),AL-HASAN Ibrahem (KUW)
-Asian Cup Guangzhou 2010,2010-03-26,KO Lai Chak,WU Chih-Chi,3,0,,,OTHER,MS,615,Qualification,KO Lai Chak (HKG),WU Chih-Chi (TPE)
-Asian Cup Guangzhou 2010,2010-03-26,XU Xin,NIWA Koki,3,0,,,OTHER,MS,615,Qualification,XU Xin (CHN),NIWA Koki (JPN)
-Asian Cup Guangzhou 2010,2010-03-26,SEO Hyundeok,ALAMIYAN Noshad,3,0,,,OTHER,MS,615,Qualification,SEO Hyundeok (KOR),ALAMIYAN Noshad (IRI)
-Asian Cup Guangzhou 2010,2010-03-26,XU Xin,SEO Hyundeok,3,0,,,OTHER,MS,615,Qualification,XU Xin (CHN),SEO Hyundeok (KOR)
-Asian Cup Guangzhou 2010,2010-03-26,NIWA Koki,ALAMIYAN Noshad,3,0,,,OTHER,MS,615,Qualification,NIWA Koki (JPN),ALAMIYAN Noshad (IRI)
-Asian Cup Guangzhou 2010,2010-03-26,XU Xin,ALAMIYAN Noshad,3,0,,,OTHER,MS,615,Qualification,XU Xin (CHN),ALAMIYAN Noshad (IRI)
-Asian Cup Guangzhou 2010,2010-03-26,SEO Hyundeok,NIWA Koki,3,0,,,OTHER,MS,615,Qualification,SEO Hyundeok (KOR),NIWA Koki (JPN)
-Asian Cup Guangzhou 2010,2010-03-26,KIM Minseok,GAO Ning,3,0,,,OTHER,MS,615,Qualification,KIM Minseok (KOR),GAO Ning (SGP)
-Asian Cup Guangzhou 2010,2010-03-26,ACHANTA Sharath,CHEN Chien-An,3,0,,,OTHER,MS,615,Qualification,ACHANTA Sharath (IND),CHEN Chien-An (TPE)
-Asian Cup Guangzhou 2010,2010-03-26,GAO Ning,ACHANTA Sharath,3,0,,,OTHER,MS,615,Qualification,GAO Ning (SGP),ACHANTA Sharath (IND)
-Asian Cup Guangzhou 2010,2010-03-26,KIM Minseok,CHEN Chien-An,3,0,,,OTHER,MS,615,Qualification,KIM Minseok (KOR),CHEN Chien-An (TPE)
-Asian Cup Guangzhou 2010,2010-03-26,GAO Ning,CHEN Chien-An,3,0,,,OTHER,MS,615,Qualification,GAO Ning (SGP),CHEN Chien-An (TPE)
-Asian Cup Guangzhou 2010,2010-03-26,ACHANTA Sharath,KIM Minseok,3,0,,,OTHER,MS,615,Qualification,ACHANTA Sharath (IND),KIM Minseok (KOR)
-Asian Cup Guangzhou 2010,2010-03-26,ZHANG Jike,MA Lin,3,0,,QF,OTHER,MS,615,Main Draw,ZHANG Jike (CHN),MA Lin (CHN)
-Asian Cup Guangzhou 2010,2010-03-26,XU Xin,KIM Minseok,3,0,,QF,OTHER,MS,615,Main Draw,XU Xin (CHN),KIM Minseok (KOR)
-Asian Cup Guangzhou 2010,2010-03-26,GAO Ning,SEO Hyundeok,3,0,,QF,OTHER,MS,615,Main Draw,GAO Ning (SGP),SEO Hyundeok (KOR)
-Asian Cup Guangzhou 2010,2010-03-26,KO Lai Chak,TSE Ka Chun,3,0,,QF,OTHER,MS,615,Main Draw,KO Lai Chak (HKG),TSE Ka Chun (HKG)
-Asian Cup Guangzhou 2010,2010-03-26,ZHANG Jike,XU Xin,3,0,,SF,OTHER,MS,615,Main Draw,ZHANG Jike (CHN),XU Xin (CHN)
-Asian Cup Guangzhou 2010,2010-03-26,GAO Ning,KO Lai Chak,3,0,,SF,OTHER,MS,615,Main Draw,GAO Ning (SGP),KO Lai Chak (HKG)
-Asian Cup Guangzhou 2010,2010-03-26,ZHANG Jike,GAO Ning,3,0,,F,OTHER,MS,615,Main Draw,ZHANG Jike (CHN),GAO Ning (SGP)
-Asian Cup Guangzhou 2010,2010-03-26,MA Lin,KIM Minseok,3,0,,5-8,OTHER,MS,615,Position Draw,MA Lin (CHN),KIM Minseok (KOR)
-Asian Cup Guangzhou 2010,2010-03-26,SEO Hyundeok,TSE Ka Chun,3,0,,5-8,OTHER,MS,615,Position Draw,SEO Hyundeok (KOR),TSE Ka Chun (HKG)
-Asian Cup Guangzhou 2010,2010-03-26,MA Lin,SEO Hyundeok,3,0,,3RD,OTHER,MS,615,Position Draw,MA Lin (CHN),SEO Hyundeok (KOR)
-Asian Cup Guangzhou 2010,2010-03-26,KIM Minseok,TSE Ka Chun,3,0,,3RD,OTHER,MS,615,Position Draw,KIM Minseok (KOR),TSE Ka Chun (HKG)
-Asian Cup Guangzhou 2010,2010-03-26,XU Xin,KO Lai Chak,3,0,,3RD,OTHER,MS,615,Position Draw,XU Xin (CHN),KO Lai Chak (HKG)
-Asian Cup Guangzhou 2010,2010-03-26,AL-HASAN Ibrahem,NIWA Koki,3,0,,QF,OTHER,MS,615,Main Draw,AL-HASAN Ibrahem (KUW),NIWA Koki (JPN)
-Asian Cup Guangzhou 2010,2010-03-26,CHEN Chien-An,CHAN Kazuhiro,3,0,,QF,OTHER,MS,615,Main Draw,CHEN Chien-An (TPE),CHAN Kazuhiro (JPN)
-Asian Cup Guangzhou 2010,2010-03-26,YANG Zi,ACHANTA Sharath,3,0,,QF,OTHER,MS,615,Main Draw,YANG Zi (SGP),ACHANTA Sharath (IND)
-Asian Cup Guangzhou 2010,2010-03-26,ALAMIYAN Noshad,WU Chih-Chi,3,0,,QF,OTHER,MS,615,Main Draw,ALAMIYAN Noshad (IRI),WU Chih-Chi (TPE)
-Asian Cup Guangzhou 2010,2010-03-26,AL-HASAN Ibrahem,CHEN Chien-An,3,0,,5-8,OTHER,MS,615,Position Draw,AL-HASAN Ibrahem (KUW),CHEN Chien-An (TPE)
-Asian Cup Guangzhou 2010,2010-03-26,YANG Zi,ALAMIYAN Noshad,3,0,,5-8,OTHER,MS,615,Position Draw,YANG Zi (SGP),ALAMIYAN Noshad (IRI)
-Asian Cup Guangzhou 2010,2010-03-26,LIU Shiwen,ZHANG Rui,3,0,,,OTHER,WS,615,Qualification,LIU Shiwen (CHN),ZHANG Rui (HKG)
-Asian Cup Guangzhou 2010,2010-03-26,WANG Yuegu,YAMANASHI Yuri,3,0,,,OTHER,WS,615,Qualification,WANG Yuegu (SGP),YAMANASHI Yuri (JPN)
-Asian Cup Guangzhou 2010,2010-03-26,LIU Shiwen,WANG Yuegu,3,0,,,OTHER,WS,615,Qualification,LIU Shiwen (CHN),WANG Yuegu (SGP)
-Asian Cup Guangzhou 2010,2010-03-26,ZHANG Rui,YAMANASHI Yuri,3,0,,,OTHER,WS,615,Qualification,ZHANG Rui (HKG),YAMANASHI Yuri (JPN)
-Asian Cup Guangzhou 2010,2010-03-26,LIU Shiwen,YAMANASHI Yuri,3,0,,,OTHER,WS,615,Qualification,LIU Shiwen (CHN),YAMANASHI Yuri (JPN)
-Asian Cup Guangzhou 2010,2010-03-26,WANG Yuegu,ZHANG Rui,3,0,,,OTHER,WS,615,Qualification,WANG Yuegu (SGP),ZHANG Rui (HKG)
-Asian Cup Guangzhou 2010,2010-03-26,FENG Tianwei,WAKAMIYA Misako,3,0,,,OTHER,WS,615,Qualification,FENG Tianwei (SGP),WAKAMIYA Misako (JPN)
-Asian Cup Guangzhou 2010,2010-03-26,HUANG Yi-Hua,SHAHSAVARI Neda,3,0,,,OTHER,WS,615,Qualification,HUANG Yi-Hua (TPE),SHAHSAVARI Neda (IRI)
-Asian Cup Guangzhou 2010,2010-03-26,FENG Tianwei,HUANG Yi-Hua,3,0,,,OTHER,WS,615,Qualification,FENG Tianwei (SGP),HUANG Yi-Hua (TPE)
-Asian Cup Guangzhou 2010,2010-03-26,WAKAMIYA Misako,SHAHSAVARI Neda,3,0,,,OTHER,WS,615,Qualification,WAKAMIYA Misako (JPN),SHAHSAVARI Neda (IRI)
-Asian Cup Guangzhou 2010,2010-03-26,FENG Tianwei,SHAHSAVARI Neda,3,0,,,OTHER,WS,615,Qualification,FENG Tianwei (SGP),SHAHSAVARI Neda (IRI)
-Asian Cup Guangzhou 2010,2010-03-26,HUANG Yi-Hua,WAKAMIYA Misako,3,0,,,OTHER,WS,615,Qualification,HUANG Yi-Hua (TPE),WAKAMIYA Misako (JPN)
-Asian Cup Guangzhou 2010,2010-03-26,DING Ning,KOMWONG Nanthana,3,0,,,OTHER,WS,615,Qualification,DING Ning (CHN),KOMWONG Nanthana (THA)
-Asian Cup Guangzhou 2010,2010-03-26,SEOK Hajung,BEH Lee Wei,3,0,,,OTHER,WS,615,Qualification,SEOK Hajung (KOR),BEH Lee Wei (MAS)
-Asian Cup Guangzhou 2010,2010-03-26,DING Ning,SEOK Hajung,3,0,,,OTHER,WS,615,Qualification,DING Ning (CHN),SEOK Hajung (KOR)
-Asian Cup Guangzhou 2010,2010-03-26,KOMWONG Nanthana,BEH Lee Wei,3,0,,,OTHER,WS,615,Qualification,KOMWONG Nanthana (THA),BEH Lee Wei (MAS)
-Asian Cup Guangzhou 2010,2010-03-26,DING Ning,BEH Lee Wei,3,0,,,OTHER,WS,615,Qualification,DING Ning (CHN),BEH Lee Wei (MAS)
-Asian Cup Guangzhou 2010,2010-03-26,SEOK Hajung,KOMWONG Nanthana,3,0,,,OTHER,WS,615,Qualification,SEOK Hajung (KOR),KOMWONG Nanthana (THA)
-Asian Cup Guangzhou 2010,2010-03-26,LI Xiaoxia,YANG Ha Eun,3,0,,,OTHER,WS,615,Qualification,LI Xiaoxia (CHN),YANG Ha Eun (KOR)
-Asian Cup Guangzhou 2010,2010-03-26,LAU Sui Fei,GHATAK Poulomi,3,0,,,OTHER,WS,615,Qualification,LAU Sui Fei (HKG),GHATAK Poulomi (IND)
-Asian Cup Guangzhou 2010,2010-03-26,LAU Sui Fei,LI Xiaoxia,3,0,,,OTHER,WS,615,Qualification,LAU Sui Fei (HKG),LI Xiaoxia (CHN)
-Asian Cup Guangzhou 2010,2010-03-26,YANG Ha Eun,GHATAK Poulomi,3,0,,,OTHER,WS,615,Qualification,YANG Ha Eun (KOR),GHATAK Poulomi (IND)
-Asian Cup Guangzhou 2010,2010-03-26,LI Xiaoxia,GHATAK Poulomi,3,0,,,OTHER,WS,615,Qualification,LI Xiaoxia (CHN),GHATAK Poulomi (IND)
-Asian Cup Guangzhou 2010,2010-03-26,YANG Ha Eun,LAU Sui Fei,3,0,,,OTHER,WS,615,Qualification,YANG Ha Eun (KOR),LAU Sui Fei (HKG)
-Asian Cup Guangzhou 2010,2010-03-26,LIU Shiwen,HUANG Yi-Hua,3,0,,QF,OTHER,WS,615,Main Draw,LIU Shiwen (CHN),HUANG Yi-Hua (TPE)
-Asian Cup Guangzhou 2010,2010-03-26,SEOK Hajung,LAU Sui Fei,3,0,,QF,OTHER,WS,615,Main Draw,SEOK Hajung (KOR),LAU Sui Fei (HKG)
-Asian Cup Guangzhou 2010,2010-03-26,DING Ning,WANG Yuegu,3,0,,QF,OTHER,WS,615,Main Draw,DING Ning (CHN),WANG Yuegu (SGP)
-Asian Cup Guangzhou 2010,2010-03-26,FENG Tianwei,YANG Ha Eun,3,0,,QF,OTHER,WS,615,Main Draw,FENG Tianwei (SGP),YANG Ha Eun (KOR)
-Asian Cup Guangzhou 2010,2010-03-26,LIU Shiwen,SEOK Hajung,3,0,,SF,OTHER,WS,615,Main Draw,LIU Shiwen (CHN),SEOK Hajung (KOR)
-Asian Cup Guangzhou 2010,2010-03-26,DING Ning,FENG Tianwei,3,0,,SF,OTHER,WS,615,Main Draw,DING Ning (CHN),FENG Tianwei (SGP)
-Asian Cup Guangzhou 2010,2010-03-26,LIU Shiwen,DING Ning,3,0,,F,OTHER,WS,615,Main Draw,LIU Shiwen (CHN),DING Ning (CHN)
-Asian Cup Guangzhou 2010,2010-03-26,FENG Tianwei,SEOK Hajung,3,0,,3RD,OTHER,WS,615,Position Draw,FENG Tianwei (SGP),SEOK Hajung (KOR)
-Asian Cup Guangzhou 2010,2010-03-26,HUANG Yi-Hua,LAU Sui Fei,3,0,,5-8,OTHER,WS,615,Position Draw,HUANG Yi-Hua (TPE),LAU Sui Fei (HKG)
-Asian Cup Guangzhou 2010,2010-03-26,WANG Yuegu,YANG Ha Eun,3,0,,5-8,OTHER,WS,615,Position Draw,WANG Yuegu (SGP),YANG Ha Eun (KOR)
-Asian Cup Guangzhou 2010,2010-03-26,HUANG Yi-Hua,WANG Yuegu,3,0,,3RD,OTHER,WS,615,Position Draw,HUANG Yi-Hua (TPE),WANG Yuegu (SGP)
-Asian Cup Guangzhou 2010,2010-03-26,LAU Sui Fei,YANG Ha Eun,3,0,,3RD,OTHER,WS,615,Position Draw,LAU Sui Fei (HKG),YANG Ha Eun (KOR)
-Asian Cup Guangzhou 2010,2010-03-26,ZHANG Rui,GHATAK Poulomi,3,0,,QF,OTHER,WS,615,Main Draw,ZHANG Rui (HKG),GHATAK Poulomi (IND)
-Asian Cup Guangzhou 2010,2010-03-26,WAKAMIYA Misako,BEH Lee Wei,3,0,,QF,OTHER,WS,615,Main Draw,WAKAMIYA Misako (JPN),BEH Lee Wei (MAS)
-Asian Cup Guangzhou 2010,2010-03-26,YAMANASHI Yuri,KOMWONG Nanthana,3,0,,QF,OTHER,WS,615,Main Draw,YAMANASHI Yuri (JPN),KOMWONG Nanthana (THA)
-Asian Cup Guangzhou 2010,2010-03-26,LI Xiaoxia,SHAHSAVARI Neda,3,0,,QF,OTHER,WS,615,Main Draw,LI Xiaoxia (CHN),SHAHSAVARI Neda (IRI)
-Asian Cup Guangzhou 2010,2010-03-26,WAKAMIYA Misako,ZHANG Rui,3,0,,5-8,OTHER,WS,615,Position Draw,WAKAMIYA Misako (JPN),ZHANG Rui (HKG)
-Asian Cup Guangzhou 2010,2010-03-26,LI Xiaoxia,YAMANASHI Yuri,3,0,,5-8,OTHER,WS,615,Position Draw,LI Xiaoxia (CHN),YAMANASHI Yuri (JPN)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Asian Cup Guangzhou 2010,2010-03-26,MA Lin,CHAN Kazuhiro,3,0,,,OTHER,MS,615,Qualification,MA Lin (CHN),CHAN Kazuhiro (JPN),MA Lin
+Asian Cup Guangzhou 2010,2010-03-26,TSE Ka Chun,YANG Zi,3,0,,,OTHER,MS,615,Qualification,TSE Ka Chun (HKG),YANG Zi (SGP),TSE Ka Chun
+Asian Cup Guangzhou 2010,2010-03-26,MA Lin,YANG Zi,3,0,,,OTHER,MS,615,Qualification,MA Lin (CHN),YANG Zi (SGP),MA Lin
+Asian Cup Guangzhou 2010,2010-03-26,CHAN Kazuhiro,TSE Ka Chun,3,0,,,OTHER,MS,615,Qualification,CHAN Kazuhiro (JPN),TSE Ka Chun (HKG),CHAN Kazuhiro
+Asian Cup Guangzhou 2010,2010-03-26,MA Lin,TSE Ka Chun,3,0,,,OTHER,MS,615,Qualification,MA Lin (CHN),TSE Ka Chun (HKG),MA Lin
+Asian Cup Guangzhou 2010,2010-03-26,YANG Zi,CHAN Kazuhiro,3,0,,,OTHER,MS,615,Qualification,YANG Zi (SGP),CHAN Kazuhiro (JPN),YANG Zi
+Asian Cup Guangzhou 2010,2010-03-26,ZHANG Jike,WU Chih-Chi,3,0,,,OTHER,MS,615,Qualification,ZHANG Jike (CHN),WU Chih-Chi (TPE),ZHANG Jike
+Asian Cup Guangzhou 2010,2010-03-26,KO Lai Chak,AL-HASAN Ibrahem,3,0,,,OTHER,MS,615,Qualification,KO Lai Chak (HKG),AL-HASAN Ibrahem (KUW),KO Lai Chak
+Asian Cup Guangzhou 2010,2010-03-26,KO Lai Chak,ZHANG Jike,3,0,,,OTHER,MS,615,Qualification,KO Lai Chak (HKG),ZHANG Jike (CHN),KO Lai Chak
+Asian Cup Guangzhou 2010,2010-03-26,WU Chih-Chi,AL-HASAN Ibrahem,3,0,,,OTHER,MS,615,Qualification,WU Chih-Chi (TPE),AL-HASAN Ibrahem (KUW),WU Chih-Chi
+Asian Cup Guangzhou 2010,2010-03-26,ZHANG Jike,AL-HASAN Ibrahem,3,0,,,OTHER,MS,615,Qualification,ZHANG Jike (CHN),AL-HASAN Ibrahem (KUW),ZHANG Jike
+Asian Cup Guangzhou 2010,2010-03-26,KO Lai Chak,WU Chih-Chi,3,0,,,OTHER,MS,615,Qualification,KO Lai Chak (HKG),WU Chih-Chi (TPE),KO Lai Chak
+Asian Cup Guangzhou 2010,2010-03-26,XU Xin,NIWA Koki,3,0,,,OTHER,MS,615,Qualification,XU Xin (CHN),NIWA Koki (JPN),XU Xin
+Asian Cup Guangzhou 2010,2010-03-26,SEO Hyundeok,ALAMIYAN Noshad,3,0,,,OTHER,MS,615,Qualification,SEO Hyundeok (KOR),ALAMIYAN Noshad (IRI),SEO Hyundeok
+Asian Cup Guangzhou 2010,2010-03-26,XU Xin,SEO Hyundeok,3,0,,,OTHER,MS,615,Qualification,XU Xin (CHN),SEO Hyundeok (KOR),XU Xin
+Asian Cup Guangzhou 2010,2010-03-26,NIWA Koki,ALAMIYAN Noshad,3,0,,,OTHER,MS,615,Qualification,NIWA Koki (JPN),ALAMIYAN Noshad (IRI),NIWA Koki
+Asian Cup Guangzhou 2010,2010-03-26,XU Xin,ALAMIYAN Noshad,3,0,,,OTHER,MS,615,Qualification,XU Xin (CHN),ALAMIYAN Noshad (IRI),XU Xin
+Asian Cup Guangzhou 2010,2010-03-26,SEO Hyundeok,NIWA Koki,3,0,,,OTHER,MS,615,Qualification,SEO Hyundeok (KOR),NIWA Koki (JPN),SEO Hyundeok
+Asian Cup Guangzhou 2010,2010-03-26,KIM Minseok,GAO Ning,3,0,,,OTHER,MS,615,Qualification,KIM Minseok (KOR),GAO Ning (SGP),KIM Minseok
+Asian Cup Guangzhou 2010,2010-03-26,ACHANTA Sharath,CHEN Chien-An,3,0,,,OTHER,MS,615,Qualification,ACHANTA Sharath (IND),CHEN Chien-An (TPE),ACHANTA Sharath
+Asian Cup Guangzhou 2010,2010-03-26,GAO Ning,ACHANTA Sharath,3,0,,,OTHER,MS,615,Qualification,GAO Ning (SGP),ACHANTA Sharath (IND),GAO Ning
+Asian Cup Guangzhou 2010,2010-03-26,KIM Minseok,CHEN Chien-An,3,0,,,OTHER,MS,615,Qualification,KIM Minseok (KOR),CHEN Chien-An (TPE),KIM Minseok
+Asian Cup Guangzhou 2010,2010-03-26,GAO Ning,CHEN Chien-An,3,0,,,OTHER,MS,615,Qualification,GAO Ning (SGP),CHEN Chien-An (TPE),GAO Ning
+Asian Cup Guangzhou 2010,2010-03-26,ACHANTA Sharath,KIM Minseok,3,0,,,OTHER,MS,615,Qualification,ACHANTA Sharath (IND),KIM Minseok (KOR),ACHANTA Sharath
+Asian Cup Guangzhou 2010,2010-03-26,ZHANG Jike,MA Lin,3,0,,QF,OTHER,MS,615,Main Draw,ZHANG Jike (CHN),MA Lin (CHN),ZHANG Jike
+Asian Cup Guangzhou 2010,2010-03-26,XU Xin,KIM Minseok,3,0,,QF,OTHER,MS,615,Main Draw,XU Xin (CHN),KIM Minseok (KOR),XU Xin
+Asian Cup Guangzhou 2010,2010-03-26,GAO Ning,SEO Hyundeok,3,0,,QF,OTHER,MS,615,Main Draw,GAO Ning (SGP),SEO Hyundeok (KOR),GAO Ning
+Asian Cup Guangzhou 2010,2010-03-26,KO Lai Chak,TSE Ka Chun,3,0,,QF,OTHER,MS,615,Main Draw,KO Lai Chak (HKG),TSE Ka Chun (HKG),KO Lai Chak
+Asian Cup Guangzhou 2010,2010-03-26,ZHANG Jike,XU Xin,3,0,,SF,OTHER,MS,615,Main Draw,ZHANG Jike (CHN),XU Xin (CHN),ZHANG Jike
+Asian Cup Guangzhou 2010,2010-03-26,GAO Ning,KO Lai Chak,3,0,,SF,OTHER,MS,615,Main Draw,GAO Ning (SGP),KO Lai Chak (HKG),GAO Ning
+Asian Cup Guangzhou 2010,2010-03-26,ZHANG Jike,GAO Ning,3,0,,F,OTHER,MS,615,Main Draw,ZHANG Jike (CHN),GAO Ning (SGP),ZHANG Jike
+Asian Cup Guangzhou 2010,2010-03-26,MA Lin,KIM Minseok,3,0,,5-8,OTHER,MS,615,Position Draw,MA Lin (CHN),KIM Minseok (KOR),MA Lin
+Asian Cup Guangzhou 2010,2010-03-26,SEO Hyundeok,TSE Ka Chun,3,0,,5-8,OTHER,MS,615,Position Draw,SEO Hyundeok (KOR),TSE Ka Chun (HKG),SEO Hyundeok
+Asian Cup Guangzhou 2010,2010-03-26,MA Lin,SEO Hyundeok,3,0,,3RD,OTHER,MS,615,Position Draw,MA Lin (CHN),SEO Hyundeok (KOR),MA Lin
+Asian Cup Guangzhou 2010,2010-03-26,KIM Minseok,TSE Ka Chun,3,0,,3RD,OTHER,MS,615,Position Draw,KIM Minseok (KOR),TSE Ka Chun (HKG),KIM Minseok
+Asian Cup Guangzhou 2010,2010-03-26,XU Xin,KO Lai Chak,3,0,,3RD,OTHER,MS,615,Position Draw,XU Xin (CHN),KO Lai Chak (HKG),XU Xin
+Asian Cup Guangzhou 2010,2010-03-26,AL-HASAN Ibrahem,NIWA Koki,3,0,,QF,OTHER,MS,615,Main Draw,AL-HASAN Ibrahem (KUW),NIWA Koki (JPN),AL-HASAN Ibrahem
+Asian Cup Guangzhou 2010,2010-03-26,CHEN Chien-An,CHAN Kazuhiro,3,0,,QF,OTHER,MS,615,Main Draw,CHEN Chien-An (TPE),CHAN Kazuhiro (JPN),CHEN Chien-An
+Asian Cup Guangzhou 2010,2010-03-26,YANG Zi,ACHANTA Sharath,3,0,,QF,OTHER,MS,615,Main Draw,YANG Zi (SGP),ACHANTA Sharath (IND),YANG Zi
+Asian Cup Guangzhou 2010,2010-03-26,ALAMIYAN Noshad,WU Chih-Chi,3,0,,QF,OTHER,MS,615,Main Draw,ALAMIYAN Noshad (IRI),WU Chih-Chi (TPE),ALAMIYAN Noshad
+Asian Cup Guangzhou 2010,2010-03-26,AL-HASAN Ibrahem,CHEN Chien-An,3,0,,5-8,OTHER,MS,615,Position Draw,AL-HASAN Ibrahem (KUW),CHEN Chien-An (TPE),AL-HASAN Ibrahem
+Asian Cup Guangzhou 2010,2010-03-26,YANG Zi,ALAMIYAN Noshad,3,0,,5-8,OTHER,MS,615,Position Draw,YANG Zi (SGP),ALAMIYAN Noshad (IRI),YANG Zi
+Asian Cup Guangzhou 2010,2010-03-26,LIU Shiwen,ZHANG Rui,3,0,,,OTHER,WS,615,Qualification,LIU Shiwen (CHN),ZHANG Rui (HKG),LIU Shiwen
+Asian Cup Guangzhou 2010,2010-03-26,WANG Yuegu,YAMANASHI Yuri,3,0,,,OTHER,WS,615,Qualification,WANG Yuegu (SGP),YAMANASHI Yuri (JPN),WANG Yuegu
+Asian Cup Guangzhou 2010,2010-03-26,LIU Shiwen,WANG Yuegu,3,0,,,OTHER,WS,615,Qualification,LIU Shiwen (CHN),WANG Yuegu (SGP),LIU Shiwen
+Asian Cup Guangzhou 2010,2010-03-26,ZHANG Rui,YAMANASHI Yuri,3,0,,,OTHER,WS,615,Qualification,ZHANG Rui (HKG),YAMANASHI Yuri (JPN),ZHANG Rui
+Asian Cup Guangzhou 2010,2010-03-26,LIU Shiwen,YAMANASHI Yuri,3,0,,,OTHER,WS,615,Qualification,LIU Shiwen (CHN),YAMANASHI Yuri (JPN),LIU Shiwen
+Asian Cup Guangzhou 2010,2010-03-26,WANG Yuegu,ZHANG Rui,3,0,,,OTHER,WS,615,Qualification,WANG Yuegu (SGP),ZHANG Rui (HKG),WANG Yuegu
+Asian Cup Guangzhou 2010,2010-03-26,FENG Tianwei,WAKAMIYA Misako,3,0,,,OTHER,WS,615,Qualification,FENG Tianwei (SGP),WAKAMIYA Misako (JPN),FENG Tianwei
+Asian Cup Guangzhou 2010,2010-03-26,HUANG Yi-Hua,SHAHSAVARI Neda,3,0,,,OTHER,WS,615,Qualification,HUANG Yi-Hua (TPE),SHAHSAVARI Neda (IRI),HUANG Yi-Hua
+Asian Cup Guangzhou 2010,2010-03-26,FENG Tianwei,HUANG Yi-Hua,3,0,,,OTHER,WS,615,Qualification,FENG Tianwei (SGP),HUANG Yi-Hua (TPE),FENG Tianwei
+Asian Cup Guangzhou 2010,2010-03-26,WAKAMIYA Misako,SHAHSAVARI Neda,3,0,,,OTHER,WS,615,Qualification,WAKAMIYA Misako (JPN),SHAHSAVARI Neda (IRI),WAKAMIYA Misako
+Asian Cup Guangzhou 2010,2010-03-26,FENG Tianwei,SHAHSAVARI Neda,3,0,,,OTHER,WS,615,Qualification,FENG Tianwei (SGP),SHAHSAVARI Neda (IRI),FENG Tianwei
+Asian Cup Guangzhou 2010,2010-03-26,HUANG Yi-Hua,WAKAMIYA Misako,3,0,,,OTHER,WS,615,Qualification,HUANG Yi-Hua (TPE),WAKAMIYA Misako (JPN),HUANG Yi-Hua
+Asian Cup Guangzhou 2010,2010-03-26,DING Ning,KOMWONG Nanthana,3,0,,,OTHER,WS,615,Qualification,DING Ning (CHN),KOMWONG Nanthana (THA),DING Ning
+Asian Cup Guangzhou 2010,2010-03-26,SEOK Hajung,BEH Lee Wei,3,0,,,OTHER,WS,615,Qualification,SEOK Hajung (KOR),BEH Lee Wei (MAS),SEOK Hajung
+Asian Cup Guangzhou 2010,2010-03-26,DING Ning,SEOK Hajung,3,0,,,OTHER,WS,615,Qualification,DING Ning (CHN),SEOK Hajung (KOR),DING Ning
+Asian Cup Guangzhou 2010,2010-03-26,KOMWONG Nanthana,BEH Lee Wei,3,0,,,OTHER,WS,615,Qualification,KOMWONG Nanthana (THA),BEH Lee Wei (MAS),KOMWONG Nanthana
+Asian Cup Guangzhou 2010,2010-03-26,DING Ning,BEH Lee Wei,3,0,,,OTHER,WS,615,Qualification,DING Ning (CHN),BEH Lee Wei (MAS),DING Ning
+Asian Cup Guangzhou 2010,2010-03-26,SEOK Hajung,KOMWONG Nanthana,3,0,,,OTHER,WS,615,Qualification,SEOK Hajung (KOR),KOMWONG Nanthana (THA),SEOK Hajung
+Asian Cup Guangzhou 2010,2010-03-26,LI Xiaoxia,YANG Ha Eun,3,0,,,OTHER,WS,615,Qualification,LI Xiaoxia (CHN),YANG Ha Eun (KOR),LI Xiaoxia
+Asian Cup Guangzhou 2010,2010-03-26,LAU Sui Fei,GHATAK Poulomi,3,0,,,OTHER,WS,615,Qualification,LAU Sui Fei (HKG),GHATAK Poulomi (IND),LAU Sui Fei
+Asian Cup Guangzhou 2010,2010-03-26,LAU Sui Fei,LI Xiaoxia,3,0,,,OTHER,WS,615,Qualification,LAU Sui Fei (HKG),LI Xiaoxia (CHN),LAU Sui Fei
+Asian Cup Guangzhou 2010,2010-03-26,YANG Ha Eun,GHATAK Poulomi,3,0,,,OTHER,WS,615,Qualification,YANG Ha Eun (KOR),GHATAK Poulomi (IND),YANG Ha Eun
+Asian Cup Guangzhou 2010,2010-03-26,LI Xiaoxia,GHATAK Poulomi,3,0,,,OTHER,WS,615,Qualification,LI Xiaoxia (CHN),GHATAK Poulomi (IND),LI Xiaoxia
+Asian Cup Guangzhou 2010,2010-03-26,YANG Ha Eun,LAU Sui Fei,3,0,,,OTHER,WS,615,Qualification,YANG Ha Eun (KOR),LAU Sui Fei (HKG),YANG Ha Eun
+Asian Cup Guangzhou 2010,2010-03-26,LIU Shiwen,HUANG Yi-Hua,3,0,,QF,OTHER,WS,615,Main Draw,LIU Shiwen (CHN),HUANG Yi-Hua (TPE),LIU Shiwen
+Asian Cup Guangzhou 2010,2010-03-26,SEOK Hajung,LAU Sui Fei,3,0,,QF,OTHER,WS,615,Main Draw,SEOK Hajung (KOR),LAU Sui Fei (HKG),SEOK Hajung
+Asian Cup Guangzhou 2010,2010-03-26,DING Ning,WANG Yuegu,3,0,,QF,OTHER,WS,615,Main Draw,DING Ning (CHN),WANG Yuegu (SGP),DING Ning
+Asian Cup Guangzhou 2010,2010-03-26,FENG Tianwei,YANG Ha Eun,3,0,,QF,OTHER,WS,615,Main Draw,FENG Tianwei (SGP),YANG Ha Eun (KOR),FENG Tianwei
+Asian Cup Guangzhou 2010,2010-03-26,LIU Shiwen,SEOK Hajung,3,0,,SF,OTHER,WS,615,Main Draw,LIU Shiwen (CHN),SEOK Hajung (KOR),LIU Shiwen
+Asian Cup Guangzhou 2010,2010-03-26,DING Ning,FENG Tianwei,3,0,,SF,OTHER,WS,615,Main Draw,DING Ning (CHN),FENG Tianwei (SGP),DING Ning
+Asian Cup Guangzhou 2010,2010-03-26,LIU Shiwen,DING Ning,3,0,,F,OTHER,WS,615,Main Draw,LIU Shiwen (CHN),DING Ning (CHN),LIU Shiwen
+Asian Cup Guangzhou 2010,2010-03-26,FENG Tianwei,SEOK Hajung,3,0,,3RD,OTHER,WS,615,Position Draw,FENG Tianwei (SGP),SEOK Hajung (KOR),FENG Tianwei
+Asian Cup Guangzhou 2010,2010-03-26,HUANG Yi-Hua,LAU Sui Fei,3,0,,5-8,OTHER,WS,615,Position Draw,HUANG Yi-Hua (TPE),LAU Sui Fei (HKG),HUANG Yi-Hua
+Asian Cup Guangzhou 2010,2010-03-26,WANG Yuegu,YANG Ha Eun,3,0,,5-8,OTHER,WS,615,Position Draw,WANG Yuegu (SGP),YANG Ha Eun (KOR),WANG Yuegu
+Asian Cup Guangzhou 2010,2010-03-26,HUANG Yi-Hua,WANG Yuegu,3,0,,3RD,OTHER,WS,615,Position Draw,HUANG Yi-Hua (TPE),WANG Yuegu (SGP),HUANG Yi-Hua
+Asian Cup Guangzhou 2010,2010-03-26,LAU Sui Fei,YANG Ha Eun,3,0,,3RD,OTHER,WS,615,Position Draw,LAU Sui Fei (HKG),YANG Ha Eun (KOR),LAU Sui Fei
+Asian Cup Guangzhou 2010,2010-03-26,ZHANG Rui,GHATAK Poulomi,3,0,,QF,OTHER,WS,615,Main Draw,ZHANG Rui (HKG),GHATAK Poulomi (IND),ZHANG Rui
+Asian Cup Guangzhou 2010,2010-03-26,WAKAMIYA Misako,BEH Lee Wei,3,0,,QF,OTHER,WS,615,Main Draw,WAKAMIYA Misako (JPN),BEH Lee Wei (MAS),WAKAMIYA Misako
+Asian Cup Guangzhou 2010,2010-03-26,YAMANASHI Yuri,KOMWONG Nanthana,3,0,,QF,OTHER,WS,615,Main Draw,YAMANASHI Yuri (JPN),KOMWONG Nanthana (THA),YAMANASHI Yuri
+Asian Cup Guangzhou 2010,2010-03-26,LI Xiaoxia,SHAHSAVARI Neda,3,0,,QF,OTHER,WS,615,Main Draw,LI Xiaoxia (CHN),SHAHSAVARI Neda (IRI),LI Xiaoxia
+Asian Cup Guangzhou 2010,2010-03-26,WAKAMIYA Misako,ZHANG Rui,3,0,,5-8,OTHER,WS,615,Position Draw,WAKAMIYA Misako (JPN),ZHANG Rui (HKG),WAKAMIYA Misako
+Asian Cup Guangzhou 2010,2010-03-26,LI Xiaoxia,YAMANASHI Yuri,3,0,,5-8,OTHER,WS,615,Position Draw,LI Xiaoxia (CHN),YAMANASHI Yuri (JPN),LI Xiaoxia

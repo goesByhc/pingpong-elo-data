@@ -1,73 +1,73 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-ITTF Asian Cup Yokohama 2018,2018-04-06,FAN Zhendong,CHUANG Chih-Yuan,3,0,"11,11,11|4,4,6",,OTHER,MS,910,Qualification,FAN Zhendong (CHN),CHUANG Chih-Yuan (TPE)
-ITTF Asian Cup Yokohama 2018,2018-04-06,HARIMOTO Tomokazu,GERASSIMENKO Kirill,3,1,"11,8,11,11|9,11,8,8",,OTHER,MS,910,Qualification,HARIMOTO Tomokazu (JPN),GERASSIMENKO Kirill (KAZ)
-ITTF Asian Cup Yokohama 2018,2018-04-06,HARIMOTO Tomokazu,FAN Zhendong,3,1,"11,8,11,11|8,11,9,8",,OTHER,MS,910,Qualification,FAN Zhendong (CHN),HARIMOTO Tomokazu (JPN)
-ITTF Asian Cup Yokohama 2018,2018-04-06,CHUANG Chih-Yuan,GERASSIMENKO Kirill,3,2,"7,11,11,10,11|11,5,8,12,3",,OTHER,MS,910,Qualification,CHUANG Chih-Yuan (TPE),GERASSIMENKO Kirill (KAZ)
-ITTF Asian Cup Yokohama 2018,2018-04-06,FAN Zhendong,GERASSIMENKO Kirill,3,0,"11,11,11|8,4,8",,OTHER,MS,910,Qualification,FAN Zhendong (CHN),GERASSIMENKO Kirill (KAZ)
-ITTF Asian Cup Yokohama 2018,2018-04-06,HARIMOTO Tomokazu,CHUANG Chih-Yuan,3,1,"10,11,11,11|12,5,6,5",,OTHER,MS,910,Qualification,HARIMOTO Tomokazu (JPN),CHUANG Chih-Yuan (TPE)
-ITTF Asian Cup Yokohama 2018,2018-04-06,LIN Gaoyuan,CHEN Chien-An,3,0,"11,11,11|8,3,6",,OTHER,MS,910,Qualification,LIN Gaoyuan (CHN),CHEN Chien-An (TPE)
-ITTF Asian Cup Yokohama 2018,2018-04-06,LEE Sang Su,JIANG Tianyi,3,1,"11,13,7,11|8,11,11,7",,OTHER,MS,910,Qualification,LEE Sang Su (KOR),JIANG Tianyi (HKG)
-ITTF Asian Cup Yokohama 2018,2018-04-06,LEE Sang Su,LIN Gaoyuan,3,0,"11,11,11|8,5,5",,OTHER,MS,910,Qualification,LIN Gaoyuan (CHN),LEE Sang Su (KOR)
-ITTF Asian Cup Yokohama 2018,2018-04-06,CHEN Chien-An,JIANG Tianyi,3,1,"8,11,11,11|11,7,6,7",,OTHER,MS,910,Qualification,CHEN Chien-An (TPE),JIANG Tianyi (HKG)
-ITTF Asian Cup Yokohama 2018,2018-04-06,LIN Gaoyuan,JIANG Tianyi,3,0,"11,11,11|5,7,6",,OTHER,MS,910,Qualification,LIN Gaoyuan (CHN),JIANG Tianyi (HKG)
-ITTF Asian Cup Yokohama 2018,2018-04-06,LEE Sang Su,CHEN Chien-An,3,1,"15,14,11,14|17,12,6,12",,OTHER,MS,910,Qualification,LEE Sang Su (KOR),CHEN Chien-An (TPE)
-ITTF Asian Cup Yokohama 2018,2018-04-06,WONG Chun Ting,JEONG Sangeun,3,0,"11,11,11|9,6,2",,OTHER,MS,910,Qualification,WONG Chun Ting (HKG),JEONG Sangeun (KOR)
-ITTF Asian Cup Yokohama 2018,2018-04-06,NIWA Koki,ALAMIYAN Noshad,3,0,"13,11,13|11,6,11",,OTHER,MS,910,Qualification,NIWA Koki (JPN),ALAMIYAN Noshad (IRI)
-ITTF Asian Cup Yokohama 2018,2018-04-06,WONG Chun Ting,NIWA Koki,3,2,"11,11,5,11,11|8,13,11,5,6",,OTHER,MS,910,Qualification,WONG Chun Ting (HKG),NIWA Koki (JPN)
-ITTF Asian Cup Yokohama 2018,2018-04-06,JEONG Sangeun,ALAMIYAN Noshad,3,2,"12,8,11,6,13|10,11,4,11,11",,OTHER,MS,910,Qualification,JEONG Sangeun (KOR),ALAMIYAN Noshad (IRI)
-ITTF Asian Cup Yokohama 2018,2018-04-06,WONG Chun Ting,ALAMIYAN Noshad,3,1,"11,11,9,11|4,6,11,6",,OTHER,MS,910,Qualification,WONG Chun Ting (HKG),ALAMIYAN Noshad (IRI)
-ITTF Asian Cup Yokohama 2018,2018-04-06,NIWA Koki,JEONG Sangeun,3,2,"9,11,11,4,11|11,6,6,11,8",,OTHER,MS,910,Qualification,NIWA Koki (JPN),JEONG Sangeun (KOR)
-ITTF Asian Cup Yokohama 2018,2018-04-06,ALAMIAN Nima,THAKKAR Manav,3,2,"6,11,12,8,11|11,6,10,11,8",,OTHER,MS,910,Qualification,THAKKAR Manav (IND),ALAMIAN Nima (IRI)
-ITTF Asian Cup Yokohama 2018,2018-04-06,TANVIRIYAVECHAKUL Padasak,AL-ABBAD Abdulaziz,3,1,"4,16,11,11|11,14,3,7",,OTHER,MS,910,Qualification,TANVIRIYAVECHAKUL Padasak (THA),AL-ABBAD Abdulaziz (KSA)
-ITTF Asian Cup Yokohama 2018,2018-04-06,ALAMIAN Nima,TANVIRIYAVECHAKUL Padasak,3,0,"11,11,11|6,7,4",,OTHER,MS,910,Qualification,TANVIRIYAVECHAKUL Padasak (THA),ALAMIAN Nima (IRI)
-ITTF Asian Cup Yokohama 2018,2018-04-06,THAKKAR Manav,AL-ABBAD Abdulaziz,3,2,"11,11,3,3,11|9,8,11,11,7",,OTHER,MS,910,Qualification,THAKKAR Manav (IND),AL-ABBAD Abdulaziz (KSA)
-ITTF Asian Cup Yokohama 2018,2018-04-06,TANVIRIYAVECHAKUL Padasak,THAKKAR Manav,3,1,"11,14,9,11|8,12,11,6",,OTHER,MS,910,Qualification,TANVIRIYAVECHAKUL Padasak (THA),THAKKAR Manav (IND)
-ITTF Asian Cup Yokohama 2018,2018-04-06,ALAMIAN Nima,AL-ABBAD Abdulaziz,3,0,"11,11,11|3,3,8",,OTHER,MS,910,Qualification,ALAMIAN Nima (IRI),AL-ABBAD Abdulaziz (KSA)
-ITTF Asian Cup Yokohama 2018,2018-04-06,CHEN Meng,LEE Ho Ching,3,0,"11,11,11|1,7,5",,OTHER,WS,910,Qualification,CHEN Meng (CHN),LEE Ho Ching (HKG)
-ITTF Asian Cup Yokohama 2018,2018-04-06,CHENG I-Ching,SAWETTABUT Suthasini,3,1,"11,5,11,11|4,11,5,8",,OTHER,WS,910,Qualification,CHENG I-Ching (TPE),SAWETTABUT Suthasini (THA)
-ITTF Asian Cup Yokohama 2018,2018-04-06,CHEN Meng,CHENG I-Ching,3,0,"11,11,11|8,4,4",,OTHER,WS,910,Qualification,CHEN Meng (CHN),CHENG I-Ching (TPE)
-ITTF Asian Cup Yokohama 2018,2018-04-06,SAWETTABUT Suthasini,LEE Ho Ching,3,2,"11,10,11,13,11|6,12,13,11,8",,OTHER,WS,910,Qualification,LEE Ho Ching (HKG),SAWETTABUT Suthasini (THA)
-ITTF Asian Cup Yokohama 2018,2018-04-06,CHEN Meng,SAWETTABUT Suthasini,3,0,"11,11,11|1,4,6",,OTHER,WS,910,Qualification,CHEN Meng (CHN),SAWETTABUT Suthasini (THA)
-ITTF Asian Cup Yokohama 2018,2018-04-06,CHENG I-Ching,LEE Ho Ching,3,1,"11,14,12,11|8,16,10,7",,OTHER,WS,910,Qualification,CHENG I-Ching (TPE),LEE Ho Ching (HKG)
-ITTF Asian Cup Yokohama 2018,2018-04-06,ZHU Yuling,DOO Hoi Kem,3,2,"7,9,11,11,11|11,11,3,1,9",,OTHER,WS,910,Qualification,ZHU Yuling (MAC),DOO Hoi Kem (HKG)
-ITTF Asian Cup Yokohama 2018,2018-04-06,HIRANO Miu,YANG Ha Eun,3,1,"11,10,11,11|9,12,8,8",,OTHER,WS,910,Qualification,HIRANO Miu (JPN),YANG Ha Eun (KOR)
-ITTF Asian Cup Yokohama 2018,2018-04-06,ZHU Yuling,HIRANO Miu,3,0,"11,11,11|9,6,6",,OTHER,WS,910,Qualification,ZHU Yuling (MAC),HIRANO Miu (JPN)
-ITTF Asian Cup Yokohama 2018,2018-04-06,DOO Hoi Kem,YANG Ha Eun,3,1,"11,12,11,11|1,14,6,8",,OTHER,WS,910,Qualification,DOO Hoi Kem (HKG),YANG Ha Eun (KOR)
-ITTF Asian Cup Yokohama 2018,2018-04-06,ZHU Yuling,YANG Ha Eun,3,0,"11,11,11|6,6,7",,OTHER,WS,910,Qualification,ZHU Yuling (MAC),YANG Ha Eun (KOR)
-ITTF Asian Cup Yokohama 2018,2018-04-06,DOO Hoi Kem,HIRANO Miu,3,2,"6,11,9,12,13|11,8,11,10,11",,OTHER,WS,910,Qualification,HIRANO Miu (JPN),DOO Hoi Kem (HKG)
-ITTF Asian Cup Yokohama 2018,2018-04-06,ISHIKAWA Kasumi,CHEN Szu-Yu,3,0,"12,11,11|10,5,7",,OTHER,WS,910,Qualification,ISHIKAWA Kasumi (JPN),CHEN Szu-Yu (TPE)
-ITTF Asian Cup Yokohama 2018,2018-04-06,SUH Hyo Won,KOMWONG Nanthana,3,0,"11,11,11|5,8,4",,OTHER,WS,910,Qualification,SUH Hyo Won (KOR),KOMWONG Nanthana (THA)
-ITTF Asian Cup Yokohama 2018,2018-04-06,ISHIKAWA Kasumi,SUH Hyo Won,3,1,"11,11,6,11|9,3,11,4",,OTHER,WS,910,Qualification,ISHIKAWA Kasumi (JPN),SUH Hyo Won (KOR)
-ITTF Asian Cup Yokohama 2018,2018-04-06,CHEN Szu-Yu,KOMWONG Nanthana,3,1,"11,11,7,11|5,3,11,4",,OTHER,WS,910,Qualification,CHEN Szu-Yu (TPE),KOMWONG Nanthana (THA)
-ITTF Asian Cup Yokohama 2018,2018-04-06,ISHIKAWA Kasumi,KOMWONG Nanthana,3,0,"11,11,11|5,6,8",,OTHER,WS,910,Qualification,ISHIKAWA Kasumi (JPN),KOMWONG Nanthana (THA)
-ITTF Asian Cup Yokohama 2018,2018-04-06,SUH Hyo Won,CHEN Szu-Yu,3,2,"11,8,11,7,11|7,11,6,11,8",,OTHER,WS,910,Qualification,SUH Hyo Won (KOR),CHEN Szu-Yu (TPE)
-ITTF Asian Cup Yokohama 2018,2018-04-06,MUKHERJEE Ayhika,SHAHSAVARI Neda,3,0,"16,11,11|14,4,9",,OTHER,WS,910,Qualification,SHAHSAVARI Neda (IRI),MUKHERJEE Ayhika (IND)
-ITTF Asian Cup Yokohama 2018,2018-04-06,MUKHERJEE Ayhika,MAI Trang,3,0,"11,11,11|4,7,9",,OTHER,WS,910,Qualification,MAI Trang (VIE),MUKHERJEE Ayhika (IND)
-ITTF Asian Cup Yokohama 2018,2018-04-06,MAI Trang,SHAHSAVARI Neda,3,2,"11,11,12,9,11|3,3,14,11,4",,OTHER,WS,910,Qualification,MAI Trang (VIE),SHAHSAVARI Neda (IRI)
-ITTF Asian Cup Yokohama 2018,2018-04-06,JEONG Sangeun,CHEN Chien-An,3,1,"12,9,12,11|10,11,10,3",4,OTHER,MS,910,Main Draw - Stage 1,CHEN Chien-An (TPE),JEONG Sangeun (KOR)
-ITTF Asian Cup Yokohama 2018,2018-04-06,ALAMIAN Nima,CHUANG Chih-Yuan,3,1,"11,6,11,11|8,11,9,9",4,OTHER,MS,910,Main Draw - Stage 1,CHUANG Chih-Yuan (TPE),ALAMIAN Nima (IRI)
-ITTF Asian Cup Yokohama 2018,2018-04-06,HIRANO Miu,SAWETTABUT Suthasini,3,0,"12,11,11|10,7,5",4,OTHER,WS,910,Main Draw - Stage 1,SAWETTABUT Suthasini (THA),HIRANO Miu (JPN)
-ITTF Asian Cup Yokohama 2018,2018-04-06,CHEN Szu-Yu,MUKHERJEE Ayhika,3,1,"11,11,11,11|13,9,8,4",4,OTHER,WS,910,Main Draw - Stage 1,MUKHERJEE Ayhika (IND),CHEN Szu-Yu (TPE)
-ITTF Asian Cup Yokohama 2018,2018-04-06,JEONG Sangeun,HARIMOTO Tomokazu,4,1,"11,8,11,11,11|7,11,9,5,8",8,OTHER,MS,910,Main Draw - Stage 2,HARIMOTO Tomokazu (JPN),JEONG Sangeun (KOR)
-ITTF Asian Cup Yokohama 2018,2018-04-06,LIN Gaoyuan,WONG Chun Ting,4,1,"11,11,11,9,11|6,9,5,11,6",8,OTHER,MS,910,Main Draw - Stage 2,LIN Gaoyuan (CHN),WONG Chun Ting (HKG)
-ITTF Asian Cup Yokohama 2018,2018-04-06,FAN Zhendong,NIWA Koki,4,1,"9,11,11,12,11|11,4,3,10,6",8,OTHER,MS,910,Main Draw - Stage 2,NIWA Koki (JPN),FAN Zhendong (CHN)
-ITTF Asian Cup Yokohama 2018,2018-04-06,LEE Sang Su,ALAMIAN Nima,4,1,"9,11,11,11,11|11,9,4,4,7",8,OTHER,MS,910,Main Draw - Stage 2,ALAMIAN Nima (IRI),LEE Sang Su (KOR)
-ITTF Asian Cup Yokohama 2018,2018-04-06,LIN Gaoyuan,JEONG Sangeun,4,0,"11,11,11,16|9,8,8,14",4,OTHER,MS,910,Main Draw - Stage 2,JEONG Sangeun (KOR),LIN Gaoyuan (CHN)
-ITTF Asian Cup Yokohama 2018,2018-04-06,FAN Zhendong,LEE Sang Su,4,1,"11,11,9,11,11|4,5,11,9,4",4,OTHER,MS,910,Main Draw - Stage 2,FAN Zhendong (CHN),LEE Sang Su (KOR)
-ITTF Asian Cup Yokohama 2018,2018-04-06,FAN Zhendong,LIN Gaoyuan,4,0,"11,15,11,13|3,13,8,11",2,OTHER,MS,910,Main Draw - Stage 2,LIN Gaoyuan (CHN),FAN Zhendong (CHN)
-ITTF Asian Cup Yokohama 2018,2018-04-06,LEE Sang Su,JEONG Sangeun,4,1,"11,11,7,11,11|4,9,11,7,9",2,OTHER,MS,910,Main Draw - Stage 2 (Bronze Match),JEONG Sangeun (KOR),LEE Sang Su (KOR)
-ITTF Asian Cup Yokohama 2018,2018-04-06,HARIMOTO Tomokazu,WONG Chun Ting,4,0,"11,11,11,11|8,4,9,6",4,OTHER,MS,910,Main Draw - Stage 2 (5-8th place),HARIMOTO Tomokazu (JPN),WONG Chun Ting (HKG)
-ITTF Asian Cup Yokohama 2018,2018-04-06,NIWA Koki,ALAMIAN Nima,4,0,"11,11,14,11|9,8,12,9",4,OTHER,MS,910,Main Draw - Stage 2 (5-8th place),NIWA Koki (JPN),ALAMIAN Nima (IRI)
-ITTF Asian Cup Yokohama 2018,2018-04-06,WONG Chun Ting,ALAMIAN Nima,4,3,"11,11,9,6,11,11,11|7,13,11,11,5,2,8",2,OTHER,MS,910,Main Draw - Stage 2 (7th place),WONG Chun Ting (HKG),ALAMIAN Nima (IRI)
-ITTF Asian Cup Yokohama 2018,2018-04-06,HARIMOTO Tomokazu,NIWA Koki,4,3,"11,10,11,11,10,6,12|9,12,6,5,12,11,10",2,OTHER,MS,910,Main Draw - Stage 2 (5th place),HARIMOTO Tomokazu (JPN),NIWA Koki (JPN)
-ITTF Asian Cup Yokohama 2018,2018-04-06,CHEN Meng,CHEN Szu-Yu,4,2,"11,10,11,11,9,11|8,12,2,6,11,3",8,OTHER,WS,910,Main Draw - Stage 2,CHEN Meng (CHN),CHEN Szu-Yu (TPE)
-ITTF Asian Cup Yokohama 2018,2018-04-06,ISHIKAWA Kasumi,DOO Hoi Kem,4,0,"11,13,11,11|6,11,7,4",8,OTHER,WS,910,Main Draw - Stage 2,DOO Hoi Kem (HKG),ISHIKAWA Kasumi (JPN)
-ITTF Asian Cup Yokohama 2018,2018-04-06,CHENG I-Ching,SUH Hyo Won,4,2,"11,12,11,4,13,11|6,10,2,11,15,6",8,OTHER,WS,910,Main Draw - Stage 2,SUH Hyo Won (KOR),CHENG I-Ching (TPE)
-ITTF Asian Cup Yokohama 2018,2018-04-06,CHEN Meng,ISHIKAWA Kasumi,4,1,"11,11,10,11,11|7,9,12,5,9",4,OTHER,WS,910,Main Draw - Stage 2,CHEN Meng (CHN),ISHIKAWA Kasumi (JPN)
-ITTF Asian Cup Yokohama 2018,2018-04-06,ZHU Yuling,CHENG I-Ching,4,1,"11,11,11,5,11|8,6,7,11,6",4,OTHER,WS,910,Main Draw - Stage 2,CHENG I-Ching (TPE),ZHU Yuling (MAC)
-ITTF Asian Cup Yokohama 2018,2018-04-06,ZHU Yuling,CHEN Meng,4,1,"12,12,10,11,11|10,10,12,3,4",2,OTHER,WS,910,Main Draw - Stage 2,CHEN Meng (CHN),ZHU Yuling (MAC)
-ITTF Asian Cup Yokohama 2018,2018-04-06,ISHIKAWA Kasumi,CHENG I-Ching,4,3,"11,7,11,9,11,7,11|9,11,4,11,8,11,7",2,OTHER,WS,910,Main Draw - Stage 2 (Bronze Match),ISHIKAWA Kasumi (JPN),CHENG I-Ching (TPE)
-ITTF Asian Cup Yokohama 2018,2018-04-06,DOO Hoi Kem,CHEN Szu-Yu,4,1,"6,11,11,11,11|11,8,4,6,5",4,OTHER,WS,910,Main Draw - Stage 2 (5-8th place),CHEN Szu-Yu (TPE),DOO Hoi Kem (HKG)
-ITTF Asian Cup Yokohama 2018,2018-04-06,HIRANO Miu,SUH Hyo Won,4,2,"12,11,15,3,10,11|10,6,13,11,12,3",4,OTHER,WS,910,Main Draw - Stage 2 (5-8th place),SUH Hyo Won (KOR),HIRANO Miu (JPN)
-ITTF Asian Cup Yokohama 2018,2018-04-06,CHEN Szu-Yu,SUH Hyo Won,4,2,"11,11,7,4,12,12|5,6,11,11,10,10",2,OTHER,WS,910,Main Draw - Stage 2 (7th place),CHEN Szu-Yu (TPE),SUH Hyo Won (KOR)
-ITTF Asian Cup Yokohama 2018,2018-04-06,HIRANO Miu,DOO Hoi Kem,4,2,"9,11,11,8,12,11|11,4,6,11,10,9",2,OTHER,WS,910,Main Draw - Stage 2 (5th place),DOO Hoi Kem (HKG),HIRANO Miu (JPN)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+ITTF Asian Cup Yokohama 2018,2018-04-06,FAN Zhendong,CHUANG Chih-Yuan,3,0,"11,11,11|4,4,6",,OTHER,MS,910,Qualification,FAN Zhendong (CHN),CHUANG Chih-Yuan (TPE),FAN Zhendong
+ITTF Asian Cup Yokohama 2018,2018-04-06,HARIMOTO Tomokazu,GERASSIMENKO Kirill,3,1,"11,8,11,11|9,11,8,8",,OTHER,MS,910,Qualification,HARIMOTO Tomokazu (JPN),GERASSIMENKO Kirill (KAZ),HARIMOTO Tomokazu
+ITTF Asian Cup Yokohama 2018,2018-04-06,HARIMOTO Tomokazu,FAN Zhendong,3,1,"11,8,11,11|8,11,9,8",,OTHER,MS,910,Qualification,FAN Zhendong (CHN),HARIMOTO Tomokazu (JPN),HARIMOTO Tomokazu
+ITTF Asian Cup Yokohama 2018,2018-04-06,CHUANG Chih-Yuan,GERASSIMENKO Kirill,3,2,"7,11,11,10,11|11,5,8,12,3",,OTHER,MS,910,Qualification,CHUANG Chih-Yuan (TPE),GERASSIMENKO Kirill (KAZ),CHUANG Chih-Yuan
+ITTF Asian Cup Yokohama 2018,2018-04-06,FAN Zhendong,GERASSIMENKO Kirill,3,0,"11,11,11|8,4,8",,OTHER,MS,910,Qualification,FAN Zhendong (CHN),GERASSIMENKO Kirill (KAZ),FAN Zhendong
+ITTF Asian Cup Yokohama 2018,2018-04-06,HARIMOTO Tomokazu,CHUANG Chih-Yuan,3,1,"10,11,11,11|12,5,6,5",,OTHER,MS,910,Qualification,HARIMOTO Tomokazu (JPN),CHUANG Chih-Yuan (TPE),HARIMOTO Tomokazu
+ITTF Asian Cup Yokohama 2018,2018-04-06,LIN Gaoyuan,CHEN Chien-An,3,0,"11,11,11|8,3,6",,OTHER,MS,910,Qualification,LIN Gaoyuan (CHN),CHEN Chien-An (TPE),LIN Gaoyuan
+ITTF Asian Cup Yokohama 2018,2018-04-06,LEE Sang Su,JIANG Tianyi,3,1,"11,13,7,11|8,11,11,7",,OTHER,MS,910,Qualification,LEE Sang Su (KOR),JIANG Tianyi (HKG),LEE Sang Su
+ITTF Asian Cup Yokohama 2018,2018-04-06,LEE Sang Su,LIN Gaoyuan,3,0,"11,11,11|8,5,5",,OTHER,MS,910,Qualification,LIN Gaoyuan (CHN),LEE Sang Su (KOR),LEE Sang Su
+ITTF Asian Cup Yokohama 2018,2018-04-06,CHEN Chien-An,JIANG Tianyi,3,1,"8,11,11,11|11,7,6,7",,OTHER,MS,910,Qualification,CHEN Chien-An (TPE),JIANG Tianyi (HKG),CHEN Chien-An
+ITTF Asian Cup Yokohama 2018,2018-04-06,LIN Gaoyuan,JIANG Tianyi,3,0,"11,11,11|5,7,6",,OTHER,MS,910,Qualification,LIN Gaoyuan (CHN),JIANG Tianyi (HKG),LIN Gaoyuan
+ITTF Asian Cup Yokohama 2018,2018-04-06,LEE Sang Su,CHEN Chien-An,3,1,"15,14,11,14|17,12,6,12",,OTHER,MS,910,Qualification,LEE Sang Su (KOR),CHEN Chien-An (TPE),LEE Sang Su
+ITTF Asian Cup Yokohama 2018,2018-04-06,WONG Chun Ting,JEONG Sangeun,3,0,"11,11,11|9,6,2",,OTHER,MS,910,Qualification,WONG Chun Ting (HKG),JEONG Sangeun (KOR),WONG Chun Ting
+ITTF Asian Cup Yokohama 2018,2018-04-06,NIWA Koki,ALAMIYAN Noshad,3,0,"13,11,13|11,6,11",,OTHER,MS,910,Qualification,NIWA Koki (JPN),ALAMIYAN Noshad (IRI),NIWA Koki
+ITTF Asian Cup Yokohama 2018,2018-04-06,WONG Chun Ting,NIWA Koki,3,2,"11,11,5,11,11|8,13,11,5,6",,OTHER,MS,910,Qualification,WONG Chun Ting (HKG),NIWA Koki (JPN),WONG Chun Ting
+ITTF Asian Cup Yokohama 2018,2018-04-06,JEONG Sangeun,ALAMIYAN Noshad,3,2,"12,8,11,6,13|10,11,4,11,11",,OTHER,MS,910,Qualification,JEONG Sangeun (KOR),ALAMIYAN Noshad (IRI),JEONG Sangeun
+ITTF Asian Cup Yokohama 2018,2018-04-06,WONG Chun Ting,ALAMIYAN Noshad,3,1,"11,11,9,11|4,6,11,6",,OTHER,MS,910,Qualification,WONG Chun Ting (HKG),ALAMIYAN Noshad (IRI),WONG Chun Ting
+ITTF Asian Cup Yokohama 2018,2018-04-06,NIWA Koki,JEONG Sangeun,3,2,"9,11,11,4,11|11,6,6,11,8",,OTHER,MS,910,Qualification,NIWA Koki (JPN),JEONG Sangeun (KOR),NIWA Koki
+ITTF Asian Cup Yokohama 2018,2018-04-06,ALAMIAN Nima,THAKKAR Manav,3,2,"6,11,12,8,11|11,6,10,11,8",,OTHER,MS,910,Qualification,THAKKAR Manav (IND),ALAMIAN Nima (IRI),ALAMIAN Nima
+ITTF Asian Cup Yokohama 2018,2018-04-06,TANVIRIYAVECHAKUL Padasak,AL-ABBAD Abdulaziz,3,1,"4,16,11,11|11,14,3,7",,OTHER,MS,910,Qualification,TANVIRIYAVECHAKUL Padasak (THA),AL-ABBAD Abdulaziz (KSA),TANVIRIYAVECHAKUL Padasak
+ITTF Asian Cup Yokohama 2018,2018-04-06,ALAMIAN Nima,TANVIRIYAVECHAKUL Padasak,3,0,"11,11,11|6,7,4",,OTHER,MS,910,Qualification,TANVIRIYAVECHAKUL Padasak (THA),ALAMIAN Nima (IRI),ALAMIAN Nima
+ITTF Asian Cup Yokohama 2018,2018-04-06,THAKKAR Manav,AL-ABBAD Abdulaziz,3,2,"11,11,3,3,11|9,8,11,11,7",,OTHER,MS,910,Qualification,THAKKAR Manav (IND),AL-ABBAD Abdulaziz (KSA),THAKKAR Manav
+ITTF Asian Cup Yokohama 2018,2018-04-06,TANVIRIYAVECHAKUL Padasak,THAKKAR Manav,3,1,"11,14,9,11|8,12,11,6",,OTHER,MS,910,Qualification,TANVIRIYAVECHAKUL Padasak (THA),THAKKAR Manav (IND),TANVIRIYAVECHAKUL Padasak
+ITTF Asian Cup Yokohama 2018,2018-04-06,ALAMIAN Nima,AL-ABBAD Abdulaziz,3,0,"11,11,11|3,3,8",,OTHER,MS,910,Qualification,ALAMIAN Nima (IRI),AL-ABBAD Abdulaziz (KSA),ALAMIAN Nima
+ITTF Asian Cup Yokohama 2018,2018-04-06,CHEN Meng,LEE Ho Ching,3,0,"11,11,11|1,7,5",,OTHER,WS,910,Qualification,CHEN Meng (CHN),LEE Ho Ching (HKG),CHEN Meng
+ITTF Asian Cup Yokohama 2018,2018-04-06,CHENG I-Ching,SAWETTABUT Suthasini,3,1,"11,5,11,11|4,11,5,8",,OTHER,WS,910,Qualification,CHENG I-Ching (TPE),SAWETTABUT Suthasini (THA),CHENG I-Ching
+ITTF Asian Cup Yokohama 2018,2018-04-06,CHEN Meng,CHENG I-Ching,3,0,"11,11,11|8,4,4",,OTHER,WS,910,Qualification,CHEN Meng (CHN),CHENG I-Ching (TPE),CHEN Meng
+ITTF Asian Cup Yokohama 2018,2018-04-06,SAWETTABUT Suthasini,LEE Ho Ching,3,2,"11,10,11,13,11|6,12,13,11,8",,OTHER,WS,910,Qualification,LEE Ho Ching (HKG),SAWETTABUT Suthasini (THA),SAWETTABUT Suthasini
+ITTF Asian Cup Yokohama 2018,2018-04-06,CHEN Meng,SAWETTABUT Suthasini,3,0,"11,11,11|1,4,6",,OTHER,WS,910,Qualification,CHEN Meng (CHN),SAWETTABUT Suthasini (THA),CHEN Meng
+ITTF Asian Cup Yokohama 2018,2018-04-06,CHENG I-Ching,LEE Ho Ching,3,1,"11,14,12,11|8,16,10,7",,OTHER,WS,910,Qualification,CHENG I-Ching (TPE),LEE Ho Ching (HKG),CHENG I-Ching
+ITTF Asian Cup Yokohama 2018,2018-04-06,ZHU Yuling,DOO Hoi Kem,3,2,"7,9,11,11,11|11,11,3,1,9",,OTHER,WS,910,Qualification,ZHU Yuling (MAC),DOO Hoi Kem (HKG),ZHU Yuling
+ITTF Asian Cup Yokohama 2018,2018-04-06,HIRANO Miu,YANG Ha Eun,3,1,"11,10,11,11|9,12,8,8",,OTHER,WS,910,Qualification,HIRANO Miu (JPN),YANG Ha Eun (KOR),HIRANO Miu
+ITTF Asian Cup Yokohama 2018,2018-04-06,ZHU Yuling,HIRANO Miu,3,0,"11,11,11|9,6,6",,OTHER,WS,910,Qualification,ZHU Yuling (MAC),HIRANO Miu (JPN),ZHU Yuling
+ITTF Asian Cup Yokohama 2018,2018-04-06,DOO Hoi Kem,YANG Ha Eun,3,1,"11,12,11,11|1,14,6,8",,OTHER,WS,910,Qualification,DOO Hoi Kem (HKG),YANG Ha Eun (KOR),DOO Hoi Kem
+ITTF Asian Cup Yokohama 2018,2018-04-06,ZHU Yuling,YANG Ha Eun,3,0,"11,11,11|6,6,7",,OTHER,WS,910,Qualification,ZHU Yuling (MAC),YANG Ha Eun (KOR),ZHU Yuling
+ITTF Asian Cup Yokohama 2018,2018-04-06,DOO Hoi Kem,HIRANO Miu,3,2,"6,11,9,12,13|11,8,11,10,11",,OTHER,WS,910,Qualification,HIRANO Miu (JPN),DOO Hoi Kem (HKG),DOO Hoi Kem
+ITTF Asian Cup Yokohama 2018,2018-04-06,ISHIKAWA Kasumi,CHEN Szu-Yu,3,0,"12,11,11|10,5,7",,OTHER,WS,910,Qualification,ISHIKAWA Kasumi (JPN),CHEN Szu-Yu (TPE),ISHIKAWA Kasumi
+ITTF Asian Cup Yokohama 2018,2018-04-06,SUH Hyo Won,KOMWONG Nanthana,3,0,"11,11,11|5,8,4",,OTHER,WS,910,Qualification,SUH Hyo Won (KOR),KOMWONG Nanthana (THA),SUH Hyo Won
+ITTF Asian Cup Yokohama 2018,2018-04-06,ISHIKAWA Kasumi,SUH Hyo Won,3,1,"11,11,6,11|9,3,11,4",,OTHER,WS,910,Qualification,ISHIKAWA Kasumi (JPN),SUH Hyo Won (KOR),ISHIKAWA Kasumi
+ITTF Asian Cup Yokohama 2018,2018-04-06,CHEN Szu-Yu,KOMWONG Nanthana,3,1,"11,11,7,11|5,3,11,4",,OTHER,WS,910,Qualification,CHEN Szu-Yu (TPE),KOMWONG Nanthana (THA),CHEN Szu-Yu
+ITTF Asian Cup Yokohama 2018,2018-04-06,ISHIKAWA Kasumi,KOMWONG Nanthana,3,0,"11,11,11|5,6,8",,OTHER,WS,910,Qualification,ISHIKAWA Kasumi (JPN),KOMWONG Nanthana (THA),ISHIKAWA Kasumi
+ITTF Asian Cup Yokohama 2018,2018-04-06,SUH Hyo Won,CHEN Szu-Yu,3,2,"11,8,11,7,11|7,11,6,11,8",,OTHER,WS,910,Qualification,SUH Hyo Won (KOR),CHEN Szu-Yu (TPE),SUH Hyo Won
+ITTF Asian Cup Yokohama 2018,2018-04-06,MUKHERJEE Ayhika,SHAHSAVARI Neda,3,0,"16,11,11|14,4,9",,OTHER,WS,910,Qualification,SHAHSAVARI Neda (IRI),MUKHERJEE Ayhika (IND),MUKHERJEE Ayhika
+ITTF Asian Cup Yokohama 2018,2018-04-06,MUKHERJEE Ayhika,MAI Trang,3,0,"11,11,11|4,7,9",,OTHER,WS,910,Qualification,MAI Trang (VIE),MUKHERJEE Ayhika (IND),MUKHERJEE Ayhika
+ITTF Asian Cup Yokohama 2018,2018-04-06,MAI Trang,SHAHSAVARI Neda,3,2,"11,11,12,9,11|3,3,14,11,4",,OTHER,WS,910,Qualification,MAI Trang (VIE),SHAHSAVARI Neda (IRI),MAI Trang
+ITTF Asian Cup Yokohama 2018,2018-04-06,JEONG Sangeun,CHEN Chien-An,3,1,"12,9,12,11|10,11,10,3",4,OTHER,MS,910,Main Draw - Stage 1,CHEN Chien-An (TPE),JEONG Sangeun (KOR),JEONG Sangeun
+ITTF Asian Cup Yokohama 2018,2018-04-06,ALAMIAN Nima,CHUANG Chih-Yuan,3,1,"11,6,11,11|8,11,9,9",4,OTHER,MS,910,Main Draw - Stage 1,CHUANG Chih-Yuan (TPE),ALAMIAN Nima (IRI),ALAMIAN Nima
+ITTF Asian Cup Yokohama 2018,2018-04-06,HIRANO Miu,SAWETTABUT Suthasini,3,0,"12,11,11|10,7,5",4,OTHER,WS,910,Main Draw - Stage 1,SAWETTABUT Suthasini (THA),HIRANO Miu (JPN),HIRANO Miu
+ITTF Asian Cup Yokohama 2018,2018-04-06,CHEN Szu-Yu,MUKHERJEE Ayhika,3,1,"11,11,11,11|13,9,8,4",4,OTHER,WS,910,Main Draw - Stage 1,MUKHERJEE Ayhika (IND),CHEN Szu-Yu (TPE),CHEN Szu-Yu
+ITTF Asian Cup Yokohama 2018,2018-04-06,JEONG Sangeun,HARIMOTO Tomokazu,4,1,"11,8,11,11,11|7,11,9,5,8",8,OTHER,MS,910,Main Draw - Stage 2,HARIMOTO Tomokazu (JPN),JEONG Sangeun (KOR),JEONG Sangeun
+ITTF Asian Cup Yokohama 2018,2018-04-06,LIN Gaoyuan,WONG Chun Ting,4,1,"11,11,11,9,11|6,9,5,11,6",8,OTHER,MS,910,Main Draw - Stage 2,LIN Gaoyuan (CHN),WONG Chun Ting (HKG),LIN Gaoyuan
+ITTF Asian Cup Yokohama 2018,2018-04-06,FAN Zhendong,NIWA Koki,4,1,"9,11,11,12,11|11,4,3,10,6",8,OTHER,MS,910,Main Draw - Stage 2,NIWA Koki (JPN),FAN Zhendong (CHN),FAN Zhendong
+ITTF Asian Cup Yokohama 2018,2018-04-06,LEE Sang Su,ALAMIAN Nima,4,1,"9,11,11,11,11|11,9,4,4,7",8,OTHER,MS,910,Main Draw - Stage 2,ALAMIAN Nima (IRI),LEE Sang Su (KOR),LEE Sang Su
+ITTF Asian Cup Yokohama 2018,2018-04-06,LIN Gaoyuan,JEONG Sangeun,4,0,"11,11,11,16|9,8,8,14",4,OTHER,MS,910,Main Draw - Stage 2,JEONG Sangeun (KOR),LIN Gaoyuan (CHN),LIN Gaoyuan
+ITTF Asian Cup Yokohama 2018,2018-04-06,FAN Zhendong,LEE Sang Su,4,1,"11,11,9,11,11|4,5,11,9,4",4,OTHER,MS,910,Main Draw - Stage 2,FAN Zhendong (CHN),LEE Sang Su (KOR),FAN Zhendong
+ITTF Asian Cup Yokohama 2018,2018-04-06,FAN Zhendong,LIN Gaoyuan,4,0,"11,15,11,13|3,13,8,11",2,OTHER,MS,910,Main Draw - Stage 2,LIN Gaoyuan (CHN),FAN Zhendong (CHN),FAN Zhendong
+ITTF Asian Cup Yokohama 2018,2018-04-06,LEE Sang Su,JEONG Sangeun,4,1,"11,11,7,11,11|4,9,11,7,9",2,OTHER,MS,910,Main Draw - Stage 2 (Bronze Match),JEONG Sangeun (KOR),LEE Sang Su (KOR),LEE Sang Su
+ITTF Asian Cup Yokohama 2018,2018-04-06,HARIMOTO Tomokazu,WONG Chun Ting,4,0,"11,11,11,11|8,4,9,6",4,OTHER,MS,910,Main Draw - Stage 2 (5-8th place),HARIMOTO Tomokazu (JPN),WONG Chun Ting (HKG),HARIMOTO Tomokazu
+ITTF Asian Cup Yokohama 2018,2018-04-06,NIWA Koki,ALAMIAN Nima,4,0,"11,11,14,11|9,8,12,9",4,OTHER,MS,910,Main Draw - Stage 2 (5-8th place),NIWA Koki (JPN),ALAMIAN Nima (IRI),NIWA Koki
+ITTF Asian Cup Yokohama 2018,2018-04-06,WONG Chun Ting,ALAMIAN Nima,4,3,"11,11,9,6,11,11,11|7,13,11,11,5,2,8",2,OTHER,MS,910,Main Draw - Stage 2 (7th place),WONG Chun Ting (HKG),ALAMIAN Nima (IRI),WONG Chun Ting
+ITTF Asian Cup Yokohama 2018,2018-04-06,HARIMOTO Tomokazu,NIWA Koki,4,3,"11,10,11,11,10,6,12|9,12,6,5,12,11,10",2,OTHER,MS,910,Main Draw - Stage 2 (5th place),HARIMOTO Tomokazu (JPN),NIWA Koki (JPN),HARIMOTO Tomokazu
+ITTF Asian Cup Yokohama 2018,2018-04-06,CHEN Meng,CHEN Szu-Yu,4,2,"11,10,11,11,9,11|8,12,2,6,11,3",8,OTHER,WS,910,Main Draw - Stage 2,CHEN Meng (CHN),CHEN Szu-Yu (TPE),CHEN Meng
+ITTF Asian Cup Yokohama 2018,2018-04-06,ISHIKAWA Kasumi,DOO Hoi Kem,4,0,"11,13,11,11|6,11,7,4",8,OTHER,WS,910,Main Draw - Stage 2,DOO Hoi Kem (HKG),ISHIKAWA Kasumi (JPN),ISHIKAWA Kasumi
+ITTF Asian Cup Yokohama 2018,2018-04-06,CHENG I-Ching,SUH Hyo Won,4,2,"11,12,11,4,13,11|6,10,2,11,15,6",8,OTHER,WS,910,Main Draw - Stage 2,SUH Hyo Won (KOR),CHENG I-Ching (TPE),CHENG I-Ching
+ITTF Asian Cup Yokohama 2018,2018-04-06,CHEN Meng,ISHIKAWA Kasumi,4,1,"11,11,10,11,11|7,9,12,5,9",4,OTHER,WS,910,Main Draw - Stage 2,CHEN Meng (CHN),ISHIKAWA Kasumi (JPN),CHEN Meng
+ITTF Asian Cup Yokohama 2018,2018-04-06,ZHU Yuling,CHENG I-Ching,4,1,"11,11,11,5,11|8,6,7,11,6",4,OTHER,WS,910,Main Draw - Stage 2,CHENG I-Ching (TPE),ZHU Yuling (MAC),ZHU Yuling
+ITTF Asian Cup Yokohama 2018,2018-04-06,ZHU Yuling,CHEN Meng,4,1,"12,12,10,11,11|10,10,12,3,4",2,OTHER,WS,910,Main Draw - Stage 2,CHEN Meng (CHN),ZHU Yuling (MAC),ZHU Yuling
+ITTF Asian Cup Yokohama 2018,2018-04-06,ISHIKAWA Kasumi,CHENG I-Ching,4,3,"11,7,11,9,11,7,11|9,11,4,11,8,11,7",2,OTHER,WS,910,Main Draw - Stage 2 (Bronze Match),ISHIKAWA Kasumi (JPN),CHENG I-Ching (TPE),ISHIKAWA Kasumi
+ITTF Asian Cup Yokohama 2018,2018-04-06,DOO Hoi Kem,CHEN Szu-Yu,4,1,"6,11,11,11,11|11,8,4,6,5",4,OTHER,WS,910,Main Draw - Stage 2 (5-8th place),CHEN Szu-Yu (TPE),DOO Hoi Kem (HKG),DOO Hoi Kem
+ITTF Asian Cup Yokohama 2018,2018-04-06,HIRANO Miu,SUH Hyo Won,4,2,"12,11,15,3,10,11|10,6,13,11,12,3",4,OTHER,WS,910,Main Draw - Stage 2 (5-8th place),SUH Hyo Won (KOR),HIRANO Miu (JPN),HIRANO Miu
+ITTF Asian Cup Yokohama 2018,2018-04-06,CHEN Szu-Yu,SUH Hyo Won,4,2,"11,11,7,4,12,12|5,6,11,11,10,10",2,OTHER,WS,910,Main Draw - Stage 2 (7th place),CHEN Szu-Yu (TPE),SUH Hyo Won (KOR),CHEN Szu-Yu
+ITTF Asian Cup Yokohama 2018,2018-04-06,HIRANO Miu,DOO Hoi Kem,4,2,"9,11,11,8,12,11|11,4,6,11,10,9",2,OTHER,WS,910,Main Draw - Stage 2 (5th place),DOO Hoi Kem (HKG),HIRANO Miu (JPN),HIRANO Miu

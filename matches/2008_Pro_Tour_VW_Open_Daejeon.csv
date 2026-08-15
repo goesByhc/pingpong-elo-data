@@ -1,343 +1,343 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Pro Tour VW Open Daejeon 2008,2008-05-29,XU Hui,GUO Yi Teng,4,0,"11,11,11,11|4,3,9,4",,GRAND_SLAM,MS,804,Qualification,XU Hui (CHN),GUO Yi Teng (SGP)
-Pro Tour VW Open Daejeon 2008,2008-05-29,XU Hui,RUMGAY Gavin,4,1,"11,11,11,8,11|6,5,5,11,7",,GRAND_SLAM,MS,804,Qualification,XU Hui (CHN),RUMGAY Gavin (SCO)
-Pro Tour VW Open Daejeon 2008,2008-05-29,RUMGAY Gavin,GUO Yi Teng,4,0,"11,11,11,11|9,9,3,5",,GRAND_SLAM,MS,804,Qualification,RUMGAY Gavin (SCO),GUO Yi Teng (SGP)
-Pro Tour VW Open Daejeon 2008,2008-05-29,FEJER-KONNERTH Zoltan,JIANG Pengfei,4,2,"10,11,9,12,11,11|12,6,11,10,6,3",,GRAND_SLAM,MS,804,Qualification,FEJER-KONNERTH Zoltan (GER),JIANG Pengfei (TUR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,FEJER-KONNERTH Zoltan,CHEN Chien-An,4,1,"11,11,11,9,11|5,9,8,11,9",,GRAND_SLAM,MS,804,Qualification,FEJER-KONNERTH Zoltan (GER),CHEN Chien-An (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,JIANG Pengfei,CHEN Chien-An,4,1,"11,13,11,9,11|8,11,4,11,7",,GRAND_SLAM,MS,804,Qualification,JIANG Pengfei (TUR),CHEN Chien-An (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,FEGERL Stefan,CHANG Yen-Shu,4,2,"11,13,11,11,8,11|4,15,5,7,11,8",,GRAND_SLAM,MS,804,Qualification,FEGERL Stefan (AUT),CHANG Yen-Shu (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,CHANG Yen-Shu,AL-HASAN Ibrahem,4,3,"9,11,8,11,13,8,11|11,4,11,5,11,11,5",,GRAND_SLAM,MS,804,Qualification,CHANG Yen-Shu (TPE),AL-HASAN Ibrahem (KUW)
-Pro Tour VW Open Daejeon 2008,2008-05-29,FEGERL Stefan,AL-HASAN Ibrahem,4,3,"8,11,9,11,4,11,11|11,3,11,9,11,8,7",,GRAND_SLAM,MS,804,Qualification,FEGERL Stefan (AUT),AL-HASAN Ibrahem (KUW)
-Pro Tour VW Open Daejeon 2008,2008-05-29,HIELSCHER Lars,GOLOVANOV Stanislav,4,2,"11,11,9,9,13,12|2,4,11,11,11,10",,GRAND_SLAM,MS,804,Qualification,HIELSCHER Lars (GER),GOLOVANOV Stanislav (BUL)
-Pro Tour VW Open Daejeon 2008,2008-05-29,HIELSCHER Lars,FENG Xiaoquan,4,0,"11,11,11,11|7,1,0,0",,GRAND_SLAM,MS,804,Qualification,HIELSCHER Lars (GER),FENG Xiaoquan (AUT)
-Pro Tour VW Open Daejeon 2008,2008-05-29,GOLOVANOV Stanislav,FENG Xiaoquan,4,0,,,GRAND_SLAM,MS,804,Qualification,GOLOVANOV Stanislav (BUL),FENG Xiaoquan (AUT)
-Pro Tour VW Open Daejeon 2008,2008-05-29,CHIANG Hung-Chieh,JEOUNG Youngsik,4,2,"11,4,11,7,11,11|7,11,4,11,9,6",,GRAND_SLAM,MS,804,Qualification,CHIANG Hung-Chieh (TPE),JEOUNG Youngsik (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,CHIANG Hung-Chieh,SHIMOYAMA Takanori,4,1,"7,11,11,11,12|11,9,6,6,10",,GRAND_SLAM,MS,804,Qualification,CHIANG Hung-Chieh (TPE),SHIMOYAMA Takanori (JPN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,SHIMOYAMA Takanori,JEOUNG Youngsik,4,2,"11,11,2,11,5,11|8,6,11,7,11,3",,GRAND_SLAM,MS,804,Qualification,SHIMOYAMA Takanori (JPN),JEOUNG Youngsik (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,TSE Ka Chun,APOLONIA Tiago,4,2,"11,11,3,6,12,11|9,9,11,11,10,9",,GRAND_SLAM,MS,804,Qualification,TSE Ka Chun (HKG),APOLONIA Tiago (POR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,KO Junhyung,APOLONIA Tiago,4,3,"2,13,11,11,5,9,11|11,11,9,3,11,11,8",,GRAND_SLAM,MS,804,Qualification,KO Junhyung (KOR),APOLONIA Tiago (POR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,KO Junhyung,TSE Ka Chun,4,2,"11,11,13,4,5,11|9,7,11,11,11,9",,GRAND_SLAM,MS,804,Qualification,KO Junhyung (KOR),TSE Ka Chun (HKG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,UEDA Jin,LEE Jinkwon,4,1,"11,11,6,11,12|4,6,11,9,10",,GRAND_SLAM,MS,804,Qualification,UEDA Jin (JPN),LEE Jinkwon (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LEE Jinkwon,HUANG Sheng-Sheng,4,1,"12,7,11,11,11|10,11,8,9,5",,GRAND_SLAM,MS,804,Qualification,LEE Jinkwon (KOR),HUANG Sheng-Sheng (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,HUANG Sheng-Sheng,UEDA Jin,4,0,"11,11,11,12|8,6,9,10",,GRAND_SLAM,MS,804,Qualification,HUANG Sheng-Sheng (TPE),UEDA Jin (JPN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,GACINA Andrej,MENGE Gencay,4,0,"11,12,11,11|5,10,3,6",,GRAND_SLAM,MS,804,Qualification,GACINA Andrej (CRO),MENGE Gencay (TUR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,DRINKHALL Paul,GACINA Andrej,4,3,"13,7,16,11,3,8,11|11,11,14,7,11,11,7",,GRAND_SLAM,MS,804,Qualification,DRINKHALL Paul (ENG),GACINA Andrej (CRO)
-Pro Tour VW Open Daejeon 2008,2008-05-29,DRINKHALL Paul,MENGE Gencay,4,1,"10,11,11,11,11|12,8,3,2,9",,GRAND_SLAM,MS,804,Qualification,DRINKHALL Paul (ENG),MENGE Gencay (TUR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,BOBOCICA Mihai,REED Daniel,4,1,"11,9,11,11,12|6,11,6,8,10",,GRAND_SLAM,MS,804,Qualification,BOBOCICA Mihai (ITA),REED Daniel (ENG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,BOBOCICA Mihai,PERSSON Jon,4,2,"5,11,11,11,9,11|11,8,8,7,11,6",,GRAND_SLAM,MS,804,Qualification,BOBOCICA Mihai (ITA),PERSSON Jon (SWE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,PERSSON Jon,REED Daniel,4,3,"8,11,12,11,11,7,11|11,4,14,9,8,11,5",,GRAND_SLAM,MS,804,Qualification,PERSSON Jon (SWE),REED Daniel (ENG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,FREITAS Marcos,LI Kwun Ngai,4,2,"9,4,13,11,11,11|11,11,11,2,6,9",,GRAND_SLAM,MS,804,Qualification,FREITAS Marcos (POR),LI Kwun Ngai (HKG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,FREITAS Marcos,JANCARIK Lubomir,4,0,,,GRAND_SLAM,MS,804,Qualification,FREITAS Marcos (POR),JANCARIK Lubomir (CZE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LI Kwun Ngai,JANCARIK Lubomir,4,0,,,GRAND_SLAM,MS,804,Qualification,LI Kwun Ngai (HKG),JANCARIK Lubomir (CZE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,CHO Jihoon,EVANS Gavin,4,0,"11,11,11,11|7,5,8,6",,GRAND_SLAM,MS,804,Qualification,CHO Jihoon (KOR),EVANS Gavin (ENG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,CHO Jihoon,TSUBOGUCHI Michikazu,4,3,"11,12,9,11,7,9,13|5,10,11,5,11,11,11",,GRAND_SLAM,MS,804,Qualification,CHO Jihoon (KOR),TSUBOGUCHI Michikazu (JPN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,TSUBOGUCHI Michikazu,EVANS Gavin,4,0,"11,11,11,11|3,8,8,7",,GRAND_SLAM,MS,804,Qualification,TSUBOGUCHI Michikazu (JPN),EVANS Gavin (ENG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,HABESOHN Daniel,WALLACE Simon,4,0,,,GRAND_SLAM,MS,804,Qualification,HABESOHN Daniel (AUT),WALLACE Simon (NZL)
-Pro Tour VW Open Daejeon 2008,2008-05-29,HABESOHN Daniel,CAI Xiaoli,4,1,"11,7,14,11,11|5,11,12,7,8",,GRAND_SLAM,MS,804,Qualification,HABESOHN Daniel (AUT),CAI Xiaoli (SGP)
-Pro Tour VW Open Daejeon 2008,2008-05-29,CAI Xiaoli,WALLACE Simon,4,0,,,GRAND_SLAM,MS,804,Qualification,CAI Xiaoli (SGP),WALLACE Simon (NZL)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LIU Zhongze,PITCHFORD Liam,4,0,"12,11,11,11|10,3,6,6",,GRAND_SLAM,MS,804,Qualification,LIU Zhongze (SGP),PITCHFORD Liam (ENG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,ZENG Cem,LIU Zhongze,4,0,"11,11,11,12|8,6,8,10",,GRAND_SLAM,MS,804,Qualification,ZENG Cem (TUR),LIU Zhongze (SGP)
-Pro Tour VW Open Daejeon 2008,2008-05-29,ZENG Cem,PITCHFORD Liam,4,1,"11,11,7,11,12|7,9,11,5,10",,GRAND_SLAM,MS,804,Qualification,ZENG Cem (TUR),PITCHFORD Liam (ENG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,MA Liang,CORDUE John,4,0,,,GRAND_SLAM,MS,804,Qualification,MA Liang (SGP),CORDUE John (NZL)
-Pro Tour VW Open Daejeon 2008,2008-05-29,MA Liang,TSUBOI Gustavo,4,1,"11,7,11,11,11|6,11,3,9,9",,GRAND_SLAM,MS,804,Qualification,MA Liang (SGP),TSUBOI Gustavo (BRA)
-Pro Tour VW Open Daejeon 2008,2008-05-29,TSUBOI Gustavo,CORDUE John,4,0,,,GRAND_SLAM,MS,804,Qualification,TSUBOI Gustavo (BRA),CORDUE John (NZL)
-Pro Tour VW Open Daejeon 2008,2008-05-29,UEDA Jin,FENG Xiaoquan,4,0,,,GRAND_SLAM,U21MS,804,Qualification,UEDA Jin (JPN),FENG Xiaoquan (AUT)
-Pro Tour VW Open Daejeon 2008,2008-05-29,JEOUNG Youngsik,FENG Xiaoquan,4,0,,,GRAND_SLAM,U21MS,804,Qualification,JEOUNG Youngsik (KOR),FENG Xiaoquan (AUT)
-Pro Tour VW Open Daejeon 2008,2008-05-29,JEOUNG Youngsik,UEDA Jin,3,0,"11,11,11|9,6,4",,GRAND_SLAM,U21MS,804,Qualification,JEOUNG Youngsik (KOR),UEDA Jin (JPN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,CHEN Chien-An,REED Daniel,3,1,"10,14,11,11|12,12,8,7",,GRAND_SLAM,U21MS,804,Qualification,CHEN Chien-An (TPE),REED Daniel (ENG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,CHEN Chien-An,SHEN Qiang,4,0,,,GRAND_SLAM,U21MS,804,Qualification,CHEN Chien-An (TPE),SHEN Qiang (CAN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,REED Daniel,SHEN Qiang,4,0,,,GRAND_SLAM,U21MS,804,Qualification,REED Daniel (ENG),SHEN Qiang (CAN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,MENGE Gencay,GUO Yi Teng,3,2,"11,5,11,11,12|13,11,9,8,10",,GRAND_SLAM,U21MS,804,Qualification,MENGE Gencay (TUR),GUO Yi Teng (SGP)
-Pro Tour VW Open Daejeon 2008,2008-05-29,GOLOVANOV Stanislav,PITCHFORD Liam,3,1,"11,11,12,11|9,7,14,7",,GRAND_SLAM,U21MS,804,Qualification,GOLOVANOV Stanislav (BUL),PITCHFORD Liam (ENG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,GUO Yi Teng,GOLOVANOV Stanislav,3,2,"11,6,5,11,11|9,11,11,9,9",,GRAND_SLAM,U21MS,804,Qualification,GUO Yi Teng (SGP),GOLOVANOV Stanislav (BUL)
-Pro Tour VW Open Daejeon 2008,2008-05-29,PITCHFORD Liam,MENGE Gencay,3,2,"9,11,11,14,11|11,4,8,16,8",,GRAND_SLAM,U21MS,804,Qualification,PITCHFORD Liam (ENG),MENGE Gencay (TUR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,GUO Yi Teng,PITCHFORD Liam,3,1,"10,11,13,11|12,8,11,9",,GRAND_SLAM,U21MS,804,Qualification,GUO Yi Teng (SGP),PITCHFORD Liam (ENG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,MENGE Gencay,GOLOVANOV Stanislav,3,1,"11,11,6,11|2,6,11,8",,GRAND_SLAM,U21MS,804,Qualification,MENGE Gencay (TUR),GOLOVANOV Stanislav (BUL)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LI Kwun Ngai,JIANG Pengfei,3,1,"11,4,11,11|9,11,9,4",,GRAND_SLAM,U21MS,804,Qualification,LI Kwun Ngai (HKG),JIANG Pengfei (TUR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,FEGERL Stefan,EVANS Gavin,3,0,"11,11,11|9,7,5",,GRAND_SLAM,U21MS,804,Qualification,FEGERL Stefan (AUT),EVANS Gavin (ENG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,FEGERL Stefan,JIANG Pengfei,3,1,"10,11,11,16|12,3,9,14",,GRAND_SLAM,U21MS,804,Qualification,FEGERL Stefan (AUT),JIANG Pengfei (TUR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LI Kwun Ngai,EVANS Gavin,3,2,"11,8,11,6,11|3,11,4,11,2",,GRAND_SLAM,U21MS,804,Qualification,LI Kwun Ngai (HKG),EVANS Gavin (ENG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,JIANG Pengfei,EVANS Gavin,3,0,"11,14,11|9,12,7",,GRAND_SLAM,U21MS,804,Qualification,JIANG Pengfei (TUR),EVANS Gavin (ENG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LI Kwun Ngai,FEGERL Stefan,3,2,"11,10,11,10,11|8,12,8,12,8",,GRAND_SLAM,U21MS,804,Qualification,LI Kwun Ngai (HKG),FEGERL Stefan (AUT)
-Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Hao,PITCHFORD Liam,4,0,"11,11,11,11|4,6,6,4",R64,GRAND_SLAM,MS,804,Main Draw,WANG Hao (CHN),PITCHFORD Liam (ENG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,YOON Jaeyoung,FEJER-KONNERTH Zoltan,4,2,"14,9,11,11,6,11|12,11,8,8,11,8",R64,GRAND_SLAM,MS,804,Main Draw,YOON Jaeyoung (KOR),FEJER-KONNERTH Zoltan (GER)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LEE Jungwoo,HUANG Sheng-Sheng,4,2,"11,8,7,11,11,11|8,11,11,9,9,2",R64,GRAND_SLAM,MS,804,Main Draw,LEE Jungwoo (KOR),HUANG Sheng-Sheng (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LEE Jinkwon,TANG Peng,4,3,"5,9,11,3,12,11,11|11,11,9,11,10,9,6",R64,GRAND_SLAM,MS,804,Main Draw,LEE Jinkwon (KOR),TANG Peng (HKG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,JOO Saehyuk,TSUBOGUCHI Michikazu,4,2,"13,9,11,10,11,11|11,11,6,12,3,7",R64,GRAND_SLAM,MS,804,Main Draw,JOO Saehyuk (KOR),TSUBOGUCHI Michikazu (JPN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,SUSS Christian,TSUBOI Gustavo,4,1,"15,11,6,11,11|13,9,11,3,9",R64,GRAND_SLAM,MS,804,Main Draw,SUSS Christian (GER),TSUBOI Gustavo (BRA)
-Pro Tour VW Open Daejeon 2008,2008-05-29,WU Chih-Chi,FEGERL Stefan,4,1,"3,11,12,11,11|11,9,10,6,9",R64,GRAND_SLAM,MS,804,Main Draw,WU Chih-Chi (TPE),FEGERL Stefan (AUT)
-Pro Tour VW Open Daejeon 2008,2008-05-29,RYU Seungmin,LIU Zhongze,4,1,"5,11,11,11,11|11,3,7,9,8",R64,GRAND_SLAM,MS,804,Main Draw,RYU Seungmin (KOR),LIU Zhongze (SGP)
-Pro Tour VW Open Daejeon 2008,2008-05-29,OH Sangeun,CHANG Yen-Shu,4,1,"11,12,5,11,11|8,10,11,6,8",R64,GRAND_SLAM,MS,804,Main Draw,OH Sangeun (KOR),CHANG Yen-Shu (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,CHEUNG Yuk,FREITAS Marcos,4,2,"5,11,9,11,11,11|11,5,11,8,5,9",R64,GRAND_SLAM,MS,804,Main Draw,CHEUNG Yuk (HKG),FREITAS Marcos (POR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LIM Jaehyun,HABESOHN Daniel,4,3,"11,9,8,11,14,10,12|7,11,11,5,12,12,10",R64,GRAND_SLAM,MS,804,Main Draw,LIM Jaehyun (KOR),HABESOHN Daniel (AUT)
-Pro Tour VW Open Daejeon 2008,2008-05-29,YANG Zi,SHIMOYAMA Takanori,4,1,"6,11,11,11,11|11,8,5,6,5",R64,GRAND_SLAM,MS,804,Main Draw,YANG Zi (SGP),SHIMOYAMA Takanori (JPN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,KAN Yo,JIANG Pengfei,4,1,"8,11,11,11,11|11,9,6,3,3",R64,GRAND_SLAM,MS,804,Main Draw,KAN Yo (JPN),JIANG Pengfei (TUR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,STEGER Bastian,MA Liang,4,1,"11,12,9,11,11|7,10,11,9,2",R64,GRAND_SLAM,MS,804,Main Draw,STEGER Bastian (GER),MA Liang (SGP)
-Pro Tour VW Open Daejeon 2008,2008-05-29,PRIMORAC Zoran,KO Junhyung,4,2,"11,12,5,11,11,11|8,14,11,5,0,0",R64,GRAND_SLAM,MS,804,Main Draw,PRIMORAC Zoran (CRO),KO Junhyung (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,MA Long,REED Daniel,4,0,"11,11,11,11|6,8,8,8",R64,GRAND_SLAM,MS,804,Main Draw,MA Long (CHN),REED Daniel (ENG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Liqin,MENGE Gencay,4,0,"11,11,11,11|5,1,3,1",R64,GRAND_SLAM,MS,804,Main Draw,WANG Liqin (CHN),MENGE Gencay (TUR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,KISHIKAWA Seiya,XU Hui,4,1,"11,13,12,9,13|4,11,10,11,11",R64,GRAND_SLAM,MS,804,Main Draw,KISHIKAWA Seiya (JPN),XU Hui (CHN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,BOBOCICA Mihai,MONTEIRO Joao,4,1,"11,11,11,6,12|9,9,6,11,10",R64,GRAND_SLAM,MS,804,Main Draw,BOBOCICA Mihai (ITA),MONTEIRO Joao (POR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,OVTCHAROV Dimitrij,GOLOVANOV Stanislav,4,1,"11,8,11,11,11|5,11,7,8,9",R64,GRAND_SLAM,MS,804,Main Draw,OVTCHAROV Dimitrij (GER),GOLOVANOV Stanislav (BUL)
-Pro Tour VW Open Daejeon 2008,2008-05-29,MIZUTANI Jun,LI Kwun Ngai,4,1,"11,11,9,12,11|8,6,11,10,9",R64,GRAND_SLAM,MS,804,Main Draw,MIZUTANI Jun (JPN),LI Kwun Ngai (HKG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LEE Jungsam,CHIANG Hung-Chieh,4,0,"13,11,11,11|11,8,9,7",R64,GRAND_SLAM,MS,804,Main Draw,LEE Jungsam (KOR),CHIANG Hung-Chieh (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,JIANG Tianyi,HIELSCHER Lars,4,2,"10,11,11,11,7,11|12,8,6,2,11,4",R64,GRAND_SLAM,MS,804,Main Draw,JIANG Tianyi (HKG),HIELSCHER Lars (GER)
-Pro Tour VW Open Daejeon 2008,2008-05-29,BOLL Timo,PERSSON Jon,4,1,"11,11,6,11,11|5,9,11,5,7",R64,GRAND_SLAM,MS,804,Main Draw,BOLL Timo (GER),PERSSON Jon (SWE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,CHEN Qi,TSE Ka Chun,4,1,"11,10,11,11,11|4,12,4,2,3",R64,GRAND_SLAM,MS,804,Main Draw,CHEN Qi (CHN),TSE Ka Chun (HKG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,CHIANG Peng-Lung,DRINKHALL Paul,4,2,"12,10,11,11,6,11|10,12,7,7,11,9",R64,GRAND_SLAM,MS,804,Main Draw,CHIANG Peng-Lung (TPE),DRINKHALL Paul (ENG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,KIM Junghoon,ZENG Cem,4,0,"11,11,11,11|5,7,5,2",R64,GRAND_SLAM,MS,804,Main Draw,KIM Junghoon (KOR),ZENG Cem (TUR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,GACINA Andrej,KO Lai Chak,4,3,"13,5,7,11,11,11,11|11,11,11,13,8,7,4",R64,GRAND_SLAM,MS,804,Main Draw,GACINA Andrej (CRO),KO Lai Chak (HKG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,SCHLAGER Werner,CAI Xiaoli,4,1,"11,7,11,11,12|8,11,6,3,10",R64,GRAND_SLAM,MS,804,Main Draw,SCHLAGER Werner (AUT),CAI Xiaoli (SGP)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LEUNG Chu Yan,CHO Jihoon,4,0,"11,11,11,12|8,6,5,10",R64,GRAND_SLAM,MS,804,Main Draw,LEUNG Chu Yan (HKG),CHO Jihoon (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,SMIRNOV Alexey,RUMGAY Gavin,4,1,"11,11,8,14,11|4,6,11,12,8",R64,GRAND_SLAM,MS,804,Main Draw,SMIRNOV Alexey (RUS),RUMGAY Gavin (SCO)
-Pro Tour VW Open Daejeon 2008,2008-05-29,MA Lin,AL-HASAN Ibrahem,4,0,"11,11,11,11|6,6,5,8",R64,GRAND_SLAM,MS,804,Main Draw,MA Lin (CHN),AL-HASAN Ibrahem (KUW)
-Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Hao,YOON Jaeyoung,4,1,"11,9,11,14,11|5,11,8,12,6",R32,GRAND_SLAM,MS,804,Main Draw,WANG Hao (CHN),YOON Jaeyoung (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LEE Jungwoo,LEE Jinkwon,4,1,"7,11,11,11,12|11,8,6,5,10",R32,GRAND_SLAM,MS,804,Main Draw,LEE Jungwoo (KOR),LEE Jinkwon (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,JOO Saehyuk,SUSS Christian,4,0,"11,12,11,11|6,10,5,5",R32,GRAND_SLAM,MS,804,Main Draw,JOO Saehyuk (KOR),SUSS Christian (GER)
-Pro Tour VW Open Daejeon 2008,2008-05-29,RYU Seungmin,WU Chih-Chi,4,1,"11,11,11,6,11|9,9,3,11,9",R32,GRAND_SLAM,MS,804,Main Draw,RYU Seungmin (KOR),WU Chih-Chi (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,CHEUNG Yuk,OH Sangeun,4,3,"6,9,11,6,11,11,11|11,11,9,11,8,6,4",R32,GRAND_SLAM,MS,804,Main Draw,CHEUNG Yuk (HKG),OH Sangeun (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LIM Jaehyun,YANG Zi,4,1,"12,6,15,11,12|10,11,13,5,10",R32,GRAND_SLAM,MS,804,Main Draw,LIM Jaehyun (KOR),YANG Zi (SGP)
-Pro Tour VW Open Daejeon 2008,2008-05-29,KAN Yo,STEGER Bastian,4,0,"11,11,11,11|9,4,6,7",R32,GRAND_SLAM,MS,804,Main Draw,KAN Yo (JPN),STEGER Bastian (GER)
-Pro Tour VW Open Daejeon 2008,2008-05-29,MA Long,PRIMORAC Zoran,4,1,"11,11,11,3,11|8,7,7,11,8",R32,GRAND_SLAM,MS,804,Main Draw,MA Long (CHN),PRIMORAC Zoran (CRO)
-Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Liqin,KISHIKAWA Seiya,4,2,"11,11,11,9,9,11|3,9,5,11,11,2",R32,GRAND_SLAM,MS,804,Main Draw,WANG Liqin (CHN),KISHIKAWA Seiya (JPN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,OVTCHAROV Dimitrij,BOBOCICA Mihai,4,0,"11,11,12,11|5,7,10,7",R32,GRAND_SLAM,MS,804,Main Draw,OVTCHAROV Dimitrij (GER),BOBOCICA Mihai (ITA)
-Pro Tour VW Open Daejeon 2008,2008-05-29,MIZUTANI Jun,LEE Jungsam,4,1,"6,13,11,11,11|11,11,5,4,8",R32,GRAND_SLAM,MS,804,Main Draw,MIZUTANI Jun (JPN),LEE Jungsam (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,BOLL Timo,JIANG Tianyi,4,3,"6,7,11,12,11,5,11|11,11,9,10,9,11,8",R32,GRAND_SLAM,MS,804,Main Draw,BOLL Timo (GER),JIANG Tianyi (HKG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,CHEN Qi,CHIANG Peng-Lung,4,0,"11,13,11,11|6,11,7,9",R32,GRAND_SLAM,MS,804,Main Draw,CHEN Qi (CHN),CHIANG Peng-Lung (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,KIM Junghoon,GACINA Andrej,4,2,"11,11,12,9,10,11|6,8,10,11,12,5",R32,GRAND_SLAM,MS,804,Main Draw,KIM Junghoon (KOR),GACINA Andrej (CRO)
-Pro Tour VW Open Daejeon 2008,2008-05-29,SCHLAGER Werner,LEUNG Chu Yan,4,3,"11,11,10,11,12,5,14|13,4,12,9,10,11,12",R32,GRAND_SLAM,MS,804,Main Draw,SCHLAGER Werner (AUT),LEUNG Chu Yan (HKG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,MA Lin,SMIRNOV Alexey,4,0,"12,11,11,11|10,5,7,5",R32,GRAND_SLAM,MS,804,Main Draw,MA Lin (CHN),SMIRNOV Alexey (RUS)
-Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Hao,LEE Jungwoo,4,0,"11,11,11,11|9,4,7,4",R16,GRAND_SLAM,MS,804,Main Draw,WANG Hao (CHN),LEE Jungwoo (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,RYU Seungmin,JOO Saehyuk,4,0,"11,11,11,11|4,6,7,2",R16,GRAND_SLAM,MS,804,Main Draw,RYU Seungmin (KOR),JOO Saehyuk (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,CHEUNG Yuk,LIM Jaehyun,4,2,"14,11,12,4,9,11|12,9,10,11,11,9",R16,GRAND_SLAM,MS,804,Main Draw,CHEUNG Yuk (HKG),LIM Jaehyun (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,MA Long,KAN Yo,4,2,"11,8,11,11,6,11|8,11,6,6,11,6",R16,GRAND_SLAM,MS,804,Main Draw,MA Long (CHN),KAN Yo (JPN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,OVTCHAROV Dimitrij,WANG Liqin,4,1,"11,5,11,11,11|8,11,7,8,6",R16,GRAND_SLAM,MS,804,Main Draw,OVTCHAROV Dimitrij (GER),WANG Liqin (CHN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,BOLL Timo,MIZUTANI Jun,4,0,"11,11,11,11|8,9,4,2",R16,GRAND_SLAM,MS,804,Main Draw,BOLL Timo (GER),MIZUTANI Jun (JPN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,CHEN Qi,KIM Junghoon,4,0,"11,11,11,11|5,9,5,2",R16,GRAND_SLAM,MS,804,Main Draw,CHEN Qi (CHN),KIM Junghoon (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,MA Lin,SCHLAGER Werner,4,1,"11,11,11,13,11|9,2,8,15,8",R16,GRAND_SLAM,MS,804,Main Draw,MA Lin (CHN),SCHLAGER Werner (AUT)
-Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Hao,RYU Seungmin,4,2,"11,8,11,10,11,11|7,11,9,12,4,4",QF,GRAND_SLAM,MS,804,Main Draw,WANG Hao (CHN),RYU Seungmin (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,MA Long,CHEUNG Yuk,4,0,"11,11,13,12|6,5,11,10",QF,GRAND_SLAM,MS,804,Main Draw,MA Long (CHN),CHEUNG Yuk (HKG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,OVTCHAROV Dimitrij,BOLL Timo,4,3,"11,11,11,9,6,6,12|7,8,5,11,11,11,10",QF,GRAND_SLAM,MS,804,Main Draw,OVTCHAROV Dimitrij (GER),BOLL Timo (GER)
-Pro Tour VW Open Daejeon 2008,2008-05-29,MA Lin,CHEN Qi,4,1,"11,11,5,11,12|4,9,11,8,10",QF,GRAND_SLAM,MS,804,Main Draw,MA Lin (CHN),CHEN Qi (CHN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,MA Long,WANG Hao,4,1,"9,11,13,11,11|11,9,11,9,7",SF,GRAND_SLAM,MS,804,Main Draw,MA Long (CHN),WANG Hao (CHN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,MA Lin,OVTCHAROV Dimitrij,4,0,"11,11,11,11|7,8,2,3",SF,GRAND_SLAM,MS,804,Main Draw,MA Lin (CHN),OVTCHAROV Dimitrij (GER)
-Pro Tour VW Open Daejeon 2008,2008-05-29,MA Long,MA Lin,4,2,"11,4,11,15,3,11|8,11,3,13,11,5",F,GRAND_SLAM,MS,804,Main Draw,MA Long (CHN),MA Lin (CHN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,CHIANG Hung-Chieh,GOLOVANOV Stanislav,4,2,"11,8,9,11,11,11|7,11,11,3,4,9",R16,GRAND_SLAM,U21MS,804,Main Draw,CHIANG Hung-Chieh (TPE),GOLOVANOV Stanislav (BUL)
-Pro Tour VW Open Daejeon 2008,2008-05-29,CHEN Chien-An,MA Liang,4,1,"13,11,11,11,11|11,13,5,9,4",R16,GRAND_SLAM,U21MS,804,Main Draw,CHEN Chien-An (TPE),MA Liang (SGP)
-Pro Tour VW Open Daejeon 2008,2008-05-29,FREITAS Marcos,REED Daniel,4,1,"11,11,11,6,11|5,1,5,11,9",R16,GRAND_SLAM,U21MS,804,Main Draw,FREITAS Marcos (POR),REED Daniel (ENG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LIU Zhongze,FEGERL Stefan,4,0,"11,11,11,11|5,9,7,9",R16,GRAND_SLAM,U21MS,804,Main Draw,LIU Zhongze (SGP),FEGERL Stefan (AUT)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LI Kwun Ngai,HUANG Sheng-Sheng,4,3,"11,3,9,11,5,15,15|9,11,11,9,11,13,13",R16,GRAND_SLAM,U21MS,804,Main Draw,LI Kwun Ngai (HKG),HUANG Sheng-Sheng (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,JEOUNG Youngsik,GUO Yi Teng,4,0,"11,11,11,17|6,5,4,15",R16,GRAND_SLAM,U21MS,804,Main Draw,JEOUNG Youngsik (KOR),GUO Yi Teng (SGP)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LEE Jinkwon,UEDA Jin,4,2,"9,10,11,11,11,11|11,12,2,4,6,7",R16,GRAND_SLAM,U21MS,804,Main Draw,LEE Jinkwon (KOR),UEDA Jin (JPN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,CHIANG Hung-Chieh,CHEN Chien-An,4,2,"9,13,11,11,11,11|11,15,4,9,8,2",QF,GRAND_SLAM,U21MS,804,Main Draw,CHIANG Hung-Chieh (TPE),CHEN Chien-An (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,FREITAS Marcos,DRINKHALL Paul,4,0,"12,11,11,11|10,6,7,8",QF,GRAND_SLAM,U21MS,804,Main Draw,FREITAS Marcos (POR),DRINKHALL Paul (ENG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LIU Zhongze,LI Kwun Ngai,4,2,"3,11,16,7,11,11|11,9,14,11,9,5",QF,GRAND_SLAM,U21MS,804,Main Draw,LIU Zhongze (SGP),LI Kwun Ngai (HKG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LEE Jinkwon,JEOUNG Youngsik,4,0,"11,11,11,11|9,8,8,5",QF,GRAND_SLAM,U21MS,804,Main Draw,LEE Jinkwon (KOR),JEOUNG Youngsik (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,FREITAS Marcos,CHIANG Hung-Chieh,4,1,"13,11,9,11,11|11,7,11,4,6",SF,GRAND_SLAM,U21MS,804,Main Draw,FREITAS Marcos (POR),CHIANG Hung-Chieh (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LIU Zhongze,LEE Jinkwon,4,2,"11,11,11,5,5,11|6,7,7,11,11,7",SF,GRAND_SLAM,U21MS,804,Main Draw,LIU Zhongze (SGP),LEE Jinkwon (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,FREITAS Marcos,LIU Zhongze,4,1,"11,11,11,13,11|6,5,6,15,9",F,GRAND_SLAM,U21MS,804,Main Draw,FREITAS Marcos (POR),LIU Zhongze (SGP)
-Pro Tour VW Open Daejeon 2008,2008-05-29,TAN Wenling,KERTAI Rita,4,0,"11,11,11,11|7,8,7,4",,GRAND_SLAM,WS,804,Qualification,TAN Wenling (ITA),KERTAI Rita (HUN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,TAN Wenling,HEINE Veronika,4,0,"11,11,11,11|8,6,7,9",,GRAND_SLAM,WS,804,Qualification,TAN Wenling (ITA),HEINE Veronika (AUT)
-Pro Tour VW Open Daejeon 2008,2008-05-29,KERTAI Rita,HEINE Veronika,4,3,"8,7,11,4,11,12,11|11,11,2,11,2,10,9",,GRAND_SLAM,WS,804,Qualification,KERTAI Rita (HUN),HEINE Veronika (AUT)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LI Jie,YOON Suwon,4,0,"11,11,11,11|4,8,4,5",,GRAND_SLAM,WS,804,Qualification,LI Jie (NED),YOON Suwon (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LI Jie,SIBLEY Kelly,4,0,"11,11,11,11|4,7,4,2",,GRAND_SLAM,WS,804,Qualification,LI Jie (NED),SIBLEY Kelly (ENG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,YOON Suwon,SIBLEY Kelly,4,1,"11,11,5,11,11|8,9,11,4,7",,GRAND_SLAM,WS,804,Qualification,YOON Suwon (KOR),SIBLEY Kelly (ENG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,STEFANOVA Nikoleta,DRINKHALL Joanna,4,3,"11,2,11,10,11,9,11|4,11,8,12,6,11,8",,GRAND_SLAM,WS,804,Qualification,STEFANOVA Nikoleta (ITA),DRINKHALL Joanna (ENG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,STEFANOVA Nikoleta,TERUI Moemi,4,2,"12,12,3,11,4,12|10,10,11,8,11,10",,GRAND_SLAM,WS,804,Qualification,STEFANOVA Nikoleta (ITA),TERUI Moemi (JPN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,DRINKHALL Joanna,TERUI Moemi,4,1,"9,11,11,11,14|11,3,4,4,12",,GRAND_SLAM,WS,804,Qualification,DRINKHALL Joanna (ENG),TERUI Moemi (JPN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,SAMARA Elizabeta,HUANG Crystal Xi,4,2,"11,6,11,6,12,11|9,11,9,11,10,8",,GRAND_SLAM,WS,804,Qualification,SAMARA Elizabeta (ROU),HUANG Crystal Xi (USA)
-Pro Tour VW Open Daejeon 2008,2008-05-29,SAMARA Elizabeta,LEE I-Chen,4,3,"7,11,11,8,12,11,11|11,13,8,11,10,6,7",,GRAND_SLAM,WS,804,Qualification,SAMARA Elizabeta (ROU),LEE I-Chen (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LEE I-Chen,HUANG Crystal Xi,4,1,"5,11,11,11,11|11,8,7,6,6",,GRAND_SLAM,WS,804,Qualification,LEE I-Chen (TPE),HUANG Crystal Xi (USA)
-Pro Tour VW Open Daejeon 2008,2008-05-29,KOMWONG Nanthana,YU Mei-Ju,4,1,"11,11,11,7,11|6,8,7,11,7",,GRAND_SLAM,WS,804,Qualification,KOMWONG Nanthana (THA),YU Mei-Ju (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,KOMWONG Nanthana,SHIM Serom,4,1,"4,11,11,14,12|11,6,5,12,10",,GRAND_SLAM,WS,804,Qualification,KOMWONG Nanthana (THA),SHIM Serom (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,SHIM Serom,YU Mei-Ju,4,0,"11,11,11,11|5,6,2,4",,GRAND_SLAM,WS,804,Qualification,SHIM Serom (KOR),YU Mei-Ju (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,ZHU Fang,HSU Hui-Tsun,4,0,"11,11,11,11|7,4,6,4",,GRAND_SLAM,WS,804,Qualification,ZHU Fang (ESP),HSU Hui-Tsun (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,ZHU Fang,CHO Hala,4,2,"10,15,11,11,9,11|12,13,3,7,11,8",,GRAND_SLAM,WS,804,Qualification,ZHU Fang (ESP),CHO Hala (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,CHO Hala,HSU Hui-Tsun,4,2,"9,8,11,11,11,11|11,11,9,6,5,5",,GRAND_SLAM,WS,804,Qualification,CHO Hala (KOR),HSU Hui-Tsun (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,HU Melek,NONAKA Mariany,4,0,"12,11,11,11|10,5,6,8",,GRAND_SLAM,WS,804,Qualification,HU Melek (TUR),NONAKA Mariany (BRA)
-Pro Tour VW Open Daejeon 2008,2008-05-29,SUH Hyo Won,HU Melek,4,3,"11,9,11,6,11,8,11|9,11,9,11,9,11,4",,GRAND_SLAM,WS,804,Qualification,SUH Hyo Won (KOR),HU Melek (TUR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,SUH Hyo Won,NONAKA Mariany,4,0,"11,11,11,11|7,7,6,9",,GRAND_SLAM,WS,804,Qualification,SUH Hyo Won (KOR),NONAKA Mariany (BRA)
-Pro Tour VW Open Daejeon 2008,2008-05-29,YILDIRIM Fulya,BARTHEL Zhenqi,4,0,,,GRAND_SLAM,WS,804,Qualification,YILDIRIM Fulya (TUR),BARTHEL Zhenqi (GER)
-Pro Tour VW Open Daejeon 2008,2008-05-29,ISHIKAWA Kasumi,BARTHEL Zhenqi,4,0,,,GRAND_SLAM,WS,804,Qualification,ISHIKAWA Kasumi (JPN),BARTHEL Zhenqi (GER)
-Pro Tour VW Open Daejeon 2008,2008-05-29,ISHIKAWA Kasumi,YILDIRIM Fulya,4,3,"9,9,11,11,11,11,11|11,11,3,13,4,9,3",,GRAND_SLAM,WS,804,Qualification,ISHIKAWA Kasumi (JPN),YILDIRIM Fulya (TUR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,ETSUZAKI Ayumi,ALI Meral Ildiz,4,0,"11,11,13,11|2,6,11,8",,GRAND_SLAM,WS,804,Qualification,ETSUZAKI Ayumi (JPN),ALI Meral Ildiz (TUR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,ETSUZAKI Ayumi,MUANGSUK Anisara,4,0,"11,11,11,11|2,6,3,1",,GRAND_SLAM,WS,804,Qualification,ETSUZAKI Ayumi (JPN),MUANGSUK Anisara (THA)
-Pro Tour VW Open Daejeon 2008,2008-05-29,ALI Meral Ildiz,MUANGSUK Anisara,4,3,"11,12,8,7,11,11,11|9,14,11,11,6,9,8",,GRAND_SLAM,WS,804,Qualification,ALI Meral Ildiz (TUR),MUANGSUK Anisara (THA)
-Pro Tour VW Open Daejeon 2008,2008-05-29,KIM Junghyun,OWEN Naomi,4,2,"11,8,11,9,11,11|9,11,5,11,8,3",,GRAND_SLAM,WS,804,Qualification,KIM Junghyun (KOR),OWEN Naomi (WAL)
-Pro Tour VW Open Daejeon 2008,2008-05-29,YU Kwok See,KIM Junghyun,4,3,"11,11,9,11,11,3,11|13,6,11,9,2,11,3",,GRAND_SLAM,WS,804,Qualification,YU Kwok See (HKG),KIM Junghyun (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,YU Kwok See,OWEN Naomi,4,0,"11,13,11,11|3,11,2,7",,GRAND_SLAM,WS,804,Qualification,YU Kwok See (HKG),OWEN Naomi (WAL)
-Pro Tour VW Open Daejeon 2008,2008-05-29,DVORAK Galia,YAMADA Jessica,4,0,"11,13,11,11|5,11,3,9",,GRAND_SLAM,WS,804,Qualification,DVORAK Galia (ESP),YAMADA Jessica (BRA)
-Pro Tour VW Open Daejeon 2008,2008-05-29,PAN Chun-Chu,DVORAK Galia,4,1,"11,11,11,4,11|5,9,8,11,8",,GRAND_SLAM,WS,804,Qualification,PAN Chun-Chu (TPE),DVORAK Galia (ESP)
-Pro Tour VW Open Daejeon 2008,2008-05-29,PAN Chun-Chu,YAMADA Jessica,4,0,"11,11,11,11|2,4,5,5",,GRAND_SLAM,WS,804,Qualification,PAN Chun-Chu (TPE),YAMADA Jessica (BRA)
-Pro Tour VW Open Daejeon 2008,2008-05-29,ISHIGAKI Yuka,CHEN Yu-Lin,4,0,,,GRAND_SLAM,WS,804,Qualification,ISHIGAKI Yuka (JPN),CHEN Yu-Lin (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,ISHIGAKI Yuka,KO Somi,4,1,"8,12,11,11,11|11,10,8,6,8",,GRAND_SLAM,WS,804,Qualification,ISHIGAKI Yuka (JPN),KO Somi (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,KO Somi,CHEN Yu-Lin,4,0,,,GRAND_SLAM,WS,804,Qualification,KO Somi (KOR),CHEN Yu-Lin (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,SUN Jin,CHENG I-Ching,4,1,"11,6,11,11,11|5,11,9,4,3",,GRAND_SLAM,WS,804,Qualification,SUN Jin (HKG),CHENG I-Ching (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,TIMINA Elena,CHENG I-Ching,4,1,"11,10,11,11,11|8,12,5,7,5",,GRAND_SLAM,WS,804,Qualification,TIMINA Elena (NED),CHENG I-Ching (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,TIMINA Elena,SUN Jin,4,2,"15,11,11,9,8,11|13,5,4,11,11,8",,GRAND_SLAM,WS,804,Qualification,TIMINA Elena (NED),SUN Jin (HKG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,ISHIKAWA Kasumi,HSU Hui-Tsun,3,0,"11,11,11|6,6,7",,GRAND_SLAM,U21WS,804,Qualification,ISHIKAWA Kasumi (JPN),HSU Hui-Tsun (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,SIBLEY Kelly,YAMADA Jessica,3,1,"5,11,11,11|11,5,4,8",,GRAND_SLAM,U21WS,804,Qualification,SIBLEY Kelly (ENG),YAMADA Jessica (BRA)
-Pro Tour VW Open Daejeon 2008,2008-05-29,ISHIKAWA Kasumi,SIBLEY Kelly,3,0,"11,11,11|9,6,8",,GRAND_SLAM,U21WS,804,Qualification,ISHIKAWA Kasumi (JPN),SIBLEY Kelly (ENG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,HSU Hui-Tsun,YAMADA Jessica,3,0,"11,11,11|4,5,6",,GRAND_SLAM,U21WS,804,Qualification,HSU Hui-Tsun (TPE),YAMADA Jessica (BRA)
-Pro Tour VW Open Daejeon 2008,2008-05-29,ISHIKAWA Kasumi,YAMADA Jessica,3,0,"11,11,11|4,3,2",,GRAND_SLAM,U21WS,804,Qualification,ISHIKAWA Kasumi (JPN),YAMADA Jessica (BRA)
-Pro Tour VW Open Daejeon 2008,2008-05-29,SIBLEY Kelly,HSU Hui-Tsun,3,2,"11,4,9,11,12|7,11,11,8,10",,GRAND_SLAM,U21WS,804,Qualification,SIBLEY Kelly (ENG),HSU Hui-Tsun (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,DRINKHALL Joanna,SUH Hyo Won,3,1,"9,12,11,11|11,10,5,5",,GRAND_SLAM,U21WS,804,Qualification,DRINKHALL Joanna (ENG),SUH Hyo Won (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,TERUI Moemi,CHEN Yu-Lin,4,0,,,GRAND_SLAM,U21WS,804,Qualification,TERUI Moemi (JPN),CHEN Yu-Lin (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,SUH Hyo Won,TERUI Moemi,3,2,"11,6,11,6,11|5,11,7,11,9",,GRAND_SLAM,U21WS,804,Qualification,SUH Hyo Won (KOR),TERUI Moemi (JPN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,DRINKHALL Joanna,CHEN Yu-Lin,4,0,,,GRAND_SLAM,U21WS,804,Qualification,DRINKHALL Joanna (ENG),CHEN Yu-Lin (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,SUH Hyo Won,CHEN Yu-Lin,4,0,,,GRAND_SLAM,U21WS,804,Qualification,SUH Hyo Won (KOR),CHEN Yu-Lin (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,NONAKA Mariany,ZHANG Mo,4,0,,,GRAND_SLAM,U21WS,804,Qualification,NONAKA Mariany (BRA),ZHANG Mo (CAN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,SHIM Serom,ALI Meral Ildiz,3,0,"11,11,11|6,3,1",,GRAND_SLAM,U21WS,804,Qualification,SHIM Serom (KOR),ALI Meral Ildiz (TUR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,SHIM Serom,ZHANG Mo,4,0,,,GRAND_SLAM,U21WS,804,Qualification,SHIM Serom (KOR),ZHANG Mo (CAN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,ALI Meral Ildiz,NONAKA Mariany,3,1,"11,11,9,11|7,8,11,7",,GRAND_SLAM,U21WS,804,Qualification,ALI Meral Ildiz (TUR),NONAKA Mariany (BRA)
-Pro Tour VW Open Daejeon 2008,2008-05-29,ALI Meral Ildiz,ZHANG Mo,4,0,,,GRAND_SLAM,U21WS,804,Qualification,ALI Meral Ildiz (TUR),ZHANG Mo (CAN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,SHIM Serom,NONAKA Mariany,4,0,,,GRAND_SLAM,U21WS,804,Qualification,SHIM Serom (KOR),NONAKA Mariany (BRA)
-Pro Tour VW Open Daejeon 2008,2008-05-29,YILDIRIM Fulya,CHO Hala,3,1,"11,6,11,13|8,11,9,11",,GRAND_SLAM,U21WS,804,Qualification,YILDIRIM Fulya (TUR),CHO Hala (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LEE I-Chen,OWEN Naomi,3,1,"11,11,11,11|8,13,5,6",,GRAND_SLAM,U21WS,804,Qualification,LEE I-Chen (TPE),OWEN Naomi (WAL)
-Pro Tour VW Open Daejeon 2008,2008-05-29,CHO Hala,LEE I-Chen,3,1,"6,11,11,11|11,6,6,6",,GRAND_SLAM,U21WS,804,Qualification,CHO Hala (KOR),LEE I-Chen (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,YILDIRIM Fulya,OWEN Naomi,3,0,"11,11,11|6,7,9",,GRAND_SLAM,U21WS,804,Qualification,YILDIRIM Fulya (TUR),OWEN Naomi (WAL)
-Pro Tour VW Open Daejeon 2008,2008-05-29,CHO Hala,OWEN Naomi,3,1,"7,11,11,11|11,4,9,5",,GRAND_SLAM,U21WS,804,Qualification,CHO Hala (KOR),OWEN Naomi (WAL)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LEE I-Chen,YILDIRIM Fulya,3,0,"11,11,11|7,6,2",,GRAND_SLAM,U21WS,804,Qualification,LEE I-Chen (TPE),YILDIRIM Fulya (TUR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,GUO Yue,HEINE Veronika,4,0,"11,11,11,11|3,7,2,4",R64,GRAND_SLAM,WS,804,Main Draw,GUO Yue (CHN),HEINE Veronika (AUT)
-Pro Tour VW Open Daejeon 2008,2008-05-29,KWAK Bangbang,DRINKHALL Joanna,4,0,"11,11,11,11|7,2,6,6",R64,GRAND_SLAM,WS,804,Main Draw,KWAK Bangbang (KOR),DRINKHALL Joanna (ENG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,KOMWONG Nanthana,YU Mengyu,4,3,"8,11,11,8,4,14,11|11,8,6,11,11,12,7",R64,GRAND_SLAM,WS,804,Main Draw,KOMWONG Nanthana (THA),YU Mengyu (SGP)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LIU Shiwen,ALI Meral Ildiz,4,0,"11,11,11,11|8,9,9,8",R64,GRAND_SLAM,WS,804,Main Draw,LIU Shiwen (CHN),ALI Meral Ildiz (TUR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LIN Ling,YOON Suwon,4,0,"11,11,11,11|2,9,6,7",R64,GRAND_SLAM,WS,804,Main Draw,LIN Ling (HKG),YOON Suwon (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LI Jie,SHEN Yanfei,4,3,"11,11,11,6,12,5,11|3,6,7,11,14,11,9",R64,GRAND_SLAM,WS,804,Main Draw,LI Jie (NED),SHEN Yanfei (ESP)
-Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Chen,TAN Wenling,4,2,"11,15,11,11,5,11|6,17,9,7,11,7",R64,GRAND_SLAM,WS,804,Main Draw,WANG Chen (USA),TAN Wenling (ITA)
-Pro Tour VW Open Daejeon 2008,2008-05-29,TIE Yana,YU Mei-Ju,4,0,"11,11,11,11|8,4,8,5",R64,GRAND_SLAM,WS,804,Main Draw,TIE Yana (HKG),YU Mei-Ju (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LI Jiawei,MUANGSUK Anisara,4,0,"11,11,11,11|6,9,3,5",R64,GRAND_SLAM,WS,804,Main Draw,LI Jiawei (SGP),MUANGSUK Anisara (THA)
-Pro Tour VW Open Daejeon 2008,2008-05-29,DODEAN Daniela,TIMINA Elena,4,3,"7,6,11,3,11,11,11|11,11,9,11,5,4,5",R64,GRAND_SLAM,WS,804,Main Draw,DODEAN Daniela (ROU),TIMINA Elena (NED)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LAU Sui Fei,ETSUZAKI Ayumi,4,0,"11,17,11,11|4,15,6,9",R64,GRAND_SLAM,WS,804,Main Draw,LAU Sui Fei (HKG),ETSUZAKI Ayumi (JPN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LIU Jia,LEE I-Chen,4,0,"11,11,11,11|3,9,6,8",R64,GRAND_SLAM,WS,804,Main Draw,LIU Jia (AUT),LEE I-Chen (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,HIRANO Sayaka,SHIM Serom,4,0,"11,15,11,11|8,13,8,8",R64,GRAND_SLAM,WS,804,Main Draw,HIRANO Sayaka (JPN),SHIM Serom (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,SCHALL Elke,YU Kwok See,4,0,"11,11,11,11|7,6,5,2",R64,GRAND_SLAM,WS,804,Main Draw,SCHALL Elke (GER),YU Kwok See (HKG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,GAO Jun,SUH Hyo Won,4,1,"10,11,11,11,12|12,8,5,3,10",R64,GRAND_SLAM,WS,804,Main Draw,GAO Jun (USA),SUH Hyo Won (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Nan,HSU Hui-Tsun,4,0,"11,11,11,11|6,4,3,5",R64,GRAND_SLAM,WS,804,Main Draw,WANG Nan (CHN),HSU Hui-Tsun (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,GUO Yan (1982),HUANG Crystal Xi,4,1,"11,11,8,11,11|6,6,11,5,5",R64,GRAND_SLAM,WS,804,Main Draw,GUO Yan (1982) (CHN),HUANG Crystal Xi (USA)
-Pro Tour VW Open Daejeon 2008,2008-05-29,WU Jiaduo,KIM Junghyun,4,3,"11,9,12,11,12,9,11|4,11,10,8,14,11,7",R64,GRAND_SLAM,WS,804,Main Draw,WU Jiaduo (GER),KIM Junghyun (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,PARK Miyoung,ISHIGAKI Yuka,4,1,"11,11,15,6,11|9,7,13,11,9",R64,GRAND_SLAM,WS,804,Main Draw,PARK Miyoung (KOR),ISHIGAKI Yuka (JPN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,FUKUHARA Ai,HU Melek,4,0,"11,11,11,11|9,4,8,6",R64,GRAND_SLAM,WS,804,Main Draw,FUKUHARA Ai (JPN),HU Melek (TUR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,SUN Beibei,DVORAK Galia,4,1,"8,11,11,14,11|11,8,7,12,8",R64,GRAND_SLAM,WS,804,Main Draw,SUN Beibei (SGP),DVORAK Galia (ESP)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LEE Eunhee,ISHIKAWA Kasumi,4,3,"11,11,6,7,11,11,12|13,7,11,11,9,6,10",R64,GRAND_SLAM,WS,804,Main Draw,LEE Eunhee (KOR),ISHIKAWA Kasumi (JPN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,STEFANOVA Nikoleta,ZHANG Rui,4,1,"11,6,11,11,11|6,11,6,5,8",R64,GRAND_SLAM,WS,804,Main Draw,STEFANOVA Nikoleta (ITA),ZHANG Rui (HKG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,JIANG Huajun,CHO Hala,4,1,"15,11,11,8,12|13,6,4,11,10",R64,GRAND_SLAM,WS,804,Main Draw,JIANG Huajun (HKG),CHO Hala (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Yuegu,KERTAI Rita,4,0,"11,11,11,11|5,3,8,7",R64,GRAND_SLAM,WS,804,Main Draw,WANG Yuegu (SGP),KERTAI Rita (HUN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,MOON Hyunjung,ZHU Fang,4,0,"11,13,11,11|6,11,8,4",R64,GRAND_SLAM,WS,804,Main Draw,MOON Hyunjung (KOR),ZHU Fang (ESP)
-Pro Tour VW Open Daejeon 2008,2008-05-29,DANG Yeseo,PAN Chun-Chu,4,1,"11,11,11,7,11|5,6,8,11,7",R64,GRAND_SLAM,WS,804,Main Draw,DANG Yeseo (KOR),PAN Chun-Chu (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,KIM Kyungah,SUN Jin,4,2,"10,11,11,11,11,11|12,7,7,6,13,6",R64,GRAND_SLAM,WS,804,Main Draw,KIM Kyungah (KOR),SUN Jin (HKG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,FENG Tianwei,YILDIRIM Fulya,4,0,"11,11,11,11|6,6,8,8",R64,GRAND_SLAM,WS,804,Main Draw,FENG Tianwei (SGP),YILDIRIM Fulya (TUR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LI Qiangbing,SAMARA Elizabeta,4,3,"12,10,5,11,6,11,11|10,12,11,7,11,5,5",R64,GRAND_SLAM,WS,804,Main Draw,LI Qiangbing (AUT),SAMARA Elizabeta (ROU)
-Pro Tour VW Open Daejeon 2008,2008-05-29,FAN Ying,KO Somi,4,1,"9,11,11,11,11|11,9,8,4,2",R64,GRAND_SLAM,WS,804,Main Draw,FAN Ying (CHN),KO Somi (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LI Xiaoxia,YAMADA Jessica,4,0,"11,11,11,11|2,4,7,3",R64,GRAND_SLAM,WS,804,Main Draw,LI Xiaoxia (CHN),YAMADA Jessica (BRA)
-Pro Tour VW Open Daejeon 2008,2008-05-29,GUO Yue,KWAK Bangbang,4,0,"11,11,11,13|1,6,4,11",R32,GRAND_SLAM,WS,804,Main Draw,GUO Yue (CHN),KWAK Bangbang (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,KOMWONG Nanthana,LIU Shiwen,4,2,"11,11,11,9,5,11|6,8,6,11,11,4",R32,GRAND_SLAM,WS,804,Main Draw,KOMWONG Nanthana (THA),LIU Shiwen (CHN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LIN Ling,LI Jie,4,1,"11,11,9,11,12|9,8,11,4,10",R32,GRAND_SLAM,WS,804,Main Draw,LIN Ling (HKG),LI Jie (NED)
-Pro Tour VW Open Daejeon 2008,2008-05-29,TIE Yana,WANG Chen,4,1,"9,11,11,17,11|11,3,9,15,8",R32,GRAND_SLAM,WS,804,Main Draw,TIE Yana (HKG),WANG Chen (USA)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LI Jiawei,DODEAN Daniela,4,1,"11,7,11,11,11|8,11,4,4,5",R32,GRAND_SLAM,WS,804,Main Draw,LI Jiawei (SGP),DODEAN Daniela (ROU)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LIU Jia,LAU Sui Fei,4,3,"11,9,11,6,4,13,11|5,11,7,11,11,11,9",R32,GRAND_SLAM,WS,804,Main Draw,LIU Jia (AUT),LAU Sui Fei (HKG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,HIRANO Sayaka,SCHALL Elke,4,3,"11,11,11,8,4,7,11|8,9,9,11,11,11,4",R32,GRAND_SLAM,WS,804,Main Draw,HIRANO Sayaka (JPN),SCHALL Elke (GER)
-Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Nan,GAO Jun,4,1,"2,11,14,11,11|11,4,12,7,8",R32,GRAND_SLAM,WS,804,Main Draw,WANG Nan (CHN),GAO Jun (USA)
-Pro Tour VW Open Daejeon 2008,2008-05-29,GUO Yan (1982),WU Jiaduo,4,1,"11,11,9,11,11|9,9,11,4,6",R32,GRAND_SLAM,WS,804,Main Draw,GUO Yan (1982) (CHN),WU Jiaduo (GER)
-Pro Tour VW Open Daejeon 2008,2008-05-29,PARK Miyoung,FUKUHARA Ai,4,1,"11,10,11,11,11|9,12,7,4,7",R32,GRAND_SLAM,WS,804,Main Draw,PARK Miyoung (KOR),FUKUHARA Ai (JPN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,SUN Beibei,LEE Eunhee,4,3,"11,11,7,11,16,4,11|4,5,11,5,18,11,2",R32,GRAND_SLAM,WS,804,Main Draw,SUN Beibei (SGP),LEE Eunhee (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,JIANG Huajun,STEFANOVA Nikoleta,4,1,"14,11,11,11,11|16,4,9,8,6",R32,GRAND_SLAM,WS,804,Main Draw,JIANG Huajun (HKG),STEFANOVA Nikoleta (ITA)
-Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Yuegu,MOON Hyunjung,4,2,"11,10,11,11,6,11|7,12,5,9,11,6",R32,GRAND_SLAM,WS,804,Main Draw,WANG Yuegu (SGP),MOON Hyunjung (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,DANG Yeseo,KIM Kyungah,4,3,"6,11,8,7,11,11,11|11,6,11,11,8,7,2",R32,GRAND_SLAM,WS,804,Main Draw,DANG Yeseo (KOR),KIM Kyungah (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,FENG Tianwei,LI Qiangbing,4,0,"12,11,11,11|10,9,4,5",R32,GRAND_SLAM,WS,804,Main Draw,FENG Tianwei (SGP),LI Qiangbing (AUT)
-Pro Tour VW Open Daejeon 2008,2008-05-29,FAN Ying,LI Xiaoxia,4,3,"3,11,11,7,12,5,11|11,7,9,11,10,11,6",R32,GRAND_SLAM,WS,804,Main Draw,FAN Ying (CHN),LI Xiaoxia (CHN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,GUO Yue,KOMWONG Nanthana,4,1,"11,11,11,9,11|5,7,9,11,4",R16,GRAND_SLAM,WS,804,Main Draw,GUO Yue (CHN),KOMWONG Nanthana (THA)
-Pro Tour VW Open Daejeon 2008,2008-05-29,TIE Yana,LIN Ling,4,0,"11,11,11,14|5,2,5,12",R16,GRAND_SLAM,WS,804,Main Draw,TIE Yana (HKG),LIN Ling (HKG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LI Jiawei,LIU Jia,4,0,"11,11,11,11|7,1,9,5",R16,GRAND_SLAM,WS,804,Main Draw,LI Jiawei (SGP),LIU Jia (AUT)
-Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Nan,HIRANO Sayaka,4,1,"8,13,12,11,11|11,11,10,7,9",R16,GRAND_SLAM,WS,804,Main Draw,WANG Nan (CHN),HIRANO Sayaka (JPN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,GUO Yan (1982),PARK Miyoung,4,1,"12,12,11,9,11|10,10,9,11,8",R16,GRAND_SLAM,WS,804,Main Draw,GUO Yan (1982) (CHN),PARK Miyoung (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,JIANG Huajun,SUN Beibei,4,3,"10,7,8,12,11,11,11|12,11,11,10,8,8,5",R16,GRAND_SLAM,WS,804,Main Draw,JIANG Huajun (HKG),SUN Beibei (SGP)
-Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Yuegu,DANG Yeseo,4,2,"5,11,11,9,11,11|11,8,4,11,5,4",R16,GRAND_SLAM,WS,804,Main Draw,WANG Yuegu (SGP),DANG Yeseo (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,FAN Ying,FENG Tianwei,4,0,"11,11,11,11|4,9,7,9",R16,GRAND_SLAM,WS,804,Main Draw,FAN Ying (CHN),FENG Tianwei (SGP)
-Pro Tour VW Open Daejeon 2008,2008-05-29,GUO Yue,TIE Yana,4,0,"11,11,12,11|8,8,10,2",QF,GRAND_SLAM,WS,804,Main Draw,GUO Yue (CHN),TIE Yana (HKG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Nan,LI Jiawei,4,3,"8,13,10,12,11,11,13|11,11,12,10,9,13,11",QF,GRAND_SLAM,WS,804,Main Draw,WANG Nan (CHN),LI Jiawei (SGP)
-Pro Tour VW Open Daejeon 2008,2008-05-29,GUO Yan (1982),JIANG Huajun,4,0,"11,12,11,14|7,10,9,12",QF,GRAND_SLAM,WS,804,Main Draw,GUO Yan (1982) (CHN),JIANG Huajun (HKG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,FAN Ying,WANG Yuegu,4,1,"11,7,12,11,11|8,11,10,9,7",QF,GRAND_SLAM,WS,804,Main Draw,FAN Ying (CHN),WANG Yuegu (SGP)
-Pro Tour VW Open Daejeon 2008,2008-05-29,GUO Yue,WANG Nan,4,0,"11,11,11,11|7,9,8,6",SF,GRAND_SLAM,WS,804,Main Draw,GUO Yue (CHN),WANG Nan (CHN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,GUO Yan (1982),FAN Ying,4,3,"11,10,11,8,11,8,11|4,12,9,11,4,11,5",SF,GRAND_SLAM,WS,804,Main Draw,GUO Yan (1982) (CHN),FAN Ying (CHN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,GUO Yue,GUO Yan (1982),4,3,"12,11,8,7,12,11,11|14,8,11,11,10,9,5",F,GRAND_SLAM,WS,804,Main Draw,GUO Yue (CHN),GUO Yan (1982) (CHN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,TERUI Moemi,DODEAN Daniela,4,3,"11,11,11,9,5,11,11|8,8,13,11,11,4,9",R16,GRAND_SLAM,U21WS,804,Main Draw,TERUI Moemi (JPN),DODEAN Daniela (ROU)
-Pro Tour VW Open Daejeon 2008,2008-05-29,ISHIGAKI Yuka,SHIM Serom,4,2,"13,11,11,8,11,11|15,5,7,11,6,8",R16,GRAND_SLAM,U21WS,804,Main Draw,ISHIGAKI Yuka (JPN),SHIM Serom (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,DRINKHALL Joanna,ISHIKAWA Kasumi,4,0,"12,11,11,12|10,7,8,10",R16,GRAND_SLAM,U21WS,804,Main Draw,DRINKHALL Joanna (ENG),ISHIKAWA Kasumi (JPN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,SAMARA Elizabeta,ALI Meral Ildiz,4,1,"11,11,9,11,11|3,7,11,6,5",R16,GRAND_SLAM,U21WS,804,Main Draw,SAMARA Elizabeta (ROU),ALI Meral Ildiz (TUR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,CHENG I-Ching,SIBLEY Kelly,4,1,"11,8,11,11,14|8,11,4,7,12",R16,GRAND_SLAM,U21WS,804,Main Draw,CHENG I-Ching (TPE),SIBLEY Kelly (ENG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LEE I-Chen,DVORAK Galia,4,0,"11,11,11,11|9,9,8,5",R16,GRAND_SLAM,U21WS,804,Main Draw,LEE I-Chen (TPE),DVORAK Galia (ESP)
-Pro Tour VW Open Daejeon 2008,2008-05-29,YU Mengyu,CHO Hala,4,0,"11,11,11,11|4,9,7,9",R16,GRAND_SLAM,U21WS,804,Main Draw,YU Mengyu (SGP),CHO Hala (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,ISHIGAKI Yuka,TERUI Moemi,4,0,"11,11,11,11|6,8,6,3",QF,GRAND_SLAM,U21WS,804,Main Draw,ISHIGAKI Yuka (JPN),TERUI Moemi (JPN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,SUH Hyo Won,DRINKHALL Joanna,4,1,"11,12,11,11,11|8,14,9,8,6",QF,GRAND_SLAM,U21WS,804,Main Draw,SUH Hyo Won (KOR),DRINKHALL Joanna (ENG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,SAMARA Elizabeta,CHENG I-Ching,4,2,"11,9,11,3,11,12|8,11,9,11,4,10",QF,GRAND_SLAM,U21WS,804,Main Draw,SAMARA Elizabeta (ROU),CHENG I-Ching (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,YU Mengyu,LEE I-Chen,4,2,"11,8,11,11,3,11|4,11,7,4,11,5",QF,GRAND_SLAM,U21WS,804,Main Draw,YU Mengyu (SGP),LEE I-Chen (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,ISHIGAKI Yuka,SUH Hyo Won,4,2,"11,8,11,7,11,11|9,11,2,11,4,6",SF,GRAND_SLAM,U21WS,804,Main Draw,ISHIGAKI Yuka (JPN),SUH Hyo Won (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,SAMARA Elizabeta,YU Mengyu,4,2,"6,11,11,5,11,12|11,8,9,11,4,10",SF,GRAND_SLAM,U21WS,804,Main Draw,SAMARA Elizabeta (ROU),YU Mengyu (SGP)
-Pro Tour VW Open Daejeon 2008,2008-05-29,SAMARA Elizabeta,ISHIGAKI Yuka,4,3,"8,8,11,11,8,11,11|11,11,8,8,11,9,6",F,GRAND_SLAM,U21WS,804,Main Draw,SAMARA Elizabeta (ROU),ISHIGAKI Yuka (JPN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,KIM Junghoon/LEE Jungsam,FEGERL Stefan/HABESOHN Daniel,4,0,"11,11,11,11|9,9,8,7",R16,GRAND_SLAM,MD,804,Main Draw,KIM Junghoon (KOR) / LEE Jungsam (KOR),FEGERL Stefan (AUT) / HABESOHN Daniel (AUT)
-Pro Tour VW Open Daejeon 2008,2008-05-29,PERSSON Jon/TSUBOI Gustavo,CHEUNG Yuk/KO Lai Chak,3,2,"11,8,12,4,12|6,11,10,11,10",QR16,GRAND_SLAM,MD,804,Qualification,PERSSON Jon (SWE) / TSUBOI Gustavo (BRA),CHEUNG Yuk (HKG) / KO Lai Chak (HKG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Hao/WANG Liqin,JOO Saehyuk/LEE Jinkwon,4,0,"11,11,11,11|6,1,6,5",R16,GRAND_SLAM,MD,804,Main Draw,WANG Hao (CHN) / WANG Liqin (CHN),JOO Saehyuk (KOR) / LEE Jinkwon (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,CHEN Qi/XU Hui,PERSSON Jon/TSUBOI Gustavo,4,1,"11,13,11,3,11|6,11,5,11,8",R16,GRAND_SLAM,MD,804,Main Draw,CHEN Qi (CHN) / XU Hui (CHN),PERSSON Jon (SWE) / TSUBOI Gustavo (BRA)
-Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Hao/WANG Liqin,OH Sangeun/YOON Jaeyoung,4,0,"11,11,11,11|5,9,5,8",QF,GRAND_SLAM,MD,804,Main Draw,WANG Hao (CHN) / WANG Liqin (CHN),OH Sangeun (KOR) / YOON Jaeyoung (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,CHEN Qi/XU Hui,KIM Junghoon/LEE Jungsam,4,1,"11,11,11,8,11|9,5,8,11,3",QF,GRAND_SLAM,MD,804,Main Draw,CHEN Qi (CHN) / XU Hui (CHN),KIM Junghoon (KOR) / LEE Jungsam (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Hao/WANG Liqin,JIANG Tianyi/TANG Peng,4,0,"11,11,11,12|3,2,5,10",SF,GRAND_SLAM,MD,804,Main Draw,WANG Hao (CHN) / WANG Liqin (CHN),JIANG Tianyi (HKG) / TANG Peng (HKG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,MA Lin/MA Long,CHEN Qi/XU Hui,4,2,"11,9,11,10,11,11|5,11,4,12,6,8",SF,GRAND_SLAM,MD,804,Main Draw,MA Lin (CHN) / MA Long (CHN),CHEN Qi (CHN) / XU Hui (CHN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Hao/WANG Liqin,MA Lin/MA Long,4,3,"11,11,6,9,9,11,11|8,1,11,11,11,5,7",F,GRAND_SLAM,MD,804,Main Draw,WANG Hao (CHN) / WANG Liqin (CHN),MA Lin (CHN) / MA Long (CHN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,FEJER-KONNERTH Zoltan/HIELSCHER Lars,FENG Xiaoquan/JANCARIK Lubomir,3,0,,QR32,GRAND_SLAM,MD,804,Qualification,FEJER-KONNERTH Zoltan (GER) / HIELSCHER Lars (GER),FENG Xiaoquan (AUT) / JANCARIK Lubomir (CZE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,DRINKHALL Paul/REED Daniel,CHEN Chien-An/WU Chih-Chi,3,2,"11,5,11,4,11|9,11,7,11,8",QR32,GRAND_SLAM,MD,804,Qualification,DRINKHALL Paul (ENG) / REED Daniel (ENG),CHEN Chien-An (TPE) / WU Chih-Chi (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,FEGERL Stefan/HABESOHN Daniel,OVTCHAROV Dimitrij/STEGER Bastian,3,1,"11,14,11,11|8,12,13,8",QR16,GRAND_SLAM,MD,804,Qualification,FEGERL Stefan (AUT) / HABESOHN Daniel (AUT),OVTCHAROV Dimitrij (GER) / STEGER Bastian (GER)
-Pro Tour VW Open Daejeon 2008,2008-05-29,KISHIKAWA Seiya/MIZUTANI Jun,FEJER-KONNERTH Zoltan/HIELSCHER Lars,4,2,"11,9,11,11,7,11|5,11,7,5,11,5",R16,GRAND_SLAM,MD,804,Main Draw,KISHIKAWA Seiya (JPN) / MIZUTANI Jun (JPN),FEJER-KONNERTH Zoltan (GER) / HIELSCHER Lars (GER)
-Pro Tour VW Open Daejeon 2008,2008-05-29,BOLL Timo/SUSS Christian,AL-HASAN Ibrahem/RUMGAY Gavin,4,0,,R16,GRAND_SLAM,MD,804,Main Draw,BOLL Timo (GER) / SUSS Christian (GER),AL-HASAN Ibrahem (KUW) / RUMGAY Gavin (SCO)
-Pro Tour VW Open Daejeon 2008,2008-05-29,MA Lin/MA Long,BOLL Timo/SUSS Christian,4,1,"11,11,4,15,11|4,8,11,13,4",QF,GRAND_SLAM,MD,804,Main Draw,MA Lin (CHN) / MA Long (CHN),BOLL Timo (GER) / SUSS Christian (GER)
-Pro Tour VW Open Daejeon 2008,2008-05-29,SHIMOYAMA Takanori/UEDA Jin,LEUNG Chu Yan/TSE Ka Chun,3,2,"11,5,11,10,11|3,11,7,12,5",QR32,GRAND_SLAM,MD,804,Qualification,SHIMOYAMA Takanori (JPN) / UEDA Jin (JPN),LEUNG Chu Yan (HKG) / TSE Ka Chun (HKG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,JIANG Tianyi/TANG Peng,KISHIKAWA Seiya/MIZUTANI Jun,4,1,"11,11,2,11,11|9,7,11,6,9",QF,GRAND_SLAM,MD,804,Main Draw,JIANG Tianyi (HKG) / TANG Peng (HKG),KISHIKAWA Seiya (JPN) / MIZUTANI Jun (JPN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,SHIMOYAMA Takanori/UEDA Jin,DRINKHALL Paul/REED Daniel,3,2,"11,7,11,5,11|8,11,9,11,7",QR16,GRAND_SLAM,MD,804,Qualification,SHIMOYAMA Takanori (JPN) / UEDA Jin (JPN),DRINKHALL Paul (ENG) / REED Daniel (ENG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,OH Sangeun/YOON Jaeyoung,SHIMOYAMA Takanori/UEDA Jin,4,3,"14,11,11,10,11,6,14|16,3,7,12,8,11,12",R16,GRAND_SLAM,MD,804,Main Draw,OH Sangeun (KOR) / YOON Jaeyoung (KOR),SHIMOYAMA Takanori (JPN) / UEDA Jin (JPN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,AL-HASAN Ibrahem/RUMGAY Gavin,JEOUNG Youngsik/LIM Jaehyun,3,0,"11,14,14|9,12,12",QR32,GRAND_SLAM,MD,804,Qualification,AL-HASAN Ibrahem (KUW) / RUMGAY Gavin (SCO),JEOUNG Youngsik (KOR) / LIM Jaehyun (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,JOO Saehyuk/LEE Jinkwon,GACINA Andrej/PRIMORAC Zoran,3,1,"12,9,11,12|10,11,5,10",QR16,GRAND_SLAM,MD,804,Qualification,JOO Saehyuk (KOR) / LEE Jinkwon (KOR),GACINA Andrej (CRO) / PRIMORAC Zoran (CRO)
-Pro Tour VW Open Daejeon 2008,2008-05-29,JIANG Tianyi/TANG Peng,LEE Jungwoo/RYU Seungmin,4,2,"11,11,3,11,9,11|9,8,11,7,11,9",R16,GRAND_SLAM,MD,804,Main Draw,JIANG Tianyi (HKG) / TANG Peng (HKG),LEE Jungwoo (KOR) / RYU Seungmin (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,MA Lin/MA Long,CHO Jihoon/KO Junhyung,4,0,,R16,GRAND_SLAM,MD,804,Main Draw,MA Lin (CHN) / MA Long (CHN),CHO Jihoon (KOR) / KO Junhyung (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,JIANG Tianyi/TANG Peng,APOLONIA Tiago/FREITAS Marcos,3,0,"11,11,11|9,7,9",QR32,GRAND_SLAM,MD,804,Qualification,JIANG Tianyi (HKG) / TANG Peng (HKG),APOLONIA Tiago (POR) / FREITAS Marcos (POR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,CHO Jihoon/KO Junhyung,BOBOCICA Mihai/MONTEIRO Joao,3,1,"11,8,11,11|5,11,8,8",QR32,GRAND_SLAM,MD,804,Qualification,CHO Jihoon (KOR) / KO Junhyung (KOR),BOBOCICA Mihai (ITA) / MONTEIRO Joao (POR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LI Kwun Ngai/SMIRNOV Alexey,EVANS Gavin/PITCHFORD Liam,3,0,"13,11,11|11,5,9",QR32,GRAND_SLAM,MD,804,Qualification,LI Kwun Ngai (HKG) / SMIRNOV Alexey (RUS),EVANS Gavin (ENG) / PITCHFORD Liam (ENG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,CHO Jihoon/KO Junhyung,LI Kwun Ngai/SMIRNOV Alexey,3,1,"11,11,5,11|4,7,11,4",QR16,GRAND_SLAM,MD,804,Qualification,CHO Jihoon (KOR) / KO Junhyung (KOR),LI Kwun Ngai (HKG) / SMIRNOV Alexey (RUS)
-Pro Tour VW Open Daejeon 2008,2008-05-29,AL-HASAN Ibrahem/RUMGAY Gavin,CAI Xiaoli/YANG Zi,3,1,"12,2,11,11|10,11,9,8",QR16,GRAND_SLAM,MD,804,Qualification,AL-HASAN Ibrahem (KUW) / RUMGAY Gavin (SCO),CAI Xiaoli (SGP) / YANG Zi (SGP)
-Pro Tour VW Open Daejeon 2008,2008-05-29,PERSSON Jon/TSUBOI Gustavo,LIU Zhongze/MA Liang,3,2,"11,6,12,11,11|5,11,14,7,9",QR32,GRAND_SLAM,MD,804,Qualification,PERSSON Jon (SWE) / TSUBOI Gustavo (BRA),LIU Zhongze (SGP) / MA Liang (SGP)
-Pro Tour VW Open Daejeon 2008,2008-05-29,HUANG Sheng-Sheng/CHIANG Hung-Chieh,CORDUE John/WALLACE Simon,3,0,,QR32,GRAND_SLAM,MD,804,Qualification,HUANG Sheng-Sheng (TPE) / CHIANG Hung-Chieh (TPE),CORDUE John (NZL) / WALLACE Simon (NZL)
-Pro Tour VW Open Daejeon 2008,2008-05-29,FEJER-KONNERTH Zoltan/HIELSCHER Lars,CHANG Yen-Shu/CHIANG Peng-Lung,3,1,"9,11,11,11|11,7,9,7",QR16,GRAND_SLAM,MD,804,Qualification,FEJER-KONNERTH Zoltan (GER) / HIELSCHER Lars (GER),CHANG Yen-Shu (TPE) / CHIANG Peng-Lung (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,JIANG Tianyi/TANG Peng,HUANG Sheng-Sheng/CHIANG Hung-Chieh,3,1,"11,11,9,11|8,8,11,7",QR16,GRAND_SLAM,MD,804,Qualification,JIANG Tianyi (HKG) / TANG Peng (HKG),HUANG Sheng-Sheng (TPE) / CHIANG Hung-Chieh (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,GACINA Andrej/PRIMORAC Zoran,JIANG Pengfei/MENGE Gencay,3,0,"11,11,11|4,8,9",QR32,GRAND_SLAM,MD,804,Qualification,GACINA Andrej (CRO) / PRIMORAC Zoran (CRO),JIANG Pengfei (TUR) / MENGE Gencay (TUR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Nan/LI Xiaoxia,HSU Hui-Tsun/LEE I-Chen,3,0,"11,11,11|3,6,6",QR16,GRAND_SLAM,WD,804,Qualification,WANG Nan (CHN) / LI Xiaoxia (CHN),HSU Hui-Tsun (TPE) / LEE I-Chen (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,GUO Yue/LIU Shiwen,STEFANOVA Nikoleta/TAN Wenling,4,0,"11,11,15,11|5,5,13,6",R16,GRAND_SLAM,WD,804,Main Draw,GUO Yue (CHN) / LIU Shiwen (CHN),STEFANOVA Nikoleta (ITA) / TAN Wenling (ITA)
-Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Nan/LI Xiaoxia,FUKUHARA Ai/HIRANO Sayaka,4,1,"10,11,11,11,11|12,6,6,6,6",QF,GRAND_SLAM,WD,804,Main Draw,WANG Nan (CHN) / LI Xiaoxia (CHN),FUKUHARA Ai (JPN) / HIRANO Sayaka (JPN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,GUO Yue/LIU Shiwen,SUN Jin/ZHANG Rui,4,1,"7,11,11,11,11|11,8,3,5,5",SF,GRAND_SLAM,WD,804,Main Draw,GUO Yue (CHN) / LIU Shiwen (CHN),SUN Jin (HKG) / ZHANG Rui (HKG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,GUO Yue/LIU Shiwen,WANG Nan/LI Xiaoxia,4,2,"8,11,7,11,11,15|11,5,11,5,7,13",F,GRAND_SLAM,WD,804,Main Draw,GUO Yue (CHN) / LIU Shiwen (CHN),WANG Nan (CHN) / LI Xiaoxia (CHN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,HEINE Veronika/LIU Jia,DRINKHALL Joanna/SIBLEY Kelly,3,0,"11,11,11|3,7,9",QR32,GRAND_SLAM,WD,804,Qualification,HEINE Veronika (AUT) / LIU Jia (AUT),DRINKHALL Joanna (ENG) / SIBLEY Kelly (ENG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,SUH Hyo Won/YOON Suwon,BARTHEL Zhenqi/WU Jiaduo,3,0,,QR32,GRAND_SLAM,WD,804,Qualification,SUH Hyo Won (KOR) / YOON Suwon (KOR),BARTHEL Zhenqi (GER) / WU Jiaduo (GER)
-Pro Tour VW Open Daejeon 2008,2008-05-29,HSU Hui-Tsun/LEE I-Chen,KERTAI Rita/YU Kwok See,3,2,"3,11,11,6,11|11,8,5,11,8",QR32,GRAND_SLAM,WD,804,Qualification,HSU Hui-Tsun (TPE) / LEE I-Chen (TPE),KERTAI Rita (HUN) / YU Kwok See (HKG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,SUN Jin/ZHANG Rui,KWAK Bangbang/MOON Hyunjung,3,1,"11,11,9,11|8,5,11,9",QR16,GRAND_SLAM,WD,804,Qualification,SUN Jin (HKG) / ZHANG Rui (HKG),KWAK Bangbang (KOR) / MOON Hyunjung (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,SUN Jin/ZHANG Rui,FENG Tianwei/LI Jiawei,4,3,"7,11,8,11,11,11,11|11,9,11,7,4,13,9",R16,GRAND_SLAM,WD,804,Main Draw,SUN Jin (HKG) / ZHANG Rui (HKG),FENG Tianwei (SGP) / LI Jiawei (SGP)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LI Jie/TIMINA Elena,LAU Sui Fei/LIN Ling,4,2,"12,11,7,11,12,13|10,5,11,2,14,11",R16,GRAND_SLAM,WD,804,Main Draw,LI Jie (NED) / TIMINA Elena (NED),LAU Sui Fei (HKG) / LIN Ling (HKG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,SUN Jin/ZHANG Rui,JIANG Huajun/TIE Yana,4,1,"11,11,11,9,11|4,5,5,11,7",QF,GRAND_SLAM,WD,804,Main Draw,SUN Jin (HKG) / ZHANG Rui (HKG),JIANG Huajun (HKG) / TIE Yana (HKG)
-Pro Tour VW Open Daejeon 2008,2008-05-29,CHO Hala/SHIM Serom,ETSUZAKI Ayumi/ISHIGAKI Yuka,3,1,"13,10,11,11|11,12,2,4",QR32,GRAND_SLAM,WD,804,Qualification,CHO Hala (KOR) / SHIM Serom (KOR),ETSUZAKI Ayumi (JPN) / ISHIGAKI Yuka (JPN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,ISHIKAWA Kasumi/TERUI Moemi,KOMWONG Nanthana/MUANGSUK Anisara,3,2,"11,7,6,11,11|9,11,11,8,5",QR32,GRAND_SLAM,WD,804,Qualification,ISHIKAWA Kasumi (JPN) / TERUI Moemi (JPN),KOMWONG Nanthana (THA) / MUANGSUK Anisara (THA)
-Pro Tour VW Open Daejeon 2008,2008-05-29,ISHIKAWA Kasumi/TERUI Moemi,DVORAK Galia/SHEN Yanfei,3,1,"11,11,5,12|6,9,11,10",QR16,GRAND_SLAM,WD,804,Qualification,ISHIKAWA Kasumi (JPN) / TERUI Moemi (JPN),DVORAK Galia (ESP) / SHEN Yanfei (ESP)
-Pro Tour VW Open Daejeon 2008,2008-05-29,KIM Junghyun/KO Somi,CHENG I-Ching/PAN Chun-Chu,3,0,"11,11,11|6,8,3",QR32,GRAND_SLAM,WD,804,Qualification,KIM Junghyun (KOR) / KO Somi (KOR),CHENG I-Ching (TPE) / PAN Chun-Chu (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,DANG Yeseo/LEE Eunhee,NONAKA Mariany/YAMADA Jessica,3,1,"12,11,11,11|14,5,2,7",QR32,GRAND_SLAM,WD,804,Qualification,DANG Yeseo (KOR) / LEE Eunhee (KOR),NONAKA Mariany (BRA) / YAMADA Jessica (BRA)
-Pro Tour VW Open Daejeon 2008,2008-05-29,KIM Junghyun/KO Somi,SCHALL Elke/ZHU Fang,3,0,"11,11,12|5,7,10",QR16,GRAND_SLAM,WD,804,Qualification,KIM Junghyun (KOR) / KO Somi (KOR),SCHALL Elke (GER) / ZHU Fang (ESP)
-Pro Tour VW Open Daejeon 2008,2008-05-29,JIANG Huajun/TIE Yana,CHO Hala/SHIM Serom,3,1,"11,10,11,11|5,12,5,7",QR16,GRAND_SLAM,WD,804,Qualification,JIANG Huajun (HKG) / TIE Yana (HKG),CHO Hala (KOR) / SHIM Serom (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,SUH Hyo Won/YOON Suwon,HEINE Veronika/LIU Jia,3,0,"11,11,11|9,6,4",QR16,GRAND_SLAM,WD,804,Qualification,SUH Hyo Won (KOR) / YOON Suwon (KOR),HEINE Veronika (AUT) / LIU Jia (AUT)
-Pro Tour VW Open Daejeon 2008,2008-05-29,GUO Yue/LIU Shiwen,DANG Yeseo/LEE Eunhee,3,1,"11,14,9,11|3,12,11,5",QR16,GRAND_SLAM,WD,804,Qualification,GUO Yue (CHN) / LIU Shiwen (CHN),DANG Yeseo (KOR) / LEE Eunhee (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,KIM Kyungah/PARK Miyoung,ISHIKAWA Kasumi/TERUI Moemi,4,1,"11,11,11,11,11|13,6,5,5,6",R16,GRAND_SLAM,WD,804,Main Draw,KIM Kyungah (KOR) / PARK Miyoung (KOR),ISHIKAWA Kasumi (JPN) / TERUI Moemi (JPN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,FAN Ying/GUO Yan (1982),KIM Junghyun/KO Somi,4,0,"11,11,11,11|6,4,7,8",R16,GRAND_SLAM,WD,804,Main Draw,FAN Ying (CHN) / GUO Yan (1982) (CHN),KIM Junghyun (KOR) / KO Somi (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,FUKUHARA Ai/HIRANO Sayaka,SUH Hyo Won/YOON Suwon,4,0,"11,11,11,11|7,5,7,8",R16,GRAND_SLAM,WD,804,Main Draw,FUKUHARA Ai (JPN) / HIRANO Sayaka (JPN),SUH Hyo Won (KOR) / YOON Suwon (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,GUO Yue/LIU Shiwen,KIM Kyungah/PARK Miyoung,4,3,"11,7,7,11,11,9,11|6,11,11,9,5,11,5",QF,GRAND_SLAM,WD,804,Main Draw,GUO Yue (CHN) / LIU Shiwen (CHN),KIM Kyungah (KOR) / PARK Miyoung (KOR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LI Jie/TIMINA Elena,FAN Ying/GUO Yan (1982),4,2,"11,11,5,7,11,11|7,8,11,11,4,8",QF,GRAND_SLAM,WD,804,Main Draw,LI Jie (NED) / TIMINA Elena (NED),FAN Ying (CHN) / GUO Yan (1982) (CHN)
-Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Nan/LI Xiaoxia,LI Jie/TIMINA Elena,4,2,"9,3,11,11,11,12|11,11,9,5,5,10",SF,GRAND_SLAM,WD,804,Main Draw,WANG Nan (CHN) / LI Xiaoxia (CHN),LI Jie (NED) / TIMINA Elena (NED)
-Pro Tour VW Open Daejeon 2008,2008-05-29,JIANG Huajun/TIE Yana,DODEAN Daniela/SAMARA Elizabeta,4,0,"11,11,11,11|7,6,6,6",R16,GRAND_SLAM,WD,804,Main Draw,JIANG Huajun (HKG) / TIE Yana (HKG),DODEAN Daniela (ROU) / SAMARA Elizabeta (ROU)
-Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Nan/LI Xiaoxia,SUN Beibei/YU Mengyu,4,2,"11,8,11,12,10,11|9,11,5,10,12,4",R16,GRAND_SLAM,WD,804,Main Draw,WANG Nan (CHN) / LI Xiaoxia (CHN),SUN Beibei (SGP) / YU Mengyu (SGP)
-Pro Tour VW Open Daejeon 2008,2008-05-29,KWAK Bangbang/MOON Hyunjung,CHEN Yu-Lin/YU Mei-Ju,3,0,,QR32,GRAND_SLAM,WD,804,Qualification,KWAK Bangbang (KOR) / MOON Hyunjung (KOR),CHEN Yu-Lin (TPE) / YU Mei-Ju (TPE)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LI Jie/TIMINA Elena,ALI Meral Ildiz/HU Melek,3,0,"11,11,11|6,6,1",QR32,GRAND_SLAM,WD,804,Qualification,LI Jie (NED) / TIMINA Elena (NED),ALI Meral Ildiz (TUR) / HU Melek (TUR)
-Pro Tour VW Open Daejeon 2008,2008-05-29,LI Jie/TIMINA Elena,GAO Jun/HUANG Crystal Xi,3,2,"10,11,4,11,11|12,9,11,6,7",QR16,GRAND_SLAM,WD,804,Qualification,LI Jie (NED) / TIMINA Elena (NED),GAO Jun (USA) / HUANG Crystal Xi (USA)
-Pro Tour VW Open Daejeon 2008,2008-05-29,SCHALL Elke/ZHU Fang,YILDIRIM Fulya/OWEN Naomi,3,0,"11,13,12|3,11,10",QR32,GRAND_SLAM,WD,804,Qualification,SCHALL Elke (GER) / ZHU Fang (ESP),YILDIRIM Fulya (TUR) / OWEN Naomi (WAL)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Pro Tour VW Open Daejeon 2008,2008-05-29,XU Hui,GUO Yi Teng,4,0,"11,11,11,11|4,3,9,4",,GRAND_SLAM,MS,804,Qualification,XU Hui (CHN),GUO Yi Teng (SGP),XU Hui
+Pro Tour VW Open Daejeon 2008,2008-05-29,XU Hui,RUMGAY Gavin,4,1,"11,11,11,8,11|6,5,5,11,7",,GRAND_SLAM,MS,804,Qualification,XU Hui (CHN),RUMGAY Gavin (SCO),XU Hui
+Pro Tour VW Open Daejeon 2008,2008-05-29,RUMGAY Gavin,GUO Yi Teng,4,0,"11,11,11,11|9,9,3,5",,GRAND_SLAM,MS,804,Qualification,RUMGAY Gavin (SCO),GUO Yi Teng (SGP),RUMGAY Gavin
+Pro Tour VW Open Daejeon 2008,2008-05-29,FEJER-KONNERTH Zoltan,JIANG Pengfei,4,2,"10,11,9,12,11,11|12,6,11,10,6,3",,GRAND_SLAM,MS,804,Qualification,FEJER-KONNERTH Zoltan (GER),JIANG Pengfei (TUR),FEJER-KONNERTH Zoltan
+Pro Tour VW Open Daejeon 2008,2008-05-29,FEJER-KONNERTH Zoltan,CHEN Chien-An,4,1,"11,11,11,9,11|5,9,8,11,9",,GRAND_SLAM,MS,804,Qualification,FEJER-KONNERTH Zoltan (GER),CHEN Chien-An (TPE),FEJER-KONNERTH Zoltan
+Pro Tour VW Open Daejeon 2008,2008-05-29,JIANG Pengfei,CHEN Chien-An,4,1,"11,13,11,9,11|8,11,4,11,7",,GRAND_SLAM,MS,804,Qualification,JIANG Pengfei (TUR),CHEN Chien-An (TPE),JIANG Pengfei
+Pro Tour VW Open Daejeon 2008,2008-05-29,FEGERL Stefan,CHANG Yen-Shu,4,2,"11,13,11,11,8,11|4,15,5,7,11,8",,GRAND_SLAM,MS,804,Qualification,FEGERL Stefan (AUT),CHANG Yen-Shu (TPE),FEGERL Stefan
+Pro Tour VW Open Daejeon 2008,2008-05-29,CHANG Yen-Shu,AL-HASAN Ibrahem,4,3,"9,11,8,11,13,8,11|11,4,11,5,11,11,5",,GRAND_SLAM,MS,804,Qualification,CHANG Yen-Shu (TPE),AL-HASAN Ibrahem (KUW),CHANG Yen-Shu
+Pro Tour VW Open Daejeon 2008,2008-05-29,FEGERL Stefan,AL-HASAN Ibrahem,4,3,"8,11,9,11,4,11,11|11,3,11,9,11,8,7",,GRAND_SLAM,MS,804,Qualification,FEGERL Stefan (AUT),AL-HASAN Ibrahem (KUW),FEGERL Stefan
+Pro Tour VW Open Daejeon 2008,2008-05-29,HIELSCHER Lars,GOLOVANOV Stanislav,4,2,"11,11,9,9,13,12|2,4,11,11,11,10",,GRAND_SLAM,MS,804,Qualification,HIELSCHER Lars (GER),GOLOVANOV Stanislav (BUL),HIELSCHER Lars
+Pro Tour VW Open Daejeon 2008,2008-05-29,HIELSCHER Lars,FENG Xiaoquan,4,0,"11,11,11,11|7,1,0,0",,GRAND_SLAM,MS,804,Qualification,HIELSCHER Lars (GER),FENG Xiaoquan (AUT),HIELSCHER Lars
+Pro Tour VW Open Daejeon 2008,2008-05-29,GOLOVANOV Stanislav,FENG Xiaoquan,4,0,,,GRAND_SLAM,MS,804,Qualification,GOLOVANOV Stanislav (BUL),FENG Xiaoquan (AUT),GOLOVANOV Stanislav
+Pro Tour VW Open Daejeon 2008,2008-05-29,CHIANG Hung-Chieh,JEOUNG Youngsik,4,2,"11,4,11,7,11,11|7,11,4,11,9,6",,GRAND_SLAM,MS,804,Qualification,CHIANG Hung-Chieh (TPE),JEOUNG Youngsik (KOR),CHIANG Hung-Chieh
+Pro Tour VW Open Daejeon 2008,2008-05-29,CHIANG Hung-Chieh,SHIMOYAMA Takanori,4,1,"7,11,11,11,12|11,9,6,6,10",,GRAND_SLAM,MS,804,Qualification,CHIANG Hung-Chieh (TPE),SHIMOYAMA Takanori (JPN),CHIANG Hung-Chieh
+Pro Tour VW Open Daejeon 2008,2008-05-29,SHIMOYAMA Takanori,JEOUNG Youngsik,4,2,"11,11,2,11,5,11|8,6,11,7,11,3",,GRAND_SLAM,MS,804,Qualification,SHIMOYAMA Takanori (JPN),JEOUNG Youngsik (KOR),SHIMOYAMA Takanori
+Pro Tour VW Open Daejeon 2008,2008-05-29,TSE Ka Chun,APOLONIA Tiago,4,2,"11,11,3,6,12,11|9,9,11,11,10,9",,GRAND_SLAM,MS,804,Qualification,TSE Ka Chun (HKG),APOLONIA Tiago (POR),TSE Ka Chun
+Pro Tour VW Open Daejeon 2008,2008-05-29,KO Junhyung,APOLONIA Tiago,4,3,"2,13,11,11,5,9,11|11,11,9,3,11,11,8",,GRAND_SLAM,MS,804,Qualification,KO Junhyung (KOR),APOLONIA Tiago (POR),KO Junhyung
+Pro Tour VW Open Daejeon 2008,2008-05-29,KO Junhyung,TSE Ka Chun,4,2,"11,11,13,4,5,11|9,7,11,11,11,9",,GRAND_SLAM,MS,804,Qualification,KO Junhyung (KOR),TSE Ka Chun (HKG),KO Junhyung
+Pro Tour VW Open Daejeon 2008,2008-05-29,UEDA Jin,LEE Jinkwon,4,1,"11,11,6,11,12|4,6,11,9,10",,GRAND_SLAM,MS,804,Qualification,UEDA Jin (JPN),LEE Jinkwon (KOR),UEDA Jin
+Pro Tour VW Open Daejeon 2008,2008-05-29,LEE Jinkwon,HUANG Sheng-Sheng,4,1,"12,7,11,11,11|10,11,8,9,5",,GRAND_SLAM,MS,804,Qualification,LEE Jinkwon (KOR),HUANG Sheng-Sheng (TPE),LEE Jinkwon
+Pro Tour VW Open Daejeon 2008,2008-05-29,HUANG Sheng-Sheng,UEDA Jin,4,0,"11,11,11,12|8,6,9,10",,GRAND_SLAM,MS,804,Qualification,HUANG Sheng-Sheng (TPE),UEDA Jin (JPN),HUANG Sheng-Sheng
+Pro Tour VW Open Daejeon 2008,2008-05-29,GACINA Andrej,MENGE Gencay,4,0,"11,12,11,11|5,10,3,6",,GRAND_SLAM,MS,804,Qualification,GACINA Andrej (CRO),MENGE Gencay (TUR),GACINA Andrej
+Pro Tour VW Open Daejeon 2008,2008-05-29,DRINKHALL Paul,GACINA Andrej,4,3,"13,7,16,11,3,8,11|11,11,14,7,11,11,7",,GRAND_SLAM,MS,804,Qualification,DRINKHALL Paul (ENG),GACINA Andrej (CRO),DRINKHALL Paul
+Pro Tour VW Open Daejeon 2008,2008-05-29,DRINKHALL Paul,MENGE Gencay,4,1,"10,11,11,11,11|12,8,3,2,9",,GRAND_SLAM,MS,804,Qualification,DRINKHALL Paul (ENG),MENGE Gencay (TUR),DRINKHALL Paul
+Pro Tour VW Open Daejeon 2008,2008-05-29,BOBOCICA Mihai,REED Daniel,4,1,"11,9,11,11,12|6,11,6,8,10",,GRAND_SLAM,MS,804,Qualification,BOBOCICA Mihai (ITA),REED Daniel (ENG),BOBOCICA Mihai
+Pro Tour VW Open Daejeon 2008,2008-05-29,BOBOCICA Mihai,PERSSON Jon,4,2,"5,11,11,11,9,11|11,8,8,7,11,6",,GRAND_SLAM,MS,804,Qualification,BOBOCICA Mihai (ITA),PERSSON Jon (SWE),BOBOCICA Mihai
+Pro Tour VW Open Daejeon 2008,2008-05-29,PERSSON Jon,REED Daniel,4,3,"8,11,12,11,11,7,11|11,4,14,9,8,11,5",,GRAND_SLAM,MS,804,Qualification,PERSSON Jon (SWE),REED Daniel (ENG),PERSSON Jon
+Pro Tour VW Open Daejeon 2008,2008-05-29,FREITAS Marcos,LI Kwun Ngai,4,2,"9,4,13,11,11,11|11,11,11,2,6,9",,GRAND_SLAM,MS,804,Qualification,FREITAS Marcos (POR),LI Kwun Ngai (HKG),FREITAS Marcos
+Pro Tour VW Open Daejeon 2008,2008-05-29,FREITAS Marcos,JANCARIK Lubomir,4,0,,,GRAND_SLAM,MS,804,Qualification,FREITAS Marcos (POR),JANCARIK Lubomir (CZE),FREITAS Marcos
+Pro Tour VW Open Daejeon 2008,2008-05-29,LI Kwun Ngai,JANCARIK Lubomir,4,0,,,GRAND_SLAM,MS,804,Qualification,LI Kwun Ngai (HKG),JANCARIK Lubomir (CZE),LI Kwun Ngai
+Pro Tour VW Open Daejeon 2008,2008-05-29,CHO Jihoon,EVANS Gavin,4,0,"11,11,11,11|7,5,8,6",,GRAND_SLAM,MS,804,Qualification,CHO Jihoon (KOR),EVANS Gavin (ENG),CHO Jihoon
+Pro Tour VW Open Daejeon 2008,2008-05-29,CHO Jihoon,TSUBOGUCHI Michikazu,4,3,"11,12,9,11,7,9,13|5,10,11,5,11,11,11",,GRAND_SLAM,MS,804,Qualification,CHO Jihoon (KOR),TSUBOGUCHI Michikazu (JPN),CHO Jihoon
+Pro Tour VW Open Daejeon 2008,2008-05-29,TSUBOGUCHI Michikazu,EVANS Gavin,4,0,"11,11,11,11|3,8,8,7",,GRAND_SLAM,MS,804,Qualification,TSUBOGUCHI Michikazu (JPN),EVANS Gavin (ENG),TSUBOGUCHI Michikazu
+Pro Tour VW Open Daejeon 2008,2008-05-29,HABESOHN Daniel,WALLACE Simon,4,0,,,GRAND_SLAM,MS,804,Qualification,HABESOHN Daniel (AUT),WALLACE Simon (NZL),HABESOHN Daniel
+Pro Tour VW Open Daejeon 2008,2008-05-29,HABESOHN Daniel,CAI Xiaoli,4,1,"11,7,14,11,11|5,11,12,7,8",,GRAND_SLAM,MS,804,Qualification,HABESOHN Daniel (AUT),CAI Xiaoli (SGP),HABESOHN Daniel
+Pro Tour VW Open Daejeon 2008,2008-05-29,CAI Xiaoli,WALLACE Simon,4,0,,,GRAND_SLAM,MS,804,Qualification,CAI Xiaoli (SGP),WALLACE Simon (NZL),CAI Xiaoli
+Pro Tour VW Open Daejeon 2008,2008-05-29,LIU Zhongze,PITCHFORD Liam,4,0,"12,11,11,11|10,3,6,6",,GRAND_SLAM,MS,804,Qualification,LIU Zhongze (SGP),PITCHFORD Liam (ENG),LIU Zhongze
+Pro Tour VW Open Daejeon 2008,2008-05-29,ZENG Cem,LIU Zhongze,4,0,"11,11,11,12|8,6,8,10",,GRAND_SLAM,MS,804,Qualification,ZENG Cem (TUR),LIU Zhongze (SGP),ZENG Cem
+Pro Tour VW Open Daejeon 2008,2008-05-29,ZENG Cem,PITCHFORD Liam,4,1,"11,11,7,11,12|7,9,11,5,10",,GRAND_SLAM,MS,804,Qualification,ZENG Cem (TUR),PITCHFORD Liam (ENG),ZENG Cem
+Pro Tour VW Open Daejeon 2008,2008-05-29,MA Liang,CORDUE John,4,0,,,GRAND_SLAM,MS,804,Qualification,MA Liang (SGP),CORDUE John (NZL),MA Liang
+Pro Tour VW Open Daejeon 2008,2008-05-29,MA Liang,TSUBOI Gustavo,4,1,"11,7,11,11,11|6,11,3,9,9",,GRAND_SLAM,MS,804,Qualification,MA Liang (SGP),TSUBOI Gustavo (BRA),MA Liang
+Pro Tour VW Open Daejeon 2008,2008-05-29,TSUBOI Gustavo,CORDUE John,4,0,,,GRAND_SLAM,MS,804,Qualification,TSUBOI Gustavo (BRA),CORDUE John (NZL),TSUBOI Gustavo
+Pro Tour VW Open Daejeon 2008,2008-05-29,UEDA Jin,FENG Xiaoquan,4,0,,,GRAND_SLAM,U21MS,804,Qualification,UEDA Jin (JPN),FENG Xiaoquan (AUT),UEDA Jin
+Pro Tour VW Open Daejeon 2008,2008-05-29,JEOUNG Youngsik,FENG Xiaoquan,4,0,,,GRAND_SLAM,U21MS,804,Qualification,JEOUNG Youngsik (KOR),FENG Xiaoquan (AUT),JEOUNG Youngsik
+Pro Tour VW Open Daejeon 2008,2008-05-29,JEOUNG Youngsik,UEDA Jin,3,0,"11,11,11|9,6,4",,GRAND_SLAM,U21MS,804,Qualification,JEOUNG Youngsik (KOR),UEDA Jin (JPN),JEOUNG Youngsik
+Pro Tour VW Open Daejeon 2008,2008-05-29,CHEN Chien-An,REED Daniel,3,1,"10,14,11,11|12,12,8,7",,GRAND_SLAM,U21MS,804,Qualification,CHEN Chien-An (TPE),REED Daniel (ENG),CHEN Chien-An
+Pro Tour VW Open Daejeon 2008,2008-05-29,CHEN Chien-An,SHEN Qiang,4,0,,,GRAND_SLAM,U21MS,804,Qualification,CHEN Chien-An (TPE),SHEN Qiang (CAN),CHEN Chien-An
+Pro Tour VW Open Daejeon 2008,2008-05-29,REED Daniel,SHEN Qiang,4,0,,,GRAND_SLAM,U21MS,804,Qualification,REED Daniel (ENG),SHEN Qiang (CAN),REED Daniel
+Pro Tour VW Open Daejeon 2008,2008-05-29,MENGE Gencay,GUO Yi Teng,3,2,"11,5,11,11,12|13,11,9,8,10",,GRAND_SLAM,U21MS,804,Qualification,MENGE Gencay (TUR),GUO Yi Teng (SGP),MENGE Gencay
+Pro Tour VW Open Daejeon 2008,2008-05-29,GOLOVANOV Stanislav,PITCHFORD Liam,3,1,"11,11,12,11|9,7,14,7",,GRAND_SLAM,U21MS,804,Qualification,GOLOVANOV Stanislav (BUL),PITCHFORD Liam (ENG),GOLOVANOV Stanislav
+Pro Tour VW Open Daejeon 2008,2008-05-29,GUO Yi Teng,GOLOVANOV Stanislav,3,2,"11,6,5,11,11|9,11,11,9,9",,GRAND_SLAM,U21MS,804,Qualification,GUO Yi Teng (SGP),GOLOVANOV Stanislav (BUL),GUO Yi Teng
+Pro Tour VW Open Daejeon 2008,2008-05-29,PITCHFORD Liam,MENGE Gencay,3,2,"9,11,11,14,11|11,4,8,16,8",,GRAND_SLAM,U21MS,804,Qualification,PITCHFORD Liam (ENG),MENGE Gencay (TUR),PITCHFORD Liam
+Pro Tour VW Open Daejeon 2008,2008-05-29,GUO Yi Teng,PITCHFORD Liam,3,1,"10,11,13,11|12,8,11,9",,GRAND_SLAM,U21MS,804,Qualification,GUO Yi Teng (SGP),PITCHFORD Liam (ENG),GUO Yi Teng
+Pro Tour VW Open Daejeon 2008,2008-05-29,MENGE Gencay,GOLOVANOV Stanislav,3,1,"11,11,6,11|2,6,11,8",,GRAND_SLAM,U21MS,804,Qualification,MENGE Gencay (TUR),GOLOVANOV Stanislav (BUL),MENGE Gencay
+Pro Tour VW Open Daejeon 2008,2008-05-29,LI Kwun Ngai,JIANG Pengfei,3,1,"11,4,11,11|9,11,9,4",,GRAND_SLAM,U21MS,804,Qualification,LI Kwun Ngai (HKG),JIANG Pengfei (TUR),LI Kwun Ngai
+Pro Tour VW Open Daejeon 2008,2008-05-29,FEGERL Stefan,EVANS Gavin,3,0,"11,11,11|9,7,5",,GRAND_SLAM,U21MS,804,Qualification,FEGERL Stefan (AUT),EVANS Gavin (ENG),FEGERL Stefan
+Pro Tour VW Open Daejeon 2008,2008-05-29,FEGERL Stefan,JIANG Pengfei,3,1,"10,11,11,16|12,3,9,14",,GRAND_SLAM,U21MS,804,Qualification,FEGERL Stefan (AUT),JIANG Pengfei (TUR),FEGERL Stefan
+Pro Tour VW Open Daejeon 2008,2008-05-29,LI Kwun Ngai,EVANS Gavin,3,2,"11,8,11,6,11|3,11,4,11,2",,GRAND_SLAM,U21MS,804,Qualification,LI Kwun Ngai (HKG),EVANS Gavin (ENG),LI Kwun Ngai
+Pro Tour VW Open Daejeon 2008,2008-05-29,JIANG Pengfei,EVANS Gavin,3,0,"11,14,11|9,12,7",,GRAND_SLAM,U21MS,804,Qualification,JIANG Pengfei (TUR),EVANS Gavin (ENG),JIANG Pengfei
+Pro Tour VW Open Daejeon 2008,2008-05-29,LI Kwun Ngai,FEGERL Stefan,3,2,"11,10,11,10,11|8,12,8,12,8",,GRAND_SLAM,U21MS,804,Qualification,LI Kwun Ngai (HKG),FEGERL Stefan (AUT),LI Kwun Ngai
+Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Hao,PITCHFORD Liam,4,0,"11,11,11,11|4,6,6,4",R64,GRAND_SLAM,MS,804,Main Draw,WANG Hao (CHN),PITCHFORD Liam (ENG),WANG Hao
+Pro Tour VW Open Daejeon 2008,2008-05-29,YOON Jaeyoung,FEJER-KONNERTH Zoltan,4,2,"14,9,11,11,6,11|12,11,8,8,11,8",R64,GRAND_SLAM,MS,804,Main Draw,YOON Jaeyoung (KOR),FEJER-KONNERTH Zoltan (GER),YOON Jaeyoung
+Pro Tour VW Open Daejeon 2008,2008-05-29,LEE Jungwoo,HUANG Sheng-Sheng,4,2,"11,8,7,11,11,11|8,11,11,9,9,2",R64,GRAND_SLAM,MS,804,Main Draw,LEE Jungwoo (KOR),HUANG Sheng-Sheng (TPE),LEE Jungwoo
+Pro Tour VW Open Daejeon 2008,2008-05-29,LEE Jinkwon,TANG Peng,4,3,"5,9,11,3,12,11,11|11,11,9,11,10,9,6",R64,GRAND_SLAM,MS,804,Main Draw,LEE Jinkwon (KOR),TANG Peng (HKG),LEE Jinkwon
+Pro Tour VW Open Daejeon 2008,2008-05-29,JOO Saehyuk,TSUBOGUCHI Michikazu,4,2,"13,9,11,10,11,11|11,11,6,12,3,7",R64,GRAND_SLAM,MS,804,Main Draw,JOO Saehyuk (KOR),TSUBOGUCHI Michikazu (JPN),JOO Saehyuk
+Pro Tour VW Open Daejeon 2008,2008-05-29,SUSS Christian,TSUBOI Gustavo,4,1,"15,11,6,11,11|13,9,11,3,9",R64,GRAND_SLAM,MS,804,Main Draw,SUSS Christian (GER),TSUBOI Gustavo (BRA),SUSS Christian
+Pro Tour VW Open Daejeon 2008,2008-05-29,WU Chih-Chi,FEGERL Stefan,4,1,"3,11,12,11,11|11,9,10,6,9",R64,GRAND_SLAM,MS,804,Main Draw,WU Chih-Chi (TPE),FEGERL Stefan (AUT),WU Chih-Chi
+Pro Tour VW Open Daejeon 2008,2008-05-29,RYU Seungmin,LIU Zhongze,4,1,"5,11,11,11,11|11,3,7,9,8",R64,GRAND_SLAM,MS,804,Main Draw,RYU Seungmin (KOR),LIU Zhongze (SGP),RYU Seungmin
+Pro Tour VW Open Daejeon 2008,2008-05-29,OH Sangeun,CHANG Yen-Shu,4,1,"11,12,5,11,11|8,10,11,6,8",R64,GRAND_SLAM,MS,804,Main Draw,OH Sangeun (KOR),CHANG Yen-Shu (TPE),OH Sangeun
+Pro Tour VW Open Daejeon 2008,2008-05-29,CHEUNG Yuk,FREITAS Marcos,4,2,"5,11,9,11,11,11|11,5,11,8,5,9",R64,GRAND_SLAM,MS,804,Main Draw,CHEUNG Yuk (HKG),FREITAS Marcos (POR),CHEUNG Yuk
+Pro Tour VW Open Daejeon 2008,2008-05-29,LIM Jaehyun,HABESOHN Daniel,4,3,"11,9,8,11,14,10,12|7,11,11,5,12,12,10",R64,GRAND_SLAM,MS,804,Main Draw,LIM Jaehyun (KOR),HABESOHN Daniel (AUT),LIM Jaehyun
+Pro Tour VW Open Daejeon 2008,2008-05-29,YANG Zi,SHIMOYAMA Takanori,4,1,"6,11,11,11,11|11,8,5,6,5",R64,GRAND_SLAM,MS,804,Main Draw,YANG Zi (SGP),SHIMOYAMA Takanori (JPN),YANG Zi
+Pro Tour VW Open Daejeon 2008,2008-05-29,KAN Yo,JIANG Pengfei,4,1,"8,11,11,11,11|11,9,6,3,3",R64,GRAND_SLAM,MS,804,Main Draw,KAN Yo (JPN),JIANG Pengfei (TUR),KAN Yo
+Pro Tour VW Open Daejeon 2008,2008-05-29,STEGER Bastian,MA Liang,4,1,"11,12,9,11,11|7,10,11,9,2",R64,GRAND_SLAM,MS,804,Main Draw,STEGER Bastian (GER),MA Liang (SGP),STEGER Bastian
+Pro Tour VW Open Daejeon 2008,2008-05-29,PRIMORAC Zoran,KO Junhyung,4,2,"11,12,5,11,11,11|8,14,11,5,0,0",R64,GRAND_SLAM,MS,804,Main Draw,PRIMORAC Zoran (CRO),KO Junhyung (KOR),PRIMORAC Zoran
+Pro Tour VW Open Daejeon 2008,2008-05-29,MA Long,REED Daniel,4,0,"11,11,11,11|6,8,8,8",R64,GRAND_SLAM,MS,804,Main Draw,MA Long (CHN),REED Daniel (ENG),MA Long
+Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Liqin,MENGE Gencay,4,0,"11,11,11,11|5,1,3,1",R64,GRAND_SLAM,MS,804,Main Draw,WANG Liqin (CHN),MENGE Gencay (TUR),WANG Liqin
+Pro Tour VW Open Daejeon 2008,2008-05-29,KISHIKAWA Seiya,XU Hui,4,1,"11,13,12,9,13|4,11,10,11,11",R64,GRAND_SLAM,MS,804,Main Draw,KISHIKAWA Seiya (JPN),XU Hui (CHN),KISHIKAWA Seiya
+Pro Tour VW Open Daejeon 2008,2008-05-29,BOBOCICA Mihai,MONTEIRO Joao,4,1,"11,11,11,6,12|9,9,6,11,10",R64,GRAND_SLAM,MS,804,Main Draw,BOBOCICA Mihai (ITA),MONTEIRO Joao (POR),BOBOCICA Mihai
+Pro Tour VW Open Daejeon 2008,2008-05-29,OVTCHAROV Dimitrij,GOLOVANOV Stanislav,4,1,"11,8,11,11,11|5,11,7,8,9",R64,GRAND_SLAM,MS,804,Main Draw,OVTCHAROV Dimitrij (GER),GOLOVANOV Stanislav (BUL),OVTCHAROV Dimitrij
+Pro Tour VW Open Daejeon 2008,2008-05-29,MIZUTANI Jun,LI Kwun Ngai,4,1,"11,11,9,12,11|8,6,11,10,9",R64,GRAND_SLAM,MS,804,Main Draw,MIZUTANI Jun (JPN),LI Kwun Ngai (HKG),MIZUTANI Jun
+Pro Tour VW Open Daejeon 2008,2008-05-29,LEE Jungsam,CHIANG Hung-Chieh,4,0,"13,11,11,11|11,8,9,7",R64,GRAND_SLAM,MS,804,Main Draw,LEE Jungsam (KOR),CHIANG Hung-Chieh (TPE),LEE Jungsam
+Pro Tour VW Open Daejeon 2008,2008-05-29,JIANG Tianyi,HIELSCHER Lars,4,2,"10,11,11,11,7,11|12,8,6,2,11,4",R64,GRAND_SLAM,MS,804,Main Draw,JIANG Tianyi (HKG),HIELSCHER Lars (GER),JIANG Tianyi
+Pro Tour VW Open Daejeon 2008,2008-05-29,BOLL Timo,PERSSON Jon,4,1,"11,11,6,11,11|5,9,11,5,7",R64,GRAND_SLAM,MS,804,Main Draw,BOLL Timo (GER),PERSSON Jon (SWE),BOLL Timo
+Pro Tour VW Open Daejeon 2008,2008-05-29,CHEN Qi,TSE Ka Chun,4,1,"11,10,11,11,11|4,12,4,2,3",R64,GRAND_SLAM,MS,804,Main Draw,CHEN Qi (CHN),TSE Ka Chun (HKG),CHEN Qi
+Pro Tour VW Open Daejeon 2008,2008-05-29,CHIANG Peng-Lung,DRINKHALL Paul,4,2,"12,10,11,11,6,11|10,12,7,7,11,9",R64,GRAND_SLAM,MS,804,Main Draw,CHIANG Peng-Lung (TPE),DRINKHALL Paul (ENG),CHIANG Peng-Lung
+Pro Tour VW Open Daejeon 2008,2008-05-29,KIM Junghoon,ZENG Cem,4,0,"11,11,11,11|5,7,5,2",R64,GRAND_SLAM,MS,804,Main Draw,KIM Junghoon (KOR),ZENG Cem (TUR),KIM Junghoon
+Pro Tour VW Open Daejeon 2008,2008-05-29,GACINA Andrej,KO Lai Chak,4,3,"13,5,7,11,11,11,11|11,11,11,13,8,7,4",R64,GRAND_SLAM,MS,804,Main Draw,GACINA Andrej (CRO),KO Lai Chak (HKG),GACINA Andrej
+Pro Tour VW Open Daejeon 2008,2008-05-29,SCHLAGER Werner,CAI Xiaoli,4,1,"11,7,11,11,12|8,11,6,3,10",R64,GRAND_SLAM,MS,804,Main Draw,SCHLAGER Werner (AUT),CAI Xiaoli (SGP),SCHLAGER Werner
+Pro Tour VW Open Daejeon 2008,2008-05-29,LEUNG Chu Yan,CHO Jihoon,4,0,"11,11,11,12|8,6,5,10",R64,GRAND_SLAM,MS,804,Main Draw,LEUNG Chu Yan (HKG),CHO Jihoon (KOR),LEUNG Chu Yan
+Pro Tour VW Open Daejeon 2008,2008-05-29,SMIRNOV Alexey,RUMGAY Gavin,4,1,"11,11,8,14,11|4,6,11,12,8",R64,GRAND_SLAM,MS,804,Main Draw,SMIRNOV Alexey (RUS),RUMGAY Gavin (SCO),SMIRNOV Alexey
+Pro Tour VW Open Daejeon 2008,2008-05-29,MA Lin,AL-HASAN Ibrahem,4,0,"11,11,11,11|6,6,5,8",R64,GRAND_SLAM,MS,804,Main Draw,MA Lin (CHN),AL-HASAN Ibrahem (KUW),MA Lin
+Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Hao,YOON Jaeyoung,4,1,"11,9,11,14,11|5,11,8,12,6",R32,GRAND_SLAM,MS,804,Main Draw,WANG Hao (CHN),YOON Jaeyoung (KOR),WANG Hao
+Pro Tour VW Open Daejeon 2008,2008-05-29,LEE Jungwoo,LEE Jinkwon,4,1,"7,11,11,11,12|11,8,6,5,10",R32,GRAND_SLAM,MS,804,Main Draw,LEE Jungwoo (KOR),LEE Jinkwon (KOR),LEE Jungwoo
+Pro Tour VW Open Daejeon 2008,2008-05-29,JOO Saehyuk,SUSS Christian,4,0,"11,12,11,11|6,10,5,5",R32,GRAND_SLAM,MS,804,Main Draw,JOO Saehyuk (KOR),SUSS Christian (GER),JOO Saehyuk
+Pro Tour VW Open Daejeon 2008,2008-05-29,RYU Seungmin,WU Chih-Chi,4,1,"11,11,11,6,11|9,9,3,11,9",R32,GRAND_SLAM,MS,804,Main Draw,RYU Seungmin (KOR),WU Chih-Chi (TPE),RYU Seungmin
+Pro Tour VW Open Daejeon 2008,2008-05-29,CHEUNG Yuk,OH Sangeun,4,3,"6,9,11,6,11,11,11|11,11,9,11,8,6,4",R32,GRAND_SLAM,MS,804,Main Draw,CHEUNG Yuk (HKG),OH Sangeun (KOR),CHEUNG Yuk
+Pro Tour VW Open Daejeon 2008,2008-05-29,LIM Jaehyun,YANG Zi,4,1,"12,6,15,11,12|10,11,13,5,10",R32,GRAND_SLAM,MS,804,Main Draw,LIM Jaehyun (KOR),YANG Zi (SGP),LIM Jaehyun
+Pro Tour VW Open Daejeon 2008,2008-05-29,KAN Yo,STEGER Bastian,4,0,"11,11,11,11|9,4,6,7",R32,GRAND_SLAM,MS,804,Main Draw,KAN Yo (JPN),STEGER Bastian (GER),KAN Yo
+Pro Tour VW Open Daejeon 2008,2008-05-29,MA Long,PRIMORAC Zoran,4,1,"11,11,11,3,11|8,7,7,11,8",R32,GRAND_SLAM,MS,804,Main Draw,MA Long (CHN),PRIMORAC Zoran (CRO),MA Long
+Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Liqin,KISHIKAWA Seiya,4,2,"11,11,11,9,9,11|3,9,5,11,11,2",R32,GRAND_SLAM,MS,804,Main Draw,WANG Liqin (CHN),KISHIKAWA Seiya (JPN),WANG Liqin
+Pro Tour VW Open Daejeon 2008,2008-05-29,OVTCHAROV Dimitrij,BOBOCICA Mihai,4,0,"11,11,12,11|5,7,10,7",R32,GRAND_SLAM,MS,804,Main Draw,OVTCHAROV Dimitrij (GER),BOBOCICA Mihai (ITA),OVTCHAROV Dimitrij
+Pro Tour VW Open Daejeon 2008,2008-05-29,MIZUTANI Jun,LEE Jungsam,4,1,"6,13,11,11,11|11,11,5,4,8",R32,GRAND_SLAM,MS,804,Main Draw,MIZUTANI Jun (JPN),LEE Jungsam (KOR),MIZUTANI Jun
+Pro Tour VW Open Daejeon 2008,2008-05-29,BOLL Timo,JIANG Tianyi,4,3,"6,7,11,12,11,5,11|11,11,9,10,9,11,8",R32,GRAND_SLAM,MS,804,Main Draw,BOLL Timo (GER),JIANG Tianyi (HKG),BOLL Timo
+Pro Tour VW Open Daejeon 2008,2008-05-29,CHEN Qi,CHIANG Peng-Lung,4,0,"11,13,11,11|6,11,7,9",R32,GRAND_SLAM,MS,804,Main Draw,CHEN Qi (CHN),CHIANG Peng-Lung (TPE),CHEN Qi
+Pro Tour VW Open Daejeon 2008,2008-05-29,KIM Junghoon,GACINA Andrej,4,2,"11,11,12,9,10,11|6,8,10,11,12,5",R32,GRAND_SLAM,MS,804,Main Draw,KIM Junghoon (KOR),GACINA Andrej (CRO),KIM Junghoon
+Pro Tour VW Open Daejeon 2008,2008-05-29,SCHLAGER Werner,LEUNG Chu Yan,4,3,"11,11,10,11,12,5,14|13,4,12,9,10,11,12",R32,GRAND_SLAM,MS,804,Main Draw,SCHLAGER Werner (AUT),LEUNG Chu Yan (HKG),SCHLAGER Werner
+Pro Tour VW Open Daejeon 2008,2008-05-29,MA Lin,SMIRNOV Alexey,4,0,"12,11,11,11|10,5,7,5",R32,GRAND_SLAM,MS,804,Main Draw,MA Lin (CHN),SMIRNOV Alexey (RUS),MA Lin
+Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Hao,LEE Jungwoo,4,0,"11,11,11,11|9,4,7,4",R16,GRAND_SLAM,MS,804,Main Draw,WANG Hao (CHN),LEE Jungwoo (KOR),WANG Hao
+Pro Tour VW Open Daejeon 2008,2008-05-29,RYU Seungmin,JOO Saehyuk,4,0,"11,11,11,11|4,6,7,2",R16,GRAND_SLAM,MS,804,Main Draw,RYU Seungmin (KOR),JOO Saehyuk (KOR),RYU Seungmin
+Pro Tour VW Open Daejeon 2008,2008-05-29,CHEUNG Yuk,LIM Jaehyun,4,2,"14,11,12,4,9,11|12,9,10,11,11,9",R16,GRAND_SLAM,MS,804,Main Draw,CHEUNG Yuk (HKG),LIM Jaehyun (KOR),CHEUNG Yuk
+Pro Tour VW Open Daejeon 2008,2008-05-29,MA Long,KAN Yo,4,2,"11,8,11,11,6,11|8,11,6,6,11,6",R16,GRAND_SLAM,MS,804,Main Draw,MA Long (CHN),KAN Yo (JPN),MA Long
+Pro Tour VW Open Daejeon 2008,2008-05-29,OVTCHAROV Dimitrij,WANG Liqin,4,1,"11,5,11,11,11|8,11,7,8,6",R16,GRAND_SLAM,MS,804,Main Draw,OVTCHAROV Dimitrij (GER),WANG Liqin (CHN),OVTCHAROV Dimitrij
+Pro Tour VW Open Daejeon 2008,2008-05-29,BOLL Timo,MIZUTANI Jun,4,0,"11,11,11,11|8,9,4,2",R16,GRAND_SLAM,MS,804,Main Draw,BOLL Timo (GER),MIZUTANI Jun (JPN),BOLL Timo
+Pro Tour VW Open Daejeon 2008,2008-05-29,CHEN Qi,KIM Junghoon,4,0,"11,11,11,11|5,9,5,2",R16,GRAND_SLAM,MS,804,Main Draw,CHEN Qi (CHN),KIM Junghoon (KOR),CHEN Qi
+Pro Tour VW Open Daejeon 2008,2008-05-29,MA Lin,SCHLAGER Werner,4,1,"11,11,11,13,11|9,2,8,15,8",R16,GRAND_SLAM,MS,804,Main Draw,MA Lin (CHN),SCHLAGER Werner (AUT),MA Lin
+Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Hao,RYU Seungmin,4,2,"11,8,11,10,11,11|7,11,9,12,4,4",QF,GRAND_SLAM,MS,804,Main Draw,WANG Hao (CHN),RYU Seungmin (KOR),WANG Hao
+Pro Tour VW Open Daejeon 2008,2008-05-29,MA Long,CHEUNG Yuk,4,0,"11,11,13,12|6,5,11,10",QF,GRAND_SLAM,MS,804,Main Draw,MA Long (CHN),CHEUNG Yuk (HKG),MA Long
+Pro Tour VW Open Daejeon 2008,2008-05-29,OVTCHAROV Dimitrij,BOLL Timo,4,3,"11,11,11,9,6,6,12|7,8,5,11,11,11,10",QF,GRAND_SLAM,MS,804,Main Draw,OVTCHAROV Dimitrij (GER),BOLL Timo (GER),OVTCHAROV Dimitrij
+Pro Tour VW Open Daejeon 2008,2008-05-29,MA Lin,CHEN Qi,4,1,"11,11,5,11,12|4,9,11,8,10",QF,GRAND_SLAM,MS,804,Main Draw,MA Lin (CHN),CHEN Qi (CHN),MA Lin
+Pro Tour VW Open Daejeon 2008,2008-05-29,MA Long,WANG Hao,4,1,"9,11,13,11,11|11,9,11,9,7",SF,GRAND_SLAM,MS,804,Main Draw,MA Long (CHN),WANG Hao (CHN),MA Long
+Pro Tour VW Open Daejeon 2008,2008-05-29,MA Lin,OVTCHAROV Dimitrij,4,0,"11,11,11,11|7,8,2,3",SF,GRAND_SLAM,MS,804,Main Draw,MA Lin (CHN),OVTCHAROV Dimitrij (GER),MA Lin
+Pro Tour VW Open Daejeon 2008,2008-05-29,MA Long,MA Lin,4,2,"11,4,11,15,3,11|8,11,3,13,11,5",F,GRAND_SLAM,MS,804,Main Draw,MA Long (CHN),MA Lin (CHN),MA Long
+Pro Tour VW Open Daejeon 2008,2008-05-29,CHIANG Hung-Chieh,GOLOVANOV Stanislav,4,2,"11,8,9,11,11,11|7,11,11,3,4,9",R16,GRAND_SLAM,U21MS,804,Main Draw,CHIANG Hung-Chieh (TPE),GOLOVANOV Stanislav (BUL),CHIANG Hung-Chieh
+Pro Tour VW Open Daejeon 2008,2008-05-29,CHEN Chien-An,MA Liang,4,1,"13,11,11,11,11|11,13,5,9,4",R16,GRAND_SLAM,U21MS,804,Main Draw,CHEN Chien-An (TPE),MA Liang (SGP),CHEN Chien-An
+Pro Tour VW Open Daejeon 2008,2008-05-29,FREITAS Marcos,REED Daniel,4,1,"11,11,11,6,11|5,1,5,11,9",R16,GRAND_SLAM,U21MS,804,Main Draw,FREITAS Marcos (POR),REED Daniel (ENG),FREITAS Marcos
+Pro Tour VW Open Daejeon 2008,2008-05-29,LIU Zhongze,FEGERL Stefan,4,0,"11,11,11,11|5,9,7,9",R16,GRAND_SLAM,U21MS,804,Main Draw,LIU Zhongze (SGP),FEGERL Stefan (AUT),LIU Zhongze
+Pro Tour VW Open Daejeon 2008,2008-05-29,LI Kwun Ngai,HUANG Sheng-Sheng,4,3,"11,3,9,11,5,15,15|9,11,11,9,11,13,13",R16,GRAND_SLAM,U21MS,804,Main Draw,LI Kwun Ngai (HKG),HUANG Sheng-Sheng (TPE),LI Kwun Ngai
+Pro Tour VW Open Daejeon 2008,2008-05-29,JEOUNG Youngsik,GUO Yi Teng,4,0,"11,11,11,17|6,5,4,15",R16,GRAND_SLAM,U21MS,804,Main Draw,JEOUNG Youngsik (KOR),GUO Yi Teng (SGP),JEOUNG Youngsik
+Pro Tour VW Open Daejeon 2008,2008-05-29,LEE Jinkwon,UEDA Jin,4,2,"9,10,11,11,11,11|11,12,2,4,6,7",R16,GRAND_SLAM,U21MS,804,Main Draw,LEE Jinkwon (KOR),UEDA Jin (JPN),LEE Jinkwon
+Pro Tour VW Open Daejeon 2008,2008-05-29,CHIANG Hung-Chieh,CHEN Chien-An,4,2,"9,13,11,11,11,11|11,15,4,9,8,2",QF,GRAND_SLAM,U21MS,804,Main Draw,CHIANG Hung-Chieh (TPE),CHEN Chien-An (TPE),CHIANG Hung-Chieh
+Pro Tour VW Open Daejeon 2008,2008-05-29,FREITAS Marcos,DRINKHALL Paul,4,0,"12,11,11,11|10,6,7,8",QF,GRAND_SLAM,U21MS,804,Main Draw,FREITAS Marcos (POR),DRINKHALL Paul (ENG),FREITAS Marcos
+Pro Tour VW Open Daejeon 2008,2008-05-29,LIU Zhongze,LI Kwun Ngai,4,2,"3,11,16,7,11,11|11,9,14,11,9,5",QF,GRAND_SLAM,U21MS,804,Main Draw,LIU Zhongze (SGP),LI Kwun Ngai (HKG),LIU Zhongze
+Pro Tour VW Open Daejeon 2008,2008-05-29,LEE Jinkwon,JEOUNG Youngsik,4,0,"11,11,11,11|9,8,8,5",QF,GRAND_SLAM,U21MS,804,Main Draw,LEE Jinkwon (KOR),JEOUNG Youngsik (KOR),LEE Jinkwon
+Pro Tour VW Open Daejeon 2008,2008-05-29,FREITAS Marcos,CHIANG Hung-Chieh,4,1,"13,11,9,11,11|11,7,11,4,6",SF,GRAND_SLAM,U21MS,804,Main Draw,FREITAS Marcos (POR),CHIANG Hung-Chieh (TPE),FREITAS Marcos
+Pro Tour VW Open Daejeon 2008,2008-05-29,LIU Zhongze,LEE Jinkwon,4,2,"11,11,11,5,5,11|6,7,7,11,11,7",SF,GRAND_SLAM,U21MS,804,Main Draw,LIU Zhongze (SGP),LEE Jinkwon (KOR),LIU Zhongze
+Pro Tour VW Open Daejeon 2008,2008-05-29,FREITAS Marcos,LIU Zhongze,4,1,"11,11,11,13,11|6,5,6,15,9",F,GRAND_SLAM,U21MS,804,Main Draw,FREITAS Marcos (POR),LIU Zhongze (SGP),FREITAS Marcos
+Pro Tour VW Open Daejeon 2008,2008-05-29,TAN Wenling,KERTAI Rita,4,0,"11,11,11,11|7,8,7,4",,GRAND_SLAM,WS,804,Qualification,TAN Wenling (ITA),KERTAI Rita (HUN),TAN Wenling
+Pro Tour VW Open Daejeon 2008,2008-05-29,TAN Wenling,HEINE Veronika,4,0,"11,11,11,11|8,6,7,9",,GRAND_SLAM,WS,804,Qualification,TAN Wenling (ITA),HEINE Veronika (AUT),TAN Wenling
+Pro Tour VW Open Daejeon 2008,2008-05-29,KERTAI Rita,HEINE Veronika,4,3,"8,7,11,4,11,12,11|11,11,2,11,2,10,9",,GRAND_SLAM,WS,804,Qualification,KERTAI Rita (HUN),HEINE Veronika (AUT),KERTAI Rita
+Pro Tour VW Open Daejeon 2008,2008-05-29,LI Jie,YOON Suwon,4,0,"11,11,11,11|4,8,4,5",,GRAND_SLAM,WS,804,Qualification,LI Jie (NED),YOON Suwon (KOR),LI Jie
+Pro Tour VW Open Daejeon 2008,2008-05-29,LI Jie,SIBLEY Kelly,4,0,"11,11,11,11|4,7,4,2",,GRAND_SLAM,WS,804,Qualification,LI Jie (NED),SIBLEY Kelly (ENG),LI Jie
+Pro Tour VW Open Daejeon 2008,2008-05-29,YOON Suwon,SIBLEY Kelly,4,1,"11,11,5,11,11|8,9,11,4,7",,GRAND_SLAM,WS,804,Qualification,YOON Suwon (KOR),SIBLEY Kelly (ENG),YOON Suwon
+Pro Tour VW Open Daejeon 2008,2008-05-29,STEFANOVA Nikoleta,DRINKHALL Joanna,4,3,"11,2,11,10,11,9,11|4,11,8,12,6,11,8",,GRAND_SLAM,WS,804,Qualification,STEFANOVA Nikoleta (ITA),DRINKHALL Joanna (ENG),STEFANOVA Nikoleta
+Pro Tour VW Open Daejeon 2008,2008-05-29,STEFANOVA Nikoleta,TERUI Moemi,4,2,"12,12,3,11,4,12|10,10,11,8,11,10",,GRAND_SLAM,WS,804,Qualification,STEFANOVA Nikoleta (ITA),TERUI Moemi (JPN),STEFANOVA Nikoleta
+Pro Tour VW Open Daejeon 2008,2008-05-29,DRINKHALL Joanna,TERUI Moemi,4,1,"9,11,11,11,14|11,3,4,4,12",,GRAND_SLAM,WS,804,Qualification,DRINKHALL Joanna (ENG),TERUI Moemi (JPN),DRINKHALL Joanna
+Pro Tour VW Open Daejeon 2008,2008-05-29,SAMARA Elizabeta,HUANG Crystal Xi,4,2,"11,6,11,6,12,11|9,11,9,11,10,8",,GRAND_SLAM,WS,804,Qualification,SAMARA Elizabeta (ROU),HUANG Crystal Xi (USA),SAMARA Elizabeta
+Pro Tour VW Open Daejeon 2008,2008-05-29,SAMARA Elizabeta,LEE I-Chen,4,3,"7,11,11,8,12,11,11|11,13,8,11,10,6,7",,GRAND_SLAM,WS,804,Qualification,SAMARA Elizabeta (ROU),LEE I-Chen (TPE),SAMARA Elizabeta
+Pro Tour VW Open Daejeon 2008,2008-05-29,LEE I-Chen,HUANG Crystal Xi,4,1,"5,11,11,11,11|11,8,7,6,6",,GRAND_SLAM,WS,804,Qualification,LEE I-Chen (TPE),HUANG Crystal Xi (USA),LEE I-Chen
+Pro Tour VW Open Daejeon 2008,2008-05-29,KOMWONG Nanthana,YU Mei-Ju,4,1,"11,11,11,7,11|6,8,7,11,7",,GRAND_SLAM,WS,804,Qualification,KOMWONG Nanthana (THA),YU Mei-Ju (TPE),KOMWONG Nanthana
+Pro Tour VW Open Daejeon 2008,2008-05-29,KOMWONG Nanthana,SHIM Serom,4,1,"4,11,11,14,12|11,6,5,12,10",,GRAND_SLAM,WS,804,Qualification,KOMWONG Nanthana (THA),SHIM Serom (KOR),KOMWONG Nanthana
+Pro Tour VW Open Daejeon 2008,2008-05-29,SHIM Serom,YU Mei-Ju,4,0,"11,11,11,11|5,6,2,4",,GRAND_SLAM,WS,804,Qualification,SHIM Serom (KOR),YU Mei-Ju (TPE),SHIM Serom
+Pro Tour VW Open Daejeon 2008,2008-05-29,ZHU Fang,HSU Hui-Tsun,4,0,"11,11,11,11|7,4,6,4",,GRAND_SLAM,WS,804,Qualification,ZHU Fang (ESP),HSU Hui-Tsun (TPE),ZHU Fang
+Pro Tour VW Open Daejeon 2008,2008-05-29,ZHU Fang,CHO Hala,4,2,"10,15,11,11,9,11|12,13,3,7,11,8",,GRAND_SLAM,WS,804,Qualification,ZHU Fang (ESP),CHO Hala (KOR),ZHU Fang
+Pro Tour VW Open Daejeon 2008,2008-05-29,CHO Hala,HSU Hui-Tsun,4,2,"9,8,11,11,11,11|11,11,9,6,5,5",,GRAND_SLAM,WS,804,Qualification,CHO Hala (KOR),HSU Hui-Tsun (TPE),CHO Hala
+Pro Tour VW Open Daejeon 2008,2008-05-29,HU Melek,NONAKA Mariany,4,0,"12,11,11,11|10,5,6,8",,GRAND_SLAM,WS,804,Qualification,HU Melek (TUR),NONAKA Mariany (BRA),HU Melek
+Pro Tour VW Open Daejeon 2008,2008-05-29,SUH Hyo Won,HU Melek,4,3,"11,9,11,6,11,8,11|9,11,9,11,9,11,4",,GRAND_SLAM,WS,804,Qualification,SUH Hyo Won (KOR),HU Melek (TUR),SUH Hyo Won
+Pro Tour VW Open Daejeon 2008,2008-05-29,SUH Hyo Won,NONAKA Mariany,4,0,"11,11,11,11|7,7,6,9",,GRAND_SLAM,WS,804,Qualification,SUH Hyo Won (KOR),NONAKA Mariany (BRA),SUH Hyo Won
+Pro Tour VW Open Daejeon 2008,2008-05-29,YILDIRIM Fulya,BARTHEL Zhenqi,4,0,,,GRAND_SLAM,WS,804,Qualification,YILDIRIM Fulya (TUR),BARTHEL Zhenqi (GER),YILDIRIM Fulya
+Pro Tour VW Open Daejeon 2008,2008-05-29,ISHIKAWA Kasumi,BARTHEL Zhenqi,4,0,,,GRAND_SLAM,WS,804,Qualification,ISHIKAWA Kasumi (JPN),BARTHEL Zhenqi (GER),ISHIKAWA Kasumi
+Pro Tour VW Open Daejeon 2008,2008-05-29,ISHIKAWA Kasumi,YILDIRIM Fulya,4,3,"9,9,11,11,11,11,11|11,11,3,13,4,9,3",,GRAND_SLAM,WS,804,Qualification,ISHIKAWA Kasumi (JPN),YILDIRIM Fulya (TUR),ISHIKAWA Kasumi
+Pro Tour VW Open Daejeon 2008,2008-05-29,ETSUZAKI Ayumi,ALI Meral Ildiz,4,0,"11,11,13,11|2,6,11,8",,GRAND_SLAM,WS,804,Qualification,ETSUZAKI Ayumi (JPN),ALI Meral Ildiz (TUR),ETSUZAKI Ayumi
+Pro Tour VW Open Daejeon 2008,2008-05-29,ETSUZAKI Ayumi,MUANGSUK Anisara,4,0,"11,11,11,11|2,6,3,1",,GRAND_SLAM,WS,804,Qualification,ETSUZAKI Ayumi (JPN),MUANGSUK Anisara (THA),ETSUZAKI Ayumi
+Pro Tour VW Open Daejeon 2008,2008-05-29,ALI Meral Ildiz,MUANGSUK Anisara,4,3,"11,12,8,7,11,11,11|9,14,11,11,6,9,8",,GRAND_SLAM,WS,804,Qualification,ALI Meral Ildiz (TUR),MUANGSUK Anisara (THA),ALI Meral Ildiz
+Pro Tour VW Open Daejeon 2008,2008-05-29,KIM Junghyun,OWEN Naomi,4,2,"11,8,11,9,11,11|9,11,5,11,8,3",,GRAND_SLAM,WS,804,Qualification,KIM Junghyun (KOR),OWEN Naomi (WAL),KIM Junghyun
+Pro Tour VW Open Daejeon 2008,2008-05-29,YU Kwok See,KIM Junghyun,4,3,"11,11,9,11,11,3,11|13,6,11,9,2,11,3",,GRAND_SLAM,WS,804,Qualification,YU Kwok See (HKG),KIM Junghyun (KOR),YU Kwok See
+Pro Tour VW Open Daejeon 2008,2008-05-29,YU Kwok See,OWEN Naomi,4,0,"11,13,11,11|3,11,2,7",,GRAND_SLAM,WS,804,Qualification,YU Kwok See (HKG),OWEN Naomi (WAL),YU Kwok See
+Pro Tour VW Open Daejeon 2008,2008-05-29,DVORAK Galia,YAMADA Jessica,4,0,"11,13,11,11|5,11,3,9",,GRAND_SLAM,WS,804,Qualification,DVORAK Galia (ESP),YAMADA Jessica (BRA),DVORAK Galia
+Pro Tour VW Open Daejeon 2008,2008-05-29,PAN Chun-Chu,DVORAK Galia,4,1,"11,11,11,4,11|5,9,8,11,8",,GRAND_SLAM,WS,804,Qualification,PAN Chun-Chu (TPE),DVORAK Galia (ESP),PAN Chun-Chu
+Pro Tour VW Open Daejeon 2008,2008-05-29,PAN Chun-Chu,YAMADA Jessica,4,0,"11,11,11,11|2,4,5,5",,GRAND_SLAM,WS,804,Qualification,PAN Chun-Chu (TPE),YAMADA Jessica (BRA),PAN Chun-Chu
+Pro Tour VW Open Daejeon 2008,2008-05-29,ISHIGAKI Yuka,CHEN Yu-Lin,4,0,,,GRAND_SLAM,WS,804,Qualification,ISHIGAKI Yuka (JPN),CHEN Yu-Lin (TPE),ISHIGAKI Yuka
+Pro Tour VW Open Daejeon 2008,2008-05-29,ISHIGAKI Yuka,KO Somi,4,1,"8,12,11,11,11|11,10,8,6,8",,GRAND_SLAM,WS,804,Qualification,ISHIGAKI Yuka (JPN),KO Somi (KOR),ISHIGAKI Yuka
+Pro Tour VW Open Daejeon 2008,2008-05-29,KO Somi,CHEN Yu-Lin,4,0,,,GRAND_SLAM,WS,804,Qualification,KO Somi (KOR),CHEN Yu-Lin (TPE),KO Somi
+Pro Tour VW Open Daejeon 2008,2008-05-29,SUN Jin,CHENG I-Ching,4,1,"11,6,11,11,11|5,11,9,4,3",,GRAND_SLAM,WS,804,Qualification,SUN Jin (HKG),CHENG I-Ching (TPE),SUN Jin
+Pro Tour VW Open Daejeon 2008,2008-05-29,TIMINA Elena,CHENG I-Ching,4,1,"11,10,11,11,11|8,12,5,7,5",,GRAND_SLAM,WS,804,Qualification,TIMINA Elena (NED),CHENG I-Ching (TPE),TIMINA Elena
+Pro Tour VW Open Daejeon 2008,2008-05-29,TIMINA Elena,SUN Jin,4,2,"15,11,11,9,8,11|13,5,4,11,11,8",,GRAND_SLAM,WS,804,Qualification,TIMINA Elena (NED),SUN Jin (HKG),TIMINA Elena
+Pro Tour VW Open Daejeon 2008,2008-05-29,ISHIKAWA Kasumi,HSU Hui-Tsun,3,0,"11,11,11|6,6,7",,GRAND_SLAM,U21WS,804,Qualification,ISHIKAWA Kasumi (JPN),HSU Hui-Tsun (TPE),ISHIKAWA Kasumi
+Pro Tour VW Open Daejeon 2008,2008-05-29,SIBLEY Kelly,YAMADA Jessica,3,1,"5,11,11,11|11,5,4,8",,GRAND_SLAM,U21WS,804,Qualification,SIBLEY Kelly (ENG),YAMADA Jessica (BRA),SIBLEY Kelly
+Pro Tour VW Open Daejeon 2008,2008-05-29,ISHIKAWA Kasumi,SIBLEY Kelly,3,0,"11,11,11|9,6,8",,GRAND_SLAM,U21WS,804,Qualification,ISHIKAWA Kasumi (JPN),SIBLEY Kelly (ENG),ISHIKAWA Kasumi
+Pro Tour VW Open Daejeon 2008,2008-05-29,HSU Hui-Tsun,YAMADA Jessica,3,0,"11,11,11|4,5,6",,GRAND_SLAM,U21WS,804,Qualification,HSU Hui-Tsun (TPE),YAMADA Jessica (BRA),HSU Hui-Tsun
+Pro Tour VW Open Daejeon 2008,2008-05-29,ISHIKAWA Kasumi,YAMADA Jessica,3,0,"11,11,11|4,3,2",,GRAND_SLAM,U21WS,804,Qualification,ISHIKAWA Kasumi (JPN),YAMADA Jessica (BRA),ISHIKAWA Kasumi
+Pro Tour VW Open Daejeon 2008,2008-05-29,SIBLEY Kelly,HSU Hui-Tsun,3,2,"11,4,9,11,12|7,11,11,8,10",,GRAND_SLAM,U21WS,804,Qualification,SIBLEY Kelly (ENG),HSU Hui-Tsun (TPE),SIBLEY Kelly
+Pro Tour VW Open Daejeon 2008,2008-05-29,DRINKHALL Joanna,SUH Hyo Won,3,1,"9,12,11,11|11,10,5,5",,GRAND_SLAM,U21WS,804,Qualification,DRINKHALL Joanna (ENG),SUH Hyo Won (KOR),DRINKHALL Joanna
+Pro Tour VW Open Daejeon 2008,2008-05-29,TERUI Moemi,CHEN Yu-Lin,4,0,,,GRAND_SLAM,U21WS,804,Qualification,TERUI Moemi (JPN),CHEN Yu-Lin (TPE),TERUI Moemi
+Pro Tour VW Open Daejeon 2008,2008-05-29,SUH Hyo Won,TERUI Moemi,3,2,"11,6,11,6,11|5,11,7,11,9",,GRAND_SLAM,U21WS,804,Qualification,SUH Hyo Won (KOR),TERUI Moemi (JPN),SUH Hyo Won
+Pro Tour VW Open Daejeon 2008,2008-05-29,DRINKHALL Joanna,CHEN Yu-Lin,4,0,,,GRAND_SLAM,U21WS,804,Qualification,DRINKHALL Joanna (ENG),CHEN Yu-Lin (TPE),DRINKHALL Joanna
+Pro Tour VW Open Daejeon 2008,2008-05-29,SUH Hyo Won,CHEN Yu-Lin,4,0,,,GRAND_SLAM,U21WS,804,Qualification,SUH Hyo Won (KOR),CHEN Yu-Lin (TPE),SUH Hyo Won
+Pro Tour VW Open Daejeon 2008,2008-05-29,NONAKA Mariany,ZHANG Mo,4,0,,,GRAND_SLAM,U21WS,804,Qualification,NONAKA Mariany (BRA),ZHANG Mo (CAN),NONAKA Mariany
+Pro Tour VW Open Daejeon 2008,2008-05-29,SHIM Serom,ALI Meral Ildiz,3,0,"11,11,11|6,3,1",,GRAND_SLAM,U21WS,804,Qualification,SHIM Serom (KOR),ALI Meral Ildiz (TUR),SHIM Serom
+Pro Tour VW Open Daejeon 2008,2008-05-29,SHIM Serom,ZHANG Mo,4,0,,,GRAND_SLAM,U21WS,804,Qualification,SHIM Serom (KOR),ZHANG Mo (CAN),SHIM Serom
+Pro Tour VW Open Daejeon 2008,2008-05-29,ALI Meral Ildiz,NONAKA Mariany,3,1,"11,11,9,11|7,8,11,7",,GRAND_SLAM,U21WS,804,Qualification,ALI Meral Ildiz (TUR),NONAKA Mariany (BRA),ALI Meral Ildiz
+Pro Tour VW Open Daejeon 2008,2008-05-29,ALI Meral Ildiz,ZHANG Mo,4,0,,,GRAND_SLAM,U21WS,804,Qualification,ALI Meral Ildiz (TUR),ZHANG Mo (CAN),ALI Meral Ildiz
+Pro Tour VW Open Daejeon 2008,2008-05-29,SHIM Serom,NONAKA Mariany,4,0,,,GRAND_SLAM,U21WS,804,Qualification,SHIM Serom (KOR),NONAKA Mariany (BRA),SHIM Serom
+Pro Tour VW Open Daejeon 2008,2008-05-29,YILDIRIM Fulya,CHO Hala,3,1,"11,6,11,13|8,11,9,11",,GRAND_SLAM,U21WS,804,Qualification,YILDIRIM Fulya (TUR),CHO Hala (KOR),YILDIRIM Fulya
+Pro Tour VW Open Daejeon 2008,2008-05-29,LEE I-Chen,OWEN Naomi,3,1,"11,11,11,11|8,13,5,6",,GRAND_SLAM,U21WS,804,Qualification,LEE I-Chen (TPE),OWEN Naomi (WAL),LEE I-Chen
+Pro Tour VW Open Daejeon 2008,2008-05-29,CHO Hala,LEE I-Chen,3,1,"6,11,11,11|11,6,6,6",,GRAND_SLAM,U21WS,804,Qualification,CHO Hala (KOR),LEE I-Chen (TPE),CHO Hala
+Pro Tour VW Open Daejeon 2008,2008-05-29,YILDIRIM Fulya,OWEN Naomi,3,0,"11,11,11|6,7,9",,GRAND_SLAM,U21WS,804,Qualification,YILDIRIM Fulya (TUR),OWEN Naomi (WAL),YILDIRIM Fulya
+Pro Tour VW Open Daejeon 2008,2008-05-29,CHO Hala,OWEN Naomi,3,1,"7,11,11,11|11,4,9,5",,GRAND_SLAM,U21WS,804,Qualification,CHO Hala (KOR),OWEN Naomi (WAL),CHO Hala
+Pro Tour VW Open Daejeon 2008,2008-05-29,LEE I-Chen,YILDIRIM Fulya,3,0,"11,11,11|7,6,2",,GRAND_SLAM,U21WS,804,Qualification,LEE I-Chen (TPE),YILDIRIM Fulya (TUR),LEE I-Chen
+Pro Tour VW Open Daejeon 2008,2008-05-29,GUO Yue,HEINE Veronika,4,0,"11,11,11,11|3,7,2,4",R64,GRAND_SLAM,WS,804,Main Draw,GUO Yue (CHN),HEINE Veronika (AUT),GUO Yue
+Pro Tour VW Open Daejeon 2008,2008-05-29,KWAK Bangbang,DRINKHALL Joanna,4,0,"11,11,11,11|7,2,6,6",R64,GRAND_SLAM,WS,804,Main Draw,KWAK Bangbang (KOR),DRINKHALL Joanna (ENG),KWAK Bangbang
+Pro Tour VW Open Daejeon 2008,2008-05-29,KOMWONG Nanthana,YU Mengyu,4,3,"8,11,11,8,4,14,11|11,8,6,11,11,12,7",R64,GRAND_SLAM,WS,804,Main Draw,KOMWONG Nanthana (THA),YU Mengyu (SGP),KOMWONG Nanthana
+Pro Tour VW Open Daejeon 2008,2008-05-29,LIU Shiwen,ALI Meral Ildiz,4,0,"11,11,11,11|8,9,9,8",R64,GRAND_SLAM,WS,804,Main Draw,LIU Shiwen (CHN),ALI Meral Ildiz (TUR),LIU Shiwen
+Pro Tour VW Open Daejeon 2008,2008-05-29,LIN Ling,YOON Suwon,4,0,"11,11,11,11|2,9,6,7",R64,GRAND_SLAM,WS,804,Main Draw,LIN Ling (HKG),YOON Suwon (KOR),LIN Ling
+Pro Tour VW Open Daejeon 2008,2008-05-29,LI Jie,SHEN Yanfei,4,3,"11,11,11,6,12,5,11|3,6,7,11,14,11,9",R64,GRAND_SLAM,WS,804,Main Draw,LI Jie (NED),SHEN Yanfei (ESP),LI Jie
+Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Chen,TAN Wenling,4,2,"11,15,11,11,5,11|6,17,9,7,11,7",R64,GRAND_SLAM,WS,804,Main Draw,WANG Chen (USA),TAN Wenling (ITA),WANG Chen
+Pro Tour VW Open Daejeon 2008,2008-05-29,TIE Yana,YU Mei-Ju,4,0,"11,11,11,11|8,4,8,5",R64,GRAND_SLAM,WS,804,Main Draw,TIE Yana (HKG),YU Mei-Ju (TPE),TIE Yana
+Pro Tour VW Open Daejeon 2008,2008-05-29,LI Jiawei,MUANGSUK Anisara,4,0,"11,11,11,11|6,9,3,5",R64,GRAND_SLAM,WS,804,Main Draw,LI Jiawei (SGP),MUANGSUK Anisara (THA),LI Jiawei
+Pro Tour VW Open Daejeon 2008,2008-05-29,DODEAN Daniela,TIMINA Elena,4,3,"7,6,11,3,11,11,11|11,11,9,11,5,4,5",R64,GRAND_SLAM,WS,804,Main Draw,DODEAN Daniela (ROU),TIMINA Elena (NED),DODEAN Daniela
+Pro Tour VW Open Daejeon 2008,2008-05-29,LAU Sui Fei,ETSUZAKI Ayumi,4,0,"11,17,11,11|4,15,6,9",R64,GRAND_SLAM,WS,804,Main Draw,LAU Sui Fei (HKG),ETSUZAKI Ayumi (JPN),LAU Sui Fei
+Pro Tour VW Open Daejeon 2008,2008-05-29,LIU Jia,LEE I-Chen,4,0,"11,11,11,11|3,9,6,8",R64,GRAND_SLAM,WS,804,Main Draw,LIU Jia (AUT),LEE I-Chen (TPE),LIU Jia
+Pro Tour VW Open Daejeon 2008,2008-05-29,HIRANO Sayaka,SHIM Serom,4,0,"11,15,11,11|8,13,8,8",R64,GRAND_SLAM,WS,804,Main Draw,HIRANO Sayaka (JPN),SHIM Serom (KOR),HIRANO Sayaka
+Pro Tour VW Open Daejeon 2008,2008-05-29,SCHALL Elke,YU Kwok See,4,0,"11,11,11,11|7,6,5,2",R64,GRAND_SLAM,WS,804,Main Draw,SCHALL Elke (GER),YU Kwok See (HKG),SCHALL Elke
+Pro Tour VW Open Daejeon 2008,2008-05-29,GAO Jun,SUH Hyo Won,4,1,"10,11,11,11,12|12,8,5,3,10",R64,GRAND_SLAM,WS,804,Main Draw,GAO Jun (USA),SUH Hyo Won (KOR),GAO Jun
+Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Nan,HSU Hui-Tsun,4,0,"11,11,11,11|6,4,3,5",R64,GRAND_SLAM,WS,804,Main Draw,WANG Nan (CHN),HSU Hui-Tsun (TPE),WANG Nan
+Pro Tour VW Open Daejeon 2008,2008-05-29,GUO Yan (1982),HUANG Crystal Xi,4,1,"11,11,8,11,11|6,6,11,5,5",R64,GRAND_SLAM,WS,804,Main Draw,GUO Yan (1982) (CHN),HUANG Crystal Xi (USA),GUO Yan (1982)
+Pro Tour VW Open Daejeon 2008,2008-05-29,WU Jiaduo,KIM Junghyun,4,3,"11,9,12,11,12,9,11|4,11,10,8,14,11,7",R64,GRAND_SLAM,WS,804,Main Draw,WU Jiaduo (GER),KIM Junghyun (KOR),WU Jiaduo
+Pro Tour VW Open Daejeon 2008,2008-05-29,PARK Miyoung,ISHIGAKI Yuka,4,1,"11,11,15,6,11|9,7,13,11,9",R64,GRAND_SLAM,WS,804,Main Draw,PARK Miyoung (KOR),ISHIGAKI Yuka (JPN),PARK Miyoung
+Pro Tour VW Open Daejeon 2008,2008-05-29,FUKUHARA Ai,HU Melek,4,0,"11,11,11,11|9,4,8,6",R64,GRAND_SLAM,WS,804,Main Draw,FUKUHARA Ai (JPN),HU Melek (TUR),FUKUHARA Ai
+Pro Tour VW Open Daejeon 2008,2008-05-29,SUN Beibei,DVORAK Galia,4,1,"8,11,11,14,11|11,8,7,12,8",R64,GRAND_SLAM,WS,804,Main Draw,SUN Beibei (SGP),DVORAK Galia (ESP),SUN Beibei
+Pro Tour VW Open Daejeon 2008,2008-05-29,LEE Eunhee,ISHIKAWA Kasumi,4,3,"11,11,6,7,11,11,12|13,7,11,11,9,6,10",R64,GRAND_SLAM,WS,804,Main Draw,LEE Eunhee (KOR),ISHIKAWA Kasumi (JPN),LEE Eunhee
+Pro Tour VW Open Daejeon 2008,2008-05-29,STEFANOVA Nikoleta,ZHANG Rui,4,1,"11,6,11,11,11|6,11,6,5,8",R64,GRAND_SLAM,WS,804,Main Draw,STEFANOVA Nikoleta (ITA),ZHANG Rui (HKG),STEFANOVA Nikoleta
+Pro Tour VW Open Daejeon 2008,2008-05-29,JIANG Huajun,CHO Hala,4,1,"15,11,11,8,12|13,6,4,11,10",R64,GRAND_SLAM,WS,804,Main Draw,JIANG Huajun (HKG),CHO Hala (KOR),JIANG Huajun
+Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Yuegu,KERTAI Rita,4,0,"11,11,11,11|5,3,8,7",R64,GRAND_SLAM,WS,804,Main Draw,WANG Yuegu (SGP),KERTAI Rita (HUN),WANG Yuegu
+Pro Tour VW Open Daejeon 2008,2008-05-29,MOON Hyunjung,ZHU Fang,4,0,"11,13,11,11|6,11,8,4",R64,GRAND_SLAM,WS,804,Main Draw,MOON Hyunjung (KOR),ZHU Fang (ESP),MOON Hyunjung
+Pro Tour VW Open Daejeon 2008,2008-05-29,DANG Yeseo,PAN Chun-Chu,4,1,"11,11,11,7,11|5,6,8,11,7",R64,GRAND_SLAM,WS,804,Main Draw,DANG Yeseo (KOR),PAN Chun-Chu (TPE),DANG Yeseo
+Pro Tour VW Open Daejeon 2008,2008-05-29,KIM Kyungah,SUN Jin,4,2,"10,11,11,11,11,11|12,7,7,6,13,6",R64,GRAND_SLAM,WS,804,Main Draw,KIM Kyungah (KOR),SUN Jin (HKG),KIM Kyungah
+Pro Tour VW Open Daejeon 2008,2008-05-29,FENG Tianwei,YILDIRIM Fulya,4,0,"11,11,11,11|6,6,8,8",R64,GRAND_SLAM,WS,804,Main Draw,FENG Tianwei (SGP),YILDIRIM Fulya (TUR),FENG Tianwei
+Pro Tour VW Open Daejeon 2008,2008-05-29,LI Qiangbing,SAMARA Elizabeta,4,3,"12,10,5,11,6,11,11|10,12,11,7,11,5,5",R64,GRAND_SLAM,WS,804,Main Draw,LI Qiangbing (AUT),SAMARA Elizabeta (ROU),LI Qiangbing
+Pro Tour VW Open Daejeon 2008,2008-05-29,FAN Ying,KO Somi,4,1,"9,11,11,11,11|11,9,8,4,2",R64,GRAND_SLAM,WS,804,Main Draw,FAN Ying (CHN),KO Somi (KOR),FAN Ying
+Pro Tour VW Open Daejeon 2008,2008-05-29,LI Xiaoxia,YAMADA Jessica,4,0,"11,11,11,11|2,4,7,3",R64,GRAND_SLAM,WS,804,Main Draw,LI Xiaoxia (CHN),YAMADA Jessica (BRA),LI Xiaoxia
+Pro Tour VW Open Daejeon 2008,2008-05-29,GUO Yue,KWAK Bangbang,4,0,"11,11,11,13|1,6,4,11",R32,GRAND_SLAM,WS,804,Main Draw,GUO Yue (CHN),KWAK Bangbang (KOR),GUO Yue
+Pro Tour VW Open Daejeon 2008,2008-05-29,KOMWONG Nanthana,LIU Shiwen,4,2,"11,11,11,9,5,11|6,8,6,11,11,4",R32,GRAND_SLAM,WS,804,Main Draw,KOMWONG Nanthana (THA),LIU Shiwen (CHN),KOMWONG Nanthana
+Pro Tour VW Open Daejeon 2008,2008-05-29,LIN Ling,LI Jie,4,1,"11,11,9,11,12|9,8,11,4,10",R32,GRAND_SLAM,WS,804,Main Draw,LIN Ling (HKG),LI Jie (NED),LIN Ling
+Pro Tour VW Open Daejeon 2008,2008-05-29,TIE Yana,WANG Chen,4,1,"9,11,11,17,11|11,3,9,15,8",R32,GRAND_SLAM,WS,804,Main Draw,TIE Yana (HKG),WANG Chen (USA),TIE Yana
+Pro Tour VW Open Daejeon 2008,2008-05-29,LI Jiawei,DODEAN Daniela,4,1,"11,7,11,11,11|8,11,4,4,5",R32,GRAND_SLAM,WS,804,Main Draw,LI Jiawei (SGP),DODEAN Daniela (ROU),LI Jiawei
+Pro Tour VW Open Daejeon 2008,2008-05-29,LIU Jia,LAU Sui Fei,4,3,"11,9,11,6,4,13,11|5,11,7,11,11,11,9",R32,GRAND_SLAM,WS,804,Main Draw,LIU Jia (AUT),LAU Sui Fei (HKG),LIU Jia
+Pro Tour VW Open Daejeon 2008,2008-05-29,HIRANO Sayaka,SCHALL Elke,4,3,"11,11,11,8,4,7,11|8,9,9,11,11,11,4",R32,GRAND_SLAM,WS,804,Main Draw,HIRANO Sayaka (JPN),SCHALL Elke (GER),HIRANO Sayaka
+Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Nan,GAO Jun,4,1,"2,11,14,11,11|11,4,12,7,8",R32,GRAND_SLAM,WS,804,Main Draw,WANG Nan (CHN),GAO Jun (USA),WANG Nan
+Pro Tour VW Open Daejeon 2008,2008-05-29,GUO Yan (1982),WU Jiaduo,4,1,"11,11,9,11,11|9,9,11,4,6",R32,GRAND_SLAM,WS,804,Main Draw,GUO Yan (1982) (CHN),WU Jiaduo (GER),GUO Yan (1982)
+Pro Tour VW Open Daejeon 2008,2008-05-29,PARK Miyoung,FUKUHARA Ai,4,1,"11,10,11,11,11|9,12,7,4,7",R32,GRAND_SLAM,WS,804,Main Draw,PARK Miyoung (KOR),FUKUHARA Ai (JPN),PARK Miyoung
+Pro Tour VW Open Daejeon 2008,2008-05-29,SUN Beibei,LEE Eunhee,4,3,"11,11,7,11,16,4,11|4,5,11,5,18,11,2",R32,GRAND_SLAM,WS,804,Main Draw,SUN Beibei (SGP),LEE Eunhee (KOR),SUN Beibei
+Pro Tour VW Open Daejeon 2008,2008-05-29,JIANG Huajun,STEFANOVA Nikoleta,4,1,"14,11,11,11,11|16,4,9,8,6",R32,GRAND_SLAM,WS,804,Main Draw,JIANG Huajun (HKG),STEFANOVA Nikoleta (ITA),JIANG Huajun
+Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Yuegu,MOON Hyunjung,4,2,"11,10,11,11,6,11|7,12,5,9,11,6",R32,GRAND_SLAM,WS,804,Main Draw,WANG Yuegu (SGP),MOON Hyunjung (KOR),WANG Yuegu
+Pro Tour VW Open Daejeon 2008,2008-05-29,DANG Yeseo,KIM Kyungah,4,3,"6,11,8,7,11,11,11|11,6,11,11,8,7,2",R32,GRAND_SLAM,WS,804,Main Draw,DANG Yeseo (KOR),KIM Kyungah (KOR),DANG Yeseo
+Pro Tour VW Open Daejeon 2008,2008-05-29,FENG Tianwei,LI Qiangbing,4,0,"12,11,11,11|10,9,4,5",R32,GRAND_SLAM,WS,804,Main Draw,FENG Tianwei (SGP),LI Qiangbing (AUT),FENG Tianwei
+Pro Tour VW Open Daejeon 2008,2008-05-29,FAN Ying,LI Xiaoxia,4,3,"3,11,11,7,12,5,11|11,7,9,11,10,11,6",R32,GRAND_SLAM,WS,804,Main Draw,FAN Ying (CHN),LI Xiaoxia (CHN),FAN Ying
+Pro Tour VW Open Daejeon 2008,2008-05-29,GUO Yue,KOMWONG Nanthana,4,1,"11,11,11,9,11|5,7,9,11,4",R16,GRAND_SLAM,WS,804,Main Draw,GUO Yue (CHN),KOMWONG Nanthana (THA),GUO Yue
+Pro Tour VW Open Daejeon 2008,2008-05-29,TIE Yana,LIN Ling,4,0,"11,11,11,14|5,2,5,12",R16,GRAND_SLAM,WS,804,Main Draw,TIE Yana (HKG),LIN Ling (HKG),TIE Yana
+Pro Tour VW Open Daejeon 2008,2008-05-29,LI Jiawei,LIU Jia,4,0,"11,11,11,11|7,1,9,5",R16,GRAND_SLAM,WS,804,Main Draw,LI Jiawei (SGP),LIU Jia (AUT),LI Jiawei
+Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Nan,HIRANO Sayaka,4,1,"8,13,12,11,11|11,11,10,7,9",R16,GRAND_SLAM,WS,804,Main Draw,WANG Nan (CHN),HIRANO Sayaka (JPN),WANG Nan
+Pro Tour VW Open Daejeon 2008,2008-05-29,GUO Yan (1982),PARK Miyoung,4,1,"12,12,11,9,11|10,10,9,11,8",R16,GRAND_SLAM,WS,804,Main Draw,GUO Yan (1982) (CHN),PARK Miyoung (KOR),GUO Yan (1982)
+Pro Tour VW Open Daejeon 2008,2008-05-29,JIANG Huajun,SUN Beibei,4,3,"10,7,8,12,11,11,11|12,11,11,10,8,8,5",R16,GRAND_SLAM,WS,804,Main Draw,JIANG Huajun (HKG),SUN Beibei (SGP),JIANG Huajun
+Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Yuegu,DANG Yeseo,4,2,"5,11,11,9,11,11|11,8,4,11,5,4",R16,GRAND_SLAM,WS,804,Main Draw,WANG Yuegu (SGP),DANG Yeseo (KOR),WANG Yuegu
+Pro Tour VW Open Daejeon 2008,2008-05-29,FAN Ying,FENG Tianwei,4,0,"11,11,11,11|4,9,7,9",R16,GRAND_SLAM,WS,804,Main Draw,FAN Ying (CHN),FENG Tianwei (SGP),FAN Ying
+Pro Tour VW Open Daejeon 2008,2008-05-29,GUO Yue,TIE Yana,4,0,"11,11,12,11|8,8,10,2",QF,GRAND_SLAM,WS,804,Main Draw,GUO Yue (CHN),TIE Yana (HKG),GUO Yue
+Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Nan,LI Jiawei,4,3,"8,13,10,12,11,11,13|11,11,12,10,9,13,11",QF,GRAND_SLAM,WS,804,Main Draw,WANG Nan (CHN),LI Jiawei (SGP),WANG Nan
+Pro Tour VW Open Daejeon 2008,2008-05-29,GUO Yan (1982),JIANG Huajun,4,0,"11,12,11,14|7,10,9,12",QF,GRAND_SLAM,WS,804,Main Draw,GUO Yan (1982) (CHN),JIANG Huajun (HKG),GUO Yan (1982)
+Pro Tour VW Open Daejeon 2008,2008-05-29,FAN Ying,WANG Yuegu,4,1,"11,7,12,11,11|8,11,10,9,7",QF,GRAND_SLAM,WS,804,Main Draw,FAN Ying (CHN),WANG Yuegu (SGP),FAN Ying
+Pro Tour VW Open Daejeon 2008,2008-05-29,GUO Yue,WANG Nan,4,0,"11,11,11,11|7,9,8,6",SF,GRAND_SLAM,WS,804,Main Draw,GUO Yue (CHN),WANG Nan (CHN),GUO Yue
+Pro Tour VW Open Daejeon 2008,2008-05-29,GUO Yan (1982),FAN Ying,4,3,"11,10,11,8,11,8,11|4,12,9,11,4,11,5",SF,GRAND_SLAM,WS,804,Main Draw,GUO Yan (1982) (CHN),FAN Ying (CHN),GUO Yan (1982)
+Pro Tour VW Open Daejeon 2008,2008-05-29,GUO Yue,GUO Yan (1982),4,3,"12,11,8,7,12,11,11|14,8,11,11,10,9,5",F,GRAND_SLAM,WS,804,Main Draw,GUO Yue (CHN),GUO Yan (1982) (CHN),GUO Yue
+Pro Tour VW Open Daejeon 2008,2008-05-29,TERUI Moemi,DODEAN Daniela,4,3,"11,11,11,9,5,11,11|8,8,13,11,11,4,9",R16,GRAND_SLAM,U21WS,804,Main Draw,TERUI Moemi (JPN),DODEAN Daniela (ROU),TERUI Moemi
+Pro Tour VW Open Daejeon 2008,2008-05-29,ISHIGAKI Yuka,SHIM Serom,4,2,"13,11,11,8,11,11|15,5,7,11,6,8",R16,GRAND_SLAM,U21WS,804,Main Draw,ISHIGAKI Yuka (JPN),SHIM Serom (KOR),ISHIGAKI Yuka
+Pro Tour VW Open Daejeon 2008,2008-05-29,DRINKHALL Joanna,ISHIKAWA Kasumi,4,0,"12,11,11,12|10,7,8,10",R16,GRAND_SLAM,U21WS,804,Main Draw,DRINKHALL Joanna (ENG),ISHIKAWA Kasumi (JPN),DRINKHALL Joanna
+Pro Tour VW Open Daejeon 2008,2008-05-29,SAMARA Elizabeta,ALI Meral Ildiz,4,1,"11,11,9,11,11|3,7,11,6,5",R16,GRAND_SLAM,U21WS,804,Main Draw,SAMARA Elizabeta (ROU),ALI Meral Ildiz (TUR),SAMARA Elizabeta
+Pro Tour VW Open Daejeon 2008,2008-05-29,CHENG I-Ching,SIBLEY Kelly,4,1,"11,8,11,11,14|8,11,4,7,12",R16,GRAND_SLAM,U21WS,804,Main Draw,CHENG I-Ching (TPE),SIBLEY Kelly (ENG),CHENG I-Ching
+Pro Tour VW Open Daejeon 2008,2008-05-29,LEE I-Chen,DVORAK Galia,4,0,"11,11,11,11|9,9,8,5",R16,GRAND_SLAM,U21WS,804,Main Draw,LEE I-Chen (TPE),DVORAK Galia (ESP),LEE I-Chen
+Pro Tour VW Open Daejeon 2008,2008-05-29,YU Mengyu,CHO Hala,4,0,"11,11,11,11|4,9,7,9",R16,GRAND_SLAM,U21WS,804,Main Draw,YU Mengyu (SGP),CHO Hala (KOR),YU Mengyu
+Pro Tour VW Open Daejeon 2008,2008-05-29,ISHIGAKI Yuka,TERUI Moemi,4,0,"11,11,11,11|6,8,6,3",QF,GRAND_SLAM,U21WS,804,Main Draw,ISHIGAKI Yuka (JPN),TERUI Moemi (JPN),ISHIGAKI Yuka
+Pro Tour VW Open Daejeon 2008,2008-05-29,SUH Hyo Won,DRINKHALL Joanna,4,1,"11,12,11,11,11|8,14,9,8,6",QF,GRAND_SLAM,U21WS,804,Main Draw,SUH Hyo Won (KOR),DRINKHALL Joanna (ENG),SUH Hyo Won
+Pro Tour VW Open Daejeon 2008,2008-05-29,SAMARA Elizabeta,CHENG I-Ching,4,2,"11,9,11,3,11,12|8,11,9,11,4,10",QF,GRAND_SLAM,U21WS,804,Main Draw,SAMARA Elizabeta (ROU),CHENG I-Ching (TPE),SAMARA Elizabeta
+Pro Tour VW Open Daejeon 2008,2008-05-29,YU Mengyu,LEE I-Chen,4,2,"11,8,11,11,3,11|4,11,7,4,11,5",QF,GRAND_SLAM,U21WS,804,Main Draw,YU Mengyu (SGP),LEE I-Chen (TPE),YU Mengyu
+Pro Tour VW Open Daejeon 2008,2008-05-29,ISHIGAKI Yuka,SUH Hyo Won,4,2,"11,8,11,7,11,11|9,11,2,11,4,6",SF,GRAND_SLAM,U21WS,804,Main Draw,ISHIGAKI Yuka (JPN),SUH Hyo Won (KOR),ISHIGAKI Yuka
+Pro Tour VW Open Daejeon 2008,2008-05-29,SAMARA Elizabeta,YU Mengyu,4,2,"6,11,11,5,11,12|11,8,9,11,4,10",SF,GRAND_SLAM,U21WS,804,Main Draw,SAMARA Elizabeta (ROU),YU Mengyu (SGP),SAMARA Elizabeta
+Pro Tour VW Open Daejeon 2008,2008-05-29,SAMARA Elizabeta,ISHIGAKI Yuka,4,3,"8,8,11,11,8,11,11|11,11,8,8,11,9,6",F,GRAND_SLAM,U21WS,804,Main Draw,SAMARA Elizabeta (ROU),ISHIGAKI Yuka (JPN),SAMARA Elizabeta
+Pro Tour VW Open Daejeon 2008,2008-05-29,KIM Junghoon/LEE Jungsam,FEGERL Stefan/HABESOHN Daniel,4,0,"11,11,11,11|9,9,8,7",R16,GRAND_SLAM,MD,804,Main Draw,KIM Junghoon (KOR) / LEE Jungsam (KOR),FEGERL Stefan (AUT) / HABESOHN Daniel (AUT),KIM Junghoon
+Pro Tour VW Open Daejeon 2008,2008-05-29,PERSSON Jon/TSUBOI Gustavo,CHEUNG Yuk/KO Lai Chak,3,2,"11,8,12,4,12|6,11,10,11,10",QR16,GRAND_SLAM,MD,804,Qualification,PERSSON Jon (SWE) / TSUBOI Gustavo (BRA),CHEUNG Yuk (HKG) / KO Lai Chak (HKG),PERSSON Jon
+Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Hao/WANG Liqin,JOO Saehyuk/LEE Jinkwon,4,0,"11,11,11,11|6,1,6,5",R16,GRAND_SLAM,MD,804,Main Draw,WANG Hao (CHN) / WANG Liqin (CHN),JOO Saehyuk (KOR) / LEE Jinkwon (KOR),WANG Hao
+Pro Tour VW Open Daejeon 2008,2008-05-29,CHEN Qi/XU Hui,PERSSON Jon/TSUBOI Gustavo,4,1,"11,13,11,3,11|6,11,5,11,8",R16,GRAND_SLAM,MD,804,Main Draw,CHEN Qi (CHN) / XU Hui (CHN),PERSSON Jon (SWE) / TSUBOI Gustavo (BRA),CHEN Qi
+Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Hao/WANG Liqin,OH Sangeun/YOON Jaeyoung,4,0,"11,11,11,11|5,9,5,8",QF,GRAND_SLAM,MD,804,Main Draw,WANG Hao (CHN) / WANG Liqin (CHN),OH Sangeun (KOR) / YOON Jaeyoung (KOR),WANG Hao
+Pro Tour VW Open Daejeon 2008,2008-05-29,CHEN Qi/XU Hui,KIM Junghoon/LEE Jungsam,4,1,"11,11,11,8,11|9,5,8,11,3",QF,GRAND_SLAM,MD,804,Main Draw,CHEN Qi (CHN) / XU Hui (CHN),KIM Junghoon (KOR) / LEE Jungsam (KOR),CHEN Qi
+Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Hao/WANG Liqin,JIANG Tianyi/TANG Peng,4,0,"11,11,11,12|3,2,5,10",SF,GRAND_SLAM,MD,804,Main Draw,WANG Hao (CHN) / WANG Liqin (CHN),JIANG Tianyi (HKG) / TANG Peng (HKG),WANG Hao
+Pro Tour VW Open Daejeon 2008,2008-05-29,MA Lin/MA Long,CHEN Qi/XU Hui,4,2,"11,9,11,10,11,11|5,11,4,12,6,8",SF,GRAND_SLAM,MD,804,Main Draw,MA Lin (CHN) / MA Long (CHN),CHEN Qi (CHN) / XU Hui (CHN),MA Lin
+Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Hao/WANG Liqin,MA Lin/MA Long,4,3,"11,11,6,9,9,11,11|8,1,11,11,11,5,7",F,GRAND_SLAM,MD,804,Main Draw,WANG Hao (CHN) / WANG Liqin (CHN),MA Lin (CHN) / MA Long (CHN),WANG Hao
+Pro Tour VW Open Daejeon 2008,2008-05-29,FEJER-KONNERTH Zoltan/HIELSCHER Lars,FENG Xiaoquan/JANCARIK Lubomir,3,0,,QR32,GRAND_SLAM,MD,804,Qualification,FEJER-KONNERTH Zoltan (GER) / HIELSCHER Lars (GER),FENG Xiaoquan (AUT) / JANCARIK Lubomir (CZE),FEJER-KONNERTH Zoltan
+Pro Tour VW Open Daejeon 2008,2008-05-29,DRINKHALL Paul/REED Daniel,CHEN Chien-An/WU Chih-Chi,3,2,"11,5,11,4,11|9,11,7,11,8",QR32,GRAND_SLAM,MD,804,Qualification,DRINKHALL Paul (ENG) / REED Daniel (ENG),CHEN Chien-An (TPE) / WU Chih-Chi (TPE),DRINKHALL Paul
+Pro Tour VW Open Daejeon 2008,2008-05-29,FEGERL Stefan/HABESOHN Daniel,OVTCHAROV Dimitrij/STEGER Bastian,3,1,"11,14,11,11|8,12,13,8",QR16,GRAND_SLAM,MD,804,Qualification,FEGERL Stefan (AUT) / HABESOHN Daniel (AUT),OVTCHAROV Dimitrij (GER) / STEGER Bastian (GER),FEGERL Stefan
+Pro Tour VW Open Daejeon 2008,2008-05-29,KISHIKAWA Seiya/MIZUTANI Jun,FEJER-KONNERTH Zoltan/HIELSCHER Lars,4,2,"11,9,11,11,7,11|5,11,7,5,11,5",R16,GRAND_SLAM,MD,804,Main Draw,KISHIKAWA Seiya (JPN) / MIZUTANI Jun (JPN),FEJER-KONNERTH Zoltan (GER) / HIELSCHER Lars (GER),KISHIKAWA Seiya
+Pro Tour VW Open Daejeon 2008,2008-05-29,BOLL Timo/SUSS Christian,AL-HASAN Ibrahem/RUMGAY Gavin,4,0,,R16,GRAND_SLAM,MD,804,Main Draw,BOLL Timo (GER) / SUSS Christian (GER),AL-HASAN Ibrahem (KUW) / RUMGAY Gavin (SCO),BOLL Timo
+Pro Tour VW Open Daejeon 2008,2008-05-29,MA Lin/MA Long,BOLL Timo/SUSS Christian,4,1,"11,11,4,15,11|4,8,11,13,4",QF,GRAND_SLAM,MD,804,Main Draw,MA Lin (CHN) / MA Long (CHN),BOLL Timo (GER) / SUSS Christian (GER),MA Lin
+Pro Tour VW Open Daejeon 2008,2008-05-29,SHIMOYAMA Takanori/UEDA Jin,LEUNG Chu Yan/TSE Ka Chun,3,2,"11,5,11,10,11|3,11,7,12,5",QR32,GRAND_SLAM,MD,804,Qualification,SHIMOYAMA Takanori (JPN) / UEDA Jin (JPN),LEUNG Chu Yan (HKG) / TSE Ka Chun (HKG),SHIMOYAMA Takanori
+Pro Tour VW Open Daejeon 2008,2008-05-29,JIANG Tianyi/TANG Peng,KISHIKAWA Seiya/MIZUTANI Jun,4,1,"11,11,2,11,11|9,7,11,6,9",QF,GRAND_SLAM,MD,804,Main Draw,JIANG Tianyi (HKG) / TANG Peng (HKG),KISHIKAWA Seiya (JPN) / MIZUTANI Jun (JPN),JIANG Tianyi
+Pro Tour VW Open Daejeon 2008,2008-05-29,SHIMOYAMA Takanori/UEDA Jin,DRINKHALL Paul/REED Daniel,3,2,"11,7,11,5,11|8,11,9,11,7",QR16,GRAND_SLAM,MD,804,Qualification,SHIMOYAMA Takanori (JPN) / UEDA Jin (JPN),DRINKHALL Paul (ENG) / REED Daniel (ENG),SHIMOYAMA Takanori
+Pro Tour VW Open Daejeon 2008,2008-05-29,OH Sangeun/YOON Jaeyoung,SHIMOYAMA Takanori/UEDA Jin,4,3,"14,11,11,10,11,6,14|16,3,7,12,8,11,12",R16,GRAND_SLAM,MD,804,Main Draw,OH Sangeun (KOR) / YOON Jaeyoung (KOR),SHIMOYAMA Takanori (JPN) / UEDA Jin (JPN),OH Sangeun
+Pro Tour VW Open Daejeon 2008,2008-05-29,AL-HASAN Ibrahem/RUMGAY Gavin,JEOUNG Youngsik/LIM Jaehyun,3,0,"11,14,14|9,12,12",QR32,GRAND_SLAM,MD,804,Qualification,AL-HASAN Ibrahem (KUW) / RUMGAY Gavin (SCO),JEOUNG Youngsik (KOR) / LIM Jaehyun (KOR),AL-HASAN Ibrahem
+Pro Tour VW Open Daejeon 2008,2008-05-29,JOO Saehyuk/LEE Jinkwon,GACINA Andrej/PRIMORAC Zoran,3,1,"12,9,11,12|10,11,5,10",QR16,GRAND_SLAM,MD,804,Qualification,JOO Saehyuk (KOR) / LEE Jinkwon (KOR),GACINA Andrej (CRO) / PRIMORAC Zoran (CRO),JOO Saehyuk
+Pro Tour VW Open Daejeon 2008,2008-05-29,JIANG Tianyi/TANG Peng,LEE Jungwoo/RYU Seungmin,4,2,"11,11,3,11,9,11|9,8,11,7,11,9",R16,GRAND_SLAM,MD,804,Main Draw,JIANG Tianyi (HKG) / TANG Peng (HKG),LEE Jungwoo (KOR) / RYU Seungmin (KOR),JIANG Tianyi
+Pro Tour VW Open Daejeon 2008,2008-05-29,MA Lin/MA Long,CHO Jihoon/KO Junhyung,4,0,,R16,GRAND_SLAM,MD,804,Main Draw,MA Lin (CHN) / MA Long (CHN),CHO Jihoon (KOR) / KO Junhyung (KOR),MA Lin
+Pro Tour VW Open Daejeon 2008,2008-05-29,JIANG Tianyi/TANG Peng,APOLONIA Tiago/FREITAS Marcos,3,0,"11,11,11|9,7,9",QR32,GRAND_SLAM,MD,804,Qualification,JIANG Tianyi (HKG) / TANG Peng (HKG),APOLONIA Tiago (POR) / FREITAS Marcos (POR),JIANG Tianyi
+Pro Tour VW Open Daejeon 2008,2008-05-29,CHO Jihoon/KO Junhyung,BOBOCICA Mihai/MONTEIRO Joao,3,1,"11,8,11,11|5,11,8,8",QR32,GRAND_SLAM,MD,804,Qualification,CHO Jihoon (KOR) / KO Junhyung (KOR),BOBOCICA Mihai (ITA) / MONTEIRO Joao (POR),CHO Jihoon
+Pro Tour VW Open Daejeon 2008,2008-05-29,LI Kwun Ngai/SMIRNOV Alexey,EVANS Gavin/PITCHFORD Liam,3,0,"13,11,11|11,5,9",QR32,GRAND_SLAM,MD,804,Qualification,LI Kwun Ngai (HKG) / SMIRNOV Alexey (RUS),EVANS Gavin (ENG) / PITCHFORD Liam (ENG),LI Kwun Ngai
+Pro Tour VW Open Daejeon 2008,2008-05-29,CHO Jihoon/KO Junhyung,LI Kwun Ngai/SMIRNOV Alexey,3,1,"11,11,5,11|4,7,11,4",QR16,GRAND_SLAM,MD,804,Qualification,CHO Jihoon (KOR) / KO Junhyung (KOR),LI Kwun Ngai (HKG) / SMIRNOV Alexey (RUS),CHO Jihoon
+Pro Tour VW Open Daejeon 2008,2008-05-29,AL-HASAN Ibrahem/RUMGAY Gavin,CAI Xiaoli/YANG Zi,3,1,"12,2,11,11|10,11,9,8",QR16,GRAND_SLAM,MD,804,Qualification,AL-HASAN Ibrahem (KUW) / RUMGAY Gavin (SCO),CAI Xiaoli (SGP) / YANG Zi (SGP),AL-HASAN Ibrahem
+Pro Tour VW Open Daejeon 2008,2008-05-29,PERSSON Jon/TSUBOI Gustavo,LIU Zhongze/MA Liang,3,2,"11,6,12,11,11|5,11,14,7,9",QR32,GRAND_SLAM,MD,804,Qualification,PERSSON Jon (SWE) / TSUBOI Gustavo (BRA),LIU Zhongze (SGP) / MA Liang (SGP),PERSSON Jon
+Pro Tour VW Open Daejeon 2008,2008-05-29,HUANG Sheng-Sheng/CHIANG Hung-Chieh,CORDUE John/WALLACE Simon,3,0,,QR32,GRAND_SLAM,MD,804,Qualification,HUANG Sheng-Sheng (TPE) / CHIANG Hung-Chieh (TPE),CORDUE John (NZL) / WALLACE Simon (NZL),HUANG Sheng-Sheng
+Pro Tour VW Open Daejeon 2008,2008-05-29,FEJER-KONNERTH Zoltan/HIELSCHER Lars,CHANG Yen-Shu/CHIANG Peng-Lung,3,1,"9,11,11,11|11,7,9,7",QR16,GRAND_SLAM,MD,804,Qualification,FEJER-KONNERTH Zoltan (GER) / HIELSCHER Lars (GER),CHANG Yen-Shu (TPE) / CHIANG Peng-Lung (TPE),FEJER-KONNERTH Zoltan
+Pro Tour VW Open Daejeon 2008,2008-05-29,JIANG Tianyi/TANG Peng,HUANG Sheng-Sheng/CHIANG Hung-Chieh,3,1,"11,11,9,11|8,8,11,7",QR16,GRAND_SLAM,MD,804,Qualification,JIANG Tianyi (HKG) / TANG Peng (HKG),HUANG Sheng-Sheng (TPE) / CHIANG Hung-Chieh (TPE),JIANG Tianyi
+Pro Tour VW Open Daejeon 2008,2008-05-29,GACINA Andrej/PRIMORAC Zoran,JIANG Pengfei/MENGE Gencay,3,0,"11,11,11|4,8,9",QR32,GRAND_SLAM,MD,804,Qualification,GACINA Andrej (CRO) / PRIMORAC Zoran (CRO),JIANG Pengfei (TUR) / MENGE Gencay (TUR),GACINA Andrej
+Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Nan/LI Xiaoxia,HSU Hui-Tsun/LEE I-Chen,3,0,"11,11,11|3,6,6",QR16,GRAND_SLAM,WD,804,Qualification,WANG Nan (CHN) / LI Xiaoxia (CHN),HSU Hui-Tsun (TPE) / LEE I-Chen (TPE),WANG Nan
+Pro Tour VW Open Daejeon 2008,2008-05-29,GUO Yue/LIU Shiwen,STEFANOVA Nikoleta/TAN Wenling,4,0,"11,11,15,11|5,5,13,6",R16,GRAND_SLAM,WD,804,Main Draw,GUO Yue (CHN) / LIU Shiwen (CHN),STEFANOVA Nikoleta (ITA) / TAN Wenling (ITA),GUO Yue
+Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Nan/LI Xiaoxia,FUKUHARA Ai/HIRANO Sayaka,4,1,"10,11,11,11,11|12,6,6,6,6",QF,GRAND_SLAM,WD,804,Main Draw,WANG Nan (CHN) / LI Xiaoxia (CHN),FUKUHARA Ai (JPN) / HIRANO Sayaka (JPN),WANG Nan
+Pro Tour VW Open Daejeon 2008,2008-05-29,GUO Yue/LIU Shiwen,SUN Jin/ZHANG Rui,4,1,"7,11,11,11,11|11,8,3,5,5",SF,GRAND_SLAM,WD,804,Main Draw,GUO Yue (CHN) / LIU Shiwen (CHN),SUN Jin (HKG) / ZHANG Rui (HKG),GUO Yue
+Pro Tour VW Open Daejeon 2008,2008-05-29,GUO Yue/LIU Shiwen,WANG Nan/LI Xiaoxia,4,2,"8,11,7,11,11,15|11,5,11,5,7,13",F,GRAND_SLAM,WD,804,Main Draw,GUO Yue (CHN) / LIU Shiwen (CHN),WANG Nan (CHN) / LI Xiaoxia (CHN),GUO Yue
+Pro Tour VW Open Daejeon 2008,2008-05-29,HEINE Veronika/LIU Jia,DRINKHALL Joanna/SIBLEY Kelly,3,0,"11,11,11|3,7,9",QR32,GRAND_SLAM,WD,804,Qualification,HEINE Veronika (AUT) / LIU Jia (AUT),DRINKHALL Joanna (ENG) / SIBLEY Kelly (ENG),HEINE Veronika
+Pro Tour VW Open Daejeon 2008,2008-05-29,SUH Hyo Won/YOON Suwon,BARTHEL Zhenqi/WU Jiaduo,3,0,,QR32,GRAND_SLAM,WD,804,Qualification,SUH Hyo Won (KOR) / YOON Suwon (KOR),BARTHEL Zhenqi (GER) / WU Jiaduo (GER),SUH Hyo Won
+Pro Tour VW Open Daejeon 2008,2008-05-29,HSU Hui-Tsun/LEE I-Chen,KERTAI Rita/YU Kwok See,3,2,"3,11,11,6,11|11,8,5,11,8",QR32,GRAND_SLAM,WD,804,Qualification,HSU Hui-Tsun (TPE) / LEE I-Chen (TPE),KERTAI Rita (HUN) / YU Kwok See (HKG),HSU Hui-Tsun
+Pro Tour VW Open Daejeon 2008,2008-05-29,SUN Jin/ZHANG Rui,KWAK Bangbang/MOON Hyunjung,3,1,"11,11,9,11|8,5,11,9",QR16,GRAND_SLAM,WD,804,Qualification,SUN Jin (HKG) / ZHANG Rui (HKG),KWAK Bangbang (KOR) / MOON Hyunjung (KOR),SUN Jin
+Pro Tour VW Open Daejeon 2008,2008-05-29,SUN Jin/ZHANG Rui,FENG Tianwei/LI Jiawei,4,3,"7,11,8,11,11,11,11|11,9,11,7,4,13,9",R16,GRAND_SLAM,WD,804,Main Draw,SUN Jin (HKG) / ZHANG Rui (HKG),FENG Tianwei (SGP) / LI Jiawei (SGP),SUN Jin
+Pro Tour VW Open Daejeon 2008,2008-05-29,LI Jie/TIMINA Elena,LAU Sui Fei/LIN Ling,4,2,"12,11,7,11,12,13|10,5,11,2,14,11",R16,GRAND_SLAM,WD,804,Main Draw,LI Jie (NED) / TIMINA Elena (NED),LAU Sui Fei (HKG) / LIN Ling (HKG),LI Jie
+Pro Tour VW Open Daejeon 2008,2008-05-29,SUN Jin/ZHANG Rui,JIANG Huajun/TIE Yana,4,1,"11,11,11,9,11|4,5,5,11,7",QF,GRAND_SLAM,WD,804,Main Draw,SUN Jin (HKG) / ZHANG Rui (HKG),JIANG Huajun (HKG) / TIE Yana (HKG),SUN Jin
+Pro Tour VW Open Daejeon 2008,2008-05-29,CHO Hala/SHIM Serom,ETSUZAKI Ayumi/ISHIGAKI Yuka,3,1,"13,10,11,11|11,12,2,4",QR32,GRAND_SLAM,WD,804,Qualification,CHO Hala (KOR) / SHIM Serom (KOR),ETSUZAKI Ayumi (JPN) / ISHIGAKI Yuka (JPN),CHO Hala
+Pro Tour VW Open Daejeon 2008,2008-05-29,ISHIKAWA Kasumi/TERUI Moemi,KOMWONG Nanthana/MUANGSUK Anisara,3,2,"11,7,6,11,11|9,11,11,8,5",QR32,GRAND_SLAM,WD,804,Qualification,ISHIKAWA Kasumi (JPN) / TERUI Moemi (JPN),KOMWONG Nanthana (THA) / MUANGSUK Anisara (THA),ISHIKAWA Kasumi
+Pro Tour VW Open Daejeon 2008,2008-05-29,ISHIKAWA Kasumi/TERUI Moemi,DVORAK Galia/SHEN Yanfei,3,1,"11,11,5,12|6,9,11,10",QR16,GRAND_SLAM,WD,804,Qualification,ISHIKAWA Kasumi (JPN) / TERUI Moemi (JPN),DVORAK Galia (ESP) / SHEN Yanfei (ESP),ISHIKAWA Kasumi
+Pro Tour VW Open Daejeon 2008,2008-05-29,KIM Junghyun/KO Somi,CHENG I-Ching/PAN Chun-Chu,3,0,"11,11,11|6,8,3",QR32,GRAND_SLAM,WD,804,Qualification,KIM Junghyun (KOR) / KO Somi (KOR),CHENG I-Ching (TPE) / PAN Chun-Chu (TPE),KIM Junghyun
+Pro Tour VW Open Daejeon 2008,2008-05-29,DANG Yeseo/LEE Eunhee,NONAKA Mariany/YAMADA Jessica,3,1,"12,11,11,11|14,5,2,7",QR32,GRAND_SLAM,WD,804,Qualification,DANG Yeseo (KOR) / LEE Eunhee (KOR),NONAKA Mariany (BRA) / YAMADA Jessica (BRA),DANG Yeseo
+Pro Tour VW Open Daejeon 2008,2008-05-29,KIM Junghyun/KO Somi,SCHALL Elke/ZHU Fang,3,0,"11,11,12|5,7,10",QR16,GRAND_SLAM,WD,804,Qualification,KIM Junghyun (KOR) / KO Somi (KOR),SCHALL Elke (GER) / ZHU Fang (ESP),KIM Junghyun
+Pro Tour VW Open Daejeon 2008,2008-05-29,JIANG Huajun/TIE Yana,CHO Hala/SHIM Serom,3,1,"11,10,11,11|5,12,5,7",QR16,GRAND_SLAM,WD,804,Qualification,JIANG Huajun (HKG) / TIE Yana (HKG),CHO Hala (KOR) / SHIM Serom (KOR),JIANG Huajun
+Pro Tour VW Open Daejeon 2008,2008-05-29,SUH Hyo Won/YOON Suwon,HEINE Veronika/LIU Jia,3,0,"11,11,11|9,6,4",QR16,GRAND_SLAM,WD,804,Qualification,SUH Hyo Won (KOR) / YOON Suwon (KOR),HEINE Veronika (AUT) / LIU Jia (AUT),SUH Hyo Won
+Pro Tour VW Open Daejeon 2008,2008-05-29,GUO Yue/LIU Shiwen,DANG Yeseo/LEE Eunhee,3,1,"11,14,9,11|3,12,11,5",QR16,GRAND_SLAM,WD,804,Qualification,GUO Yue (CHN) / LIU Shiwen (CHN),DANG Yeseo (KOR) / LEE Eunhee (KOR),GUO Yue
+Pro Tour VW Open Daejeon 2008,2008-05-29,KIM Kyungah/PARK Miyoung,ISHIKAWA Kasumi/TERUI Moemi,4,1,"11,11,11,11,11|13,6,5,5,6",R16,GRAND_SLAM,WD,804,Main Draw,KIM Kyungah (KOR) / PARK Miyoung (KOR),ISHIKAWA Kasumi (JPN) / TERUI Moemi (JPN),KIM Kyungah
+Pro Tour VW Open Daejeon 2008,2008-05-29,FAN Ying/GUO Yan (1982),KIM Junghyun/KO Somi,4,0,"11,11,11,11|6,4,7,8",R16,GRAND_SLAM,WD,804,Main Draw,FAN Ying (CHN) / GUO Yan (1982) (CHN),KIM Junghyun (KOR) / KO Somi (KOR),FAN Ying
+Pro Tour VW Open Daejeon 2008,2008-05-29,FUKUHARA Ai/HIRANO Sayaka,SUH Hyo Won/YOON Suwon,4,0,"11,11,11,11|7,5,7,8",R16,GRAND_SLAM,WD,804,Main Draw,FUKUHARA Ai (JPN) / HIRANO Sayaka (JPN),SUH Hyo Won (KOR) / YOON Suwon (KOR),FUKUHARA Ai
+Pro Tour VW Open Daejeon 2008,2008-05-29,GUO Yue/LIU Shiwen,KIM Kyungah/PARK Miyoung,4,3,"11,7,7,11,11,9,11|6,11,11,9,5,11,5",QF,GRAND_SLAM,WD,804,Main Draw,GUO Yue (CHN) / LIU Shiwen (CHN),KIM Kyungah (KOR) / PARK Miyoung (KOR),GUO Yue
+Pro Tour VW Open Daejeon 2008,2008-05-29,LI Jie/TIMINA Elena,FAN Ying/GUO Yan (1982),4,2,"11,11,5,7,11,11|7,8,11,11,4,8",QF,GRAND_SLAM,WD,804,Main Draw,LI Jie (NED) / TIMINA Elena (NED),FAN Ying (CHN) / GUO Yan (1982) (CHN),LI Jie
+Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Nan/LI Xiaoxia,LI Jie/TIMINA Elena,4,2,"9,3,11,11,11,12|11,11,9,5,5,10",SF,GRAND_SLAM,WD,804,Main Draw,WANG Nan (CHN) / LI Xiaoxia (CHN),LI Jie (NED) / TIMINA Elena (NED),WANG Nan
+Pro Tour VW Open Daejeon 2008,2008-05-29,JIANG Huajun/TIE Yana,DODEAN Daniela/SAMARA Elizabeta,4,0,"11,11,11,11|7,6,6,6",R16,GRAND_SLAM,WD,804,Main Draw,JIANG Huajun (HKG) / TIE Yana (HKG),DODEAN Daniela (ROU) / SAMARA Elizabeta (ROU),JIANG Huajun
+Pro Tour VW Open Daejeon 2008,2008-05-29,WANG Nan/LI Xiaoxia,SUN Beibei/YU Mengyu,4,2,"11,8,11,12,10,11|9,11,5,10,12,4",R16,GRAND_SLAM,WD,804,Main Draw,WANG Nan (CHN) / LI Xiaoxia (CHN),SUN Beibei (SGP) / YU Mengyu (SGP),WANG Nan
+Pro Tour VW Open Daejeon 2008,2008-05-29,KWAK Bangbang/MOON Hyunjung,CHEN Yu-Lin/YU Mei-Ju,3,0,,QR32,GRAND_SLAM,WD,804,Qualification,KWAK Bangbang (KOR) / MOON Hyunjung (KOR),CHEN Yu-Lin (TPE) / YU Mei-Ju (TPE),KWAK Bangbang
+Pro Tour VW Open Daejeon 2008,2008-05-29,LI Jie/TIMINA Elena,ALI Meral Ildiz/HU Melek,3,0,"11,11,11|6,6,1",QR32,GRAND_SLAM,WD,804,Qualification,LI Jie (NED) / TIMINA Elena (NED),ALI Meral Ildiz (TUR) / HU Melek (TUR),LI Jie
+Pro Tour VW Open Daejeon 2008,2008-05-29,LI Jie/TIMINA Elena,GAO Jun/HUANG Crystal Xi,3,2,"10,11,4,11,11|12,9,11,6,7",QR16,GRAND_SLAM,WD,804,Qualification,LI Jie (NED) / TIMINA Elena (NED),GAO Jun (USA) / HUANG Crystal Xi (USA),LI Jie
+Pro Tour VW Open Daejeon 2008,2008-05-29,SCHALL Elke/ZHU Fang,YILDIRIM Fulya/OWEN Naomi,3,0,"11,13,12|3,11,10",QR32,GRAND_SLAM,WD,804,Qualification,SCHALL Elke (GER) / ZHU Fang (ESP),YILDIRIM Fulya (TUR) / OWEN Naomi (WAL),SCHALL Elke

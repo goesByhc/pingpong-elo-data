@@ -1,33 +1,33 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Men's World Cup Liege 2005,2005-10-21,BOLL Timo,WANG Liqin,4,3,"3,9,11,14,11,2,11|11,11,6,12,9,11,7",QF,WORLD_CUP,MS,1755,Main Draw,BOLL Timo (GER),WANG Liqin (CHN)
-Men's World Cup Liege 2005,2005-10-21,MA Lin,RYU Seungmin,4,1,"11,11,9,11,11|9,8,11,6,8",QF,WORLD_CUP,MS,1755,Main Draw,MA Lin (CHN),RYU Seungmin (KOR)
-Men's World Cup Liege 2005,2005-10-21,WANG Hao,SAIVE Jean-Michel,4,2,"11,6,9,11,11,11|3,11,11,6,9,6",QF,WORLD_CUP,MS,1755,Main Draw,WANG Hao (CHN),SAIVE Jean-Michel (BEL)
-Men's World Cup Liege 2005,2005-10-21,SAMSONOV Vladimir,MAZE Michael,4,1,"13,11,11,3,11|11,3,5,11,9",QF,WORLD_CUP,MS,1755,Main Draw,SAMSONOV Vladimir (BLR),MAZE Michael (DEN)
-Men's World Cup Liege 2005,2005-10-21,BOLL Timo,MA Lin,4,3,"11,5,11,6,11,8,11|9,11,7,11,8,11,6",SF,WORLD_CUP,MS,1755,Main Draw,BOLL Timo (GER),MA Lin (CHN)
-Men's World Cup Liege 2005,2005-10-21,WANG Hao,SAMSONOV Vladimir,4,1,"11,7,11,11,11|8,11,9,4,6",SF,WORLD_CUP,MS,1755,Main Draw,WANG Hao (CHN),SAMSONOV Vladimir (BLR)
-Men's World Cup Liege 2005,2005-10-21,BOLL Timo,WANG Hao,4,3,"11,4,11,3,11,11,11|3,11,8,11,13,8,5",F,WORLD_CUP,MS,1755,Main Draw,BOLL Timo (GER),WANG Hao (CHN)
-Men's World Cup Liege 2005,2005-10-21,MA Lin,SAMSONOV Vladimir,4,2,"11,11,9,11,8,13|9,7,11,8,11,11",3RD,WORLD_CUP,MS,1755,Position Draw,MA Lin (CHN),SAMSONOV Vladimir (BLR)
-Men's World Cup Liege 2005,2005-10-21,WANG Liqin,MAZE Michael,4,1,"11,13,8,11,11|6,11,11,5,2",,WORLD_CUP,MS,1755,Qualification,WANG Liqin (CHN),MAZE Michael (DEN)
-Men's World Cup Liege 2005,2005-10-21,OH Sangeun,LIN Ju,4,1,"11,11,11,9,11|7,8,6,11,5",QR2,WORLD_CUP,MS,1755,Qualification,OH Sangeun (KOR),LIN Ju (DOM)
-Men's World Cup Liege 2005,2005-10-21,MAZE Michael,LIN Ju,4,1,"11,6,11,11,11|3,11,6,6,2",3,WORLD_CUP,MS,1755,Qualification,MAZE Michael (DEN),LIN Ju (DOM)
-Men's World Cup Liege 2005,2005-10-21,WANG Liqin,OH Sangeun,4,0,"11,11,11,11|4,9,7,5",QR4,WORLD_CUP,MS,1755,Qualification,WANG Liqin (CHN),OH Sangeun (KOR)
-Men's World Cup Liege 2005,2005-10-21,WANG Liqin,LIN Ju,4,0,"11,11,11,11|4,9,6,9",5,WORLD_CUP,MS,1755,Qualification,WANG Liqin (CHN),LIN Ju (DOM)
-Men's World Cup Liege 2005,2005-10-21,MAZE Michael,OH Sangeun,4,1,"11,10,14,11,11|7,12,12,4,5",6,WORLD_CUP,MS,1755,Qualification,MAZE Michael (DEN),OH Sangeun (KOR)
-Men's World Cup Liege 2005,2005-10-21,BOLL Timo,CHUANG Chih-Yuan,4,1,"6,12,13,11,12|11,10,11,6,10",,WORLD_CUP,MS,1755,Qualification,BOLL Timo (GER),CHUANG Chih-Yuan (TPE)
-Men's World Cup Liege 2005,2005-10-21,SAMSONOV Vladimir,HENZELL William,4,0,"11,11,11,11|7,9,3,6",QR2,WORLD_CUP,MS,1755,Qualification,SAMSONOV Vladimir (BLR),HENZELL William (AUS)
-Men's World Cup Liege 2005,2005-10-21,CHUANG Chih-Yuan,HENZELL William,4,1,"10,11,11,11,11|12,6,5,9,6",3,WORLD_CUP,MS,1755,Qualification,CHUANG Chih-Yuan (TPE),HENZELL William (AUS)
-Men's World Cup Liege 2005,2005-10-21,SAMSONOV Vladimir,BOLL Timo,4,2,"8,15,11,9,11,11|11,13,7,11,8,8",QR4,WORLD_CUP,MS,1755,Qualification,SAMSONOV Vladimir (BLR),BOLL Timo (GER)
-Men's World Cup Liege 2005,2005-10-21,BOLL Timo,HENZELL William,4,1,"11,12,9,11,11|4,10,11,8,7",5,WORLD_CUP,MS,1755,Qualification,BOLL Timo (GER),HENZELL William (AUS)
-Men's World Cup Liege 2005,2005-10-21,SAMSONOV Vladimir,CHUANG Chih-Yuan,4,0,"11,11,11,11|4,4,8,8",6,WORLD_CUP,MS,1755,Qualification,SAMSONOV Vladimir (BLR),CHUANG Chih-Yuan (TPE)
-Men's World Cup Liege 2005,2005-10-21,MA Lin,SAIVE Jean-Michel,4,1,"11,12,9,11,11|6,10,11,9,9",,WORLD_CUP,MS,1755,Qualification,MA Lin (CHN),SAIVE Jean-Michel (BEL)
-Men's World Cup Liege 2005,2005-10-21,KREANGA Kalinikos,SALEH Ahmed,4,0,"11,11,11,11|5,9,2,7",QR2,WORLD_CUP,MS,1755,Qualification,KREANGA Kalinikos (GRE),SALEH Ahmed (EGY)
-Men's World Cup Liege 2005,2005-10-21,SAIVE Jean-Michel,SALEH Ahmed,4,0,"11,11,11,11|8,4,9,6",3,WORLD_CUP,MS,1755,Qualification,SAIVE Jean-Michel (BEL),SALEH Ahmed (EGY)
-Men's World Cup Liege 2005,2005-10-21,MA Lin,KREANGA Kalinikos,4,1,"11,11,6,12,11|4,8,11,10,7",QR4,WORLD_CUP,MS,1755,Qualification,MA Lin (CHN),KREANGA Kalinikos (GRE)
-Men's World Cup Liege 2005,2005-10-21,MA Lin,SALEH Ahmed,4,1,"11,11,15,11,11|6,7,17,7,9",5,WORLD_CUP,MS,1755,Qualification,MA Lin (CHN),SALEH Ahmed (EGY)
-Men's World Cup Liege 2005,2005-10-21,SAIVE Jean-Michel,KREANGA Kalinikos,4,3,"9,12,11,8,11,8,12|11,10,9,11,7,11,10",6,WORLD_CUP,MS,1755,Qualification,SAIVE Jean-Michel (BEL),KREANGA Kalinikos (GRE)
-Men's World Cup Liege 2005,2005-10-21,WANG Hao,CHEN Weixing,4,3,"11,11,10,11,11,6,11|8,9,12,13,6,11,6",,WORLD_CUP,MS,1755,Qualification,WANG Hao (CHN),CHEN Weixing (AUT)
-Men's World Cup Liege 2005,2005-10-21,RYU Seungmin,CSABA Bence,4,0,"11,11,12,11|4,5,10,7",QR2,WORLD_CUP,MS,1755,Qualification,RYU Seungmin (KOR),CSABA Bence (CAN)
-Men's World Cup Liege 2005,2005-10-21,CHEN Weixing,CSABA Bence,4,0,"11,11,11,11|3,4,4,4",3,WORLD_CUP,MS,1755,Qualification,CHEN Weixing (AUT),CSABA Bence (CAN)
-Men's World Cup Liege 2005,2005-10-21,WANG Hao,RYU Seungmin,4,3,"5,9,11,11,11,14,11|11,11,7,7,6,16,2",QR4,WORLD_CUP,MS,1755,Qualification,WANG Hao (CHN),RYU Seungmin (KOR)
-Men's World Cup Liege 2005,2005-10-21,WANG Hao,CSABA Bence,4,0,"11,11,11,11|5,9,5,2",5,WORLD_CUP,MS,1755,Qualification,WANG Hao (CHN),CSABA Bence (CAN)
-Men's World Cup Liege 2005,2005-10-21,RYU Seungmin,CHEN Weixing,4,1,"11,11,9,12,11|3,6,11,10,9",6,WORLD_CUP,MS,1755,Qualification,RYU Seungmin (KOR),CHEN Weixing (AUT)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Men's World Cup Liege 2005,2005-10-21,BOLL Timo,WANG Liqin,4,3,"3,9,11,14,11,2,11|11,11,6,12,9,11,7",QF,WORLD_CUP,MS,1755,Main Draw,BOLL Timo (GER),WANG Liqin (CHN),BOLL Timo
+Men's World Cup Liege 2005,2005-10-21,MA Lin,RYU Seungmin,4,1,"11,11,9,11,11|9,8,11,6,8",QF,WORLD_CUP,MS,1755,Main Draw,MA Lin (CHN),RYU Seungmin (KOR),MA Lin
+Men's World Cup Liege 2005,2005-10-21,WANG Hao,SAIVE Jean-Michel,4,2,"11,6,9,11,11,11|3,11,11,6,9,6",QF,WORLD_CUP,MS,1755,Main Draw,WANG Hao (CHN),SAIVE Jean-Michel (BEL),WANG Hao
+Men's World Cup Liege 2005,2005-10-21,SAMSONOV Vladimir,MAZE Michael,4,1,"13,11,11,3,11|11,3,5,11,9",QF,WORLD_CUP,MS,1755,Main Draw,SAMSONOV Vladimir (BLR),MAZE Michael (DEN),SAMSONOV Vladimir
+Men's World Cup Liege 2005,2005-10-21,BOLL Timo,MA Lin,4,3,"11,5,11,6,11,8,11|9,11,7,11,8,11,6",SF,WORLD_CUP,MS,1755,Main Draw,BOLL Timo (GER),MA Lin (CHN),BOLL Timo
+Men's World Cup Liege 2005,2005-10-21,WANG Hao,SAMSONOV Vladimir,4,1,"11,7,11,11,11|8,11,9,4,6",SF,WORLD_CUP,MS,1755,Main Draw,WANG Hao (CHN),SAMSONOV Vladimir (BLR),WANG Hao
+Men's World Cup Liege 2005,2005-10-21,BOLL Timo,WANG Hao,4,3,"11,4,11,3,11,11,11|3,11,8,11,13,8,5",F,WORLD_CUP,MS,1755,Main Draw,BOLL Timo (GER),WANG Hao (CHN),BOLL Timo
+Men's World Cup Liege 2005,2005-10-21,MA Lin,SAMSONOV Vladimir,4,2,"11,11,9,11,8,13|9,7,11,8,11,11",3RD,WORLD_CUP,MS,1755,Position Draw,MA Lin (CHN),SAMSONOV Vladimir (BLR),MA Lin
+Men's World Cup Liege 2005,2005-10-21,WANG Liqin,MAZE Michael,4,1,"11,13,8,11,11|6,11,11,5,2",,WORLD_CUP,MS,1755,Qualification,WANG Liqin (CHN),MAZE Michael (DEN),WANG Liqin
+Men's World Cup Liege 2005,2005-10-21,OH Sangeun,LIN Ju,4,1,"11,11,11,9,11|7,8,6,11,5",QR2,WORLD_CUP,MS,1755,Qualification,OH Sangeun (KOR),LIN Ju (DOM),OH Sangeun
+Men's World Cup Liege 2005,2005-10-21,MAZE Michael,LIN Ju,4,1,"11,6,11,11,11|3,11,6,6,2",3,WORLD_CUP,MS,1755,Qualification,MAZE Michael (DEN),LIN Ju (DOM),MAZE Michael
+Men's World Cup Liege 2005,2005-10-21,WANG Liqin,OH Sangeun,4,0,"11,11,11,11|4,9,7,5",QR4,WORLD_CUP,MS,1755,Qualification,WANG Liqin (CHN),OH Sangeun (KOR),WANG Liqin
+Men's World Cup Liege 2005,2005-10-21,WANG Liqin,LIN Ju,4,0,"11,11,11,11|4,9,6,9",5,WORLD_CUP,MS,1755,Qualification,WANG Liqin (CHN),LIN Ju (DOM),WANG Liqin
+Men's World Cup Liege 2005,2005-10-21,MAZE Michael,OH Sangeun,4,1,"11,10,14,11,11|7,12,12,4,5",6,WORLD_CUP,MS,1755,Qualification,MAZE Michael (DEN),OH Sangeun (KOR),MAZE Michael
+Men's World Cup Liege 2005,2005-10-21,BOLL Timo,CHUANG Chih-Yuan,4,1,"6,12,13,11,12|11,10,11,6,10",,WORLD_CUP,MS,1755,Qualification,BOLL Timo (GER),CHUANG Chih-Yuan (TPE),BOLL Timo
+Men's World Cup Liege 2005,2005-10-21,SAMSONOV Vladimir,HENZELL William,4,0,"11,11,11,11|7,9,3,6",QR2,WORLD_CUP,MS,1755,Qualification,SAMSONOV Vladimir (BLR),HENZELL William (AUS),SAMSONOV Vladimir
+Men's World Cup Liege 2005,2005-10-21,CHUANG Chih-Yuan,HENZELL William,4,1,"10,11,11,11,11|12,6,5,9,6",3,WORLD_CUP,MS,1755,Qualification,CHUANG Chih-Yuan (TPE),HENZELL William (AUS),CHUANG Chih-Yuan
+Men's World Cup Liege 2005,2005-10-21,SAMSONOV Vladimir,BOLL Timo,4,2,"8,15,11,9,11,11|11,13,7,11,8,8",QR4,WORLD_CUP,MS,1755,Qualification,SAMSONOV Vladimir (BLR),BOLL Timo (GER),SAMSONOV Vladimir
+Men's World Cup Liege 2005,2005-10-21,BOLL Timo,HENZELL William,4,1,"11,12,9,11,11|4,10,11,8,7",5,WORLD_CUP,MS,1755,Qualification,BOLL Timo (GER),HENZELL William (AUS),BOLL Timo
+Men's World Cup Liege 2005,2005-10-21,SAMSONOV Vladimir,CHUANG Chih-Yuan,4,0,"11,11,11,11|4,4,8,8",6,WORLD_CUP,MS,1755,Qualification,SAMSONOV Vladimir (BLR),CHUANG Chih-Yuan (TPE),SAMSONOV Vladimir
+Men's World Cup Liege 2005,2005-10-21,MA Lin,SAIVE Jean-Michel,4,1,"11,12,9,11,11|6,10,11,9,9",,WORLD_CUP,MS,1755,Qualification,MA Lin (CHN),SAIVE Jean-Michel (BEL),MA Lin
+Men's World Cup Liege 2005,2005-10-21,KREANGA Kalinikos,SALEH Ahmed,4,0,"11,11,11,11|5,9,2,7",QR2,WORLD_CUP,MS,1755,Qualification,KREANGA Kalinikos (GRE),SALEH Ahmed (EGY),KREANGA Kalinikos
+Men's World Cup Liege 2005,2005-10-21,SAIVE Jean-Michel,SALEH Ahmed,4,0,"11,11,11,11|8,4,9,6",3,WORLD_CUP,MS,1755,Qualification,SAIVE Jean-Michel (BEL),SALEH Ahmed (EGY),SAIVE Jean-Michel
+Men's World Cup Liege 2005,2005-10-21,MA Lin,KREANGA Kalinikos,4,1,"11,11,6,12,11|4,8,11,10,7",QR4,WORLD_CUP,MS,1755,Qualification,MA Lin (CHN),KREANGA Kalinikos (GRE),MA Lin
+Men's World Cup Liege 2005,2005-10-21,MA Lin,SALEH Ahmed,4,1,"11,11,15,11,11|6,7,17,7,9",5,WORLD_CUP,MS,1755,Qualification,MA Lin (CHN),SALEH Ahmed (EGY),MA Lin
+Men's World Cup Liege 2005,2005-10-21,SAIVE Jean-Michel,KREANGA Kalinikos,4,3,"9,12,11,8,11,8,12|11,10,9,11,7,11,10",6,WORLD_CUP,MS,1755,Qualification,SAIVE Jean-Michel (BEL),KREANGA Kalinikos (GRE),SAIVE Jean-Michel
+Men's World Cup Liege 2005,2005-10-21,WANG Hao,CHEN Weixing,4,3,"11,11,10,11,11,6,11|8,9,12,13,6,11,6",,WORLD_CUP,MS,1755,Qualification,WANG Hao (CHN),CHEN Weixing (AUT),WANG Hao
+Men's World Cup Liege 2005,2005-10-21,RYU Seungmin,CSABA Bence,4,0,"11,11,12,11|4,5,10,7",QR2,WORLD_CUP,MS,1755,Qualification,RYU Seungmin (KOR),CSABA Bence (CAN),RYU Seungmin
+Men's World Cup Liege 2005,2005-10-21,CHEN Weixing,CSABA Bence,4,0,"11,11,11,11|3,4,4,4",3,WORLD_CUP,MS,1755,Qualification,CHEN Weixing (AUT),CSABA Bence (CAN),CHEN Weixing
+Men's World Cup Liege 2005,2005-10-21,WANG Hao,RYU Seungmin,4,3,"5,9,11,11,11,14,11|11,11,7,7,6,16,2",QR4,WORLD_CUP,MS,1755,Qualification,WANG Hao (CHN),RYU Seungmin (KOR),WANG Hao
+Men's World Cup Liege 2005,2005-10-21,WANG Hao,CSABA Bence,4,0,"11,11,11,11|5,9,5,2",5,WORLD_CUP,MS,1755,Qualification,WANG Hao (CHN),CSABA Bence (CAN),WANG Hao
+Men's World Cup Liege 2005,2005-10-21,RYU Seungmin,CHEN Weixing,4,1,"11,11,9,12,11|3,6,11,10,9",6,WORLD_CUP,MS,1755,Qualification,RYU Seungmin (KOR),CHEN Weixing (AUT),RYU Seungmin

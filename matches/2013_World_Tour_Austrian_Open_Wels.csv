@@ -1,216 +1,216 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-World Tour Austrian Open Wels 2013,2013-01-23,ZHANG Jike,KOVAC Borna,4,0,"11,11,12,11|3,5,10,5",R64,GRAND_SLAM,MS,106,Main Draw,ZHANG Jike (CHN),KOVAC Borna (CRO)
-World Tour Austrian Open Wels 2013,2013-01-23,JEVTOVIC Marko,SKACHKOV Kirill,4,3,"3,6,11,18,8,13,13|11,11,7,16,11,11,11",R64,GRAND_SLAM,MS,106,Main Draw,JEVTOVIC Marko (SRB),SKACHKOV Kirill (RUS)
-World Tour Austrian Open Wels 2013,2013-01-23,MATSUDAIRA Kenji,LAKEEV Vasily,4,1,"11,11,11,12,11|5,7,5,14,7",R64,GRAND_SLAM,MS,106,Main Draw,MATSUDAIRA Kenji (JPN),LAKEEV Vasily (RUS)
-World Tour Austrian Open Wels 2013,2013-01-23,MATSUDAIRA Kenta,HIELSCHER Lars,4,0,"11,11,11,11|2,4,5,3",R64,GRAND_SLAM,MS,106,Main Draw,MATSUDAIRA Kenta (JPN),HIELSCHER Lars (GER)
-World Tour Austrian Open Wels 2013,2013-01-23,TAKAKIWA Taku,CHUMAKOU Dmitry,4,0,"11,11,11,13|4,7,5,11",R64,GRAND_SLAM,MS,106,Main Draw,TAKAKIWA Taku (JPN),CHUMAKOU Dmitry (BLR)
-World Tour Austrian Open Wels 2013,2013-01-23,ELOI Damien,WANG Zengyi,4,0,"12,11,11,11|10,9,4,6",R64,GRAND_SLAM,MS,106,Main Draw,ELOI Damien (FRA),WANG Zengyi (POL)
-World Tour Austrian Open Wels 2013,2013-01-23,BAI He,BROSSIER Benjamin,4,2,"11,12,4,11,11,11|6,14,11,6,6,6",R64,GRAND_SLAM,MS,106,Main Draw,BAI He (SVK),BROSSIER Benjamin (FRA)
-World Tour Austrian Open Wels 2013,2013-01-23,VLASOV Grigory,BAUM Patrick,4,1,"11,14,12,11,11|6,12,14,8,4",R64,GRAND_SLAM,MS,106,Main Draw,VLASOV Grigory (RUS),BAUM Patrick (GER)
-World Tour Austrian Open Wels 2013,2013-01-23,MATTENET Adrien,OYA Hidetoshi,4,2,"11,8,11,8,11,11|4,11,6,11,9,5",R64,GRAND_SLAM,MS,106,Main Draw,MATTENET Adrien (FRA),OYA Hidetoshi (JPN)
-World Tour Austrian Open Wels 2013,2013-01-23,TSUBOI Gustavo,HABESOHN Daniel,4,1,"11,11,11,12,12|9,7,6,14,10",R64,GRAND_SLAM,MS,106,Main Draw,TSUBOI Gustavo (BRA),HABESOHN Daniel (AUT)
-World Tour Austrian Open Wels 2013,2013-01-23,GAUZY Simon,MURAMATSU Yuto,4,3,"11,9,11,7,11,9,11|6,11,7,11,7,11,3",R64,GRAND_SLAM,MS,106,Main Draw,GAUZY Simon (FRA),MURAMATSU Yuto (JPN)
-World Tour Austrian Open Wels 2013,2013-01-23,CHAN Kazuhiro,SIRUCEK Pavel,4,2,"11,7,5,11,11,11|6,11,11,3,5,9",R64,GRAND_SLAM,MS,106,Main Draw,CHAN Kazuhiro (JPN),SIRUCEK Pavel (CZE)
-World Tour Austrian Open Wels 2013,2013-01-23,SUSS Christian,FEGERL Stefan,4,3,"11,13,4,11,1,7,12|9,11,11,5,11,11,10",R64,GRAND_SLAM,MS,106,Main Draw,SUSS Christian (GER),FEGERL Stefan (AUT)
-World Tour Austrian Open Wels 2013,2013-01-23,PRIMORAC Zoran,PAIKOV Mikhail,4,2,"12,7,7,11,11,11|10,11,11,5,6,7",R64,GRAND_SLAM,MS,106,Main Draw,PRIMORAC Zoran (CRO),PAIKOV Mikhail (RUS)
-World Tour Austrian Open Wels 2013,2013-01-23,BOBOCICA Mihai,MONTEIRO Joao,4,2,"11,6,7,11,11,11|7,11,11,9,9,7",R64,GRAND_SLAM,MS,106,Main Draw,BOBOCICA Mihai (ITA),MONTEIRO Joao (POR)
-World Tour Austrian Open Wels 2013,2013-01-23,HAO Shuai,IONESCU Ovidiu,4,0,"11,11,11,11|6,6,8,3",R64,GRAND_SLAM,MS,106,Main Draw,HAO Shuai (CHN),IONESCU Ovidiu (ROU)
-World Tour Austrian Open Wels 2013,2013-01-23,RYU Seungmin,PROKOPCOV Dmitrij,4,0,"13,11,12,11|11,3,10,7",R64,GRAND_SLAM,MS,106,Main Draw,RYU Seungmin (KOR),PROKOPCOV Dmitrij (CZE)
-World Tour Austrian Open Wels 2013,2013-01-23,FANG Bo,JANCARIK Lubomir,4,0,"11,11,11,11|6,6,9,8",R64,GRAND_SLAM,MS,106,Main Draw,FANG Bo (KAZ),JANCARIK Lubomir (CZE)
-World Tour Austrian Open Wels 2013,2013-01-23,LEBESSON Emmanuel,DRINKHALL Paul,4,0,"11,15,11,11|6,13,3,6",R64,GRAND_SLAM,MS,106,Main Draw,LEBESSON Emmanuel (FRA),DRINKHALL Paul (ENG)
-World Tour Austrian Open Wels 2013,2013-01-23,HUANG Sheng-Sheng,SMIRNOV Alexey,4,2,"13,14,11,6,9,11|11,12,8,11,11,6",R64,GRAND_SLAM,MS,106,Main Draw,HUANG Sheng-Sheng (TPE),SMIRNOV Alexey (RUS)
-World Tour Austrian Open Wels 2013,2013-01-23,APOLONIA Tiago,ZHMUDENKO Yaroslav,4,1,"11,11,4,11,11|9,5,11,6,8",R64,GRAND_SLAM,MS,106,Main Draw,APOLONIA Tiago (POR),ZHMUDENKO Yaroslav (UKR)
-World Tour Austrian Open Wels 2013,2013-01-23,TAN Ruiwu,KONECNY Tomas,4,1,"9,11,11,11,13|11,4,2,3,11",R64,GRAND_SLAM,MS,106,Main Draw,TAN Ruiwu (CRO),KONECNY Tomas (CZE)
-World Tour Austrian Open Wels 2013,2013-01-23,FRANZISKA Patrick,BOULOUSSA Mehdi,4,1,"6,11,11,11,11|11,6,8,9,8",R64,GRAND_SLAM,MS,106,Main Draw,FRANZISKA Patrick (GER),BOULOUSSA Mehdi (ALG)
-World Tour Austrian Open Wels 2013,2013-01-23,FREITAS Marcos,DIDUKH Oleksandr,4,1,"9,11,11,11,11|11,8,7,9,6",R64,GRAND_SLAM,MS,106,Main Draw,FREITAS Marcos (POR),DIDUKH Oleksandr (UKR)
-World Tour Austrian Open Wels 2013,2013-01-23,CHEN Weixing,KARLSSON Kristian,4,1,"12,11,10,11,11|10,2,12,7,7",R64,GRAND_SLAM,MS,106,Main Draw,CHEN Weixing (AUT),KARLSSON Kristian (SWE)
-World Tour Austrian Open Wels 2013,2013-01-23,GERELL Par,KREANGA Kalinikos,4,1,"11,8,11,11,11|8,11,9,7,7",R64,GRAND_SLAM,MS,106,Main Draw,GERELL Par (SWE),KREANGA Kalinikos (GRE)
-World Tour Austrian Open Wels 2013,2013-01-23,ZHOU Yu,KOSOWSKI Jakub,4,1,"6,11,11,11,11|11,6,9,9,9",R64,GRAND_SLAM,MS,106,Main Draw,ZHOU Yu (CHN),KOSOWSKI Jakub (POL)
-World Tour Austrian Open Wels 2013,2013-01-23,GORAK Daniel,GIONIS Panagiotis,4,2,"11,9,11,11,11,11|13,11,8,5,5,6",R64,GRAND_SLAM,MS,106,Main Draw,GORAK Daniel (POL),GIONIS Panagiotis (GRE)
-World Tour Austrian Open Wels 2013,2013-01-23,GACINA Andrej,ROBINOT Alexandre,4,0,"11,11,11,11|8,8,4,8",R64,GRAND_SLAM,MS,106,Main Draw,GACINA Andrej (CRO),ROBINOT Alexandre (FRA)
-World Tour Austrian Open Wels 2013,2013-01-23,ACHANTA Sharath,MUTTI Leonardo,4,1,"11,5,11,11,11|9,11,9,9,4",R64,GRAND_SLAM,MS,106,Main Draw,ACHANTA Sharath (IND),MUTTI Leonardo (ITA)
-World Tour Austrian Open Wels 2013,2013-01-23,LUNDQVIST Jens,KOSIBA Daniel,4,0,"11,11,11,11|9,5,6,2",R64,GRAND_SLAM,MS,106,Main Draw,LUNDQVIST Jens (SWE),KOSIBA Daniel (HUN)
-World Tour Austrian Open Wels 2013,2013-01-23,CHUANG Chih-Yuan,MENGEL Steffen,4,1,"5,11,11,15,11|11,8,8,13,6",R64,GRAND_SLAM,MS,106,Main Draw,CHUANG Chih-Yuan (TPE),MENGEL Steffen (GER)
-World Tour Austrian Open Wels 2013,2013-01-23,ZHANG Jike,JEVTOVIC Marko,4,0,"11,11,11,11|9,7,9,5",R32,GRAND_SLAM,MS,106,Main Draw,ZHANG Jike (CHN),JEVTOVIC Marko (SRB)
-World Tour Austrian Open Wels 2013,2013-01-23,MATSUDAIRA Kenta,MATSUDAIRA Kenji,4,2,"11,5,11,11,7,11|7,11,8,6,11,7",R32,GRAND_SLAM,MS,106,Main Draw,MATSUDAIRA Kenta (JPN),MATSUDAIRA Kenji (JPN)
-World Tour Austrian Open Wels 2013,2013-01-23,TAKAKIWA Taku,ELOI Damien,4,2,"12,11,3,9,11,11|10,9,11,11,6,7",R32,GRAND_SLAM,MS,106,Main Draw,TAKAKIWA Taku (JPN),ELOI Damien (FRA)
-World Tour Austrian Open Wels 2013,2013-01-23,VLASOV Grigory,BAI He,4,3,"11,11,8,12,9,8,14|8,6,11,10,11,11,12",R32,GRAND_SLAM,MS,106,Main Draw,VLASOV Grigory (RUS),BAI He (SVK)
-World Tour Austrian Open Wels 2013,2013-01-23,TSUBOI Gustavo,MATTENET Adrien,4,3,"11,11,11,14,8,9,13|8,7,3,16,11,11,11",R32,GRAND_SLAM,MS,106,Main Draw,TSUBOI Gustavo (BRA),MATTENET Adrien (FRA)
-World Tour Austrian Open Wels 2013,2013-01-23,CHAN Kazuhiro,GAUZY Simon,4,0,"11,11,11,11|7,8,8,8",R32,GRAND_SLAM,MS,106,Main Draw,CHAN Kazuhiro (JPN),GAUZY Simon (FRA)
-World Tour Austrian Open Wels 2013,2013-01-23,SUSS Christian,PRIMORAC Zoran,4,2,"11,5,12,11,11,15|7,11,14,5,3,13",R32,GRAND_SLAM,MS,106,Main Draw,SUSS Christian (GER),PRIMORAC Zoran (CRO)
-World Tour Austrian Open Wels 2013,2013-01-23,HAO Shuai,BOBOCICA Mihai,4,0,"11,11,11,11|8,7,5,3",R32,GRAND_SLAM,MS,106,Main Draw,HAO Shuai (CHN),BOBOCICA Mihai (ITA)
-World Tour Austrian Open Wels 2013,2013-01-23,FANG Bo,RYU Seungmin,4,1,"11,11,5,11,15|4,9,11,5,13",R32,GRAND_SLAM,MS,106,Main Draw,FANG Bo (KAZ),RYU Seungmin (KOR)
-World Tour Austrian Open Wels 2013,2013-01-23,LEBESSON Emmanuel,HUANG Sheng-Sheng,4,2,"4,11,5,14,11,11|11,8,11,12,5,9",R32,GRAND_SLAM,MS,106,Main Draw,LEBESSON Emmanuel (FRA),HUANG Sheng-Sheng (TPE)
-World Tour Austrian Open Wels 2013,2013-01-23,TAN Ruiwu,APOLONIA Tiago,4,3,"13,12,6,7,11,11,11|11,14,11,11,9,7,3",R32,GRAND_SLAM,MS,106,Main Draw,TAN Ruiwu (CRO),APOLONIA Tiago (POR)
-World Tour Austrian Open Wels 2013,2013-01-23,FREITAS Marcos,FRANZISKA Patrick,4,0,"11,11,11,11|6,9,5,6",R32,GRAND_SLAM,MS,106,Main Draw,FREITAS Marcos (POR),FRANZISKA Patrick (GER)
-World Tour Austrian Open Wels 2013,2013-01-23,GERELL Par,CHEN Weixing,4,3,"7,6,12,11,14,7,11|11,11,10,8,12,11,8",R32,GRAND_SLAM,MS,106,Main Draw,GERELL Par (SWE),CHEN Weixing (AUT)
-World Tour Austrian Open Wels 2013,2013-01-23,ZHOU Yu,GORAK Daniel,4,2,"8,11,11,7,11,13|11,8,7,11,7,11",R32,GRAND_SLAM,MS,106,Main Draw,ZHOU Yu (CHN),GORAK Daniel (POL)
-World Tour Austrian Open Wels 2013,2013-01-23,GACINA Andrej,ACHANTA Sharath,4,1,"11,8,11,11,11|8,11,7,8,7",R32,GRAND_SLAM,MS,106,Main Draw,GACINA Andrej (CRO),ACHANTA Sharath (IND)
-World Tour Austrian Open Wels 2013,2013-01-23,CHUANG Chih-Yuan,LUNDQVIST Jens,4,0,"11,13,11,11|8,11,4,6",R32,GRAND_SLAM,MS,106,Main Draw,CHUANG Chih-Yuan (TPE),LUNDQVIST Jens (SWE)
-World Tour Austrian Open Wels 2013,2013-01-23,ZHANG Jike,MATSUDAIRA Kenta,4,3,"6,8,11,11,11,9,11|11,11,5,4,7,11,4",R16,GRAND_SLAM,MS,106,Main Draw,ZHANG Jike (CHN),MATSUDAIRA Kenta (JPN)
-World Tour Austrian Open Wels 2013,2013-01-23,TAKAKIWA Taku,VLASOV Grigory,4,1,"10,11,11,11,11|12,4,9,5,6",R16,GRAND_SLAM,MS,106,Main Draw,TAKAKIWA Taku (JPN),VLASOV Grigory (RUS)
-World Tour Austrian Open Wels 2013,2013-01-23,CHAN Kazuhiro,TSUBOI Gustavo,4,2,"14,9,11,6,11,11|12,11,3,11,6,4",R16,GRAND_SLAM,MS,106,Main Draw,CHAN Kazuhiro (JPN),TSUBOI Gustavo (BRA)
-World Tour Austrian Open Wels 2013,2013-01-23,HAO Shuai,SUSS Christian,4,1,"11,8,11,11,11|6,11,3,6,9",R16,GRAND_SLAM,MS,106,Main Draw,HAO Shuai (CHN),SUSS Christian (GER)
-World Tour Austrian Open Wels 2013,2013-01-23,FANG Bo,LEBESSON Emmanuel,4,0,"11,11,11,11|5,9,8,9",R16,GRAND_SLAM,MS,106,Main Draw,FANG Bo (KAZ),LEBESSON Emmanuel (FRA)
-World Tour Austrian Open Wels 2013,2013-01-23,TAN Ruiwu,FREITAS Marcos,4,1,"11,9,11,11,14|9,11,4,7,12",R16,GRAND_SLAM,MS,106,Main Draw,TAN Ruiwu (CRO),FREITAS Marcos (POR)
-World Tour Austrian Open Wels 2013,2013-01-23,ZHOU Yu,GERELL Par,4,1,"12,9,11,11,12|10,11,6,5,10",R16,GRAND_SLAM,MS,106,Main Draw,ZHOU Yu (CHN),GERELL Par (SWE)
-World Tour Austrian Open Wels 2013,2013-01-23,CHUANG Chih-Yuan,GACINA Andrej,4,1,"11,11,12,8,11|9,7,10,11,7",R16,GRAND_SLAM,MS,106,Main Draw,CHUANG Chih-Yuan (TPE),GACINA Andrej (CRO)
-World Tour Austrian Open Wels 2013,2013-01-23,TAKAKIWA Taku,ZHANG Jike,4,3,"10,11,6,8,12,11,13|12,9,11,11,10,7,11",QF,GRAND_SLAM,MS,106,Main Draw,TAKAKIWA Taku (JPN),ZHANG Jike (CHN)
-World Tour Austrian Open Wels 2013,2013-01-23,HAO Shuai,CHAN Kazuhiro,4,0,"11,11,12,11|5,6,10,8",QF,GRAND_SLAM,MS,106,Main Draw,HAO Shuai (CHN),CHAN Kazuhiro (JPN)
-World Tour Austrian Open Wels 2013,2013-01-23,FANG Bo,TAN Ruiwu,4,2,"11,9,11,11,2,11|7,11,3,9,11,5",QF,GRAND_SLAM,MS,106,Main Draw,FANG Bo (KAZ),TAN Ruiwu (CRO)
-World Tour Austrian Open Wels 2013,2013-01-23,CHUANG Chih-Yuan,ZHOU Yu,4,2,"11,11,11,1,9,11|6,4,7,11,11,9",QF,GRAND_SLAM,MS,106,Main Draw,CHUANG Chih-Yuan (TPE),ZHOU Yu (CHN)
-World Tour Austrian Open Wels 2013,2013-01-23,HAO Shuai,TAKAKIWA Taku,4,0,"11,11,11,11|4,6,7,4",SF,GRAND_SLAM,MS,106,Main Draw,HAO Shuai (CHN),TAKAKIWA Taku (JPN)
-World Tour Austrian Open Wels 2013,2013-01-23,FANG Bo,CHUANG Chih-Yuan,4,1,"12,11,11,11,11|10,6,13,3,5",SF,GRAND_SLAM,MS,106,Main Draw,FANG Bo (KAZ),CHUANG Chih-Yuan (TPE)
-World Tour Austrian Open Wels 2013,2013-01-23,FANG Bo,HAO Shuai,4,2,"11,9,2,11,11,11|8,11,11,6,8,8",F,GRAND_SLAM,MS,106,Main Draw,FANG Bo (KAZ),HAO Shuai (CHN)
-World Tour Austrian Open Wels 2013,2013-01-23,DING Ning,KUMAHARA Luca,4,1,"11,10,14,11,11|6,12,12,2,1",R64,GRAND_SLAM,WS,106,Main Draw,DING Ning (CHN),KUMAHARA Luca (BRA)
-World Tour Austrian Open Wels 2013,2013-01-23,RAMIREZ Sara,ERDELJI Anamaria,4,2,"11,5,11,11,8,11|5,11,9,9,11,9",R64,GRAND_SLAM,WS,106,Main Draw,RAMIREZ Sara (ESP),ERDELJI Anamaria (SRB)
-World Tour Austrian Open Wels 2013,2013-01-23,LOVAS Petra,FADEEVA Oxana,4,1,"10,11,11,11,11|12,9,4,9,4",R64,GRAND_SLAM,WS,106,Main Draw,LOVAS Petra (HUN),FADEEVA Oxana (RUS)
-World Tour Austrian Open Wels 2013,2013-01-23,VACENOVSKA Iveta,DRINKHALL Joanna,4,0,"11,14,12,11|3,12,10,6",R64,GRAND_SLAM,WS,106,Main Draw,VACENOVSKA Iveta (CZE),DRINKHALL Joanna (ENG)
-World Tour Austrian Open Wels 2013,2013-01-23,BOLLMEIER Nadine,LI Xue,4,2,"4,9,14,11,11,11|11,11,12,8,2,4",R64,GRAND_SLAM,WS,106,Main Draw,BOLLMEIER Nadine (GER),LI Xue (FRA)
-World Tour Austrian Open Wels 2013,2013-01-23,YOON Sunae,KUZMINA Elena,4,0,"11,11,11,11|9,6,9,8",R64,GRAND_SLAM,WS,106,Main Draw,YOON Sunae (KOR),KUZMINA Elena (RUS)
-World Tour Austrian Open Wels 2013,2013-01-23,SOLJA Amelie,NOSKOVA Yana,4,2,"11,6,9,11,11,11|3,11,11,5,5,6",R64,GRAND_SLAM,WS,106,Main Draw,SOLJA Amelie (AUT),NOSKOVA Yana (RUS)
-World Tour Austrian Open Wels 2013,2013-01-23,CHEN Meng,AMBRUS Krisztina,4,0,"11,11,11,11|8,1,8,6",R64,GRAND_SLAM,WS,106,Main Draw,CHEN Meng (CHN),AMBRUS Krisztina (HUN)
-World Tour Austrian Open Wels 2013,2013-01-23,PAVLOVICH Viktoria,TIAN Yuan,4,2,"8,10,11,11,11,11|11,12,6,7,1,9",R64,GRAND_SLAM,WS,106,Main Draw,PAVLOVICH Viktoria (BLR),TIAN Yuan (CRO)
-World Tour Austrian Open Wels 2013,2013-01-23,PERGEL Szandra,LANG Kristin,4,0,"11,11,11,11|5,9,9,6",R64,GRAND_SLAM,WS,106,Main Draw,PERGEL Szandra (HUN),LANG Kristin (GER)
-World Tour Austrian Open Wels 2013,2013-01-23,BARTHEL Zhenqi,MIKHAILOVA Polina,4,1,"11,10,11,11,12|5,12,7,8,10",R64,GRAND_SLAM,WS,106,Main Draw,BARTHEL Zhenqi (GER),MIKHAILOVA Polina (RUS)
-World Tour Austrian Open Wels 2013,2013-01-23,WEN Jia,MATSUDAIRA Shiho,4,0,"11,11,11,11|4,7,6,6",R64,GRAND_SLAM,WS,106,Main Draw,WEN Jia (CHN),MATSUDAIRA Shiho (JPN)
-World Tour Austrian Open Wels 2013,2013-01-23,LIU Jia,PENKAVOVA Katerina,4,0,"11,11,12,17|7,7,10,15",R64,GRAND_SLAM,WS,106,Main Draw,LIU Jia (AUT),PENKAVOVA Katerina (CZE)
-World Tour Austrian Open Wels 2013,2013-01-23,YOO Eunchong,TOTH Krisztina,4,0,"11,11,11,11|6,4,9,8",R64,GRAND_SLAM,WS,106,Main Draw,YOO Eunchong (KOR),TOTH Krisztina (HUN)
-World Tour Austrian Open Wels 2013,2013-01-23,IVANCAN Irene,IACOB Camelia,4,2,"11,11,6,11,12,11|7,4,11,7,14,4",R64,GRAND_SLAM,WS,106,Main Draw,IVANCAN Irene (GER),IACOB Camelia (ROU)
-World Tour Austrian Open Wels 2013,2013-01-23,WU Yang,FUJII Yuko,4,0,"11,11,11,11|5,5,5,3",R64,GRAND_SLAM,WS,106,Main Draw,WU Yang (CHN),FUJII Yuko (JPN)
-World Tour Austrian Open Wels 2013,2013-01-23,ISHIKAWA Kasumi,CHOI Jeongmin,4,2,"11,11,11,9,11,11|8,5,5,11,13,5",R64,GRAND_SLAM,WS,106,Main Draw,ISHIKAWA Kasumi (JPN),CHOI Jeongmin (KOR)
-World Tour Austrian Open Wels 2013,2013-01-23,NONAKA Yuki,LEE Ho Ching,4,2,"7,11,11,4,11,11|11,4,4,11,4,4",R64,GRAND_SLAM,WS,106,Main Draw,NONAKA Yuki (JPN),LEE Ho Ching (HKG)
-World Tour Austrian Open Wels 2013,2013-01-23,TIKHOMIROVA Anna,TASHIRO Saki,4,3,"11,3,11,6,7,14,13|5,11,8,11,11,12,11",R64,GRAND_SLAM,WS,106,Main Draw,TIKHOMIROVA Anna (RUS),TASHIRO Saki (JPN)
-World Tour Austrian Open Wels 2013,2013-01-23,LI Fen,SOLJA Petrissa,4,2,"11,11,10,7,12,11|6,2,12,11,10,7",R64,GRAND_SLAM,WS,106,Main Draw,LI Fen (SWE),SOLJA Petrissa (GER)
-World Tour Austrian Open Wels 2013,2013-01-23,ZHU Yuling,PRIVALOVA Alexandra,4,1,"11,13,11,9,11|9,11,7,11,6",R64,GRAND_SLAM,WS,106,Main Draw,ZHU Yuling (MAC),PRIVALOVA Alexandra (BLR)
-World Tour Austrian Open Wels 2013,2013-01-23,STRBIKOVA Renata,MATSUMOTO Yuki,4,0,"11,11,15,13|7,1,13,11",R64,GRAND_SLAM,WS,106,Main Draw,STRBIKOVA Renata (CZE),MATSUMOTO Yuki (JPN)
-World Tour Austrian Open Wels 2013,2013-01-23,KANG Misoon,NG Wing Nam,4,0,"11,11,11,13|4,8,5,11",R64,GRAND_SLAM,WS,106,Main Draw,KANG Misoon (KOR),NG Wing Nam (HKG)
-World Tour Austrian Open Wels 2013,2013-01-23,JIANG Huajun,MADARASZ Dora,4,1,"11,9,11,11,11|9,11,9,6,5",R64,GRAND_SLAM,WS,106,Main Draw,JIANG Huajun (HKG),MADARASZ Dora (HUN)
-World Tour Austrian Open Wels 2013,2013-01-23,LI Jiao,STEFANSKA Kinga,4,0,"11,13,11,11|6,11,7,6",R64,GRAND_SLAM,WS,106,Main Draw,LI Jiao (NED),STEFANSKA Kinga (POL)
-World Tour Austrian Open Wels 2013,2013-01-23,SONG Maeum,SZOCS Bernadette,4,3,"9,6,11,11,3,11,11|11,11,7,6,11,5,7",R64,GRAND_SLAM,WS,106,Main Draw,SONG Maeum (KOR),SZOCS Bernadette (ROU)
-World Tour Austrian Open Wels 2013,2013-01-23,MORIZONO Misaki,POLCANOVA Sofia,4,1,"8,11,11,11,11|11,9,9,4,2",R64,GRAND_SLAM,WS,106,Main Draw,MORIZONO Misaki (JPN),POLCANOVA Sofia (AUT)
-World Tour Austrian Open Wels 2013,2013-01-23,WAKAMIYA Misako,GRUNDISCH Carole,4,1,"12,11,11,7,11|10,5,9,11,9",R64,GRAND_SLAM,WS,106,Main Draw,WAKAMIYA Misako (JPN),GRUNDISCH Carole (FRA)
-World Tour Austrian Open Wels 2013,2013-01-23,HUANG Yi-Hua,SHAN Xiaona,4,2,"14,7,11,7,11,11|12,11,6,11,8,7",R64,GRAND_SLAM,WS,106,Main Draw,HUANG Yi-Hua (TPE),SHAN Xiaona (GER)
-World Tour Austrian Open Wels 2013,2013-01-23,SKOV Mie,CREEMERS Linda,4,1,"11,11,4,11,11|6,3,11,8,9",R64,GRAND_SLAM,WS,106,Main Draw,SKOV Mie (DEN),CREEMERS Linda (NED)
-World Tour Austrian Open Wels 2013,2013-01-23,CHENG I-Ching,MOLNAR Cornelia,4,2,"11,12,6,10,11,11|8,10,11,12,2,6",R64,GRAND_SLAM,WS,106,Main Draw,CHENG I-Ching (TPE),MOLNAR Cornelia (CRO)
-World Tour Austrian Open Wels 2013,2013-01-23,LI Xiaoxia,BIKBAEVA Anna,4,0,"11,11,11,11|5,1,7,2",R64,GRAND_SLAM,WS,106,Main Draw,LI Xiaoxia (CHN),BIKBAEVA Anna (RUS)
-World Tour Austrian Open Wels 2013,2013-01-23,DING Ning,RAMIREZ Sara,4,0,"11,11,11,11|3,7,4,4",R32,GRAND_SLAM,WS,106,Main Draw,DING Ning (CHN),RAMIREZ Sara (ESP)
-World Tour Austrian Open Wels 2013,2013-01-23,VACENOVSKA Iveta,LOVAS Petra,4,1,"11,10,11,11,11|8,12,7,8,8",R32,GRAND_SLAM,WS,106,Main Draw,VACENOVSKA Iveta (CZE),LOVAS Petra (HUN)
-World Tour Austrian Open Wels 2013,2013-01-23,YOON Sunae,BOLLMEIER Nadine,4,0,"11,11,11,11|7,7,6,5",R32,GRAND_SLAM,WS,106,Main Draw,YOON Sunae (KOR),BOLLMEIER Nadine (GER)
-World Tour Austrian Open Wels 2013,2013-01-23,CHEN Meng,SOLJA Amelie,4,3,"8,5,11,11,13,11,17|11,11,13,3,11,8,15",R32,GRAND_SLAM,WS,106,Main Draw,CHEN Meng (CHN),SOLJA Amelie (AUT)
-World Tour Austrian Open Wels 2013,2013-01-23,PAVLOVICH Viktoria,PERGEL Szandra,4,0,"11,11,11,11|9,5,3,1",R32,GRAND_SLAM,WS,106,Main Draw,PAVLOVICH Viktoria (BLR),PERGEL Szandra (HUN)
-World Tour Austrian Open Wels 2013,2013-01-23,WEN Jia,BARTHEL Zhenqi,4,1,"11,11,11,6,12|6,7,4,11,10",R32,GRAND_SLAM,WS,106,Main Draw,WEN Jia (CHN),BARTHEL Zhenqi (GER)
-World Tour Austrian Open Wels 2013,2013-01-23,LIU Jia,YOO Eunchong,4,2,"11,8,11,11,9,11|9,11,5,6,11,5",R32,GRAND_SLAM,WS,106,Main Draw,LIU Jia (AUT),YOO Eunchong (KOR)
-World Tour Austrian Open Wels 2013,2013-01-23,WU Yang,IVANCAN Irene,4,0,"11,11,13,11|7,9,11,3",R32,GRAND_SLAM,WS,106,Main Draw,WU Yang (CHN),IVANCAN Irene (GER)
-World Tour Austrian Open Wels 2013,2013-01-23,ISHIKAWA Kasumi,NONAKA Yuki,4,1,"11,9,11,13,11|7,11,9,11,7",R32,GRAND_SLAM,WS,106,Main Draw,ISHIKAWA Kasumi (JPN),NONAKA Yuki (JPN)
-World Tour Austrian Open Wels 2013,2013-01-23,LI Fen,TIKHOMIROVA Anna,4,1,"11,6,11,11,11|6,11,8,2,5",R32,GRAND_SLAM,WS,106,Main Draw,LI Fen (SWE),TIKHOMIROVA Anna (RUS)
-World Tour Austrian Open Wels 2013,2013-01-23,ZHU Yuling,STRBIKOVA Renata,4,0,"11,11,11,11|7,6,9,8",R32,GRAND_SLAM,WS,106,Main Draw,ZHU Yuling (MAC),STRBIKOVA Renata (CZE)
-World Tour Austrian Open Wels 2013,2013-01-23,JIANG Huajun,KANG Misoon,4,3,"11,5,11,8,3,11,14|6,11,4,11,11,7,12",R32,GRAND_SLAM,WS,106,Main Draw,JIANG Huajun (HKG),KANG Misoon (KOR)
-World Tour Austrian Open Wels 2013,2013-01-23,LI Jiao,SONG Maeum,4,1,"5,11,11,11,11|11,8,7,5,6",R32,GRAND_SLAM,WS,106,Main Draw,LI Jiao (NED),SONG Maeum (KOR)
-World Tour Austrian Open Wels 2013,2013-01-23,MORIZONO Misaki,WAKAMIYA Misako,4,0,"11,14,11,19|6,12,6,17",R32,GRAND_SLAM,WS,106,Main Draw,MORIZONO Misaki (JPN),WAKAMIYA Misako (JPN)
-World Tour Austrian Open Wels 2013,2013-01-23,HUANG Yi-Hua,SKOV Mie,4,1,"10,11,13,11,11|12,5,11,8,8",R32,GRAND_SLAM,WS,106,Main Draw,HUANG Yi-Hua (TPE),SKOV Mie (DEN)
-World Tour Austrian Open Wels 2013,2013-01-23,LI Xiaoxia,CHENG I-Ching,4,0,"11,11,11,11|3,6,6,9",R32,GRAND_SLAM,WS,106,Main Draw,LI Xiaoxia (CHN),CHENG I-Ching (TPE)
-World Tour Austrian Open Wels 2013,2013-01-23,DING Ning,VACENOVSKA Iveta,4,0,"11,11,11,12|6,4,5,10",R16,GRAND_SLAM,WS,106,Main Draw,DING Ning (CHN),VACENOVSKA Iveta (CZE)
-World Tour Austrian Open Wels 2013,2013-01-23,CHEN Meng,YOON Sunae,4,1,"11,11,14,8,11|5,6,12,11,8",R16,GRAND_SLAM,WS,106,Main Draw,CHEN Meng (CHN),YOON Sunae (KOR)
-World Tour Austrian Open Wels 2013,2013-01-23,PAVLOVICH Viktoria,WEN Jia,4,1,"11,11,8,11,11|8,7,11,7,8",R16,GRAND_SLAM,WS,106,Main Draw,PAVLOVICH Viktoria (BLR),WEN Jia (CHN)
-World Tour Austrian Open Wels 2013,2013-01-23,ISHIKAWA Kasumi,LI Fen,4,1,"11,11,9,11,16|7,9,11,4,14",R16,GRAND_SLAM,WS,106,Main Draw,ISHIKAWA Kasumi (JPN),LI Fen (SWE)
-World Tour Austrian Open Wels 2013,2013-01-23,ZHU Yuling,JIANG Huajun,4,0,"11,11,11,11|8,5,6,6",R16,GRAND_SLAM,WS,106,Main Draw,ZHU Yuling (MAC),JIANG Huajun (HKG)
-World Tour Austrian Open Wels 2013,2013-01-23,LI Jiao,MORIZONO Misaki,4,2,"9,6,11,11,11,11|11,11,9,8,6,6",R16,GRAND_SLAM,WS,106,Main Draw,LI Jiao (NED),MORIZONO Misaki (JPN)
-World Tour Austrian Open Wels 2013,2013-01-23,LI Xiaoxia,HUANG Yi-Hua,4,0,"11,11,11,11|4,5,6,5",R16,GRAND_SLAM,WS,106,Main Draw,LI Xiaoxia (CHN),HUANG Yi-Hua (TPE)
-World Tour Austrian Open Wels 2013,2013-01-23,DING Ning,CHEN Meng,4,0,"11,11,11,11|7,8,8,9",QF,GRAND_SLAM,WS,106,Main Draw,DING Ning (CHN),CHEN Meng (CHN)
-World Tour Austrian Open Wels 2013,2013-01-23,WU Yang,PAVLOVICH Viktoria,4,0,"11,11,11,11|6,6,5,9",QF,GRAND_SLAM,WS,106,Main Draw,WU Yang (CHN),PAVLOVICH Viktoria (BLR)
-World Tour Austrian Open Wels 2013,2013-01-23,ISHIKAWA Kasumi,ZHU Yuling,4,1,"8,11,11,11,13|11,3,9,3,11",QF,GRAND_SLAM,WS,106,Main Draw,ISHIKAWA Kasumi (JPN),ZHU Yuling (MAC)
-World Tour Austrian Open Wels 2013,2013-01-23,LI Xiaoxia,LI Jiao,4,0,"11,11,11,11|4,7,9,5",QF,GRAND_SLAM,WS,106,Main Draw,LI Xiaoxia (CHN),LI Jiao (NED)
-World Tour Austrian Open Wels 2013,2013-01-23,DING Ning,WU Yang,4,2,"11,11,6,11,7,11|3,7,11,2,11,8",SF,GRAND_SLAM,WS,106,Main Draw,DING Ning (CHN),WU Yang (CHN)
-World Tour Austrian Open Wels 2013,2013-01-23,LI Xiaoxia,ISHIKAWA Kasumi,4,1,"13,9,11,11,11|11,11,4,6,5",SF,GRAND_SLAM,WS,106,Main Draw,LI Xiaoxia (CHN),ISHIKAWA Kasumi (JPN)
-World Tour Austrian Open Wels 2013,2013-01-23,DING Ning,LI Xiaoxia,4,0,"12,13,11,11|10,11,0,0",F,GRAND_SLAM,WS,106,Main Draw,DING Ning (CHN),LI Xiaoxia (CHN)
-World Tour Austrian Open Wels 2013,2013-01-23,MURAMATSU Yuto,JOST Frederick,3,1,"11,11,8,11|3,7,11,2",R32,GRAND_SLAM,U21MS,106,Main Draw,MURAMATSU Yuto (JPN),JOST Frederick (GER)
-World Tour Austrian Open Wels 2013,2013-01-23,NUYTINCK Cedric,MIHAILOVIC Boris,3,0,"11,11,11|5,8,5",R32,GRAND_SLAM,U21MS,106,Main Draw,NUYTINCK Cedric (BEL),MIHAILOVIC Boris (SRB)
-World Tour Austrian Open Wels 2013,2013-01-23,DYJAS Jakub,HUNG Tzu-Hsiang,3,2,"11,6,9,11,12|4,11,11,9,10",R32,GRAND_SLAM,U21MS,106,Main Draw,DYJAS Jakub (POL),HUNG Tzu-Hsiang (TPE)
-World Tour Austrian Open Wels 2013,2013-01-23,GROTH Jonathan,BROSSIER Benjamin,3,1,"12,7,11,11|10,11,7,9",R32,GRAND_SLAM,U21MS,106,Main Draw,GROTH Jonathan (DEN),BROSSIER Benjamin (FRA)
-World Tour Austrian Open Wels 2013,2013-01-23,LORENTZ Romain,PUCAR Tomislav,3,1,"9,11,11,12|11,9,6,10",R32,GRAND_SLAM,U21MS,106,Main Draw,LORENTZ Romain (FRA),PUCAR Tomislav (CRO)
-World Tour Austrian Open Wels 2013,2013-01-23,ROBINOT Alexandre,SAKAI Asuka,3,1,"11,11,5,11|8,4,11,3",R32,GRAND_SLAM,U21MS,106,Main Draw,ROBINOT Alexandre (FRA),SAKAI Asuka (JPN)
-World Tour Austrian Open Wels 2013,2013-01-23,SZOCS Hunor,JEAN Lauric,3,1,"14,11,11,11|16,6,3,9",R32,GRAND_SLAM,U21MS,106,Main Draw,SZOCS Hunor (ROU),JEAN Lauric (BEL)
-World Tour Austrian Open Wels 2013,2013-01-23,GAUZY Simon,SHIBATA Naoto,3,0,"11,11,11|8,8,8",R32,GRAND_SLAM,U21MS,106,Main Draw,GAUZY Simon (FRA),SHIBATA Naoto (JPN)
-World Tour Austrian Open Wels 2013,2013-01-23,YOSHIMURA Maharu,KULPA Konrad,3,1,"11,15,8,11|7,13,11,6",R32,GRAND_SLAM,U21MS,106,Main Draw,YOSHIMURA Maharu (JPN),KULPA Konrad (POL)
-World Tour Austrian Open Wels 2013,2013-01-23,INDEHERBERG Julien,HACHARD Antoine,3,0,"11,13,11|7,11,9",R32,GRAND_SLAM,U21MS,106,Main Draw,INDEHERBERG Julien (BEL),HACHARD Antoine (FRA)
-World Tour Austrian Open Wels 2013,2013-01-23,LAKATOS Tamas,HIGASHI Yuto,3,2,"11,6,11,7,11|9,11,5,11,9",R32,GRAND_SLAM,U21MS,106,Main Draw,LAKATOS Tamas (HUN),HIGASHI Yuto (JPN)
-World Tour Austrian Open Wels 2013,2013-01-23,FLORAS Robert,TRAN Anthony,3,0,"11,11,12|9,9,10",R32,GRAND_SLAM,U21MS,106,Main Draw,FLORAS Robert (POL),TRAN Anthony (SWE)
-World Tour Austrian Open Wels 2013,2013-01-23,SIRUCEK Pavel,DUDA Benedikt,3,0,"11,11,11|4,6,9",R32,GRAND_SLAM,U21MS,106,Main Draw,SIRUCEK Pavel (CZE),DUDA Benedikt (GER)
-World Tour Austrian Open Wels 2013,2013-01-23,ROBINOT Quentin,RECH DALDOSSO Marco,3,1,"11,12,11,11|5,14,5,8",R32,GRAND_SLAM,U21MS,106,Main Draw,ROBINOT Quentin (FRA),RECH DALDOSSO Marco (ITA)
-World Tour Austrian Open Wels 2013,2013-01-23,MUTTI Leonardo,ZIBRAT Jan,3,2,"7,11,6,11,11|11,9,11,9,8",R32,GRAND_SLAM,U21MS,106,Main Draw,MUTTI Leonardo (ITA),ZIBRAT Jan (SLO)
-World Tour Austrian Open Wels 2013,2013-01-23,FRANZISKA Patrick,ANGLES Enzo,3,0,"11,12,11|5,10,6",R32,GRAND_SLAM,U21MS,106,Main Draw,FRANZISKA Patrick (GER),ANGLES Enzo (FRA)
-World Tour Austrian Open Wels 2013,2013-01-23,MURAMATSU Yuto,NUYTINCK Cedric,3,0,"11,11,11|9,7,6",R16,GRAND_SLAM,U21MS,106,Main Draw,MURAMATSU Yuto (JPN),NUYTINCK Cedric (BEL)
-World Tour Austrian Open Wels 2013,2013-01-23,GROTH Jonathan,DYJAS Jakub,3,2,"9,11,6,16,11|11,6,11,14,5",R16,GRAND_SLAM,U21MS,106,Main Draw,GROTH Jonathan (DEN),DYJAS Jakub (POL)
-World Tour Austrian Open Wels 2013,2013-01-23,LORENTZ Romain,ROBINOT Alexandre,3,0,"11,12,11|7,10,6",R16,GRAND_SLAM,U21MS,106,Main Draw,LORENTZ Romain (FRA),ROBINOT Alexandre (FRA)
-World Tour Austrian Open Wels 2013,2013-01-23,SZOCS Hunor,GAUZY Simon,3,2,"11,4,11,8,11|9,11,7,11,8",R16,GRAND_SLAM,U21MS,106,Main Draw,SZOCS Hunor (ROU),GAUZY Simon (FRA)
-World Tour Austrian Open Wels 2013,2013-01-23,YOSHIMURA Maharu,INDEHERBERG Julien,3,0,"11,11,11|4,7,8",R16,GRAND_SLAM,U21MS,106,Main Draw,YOSHIMURA Maharu (JPN),INDEHERBERG Julien (BEL)
-World Tour Austrian Open Wels 2013,2013-01-23,LAKATOS Tamas,FLORAS Robert,3,2,"13,11,1,8,11|11,6,11,11,2",R16,GRAND_SLAM,U21MS,106,Main Draw,LAKATOS Tamas (HUN),FLORAS Robert (POL)
-World Tour Austrian Open Wels 2013,2013-01-23,SIRUCEK Pavel,ROBINOT Quentin,3,0,"11,14,11|7,12,8",R16,GRAND_SLAM,U21MS,106,Main Draw,SIRUCEK Pavel (CZE),ROBINOT Quentin (FRA)
-World Tour Austrian Open Wels 2013,2013-01-23,FRANZISKA Patrick,MUTTI Leonardo,3,2,"10,11,10,11,11|12,7,12,7,4",R16,GRAND_SLAM,U21MS,106,Main Draw,FRANZISKA Patrick (GER),MUTTI Leonardo (ITA)
-World Tour Austrian Open Wels 2013,2013-01-23,MURAMATSU Yuto,GROTH Jonathan,4,0,"11,11,11,11|9,6,4,6",QF,GRAND_SLAM,U21MS,106,Main Draw,MURAMATSU Yuto (JPN),GROTH Jonathan (DEN)
-World Tour Austrian Open Wels 2013,2013-01-23,SZOCS Hunor,LORENTZ Romain,4,0,"11,13,11,11|9,11,7,9",QF,GRAND_SLAM,U21MS,106,Main Draw,SZOCS Hunor (ROU),LORENTZ Romain (FRA)
-World Tour Austrian Open Wels 2013,2013-01-23,YOSHIMURA Maharu,LAKATOS Tamas,4,0,"11,11,11,11|3,9,7,3",QF,GRAND_SLAM,U21MS,106,Main Draw,YOSHIMURA Maharu (JPN),LAKATOS Tamas (HUN)
-World Tour Austrian Open Wels 2013,2013-01-23,FRANZISKA Patrick,SIRUCEK Pavel,4,3,"11,7,11,6,12,9,11|8,11,7,11,10,11,3",QF,GRAND_SLAM,U21MS,106,Main Draw,FRANZISKA Patrick (GER),SIRUCEK Pavel (CZE)
-World Tour Austrian Open Wels 2013,2013-01-23,MURAMATSU Yuto,SZOCS Hunor,4,1,"9,11,11,11,11|11,8,4,3,7",SF,GRAND_SLAM,U21MS,106,Main Draw,MURAMATSU Yuto (JPN),SZOCS Hunor (ROU)
-World Tour Austrian Open Wels 2013,2013-01-23,YOSHIMURA Maharu,FRANZISKA Patrick,4,3,"14,9,11,8,11,6,11|12,11,7,11,8,11,8",SF,GRAND_SLAM,U21MS,106,Main Draw,YOSHIMURA Maharu (JPN),FRANZISKA Patrick (GER)
-World Tour Austrian Open Wels 2013,2013-01-23,YOSHIMURA Maharu,MURAMATSU Yuto,4,2,"11,13,11,7,9,11|8,11,6,11,11,4",F,GRAND_SLAM,U21MS,106,Main Draw,YOSHIMURA Maharu (JPN),MURAMATSU Yuto (JPN)
-World Tour Austrian Open Wels 2013,2013-01-23,CHENG I-Ching,TUBIKANEC Ivana,3,0,"12,11,11|10,9,4",R32,GRAND_SLAM,U21WS,106,Main Draw,CHENG I-Ching (TPE),TUBIKANEC Ivana (CRO)
-World Tour Austrian Open Wels 2013,2013-01-23,SONG Maeum,JEGER Mateja,3,1,"11,10,11,11|8,12,3,9",R32,GRAND_SLAM,U21WS,106,Main Draw,SONG Maeum (KOR),JEGER Mateja (CRO)
-World Tour Austrian Open Wels 2013,2013-01-23,MATSUDAIRA Shiho,IACOB Camelia,3,0,"11,11,11|9,6,9",R32,GRAND_SLAM,U21WS,106,Main Draw,MATSUDAIRA Shiho (JPN),IACOB Camelia (ROU)
-World Tour Austrian Open Wels 2013,2013-01-23,VARADY Barbora,RAKOVAC Lea,3,1,"11,11,2,12|6,8,11,10",R32,GRAND_SLAM,U21WS,106,Main Draw,VARADY Barbora (SVK),RAKOVAC Lea (CRO)
-World Tour Austrian Open Wels 2013,2013-01-23,SOLJA Petrissa,GUSEVA Ekaterina,3,0,"11,11,11|2,6,9",R32,GRAND_SLAM,U21WS,106,Main Draw,SOLJA Petrissa (GER),GUSEVA Ekaterina (RUS)
-World Tour Austrian Open Wels 2013,2013-01-23,MADARASZ Dora,KUMAHARA Luca,3,1,"11,11,9,11|7,6,11,6",R32,GRAND_SLAM,U21WS,106,Main Draw,MADARASZ Dora (HUN),KUMAHARA Luca (BRA)
-World Tour Austrian Open Wels 2013,2013-01-23,NOSKOVA Yana,GASNIER Laura,3,1,"7,11,11,11|11,5,9,6",R32,GRAND_SLAM,U21WS,106,Main Draw,NOSKOVA Yana (RUS),GASNIER Laura (FRA)
-World Tour Austrian Open Wels 2013,2013-01-23,MORIZONO Misaki,VINCZE Andrada,3,1,"11,6,11,11|2,11,6,3",R32,GRAND_SLAM,U21WS,106,Main Draw,MORIZONO Misaki (JPN),VINCZE Andrada (ROU)
-World Tour Austrian Open Wels 2013,2013-01-23,YOO Eunchong,TODOROVIC Andrea,3,0,"11,11,11|7,5,6",R32,GRAND_SLAM,U21WS,106,Main Draw,YOO Eunchong (KOR),TODOROVIC Andrea (SRB)
-World Tour Austrian Open Wels 2013,2013-01-23,EERLAND Britt,XIAO Maria,3,1,"8,11,12,11|11,7,10,5",R32,GRAND_SLAM,U21WS,106,Main Draw,EERLAND Britt (NED),XIAO Maria (ESP)
-World Tour Austrian Open Wels 2013,2013-01-23,NG Wing Nam,CHOI Jeongmin,3,1,"11,11,5,11|5,3,11,9",R32,GRAND_SLAM,U21WS,106,Main Draw,NG Wing Nam (HKG),CHOI Jeongmin (KOR)
-World Tour Austrian Open Wels 2013,2013-01-23,KANG Misoon,LUPULESKU Anelia,3,0,"11,11,14|8,9,12",R32,GRAND_SLAM,U21WS,106,Main Draw,KANG Misoon (KOR),LUPULESKU Anelia (SRB)
-World Tour Austrian Open Wels 2013,2013-01-23,POLCANOVA Sofia,ABBAT Alice,3,1,"11,7,11,11|7,11,7,4",R32,GRAND_SLAM,U21WS,106,Main Draw,POLCANOVA Sofia (AUT),ABBAT Alice (FRA)
-World Tour Austrian Open Wels 2013,2013-01-23,AMBRUS Krisztina,BIKBAEVA Anna,3,0,"11,12,11|5,10,8",R32,GRAND_SLAM,U21WS,106,Main Draw,AMBRUS Krisztina (HUN),BIKBAEVA Anna (RUS)
-World Tour Austrian Open Wels 2013,2013-01-23,MATSUMOTO Yuki,LEE Ho Ching,3,2,"17,9,11,7,11|15,11,8,11,8",R32,GRAND_SLAM,U21WS,106,Main Draw,MATSUMOTO Yuki (JPN),LEE Ho Ching (HKG)
-World Tour Austrian Open Wels 2013,2013-01-23,SONG Maeum,CHENG I-Ching,3,0,"11,12,13|4,10,11",R16,GRAND_SLAM,U21WS,106,Main Draw,SONG Maeum (KOR),CHENG I-Ching (TPE)
-World Tour Austrian Open Wels 2013,2013-01-23,MATSUDAIRA Shiho,VARADY Barbora,3,0,"11,11,11|9,9,8",R16,GRAND_SLAM,U21WS,106,Main Draw,MATSUDAIRA Shiho (JPN),VARADY Barbora (SVK)
-World Tour Austrian Open Wels 2013,2013-01-23,SOLJA Petrissa,MADARASZ Dora,3,0,"11,11,14|3,5,12",R16,GRAND_SLAM,U21WS,106,Main Draw,SOLJA Petrissa (GER),MADARASZ Dora (HUN)
-World Tour Austrian Open Wels 2013,2013-01-23,NOSKOVA Yana,MORIZONO Misaki,3,0,"11,11,11|8,9,7",R16,GRAND_SLAM,U21WS,106,Main Draw,NOSKOVA Yana (RUS),MORIZONO Misaki (JPN)
-World Tour Austrian Open Wels 2013,2013-01-23,YOO Eunchong,SZOCS Bernadette,3,2,"6,11,11,4,13|11,8,7,11,11",R16,GRAND_SLAM,U21WS,106,Main Draw,YOO Eunchong (KOR),SZOCS Bernadette (ROU)
-World Tour Austrian Open Wels 2013,2013-01-23,EERLAND Britt,NG Wing Nam,3,0,"11,13,14|7,11,12",R16,GRAND_SLAM,U21WS,106,Main Draw,EERLAND Britt (NED),NG Wing Nam (HKG)
-World Tour Austrian Open Wels 2013,2013-01-23,KANG Misoon,POLCANOVA Sofia,3,0,"11,11,11|3,9,6",R16,GRAND_SLAM,U21WS,106,Main Draw,KANG Misoon (KOR),POLCANOVA Sofia (AUT)
-World Tour Austrian Open Wels 2013,2013-01-23,MATSUMOTO Yuki,AMBRUS Krisztina,3,2,"3,11,9,11,11|11,3,11,9,9",R16,GRAND_SLAM,U21WS,106,Main Draw,MATSUMOTO Yuki (JPN),AMBRUS Krisztina (HUN)
-World Tour Austrian Open Wels 2013,2013-01-23,MATSUDAIRA Shiho,SONG Maeum,4,3,"12,11,6,10,7,13,11|10,5,11,12,11,11,9",QF,GRAND_SLAM,U21WS,106,Main Draw,MATSUDAIRA Shiho (JPN),SONG Maeum (KOR)
-World Tour Austrian Open Wels 2013,2013-01-23,SOLJA Petrissa,NOSKOVA Yana,4,1,"6,11,11,11,15|11,7,3,4,13",QF,GRAND_SLAM,U21WS,106,Main Draw,SOLJA Petrissa (GER),NOSKOVA Yana (RUS)
-World Tour Austrian Open Wels 2013,2013-01-23,YOO Eunchong,EERLAND Britt,4,2,"4,13,9,13,12,12|11,11,11,11,10,10",QF,GRAND_SLAM,U21WS,106,Main Draw,YOO Eunchong (KOR),EERLAND Britt (NED)
-World Tour Austrian Open Wels 2013,2013-01-23,KANG Misoon,MATSUMOTO Yuki,4,1,"11,11,7,11,14|5,5,11,8,12",QF,GRAND_SLAM,U21WS,106,Main Draw,KANG Misoon (KOR),MATSUMOTO Yuki (JPN)
-World Tour Austrian Open Wels 2013,2013-01-23,MATSUDAIRA Shiho,SOLJA Petrissa,4,1,"11,4,11,13,11|9,11,6,11,7",SF,GRAND_SLAM,U21WS,106,Main Draw,MATSUDAIRA Shiho (JPN),SOLJA Petrissa (GER)
-World Tour Austrian Open Wels 2013,2013-01-23,KANG Misoon,YOO Eunchong,4,0,"11,11,13,11|7,7,11,8",SF,GRAND_SLAM,U21WS,106,Main Draw,KANG Misoon (KOR),YOO Eunchong (KOR)
-World Tour Austrian Open Wels 2013,2013-01-23,MATSUDAIRA Shiho,KANG Misoon,4,0,"11,11,11,11|5,8,7,9",F,GRAND_SLAM,U21WS,106,Main Draw,MATSUDAIRA Shiho (JPN),KANG Misoon (KOR)
-World Tour Austrian Open Wels 2013,2013-01-23,HAO Shuai/ZHANG Jike,GARDOS Robert/HABESOHN Daniel,3,1,"2,11,11,11|11,9,7,9",R16,GRAND_SLAM,MD,106,Main Draw,HAO Shuai (CHN) / ZHANG Jike (CHN),GARDOS Robert (AUT) / HABESOHN Daniel (AUT)
-World Tour Austrian Open Wels 2013,2013-01-23,FEGERL Stefan/FENG Xiaoquan,MATSUMOTO Cazuo/MONTEIRO Thiago,3,2,"10,11,11,11,11|12,8,6,13,5",R16,GRAND_SLAM,MD,106,Main Draw,FEGERL Stefan (AUT) / FENG Xiaoquan (AUT),MATSUMOTO Cazuo (BRA) / MONTEIRO Thiago (BRA)
-World Tour Austrian Open Wels 2013,2013-01-23,HAO Shuai/ZHANG Jike,FEGERL Stefan/FENG Xiaoquan,3,0,"13,11,11|11,4,9",QF,GRAND_SLAM,MD,106,Main Draw,HAO Shuai (CHN) / ZHANG Jike (CHN),FEGERL Stefan (AUT) / FENG Xiaoquan (AUT)
-World Tour Austrian Open Wels 2013,2013-01-23,HAO Shuai/ZHANG Jike,GERELL Par/LUNDQVIST Jens,3,2,"11,11,7,11,11|13,5,11,5,5",SF,GRAND_SLAM,MD,106,Main Draw,HAO Shuai (CHN) / ZHANG Jike (CHN),GERELL Par (SWE) / LUNDQVIST Jens (SWE)
-World Tour Austrian Open Wels 2013,2013-01-23,DING Ning/LI Xiaoxia,JIANG Huajun/LEE Ho Ching,3,0,"11,11,13|5,5,11",QF,GRAND_SLAM,WD,106,Main Draw,DING Ning (CHN) / LI Xiaoxia (CHN),JIANG Huajun (HKG) / LEE Ho Ching (HKG)
-World Tour Austrian Open Wels 2013,2013-01-23,DING Ning/LI Xiaoxia,CHEN Meng/ZHU Yuling,3,0,"11,11,15|9,6,13",F,GRAND_SLAM,WD,106,Main Draw,DING Ning (CHN) / LI Xiaoxia (CHN),CHEN Meng (CHN) / ZHU Yuling (MAC)
-World Tour Austrian Open Wels 2013,2013-01-23,TAN Ruiwu/WANG Zengyi,FREITAS Marcos/GACINA Andrej,3,1,"11,11,9,11|6,9,11,7",R16,GRAND_SLAM,MD,106,Main Draw,TAN Ruiwu (CRO) / WANG Zengyi (POL),FREITAS Marcos (POR) / GACINA Andrej (CRO)
-World Tour Austrian Open Wels 2013,2013-01-23,PENKAVOVA Katerina/VACENOVSKA Iveta,MATSUMOTO Yuki/SAKAI Haruka,3,2,"11,7,8,12,11|8,11,11,10,9",R16,GRAND_SLAM,WD,106,Main Draw,PENKAVOVA Katerina (CZE) / VACENOVSKA Iveta (CZE),MATSUMOTO Yuki (JPN) / SAKAI Haruka (JPN)
-World Tour Austrian Open Wels 2013,2013-01-23,CHEN Meng/ZHU Yuling,PENKAVOVA Katerina/VACENOVSKA Iveta,3,1,"11,11,10,11|6,8,12,1",QF,GRAND_SLAM,WD,106,Main Draw,CHEN Meng (CHN) / ZHU Yuling (MAC),PENKAVOVA Katerina (CZE) / VACENOVSKA Iveta (CZE)
-World Tour Austrian Open Wels 2013,2013-01-23,CHUANG Chih-Yuan/HUANG Sheng-Sheng,ASSAR Khalid/ASSAR Omar,3,0,"11,11,11|3,2,3",R16,GRAND_SLAM,MD,106,Main Draw,CHUANG Chih-Yuan (TPE) / HUANG Sheng-Sheng (TPE),ASSAR Khalid (EGY) / ASSAR Omar (EGY)
-World Tour Austrian Open Wels 2013,2013-01-23,JIANG Huajun/LEE Ho Ching,IVANCAN Irene/SOLJA Petrissa,3,1,"11,15,11,11|6,17,9,6",R16,GRAND_SLAM,WD,106,Main Draw,JIANG Huajun (HKG) / LEE Ho Ching (HKG),IVANCAN Irene (GER) / SOLJA Petrissa (GER)
-World Tour Austrian Open Wels 2013,2013-01-23,BARTHEL Zhenqi/SHAN Xiaona,LOVAS Petra/PERGEL Szandra,3,0,"11,11,11|8,8,2",R16,GRAND_SLAM,WD,106,Main Draw,BARTHEL Zhenqi (GER) / SHAN Xiaona (GER),LOVAS Petra (HUN) / PERGEL Szandra (HUN)
-World Tour Austrian Open Wels 2013,2013-01-23,MATSUDAIRA Kenta/YOSHIMURA Maharu,FANG Bo/ZHOU Yu,3,1,"9,11,11,11|11,9,9,6",R16,GRAND_SLAM,MD,106,Main Draw,MATSUDAIRA Kenta (JPN) / YOSHIMURA Maharu (JPN),FANG Bo (KAZ) / ZHOU Yu (CHN)
-World Tour Austrian Open Wels 2013,2013-01-23,CHUANG Chih-Yuan/HUANG Sheng-Sheng,MATSUDAIRA Kenta/YOSHIMURA Maharu,3,2,"9,11,2,11,11|11,9,11,4,8",QF,GRAND_SLAM,MD,106,Main Draw,CHUANG Chih-Yuan (TPE) / HUANG Sheng-Sheng (TPE),MATSUDAIRA Kenta (JPN) / YOSHIMURA Maharu (JPN)
-World Tour Austrian Open Wels 2013,2013-01-23,ISHIKAWA Kasumi/MORIZONO Misaki,AMBRUS Krisztina/MADARASZ Dora,3,1,"11,11,9,11|8,7,11,1",R16,GRAND_SLAM,WD,106,Main Draw,ISHIKAWA Kasumi (JPN) / MORIZONO Misaki (JPN),AMBRUS Krisztina (HUN) / MADARASZ Dora (HUN)
-World Tour Austrian Open Wels 2013,2013-01-23,ISHIKAWA Kasumi/MORIZONO Misaki,BARTHEL Zhenqi/SHAN Xiaona,3,0,"11,11,11|6,9,9",QF,GRAND_SLAM,WD,106,Main Draw,ISHIKAWA Kasumi (JPN) / MORIZONO Misaki (JPN),BARTHEL Zhenqi (GER) / SHAN Xiaona (GER)
-World Tour Austrian Open Wels 2013,2013-01-23,DING Ning/LI Xiaoxia,ISHIKAWA Kasumi/MORIZONO Misaki,3,0,"12,11,11|10,3,4",SF,GRAND_SLAM,WD,106,Main Draw,DING Ning (CHN) / LI Xiaoxia (CHN),ISHIKAWA Kasumi (JPN) / MORIZONO Misaki (JPN)
-World Tour Austrian Open Wels 2013,2013-01-23,DING Ning/LI Xiaoxia,PRIVALOVA Alexandra/TIMINA Yana,3,0,"11,11,11|3,2,4",R16,GRAND_SLAM,WD,106,Main Draw,DING Ning (CHN) / LI Xiaoxia (CHN),PRIVALOVA Alexandra (BLR) / TIMINA Yana (NED)
-World Tour Austrian Open Wels 2013,2013-01-23,CHAN Kazuhiro/MATSUDAIRA Kenji,SARGU Mihai/SILVA Andre,3,0,"11,11,11|6,4,5",R16,GRAND_SLAM,MD,106,Main Draw,CHAN Kazuhiro (JPN) / MATSUDAIRA Kenji (JPN),SARGU Mihai (ROU) / SILVA Andre (POR)
-World Tour Austrian Open Wels 2013,2013-01-23,GERELL Par/LUNDQVIST Jens,IONESCU Ovidiu/SZOCS Hunor,3,1,"14,12,11,11|16,10,7,4",R16,GRAND_SLAM,MD,106,Main Draw,GERELL Par (SWE) / LUNDQVIST Jens (SWE),IONESCU Ovidiu (ROU) / SZOCS Hunor (ROU)
-World Tour Austrian Open Wels 2013,2013-01-23,NOSKOVA Yana/TIKHOMIROVA Anna,POLCANOVA Sofia/SOLJA Amelie,3,2,"5,12,7,11,13|11,10,11,6,11",R16,GRAND_SLAM,WD,106,Main Draw,NOSKOVA Yana (RUS) / TIKHOMIROVA Anna (RUS),POLCANOVA Sofia (AUT) / SOLJA Amelie (AUT)
-World Tour Austrian Open Wels 2013,2013-01-23,CHEN Meng/ZHU Yuling,NOSKOVA Yana/TIKHOMIROVA Anna,3,2,"11,7,14,11,11|4,11,16,5,4",SF,GRAND_SLAM,WD,106,Main Draw,CHEN Meng (CHN) / ZHU Yuling (MAC),NOSKOVA Yana (RUS) / TIKHOMIROVA Anna (RUS)
-World Tour Austrian Open Wels 2013,2013-01-23,KARLSSON Kristian/KARLSSON Mattias,ACHANTA Sharath/TSUBOI Gustavo,3,1,"10,11,11,11|12,3,3,4",R16,GRAND_SLAM,MD,106,Main Draw,KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),ACHANTA Sharath (IND) / TSUBOI Gustavo (BRA)
-World Tour Austrian Open Wels 2013,2013-01-23,KARLSSON Kristian/KARLSSON Mattias,TAN Ruiwu/WANG Zengyi,3,0,"11,11,12|9,4,10",QF,GRAND_SLAM,MD,106,Main Draw,KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),TAN Ruiwu (CRO) / WANG Zengyi (POL)
-World Tour Austrian Open Wels 2013,2013-01-23,GERELL Par/LUNDQVIST Jens,CHAN Kazuhiro/MATSUDAIRA Kenji,3,2,"11,5,11,14,11|6,11,7,16,8",QF,GRAND_SLAM,MD,106,Main Draw,GERELL Par (SWE) / LUNDQVIST Jens (SWE),CHAN Kazuhiro (JPN) / MATSUDAIRA Kenji (JPN)
-World Tour Austrian Open Wels 2013,2013-01-23,CHUANG Chih-Yuan/HUANG Sheng-Sheng,KARLSSON Kristian/KARLSSON Mattias,3,0,"11,11,11|9,6,6",SF,GRAND_SLAM,MD,106,Main Draw,CHUANG Chih-Yuan (TPE) / HUANG Sheng-Sheng (TPE),KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE)
-World Tour Austrian Open Wels 2013,2013-01-23,HAO Shuai/ZHANG Jike,CHUANG Chih-Yuan/HUANG Sheng-Sheng,3,2,"9,11,9,11,14|11,6,11,7,12",F,GRAND_SLAM,MD,106,Main Draw,HAO Shuai (CHN) / ZHANG Jike (CHN),CHUANG Chih-Yuan (TPE) / HUANG Sheng-Sheng (TPE)
-World Tour Austrian Open Wels 2013,2013-01-23,CHENG I-Ching/HUANG Yi-Hua,IACOB Camelia/SZOCS Bernadette,3,2,"5,11,11,10,11|11,4,4,12,5",R16,GRAND_SLAM,WD,106,Main Draw,CHENG I-Ching (TPE) / HUANG Yi-Hua (TPE),IACOB Camelia (ROU) / SZOCS Bernadette (ROU)
-World Tour Austrian Open Wels 2013,2013-01-23,NOSKOVA Yana/TIKHOMIROVA Anna,CHENG I-Ching/HUANG Yi-Hua,3,2,"9,11,9,11,11|11,9,11,5,9",QF,GRAND_SLAM,WD,106,Main Draw,NOSKOVA Yana (RUS) / TIKHOMIROVA Anna (RUS),CHENG I-Ching (TPE) / HUANG Yi-Hua (TPE)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+World Tour Austrian Open Wels 2013,2013-01-23,ZHANG Jike,KOVAC Borna,4,0,"11,11,12,11|3,5,10,5",R64,GRAND_SLAM,MS,106,Main Draw,ZHANG Jike (CHN),KOVAC Borna (CRO),ZHANG Jike
+World Tour Austrian Open Wels 2013,2013-01-23,JEVTOVIC Marko,SKACHKOV Kirill,4,3,"3,6,11,18,8,13,13|11,11,7,16,11,11,11",R64,GRAND_SLAM,MS,106,Main Draw,JEVTOVIC Marko (SRB),SKACHKOV Kirill (RUS),JEVTOVIC Marko
+World Tour Austrian Open Wels 2013,2013-01-23,MATSUDAIRA Kenji,LAKEEV Vasily,4,1,"11,11,11,12,11|5,7,5,14,7",R64,GRAND_SLAM,MS,106,Main Draw,MATSUDAIRA Kenji (JPN),LAKEEV Vasily (RUS),MATSUDAIRA Kenji
+World Tour Austrian Open Wels 2013,2013-01-23,MATSUDAIRA Kenta,HIELSCHER Lars,4,0,"11,11,11,11|2,4,5,3",R64,GRAND_SLAM,MS,106,Main Draw,MATSUDAIRA Kenta (JPN),HIELSCHER Lars (GER),MATSUDAIRA Kenta
+World Tour Austrian Open Wels 2013,2013-01-23,TAKAKIWA Taku,CHUMAKOU Dmitry,4,0,"11,11,11,13|4,7,5,11",R64,GRAND_SLAM,MS,106,Main Draw,TAKAKIWA Taku (JPN),CHUMAKOU Dmitry (BLR),TAKAKIWA Taku
+World Tour Austrian Open Wels 2013,2013-01-23,ELOI Damien,WANG Zengyi,4,0,"12,11,11,11|10,9,4,6",R64,GRAND_SLAM,MS,106,Main Draw,ELOI Damien (FRA),WANG Zengyi (POL),ELOI Damien
+World Tour Austrian Open Wels 2013,2013-01-23,BAI He,BROSSIER Benjamin,4,2,"11,12,4,11,11,11|6,14,11,6,6,6",R64,GRAND_SLAM,MS,106,Main Draw,BAI He (SVK),BROSSIER Benjamin (FRA),BAI He
+World Tour Austrian Open Wels 2013,2013-01-23,VLASOV Grigory,BAUM Patrick,4,1,"11,14,12,11,11|6,12,14,8,4",R64,GRAND_SLAM,MS,106,Main Draw,VLASOV Grigory (RUS),BAUM Patrick (GER),VLASOV Grigory
+World Tour Austrian Open Wels 2013,2013-01-23,MATTENET Adrien,OYA Hidetoshi,4,2,"11,8,11,8,11,11|4,11,6,11,9,5",R64,GRAND_SLAM,MS,106,Main Draw,MATTENET Adrien (FRA),OYA Hidetoshi (JPN),MATTENET Adrien
+World Tour Austrian Open Wels 2013,2013-01-23,TSUBOI Gustavo,HABESOHN Daniel,4,1,"11,11,11,12,12|9,7,6,14,10",R64,GRAND_SLAM,MS,106,Main Draw,TSUBOI Gustavo (BRA),HABESOHN Daniel (AUT),TSUBOI Gustavo
+World Tour Austrian Open Wels 2013,2013-01-23,GAUZY Simon,MURAMATSU Yuto,4,3,"11,9,11,7,11,9,11|6,11,7,11,7,11,3",R64,GRAND_SLAM,MS,106,Main Draw,GAUZY Simon (FRA),MURAMATSU Yuto (JPN),GAUZY Simon
+World Tour Austrian Open Wels 2013,2013-01-23,CHAN Kazuhiro,SIRUCEK Pavel,4,2,"11,7,5,11,11,11|6,11,11,3,5,9",R64,GRAND_SLAM,MS,106,Main Draw,CHAN Kazuhiro (JPN),SIRUCEK Pavel (CZE),CHAN Kazuhiro
+World Tour Austrian Open Wels 2013,2013-01-23,SUSS Christian,FEGERL Stefan,4,3,"11,13,4,11,1,7,12|9,11,11,5,11,11,10",R64,GRAND_SLAM,MS,106,Main Draw,SUSS Christian (GER),FEGERL Stefan (AUT),SUSS Christian
+World Tour Austrian Open Wels 2013,2013-01-23,PRIMORAC Zoran,PAIKOV Mikhail,4,2,"12,7,7,11,11,11|10,11,11,5,6,7",R64,GRAND_SLAM,MS,106,Main Draw,PRIMORAC Zoran (CRO),PAIKOV Mikhail (RUS),PRIMORAC Zoran
+World Tour Austrian Open Wels 2013,2013-01-23,BOBOCICA Mihai,MONTEIRO Joao,4,2,"11,6,7,11,11,11|7,11,11,9,9,7",R64,GRAND_SLAM,MS,106,Main Draw,BOBOCICA Mihai (ITA),MONTEIRO Joao (POR),BOBOCICA Mihai
+World Tour Austrian Open Wels 2013,2013-01-23,HAO Shuai,IONESCU Ovidiu,4,0,"11,11,11,11|6,6,8,3",R64,GRAND_SLAM,MS,106,Main Draw,HAO Shuai (CHN),IONESCU Ovidiu (ROU),HAO Shuai
+World Tour Austrian Open Wels 2013,2013-01-23,RYU Seungmin,PROKOPCOV Dmitrij,4,0,"13,11,12,11|11,3,10,7",R64,GRAND_SLAM,MS,106,Main Draw,RYU Seungmin (KOR),PROKOPCOV Dmitrij (CZE),RYU Seungmin
+World Tour Austrian Open Wels 2013,2013-01-23,FANG Bo,JANCARIK Lubomir,4,0,"11,11,11,11|6,6,9,8",R64,GRAND_SLAM,MS,106,Main Draw,FANG Bo (KAZ),JANCARIK Lubomir (CZE),FANG Bo
+World Tour Austrian Open Wels 2013,2013-01-23,LEBESSON Emmanuel,DRINKHALL Paul,4,0,"11,15,11,11|6,13,3,6",R64,GRAND_SLAM,MS,106,Main Draw,LEBESSON Emmanuel (FRA),DRINKHALL Paul (ENG),LEBESSON Emmanuel
+World Tour Austrian Open Wels 2013,2013-01-23,HUANG Sheng-Sheng,SMIRNOV Alexey,4,2,"13,14,11,6,9,11|11,12,8,11,11,6",R64,GRAND_SLAM,MS,106,Main Draw,HUANG Sheng-Sheng (TPE),SMIRNOV Alexey (RUS),HUANG Sheng-Sheng
+World Tour Austrian Open Wels 2013,2013-01-23,APOLONIA Tiago,ZHMUDENKO Yaroslav,4,1,"11,11,4,11,11|9,5,11,6,8",R64,GRAND_SLAM,MS,106,Main Draw,APOLONIA Tiago (POR),ZHMUDENKO Yaroslav (UKR),APOLONIA Tiago
+World Tour Austrian Open Wels 2013,2013-01-23,TAN Ruiwu,KONECNY Tomas,4,1,"9,11,11,11,13|11,4,2,3,11",R64,GRAND_SLAM,MS,106,Main Draw,TAN Ruiwu (CRO),KONECNY Tomas (CZE),TAN Ruiwu
+World Tour Austrian Open Wels 2013,2013-01-23,FRANZISKA Patrick,BOULOUSSA Mehdi,4,1,"6,11,11,11,11|11,6,8,9,8",R64,GRAND_SLAM,MS,106,Main Draw,FRANZISKA Patrick (GER),BOULOUSSA Mehdi (ALG),FRANZISKA Patrick
+World Tour Austrian Open Wels 2013,2013-01-23,FREITAS Marcos,DIDUKH Oleksandr,4,1,"9,11,11,11,11|11,8,7,9,6",R64,GRAND_SLAM,MS,106,Main Draw,FREITAS Marcos (POR),DIDUKH Oleksandr (UKR),FREITAS Marcos
+World Tour Austrian Open Wels 2013,2013-01-23,CHEN Weixing,KARLSSON Kristian,4,1,"12,11,10,11,11|10,2,12,7,7",R64,GRAND_SLAM,MS,106,Main Draw,CHEN Weixing (AUT),KARLSSON Kristian (SWE),CHEN Weixing
+World Tour Austrian Open Wels 2013,2013-01-23,GERELL Par,KREANGA Kalinikos,4,1,"11,8,11,11,11|8,11,9,7,7",R64,GRAND_SLAM,MS,106,Main Draw,GERELL Par (SWE),KREANGA Kalinikos (GRE),GERELL Par
+World Tour Austrian Open Wels 2013,2013-01-23,ZHOU Yu,KOSOWSKI Jakub,4,1,"6,11,11,11,11|11,6,9,9,9",R64,GRAND_SLAM,MS,106,Main Draw,ZHOU Yu (CHN),KOSOWSKI Jakub (POL),ZHOU Yu
+World Tour Austrian Open Wels 2013,2013-01-23,GORAK Daniel,GIONIS Panagiotis,4,2,"11,9,11,11,11,11|13,11,8,5,5,6",R64,GRAND_SLAM,MS,106,Main Draw,GORAK Daniel (POL),GIONIS Panagiotis (GRE),GORAK Daniel
+World Tour Austrian Open Wels 2013,2013-01-23,GACINA Andrej,ROBINOT Alexandre,4,0,"11,11,11,11|8,8,4,8",R64,GRAND_SLAM,MS,106,Main Draw,GACINA Andrej (CRO),ROBINOT Alexandre (FRA),GACINA Andrej
+World Tour Austrian Open Wels 2013,2013-01-23,ACHANTA Sharath,MUTTI Leonardo,4,1,"11,5,11,11,11|9,11,9,9,4",R64,GRAND_SLAM,MS,106,Main Draw,ACHANTA Sharath (IND),MUTTI Leonardo (ITA),ACHANTA Sharath
+World Tour Austrian Open Wels 2013,2013-01-23,LUNDQVIST Jens,KOSIBA Daniel,4,0,"11,11,11,11|9,5,6,2",R64,GRAND_SLAM,MS,106,Main Draw,LUNDQVIST Jens (SWE),KOSIBA Daniel (HUN),LUNDQVIST Jens
+World Tour Austrian Open Wels 2013,2013-01-23,CHUANG Chih-Yuan,MENGEL Steffen,4,1,"5,11,11,15,11|11,8,8,13,6",R64,GRAND_SLAM,MS,106,Main Draw,CHUANG Chih-Yuan (TPE),MENGEL Steffen (GER),CHUANG Chih-Yuan
+World Tour Austrian Open Wels 2013,2013-01-23,ZHANG Jike,JEVTOVIC Marko,4,0,"11,11,11,11|9,7,9,5",R32,GRAND_SLAM,MS,106,Main Draw,ZHANG Jike (CHN),JEVTOVIC Marko (SRB),ZHANG Jike
+World Tour Austrian Open Wels 2013,2013-01-23,MATSUDAIRA Kenta,MATSUDAIRA Kenji,4,2,"11,5,11,11,7,11|7,11,8,6,11,7",R32,GRAND_SLAM,MS,106,Main Draw,MATSUDAIRA Kenta (JPN),MATSUDAIRA Kenji (JPN),MATSUDAIRA Kenta
+World Tour Austrian Open Wels 2013,2013-01-23,TAKAKIWA Taku,ELOI Damien,4,2,"12,11,3,9,11,11|10,9,11,11,6,7",R32,GRAND_SLAM,MS,106,Main Draw,TAKAKIWA Taku (JPN),ELOI Damien (FRA),TAKAKIWA Taku
+World Tour Austrian Open Wels 2013,2013-01-23,VLASOV Grigory,BAI He,4,3,"11,11,8,12,9,8,14|8,6,11,10,11,11,12",R32,GRAND_SLAM,MS,106,Main Draw,VLASOV Grigory (RUS),BAI He (SVK),VLASOV Grigory
+World Tour Austrian Open Wels 2013,2013-01-23,TSUBOI Gustavo,MATTENET Adrien,4,3,"11,11,11,14,8,9,13|8,7,3,16,11,11,11",R32,GRAND_SLAM,MS,106,Main Draw,TSUBOI Gustavo (BRA),MATTENET Adrien (FRA),TSUBOI Gustavo
+World Tour Austrian Open Wels 2013,2013-01-23,CHAN Kazuhiro,GAUZY Simon,4,0,"11,11,11,11|7,8,8,8",R32,GRAND_SLAM,MS,106,Main Draw,CHAN Kazuhiro (JPN),GAUZY Simon (FRA),CHAN Kazuhiro
+World Tour Austrian Open Wels 2013,2013-01-23,SUSS Christian,PRIMORAC Zoran,4,2,"11,5,12,11,11,15|7,11,14,5,3,13",R32,GRAND_SLAM,MS,106,Main Draw,SUSS Christian (GER),PRIMORAC Zoran (CRO),SUSS Christian
+World Tour Austrian Open Wels 2013,2013-01-23,HAO Shuai,BOBOCICA Mihai,4,0,"11,11,11,11|8,7,5,3",R32,GRAND_SLAM,MS,106,Main Draw,HAO Shuai (CHN),BOBOCICA Mihai (ITA),HAO Shuai
+World Tour Austrian Open Wels 2013,2013-01-23,FANG Bo,RYU Seungmin,4,1,"11,11,5,11,15|4,9,11,5,13",R32,GRAND_SLAM,MS,106,Main Draw,FANG Bo (KAZ),RYU Seungmin (KOR),FANG Bo
+World Tour Austrian Open Wels 2013,2013-01-23,LEBESSON Emmanuel,HUANG Sheng-Sheng,4,2,"4,11,5,14,11,11|11,8,11,12,5,9",R32,GRAND_SLAM,MS,106,Main Draw,LEBESSON Emmanuel (FRA),HUANG Sheng-Sheng (TPE),LEBESSON Emmanuel
+World Tour Austrian Open Wels 2013,2013-01-23,TAN Ruiwu,APOLONIA Tiago,4,3,"13,12,6,7,11,11,11|11,14,11,11,9,7,3",R32,GRAND_SLAM,MS,106,Main Draw,TAN Ruiwu (CRO),APOLONIA Tiago (POR),TAN Ruiwu
+World Tour Austrian Open Wels 2013,2013-01-23,FREITAS Marcos,FRANZISKA Patrick,4,0,"11,11,11,11|6,9,5,6",R32,GRAND_SLAM,MS,106,Main Draw,FREITAS Marcos (POR),FRANZISKA Patrick (GER),FREITAS Marcos
+World Tour Austrian Open Wels 2013,2013-01-23,GERELL Par,CHEN Weixing,4,3,"7,6,12,11,14,7,11|11,11,10,8,12,11,8",R32,GRAND_SLAM,MS,106,Main Draw,GERELL Par (SWE),CHEN Weixing (AUT),GERELL Par
+World Tour Austrian Open Wels 2013,2013-01-23,ZHOU Yu,GORAK Daniel,4,2,"8,11,11,7,11,13|11,8,7,11,7,11",R32,GRAND_SLAM,MS,106,Main Draw,ZHOU Yu (CHN),GORAK Daniel (POL),ZHOU Yu
+World Tour Austrian Open Wels 2013,2013-01-23,GACINA Andrej,ACHANTA Sharath,4,1,"11,8,11,11,11|8,11,7,8,7",R32,GRAND_SLAM,MS,106,Main Draw,GACINA Andrej (CRO),ACHANTA Sharath (IND),GACINA Andrej
+World Tour Austrian Open Wels 2013,2013-01-23,CHUANG Chih-Yuan,LUNDQVIST Jens,4,0,"11,13,11,11|8,11,4,6",R32,GRAND_SLAM,MS,106,Main Draw,CHUANG Chih-Yuan (TPE),LUNDQVIST Jens (SWE),CHUANG Chih-Yuan
+World Tour Austrian Open Wels 2013,2013-01-23,ZHANG Jike,MATSUDAIRA Kenta,4,3,"6,8,11,11,11,9,11|11,11,5,4,7,11,4",R16,GRAND_SLAM,MS,106,Main Draw,ZHANG Jike (CHN),MATSUDAIRA Kenta (JPN),ZHANG Jike
+World Tour Austrian Open Wels 2013,2013-01-23,TAKAKIWA Taku,VLASOV Grigory,4,1,"10,11,11,11,11|12,4,9,5,6",R16,GRAND_SLAM,MS,106,Main Draw,TAKAKIWA Taku (JPN),VLASOV Grigory (RUS),TAKAKIWA Taku
+World Tour Austrian Open Wels 2013,2013-01-23,CHAN Kazuhiro,TSUBOI Gustavo,4,2,"14,9,11,6,11,11|12,11,3,11,6,4",R16,GRAND_SLAM,MS,106,Main Draw,CHAN Kazuhiro (JPN),TSUBOI Gustavo (BRA),CHAN Kazuhiro
+World Tour Austrian Open Wels 2013,2013-01-23,HAO Shuai,SUSS Christian,4,1,"11,8,11,11,11|6,11,3,6,9",R16,GRAND_SLAM,MS,106,Main Draw,HAO Shuai (CHN),SUSS Christian (GER),HAO Shuai
+World Tour Austrian Open Wels 2013,2013-01-23,FANG Bo,LEBESSON Emmanuel,4,0,"11,11,11,11|5,9,8,9",R16,GRAND_SLAM,MS,106,Main Draw,FANG Bo (KAZ),LEBESSON Emmanuel (FRA),FANG Bo
+World Tour Austrian Open Wels 2013,2013-01-23,TAN Ruiwu,FREITAS Marcos,4,1,"11,9,11,11,14|9,11,4,7,12",R16,GRAND_SLAM,MS,106,Main Draw,TAN Ruiwu (CRO),FREITAS Marcos (POR),TAN Ruiwu
+World Tour Austrian Open Wels 2013,2013-01-23,ZHOU Yu,GERELL Par,4,1,"12,9,11,11,12|10,11,6,5,10",R16,GRAND_SLAM,MS,106,Main Draw,ZHOU Yu (CHN),GERELL Par (SWE),ZHOU Yu
+World Tour Austrian Open Wels 2013,2013-01-23,CHUANG Chih-Yuan,GACINA Andrej,4,1,"11,11,12,8,11|9,7,10,11,7",R16,GRAND_SLAM,MS,106,Main Draw,CHUANG Chih-Yuan (TPE),GACINA Andrej (CRO),CHUANG Chih-Yuan
+World Tour Austrian Open Wels 2013,2013-01-23,TAKAKIWA Taku,ZHANG Jike,4,3,"10,11,6,8,12,11,13|12,9,11,11,10,7,11",QF,GRAND_SLAM,MS,106,Main Draw,TAKAKIWA Taku (JPN),ZHANG Jike (CHN),TAKAKIWA Taku
+World Tour Austrian Open Wels 2013,2013-01-23,HAO Shuai,CHAN Kazuhiro,4,0,"11,11,12,11|5,6,10,8",QF,GRAND_SLAM,MS,106,Main Draw,HAO Shuai (CHN),CHAN Kazuhiro (JPN),HAO Shuai
+World Tour Austrian Open Wels 2013,2013-01-23,FANG Bo,TAN Ruiwu,4,2,"11,9,11,11,2,11|7,11,3,9,11,5",QF,GRAND_SLAM,MS,106,Main Draw,FANG Bo (KAZ),TAN Ruiwu (CRO),FANG Bo
+World Tour Austrian Open Wels 2013,2013-01-23,CHUANG Chih-Yuan,ZHOU Yu,4,2,"11,11,11,1,9,11|6,4,7,11,11,9",QF,GRAND_SLAM,MS,106,Main Draw,CHUANG Chih-Yuan (TPE),ZHOU Yu (CHN),CHUANG Chih-Yuan
+World Tour Austrian Open Wels 2013,2013-01-23,HAO Shuai,TAKAKIWA Taku,4,0,"11,11,11,11|4,6,7,4",SF,GRAND_SLAM,MS,106,Main Draw,HAO Shuai (CHN),TAKAKIWA Taku (JPN),HAO Shuai
+World Tour Austrian Open Wels 2013,2013-01-23,FANG Bo,CHUANG Chih-Yuan,4,1,"12,11,11,11,11|10,6,13,3,5",SF,GRAND_SLAM,MS,106,Main Draw,FANG Bo (KAZ),CHUANG Chih-Yuan (TPE),FANG Bo
+World Tour Austrian Open Wels 2013,2013-01-23,FANG Bo,HAO Shuai,4,2,"11,9,2,11,11,11|8,11,11,6,8,8",F,GRAND_SLAM,MS,106,Main Draw,FANG Bo (KAZ),HAO Shuai (CHN),FANG Bo
+World Tour Austrian Open Wels 2013,2013-01-23,DING Ning,KUMAHARA Luca,4,1,"11,10,14,11,11|6,12,12,2,1",R64,GRAND_SLAM,WS,106,Main Draw,DING Ning (CHN),KUMAHARA Luca (BRA),DING Ning
+World Tour Austrian Open Wels 2013,2013-01-23,RAMIREZ Sara,ERDELJI Anamaria,4,2,"11,5,11,11,8,11|5,11,9,9,11,9",R64,GRAND_SLAM,WS,106,Main Draw,RAMIREZ Sara (ESP),ERDELJI Anamaria (SRB),RAMIREZ Sara
+World Tour Austrian Open Wels 2013,2013-01-23,LOVAS Petra,FADEEVA Oxana,4,1,"10,11,11,11,11|12,9,4,9,4",R64,GRAND_SLAM,WS,106,Main Draw,LOVAS Petra (HUN),FADEEVA Oxana (RUS),LOVAS Petra
+World Tour Austrian Open Wels 2013,2013-01-23,VACENOVSKA Iveta,DRINKHALL Joanna,4,0,"11,14,12,11|3,12,10,6",R64,GRAND_SLAM,WS,106,Main Draw,VACENOVSKA Iveta (CZE),DRINKHALL Joanna (ENG),VACENOVSKA Iveta
+World Tour Austrian Open Wels 2013,2013-01-23,BOLLMEIER Nadine,LI Xue,4,2,"4,9,14,11,11,11|11,11,12,8,2,4",R64,GRAND_SLAM,WS,106,Main Draw,BOLLMEIER Nadine (GER),LI Xue (FRA),BOLLMEIER Nadine
+World Tour Austrian Open Wels 2013,2013-01-23,YOON Sunae,KUZMINA Elena,4,0,"11,11,11,11|9,6,9,8",R64,GRAND_SLAM,WS,106,Main Draw,YOON Sunae (KOR),KUZMINA Elena (RUS),YOON Sunae
+World Tour Austrian Open Wels 2013,2013-01-23,SOLJA Amelie,NOSKOVA Yana,4,2,"11,6,9,11,11,11|3,11,11,5,5,6",R64,GRAND_SLAM,WS,106,Main Draw,SOLJA Amelie (AUT),NOSKOVA Yana (RUS),SOLJA Amelie
+World Tour Austrian Open Wels 2013,2013-01-23,CHEN Meng,AMBRUS Krisztina,4,0,"11,11,11,11|8,1,8,6",R64,GRAND_SLAM,WS,106,Main Draw,CHEN Meng (CHN),AMBRUS Krisztina (HUN),CHEN Meng
+World Tour Austrian Open Wels 2013,2013-01-23,PAVLOVICH Viktoria,TIAN Yuan,4,2,"8,10,11,11,11,11|11,12,6,7,1,9",R64,GRAND_SLAM,WS,106,Main Draw,PAVLOVICH Viktoria (BLR),TIAN Yuan (CRO),PAVLOVICH Viktoria
+World Tour Austrian Open Wels 2013,2013-01-23,PERGEL Szandra,LANG Kristin,4,0,"11,11,11,11|5,9,9,6",R64,GRAND_SLAM,WS,106,Main Draw,PERGEL Szandra (HUN),LANG Kristin (GER),PERGEL Szandra
+World Tour Austrian Open Wels 2013,2013-01-23,BARTHEL Zhenqi,MIKHAILOVA Polina,4,1,"11,10,11,11,12|5,12,7,8,10",R64,GRAND_SLAM,WS,106,Main Draw,BARTHEL Zhenqi (GER),MIKHAILOVA Polina (RUS),BARTHEL Zhenqi
+World Tour Austrian Open Wels 2013,2013-01-23,WEN Jia,MATSUDAIRA Shiho,4,0,"11,11,11,11|4,7,6,6",R64,GRAND_SLAM,WS,106,Main Draw,WEN Jia (CHN),MATSUDAIRA Shiho (JPN),WEN Jia
+World Tour Austrian Open Wels 2013,2013-01-23,LIU Jia,PENKAVOVA Katerina,4,0,"11,11,12,17|7,7,10,15",R64,GRAND_SLAM,WS,106,Main Draw,LIU Jia (AUT),PENKAVOVA Katerina (CZE),LIU Jia
+World Tour Austrian Open Wels 2013,2013-01-23,YOO Eunchong,TOTH Krisztina,4,0,"11,11,11,11|6,4,9,8",R64,GRAND_SLAM,WS,106,Main Draw,YOO Eunchong (KOR),TOTH Krisztina (HUN),YOO Eunchong
+World Tour Austrian Open Wels 2013,2013-01-23,IVANCAN Irene,IACOB Camelia,4,2,"11,11,6,11,12,11|7,4,11,7,14,4",R64,GRAND_SLAM,WS,106,Main Draw,IVANCAN Irene (GER),IACOB Camelia (ROU),IVANCAN Irene
+World Tour Austrian Open Wels 2013,2013-01-23,WU Yang,FUJII Yuko,4,0,"11,11,11,11|5,5,5,3",R64,GRAND_SLAM,WS,106,Main Draw,WU Yang (CHN),FUJII Yuko (JPN),WU Yang
+World Tour Austrian Open Wels 2013,2013-01-23,ISHIKAWA Kasumi,CHOI Jeongmin,4,2,"11,11,11,9,11,11|8,5,5,11,13,5",R64,GRAND_SLAM,WS,106,Main Draw,ISHIKAWA Kasumi (JPN),CHOI Jeongmin (KOR),ISHIKAWA Kasumi
+World Tour Austrian Open Wels 2013,2013-01-23,NONAKA Yuki,LEE Ho Ching,4,2,"7,11,11,4,11,11|11,4,4,11,4,4",R64,GRAND_SLAM,WS,106,Main Draw,NONAKA Yuki (JPN),LEE Ho Ching (HKG),NONAKA Yuki
+World Tour Austrian Open Wels 2013,2013-01-23,TIKHOMIROVA Anna,TASHIRO Saki,4,3,"11,3,11,6,7,14,13|5,11,8,11,11,12,11",R64,GRAND_SLAM,WS,106,Main Draw,TIKHOMIROVA Anna (RUS),TASHIRO Saki (JPN),TIKHOMIROVA Anna
+World Tour Austrian Open Wels 2013,2013-01-23,LI Fen,SOLJA Petrissa,4,2,"11,11,10,7,12,11|6,2,12,11,10,7",R64,GRAND_SLAM,WS,106,Main Draw,LI Fen (SWE),SOLJA Petrissa (GER),LI Fen
+World Tour Austrian Open Wels 2013,2013-01-23,ZHU Yuling,PRIVALOVA Alexandra,4,1,"11,13,11,9,11|9,11,7,11,6",R64,GRAND_SLAM,WS,106,Main Draw,ZHU Yuling (MAC),PRIVALOVA Alexandra (BLR),ZHU Yuling
+World Tour Austrian Open Wels 2013,2013-01-23,STRBIKOVA Renata,MATSUMOTO Yuki,4,0,"11,11,15,13|7,1,13,11",R64,GRAND_SLAM,WS,106,Main Draw,STRBIKOVA Renata (CZE),MATSUMOTO Yuki (JPN),STRBIKOVA Renata
+World Tour Austrian Open Wels 2013,2013-01-23,KANG Misoon,NG Wing Nam,4,0,"11,11,11,13|4,8,5,11",R64,GRAND_SLAM,WS,106,Main Draw,KANG Misoon (KOR),NG Wing Nam (HKG),KANG Misoon
+World Tour Austrian Open Wels 2013,2013-01-23,JIANG Huajun,MADARASZ Dora,4,1,"11,9,11,11,11|9,11,9,6,5",R64,GRAND_SLAM,WS,106,Main Draw,JIANG Huajun (HKG),MADARASZ Dora (HUN),JIANG Huajun
+World Tour Austrian Open Wels 2013,2013-01-23,LI Jiao,STEFANSKA Kinga,4,0,"11,13,11,11|6,11,7,6",R64,GRAND_SLAM,WS,106,Main Draw,LI Jiao (NED),STEFANSKA Kinga (POL),LI Jiao
+World Tour Austrian Open Wels 2013,2013-01-23,SONG Maeum,SZOCS Bernadette,4,3,"9,6,11,11,3,11,11|11,11,7,6,11,5,7",R64,GRAND_SLAM,WS,106,Main Draw,SONG Maeum (KOR),SZOCS Bernadette (ROU),SONG Maeum
+World Tour Austrian Open Wels 2013,2013-01-23,MORIZONO Misaki,POLCANOVA Sofia,4,1,"8,11,11,11,11|11,9,9,4,2",R64,GRAND_SLAM,WS,106,Main Draw,MORIZONO Misaki (JPN),POLCANOVA Sofia (AUT),MORIZONO Misaki
+World Tour Austrian Open Wels 2013,2013-01-23,WAKAMIYA Misako,GRUNDISCH Carole,4,1,"12,11,11,7,11|10,5,9,11,9",R64,GRAND_SLAM,WS,106,Main Draw,WAKAMIYA Misako (JPN),GRUNDISCH Carole (FRA),WAKAMIYA Misako
+World Tour Austrian Open Wels 2013,2013-01-23,HUANG Yi-Hua,SHAN Xiaona,4,2,"14,7,11,7,11,11|12,11,6,11,8,7",R64,GRAND_SLAM,WS,106,Main Draw,HUANG Yi-Hua (TPE),SHAN Xiaona (GER),HUANG Yi-Hua
+World Tour Austrian Open Wels 2013,2013-01-23,SKOV Mie,CREEMERS Linda,4,1,"11,11,4,11,11|6,3,11,8,9",R64,GRAND_SLAM,WS,106,Main Draw,SKOV Mie (DEN),CREEMERS Linda (NED),SKOV Mie
+World Tour Austrian Open Wels 2013,2013-01-23,CHENG I-Ching,MOLNAR Cornelia,4,2,"11,12,6,10,11,11|8,10,11,12,2,6",R64,GRAND_SLAM,WS,106,Main Draw,CHENG I-Ching (TPE),MOLNAR Cornelia (CRO),CHENG I-Ching
+World Tour Austrian Open Wels 2013,2013-01-23,LI Xiaoxia,BIKBAEVA Anna,4,0,"11,11,11,11|5,1,7,2",R64,GRAND_SLAM,WS,106,Main Draw,LI Xiaoxia (CHN),BIKBAEVA Anna (RUS),LI Xiaoxia
+World Tour Austrian Open Wels 2013,2013-01-23,DING Ning,RAMIREZ Sara,4,0,"11,11,11,11|3,7,4,4",R32,GRAND_SLAM,WS,106,Main Draw,DING Ning (CHN),RAMIREZ Sara (ESP),DING Ning
+World Tour Austrian Open Wels 2013,2013-01-23,VACENOVSKA Iveta,LOVAS Petra,4,1,"11,10,11,11,11|8,12,7,8,8",R32,GRAND_SLAM,WS,106,Main Draw,VACENOVSKA Iveta (CZE),LOVAS Petra (HUN),VACENOVSKA Iveta
+World Tour Austrian Open Wels 2013,2013-01-23,YOON Sunae,BOLLMEIER Nadine,4,0,"11,11,11,11|7,7,6,5",R32,GRAND_SLAM,WS,106,Main Draw,YOON Sunae (KOR),BOLLMEIER Nadine (GER),YOON Sunae
+World Tour Austrian Open Wels 2013,2013-01-23,CHEN Meng,SOLJA Amelie,4,3,"8,5,11,11,13,11,17|11,11,13,3,11,8,15",R32,GRAND_SLAM,WS,106,Main Draw,CHEN Meng (CHN),SOLJA Amelie (AUT),CHEN Meng
+World Tour Austrian Open Wels 2013,2013-01-23,PAVLOVICH Viktoria,PERGEL Szandra,4,0,"11,11,11,11|9,5,3,1",R32,GRAND_SLAM,WS,106,Main Draw,PAVLOVICH Viktoria (BLR),PERGEL Szandra (HUN),PAVLOVICH Viktoria
+World Tour Austrian Open Wels 2013,2013-01-23,WEN Jia,BARTHEL Zhenqi,4,1,"11,11,11,6,12|6,7,4,11,10",R32,GRAND_SLAM,WS,106,Main Draw,WEN Jia (CHN),BARTHEL Zhenqi (GER),WEN Jia
+World Tour Austrian Open Wels 2013,2013-01-23,LIU Jia,YOO Eunchong,4,2,"11,8,11,11,9,11|9,11,5,6,11,5",R32,GRAND_SLAM,WS,106,Main Draw,LIU Jia (AUT),YOO Eunchong (KOR),LIU Jia
+World Tour Austrian Open Wels 2013,2013-01-23,WU Yang,IVANCAN Irene,4,0,"11,11,13,11|7,9,11,3",R32,GRAND_SLAM,WS,106,Main Draw,WU Yang (CHN),IVANCAN Irene (GER),WU Yang
+World Tour Austrian Open Wels 2013,2013-01-23,ISHIKAWA Kasumi,NONAKA Yuki,4,1,"11,9,11,13,11|7,11,9,11,7",R32,GRAND_SLAM,WS,106,Main Draw,ISHIKAWA Kasumi (JPN),NONAKA Yuki (JPN),ISHIKAWA Kasumi
+World Tour Austrian Open Wels 2013,2013-01-23,LI Fen,TIKHOMIROVA Anna,4,1,"11,6,11,11,11|6,11,8,2,5",R32,GRAND_SLAM,WS,106,Main Draw,LI Fen (SWE),TIKHOMIROVA Anna (RUS),LI Fen
+World Tour Austrian Open Wels 2013,2013-01-23,ZHU Yuling,STRBIKOVA Renata,4,0,"11,11,11,11|7,6,9,8",R32,GRAND_SLAM,WS,106,Main Draw,ZHU Yuling (MAC),STRBIKOVA Renata (CZE),ZHU Yuling
+World Tour Austrian Open Wels 2013,2013-01-23,JIANG Huajun,KANG Misoon,4,3,"11,5,11,8,3,11,14|6,11,4,11,11,7,12",R32,GRAND_SLAM,WS,106,Main Draw,JIANG Huajun (HKG),KANG Misoon (KOR),JIANG Huajun
+World Tour Austrian Open Wels 2013,2013-01-23,LI Jiao,SONG Maeum,4,1,"5,11,11,11,11|11,8,7,5,6",R32,GRAND_SLAM,WS,106,Main Draw,LI Jiao (NED),SONG Maeum (KOR),LI Jiao
+World Tour Austrian Open Wels 2013,2013-01-23,MORIZONO Misaki,WAKAMIYA Misako,4,0,"11,14,11,19|6,12,6,17",R32,GRAND_SLAM,WS,106,Main Draw,MORIZONO Misaki (JPN),WAKAMIYA Misako (JPN),MORIZONO Misaki
+World Tour Austrian Open Wels 2013,2013-01-23,HUANG Yi-Hua,SKOV Mie,4,1,"10,11,13,11,11|12,5,11,8,8",R32,GRAND_SLAM,WS,106,Main Draw,HUANG Yi-Hua (TPE),SKOV Mie (DEN),HUANG Yi-Hua
+World Tour Austrian Open Wels 2013,2013-01-23,LI Xiaoxia,CHENG I-Ching,4,0,"11,11,11,11|3,6,6,9",R32,GRAND_SLAM,WS,106,Main Draw,LI Xiaoxia (CHN),CHENG I-Ching (TPE),LI Xiaoxia
+World Tour Austrian Open Wels 2013,2013-01-23,DING Ning,VACENOVSKA Iveta,4,0,"11,11,11,12|6,4,5,10",R16,GRAND_SLAM,WS,106,Main Draw,DING Ning (CHN),VACENOVSKA Iveta (CZE),DING Ning
+World Tour Austrian Open Wels 2013,2013-01-23,CHEN Meng,YOON Sunae,4,1,"11,11,14,8,11|5,6,12,11,8",R16,GRAND_SLAM,WS,106,Main Draw,CHEN Meng (CHN),YOON Sunae (KOR),CHEN Meng
+World Tour Austrian Open Wels 2013,2013-01-23,PAVLOVICH Viktoria,WEN Jia,4,1,"11,11,8,11,11|8,7,11,7,8",R16,GRAND_SLAM,WS,106,Main Draw,PAVLOVICH Viktoria (BLR),WEN Jia (CHN),PAVLOVICH Viktoria
+World Tour Austrian Open Wels 2013,2013-01-23,ISHIKAWA Kasumi,LI Fen,4,1,"11,11,9,11,16|7,9,11,4,14",R16,GRAND_SLAM,WS,106,Main Draw,ISHIKAWA Kasumi (JPN),LI Fen (SWE),ISHIKAWA Kasumi
+World Tour Austrian Open Wels 2013,2013-01-23,ZHU Yuling,JIANG Huajun,4,0,"11,11,11,11|8,5,6,6",R16,GRAND_SLAM,WS,106,Main Draw,ZHU Yuling (MAC),JIANG Huajun (HKG),ZHU Yuling
+World Tour Austrian Open Wels 2013,2013-01-23,LI Jiao,MORIZONO Misaki,4,2,"9,6,11,11,11,11|11,11,9,8,6,6",R16,GRAND_SLAM,WS,106,Main Draw,LI Jiao (NED),MORIZONO Misaki (JPN),LI Jiao
+World Tour Austrian Open Wels 2013,2013-01-23,LI Xiaoxia,HUANG Yi-Hua,4,0,"11,11,11,11|4,5,6,5",R16,GRAND_SLAM,WS,106,Main Draw,LI Xiaoxia (CHN),HUANG Yi-Hua (TPE),LI Xiaoxia
+World Tour Austrian Open Wels 2013,2013-01-23,DING Ning,CHEN Meng,4,0,"11,11,11,11|7,8,8,9",QF,GRAND_SLAM,WS,106,Main Draw,DING Ning (CHN),CHEN Meng (CHN),DING Ning
+World Tour Austrian Open Wels 2013,2013-01-23,WU Yang,PAVLOVICH Viktoria,4,0,"11,11,11,11|6,6,5,9",QF,GRAND_SLAM,WS,106,Main Draw,WU Yang (CHN),PAVLOVICH Viktoria (BLR),WU Yang
+World Tour Austrian Open Wels 2013,2013-01-23,ISHIKAWA Kasumi,ZHU Yuling,4,1,"8,11,11,11,13|11,3,9,3,11",QF,GRAND_SLAM,WS,106,Main Draw,ISHIKAWA Kasumi (JPN),ZHU Yuling (MAC),ISHIKAWA Kasumi
+World Tour Austrian Open Wels 2013,2013-01-23,LI Xiaoxia,LI Jiao,4,0,"11,11,11,11|4,7,9,5",QF,GRAND_SLAM,WS,106,Main Draw,LI Xiaoxia (CHN),LI Jiao (NED),LI Xiaoxia
+World Tour Austrian Open Wels 2013,2013-01-23,DING Ning,WU Yang,4,2,"11,11,6,11,7,11|3,7,11,2,11,8",SF,GRAND_SLAM,WS,106,Main Draw,DING Ning (CHN),WU Yang (CHN),DING Ning
+World Tour Austrian Open Wels 2013,2013-01-23,LI Xiaoxia,ISHIKAWA Kasumi,4,1,"13,9,11,11,11|11,11,4,6,5",SF,GRAND_SLAM,WS,106,Main Draw,LI Xiaoxia (CHN),ISHIKAWA Kasumi (JPN),LI Xiaoxia
+World Tour Austrian Open Wels 2013,2013-01-23,DING Ning,LI Xiaoxia,4,0,"12,13,11,11|10,11,0,0",F,GRAND_SLAM,WS,106,Main Draw,DING Ning (CHN),LI Xiaoxia (CHN),DING Ning
+World Tour Austrian Open Wels 2013,2013-01-23,MURAMATSU Yuto,JOST Frederick,3,1,"11,11,8,11|3,7,11,2",R32,GRAND_SLAM,U21MS,106,Main Draw,MURAMATSU Yuto (JPN),JOST Frederick (GER),MURAMATSU Yuto
+World Tour Austrian Open Wels 2013,2013-01-23,NUYTINCK Cedric,MIHAILOVIC Boris,3,0,"11,11,11|5,8,5",R32,GRAND_SLAM,U21MS,106,Main Draw,NUYTINCK Cedric (BEL),MIHAILOVIC Boris (SRB),NUYTINCK Cedric
+World Tour Austrian Open Wels 2013,2013-01-23,DYJAS Jakub,HUNG Tzu-Hsiang,3,2,"11,6,9,11,12|4,11,11,9,10",R32,GRAND_SLAM,U21MS,106,Main Draw,DYJAS Jakub (POL),HUNG Tzu-Hsiang (TPE),DYJAS Jakub
+World Tour Austrian Open Wels 2013,2013-01-23,GROTH Jonathan,BROSSIER Benjamin,3,1,"12,7,11,11|10,11,7,9",R32,GRAND_SLAM,U21MS,106,Main Draw,GROTH Jonathan (DEN),BROSSIER Benjamin (FRA),GROTH Jonathan
+World Tour Austrian Open Wels 2013,2013-01-23,LORENTZ Romain,PUCAR Tomislav,3,1,"9,11,11,12|11,9,6,10",R32,GRAND_SLAM,U21MS,106,Main Draw,LORENTZ Romain (FRA),PUCAR Tomislav (CRO),LORENTZ Romain
+World Tour Austrian Open Wels 2013,2013-01-23,ROBINOT Alexandre,SAKAI Asuka,3,1,"11,11,5,11|8,4,11,3",R32,GRAND_SLAM,U21MS,106,Main Draw,ROBINOT Alexandre (FRA),SAKAI Asuka (JPN),ROBINOT Alexandre
+World Tour Austrian Open Wels 2013,2013-01-23,SZOCS Hunor,JEAN Lauric,3,1,"14,11,11,11|16,6,3,9",R32,GRAND_SLAM,U21MS,106,Main Draw,SZOCS Hunor (ROU),JEAN Lauric (BEL),SZOCS Hunor
+World Tour Austrian Open Wels 2013,2013-01-23,GAUZY Simon,SHIBATA Naoto,3,0,"11,11,11|8,8,8",R32,GRAND_SLAM,U21MS,106,Main Draw,GAUZY Simon (FRA),SHIBATA Naoto (JPN),GAUZY Simon
+World Tour Austrian Open Wels 2013,2013-01-23,YOSHIMURA Maharu,KULPA Konrad,3,1,"11,15,8,11|7,13,11,6",R32,GRAND_SLAM,U21MS,106,Main Draw,YOSHIMURA Maharu (JPN),KULPA Konrad (POL),YOSHIMURA Maharu
+World Tour Austrian Open Wels 2013,2013-01-23,INDEHERBERG Julien,HACHARD Antoine,3,0,"11,13,11|7,11,9",R32,GRAND_SLAM,U21MS,106,Main Draw,INDEHERBERG Julien (BEL),HACHARD Antoine (FRA),INDEHERBERG Julien
+World Tour Austrian Open Wels 2013,2013-01-23,LAKATOS Tamas,HIGASHI Yuto,3,2,"11,6,11,7,11|9,11,5,11,9",R32,GRAND_SLAM,U21MS,106,Main Draw,LAKATOS Tamas (HUN),HIGASHI Yuto (JPN),LAKATOS Tamas
+World Tour Austrian Open Wels 2013,2013-01-23,FLORAS Robert,TRAN Anthony,3,0,"11,11,12|9,9,10",R32,GRAND_SLAM,U21MS,106,Main Draw,FLORAS Robert (POL),TRAN Anthony (SWE),FLORAS Robert
+World Tour Austrian Open Wels 2013,2013-01-23,SIRUCEK Pavel,DUDA Benedikt,3,0,"11,11,11|4,6,9",R32,GRAND_SLAM,U21MS,106,Main Draw,SIRUCEK Pavel (CZE),DUDA Benedikt (GER),SIRUCEK Pavel
+World Tour Austrian Open Wels 2013,2013-01-23,ROBINOT Quentin,RECH DALDOSSO Marco,3,1,"11,12,11,11|5,14,5,8",R32,GRAND_SLAM,U21MS,106,Main Draw,ROBINOT Quentin (FRA),RECH DALDOSSO Marco (ITA),ROBINOT Quentin
+World Tour Austrian Open Wels 2013,2013-01-23,MUTTI Leonardo,ZIBRAT Jan,3,2,"7,11,6,11,11|11,9,11,9,8",R32,GRAND_SLAM,U21MS,106,Main Draw,MUTTI Leonardo (ITA),ZIBRAT Jan (SLO),MUTTI Leonardo
+World Tour Austrian Open Wels 2013,2013-01-23,FRANZISKA Patrick,ANGLES Enzo,3,0,"11,12,11|5,10,6",R32,GRAND_SLAM,U21MS,106,Main Draw,FRANZISKA Patrick (GER),ANGLES Enzo (FRA),FRANZISKA Patrick
+World Tour Austrian Open Wels 2013,2013-01-23,MURAMATSU Yuto,NUYTINCK Cedric,3,0,"11,11,11|9,7,6",R16,GRAND_SLAM,U21MS,106,Main Draw,MURAMATSU Yuto (JPN),NUYTINCK Cedric (BEL),MURAMATSU Yuto
+World Tour Austrian Open Wels 2013,2013-01-23,GROTH Jonathan,DYJAS Jakub,3,2,"9,11,6,16,11|11,6,11,14,5",R16,GRAND_SLAM,U21MS,106,Main Draw,GROTH Jonathan (DEN),DYJAS Jakub (POL),GROTH Jonathan
+World Tour Austrian Open Wels 2013,2013-01-23,LORENTZ Romain,ROBINOT Alexandre,3,0,"11,12,11|7,10,6",R16,GRAND_SLAM,U21MS,106,Main Draw,LORENTZ Romain (FRA),ROBINOT Alexandre (FRA),LORENTZ Romain
+World Tour Austrian Open Wels 2013,2013-01-23,SZOCS Hunor,GAUZY Simon,3,2,"11,4,11,8,11|9,11,7,11,8",R16,GRAND_SLAM,U21MS,106,Main Draw,SZOCS Hunor (ROU),GAUZY Simon (FRA),SZOCS Hunor
+World Tour Austrian Open Wels 2013,2013-01-23,YOSHIMURA Maharu,INDEHERBERG Julien,3,0,"11,11,11|4,7,8",R16,GRAND_SLAM,U21MS,106,Main Draw,YOSHIMURA Maharu (JPN),INDEHERBERG Julien (BEL),YOSHIMURA Maharu
+World Tour Austrian Open Wels 2013,2013-01-23,LAKATOS Tamas,FLORAS Robert,3,2,"13,11,1,8,11|11,6,11,11,2",R16,GRAND_SLAM,U21MS,106,Main Draw,LAKATOS Tamas (HUN),FLORAS Robert (POL),LAKATOS Tamas
+World Tour Austrian Open Wels 2013,2013-01-23,SIRUCEK Pavel,ROBINOT Quentin,3,0,"11,14,11|7,12,8",R16,GRAND_SLAM,U21MS,106,Main Draw,SIRUCEK Pavel (CZE),ROBINOT Quentin (FRA),SIRUCEK Pavel
+World Tour Austrian Open Wels 2013,2013-01-23,FRANZISKA Patrick,MUTTI Leonardo,3,2,"10,11,10,11,11|12,7,12,7,4",R16,GRAND_SLAM,U21MS,106,Main Draw,FRANZISKA Patrick (GER),MUTTI Leonardo (ITA),FRANZISKA Patrick
+World Tour Austrian Open Wels 2013,2013-01-23,MURAMATSU Yuto,GROTH Jonathan,4,0,"11,11,11,11|9,6,4,6",QF,GRAND_SLAM,U21MS,106,Main Draw,MURAMATSU Yuto (JPN),GROTH Jonathan (DEN),MURAMATSU Yuto
+World Tour Austrian Open Wels 2013,2013-01-23,SZOCS Hunor,LORENTZ Romain,4,0,"11,13,11,11|9,11,7,9",QF,GRAND_SLAM,U21MS,106,Main Draw,SZOCS Hunor (ROU),LORENTZ Romain (FRA),SZOCS Hunor
+World Tour Austrian Open Wels 2013,2013-01-23,YOSHIMURA Maharu,LAKATOS Tamas,4,0,"11,11,11,11|3,9,7,3",QF,GRAND_SLAM,U21MS,106,Main Draw,YOSHIMURA Maharu (JPN),LAKATOS Tamas (HUN),YOSHIMURA Maharu
+World Tour Austrian Open Wels 2013,2013-01-23,FRANZISKA Patrick,SIRUCEK Pavel,4,3,"11,7,11,6,12,9,11|8,11,7,11,10,11,3",QF,GRAND_SLAM,U21MS,106,Main Draw,FRANZISKA Patrick (GER),SIRUCEK Pavel (CZE),FRANZISKA Patrick
+World Tour Austrian Open Wels 2013,2013-01-23,MURAMATSU Yuto,SZOCS Hunor,4,1,"9,11,11,11,11|11,8,4,3,7",SF,GRAND_SLAM,U21MS,106,Main Draw,MURAMATSU Yuto (JPN),SZOCS Hunor (ROU),MURAMATSU Yuto
+World Tour Austrian Open Wels 2013,2013-01-23,YOSHIMURA Maharu,FRANZISKA Patrick,4,3,"14,9,11,8,11,6,11|12,11,7,11,8,11,8",SF,GRAND_SLAM,U21MS,106,Main Draw,YOSHIMURA Maharu (JPN),FRANZISKA Patrick (GER),YOSHIMURA Maharu
+World Tour Austrian Open Wels 2013,2013-01-23,YOSHIMURA Maharu,MURAMATSU Yuto,4,2,"11,13,11,7,9,11|8,11,6,11,11,4",F,GRAND_SLAM,U21MS,106,Main Draw,YOSHIMURA Maharu (JPN),MURAMATSU Yuto (JPN),YOSHIMURA Maharu
+World Tour Austrian Open Wels 2013,2013-01-23,CHENG I-Ching,TUBIKANEC Ivana,3,0,"12,11,11|10,9,4",R32,GRAND_SLAM,U21WS,106,Main Draw,CHENG I-Ching (TPE),TUBIKANEC Ivana (CRO),CHENG I-Ching
+World Tour Austrian Open Wels 2013,2013-01-23,SONG Maeum,JEGER Mateja,3,1,"11,10,11,11|8,12,3,9",R32,GRAND_SLAM,U21WS,106,Main Draw,SONG Maeum (KOR),JEGER Mateja (CRO),SONG Maeum
+World Tour Austrian Open Wels 2013,2013-01-23,MATSUDAIRA Shiho,IACOB Camelia,3,0,"11,11,11|9,6,9",R32,GRAND_SLAM,U21WS,106,Main Draw,MATSUDAIRA Shiho (JPN),IACOB Camelia (ROU),MATSUDAIRA Shiho
+World Tour Austrian Open Wels 2013,2013-01-23,VARADY Barbora,RAKOVAC Lea,3,1,"11,11,2,12|6,8,11,10",R32,GRAND_SLAM,U21WS,106,Main Draw,VARADY Barbora (SVK),RAKOVAC Lea (CRO),VARADY Barbora
+World Tour Austrian Open Wels 2013,2013-01-23,SOLJA Petrissa,GUSEVA Ekaterina,3,0,"11,11,11|2,6,9",R32,GRAND_SLAM,U21WS,106,Main Draw,SOLJA Petrissa (GER),GUSEVA Ekaterina (RUS),SOLJA Petrissa
+World Tour Austrian Open Wels 2013,2013-01-23,MADARASZ Dora,KUMAHARA Luca,3,1,"11,11,9,11|7,6,11,6",R32,GRAND_SLAM,U21WS,106,Main Draw,MADARASZ Dora (HUN),KUMAHARA Luca (BRA),MADARASZ Dora
+World Tour Austrian Open Wels 2013,2013-01-23,NOSKOVA Yana,GASNIER Laura,3,1,"7,11,11,11|11,5,9,6",R32,GRAND_SLAM,U21WS,106,Main Draw,NOSKOVA Yana (RUS),GASNIER Laura (FRA),NOSKOVA Yana
+World Tour Austrian Open Wels 2013,2013-01-23,MORIZONO Misaki,VINCZE Andrada,3,1,"11,6,11,11|2,11,6,3",R32,GRAND_SLAM,U21WS,106,Main Draw,MORIZONO Misaki (JPN),VINCZE Andrada (ROU),MORIZONO Misaki
+World Tour Austrian Open Wels 2013,2013-01-23,YOO Eunchong,TODOROVIC Andrea,3,0,"11,11,11|7,5,6",R32,GRAND_SLAM,U21WS,106,Main Draw,YOO Eunchong (KOR),TODOROVIC Andrea (SRB),YOO Eunchong
+World Tour Austrian Open Wels 2013,2013-01-23,EERLAND Britt,XIAO Maria,3,1,"8,11,12,11|11,7,10,5",R32,GRAND_SLAM,U21WS,106,Main Draw,EERLAND Britt (NED),XIAO Maria (ESP),EERLAND Britt
+World Tour Austrian Open Wels 2013,2013-01-23,NG Wing Nam,CHOI Jeongmin,3,1,"11,11,5,11|5,3,11,9",R32,GRAND_SLAM,U21WS,106,Main Draw,NG Wing Nam (HKG),CHOI Jeongmin (KOR),NG Wing Nam
+World Tour Austrian Open Wels 2013,2013-01-23,KANG Misoon,LUPULESKU Anelia,3,0,"11,11,14|8,9,12",R32,GRAND_SLAM,U21WS,106,Main Draw,KANG Misoon (KOR),LUPULESKU Anelia (SRB),KANG Misoon
+World Tour Austrian Open Wels 2013,2013-01-23,POLCANOVA Sofia,ABBAT Alice,3,1,"11,7,11,11|7,11,7,4",R32,GRAND_SLAM,U21WS,106,Main Draw,POLCANOVA Sofia (AUT),ABBAT Alice (FRA),POLCANOVA Sofia
+World Tour Austrian Open Wels 2013,2013-01-23,AMBRUS Krisztina,BIKBAEVA Anna,3,0,"11,12,11|5,10,8",R32,GRAND_SLAM,U21WS,106,Main Draw,AMBRUS Krisztina (HUN),BIKBAEVA Anna (RUS),AMBRUS Krisztina
+World Tour Austrian Open Wels 2013,2013-01-23,MATSUMOTO Yuki,LEE Ho Ching,3,2,"17,9,11,7,11|15,11,8,11,8",R32,GRAND_SLAM,U21WS,106,Main Draw,MATSUMOTO Yuki (JPN),LEE Ho Ching (HKG),MATSUMOTO Yuki
+World Tour Austrian Open Wels 2013,2013-01-23,SONG Maeum,CHENG I-Ching,3,0,"11,12,13|4,10,11",R16,GRAND_SLAM,U21WS,106,Main Draw,SONG Maeum (KOR),CHENG I-Ching (TPE),SONG Maeum
+World Tour Austrian Open Wels 2013,2013-01-23,MATSUDAIRA Shiho,VARADY Barbora,3,0,"11,11,11|9,9,8",R16,GRAND_SLAM,U21WS,106,Main Draw,MATSUDAIRA Shiho (JPN),VARADY Barbora (SVK),MATSUDAIRA Shiho
+World Tour Austrian Open Wels 2013,2013-01-23,SOLJA Petrissa,MADARASZ Dora,3,0,"11,11,14|3,5,12",R16,GRAND_SLAM,U21WS,106,Main Draw,SOLJA Petrissa (GER),MADARASZ Dora (HUN),SOLJA Petrissa
+World Tour Austrian Open Wels 2013,2013-01-23,NOSKOVA Yana,MORIZONO Misaki,3,0,"11,11,11|8,9,7",R16,GRAND_SLAM,U21WS,106,Main Draw,NOSKOVA Yana (RUS),MORIZONO Misaki (JPN),NOSKOVA Yana
+World Tour Austrian Open Wels 2013,2013-01-23,YOO Eunchong,SZOCS Bernadette,3,2,"6,11,11,4,13|11,8,7,11,11",R16,GRAND_SLAM,U21WS,106,Main Draw,YOO Eunchong (KOR),SZOCS Bernadette (ROU),YOO Eunchong
+World Tour Austrian Open Wels 2013,2013-01-23,EERLAND Britt,NG Wing Nam,3,0,"11,13,14|7,11,12",R16,GRAND_SLAM,U21WS,106,Main Draw,EERLAND Britt (NED),NG Wing Nam (HKG),EERLAND Britt
+World Tour Austrian Open Wels 2013,2013-01-23,KANG Misoon,POLCANOVA Sofia,3,0,"11,11,11|3,9,6",R16,GRAND_SLAM,U21WS,106,Main Draw,KANG Misoon (KOR),POLCANOVA Sofia (AUT),KANG Misoon
+World Tour Austrian Open Wels 2013,2013-01-23,MATSUMOTO Yuki,AMBRUS Krisztina,3,2,"3,11,9,11,11|11,3,11,9,9",R16,GRAND_SLAM,U21WS,106,Main Draw,MATSUMOTO Yuki (JPN),AMBRUS Krisztina (HUN),MATSUMOTO Yuki
+World Tour Austrian Open Wels 2013,2013-01-23,MATSUDAIRA Shiho,SONG Maeum,4,3,"12,11,6,10,7,13,11|10,5,11,12,11,11,9",QF,GRAND_SLAM,U21WS,106,Main Draw,MATSUDAIRA Shiho (JPN),SONG Maeum (KOR),MATSUDAIRA Shiho
+World Tour Austrian Open Wels 2013,2013-01-23,SOLJA Petrissa,NOSKOVA Yana,4,1,"6,11,11,11,15|11,7,3,4,13",QF,GRAND_SLAM,U21WS,106,Main Draw,SOLJA Petrissa (GER),NOSKOVA Yana (RUS),SOLJA Petrissa
+World Tour Austrian Open Wels 2013,2013-01-23,YOO Eunchong,EERLAND Britt,4,2,"4,13,9,13,12,12|11,11,11,11,10,10",QF,GRAND_SLAM,U21WS,106,Main Draw,YOO Eunchong (KOR),EERLAND Britt (NED),YOO Eunchong
+World Tour Austrian Open Wels 2013,2013-01-23,KANG Misoon,MATSUMOTO Yuki,4,1,"11,11,7,11,14|5,5,11,8,12",QF,GRAND_SLAM,U21WS,106,Main Draw,KANG Misoon (KOR),MATSUMOTO Yuki (JPN),KANG Misoon
+World Tour Austrian Open Wels 2013,2013-01-23,MATSUDAIRA Shiho,SOLJA Petrissa,4,1,"11,4,11,13,11|9,11,6,11,7",SF,GRAND_SLAM,U21WS,106,Main Draw,MATSUDAIRA Shiho (JPN),SOLJA Petrissa (GER),MATSUDAIRA Shiho
+World Tour Austrian Open Wels 2013,2013-01-23,KANG Misoon,YOO Eunchong,4,0,"11,11,13,11|7,7,11,8",SF,GRAND_SLAM,U21WS,106,Main Draw,KANG Misoon (KOR),YOO Eunchong (KOR),KANG Misoon
+World Tour Austrian Open Wels 2013,2013-01-23,MATSUDAIRA Shiho,KANG Misoon,4,0,"11,11,11,11|5,8,7,9",F,GRAND_SLAM,U21WS,106,Main Draw,MATSUDAIRA Shiho (JPN),KANG Misoon (KOR),MATSUDAIRA Shiho
+World Tour Austrian Open Wels 2013,2013-01-23,HAO Shuai/ZHANG Jike,GARDOS Robert/HABESOHN Daniel,3,1,"2,11,11,11|11,9,7,9",R16,GRAND_SLAM,MD,106,Main Draw,HAO Shuai (CHN) / ZHANG Jike (CHN),GARDOS Robert (AUT) / HABESOHN Daniel (AUT),HAO Shuai
+World Tour Austrian Open Wels 2013,2013-01-23,FEGERL Stefan/FENG Xiaoquan,MATSUMOTO Cazuo/MONTEIRO Thiago,3,2,"10,11,11,11,11|12,8,6,13,5",R16,GRAND_SLAM,MD,106,Main Draw,FEGERL Stefan (AUT) / FENG Xiaoquan (AUT),MATSUMOTO Cazuo (BRA) / MONTEIRO Thiago (BRA),FEGERL Stefan
+World Tour Austrian Open Wels 2013,2013-01-23,HAO Shuai/ZHANG Jike,FEGERL Stefan/FENG Xiaoquan,3,0,"13,11,11|11,4,9",QF,GRAND_SLAM,MD,106,Main Draw,HAO Shuai (CHN) / ZHANG Jike (CHN),FEGERL Stefan (AUT) / FENG Xiaoquan (AUT),HAO Shuai
+World Tour Austrian Open Wels 2013,2013-01-23,HAO Shuai/ZHANG Jike,GERELL Par/LUNDQVIST Jens,3,2,"11,11,7,11,11|13,5,11,5,5",SF,GRAND_SLAM,MD,106,Main Draw,HAO Shuai (CHN) / ZHANG Jike (CHN),GERELL Par (SWE) / LUNDQVIST Jens (SWE),HAO Shuai
+World Tour Austrian Open Wels 2013,2013-01-23,DING Ning/LI Xiaoxia,JIANG Huajun/LEE Ho Ching,3,0,"11,11,13|5,5,11",QF,GRAND_SLAM,WD,106,Main Draw,DING Ning (CHN) / LI Xiaoxia (CHN),JIANG Huajun (HKG) / LEE Ho Ching (HKG),DING Ning
+World Tour Austrian Open Wels 2013,2013-01-23,DING Ning/LI Xiaoxia,CHEN Meng/ZHU Yuling,3,0,"11,11,15|9,6,13",F,GRAND_SLAM,WD,106,Main Draw,DING Ning (CHN) / LI Xiaoxia (CHN),CHEN Meng (CHN) / ZHU Yuling (MAC),DING Ning
+World Tour Austrian Open Wels 2013,2013-01-23,TAN Ruiwu/WANG Zengyi,FREITAS Marcos/GACINA Andrej,3,1,"11,11,9,11|6,9,11,7",R16,GRAND_SLAM,MD,106,Main Draw,TAN Ruiwu (CRO) / WANG Zengyi (POL),FREITAS Marcos (POR) / GACINA Andrej (CRO),TAN Ruiwu
+World Tour Austrian Open Wels 2013,2013-01-23,PENKAVOVA Katerina/VACENOVSKA Iveta,MATSUMOTO Yuki/SAKAI Haruka,3,2,"11,7,8,12,11|8,11,11,10,9",R16,GRAND_SLAM,WD,106,Main Draw,PENKAVOVA Katerina (CZE) / VACENOVSKA Iveta (CZE),MATSUMOTO Yuki (JPN) / SAKAI Haruka (JPN),PENKAVOVA Katerina
+World Tour Austrian Open Wels 2013,2013-01-23,CHEN Meng/ZHU Yuling,PENKAVOVA Katerina/VACENOVSKA Iveta,3,1,"11,11,10,11|6,8,12,1",QF,GRAND_SLAM,WD,106,Main Draw,CHEN Meng (CHN) / ZHU Yuling (MAC),PENKAVOVA Katerina (CZE) / VACENOVSKA Iveta (CZE),CHEN Meng
+World Tour Austrian Open Wels 2013,2013-01-23,CHUANG Chih-Yuan/HUANG Sheng-Sheng,ASSAR Khalid/ASSAR Omar,3,0,"11,11,11|3,2,3",R16,GRAND_SLAM,MD,106,Main Draw,CHUANG Chih-Yuan (TPE) / HUANG Sheng-Sheng (TPE),ASSAR Khalid (EGY) / ASSAR Omar (EGY),CHUANG Chih-Yuan
+World Tour Austrian Open Wels 2013,2013-01-23,JIANG Huajun/LEE Ho Ching,IVANCAN Irene/SOLJA Petrissa,3,1,"11,15,11,11|6,17,9,6",R16,GRAND_SLAM,WD,106,Main Draw,JIANG Huajun (HKG) / LEE Ho Ching (HKG),IVANCAN Irene (GER) / SOLJA Petrissa (GER),JIANG Huajun
+World Tour Austrian Open Wels 2013,2013-01-23,BARTHEL Zhenqi/SHAN Xiaona,LOVAS Petra/PERGEL Szandra,3,0,"11,11,11|8,8,2",R16,GRAND_SLAM,WD,106,Main Draw,BARTHEL Zhenqi (GER) / SHAN Xiaona (GER),LOVAS Petra (HUN) / PERGEL Szandra (HUN),BARTHEL Zhenqi
+World Tour Austrian Open Wels 2013,2013-01-23,MATSUDAIRA Kenta/YOSHIMURA Maharu,FANG Bo/ZHOU Yu,3,1,"9,11,11,11|11,9,9,6",R16,GRAND_SLAM,MD,106,Main Draw,MATSUDAIRA Kenta (JPN) / YOSHIMURA Maharu (JPN),FANG Bo (KAZ) / ZHOU Yu (CHN),MATSUDAIRA Kenta
+World Tour Austrian Open Wels 2013,2013-01-23,CHUANG Chih-Yuan/HUANG Sheng-Sheng,MATSUDAIRA Kenta/YOSHIMURA Maharu,3,2,"9,11,2,11,11|11,9,11,4,8",QF,GRAND_SLAM,MD,106,Main Draw,CHUANG Chih-Yuan (TPE) / HUANG Sheng-Sheng (TPE),MATSUDAIRA Kenta (JPN) / YOSHIMURA Maharu (JPN),CHUANG Chih-Yuan
+World Tour Austrian Open Wels 2013,2013-01-23,ISHIKAWA Kasumi/MORIZONO Misaki,AMBRUS Krisztina/MADARASZ Dora,3,1,"11,11,9,11|8,7,11,1",R16,GRAND_SLAM,WD,106,Main Draw,ISHIKAWA Kasumi (JPN) / MORIZONO Misaki (JPN),AMBRUS Krisztina (HUN) / MADARASZ Dora (HUN),ISHIKAWA Kasumi
+World Tour Austrian Open Wels 2013,2013-01-23,ISHIKAWA Kasumi/MORIZONO Misaki,BARTHEL Zhenqi/SHAN Xiaona,3,0,"11,11,11|6,9,9",QF,GRAND_SLAM,WD,106,Main Draw,ISHIKAWA Kasumi (JPN) / MORIZONO Misaki (JPN),BARTHEL Zhenqi (GER) / SHAN Xiaona (GER),ISHIKAWA Kasumi
+World Tour Austrian Open Wels 2013,2013-01-23,DING Ning/LI Xiaoxia,ISHIKAWA Kasumi/MORIZONO Misaki,3,0,"12,11,11|10,3,4",SF,GRAND_SLAM,WD,106,Main Draw,DING Ning (CHN) / LI Xiaoxia (CHN),ISHIKAWA Kasumi (JPN) / MORIZONO Misaki (JPN),DING Ning
+World Tour Austrian Open Wels 2013,2013-01-23,DING Ning/LI Xiaoxia,PRIVALOVA Alexandra/TIMINA Yana,3,0,"11,11,11|3,2,4",R16,GRAND_SLAM,WD,106,Main Draw,DING Ning (CHN) / LI Xiaoxia (CHN),PRIVALOVA Alexandra (BLR) / TIMINA Yana (NED),DING Ning
+World Tour Austrian Open Wels 2013,2013-01-23,CHAN Kazuhiro/MATSUDAIRA Kenji,SARGU Mihai/SILVA Andre,3,0,"11,11,11|6,4,5",R16,GRAND_SLAM,MD,106,Main Draw,CHAN Kazuhiro (JPN) / MATSUDAIRA Kenji (JPN),SARGU Mihai (ROU) / SILVA Andre (POR),CHAN Kazuhiro
+World Tour Austrian Open Wels 2013,2013-01-23,GERELL Par/LUNDQVIST Jens,IONESCU Ovidiu/SZOCS Hunor,3,1,"14,12,11,11|16,10,7,4",R16,GRAND_SLAM,MD,106,Main Draw,GERELL Par (SWE) / LUNDQVIST Jens (SWE),IONESCU Ovidiu (ROU) / SZOCS Hunor (ROU),GERELL Par
+World Tour Austrian Open Wels 2013,2013-01-23,NOSKOVA Yana/TIKHOMIROVA Anna,POLCANOVA Sofia/SOLJA Amelie,3,2,"5,12,7,11,13|11,10,11,6,11",R16,GRAND_SLAM,WD,106,Main Draw,NOSKOVA Yana (RUS) / TIKHOMIROVA Anna (RUS),POLCANOVA Sofia (AUT) / SOLJA Amelie (AUT),NOSKOVA Yana
+World Tour Austrian Open Wels 2013,2013-01-23,CHEN Meng/ZHU Yuling,NOSKOVA Yana/TIKHOMIROVA Anna,3,2,"11,7,14,11,11|4,11,16,5,4",SF,GRAND_SLAM,WD,106,Main Draw,CHEN Meng (CHN) / ZHU Yuling (MAC),NOSKOVA Yana (RUS) / TIKHOMIROVA Anna (RUS),CHEN Meng
+World Tour Austrian Open Wels 2013,2013-01-23,KARLSSON Kristian/KARLSSON Mattias,ACHANTA Sharath/TSUBOI Gustavo,3,1,"10,11,11,11|12,3,3,4",R16,GRAND_SLAM,MD,106,Main Draw,KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),ACHANTA Sharath (IND) / TSUBOI Gustavo (BRA),KARLSSON Kristian
+World Tour Austrian Open Wels 2013,2013-01-23,KARLSSON Kristian/KARLSSON Mattias,TAN Ruiwu/WANG Zengyi,3,0,"11,11,12|9,4,10",QF,GRAND_SLAM,MD,106,Main Draw,KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),TAN Ruiwu (CRO) / WANG Zengyi (POL),KARLSSON Kristian
+World Tour Austrian Open Wels 2013,2013-01-23,GERELL Par/LUNDQVIST Jens,CHAN Kazuhiro/MATSUDAIRA Kenji,3,2,"11,5,11,14,11|6,11,7,16,8",QF,GRAND_SLAM,MD,106,Main Draw,GERELL Par (SWE) / LUNDQVIST Jens (SWE),CHAN Kazuhiro (JPN) / MATSUDAIRA Kenji (JPN),GERELL Par
+World Tour Austrian Open Wels 2013,2013-01-23,CHUANG Chih-Yuan/HUANG Sheng-Sheng,KARLSSON Kristian/KARLSSON Mattias,3,0,"11,11,11|9,6,6",SF,GRAND_SLAM,MD,106,Main Draw,CHUANG Chih-Yuan (TPE) / HUANG Sheng-Sheng (TPE),KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),CHUANG Chih-Yuan
+World Tour Austrian Open Wels 2013,2013-01-23,HAO Shuai/ZHANG Jike,CHUANG Chih-Yuan/HUANG Sheng-Sheng,3,2,"9,11,9,11,14|11,6,11,7,12",F,GRAND_SLAM,MD,106,Main Draw,HAO Shuai (CHN) / ZHANG Jike (CHN),CHUANG Chih-Yuan (TPE) / HUANG Sheng-Sheng (TPE),HAO Shuai
+World Tour Austrian Open Wels 2013,2013-01-23,CHENG I-Ching/HUANG Yi-Hua,IACOB Camelia/SZOCS Bernadette,3,2,"5,11,11,10,11|11,4,4,12,5",R16,GRAND_SLAM,WD,106,Main Draw,CHENG I-Ching (TPE) / HUANG Yi-Hua (TPE),IACOB Camelia (ROU) / SZOCS Bernadette (ROU),CHENG I-Ching
+World Tour Austrian Open Wels 2013,2013-01-23,NOSKOVA Yana/TIKHOMIROVA Anna,CHENG I-Ching/HUANG Yi-Hua,3,2,"9,11,9,11,11|11,9,11,5,9",QF,GRAND_SLAM,WD,106,Main Draw,NOSKOVA Yana (RUS) / TIKHOMIROVA Anna (RUS),CHENG I-Ching (TPE) / HUANG Yi-Hua (TPE),NOSKOVA Yana

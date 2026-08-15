@@ -1,282 +1,282 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ROGIERS Benjamin/VOSTES Yannick,ASSAR Khalid/BEDAIR Omar,4,2,"11,11,7,11,9,11|6,6,11,8,11,7",R16,GRAND_SLAM,MD,57,Main Draw,ROGIERS Benjamin (BEL) / VOSTES Yannick (BEL),ASSAR Khalid (EGY) / BEDAIR Omar (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,KUCHUK Aleksandr/NEKHVEDOVICH Vitaly,ROGIERS Benjamin/VOSTES Yannick,4,1,"11,11,9,12,11|7,6,11,10,7",QF,GRAND_SLAM,MD,57,Main Draw,KUCHUK Aleksandr (BLR) / NEKHVEDOVICH Vitaly (BLR),ROGIERS Benjamin (BEL) / VOSTES Yannick (BEL)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,GLADYSHEV Mikhail/SALIFOU Abdel-Kader,JEAN Lauric/NUYTINCK Cedric,4,1,"11,6,11,11,11|9,11,3,9,1",QF,GRAND_SLAM,MD,57,Main Draw,GLADYSHEV Mikhail (RUS) / SALIFOU Abdel-Kader (BEN),JEAN Lauric (BEL) / NUYTINCK Cedric (BEL)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,JEAN Lauric/NUYTINCK Cedric,LASHIN Elsayed/LASHIN Aly,3,1,"11,13,5,11|9,11,11,8",QR16,GRAND_SLAM,MD,57,Qualification,JEAN Lauric (BEL) / NUYTINCK Cedric (BEL),LASHIN Elsayed (EGY) / LASHIN Aly (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,GLADYSHEV Mikhail/SALIFOU Abdel-Kader,KUCHUK Aleksandr/NEKHVEDOVICH Vitaly,4,1,"11,12,11,9,11|9,10,2,11,6",SF,GRAND_SLAM,MD,57,Main Draw,GLADYSHEV Mikhail (RUS) / SALIFOU Abdel-Kader (BEN),KUCHUK Aleksandr (BLR) / NEKHVEDOVICH Vitaly (BLR)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,JEAN Lauric/NUYTINCK Cedric,ELBEIALI Mohamed/NADIM Ahmed,4,3,"6,12,11,11,8,7,11|11,10,8,8,11,11,7",R16,GRAND_SLAM,MD,57,Main Draw,JEAN Lauric (BEL) / NUYTINCK Cedric (BEL),ELBEIALI Mohamed (EGY) / NADIM Ahmed (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,GLADYSHEV Mikhail/SALIFOU Abdel-Kader,ELSOBKY Mohamed/SONBOL Shady,4,1,"11,15,11,9,11|8,13,6,11,9",R16,GRAND_SLAM,MD,57,Main Draw,GLADYSHEV Mikhail (RUS) / SALIFOU Abdel-Kader (BEN),ELSOBKY Mohamed (EGY) / SONBOL Shady (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,LI Ahmet/VANG Bora,ASSAR Omar/MOSELHY Emad,4,0,"11,11,11,11|8,8,8,9",QF,GRAND_SLAM,MD,57,Main Draw,LI Ahmet (TUR) / VANG Bora (TUR),ASSAR Omar (EGY) / MOSELHY Emad (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,AL-MOHANNADI Ahmad Khalil/ALMUGHANNE Fahed,MAHMOUD Abdulrahman/SOBHY Ashraf,3,1,"9,11,11,13|11,9,9,11",QR16,GRAND_SLAM,MD,57,Qualification,AL-MOHANNADI Ahmad Khalil (QAT) / ALMUGHANNE Fahed (QAT),MAHMOUD Abdulrahman (EGY) / SOBHY Ashraf (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,JIANG Tianyi/LEUNG Chu Yan,GLADYSHEV Mikhail/SALIFOU Abdel-Kader,4,0,"11,11,11,11|3,5,5,7",F,GRAND_SLAM,MD,57,Main Draw,JIANG Tianyi (HKG) / LEUNG Chu Yan (HKG),GLADYSHEV Mikhail (RUS) / SALIFOU Abdel-Kader (BEN)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,JIANG Tianyi/LEUNG Chu Yan,ACHANTA Sharath/SHETTY Sanil,4,2,"8,11,11,11,8,11|11,7,6,4,11,8",R16,GRAND_SLAM,MD,57,Main Draw,JIANG Tianyi (HKG) / LEUNG Chu Yan (HKG),ACHANTA Sharath (IND) / SHETTY Sanil (IND)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,JIANG Tianyi/LEUNG Chu Yan,CHAKRABORTY Sourav/ROY Soumyadeep,4,1,"7,11,11,11,11|11,6,7,7,5",QF,GRAND_SLAM,MD,57,Main Draw,JIANG Tianyi (HKG) / LEUNG Chu Yan (HKG),CHAKRABORTY Sourav (IND) / ROY Soumyadeep (IND)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,JIANG Tianyi/LEUNG Chu Yan,LI Ahmet/VANG Bora,4,2,"11,11,11,7,11,11|4,13,4,11,4,8",SF,GRAND_SLAM,MD,57,Main Draw,JIANG Tianyi (HKG) / LEUNG Chu Yan (HKG),LI Ahmet (TUR) / VANG Bora (TUR)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ASSAR Omar/MOSELHY Emad,KARIA Devesh/RAVICHANDRAN Abishek,4,2,"8,11,8,11,11,11|11,4,11,3,5,7",R16,GRAND_SLAM,MD,57,Main Draw,ASSAR Omar (EGY) / MOSELHY Emad (EGY),KARIA Devesh (IND) / RAVICHANDRAN Abishek (IND)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ACHANTA Sharath/SHETTY Sanil,BARBOLIN Illia/YIANGOU Marios,3,1,"15,17,10,11|13,15,12,7",QR16,GRAND_SLAM,MD,57,Qualification,ACHANTA Sharath (IND) / SHETTY Sanil (IND),BARBOLIN Illia (BLR) / YIANGOU Marios (CYP)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,KUCHUK Aleksandr/NEKHVEDOVICH Vitaly,ALAWLAQI Ahmed/ALYAFEI Mohammed,4,1,"11,11,6,11,11|7,4,11,5,7",R16,GRAND_SLAM,MD,57,Main Draw,KUCHUK Aleksandr (BLR) / NEKHVEDOVICH Vitaly (BLR),ALAWLAQI Ahmed (QAT) / ALYAFEI Mohammed (QAT)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,CHAKRABORTY Sourav/ROY Soumyadeep,AL-MOHANNADI Ahmad Khalil/ALMUGHANNE Fahed,4,1,"13,15,11,11,12|11,17,6,7,10",R16,GRAND_SLAM,MD,57,Main Draw,CHAKRABORTY Sourav (IND) / ROY Soumyadeep (IND),AL-MOHANNADI Ahmad Khalil (QAT) / ALMUGHANNE Fahed (QAT)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,LI Ahmet/VANG Bora,PAIKOV Mikhail/SHIBAEV Alexander,4,1,"11,4,12,11,11|5,11,10,6,6",R16,GRAND_SLAM,MD,57,Main Draw,LI Ahmet (TUR) / VANG Bora (TUR),PAIKOV Mikhail (RUS) / SHIBAEV Alexander (RUS)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,LI Ching,ALHAJJAI Waled Nasser,4,0,"11,11,11,11|3,7,2,4",R32,GRAND_SLAM,MS,57,Main Draw,LI Ching (HKG),ALHAJJAI Waled Nasser (QAT)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ROGIERS Benjamin,NADIM Ahmed,4,2,"11,9,4,11,11,11|4,11,11,6,9,8",R32,GRAND_SLAM,MS,57,Main Draw,ROGIERS Benjamin (BEL),NADIM Ahmed (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,VANG Bora,JEAN Lauric,4,1,"11,11,11,9,13|9,7,5,11,11",R32,GRAND_SLAM,MS,57,Main Draw,VANG Bora (TUR),JEAN Lauric (BEL)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ROY Soumyadeep,SHIBAEV Alexander,4,0,"11,11,11,11|7,8,1,9",R32,GRAND_SLAM,MS,57,Main Draw,ROY Soumyadeep (IND),SHIBAEV Alexander (RUS)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,LASHIN Elsayed,CHAKRABORTY Sourav,4,2,"8,11,10,11,11,11|11,9,12,5,7,6",R32,GRAND_SLAM,MS,57,Main Draw,LASHIN Elsayed (EGY),CHAKRABORTY Sourav (IND)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,VOSTES Yannick,AL-MOHANNADI Ahmad Khalil,4,1,"11,11,11,5,11|7,4,3,11,4",R32,GRAND_SLAM,MS,57,Main Draw,VOSTES Yannick (BEL),AL-MOHANNADI Ahmad Khalil (QAT)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,NEKHVEDOVICH Vitaly,MOSELHY Emad,4,3,"11,3,11,11,10,8,11|2,11,9,8,12,11,9",R32,GRAND_SLAM,MS,57,Main Draw,NEKHVEDOVICH Vitaly (BLR),MOSELHY Emad (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,LEUNG Chu Yan,KARIA Devesh,4,0,"11,11,11,11|5,2,3,3",R32,GRAND_SLAM,MS,57,Main Draw,LEUNG Chu Yan (HKG),KARIA Devesh (IND)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,SAIVE Jean-Michel,RAVICHANDRAN Abishek,4,0,"11,11,11,11|3,3,5,5",R32,GRAND_SLAM,MS,57,Main Draw,SAIVE Jean-Michel (BEL),RAVICHANDRAN Abishek (IND)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,SALIFOU Abdel-Kader,KUCHUK Aleksandr,4,1,"6,11,11,11,11|11,4,9,5,5",R32,GRAND_SLAM,MS,57,Main Draw,SALIFOU Abdel-Kader (BEN),KUCHUK Aleksandr (BLR)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,GLADYSHEV Mikhail,ASSAR Omar,4,3,"11,8,9,1,11,11,11|7,11,11,11,6,9,9",R32,GRAND_SLAM,MS,57,Main Draw,GLADYSHEV Mikhail (RUS),ASSAR Omar (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ACHANTA Sharath,BARBOLIN Illia,4,0,"11,11,11,11|6,6,6,7",R32,GRAND_SLAM,MS,57,Main Draw,ACHANTA Sharath (IND),BARBOLIN Illia (BLR)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,MATTENET Adrien,NUYTINCK Cedric,4,1,"12,11,8,11,12|10,8,11,7,10",R32,GRAND_SLAM,MS,57,Main Draw,MATTENET Adrien (FRA),NUYTINCK Cedric (BEL)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,LI Ahmet,YIANGOU Marios,4,1,"11,10,11,11,11|9,12,6,4,4",R32,GRAND_SLAM,MS,57,Main Draw,LI Ahmet (TUR),YIANGOU Marios (CYP)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ANTHONY Amalraj,PAIKOV Mikhail,4,1,"5,14,11,11,11|11,12,8,9,6",R32,GRAND_SLAM,MS,57,Main Draw,ANTHONY Amalraj (IND),PAIKOV Mikhail (RUS)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,JIANG Tianyi,SHETTY Sanil,4,0,"11,12,11,11|3,10,8,4",R32,GRAND_SLAM,MS,57,Main Draw,JIANG Tianyi (HKG),SHETTY Sanil (IND)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,LI Ching,ROGIERS Benjamin,4,1,"11,11,11,7,11|7,9,9,11,4",R16,GRAND_SLAM,MS,57,Main Draw,LI Ching (HKG),ROGIERS Benjamin (BEL)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,VANG Bora,ROY Soumyadeep,4,1,"11,11,8,11,11|9,4,11,6,5",R16,GRAND_SLAM,MS,57,Main Draw,VANG Bora (TUR),ROY Soumyadeep (IND)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,LASHIN Elsayed,VOSTES Yannick,4,3,"11,9,9,11,10,11,11|7,11,11,9,12,6,8",R16,GRAND_SLAM,MS,57,Main Draw,LASHIN Elsayed (EGY),VOSTES Yannick (BEL)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,LEUNG Chu Yan,NEKHVEDOVICH Vitaly,4,1,"8,11,11,11,11|11,9,6,6,8",R16,GRAND_SLAM,MS,57,Main Draw,LEUNG Chu Yan (HKG),NEKHVEDOVICH Vitaly (BLR)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,SALIFOU Abdel-Kader,SAIVE Jean-Michel,4,2,"8,13,1,11,11,11|11,11,11,6,9,7",R16,GRAND_SLAM,MS,57,Main Draw,SALIFOU Abdel-Kader (BEN),SAIVE Jean-Michel (BEL)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ACHANTA Sharath,GLADYSHEV Mikhail,4,1,"11,11,11,7,11|7,9,8,11,9",R16,GRAND_SLAM,MS,57,Main Draw,ACHANTA Sharath (IND),GLADYSHEV Mikhail (RUS)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,MATTENET Adrien,LI Ahmet,4,0,"11,11,11,11|5,6,6,4",R16,GRAND_SLAM,MS,57,Main Draw,MATTENET Adrien (FRA),LI Ahmet (TUR)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,JIANG Tianyi,ANTHONY Amalraj,4,0,"11,11,11,11|2,5,5,6",R16,GRAND_SLAM,MS,57,Main Draw,JIANG Tianyi (HKG),ANTHONY Amalraj (IND)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,LI Ching,VANG Bora,4,3,"9,11,12,11,11,9,11|11,7,14,9,7,11,8",QF,GRAND_SLAM,MS,57,Main Draw,LI Ching (HKG),VANG Bora (TUR)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,LASHIN Elsayed,LEUNG Chu Yan,4,3,"9,15,11,8,6,11,11|11,13,9,11,11,4,7",QF,GRAND_SLAM,MS,57,Main Draw,LASHIN Elsayed (EGY),LEUNG Chu Yan (HKG)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ACHANTA Sharath,SALIFOU Abdel-Kader,4,3,"11,10,12,11,7,9,11|3,12,10,1,11,11,9",QF,GRAND_SLAM,MS,57,Main Draw,ACHANTA Sharath (IND),SALIFOU Abdel-Kader (BEN)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,JIANG Tianyi,MATTENET Adrien,4,1,"11,14,12,12,12|8,12,14,10,10",QF,GRAND_SLAM,MS,57,Main Draw,JIANG Tianyi (HKG),MATTENET Adrien (FRA)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,LI Ching,LASHIN Elsayed,4,1,"12,11,12,11,11|10,2,14,6,4",SF,GRAND_SLAM,MS,57,Main Draw,LI Ching (HKG),LASHIN Elsayed (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ACHANTA Sharath,JIANG Tianyi,4,1,"11,11,14,12,11|5,6,16,10,9",SF,GRAND_SLAM,MS,57,Main Draw,ACHANTA Sharath (IND),JIANG Tianyi (HKG)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ACHANTA Sharath,LI Ching,4,0,"11,11,11,11|7,9,8,4",F,GRAND_SLAM,MS,57,Main Draw,ACHANTA Sharath (IND),LI Ching (HKG)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,SHIBAEV Alexander,HEIKAL Ahmed,4,0,"11,11,11,11|3,6,5,8",R16,GRAND_SLAM,U21MS,57,Main Draw,SHIBAEV Alexander (RUS),HEIKAL Ahmed (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,BEDAIR Omar,PAIKOV Mikhail,4,1,"11,11,11,11,11|5,13,5,7,7",R16,GRAND_SLAM,U21MS,57,Main Draw,BEDAIR Omar (EGY),PAIKOV Mikhail (RUS)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,PETIOT Jeremy,YIANGOU Marios,4,2,"10,8,11,11,14,11|12,11,7,7,12,6",R16,GRAND_SLAM,U21MS,57,Main Draw,PETIOT Jeremy (FRA),YIANGOU Marios (CYP)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ROGIERS Benjamin,SONBOL Wissam,4,2,"12,12,11,5,9,13|10,10,8,11,11,11",R16,GRAND_SLAM,U21MS,57,Main Draw,ROGIERS Benjamin (BEL),SONBOL Wissam (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,SALIFOU Abdel-Kader,SHETTY Sanil,4,0,"11,11,11,11|6,8,6,6",R16,GRAND_SLAM,U21MS,57,Main Draw,SALIFOU Abdel-Kader (BEN),SHETTY Sanil (IND)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,NUYTINCK Cedric,ASSAR Khalid,4,1,"5,11,11,11,11|11,5,7,7,9",R16,GRAND_SLAM,U21MS,57,Main Draw,NUYTINCK Cedric (BEL),ASSAR Khalid (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ASSAR Omar,JEAN Lauric,4,2,"12,10,11,11,9,11|10,12,8,9,11,4",R16,GRAND_SLAM,U21MS,57,Main Draw,ASSAR Omar (EGY),JEAN Lauric (BEL)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,LI Ahmet,ELSOBKY Mohamed,4,0,"11,11,11,11|5,3,9,8",R16,GRAND_SLAM,U21MS,57,Main Draw,LI Ahmet (TUR),ELSOBKY Mohamed (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,SHIBAEV Alexander,BEDAIR Omar,4,1,"11,11,11,8,11|8,4,8,11,9",QF,GRAND_SLAM,U21MS,57,Main Draw,SHIBAEV Alexander (RUS),BEDAIR Omar (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ROGIERS Benjamin,PETIOT Jeremy,4,0,"11,11,11,11|8,8,5,6",QF,GRAND_SLAM,U21MS,57,Main Draw,ROGIERS Benjamin (BEL),PETIOT Jeremy (FRA)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,SALIFOU Abdel-Kader,NUYTINCK Cedric,4,2,"4,11,10,11,11,11|11,6,12,5,4,6",QF,GRAND_SLAM,U21MS,57,Main Draw,SALIFOU Abdel-Kader (BEN),NUYTINCK Cedric (BEL)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,LI Ahmet,ASSAR Omar,4,3,"11,11,8,6,21,8,12|9,9,11,11,19,11,10",QF,GRAND_SLAM,U21MS,57,Main Draw,LI Ahmet (TUR),ASSAR Omar (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,SHIBAEV Alexander,ROGIERS Benjamin,4,2,"11,11,11,9,11,11|5,4,5,11,13,7",SF,GRAND_SLAM,U21MS,57,Main Draw,SHIBAEV Alexander (RUS),ROGIERS Benjamin (BEL)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,LI Ahmet,SALIFOU Abdel-Kader,4,3,"9,11,10,8,11,11,11|11,8,12,11,5,3,1",SF,GRAND_SLAM,U21MS,57,Main Draw,LI Ahmet (TUR),SALIFOU Abdel-Kader (BEN)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,LI Ahmet,SHIBAEV Alexander,4,2,"11,5,6,12,11,11|9,11,11,10,8,7",F,GRAND_SLAM,U21MS,57,Main Draw,LI Ahmet (TUR),SHIBAEV Alexander (RUS)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,RAVICHANDRAN Abishek,ALHAJJAI Waled Nasser,4,1,"15,11,5,11,11|13,4,11,6,6",QR16,GRAND_SLAM,MS,57,Qualification,RAVICHANDRAN Abishek (IND),ALHAJJAI Waled Nasser (QAT)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,SHETTY Sanil,ALMUGHANNE Fahed,4,1,"11,10,11,11,11|5,12,1,5,3",QR16,GRAND_SLAM,MS,57,Qualification,SHETTY Sanil (IND),ALMUGHANNE Fahed (QAT)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,KARIA Devesh,ASHRAF Ahmed,4,3,"2,11,4,10,11,11,11|11,5,11,12,5,5,6",QR16,GRAND_SLAM,MS,57,Qualification,KARIA Devesh (IND),ASHRAF Ahmed (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,NUYTINCK Cedric,KUMAR Jubin,4,1,"14,7,12,11,11|12,11,10,8,5",QR16,GRAND_SLAM,MS,57,Qualification,NUYTINCK Cedric (BEL),KUMAR Jubin (IND)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,BARBOLIN Illia,ASSAR Khalid,4,2,"11,11,11,7,7,11|5,8,6,11,11,4",QR16,GRAND_SLAM,MS,57,Qualification,BARBOLIN Illia (BLR),ASSAR Khalid (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ANTHONY Amalraj,LASHIN Aly,4,2,"11,6,11,11,8,11|7,11,7,9,11,4",,GRAND_SLAM,MS,57,Qualification,ANTHONY Amalraj (IND),LASHIN Aly (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ANTHONY Amalraj,ALHAJJAI Waled Nasser,4,1,"11,11,11,8,11|3,4,6,11,3",,GRAND_SLAM,MS,57,Qualification,ANTHONY Amalraj (IND),ALHAJJAI Waled Nasser (QAT)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ALHAJJAI Waled Nasser,LASHIN Aly,4,1,"13,11,11,9,11|11,9,6,11,3",,GRAND_SLAM,MS,57,Qualification,ALHAJJAI Waled Nasser (QAT),LASHIN Aly (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ROY Soumyadeep,ALMUGHANNE Fahed,4,0,"11,11,11,14|4,6,7,12",,GRAND_SLAM,MS,57,Qualification,ROY Soumyadeep (IND),ALMUGHANNE Fahed (QAT)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ROY Soumyadeep,BEDAIR Omar,4,0,"13,11,11,11|11,7,7,5",,GRAND_SLAM,MS,57,Qualification,ROY Soumyadeep (IND),BEDAIR Omar (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ALMUGHANNE Fahed,BEDAIR Omar,4,1,"11,10,11,14,11|9,12,6,12,8",,GRAND_SLAM,MS,57,Qualification,ALMUGHANNE Fahed (QAT),BEDAIR Omar (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,GLADYSHEV Mikhail,KARIA Devesh,4,0,"11,12,11,11|6,10,5,7",,GRAND_SLAM,MS,57,Qualification,GLADYSHEV Mikhail (RUS),KARIA Devesh (IND)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,GLADYSHEV Mikhail,ELSOBKY Mohamed,4,0,"11,11,11,11|9,7,6,4",,GRAND_SLAM,MS,57,Qualification,GLADYSHEV Mikhail (RUS),ELSOBKY Mohamed (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,KARIA Devesh,ELSOBKY Mohamed,4,2,"8,12,11,11,8,14|11,10,5,5,11,12",,GRAND_SLAM,MS,57,Qualification,KARIA Devesh (IND),ELSOBKY Mohamed (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,MOSELHY Emad,ALYAFEI Mohammed,4,0,"11,11,11,11|7,7,4,8",,GRAND_SLAM,MS,57,Qualification,MOSELHY Emad (EGY),ALYAFEI Mohammed (QAT)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,MOSELHY Emad,KUMAR Jubin,4,0,"11,11,11,13|7,3,7,11",,GRAND_SLAM,MS,57,Qualification,MOSELHY Emad (EGY),KUMAR Jubin (IND)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,KUMAR Jubin,ALYAFEI Mohammed,4,0,"11,11,11,11|8,6,9,9",,GRAND_SLAM,MS,57,Qualification,KUMAR Jubin (IND),ALYAFEI Mohammed (QAT)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,CHAKRABORTY Sourav,SONBOL Shady,4,3,"11,11,9,0,11,7,11|8,5,11,11,9,11,3",,GRAND_SLAM,MS,57,Qualification,CHAKRABORTY Sourav (IND),SONBOL Shady (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,CHAKRABORTY Sourav,BARBOLIN Illia,4,1,"11,11,11,2,11|9,7,8,11,9",,GRAND_SLAM,MS,57,Qualification,CHAKRABORTY Sourav (IND),BARBOLIN Illia (BLR)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,BARBOLIN Illia,SONBOL Shady,4,0,"11,11,11,11|5,7,6,8",,GRAND_SLAM,MS,57,Qualification,BARBOLIN Illia (BLR),SONBOL Shady (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,YIANGOU Marios,ALAWLAQI Ahmed,4,3,"8,9,11,11,4,11,11|11,11,7,7,11,5,9",,GRAND_SLAM,MS,57,Qualification,YIANGOU Marios (CYP),ALAWLAQI Ahmed (QAT)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,YIANGOU Marios,ASSAR Khalid,4,1,"8,12,11,11,11|11,10,5,1,9",,GRAND_SLAM,MS,57,Qualification,YIANGOU Marios (CYP),ASSAR Khalid (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ASSAR Khalid,ALAWLAQI Ahmed,4,1,"11,11,11,4,11|6,5,8,11,7",,GRAND_SLAM,MS,57,Qualification,ASSAR Khalid (EGY),ALAWLAQI Ahmed (QAT)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,NUYTINCK Cedric,MAHMOUD Abdulrahman,4,2,"7,11,11,10,11,11|11,5,5,12,8,8",,GRAND_SLAM,MS,57,Qualification,NUYTINCK Cedric (BEL),MAHMOUD Abdulrahman (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,AL-MOHANNADI Ahmad Khalil,NUYTINCK Cedric,4,2,"11,13,7,5,12,11|9,11,11,11,10,7",,GRAND_SLAM,MS,57,Qualification,AL-MOHANNADI Ahmad Khalil (QAT),NUYTINCK Cedric (BEL)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,AL-MOHANNADI Ahmad Khalil,MAHMOUD Abdulrahman,4,3,"12,6,7,11,11,8,12|10,11,11,8,7,11,10",,GRAND_SLAM,MS,57,Qualification,AL-MOHANNADI Ahmad Khalil (QAT),MAHMOUD Abdulrahman (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,NADIM Ahmed,ELDESSOUKY Mohamed,4,3,"11,12,11,6,11,8,11|9,14,8,11,2,11,8",,GRAND_SLAM,MS,57,Qualification,NADIM Ahmed (EGY),ELDESSOUKY Mohamed (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,SHETTY Sanil,EL HAKIM Rock,4,0,"13,11,11,11|11,5,5,5",,GRAND_SLAM,MS,57,Qualification,SHETTY Sanil (IND),EL HAKIM Rock (LBN)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,NADIM Ahmed,SHETTY Sanil,4,3,"11,9,11,11,8,7,11|3,11,9,7,11,11,8",,GRAND_SLAM,MS,57,Qualification,NADIM Ahmed (EGY),SHETTY Sanil (IND)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ELDESSOUKY Mohamed,EL HAKIM Rock,4,0,"11,11,11,11|7,7,1,6",,GRAND_SLAM,MS,57,Qualification,ELDESSOUKY Mohamed (EGY),EL HAKIM Rock (LBN)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,NADIM Ahmed,EL HAKIM Rock,4,0,,,GRAND_SLAM,MS,57,Qualification,NADIM Ahmed (EGY),EL HAKIM Rock (LBN)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,SHETTY Sanil,ELDESSOUKY Mohamed,4,0,"11,11,11,11|2,5,4,8",,GRAND_SLAM,MS,57,Qualification,SHETTY Sanil (IND),ELDESSOUKY Mohamed (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,JEAN Lauric,PETIOT Jeremy,4,1,"12,8,11,13,11|10,11,4,11,8",,GRAND_SLAM,MS,57,Qualification,JEAN Lauric (BEL),PETIOT Jeremy (FRA)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ASHRAF Ahmed,MASSAAD Adel,4,0,,,GRAND_SLAM,MS,57,Qualification,ASHRAF Ahmed (EGY),MASSAAD Adel (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,JEAN Lauric,MASSAAD Adel,4,0,,,GRAND_SLAM,MS,57,Qualification,JEAN Lauric (BEL),MASSAAD Adel (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ASHRAF Ahmed,PETIOT Jeremy,4,0,"11,11,12,11|9,9,10,9",,GRAND_SLAM,MS,57,Qualification,ASHRAF Ahmed (EGY),PETIOT Jeremy (FRA)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,JEAN Lauric,ASHRAF Ahmed,4,2,"10,11,11,11,9,11|12,7,2,6,11,7",,GRAND_SLAM,MS,57,Qualification,JEAN Lauric (BEL),ASHRAF Ahmed (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,PETIOT Jeremy,MASSAAD Adel,4,0,,,GRAND_SLAM,MS,57,Qualification,PETIOT Jeremy (FRA),MASSAAD Adel (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,KUCHUK Aleksandr,RAVICHANDRAN Abishek,4,3,"11,11,11,11,8,9,13|7,8,8,13,11,11,11",,GRAND_SLAM,MS,57,Qualification,KUCHUK Aleksandr (BLR),RAVICHANDRAN Abishek (IND)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ELBEIALI Mohamed,SOBHY Ashraf,4,2,"11,9,11,8,11,11|8,11,9,11,9,9",,GRAND_SLAM,MS,57,Qualification,ELBEIALI Mohamed (EGY),SOBHY Ashraf (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,KUCHUK Aleksandr,ELBEIALI Mohamed,4,3,"10,11,11,11,9,8,11|12,9,9,7,11,11,5",,GRAND_SLAM,MS,57,Qualification,KUCHUK Aleksandr (BLR),ELBEIALI Mohamed (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,RAVICHANDRAN Abishek,SOBHY Ashraf,4,2,"11,11,9,8,11,11|9,6,11,11,7,8",,GRAND_SLAM,MS,57,Qualification,RAVICHANDRAN Abishek (IND),SOBHY Ashraf (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,KUCHUK Aleksandr,SOBHY Ashraf,4,1,"11,11,9,11,11|7,8,11,8,9",,GRAND_SLAM,MS,57,Qualification,KUCHUK Aleksandr (BLR),SOBHY Ashraf (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,RAVICHANDRAN Abishek,ELBEIALI Mohamed,4,3,"5,2,11,4,11,11,11|11,11,8,11,5,3,7",,GRAND_SLAM,MS,57,Qualification,RAVICHANDRAN Abishek (IND),ELBEIALI Mohamed (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,HEIKAL Ahmed,MOHAMED Abdelrahman,3,2,"11,4,9,11,11|6,11,11,8,6",,GRAND_SLAM,U21MS,57,Qualification,HEIKAL Ahmed (EGY),MOHAMED Abdelrahman (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,JEAN Lauric,MOHAMED Abdelrahman,3,1,"4,11,11,11|11,6,7,6",,GRAND_SLAM,U21MS,57,Qualification,JEAN Lauric (BEL),MOHAMED Abdelrahman (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,JEAN Lauric,HEIKAL Ahmed,3,0,"11,11,11|7,6,1",,GRAND_SLAM,U21MS,57,Qualification,JEAN Lauric (BEL),HEIKAL Ahmed (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ALAA Bassel,ELSHAARAWY Karim,3,0,"11,11,11|8,9,5",,GRAND_SLAM,U21MS,57,Qualification,ALAA Bassel (EGY),ELSHAARAWY Karim (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,PETIOT Jeremy,ALAA Bassel,3,0,"11,11,11|5,8,6",,GRAND_SLAM,U21MS,57,Qualification,PETIOT Jeremy (FRA),ALAA Bassel (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,PETIOT Jeremy,ELSHAARAWY Karim,3,0,"12,11,11|10,9,9",,GRAND_SLAM,U21MS,57,Qualification,PETIOT Jeremy (FRA),ELSHAARAWY Karim (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,SONBOL Shady,ABOUELMAGD Karim,3,1,"11,11,9,13|4,6,11,11",,GRAND_SLAM,U21MS,57,Qualification,SONBOL Shady (EGY),ABOUELMAGD Karim (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,SHETTY Sanil,ABOUELMAGD Karim,3,0,"11,11,11|1,9,8",,GRAND_SLAM,U21MS,57,Qualification,SHETTY Sanil (IND),ABOUELMAGD Karim (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,SHETTY Sanil,SONBOL Shady,3,0,"11,11,11|4,5,8",,GRAND_SLAM,U21MS,57,Qualification,SHETTY Sanil (IND),SONBOL Shady (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ASSAR Khalid,ASHOUR Akram,3,1,"11,14,9,11|3,12,11,8",,GRAND_SLAM,U21MS,57,Qualification,ASSAR Khalid (EGY),ASHOUR Akram (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ALYAFEI Mohammed,ASHOUR Akram,3,0,"12,11,11|10,4,7",,GRAND_SLAM,U21MS,57,Qualification,ALYAFEI Mohammed (QAT),ASHOUR Akram (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ASSAR Khalid,ALYAFEI Mohammed,3,0,"11,11,11|9,8,5",,GRAND_SLAM,U21MS,57,Qualification,ASSAR Khalid (EGY),ALYAFEI Mohammed (QAT)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ELSOBKY Mohamed,HASSAN Adham,3,0,"14,12,12|12,10,10",,GRAND_SLAM,U21MS,57,Qualification,ELSOBKY Mohamed (EGY),HASSAN Adham (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ALAWLAQI Ahmed,HASSAN Adham,3,1,"11,11,7,11|5,4,11,6",,GRAND_SLAM,U21MS,57,Qualification,ALAWLAQI Ahmed (QAT),HASSAN Adham (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ELSOBKY Mohamed,ALAWLAQI Ahmed,3,0,"11,12,12|9,10,10",,GRAND_SLAM,U21MS,57,Qualification,ELSOBKY Mohamed (EGY),ALAWLAQI Ahmed (QAT)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,SHOUMAN Mohamed,HEGAB Hussein,3,1,"11,11,10,11|5,7,12,2",,GRAND_SLAM,U21MS,57,Qualification,SHOUMAN Mohamed (EGY),HEGAB Hussein (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,BEDAIR Omar,HEGAB Hussein,3,0,"11,11,11|6,5,6",,GRAND_SLAM,U21MS,57,Qualification,BEDAIR Omar (EGY),HEGAB Hussein (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,BEDAIR Omar,SHOUMAN Mohamed,3,2,"4,11,7,11,11|11,6,11,3,5",,GRAND_SLAM,U21MS,57,Qualification,BEDAIR Omar (EGY),SHOUMAN Mohamed (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ZAGHLOUL Mahmoud,ZAKARIA Islam,3,0,"11,11,11|6,3,6",,GRAND_SLAM,U21MS,57,Qualification,ZAGHLOUL Mahmoud (EGY),ZAKARIA Islam (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,SONBOL Wissam,ALMUGHANNE Fahed,3,2,"15,11,8,6,11|13,6,11,11,8",,GRAND_SLAM,U21MS,57,Qualification,SONBOL Wissam (EGY),ALMUGHANNE Fahed (QAT)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,SONBOL Wissam,ZAGHLOUL Mahmoud,3,2,"11,11,11,4,12|8,8,13,11,10",,GRAND_SLAM,U21MS,57,Qualification,SONBOL Wissam (EGY),ZAGHLOUL Mahmoud (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ALMUGHANNE Fahed,ZAKARIA Islam,3,0,"11,11,11|6,6,8",,GRAND_SLAM,U21MS,57,Qualification,ALMUGHANNE Fahed (QAT),ZAKARIA Islam (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ZAGHLOUL Mahmoud,ALMUGHANNE Fahed,3,2,"11,9,14,6,11|8,11,12,11,3",,GRAND_SLAM,U21MS,57,Qualification,ZAGHLOUL Mahmoud (EGY),ALMUGHANNE Fahed (QAT)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,SONBOL Wissam,ZAKARIA Islam,3,1,"8,11,11,11|11,5,9,7",,GRAND_SLAM,U21MS,57,Qualification,SONBOL Wissam (EGY),ZAKARIA Islam (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,SAMARA Elizabeta,GUAN Mengyuan,4,0,"11,11,13,11|5,7,11,4",R16,GRAND_SLAM,U21WS,57,Main Draw,SAMARA Elizabeta (ROU),GUAN Mengyuan (HKG)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,DUBKOVA Elena,KUZMINA Elena,4,2,"12,6,12,11,2,11|10,11,10,4,11,8",R16,GRAND_SLAM,U21WS,57,Main Draw,DUBKOVA Elena (BLR),KUZMINA Elena (RUS)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,HE Sirin,MESHREF Dina,4,1,"6,11,11,11,11|11,8,7,7,9",R16,GRAND_SLAM,U21WS,57,Main Draw,HE Sirin (TUR),MESHREF Dina (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,VOROBEVA Olga,PARTYKA Natalia,4,0,"12,12,11,11|10,10,6,9",R16,GRAND_SLAM,U21WS,57,Main Draw,VOROBEVA Olga (RUS),PARTYKA Natalia (POL)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ISHIGAKI Yuka,NG Wing Nam,4,1,"11,11,8,11,11|4,6,11,5,7",R16,GRAND_SLAM,U21WS,57,Main Draw,ISHIGAKI Yuka (JPN),NG Wing Nam (HKG)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,LEE Ho Ching,MONDAL Soumi,4,2,"11,11,9,11,11,11|4,13,11,6,5,7",R16,GRAND_SLAM,U21WS,57,Main Draw,LEE Ho Ching (HKG),MONDAL Soumi (IND)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,MORIZONO Misaki,GRZYBOWSKA-FRANC Katarzyna,4,0,"11,13,11,11|9,11,4,9",R16,GRAND_SLAM,U21WS,57,Main Draw,MORIZONO Misaki (JPN),GRZYBOWSKA-FRANC Katarzyna (POL)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,HU Melek,SABITOVA Valentina,4,2,"11,11,11,10,8,11|4,7,3,12,11,8",R16,GRAND_SLAM,U21WS,57,Main Draw,HU Melek (TUR),SABITOVA Valentina (RUS)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,SAMARA Elizabeta,DUBKOVA Elena,4,2,"11,8,11,11,9,11|9,11,7,8,11,7",QF,GRAND_SLAM,U21WS,57,Main Draw,SAMARA Elizabeta (ROU),DUBKOVA Elena (BLR)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,HE Sirin,VOROBEVA Olga,4,0,"11,11,12,11|7,8,10,4",QF,GRAND_SLAM,U21WS,57,Main Draw,HE Sirin (TUR),VOROBEVA Olga (RUS)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ISHIGAKI Yuka,LEE Ho Ching,4,3,"8,12,8,11,10,11,11|11,10,11,4,12,3,9",QF,GRAND_SLAM,U21WS,57,Main Draw,ISHIGAKI Yuka (JPN),LEE Ho Ching (HKG)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,HU Melek,MORIZONO Misaki,4,2,"11,10,13,5,13,11|4,12,11,11,11,5",QF,GRAND_SLAM,U21WS,57,Main Draw,HU Melek (TUR),MORIZONO Misaki (JPN)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,SAMARA Elizabeta,HE Sirin,4,1,"8,11,11,11,11|11,6,6,5,5",SF,GRAND_SLAM,U21WS,57,Main Draw,SAMARA Elizabeta (ROU),HE Sirin (TUR)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ISHIGAKI Yuka,HU Melek,4,3,"11,3,11,9,11,3,11|4,11,3,11,5,11,8",SF,GRAND_SLAM,U21WS,57,Main Draw,ISHIGAKI Yuka (JPN),HU Melek (TUR)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,SAMARA Elizabeta,ISHIGAKI Yuka,4,2,"13,12,8,12,9,11|11,10,11,10,11,7",F,GRAND_SLAM,U21WS,57,Main Draw,SAMARA Elizabeta (ROU),ISHIGAKI Yuka (JPN)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ABDELAZIZ Farah,ELSHOBARY Reem,3,1,"4,11,11,11|11,8,0,0",,GRAND_SLAM,U21WS,57,Qualification,ABDELAZIZ Farah (EGY),ELSHOBARY Reem (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,NG Wing Nam,ABDELAZIZ Farah,3,0,"11,11,14|8,4,12",,GRAND_SLAM,U21WS,57,Qualification,NG Wing Nam (HKG),ABDELAZIZ Farah (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,NG Wing Nam,ELSHOBARY Reem,3,0,"11,12,13|7,10,11",,GRAND_SLAM,U21WS,57,Qualification,NG Wing Nam (HKG),ELSHOBARY Reem (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,YOUSRY Noha,EZZAT Rana,3,2,"7,11,11,11,11|11,13,7,5,9",,GRAND_SLAM,U21WS,57,Qualification,YOUSRY Noha (EGY),EZZAT Rana (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,GRZYBOWSKA-FRANC Katarzyna,EZZAT Rana,3,0,"11,11,11|9,4,8",,GRAND_SLAM,U21WS,57,Qualification,GRZYBOWSKA-FRANC Katarzyna (POL),EZZAT Rana (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,GRZYBOWSKA-FRANC Katarzyna,YOUSRY Noha,3,2,"11,4,7,11,11|3,11,11,4,1",,GRAND_SLAM,U21WS,57,Qualification,GRZYBOWSKA-FRANC Katarzyna (POL),YOUSRY Noha (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,MESHREF Dina,SABRY Nermin,3,0,"11,11,11|2,8,5",,GRAND_SLAM,U21WS,57,Qualification,MESHREF Dina (EGY),SABRY Nermin (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,DESHPANDE Divya,SABRY Nermin,3,1,"11,8,12,11|4,11,10,8",,GRAND_SLAM,U21WS,57,Qualification,DESHPANDE Divya (IND),SABRY Nermin (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,MESHREF Dina,DESHPANDE Divya,3,0,"11,11,11|5,6,8",,GRAND_SLAM,U21WS,57,Qualification,MESHREF Dina (EGY),DESHPANDE Divya (IND)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,DOAA Alia,HELMY Yousra,3,1,"8,11,11,11|11,8,4,9",,GRAND_SLAM,U21WS,57,Qualification,DOAA Alia (EGY),HELMY Yousra (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,GUAN Mengyuan,HELMY Yousra,3,0,"11,11,11|6,5,5",,GRAND_SLAM,U21WS,57,Qualification,GUAN Mengyuan (HKG),HELMY Yousra (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,GUAN Mengyuan,DOAA Alia,3,0,"11,11,11|6,7,9",,GRAND_SLAM,U21WS,57,Qualification,GUAN Mengyuan (HKG),DOAA Alia (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,NASSER Galila,ERMAKOVA Natalia,3,1,"3,11,11,12|11,5,9,10",,GRAND_SLAM,U21WS,57,Qualification,NASSER Galila (EGY),ERMAKOVA Natalia (RUS)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,DUBKOVA Elena,ERMAKOVA Natalia,3,0,"11,11,11|7,7,8",,GRAND_SLAM,U21WS,57,Qualification,DUBKOVA Elena (BLR),ERMAKOVA Natalia (RUS)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,DUBKOVA Elena,NASSER Galila,3,0,"11,11,11|6,8,3",,GRAND_SLAM,U21WS,57,Qualification,DUBKOVA Elena (BLR),NASSER Galila (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ELDAWLATLY Nadeen,ELERAKY Reem,3,0,"13,11,11|11,9,7",,GRAND_SLAM,U21WS,57,Qualification,ELDAWLATLY Nadeen (EGY),ELERAKY Reem (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,VOROBEVA Olga,ELERAKY Reem,3,1,"11,11,7,11|4,1,11,4",,GRAND_SLAM,U21WS,57,Qualification,VOROBEVA Olga (RUS),ELERAKY Reem (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,VOROBEVA Olga,ELDAWLATLY Nadeen,3,0,"12,11,12|10,6,10",,GRAND_SLAM,U21WS,57,Qualification,VOROBEVA Olga (RUS),ELDAWLATLY Nadeen (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,SABITOVA Valentina,AGGARWAL Neha,3,1,"12,11,9,11|10,7,11,8",,GRAND_SLAM,U21WS,57,Qualification,SABITOVA Valentina (RUS),AGGARWAL Neha (IND)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,SAFWAT Alaa,SAID Mennatalla,3,1,"12,12,5,11|10,10,11,3",,GRAND_SLAM,U21WS,57,Qualification,SAFWAT Alaa (EGY),SAID Mennatalla (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,SAID Mennatalla,AGGARWAL Neha,3,1,"11,5,11,11|8,11,9,6",,GRAND_SLAM,U21WS,57,Qualification,SAID Mennatalla (EGY),AGGARWAL Neha (IND)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,SABITOVA Valentina,SAFWAT Alaa,3,1,"11,10,11,11|3,12,6,6",,GRAND_SLAM,U21WS,57,Qualification,SABITOVA Valentina (RUS),SAFWAT Alaa (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,AGGARWAL Neha,SAFWAT Alaa,3,2,"11,11,9,3,12|9,5,11,11,10",,GRAND_SLAM,U21WS,57,Qualification,AGGARWAL Neha (IND),SAFWAT Alaa (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,SABITOVA Valentina,SAID Mennatalla,3,0,"11,11,11|7,9,5",,GRAND_SLAM,U21WS,57,Qualification,SABITOVA Valentina (RUS),SAID Mennatalla (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ELSOKKARY Sara,MOHAMED Norhan,3,2,"8,11,13,5,11|11,5,11,11,3",,GRAND_SLAM,U21WS,57,Qualification,ELSOKKARY Sara (EGY),MOHAMED Norhan (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,MONDAL Soumi,YOUSSEF Rawan,3,0,,,GRAND_SLAM,U21WS,57,Qualification,MONDAL Soumi (IND),YOUSSEF Rawan (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,MONDAL Soumi,ELSOKKARY Sara,3,0,"11,11,11|3,7,7",,GRAND_SLAM,U21WS,57,Qualification,MONDAL Soumi (IND),ELSOKKARY Sara (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,MOHAMED Norhan,YOUSSEF Rawan,3,0,,,GRAND_SLAM,U21WS,57,Qualification,MOHAMED Norhan (EGY),YOUSSEF Rawan (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ELSOKKARY Sara,YOUSSEF Rawan,4,0,,,GRAND_SLAM,U21WS,57,Qualification,ELSOKKARY Sara (EGY),YOUSSEF Rawan (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,MONDAL Soumi,MOHAMED Norhan,3,0,"11,11,11|8,6,6",,GRAND_SLAM,U21WS,57,Qualification,MONDAL Soumi (IND),MOHAMED Norhan (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,LIN Ling/ZHANG Rui,KARAGODINA Inna/PRIVALOVA Alexandra,4,1,"3,11,11,11,11|11,5,6,8,5",R16,GRAND_SLAM,WD,57,Main Draw,LIN Ling (HKG) / ZHANG Rui (HKG),KARAGODINA Inna (BLR) / PRIVALOVA Alexandra (BLR)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ISHIGAKI Yuka/MORIZONO Misaki,ANTONAVA Antanina/KOUREA Louiza,4,0,"11,11,11,11|7,4,2,4",R16,GRAND_SLAM,WD,57,Main Draw,ISHIGAKI Yuka (JPN) / MORIZONO Misaki (JPN),ANTONAVA Antanina (BLR) / KOUREA Louiza (CYP)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ANTONAVA Antanina/KOUREA Louiza,ERMAKOVA Irina/ERMAKOVA Natalia,3,1,"11,5,11,11|6,11,6,9",QR16,GRAND_SLAM,WD,57,Qualification,ANTONAVA Antanina (BLR) / KOUREA Louiza (CYP),ERMAKOVA Irina (RUS) / ERMAKOVA Natalia (RUS)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,AGGARWAL Neha/MONDAL Soumi,ELSOKKARY Sara/MESHREF Dina,4,2,"9,10,11,11,12,11|11,12,3,7,10,6",R16,GRAND_SLAM,WD,57,Main Draw,AGGARWAL Neha (IND) / MONDAL Soumi (IND),ELSOKKARY Sara (EGY) / MESHREF Dina (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,KARAGODINA Inna/PRIVALOVA Alexandra,DOAA Alia/YOUSSEF Rawan,3,0,,QR16,GRAND_SLAM,WD,57,Qualification,KARAGODINA Inna (BLR) / PRIVALOVA Alexandra (BLR),DOAA Alia (EGY) / YOUSSEF Rawan (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,GUAN Mengyuan/NG Wing Nam,ELSHOBARY Reem/HASSAN Sara,3,0,"11,11,11|8,2,3",QR16,GRAND_SLAM,WD,57,Qualification,GUAN Mengyuan (HKG) / NG Wing Nam (HKG),ELSHOBARY Reem (EGY) / HASSAN Sara (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,AGGARWAL Neha/MONDAL Soumi,SABRY Nermin/YOUSRY Noha,3,0,"11,11,12|6,8,10",QR16,GRAND_SLAM,WD,57,Qualification,AGGARWAL Neha (IND) / MONDAL Soumi (IND),SABRY Nermin (EGY) / YOUSRY Noha (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,VOROBEVA Olga/SABITOVA Valentina,ELDAWLATLY Nadeen/NASSER Galila,3,0,"12,11,11|10,9,6",QR16,GRAND_SLAM,WD,57,Qualification,VOROBEVA Olga (RUS) / SABITOVA Valentina (RUS),ELDAWLATLY Nadeen (EGY) / NASSER Galila (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,DUBKOVA Elena/LI Xue,LEE Ho Ching/YU Kwok See,4,1,"11,12,6,11,12|9,10,11,8,10",R16,GRAND_SLAM,WD,57,Main Draw,DUBKOVA Elena (BLR) / LI Xue (FRA),LEE Ho Ching (HKG) / YU Kwok See (HKG)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,LIN Ling/ZHANG Rui,DUBKOVA Elena/LI Xue,4,1,"11,13,11,7,11|5,11,3,11,8",QF,GRAND_SLAM,WD,57,Main Draw,LIN Ling (HKG) / ZHANG Rui (HKG),DUBKOVA Elena (BLR) / LI Xue (FRA)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,GRZYBOWSKA-FRANC Katarzyna/PARTYKA Natalia,KUMARESAN Shamini/PATKAR Madhurika,4,0,"12,11,11,13|10,5,6,11",R16,GRAND_SLAM,WD,57,Main Draw,GRZYBOWSKA-FRANC Katarzyna (POL) / PARTYKA Natalia (POL),KUMARESAN Shamini (IND) / PATKAR Madhurika (IND)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,CREEMERS Linda/NOUWEN Carla,AGGARWAL Neha/MONDAL Soumi,4,0,"11,11,11,11|4,7,9,5",QF,GRAND_SLAM,WD,57,Main Draw,CREEMERS Linda (NED) / NOUWEN Carla (NED),AGGARWAL Neha (IND) / MONDAL Soumi (IND)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,HIRANO Sayaka/HIURA Reiko,GUAN Mengyuan/NG Wing Nam,4,1,"11,11,11,10,11|8,9,7,12,4",R16,GRAND_SLAM,WD,57,Main Draw,HIRANO Sayaka (JPN) / HIURA Reiko (JPN),GUAN Mengyuan (HKG) / NG Wing Nam (HKG)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,HIRANO Sayaka/HIURA Reiko,ISHIGAKI Yuka/MORIZONO Misaki,4,0,"12,11,11,11|10,6,5,7",QF,GRAND_SLAM,WD,57,Main Draw,HIRANO Sayaka (JPN) / HIURA Reiko (JPN),ISHIGAKI Yuka (JPN) / MORIZONO Misaki (JPN)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,HIRANO Sayaka/HIURA Reiko,CREEMERS Linda/NOUWEN Carla,4,0,"11,11,11,11|7,4,2,8",SF,GRAND_SLAM,WD,57,Main Draw,HIRANO Sayaka (JPN) / HIURA Reiko (JPN),CREEMERS Linda (NED) / NOUWEN Carla (NED)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,HIRANO Sayaka/HIURA Reiko,LIN Ling/ZHANG Rui,4,3,"11,10,9,12,7,11,11|9,12,11,10,11,5,3",F,GRAND_SLAM,WD,57,Main Draw,HIRANO Sayaka (JPN) / HIURA Reiko (JPN),LIN Ling (HKG) / ZHANG Rui (HKG)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,CREEMERS Linda/NOUWEN Carla,DAS Mouma/GHATAK Poulomi,4,2,"11,11,8,11,6,11|8,9,11,6,11,5",R16,GRAND_SLAM,WD,57,Main Draw,CREEMERS Linda (NED) / NOUWEN Carla (NED),DAS Mouma (IND) / GHATAK Poulomi (IND)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,HE Sirin/HU Melek,VOROBEVA Olga/SABITOVA Valentina,4,0,"11,11,11,11|7,7,4,7",R16,GRAND_SLAM,WD,57,Main Draw,HE Sirin (TUR) / HU Melek (TUR),VOROBEVA Olga (RUS) / SABITOVA Valentina (RUS)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,HE Sirin/HU Melek,GRZYBOWSKA-FRANC Katarzyna/PARTYKA Natalia,4,2,"11,9,10,11,11,11|4,11,12,5,4,7",QF,GRAND_SLAM,WD,57,Main Draw,HE Sirin (TUR) / HU Melek (TUR),GRZYBOWSKA-FRANC Katarzyna (POL) / PARTYKA Natalia (POL)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,LIN Ling/ZHANG Rui,HE Sirin/HU Melek,4,2,"10,11,8,11,11,11|12,3,11,4,8,5",SF,GRAND_SLAM,WD,57,Main Draw,LIN Ling (HKG) / ZHANG Rui (HKG),HE Sirin (TUR) / HU Melek (TUR)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,HIRANO Sayaka,ELSOKKARY Sara,4,0,"11,11,11,11|6,4,2,8",R32,GRAND_SLAM,WS,57,Main Draw,HIRANO Sayaka (JPN),ELSOKKARY Sara (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,CREEMERS Linda,MESHREF Dina,4,2,"11,11,8,9,11,12|3,6,11,11,9,10",R32,GRAND_SLAM,WS,57,Main Draw,CREEMERS Linda (NED),MESHREF Dina (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,YU Kwok See,NOUWEN Carla,4,2,"5,8,12,11,12,11|11,11,10,5,10,4",R32,GRAND_SLAM,WS,57,Main Draw,YU Kwok See (HKG),NOUWEN Carla (NED)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,NI Xia Lian,GHATAK Poulomi,4,0,"11,11,11,11|3,6,4,7",R32,GRAND_SLAM,WS,57,Main Draw,NI Xia Lian (LUX),GHATAK Poulomi (IND)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,LI Xue,PATKAR Madhurika,4,1,"5,11,11,11,11|11,9,5,9,7",R32,GRAND_SLAM,WS,57,Main Draw,LI Xue (FRA),PATKAR Madhurika (IND)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,HIURA Reiko,DAS Mouma,4,0,"11,11,11,11|7,5,5,5",R32,GRAND_SLAM,WS,57,Main Draw,HIURA Reiko (JPN),DAS Mouma (IND)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,HE Sirin,SABITOVA Valentina,4,3,"9,11,11,4,17,13,11|11,6,8,11,19,11,7",R32,GRAND_SLAM,WS,57,Main Draw,HE Sirin (TUR),SABITOVA Valentina (RUS)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,HU Melek,VOROBEVA Olga,4,1,"11,11,11,9,11|9,4,5,11,4",R32,GRAND_SLAM,WS,57,Main Draw,HU Melek (TUR),VOROBEVA Olga (RUS)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,PARTYKA Natalia,PRIVALOVA Alexandra,4,0,"11,11,11,11|8,6,8,3",R32,GRAND_SLAM,WS,57,Main Draw,PARTYKA Natalia (POL),PRIVALOVA Alexandra (BLR)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,LIN Ling,ERMAKOVA Irina,4,1,"7,14,11,11,11|11,12,6,4,4",R32,GRAND_SLAM,WS,57,Main Draw,LIN Ling (HKG),ERMAKOVA Irina (RUS)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ZHANG Rui,HASSAN Sara,4,0,"11,11,11,11|2,5,8,6",R32,GRAND_SLAM,WS,57,Main Draw,ZHANG Rui (HKG),HASSAN Sara (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,LEE Ho Ching,DUBKOVA Elena,4,1,"10,11,11,11,11|12,3,9,5,8",R32,GRAND_SLAM,WS,57,Main Draw,LEE Ho Ching (HKG),DUBKOVA Elena (BLR)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,KUZMINA Elena,GUAN Mengyuan,4,0,"11,11,11,11|9,4,5,9",R32,GRAND_SLAM,WS,57,Main Draw,KUZMINA Elena (RUS),GUAN Mengyuan (HKG)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,SAMARA Elizabeta,ELDAWLATLY Nadeen,4,0,"11,11,11,11|6,8,3,2",R32,GRAND_SLAM,WS,57,Main Draw,SAMARA Elizabeta (ROU),ELDAWLATLY Nadeen (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,CREEMERS Linda,HIRANO Sayaka,4,3,"15,11,5,11,1,9,11|13,9,11,4,11,11,6",R16,GRAND_SLAM,WS,57,Main Draw,CREEMERS Linda (NED),HIRANO Sayaka (JPN)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,NI Xia Lian,YU Kwok See,4,3,"11,11,7,16,11,6,11|6,13,11,14,9,11,2",R16,GRAND_SLAM,WS,57,Main Draw,NI Xia Lian (LUX),YU Kwok See (HKG)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,HIURA Reiko,LI Xue,4,0,"11,11,11,11|5,5,4,6",R16,GRAND_SLAM,WS,57,Main Draw,HIURA Reiko (JPN),LI Xue (FRA)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,HU Melek,HE Sirin,4,0,"11,11,11,11|4,3,3,4",R16,GRAND_SLAM,WS,57,Main Draw,HU Melek (TUR),HE Sirin (TUR)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ISHIGAKI Yuka,PARTYKA Natalia,4,2,"6,9,11,11,11,11|11,11,2,5,6,5",R16,GRAND_SLAM,WS,57,Main Draw,ISHIGAKI Yuka (JPN),PARTYKA Natalia (POL)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,LIN Ling,MORIZONO Misaki,4,1,"9,11,11,11,11|11,5,3,5,8",R16,GRAND_SLAM,WS,57,Main Draw,LIN Ling (HKG),MORIZONO Misaki (JPN)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ZHANG Rui,LEE Ho Ching,4,0,"11,11,11,11|3,4,9,5",R16,GRAND_SLAM,WS,57,Main Draw,ZHANG Rui (HKG),LEE Ho Ching (HKG)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,SAMARA Elizabeta,KUZMINA Elena,4,1,"11,11,4,11,11|7,9,11,7,2",R16,GRAND_SLAM,WS,57,Main Draw,SAMARA Elizabeta (ROU),KUZMINA Elena (RUS)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,CREEMERS Linda,NI Xia Lian,4,3,"11,9,9,3,11,12,11|7,11,11,11,7,10,4",QF,GRAND_SLAM,WS,57,Main Draw,CREEMERS Linda (NED),NI Xia Lian (LUX)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,HU Melek,HIURA Reiko,4,3,"8,11,11,6,6,11,13|11,8,5,11,11,5,11",QF,GRAND_SLAM,WS,57,Main Draw,HU Melek (TUR),HIURA Reiko (JPN)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ISHIGAKI Yuka,LIN Ling,4,1,"11,11,11,11,12|6,13,4,8,10",QF,GRAND_SLAM,WS,57,Main Draw,ISHIGAKI Yuka (JPN),LIN Ling (HKG)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ZHANG Rui,SAMARA Elizabeta,4,0,"11,11,11,11|8,9,3,8",QF,GRAND_SLAM,WS,57,Main Draw,ZHANG Rui (HKG),SAMARA Elizabeta (ROU)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,HU Melek,CREEMERS Linda,4,1,"12,11,6,11,11|10,9,11,2,6",SF,GRAND_SLAM,WS,57,Main Draw,HU Melek (TUR),CREEMERS Linda (NED)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ISHIGAKI Yuka,ZHANG Rui,4,2,"9,4,14,11,11,11|11,11,12,6,7,9",SF,GRAND_SLAM,WS,57,Main Draw,ISHIGAKI Yuka (JPN),ZHANG Rui (HKG)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,PATKAR Madhurika,ELDAWLATLY Nadeen,4,0,"11,11,11,11|7,3,6,6",QR16,GRAND_SLAM,WS,57,Qualification,PATKAR Madhurika (IND),ELDAWLATLY Nadeen (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,NG Wing Nam,YILDIRIM Fulya,4,2,"11,11,9,7,11,11|3,8,11,11,7,1",QR16,GRAND_SLAM,WS,57,Qualification,NG Wing Nam (HKG),YILDIRIM Fulya (TUR)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,VOROBEVA Olga,ELSOKKARY Sara,4,2,"11,9,12,11,11,11|9,11,14,5,4,8",QR16,GRAND_SLAM,WS,57,Qualification,VOROBEVA Olga (RUS),ELSOKKARY Sara (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ERMAKOVA Irina,KUMARESAN Shamini,4,3,"11,8,8,4,11,11,11|8,11,11,11,6,9,7",QR16,GRAND_SLAM,WS,57,Qualification,ERMAKOVA Irina (RUS),KUMARESAN Shamini (IND)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,HASSAN Sara,AGGARWAL Neha,4,3,"7,8,11,5,12,11,11|11,11,6,11,10,9,6",QR16,GRAND_SLAM,WS,57,Qualification,HASSAN Sara (EGY),AGGARWAL Neha (IND)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,KUZMINA Elena,ELDAWLATLY Nadeen,4,1,"11,11,9,11,11|9,2,11,7,3",,GRAND_SLAM,WS,57,Qualification,KUZMINA Elena (RUS),ELDAWLATLY Nadeen (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,KUZMINA Elena,MONDAL Soumi,4,0,"11,11,11,11|6,4,9,2",,GRAND_SLAM,WS,57,Qualification,KUZMINA Elena (RUS),MONDAL Soumi (IND)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ELDAWLATLY Nadeen,MONDAL Soumi,4,1,"12,7,11,11,11|10,11,7,8,5",,GRAND_SLAM,WS,57,Qualification,ELDAWLATLY Nadeen (EGY),MONDAL Soumi (IND)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,SABITOVA Valentina,NG Wing Nam,4,1,"11,13,7,12,12|9,11,11,10,10",,GRAND_SLAM,WS,57,Qualification,SABITOVA Valentina (RUS),NG Wing Nam (HKG)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,NG Wing Nam,MAGDY Raghd,4,0,"11,11,11,11|6,3,5,3",,GRAND_SLAM,WS,57,Qualification,NG Wing Nam (HKG),MAGDY Raghd (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,SABITOVA Valentina,MAGDY Raghd,4,2,"7,9,11,11,11,12|11,11,8,8,5,10",,GRAND_SLAM,WS,57,Qualification,SABITOVA Valentina (RUS),MAGDY Raghd (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ELSOKKARY Sara,NASSER Galila,4,1,"11,5,11,11,11|7,11,6,8,7",,GRAND_SLAM,WS,57,Qualification,ELSOKKARY Sara (EGY),NASSER Galila (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,GRZYBOWSKA-FRANC Katarzyna,ELSOKKARY Sara,4,1,"16,10,11,11,11|14,12,3,6,3",,GRAND_SLAM,WS,57,Qualification,GRZYBOWSKA-FRANC Katarzyna (POL),ELSOKKARY Sara (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,GRZYBOWSKA-FRANC Katarzyna,NASSER Galila,4,0,"11,11,11,13|1,6,6,11",,GRAND_SLAM,WS,57,Qualification,GRZYBOWSKA-FRANC Katarzyna (POL),NASSER Galila (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,PRIVALOVA Alexandra,DESHPANDE Divya,4,1,"16,11,11,7,11|14,8,8,11,7",,GRAND_SLAM,WS,57,Qualification,PRIVALOVA Alexandra (BLR),DESHPANDE Divya (IND)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ERMAKOVA Irina,ELDAWLATLY Dina,4,0,"11,11,11,11|9,6,4,7",,GRAND_SLAM,WS,57,Qualification,ERMAKOVA Irina (RUS),ELDAWLATLY Dina (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,PRIVALOVA Alexandra,ERMAKOVA Irina,4,3,"10,11,11,8,8,11,11|12,9,8,11,11,8,5",,GRAND_SLAM,WS,57,Qualification,PRIVALOVA Alexandra (BLR),ERMAKOVA Irina (RUS)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,DESHPANDE Divya,ELDAWLATLY Dina,4,1,"6,11,11,11,11|11,4,8,6,3",,GRAND_SLAM,WS,57,Qualification,DESHPANDE Divya (IND),ELDAWLATLY Dina (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,PRIVALOVA Alexandra,ELDAWLATLY Dina,4,0,"11,11,11,11|6,8,5,8",,GRAND_SLAM,WS,57,Qualification,PRIVALOVA Alexandra (BLR),ELDAWLATLY Dina (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ERMAKOVA Irina,DESHPANDE Divya,4,0,"14,11,11,11|12,9,9,6",,GRAND_SLAM,WS,57,Qualification,ERMAKOVA Irina (RUS),DESHPANDE Divya (IND)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,CREEMERS Linda,AGGARWAL Neha,4,0,"11,11,11,11|8,5,6,7",,GRAND_SLAM,WS,57,Qualification,CREEMERS Linda (NED),AGGARWAL Neha (IND)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,DOAA Alia,METWALY Engy,4,0,,,GRAND_SLAM,WS,57,Qualification,DOAA Alia (EGY),METWALY Engy (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,CREEMERS Linda,DOAA Alia,4,0,"11,11,11,11|9,4,5,6",,GRAND_SLAM,WS,57,Qualification,CREEMERS Linda (NED),DOAA Alia (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,AGGARWAL Neha,METWALY Engy,4,0,,,GRAND_SLAM,WS,57,Qualification,AGGARWAL Neha (IND),METWALY Engy (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,CREEMERS Linda,METWALY Engy,4,0,,,GRAND_SLAM,WS,57,Qualification,CREEMERS Linda (NED),METWALY Engy (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,AGGARWAL Neha,DOAA Alia,4,1,"11,11,11,11,11|6,7,13,2,8",,GRAND_SLAM,WS,57,Qualification,AGGARWAL Neha (IND),DOAA Alia (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,DAS Mouma,KARAGODINA Inna,4,1,"11,5,11,11,11|8,11,9,7,9",,GRAND_SLAM,WS,57,Qualification,DAS Mouma (IND),KARAGODINA Inna (BLR)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,HASSAN Sara,YOUSSEF Rawan,4,0,,,GRAND_SLAM,WS,57,Qualification,HASSAN Sara (EGY),YOUSSEF Rawan (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,DAS Mouma,HASSAN Sara,4,2,"11,8,11,11,7,11|6,11,5,7,11,2",,GRAND_SLAM,WS,57,Qualification,DAS Mouma (IND),HASSAN Sara (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,KARAGODINA Inna,YOUSSEF Rawan,4,0,,,GRAND_SLAM,WS,57,Qualification,KARAGODINA Inna (BLR),YOUSSEF Rawan (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,DAS Mouma,YOUSSEF Rawan,4,0,,,GRAND_SLAM,WS,57,Qualification,DAS Mouma (IND),YOUSSEF Rawan (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,HASSAN Sara,KARAGODINA Inna,4,1,"11,11,15,8,11|5,8,13,11,5",,GRAND_SLAM,WS,57,Qualification,HASSAN Sara (EGY),KARAGODINA Inna (BLR)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,GUAN Mengyuan,YOUSRY Noha,4,0,"11,11,11,11|9,3,4,6",,GRAND_SLAM,WS,57,Qualification,GUAN Mengyuan (HKG),YOUSRY Noha (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,VOROBEVA Olga,ANTONAVA Antanina,4,0,"11,11,14,12|6,9,12,10",,GRAND_SLAM,WS,57,Qualification,VOROBEVA Olga (RUS),ANTONAVA Antanina (BLR)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,GUAN Mengyuan,VOROBEVA Olga,4,0,"11,11,11,11|5,2,4,9",,GRAND_SLAM,WS,57,Qualification,GUAN Mengyuan (HKG),VOROBEVA Olga (RUS)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ANTONAVA Antanina,YOUSRY Noha,4,2,"2,11,11,12,13,11|11,5,8,10,15,9",,GRAND_SLAM,WS,57,Qualification,ANTONAVA Antanina (BLR),YOUSRY Noha (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,GUAN Mengyuan,ANTONAVA Antanina,4,0,"11,11,11,11|9,5,5,6",,GRAND_SLAM,WS,57,Qualification,GUAN Mengyuan (HKG),ANTONAVA Antanina (BLR)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,VOROBEVA Olga,YOUSRY Noha,4,0,"12,11,11,11|10,6,3,9",,GRAND_SLAM,WS,57,Qualification,VOROBEVA Olga (RUS),YOUSRY Noha (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,DUBKOVA Elena,KUMARESAN Shamini,4,2,"7,11,11,11,6,11|11,9,8,8,11,4",,GRAND_SLAM,WS,57,Qualification,DUBKOVA Elena (BLR),KUMARESAN Shamini (IND)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,ELSHOBARY Reem,ABDELAZIZ Shimaa,4,0,"11,14,12,11|2,12,10,9",,GRAND_SLAM,WS,57,Qualification,ELSHOBARY Reem (EGY),ABDELAZIZ Shimaa (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,DUBKOVA Elena,ELSHOBARY Reem,4,1,"11,11,11,8,11|5,6,3,11,6",,GRAND_SLAM,WS,57,Qualification,DUBKOVA Elena (BLR),ELSHOBARY Reem (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,KUMARESAN Shamini,ABDELAZIZ Shimaa,4,1,"11,11,6,11,11|4,7,11,7,4",,GRAND_SLAM,WS,57,Qualification,KUMARESAN Shamini (IND),ABDELAZIZ Shimaa (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,DUBKOVA Elena,ABDELAZIZ Shimaa,4,0,"11,11,11,11|1,8,6,8",,GRAND_SLAM,WS,57,Qualification,DUBKOVA Elena (BLR),ABDELAZIZ Shimaa (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,KUMARESAN Shamini,ELSHOBARY Reem,4,1,"11,11,11,4,11|7,4,5,11,5",,GRAND_SLAM,WS,57,Qualification,KUMARESAN Shamini (IND),ELSHOBARY Reem (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,GHATAK Poulomi,KOUREA Louiza,4,1,"11,11,11,9,11|1,5,9,11,5",,GRAND_SLAM,WS,57,Qualification,GHATAK Poulomi (IND),KOUREA Louiza (CYP)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,YILDIRIM Fulya,ERMAKOVA Natalia,4,0,"11,11,11,12|5,5,6,10",,GRAND_SLAM,WS,57,Qualification,YILDIRIM Fulya (TUR),ERMAKOVA Natalia (RUS)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,GHATAK Poulomi,YILDIRIM Fulya,4,2,"11,4,12,11,9,11|7,11,10,4,11,8",,GRAND_SLAM,WS,57,Qualification,GHATAK Poulomi (IND),YILDIRIM Fulya (TUR)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,KOUREA Louiza,ERMAKOVA Natalia,4,1,"11,11,9,11,11|9,9,11,8,9",,GRAND_SLAM,WS,57,Qualification,KOUREA Louiza (CYP),ERMAKOVA Natalia (RUS)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,GHATAK Poulomi,ERMAKOVA Natalia,4,0,"11,11,11,11|7,7,8,6",,GRAND_SLAM,WS,57,Qualification,GHATAK Poulomi (IND),ERMAKOVA Natalia (RUS)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,YILDIRIM Fulya,KOUREA Louiza,4,1,"11,6,12,11,11|3,11,10,9,9",,GRAND_SLAM,WS,57,Qualification,YILDIRIM Fulya (TUR),KOUREA Louiza (CYP)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,NOUWEN Carla,PATKAR Madhurika,4,1,"11,11,8,11,11|7,2,11,6,7",,GRAND_SLAM,WS,57,Qualification,NOUWEN Carla (NED),PATKAR Madhurika (IND)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,SAID Mennatalla,SABRY Nermin,4,0,"12,11,11,11|10,9,7,4",,GRAND_SLAM,WS,57,Qualification,SAID Mennatalla (EGY),SABRY Nermin (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,NOUWEN Carla,SABRY Nermin,4,0,"11,12,11,11|5,10,4,4",,GRAND_SLAM,WS,57,Qualification,NOUWEN Carla (NED),SABRY Nermin (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,PATKAR Madhurika,SAID Mennatalla,4,0,"11,11,11,11|2,7,8,8",,GRAND_SLAM,WS,57,Qualification,PATKAR Madhurika (IND),SAID Mennatalla (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,NOUWEN Carla,SAID Mennatalla,4,0,"11,11,11,14|4,1,7,12",,GRAND_SLAM,WS,57,Qualification,NOUWEN Carla (NED),SAID Mennatalla (EGY)
-Pro Tour Egypt Open Cairo 2010,2010-07-07,PATKAR Madhurika,SABRY Nermin,4,1,"8,13,11,11,11|11,11,1,8,8",,GRAND_SLAM,WS,57,Qualification,PATKAR Madhurika (IND),SABRY Nermin (EGY)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ROGIERS Benjamin/VOSTES Yannick,ASSAR Khalid/BEDAIR Omar,4,2,"11,11,7,11,9,11|6,6,11,8,11,7",R16,GRAND_SLAM,MD,57,Main Draw,ROGIERS Benjamin (BEL) / VOSTES Yannick (BEL),ASSAR Khalid (EGY) / BEDAIR Omar (EGY),ROGIERS Benjamin
+Pro Tour Egypt Open Cairo 2010,2010-07-07,KUCHUK Aleksandr/NEKHVEDOVICH Vitaly,ROGIERS Benjamin/VOSTES Yannick,4,1,"11,11,9,12,11|7,6,11,10,7",QF,GRAND_SLAM,MD,57,Main Draw,KUCHUK Aleksandr (BLR) / NEKHVEDOVICH Vitaly (BLR),ROGIERS Benjamin (BEL) / VOSTES Yannick (BEL),KUCHUK Aleksandr
+Pro Tour Egypt Open Cairo 2010,2010-07-07,GLADYSHEV Mikhail/SALIFOU Abdel-Kader,JEAN Lauric/NUYTINCK Cedric,4,1,"11,6,11,11,11|9,11,3,9,1",QF,GRAND_SLAM,MD,57,Main Draw,GLADYSHEV Mikhail (RUS) / SALIFOU Abdel-Kader (BEN),JEAN Lauric (BEL) / NUYTINCK Cedric (BEL),GLADYSHEV Mikhail
+Pro Tour Egypt Open Cairo 2010,2010-07-07,JEAN Lauric/NUYTINCK Cedric,LASHIN Elsayed/LASHIN Aly,3,1,"11,13,5,11|9,11,11,8",QR16,GRAND_SLAM,MD,57,Qualification,JEAN Lauric (BEL) / NUYTINCK Cedric (BEL),LASHIN Elsayed (EGY) / LASHIN Aly (EGY),JEAN Lauric
+Pro Tour Egypt Open Cairo 2010,2010-07-07,GLADYSHEV Mikhail/SALIFOU Abdel-Kader,KUCHUK Aleksandr/NEKHVEDOVICH Vitaly,4,1,"11,12,11,9,11|9,10,2,11,6",SF,GRAND_SLAM,MD,57,Main Draw,GLADYSHEV Mikhail (RUS) / SALIFOU Abdel-Kader (BEN),KUCHUK Aleksandr (BLR) / NEKHVEDOVICH Vitaly (BLR),GLADYSHEV Mikhail
+Pro Tour Egypt Open Cairo 2010,2010-07-07,JEAN Lauric/NUYTINCK Cedric,ELBEIALI Mohamed/NADIM Ahmed,4,3,"6,12,11,11,8,7,11|11,10,8,8,11,11,7",R16,GRAND_SLAM,MD,57,Main Draw,JEAN Lauric (BEL) / NUYTINCK Cedric (BEL),ELBEIALI Mohamed (EGY) / NADIM Ahmed (EGY),JEAN Lauric
+Pro Tour Egypt Open Cairo 2010,2010-07-07,GLADYSHEV Mikhail/SALIFOU Abdel-Kader,ELSOBKY Mohamed/SONBOL Shady,4,1,"11,15,11,9,11|8,13,6,11,9",R16,GRAND_SLAM,MD,57,Main Draw,GLADYSHEV Mikhail (RUS) / SALIFOU Abdel-Kader (BEN),ELSOBKY Mohamed (EGY) / SONBOL Shady (EGY),GLADYSHEV Mikhail
+Pro Tour Egypt Open Cairo 2010,2010-07-07,LI Ahmet/VANG Bora,ASSAR Omar/MOSELHY Emad,4,0,"11,11,11,11|8,8,8,9",QF,GRAND_SLAM,MD,57,Main Draw,LI Ahmet (TUR) / VANG Bora (TUR),ASSAR Omar (EGY) / MOSELHY Emad (EGY),LI Ahmet
+Pro Tour Egypt Open Cairo 2010,2010-07-07,AL-MOHANNADI Ahmad Khalil/ALMUGHANNE Fahed,MAHMOUD Abdulrahman/SOBHY Ashraf,3,1,"9,11,11,13|11,9,9,11",QR16,GRAND_SLAM,MD,57,Qualification,AL-MOHANNADI Ahmad Khalil (QAT) / ALMUGHANNE Fahed (QAT),MAHMOUD Abdulrahman (EGY) / SOBHY Ashraf (EGY),AL-MOHANNADI Ahmad Khalil
+Pro Tour Egypt Open Cairo 2010,2010-07-07,JIANG Tianyi/LEUNG Chu Yan,GLADYSHEV Mikhail/SALIFOU Abdel-Kader,4,0,"11,11,11,11|3,5,5,7",F,GRAND_SLAM,MD,57,Main Draw,JIANG Tianyi (HKG) / LEUNG Chu Yan (HKG),GLADYSHEV Mikhail (RUS) / SALIFOU Abdel-Kader (BEN),JIANG Tianyi
+Pro Tour Egypt Open Cairo 2010,2010-07-07,JIANG Tianyi/LEUNG Chu Yan,ACHANTA Sharath/SHETTY Sanil,4,2,"8,11,11,11,8,11|11,7,6,4,11,8",R16,GRAND_SLAM,MD,57,Main Draw,JIANG Tianyi (HKG) / LEUNG Chu Yan (HKG),ACHANTA Sharath (IND) / SHETTY Sanil (IND),JIANG Tianyi
+Pro Tour Egypt Open Cairo 2010,2010-07-07,JIANG Tianyi/LEUNG Chu Yan,CHAKRABORTY Sourav/ROY Soumyadeep,4,1,"7,11,11,11,11|11,6,7,7,5",QF,GRAND_SLAM,MD,57,Main Draw,JIANG Tianyi (HKG) / LEUNG Chu Yan (HKG),CHAKRABORTY Sourav (IND) / ROY Soumyadeep (IND),JIANG Tianyi
+Pro Tour Egypt Open Cairo 2010,2010-07-07,JIANG Tianyi/LEUNG Chu Yan,LI Ahmet/VANG Bora,4,2,"11,11,11,7,11,11|4,13,4,11,4,8",SF,GRAND_SLAM,MD,57,Main Draw,JIANG Tianyi (HKG) / LEUNG Chu Yan (HKG),LI Ahmet (TUR) / VANG Bora (TUR),JIANG Tianyi
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ASSAR Omar/MOSELHY Emad,KARIA Devesh/RAVICHANDRAN Abishek,4,2,"8,11,8,11,11,11|11,4,11,3,5,7",R16,GRAND_SLAM,MD,57,Main Draw,ASSAR Omar (EGY) / MOSELHY Emad (EGY),KARIA Devesh (IND) / RAVICHANDRAN Abishek (IND),ASSAR Omar
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ACHANTA Sharath/SHETTY Sanil,BARBOLIN Illia/YIANGOU Marios,3,1,"15,17,10,11|13,15,12,7",QR16,GRAND_SLAM,MD,57,Qualification,ACHANTA Sharath (IND) / SHETTY Sanil (IND),BARBOLIN Illia (BLR) / YIANGOU Marios (CYP),ACHANTA Sharath
+Pro Tour Egypt Open Cairo 2010,2010-07-07,KUCHUK Aleksandr/NEKHVEDOVICH Vitaly,ALAWLAQI Ahmed/ALYAFEI Mohammed,4,1,"11,11,6,11,11|7,4,11,5,7",R16,GRAND_SLAM,MD,57,Main Draw,KUCHUK Aleksandr (BLR) / NEKHVEDOVICH Vitaly (BLR),ALAWLAQI Ahmed (QAT) / ALYAFEI Mohammed (QAT),KUCHUK Aleksandr
+Pro Tour Egypt Open Cairo 2010,2010-07-07,CHAKRABORTY Sourav/ROY Soumyadeep,AL-MOHANNADI Ahmad Khalil/ALMUGHANNE Fahed,4,1,"13,15,11,11,12|11,17,6,7,10",R16,GRAND_SLAM,MD,57,Main Draw,CHAKRABORTY Sourav (IND) / ROY Soumyadeep (IND),AL-MOHANNADI Ahmad Khalil (QAT) / ALMUGHANNE Fahed (QAT),CHAKRABORTY Sourav
+Pro Tour Egypt Open Cairo 2010,2010-07-07,LI Ahmet/VANG Bora,PAIKOV Mikhail/SHIBAEV Alexander,4,1,"11,4,12,11,11|5,11,10,6,6",R16,GRAND_SLAM,MD,57,Main Draw,LI Ahmet (TUR) / VANG Bora (TUR),PAIKOV Mikhail (RUS) / SHIBAEV Alexander (RUS),LI Ahmet
+Pro Tour Egypt Open Cairo 2010,2010-07-07,LI Ching,ALHAJJAI Waled Nasser,4,0,"11,11,11,11|3,7,2,4",R32,GRAND_SLAM,MS,57,Main Draw,LI Ching (HKG),ALHAJJAI Waled Nasser (QAT),LI Ching
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ROGIERS Benjamin,NADIM Ahmed,4,2,"11,9,4,11,11,11|4,11,11,6,9,8",R32,GRAND_SLAM,MS,57,Main Draw,ROGIERS Benjamin (BEL),NADIM Ahmed (EGY),ROGIERS Benjamin
+Pro Tour Egypt Open Cairo 2010,2010-07-07,VANG Bora,JEAN Lauric,4,1,"11,11,11,9,13|9,7,5,11,11",R32,GRAND_SLAM,MS,57,Main Draw,VANG Bora (TUR),JEAN Lauric (BEL),VANG Bora
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ROY Soumyadeep,SHIBAEV Alexander,4,0,"11,11,11,11|7,8,1,9",R32,GRAND_SLAM,MS,57,Main Draw,ROY Soumyadeep (IND),SHIBAEV Alexander (RUS),ROY Soumyadeep
+Pro Tour Egypt Open Cairo 2010,2010-07-07,LASHIN Elsayed,CHAKRABORTY Sourav,4,2,"8,11,10,11,11,11|11,9,12,5,7,6",R32,GRAND_SLAM,MS,57,Main Draw,LASHIN Elsayed (EGY),CHAKRABORTY Sourav (IND),LASHIN Elsayed
+Pro Tour Egypt Open Cairo 2010,2010-07-07,VOSTES Yannick,AL-MOHANNADI Ahmad Khalil,4,1,"11,11,11,5,11|7,4,3,11,4",R32,GRAND_SLAM,MS,57,Main Draw,VOSTES Yannick (BEL),AL-MOHANNADI Ahmad Khalil (QAT),VOSTES Yannick
+Pro Tour Egypt Open Cairo 2010,2010-07-07,NEKHVEDOVICH Vitaly,MOSELHY Emad,4,3,"11,3,11,11,10,8,11|2,11,9,8,12,11,9",R32,GRAND_SLAM,MS,57,Main Draw,NEKHVEDOVICH Vitaly (BLR),MOSELHY Emad (EGY),NEKHVEDOVICH Vitaly
+Pro Tour Egypt Open Cairo 2010,2010-07-07,LEUNG Chu Yan,KARIA Devesh,4,0,"11,11,11,11|5,2,3,3",R32,GRAND_SLAM,MS,57,Main Draw,LEUNG Chu Yan (HKG),KARIA Devesh (IND),LEUNG Chu Yan
+Pro Tour Egypt Open Cairo 2010,2010-07-07,SAIVE Jean-Michel,RAVICHANDRAN Abishek,4,0,"11,11,11,11|3,3,5,5",R32,GRAND_SLAM,MS,57,Main Draw,SAIVE Jean-Michel (BEL),RAVICHANDRAN Abishek (IND),SAIVE Jean-Michel
+Pro Tour Egypt Open Cairo 2010,2010-07-07,SALIFOU Abdel-Kader,KUCHUK Aleksandr,4,1,"6,11,11,11,11|11,4,9,5,5",R32,GRAND_SLAM,MS,57,Main Draw,SALIFOU Abdel-Kader (BEN),KUCHUK Aleksandr (BLR),SALIFOU Abdel-Kader
+Pro Tour Egypt Open Cairo 2010,2010-07-07,GLADYSHEV Mikhail,ASSAR Omar,4,3,"11,8,9,1,11,11,11|7,11,11,11,6,9,9",R32,GRAND_SLAM,MS,57,Main Draw,GLADYSHEV Mikhail (RUS),ASSAR Omar (EGY),GLADYSHEV Mikhail
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ACHANTA Sharath,BARBOLIN Illia,4,0,"11,11,11,11|6,6,6,7",R32,GRAND_SLAM,MS,57,Main Draw,ACHANTA Sharath (IND),BARBOLIN Illia (BLR),ACHANTA Sharath
+Pro Tour Egypt Open Cairo 2010,2010-07-07,MATTENET Adrien,NUYTINCK Cedric,4,1,"12,11,8,11,12|10,8,11,7,10",R32,GRAND_SLAM,MS,57,Main Draw,MATTENET Adrien (FRA),NUYTINCK Cedric (BEL),MATTENET Adrien
+Pro Tour Egypt Open Cairo 2010,2010-07-07,LI Ahmet,YIANGOU Marios,4,1,"11,10,11,11,11|9,12,6,4,4",R32,GRAND_SLAM,MS,57,Main Draw,LI Ahmet (TUR),YIANGOU Marios (CYP),LI Ahmet
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ANTHONY Amalraj,PAIKOV Mikhail,4,1,"5,14,11,11,11|11,12,8,9,6",R32,GRAND_SLAM,MS,57,Main Draw,ANTHONY Amalraj (IND),PAIKOV Mikhail (RUS),ANTHONY Amalraj
+Pro Tour Egypt Open Cairo 2010,2010-07-07,JIANG Tianyi,SHETTY Sanil,4,0,"11,12,11,11|3,10,8,4",R32,GRAND_SLAM,MS,57,Main Draw,JIANG Tianyi (HKG),SHETTY Sanil (IND),JIANG Tianyi
+Pro Tour Egypt Open Cairo 2010,2010-07-07,LI Ching,ROGIERS Benjamin,4,1,"11,11,11,7,11|7,9,9,11,4",R16,GRAND_SLAM,MS,57,Main Draw,LI Ching (HKG),ROGIERS Benjamin (BEL),LI Ching
+Pro Tour Egypt Open Cairo 2010,2010-07-07,VANG Bora,ROY Soumyadeep,4,1,"11,11,8,11,11|9,4,11,6,5",R16,GRAND_SLAM,MS,57,Main Draw,VANG Bora (TUR),ROY Soumyadeep (IND),VANG Bora
+Pro Tour Egypt Open Cairo 2010,2010-07-07,LASHIN Elsayed,VOSTES Yannick,4,3,"11,9,9,11,10,11,11|7,11,11,9,12,6,8",R16,GRAND_SLAM,MS,57,Main Draw,LASHIN Elsayed (EGY),VOSTES Yannick (BEL),LASHIN Elsayed
+Pro Tour Egypt Open Cairo 2010,2010-07-07,LEUNG Chu Yan,NEKHVEDOVICH Vitaly,4,1,"8,11,11,11,11|11,9,6,6,8",R16,GRAND_SLAM,MS,57,Main Draw,LEUNG Chu Yan (HKG),NEKHVEDOVICH Vitaly (BLR),LEUNG Chu Yan
+Pro Tour Egypt Open Cairo 2010,2010-07-07,SALIFOU Abdel-Kader,SAIVE Jean-Michel,4,2,"8,13,1,11,11,11|11,11,11,6,9,7",R16,GRAND_SLAM,MS,57,Main Draw,SALIFOU Abdel-Kader (BEN),SAIVE Jean-Michel (BEL),SALIFOU Abdel-Kader
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ACHANTA Sharath,GLADYSHEV Mikhail,4,1,"11,11,11,7,11|7,9,8,11,9",R16,GRAND_SLAM,MS,57,Main Draw,ACHANTA Sharath (IND),GLADYSHEV Mikhail (RUS),ACHANTA Sharath
+Pro Tour Egypt Open Cairo 2010,2010-07-07,MATTENET Adrien,LI Ahmet,4,0,"11,11,11,11|5,6,6,4",R16,GRAND_SLAM,MS,57,Main Draw,MATTENET Adrien (FRA),LI Ahmet (TUR),MATTENET Adrien
+Pro Tour Egypt Open Cairo 2010,2010-07-07,JIANG Tianyi,ANTHONY Amalraj,4,0,"11,11,11,11|2,5,5,6",R16,GRAND_SLAM,MS,57,Main Draw,JIANG Tianyi (HKG),ANTHONY Amalraj (IND),JIANG Tianyi
+Pro Tour Egypt Open Cairo 2010,2010-07-07,LI Ching,VANG Bora,4,3,"9,11,12,11,11,9,11|11,7,14,9,7,11,8",QF,GRAND_SLAM,MS,57,Main Draw,LI Ching (HKG),VANG Bora (TUR),LI Ching
+Pro Tour Egypt Open Cairo 2010,2010-07-07,LASHIN Elsayed,LEUNG Chu Yan,4,3,"9,15,11,8,6,11,11|11,13,9,11,11,4,7",QF,GRAND_SLAM,MS,57,Main Draw,LASHIN Elsayed (EGY),LEUNG Chu Yan (HKG),LASHIN Elsayed
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ACHANTA Sharath,SALIFOU Abdel-Kader,4,3,"11,10,12,11,7,9,11|3,12,10,1,11,11,9",QF,GRAND_SLAM,MS,57,Main Draw,ACHANTA Sharath (IND),SALIFOU Abdel-Kader (BEN),ACHANTA Sharath
+Pro Tour Egypt Open Cairo 2010,2010-07-07,JIANG Tianyi,MATTENET Adrien,4,1,"11,14,12,12,12|8,12,14,10,10",QF,GRAND_SLAM,MS,57,Main Draw,JIANG Tianyi (HKG),MATTENET Adrien (FRA),JIANG Tianyi
+Pro Tour Egypt Open Cairo 2010,2010-07-07,LI Ching,LASHIN Elsayed,4,1,"12,11,12,11,11|10,2,14,6,4",SF,GRAND_SLAM,MS,57,Main Draw,LI Ching (HKG),LASHIN Elsayed (EGY),LI Ching
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ACHANTA Sharath,JIANG Tianyi,4,1,"11,11,14,12,11|5,6,16,10,9",SF,GRAND_SLAM,MS,57,Main Draw,ACHANTA Sharath (IND),JIANG Tianyi (HKG),ACHANTA Sharath
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ACHANTA Sharath,LI Ching,4,0,"11,11,11,11|7,9,8,4",F,GRAND_SLAM,MS,57,Main Draw,ACHANTA Sharath (IND),LI Ching (HKG),ACHANTA Sharath
+Pro Tour Egypt Open Cairo 2010,2010-07-07,SHIBAEV Alexander,HEIKAL Ahmed,4,0,"11,11,11,11|3,6,5,8",R16,GRAND_SLAM,U21MS,57,Main Draw,SHIBAEV Alexander (RUS),HEIKAL Ahmed (EGY),SHIBAEV Alexander
+Pro Tour Egypt Open Cairo 2010,2010-07-07,BEDAIR Omar,PAIKOV Mikhail,4,1,"11,11,11,11,11|5,13,5,7,7",R16,GRAND_SLAM,U21MS,57,Main Draw,BEDAIR Omar (EGY),PAIKOV Mikhail (RUS),BEDAIR Omar
+Pro Tour Egypt Open Cairo 2010,2010-07-07,PETIOT Jeremy,YIANGOU Marios,4,2,"10,8,11,11,14,11|12,11,7,7,12,6",R16,GRAND_SLAM,U21MS,57,Main Draw,PETIOT Jeremy (FRA),YIANGOU Marios (CYP),PETIOT Jeremy
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ROGIERS Benjamin,SONBOL Wissam,4,2,"12,12,11,5,9,13|10,10,8,11,11,11",R16,GRAND_SLAM,U21MS,57,Main Draw,ROGIERS Benjamin (BEL),SONBOL Wissam (EGY),ROGIERS Benjamin
+Pro Tour Egypt Open Cairo 2010,2010-07-07,SALIFOU Abdel-Kader,SHETTY Sanil,4,0,"11,11,11,11|6,8,6,6",R16,GRAND_SLAM,U21MS,57,Main Draw,SALIFOU Abdel-Kader (BEN),SHETTY Sanil (IND),SALIFOU Abdel-Kader
+Pro Tour Egypt Open Cairo 2010,2010-07-07,NUYTINCK Cedric,ASSAR Khalid,4,1,"5,11,11,11,11|11,5,7,7,9",R16,GRAND_SLAM,U21MS,57,Main Draw,NUYTINCK Cedric (BEL),ASSAR Khalid (EGY),NUYTINCK Cedric
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ASSAR Omar,JEAN Lauric,4,2,"12,10,11,11,9,11|10,12,8,9,11,4",R16,GRAND_SLAM,U21MS,57,Main Draw,ASSAR Omar (EGY),JEAN Lauric (BEL),ASSAR Omar
+Pro Tour Egypt Open Cairo 2010,2010-07-07,LI Ahmet,ELSOBKY Mohamed,4,0,"11,11,11,11|5,3,9,8",R16,GRAND_SLAM,U21MS,57,Main Draw,LI Ahmet (TUR),ELSOBKY Mohamed (EGY),LI Ahmet
+Pro Tour Egypt Open Cairo 2010,2010-07-07,SHIBAEV Alexander,BEDAIR Omar,4,1,"11,11,11,8,11|8,4,8,11,9",QF,GRAND_SLAM,U21MS,57,Main Draw,SHIBAEV Alexander (RUS),BEDAIR Omar (EGY),SHIBAEV Alexander
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ROGIERS Benjamin,PETIOT Jeremy,4,0,"11,11,11,11|8,8,5,6",QF,GRAND_SLAM,U21MS,57,Main Draw,ROGIERS Benjamin (BEL),PETIOT Jeremy (FRA),ROGIERS Benjamin
+Pro Tour Egypt Open Cairo 2010,2010-07-07,SALIFOU Abdel-Kader,NUYTINCK Cedric,4,2,"4,11,10,11,11,11|11,6,12,5,4,6",QF,GRAND_SLAM,U21MS,57,Main Draw,SALIFOU Abdel-Kader (BEN),NUYTINCK Cedric (BEL),SALIFOU Abdel-Kader
+Pro Tour Egypt Open Cairo 2010,2010-07-07,LI Ahmet,ASSAR Omar,4,3,"11,11,8,6,21,8,12|9,9,11,11,19,11,10",QF,GRAND_SLAM,U21MS,57,Main Draw,LI Ahmet (TUR),ASSAR Omar (EGY),LI Ahmet
+Pro Tour Egypt Open Cairo 2010,2010-07-07,SHIBAEV Alexander,ROGIERS Benjamin,4,2,"11,11,11,9,11,11|5,4,5,11,13,7",SF,GRAND_SLAM,U21MS,57,Main Draw,SHIBAEV Alexander (RUS),ROGIERS Benjamin (BEL),SHIBAEV Alexander
+Pro Tour Egypt Open Cairo 2010,2010-07-07,LI Ahmet,SALIFOU Abdel-Kader,4,3,"9,11,10,8,11,11,11|11,8,12,11,5,3,1",SF,GRAND_SLAM,U21MS,57,Main Draw,LI Ahmet (TUR),SALIFOU Abdel-Kader (BEN),LI Ahmet
+Pro Tour Egypt Open Cairo 2010,2010-07-07,LI Ahmet,SHIBAEV Alexander,4,2,"11,5,6,12,11,11|9,11,11,10,8,7",F,GRAND_SLAM,U21MS,57,Main Draw,LI Ahmet (TUR),SHIBAEV Alexander (RUS),LI Ahmet
+Pro Tour Egypt Open Cairo 2010,2010-07-07,RAVICHANDRAN Abishek,ALHAJJAI Waled Nasser,4,1,"15,11,5,11,11|13,4,11,6,6",QR16,GRAND_SLAM,MS,57,Qualification,RAVICHANDRAN Abishek (IND),ALHAJJAI Waled Nasser (QAT),RAVICHANDRAN Abishek
+Pro Tour Egypt Open Cairo 2010,2010-07-07,SHETTY Sanil,ALMUGHANNE Fahed,4,1,"11,10,11,11,11|5,12,1,5,3",QR16,GRAND_SLAM,MS,57,Qualification,SHETTY Sanil (IND),ALMUGHANNE Fahed (QAT),SHETTY Sanil
+Pro Tour Egypt Open Cairo 2010,2010-07-07,KARIA Devesh,ASHRAF Ahmed,4,3,"2,11,4,10,11,11,11|11,5,11,12,5,5,6",QR16,GRAND_SLAM,MS,57,Qualification,KARIA Devesh (IND),ASHRAF Ahmed (EGY),KARIA Devesh
+Pro Tour Egypt Open Cairo 2010,2010-07-07,NUYTINCK Cedric,KUMAR Jubin,4,1,"14,7,12,11,11|12,11,10,8,5",QR16,GRAND_SLAM,MS,57,Qualification,NUYTINCK Cedric (BEL),KUMAR Jubin (IND),NUYTINCK Cedric
+Pro Tour Egypt Open Cairo 2010,2010-07-07,BARBOLIN Illia,ASSAR Khalid,4,2,"11,11,11,7,7,11|5,8,6,11,11,4",QR16,GRAND_SLAM,MS,57,Qualification,BARBOLIN Illia (BLR),ASSAR Khalid (EGY),BARBOLIN Illia
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ANTHONY Amalraj,LASHIN Aly,4,2,"11,6,11,11,8,11|7,11,7,9,11,4",,GRAND_SLAM,MS,57,Qualification,ANTHONY Amalraj (IND),LASHIN Aly (EGY),ANTHONY Amalraj
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ANTHONY Amalraj,ALHAJJAI Waled Nasser,4,1,"11,11,11,8,11|3,4,6,11,3",,GRAND_SLAM,MS,57,Qualification,ANTHONY Amalraj (IND),ALHAJJAI Waled Nasser (QAT),ANTHONY Amalraj
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ALHAJJAI Waled Nasser,LASHIN Aly,4,1,"13,11,11,9,11|11,9,6,11,3",,GRAND_SLAM,MS,57,Qualification,ALHAJJAI Waled Nasser (QAT),LASHIN Aly (EGY),ALHAJJAI Waled Nasser
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ROY Soumyadeep,ALMUGHANNE Fahed,4,0,"11,11,11,14|4,6,7,12",,GRAND_SLAM,MS,57,Qualification,ROY Soumyadeep (IND),ALMUGHANNE Fahed (QAT),ROY Soumyadeep
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ROY Soumyadeep,BEDAIR Omar,4,0,"13,11,11,11|11,7,7,5",,GRAND_SLAM,MS,57,Qualification,ROY Soumyadeep (IND),BEDAIR Omar (EGY),ROY Soumyadeep
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ALMUGHANNE Fahed,BEDAIR Omar,4,1,"11,10,11,14,11|9,12,6,12,8",,GRAND_SLAM,MS,57,Qualification,ALMUGHANNE Fahed (QAT),BEDAIR Omar (EGY),ALMUGHANNE Fahed
+Pro Tour Egypt Open Cairo 2010,2010-07-07,GLADYSHEV Mikhail,KARIA Devesh,4,0,"11,12,11,11|6,10,5,7",,GRAND_SLAM,MS,57,Qualification,GLADYSHEV Mikhail (RUS),KARIA Devesh (IND),GLADYSHEV Mikhail
+Pro Tour Egypt Open Cairo 2010,2010-07-07,GLADYSHEV Mikhail,ELSOBKY Mohamed,4,0,"11,11,11,11|9,7,6,4",,GRAND_SLAM,MS,57,Qualification,GLADYSHEV Mikhail (RUS),ELSOBKY Mohamed (EGY),GLADYSHEV Mikhail
+Pro Tour Egypt Open Cairo 2010,2010-07-07,KARIA Devesh,ELSOBKY Mohamed,4,2,"8,12,11,11,8,14|11,10,5,5,11,12",,GRAND_SLAM,MS,57,Qualification,KARIA Devesh (IND),ELSOBKY Mohamed (EGY),KARIA Devesh
+Pro Tour Egypt Open Cairo 2010,2010-07-07,MOSELHY Emad,ALYAFEI Mohammed,4,0,"11,11,11,11|7,7,4,8",,GRAND_SLAM,MS,57,Qualification,MOSELHY Emad (EGY),ALYAFEI Mohammed (QAT),MOSELHY Emad
+Pro Tour Egypt Open Cairo 2010,2010-07-07,MOSELHY Emad,KUMAR Jubin,4,0,"11,11,11,13|7,3,7,11",,GRAND_SLAM,MS,57,Qualification,MOSELHY Emad (EGY),KUMAR Jubin (IND),MOSELHY Emad
+Pro Tour Egypt Open Cairo 2010,2010-07-07,KUMAR Jubin,ALYAFEI Mohammed,4,0,"11,11,11,11|8,6,9,9",,GRAND_SLAM,MS,57,Qualification,KUMAR Jubin (IND),ALYAFEI Mohammed (QAT),KUMAR Jubin
+Pro Tour Egypt Open Cairo 2010,2010-07-07,CHAKRABORTY Sourav,SONBOL Shady,4,3,"11,11,9,0,11,7,11|8,5,11,11,9,11,3",,GRAND_SLAM,MS,57,Qualification,CHAKRABORTY Sourav (IND),SONBOL Shady (EGY),CHAKRABORTY Sourav
+Pro Tour Egypt Open Cairo 2010,2010-07-07,CHAKRABORTY Sourav,BARBOLIN Illia,4,1,"11,11,11,2,11|9,7,8,11,9",,GRAND_SLAM,MS,57,Qualification,CHAKRABORTY Sourav (IND),BARBOLIN Illia (BLR),CHAKRABORTY Sourav
+Pro Tour Egypt Open Cairo 2010,2010-07-07,BARBOLIN Illia,SONBOL Shady,4,0,"11,11,11,11|5,7,6,8",,GRAND_SLAM,MS,57,Qualification,BARBOLIN Illia (BLR),SONBOL Shady (EGY),BARBOLIN Illia
+Pro Tour Egypt Open Cairo 2010,2010-07-07,YIANGOU Marios,ALAWLAQI Ahmed,4,3,"8,9,11,11,4,11,11|11,11,7,7,11,5,9",,GRAND_SLAM,MS,57,Qualification,YIANGOU Marios (CYP),ALAWLAQI Ahmed (QAT),YIANGOU Marios
+Pro Tour Egypt Open Cairo 2010,2010-07-07,YIANGOU Marios,ASSAR Khalid,4,1,"8,12,11,11,11|11,10,5,1,9",,GRAND_SLAM,MS,57,Qualification,YIANGOU Marios (CYP),ASSAR Khalid (EGY),YIANGOU Marios
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ASSAR Khalid,ALAWLAQI Ahmed,4,1,"11,11,11,4,11|6,5,8,11,7",,GRAND_SLAM,MS,57,Qualification,ASSAR Khalid (EGY),ALAWLAQI Ahmed (QAT),ASSAR Khalid
+Pro Tour Egypt Open Cairo 2010,2010-07-07,NUYTINCK Cedric,MAHMOUD Abdulrahman,4,2,"7,11,11,10,11,11|11,5,5,12,8,8",,GRAND_SLAM,MS,57,Qualification,NUYTINCK Cedric (BEL),MAHMOUD Abdulrahman (EGY),NUYTINCK Cedric
+Pro Tour Egypt Open Cairo 2010,2010-07-07,AL-MOHANNADI Ahmad Khalil,NUYTINCK Cedric,4,2,"11,13,7,5,12,11|9,11,11,11,10,7",,GRAND_SLAM,MS,57,Qualification,AL-MOHANNADI Ahmad Khalil (QAT),NUYTINCK Cedric (BEL),AL-MOHANNADI Ahmad Khalil
+Pro Tour Egypt Open Cairo 2010,2010-07-07,AL-MOHANNADI Ahmad Khalil,MAHMOUD Abdulrahman,4,3,"12,6,7,11,11,8,12|10,11,11,8,7,11,10",,GRAND_SLAM,MS,57,Qualification,AL-MOHANNADI Ahmad Khalil (QAT),MAHMOUD Abdulrahman (EGY),AL-MOHANNADI Ahmad Khalil
+Pro Tour Egypt Open Cairo 2010,2010-07-07,NADIM Ahmed,ELDESSOUKY Mohamed,4,3,"11,12,11,6,11,8,11|9,14,8,11,2,11,8",,GRAND_SLAM,MS,57,Qualification,NADIM Ahmed (EGY),ELDESSOUKY Mohamed (EGY),NADIM Ahmed
+Pro Tour Egypt Open Cairo 2010,2010-07-07,SHETTY Sanil,EL HAKIM Rock,4,0,"13,11,11,11|11,5,5,5",,GRAND_SLAM,MS,57,Qualification,SHETTY Sanil (IND),EL HAKIM Rock (LBN),SHETTY Sanil
+Pro Tour Egypt Open Cairo 2010,2010-07-07,NADIM Ahmed,SHETTY Sanil,4,3,"11,9,11,11,8,7,11|3,11,9,7,11,11,8",,GRAND_SLAM,MS,57,Qualification,NADIM Ahmed (EGY),SHETTY Sanil (IND),NADIM Ahmed
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ELDESSOUKY Mohamed,EL HAKIM Rock,4,0,"11,11,11,11|7,7,1,6",,GRAND_SLAM,MS,57,Qualification,ELDESSOUKY Mohamed (EGY),EL HAKIM Rock (LBN),ELDESSOUKY Mohamed
+Pro Tour Egypt Open Cairo 2010,2010-07-07,NADIM Ahmed,EL HAKIM Rock,4,0,,,GRAND_SLAM,MS,57,Qualification,NADIM Ahmed (EGY),EL HAKIM Rock (LBN),NADIM Ahmed
+Pro Tour Egypt Open Cairo 2010,2010-07-07,SHETTY Sanil,ELDESSOUKY Mohamed,4,0,"11,11,11,11|2,5,4,8",,GRAND_SLAM,MS,57,Qualification,SHETTY Sanil (IND),ELDESSOUKY Mohamed (EGY),SHETTY Sanil
+Pro Tour Egypt Open Cairo 2010,2010-07-07,JEAN Lauric,PETIOT Jeremy,4,1,"12,8,11,13,11|10,11,4,11,8",,GRAND_SLAM,MS,57,Qualification,JEAN Lauric (BEL),PETIOT Jeremy (FRA),JEAN Lauric
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ASHRAF Ahmed,MASSAAD Adel,4,0,,,GRAND_SLAM,MS,57,Qualification,ASHRAF Ahmed (EGY),MASSAAD Adel (EGY),ASHRAF Ahmed
+Pro Tour Egypt Open Cairo 2010,2010-07-07,JEAN Lauric,MASSAAD Adel,4,0,,,GRAND_SLAM,MS,57,Qualification,JEAN Lauric (BEL),MASSAAD Adel (EGY),JEAN Lauric
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ASHRAF Ahmed,PETIOT Jeremy,4,0,"11,11,12,11|9,9,10,9",,GRAND_SLAM,MS,57,Qualification,ASHRAF Ahmed (EGY),PETIOT Jeremy (FRA),ASHRAF Ahmed
+Pro Tour Egypt Open Cairo 2010,2010-07-07,JEAN Lauric,ASHRAF Ahmed,4,2,"10,11,11,11,9,11|12,7,2,6,11,7",,GRAND_SLAM,MS,57,Qualification,JEAN Lauric (BEL),ASHRAF Ahmed (EGY),JEAN Lauric
+Pro Tour Egypt Open Cairo 2010,2010-07-07,PETIOT Jeremy,MASSAAD Adel,4,0,,,GRAND_SLAM,MS,57,Qualification,PETIOT Jeremy (FRA),MASSAAD Adel (EGY),PETIOT Jeremy
+Pro Tour Egypt Open Cairo 2010,2010-07-07,KUCHUK Aleksandr,RAVICHANDRAN Abishek,4,3,"11,11,11,11,8,9,13|7,8,8,13,11,11,11",,GRAND_SLAM,MS,57,Qualification,KUCHUK Aleksandr (BLR),RAVICHANDRAN Abishek (IND),KUCHUK Aleksandr
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ELBEIALI Mohamed,SOBHY Ashraf,4,2,"11,9,11,8,11,11|8,11,9,11,9,9",,GRAND_SLAM,MS,57,Qualification,ELBEIALI Mohamed (EGY),SOBHY Ashraf (EGY),ELBEIALI Mohamed
+Pro Tour Egypt Open Cairo 2010,2010-07-07,KUCHUK Aleksandr,ELBEIALI Mohamed,4,3,"10,11,11,11,9,8,11|12,9,9,7,11,11,5",,GRAND_SLAM,MS,57,Qualification,KUCHUK Aleksandr (BLR),ELBEIALI Mohamed (EGY),KUCHUK Aleksandr
+Pro Tour Egypt Open Cairo 2010,2010-07-07,RAVICHANDRAN Abishek,SOBHY Ashraf,4,2,"11,11,9,8,11,11|9,6,11,11,7,8",,GRAND_SLAM,MS,57,Qualification,RAVICHANDRAN Abishek (IND),SOBHY Ashraf (EGY),RAVICHANDRAN Abishek
+Pro Tour Egypt Open Cairo 2010,2010-07-07,KUCHUK Aleksandr,SOBHY Ashraf,4,1,"11,11,9,11,11|7,8,11,8,9",,GRAND_SLAM,MS,57,Qualification,KUCHUK Aleksandr (BLR),SOBHY Ashraf (EGY),KUCHUK Aleksandr
+Pro Tour Egypt Open Cairo 2010,2010-07-07,RAVICHANDRAN Abishek,ELBEIALI Mohamed,4,3,"5,2,11,4,11,11,11|11,11,8,11,5,3,7",,GRAND_SLAM,MS,57,Qualification,RAVICHANDRAN Abishek (IND),ELBEIALI Mohamed (EGY),RAVICHANDRAN Abishek
+Pro Tour Egypt Open Cairo 2010,2010-07-07,HEIKAL Ahmed,MOHAMED Abdelrahman,3,2,"11,4,9,11,11|6,11,11,8,6",,GRAND_SLAM,U21MS,57,Qualification,HEIKAL Ahmed (EGY),MOHAMED Abdelrahman (EGY),HEIKAL Ahmed
+Pro Tour Egypt Open Cairo 2010,2010-07-07,JEAN Lauric,MOHAMED Abdelrahman,3,1,"4,11,11,11|11,6,7,6",,GRAND_SLAM,U21MS,57,Qualification,JEAN Lauric (BEL),MOHAMED Abdelrahman (EGY),JEAN Lauric
+Pro Tour Egypt Open Cairo 2010,2010-07-07,JEAN Lauric,HEIKAL Ahmed,3,0,"11,11,11|7,6,1",,GRAND_SLAM,U21MS,57,Qualification,JEAN Lauric (BEL),HEIKAL Ahmed (EGY),JEAN Lauric
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ALAA Bassel,ELSHAARAWY Karim,3,0,"11,11,11|8,9,5",,GRAND_SLAM,U21MS,57,Qualification,ALAA Bassel (EGY),ELSHAARAWY Karim (EGY),ALAA Bassel
+Pro Tour Egypt Open Cairo 2010,2010-07-07,PETIOT Jeremy,ALAA Bassel,3,0,"11,11,11|5,8,6",,GRAND_SLAM,U21MS,57,Qualification,PETIOT Jeremy (FRA),ALAA Bassel (EGY),PETIOT Jeremy
+Pro Tour Egypt Open Cairo 2010,2010-07-07,PETIOT Jeremy,ELSHAARAWY Karim,3,0,"12,11,11|10,9,9",,GRAND_SLAM,U21MS,57,Qualification,PETIOT Jeremy (FRA),ELSHAARAWY Karim (EGY),PETIOT Jeremy
+Pro Tour Egypt Open Cairo 2010,2010-07-07,SONBOL Shady,ABOUELMAGD Karim,3,1,"11,11,9,13|4,6,11,11",,GRAND_SLAM,U21MS,57,Qualification,SONBOL Shady (EGY),ABOUELMAGD Karim (EGY),SONBOL Shady
+Pro Tour Egypt Open Cairo 2010,2010-07-07,SHETTY Sanil,ABOUELMAGD Karim,3,0,"11,11,11|1,9,8",,GRAND_SLAM,U21MS,57,Qualification,SHETTY Sanil (IND),ABOUELMAGD Karim (EGY),SHETTY Sanil
+Pro Tour Egypt Open Cairo 2010,2010-07-07,SHETTY Sanil,SONBOL Shady,3,0,"11,11,11|4,5,8",,GRAND_SLAM,U21MS,57,Qualification,SHETTY Sanil (IND),SONBOL Shady (EGY),SHETTY Sanil
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ASSAR Khalid,ASHOUR Akram,3,1,"11,14,9,11|3,12,11,8",,GRAND_SLAM,U21MS,57,Qualification,ASSAR Khalid (EGY),ASHOUR Akram (EGY),ASSAR Khalid
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ALYAFEI Mohammed,ASHOUR Akram,3,0,"12,11,11|10,4,7",,GRAND_SLAM,U21MS,57,Qualification,ALYAFEI Mohammed (QAT),ASHOUR Akram (EGY),ALYAFEI Mohammed
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ASSAR Khalid,ALYAFEI Mohammed,3,0,"11,11,11|9,8,5",,GRAND_SLAM,U21MS,57,Qualification,ASSAR Khalid (EGY),ALYAFEI Mohammed (QAT),ASSAR Khalid
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ELSOBKY Mohamed,HASSAN Adham,3,0,"14,12,12|12,10,10",,GRAND_SLAM,U21MS,57,Qualification,ELSOBKY Mohamed (EGY),HASSAN Adham (EGY),ELSOBKY Mohamed
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ALAWLAQI Ahmed,HASSAN Adham,3,1,"11,11,7,11|5,4,11,6",,GRAND_SLAM,U21MS,57,Qualification,ALAWLAQI Ahmed (QAT),HASSAN Adham (EGY),ALAWLAQI Ahmed
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ELSOBKY Mohamed,ALAWLAQI Ahmed,3,0,"11,12,12|9,10,10",,GRAND_SLAM,U21MS,57,Qualification,ELSOBKY Mohamed (EGY),ALAWLAQI Ahmed (QAT),ELSOBKY Mohamed
+Pro Tour Egypt Open Cairo 2010,2010-07-07,SHOUMAN Mohamed,HEGAB Hussein,3,1,"11,11,10,11|5,7,12,2",,GRAND_SLAM,U21MS,57,Qualification,SHOUMAN Mohamed (EGY),HEGAB Hussein (EGY),SHOUMAN Mohamed
+Pro Tour Egypt Open Cairo 2010,2010-07-07,BEDAIR Omar,HEGAB Hussein,3,0,"11,11,11|6,5,6",,GRAND_SLAM,U21MS,57,Qualification,BEDAIR Omar (EGY),HEGAB Hussein (EGY),BEDAIR Omar
+Pro Tour Egypt Open Cairo 2010,2010-07-07,BEDAIR Omar,SHOUMAN Mohamed,3,2,"4,11,7,11,11|11,6,11,3,5",,GRAND_SLAM,U21MS,57,Qualification,BEDAIR Omar (EGY),SHOUMAN Mohamed (EGY),BEDAIR Omar
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ZAGHLOUL Mahmoud,ZAKARIA Islam,3,0,"11,11,11|6,3,6",,GRAND_SLAM,U21MS,57,Qualification,ZAGHLOUL Mahmoud (EGY),ZAKARIA Islam (EGY),ZAGHLOUL Mahmoud
+Pro Tour Egypt Open Cairo 2010,2010-07-07,SONBOL Wissam,ALMUGHANNE Fahed,3,2,"15,11,8,6,11|13,6,11,11,8",,GRAND_SLAM,U21MS,57,Qualification,SONBOL Wissam (EGY),ALMUGHANNE Fahed (QAT),SONBOL Wissam
+Pro Tour Egypt Open Cairo 2010,2010-07-07,SONBOL Wissam,ZAGHLOUL Mahmoud,3,2,"11,11,11,4,12|8,8,13,11,10",,GRAND_SLAM,U21MS,57,Qualification,SONBOL Wissam (EGY),ZAGHLOUL Mahmoud (EGY),SONBOL Wissam
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ALMUGHANNE Fahed,ZAKARIA Islam,3,0,"11,11,11|6,6,8",,GRAND_SLAM,U21MS,57,Qualification,ALMUGHANNE Fahed (QAT),ZAKARIA Islam (EGY),ALMUGHANNE Fahed
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ZAGHLOUL Mahmoud,ALMUGHANNE Fahed,3,2,"11,9,14,6,11|8,11,12,11,3",,GRAND_SLAM,U21MS,57,Qualification,ZAGHLOUL Mahmoud (EGY),ALMUGHANNE Fahed (QAT),ZAGHLOUL Mahmoud
+Pro Tour Egypt Open Cairo 2010,2010-07-07,SONBOL Wissam,ZAKARIA Islam,3,1,"8,11,11,11|11,5,9,7",,GRAND_SLAM,U21MS,57,Qualification,SONBOL Wissam (EGY),ZAKARIA Islam (EGY),SONBOL Wissam
+Pro Tour Egypt Open Cairo 2010,2010-07-07,SAMARA Elizabeta,GUAN Mengyuan,4,0,"11,11,13,11|5,7,11,4",R16,GRAND_SLAM,U21WS,57,Main Draw,SAMARA Elizabeta (ROU),GUAN Mengyuan (HKG),SAMARA Elizabeta
+Pro Tour Egypt Open Cairo 2010,2010-07-07,DUBKOVA Elena,KUZMINA Elena,4,2,"12,6,12,11,2,11|10,11,10,4,11,8",R16,GRAND_SLAM,U21WS,57,Main Draw,DUBKOVA Elena (BLR),KUZMINA Elena (RUS),DUBKOVA Elena
+Pro Tour Egypt Open Cairo 2010,2010-07-07,HE Sirin,MESHREF Dina,4,1,"6,11,11,11,11|11,8,7,7,9",R16,GRAND_SLAM,U21WS,57,Main Draw,HE Sirin (TUR),MESHREF Dina (EGY),HE Sirin
+Pro Tour Egypt Open Cairo 2010,2010-07-07,VOROBEVA Olga,PARTYKA Natalia,4,0,"12,12,11,11|10,10,6,9",R16,GRAND_SLAM,U21WS,57,Main Draw,VOROBEVA Olga (RUS),PARTYKA Natalia (POL),VOROBEVA Olga
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ISHIGAKI Yuka,NG Wing Nam,4,1,"11,11,8,11,11|4,6,11,5,7",R16,GRAND_SLAM,U21WS,57,Main Draw,ISHIGAKI Yuka (JPN),NG Wing Nam (HKG),ISHIGAKI Yuka
+Pro Tour Egypt Open Cairo 2010,2010-07-07,LEE Ho Ching,MONDAL Soumi,4,2,"11,11,9,11,11,11|4,13,11,6,5,7",R16,GRAND_SLAM,U21WS,57,Main Draw,LEE Ho Ching (HKG),MONDAL Soumi (IND),LEE Ho Ching
+Pro Tour Egypt Open Cairo 2010,2010-07-07,MORIZONO Misaki,GRZYBOWSKA-FRANC Katarzyna,4,0,"11,13,11,11|9,11,4,9",R16,GRAND_SLAM,U21WS,57,Main Draw,MORIZONO Misaki (JPN),GRZYBOWSKA-FRANC Katarzyna (POL),MORIZONO Misaki
+Pro Tour Egypt Open Cairo 2010,2010-07-07,HU Melek,SABITOVA Valentina,4,2,"11,11,11,10,8,11|4,7,3,12,11,8",R16,GRAND_SLAM,U21WS,57,Main Draw,HU Melek (TUR),SABITOVA Valentina (RUS),HU Melek
+Pro Tour Egypt Open Cairo 2010,2010-07-07,SAMARA Elizabeta,DUBKOVA Elena,4,2,"11,8,11,11,9,11|9,11,7,8,11,7",QF,GRAND_SLAM,U21WS,57,Main Draw,SAMARA Elizabeta (ROU),DUBKOVA Elena (BLR),SAMARA Elizabeta
+Pro Tour Egypt Open Cairo 2010,2010-07-07,HE Sirin,VOROBEVA Olga,4,0,"11,11,12,11|7,8,10,4",QF,GRAND_SLAM,U21WS,57,Main Draw,HE Sirin (TUR),VOROBEVA Olga (RUS),HE Sirin
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ISHIGAKI Yuka,LEE Ho Ching,4,3,"8,12,8,11,10,11,11|11,10,11,4,12,3,9",QF,GRAND_SLAM,U21WS,57,Main Draw,ISHIGAKI Yuka (JPN),LEE Ho Ching (HKG),ISHIGAKI Yuka
+Pro Tour Egypt Open Cairo 2010,2010-07-07,HU Melek,MORIZONO Misaki,4,2,"11,10,13,5,13,11|4,12,11,11,11,5",QF,GRAND_SLAM,U21WS,57,Main Draw,HU Melek (TUR),MORIZONO Misaki (JPN),HU Melek
+Pro Tour Egypt Open Cairo 2010,2010-07-07,SAMARA Elizabeta,HE Sirin,4,1,"8,11,11,11,11|11,6,6,5,5",SF,GRAND_SLAM,U21WS,57,Main Draw,SAMARA Elizabeta (ROU),HE Sirin (TUR),SAMARA Elizabeta
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ISHIGAKI Yuka,HU Melek,4,3,"11,3,11,9,11,3,11|4,11,3,11,5,11,8",SF,GRAND_SLAM,U21WS,57,Main Draw,ISHIGAKI Yuka (JPN),HU Melek (TUR),ISHIGAKI Yuka
+Pro Tour Egypt Open Cairo 2010,2010-07-07,SAMARA Elizabeta,ISHIGAKI Yuka,4,2,"13,12,8,12,9,11|11,10,11,10,11,7",F,GRAND_SLAM,U21WS,57,Main Draw,SAMARA Elizabeta (ROU),ISHIGAKI Yuka (JPN),SAMARA Elizabeta
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ABDELAZIZ Farah,ELSHOBARY Reem,3,1,"4,11,11,11|11,8,0,0",,GRAND_SLAM,U21WS,57,Qualification,ABDELAZIZ Farah (EGY),ELSHOBARY Reem (EGY),ABDELAZIZ Farah
+Pro Tour Egypt Open Cairo 2010,2010-07-07,NG Wing Nam,ABDELAZIZ Farah,3,0,"11,11,14|8,4,12",,GRAND_SLAM,U21WS,57,Qualification,NG Wing Nam (HKG),ABDELAZIZ Farah (EGY),NG Wing Nam
+Pro Tour Egypt Open Cairo 2010,2010-07-07,NG Wing Nam,ELSHOBARY Reem,3,0,"11,12,13|7,10,11",,GRAND_SLAM,U21WS,57,Qualification,NG Wing Nam (HKG),ELSHOBARY Reem (EGY),NG Wing Nam
+Pro Tour Egypt Open Cairo 2010,2010-07-07,YOUSRY Noha,EZZAT Rana,3,2,"7,11,11,11,11|11,13,7,5,9",,GRAND_SLAM,U21WS,57,Qualification,YOUSRY Noha (EGY),EZZAT Rana (EGY),YOUSRY Noha
+Pro Tour Egypt Open Cairo 2010,2010-07-07,GRZYBOWSKA-FRANC Katarzyna,EZZAT Rana,3,0,"11,11,11|9,4,8",,GRAND_SLAM,U21WS,57,Qualification,GRZYBOWSKA-FRANC Katarzyna (POL),EZZAT Rana (EGY),GRZYBOWSKA-FRANC Katarzyna
+Pro Tour Egypt Open Cairo 2010,2010-07-07,GRZYBOWSKA-FRANC Katarzyna,YOUSRY Noha,3,2,"11,4,7,11,11|3,11,11,4,1",,GRAND_SLAM,U21WS,57,Qualification,GRZYBOWSKA-FRANC Katarzyna (POL),YOUSRY Noha (EGY),GRZYBOWSKA-FRANC Katarzyna
+Pro Tour Egypt Open Cairo 2010,2010-07-07,MESHREF Dina,SABRY Nermin,3,0,"11,11,11|2,8,5",,GRAND_SLAM,U21WS,57,Qualification,MESHREF Dina (EGY),SABRY Nermin (EGY),MESHREF Dina
+Pro Tour Egypt Open Cairo 2010,2010-07-07,DESHPANDE Divya,SABRY Nermin,3,1,"11,8,12,11|4,11,10,8",,GRAND_SLAM,U21WS,57,Qualification,DESHPANDE Divya (IND),SABRY Nermin (EGY),DESHPANDE Divya
+Pro Tour Egypt Open Cairo 2010,2010-07-07,MESHREF Dina,DESHPANDE Divya,3,0,"11,11,11|5,6,8",,GRAND_SLAM,U21WS,57,Qualification,MESHREF Dina (EGY),DESHPANDE Divya (IND),MESHREF Dina
+Pro Tour Egypt Open Cairo 2010,2010-07-07,DOAA Alia,HELMY Yousra,3,1,"8,11,11,11|11,8,4,9",,GRAND_SLAM,U21WS,57,Qualification,DOAA Alia (EGY),HELMY Yousra (EGY),DOAA Alia
+Pro Tour Egypt Open Cairo 2010,2010-07-07,GUAN Mengyuan,HELMY Yousra,3,0,"11,11,11|6,5,5",,GRAND_SLAM,U21WS,57,Qualification,GUAN Mengyuan (HKG),HELMY Yousra (EGY),GUAN Mengyuan
+Pro Tour Egypt Open Cairo 2010,2010-07-07,GUAN Mengyuan,DOAA Alia,3,0,"11,11,11|6,7,9",,GRAND_SLAM,U21WS,57,Qualification,GUAN Mengyuan (HKG),DOAA Alia (EGY),GUAN Mengyuan
+Pro Tour Egypt Open Cairo 2010,2010-07-07,NASSER Galila,ERMAKOVA Natalia,3,1,"3,11,11,12|11,5,9,10",,GRAND_SLAM,U21WS,57,Qualification,NASSER Galila (EGY),ERMAKOVA Natalia (RUS),NASSER Galila
+Pro Tour Egypt Open Cairo 2010,2010-07-07,DUBKOVA Elena,ERMAKOVA Natalia,3,0,"11,11,11|7,7,8",,GRAND_SLAM,U21WS,57,Qualification,DUBKOVA Elena (BLR),ERMAKOVA Natalia (RUS),DUBKOVA Elena
+Pro Tour Egypt Open Cairo 2010,2010-07-07,DUBKOVA Elena,NASSER Galila,3,0,"11,11,11|6,8,3",,GRAND_SLAM,U21WS,57,Qualification,DUBKOVA Elena (BLR),NASSER Galila (EGY),DUBKOVA Elena
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ELDAWLATLY Nadeen,ELERAKY Reem,3,0,"13,11,11|11,9,7",,GRAND_SLAM,U21WS,57,Qualification,ELDAWLATLY Nadeen (EGY),ELERAKY Reem (EGY),ELDAWLATLY Nadeen
+Pro Tour Egypt Open Cairo 2010,2010-07-07,VOROBEVA Olga,ELERAKY Reem,3,1,"11,11,7,11|4,1,11,4",,GRAND_SLAM,U21WS,57,Qualification,VOROBEVA Olga (RUS),ELERAKY Reem (EGY),VOROBEVA Olga
+Pro Tour Egypt Open Cairo 2010,2010-07-07,VOROBEVA Olga,ELDAWLATLY Nadeen,3,0,"12,11,12|10,6,10",,GRAND_SLAM,U21WS,57,Qualification,VOROBEVA Olga (RUS),ELDAWLATLY Nadeen (EGY),VOROBEVA Olga
+Pro Tour Egypt Open Cairo 2010,2010-07-07,SABITOVA Valentina,AGGARWAL Neha,3,1,"12,11,9,11|10,7,11,8",,GRAND_SLAM,U21WS,57,Qualification,SABITOVA Valentina (RUS),AGGARWAL Neha (IND),SABITOVA Valentina
+Pro Tour Egypt Open Cairo 2010,2010-07-07,SAFWAT Alaa,SAID Mennatalla,3,1,"12,12,5,11|10,10,11,3",,GRAND_SLAM,U21WS,57,Qualification,SAFWAT Alaa (EGY),SAID Mennatalla (EGY),SAFWAT Alaa
+Pro Tour Egypt Open Cairo 2010,2010-07-07,SAID Mennatalla,AGGARWAL Neha,3,1,"11,5,11,11|8,11,9,6",,GRAND_SLAM,U21WS,57,Qualification,SAID Mennatalla (EGY),AGGARWAL Neha (IND),SAID Mennatalla
+Pro Tour Egypt Open Cairo 2010,2010-07-07,SABITOVA Valentina,SAFWAT Alaa,3,1,"11,10,11,11|3,12,6,6",,GRAND_SLAM,U21WS,57,Qualification,SABITOVA Valentina (RUS),SAFWAT Alaa (EGY),SABITOVA Valentina
+Pro Tour Egypt Open Cairo 2010,2010-07-07,AGGARWAL Neha,SAFWAT Alaa,3,2,"11,11,9,3,12|9,5,11,11,10",,GRAND_SLAM,U21WS,57,Qualification,AGGARWAL Neha (IND),SAFWAT Alaa (EGY),AGGARWAL Neha
+Pro Tour Egypt Open Cairo 2010,2010-07-07,SABITOVA Valentina,SAID Mennatalla,3,0,"11,11,11|7,9,5",,GRAND_SLAM,U21WS,57,Qualification,SABITOVA Valentina (RUS),SAID Mennatalla (EGY),SABITOVA Valentina
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ELSOKKARY Sara,MOHAMED Norhan,3,2,"8,11,13,5,11|11,5,11,11,3",,GRAND_SLAM,U21WS,57,Qualification,ELSOKKARY Sara (EGY),MOHAMED Norhan (EGY),ELSOKKARY Sara
+Pro Tour Egypt Open Cairo 2010,2010-07-07,MONDAL Soumi,YOUSSEF Rawan,3,0,,,GRAND_SLAM,U21WS,57,Qualification,MONDAL Soumi (IND),YOUSSEF Rawan (EGY),MONDAL Soumi
+Pro Tour Egypt Open Cairo 2010,2010-07-07,MONDAL Soumi,ELSOKKARY Sara,3,0,"11,11,11|3,7,7",,GRAND_SLAM,U21WS,57,Qualification,MONDAL Soumi (IND),ELSOKKARY Sara (EGY),MONDAL Soumi
+Pro Tour Egypt Open Cairo 2010,2010-07-07,MOHAMED Norhan,YOUSSEF Rawan,3,0,,,GRAND_SLAM,U21WS,57,Qualification,MOHAMED Norhan (EGY),YOUSSEF Rawan (EGY),MOHAMED Norhan
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ELSOKKARY Sara,YOUSSEF Rawan,4,0,,,GRAND_SLAM,U21WS,57,Qualification,ELSOKKARY Sara (EGY),YOUSSEF Rawan (EGY),ELSOKKARY Sara
+Pro Tour Egypt Open Cairo 2010,2010-07-07,MONDAL Soumi,MOHAMED Norhan,3,0,"11,11,11|8,6,6",,GRAND_SLAM,U21WS,57,Qualification,MONDAL Soumi (IND),MOHAMED Norhan (EGY),MONDAL Soumi
+Pro Tour Egypt Open Cairo 2010,2010-07-07,LIN Ling/ZHANG Rui,KARAGODINA Inna/PRIVALOVA Alexandra,4,1,"3,11,11,11,11|11,5,6,8,5",R16,GRAND_SLAM,WD,57,Main Draw,LIN Ling (HKG) / ZHANG Rui (HKG),KARAGODINA Inna (BLR) / PRIVALOVA Alexandra (BLR),LIN Ling
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ISHIGAKI Yuka/MORIZONO Misaki,ANTONAVA Antanina/KOUREA Louiza,4,0,"11,11,11,11|7,4,2,4",R16,GRAND_SLAM,WD,57,Main Draw,ISHIGAKI Yuka (JPN) / MORIZONO Misaki (JPN),ANTONAVA Antanina (BLR) / KOUREA Louiza (CYP),ISHIGAKI Yuka
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ANTONAVA Antanina/KOUREA Louiza,ERMAKOVA Irina/ERMAKOVA Natalia,3,1,"11,5,11,11|6,11,6,9",QR16,GRAND_SLAM,WD,57,Qualification,ANTONAVA Antanina (BLR) / KOUREA Louiza (CYP),ERMAKOVA Irina (RUS) / ERMAKOVA Natalia (RUS),ANTONAVA Antanina
+Pro Tour Egypt Open Cairo 2010,2010-07-07,AGGARWAL Neha/MONDAL Soumi,ELSOKKARY Sara/MESHREF Dina,4,2,"9,10,11,11,12,11|11,12,3,7,10,6",R16,GRAND_SLAM,WD,57,Main Draw,AGGARWAL Neha (IND) / MONDAL Soumi (IND),ELSOKKARY Sara (EGY) / MESHREF Dina (EGY),AGGARWAL Neha
+Pro Tour Egypt Open Cairo 2010,2010-07-07,KARAGODINA Inna/PRIVALOVA Alexandra,DOAA Alia/YOUSSEF Rawan,3,0,,QR16,GRAND_SLAM,WD,57,Qualification,KARAGODINA Inna (BLR) / PRIVALOVA Alexandra (BLR),DOAA Alia (EGY) / YOUSSEF Rawan (EGY),KARAGODINA Inna
+Pro Tour Egypt Open Cairo 2010,2010-07-07,GUAN Mengyuan/NG Wing Nam,ELSHOBARY Reem/HASSAN Sara,3,0,"11,11,11|8,2,3",QR16,GRAND_SLAM,WD,57,Qualification,GUAN Mengyuan (HKG) / NG Wing Nam (HKG),ELSHOBARY Reem (EGY) / HASSAN Sara (EGY),GUAN Mengyuan
+Pro Tour Egypt Open Cairo 2010,2010-07-07,AGGARWAL Neha/MONDAL Soumi,SABRY Nermin/YOUSRY Noha,3,0,"11,11,12|6,8,10",QR16,GRAND_SLAM,WD,57,Qualification,AGGARWAL Neha (IND) / MONDAL Soumi (IND),SABRY Nermin (EGY) / YOUSRY Noha (EGY),AGGARWAL Neha
+Pro Tour Egypt Open Cairo 2010,2010-07-07,VOROBEVA Olga/SABITOVA Valentina,ELDAWLATLY Nadeen/NASSER Galila,3,0,"12,11,11|10,9,6",QR16,GRAND_SLAM,WD,57,Qualification,VOROBEVA Olga (RUS) / SABITOVA Valentina (RUS),ELDAWLATLY Nadeen (EGY) / NASSER Galila (EGY),VOROBEVA Olga
+Pro Tour Egypt Open Cairo 2010,2010-07-07,DUBKOVA Elena/LI Xue,LEE Ho Ching/YU Kwok See,4,1,"11,12,6,11,12|9,10,11,8,10",R16,GRAND_SLAM,WD,57,Main Draw,DUBKOVA Elena (BLR) / LI Xue (FRA),LEE Ho Ching (HKG) / YU Kwok See (HKG),DUBKOVA Elena
+Pro Tour Egypt Open Cairo 2010,2010-07-07,LIN Ling/ZHANG Rui,DUBKOVA Elena/LI Xue,4,1,"11,13,11,7,11|5,11,3,11,8",QF,GRAND_SLAM,WD,57,Main Draw,LIN Ling (HKG) / ZHANG Rui (HKG),DUBKOVA Elena (BLR) / LI Xue (FRA),LIN Ling
+Pro Tour Egypt Open Cairo 2010,2010-07-07,GRZYBOWSKA-FRANC Katarzyna/PARTYKA Natalia,KUMARESAN Shamini/PATKAR Madhurika,4,0,"12,11,11,13|10,5,6,11",R16,GRAND_SLAM,WD,57,Main Draw,GRZYBOWSKA-FRANC Katarzyna (POL) / PARTYKA Natalia (POL),KUMARESAN Shamini (IND) / PATKAR Madhurika (IND),GRZYBOWSKA-FRANC Katarzyna
+Pro Tour Egypt Open Cairo 2010,2010-07-07,CREEMERS Linda/NOUWEN Carla,AGGARWAL Neha/MONDAL Soumi,4,0,"11,11,11,11|4,7,9,5",QF,GRAND_SLAM,WD,57,Main Draw,CREEMERS Linda (NED) / NOUWEN Carla (NED),AGGARWAL Neha (IND) / MONDAL Soumi (IND),CREEMERS Linda
+Pro Tour Egypt Open Cairo 2010,2010-07-07,HIRANO Sayaka/HIURA Reiko,GUAN Mengyuan/NG Wing Nam,4,1,"11,11,11,10,11|8,9,7,12,4",R16,GRAND_SLAM,WD,57,Main Draw,HIRANO Sayaka (JPN) / HIURA Reiko (JPN),GUAN Mengyuan (HKG) / NG Wing Nam (HKG),HIRANO Sayaka
+Pro Tour Egypt Open Cairo 2010,2010-07-07,HIRANO Sayaka/HIURA Reiko,ISHIGAKI Yuka/MORIZONO Misaki,4,0,"12,11,11,11|10,6,5,7",QF,GRAND_SLAM,WD,57,Main Draw,HIRANO Sayaka (JPN) / HIURA Reiko (JPN),ISHIGAKI Yuka (JPN) / MORIZONO Misaki (JPN),HIRANO Sayaka
+Pro Tour Egypt Open Cairo 2010,2010-07-07,HIRANO Sayaka/HIURA Reiko,CREEMERS Linda/NOUWEN Carla,4,0,"11,11,11,11|7,4,2,8",SF,GRAND_SLAM,WD,57,Main Draw,HIRANO Sayaka (JPN) / HIURA Reiko (JPN),CREEMERS Linda (NED) / NOUWEN Carla (NED),HIRANO Sayaka
+Pro Tour Egypt Open Cairo 2010,2010-07-07,HIRANO Sayaka/HIURA Reiko,LIN Ling/ZHANG Rui,4,3,"11,10,9,12,7,11,11|9,12,11,10,11,5,3",F,GRAND_SLAM,WD,57,Main Draw,HIRANO Sayaka (JPN) / HIURA Reiko (JPN),LIN Ling (HKG) / ZHANG Rui (HKG),HIRANO Sayaka
+Pro Tour Egypt Open Cairo 2010,2010-07-07,CREEMERS Linda/NOUWEN Carla,DAS Mouma/GHATAK Poulomi,4,2,"11,11,8,11,6,11|8,9,11,6,11,5",R16,GRAND_SLAM,WD,57,Main Draw,CREEMERS Linda (NED) / NOUWEN Carla (NED),DAS Mouma (IND) / GHATAK Poulomi (IND),CREEMERS Linda
+Pro Tour Egypt Open Cairo 2010,2010-07-07,HE Sirin/HU Melek,VOROBEVA Olga/SABITOVA Valentina,4,0,"11,11,11,11|7,7,4,7",R16,GRAND_SLAM,WD,57,Main Draw,HE Sirin (TUR) / HU Melek (TUR),VOROBEVA Olga (RUS) / SABITOVA Valentina (RUS),HE Sirin
+Pro Tour Egypt Open Cairo 2010,2010-07-07,HE Sirin/HU Melek,GRZYBOWSKA-FRANC Katarzyna/PARTYKA Natalia,4,2,"11,9,10,11,11,11|4,11,12,5,4,7",QF,GRAND_SLAM,WD,57,Main Draw,HE Sirin (TUR) / HU Melek (TUR),GRZYBOWSKA-FRANC Katarzyna (POL) / PARTYKA Natalia (POL),HE Sirin
+Pro Tour Egypt Open Cairo 2010,2010-07-07,LIN Ling/ZHANG Rui,HE Sirin/HU Melek,4,2,"10,11,8,11,11,11|12,3,11,4,8,5",SF,GRAND_SLAM,WD,57,Main Draw,LIN Ling (HKG) / ZHANG Rui (HKG),HE Sirin (TUR) / HU Melek (TUR),LIN Ling
+Pro Tour Egypt Open Cairo 2010,2010-07-07,HIRANO Sayaka,ELSOKKARY Sara,4,0,"11,11,11,11|6,4,2,8",R32,GRAND_SLAM,WS,57,Main Draw,HIRANO Sayaka (JPN),ELSOKKARY Sara (EGY),HIRANO Sayaka
+Pro Tour Egypt Open Cairo 2010,2010-07-07,CREEMERS Linda,MESHREF Dina,4,2,"11,11,8,9,11,12|3,6,11,11,9,10",R32,GRAND_SLAM,WS,57,Main Draw,CREEMERS Linda (NED),MESHREF Dina (EGY),CREEMERS Linda
+Pro Tour Egypt Open Cairo 2010,2010-07-07,YU Kwok See,NOUWEN Carla,4,2,"5,8,12,11,12,11|11,11,10,5,10,4",R32,GRAND_SLAM,WS,57,Main Draw,YU Kwok See (HKG),NOUWEN Carla (NED),YU Kwok See
+Pro Tour Egypt Open Cairo 2010,2010-07-07,NI Xia Lian,GHATAK Poulomi,4,0,"11,11,11,11|3,6,4,7",R32,GRAND_SLAM,WS,57,Main Draw,NI Xia Lian (LUX),GHATAK Poulomi (IND),NI Xia Lian
+Pro Tour Egypt Open Cairo 2010,2010-07-07,LI Xue,PATKAR Madhurika,4,1,"5,11,11,11,11|11,9,5,9,7",R32,GRAND_SLAM,WS,57,Main Draw,LI Xue (FRA),PATKAR Madhurika (IND),LI Xue
+Pro Tour Egypt Open Cairo 2010,2010-07-07,HIURA Reiko,DAS Mouma,4,0,"11,11,11,11|7,5,5,5",R32,GRAND_SLAM,WS,57,Main Draw,HIURA Reiko (JPN),DAS Mouma (IND),HIURA Reiko
+Pro Tour Egypt Open Cairo 2010,2010-07-07,HE Sirin,SABITOVA Valentina,4,3,"9,11,11,4,17,13,11|11,6,8,11,19,11,7",R32,GRAND_SLAM,WS,57,Main Draw,HE Sirin (TUR),SABITOVA Valentina (RUS),HE Sirin
+Pro Tour Egypt Open Cairo 2010,2010-07-07,HU Melek,VOROBEVA Olga,4,1,"11,11,11,9,11|9,4,5,11,4",R32,GRAND_SLAM,WS,57,Main Draw,HU Melek (TUR),VOROBEVA Olga (RUS),HU Melek
+Pro Tour Egypt Open Cairo 2010,2010-07-07,PARTYKA Natalia,PRIVALOVA Alexandra,4,0,"11,11,11,11|8,6,8,3",R32,GRAND_SLAM,WS,57,Main Draw,PARTYKA Natalia (POL),PRIVALOVA Alexandra (BLR),PARTYKA Natalia
+Pro Tour Egypt Open Cairo 2010,2010-07-07,LIN Ling,ERMAKOVA Irina,4,1,"7,14,11,11,11|11,12,6,4,4",R32,GRAND_SLAM,WS,57,Main Draw,LIN Ling (HKG),ERMAKOVA Irina (RUS),LIN Ling
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ZHANG Rui,HASSAN Sara,4,0,"11,11,11,11|2,5,8,6",R32,GRAND_SLAM,WS,57,Main Draw,ZHANG Rui (HKG),HASSAN Sara (EGY),ZHANG Rui
+Pro Tour Egypt Open Cairo 2010,2010-07-07,LEE Ho Ching,DUBKOVA Elena,4,1,"10,11,11,11,11|12,3,9,5,8",R32,GRAND_SLAM,WS,57,Main Draw,LEE Ho Ching (HKG),DUBKOVA Elena (BLR),LEE Ho Ching
+Pro Tour Egypt Open Cairo 2010,2010-07-07,KUZMINA Elena,GUAN Mengyuan,4,0,"11,11,11,11|9,4,5,9",R32,GRAND_SLAM,WS,57,Main Draw,KUZMINA Elena (RUS),GUAN Mengyuan (HKG),KUZMINA Elena
+Pro Tour Egypt Open Cairo 2010,2010-07-07,SAMARA Elizabeta,ELDAWLATLY Nadeen,4,0,"11,11,11,11|6,8,3,2",R32,GRAND_SLAM,WS,57,Main Draw,SAMARA Elizabeta (ROU),ELDAWLATLY Nadeen (EGY),SAMARA Elizabeta
+Pro Tour Egypt Open Cairo 2010,2010-07-07,CREEMERS Linda,HIRANO Sayaka,4,3,"15,11,5,11,1,9,11|13,9,11,4,11,11,6",R16,GRAND_SLAM,WS,57,Main Draw,CREEMERS Linda (NED),HIRANO Sayaka (JPN),CREEMERS Linda
+Pro Tour Egypt Open Cairo 2010,2010-07-07,NI Xia Lian,YU Kwok See,4,3,"11,11,7,16,11,6,11|6,13,11,14,9,11,2",R16,GRAND_SLAM,WS,57,Main Draw,NI Xia Lian (LUX),YU Kwok See (HKG),NI Xia Lian
+Pro Tour Egypt Open Cairo 2010,2010-07-07,HIURA Reiko,LI Xue,4,0,"11,11,11,11|5,5,4,6",R16,GRAND_SLAM,WS,57,Main Draw,HIURA Reiko (JPN),LI Xue (FRA),HIURA Reiko
+Pro Tour Egypt Open Cairo 2010,2010-07-07,HU Melek,HE Sirin,4,0,"11,11,11,11|4,3,3,4",R16,GRAND_SLAM,WS,57,Main Draw,HU Melek (TUR),HE Sirin (TUR),HU Melek
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ISHIGAKI Yuka,PARTYKA Natalia,4,2,"6,9,11,11,11,11|11,11,2,5,6,5",R16,GRAND_SLAM,WS,57,Main Draw,ISHIGAKI Yuka (JPN),PARTYKA Natalia (POL),ISHIGAKI Yuka
+Pro Tour Egypt Open Cairo 2010,2010-07-07,LIN Ling,MORIZONO Misaki,4,1,"9,11,11,11,11|11,5,3,5,8",R16,GRAND_SLAM,WS,57,Main Draw,LIN Ling (HKG),MORIZONO Misaki (JPN),LIN Ling
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ZHANG Rui,LEE Ho Ching,4,0,"11,11,11,11|3,4,9,5",R16,GRAND_SLAM,WS,57,Main Draw,ZHANG Rui (HKG),LEE Ho Ching (HKG),ZHANG Rui
+Pro Tour Egypt Open Cairo 2010,2010-07-07,SAMARA Elizabeta,KUZMINA Elena,4,1,"11,11,4,11,11|7,9,11,7,2",R16,GRAND_SLAM,WS,57,Main Draw,SAMARA Elizabeta (ROU),KUZMINA Elena (RUS),SAMARA Elizabeta
+Pro Tour Egypt Open Cairo 2010,2010-07-07,CREEMERS Linda,NI Xia Lian,4,3,"11,9,9,3,11,12,11|7,11,11,11,7,10,4",QF,GRAND_SLAM,WS,57,Main Draw,CREEMERS Linda (NED),NI Xia Lian (LUX),CREEMERS Linda
+Pro Tour Egypt Open Cairo 2010,2010-07-07,HU Melek,HIURA Reiko,4,3,"8,11,11,6,6,11,13|11,8,5,11,11,5,11",QF,GRAND_SLAM,WS,57,Main Draw,HU Melek (TUR),HIURA Reiko (JPN),HU Melek
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ISHIGAKI Yuka,LIN Ling,4,1,"11,11,11,11,12|6,13,4,8,10",QF,GRAND_SLAM,WS,57,Main Draw,ISHIGAKI Yuka (JPN),LIN Ling (HKG),ISHIGAKI Yuka
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ZHANG Rui,SAMARA Elizabeta,4,0,"11,11,11,11|8,9,3,8",QF,GRAND_SLAM,WS,57,Main Draw,ZHANG Rui (HKG),SAMARA Elizabeta (ROU),ZHANG Rui
+Pro Tour Egypt Open Cairo 2010,2010-07-07,HU Melek,CREEMERS Linda,4,1,"12,11,6,11,11|10,9,11,2,6",SF,GRAND_SLAM,WS,57,Main Draw,HU Melek (TUR),CREEMERS Linda (NED),HU Melek
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ISHIGAKI Yuka,ZHANG Rui,4,2,"9,4,14,11,11,11|11,11,12,6,7,9",SF,GRAND_SLAM,WS,57,Main Draw,ISHIGAKI Yuka (JPN),ZHANG Rui (HKG),ISHIGAKI Yuka
+Pro Tour Egypt Open Cairo 2010,2010-07-07,PATKAR Madhurika,ELDAWLATLY Nadeen,4,0,"11,11,11,11|7,3,6,6",QR16,GRAND_SLAM,WS,57,Qualification,PATKAR Madhurika (IND),ELDAWLATLY Nadeen (EGY),PATKAR Madhurika
+Pro Tour Egypt Open Cairo 2010,2010-07-07,NG Wing Nam,YILDIRIM Fulya,4,2,"11,11,9,7,11,11|3,8,11,11,7,1",QR16,GRAND_SLAM,WS,57,Qualification,NG Wing Nam (HKG),YILDIRIM Fulya (TUR),NG Wing Nam
+Pro Tour Egypt Open Cairo 2010,2010-07-07,VOROBEVA Olga,ELSOKKARY Sara,4,2,"11,9,12,11,11,11|9,11,14,5,4,8",QR16,GRAND_SLAM,WS,57,Qualification,VOROBEVA Olga (RUS),ELSOKKARY Sara (EGY),VOROBEVA Olga
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ERMAKOVA Irina,KUMARESAN Shamini,4,3,"11,8,8,4,11,11,11|8,11,11,11,6,9,7",QR16,GRAND_SLAM,WS,57,Qualification,ERMAKOVA Irina (RUS),KUMARESAN Shamini (IND),ERMAKOVA Irina
+Pro Tour Egypt Open Cairo 2010,2010-07-07,HASSAN Sara,AGGARWAL Neha,4,3,"7,8,11,5,12,11,11|11,11,6,11,10,9,6",QR16,GRAND_SLAM,WS,57,Qualification,HASSAN Sara (EGY),AGGARWAL Neha (IND),HASSAN Sara
+Pro Tour Egypt Open Cairo 2010,2010-07-07,KUZMINA Elena,ELDAWLATLY Nadeen,4,1,"11,11,9,11,11|9,2,11,7,3",,GRAND_SLAM,WS,57,Qualification,KUZMINA Elena (RUS),ELDAWLATLY Nadeen (EGY),KUZMINA Elena
+Pro Tour Egypt Open Cairo 2010,2010-07-07,KUZMINA Elena,MONDAL Soumi,4,0,"11,11,11,11|6,4,9,2",,GRAND_SLAM,WS,57,Qualification,KUZMINA Elena (RUS),MONDAL Soumi (IND),KUZMINA Elena
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ELDAWLATLY Nadeen,MONDAL Soumi,4,1,"12,7,11,11,11|10,11,7,8,5",,GRAND_SLAM,WS,57,Qualification,ELDAWLATLY Nadeen (EGY),MONDAL Soumi (IND),ELDAWLATLY Nadeen
+Pro Tour Egypt Open Cairo 2010,2010-07-07,SABITOVA Valentina,NG Wing Nam,4,1,"11,13,7,12,12|9,11,11,10,10",,GRAND_SLAM,WS,57,Qualification,SABITOVA Valentina (RUS),NG Wing Nam (HKG),SABITOVA Valentina
+Pro Tour Egypt Open Cairo 2010,2010-07-07,NG Wing Nam,MAGDY Raghd,4,0,"11,11,11,11|6,3,5,3",,GRAND_SLAM,WS,57,Qualification,NG Wing Nam (HKG),MAGDY Raghd (EGY),NG Wing Nam
+Pro Tour Egypt Open Cairo 2010,2010-07-07,SABITOVA Valentina,MAGDY Raghd,4,2,"7,9,11,11,11,12|11,11,8,8,5,10",,GRAND_SLAM,WS,57,Qualification,SABITOVA Valentina (RUS),MAGDY Raghd (EGY),SABITOVA Valentina
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ELSOKKARY Sara,NASSER Galila,4,1,"11,5,11,11,11|7,11,6,8,7",,GRAND_SLAM,WS,57,Qualification,ELSOKKARY Sara (EGY),NASSER Galila (EGY),ELSOKKARY Sara
+Pro Tour Egypt Open Cairo 2010,2010-07-07,GRZYBOWSKA-FRANC Katarzyna,ELSOKKARY Sara,4,1,"16,10,11,11,11|14,12,3,6,3",,GRAND_SLAM,WS,57,Qualification,GRZYBOWSKA-FRANC Katarzyna (POL),ELSOKKARY Sara (EGY),GRZYBOWSKA-FRANC Katarzyna
+Pro Tour Egypt Open Cairo 2010,2010-07-07,GRZYBOWSKA-FRANC Katarzyna,NASSER Galila,4,0,"11,11,11,13|1,6,6,11",,GRAND_SLAM,WS,57,Qualification,GRZYBOWSKA-FRANC Katarzyna (POL),NASSER Galila (EGY),GRZYBOWSKA-FRANC Katarzyna
+Pro Tour Egypt Open Cairo 2010,2010-07-07,PRIVALOVA Alexandra,DESHPANDE Divya,4,1,"16,11,11,7,11|14,8,8,11,7",,GRAND_SLAM,WS,57,Qualification,PRIVALOVA Alexandra (BLR),DESHPANDE Divya (IND),PRIVALOVA Alexandra
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ERMAKOVA Irina,ELDAWLATLY Dina,4,0,"11,11,11,11|9,6,4,7",,GRAND_SLAM,WS,57,Qualification,ERMAKOVA Irina (RUS),ELDAWLATLY Dina (EGY),ERMAKOVA Irina
+Pro Tour Egypt Open Cairo 2010,2010-07-07,PRIVALOVA Alexandra,ERMAKOVA Irina,4,3,"10,11,11,8,8,11,11|12,9,8,11,11,8,5",,GRAND_SLAM,WS,57,Qualification,PRIVALOVA Alexandra (BLR),ERMAKOVA Irina (RUS),PRIVALOVA Alexandra
+Pro Tour Egypt Open Cairo 2010,2010-07-07,DESHPANDE Divya,ELDAWLATLY Dina,4,1,"6,11,11,11,11|11,4,8,6,3",,GRAND_SLAM,WS,57,Qualification,DESHPANDE Divya (IND),ELDAWLATLY Dina (EGY),DESHPANDE Divya
+Pro Tour Egypt Open Cairo 2010,2010-07-07,PRIVALOVA Alexandra,ELDAWLATLY Dina,4,0,"11,11,11,11|6,8,5,8",,GRAND_SLAM,WS,57,Qualification,PRIVALOVA Alexandra (BLR),ELDAWLATLY Dina (EGY),PRIVALOVA Alexandra
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ERMAKOVA Irina,DESHPANDE Divya,4,0,"14,11,11,11|12,9,9,6",,GRAND_SLAM,WS,57,Qualification,ERMAKOVA Irina (RUS),DESHPANDE Divya (IND),ERMAKOVA Irina
+Pro Tour Egypt Open Cairo 2010,2010-07-07,CREEMERS Linda,AGGARWAL Neha,4,0,"11,11,11,11|8,5,6,7",,GRAND_SLAM,WS,57,Qualification,CREEMERS Linda (NED),AGGARWAL Neha (IND),CREEMERS Linda
+Pro Tour Egypt Open Cairo 2010,2010-07-07,DOAA Alia,METWALY Engy,4,0,,,GRAND_SLAM,WS,57,Qualification,DOAA Alia (EGY),METWALY Engy (EGY),DOAA Alia
+Pro Tour Egypt Open Cairo 2010,2010-07-07,CREEMERS Linda,DOAA Alia,4,0,"11,11,11,11|9,4,5,6",,GRAND_SLAM,WS,57,Qualification,CREEMERS Linda (NED),DOAA Alia (EGY),CREEMERS Linda
+Pro Tour Egypt Open Cairo 2010,2010-07-07,AGGARWAL Neha,METWALY Engy,4,0,,,GRAND_SLAM,WS,57,Qualification,AGGARWAL Neha (IND),METWALY Engy (EGY),AGGARWAL Neha
+Pro Tour Egypt Open Cairo 2010,2010-07-07,CREEMERS Linda,METWALY Engy,4,0,,,GRAND_SLAM,WS,57,Qualification,CREEMERS Linda (NED),METWALY Engy (EGY),CREEMERS Linda
+Pro Tour Egypt Open Cairo 2010,2010-07-07,AGGARWAL Neha,DOAA Alia,4,1,"11,11,11,11,11|6,7,13,2,8",,GRAND_SLAM,WS,57,Qualification,AGGARWAL Neha (IND),DOAA Alia (EGY),AGGARWAL Neha
+Pro Tour Egypt Open Cairo 2010,2010-07-07,DAS Mouma,KARAGODINA Inna,4,1,"11,5,11,11,11|8,11,9,7,9",,GRAND_SLAM,WS,57,Qualification,DAS Mouma (IND),KARAGODINA Inna (BLR),DAS Mouma
+Pro Tour Egypt Open Cairo 2010,2010-07-07,HASSAN Sara,YOUSSEF Rawan,4,0,,,GRAND_SLAM,WS,57,Qualification,HASSAN Sara (EGY),YOUSSEF Rawan (EGY),HASSAN Sara
+Pro Tour Egypt Open Cairo 2010,2010-07-07,DAS Mouma,HASSAN Sara,4,2,"11,8,11,11,7,11|6,11,5,7,11,2",,GRAND_SLAM,WS,57,Qualification,DAS Mouma (IND),HASSAN Sara (EGY),DAS Mouma
+Pro Tour Egypt Open Cairo 2010,2010-07-07,KARAGODINA Inna,YOUSSEF Rawan,4,0,,,GRAND_SLAM,WS,57,Qualification,KARAGODINA Inna (BLR),YOUSSEF Rawan (EGY),KARAGODINA Inna
+Pro Tour Egypt Open Cairo 2010,2010-07-07,DAS Mouma,YOUSSEF Rawan,4,0,,,GRAND_SLAM,WS,57,Qualification,DAS Mouma (IND),YOUSSEF Rawan (EGY),DAS Mouma
+Pro Tour Egypt Open Cairo 2010,2010-07-07,HASSAN Sara,KARAGODINA Inna,4,1,"11,11,15,8,11|5,8,13,11,5",,GRAND_SLAM,WS,57,Qualification,HASSAN Sara (EGY),KARAGODINA Inna (BLR),HASSAN Sara
+Pro Tour Egypt Open Cairo 2010,2010-07-07,GUAN Mengyuan,YOUSRY Noha,4,0,"11,11,11,11|9,3,4,6",,GRAND_SLAM,WS,57,Qualification,GUAN Mengyuan (HKG),YOUSRY Noha (EGY),GUAN Mengyuan
+Pro Tour Egypt Open Cairo 2010,2010-07-07,VOROBEVA Olga,ANTONAVA Antanina,4,0,"11,11,14,12|6,9,12,10",,GRAND_SLAM,WS,57,Qualification,VOROBEVA Olga (RUS),ANTONAVA Antanina (BLR),VOROBEVA Olga
+Pro Tour Egypt Open Cairo 2010,2010-07-07,GUAN Mengyuan,VOROBEVA Olga,4,0,"11,11,11,11|5,2,4,9",,GRAND_SLAM,WS,57,Qualification,GUAN Mengyuan (HKG),VOROBEVA Olga (RUS),GUAN Mengyuan
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ANTONAVA Antanina,YOUSRY Noha,4,2,"2,11,11,12,13,11|11,5,8,10,15,9",,GRAND_SLAM,WS,57,Qualification,ANTONAVA Antanina (BLR),YOUSRY Noha (EGY),ANTONAVA Antanina
+Pro Tour Egypt Open Cairo 2010,2010-07-07,GUAN Mengyuan,ANTONAVA Antanina,4,0,"11,11,11,11|9,5,5,6",,GRAND_SLAM,WS,57,Qualification,GUAN Mengyuan (HKG),ANTONAVA Antanina (BLR),GUAN Mengyuan
+Pro Tour Egypt Open Cairo 2010,2010-07-07,VOROBEVA Olga,YOUSRY Noha,4,0,"12,11,11,11|10,6,3,9",,GRAND_SLAM,WS,57,Qualification,VOROBEVA Olga (RUS),YOUSRY Noha (EGY),VOROBEVA Olga
+Pro Tour Egypt Open Cairo 2010,2010-07-07,DUBKOVA Elena,KUMARESAN Shamini,4,2,"7,11,11,11,6,11|11,9,8,8,11,4",,GRAND_SLAM,WS,57,Qualification,DUBKOVA Elena (BLR),KUMARESAN Shamini (IND),DUBKOVA Elena
+Pro Tour Egypt Open Cairo 2010,2010-07-07,ELSHOBARY Reem,ABDELAZIZ Shimaa,4,0,"11,14,12,11|2,12,10,9",,GRAND_SLAM,WS,57,Qualification,ELSHOBARY Reem (EGY),ABDELAZIZ Shimaa (EGY),ELSHOBARY Reem
+Pro Tour Egypt Open Cairo 2010,2010-07-07,DUBKOVA Elena,ELSHOBARY Reem,4,1,"11,11,11,8,11|5,6,3,11,6",,GRAND_SLAM,WS,57,Qualification,DUBKOVA Elena (BLR),ELSHOBARY Reem (EGY),DUBKOVA Elena
+Pro Tour Egypt Open Cairo 2010,2010-07-07,KUMARESAN Shamini,ABDELAZIZ Shimaa,4,1,"11,11,6,11,11|4,7,11,7,4",,GRAND_SLAM,WS,57,Qualification,KUMARESAN Shamini (IND),ABDELAZIZ Shimaa (EGY),KUMARESAN Shamini
+Pro Tour Egypt Open Cairo 2010,2010-07-07,DUBKOVA Elena,ABDELAZIZ Shimaa,4,0,"11,11,11,11|1,8,6,8",,GRAND_SLAM,WS,57,Qualification,DUBKOVA Elena (BLR),ABDELAZIZ Shimaa (EGY),DUBKOVA Elena
+Pro Tour Egypt Open Cairo 2010,2010-07-07,KUMARESAN Shamini,ELSHOBARY Reem,4,1,"11,11,11,4,11|7,4,5,11,5",,GRAND_SLAM,WS,57,Qualification,KUMARESAN Shamini (IND),ELSHOBARY Reem (EGY),KUMARESAN Shamini
+Pro Tour Egypt Open Cairo 2010,2010-07-07,GHATAK Poulomi,KOUREA Louiza,4,1,"11,11,11,9,11|1,5,9,11,5",,GRAND_SLAM,WS,57,Qualification,GHATAK Poulomi (IND),KOUREA Louiza (CYP),GHATAK Poulomi
+Pro Tour Egypt Open Cairo 2010,2010-07-07,YILDIRIM Fulya,ERMAKOVA Natalia,4,0,"11,11,11,12|5,5,6,10",,GRAND_SLAM,WS,57,Qualification,YILDIRIM Fulya (TUR),ERMAKOVA Natalia (RUS),YILDIRIM Fulya
+Pro Tour Egypt Open Cairo 2010,2010-07-07,GHATAK Poulomi,YILDIRIM Fulya,4,2,"11,4,12,11,9,11|7,11,10,4,11,8",,GRAND_SLAM,WS,57,Qualification,GHATAK Poulomi (IND),YILDIRIM Fulya (TUR),GHATAK Poulomi
+Pro Tour Egypt Open Cairo 2010,2010-07-07,KOUREA Louiza,ERMAKOVA Natalia,4,1,"11,11,9,11,11|9,9,11,8,9",,GRAND_SLAM,WS,57,Qualification,KOUREA Louiza (CYP),ERMAKOVA Natalia (RUS),KOUREA Louiza
+Pro Tour Egypt Open Cairo 2010,2010-07-07,GHATAK Poulomi,ERMAKOVA Natalia,4,0,"11,11,11,11|7,7,8,6",,GRAND_SLAM,WS,57,Qualification,GHATAK Poulomi (IND),ERMAKOVA Natalia (RUS),GHATAK Poulomi
+Pro Tour Egypt Open Cairo 2010,2010-07-07,YILDIRIM Fulya,KOUREA Louiza,4,1,"11,6,12,11,11|3,11,10,9,9",,GRAND_SLAM,WS,57,Qualification,YILDIRIM Fulya (TUR),KOUREA Louiza (CYP),YILDIRIM Fulya
+Pro Tour Egypt Open Cairo 2010,2010-07-07,NOUWEN Carla,PATKAR Madhurika,4,1,"11,11,8,11,11|7,2,11,6,7",,GRAND_SLAM,WS,57,Qualification,NOUWEN Carla (NED),PATKAR Madhurika (IND),NOUWEN Carla
+Pro Tour Egypt Open Cairo 2010,2010-07-07,SAID Mennatalla,SABRY Nermin,4,0,"12,11,11,11|10,9,7,4",,GRAND_SLAM,WS,57,Qualification,SAID Mennatalla (EGY),SABRY Nermin (EGY),SAID Mennatalla
+Pro Tour Egypt Open Cairo 2010,2010-07-07,NOUWEN Carla,SABRY Nermin,4,0,"11,12,11,11|5,10,4,4",,GRAND_SLAM,WS,57,Qualification,NOUWEN Carla (NED),SABRY Nermin (EGY),NOUWEN Carla
+Pro Tour Egypt Open Cairo 2010,2010-07-07,PATKAR Madhurika,SAID Mennatalla,4,0,"11,11,11,11|2,7,8,8",,GRAND_SLAM,WS,57,Qualification,PATKAR Madhurika (IND),SAID Mennatalla (EGY),PATKAR Madhurika
+Pro Tour Egypt Open Cairo 2010,2010-07-07,NOUWEN Carla,SAID Mennatalla,4,0,"11,11,11,14|4,1,7,12",,GRAND_SLAM,WS,57,Qualification,NOUWEN Carla (NED),SAID Mennatalla (EGY),NOUWEN Carla
+Pro Tour Egypt Open Cairo 2010,2010-07-07,PATKAR Madhurika,SABRY Nermin,4,1,"8,13,11,11,11|11,11,1,8,8",,GRAND_SLAM,WS,57,Qualification,PATKAR Madhurika (IND),SABRY Nermin (EGY),PATKAR Madhurika

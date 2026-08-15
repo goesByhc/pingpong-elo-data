@@ -1,28 +1,28 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Micronesian Games Palau 2010,2010-08-01,GEORGE Sasaki,JOSEPH Johnny,3,0,,R32,OTHER,MS,663,Main Draw,GEORGE Sasaki (FSM),JOSEPH Johnny (FSM)
-Micronesian Games Palau 2010,2010-08-01,TOM Antonio,MASAICHI Jonathon,3,0,,R32,OTHER,MS,663,Main Draw,TOM Antonio (FSM),MASAICHI Jonathon (GUM)
-Micronesian Games Palau 2010,2010-08-01,CADAG Edwin,OBED Tommy,3,0,,R32,OTHER,MS,663,Main Draw,CADAG Edwin (GUM),OBED Tommy (FSM)
-Micronesian Games Palau 2010,2010-08-01,LU Jun Luke,NGIRUOS Abba,3,0,,R16,OTHER,MS,663,Main Draw,LU Jun Luke (MNP),NGIRUOS Abba (PLW)
-Micronesian Games Palau 2010,2010-08-01,BURGOS Prudencio,DIOPULOS Pernis,3,0,,R16,OTHER,MS,663,Main Draw,BURGOS Prudencio (GUM),DIOPULOS Pernis (FSM)
-Micronesian Games Palau 2010,2010-08-01,SAUNDERS Sam,GEORGE Sasaki,3,0,,R16,OTHER,MS,663,Main Draw,SAUNDERS Sam (PLW),GEORGE Sasaki (FSM)
-Micronesian Games Palau 2010,2010-08-01,GURUNG Budhi,BURGOS Arman,3,0,,R16,OTHER,MS,663,Main Draw,GURUNG Budhi (MNP),BURGOS Arman (GUM)
-Micronesian Games Palau 2010,2010-08-01,GULLA Ramon,SIGRAH Kilafwakun,3,0,,R16,OTHER,MS,663,Main Draw,GULLA Ramon (PLW),SIGRAH Kilafwakun (FSM)
-Micronesian Games Palau 2010,2010-08-01,LIM Steven,TOM Antonio,3,0,,R16,OTHER,MS,663,Main Draw,LIM Steven (MNP),TOM Antonio (FSM)
-Micronesian Games Palau 2010,2010-08-01,CADAG Edwin,LIKIAKSA Winston,3,0,,R16,OTHER,MS,663,Main Draw,CADAG Edwin (GUM),LIKIAKSA Winston (FSM)
-Micronesian Games Palau 2010,2010-08-01,SU Yong Dong,MERIANG Dillon,3,0,,R16,OTHER,MS,663,Main Draw,SU Yong Dong (MNP),MERIANG Dillon (PLW)
-Micronesian Games Palau 2010,2010-08-01,LU Jun Luke,BURGOS Prudencio,3,0,,QF,OTHER,MS,663,Main Draw,LU Jun Luke (MNP),BURGOS Prudencio (GUM)
-Micronesian Games Palau 2010,2010-08-01,GURUNG Budhi,SAUNDERS Sam,3,0,,QF,OTHER,MS,663,Main Draw,GURUNG Budhi (MNP),SAUNDERS Sam (PLW)
-Micronesian Games Palau 2010,2010-08-01,GULLA Ramon,LIM Steven,3,0,,QF,OTHER,MS,663,Main Draw,GULLA Ramon (PLW),LIM Steven (MNP)
-Micronesian Games Palau 2010,2010-08-01,SU Yong Dong,CADAG Edwin,3,0,,QF,OTHER,MS,663,Main Draw,SU Yong Dong (MNP),CADAG Edwin (GUM)
-Micronesian Games Palau 2010,2010-08-01,LU Jun Luke,GURUNG Budhi,3,0,,SF,OTHER,MS,663,Main Draw,LU Jun Luke (MNP),GURUNG Budhi (MNP)
-Micronesian Games Palau 2010,2010-08-01,GULLA Ramon,SU Yong Dong,3,0,,SF,OTHER,MS,663,Main Draw,GULLA Ramon (PLW),SU Yong Dong (MNP)
-Micronesian Games Palau 2010,2010-08-01,LU Jun Luke,GULLA Ramon,3,0,,F,OTHER,MS,663,Main Draw,LU Jun Luke (MNP),GULLA Ramon (PLW)
-Micronesian Games Palau 2010,2010-08-01,TAITAGUE Arlene,ULITCH Kabidor,3,0,,R16,OTHER,WS,663,Main Draw,TAITAGUE Arlene (GUM),ULITCH Kabidor (PLW)
-Micronesian Games Palau 2010,2010-08-01,SAICK Erdina,VAN Valenzuela,3,0,,R16,OTHER,WS,663,Main Draw,SAICK Erdina (FSM),VAN Valenzuela (PLW)
-Micronesian Games Palau 2010,2010-08-01,WATANABE Jeramei,LICKIE Apilynn,3,0,,QF,OTHER,WS,663,Main Draw,WATANABE Jeramei (PLW),LICKIE Apilynn (FSM)
-Micronesian Games Palau 2010,2010-08-01,MADAKY Elnie,TAITAGUE Arlene,3,0,,QF,OTHER,WS,663,Main Draw,MADAKY Elnie (FSM),TAITAGUE Arlene (GUM)
-Micronesian Games Palau 2010,2010-08-01,NGIRCHOKEBAI Sierrae,SAICK Erdina,3,0,,QF,OTHER,WS,663,Main Draw,NGIRCHOKEBAI Sierrae (PLW),SAICK Erdina (FSM)
-Micronesian Games Palau 2010,2010-08-01,FRANZ Portiana,LEKKA Keila,3,0,,QF,OTHER,WS,663,Main Draw,FRANZ Portiana (PLW),LEKKA Keila (FSM)
-Micronesian Games Palau 2010,2010-08-01,WATANABE Jeramei,MADAKY Elnie,3,0,,SF,OTHER,WS,663,Main Draw,WATANABE Jeramei (PLW),MADAKY Elnie (FSM)
-Micronesian Games Palau 2010,2010-08-01,FRANZ Portiana,NGIRCHOKEBAI Sierrae,3,0,,SF,OTHER,WS,663,Main Draw,FRANZ Portiana (PLW),NGIRCHOKEBAI Sierrae (PLW)
-Micronesian Games Palau 2010,2010-08-01,WATANABE Jeramei,FRANZ Portiana,3,0,,F,OTHER,WS,663,Main Draw,WATANABE Jeramei (PLW),FRANZ Portiana (PLW)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Micronesian Games Palau 2010,2010-08-01,GEORGE Sasaki,JOSEPH Johnny,3,0,,R32,OTHER,MS,663,Main Draw,GEORGE Sasaki (FSM),JOSEPH Johnny (FSM),GEORGE Sasaki
+Micronesian Games Palau 2010,2010-08-01,TOM Antonio,MASAICHI Jonathon,3,0,,R32,OTHER,MS,663,Main Draw,TOM Antonio (FSM),MASAICHI Jonathon (GUM),TOM Antonio
+Micronesian Games Palau 2010,2010-08-01,CADAG Edwin,OBED Tommy,3,0,,R32,OTHER,MS,663,Main Draw,CADAG Edwin (GUM),OBED Tommy (FSM),CADAG Edwin
+Micronesian Games Palau 2010,2010-08-01,LU Jun Luke,NGIRUOS Abba,3,0,,R16,OTHER,MS,663,Main Draw,LU Jun Luke (MNP),NGIRUOS Abba (PLW),LU Jun Luke
+Micronesian Games Palau 2010,2010-08-01,BURGOS Prudencio,DIOPULOS Pernis,3,0,,R16,OTHER,MS,663,Main Draw,BURGOS Prudencio (GUM),DIOPULOS Pernis (FSM),BURGOS Prudencio
+Micronesian Games Palau 2010,2010-08-01,SAUNDERS Sam,GEORGE Sasaki,3,0,,R16,OTHER,MS,663,Main Draw,SAUNDERS Sam (PLW),GEORGE Sasaki (FSM),SAUNDERS Sam
+Micronesian Games Palau 2010,2010-08-01,GURUNG Budhi,BURGOS Arman,3,0,,R16,OTHER,MS,663,Main Draw,GURUNG Budhi (MNP),BURGOS Arman (GUM),GURUNG Budhi
+Micronesian Games Palau 2010,2010-08-01,GULLA Ramon,SIGRAH Kilafwakun,3,0,,R16,OTHER,MS,663,Main Draw,GULLA Ramon (PLW),SIGRAH Kilafwakun (FSM),GULLA Ramon
+Micronesian Games Palau 2010,2010-08-01,LIM Steven,TOM Antonio,3,0,,R16,OTHER,MS,663,Main Draw,LIM Steven (MNP),TOM Antonio (FSM),LIM Steven
+Micronesian Games Palau 2010,2010-08-01,CADAG Edwin,LIKIAKSA Winston,3,0,,R16,OTHER,MS,663,Main Draw,CADAG Edwin (GUM),LIKIAKSA Winston (FSM),CADAG Edwin
+Micronesian Games Palau 2010,2010-08-01,SU Yong Dong,MERIANG Dillon,3,0,,R16,OTHER,MS,663,Main Draw,SU Yong Dong (MNP),MERIANG Dillon (PLW),SU Yong Dong
+Micronesian Games Palau 2010,2010-08-01,LU Jun Luke,BURGOS Prudencio,3,0,,QF,OTHER,MS,663,Main Draw,LU Jun Luke (MNP),BURGOS Prudencio (GUM),LU Jun Luke
+Micronesian Games Palau 2010,2010-08-01,GURUNG Budhi,SAUNDERS Sam,3,0,,QF,OTHER,MS,663,Main Draw,GURUNG Budhi (MNP),SAUNDERS Sam (PLW),GURUNG Budhi
+Micronesian Games Palau 2010,2010-08-01,GULLA Ramon,LIM Steven,3,0,,QF,OTHER,MS,663,Main Draw,GULLA Ramon (PLW),LIM Steven (MNP),GULLA Ramon
+Micronesian Games Palau 2010,2010-08-01,SU Yong Dong,CADAG Edwin,3,0,,QF,OTHER,MS,663,Main Draw,SU Yong Dong (MNP),CADAG Edwin (GUM),SU Yong Dong
+Micronesian Games Palau 2010,2010-08-01,LU Jun Luke,GURUNG Budhi,3,0,,SF,OTHER,MS,663,Main Draw,LU Jun Luke (MNP),GURUNG Budhi (MNP),LU Jun Luke
+Micronesian Games Palau 2010,2010-08-01,GULLA Ramon,SU Yong Dong,3,0,,SF,OTHER,MS,663,Main Draw,GULLA Ramon (PLW),SU Yong Dong (MNP),GULLA Ramon
+Micronesian Games Palau 2010,2010-08-01,LU Jun Luke,GULLA Ramon,3,0,,F,OTHER,MS,663,Main Draw,LU Jun Luke (MNP),GULLA Ramon (PLW),LU Jun Luke
+Micronesian Games Palau 2010,2010-08-01,TAITAGUE Arlene,ULITCH Kabidor,3,0,,R16,OTHER,WS,663,Main Draw,TAITAGUE Arlene (GUM),ULITCH Kabidor (PLW),TAITAGUE Arlene
+Micronesian Games Palau 2010,2010-08-01,SAICK Erdina,VAN Valenzuela,3,0,,R16,OTHER,WS,663,Main Draw,SAICK Erdina (FSM),VAN Valenzuela (PLW),SAICK Erdina
+Micronesian Games Palau 2010,2010-08-01,WATANABE Jeramei,LICKIE Apilynn,3,0,,QF,OTHER,WS,663,Main Draw,WATANABE Jeramei (PLW),LICKIE Apilynn (FSM),WATANABE Jeramei
+Micronesian Games Palau 2010,2010-08-01,MADAKY Elnie,TAITAGUE Arlene,3,0,,QF,OTHER,WS,663,Main Draw,MADAKY Elnie (FSM),TAITAGUE Arlene (GUM),MADAKY Elnie
+Micronesian Games Palau 2010,2010-08-01,NGIRCHOKEBAI Sierrae,SAICK Erdina,3,0,,QF,OTHER,WS,663,Main Draw,NGIRCHOKEBAI Sierrae (PLW),SAICK Erdina (FSM),NGIRCHOKEBAI Sierrae
+Micronesian Games Palau 2010,2010-08-01,FRANZ Portiana,LEKKA Keila,3,0,,QF,OTHER,WS,663,Main Draw,FRANZ Portiana (PLW),LEKKA Keila (FSM),FRANZ Portiana
+Micronesian Games Palau 2010,2010-08-01,WATANABE Jeramei,MADAKY Elnie,3,0,,SF,OTHER,WS,663,Main Draw,WATANABE Jeramei (PLW),MADAKY Elnie (FSM),WATANABE Jeramei
+Micronesian Games Palau 2010,2010-08-01,FRANZ Portiana,NGIRCHOKEBAI Sierrae,3,0,,SF,OTHER,WS,663,Main Draw,FRANZ Portiana (PLW),NGIRCHOKEBAI Sierrae (PLW),FRANZ Portiana
+Micronesian Games Palau 2010,2010-08-01,WATANABE Jeramei,FRANZ Portiana,3,0,,F,OTHER,WS,663,Main Draw,WATANABE Jeramei (PLW),FRANZ Portiana (PLW),WATANABE Jeramei

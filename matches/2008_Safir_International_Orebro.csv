@@ -1,375 +1,375 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Safir International Orebro 2008,2008-02-20,LEE Seungjun,INDEHERBERG Julien,3,1,"11,11,10,11|9,8,12,9",R64,OTHER,JBD,792,Main Draw,LEE Seungjun (KOR),INDEHERBERG Julien (BEL)
-Safir International Orebro 2008,2008-02-20,KARAS David,EVANS Gavin,3,2,"14,11,4,7,11|12,8,11,11,5",R64,OTHER,JBD,792,Main Draw,KARAS David (SVK),EVANS Gavin (ENG)
-Safir International Orebro 2008,2008-02-20,ARVIDSSON Simon,DONADO Josue,3,0,"11,12,14|4,10,12",R16,OTHER,JBD,792,Main Draw,ARVIDSSON Simon (SWE),DONADO Josue (ESA)
-Safir International Orebro 2008,2008-02-20,NOMURA Taiyo,GROTH Jonathan,3,0,"11,11,11|2,6,9",QF,OTHER,JBD,792,Main Draw,NOMURA Taiyo (JPN),GROTH Jonathan (DEN)
-Safir International Orebro 2008,2008-02-20,AGUIRRE Marcelo,ANDERSSON Harald,3,2,"12,8,11,5,12|10,11,6,11,10",R32,OTHER,JBD,792,Main Draw,AGUIRRE Marcelo (PAR),ANDERSSON Harald (SWE)
-Safir International Orebro 2008,2008-02-20,AGUIRRE Marcelo,DROP Clement,3,2,"12,8,11,10,11|10,11,7,12,9",R16,OTHER,JBD,792,Main Draw,AGUIRRE Marcelo (PAR),DROP Clement (FRA)
-Safir International Orebro 2008,2008-02-20,KARLSSON Kristian,AGUIRRE Marcelo,3,0,"11,12,11|9,10,9",SF,OTHER,JBD,792,Main Draw,KARLSSON Kristian (SWE),AGUIRRE Marcelo (PAR)
-Safir International Orebro 2008,2008-02-20,BIERNY Ludovic,SIRUCEK Pavel,3,0,"11,12,11|6,10,9",R64,OTHER,JBD,792,Main Draw,BIERNY Ludovic (BEL),SIRUCEK Pavel (CZE)
-Safir International Orebro 2008,2008-02-20,HAM Sori,BIERNY Ludovic,3,1,"11,9,11,11|8,11,3,8",R32,OTHER,JBD,792,Main Draw,HAM Sori (KOR),BIERNY Ludovic (BEL)
-Safir International Orebro 2008,2008-02-20,DONADO Josue,CULLEN Sean,3,0,"11,12,11|8,10,4",R32,OTHER,JBD,792,Main Draw,DONADO Josue (ESA),CULLEN Sean (ENG)
-Safir International Orebro 2008,2008-02-20,AKESSON Anton,KIM Jihwan,3,0,"12,11,11|10,9,2",R64,OTHER,JBD,792,Main Draw,AKESSON Anton (SWE),KIM Jihwan (KOR)
-Safir International Orebro 2008,2008-02-20,AKESSON Anton,OTSUKA Masahiro,3,0,"11,11,11|9,7,4",R32,OTHER,JBD,792,Main Draw,AKESSON Anton (SWE),OTSUKA Masahiro (JPN)
-Safir International Orebro 2008,2008-02-20,KOSIBA Daniel,BOROVIK Alexandr,3,0,"11,12,11|4,10,4",R32,OTHER,JBD,792,Main Draw,KOSIBA Daniel (HUN),BOROVIK Alexandr (RUS)
-Safir International Orebro 2008,2008-02-20,KOSIBA Daniel,AKESSON Anton,3,1,"13,11,6,13|11,9,11,11",R16,OTHER,JBD,792,Main Draw,KOSIBA Daniel (HUN),AKESSON Anton (SWE)
-Safir International Orebro 2008,2008-02-20,KARLSSON Kristian,KOSIBA Daniel,3,0,"11,11,11|7,6,7",QF,OTHER,JBD,792,Main Draw,KARLSSON Kristian (SWE),KOSIBA Daniel (HUN)
-Safir International Orebro 2008,2008-02-20,EFIMOV Vitaly,BISI Paolo,3,0,"11,11,11|9,8,2",R64,OTHER,JBD,792,Main Draw,EFIMOV Vitaly (POR),BISI Paolo (ITA)
-Safir International Orebro 2008,2008-02-20,DROP Clement,MACHI Asuka,3,1,"11,9,14,12|8,11,12,10",R32,OTHER,JBD,792,Main Draw,DROP Clement (FRA),MACHI Asuka (JPN)
-Safir International Orebro 2008,2008-02-20,LEE Seungjun,GAMMELMARK Casper,3,0,"11,11,11|7,2,8",R32,OTHER,JBD,792,Main Draw,LEE Seungjun (KOR),GAMMELMARK Casper (DEN)
-Safir International Orebro 2008,2008-02-20,MERZLIKIN Taras,KIM Minjoo,3,0,"11,11,11|7,2,7",R32,OTHER,JBD,792,Main Draw,MERZLIKIN Taras (RUS),KIM Minjoo (KOR)
-Safir International Orebro 2008,2008-02-20,ARVIDSSON Simon,HAM Sori,3,1,"12,11,5,11|10,9,11,6",QF,OTHER,JBD,792,Main Draw,ARVIDSSON Simon (SWE),HAM Sori (KOR)
-Safir International Orebro 2008,2008-02-20,JEAN Lauric,MUTTI Leonardo,3,1,"9,11,11,11|11,6,4,7",R64,OTHER,JBD,792,Main Draw,JEAN Lauric (BEL),MUTTI Leonardo (ITA)
-Safir International Orebro 2008,2008-02-20,NOMURA Taiyo,JEAN Lauric,3,1,"11,11,14,11|4,7,16,4",R32,OTHER,JBD,792,Main Draw,NOMURA Taiyo (JPN),JEAN Lauric (BEL)
-Safir International Orebro 2008,2008-02-20,ANDERSSON Harald,ALTENBURG Olivier,3,1,"13,11,10,15|11,8,12,13",R64,OTHER,JBD,792,Main Draw,ANDERSSON Harald (SWE),ALTENBURG Olivier (NED)
-Safir International Orebro 2008,2008-02-20,CARVALHO Diogo,FJELL Hallvard,3,1,"11,11,11,11|7,6,13,8",R64,OTHER,JBD,792,Main Draw,CARVALHO Diogo (POR),FJELL Hallvard (NOR)
-Safir International Orebro 2008,2008-02-20,CHOJNOWSKI Patryk,BARBOSA Jose,3,2,"11,9,10,11,11|6,11,12,4,8",R32,OTHER,JBD,792,Main Draw,CHOJNOWSKI Patryk (POL),BARBOSA Jose (BRA)
-Safir International Orebro 2008,2008-02-20,CHODORSKI Piotr,EFIMOV Vitaly,3,1,"11,10,11,11|7,12,8,4",R32,OTHER,JBD,792,Main Draw,CHODORSKI Piotr (POL),EFIMOV Vitaly (POR)
-Safir International Orebro 2008,2008-02-20,GOLEBIOWSKI Mateusz,LE BRETON Thomas,3,1,"11,9,11,12|9,11,9,10",R32,OTHER,JBD,792,Main Draw,GOLEBIOWSKI Mateusz (POL),LE BRETON Thomas (FRA)
-Safir International Orebro 2008,2008-02-20,CHOJNOWSKI Patryk,LEE Seungjun,3,2,"10,11,11,4,13|12,7,6,11,11",R16,OTHER,JBD,792,Main Draw,CHOJNOWSKI Patryk (POL),LEE Seungjun (KOR)
-Safir International Orebro 2008,2008-02-20,HAM Sori,CHODORSKI Piotr,3,1,"10,11,11,11|12,9,8,9",R16,OTHER,JBD,792,Main Draw,HAM Sori (KOR),CHODORSKI Piotr (POL)
-Safir International Orebro 2008,2008-02-20,GROTH Jonathan,GOLEBIOWSKI Mateusz,3,2,"7,12,10,11,11|11,10,12,9,5",R16,OTHER,JBD,792,Main Draw,GROTH Jonathan (DEN),GOLEBIOWSKI Mateusz (POL)
-Safir International Orebro 2008,2008-02-20,AGUIRRE Marcelo,CHOJNOWSKI Patryk,3,2,"11,11,9,10,12|7,6,11,12,10",QF,OTHER,JBD,792,Main Draw,AGUIRRE Marcelo (PAR),CHOJNOWSKI Patryk (POL)
-Safir International Orebro 2008,2008-02-20,KARLSSON Kristian,CARVALHO Diogo,3,0,"11,11,12|9,8,10",R16,OTHER,JBD,792,Main Draw,KARLSSON Kristian (SWE),CARVALHO Diogo (POR)
-Safir International Orebro 2008,2008-02-20,DAHLGREN Jakob,DE JESUS Edgard,3,0,"11,11,11|8,7,7",R64,OTHER,JBD,792,Main Draw,DAHLGREN Jakob (SWE),DE JESUS Edgard (PUR)
-Safir International Orebro 2008,2008-02-20,CARVALHO Diogo,GONZALEZ Daniel,3,2,"9,12,8,13,11|11,10,11,11,3",R32,OTHER,JBD,792,Main Draw,CARVALHO Diogo (POR),GONZALEZ Daniel (PUR)
-Safir International Orebro 2008,2008-02-20,MACHI Asuka,TIMOSHIN Bogdan,3,1,"11,7,13,11|4,11,11,9",R64,OTHER,JBD,792,Main Draw,MACHI Asuka (JPN),TIMOSHIN Bogdan (RUS)
-Safir International Orebro 2008,2008-02-20,BOROVIK Alexandr,LUINI Jason,3,0,"11,11,11|9,7,9",R64,OTHER,JBD,792,Main Draw,BOROVIK Alexandr (RUS),LUINI Jason (ITA)
-Safir International Orebro 2008,2008-02-20,NOMURA Taiyo,MERZLIKIN Taras,3,0,"11,11,11|6,1,7",R16,OTHER,JBD,792,Main Draw,NOMURA Taiyo (JPN),MERZLIKIN Taras (RUS)
-Safir International Orebro 2008,2008-02-20,DONADO Josue,EIHMANS Gints,3,0,,R64,OTHER,JBD,792,Main Draw,DONADO Josue (ESA),EIHMANS Gints (LAT)
-Safir International Orebro 2008,2008-02-20,JEZO Filip,TER LUUN Casper,3,1,"11,9,11,11|5,11,8,9",R64,OTHER,JBD,792,Main Draw,JEZO Filip (SVK),TER LUUN Casper (NED)
-Safir International Orebro 2008,2008-02-20,KARLSSON Kristian,KARAS David,3,1,"13,11,7,12|11,5,11,10",R32,OTHER,JBD,792,Main Draw,KARLSSON Kristian (SWE),KARAS David (SVK)
-Safir International Orebro 2008,2008-02-20,ARVIDSSON Simon,JEZO Filip,3,2,"11,5,11,9,11|4,11,5,11,8",R32,OTHER,JBD,792,Main Draw,ARVIDSSON Simon (SWE),JEZO Filip (SVK)
-Safir International Orebro 2008,2008-02-20,MERZLIKIN Taras,SODERLUND Hampus,3,0,"14,11,11|12,6,9",R64,OTHER,JBD,792,Main Draw,MERZLIKIN Taras (RUS),SODERLUND Hampus (SWE)
-Safir International Orebro 2008,2008-02-20,GROTH Jonathan,DAHLGREN Jakob,3,0,"11,11,11|6,6,5",R32,OTHER,JBD,792,Main Draw,GROTH Jonathan (DEN),DAHLGREN Jakob (SWE)
-Safir International Orebro 2008,2008-02-20,NOMURA Taiyo,ARVIDSSON Simon,3,0,"11,11,11|9,9,8",SF,OTHER,JBD,792,Main Draw,NOMURA Taiyo (JPN),ARVIDSSON Simon (SWE)
-Safir International Orebro 2008,2008-02-20,KARLSSON Kristian,NOMURA Taiyo,3,1,"11,11,8,11|9,3,11,7",F,OTHER,JBD,792,Main Draw,KARLSSON Kristian (SWE),NOMURA Taiyo (JPN)
-Safir International Orebro 2008,2008-02-20,LE BRETON Thomas,CHAIEB Oussama,3,0,"11,11,11|8,3,7",R64,OTHER,JBD,792,Main Draw,LE BRETON Thomas (FRA),CHAIEB Oussama (TUN)
-Safir International Orebro 2008,2008-02-20,DROP Clement,GRACIA Carlos,3,0,"11,11,11|6,9,7",,OTHER,JBS,792,Qualification,DROP Clement (FRA),GRACIA Carlos (PUR)
-Safir International Orebro 2008,2008-02-20,DAHLGREN Jakob,TATULLI Frizzo,3,0,"14,11,11|12,9,9",QR2,OTHER,JBS,792,Qualification,DAHLGREN Jakob (SWE),TATULLI Frizzo (ITA)
-Safir International Orebro 2008,2008-02-20,DROP Clement,DAHLGREN Jakob,3,0,"12,11,12|8,6,10",3,OTHER,JBS,792,Qualification,DROP Clement (FRA),DAHLGREN Jakob (SWE)
-Safir International Orebro 2008,2008-02-20,TATULLI Frizzo,GRACIA Carlos,3,0,"11,11,11|6,9,8",QR4,OTHER,JBS,792,Qualification,TATULLI Frizzo (ITA),GRACIA Carlos (PUR)
-Safir International Orebro 2008,2008-02-20,DROP Clement,TATULLI Frizzo,3,0,"13,16,12|11,14,10",5,OTHER,JBS,792,Qualification,DROP Clement (FRA),TATULLI Frizzo (ITA)
-Safir International Orebro 2008,2008-02-20,DAHLGREN Jakob,GRACIA Carlos,3,1,"8,11,11,11|11,9,6,6",6,OTHER,JBS,792,Qualification,DAHLGREN Jakob (SWE),GRACIA Carlos (PUR)
-Safir International Orebro 2008,2008-02-20,KOSIBA Daniel,TORRES Roberto,3,0,"11,11,11|7,5,4",,OTHER,JBS,792,Qualification,KOSIBA Daniel (HUN),TORRES Roberto (PER)
-Safir International Orebro 2008,2008-02-20,VANROSSOMME Emilien,AKESSON Anton,3,1,"11,9,11,11|4,11,5,9",QR2,OTHER,JBS,792,Qualification,VANROSSOMME Emilien (BEL),AKESSON Anton (SWE)
-Safir International Orebro 2008,2008-02-20,VANROSSOMME Emilien,TORRES Roberto,3,0,"11,11,11|9,6,6",QR4,OTHER,JBS,792,Qualification,VANROSSOMME Emilien (BEL),TORRES Roberto (PER)
-Safir International Orebro 2008,2008-02-20,KOSIBA Daniel,VANROSSOMME Emilien,3,1,"15,8,11,11|13,11,3,4",5,OTHER,JBS,792,Qualification,KOSIBA Daniel (HUN),VANROSSOMME Emilien (BEL)
-Safir International Orebro 2008,2008-02-20,AKESSON Anton,TORRES Roberto,3,0,"11,11,14|6,6,12",6,OTHER,JBS,792,Qualification,AKESSON Anton (SWE),TORRES Roberto (PER)
-Safir International Orebro 2008,2008-02-20,ARVIDSSON Simon,BARBOSA Jose,3,1,"21,11,5,11|18,8,11,8",,OTHER,JBS,792,Qualification,ARVIDSSON Simon (SWE),BARBOSA Jose (BRA)
-Safir International Orebro 2008,2008-02-20,LAXBY Henrik,TIMOSHIN Bogdan,3,0,"11,11,11|5,1,7",QR2,OTHER,JBS,792,Qualification,LAXBY Henrik (DEN),TIMOSHIN Bogdan (RUS)
-Safir International Orebro 2008,2008-02-20,ARVIDSSON Simon,LAXBY Henrik,3,1,"11,12,11,11|6,14,9,3",3,OTHER,JBS,792,Qualification,ARVIDSSON Simon (SWE),LAXBY Henrik (DEN)
-Safir International Orebro 2008,2008-02-20,BARBOSA Jose,TIMOSHIN Bogdan,3,0,"12,12,11|4,10,5",QR4,OTHER,JBS,792,Qualification,BARBOSA Jose (BRA),TIMOSHIN Bogdan (RUS)
-Safir International Orebro 2008,2008-02-20,ARVIDSSON Simon,TIMOSHIN Bogdan,3,1,"11,11,11,11|13,8,6,7",5,OTHER,JBS,792,Qualification,ARVIDSSON Simon (SWE),TIMOSHIN Bogdan (RUS)
-Safir International Orebro 2008,2008-02-20,BARBOSA Jose,LAXBY Henrik,3,0,"11,11,13|7,9,11",6,OTHER,JBS,792,Qualification,BARBOSA Jose (BRA),LAXBY Henrik (DEN)
-Safir International Orebro 2008,2008-02-20,FLORAS Robert,ALTENBURG Olivier,3,0,"12,11,12|4,7,10",,OTHER,JBS,792,Qualification,FLORAS Robert (POL),ALTENBURG Olivier (NED)
-Safir International Orebro 2008,2008-02-20,TAZOE Kenta,SEKERA Tibor,3,2,"16,6,1,11,11|14,11,11,4,7",QR2,OTHER,JBS,792,Qualification,TAZOE Kenta (JPN),SEKERA Tibor (SVK)
-Safir International Orebro 2008,2008-02-20,FLORAS Robert,SEKERA Tibor,3,0,"11,11,12|9,8,10",3,OTHER,JBS,792,Qualification,FLORAS Robert (POL),SEKERA Tibor (SVK)
-Safir International Orebro 2008,2008-02-20,TAZOE Kenta,ALTENBURG Olivier,3,1,"11,5,11,13|9,11,9,11",QR4,OTHER,JBS,792,Qualification,TAZOE Kenta (JPN),ALTENBURG Olivier (NED)
-Safir International Orebro 2008,2008-02-20,TAZOE Kenta,FLORAS Robert,3,2,"5,11,11,9,11|11,7,9,11,6",5,OTHER,JBS,792,Qualification,TAZOE Kenta (JPN),FLORAS Robert (POL)
-Safir International Orebro 2008,2008-02-20,SEKERA Tibor,ALTENBURG Olivier,3,0,"11,11,11|7,4,5",6,OTHER,JBS,792,Qualification,SEKERA Tibor (SVK),ALTENBURG Olivier (NED)
-Safir International Orebro 2008,2008-02-20,KARLSSON Mattias,BRATLIE Johannes,3,1,"11,11,3,11|7,7,11,6",,OTHER,JBS,792,Qualification,KARLSSON Mattias (SWE),BRATLIE Johannes (NOR)
-Safir International Orebro 2008,2008-02-20,VALEEV Marsel,VAN DER LEE Nathan,3,2,"11,11,9,8,12|9,4,11,11,10",QR2,OTHER,JBS,792,Qualification,VALEEV Marsel (RUS),VAN DER LEE Nathan (NED)
-Safir International Orebro 2008,2008-02-20,KARLSSON Mattias,VAN DER LEE Nathan,3,0,"11,11,11|4,5,8",3,OTHER,JBS,792,Qualification,KARLSSON Mattias (SWE),VAN DER LEE Nathan (NED)
-Safir International Orebro 2008,2008-02-20,VALEEV Marsel,BRATLIE Johannes,3,1,"11,11,7,11|8,8,11,5",QR4,OTHER,JBS,792,Qualification,VALEEV Marsel (RUS),BRATLIE Johannes (NOR)
-Safir International Orebro 2008,2008-02-20,KARLSSON Mattias,VALEEV Marsel,3,0,"11,11,11|5,6,9",5,OTHER,JBS,792,Qualification,KARLSSON Mattias (SWE),VALEEV Marsel (RUS)
-Safir International Orebro 2008,2008-02-20,VAN DER LEE Nathan,BRATLIE Johannes,3,0,"14,11,11|12,8,9",6,OTHER,JBS,792,Qualification,VAN DER LEE Nathan (NED),BRATLIE Johannes (NOR)
-Safir International Orebro 2008,2008-02-20,TRAN Anthony,EVANS Gavin,3,0,"11,11,12|2,6,10",,OTHER,JBS,792,Qualification,TRAN Anthony (SWE),EVANS Gavin (ENG)
-Safir International Orebro 2008,2008-02-20,NIWA Koki,ZHIDKOV Ilya,3,1,"12,8,11,11|7,11,6,3",QR2,OTHER,JBS,792,Qualification,NIWA Koki (JPN),ZHIDKOV Ilya (RUS)
-Safir International Orebro 2008,2008-02-20,NIWA Koki,EVANS Gavin,3,0,"11,11,12|8,7,10",3,OTHER,JBS,792,Qualification,NIWA Koki (JPN),EVANS Gavin (ENG)
-Safir International Orebro 2008,2008-02-20,TRAN Anthony,ZHIDKOV Ilya,3,0,"11,11,11|4,5,7",QR4,OTHER,JBS,792,Qualification,TRAN Anthony (SWE),ZHIDKOV Ilya (RUS)
-Safir International Orebro 2008,2008-02-20,EVANS Gavin,ZHIDKOV Ilya,3,2,"11,11,10,6,11|5,7,12,11,9",5,OTHER,JBS,792,Qualification,EVANS Gavin (ENG),ZHIDKOV Ilya (RUS)
-Safir International Orebro 2008,2008-02-20,NIWA Koki,TRAN Anthony,3,0,"11,11,11|4,6,8",6,OTHER,JBS,792,Qualification,NIWA Koki (JPN),TRAN Anthony (SWE)
-Safir International Orebro 2008,2008-02-20,VILA BATISTA Juan,CHAIEB Oussama,3,0,"12,11,11|6,6,6",,OTHER,JBS,792,Qualification,VILA BATISTA Juan (DOM),CHAIEB Oussama (TUN)
-Safir International Orebro 2008,2008-02-20,MACHI Asuka,WARE Mathew,3,0,"11,11,11|7,7,4",QR2,OTHER,JBS,792,Qualification,MACHI Asuka (JPN),WARE Mathew (ENG)
-Safir International Orebro 2008,2008-02-20,MACHI Asuka,VILA BATISTA Juan,3,1,"11,10,11,11|6,12,6,3",3,OTHER,JBS,792,Qualification,MACHI Asuka (JPN),VILA BATISTA Juan (DOM)
-Safir International Orebro 2008,2008-02-20,WARE Mathew,CHAIEB Oussama,3,1,"11,6,11,11|6,11,8,3",QR4,OTHER,JBS,792,Qualification,WARE Mathew (ENG),CHAIEB Oussama (TUN)
-Safir International Orebro 2008,2008-02-20,WARE Mathew,VILA BATISTA Juan,3,2,"11,7,11,5,11|9,11,9,11,8",5,OTHER,JBS,792,Qualification,WARE Mathew (ENG),VILA BATISTA Juan (DOM)
-Safir International Orebro 2008,2008-02-20,MACHI Asuka,CHAIEB Oussama,3,0,"11,11,11|9,8,9",6,OTHER,JBS,792,Qualification,MACHI Asuka (JPN),CHAIEB Oussama (TUN)
-Safir International Orebro 2008,2008-02-20,LE BRETON Thomas,HMAM Adam,3,1,"12,11,10,11|5,4,12,7",,OTHER,JBS,792,Qualification,LE BRETON Thomas (FRA),HMAM Adam (TUN)
-Safir International Orebro 2008,2008-02-20,PITCHFORD Liam,SERETTI Damiano,3,0,"11,11,11|4,4,9",QR2,OTHER,JBS,792,Qualification,PITCHFORD Liam (ENG),SERETTI Damiano (ITA)
-Safir International Orebro 2008,2008-02-20,LE BRETON Thomas,PITCHFORD Liam,3,2,"14,6,13,11,11|16,11,11,6,4",3,OTHER,JBS,792,Qualification,LE BRETON Thomas (FRA),PITCHFORD Liam (ENG)
-Safir International Orebro 2008,2008-02-20,HMAM Adam,SERETTI Damiano,3,0,"11,11,11|7,7,6",QR4,OTHER,JBS,792,Qualification,HMAM Adam (TUN),SERETTI Damiano (ITA)
-Safir International Orebro 2008,2008-02-20,LE BRETON Thomas,SERETTI Damiano,3,0,"11,11,11|4,5,7",5,OTHER,JBS,792,Qualification,LE BRETON Thomas (FRA),SERETTI Damiano (ITA)
-Safir International Orebro 2008,2008-02-20,HMAM Adam,PITCHFORD Liam,3,0,"11,11,12|6,9,10",6,OTHER,JBS,792,Qualification,HMAM Adam (TUN),PITCHFORD Liam (ENG)
-Safir International Orebro 2008,2008-02-20,OVERSJO Mattias,HARTEL Pavol,3,0,"13,11,11|10,5,8",,OTHER,JBS,792,Qualification,OVERSJO Mattias (SWE),HARTEL Pavol (SVK)
-Safir International Orebro 2008,2008-02-20,SHIN Inchell,SAMOUILLAN Michael,3,1,"16,11,9,11|14,9,11,7",QR2,OTHER,JBS,792,Qualification,SHIN Inchell (KOR),SAMOUILLAN Michael (FRA)
-Safir International Orebro 2008,2008-02-20,OVERSJO Mattias,SAMOUILLAN Michael,3,2,"5,11,11,9,11|11,5,6,11,5",3,OTHER,JBS,792,Qualification,OVERSJO Mattias (SWE),SAMOUILLAN Michael (FRA)
-Safir International Orebro 2008,2008-02-20,SHIN Inchell,HARTEL Pavol,3,0,"11,11,11|5,8,6",QR4,OTHER,JBS,792,Qualification,SHIN Inchell (KOR),HARTEL Pavol (SVK)
-Safir International Orebro 2008,2008-02-20,SHIN Inchell,OVERSJO Mattias,3,1,"12,7,11,11|10,11,7,9",5,OTHER,JBS,792,Qualification,SHIN Inchell (KOR),OVERSJO Mattias (SWE)
-Safir International Orebro 2008,2008-02-20,SAMOUILLAN Michael,HARTEL Pavol,3,0,"11,11,11|6,5,4",6,OTHER,JBS,792,Qualification,SAMOUILLAN Michael (FRA),HARTEL Pavol (SVK)
-Safir International Orebro 2008,2008-02-20,KIM Jihwan,DONADO Josue,3,2,"11,11,12,8,11|5,8,14,11,6",,OTHER,JBS,792,Qualification,KIM Jihwan (KOR),DONADO Josue (ESA)
-Safir International Orebro 2008,2008-02-20,ROCHA Paulo,BIERNY Ludovic,3,1,"11,11,10,11|9,8,12,9",QR2,OTHER,JBS,792,Qualification,ROCHA Paulo (BRA),BIERNY Ludovic (BEL)
-Safir International Orebro 2008,2008-02-20,DONADO Josue,BIERNY Ludovic,3,1,"6,11,11,11|11,6,8,2",3,OTHER,JBS,792,Qualification,DONADO Josue (ESA),BIERNY Ludovic (BEL)
-Safir International Orebro 2008,2008-02-20,KIM Jihwan,ROCHA Paulo,3,0,"11,11,11|7,5,7",QR4,OTHER,JBS,792,Qualification,KIM Jihwan (KOR),ROCHA Paulo (BRA)
-Safir International Orebro 2008,2008-02-20,ROCHA Paulo,DONADO Josue,3,2,"11,7,11,11,11|13,11,8,7,6",5,OTHER,JBS,792,Qualification,ROCHA Paulo (BRA),DONADO Josue (ESA)
-Safir International Orebro 2008,2008-02-20,KIM Jihwan,BIERNY Ludovic,3,2,"11,9,11,11,11|7,11,13,6,5",6,OTHER,JBS,792,Qualification,KIM Jihwan (KOR),BIERNY Ludovic (BEL)
-Safir International Orebro 2008,2008-02-20,BRODD Viktor,GONZALEZ Daniel,3,0,"11,11,11|5,4,5",,OTHER,JBS,792,Qualification,BRODD Viktor (SWE),GONZALEZ Daniel (PUR)
-Safir International Orebro 2008,2008-02-20,LEE Seungjun,MCCREERY Paul,3,0,"11,11,11|9,5,4",QR2,OTHER,JBS,792,Qualification,LEE Seungjun (KOR),MCCREERY Paul (IRL)
-Safir International Orebro 2008,2008-02-20,LEE Seungjun,BRODD Viktor,3,2,"13,3,11,9,11|11,11,9,11,8",3,OTHER,JBS,792,Qualification,LEE Seungjun (KOR),BRODD Viktor (SWE)
-Safir International Orebro 2008,2008-02-20,MCCREERY Paul,GONZALEZ Daniel,3,0,"11,11,11|9,8,6",QR4,OTHER,JBS,792,Qualification,MCCREERY Paul (IRL),GONZALEZ Daniel (PUR)
-Safir International Orebro 2008,2008-02-20,BRODD Viktor,MCCREERY Paul,3,0,"11,11,11|7,8,5",5,OTHER,JBS,792,Qualification,BRODD Viktor (SWE),MCCREERY Paul (IRL)
-Safir International Orebro 2008,2008-02-20,LEE Seungjun,GONZALEZ Daniel,3,1,"11,11,9,11|4,8,11,9",6,OTHER,JBS,792,Qualification,LEE Seungjun (KOR),GONZALEZ Daniel (PUR)
-Safir International Orebro 2008,2008-02-20,AGUIRRE Marcelo,EIHMANS Gints,3,0,"11,11,11|7,9,7",,OTHER,JBS,792,Qualification,AGUIRRE Marcelo (PAR),EIHMANS Gints (LAT)
-Safir International Orebro 2008,2008-02-20,KILL Christian,PIETRI Richard,3,1,"12,8,11,11|7,11,6,8",QR2,OTHER,JBS,792,Qualification,KILL Christian (LUX),PIETRI Richard (PUR)
-Safir International Orebro 2008,2008-02-20,KILL Christian,AGUIRRE Marcelo,3,0,"11,11,11|8,9,8",3,OTHER,JBS,792,Qualification,KILL Christian (LUX),AGUIRRE Marcelo (PAR)
-Safir International Orebro 2008,2008-02-20,PIETRI Richard,EIHMANS Gints,3,2,"11,11,9,11,11|7,13,11,9,6",QR4,OTHER,JBS,792,Qualification,PIETRI Richard (PUR),EIHMANS Gints (LAT)
-Safir International Orebro 2008,2008-02-20,AGUIRRE Marcelo,PIETRI Richard,3,0,"11,11,11|3,8,9",5,OTHER,JBS,792,Qualification,AGUIRRE Marcelo (PAR),PIETRI Richard (PUR)
-Safir International Orebro 2008,2008-02-20,KILL Christian,EIHMANS Gints,3,0,"11,11,11|8,5,4",6,OTHER,JBS,792,Qualification,KILL Christian (LUX),EIHMANS Gints (LAT)
-Safir International Orebro 2008,2008-02-20,SEBESTYEN Peter,HAM Sori,3,1,"14,9,16,11|11,11,14,9",,OTHER,JBS,792,Qualification,SEBESTYEN Peter (HUN),HAM Sori (KOR)
-Safir International Orebro 2008,2008-02-20,SODERLUND Hampus,OTSUKA Masahiro,3,0,"12,11,11|7,5,4",QR2,OTHER,JBS,792,Qualification,SODERLUND Hampus (SWE),OTSUKA Masahiro (JPN)
-Safir International Orebro 2008,2008-02-20,SODERLUND Hampus,SEBESTYEN Peter,3,2,"11,9,12,12,11|9,11,10,14,9",3,OTHER,JBS,792,Qualification,SODERLUND Hampus (SWE),SEBESTYEN Peter (HUN)
-Safir International Orebro 2008,2008-02-20,HAM Sori,OTSUKA Masahiro,3,2,"11,11,11,7,11|13,4,5,11,4",QR4,OTHER,JBS,792,Qualification,HAM Sori (KOR),OTSUKA Masahiro (JPN)
-Safir International Orebro 2008,2008-02-20,SEBESTYEN Peter,OTSUKA Masahiro,3,2,"7,11,6,11,11|11,9,11,7,7",5,OTHER,JBS,792,Qualification,SEBESTYEN Peter (HUN),OTSUKA Masahiro (JPN)
-Safir International Orebro 2008,2008-02-20,SODERLUND Hampus,HAM Sori,3,1,"11,10,11,11|6,12,8,8",6,OTHER,JBS,792,Qualification,SODERLUND Hampus (SWE),HAM Sori (KOR)
-Safir International Orebro 2008,2008-02-20,JEAN Lauric,ANDERSSON Harald,3,2,"11,12,13,4,11|9,10,15,11,5",,OTHER,JBS,792,Qualification,JEAN Lauric (BEL),ANDERSSON Harald (SWE)
-Safir International Orebro 2008,2008-02-20,MERZLIKIN Taras,REENBERG Asbjorn,3,0,"12,11,13|1,4,11",QR2,OTHER,JBS,792,Qualification,MERZLIKIN Taras (RUS),REENBERG Asbjorn (DEN)
-Safir International Orebro 2008,2008-02-20,JEAN Lauric,MERZLIKIN Taras,3,2,"11,9,11,9,11|7,11,0,11,6",3,OTHER,JBS,792,Qualification,JEAN Lauric (BEL),MERZLIKIN Taras (RUS)
-Safir International Orebro 2008,2008-02-20,ANDERSSON Harald,REENBERG Asbjorn,3,2,"11,7,11,6,14|6,11,9,11,12",QR4,OTHER,JBS,792,Qualification,ANDERSSON Harald (SWE),REENBERG Asbjorn (DEN)
-Safir International Orebro 2008,2008-02-20,JEAN Lauric,REENBERG Asbjorn,3,0,"11,11,11|3,3,3",5,OTHER,JBS,792,Qualification,JEAN Lauric (BEL),REENBERG Asbjorn (DEN)
-Safir International Orebro 2008,2008-02-20,ANDERSSON Harald,MERZLIKIN Taras,3,1,"11,11,13,11|5,6,15,4",6,OTHER,JBS,792,Qualification,ANDERSSON Harald (SWE),MERZLIKIN Taras (RUS)
-Safir International Orebro 2008,2008-02-20,KIM Donghyun,LE GUEN Victorien,3,1,"5,13,11,11|12,11,9,7",,OTHER,JBS,792,Qualification,KIM Donghyun (KOR),LE GUEN Victorien (FRA)
-Safir International Orebro 2008,2008-02-20,HELLERUD Kristoffer,NUYTINCK Cedric,3,1,"15,7,11,11|12,11,7,9",QR2,OTHER,JBS,792,Qualification,HELLERUD Kristoffer (NOR),NUYTINCK Cedric (BEL)
-Safir International Orebro 2008,2008-02-20,HELLERUD Kristoffer,LE GUEN Victorien,3,0,"12,11,11|10,5,8",3,OTHER,JBS,792,Qualification,HELLERUD Kristoffer (NOR),LE GUEN Victorien (FRA)
-Safir International Orebro 2008,2008-02-20,KIM Donghyun,NUYTINCK Cedric,3,0,"11,11,11|4,7,7",QR4,OTHER,JBS,792,Qualification,KIM Donghyun (KOR),NUYTINCK Cedric (BEL)
-Safir International Orebro 2008,2008-02-20,NUYTINCK Cedric,LE GUEN Victorien,3,2,"11,8,11,6,16|3,11,8,11,14",5,OTHER,JBS,792,Qualification,NUYTINCK Cedric (BEL),LE GUEN Victorien (FRA)
-Safir International Orebro 2008,2008-02-20,KIM Donghyun,HELLERUD Kristoffer,3,0,"11,12,11|8,10,4",6,OTHER,JBS,792,Qualification,KIM Donghyun (KOR),HELLERUD Kristoffer (NOR)
-Safir International Orebro 2008,2008-02-20,KVIST Andreas,KOBES Kristian,3,1,"9,12,11,11|12,10,5,8",,OTHER,JBS,792,Qualification,KVIST Andreas (SWE),KOBES Kristian (SVK)
-Safir International Orebro 2008,2008-02-20,SIRUCEK Pavel,LIM Seyeol,3,0,"12,11,11|6,6,7",QR2,OTHER,JBS,792,Qualification,SIRUCEK Pavel (CZE),LIM Seyeol (KOR)
-Safir International Orebro 2008,2008-02-20,KOBES Kristian,SIRUCEK Pavel,3,0,"11,11,11|3,9,5",3,OTHER,JBS,792,Qualification,KOBES Kristian (SVK),SIRUCEK Pavel (CZE)
-Safir International Orebro 2008,2008-02-20,KVIST Andreas,LIM Seyeol,3,0,"11,11,11|8,4,1",QR4,OTHER,JBS,792,Qualification,KVIST Andreas (SWE),LIM Seyeol (KOR)
-Safir International Orebro 2008,2008-02-20,KOBES Kristian,LIM Seyeol,3,0,"11,11,11|6,5,9",5,OTHER,JBS,792,Qualification,KOBES Kristian (SVK),LIM Seyeol (KOR)
-Safir International Orebro 2008,2008-02-20,KVIST Andreas,SIRUCEK Pavel,3,0,"11,12,11|5,10,9",6,OTHER,JBS,792,Qualification,KVIST Andreas (SWE),SIRUCEK Pavel (CZE)
-Safir International Orebro 2008,2008-02-20,JEZO Filip,GAMMELMARK Casper,3,0,"12,11,11|8,7,7",,OTHER,JBS,792,Qualification,JEZO Filip (SVK),GAMMELMARK Casper (DEN)
-Safir International Orebro 2008,2008-02-20,BOROVIK Alexandr,MUTTI Leonardo,3,1,"13,7,11,11|10,11,5,7",QR2,OTHER,JBS,792,Qualification,BOROVIK Alexandr (RUS),MUTTI Leonardo (ITA)
-Safir International Orebro 2008,2008-02-20,BOROVIK Alexandr,JEZO Filip,3,2,"11,11,10,9,11|7,7,12,11,8",3,OTHER,JBS,792,Qualification,BOROVIK Alexandr (RUS),JEZO Filip (SVK)
-Safir International Orebro 2008,2008-02-20,GAMMELMARK Casper,MUTTI Leonardo,3,1,"11,7,12,11|7,11,10,7",QR4,OTHER,JBS,792,Qualification,GAMMELMARK Casper (DEN),MUTTI Leonardo (ITA)
-Safir International Orebro 2008,2008-02-20,JEZO Filip,MUTTI Leonardo,3,1,"11,10,11,11|7,12,6,7",5,OTHER,JBS,792,Qualification,JEZO Filip (SVK),MUTTI Leonardo (ITA)
-Safir International Orebro 2008,2008-02-20,BOROVIK Alexandr,GAMMELMARK Casper,3,2,"11,9,11,10,13|6,11,5,12,11",6,OTHER,JBS,792,Qualification,BOROVIK Alexandr (RUS),GAMMELMARK Casper (DEN)
-Safir International Orebro 2008,2008-02-20,LAVERGNE Paul,GROTH Jonathan,3,2,"12,9,11,10,11|9,11,9,12,8",,OTHER,JBS,792,Qualification,LAVERGNE Paul (FRA),GROTH Jonathan (DEN)
-Safir International Orebro 2008,2008-02-20,BISI Paolo,CULLEN Sean,3,0,"12,11,11|4,9,8",QR2,OTHER,JBS,792,Qualification,BISI Paolo (ITA),CULLEN Sean (ENG)
-Safir International Orebro 2008,2008-02-20,LAVERGNE Paul,BISI Paolo,3,2,"5,7,11,11,11|11,11,8,8,7",3,OTHER,JBS,792,Qualification,LAVERGNE Paul (FRA),BISI Paolo (ITA)
-Safir International Orebro 2008,2008-02-20,GROTH Jonathan,CULLEN Sean,3,2,"11,6,11,8,11|7,11,6,11,2",QR4,OTHER,JBS,792,Qualification,GROTH Jonathan (DEN),CULLEN Sean (ENG)
-Safir International Orebro 2008,2008-02-20,LAVERGNE Paul,CULLEN Sean,3,0,"11,11,11|3,6,4",5,OTHER,JBS,792,Qualification,LAVERGNE Paul (FRA),CULLEN Sean (ENG)
-Safir International Orebro 2008,2008-02-20,BISI Paolo,GROTH Jonathan,3,2,"11,8,11,12,11|7,11,9,14,7",6,OTHER,JBS,792,Qualification,BISI Paolo (ITA),GROTH Jonathan (DEN)
-Safir International Orebro 2008,2008-02-20,JENDRZEJEWSKI Patryk,INDEHERBERG Julien,3,2,"12,8,11,7,11|8,11,6,11,6",,OTHER,JBS,792,Qualification,JENDRZEJEWSKI Patryk (POL),INDEHERBERG Julien (BEL)
-Safir International Orebro 2008,2008-02-20,EFIMOV Vitaly,LUINI Jason,3,0,"12,11,11|6,7,5",QR2,OTHER,JBS,792,Qualification,EFIMOV Vitaly (POR),LUINI Jason (ITA)
-Safir International Orebro 2008,2008-02-20,EFIMOV Vitaly,JENDRZEJEWSKI Patryk,3,2,"7,11,11,10,11|11,9,6,12,9",3,OTHER,JBS,792,Qualification,EFIMOV Vitaly (POR),JENDRZEJEWSKI Patryk (POL)
-Safir International Orebro 2008,2008-02-20,INDEHERBERG Julien,LUINI Jason,3,0,"11,11,11|6,6,7",QR4,OTHER,JBS,792,Qualification,INDEHERBERG Julien (BEL),LUINI Jason (ITA)
-Safir International Orebro 2008,2008-02-20,JENDRZEJEWSKI Patryk,LUINI Jason,3,2,"12,5,11,2,13|10,11,7,11,11",5,OTHER,JBS,792,Qualification,JENDRZEJEWSKI Patryk (POL),LUINI Jason (ITA)
-Safir International Orebro 2008,2008-02-20,INDEHERBERG Julien,EFIMOV Vitaly,3,0,"11,11,11|6,6,5",6,OTHER,JBS,792,Qualification,INDEHERBERG Julien (BEL),EFIMOV Vitaly (POR)
-Safir International Orebro 2008,2008-02-20,VOLNY Karel,KARAS David,3,0,"12,11,11|6,9,5",,OTHER,JBS,792,Qualification,VOLNY Karel (CZE),KARAS David (SVK)
-Safir International Orebro 2008,2008-02-20,FJELL Hallvard,CARVALHO Diogo,3,2,"12,6,3,11,11|4,11,11,9,2",QR2,OTHER,JBS,792,Qualification,FJELL Hallvard (NOR),CARVALHO Diogo (POR)
-Safir International Orebro 2008,2008-02-20,FJELL Hallvard,VOLNY Karel,3,1,"11,11,4,11|4,2,11,9",3,OTHER,JBS,792,Qualification,FJELL Hallvard (NOR),VOLNY Karel (CZE)
-Safir International Orebro 2008,2008-02-20,CARVALHO Diogo,KARAS David,3,1,"8,12,11,11|11,10,8,1",QR4,OTHER,JBS,792,Qualification,CARVALHO Diogo (POR),KARAS David (SVK)
-Safir International Orebro 2008,2008-02-20,CARVALHO Diogo,VOLNY Karel,3,0,"11,11,11|7,5,8",5,OTHER,JBS,792,Qualification,CARVALHO Diogo (POR),VOLNY Karel (CZE)
-Safir International Orebro 2008,2008-02-20,FJELL Hallvard,KARAS David,3,0,"11,11,11|4,7,5",6,OTHER,JBS,792,Qualification,FJELL Hallvard (NOR),KARAS David (SVK)
-Safir International Orebro 2008,2008-02-20,TER LUUN Casper,FREITAS Luis Andre,3,2,"8,11,11,3,15|11,6,6,11,13",,OTHER,JBS,792,Qualification,TER LUUN Casper (NED),FREITAS Luis Andre (POR)
-Safir International Orebro 2008,2008-02-20,RECH DALDOSSO Marco,LAU Tobias,3,0,"13,11,11|10,1,5",QR2,OTHER,JBS,792,Qualification,RECH DALDOSSO Marco (ITA),LAU Tobias (DEN)
-Safir International Orebro 2008,2008-02-20,RECH DALDOSSO Marco,TER LUUN Casper,3,0,"11,12,11|9,10,9",3,OTHER,JBS,792,Qualification,RECH DALDOSSO Marco (ITA),TER LUUN Casper (NED)
-Safir International Orebro 2008,2008-02-20,LAU Tobias,FREITAS Luis Andre,3,2,"9,5,11,11,11|11,11,5,4,6",QR4,OTHER,JBS,792,Qualification,LAU Tobias (DEN),FREITAS Luis Andre (POR)
-Safir International Orebro 2008,2008-02-20,LAU Tobias,TER LUUN Casper,3,2,"9,11,11,11,11|11,13,8,9,6",5,OTHER,JBS,792,Qualification,LAU Tobias (DEN),TER LUUN Casper (NED)
-Safir International Orebro 2008,2008-02-20,RECH DALDOSSO Marco,FREITAS Luis Andre,3,0,"12,11,11|10,6,8",6,OTHER,JBS,792,Qualification,RECH DALDOSSO Marco (ITA),FREITAS Luis Andre (POR)
-Safir International Orebro 2008,2008-02-20,RESTREPO Juan,DE JESUS Edgard,3,0,"11,11,11|2,3,4",,OTHER,JBS,792,Qualification,RESTREPO Juan (COL),DE JESUS Edgard (PUR)
-Safir International Orebro 2008,2008-02-20,PINHO Diogo,KIM Minjoo,3,0,"12,11,11|5,8,7",QR2,OTHER,JBS,792,Qualification,PINHO Diogo (POR),KIM Minjoo (KOR)
-Safir International Orebro 2008,2008-02-20,RESTREPO Juan,PINHO Diogo,3,0,"11,13,11|9,11,8",3,OTHER,JBS,792,Qualification,RESTREPO Juan (COL),PINHO Diogo (POR)
-Safir International Orebro 2008,2008-02-20,KIM Minjoo,DE JESUS Edgard,3,0,"11,11,11|8,4,3",QR4,OTHER,JBS,792,Qualification,KIM Minjoo (KOR),DE JESUS Edgard (PUR)
-Safir International Orebro 2008,2008-02-20,RESTREPO Juan,KIM Minjoo,3,1,"9,11,11,11|11,1,6,7",5,OTHER,JBS,792,Qualification,RESTREPO Juan (COL),KIM Minjoo (KOR)
-Safir International Orebro 2008,2008-02-20,PINHO Diogo,DE JESUS Edgard,3,0,"11,11,11|6,3,9",6,OTHER,JBS,792,Qualification,PINHO Diogo (POR),DE JESUS Edgard (PUR)
-Safir International Orebro 2008,2008-02-20,ANDERSSON Harald,JEZO Filip,4,0,"12,16,11,11|10,14,7,3",R64,OTHER,JBS,792,Main Draw,ANDERSSON Harald (SWE),JEZO Filip (SVK)
-Safir International Orebro 2008,2008-02-20,LEE Seungjun,LAU Tobias,4,0,"11,11,11,11|7,7,7,8",R64,OTHER,JBS,792,Main Draw,LEE Seungjun (KOR),LAU Tobias (DEN)
-Safir International Orebro 2008,2008-02-20,NIWA Koki,BISI Paolo,4,0,"11,14,11,12|6,12,9,10",R64,OTHER,JBS,792,Main Draw,NIWA Koki (JPN),BISI Paolo (ITA)
-Safir International Orebro 2008,2008-02-20,OVERSJO Mattias,FJELL Hallvard,4,2,"9,11,11,11,13,11|11,9,13,7,11,9",R64,OTHER,JBS,792,Main Draw,OVERSJO Mattias (SWE),FJELL Hallvard (NOR)
-Safir International Orebro 2008,2008-02-20,FLORAS Robert,INDEHERBERG Julien,4,0,"11,11,11,11|7,2,6,7",R64,OTHER,JBS,792,Main Draw,FLORAS Robert (POL),INDEHERBERG Julien (BEL)
-Safir International Orebro 2008,2008-02-20,KIM Jihwan,DAHLGREN Jakob,4,1,"11,7,11,11,11|7,11,9,7,4",R64,OTHER,JBS,792,Main Draw,KIM Jihwan (KOR),DAHLGREN Jakob (SWE)
-Safir International Orebro 2008,2008-02-20,HELLERUD Kristoffer,SODERLUND Hampus,4,2,"9,11,11,11,8,11|11,3,8,6,11,8",R64,OTHER,JBS,792,Main Draw,HELLERUD Kristoffer (NOR),SODERLUND Hampus (SWE)
-Safir International Orebro 2008,2008-02-20,MACHI Asuka,VANROSSOMME Emilien,4,1,"11,9,11,11,14|9,11,6,4,12",R64,OTHER,JBS,792,Main Draw,MACHI Asuka (JPN),VANROSSOMME Emilien (BEL)
-Safir International Orebro 2008,2008-02-20,KVIST Andreas,PINHO Diogo,4,3,"11,11,11,7,10,6,11|7,5,8,11,12,11,8",R64,OTHER,JBS,792,Main Draw,KVIST Andreas (SWE),PINHO Diogo (POR)
-Safir International Orebro 2008,2008-02-20,BARBOSA Jose,KILL Christian,4,1,"11,11,8,12,12|9,6,11,10,10",R64,OTHER,JBS,792,Main Draw,BARBOSA Jose (BRA),KILL Christian (LUX)
-Safir International Orebro 2008,2008-02-20,VALEEV Marsel,HMAM Adam,4,3,"9,11,11,6,10,11,11|11,3,7,11,12,9,9",R64,OTHER,JBS,792,Main Draw,VALEEV Marsel (RUS),HMAM Adam (TUN)
-Safir International Orebro 2008,2008-02-20,SHIN Inchell,TRAN Anthony,4,3,"11,11,11,6,3,10,12|7,7,8,11,11,12,10",R64,OTHER,JBS,792,Main Draw,SHIN Inchell (KOR),TRAN Anthony (SWE)
-Safir International Orebro 2008,2008-02-20,ARVIDSSON Simon,SEBESTYEN Peter,4,0,"11,11,11,11|6,8,9,7",R64,OTHER,JBS,792,Main Draw,ARVIDSSON Simon (SWE),SEBESTYEN Peter (HUN)
-Safir International Orebro 2008,2008-02-20,WARE Mathew,RESTREPO Juan,4,1,"11,11,8,11,11|8,9,11,8,8",R64,OTHER,JBS,792,Main Draw,WARE Mathew (ENG),RESTREPO Juan (COL)
-Safir International Orebro 2008,2008-02-20,JEAN Lauric,ROCHA Paulo,4,1,"11,11,11,6,11|8,9,9,11,9",R64,OTHER,JBS,792,Main Draw,JEAN Lauric (BEL),ROCHA Paulo (BRA)
-Safir International Orebro 2008,2008-02-20,AGUIRRE Marcelo,RECH DALDOSSO Marco,4,2,"11,4,11,11,7,11|6,11,8,1,11,8",R64,OTHER,JBS,792,Main Draw,AGUIRRE Marcelo (PAR),RECH DALDOSSO Marco (ITA)
-Safir International Orebro 2008,2008-02-20,KOBES Kristian,BOROVIK Alexandr,4,2,"7,11,11,5,11,11|11,7,9,11,7,7",R64,OTHER,JBS,792,Main Draw,KOBES Kristian (SVK),BOROVIK Alexandr (RUS)
-Safir International Orebro 2008,2008-02-20,JENDRZEJEWSKI Patryk,TAZOE Kenta,4,1,"10,11,11,11,15|12,9,6,4,13",R64,OTHER,JBS,792,Main Draw,JENDRZEJEWSKI Patryk (POL),TAZOE Kenta (JPN)
-Safir International Orebro 2008,2008-02-20,LAVERGNE Paul,BRODD Viktor,4,0,"11,11,12,11|6,5,10,9",R64,OTHER,JBS,792,Main Draw,LAVERGNE Paul (FRA),BRODD Viktor (SWE)
-Safir International Orebro 2008,2008-02-20,CARVALHO Diogo,KIM Donghyun,4,2,"11,13,11,11,11,11|4,15,13,6,8,8",R64,OTHER,JBS,792,Main Draw,CARVALHO Diogo (POR),KIM Donghyun (KOR)
-Safir International Orebro 2008,2008-02-20,ANDERSSON Harald,CHODORSKI Piotr,4,1,"11,11,4,11,16|4,6,11,5,14",R32,OTHER,JBS,792,Main Draw,ANDERSSON Harald (SWE),CHODORSKI Piotr (POL)
-Safir International Orebro 2008,2008-02-20,KARLSSON Mattias,LEE Seungjun,4,1,"12,11,11,8,11|10,1,1,11,3",R32,OTHER,JBS,792,Main Draw,KARLSSON Mattias (SWE),LEE Seungjun (KOR)
-Safir International Orebro 2008,2008-02-20,NIWA Koki,OVERSJO Mattias,4,3,"11,11,5,8,9,11,11|5,6,11,11,11,8,4",R32,OTHER,JBS,792,Main Draw,NIWA Koki (JPN),OVERSJO Mattias (SWE)
-Safir International Orebro 2008,2008-02-20,SHIBAEV Alexander,FLORAS Robert,4,2,"9,11,11,9,17,11|11,5,5,11,15,6",R32,OTHER,JBS,792,Main Draw,SHIBAEV Alexander (RUS),FLORAS Robert (POL)
-Safir International Orebro 2008,2008-02-20,FERTIKOWSKI Pawel,KIM Jihwan,4,0,"11,11,11,11|6,7,7,6",R32,OTHER,JBS,792,Main Draw,FERTIKOWSKI Pawel (POL),KIM Jihwan (KOR)
-Safir International Orebro 2008,2008-02-20,HELLERUD Kristoffer,MACHI Asuka,4,1,"13,14,11,11,11|15,12,9,6,7",R32,OTHER,JBS,792,Main Draw,HELLERUD Kristoffer (NOR),MACHI Asuka (JPN)
-Safir International Orebro 2008,2008-02-20,KVIST Andreas,LE BRETON Thomas,4,2,"10,11,11,4,11,11|12,6,5,11,9,7",R32,OTHER,JBS,792,Main Draw,KVIST Andreas (SWE),LE BRETON Thomas (FRA)
-Safir International Orebro 2008,2008-02-20,NOMURA Taiyo,BARBOSA Jose,4,0,"11,13,11,11|6,11,4,9",R32,OTHER,JBS,792,Main Draw,NOMURA Taiyo (JPN),BARBOSA Jose (BRA)
-Safir International Orebro 2008,2008-02-20,UEDA Jin,VALEEV Marsel,4,0,"11,11,11,11|8,7,7,6",R32,OTHER,JBS,792,Main Draw,UEDA Jin (JPN),VALEEV Marsel (RUS)
-Safir International Orebro 2008,2008-02-20,DROP Clement,SHIN Inchell,4,1,"11,12,3,11,11|8,10,11,8,7",R32,OTHER,JBS,792,Main Draw,DROP Clement (FRA),SHIN Inchell (KOR)
-Safir International Orebro 2008,2008-02-20,ARVIDSSON Simon,WARE Mathew,4,2,"13,6,11,11,9,11|11,11,6,7,11,9",R32,OTHER,JBS,792,Main Draw,ARVIDSSON Simon (SWE),WARE Mathew (ENG)
-Safir International Orebro 2008,2008-02-20,GOLEBIOWSKI Mateusz,JEAN Lauric,4,3,"11,8,11,11,13,11,11|6,11,7,9,15,13,6",R32,OTHER,JBS,792,Main Draw,GOLEBIOWSKI Mateusz (POL),JEAN Lauric (BEL)
-Safir International Orebro 2008,2008-02-20,JENDRZEJEWSKI Patryk,KOBES Kristian,4,2,"10,11,11,11,10,11|12,8,7,9,12,9",R32,OTHER,JBS,792,Main Draw,JENDRZEJEWSKI Patryk (POL),KOBES Kristian (SVK)
-Safir International Orebro 2008,2008-02-20,KOSIBA Daniel,LAVERGNE Paul,4,2,"11,11,8,7,11,11|6,6,11,11,6,5",R32,OTHER,JBS,792,Main Draw,KOSIBA Daniel (HUN),LAVERGNE Paul (FRA)
-Safir International Orebro 2008,2008-02-20,CHOJNOWSKI Patryk,CARVALHO Diogo,4,3,"11,10,9,11,11,10,11|5,12,11,7,4,12,8",R32,OTHER,JBS,792,Main Draw,CHOJNOWSKI Patryk (POL),CARVALHO Diogo (POR)
-Safir International Orebro 2008,2008-02-20,KARLSSON Mattias,ANDERSSON Harald,4,2,"11,11,8,11,8,15|6,7,11,8,11,13",R16,OTHER,JBS,792,Main Draw,KARLSSON Mattias (SWE),ANDERSSON Harald (SWE)
-Safir International Orebro 2008,2008-02-20,SHIBAEV Alexander,NIWA Koki,4,1,"13,11,11,6,11|11,8,9,11,7",R16,OTHER,JBS,792,Main Draw,SHIBAEV Alexander (RUS),NIWA Koki (JPN)
-Safir International Orebro 2008,2008-02-20,FERTIKOWSKI Pawel,HELLERUD Kristoffer,4,0,"11,11,11,11|2,9,5,6",R16,OTHER,JBS,792,Main Draw,FERTIKOWSKI Pawel (POL),HELLERUD Kristoffer (NOR)
-Safir International Orebro 2008,2008-02-20,NOMURA Taiyo,KVIST Andreas,4,0,"11,11,11,11|9,8,2,4",R16,OTHER,JBS,792,Main Draw,NOMURA Taiyo (JPN),KVIST Andreas (SWE)
-Safir International Orebro 2008,2008-02-20,UEDA Jin,DROP Clement,4,2,"11,8,11,11,2,13|5,11,9,4,11,11",R16,OTHER,JBS,792,Main Draw,UEDA Jin (JPN),DROP Clement (FRA)
-Safir International Orebro 2008,2008-02-20,GOLEBIOWSKI Mateusz,ARVIDSSON Simon,4,3,"17,4,12,12,11,8,11|19,11,10,10,9,11,7",R16,OTHER,JBS,792,Main Draw,GOLEBIOWSKI Mateusz (POL),ARVIDSSON Simon (SWE)
-Safir International Orebro 2008,2008-02-20,KARLSSON Kristian,JENDRZEJEWSKI Patryk,4,2,"11,11,11,11,5,11|2,6,4,13,11,8",R16,OTHER,JBS,792,Main Draw,KARLSSON Kristian (SWE),JENDRZEJEWSKI Patryk (POL)
-Safir International Orebro 2008,2008-02-20,KOSIBA Daniel,CHOJNOWSKI Patryk,4,0,"11,11,11,11|5,9,6,9",R16,OTHER,JBS,792,Main Draw,KOSIBA Daniel (HUN),CHOJNOWSKI Patryk (POL)
-Safir International Orebro 2008,2008-02-20,SHIBAEV Alexander,KARLSSON Mattias,4,0,"11,11,11,11|5,9,9,9",QF,OTHER,JBS,792,Main Draw,SHIBAEV Alexander (RUS),KARLSSON Mattias (SWE)
-Safir International Orebro 2008,2008-02-20,NOMURA Taiyo,FERTIKOWSKI Pawel,4,3,"10,8,3,11,11,11,11|12,11,11,2,9,8,6",QF,OTHER,JBS,792,Main Draw,NOMURA Taiyo (JPN),FERTIKOWSKI Pawel (POL)
-Safir International Orebro 2008,2008-02-20,UEDA Jin,GOLEBIOWSKI Mateusz,4,0,"11,11,11,11|6,3,4,6",QF,OTHER,JBS,792,Main Draw,UEDA Jin (JPN),GOLEBIOWSKI Mateusz (POL)
-Safir International Orebro 2008,2008-02-20,KOSIBA Daniel,KARLSSON Kristian,4,2,"11,11,11,11,9,12|9,9,13,1,11,10",QF,OTHER,JBS,792,Main Draw,KOSIBA Daniel (HUN),KARLSSON Kristian (SWE)
-Safir International Orebro 2008,2008-02-20,SHIBAEV Alexander,NOMURA Taiyo,4,2,"11,11,11,7,8,13|9,7,6,11,11,11",SF,OTHER,JBS,792,Main Draw,SHIBAEV Alexander (RUS),NOMURA Taiyo (JPN)
-Safir International Orebro 2008,2008-02-20,UEDA Jin,KOSIBA Daniel,4,3,"11,11,5,9,11,9,11|4,5,11,11,6,11,5",SF,OTHER,JBS,792,Main Draw,UEDA Jin (JPN),KOSIBA Daniel (HUN)
-Safir International Orebro 2008,2008-02-20,SHIBAEV Alexander,UEDA Jin,4,2,"7,11,11,11,8,12|11,1,9,6,11,10",F,OTHER,JBS,792,Main Draw,SHIBAEV Alexander (RUS),UEDA Jin (JPN)
-Safir International Orebro 2008,2008-02-20,GATTERMEYER Meike,KARLSSON Michaela,3,0,"11,11,11|5,8,4",R32,OTHER,JGD,792,Main Draw,GATTERMEYER Meike (GER),KARLSSON Michaela (SWE)
-Safir International Orebro 2008,2008-02-20,STAHR Rosalia,LUND Josefin,3,1,"9,12,11,11|11,10,9,6",R32,OTHER,JGD,792,Main Draw,STAHR Rosalia (GER),LUND Josefin (SWE)
-Safir International Orebro 2008,2008-02-20,GATTERMEYER Meike,PERVAN Dina,3,0,"11,11,11|4,5,8",R16,OTHER,JGD,792,Main Draw,GATTERMEYER Meike (GER),PERVAN Dina (CRO)
-Safir International Orebro 2008,2008-02-20,GONG Hyejung,STAHR Rosalia,3,2,"9,6,11,11,11|11,11,8,8,7",R16,OTHER,JGD,792,Main Draw,GONG Hyejung (KOR),STAHR Rosalia (GER)
-Safir International Orebro 2008,2008-02-20,GATTERMEYER Meike,LEE Hyun,3,2,"11,14,2,3,11|9,12,11,11,9",QF,OTHER,JGD,792,Main Draw,GATTERMEYER Meike (GER),LEE Hyun (KOR)
-Safir International Orebro 2008,2008-02-20,NELSON Claire,DE NUTTE Sarah,3,2,"11,9,7,11,12|7,11,11,8,10",R32,OTHER,JGD,792,Main Draw,NELSON Claire (IRL),DE NUTTE Sarah (LUX)
-Safir International Orebro 2008,2008-02-20,TROTTI Elisa,KONSBRUCK Danielle,3,1,"8,12,11,11|11,10,8,7",R32,OTHER,JGD,792,Main Draw,TROTTI Elisa (ITA),KONSBRUCK Danielle (LUX)
-Safir International Orebro 2008,2008-02-20,MA Wenting,TROTTI Elisa,3,0,"11,12,11|9,10,7",R16,OTHER,JGD,792,Main Draw,MA Wenting (NOR),TROTTI Elisa (ITA)
-Safir International Orebro 2008,2008-02-20,SUZUKI Rika,ABBAT Alice,3,1,"11,5,11,11|8,11,5,9",R32,OTHER,JGD,792,Main Draw,SUZUKI Rika (JPN),ABBAT Alice (FRA)
-Safir International Orebro 2008,2008-02-20,MORIZONO Misaki,LOEUILLETTE Stephanie,3,0,"11,11,11|8,7,6",R32,OTHER,JGD,792,Main Draw,MORIZONO Misaki (JPN),LOEUILLETTE Stephanie (FRA)
-Safir International Orebro 2008,2008-02-20,FUJII Yuko,STESHENKO Tatyana,3,0,"11,11,11|5,5,9",R16,OTHER,JGD,792,Main Draw,FUJII Yuko (JPN),STESHENKO Tatyana (ITA)
-Safir International Orebro 2008,2008-02-20,JO Yujin,MORIZONO Misaki,3,1,"11,11,11,11|8,8,13,5",R16,OTHER,JGD,792,Main Draw,JO Yujin (KOR),MORIZONO Misaki (JPN)
-Safir International Orebro 2008,2008-02-20,FUJII Yuko,GU Yoonhee,3,0,"11,11,13|4,7,11",QF,OTHER,JGD,792,Main Draw,FUJII Yuko (JPN),GU Yoonhee (KOR)
-Safir International Orebro 2008,2008-02-20,FUJII Yuko,GATTERMEYER Meike,3,0,"11,11,11|3,8,6",SF,OTHER,JGD,792,Main Draw,FUJII Yuko (JPN),GATTERMEYER Meike (GER)
-Safir International Orebro 2008,2008-02-20,JO Yujin,FUJII Yuko,3,2,"8,11,11,11,11|11,13,4,4,6",F,OTHER,JGD,792,Main Draw,JO Yujin (KOR),FUJII Yuko (JPN)
-Safir International Orebro 2008,2008-02-20,GONG Hyejung,RIDAN Maroua,3,0,"11,11,11|5,4,6",R32,OTHER,JGD,792,Main Draw,GONG Hyejung (KOR),RIDAN Maroua (TUN)
-Safir International Orebro 2008,2008-02-20,LEE Hyun,SUZUKI Rika,3,2,"11,6,11,7,11|3,11,5,11,7",R16,OTHER,JGD,792,Main Draw,LEE Hyun (KOR),SUZUKI Rika (JPN)
-Safir International Orebro 2008,2008-02-20,GONG Hyejung,DURAK Mirela,3,0,"11,11,12|3,7,10",QF,OTHER,JGD,792,Main Draw,GONG Hyejung (KOR),DURAK Mirela (CRO)
-Safir International Orebro 2008,2008-02-20,JO Yujin,MA Wenting,3,0,"11,11,11|9,5,8",QF,OTHER,JGD,792,Main Draw,JO Yujin (KOR),MA Wenting (NOR)
-Safir International Orebro 2008,2008-02-20,JO Yujin,GONG Hyejung,3,0,"11,13,11|5,11,9",SF,OTHER,JGD,792,Main Draw,JO Yujin (KOR),GONG Hyejung (KOR)
-Safir International Orebro 2008,2008-02-20,PERVAN Dina,DIEKER Suzanne,3,1,"13,11,6,14|11,5,11,12",R32,OTHER,JGD,792,Main Draw,PERVAN Dina (CRO),DIEKER Suzanne (NED)
-Safir International Orebro 2008,2008-02-20,LEE Hyun,KUSINSKA Klaudia,3,1,"11,7,11,11|7,11,4,8",R32,OTHER,JGD,792,Main Draw,LEE Hyun (KOR),KUSINSKA Klaudia (POL)
-Safir International Orebro 2008,2008-02-20,MAZUR Magdalena,KOLYUCHEVA Liliya,3,2,"11,9,11,11,11|13,11,9,7,7",R32,OTHER,JGD,792,Main Draw,MAZUR Magdalena (POL),KOLYUCHEVA Liliya (RUS)
-Safir International Orebro 2008,2008-02-20,DURAK Mirela,MAZUR Magdalena,3,1,"11,11,11,11|7,5,13,7",R16,OTHER,JGD,792,Main Draw,DURAK Mirela (CRO),MAZUR Magdalena (POL)
-Safir International Orebro 2008,2008-02-20,DURAK Mirela,GONCALVES Mariana,3,1,"11,12,6,12|5,10,11,10",R32,OTHER,JGD,792,Main Draw,DURAK Mirela (CRO),GONCALVES Mariana (POR)
-Safir International Orebro 2008,2008-02-20,STESHENKO Tatyana,CORDERO Carelyn,3,1,"11,9,11,11|3,11,6,4",R32,OTHER,JGD,792,Main Draw,STESHENKO Tatyana (ITA),CORDERO Carelyn (PUR)
-Safir International Orebro 2008,2008-02-20,JO Yujin,VOROBEVA Olga,3,0,"11,12,11|6,10,5",R32,OTHER,JGD,792,Main Draw,JO Yujin (KOR),VOROBEVA Olga (RUS)
-Safir International Orebro 2008,2008-02-20,GU Yoonhee,NELSON Claire,3,0,"11,11,11|5,6,2",R16,OTHER,JGD,792,Main Draw,GU Yoonhee (KOR),NELSON Claire (IRL)
-Safir International Orebro 2008,2008-02-20,GU Yoonhee,QUACH Michelle,3,0,"12,11,11|10,4,1",R32,OTHER,JGD,792,Main Draw,GU Yoonhee (KOR),QUACH Michelle (SWE)
-Safir International Orebro 2008,2008-02-20,MA Wenting,MEIS Anouk,3,0,"11,11,11|4,4,7",,OTHER,JGS,792,Qualification,MA Wenting (NOR),MEIS Anouk (LUX)
-Safir International Orebro 2008,2008-02-20,LUND Josefin,ZEFIRO Valeria,3,1,"5,11,12,11|11,9,10,9",QR2,OTHER,JGS,792,Qualification,LUND Josefin (SWE),ZEFIRO Valeria (ITA)
-Safir International Orebro 2008,2008-02-20,MA Wenting,LUND Josefin,3,0,"11,11,11|9,9,8",3,OTHER,JGS,792,Qualification,MA Wenting (NOR),LUND Josefin (SWE)
-Safir International Orebro 2008,2008-02-20,MEIS Anouk,ZEFIRO Valeria,3,2,"6,10,11,11,12|11,12,6,7,10",QR4,OTHER,JGS,792,Qualification,MEIS Anouk (LUX),ZEFIRO Valeria (ITA)
-Safir International Orebro 2008,2008-02-20,MA Wenting,ZEFIRO Valeria,3,0,"11,11,11|4,7,4",5,OTHER,JGS,792,Qualification,MA Wenting (NOR),ZEFIRO Valeria (ITA)
-Safir International Orebro 2008,2008-02-20,MEIS Anouk,LUND Josefin,3,0,"11,11,12|5,9,10",6,OTHER,JGS,792,Qualification,MEIS Anouk (LUX),LUND Josefin (SWE)
-Safir International Orebro 2008,2008-02-20,LEE Sobong,NOSKOVA Yana,3,1,"12,11,6,11|9,8,11,5",,OTHER,JGS,792,Qualification,LEE Sobong (KOR),NOSKOVA Yana (RUS)
-Safir International Orebro 2008,2008-02-20,POSTHUMA Monique,KARLSSON Michaela,3,1,"12,5,11,11|3,11,7,6",QR2,OTHER,JGS,792,Qualification,POSTHUMA Monique (NED),KARLSSON Michaela (SWE)
-Safir International Orebro 2008,2008-02-20,LEE Sobong,POSTHUMA Monique,3,1,"11,11,11,11|13,5,5,8",3,OTHER,JGS,792,Qualification,LEE Sobong (KOR),POSTHUMA Monique (NED)
-Safir International Orebro 2008,2008-02-20,NOSKOVA Yana,KARLSSON Michaela,3,0,"11,11,11|7,7,6",QR4,OTHER,JGS,792,Qualification,NOSKOVA Yana (RUS),KARLSSON Michaela (SWE)
-Safir International Orebro 2008,2008-02-20,LEE Sobong,KARLSSON Michaela,3,1,"11,9,11,11|4,11,3,5",5,OTHER,JGS,792,Qualification,LEE Sobong (KOR),KARLSSON Michaela (SWE)
-Safir International Orebro 2008,2008-02-20,POSTHUMA Monique,NOSKOVA Yana,3,0,"11,11,12|0,8,10",6,OTHER,JGS,792,Qualification,POSTHUMA Monique (NED),NOSKOVA Yana (RUS)
-Safir International Orebro 2008,2008-02-20,FUJII Yuko,SAFAI Marjan,3,0,"12,11,11|4,2,5",,OTHER,JGS,792,Qualification,FUJII Yuko (JPN),SAFAI Marjan (SWE)
-Safir International Orebro 2008,2008-02-20,JO Yujin,MAZUR Magdalena,3,2,"9,11,9,11,11|11,5,11,9,9",QR2,OTHER,JGS,792,Qualification,JO Yujin (KOR),MAZUR Magdalena (POL)
-Safir International Orebro 2008,2008-02-20,FUJII Yuko,MAZUR Magdalena,3,0,"11,11,11|3,8,9",3,OTHER,JGS,792,Qualification,FUJII Yuko (JPN),MAZUR Magdalena (POL)
-Safir International Orebro 2008,2008-02-20,JO Yujin,SAFAI Marjan,3,0,"11,11,11|6,6,2",QR4,OTHER,JGS,792,Qualification,JO Yujin (KOR),SAFAI Marjan (SWE)
-Safir International Orebro 2008,2008-02-20,FUJII Yuko,JO Yujin,3,0,"11,11,11|7,3,6",5,OTHER,JGS,792,Qualification,FUJII Yuko (JPN),JO Yujin (KOR)
-Safir International Orebro 2008,2008-02-20,MAZUR Magdalena,SAFAI Marjan,3,2,"12,11,4,9,11|10,9,11,11,8",6,OTHER,JGS,792,Qualification,MAZUR Magdalena (POL),SAFAI Marjan (SWE)
-Safir International Orebro 2008,2008-02-20,OKAZAKI Megumi,GONZALEZ MONTIJO Cynthia,3,0,"12,11,11|4,4,8",,OTHER,JGS,792,Qualification,OKAZAKI Megumi (JPN),GONZALEZ MONTIJO Cynthia (PUR)
-Safir International Orebro 2008,2008-02-20,JANKOVIC Ljiljana,DE NUTTE Sarah,3,1,"10,11,11,8,11|11,9,2,11,6",QR2,OTHER,JGS,792,Qualification,JANKOVIC Ljiljana (CRO),DE NUTTE Sarah (LUX)
-Safir International Orebro 2008,2008-02-20,OKAZAKI Megumi,JANKOVIC Ljiljana,3,0,"11,11,11|8,0,6",3,OTHER,JGS,792,Qualification,OKAZAKI Megumi (JPN),JANKOVIC Ljiljana (CRO)
-Safir International Orebro 2008,2008-02-20,DE NUTTE Sarah,GONZALEZ MONTIJO Cynthia,3,0,"11,11,11|3,7,7",QR4,OTHER,JGS,792,Qualification,DE NUTTE Sarah (LUX),GONZALEZ MONTIJO Cynthia (PUR)
-Safir International Orebro 2008,2008-02-20,OKAZAKI Megumi,DE NUTTE Sarah,3,1,"9,11,11,11|11,4,5,1",5,OTHER,JGS,792,Qualification,OKAZAKI Megumi (JPN),DE NUTTE Sarah (LUX)
-Safir International Orebro 2008,2008-02-20,JANKOVIC Ljiljana,GONZALEZ MONTIJO Cynthia,3,1,"11,11,10,11|6,2,12,4",6,OTHER,JGS,792,Qualification,JANKOVIC Ljiljana (CRO),GONZALEZ MONTIJO Cynthia (PUR)
-Safir International Orebro 2008,2008-02-20,GONG Hyejung,SUZUKI Rika,3,0,"13,11,11|5,5,6",,OTHER,JGS,792,Qualification,GONG Hyejung (KOR),SUZUKI Rika (JPN)
-Safir International Orebro 2008,2008-02-20,OLIVEIRA Leila,LOEUILLETTE Stephanie,3,2,"14,12,7,7,11|11,10,11,11,5",QR2,OTHER,JGS,792,Qualification,OLIVEIRA Leila (POR),LOEUILLETTE Stephanie (FRA)
-Safir International Orebro 2008,2008-02-20,GONG Hyejung,OLIVEIRA Leila,3,0,"11,11,11|7,6,3",3,OTHER,JGS,792,Qualification,GONG Hyejung (KOR),OLIVEIRA Leila (POR)
-Safir International Orebro 2008,2008-02-20,SUZUKI Rika,LOEUILLETTE Stephanie,3,0,"11,11,11|7,9,8",QR4,OTHER,JGS,792,Qualification,SUZUKI Rika (JPN),LOEUILLETTE Stephanie (FRA)
-Safir International Orebro 2008,2008-02-20,GONG Hyejung,LOEUILLETTE Stephanie,3,1,"8,11,11,11|11,6,1,6",5,OTHER,JGS,792,Qualification,GONG Hyejung (KOR),LOEUILLETTE Stephanie (FRA)
-Safir International Orebro 2008,2008-02-20,SUZUKI Rika,OLIVEIRA Leila,3,2,"12,11,8,7,14|10,9,11,11,12",6,OTHER,JGS,792,Qualification,SUZUKI Rika (JPN),OLIVEIRA Leila (POR)
-Safir International Orebro 2008,2008-02-20,STAHR Rosalia,SAIDANI Safa,3,0,"12,11,11|5,6,7",,OTHER,JGS,792,Qualification,STAHR Rosalia (GER),SAIDANI Safa (TUN)
-Safir International Orebro 2008,2008-02-20,SATO Yui,GONCALVES Mariana,3,0,"12,11,11|6,5,2",QR2,OTHER,JGS,792,Qualification,SATO Yui (JPN),GONCALVES Mariana (POR)
-Safir International Orebro 2008,2008-02-20,SATO Yui,STAHR Rosalia,3,1,"11,8,13,11|9,11,11,7",3,OTHER,JGS,792,Qualification,SATO Yui (JPN),STAHR Rosalia (GER)
-Safir International Orebro 2008,2008-02-20,SAIDANI Safa,GONCALVES Mariana,3,1,"11,11,9,11|7,9,11,7",QR4,OTHER,JGS,792,Qualification,SAIDANI Safa (TUN),GONCALVES Mariana (POR)
-Safir International Orebro 2008,2008-02-20,STAHR Rosalia,GONCALVES Mariana,3,1,"8,13,11,11|11,11,6,8",5,OTHER,JGS,792,Qualification,STAHR Rosalia (GER),GONCALVES Mariana (POR)
-Safir International Orebro 2008,2008-02-20,SATO Yui,SAIDANI Safa,3,0,"11,11,11|9,3,7",6,OTHER,JGS,792,Qualification,SATO Yui (JPN),SAIDANI Safa (TUN)
-Safir International Orebro 2008,2008-02-20,MORIZONO Misaki,CORDERO Carelyn,3,0,"12,12,11|4,10,4",,OTHER,JGS,792,Qualification,MORIZONO Misaki (JPN),CORDERO Carelyn (PUR)
-Safir International Orebro 2008,2008-02-20,YU Sora,LENGERT Adeline,3,0,"11,11,11|6,9,8",QR2,OTHER,JGS,792,Qualification,YU Sora (KOR),LENGERT Adeline (FRA)
-Safir International Orebro 2008,2008-02-20,MORIZONO Misaki,LENGERT Adeline,3,0,"11,11,11|7,3,4",3,OTHER,JGS,792,Qualification,MORIZONO Misaki (JPN),LENGERT Adeline (FRA)
-Safir International Orebro 2008,2008-02-20,YU Sora,CORDERO Carelyn,3,0,"11,11,11|7,2,4",QR4,OTHER,JGS,792,Qualification,YU Sora (KOR),CORDERO Carelyn (PUR)
-Safir International Orebro 2008,2008-02-20,MORIZONO Misaki,YU Sora,3,2,"4,11,12,9,11|11,9,10,11,4",5,OTHER,JGS,792,Qualification,MORIZONO Misaki (JPN),YU Sora (KOR)
-Safir International Orebro 2008,2008-02-20,LENGERT Adeline,CORDERO Carelyn,3,0,"11,11,11|5,4,2",6,OTHER,JGS,792,Qualification,LENGERT Adeline (FRA),CORDERO Carelyn (PUR)
-Safir International Orebro 2008,2008-02-20,DURAK Mirela,NELSON Claire,3,1,"11,11,11,11|13,3,6,1",,OTHER,JGS,792,Qualification,DURAK Mirela (CRO),NELSON Claire (IRL)
-Safir International Orebro 2008,2008-02-20,GU Yoonhee,TROTTI Chiara,3,1,"12,12,10,11|10,10,12,3",QR2,OTHER,JGS,792,Qualification,GU Yoonhee (KOR),TROTTI Chiara (ITA)
-Safir International Orebro 2008,2008-02-20,DURAK Mirela,TROTTI Chiara,3,0,"12,11,11|10,2,9",3,OTHER,JGS,792,Qualification,DURAK Mirela (CRO),TROTTI Chiara (ITA)
-Safir International Orebro 2008,2008-02-20,DURAK Mirela,GU Yoonhee,3,1,"11,11,9,11|4,8,11,8",5,OTHER,JGS,792,Qualification,DURAK Mirela (CRO),GU Yoonhee (KOR)
-Safir International Orebro 2008,2008-02-20,TROTTI Chiara,NELSON Claire,3,0,"11,11,11|5,6,5",6,OTHER,JGS,792,Qualification,TROTTI Chiara (ITA),NELSON Claire (IRL)
-Safir International Orebro 2008,2008-02-20,VLASOVA Olga,RIDAN Maroua,3,0,"12,11,11|2,3,7",,OTHER,JGS,792,Qualification,VLASOVA Olga (RUS),RIDAN Maroua (TUN)
-Safir International Orebro 2008,2008-02-20,SAWETTABUT Suthasini,SZULC Adrianna,3,0,"11,11,13|4,7,11",QR2,OTHER,JGS,792,Qualification,SAWETTABUT Suthasini (THA),SZULC Adrianna (POL)
-Safir International Orebro 2008,2008-02-20,VLASOVA Olga,SZULC Adrianna,3,2,"9,14,10,11,11|11,12,12,9,4",3,OTHER,JGS,792,Qualification,VLASOVA Olga (RUS),SZULC Adrianna (POL)
-Safir International Orebro 2008,2008-02-20,SAWETTABUT Suthasini,RIDAN Maroua,3,1,"11,11,4,11|2,3,11,5",QR4,OTHER,JGS,792,Qualification,SAWETTABUT Suthasini (THA),RIDAN Maroua (TUN)
-Safir International Orebro 2008,2008-02-20,SAWETTABUT Suthasini,VLASOVA Olga,3,1,"11,11,12,11|9,4,14,9",5,OTHER,JGS,792,Qualification,SAWETTABUT Suthasini (THA),VLASOVA Olga (RUS)
-Safir International Orebro 2008,2008-02-20,SZULC Adrianna,RIDAN Maroua,3,0,"11,11,11|4,5,3",6,OTHER,JGS,792,Qualification,SZULC Adrianna (POL),RIDAN Maroua (TUN)
-Safir International Orebro 2008,2008-02-20,BRUNET Lorine,KOLYUCHEVA Liliya,3,2,"6,16,11,9,11|11,14,7,11,6",,OTHER,JGS,792,Qualification,BRUNET Lorine (FRA),KOLYUCHEVA Liliya (RUS)
-Safir International Orebro 2008,2008-02-20,KUSINSKA Klaudia,QUACH Michelle,3,0,"12,11,11,11|13,5,7,7",QR2,OTHER,JGS,792,Qualification,KUSINSKA Klaudia (POL),QUACH Michelle (SWE)
-Safir International Orebro 2008,2008-02-20,KUSINSKA Klaudia,BRUNET Lorine,3,0,"11,15,11|5,13,4",3,OTHER,JGS,792,Qualification,KUSINSKA Klaudia (POL),BRUNET Lorine (FRA)
-Safir International Orebro 2008,2008-02-20,KOLYUCHEVA Liliya,QUACH Michelle,3,1,"11,11,9,11|3,5,11,3",QR4,OTHER,JGS,792,Qualification,KOLYUCHEVA Liliya (RUS),QUACH Michelle (SWE)
-Safir International Orebro 2008,2008-02-20,QUACH Michelle,BRUNET Lorine,3,1,"11,8,11,11|9,11,9,7",5,OTHER,JGS,792,Qualification,QUACH Michelle (SWE),BRUNET Lorine (FRA)
-Safir International Orebro 2008,2008-02-20,KUSINSKA Klaudia,KOLYUCHEVA Liliya,3,0,"11,11,11|8,7,8",6,OTHER,JGS,792,Qualification,KUSINSKA Klaudia (POL),KOLYUCHEVA Liliya (RUS)
-Safir International Orebro 2008,2008-02-20,VOROBEVA Olga,SODERLUND Ida,3,0,"13,13,11|10,11,8",,OTHER,JGS,792,Qualification,VOROBEVA Olga (RUS),SODERLUND Ida (SWE)
-Safir International Orebro 2008,2008-02-20,HERGES Ann-Kathrin,VIVARELLI Debora,3,1,"11,9,11,11|1,11,5,8",QR2,OTHER,JGS,792,Qualification,HERGES Ann-Kathrin (GER),VIVARELLI Debora (ITA)
-Safir International Orebro 2008,2008-02-20,HERGES Ann-Kathrin,VOROBEVA Olga,3,0,"11,11,11|8,9,7",3,OTHER,JGS,792,Qualification,HERGES Ann-Kathrin (GER),VOROBEVA Olga (RUS)
-Safir International Orebro 2008,2008-02-20,VIVARELLI Debora,SODERLUND Ida,3,1,"11,11,5,11|5,8,11,6",QR4,OTHER,JGS,792,Qualification,VIVARELLI Debora (ITA),SODERLUND Ida (SWE)
-Safir International Orebro 2008,2008-02-20,VOROBEVA Olga,VIVARELLI Debora,3,0,"11,11,11|7,7,4",5,OTHER,JGS,792,Qualification,VOROBEVA Olga (RUS),VIVARELLI Debora (ITA)
-Safir International Orebro 2008,2008-02-20,HERGES Ann-Kathrin,SODERLUND Ida,3,0,"11,11,11|9,5,6",6,OTHER,JGS,792,Qualification,HERGES Ann-Kathrin (GER),SODERLUND Ida (SWE)
-Safir International Orebro 2008,2008-02-20,LEE Hyun,WINTER Sabine,3,2,"12,11,10,11,11|15,7,12,2,4",,OTHER,JGS,792,Qualification,LEE Hyun (KOR),WINTER Sabine (GER)
-Safir International Orebro 2008,2008-02-20,RYABOVA Tatiana,TROTTI Elisa,3,0,"12,11,11|5,4,1",QR2,OTHER,JGS,792,Qualification,RYABOVA Tatiana (RUS),TROTTI Elisa (ITA)
-Safir International Orebro 2008,2008-02-20,WINTER Sabine,RYABOVA Tatiana,3,2,"8,8,11,11,11|11,11,3,8,9",3,OTHER,JGS,792,Qualification,WINTER Sabine (GER),RYABOVA Tatiana (RUS)
-Safir International Orebro 2008,2008-02-20,LEE Hyun,TROTTI Elisa,3,0,"11,11,11|2,3,7",QR4,OTHER,JGS,792,Qualification,LEE Hyun (KOR),TROTTI Elisa (ITA)
-Safir International Orebro 2008,2008-02-20,WINTER Sabine,TROTTI Elisa,3,0,"11,11,11|9,1,7",5,OTHER,JGS,792,Qualification,WINTER Sabine (GER),TROTTI Elisa (ITA)
-Safir International Orebro 2008,2008-02-20,LEE Hyun,RYABOVA Tatiana,3,0,"11,11,13|2,7,11",6,OTHER,JGS,792,Qualification,LEE Hyun (KOR),RYABOVA Tatiana (RUS)
-Safir International Orebro 2008,2008-02-20,ABBAT Alice,VAYRYNEN Emma,3,2,"8,11,7,11,11|11,6,11,7,5",,OTHER,JGS,792,Qualification,ABBAT Alice (FRA),VAYRYNEN Emma (SWE)
-Safir International Orebro 2008,2008-02-20,GATTERMEYER Meike,DIEKER Suzanne,3,0,"13,11,11|10,9,3",QR2,OTHER,JGS,792,Qualification,GATTERMEYER Meike (GER),DIEKER Suzanne (NED)
-Safir International Orebro 2008,2008-02-20,ABBAT Alice,GATTERMEYER Meike,3,2,"6,11,11,5,11|11,8,9,11,8",3,OTHER,JGS,792,Qualification,ABBAT Alice (FRA),GATTERMEYER Meike (GER)
-Safir International Orebro 2008,2008-02-20,VAYRYNEN Emma,DIEKER Suzanne,3,0,"11,11,11|9,6,4",QR4,OTHER,JGS,792,Qualification,VAYRYNEN Emma (SWE),DIEKER Suzanne (NED)
-Safir International Orebro 2008,2008-02-20,ABBAT Alice,DIEKER Suzanne,3,0,"11,11,11|6,6,7",5,OTHER,JGS,792,Qualification,ABBAT Alice (FRA),DIEKER Suzanne (NED)
-Safir International Orebro 2008,2008-02-20,GATTERMEYER Meike,VAYRYNEN Emma,3,0,"11,11,11|3,7,4",6,OTHER,JGS,792,Qualification,GATTERMEYER Meike (GER),VAYRYNEN Emma (SWE)
-Safir International Orebro 2008,2008-02-20,STESHENKO Tatyana,PERVAN Dina,3,1,"9,11,11,11|11,8,4,9",,OTHER,JGS,792,Qualification,STESHENKO Tatyana (ITA),PERVAN Dina (CRO)
-Safir International Orebro 2008,2008-02-20,KONSBRUCK Danielle,MELCHER Madeleine,3,1,"8,11,11,11|12,2,8,9",QR2,OTHER,JGS,792,Qualification,KONSBRUCK Danielle (LUX),MELCHER Madeleine (SWE)
-Safir International Orebro 2008,2008-02-20,STESHENKO Tatyana,MELCHER Madeleine,3,0,"11,13,11|9,11,9",3,OTHER,JGS,792,Qualification,STESHENKO Tatyana (ITA),MELCHER Madeleine (SWE)
-Safir International Orebro 2008,2008-02-20,KONSBRUCK Danielle,PERVAN Dina,3,2,"11,9,11,6,11|9,11,9,11,8",QR4,OTHER,JGS,792,Qualification,KONSBRUCK Danielle (LUX),PERVAN Dina (CRO)
-Safir International Orebro 2008,2008-02-20,STESHENKO Tatyana,KONSBRUCK Danielle,3,2,"11,4,8,11,11|7,11,11,9,8",5,OTHER,JGS,792,Qualification,STESHENKO Tatyana (ITA),KONSBRUCK Danielle (LUX)
-Safir International Orebro 2008,2008-02-20,PERVAN Dina,MELCHER Madeleine,3,0,"11,11,11|7,6,4",6,OTHER,JGS,792,Qualification,PERVAN Dina (CRO),MELCHER Madeleine (SWE)
-Safir International Orebro 2008,2008-02-20,YANG Ha Eun,SZCZERKOWSKA Magdalena,3,1,"11,11,2,11|9,6,11,3",,OTHER,JGS,792,Qualification,YANG Ha Eun (KOR),SZCZERKOWSKA Magdalena (POL)
-Safir International Orebro 2008,2008-02-20,TANIOKA Ayuka,SESAR Iva,3,0,"12,12,11|6,10,7",QR2,OTHER,JGS,792,Qualification,TANIOKA Ayuka (JPN),SESAR Iva (CRO)
-Safir International Orebro 2008,2008-02-20,SZCZERKOWSKA Magdalena,TANIOKA Ayuka,3,2,"11,12,4,11,11|6,14,11,2,5",3,OTHER,JGS,792,Qualification,SZCZERKOWSKA Magdalena (POL),TANIOKA Ayuka (JPN)
-Safir International Orebro 2008,2008-02-20,YANG Ha Eun,SESAR Iva,3,0,"11,11,11|4,7,4",QR4,OTHER,JGS,792,Qualification,YANG Ha Eun (KOR),SESAR Iva (CRO)
-Safir International Orebro 2008,2008-02-20,SZCZERKOWSKA Magdalena,SESAR Iva,3,0,"11,11,11|8,5,3",5,OTHER,JGS,792,Qualification,SZCZERKOWSKA Magdalena (POL),SESAR Iva (CRO)
-Safir International Orebro 2008,2008-02-20,YANG Ha Eun,TANIOKA Ayuka,3,2,"11,13,9,11,11|5,15,11,6,7",6,OTHER,JGS,792,Qualification,YANG Ha Eun (KOR),TANIOKA Ayuka (JPN)
-Safir International Orebro 2008,2008-02-20,GU Yoonhee,VLASOVA Olga,4,1,"11,11,11,8,11|5,8,8,11,8",R32,OTHER,JGS,792,Main Draw,GU Yoonhee (KOR),VLASOVA Olga (RUS)
-Safir International Orebro 2008,2008-02-20,LEE Hyun,POSTHUMA Monique,4,2,"8,11,8,11,11,11|11,8,11,6,8,2",R32,OTHER,JGS,792,Main Draw,LEE Hyun (KOR),POSTHUMA Monique (NED)
-Safir International Orebro 2008,2008-02-20,SATO Yui,KOLYUCHEVA Liliya,4,3,"11,11,13,9,10,7,11|3,7,11,11,12,11,8",R32,OTHER,JGS,792,Main Draw,SATO Yui (JPN),KOLYUCHEVA Liliya (RUS)
-Safir International Orebro 2008,2008-02-20,VOROBEVA Olga,GONG Hyejung,4,1,"11,11,8,12,11|7,6,11,10,9",R32,OTHER,JGS,792,Main Draw,VOROBEVA Olga (RUS),GONG Hyejung (KOR)
-Safir International Orebro 2008,2008-02-20,STESHENKO Tatyana,JANKOVIC Ljiljana,4,2,"8,11,11,7,11,11|11,9,7,11,9,6",R32,OTHER,JGS,792,Main Draw,STESHENKO Tatyana (ITA),JANKOVIC Ljiljana (CRO)
-Safir International Orebro 2008,2008-02-20,SZCZERKOWSKA Magdalena,ABBAT Alice,4,2,"11,8,8,15,11,11|9,11,11,13,3,7",R32,OTHER,JGS,792,Main Draw,SZCZERKOWSKA Magdalena (POL),ABBAT Alice (FRA)
-Safir International Orebro 2008,2008-02-20,FUJII Yuko,YU Sora,4,3,"8,11,10,7,11,11,11|11,3,12,11,9,8,8",R32,OTHER,JGS,792,Main Draw,FUJII Yuko (JPN),YU Sora (KOR)
-Safir International Orebro 2008,2008-02-20,OKAZAKI Megumi,GATTERMEYER Meike,4,0,"11,11,11,11|6,8,5,5",R32,OTHER,JGS,792,Main Draw,OKAZAKI Megumi (JPN),GATTERMEYER Meike (GER)
-Safir International Orebro 2008,2008-02-20,KUSINSKA Klaudia,JO Yujin,4,2,"5,11,11,11,9,11|11,7,7,2,11,7",R32,OTHER,JGS,792,Main Draw,KUSINSKA Klaudia (POL),JO Yujin (KOR)
-Safir International Orebro 2008,2008-02-20,YANG Ha Eun,STAHR Rosalia,4,1,"12,11,9,12,11|10,7,11,10,5",R32,OTHER,JGS,792,Main Draw,YANG Ha Eun (KOR),STAHR Rosalia (GER)
-Safir International Orebro 2008,2008-02-20,DURAK Mirela,KONSBRUCK Danielle,4,0,"11,11,12,11|5,8,10,7",R32,OTHER,JGS,792,Main Draw,DURAK Mirela (CRO),KONSBRUCK Danielle (LUX)
-Safir International Orebro 2008,2008-02-20,MORIZONO Misaki,WINTER Sabine,4,0,"11,12,11,12|6,10,5,10",R32,OTHER,JGS,792,Main Draw,MORIZONO Misaki (JPN),WINTER Sabine (GER)
-Safir International Orebro 2008,2008-02-20,SAWETTABUT Suthasini,MEIS Anouk,4,2,"12,11,11,13,8,11|10,8,6,15,11,6",R32,OTHER,JGS,792,Main Draw,SAWETTABUT Suthasini (THA),MEIS Anouk (LUX)
-Safir International Orebro 2008,2008-02-20,HERGES Ann-Kathrin,SUZUKI Rika,4,1,"11,12,11,11,11|13,10,3,3,7",R32,OTHER,JGS,792,Main Draw,HERGES Ann-Kathrin (GER),SUZUKI Rika (JPN)
-Safir International Orebro 2008,2008-02-20,MA Wenting,GU Yoonhee,4,0,"11,11,11,11|4,3,7,4",R16,OTHER,JGS,792,Main Draw,MA Wenting (NOR),GU Yoonhee (KOR)
-Safir International Orebro 2008,2008-02-20,SATO Yui,LEE Hyun,4,2,"11,13,11,8,6,11|9,11,5,11,11,3",R16,OTHER,JGS,792,Main Draw,SATO Yui (JPN),LEE Hyun (KOR)
-Safir International Orebro 2008,2008-02-20,VOROBEVA Olga,STESHENKO Tatyana,4,1,"11,11,11,9,12|4,8,6,11,10",R16,OTHER,JGS,792,Main Draw,VOROBEVA Olga (RUS),STESHENKO Tatyana (ITA)
-Safir International Orebro 2008,2008-02-20,FUJII Yuko,SZCZERKOWSKA Magdalena,4,1,"11,8,11,11,11|7,11,8,8,3",R16,OTHER,JGS,792,Main Draw,FUJII Yuko (JPN),SZCZERKOWSKA Magdalena (POL)
-Safir International Orebro 2008,2008-02-20,OKAZAKI Megumi,KUSINSKA Klaudia,4,0,"11,11,11,11|7,4,8,5",R16,OTHER,JGS,792,Main Draw,OKAZAKI Megumi (JPN),KUSINSKA Klaudia (POL)
-Safir International Orebro 2008,2008-02-20,YANG Ha Eun,DURAK Mirela,4,2,"8,9,11,11,11,11|11,11,7,4,7,6",R16,OTHER,JGS,792,Main Draw,YANG Ha Eun (KOR),DURAK Mirela (CRO)
-Safir International Orebro 2008,2008-02-20,MORIZONO Misaki,SAWETTABUT Suthasini,4,1,"11,6,11,11,11|7,11,5,4,4",R16,OTHER,JGS,792,Main Draw,MORIZONO Misaki (JPN),SAWETTABUT Suthasini (THA)
-Safir International Orebro 2008,2008-02-20,LEE Sobong,HERGES Ann-Kathrin,4,1,"11,11,9,11,13|8,4,11,6,11",R16,OTHER,JGS,792,Main Draw,LEE Sobong (KOR),HERGES Ann-Kathrin (GER)
-Safir International Orebro 2008,2008-02-20,MA Wenting,SATO Yui,4,0,"12,11,11,16|10,8,9,14",QF,OTHER,JGS,792,Main Draw,MA Wenting (NOR),SATO Yui (JPN)
-Safir International Orebro 2008,2008-02-20,FUJII Yuko,VOROBEVA Olga,4,1,"7,11,11,11,11|11,9,3,5,4",QF,OTHER,JGS,792,Main Draw,FUJII Yuko (JPN),VOROBEVA Olga (RUS)
-Safir International Orebro 2008,2008-02-20,OKAZAKI Megumi,YANG Ha Eun,4,1,"11,6,11,11,11|7,11,6,6,8",QF,OTHER,JGS,792,Main Draw,OKAZAKI Megumi (JPN),YANG Ha Eun (KOR)
-Safir International Orebro 2008,2008-02-20,MORIZONO Misaki,LEE Sobong,4,1,"11,11,6,11,12|1,3,11,3,10",QF,OTHER,JGS,792,Main Draw,MORIZONO Misaki (JPN),LEE Sobong (KOR)
-Safir International Orebro 2008,2008-02-20,MA Wenting,FUJII Yuko,4,1,"11,9,12,11,11|8,11,10,5,8",SF,OTHER,JGS,792,Main Draw,MA Wenting (NOR),FUJII Yuko (JPN)
-Safir International Orebro 2008,2008-02-20,MORIZONO Misaki,OKAZAKI Megumi,4,2,"7,11,11,9,11,12|11,5,5,11,7,10",SF,OTHER,JGS,792,Main Draw,MORIZONO Misaki (JPN),OKAZAKI Megumi (JPN)
-Safir International Orebro 2008,2008-02-20,MA Wenting,MORIZONO Misaki,4,0,"11,11,11,12|7,6,5,10",F,OTHER,JGS,792,Main Draw,MA Wenting (NOR),MORIZONO Misaki (JPN)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Safir International Orebro 2008,2008-02-20,LEE Seungjun,INDEHERBERG Julien,3,1,"11,11,10,11|9,8,12,9",R64,OTHER,JBD,792,Main Draw,LEE Seungjun (KOR),INDEHERBERG Julien (BEL),LEE Seungjun
+Safir International Orebro 2008,2008-02-20,KARAS David,EVANS Gavin,3,2,"14,11,4,7,11|12,8,11,11,5",R64,OTHER,JBD,792,Main Draw,KARAS David (SVK),EVANS Gavin (ENG),KARAS David
+Safir International Orebro 2008,2008-02-20,ARVIDSSON Simon,DONADO Josue,3,0,"11,12,14|4,10,12",R16,OTHER,JBD,792,Main Draw,ARVIDSSON Simon (SWE),DONADO Josue (ESA),ARVIDSSON Simon
+Safir International Orebro 2008,2008-02-20,NOMURA Taiyo,GROTH Jonathan,3,0,"11,11,11|2,6,9",QF,OTHER,JBD,792,Main Draw,NOMURA Taiyo (JPN),GROTH Jonathan (DEN),NOMURA Taiyo
+Safir International Orebro 2008,2008-02-20,AGUIRRE Marcelo,ANDERSSON Harald,3,2,"12,8,11,5,12|10,11,6,11,10",R32,OTHER,JBD,792,Main Draw,AGUIRRE Marcelo (PAR),ANDERSSON Harald (SWE),AGUIRRE Marcelo
+Safir International Orebro 2008,2008-02-20,AGUIRRE Marcelo,DROP Clement,3,2,"12,8,11,10,11|10,11,7,12,9",R16,OTHER,JBD,792,Main Draw,AGUIRRE Marcelo (PAR),DROP Clement (FRA),AGUIRRE Marcelo
+Safir International Orebro 2008,2008-02-20,KARLSSON Kristian,AGUIRRE Marcelo,3,0,"11,12,11|9,10,9",SF,OTHER,JBD,792,Main Draw,KARLSSON Kristian (SWE),AGUIRRE Marcelo (PAR),KARLSSON Kristian
+Safir International Orebro 2008,2008-02-20,BIERNY Ludovic,SIRUCEK Pavel,3,0,"11,12,11|6,10,9",R64,OTHER,JBD,792,Main Draw,BIERNY Ludovic (BEL),SIRUCEK Pavel (CZE),BIERNY Ludovic
+Safir International Orebro 2008,2008-02-20,HAM Sori,BIERNY Ludovic,3,1,"11,9,11,11|8,11,3,8",R32,OTHER,JBD,792,Main Draw,HAM Sori (KOR),BIERNY Ludovic (BEL),HAM Sori
+Safir International Orebro 2008,2008-02-20,DONADO Josue,CULLEN Sean,3,0,"11,12,11|8,10,4",R32,OTHER,JBD,792,Main Draw,DONADO Josue (ESA),CULLEN Sean (ENG),DONADO Josue
+Safir International Orebro 2008,2008-02-20,AKESSON Anton,KIM Jihwan,3,0,"12,11,11|10,9,2",R64,OTHER,JBD,792,Main Draw,AKESSON Anton (SWE),KIM Jihwan (KOR),AKESSON Anton
+Safir International Orebro 2008,2008-02-20,AKESSON Anton,OTSUKA Masahiro,3,0,"11,11,11|9,7,4",R32,OTHER,JBD,792,Main Draw,AKESSON Anton (SWE),OTSUKA Masahiro (JPN),AKESSON Anton
+Safir International Orebro 2008,2008-02-20,KOSIBA Daniel,BOROVIK Alexandr,3,0,"11,12,11|4,10,4",R32,OTHER,JBD,792,Main Draw,KOSIBA Daniel (HUN),BOROVIK Alexandr (RUS),KOSIBA Daniel
+Safir International Orebro 2008,2008-02-20,KOSIBA Daniel,AKESSON Anton,3,1,"13,11,6,13|11,9,11,11",R16,OTHER,JBD,792,Main Draw,KOSIBA Daniel (HUN),AKESSON Anton (SWE),KOSIBA Daniel
+Safir International Orebro 2008,2008-02-20,KARLSSON Kristian,KOSIBA Daniel,3,0,"11,11,11|7,6,7",QF,OTHER,JBD,792,Main Draw,KARLSSON Kristian (SWE),KOSIBA Daniel (HUN),KARLSSON Kristian
+Safir International Orebro 2008,2008-02-20,EFIMOV Vitaly,BISI Paolo,3,0,"11,11,11|9,8,2",R64,OTHER,JBD,792,Main Draw,EFIMOV Vitaly (POR),BISI Paolo (ITA),EFIMOV Vitaly
+Safir International Orebro 2008,2008-02-20,DROP Clement,MACHI Asuka,3,1,"11,9,14,12|8,11,12,10",R32,OTHER,JBD,792,Main Draw,DROP Clement (FRA),MACHI Asuka (JPN),DROP Clement
+Safir International Orebro 2008,2008-02-20,LEE Seungjun,GAMMELMARK Casper,3,0,"11,11,11|7,2,8",R32,OTHER,JBD,792,Main Draw,LEE Seungjun (KOR),GAMMELMARK Casper (DEN),LEE Seungjun
+Safir International Orebro 2008,2008-02-20,MERZLIKIN Taras,KIM Minjoo,3,0,"11,11,11|7,2,7",R32,OTHER,JBD,792,Main Draw,MERZLIKIN Taras (RUS),KIM Minjoo (KOR),MERZLIKIN Taras
+Safir International Orebro 2008,2008-02-20,ARVIDSSON Simon,HAM Sori,3,1,"12,11,5,11|10,9,11,6",QF,OTHER,JBD,792,Main Draw,ARVIDSSON Simon (SWE),HAM Sori (KOR),ARVIDSSON Simon
+Safir International Orebro 2008,2008-02-20,JEAN Lauric,MUTTI Leonardo,3,1,"9,11,11,11|11,6,4,7",R64,OTHER,JBD,792,Main Draw,JEAN Lauric (BEL),MUTTI Leonardo (ITA),JEAN Lauric
+Safir International Orebro 2008,2008-02-20,NOMURA Taiyo,JEAN Lauric,3,1,"11,11,14,11|4,7,16,4",R32,OTHER,JBD,792,Main Draw,NOMURA Taiyo (JPN),JEAN Lauric (BEL),NOMURA Taiyo
+Safir International Orebro 2008,2008-02-20,ANDERSSON Harald,ALTENBURG Olivier,3,1,"13,11,10,15|11,8,12,13",R64,OTHER,JBD,792,Main Draw,ANDERSSON Harald (SWE),ALTENBURG Olivier (NED),ANDERSSON Harald
+Safir International Orebro 2008,2008-02-20,CARVALHO Diogo,FJELL Hallvard,3,1,"11,11,11,11|7,6,13,8",R64,OTHER,JBD,792,Main Draw,CARVALHO Diogo (POR),FJELL Hallvard (NOR),CARVALHO Diogo
+Safir International Orebro 2008,2008-02-20,CHOJNOWSKI Patryk,BARBOSA Jose,3,2,"11,9,10,11,11|6,11,12,4,8",R32,OTHER,JBD,792,Main Draw,CHOJNOWSKI Patryk (POL),BARBOSA Jose (BRA),CHOJNOWSKI Patryk
+Safir International Orebro 2008,2008-02-20,CHODORSKI Piotr,EFIMOV Vitaly,3,1,"11,10,11,11|7,12,8,4",R32,OTHER,JBD,792,Main Draw,CHODORSKI Piotr (POL),EFIMOV Vitaly (POR),CHODORSKI Piotr
+Safir International Orebro 2008,2008-02-20,GOLEBIOWSKI Mateusz,LE BRETON Thomas,3,1,"11,9,11,12|9,11,9,10",R32,OTHER,JBD,792,Main Draw,GOLEBIOWSKI Mateusz (POL),LE BRETON Thomas (FRA),GOLEBIOWSKI Mateusz
+Safir International Orebro 2008,2008-02-20,CHOJNOWSKI Patryk,LEE Seungjun,3,2,"10,11,11,4,13|12,7,6,11,11",R16,OTHER,JBD,792,Main Draw,CHOJNOWSKI Patryk (POL),LEE Seungjun (KOR),CHOJNOWSKI Patryk
+Safir International Orebro 2008,2008-02-20,HAM Sori,CHODORSKI Piotr,3,1,"10,11,11,11|12,9,8,9",R16,OTHER,JBD,792,Main Draw,HAM Sori (KOR),CHODORSKI Piotr (POL),HAM Sori
+Safir International Orebro 2008,2008-02-20,GROTH Jonathan,GOLEBIOWSKI Mateusz,3,2,"7,12,10,11,11|11,10,12,9,5",R16,OTHER,JBD,792,Main Draw,GROTH Jonathan (DEN),GOLEBIOWSKI Mateusz (POL),GROTH Jonathan
+Safir International Orebro 2008,2008-02-20,AGUIRRE Marcelo,CHOJNOWSKI Patryk,3,2,"11,11,9,10,12|7,6,11,12,10",QF,OTHER,JBD,792,Main Draw,AGUIRRE Marcelo (PAR),CHOJNOWSKI Patryk (POL),AGUIRRE Marcelo
+Safir International Orebro 2008,2008-02-20,KARLSSON Kristian,CARVALHO Diogo,3,0,"11,11,12|9,8,10",R16,OTHER,JBD,792,Main Draw,KARLSSON Kristian (SWE),CARVALHO Diogo (POR),KARLSSON Kristian
+Safir International Orebro 2008,2008-02-20,DAHLGREN Jakob,DE JESUS Edgard,3,0,"11,11,11|8,7,7",R64,OTHER,JBD,792,Main Draw,DAHLGREN Jakob (SWE),DE JESUS Edgard (PUR),DAHLGREN Jakob
+Safir International Orebro 2008,2008-02-20,CARVALHO Diogo,GONZALEZ Daniel,3,2,"9,12,8,13,11|11,10,11,11,3",R32,OTHER,JBD,792,Main Draw,CARVALHO Diogo (POR),GONZALEZ Daniel (PUR),CARVALHO Diogo
+Safir International Orebro 2008,2008-02-20,MACHI Asuka,TIMOSHIN Bogdan,3,1,"11,7,13,11|4,11,11,9",R64,OTHER,JBD,792,Main Draw,MACHI Asuka (JPN),TIMOSHIN Bogdan (RUS),MACHI Asuka
+Safir International Orebro 2008,2008-02-20,BOROVIK Alexandr,LUINI Jason,3,0,"11,11,11|9,7,9",R64,OTHER,JBD,792,Main Draw,BOROVIK Alexandr (RUS),LUINI Jason (ITA),BOROVIK Alexandr
+Safir International Orebro 2008,2008-02-20,NOMURA Taiyo,MERZLIKIN Taras,3,0,"11,11,11|6,1,7",R16,OTHER,JBD,792,Main Draw,NOMURA Taiyo (JPN),MERZLIKIN Taras (RUS),NOMURA Taiyo
+Safir International Orebro 2008,2008-02-20,DONADO Josue,EIHMANS Gints,3,0,,R64,OTHER,JBD,792,Main Draw,DONADO Josue (ESA),EIHMANS Gints (LAT),DONADO Josue
+Safir International Orebro 2008,2008-02-20,JEZO Filip,TER LUUN Casper,3,1,"11,9,11,11|5,11,8,9",R64,OTHER,JBD,792,Main Draw,JEZO Filip (SVK),TER LUUN Casper (NED),JEZO Filip
+Safir International Orebro 2008,2008-02-20,KARLSSON Kristian,KARAS David,3,1,"13,11,7,12|11,5,11,10",R32,OTHER,JBD,792,Main Draw,KARLSSON Kristian (SWE),KARAS David (SVK),KARLSSON Kristian
+Safir International Orebro 2008,2008-02-20,ARVIDSSON Simon,JEZO Filip,3,2,"11,5,11,9,11|4,11,5,11,8",R32,OTHER,JBD,792,Main Draw,ARVIDSSON Simon (SWE),JEZO Filip (SVK),ARVIDSSON Simon
+Safir International Orebro 2008,2008-02-20,MERZLIKIN Taras,SODERLUND Hampus,3,0,"14,11,11|12,6,9",R64,OTHER,JBD,792,Main Draw,MERZLIKIN Taras (RUS),SODERLUND Hampus (SWE),MERZLIKIN Taras
+Safir International Orebro 2008,2008-02-20,GROTH Jonathan,DAHLGREN Jakob,3,0,"11,11,11|6,6,5",R32,OTHER,JBD,792,Main Draw,GROTH Jonathan (DEN),DAHLGREN Jakob (SWE),GROTH Jonathan
+Safir International Orebro 2008,2008-02-20,NOMURA Taiyo,ARVIDSSON Simon,3,0,"11,11,11|9,9,8",SF,OTHER,JBD,792,Main Draw,NOMURA Taiyo (JPN),ARVIDSSON Simon (SWE),NOMURA Taiyo
+Safir International Orebro 2008,2008-02-20,KARLSSON Kristian,NOMURA Taiyo,3,1,"11,11,8,11|9,3,11,7",F,OTHER,JBD,792,Main Draw,KARLSSON Kristian (SWE),NOMURA Taiyo (JPN),KARLSSON Kristian
+Safir International Orebro 2008,2008-02-20,LE BRETON Thomas,CHAIEB Oussama,3,0,"11,11,11|8,3,7",R64,OTHER,JBD,792,Main Draw,LE BRETON Thomas (FRA),CHAIEB Oussama (TUN),LE BRETON Thomas
+Safir International Orebro 2008,2008-02-20,DROP Clement,GRACIA Carlos,3,0,"11,11,11|6,9,7",,OTHER,JBS,792,Qualification,DROP Clement (FRA),GRACIA Carlos (PUR),DROP Clement
+Safir International Orebro 2008,2008-02-20,DAHLGREN Jakob,TATULLI Frizzo,3,0,"14,11,11|12,9,9",QR2,OTHER,JBS,792,Qualification,DAHLGREN Jakob (SWE),TATULLI Frizzo (ITA),DAHLGREN Jakob
+Safir International Orebro 2008,2008-02-20,DROP Clement,DAHLGREN Jakob,3,0,"12,11,12|8,6,10",3,OTHER,JBS,792,Qualification,DROP Clement (FRA),DAHLGREN Jakob (SWE),DROP Clement
+Safir International Orebro 2008,2008-02-20,TATULLI Frizzo,GRACIA Carlos,3,0,"11,11,11|6,9,8",QR4,OTHER,JBS,792,Qualification,TATULLI Frizzo (ITA),GRACIA Carlos (PUR),TATULLI Frizzo
+Safir International Orebro 2008,2008-02-20,DROP Clement,TATULLI Frizzo,3,0,"13,16,12|11,14,10",5,OTHER,JBS,792,Qualification,DROP Clement (FRA),TATULLI Frizzo (ITA),DROP Clement
+Safir International Orebro 2008,2008-02-20,DAHLGREN Jakob,GRACIA Carlos,3,1,"8,11,11,11|11,9,6,6",6,OTHER,JBS,792,Qualification,DAHLGREN Jakob (SWE),GRACIA Carlos (PUR),DAHLGREN Jakob
+Safir International Orebro 2008,2008-02-20,KOSIBA Daniel,TORRES Roberto,3,0,"11,11,11|7,5,4",,OTHER,JBS,792,Qualification,KOSIBA Daniel (HUN),TORRES Roberto (PER),KOSIBA Daniel
+Safir International Orebro 2008,2008-02-20,VANROSSOMME Emilien,AKESSON Anton,3,1,"11,9,11,11|4,11,5,9",QR2,OTHER,JBS,792,Qualification,VANROSSOMME Emilien (BEL),AKESSON Anton (SWE),VANROSSOMME Emilien
+Safir International Orebro 2008,2008-02-20,VANROSSOMME Emilien,TORRES Roberto,3,0,"11,11,11|9,6,6",QR4,OTHER,JBS,792,Qualification,VANROSSOMME Emilien (BEL),TORRES Roberto (PER),VANROSSOMME Emilien
+Safir International Orebro 2008,2008-02-20,KOSIBA Daniel,VANROSSOMME Emilien,3,1,"15,8,11,11|13,11,3,4",5,OTHER,JBS,792,Qualification,KOSIBA Daniel (HUN),VANROSSOMME Emilien (BEL),KOSIBA Daniel
+Safir International Orebro 2008,2008-02-20,AKESSON Anton,TORRES Roberto,3,0,"11,11,14|6,6,12",6,OTHER,JBS,792,Qualification,AKESSON Anton (SWE),TORRES Roberto (PER),AKESSON Anton
+Safir International Orebro 2008,2008-02-20,ARVIDSSON Simon,BARBOSA Jose,3,1,"21,11,5,11|18,8,11,8",,OTHER,JBS,792,Qualification,ARVIDSSON Simon (SWE),BARBOSA Jose (BRA),ARVIDSSON Simon
+Safir International Orebro 2008,2008-02-20,LAXBY Henrik,TIMOSHIN Bogdan,3,0,"11,11,11|5,1,7",QR2,OTHER,JBS,792,Qualification,LAXBY Henrik (DEN),TIMOSHIN Bogdan (RUS),LAXBY Henrik
+Safir International Orebro 2008,2008-02-20,ARVIDSSON Simon,LAXBY Henrik,3,1,"11,12,11,11|6,14,9,3",3,OTHER,JBS,792,Qualification,ARVIDSSON Simon (SWE),LAXBY Henrik (DEN),ARVIDSSON Simon
+Safir International Orebro 2008,2008-02-20,BARBOSA Jose,TIMOSHIN Bogdan,3,0,"12,12,11|4,10,5",QR4,OTHER,JBS,792,Qualification,BARBOSA Jose (BRA),TIMOSHIN Bogdan (RUS),BARBOSA Jose
+Safir International Orebro 2008,2008-02-20,ARVIDSSON Simon,TIMOSHIN Bogdan,3,1,"11,11,11,11|13,8,6,7",5,OTHER,JBS,792,Qualification,ARVIDSSON Simon (SWE),TIMOSHIN Bogdan (RUS),ARVIDSSON Simon
+Safir International Orebro 2008,2008-02-20,BARBOSA Jose,LAXBY Henrik,3,0,"11,11,13|7,9,11",6,OTHER,JBS,792,Qualification,BARBOSA Jose (BRA),LAXBY Henrik (DEN),BARBOSA Jose
+Safir International Orebro 2008,2008-02-20,FLORAS Robert,ALTENBURG Olivier,3,0,"12,11,12|4,7,10",,OTHER,JBS,792,Qualification,FLORAS Robert (POL),ALTENBURG Olivier (NED),FLORAS Robert
+Safir International Orebro 2008,2008-02-20,TAZOE Kenta,SEKERA Tibor,3,2,"16,6,1,11,11|14,11,11,4,7",QR2,OTHER,JBS,792,Qualification,TAZOE Kenta (JPN),SEKERA Tibor (SVK),TAZOE Kenta
+Safir International Orebro 2008,2008-02-20,FLORAS Robert,SEKERA Tibor,3,0,"11,11,12|9,8,10",3,OTHER,JBS,792,Qualification,FLORAS Robert (POL),SEKERA Tibor (SVK),FLORAS Robert
+Safir International Orebro 2008,2008-02-20,TAZOE Kenta,ALTENBURG Olivier,3,1,"11,5,11,13|9,11,9,11",QR4,OTHER,JBS,792,Qualification,TAZOE Kenta (JPN),ALTENBURG Olivier (NED),TAZOE Kenta
+Safir International Orebro 2008,2008-02-20,TAZOE Kenta,FLORAS Robert,3,2,"5,11,11,9,11|11,7,9,11,6",5,OTHER,JBS,792,Qualification,TAZOE Kenta (JPN),FLORAS Robert (POL),TAZOE Kenta
+Safir International Orebro 2008,2008-02-20,SEKERA Tibor,ALTENBURG Olivier,3,0,"11,11,11|7,4,5",6,OTHER,JBS,792,Qualification,SEKERA Tibor (SVK),ALTENBURG Olivier (NED),SEKERA Tibor
+Safir International Orebro 2008,2008-02-20,KARLSSON Mattias,BRATLIE Johannes,3,1,"11,11,3,11|7,7,11,6",,OTHER,JBS,792,Qualification,KARLSSON Mattias (SWE),BRATLIE Johannes (NOR),KARLSSON Mattias
+Safir International Orebro 2008,2008-02-20,VALEEV Marsel,VAN DER LEE Nathan,3,2,"11,11,9,8,12|9,4,11,11,10",QR2,OTHER,JBS,792,Qualification,VALEEV Marsel (RUS),VAN DER LEE Nathan (NED),VALEEV Marsel
+Safir International Orebro 2008,2008-02-20,KARLSSON Mattias,VAN DER LEE Nathan,3,0,"11,11,11|4,5,8",3,OTHER,JBS,792,Qualification,KARLSSON Mattias (SWE),VAN DER LEE Nathan (NED),KARLSSON Mattias
+Safir International Orebro 2008,2008-02-20,VALEEV Marsel,BRATLIE Johannes,3,1,"11,11,7,11|8,8,11,5",QR4,OTHER,JBS,792,Qualification,VALEEV Marsel (RUS),BRATLIE Johannes (NOR),VALEEV Marsel
+Safir International Orebro 2008,2008-02-20,KARLSSON Mattias,VALEEV Marsel,3,0,"11,11,11|5,6,9",5,OTHER,JBS,792,Qualification,KARLSSON Mattias (SWE),VALEEV Marsel (RUS),KARLSSON Mattias
+Safir International Orebro 2008,2008-02-20,VAN DER LEE Nathan,BRATLIE Johannes,3,0,"14,11,11|12,8,9",6,OTHER,JBS,792,Qualification,VAN DER LEE Nathan (NED),BRATLIE Johannes (NOR),VAN DER LEE Nathan
+Safir International Orebro 2008,2008-02-20,TRAN Anthony,EVANS Gavin,3,0,"11,11,12|2,6,10",,OTHER,JBS,792,Qualification,TRAN Anthony (SWE),EVANS Gavin (ENG),TRAN Anthony
+Safir International Orebro 2008,2008-02-20,NIWA Koki,ZHIDKOV Ilya,3,1,"12,8,11,11|7,11,6,3",QR2,OTHER,JBS,792,Qualification,NIWA Koki (JPN),ZHIDKOV Ilya (RUS),NIWA Koki
+Safir International Orebro 2008,2008-02-20,NIWA Koki,EVANS Gavin,3,0,"11,11,12|8,7,10",3,OTHER,JBS,792,Qualification,NIWA Koki (JPN),EVANS Gavin (ENG),NIWA Koki
+Safir International Orebro 2008,2008-02-20,TRAN Anthony,ZHIDKOV Ilya,3,0,"11,11,11|4,5,7",QR4,OTHER,JBS,792,Qualification,TRAN Anthony (SWE),ZHIDKOV Ilya (RUS),TRAN Anthony
+Safir International Orebro 2008,2008-02-20,EVANS Gavin,ZHIDKOV Ilya,3,2,"11,11,10,6,11|5,7,12,11,9",5,OTHER,JBS,792,Qualification,EVANS Gavin (ENG),ZHIDKOV Ilya (RUS),EVANS Gavin
+Safir International Orebro 2008,2008-02-20,NIWA Koki,TRAN Anthony,3,0,"11,11,11|4,6,8",6,OTHER,JBS,792,Qualification,NIWA Koki (JPN),TRAN Anthony (SWE),NIWA Koki
+Safir International Orebro 2008,2008-02-20,VILA BATISTA Juan,CHAIEB Oussama,3,0,"12,11,11|6,6,6",,OTHER,JBS,792,Qualification,VILA BATISTA Juan (DOM),CHAIEB Oussama (TUN),VILA BATISTA Juan
+Safir International Orebro 2008,2008-02-20,MACHI Asuka,WARE Mathew,3,0,"11,11,11|7,7,4",QR2,OTHER,JBS,792,Qualification,MACHI Asuka (JPN),WARE Mathew (ENG),MACHI Asuka
+Safir International Orebro 2008,2008-02-20,MACHI Asuka,VILA BATISTA Juan,3,1,"11,10,11,11|6,12,6,3",3,OTHER,JBS,792,Qualification,MACHI Asuka (JPN),VILA BATISTA Juan (DOM),MACHI Asuka
+Safir International Orebro 2008,2008-02-20,WARE Mathew,CHAIEB Oussama,3,1,"11,6,11,11|6,11,8,3",QR4,OTHER,JBS,792,Qualification,WARE Mathew (ENG),CHAIEB Oussama (TUN),WARE Mathew
+Safir International Orebro 2008,2008-02-20,WARE Mathew,VILA BATISTA Juan,3,2,"11,7,11,5,11|9,11,9,11,8",5,OTHER,JBS,792,Qualification,WARE Mathew (ENG),VILA BATISTA Juan (DOM),WARE Mathew
+Safir International Orebro 2008,2008-02-20,MACHI Asuka,CHAIEB Oussama,3,0,"11,11,11|9,8,9",6,OTHER,JBS,792,Qualification,MACHI Asuka (JPN),CHAIEB Oussama (TUN),MACHI Asuka
+Safir International Orebro 2008,2008-02-20,LE BRETON Thomas,HMAM Adam,3,1,"12,11,10,11|5,4,12,7",,OTHER,JBS,792,Qualification,LE BRETON Thomas (FRA),HMAM Adam (TUN),LE BRETON Thomas
+Safir International Orebro 2008,2008-02-20,PITCHFORD Liam,SERETTI Damiano,3,0,"11,11,11|4,4,9",QR2,OTHER,JBS,792,Qualification,PITCHFORD Liam (ENG),SERETTI Damiano (ITA),PITCHFORD Liam
+Safir International Orebro 2008,2008-02-20,LE BRETON Thomas,PITCHFORD Liam,3,2,"14,6,13,11,11|16,11,11,6,4",3,OTHER,JBS,792,Qualification,LE BRETON Thomas (FRA),PITCHFORD Liam (ENG),LE BRETON Thomas
+Safir International Orebro 2008,2008-02-20,HMAM Adam,SERETTI Damiano,3,0,"11,11,11|7,7,6",QR4,OTHER,JBS,792,Qualification,HMAM Adam (TUN),SERETTI Damiano (ITA),HMAM Adam
+Safir International Orebro 2008,2008-02-20,LE BRETON Thomas,SERETTI Damiano,3,0,"11,11,11|4,5,7",5,OTHER,JBS,792,Qualification,LE BRETON Thomas (FRA),SERETTI Damiano (ITA),LE BRETON Thomas
+Safir International Orebro 2008,2008-02-20,HMAM Adam,PITCHFORD Liam,3,0,"11,11,12|6,9,10",6,OTHER,JBS,792,Qualification,HMAM Adam (TUN),PITCHFORD Liam (ENG),HMAM Adam
+Safir International Orebro 2008,2008-02-20,OVERSJO Mattias,HARTEL Pavol,3,0,"13,11,11|10,5,8",,OTHER,JBS,792,Qualification,OVERSJO Mattias (SWE),HARTEL Pavol (SVK),OVERSJO Mattias
+Safir International Orebro 2008,2008-02-20,SHIN Inchell,SAMOUILLAN Michael,3,1,"16,11,9,11|14,9,11,7",QR2,OTHER,JBS,792,Qualification,SHIN Inchell (KOR),SAMOUILLAN Michael (FRA),SHIN Inchell
+Safir International Orebro 2008,2008-02-20,OVERSJO Mattias,SAMOUILLAN Michael,3,2,"5,11,11,9,11|11,5,6,11,5",3,OTHER,JBS,792,Qualification,OVERSJO Mattias (SWE),SAMOUILLAN Michael (FRA),OVERSJO Mattias
+Safir International Orebro 2008,2008-02-20,SHIN Inchell,HARTEL Pavol,3,0,"11,11,11|5,8,6",QR4,OTHER,JBS,792,Qualification,SHIN Inchell (KOR),HARTEL Pavol (SVK),SHIN Inchell
+Safir International Orebro 2008,2008-02-20,SHIN Inchell,OVERSJO Mattias,3,1,"12,7,11,11|10,11,7,9",5,OTHER,JBS,792,Qualification,SHIN Inchell (KOR),OVERSJO Mattias (SWE),SHIN Inchell
+Safir International Orebro 2008,2008-02-20,SAMOUILLAN Michael,HARTEL Pavol,3,0,"11,11,11|6,5,4",6,OTHER,JBS,792,Qualification,SAMOUILLAN Michael (FRA),HARTEL Pavol (SVK),SAMOUILLAN Michael
+Safir International Orebro 2008,2008-02-20,KIM Jihwan,DONADO Josue,3,2,"11,11,12,8,11|5,8,14,11,6",,OTHER,JBS,792,Qualification,KIM Jihwan (KOR),DONADO Josue (ESA),KIM Jihwan
+Safir International Orebro 2008,2008-02-20,ROCHA Paulo,BIERNY Ludovic,3,1,"11,11,10,11|9,8,12,9",QR2,OTHER,JBS,792,Qualification,ROCHA Paulo (BRA),BIERNY Ludovic (BEL),ROCHA Paulo
+Safir International Orebro 2008,2008-02-20,DONADO Josue,BIERNY Ludovic,3,1,"6,11,11,11|11,6,8,2",3,OTHER,JBS,792,Qualification,DONADO Josue (ESA),BIERNY Ludovic (BEL),DONADO Josue
+Safir International Orebro 2008,2008-02-20,KIM Jihwan,ROCHA Paulo,3,0,"11,11,11|7,5,7",QR4,OTHER,JBS,792,Qualification,KIM Jihwan (KOR),ROCHA Paulo (BRA),KIM Jihwan
+Safir International Orebro 2008,2008-02-20,ROCHA Paulo,DONADO Josue,3,2,"11,7,11,11,11|13,11,8,7,6",5,OTHER,JBS,792,Qualification,ROCHA Paulo (BRA),DONADO Josue (ESA),ROCHA Paulo
+Safir International Orebro 2008,2008-02-20,KIM Jihwan,BIERNY Ludovic,3,2,"11,9,11,11,11|7,11,13,6,5",6,OTHER,JBS,792,Qualification,KIM Jihwan (KOR),BIERNY Ludovic (BEL),KIM Jihwan
+Safir International Orebro 2008,2008-02-20,BRODD Viktor,GONZALEZ Daniel,3,0,"11,11,11|5,4,5",,OTHER,JBS,792,Qualification,BRODD Viktor (SWE),GONZALEZ Daniel (PUR),BRODD Viktor
+Safir International Orebro 2008,2008-02-20,LEE Seungjun,MCCREERY Paul,3,0,"11,11,11|9,5,4",QR2,OTHER,JBS,792,Qualification,LEE Seungjun (KOR),MCCREERY Paul (IRL),LEE Seungjun
+Safir International Orebro 2008,2008-02-20,LEE Seungjun,BRODD Viktor,3,2,"13,3,11,9,11|11,11,9,11,8",3,OTHER,JBS,792,Qualification,LEE Seungjun (KOR),BRODD Viktor (SWE),LEE Seungjun
+Safir International Orebro 2008,2008-02-20,MCCREERY Paul,GONZALEZ Daniel,3,0,"11,11,11|9,8,6",QR4,OTHER,JBS,792,Qualification,MCCREERY Paul (IRL),GONZALEZ Daniel (PUR),MCCREERY Paul
+Safir International Orebro 2008,2008-02-20,BRODD Viktor,MCCREERY Paul,3,0,"11,11,11|7,8,5",5,OTHER,JBS,792,Qualification,BRODD Viktor (SWE),MCCREERY Paul (IRL),BRODD Viktor
+Safir International Orebro 2008,2008-02-20,LEE Seungjun,GONZALEZ Daniel,3,1,"11,11,9,11|4,8,11,9",6,OTHER,JBS,792,Qualification,LEE Seungjun (KOR),GONZALEZ Daniel (PUR),LEE Seungjun
+Safir International Orebro 2008,2008-02-20,AGUIRRE Marcelo,EIHMANS Gints,3,0,"11,11,11|7,9,7",,OTHER,JBS,792,Qualification,AGUIRRE Marcelo (PAR),EIHMANS Gints (LAT),AGUIRRE Marcelo
+Safir International Orebro 2008,2008-02-20,KILL Christian,PIETRI Richard,3,1,"12,8,11,11|7,11,6,8",QR2,OTHER,JBS,792,Qualification,KILL Christian (LUX),PIETRI Richard (PUR),KILL Christian
+Safir International Orebro 2008,2008-02-20,KILL Christian,AGUIRRE Marcelo,3,0,"11,11,11|8,9,8",3,OTHER,JBS,792,Qualification,KILL Christian (LUX),AGUIRRE Marcelo (PAR),KILL Christian
+Safir International Orebro 2008,2008-02-20,PIETRI Richard,EIHMANS Gints,3,2,"11,11,9,11,11|7,13,11,9,6",QR4,OTHER,JBS,792,Qualification,PIETRI Richard (PUR),EIHMANS Gints (LAT),PIETRI Richard
+Safir International Orebro 2008,2008-02-20,AGUIRRE Marcelo,PIETRI Richard,3,0,"11,11,11|3,8,9",5,OTHER,JBS,792,Qualification,AGUIRRE Marcelo (PAR),PIETRI Richard (PUR),AGUIRRE Marcelo
+Safir International Orebro 2008,2008-02-20,KILL Christian,EIHMANS Gints,3,0,"11,11,11|8,5,4",6,OTHER,JBS,792,Qualification,KILL Christian (LUX),EIHMANS Gints (LAT),KILL Christian
+Safir International Orebro 2008,2008-02-20,SEBESTYEN Peter,HAM Sori,3,1,"14,9,16,11|11,11,14,9",,OTHER,JBS,792,Qualification,SEBESTYEN Peter (HUN),HAM Sori (KOR),SEBESTYEN Peter
+Safir International Orebro 2008,2008-02-20,SODERLUND Hampus,OTSUKA Masahiro,3,0,"12,11,11|7,5,4",QR2,OTHER,JBS,792,Qualification,SODERLUND Hampus (SWE),OTSUKA Masahiro (JPN),SODERLUND Hampus
+Safir International Orebro 2008,2008-02-20,SODERLUND Hampus,SEBESTYEN Peter,3,2,"11,9,12,12,11|9,11,10,14,9",3,OTHER,JBS,792,Qualification,SODERLUND Hampus (SWE),SEBESTYEN Peter (HUN),SODERLUND Hampus
+Safir International Orebro 2008,2008-02-20,HAM Sori,OTSUKA Masahiro,3,2,"11,11,11,7,11|13,4,5,11,4",QR4,OTHER,JBS,792,Qualification,HAM Sori (KOR),OTSUKA Masahiro (JPN),HAM Sori
+Safir International Orebro 2008,2008-02-20,SEBESTYEN Peter,OTSUKA Masahiro,3,2,"7,11,6,11,11|11,9,11,7,7",5,OTHER,JBS,792,Qualification,SEBESTYEN Peter (HUN),OTSUKA Masahiro (JPN),SEBESTYEN Peter
+Safir International Orebro 2008,2008-02-20,SODERLUND Hampus,HAM Sori,3,1,"11,10,11,11|6,12,8,8",6,OTHER,JBS,792,Qualification,SODERLUND Hampus (SWE),HAM Sori (KOR),SODERLUND Hampus
+Safir International Orebro 2008,2008-02-20,JEAN Lauric,ANDERSSON Harald,3,2,"11,12,13,4,11|9,10,15,11,5",,OTHER,JBS,792,Qualification,JEAN Lauric (BEL),ANDERSSON Harald (SWE),JEAN Lauric
+Safir International Orebro 2008,2008-02-20,MERZLIKIN Taras,REENBERG Asbjorn,3,0,"12,11,13|1,4,11",QR2,OTHER,JBS,792,Qualification,MERZLIKIN Taras (RUS),REENBERG Asbjorn (DEN),MERZLIKIN Taras
+Safir International Orebro 2008,2008-02-20,JEAN Lauric,MERZLIKIN Taras,3,2,"11,9,11,9,11|7,11,0,11,6",3,OTHER,JBS,792,Qualification,JEAN Lauric (BEL),MERZLIKIN Taras (RUS),JEAN Lauric
+Safir International Orebro 2008,2008-02-20,ANDERSSON Harald,REENBERG Asbjorn,3,2,"11,7,11,6,14|6,11,9,11,12",QR4,OTHER,JBS,792,Qualification,ANDERSSON Harald (SWE),REENBERG Asbjorn (DEN),ANDERSSON Harald
+Safir International Orebro 2008,2008-02-20,JEAN Lauric,REENBERG Asbjorn,3,0,"11,11,11|3,3,3",5,OTHER,JBS,792,Qualification,JEAN Lauric (BEL),REENBERG Asbjorn (DEN),JEAN Lauric
+Safir International Orebro 2008,2008-02-20,ANDERSSON Harald,MERZLIKIN Taras,3,1,"11,11,13,11|5,6,15,4",6,OTHER,JBS,792,Qualification,ANDERSSON Harald (SWE),MERZLIKIN Taras (RUS),ANDERSSON Harald
+Safir International Orebro 2008,2008-02-20,KIM Donghyun,LE GUEN Victorien,3,1,"5,13,11,11|12,11,9,7",,OTHER,JBS,792,Qualification,KIM Donghyun (KOR),LE GUEN Victorien (FRA),KIM Donghyun
+Safir International Orebro 2008,2008-02-20,HELLERUD Kristoffer,NUYTINCK Cedric,3,1,"15,7,11,11|12,11,7,9",QR2,OTHER,JBS,792,Qualification,HELLERUD Kristoffer (NOR),NUYTINCK Cedric (BEL),HELLERUD Kristoffer
+Safir International Orebro 2008,2008-02-20,HELLERUD Kristoffer,LE GUEN Victorien,3,0,"12,11,11|10,5,8",3,OTHER,JBS,792,Qualification,HELLERUD Kristoffer (NOR),LE GUEN Victorien (FRA),HELLERUD Kristoffer
+Safir International Orebro 2008,2008-02-20,KIM Donghyun,NUYTINCK Cedric,3,0,"11,11,11|4,7,7",QR4,OTHER,JBS,792,Qualification,KIM Donghyun (KOR),NUYTINCK Cedric (BEL),KIM Donghyun
+Safir International Orebro 2008,2008-02-20,NUYTINCK Cedric,LE GUEN Victorien,3,2,"11,8,11,6,16|3,11,8,11,14",5,OTHER,JBS,792,Qualification,NUYTINCK Cedric (BEL),LE GUEN Victorien (FRA),NUYTINCK Cedric
+Safir International Orebro 2008,2008-02-20,KIM Donghyun,HELLERUD Kristoffer,3,0,"11,12,11|8,10,4",6,OTHER,JBS,792,Qualification,KIM Donghyun (KOR),HELLERUD Kristoffer (NOR),KIM Donghyun
+Safir International Orebro 2008,2008-02-20,KVIST Andreas,KOBES Kristian,3,1,"9,12,11,11|12,10,5,8",,OTHER,JBS,792,Qualification,KVIST Andreas (SWE),KOBES Kristian (SVK),KVIST Andreas
+Safir International Orebro 2008,2008-02-20,SIRUCEK Pavel,LIM Seyeol,3,0,"12,11,11|6,6,7",QR2,OTHER,JBS,792,Qualification,SIRUCEK Pavel (CZE),LIM Seyeol (KOR),SIRUCEK Pavel
+Safir International Orebro 2008,2008-02-20,KOBES Kristian,SIRUCEK Pavel,3,0,"11,11,11|3,9,5",3,OTHER,JBS,792,Qualification,KOBES Kristian (SVK),SIRUCEK Pavel (CZE),KOBES Kristian
+Safir International Orebro 2008,2008-02-20,KVIST Andreas,LIM Seyeol,3,0,"11,11,11|8,4,1",QR4,OTHER,JBS,792,Qualification,KVIST Andreas (SWE),LIM Seyeol (KOR),KVIST Andreas
+Safir International Orebro 2008,2008-02-20,KOBES Kristian,LIM Seyeol,3,0,"11,11,11|6,5,9",5,OTHER,JBS,792,Qualification,KOBES Kristian (SVK),LIM Seyeol (KOR),KOBES Kristian
+Safir International Orebro 2008,2008-02-20,KVIST Andreas,SIRUCEK Pavel,3,0,"11,12,11|5,10,9",6,OTHER,JBS,792,Qualification,KVIST Andreas (SWE),SIRUCEK Pavel (CZE),KVIST Andreas
+Safir International Orebro 2008,2008-02-20,JEZO Filip,GAMMELMARK Casper,3,0,"12,11,11|8,7,7",,OTHER,JBS,792,Qualification,JEZO Filip (SVK),GAMMELMARK Casper (DEN),JEZO Filip
+Safir International Orebro 2008,2008-02-20,BOROVIK Alexandr,MUTTI Leonardo,3,1,"13,7,11,11|10,11,5,7",QR2,OTHER,JBS,792,Qualification,BOROVIK Alexandr (RUS),MUTTI Leonardo (ITA),BOROVIK Alexandr
+Safir International Orebro 2008,2008-02-20,BOROVIK Alexandr,JEZO Filip,3,2,"11,11,10,9,11|7,7,12,11,8",3,OTHER,JBS,792,Qualification,BOROVIK Alexandr (RUS),JEZO Filip (SVK),BOROVIK Alexandr
+Safir International Orebro 2008,2008-02-20,GAMMELMARK Casper,MUTTI Leonardo,3,1,"11,7,12,11|7,11,10,7",QR4,OTHER,JBS,792,Qualification,GAMMELMARK Casper (DEN),MUTTI Leonardo (ITA),GAMMELMARK Casper
+Safir International Orebro 2008,2008-02-20,JEZO Filip,MUTTI Leonardo,3,1,"11,10,11,11|7,12,6,7",5,OTHER,JBS,792,Qualification,JEZO Filip (SVK),MUTTI Leonardo (ITA),JEZO Filip
+Safir International Orebro 2008,2008-02-20,BOROVIK Alexandr,GAMMELMARK Casper,3,2,"11,9,11,10,13|6,11,5,12,11",6,OTHER,JBS,792,Qualification,BOROVIK Alexandr (RUS),GAMMELMARK Casper (DEN),BOROVIK Alexandr
+Safir International Orebro 2008,2008-02-20,LAVERGNE Paul,GROTH Jonathan,3,2,"12,9,11,10,11|9,11,9,12,8",,OTHER,JBS,792,Qualification,LAVERGNE Paul (FRA),GROTH Jonathan (DEN),LAVERGNE Paul
+Safir International Orebro 2008,2008-02-20,BISI Paolo,CULLEN Sean,3,0,"12,11,11|4,9,8",QR2,OTHER,JBS,792,Qualification,BISI Paolo (ITA),CULLEN Sean (ENG),BISI Paolo
+Safir International Orebro 2008,2008-02-20,LAVERGNE Paul,BISI Paolo,3,2,"5,7,11,11,11|11,11,8,8,7",3,OTHER,JBS,792,Qualification,LAVERGNE Paul (FRA),BISI Paolo (ITA),LAVERGNE Paul
+Safir International Orebro 2008,2008-02-20,GROTH Jonathan,CULLEN Sean,3,2,"11,6,11,8,11|7,11,6,11,2",QR4,OTHER,JBS,792,Qualification,GROTH Jonathan (DEN),CULLEN Sean (ENG),GROTH Jonathan
+Safir International Orebro 2008,2008-02-20,LAVERGNE Paul,CULLEN Sean,3,0,"11,11,11|3,6,4",5,OTHER,JBS,792,Qualification,LAVERGNE Paul (FRA),CULLEN Sean (ENG),LAVERGNE Paul
+Safir International Orebro 2008,2008-02-20,BISI Paolo,GROTH Jonathan,3,2,"11,8,11,12,11|7,11,9,14,7",6,OTHER,JBS,792,Qualification,BISI Paolo (ITA),GROTH Jonathan (DEN),BISI Paolo
+Safir International Orebro 2008,2008-02-20,JENDRZEJEWSKI Patryk,INDEHERBERG Julien,3,2,"12,8,11,7,11|8,11,6,11,6",,OTHER,JBS,792,Qualification,JENDRZEJEWSKI Patryk (POL),INDEHERBERG Julien (BEL),JENDRZEJEWSKI Patryk
+Safir International Orebro 2008,2008-02-20,EFIMOV Vitaly,LUINI Jason,3,0,"12,11,11|6,7,5",QR2,OTHER,JBS,792,Qualification,EFIMOV Vitaly (POR),LUINI Jason (ITA),EFIMOV Vitaly
+Safir International Orebro 2008,2008-02-20,EFIMOV Vitaly,JENDRZEJEWSKI Patryk,3,2,"7,11,11,10,11|11,9,6,12,9",3,OTHER,JBS,792,Qualification,EFIMOV Vitaly (POR),JENDRZEJEWSKI Patryk (POL),EFIMOV Vitaly
+Safir International Orebro 2008,2008-02-20,INDEHERBERG Julien,LUINI Jason,3,0,"11,11,11|6,6,7",QR4,OTHER,JBS,792,Qualification,INDEHERBERG Julien (BEL),LUINI Jason (ITA),INDEHERBERG Julien
+Safir International Orebro 2008,2008-02-20,JENDRZEJEWSKI Patryk,LUINI Jason,3,2,"12,5,11,2,13|10,11,7,11,11",5,OTHER,JBS,792,Qualification,JENDRZEJEWSKI Patryk (POL),LUINI Jason (ITA),JENDRZEJEWSKI Patryk
+Safir International Orebro 2008,2008-02-20,INDEHERBERG Julien,EFIMOV Vitaly,3,0,"11,11,11|6,6,5",6,OTHER,JBS,792,Qualification,INDEHERBERG Julien (BEL),EFIMOV Vitaly (POR),INDEHERBERG Julien
+Safir International Orebro 2008,2008-02-20,VOLNY Karel,KARAS David,3,0,"12,11,11|6,9,5",,OTHER,JBS,792,Qualification,VOLNY Karel (CZE),KARAS David (SVK),VOLNY Karel
+Safir International Orebro 2008,2008-02-20,FJELL Hallvard,CARVALHO Diogo,3,2,"12,6,3,11,11|4,11,11,9,2",QR2,OTHER,JBS,792,Qualification,FJELL Hallvard (NOR),CARVALHO Diogo (POR),FJELL Hallvard
+Safir International Orebro 2008,2008-02-20,FJELL Hallvard,VOLNY Karel,3,1,"11,11,4,11|4,2,11,9",3,OTHER,JBS,792,Qualification,FJELL Hallvard (NOR),VOLNY Karel (CZE),FJELL Hallvard
+Safir International Orebro 2008,2008-02-20,CARVALHO Diogo,KARAS David,3,1,"8,12,11,11|11,10,8,1",QR4,OTHER,JBS,792,Qualification,CARVALHO Diogo (POR),KARAS David (SVK),CARVALHO Diogo
+Safir International Orebro 2008,2008-02-20,CARVALHO Diogo,VOLNY Karel,3,0,"11,11,11|7,5,8",5,OTHER,JBS,792,Qualification,CARVALHO Diogo (POR),VOLNY Karel (CZE),CARVALHO Diogo
+Safir International Orebro 2008,2008-02-20,FJELL Hallvard,KARAS David,3,0,"11,11,11|4,7,5",6,OTHER,JBS,792,Qualification,FJELL Hallvard (NOR),KARAS David (SVK),FJELL Hallvard
+Safir International Orebro 2008,2008-02-20,TER LUUN Casper,FREITAS Luis Andre,3,2,"8,11,11,3,15|11,6,6,11,13",,OTHER,JBS,792,Qualification,TER LUUN Casper (NED),FREITAS Luis Andre (POR),TER LUUN Casper
+Safir International Orebro 2008,2008-02-20,RECH DALDOSSO Marco,LAU Tobias,3,0,"13,11,11|10,1,5",QR2,OTHER,JBS,792,Qualification,RECH DALDOSSO Marco (ITA),LAU Tobias (DEN),RECH DALDOSSO Marco
+Safir International Orebro 2008,2008-02-20,RECH DALDOSSO Marco,TER LUUN Casper,3,0,"11,12,11|9,10,9",3,OTHER,JBS,792,Qualification,RECH DALDOSSO Marco (ITA),TER LUUN Casper (NED),RECH DALDOSSO Marco
+Safir International Orebro 2008,2008-02-20,LAU Tobias,FREITAS Luis Andre,3,2,"9,5,11,11,11|11,11,5,4,6",QR4,OTHER,JBS,792,Qualification,LAU Tobias (DEN),FREITAS Luis Andre (POR),LAU Tobias
+Safir International Orebro 2008,2008-02-20,LAU Tobias,TER LUUN Casper,3,2,"9,11,11,11,11|11,13,8,9,6",5,OTHER,JBS,792,Qualification,LAU Tobias (DEN),TER LUUN Casper (NED),LAU Tobias
+Safir International Orebro 2008,2008-02-20,RECH DALDOSSO Marco,FREITAS Luis Andre,3,0,"12,11,11|10,6,8",6,OTHER,JBS,792,Qualification,RECH DALDOSSO Marco (ITA),FREITAS Luis Andre (POR),RECH DALDOSSO Marco
+Safir International Orebro 2008,2008-02-20,RESTREPO Juan,DE JESUS Edgard,3,0,"11,11,11|2,3,4",,OTHER,JBS,792,Qualification,RESTREPO Juan (COL),DE JESUS Edgard (PUR),RESTREPO Juan
+Safir International Orebro 2008,2008-02-20,PINHO Diogo,KIM Minjoo,3,0,"12,11,11|5,8,7",QR2,OTHER,JBS,792,Qualification,PINHO Diogo (POR),KIM Minjoo (KOR),PINHO Diogo
+Safir International Orebro 2008,2008-02-20,RESTREPO Juan,PINHO Diogo,3,0,"11,13,11|9,11,8",3,OTHER,JBS,792,Qualification,RESTREPO Juan (COL),PINHO Diogo (POR),RESTREPO Juan
+Safir International Orebro 2008,2008-02-20,KIM Minjoo,DE JESUS Edgard,3,0,"11,11,11|8,4,3",QR4,OTHER,JBS,792,Qualification,KIM Minjoo (KOR),DE JESUS Edgard (PUR),KIM Minjoo
+Safir International Orebro 2008,2008-02-20,RESTREPO Juan,KIM Minjoo,3,1,"9,11,11,11|11,1,6,7",5,OTHER,JBS,792,Qualification,RESTREPO Juan (COL),KIM Minjoo (KOR),RESTREPO Juan
+Safir International Orebro 2008,2008-02-20,PINHO Diogo,DE JESUS Edgard,3,0,"11,11,11|6,3,9",6,OTHER,JBS,792,Qualification,PINHO Diogo (POR),DE JESUS Edgard (PUR),PINHO Diogo
+Safir International Orebro 2008,2008-02-20,ANDERSSON Harald,JEZO Filip,4,0,"12,16,11,11|10,14,7,3",R64,OTHER,JBS,792,Main Draw,ANDERSSON Harald (SWE),JEZO Filip (SVK),ANDERSSON Harald
+Safir International Orebro 2008,2008-02-20,LEE Seungjun,LAU Tobias,4,0,"11,11,11,11|7,7,7,8",R64,OTHER,JBS,792,Main Draw,LEE Seungjun (KOR),LAU Tobias (DEN),LEE Seungjun
+Safir International Orebro 2008,2008-02-20,NIWA Koki,BISI Paolo,4,0,"11,14,11,12|6,12,9,10",R64,OTHER,JBS,792,Main Draw,NIWA Koki (JPN),BISI Paolo (ITA),NIWA Koki
+Safir International Orebro 2008,2008-02-20,OVERSJO Mattias,FJELL Hallvard,4,2,"9,11,11,11,13,11|11,9,13,7,11,9",R64,OTHER,JBS,792,Main Draw,OVERSJO Mattias (SWE),FJELL Hallvard (NOR),OVERSJO Mattias
+Safir International Orebro 2008,2008-02-20,FLORAS Robert,INDEHERBERG Julien,4,0,"11,11,11,11|7,2,6,7",R64,OTHER,JBS,792,Main Draw,FLORAS Robert (POL),INDEHERBERG Julien (BEL),FLORAS Robert
+Safir International Orebro 2008,2008-02-20,KIM Jihwan,DAHLGREN Jakob,4,1,"11,7,11,11,11|7,11,9,7,4",R64,OTHER,JBS,792,Main Draw,KIM Jihwan (KOR),DAHLGREN Jakob (SWE),KIM Jihwan
+Safir International Orebro 2008,2008-02-20,HELLERUD Kristoffer,SODERLUND Hampus,4,2,"9,11,11,11,8,11|11,3,8,6,11,8",R64,OTHER,JBS,792,Main Draw,HELLERUD Kristoffer (NOR),SODERLUND Hampus (SWE),HELLERUD Kristoffer
+Safir International Orebro 2008,2008-02-20,MACHI Asuka,VANROSSOMME Emilien,4,1,"11,9,11,11,14|9,11,6,4,12",R64,OTHER,JBS,792,Main Draw,MACHI Asuka (JPN),VANROSSOMME Emilien (BEL),MACHI Asuka
+Safir International Orebro 2008,2008-02-20,KVIST Andreas,PINHO Diogo,4,3,"11,11,11,7,10,6,11|7,5,8,11,12,11,8",R64,OTHER,JBS,792,Main Draw,KVIST Andreas (SWE),PINHO Diogo (POR),KVIST Andreas
+Safir International Orebro 2008,2008-02-20,BARBOSA Jose,KILL Christian,4,1,"11,11,8,12,12|9,6,11,10,10",R64,OTHER,JBS,792,Main Draw,BARBOSA Jose (BRA),KILL Christian (LUX),BARBOSA Jose
+Safir International Orebro 2008,2008-02-20,VALEEV Marsel,HMAM Adam,4,3,"9,11,11,6,10,11,11|11,3,7,11,12,9,9",R64,OTHER,JBS,792,Main Draw,VALEEV Marsel (RUS),HMAM Adam (TUN),VALEEV Marsel
+Safir International Orebro 2008,2008-02-20,SHIN Inchell,TRAN Anthony,4,3,"11,11,11,6,3,10,12|7,7,8,11,11,12,10",R64,OTHER,JBS,792,Main Draw,SHIN Inchell (KOR),TRAN Anthony (SWE),SHIN Inchell
+Safir International Orebro 2008,2008-02-20,ARVIDSSON Simon,SEBESTYEN Peter,4,0,"11,11,11,11|6,8,9,7",R64,OTHER,JBS,792,Main Draw,ARVIDSSON Simon (SWE),SEBESTYEN Peter (HUN),ARVIDSSON Simon
+Safir International Orebro 2008,2008-02-20,WARE Mathew,RESTREPO Juan,4,1,"11,11,8,11,11|8,9,11,8,8",R64,OTHER,JBS,792,Main Draw,WARE Mathew (ENG),RESTREPO Juan (COL),WARE Mathew
+Safir International Orebro 2008,2008-02-20,JEAN Lauric,ROCHA Paulo,4,1,"11,11,11,6,11|8,9,9,11,9",R64,OTHER,JBS,792,Main Draw,JEAN Lauric (BEL),ROCHA Paulo (BRA),JEAN Lauric
+Safir International Orebro 2008,2008-02-20,AGUIRRE Marcelo,RECH DALDOSSO Marco,4,2,"11,4,11,11,7,11|6,11,8,1,11,8",R64,OTHER,JBS,792,Main Draw,AGUIRRE Marcelo (PAR),RECH DALDOSSO Marco (ITA),AGUIRRE Marcelo
+Safir International Orebro 2008,2008-02-20,KOBES Kristian,BOROVIK Alexandr,4,2,"7,11,11,5,11,11|11,7,9,11,7,7",R64,OTHER,JBS,792,Main Draw,KOBES Kristian (SVK),BOROVIK Alexandr (RUS),KOBES Kristian
+Safir International Orebro 2008,2008-02-20,JENDRZEJEWSKI Patryk,TAZOE Kenta,4,1,"10,11,11,11,15|12,9,6,4,13",R64,OTHER,JBS,792,Main Draw,JENDRZEJEWSKI Patryk (POL),TAZOE Kenta (JPN),JENDRZEJEWSKI Patryk
+Safir International Orebro 2008,2008-02-20,LAVERGNE Paul,BRODD Viktor,4,0,"11,11,12,11|6,5,10,9",R64,OTHER,JBS,792,Main Draw,LAVERGNE Paul (FRA),BRODD Viktor (SWE),LAVERGNE Paul
+Safir International Orebro 2008,2008-02-20,CARVALHO Diogo,KIM Donghyun,4,2,"11,13,11,11,11,11|4,15,13,6,8,8",R64,OTHER,JBS,792,Main Draw,CARVALHO Diogo (POR),KIM Donghyun (KOR),CARVALHO Diogo
+Safir International Orebro 2008,2008-02-20,ANDERSSON Harald,CHODORSKI Piotr,4,1,"11,11,4,11,16|4,6,11,5,14",R32,OTHER,JBS,792,Main Draw,ANDERSSON Harald (SWE),CHODORSKI Piotr (POL),ANDERSSON Harald
+Safir International Orebro 2008,2008-02-20,KARLSSON Mattias,LEE Seungjun,4,1,"12,11,11,8,11|10,1,1,11,3",R32,OTHER,JBS,792,Main Draw,KARLSSON Mattias (SWE),LEE Seungjun (KOR),KARLSSON Mattias
+Safir International Orebro 2008,2008-02-20,NIWA Koki,OVERSJO Mattias,4,3,"11,11,5,8,9,11,11|5,6,11,11,11,8,4",R32,OTHER,JBS,792,Main Draw,NIWA Koki (JPN),OVERSJO Mattias (SWE),NIWA Koki
+Safir International Orebro 2008,2008-02-20,SHIBAEV Alexander,FLORAS Robert,4,2,"9,11,11,9,17,11|11,5,5,11,15,6",R32,OTHER,JBS,792,Main Draw,SHIBAEV Alexander (RUS),FLORAS Robert (POL),SHIBAEV Alexander
+Safir International Orebro 2008,2008-02-20,FERTIKOWSKI Pawel,KIM Jihwan,4,0,"11,11,11,11|6,7,7,6",R32,OTHER,JBS,792,Main Draw,FERTIKOWSKI Pawel (POL),KIM Jihwan (KOR),FERTIKOWSKI Pawel
+Safir International Orebro 2008,2008-02-20,HELLERUD Kristoffer,MACHI Asuka,4,1,"13,14,11,11,11|15,12,9,6,7",R32,OTHER,JBS,792,Main Draw,HELLERUD Kristoffer (NOR),MACHI Asuka (JPN),HELLERUD Kristoffer
+Safir International Orebro 2008,2008-02-20,KVIST Andreas,LE BRETON Thomas,4,2,"10,11,11,4,11,11|12,6,5,11,9,7",R32,OTHER,JBS,792,Main Draw,KVIST Andreas (SWE),LE BRETON Thomas (FRA),KVIST Andreas
+Safir International Orebro 2008,2008-02-20,NOMURA Taiyo,BARBOSA Jose,4,0,"11,13,11,11|6,11,4,9",R32,OTHER,JBS,792,Main Draw,NOMURA Taiyo (JPN),BARBOSA Jose (BRA),NOMURA Taiyo
+Safir International Orebro 2008,2008-02-20,UEDA Jin,VALEEV Marsel,4,0,"11,11,11,11|8,7,7,6",R32,OTHER,JBS,792,Main Draw,UEDA Jin (JPN),VALEEV Marsel (RUS),UEDA Jin
+Safir International Orebro 2008,2008-02-20,DROP Clement,SHIN Inchell,4,1,"11,12,3,11,11|8,10,11,8,7",R32,OTHER,JBS,792,Main Draw,DROP Clement (FRA),SHIN Inchell (KOR),DROP Clement
+Safir International Orebro 2008,2008-02-20,ARVIDSSON Simon,WARE Mathew,4,2,"13,6,11,11,9,11|11,11,6,7,11,9",R32,OTHER,JBS,792,Main Draw,ARVIDSSON Simon (SWE),WARE Mathew (ENG),ARVIDSSON Simon
+Safir International Orebro 2008,2008-02-20,GOLEBIOWSKI Mateusz,JEAN Lauric,4,3,"11,8,11,11,13,11,11|6,11,7,9,15,13,6",R32,OTHER,JBS,792,Main Draw,GOLEBIOWSKI Mateusz (POL),JEAN Lauric (BEL),GOLEBIOWSKI Mateusz
+Safir International Orebro 2008,2008-02-20,JENDRZEJEWSKI Patryk,KOBES Kristian,4,2,"10,11,11,11,10,11|12,8,7,9,12,9",R32,OTHER,JBS,792,Main Draw,JENDRZEJEWSKI Patryk (POL),KOBES Kristian (SVK),JENDRZEJEWSKI Patryk
+Safir International Orebro 2008,2008-02-20,KOSIBA Daniel,LAVERGNE Paul,4,2,"11,11,8,7,11,11|6,6,11,11,6,5",R32,OTHER,JBS,792,Main Draw,KOSIBA Daniel (HUN),LAVERGNE Paul (FRA),KOSIBA Daniel
+Safir International Orebro 2008,2008-02-20,CHOJNOWSKI Patryk,CARVALHO Diogo,4,3,"11,10,9,11,11,10,11|5,12,11,7,4,12,8",R32,OTHER,JBS,792,Main Draw,CHOJNOWSKI Patryk (POL),CARVALHO Diogo (POR),CHOJNOWSKI Patryk
+Safir International Orebro 2008,2008-02-20,KARLSSON Mattias,ANDERSSON Harald,4,2,"11,11,8,11,8,15|6,7,11,8,11,13",R16,OTHER,JBS,792,Main Draw,KARLSSON Mattias (SWE),ANDERSSON Harald (SWE),KARLSSON Mattias
+Safir International Orebro 2008,2008-02-20,SHIBAEV Alexander,NIWA Koki,4,1,"13,11,11,6,11|11,8,9,11,7",R16,OTHER,JBS,792,Main Draw,SHIBAEV Alexander (RUS),NIWA Koki (JPN),SHIBAEV Alexander
+Safir International Orebro 2008,2008-02-20,FERTIKOWSKI Pawel,HELLERUD Kristoffer,4,0,"11,11,11,11|2,9,5,6",R16,OTHER,JBS,792,Main Draw,FERTIKOWSKI Pawel (POL),HELLERUD Kristoffer (NOR),FERTIKOWSKI Pawel
+Safir International Orebro 2008,2008-02-20,NOMURA Taiyo,KVIST Andreas,4,0,"11,11,11,11|9,8,2,4",R16,OTHER,JBS,792,Main Draw,NOMURA Taiyo (JPN),KVIST Andreas (SWE),NOMURA Taiyo
+Safir International Orebro 2008,2008-02-20,UEDA Jin,DROP Clement,4,2,"11,8,11,11,2,13|5,11,9,4,11,11",R16,OTHER,JBS,792,Main Draw,UEDA Jin (JPN),DROP Clement (FRA),UEDA Jin
+Safir International Orebro 2008,2008-02-20,GOLEBIOWSKI Mateusz,ARVIDSSON Simon,4,3,"17,4,12,12,11,8,11|19,11,10,10,9,11,7",R16,OTHER,JBS,792,Main Draw,GOLEBIOWSKI Mateusz (POL),ARVIDSSON Simon (SWE),GOLEBIOWSKI Mateusz
+Safir International Orebro 2008,2008-02-20,KARLSSON Kristian,JENDRZEJEWSKI Patryk,4,2,"11,11,11,11,5,11|2,6,4,13,11,8",R16,OTHER,JBS,792,Main Draw,KARLSSON Kristian (SWE),JENDRZEJEWSKI Patryk (POL),KARLSSON Kristian
+Safir International Orebro 2008,2008-02-20,KOSIBA Daniel,CHOJNOWSKI Patryk,4,0,"11,11,11,11|5,9,6,9",R16,OTHER,JBS,792,Main Draw,KOSIBA Daniel (HUN),CHOJNOWSKI Patryk (POL),KOSIBA Daniel
+Safir International Orebro 2008,2008-02-20,SHIBAEV Alexander,KARLSSON Mattias,4,0,"11,11,11,11|5,9,9,9",QF,OTHER,JBS,792,Main Draw,SHIBAEV Alexander (RUS),KARLSSON Mattias (SWE),SHIBAEV Alexander
+Safir International Orebro 2008,2008-02-20,NOMURA Taiyo,FERTIKOWSKI Pawel,4,3,"10,8,3,11,11,11,11|12,11,11,2,9,8,6",QF,OTHER,JBS,792,Main Draw,NOMURA Taiyo (JPN),FERTIKOWSKI Pawel (POL),NOMURA Taiyo
+Safir International Orebro 2008,2008-02-20,UEDA Jin,GOLEBIOWSKI Mateusz,4,0,"11,11,11,11|6,3,4,6",QF,OTHER,JBS,792,Main Draw,UEDA Jin (JPN),GOLEBIOWSKI Mateusz (POL),UEDA Jin
+Safir International Orebro 2008,2008-02-20,KOSIBA Daniel,KARLSSON Kristian,4,2,"11,11,11,11,9,12|9,9,13,1,11,10",QF,OTHER,JBS,792,Main Draw,KOSIBA Daniel (HUN),KARLSSON Kristian (SWE),KOSIBA Daniel
+Safir International Orebro 2008,2008-02-20,SHIBAEV Alexander,NOMURA Taiyo,4,2,"11,11,11,7,8,13|9,7,6,11,11,11",SF,OTHER,JBS,792,Main Draw,SHIBAEV Alexander (RUS),NOMURA Taiyo (JPN),SHIBAEV Alexander
+Safir International Orebro 2008,2008-02-20,UEDA Jin,KOSIBA Daniel,4,3,"11,11,5,9,11,9,11|4,5,11,11,6,11,5",SF,OTHER,JBS,792,Main Draw,UEDA Jin (JPN),KOSIBA Daniel (HUN),UEDA Jin
+Safir International Orebro 2008,2008-02-20,SHIBAEV Alexander,UEDA Jin,4,2,"7,11,11,11,8,12|11,1,9,6,11,10",F,OTHER,JBS,792,Main Draw,SHIBAEV Alexander (RUS),UEDA Jin (JPN),SHIBAEV Alexander
+Safir International Orebro 2008,2008-02-20,GATTERMEYER Meike,KARLSSON Michaela,3,0,"11,11,11|5,8,4",R32,OTHER,JGD,792,Main Draw,GATTERMEYER Meike (GER),KARLSSON Michaela (SWE),GATTERMEYER Meike
+Safir International Orebro 2008,2008-02-20,STAHR Rosalia,LUND Josefin,3,1,"9,12,11,11|11,10,9,6",R32,OTHER,JGD,792,Main Draw,STAHR Rosalia (GER),LUND Josefin (SWE),STAHR Rosalia
+Safir International Orebro 2008,2008-02-20,GATTERMEYER Meike,PERVAN Dina,3,0,"11,11,11|4,5,8",R16,OTHER,JGD,792,Main Draw,GATTERMEYER Meike (GER),PERVAN Dina (CRO),GATTERMEYER Meike
+Safir International Orebro 2008,2008-02-20,GONG Hyejung,STAHR Rosalia,3,2,"9,6,11,11,11|11,11,8,8,7",R16,OTHER,JGD,792,Main Draw,GONG Hyejung (KOR),STAHR Rosalia (GER),GONG Hyejung
+Safir International Orebro 2008,2008-02-20,GATTERMEYER Meike,LEE Hyun,3,2,"11,14,2,3,11|9,12,11,11,9",QF,OTHER,JGD,792,Main Draw,GATTERMEYER Meike (GER),LEE Hyun (KOR),GATTERMEYER Meike
+Safir International Orebro 2008,2008-02-20,NELSON Claire,DE NUTTE Sarah,3,2,"11,9,7,11,12|7,11,11,8,10",R32,OTHER,JGD,792,Main Draw,NELSON Claire (IRL),DE NUTTE Sarah (LUX),NELSON Claire
+Safir International Orebro 2008,2008-02-20,TROTTI Elisa,KONSBRUCK Danielle,3,1,"8,12,11,11|11,10,8,7",R32,OTHER,JGD,792,Main Draw,TROTTI Elisa (ITA),KONSBRUCK Danielle (LUX),TROTTI Elisa
+Safir International Orebro 2008,2008-02-20,MA Wenting,TROTTI Elisa,3,0,"11,12,11|9,10,7",R16,OTHER,JGD,792,Main Draw,MA Wenting (NOR),TROTTI Elisa (ITA),MA Wenting
+Safir International Orebro 2008,2008-02-20,SUZUKI Rika,ABBAT Alice,3,1,"11,5,11,11|8,11,5,9",R32,OTHER,JGD,792,Main Draw,SUZUKI Rika (JPN),ABBAT Alice (FRA),SUZUKI Rika
+Safir International Orebro 2008,2008-02-20,MORIZONO Misaki,LOEUILLETTE Stephanie,3,0,"11,11,11|8,7,6",R32,OTHER,JGD,792,Main Draw,MORIZONO Misaki (JPN),LOEUILLETTE Stephanie (FRA),MORIZONO Misaki
+Safir International Orebro 2008,2008-02-20,FUJII Yuko,STESHENKO Tatyana,3,0,"11,11,11|5,5,9",R16,OTHER,JGD,792,Main Draw,FUJII Yuko (JPN),STESHENKO Tatyana (ITA),FUJII Yuko
+Safir International Orebro 2008,2008-02-20,JO Yujin,MORIZONO Misaki,3,1,"11,11,11,11|8,8,13,5",R16,OTHER,JGD,792,Main Draw,JO Yujin (KOR),MORIZONO Misaki (JPN),JO Yujin
+Safir International Orebro 2008,2008-02-20,FUJII Yuko,GU Yoonhee,3,0,"11,11,13|4,7,11",QF,OTHER,JGD,792,Main Draw,FUJII Yuko (JPN),GU Yoonhee (KOR),FUJII Yuko
+Safir International Orebro 2008,2008-02-20,FUJII Yuko,GATTERMEYER Meike,3,0,"11,11,11|3,8,6",SF,OTHER,JGD,792,Main Draw,FUJII Yuko (JPN),GATTERMEYER Meike (GER),FUJII Yuko
+Safir International Orebro 2008,2008-02-20,JO Yujin,FUJII Yuko,3,2,"8,11,11,11,11|11,13,4,4,6",F,OTHER,JGD,792,Main Draw,JO Yujin (KOR),FUJII Yuko (JPN),JO Yujin
+Safir International Orebro 2008,2008-02-20,GONG Hyejung,RIDAN Maroua,3,0,"11,11,11|5,4,6",R32,OTHER,JGD,792,Main Draw,GONG Hyejung (KOR),RIDAN Maroua (TUN),GONG Hyejung
+Safir International Orebro 2008,2008-02-20,LEE Hyun,SUZUKI Rika,3,2,"11,6,11,7,11|3,11,5,11,7",R16,OTHER,JGD,792,Main Draw,LEE Hyun (KOR),SUZUKI Rika (JPN),LEE Hyun
+Safir International Orebro 2008,2008-02-20,GONG Hyejung,DURAK Mirela,3,0,"11,11,12|3,7,10",QF,OTHER,JGD,792,Main Draw,GONG Hyejung (KOR),DURAK Mirela (CRO),GONG Hyejung
+Safir International Orebro 2008,2008-02-20,JO Yujin,MA Wenting,3,0,"11,11,11|9,5,8",QF,OTHER,JGD,792,Main Draw,JO Yujin (KOR),MA Wenting (NOR),JO Yujin
+Safir International Orebro 2008,2008-02-20,JO Yujin,GONG Hyejung,3,0,"11,13,11|5,11,9",SF,OTHER,JGD,792,Main Draw,JO Yujin (KOR),GONG Hyejung (KOR),JO Yujin
+Safir International Orebro 2008,2008-02-20,PERVAN Dina,DIEKER Suzanne,3,1,"13,11,6,14|11,5,11,12",R32,OTHER,JGD,792,Main Draw,PERVAN Dina (CRO),DIEKER Suzanne (NED),PERVAN Dina
+Safir International Orebro 2008,2008-02-20,LEE Hyun,KUSINSKA Klaudia,3,1,"11,7,11,11|7,11,4,8",R32,OTHER,JGD,792,Main Draw,LEE Hyun (KOR),KUSINSKA Klaudia (POL),LEE Hyun
+Safir International Orebro 2008,2008-02-20,MAZUR Magdalena,KOLYUCHEVA Liliya,3,2,"11,9,11,11,11|13,11,9,7,7",R32,OTHER,JGD,792,Main Draw,MAZUR Magdalena (POL),KOLYUCHEVA Liliya (RUS),MAZUR Magdalena
+Safir International Orebro 2008,2008-02-20,DURAK Mirela,MAZUR Magdalena,3,1,"11,11,11,11|7,5,13,7",R16,OTHER,JGD,792,Main Draw,DURAK Mirela (CRO),MAZUR Magdalena (POL),DURAK Mirela
+Safir International Orebro 2008,2008-02-20,DURAK Mirela,GONCALVES Mariana,3,1,"11,12,6,12|5,10,11,10",R32,OTHER,JGD,792,Main Draw,DURAK Mirela (CRO),GONCALVES Mariana (POR),DURAK Mirela
+Safir International Orebro 2008,2008-02-20,STESHENKO Tatyana,CORDERO Carelyn,3,1,"11,9,11,11|3,11,6,4",R32,OTHER,JGD,792,Main Draw,STESHENKO Tatyana (ITA),CORDERO Carelyn (PUR),STESHENKO Tatyana
+Safir International Orebro 2008,2008-02-20,JO Yujin,VOROBEVA Olga,3,0,"11,12,11|6,10,5",R32,OTHER,JGD,792,Main Draw,JO Yujin (KOR),VOROBEVA Olga (RUS),JO Yujin
+Safir International Orebro 2008,2008-02-20,GU Yoonhee,NELSON Claire,3,0,"11,11,11|5,6,2",R16,OTHER,JGD,792,Main Draw,GU Yoonhee (KOR),NELSON Claire (IRL),GU Yoonhee
+Safir International Orebro 2008,2008-02-20,GU Yoonhee,QUACH Michelle,3,0,"12,11,11|10,4,1",R32,OTHER,JGD,792,Main Draw,GU Yoonhee (KOR),QUACH Michelle (SWE),GU Yoonhee
+Safir International Orebro 2008,2008-02-20,MA Wenting,MEIS Anouk,3,0,"11,11,11|4,4,7",,OTHER,JGS,792,Qualification,MA Wenting (NOR),MEIS Anouk (LUX),MA Wenting
+Safir International Orebro 2008,2008-02-20,LUND Josefin,ZEFIRO Valeria,3,1,"5,11,12,11|11,9,10,9",QR2,OTHER,JGS,792,Qualification,LUND Josefin (SWE),ZEFIRO Valeria (ITA),LUND Josefin
+Safir International Orebro 2008,2008-02-20,MA Wenting,LUND Josefin,3,0,"11,11,11|9,9,8",3,OTHER,JGS,792,Qualification,MA Wenting (NOR),LUND Josefin (SWE),MA Wenting
+Safir International Orebro 2008,2008-02-20,MEIS Anouk,ZEFIRO Valeria,3,2,"6,10,11,11,12|11,12,6,7,10",QR4,OTHER,JGS,792,Qualification,MEIS Anouk (LUX),ZEFIRO Valeria (ITA),MEIS Anouk
+Safir International Orebro 2008,2008-02-20,MA Wenting,ZEFIRO Valeria,3,0,"11,11,11|4,7,4",5,OTHER,JGS,792,Qualification,MA Wenting (NOR),ZEFIRO Valeria (ITA),MA Wenting
+Safir International Orebro 2008,2008-02-20,MEIS Anouk,LUND Josefin,3,0,"11,11,12|5,9,10",6,OTHER,JGS,792,Qualification,MEIS Anouk (LUX),LUND Josefin (SWE),MEIS Anouk
+Safir International Orebro 2008,2008-02-20,LEE Sobong,NOSKOVA Yana,3,1,"12,11,6,11|9,8,11,5",,OTHER,JGS,792,Qualification,LEE Sobong (KOR),NOSKOVA Yana (RUS),LEE Sobong
+Safir International Orebro 2008,2008-02-20,POSTHUMA Monique,KARLSSON Michaela,3,1,"12,5,11,11|3,11,7,6",QR2,OTHER,JGS,792,Qualification,POSTHUMA Monique (NED),KARLSSON Michaela (SWE),POSTHUMA Monique
+Safir International Orebro 2008,2008-02-20,LEE Sobong,POSTHUMA Monique,3,1,"11,11,11,11|13,5,5,8",3,OTHER,JGS,792,Qualification,LEE Sobong (KOR),POSTHUMA Monique (NED),LEE Sobong
+Safir International Orebro 2008,2008-02-20,NOSKOVA Yana,KARLSSON Michaela,3,0,"11,11,11|7,7,6",QR4,OTHER,JGS,792,Qualification,NOSKOVA Yana (RUS),KARLSSON Michaela (SWE),NOSKOVA Yana
+Safir International Orebro 2008,2008-02-20,LEE Sobong,KARLSSON Michaela,3,1,"11,9,11,11|4,11,3,5",5,OTHER,JGS,792,Qualification,LEE Sobong (KOR),KARLSSON Michaela (SWE),LEE Sobong
+Safir International Orebro 2008,2008-02-20,POSTHUMA Monique,NOSKOVA Yana,3,0,"11,11,12|0,8,10",6,OTHER,JGS,792,Qualification,POSTHUMA Monique (NED),NOSKOVA Yana (RUS),POSTHUMA Monique
+Safir International Orebro 2008,2008-02-20,FUJII Yuko,SAFAI Marjan,3,0,"12,11,11|4,2,5",,OTHER,JGS,792,Qualification,FUJII Yuko (JPN),SAFAI Marjan (SWE),FUJII Yuko
+Safir International Orebro 2008,2008-02-20,JO Yujin,MAZUR Magdalena,3,2,"9,11,9,11,11|11,5,11,9,9",QR2,OTHER,JGS,792,Qualification,JO Yujin (KOR),MAZUR Magdalena (POL),JO Yujin
+Safir International Orebro 2008,2008-02-20,FUJII Yuko,MAZUR Magdalena,3,0,"11,11,11|3,8,9",3,OTHER,JGS,792,Qualification,FUJII Yuko (JPN),MAZUR Magdalena (POL),FUJII Yuko
+Safir International Orebro 2008,2008-02-20,JO Yujin,SAFAI Marjan,3,0,"11,11,11|6,6,2",QR4,OTHER,JGS,792,Qualification,JO Yujin (KOR),SAFAI Marjan (SWE),JO Yujin
+Safir International Orebro 2008,2008-02-20,FUJII Yuko,JO Yujin,3,0,"11,11,11|7,3,6",5,OTHER,JGS,792,Qualification,FUJII Yuko (JPN),JO Yujin (KOR),FUJII Yuko
+Safir International Orebro 2008,2008-02-20,MAZUR Magdalena,SAFAI Marjan,3,2,"12,11,4,9,11|10,9,11,11,8",6,OTHER,JGS,792,Qualification,MAZUR Magdalena (POL),SAFAI Marjan (SWE),MAZUR Magdalena
+Safir International Orebro 2008,2008-02-20,OKAZAKI Megumi,GONZALEZ MONTIJO Cynthia,3,0,"12,11,11|4,4,8",,OTHER,JGS,792,Qualification,OKAZAKI Megumi (JPN),GONZALEZ MONTIJO Cynthia (PUR),OKAZAKI Megumi
+Safir International Orebro 2008,2008-02-20,JANKOVIC Ljiljana,DE NUTTE Sarah,3,1,"10,11,11,8,11|11,9,2,11,6",QR2,OTHER,JGS,792,Qualification,JANKOVIC Ljiljana (CRO),DE NUTTE Sarah (LUX),JANKOVIC Ljiljana
+Safir International Orebro 2008,2008-02-20,OKAZAKI Megumi,JANKOVIC Ljiljana,3,0,"11,11,11|8,0,6",3,OTHER,JGS,792,Qualification,OKAZAKI Megumi (JPN),JANKOVIC Ljiljana (CRO),OKAZAKI Megumi
+Safir International Orebro 2008,2008-02-20,DE NUTTE Sarah,GONZALEZ MONTIJO Cynthia,3,0,"11,11,11|3,7,7",QR4,OTHER,JGS,792,Qualification,DE NUTTE Sarah (LUX),GONZALEZ MONTIJO Cynthia (PUR),DE NUTTE Sarah
+Safir International Orebro 2008,2008-02-20,OKAZAKI Megumi,DE NUTTE Sarah,3,1,"9,11,11,11|11,4,5,1",5,OTHER,JGS,792,Qualification,OKAZAKI Megumi (JPN),DE NUTTE Sarah (LUX),OKAZAKI Megumi
+Safir International Orebro 2008,2008-02-20,JANKOVIC Ljiljana,GONZALEZ MONTIJO Cynthia,3,1,"11,11,10,11|6,2,12,4",6,OTHER,JGS,792,Qualification,JANKOVIC Ljiljana (CRO),GONZALEZ MONTIJO Cynthia (PUR),JANKOVIC Ljiljana
+Safir International Orebro 2008,2008-02-20,GONG Hyejung,SUZUKI Rika,3,0,"13,11,11|5,5,6",,OTHER,JGS,792,Qualification,GONG Hyejung (KOR),SUZUKI Rika (JPN),GONG Hyejung
+Safir International Orebro 2008,2008-02-20,OLIVEIRA Leila,LOEUILLETTE Stephanie,3,2,"14,12,7,7,11|11,10,11,11,5",QR2,OTHER,JGS,792,Qualification,OLIVEIRA Leila (POR),LOEUILLETTE Stephanie (FRA),OLIVEIRA Leila
+Safir International Orebro 2008,2008-02-20,GONG Hyejung,OLIVEIRA Leila,3,0,"11,11,11|7,6,3",3,OTHER,JGS,792,Qualification,GONG Hyejung (KOR),OLIVEIRA Leila (POR),GONG Hyejung
+Safir International Orebro 2008,2008-02-20,SUZUKI Rika,LOEUILLETTE Stephanie,3,0,"11,11,11|7,9,8",QR4,OTHER,JGS,792,Qualification,SUZUKI Rika (JPN),LOEUILLETTE Stephanie (FRA),SUZUKI Rika
+Safir International Orebro 2008,2008-02-20,GONG Hyejung,LOEUILLETTE Stephanie,3,1,"8,11,11,11|11,6,1,6",5,OTHER,JGS,792,Qualification,GONG Hyejung (KOR),LOEUILLETTE Stephanie (FRA),GONG Hyejung
+Safir International Orebro 2008,2008-02-20,SUZUKI Rika,OLIVEIRA Leila,3,2,"12,11,8,7,14|10,9,11,11,12",6,OTHER,JGS,792,Qualification,SUZUKI Rika (JPN),OLIVEIRA Leila (POR),SUZUKI Rika
+Safir International Orebro 2008,2008-02-20,STAHR Rosalia,SAIDANI Safa,3,0,"12,11,11|5,6,7",,OTHER,JGS,792,Qualification,STAHR Rosalia (GER),SAIDANI Safa (TUN),STAHR Rosalia
+Safir International Orebro 2008,2008-02-20,SATO Yui,GONCALVES Mariana,3,0,"12,11,11|6,5,2",QR2,OTHER,JGS,792,Qualification,SATO Yui (JPN),GONCALVES Mariana (POR),SATO Yui
+Safir International Orebro 2008,2008-02-20,SATO Yui,STAHR Rosalia,3,1,"11,8,13,11|9,11,11,7",3,OTHER,JGS,792,Qualification,SATO Yui (JPN),STAHR Rosalia (GER),SATO Yui
+Safir International Orebro 2008,2008-02-20,SAIDANI Safa,GONCALVES Mariana,3,1,"11,11,9,11|7,9,11,7",QR4,OTHER,JGS,792,Qualification,SAIDANI Safa (TUN),GONCALVES Mariana (POR),SAIDANI Safa
+Safir International Orebro 2008,2008-02-20,STAHR Rosalia,GONCALVES Mariana,3,1,"8,13,11,11|11,11,6,8",5,OTHER,JGS,792,Qualification,STAHR Rosalia (GER),GONCALVES Mariana (POR),STAHR Rosalia
+Safir International Orebro 2008,2008-02-20,SATO Yui,SAIDANI Safa,3,0,"11,11,11|9,3,7",6,OTHER,JGS,792,Qualification,SATO Yui (JPN),SAIDANI Safa (TUN),SATO Yui
+Safir International Orebro 2008,2008-02-20,MORIZONO Misaki,CORDERO Carelyn,3,0,"12,12,11|4,10,4",,OTHER,JGS,792,Qualification,MORIZONO Misaki (JPN),CORDERO Carelyn (PUR),MORIZONO Misaki
+Safir International Orebro 2008,2008-02-20,YU Sora,LENGERT Adeline,3,0,"11,11,11|6,9,8",QR2,OTHER,JGS,792,Qualification,YU Sora (KOR),LENGERT Adeline (FRA),YU Sora
+Safir International Orebro 2008,2008-02-20,MORIZONO Misaki,LENGERT Adeline,3,0,"11,11,11|7,3,4",3,OTHER,JGS,792,Qualification,MORIZONO Misaki (JPN),LENGERT Adeline (FRA),MORIZONO Misaki
+Safir International Orebro 2008,2008-02-20,YU Sora,CORDERO Carelyn,3,0,"11,11,11|7,2,4",QR4,OTHER,JGS,792,Qualification,YU Sora (KOR),CORDERO Carelyn (PUR),YU Sora
+Safir International Orebro 2008,2008-02-20,MORIZONO Misaki,YU Sora,3,2,"4,11,12,9,11|11,9,10,11,4",5,OTHER,JGS,792,Qualification,MORIZONO Misaki (JPN),YU Sora (KOR),MORIZONO Misaki
+Safir International Orebro 2008,2008-02-20,LENGERT Adeline,CORDERO Carelyn,3,0,"11,11,11|5,4,2",6,OTHER,JGS,792,Qualification,LENGERT Adeline (FRA),CORDERO Carelyn (PUR),LENGERT Adeline
+Safir International Orebro 2008,2008-02-20,DURAK Mirela,NELSON Claire,3,1,"11,11,11,11|13,3,6,1",,OTHER,JGS,792,Qualification,DURAK Mirela (CRO),NELSON Claire (IRL),DURAK Mirela
+Safir International Orebro 2008,2008-02-20,GU Yoonhee,TROTTI Chiara,3,1,"12,12,10,11|10,10,12,3",QR2,OTHER,JGS,792,Qualification,GU Yoonhee (KOR),TROTTI Chiara (ITA),GU Yoonhee
+Safir International Orebro 2008,2008-02-20,DURAK Mirela,TROTTI Chiara,3,0,"12,11,11|10,2,9",3,OTHER,JGS,792,Qualification,DURAK Mirela (CRO),TROTTI Chiara (ITA),DURAK Mirela
+Safir International Orebro 2008,2008-02-20,DURAK Mirela,GU Yoonhee,3,1,"11,11,9,11|4,8,11,8",5,OTHER,JGS,792,Qualification,DURAK Mirela (CRO),GU Yoonhee (KOR),DURAK Mirela
+Safir International Orebro 2008,2008-02-20,TROTTI Chiara,NELSON Claire,3,0,"11,11,11|5,6,5",6,OTHER,JGS,792,Qualification,TROTTI Chiara (ITA),NELSON Claire (IRL),TROTTI Chiara
+Safir International Orebro 2008,2008-02-20,VLASOVA Olga,RIDAN Maroua,3,0,"12,11,11|2,3,7",,OTHER,JGS,792,Qualification,VLASOVA Olga (RUS),RIDAN Maroua (TUN),VLASOVA Olga
+Safir International Orebro 2008,2008-02-20,SAWETTABUT Suthasini,SZULC Adrianna,3,0,"11,11,13|4,7,11",QR2,OTHER,JGS,792,Qualification,SAWETTABUT Suthasini (THA),SZULC Adrianna (POL),SAWETTABUT Suthasini
+Safir International Orebro 2008,2008-02-20,VLASOVA Olga,SZULC Adrianna,3,2,"9,14,10,11,11|11,12,12,9,4",3,OTHER,JGS,792,Qualification,VLASOVA Olga (RUS),SZULC Adrianna (POL),VLASOVA Olga
+Safir International Orebro 2008,2008-02-20,SAWETTABUT Suthasini,RIDAN Maroua,3,1,"11,11,4,11|2,3,11,5",QR4,OTHER,JGS,792,Qualification,SAWETTABUT Suthasini (THA),RIDAN Maroua (TUN),SAWETTABUT Suthasini
+Safir International Orebro 2008,2008-02-20,SAWETTABUT Suthasini,VLASOVA Olga,3,1,"11,11,12,11|9,4,14,9",5,OTHER,JGS,792,Qualification,SAWETTABUT Suthasini (THA),VLASOVA Olga (RUS),SAWETTABUT Suthasini
+Safir International Orebro 2008,2008-02-20,SZULC Adrianna,RIDAN Maroua,3,0,"11,11,11|4,5,3",6,OTHER,JGS,792,Qualification,SZULC Adrianna (POL),RIDAN Maroua (TUN),SZULC Adrianna
+Safir International Orebro 2008,2008-02-20,BRUNET Lorine,KOLYUCHEVA Liliya,3,2,"6,16,11,9,11|11,14,7,11,6",,OTHER,JGS,792,Qualification,BRUNET Lorine (FRA),KOLYUCHEVA Liliya (RUS),BRUNET Lorine
+Safir International Orebro 2008,2008-02-20,KUSINSKA Klaudia,QUACH Michelle,3,0,"12,11,11,11|13,5,7,7",QR2,OTHER,JGS,792,Qualification,KUSINSKA Klaudia (POL),QUACH Michelle (SWE),KUSINSKA Klaudia
+Safir International Orebro 2008,2008-02-20,KUSINSKA Klaudia,BRUNET Lorine,3,0,"11,15,11|5,13,4",3,OTHER,JGS,792,Qualification,KUSINSKA Klaudia (POL),BRUNET Lorine (FRA),KUSINSKA Klaudia
+Safir International Orebro 2008,2008-02-20,KOLYUCHEVA Liliya,QUACH Michelle,3,1,"11,11,9,11|3,5,11,3",QR4,OTHER,JGS,792,Qualification,KOLYUCHEVA Liliya (RUS),QUACH Michelle (SWE),KOLYUCHEVA Liliya
+Safir International Orebro 2008,2008-02-20,QUACH Michelle,BRUNET Lorine,3,1,"11,8,11,11|9,11,9,7",5,OTHER,JGS,792,Qualification,QUACH Michelle (SWE),BRUNET Lorine (FRA),QUACH Michelle
+Safir International Orebro 2008,2008-02-20,KUSINSKA Klaudia,KOLYUCHEVA Liliya,3,0,"11,11,11|8,7,8",6,OTHER,JGS,792,Qualification,KUSINSKA Klaudia (POL),KOLYUCHEVA Liliya (RUS),KUSINSKA Klaudia
+Safir International Orebro 2008,2008-02-20,VOROBEVA Olga,SODERLUND Ida,3,0,"13,13,11|10,11,8",,OTHER,JGS,792,Qualification,VOROBEVA Olga (RUS),SODERLUND Ida (SWE),VOROBEVA Olga
+Safir International Orebro 2008,2008-02-20,HERGES Ann-Kathrin,VIVARELLI Debora,3,1,"11,9,11,11|1,11,5,8",QR2,OTHER,JGS,792,Qualification,HERGES Ann-Kathrin (GER),VIVARELLI Debora (ITA),HERGES Ann-Kathrin
+Safir International Orebro 2008,2008-02-20,HERGES Ann-Kathrin,VOROBEVA Olga,3,0,"11,11,11|8,9,7",3,OTHER,JGS,792,Qualification,HERGES Ann-Kathrin (GER),VOROBEVA Olga (RUS),HERGES Ann-Kathrin
+Safir International Orebro 2008,2008-02-20,VIVARELLI Debora,SODERLUND Ida,3,1,"11,11,5,11|5,8,11,6",QR4,OTHER,JGS,792,Qualification,VIVARELLI Debora (ITA),SODERLUND Ida (SWE),VIVARELLI Debora
+Safir International Orebro 2008,2008-02-20,VOROBEVA Olga,VIVARELLI Debora,3,0,"11,11,11|7,7,4",5,OTHER,JGS,792,Qualification,VOROBEVA Olga (RUS),VIVARELLI Debora (ITA),VOROBEVA Olga
+Safir International Orebro 2008,2008-02-20,HERGES Ann-Kathrin,SODERLUND Ida,3,0,"11,11,11|9,5,6",6,OTHER,JGS,792,Qualification,HERGES Ann-Kathrin (GER),SODERLUND Ida (SWE),HERGES Ann-Kathrin
+Safir International Orebro 2008,2008-02-20,LEE Hyun,WINTER Sabine,3,2,"12,11,10,11,11|15,7,12,2,4",,OTHER,JGS,792,Qualification,LEE Hyun (KOR),WINTER Sabine (GER),LEE Hyun
+Safir International Orebro 2008,2008-02-20,RYABOVA Tatiana,TROTTI Elisa,3,0,"12,11,11|5,4,1",QR2,OTHER,JGS,792,Qualification,RYABOVA Tatiana (RUS),TROTTI Elisa (ITA),RYABOVA Tatiana
+Safir International Orebro 2008,2008-02-20,WINTER Sabine,RYABOVA Tatiana,3,2,"8,8,11,11,11|11,11,3,8,9",3,OTHER,JGS,792,Qualification,WINTER Sabine (GER),RYABOVA Tatiana (RUS),WINTER Sabine
+Safir International Orebro 2008,2008-02-20,LEE Hyun,TROTTI Elisa,3,0,"11,11,11|2,3,7",QR4,OTHER,JGS,792,Qualification,LEE Hyun (KOR),TROTTI Elisa (ITA),LEE Hyun
+Safir International Orebro 2008,2008-02-20,WINTER Sabine,TROTTI Elisa,3,0,"11,11,11|9,1,7",5,OTHER,JGS,792,Qualification,WINTER Sabine (GER),TROTTI Elisa (ITA),WINTER Sabine
+Safir International Orebro 2008,2008-02-20,LEE Hyun,RYABOVA Tatiana,3,0,"11,11,13|2,7,11",6,OTHER,JGS,792,Qualification,LEE Hyun (KOR),RYABOVA Tatiana (RUS),LEE Hyun
+Safir International Orebro 2008,2008-02-20,ABBAT Alice,VAYRYNEN Emma,3,2,"8,11,7,11,11|11,6,11,7,5",,OTHER,JGS,792,Qualification,ABBAT Alice (FRA),VAYRYNEN Emma (SWE),ABBAT Alice
+Safir International Orebro 2008,2008-02-20,GATTERMEYER Meike,DIEKER Suzanne,3,0,"13,11,11|10,9,3",QR2,OTHER,JGS,792,Qualification,GATTERMEYER Meike (GER),DIEKER Suzanne (NED),GATTERMEYER Meike
+Safir International Orebro 2008,2008-02-20,ABBAT Alice,GATTERMEYER Meike,3,2,"6,11,11,5,11|11,8,9,11,8",3,OTHER,JGS,792,Qualification,ABBAT Alice (FRA),GATTERMEYER Meike (GER),ABBAT Alice
+Safir International Orebro 2008,2008-02-20,VAYRYNEN Emma,DIEKER Suzanne,3,0,"11,11,11|9,6,4",QR4,OTHER,JGS,792,Qualification,VAYRYNEN Emma (SWE),DIEKER Suzanne (NED),VAYRYNEN Emma
+Safir International Orebro 2008,2008-02-20,ABBAT Alice,DIEKER Suzanne,3,0,"11,11,11|6,6,7",5,OTHER,JGS,792,Qualification,ABBAT Alice (FRA),DIEKER Suzanne (NED),ABBAT Alice
+Safir International Orebro 2008,2008-02-20,GATTERMEYER Meike,VAYRYNEN Emma,3,0,"11,11,11|3,7,4",6,OTHER,JGS,792,Qualification,GATTERMEYER Meike (GER),VAYRYNEN Emma (SWE),GATTERMEYER Meike
+Safir International Orebro 2008,2008-02-20,STESHENKO Tatyana,PERVAN Dina,3,1,"9,11,11,11|11,8,4,9",,OTHER,JGS,792,Qualification,STESHENKO Tatyana (ITA),PERVAN Dina (CRO),STESHENKO Tatyana
+Safir International Orebro 2008,2008-02-20,KONSBRUCK Danielle,MELCHER Madeleine,3,1,"8,11,11,11|12,2,8,9",QR2,OTHER,JGS,792,Qualification,KONSBRUCK Danielle (LUX),MELCHER Madeleine (SWE),KONSBRUCK Danielle
+Safir International Orebro 2008,2008-02-20,STESHENKO Tatyana,MELCHER Madeleine,3,0,"11,13,11|9,11,9",3,OTHER,JGS,792,Qualification,STESHENKO Tatyana (ITA),MELCHER Madeleine (SWE),STESHENKO Tatyana
+Safir International Orebro 2008,2008-02-20,KONSBRUCK Danielle,PERVAN Dina,3,2,"11,9,11,6,11|9,11,9,11,8",QR4,OTHER,JGS,792,Qualification,KONSBRUCK Danielle (LUX),PERVAN Dina (CRO),KONSBRUCK Danielle
+Safir International Orebro 2008,2008-02-20,STESHENKO Tatyana,KONSBRUCK Danielle,3,2,"11,4,8,11,11|7,11,11,9,8",5,OTHER,JGS,792,Qualification,STESHENKO Tatyana (ITA),KONSBRUCK Danielle (LUX),STESHENKO Tatyana
+Safir International Orebro 2008,2008-02-20,PERVAN Dina,MELCHER Madeleine,3,0,"11,11,11|7,6,4",6,OTHER,JGS,792,Qualification,PERVAN Dina (CRO),MELCHER Madeleine (SWE),PERVAN Dina
+Safir International Orebro 2008,2008-02-20,YANG Ha Eun,SZCZERKOWSKA Magdalena,3,1,"11,11,2,11|9,6,11,3",,OTHER,JGS,792,Qualification,YANG Ha Eun (KOR),SZCZERKOWSKA Magdalena (POL),YANG Ha Eun
+Safir International Orebro 2008,2008-02-20,TANIOKA Ayuka,SESAR Iva,3,0,"12,12,11|6,10,7",QR2,OTHER,JGS,792,Qualification,TANIOKA Ayuka (JPN),SESAR Iva (CRO),TANIOKA Ayuka
+Safir International Orebro 2008,2008-02-20,SZCZERKOWSKA Magdalena,TANIOKA Ayuka,3,2,"11,12,4,11,11|6,14,11,2,5",3,OTHER,JGS,792,Qualification,SZCZERKOWSKA Magdalena (POL),TANIOKA Ayuka (JPN),SZCZERKOWSKA Magdalena
+Safir International Orebro 2008,2008-02-20,YANG Ha Eun,SESAR Iva,3,0,"11,11,11|4,7,4",QR4,OTHER,JGS,792,Qualification,YANG Ha Eun (KOR),SESAR Iva (CRO),YANG Ha Eun
+Safir International Orebro 2008,2008-02-20,SZCZERKOWSKA Magdalena,SESAR Iva,3,0,"11,11,11|8,5,3",5,OTHER,JGS,792,Qualification,SZCZERKOWSKA Magdalena (POL),SESAR Iva (CRO),SZCZERKOWSKA Magdalena
+Safir International Orebro 2008,2008-02-20,YANG Ha Eun,TANIOKA Ayuka,3,2,"11,13,9,11,11|5,15,11,6,7",6,OTHER,JGS,792,Qualification,YANG Ha Eun (KOR),TANIOKA Ayuka (JPN),YANG Ha Eun
+Safir International Orebro 2008,2008-02-20,GU Yoonhee,VLASOVA Olga,4,1,"11,11,11,8,11|5,8,8,11,8",R32,OTHER,JGS,792,Main Draw,GU Yoonhee (KOR),VLASOVA Olga (RUS),GU Yoonhee
+Safir International Orebro 2008,2008-02-20,LEE Hyun,POSTHUMA Monique,4,2,"8,11,8,11,11,11|11,8,11,6,8,2",R32,OTHER,JGS,792,Main Draw,LEE Hyun (KOR),POSTHUMA Monique (NED),LEE Hyun
+Safir International Orebro 2008,2008-02-20,SATO Yui,KOLYUCHEVA Liliya,4,3,"11,11,13,9,10,7,11|3,7,11,11,12,11,8",R32,OTHER,JGS,792,Main Draw,SATO Yui (JPN),KOLYUCHEVA Liliya (RUS),SATO Yui
+Safir International Orebro 2008,2008-02-20,VOROBEVA Olga,GONG Hyejung,4,1,"11,11,8,12,11|7,6,11,10,9",R32,OTHER,JGS,792,Main Draw,VOROBEVA Olga (RUS),GONG Hyejung (KOR),VOROBEVA Olga
+Safir International Orebro 2008,2008-02-20,STESHENKO Tatyana,JANKOVIC Ljiljana,4,2,"8,11,11,7,11,11|11,9,7,11,9,6",R32,OTHER,JGS,792,Main Draw,STESHENKO Tatyana (ITA),JANKOVIC Ljiljana (CRO),STESHENKO Tatyana
+Safir International Orebro 2008,2008-02-20,SZCZERKOWSKA Magdalena,ABBAT Alice,4,2,"11,8,8,15,11,11|9,11,11,13,3,7",R32,OTHER,JGS,792,Main Draw,SZCZERKOWSKA Magdalena (POL),ABBAT Alice (FRA),SZCZERKOWSKA Magdalena
+Safir International Orebro 2008,2008-02-20,FUJII Yuko,YU Sora,4,3,"8,11,10,7,11,11,11|11,3,12,11,9,8,8",R32,OTHER,JGS,792,Main Draw,FUJII Yuko (JPN),YU Sora (KOR),FUJII Yuko
+Safir International Orebro 2008,2008-02-20,OKAZAKI Megumi,GATTERMEYER Meike,4,0,"11,11,11,11|6,8,5,5",R32,OTHER,JGS,792,Main Draw,OKAZAKI Megumi (JPN),GATTERMEYER Meike (GER),OKAZAKI Megumi
+Safir International Orebro 2008,2008-02-20,KUSINSKA Klaudia,JO Yujin,4,2,"5,11,11,11,9,11|11,7,7,2,11,7",R32,OTHER,JGS,792,Main Draw,KUSINSKA Klaudia (POL),JO Yujin (KOR),KUSINSKA Klaudia
+Safir International Orebro 2008,2008-02-20,YANG Ha Eun,STAHR Rosalia,4,1,"12,11,9,12,11|10,7,11,10,5",R32,OTHER,JGS,792,Main Draw,YANG Ha Eun (KOR),STAHR Rosalia (GER),YANG Ha Eun
+Safir International Orebro 2008,2008-02-20,DURAK Mirela,KONSBRUCK Danielle,4,0,"11,11,12,11|5,8,10,7",R32,OTHER,JGS,792,Main Draw,DURAK Mirela (CRO),KONSBRUCK Danielle (LUX),DURAK Mirela
+Safir International Orebro 2008,2008-02-20,MORIZONO Misaki,WINTER Sabine,4,0,"11,12,11,12|6,10,5,10",R32,OTHER,JGS,792,Main Draw,MORIZONO Misaki (JPN),WINTER Sabine (GER),MORIZONO Misaki
+Safir International Orebro 2008,2008-02-20,SAWETTABUT Suthasini,MEIS Anouk,4,2,"12,11,11,13,8,11|10,8,6,15,11,6",R32,OTHER,JGS,792,Main Draw,SAWETTABUT Suthasini (THA),MEIS Anouk (LUX),SAWETTABUT Suthasini
+Safir International Orebro 2008,2008-02-20,HERGES Ann-Kathrin,SUZUKI Rika,4,1,"11,12,11,11,11|13,10,3,3,7",R32,OTHER,JGS,792,Main Draw,HERGES Ann-Kathrin (GER),SUZUKI Rika (JPN),HERGES Ann-Kathrin
+Safir International Orebro 2008,2008-02-20,MA Wenting,GU Yoonhee,4,0,"11,11,11,11|4,3,7,4",R16,OTHER,JGS,792,Main Draw,MA Wenting (NOR),GU Yoonhee (KOR),MA Wenting
+Safir International Orebro 2008,2008-02-20,SATO Yui,LEE Hyun,4,2,"11,13,11,8,6,11|9,11,5,11,11,3",R16,OTHER,JGS,792,Main Draw,SATO Yui (JPN),LEE Hyun (KOR),SATO Yui
+Safir International Orebro 2008,2008-02-20,VOROBEVA Olga,STESHENKO Tatyana,4,1,"11,11,11,9,12|4,8,6,11,10",R16,OTHER,JGS,792,Main Draw,VOROBEVA Olga (RUS),STESHENKO Tatyana (ITA),VOROBEVA Olga
+Safir International Orebro 2008,2008-02-20,FUJII Yuko,SZCZERKOWSKA Magdalena,4,1,"11,8,11,11,11|7,11,8,8,3",R16,OTHER,JGS,792,Main Draw,FUJII Yuko (JPN),SZCZERKOWSKA Magdalena (POL),FUJII Yuko
+Safir International Orebro 2008,2008-02-20,OKAZAKI Megumi,KUSINSKA Klaudia,4,0,"11,11,11,11|7,4,8,5",R16,OTHER,JGS,792,Main Draw,OKAZAKI Megumi (JPN),KUSINSKA Klaudia (POL),OKAZAKI Megumi
+Safir International Orebro 2008,2008-02-20,YANG Ha Eun,DURAK Mirela,4,2,"8,9,11,11,11,11|11,11,7,4,7,6",R16,OTHER,JGS,792,Main Draw,YANG Ha Eun (KOR),DURAK Mirela (CRO),YANG Ha Eun
+Safir International Orebro 2008,2008-02-20,MORIZONO Misaki,SAWETTABUT Suthasini,4,1,"11,6,11,11,11|7,11,5,4,4",R16,OTHER,JGS,792,Main Draw,MORIZONO Misaki (JPN),SAWETTABUT Suthasini (THA),MORIZONO Misaki
+Safir International Orebro 2008,2008-02-20,LEE Sobong,HERGES Ann-Kathrin,4,1,"11,11,9,11,13|8,4,11,6,11",R16,OTHER,JGS,792,Main Draw,LEE Sobong (KOR),HERGES Ann-Kathrin (GER),LEE Sobong
+Safir International Orebro 2008,2008-02-20,MA Wenting,SATO Yui,4,0,"12,11,11,16|10,8,9,14",QF,OTHER,JGS,792,Main Draw,MA Wenting (NOR),SATO Yui (JPN),MA Wenting
+Safir International Orebro 2008,2008-02-20,FUJII Yuko,VOROBEVA Olga,4,1,"7,11,11,11,11|11,9,3,5,4",QF,OTHER,JGS,792,Main Draw,FUJII Yuko (JPN),VOROBEVA Olga (RUS),FUJII Yuko
+Safir International Orebro 2008,2008-02-20,OKAZAKI Megumi,YANG Ha Eun,4,1,"11,6,11,11,11|7,11,6,6,8",QF,OTHER,JGS,792,Main Draw,OKAZAKI Megumi (JPN),YANG Ha Eun (KOR),OKAZAKI Megumi
+Safir International Orebro 2008,2008-02-20,MORIZONO Misaki,LEE Sobong,4,1,"11,11,6,11,12|1,3,11,3,10",QF,OTHER,JGS,792,Main Draw,MORIZONO Misaki (JPN),LEE Sobong (KOR),MORIZONO Misaki
+Safir International Orebro 2008,2008-02-20,MA Wenting,FUJII Yuko,4,1,"11,9,12,11,11|8,11,10,5,8",SF,OTHER,JGS,792,Main Draw,MA Wenting (NOR),FUJII Yuko (JPN),MA Wenting
+Safir International Orebro 2008,2008-02-20,MORIZONO Misaki,OKAZAKI Megumi,4,2,"7,11,11,9,11,12|11,5,5,11,7,10",SF,OTHER,JGS,792,Main Draw,MORIZONO Misaki (JPN),OKAZAKI Megumi (JPN),MORIZONO Misaki
+Safir International Orebro 2008,2008-02-20,MA Wenting,MORIZONO Misaki,4,0,"11,11,11,12|7,6,5,10",F,OTHER,JGS,792,Main Draw,MA Wenting (NOR),MORIZONO Misaki (JPN),MA Wenting

@@ -1,164 +1,164 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-World Tour India Open New Delhi 2017,2017-02-14,PATKAR Madhurika,ROY Krittwika,4,1,"9,11,11,11,11|11,1,7,8,8",,GRAND_SLAM,WS,455,Qualification,PATKAR Madhurika (IND),ROY Krittwika (IND)
-World Tour India Open New Delhi 2017,2017-02-14,MUKHERJEE Sutirtha,PATKAR Madhurika,4,1,"11,13,11,6,11|9,11,8,11,4",,GRAND_SLAM,WS,455,Qualification,PATKAR Madhurika (IND),MUKHERJEE Sutirtha (IND)
-World Tour India Open New Delhi 2017,2017-02-14,ROY Krittwika,MUKHERJEE Sutirtha,4,3,"11,12,9,7,11,7,11|6,10,11,11,9,11,7",,GRAND_SLAM,WS,455,Qualification,MUKHERJEE Sutirtha (IND),ROY Krittwika (IND)
-World Tour India Open New Delhi 2017,2017-02-14,KAMATH Archana,PAUL Mousumi,4,1,"11,9,11,11,11|7,11,9,9,8",,GRAND_SLAM,WS,455,Qualification,KAMATH Archana (IND),PAUL Mousumi (IND)
-World Tour India Open New Delhi 2017,2017-02-14,KAMATH Archana,CALANGE Harsha,4,0,"11,11,11,11|4,8,3,4",,GRAND_SLAM,WS,455,Qualification,KAMATH Archana (IND),CALANGE Harsha (IND)
-World Tour India Open New Delhi 2017,2017-02-14,PAUL Mousumi,CALANGE Harsha,4,0,"11,11,11,11|5,9,9,5",,GRAND_SLAM,WS,455,Qualification,CALANGE Harsha (IND),PAUL Mousumi (IND)
-World Tour India Open New Delhi 2017,2017-02-14,PUSHPAK Amrutha,AKULA Sreeja,4,0,"11,11,11,11|9,7,4,4",,GRAND_SLAM,WS,455,Qualification,AKULA Sreeja (IND),PUSHPAK Amrutha (IND)
-World Tour India Open New Delhi 2017,2017-02-14,AKULA Sreeja,SELVAKUMAR Selena,4,2,"10,11,11,8,11,11|12,7,6,11,5,5",,GRAND_SLAM,WS,455,Qualification,AKULA Sreeja (IND),SELVAKUMAR Selena (IND)
-World Tour India Open New Delhi 2017,2017-02-14,PUSHPAK Amrutha,SELVAKUMAR Selena,4,2,"11,6,11,12,9,11|9,11,7,10,11,9",,GRAND_SLAM,WS,455,Qualification,SELVAKUMAR Selena (IND),PUSHPAK Amrutha (IND)
-World Tour India Open New Delhi 2017,2017-02-14,PAREEK Priyanka,DAS Priyadarshini,4,2,"11,11,8,12,13,11|5,4,11,10,15,7",,GRAND_SLAM,WS,455,Qualification,PAREEK Priyanka (CAN),DAS Priyadarshini (IND)
-World Tour India Open New Delhi 2017,2017-02-14,PAREEK Priyanka,DUTTA Moumita,4,0,"11,11,11,11|4,1,9,5",,GRAND_SLAM,WS,455,Qualification,PAREEK Priyanka (CAN),DUTTA Moumita (IND)
-World Tour India Open New Delhi 2017,2017-02-14,DUTTA Moumita,DAS Priyadarshini,4,2,"11,6,11,6,11,11|4,11,7,11,9,6",,GRAND_SLAM,WS,455,Qualification,DUTTA Moumita (IND),DAS Priyadarshini (IND)
-World Tour India Open New Delhi 2017,2017-02-14,THAKKAR Manav,GHOSH Arjun,4,1,"11,13,11,9,11|4,11,9,11,9",,GRAND_SLAM,MS,455,Qualification,THAKKAR Manav (IND),GHOSH Arjun (IND)
-World Tour India Open New Delhi 2017,2017-02-14,GERALDO Joao,THAKKAR Manav,4,2,"9,11,11,6,11,13|11,9,3,11,6,11",,GRAND_SLAM,MS,455,Qualification,THAKKAR Manav (IND),GERALDO Joao (POR)
-World Tour India Open New Delhi 2017,2017-02-14,GERALDO Joao,GHOSH Arjun,4,1,"11,11,11,9,11|6,5,3,11,3",,GRAND_SLAM,MS,455,Qualification,GERALDO Joao (POR),GHOSH Arjun (IND)
-World Tour India Open New Delhi 2017,2017-02-14,GHOSH Soumyajit,CHANDRA Jeet,4,0,"11,11,11,11|7,6,3,4",,GRAND_SLAM,MS,455,Qualification,GHOSH Soumyajit (IND),CHANDRA Jeet (IND)
-World Tour India Open New Delhi 2017,2017-02-14,GHOSH Soumyajit,ALKHADRAWI Ali,4,3,"6,9,11,12,11,11,11|11,11,6,14,5,6,8",,GRAND_SLAM,MS,455,Qualification,GHOSH Soumyajit (IND),ALKHADRAWI Ali (KSA)
-World Tour India Open New Delhi 2017,2017-02-14,ALKHADRAWI Ali,CHANDRA Jeet,4,1,"11,13,13,8,11|8,11,11,11,7",,GRAND_SLAM,MS,455,Qualification,ALKHADRAWI Ali (KSA),CHANDRA Jeet (IND)
-World Tour India Open New Delhi 2017,2017-02-14,JIANG Tianyi,GHOSH Anirban,4,0,"11,12,11,11|5,10,6,8",,GRAND_SLAM,MS,455,Qualification,JIANG Tianyi (HKG),GHOSH Anirban (IND)
-World Tour India Open New Delhi 2017,2017-02-14,JIANG Tianyi,AL-ABBAD Abdulaziz,4,0,"11,14,11,11|6,12,7,9",,GRAND_SLAM,MS,455,Qualification,JIANG Tianyi (HKG),AL-ABBAD Abdulaziz (KSA)
-World Tour India Open New Delhi 2017,2017-02-14,AL-ABBAD Abdulaziz,GHOSH Anirban,4,0,"11,11,11,11|2,2,2,5",,GRAND_SLAM,MS,455,Qualification,AL-ABBAD Abdulaziz (KSA),GHOSH Anirban (IND)
-World Tour India Open New Delhi 2017,2017-02-14,SHETTY Sanil,BHANJA Ronit,4,0,"11,11,11,11|8,7,9,6",,GRAND_SLAM,MS,455,Qualification,SHETTY Sanil (IND),BHANJA Ronit (IND)
-World Tour India Open New Delhi 2017,2017-02-14,SHETTY Sanil,JANCARIK Lubomir,4,3,"12,12,8,11,8,12,16|14,10,11,4,11,10,14",,GRAND_SLAM,MS,455,Qualification,SHETTY Sanil (IND),JANCARIK Lubomir (CZE)
-World Tour India Open New Delhi 2017,2017-02-14,JANCARIK Lubomir,BHANJA Ronit,4,1,"8,11,11,11,11|11,9,7,5,6",,GRAND_SLAM,MS,455,Qualification,JANCARIK Lubomir (CZE),BHANJA Ronit (IND)
-World Tour India Open New Delhi 2017,2017-02-14,ROBINOT Quentin,AVI-TAL Omer,4,0,"11,11,11,11|2,5,7,5",,GRAND_SLAM,MS,455,Qualification,ROBINOT Quentin (FRA),AVI-TAL Omer (PAN)
-World Tour India Open New Delhi 2017,2017-02-14,ANTHONY Amalraj,GUPTA Utkarsh,4,1,"12,11,11,11,11|14,4,5,6,5",,GRAND_SLAM,MS,455,Qualification,ANTHONY Amalraj (IND),GUPTA Utkarsh (IND)
-World Tour India Open New Delhi 2017,2017-02-14,ROBINOT Quentin,ANTHONY Amalraj,4,3,"8,11,11,8,10,11,11|11,3,8,11,12,9,4",,GRAND_SLAM,MS,455,Qualification,ROBINOT Quentin (FRA),ANTHONY Amalraj (IND)
-World Tour India Open New Delhi 2017,2017-02-14,GUPTA Utkarsh,AVI-TAL Omer,4,0,"11,11,11,11|9,3,7,2",,GRAND_SLAM,MS,455,Qualification,AVI-TAL Omer (PAN),GUPTA Utkarsh (IND)
-World Tour India Open New Delhi 2017,2017-02-14,ROBINOT Quentin,GUPTA Utkarsh,4,1,"8,11,11,11,11|11,5,5,9,5",,GRAND_SLAM,MS,455,Qualification,ROBINOT Quentin (FRA),GUPTA Utkarsh (IND)
-World Tour India Open New Delhi 2017,2017-02-14,ANTHONY Amalraj,AVI-TAL Omer,4,0,"11,11,11,11|8,4,8,4",,GRAND_SLAM,MS,455,Qualification,ANTHONY Amalraj (IND),AVI-TAL Omer (PAN)
-World Tour India Open New Delhi 2017,2017-02-14,ROBLES Alvaro,PANDE Siddhesh,4,1,"11,12,11,9,11|2,10,7,11,8",,GRAND_SLAM,MS,455,Qualification,ROBLES Alvaro (ESP),PANDE Siddhesh (IND)
-World Tour India Open New Delhi 2017,2017-02-14,GROVER Sudhanshu,PANDE Siddhesh,4,3,"11,16,11,7,11,11,13|4,18,13,11,2,8,11",,GRAND_SLAM,MS,455,Qualification,PANDE Siddhesh (IND),GROVER Sudhanshu (IND)
-World Tour India Open New Delhi 2017,2017-02-14,ROBLES Alvaro,GROVER Sudhanshu,4,0,"11,11,11,11|7,5,6,8",,GRAND_SLAM,MS,455,Qualification,ROBLES Alvaro (ESP),GROVER Sudhanshu (IND)
-World Tour India Open New Delhi 2017,2017-02-14,DESAI Harmeet,BORO Birdie,4,2,"11,11,8,5,11,11|4,4,11,11,6,8",,GRAND_SLAM,MS,455,Qualification,DESAI Harmeet (IND),BORO Birdie (IND)
-World Tour India Open New Delhi 2017,2017-02-14,HUNG Tzu-Hsiang,IZUMO Takuto,4,2,"11,11,7,11,8,11|8,7,11,7,11,9",,GRAND_SLAM,MS,455,Qualification,IZUMO Takuto (JPN),HUNG Tzu-Hsiang (TPE)
-World Tour India Open New Delhi 2017,2017-02-14,DESAI Harmeet,IZUMO Takuto,4,1,"11,11,8,11,11|6,6,11,8,9",,GRAND_SLAM,MS,455,Qualification,DESAI Harmeet (IND),IZUMO Takuto (JPN)
-World Tour India Open New Delhi 2017,2017-02-14,HUNG Tzu-Hsiang,BORO Birdie,4,0,"11,11,11,11|7,5,3,8",,GRAND_SLAM,MS,455,Qualification,BORO Birdie (IND),HUNG Tzu-Hsiang (TPE)
-World Tour India Open New Delhi 2017,2017-02-14,DESAI Harmeet,HUNG Tzu-Hsiang,4,0,"11,17,11,11|5,15,4,7",,GRAND_SLAM,MS,455,Qualification,DESAI Harmeet (IND),HUNG Tzu-Hsiang (TPE)
-World Tour India Open New Delhi 2017,2017-02-14,IZUMO Takuto,BORO Birdie,4,1,"9,11,17,11,11|11,6,15,9,7",,GRAND_SLAM,MS,455,Qualification,IZUMO Takuto (JPN),BORO Birdie (IND)
-World Tour India Open New Delhi 2017,2017-02-14,GNANASEKARAN Sathiyan,YADAV Abhishek,4,0,"11,11,11,11|7,4,8,9",,GRAND_SLAM,MS,455,Qualification,GNANASEKARAN Sathiyan (IND),YADAV Abhishek (IND)
-World Tour India Open New Delhi 2017,2017-02-14,LAM Siu Hang,MERCKX Jasper,4,1,"6,11,11,11,11|11,4,1,6,9",,GRAND_SLAM,MS,455,Qualification,LAM Siu Hang (HKG),MERCKX Jasper (BEL)
-World Tour India Open New Delhi 2017,2017-02-14,GNANASEKARAN Sathiyan,LAM Siu Hang,4,0,"11,11,16,15|8,9,14,13",,GRAND_SLAM,MS,455,Qualification,GNANASEKARAN Sathiyan (IND),LAM Siu Hang (HKG)
-World Tour India Open New Delhi 2017,2017-02-14,YADAV Abhishek,MERCKX Jasper,4,1,"11,9,11,11,11|4,11,4,8,5",,GRAND_SLAM,MS,455,Qualification,YADAV Abhishek (IND),MERCKX Jasper (BEL)
-World Tour India Open New Delhi 2017,2017-02-14,GNANASEKARAN Sathiyan,MERCKX Jasper,4,0,"11,11,11,11|6,2,7,5",,GRAND_SLAM,MS,455,Qualification,GNANASEKARAN Sathiyan (IND),MERCKX Jasper (BEL)
-World Tour India Open New Delhi 2017,2017-02-14,LAM Siu Hang,YADAV Abhishek,4,2,"10,11,9,11,11,11|12,6,11,9,8,7",,GRAND_SLAM,MS,455,Qualification,LAM Siu Hang (HKG),YADAV Abhishek (IND)
-World Tour India Open New Delhi 2017,2017-02-14,WALKER Samuel,BU SHULAYBI Abdulaziz,4,2,"11,11,11,10,11,11|7,3,13,12,3,6",,GRAND_SLAM,MS,455,Qualification,WALKER Samuel (ENG),BU SHULAYBI Abdulaziz (KSA)
-World Tour India Open New Delhi 2017,2017-02-14,SALIFOU Abdel-Kader,KUMAR Jubin,4,0,"11,11,12,11|7,6,10,6",,GRAND_SLAM,MS,455,Qualification,SALIFOU Abdel-Kader (BEN),KUMAR Jubin (IND)
-World Tour India Open New Delhi 2017,2017-02-14,WALKER Samuel,SALIFOU Abdel-Kader,4,2,"11,7,4,11,11,11|2,11,11,4,8,3",,GRAND_SLAM,MS,455,Qualification,WALKER Samuel (ENG),SALIFOU Abdel-Kader (BEN)
-World Tour India Open New Delhi 2017,2017-02-14,BU SHULAYBI Abdulaziz,KUMAR Jubin,4,3,"8,11,11,4,4,11,11|11,5,5,11,11,7,7",,GRAND_SLAM,MS,455,Qualification,BU SHULAYBI Abdulaziz (KSA),KUMAR Jubin (IND)
-World Tour India Open New Delhi 2017,2017-02-14,WALKER Samuel,KUMAR Jubin,4,1,"11,11,6,11,13|4,5,11,8,11",,GRAND_SLAM,MS,455,Qualification,WALKER Samuel (ENG),KUMAR Jubin (IND)
-World Tour India Open New Delhi 2017,2017-02-14,SALIFOU Abdel-Kader,BU SHULAYBI Abdulaziz,4,0,"11,11,11,11|4,6,5,5",,GRAND_SLAM,MS,455,Qualification,SALIFOU Abdel-Kader (BEN),BU SHULAYBI Abdulaziz (KSA)
-World Tour India Open New Delhi 2017,2017-02-14,AKKUZU Can,ALAMRI Abdulaziz,4,0,"11,11,11,11|8,6,4,4",,GRAND_SLAM,MS,455,Qualification,AKKUZU Can (FRA),ALAMRI Abdulaziz (KSA)
-World Tour India Open New Delhi 2017,2017-02-14,SAKAI Asuka,SAHA Subhajit,4,0,"11,11,11,11|7,9,8,7",,GRAND_SLAM,MS,455,Qualification,SAKAI Asuka (JPN),SAHA Subhajit (IND)
-World Tour India Open New Delhi 2017,2017-02-14,AKKUZU Can,SAKAI Asuka,4,0,"11,11,11,11|9,3,9,8",,GRAND_SLAM,MS,455,Qualification,AKKUZU Can (FRA),SAKAI Asuka (JPN)
-World Tour India Open New Delhi 2017,2017-02-14,SAHA Subhajit,ALAMRI Abdulaziz,4,0,"11,11,11,11|3,6,4,7",,GRAND_SLAM,MS,455,Qualification,ALAMRI Abdulaziz (KSA),SAHA Subhajit (IND)
-World Tour India Open New Delhi 2017,2017-02-14,AKKUZU Can,SAHA Subhajit,4,0,"11,11,11,11|4,9,7,5",,GRAND_SLAM,MS,455,Qualification,AKKUZU Can (FRA),SAHA Subhajit (IND)
-World Tour India Open New Delhi 2017,2017-02-14,SAKAI Asuka,ALAMRI Abdulaziz,4,0,"11,11,11,11|7,6,2,3",,GRAND_SLAM,MS,455,Qualification,SAKAI Asuka (JPN),ALAMRI Abdulaziz (KSA)
-World Tour India Open New Delhi 2017,2017-02-14,OVTCHAROV Dimitrij,AL-ABBAD Abdulaziz,4,0,"11,11,11,11|3,5,4,2",R32,GRAND_SLAM,MS,455,Main Draw,OVTCHAROV Dimitrij (GER),AL-ABBAD Abdulaziz (KSA)
-World Tour India Open New Delhi 2017,2017-02-14,GERALDO Joao,MENGEL Steffen,4,0,"11,13,11,11|9,11,7,7",R32,GRAND_SLAM,MS,455,Main Draw,GERALDO Joao (POR),MENGEL Steffen (GER)
-World Tour India Open New Delhi 2017,2017-02-14,MORIZONO Masataka,GNANASEKARAN Sathiyan,4,3,"11,12,7,8,8,12,11|9,10,11,11,11,10,8",R32,GRAND_SLAM,MS,455,Main Draw,MORIZONO Masataka (JPN),GNANASEKARAN Sathiyan (IND)
-World Tour India Open New Delhi 2017,2017-02-14,OSHIMA Yuya,JANCARIK Lubomir,4,1,"11,9,13,18,11|8,11,11,16,2",R32,GRAND_SLAM,MS,455,Main Draw,JANCARIK Lubomir (CZE),OSHIMA Yuya (JPN)
-World Tour India Open New Delhi 2017,2017-02-14,JIANG Tianyi,DUDA Benedikt,4,3,"5,4,6,11,11,11,11|11,11,11,5,5,3,9",R32,GRAND_SLAM,MS,455,Main Draw,DUDA Benedikt (GER),JIANG Tianyi (HKG)
-World Tour India Open New Delhi 2017,2017-02-14,WALTHER Ricardo,GHOSH Soumyajit,4,3,"11,9,11,8,3,11,11|6,11,5,11,11,6,6",R32,GRAND_SLAM,MS,455,Main Draw,GHOSH Soumyajit (IND),WALTHER Ricardo (GER)
-World Tour India Open New Delhi 2017,2017-02-14,DESAI Harmeet,FLORE Tristan,4,3,"11,11,11,9,9,7,11|4,6,9,11,11,11,6",R32,GRAND_SLAM,MS,455,Main Draw,FLORE Tristan (FRA),DESAI Harmeet (IND)
-World Tour India Open New Delhi 2017,2017-02-14,NIWA Koki,ANTHONY Amalraj,4,0,"11,11,15,11|4,5,13,4",R32,GRAND_SLAM,MS,455,Main Draw,ANTHONY Amalraj (IND),NIWA Koki (JPN)
-World Tour India Open New Delhi 2017,2017-02-14,MURAMATSU Yuto,SALIFOU Abdel-Kader,4,0,"12,11,11,11|10,4,7,5",R32,GRAND_SLAM,MS,455,Main Draw,MURAMATSU Yuto (JPN),SALIFOU Abdel-Kader (BEN)
-World Tour India Open New Delhi 2017,2017-02-14,ACHANTA Sharath,AKKUZU Can,4,1,"11,11,11,8,11|5,8,4,11,8",R32,GRAND_SLAM,MS,455,Main Draw,AKKUZU Can (FRA),ACHANTA Sharath (IND)
-World Tour India Open New Delhi 2017,2017-02-14,FILUS Ruwen,ROBINOT Quentin,4,0,"11,12,11,11|3,10,6,6",R32,GRAND_SLAM,MS,455,Main Draw,FILUS Ruwen (GER),ROBINOT Quentin (FRA)
-World Tour India Open New Delhi 2017,2017-02-14,DRINKHALL Paul,LAM Siu Hang,4,2,"0,11,14,11,7,11|11,7,12,9,11,9",R32,GRAND_SLAM,MS,455,Main Draw,LAM Siu Hang (HKG),DRINKHALL Paul (ENG)
-World Tour India Open New Delhi 2017,2017-02-14,GARDOS Robert,WALKER Samuel,4,0,"11,11,11,11|5,7,6,6",R32,GRAND_SLAM,MS,455,Main Draw,GARDOS Robert (AUT),WALKER Samuel (ENG)
-World Tour India Open New Delhi 2017,2017-02-14,SHETTY Sanil,BAUM Patrick,4,2,"11,11,7,11,7,11|7,4,11,8,11,8",R32,GRAND_SLAM,MS,455,Main Draw,SHETTY Sanil (IND),BAUM Patrick (GER)
-World Tour India Open New Delhi 2017,2017-02-14,HARIMOTO Tomokazu,ROBLES Alvaro,4,1,"11,7,11,11,13|7,11,8,8,11",R32,GRAND_SLAM,MS,455,Main Draw,HARIMOTO Tomokazu (JPN),ROBLES Alvaro (ESP)
-World Tour India Open New Delhi 2017,2017-02-14,SAKAI Asuka,SAMSONOV Vladimir,4,0,"11,12,11,11|5,10,9,4",R32,GRAND_SLAM,MS,455,Main Draw,SAKAI Asuka (JPN),SAMSONOV Vladimir (BLR)
-World Tour India Open New Delhi 2017,2017-02-14,OVTCHAROV Dimitrij,GERALDO Joao,4,0,"11,11,11,11|3,3,5,4",R16,GRAND_SLAM,MS,455,Main Draw,OVTCHAROV Dimitrij (GER),GERALDO Joao (POR)
-World Tour India Open New Delhi 2017,2017-02-14,OSHIMA Yuya,MORIZONO Masataka,4,2,"11,11,6,11,7,11|5,4,11,6,11,8",R16,GRAND_SLAM,MS,455,Main Draw,MORIZONO Masataka (JPN),OSHIMA Yuya (JPN)
-World Tour India Open New Delhi 2017,2017-02-14,JIANG Tianyi,WALTHER Ricardo,4,3,"11,7,11,4,11,11,14|13,11,4,11,5,9,12",R16,GRAND_SLAM,MS,455,Main Draw,JIANG Tianyi (HKG),WALTHER Ricardo (GER)
-World Tour India Open New Delhi 2017,2017-02-14,NIWA Koki,DESAI Harmeet,4,1,"14,11,11,11,11|16,6,7,4,9",R16,GRAND_SLAM,MS,455,Main Draw,DESAI Harmeet (IND),NIWA Koki (JPN)
-World Tour India Open New Delhi 2017,2017-02-14,ACHANTA Sharath,MURAMATSU Yuto,4,1,"11,11,11,14,11|8,7,4,16,5",R16,GRAND_SLAM,MS,455,Main Draw,MURAMATSU Yuto (JPN),ACHANTA Sharath (IND)
-World Tour India Open New Delhi 2017,2017-02-14,DRINKHALL Paul,FILUS Ruwen,4,1,"11,16,11,6,11|4,14,8,11,5",R16,GRAND_SLAM,MS,455,Main Draw,FILUS Ruwen (GER),DRINKHALL Paul (ENG)
-World Tour India Open New Delhi 2017,2017-02-14,GARDOS Robert,SHETTY Sanil,4,2,"11,9,10,11,11,11|9,11,12,4,7,7",R16,GRAND_SLAM,MS,455,Main Draw,GARDOS Robert (AUT),SHETTY Sanil (IND)
-World Tour India Open New Delhi 2017,2017-02-14,HARIMOTO Tomokazu,SAKAI Asuka,4,2,"11,11,13,11,11,11|9,7,15,7,13,7",R16,GRAND_SLAM,MS,455,Main Draw,HARIMOTO Tomokazu (JPN),SAKAI Asuka (JPN)
-World Tour India Open New Delhi 2017,2017-02-14,OVTCHAROV Dimitrij,OSHIMA Yuya,4,3,"7,11,11,11,4,6,12|11,8,6,8,11,11,10",QF,GRAND_SLAM,MS,455,Main Draw,OVTCHAROV Dimitrij (GER),OSHIMA Yuya (JPN)
-World Tour India Open New Delhi 2017,2017-02-14,NIWA Koki,JIANG Tianyi,4,1,"11,10,11,11,11|9,12,1,8,8",QF,GRAND_SLAM,MS,455,Main Draw,JIANG Tianyi (HKG),NIWA Koki (JPN)
-World Tour India Open New Delhi 2017,2017-02-14,ACHANTA Sharath,DRINKHALL Paul,4,3,"11,10,9,11,11,9,13|4,12,11,6,9,11,11",QF,GRAND_SLAM,MS,455,Main Draw,ACHANTA Sharath (IND),DRINKHALL Paul (ENG)
-World Tour India Open New Delhi 2017,2017-02-14,HARIMOTO Tomokazu,GARDOS Robert,4,2,"4,11,11,8,12,11|11,7,8,11,10,6",QF,GRAND_SLAM,MS,455,Main Draw,GARDOS Robert (AUT),HARIMOTO Tomokazu (JPN)
-World Tour India Open New Delhi 2017,2017-02-14,OVTCHAROV Dimitrij,NIWA Koki,4,3,"8,11,9,12,14,11,11|11,2,11,10,16,2,8",SF,GRAND_SLAM,MS,455,Main Draw,OVTCHAROV Dimitrij (GER),NIWA Koki (JPN)
-World Tour India Open New Delhi 2017,2017-02-14,HARIMOTO Tomokazu,ACHANTA Sharath,4,2,"11,5,11,11,11,11|7,11,7,13,9,9",SF,GRAND_SLAM,MS,455,Main Draw,ACHANTA Sharath (IND),HARIMOTO Tomokazu (JPN)
-World Tour India Open New Delhi 2017,2017-02-14,OVTCHAROV Dimitrij,HARIMOTO Tomokazu,4,0,"11,11,11,14|6,8,4,12",F,GRAND_SLAM,MS,455,Main Draw,OVTCHAROV Dimitrij (GER),HARIMOTO Tomokazu (JPN)
-World Tour India Open New Delhi 2017,2017-02-14,PAUL Mousumi,BATRA Manika,4,1,"11,8,11,11,11|7,11,7,4,8",R32,GRAND_SLAM,WS,455,Main Draw,PAUL Mousumi (IND),BATRA Manika (IND)
-World Tour India Open New Delhi 2017,2017-02-14,MUKHERJEE Sutirtha,DAS Ankita,4,0,"11,11,11,11|5,8,8,9",R32,GRAND_SLAM,WS,455,Main Draw,DAS Ankita (IND),MUKHERJEE Sutirtha (IND)
-World Tour India Open New Delhi 2017,2017-02-14,JIANG Huajun,ROY Krittwika,4,3,"11,6,11,13,8,8,19|6,11,7,11,11,11,17",R32,GRAND_SLAM,WS,455,Main Draw,ROY Krittwika (IND),JIANG Huajun (HKG)
-World Tour India Open New Delhi 2017,2017-02-14,SHAO Jieni,SELVAKUMAR Selena,4,0,"11,11,11,11|5,2,8,5",R32,GRAND_SLAM,WS,455,Main Draw,SHAO Jieni (POR),SELVAKUMAR Selena (IND)
-World Tour India Open New Delhi 2017,2017-02-14,WANG Yi-Ju,PUSHPAK Amrutha,4,0,"11,11,11,11|8,9,6,9",R32,GRAND_SLAM,WS,455,Main Draw,PUSHPAK Amrutha (IND),WANG Yi-Ju (TPE)
-World Tour India Open New Delhi 2017,2017-02-14,LIN Po-Hsuan,PAREEK Priyanka,4,1,"6,11,11,11,11|11,8,6,9,3",R32,GRAND_SLAM,WS,455,Main Draw,LIN Po-Hsuan (TPE),PAREEK Priyanka (CAN)
-World Tour India Open New Delhi 2017,2017-02-14,SOO Wai Yam,PATKAR Madhurika,4,1,"9,11,11,11,11|11,6,2,4,9",R32,GRAND_SLAM,WS,455,Main Draw,PATKAR Madhurika (IND),SOO Wai Yam (HKG)
-World Tour India Open New Delhi 2017,2017-02-14,DAS Mouma,AKULA Sreeja,4,2,"3,11,11,9,11,11|11,8,8,11,6,7",R32,GRAND_SLAM,WS,455,Main Draw,DAS Mouma (IND),AKULA Sreeja (IND)
-World Tour India Open New Delhi 2017,2017-02-14,NG Wing Nam,DAS Priyadarshini,4,2,"13,11,11,5,11,11|11,13,3,11,6,7",R32,GRAND_SLAM,WS,455,Main Draw,DAS Priyadarshini (IND),NG Wing Nam (HKG)
-World Tour India Open New Delhi 2017,2017-02-14,MORI Sakura,CALANGE Harsha,4,0,"11,11,11,11|8,5,5,7",R32,GRAND_SLAM,WS,455,Main Draw,MORI Sakura (JPN),CALANGE Harsha (IND)
-World Tour India Open New Delhi 2017,2017-02-14,KAMATH Archana,MUKHERJEE Ayhika,4,2,"9,12,9,11,12,12|11,10,11,7,10,10",R32,GRAND_SLAM,WS,455,Main Draw,KAMATH Archana (IND),MUKHERJEE Ayhika (IND)
-World Tour India Open New Delhi 2017,2017-02-14,MAK Tze Wing,DUTTA Moumita,4,2,"9,11,12,10,11,11|11,5,10,12,8,5",R32,GRAND_SLAM,WS,455,Main Draw,MAK Tze Wing (HKG),DUTTA Moumita (IND)
-World Tour India Open New Delhi 2017,2017-02-14,DOO Hoi Kem,PAUL Mousumi,4,0,"11,11,11,13|2,6,6,11",R16,GRAND_SLAM,WS,455,Main Draw,DOO Hoi Kem (HKG),PAUL Mousumi (IND)
-World Tour India Open New Delhi 2017,2017-02-14,JIANG Huajun,MUKHERJEE Sutirtha,4,1,"11,11,13,9,11|4,3,11,11,6",R16,GRAND_SLAM,WS,455,Main Draw,MUKHERJEE Sutirtha (IND),JIANG Huajun (HKG)
-World Tour India Open New Delhi 2017,2017-02-14,SHAO Jieni,WANG Yi-Ju,4,1,"10,13,17,11,11|12,11,15,6,5",R16,GRAND_SLAM,WS,455,Main Draw,SHAO Jieni (POR),WANG Yi-Ju (TPE)
-World Tour India Open New Delhi 2017,2017-02-14,EKHOLM Matilda,LIN Po-Hsuan,4,0,"11,11,11,11|3,6,8,6",R16,GRAND_SLAM,WS,455,Main Draw,LIN Po-Hsuan (TPE),EKHOLM Matilda (SWE)
-World Tour India Open New Delhi 2017,2017-02-14,POTA Georgina,SOO Wai Yam,4,1,"11,7,11,11,12|8,11,8,8,10",R16,GRAND_SLAM,WS,455,Main Draw,POTA Georgina (HUN),SOO Wai Yam (HKG)
-World Tour India Open New Delhi 2017,2017-02-14,NG Wing Nam,DAS Mouma,4,0,"11,11,11,15|6,7,9,13",R16,GRAND_SLAM,WS,455,Main Draw,DAS Mouma (IND),NG Wing Nam (HKG)
-World Tour India Open New Delhi 2017,2017-02-14,MORI Sakura,KAMATH Archana,4,2,"11,13,5,11,10,11|3,11,11,4,12,4",R16,GRAND_SLAM,WS,455,Main Draw,MORI Sakura (JPN),KAMATH Archana (IND)
-World Tour India Open New Delhi 2017,2017-02-14,MAK Tze Wing,LEE Ho Ching,4,3,"5,4,12,8,11,11,11|11,11,10,11,9,9,9",R16,GRAND_SLAM,WS,455,Main Draw,MAK Tze Wing (HKG),LEE Ho Ching (HKG)
-World Tour India Open New Delhi 2017,2017-02-14,DOO Hoi Kem,JIANG Huajun,4,1,"11,6,11,11,13|6,11,7,8,11",QF,GRAND_SLAM,WS,455,Main Draw,DOO Hoi Kem (HKG),JIANG Huajun (HKG)
-World Tour India Open New Delhi 2017,2017-02-14,EKHOLM Matilda,SHAO Jieni,4,0,"11,11,11,11|8,8,7,5",QF,GRAND_SLAM,WS,455,Main Draw,SHAO Jieni (POR),EKHOLM Matilda (SWE)
-World Tour India Open New Delhi 2017,2017-02-14,NG Wing Nam,POTA Georgina,4,1,"11,11,12,8,11|9,6,10,11,3",QF,GRAND_SLAM,WS,455,Main Draw,POTA Georgina (HUN),NG Wing Nam (HKG)
-World Tour India Open New Delhi 2017,2017-02-14,MORI Sakura,MAK Tze Wing,4,1,"11,13,10,11,11|6,11,12,6,7",QF,GRAND_SLAM,WS,455,Main Draw,MORI Sakura (JPN),MAK Tze Wing (HKG)
-World Tour India Open New Delhi 2017,2017-02-14,EKHOLM Matilda,DOO Hoi Kem,4,2,"11,11,5,11,8,11|8,7,11,9,11,3",SF,GRAND_SLAM,WS,455,Main Draw,DOO Hoi Kem (HKG),EKHOLM Matilda (SWE)
-World Tour India Open New Delhi 2017,2017-02-14,MORI Sakura,NG Wing Nam,4,3,"13,12,10,9,11,9,11|11,10,12,11,8,11,6",SF,GRAND_SLAM,WS,455,Main Draw,NG Wing Nam (HKG),MORI Sakura (JPN)
-World Tour India Open New Delhi 2017,2017-02-14,MORI Sakura,EKHOLM Matilda,4,3,"7,11,11,12,6,8,11|11,5,8,10,11,11,6",F,GRAND_SLAM,WS,455,Main Draw,EKHOLM Matilda (SWE),MORI Sakura (JPN)
-World Tour India Open New Delhi 2017,2017-02-14,SAKAI Asuka,THAKKAR Manav,4,1,"7,11,11,11,11|11,7,7,7,7",QR16,GRAND_SLAM,MS,455,Qualification,THAKKAR Manav (IND),SAKAI Asuka (JPN)
-World Tour India Open New Delhi 2017,2017-02-14,SALIFOU Abdel-Kader,ALKHADRAWI Ali,4,0,"11,11,11,11|6,6,7,7",QR16,GRAND_SLAM,MS,455,Qualification,ALKHADRAWI Ali (KSA),SALIFOU Abdel-Kader (BEN)
-World Tour India Open New Delhi 2017,2017-02-14,LAM Siu Hang,AL-ABBAD Abdulaziz,4,2,"11,13,7,11,11,11|8,15,11,6,5,5",QR16,GRAND_SLAM,MS,455,Qualification,AL-ABBAD Abdulaziz (KSA),LAM Siu Hang (HKG)
-World Tour India Open New Delhi 2017,2017-02-14,ANTHONY Amalraj,HUNG Tzu-Hsiang,4,1,"11,11,11,13,11|9,7,7,15,8",QR16,GRAND_SLAM,MS,455,Qualification,ANTHONY Amalraj (IND),HUNG Tzu-Hsiang (TPE)
-World Tour India Open New Delhi 2017,2017-02-14,JANCARIK Lubomir,GROVER Sudhanshu,4,0,"11,11,11,11|6,9,8,6",QR16,GRAND_SLAM,MS,455,Qualification,JANCARIK Lubomir (CZE),GROVER Sudhanshu (IND)
-World Tour India Open New Delhi 2017,2017-02-14,ALKHADRAWI Ali,GUPTA Utkarsh,3,1,"11,4,11,11|6,11,8,8",R32,GRAND_SLAM,U21MS,455,Main Draw,ALKHADRAWI Ali (KSA),GUPTA Utkarsh (IND)
-World Tour India Open New Delhi 2017,2017-02-14,HARIMOTO Tomokazu,ALAMRI Abdulaziz,3,0,"11,11,11|1,1,6",R16,GRAND_SLAM,U21MS,455,Main Draw,HARIMOTO Tomokazu (JPN),ALAMRI Abdulaziz (KSA)
-World Tour India Open New Delhi 2017,2017-02-14,BORO Birdie,THAKKAR Manav,3,2,"9,12,9,11,11|11,10,11,6,5",R16,GRAND_SLAM,U21MS,455,Main Draw,BORO Birdie (IND),THAKKAR Manav (IND)
-World Tour India Open New Delhi 2017,2017-02-14,IZUMO Takuto,PANDE Siddhesh,3,2,"9,11,8,11,11|11,6,11,9,4",R16,GRAND_SLAM,U21MS,455,Main Draw,IZUMO Takuto (JPN),PANDE Siddhesh (IND)
-World Tour India Open New Delhi 2017,2017-02-14,GHOSH Arjun,CHANDRA Jeet,3,1,"11,11,12,11|9,6,14,5",R16,GRAND_SLAM,U21MS,455,Main Draw,CHANDRA Jeet (IND),GHOSH Arjun (IND)
-World Tour India Open New Delhi 2017,2017-02-14,ALKHADRAWI Ali,GHOSH Anirban,3,1,"7,11,11,11|11,9,6,6",R16,GRAND_SLAM,U21MS,455,Main Draw,ALKHADRAWI Ali (KSA),GHOSH Anirban (IND)
-World Tour India Open New Delhi 2017,2017-02-14,SAKAI Asuka,BU SHULAYBI Abdulaziz,3,0,"11,11,11|4,3,8",R16,GRAND_SLAM,U21MS,455,Main Draw,BU SHULAYBI Abdulaziz (KSA),SAKAI Asuka (JPN)
-World Tour India Open New Delhi 2017,2017-02-14,HARIMOTO Tomokazu,BORO Birdie,3,0,"11,11,11|8,7,5",QF,GRAND_SLAM,U21MS,455,Main Draw,HARIMOTO Tomokazu (JPN),BORO Birdie (IND)
-World Tour India Open New Delhi 2017,2017-02-14,LAM Siu Hang,BHANJA Ronit,3,1,"11,11,11,11|6,7,13,5",QF,GRAND_SLAM,U21MS,455,Main Draw,BHANJA Ronit (IND),LAM Siu Hang (HKG)
-World Tour India Open New Delhi 2017,2017-02-14,IZUMO Takuto,GHOSH Arjun,3,0,"14,11,11|12,7,7",QF,GRAND_SLAM,U21MS,455,Main Draw,IZUMO Takuto (JPN),GHOSH Arjun (IND)
-World Tour India Open New Delhi 2017,2017-02-14,SAKAI Asuka,ALKHADRAWI Ali,3,0,"11,11,11|7,9,3",QF,GRAND_SLAM,U21MS,455,Main Draw,ALKHADRAWI Ali (KSA),SAKAI Asuka (JPN)
-World Tour India Open New Delhi 2017,2017-02-14,LAM Siu Hang,HARIMOTO Tomokazu,3,2,"11,3,16,11,11|6,11,18,9,9",SF,GRAND_SLAM,U21MS,455,Main Draw,HARIMOTO Tomokazu (JPN),LAM Siu Hang (HKG)
-World Tour India Open New Delhi 2017,2017-02-14,SAKAI Asuka,IZUMO Takuto,3,1,"5,11,11,11|11,6,3,9",SF,GRAND_SLAM,U21MS,455,Main Draw,IZUMO Takuto (JPN),SAKAI Asuka (JPN)
-World Tour India Open New Delhi 2017,2017-02-14,SAKAI Asuka,LAM Siu Hang,3,2,"11,5,11,10,11|8,11,4,12,8",F,GRAND_SLAM,U21MS,455,Main Draw,LAM Siu Hang (HKG),SAKAI Asuka (JPN)
-World Tour India Open New Delhi 2017,2017-02-14,PAREEK Priyanka,SELVAKUMAR Selena,3,2,"11,11,8,8,11|9,6,11,11,9",R16,GRAND_SLAM,U21WS,455,Main Draw,SELVAKUMAR Selena (IND),PAREEK Priyanka (CAN)
-World Tour India Open New Delhi 2017,2017-02-14,KAMATH Archana,DUTTA Moumita,3,0,"11,11,11|4,4,6",R16,GRAND_SLAM,U21WS,455,Main Draw,KAMATH Archana (IND),DUTTA Moumita (IND)
-World Tour India Open New Delhi 2017,2017-02-14,LIN Po-Hsuan,CALANGE Harsha,3,1,"8,11,11,11|11,6,7,6",R16,GRAND_SLAM,U21WS,455,Main Draw,LIN Po-Hsuan (TPE),CALANGE Harsha (IND)
-World Tour India Open New Delhi 2017,2017-02-14,AKULA Sreeja,PUSHPAK Amrutha,3,2,"7,8,11,11,11|11,11,6,5,5",R16,GRAND_SLAM,U21WS,455,Main Draw,PUSHPAK Amrutha (IND),AKULA Sreeja (IND)
-World Tour India Open New Delhi 2017,2017-02-14,MUKHERJEE Ayhika,DAS Priyadarshini,3,2,"13,11,10,9,11|11,9,12,11,5",R16,GRAND_SLAM,U21WS,455,Main Draw,MUKHERJEE Ayhika (IND),DAS Priyadarshini (IND)
-World Tour India Open New Delhi 2017,2017-02-14,MORI Sakura,PAREEK Priyanka,3,0,"11,11,11|1,3,3",QF,GRAND_SLAM,U21WS,455,Main Draw,MORI Sakura (JPN),PAREEK Priyanka (CAN)
-World Tour India Open New Delhi 2017,2017-02-14,MAK Tze Wing,KAMATH Archana,3,2,"11,6,11,6,11|6,11,7,11,9",QF,GRAND_SLAM,U21WS,455,Main Draw,KAMATH Archana (IND),MAK Tze Wing (HKG)
-World Tour India Open New Delhi 2017,2017-02-14,AKULA Sreeja,LIN Po-Hsuan,3,2,"11,6,6,11,11|7,11,11,3,9",QF,GRAND_SLAM,U21WS,455,Main Draw,LIN Po-Hsuan (TPE),AKULA Sreeja (IND)
-World Tour India Open New Delhi 2017,2017-02-14,SOO Wai Yam,MUKHERJEE Ayhika,3,0,"11,13,11|9,11,9",QF,GRAND_SLAM,U21WS,455,Main Draw,MUKHERJEE Ayhika (IND),SOO Wai Yam (HKG)
-World Tour India Open New Delhi 2017,2017-02-14,SOO Wai Yam,AKULA Sreeja,3,0,"11,13,11|2,11,7",SF,GRAND_SLAM,U21WS,455,Main Draw,AKULA Sreeja (IND),SOO Wai Yam (HKG)
-World Tour India Open New Delhi 2017,2017-02-14,MORI Sakura,SOO Wai Yam,3,2,"4,13,6,11,12|11,11,11,5,10",F,GRAND_SLAM,U21WS,455,Main Draw,MORI Sakura (JPN),SOO Wai Yam (HKG)
-World Tour India Open New Delhi 2017,2017-02-14,GARDOS Robert/JANCARIK Lubomir,ALKHADRAWI Ali/BU SHULAYBI Abdulaziz,3,1,"7,11,11,11|11,4,5,7",R16,GRAND_SLAM,MD,455,Main Draw,GARDOS Robert (AUT) / JANCARIK Lubomir (CZE),ALKHADRAWI Ali (KSA) / BU SHULAYBI Abdulaziz (KSA)
-World Tour India Open New Delhi 2017,2017-02-14,JIANG Tianyi/LAM Siu Hang,GARDOS Robert/JANCARIK Lubomir,3,0,"11,12,11|7,10,7",QF,GRAND_SLAM,MD,455,Main Draw,JIANG Tianyi (HKG) / LAM Siu Hang (HKG),GARDOS Robert (AUT) / JANCARIK Lubomir (CZE)
-World Tour India Open New Delhi 2017,2017-02-14,FLORE Tristan/ROBINOT Quentin,DRINKHALL Paul/WALKER Samuel,3,1,"11,6,11,11|9,11,8,7",R16,GRAND_SLAM,MD,455,Main Draw,FLORE Tristan (FRA) / ROBINOT Quentin (FRA),DRINKHALL Paul (ENG) / WALKER Samuel (ENG)
-World Tour India Open New Delhi 2017,2017-02-14,FILUS Ruwen/WALTHER Ricardo,FLORE Tristan/ROBINOT Quentin,3,0,"11,11,11|4,7,8",QF,GRAND_SLAM,MD,455,Main Draw,FILUS Ruwen (GER) / WALTHER Ricardo (GER),FLORE Tristan (FRA) / ROBINOT Quentin (FRA)
-World Tour India Open New Delhi 2017,2017-02-14,FILUS Ruwen/WALTHER Ricardo,DUDA Benedikt/MENGEL Steffen,3,1,"11,11,6,11|7,6,11,4",SF,GRAND_SLAM,MD,455,Main Draw,FILUS Ruwen (GER) / WALTHER Ricardo (GER),DUDA Benedikt (GER) / MENGEL Steffen (GER)
-World Tour India Open New Delhi 2017,2017-02-14,DOO Hoi Kem/LEE Ho Ching,DAS Ankita/PATKAR Madhurika,3,0,"11,11,11|9,4,7",QF,GRAND_SLAM,WD,455,Main Draw,DOO Hoi Kem (HKG) / LEE Ho Ching (HKG),DAS Ankita (IND) / PATKAR Madhurika (IND)
-World Tour India Open New Delhi 2017,2017-02-14,NG Wing Nam/SOO Wai Yam,BATRA Manika/DAS Mouma,3,0,"11,11,11|8,6,8",QF,GRAND_SLAM,WD,455,Main Draw,NG Wing Nam (HKG) / SOO Wai Yam (HKG),BATRA Manika (IND) / DAS Mouma (IND)
-World Tour India Open New Delhi 2017,2017-02-14,DOO Hoi Kem/LEE Ho Ching,NG Wing Nam/SOO Wai Yam,3,2,"11,11,11,10,11|9,13,9,12,6",SF,GRAND_SLAM,WD,455,Main Draw,DOO Hoi Kem (HKG) / LEE Ho Ching (HKG),NG Wing Nam (HKG) / SOO Wai Yam (HKG)
-World Tour India Open New Delhi 2017,2017-02-14,JIANG Tianyi/LAM Siu Hang,DESAI Harmeet/GHOSH Soumyajit,3,2,"8,11,4,11,13|11,8,11,3,11",R16,GRAND_SLAM,MD,455,Main Draw,JIANG Tianyi (HKG) / LAM Siu Hang (HKG),DESAI Harmeet (IND) / GHOSH Soumyajit (IND)
-World Tour India Open New Delhi 2017,2017-02-14,DUDA Benedikt/MENGEL Steffen,BHANJA Ronit/GHOSH Arjun,3,1,"11,11,9,11|8,4,11,6",R16,GRAND_SLAM,MD,455,Main Draw,DUDA Benedikt (GER) / MENGEL Steffen (GER),BHANJA Ronit (IND) / GHOSH Arjun (IND)
-World Tour India Open New Delhi 2017,2017-02-14,DUDA Benedikt/MENGEL Steffen,ANTHONY Amalraj/GNANASEKARAN Sathiyan,3,1,"5,13,11,11|11,11,8,9",QF,GRAND_SLAM,MD,455,Main Draw,DUDA Benedikt (GER) / MENGEL Steffen (GER),ANTHONY Amalraj (IND) / GNANASEKARAN Sathiyan (IND)
-World Tour India Open New Delhi 2017,2017-02-14,EKHOLM Matilda/POTA Georgina,AKULA Sreeja/KAMATH Archana,3,0,"11,11,11|8,1,7",QF,GRAND_SLAM,WD,455,Main Draw,EKHOLM Matilda (SWE) / POTA Georgina (HUN),AKULA Sreeja (IND) / KAMATH Archana (IND)
-World Tour India Open New Delhi 2017,2017-02-14,MORIZONO Masataka/OSHIMA Yuya,AKKUZU Can/GERALDO Joao,3,0,"12,20,11|10,18,9",R16,GRAND_SLAM,MD,455,Main Draw,MORIZONO Masataka (JPN) / OSHIMA Yuya (JPN),AKKUZU Can (FRA) / GERALDO Joao (POR)
-World Tour India Open New Delhi 2017,2017-02-14,MORIZONO Masataka/OSHIMA Yuya,ACHANTA Sharath/SHETTY Sanil,3,0,"12,11,11|10,1,3",QF,GRAND_SLAM,MD,455,Main Draw,MORIZONO Masataka (JPN) / OSHIMA Yuya (JPN),ACHANTA Sharath (IND) / SHETTY Sanil (IND)
-World Tour India Open New Delhi 2017,2017-02-14,MORIZONO Masataka/OSHIMA Yuya,JIANG Tianyi/LAM Siu Hang,3,0,"12,11,12|10,5,10",SF,GRAND_SLAM,MD,455,Main Draw,MORIZONO Masataka (JPN) / OSHIMA Yuya (JPN),JIANG Tianyi (HKG) / LAM Siu Hang (HKG)
-World Tour India Open New Delhi 2017,2017-02-14,MORIZONO Masataka/OSHIMA Yuya,FILUS Ruwen/WALTHER Ricardo,3,1,"9,11,11,11|11,7,6,9",F,GRAND_SLAM,MD,455,Main Draw,MORIZONO Masataka (JPN) / OSHIMA Yuya (JPN),FILUS Ruwen (GER) / WALTHER Ricardo (GER)
-World Tour India Open New Delhi 2017,2017-02-14,FILUS Ruwen/WALTHER Ricardo,AL-ABBAD Abdulaziz/ALAMRI Abdulaziz,3,0,"11,11,11|0,5,8",R16,GRAND_SLAM,MD,455,Main Draw,FILUS Ruwen (GER) / WALTHER Ricardo (GER),AL-ABBAD Abdulaziz (KSA) / ALAMRI Abdulaziz (KSA)
-World Tour India Open New Delhi 2017,2017-02-14,LIN Po-Hsuan/WANG Yi-Ju,PAUL Mousumi/ROY Krittwika,3,2,"11,12,11,10,12|4,14,2,12,10",QF,GRAND_SLAM,WD,455,Main Draw,LIN Po-Hsuan (TPE) / WANG Yi-Ju (TPE),PAUL Mousumi (IND) / ROY Krittwika (IND)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+World Tour India Open New Delhi 2017,2017-02-14,PATKAR Madhurika,ROY Krittwika,4,1,"9,11,11,11,11|11,1,7,8,8",,GRAND_SLAM,WS,455,Qualification,PATKAR Madhurika (IND),ROY Krittwika (IND),PATKAR Madhurika
+World Tour India Open New Delhi 2017,2017-02-14,MUKHERJEE Sutirtha,PATKAR Madhurika,4,1,"11,13,11,6,11|9,11,8,11,4",,GRAND_SLAM,WS,455,Qualification,PATKAR Madhurika (IND),MUKHERJEE Sutirtha (IND),MUKHERJEE Sutirtha
+World Tour India Open New Delhi 2017,2017-02-14,ROY Krittwika,MUKHERJEE Sutirtha,4,3,"11,12,9,7,11,7,11|6,10,11,11,9,11,7",,GRAND_SLAM,WS,455,Qualification,MUKHERJEE Sutirtha (IND),ROY Krittwika (IND),ROY Krittwika
+World Tour India Open New Delhi 2017,2017-02-14,KAMATH Archana,PAUL Mousumi,4,1,"11,9,11,11,11|7,11,9,9,8",,GRAND_SLAM,WS,455,Qualification,KAMATH Archana (IND),PAUL Mousumi (IND),KAMATH Archana
+World Tour India Open New Delhi 2017,2017-02-14,KAMATH Archana,CALANGE Harsha,4,0,"11,11,11,11|4,8,3,4",,GRAND_SLAM,WS,455,Qualification,KAMATH Archana (IND),CALANGE Harsha (IND),KAMATH Archana
+World Tour India Open New Delhi 2017,2017-02-14,PAUL Mousumi,CALANGE Harsha,4,0,"11,11,11,11|5,9,9,5",,GRAND_SLAM,WS,455,Qualification,CALANGE Harsha (IND),PAUL Mousumi (IND),PAUL Mousumi
+World Tour India Open New Delhi 2017,2017-02-14,PUSHPAK Amrutha,AKULA Sreeja,4,0,"11,11,11,11|9,7,4,4",,GRAND_SLAM,WS,455,Qualification,AKULA Sreeja (IND),PUSHPAK Amrutha (IND),PUSHPAK Amrutha
+World Tour India Open New Delhi 2017,2017-02-14,AKULA Sreeja,SELVAKUMAR Selena,4,2,"10,11,11,8,11,11|12,7,6,11,5,5",,GRAND_SLAM,WS,455,Qualification,AKULA Sreeja (IND),SELVAKUMAR Selena (IND),AKULA Sreeja
+World Tour India Open New Delhi 2017,2017-02-14,PUSHPAK Amrutha,SELVAKUMAR Selena,4,2,"11,6,11,12,9,11|9,11,7,10,11,9",,GRAND_SLAM,WS,455,Qualification,SELVAKUMAR Selena (IND),PUSHPAK Amrutha (IND),PUSHPAK Amrutha
+World Tour India Open New Delhi 2017,2017-02-14,PAREEK Priyanka,DAS Priyadarshini,4,2,"11,11,8,12,13,11|5,4,11,10,15,7",,GRAND_SLAM,WS,455,Qualification,PAREEK Priyanka (CAN),DAS Priyadarshini (IND),PAREEK Priyanka
+World Tour India Open New Delhi 2017,2017-02-14,PAREEK Priyanka,DUTTA Moumita,4,0,"11,11,11,11|4,1,9,5",,GRAND_SLAM,WS,455,Qualification,PAREEK Priyanka (CAN),DUTTA Moumita (IND),PAREEK Priyanka
+World Tour India Open New Delhi 2017,2017-02-14,DUTTA Moumita,DAS Priyadarshini,4,2,"11,6,11,6,11,11|4,11,7,11,9,6",,GRAND_SLAM,WS,455,Qualification,DUTTA Moumita (IND),DAS Priyadarshini (IND),DUTTA Moumita
+World Tour India Open New Delhi 2017,2017-02-14,THAKKAR Manav,GHOSH Arjun,4,1,"11,13,11,9,11|4,11,9,11,9",,GRAND_SLAM,MS,455,Qualification,THAKKAR Manav (IND),GHOSH Arjun (IND),THAKKAR Manav
+World Tour India Open New Delhi 2017,2017-02-14,GERALDO Joao,THAKKAR Manav,4,2,"9,11,11,6,11,13|11,9,3,11,6,11",,GRAND_SLAM,MS,455,Qualification,THAKKAR Manav (IND),GERALDO Joao (POR),GERALDO Joao
+World Tour India Open New Delhi 2017,2017-02-14,GERALDO Joao,GHOSH Arjun,4,1,"11,11,11,9,11|6,5,3,11,3",,GRAND_SLAM,MS,455,Qualification,GERALDO Joao (POR),GHOSH Arjun (IND),GERALDO Joao
+World Tour India Open New Delhi 2017,2017-02-14,GHOSH Soumyajit,CHANDRA Jeet,4,0,"11,11,11,11|7,6,3,4",,GRAND_SLAM,MS,455,Qualification,GHOSH Soumyajit (IND),CHANDRA Jeet (IND),GHOSH Soumyajit
+World Tour India Open New Delhi 2017,2017-02-14,GHOSH Soumyajit,ALKHADRAWI Ali,4,3,"6,9,11,12,11,11,11|11,11,6,14,5,6,8",,GRAND_SLAM,MS,455,Qualification,GHOSH Soumyajit (IND),ALKHADRAWI Ali (KSA),GHOSH Soumyajit
+World Tour India Open New Delhi 2017,2017-02-14,ALKHADRAWI Ali,CHANDRA Jeet,4,1,"11,13,13,8,11|8,11,11,11,7",,GRAND_SLAM,MS,455,Qualification,ALKHADRAWI Ali (KSA),CHANDRA Jeet (IND),ALKHADRAWI Ali
+World Tour India Open New Delhi 2017,2017-02-14,JIANG Tianyi,GHOSH Anirban,4,0,"11,12,11,11|5,10,6,8",,GRAND_SLAM,MS,455,Qualification,JIANG Tianyi (HKG),GHOSH Anirban (IND),JIANG Tianyi
+World Tour India Open New Delhi 2017,2017-02-14,JIANG Tianyi,AL-ABBAD Abdulaziz,4,0,"11,14,11,11|6,12,7,9",,GRAND_SLAM,MS,455,Qualification,JIANG Tianyi (HKG),AL-ABBAD Abdulaziz (KSA),JIANG Tianyi
+World Tour India Open New Delhi 2017,2017-02-14,AL-ABBAD Abdulaziz,GHOSH Anirban,4,0,"11,11,11,11|2,2,2,5",,GRAND_SLAM,MS,455,Qualification,AL-ABBAD Abdulaziz (KSA),GHOSH Anirban (IND),AL-ABBAD Abdulaziz
+World Tour India Open New Delhi 2017,2017-02-14,SHETTY Sanil,BHANJA Ronit,4,0,"11,11,11,11|8,7,9,6",,GRAND_SLAM,MS,455,Qualification,SHETTY Sanil (IND),BHANJA Ronit (IND),SHETTY Sanil
+World Tour India Open New Delhi 2017,2017-02-14,SHETTY Sanil,JANCARIK Lubomir,4,3,"12,12,8,11,8,12,16|14,10,11,4,11,10,14",,GRAND_SLAM,MS,455,Qualification,SHETTY Sanil (IND),JANCARIK Lubomir (CZE),SHETTY Sanil
+World Tour India Open New Delhi 2017,2017-02-14,JANCARIK Lubomir,BHANJA Ronit,4,1,"8,11,11,11,11|11,9,7,5,6",,GRAND_SLAM,MS,455,Qualification,JANCARIK Lubomir (CZE),BHANJA Ronit (IND),JANCARIK Lubomir
+World Tour India Open New Delhi 2017,2017-02-14,ROBINOT Quentin,AVI-TAL Omer,4,0,"11,11,11,11|2,5,7,5",,GRAND_SLAM,MS,455,Qualification,ROBINOT Quentin (FRA),AVI-TAL Omer (PAN),ROBINOT Quentin
+World Tour India Open New Delhi 2017,2017-02-14,ANTHONY Amalraj,GUPTA Utkarsh,4,1,"12,11,11,11,11|14,4,5,6,5",,GRAND_SLAM,MS,455,Qualification,ANTHONY Amalraj (IND),GUPTA Utkarsh (IND),ANTHONY Amalraj
+World Tour India Open New Delhi 2017,2017-02-14,ROBINOT Quentin,ANTHONY Amalraj,4,3,"8,11,11,8,10,11,11|11,3,8,11,12,9,4",,GRAND_SLAM,MS,455,Qualification,ROBINOT Quentin (FRA),ANTHONY Amalraj (IND),ROBINOT Quentin
+World Tour India Open New Delhi 2017,2017-02-14,GUPTA Utkarsh,AVI-TAL Omer,4,0,"11,11,11,11|9,3,7,2",,GRAND_SLAM,MS,455,Qualification,AVI-TAL Omer (PAN),GUPTA Utkarsh (IND),GUPTA Utkarsh
+World Tour India Open New Delhi 2017,2017-02-14,ROBINOT Quentin,GUPTA Utkarsh,4,1,"8,11,11,11,11|11,5,5,9,5",,GRAND_SLAM,MS,455,Qualification,ROBINOT Quentin (FRA),GUPTA Utkarsh (IND),ROBINOT Quentin
+World Tour India Open New Delhi 2017,2017-02-14,ANTHONY Amalraj,AVI-TAL Omer,4,0,"11,11,11,11|8,4,8,4",,GRAND_SLAM,MS,455,Qualification,ANTHONY Amalraj (IND),AVI-TAL Omer (PAN),ANTHONY Amalraj
+World Tour India Open New Delhi 2017,2017-02-14,ROBLES Alvaro,PANDE Siddhesh,4,1,"11,12,11,9,11|2,10,7,11,8",,GRAND_SLAM,MS,455,Qualification,ROBLES Alvaro (ESP),PANDE Siddhesh (IND),ROBLES Alvaro
+World Tour India Open New Delhi 2017,2017-02-14,GROVER Sudhanshu,PANDE Siddhesh,4,3,"11,16,11,7,11,11,13|4,18,13,11,2,8,11",,GRAND_SLAM,MS,455,Qualification,PANDE Siddhesh (IND),GROVER Sudhanshu (IND),GROVER Sudhanshu
+World Tour India Open New Delhi 2017,2017-02-14,ROBLES Alvaro,GROVER Sudhanshu,4,0,"11,11,11,11|7,5,6,8",,GRAND_SLAM,MS,455,Qualification,ROBLES Alvaro (ESP),GROVER Sudhanshu (IND),ROBLES Alvaro
+World Tour India Open New Delhi 2017,2017-02-14,DESAI Harmeet,BORO Birdie,4,2,"11,11,8,5,11,11|4,4,11,11,6,8",,GRAND_SLAM,MS,455,Qualification,DESAI Harmeet (IND),BORO Birdie (IND),DESAI Harmeet
+World Tour India Open New Delhi 2017,2017-02-14,HUNG Tzu-Hsiang,IZUMO Takuto,4,2,"11,11,7,11,8,11|8,7,11,7,11,9",,GRAND_SLAM,MS,455,Qualification,IZUMO Takuto (JPN),HUNG Tzu-Hsiang (TPE),HUNG Tzu-Hsiang
+World Tour India Open New Delhi 2017,2017-02-14,DESAI Harmeet,IZUMO Takuto,4,1,"11,11,8,11,11|6,6,11,8,9",,GRAND_SLAM,MS,455,Qualification,DESAI Harmeet (IND),IZUMO Takuto (JPN),DESAI Harmeet
+World Tour India Open New Delhi 2017,2017-02-14,HUNG Tzu-Hsiang,BORO Birdie,4,0,"11,11,11,11|7,5,3,8",,GRAND_SLAM,MS,455,Qualification,BORO Birdie (IND),HUNG Tzu-Hsiang (TPE),HUNG Tzu-Hsiang
+World Tour India Open New Delhi 2017,2017-02-14,DESAI Harmeet,HUNG Tzu-Hsiang,4,0,"11,17,11,11|5,15,4,7",,GRAND_SLAM,MS,455,Qualification,DESAI Harmeet (IND),HUNG Tzu-Hsiang (TPE),DESAI Harmeet
+World Tour India Open New Delhi 2017,2017-02-14,IZUMO Takuto,BORO Birdie,4,1,"9,11,17,11,11|11,6,15,9,7",,GRAND_SLAM,MS,455,Qualification,IZUMO Takuto (JPN),BORO Birdie (IND),IZUMO Takuto
+World Tour India Open New Delhi 2017,2017-02-14,GNANASEKARAN Sathiyan,YADAV Abhishek,4,0,"11,11,11,11|7,4,8,9",,GRAND_SLAM,MS,455,Qualification,GNANASEKARAN Sathiyan (IND),YADAV Abhishek (IND),GNANASEKARAN Sathiyan
+World Tour India Open New Delhi 2017,2017-02-14,LAM Siu Hang,MERCKX Jasper,4,1,"6,11,11,11,11|11,4,1,6,9",,GRAND_SLAM,MS,455,Qualification,LAM Siu Hang (HKG),MERCKX Jasper (BEL),LAM Siu Hang
+World Tour India Open New Delhi 2017,2017-02-14,GNANASEKARAN Sathiyan,LAM Siu Hang,4,0,"11,11,16,15|8,9,14,13",,GRAND_SLAM,MS,455,Qualification,GNANASEKARAN Sathiyan (IND),LAM Siu Hang (HKG),GNANASEKARAN Sathiyan
+World Tour India Open New Delhi 2017,2017-02-14,YADAV Abhishek,MERCKX Jasper,4,1,"11,9,11,11,11|4,11,4,8,5",,GRAND_SLAM,MS,455,Qualification,YADAV Abhishek (IND),MERCKX Jasper (BEL),YADAV Abhishek
+World Tour India Open New Delhi 2017,2017-02-14,GNANASEKARAN Sathiyan,MERCKX Jasper,4,0,"11,11,11,11|6,2,7,5",,GRAND_SLAM,MS,455,Qualification,GNANASEKARAN Sathiyan (IND),MERCKX Jasper (BEL),GNANASEKARAN Sathiyan
+World Tour India Open New Delhi 2017,2017-02-14,LAM Siu Hang,YADAV Abhishek,4,2,"10,11,9,11,11,11|12,6,11,9,8,7",,GRAND_SLAM,MS,455,Qualification,LAM Siu Hang (HKG),YADAV Abhishek (IND),LAM Siu Hang
+World Tour India Open New Delhi 2017,2017-02-14,WALKER Samuel,BU SHULAYBI Abdulaziz,4,2,"11,11,11,10,11,11|7,3,13,12,3,6",,GRAND_SLAM,MS,455,Qualification,WALKER Samuel (ENG),BU SHULAYBI Abdulaziz (KSA),WALKER Samuel
+World Tour India Open New Delhi 2017,2017-02-14,SALIFOU Abdel-Kader,KUMAR Jubin,4,0,"11,11,12,11|7,6,10,6",,GRAND_SLAM,MS,455,Qualification,SALIFOU Abdel-Kader (BEN),KUMAR Jubin (IND),SALIFOU Abdel-Kader
+World Tour India Open New Delhi 2017,2017-02-14,WALKER Samuel,SALIFOU Abdel-Kader,4,2,"11,7,4,11,11,11|2,11,11,4,8,3",,GRAND_SLAM,MS,455,Qualification,WALKER Samuel (ENG),SALIFOU Abdel-Kader (BEN),WALKER Samuel
+World Tour India Open New Delhi 2017,2017-02-14,BU SHULAYBI Abdulaziz,KUMAR Jubin,4,3,"8,11,11,4,4,11,11|11,5,5,11,11,7,7",,GRAND_SLAM,MS,455,Qualification,BU SHULAYBI Abdulaziz (KSA),KUMAR Jubin (IND),BU SHULAYBI Abdulaziz
+World Tour India Open New Delhi 2017,2017-02-14,WALKER Samuel,KUMAR Jubin,4,1,"11,11,6,11,13|4,5,11,8,11",,GRAND_SLAM,MS,455,Qualification,WALKER Samuel (ENG),KUMAR Jubin (IND),WALKER Samuel
+World Tour India Open New Delhi 2017,2017-02-14,SALIFOU Abdel-Kader,BU SHULAYBI Abdulaziz,4,0,"11,11,11,11|4,6,5,5",,GRAND_SLAM,MS,455,Qualification,SALIFOU Abdel-Kader (BEN),BU SHULAYBI Abdulaziz (KSA),SALIFOU Abdel-Kader
+World Tour India Open New Delhi 2017,2017-02-14,AKKUZU Can,ALAMRI Abdulaziz,4,0,"11,11,11,11|8,6,4,4",,GRAND_SLAM,MS,455,Qualification,AKKUZU Can (FRA),ALAMRI Abdulaziz (KSA),AKKUZU Can
+World Tour India Open New Delhi 2017,2017-02-14,SAKAI Asuka,SAHA Subhajit,4,0,"11,11,11,11|7,9,8,7",,GRAND_SLAM,MS,455,Qualification,SAKAI Asuka (JPN),SAHA Subhajit (IND),SAKAI Asuka
+World Tour India Open New Delhi 2017,2017-02-14,AKKUZU Can,SAKAI Asuka,4,0,"11,11,11,11|9,3,9,8",,GRAND_SLAM,MS,455,Qualification,AKKUZU Can (FRA),SAKAI Asuka (JPN),AKKUZU Can
+World Tour India Open New Delhi 2017,2017-02-14,SAHA Subhajit,ALAMRI Abdulaziz,4,0,"11,11,11,11|3,6,4,7",,GRAND_SLAM,MS,455,Qualification,ALAMRI Abdulaziz (KSA),SAHA Subhajit (IND),SAHA Subhajit
+World Tour India Open New Delhi 2017,2017-02-14,AKKUZU Can,SAHA Subhajit,4,0,"11,11,11,11|4,9,7,5",,GRAND_SLAM,MS,455,Qualification,AKKUZU Can (FRA),SAHA Subhajit (IND),AKKUZU Can
+World Tour India Open New Delhi 2017,2017-02-14,SAKAI Asuka,ALAMRI Abdulaziz,4,0,"11,11,11,11|7,6,2,3",,GRAND_SLAM,MS,455,Qualification,SAKAI Asuka (JPN),ALAMRI Abdulaziz (KSA),SAKAI Asuka
+World Tour India Open New Delhi 2017,2017-02-14,OVTCHAROV Dimitrij,AL-ABBAD Abdulaziz,4,0,"11,11,11,11|3,5,4,2",R32,GRAND_SLAM,MS,455,Main Draw,OVTCHAROV Dimitrij (GER),AL-ABBAD Abdulaziz (KSA),OVTCHAROV Dimitrij
+World Tour India Open New Delhi 2017,2017-02-14,GERALDO Joao,MENGEL Steffen,4,0,"11,13,11,11|9,11,7,7",R32,GRAND_SLAM,MS,455,Main Draw,GERALDO Joao (POR),MENGEL Steffen (GER),GERALDO Joao
+World Tour India Open New Delhi 2017,2017-02-14,MORIZONO Masataka,GNANASEKARAN Sathiyan,4,3,"11,12,7,8,8,12,11|9,10,11,11,11,10,8",R32,GRAND_SLAM,MS,455,Main Draw,MORIZONO Masataka (JPN),GNANASEKARAN Sathiyan (IND),MORIZONO Masataka
+World Tour India Open New Delhi 2017,2017-02-14,OSHIMA Yuya,JANCARIK Lubomir,4,1,"11,9,13,18,11|8,11,11,16,2",R32,GRAND_SLAM,MS,455,Main Draw,JANCARIK Lubomir (CZE),OSHIMA Yuya (JPN),OSHIMA Yuya
+World Tour India Open New Delhi 2017,2017-02-14,JIANG Tianyi,DUDA Benedikt,4,3,"5,4,6,11,11,11,11|11,11,11,5,5,3,9",R32,GRAND_SLAM,MS,455,Main Draw,DUDA Benedikt (GER),JIANG Tianyi (HKG),JIANG Tianyi
+World Tour India Open New Delhi 2017,2017-02-14,WALTHER Ricardo,GHOSH Soumyajit,4,3,"11,9,11,8,3,11,11|6,11,5,11,11,6,6",R32,GRAND_SLAM,MS,455,Main Draw,GHOSH Soumyajit (IND),WALTHER Ricardo (GER),WALTHER Ricardo
+World Tour India Open New Delhi 2017,2017-02-14,DESAI Harmeet,FLORE Tristan,4,3,"11,11,11,9,9,7,11|4,6,9,11,11,11,6",R32,GRAND_SLAM,MS,455,Main Draw,FLORE Tristan (FRA),DESAI Harmeet (IND),DESAI Harmeet
+World Tour India Open New Delhi 2017,2017-02-14,NIWA Koki,ANTHONY Amalraj,4,0,"11,11,15,11|4,5,13,4",R32,GRAND_SLAM,MS,455,Main Draw,ANTHONY Amalraj (IND),NIWA Koki (JPN),NIWA Koki
+World Tour India Open New Delhi 2017,2017-02-14,MURAMATSU Yuto,SALIFOU Abdel-Kader,4,0,"12,11,11,11|10,4,7,5",R32,GRAND_SLAM,MS,455,Main Draw,MURAMATSU Yuto (JPN),SALIFOU Abdel-Kader (BEN),MURAMATSU Yuto
+World Tour India Open New Delhi 2017,2017-02-14,ACHANTA Sharath,AKKUZU Can,4,1,"11,11,11,8,11|5,8,4,11,8",R32,GRAND_SLAM,MS,455,Main Draw,AKKUZU Can (FRA),ACHANTA Sharath (IND),ACHANTA Sharath
+World Tour India Open New Delhi 2017,2017-02-14,FILUS Ruwen,ROBINOT Quentin,4,0,"11,12,11,11|3,10,6,6",R32,GRAND_SLAM,MS,455,Main Draw,FILUS Ruwen (GER),ROBINOT Quentin (FRA),FILUS Ruwen
+World Tour India Open New Delhi 2017,2017-02-14,DRINKHALL Paul,LAM Siu Hang,4,2,"0,11,14,11,7,11|11,7,12,9,11,9",R32,GRAND_SLAM,MS,455,Main Draw,LAM Siu Hang (HKG),DRINKHALL Paul (ENG),DRINKHALL Paul
+World Tour India Open New Delhi 2017,2017-02-14,GARDOS Robert,WALKER Samuel,4,0,"11,11,11,11|5,7,6,6",R32,GRAND_SLAM,MS,455,Main Draw,GARDOS Robert (AUT),WALKER Samuel (ENG),GARDOS Robert
+World Tour India Open New Delhi 2017,2017-02-14,SHETTY Sanil,BAUM Patrick,4,2,"11,11,7,11,7,11|7,4,11,8,11,8",R32,GRAND_SLAM,MS,455,Main Draw,SHETTY Sanil (IND),BAUM Patrick (GER),SHETTY Sanil
+World Tour India Open New Delhi 2017,2017-02-14,HARIMOTO Tomokazu,ROBLES Alvaro,4,1,"11,7,11,11,13|7,11,8,8,11",R32,GRAND_SLAM,MS,455,Main Draw,HARIMOTO Tomokazu (JPN),ROBLES Alvaro (ESP),HARIMOTO Tomokazu
+World Tour India Open New Delhi 2017,2017-02-14,SAKAI Asuka,SAMSONOV Vladimir,4,0,"11,12,11,11|5,10,9,4",R32,GRAND_SLAM,MS,455,Main Draw,SAKAI Asuka (JPN),SAMSONOV Vladimir (BLR),SAKAI Asuka
+World Tour India Open New Delhi 2017,2017-02-14,OVTCHAROV Dimitrij,GERALDO Joao,4,0,"11,11,11,11|3,3,5,4",R16,GRAND_SLAM,MS,455,Main Draw,OVTCHAROV Dimitrij (GER),GERALDO Joao (POR),OVTCHAROV Dimitrij
+World Tour India Open New Delhi 2017,2017-02-14,OSHIMA Yuya,MORIZONO Masataka,4,2,"11,11,6,11,7,11|5,4,11,6,11,8",R16,GRAND_SLAM,MS,455,Main Draw,MORIZONO Masataka (JPN),OSHIMA Yuya (JPN),OSHIMA Yuya
+World Tour India Open New Delhi 2017,2017-02-14,JIANG Tianyi,WALTHER Ricardo,4,3,"11,7,11,4,11,11,14|13,11,4,11,5,9,12",R16,GRAND_SLAM,MS,455,Main Draw,JIANG Tianyi (HKG),WALTHER Ricardo (GER),JIANG Tianyi
+World Tour India Open New Delhi 2017,2017-02-14,NIWA Koki,DESAI Harmeet,4,1,"14,11,11,11,11|16,6,7,4,9",R16,GRAND_SLAM,MS,455,Main Draw,DESAI Harmeet (IND),NIWA Koki (JPN),NIWA Koki
+World Tour India Open New Delhi 2017,2017-02-14,ACHANTA Sharath,MURAMATSU Yuto,4,1,"11,11,11,14,11|8,7,4,16,5",R16,GRAND_SLAM,MS,455,Main Draw,MURAMATSU Yuto (JPN),ACHANTA Sharath (IND),ACHANTA Sharath
+World Tour India Open New Delhi 2017,2017-02-14,DRINKHALL Paul,FILUS Ruwen,4,1,"11,16,11,6,11|4,14,8,11,5",R16,GRAND_SLAM,MS,455,Main Draw,FILUS Ruwen (GER),DRINKHALL Paul (ENG),DRINKHALL Paul
+World Tour India Open New Delhi 2017,2017-02-14,GARDOS Robert,SHETTY Sanil,4,2,"11,9,10,11,11,11|9,11,12,4,7,7",R16,GRAND_SLAM,MS,455,Main Draw,GARDOS Robert (AUT),SHETTY Sanil (IND),GARDOS Robert
+World Tour India Open New Delhi 2017,2017-02-14,HARIMOTO Tomokazu,SAKAI Asuka,4,2,"11,11,13,11,11,11|9,7,15,7,13,7",R16,GRAND_SLAM,MS,455,Main Draw,HARIMOTO Tomokazu (JPN),SAKAI Asuka (JPN),HARIMOTO Tomokazu
+World Tour India Open New Delhi 2017,2017-02-14,OVTCHAROV Dimitrij,OSHIMA Yuya,4,3,"7,11,11,11,4,6,12|11,8,6,8,11,11,10",QF,GRAND_SLAM,MS,455,Main Draw,OVTCHAROV Dimitrij (GER),OSHIMA Yuya (JPN),OVTCHAROV Dimitrij
+World Tour India Open New Delhi 2017,2017-02-14,NIWA Koki,JIANG Tianyi,4,1,"11,10,11,11,11|9,12,1,8,8",QF,GRAND_SLAM,MS,455,Main Draw,JIANG Tianyi (HKG),NIWA Koki (JPN),NIWA Koki
+World Tour India Open New Delhi 2017,2017-02-14,ACHANTA Sharath,DRINKHALL Paul,4,3,"11,10,9,11,11,9,13|4,12,11,6,9,11,11",QF,GRAND_SLAM,MS,455,Main Draw,ACHANTA Sharath (IND),DRINKHALL Paul (ENG),ACHANTA Sharath
+World Tour India Open New Delhi 2017,2017-02-14,HARIMOTO Tomokazu,GARDOS Robert,4,2,"4,11,11,8,12,11|11,7,8,11,10,6",QF,GRAND_SLAM,MS,455,Main Draw,GARDOS Robert (AUT),HARIMOTO Tomokazu (JPN),HARIMOTO Tomokazu
+World Tour India Open New Delhi 2017,2017-02-14,OVTCHAROV Dimitrij,NIWA Koki,4,3,"8,11,9,12,14,11,11|11,2,11,10,16,2,8",SF,GRAND_SLAM,MS,455,Main Draw,OVTCHAROV Dimitrij (GER),NIWA Koki (JPN),OVTCHAROV Dimitrij
+World Tour India Open New Delhi 2017,2017-02-14,HARIMOTO Tomokazu,ACHANTA Sharath,4,2,"11,5,11,11,11,11|7,11,7,13,9,9",SF,GRAND_SLAM,MS,455,Main Draw,ACHANTA Sharath (IND),HARIMOTO Tomokazu (JPN),HARIMOTO Tomokazu
+World Tour India Open New Delhi 2017,2017-02-14,OVTCHAROV Dimitrij,HARIMOTO Tomokazu,4,0,"11,11,11,14|6,8,4,12",F,GRAND_SLAM,MS,455,Main Draw,OVTCHAROV Dimitrij (GER),HARIMOTO Tomokazu (JPN),OVTCHAROV Dimitrij
+World Tour India Open New Delhi 2017,2017-02-14,PAUL Mousumi,BATRA Manika,4,1,"11,8,11,11,11|7,11,7,4,8",R32,GRAND_SLAM,WS,455,Main Draw,PAUL Mousumi (IND),BATRA Manika (IND),PAUL Mousumi
+World Tour India Open New Delhi 2017,2017-02-14,MUKHERJEE Sutirtha,DAS Ankita,4,0,"11,11,11,11|5,8,8,9",R32,GRAND_SLAM,WS,455,Main Draw,DAS Ankita (IND),MUKHERJEE Sutirtha (IND),MUKHERJEE Sutirtha
+World Tour India Open New Delhi 2017,2017-02-14,JIANG Huajun,ROY Krittwika,4,3,"11,6,11,13,8,8,19|6,11,7,11,11,11,17",R32,GRAND_SLAM,WS,455,Main Draw,ROY Krittwika (IND),JIANG Huajun (HKG),JIANG Huajun
+World Tour India Open New Delhi 2017,2017-02-14,SHAO Jieni,SELVAKUMAR Selena,4,0,"11,11,11,11|5,2,8,5",R32,GRAND_SLAM,WS,455,Main Draw,SHAO Jieni (POR),SELVAKUMAR Selena (IND),SHAO Jieni
+World Tour India Open New Delhi 2017,2017-02-14,WANG Yi-Ju,PUSHPAK Amrutha,4,0,"11,11,11,11|8,9,6,9",R32,GRAND_SLAM,WS,455,Main Draw,PUSHPAK Amrutha (IND),WANG Yi-Ju (TPE),WANG Yi-Ju
+World Tour India Open New Delhi 2017,2017-02-14,LIN Po-Hsuan,PAREEK Priyanka,4,1,"6,11,11,11,11|11,8,6,9,3",R32,GRAND_SLAM,WS,455,Main Draw,LIN Po-Hsuan (TPE),PAREEK Priyanka (CAN),LIN Po-Hsuan
+World Tour India Open New Delhi 2017,2017-02-14,SOO Wai Yam,PATKAR Madhurika,4,1,"9,11,11,11,11|11,6,2,4,9",R32,GRAND_SLAM,WS,455,Main Draw,PATKAR Madhurika (IND),SOO Wai Yam (HKG),SOO Wai Yam
+World Tour India Open New Delhi 2017,2017-02-14,DAS Mouma,AKULA Sreeja,4,2,"3,11,11,9,11,11|11,8,8,11,6,7",R32,GRAND_SLAM,WS,455,Main Draw,DAS Mouma (IND),AKULA Sreeja (IND),DAS Mouma
+World Tour India Open New Delhi 2017,2017-02-14,NG Wing Nam,DAS Priyadarshini,4,2,"13,11,11,5,11,11|11,13,3,11,6,7",R32,GRAND_SLAM,WS,455,Main Draw,DAS Priyadarshini (IND),NG Wing Nam (HKG),NG Wing Nam
+World Tour India Open New Delhi 2017,2017-02-14,MORI Sakura,CALANGE Harsha,4,0,"11,11,11,11|8,5,5,7",R32,GRAND_SLAM,WS,455,Main Draw,MORI Sakura (JPN),CALANGE Harsha (IND),MORI Sakura
+World Tour India Open New Delhi 2017,2017-02-14,KAMATH Archana,MUKHERJEE Ayhika,4,2,"9,12,9,11,12,12|11,10,11,7,10,10",R32,GRAND_SLAM,WS,455,Main Draw,KAMATH Archana (IND),MUKHERJEE Ayhika (IND),KAMATH Archana
+World Tour India Open New Delhi 2017,2017-02-14,MAK Tze Wing,DUTTA Moumita,4,2,"9,11,12,10,11,11|11,5,10,12,8,5",R32,GRAND_SLAM,WS,455,Main Draw,MAK Tze Wing (HKG),DUTTA Moumita (IND),MAK Tze Wing
+World Tour India Open New Delhi 2017,2017-02-14,DOO Hoi Kem,PAUL Mousumi,4,0,"11,11,11,13|2,6,6,11",R16,GRAND_SLAM,WS,455,Main Draw,DOO Hoi Kem (HKG),PAUL Mousumi (IND),DOO Hoi Kem
+World Tour India Open New Delhi 2017,2017-02-14,JIANG Huajun,MUKHERJEE Sutirtha,4,1,"11,11,13,9,11|4,3,11,11,6",R16,GRAND_SLAM,WS,455,Main Draw,MUKHERJEE Sutirtha (IND),JIANG Huajun (HKG),JIANG Huajun
+World Tour India Open New Delhi 2017,2017-02-14,SHAO Jieni,WANG Yi-Ju,4,1,"10,13,17,11,11|12,11,15,6,5",R16,GRAND_SLAM,WS,455,Main Draw,SHAO Jieni (POR),WANG Yi-Ju (TPE),SHAO Jieni
+World Tour India Open New Delhi 2017,2017-02-14,EKHOLM Matilda,LIN Po-Hsuan,4,0,"11,11,11,11|3,6,8,6",R16,GRAND_SLAM,WS,455,Main Draw,LIN Po-Hsuan (TPE),EKHOLM Matilda (SWE),EKHOLM Matilda
+World Tour India Open New Delhi 2017,2017-02-14,POTA Georgina,SOO Wai Yam,4,1,"11,7,11,11,12|8,11,8,8,10",R16,GRAND_SLAM,WS,455,Main Draw,POTA Georgina (HUN),SOO Wai Yam (HKG),POTA Georgina
+World Tour India Open New Delhi 2017,2017-02-14,NG Wing Nam,DAS Mouma,4,0,"11,11,11,15|6,7,9,13",R16,GRAND_SLAM,WS,455,Main Draw,DAS Mouma (IND),NG Wing Nam (HKG),NG Wing Nam
+World Tour India Open New Delhi 2017,2017-02-14,MORI Sakura,KAMATH Archana,4,2,"11,13,5,11,10,11|3,11,11,4,12,4",R16,GRAND_SLAM,WS,455,Main Draw,MORI Sakura (JPN),KAMATH Archana (IND),MORI Sakura
+World Tour India Open New Delhi 2017,2017-02-14,MAK Tze Wing,LEE Ho Ching,4,3,"5,4,12,8,11,11,11|11,11,10,11,9,9,9",R16,GRAND_SLAM,WS,455,Main Draw,MAK Tze Wing (HKG),LEE Ho Ching (HKG),MAK Tze Wing
+World Tour India Open New Delhi 2017,2017-02-14,DOO Hoi Kem,JIANG Huajun,4,1,"11,6,11,11,13|6,11,7,8,11",QF,GRAND_SLAM,WS,455,Main Draw,DOO Hoi Kem (HKG),JIANG Huajun (HKG),DOO Hoi Kem
+World Tour India Open New Delhi 2017,2017-02-14,EKHOLM Matilda,SHAO Jieni,4,0,"11,11,11,11|8,8,7,5",QF,GRAND_SLAM,WS,455,Main Draw,SHAO Jieni (POR),EKHOLM Matilda (SWE),EKHOLM Matilda
+World Tour India Open New Delhi 2017,2017-02-14,NG Wing Nam,POTA Georgina,4,1,"11,11,12,8,11|9,6,10,11,3",QF,GRAND_SLAM,WS,455,Main Draw,POTA Georgina (HUN),NG Wing Nam (HKG),NG Wing Nam
+World Tour India Open New Delhi 2017,2017-02-14,MORI Sakura,MAK Tze Wing,4,1,"11,13,10,11,11|6,11,12,6,7",QF,GRAND_SLAM,WS,455,Main Draw,MORI Sakura (JPN),MAK Tze Wing (HKG),MORI Sakura
+World Tour India Open New Delhi 2017,2017-02-14,EKHOLM Matilda,DOO Hoi Kem,4,2,"11,11,5,11,8,11|8,7,11,9,11,3",SF,GRAND_SLAM,WS,455,Main Draw,DOO Hoi Kem (HKG),EKHOLM Matilda (SWE),EKHOLM Matilda
+World Tour India Open New Delhi 2017,2017-02-14,MORI Sakura,NG Wing Nam,4,3,"13,12,10,9,11,9,11|11,10,12,11,8,11,6",SF,GRAND_SLAM,WS,455,Main Draw,NG Wing Nam (HKG),MORI Sakura (JPN),MORI Sakura
+World Tour India Open New Delhi 2017,2017-02-14,MORI Sakura,EKHOLM Matilda,4,3,"7,11,11,12,6,8,11|11,5,8,10,11,11,6",F,GRAND_SLAM,WS,455,Main Draw,EKHOLM Matilda (SWE),MORI Sakura (JPN),MORI Sakura
+World Tour India Open New Delhi 2017,2017-02-14,SAKAI Asuka,THAKKAR Manav,4,1,"7,11,11,11,11|11,7,7,7,7",QR16,GRAND_SLAM,MS,455,Qualification,THAKKAR Manav (IND),SAKAI Asuka (JPN),SAKAI Asuka
+World Tour India Open New Delhi 2017,2017-02-14,SALIFOU Abdel-Kader,ALKHADRAWI Ali,4,0,"11,11,11,11|6,6,7,7",QR16,GRAND_SLAM,MS,455,Qualification,ALKHADRAWI Ali (KSA),SALIFOU Abdel-Kader (BEN),SALIFOU Abdel-Kader
+World Tour India Open New Delhi 2017,2017-02-14,LAM Siu Hang,AL-ABBAD Abdulaziz,4,2,"11,13,7,11,11,11|8,15,11,6,5,5",QR16,GRAND_SLAM,MS,455,Qualification,AL-ABBAD Abdulaziz (KSA),LAM Siu Hang (HKG),LAM Siu Hang
+World Tour India Open New Delhi 2017,2017-02-14,ANTHONY Amalraj,HUNG Tzu-Hsiang,4,1,"11,11,11,13,11|9,7,7,15,8",QR16,GRAND_SLAM,MS,455,Qualification,ANTHONY Amalraj (IND),HUNG Tzu-Hsiang (TPE),ANTHONY Amalraj
+World Tour India Open New Delhi 2017,2017-02-14,JANCARIK Lubomir,GROVER Sudhanshu,4,0,"11,11,11,11|6,9,8,6",QR16,GRAND_SLAM,MS,455,Qualification,JANCARIK Lubomir (CZE),GROVER Sudhanshu (IND),JANCARIK Lubomir
+World Tour India Open New Delhi 2017,2017-02-14,ALKHADRAWI Ali,GUPTA Utkarsh,3,1,"11,4,11,11|6,11,8,8",R32,GRAND_SLAM,U21MS,455,Main Draw,ALKHADRAWI Ali (KSA),GUPTA Utkarsh (IND),ALKHADRAWI Ali
+World Tour India Open New Delhi 2017,2017-02-14,HARIMOTO Tomokazu,ALAMRI Abdulaziz,3,0,"11,11,11|1,1,6",R16,GRAND_SLAM,U21MS,455,Main Draw,HARIMOTO Tomokazu (JPN),ALAMRI Abdulaziz (KSA),HARIMOTO Tomokazu
+World Tour India Open New Delhi 2017,2017-02-14,BORO Birdie,THAKKAR Manav,3,2,"9,12,9,11,11|11,10,11,6,5",R16,GRAND_SLAM,U21MS,455,Main Draw,BORO Birdie (IND),THAKKAR Manav (IND),BORO Birdie
+World Tour India Open New Delhi 2017,2017-02-14,IZUMO Takuto,PANDE Siddhesh,3,2,"9,11,8,11,11|11,6,11,9,4",R16,GRAND_SLAM,U21MS,455,Main Draw,IZUMO Takuto (JPN),PANDE Siddhesh (IND),IZUMO Takuto
+World Tour India Open New Delhi 2017,2017-02-14,GHOSH Arjun,CHANDRA Jeet,3,1,"11,11,12,11|9,6,14,5",R16,GRAND_SLAM,U21MS,455,Main Draw,CHANDRA Jeet (IND),GHOSH Arjun (IND),GHOSH Arjun
+World Tour India Open New Delhi 2017,2017-02-14,ALKHADRAWI Ali,GHOSH Anirban,3,1,"7,11,11,11|11,9,6,6",R16,GRAND_SLAM,U21MS,455,Main Draw,ALKHADRAWI Ali (KSA),GHOSH Anirban (IND),ALKHADRAWI Ali
+World Tour India Open New Delhi 2017,2017-02-14,SAKAI Asuka,BU SHULAYBI Abdulaziz,3,0,"11,11,11|4,3,8",R16,GRAND_SLAM,U21MS,455,Main Draw,BU SHULAYBI Abdulaziz (KSA),SAKAI Asuka (JPN),SAKAI Asuka
+World Tour India Open New Delhi 2017,2017-02-14,HARIMOTO Tomokazu,BORO Birdie,3,0,"11,11,11|8,7,5",QF,GRAND_SLAM,U21MS,455,Main Draw,HARIMOTO Tomokazu (JPN),BORO Birdie (IND),HARIMOTO Tomokazu
+World Tour India Open New Delhi 2017,2017-02-14,LAM Siu Hang,BHANJA Ronit,3,1,"11,11,11,11|6,7,13,5",QF,GRAND_SLAM,U21MS,455,Main Draw,BHANJA Ronit (IND),LAM Siu Hang (HKG),LAM Siu Hang
+World Tour India Open New Delhi 2017,2017-02-14,IZUMO Takuto,GHOSH Arjun,3,0,"14,11,11|12,7,7",QF,GRAND_SLAM,U21MS,455,Main Draw,IZUMO Takuto (JPN),GHOSH Arjun (IND),IZUMO Takuto
+World Tour India Open New Delhi 2017,2017-02-14,SAKAI Asuka,ALKHADRAWI Ali,3,0,"11,11,11|7,9,3",QF,GRAND_SLAM,U21MS,455,Main Draw,ALKHADRAWI Ali (KSA),SAKAI Asuka (JPN),SAKAI Asuka
+World Tour India Open New Delhi 2017,2017-02-14,LAM Siu Hang,HARIMOTO Tomokazu,3,2,"11,3,16,11,11|6,11,18,9,9",SF,GRAND_SLAM,U21MS,455,Main Draw,HARIMOTO Tomokazu (JPN),LAM Siu Hang (HKG),LAM Siu Hang
+World Tour India Open New Delhi 2017,2017-02-14,SAKAI Asuka,IZUMO Takuto,3,1,"5,11,11,11|11,6,3,9",SF,GRAND_SLAM,U21MS,455,Main Draw,IZUMO Takuto (JPN),SAKAI Asuka (JPN),SAKAI Asuka
+World Tour India Open New Delhi 2017,2017-02-14,SAKAI Asuka,LAM Siu Hang,3,2,"11,5,11,10,11|8,11,4,12,8",F,GRAND_SLAM,U21MS,455,Main Draw,LAM Siu Hang (HKG),SAKAI Asuka (JPN),SAKAI Asuka
+World Tour India Open New Delhi 2017,2017-02-14,PAREEK Priyanka,SELVAKUMAR Selena,3,2,"11,11,8,8,11|9,6,11,11,9",R16,GRAND_SLAM,U21WS,455,Main Draw,SELVAKUMAR Selena (IND),PAREEK Priyanka (CAN),PAREEK Priyanka
+World Tour India Open New Delhi 2017,2017-02-14,KAMATH Archana,DUTTA Moumita,3,0,"11,11,11|4,4,6",R16,GRAND_SLAM,U21WS,455,Main Draw,KAMATH Archana (IND),DUTTA Moumita (IND),KAMATH Archana
+World Tour India Open New Delhi 2017,2017-02-14,LIN Po-Hsuan,CALANGE Harsha,3,1,"8,11,11,11|11,6,7,6",R16,GRAND_SLAM,U21WS,455,Main Draw,LIN Po-Hsuan (TPE),CALANGE Harsha (IND),LIN Po-Hsuan
+World Tour India Open New Delhi 2017,2017-02-14,AKULA Sreeja,PUSHPAK Amrutha,3,2,"7,8,11,11,11|11,11,6,5,5",R16,GRAND_SLAM,U21WS,455,Main Draw,PUSHPAK Amrutha (IND),AKULA Sreeja (IND),AKULA Sreeja
+World Tour India Open New Delhi 2017,2017-02-14,MUKHERJEE Ayhika,DAS Priyadarshini,3,2,"13,11,10,9,11|11,9,12,11,5",R16,GRAND_SLAM,U21WS,455,Main Draw,MUKHERJEE Ayhika (IND),DAS Priyadarshini (IND),MUKHERJEE Ayhika
+World Tour India Open New Delhi 2017,2017-02-14,MORI Sakura,PAREEK Priyanka,3,0,"11,11,11|1,3,3",QF,GRAND_SLAM,U21WS,455,Main Draw,MORI Sakura (JPN),PAREEK Priyanka (CAN),MORI Sakura
+World Tour India Open New Delhi 2017,2017-02-14,MAK Tze Wing,KAMATH Archana,3,2,"11,6,11,6,11|6,11,7,11,9",QF,GRAND_SLAM,U21WS,455,Main Draw,KAMATH Archana (IND),MAK Tze Wing (HKG),MAK Tze Wing
+World Tour India Open New Delhi 2017,2017-02-14,AKULA Sreeja,LIN Po-Hsuan,3,2,"11,6,6,11,11|7,11,11,3,9",QF,GRAND_SLAM,U21WS,455,Main Draw,LIN Po-Hsuan (TPE),AKULA Sreeja (IND),AKULA Sreeja
+World Tour India Open New Delhi 2017,2017-02-14,SOO Wai Yam,MUKHERJEE Ayhika,3,0,"11,13,11|9,11,9",QF,GRAND_SLAM,U21WS,455,Main Draw,MUKHERJEE Ayhika (IND),SOO Wai Yam (HKG),SOO Wai Yam
+World Tour India Open New Delhi 2017,2017-02-14,SOO Wai Yam,AKULA Sreeja,3,0,"11,13,11|2,11,7",SF,GRAND_SLAM,U21WS,455,Main Draw,AKULA Sreeja (IND),SOO Wai Yam (HKG),SOO Wai Yam
+World Tour India Open New Delhi 2017,2017-02-14,MORI Sakura,SOO Wai Yam,3,2,"4,13,6,11,12|11,11,11,5,10",F,GRAND_SLAM,U21WS,455,Main Draw,MORI Sakura (JPN),SOO Wai Yam (HKG),MORI Sakura
+World Tour India Open New Delhi 2017,2017-02-14,GARDOS Robert/JANCARIK Lubomir,ALKHADRAWI Ali/BU SHULAYBI Abdulaziz,3,1,"7,11,11,11|11,4,5,7",R16,GRAND_SLAM,MD,455,Main Draw,GARDOS Robert (AUT) / JANCARIK Lubomir (CZE),ALKHADRAWI Ali (KSA) / BU SHULAYBI Abdulaziz (KSA),GARDOS Robert
+World Tour India Open New Delhi 2017,2017-02-14,JIANG Tianyi/LAM Siu Hang,GARDOS Robert/JANCARIK Lubomir,3,0,"11,12,11|7,10,7",QF,GRAND_SLAM,MD,455,Main Draw,JIANG Tianyi (HKG) / LAM Siu Hang (HKG),GARDOS Robert (AUT) / JANCARIK Lubomir (CZE),JIANG Tianyi
+World Tour India Open New Delhi 2017,2017-02-14,FLORE Tristan/ROBINOT Quentin,DRINKHALL Paul/WALKER Samuel,3,1,"11,6,11,11|9,11,8,7",R16,GRAND_SLAM,MD,455,Main Draw,FLORE Tristan (FRA) / ROBINOT Quentin (FRA),DRINKHALL Paul (ENG) / WALKER Samuel (ENG),FLORE Tristan
+World Tour India Open New Delhi 2017,2017-02-14,FILUS Ruwen/WALTHER Ricardo,FLORE Tristan/ROBINOT Quentin,3,0,"11,11,11|4,7,8",QF,GRAND_SLAM,MD,455,Main Draw,FILUS Ruwen (GER) / WALTHER Ricardo (GER),FLORE Tristan (FRA) / ROBINOT Quentin (FRA),FILUS Ruwen
+World Tour India Open New Delhi 2017,2017-02-14,FILUS Ruwen/WALTHER Ricardo,DUDA Benedikt/MENGEL Steffen,3,1,"11,11,6,11|7,6,11,4",SF,GRAND_SLAM,MD,455,Main Draw,FILUS Ruwen (GER) / WALTHER Ricardo (GER),DUDA Benedikt (GER) / MENGEL Steffen (GER),FILUS Ruwen
+World Tour India Open New Delhi 2017,2017-02-14,DOO Hoi Kem/LEE Ho Ching,DAS Ankita/PATKAR Madhurika,3,0,"11,11,11|9,4,7",QF,GRAND_SLAM,WD,455,Main Draw,DOO Hoi Kem (HKG) / LEE Ho Ching (HKG),DAS Ankita (IND) / PATKAR Madhurika (IND),DOO Hoi Kem
+World Tour India Open New Delhi 2017,2017-02-14,NG Wing Nam/SOO Wai Yam,BATRA Manika/DAS Mouma,3,0,"11,11,11|8,6,8",QF,GRAND_SLAM,WD,455,Main Draw,NG Wing Nam (HKG) / SOO Wai Yam (HKG),BATRA Manika (IND) / DAS Mouma (IND),NG Wing Nam
+World Tour India Open New Delhi 2017,2017-02-14,DOO Hoi Kem/LEE Ho Ching,NG Wing Nam/SOO Wai Yam,3,2,"11,11,11,10,11|9,13,9,12,6",SF,GRAND_SLAM,WD,455,Main Draw,DOO Hoi Kem (HKG) / LEE Ho Ching (HKG),NG Wing Nam (HKG) / SOO Wai Yam (HKG),DOO Hoi Kem
+World Tour India Open New Delhi 2017,2017-02-14,JIANG Tianyi/LAM Siu Hang,DESAI Harmeet/GHOSH Soumyajit,3,2,"8,11,4,11,13|11,8,11,3,11",R16,GRAND_SLAM,MD,455,Main Draw,JIANG Tianyi (HKG) / LAM Siu Hang (HKG),DESAI Harmeet (IND) / GHOSH Soumyajit (IND),JIANG Tianyi
+World Tour India Open New Delhi 2017,2017-02-14,DUDA Benedikt/MENGEL Steffen,BHANJA Ronit/GHOSH Arjun,3,1,"11,11,9,11|8,4,11,6",R16,GRAND_SLAM,MD,455,Main Draw,DUDA Benedikt (GER) / MENGEL Steffen (GER),BHANJA Ronit (IND) / GHOSH Arjun (IND),DUDA Benedikt
+World Tour India Open New Delhi 2017,2017-02-14,DUDA Benedikt/MENGEL Steffen,ANTHONY Amalraj/GNANASEKARAN Sathiyan,3,1,"5,13,11,11|11,11,8,9",QF,GRAND_SLAM,MD,455,Main Draw,DUDA Benedikt (GER) / MENGEL Steffen (GER),ANTHONY Amalraj (IND) / GNANASEKARAN Sathiyan (IND),DUDA Benedikt
+World Tour India Open New Delhi 2017,2017-02-14,EKHOLM Matilda/POTA Georgina,AKULA Sreeja/KAMATH Archana,3,0,"11,11,11|8,1,7",QF,GRAND_SLAM,WD,455,Main Draw,EKHOLM Matilda (SWE) / POTA Georgina (HUN),AKULA Sreeja (IND) / KAMATH Archana (IND),EKHOLM Matilda
+World Tour India Open New Delhi 2017,2017-02-14,MORIZONO Masataka/OSHIMA Yuya,AKKUZU Can/GERALDO Joao,3,0,"12,20,11|10,18,9",R16,GRAND_SLAM,MD,455,Main Draw,MORIZONO Masataka (JPN) / OSHIMA Yuya (JPN),AKKUZU Can (FRA) / GERALDO Joao (POR),MORIZONO Masataka
+World Tour India Open New Delhi 2017,2017-02-14,MORIZONO Masataka/OSHIMA Yuya,ACHANTA Sharath/SHETTY Sanil,3,0,"12,11,11|10,1,3",QF,GRAND_SLAM,MD,455,Main Draw,MORIZONO Masataka (JPN) / OSHIMA Yuya (JPN),ACHANTA Sharath (IND) / SHETTY Sanil (IND),MORIZONO Masataka
+World Tour India Open New Delhi 2017,2017-02-14,MORIZONO Masataka/OSHIMA Yuya,JIANG Tianyi/LAM Siu Hang,3,0,"12,11,12|10,5,10",SF,GRAND_SLAM,MD,455,Main Draw,MORIZONO Masataka (JPN) / OSHIMA Yuya (JPN),JIANG Tianyi (HKG) / LAM Siu Hang (HKG),MORIZONO Masataka
+World Tour India Open New Delhi 2017,2017-02-14,MORIZONO Masataka/OSHIMA Yuya,FILUS Ruwen/WALTHER Ricardo,3,1,"9,11,11,11|11,7,6,9",F,GRAND_SLAM,MD,455,Main Draw,MORIZONO Masataka (JPN) / OSHIMA Yuya (JPN),FILUS Ruwen (GER) / WALTHER Ricardo (GER),MORIZONO Masataka
+World Tour India Open New Delhi 2017,2017-02-14,FILUS Ruwen/WALTHER Ricardo,AL-ABBAD Abdulaziz/ALAMRI Abdulaziz,3,0,"11,11,11|0,5,8",R16,GRAND_SLAM,MD,455,Main Draw,FILUS Ruwen (GER) / WALTHER Ricardo (GER),AL-ABBAD Abdulaziz (KSA) / ALAMRI Abdulaziz (KSA),FILUS Ruwen
+World Tour India Open New Delhi 2017,2017-02-14,LIN Po-Hsuan/WANG Yi-Ju,PAUL Mousumi/ROY Krittwika,3,2,"11,12,11,10,12|4,14,2,12,10",QF,GRAND_SLAM,WD,455,Main Draw,LIN Po-Hsuan (TPE) / WANG Yi-Ju (TPE),PAUL Mousumi (IND) / ROY Krittwika (IND),LIN Po-Hsuan

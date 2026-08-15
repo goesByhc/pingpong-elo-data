@@ -1,227 +1,227 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-World Tour Australian Open Geelong 2018,2018-07-24,ROBINOT Quentin,DIXON Xavier,4,0,"11,11,11,11|1,5,5,6",,GRAND_SLAM,MS,880,Qualification,ROBINOT Quentin (FRA),DIXON Xavier (AUS)
-World Tour Australian Open Geelong 2018,2018-07-24,UDA Yukiya,LUU Finn,4,0,"11,11,11,11|5,7,2,4",,GRAND_SLAM,MS,880,Qualification,UDA Yukiya (JPN),LUU Finn (AUS)
-World Tour Australian Open Geelong 2018,2018-07-24,SHETTY Sanil,XU Nathan,4,0,"11,11,11,11|7,5,3,9",,GRAND_SLAM,MS,880,Qualification,SHETTY Sanil (IND),XU Nathan (NZL)
-World Tour Australian Open Geelong 2018,2018-07-24,ZHOU Yu,VON EINEM Samuel,4,0,"11,13,11,11|3,11,4,3",,GRAND_SLAM,MS,880,Qualification,ZHOU Yu (CHN),VON EINEM Samuel (AUS)
-World Tour Australian Open Geelong 2018,2018-07-24,YOSHIMURA Kazuhiro,TAZOE Kenta,4,0,"11,15,11,11|8,13,4,8",,GRAND_SLAM,MS,880,Qualification,YOSHIMURA Kazuhiro (JPN),TAZOE Kenta (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,LAMBIET Florent,AMOR Kelsey,4,0,"11,11,11,11|7,2,5,4",,GRAND_SLAM,MS,880,Qualification,LAMBIET Florent (BEL),AMOR Kelsey (NZL)
-World Tour Australian Open Geelong 2018,2018-07-24,LANDRIEU Andrea,KIM James,4,0,"11,11,11,11|5,3,7,7",,GRAND_SLAM,MS,880,Qualification,LANDRIEU Andrea (FRA),KIM James (AUS)
-World Tour Australian Open Geelong 2018,2018-07-24,PUCAR Tomislav,LEE Seonghun,4,0,"11,11,11,11|5,7,7,8",,GRAND_SLAM,MS,880,Qualification,PUCAR Tomislav (CRO),LEE Seonghun (AUS)
-World Tour Australian Open Geelong 2018,2018-07-24,HIRANO Yuki,CNUDDE Florian,4,0,"11,11,11,11|8,4,8,4",,GRAND_SLAM,MS,880,Qualification,HIRANO Yuki (JPN),CNUDDE Florian (BEL)
-World Tour Australian Open Geelong 2018,2018-07-24,MINO Alberto,MENG Qi,4,1,"11,11,11,8,11|3,1,1,11,6",,GRAND_SLAM,MS,880,Qualification,MINO Alberto (ECU),MENG Qi (NZL)
-World Tour Australian Open Geelong 2018,2018-07-24,YANG Heng-Wei,GOULD Benjamin,4,0,"11,11,11,11|3,5,1,6",,GRAND_SLAM,MS,880,Qualification,YANG Heng-Wei (TPE),GOULD Benjamin (AUS)
-World Tour Australian Open Geelong 2018,2018-07-24,HU Heming,ZHANG Shaoping,4,0,"11,13,12,11|6,11,10,6",,GRAND_SLAM,MS,880,Qualification,HU Heming (AUS),ZHANG Shaoping (AUS)
-World Tour Australian Open Geelong 2018,2018-07-24,LIU Dingshuo,ZHAO Anthony,4,0,"11,11,11,11|3,2,4,4",,GRAND_SLAM,MS,880,Qualification,LIU Dingshuo (CHN),ZHAO Anthony (AUS)
-World Tour Australian Open Geelong 2018,2018-07-24,NUYTINCK Cedric,ALLEGRO Martin,4,1,"12,9,13,11,12|10,11,11,4,10",,GRAND_SLAM,MS,880,Qualification,NUYTINCK Cedric (BEL),ALLEGRO Martin (BEL)
-World Tour Australian Open Geelong 2018,2018-07-24,RUMGAY Gavin,LARTEY Felix,4,0,"0,0,0,0|0,0,0,0",,GRAND_SLAM,MS,880,Qualification,RUMGAY Gavin (SCO),LARTEY Felix (GHA)
-World Tour Australian Open Geelong 2018,2018-07-24,ANTHONY Amalraj,ZHANG Raymond,4,0,"12,11,11,11|10,4,6,4",,GRAND_SLAM,MS,880,Qualification,ANTHONY Amalraj (IND),ZHANG Raymond (AUS)
-World Tour Australian Open Geelong 2018,2018-07-24,JIN Takuya,MA Victor,4,0,"11,11,11,11|2,8,3,3",,GRAND_SLAM,MS,880,Qualification,JIN Takuya (JPN),MA Victor (NZL)
-World Tour Australian Open Geelong 2018,2018-07-24,ARINOBU Taimu,SHU Dean,4,1,"10,11,11,11,14|12,3,9,4,12",,GRAND_SLAM,MS,880,Qualification,SHU Dean (NZL),ARINOBU Taimu (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,CHEN Chien-An,LEE Chia-Sheng,4,0,"11,11,11,11|6,5,3,4",,GRAND_SLAM,MS,880,Qualification,CHEN Chien-An (TPE),LEE Chia-Sheng (TPE)
-World Tour Australian Open Geelong 2018,2018-07-24,JANG Woojin,CHO Daeseong,4,1,"11,11,11,7,11|7,8,4,11,6",,GRAND_SLAM,MS,880,Qualification,JANG Woojin (KOR),CHO Daeseong (KOR)
-World Tour Australian Open Geelong 2018,2018-07-24,THAKKAR Manav,ABREFA Derek,4,0,"0,0,0,0|0,0,0,0",,GRAND_SLAM,MS,880,Qualification,ABREFA Derek (GHA),THAKKAR Manav (IND)
-World Tour Australian Open Geelong 2018,2018-07-24,AN Jaehyun,SAM Bernard,4,0,"0,0,0,0|0,0,0,0",,GRAND_SLAM,MS,880,Qualification,AN Jaehyun (KOR),SAM Bernard (GHA)
-World Tour Australian Open Geelong 2018,2018-07-24,MATSUDAIRA Shiho,DAS Mouma,4,2,"9,11,11,7,11,11|11,8,8,11,8,7",,GRAND_SLAM,WS,880,Qualification,DAS Mouma (IND),MATSUDAIRA Shiho (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,HE Zhuojia,LIN Chia-Hui,4,0,"11,11,11,11|3,6,4,3",,GRAND_SLAM,WS,880,Qualification,HE Zhuojia (CHN),LIN Chia-Hui (TPE)
-World Tour Australian Open Geelong 2018,2018-07-24,LI Jiayi,FAN Siqi,4,1,"11,12,11,11,11|13,10,6,7,8",,GRAND_SLAM,WS,880,Qualification,LI Jiayi (CHN),FAN Siqi (CHN)
-World Tour Australian Open Geelong 2018,2018-07-24,SAHASRABUDHE Pooja,LIU Hsing-Yin,4,3,"11,9,7,11,11,8,11|9,11,11,9,7,11,8",,GRAND_SLAM,WS,880,Qualification,LIU Hsing-Yin (TPE),SAHASRABUDHE Pooja (IND)
-World Tour Australian Open Geelong 2018,2018-07-24,CHE Xiaoxi,SHIN Yubin,4,0,"11,14,11,11|2,12,6,8",,GRAND_SLAM,WS,880,Qualification,CHE Xiaoxi (CHN),SHIN Yubin (KOR)
-World Tour Australian Open Geelong 2018,2018-07-24,PATKAR Madhurika,BAAH-DANSO Celia,4,0,"0,0,0,0|0,0,0,0",,GRAND_SLAM,WS,880,Qualification,PATKAR Madhurika (IND),BAAH-DANSO Celia (GHA)
-World Tour Australian Open Geelong 2018,2018-07-24,SUZUKI Rika,CHENG Zhiying,4,0,"11,11,11,11|2,3,4,4",,GRAND_SLAM,WS,880,Qualification,SUZUKI Rika (JPN),CHENG Zhiying (NZL)
-World Tour Australian Open Geelong 2018,2018-07-24,VARADY Barbora,GYASI Beatrice,4,0,"0,0,0,0|0,0,0,0",,GRAND_SLAM,WS,880,Qualification,VARADY Barbora (SVK),GYASI Beatrice (GHA)
-World Tour Australian Open Geelong 2018,2018-07-24,LIU Weishan,ZHOU Yihan,4,1,"9,11,11,11,11|11,4,8,4,3",,GRAND_SLAM,WS,880,Qualification,ZHOU Yihan (SGP),LIU Weishan (CHN)
-World Tour Australian Open Geelong 2018,2018-07-24,DVORAK Galia,QUAH Chermaine,4,0,"11,11,11,11|4,5,3,7",,GRAND_SLAM,WS,880,Qualification,DVORAK Galia (ESP),QUAH Chermaine (AUS)
-World Tour Australian Open Geelong 2018,2018-07-24,JEE Minhyung,SHAO Jieni,4,2,"11,1,11,11,5,13|3,11,7,9,11,11",,GRAND_SLAM,WS,880,Qualification,SHAO Jieni (POR),JEE Minhyung (AUS)
-World Tour Australian Open Geelong 2018,2018-07-24,LIN Chia-Hsuan,NIE Mingxuan,4,0,"11,11,11,11|2,1,2,3",,GRAND_SLAM,WS,880,Qualification,LIN Chia-Hsuan (TPE),NIE Mingxuan (AUS)
-World Tour Australian Open Geelong 2018,2018-07-24,MUKHERJEE Sutirtha,MUKHERJEE Ayhika,4,1,"9,11,11,11,11|11,9,5,9,8",,GRAND_SLAM,WS,880,Qualification,MUKHERJEE Ayhika (IND),MUKHERJEE Sutirtha (IND)
-World Tour Australian Open Geelong 2018,2018-07-24,MORIZONO Mizuki,KWABI Cynthia,4,0,"0,0,0,0|0,0,0,0",,GRAND_SLAM,WS,880,Qualification,MORIZONO Mizuki (JPN),KWABI Cynthia (GHA)
-World Tour Australian Open Geelong 2018,2018-07-24,MATSUZAWA Marina,NAGASAKI Miyu,4,3,"8,10,11,12,10,11,11|11,12,3,10,12,8,7",,GRAND_SLAM,WS,880,Qualification,NAGASAKI Miyu (JPN),MATSUZAWA Marina (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,ODO Satsuki,KIHARA Miyuu,4,2,"11,13,12,6,2,11|9,11,10,11,11,3",,GRAND_SLAM,WS,880,Qualification,ODO Satsuki (JPN),KIHARA Miyuu (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,ROBLES Alvaro,KIM James,4,0,"11,11,11,11|2,3,3,1",,GRAND_SLAM,MS,880,Qualification,ROBLES Alvaro (ESP),KIM James (AUS)
-World Tour Australian Open Geelong 2018,2018-07-24,PISTEJ Lubomir,DIXON Xavier,4,2,"11,5,11,9,11,11|3,11,7,11,5,5",,GRAND_SLAM,MS,880,Qualification,PISTEJ Lubomir (SVK),DIXON Xavier (AUS)
-World Tour Australian Open Geelong 2018,2018-07-24,KIM Donghyun,XU Nathan,4,1,"11,8,11,11,11|7,11,4,5,4",,GRAND_SLAM,MS,880,Qualification,KIM Donghyun (KOR),XU Nathan (NZL)
-World Tour Australian Open Geelong 2018,2018-07-24,GAO Ning,LUU Finn,4,1,"11,11,11,11,11|8,0,13,2,6",,GRAND_SLAM,MS,880,Qualification,GAO Ning (SGP),LUU Finn (AUS)
-World Tour Australian Open Geelong 2018,2018-07-24,TAZOE Kenta,LUU Skyy,4,0,"11,11,11,11|3,2,2,1",,GRAND_SLAM,MS,880,Qualification,LUU Skyy (AUS),TAZOE Kenta (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,KALLBERG Anton,AMOR Kelsey,4,0,"11,11,11,11|6,6,4,5",,GRAND_SLAM,MS,880,Qualification,KALLBERG Anton (SWE),AMOR Kelsey (NZL)
-World Tour Australian Open Geelong 2018,2018-07-24,DESAI Harmeet,VON EINEM Samuel,4,0,"11,11,11,11|6,7,6,5",,GRAND_SLAM,MS,880,Qualification,DESAI Harmeet (IND),VON EINEM Samuel (AUS)
-World Tour Australian Open Geelong 2018,2018-07-24,DYJAS Jakub,LEE Seonghun,4,0,"11,11,11,11|9,6,4,6",,GRAND_SLAM,MS,880,Qualification,DYJAS Jakub (POL),LEE Seonghun (AUS)
-World Tour Australian Open Geelong 2018,2018-07-24,LIAO Cheng-Ting,ZHAO Anthony,4,0,"11,11,11,11|6,3,2,5",,GRAND_SLAM,MS,880,Qualification,LIAO Cheng-Ting (TPE),ZHAO Anthony (AUS)
-World Tour Australian Open Geelong 2018,2018-07-24,GNANASEKARAN Sathiyan,ZHANG Shaoping,4,0,"11,11,11,11|4,2,4,4",,GRAND_SLAM,MS,880,Qualification,GNANASEKARAN Sathiyan (IND),ZHANG Shaoping (AUS)
-World Tour Australian Open Geelong 2018,2018-07-24,DUDA Benedikt,CNUDDE Florian,4,0,"11,11,12,11|7,3,10,8",,GRAND_SLAM,MS,880,Qualification,DUDA Benedikt (GER),CNUDDE Florian (BEL)
-World Tour Australian Open Geelong 2018,2018-07-24,ACHANTA Sharath,GOULD Benjamin,4,0,"11,11,11,11|6,5,2,2",,GRAND_SLAM,MS,880,Qualification,ACHANTA Sharath (IND),GOULD Benjamin (AUS)
-World Tour Australian Open Geelong 2018,2018-07-24,WALTHER Ricardo,LARTEY Felix,4,0,"0,0,0,0|0,0,0,0",,GRAND_SLAM,MS,880,Qualification,WALTHER Ricardo (GER),LARTEY Felix (GHA)
-World Tour Australian Open Geelong 2018,2018-07-24,ALLEGRO Martin,LUM Nicholas,4,0,"11,11,11,11|7,6,7,9",,GRAND_SLAM,MS,880,Qualification,LUM Nicholas (AUS),ALLEGRO Martin (BEL)
-World Tour Australian Open Geelong 2018,2018-07-24,LIN Yun-Ju,MENG Qi,4,0,"11,11,11,11|6,6,8,2",,GRAND_SLAM,MS,880,Qualification,LIN Yun-Ju (TPE),MENG Qi (NZL)
-World Tour Australian Open Geelong 2018,2018-07-24,MORIZONO Masataka,ZHANG Raymond,4,0,"11,11,11,11|2,3,4,2",,GRAND_SLAM,MS,880,Qualification,MORIZONO Masataka (JPN),ZHANG Raymond (AUS)
-World Tour Australian Open Geelong 2018,2018-07-24,ARINOBU Taimu,APOLONIA Tiago,4,2,"11,11,5,5,11,11|8,7,11,11,8,8",,GRAND_SLAM,MS,880,Qualification,APOLONIA Tiago (POR),ARINOBU Taimu (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,YU Ziyang,CHO Daeseong,4,3,"7,9,11,11,11,9,11|11,11,5,5,7,11,7",,GRAND_SLAM,MS,880,Qualification,YU Ziyang (CHN),CHO Daeseong (KOR)
-World Tour Australian Open Geelong 2018,2018-07-24,JEOUNG Youngsik,MA Victor,4,0,"11,11,11,11|4,2,7,9",,GRAND_SLAM,MS,880,Qualification,JEOUNG Youngsik (KOR),MA Victor (NZL)
-World Tour Australian Open Geelong 2018,2018-07-24,TOWNSEND Kane,LEE Chia-Sheng,4,1,"11,6,12,11,11|9,11,10,5,8",,GRAND_SLAM,MS,880,Qualification,TOWNSEND Kane (AUS),LEE Chia-Sheng (TPE)
-World Tour Australian Open Geelong 2018,2018-07-24,OSHIMA Yuya,SAM Bernard,4,0,"0,0,0,0|0,0,0,0",,GRAND_SLAM,MS,880,Qualification,OSHIMA Yuya (JPN),SAM Bernard (GHA)
-World Tour Australian Open Geelong 2018,2018-07-24,YOSHIMURA Maharu,THAKKAR Manav,4,0,"11,11,11,11|2,6,4,4",,GRAND_SLAM,MS,880,Qualification,YOSHIMURA Maharu (JPN),THAKKAR Manav (IND)
-World Tour Australian Open Geelong 2018,2018-07-24,YANG Ha Eun,SAHASRABUDHE Pooja,4,0,"11,11,11,11|6,4,4,4",,GRAND_SLAM,WS,880,Qualification,YANG Ha Eun (KOR),SAHASRABUDHE Pooja (IND)
-World Tour Australian Open Geelong 2018,2018-07-24,YU Mengyu,MATSUDAIRA Shiho,4,1,"11,11,11,7,11|5,6,5,11,7",,GRAND_SLAM,WS,880,Qualification,YU Mengyu (SGP),MATSUDAIRA Shiho (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,LI Jie,CHENG Zhiying,4,0,"11,11,11,11|2,2,3,1",,GRAND_SLAM,WS,880,Qualification,LI Jie (NED),CHENG Zhiying (NZL)
-World Tour Australian Open Geelong 2018,2018-07-24,FAN Siqi,HASHIMOTO Honoka,4,0,"11,11,12,11|9,4,10,9",,GRAND_SLAM,WS,880,Qualification,HASHIMOTO Honoka (JPN),FAN Siqi (CHN)
-World Tour Australian Open Geelong 2018,2018-07-24,ZENG Jian,BAAH-DANSO Celia,4,0,"0,0,0,0|0,0,0,0",,GRAND_SLAM,WS,880,Qualification,ZENG Jian (SGP),BAAH-DANSO Celia (GHA)
-World Tour Australian Open Geelong 2018,2018-07-24,LIN Chia-Hui,SHIOMI Maki,4,2,"11,11,8,7,15,11|7,9,11,11,13,8",,GRAND_SLAM,WS,880,Qualification,SHIOMI Maki (JPN),LIN Chia-Hui (TPE)
-World Tour Australian Open Geelong 2018,2018-07-24,MESHREF Dina,GYASI Beatrice,4,0,"0,0,0,0|0,0,0,0",,GRAND_SLAM,WS,880,Qualification,MESHREF Dina (EGY),GYASI Beatrice (GHA)
-World Tour Australian Open Geelong 2018,2018-07-24,HAMAMOTO Yui,SHIN Yubin,4,2,"14,8,8,11,11,11|12,11,11,8,8,6",,GRAND_SLAM,WS,880,Qualification,HAMAMOTO Yui (AUT),SHIN Yubin (KOR)
-World Tour Australian Open Geelong 2018,2018-07-24,MATSUZAWA Marina,KAUR Parleen,4,0,"11,11,11,11|6,3,8,1",,GRAND_SLAM,WS,880,Qualification,KAUR Parleen (AUS),MATSUZAWA Marina (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,KIHARA Miyuu,WU Michelle,4,2,"9,11,11,11,8,11|11,5,5,8,11,3",,GRAND_SLAM,WS,880,Qualification,WU Michelle (AUS),KIHARA Miyuu (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,LIN Ye,NIE Mingxuan,4,0,"11,11,11,11|5,6,2,5",,GRAND_SLAM,WS,880,Qualification,LIN Ye (CAN),NIE Mingxuan (AUS)
-World Tour Australian Open Geelong 2018,2018-07-24,ANDO Minami,LIU Weishan,4,0,"11,11,11,12|9,6,4,10",,GRAND_SLAM,WS,880,Qualification,ANDO Minami (JPN),LIU Weishan (CHN)
-World Tour Australian Open Geelong 2018,2018-07-24,SAWETTABUT Suthasini,KWABI Cynthia,4,0,"0,0,0,0|0,0,0,0",,GRAND_SLAM,WS,880,Qualification,SAWETTABUT Suthasini (THA),KWABI Cynthia (GHA)
-World Tour Australian Open Geelong 2018,2018-07-24,CHOI Hyojoo,JEE Minhyung,4,2,"12,11,9,11,11,11|14,7,11,4,5,1",,GRAND_SLAM,WS,880,Qualification,CHOI Hyojoo (KOR),JEE Minhyung (AUS)
-World Tour Australian Open Geelong 2018,2018-07-24,BATRA Manika,QUAH Chermaine,4,0,"11,11,11,11|9,5,4,7",,GRAND_SLAM,WS,880,Qualification,BATRA Manika (IND),QUAH Chermaine (AUS)
-World Tour Australian Open Geelong 2018,2018-07-24,CHENG Hsien-Tzu,MUKHERJEE Sutirtha,4,1,"11,5,11,11,11|6,11,4,3,3",,GRAND_SLAM,WS,880,Qualification,CHENG Hsien-Tzu (TPE),MUKHERJEE Sutirtha (IND)
-World Tour Australian Open Geelong 2018,2018-07-24,LAMBIET Florent,KALLBERG Anton,4,2,"11,14,11,8,9,18|9,12,6,11,11,16",,GRAND_SLAM,MS,880,Qualification,KALLBERG Anton (SWE),LAMBIET Florent (BEL)
-World Tour Australian Open Geelong 2018,2018-07-24,ROBLES Alvaro,LANDRIEU Andrea,4,0,"11,11,11,12|6,2,6,10",,GRAND_SLAM,MS,880,Qualification,ROBLES Alvaro (ESP),LANDRIEU Andrea (FRA)
-World Tour Australian Open Geelong 2018,2018-07-24,ZHOU Yu,DESAI Harmeet,4,2,"12,7,11,11,8,11|10,11,5,2,11,4",,GRAND_SLAM,MS,880,Qualification,DESAI Harmeet (IND),ZHOU Yu (CHN)
-World Tour Australian Open Geelong 2018,2018-07-24,PUCAR Tomislav,DYJAS Jakub,4,1,"11,6,11,11,11|9,11,8,8,6",,GRAND_SLAM,MS,880,Qualification,DYJAS Jakub (POL),PUCAR Tomislav (CRO)
-World Tour Australian Open Geelong 2018,2018-07-24,YOSHIMURA Kazuhiro,LUU Skyy,4,0,"0,0,0,0|0,0,0,0",,GRAND_SLAM,MS,880,Qualification,LUU Skyy (AUS),YOSHIMURA Kazuhiro (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,UDA Yukiya,GAO Ning,4,0,"11,11,11,11|8,9,8,7",,GRAND_SLAM,MS,880,Qualification,GAO Ning (SGP),UDA Yukiya (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,KIM Donghyun,SHETTY Sanil,4,2,"11,11,6,11,8,11|5,7,11,5,11,7",,GRAND_SLAM,MS,880,Qualification,KIM Donghyun (KOR),SHETTY Sanil (IND)
-World Tour Australian Open Geelong 2018,2018-07-24,PISTEJ Lubomir,ROBINOT Quentin,4,3,"7,12,11,11,8,11,11|11,10,9,13,11,9,5",,GRAND_SLAM,MS,880,Qualification,PISTEJ Lubomir (SVK),ROBINOT Quentin (FRA)
-World Tour Australian Open Geelong 2018,2018-07-24,HIRANO Yuki,DUDA Benedikt,4,1,"7,11,11,11,11|11,9,9,8,6",,GRAND_SLAM,MS,880,Qualification,DUDA Benedikt (GER),HIRANO Yuki (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,GNANASEKARAN Sathiyan,HU Heming,4,0,"11,11,11,11|5,2,8,7",,GRAND_SLAM,MS,880,Qualification,GNANASEKARAN Sathiyan (IND),HU Heming (AUS)
-World Tour Australian Open Geelong 2018,2018-07-24,LIU Dingshuo,LIAO Cheng-Ting,4,0,"11,11,11,12|7,7,9,10",,GRAND_SLAM,MS,880,Qualification,LIAO Cheng-Ting (TPE),LIU Dingshuo (CHN)
-World Tour Australian Open Geelong 2018,2018-07-24,ACHANTA Sharath,YANG Heng-Wei,4,0,"11,11,11,11|6,6,6,8",,GRAND_SLAM,MS,880,Qualification,ACHANTA Sharath (IND),YANG Heng-Wei (TPE)
-World Tour Australian Open Geelong 2018,2018-07-24,WALTHER Ricardo,RUMGAY Gavin,4,2,"8,11,11,11,3,11|11,7,7,4,11,8",,GRAND_SLAM,MS,880,Qualification,WALTHER Ricardo (GER),RUMGAY Gavin (SCO)
-World Tour Australian Open Geelong 2018,2018-07-24,NUYTINCK Cedric,LUM Nicholas,4,1,"8,11,11,11,11|11,5,6,5,5",,GRAND_SLAM,MS,880,Qualification,LUM Nicholas (AUS),NUYTINCK Cedric (BEL)
-World Tour Australian Open Geelong 2018,2018-07-24,LIN Yun-Ju,MINO Alberto,4,0,"11,11,11,11|1,4,6,9",,GRAND_SLAM,MS,880,Qualification,LIN Yun-Ju (TPE),MINO Alberto (ECU)
-World Tour Australian Open Geelong 2018,2018-07-24,MORIZONO Masataka,ANTHONY Amalraj,4,2,"11,7,11,11,8,11|5,11,8,7,11,1",,GRAND_SLAM,MS,880,Qualification,MORIZONO Masataka (JPN),ANTHONY Amalraj (IND)
-World Tour Australian Open Geelong 2018,2018-07-24,OSHIMA Yuya,AN Jaehyun,4,3,"11,11,7,4,11,11,11|7,13,11,11,8,1,9",,GRAND_SLAM,MS,880,Qualification,OSHIMA Yuya (JPN),AN Jaehyun (KOR)
-World Tour Australian Open Geelong 2018,2018-07-24,CHEN Chien-An,TOWNSEND Kane,4,2,"10,11,11,11,11,11|12,5,13,2,7,5",,GRAND_SLAM,MS,880,Qualification,TOWNSEND Kane (AUS),CHEN Chien-An (TPE)
-World Tour Australian Open Geelong 2018,2018-07-24,YU Ziyang,JANG Woojin,4,3,"8,13,12,6,13,8,11|11,11,10,11,11,11,9",,GRAND_SLAM,MS,880,Qualification,YU Ziyang (CHN),JANG Woojin (KOR)
-World Tour Australian Open Geelong 2018,2018-07-24,APOLONIA Tiago,SHU Dean,4,0,"11,11,11,11|2,7,9,4",,GRAND_SLAM,MS,880,Qualification,APOLONIA Tiago (POR),SHU Dean (NZL)
-World Tour Australian Open Geelong 2018,2018-07-24,YOSHIMURA Maharu,ABREFA Derek,4,0,"0,0,0,0|0,0,0,0",,GRAND_SLAM,MS,880,Qualification,YOSHIMURA Maharu (JPN),ABREFA Derek (GHA)
-World Tour Australian Open Geelong 2018,2018-07-24,JEOUNG Youngsik,JIN Takuya,4,0,"11,15,11,13|9,13,6,11",,GRAND_SLAM,MS,880,Qualification,JEOUNG Youngsik (KOR),JIN Takuya (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,LIU Hsing-Yin,YANG Ha Eun,4,3,"7,8,11,11,11,11,14|11,11,8,9,9,13,12",,GRAND_SLAM,WS,880,Qualification,YANG Ha Eun (KOR),LIU Hsing-Yin (TPE)
-World Tour Australian Open Geelong 2018,2018-07-24,HAMAMOTO Yui,CHE Xiaoxi,4,0,"11,11,11,11|5,9,7,5",,GRAND_SLAM,WS,880,Qualification,HAMAMOTO Yui (AUT),CHE Xiaoxi (CHN)
-World Tour Australian Open Geelong 2018,2018-07-24,VARADY Barbora,MESHREF Dina,4,0,"11,11,11,12|6,8,9,10",,GRAND_SLAM,WS,880,Qualification,MESHREF Dina (EGY),VARADY Barbora (SVK)
-World Tour Australian Open Geelong 2018,2018-07-24,YU Mengyu,DAS Mouma,4,1,"11,11,11,12,11|6,7,7,14,8",,GRAND_SLAM,WS,880,Qualification,YU Mengyu (SGP),DAS Mouma (IND)
-World Tour Australian Open Geelong 2018,2018-07-24,ZENG Jian,PATKAR Madhurika,4,0,"11,11,11,11|5,7,0,8",,GRAND_SLAM,WS,880,Qualification,ZENG Jian (SGP),PATKAR Madhurika (IND)
-World Tour Australian Open Geelong 2018,2018-07-24,LI Jie,SUZUKI Rika,4,0,"11,11,11,11|8,6,4,9",,GRAND_SLAM,WS,880,Qualification,LI Jie (NED),SUZUKI Rika (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,LI Jiayi,HASHIMOTO Honoka,4,3,"11,11,5,9,11,8,11|3,5,11,11,7,11,8",,GRAND_SLAM,WS,880,Qualification,HASHIMOTO Honoka (JPN),LI Jiayi (CHN)
-World Tour Australian Open Geelong 2018,2018-07-24,HE Zhuojia,SHIOMI Maki,4,0,"11,11,11,11|5,1,8,7",,GRAND_SLAM,WS,880,Qualification,SHIOMI Maki (JPN),HE Zhuojia (CHN)
-World Tour Australian Open Geelong 2018,2018-07-24,SAWETTABUT Suthasini,MORIZONO Mizuki,4,3,"9,8,12,14,5,12,11|11,11,10,12,11,10,3",,GRAND_SLAM,WS,880,Qualification,SAWETTABUT Suthasini (THA),MORIZONO Mizuki (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,NAGASAKI Miyu,KAUR Parleen,4,0,"11,11,11,11|5,4,4,3",,GRAND_SLAM,WS,880,Qualification,KAUR Parleen (AUS),NAGASAKI Miyu (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,CHOI Hyojoo,SHAO Jieni,4,0,"11,11,11,11|6,8,5,7",,GRAND_SLAM,WS,880,Qualification,CHOI Hyojoo (KOR),SHAO Jieni (POR)
-World Tour Australian Open Geelong 2018,2018-07-24,BATRA Manika,DVORAK Galia,4,1,"11,13,11,7,11|9,11,6,11,9",,GRAND_SLAM,WS,880,Qualification,BATRA Manika (IND),DVORAK Galia (ESP)
-World Tour Australian Open Geelong 2018,2018-07-24,ANDO Minami,ZHOU Yihan,4,0,"11,11,11,11|4,5,7,7",,GRAND_SLAM,WS,880,Qualification,ANDO Minami (JPN),ZHOU Yihan (SGP)
-World Tour Australian Open Geelong 2018,2018-07-24,LIN Ye,LIN Chia-Hsuan,4,3,"3,7,11,11,7,11,11|11,11,6,9,11,9,4",,GRAND_SLAM,WS,880,Qualification,LIN Ye (CAN),LIN Chia-Hsuan (TPE)
-World Tour Australian Open Geelong 2018,2018-07-24,CHENG Hsien-Tzu,MUKHERJEE Ayhika,4,1,"12,6,11,11,11|10,11,9,2,8",,GRAND_SLAM,WS,880,Qualification,CHENG Hsien-Tzu (TPE),MUKHERJEE Ayhika (IND)
-World Tour Australian Open Geelong 2018,2018-07-24,ODO Satsuki,WU Michelle,4,0,"11,11,11,11|5,5,3,5",,GRAND_SLAM,WS,880,Qualification,WU Michelle (AUS),ODO Satsuki (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,WALTHER Ricardo,PUCAR Tomislav,4,1,"13,11,6,12,11|11,8,11,10,7",QR16,GRAND_SLAM,MS,880,Qualification,WALTHER Ricardo (GER),PUCAR Tomislav (CRO)
-World Tour Australian Open Geelong 2018,2018-07-24,ZHOU Yu,NUYTINCK Cedric,4,0,"11,12,11,11|8,10,3,3",QR16,GRAND_SLAM,MS,880,Qualification,NUYTINCK Cedric (BEL),ZHOU Yu (CHN)
-World Tour Australian Open Geelong 2018,2018-07-24,KIM Donghyun,UDA Yukiya,4,2,"9,10,11,11,12,11|11,12,7,8,10,7",QR16,GRAND_SLAM,MS,880,Qualification,UDA Yukiya (JPN),KIM Donghyun (KOR)
-World Tour Australian Open Geelong 2018,2018-07-24,MORIZONO Masataka,YOSHIMURA Kazuhiro,4,1,"8,11,11,11,11|11,7,6,8,5",QR16,GRAND_SLAM,MS,880,Qualification,MORIZONO Masataka (JPN),YOSHIMURA Kazuhiro (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,ROBLES Alvaro,PISTEJ Lubomir,4,3,"11,6,18,11,8,14,11|7,11,16,7,11,16,3",QR16,GRAND_SLAM,MS,880,Qualification,ROBLES Alvaro (ESP),PISTEJ Lubomir (SVK)
-World Tour Australian Open Geelong 2018,2018-07-24,LIN Yun-Ju,LAMBIET Florent,4,1,"9,11,13,11,11|11,8,11,8,9",QR16,GRAND_SLAM,MS,880,Qualification,LIN Yun-Ju (TPE),LAMBIET Florent (BEL)
-World Tour Australian Open Geelong 2018,2018-07-24,DYJAS Jakub/ROBLES Alvaro,DIXON Xavier/LUU Finn,3,0,"11,11,11|2,4,4",QR16,GRAND_SLAM,MD,880,Qualification,DYJAS Jakub (POL) / ROBLES Alvaro (ESP),DIXON Xavier (AUS) / LUU Finn (AUS)
-World Tour Australian Open Geelong 2018,2018-07-24,CALDERANO Hugo/GAUZY Simon,SHU Dean/XU Nathan,3,0,"11,11,11|7,6,7",QR16,GRAND_SLAM,MD,880,Qualification,CALDERANO Hugo (BRA) / GAUZY Simon (FRA),SHU Dean (NZL) / XU Nathan (NZL)
-World Tour Australian Open Geelong 2018,2018-07-24,NUYTINCK Cedric/ROBINOT Quentin,VON EINEM Samuel/ZHANG Raymond,3,0,"11,11,11|3,1,2",QR16,GRAND_SLAM,MD,880,Qualification,NUYTINCK Cedric (BEL) / ROBINOT Quentin (FRA),VON EINEM Samuel (AUS) / ZHANG Raymond (AUS)
-World Tour Australian Open Geelong 2018,2018-07-24,ANTHONY Amalraj/THAKKAR Manav,ABREFA Derek/LARTEY Felix,3,0,"0,0,0|0,0,0",QR16,GRAND_SLAM,MD,880,Qualification,ANTHONY Amalraj (IND) / THAKKAR Manav (IND),ABREFA Derek (GHA) / LARTEY Felix (GHA)
-World Tour Australian Open Geelong 2018,2018-07-24,LEE Sang Su/JEON Jihee,ANTHONY Amalraj/PATKAR Madhurika,3,0,"11,11,11|9,8,9",R16,GRAND_SLAM,XD,880,Main Draw,LEE Sang Su (KOR) / JEON Jihee (KOR),ANTHONY Amalraj (IND) / PATKAR Madhurika (IND)
-World Tour Australian Open Geelong 2018,2018-07-24,PISTEJ Lubomir/VARADY Barbora,ROBLES Alvaro/DVORAK Galia,3,0,"11,11,11|7,4,7",R16,GRAND_SLAM,XD,880,Main Draw,PISTEJ Lubomir (SVK) / VARADY Barbora (SVK),ROBLES Alvaro (ESP) / DVORAK Galia (ESP)
-World Tour Australian Open Geelong 2018,2018-07-24,GAO Ning/YU Mengyu,GOULD Benjamin/JEE Minhyung,3,1,"7,11,13,11|11,8,11,9",R16,GRAND_SLAM,XD,880,Main Draw,GAO Ning (SGP) / YU Mengyu (SGP),GOULD Benjamin (AUS) / JEE Minhyung (AUS)
-World Tour Australian Open Geelong 2018,2018-07-24,LIM Jonghoon/YANG Ha Eun,SHU Dean/CHENG Zhiying,3,0,"11,11,11|3,2,3",R16,GRAND_SLAM,XD,880,Main Draw,LIM Jonghoon (KOR) / YANG Ha Eun (KOR),SHU Dean (NZL) / CHENG Zhiying (NZL)
-World Tour Australian Open Geelong 2018,2018-07-24,CHEN Chien-An/CHENG I-Ching,ZHOU Yu/CHE Xiaoxi,3,0,"11,11,11|9,8,7",R16,GRAND_SLAM,XD,880,Main Draw,CHEN Chien-An (TPE) / CHENG I-Ching (TPE),ZHOU Yu (CHN) / CHE Xiaoxi (CHN)
-World Tour Australian Open Geelong 2018,2018-07-24,YOSHIMURA Maharu/ISHIKAWA Kasumi,ACHANTA Sharath/BATRA Manika,3,1,"6,11,11,11|11,9,3,7",R16,GRAND_SLAM,XD,880,Main Draw,YOSHIMURA Maharu (JPN) / ISHIKAWA Kasumi (JPN),ACHANTA Sharath (IND) / BATRA Manika (IND)
-World Tour Australian Open Geelong 2018,2018-07-24,TOWNSEND Kane/KAUR Parleen,SAM Bernard/BAAH-DANSO Celia,3,0,"0,0,0|0,0,0",R16,GRAND_SLAM,XD,880,Main Draw,TOWNSEND Kane (AUS) / KAUR Parleen (AUS),SAM Bernard (GHA) / BAAH-DANSO Celia (GHA)
-World Tour Australian Open Geelong 2018,2018-07-24,CHUANG Chih-Yuan/CHEN Szu-Yu,ABREFA Derek/KWABI Cynthia,3,0,"0,0,0|0,0,0",R16,GRAND_SLAM,XD,880,Main Draw,CHUANG Chih-Yuan (TPE) / CHEN Szu-Yu (TPE),ABREFA Derek (GHA) / KWABI Cynthia (GHA)
-World Tour Australian Open Geelong 2018,2018-07-24,JEON Jihee/YANG Ha Eun,MUKHERJEE Sutirtha/SAHASRABUDHE Pooja,3,0,"11,11,11|7,8,3",R16,GRAND_SLAM,WD,880,Main Draw,JEON Jihee (KOR) / YANG Ha Eun (KOR),MUKHERJEE Sutirtha (IND) / SAHASRABUDHE Pooja (IND)
-World Tour Australian Open Geelong 2018,2018-07-24,HIRANO Miu/NAGASAKI Miyu,CHOI Hyojoo/SHIN Yubin,3,2,"9,11,4,11,11|11,8,11,9,9",R16,GRAND_SLAM,WD,880,Main Draw,HIRANO Miu (JPN) / NAGASAKI Miyu (JPN),CHOI Hyojoo (KOR) / SHIN Yubin (KOR)
-World Tour Australian Open Geelong 2018,2018-07-24,GU Yuting/LI Jiayi,VARADY Barbora/DVORAK Galia,3,0,"11,11,11|7,8,8",R16,GRAND_SLAM,WD,880,Main Draw,GU Yuting (CHN) / LI Jiayi (CHN),VARADY Barbora (SVK) / DVORAK Galia (ESP)
-World Tour Australian Open Geelong 2018,2018-07-24,HAYATA Hina/ITO Mima,YU Mengyu/ZHOU Yihan,3,0,"0,0,0|0,0,0",R16,GRAND_SLAM,WD,880,Main Draw,HAYATA Hina (JPN) / ITO Mima (JPN),YU Mengyu (SGP) / ZHOU Yihan (SGP)
-World Tour Australian Open Geelong 2018,2018-07-24,LIN Ye/ZENG Jian,JEE Minhyung/NIE Mingxuan,3,0,"11,13,11|6,11,4",R16,GRAND_SLAM,WD,880,Main Draw,LIN Ye (CAN) / ZENG Jian (SGP),JEE Minhyung (AUS) / NIE Mingxuan (AUS)
-World Tour Australian Open Geelong 2018,2018-07-24,HASHIMOTO Honoka/SATO Hitomi,BAAH-DANSO Celia/KWABI Cynthia,3,0,"0,0,0|0,0,0",R16,GRAND_SLAM,WD,880,Main Draw,HASHIMOTO Honoka (JPN) / SATO Hitomi (JPN),BAAH-DANSO Celia (GHA) / KWABI Cynthia (GHA)
-World Tour Australian Open Geelong 2018,2018-07-24,JEOUNG Youngsik/LEE Sang Su,DESAI Harmeet/SHETTY Sanil,3,0,"11,11,11|6,5,4",R16,GRAND_SLAM,MD,880,Main Draw,JEOUNG Youngsik (KOR) / LEE Sang Su (KOR),DESAI Harmeet (IND) / SHETTY Sanil (IND)
-World Tour Australian Open Geelong 2018,2018-07-24,LIAO Cheng-Ting/LIN Yun-Ju,NUYTINCK Cedric/ROBINOT Quentin,3,2,"11,3,9,11,11|9,11,11,4,9",R16,GRAND_SLAM,MD,880,Main Draw,LIAO Cheng-Ting (TPE) / LIN Yun-Ju (TPE),NUYTINCK Cedric (BEL) / ROBINOT Quentin (FRA)
-World Tour Australian Open Geelong 2018,2018-07-24,FRANZISKA Patrick/WALTHER Ricardo,CALDERANO Hugo/GAUZY Simon,3,0,"11,11,11|4,5,9",R16,GRAND_SLAM,MD,880,Main Draw,FRANZISKA Patrick (GER) / WALTHER Ricardo (GER),CALDERANO Hugo (BRA) / GAUZY Simon (FRA)
-World Tour Australian Open Geelong 2018,2018-07-24,NIWA Koki/UEDA Jin,KALLBERG Anton/PISTEJ Lubomir,3,1,"11,11,11,11|9,9,13,8",R16,GRAND_SLAM,MD,880,Main Draw,NIWA Koki (JPN) / UEDA Jin (JPN),KALLBERG Anton (SWE) / PISTEJ Lubomir (SVK)
-World Tour Australian Open Geelong 2018,2018-07-24,JANG Woojin/LIM Jonghoon,ALLEGRO Martin/LAMBIET Florent,3,1,"10,12,11,11|12,10,9,8",R16,GRAND_SLAM,MD,880,Main Draw,JANG Woojin (KOR) / LIM Jonghoon (KOR),ALLEGRO Martin (BEL) / LAMBIET Florent (BEL)
-World Tour Australian Open Geelong 2018,2018-07-24,CHEN Chien-An/CHUANG Chih-Yuan,DYJAS Jakub/ROBLES Alvaro,3,2,"11,7,11,13,11|9,11,4,15,7",R16,GRAND_SLAM,MD,880,Main Draw,CHEN Chien-An (TPE) / CHUANG Chih-Yuan (TPE),DYJAS Jakub (POL) / ROBLES Alvaro (ESP)
-World Tour Australian Open Geelong 2018,2018-07-24,LIU Shiwen,MATSUZAWA Marina,4,0,"11,11,11,11|8,8,9,9",R32,GRAND_SLAM,WS,880,Main Draw,MATSUZAWA Marina (JPN),LIU Shiwen (CHN)
-World Tour Australian Open Geelong 2018,2018-07-24,ISHIKAWA Kasumi,ANDO Minami,4,2,"11,7,11,9,11,11|5,11,2,11,7,4",R32,GRAND_SLAM,WS,880,Main Draw,ISHIKAWA Kasumi (JPN),ANDO Minami (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,SUH Hyo Won,HAMAMOTO Yui,4,2,"8,11,7,11,12,11|11,4,11,3,10,6",R32,GRAND_SLAM,WS,880,Main Draw,HAMAMOTO Yui (AUT),SUH Hyo Won (KOR)
-World Tour Australian Open Geelong 2018,2018-07-24,HE Zhuojia,LAY Jian Fang,4,0,"11,11,11,11|4,5,5,6",R32,GRAND_SLAM,WS,880,Main Draw,LAY Jian Fang (AUS),HE Zhuojia (CHN)
-World Tour Australian Open Geelong 2018,2018-07-24,YU Mengyu,KATO Miyu,4,2,"8,11,11,7,12,13|11,8,9,11,10,11",R32,GRAND_SLAM,WS,880,Main Draw,KATO Miyu (JPN),YU Mengyu (SGP)
-World Tour Australian Open Geelong 2018,2018-07-24,ZENG Jian,CHEN Szu-Yu,4,1,"9,11,11,11,12|11,9,6,6,10",R32,GRAND_SLAM,WS,880,Main Draw,ZENG Jian (SGP),CHEN Szu-Yu (TPE)
-World Tour Australian Open Geelong 2018,2018-07-24,SAWETTABUT Suthasini,CHENG I-Ching,4,2,"10,6,11,13,11,11|12,11,7,11,6,8",R32,GRAND_SLAM,WS,880,Main Draw,CHENG I-Ching (TPE),SAWETTABUT Suthasini (THA)
-World Tour Australian Open Geelong 2018,2018-07-24,GU Yuting,ODO Satsuki,4,0,"11,11,11,11|5,5,6,4",R32,GRAND_SLAM,WS,880,Main Draw,GU Yuting (CHN),ODO Satsuki (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,OSHIMA Yuya,CALDERANO Hugo,4,3,"11,11,6,5,12,8,11|5,7,11,11,10,11,7",R32,GRAND_SLAM,MS,880,Main Draw,CALDERANO Hugo (BRA),OSHIMA Yuya (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,YU Ziyang,OVTCHAROV Dimitrij,4,3,"11,11,6,13,15,6,11|7,7,11,11,17,11,3",R32,GRAND_SLAM,MS,880,Main Draw,OVTCHAROV Dimitrij (GER),YU Ziyang (CHN)
-World Tour Australian Open Geelong 2018,2018-07-24,LIU Dingshuo,MIZUTANI Jun,4,3,"11,12,11,6,8,5,11|4,10,9,11,11,11,9",R32,GRAND_SLAM,MS,880,Main Draw,LIU Dingshuo (CHN),MIZUTANI Jun (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,ARUNA Quadri,WALTHER Ricardo,4,2,"6,10,11,11,11,12|11,12,8,7,7,10",R32,GRAND_SLAM,MS,880,Main Draw,WALTHER Ricardo (GER),ARUNA Quadri (NGR)
-World Tour Australian Open Geelong 2018,2018-07-24,YOSHIMURA Maharu,CHUANG Chih-Yuan,4,2,"11,6,8,11,11,11|6,11,11,7,4,9",R32,GRAND_SLAM,MS,880,Main Draw,YOSHIMURA Maharu (JPN),CHUANG Chih-Yuan (TPE)
-World Tour Australian Open Geelong 2018,2018-07-24,LIM Jonghoon,ROBLES Alvaro,4,2,"4,8,11,11,11,11|11,11,2,9,5,6",R32,GRAND_SLAM,MS,880,Main Draw,LIM Jonghoon (KOR),ROBLES Alvaro (ESP)
-World Tour Australian Open Geelong 2018,2018-07-24,JEOUNG Youngsik,LEE Sang Su,4,0,"12,11,11,11|10,3,8,8",R32,GRAND_SLAM,MS,880,Main Draw,JEOUNG Youngsik (KOR),LEE Sang Su (KOR)
-World Tour Australian Open Geelong 2018,2018-07-24,ZHOU Yu,NIWA Koki,4,2,"11,11,8,5,11,11|7,9,11,11,5,9",R32,GRAND_SLAM,MS,880,Main Draw,NIWA Koki (JPN),ZHOU Yu (CHN)
-World Tour Australian Open Geelong 2018,2018-07-24,YANG Ha Eun,HAYATA Hina,4,2,"13,11,9,9,11,12|11,8,11,11,5,10",R32,GRAND_SLAM,WS,880,Main Draw,YANG Ha Eun (KOR),HAYATA Hina (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,SHIBATA Saki,VARADY Barbora,4,0,"12,11,11,11|10,6,7,4",R32,GRAND_SLAM,WS,880,Main Draw,VARADY Barbora (SVK),SHIBATA Saki (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,JEON Jihee,LI Jie,4,3,"9,9,13,11,11,5,11|11,11,11,5,6,11,6",R32,GRAND_SLAM,WS,880,Main Draw,JEON Jihee (KOR),LI Jie (NED)
-World Tour Australian Open Geelong 2018,2018-07-24,SATO Hitomi,BATRA Manika,4,0,"11,11,11,11|9,2,7,4",R32,GRAND_SLAM,WS,880,Main Draw,BATRA Manika (IND),SATO Hitomi (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,DING Ning,CHENG Hsien-Tzu,4,0,"11,11,11,11|7,6,6,8",R32,GRAND_SLAM,WS,880,Main Draw,DING Ning (CHN),CHENG Hsien-Tzu (TPE)
-World Tour Australian Open Geelong 2018,2018-07-24,ITO Mima,LIN Ye,4,2,"13,10,11,11,3,11|11,12,7,9,11,4",R32,GRAND_SLAM,WS,880,Main Draw,ITO Mima (JPN),LIN Ye (CAN)
-World Tour Australian Open Geelong 2018,2018-07-24,FENG Tianwei,LI Jiayi,4,2,"12,11,9,11,9,11|10,8,11,4,11,8",R32,GRAND_SLAM,WS,880,Main Draw,LI Jiayi (CHN),FENG Tianwei (SGP)
-World Tour Australian Open Geelong 2018,2018-07-24,LEE Sang Su/JEON Jihee,PISTEJ Lubomir/VARADY Barbora,3,2,"12,10,11,10,11|10,12,7,12,9",QF,GRAND_SLAM,XD,880,Main Draw,LEE Sang Su (KOR) / JEON Jihee (KOR),PISTEJ Lubomir (SVK) / VARADY Barbora (SVK)
-World Tour Australian Open Geelong 2018,2018-07-24,YOSHIMURA Maharu/ISHIKAWA Kasumi,GAO Ning/YU Mengyu,3,1,"11,11,10,11|5,9,12,5",QF,GRAND_SLAM,XD,880,Main Draw,YOSHIMURA Maharu (JPN) / ISHIKAWA Kasumi (JPN),GAO Ning (SGP) / YU Mengyu (SGP)
-World Tour Australian Open Geelong 2018,2018-07-24,LIM Jonghoon/YANG Ha Eun,TOWNSEND Kane/KAUR Parleen,3,0,"11,11,11|4,3,6",QF,GRAND_SLAM,XD,880,Main Draw,LIM Jonghoon (KOR) / YANG Ha Eun (KOR),TOWNSEND Kane (AUS) / KAUR Parleen (AUS)
-World Tour Australian Open Geelong 2018,2018-07-24,CHEN Chien-An/CHENG I-Ching,CHUANG Chih-Yuan/CHEN Szu-Yu,3,0,"12,13,11|10,11,9",QF,GRAND_SLAM,XD,880,Main Draw,CHEN Chien-An (TPE) / CHENG I-Ching (TPE),CHUANG Chih-Yuan (TPE) / CHEN Szu-Yu (TPE)
-World Tour Australian Open Geelong 2018,2018-07-24,MORIZONO Masataka/OSHIMA Yuya,CHEN Chien-An/CHUANG Chih-Yuan,3,0,"11,12,11|8,10,5",QF,GRAND_SLAM,MD,880,Main Draw,MORIZONO Masataka (JPN) / OSHIMA Yuya (JPN),CHEN Chien-An (TPE) / CHUANG Chih-Yuan (TPE)
-World Tour Australian Open Geelong 2018,2018-07-24,LIAO Cheng-Ting/LIN Yun-Ju,FRANZISKA Patrick/WALTHER Ricardo,3,1,"11,11,11,11|13,8,8,9",QF,GRAND_SLAM,MD,880,Main Draw,LIAO Cheng-Ting (TPE) / LIN Yun-Ju (TPE),FRANZISKA Patrick (GER) / WALTHER Ricardo (GER)
-World Tour Australian Open Geelong 2018,2018-07-24,JANG Woojin/LIM Jonghoon,NIWA Koki/UEDA Jin,3,1,"13,11,11,11|15,3,9,6",QF,GRAND_SLAM,MD,880,Main Draw,JANG Woojin (KOR) / LIM Jonghoon (KOR),NIWA Koki (JPN) / UEDA Jin (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,JEOUNG Youngsik/LEE Sang Su,ACHANTA Sharath/GNANASEKARAN Sathiyan,3,0,"11,16,11|7,14,4",QF,GRAND_SLAM,MD,880,Main Draw,JEOUNG Youngsik (KOR) / LEE Sang Su (KOR),ACHANTA Sharath (IND) / GNANASEKARAN Sathiyan (IND)
-World Tour Australian Open Geelong 2018,2018-07-24,HASHIMOTO Honoka/SATO Hitomi,CHENG Hsien-Tzu/LIU Hsing-Yin,3,0,"11,11,11|5,2,6",QF,GRAND_SLAM,WD,880,Main Draw,HASHIMOTO Honoka (JPN) / SATO Hitomi (JPN),CHENG Hsien-Tzu (TPE) / LIU Hsing-Yin (TPE)
-World Tour Australian Open Geelong 2018,2018-07-24,JEON Jihee/YANG Ha Eun,GU Yuting/LI Jiayi,3,1,"12,9,11,11|10,11,3,5",QF,GRAND_SLAM,WD,880,Main Draw,JEON Jihee (KOR) / YANG Ha Eun (KOR),GU Yuting (CHN) / LI Jiayi (CHN)
-World Tour Australian Open Geelong 2018,2018-07-24,LIN Ye/ZENG Jian,BATRA Manika/DAS Mouma,3,0,"11,11,12|7,6,10",QF,GRAND_SLAM,WD,880,Main Draw,LIN Ye (CAN) / ZENG Jian (SGP),BATRA Manika (IND) / DAS Mouma (IND)
-World Tour Australian Open Geelong 2018,2018-07-24,HAYATA Hina/ITO Mima,HIRANO Miu/NAGASAKI Miyu,3,1,"9,11,11,11|11,7,3,9",QF,GRAND_SLAM,WD,880,Main Draw,HAYATA Hina (JPN) / ITO Mima (JPN),HIRANO Miu (JPN) / NAGASAKI Miyu (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,JEOUNG Youngsik/LEE Sang Su,LIAO Cheng-Ting/LIN Yun-Ju,3,1,"11,11,6,12|9,6,11,10",SF,GRAND_SLAM,MD,880,Main Draw,JEOUNG Youngsik (KOR) / LEE Sang Su (KOR),LIAO Cheng-Ting (TPE) / LIN Yun-Ju (TPE)
-World Tour Australian Open Geelong 2018,2018-07-24,MORIZONO Masataka/OSHIMA Yuya,JANG Woojin/LIM Jonghoon,3,2,"6,11,11,10,12|11,8,9,12,10",SF,GRAND_SLAM,MD,880,Main Draw,MORIZONO Masataka (JPN) / OSHIMA Yuya (JPN),JANG Woojin (KOR) / LIM Jonghoon (KOR)
-World Tour Australian Open Geelong 2018,2018-07-24,HAYATA Hina/ITO Mima,JEON Jihee/YANG Ha Eun,3,2,"11,10,8,13,11|9,12,11,11,8",SF,GRAND_SLAM,WD,880,Main Draw,HAYATA Hina (JPN) / ITO Mima (JPN),JEON Jihee (KOR) / YANG Ha Eun (KOR)
-World Tour Australian Open Geelong 2018,2018-07-24,HASHIMOTO Honoka/SATO Hitomi,LIN Ye/ZENG Jian,3,0,"11,11,11|6,9,7",SF,GRAND_SLAM,WD,880,Main Draw,HASHIMOTO Honoka (JPN) / SATO Hitomi (JPN),LIN Ye (CAN) / ZENG Jian (SGP)
-World Tour Australian Open Geelong 2018,2018-07-24,XU Xin,ARINOBU Taimu,4,2,"11,10,11,9,11,11|8,12,8,11,7,6",R32,GRAND_SLAM,MS,880,Main Draw,ARINOBU Taimu (JPN),XU Xin (CHN)
-World Tour Australian Open Geelong 2018,2018-07-24,LIN Yun-Ju,POWELL David,4,0,"11,11,11,11|1,3,6,1",R32,GRAND_SLAM,MS,880,Main Draw,POWELL David (AUS),LIN Yun-Ju (TPE)
-World Tour Australian Open Geelong 2018,2018-07-24,GNANASEKARAN Sathiyan,YOSHIDA Masaki,4,3,"11,7,11,7,5,11,11|8,11,9,11,11,6,8",R32,GRAND_SLAM,MS,880,Main Draw,GNANASEKARAN Sathiyan (IND),YOSHIDA Masaki (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,HIRANO Yuki,MATSUDAIRA Kenta,4,3,"12,12,11,9,3,11,12|14,10,9,11,11,8,10",R32,GRAND_SLAM,MS,880,Main Draw,MATSUDAIRA Kenta (JPN),HIRANO Yuki (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,HARIMOTO Tomokazu,CHEN Chien-An,4,3,"9,9,11,11,11,12,11|11,11,7,6,13,10,9",R32,GRAND_SLAM,MS,880,Main Draw,CHEN Chien-An (TPE),HARIMOTO Tomokazu (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,ACHANTA Sharath,GAUZY Simon,4,2,"6,11,11,11,7,11|11,7,7,8,11,4",R32,GRAND_SLAM,MS,880,Main Draw,GAUZY Simon (FRA),ACHANTA Sharath (IND)
-World Tour Australian Open Geelong 2018,2018-07-24,FRANZISKA Patrick,KIM Donghyun,4,1,"11,11,8,11,11|6,9,11,8,2",R32,GRAND_SLAM,MS,880,Main Draw,KIM Donghyun (KOR),FRANZISKA Patrick (GER)
-World Tour Australian Open Geelong 2018,2018-07-24,UEDA Jin,MORIZONO Masataka,4,0,"13,11,11,11|11,9,9,3",R32,GRAND_SLAM,MS,880,Main Draw,UEDA Jin (JPN),MORIZONO Masataka (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,YANG Ha Eun,SAWETTABUT Suthasini,4,2,"6,11,11,11,6,11|11,6,7,9,11,4",R16,GRAND_SLAM,WS,880,Main Draw,SAWETTABUT Suthasini (THA),YANG Ha Eun (KOR)
-World Tour Australian Open Geelong 2018,2018-07-24,SATO Hitomi,JEON Jihee,4,2,"9,6,11,11,11,11|11,11,7,7,9,7",R16,GRAND_SLAM,WS,880,Main Draw,JEON Jihee (KOR),SATO Hitomi (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,HE Zhuojia,FENG Tianwei,4,0,"11,11,11,13|7,6,7,11",R16,GRAND_SLAM,WS,880,Main Draw,HE Zhuojia (CHN),FENG Tianwei (SGP)
-World Tour Australian Open Geelong 2018,2018-07-24,ISHIKAWA Kasumi,SHIBATA Saki,4,1,"11,11,11,11,11|9,13,4,7,8",R16,GRAND_SLAM,WS,880,Main Draw,ISHIKAWA Kasumi (JPN),SHIBATA Saki (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,DING Ning,SUH Hyo Won,4,0,"11,11,11,12|3,8,7,10",R16,GRAND_SLAM,WS,880,Main Draw,DING Ning (CHN),SUH Hyo Won (KOR)
-World Tour Australian Open Geelong 2018,2018-07-24,LIU Shiwen,GU Yuting,4,2,"11,11,11,12,9,11|9,5,7,14,11,3",R16,GRAND_SLAM,WS,880,Main Draw,GU Yuting (CHN),LIU Shiwen (CHN)
-World Tour Australian Open Geelong 2018,2018-07-24,ITO Mima,ZENG Jian,4,3,"11,11,7,9,11,2,11|9,5,11,11,2,11,7",R16,GRAND_SLAM,WS,880,Main Draw,ITO Mima (JPN),ZENG Jian (SGP)
-World Tour Australian Open Geelong 2018,2018-07-24,HIRANO Miu,YU Mengyu,4,1,"11,11,11,9,16|4,8,2,11,14",R16,GRAND_SLAM,WS,880,Main Draw,YU Mengyu (SGP),HIRANO Miu (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,LEE Sang Su/JEON Jihee,CHEN Chien-An/CHENG I-Ching,3,0,"13,11,11|11,9,9",SF,GRAND_SLAM,XD,880,Main Draw,LEE Sang Su (KOR) / JEON Jihee (KOR),CHEN Chien-An (TPE) / CHENG I-Ching (TPE)
-World Tour Australian Open Geelong 2018,2018-07-24,LIM Jonghoon/YANG Ha Eun,YOSHIMURA Maharu/ISHIKAWA Kasumi,3,1,"11,11,11,11|7,9,13,6",SF,GRAND_SLAM,XD,880,Main Draw,LIM Jonghoon (KOR) / YANG Ha Eun (KOR),YOSHIMURA Maharu (JPN) / ISHIKAWA Kasumi (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,FRANZISKA Patrick,ACHANTA Sharath,4,3,"12,9,11,11,7,11,11|14,11,9,3,11,7,8",R16,GRAND_SLAM,MS,880,Main Draw,ACHANTA Sharath (IND),FRANZISKA Patrick (GER)
-World Tour Australian Open Geelong 2018,2018-07-24,OSHIMA Yuya,ARUNA Quadri,4,0,"12,11,11,11|10,9,8,4",R16,GRAND_SLAM,MS,880,Main Draw,OSHIMA Yuya (JPN),ARUNA Quadri (NGR)
-World Tour Australian Open Geelong 2018,2018-07-24,ZHOU Yu,GNANASEKARAN Sathiyan,4,0,"11,14,12,11|3,12,10,5",R16,GRAND_SLAM,MS,880,Main Draw,ZHOU Yu (CHN),GNANASEKARAN Sathiyan (IND)
-World Tour Australian Open Geelong 2018,2018-07-24,LIU Dingshuo,LIN Yun-Ju,4,2,"8,9,11,11,11,11|11,11,8,9,8,6",R16,GRAND_SLAM,MS,880,Main Draw,LIN Yun-Ju (TPE),LIU Dingshuo (CHN)
-World Tour Australian Open Geelong 2018,2018-07-24,XU Xin,UEDA Jin,4,2,"7,11,11,7,11,11|11,8,3,11,8,1",R16,GRAND_SLAM,MS,880,Main Draw,UEDA Jin (JPN),XU Xin (CHN)
-World Tour Australian Open Geelong 2018,2018-07-24,YU Ziyang,YOSHIMURA Maharu,4,2,"11,9,11,5,11,11|8,11,6,11,7,7",R16,GRAND_SLAM,MS,880,Main Draw,YU Ziyang (CHN),YOSHIMURA Maharu (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,JEOUNG Youngsik,LIM Jonghoon,4,0,"11,11,11,12|3,7,6,10",R16,GRAND_SLAM,MS,880,Main Draw,LIM Jonghoon (KOR),JEOUNG Youngsik (KOR)
-World Tour Australian Open Geelong 2018,2018-07-24,HARIMOTO Tomokazu,HIRANO Yuki,4,1,"11,11,6,11,11|8,3,11,5,4",R16,GRAND_SLAM,MS,880,Main Draw,HIRANO Yuki (JPN),HARIMOTO Tomokazu (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,ISHIKAWA Kasumi,SATO Hitomi,4,1,"11,11,11,8,11|4,6,8,11,6",QF,GRAND_SLAM,WS,880,Main Draw,ISHIKAWA Kasumi (JPN),SATO Hitomi (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,HE Zhuojia,ITO Mima,4,2,"11,11,11,6,10,12|7,6,3,11,12,10",QF,GRAND_SLAM,WS,880,Main Draw,ITO Mima (JPN),HE Zhuojia (CHN)
-World Tour Australian Open Geelong 2018,2018-07-24,LIU Shiwen,YANG Ha Eun,4,0,"11,11,11,11|3,7,6,7",QF,GRAND_SLAM,WS,880,Main Draw,YANG Ha Eun (KOR),LIU Shiwen (CHN)
-World Tour Australian Open Geelong 2018,2018-07-24,DING Ning,HIRANO Miu,4,0,"11,11,11,11|6,6,2,8",QF,GRAND_SLAM,WS,880,Main Draw,DING Ning (CHN),HIRANO Miu (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,HARIMOTO Tomokazu,ZHOU Yu,4,2,"9,12,10,11,11,11|11,10,12,9,5,5",QF,GRAND_SLAM,MS,880,Main Draw,ZHOU Yu (CHN),HARIMOTO Tomokazu (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,XU Xin,FRANZISKA Patrick,4,0,"11,11,11,11|7,3,9,9",QF,GRAND_SLAM,MS,880,Main Draw,FRANZISKA Patrick (GER),XU Xin (CHN)
-World Tour Australian Open Geelong 2018,2018-07-24,LIU Dingshuo,YU Ziyang,4,3,"11,11,5,11,6,5,11|9,3,11,8,11,11,8",QF,GRAND_SLAM,MS,880,Main Draw,YU Ziyang (CHN),LIU Dingshuo (CHN)
-World Tour Australian Open Geelong 2018,2018-07-24,OSHIMA Yuya,JEOUNG Youngsik,4,2,"12,9,11,8,11,11|10,11,6,11,9,6",QF,GRAND_SLAM,MS,880,Main Draw,OSHIMA Yuya (JPN),JEOUNG Youngsik (KOR)
-World Tour Australian Open Geelong 2018,2018-07-24,LEE Sang Su/JEON Jihee,LIM Jonghoon/YANG Ha Eun,3,2,"6,11,5,11,11|11,7,11,8,8",F,GRAND_SLAM,XD,880,Main Draw,LEE Sang Su (KOR) / JEON Jihee (KOR),LIM Jonghoon (KOR) / YANG Ha Eun (KOR)
-World Tour Australian Open Geelong 2018,2018-07-24,LIU Shiwen,HE Zhuojia,4,2,"7,11,11,5,11,11|11,5,6,11,6,7",SF,GRAND_SLAM,WS,880,Main Draw,HE Zhuojia (CHN),LIU Shiwen (CHN)
-World Tour Australian Open Geelong 2018,2018-07-24,DING Ning,ISHIKAWA Kasumi,4,0,"11,11,11,11|8,7,7,8",SF,GRAND_SLAM,WS,880,Main Draw,ISHIKAWA Kasumi (JPN),DING Ning (CHN)
-World Tour Australian Open Geelong 2018,2018-07-24,LIU Dingshuo,OSHIMA Yuya,4,0,"11,11,11,11|6,5,3,8",SF,GRAND_SLAM,MS,880,Main Draw,LIU Dingshuo (CHN),OSHIMA Yuya (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,XU Xin,HARIMOTO Tomokazu,4,2,"11,11,9,11,9,11|5,8,11,5,11,7",SF,GRAND_SLAM,MS,880,Main Draw,HARIMOTO Tomokazu (JPN),XU Xin (CHN)
-World Tour Australian Open Geelong 2018,2018-07-24,HAYATA Hina/ITO Mima,HASHIMOTO Honoka/SATO Hitomi,3,0,"11,11,11|8,9,7",F,GRAND_SLAM,WD,880,Main Draw,HAYATA Hina (JPN) / ITO Mima (JPN),HASHIMOTO Honoka (JPN) / SATO Hitomi (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,JEOUNG Youngsik/LEE Sang Su,MORIZONO Masataka/OSHIMA Yuya,3,0,"14,11,11|12,5,7",F,GRAND_SLAM,MD,880,Main Draw,JEOUNG Youngsik (KOR) / LEE Sang Su (KOR),MORIZONO Masataka (JPN) / OSHIMA Yuya (JPN)
-World Tour Australian Open Geelong 2018,2018-07-24,LIU Shiwen,DING Ning,4,3,"11,11,3,5,6,11,11|5,7,11,11,11,5,6",F,GRAND_SLAM,WS,880,Main Draw,DING Ning (CHN),LIU Shiwen (CHN)
-World Tour Australian Open Geelong 2018,2018-07-24,XU Xin,LIU Dingshuo,4,1,"12,4,12,15,11|10,11,10,13,6",F,GRAND_SLAM,MS,880,Main Draw,LIU Dingshuo (CHN),XU Xin (CHN)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+World Tour Australian Open Geelong 2018,2018-07-24,ROBINOT Quentin,DIXON Xavier,4,0,"11,11,11,11|1,5,5,6",,GRAND_SLAM,MS,880,Qualification,ROBINOT Quentin (FRA),DIXON Xavier (AUS),ROBINOT Quentin
+World Tour Australian Open Geelong 2018,2018-07-24,UDA Yukiya,LUU Finn,4,0,"11,11,11,11|5,7,2,4",,GRAND_SLAM,MS,880,Qualification,UDA Yukiya (JPN),LUU Finn (AUS),UDA Yukiya
+World Tour Australian Open Geelong 2018,2018-07-24,SHETTY Sanil,XU Nathan,4,0,"11,11,11,11|7,5,3,9",,GRAND_SLAM,MS,880,Qualification,SHETTY Sanil (IND),XU Nathan (NZL),SHETTY Sanil
+World Tour Australian Open Geelong 2018,2018-07-24,ZHOU Yu,VON EINEM Samuel,4,0,"11,13,11,11|3,11,4,3",,GRAND_SLAM,MS,880,Qualification,ZHOU Yu (CHN),VON EINEM Samuel (AUS),ZHOU Yu
+World Tour Australian Open Geelong 2018,2018-07-24,YOSHIMURA Kazuhiro,TAZOE Kenta,4,0,"11,15,11,11|8,13,4,8",,GRAND_SLAM,MS,880,Qualification,YOSHIMURA Kazuhiro (JPN),TAZOE Kenta (JPN),YOSHIMURA Kazuhiro
+World Tour Australian Open Geelong 2018,2018-07-24,LAMBIET Florent,AMOR Kelsey,4,0,"11,11,11,11|7,2,5,4",,GRAND_SLAM,MS,880,Qualification,LAMBIET Florent (BEL),AMOR Kelsey (NZL),LAMBIET Florent
+World Tour Australian Open Geelong 2018,2018-07-24,LANDRIEU Andrea,KIM James,4,0,"11,11,11,11|5,3,7,7",,GRAND_SLAM,MS,880,Qualification,LANDRIEU Andrea (FRA),KIM James (AUS),LANDRIEU Andrea
+World Tour Australian Open Geelong 2018,2018-07-24,PUCAR Tomislav,LEE Seonghun,4,0,"11,11,11,11|5,7,7,8",,GRAND_SLAM,MS,880,Qualification,PUCAR Tomislav (CRO),LEE Seonghun (AUS),PUCAR Tomislav
+World Tour Australian Open Geelong 2018,2018-07-24,HIRANO Yuki,CNUDDE Florian,4,0,"11,11,11,11|8,4,8,4",,GRAND_SLAM,MS,880,Qualification,HIRANO Yuki (JPN),CNUDDE Florian (BEL),HIRANO Yuki
+World Tour Australian Open Geelong 2018,2018-07-24,MINO Alberto,MENG Qi,4,1,"11,11,11,8,11|3,1,1,11,6",,GRAND_SLAM,MS,880,Qualification,MINO Alberto (ECU),MENG Qi (NZL),MINO Alberto
+World Tour Australian Open Geelong 2018,2018-07-24,YANG Heng-Wei,GOULD Benjamin,4,0,"11,11,11,11|3,5,1,6",,GRAND_SLAM,MS,880,Qualification,YANG Heng-Wei (TPE),GOULD Benjamin (AUS),YANG Heng-Wei
+World Tour Australian Open Geelong 2018,2018-07-24,HU Heming,ZHANG Shaoping,4,0,"11,13,12,11|6,11,10,6",,GRAND_SLAM,MS,880,Qualification,HU Heming (AUS),ZHANG Shaoping (AUS),HU Heming
+World Tour Australian Open Geelong 2018,2018-07-24,LIU Dingshuo,ZHAO Anthony,4,0,"11,11,11,11|3,2,4,4",,GRAND_SLAM,MS,880,Qualification,LIU Dingshuo (CHN),ZHAO Anthony (AUS),LIU Dingshuo
+World Tour Australian Open Geelong 2018,2018-07-24,NUYTINCK Cedric,ALLEGRO Martin,4,1,"12,9,13,11,12|10,11,11,4,10",,GRAND_SLAM,MS,880,Qualification,NUYTINCK Cedric (BEL),ALLEGRO Martin (BEL),NUYTINCK Cedric
+World Tour Australian Open Geelong 2018,2018-07-24,RUMGAY Gavin,LARTEY Felix,4,0,"0,0,0,0|0,0,0,0",,GRAND_SLAM,MS,880,Qualification,RUMGAY Gavin (SCO),LARTEY Felix (GHA),RUMGAY Gavin
+World Tour Australian Open Geelong 2018,2018-07-24,ANTHONY Amalraj,ZHANG Raymond,4,0,"12,11,11,11|10,4,6,4",,GRAND_SLAM,MS,880,Qualification,ANTHONY Amalraj (IND),ZHANG Raymond (AUS),ANTHONY Amalraj
+World Tour Australian Open Geelong 2018,2018-07-24,JIN Takuya,MA Victor,4,0,"11,11,11,11|2,8,3,3",,GRAND_SLAM,MS,880,Qualification,JIN Takuya (JPN),MA Victor (NZL),JIN Takuya
+World Tour Australian Open Geelong 2018,2018-07-24,ARINOBU Taimu,SHU Dean,4,1,"10,11,11,11,14|12,3,9,4,12",,GRAND_SLAM,MS,880,Qualification,SHU Dean (NZL),ARINOBU Taimu (JPN),ARINOBU Taimu
+World Tour Australian Open Geelong 2018,2018-07-24,CHEN Chien-An,LEE Chia-Sheng,4,0,"11,11,11,11|6,5,3,4",,GRAND_SLAM,MS,880,Qualification,CHEN Chien-An (TPE),LEE Chia-Sheng (TPE),CHEN Chien-An
+World Tour Australian Open Geelong 2018,2018-07-24,JANG Woojin,CHO Daeseong,4,1,"11,11,11,7,11|7,8,4,11,6",,GRAND_SLAM,MS,880,Qualification,JANG Woojin (KOR),CHO Daeseong (KOR),JANG Woojin
+World Tour Australian Open Geelong 2018,2018-07-24,THAKKAR Manav,ABREFA Derek,4,0,"0,0,0,0|0,0,0,0",,GRAND_SLAM,MS,880,Qualification,ABREFA Derek (GHA),THAKKAR Manav (IND),THAKKAR Manav
+World Tour Australian Open Geelong 2018,2018-07-24,AN Jaehyun,SAM Bernard,4,0,"0,0,0,0|0,0,0,0",,GRAND_SLAM,MS,880,Qualification,AN Jaehyun (KOR),SAM Bernard (GHA),AN Jaehyun
+World Tour Australian Open Geelong 2018,2018-07-24,MATSUDAIRA Shiho,DAS Mouma,4,2,"9,11,11,7,11,11|11,8,8,11,8,7",,GRAND_SLAM,WS,880,Qualification,DAS Mouma (IND),MATSUDAIRA Shiho (JPN),MATSUDAIRA Shiho
+World Tour Australian Open Geelong 2018,2018-07-24,HE Zhuojia,LIN Chia-Hui,4,0,"11,11,11,11|3,6,4,3",,GRAND_SLAM,WS,880,Qualification,HE Zhuojia (CHN),LIN Chia-Hui (TPE),HE Zhuojia
+World Tour Australian Open Geelong 2018,2018-07-24,LI Jiayi,FAN Siqi,4,1,"11,12,11,11,11|13,10,6,7,8",,GRAND_SLAM,WS,880,Qualification,LI Jiayi (CHN),FAN Siqi (CHN),LI Jiayi
+World Tour Australian Open Geelong 2018,2018-07-24,SAHASRABUDHE Pooja,LIU Hsing-Yin,4,3,"11,9,7,11,11,8,11|9,11,11,9,7,11,8",,GRAND_SLAM,WS,880,Qualification,LIU Hsing-Yin (TPE),SAHASRABUDHE Pooja (IND),SAHASRABUDHE Pooja
+World Tour Australian Open Geelong 2018,2018-07-24,CHE Xiaoxi,SHIN Yubin,4,0,"11,14,11,11|2,12,6,8",,GRAND_SLAM,WS,880,Qualification,CHE Xiaoxi (CHN),SHIN Yubin (KOR),CHE Xiaoxi
+World Tour Australian Open Geelong 2018,2018-07-24,PATKAR Madhurika,BAAH-DANSO Celia,4,0,"0,0,0,0|0,0,0,0",,GRAND_SLAM,WS,880,Qualification,PATKAR Madhurika (IND),BAAH-DANSO Celia (GHA),PATKAR Madhurika
+World Tour Australian Open Geelong 2018,2018-07-24,SUZUKI Rika,CHENG Zhiying,4,0,"11,11,11,11|2,3,4,4",,GRAND_SLAM,WS,880,Qualification,SUZUKI Rika (JPN),CHENG Zhiying (NZL),SUZUKI Rika
+World Tour Australian Open Geelong 2018,2018-07-24,VARADY Barbora,GYASI Beatrice,4,0,"0,0,0,0|0,0,0,0",,GRAND_SLAM,WS,880,Qualification,VARADY Barbora (SVK),GYASI Beatrice (GHA),VARADY Barbora
+World Tour Australian Open Geelong 2018,2018-07-24,LIU Weishan,ZHOU Yihan,4,1,"9,11,11,11,11|11,4,8,4,3",,GRAND_SLAM,WS,880,Qualification,ZHOU Yihan (SGP),LIU Weishan (CHN),LIU Weishan
+World Tour Australian Open Geelong 2018,2018-07-24,DVORAK Galia,QUAH Chermaine,4,0,"11,11,11,11|4,5,3,7",,GRAND_SLAM,WS,880,Qualification,DVORAK Galia (ESP),QUAH Chermaine (AUS),DVORAK Galia
+World Tour Australian Open Geelong 2018,2018-07-24,JEE Minhyung,SHAO Jieni,4,2,"11,1,11,11,5,13|3,11,7,9,11,11",,GRAND_SLAM,WS,880,Qualification,SHAO Jieni (POR),JEE Minhyung (AUS),JEE Minhyung
+World Tour Australian Open Geelong 2018,2018-07-24,LIN Chia-Hsuan,NIE Mingxuan,4,0,"11,11,11,11|2,1,2,3",,GRAND_SLAM,WS,880,Qualification,LIN Chia-Hsuan (TPE),NIE Mingxuan (AUS),LIN Chia-Hsuan
+World Tour Australian Open Geelong 2018,2018-07-24,MUKHERJEE Sutirtha,MUKHERJEE Ayhika,4,1,"9,11,11,11,11|11,9,5,9,8",,GRAND_SLAM,WS,880,Qualification,MUKHERJEE Ayhika (IND),MUKHERJEE Sutirtha (IND),MUKHERJEE Sutirtha
+World Tour Australian Open Geelong 2018,2018-07-24,MORIZONO Mizuki,KWABI Cynthia,4,0,"0,0,0,0|0,0,0,0",,GRAND_SLAM,WS,880,Qualification,MORIZONO Mizuki (JPN),KWABI Cynthia (GHA),MORIZONO Mizuki
+World Tour Australian Open Geelong 2018,2018-07-24,MATSUZAWA Marina,NAGASAKI Miyu,4,3,"8,10,11,12,10,11,11|11,12,3,10,12,8,7",,GRAND_SLAM,WS,880,Qualification,NAGASAKI Miyu (JPN),MATSUZAWA Marina (JPN),MATSUZAWA Marina
+World Tour Australian Open Geelong 2018,2018-07-24,ODO Satsuki,KIHARA Miyuu,4,2,"11,13,12,6,2,11|9,11,10,11,11,3",,GRAND_SLAM,WS,880,Qualification,ODO Satsuki (JPN),KIHARA Miyuu (JPN),ODO Satsuki
+World Tour Australian Open Geelong 2018,2018-07-24,ROBLES Alvaro,KIM James,4,0,"11,11,11,11|2,3,3,1",,GRAND_SLAM,MS,880,Qualification,ROBLES Alvaro (ESP),KIM James (AUS),ROBLES Alvaro
+World Tour Australian Open Geelong 2018,2018-07-24,PISTEJ Lubomir,DIXON Xavier,4,2,"11,5,11,9,11,11|3,11,7,11,5,5",,GRAND_SLAM,MS,880,Qualification,PISTEJ Lubomir (SVK),DIXON Xavier (AUS),PISTEJ Lubomir
+World Tour Australian Open Geelong 2018,2018-07-24,KIM Donghyun,XU Nathan,4,1,"11,8,11,11,11|7,11,4,5,4",,GRAND_SLAM,MS,880,Qualification,KIM Donghyun (KOR),XU Nathan (NZL),KIM Donghyun
+World Tour Australian Open Geelong 2018,2018-07-24,GAO Ning,LUU Finn,4,1,"11,11,11,11,11|8,0,13,2,6",,GRAND_SLAM,MS,880,Qualification,GAO Ning (SGP),LUU Finn (AUS),GAO Ning
+World Tour Australian Open Geelong 2018,2018-07-24,TAZOE Kenta,LUU Skyy,4,0,"11,11,11,11|3,2,2,1",,GRAND_SLAM,MS,880,Qualification,LUU Skyy (AUS),TAZOE Kenta (JPN),TAZOE Kenta
+World Tour Australian Open Geelong 2018,2018-07-24,KALLBERG Anton,AMOR Kelsey,4,0,"11,11,11,11|6,6,4,5",,GRAND_SLAM,MS,880,Qualification,KALLBERG Anton (SWE),AMOR Kelsey (NZL),KALLBERG Anton
+World Tour Australian Open Geelong 2018,2018-07-24,DESAI Harmeet,VON EINEM Samuel,4,0,"11,11,11,11|6,7,6,5",,GRAND_SLAM,MS,880,Qualification,DESAI Harmeet (IND),VON EINEM Samuel (AUS),DESAI Harmeet
+World Tour Australian Open Geelong 2018,2018-07-24,DYJAS Jakub,LEE Seonghun,4,0,"11,11,11,11|9,6,4,6",,GRAND_SLAM,MS,880,Qualification,DYJAS Jakub (POL),LEE Seonghun (AUS),DYJAS Jakub
+World Tour Australian Open Geelong 2018,2018-07-24,LIAO Cheng-Ting,ZHAO Anthony,4,0,"11,11,11,11|6,3,2,5",,GRAND_SLAM,MS,880,Qualification,LIAO Cheng-Ting (TPE),ZHAO Anthony (AUS),LIAO Cheng-Ting
+World Tour Australian Open Geelong 2018,2018-07-24,GNANASEKARAN Sathiyan,ZHANG Shaoping,4,0,"11,11,11,11|4,2,4,4",,GRAND_SLAM,MS,880,Qualification,GNANASEKARAN Sathiyan (IND),ZHANG Shaoping (AUS),GNANASEKARAN Sathiyan
+World Tour Australian Open Geelong 2018,2018-07-24,DUDA Benedikt,CNUDDE Florian,4,0,"11,11,12,11|7,3,10,8",,GRAND_SLAM,MS,880,Qualification,DUDA Benedikt (GER),CNUDDE Florian (BEL),DUDA Benedikt
+World Tour Australian Open Geelong 2018,2018-07-24,ACHANTA Sharath,GOULD Benjamin,4,0,"11,11,11,11|6,5,2,2",,GRAND_SLAM,MS,880,Qualification,ACHANTA Sharath (IND),GOULD Benjamin (AUS),ACHANTA Sharath
+World Tour Australian Open Geelong 2018,2018-07-24,WALTHER Ricardo,LARTEY Felix,4,0,"0,0,0,0|0,0,0,0",,GRAND_SLAM,MS,880,Qualification,WALTHER Ricardo (GER),LARTEY Felix (GHA),WALTHER Ricardo
+World Tour Australian Open Geelong 2018,2018-07-24,ALLEGRO Martin,LUM Nicholas,4,0,"11,11,11,11|7,6,7,9",,GRAND_SLAM,MS,880,Qualification,LUM Nicholas (AUS),ALLEGRO Martin (BEL),ALLEGRO Martin
+World Tour Australian Open Geelong 2018,2018-07-24,LIN Yun-Ju,MENG Qi,4,0,"11,11,11,11|6,6,8,2",,GRAND_SLAM,MS,880,Qualification,LIN Yun-Ju (TPE),MENG Qi (NZL),LIN Yun-Ju
+World Tour Australian Open Geelong 2018,2018-07-24,MORIZONO Masataka,ZHANG Raymond,4,0,"11,11,11,11|2,3,4,2",,GRAND_SLAM,MS,880,Qualification,MORIZONO Masataka (JPN),ZHANG Raymond (AUS),MORIZONO Masataka
+World Tour Australian Open Geelong 2018,2018-07-24,ARINOBU Taimu,APOLONIA Tiago,4,2,"11,11,5,5,11,11|8,7,11,11,8,8",,GRAND_SLAM,MS,880,Qualification,APOLONIA Tiago (POR),ARINOBU Taimu (JPN),ARINOBU Taimu
+World Tour Australian Open Geelong 2018,2018-07-24,YU Ziyang,CHO Daeseong,4,3,"7,9,11,11,11,9,11|11,11,5,5,7,11,7",,GRAND_SLAM,MS,880,Qualification,YU Ziyang (CHN),CHO Daeseong (KOR),YU Ziyang
+World Tour Australian Open Geelong 2018,2018-07-24,JEOUNG Youngsik,MA Victor,4,0,"11,11,11,11|4,2,7,9",,GRAND_SLAM,MS,880,Qualification,JEOUNG Youngsik (KOR),MA Victor (NZL),JEOUNG Youngsik
+World Tour Australian Open Geelong 2018,2018-07-24,TOWNSEND Kane,LEE Chia-Sheng,4,1,"11,6,12,11,11|9,11,10,5,8",,GRAND_SLAM,MS,880,Qualification,TOWNSEND Kane (AUS),LEE Chia-Sheng (TPE),TOWNSEND Kane
+World Tour Australian Open Geelong 2018,2018-07-24,OSHIMA Yuya,SAM Bernard,4,0,"0,0,0,0|0,0,0,0",,GRAND_SLAM,MS,880,Qualification,OSHIMA Yuya (JPN),SAM Bernard (GHA),OSHIMA Yuya
+World Tour Australian Open Geelong 2018,2018-07-24,YOSHIMURA Maharu,THAKKAR Manav,4,0,"11,11,11,11|2,6,4,4",,GRAND_SLAM,MS,880,Qualification,YOSHIMURA Maharu (JPN),THAKKAR Manav (IND),YOSHIMURA Maharu
+World Tour Australian Open Geelong 2018,2018-07-24,YANG Ha Eun,SAHASRABUDHE Pooja,4,0,"11,11,11,11|6,4,4,4",,GRAND_SLAM,WS,880,Qualification,YANG Ha Eun (KOR),SAHASRABUDHE Pooja (IND),YANG Ha Eun
+World Tour Australian Open Geelong 2018,2018-07-24,YU Mengyu,MATSUDAIRA Shiho,4,1,"11,11,11,7,11|5,6,5,11,7",,GRAND_SLAM,WS,880,Qualification,YU Mengyu (SGP),MATSUDAIRA Shiho (JPN),YU Mengyu
+World Tour Australian Open Geelong 2018,2018-07-24,LI Jie,CHENG Zhiying,4,0,"11,11,11,11|2,2,3,1",,GRAND_SLAM,WS,880,Qualification,LI Jie (NED),CHENG Zhiying (NZL),LI Jie
+World Tour Australian Open Geelong 2018,2018-07-24,FAN Siqi,HASHIMOTO Honoka,4,0,"11,11,12,11|9,4,10,9",,GRAND_SLAM,WS,880,Qualification,HASHIMOTO Honoka (JPN),FAN Siqi (CHN),FAN Siqi
+World Tour Australian Open Geelong 2018,2018-07-24,ZENG Jian,BAAH-DANSO Celia,4,0,"0,0,0,0|0,0,0,0",,GRAND_SLAM,WS,880,Qualification,ZENG Jian (SGP),BAAH-DANSO Celia (GHA),ZENG Jian
+World Tour Australian Open Geelong 2018,2018-07-24,LIN Chia-Hui,SHIOMI Maki,4,2,"11,11,8,7,15,11|7,9,11,11,13,8",,GRAND_SLAM,WS,880,Qualification,SHIOMI Maki (JPN),LIN Chia-Hui (TPE),LIN Chia-Hui
+World Tour Australian Open Geelong 2018,2018-07-24,MESHREF Dina,GYASI Beatrice,4,0,"0,0,0,0|0,0,0,0",,GRAND_SLAM,WS,880,Qualification,MESHREF Dina (EGY),GYASI Beatrice (GHA),MESHREF Dina
+World Tour Australian Open Geelong 2018,2018-07-24,HAMAMOTO Yui,SHIN Yubin,4,2,"14,8,8,11,11,11|12,11,11,8,8,6",,GRAND_SLAM,WS,880,Qualification,HAMAMOTO Yui (AUT),SHIN Yubin (KOR),HAMAMOTO Yui
+World Tour Australian Open Geelong 2018,2018-07-24,MATSUZAWA Marina,KAUR Parleen,4,0,"11,11,11,11|6,3,8,1",,GRAND_SLAM,WS,880,Qualification,KAUR Parleen (AUS),MATSUZAWA Marina (JPN),MATSUZAWA Marina
+World Tour Australian Open Geelong 2018,2018-07-24,KIHARA Miyuu,WU Michelle,4,2,"9,11,11,11,8,11|11,5,5,8,11,3",,GRAND_SLAM,WS,880,Qualification,WU Michelle (AUS),KIHARA Miyuu (JPN),KIHARA Miyuu
+World Tour Australian Open Geelong 2018,2018-07-24,LIN Ye,NIE Mingxuan,4,0,"11,11,11,11|5,6,2,5",,GRAND_SLAM,WS,880,Qualification,LIN Ye (CAN),NIE Mingxuan (AUS),LIN Ye
+World Tour Australian Open Geelong 2018,2018-07-24,ANDO Minami,LIU Weishan,4,0,"11,11,11,12|9,6,4,10",,GRAND_SLAM,WS,880,Qualification,ANDO Minami (JPN),LIU Weishan (CHN),ANDO Minami
+World Tour Australian Open Geelong 2018,2018-07-24,SAWETTABUT Suthasini,KWABI Cynthia,4,0,"0,0,0,0|0,0,0,0",,GRAND_SLAM,WS,880,Qualification,SAWETTABUT Suthasini (THA),KWABI Cynthia (GHA),SAWETTABUT Suthasini
+World Tour Australian Open Geelong 2018,2018-07-24,CHOI Hyojoo,JEE Minhyung,4,2,"12,11,9,11,11,11|14,7,11,4,5,1",,GRAND_SLAM,WS,880,Qualification,CHOI Hyojoo (KOR),JEE Minhyung (AUS),CHOI Hyojoo
+World Tour Australian Open Geelong 2018,2018-07-24,BATRA Manika,QUAH Chermaine,4,0,"11,11,11,11|9,5,4,7",,GRAND_SLAM,WS,880,Qualification,BATRA Manika (IND),QUAH Chermaine (AUS),BATRA Manika
+World Tour Australian Open Geelong 2018,2018-07-24,CHENG Hsien-Tzu,MUKHERJEE Sutirtha,4,1,"11,5,11,11,11|6,11,4,3,3",,GRAND_SLAM,WS,880,Qualification,CHENG Hsien-Tzu (TPE),MUKHERJEE Sutirtha (IND),CHENG Hsien-Tzu
+World Tour Australian Open Geelong 2018,2018-07-24,LAMBIET Florent,KALLBERG Anton,4,2,"11,14,11,8,9,18|9,12,6,11,11,16",,GRAND_SLAM,MS,880,Qualification,KALLBERG Anton (SWE),LAMBIET Florent (BEL),LAMBIET Florent
+World Tour Australian Open Geelong 2018,2018-07-24,ROBLES Alvaro,LANDRIEU Andrea,4,0,"11,11,11,12|6,2,6,10",,GRAND_SLAM,MS,880,Qualification,ROBLES Alvaro (ESP),LANDRIEU Andrea (FRA),ROBLES Alvaro
+World Tour Australian Open Geelong 2018,2018-07-24,ZHOU Yu,DESAI Harmeet,4,2,"12,7,11,11,8,11|10,11,5,2,11,4",,GRAND_SLAM,MS,880,Qualification,DESAI Harmeet (IND),ZHOU Yu (CHN),ZHOU Yu
+World Tour Australian Open Geelong 2018,2018-07-24,PUCAR Tomislav,DYJAS Jakub,4,1,"11,6,11,11,11|9,11,8,8,6",,GRAND_SLAM,MS,880,Qualification,DYJAS Jakub (POL),PUCAR Tomislav (CRO),PUCAR Tomislav
+World Tour Australian Open Geelong 2018,2018-07-24,YOSHIMURA Kazuhiro,LUU Skyy,4,0,"0,0,0,0|0,0,0,0",,GRAND_SLAM,MS,880,Qualification,LUU Skyy (AUS),YOSHIMURA Kazuhiro (JPN),YOSHIMURA Kazuhiro
+World Tour Australian Open Geelong 2018,2018-07-24,UDA Yukiya,GAO Ning,4,0,"11,11,11,11|8,9,8,7",,GRAND_SLAM,MS,880,Qualification,GAO Ning (SGP),UDA Yukiya (JPN),UDA Yukiya
+World Tour Australian Open Geelong 2018,2018-07-24,KIM Donghyun,SHETTY Sanil,4,2,"11,11,6,11,8,11|5,7,11,5,11,7",,GRAND_SLAM,MS,880,Qualification,KIM Donghyun (KOR),SHETTY Sanil (IND),KIM Donghyun
+World Tour Australian Open Geelong 2018,2018-07-24,PISTEJ Lubomir,ROBINOT Quentin,4,3,"7,12,11,11,8,11,11|11,10,9,13,11,9,5",,GRAND_SLAM,MS,880,Qualification,PISTEJ Lubomir (SVK),ROBINOT Quentin (FRA),PISTEJ Lubomir
+World Tour Australian Open Geelong 2018,2018-07-24,HIRANO Yuki,DUDA Benedikt,4,1,"7,11,11,11,11|11,9,9,8,6",,GRAND_SLAM,MS,880,Qualification,DUDA Benedikt (GER),HIRANO Yuki (JPN),HIRANO Yuki
+World Tour Australian Open Geelong 2018,2018-07-24,GNANASEKARAN Sathiyan,HU Heming,4,0,"11,11,11,11|5,2,8,7",,GRAND_SLAM,MS,880,Qualification,GNANASEKARAN Sathiyan (IND),HU Heming (AUS),GNANASEKARAN Sathiyan
+World Tour Australian Open Geelong 2018,2018-07-24,LIU Dingshuo,LIAO Cheng-Ting,4,0,"11,11,11,12|7,7,9,10",,GRAND_SLAM,MS,880,Qualification,LIAO Cheng-Ting (TPE),LIU Dingshuo (CHN),LIU Dingshuo
+World Tour Australian Open Geelong 2018,2018-07-24,ACHANTA Sharath,YANG Heng-Wei,4,0,"11,11,11,11|6,6,6,8",,GRAND_SLAM,MS,880,Qualification,ACHANTA Sharath (IND),YANG Heng-Wei (TPE),ACHANTA Sharath
+World Tour Australian Open Geelong 2018,2018-07-24,WALTHER Ricardo,RUMGAY Gavin,4,2,"8,11,11,11,3,11|11,7,7,4,11,8",,GRAND_SLAM,MS,880,Qualification,WALTHER Ricardo (GER),RUMGAY Gavin (SCO),WALTHER Ricardo
+World Tour Australian Open Geelong 2018,2018-07-24,NUYTINCK Cedric,LUM Nicholas,4,1,"8,11,11,11,11|11,5,6,5,5",,GRAND_SLAM,MS,880,Qualification,LUM Nicholas (AUS),NUYTINCK Cedric (BEL),NUYTINCK Cedric
+World Tour Australian Open Geelong 2018,2018-07-24,LIN Yun-Ju,MINO Alberto,4,0,"11,11,11,11|1,4,6,9",,GRAND_SLAM,MS,880,Qualification,LIN Yun-Ju (TPE),MINO Alberto (ECU),LIN Yun-Ju
+World Tour Australian Open Geelong 2018,2018-07-24,MORIZONO Masataka,ANTHONY Amalraj,4,2,"11,7,11,11,8,11|5,11,8,7,11,1",,GRAND_SLAM,MS,880,Qualification,MORIZONO Masataka (JPN),ANTHONY Amalraj (IND),MORIZONO Masataka
+World Tour Australian Open Geelong 2018,2018-07-24,OSHIMA Yuya,AN Jaehyun,4,3,"11,11,7,4,11,11,11|7,13,11,11,8,1,9",,GRAND_SLAM,MS,880,Qualification,OSHIMA Yuya (JPN),AN Jaehyun (KOR),OSHIMA Yuya
+World Tour Australian Open Geelong 2018,2018-07-24,CHEN Chien-An,TOWNSEND Kane,4,2,"10,11,11,11,11,11|12,5,13,2,7,5",,GRAND_SLAM,MS,880,Qualification,TOWNSEND Kane (AUS),CHEN Chien-An (TPE),CHEN Chien-An
+World Tour Australian Open Geelong 2018,2018-07-24,YU Ziyang,JANG Woojin,4,3,"8,13,12,6,13,8,11|11,11,10,11,11,11,9",,GRAND_SLAM,MS,880,Qualification,YU Ziyang (CHN),JANG Woojin (KOR),YU Ziyang
+World Tour Australian Open Geelong 2018,2018-07-24,APOLONIA Tiago,SHU Dean,4,0,"11,11,11,11|2,7,9,4",,GRAND_SLAM,MS,880,Qualification,APOLONIA Tiago (POR),SHU Dean (NZL),APOLONIA Tiago
+World Tour Australian Open Geelong 2018,2018-07-24,YOSHIMURA Maharu,ABREFA Derek,4,0,"0,0,0,0|0,0,0,0",,GRAND_SLAM,MS,880,Qualification,YOSHIMURA Maharu (JPN),ABREFA Derek (GHA),YOSHIMURA Maharu
+World Tour Australian Open Geelong 2018,2018-07-24,JEOUNG Youngsik,JIN Takuya,4,0,"11,15,11,13|9,13,6,11",,GRAND_SLAM,MS,880,Qualification,JEOUNG Youngsik (KOR),JIN Takuya (JPN),JEOUNG Youngsik
+World Tour Australian Open Geelong 2018,2018-07-24,LIU Hsing-Yin,YANG Ha Eun,4,3,"7,8,11,11,11,11,14|11,11,8,9,9,13,12",,GRAND_SLAM,WS,880,Qualification,YANG Ha Eun (KOR),LIU Hsing-Yin (TPE),LIU Hsing-Yin
+World Tour Australian Open Geelong 2018,2018-07-24,HAMAMOTO Yui,CHE Xiaoxi,4,0,"11,11,11,11|5,9,7,5",,GRAND_SLAM,WS,880,Qualification,HAMAMOTO Yui (AUT),CHE Xiaoxi (CHN),HAMAMOTO Yui
+World Tour Australian Open Geelong 2018,2018-07-24,VARADY Barbora,MESHREF Dina,4,0,"11,11,11,12|6,8,9,10",,GRAND_SLAM,WS,880,Qualification,MESHREF Dina (EGY),VARADY Barbora (SVK),VARADY Barbora
+World Tour Australian Open Geelong 2018,2018-07-24,YU Mengyu,DAS Mouma,4,1,"11,11,11,12,11|6,7,7,14,8",,GRAND_SLAM,WS,880,Qualification,YU Mengyu (SGP),DAS Mouma (IND),YU Mengyu
+World Tour Australian Open Geelong 2018,2018-07-24,ZENG Jian,PATKAR Madhurika,4,0,"11,11,11,11|5,7,0,8",,GRAND_SLAM,WS,880,Qualification,ZENG Jian (SGP),PATKAR Madhurika (IND),ZENG Jian
+World Tour Australian Open Geelong 2018,2018-07-24,LI Jie,SUZUKI Rika,4,0,"11,11,11,11|8,6,4,9",,GRAND_SLAM,WS,880,Qualification,LI Jie (NED),SUZUKI Rika (JPN),LI Jie
+World Tour Australian Open Geelong 2018,2018-07-24,LI Jiayi,HASHIMOTO Honoka,4,3,"11,11,5,9,11,8,11|3,5,11,11,7,11,8",,GRAND_SLAM,WS,880,Qualification,HASHIMOTO Honoka (JPN),LI Jiayi (CHN),LI Jiayi
+World Tour Australian Open Geelong 2018,2018-07-24,HE Zhuojia,SHIOMI Maki,4,0,"11,11,11,11|5,1,8,7",,GRAND_SLAM,WS,880,Qualification,SHIOMI Maki (JPN),HE Zhuojia (CHN),HE Zhuojia
+World Tour Australian Open Geelong 2018,2018-07-24,SAWETTABUT Suthasini,MORIZONO Mizuki,4,3,"9,8,12,14,5,12,11|11,11,10,12,11,10,3",,GRAND_SLAM,WS,880,Qualification,SAWETTABUT Suthasini (THA),MORIZONO Mizuki (JPN),SAWETTABUT Suthasini
+World Tour Australian Open Geelong 2018,2018-07-24,NAGASAKI Miyu,KAUR Parleen,4,0,"11,11,11,11|5,4,4,3",,GRAND_SLAM,WS,880,Qualification,KAUR Parleen (AUS),NAGASAKI Miyu (JPN),NAGASAKI Miyu
+World Tour Australian Open Geelong 2018,2018-07-24,CHOI Hyojoo,SHAO Jieni,4,0,"11,11,11,11|6,8,5,7",,GRAND_SLAM,WS,880,Qualification,CHOI Hyojoo (KOR),SHAO Jieni (POR),CHOI Hyojoo
+World Tour Australian Open Geelong 2018,2018-07-24,BATRA Manika,DVORAK Galia,4,1,"11,13,11,7,11|9,11,6,11,9",,GRAND_SLAM,WS,880,Qualification,BATRA Manika (IND),DVORAK Galia (ESP),BATRA Manika
+World Tour Australian Open Geelong 2018,2018-07-24,ANDO Minami,ZHOU Yihan,4,0,"11,11,11,11|4,5,7,7",,GRAND_SLAM,WS,880,Qualification,ANDO Minami (JPN),ZHOU Yihan (SGP),ANDO Minami
+World Tour Australian Open Geelong 2018,2018-07-24,LIN Ye,LIN Chia-Hsuan,4,3,"3,7,11,11,7,11,11|11,11,6,9,11,9,4",,GRAND_SLAM,WS,880,Qualification,LIN Ye (CAN),LIN Chia-Hsuan (TPE),LIN Ye
+World Tour Australian Open Geelong 2018,2018-07-24,CHENG Hsien-Tzu,MUKHERJEE Ayhika,4,1,"12,6,11,11,11|10,11,9,2,8",,GRAND_SLAM,WS,880,Qualification,CHENG Hsien-Tzu (TPE),MUKHERJEE Ayhika (IND),CHENG Hsien-Tzu
+World Tour Australian Open Geelong 2018,2018-07-24,ODO Satsuki,WU Michelle,4,0,"11,11,11,11|5,5,3,5",,GRAND_SLAM,WS,880,Qualification,WU Michelle (AUS),ODO Satsuki (JPN),ODO Satsuki
+World Tour Australian Open Geelong 2018,2018-07-24,WALTHER Ricardo,PUCAR Tomislav,4,1,"13,11,6,12,11|11,8,11,10,7",QR16,GRAND_SLAM,MS,880,Qualification,WALTHER Ricardo (GER),PUCAR Tomislav (CRO),WALTHER Ricardo
+World Tour Australian Open Geelong 2018,2018-07-24,ZHOU Yu,NUYTINCK Cedric,4,0,"11,12,11,11|8,10,3,3",QR16,GRAND_SLAM,MS,880,Qualification,NUYTINCK Cedric (BEL),ZHOU Yu (CHN),ZHOU Yu
+World Tour Australian Open Geelong 2018,2018-07-24,KIM Donghyun,UDA Yukiya,4,2,"9,10,11,11,12,11|11,12,7,8,10,7",QR16,GRAND_SLAM,MS,880,Qualification,UDA Yukiya (JPN),KIM Donghyun (KOR),KIM Donghyun
+World Tour Australian Open Geelong 2018,2018-07-24,MORIZONO Masataka,YOSHIMURA Kazuhiro,4,1,"8,11,11,11,11|11,7,6,8,5",QR16,GRAND_SLAM,MS,880,Qualification,MORIZONO Masataka (JPN),YOSHIMURA Kazuhiro (JPN),MORIZONO Masataka
+World Tour Australian Open Geelong 2018,2018-07-24,ROBLES Alvaro,PISTEJ Lubomir,4,3,"11,6,18,11,8,14,11|7,11,16,7,11,16,3",QR16,GRAND_SLAM,MS,880,Qualification,ROBLES Alvaro (ESP),PISTEJ Lubomir (SVK),ROBLES Alvaro
+World Tour Australian Open Geelong 2018,2018-07-24,LIN Yun-Ju,LAMBIET Florent,4,1,"9,11,13,11,11|11,8,11,8,9",QR16,GRAND_SLAM,MS,880,Qualification,LIN Yun-Ju (TPE),LAMBIET Florent (BEL),LIN Yun-Ju
+World Tour Australian Open Geelong 2018,2018-07-24,DYJAS Jakub/ROBLES Alvaro,DIXON Xavier/LUU Finn,3,0,"11,11,11|2,4,4",QR16,GRAND_SLAM,MD,880,Qualification,DYJAS Jakub (POL) / ROBLES Alvaro (ESP),DIXON Xavier (AUS) / LUU Finn (AUS),DYJAS Jakub
+World Tour Australian Open Geelong 2018,2018-07-24,CALDERANO Hugo/GAUZY Simon,SHU Dean/XU Nathan,3,0,"11,11,11|7,6,7",QR16,GRAND_SLAM,MD,880,Qualification,CALDERANO Hugo (BRA) / GAUZY Simon (FRA),SHU Dean (NZL) / XU Nathan (NZL),CALDERANO Hugo
+World Tour Australian Open Geelong 2018,2018-07-24,NUYTINCK Cedric/ROBINOT Quentin,VON EINEM Samuel/ZHANG Raymond,3,0,"11,11,11|3,1,2",QR16,GRAND_SLAM,MD,880,Qualification,NUYTINCK Cedric (BEL) / ROBINOT Quentin (FRA),VON EINEM Samuel (AUS) / ZHANG Raymond (AUS),NUYTINCK Cedric
+World Tour Australian Open Geelong 2018,2018-07-24,ANTHONY Amalraj/THAKKAR Manav,ABREFA Derek/LARTEY Felix,3,0,"0,0,0|0,0,0",QR16,GRAND_SLAM,MD,880,Qualification,ANTHONY Amalraj (IND) / THAKKAR Manav (IND),ABREFA Derek (GHA) / LARTEY Felix (GHA),ANTHONY Amalraj
+World Tour Australian Open Geelong 2018,2018-07-24,LEE Sang Su/JEON Jihee,ANTHONY Amalraj/PATKAR Madhurika,3,0,"11,11,11|9,8,9",R16,GRAND_SLAM,XD,880,Main Draw,LEE Sang Su (KOR) / JEON Jihee (KOR),ANTHONY Amalraj (IND) / PATKAR Madhurika (IND),LEE Sang Su
+World Tour Australian Open Geelong 2018,2018-07-24,PISTEJ Lubomir/VARADY Barbora,ROBLES Alvaro/DVORAK Galia,3,0,"11,11,11|7,4,7",R16,GRAND_SLAM,XD,880,Main Draw,PISTEJ Lubomir (SVK) / VARADY Barbora (SVK),ROBLES Alvaro (ESP) / DVORAK Galia (ESP),PISTEJ Lubomir
+World Tour Australian Open Geelong 2018,2018-07-24,GAO Ning/YU Mengyu,GOULD Benjamin/JEE Minhyung,3,1,"7,11,13,11|11,8,11,9",R16,GRAND_SLAM,XD,880,Main Draw,GAO Ning (SGP) / YU Mengyu (SGP),GOULD Benjamin (AUS) / JEE Minhyung (AUS),GAO Ning
+World Tour Australian Open Geelong 2018,2018-07-24,LIM Jonghoon/YANG Ha Eun,SHU Dean/CHENG Zhiying,3,0,"11,11,11|3,2,3",R16,GRAND_SLAM,XD,880,Main Draw,LIM Jonghoon (KOR) / YANG Ha Eun (KOR),SHU Dean (NZL) / CHENG Zhiying (NZL),LIM Jonghoon
+World Tour Australian Open Geelong 2018,2018-07-24,CHEN Chien-An/CHENG I-Ching,ZHOU Yu/CHE Xiaoxi,3,0,"11,11,11|9,8,7",R16,GRAND_SLAM,XD,880,Main Draw,CHEN Chien-An (TPE) / CHENG I-Ching (TPE),ZHOU Yu (CHN) / CHE Xiaoxi (CHN),CHEN Chien-An
+World Tour Australian Open Geelong 2018,2018-07-24,YOSHIMURA Maharu/ISHIKAWA Kasumi,ACHANTA Sharath/BATRA Manika,3,1,"6,11,11,11|11,9,3,7",R16,GRAND_SLAM,XD,880,Main Draw,YOSHIMURA Maharu (JPN) / ISHIKAWA Kasumi (JPN),ACHANTA Sharath (IND) / BATRA Manika (IND),YOSHIMURA Maharu
+World Tour Australian Open Geelong 2018,2018-07-24,TOWNSEND Kane/KAUR Parleen,SAM Bernard/BAAH-DANSO Celia,3,0,"0,0,0|0,0,0",R16,GRAND_SLAM,XD,880,Main Draw,TOWNSEND Kane (AUS) / KAUR Parleen (AUS),SAM Bernard (GHA) / BAAH-DANSO Celia (GHA),TOWNSEND Kane
+World Tour Australian Open Geelong 2018,2018-07-24,CHUANG Chih-Yuan/CHEN Szu-Yu,ABREFA Derek/KWABI Cynthia,3,0,"0,0,0|0,0,0",R16,GRAND_SLAM,XD,880,Main Draw,CHUANG Chih-Yuan (TPE) / CHEN Szu-Yu (TPE),ABREFA Derek (GHA) / KWABI Cynthia (GHA),CHUANG Chih-Yuan
+World Tour Australian Open Geelong 2018,2018-07-24,JEON Jihee/YANG Ha Eun,MUKHERJEE Sutirtha/SAHASRABUDHE Pooja,3,0,"11,11,11|7,8,3",R16,GRAND_SLAM,WD,880,Main Draw,JEON Jihee (KOR) / YANG Ha Eun (KOR),MUKHERJEE Sutirtha (IND) / SAHASRABUDHE Pooja (IND),JEON Jihee
+World Tour Australian Open Geelong 2018,2018-07-24,HIRANO Miu/NAGASAKI Miyu,CHOI Hyojoo/SHIN Yubin,3,2,"9,11,4,11,11|11,8,11,9,9",R16,GRAND_SLAM,WD,880,Main Draw,HIRANO Miu (JPN) / NAGASAKI Miyu (JPN),CHOI Hyojoo (KOR) / SHIN Yubin (KOR),HIRANO Miu
+World Tour Australian Open Geelong 2018,2018-07-24,GU Yuting/LI Jiayi,VARADY Barbora/DVORAK Galia,3,0,"11,11,11|7,8,8",R16,GRAND_SLAM,WD,880,Main Draw,GU Yuting (CHN) / LI Jiayi (CHN),VARADY Barbora (SVK) / DVORAK Galia (ESP),GU Yuting
+World Tour Australian Open Geelong 2018,2018-07-24,HAYATA Hina/ITO Mima,YU Mengyu/ZHOU Yihan,3,0,"0,0,0|0,0,0",R16,GRAND_SLAM,WD,880,Main Draw,HAYATA Hina (JPN) / ITO Mima (JPN),YU Mengyu (SGP) / ZHOU Yihan (SGP),HAYATA Hina
+World Tour Australian Open Geelong 2018,2018-07-24,LIN Ye/ZENG Jian,JEE Minhyung/NIE Mingxuan,3,0,"11,13,11|6,11,4",R16,GRAND_SLAM,WD,880,Main Draw,LIN Ye (CAN) / ZENG Jian (SGP),JEE Minhyung (AUS) / NIE Mingxuan (AUS),LIN Ye
+World Tour Australian Open Geelong 2018,2018-07-24,HASHIMOTO Honoka/SATO Hitomi,BAAH-DANSO Celia/KWABI Cynthia,3,0,"0,0,0|0,0,0",R16,GRAND_SLAM,WD,880,Main Draw,HASHIMOTO Honoka (JPN) / SATO Hitomi (JPN),BAAH-DANSO Celia (GHA) / KWABI Cynthia (GHA),HASHIMOTO Honoka
+World Tour Australian Open Geelong 2018,2018-07-24,JEOUNG Youngsik/LEE Sang Su,DESAI Harmeet/SHETTY Sanil,3,0,"11,11,11|6,5,4",R16,GRAND_SLAM,MD,880,Main Draw,JEOUNG Youngsik (KOR) / LEE Sang Su (KOR),DESAI Harmeet (IND) / SHETTY Sanil (IND),JEOUNG Youngsik
+World Tour Australian Open Geelong 2018,2018-07-24,LIAO Cheng-Ting/LIN Yun-Ju,NUYTINCK Cedric/ROBINOT Quentin,3,2,"11,3,9,11,11|9,11,11,4,9",R16,GRAND_SLAM,MD,880,Main Draw,LIAO Cheng-Ting (TPE) / LIN Yun-Ju (TPE),NUYTINCK Cedric (BEL) / ROBINOT Quentin (FRA),LIAO Cheng-Ting
+World Tour Australian Open Geelong 2018,2018-07-24,FRANZISKA Patrick/WALTHER Ricardo,CALDERANO Hugo/GAUZY Simon,3,0,"11,11,11|4,5,9",R16,GRAND_SLAM,MD,880,Main Draw,FRANZISKA Patrick (GER) / WALTHER Ricardo (GER),CALDERANO Hugo (BRA) / GAUZY Simon (FRA),FRANZISKA Patrick
+World Tour Australian Open Geelong 2018,2018-07-24,NIWA Koki/UEDA Jin,KALLBERG Anton/PISTEJ Lubomir,3,1,"11,11,11,11|9,9,13,8",R16,GRAND_SLAM,MD,880,Main Draw,NIWA Koki (JPN) / UEDA Jin (JPN),KALLBERG Anton (SWE) / PISTEJ Lubomir (SVK),NIWA Koki
+World Tour Australian Open Geelong 2018,2018-07-24,JANG Woojin/LIM Jonghoon,ALLEGRO Martin/LAMBIET Florent,3,1,"10,12,11,11|12,10,9,8",R16,GRAND_SLAM,MD,880,Main Draw,JANG Woojin (KOR) / LIM Jonghoon (KOR),ALLEGRO Martin (BEL) / LAMBIET Florent (BEL),JANG Woojin
+World Tour Australian Open Geelong 2018,2018-07-24,CHEN Chien-An/CHUANG Chih-Yuan,DYJAS Jakub/ROBLES Alvaro,3,2,"11,7,11,13,11|9,11,4,15,7",R16,GRAND_SLAM,MD,880,Main Draw,CHEN Chien-An (TPE) / CHUANG Chih-Yuan (TPE),DYJAS Jakub (POL) / ROBLES Alvaro (ESP),CHEN Chien-An
+World Tour Australian Open Geelong 2018,2018-07-24,LIU Shiwen,MATSUZAWA Marina,4,0,"11,11,11,11|8,8,9,9",R32,GRAND_SLAM,WS,880,Main Draw,MATSUZAWA Marina (JPN),LIU Shiwen (CHN),LIU Shiwen
+World Tour Australian Open Geelong 2018,2018-07-24,ISHIKAWA Kasumi,ANDO Minami,4,2,"11,7,11,9,11,11|5,11,2,11,7,4",R32,GRAND_SLAM,WS,880,Main Draw,ISHIKAWA Kasumi (JPN),ANDO Minami (JPN),ISHIKAWA Kasumi
+World Tour Australian Open Geelong 2018,2018-07-24,SUH Hyo Won,HAMAMOTO Yui,4,2,"8,11,7,11,12,11|11,4,11,3,10,6",R32,GRAND_SLAM,WS,880,Main Draw,HAMAMOTO Yui (AUT),SUH Hyo Won (KOR),SUH Hyo Won
+World Tour Australian Open Geelong 2018,2018-07-24,HE Zhuojia,LAY Jian Fang,4,0,"11,11,11,11|4,5,5,6",R32,GRAND_SLAM,WS,880,Main Draw,LAY Jian Fang (AUS),HE Zhuojia (CHN),HE Zhuojia
+World Tour Australian Open Geelong 2018,2018-07-24,YU Mengyu,KATO Miyu,4,2,"8,11,11,7,12,13|11,8,9,11,10,11",R32,GRAND_SLAM,WS,880,Main Draw,KATO Miyu (JPN),YU Mengyu (SGP),YU Mengyu
+World Tour Australian Open Geelong 2018,2018-07-24,ZENG Jian,CHEN Szu-Yu,4,1,"9,11,11,11,12|11,9,6,6,10",R32,GRAND_SLAM,WS,880,Main Draw,ZENG Jian (SGP),CHEN Szu-Yu (TPE),ZENG Jian
+World Tour Australian Open Geelong 2018,2018-07-24,SAWETTABUT Suthasini,CHENG I-Ching,4,2,"10,6,11,13,11,11|12,11,7,11,6,8",R32,GRAND_SLAM,WS,880,Main Draw,CHENG I-Ching (TPE),SAWETTABUT Suthasini (THA),SAWETTABUT Suthasini
+World Tour Australian Open Geelong 2018,2018-07-24,GU Yuting,ODO Satsuki,4,0,"11,11,11,11|5,5,6,4",R32,GRAND_SLAM,WS,880,Main Draw,GU Yuting (CHN),ODO Satsuki (JPN),GU Yuting
+World Tour Australian Open Geelong 2018,2018-07-24,OSHIMA Yuya,CALDERANO Hugo,4,3,"11,11,6,5,12,8,11|5,7,11,11,10,11,7",R32,GRAND_SLAM,MS,880,Main Draw,CALDERANO Hugo (BRA),OSHIMA Yuya (JPN),OSHIMA Yuya
+World Tour Australian Open Geelong 2018,2018-07-24,YU Ziyang,OVTCHAROV Dimitrij,4,3,"11,11,6,13,15,6,11|7,7,11,11,17,11,3",R32,GRAND_SLAM,MS,880,Main Draw,OVTCHAROV Dimitrij (GER),YU Ziyang (CHN),YU Ziyang
+World Tour Australian Open Geelong 2018,2018-07-24,LIU Dingshuo,MIZUTANI Jun,4,3,"11,12,11,6,8,5,11|4,10,9,11,11,11,9",R32,GRAND_SLAM,MS,880,Main Draw,LIU Dingshuo (CHN),MIZUTANI Jun (JPN),LIU Dingshuo
+World Tour Australian Open Geelong 2018,2018-07-24,ARUNA Quadri,WALTHER Ricardo,4,2,"6,10,11,11,11,12|11,12,8,7,7,10",R32,GRAND_SLAM,MS,880,Main Draw,WALTHER Ricardo (GER),ARUNA Quadri (NGR),ARUNA Quadri
+World Tour Australian Open Geelong 2018,2018-07-24,YOSHIMURA Maharu,CHUANG Chih-Yuan,4,2,"11,6,8,11,11,11|6,11,11,7,4,9",R32,GRAND_SLAM,MS,880,Main Draw,YOSHIMURA Maharu (JPN),CHUANG Chih-Yuan (TPE),YOSHIMURA Maharu
+World Tour Australian Open Geelong 2018,2018-07-24,LIM Jonghoon,ROBLES Alvaro,4,2,"4,8,11,11,11,11|11,11,2,9,5,6",R32,GRAND_SLAM,MS,880,Main Draw,LIM Jonghoon (KOR),ROBLES Alvaro (ESP),LIM Jonghoon
+World Tour Australian Open Geelong 2018,2018-07-24,JEOUNG Youngsik,LEE Sang Su,4,0,"12,11,11,11|10,3,8,8",R32,GRAND_SLAM,MS,880,Main Draw,JEOUNG Youngsik (KOR),LEE Sang Su (KOR),JEOUNG Youngsik
+World Tour Australian Open Geelong 2018,2018-07-24,ZHOU Yu,NIWA Koki,4,2,"11,11,8,5,11,11|7,9,11,11,5,9",R32,GRAND_SLAM,MS,880,Main Draw,NIWA Koki (JPN),ZHOU Yu (CHN),ZHOU Yu
+World Tour Australian Open Geelong 2018,2018-07-24,YANG Ha Eun,HAYATA Hina,4,2,"13,11,9,9,11,12|11,8,11,11,5,10",R32,GRAND_SLAM,WS,880,Main Draw,YANG Ha Eun (KOR),HAYATA Hina (JPN),YANG Ha Eun
+World Tour Australian Open Geelong 2018,2018-07-24,SHIBATA Saki,VARADY Barbora,4,0,"12,11,11,11|10,6,7,4",R32,GRAND_SLAM,WS,880,Main Draw,VARADY Barbora (SVK),SHIBATA Saki (JPN),SHIBATA Saki
+World Tour Australian Open Geelong 2018,2018-07-24,JEON Jihee,LI Jie,4,3,"9,9,13,11,11,5,11|11,11,11,5,6,11,6",R32,GRAND_SLAM,WS,880,Main Draw,JEON Jihee (KOR),LI Jie (NED),JEON Jihee
+World Tour Australian Open Geelong 2018,2018-07-24,SATO Hitomi,BATRA Manika,4,0,"11,11,11,11|9,2,7,4",R32,GRAND_SLAM,WS,880,Main Draw,BATRA Manika (IND),SATO Hitomi (JPN),SATO Hitomi
+World Tour Australian Open Geelong 2018,2018-07-24,DING Ning,CHENG Hsien-Tzu,4,0,"11,11,11,11|7,6,6,8",R32,GRAND_SLAM,WS,880,Main Draw,DING Ning (CHN),CHENG Hsien-Tzu (TPE),DING Ning
+World Tour Australian Open Geelong 2018,2018-07-24,ITO Mima,LIN Ye,4,2,"13,10,11,11,3,11|11,12,7,9,11,4",R32,GRAND_SLAM,WS,880,Main Draw,ITO Mima (JPN),LIN Ye (CAN),ITO Mima
+World Tour Australian Open Geelong 2018,2018-07-24,FENG Tianwei,LI Jiayi,4,2,"12,11,9,11,9,11|10,8,11,4,11,8",R32,GRAND_SLAM,WS,880,Main Draw,LI Jiayi (CHN),FENG Tianwei (SGP),FENG Tianwei
+World Tour Australian Open Geelong 2018,2018-07-24,LEE Sang Su/JEON Jihee,PISTEJ Lubomir/VARADY Barbora,3,2,"12,10,11,10,11|10,12,7,12,9",QF,GRAND_SLAM,XD,880,Main Draw,LEE Sang Su (KOR) / JEON Jihee (KOR),PISTEJ Lubomir (SVK) / VARADY Barbora (SVK),LEE Sang Su
+World Tour Australian Open Geelong 2018,2018-07-24,YOSHIMURA Maharu/ISHIKAWA Kasumi,GAO Ning/YU Mengyu,3,1,"11,11,10,11|5,9,12,5",QF,GRAND_SLAM,XD,880,Main Draw,YOSHIMURA Maharu (JPN) / ISHIKAWA Kasumi (JPN),GAO Ning (SGP) / YU Mengyu (SGP),YOSHIMURA Maharu
+World Tour Australian Open Geelong 2018,2018-07-24,LIM Jonghoon/YANG Ha Eun,TOWNSEND Kane/KAUR Parleen,3,0,"11,11,11|4,3,6",QF,GRAND_SLAM,XD,880,Main Draw,LIM Jonghoon (KOR) / YANG Ha Eun (KOR),TOWNSEND Kane (AUS) / KAUR Parleen (AUS),LIM Jonghoon
+World Tour Australian Open Geelong 2018,2018-07-24,CHEN Chien-An/CHENG I-Ching,CHUANG Chih-Yuan/CHEN Szu-Yu,3,0,"12,13,11|10,11,9",QF,GRAND_SLAM,XD,880,Main Draw,CHEN Chien-An (TPE) / CHENG I-Ching (TPE),CHUANG Chih-Yuan (TPE) / CHEN Szu-Yu (TPE),CHEN Chien-An
+World Tour Australian Open Geelong 2018,2018-07-24,MORIZONO Masataka/OSHIMA Yuya,CHEN Chien-An/CHUANG Chih-Yuan,3,0,"11,12,11|8,10,5",QF,GRAND_SLAM,MD,880,Main Draw,MORIZONO Masataka (JPN) / OSHIMA Yuya (JPN),CHEN Chien-An (TPE) / CHUANG Chih-Yuan (TPE),MORIZONO Masataka
+World Tour Australian Open Geelong 2018,2018-07-24,LIAO Cheng-Ting/LIN Yun-Ju,FRANZISKA Patrick/WALTHER Ricardo,3,1,"11,11,11,11|13,8,8,9",QF,GRAND_SLAM,MD,880,Main Draw,LIAO Cheng-Ting (TPE) / LIN Yun-Ju (TPE),FRANZISKA Patrick (GER) / WALTHER Ricardo (GER),LIAO Cheng-Ting
+World Tour Australian Open Geelong 2018,2018-07-24,JANG Woojin/LIM Jonghoon,NIWA Koki/UEDA Jin,3,1,"13,11,11,11|15,3,9,6",QF,GRAND_SLAM,MD,880,Main Draw,JANG Woojin (KOR) / LIM Jonghoon (KOR),NIWA Koki (JPN) / UEDA Jin (JPN),JANG Woojin
+World Tour Australian Open Geelong 2018,2018-07-24,JEOUNG Youngsik/LEE Sang Su,ACHANTA Sharath/GNANASEKARAN Sathiyan,3,0,"11,16,11|7,14,4",QF,GRAND_SLAM,MD,880,Main Draw,JEOUNG Youngsik (KOR) / LEE Sang Su (KOR),ACHANTA Sharath (IND) / GNANASEKARAN Sathiyan (IND),JEOUNG Youngsik
+World Tour Australian Open Geelong 2018,2018-07-24,HASHIMOTO Honoka/SATO Hitomi,CHENG Hsien-Tzu/LIU Hsing-Yin,3,0,"11,11,11|5,2,6",QF,GRAND_SLAM,WD,880,Main Draw,HASHIMOTO Honoka (JPN) / SATO Hitomi (JPN),CHENG Hsien-Tzu (TPE) / LIU Hsing-Yin (TPE),HASHIMOTO Honoka
+World Tour Australian Open Geelong 2018,2018-07-24,JEON Jihee/YANG Ha Eun,GU Yuting/LI Jiayi,3,1,"12,9,11,11|10,11,3,5",QF,GRAND_SLAM,WD,880,Main Draw,JEON Jihee (KOR) / YANG Ha Eun (KOR),GU Yuting (CHN) / LI Jiayi (CHN),JEON Jihee
+World Tour Australian Open Geelong 2018,2018-07-24,LIN Ye/ZENG Jian,BATRA Manika/DAS Mouma,3,0,"11,11,12|7,6,10",QF,GRAND_SLAM,WD,880,Main Draw,LIN Ye (CAN) / ZENG Jian (SGP),BATRA Manika (IND) / DAS Mouma (IND),LIN Ye
+World Tour Australian Open Geelong 2018,2018-07-24,HAYATA Hina/ITO Mima,HIRANO Miu/NAGASAKI Miyu,3,1,"9,11,11,11|11,7,3,9",QF,GRAND_SLAM,WD,880,Main Draw,HAYATA Hina (JPN) / ITO Mima (JPN),HIRANO Miu (JPN) / NAGASAKI Miyu (JPN),HAYATA Hina
+World Tour Australian Open Geelong 2018,2018-07-24,JEOUNG Youngsik/LEE Sang Su,LIAO Cheng-Ting/LIN Yun-Ju,3,1,"11,11,6,12|9,6,11,10",SF,GRAND_SLAM,MD,880,Main Draw,JEOUNG Youngsik (KOR) / LEE Sang Su (KOR),LIAO Cheng-Ting (TPE) / LIN Yun-Ju (TPE),JEOUNG Youngsik
+World Tour Australian Open Geelong 2018,2018-07-24,MORIZONO Masataka/OSHIMA Yuya,JANG Woojin/LIM Jonghoon,3,2,"6,11,11,10,12|11,8,9,12,10",SF,GRAND_SLAM,MD,880,Main Draw,MORIZONO Masataka (JPN) / OSHIMA Yuya (JPN),JANG Woojin (KOR) / LIM Jonghoon (KOR),MORIZONO Masataka
+World Tour Australian Open Geelong 2018,2018-07-24,HAYATA Hina/ITO Mima,JEON Jihee/YANG Ha Eun,3,2,"11,10,8,13,11|9,12,11,11,8",SF,GRAND_SLAM,WD,880,Main Draw,HAYATA Hina (JPN) / ITO Mima (JPN),JEON Jihee (KOR) / YANG Ha Eun (KOR),HAYATA Hina
+World Tour Australian Open Geelong 2018,2018-07-24,HASHIMOTO Honoka/SATO Hitomi,LIN Ye/ZENG Jian,3,0,"11,11,11|6,9,7",SF,GRAND_SLAM,WD,880,Main Draw,HASHIMOTO Honoka (JPN) / SATO Hitomi (JPN),LIN Ye (CAN) / ZENG Jian (SGP),HASHIMOTO Honoka
+World Tour Australian Open Geelong 2018,2018-07-24,XU Xin,ARINOBU Taimu,4,2,"11,10,11,9,11,11|8,12,8,11,7,6",R32,GRAND_SLAM,MS,880,Main Draw,ARINOBU Taimu (JPN),XU Xin (CHN),XU Xin
+World Tour Australian Open Geelong 2018,2018-07-24,LIN Yun-Ju,POWELL David,4,0,"11,11,11,11|1,3,6,1",R32,GRAND_SLAM,MS,880,Main Draw,POWELL David (AUS),LIN Yun-Ju (TPE),LIN Yun-Ju
+World Tour Australian Open Geelong 2018,2018-07-24,GNANASEKARAN Sathiyan,YOSHIDA Masaki,4,3,"11,7,11,7,5,11,11|8,11,9,11,11,6,8",R32,GRAND_SLAM,MS,880,Main Draw,GNANASEKARAN Sathiyan (IND),YOSHIDA Masaki (JPN),GNANASEKARAN Sathiyan
+World Tour Australian Open Geelong 2018,2018-07-24,HIRANO Yuki,MATSUDAIRA Kenta,4,3,"12,12,11,9,3,11,12|14,10,9,11,11,8,10",R32,GRAND_SLAM,MS,880,Main Draw,MATSUDAIRA Kenta (JPN),HIRANO Yuki (JPN),HIRANO Yuki
+World Tour Australian Open Geelong 2018,2018-07-24,HARIMOTO Tomokazu,CHEN Chien-An,4,3,"9,9,11,11,11,12,11|11,11,7,6,13,10,9",R32,GRAND_SLAM,MS,880,Main Draw,CHEN Chien-An (TPE),HARIMOTO Tomokazu (JPN),HARIMOTO Tomokazu
+World Tour Australian Open Geelong 2018,2018-07-24,ACHANTA Sharath,GAUZY Simon,4,2,"6,11,11,11,7,11|11,7,7,8,11,4",R32,GRAND_SLAM,MS,880,Main Draw,GAUZY Simon (FRA),ACHANTA Sharath (IND),ACHANTA Sharath
+World Tour Australian Open Geelong 2018,2018-07-24,FRANZISKA Patrick,KIM Donghyun,4,1,"11,11,8,11,11|6,9,11,8,2",R32,GRAND_SLAM,MS,880,Main Draw,KIM Donghyun (KOR),FRANZISKA Patrick (GER),FRANZISKA Patrick
+World Tour Australian Open Geelong 2018,2018-07-24,UEDA Jin,MORIZONO Masataka,4,0,"13,11,11,11|11,9,9,3",R32,GRAND_SLAM,MS,880,Main Draw,UEDA Jin (JPN),MORIZONO Masataka (JPN),UEDA Jin
+World Tour Australian Open Geelong 2018,2018-07-24,YANG Ha Eun,SAWETTABUT Suthasini,4,2,"6,11,11,11,6,11|11,6,7,9,11,4",R16,GRAND_SLAM,WS,880,Main Draw,SAWETTABUT Suthasini (THA),YANG Ha Eun (KOR),YANG Ha Eun
+World Tour Australian Open Geelong 2018,2018-07-24,SATO Hitomi,JEON Jihee,4,2,"9,6,11,11,11,11|11,11,7,7,9,7",R16,GRAND_SLAM,WS,880,Main Draw,JEON Jihee (KOR),SATO Hitomi (JPN),SATO Hitomi
+World Tour Australian Open Geelong 2018,2018-07-24,HE Zhuojia,FENG Tianwei,4,0,"11,11,11,13|7,6,7,11",R16,GRAND_SLAM,WS,880,Main Draw,HE Zhuojia (CHN),FENG Tianwei (SGP),HE Zhuojia
+World Tour Australian Open Geelong 2018,2018-07-24,ISHIKAWA Kasumi,SHIBATA Saki,4,1,"11,11,11,11,11|9,13,4,7,8",R16,GRAND_SLAM,WS,880,Main Draw,ISHIKAWA Kasumi (JPN),SHIBATA Saki (JPN),ISHIKAWA Kasumi
+World Tour Australian Open Geelong 2018,2018-07-24,DING Ning,SUH Hyo Won,4,0,"11,11,11,12|3,8,7,10",R16,GRAND_SLAM,WS,880,Main Draw,DING Ning (CHN),SUH Hyo Won (KOR),DING Ning
+World Tour Australian Open Geelong 2018,2018-07-24,LIU Shiwen,GU Yuting,4,2,"11,11,11,12,9,11|9,5,7,14,11,3",R16,GRAND_SLAM,WS,880,Main Draw,GU Yuting (CHN),LIU Shiwen (CHN),LIU Shiwen
+World Tour Australian Open Geelong 2018,2018-07-24,ITO Mima,ZENG Jian,4,3,"11,11,7,9,11,2,11|9,5,11,11,2,11,7",R16,GRAND_SLAM,WS,880,Main Draw,ITO Mima (JPN),ZENG Jian (SGP),ITO Mima
+World Tour Australian Open Geelong 2018,2018-07-24,HIRANO Miu,YU Mengyu,4,1,"11,11,11,9,16|4,8,2,11,14",R16,GRAND_SLAM,WS,880,Main Draw,YU Mengyu (SGP),HIRANO Miu (JPN),HIRANO Miu
+World Tour Australian Open Geelong 2018,2018-07-24,LEE Sang Su/JEON Jihee,CHEN Chien-An/CHENG I-Ching,3,0,"13,11,11|11,9,9",SF,GRAND_SLAM,XD,880,Main Draw,LEE Sang Su (KOR) / JEON Jihee (KOR),CHEN Chien-An (TPE) / CHENG I-Ching (TPE),LEE Sang Su
+World Tour Australian Open Geelong 2018,2018-07-24,LIM Jonghoon/YANG Ha Eun,YOSHIMURA Maharu/ISHIKAWA Kasumi,3,1,"11,11,11,11|7,9,13,6",SF,GRAND_SLAM,XD,880,Main Draw,LIM Jonghoon (KOR) / YANG Ha Eun (KOR),YOSHIMURA Maharu (JPN) / ISHIKAWA Kasumi (JPN),LIM Jonghoon
+World Tour Australian Open Geelong 2018,2018-07-24,FRANZISKA Patrick,ACHANTA Sharath,4,3,"12,9,11,11,7,11,11|14,11,9,3,11,7,8",R16,GRAND_SLAM,MS,880,Main Draw,ACHANTA Sharath (IND),FRANZISKA Patrick (GER),FRANZISKA Patrick
+World Tour Australian Open Geelong 2018,2018-07-24,OSHIMA Yuya,ARUNA Quadri,4,0,"12,11,11,11|10,9,8,4",R16,GRAND_SLAM,MS,880,Main Draw,OSHIMA Yuya (JPN),ARUNA Quadri (NGR),OSHIMA Yuya
+World Tour Australian Open Geelong 2018,2018-07-24,ZHOU Yu,GNANASEKARAN Sathiyan,4,0,"11,14,12,11|3,12,10,5",R16,GRAND_SLAM,MS,880,Main Draw,ZHOU Yu (CHN),GNANASEKARAN Sathiyan (IND),ZHOU Yu
+World Tour Australian Open Geelong 2018,2018-07-24,LIU Dingshuo,LIN Yun-Ju,4,2,"8,9,11,11,11,11|11,11,8,9,8,6",R16,GRAND_SLAM,MS,880,Main Draw,LIN Yun-Ju (TPE),LIU Dingshuo (CHN),LIU Dingshuo
+World Tour Australian Open Geelong 2018,2018-07-24,XU Xin,UEDA Jin,4,2,"7,11,11,7,11,11|11,8,3,11,8,1",R16,GRAND_SLAM,MS,880,Main Draw,UEDA Jin (JPN),XU Xin (CHN),XU Xin
+World Tour Australian Open Geelong 2018,2018-07-24,YU Ziyang,YOSHIMURA Maharu,4,2,"11,9,11,5,11,11|8,11,6,11,7,7",R16,GRAND_SLAM,MS,880,Main Draw,YU Ziyang (CHN),YOSHIMURA Maharu (JPN),YU Ziyang
+World Tour Australian Open Geelong 2018,2018-07-24,JEOUNG Youngsik,LIM Jonghoon,4,0,"11,11,11,12|3,7,6,10",R16,GRAND_SLAM,MS,880,Main Draw,LIM Jonghoon (KOR),JEOUNG Youngsik (KOR),JEOUNG Youngsik
+World Tour Australian Open Geelong 2018,2018-07-24,HARIMOTO Tomokazu,HIRANO Yuki,4,1,"11,11,6,11,11|8,3,11,5,4",R16,GRAND_SLAM,MS,880,Main Draw,HIRANO Yuki (JPN),HARIMOTO Tomokazu (JPN),HARIMOTO Tomokazu
+World Tour Australian Open Geelong 2018,2018-07-24,ISHIKAWA Kasumi,SATO Hitomi,4,1,"11,11,11,8,11|4,6,8,11,6",QF,GRAND_SLAM,WS,880,Main Draw,ISHIKAWA Kasumi (JPN),SATO Hitomi (JPN),ISHIKAWA Kasumi
+World Tour Australian Open Geelong 2018,2018-07-24,HE Zhuojia,ITO Mima,4,2,"11,11,11,6,10,12|7,6,3,11,12,10",QF,GRAND_SLAM,WS,880,Main Draw,ITO Mima (JPN),HE Zhuojia (CHN),HE Zhuojia
+World Tour Australian Open Geelong 2018,2018-07-24,LIU Shiwen,YANG Ha Eun,4,0,"11,11,11,11|3,7,6,7",QF,GRAND_SLAM,WS,880,Main Draw,YANG Ha Eun (KOR),LIU Shiwen (CHN),LIU Shiwen
+World Tour Australian Open Geelong 2018,2018-07-24,DING Ning,HIRANO Miu,4,0,"11,11,11,11|6,6,2,8",QF,GRAND_SLAM,WS,880,Main Draw,DING Ning (CHN),HIRANO Miu (JPN),DING Ning
+World Tour Australian Open Geelong 2018,2018-07-24,HARIMOTO Tomokazu,ZHOU Yu,4,2,"9,12,10,11,11,11|11,10,12,9,5,5",QF,GRAND_SLAM,MS,880,Main Draw,ZHOU Yu (CHN),HARIMOTO Tomokazu (JPN),HARIMOTO Tomokazu
+World Tour Australian Open Geelong 2018,2018-07-24,XU Xin,FRANZISKA Patrick,4,0,"11,11,11,11|7,3,9,9",QF,GRAND_SLAM,MS,880,Main Draw,FRANZISKA Patrick (GER),XU Xin (CHN),XU Xin
+World Tour Australian Open Geelong 2018,2018-07-24,LIU Dingshuo,YU Ziyang,4,3,"11,11,5,11,6,5,11|9,3,11,8,11,11,8",QF,GRAND_SLAM,MS,880,Main Draw,YU Ziyang (CHN),LIU Dingshuo (CHN),LIU Dingshuo
+World Tour Australian Open Geelong 2018,2018-07-24,OSHIMA Yuya,JEOUNG Youngsik,4,2,"12,9,11,8,11,11|10,11,6,11,9,6",QF,GRAND_SLAM,MS,880,Main Draw,OSHIMA Yuya (JPN),JEOUNG Youngsik (KOR),OSHIMA Yuya
+World Tour Australian Open Geelong 2018,2018-07-24,LEE Sang Su/JEON Jihee,LIM Jonghoon/YANG Ha Eun,3,2,"6,11,5,11,11|11,7,11,8,8",F,GRAND_SLAM,XD,880,Main Draw,LEE Sang Su (KOR) / JEON Jihee (KOR),LIM Jonghoon (KOR) / YANG Ha Eun (KOR),LEE Sang Su
+World Tour Australian Open Geelong 2018,2018-07-24,LIU Shiwen,HE Zhuojia,4,2,"7,11,11,5,11,11|11,5,6,11,6,7",SF,GRAND_SLAM,WS,880,Main Draw,HE Zhuojia (CHN),LIU Shiwen (CHN),LIU Shiwen
+World Tour Australian Open Geelong 2018,2018-07-24,DING Ning,ISHIKAWA Kasumi,4,0,"11,11,11,11|8,7,7,8",SF,GRAND_SLAM,WS,880,Main Draw,ISHIKAWA Kasumi (JPN),DING Ning (CHN),DING Ning
+World Tour Australian Open Geelong 2018,2018-07-24,LIU Dingshuo,OSHIMA Yuya,4,0,"11,11,11,11|6,5,3,8",SF,GRAND_SLAM,MS,880,Main Draw,LIU Dingshuo (CHN),OSHIMA Yuya (JPN),LIU Dingshuo
+World Tour Australian Open Geelong 2018,2018-07-24,XU Xin,HARIMOTO Tomokazu,4,2,"11,11,9,11,9,11|5,8,11,5,11,7",SF,GRAND_SLAM,MS,880,Main Draw,HARIMOTO Tomokazu (JPN),XU Xin (CHN),XU Xin
+World Tour Australian Open Geelong 2018,2018-07-24,HAYATA Hina/ITO Mima,HASHIMOTO Honoka/SATO Hitomi,3,0,"11,11,11|8,9,7",F,GRAND_SLAM,WD,880,Main Draw,HAYATA Hina (JPN) / ITO Mima (JPN),HASHIMOTO Honoka (JPN) / SATO Hitomi (JPN),HAYATA Hina
+World Tour Australian Open Geelong 2018,2018-07-24,JEOUNG Youngsik/LEE Sang Su,MORIZONO Masataka/OSHIMA Yuya,3,0,"14,11,11|12,5,7",F,GRAND_SLAM,MD,880,Main Draw,JEOUNG Youngsik (KOR) / LEE Sang Su (KOR),MORIZONO Masataka (JPN) / OSHIMA Yuya (JPN),JEOUNG Youngsik
+World Tour Australian Open Geelong 2018,2018-07-24,LIU Shiwen,DING Ning,4,3,"11,11,3,5,6,11,11|5,7,11,11,11,5,6",F,GRAND_SLAM,WS,880,Main Draw,DING Ning (CHN),LIU Shiwen (CHN),LIU Shiwen
+World Tour Australian Open Geelong 2018,2018-07-24,XU Xin,LIU Dingshuo,4,1,"12,4,12,15,11|10,11,10,13,6",F,GRAND_SLAM,MS,880,Main Draw,LIU Dingshuo (CHN),XU Xin (CHN),XU Xin

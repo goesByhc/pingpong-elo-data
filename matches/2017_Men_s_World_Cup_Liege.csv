@@ -1,29 +1,29 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Men's World Cup Liege 2017,2017-10-20,LEE Sang Su,JHA Kanak,4,3,"9,13,8,11,9,11,11|11,11,11,6,11,1,4",,WORLD_CUP,MS,506,Qualification,LEE Sang Su (KOR),JHA Kanak (USA)
-Men's World Cup Liege 2017,2017-10-20,LEE Sang Su,ARUNA Quadri,4,3,"11,1,7,5,11,11,12|8,11,11,11,5,4,10",,WORLD_CUP,MS,506,Qualification,LEE Sang Su (KOR),ARUNA Quadri (NGR)
-Men's World Cup Liege 2017,2017-10-20,ARUNA Quadri,JHA Kanak,4,2,"7,11,6,11,11,11|11,8,11,6,5,5",,WORLD_CUP,MS,506,Qualification,ARUNA Quadri (NGR),JHA Kanak (USA)
-Men's World Cup Liege 2017,2017-10-20,FREITAS Marcos,POWELL David,4,0,"11,11,11,11|7,3,2,9",,WORLD_CUP,MS,506,Qualification,FREITAS Marcos (POR),POWELL David (AUS)
-Men's World Cup Liege 2017,2017-10-20,FREITAS Marcos,KOU Lei,4,0,"11,11,11,11|3,8,4,5",,WORLD_CUP,MS,506,Qualification,FREITAS Marcos (POR),KOU Lei (UKR)
-Men's World Cup Liege 2017,2017-10-20,KOU Lei,POWELL David,4,0,"11,11,11,11|7,2,4,3",,WORLD_CUP,MS,506,Qualification,KOU Lei (UKR),POWELL David (AUS)
-Men's World Cup Liege 2017,2017-10-20,ASSAR Omar,NUYTINCK Cedric,4,3,"9,10,11,9,11,11,11|11,12,8,11,7,4,8",,WORLD_CUP,MS,506,Qualification,ASSAR Omar (EGY),NUYTINCK Cedric (BEL)
-Men's World Cup Liege 2017,2017-10-20,SHIBAEV Alexander,ASSAR Omar,4,3,"8,9,11,12,11,11,11|11,11,8,10,13,7,7",,WORLD_CUP,MS,506,Qualification,ASSAR Omar (EGY),SHIBAEV Alexander (RUS)
-Men's World Cup Liege 2017,2017-10-20,SHIBAEV Alexander,NUYTINCK Cedric,4,0,"11,11,12,11|8,8,10,5",,WORLD_CUP,MS,506,Qualification,SHIBAEV Alexander (RUS),NUYTINCK Cedric (BEL)
-Men's World Cup Liege 2017,2017-10-20,TSUBOI Gustavo,CHEN Chien-An,4,0,,,WORLD_CUP,MS,506,Qualification,CHEN Chien-An (TPE),TSUBOI Gustavo (BRA)
-Men's World Cup Liege 2017,2017-10-20,JEONG Sangeun,CHEN Chien-An,4,0,,,WORLD_CUP,MS,506,Qualification,CHEN Chien-An (TPE),JEONG Sangeun (KOR)
-Men's World Cup Liege 2017,2017-10-20,JEONG Sangeun,TSUBOI Gustavo,4,1,"5,11,13,11,11|11,4,11,7,6",,WORLD_CUP,MS,506,Qualification,JEONG Sangeun (KOR),TSUBOI Gustavo (BRA)
-Men's World Cup Liege 2017,2017-10-20,MA Long,ASSAR Omar,4,1,"11,7,11,11,11|7,11,8,8,4",R16,WORLD_CUP,MS,506,Main Draw,MA Long (CHN),ASSAR Omar (EGY)
-Men's World Cup Liege 2017,2017-10-20,NIWA Koki,LEE Sang Su,4,2,"11,12,8,2,11,11|5,10,11,11,6,9",R16,WORLD_CUP,MS,506,Main Draw,LEE Sang Su (KOR),NIWA Koki (JPN)
-Men's World Cup Liege 2017,2017-10-20,LIN Gaoyuan,FREITAS Marcos,4,1,"11,10,11,11,11|3,12,9,5,5",R16,WORLD_CUP,MS,506,Main Draw,LIN Gaoyuan (CHN),FREITAS Marcos (POR)
-Men's World Cup Liege 2017,2017-10-20,BOLL Timo,TSUBOI Gustavo,4,0,"12,11,11,13|10,8,5,11",R16,WORLD_CUP,MS,506,Main Draw,TSUBOI Gustavo (BRA),BOLL Timo (GER)
-Men's World Cup Liege 2017,2017-10-20,MIZUTANI Jun,ARUNA Quadri,4,0,"11,11,11,11|6,7,6,7",R16,WORLD_CUP,MS,506,Main Draw,MIZUTANI Jun (JPN),ARUNA Quadri (NGR)
-Men's World Cup Liege 2017,2017-10-20,GAUZY Simon,JEONG Sangeun,4,1,"9,11,13,11,11|11,4,11,7,9",R16,WORLD_CUP,MS,506,Main Draw,JEONG Sangeun (KOR),GAUZY Simon (FRA)
-Men's World Cup Liege 2017,2017-10-20,SHIBAEV Alexander,CHUANG Chih-Yuan,4,2,"12,9,11,11,5,11|10,11,9,9,11,9",R16,WORLD_CUP,MS,506,Main Draw,CHUANG Chih-Yuan (TPE),SHIBAEV Alexander (RUS)
-Men's World Cup Liege 2017,2017-10-20,OVTCHAROV Dimitrij,KOU Lei,4,1,"11,11,13,10,11|4,5,11,12,6",R16,WORLD_CUP,MS,506,Main Draw,KOU Lei (UKR),OVTCHAROV Dimitrij (GER)
-Men's World Cup Liege 2017,2017-10-20,MA Long,NIWA Koki,4,1,"13,11,11,9,11|11,9,5,11,8",QF,WORLD_CUP,MS,506,Main Draw,MA Long (CHN),NIWA Koki (JPN)
-Men's World Cup Liege 2017,2017-10-20,BOLL Timo,LIN Gaoyuan,4,3,"5,11,11,9,11,14,13|11,13,9,11,9,12,11",QF,WORLD_CUP,MS,506,Main Draw,LIN Gaoyuan (CHN),BOLL Timo (GER)
-Men's World Cup Liege 2017,2017-10-20,GAUZY Simon,MIZUTANI Jun,4,3,"11,6,13,11,11,7,11|7,11,11,13,9,11,8",QF,WORLD_CUP,MS,506,Main Draw,MIZUTANI Jun (JPN),GAUZY Simon (FRA)
-Men's World Cup Liege 2017,2017-10-20,OVTCHAROV Dimitrij,SHIBAEV Alexander,4,3,"9,8,12,11,11,10,11|11,11,10,9,7,12,7",QF,WORLD_CUP,MS,506,Main Draw,SHIBAEV Alexander (RUS),OVTCHAROV Dimitrij (GER)
-Men's World Cup Liege 2017,2017-10-20,BOLL Timo,MA Long,4,3,"6,9,11,9,11,11,12|11,11,9,11,7,5,10",SF,WORLD_CUP,MS,506,Main Draw,MA Long (CHN),BOLL Timo (GER)
-Men's World Cup Liege 2017,2017-10-20,OVTCHAROV Dimitrij,GAUZY Simon,4,3,"6,11,11,10,7,11,11|11,2,8,12,11,4,8",SF,WORLD_CUP,MS,506,Main Draw,GAUZY Simon (FRA),OVTCHAROV Dimitrij (GER)
-Men's World Cup Liege 2017,2017-10-20,MA Long,GAUZY Simon,4,2,"11,11,6,11,11,11|5,13,11,5,7,9",3RD,WORLD_CUP,MS,506,Position Draw,MA Long (CHN),GAUZY Simon (FRA)
-Men's World Cup Liege 2017,2017-10-20,OVTCHAROV Dimitrij,BOLL Timo,4,2,"10,11,11,9,11,11|12,8,7,11,7,2",F,WORLD_CUP,MS,506,Main Draw,BOLL Timo (GER),OVTCHAROV Dimitrij (GER)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Men's World Cup Liege 2017,2017-10-20,LEE Sang Su,JHA Kanak,4,3,"9,13,8,11,9,11,11|11,11,11,6,11,1,4",,WORLD_CUP,MS,506,Qualification,LEE Sang Su (KOR),JHA Kanak (USA),LEE Sang Su
+Men's World Cup Liege 2017,2017-10-20,LEE Sang Su,ARUNA Quadri,4,3,"11,1,7,5,11,11,12|8,11,11,11,5,4,10",,WORLD_CUP,MS,506,Qualification,LEE Sang Su (KOR),ARUNA Quadri (NGR),LEE Sang Su
+Men's World Cup Liege 2017,2017-10-20,ARUNA Quadri,JHA Kanak,4,2,"7,11,6,11,11,11|11,8,11,6,5,5",,WORLD_CUP,MS,506,Qualification,ARUNA Quadri (NGR),JHA Kanak (USA),ARUNA Quadri
+Men's World Cup Liege 2017,2017-10-20,FREITAS Marcos,POWELL David,4,0,"11,11,11,11|7,3,2,9",,WORLD_CUP,MS,506,Qualification,FREITAS Marcos (POR),POWELL David (AUS),FREITAS Marcos
+Men's World Cup Liege 2017,2017-10-20,FREITAS Marcos,KOU Lei,4,0,"11,11,11,11|3,8,4,5",,WORLD_CUP,MS,506,Qualification,FREITAS Marcos (POR),KOU Lei (UKR),FREITAS Marcos
+Men's World Cup Liege 2017,2017-10-20,KOU Lei,POWELL David,4,0,"11,11,11,11|7,2,4,3",,WORLD_CUP,MS,506,Qualification,KOU Lei (UKR),POWELL David (AUS),KOU Lei
+Men's World Cup Liege 2017,2017-10-20,ASSAR Omar,NUYTINCK Cedric,4,3,"9,10,11,9,11,11,11|11,12,8,11,7,4,8",,WORLD_CUP,MS,506,Qualification,ASSAR Omar (EGY),NUYTINCK Cedric (BEL),ASSAR Omar
+Men's World Cup Liege 2017,2017-10-20,SHIBAEV Alexander,ASSAR Omar,4,3,"8,9,11,12,11,11,11|11,11,8,10,13,7,7",,WORLD_CUP,MS,506,Qualification,ASSAR Omar (EGY),SHIBAEV Alexander (RUS),SHIBAEV Alexander
+Men's World Cup Liege 2017,2017-10-20,SHIBAEV Alexander,NUYTINCK Cedric,4,0,"11,11,12,11|8,8,10,5",,WORLD_CUP,MS,506,Qualification,SHIBAEV Alexander (RUS),NUYTINCK Cedric (BEL),SHIBAEV Alexander
+Men's World Cup Liege 2017,2017-10-20,TSUBOI Gustavo,CHEN Chien-An,4,0,,,WORLD_CUP,MS,506,Qualification,CHEN Chien-An (TPE),TSUBOI Gustavo (BRA),TSUBOI Gustavo
+Men's World Cup Liege 2017,2017-10-20,JEONG Sangeun,CHEN Chien-An,4,0,,,WORLD_CUP,MS,506,Qualification,CHEN Chien-An (TPE),JEONG Sangeun (KOR),JEONG Sangeun
+Men's World Cup Liege 2017,2017-10-20,JEONG Sangeun,TSUBOI Gustavo,4,1,"5,11,13,11,11|11,4,11,7,6",,WORLD_CUP,MS,506,Qualification,JEONG Sangeun (KOR),TSUBOI Gustavo (BRA),JEONG Sangeun
+Men's World Cup Liege 2017,2017-10-20,MA Long,ASSAR Omar,4,1,"11,7,11,11,11|7,11,8,8,4",R16,WORLD_CUP,MS,506,Main Draw,MA Long (CHN),ASSAR Omar (EGY),MA Long
+Men's World Cup Liege 2017,2017-10-20,NIWA Koki,LEE Sang Su,4,2,"11,12,8,2,11,11|5,10,11,11,6,9",R16,WORLD_CUP,MS,506,Main Draw,LEE Sang Su (KOR),NIWA Koki (JPN),NIWA Koki
+Men's World Cup Liege 2017,2017-10-20,LIN Gaoyuan,FREITAS Marcos,4,1,"11,10,11,11,11|3,12,9,5,5",R16,WORLD_CUP,MS,506,Main Draw,LIN Gaoyuan (CHN),FREITAS Marcos (POR),LIN Gaoyuan
+Men's World Cup Liege 2017,2017-10-20,BOLL Timo,TSUBOI Gustavo,4,0,"12,11,11,13|10,8,5,11",R16,WORLD_CUP,MS,506,Main Draw,TSUBOI Gustavo (BRA),BOLL Timo (GER),BOLL Timo
+Men's World Cup Liege 2017,2017-10-20,MIZUTANI Jun,ARUNA Quadri,4,0,"11,11,11,11|6,7,6,7",R16,WORLD_CUP,MS,506,Main Draw,MIZUTANI Jun (JPN),ARUNA Quadri (NGR),MIZUTANI Jun
+Men's World Cup Liege 2017,2017-10-20,GAUZY Simon,JEONG Sangeun,4,1,"9,11,13,11,11|11,4,11,7,9",R16,WORLD_CUP,MS,506,Main Draw,JEONG Sangeun (KOR),GAUZY Simon (FRA),GAUZY Simon
+Men's World Cup Liege 2017,2017-10-20,SHIBAEV Alexander,CHUANG Chih-Yuan,4,2,"12,9,11,11,5,11|10,11,9,9,11,9",R16,WORLD_CUP,MS,506,Main Draw,CHUANG Chih-Yuan (TPE),SHIBAEV Alexander (RUS),SHIBAEV Alexander
+Men's World Cup Liege 2017,2017-10-20,OVTCHAROV Dimitrij,KOU Lei,4,1,"11,11,13,10,11|4,5,11,12,6",R16,WORLD_CUP,MS,506,Main Draw,KOU Lei (UKR),OVTCHAROV Dimitrij (GER),OVTCHAROV Dimitrij
+Men's World Cup Liege 2017,2017-10-20,MA Long,NIWA Koki,4,1,"13,11,11,9,11|11,9,5,11,8",QF,WORLD_CUP,MS,506,Main Draw,MA Long (CHN),NIWA Koki (JPN),MA Long
+Men's World Cup Liege 2017,2017-10-20,BOLL Timo,LIN Gaoyuan,4,3,"5,11,11,9,11,14,13|11,13,9,11,9,12,11",QF,WORLD_CUP,MS,506,Main Draw,LIN Gaoyuan (CHN),BOLL Timo (GER),BOLL Timo
+Men's World Cup Liege 2017,2017-10-20,GAUZY Simon,MIZUTANI Jun,4,3,"11,6,13,11,11,7,11|7,11,11,13,9,11,8",QF,WORLD_CUP,MS,506,Main Draw,MIZUTANI Jun (JPN),GAUZY Simon (FRA),GAUZY Simon
+Men's World Cup Liege 2017,2017-10-20,OVTCHAROV Dimitrij,SHIBAEV Alexander,4,3,"9,8,12,11,11,10,11|11,11,10,9,7,12,7",QF,WORLD_CUP,MS,506,Main Draw,SHIBAEV Alexander (RUS),OVTCHAROV Dimitrij (GER),OVTCHAROV Dimitrij
+Men's World Cup Liege 2017,2017-10-20,BOLL Timo,MA Long,4,3,"6,9,11,9,11,11,12|11,11,9,11,7,5,10",SF,WORLD_CUP,MS,506,Main Draw,MA Long (CHN),BOLL Timo (GER),BOLL Timo
+Men's World Cup Liege 2017,2017-10-20,OVTCHAROV Dimitrij,GAUZY Simon,4,3,"6,11,11,10,7,11,11|11,2,8,12,11,4,8",SF,WORLD_CUP,MS,506,Main Draw,GAUZY Simon (FRA),OVTCHAROV Dimitrij (GER),OVTCHAROV Dimitrij
+Men's World Cup Liege 2017,2017-10-20,MA Long,GAUZY Simon,4,2,"11,11,6,11,11,11|5,13,11,5,7,9",3RD,WORLD_CUP,MS,506,Position Draw,MA Long (CHN),GAUZY Simon (FRA),MA Long
+Men's World Cup Liege 2017,2017-10-20,OVTCHAROV Dimitrij,BOLL Timo,4,2,"10,11,11,9,11,11|12,8,7,11,7,2",F,WORLD_CUP,MS,506,Main Draw,BOLL Timo (GER),OVTCHAROV Dimitrij (GER),OVTCHAROV Dimitrij

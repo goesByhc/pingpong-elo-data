@@ -1,258 +1,258 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DHOORIA Rohan,HEO Tom,3,0,"11,11,11|4,1,5",,OTHER,U21MS,165,Qualification,DHOORIA Rohan (AUS),HEO Tom (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DOSSIER Gregoire,RESTURE Alex,3,0,"11,11,11|5,5,6",,OTHER,U21MS,165,Qualification,DOSSIER Gregoire (PYF),RESTURE Alex (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DHOORIA Rohan,DOSSIER Gregoire,3,1,"11,11,11,11|6,7,13,8",,OTHER,U21MS,165,Qualification,DHOORIA Rohan (AUS),DOSSIER Gregoire (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,HEO Tom,RESTURE Alex,3,0,"11,15,11|5,13,4",,OTHER,U21MS,165,Qualification,HEO Tom (PYF),RESTURE Alex (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DHOORIA Rohan,RESTURE Alex,3,0,"11,11,11|5,3,6",,OTHER,U21MS,165,Qualification,DHOORIA Rohan (AUS),RESTURE Alex (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DOSSIER Gregoire,HEO Tom,3,0,"11,11,11|7,5,7",,OTHER,U21MS,165,Qualification,DOSSIER Gregoire (PYF),HEO Tom (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,ZENAIDEE Zaki,TAMBIA Nicolas,3,0,"11,11,12|6,8,10",,OTHER,U21MS,165,Qualification,ZENAIDEE Zaki (AUS),TAMBIA Nicolas (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,GENDRON Hugo,RESTURE Seluka,3,0,"11,11,11|5,1,7",,OTHER,U21MS,165,Qualification,GENDRON Hugo (PYF),RESTURE Seluka (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,ZENAIDEE Zaki,GENDRON Hugo,3,1,"11,11,11,11|7,13,7,2",,OTHER,U21MS,165,Qualification,ZENAIDEE Zaki (AUS),GENDRON Hugo (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TAMBIA Nicolas,RESTURE Seluka,3,0,"11,11,11|3,1,2",,OTHER,U21MS,165,Qualification,TAMBIA Nicolas (PYF),RESTURE Seluka (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,ZENAIDEE Zaki,RESTURE Seluka,3,0,"11,11,11|6,2,3",,OTHER,U21MS,165,Qualification,ZENAIDEE Zaki (AUS),RESTURE Seluka (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,GENDRON Hugo,TAMBIA Nicolas,3,0,"11,11,11|6,9,8",,OTHER,U21MS,165,Qualification,GENDRON Hugo (PYF),TAMBIA Nicolas (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,RAO Ruofei,DOSSIER Margaux,3,0,"11,11,11|6,8,2",,OTHER,U21WS,165,Qualification,RAO Ruofei (NZL),DOSSIER Margaux (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,RAO Ruofei,YEE Grace Rosi,3,2,"13,9,9,11,11|11,11,11,4,5",,OTHER,U21WS,165,Qualification,RAO Ruofei (NZL),YEE Grace Rosi (FIJ)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,YEE Grace Rosi,DOSSIER Margaux,3,0,"11,11,11|3,9,6",,OTHER,U21WS,165,Qualification,YEE Grace Rosi (FIJ),DOSSIER Margaux (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TAN Sarah,YEE Sally,3,0,"13,11,11|11,6,2",,OTHER,U21WS,165,Qualification,TAN Sarah (AUS),YEE Sally (FIJ)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TAN Sarah,DANGER Solenn,3,0,"11,11,11|5,8,8",,OTHER,U21WS,165,Qualification,TAN Sarah (AUS),DANGER Solenn (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,YEE Sally,DANGER Solenn,3,2,"11,3,11,7,11|9,11,7,11,5",,OTHER,U21WS,165,Qualification,DANGER Solenn (NCL),YEE Sally (FIJ)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,NEWTON Georgina,RESTURE Kaimalie,3,0,"11,11,11|7,6,7",,OTHER,U21WS,165,Qualification,NEWTON Georgina (AUS),RESTURE Kaimalie (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,NEWTON Georgina,SANTINO Vanina,3,0,"11,11,11|4,5,4",,OTHER,U21WS,165,Qualification,NEWTON Georgina (AUS),SANTINO Vanina (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,SANTINO Vanina,RESTURE Kaimalie,3,0,"11,11,11|6,8,4",,OTHER,U21WS,165,Qualification,SANTINO Vanina (NCL),RESTURE Kaimalie (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,LAY Jian Fang,YEE Sally,4,0,"11,11,11,11|2,3,3,3",,OTHER,WS,165,Qualification,LAY Jian Fang (AUS),YEE Sally (FIJ)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,PATERSON Natalie,RESTURE Kaimalie,4,0,"11,11,11,11|8,1,4,4",,OTHER,WS,165,Qualification,PATERSON Natalie (NZL),RESTURE Kaimalie (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,LAY Jian Fang,PATERSON Natalie,4,0,"11,11,11,11|4,7,2,3",,OTHER,WS,165,Qualification,LAY Jian Fang (AUS),PATERSON Natalie (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,YEE Sally,RESTURE Kaimalie,4,0,"11,11,11,11|8,6,2,1",,OTHER,WS,165,Qualification,YEE Sally (FIJ),RESTURE Kaimalie (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,LAY Jian Fang,RESTURE Kaimalie,4,0,"11,11,11,11|1,3,5,3",,OTHER,WS,165,Qualification,LAY Jian Fang (AUS),RESTURE Kaimalie (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,PATERSON Natalie,YEE Sally,4,2,"11,11,11,10,12,11|5,5,2,12,14,4",,OTHER,WS,165,Qualification,PATERSON Natalie (NZL),YEE Sally (FIJ)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,ZHANG Ziyu,LI Carolyn,4,0,"11,11,11|2,5,1",,OTHER,WS,165,Qualification,ZHANG Ziyu (AUS),LI Carolyn (FIJ)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,SINGH Armindeep,DOSSIER Margaux,4,0,"11,11,11,11|9,6,7,5",,OTHER,WS,165,Qualification,SINGH Armindeep (NZL),DOSSIER Margaux (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,ZHANG Ziyu,SINGH Armindeep,4,0,"11,11,11,11|3,4,2,4",,OTHER,WS,165,Qualification,ZHANG Ziyu (AUS),SINGH Armindeep (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,LI Carolyn,DOSSIER Margaux,4,1,"11,11,11,5,11|6,7,8,11,6",,OTHER,WS,165,Qualification,LI Carolyn (FIJ),DOSSIER Margaux (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,ZHANG Ziyu,DOSSIER Margaux,4,0,"11,11,11,11|1,1,4,4",,OTHER,WS,165,Qualification,ZHANG Ziyu (AUS),DOSSIER Margaux (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,SINGH Armindeep,LI Carolyn,4,0,"11,11,11,13|7,5,9,11",,OTHER,WS,165,Qualification,SINGH Armindeep (NZL),LI Carolyn (FIJ)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DEDERKO Zhenhua,SANTINO Vanina,4,0,"11,11,11,11|3,2,5,3",,OTHER,WS,165,Qualification,DEDERKO Zhenhua (AUS),SANTINO Vanina (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,MIAO Miao,YEE Harvi,4,0,"11,11,11,11|2,5,6,3",,OTHER,WS,165,Qualification,MIAO Miao (AUS),YEE Harvi (FIJ)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DEDERKO Zhenhua,MIAO Miao,4,1,"11,11,11,11,11|13,7,3,8,9",,OTHER,WS,165,Qualification,DEDERKO Zhenhua (AUS),MIAO Miao (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,YEE Harvi,SANTINO Vanina,4,2,"11,11,10,11,7,11|2,8,12,9,11,6",,OTHER,WS,165,Qualification,SANTINO Vanina (NCL),YEE Harvi (FIJ)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DEDERKO Zhenhua,YEE Harvi,4,0,"11,11,11,11|2,4,3,3",,OTHER,WS,165,Qualification,DEDERKO Zhenhua (AUS),YEE Harvi (FIJ)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,MIAO Miao,SANTINO Vanina,4,0,"11,11,11,11|2,1,5,1",,OTHER,WS,165,Qualification,MIAO Miao (AUS),SANTINO Vanina (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TAPPER Melissa,YEE Grace Rosi,4,0,"11,11,11,11|2,2,2,3",,OTHER,WS,165,Qualification,TAPPER Melissa (AUS),YEE Grace Rosi (FIJ)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,RAO Ruofei,DANGER Solenn,4,0,"11,11,11,11|6,7,3,8",,OTHER,WS,165,Qualification,RAO Ruofei (NZL),DANGER Solenn (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TAPPER Melissa,RAO Ruofei,4,2,"11,6,13,11,10,11|7,11,11,6,12,8",,OTHER,WS,165,Qualification,TAPPER Melissa (AUS),RAO Ruofei (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,YEE Grace Rosi,DANGER Solenn,4,1,"11,11,11,9,11|8,4,7,11,9",,OTHER,WS,165,Qualification,YEE Grace Rosi (FIJ),DANGER Solenn (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TAPPER Melissa,DANGER Solenn,4,0,"11,11,11,11|2,2,1,1",,OTHER,WS,165,Qualification,TAPPER Melissa (AUS),DANGER Solenn (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,POWELL David,DOSSIER Gregoire,4,0,"11,11,11,13|3,9,5,11",,OTHER,MS,165,Qualification,POWELL David (AUS),DOSSIER Gregoire (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,SHING Yoshua,RESTURE Seluka,4,0,"11,11,11,11|3,3,5,3",,OTHER,MS,165,Qualification,SHING Yoshua (VAN),RESTURE Seluka (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,POWELL David,RESTURE Seluka,4,0,"11,11,11,11|2,1,3,2",,OTHER,MS,165,Qualification,POWELL David (AUS),RESTURE Seluka (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,BALL Matthew,DOSSIER Gregoire,4,0,"11,12,11,11|7,10,4,2",,OTHER,MS,165,Qualification,BALL Matthew (NZL),DOSSIER Gregoire (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,POWELL David,BALL Matthew,4,0,"11,11,11,11|4,6,6,6",,OTHER,MS,165,Qualification,POWELL David (AUS),BALL Matthew (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,SHING Yoshua,DOSSIER Gregoire,4,1,"12,11,11,8,11|10,3,4,11,9",,OTHER,MS,165,Qualification,SHING Yoshua (VAN),DOSSIER Gregoire (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,POWELL David,SHING Yoshua,4,1,"11,9,11,11,11|8,11,6,8,5",,OTHER,MS,165,Qualification,POWELL David (AUS),SHING Yoshua (VAN)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,BALL Matthew,RESTURE Seluka,4,0,"11,11,11,11|6,6,4,4",,OTHER,MS,165,Qualification,BALL Matthew (NZL),RESTURE Seluka (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,BALL Matthew,SHING Yoshua,4,2,"11,11,9,15,11,11|5,5,11,17,7,9",,OTHER,MS,165,Qualification,SHING Yoshua (VAN),BALL Matthew (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DOSSIER Gregoire,RESTURE Seluka,4,0,"11,11,11,11|5,7,6,5",,OTHER,MS,165,Qualification,DOSSIER Gregoire (PYF),RESTURE Seluka (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,LIU Tengteng,HEO Tom,4,0,"11,11,11,11|1,3,5,3",,OTHER,MS,165,Qualification,LIU Tengteng (NZL),HEO Tom (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TOWNSEND Wade,MANASE Fakanaaga,4,0,"11,11,11,11|1,3,7,3",,OTHER,MS,165,Qualification,TOWNSEND Wade (AUS),MANASE Fakanaaga (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,LIU Tengteng,MANASE Fakanaaga,4,0,"11,11,11,11|1,2,4,1",,OTHER,MS,165,Qualification,LIU Tengteng (NZL),MANASE Fakanaaga (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DEY Jeremy,HEO Tom,4,0,"11,11,11,11|5,7,9,6",,OTHER,MS,165,Qualification,DEY Jeremy (NCL),HEO Tom (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,LIU Tengteng,DEY Jeremy,4,0,"11,11,11,11|5,2,1,1",,OTHER,MS,165,Qualification,LIU Tengteng (NZL),DEY Jeremy (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TOWNSEND Wade,HEO Tom,4,0,"11,11,11,11|7,7,7,5",,OTHER,MS,165,Qualification,TOWNSEND Wade (AUS),HEO Tom (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,LIU Tengteng,TOWNSEND Wade,4,2,"11,11,13,7,11,11|6,7,15,11,2,2",,OTHER,MS,165,Qualification,LIU Tengteng (NZL),TOWNSEND Wade (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DEY Jeremy,MANASE Fakanaaga,4,0,"11,11,11,11|5,7,8,6",,OTHER,MS,165,Qualification,DEY Jeremy (NCL),MANASE Fakanaaga (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TOWNSEND Wade,DEY Jeremy,4,2,"10,11,11,9,11,11|12,9,1,11,5,9",,OTHER,MS,165,Qualification,TOWNSEND Wade (AUS),DEY Jeremy (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,HEO Tom,MANASE Fakanaaga,4,0,"11,11,11,11|6,9,5,4",,OTHER,MS,165,Qualification,HEO Tom (PYF),MANASE Fakanaaga (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,YAN Xin,CHARLES Nolann,4,0,"11,11,11,11|3,7,4,7",,OTHER,MS,165,Qualification,YAN Xin (AUS),CHARLES Nolann (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,LIN Yi-Sien,CARNET Bydhir,4,0,"11,11,11,11|3,6,5,2",,OTHER,MS,165,Qualification,LIN Yi-Sien (NZL),CARNET Bydhir (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,YAN Xin,CARNET Bydhir,4,0,"11,11,11,11|2,2,1,1",,OTHER,MS,165,Qualification,YAN Xin (AUS),CARNET Bydhir (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,FREDDY Choy,CHARLES Nolann,4,2,"11,11,8,7,11,11|4,7,11,11,4,4",,OTHER,MS,165,Qualification,FREDDY Choy (KIR),CHARLES Nolann (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,YAN Xin,FREDDY Choy,4,0,"16,11,11,11|14,5,7,5",,OTHER,MS,165,Qualification,YAN Xin (AUS),FREDDY Choy (KIR)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,LIN Yi-Sien,CHARLES Nolann,4,0,"11,11,11,12|2,4,4,10",,OTHER,MS,165,Qualification,LIN Yi-Sien (NZL),CHARLES Nolann (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,YAN Xin,LIN Yi-Sien,4,0,"11,13,11,11|4,11,9,5",,OTHER,MS,165,Qualification,YAN Xin (AUS),LIN Yi-Sien (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,FREDDY Choy,CARNET Bydhir,4,1,"8,11,11,11,11|11,2,1,4,7",,OTHER,MS,165,Qualification,FREDDY Choy (KIR),CARNET Bydhir (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,LIN Yi-Sien,FREDDY Choy,4,0,"11,11,11,11|6,9,9,8",,OTHER,MS,165,Qualification,LIN Yi-Sien (NZL),FREDDY Choy (KIR)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,CHARLES Nolann,CARNET Bydhir,4,0,"11,11,11,11|7,8,5,7",,OTHER,MS,165,Qualification,CHARLES Nolann (NCL),CARNET Bydhir (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,HU Heming,GENDRON Hugo,4,0,"11,11,13,11|3,9,11,6",,OTHER,MS,165,Qualification,HU Heming (AUS),GENDRON Hugo (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TOWNSEND Kane,RESTURE Alex,4,0,"11,11,11,11|3,5,4,4",,OTHER,MS,165,Qualification,TOWNSEND Kane (AUS),RESTURE Alex (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,HU Heming,RESTURE Alex,4,0,"11,11,11,11|4,3,4,4",,OTHER,MS,165,Qualification,HU Heming (AUS),RESTURE Alex (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DYE Craig,GENDRON Hugo,4,0,"11,11,11,11|4,7,2,5",,OTHER,MS,165,Qualification,DYE Craig (NZL),GENDRON Hugo (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,HU Heming,DYE Craig,4,0,"11,11,11,11|6,7,5,7",,OTHER,MS,165,Qualification,HU Heming (AUS),DYE Craig (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TOWNSEND Kane,GENDRON Hugo,4,0,"11,11,11,11|7,8,5,5",,OTHER,MS,165,Qualification,TOWNSEND Kane (AUS),GENDRON Hugo (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,HU Heming,TOWNSEND Kane,4,0,"13,11,11,11|11,7,5,9",,OTHER,MS,165,Qualification,HU Heming (AUS),TOWNSEND Kane (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DYE Craig,RESTURE Alex,4,0,"11,11,11,11|3,3,3,2",,OTHER,MS,165,Qualification,DYE Craig (NZL),RESTURE Alex (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TOWNSEND Kane,DYE Craig,4,0,"11,11,11,11|4,8,6,2",,OTHER,MS,165,Qualification,TOWNSEND Kane (AUS),DYE Craig (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,GENDRON Hugo,RESTURE Alex,4,0,"11,11,11,11|2,3,2,2",,OTHER,MS,165,Qualification,GENDRON Hugo (PYF),RESTURE Alex (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,POWELL David,LIN Yi-Sien,4,1,"12,11,8,11,11|10,4,11,5,5",QF,OTHER,MS,165,Main Draw,POWELL David (AUS),LIN Yi-Sien (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,HU Heming,TOWNSEND Wade,4,0,"11,11,13,11|5,7,11,7",QF,OTHER,MS,165,Main Draw,TOWNSEND Wade (AUS),HU Heming (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,YAN Xin,BALL Matthew,4,0,"11,12,11,12|5,10,8,10",QF,OTHER,MS,165,Main Draw,YAN Xin (AUS),BALL Matthew (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,LIU Tengteng,TOWNSEND Kane,4,2,"11,12,9,10,12,12|9,10,11,12,10,10",QF,OTHER,MS,165,Main Draw,TOWNSEND Kane (AUS),LIU Tengteng (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,POWELL David,HU Heming,4,3,"11,11,6,9,7,11,11|8,4,11,11,11,4,6",SF,OTHER,MS,165,Main Draw,POWELL David (AUS),HU Heming (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,YAN Xin,LIU Tengteng,4,1,"11,11,8,12,11|9,9,11,10,9",SF,OTHER,MS,165,Main Draw,YAN Xin (AUS),LIU Tengteng (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,YAN Xin,POWELL David,4,3,"11,11,9,11,7,17,12|5,5,11,7,11,19,10",F,OTHER,MS,165,Main Draw,POWELL David (AUS),YAN Xin (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TOWNSEND Wade,LIN Yi-Sien,4,3,"8,10,11,8,12,11,13|11,12,5,11,10,5,11",5-8,OTHER,MS,165,Position Draw,LIN Yi-Sien (NZL),TOWNSEND Wade (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TOWNSEND Kane,BALL Matthew,4,0,"13,11,11,11|11,6,8,2",5-8,OTHER,MS,165,Position Draw,BALL Matthew (NZL),TOWNSEND Kane (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TOWNSEND Kane,TOWNSEND Wade,4,0,"12,13,11,11|10,11,7,5",3RD,OTHER,MS,165,Position Draw,TOWNSEND Wade (AUS),TOWNSEND Kane (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,LIN Yi-Sien,BALL Matthew,4,2,"7,7,11,11,13,11|11,11,7,7,11,7",3RD,OTHER,MS,165,Position Draw,LIN Yi-Sien (NZL),BALL Matthew (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,LIU Tengteng,HU Heming,4,2,"4,15,3,11,11,14|11,13,11,5,6,12",3RD,OTHER,MS,165,Position Draw,HU Heming (AUS),LIU Tengteng (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,LAY Jian Fang,SINGH Armindeep,4,0,"12,11,11,11|10,3,3,1",QF,OTHER,WS,165,Main Draw,LAY Jian Fang (AUS),SINGH Armindeep (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DEDERKO Zhenhua,RAO Ruofei,4,3,"7,10,6,11,11,11,11|11,12,11,9,4,6,6",QF,OTHER,WS,165,Main Draw,RAO Ruofei (NZL),DEDERKO Zhenhua (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TAPPER Melissa,MIAO Miao,4,2,"11,11,7,3,11,14|5,9,11,11,3,12",QF,OTHER,WS,165,Main Draw,TAPPER Melissa (AUS),MIAO Miao (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,ZHANG Ziyu,PATERSON Natalie,4,0,"11,11,11,11|7,3,3,6",QF,OTHER,WS,165,Main Draw,PATERSON Natalie (NZL),ZHANG Ziyu (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,LAY Jian Fang,DEDERKO Zhenhua,4,1,"11,8,11,11,14|8,11,6,9,12",SF,OTHER,WS,165,Main Draw,LAY Jian Fang (AUS),DEDERKO Zhenhua (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TAPPER Melissa,ZHANG Ziyu,4,2,"11,8,9,11,11,11|7,11,11,7,8,8",SF,OTHER,WS,165,Main Draw,TAPPER Melissa (AUS),ZHANG Ziyu (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,LAY Jian Fang,TAPPER Melissa,4,1,"11,11,9,11,12|3,8,11,4,10",F,OTHER,WS,165,Main Draw,LAY Jian Fang (AUS),TAPPER Melissa (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,RAO Ruofei,SINGH Armindeep,4,0,"11,11,11,11|6,2,4,6",5-8,OTHER,WS,165,Position Draw,SINGH Armindeep (NZL),RAO Ruofei (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,MIAO Miao,PATERSON Natalie,4,0,"11,11,11,11|3,6,6,9",5-8,OTHER,WS,165,Position Draw,MIAO Miao (AUS),PATERSON Natalie (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,MIAO Miao,RAO Ruofei,4,0,"11,11,11,11|7,7,5,7",3RD,OTHER,WS,165,Position Draw,RAO Ruofei (NZL),MIAO Miao (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,PATERSON Natalie,SINGH Armindeep,4,2,"9,11,7,11,11,11|11,5,11,4,6,6",3RD,OTHER,WS,165,Position Draw,SINGH Armindeep (NZL),PATERSON Natalie (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,ZHANG Ziyu,DEDERKO Zhenhua,4,0,"11,11,11,11|5,9,4,7",3RD,OTHER,WS,165,Position Draw,DEDERKO Zhenhua (AUS),ZHANG Ziyu (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DOSSIER Margaux,YEE Sally,4,3,"6,7,11,11,12,1,11|11,11,8,6,10,11,8",8,OTHER,WS,165,Consolation,YEE Sally (FIJ),DOSSIER Margaux (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DANGER Solenn,YEE Harvi,4,3,"5,8,11,11,11,7,11|11,11,6,7,6,11,8",8,OTHER,WS,165,Consolation,DANGER Solenn (NCL),YEE Harvi (FIJ)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,LI Carolyn,SANTINO Vanina,4,1,"13,14,8,11,11|11,12,11,4,5",8,OTHER,WS,165,Consolation,LI Carolyn (FIJ),SANTINO Vanina (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,YEE Grace Rosi,RESTURE Kaimalie,4,0,"11,11,11,11|4,6,6,7",8,OTHER,WS,165,Consolation,RESTURE Kaimalie (TUV),YEE Grace Rosi (FIJ)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DANGER Solenn,DOSSIER Margaux,4,0,"11,11,11,11|8,2,5,3",4,OTHER,WS,165,Consolation,DOSSIER Margaux (PYF),DANGER Solenn (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,YEE Grace Rosi,LI Carolyn,4,0,"11,11,11,12|7,7,4,10",4,OTHER,WS,165,Consolation,LI Carolyn (FIJ),YEE Grace Rosi (FIJ)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DANGER Solenn,YEE Grace Rosi,4,1,"11,11,11,8,11|8,8,4,11,9",2,OTHER,WS,165,Consolation,DANGER Solenn (NCL),YEE Grace Rosi (FIJ)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,YEE Sally,YEE Harvi,4,0,"11,13,15,11|9,11,13,7",4,OTHER,WS,165,Consolation,YEE Sally (FIJ),YEE Harvi (FIJ)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,YEE Sally,SANTINO Vanina,4,1,"11,6,12,11,11|9,11,10,9,5",2,OTHER,WS,165,Consolation,YEE Sally (FIJ),SANTINO Vanina (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,YEE Harvi,RESTURE Kaimalie,4,1,"11,11,11,15,11|8,5,7,17,9",2,OTHER,WS,165,Consolation,YEE Harvi (FIJ),RESTURE Kaimalie (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TSAO Erny,HEO Tom,4,0,"11,11,11,11|2,3,2,9",QF,OTHER,U21MS,165,Main Draw,TSAO Erny (AUS),HEO Tom (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DOSSIER Gregoire,ZENAIDEE Zaki,4,3,"13,13,8,7,11,11,11|15,11,11,11,9,5,5",QF,OTHER,U21MS,165,Main Draw,DOSSIER Gregoire (PYF),ZENAIDEE Zaki (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DHOORIA Rohan,GENDRON Hugo,4,1,"12,11,7,11,11|10,8,11,5,9",QF,OTHER,U21MS,165,Main Draw,DHOORIA Rohan (AUS),GENDRON Hugo (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,COSGRIFF Luke,TAMBIA Nicolas,4,0,"11,12,11,11|6,10,7,9",QF,OTHER,U21MS,165,Main Draw,TAMBIA Nicolas (PYF),COSGRIFF Luke (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TSAO Erny,DOSSIER Gregoire,4,0,"11,11,11,11|8,4,8,4",SF,OTHER,U21MS,165,Main Draw,TSAO Erny (AUS),DOSSIER Gregoire (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DHOORIA Rohan,COSGRIFF Luke,4,3,"9,9,12,11,9,14,11|11,11,10,5,11,12,9",SF,OTHER,U21MS,165,Main Draw,DHOORIA Rohan (AUS),COSGRIFF Luke (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TSAO Erny,DHOORIA Rohan,4,1,"11,11,19,11,11|8,9,21,5,9",F,OTHER,U21MS,165,Main Draw,TSAO Erny (AUS),DHOORIA Rohan (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,NEWTON Georgina,YEE Sally,4,0,"11,11,11,11|6,2,9,8",QF,OTHER,U21WS,165,Main Draw,YEE Sally (FIJ),NEWTON Georgina (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,YEE Grace Rosi,SANTINO Vanina,4,2,"11,11,8,6,11,11|4,8,11,11,7,5",QF,OTHER,U21WS,165,Main Draw,YEE Grace Rosi (FIJ),SANTINO Vanina (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,RAO Ruofei,NEWTON Georgina,4,2,"7,11,11,11,11,11|11,13,6,2,6,3",SF,OTHER,U21WS,165,Main Draw,RAO Ruofei (NZL),NEWTON Georgina (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TAN Sarah,YEE Grace Rosi,4,0,"11,11,11,11|3,8,5,3",SF,OTHER,U21WS,165,Main Draw,YEE Grace Rosi (FIJ),TAN Sarah (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,RAO Ruofei,TAN Sarah,4,3,"18,8,11,5,11,7,11|16,11,4,11,7,11,6",F,OTHER,U21WS,165,Main Draw,RAO Ruofei (NZL),TAN Sarah (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,GENDRON Hugo,MANASE Fakanaaga,4,0,"11,11,11,11|6,7,6,9",QR8,OTHER,MS,165,Qualification,GENDRON Hugo (PYF),MANASE Fakanaaga (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,FREDDY Choy,DOSSIER Gregoire,4,2,"13,11,11,7,6,11|11,8,6,11,11,5",8,OTHER,MS,165,Consolation,FREDDY Choy (KIR),DOSSIER Gregoire (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DYE Craig,HEO Tom,4,0,"11,11,11,11|5,3,6,6",8,OTHER,MS,165,Consolation,HEO Tom (PYF),DYE Craig (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,SHING Yoshua,CHARLES Nolann,4,0,"11,11,11,11|7,8,5,3",8,OTHER,MS,165,Consolation,SHING Yoshua (VAN),CHARLES Nolann (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DEY Jeremy,GENDRON Hugo,4,2,"4,11,14,9,11,11|11,9,12,11,2,9",8,OTHER,MS,165,Consolation,GENDRON Hugo (PYF),DEY Jeremy (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DYE Craig,FREDDY Choy,4,0,"11,11,11,11|4,8,9,9",4,OTHER,MS,165,Consolation,FREDDY Choy (KIR),DYE Craig (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,SHING Yoshua,DEY Jeremy,4,0,"12,11,11,11|10,5,2,9",4,OTHER,MS,165,Consolation,SHING Yoshua (VAN),DEY Jeremy (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,SHING Yoshua,DYE Craig,4,0,"11,11,11,11|8,2,7,4",2,OTHER,MS,165,Consolation,DYE Craig (NZL),SHING Yoshua (VAN)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,CHARLES Nolann,GENDRON Hugo,4,1,"12,8,16,11,14|10,11,14,5,12",4,OTHER,MS,165,Consolation,CHARLES Nolann (NCL),GENDRON Hugo (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DOSSIER Gregoire,CHARLES Nolann,4,1,"11,8,11,11,11|8,11,9,6,8",2,OTHER,MS,165,Consolation,DOSSIER Gregoire (PYF),CHARLES Nolann (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,GENDRON Hugo,HEO Tom,4,1,"13,3,13,11,11|11,11,11,6,3",2,OTHER,MS,165,Consolation,HEO Tom (PYF),GENDRON Hugo (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DEY Jeremy,FREDDY Choy,4,1,"11,10,11,12,11|7,12,9,10,8",2,OTHER,MS,165,Consolation,FREDDY Choy (KIR),DEY Jeremy (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,RESTURE Alex,RESTURE Seluka,4,0,"11,11,11,11|8,9,7,9",4,OTHER,MS,165,Consolation,RESTURE Seluka (TUV),RESTURE Alex (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,CARNET Bydhir,MANASE Fakanaaga,4,1,"18,11,8,11,12|16,9,11,6,10",4,OTHER,MS,165,Consolation,CARNET Bydhir (PYF),MANASE Fakanaaga (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,CARNET Bydhir,RESTURE Alex,4,0,"11,11,11,11|2,8,9,6",2,OTHER,MS,165,Consolation,RESTURE Alex (TUV),CARNET Bydhir (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,MANASE Fakanaaga,RESTURE Seluka,4,3,"11,9,11,9,11,7,12|6,11,7,11,5,11,10",2,OTHER,MS,165,Consolation,RESTURE Seluka (TUV),MANASE Fakanaaga (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,NEWTON Georgina,DANGER Solenn,3,0,"11,11,11|8,5,6",SF,OTHER,U21WD,165,Main Draw,NEWTON Georgina (AUS),DANGER Solenn (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,NEWTON Georgina,DOSSIER Margaux,3,0,"11,11,11|5,8,7",F,OTHER,U21WD,165,Main Draw,NEWTON Georgina (AUS),DOSSIER Margaux (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TSAO Erny,CARNET Bydhir,3,0,"11,11,11|9,6,7",SF,OTHER,U21MD,165,Main Draw,TSAO Erny (AUS),CARNET Bydhir (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,PENG Kai/TAN Sarah,YEE Grace Rosi/YEE Sally,3,0,"11,11,11|6,7,6",SF,OTHER,WD,165,Main Draw,PENG Kai (AUS) / TAN Sarah (AUS),YEE Grace Rosi (FIJ) / YEE Sally (FIJ)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,PATERSON Natalie/RAO Ruofei,PENG Kai/TAN Sarah,3,0,"11,11,11|9,8,4",F,OTHER,WD,165,Main Draw,PATERSON Natalie (NZL) / RAO Ruofei (NZL),PENG Kai (AUS) / TAN Sarah (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,FREDDY Choy/SHING Yoshua,DHOORIA Rohan/ZENAIDEE Zaki,3,2,"4,10,11,11,13|11,12,7,6,11",QF,OTHER,MD,165,Main Draw,FREDDY Choy (KIR) / SHING Yoshua (VAN),DHOORIA Rohan (AUS) / ZENAIDEE Zaki (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,BALL Matthew/LIN Yi-Sien,TSAO Erny/COSGRIFF Luke,3,1,"11,12,11,11|4,14,9,9",SF,OTHER,MD,165,Main Draw,BALL Matthew (NZL) / LIN Yi-Sien (NZL),TSAO Erny (AUS) / COSGRIFF Luke (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TSAO Erny,TAMBIA Nicolas,3,0,"11,11,11|5,4,6",QF,OTHER,U21XD,165,Main Draw,TSAO Erny (AUS),TAMBIA Nicolas (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,COSGRIFF Luke,TSAO Erny,3,2,"11,11,10,11,12|13,8,12,8,10",F,OTHER,U21XD,165,Main Draw,TSAO Erny (AUS),COSGRIFF Luke (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DOSSIER Margaux,YEE Grace Rosi,3,1,"11,9,11,11|4,11,8,8",SF,OTHER,U21WD,165,Main Draw,YEE Grace Rosi (FIJ),DOSSIER Margaux (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,ZENAIDEE Zaki/NEWTON Georgina,HEO Tom/YEE Harvi,3,1,"6,11,11,11|11,7,8,2",R16,OTHER,XD,165,Main Draw,ZENAIDEE Zaki (AUS) / NEWTON Georgina (AUS),HEO Tom (PYF) / YEE Harvi (FIJ)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,SHING Yoshua/YEE Sally,GENDRON Hugo/DOSSIER Margaux,3,0,"11,11,11|4,9,3",R16,OTHER,XD,165,Main Draw,SHING Yoshua (VAN) / YEE Sally (FIJ),GENDRON Hugo (PYF) / DOSSIER Margaux (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TSAO Erny/PENG Kai,SHING Yoshua/YEE Sally,3,1,"9,11,11,11|11,5,8,7",QF,OTHER,XD,165,Main Draw,TSAO Erny (AUS) / PENG Kai (AUS),SHING Yoshua (VAN) / YEE Sally (FIJ)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,COSGRIFF Luke,DOSSIER Gregoire,3,1,"11,11,8,11|7,6,11,2",SF,OTHER,U21XD,165,Main Draw,DOSSIER Gregoire (PYF),COSGRIFF Luke (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,BALL Matthew/LIN Yi-Sien,CHARLES Nolann/DEY Jeremy,3,0,"11,11,11|9,6,7",QF,OTHER,MD,165,Main Draw,BALL Matthew (NZL) / LIN Yi-Sien (NZL),CHARLES Nolann (NCL) / DEY Jeremy (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,COSGRIFF Luke,CARNET Bydhir,3,0,"11,11,11|4,6,4",QF,OTHER,U21XD,165,Main Draw,CARNET Bydhir (PYF),COSGRIFF Luke (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,NEWTON Georgina/SINGH Armindeep,LI Carolyn/YEE Harvi,3,0,"12,11,11|10,3,5",QF,OTHER,WD,165,Main Draw,NEWTON Georgina (AUS) / SINGH Armindeep (NZL),LI Carolyn (FIJ) / YEE Harvi (FIJ)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,PATERSON Natalie/RAO Ruofei,NEWTON Georgina/SINGH Armindeep,3,0,"11,11,11|8,6,4",SF,OTHER,WD,165,Main Draw,PATERSON Natalie (NZL) / RAO Ruofei (NZL),NEWTON Georgina (AUS) / SINGH Armindeep (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DYE Craig/SINGH Armindeep,DOSSIER Gregoire/LI Carolyn,3,1,"11,11,6,11|7,7,11,7",R16,OTHER,XD,165,Main Draw,DYE Craig (NZL) / SINGH Armindeep (NZL),DOSSIER Gregoire (PYF) / LI Carolyn (FIJ)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,LIN Yi-Sien/RAO Ruofei,DEY Jeremy/SANTINO Vanina,3,0,"11,11,11|6,1,2",QF,OTHER,XD,165,Main Draw,LIN Yi-Sien (NZL) / RAO Ruofei (NZL),DEY Jeremy (NCL) / SANTINO Vanina (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DYE Craig/SINGH Armindeep,COSGRIFF Luke/TAN Sarah,3,2,"5,11,6,11,12|11,9,11,8,10",QF,OTHER,XD,165,Main Draw,DYE Craig (NZL) / SINGH Armindeep (NZL),COSGRIFF Luke (AUS) / TAN Sarah (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,BALL Matthew/PATERSON Natalie,ZENAIDEE Zaki/NEWTON Georgina,3,0,"11,11,18|6,8,16",QF,OTHER,XD,165,Main Draw,BALL Matthew (NZL) / PATERSON Natalie (NZL),ZENAIDEE Zaki (AUS) / NEWTON Georgina (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,LIN Yi-Sien/RAO Ruofei,DYE Craig/SINGH Armindeep,3,1,"12,4,11,12|10,11,3,10",SF,OTHER,XD,165,Main Draw,LIN Yi-Sien (NZL) / RAO Ruofei (NZL),DYE Craig (NZL) / SINGH Armindeep (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TSAO Erny/PENG Kai,BALL Matthew/PATERSON Natalie,3,0,"11,11,11|4,7,8",SF,OTHER,XD,165,Main Draw,TSAO Erny (AUS) / PENG Kai (AUS),BALL Matthew (NZL) / PATERSON Natalie (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,LIN Yi-Sien/RAO Ruofei,TSAO Erny/PENG Kai,3,0,"11,12,11|9,10,8",F,OTHER,XD,165,Main Draw,LIN Yi-Sien (NZL) / RAO Ruofei (NZL),TSAO Erny (AUS) / PENG Kai (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,FREDDY Choy/SHING Yoshua,BALL Matthew/LIN Yi-Sien,3,0,"11,11,11|9,7,7",F,OTHER,MD,165,Main Draw,FREDDY Choy (KIR) / SHING Yoshua (VAN),BALL Matthew (NZL) / LIN Yi-Sien (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,PATERSON Natalie/RAO Ruofei,DOSSIER Margaux/RESTURE Kaimalie,3,0,"11,11,11|7,5,4",QF,OTHER,WD,165,Main Draw,PATERSON Natalie (NZL) / RAO Ruofei (NZL),DOSSIER Margaux (PYF) / RESTURE Kaimalie (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,COSGRIFF Luke/TAN Sarah,MANASE Fakanaaga/RESTURE Kaimalie,3,1,"11,12,11,15|3,14,4,13",R16,OTHER,XD,165,Main Draw,COSGRIFF Luke (AUS) / TAN Sarah (AUS),MANASE Fakanaaga (TUV) / RESTURE Kaimalie (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TAMBIA Nicolas,RESTURE Alex,3,0,"11,11,11|6,3,8",R16,OTHER,U21XD,165,Main Draw,RESTURE Alex (TUV),TAMBIA Nicolas (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,FREDDY Choy/SHING Yoshua,DYE Craig/LIU Tengteng,3,2,"4,11,11,7,11|11,5,9,11,7",SF,OTHER,MD,165,Main Draw,FREDDY Choy (KIR) / SHING Yoshua (VAN),DYE Craig (NZL) / LIU Tengteng (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,COSGRIFF Luke,DEY Jeremy,3,0,"11,15,11|5,13,4",GROUP,OTHER,MT,165,Main Draw,COSGRIFF Luke (AUS),DEY Jeremy (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DHOORIA Rohan,CHARLES Nolann,3,0,"11,11,13|6,9,11",GROUP,OTHER,MT,165,Main Draw,DHOORIA Rohan (AUS),CHARLES Nolann (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,COSGRIFF Luke,CHARLES Nolann,3,0,"11,13,11|7,11,9",GROUP,OTHER,MT,165,Main Draw,COSGRIFF Luke (AUS),CHARLES Nolann (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DEY Jeremy,DHOORIA Rohan,3,1,"12,6,11,12|10,11,9,10",GROUP,OTHER,MT,165,Main Draw,DHOORIA Rohan (AUS),DEY Jeremy (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,BALL Matthew,MANASE Fakanaaga,3,0,"11,11,11|0,5,1",GROUP,OTHER,MT,165,Main Draw,BALL Matthew (NZL),MANASE Fakanaaga (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,LIN Yi-Sien,RESTURE Seluka,3,0,"11,11,11|1,3,1",GROUP,OTHER,MT,165,Main Draw,LIN Yi-Sien (NZL),RESTURE Seluka (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,BALL Matthew,RESTURE Alex,3,0,"11,11,11|5,1,4",GROUP,OTHER,MT,165,Main Draw,BALL Matthew (NZL),RESTURE Alex (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DYE Craig,MANASE Fakanaaga,3,0,"11,11,11|6,6,4",GROUP,OTHER,MT,165,Main Draw,DYE Craig (NZL),MANASE Fakanaaga (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DOSSIER Gregoire,FREDDY Choy,3,0,"11,11,11|6,8,7",GROUP,OTHER,MT,165,Main Draw,FREDDY Choy (KIR),DOSSIER Gregoire (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,FREDDY Choy,GENDRON Hugo,3,1,"10,18,11,11|12,16,9,9",GROUP,OTHER,MT,165,Main Draw,FREDDY Choy (KIR),GENDRON Hugo (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TSAO Erny,GENDRON Hugo,3,1,"2,11,11,11|11,4,3,7",GROUP,OTHER,MT,165,Main Draw,GENDRON Hugo (PYF),TSAO Erny (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,COSGRIFF Luke,HEO Tom,3,0,"11,11,11|6,4,2",GROUP,OTHER,MT,165,Main Draw,HEO Tom (PYF),COSGRIFF Luke (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,LIN Yi-Sien,SHING Yoshua,3,1,"11,11,6,11|6,8,11,7",GROUP,OTHER,MT,165,Main Draw,SHING Yoshua (VAN),LIN Yi-Sien (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,BALL Matthew,FREDDY Choy,3,0,"11,11,13|6,7,11",GROUP,OTHER,MT,165,Main Draw,FREDDY Choy (KIR),BALL Matthew (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DEY Jeremy,RESTURE Alex,3,0,"11,11,11|7,2,3",GROUP,OTHER,MT,165,Main Draw,DEY Jeremy (NCL),RESTURE Alex (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,CHARLES Nolann,MANASE Fakanaaga,3,0,"11,18,11|7,16,4",GROUP,OTHER,MT,165,Main Draw,CHARLES Nolann (NCL),MANASE Fakanaaga (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,CHARLES Nolann,RESTURE Alex,3,0,"11,11,13|7,5,11",GROUP,OTHER,MT,165,Main Draw,CHARLES Nolann (NCL),RESTURE Alex (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,SHING Yoshua,TSAO Erny,3,1,"11,11,9,16|9,7,11,14",GROUP,OTHER,MT,165,Main Draw,TSAO Erny (AUS),SHING Yoshua (VAN)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,COSGRIFF Luke,FREDDY Choy,3,1,"13,8,11,12|11,11,8,10",GROUP,OTHER,MT,165,Main Draw,COSGRIFF Luke (AUS),FREDDY Choy (KIR)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TSAO Erny,FREDDY Choy,3,2,"7,11,11,7,11|11,3,7,11,9",GROUP,OTHER,MT,165,Main Draw,TSAO Erny (AUS),FREDDY Choy (KIR)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,SHING Yoshua,COSGRIFF Luke,3,1,"8,14,11,11|11,12,4,8",GROUP,OTHER,MT,165,Main Draw,COSGRIFF Luke (AUS),SHING Yoshua (VAN)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,BALL Matthew,DEY Jeremy,3,2,"9,12,11,11,11|11,10,13,7,3",GROUP,OTHER,MT,165,Main Draw,DEY Jeremy (NCL),BALL Matthew (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DHOORIA Rohan,LIN Yi-Sien,3,0,"11,11,11|7,7,3",GROUP,OTHER,MT,165,Main Draw,LIN Yi-Sien (NZL),DHOORIA Rohan (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,COSGRIFF Luke,DYE Craig,3,0,"11,11,11|4,8,6",GROUP,OTHER,MT,165,Main Draw,DYE Craig (NZL),COSGRIFF Luke (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DHOORIA Rohan,BALL Matthew,3,0,"11,13,11|7,11,9",GROUP,OTHER,MT,165,Main Draw,BALL Matthew (NZL),DHOORIA Rohan (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,FREDDY Choy,MANASE Fakanaaga,3,0,"11,11,11|8,6,4",GROUP,OTHER,MT,165,Main Draw,FREDDY Choy (KIR),MANASE Fakanaaga (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,SHING Yoshua,RESTURE Alex,3,0,"11,11,11|6,6,2",GROUP,OTHER,MT,165,Main Draw,SHING Yoshua (VAN),RESTURE Alex (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,FREDDY Choy,RESTURE Alex,3,0,"11,11,11|7,2,4",GROUP,OTHER,MT,165,Main Draw,FREDDY Choy (KIR),RESTURE Alex (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,SHING Yoshua,MANASE Fakanaaga,3,0,"11,11,11|4,1,6",GROUP,OTHER,MT,165,Main Draw,SHING Yoshua (VAN),MANASE Fakanaaga (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DOSSIER Gregoire,DEY Jeremy,3,1,"8,11,13,11|11,4,11,9",GROUP,OTHER,MT,165,Main Draw,DOSSIER Gregoire (PYF),DEY Jeremy (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,GENDRON Hugo,CHARLES Nolann,3,1,"11,11,11,11|5,13,8,7",GROUP,OTHER,MT,165,Main Draw,GENDRON Hugo (PYF),CHARLES Nolann (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DHOORIA Rohan,MANASE Fakanaaga,3,0,"11,11,11|2,4,4",GROUP,OTHER,MT,165,Main Draw,DHOORIA Rohan (AUS),MANASE Fakanaaga (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,COSGRIFF Luke,RESTURE Seluka,3,0,"11,11,11|1,3,5",GROUP,OTHER,MT,165,Main Draw,COSGRIFF Luke (AUS),RESTURE Seluka (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DHOORIA Rohan,RESTURE Seluka,3,0,"11,11,11|2,8,8",GROUP,OTHER,MT,165,Main Draw,DHOORIA Rohan (AUS),RESTURE Seluka (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,LIN Yi-Sien,GENDRON Hugo,3,0,"11,11,11|3,8,4",GROUP,OTHER,MT,165,Main Draw,LIN Yi-Sien (NZL),GENDRON Hugo (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,LIN Yi-Sien,DOSSIER Gregoire,3,1,"9,11,11,11|11,9,6,5",GROUP,OTHER,MT,165,Main Draw,LIN Yi-Sien (NZL),DOSSIER Gregoire (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,BALL Matthew,GENDRON Hugo,3,0,"11,11,15|9,4,13",GROUP,OTHER,MT,165,Main Draw,BALL Matthew (NZL),GENDRON Hugo (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,ZENAIDEE Zaki,RESTURE Alex,3,1,"11,8,11,11|2,11,8,7",,OTHER,U21MT,165,Qualification,ZENAIDEE Zaki (AUS),RESTURE Alex (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TSAO Erny,RESTURE Seluka,3,0,"11,11,11|4,8,9",,OTHER,U21MT,165,Qualification,TSAO Erny (AUS),RESTURE Seluka (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TSAO Erny,RESTURE Alex,3,0,"11,11,11|3,5,6",,OTHER,U21MT,165,Qualification,TSAO Erny (AUS),RESTURE Alex (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,HEO Tom,RESTURE Seluka,3,0,"11,11,11|7,3,6",,OTHER,U21MT,165,Qualification,HEO Tom (PYF),RESTURE Seluka (TUV)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,GENDRON Hugo,ZENAIDEE Zaki,3,0,"11,11,11|9,9,9",,OTHER,U21MT,165,Qualification,ZENAIDEE Zaki (AUS),GENDRON Hugo (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,COSGRIFF Luke,GENDRON Hugo,3,0,"11,11,14|7,8,12",,OTHER,U21MT,165,Qualification,COSGRIFF Luke (AUS),GENDRON Hugo (PYF)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TAN Sarah,SANTINO Vanina,3,0,"11,12,11|5,10,3",,OTHER,U21WT,165,Qualification,TAN Sarah (AUS),SANTINO Vanina (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,YEE Sally,DOSSIER Margaux,3,2,"7,11,7,11,13|11,3,11,4,11",,OTHER,U21WT,165,Qualification,DOSSIER Margaux (PYF),YEE Sally (FIJ)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,YEE Grace Rosi,RAO Ruofei,3,2,"11,8,13,3,11|7,11,11,11,9",,OTHER,U21WT,165,Qualification,RAO Ruofei (NZL),YEE Grace Rosi (FIJ)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,RAO Ruofei,YEE Sally,3,0,"11,11,12|8,7,10",,OTHER,U21WT,165,Qualification,RAO Ruofei (NZL),YEE Sally (FIJ)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TAN Sarah,DOSSIER Margaux,3,0,"11,11,11|3,7,4",,OTHER,U21WT,165,Qualification,DOSSIER Margaux (PYF),TAN Sarah (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,NEWTON Georgina,RAO Ruofei,3,0,"11,11,11|4,5,9",,OTHER,U21WT,165,Qualification,RAO Ruofei (NZL),NEWTON Georgina (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DANGER Solenn,YEE Sally,3,0,"11,11,11|6,9,6",,OTHER,U21WT,165,Qualification,YEE Sally (FIJ),DANGER Solenn (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,GOODSELL Madeline,YEE Sally,3,0,"13,11,11|11,7,4",,OTHER,U21WT,165,Qualification,GOODSELL Madeline (AUS),YEE Sally (FIJ)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,GOODSELL Madeline,YEE Grace Rosi,3,0,"11,11,11|9,1,6",,OTHER,U21WT,165,Qualification,GOODSELL Madeline (AUS),YEE Grace Rosi (FIJ)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,SANTINO Vanina,DOSSIER Margaux,3,1,"11,5,11,11|6,11,9,9",,OTHER,U21WT,165,Qualification,DOSSIER Margaux (PYF),SANTINO Vanina (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,RAO Ruofei,SANTINO Vanina,3,0,"11,11,11|6,6,2",,OTHER,U21WT,165,Qualification,RAO Ruofei (NZL),SANTINO Vanina (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,GOODSELL Madeline,DANGER Solenn,3,0,"11,11,11|5,7,8",GROUP,OTHER,WT,165,Main Draw,DANGER Solenn (NCL),GOODSELL Madeline (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,PENG Kai,SANTINO Vanina,3,0,"11,11,12|1,7,10",GROUP,OTHER,WT,165,Main Draw,SANTINO Vanina (NCL),PENG Kai (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,PENG Kai,DANGER Solenn,3,0,"11,11,12|3,3,10",GROUP,OTHER,WT,165,Main Draw,DANGER Solenn (NCL),PENG Kai (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,GOODSELL Madeline,SANTINO Vanina,3,0,"11,11,11|9,2,5",GROUP,OTHER,WT,165,Main Draw,SANTINO Vanina (NCL),GOODSELL Madeline (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,LI Carolyn,RESTURE Kaimalie,3,0,"12,11,11|10,4,3",GROUP,OTHER,WT,165,Main Draw,RESTURE Kaimalie (TUV),LI Carolyn (FIJ)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,PENG Kai,RESTURE Kaimalie,3,0,"11,11,11|1,2,1",GROUP,OTHER,WT,165,Main Draw,RESTURE Kaimalie (TUV),PENG Kai (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,PENG Kai,DOSSIER Margaux,3,0,"11,11,11|2,3,6",GROUP,OTHER,WT,165,Main Draw,DOSSIER Margaux (PYF),PENG Kai (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TAN Sarah,RESTURE Kaimalie,3,0,"11,11,11|2,3,4",GROUP,OTHER,WT,165,Main Draw,RESTURE Kaimalie (TUV),TAN Sarah (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,PATERSON Natalie,YEE Grace Rosi,3,1,"11,9,11,11|9,11,2,3",GROUP,OTHER,WT,165,Main Draw,YEE Grace Rosi (FIJ),PATERSON Natalie (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,RAO Ruofei,LI Carolyn,3,0,"11,11,11|5,2,4",GROUP,OTHER,WT,165,Main Draw,LI Carolyn (FIJ),RAO Ruofei (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,SINGH Armindeep,YEE Sally,3,1,"11,11,7,11|6,3,11,9",GROUP,OTHER,WT,165,Main Draw,YEE Sally (FIJ),SINGH Armindeep (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,PATERSON Natalie,LI Carolyn,3,0,"11,11,11|5,3,9",GROUP,OTHER,WT,165,Main Draw,LI Carolyn (FIJ),PATERSON Natalie (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TAN Sarah,LI Carolyn,3,0,"11,11,11|6,3,3",GROUP,OTHER,WT,165,Main Draw,TAN Sarah (AUS),LI Carolyn (FIJ)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,PENG Kai,YEE Sally,3,0,"11,11,11|1,2,2",GROUP,OTHER,WT,165,Main Draw,PENG Kai (AUS),YEE Sally (FIJ)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,SINGH Armindeep,DANGER Solenn,3,2,"8,11,1,11,14|11,5,11,8,12",GROUP,OTHER,WT,165,Main Draw,SINGH Armindeep (NZL),DANGER Solenn (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,SINGH Armindeep,SANTINO Vanina,3,0,"11,11,11|2,3,3",GROUP,OTHER,WT,165,Main Draw,SINGH Armindeep (NZL),SANTINO Vanina (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,PENG Kai,PATERSON Natalie,3,0,"11,11,11|5,9,5",GROUP,OTHER,WT,165,Main Draw,PENG Kai (AUS),PATERSON Natalie (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,GOODSELL Madeline,SINGH Armindeep,3,0,"11,11,11|9,6,4",GROUP,OTHER,WT,165,Main Draw,GOODSELL Madeline (AUS),SINGH Armindeep (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,NEWTON Georgina,PATERSON Natalie,3,2,"11,9,9,12,11|8,11,11,10,9",GROUP,OTHER,WT,165,Main Draw,NEWTON Georgina (AUS),PATERSON Natalie (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,PENG Kai,RAO Ruofei,3,0,"11,11,11|4,7,7",GROUP,OTHER,WT,165,Main Draw,PENG Kai (AUS),RAO Ruofei (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,DANGER Solenn,RESTURE Kaimalie,3,0,"11,11,11|5,4,9",GROUP,OTHER,WT,165,Main Draw,RESTURE Kaimalie (TUV),DANGER Solenn (NCL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,SINGH Armindeep,RESTURE Kaimalie,3,0,"11,11,11|1,5,4",GROUP,OTHER,WT,165,Main Draw,RESTURE Kaimalie (TUV),SINGH Armindeep (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,SANTINO Vanina,YEE Sally,3,1,"11,9,11,11|9,11,8,9",GROUP,OTHER,WT,165,Main Draw,SANTINO Vanina (NCL),YEE Sally (FIJ)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TAN Sarah,SINGH Armindeep,3,1,"8,11,11,11|11,8,8,5",,OTHER,WT,165,Main Draw,TAN Sarah (AUS),SINGH Armindeep (NZL)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TOWNSEND Kane,LIN Yi-Sien,3,2,"11,11,12,7,11|13,8,10,11,8",,OTHER,MT,165,Main Draw,LIN Yi-Sien (NZL),TOWNSEND Kane (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,TOWNSEND Wade,DYE Craig,3,1,"11,6,11,15|4,11,7,13",,OTHER,MT,165,Main Draw,DYE Craig (NZL),TOWNSEND Wade (AUS)
-ITTF Oceania Championships Bendigo 2016,2016-03-20,LIN Yi-Sien,TOWNSEND Wade,3,1,"6,11,11,11|11,9,9,8",,OTHER,MT,165,Main Draw,LIN Yi-Sien (NZL),TOWNSEND Wade (AUS)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DHOORIA Rohan,HEO Tom,3,0,"11,11,11|4,1,5",,OTHER,U21MS,165,Qualification,DHOORIA Rohan (AUS),HEO Tom (PYF),DHOORIA Rohan
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DOSSIER Gregoire,RESTURE Alex,3,0,"11,11,11|5,5,6",,OTHER,U21MS,165,Qualification,DOSSIER Gregoire (PYF),RESTURE Alex (TUV),DOSSIER Gregoire
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DHOORIA Rohan,DOSSIER Gregoire,3,1,"11,11,11,11|6,7,13,8",,OTHER,U21MS,165,Qualification,DHOORIA Rohan (AUS),DOSSIER Gregoire (PYF),DHOORIA Rohan
+ITTF Oceania Championships Bendigo 2016,2016-03-20,HEO Tom,RESTURE Alex,3,0,"11,15,11|5,13,4",,OTHER,U21MS,165,Qualification,HEO Tom (PYF),RESTURE Alex (TUV),HEO Tom
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DHOORIA Rohan,RESTURE Alex,3,0,"11,11,11|5,3,6",,OTHER,U21MS,165,Qualification,DHOORIA Rohan (AUS),RESTURE Alex (TUV),DHOORIA Rohan
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DOSSIER Gregoire,HEO Tom,3,0,"11,11,11|7,5,7",,OTHER,U21MS,165,Qualification,DOSSIER Gregoire (PYF),HEO Tom (PYF),DOSSIER Gregoire
+ITTF Oceania Championships Bendigo 2016,2016-03-20,ZENAIDEE Zaki,TAMBIA Nicolas,3,0,"11,11,12|6,8,10",,OTHER,U21MS,165,Qualification,ZENAIDEE Zaki (AUS),TAMBIA Nicolas (PYF),ZENAIDEE Zaki
+ITTF Oceania Championships Bendigo 2016,2016-03-20,GENDRON Hugo,RESTURE Seluka,3,0,"11,11,11|5,1,7",,OTHER,U21MS,165,Qualification,GENDRON Hugo (PYF),RESTURE Seluka (TUV),GENDRON Hugo
+ITTF Oceania Championships Bendigo 2016,2016-03-20,ZENAIDEE Zaki,GENDRON Hugo,3,1,"11,11,11,11|7,13,7,2",,OTHER,U21MS,165,Qualification,ZENAIDEE Zaki (AUS),GENDRON Hugo (PYF),ZENAIDEE Zaki
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TAMBIA Nicolas,RESTURE Seluka,3,0,"11,11,11|3,1,2",,OTHER,U21MS,165,Qualification,TAMBIA Nicolas (PYF),RESTURE Seluka (TUV),TAMBIA Nicolas
+ITTF Oceania Championships Bendigo 2016,2016-03-20,ZENAIDEE Zaki,RESTURE Seluka,3,0,"11,11,11|6,2,3",,OTHER,U21MS,165,Qualification,ZENAIDEE Zaki (AUS),RESTURE Seluka (TUV),ZENAIDEE Zaki
+ITTF Oceania Championships Bendigo 2016,2016-03-20,GENDRON Hugo,TAMBIA Nicolas,3,0,"11,11,11|6,9,8",,OTHER,U21MS,165,Qualification,GENDRON Hugo (PYF),TAMBIA Nicolas (PYF),GENDRON Hugo
+ITTF Oceania Championships Bendigo 2016,2016-03-20,RAO Ruofei,DOSSIER Margaux,3,0,"11,11,11|6,8,2",,OTHER,U21WS,165,Qualification,RAO Ruofei (NZL),DOSSIER Margaux (PYF),RAO Ruofei
+ITTF Oceania Championships Bendigo 2016,2016-03-20,RAO Ruofei,YEE Grace Rosi,3,2,"13,9,9,11,11|11,11,11,4,5",,OTHER,U21WS,165,Qualification,RAO Ruofei (NZL),YEE Grace Rosi (FIJ),RAO Ruofei
+ITTF Oceania Championships Bendigo 2016,2016-03-20,YEE Grace Rosi,DOSSIER Margaux,3,0,"11,11,11|3,9,6",,OTHER,U21WS,165,Qualification,YEE Grace Rosi (FIJ),DOSSIER Margaux (PYF),YEE Grace Rosi
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TAN Sarah,YEE Sally,3,0,"13,11,11|11,6,2",,OTHER,U21WS,165,Qualification,TAN Sarah (AUS),YEE Sally (FIJ),TAN Sarah
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TAN Sarah,DANGER Solenn,3,0,"11,11,11|5,8,8",,OTHER,U21WS,165,Qualification,TAN Sarah (AUS),DANGER Solenn (NCL),TAN Sarah
+ITTF Oceania Championships Bendigo 2016,2016-03-20,YEE Sally,DANGER Solenn,3,2,"11,3,11,7,11|9,11,7,11,5",,OTHER,U21WS,165,Qualification,DANGER Solenn (NCL),YEE Sally (FIJ),YEE Sally
+ITTF Oceania Championships Bendigo 2016,2016-03-20,NEWTON Georgina,RESTURE Kaimalie,3,0,"11,11,11|7,6,7",,OTHER,U21WS,165,Qualification,NEWTON Georgina (AUS),RESTURE Kaimalie (TUV),NEWTON Georgina
+ITTF Oceania Championships Bendigo 2016,2016-03-20,NEWTON Georgina,SANTINO Vanina,3,0,"11,11,11|4,5,4",,OTHER,U21WS,165,Qualification,NEWTON Georgina (AUS),SANTINO Vanina (NCL),NEWTON Georgina
+ITTF Oceania Championships Bendigo 2016,2016-03-20,SANTINO Vanina,RESTURE Kaimalie,3,0,"11,11,11|6,8,4",,OTHER,U21WS,165,Qualification,SANTINO Vanina (NCL),RESTURE Kaimalie (TUV),SANTINO Vanina
+ITTF Oceania Championships Bendigo 2016,2016-03-20,LAY Jian Fang,YEE Sally,4,0,"11,11,11,11|2,3,3,3",,OTHER,WS,165,Qualification,LAY Jian Fang (AUS),YEE Sally (FIJ),LAY Jian Fang
+ITTF Oceania Championships Bendigo 2016,2016-03-20,PATERSON Natalie,RESTURE Kaimalie,4,0,"11,11,11,11|8,1,4,4",,OTHER,WS,165,Qualification,PATERSON Natalie (NZL),RESTURE Kaimalie (TUV),PATERSON Natalie
+ITTF Oceania Championships Bendigo 2016,2016-03-20,LAY Jian Fang,PATERSON Natalie,4,0,"11,11,11,11|4,7,2,3",,OTHER,WS,165,Qualification,LAY Jian Fang (AUS),PATERSON Natalie (NZL),LAY Jian Fang
+ITTF Oceania Championships Bendigo 2016,2016-03-20,YEE Sally,RESTURE Kaimalie,4,0,"11,11,11,11|8,6,2,1",,OTHER,WS,165,Qualification,YEE Sally (FIJ),RESTURE Kaimalie (TUV),YEE Sally
+ITTF Oceania Championships Bendigo 2016,2016-03-20,LAY Jian Fang,RESTURE Kaimalie,4,0,"11,11,11,11|1,3,5,3",,OTHER,WS,165,Qualification,LAY Jian Fang (AUS),RESTURE Kaimalie (TUV),LAY Jian Fang
+ITTF Oceania Championships Bendigo 2016,2016-03-20,PATERSON Natalie,YEE Sally,4,2,"11,11,11,10,12,11|5,5,2,12,14,4",,OTHER,WS,165,Qualification,PATERSON Natalie (NZL),YEE Sally (FIJ),PATERSON Natalie
+ITTF Oceania Championships Bendigo 2016,2016-03-20,ZHANG Ziyu,LI Carolyn,4,0,"11,11,11|2,5,1",,OTHER,WS,165,Qualification,ZHANG Ziyu (AUS),LI Carolyn (FIJ),ZHANG Ziyu
+ITTF Oceania Championships Bendigo 2016,2016-03-20,SINGH Armindeep,DOSSIER Margaux,4,0,"11,11,11,11|9,6,7,5",,OTHER,WS,165,Qualification,SINGH Armindeep (NZL),DOSSIER Margaux (PYF),SINGH Armindeep
+ITTF Oceania Championships Bendigo 2016,2016-03-20,ZHANG Ziyu,SINGH Armindeep,4,0,"11,11,11,11|3,4,2,4",,OTHER,WS,165,Qualification,ZHANG Ziyu (AUS),SINGH Armindeep (NZL),ZHANG Ziyu
+ITTF Oceania Championships Bendigo 2016,2016-03-20,LI Carolyn,DOSSIER Margaux,4,1,"11,11,11,5,11|6,7,8,11,6",,OTHER,WS,165,Qualification,LI Carolyn (FIJ),DOSSIER Margaux (PYF),LI Carolyn
+ITTF Oceania Championships Bendigo 2016,2016-03-20,ZHANG Ziyu,DOSSIER Margaux,4,0,"11,11,11,11|1,1,4,4",,OTHER,WS,165,Qualification,ZHANG Ziyu (AUS),DOSSIER Margaux (PYF),ZHANG Ziyu
+ITTF Oceania Championships Bendigo 2016,2016-03-20,SINGH Armindeep,LI Carolyn,4,0,"11,11,11,13|7,5,9,11",,OTHER,WS,165,Qualification,SINGH Armindeep (NZL),LI Carolyn (FIJ),SINGH Armindeep
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DEDERKO Zhenhua,SANTINO Vanina,4,0,"11,11,11,11|3,2,5,3",,OTHER,WS,165,Qualification,DEDERKO Zhenhua (AUS),SANTINO Vanina (NCL),DEDERKO Zhenhua
+ITTF Oceania Championships Bendigo 2016,2016-03-20,MIAO Miao,YEE Harvi,4,0,"11,11,11,11|2,5,6,3",,OTHER,WS,165,Qualification,MIAO Miao (AUS),YEE Harvi (FIJ),MIAO Miao
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DEDERKO Zhenhua,MIAO Miao,4,1,"11,11,11,11,11|13,7,3,8,9",,OTHER,WS,165,Qualification,DEDERKO Zhenhua (AUS),MIAO Miao (AUS),DEDERKO Zhenhua
+ITTF Oceania Championships Bendigo 2016,2016-03-20,YEE Harvi,SANTINO Vanina,4,2,"11,11,10,11,7,11|2,8,12,9,11,6",,OTHER,WS,165,Qualification,SANTINO Vanina (NCL),YEE Harvi (FIJ),YEE Harvi
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DEDERKO Zhenhua,YEE Harvi,4,0,"11,11,11,11|2,4,3,3",,OTHER,WS,165,Qualification,DEDERKO Zhenhua (AUS),YEE Harvi (FIJ),DEDERKO Zhenhua
+ITTF Oceania Championships Bendigo 2016,2016-03-20,MIAO Miao,SANTINO Vanina,4,0,"11,11,11,11|2,1,5,1",,OTHER,WS,165,Qualification,MIAO Miao (AUS),SANTINO Vanina (NCL),MIAO Miao
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TAPPER Melissa,YEE Grace Rosi,4,0,"11,11,11,11|2,2,2,3",,OTHER,WS,165,Qualification,TAPPER Melissa (AUS),YEE Grace Rosi (FIJ),TAPPER Melissa
+ITTF Oceania Championships Bendigo 2016,2016-03-20,RAO Ruofei,DANGER Solenn,4,0,"11,11,11,11|6,7,3,8",,OTHER,WS,165,Qualification,RAO Ruofei (NZL),DANGER Solenn (NCL),RAO Ruofei
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TAPPER Melissa,RAO Ruofei,4,2,"11,6,13,11,10,11|7,11,11,6,12,8",,OTHER,WS,165,Qualification,TAPPER Melissa (AUS),RAO Ruofei (NZL),TAPPER Melissa
+ITTF Oceania Championships Bendigo 2016,2016-03-20,YEE Grace Rosi,DANGER Solenn,4,1,"11,11,11,9,11|8,4,7,11,9",,OTHER,WS,165,Qualification,YEE Grace Rosi (FIJ),DANGER Solenn (NCL),YEE Grace Rosi
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TAPPER Melissa,DANGER Solenn,4,0,"11,11,11,11|2,2,1,1",,OTHER,WS,165,Qualification,TAPPER Melissa (AUS),DANGER Solenn (NCL),TAPPER Melissa
+ITTF Oceania Championships Bendigo 2016,2016-03-20,POWELL David,DOSSIER Gregoire,4,0,"11,11,11,13|3,9,5,11",,OTHER,MS,165,Qualification,POWELL David (AUS),DOSSIER Gregoire (PYF),POWELL David
+ITTF Oceania Championships Bendigo 2016,2016-03-20,SHING Yoshua,RESTURE Seluka,4,0,"11,11,11,11|3,3,5,3",,OTHER,MS,165,Qualification,SHING Yoshua (VAN),RESTURE Seluka (TUV),SHING Yoshua
+ITTF Oceania Championships Bendigo 2016,2016-03-20,POWELL David,RESTURE Seluka,4,0,"11,11,11,11|2,1,3,2",,OTHER,MS,165,Qualification,POWELL David (AUS),RESTURE Seluka (TUV),POWELL David
+ITTF Oceania Championships Bendigo 2016,2016-03-20,BALL Matthew,DOSSIER Gregoire,4,0,"11,12,11,11|7,10,4,2",,OTHER,MS,165,Qualification,BALL Matthew (NZL),DOSSIER Gregoire (PYF),BALL Matthew
+ITTF Oceania Championships Bendigo 2016,2016-03-20,POWELL David,BALL Matthew,4,0,"11,11,11,11|4,6,6,6",,OTHER,MS,165,Qualification,POWELL David (AUS),BALL Matthew (NZL),POWELL David
+ITTF Oceania Championships Bendigo 2016,2016-03-20,SHING Yoshua,DOSSIER Gregoire,4,1,"12,11,11,8,11|10,3,4,11,9",,OTHER,MS,165,Qualification,SHING Yoshua (VAN),DOSSIER Gregoire (PYF),SHING Yoshua
+ITTF Oceania Championships Bendigo 2016,2016-03-20,POWELL David,SHING Yoshua,4,1,"11,9,11,11,11|8,11,6,8,5",,OTHER,MS,165,Qualification,POWELL David (AUS),SHING Yoshua (VAN),POWELL David
+ITTF Oceania Championships Bendigo 2016,2016-03-20,BALL Matthew,RESTURE Seluka,4,0,"11,11,11,11|6,6,4,4",,OTHER,MS,165,Qualification,BALL Matthew (NZL),RESTURE Seluka (TUV),BALL Matthew
+ITTF Oceania Championships Bendigo 2016,2016-03-20,BALL Matthew,SHING Yoshua,4,2,"11,11,9,15,11,11|5,5,11,17,7,9",,OTHER,MS,165,Qualification,SHING Yoshua (VAN),BALL Matthew (NZL),BALL Matthew
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DOSSIER Gregoire,RESTURE Seluka,4,0,"11,11,11,11|5,7,6,5",,OTHER,MS,165,Qualification,DOSSIER Gregoire (PYF),RESTURE Seluka (TUV),DOSSIER Gregoire
+ITTF Oceania Championships Bendigo 2016,2016-03-20,LIU Tengteng,HEO Tom,4,0,"11,11,11,11|1,3,5,3",,OTHER,MS,165,Qualification,LIU Tengteng (NZL),HEO Tom (PYF),LIU Tengteng
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TOWNSEND Wade,MANASE Fakanaaga,4,0,"11,11,11,11|1,3,7,3",,OTHER,MS,165,Qualification,TOWNSEND Wade (AUS),MANASE Fakanaaga (TUV),TOWNSEND Wade
+ITTF Oceania Championships Bendigo 2016,2016-03-20,LIU Tengteng,MANASE Fakanaaga,4,0,"11,11,11,11|1,2,4,1",,OTHER,MS,165,Qualification,LIU Tengteng (NZL),MANASE Fakanaaga (TUV),LIU Tengteng
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DEY Jeremy,HEO Tom,4,0,"11,11,11,11|5,7,9,6",,OTHER,MS,165,Qualification,DEY Jeremy (NCL),HEO Tom (PYF),DEY Jeremy
+ITTF Oceania Championships Bendigo 2016,2016-03-20,LIU Tengteng,DEY Jeremy,4,0,"11,11,11,11|5,2,1,1",,OTHER,MS,165,Qualification,LIU Tengteng (NZL),DEY Jeremy (NCL),LIU Tengteng
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TOWNSEND Wade,HEO Tom,4,0,"11,11,11,11|7,7,7,5",,OTHER,MS,165,Qualification,TOWNSEND Wade (AUS),HEO Tom (PYF),TOWNSEND Wade
+ITTF Oceania Championships Bendigo 2016,2016-03-20,LIU Tengteng,TOWNSEND Wade,4,2,"11,11,13,7,11,11|6,7,15,11,2,2",,OTHER,MS,165,Qualification,LIU Tengteng (NZL),TOWNSEND Wade (AUS),LIU Tengteng
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DEY Jeremy,MANASE Fakanaaga,4,0,"11,11,11,11|5,7,8,6",,OTHER,MS,165,Qualification,DEY Jeremy (NCL),MANASE Fakanaaga (TUV),DEY Jeremy
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TOWNSEND Wade,DEY Jeremy,4,2,"10,11,11,9,11,11|12,9,1,11,5,9",,OTHER,MS,165,Qualification,TOWNSEND Wade (AUS),DEY Jeremy (NCL),TOWNSEND Wade
+ITTF Oceania Championships Bendigo 2016,2016-03-20,HEO Tom,MANASE Fakanaaga,4,0,"11,11,11,11|6,9,5,4",,OTHER,MS,165,Qualification,HEO Tom (PYF),MANASE Fakanaaga (TUV),HEO Tom
+ITTF Oceania Championships Bendigo 2016,2016-03-20,YAN Xin,CHARLES Nolann,4,0,"11,11,11,11|3,7,4,7",,OTHER,MS,165,Qualification,YAN Xin (AUS),CHARLES Nolann (NCL),YAN Xin
+ITTF Oceania Championships Bendigo 2016,2016-03-20,LIN Yi-Sien,CARNET Bydhir,4,0,"11,11,11,11|3,6,5,2",,OTHER,MS,165,Qualification,LIN Yi-Sien (NZL),CARNET Bydhir (PYF),LIN Yi-Sien
+ITTF Oceania Championships Bendigo 2016,2016-03-20,YAN Xin,CARNET Bydhir,4,0,"11,11,11,11|2,2,1,1",,OTHER,MS,165,Qualification,YAN Xin (AUS),CARNET Bydhir (PYF),YAN Xin
+ITTF Oceania Championships Bendigo 2016,2016-03-20,FREDDY Choy,CHARLES Nolann,4,2,"11,11,8,7,11,11|4,7,11,11,4,4",,OTHER,MS,165,Qualification,FREDDY Choy (KIR),CHARLES Nolann (NCL),FREDDY Choy
+ITTF Oceania Championships Bendigo 2016,2016-03-20,YAN Xin,FREDDY Choy,4,0,"16,11,11,11|14,5,7,5",,OTHER,MS,165,Qualification,YAN Xin (AUS),FREDDY Choy (KIR),YAN Xin
+ITTF Oceania Championships Bendigo 2016,2016-03-20,LIN Yi-Sien,CHARLES Nolann,4,0,"11,11,11,12|2,4,4,10",,OTHER,MS,165,Qualification,LIN Yi-Sien (NZL),CHARLES Nolann (NCL),LIN Yi-Sien
+ITTF Oceania Championships Bendigo 2016,2016-03-20,YAN Xin,LIN Yi-Sien,4,0,"11,13,11,11|4,11,9,5",,OTHER,MS,165,Qualification,YAN Xin (AUS),LIN Yi-Sien (NZL),YAN Xin
+ITTF Oceania Championships Bendigo 2016,2016-03-20,FREDDY Choy,CARNET Bydhir,4,1,"8,11,11,11,11|11,2,1,4,7",,OTHER,MS,165,Qualification,FREDDY Choy (KIR),CARNET Bydhir (PYF),FREDDY Choy
+ITTF Oceania Championships Bendigo 2016,2016-03-20,LIN Yi-Sien,FREDDY Choy,4,0,"11,11,11,11|6,9,9,8",,OTHER,MS,165,Qualification,LIN Yi-Sien (NZL),FREDDY Choy (KIR),LIN Yi-Sien
+ITTF Oceania Championships Bendigo 2016,2016-03-20,CHARLES Nolann,CARNET Bydhir,4,0,"11,11,11,11|7,8,5,7",,OTHER,MS,165,Qualification,CHARLES Nolann (NCL),CARNET Bydhir (PYF),CHARLES Nolann
+ITTF Oceania Championships Bendigo 2016,2016-03-20,HU Heming,GENDRON Hugo,4,0,"11,11,13,11|3,9,11,6",,OTHER,MS,165,Qualification,HU Heming (AUS),GENDRON Hugo (PYF),HU Heming
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TOWNSEND Kane,RESTURE Alex,4,0,"11,11,11,11|3,5,4,4",,OTHER,MS,165,Qualification,TOWNSEND Kane (AUS),RESTURE Alex (TUV),TOWNSEND Kane
+ITTF Oceania Championships Bendigo 2016,2016-03-20,HU Heming,RESTURE Alex,4,0,"11,11,11,11|4,3,4,4",,OTHER,MS,165,Qualification,HU Heming (AUS),RESTURE Alex (TUV),HU Heming
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DYE Craig,GENDRON Hugo,4,0,"11,11,11,11|4,7,2,5",,OTHER,MS,165,Qualification,DYE Craig (NZL),GENDRON Hugo (PYF),DYE Craig
+ITTF Oceania Championships Bendigo 2016,2016-03-20,HU Heming,DYE Craig,4,0,"11,11,11,11|6,7,5,7",,OTHER,MS,165,Qualification,HU Heming (AUS),DYE Craig (NZL),HU Heming
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TOWNSEND Kane,GENDRON Hugo,4,0,"11,11,11,11|7,8,5,5",,OTHER,MS,165,Qualification,TOWNSEND Kane (AUS),GENDRON Hugo (PYF),TOWNSEND Kane
+ITTF Oceania Championships Bendigo 2016,2016-03-20,HU Heming,TOWNSEND Kane,4,0,"13,11,11,11|11,7,5,9",,OTHER,MS,165,Qualification,HU Heming (AUS),TOWNSEND Kane (AUS),HU Heming
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DYE Craig,RESTURE Alex,4,0,"11,11,11,11|3,3,3,2",,OTHER,MS,165,Qualification,DYE Craig (NZL),RESTURE Alex (TUV),DYE Craig
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TOWNSEND Kane,DYE Craig,4,0,"11,11,11,11|4,8,6,2",,OTHER,MS,165,Qualification,TOWNSEND Kane (AUS),DYE Craig (NZL),TOWNSEND Kane
+ITTF Oceania Championships Bendigo 2016,2016-03-20,GENDRON Hugo,RESTURE Alex,4,0,"11,11,11,11|2,3,2,2",,OTHER,MS,165,Qualification,GENDRON Hugo (PYF),RESTURE Alex (TUV),GENDRON Hugo
+ITTF Oceania Championships Bendigo 2016,2016-03-20,POWELL David,LIN Yi-Sien,4,1,"12,11,8,11,11|10,4,11,5,5",QF,OTHER,MS,165,Main Draw,POWELL David (AUS),LIN Yi-Sien (NZL),POWELL David
+ITTF Oceania Championships Bendigo 2016,2016-03-20,HU Heming,TOWNSEND Wade,4,0,"11,11,13,11|5,7,11,7",QF,OTHER,MS,165,Main Draw,TOWNSEND Wade (AUS),HU Heming (AUS),HU Heming
+ITTF Oceania Championships Bendigo 2016,2016-03-20,YAN Xin,BALL Matthew,4,0,"11,12,11,12|5,10,8,10",QF,OTHER,MS,165,Main Draw,YAN Xin (AUS),BALL Matthew (NZL),YAN Xin
+ITTF Oceania Championships Bendigo 2016,2016-03-20,LIU Tengteng,TOWNSEND Kane,4,2,"11,12,9,10,12,12|9,10,11,12,10,10",QF,OTHER,MS,165,Main Draw,TOWNSEND Kane (AUS),LIU Tengteng (NZL),LIU Tengteng
+ITTF Oceania Championships Bendigo 2016,2016-03-20,POWELL David,HU Heming,4,3,"11,11,6,9,7,11,11|8,4,11,11,11,4,6",SF,OTHER,MS,165,Main Draw,POWELL David (AUS),HU Heming (AUS),POWELL David
+ITTF Oceania Championships Bendigo 2016,2016-03-20,YAN Xin,LIU Tengteng,4,1,"11,11,8,12,11|9,9,11,10,9",SF,OTHER,MS,165,Main Draw,YAN Xin (AUS),LIU Tengteng (NZL),YAN Xin
+ITTF Oceania Championships Bendigo 2016,2016-03-20,YAN Xin,POWELL David,4,3,"11,11,9,11,7,17,12|5,5,11,7,11,19,10",F,OTHER,MS,165,Main Draw,POWELL David (AUS),YAN Xin (AUS),YAN Xin
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TOWNSEND Wade,LIN Yi-Sien,4,3,"8,10,11,8,12,11,13|11,12,5,11,10,5,11",5-8,OTHER,MS,165,Position Draw,LIN Yi-Sien (NZL),TOWNSEND Wade (AUS),TOWNSEND Wade
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TOWNSEND Kane,BALL Matthew,4,0,"13,11,11,11|11,6,8,2",5-8,OTHER,MS,165,Position Draw,BALL Matthew (NZL),TOWNSEND Kane (AUS),TOWNSEND Kane
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TOWNSEND Kane,TOWNSEND Wade,4,0,"12,13,11,11|10,11,7,5",3RD,OTHER,MS,165,Position Draw,TOWNSEND Wade (AUS),TOWNSEND Kane (AUS),TOWNSEND Kane
+ITTF Oceania Championships Bendigo 2016,2016-03-20,LIN Yi-Sien,BALL Matthew,4,2,"7,7,11,11,13,11|11,11,7,7,11,7",3RD,OTHER,MS,165,Position Draw,LIN Yi-Sien (NZL),BALL Matthew (NZL),LIN Yi-Sien
+ITTF Oceania Championships Bendigo 2016,2016-03-20,LIU Tengteng,HU Heming,4,2,"4,15,3,11,11,14|11,13,11,5,6,12",3RD,OTHER,MS,165,Position Draw,HU Heming (AUS),LIU Tengteng (NZL),LIU Tengteng
+ITTF Oceania Championships Bendigo 2016,2016-03-20,LAY Jian Fang,SINGH Armindeep,4,0,"12,11,11,11|10,3,3,1",QF,OTHER,WS,165,Main Draw,LAY Jian Fang (AUS),SINGH Armindeep (NZL),LAY Jian Fang
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DEDERKO Zhenhua,RAO Ruofei,4,3,"7,10,6,11,11,11,11|11,12,11,9,4,6,6",QF,OTHER,WS,165,Main Draw,RAO Ruofei (NZL),DEDERKO Zhenhua (AUS),DEDERKO Zhenhua
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TAPPER Melissa,MIAO Miao,4,2,"11,11,7,3,11,14|5,9,11,11,3,12",QF,OTHER,WS,165,Main Draw,TAPPER Melissa (AUS),MIAO Miao (AUS),TAPPER Melissa
+ITTF Oceania Championships Bendigo 2016,2016-03-20,ZHANG Ziyu,PATERSON Natalie,4,0,"11,11,11,11|7,3,3,6",QF,OTHER,WS,165,Main Draw,PATERSON Natalie (NZL),ZHANG Ziyu (AUS),ZHANG Ziyu
+ITTF Oceania Championships Bendigo 2016,2016-03-20,LAY Jian Fang,DEDERKO Zhenhua,4,1,"11,8,11,11,14|8,11,6,9,12",SF,OTHER,WS,165,Main Draw,LAY Jian Fang (AUS),DEDERKO Zhenhua (AUS),LAY Jian Fang
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TAPPER Melissa,ZHANG Ziyu,4,2,"11,8,9,11,11,11|7,11,11,7,8,8",SF,OTHER,WS,165,Main Draw,TAPPER Melissa (AUS),ZHANG Ziyu (AUS),TAPPER Melissa
+ITTF Oceania Championships Bendigo 2016,2016-03-20,LAY Jian Fang,TAPPER Melissa,4,1,"11,11,9,11,12|3,8,11,4,10",F,OTHER,WS,165,Main Draw,LAY Jian Fang (AUS),TAPPER Melissa (AUS),LAY Jian Fang
+ITTF Oceania Championships Bendigo 2016,2016-03-20,RAO Ruofei,SINGH Armindeep,4,0,"11,11,11,11|6,2,4,6",5-8,OTHER,WS,165,Position Draw,SINGH Armindeep (NZL),RAO Ruofei (NZL),RAO Ruofei
+ITTF Oceania Championships Bendigo 2016,2016-03-20,MIAO Miao,PATERSON Natalie,4,0,"11,11,11,11|3,6,6,9",5-8,OTHER,WS,165,Position Draw,MIAO Miao (AUS),PATERSON Natalie (NZL),MIAO Miao
+ITTF Oceania Championships Bendigo 2016,2016-03-20,MIAO Miao,RAO Ruofei,4,0,"11,11,11,11|7,7,5,7",3RD,OTHER,WS,165,Position Draw,RAO Ruofei (NZL),MIAO Miao (AUS),MIAO Miao
+ITTF Oceania Championships Bendigo 2016,2016-03-20,PATERSON Natalie,SINGH Armindeep,4,2,"9,11,7,11,11,11|11,5,11,4,6,6",3RD,OTHER,WS,165,Position Draw,SINGH Armindeep (NZL),PATERSON Natalie (NZL),PATERSON Natalie
+ITTF Oceania Championships Bendigo 2016,2016-03-20,ZHANG Ziyu,DEDERKO Zhenhua,4,0,"11,11,11,11|5,9,4,7",3RD,OTHER,WS,165,Position Draw,DEDERKO Zhenhua (AUS),ZHANG Ziyu (AUS),ZHANG Ziyu
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DOSSIER Margaux,YEE Sally,4,3,"6,7,11,11,12,1,11|11,11,8,6,10,11,8",8,OTHER,WS,165,Consolation,YEE Sally (FIJ),DOSSIER Margaux (PYF),DOSSIER Margaux
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DANGER Solenn,YEE Harvi,4,3,"5,8,11,11,11,7,11|11,11,6,7,6,11,8",8,OTHER,WS,165,Consolation,DANGER Solenn (NCL),YEE Harvi (FIJ),DANGER Solenn
+ITTF Oceania Championships Bendigo 2016,2016-03-20,LI Carolyn,SANTINO Vanina,4,1,"13,14,8,11,11|11,12,11,4,5",8,OTHER,WS,165,Consolation,LI Carolyn (FIJ),SANTINO Vanina (NCL),LI Carolyn
+ITTF Oceania Championships Bendigo 2016,2016-03-20,YEE Grace Rosi,RESTURE Kaimalie,4,0,"11,11,11,11|4,6,6,7",8,OTHER,WS,165,Consolation,RESTURE Kaimalie (TUV),YEE Grace Rosi (FIJ),YEE Grace Rosi
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DANGER Solenn,DOSSIER Margaux,4,0,"11,11,11,11|8,2,5,3",4,OTHER,WS,165,Consolation,DOSSIER Margaux (PYF),DANGER Solenn (NCL),DANGER Solenn
+ITTF Oceania Championships Bendigo 2016,2016-03-20,YEE Grace Rosi,LI Carolyn,4,0,"11,11,11,12|7,7,4,10",4,OTHER,WS,165,Consolation,LI Carolyn (FIJ),YEE Grace Rosi (FIJ),YEE Grace Rosi
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DANGER Solenn,YEE Grace Rosi,4,1,"11,11,11,8,11|8,8,4,11,9",2,OTHER,WS,165,Consolation,DANGER Solenn (NCL),YEE Grace Rosi (FIJ),DANGER Solenn
+ITTF Oceania Championships Bendigo 2016,2016-03-20,YEE Sally,YEE Harvi,4,0,"11,13,15,11|9,11,13,7",4,OTHER,WS,165,Consolation,YEE Sally (FIJ),YEE Harvi (FIJ),YEE Sally
+ITTF Oceania Championships Bendigo 2016,2016-03-20,YEE Sally,SANTINO Vanina,4,1,"11,6,12,11,11|9,11,10,9,5",2,OTHER,WS,165,Consolation,YEE Sally (FIJ),SANTINO Vanina (NCL),YEE Sally
+ITTF Oceania Championships Bendigo 2016,2016-03-20,YEE Harvi,RESTURE Kaimalie,4,1,"11,11,11,15,11|8,5,7,17,9",2,OTHER,WS,165,Consolation,YEE Harvi (FIJ),RESTURE Kaimalie (TUV),YEE Harvi
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TSAO Erny,HEO Tom,4,0,"11,11,11,11|2,3,2,9",QF,OTHER,U21MS,165,Main Draw,TSAO Erny (AUS),HEO Tom (PYF),TSAO Erny
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DOSSIER Gregoire,ZENAIDEE Zaki,4,3,"13,13,8,7,11,11,11|15,11,11,11,9,5,5",QF,OTHER,U21MS,165,Main Draw,DOSSIER Gregoire (PYF),ZENAIDEE Zaki (AUS),DOSSIER Gregoire
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DHOORIA Rohan,GENDRON Hugo,4,1,"12,11,7,11,11|10,8,11,5,9",QF,OTHER,U21MS,165,Main Draw,DHOORIA Rohan (AUS),GENDRON Hugo (PYF),DHOORIA Rohan
+ITTF Oceania Championships Bendigo 2016,2016-03-20,COSGRIFF Luke,TAMBIA Nicolas,4,0,"11,12,11,11|6,10,7,9",QF,OTHER,U21MS,165,Main Draw,TAMBIA Nicolas (PYF),COSGRIFF Luke (AUS),COSGRIFF Luke
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TSAO Erny,DOSSIER Gregoire,4,0,"11,11,11,11|8,4,8,4",SF,OTHER,U21MS,165,Main Draw,TSAO Erny (AUS),DOSSIER Gregoire (PYF),TSAO Erny
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DHOORIA Rohan,COSGRIFF Luke,4,3,"9,9,12,11,9,14,11|11,11,10,5,11,12,9",SF,OTHER,U21MS,165,Main Draw,DHOORIA Rohan (AUS),COSGRIFF Luke (AUS),DHOORIA Rohan
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TSAO Erny,DHOORIA Rohan,4,1,"11,11,19,11,11|8,9,21,5,9",F,OTHER,U21MS,165,Main Draw,TSAO Erny (AUS),DHOORIA Rohan (AUS),TSAO Erny
+ITTF Oceania Championships Bendigo 2016,2016-03-20,NEWTON Georgina,YEE Sally,4,0,"11,11,11,11|6,2,9,8",QF,OTHER,U21WS,165,Main Draw,YEE Sally (FIJ),NEWTON Georgina (AUS),NEWTON Georgina
+ITTF Oceania Championships Bendigo 2016,2016-03-20,YEE Grace Rosi,SANTINO Vanina,4,2,"11,11,8,6,11,11|4,8,11,11,7,5",QF,OTHER,U21WS,165,Main Draw,YEE Grace Rosi (FIJ),SANTINO Vanina (NCL),YEE Grace Rosi
+ITTF Oceania Championships Bendigo 2016,2016-03-20,RAO Ruofei,NEWTON Georgina,4,2,"7,11,11,11,11,11|11,13,6,2,6,3",SF,OTHER,U21WS,165,Main Draw,RAO Ruofei (NZL),NEWTON Georgina (AUS),RAO Ruofei
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TAN Sarah,YEE Grace Rosi,4,0,"11,11,11,11|3,8,5,3",SF,OTHER,U21WS,165,Main Draw,YEE Grace Rosi (FIJ),TAN Sarah (AUS),TAN Sarah
+ITTF Oceania Championships Bendigo 2016,2016-03-20,RAO Ruofei,TAN Sarah,4,3,"18,8,11,5,11,7,11|16,11,4,11,7,11,6",F,OTHER,U21WS,165,Main Draw,RAO Ruofei (NZL),TAN Sarah (AUS),RAO Ruofei
+ITTF Oceania Championships Bendigo 2016,2016-03-20,GENDRON Hugo,MANASE Fakanaaga,4,0,"11,11,11,11|6,7,6,9",QR8,OTHER,MS,165,Qualification,GENDRON Hugo (PYF),MANASE Fakanaaga (TUV),GENDRON Hugo
+ITTF Oceania Championships Bendigo 2016,2016-03-20,FREDDY Choy,DOSSIER Gregoire,4,2,"13,11,11,7,6,11|11,8,6,11,11,5",8,OTHER,MS,165,Consolation,FREDDY Choy (KIR),DOSSIER Gregoire (PYF),FREDDY Choy
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DYE Craig,HEO Tom,4,0,"11,11,11,11|5,3,6,6",8,OTHER,MS,165,Consolation,HEO Tom (PYF),DYE Craig (NZL),DYE Craig
+ITTF Oceania Championships Bendigo 2016,2016-03-20,SHING Yoshua,CHARLES Nolann,4,0,"11,11,11,11|7,8,5,3",8,OTHER,MS,165,Consolation,SHING Yoshua (VAN),CHARLES Nolann (NCL),SHING Yoshua
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DEY Jeremy,GENDRON Hugo,4,2,"4,11,14,9,11,11|11,9,12,11,2,9",8,OTHER,MS,165,Consolation,GENDRON Hugo (PYF),DEY Jeremy (NCL),DEY Jeremy
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DYE Craig,FREDDY Choy,4,0,"11,11,11,11|4,8,9,9",4,OTHER,MS,165,Consolation,FREDDY Choy (KIR),DYE Craig (NZL),DYE Craig
+ITTF Oceania Championships Bendigo 2016,2016-03-20,SHING Yoshua,DEY Jeremy,4,0,"12,11,11,11|10,5,2,9",4,OTHER,MS,165,Consolation,SHING Yoshua (VAN),DEY Jeremy (NCL),SHING Yoshua
+ITTF Oceania Championships Bendigo 2016,2016-03-20,SHING Yoshua,DYE Craig,4,0,"11,11,11,11|8,2,7,4",2,OTHER,MS,165,Consolation,DYE Craig (NZL),SHING Yoshua (VAN),SHING Yoshua
+ITTF Oceania Championships Bendigo 2016,2016-03-20,CHARLES Nolann,GENDRON Hugo,4,1,"12,8,16,11,14|10,11,14,5,12",4,OTHER,MS,165,Consolation,CHARLES Nolann (NCL),GENDRON Hugo (PYF),CHARLES Nolann
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DOSSIER Gregoire,CHARLES Nolann,4,1,"11,8,11,11,11|8,11,9,6,8",2,OTHER,MS,165,Consolation,DOSSIER Gregoire (PYF),CHARLES Nolann (NCL),DOSSIER Gregoire
+ITTF Oceania Championships Bendigo 2016,2016-03-20,GENDRON Hugo,HEO Tom,4,1,"13,3,13,11,11|11,11,11,6,3",2,OTHER,MS,165,Consolation,HEO Tom (PYF),GENDRON Hugo (PYF),GENDRON Hugo
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DEY Jeremy,FREDDY Choy,4,1,"11,10,11,12,11|7,12,9,10,8",2,OTHER,MS,165,Consolation,FREDDY Choy (KIR),DEY Jeremy (NCL),DEY Jeremy
+ITTF Oceania Championships Bendigo 2016,2016-03-20,RESTURE Alex,RESTURE Seluka,4,0,"11,11,11,11|8,9,7,9",4,OTHER,MS,165,Consolation,RESTURE Seluka (TUV),RESTURE Alex (TUV),RESTURE Alex
+ITTF Oceania Championships Bendigo 2016,2016-03-20,CARNET Bydhir,MANASE Fakanaaga,4,1,"18,11,8,11,12|16,9,11,6,10",4,OTHER,MS,165,Consolation,CARNET Bydhir (PYF),MANASE Fakanaaga (TUV),CARNET Bydhir
+ITTF Oceania Championships Bendigo 2016,2016-03-20,CARNET Bydhir,RESTURE Alex,4,0,"11,11,11,11|2,8,9,6",2,OTHER,MS,165,Consolation,RESTURE Alex (TUV),CARNET Bydhir (PYF),CARNET Bydhir
+ITTF Oceania Championships Bendigo 2016,2016-03-20,MANASE Fakanaaga,RESTURE Seluka,4,3,"11,9,11,9,11,7,12|6,11,7,11,5,11,10",2,OTHER,MS,165,Consolation,RESTURE Seluka (TUV),MANASE Fakanaaga (TUV),MANASE Fakanaaga
+ITTF Oceania Championships Bendigo 2016,2016-03-20,NEWTON Georgina,DANGER Solenn,3,0,"11,11,11|8,5,6",SF,OTHER,U21WD,165,Main Draw,NEWTON Georgina (AUS),DANGER Solenn (NCL),NEWTON Georgina
+ITTF Oceania Championships Bendigo 2016,2016-03-20,NEWTON Georgina,DOSSIER Margaux,3,0,"11,11,11|5,8,7",F,OTHER,U21WD,165,Main Draw,NEWTON Georgina (AUS),DOSSIER Margaux (PYF),NEWTON Georgina
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TSAO Erny,CARNET Bydhir,3,0,"11,11,11|9,6,7",SF,OTHER,U21MD,165,Main Draw,TSAO Erny (AUS),CARNET Bydhir (PYF),TSAO Erny
+ITTF Oceania Championships Bendigo 2016,2016-03-20,PENG Kai/TAN Sarah,YEE Grace Rosi/YEE Sally,3,0,"11,11,11|6,7,6",SF,OTHER,WD,165,Main Draw,PENG Kai (AUS) / TAN Sarah (AUS),YEE Grace Rosi (FIJ) / YEE Sally (FIJ),PENG Kai
+ITTF Oceania Championships Bendigo 2016,2016-03-20,PATERSON Natalie/RAO Ruofei,PENG Kai/TAN Sarah,3,0,"11,11,11|9,8,4",F,OTHER,WD,165,Main Draw,PATERSON Natalie (NZL) / RAO Ruofei (NZL),PENG Kai (AUS) / TAN Sarah (AUS),PATERSON Natalie
+ITTF Oceania Championships Bendigo 2016,2016-03-20,FREDDY Choy/SHING Yoshua,DHOORIA Rohan/ZENAIDEE Zaki,3,2,"4,10,11,11,13|11,12,7,6,11",QF,OTHER,MD,165,Main Draw,FREDDY Choy (KIR) / SHING Yoshua (VAN),DHOORIA Rohan (AUS) / ZENAIDEE Zaki (AUS),FREDDY Choy
+ITTF Oceania Championships Bendigo 2016,2016-03-20,BALL Matthew/LIN Yi-Sien,TSAO Erny/COSGRIFF Luke,3,1,"11,12,11,11|4,14,9,9",SF,OTHER,MD,165,Main Draw,BALL Matthew (NZL) / LIN Yi-Sien (NZL),TSAO Erny (AUS) / COSGRIFF Luke (AUS),BALL Matthew
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TSAO Erny,TAMBIA Nicolas,3,0,"11,11,11|5,4,6",QF,OTHER,U21XD,165,Main Draw,TSAO Erny (AUS),TAMBIA Nicolas (PYF),TSAO Erny
+ITTF Oceania Championships Bendigo 2016,2016-03-20,COSGRIFF Luke,TSAO Erny,3,2,"11,11,10,11,12|13,8,12,8,10",F,OTHER,U21XD,165,Main Draw,TSAO Erny (AUS),COSGRIFF Luke (AUS),COSGRIFF Luke
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DOSSIER Margaux,YEE Grace Rosi,3,1,"11,9,11,11|4,11,8,8",SF,OTHER,U21WD,165,Main Draw,YEE Grace Rosi (FIJ),DOSSIER Margaux (PYF),DOSSIER Margaux
+ITTF Oceania Championships Bendigo 2016,2016-03-20,ZENAIDEE Zaki/NEWTON Georgina,HEO Tom/YEE Harvi,3,1,"6,11,11,11|11,7,8,2",R16,OTHER,XD,165,Main Draw,ZENAIDEE Zaki (AUS) / NEWTON Georgina (AUS),HEO Tom (PYF) / YEE Harvi (FIJ),ZENAIDEE Zaki
+ITTF Oceania Championships Bendigo 2016,2016-03-20,SHING Yoshua/YEE Sally,GENDRON Hugo/DOSSIER Margaux,3,0,"11,11,11|4,9,3",R16,OTHER,XD,165,Main Draw,SHING Yoshua (VAN) / YEE Sally (FIJ),GENDRON Hugo (PYF) / DOSSIER Margaux (PYF),SHING Yoshua
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TSAO Erny/PENG Kai,SHING Yoshua/YEE Sally,3,1,"9,11,11,11|11,5,8,7",QF,OTHER,XD,165,Main Draw,TSAO Erny (AUS) / PENG Kai (AUS),SHING Yoshua (VAN) / YEE Sally (FIJ),TSAO Erny
+ITTF Oceania Championships Bendigo 2016,2016-03-20,COSGRIFF Luke,DOSSIER Gregoire,3,1,"11,11,8,11|7,6,11,2",SF,OTHER,U21XD,165,Main Draw,DOSSIER Gregoire (PYF),COSGRIFF Luke (AUS),COSGRIFF Luke
+ITTF Oceania Championships Bendigo 2016,2016-03-20,BALL Matthew/LIN Yi-Sien,CHARLES Nolann/DEY Jeremy,3,0,"11,11,11|9,6,7",QF,OTHER,MD,165,Main Draw,BALL Matthew (NZL) / LIN Yi-Sien (NZL),CHARLES Nolann (NCL) / DEY Jeremy (NCL),BALL Matthew
+ITTF Oceania Championships Bendigo 2016,2016-03-20,COSGRIFF Luke,CARNET Bydhir,3,0,"11,11,11|4,6,4",QF,OTHER,U21XD,165,Main Draw,CARNET Bydhir (PYF),COSGRIFF Luke (AUS),COSGRIFF Luke
+ITTF Oceania Championships Bendigo 2016,2016-03-20,NEWTON Georgina/SINGH Armindeep,LI Carolyn/YEE Harvi,3,0,"12,11,11|10,3,5",QF,OTHER,WD,165,Main Draw,NEWTON Georgina (AUS) / SINGH Armindeep (NZL),LI Carolyn (FIJ) / YEE Harvi (FIJ),NEWTON Georgina
+ITTF Oceania Championships Bendigo 2016,2016-03-20,PATERSON Natalie/RAO Ruofei,NEWTON Georgina/SINGH Armindeep,3,0,"11,11,11|8,6,4",SF,OTHER,WD,165,Main Draw,PATERSON Natalie (NZL) / RAO Ruofei (NZL),NEWTON Georgina (AUS) / SINGH Armindeep (NZL),PATERSON Natalie
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DYE Craig/SINGH Armindeep,DOSSIER Gregoire/LI Carolyn,3,1,"11,11,6,11|7,7,11,7",R16,OTHER,XD,165,Main Draw,DYE Craig (NZL) / SINGH Armindeep (NZL),DOSSIER Gregoire (PYF) / LI Carolyn (FIJ),DYE Craig
+ITTF Oceania Championships Bendigo 2016,2016-03-20,LIN Yi-Sien/RAO Ruofei,DEY Jeremy/SANTINO Vanina,3,0,"11,11,11|6,1,2",QF,OTHER,XD,165,Main Draw,LIN Yi-Sien (NZL) / RAO Ruofei (NZL),DEY Jeremy (NCL) / SANTINO Vanina (NCL),LIN Yi-Sien
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DYE Craig/SINGH Armindeep,COSGRIFF Luke/TAN Sarah,3,2,"5,11,6,11,12|11,9,11,8,10",QF,OTHER,XD,165,Main Draw,DYE Craig (NZL) / SINGH Armindeep (NZL),COSGRIFF Luke (AUS) / TAN Sarah (AUS),DYE Craig
+ITTF Oceania Championships Bendigo 2016,2016-03-20,BALL Matthew/PATERSON Natalie,ZENAIDEE Zaki/NEWTON Georgina,3,0,"11,11,18|6,8,16",QF,OTHER,XD,165,Main Draw,BALL Matthew (NZL) / PATERSON Natalie (NZL),ZENAIDEE Zaki (AUS) / NEWTON Georgina (AUS),BALL Matthew
+ITTF Oceania Championships Bendigo 2016,2016-03-20,LIN Yi-Sien/RAO Ruofei,DYE Craig/SINGH Armindeep,3,1,"12,4,11,12|10,11,3,10",SF,OTHER,XD,165,Main Draw,LIN Yi-Sien (NZL) / RAO Ruofei (NZL),DYE Craig (NZL) / SINGH Armindeep (NZL),LIN Yi-Sien
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TSAO Erny/PENG Kai,BALL Matthew/PATERSON Natalie,3,0,"11,11,11|4,7,8",SF,OTHER,XD,165,Main Draw,TSAO Erny (AUS) / PENG Kai (AUS),BALL Matthew (NZL) / PATERSON Natalie (NZL),TSAO Erny
+ITTF Oceania Championships Bendigo 2016,2016-03-20,LIN Yi-Sien/RAO Ruofei,TSAO Erny/PENG Kai,3,0,"11,12,11|9,10,8",F,OTHER,XD,165,Main Draw,LIN Yi-Sien (NZL) / RAO Ruofei (NZL),TSAO Erny (AUS) / PENG Kai (AUS),LIN Yi-Sien
+ITTF Oceania Championships Bendigo 2016,2016-03-20,FREDDY Choy/SHING Yoshua,BALL Matthew/LIN Yi-Sien,3,0,"11,11,11|9,7,7",F,OTHER,MD,165,Main Draw,FREDDY Choy (KIR) / SHING Yoshua (VAN),BALL Matthew (NZL) / LIN Yi-Sien (NZL),FREDDY Choy
+ITTF Oceania Championships Bendigo 2016,2016-03-20,PATERSON Natalie/RAO Ruofei,DOSSIER Margaux/RESTURE Kaimalie,3,0,"11,11,11|7,5,4",QF,OTHER,WD,165,Main Draw,PATERSON Natalie (NZL) / RAO Ruofei (NZL),DOSSIER Margaux (PYF) / RESTURE Kaimalie (TUV),PATERSON Natalie
+ITTF Oceania Championships Bendigo 2016,2016-03-20,COSGRIFF Luke/TAN Sarah,MANASE Fakanaaga/RESTURE Kaimalie,3,1,"11,12,11,15|3,14,4,13",R16,OTHER,XD,165,Main Draw,COSGRIFF Luke (AUS) / TAN Sarah (AUS),MANASE Fakanaaga (TUV) / RESTURE Kaimalie (TUV),COSGRIFF Luke
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TAMBIA Nicolas,RESTURE Alex,3,0,"11,11,11|6,3,8",R16,OTHER,U21XD,165,Main Draw,RESTURE Alex (TUV),TAMBIA Nicolas (PYF),TAMBIA Nicolas
+ITTF Oceania Championships Bendigo 2016,2016-03-20,FREDDY Choy/SHING Yoshua,DYE Craig/LIU Tengteng,3,2,"4,11,11,7,11|11,5,9,11,7",SF,OTHER,MD,165,Main Draw,FREDDY Choy (KIR) / SHING Yoshua (VAN),DYE Craig (NZL) / LIU Tengteng (NZL),FREDDY Choy
+ITTF Oceania Championships Bendigo 2016,2016-03-20,COSGRIFF Luke,DEY Jeremy,3,0,"11,15,11|5,13,4",GROUP,OTHER,MT,165,Main Draw,COSGRIFF Luke (AUS),DEY Jeremy (NCL),COSGRIFF Luke
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DHOORIA Rohan,CHARLES Nolann,3,0,"11,11,13|6,9,11",GROUP,OTHER,MT,165,Main Draw,DHOORIA Rohan (AUS),CHARLES Nolann (NCL),DHOORIA Rohan
+ITTF Oceania Championships Bendigo 2016,2016-03-20,COSGRIFF Luke,CHARLES Nolann,3,0,"11,13,11|7,11,9",GROUP,OTHER,MT,165,Main Draw,COSGRIFF Luke (AUS),CHARLES Nolann (NCL),COSGRIFF Luke
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DEY Jeremy,DHOORIA Rohan,3,1,"12,6,11,12|10,11,9,10",GROUP,OTHER,MT,165,Main Draw,DHOORIA Rohan (AUS),DEY Jeremy (NCL),DEY Jeremy
+ITTF Oceania Championships Bendigo 2016,2016-03-20,BALL Matthew,MANASE Fakanaaga,3,0,"11,11,11|0,5,1",GROUP,OTHER,MT,165,Main Draw,BALL Matthew (NZL),MANASE Fakanaaga (TUV),BALL Matthew
+ITTF Oceania Championships Bendigo 2016,2016-03-20,LIN Yi-Sien,RESTURE Seluka,3,0,"11,11,11|1,3,1",GROUP,OTHER,MT,165,Main Draw,LIN Yi-Sien (NZL),RESTURE Seluka (TUV),LIN Yi-Sien
+ITTF Oceania Championships Bendigo 2016,2016-03-20,BALL Matthew,RESTURE Alex,3,0,"11,11,11|5,1,4",GROUP,OTHER,MT,165,Main Draw,BALL Matthew (NZL),RESTURE Alex (TUV),BALL Matthew
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DYE Craig,MANASE Fakanaaga,3,0,"11,11,11|6,6,4",GROUP,OTHER,MT,165,Main Draw,DYE Craig (NZL),MANASE Fakanaaga (TUV),DYE Craig
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DOSSIER Gregoire,FREDDY Choy,3,0,"11,11,11|6,8,7",GROUP,OTHER,MT,165,Main Draw,FREDDY Choy (KIR),DOSSIER Gregoire (PYF),DOSSIER Gregoire
+ITTF Oceania Championships Bendigo 2016,2016-03-20,FREDDY Choy,GENDRON Hugo,3,1,"10,18,11,11|12,16,9,9",GROUP,OTHER,MT,165,Main Draw,FREDDY Choy (KIR),GENDRON Hugo (PYF),FREDDY Choy
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TSAO Erny,GENDRON Hugo,3,1,"2,11,11,11|11,4,3,7",GROUP,OTHER,MT,165,Main Draw,GENDRON Hugo (PYF),TSAO Erny (AUS),TSAO Erny
+ITTF Oceania Championships Bendigo 2016,2016-03-20,COSGRIFF Luke,HEO Tom,3,0,"11,11,11|6,4,2",GROUP,OTHER,MT,165,Main Draw,HEO Tom (PYF),COSGRIFF Luke (AUS),COSGRIFF Luke
+ITTF Oceania Championships Bendigo 2016,2016-03-20,LIN Yi-Sien,SHING Yoshua,3,1,"11,11,6,11|6,8,11,7",GROUP,OTHER,MT,165,Main Draw,SHING Yoshua (VAN),LIN Yi-Sien (NZL),LIN Yi-Sien
+ITTF Oceania Championships Bendigo 2016,2016-03-20,BALL Matthew,FREDDY Choy,3,0,"11,11,13|6,7,11",GROUP,OTHER,MT,165,Main Draw,FREDDY Choy (KIR),BALL Matthew (NZL),BALL Matthew
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DEY Jeremy,RESTURE Alex,3,0,"11,11,11|7,2,3",GROUP,OTHER,MT,165,Main Draw,DEY Jeremy (NCL),RESTURE Alex (TUV),DEY Jeremy
+ITTF Oceania Championships Bendigo 2016,2016-03-20,CHARLES Nolann,MANASE Fakanaaga,3,0,"11,18,11|7,16,4",GROUP,OTHER,MT,165,Main Draw,CHARLES Nolann (NCL),MANASE Fakanaaga (TUV),CHARLES Nolann
+ITTF Oceania Championships Bendigo 2016,2016-03-20,CHARLES Nolann,RESTURE Alex,3,0,"11,11,13|7,5,11",GROUP,OTHER,MT,165,Main Draw,CHARLES Nolann (NCL),RESTURE Alex (TUV),CHARLES Nolann
+ITTF Oceania Championships Bendigo 2016,2016-03-20,SHING Yoshua,TSAO Erny,3,1,"11,11,9,16|9,7,11,14",GROUP,OTHER,MT,165,Main Draw,TSAO Erny (AUS),SHING Yoshua (VAN),SHING Yoshua
+ITTF Oceania Championships Bendigo 2016,2016-03-20,COSGRIFF Luke,FREDDY Choy,3,1,"13,8,11,12|11,11,8,10",GROUP,OTHER,MT,165,Main Draw,COSGRIFF Luke (AUS),FREDDY Choy (KIR),COSGRIFF Luke
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TSAO Erny,FREDDY Choy,3,2,"7,11,11,7,11|11,3,7,11,9",GROUP,OTHER,MT,165,Main Draw,TSAO Erny (AUS),FREDDY Choy (KIR),TSAO Erny
+ITTF Oceania Championships Bendigo 2016,2016-03-20,SHING Yoshua,COSGRIFF Luke,3,1,"8,14,11,11|11,12,4,8",GROUP,OTHER,MT,165,Main Draw,COSGRIFF Luke (AUS),SHING Yoshua (VAN),SHING Yoshua
+ITTF Oceania Championships Bendigo 2016,2016-03-20,BALL Matthew,DEY Jeremy,3,2,"9,12,11,11,11|11,10,13,7,3",GROUP,OTHER,MT,165,Main Draw,DEY Jeremy (NCL),BALL Matthew (NZL),BALL Matthew
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DHOORIA Rohan,LIN Yi-Sien,3,0,"11,11,11|7,7,3",GROUP,OTHER,MT,165,Main Draw,LIN Yi-Sien (NZL),DHOORIA Rohan (AUS),DHOORIA Rohan
+ITTF Oceania Championships Bendigo 2016,2016-03-20,COSGRIFF Luke,DYE Craig,3,0,"11,11,11|4,8,6",GROUP,OTHER,MT,165,Main Draw,DYE Craig (NZL),COSGRIFF Luke (AUS),COSGRIFF Luke
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DHOORIA Rohan,BALL Matthew,3,0,"11,13,11|7,11,9",GROUP,OTHER,MT,165,Main Draw,BALL Matthew (NZL),DHOORIA Rohan (AUS),DHOORIA Rohan
+ITTF Oceania Championships Bendigo 2016,2016-03-20,FREDDY Choy,MANASE Fakanaaga,3,0,"11,11,11|8,6,4",GROUP,OTHER,MT,165,Main Draw,FREDDY Choy (KIR),MANASE Fakanaaga (TUV),FREDDY Choy
+ITTF Oceania Championships Bendigo 2016,2016-03-20,SHING Yoshua,RESTURE Alex,3,0,"11,11,11|6,6,2",GROUP,OTHER,MT,165,Main Draw,SHING Yoshua (VAN),RESTURE Alex (TUV),SHING Yoshua
+ITTF Oceania Championships Bendigo 2016,2016-03-20,FREDDY Choy,RESTURE Alex,3,0,"11,11,11|7,2,4",GROUP,OTHER,MT,165,Main Draw,FREDDY Choy (KIR),RESTURE Alex (TUV),FREDDY Choy
+ITTF Oceania Championships Bendigo 2016,2016-03-20,SHING Yoshua,MANASE Fakanaaga,3,0,"11,11,11|4,1,6",GROUP,OTHER,MT,165,Main Draw,SHING Yoshua (VAN),MANASE Fakanaaga (TUV),SHING Yoshua
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DOSSIER Gregoire,DEY Jeremy,3,1,"8,11,13,11|11,4,11,9",GROUP,OTHER,MT,165,Main Draw,DOSSIER Gregoire (PYF),DEY Jeremy (NCL),DOSSIER Gregoire
+ITTF Oceania Championships Bendigo 2016,2016-03-20,GENDRON Hugo,CHARLES Nolann,3,1,"11,11,11,11|5,13,8,7",GROUP,OTHER,MT,165,Main Draw,GENDRON Hugo (PYF),CHARLES Nolann (NCL),GENDRON Hugo
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DHOORIA Rohan,MANASE Fakanaaga,3,0,"11,11,11|2,4,4",GROUP,OTHER,MT,165,Main Draw,DHOORIA Rohan (AUS),MANASE Fakanaaga (TUV),DHOORIA Rohan
+ITTF Oceania Championships Bendigo 2016,2016-03-20,COSGRIFF Luke,RESTURE Seluka,3,0,"11,11,11|1,3,5",GROUP,OTHER,MT,165,Main Draw,COSGRIFF Luke (AUS),RESTURE Seluka (TUV),COSGRIFF Luke
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DHOORIA Rohan,RESTURE Seluka,3,0,"11,11,11|2,8,8",GROUP,OTHER,MT,165,Main Draw,DHOORIA Rohan (AUS),RESTURE Seluka (TUV),DHOORIA Rohan
+ITTF Oceania Championships Bendigo 2016,2016-03-20,LIN Yi-Sien,GENDRON Hugo,3,0,"11,11,11|3,8,4",GROUP,OTHER,MT,165,Main Draw,LIN Yi-Sien (NZL),GENDRON Hugo (PYF),LIN Yi-Sien
+ITTF Oceania Championships Bendigo 2016,2016-03-20,LIN Yi-Sien,DOSSIER Gregoire,3,1,"9,11,11,11|11,9,6,5",GROUP,OTHER,MT,165,Main Draw,LIN Yi-Sien (NZL),DOSSIER Gregoire (PYF),LIN Yi-Sien
+ITTF Oceania Championships Bendigo 2016,2016-03-20,BALL Matthew,GENDRON Hugo,3,0,"11,11,15|9,4,13",GROUP,OTHER,MT,165,Main Draw,BALL Matthew (NZL),GENDRON Hugo (PYF),BALL Matthew
+ITTF Oceania Championships Bendigo 2016,2016-03-20,ZENAIDEE Zaki,RESTURE Alex,3,1,"11,8,11,11|2,11,8,7",,OTHER,U21MT,165,Qualification,ZENAIDEE Zaki (AUS),RESTURE Alex (TUV),ZENAIDEE Zaki
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TSAO Erny,RESTURE Seluka,3,0,"11,11,11|4,8,9",,OTHER,U21MT,165,Qualification,TSAO Erny (AUS),RESTURE Seluka (TUV),TSAO Erny
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TSAO Erny,RESTURE Alex,3,0,"11,11,11|3,5,6",,OTHER,U21MT,165,Qualification,TSAO Erny (AUS),RESTURE Alex (TUV),TSAO Erny
+ITTF Oceania Championships Bendigo 2016,2016-03-20,HEO Tom,RESTURE Seluka,3,0,"11,11,11|7,3,6",,OTHER,U21MT,165,Qualification,HEO Tom (PYF),RESTURE Seluka (TUV),HEO Tom
+ITTF Oceania Championships Bendigo 2016,2016-03-20,GENDRON Hugo,ZENAIDEE Zaki,3,0,"11,11,11|9,9,9",,OTHER,U21MT,165,Qualification,ZENAIDEE Zaki (AUS),GENDRON Hugo (PYF),GENDRON Hugo
+ITTF Oceania Championships Bendigo 2016,2016-03-20,COSGRIFF Luke,GENDRON Hugo,3,0,"11,11,14|7,8,12",,OTHER,U21MT,165,Qualification,COSGRIFF Luke (AUS),GENDRON Hugo (PYF),COSGRIFF Luke
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TAN Sarah,SANTINO Vanina,3,0,"11,12,11|5,10,3",,OTHER,U21WT,165,Qualification,TAN Sarah (AUS),SANTINO Vanina (NCL),TAN Sarah
+ITTF Oceania Championships Bendigo 2016,2016-03-20,YEE Sally,DOSSIER Margaux,3,2,"7,11,7,11,13|11,3,11,4,11",,OTHER,U21WT,165,Qualification,DOSSIER Margaux (PYF),YEE Sally (FIJ),YEE Sally
+ITTF Oceania Championships Bendigo 2016,2016-03-20,YEE Grace Rosi,RAO Ruofei,3,2,"11,8,13,3,11|7,11,11,11,9",,OTHER,U21WT,165,Qualification,RAO Ruofei (NZL),YEE Grace Rosi (FIJ),YEE Grace Rosi
+ITTF Oceania Championships Bendigo 2016,2016-03-20,RAO Ruofei,YEE Sally,3,0,"11,11,12|8,7,10",,OTHER,U21WT,165,Qualification,RAO Ruofei (NZL),YEE Sally (FIJ),RAO Ruofei
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TAN Sarah,DOSSIER Margaux,3,0,"11,11,11|3,7,4",,OTHER,U21WT,165,Qualification,DOSSIER Margaux (PYF),TAN Sarah (AUS),TAN Sarah
+ITTF Oceania Championships Bendigo 2016,2016-03-20,NEWTON Georgina,RAO Ruofei,3,0,"11,11,11|4,5,9",,OTHER,U21WT,165,Qualification,RAO Ruofei (NZL),NEWTON Georgina (AUS),NEWTON Georgina
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DANGER Solenn,YEE Sally,3,0,"11,11,11|6,9,6",,OTHER,U21WT,165,Qualification,YEE Sally (FIJ),DANGER Solenn (NCL),DANGER Solenn
+ITTF Oceania Championships Bendigo 2016,2016-03-20,GOODSELL Madeline,YEE Sally,3,0,"13,11,11|11,7,4",,OTHER,U21WT,165,Qualification,GOODSELL Madeline (AUS),YEE Sally (FIJ),GOODSELL Madeline
+ITTF Oceania Championships Bendigo 2016,2016-03-20,GOODSELL Madeline,YEE Grace Rosi,3,0,"11,11,11|9,1,6",,OTHER,U21WT,165,Qualification,GOODSELL Madeline (AUS),YEE Grace Rosi (FIJ),GOODSELL Madeline
+ITTF Oceania Championships Bendigo 2016,2016-03-20,SANTINO Vanina,DOSSIER Margaux,3,1,"11,5,11,11|6,11,9,9",,OTHER,U21WT,165,Qualification,DOSSIER Margaux (PYF),SANTINO Vanina (NCL),SANTINO Vanina
+ITTF Oceania Championships Bendigo 2016,2016-03-20,RAO Ruofei,SANTINO Vanina,3,0,"11,11,11|6,6,2",,OTHER,U21WT,165,Qualification,RAO Ruofei (NZL),SANTINO Vanina (NCL),RAO Ruofei
+ITTF Oceania Championships Bendigo 2016,2016-03-20,GOODSELL Madeline,DANGER Solenn,3,0,"11,11,11|5,7,8",GROUP,OTHER,WT,165,Main Draw,DANGER Solenn (NCL),GOODSELL Madeline (AUS),GOODSELL Madeline
+ITTF Oceania Championships Bendigo 2016,2016-03-20,PENG Kai,SANTINO Vanina,3,0,"11,11,12|1,7,10",GROUP,OTHER,WT,165,Main Draw,SANTINO Vanina (NCL),PENG Kai (AUS),PENG Kai
+ITTF Oceania Championships Bendigo 2016,2016-03-20,PENG Kai,DANGER Solenn,3,0,"11,11,12|3,3,10",GROUP,OTHER,WT,165,Main Draw,DANGER Solenn (NCL),PENG Kai (AUS),PENG Kai
+ITTF Oceania Championships Bendigo 2016,2016-03-20,GOODSELL Madeline,SANTINO Vanina,3,0,"11,11,11|9,2,5",GROUP,OTHER,WT,165,Main Draw,SANTINO Vanina (NCL),GOODSELL Madeline (AUS),GOODSELL Madeline
+ITTF Oceania Championships Bendigo 2016,2016-03-20,LI Carolyn,RESTURE Kaimalie,3,0,"12,11,11|10,4,3",GROUP,OTHER,WT,165,Main Draw,RESTURE Kaimalie (TUV),LI Carolyn (FIJ),LI Carolyn
+ITTF Oceania Championships Bendigo 2016,2016-03-20,PENG Kai,RESTURE Kaimalie,3,0,"11,11,11|1,2,1",GROUP,OTHER,WT,165,Main Draw,RESTURE Kaimalie (TUV),PENG Kai (AUS),PENG Kai
+ITTF Oceania Championships Bendigo 2016,2016-03-20,PENG Kai,DOSSIER Margaux,3,0,"11,11,11|2,3,6",GROUP,OTHER,WT,165,Main Draw,DOSSIER Margaux (PYF),PENG Kai (AUS),PENG Kai
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TAN Sarah,RESTURE Kaimalie,3,0,"11,11,11|2,3,4",GROUP,OTHER,WT,165,Main Draw,RESTURE Kaimalie (TUV),TAN Sarah (AUS),TAN Sarah
+ITTF Oceania Championships Bendigo 2016,2016-03-20,PATERSON Natalie,YEE Grace Rosi,3,1,"11,9,11,11|9,11,2,3",GROUP,OTHER,WT,165,Main Draw,YEE Grace Rosi (FIJ),PATERSON Natalie (NZL),PATERSON Natalie
+ITTF Oceania Championships Bendigo 2016,2016-03-20,RAO Ruofei,LI Carolyn,3,0,"11,11,11|5,2,4",GROUP,OTHER,WT,165,Main Draw,LI Carolyn (FIJ),RAO Ruofei (NZL),RAO Ruofei
+ITTF Oceania Championships Bendigo 2016,2016-03-20,SINGH Armindeep,YEE Sally,3,1,"11,11,7,11|6,3,11,9",GROUP,OTHER,WT,165,Main Draw,YEE Sally (FIJ),SINGH Armindeep (NZL),SINGH Armindeep
+ITTF Oceania Championships Bendigo 2016,2016-03-20,PATERSON Natalie,LI Carolyn,3,0,"11,11,11|5,3,9",GROUP,OTHER,WT,165,Main Draw,LI Carolyn (FIJ),PATERSON Natalie (NZL),PATERSON Natalie
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TAN Sarah,LI Carolyn,3,0,"11,11,11|6,3,3",GROUP,OTHER,WT,165,Main Draw,TAN Sarah (AUS),LI Carolyn (FIJ),TAN Sarah
+ITTF Oceania Championships Bendigo 2016,2016-03-20,PENG Kai,YEE Sally,3,0,"11,11,11|1,2,2",GROUP,OTHER,WT,165,Main Draw,PENG Kai (AUS),YEE Sally (FIJ),PENG Kai
+ITTF Oceania Championships Bendigo 2016,2016-03-20,SINGH Armindeep,DANGER Solenn,3,2,"8,11,1,11,14|11,5,11,8,12",GROUP,OTHER,WT,165,Main Draw,SINGH Armindeep (NZL),DANGER Solenn (NCL),SINGH Armindeep
+ITTF Oceania Championships Bendigo 2016,2016-03-20,SINGH Armindeep,SANTINO Vanina,3,0,"11,11,11|2,3,3",GROUP,OTHER,WT,165,Main Draw,SINGH Armindeep (NZL),SANTINO Vanina (NCL),SINGH Armindeep
+ITTF Oceania Championships Bendigo 2016,2016-03-20,PENG Kai,PATERSON Natalie,3,0,"11,11,11|5,9,5",GROUP,OTHER,WT,165,Main Draw,PENG Kai (AUS),PATERSON Natalie (NZL),PENG Kai
+ITTF Oceania Championships Bendigo 2016,2016-03-20,GOODSELL Madeline,SINGH Armindeep,3,0,"11,11,11|9,6,4",GROUP,OTHER,WT,165,Main Draw,GOODSELL Madeline (AUS),SINGH Armindeep (NZL),GOODSELL Madeline
+ITTF Oceania Championships Bendigo 2016,2016-03-20,NEWTON Georgina,PATERSON Natalie,3,2,"11,9,9,12,11|8,11,11,10,9",GROUP,OTHER,WT,165,Main Draw,NEWTON Georgina (AUS),PATERSON Natalie (NZL),NEWTON Georgina
+ITTF Oceania Championships Bendigo 2016,2016-03-20,PENG Kai,RAO Ruofei,3,0,"11,11,11|4,7,7",GROUP,OTHER,WT,165,Main Draw,PENG Kai (AUS),RAO Ruofei (NZL),PENG Kai
+ITTF Oceania Championships Bendigo 2016,2016-03-20,DANGER Solenn,RESTURE Kaimalie,3,0,"11,11,11|5,4,9",GROUP,OTHER,WT,165,Main Draw,RESTURE Kaimalie (TUV),DANGER Solenn (NCL),DANGER Solenn
+ITTF Oceania Championships Bendigo 2016,2016-03-20,SINGH Armindeep,RESTURE Kaimalie,3,0,"11,11,11|1,5,4",GROUP,OTHER,WT,165,Main Draw,RESTURE Kaimalie (TUV),SINGH Armindeep (NZL),SINGH Armindeep
+ITTF Oceania Championships Bendigo 2016,2016-03-20,SANTINO Vanina,YEE Sally,3,1,"11,9,11,11|9,11,8,9",GROUP,OTHER,WT,165,Main Draw,SANTINO Vanina (NCL),YEE Sally (FIJ),SANTINO Vanina
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TAN Sarah,SINGH Armindeep,3,1,"8,11,11,11|11,8,8,5",,OTHER,WT,165,Main Draw,TAN Sarah (AUS),SINGH Armindeep (NZL),TAN Sarah
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TOWNSEND Kane,LIN Yi-Sien,3,2,"11,11,12,7,11|13,8,10,11,8",,OTHER,MT,165,Main Draw,LIN Yi-Sien (NZL),TOWNSEND Kane (AUS),TOWNSEND Kane
+ITTF Oceania Championships Bendigo 2016,2016-03-20,TOWNSEND Wade,DYE Craig,3,1,"11,6,11,15|4,11,7,13",,OTHER,MT,165,Main Draw,DYE Craig (NZL),TOWNSEND Wade (AUS),TOWNSEND Wade
+ITTF Oceania Championships Bendigo 2016,2016-03-20,LIN Yi-Sien,TOWNSEND Wade,3,1,"6,11,11,11|11,9,9,8",,OTHER,MT,165,Main Draw,LIN Yi-Sien (NZL),TOWNSEND Wade (AUS),LIN Yi-Sien

@@ -1,33 +1,33 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Women's World Cup Guangzhou 2005,2005-12-13,ZHANG Yining,GUO Yue,4,2,"9,7,11,11,11,13|11,11,8,6,8,11",QF,WORLD_CUP,WS,1761,Main Draw,ZHANG Yining (CHN),GUO Yue (CHN)
-Women's World Cup Guangzhou 2005,2005-12-13,TIE Yana,LIN Ling,4,3,"11,11,6,6,11,8,11|8,6,11,11,9,11,9",QF,WORLD_CUP,WS,1761,Main Draw,TIE Yana (HKG),LIN Ling (HKG)
-Women's World Cup Guangzhou 2005,2005-12-13,FUKUHARA Ai,GAO Jun,4,2,"13,10,7,11,11,11|11,12,11,6,8,7",QF,WORLD_CUP,WS,1761,Main Draw,FUKUHARA Ai (JPN),GAO Jun (USA)
-Women's World Cup Guangzhou 2005,2005-12-13,GUO Yan (1982),BOROS Tamara,4,1,"11,11,11,7,13|7,6,8,11,11",QF,WORLD_CUP,WS,1761,Main Draw,GUO Yan (1982) (CHN),BOROS Tamara (CRO)
-Women's World Cup Guangzhou 2005,2005-12-13,ZHANG Yining,TIE Yana,4,0,"11,11,11,11|8,9,5,9",SF,WORLD_CUP,WS,1761,Main Draw,ZHANG Yining (CHN),TIE Yana (HKG)
-Women's World Cup Guangzhou 2005,2005-12-13,GUO Yan (1982),FUKUHARA Ai,4,3,"6,11,7,12,9,11,11|11,3,11,10,11,2,6",SF,WORLD_CUP,WS,1761,Main Draw,GUO Yan (1982) (CHN),FUKUHARA Ai (JPN)
-Women's World Cup Guangzhou 2005,2005-12-13,FUKUHARA Ai,TIE Yana,4,1,"11,11,3,11,11|6,6,11,6,8",3RD,WORLD_CUP,WS,1761,Position Draw,FUKUHARA Ai (JPN),TIE Yana (HKG)
-Women's World Cup Guangzhou 2005,2005-12-13,ZHANG Yining,GAO Jun,4,3,"7,5,11,11,5,11,11|11,11,3,3,11,8,7",,WORLD_CUP,WS,1761,Qualification,ZHANG Yining (CHN),GAO Jun (USA)
-Women's World Cup Guangzhou 2005,2005-12-13,KIM Kyungah,FOMUM Victorine Agum,4,0,"11,11,11,11|3,3,1,2",QR2,WORLD_CUP,WS,1761,Qualification,KIM Kyungah (KOR),FOMUM Victorine Agum (CMR)
-Women's World Cup Guangzhou 2005,2005-12-13,ZHANG Yining,KIM Kyungah,4,0,"11,11,11,11|5,6,9,9",3,WORLD_CUP,WS,1761,Qualification,ZHANG Yining (CHN),KIM Kyungah (KOR)
-Women's World Cup Guangzhou 2005,2005-12-13,GAO Jun,FOMUM Victorine Agum,4,0,"11,11,11,11|2,4,5,5",QR4,WORLD_CUP,WS,1761,Qualification,GAO Jun (USA),FOMUM Victorine Agum (CMR)
-Women's World Cup Guangzhou 2005,2005-12-13,ZHANG Yining,FOMUM Victorine Agum,4,0,"11,11,11,11|3,4,2,3",5,WORLD_CUP,WS,1761,Qualification,ZHANG Yining (CHN),FOMUM Victorine Agum (CMR)
-Women's World Cup Guangzhou 2005,2005-12-13,GAO Jun,KIM Kyungah,4,1,"11,11,10,11,11|8,4,12,6,7",6,WORLD_CUP,WS,1761,Qualification,GAO Jun (USA),KIM Kyungah (KOR)
-Women's World Cup Guangzhou 2005,2005-12-13,GUO Yue,PAVLOVICH Viktoria,4,0,"11,11,11,11|5,4,2,4",,WORLD_CUP,WS,1761,Qualification,GUO Yue (CHN),PAVLOVICH Viktoria (BLR)
-Women's World Cup Guangzhou 2005,2005-12-13,BOROS Tamara,LIAN Qian,4,2,"8,11,11,11,3,11|11,2,7,4,11,9",QR2,WORLD_CUP,WS,1761,Qualification,BOROS Tamara (CRO),LIAN Qian (DOM)
-Women's World Cup Guangzhou 2005,2005-12-13,BOROS Tamara,GUO Yue,4,3,"10,11,11,11,5,12,16|12,7,6,13,11,10,14",3,WORLD_CUP,WS,1761,Qualification,BOROS Tamara (CRO),GUO Yue (CHN)
-Women's World Cup Guangzhou 2005,2005-12-13,PAVLOVICH Viktoria,LIAN Qian,4,2,"11,12,2,12,11,11|6,14,11,10,8,6",QR4,WORLD_CUP,WS,1761,Qualification,PAVLOVICH Viktoria (BLR),LIAN Qian (DOM)
-Women's World Cup Guangzhou 2005,2005-12-13,GUO Yue,LIAN Qian,4,0,"11,11,11,11|6,6,4,8",5,WORLD_CUP,WS,1761,Qualification,GUO Yue (CHN),LIAN Qian (DOM)
-Women's World Cup Guangzhou 2005,2005-12-13,BOROS Tamara,PAVLOVICH Viktoria,4,0,"11,11,12,11|5,4,10,3",6,WORLD_CUP,WS,1761,Qualification,BOROS Tamara (CRO),PAVLOVICH Viktoria (BLR)
-Women's World Cup Guangzhou 2005,2005-12-13,LI Jiawei,LAU Sui Fei,4,0,"11,11,11,11|9,7,9,7",,WORLD_CUP,WS,1761,Qualification,LI Jiawei (SGP),LAU Sui Fei (HKG)
-Women's World Cup Guangzhou 2005,2005-12-13,FUKUHARA Ai,LIN Ling,4,0,"12,11,11,11|10,6,9,7",QR2,WORLD_CUP,WS,1761,Qualification,FUKUHARA Ai (JPN),LIN Ling (HKG)
-Women's World Cup Guangzhou 2005,2005-12-13,LIN Ling,LI Jiawei,4,1,"11,4,11,12,11|7,11,7,10,6",3,WORLD_CUP,WS,1761,Qualification,LIN Ling (HKG),LI Jiawei (SGP)
-Women's World Cup Guangzhou 2005,2005-12-13,FUKUHARA Ai,LAU Sui Fei,4,1,"11,11,11,10,12|7,5,8,12,10",QR4,WORLD_CUP,WS,1761,Qualification,FUKUHARA Ai (JPN),LAU Sui Fei (HKG)
-Women's World Cup Guangzhou 2005,2005-12-13,FUKUHARA Ai,LI Jiawei,4,1,"11,11,14,6,12|4,3,12,11,10",5,WORLD_CUP,WS,1761,Qualification,FUKUHARA Ai (JPN),LI Jiawei (SGP)
-Women's World Cup Guangzhou 2005,2005-12-13,LIN Ling,LAU Sui Fei,4,0,"11,12,12,11|6,10,10,5",6,WORLD_CUP,WS,1761,Qualification,LIN Ling (HKG),LAU Sui Fei (HKG)
-Women's World Cup Guangzhou 2005,2005-12-13,GUO Yan (1982),LIU Jia,4,2,"11,13,11,10,9,11|8,11,7,12,11,8",,WORLD_CUP,WS,1761,Qualification,GUO Yan (1982) (CHN),LIU Jia (AUT)
-Women's World Cup Guangzhou 2005,2005-12-13,TIE Yana,LAY Jian Fang,4,2,"9,14,11,11,11,11|11,16,6,7,3,9",QR2,WORLD_CUP,WS,1761,Qualification,TIE Yana (HKG),LAY Jian Fang (AUS)
-Women's World Cup Guangzhou 2005,2005-12-13,TIE Yana,GUO Yan (1982),4,2,"2,12,12,7,11,11|11,10,10,11,8,9",3,WORLD_CUP,WS,1761,Qualification,TIE Yana (HKG),GUO Yan (1982) (CHN)
-Women's World Cup Guangzhou 2005,2005-12-13,LIU Jia,LAY Jian Fang,4,0,"11,11,11,11|3,8,7,7",QR4,WORLD_CUP,WS,1761,Qualification,LIU Jia (AUT),LAY Jian Fang (AUS)
-Women's World Cup Guangzhou 2005,2005-12-13,GUO Yan (1982),LAY Jian Fang,4,1,"8,11,11,11,11|11,3,9,5,3",5,WORLD_CUP,WS,1761,Qualification,GUO Yan (1982) (CHN),LAY Jian Fang (AUS)
-Women's World Cup Guangzhou 2005,2005-12-13,TIE Yana,LIU Jia,4,2,"11,6,11,10,11,11|9,11,9,12,7,8",6,WORLD_CUP,WS,1761,Qualification,TIE Yana (HKG),LIU Jia (AUT)
-Women's World Cup Guangzhou 2005,2005-12-13,ZHANG Yining,GUO Yan (1982),4,0,"11,14,11,11|8,12,7,5",F,WORLD_CUP,WS,1761,Main Draw,ZHANG Yining (CHN),GUO Yan (1982) (CHN)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Women's World Cup Guangzhou 2005,2005-12-13,ZHANG Yining,GUO Yue,4,2,"9,7,11,11,11,13|11,11,8,6,8,11",QF,WORLD_CUP,WS,1761,Main Draw,ZHANG Yining (CHN),GUO Yue (CHN),ZHANG Yining
+Women's World Cup Guangzhou 2005,2005-12-13,TIE Yana,LIN Ling,4,3,"11,11,6,6,11,8,11|8,6,11,11,9,11,9",QF,WORLD_CUP,WS,1761,Main Draw,TIE Yana (HKG),LIN Ling (HKG),TIE Yana
+Women's World Cup Guangzhou 2005,2005-12-13,FUKUHARA Ai,GAO Jun,4,2,"13,10,7,11,11,11|11,12,11,6,8,7",QF,WORLD_CUP,WS,1761,Main Draw,FUKUHARA Ai (JPN),GAO Jun (USA),FUKUHARA Ai
+Women's World Cup Guangzhou 2005,2005-12-13,GUO Yan (1982),BOROS Tamara,4,1,"11,11,11,7,13|7,6,8,11,11",QF,WORLD_CUP,WS,1761,Main Draw,GUO Yan (1982) (CHN),BOROS Tamara (CRO),GUO Yan (1982)
+Women's World Cup Guangzhou 2005,2005-12-13,ZHANG Yining,TIE Yana,4,0,"11,11,11,11|8,9,5,9",SF,WORLD_CUP,WS,1761,Main Draw,ZHANG Yining (CHN),TIE Yana (HKG),ZHANG Yining
+Women's World Cup Guangzhou 2005,2005-12-13,GUO Yan (1982),FUKUHARA Ai,4,3,"6,11,7,12,9,11,11|11,3,11,10,11,2,6",SF,WORLD_CUP,WS,1761,Main Draw,GUO Yan (1982) (CHN),FUKUHARA Ai (JPN),GUO Yan (1982)
+Women's World Cup Guangzhou 2005,2005-12-13,FUKUHARA Ai,TIE Yana,4,1,"11,11,3,11,11|6,6,11,6,8",3RD,WORLD_CUP,WS,1761,Position Draw,FUKUHARA Ai (JPN),TIE Yana (HKG),FUKUHARA Ai
+Women's World Cup Guangzhou 2005,2005-12-13,ZHANG Yining,GAO Jun,4,3,"7,5,11,11,5,11,11|11,11,3,3,11,8,7",,WORLD_CUP,WS,1761,Qualification,ZHANG Yining (CHN),GAO Jun (USA),ZHANG Yining
+Women's World Cup Guangzhou 2005,2005-12-13,KIM Kyungah,FOMUM Victorine Agum,4,0,"11,11,11,11|3,3,1,2",QR2,WORLD_CUP,WS,1761,Qualification,KIM Kyungah (KOR),FOMUM Victorine Agum (CMR),KIM Kyungah
+Women's World Cup Guangzhou 2005,2005-12-13,ZHANG Yining,KIM Kyungah,4,0,"11,11,11,11|5,6,9,9",3,WORLD_CUP,WS,1761,Qualification,ZHANG Yining (CHN),KIM Kyungah (KOR),ZHANG Yining
+Women's World Cup Guangzhou 2005,2005-12-13,GAO Jun,FOMUM Victorine Agum,4,0,"11,11,11,11|2,4,5,5",QR4,WORLD_CUP,WS,1761,Qualification,GAO Jun (USA),FOMUM Victorine Agum (CMR),GAO Jun
+Women's World Cup Guangzhou 2005,2005-12-13,ZHANG Yining,FOMUM Victorine Agum,4,0,"11,11,11,11|3,4,2,3",5,WORLD_CUP,WS,1761,Qualification,ZHANG Yining (CHN),FOMUM Victorine Agum (CMR),ZHANG Yining
+Women's World Cup Guangzhou 2005,2005-12-13,GAO Jun,KIM Kyungah,4,1,"11,11,10,11,11|8,4,12,6,7",6,WORLD_CUP,WS,1761,Qualification,GAO Jun (USA),KIM Kyungah (KOR),GAO Jun
+Women's World Cup Guangzhou 2005,2005-12-13,GUO Yue,PAVLOVICH Viktoria,4,0,"11,11,11,11|5,4,2,4",,WORLD_CUP,WS,1761,Qualification,GUO Yue (CHN),PAVLOVICH Viktoria (BLR),GUO Yue
+Women's World Cup Guangzhou 2005,2005-12-13,BOROS Tamara,LIAN Qian,4,2,"8,11,11,11,3,11|11,2,7,4,11,9",QR2,WORLD_CUP,WS,1761,Qualification,BOROS Tamara (CRO),LIAN Qian (DOM),BOROS Tamara
+Women's World Cup Guangzhou 2005,2005-12-13,BOROS Tamara,GUO Yue,4,3,"10,11,11,11,5,12,16|12,7,6,13,11,10,14",3,WORLD_CUP,WS,1761,Qualification,BOROS Tamara (CRO),GUO Yue (CHN),BOROS Tamara
+Women's World Cup Guangzhou 2005,2005-12-13,PAVLOVICH Viktoria,LIAN Qian,4,2,"11,12,2,12,11,11|6,14,11,10,8,6",QR4,WORLD_CUP,WS,1761,Qualification,PAVLOVICH Viktoria (BLR),LIAN Qian (DOM),PAVLOVICH Viktoria
+Women's World Cup Guangzhou 2005,2005-12-13,GUO Yue,LIAN Qian,4,0,"11,11,11,11|6,6,4,8",5,WORLD_CUP,WS,1761,Qualification,GUO Yue (CHN),LIAN Qian (DOM),GUO Yue
+Women's World Cup Guangzhou 2005,2005-12-13,BOROS Tamara,PAVLOVICH Viktoria,4,0,"11,11,12,11|5,4,10,3",6,WORLD_CUP,WS,1761,Qualification,BOROS Tamara (CRO),PAVLOVICH Viktoria (BLR),BOROS Tamara
+Women's World Cup Guangzhou 2005,2005-12-13,LI Jiawei,LAU Sui Fei,4,0,"11,11,11,11|9,7,9,7",,WORLD_CUP,WS,1761,Qualification,LI Jiawei (SGP),LAU Sui Fei (HKG),LI Jiawei
+Women's World Cup Guangzhou 2005,2005-12-13,FUKUHARA Ai,LIN Ling,4,0,"12,11,11,11|10,6,9,7",QR2,WORLD_CUP,WS,1761,Qualification,FUKUHARA Ai (JPN),LIN Ling (HKG),FUKUHARA Ai
+Women's World Cup Guangzhou 2005,2005-12-13,LIN Ling,LI Jiawei,4,1,"11,4,11,12,11|7,11,7,10,6",3,WORLD_CUP,WS,1761,Qualification,LIN Ling (HKG),LI Jiawei (SGP),LIN Ling
+Women's World Cup Guangzhou 2005,2005-12-13,FUKUHARA Ai,LAU Sui Fei,4,1,"11,11,11,10,12|7,5,8,12,10",QR4,WORLD_CUP,WS,1761,Qualification,FUKUHARA Ai (JPN),LAU Sui Fei (HKG),FUKUHARA Ai
+Women's World Cup Guangzhou 2005,2005-12-13,FUKUHARA Ai,LI Jiawei,4,1,"11,11,14,6,12|4,3,12,11,10",5,WORLD_CUP,WS,1761,Qualification,FUKUHARA Ai (JPN),LI Jiawei (SGP),FUKUHARA Ai
+Women's World Cup Guangzhou 2005,2005-12-13,LIN Ling,LAU Sui Fei,4,0,"11,12,12,11|6,10,10,5",6,WORLD_CUP,WS,1761,Qualification,LIN Ling (HKG),LAU Sui Fei (HKG),LIN Ling
+Women's World Cup Guangzhou 2005,2005-12-13,GUO Yan (1982),LIU Jia,4,2,"11,13,11,10,9,11|8,11,7,12,11,8",,WORLD_CUP,WS,1761,Qualification,GUO Yan (1982) (CHN),LIU Jia (AUT),GUO Yan (1982)
+Women's World Cup Guangzhou 2005,2005-12-13,TIE Yana,LAY Jian Fang,4,2,"9,14,11,11,11,11|11,16,6,7,3,9",QR2,WORLD_CUP,WS,1761,Qualification,TIE Yana (HKG),LAY Jian Fang (AUS),TIE Yana
+Women's World Cup Guangzhou 2005,2005-12-13,TIE Yana,GUO Yan (1982),4,2,"2,12,12,7,11,11|11,10,10,11,8,9",3,WORLD_CUP,WS,1761,Qualification,TIE Yana (HKG),GUO Yan (1982) (CHN),TIE Yana
+Women's World Cup Guangzhou 2005,2005-12-13,LIU Jia,LAY Jian Fang,4,0,"11,11,11,11|3,8,7,7",QR4,WORLD_CUP,WS,1761,Qualification,LIU Jia (AUT),LAY Jian Fang (AUS),LIU Jia
+Women's World Cup Guangzhou 2005,2005-12-13,GUO Yan (1982),LAY Jian Fang,4,1,"8,11,11,11,11|11,3,9,5,3",5,WORLD_CUP,WS,1761,Qualification,GUO Yan (1982) (CHN),LAY Jian Fang (AUS),GUO Yan (1982)
+Women's World Cup Guangzhou 2005,2005-12-13,TIE Yana,LIU Jia,4,2,"11,6,11,10,11,11|9,11,9,12,7,8",6,WORLD_CUP,WS,1761,Qualification,TIE Yana (HKG),LIU Jia (AUT),TIE Yana
+Women's World Cup Guangzhou 2005,2005-12-13,ZHANG Yining,GUO Yan (1982),4,0,"11,14,11,11|8,12,7,5",F,WORLD_CUP,WS,1761,Main Draw,ZHANG Yining (CHN),GUO Yan (1982) (CHN),ZHANG Yining

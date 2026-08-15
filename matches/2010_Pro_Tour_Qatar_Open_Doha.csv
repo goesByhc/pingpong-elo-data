@@ -1,456 +1,456 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Pro Tour Qatar Open Doha 2010,2010-02-17,MA Long,BOBOCICA Mihai,4,1,"9,11,11,11,11|11,5,9,5,6",R64,GRAND_SLAM,MS,52,Main Draw,MA Long (CHN),BOBOCICA Mihai (ITA)
-Pro Tour Qatar Open Doha 2010,2010-02-17,CRISAN Adrian,KORBEL Petr,4,3,"6,11,7,11,9,11,11|11,6,11,4,11,7,7",R64,GRAND_SLAM,MS,52,Main Draw,CRISAN Adrian (ROU),KORBEL Petr (CZE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KUZMIN Fedor,JAKAB Janos,4,3,"5,11,12,9,11,9,11|11,7,10,11,6,11,4",R64,GRAND_SLAM,MS,52,Main Draw,KUZMIN Fedor (RUS),JAKAB Janos (HUN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,CHUANG Chih-Yuan,YOSHIDA Masaki,4,0,"11,11,11,11|4,9,4,9",R64,GRAND_SLAM,MS,52,Main Draw,CHUANG Chih-Yuan (TPE),YOSHIDA Masaki (JPN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,PRIMORAC Zoran,TUGWELL Finn,4,2,"9,11,11,11,9,11|11,8,3,6,11,8",R64,GRAND_SLAM,MS,52,Main Draw,PRIMORAC Zoran (CRO),TUGWELL Finn (DEN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,MONTEIRO Joao,CHO Eonrae,4,1,"11,11,5,11,11|6,9,11,8,8",R64,GRAND_SLAM,MS,52,Main Draw,MONTEIRO Joao (POR),CHO Eonrae (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SUCH Bartosz,BAUM Patrick,4,2,"11,4,11,7,11,14|7,11,6,11,9,12",R64,GRAND_SLAM,MS,52,Main Draw,SUCH Bartosz (POL),BAUM Patrick (GER)
-Pro Tour Qatar Open Doha 2010,2010-02-17,JOO Saehyuk,GACINA Andrej,4,0,"11,11,11,11|4,7,7,6",R64,GRAND_SLAM,MS,52,Main Draw,JOO Saehyuk (KOR),GACINA Andrej (CRO)
-Pro Tour Qatar Open Doha 2010,2010-02-17,OVTCHAROV Dimitrij,KASAHARA Hiromitsu,4,2,"5,9,11,11,11,11|11,11,5,9,3,5",R64,GRAND_SLAM,MS,52,Main Draw,OVTCHAROV Dimitrij (GER),KASAHARA Hiromitsu (JPN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SUSS Christian,LAKEEV Vasily,4,2,"10,12,8,14,12,11|12,10,11,12,10,7",R64,GRAND_SLAM,MS,52,Main Draw,SUSS Christian (GER),LAKEEV Vasily (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KIM Junghoon,LIVENTSOV Alexey,4,1,"11,11,11,10,11|9,9,9,12,1",R64,GRAND_SLAM,MS,52,Main Draw,KIM Junghoon (KOR),LIVENTSOV Alexey (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,TANG Peng,JEOUNG Youngsik,4,2,"11,11,11,8,10,11|9,6,6,11,12,8",R64,GRAND_SLAM,MS,52,Main Draw,TANG Peng (HKG),JEOUNG Youngsik (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,OH Sangeun,KONECNY Tomas,4,0,"11,11,11,11|4,4,3,3",R64,GRAND_SLAM,MS,52,Main Draw,OH Sangeun (KOR),KONECNY Tomas (CZE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,YOON Jaeyoung,SKACHKOV Kirill,4,3,"12,11,12,11,5,9,12|14,9,10,3,11,11,10",R64,GRAND_SLAM,MS,52,Main Draw,YOON Jaeyoung (KOR),SKACHKOV Kirill (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,JIANG Tianyi,SAIVE Jean-Michel,4,2,"11,11,3,12,12,13|6,8,11,10,14,11",R64,GRAND_SLAM,MS,52,Main Draw,JIANG Tianyi (HKG),SAIVE Jean-Michel (BEL)
-Pro Tour Qatar Open Doha 2010,2010-02-17,WANG Liqin,WANG Zengyi,4,0,"11,11,11,11|7,7,4,8",R64,GRAND_SLAM,MS,52,Main Draw,WANG Liqin (CHN),WANG Zengyi (POL)
-Pro Tour Qatar Open Doha 2010,2010-02-17,MA Lin,MATTENET Adrien,4,0,"11,11,11,12|3,6,3,10",R64,GRAND_SLAM,MS,52,Main Draw,MA Lin (CHN),MATTENET Adrien (FRA)
-Pro Tour Qatar Open Doha 2010,2010-02-17,VLASOV Grigory,GAO Ning,4,2,"11,10,8,11,11,11|7,12,11,7,5,6",R64,GRAND_SLAM,MS,52,Main Draw,VLASOV Grigory (RUS),GAO Ning (SGP)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SMIRNOV Alexey,GERELL Par,4,3,"11,16,9,12,11,7,11|13,14,11,10,3,11,6",R64,GRAND_SLAM,MS,52,Main Draw,SMIRNOV Alexey (RUS),GERELL Par (SWE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,ACHANTA Sharath,CHEN Weixing,4,2,"11,11,11,5,9,11|5,8,3,11,11,7",R64,GRAND_SLAM,MS,52,Main Draw,ACHANTA Sharath (IND),CHEN Weixing (AUT)
-Pro Tour Qatar Open Doha 2010,2010-02-17,YOSHIDA Kaii,KEINATH Thomas,4,1,"7,11,11,11,11|11,4,1,7,6",R64,GRAND_SLAM,MS,52,Main Draw,YOSHIDA Kaii (JPN),KEINATH Thomas (SVK)
-Pro Tour Qatar Open Doha 2010,2010-02-17,LUNDQVIST Jens,FILUS Ruwen,4,0,"11,11,11,11|8,6,5,8",R64,GRAND_SLAM,MS,52,Main Draw,LUNDQVIST Jens (SWE),FILUS Ruwen (GER)
-Pro Tour Qatar Open Doha 2010,2010-02-17,GARDOS Robert,TORIOLA Segun,4,2,"6,11,11,11,11,11|11,4,13,5,7,8",R64,GRAND_SLAM,MS,52,Main Draw,GARDOS Robert (AUT),TORIOLA Segun (NGR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,ZHANG Jike,YANG Zi,4,0,"11,11,11,11|6,3,8,5",R64,GRAND_SLAM,MS,52,Main Draw,ZHANG Jike (CHN),YANG Zi (SGP)
-Pro Tour Qatar Open Doha 2010,2010-02-17,MIZUTANI Jun,TREGLER Tomas,4,1,"11,11,11,10,11|3,9,6,12,4",R64,GRAND_SLAM,MS,52,Main Draw,MIZUTANI Jun (JPN),TREGLER Tomas (CZE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,LEE Jungwoo,PROKOPCOV Dmitrij,4,3,"11,11,10,11,6,13,11|13,7,12,6,11,11,6",R64,GRAND_SLAM,MS,52,Main Draw,LEE Jungwoo (KOR),PROKOPCOV Dmitrij (CZE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,FEJER-KONNERTH Zoltan,KISHIKAWA Seiya,4,3,"11,8,12,9,11,11,11|3,11,10,11,13,9,3",R64,GRAND_SLAM,MS,52,Main Draw,FEJER-KONNERTH Zoltan (GER),KISHIKAWA Seiya (JPN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SEO Hyundeok,XU Xin,4,1,"11,11,11,9,11|9,9,2,11,7",R64,GRAND_SLAM,MS,52,Main Draw,SEO Hyundeok (KOR),XU Xin (CHN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,RYU Seungmin,FREITAS Marcos,4,1,"15,11,11,11,11|13,13,9,6,6",R64,GRAND_SLAM,MS,52,Main Draw,RYU Seungmin (KOR),FREITAS Marcos (POR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,STEGER Bastian,GAVLAS Antonin,4,3,"10,11,7,11,9,11,11|12,4,11,9,11,5,9",R64,GRAND_SLAM,MS,52,Main Draw,STEGER Bastian (GER),GAVLAS Antonin (CZE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,RUBTSOV Igor,MATSUDAIRA Kenta,4,0,"11,11,11,12|7,6,9,10",R64,GRAND_SLAM,MS,52,Main Draw,RUBTSOV Igor (RUS),MATSUDAIRA Kenta (JPN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,WANG Hao,CHAN Kazuhiro,4,0,"18,11,11,11|16,8,9,8",R64,GRAND_SLAM,MS,52,Main Draw,WANG Hao (CHN),CHAN Kazuhiro (JPN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,MA Long,CRISAN Adrian,4,0,"11,11,11,11|4,4,4,1",R32,GRAND_SLAM,MS,52,Main Draw,MA Long (CHN),CRISAN Adrian (ROU)
-Pro Tour Qatar Open Doha 2010,2010-02-17,CHUANG Chih-Yuan,KUZMIN Fedor,4,2,"11,12,8,11,13,11|3,10,11,3,15,6",R32,GRAND_SLAM,MS,52,Main Draw,CHUANG Chih-Yuan (TPE),KUZMIN Fedor (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,MONTEIRO Joao,PRIMORAC Zoran,4,2,"11,16,11,5,11,11|13,14,6,11,3,9",R32,GRAND_SLAM,MS,52,Main Draw,MONTEIRO Joao (POR),PRIMORAC Zoran (CRO)
-Pro Tour Qatar Open Doha 2010,2010-02-17,JOO Saehyuk,SUCH Bartosz,4,3,"8,11,11,8,11,8,11|11,3,5,11,6,11,5",R32,GRAND_SLAM,MS,52,Main Draw,JOO Saehyuk (KOR),SUCH Bartosz (POL)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SUSS Christian,OVTCHAROV Dimitrij,4,2,"11,12,2,11,11,13|8,14,11,8,4,11",R32,GRAND_SLAM,MS,52,Main Draw,SUSS Christian (GER),OVTCHAROV Dimitrij (GER)
-Pro Tour Qatar Open Doha 2010,2010-02-17,TANG Peng,KIM Junghoon,4,2,"13,11,8,11,10,11|11,9,11,9,12,8",R32,GRAND_SLAM,MS,52,Main Draw,TANG Peng (HKG),KIM Junghoon (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,OH Sangeun,YOON Jaeyoung,4,3,"9,6,11,11,9,11,11|11,11,4,5,11,8,9",R32,GRAND_SLAM,MS,52,Main Draw,OH Sangeun (KOR),YOON Jaeyoung (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,WANG Liqin,JIANG Tianyi,4,0,"11,11,11,11|8,6,5,8",R32,GRAND_SLAM,MS,52,Main Draw,WANG Liqin (CHN),JIANG Tianyi (HKG)
-Pro Tour Qatar Open Doha 2010,2010-02-17,MA Lin,VLASOV Grigory,4,2,"11,11,11,12,7,11|13,6,5,10,11,7",R32,GRAND_SLAM,MS,52,Main Draw,MA Lin (CHN),VLASOV Grigory (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SMIRNOV Alexey,ACHANTA Sharath,4,1,"11,11,6,11,13|4,6,11,8,11",R32,GRAND_SLAM,MS,52,Main Draw,SMIRNOV Alexey (RUS),ACHANTA Sharath (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,LUNDQVIST Jens,YOSHIDA Kaii,4,2,"11,6,11,11,9,11|7,11,8,4,11,5",R32,GRAND_SLAM,MS,52,Main Draw,LUNDQVIST Jens (SWE),YOSHIDA Kaii (JPN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,ZHANG Jike,GARDOS Robert,4,0,"11,11,12,11|3,7,10,9",R32,GRAND_SLAM,MS,52,Main Draw,ZHANG Jike (CHN),GARDOS Robert (AUT)
-Pro Tour Qatar Open Doha 2010,2010-02-17,LEE Jungwoo,MIZUTANI Jun,4,3,"11,11,11,11,6,10,11|13,9,8,6,11,12,7",R32,GRAND_SLAM,MS,52,Main Draw,LEE Jungwoo (KOR),MIZUTANI Jun (JPN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SEO Hyundeok,FEJER-KONNERTH Zoltan,4,2,"8,11,11,14,11,11|11,5,4,12,13,3",R32,GRAND_SLAM,MS,52,Main Draw,SEO Hyundeok (KOR),FEJER-KONNERTH Zoltan (GER)
-Pro Tour Qatar Open Doha 2010,2010-02-17,RYU Seungmin,STEGER Bastian,4,0,"11,11,13,11|4,9,11,6",R32,GRAND_SLAM,MS,52,Main Draw,RYU Seungmin (KOR),STEGER Bastian (GER)
-Pro Tour Qatar Open Doha 2010,2010-02-17,WANG Hao,RUBTSOV Igor,4,1,"12,7,11,11,11|10,11,9,6,9",R32,GRAND_SLAM,MS,52,Main Draw,WANG Hao (CHN),RUBTSOV Igor (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,MA Long,CHUANG Chih-Yuan,4,1,"11,11,11,9,11|5,5,6,11,6",R16,GRAND_SLAM,MS,52,Main Draw,MA Long (CHN),CHUANG Chih-Yuan (TPE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,JOO Saehyuk,MONTEIRO Joao,4,0,"11,11,11,12|9,8,8,10",R16,GRAND_SLAM,MS,52,Main Draw,JOO Saehyuk (KOR),MONTEIRO Joao (POR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,TANG Peng,SUSS Christian,4,1,"11,11,11,11,11|9,9,13,4,4",R16,GRAND_SLAM,MS,52,Main Draw,TANG Peng (HKG),SUSS Christian (GER)
-Pro Tour Qatar Open Doha 2010,2010-02-17,WANG Liqin,OH Sangeun,4,3,"9,7,11,11,11,11,11|11,11,8,4,9,13,6",R16,GRAND_SLAM,MS,52,Main Draw,WANG Liqin (CHN),OH Sangeun (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,MA Lin,SMIRNOV Alexey,4,0,"11,11,11,11|6,9,5,5",R16,GRAND_SLAM,MS,52,Main Draw,MA Lin (CHN),SMIRNOV Alexey (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,ZHANG Jike,LUNDQVIST Jens,4,2,"7,11,11,11,6,11|11,6,8,4,11,9",R16,GRAND_SLAM,MS,52,Main Draw,ZHANG Jike (CHN),LUNDQVIST Jens (SWE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,LEE Jungwoo,SEO Hyundeok,4,2,"11,7,7,12,11,11|8,11,11,10,4,8",R16,GRAND_SLAM,MS,52,Main Draw,LEE Jungwoo (KOR),SEO Hyundeok (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,RYU Seungmin,WANG Hao,4,2,"12,11,8,10,11,11|10,9,11,12,9,9",R16,GRAND_SLAM,MS,52,Main Draw,RYU Seungmin (KOR),WANG Hao (CHN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,MA Long,JOO Saehyuk,4,1,"11,11,7,13,11|4,6,11,11,9",QF,GRAND_SLAM,MS,52,Main Draw,MA Long (CHN),JOO Saehyuk (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,WANG Liqin,TANG Peng,4,0,"11,11,11,11|8,4,6,6",QF,GRAND_SLAM,MS,52,Main Draw,WANG Liqin (CHN),TANG Peng (HKG)
-Pro Tour Qatar Open Doha 2010,2010-02-17,ZHANG Jike,MA Lin,4,1,"11,3,11,11,11|6,11,9,8,9",QF,GRAND_SLAM,MS,52,Main Draw,ZHANG Jike (CHN),MA Lin (CHN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,LEE Jungwoo,RYU Seungmin,4,3,"5,11,10,12,11,8,12|11,5,12,10,5,11,10",QF,GRAND_SLAM,MS,52,Main Draw,LEE Jungwoo (KOR),RYU Seungmin (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,WANG Liqin,MA Long,4,2,"11,11,12,11,8,11|5,13,10,6,11,9",SF,GRAND_SLAM,MS,52,Main Draw,WANG Liqin (CHN),MA Long (CHN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,ZHANG Jike,LEE Jungwoo,4,0,"11,11,11,11|5,7,3,8",SF,GRAND_SLAM,MS,52,Main Draw,ZHANG Jike (CHN),LEE Jungwoo (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,WANG Liqin,ZHANG Jike,4,1,"11,10,11,11,11|7,12,8,5,9",F,GRAND_SLAM,MS,52,Main Draw,WANG Liqin (CHN),ZHANG Jike (CHN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,DRINKHALL Paul,AL-HASAN Salem,4,1,"11,8,11,11,11|6,11,7,4,7",R32,GRAND_SLAM,U21MS,52,Main Draw,DRINKHALL Paul (ENG),AL-HASAN Salem (KUW)
-Pro Tour Qatar Open Doha 2010,2010-02-17,OBESLO Michal,ELSOBKY Mohamed,4,2,"11,14,4,11,12,11|3,12,11,6,14,6",R32,GRAND_SLAM,U21MS,52,Main Draw,OBESLO Michal (CZE),ELSOBKY Mohamed (EGY)
-Pro Tour Qatar Open Doha 2010,2010-02-17,CHEN Chien-An,ALAMIYAN Noshad,4,2,"6,11,5,11,11,11|11,8,11,6,9,8",R32,GRAND_SLAM,U21MS,52,Main Draw,CHEN Chien-An (TPE),ALAMIYAN Noshad (IRI)
-Pro Tour Qatar Open Doha 2010,2010-02-17,FLORITZ Philipp,SALIFOU Abdel-Kader,4,0,,R32,GRAND_SLAM,U21MS,52,Main Draw,FLORITZ Philipp (BUL),SALIFOU Abdel-Kader (BEN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,LI Ahmet,KASAHARA Hiromitsu,4,2,"8,13,11,11,11,12|11,15,4,8,5,10",R32,GRAND_SLAM,U21MS,52,Main Draw,LI Ahmet (TUR),KASAHARA Hiromitsu (JPN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,FRANZISKA Patrick,STERNBERG Kasper,4,0,"11,11,11,11|9,7,3,8",R32,GRAND_SLAM,U21MS,52,Main Draw,FRANZISKA Patrick (GER),STERNBERG Kasper (DEN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,JEOUNG Youngsik,MORICZ Mate,4,0,"11,11,11,11|6,3,8,6",R32,GRAND_SLAM,U21MS,52,Main Draw,JEOUNG Youngsik (KOR),MORICZ Mate (HUN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,LEE Sang Su,YOSHIDA Masaki,4,1,"11,11,11,9,11|5,4,6,11,7",R32,GRAND_SLAM,U21MS,52,Main Draw,LEE Sang Su (KOR),YOSHIDA Masaki (JPN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,ASSAR Omar,MA Liang,4,2,"11,8,11,11,5,11|8,11,6,5,11,8",R32,GRAND_SLAM,U21MS,52,Main Draw,ASSAR Omar (EGY),MA Liang (SGP)
-Pro Tour Qatar Open Doha 2010,2010-02-17,TREGLER Tomas,KIM Donghyun,4,2,"7,11,11,11,11,11|11,8,9,13,4,4",R32,GRAND_SLAM,U21MS,52,Main Draw,TREGLER Tomas (CZE),KIM Donghyun (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,IONESCU Ovidiu,PANG Xue Jie,4,1,"6,13,13,11,11|11,11,11,3,2",R32,GRAND_SLAM,U21MS,52,Main Draw,IONESCU Ovidiu (ROU),PANG Xue Jie (SGP)
-Pro Tour Qatar Open Doha 2010,2010-02-17,NIWA Koki,DESAI Harmeet,4,0,"15,11,11,11|13,5,7,4",R32,GRAND_SLAM,U21MS,52,Main Draw,NIWA Koki (JPN),DESAI Harmeet (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KIM Minseok,SHETTY Sanil,4,1,"8,11,11,11,11|11,4,3,8,8",R32,GRAND_SLAM,U21MS,52,Main Draw,KIM Minseok (KOR),SHETTY Sanil (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SHIBAEV Alexander,CHANG Shun-Hung,4,0,"11,11,11,11|3,8,5,9",R32,GRAND_SLAM,U21MS,52,Main Draw,SHIBAEV Alexander (RUS),CHANG Shun-Hung (TPE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KOSIBA Daniel,MERZLIKIN Taras,4,3,"13,7,5,8,11,11,11|11,11,11,11,8,7,9",R32,GRAND_SLAM,U21MS,52,Main Draw,KOSIBA Daniel (HUN),MERZLIKIN Taras (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SEO Hyundeok,GHOSH Soumyajit,4,0,"11,12,13,11|4,10,11,5",R32,GRAND_SLAM,U21MS,52,Main Draw,SEO Hyundeok (KOR),GHOSH Soumyajit (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,DRINKHALL Paul,OBESLO Michal,4,1,"11,7,11,13,11|6,11,9,11,6",R16,GRAND_SLAM,U21MS,52,Main Draw,DRINKHALL Paul (ENG),OBESLO Michal (CZE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,FLORITZ Philipp,CHEN Chien-An,4,0,,R16,GRAND_SLAM,U21MS,52,Main Draw,FLORITZ Philipp (BUL),CHEN Chien-An (TPE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,LI Ahmet,FRANZISKA Patrick,4,1,"11,11,11,9,15|2,8,8,11,13",R16,GRAND_SLAM,U21MS,52,Main Draw,LI Ahmet (TUR),FRANZISKA Patrick (GER)
-Pro Tour Qatar Open Doha 2010,2010-02-17,JEOUNG Youngsik,LEE Sang Su,4,2,"11,9,11,9,11,11|6,11,3,11,9,7",R16,GRAND_SLAM,U21MS,52,Main Draw,JEOUNG Youngsik (KOR),LEE Sang Su (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,TREGLER Tomas,ASSAR Omar,4,1,"13,11,12,7,11|11,7,10,11,8",R16,GRAND_SLAM,U21MS,52,Main Draw,TREGLER Tomas (CZE),ASSAR Omar (EGY)
-Pro Tour Qatar Open Doha 2010,2010-02-17,NIWA Koki,IONESCU Ovidiu,4,1,"4,12,11,13,11|11,10,9,11,6",R16,GRAND_SLAM,U21MS,52,Main Draw,NIWA Koki (JPN),IONESCU Ovidiu (ROU)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KIM Minseok,SHIBAEV Alexander,4,2,"11,6,5,11,11,11|8,11,11,5,9,5",R16,GRAND_SLAM,U21MS,52,Main Draw,KIM Minseok (KOR),SHIBAEV Alexander (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SEO Hyundeok,KOSIBA Daniel,4,1,"8,11,11,11,11|11,7,8,5,4",R16,GRAND_SLAM,U21MS,52,Main Draw,SEO Hyundeok (KOR),KOSIBA Daniel (HUN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,DRINKHALL Paul,FLORITZ Philipp,4,1,"11,3,11,11,11|2,11,7,6,1",QF,GRAND_SLAM,U21MS,52,Main Draw,DRINKHALL Paul (ENG),FLORITZ Philipp (BUL)
-Pro Tour Qatar Open Doha 2010,2010-02-17,JEOUNG Youngsik,LI Ahmet,4,2,"11,8,10,15,11,11|8,11,12,13,6,9",QF,GRAND_SLAM,U21MS,52,Main Draw,JEOUNG Youngsik (KOR),LI Ahmet (TUR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,NIWA Koki,TREGLER Tomas,4,0,"11,11,11,11|9,9,7,4",QF,GRAND_SLAM,U21MS,52,Main Draw,NIWA Koki (JPN),TREGLER Tomas (CZE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KIM Minseok,SEO Hyundeok,4,2,"11,9,11,11,6,11|6,11,4,9,11,7",QF,GRAND_SLAM,U21MS,52,Main Draw,KIM Minseok (KOR),SEO Hyundeok (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,JEOUNG Youngsik,DRINKHALL Paul,4,2,"10,7,12,11,12,11|12,11,10,7,10,9",SF,GRAND_SLAM,U21MS,52,Main Draw,JEOUNG Youngsik (KOR),DRINKHALL Paul (ENG)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KIM Minseok,NIWA Koki,4,0,"11,11,11,11|8,8,8,8",SF,GRAND_SLAM,U21MS,52,Main Draw,KIM Minseok (KOR),NIWA Koki (JPN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,JEOUNG Youngsik,KIM Minseok,4,2,"11,11,8,13,5,11|7,9,11,11,11,8",F,GRAND_SLAM,U21MS,52,Main Draw,JEOUNG Youngsik (KOR),KIM Minseok (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,LIVENTSOV Alexey,SVENSSON Robert,4,2,"6,11,11,11,8,11|11,7,9,5,11,1",QR8,GRAND_SLAM,MS,52,Qualification,LIVENTSOV Alexey (RUS),SVENSSON Robert (SWE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,FILUS Ruwen,DRINKHALL Paul,4,3,"11,7,13,6,9,11,11|9,11,11,11,11,6,5",QR8,GRAND_SLAM,MS,52,Qualification,FILUS Ruwen (GER),DRINKHALL Paul (ENG)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SEO Hyundeok,MATSUDAIRA Kenji,4,0,"11,11,11,13|8,7,9,11",QR8,GRAND_SLAM,MS,52,Qualification,SEO Hyundeok (KOR),MATSUDAIRA Kenji (JPN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,IONESCU Ovidiu,CHAKRABORTY Sourav,4,2,"11,6,11,9,11,14|6,11,6,11,5,12",,GRAND_SLAM,MS,52,Qualification,IONESCU Ovidiu (ROU),CHAKRABORTY Sourav (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,GERELL Par,IONESCU Ovidiu,4,1,"6,11,11,12,11|11,5,3,10,7",,GRAND_SLAM,MS,52,Qualification,GERELL Par (SWE),IONESCU Ovidiu (ROU)
-Pro Tour Qatar Open Doha 2010,2010-02-17,GERELL Par,CHAKRABORTY Sourav,4,0,"11,11,11,11|6,5,3,6",,GRAND_SLAM,MS,52,Qualification,GERELL Par (SWE),CHAKRABORTY Sourav (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,FRANZISKA Patrick,ANTHONY Amalraj,4,0,"11,12,11,14|7,10,9,12",,GRAND_SLAM,MS,52,Qualification,FRANZISKA Patrick (GER),ANTHONY Amalraj (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SAIVE Jean-Michel,ANTHONY Amalraj,4,0,"11,12,11,11|8,10,9,4",,GRAND_SLAM,MS,52,Qualification,SAIVE Jean-Michel (BEL),ANTHONY Amalraj (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SAIVE Jean-Michel,FRANZISKA Patrick,4,1,"11,11,8,11,11|4,6,11,4,5",,GRAND_SLAM,MS,52,Qualification,SAIVE Jean-Michel (BEL),FRANZISKA Patrick (GER)
-Pro Tour Qatar Open Doha 2010,2010-02-17,TREGLER Tomas,AKHLAGHPASAND Mohammadreza,4,1,"13,6,11,11,12|11,11,3,8,10",,GRAND_SLAM,MS,52,Qualification,TREGLER Tomas (CZE),AKHLAGHPASAND Mohammadreza (USA)
-Pro Tour Qatar Open Doha 2010,2010-02-17,TREGLER Tomas,APOLONIA Tiago,4,3,"8,6,16,11,11,2,13|11,11,14,4,5,11,11",,GRAND_SLAM,MS,52,Qualification,TREGLER Tomas (CZE),APOLONIA Tiago (POR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,APOLONIA Tiago,AKHLAGHPASAND Mohammadreza,4,0,"11,11,11,11|8,5,6,8",,GRAND_SLAM,MS,52,Qualification,APOLONIA Tiago (POR),AKHLAGHPASAND Mohammadreza (USA)
-Pro Tour Qatar Open Doha 2010,2010-02-17,AL-HASAN Ibrahem,OBESLO Michal,3,2,"11,7,12,9,11|9,11,10,11,9",,GRAND_SLAM,MS,52,Qualification,AL-HASAN Ibrahem (KUW),OBESLO Michal (CZE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,WANG Zengyi,OBESLO Michal,4,0,"11,11,11,11|4,6,7,2",,GRAND_SLAM,MS,52,Qualification,WANG Zengyi (POL),OBESLO Michal (CZE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,WANG Zengyi,AL-HASAN Ibrahem,4,2,"7,11,11,11,8,11|11,7,6,6,11,7",,GRAND_SLAM,MS,52,Qualification,WANG Zengyi (POL),AL-HASAN Ibrahem (KUW)
-Pro Tour Qatar Open Doha 2010,2010-02-17,GLADYSHEV Mikhail,STERNBERG Kasper,4,3,"11,11,11,8,7,8,11|8,5,9,11,11,11,6",,GRAND_SLAM,MS,52,Qualification,GLADYSHEV Mikhail (RUS),STERNBERG Kasper (DEN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,GACINA Andrej,STERNBERG Kasper,4,2,"8,11,11,7,11,11|11,8,5,11,6,3",,GRAND_SLAM,MS,52,Qualification,GACINA Andrej (CRO),STERNBERG Kasper (DEN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,GACINA Andrej,GLADYSHEV Mikhail,4,0,"11,11,11,12|8,7,8,10",,GRAND_SLAM,MS,52,Qualification,GACINA Andrej (CRO),GLADYSHEV Mikhail (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KOSIBA Daniel,PLATONOV Pavel,4,3,"13,10,9,9,11,11,11|11,12,11,11,4,8,9",,GRAND_SLAM,MS,52,Qualification,KOSIBA Daniel (HUN),PLATONOV Pavel (BLR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,YANG Zi,PLATONOV Pavel,4,1,"11,11,11,9,11|9,9,7,11,5",,GRAND_SLAM,MS,52,Qualification,YANG Zi (SGP),PLATONOV Pavel (BLR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,YANG Zi,KOSIBA Daniel,4,0,,,GRAND_SLAM,MS,52,Qualification,YANG Zi (SGP),KOSIBA Daniel (HUN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,MOSELHY Emad,AHADI Mehran,4,2,"4,11,4,11,11,11|11,9,11,5,7,5",,GRAND_SLAM,MS,52,Qualification,MOSELHY Emad (EGY),AHADI Mehran (IRI)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KORBEL Petr,AHADI Mehran,4,0,"13,11,11,12|11,7,7,10",,GRAND_SLAM,MS,52,Qualification,KORBEL Petr (CZE),AHADI Mehran (IRI)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KORBEL Petr,MOSELHY Emad,4,0,"11,11,12,11|7,6,10,6",,GRAND_SLAM,MS,52,Qualification,KORBEL Petr (CZE),MOSELHY Emad (EGY)
-Pro Tour Qatar Open Doha 2010,2010-02-17,ALAMIYAN Noshad,ARUNA Quadri,4,1,"11,14,2,11,11|9,12,11,8,9",,GRAND_SLAM,MS,52,Qualification,ALAMIYAN Noshad (IRI),ARUNA Quadri (NGR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,RUBTSOV Igor,ALAMIYAN Noshad,4,2,"11,9,11,8,11,12|9,11,9,11,5,10",,GRAND_SLAM,MS,52,Qualification,RUBTSOV Igor (RUS),ALAMIYAN Noshad (IRI)
-Pro Tour Qatar Open Doha 2010,2010-02-17,RUBTSOV Igor,ARUNA Quadri,4,1,"11,11,11,7,11|4,6,6,11,7",,GRAND_SLAM,MS,52,Qualification,RUBTSOV Igor (RUS),ARUNA Quadri (NGR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,STETSENKO Alexander,ROY Soumyadeep,4,3,"11,7,11,7,9,11,11|8,11,9,11,11,7,7",,GRAND_SLAM,MS,52,Qualification,STETSENKO Alexander (RUS),ROY Soumyadeep (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KEINATH Thomas,STETSENKO Alexander,4,1,"11,11,11,12,17|7,4,9,14,15",,GRAND_SLAM,MS,52,Qualification,KEINATH Thomas (SVK),STETSENKO Alexander (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KEINATH Thomas,ROY Soumyadeep,4,2,"12,9,7,11,11,11|10,11,11,9,5,9",,GRAND_SLAM,MS,52,Qualification,KEINATH Thomas (SVK),ROY Soumyadeep (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,ASSAR Omar,SAHA Subhajit,4,0,"11,11,11,11|9,8,6,2",,GRAND_SLAM,MS,52,Qualification,ASSAR Omar (EGY),SAHA Subhajit (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,CHO Eonrae,ASSAR Omar,4,0,"11,11,11,11|7,6,6,8",,GRAND_SLAM,MS,52,Qualification,CHO Eonrae (KOR),ASSAR Omar (EGY)
-Pro Tour Qatar Open Doha 2010,2010-02-17,CHO Eonrae,SAHA Subhajit,4,2,"8,11,11,3,11,11|11,9,2,11,3,2",,GRAND_SLAM,MS,52,Qualification,CHO Eonrae (KOR),SAHA Subhajit (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,BUROV Viacheslav,KUCHUK Aleksandr,4,2,"7,11,8,11,11,11|11,9,11,5,5,9",,GRAND_SLAM,MS,52,Qualification,BUROV Viacheslav (RUS),KUCHUK Aleksandr (BLR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,ACHANTA Sharath,KUCHUK Aleksandr,4,1,"6,11,11,11,12|11,6,8,1,10",,GRAND_SLAM,MS,52,Qualification,ACHANTA Sharath (IND),KUCHUK Aleksandr (BLR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,ACHANTA Sharath,BUROV Viacheslav,4,3,"14,8,10,11,9,11,11|12,11,12,9,11,9,9",,GRAND_SLAM,MS,52,Qualification,ACHANTA Sharath (IND),BUROV Viacheslav (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,CHEN Chien-An,NOROOZI Afshin,4,1,"12,11,8,11,15|10,7,11,9,13",,GRAND_SLAM,MS,52,Qualification,CHEN Chien-An (TPE),NOROOZI Afshin (IRI)
-Pro Tour Qatar Open Doha 2010,2010-02-17,FEJER-KONNERTH Zoltan,NOROOZI Afshin,4,3,"8,12,11,5,11,9,11|11,10,8,11,9,11,5",,GRAND_SLAM,MS,52,Qualification,FEJER-KONNERTH Zoltan (GER),NOROOZI Afshin (IRI)
-Pro Tour Qatar Open Doha 2010,2010-02-17,FEJER-KONNERTH Zoltan,CHEN Chien-An,4,1,"12,11,11,15,11|14,9,8,13,5",,GRAND_SLAM,MS,52,Qualification,FEJER-KONNERTH Zoltan (GER),CHEN Chien-An (TPE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SHIBAEV Alexander,NADIM Ahmed,4,0,"11,11,11,11|6,6,7,6",,GRAND_SLAM,MS,52,Qualification,SHIBAEV Alexander (RUS),NADIM Ahmed (EGY)
-Pro Tour Qatar Open Doha 2010,2010-02-17,BOBOCICA Mihai,NADIM Ahmed,4,1,"11,13,11,7,11|8,11,8,11,8",,GRAND_SLAM,MS,52,Qualification,BOBOCICA Mihai (ITA),NADIM Ahmed (EGY)
-Pro Tour Qatar Open Doha 2010,2010-02-17,BOBOCICA Mihai,SHIBAEV Alexander,4,1,"11,8,11,11,11|8,11,9,5,5",,GRAND_SLAM,MS,52,Qualification,BOBOCICA Mihai (ITA),SHIBAEV Alexander (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,BRATCHENKO Sergei,GOLOVANOV Stanislav,4,2,"9,11,11,12,11,11|11,13,8,10,8,7",,GRAND_SLAM,MS,52,Qualification,BRATCHENKO Sergei (RUS),GOLOVANOV Stanislav (BUL)
-Pro Tour Qatar Open Doha 2010,2010-02-17,TORIOLA Segun,BRATCHENKO Sergei,4,0,"11,11,11,11|9,4,8,7",,GRAND_SLAM,MS,52,Qualification,TORIOLA Segun (NGR),BRATCHENKO Sergei (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,GOLOVANOV Stanislav,TORIOLA Segun,4,3,"7,5,11,10,11,11,11|11,11,8,12,5,7,9",,GRAND_SLAM,MS,52,Qualification,GOLOVANOV Stanislav (BUL),TORIOLA Segun (NGR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,MENGEL Steffen,ELBEIALI Mohamed,4,2,"11,7,11,11,9,11|5,11,6,7,11,6",,GRAND_SLAM,MS,52,Qualification,MENGEL Steffen (GER),ELBEIALI Mohamed (EGY)
-Pro Tour Qatar Open Doha 2010,2010-02-17,JAKAB Janos,ELBEIALI Mohamed,4,0,"11,12,11,11|6,10,5,2",,GRAND_SLAM,MS,52,Qualification,JAKAB Janos (HUN),ELBEIALI Mohamed (EGY)
-Pro Tour Qatar Open Doha 2010,2010-02-17,JAKAB Janos,MENGEL Steffen,4,1,"11,11,9,11,11|5,9,11,4,5",,GRAND_SLAM,MS,52,Qualification,JAKAB Janos (HUN),MENGEL Steffen (GER)
-Pro Tour Qatar Open Doha 2010,2010-02-17,JEOUNG Youngsik,FLORITZ Philipp,4,1,"6,11,11,11,13|11,4,8,7,11",,GRAND_SLAM,MS,52,Qualification,JEOUNG Youngsik (KOR),FLORITZ Philipp (BUL)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KOSOWSKI Jakub,FLORITZ Philipp,4,1,"9,11,11,11,11|11,7,9,6,8",,GRAND_SLAM,MS,52,Qualification,KOSOWSKI Jakub (POL),FLORITZ Philipp (BUL)
-Pro Tour Qatar Open Doha 2010,2010-02-17,JEOUNG Youngsik,KOSOWSKI Jakub,4,1,"11,6,11,11,11|9,11,4,5,7",,GRAND_SLAM,MS,52,Qualification,JEOUNG Youngsik (KOR),KOSOWSKI Jakub (POL)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KASAHARA Hiromitsu,KIM Donghyun,4,0,"11,11,11,11|6,5,5,7",,GRAND_SLAM,MS,52,Qualification,KASAHARA Hiromitsu (JPN),KIM Donghyun (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KIM Donghyun,TOSIC Roko,4,1,"11,11,11,6,11|7,7,5,11,8",,GRAND_SLAM,MS,52,Qualification,KIM Donghyun (KOR),TOSIC Roko (CRO)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KASAHARA Hiromitsu,TOSIC Roko,4,0,,,GRAND_SLAM,MS,52,Qualification,KASAHARA Hiromitsu (JPN),TOSIC Roko (CRO)
-Pro Tour Qatar Open Doha 2010,2010-02-17,GHOSH Soumyajit,FEGERL Stefan,4,0,"12,11,11,11|10,8,9,4",,GRAND_SLAM,MS,52,Qualification,GHOSH Soumyajit (IND),FEGERL Stefan (AUT)
-Pro Tour Qatar Open Doha 2010,2010-02-17,MATTENET Adrien,GHOSH Soumyajit,4,0,"11,11,11,11|6,9,3,5",,GRAND_SLAM,MS,52,Qualification,MATTENET Adrien (FRA),GHOSH Soumyajit (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,MATTENET Adrien,FEGERL Stefan,4,2,"5,11,7,11,11,11|11,9,11,9,8,4",,GRAND_SLAM,MS,52,Qualification,MATTENET Adrien (FRA),FEGERL Stefan (AUT)
-Pro Tour Qatar Open Doha 2010,2010-02-17,LAKEEV Vasily,KUMAR Jubin,4,1,"6,11,11,11,11|11,3,2,6,3",,GRAND_SLAM,MS,52,Qualification,LAKEEV Vasily (RUS),KUMAR Jubin (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,CHTCHETININE Evgueni,KUMAR Jubin,4,0,"11,11,11,11|5,3,9,6",,GRAND_SLAM,MS,52,Qualification,CHTCHETININE Evgueni (BLR),KUMAR Jubin (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,LAKEEV Vasily,CHTCHETININE Evgueni,4,2,"13,9,12,8,11,11|11,11,10,11,7,8",,GRAND_SLAM,MS,52,Qualification,LAKEEV Vasily (RUS),CHTCHETININE Evgueni (BLR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,LIU Zhongze,CHANG Shun-Hung,4,0,"11,11,11,11|4,5,5,5",,GRAND_SLAM,MS,52,Qualification,LIU Zhongze (SGP),CHANG Shun-Hung (TPE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,FREITAS Marcos,CHANG Shun-Hung,4,1,"11,11,9,11,11|5,8,11,9,7",,GRAND_SLAM,MS,52,Qualification,FREITAS Marcos (POR),CHANG Shun-Hung (TPE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,FREITAS Marcos,LIU Zhongze,4,2,"3,11,11,11,5,12|11,8,6,3,11,10",,GRAND_SLAM,MS,52,Qualification,FREITAS Marcos (POR),LIU Zhongze (SGP)
-Pro Tour Qatar Open Doha 2010,2010-02-17,VLASOV Grigory,PANG Xue Jie,4,2,"8,11,9,11,11,11|11,5,11,8,6,9",,GRAND_SLAM,MS,52,Qualification,VLASOV Grigory (RUS),PANG Xue Jie (SGP)
-Pro Tour Qatar Open Doha 2010,2010-02-17,HIELSCHER Lars,PANG Xue Jie,4,0,"11,11,11,11|3,8,9,6",,GRAND_SLAM,MS,52,Qualification,HIELSCHER Lars (GER),PANG Xue Jie (SGP)
-Pro Tour Qatar Open Doha 2010,2010-02-17,VLASOV Grigory,HIELSCHER Lars,4,3,"11,7,14,11,6,11,11|9,11,16,8,11,5,6",,GRAND_SLAM,MS,52,Qualification,VLASOV Grigory (RUS),HIELSCHER Lars (GER)
-Pro Tour Qatar Open Doha 2010,2010-02-17,FENG Xiaoquan,SHETTY Sanil,4,0,,,GRAND_SLAM,MS,52,Qualification,FENG Xiaoquan (AUT),SHETTY Sanil (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,TUGWELL Finn,SHETTY Sanil,4,0,"11,11,11,11|6,5,4,3",,GRAND_SLAM,MS,52,Qualification,TUGWELL Finn (DEN),SHETTY Sanil (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,TUGWELL Finn,FENG Xiaoquan,4,2,"11,11,10,6,11,13|8,8,12,11,7,11",,GRAND_SLAM,MS,52,Qualification,TUGWELL Finn (DEN),FENG Xiaoquan (AUT)
-Pro Tour Qatar Open Doha 2010,2010-02-17,NIWA Koki,ELSOBKY Mohamed,4,1,"11,14,11,7,11|4,12,6,11,5",,GRAND_SLAM,MS,52,Qualification,NIWA Koki (JPN),ELSOBKY Mohamed (EGY)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SKACHKOV Kirill,ELSOBKY Mohamed,4,1,"11,11,12,9,11|5,4,10,11,4",,GRAND_SLAM,MS,52,Qualification,SKACHKOV Kirill (RUS),ELSOBKY Mohamed (EGY)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SKACHKOV Kirill,NIWA Koki,4,2,"11,5,11,9,11,11|6,11,7,11,9,6",,GRAND_SLAM,MS,52,Qualification,SKACHKOV Kirill (RUS),NIWA Koki (JPN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,ZHMUDENKO Yaroslav,MERZLIKIN Taras,4,2,"11,11,11,7,9,13|6,8,6,11,11,11",,GRAND_SLAM,MS,52,Qualification,ZHMUDENKO Yaroslav (UKR),MERZLIKIN Taras (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,PROKOPCOV Dmitrij,MERZLIKIN Taras,4,2,"13,9,11,9,11,11|11,11,2,11,8,3",,GRAND_SLAM,MS,52,Qualification,PROKOPCOV Dmitrij (CZE),MERZLIKIN Taras (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,PROKOPCOV Dmitrij,ZHMUDENKO Yaroslav,4,2,"11,11,8,11,6,11|8,7,11,9,11,5",,GRAND_SLAM,MS,52,Qualification,PROKOPCOV Dmitrij (CZE),ZHMUDENKO Yaroslav (UKR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,GAVLAS Antonin,ALHAJJAI Waled Nasser,4,0,"11,11,11,11|7,6,5,3",,GRAND_SLAM,MS,52,Qualification,GAVLAS Antonin (CZE),ALHAJJAI Waled Nasser (QAT)
-Pro Tour Qatar Open Doha 2010,2010-02-17,FILIMON Andrei,ALHAJJAI Waled Nasser,4,0,"11,11,11,11|4,3,6,7",,GRAND_SLAM,MS,52,Qualification,FILIMON Andrei (ROU),ALHAJJAI Waled Nasser (QAT)
-Pro Tour Qatar Open Doha 2010,2010-02-17,GAVLAS Antonin,FILIMON Andrei,4,0,,,GRAND_SLAM,MS,52,Qualification,GAVLAS Antonin (CZE),FILIMON Andrei (ROU)
-Pro Tour Qatar Open Doha 2010,2010-02-17,CHAN Kazuhiro,BALGU Aman,4,0,"11,11,11,11|6,3,6,6",,GRAND_SLAM,MS,52,Qualification,CHAN Kazuhiro (JPN),BALGU Aman (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SHMYREV Maxim,BALGU Aman,4,0,"11,11,11,16|3,8,6,14",,GRAND_SLAM,MS,52,Qualification,SHMYREV Maxim (RUS),BALGU Aman (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,CHAN Kazuhiro,SHMYREV Maxim,4,0,"11,11,11,11|6,7,7,3",,GRAND_SLAM,MS,52,Qualification,CHAN Kazuhiro (JPN),SHMYREV Maxim (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KONECNY Tomas,DESAI Harmeet,4,0,"11,12,11,11|5,10,9,2",,GRAND_SLAM,MS,52,Qualification,KONECNY Tomas (CZE),DESAI Harmeet (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,LEBESSON Emmanuel,DESAI Harmeet,4,0,"11,11,14,11|6,8,12,8",,GRAND_SLAM,MS,52,Qualification,LEBESSON Emmanuel (FRA),DESAI Harmeet (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KONECNY Tomas,LEBESSON Emmanuel,4,2,"11,8,6,11,11,11|7,11,11,6,5,7",,GRAND_SLAM,MS,52,Qualification,KONECNY Tomas (CZE),LEBESSON Emmanuel (FRA)
-Pro Tour Qatar Open Doha 2010,2010-02-17,YOSHIDA Masaki,SALIFOU Abdel-Kader,4,2,"11,11,11,8,7,11|4,9,6,11,11,4",,GRAND_SLAM,MS,52,Qualification,YOSHIDA Masaki (JPN),SALIFOU Abdel-Kader (BEN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,YOSHIDA Masaki,VANG Bora,4,1,"11,7,12,11,11|3,11,10,5,9",,GRAND_SLAM,MS,52,Qualification,YOSHIDA Masaki (JPN),VANG Bora (TUR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,VANG Bora,SALIFOU Abdel-Kader,4,0,,,GRAND_SLAM,MS,52,Qualification,VANG Bora (TUR),SALIFOU Abdel-Kader (BEN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,NEKHVEDOVICH Vitaly,AL-HASAN Salem,4,0,"11,11,11,11|8,4,3,8",,GRAND_SLAM,MS,52,Qualification,NEKHVEDOVICH Vitaly (BLR),AL-HASAN Salem (KUW)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SUCH Bartosz,AL-HASAN Salem,4,1,"11,11,11,11,11|9,7,13,2,8",,GRAND_SLAM,MS,52,Qualification,SUCH Bartosz (POL),AL-HASAN Salem (KUW)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SUCH Bartosz,NEKHVEDOVICH Vitaly,4,0,"11,11,11,11|8,9,6,9",,GRAND_SLAM,MS,52,Qualification,SUCH Bartosz (POL),NEKHVEDOVICH Vitaly (BLR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,HUANG Sheng-Sheng,ALAWLAQI Ahmed,4,1,"11,11,10,11,11|9,0,12,2,9",,GRAND_SLAM,MS,52,Qualification,HUANG Sheng-Sheng (TPE),ALAWLAQI Ahmed (QAT)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SVENSSON Robert,ALAWLAQI Ahmed,4,0,"11,11,11,11|6,8,6,9",,GRAND_SLAM,MS,52,Qualification,SVENSSON Robert (SWE),ALAWLAQI Ahmed (QAT)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SVENSSON Robert,HUANG Sheng-Sheng,4,2,"11,11,9,5,11,11|4,3,11,11,7,8",,GRAND_SLAM,MS,52,Qualification,SVENSSON Robert (SWE),HUANG Sheng-Sheng (TPE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KIM Minseok,FAHMY Moataz,4,0,"11,11,11,11|5,5,5,3",,GRAND_SLAM,MS,52,Qualification,KIM Minseok (KOR),FAHMY Moataz (EGY)
-Pro Tour Qatar Open Doha 2010,2010-02-17,DRINKHALL Paul,FAHMY Moataz,4,0,"11,11,11,11|5,2,5,3",,GRAND_SLAM,MS,52,Qualification,DRINKHALL Paul (ENG),FAHMY Moataz (EGY)
-Pro Tour Qatar Open Doha 2010,2010-02-17,DRINKHALL Paul,KIM Minseok,4,2,"11,7,6,11,11,11|4,11,11,7,3,9",,GRAND_SLAM,MS,52,Qualification,DRINKHALL Paul (ENG),KIM Minseok (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,LI Ahmet,MA Liang,4,1,"11,7,11,11,11|5,11,7,2,4",,GRAND_SLAM,MS,52,Qualification,LI Ahmet (TUR),MA Liang (SGP)
-Pro Tour Qatar Open Doha 2010,2010-02-17,MATSUDAIRA Kenji,LI Ahmet,4,2,"11,12,9,11,11,11|7,14,11,8,9,7",,GRAND_SLAM,MS,52,Qualification,MATSUDAIRA Kenji (JPN),LI Ahmet (TUR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,MATSUDAIRA Kenji,MA Liang,4,1,"11,9,11,11,11|5,11,7,7,6",,GRAND_SLAM,MS,52,Qualification,MATSUDAIRA Kenji (JPN),MA Liang (SGP)
-Pro Tour Qatar Open Doha 2010,2010-02-17,CHOU Tung-Yu,HABESOHN Daniel,4,3,"8,6,11,11,7,11,11|11,11,7,9,11,7,4",,GRAND_SLAM,MS,52,Qualification,CHOU Tung-Yu (TPE),HABESOHN Daniel (AUT)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SEO Hyundeok,CHOU Tung-Yu,4,0,"11,11,11,11|1,8,7,7",,GRAND_SLAM,MS,52,Qualification,SEO Hyundeok (KOR),CHOU Tung-Yu (TPE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SEO Hyundeok,HABESOHN Daniel,4,2,"10,11,11,11,6,11|12,6,8,9,11,7",,GRAND_SLAM,MS,52,Qualification,SEO Hyundeok (KOR),HABESOHN Daniel (AUT)
-Pro Tour Qatar Open Doha 2010,2010-02-17,LEE Sang Su,TAHERKHANI Hamidreza,4,1,"11,4,11,11,11|9,11,7,9,4",,GRAND_SLAM,MS,52,Qualification,LEE Sang Su (KOR),TAHERKHANI Hamidreza (IRI)
-Pro Tour Qatar Open Doha 2010,2010-02-17,FILUS Ruwen,TAHERKHANI Hamidreza,4,0,"11,11,11,11|6,5,8,7",,GRAND_SLAM,MS,52,Qualification,FILUS Ruwen (GER),TAHERKHANI Hamidreza (IRI)
-Pro Tour Qatar Open Doha 2010,2010-02-17,FILUS Ruwen,LEE Sang Su,4,3,"10,5,11,11,11,7,11|12,11,7,9,9,11,9",,GRAND_SLAM,MS,52,Qualification,FILUS Ruwen (GER),LEE Sang Su (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,LIVENTSOV Alexey,CHERAGHIANI Amir,4,0,"11,11,11,11|8,5,4,7",,GRAND_SLAM,MS,52,Qualification,LIVENTSOV Alexey (RUS),CHERAGHIANI Amir (IRI)
-Pro Tour Qatar Open Doha 2010,2010-02-17,LASHIN Elsayed,MORICZ Mate,4,0,"11,11,11,11|5,8,8,7",,GRAND_SLAM,MS,52,Qualification,LASHIN Elsayed (EGY),MORICZ Mate (HUN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,LIVENTSOV Alexey,MORICZ Mate,4,0,"12,11,11,11|10,9,5,4",,GRAND_SLAM,MS,52,Qualification,LIVENTSOV Alexey (RUS),MORICZ Mate (HUN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,LASHIN Elsayed,CHERAGHIANI Amir,4,0,"11,11,11,11|5,5,8,7",,GRAND_SLAM,MS,52,Qualification,LASHIN Elsayed (EGY),CHERAGHIANI Amir (IRI)
-Pro Tour Qatar Open Doha 2010,2010-02-17,LIVENTSOV Alexey,LASHIN Elsayed,4,1,"12,11,11,8,12|10,6,6,11,10",,GRAND_SLAM,MS,52,Qualification,LIVENTSOV Alexey (RUS),LASHIN Elsayed (EGY)
-Pro Tour Qatar Open Doha 2010,2010-02-17,CHERAGHIANI Amir,MORICZ Mate,4,3,"11,9,8,11,6,14,13|7,11,11,8,11,12,11",,GRAND_SLAM,MS,52,Qualification,CHERAGHIANI Amir (IRI),MORICZ Mate (HUN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,YOSHIDA Masaki,AL-HASAN Salem,3,0,"11,11,11|5,7,8",,GRAND_SLAM,U21MS,52,Qualification,YOSHIDA Masaki (JPN),AL-HASAN Salem (KUW)
-Pro Tour Qatar Open Doha 2010,2010-02-17,STERNBERG Kasper,AL-HASAN Salem,3,0,"11,13,11|9,11,5",,GRAND_SLAM,U21MS,52,Qualification,STERNBERG Kasper (DEN),AL-HASAN Salem (KUW)
-Pro Tour Qatar Open Doha 2010,2010-02-17,STERNBERG Kasper,YOSHIDA Masaki,3,1,"11,8,11,11|5,11,7,5",,GRAND_SLAM,U21MS,52,Qualification,STERNBERG Kasper (DEN),YOSHIDA Masaki (JPN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,DESAI Harmeet,ALAWLAQI Ahmed,3,1,"7,12,11,11|11,10,6,6",,GRAND_SLAM,U21MS,52,Qualification,DESAI Harmeet (IND),ALAWLAQI Ahmed (QAT)
-Pro Tour Qatar Open Doha 2010,2010-02-17,ALAMIYAN Noshad,ALAWLAQI Ahmed,3,0,"11,11,12|6,2,10",,GRAND_SLAM,U21MS,52,Qualification,ALAMIYAN Noshad (IRI),ALAWLAQI Ahmed (QAT)
-Pro Tour Qatar Open Doha 2010,2010-02-17,ALAMIYAN Noshad,DESAI Harmeet,3,1,"10,11,14,12|12,5,12,10",,GRAND_SLAM,U21MS,52,Qualification,ALAMIYAN Noshad (IRI),DESAI Harmeet (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,LI Ahmet,BALGU Aman,3,0,"11,11,11|6,5,7",,GRAND_SLAM,U21MS,52,Qualification,LI Ahmet (TUR),BALGU Aman (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,LI Ahmet,ASSAR Omar,3,0,"11,11,11|5,7,9",,GRAND_SLAM,U21MS,52,Qualification,LI Ahmet (TUR),ASSAR Omar (EGY)
-Pro Tour Qatar Open Doha 2010,2010-02-17,ASSAR Omar,BALGU Aman,3,0,"11,11,11|5,7,5",,GRAND_SLAM,U21MS,52,Qualification,ASSAR Omar (EGY),BALGU Aman (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,ELSOBKY Mohamed,CHERAGHIANI Amir,3,1,"9,11,11,12|11,8,6,10",,GRAND_SLAM,U21MS,52,Qualification,ELSOBKY Mohamed (EGY),CHERAGHIANI Amir (IRI)
-Pro Tour Qatar Open Doha 2010,2010-02-17,FLORITZ Philipp,CHERAGHIANI Amir,3,1,"11,11,7,11|6,7,11,5",,GRAND_SLAM,U21MS,52,Qualification,FLORITZ Philipp (BUL),CHERAGHIANI Amir (IRI)
-Pro Tour Qatar Open Doha 2010,2010-02-17,ELSOBKY Mohamed,FLORITZ Philipp,3,2,"12,11,5,11,11|10,9,11,13,9",,GRAND_SLAM,U21MS,52,Qualification,ELSOBKY Mohamed (EGY),FLORITZ Philipp (BUL)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SHETTY Sanil,FAHMY Moataz,3,0,"11,11,11|6,5,5",,GRAND_SLAM,U21MS,52,Qualification,SHETTY Sanil (IND),FAHMY Moataz (EGY)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KIM Donghyun,FAHMY Moataz,3,0,"11,11,13|4,3,11",,GRAND_SLAM,U21MS,52,Qualification,KIM Donghyun (KOR),FAHMY Moataz (EGY)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KIM Donghyun,SHETTY Sanil,3,2,"11,6,11,5,11|3,11,9,11,4",,GRAND_SLAM,U21MS,52,Qualification,KIM Donghyun (KOR),SHETTY Sanil (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,MERZLIKIN Taras,MORICZ Mate,3,2,"12,11,6,11,13|14,4,11,3,11",,GRAND_SLAM,U21MS,52,Qualification,MERZLIKIN Taras (RUS),MORICZ Mate (HUN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,MORICZ Mate,GHOSH Soumyajit,3,2,"9,7,11,11,11|11,11,7,6,6",,GRAND_SLAM,U21MS,52,Qualification,MORICZ Mate (HUN),GHOSH Soumyajit (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,MERZLIKIN Taras,GHOSH Soumyajit,3,0,"11,11,11|3,7,6",,GRAND_SLAM,U21MS,52,Qualification,MERZLIKIN Taras (RUS),GHOSH Soumyajit (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,PANG Xue Jie,TAHERKHANI Hamidreza,3,1,"11,6,11,11|9,11,8,6",,GRAND_SLAM,U21MS,52,Qualification,PANG Xue Jie (SGP),TAHERKHANI Hamidreza (IRI)
-Pro Tour Qatar Open Doha 2010,2010-02-17,CHANG Shun-Hung,TAHERKHANI Hamidreza,3,1,"11,11,6,12|8,8,11,10",,GRAND_SLAM,U21MS,52,Qualification,CHANG Shun-Hung (TPE),TAHERKHANI Hamidreza (IRI)
-Pro Tour Qatar Open Doha 2010,2010-02-17,CHANG Shun-Hung,PANG Xue Jie,3,2,"11,10,11,9,11|7,12,9,11,4",,GRAND_SLAM,U21MS,52,Qualification,CHANG Shun-Hung (TPE),PANG Xue Jie (SGP)
-Pro Tour Qatar Open Doha 2010,2010-02-17,LIU Shiwen,PATKAR Madhurika,4,2,"11,9,9,11,11,11|3,11,11,4,4,9",R64,GRAND_SLAM,WS,52,Main Draw,LIU Shiwen (CHN),PATKAR Madhurika (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,ISHIKAWA Kasumi,NOSKOVA Yana,4,0,"14,11,11,11|12,9,7,3",R64,GRAND_SLAM,WS,52,Main Draw,ISHIKAWA Kasumi (JPN),NOSKOVA Yana (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,MORIZONO Misaki,PAVLOVICH Viktoria,4,0,"11,11,11,11|9,7,6,6",R64,GRAND_SLAM,WS,52,Main Draw,MORIZONO Misaki (JPN),PAVLOVICH Viktoria (BLR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,LIU Jia,MIKHAILOVA Polina,4,3,"4,6,6,11,13,11,11|11,11,11,6,11,7,8",R64,GRAND_SLAM,WS,52,Main Draw,LIU Jia (AUT),MIKHAILOVA Polina (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,CAO Zhen,WAKAMIYA Misako,4,1,"4,12,11,11,11|11,10,6,7,4",R64,GRAND_SLAM,WS,52,Main Draw,CAO Zhen (CHN),WAKAMIYA Misako (JPN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,HIRANO Sayaka,SOLJA Petrissa,4,0,"11,12,11,11|5,10,2,7",R64,GRAND_SLAM,WS,52,Main Draw,HIRANO Sayaka (JPN),SOLJA Petrissa (GER)
-Pro Tour Qatar Open Doha 2010,2010-02-17,ISHIGAKI Yuka,CHOI Moonyoung,4,0,"11,11,11,11|4,5,3,9",R64,GRAND_SLAM,WS,52,Main Draw,ISHIGAKI Yuka (JPN),CHOI Moonyoung (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,DING Ning,CECHOVA Dana,4,0,"11,11,11,11|6,6,5,5",R64,GRAND_SLAM,WS,52,Main Draw,DING Ning (CHN),CECHOVA Dana (CZE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KIM Kyungah,HSIUNG Nai-I,4,0,"11,11,11,11|5,7,7,4",R64,GRAND_SLAM,WS,52,Main Draw,KIM Kyungah (KOR),HSIUNG Nai-I (TPE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,HUANG Yi-Hua,FADEEVA Oxana,4,2,"11,11,7,9,11,11|7,6,11,11,8,9",R64,GRAND_SLAM,WS,52,Main Draw,HUANG Yi-Hua (TPE),FADEEVA Oxana (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SKOV Mie,LI Qiangbing,4,1,"11,11,10,12,11|9,9,12,10,9",R64,GRAND_SLAM,WS,52,Main Draw,SKOV Mie (DEN),LI Qiangbing (AUT)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SUN Beibei,KOLTSOVA Anastasia,4,0,"13,11,11,11|11,8,7,9",R64,GRAND_SLAM,WS,52,Main Draw,SUN Beibei (SGP),KOLTSOVA Anastasia (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,TIE Yana,BILENKO Tetyana,4,1,"12,12,11,9,11|10,10,6,11,8",R64,GRAND_SLAM,WS,52,Main Draw,TIE Yana (HKG),BILENKO Tetyana (UKR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,DODEAN Daniela,WINTER Sabine,4,0,"11,12,11,11|7,10,3,5",R64,GRAND_SLAM,WS,52,Main Draw,DODEAN Daniela (ROU),WINTER Sabine (GER)
-Pro Tour Qatar Open Doha 2010,2010-02-17,YU Mengyu,XU Jie (1982),4,2,"6,11,15,11,11,11|11,7,17,8,4,6",R64,GRAND_SLAM,WS,52,Main Draw,YU Mengyu (SGP),XU Jie (1982) (POL)
-Pro Tour Qatar Open Doha 2010,2010-02-17,FENG Tianwei,GHATAK Poulomi,4,1,"12,11,11,11,11|10,13,8,9,7",R64,GRAND_SLAM,WS,52,Main Draw,FENG Tianwei (SGP),GHATAK Poulomi (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,GUO Yan (1982),MOON Hyunjung,4,1,"11,9,11,12,11|7,11,8,10,5",R64,GRAND_SLAM,WS,52,Main Draw,GUO Yan (1982) (CHN),MOON Hyunjung (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,HU Melek,PARK Youngsook,4,1,"11,8,12,11,11|8,11,10,5,9",R64,GRAND_SLAM,WS,52,Main Draw,HU Melek (TUR),PARK Youngsook (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,FUKUHARA Ai,LEE I-Chen,4,0,"11,11,11,11|5,7,5,6",R64,GRAND_SLAM,WS,52,Main Draw,FUKUHARA Ai (JPN),LEE I-Chen (TPE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,LI Jiao,TIKHOMIROVA Anna,4,0,"11,11,11,11|7,8,6,4",R64,GRAND_SLAM,WS,52,Main Draw,LI Jiao (NED),TIKHOMIROVA Anna (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,LEE Eunhee,IVANCAN Irene,4,0,"11,11,11,11|6,5,8,8",R64,GRAND_SLAM,WS,52,Main Draw,LEE Eunhee (KOR),IVANCAN Irene (GER)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SCHALL Elke,FUJII Hiroko,4,2,"14,11,3,8,11,11|12,6,11,11,9,6",R64,GRAND_SLAM,WS,52,Main Draw,SCHALL Elke (GER),FUJII Hiroko (JPN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,JIANG Huajun,DAS Mouma,4,3,"7,11,13,10,11,13,11|11,6,15,12,5,11,3",R64,GRAND_SLAM,WS,52,Main Draw,JIANG Huajun (HKG),DAS Mouma (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,PARK Miyoung,STESHENKO Tatyana,4,0,"11,11,11,11|9,2,4,4",R64,GRAND_SLAM,WS,52,Main Draw,PARK Miyoung (KOR),STESHENKO Tatyana (ITA)
-Pro Tour Qatar Open Doha 2010,2010-02-17,YANG Ha Eun,BOROS Tamara,4,1,"11,13,3,11,12|7,11,11,5,10",R64,GRAND_SLAM,WS,52,Main Draw,YANG Ha Eun (KOR),BOROS Tamara (CRO)
-Pro Tour Qatar Open Doha 2010,2010-02-17,YAO Yan,KANG Misoon,4,0,"13,11,11,11|11,9,6,8",R64,GRAND_SLAM,WS,52,Main Draw,YAO Yan (CHN),KANG Misoon (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,WANG Yuegu,PAVLOVICH Veronika,4,1,"11,11,7,11,12|6,4,11,4,10",R64,GRAND_SLAM,WS,52,Main Draw,WANG Yuegu (SGP),PAVLOVICH Veronika (BLR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,DANG Yeseo,LI Xue,4,0,"14,11,11,11|12,5,8,8",R64,GRAND_SLAM,WS,52,Main Draw,DANG Yeseo (KOR),LI Xue (FRA)
-Pro Tour Qatar Open Doha 2010,2010-02-17,PARK Seonghye,STEFANOVA Nikoleta,4,2,"11,7,11,11,7,11|7,11,4,8,11,6",R64,GRAND_SLAM,WS,52,Main Draw,PARK Seonghye (KOR),STEFANOVA Nikoleta (ITA)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SEOK Hajung,CHENG I-Ching,4,1,"11,11,11,9,11|8,6,9,11,5",R64,GRAND_SLAM,WS,52,Main Draw,SEOK Hajung (KOR),CHENG I-Ching (TPE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,GUO Yue,HE Sirin,4,1,"14,9,11,11,11|12,11,5,9,6",R64,GRAND_SLAM,WS,52,Main Draw,GUO Yue (CHN),HE Sirin (TUR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,LIU Shiwen,ISHIKAWA Kasumi,4,1,"13,11,11,9,11|11,3,3,11,5",R32,GRAND_SLAM,WS,52,Main Draw,LIU Shiwen (CHN),ISHIKAWA Kasumi (JPN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,LIU Jia,MORIZONO Misaki,4,1,"17,11,4,11,11|15,4,11,2,9",R32,GRAND_SLAM,WS,52,Main Draw,LIU Jia (AUT),MORIZONO Misaki (JPN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,CAO Zhen,HIRANO Sayaka,4,0,"11,11,11,11|2,7,6,6",R32,GRAND_SLAM,WS,52,Main Draw,CAO Zhen (CHN),HIRANO Sayaka (JPN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,DING Ning,ISHIGAKI Yuka,4,0,"11,11,11,11|2,9,8,7",R32,GRAND_SLAM,WS,52,Main Draw,DING Ning (CHN),ISHIGAKI Yuka (JPN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KIM Kyungah,HUANG Yi-Hua,4,1,"11,11,9,11,11|5,6,11,6,6",R32,GRAND_SLAM,WS,52,Main Draw,KIM Kyungah (KOR),HUANG Yi-Hua (TPE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SUN Beibei,SKOV Mie,4,1,"12,9,11,11,12|10,11,8,9,10",R32,GRAND_SLAM,WS,52,Main Draw,SUN Beibei (SGP),SKOV Mie (DEN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,DODEAN Daniela,TIE Yana,4,3,"15,11,11,4,11,9,13|17,8,9,11,8,11,11",R32,GRAND_SLAM,WS,52,Main Draw,DODEAN Daniela (ROU),TIE Yana (HKG)
-Pro Tour Qatar Open Doha 2010,2010-02-17,FENG Tianwei,YU Mengyu,4,1,"11,9,11,11,11|7,11,6,3,2",R32,GRAND_SLAM,WS,52,Main Draw,FENG Tianwei (SGP),YU Mengyu (SGP)
-Pro Tour Qatar Open Doha 2010,2010-02-17,GUO Yan (1982),KIM Junghyun,4,1,"11,11,13,9,11|9,1,11,11,3",R32,GRAND_SLAM,WS,52,Main Draw,GUO Yan (1982) (CHN),KIM Junghyun (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,FUKUHARA Ai,HU Melek,4,1,"11,11,11,9,12|9,9,5,11,10",R32,GRAND_SLAM,WS,52,Main Draw,FUKUHARA Ai (JPN),HU Melek (TUR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,LEE Eunhee,LI Jiao,4,0,"15,13,11,11|13,11,5,4",R32,GRAND_SLAM,WS,52,Main Draw,LEE Eunhee (KOR),LI Jiao (NED)
-Pro Tour Qatar Open Doha 2010,2010-02-17,JIANG Huajun,SCHALL Elke,4,1,"11,13,11,9,11|2,11,9,11,4",R32,GRAND_SLAM,WS,52,Main Draw,JIANG Huajun (HKG),SCHALL Elke (GER)
-Pro Tour Qatar Open Doha 2010,2010-02-17,PARK Miyoung,YANG Ha Eun,4,0,"11,11,11,11|6,8,8,6",R32,GRAND_SLAM,WS,52,Main Draw,PARK Miyoung (KOR),YANG Ha Eun (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,YAO Yan,WANG Yuegu,4,2,"12,11,8,11,2,11|10,8,11,8,11,6",R32,GRAND_SLAM,WS,52,Main Draw,YAO Yan (CHN),WANG Yuegu (SGP)
-Pro Tour Qatar Open Doha 2010,2010-02-17,DANG Yeseo,PARK Seonghye,4,0,"11,11,11,11|8,6,6,6",R32,GRAND_SLAM,WS,52,Main Draw,DANG Yeseo (KOR),PARK Seonghye (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,GUO Yue,SEOK Hajung,4,2,"11,11,11,7,8,11|5,5,7,11,11,7",R32,GRAND_SLAM,WS,52,Main Draw,GUO Yue (CHN),SEOK Hajung (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,LIU Shiwen,LIU Jia,4,0,"13,11,12,11|11,6,10,6",R16,GRAND_SLAM,WS,52,Main Draw,LIU Shiwen (CHN),LIU Jia (AUT)
-Pro Tour Qatar Open Doha 2010,2010-02-17,DING Ning,CAO Zhen,4,3,"11,8,16,14,6,5,11|5,11,14,12,11,11,4",R16,GRAND_SLAM,WS,52,Main Draw,DING Ning (CHN),CAO Zhen (CHN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KIM Kyungah,SUN Beibei,4,2,"11,10,11,10,11,12|8,12,6,12,8,10",R16,GRAND_SLAM,WS,52,Main Draw,KIM Kyungah (KOR),SUN Beibei (SGP)
-Pro Tour Qatar Open Doha 2010,2010-02-17,DODEAN Daniela,FENG Tianwei,4,3,"11,8,11,11,9,6,11|7,11,6,8,11,11,4",R16,GRAND_SLAM,WS,52,Main Draw,DODEAN Daniela (ROU),FENG Tianwei (SGP)
-Pro Tour Qatar Open Doha 2010,2010-02-17,GUO Yan (1982),FUKUHARA Ai,4,2,"13,8,6,11,13,11|11,11,11,8,11,8",R16,GRAND_SLAM,WS,52,Main Draw,GUO Yan (1982) (CHN),FUKUHARA Ai (JPN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,JIANG Huajun,LEE Eunhee,4,2,"11,8,11,9,12,11|9,11,5,11,10,5",R16,GRAND_SLAM,WS,52,Main Draw,JIANG Huajun (HKG),LEE Eunhee (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,YAO Yan,PARK Miyoung,4,1,"11,11,8,11,14|8,8,11,8,12",R16,GRAND_SLAM,WS,52,Main Draw,YAO Yan (CHN),PARK Miyoung (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,GUO Yue,DANG Yeseo,4,1,"11,11,6,11,11|1,3,11,4,8",R16,GRAND_SLAM,WS,52,Main Draw,GUO Yue (CHN),DANG Yeseo (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,LIU Shiwen,DING Ning,4,3,"11,7,11,2,11,9,11|6,11,3,11,8,11,7",QF,GRAND_SLAM,WS,52,Main Draw,LIU Shiwen (CHN),DING Ning (CHN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,DODEAN Daniela,KIM Kyungah,4,1,"11,11,11,6,11|9,8,7,11,4",QF,GRAND_SLAM,WS,52,Main Draw,DODEAN Daniela (ROU),KIM Kyungah (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,GUO Yan (1982),JIANG Huajun,4,0,"11,11,11,11|8,5,6,7",QF,GRAND_SLAM,WS,52,Main Draw,GUO Yan (1982) (CHN),JIANG Huajun (HKG)
-Pro Tour Qatar Open Doha 2010,2010-02-17,GUO Yue,YAO Yan,4,2,"11,11,8,11,8,11|5,6,11,1,11,6",QF,GRAND_SLAM,WS,52,Main Draw,GUO Yue (CHN),YAO Yan (CHN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,LIU Shiwen,DODEAN Daniela,4,0,"11,11,11,11|9,7,7,7",SF,GRAND_SLAM,WS,52,Main Draw,LIU Shiwen (CHN),DODEAN Daniela (ROU)
-Pro Tour Qatar Open Doha 2010,2010-02-17,GUO Yue,GUO Yan (1982),4,3,"2,6,11,11,11,6,11|11,11,7,3,7,11,3",SF,GRAND_SLAM,WS,52,Main Draw,GUO Yue (CHN),GUO Yan (1982) (CHN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,GUO Yue,LIU Shiwen,4,3,"15,5,11,9,11,11,11|13,11,7,11,13,9,7",F,GRAND_SLAM,WS,52,Main Draw,GUO Yue (CHN),LIU Shiwen (CHN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,YU Mengyu,DESSAINT Aurore,4,0,"11,11,13,11|9,9,11,6",R16,GRAND_SLAM,U21WS,52,Main Draw,YU Mengyu (SGP),DESSAINT Aurore (FRA)
-Pro Tour Qatar Open Doha 2010,2010-02-17,NOSKOVA Yana,HE Sirin,4,1,"11,6,11,11,11|8,11,6,8,9",R16,GRAND_SLAM,U21WS,52,Main Draw,NOSKOVA Yana (RUS),HE Sirin (TUR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,PARTYKA Natalia,SOLJA Petrissa,4,3,"11,7,7,11,8,11,11|4,11,11,8,11,8,3",R16,GRAND_SLAM,U21WS,52,Main Draw,PARTYKA Natalia (POL),SOLJA Petrissa (GER)
-Pro Tour Qatar Open Doha 2010,2010-02-17,CHENG I-Ching,WINTER Sabine,4,1,"11,11,11,11,11|13,5,8,7,6",R16,GRAND_SLAM,U21WS,52,Main Draw,CHENG I-Ching (TPE),WINTER Sabine (GER)
-Pro Tour Qatar Open Doha 2010,2010-02-17,HU Melek,YANG Ha Eun,4,0,"11,11,11,11|5,7,5,5",R16,GRAND_SLAM,U21WS,52,Main Draw,HU Melek (TUR),YANG Ha Eun (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KANG Misoon,MORIZONO Misaki,4,2,"8,11,11,14,9,12|11,8,7,12,11,10",R16,GRAND_SLAM,U21WS,52,Main Draw,KANG Misoon (KOR),MORIZONO Misaki (JPN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,WAKAMIYA Misako,HSIUNG Nai-I,4,2,"14,11,12,12,9,11|16,5,10,10,11,7",R16,GRAND_SLAM,U21WS,52,Main Draw,WAKAMIYA Misako (JPN),HSIUNG Nai-I (TPE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,ISHIKAWA Kasumi,SIM Kai Xin Zena,4,0,"11,11,11,11|7,6,2,7",R16,GRAND_SLAM,U21WS,52,Main Draw,ISHIKAWA Kasumi (JPN),SIM Kai Xin Zena (SGP)
-Pro Tour Qatar Open Doha 2010,2010-02-17,YU Mengyu,NOSKOVA Yana,4,0,"11,11,11,11|8,7,6,4",QF,GRAND_SLAM,U21WS,52,Main Draw,YU Mengyu (SGP),NOSKOVA Yana (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,CHENG I-Ching,PARTYKA Natalia,4,1,"11,11,11,7,11|4,7,8,11,8",QF,GRAND_SLAM,U21WS,52,Main Draw,CHENG I-Ching (TPE),PARTYKA Natalia (POL)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KANG Misoon,HU Melek,4,2,"6,9,11,11,11,11|11,11,6,2,8,9",QF,GRAND_SLAM,U21WS,52,Main Draw,KANG Misoon (KOR),HU Melek (TUR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,ISHIKAWA Kasumi,WAKAMIYA Misako,4,0,"11,11,11,11|7,7,6,6",QF,GRAND_SLAM,U21WS,52,Main Draw,ISHIKAWA Kasumi (JPN),WAKAMIYA Misako (JPN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,YU Mengyu,CHENG I-Ching,4,1,"11,11,7,11,11|8,9,11,6,5",SF,GRAND_SLAM,U21WS,52,Main Draw,YU Mengyu (SGP),CHENG I-Ching (TPE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,ISHIKAWA Kasumi,KANG Misoon,4,1,"8,11,11,11,11|11,9,9,4,6",SF,GRAND_SLAM,U21WS,52,Main Draw,ISHIKAWA Kasumi (JPN),KANG Misoon (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,ISHIKAWA Kasumi,YU Mengyu,4,3,"11,5,7,11,12,9,11|9,11,11,7,10,11,6",F,GRAND_SLAM,U21WS,52,Main Draw,ISHIKAWA Kasumi (JPN),YU Mengyu (SGP)
-Pro Tour Qatar Open Doha 2010,2010-02-17,PAVLOVICH Veronika,DESSAINT Aurore,4,2,"11,12,11,10,11,11|4,14,8,12,8,8",,GRAND_SLAM,WS,52,Qualification,PAVLOVICH Veronika (BLR),DESSAINT Aurore (FRA)
-Pro Tour Qatar Open Doha 2010,2010-02-17,WINTER Sabine,PAVLOVICH Veronika,4,2,"6,11,16,1,11,11|11,8,14,11,4,7",,GRAND_SLAM,WS,52,Qualification,WINTER Sabine (GER),PAVLOVICH Veronika (BLR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,WINTER Sabine,DESSAINT Aurore,4,3,"9,7,13,11,11,11,11|11,11,15,7,8,7,4",,GRAND_SLAM,WS,52,Qualification,WINTER Sabine (GER),DESSAINT Aurore (FRA)
-Pro Tour Qatar Open Doha 2010,2010-02-17,LI Xue,AGGARWAL Neha,4,0,"11,11,11,11|5,5,7,4",,GRAND_SLAM,WS,52,Qualification,LI Xue (FRA),AGGARWAL Neha (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,NOSKOVA Yana,LI Xue,4,3,"11,14,13,12,8,10,11|1,12,15,10,11,12,3",,GRAND_SLAM,WS,52,Qualification,NOSKOVA Yana (RUS),LI Xue (FRA)
-Pro Tour Qatar Open Doha 2010,2010-02-17,NOSKOVA Yana,AGGARWAL Neha,4,0,"11,11,11,11|3,4,9,4",,GRAND_SLAM,WS,52,Qualification,NOSKOVA Yana (RUS),AGGARWAL Neha (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,XU Jie (1982),KOLTSOVA Anastasia,4,0,"11,11,12,12|3,8,10,10",,GRAND_SLAM,WS,52,Qualification,XU Jie (1982) (POL),KOLTSOVA Anastasia (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,XU Jie (1982),DUBKOVA Elena,4,0,"11,11,11,11|9,3,8,5",,GRAND_SLAM,WS,52,Qualification,XU Jie (1982) (POL),DUBKOVA Elena (BLR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KOLTSOVA Anastasia,DUBKOVA Elena,4,0,"17,11,11,11|15,7,9,9",,GRAND_SLAM,WS,52,Qualification,KOLTSOVA Anastasia (RUS),DUBKOVA Elena (BLR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,MOON Hyunjung,KUMARESAN Shamini,4,0,"11,11,11,11|4,4,8,9",,GRAND_SLAM,WS,52,Qualification,MOON Hyunjung (KOR),KUMARESAN Shamini (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SOLJA Petrissa,MOON Hyunjung,4,2,"11,6,11,11,9,11|7,11,9,8,11,8",,GRAND_SLAM,WS,52,Qualification,SOLJA Petrissa (GER),MOON Hyunjung (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SOLJA Petrissa,KUMARESAN Shamini,4,0,"11,11,11,11|6,6,4,6",,GRAND_SLAM,WS,52,Qualification,SOLJA Petrissa (GER),KUMARESAN Shamini (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,FUJII Hiroko,SAHA Nandita,4,0,"11,11,11,11|6,8,4,3",,GRAND_SLAM,WS,52,Qualification,FUJII Hiroko (JPN),SAHA Nandita (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,FUJII Hiroko,HSIUNG Nai-I,4,0,"11,11,11,11|7,6,9,9",,GRAND_SLAM,WS,52,Qualification,FUJII Hiroko (JPN),HSIUNG Nai-I (TPE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,HSIUNG Nai-I,SAHA Nandita,4,1,"11,11,7,11,11|6,7,11,5,1",,GRAND_SLAM,WS,52,Qualification,HSIUNG Nai-I (TPE),SAHA Nandita (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,CHENG I-Ching,VOROBEVA Olga,4,0,"11,11,11,11|7,3,7,7",,GRAND_SLAM,WS,52,Qualification,CHENG I-Ching (TPE),VOROBEVA Olga (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,CHENG I-Ching,GHATAK Poulomi,4,0,"11,11,11,11|6,9,5,7",,GRAND_SLAM,WS,52,Qualification,CHENG I-Ching (TPE),GHATAK Poulomi (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,GHATAK Poulomi,VOROBEVA Olga,4,0,"15,11,11,11|13,2,7,9",,GRAND_SLAM,WS,52,Qualification,GHATAK Poulomi (IND),VOROBEVA Olga (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SKOV Mie,SIM Kai Xin Zena,4,1,"9,11,11,11,12|11,8,0,8,10",,GRAND_SLAM,WS,52,Qualification,SKOV Mie (DEN),SIM Kai Xin Zena (SGP)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SKOV Mie,DAS Mouma,4,2,"8,11,11,11,6,11|11,5,7,5,11,3",,GRAND_SLAM,WS,52,Qualification,SKOV Mie (DEN),DAS Mouma (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,DAS Mouma,SIM Kai Xin Zena,4,0,"11,11,11,11|7,9,9,7",,GRAND_SLAM,WS,52,Qualification,DAS Mouma (IND),SIM Kai Xin Zena (SGP)
-Pro Tour Qatar Open Doha 2010,2010-02-17,FADEEVA Oxana,PATKAR Madhurika,4,0,"11,11,11,11|7,7,9,9",,GRAND_SLAM,WS,52,Qualification,FADEEVA Oxana (RUS),PATKAR Madhurika (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,FADEEVA Oxana,HAPONOVA Hanna,4,0,"11,11,11,11|8,5,2,4",,GRAND_SLAM,WS,52,Qualification,FADEEVA Oxana (RUS),HAPONOVA Hanna (UKR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,PATKAR Madhurika,HAPONOVA Hanna,4,2,"5,5,11,11,11,11|11,11,5,7,7,9",,GRAND_SLAM,WS,52,Qualification,PATKAR Madhurika (IND),HAPONOVA Hanna (UKR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,BILENKO Tetyana,ERMAKOVA Irina,4,2,"11,5,11,9,11,11|5,11,6,11,6,4",,GRAND_SLAM,WS,52,Qualification,BILENKO Tetyana (UKR),ERMAKOVA Irina (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KANG Misoon,BILENKO Tetyana,4,0,"11,11,11,11|9,5,3,8",,GRAND_SLAM,WS,52,Qualification,KANG Misoon (KOR),BILENKO Tetyana (UKR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KANG Misoon,ERMAKOVA Irina,4,0,"11,11,11,11|3,4,4,7",,GRAND_SLAM,WS,52,Qualification,KANG Misoon (KOR),ERMAKOVA Irina (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,STESHENKO Tatyana,PARTYKA Natalia,4,3,"7,11,11,9,6,11,11|11,7,8,11,11,9,6",,GRAND_SLAM,WS,52,Qualification,STESHENKO Tatyana (ITA),PARTYKA Natalia (POL)
-Pro Tour Qatar Open Doha 2010,2010-02-17,YANG Ha Eun,PARTYKA Natalia,4,2,"12,12,8,8,11,11|10,10,11,11,8,9",,GRAND_SLAM,WS,52,Qualification,YANG Ha Eun (KOR),PARTYKA Natalia (POL)
-Pro Tour Qatar Open Doha 2010,2010-02-17,YANG Ha Eun,STESHENKO Tatyana,4,0,"11,11,11,11|3,5,8,7",,GRAND_SLAM,WS,52,Qualification,YANG Ha Eun (KOR),STESHENKO Tatyana (ITA)
-Pro Tour Qatar Open Doha 2010,2010-02-17,CHOI Moonyoung,SAHASRABUDHE Pooja,4,0,"11,11,11,11|8,7,5,6",,GRAND_SLAM,WS,52,Qualification,CHOI Moonyoung (KOR),SAHASRABUDHE Pooja (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,CHOI Moonyoung,MIKHAILOVA Polina,4,0,"11,11,13,15|4,6,11,13",,GRAND_SLAM,WS,52,Qualification,CHOI Moonyoung (KOR),MIKHAILOVA Polina (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,MIKHAILOVA Polina,SAHASRABUDHE Pooja,4,3,"11,2,8,11,7,12,11|6,11,11,4,11,10,7",,GRAND_SLAM,WS,52,Qualification,MIKHAILOVA Polina (RUS),SAHASRABUDHE Pooja (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,PARK Youngsook,DAS Ankita,4,0,"11,11,11,11|7,5,4,9",,GRAND_SLAM,WS,52,Qualification,PARK Youngsook (KOR),DAS Ankita (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,PARK Youngsook,LEE I-Chen,4,2,"12,6,11,10,11,11|10,11,7,12,3,3",,GRAND_SLAM,WS,52,Qualification,PARK Youngsook (KOR),LEE I-Chen (TPE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,LEE I-Chen,DAS Ankita,4,0,"11,11,11,11|3,1,5,2",,GRAND_SLAM,WS,52,Qualification,LEE I-Chen (TPE),DAS Ankita (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KIM Junghyun,ARUMBAKKAM Niveditha,4,0,"11,11,11,11|6,9,6,7",,GRAND_SLAM,WS,52,Qualification,KIM Junghyun (KOR),ARUMBAKKAM Niveditha (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KIM Junghyun,CECHOVA Dana,4,0,"14,11,11,12|12,8,8,10",,GRAND_SLAM,WS,52,Qualification,KIM Junghyun (KOR),CECHOVA Dana (CZE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,CECHOVA Dana,ARUMBAKKAM Niveditha,4,2,"9,11,11,11,9,11|11,5,9,3,11,4",,GRAND_SLAM,WS,52,Qualification,CECHOVA Dana (CZE),ARUMBAKKAM Niveditha (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,TIKHOMIROVA Anna,DESHPANDE Divya,4,0,"11,11,11,11|3,7,3,1",,GRAND_SLAM,WS,52,Qualification,TIKHOMIROVA Anna (RUS),DESHPANDE Divya (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,MORIZONO Misaki,TIKHOMIROVA Anna,4,1,"4,11,11,11,11|11,7,7,8,3",,GRAND_SLAM,WS,52,Qualification,MORIZONO Misaki (JPN),TIKHOMIROVA Anna (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,MORIZONO Misaki,DESHPANDE Divya,4,0,"16,11,11,11|14,4,6,5",,GRAND_SLAM,WS,52,Qualification,MORIZONO Misaki (JPN),DESHPANDE Divya (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,WAKAMIYA Misako,PRABHU Mamata,4,0,"11,11,11,11|4,2,3,3",,GRAND_SLAM,WS,52,Qualification,WAKAMIYA Misako (JPN),PRABHU Mamata (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,PARK Seonghye,WAKAMIYA Misako,4,2,"6,11,11,11,3,11|11,8,7,6,11,8",,GRAND_SLAM,WS,52,Qualification,PARK Seonghye (KOR),WAKAMIYA Misako (JPN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,PARK Seonghye,PRABHU Mamata,4,3,"14,11,11,9,5,11,11|12,13,3,11,11,9,5",,GRAND_SLAM,WS,52,Qualification,PARK Seonghye (KOR),PRABHU Mamata (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,HE Sirin,MONDAL Soumi,4,0,"11,11,11,11|5,7,9,7",,GRAND_SLAM,WS,52,Qualification,HE Sirin (TUR),MONDAL Soumi (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,IVANCAN Irene,SHAVYRINA Marina,4,0,"11,11,11,11|7,8,9,4",,GRAND_SLAM,WS,52,Qualification,IVANCAN Irene (GER),SHAVYRINA Marina (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,IVANCAN Irene,HE Sirin,4,0,"12,11,11,11|10,2,5,4",,GRAND_SLAM,WS,52,Qualification,IVANCAN Irene (GER),HE Sirin (TUR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SHAVYRINA Marina,MONDAL Soumi,4,1,"11,2,11,17,11|7,11,6,15,7",,GRAND_SLAM,WS,52,Qualification,SHAVYRINA Marina (RUS),MONDAL Soumi (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,HE Sirin,SHAVYRINA Marina,4,3,"7,11,10,11,11,11,11|11,13,12,4,5,3,4",,GRAND_SLAM,WS,52,Qualification,HE Sirin (TUR),SHAVYRINA Marina (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,IVANCAN Irene,MONDAL Soumi,4,0,"11,11,11,11|5,4,5,4",,GRAND_SLAM,WS,52,Qualification,IVANCAN Irene (GER),MONDAL Soumi (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,VOROBEVA Olga,SAHASRABUDHE Pooja,3,2,"11,11,8,9,11|9,8,11,11,9",,GRAND_SLAM,U21WS,52,Qualification,VOROBEVA Olga (RUS),SAHASRABUDHE Pooja (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,YANG Ha Eun,SAHASRABUDHE Pooja,3,0,"11,11,11|6,7,7",,GRAND_SLAM,U21WS,52,Qualification,YANG Ha Eun (KOR),SAHASRABUDHE Pooja (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,YANG Ha Eun,VOROBEVA Olga,3,0,"11,11,11|3,6,3",,GRAND_SLAM,U21WS,52,Qualification,YANG Ha Eun (KOR),VOROBEVA Olga (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SIM Kai Xin Zena,AGGARWAL Neha,3,1,"11,11,9,11|5,8,11,6",,GRAND_SLAM,U21WS,52,Qualification,SIM Kai Xin Zena (SGP),AGGARWAL Neha (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KANG Misoon,SIM Kai Xin Zena,3,0,"11,11,11|6,4,7",,GRAND_SLAM,U21WS,52,Qualification,KANG Misoon (KOR),SIM Kai Xin Zena (SGP)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KANG Misoon,AGGARWAL Neha,3,0,"11,11,11|8,5,9",,GRAND_SLAM,U21WS,52,Qualification,KANG Misoon (KOR),AGGARWAL Neha (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,WINTER Sabine,DAS Ankita,3,2,"11,11,10,4,12|7,7,12,11,10",,GRAND_SLAM,U21WS,52,Qualification,WINTER Sabine (GER),DAS Ankita (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,HSIUNG Nai-I,DAS Ankita,3,0,"11,11,11|7,1,7",,GRAND_SLAM,U21WS,52,Qualification,HSIUNG Nai-I (TPE),DAS Ankita (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,HSIUNG Nai-I,WINTER Sabine,3,2,"11,11,10,9,11|4,6,12,11,9",,GRAND_SLAM,U21WS,52,Qualification,HSIUNG Nai-I (TPE),WINTER Sabine (GER)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SOLJA Petrissa,MONDAL Soumi,3,0,"11,11,11|5,2,5",,GRAND_SLAM,U21WS,52,Qualification,SOLJA Petrissa (GER),MONDAL Soumi (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,DESSAINT Aurore,STESHENKO Tatyana,3,0,"11,13,11|7,11,7",,GRAND_SLAM,U21WS,52,Qualification,DESSAINT Aurore (FRA),STESHENKO Tatyana (ITA)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SOLJA Petrissa,STESHENKO Tatyana,3,0,"11,11,11|1,3,7",,GRAND_SLAM,U21WS,52,Qualification,SOLJA Petrissa (GER),STESHENKO Tatyana (ITA)
-Pro Tour Qatar Open Doha 2010,2010-02-17,DESSAINT Aurore,MONDAL Soumi,3,0,"11,11,11|8,6,4",,GRAND_SLAM,U21WS,52,Qualification,DESSAINT Aurore (FRA),MONDAL Soumi (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SOLJA Petrissa,DESSAINT Aurore,3,2,"11,5,9,11,11|2,11,11,3,5",,GRAND_SLAM,U21WS,52,Qualification,SOLJA Petrissa (GER),DESSAINT Aurore (FRA)
-Pro Tour Qatar Open Doha 2010,2010-02-17,MONDAL Soumi,STESHENKO Tatyana,3,0,"13,12,11|11,10,4",,GRAND_SLAM,U21WS,52,Qualification,MONDAL Soumi (IND),STESHENKO Tatyana (ITA)
-Pro Tour Qatar Open Doha 2010,2010-02-17,DUBKOVA Elena,DESHPANDE Divya,3,0,,,GRAND_SLAM,U21WS,52,Qualification,DUBKOVA Elena (BLR),DESHPANDE Divya (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,NOSKOVA Yana,ARUMBAKKAM Niveditha,3,2,"11,10,11,6,11|7,12,7,11,5",,GRAND_SLAM,U21WS,52,Qualification,NOSKOVA Yana (RUS),ARUMBAKKAM Niveditha (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,NOSKOVA Yana,DUBKOVA Elena,3,0,"11,11,14|5,5,12",,GRAND_SLAM,U21WS,52,Qualification,NOSKOVA Yana (RUS),DUBKOVA Elena (BLR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,ARUMBAKKAM Niveditha,DESHPANDE Divya,3,2,"11,11,6,8,12|9,7,11,11,10",,GRAND_SLAM,U21WS,52,Qualification,ARUMBAKKAM Niveditha (IND),DESHPANDE Divya (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,DUBKOVA Elena,ARUMBAKKAM Niveditha,3,0,"11,11,11|3,8,8",,GRAND_SLAM,U21WS,52,Qualification,DUBKOVA Elena (BLR),ARUMBAKKAM Niveditha (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,NOSKOVA Yana,DESHPANDE Divya,3,0,"11,12,11|9,10,6",,GRAND_SLAM,U21WS,52,Qualification,NOSKOVA Yana (RUS),DESHPANDE Divya (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,OH Sangeun/SEO Hyundeok,GARDOS Robert/HABESOHN Daniel,4,1,"7,11,11,11,11|11,8,7,6,6",QF,GRAND_SLAM,MD,52,Main Draw,OH Sangeun (KOR) / SEO Hyundeok (KOR),GARDOS Robert (AUT) / HABESOHN Daniel (AUT)
-Pro Tour Qatar Open Doha 2010,2010-02-17,FEGERL Stefan/FENG Xiaoquan,LUNDQVIST Jens/SVENSSON Robert,3,1,"10,11,11,12|12,4,9,10",QR32,GRAND_SLAM,MD,52,Qualification,FEGERL Stefan (AUT) / FENG Xiaoquan (AUT),LUNDQVIST Jens (SWE) / SVENSSON Robert (SWE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,WANG Liqin/XU Xin,KEINATH Thomas/MENGEL Steffen,4,0,"11,11,12,11|5,4,10,7",R16,GRAND_SLAM,MD,52,Main Draw,WANG Liqin (CHN) / XU Xin (CHN),KEINATH Thomas (SVK) / MENGEL Steffen (GER)
-Pro Tour Qatar Open Doha 2010,2010-02-17,MA Lin/WANG Hao,SHIBAEV Alexander/SMIRNOV Alexey,4,2,"7,11,12,11,9,11|11,5,10,6,11,9",R16,GRAND_SLAM,MD,52,Main Draw,MA Lin (CHN) / WANG Hao (CHN),SHIBAEV Alexander (RUS) / SMIRNOV Alexey (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,WANG Liqin/XU Xin,MA Long/ZHANG Jike,4,1,"12,11,11,15,11|10,9,5,17,8",QF,GRAND_SLAM,MD,52,Main Draw,WANG Liqin (CHN) / XU Xin (CHN),MA Long (CHN) / ZHANG Jike (CHN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,MA Lin/WANG Hao,BAUM Patrick/STEGER Bastian,4,2,"11,11,7,8,11,11|9,6,11,11,4,7",QF,GRAND_SLAM,MD,52,Main Draw,MA Lin (CHN) / WANG Hao (CHN),BAUM Patrick (GER) / STEGER Bastian (GER)
-Pro Tour Qatar Open Doha 2010,2010-02-17,MA Lin/WANG Hao,FREITAS Marcos/GACINA Andrej,4,2,"12,3,10,11,15,11|10,11,12,4,13,4",SF,GRAND_SLAM,MD,52,Main Draw,MA Lin (CHN) / WANG Hao (CHN),FREITAS Marcos (POR) / GACINA Andrej (CRO)
-Pro Tour Qatar Open Doha 2010,2010-02-17,MA Lin/WANG Hao,WANG Liqin/XU Xin,4,2,"11,7,11,11,9,12|6,11,4,5,11,10",F,GRAND_SLAM,MD,52,Main Draw,MA Lin (CHN) / WANG Hao (CHN),WANG Liqin (CHN) / XU Xin (CHN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,BAUM Patrick/STEGER Bastian,PRIMORAC Zoran/TOSIC Roko,4,3,"11,10,10,11,7,11,11|9,12,12,5,11,6,6",R16,GRAND_SLAM,MD,52,Main Draw,BAUM Patrick (GER) / STEGER Bastian (GER),PRIMORAC Zoran (CRO) / TOSIC Roko (CRO)
-Pro Tour Qatar Open Doha 2010,2010-02-17,FREITAS Marcos/GACINA Andrej,GAO Ning/YANG Zi,4,2,"10,11,6,12,11,13|12,8,11,10,5,11",R16,GRAND_SLAM,MD,52,Main Draw,FREITAS Marcos (POR) / GACINA Andrej (CRO),GAO Ning (SGP) / YANG Zi (SGP)
-Pro Tour Qatar Open Doha 2010,2010-02-17,FREITAS Marcos/GACINA Andrej,ARUNA Quadri/TORIOLA Segun,3,0,"11,11,11|5,8,9",QR16,GRAND_SLAM,MD,52,Qualification,FREITAS Marcos (POR) / GACINA Andrej (CRO),ARUNA Quadri (NGR) / TORIOLA Segun (NGR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,ARUNA Quadri/TORIOLA Segun,OBESLO Michal/TREGLER Tomas,3,1,"8,11,11,11|11,3,4,7",QR64,GRAND_SLAM,MD,52,Qualification,ARUNA Quadri (NGR) / TORIOLA Segun (NGR),OBESLO Michal (CZE) / TREGLER Tomas (CZE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,GAVLAS Antonin/KORBEL Petr,JAKAB Janos/KOSIBA Daniel,3,1,"11,11,11,11|13,5,9,5",QR32,GRAND_SLAM,MD,52,Qualification,GAVLAS Antonin (CZE) / KORBEL Petr (CZE),JAKAB Janos (HUN) / KOSIBA Daniel (HUN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,JEOUNG Youngsik/KIM Minseok,KONECNY Tomas/PROKOPCOV Dmitrij,3,0,"11,11,11|7,6,8",QR32,GRAND_SLAM,MD,52,Qualification,JEOUNG Youngsik (KOR) / KIM Minseok (KOR),KONECNY Tomas (CZE) / PROKOPCOV Dmitrij (CZE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,GARDOS Robert/HABESOHN Daniel,GAVLAS Antonin/KORBEL Petr,3,0,"11,11,11|8,4,9",QR16,GRAND_SLAM,MD,52,Qualification,GARDOS Robert (AUT) / HABESOHN Daniel (AUT),GAVLAS Antonin (CZE) / KORBEL Petr (CZE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,JAKAB Janos/KOSIBA Daniel,LASHIN Elsayed/MOSELHY Emad,3,1,"11,10,13,11|7,12,11,8",QR64,GRAND_SLAM,MD,52,Qualification,JAKAB Janos (HUN) / KOSIBA Daniel (HUN),LASHIN Elsayed (EGY) / MOSELHY Emad (EGY)
-Pro Tour Qatar Open Doha 2010,2010-02-17,GERELL Par/SUCH Bartosz,ASSAR Omar/ELSOBKY Mohamed,3,1,"13,8,11,11|11,11,5,3",QR64,GRAND_SLAM,MD,52,Qualification,GERELL Par (SWE) / SUCH Bartosz (POL),ASSAR Omar (EGY) / ELSOBKY Mohamed (EGY)
-Pro Tour Qatar Open Doha 2010,2010-02-17,APOLONIA Tiago/MONTEIRO Joao,ELBEIALI Mohamed/NADIM Ahmed,3,1,"11,10,11,11|9,12,5,8",QR16,GRAND_SLAM,MD,52,Qualification,APOLONIA Tiago (POR) / MONTEIRO Joao (POR),ELBEIALI Mohamed (EGY) / NADIM Ahmed (EGY)
-Pro Tour Qatar Open Doha 2010,2010-02-17,CHAN Kazuhiro/MATSUDAIRA Kenji,LEBESSON Emmanuel/MATTENET Adrien,4,2,"11,7,11,9,11,11|8,11,3,11,8,8",R16,GRAND_SLAM,MD,52,Main Draw,CHAN Kazuhiro (JPN) / MATSUDAIRA Kenji (JPN),LEBESSON Emmanuel (FRA) / MATTENET Adrien (FRA)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KEINATH Thomas/MENGEL Steffen,KUZMIN Fedor/SKACHKOV Kirill,3,0,"11,11,12|8,8,10",QR32,GRAND_SLAM,MD,52,Qualification,KEINATH Thomas (SVK) / MENGEL Steffen (GER),KUZMIN Fedor (RUS) / SKACHKOV Kirill (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,FREITAS Marcos/GACINA Andrej,FEJER-KONNERTH Zoltan/HIELSCHER Lars,3,0,"11,11,11|4,6,9",QR32,GRAND_SLAM,MD,52,Qualification,FREITAS Marcos (POR) / GACINA Andrej (CRO),FEJER-KONNERTH Zoltan (GER) / HIELSCHER Lars (GER)
-Pro Tour Qatar Open Doha 2010,2010-02-17,GERELL Par/SUCH Bartosz,DRINKHALL Paul/OVTCHAROV Dimitrij,3,0,"11,11,13|8,8,11",QR32,GRAND_SLAM,MD,52,Qualification,GERELL Par (SWE) / SUCH Bartosz (POL),DRINKHALL Paul (ENG) / OVTCHAROV Dimitrij (GER)
-Pro Tour Qatar Open Doha 2010,2010-02-17,GARDOS Robert/HABESOHN Daniel,KUMAR Jubin/ROY Soumyadeep,3,0,"11,11,11|6,8,5",QR32,GRAND_SLAM,MD,52,Qualification,GARDOS Robert (AUT) / HABESOHN Daniel (AUT),KUMAR Jubin (IND) / ROY Soumyadeep (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,ELBEIALI Mohamed/NADIM Ahmed,ACHANTA Sharath/SAHA Subhajit,3,2,"11,11,7,3,11|3,8,11,11,7",QR32,GRAND_SLAM,MD,52,Qualification,ELBEIALI Mohamed (EGY) / NADIM Ahmed (EGY),ACHANTA Sharath (IND) / SAHA Subhajit (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,ALAMIYAN Noshad/NOROOZI Afshin,CRISAN Adrian/FILIMON Andrei,3,0,,QR64,GRAND_SLAM,MD,52,Qualification,ALAMIYAN Noshad (IRI) / NOROOZI Afshin (IRI),CRISAN Adrian (ROU) / FILIMON Andrei (ROU)
-Pro Tour Qatar Open Doha 2010,2010-02-17,IONESCU Ovidiu/PANG Xue Jie,AHADI Mehran/AKHLAGHPASAND Mohammadreza,3,1,"7,11,11,12|11,9,9,10",QR64,GRAND_SLAM,MD,52,Qualification,IONESCU Ovidiu (ROU) / PANG Xue Jie (SGP),AHADI Mehran (IRI) / AKHLAGHPASAND Mohammadreza (USA)
-Pro Tour Qatar Open Doha 2010,2010-02-17,FREITAS Marcos/GACINA Andrej,CHERAGHIANI Amir/TAHERKHANI Hamidreza,3,0,"11,11,11|8,4,4",QR64,GRAND_SLAM,MD,52,Qualification,FREITAS Marcos (POR) / GACINA Andrej (CRO),CHERAGHIANI Amir (IRI) / TAHERKHANI Hamidreza (IRI)
-Pro Tour Qatar Open Doha 2010,2010-02-17,GARDOS Robert/HABESOHN Daniel,KISHIKAWA Seiya/MIZUTANI Jun,4,2,"21,9,10,11,11,11|19,11,12,2,8,3",R16,GRAND_SLAM,MD,52,Main Draw,GARDOS Robert (AUT) / HABESOHN Daniel (AUT),KISHIKAWA Seiya (JPN) / MIZUTANI Jun (JPN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,MA Long/ZHANG Jike,MATSUDAIRA Kenta/NIWA Koki,4,1,"13,11,7,11,11|11,8,11,7,7",R16,GRAND_SLAM,MD,52,Main Draw,MA Long (CHN) / ZHANG Jike (CHN),MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,FREITAS Marcos/GACINA Andrej,CHAN Kazuhiro/MATSUDAIRA Kenji,4,2,"8,11,15,11,6,11|11,9,13,6,11,9",QF,GRAND_SLAM,MD,52,Main Draw,FREITAS Marcos (POR) / GACINA Andrej (CRO),CHAN Kazuhiro (JPN) / MATSUDAIRA Kenji (JPN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,CHAN Kazuhiro/MATSUDAIRA Kenji,ANTHONY Amalraj/CHAKRABORTY Sourav,3,2,"11,8,11,6,11|5,11,5,11,6",QR64,GRAND_SLAM,MD,52,Qualification,CHAN Kazuhiro (JPN) / MATSUDAIRA Kenji (JPN),ANTHONY Amalraj (IND) / CHAKRABORTY Sourav (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,CHAN Kazuhiro/MATSUDAIRA Kenji,JIANG Tianyi/TANG Peng,2,0,"11,13,6|8,11,2",QR32,GRAND_SLAM,MD,52,Qualification,CHAN Kazuhiro (JPN) / MATSUDAIRA Kenji (JPN),JIANG Tianyi (HKG) / TANG Peng (HKG)
-Pro Tour Qatar Open Doha 2010,2010-02-17,WANG Liqin/XU Xin,OH Sangeun/SEO Hyundeok,4,0,"11,15,11,13|3,13,8,11",SF,GRAND_SLAM,MD,52,Main Draw,WANG Liqin (CHN) / XU Xin (CHN),OH Sangeun (KOR) / SEO Hyundeok (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,CHO Eonrae/RYU Seungmin,ALAMIYAN Noshad/NOROOZI Afshin,3,0,"11,11,11|7,7,8",QR32,GRAND_SLAM,MD,52,Qualification,CHO Eonrae (KOR) / RYU Seungmin (KOR),ALAMIYAN Noshad (IRI) / NOROOZI Afshin (IRI)
-Pro Tour Qatar Open Doha 2010,2010-02-17,PRIMORAC Zoran/TOSIC Roko,CHO Eonrae/RYU Seungmin,3,2,"11,13,8,7,11|4,11,11,11,7",QR16,GRAND_SLAM,MD,52,Qualification,PRIMORAC Zoran (CRO) / TOSIC Roko (CRO),CHO Eonrae (KOR) / RYU Seungmin (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,MATSUDAIRA Kenta/NIWA Koki,JEOUNG Youngsik/KIM Minseok,3,0,"11,13,11|8,11,7",QR16,GRAND_SLAM,MD,52,Qualification,MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN),JEOUNG Youngsik (KOR) / KIM Minseok (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,AL-HASAN Ibrahem/AL-HASAN Salem,KUCHUK Aleksandr/PLATONOV Pavel,3,0,"11,11,11|6,6,7",QR64,GRAND_SLAM,MD,52,Qualification,AL-HASAN Ibrahem (KUW) / AL-HASAN Salem (KUW),KUCHUK Aleksandr (BLR) / PLATONOV Pavel (BLR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KEINATH Thomas/MENGEL Steffen,AL-HASAN Ibrahem/AL-HASAN Salem,3,1,"14,11,12,12|12,8,14,10",QR16,GRAND_SLAM,MD,52,Qualification,KEINATH Thomas (SVK) / MENGEL Steffen (GER),AL-HASAN Ibrahem (KUW) / AL-HASAN Salem (KUW)
-Pro Tour Qatar Open Doha 2010,2010-02-17,ARUNA Quadri/TORIOLA Segun,LIVENTSOV Alexey/RUBTSOV Igor,3,1,"11,4,11,11|8,11,7,8",QR32,GRAND_SLAM,MD,52,Qualification,ARUNA Quadri (NGR) / TORIOLA Segun (NGR),LIVENTSOV Alexey (RUS) / RUBTSOV Igor (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,AL-HASAN Ibrahem/AL-HASAN Salem,KOSOWSKI Jakub/WANG Zengyi,3,0,,QR32,GRAND_SLAM,MD,52,Qualification,AL-HASAN Ibrahem (KUW) / AL-HASAN Salem (KUW),KOSOWSKI Jakub (POL) / WANG Zengyi (POL)
-Pro Tour Qatar Open Doha 2010,2010-02-17,CHAN Kazuhiro/MATSUDAIRA Kenji,GERELL Par/SUCH Bartosz,3,1,"12,7,11,11|10,11,8,7",QR16,GRAND_SLAM,MD,52,Qualification,CHAN Kazuhiro (JPN) / MATSUDAIRA Kenji (JPN),GERELL Par (SWE) / SUCH Bartosz (POL)
-Pro Tour Qatar Open Doha 2010,2010-02-17,OH Sangeun/SEO Hyundeok,APOLONIA Tiago/MONTEIRO Joao,4,0,,R16,GRAND_SLAM,MD,52,Main Draw,OH Sangeun (KOR) / SEO Hyundeok (KOR),APOLONIA Tiago (POR) / MONTEIRO Joao (POR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SHIBAEV Alexander/SMIRNOV Alexey,CHOU Tung-Yu/HUANG Sheng-Sheng,3,1,"8,11,11,11|11,7,7,7",QR32,GRAND_SLAM,MD,52,Qualification,SHIBAEV Alexander (RUS) / SMIRNOV Alexey (RUS),CHOU Tung-Yu (TPE) / HUANG Sheng-Sheng (TPE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SHIBAEV Alexander/SMIRNOV Alexey,FEGERL Stefan/FENG Xiaoquan,3,0,"13,11,12|11,3,10",QR16,GRAND_SLAM,MD,52,Qualification,SHIBAEV Alexander (RUS) / SMIRNOV Alexey (RUS),FEGERL Stefan (AUT) / FENG Xiaoquan (AUT)
-Pro Tour Qatar Open Doha 2010,2010-02-17,JEOUNG Youngsik/KIM Minseok,LIU Zhongze/MA Liang,3,1,"8,11,11,11|11,5,8,9",QR64,GRAND_SLAM,MD,52,Qualification,JEOUNG Youngsik (KOR) / KIM Minseok (KOR),LIU Zhongze (SGP) / MA Liang (SGP)
-Pro Tour Qatar Open Doha 2010,2010-02-17,APOLONIA Tiago/MONTEIRO Joao,IONESCU Ovidiu/PANG Xue Jie,3,0,"11,11,11|8,7,6",QR32,GRAND_SLAM,MD,52,Qualification,APOLONIA Tiago (POR) / MONTEIRO Joao (POR),IONESCU Ovidiu (ROU) / PANG Xue Jie (SGP)
-Pro Tour Qatar Open Doha 2010,2010-02-17,CHANG Shun-Hung/CHEN Chien-An,ALHAJJAI Waled Nasser/ALAWLAQI Ahmed,3,0,"11,11,11|7,3,5",QR64,GRAND_SLAM,MD,52,Qualification,CHANG Shun-Hung (TPE) / CHEN Chien-An (TPE),ALHAJJAI Waled Nasser (QAT) / ALAWLAQI Ahmed (QAT)
-Pro Tour Qatar Open Doha 2010,2010-02-17,CHOU Tung-Yu/HUANG Sheng-Sheng,CHTCHETININE Evgueni/NEKHVEDOVICH Vitaly,3,0,"11,11,11|9,7,5",QR64,GRAND_SLAM,MD,52,Qualification,CHOU Tung-Yu (TPE) / HUANG Sheng-Sheng (TPE),CHTCHETININE Evgueni (BLR) / NEKHVEDOVICH Vitaly (BLR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,PRIMORAC Zoran/TOSIC Roko,CHANG Shun-Hung/CHEN Chien-An,3,1,"11,11,5,11|3,7,11,8",QR32,GRAND_SLAM,MD,52,Qualification,PRIMORAC Zoran (CRO) / TOSIC Roko (CRO),CHANG Shun-Hung (TPE) / CHEN Chien-An (TPE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,MATSUDAIRA Kenta/NIWA Koki,LI Ahmet/VANG Bora,3,1,"2,14,11,11|11,12,7,7",QR32,GRAND_SLAM,MD,52,Qualification,MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN),LI Ahmet (TUR) / VANG Bora (TUR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KUMAR Jubin/ROY Soumyadeep,GOLOVANOV Stanislav/ZHMUDENKO Yaroslav,3,2,"11,10,11,7,11|7,12,7,11,9",QR64,GRAND_SLAM,MD,52,Qualification,KUMAR Jubin (IND) / ROY Soumyadeep (IND),GOLOVANOV Stanislav (BUL) / ZHMUDENKO Yaroslav (UKR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SUN Beibei/YU Mengyu,DUBKOVA Elena/PAVLOVICH Viktoria,4,0,"11,11,11,11|8,6,4,7",R16,GRAND_SLAM,WD,52,Main Draw,SUN Beibei (SGP) / YU Mengyu (SGP),DUBKOVA Elena (BLR) / PAVLOVICH Viktoria (BLR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,DUBKOVA Elena/PAVLOVICH Viktoria,DESSAINT Aurore/STESHENKO Tatyana,3,1,"12,4,11,11|10,11,6,7",QR16,GRAND_SLAM,WD,52,Qualification,DUBKOVA Elena (BLR) / PAVLOVICH Viktoria (BLR),DESSAINT Aurore (FRA) / STESHENKO Tatyana (ITA)
-Pro Tour Qatar Open Doha 2010,2010-02-17,CHENG I-Ching/HUANG Yi-Hua,FADEEVA Oxana/PAVLOVICH Veronika,3,1,"12,3,11,11|10,11,8,5",QR16,GRAND_SLAM,WD,52,Qualification,CHENG I-Ching (TPE) / HUANG Yi-Hua (TPE),FADEEVA Oxana (RUS) / PAVLOVICH Veronika (BLR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,DING Ning/LIU Shiwen,SUN Beibei/YU Mengyu,4,0,"11,11,11,13|5,8,8,11",QF,GRAND_SLAM,WD,52,Main Draw,DING Ning (CHN) / LIU Shiwen (CHN),SUN Beibei (SGP) / YU Mengyu (SGP)
-Pro Tour Qatar Open Doha 2010,2010-02-17,DING Ning/LIU Shiwen,KIM Kyungah/PARK Miyoung,4,0,"11,11,11,13|8,8,2,11",F,GRAND_SLAM,WD,52,Main Draw,DING Ning (CHN) / LIU Shiwen (CHN),KIM Kyungah (KOR) / PARK Miyoung (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,DING Ning/LIU Shiwen,DESHPANDE Divya/SAHASRABUDHE Pooja,3,0,"11,13,11|4,11,2",QR16,GRAND_SLAM,WD,52,Qualification,DING Ning (CHN) / LIU Shiwen (CHN),DESHPANDE Divya (IND) / SAHASRABUDHE Pooja (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,HE Sirin/HU Melek,CAO Zhen/YAO Yan,3,0,,QR16,GRAND_SLAM,WD,52,Qualification,HE Sirin (TUR) / HU Melek (TUR),CAO Zhen (CHN) / YAO Yan (CHN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,BOROS Tamara/CECHOVA Dana,IVANCAN Irene/SCHALL Elke,3,0,"11,11,14|9,9,12",QR32,GRAND_SLAM,WD,52,Qualification,BOROS Tamara (CRO) / CECHOVA Dana (CZE),IVANCAN Irene (GER) / SCHALL Elke (GER)
-Pro Tour Qatar Open Doha 2010,2010-02-17,DANG Yeseo/KIM Junghyun,SOLJA Petrissa/WINTER Sabine,4,1,"11,11,5,11,11|6,6,11,7,6",R16,GRAND_SLAM,WD,52,Main Draw,DANG Yeseo (KOR) / KIM Junghyun (KOR),SOLJA Petrissa (GER) / WINTER Sabine (GER)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SOLJA Petrissa/WINTER Sabine,GUO Yan (1982)/GUO Yue,3,0,,QR16,GRAND_SLAM,WD,52,Qualification,SOLJA Petrissa (GER) / WINTER Sabine (GER),GUO Yan (1982) (CHN) / GUO Yue (CHN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,JIANG Huajun/TIE Yana,SKOV Mie/STEFANOVA Nikoleta,4,0,"11,11,11,11|1,6,4,3",R16,GRAND_SLAM,WD,52,Main Draw,JIANG Huajun (HKG) / TIE Yana (HKG),SKOV Mie (DEN) / STEFANOVA Nikoleta (ITA)
-Pro Tour Qatar Open Doha 2010,2010-02-17,JIANG Huajun/TIE Yana,FUJII Hiroko/WAKAMIYA Misako,4,2,"9,10,12,12,11,11|11,12,10,10,3,4",QF,GRAND_SLAM,WD,52,Main Draw,JIANG Huajun (HKG) / TIE Yana (HKG),FUJII Hiroko (JPN) / WAKAMIYA Misako (JPN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,DING Ning/LIU Shiwen,JIANG Huajun/TIE Yana,4,1,"11,9,12,11,16|7,11,10,8,14",SF,GRAND_SLAM,WD,52,Main Draw,DING Ning (CHN) / LIU Shiwen (CHN),JIANG Huajun (HKG) / TIE Yana (HKG)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SKOV Mie/STEFANOVA Nikoleta,KUMARESAN Shamini/PATKAR Madhurika,3,2,"11,11,9,7,11|6,7,11,11,9",QR16,GRAND_SLAM,WD,52,Qualification,SKOV Mie (DEN) / STEFANOVA Nikoleta (ITA),KUMARESAN Shamini (IND) / PATKAR Madhurika (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,FUJII Hiroko/WAKAMIYA Misako,DAS Mouma/GHATAK Poulomi,4,0,"11,11,11,11|3,6,8,5",R16,GRAND_SLAM,WD,52,Main Draw,FUJII Hiroko (JPN) / WAKAMIYA Misako (JPN),DAS Mouma (IND) / GHATAK Poulomi (IND)
-Pro Tour Qatar Open Doha 2010,2010-02-17,FUKUHARA Ai/ISHIKAWA Kasumi,LI Jiao/LI Jie,4,0,"11,11,11,11|8,5,2,5",R16,GRAND_SLAM,WD,52,Main Draw,FUKUHARA Ai (JPN) / ISHIKAWA Kasumi (JPN),LI Jiao (NED) / LI Jie (NED)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KIM Kyungah/PARK Miyoung,FUKUHARA Ai/ISHIKAWA Kasumi,4,0,"11,11,11,12|3,8,8,10",QF,GRAND_SLAM,WD,52,Main Draw,KIM Kyungah (KOR) / PARK Miyoung (KOR),FUKUHARA Ai (JPN) / ISHIKAWA Kasumi (JPN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,HIRANO Sayaka/MORIZONO Misaki,NOSKOVA Yana/TIKHOMIROVA Anna,3,1,"11,11,8,11|3,5,11,8",QR32,GRAND_SLAM,WD,52,Qualification,HIRANO Sayaka (JPN) / MORIZONO Misaki (JPN),NOSKOVA Yana (RUS) / TIKHOMIROVA Anna (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,FUJII Hiroko/WAKAMIYA Misako,BOROS Tamara/CECHOVA Dana,3,0,"11,15,11|9,13,9",QR16,GRAND_SLAM,WD,52,Qualification,FUJII Hiroko (JPN) / WAKAMIYA Misako (JPN),BOROS Tamara (CRO) / CECHOVA Dana (CZE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,LI Jiao/LI Jie,HIRANO Sayaka/MORIZONO Misaki,3,1,"11,4,14,11|6,11,12,9",QR16,GRAND_SLAM,WD,52,Qualification,LI Jiao (NED) / LI Jie (NED),HIRANO Sayaka (JPN) / MORIZONO Misaki (JPN)
-Pro Tour Qatar Open Doha 2010,2010-02-17,DING Ning/LIU Shiwen,MOON Hyunjung/SEOK Hajung,4,2,"11,11,4,11,8,11|6,9,11,8,11,3",R16,GRAND_SLAM,WD,52,Main Draw,DING Ning (CHN) / LIU Shiwen (CHN),MOON Hyunjung (KOR) / SEOK Hajung (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,DESHPANDE Divya/SAHASRABUDHE Pooja,MIKHAILOVA Polina/SHAVYRINA Marina,3,0,"13,11,11|11,6,5",QR32,GRAND_SLAM,WD,52,Qualification,DESHPANDE Divya (IND) / SAHASRABUDHE Pooja (IND),MIKHAILOVA Polina (RUS) / SHAVYRINA Marina (RUS)
-Pro Tour Qatar Open Doha 2010,2010-02-17,CHENG I-Ching/HUANG Yi-Hua,FENG Tianwei/WANG Yuegu,4,2,"8,11,11,8,11,11|11,5,9,11,8,8",R16,GRAND_SLAM,WD,52,Main Draw,CHENG I-Ching (TPE) / HUANG Yi-Hua (TPE),FENG Tianwei (SGP) / WANG Yuegu (SGP)
-Pro Tour Qatar Open Doha 2010,2010-02-17,CHENG I-Ching/HUANG Yi-Hua,DANG Yeseo/KIM Junghyun,4,2,"9,11,11,11,5,12|11,7,9,6,11,10",QF,GRAND_SLAM,WD,52,Main Draw,CHENG I-Ching (TPE) / HUANG Yi-Hua (TPE),DANG Yeseo (KOR) / KIM Junghyun (KOR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KIM Kyungah/PARK Miyoung,CHENG I-Ching/HUANG Yi-Hua,4,0,"11,11,11,11|7,4,6,8",SF,GRAND_SLAM,WD,52,Main Draw,KIM Kyungah (KOR) / PARK Miyoung (KOR),CHENG I-Ching (TPE) / HUANG Yi-Hua (TPE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,CHENG I-Ching/HUANG Yi-Hua,PARTYKA Natalia/XU Jie (1982),3,2,"6,11,12,12,11|11,9,10,14,7",QR32,GRAND_SLAM,WD,52,Qualification,CHENG I-Ching (TPE) / HUANG Yi-Hua (TPE),PARTYKA Natalia (POL) / XU Jie (1982) (POL)
-Pro Tour Qatar Open Doha 2010,2010-02-17,SOLJA Petrissa/WINTER Sabine,HSIUNG Nai-I/LEE I-Chen,3,2,"11,13,6,9,13|1,11,11,11,11",QR32,GRAND_SLAM,WD,52,Qualification,SOLJA Petrissa (GER) / WINTER Sabine (GER),HSIUNG Nai-I (TPE) / LEE I-Chen (TPE)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KIM Kyungah/PARK Miyoung,HE Sirin/HU Melek,4,0,"11,11,11,11|3,6,9,4",R16,GRAND_SLAM,WD,52,Main Draw,KIM Kyungah (KOR) / PARK Miyoung (KOR),HE Sirin (TUR) / HU Melek (TUR)
-Pro Tour Qatar Open Doha 2010,2010-02-17,KUMARESAN Shamini/PATKAR Madhurika,HAPONOVA Hanna/BILENKO Tetyana,3,2,"11,11,7,7,11|9,9,11,11,9",QR32,GRAND_SLAM,WD,52,Qualification,KUMARESAN Shamini (IND) / PATKAR Madhurika (IND),HAPONOVA Hanna (UKR) / BILENKO Tetyana (UKR)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Pro Tour Qatar Open Doha 2010,2010-02-17,MA Long,BOBOCICA Mihai,4,1,"9,11,11,11,11|11,5,9,5,6",R64,GRAND_SLAM,MS,52,Main Draw,MA Long (CHN),BOBOCICA Mihai (ITA),MA Long
+Pro Tour Qatar Open Doha 2010,2010-02-17,CRISAN Adrian,KORBEL Petr,4,3,"6,11,7,11,9,11,11|11,6,11,4,11,7,7",R64,GRAND_SLAM,MS,52,Main Draw,CRISAN Adrian (ROU),KORBEL Petr (CZE),CRISAN Adrian
+Pro Tour Qatar Open Doha 2010,2010-02-17,KUZMIN Fedor,JAKAB Janos,4,3,"5,11,12,9,11,9,11|11,7,10,11,6,11,4",R64,GRAND_SLAM,MS,52,Main Draw,KUZMIN Fedor (RUS),JAKAB Janos (HUN),KUZMIN Fedor
+Pro Tour Qatar Open Doha 2010,2010-02-17,CHUANG Chih-Yuan,YOSHIDA Masaki,4,0,"11,11,11,11|4,9,4,9",R64,GRAND_SLAM,MS,52,Main Draw,CHUANG Chih-Yuan (TPE),YOSHIDA Masaki (JPN),CHUANG Chih-Yuan
+Pro Tour Qatar Open Doha 2010,2010-02-17,PRIMORAC Zoran,TUGWELL Finn,4,2,"9,11,11,11,9,11|11,8,3,6,11,8",R64,GRAND_SLAM,MS,52,Main Draw,PRIMORAC Zoran (CRO),TUGWELL Finn (DEN),PRIMORAC Zoran
+Pro Tour Qatar Open Doha 2010,2010-02-17,MONTEIRO Joao,CHO Eonrae,4,1,"11,11,5,11,11|6,9,11,8,8",R64,GRAND_SLAM,MS,52,Main Draw,MONTEIRO Joao (POR),CHO Eonrae (KOR),MONTEIRO Joao
+Pro Tour Qatar Open Doha 2010,2010-02-17,SUCH Bartosz,BAUM Patrick,4,2,"11,4,11,7,11,14|7,11,6,11,9,12",R64,GRAND_SLAM,MS,52,Main Draw,SUCH Bartosz (POL),BAUM Patrick (GER),SUCH Bartosz
+Pro Tour Qatar Open Doha 2010,2010-02-17,JOO Saehyuk,GACINA Andrej,4,0,"11,11,11,11|4,7,7,6",R64,GRAND_SLAM,MS,52,Main Draw,JOO Saehyuk (KOR),GACINA Andrej (CRO),JOO Saehyuk
+Pro Tour Qatar Open Doha 2010,2010-02-17,OVTCHAROV Dimitrij,KASAHARA Hiromitsu,4,2,"5,9,11,11,11,11|11,11,5,9,3,5",R64,GRAND_SLAM,MS,52,Main Draw,OVTCHAROV Dimitrij (GER),KASAHARA Hiromitsu (JPN),OVTCHAROV Dimitrij
+Pro Tour Qatar Open Doha 2010,2010-02-17,SUSS Christian,LAKEEV Vasily,4,2,"10,12,8,14,12,11|12,10,11,12,10,7",R64,GRAND_SLAM,MS,52,Main Draw,SUSS Christian (GER),LAKEEV Vasily (RUS),SUSS Christian
+Pro Tour Qatar Open Doha 2010,2010-02-17,KIM Junghoon,LIVENTSOV Alexey,4,1,"11,11,11,10,11|9,9,9,12,1",R64,GRAND_SLAM,MS,52,Main Draw,KIM Junghoon (KOR),LIVENTSOV Alexey (RUS),KIM Junghoon
+Pro Tour Qatar Open Doha 2010,2010-02-17,TANG Peng,JEOUNG Youngsik,4,2,"11,11,11,8,10,11|9,6,6,11,12,8",R64,GRAND_SLAM,MS,52,Main Draw,TANG Peng (HKG),JEOUNG Youngsik (KOR),TANG Peng
+Pro Tour Qatar Open Doha 2010,2010-02-17,OH Sangeun,KONECNY Tomas,4,0,"11,11,11,11|4,4,3,3",R64,GRAND_SLAM,MS,52,Main Draw,OH Sangeun (KOR),KONECNY Tomas (CZE),OH Sangeun
+Pro Tour Qatar Open Doha 2010,2010-02-17,YOON Jaeyoung,SKACHKOV Kirill,4,3,"12,11,12,11,5,9,12|14,9,10,3,11,11,10",R64,GRAND_SLAM,MS,52,Main Draw,YOON Jaeyoung (KOR),SKACHKOV Kirill (RUS),YOON Jaeyoung
+Pro Tour Qatar Open Doha 2010,2010-02-17,JIANG Tianyi,SAIVE Jean-Michel,4,2,"11,11,3,12,12,13|6,8,11,10,14,11",R64,GRAND_SLAM,MS,52,Main Draw,JIANG Tianyi (HKG),SAIVE Jean-Michel (BEL),JIANG Tianyi
+Pro Tour Qatar Open Doha 2010,2010-02-17,WANG Liqin,WANG Zengyi,4,0,"11,11,11,11|7,7,4,8",R64,GRAND_SLAM,MS,52,Main Draw,WANG Liqin (CHN),WANG Zengyi (POL),WANG Liqin
+Pro Tour Qatar Open Doha 2010,2010-02-17,MA Lin,MATTENET Adrien,4,0,"11,11,11,12|3,6,3,10",R64,GRAND_SLAM,MS,52,Main Draw,MA Lin (CHN),MATTENET Adrien (FRA),MA Lin
+Pro Tour Qatar Open Doha 2010,2010-02-17,VLASOV Grigory,GAO Ning,4,2,"11,10,8,11,11,11|7,12,11,7,5,6",R64,GRAND_SLAM,MS,52,Main Draw,VLASOV Grigory (RUS),GAO Ning (SGP),VLASOV Grigory
+Pro Tour Qatar Open Doha 2010,2010-02-17,SMIRNOV Alexey,GERELL Par,4,3,"11,16,9,12,11,7,11|13,14,11,10,3,11,6",R64,GRAND_SLAM,MS,52,Main Draw,SMIRNOV Alexey (RUS),GERELL Par (SWE),SMIRNOV Alexey
+Pro Tour Qatar Open Doha 2010,2010-02-17,ACHANTA Sharath,CHEN Weixing,4,2,"11,11,11,5,9,11|5,8,3,11,11,7",R64,GRAND_SLAM,MS,52,Main Draw,ACHANTA Sharath (IND),CHEN Weixing (AUT),ACHANTA Sharath
+Pro Tour Qatar Open Doha 2010,2010-02-17,YOSHIDA Kaii,KEINATH Thomas,4,1,"7,11,11,11,11|11,4,1,7,6",R64,GRAND_SLAM,MS,52,Main Draw,YOSHIDA Kaii (JPN),KEINATH Thomas (SVK),YOSHIDA Kaii
+Pro Tour Qatar Open Doha 2010,2010-02-17,LUNDQVIST Jens,FILUS Ruwen,4,0,"11,11,11,11|8,6,5,8",R64,GRAND_SLAM,MS,52,Main Draw,LUNDQVIST Jens (SWE),FILUS Ruwen (GER),LUNDQVIST Jens
+Pro Tour Qatar Open Doha 2010,2010-02-17,GARDOS Robert,TORIOLA Segun,4,2,"6,11,11,11,11,11|11,4,13,5,7,8",R64,GRAND_SLAM,MS,52,Main Draw,GARDOS Robert (AUT),TORIOLA Segun (NGR),GARDOS Robert
+Pro Tour Qatar Open Doha 2010,2010-02-17,ZHANG Jike,YANG Zi,4,0,"11,11,11,11|6,3,8,5",R64,GRAND_SLAM,MS,52,Main Draw,ZHANG Jike (CHN),YANG Zi (SGP),ZHANG Jike
+Pro Tour Qatar Open Doha 2010,2010-02-17,MIZUTANI Jun,TREGLER Tomas,4,1,"11,11,11,10,11|3,9,6,12,4",R64,GRAND_SLAM,MS,52,Main Draw,MIZUTANI Jun (JPN),TREGLER Tomas (CZE),MIZUTANI Jun
+Pro Tour Qatar Open Doha 2010,2010-02-17,LEE Jungwoo,PROKOPCOV Dmitrij,4,3,"11,11,10,11,6,13,11|13,7,12,6,11,11,6",R64,GRAND_SLAM,MS,52,Main Draw,LEE Jungwoo (KOR),PROKOPCOV Dmitrij (CZE),LEE Jungwoo
+Pro Tour Qatar Open Doha 2010,2010-02-17,FEJER-KONNERTH Zoltan,KISHIKAWA Seiya,4,3,"11,8,12,9,11,11,11|3,11,10,11,13,9,3",R64,GRAND_SLAM,MS,52,Main Draw,FEJER-KONNERTH Zoltan (GER),KISHIKAWA Seiya (JPN),FEJER-KONNERTH Zoltan
+Pro Tour Qatar Open Doha 2010,2010-02-17,SEO Hyundeok,XU Xin,4,1,"11,11,11,9,11|9,9,2,11,7",R64,GRAND_SLAM,MS,52,Main Draw,SEO Hyundeok (KOR),XU Xin (CHN),SEO Hyundeok
+Pro Tour Qatar Open Doha 2010,2010-02-17,RYU Seungmin,FREITAS Marcos,4,1,"15,11,11,11,11|13,13,9,6,6",R64,GRAND_SLAM,MS,52,Main Draw,RYU Seungmin (KOR),FREITAS Marcos (POR),RYU Seungmin
+Pro Tour Qatar Open Doha 2010,2010-02-17,STEGER Bastian,GAVLAS Antonin,4,3,"10,11,7,11,9,11,11|12,4,11,9,11,5,9",R64,GRAND_SLAM,MS,52,Main Draw,STEGER Bastian (GER),GAVLAS Antonin (CZE),STEGER Bastian
+Pro Tour Qatar Open Doha 2010,2010-02-17,RUBTSOV Igor,MATSUDAIRA Kenta,4,0,"11,11,11,12|7,6,9,10",R64,GRAND_SLAM,MS,52,Main Draw,RUBTSOV Igor (RUS),MATSUDAIRA Kenta (JPN),RUBTSOV Igor
+Pro Tour Qatar Open Doha 2010,2010-02-17,WANG Hao,CHAN Kazuhiro,4,0,"18,11,11,11|16,8,9,8",R64,GRAND_SLAM,MS,52,Main Draw,WANG Hao (CHN),CHAN Kazuhiro (JPN),WANG Hao
+Pro Tour Qatar Open Doha 2010,2010-02-17,MA Long,CRISAN Adrian,4,0,"11,11,11,11|4,4,4,1",R32,GRAND_SLAM,MS,52,Main Draw,MA Long (CHN),CRISAN Adrian (ROU),MA Long
+Pro Tour Qatar Open Doha 2010,2010-02-17,CHUANG Chih-Yuan,KUZMIN Fedor,4,2,"11,12,8,11,13,11|3,10,11,3,15,6",R32,GRAND_SLAM,MS,52,Main Draw,CHUANG Chih-Yuan (TPE),KUZMIN Fedor (RUS),CHUANG Chih-Yuan
+Pro Tour Qatar Open Doha 2010,2010-02-17,MONTEIRO Joao,PRIMORAC Zoran,4,2,"11,16,11,5,11,11|13,14,6,11,3,9",R32,GRAND_SLAM,MS,52,Main Draw,MONTEIRO Joao (POR),PRIMORAC Zoran (CRO),MONTEIRO Joao
+Pro Tour Qatar Open Doha 2010,2010-02-17,JOO Saehyuk,SUCH Bartosz,4,3,"8,11,11,8,11,8,11|11,3,5,11,6,11,5",R32,GRAND_SLAM,MS,52,Main Draw,JOO Saehyuk (KOR),SUCH Bartosz (POL),JOO Saehyuk
+Pro Tour Qatar Open Doha 2010,2010-02-17,SUSS Christian,OVTCHAROV Dimitrij,4,2,"11,12,2,11,11,13|8,14,11,8,4,11",R32,GRAND_SLAM,MS,52,Main Draw,SUSS Christian (GER),OVTCHAROV Dimitrij (GER),SUSS Christian
+Pro Tour Qatar Open Doha 2010,2010-02-17,TANG Peng,KIM Junghoon,4,2,"13,11,8,11,10,11|11,9,11,9,12,8",R32,GRAND_SLAM,MS,52,Main Draw,TANG Peng (HKG),KIM Junghoon (KOR),TANG Peng
+Pro Tour Qatar Open Doha 2010,2010-02-17,OH Sangeun,YOON Jaeyoung,4,3,"9,6,11,11,9,11,11|11,11,4,5,11,8,9",R32,GRAND_SLAM,MS,52,Main Draw,OH Sangeun (KOR),YOON Jaeyoung (KOR),OH Sangeun
+Pro Tour Qatar Open Doha 2010,2010-02-17,WANG Liqin,JIANG Tianyi,4,0,"11,11,11,11|8,6,5,8",R32,GRAND_SLAM,MS,52,Main Draw,WANG Liqin (CHN),JIANG Tianyi (HKG),WANG Liqin
+Pro Tour Qatar Open Doha 2010,2010-02-17,MA Lin,VLASOV Grigory,4,2,"11,11,11,12,7,11|13,6,5,10,11,7",R32,GRAND_SLAM,MS,52,Main Draw,MA Lin (CHN),VLASOV Grigory (RUS),MA Lin
+Pro Tour Qatar Open Doha 2010,2010-02-17,SMIRNOV Alexey,ACHANTA Sharath,4,1,"11,11,6,11,13|4,6,11,8,11",R32,GRAND_SLAM,MS,52,Main Draw,SMIRNOV Alexey (RUS),ACHANTA Sharath (IND),SMIRNOV Alexey
+Pro Tour Qatar Open Doha 2010,2010-02-17,LUNDQVIST Jens,YOSHIDA Kaii,4,2,"11,6,11,11,9,11|7,11,8,4,11,5",R32,GRAND_SLAM,MS,52,Main Draw,LUNDQVIST Jens (SWE),YOSHIDA Kaii (JPN),LUNDQVIST Jens
+Pro Tour Qatar Open Doha 2010,2010-02-17,ZHANG Jike,GARDOS Robert,4,0,"11,11,12,11|3,7,10,9",R32,GRAND_SLAM,MS,52,Main Draw,ZHANG Jike (CHN),GARDOS Robert (AUT),ZHANG Jike
+Pro Tour Qatar Open Doha 2010,2010-02-17,LEE Jungwoo,MIZUTANI Jun,4,3,"11,11,11,11,6,10,11|13,9,8,6,11,12,7",R32,GRAND_SLAM,MS,52,Main Draw,LEE Jungwoo (KOR),MIZUTANI Jun (JPN),LEE Jungwoo
+Pro Tour Qatar Open Doha 2010,2010-02-17,SEO Hyundeok,FEJER-KONNERTH Zoltan,4,2,"8,11,11,14,11,11|11,5,4,12,13,3",R32,GRAND_SLAM,MS,52,Main Draw,SEO Hyundeok (KOR),FEJER-KONNERTH Zoltan (GER),SEO Hyundeok
+Pro Tour Qatar Open Doha 2010,2010-02-17,RYU Seungmin,STEGER Bastian,4,0,"11,11,13,11|4,9,11,6",R32,GRAND_SLAM,MS,52,Main Draw,RYU Seungmin (KOR),STEGER Bastian (GER),RYU Seungmin
+Pro Tour Qatar Open Doha 2010,2010-02-17,WANG Hao,RUBTSOV Igor,4,1,"12,7,11,11,11|10,11,9,6,9",R32,GRAND_SLAM,MS,52,Main Draw,WANG Hao (CHN),RUBTSOV Igor (RUS),WANG Hao
+Pro Tour Qatar Open Doha 2010,2010-02-17,MA Long,CHUANG Chih-Yuan,4,1,"11,11,11,9,11|5,5,6,11,6",R16,GRAND_SLAM,MS,52,Main Draw,MA Long (CHN),CHUANG Chih-Yuan (TPE),MA Long
+Pro Tour Qatar Open Doha 2010,2010-02-17,JOO Saehyuk,MONTEIRO Joao,4,0,"11,11,11,12|9,8,8,10",R16,GRAND_SLAM,MS,52,Main Draw,JOO Saehyuk (KOR),MONTEIRO Joao (POR),JOO Saehyuk
+Pro Tour Qatar Open Doha 2010,2010-02-17,TANG Peng,SUSS Christian,4,1,"11,11,11,11,11|9,9,13,4,4",R16,GRAND_SLAM,MS,52,Main Draw,TANG Peng (HKG),SUSS Christian (GER),TANG Peng
+Pro Tour Qatar Open Doha 2010,2010-02-17,WANG Liqin,OH Sangeun,4,3,"9,7,11,11,11,11,11|11,11,8,4,9,13,6",R16,GRAND_SLAM,MS,52,Main Draw,WANG Liqin (CHN),OH Sangeun (KOR),WANG Liqin
+Pro Tour Qatar Open Doha 2010,2010-02-17,MA Lin,SMIRNOV Alexey,4,0,"11,11,11,11|6,9,5,5",R16,GRAND_SLAM,MS,52,Main Draw,MA Lin (CHN),SMIRNOV Alexey (RUS),MA Lin
+Pro Tour Qatar Open Doha 2010,2010-02-17,ZHANG Jike,LUNDQVIST Jens,4,2,"7,11,11,11,6,11|11,6,8,4,11,9",R16,GRAND_SLAM,MS,52,Main Draw,ZHANG Jike (CHN),LUNDQVIST Jens (SWE),ZHANG Jike
+Pro Tour Qatar Open Doha 2010,2010-02-17,LEE Jungwoo,SEO Hyundeok,4,2,"11,7,7,12,11,11|8,11,11,10,4,8",R16,GRAND_SLAM,MS,52,Main Draw,LEE Jungwoo (KOR),SEO Hyundeok (KOR),LEE Jungwoo
+Pro Tour Qatar Open Doha 2010,2010-02-17,RYU Seungmin,WANG Hao,4,2,"12,11,8,10,11,11|10,9,11,12,9,9",R16,GRAND_SLAM,MS,52,Main Draw,RYU Seungmin (KOR),WANG Hao (CHN),RYU Seungmin
+Pro Tour Qatar Open Doha 2010,2010-02-17,MA Long,JOO Saehyuk,4,1,"11,11,7,13,11|4,6,11,11,9",QF,GRAND_SLAM,MS,52,Main Draw,MA Long (CHN),JOO Saehyuk (KOR),MA Long
+Pro Tour Qatar Open Doha 2010,2010-02-17,WANG Liqin,TANG Peng,4,0,"11,11,11,11|8,4,6,6",QF,GRAND_SLAM,MS,52,Main Draw,WANG Liqin (CHN),TANG Peng (HKG),WANG Liqin
+Pro Tour Qatar Open Doha 2010,2010-02-17,ZHANG Jike,MA Lin,4,1,"11,3,11,11,11|6,11,9,8,9",QF,GRAND_SLAM,MS,52,Main Draw,ZHANG Jike (CHN),MA Lin (CHN),ZHANG Jike
+Pro Tour Qatar Open Doha 2010,2010-02-17,LEE Jungwoo,RYU Seungmin,4,3,"5,11,10,12,11,8,12|11,5,12,10,5,11,10",QF,GRAND_SLAM,MS,52,Main Draw,LEE Jungwoo (KOR),RYU Seungmin (KOR),LEE Jungwoo
+Pro Tour Qatar Open Doha 2010,2010-02-17,WANG Liqin,MA Long,4,2,"11,11,12,11,8,11|5,13,10,6,11,9",SF,GRAND_SLAM,MS,52,Main Draw,WANG Liqin (CHN),MA Long (CHN),WANG Liqin
+Pro Tour Qatar Open Doha 2010,2010-02-17,ZHANG Jike,LEE Jungwoo,4,0,"11,11,11,11|5,7,3,8",SF,GRAND_SLAM,MS,52,Main Draw,ZHANG Jike (CHN),LEE Jungwoo (KOR),ZHANG Jike
+Pro Tour Qatar Open Doha 2010,2010-02-17,WANG Liqin,ZHANG Jike,4,1,"11,10,11,11,11|7,12,8,5,9",F,GRAND_SLAM,MS,52,Main Draw,WANG Liqin (CHN),ZHANG Jike (CHN),WANG Liqin
+Pro Tour Qatar Open Doha 2010,2010-02-17,DRINKHALL Paul,AL-HASAN Salem,4,1,"11,8,11,11,11|6,11,7,4,7",R32,GRAND_SLAM,U21MS,52,Main Draw,DRINKHALL Paul (ENG),AL-HASAN Salem (KUW),DRINKHALL Paul
+Pro Tour Qatar Open Doha 2010,2010-02-17,OBESLO Michal,ELSOBKY Mohamed,4,2,"11,14,4,11,12,11|3,12,11,6,14,6",R32,GRAND_SLAM,U21MS,52,Main Draw,OBESLO Michal (CZE),ELSOBKY Mohamed (EGY),OBESLO Michal
+Pro Tour Qatar Open Doha 2010,2010-02-17,CHEN Chien-An,ALAMIYAN Noshad,4,2,"6,11,5,11,11,11|11,8,11,6,9,8",R32,GRAND_SLAM,U21MS,52,Main Draw,CHEN Chien-An (TPE),ALAMIYAN Noshad (IRI),CHEN Chien-An
+Pro Tour Qatar Open Doha 2010,2010-02-17,FLORITZ Philipp,SALIFOU Abdel-Kader,4,0,,R32,GRAND_SLAM,U21MS,52,Main Draw,FLORITZ Philipp (BUL),SALIFOU Abdel-Kader (BEN),FLORITZ Philipp
+Pro Tour Qatar Open Doha 2010,2010-02-17,LI Ahmet,KASAHARA Hiromitsu,4,2,"8,13,11,11,11,12|11,15,4,8,5,10",R32,GRAND_SLAM,U21MS,52,Main Draw,LI Ahmet (TUR),KASAHARA Hiromitsu (JPN),LI Ahmet
+Pro Tour Qatar Open Doha 2010,2010-02-17,FRANZISKA Patrick,STERNBERG Kasper,4,0,"11,11,11,11|9,7,3,8",R32,GRAND_SLAM,U21MS,52,Main Draw,FRANZISKA Patrick (GER),STERNBERG Kasper (DEN),FRANZISKA Patrick
+Pro Tour Qatar Open Doha 2010,2010-02-17,JEOUNG Youngsik,MORICZ Mate,4,0,"11,11,11,11|6,3,8,6",R32,GRAND_SLAM,U21MS,52,Main Draw,JEOUNG Youngsik (KOR),MORICZ Mate (HUN),JEOUNG Youngsik
+Pro Tour Qatar Open Doha 2010,2010-02-17,LEE Sang Su,YOSHIDA Masaki,4,1,"11,11,11,9,11|5,4,6,11,7",R32,GRAND_SLAM,U21MS,52,Main Draw,LEE Sang Su (KOR),YOSHIDA Masaki (JPN),LEE Sang Su
+Pro Tour Qatar Open Doha 2010,2010-02-17,ASSAR Omar,MA Liang,4,2,"11,8,11,11,5,11|8,11,6,5,11,8",R32,GRAND_SLAM,U21MS,52,Main Draw,ASSAR Omar (EGY),MA Liang (SGP),ASSAR Omar
+Pro Tour Qatar Open Doha 2010,2010-02-17,TREGLER Tomas,KIM Donghyun,4,2,"7,11,11,11,11,11|11,8,9,13,4,4",R32,GRAND_SLAM,U21MS,52,Main Draw,TREGLER Tomas (CZE),KIM Donghyun (KOR),TREGLER Tomas
+Pro Tour Qatar Open Doha 2010,2010-02-17,IONESCU Ovidiu,PANG Xue Jie,4,1,"6,13,13,11,11|11,11,11,3,2",R32,GRAND_SLAM,U21MS,52,Main Draw,IONESCU Ovidiu (ROU),PANG Xue Jie (SGP),IONESCU Ovidiu
+Pro Tour Qatar Open Doha 2010,2010-02-17,NIWA Koki,DESAI Harmeet,4,0,"15,11,11,11|13,5,7,4",R32,GRAND_SLAM,U21MS,52,Main Draw,NIWA Koki (JPN),DESAI Harmeet (IND),NIWA Koki
+Pro Tour Qatar Open Doha 2010,2010-02-17,KIM Minseok,SHETTY Sanil,4,1,"8,11,11,11,11|11,4,3,8,8",R32,GRAND_SLAM,U21MS,52,Main Draw,KIM Minseok (KOR),SHETTY Sanil (IND),KIM Minseok
+Pro Tour Qatar Open Doha 2010,2010-02-17,SHIBAEV Alexander,CHANG Shun-Hung,4,0,"11,11,11,11|3,8,5,9",R32,GRAND_SLAM,U21MS,52,Main Draw,SHIBAEV Alexander (RUS),CHANG Shun-Hung (TPE),SHIBAEV Alexander
+Pro Tour Qatar Open Doha 2010,2010-02-17,KOSIBA Daniel,MERZLIKIN Taras,4,3,"13,7,5,8,11,11,11|11,11,11,11,8,7,9",R32,GRAND_SLAM,U21MS,52,Main Draw,KOSIBA Daniel (HUN),MERZLIKIN Taras (RUS),KOSIBA Daniel
+Pro Tour Qatar Open Doha 2010,2010-02-17,SEO Hyundeok,GHOSH Soumyajit,4,0,"11,12,13,11|4,10,11,5",R32,GRAND_SLAM,U21MS,52,Main Draw,SEO Hyundeok (KOR),GHOSH Soumyajit (IND),SEO Hyundeok
+Pro Tour Qatar Open Doha 2010,2010-02-17,DRINKHALL Paul,OBESLO Michal,4,1,"11,7,11,13,11|6,11,9,11,6",R16,GRAND_SLAM,U21MS,52,Main Draw,DRINKHALL Paul (ENG),OBESLO Michal (CZE),DRINKHALL Paul
+Pro Tour Qatar Open Doha 2010,2010-02-17,FLORITZ Philipp,CHEN Chien-An,4,0,,R16,GRAND_SLAM,U21MS,52,Main Draw,FLORITZ Philipp (BUL),CHEN Chien-An (TPE),FLORITZ Philipp
+Pro Tour Qatar Open Doha 2010,2010-02-17,LI Ahmet,FRANZISKA Patrick,4,1,"11,11,11,9,15|2,8,8,11,13",R16,GRAND_SLAM,U21MS,52,Main Draw,LI Ahmet (TUR),FRANZISKA Patrick (GER),LI Ahmet
+Pro Tour Qatar Open Doha 2010,2010-02-17,JEOUNG Youngsik,LEE Sang Su,4,2,"11,9,11,9,11,11|6,11,3,11,9,7",R16,GRAND_SLAM,U21MS,52,Main Draw,JEOUNG Youngsik (KOR),LEE Sang Su (KOR),JEOUNG Youngsik
+Pro Tour Qatar Open Doha 2010,2010-02-17,TREGLER Tomas,ASSAR Omar,4,1,"13,11,12,7,11|11,7,10,11,8",R16,GRAND_SLAM,U21MS,52,Main Draw,TREGLER Tomas (CZE),ASSAR Omar (EGY),TREGLER Tomas
+Pro Tour Qatar Open Doha 2010,2010-02-17,NIWA Koki,IONESCU Ovidiu,4,1,"4,12,11,13,11|11,10,9,11,6",R16,GRAND_SLAM,U21MS,52,Main Draw,NIWA Koki (JPN),IONESCU Ovidiu (ROU),NIWA Koki
+Pro Tour Qatar Open Doha 2010,2010-02-17,KIM Minseok,SHIBAEV Alexander,4,2,"11,6,5,11,11,11|8,11,11,5,9,5",R16,GRAND_SLAM,U21MS,52,Main Draw,KIM Minseok (KOR),SHIBAEV Alexander (RUS),KIM Minseok
+Pro Tour Qatar Open Doha 2010,2010-02-17,SEO Hyundeok,KOSIBA Daniel,4,1,"8,11,11,11,11|11,7,8,5,4",R16,GRAND_SLAM,U21MS,52,Main Draw,SEO Hyundeok (KOR),KOSIBA Daniel (HUN),SEO Hyundeok
+Pro Tour Qatar Open Doha 2010,2010-02-17,DRINKHALL Paul,FLORITZ Philipp,4,1,"11,3,11,11,11|2,11,7,6,1",QF,GRAND_SLAM,U21MS,52,Main Draw,DRINKHALL Paul (ENG),FLORITZ Philipp (BUL),DRINKHALL Paul
+Pro Tour Qatar Open Doha 2010,2010-02-17,JEOUNG Youngsik,LI Ahmet,4,2,"11,8,10,15,11,11|8,11,12,13,6,9",QF,GRAND_SLAM,U21MS,52,Main Draw,JEOUNG Youngsik (KOR),LI Ahmet (TUR),JEOUNG Youngsik
+Pro Tour Qatar Open Doha 2010,2010-02-17,NIWA Koki,TREGLER Tomas,4,0,"11,11,11,11|9,9,7,4",QF,GRAND_SLAM,U21MS,52,Main Draw,NIWA Koki (JPN),TREGLER Tomas (CZE),NIWA Koki
+Pro Tour Qatar Open Doha 2010,2010-02-17,KIM Minseok,SEO Hyundeok,4,2,"11,9,11,11,6,11|6,11,4,9,11,7",QF,GRAND_SLAM,U21MS,52,Main Draw,KIM Minseok (KOR),SEO Hyundeok (KOR),KIM Minseok
+Pro Tour Qatar Open Doha 2010,2010-02-17,JEOUNG Youngsik,DRINKHALL Paul,4,2,"10,7,12,11,12,11|12,11,10,7,10,9",SF,GRAND_SLAM,U21MS,52,Main Draw,JEOUNG Youngsik (KOR),DRINKHALL Paul (ENG),JEOUNG Youngsik
+Pro Tour Qatar Open Doha 2010,2010-02-17,KIM Minseok,NIWA Koki,4,0,"11,11,11,11|8,8,8,8",SF,GRAND_SLAM,U21MS,52,Main Draw,KIM Minseok (KOR),NIWA Koki (JPN),KIM Minseok
+Pro Tour Qatar Open Doha 2010,2010-02-17,JEOUNG Youngsik,KIM Minseok,4,2,"11,11,8,13,5,11|7,9,11,11,11,8",F,GRAND_SLAM,U21MS,52,Main Draw,JEOUNG Youngsik (KOR),KIM Minseok (KOR),JEOUNG Youngsik
+Pro Tour Qatar Open Doha 2010,2010-02-17,LIVENTSOV Alexey,SVENSSON Robert,4,2,"6,11,11,11,8,11|11,7,9,5,11,1",QR8,GRAND_SLAM,MS,52,Qualification,LIVENTSOV Alexey (RUS),SVENSSON Robert (SWE),LIVENTSOV Alexey
+Pro Tour Qatar Open Doha 2010,2010-02-17,FILUS Ruwen,DRINKHALL Paul,4,3,"11,7,13,6,9,11,11|9,11,11,11,11,6,5",QR8,GRAND_SLAM,MS,52,Qualification,FILUS Ruwen (GER),DRINKHALL Paul (ENG),FILUS Ruwen
+Pro Tour Qatar Open Doha 2010,2010-02-17,SEO Hyundeok,MATSUDAIRA Kenji,4,0,"11,11,11,13|8,7,9,11",QR8,GRAND_SLAM,MS,52,Qualification,SEO Hyundeok (KOR),MATSUDAIRA Kenji (JPN),SEO Hyundeok
+Pro Tour Qatar Open Doha 2010,2010-02-17,IONESCU Ovidiu,CHAKRABORTY Sourav,4,2,"11,6,11,9,11,14|6,11,6,11,5,12",,GRAND_SLAM,MS,52,Qualification,IONESCU Ovidiu (ROU),CHAKRABORTY Sourav (IND),IONESCU Ovidiu
+Pro Tour Qatar Open Doha 2010,2010-02-17,GERELL Par,IONESCU Ovidiu,4,1,"6,11,11,12,11|11,5,3,10,7",,GRAND_SLAM,MS,52,Qualification,GERELL Par (SWE),IONESCU Ovidiu (ROU),GERELL Par
+Pro Tour Qatar Open Doha 2010,2010-02-17,GERELL Par,CHAKRABORTY Sourav,4,0,"11,11,11,11|6,5,3,6",,GRAND_SLAM,MS,52,Qualification,GERELL Par (SWE),CHAKRABORTY Sourav (IND),GERELL Par
+Pro Tour Qatar Open Doha 2010,2010-02-17,FRANZISKA Patrick,ANTHONY Amalraj,4,0,"11,12,11,14|7,10,9,12",,GRAND_SLAM,MS,52,Qualification,FRANZISKA Patrick (GER),ANTHONY Amalraj (IND),FRANZISKA Patrick
+Pro Tour Qatar Open Doha 2010,2010-02-17,SAIVE Jean-Michel,ANTHONY Amalraj,4,0,"11,12,11,11|8,10,9,4",,GRAND_SLAM,MS,52,Qualification,SAIVE Jean-Michel (BEL),ANTHONY Amalraj (IND),SAIVE Jean-Michel
+Pro Tour Qatar Open Doha 2010,2010-02-17,SAIVE Jean-Michel,FRANZISKA Patrick,4,1,"11,11,8,11,11|4,6,11,4,5",,GRAND_SLAM,MS,52,Qualification,SAIVE Jean-Michel (BEL),FRANZISKA Patrick (GER),SAIVE Jean-Michel
+Pro Tour Qatar Open Doha 2010,2010-02-17,TREGLER Tomas,AKHLAGHPASAND Mohammadreza,4,1,"13,6,11,11,12|11,11,3,8,10",,GRAND_SLAM,MS,52,Qualification,TREGLER Tomas (CZE),AKHLAGHPASAND Mohammadreza (USA),TREGLER Tomas
+Pro Tour Qatar Open Doha 2010,2010-02-17,TREGLER Tomas,APOLONIA Tiago,4,3,"8,6,16,11,11,2,13|11,11,14,4,5,11,11",,GRAND_SLAM,MS,52,Qualification,TREGLER Tomas (CZE),APOLONIA Tiago (POR),TREGLER Tomas
+Pro Tour Qatar Open Doha 2010,2010-02-17,APOLONIA Tiago,AKHLAGHPASAND Mohammadreza,4,0,"11,11,11,11|8,5,6,8",,GRAND_SLAM,MS,52,Qualification,APOLONIA Tiago (POR),AKHLAGHPASAND Mohammadreza (USA),APOLONIA Tiago
+Pro Tour Qatar Open Doha 2010,2010-02-17,AL-HASAN Ibrahem,OBESLO Michal,3,2,"11,7,12,9,11|9,11,10,11,9",,GRAND_SLAM,MS,52,Qualification,AL-HASAN Ibrahem (KUW),OBESLO Michal (CZE),AL-HASAN Ibrahem
+Pro Tour Qatar Open Doha 2010,2010-02-17,WANG Zengyi,OBESLO Michal,4,0,"11,11,11,11|4,6,7,2",,GRAND_SLAM,MS,52,Qualification,WANG Zengyi (POL),OBESLO Michal (CZE),WANG Zengyi
+Pro Tour Qatar Open Doha 2010,2010-02-17,WANG Zengyi,AL-HASAN Ibrahem,4,2,"7,11,11,11,8,11|11,7,6,6,11,7",,GRAND_SLAM,MS,52,Qualification,WANG Zengyi (POL),AL-HASAN Ibrahem (KUW),WANG Zengyi
+Pro Tour Qatar Open Doha 2010,2010-02-17,GLADYSHEV Mikhail,STERNBERG Kasper,4,3,"11,11,11,8,7,8,11|8,5,9,11,11,11,6",,GRAND_SLAM,MS,52,Qualification,GLADYSHEV Mikhail (RUS),STERNBERG Kasper (DEN),GLADYSHEV Mikhail
+Pro Tour Qatar Open Doha 2010,2010-02-17,GACINA Andrej,STERNBERG Kasper,4,2,"8,11,11,7,11,11|11,8,5,11,6,3",,GRAND_SLAM,MS,52,Qualification,GACINA Andrej (CRO),STERNBERG Kasper (DEN),GACINA Andrej
+Pro Tour Qatar Open Doha 2010,2010-02-17,GACINA Andrej,GLADYSHEV Mikhail,4,0,"11,11,11,12|8,7,8,10",,GRAND_SLAM,MS,52,Qualification,GACINA Andrej (CRO),GLADYSHEV Mikhail (RUS),GACINA Andrej
+Pro Tour Qatar Open Doha 2010,2010-02-17,KOSIBA Daniel,PLATONOV Pavel,4,3,"13,10,9,9,11,11,11|11,12,11,11,4,8,9",,GRAND_SLAM,MS,52,Qualification,KOSIBA Daniel (HUN),PLATONOV Pavel (BLR),KOSIBA Daniel
+Pro Tour Qatar Open Doha 2010,2010-02-17,YANG Zi,PLATONOV Pavel,4,1,"11,11,11,9,11|9,9,7,11,5",,GRAND_SLAM,MS,52,Qualification,YANG Zi (SGP),PLATONOV Pavel (BLR),YANG Zi
+Pro Tour Qatar Open Doha 2010,2010-02-17,YANG Zi,KOSIBA Daniel,4,0,,,GRAND_SLAM,MS,52,Qualification,YANG Zi (SGP),KOSIBA Daniel (HUN),YANG Zi
+Pro Tour Qatar Open Doha 2010,2010-02-17,MOSELHY Emad,AHADI Mehran,4,2,"4,11,4,11,11,11|11,9,11,5,7,5",,GRAND_SLAM,MS,52,Qualification,MOSELHY Emad (EGY),AHADI Mehran (IRI),MOSELHY Emad
+Pro Tour Qatar Open Doha 2010,2010-02-17,KORBEL Petr,AHADI Mehran,4,0,"13,11,11,12|11,7,7,10",,GRAND_SLAM,MS,52,Qualification,KORBEL Petr (CZE),AHADI Mehran (IRI),KORBEL Petr
+Pro Tour Qatar Open Doha 2010,2010-02-17,KORBEL Petr,MOSELHY Emad,4,0,"11,11,12,11|7,6,10,6",,GRAND_SLAM,MS,52,Qualification,KORBEL Petr (CZE),MOSELHY Emad (EGY),KORBEL Petr
+Pro Tour Qatar Open Doha 2010,2010-02-17,ALAMIYAN Noshad,ARUNA Quadri,4,1,"11,14,2,11,11|9,12,11,8,9",,GRAND_SLAM,MS,52,Qualification,ALAMIYAN Noshad (IRI),ARUNA Quadri (NGR),ALAMIYAN Noshad
+Pro Tour Qatar Open Doha 2010,2010-02-17,RUBTSOV Igor,ALAMIYAN Noshad,4,2,"11,9,11,8,11,12|9,11,9,11,5,10",,GRAND_SLAM,MS,52,Qualification,RUBTSOV Igor (RUS),ALAMIYAN Noshad (IRI),RUBTSOV Igor
+Pro Tour Qatar Open Doha 2010,2010-02-17,RUBTSOV Igor,ARUNA Quadri,4,1,"11,11,11,7,11|4,6,6,11,7",,GRAND_SLAM,MS,52,Qualification,RUBTSOV Igor (RUS),ARUNA Quadri (NGR),RUBTSOV Igor
+Pro Tour Qatar Open Doha 2010,2010-02-17,STETSENKO Alexander,ROY Soumyadeep,4,3,"11,7,11,7,9,11,11|8,11,9,11,11,7,7",,GRAND_SLAM,MS,52,Qualification,STETSENKO Alexander (RUS),ROY Soumyadeep (IND),STETSENKO Alexander
+Pro Tour Qatar Open Doha 2010,2010-02-17,KEINATH Thomas,STETSENKO Alexander,4,1,"11,11,11,12,17|7,4,9,14,15",,GRAND_SLAM,MS,52,Qualification,KEINATH Thomas (SVK),STETSENKO Alexander (RUS),KEINATH Thomas
+Pro Tour Qatar Open Doha 2010,2010-02-17,KEINATH Thomas,ROY Soumyadeep,4,2,"12,9,7,11,11,11|10,11,11,9,5,9",,GRAND_SLAM,MS,52,Qualification,KEINATH Thomas (SVK),ROY Soumyadeep (IND),KEINATH Thomas
+Pro Tour Qatar Open Doha 2010,2010-02-17,ASSAR Omar,SAHA Subhajit,4,0,"11,11,11,11|9,8,6,2",,GRAND_SLAM,MS,52,Qualification,ASSAR Omar (EGY),SAHA Subhajit (IND),ASSAR Omar
+Pro Tour Qatar Open Doha 2010,2010-02-17,CHO Eonrae,ASSAR Omar,4,0,"11,11,11,11|7,6,6,8",,GRAND_SLAM,MS,52,Qualification,CHO Eonrae (KOR),ASSAR Omar (EGY),CHO Eonrae
+Pro Tour Qatar Open Doha 2010,2010-02-17,CHO Eonrae,SAHA Subhajit,4,2,"8,11,11,3,11,11|11,9,2,11,3,2",,GRAND_SLAM,MS,52,Qualification,CHO Eonrae (KOR),SAHA Subhajit (IND),CHO Eonrae
+Pro Tour Qatar Open Doha 2010,2010-02-17,BUROV Viacheslav,KUCHUK Aleksandr,4,2,"7,11,8,11,11,11|11,9,11,5,5,9",,GRAND_SLAM,MS,52,Qualification,BUROV Viacheslav (RUS),KUCHUK Aleksandr (BLR),BUROV Viacheslav
+Pro Tour Qatar Open Doha 2010,2010-02-17,ACHANTA Sharath,KUCHUK Aleksandr,4,1,"6,11,11,11,12|11,6,8,1,10",,GRAND_SLAM,MS,52,Qualification,ACHANTA Sharath (IND),KUCHUK Aleksandr (BLR),ACHANTA Sharath
+Pro Tour Qatar Open Doha 2010,2010-02-17,ACHANTA Sharath,BUROV Viacheslav,4,3,"14,8,10,11,9,11,11|12,11,12,9,11,9,9",,GRAND_SLAM,MS,52,Qualification,ACHANTA Sharath (IND),BUROV Viacheslav (RUS),ACHANTA Sharath
+Pro Tour Qatar Open Doha 2010,2010-02-17,CHEN Chien-An,NOROOZI Afshin,4,1,"12,11,8,11,15|10,7,11,9,13",,GRAND_SLAM,MS,52,Qualification,CHEN Chien-An (TPE),NOROOZI Afshin (IRI),CHEN Chien-An
+Pro Tour Qatar Open Doha 2010,2010-02-17,FEJER-KONNERTH Zoltan,NOROOZI Afshin,4,3,"8,12,11,5,11,9,11|11,10,8,11,9,11,5",,GRAND_SLAM,MS,52,Qualification,FEJER-KONNERTH Zoltan (GER),NOROOZI Afshin (IRI),FEJER-KONNERTH Zoltan
+Pro Tour Qatar Open Doha 2010,2010-02-17,FEJER-KONNERTH Zoltan,CHEN Chien-An,4,1,"12,11,11,15,11|14,9,8,13,5",,GRAND_SLAM,MS,52,Qualification,FEJER-KONNERTH Zoltan (GER),CHEN Chien-An (TPE),FEJER-KONNERTH Zoltan
+Pro Tour Qatar Open Doha 2010,2010-02-17,SHIBAEV Alexander,NADIM Ahmed,4,0,"11,11,11,11|6,6,7,6",,GRAND_SLAM,MS,52,Qualification,SHIBAEV Alexander (RUS),NADIM Ahmed (EGY),SHIBAEV Alexander
+Pro Tour Qatar Open Doha 2010,2010-02-17,BOBOCICA Mihai,NADIM Ahmed,4,1,"11,13,11,7,11|8,11,8,11,8",,GRAND_SLAM,MS,52,Qualification,BOBOCICA Mihai (ITA),NADIM Ahmed (EGY),BOBOCICA Mihai
+Pro Tour Qatar Open Doha 2010,2010-02-17,BOBOCICA Mihai,SHIBAEV Alexander,4,1,"11,8,11,11,11|8,11,9,5,5",,GRAND_SLAM,MS,52,Qualification,BOBOCICA Mihai (ITA),SHIBAEV Alexander (RUS),BOBOCICA Mihai
+Pro Tour Qatar Open Doha 2010,2010-02-17,BRATCHENKO Sergei,GOLOVANOV Stanislav,4,2,"9,11,11,12,11,11|11,13,8,10,8,7",,GRAND_SLAM,MS,52,Qualification,BRATCHENKO Sergei (RUS),GOLOVANOV Stanislav (BUL),BRATCHENKO Sergei
+Pro Tour Qatar Open Doha 2010,2010-02-17,TORIOLA Segun,BRATCHENKO Sergei,4,0,"11,11,11,11|9,4,8,7",,GRAND_SLAM,MS,52,Qualification,TORIOLA Segun (NGR),BRATCHENKO Sergei (RUS),TORIOLA Segun
+Pro Tour Qatar Open Doha 2010,2010-02-17,GOLOVANOV Stanislav,TORIOLA Segun,4,3,"7,5,11,10,11,11,11|11,11,8,12,5,7,9",,GRAND_SLAM,MS,52,Qualification,GOLOVANOV Stanislav (BUL),TORIOLA Segun (NGR),GOLOVANOV Stanislav
+Pro Tour Qatar Open Doha 2010,2010-02-17,MENGEL Steffen,ELBEIALI Mohamed,4,2,"11,7,11,11,9,11|5,11,6,7,11,6",,GRAND_SLAM,MS,52,Qualification,MENGEL Steffen (GER),ELBEIALI Mohamed (EGY),MENGEL Steffen
+Pro Tour Qatar Open Doha 2010,2010-02-17,JAKAB Janos,ELBEIALI Mohamed,4,0,"11,12,11,11|6,10,5,2",,GRAND_SLAM,MS,52,Qualification,JAKAB Janos (HUN),ELBEIALI Mohamed (EGY),JAKAB Janos
+Pro Tour Qatar Open Doha 2010,2010-02-17,JAKAB Janos,MENGEL Steffen,4,1,"11,11,9,11,11|5,9,11,4,5",,GRAND_SLAM,MS,52,Qualification,JAKAB Janos (HUN),MENGEL Steffen (GER),JAKAB Janos
+Pro Tour Qatar Open Doha 2010,2010-02-17,JEOUNG Youngsik,FLORITZ Philipp,4,1,"6,11,11,11,13|11,4,8,7,11",,GRAND_SLAM,MS,52,Qualification,JEOUNG Youngsik (KOR),FLORITZ Philipp (BUL),JEOUNG Youngsik
+Pro Tour Qatar Open Doha 2010,2010-02-17,KOSOWSKI Jakub,FLORITZ Philipp,4,1,"9,11,11,11,11|11,7,9,6,8",,GRAND_SLAM,MS,52,Qualification,KOSOWSKI Jakub (POL),FLORITZ Philipp (BUL),KOSOWSKI Jakub
+Pro Tour Qatar Open Doha 2010,2010-02-17,JEOUNG Youngsik,KOSOWSKI Jakub,4,1,"11,6,11,11,11|9,11,4,5,7",,GRAND_SLAM,MS,52,Qualification,JEOUNG Youngsik (KOR),KOSOWSKI Jakub (POL),JEOUNG Youngsik
+Pro Tour Qatar Open Doha 2010,2010-02-17,KASAHARA Hiromitsu,KIM Donghyun,4,0,"11,11,11,11|6,5,5,7",,GRAND_SLAM,MS,52,Qualification,KASAHARA Hiromitsu (JPN),KIM Donghyun (KOR),KASAHARA Hiromitsu
+Pro Tour Qatar Open Doha 2010,2010-02-17,KIM Donghyun,TOSIC Roko,4,1,"11,11,11,6,11|7,7,5,11,8",,GRAND_SLAM,MS,52,Qualification,KIM Donghyun (KOR),TOSIC Roko (CRO),KIM Donghyun
+Pro Tour Qatar Open Doha 2010,2010-02-17,KASAHARA Hiromitsu,TOSIC Roko,4,0,,,GRAND_SLAM,MS,52,Qualification,KASAHARA Hiromitsu (JPN),TOSIC Roko (CRO),KASAHARA Hiromitsu
+Pro Tour Qatar Open Doha 2010,2010-02-17,GHOSH Soumyajit,FEGERL Stefan,4,0,"12,11,11,11|10,8,9,4",,GRAND_SLAM,MS,52,Qualification,GHOSH Soumyajit (IND),FEGERL Stefan (AUT),GHOSH Soumyajit
+Pro Tour Qatar Open Doha 2010,2010-02-17,MATTENET Adrien,GHOSH Soumyajit,4,0,"11,11,11,11|6,9,3,5",,GRAND_SLAM,MS,52,Qualification,MATTENET Adrien (FRA),GHOSH Soumyajit (IND),MATTENET Adrien
+Pro Tour Qatar Open Doha 2010,2010-02-17,MATTENET Adrien,FEGERL Stefan,4,2,"5,11,7,11,11,11|11,9,11,9,8,4",,GRAND_SLAM,MS,52,Qualification,MATTENET Adrien (FRA),FEGERL Stefan (AUT),MATTENET Adrien
+Pro Tour Qatar Open Doha 2010,2010-02-17,LAKEEV Vasily,KUMAR Jubin,4,1,"6,11,11,11,11|11,3,2,6,3",,GRAND_SLAM,MS,52,Qualification,LAKEEV Vasily (RUS),KUMAR Jubin (IND),LAKEEV Vasily
+Pro Tour Qatar Open Doha 2010,2010-02-17,CHTCHETININE Evgueni,KUMAR Jubin,4,0,"11,11,11,11|5,3,9,6",,GRAND_SLAM,MS,52,Qualification,CHTCHETININE Evgueni (BLR),KUMAR Jubin (IND),CHTCHETININE Evgueni
+Pro Tour Qatar Open Doha 2010,2010-02-17,LAKEEV Vasily,CHTCHETININE Evgueni,4,2,"13,9,12,8,11,11|11,11,10,11,7,8",,GRAND_SLAM,MS,52,Qualification,LAKEEV Vasily (RUS),CHTCHETININE Evgueni (BLR),LAKEEV Vasily
+Pro Tour Qatar Open Doha 2010,2010-02-17,LIU Zhongze,CHANG Shun-Hung,4,0,"11,11,11,11|4,5,5,5",,GRAND_SLAM,MS,52,Qualification,LIU Zhongze (SGP),CHANG Shun-Hung (TPE),LIU Zhongze
+Pro Tour Qatar Open Doha 2010,2010-02-17,FREITAS Marcos,CHANG Shun-Hung,4,1,"11,11,9,11,11|5,8,11,9,7",,GRAND_SLAM,MS,52,Qualification,FREITAS Marcos (POR),CHANG Shun-Hung (TPE),FREITAS Marcos
+Pro Tour Qatar Open Doha 2010,2010-02-17,FREITAS Marcos,LIU Zhongze,4,2,"3,11,11,11,5,12|11,8,6,3,11,10",,GRAND_SLAM,MS,52,Qualification,FREITAS Marcos (POR),LIU Zhongze (SGP),FREITAS Marcos
+Pro Tour Qatar Open Doha 2010,2010-02-17,VLASOV Grigory,PANG Xue Jie,4,2,"8,11,9,11,11,11|11,5,11,8,6,9",,GRAND_SLAM,MS,52,Qualification,VLASOV Grigory (RUS),PANG Xue Jie (SGP),VLASOV Grigory
+Pro Tour Qatar Open Doha 2010,2010-02-17,HIELSCHER Lars,PANG Xue Jie,4,0,"11,11,11,11|3,8,9,6",,GRAND_SLAM,MS,52,Qualification,HIELSCHER Lars (GER),PANG Xue Jie (SGP),HIELSCHER Lars
+Pro Tour Qatar Open Doha 2010,2010-02-17,VLASOV Grigory,HIELSCHER Lars,4,3,"11,7,14,11,6,11,11|9,11,16,8,11,5,6",,GRAND_SLAM,MS,52,Qualification,VLASOV Grigory (RUS),HIELSCHER Lars (GER),VLASOV Grigory
+Pro Tour Qatar Open Doha 2010,2010-02-17,FENG Xiaoquan,SHETTY Sanil,4,0,,,GRAND_SLAM,MS,52,Qualification,FENG Xiaoquan (AUT),SHETTY Sanil (IND),FENG Xiaoquan
+Pro Tour Qatar Open Doha 2010,2010-02-17,TUGWELL Finn,SHETTY Sanil,4,0,"11,11,11,11|6,5,4,3",,GRAND_SLAM,MS,52,Qualification,TUGWELL Finn (DEN),SHETTY Sanil (IND),TUGWELL Finn
+Pro Tour Qatar Open Doha 2010,2010-02-17,TUGWELL Finn,FENG Xiaoquan,4,2,"11,11,10,6,11,13|8,8,12,11,7,11",,GRAND_SLAM,MS,52,Qualification,TUGWELL Finn (DEN),FENG Xiaoquan (AUT),TUGWELL Finn
+Pro Tour Qatar Open Doha 2010,2010-02-17,NIWA Koki,ELSOBKY Mohamed,4,1,"11,14,11,7,11|4,12,6,11,5",,GRAND_SLAM,MS,52,Qualification,NIWA Koki (JPN),ELSOBKY Mohamed (EGY),NIWA Koki
+Pro Tour Qatar Open Doha 2010,2010-02-17,SKACHKOV Kirill,ELSOBKY Mohamed,4,1,"11,11,12,9,11|5,4,10,11,4",,GRAND_SLAM,MS,52,Qualification,SKACHKOV Kirill (RUS),ELSOBKY Mohamed (EGY),SKACHKOV Kirill
+Pro Tour Qatar Open Doha 2010,2010-02-17,SKACHKOV Kirill,NIWA Koki,4,2,"11,5,11,9,11,11|6,11,7,11,9,6",,GRAND_SLAM,MS,52,Qualification,SKACHKOV Kirill (RUS),NIWA Koki (JPN),SKACHKOV Kirill
+Pro Tour Qatar Open Doha 2010,2010-02-17,ZHMUDENKO Yaroslav,MERZLIKIN Taras,4,2,"11,11,11,7,9,13|6,8,6,11,11,11",,GRAND_SLAM,MS,52,Qualification,ZHMUDENKO Yaroslav (UKR),MERZLIKIN Taras (RUS),ZHMUDENKO Yaroslav
+Pro Tour Qatar Open Doha 2010,2010-02-17,PROKOPCOV Dmitrij,MERZLIKIN Taras,4,2,"13,9,11,9,11,11|11,11,2,11,8,3",,GRAND_SLAM,MS,52,Qualification,PROKOPCOV Dmitrij (CZE),MERZLIKIN Taras (RUS),PROKOPCOV Dmitrij
+Pro Tour Qatar Open Doha 2010,2010-02-17,PROKOPCOV Dmitrij,ZHMUDENKO Yaroslav,4,2,"11,11,8,11,6,11|8,7,11,9,11,5",,GRAND_SLAM,MS,52,Qualification,PROKOPCOV Dmitrij (CZE),ZHMUDENKO Yaroslav (UKR),PROKOPCOV Dmitrij
+Pro Tour Qatar Open Doha 2010,2010-02-17,GAVLAS Antonin,ALHAJJAI Waled Nasser,4,0,"11,11,11,11|7,6,5,3",,GRAND_SLAM,MS,52,Qualification,GAVLAS Antonin (CZE),ALHAJJAI Waled Nasser (QAT),GAVLAS Antonin
+Pro Tour Qatar Open Doha 2010,2010-02-17,FILIMON Andrei,ALHAJJAI Waled Nasser,4,0,"11,11,11,11|4,3,6,7",,GRAND_SLAM,MS,52,Qualification,FILIMON Andrei (ROU),ALHAJJAI Waled Nasser (QAT),FILIMON Andrei
+Pro Tour Qatar Open Doha 2010,2010-02-17,GAVLAS Antonin,FILIMON Andrei,4,0,,,GRAND_SLAM,MS,52,Qualification,GAVLAS Antonin (CZE),FILIMON Andrei (ROU),GAVLAS Antonin
+Pro Tour Qatar Open Doha 2010,2010-02-17,CHAN Kazuhiro,BALGU Aman,4,0,"11,11,11,11|6,3,6,6",,GRAND_SLAM,MS,52,Qualification,CHAN Kazuhiro (JPN),BALGU Aman (IND),CHAN Kazuhiro
+Pro Tour Qatar Open Doha 2010,2010-02-17,SHMYREV Maxim,BALGU Aman,4,0,"11,11,11,16|3,8,6,14",,GRAND_SLAM,MS,52,Qualification,SHMYREV Maxim (RUS),BALGU Aman (IND),SHMYREV Maxim
+Pro Tour Qatar Open Doha 2010,2010-02-17,CHAN Kazuhiro,SHMYREV Maxim,4,0,"11,11,11,11|6,7,7,3",,GRAND_SLAM,MS,52,Qualification,CHAN Kazuhiro (JPN),SHMYREV Maxim (RUS),CHAN Kazuhiro
+Pro Tour Qatar Open Doha 2010,2010-02-17,KONECNY Tomas,DESAI Harmeet,4,0,"11,12,11,11|5,10,9,2",,GRAND_SLAM,MS,52,Qualification,KONECNY Tomas (CZE),DESAI Harmeet (IND),KONECNY Tomas
+Pro Tour Qatar Open Doha 2010,2010-02-17,LEBESSON Emmanuel,DESAI Harmeet,4,0,"11,11,14,11|6,8,12,8",,GRAND_SLAM,MS,52,Qualification,LEBESSON Emmanuel (FRA),DESAI Harmeet (IND),LEBESSON Emmanuel
+Pro Tour Qatar Open Doha 2010,2010-02-17,KONECNY Tomas,LEBESSON Emmanuel,4,2,"11,8,6,11,11,11|7,11,11,6,5,7",,GRAND_SLAM,MS,52,Qualification,KONECNY Tomas (CZE),LEBESSON Emmanuel (FRA),KONECNY Tomas
+Pro Tour Qatar Open Doha 2010,2010-02-17,YOSHIDA Masaki,SALIFOU Abdel-Kader,4,2,"11,11,11,8,7,11|4,9,6,11,11,4",,GRAND_SLAM,MS,52,Qualification,YOSHIDA Masaki (JPN),SALIFOU Abdel-Kader (BEN),YOSHIDA Masaki
+Pro Tour Qatar Open Doha 2010,2010-02-17,YOSHIDA Masaki,VANG Bora,4,1,"11,7,12,11,11|3,11,10,5,9",,GRAND_SLAM,MS,52,Qualification,YOSHIDA Masaki (JPN),VANG Bora (TUR),YOSHIDA Masaki
+Pro Tour Qatar Open Doha 2010,2010-02-17,VANG Bora,SALIFOU Abdel-Kader,4,0,,,GRAND_SLAM,MS,52,Qualification,VANG Bora (TUR),SALIFOU Abdel-Kader (BEN),VANG Bora
+Pro Tour Qatar Open Doha 2010,2010-02-17,NEKHVEDOVICH Vitaly,AL-HASAN Salem,4,0,"11,11,11,11|8,4,3,8",,GRAND_SLAM,MS,52,Qualification,NEKHVEDOVICH Vitaly (BLR),AL-HASAN Salem (KUW),NEKHVEDOVICH Vitaly
+Pro Tour Qatar Open Doha 2010,2010-02-17,SUCH Bartosz,AL-HASAN Salem,4,1,"11,11,11,11,11|9,7,13,2,8",,GRAND_SLAM,MS,52,Qualification,SUCH Bartosz (POL),AL-HASAN Salem (KUW),SUCH Bartosz
+Pro Tour Qatar Open Doha 2010,2010-02-17,SUCH Bartosz,NEKHVEDOVICH Vitaly,4,0,"11,11,11,11|8,9,6,9",,GRAND_SLAM,MS,52,Qualification,SUCH Bartosz (POL),NEKHVEDOVICH Vitaly (BLR),SUCH Bartosz
+Pro Tour Qatar Open Doha 2010,2010-02-17,HUANG Sheng-Sheng,ALAWLAQI Ahmed,4,1,"11,11,10,11,11|9,0,12,2,9",,GRAND_SLAM,MS,52,Qualification,HUANG Sheng-Sheng (TPE),ALAWLAQI Ahmed (QAT),HUANG Sheng-Sheng
+Pro Tour Qatar Open Doha 2010,2010-02-17,SVENSSON Robert,ALAWLAQI Ahmed,4,0,"11,11,11,11|6,8,6,9",,GRAND_SLAM,MS,52,Qualification,SVENSSON Robert (SWE),ALAWLAQI Ahmed (QAT),SVENSSON Robert
+Pro Tour Qatar Open Doha 2010,2010-02-17,SVENSSON Robert,HUANG Sheng-Sheng,4,2,"11,11,9,5,11,11|4,3,11,11,7,8",,GRAND_SLAM,MS,52,Qualification,SVENSSON Robert (SWE),HUANG Sheng-Sheng (TPE),SVENSSON Robert
+Pro Tour Qatar Open Doha 2010,2010-02-17,KIM Minseok,FAHMY Moataz,4,0,"11,11,11,11|5,5,5,3",,GRAND_SLAM,MS,52,Qualification,KIM Minseok (KOR),FAHMY Moataz (EGY),KIM Minseok
+Pro Tour Qatar Open Doha 2010,2010-02-17,DRINKHALL Paul,FAHMY Moataz,4,0,"11,11,11,11|5,2,5,3",,GRAND_SLAM,MS,52,Qualification,DRINKHALL Paul (ENG),FAHMY Moataz (EGY),DRINKHALL Paul
+Pro Tour Qatar Open Doha 2010,2010-02-17,DRINKHALL Paul,KIM Minseok,4,2,"11,7,6,11,11,11|4,11,11,7,3,9",,GRAND_SLAM,MS,52,Qualification,DRINKHALL Paul (ENG),KIM Minseok (KOR),DRINKHALL Paul
+Pro Tour Qatar Open Doha 2010,2010-02-17,LI Ahmet,MA Liang,4,1,"11,7,11,11,11|5,11,7,2,4",,GRAND_SLAM,MS,52,Qualification,LI Ahmet (TUR),MA Liang (SGP),LI Ahmet
+Pro Tour Qatar Open Doha 2010,2010-02-17,MATSUDAIRA Kenji,LI Ahmet,4,2,"11,12,9,11,11,11|7,14,11,8,9,7",,GRAND_SLAM,MS,52,Qualification,MATSUDAIRA Kenji (JPN),LI Ahmet (TUR),MATSUDAIRA Kenji
+Pro Tour Qatar Open Doha 2010,2010-02-17,MATSUDAIRA Kenji,MA Liang,4,1,"11,9,11,11,11|5,11,7,7,6",,GRAND_SLAM,MS,52,Qualification,MATSUDAIRA Kenji (JPN),MA Liang (SGP),MATSUDAIRA Kenji
+Pro Tour Qatar Open Doha 2010,2010-02-17,CHOU Tung-Yu,HABESOHN Daniel,4,3,"8,6,11,11,7,11,11|11,11,7,9,11,7,4",,GRAND_SLAM,MS,52,Qualification,CHOU Tung-Yu (TPE),HABESOHN Daniel (AUT),CHOU Tung-Yu
+Pro Tour Qatar Open Doha 2010,2010-02-17,SEO Hyundeok,CHOU Tung-Yu,4,0,"11,11,11,11|1,8,7,7",,GRAND_SLAM,MS,52,Qualification,SEO Hyundeok (KOR),CHOU Tung-Yu (TPE),SEO Hyundeok
+Pro Tour Qatar Open Doha 2010,2010-02-17,SEO Hyundeok,HABESOHN Daniel,4,2,"10,11,11,11,6,11|12,6,8,9,11,7",,GRAND_SLAM,MS,52,Qualification,SEO Hyundeok (KOR),HABESOHN Daniel (AUT),SEO Hyundeok
+Pro Tour Qatar Open Doha 2010,2010-02-17,LEE Sang Su,TAHERKHANI Hamidreza,4,1,"11,4,11,11,11|9,11,7,9,4",,GRAND_SLAM,MS,52,Qualification,LEE Sang Su (KOR),TAHERKHANI Hamidreza (IRI),LEE Sang Su
+Pro Tour Qatar Open Doha 2010,2010-02-17,FILUS Ruwen,TAHERKHANI Hamidreza,4,0,"11,11,11,11|6,5,8,7",,GRAND_SLAM,MS,52,Qualification,FILUS Ruwen (GER),TAHERKHANI Hamidreza (IRI),FILUS Ruwen
+Pro Tour Qatar Open Doha 2010,2010-02-17,FILUS Ruwen,LEE Sang Su,4,3,"10,5,11,11,11,7,11|12,11,7,9,9,11,9",,GRAND_SLAM,MS,52,Qualification,FILUS Ruwen (GER),LEE Sang Su (KOR),FILUS Ruwen
+Pro Tour Qatar Open Doha 2010,2010-02-17,LIVENTSOV Alexey,CHERAGHIANI Amir,4,0,"11,11,11,11|8,5,4,7",,GRAND_SLAM,MS,52,Qualification,LIVENTSOV Alexey (RUS),CHERAGHIANI Amir (IRI),LIVENTSOV Alexey
+Pro Tour Qatar Open Doha 2010,2010-02-17,LASHIN Elsayed,MORICZ Mate,4,0,"11,11,11,11|5,8,8,7",,GRAND_SLAM,MS,52,Qualification,LASHIN Elsayed (EGY),MORICZ Mate (HUN),LASHIN Elsayed
+Pro Tour Qatar Open Doha 2010,2010-02-17,LIVENTSOV Alexey,MORICZ Mate,4,0,"12,11,11,11|10,9,5,4",,GRAND_SLAM,MS,52,Qualification,LIVENTSOV Alexey (RUS),MORICZ Mate (HUN),LIVENTSOV Alexey
+Pro Tour Qatar Open Doha 2010,2010-02-17,LASHIN Elsayed,CHERAGHIANI Amir,4,0,"11,11,11,11|5,5,8,7",,GRAND_SLAM,MS,52,Qualification,LASHIN Elsayed (EGY),CHERAGHIANI Amir (IRI),LASHIN Elsayed
+Pro Tour Qatar Open Doha 2010,2010-02-17,LIVENTSOV Alexey,LASHIN Elsayed,4,1,"12,11,11,8,12|10,6,6,11,10",,GRAND_SLAM,MS,52,Qualification,LIVENTSOV Alexey (RUS),LASHIN Elsayed (EGY),LIVENTSOV Alexey
+Pro Tour Qatar Open Doha 2010,2010-02-17,CHERAGHIANI Amir,MORICZ Mate,4,3,"11,9,8,11,6,14,13|7,11,11,8,11,12,11",,GRAND_SLAM,MS,52,Qualification,CHERAGHIANI Amir (IRI),MORICZ Mate (HUN),CHERAGHIANI Amir
+Pro Tour Qatar Open Doha 2010,2010-02-17,YOSHIDA Masaki,AL-HASAN Salem,3,0,"11,11,11|5,7,8",,GRAND_SLAM,U21MS,52,Qualification,YOSHIDA Masaki (JPN),AL-HASAN Salem (KUW),YOSHIDA Masaki
+Pro Tour Qatar Open Doha 2010,2010-02-17,STERNBERG Kasper,AL-HASAN Salem,3,0,"11,13,11|9,11,5",,GRAND_SLAM,U21MS,52,Qualification,STERNBERG Kasper (DEN),AL-HASAN Salem (KUW),STERNBERG Kasper
+Pro Tour Qatar Open Doha 2010,2010-02-17,STERNBERG Kasper,YOSHIDA Masaki,3,1,"11,8,11,11|5,11,7,5",,GRAND_SLAM,U21MS,52,Qualification,STERNBERG Kasper (DEN),YOSHIDA Masaki (JPN),STERNBERG Kasper
+Pro Tour Qatar Open Doha 2010,2010-02-17,DESAI Harmeet,ALAWLAQI Ahmed,3,1,"7,12,11,11|11,10,6,6",,GRAND_SLAM,U21MS,52,Qualification,DESAI Harmeet (IND),ALAWLAQI Ahmed (QAT),DESAI Harmeet
+Pro Tour Qatar Open Doha 2010,2010-02-17,ALAMIYAN Noshad,ALAWLAQI Ahmed,3,0,"11,11,12|6,2,10",,GRAND_SLAM,U21MS,52,Qualification,ALAMIYAN Noshad (IRI),ALAWLAQI Ahmed (QAT),ALAMIYAN Noshad
+Pro Tour Qatar Open Doha 2010,2010-02-17,ALAMIYAN Noshad,DESAI Harmeet,3,1,"10,11,14,12|12,5,12,10",,GRAND_SLAM,U21MS,52,Qualification,ALAMIYAN Noshad (IRI),DESAI Harmeet (IND),ALAMIYAN Noshad
+Pro Tour Qatar Open Doha 2010,2010-02-17,LI Ahmet,BALGU Aman,3,0,"11,11,11|6,5,7",,GRAND_SLAM,U21MS,52,Qualification,LI Ahmet (TUR),BALGU Aman (IND),LI Ahmet
+Pro Tour Qatar Open Doha 2010,2010-02-17,LI Ahmet,ASSAR Omar,3,0,"11,11,11|5,7,9",,GRAND_SLAM,U21MS,52,Qualification,LI Ahmet (TUR),ASSAR Omar (EGY),LI Ahmet
+Pro Tour Qatar Open Doha 2010,2010-02-17,ASSAR Omar,BALGU Aman,3,0,"11,11,11|5,7,5",,GRAND_SLAM,U21MS,52,Qualification,ASSAR Omar (EGY),BALGU Aman (IND),ASSAR Omar
+Pro Tour Qatar Open Doha 2010,2010-02-17,ELSOBKY Mohamed,CHERAGHIANI Amir,3,1,"9,11,11,12|11,8,6,10",,GRAND_SLAM,U21MS,52,Qualification,ELSOBKY Mohamed (EGY),CHERAGHIANI Amir (IRI),ELSOBKY Mohamed
+Pro Tour Qatar Open Doha 2010,2010-02-17,FLORITZ Philipp,CHERAGHIANI Amir,3,1,"11,11,7,11|6,7,11,5",,GRAND_SLAM,U21MS,52,Qualification,FLORITZ Philipp (BUL),CHERAGHIANI Amir (IRI),FLORITZ Philipp
+Pro Tour Qatar Open Doha 2010,2010-02-17,ELSOBKY Mohamed,FLORITZ Philipp,3,2,"12,11,5,11,11|10,9,11,13,9",,GRAND_SLAM,U21MS,52,Qualification,ELSOBKY Mohamed (EGY),FLORITZ Philipp (BUL),ELSOBKY Mohamed
+Pro Tour Qatar Open Doha 2010,2010-02-17,SHETTY Sanil,FAHMY Moataz,3,0,"11,11,11|6,5,5",,GRAND_SLAM,U21MS,52,Qualification,SHETTY Sanil (IND),FAHMY Moataz (EGY),SHETTY Sanil
+Pro Tour Qatar Open Doha 2010,2010-02-17,KIM Donghyun,FAHMY Moataz,3,0,"11,11,13|4,3,11",,GRAND_SLAM,U21MS,52,Qualification,KIM Donghyun (KOR),FAHMY Moataz (EGY),KIM Donghyun
+Pro Tour Qatar Open Doha 2010,2010-02-17,KIM Donghyun,SHETTY Sanil,3,2,"11,6,11,5,11|3,11,9,11,4",,GRAND_SLAM,U21MS,52,Qualification,KIM Donghyun (KOR),SHETTY Sanil (IND),KIM Donghyun
+Pro Tour Qatar Open Doha 2010,2010-02-17,MERZLIKIN Taras,MORICZ Mate,3,2,"12,11,6,11,13|14,4,11,3,11",,GRAND_SLAM,U21MS,52,Qualification,MERZLIKIN Taras (RUS),MORICZ Mate (HUN),MERZLIKIN Taras
+Pro Tour Qatar Open Doha 2010,2010-02-17,MORICZ Mate,GHOSH Soumyajit,3,2,"9,7,11,11,11|11,11,7,6,6",,GRAND_SLAM,U21MS,52,Qualification,MORICZ Mate (HUN),GHOSH Soumyajit (IND),MORICZ Mate
+Pro Tour Qatar Open Doha 2010,2010-02-17,MERZLIKIN Taras,GHOSH Soumyajit,3,0,"11,11,11|3,7,6",,GRAND_SLAM,U21MS,52,Qualification,MERZLIKIN Taras (RUS),GHOSH Soumyajit (IND),MERZLIKIN Taras
+Pro Tour Qatar Open Doha 2010,2010-02-17,PANG Xue Jie,TAHERKHANI Hamidreza,3,1,"11,6,11,11|9,11,8,6",,GRAND_SLAM,U21MS,52,Qualification,PANG Xue Jie (SGP),TAHERKHANI Hamidreza (IRI),PANG Xue Jie
+Pro Tour Qatar Open Doha 2010,2010-02-17,CHANG Shun-Hung,TAHERKHANI Hamidreza,3,1,"11,11,6,12|8,8,11,10",,GRAND_SLAM,U21MS,52,Qualification,CHANG Shun-Hung (TPE),TAHERKHANI Hamidreza (IRI),CHANG Shun-Hung
+Pro Tour Qatar Open Doha 2010,2010-02-17,CHANG Shun-Hung,PANG Xue Jie,3,2,"11,10,11,9,11|7,12,9,11,4",,GRAND_SLAM,U21MS,52,Qualification,CHANG Shun-Hung (TPE),PANG Xue Jie (SGP),CHANG Shun-Hung
+Pro Tour Qatar Open Doha 2010,2010-02-17,LIU Shiwen,PATKAR Madhurika,4,2,"11,9,9,11,11,11|3,11,11,4,4,9",R64,GRAND_SLAM,WS,52,Main Draw,LIU Shiwen (CHN),PATKAR Madhurika (IND),LIU Shiwen
+Pro Tour Qatar Open Doha 2010,2010-02-17,ISHIKAWA Kasumi,NOSKOVA Yana,4,0,"14,11,11,11|12,9,7,3",R64,GRAND_SLAM,WS,52,Main Draw,ISHIKAWA Kasumi (JPN),NOSKOVA Yana (RUS),ISHIKAWA Kasumi
+Pro Tour Qatar Open Doha 2010,2010-02-17,MORIZONO Misaki,PAVLOVICH Viktoria,4,0,"11,11,11,11|9,7,6,6",R64,GRAND_SLAM,WS,52,Main Draw,MORIZONO Misaki (JPN),PAVLOVICH Viktoria (BLR),MORIZONO Misaki
+Pro Tour Qatar Open Doha 2010,2010-02-17,LIU Jia,MIKHAILOVA Polina,4,3,"4,6,6,11,13,11,11|11,11,11,6,11,7,8",R64,GRAND_SLAM,WS,52,Main Draw,LIU Jia (AUT),MIKHAILOVA Polina (RUS),LIU Jia
+Pro Tour Qatar Open Doha 2010,2010-02-17,CAO Zhen,WAKAMIYA Misako,4,1,"4,12,11,11,11|11,10,6,7,4",R64,GRAND_SLAM,WS,52,Main Draw,CAO Zhen (CHN),WAKAMIYA Misako (JPN),CAO Zhen
+Pro Tour Qatar Open Doha 2010,2010-02-17,HIRANO Sayaka,SOLJA Petrissa,4,0,"11,12,11,11|5,10,2,7",R64,GRAND_SLAM,WS,52,Main Draw,HIRANO Sayaka (JPN),SOLJA Petrissa (GER),HIRANO Sayaka
+Pro Tour Qatar Open Doha 2010,2010-02-17,ISHIGAKI Yuka,CHOI Moonyoung,4,0,"11,11,11,11|4,5,3,9",R64,GRAND_SLAM,WS,52,Main Draw,ISHIGAKI Yuka (JPN),CHOI Moonyoung (KOR),ISHIGAKI Yuka
+Pro Tour Qatar Open Doha 2010,2010-02-17,DING Ning,CECHOVA Dana,4,0,"11,11,11,11|6,6,5,5",R64,GRAND_SLAM,WS,52,Main Draw,DING Ning (CHN),CECHOVA Dana (CZE),DING Ning
+Pro Tour Qatar Open Doha 2010,2010-02-17,KIM Kyungah,HSIUNG Nai-I,4,0,"11,11,11,11|5,7,7,4",R64,GRAND_SLAM,WS,52,Main Draw,KIM Kyungah (KOR),HSIUNG Nai-I (TPE),KIM Kyungah
+Pro Tour Qatar Open Doha 2010,2010-02-17,HUANG Yi-Hua,FADEEVA Oxana,4,2,"11,11,7,9,11,11|7,6,11,11,8,9",R64,GRAND_SLAM,WS,52,Main Draw,HUANG Yi-Hua (TPE),FADEEVA Oxana (RUS),HUANG Yi-Hua
+Pro Tour Qatar Open Doha 2010,2010-02-17,SKOV Mie,LI Qiangbing,4,1,"11,11,10,12,11|9,9,12,10,9",R64,GRAND_SLAM,WS,52,Main Draw,SKOV Mie (DEN),LI Qiangbing (AUT),SKOV Mie
+Pro Tour Qatar Open Doha 2010,2010-02-17,SUN Beibei,KOLTSOVA Anastasia,4,0,"13,11,11,11|11,8,7,9",R64,GRAND_SLAM,WS,52,Main Draw,SUN Beibei (SGP),KOLTSOVA Anastasia (RUS),SUN Beibei
+Pro Tour Qatar Open Doha 2010,2010-02-17,TIE Yana,BILENKO Tetyana,4,1,"12,12,11,9,11|10,10,6,11,8",R64,GRAND_SLAM,WS,52,Main Draw,TIE Yana (HKG),BILENKO Tetyana (UKR),TIE Yana
+Pro Tour Qatar Open Doha 2010,2010-02-17,DODEAN Daniela,WINTER Sabine,4,0,"11,12,11,11|7,10,3,5",R64,GRAND_SLAM,WS,52,Main Draw,DODEAN Daniela (ROU),WINTER Sabine (GER),DODEAN Daniela
+Pro Tour Qatar Open Doha 2010,2010-02-17,YU Mengyu,XU Jie (1982),4,2,"6,11,15,11,11,11|11,7,17,8,4,6",R64,GRAND_SLAM,WS,52,Main Draw,YU Mengyu (SGP),XU Jie (1982) (POL),YU Mengyu
+Pro Tour Qatar Open Doha 2010,2010-02-17,FENG Tianwei,GHATAK Poulomi,4,1,"12,11,11,11,11|10,13,8,9,7",R64,GRAND_SLAM,WS,52,Main Draw,FENG Tianwei (SGP),GHATAK Poulomi (IND),FENG Tianwei
+Pro Tour Qatar Open Doha 2010,2010-02-17,GUO Yan (1982),MOON Hyunjung,4,1,"11,9,11,12,11|7,11,8,10,5",R64,GRAND_SLAM,WS,52,Main Draw,GUO Yan (1982) (CHN),MOON Hyunjung (KOR),GUO Yan (1982)
+Pro Tour Qatar Open Doha 2010,2010-02-17,HU Melek,PARK Youngsook,4,1,"11,8,12,11,11|8,11,10,5,9",R64,GRAND_SLAM,WS,52,Main Draw,HU Melek (TUR),PARK Youngsook (KOR),HU Melek
+Pro Tour Qatar Open Doha 2010,2010-02-17,FUKUHARA Ai,LEE I-Chen,4,0,"11,11,11,11|5,7,5,6",R64,GRAND_SLAM,WS,52,Main Draw,FUKUHARA Ai (JPN),LEE I-Chen (TPE),FUKUHARA Ai
+Pro Tour Qatar Open Doha 2010,2010-02-17,LI Jiao,TIKHOMIROVA Anna,4,0,"11,11,11,11|7,8,6,4",R64,GRAND_SLAM,WS,52,Main Draw,LI Jiao (NED),TIKHOMIROVA Anna (RUS),LI Jiao
+Pro Tour Qatar Open Doha 2010,2010-02-17,LEE Eunhee,IVANCAN Irene,4,0,"11,11,11,11|6,5,8,8",R64,GRAND_SLAM,WS,52,Main Draw,LEE Eunhee (KOR),IVANCAN Irene (GER),LEE Eunhee
+Pro Tour Qatar Open Doha 2010,2010-02-17,SCHALL Elke,FUJII Hiroko,4,2,"14,11,3,8,11,11|12,6,11,11,9,6",R64,GRAND_SLAM,WS,52,Main Draw,SCHALL Elke (GER),FUJII Hiroko (JPN),SCHALL Elke
+Pro Tour Qatar Open Doha 2010,2010-02-17,JIANG Huajun,DAS Mouma,4,3,"7,11,13,10,11,13,11|11,6,15,12,5,11,3",R64,GRAND_SLAM,WS,52,Main Draw,JIANG Huajun (HKG),DAS Mouma (IND),JIANG Huajun
+Pro Tour Qatar Open Doha 2010,2010-02-17,PARK Miyoung,STESHENKO Tatyana,4,0,"11,11,11,11|9,2,4,4",R64,GRAND_SLAM,WS,52,Main Draw,PARK Miyoung (KOR),STESHENKO Tatyana (ITA),PARK Miyoung
+Pro Tour Qatar Open Doha 2010,2010-02-17,YANG Ha Eun,BOROS Tamara,4,1,"11,13,3,11,12|7,11,11,5,10",R64,GRAND_SLAM,WS,52,Main Draw,YANG Ha Eun (KOR),BOROS Tamara (CRO),YANG Ha Eun
+Pro Tour Qatar Open Doha 2010,2010-02-17,YAO Yan,KANG Misoon,4,0,"13,11,11,11|11,9,6,8",R64,GRAND_SLAM,WS,52,Main Draw,YAO Yan (CHN),KANG Misoon (KOR),YAO Yan
+Pro Tour Qatar Open Doha 2010,2010-02-17,WANG Yuegu,PAVLOVICH Veronika,4,1,"11,11,7,11,12|6,4,11,4,10",R64,GRAND_SLAM,WS,52,Main Draw,WANG Yuegu (SGP),PAVLOVICH Veronika (BLR),WANG Yuegu
+Pro Tour Qatar Open Doha 2010,2010-02-17,DANG Yeseo,LI Xue,4,0,"14,11,11,11|12,5,8,8",R64,GRAND_SLAM,WS,52,Main Draw,DANG Yeseo (KOR),LI Xue (FRA),DANG Yeseo
+Pro Tour Qatar Open Doha 2010,2010-02-17,PARK Seonghye,STEFANOVA Nikoleta,4,2,"11,7,11,11,7,11|7,11,4,8,11,6",R64,GRAND_SLAM,WS,52,Main Draw,PARK Seonghye (KOR),STEFANOVA Nikoleta (ITA),PARK Seonghye
+Pro Tour Qatar Open Doha 2010,2010-02-17,SEOK Hajung,CHENG I-Ching,4,1,"11,11,11,9,11|8,6,9,11,5",R64,GRAND_SLAM,WS,52,Main Draw,SEOK Hajung (KOR),CHENG I-Ching (TPE),SEOK Hajung
+Pro Tour Qatar Open Doha 2010,2010-02-17,GUO Yue,HE Sirin,4,1,"14,9,11,11,11|12,11,5,9,6",R64,GRAND_SLAM,WS,52,Main Draw,GUO Yue (CHN),HE Sirin (TUR),GUO Yue
+Pro Tour Qatar Open Doha 2010,2010-02-17,LIU Shiwen,ISHIKAWA Kasumi,4,1,"13,11,11,9,11|11,3,3,11,5",R32,GRAND_SLAM,WS,52,Main Draw,LIU Shiwen (CHN),ISHIKAWA Kasumi (JPN),LIU Shiwen
+Pro Tour Qatar Open Doha 2010,2010-02-17,LIU Jia,MORIZONO Misaki,4,1,"17,11,4,11,11|15,4,11,2,9",R32,GRAND_SLAM,WS,52,Main Draw,LIU Jia (AUT),MORIZONO Misaki (JPN),LIU Jia
+Pro Tour Qatar Open Doha 2010,2010-02-17,CAO Zhen,HIRANO Sayaka,4,0,"11,11,11,11|2,7,6,6",R32,GRAND_SLAM,WS,52,Main Draw,CAO Zhen (CHN),HIRANO Sayaka (JPN),CAO Zhen
+Pro Tour Qatar Open Doha 2010,2010-02-17,DING Ning,ISHIGAKI Yuka,4,0,"11,11,11,11|2,9,8,7",R32,GRAND_SLAM,WS,52,Main Draw,DING Ning (CHN),ISHIGAKI Yuka (JPN),DING Ning
+Pro Tour Qatar Open Doha 2010,2010-02-17,KIM Kyungah,HUANG Yi-Hua,4,1,"11,11,9,11,11|5,6,11,6,6",R32,GRAND_SLAM,WS,52,Main Draw,KIM Kyungah (KOR),HUANG Yi-Hua (TPE),KIM Kyungah
+Pro Tour Qatar Open Doha 2010,2010-02-17,SUN Beibei,SKOV Mie,4,1,"12,9,11,11,12|10,11,8,9,10",R32,GRAND_SLAM,WS,52,Main Draw,SUN Beibei (SGP),SKOV Mie (DEN),SUN Beibei
+Pro Tour Qatar Open Doha 2010,2010-02-17,DODEAN Daniela,TIE Yana,4,3,"15,11,11,4,11,9,13|17,8,9,11,8,11,11",R32,GRAND_SLAM,WS,52,Main Draw,DODEAN Daniela (ROU),TIE Yana (HKG),DODEAN Daniela
+Pro Tour Qatar Open Doha 2010,2010-02-17,FENG Tianwei,YU Mengyu,4,1,"11,9,11,11,11|7,11,6,3,2",R32,GRAND_SLAM,WS,52,Main Draw,FENG Tianwei (SGP),YU Mengyu (SGP),FENG Tianwei
+Pro Tour Qatar Open Doha 2010,2010-02-17,GUO Yan (1982),KIM Junghyun,4,1,"11,11,13,9,11|9,1,11,11,3",R32,GRAND_SLAM,WS,52,Main Draw,GUO Yan (1982) (CHN),KIM Junghyun (KOR),GUO Yan (1982)
+Pro Tour Qatar Open Doha 2010,2010-02-17,FUKUHARA Ai,HU Melek,4,1,"11,11,11,9,12|9,9,5,11,10",R32,GRAND_SLAM,WS,52,Main Draw,FUKUHARA Ai (JPN),HU Melek (TUR),FUKUHARA Ai
+Pro Tour Qatar Open Doha 2010,2010-02-17,LEE Eunhee,LI Jiao,4,0,"15,13,11,11|13,11,5,4",R32,GRAND_SLAM,WS,52,Main Draw,LEE Eunhee (KOR),LI Jiao (NED),LEE Eunhee
+Pro Tour Qatar Open Doha 2010,2010-02-17,JIANG Huajun,SCHALL Elke,4,1,"11,13,11,9,11|2,11,9,11,4",R32,GRAND_SLAM,WS,52,Main Draw,JIANG Huajun (HKG),SCHALL Elke (GER),JIANG Huajun
+Pro Tour Qatar Open Doha 2010,2010-02-17,PARK Miyoung,YANG Ha Eun,4,0,"11,11,11,11|6,8,8,6",R32,GRAND_SLAM,WS,52,Main Draw,PARK Miyoung (KOR),YANG Ha Eun (KOR),PARK Miyoung
+Pro Tour Qatar Open Doha 2010,2010-02-17,YAO Yan,WANG Yuegu,4,2,"12,11,8,11,2,11|10,8,11,8,11,6",R32,GRAND_SLAM,WS,52,Main Draw,YAO Yan (CHN),WANG Yuegu (SGP),YAO Yan
+Pro Tour Qatar Open Doha 2010,2010-02-17,DANG Yeseo,PARK Seonghye,4,0,"11,11,11,11|8,6,6,6",R32,GRAND_SLAM,WS,52,Main Draw,DANG Yeseo (KOR),PARK Seonghye (KOR),DANG Yeseo
+Pro Tour Qatar Open Doha 2010,2010-02-17,GUO Yue,SEOK Hajung,4,2,"11,11,11,7,8,11|5,5,7,11,11,7",R32,GRAND_SLAM,WS,52,Main Draw,GUO Yue (CHN),SEOK Hajung (KOR),GUO Yue
+Pro Tour Qatar Open Doha 2010,2010-02-17,LIU Shiwen,LIU Jia,4,0,"13,11,12,11|11,6,10,6",R16,GRAND_SLAM,WS,52,Main Draw,LIU Shiwen (CHN),LIU Jia (AUT),LIU Shiwen
+Pro Tour Qatar Open Doha 2010,2010-02-17,DING Ning,CAO Zhen,4,3,"11,8,16,14,6,5,11|5,11,14,12,11,11,4",R16,GRAND_SLAM,WS,52,Main Draw,DING Ning (CHN),CAO Zhen (CHN),DING Ning
+Pro Tour Qatar Open Doha 2010,2010-02-17,KIM Kyungah,SUN Beibei,4,2,"11,10,11,10,11,12|8,12,6,12,8,10",R16,GRAND_SLAM,WS,52,Main Draw,KIM Kyungah (KOR),SUN Beibei (SGP),KIM Kyungah
+Pro Tour Qatar Open Doha 2010,2010-02-17,DODEAN Daniela,FENG Tianwei,4,3,"11,8,11,11,9,6,11|7,11,6,8,11,11,4",R16,GRAND_SLAM,WS,52,Main Draw,DODEAN Daniela (ROU),FENG Tianwei (SGP),DODEAN Daniela
+Pro Tour Qatar Open Doha 2010,2010-02-17,GUO Yan (1982),FUKUHARA Ai,4,2,"13,8,6,11,13,11|11,11,11,8,11,8",R16,GRAND_SLAM,WS,52,Main Draw,GUO Yan (1982) (CHN),FUKUHARA Ai (JPN),GUO Yan (1982)
+Pro Tour Qatar Open Doha 2010,2010-02-17,JIANG Huajun,LEE Eunhee,4,2,"11,8,11,9,12,11|9,11,5,11,10,5",R16,GRAND_SLAM,WS,52,Main Draw,JIANG Huajun (HKG),LEE Eunhee (KOR),JIANG Huajun
+Pro Tour Qatar Open Doha 2010,2010-02-17,YAO Yan,PARK Miyoung,4,1,"11,11,8,11,14|8,8,11,8,12",R16,GRAND_SLAM,WS,52,Main Draw,YAO Yan (CHN),PARK Miyoung (KOR),YAO Yan
+Pro Tour Qatar Open Doha 2010,2010-02-17,GUO Yue,DANG Yeseo,4,1,"11,11,6,11,11|1,3,11,4,8",R16,GRAND_SLAM,WS,52,Main Draw,GUO Yue (CHN),DANG Yeseo (KOR),GUO Yue
+Pro Tour Qatar Open Doha 2010,2010-02-17,LIU Shiwen,DING Ning,4,3,"11,7,11,2,11,9,11|6,11,3,11,8,11,7",QF,GRAND_SLAM,WS,52,Main Draw,LIU Shiwen (CHN),DING Ning (CHN),LIU Shiwen
+Pro Tour Qatar Open Doha 2010,2010-02-17,DODEAN Daniela,KIM Kyungah,4,1,"11,11,11,6,11|9,8,7,11,4",QF,GRAND_SLAM,WS,52,Main Draw,DODEAN Daniela (ROU),KIM Kyungah (KOR),DODEAN Daniela
+Pro Tour Qatar Open Doha 2010,2010-02-17,GUO Yan (1982),JIANG Huajun,4,0,"11,11,11,11|8,5,6,7",QF,GRAND_SLAM,WS,52,Main Draw,GUO Yan (1982) (CHN),JIANG Huajun (HKG),GUO Yan (1982)
+Pro Tour Qatar Open Doha 2010,2010-02-17,GUO Yue,YAO Yan,4,2,"11,11,8,11,8,11|5,6,11,1,11,6",QF,GRAND_SLAM,WS,52,Main Draw,GUO Yue (CHN),YAO Yan (CHN),GUO Yue
+Pro Tour Qatar Open Doha 2010,2010-02-17,LIU Shiwen,DODEAN Daniela,4,0,"11,11,11,11|9,7,7,7",SF,GRAND_SLAM,WS,52,Main Draw,LIU Shiwen (CHN),DODEAN Daniela (ROU),LIU Shiwen
+Pro Tour Qatar Open Doha 2010,2010-02-17,GUO Yue,GUO Yan (1982),4,3,"2,6,11,11,11,6,11|11,11,7,3,7,11,3",SF,GRAND_SLAM,WS,52,Main Draw,GUO Yue (CHN),GUO Yan (1982) (CHN),GUO Yue
+Pro Tour Qatar Open Doha 2010,2010-02-17,GUO Yue,LIU Shiwen,4,3,"15,5,11,9,11,11,11|13,11,7,11,13,9,7",F,GRAND_SLAM,WS,52,Main Draw,GUO Yue (CHN),LIU Shiwen (CHN),GUO Yue
+Pro Tour Qatar Open Doha 2010,2010-02-17,YU Mengyu,DESSAINT Aurore,4,0,"11,11,13,11|9,9,11,6",R16,GRAND_SLAM,U21WS,52,Main Draw,YU Mengyu (SGP),DESSAINT Aurore (FRA),YU Mengyu
+Pro Tour Qatar Open Doha 2010,2010-02-17,NOSKOVA Yana,HE Sirin,4,1,"11,6,11,11,11|8,11,6,8,9",R16,GRAND_SLAM,U21WS,52,Main Draw,NOSKOVA Yana (RUS),HE Sirin (TUR),NOSKOVA Yana
+Pro Tour Qatar Open Doha 2010,2010-02-17,PARTYKA Natalia,SOLJA Petrissa,4,3,"11,7,7,11,8,11,11|4,11,11,8,11,8,3",R16,GRAND_SLAM,U21WS,52,Main Draw,PARTYKA Natalia (POL),SOLJA Petrissa (GER),PARTYKA Natalia
+Pro Tour Qatar Open Doha 2010,2010-02-17,CHENG I-Ching,WINTER Sabine,4,1,"11,11,11,11,11|13,5,8,7,6",R16,GRAND_SLAM,U21WS,52,Main Draw,CHENG I-Ching (TPE),WINTER Sabine (GER),CHENG I-Ching
+Pro Tour Qatar Open Doha 2010,2010-02-17,HU Melek,YANG Ha Eun,4,0,"11,11,11,11|5,7,5,5",R16,GRAND_SLAM,U21WS,52,Main Draw,HU Melek (TUR),YANG Ha Eun (KOR),HU Melek
+Pro Tour Qatar Open Doha 2010,2010-02-17,KANG Misoon,MORIZONO Misaki,4,2,"8,11,11,14,9,12|11,8,7,12,11,10",R16,GRAND_SLAM,U21WS,52,Main Draw,KANG Misoon (KOR),MORIZONO Misaki (JPN),KANG Misoon
+Pro Tour Qatar Open Doha 2010,2010-02-17,WAKAMIYA Misako,HSIUNG Nai-I,4,2,"14,11,12,12,9,11|16,5,10,10,11,7",R16,GRAND_SLAM,U21WS,52,Main Draw,WAKAMIYA Misako (JPN),HSIUNG Nai-I (TPE),WAKAMIYA Misako
+Pro Tour Qatar Open Doha 2010,2010-02-17,ISHIKAWA Kasumi,SIM Kai Xin Zena,4,0,"11,11,11,11|7,6,2,7",R16,GRAND_SLAM,U21WS,52,Main Draw,ISHIKAWA Kasumi (JPN),SIM Kai Xin Zena (SGP),ISHIKAWA Kasumi
+Pro Tour Qatar Open Doha 2010,2010-02-17,YU Mengyu,NOSKOVA Yana,4,0,"11,11,11,11|8,7,6,4",QF,GRAND_SLAM,U21WS,52,Main Draw,YU Mengyu (SGP),NOSKOVA Yana (RUS),YU Mengyu
+Pro Tour Qatar Open Doha 2010,2010-02-17,CHENG I-Ching,PARTYKA Natalia,4,1,"11,11,11,7,11|4,7,8,11,8",QF,GRAND_SLAM,U21WS,52,Main Draw,CHENG I-Ching (TPE),PARTYKA Natalia (POL),CHENG I-Ching
+Pro Tour Qatar Open Doha 2010,2010-02-17,KANG Misoon,HU Melek,4,2,"6,9,11,11,11,11|11,11,6,2,8,9",QF,GRAND_SLAM,U21WS,52,Main Draw,KANG Misoon (KOR),HU Melek (TUR),KANG Misoon
+Pro Tour Qatar Open Doha 2010,2010-02-17,ISHIKAWA Kasumi,WAKAMIYA Misako,4,0,"11,11,11,11|7,7,6,6",QF,GRAND_SLAM,U21WS,52,Main Draw,ISHIKAWA Kasumi (JPN),WAKAMIYA Misako (JPN),ISHIKAWA Kasumi
+Pro Tour Qatar Open Doha 2010,2010-02-17,YU Mengyu,CHENG I-Ching,4,1,"11,11,7,11,11|8,9,11,6,5",SF,GRAND_SLAM,U21WS,52,Main Draw,YU Mengyu (SGP),CHENG I-Ching (TPE),YU Mengyu
+Pro Tour Qatar Open Doha 2010,2010-02-17,ISHIKAWA Kasumi,KANG Misoon,4,1,"8,11,11,11,11|11,9,9,4,6",SF,GRAND_SLAM,U21WS,52,Main Draw,ISHIKAWA Kasumi (JPN),KANG Misoon (KOR),ISHIKAWA Kasumi
+Pro Tour Qatar Open Doha 2010,2010-02-17,ISHIKAWA Kasumi,YU Mengyu,4,3,"11,5,7,11,12,9,11|9,11,11,7,10,11,6",F,GRAND_SLAM,U21WS,52,Main Draw,ISHIKAWA Kasumi (JPN),YU Mengyu (SGP),ISHIKAWA Kasumi
+Pro Tour Qatar Open Doha 2010,2010-02-17,PAVLOVICH Veronika,DESSAINT Aurore,4,2,"11,12,11,10,11,11|4,14,8,12,8,8",,GRAND_SLAM,WS,52,Qualification,PAVLOVICH Veronika (BLR),DESSAINT Aurore (FRA),PAVLOVICH Veronika
+Pro Tour Qatar Open Doha 2010,2010-02-17,WINTER Sabine,PAVLOVICH Veronika,4,2,"6,11,16,1,11,11|11,8,14,11,4,7",,GRAND_SLAM,WS,52,Qualification,WINTER Sabine (GER),PAVLOVICH Veronika (BLR),WINTER Sabine
+Pro Tour Qatar Open Doha 2010,2010-02-17,WINTER Sabine,DESSAINT Aurore,4,3,"9,7,13,11,11,11,11|11,11,15,7,8,7,4",,GRAND_SLAM,WS,52,Qualification,WINTER Sabine (GER),DESSAINT Aurore (FRA),WINTER Sabine
+Pro Tour Qatar Open Doha 2010,2010-02-17,LI Xue,AGGARWAL Neha,4,0,"11,11,11,11|5,5,7,4",,GRAND_SLAM,WS,52,Qualification,LI Xue (FRA),AGGARWAL Neha (IND),LI Xue
+Pro Tour Qatar Open Doha 2010,2010-02-17,NOSKOVA Yana,LI Xue,4,3,"11,14,13,12,8,10,11|1,12,15,10,11,12,3",,GRAND_SLAM,WS,52,Qualification,NOSKOVA Yana (RUS),LI Xue (FRA),NOSKOVA Yana
+Pro Tour Qatar Open Doha 2010,2010-02-17,NOSKOVA Yana,AGGARWAL Neha,4,0,"11,11,11,11|3,4,9,4",,GRAND_SLAM,WS,52,Qualification,NOSKOVA Yana (RUS),AGGARWAL Neha (IND),NOSKOVA Yana
+Pro Tour Qatar Open Doha 2010,2010-02-17,XU Jie (1982),KOLTSOVA Anastasia,4,0,"11,11,12,12|3,8,10,10",,GRAND_SLAM,WS,52,Qualification,XU Jie (1982) (POL),KOLTSOVA Anastasia (RUS),XU Jie (1982)
+Pro Tour Qatar Open Doha 2010,2010-02-17,XU Jie (1982),DUBKOVA Elena,4,0,"11,11,11,11|9,3,8,5",,GRAND_SLAM,WS,52,Qualification,XU Jie (1982) (POL),DUBKOVA Elena (BLR),XU Jie (1982)
+Pro Tour Qatar Open Doha 2010,2010-02-17,KOLTSOVA Anastasia,DUBKOVA Elena,4,0,"17,11,11,11|15,7,9,9",,GRAND_SLAM,WS,52,Qualification,KOLTSOVA Anastasia (RUS),DUBKOVA Elena (BLR),KOLTSOVA Anastasia
+Pro Tour Qatar Open Doha 2010,2010-02-17,MOON Hyunjung,KUMARESAN Shamini,4,0,"11,11,11,11|4,4,8,9",,GRAND_SLAM,WS,52,Qualification,MOON Hyunjung (KOR),KUMARESAN Shamini (IND),MOON Hyunjung
+Pro Tour Qatar Open Doha 2010,2010-02-17,SOLJA Petrissa,MOON Hyunjung,4,2,"11,6,11,11,9,11|7,11,9,8,11,8",,GRAND_SLAM,WS,52,Qualification,SOLJA Petrissa (GER),MOON Hyunjung (KOR),SOLJA Petrissa
+Pro Tour Qatar Open Doha 2010,2010-02-17,SOLJA Petrissa,KUMARESAN Shamini,4,0,"11,11,11,11|6,6,4,6",,GRAND_SLAM,WS,52,Qualification,SOLJA Petrissa (GER),KUMARESAN Shamini (IND),SOLJA Petrissa
+Pro Tour Qatar Open Doha 2010,2010-02-17,FUJII Hiroko,SAHA Nandita,4,0,"11,11,11,11|6,8,4,3",,GRAND_SLAM,WS,52,Qualification,FUJII Hiroko (JPN),SAHA Nandita (IND),FUJII Hiroko
+Pro Tour Qatar Open Doha 2010,2010-02-17,FUJII Hiroko,HSIUNG Nai-I,4,0,"11,11,11,11|7,6,9,9",,GRAND_SLAM,WS,52,Qualification,FUJII Hiroko (JPN),HSIUNG Nai-I (TPE),FUJII Hiroko
+Pro Tour Qatar Open Doha 2010,2010-02-17,HSIUNG Nai-I,SAHA Nandita,4,1,"11,11,7,11,11|6,7,11,5,1",,GRAND_SLAM,WS,52,Qualification,HSIUNG Nai-I (TPE),SAHA Nandita (IND),HSIUNG Nai-I
+Pro Tour Qatar Open Doha 2010,2010-02-17,CHENG I-Ching,VOROBEVA Olga,4,0,"11,11,11,11|7,3,7,7",,GRAND_SLAM,WS,52,Qualification,CHENG I-Ching (TPE),VOROBEVA Olga (RUS),CHENG I-Ching
+Pro Tour Qatar Open Doha 2010,2010-02-17,CHENG I-Ching,GHATAK Poulomi,4,0,"11,11,11,11|6,9,5,7",,GRAND_SLAM,WS,52,Qualification,CHENG I-Ching (TPE),GHATAK Poulomi (IND),CHENG I-Ching
+Pro Tour Qatar Open Doha 2010,2010-02-17,GHATAK Poulomi,VOROBEVA Olga,4,0,"15,11,11,11|13,2,7,9",,GRAND_SLAM,WS,52,Qualification,GHATAK Poulomi (IND),VOROBEVA Olga (RUS),GHATAK Poulomi
+Pro Tour Qatar Open Doha 2010,2010-02-17,SKOV Mie,SIM Kai Xin Zena,4,1,"9,11,11,11,12|11,8,0,8,10",,GRAND_SLAM,WS,52,Qualification,SKOV Mie (DEN),SIM Kai Xin Zena (SGP),SKOV Mie
+Pro Tour Qatar Open Doha 2010,2010-02-17,SKOV Mie,DAS Mouma,4,2,"8,11,11,11,6,11|11,5,7,5,11,3",,GRAND_SLAM,WS,52,Qualification,SKOV Mie (DEN),DAS Mouma (IND),SKOV Mie
+Pro Tour Qatar Open Doha 2010,2010-02-17,DAS Mouma,SIM Kai Xin Zena,4,0,"11,11,11,11|7,9,9,7",,GRAND_SLAM,WS,52,Qualification,DAS Mouma (IND),SIM Kai Xin Zena (SGP),DAS Mouma
+Pro Tour Qatar Open Doha 2010,2010-02-17,FADEEVA Oxana,PATKAR Madhurika,4,0,"11,11,11,11|7,7,9,9",,GRAND_SLAM,WS,52,Qualification,FADEEVA Oxana (RUS),PATKAR Madhurika (IND),FADEEVA Oxana
+Pro Tour Qatar Open Doha 2010,2010-02-17,FADEEVA Oxana,HAPONOVA Hanna,4,0,"11,11,11,11|8,5,2,4",,GRAND_SLAM,WS,52,Qualification,FADEEVA Oxana (RUS),HAPONOVA Hanna (UKR),FADEEVA Oxana
+Pro Tour Qatar Open Doha 2010,2010-02-17,PATKAR Madhurika,HAPONOVA Hanna,4,2,"5,5,11,11,11,11|11,11,5,7,7,9",,GRAND_SLAM,WS,52,Qualification,PATKAR Madhurika (IND),HAPONOVA Hanna (UKR),PATKAR Madhurika
+Pro Tour Qatar Open Doha 2010,2010-02-17,BILENKO Tetyana,ERMAKOVA Irina,4,2,"11,5,11,9,11,11|5,11,6,11,6,4",,GRAND_SLAM,WS,52,Qualification,BILENKO Tetyana (UKR),ERMAKOVA Irina (RUS),BILENKO Tetyana
+Pro Tour Qatar Open Doha 2010,2010-02-17,KANG Misoon,BILENKO Tetyana,4,0,"11,11,11,11|9,5,3,8",,GRAND_SLAM,WS,52,Qualification,KANG Misoon (KOR),BILENKO Tetyana (UKR),KANG Misoon
+Pro Tour Qatar Open Doha 2010,2010-02-17,KANG Misoon,ERMAKOVA Irina,4,0,"11,11,11,11|3,4,4,7",,GRAND_SLAM,WS,52,Qualification,KANG Misoon (KOR),ERMAKOVA Irina (RUS),KANG Misoon
+Pro Tour Qatar Open Doha 2010,2010-02-17,STESHENKO Tatyana,PARTYKA Natalia,4,3,"7,11,11,9,6,11,11|11,7,8,11,11,9,6",,GRAND_SLAM,WS,52,Qualification,STESHENKO Tatyana (ITA),PARTYKA Natalia (POL),STESHENKO Tatyana
+Pro Tour Qatar Open Doha 2010,2010-02-17,YANG Ha Eun,PARTYKA Natalia,4,2,"12,12,8,8,11,11|10,10,11,11,8,9",,GRAND_SLAM,WS,52,Qualification,YANG Ha Eun (KOR),PARTYKA Natalia (POL),YANG Ha Eun
+Pro Tour Qatar Open Doha 2010,2010-02-17,YANG Ha Eun,STESHENKO Tatyana,4,0,"11,11,11,11|3,5,8,7",,GRAND_SLAM,WS,52,Qualification,YANG Ha Eun (KOR),STESHENKO Tatyana (ITA),YANG Ha Eun
+Pro Tour Qatar Open Doha 2010,2010-02-17,CHOI Moonyoung,SAHASRABUDHE Pooja,4,0,"11,11,11,11|8,7,5,6",,GRAND_SLAM,WS,52,Qualification,CHOI Moonyoung (KOR),SAHASRABUDHE Pooja (IND),CHOI Moonyoung
+Pro Tour Qatar Open Doha 2010,2010-02-17,CHOI Moonyoung,MIKHAILOVA Polina,4,0,"11,11,13,15|4,6,11,13",,GRAND_SLAM,WS,52,Qualification,CHOI Moonyoung (KOR),MIKHAILOVA Polina (RUS),CHOI Moonyoung
+Pro Tour Qatar Open Doha 2010,2010-02-17,MIKHAILOVA Polina,SAHASRABUDHE Pooja,4,3,"11,2,8,11,7,12,11|6,11,11,4,11,10,7",,GRAND_SLAM,WS,52,Qualification,MIKHAILOVA Polina (RUS),SAHASRABUDHE Pooja (IND),MIKHAILOVA Polina
+Pro Tour Qatar Open Doha 2010,2010-02-17,PARK Youngsook,DAS Ankita,4,0,"11,11,11,11|7,5,4,9",,GRAND_SLAM,WS,52,Qualification,PARK Youngsook (KOR),DAS Ankita (IND),PARK Youngsook
+Pro Tour Qatar Open Doha 2010,2010-02-17,PARK Youngsook,LEE I-Chen,4,2,"12,6,11,10,11,11|10,11,7,12,3,3",,GRAND_SLAM,WS,52,Qualification,PARK Youngsook (KOR),LEE I-Chen (TPE),PARK Youngsook
+Pro Tour Qatar Open Doha 2010,2010-02-17,LEE I-Chen,DAS Ankita,4,0,"11,11,11,11|3,1,5,2",,GRAND_SLAM,WS,52,Qualification,LEE I-Chen (TPE),DAS Ankita (IND),LEE I-Chen
+Pro Tour Qatar Open Doha 2010,2010-02-17,KIM Junghyun,ARUMBAKKAM Niveditha,4,0,"11,11,11,11|6,9,6,7",,GRAND_SLAM,WS,52,Qualification,KIM Junghyun (KOR),ARUMBAKKAM Niveditha (IND),KIM Junghyun
+Pro Tour Qatar Open Doha 2010,2010-02-17,KIM Junghyun,CECHOVA Dana,4,0,"14,11,11,12|12,8,8,10",,GRAND_SLAM,WS,52,Qualification,KIM Junghyun (KOR),CECHOVA Dana (CZE),KIM Junghyun
+Pro Tour Qatar Open Doha 2010,2010-02-17,CECHOVA Dana,ARUMBAKKAM Niveditha,4,2,"9,11,11,11,9,11|11,5,9,3,11,4",,GRAND_SLAM,WS,52,Qualification,CECHOVA Dana (CZE),ARUMBAKKAM Niveditha (IND),CECHOVA Dana
+Pro Tour Qatar Open Doha 2010,2010-02-17,TIKHOMIROVA Anna,DESHPANDE Divya,4,0,"11,11,11,11|3,7,3,1",,GRAND_SLAM,WS,52,Qualification,TIKHOMIROVA Anna (RUS),DESHPANDE Divya (IND),TIKHOMIROVA Anna
+Pro Tour Qatar Open Doha 2010,2010-02-17,MORIZONO Misaki,TIKHOMIROVA Anna,4,1,"4,11,11,11,11|11,7,7,8,3",,GRAND_SLAM,WS,52,Qualification,MORIZONO Misaki (JPN),TIKHOMIROVA Anna (RUS),MORIZONO Misaki
+Pro Tour Qatar Open Doha 2010,2010-02-17,MORIZONO Misaki,DESHPANDE Divya,4,0,"16,11,11,11|14,4,6,5",,GRAND_SLAM,WS,52,Qualification,MORIZONO Misaki (JPN),DESHPANDE Divya (IND),MORIZONO Misaki
+Pro Tour Qatar Open Doha 2010,2010-02-17,WAKAMIYA Misako,PRABHU Mamata,4,0,"11,11,11,11|4,2,3,3",,GRAND_SLAM,WS,52,Qualification,WAKAMIYA Misako (JPN),PRABHU Mamata (IND),WAKAMIYA Misako
+Pro Tour Qatar Open Doha 2010,2010-02-17,PARK Seonghye,WAKAMIYA Misako,4,2,"6,11,11,11,3,11|11,8,7,6,11,8",,GRAND_SLAM,WS,52,Qualification,PARK Seonghye (KOR),WAKAMIYA Misako (JPN),PARK Seonghye
+Pro Tour Qatar Open Doha 2010,2010-02-17,PARK Seonghye,PRABHU Mamata,4,3,"14,11,11,9,5,11,11|12,13,3,11,11,9,5",,GRAND_SLAM,WS,52,Qualification,PARK Seonghye (KOR),PRABHU Mamata (IND),PARK Seonghye
+Pro Tour Qatar Open Doha 2010,2010-02-17,HE Sirin,MONDAL Soumi,4,0,"11,11,11,11|5,7,9,7",,GRAND_SLAM,WS,52,Qualification,HE Sirin (TUR),MONDAL Soumi (IND),HE Sirin
+Pro Tour Qatar Open Doha 2010,2010-02-17,IVANCAN Irene,SHAVYRINA Marina,4,0,"11,11,11,11|7,8,9,4",,GRAND_SLAM,WS,52,Qualification,IVANCAN Irene (GER),SHAVYRINA Marina (RUS),IVANCAN Irene
+Pro Tour Qatar Open Doha 2010,2010-02-17,IVANCAN Irene,HE Sirin,4,0,"12,11,11,11|10,2,5,4",,GRAND_SLAM,WS,52,Qualification,IVANCAN Irene (GER),HE Sirin (TUR),IVANCAN Irene
+Pro Tour Qatar Open Doha 2010,2010-02-17,SHAVYRINA Marina,MONDAL Soumi,4,1,"11,2,11,17,11|7,11,6,15,7",,GRAND_SLAM,WS,52,Qualification,SHAVYRINA Marina (RUS),MONDAL Soumi (IND),SHAVYRINA Marina
+Pro Tour Qatar Open Doha 2010,2010-02-17,HE Sirin,SHAVYRINA Marina,4,3,"7,11,10,11,11,11,11|11,13,12,4,5,3,4",,GRAND_SLAM,WS,52,Qualification,HE Sirin (TUR),SHAVYRINA Marina (RUS),HE Sirin
+Pro Tour Qatar Open Doha 2010,2010-02-17,IVANCAN Irene,MONDAL Soumi,4,0,"11,11,11,11|5,4,5,4",,GRAND_SLAM,WS,52,Qualification,IVANCAN Irene (GER),MONDAL Soumi (IND),IVANCAN Irene
+Pro Tour Qatar Open Doha 2010,2010-02-17,VOROBEVA Olga,SAHASRABUDHE Pooja,3,2,"11,11,8,9,11|9,8,11,11,9",,GRAND_SLAM,U21WS,52,Qualification,VOROBEVA Olga (RUS),SAHASRABUDHE Pooja (IND),VOROBEVA Olga
+Pro Tour Qatar Open Doha 2010,2010-02-17,YANG Ha Eun,SAHASRABUDHE Pooja,3,0,"11,11,11|6,7,7",,GRAND_SLAM,U21WS,52,Qualification,YANG Ha Eun (KOR),SAHASRABUDHE Pooja (IND),YANG Ha Eun
+Pro Tour Qatar Open Doha 2010,2010-02-17,YANG Ha Eun,VOROBEVA Olga,3,0,"11,11,11|3,6,3",,GRAND_SLAM,U21WS,52,Qualification,YANG Ha Eun (KOR),VOROBEVA Olga (RUS),YANG Ha Eun
+Pro Tour Qatar Open Doha 2010,2010-02-17,SIM Kai Xin Zena,AGGARWAL Neha,3,1,"11,11,9,11|5,8,11,6",,GRAND_SLAM,U21WS,52,Qualification,SIM Kai Xin Zena (SGP),AGGARWAL Neha (IND),SIM Kai Xin Zena
+Pro Tour Qatar Open Doha 2010,2010-02-17,KANG Misoon,SIM Kai Xin Zena,3,0,"11,11,11|6,4,7",,GRAND_SLAM,U21WS,52,Qualification,KANG Misoon (KOR),SIM Kai Xin Zena (SGP),KANG Misoon
+Pro Tour Qatar Open Doha 2010,2010-02-17,KANG Misoon,AGGARWAL Neha,3,0,"11,11,11|8,5,9",,GRAND_SLAM,U21WS,52,Qualification,KANG Misoon (KOR),AGGARWAL Neha (IND),KANG Misoon
+Pro Tour Qatar Open Doha 2010,2010-02-17,WINTER Sabine,DAS Ankita,3,2,"11,11,10,4,12|7,7,12,11,10",,GRAND_SLAM,U21WS,52,Qualification,WINTER Sabine (GER),DAS Ankita (IND),WINTER Sabine
+Pro Tour Qatar Open Doha 2010,2010-02-17,HSIUNG Nai-I,DAS Ankita,3,0,"11,11,11|7,1,7",,GRAND_SLAM,U21WS,52,Qualification,HSIUNG Nai-I (TPE),DAS Ankita (IND),HSIUNG Nai-I
+Pro Tour Qatar Open Doha 2010,2010-02-17,HSIUNG Nai-I,WINTER Sabine,3,2,"11,11,10,9,11|4,6,12,11,9",,GRAND_SLAM,U21WS,52,Qualification,HSIUNG Nai-I (TPE),WINTER Sabine (GER),HSIUNG Nai-I
+Pro Tour Qatar Open Doha 2010,2010-02-17,SOLJA Petrissa,MONDAL Soumi,3,0,"11,11,11|5,2,5",,GRAND_SLAM,U21WS,52,Qualification,SOLJA Petrissa (GER),MONDAL Soumi (IND),SOLJA Petrissa
+Pro Tour Qatar Open Doha 2010,2010-02-17,DESSAINT Aurore,STESHENKO Tatyana,3,0,"11,13,11|7,11,7",,GRAND_SLAM,U21WS,52,Qualification,DESSAINT Aurore (FRA),STESHENKO Tatyana (ITA),DESSAINT Aurore
+Pro Tour Qatar Open Doha 2010,2010-02-17,SOLJA Petrissa,STESHENKO Tatyana,3,0,"11,11,11|1,3,7",,GRAND_SLAM,U21WS,52,Qualification,SOLJA Petrissa (GER),STESHENKO Tatyana (ITA),SOLJA Petrissa
+Pro Tour Qatar Open Doha 2010,2010-02-17,DESSAINT Aurore,MONDAL Soumi,3,0,"11,11,11|8,6,4",,GRAND_SLAM,U21WS,52,Qualification,DESSAINT Aurore (FRA),MONDAL Soumi (IND),DESSAINT Aurore
+Pro Tour Qatar Open Doha 2010,2010-02-17,SOLJA Petrissa,DESSAINT Aurore,3,2,"11,5,9,11,11|2,11,11,3,5",,GRAND_SLAM,U21WS,52,Qualification,SOLJA Petrissa (GER),DESSAINT Aurore (FRA),SOLJA Petrissa
+Pro Tour Qatar Open Doha 2010,2010-02-17,MONDAL Soumi,STESHENKO Tatyana,3,0,"13,12,11|11,10,4",,GRAND_SLAM,U21WS,52,Qualification,MONDAL Soumi (IND),STESHENKO Tatyana (ITA),MONDAL Soumi
+Pro Tour Qatar Open Doha 2010,2010-02-17,DUBKOVA Elena,DESHPANDE Divya,3,0,,,GRAND_SLAM,U21WS,52,Qualification,DUBKOVA Elena (BLR),DESHPANDE Divya (IND),DUBKOVA Elena
+Pro Tour Qatar Open Doha 2010,2010-02-17,NOSKOVA Yana,ARUMBAKKAM Niveditha,3,2,"11,10,11,6,11|7,12,7,11,5",,GRAND_SLAM,U21WS,52,Qualification,NOSKOVA Yana (RUS),ARUMBAKKAM Niveditha (IND),NOSKOVA Yana
+Pro Tour Qatar Open Doha 2010,2010-02-17,NOSKOVA Yana,DUBKOVA Elena,3,0,"11,11,14|5,5,12",,GRAND_SLAM,U21WS,52,Qualification,NOSKOVA Yana (RUS),DUBKOVA Elena (BLR),NOSKOVA Yana
+Pro Tour Qatar Open Doha 2010,2010-02-17,ARUMBAKKAM Niveditha,DESHPANDE Divya,3,2,"11,11,6,8,12|9,7,11,11,10",,GRAND_SLAM,U21WS,52,Qualification,ARUMBAKKAM Niveditha (IND),DESHPANDE Divya (IND),ARUMBAKKAM Niveditha
+Pro Tour Qatar Open Doha 2010,2010-02-17,DUBKOVA Elena,ARUMBAKKAM Niveditha,3,0,"11,11,11|3,8,8",,GRAND_SLAM,U21WS,52,Qualification,DUBKOVA Elena (BLR),ARUMBAKKAM Niveditha (IND),DUBKOVA Elena
+Pro Tour Qatar Open Doha 2010,2010-02-17,NOSKOVA Yana,DESHPANDE Divya,3,0,"11,12,11|9,10,6",,GRAND_SLAM,U21WS,52,Qualification,NOSKOVA Yana (RUS),DESHPANDE Divya (IND),NOSKOVA Yana
+Pro Tour Qatar Open Doha 2010,2010-02-17,OH Sangeun/SEO Hyundeok,GARDOS Robert/HABESOHN Daniel,4,1,"7,11,11,11,11|11,8,7,6,6",QF,GRAND_SLAM,MD,52,Main Draw,OH Sangeun (KOR) / SEO Hyundeok (KOR),GARDOS Robert (AUT) / HABESOHN Daniel (AUT),OH Sangeun
+Pro Tour Qatar Open Doha 2010,2010-02-17,FEGERL Stefan/FENG Xiaoquan,LUNDQVIST Jens/SVENSSON Robert,3,1,"10,11,11,12|12,4,9,10",QR32,GRAND_SLAM,MD,52,Qualification,FEGERL Stefan (AUT) / FENG Xiaoquan (AUT),LUNDQVIST Jens (SWE) / SVENSSON Robert (SWE),FEGERL Stefan
+Pro Tour Qatar Open Doha 2010,2010-02-17,WANG Liqin/XU Xin,KEINATH Thomas/MENGEL Steffen,4,0,"11,11,12,11|5,4,10,7",R16,GRAND_SLAM,MD,52,Main Draw,WANG Liqin (CHN) / XU Xin (CHN),KEINATH Thomas (SVK) / MENGEL Steffen (GER),WANG Liqin
+Pro Tour Qatar Open Doha 2010,2010-02-17,MA Lin/WANG Hao,SHIBAEV Alexander/SMIRNOV Alexey,4,2,"7,11,12,11,9,11|11,5,10,6,11,9",R16,GRAND_SLAM,MD,52,Main Draw,MA Lin (CHN) / WANG Hao (CHN),SHIBAEV Alexander (RUS) / SMIRNOV Alexey (RUS),MA Lin
+Pro Tour Qatar Open Doha 2010,2010-02-17,WANG Liqin/XU Xin,MA Long/ZHANG Jike,4,1,"12,11,11,15,11|10,9,5,17,8",QF,GRAND_SLAM,MD,52,Main Draw,WANG Liqin (CHN) / XU Xin (CHN),MA Long (CHN) / ZHANG Jike (CHN),WANG Liqin
+Pro Tour Qatar Open Doha 2010,2010-02-17,MA Lin/WANG Hao,BAUM Patrick/STEGER Bastian,4,2,"11,11,7,8,11,11|9,6,11,11,4,7",QF,GRAND_SLAM,MD,52,Main Draw,MA Lin (CHN) / WANG Hao (CHN),BAUM Patrick (GER) / STEGER Bastian (GER),MA Lin
+Pro Tour Qatar Open Doha 2010,2010-02-17,MA Lin/WANG Hao,FREITAS Marcos/GACINA Andrej,4,2,"12,3,10,11,15,11|10,11,12,4,13,4",SF,GRAND_SLAM,MD,52,Main Draw,MA Lin (CHN) / WANG Hao (CHN),FREITAS Marcos (POR) / GACINA Andrej (CRO),MA Lin
+Pro Tour Qatar Open Doha 2010,2010-02-17,MA Lin/WANG Hao,WANG Liqin/XU Xin,4,2,"11,7,11,11,9,12|6,11,4,5,11,10",F,GRAND_SLAM,MD,52,Main Draw,MA Lin (CHN) / WANG Hao (CHN),WANG Liqin (CHN) / XU Xin (CHN),MA Lin
+Pro Tour Qatar Open Doha 2010,2010-02-17,BAUM Patrick/STEGER Bastian,PRIMORAC Zoran/TOSIC Roko,4,3,"11,10,10,11,7,11,11|9,12,12,5,11,6,6",R16,GRAND_SLAM,MD,52,Main Draw,BAUM Patrick (GER) / STEGER Bastian (GER),PRIMORAC Zoran (CRO) / TOSIC Roko (CRO),BAUM Patrick
+Pro Tour Qatar Open Doha 2010,2010-02-17,FREITAS Marcos/GACINA Andrej,GAO Ning/YANG Zi,4,2,"10,11,6,12,11,13|12,8,11,10,5,11",R16,GRAND_SLAM,MD,52,Main Draw,FREITAS Marcos (POR) / GACINA Andrej (CRO),GAO Ning (SGP) / YANG Zi (SGP),FREITAS Marcos
+Pro Tour Qatar Open Doha 2010,2010-02-17,FREITAS Marcos/GACINA Andrej,ARUNA Quadri/TORIOLA Segun,3,0,"11,11,11|5,8,9",QR16,GRAND_SLAM,MD,52,Qualification,FREITAS Marcos (POR) / GACINA Andrej (CRO),ARUNA Quadri (NGR) / TORIOLA Segun (NGR),FREITAS Marcos
+Pro Tour Qatar Open Doha 2010,2010-02-17,ARUNA Quadri/TORIOLA Segun,OBESLO Michal/TREGLER Tomas,3,1,"8,11,11,11|11,3,4,7",QR64,GRAND_SLAM,MD,52,Qualification,ARUNA Quadri (NGR) / TORIOLA Segun (NGR),OBESLO Michal (CZE) / TREGLER Tomas (CZE),ARUNA Quadri
+Pro Tour Qatar Open Doha 2010,2010-02-17,GAVLAS Antonin/KORBEL Petr,JAKAB Janos/KOSIBA Daniel,3,1,"11,11,11,11|13,5,9,5",QR32,GRAND_SLAM,MD,52,Qualification,GAVLAS Antonin (CZE) / KORBEL Petr (CZE),JAKAB Janos (HUN) / KOSIBA Daniel (HUN),GAVLAS Antonin
+Pro Tour Qatar Open Doha 2010,2010-02-17,JEOUNG Youngsik/KIM Minseok,KONECNY Tomas/PROKOPCOV Dmitrij,3,0,"11,11,11|7,6,8",QR32,GRAND_SLAM,MD,52,Qualification,JEOUNG Youngsik (KOR) / KIM Minseok (KOR),KONECNY Tomas (CZE) / PROKOPCOV Dmitrij (CZE),JEOUNG Youngsik
+Pro Tour Qatar Open Doha 2010,2010-02-17,GARDOS Robert/HABESOHN Daniel,GAVLAS Antonin/KORBEL Petr,3,0,"11,11,11|8,4,9",QR16,GRAND_SLAM,MD,52,Qualification,GARDOS Robert (AUT) / HABESOHN Daniel (AUT),GAVLAS Antonin (CZE) / KORBEL Petr (CZE),GARDOS Robert
+Pro Tour Qatar Open Doha 2010,2010-02-17,JAKAB Janos/KOSIBA Daniel,LASHIN Elsayed/MOSELHY Emad,3,1,"11,10,13,11|7,12,11,8",QR64,GRAND_SLAM,MD,52,Qualification,JAKAB Janos (HUN) / KOSIBA Daniel (HUN),LASHIN Elsayed (EGY) / MOSELHY Emad (EGY),JAKAB Janos
+Pro Tour Qatar Open Doha 2010,2010-02-17,GERELL Par/SUCH Bartosz,ASSAR Omar/ELSOBKY Mohamed,3,1,"13,8,11,11|11,11,5,3",QR64,GRAND_SLAM,MD,52,Qualification,GERELL Par (SWE) / SUCH Bartosz (POL),ASSAR Omar (EGY) / ELSOBKY Mohamed (EGY),GERELL Par
+Pro Tour Qatar Open Doha 2010,2010-02-17,APOLONIA Tiago/MONTEIRO Joao,ELBEIALI Mohamed/NADIM Ahmed,3,1,"11,10,11,11|9,12,5,8",QR16,GRAND_SLAM,MD,52,Qualification,APOLONIA Tiago (POR) / MONTEIRO Joao (POR),ELBEIALI Mohamed (EGY) / NADIM Ahmed (EGY),APOLONIA Tiago
+Pro Tour Qatar Open Doha 2010,2010-02-17,CHAN Kazuhiro/MATSUDAIRA Kenji,LEBESSON Emmanuel/MATTENET Adrien,4,2,"11,7,11,9,11,11|8,11,3,11,8,8",R16,GRAND_SLAM,MD,52,Main Draw,CHAN Kazuhiro (JPN) / MATSUDAIRA Kenji (JPN),LEBESSON Emmanuel (FRA) / MATTENET Adrien (FRA),CHAN Kazuhiro
+Pro Tour Qatar Open Doha 2010,2010-02-17,KEINATH Thomas/MENGEL Steffen,KUZMIN Fedor/SKACHKOV Kirill,3,0,"11,11,12|8,8,10",QR32,GRAND_SLAM,MD,52,Qualification,KEINATH Thomas (SVK) / MENGEL Steffen (GER),KUZMIN Fedor (RUS) / SKACHKOV Kirill (RUS),KEINATH Thomas
+Pro Tour Qatar Open Doha 2010,2010-02-17,FREITAS Marcos/GACINA Andrej,FEJER-KONNERTH Zoltan/HIELSCHER Lars,3,0,"11,11,11|4,6,9",QR32,GRAND_SLAM,MD,52,Qualification,FREITAS Marcos (POR) / GACINA Andrej (CRO),FEJER-KONNERTH Zoltan (GER) / HIELSCHER Lars (GER),FREITAS Marcos
+Pro Tour Qatar Open Doha 2010,2010-02-17,GERELL Par/SUCH Bartosz,DRINKHALL Paul/OVTCHAROV Dimitrij,3,0,"11,11,13|8,8,11",QR32,GRAND_SLAM,MD,52,Qualification,GERELL Par (SWE) / SUCH Bartosz (POL),DRINKHALL Paul (ENG) / OVTCHAROV Dimitrij (GER),GERELL Par
+Pro Tour Qatar Open Doha 2010,2010-02-17,GARDOS Robert/HABESOHN Daniel,KUMAR Jubin/ROY Soumyadeep,3,0,"11,11,11|6,8,5",QR32,GRAND_SLAM,MD,52,Qualification,GARDOS Robert (AUT) / HABESOHN Daniel (AUT),KUMAR Jubin (IND) / ROY Soumyadeep (IND),GARDOS Robert
+Pro Tour Qatar Open Doha 2010,2010-02-17,ELBEIALI Mohamed/NADIM Ahmed,ACHANTA Sharath/SAHA Subhajit,3,2,"11,11,7,3,11|3,8,11,11,7",QR32,GRAND_SLAM,MD,52,Qualification,ELBEIALI Mohamed (EGY) / NADIM Ahmed (EGY),ACHANTA Sharath (IND) / SAHA Subhajit (IND),ELBEIALI Mohamed
+Pro Tour Qatar Open Doha 2010,2010-02-17,ALAMIYAN Noshad/NOROOZI Afshin,CRISAN Adrian/FILIMON Andrei,3,0,,QR64,GRAND_SLAM,MD,52,Qualification,ALAMIYAN Noshad (IRI) / NOROOZI Afshin (IRI),CRISAN Adrian (ROU) / FILIMON Andrei (ROU),ALAMIYAN Noshad
+Pro Tour Qatar Open Doha 2010,2010-02-17,IONESCU Ovidiu/PANG Xue Jie,AHADI Mehran/AKHLAGHPASAND Mohammadreza,3,1,"7,11,11,12|11,9,9,10",QR64,GRAND_SLAM,MD,52,Qualification,IONESCU Ovidiu (ROU) / PANG Xue Jie (SGP),AHADI Mehran (IRI) / AKHLAGHPASAND Mohammadreza (USA),IONESCU Ovidiu
+Pro Tour Qatar Open Doha 2010,2010-02-17,FREITAS Marcos/GACINA Andrej,CHERAGHIANI Amir/TAHERKHANI Hamidreza,3,0,"11,11,11|8,4,4",QR64,GRAND_SLAM,MD,52,Qualification,FREITAS Marcos (POR) / GACINA Andrej (CRO),CHERAGHIANI Amir (IRI) / TAHERKHANI Hamidreza (IRI),FREITAS Marcos
+Pro Tour Qatar Open Doha 2010,2010-02-17,GARDOS Robert/HABESOHN Daniel,KISHIKAWA Seiya/MIZUTANI Jun,4,2,"21,9,10,11,11,11|19,11,12,2,8,3",R16,GRAND_SLAM,MD,52,Main Draw,GARDOS Robert (AUT) / HABESOHN Daniel (AUT),KISHIKAWA Seiya (JPN) / MIZUTANI Jun (JPN),GARDOS Robert
+Pro Tour Qatar Open Doha 2010,2010-02-17,MA Long/ZHANG Jike,MATSUDAIRA Kenta/NIWA Koki,4,1,"13,11,7,11,11|11,8,11,7,7",R16,GRAND_SLAM,MD,52,Main Draw,MA Long (CHN) / ZHANG Jike (CHN),MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN),MA Long
+Pro Tour Qatar Open Doha 2010,2010-02-17,FREITAS Marcos/GACINA Andrej,CHAN Kazuhiro/MATSUDAIRA Kenji,4,2,"8,11,15,11,6,11|11,9,13,6,11,9",QF,GRAND_SLAM,MD,52,Main Draw,FREITAS Marcos (POR) / GACINA Andrej (CRO),CHAN Kazuhiro (JPN) / MATSUDAIRA Kenji (JPN),FREITAS Marcos
+Pro Tour Qatar Open Doha 2010,2010-02-17,CHAN Kazuhiro/MATSUDAIRA Kenji,ANTHONY Amalraj/CHAKRABORTY Sourav,3,2,"11,8,11,6,11|5,11,5,11,6",QR64,GRAND_SLAM,MD,52,Qualification,CHAN Kazuhiro (JPN) / MATSUDAIRA Kenji (JPN),ANTHONY Amalraj (IND) / CHAKRABORTY Sourav (IND),CHAN Kazuhiro
+Pro Tour Qatar Open Doha 2010,2010-02-17,CHAN Kazuhiro/MATSUDAIRA Kenji,JIANG Tianyi/TANG Peng,2,0,"11,13,6|8,11,2",QR32,GRAND_SLAM,MD,52,Qualification,CHAN Kazuhiro (JPN) / MATSUDAIRA Kenji (JPN),JIANG Tianyi (HKG) / TANG Peng (HKG),CHAN Kazuhiro
+Pro Tour Qatar Open Doha 2010,2010-02-17,WANG Liqin/XU Xin,OH Sangeun/SEO Hyundeok,4,0,"11,15,11,13|3,13,8,11",SF,GRAND_SLAM,MD,52,Main Draw,WANG Liqin (CHN) / XU Xin (CHN),OH Sangeun (KOR) / SEO Hyundeok (KOR),WANG Liqin
+Pro Tour Qatar Open Doha 2010,2010-02-17,CHO Eonrae/RYU Seungmin,ALAMIYAN Noshad/NOROOZI Afshin,3,0,"11,11,11|7,7,8",QR32,GRAND_SLAM,MD,52,Qualification,CHO Eonrae (KOR) / RYU Seungmin (KOR),ALAMIYAN Noshad (IRI) / NOROOZI Afshin (IRI),CHO Eonrae
+Pro Tour Qatar Open Doha 2010,2010-02-17,PRIMORAC Zoran/TOSIC Roko,CHO Eonrae/RYU Seungmin,3,2,"11,13,8,7,11|4,11,11,11,7",QR16,GRAND_SLAM,MD,52,Qualification,PRIMORAC Zoran (CRO) / TOSIC Roko (CRO),CHO Eonrae (KOR) / RYU Seungmin (KOR),PRIMORAC Zoran
+Pro Tour Qatar Open Doha 2010,2010-02-17,MATSUDAIRA Kenta/NIWA Koki,JEOUNG Youngsik/KIM Minseok,3,0,"11,13,11|8,11,7",QR16,GRAND_SLAM,MD,52,Qualification,MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN),JEOUNG Youngsik (KOR) / KIM Minseok (KOR),MATSUDAIRA Kenta
+Pro Tour Qatar Open Doha 2010,2010-02-17,AL-HASAN Ibrahem/AL-HASAN Salem,KUCHUK Aleksandr/PLATONOV Pavel,3,0,"11,11,11|6,6,7",QR64,GRAND_SLAM,MD,52,Qualification,AL-HASAN Ibrahem (KUW) / AL-HASAN Salem (KUW),KUCHUK Aleksandr (BLR) / PLATONOV Pavel (BLR),AL-HASAN Ibrahem
+Pro Tour Qatar Open Doha 2010,2010-02-17,KEINATH Thomas/MENGEL Steffen,AL-HASAN Ibrahem/AL-HASAN Salem,3,1,"14,11,12,12|12,8,14,10",QR16,GRAND_SLAM,MD,52,Qualification,KEINATH Thomas (SVK) / MENGEL Steffen (GER),AL-HASAN Ibrahem (KUW) / AL-HASAN Salem (KUW),KEINATH Thomas
+Pro Tour Qatar Open Doha 2010,2010-02-17,ARUNA Quadri/TORIOLA Segun,LIVENTSOV Alexey/RUBTSOV Igor,3,1,"11,4,11,11|8,11,7,8",QR32,GRAND_SLAM,MD,52,Qualification,ARUNA Quadri (NGR) / TORIOLA Segun (NGR),LIVENTSOV Alexey (RUS) / RUBTSOV Igor (RUS),ARUNA Quadri
+Pro Tour Qatar Open Doha 2010,2010-02-17,AL-HASAN Ibrahem/AL-HASAN Salem,KOSOWSKI Jakub/WANG Zengyi,3,0,,QR32,GRAND_SLAM,MD,52,Qualification,AL-HASAN Ibrahem (KUW) / AL-HASAN Salem (KUW),KOSOWSKI Jakub (POL) / WANG Zengyi (POL),AL-HASAN Ibrahem
+Pro Tour Qatar Open Doha 2010,2010-02-17,CHAN Kazuhiro/MATSUDAIRA Kenji,GERELL Par/SUCH Bartosz,3,1,"12,7,11,11|10,11,8,7",QR16,GRAND_SLAM,MD,52,Qualification,CHAN Kazuhiro (JPN) / MATSUDAIRA Kenji (JPN),GERELL Par (SWE) / SUCH Bartosz (POL),CHAN Kazuhiro
+Pro Tour Qatar Open Doha 2010,2010-02-17,OH Sangeun/SEO Hyundeok,APOLONIA Tiago/MONTEIRO Joao,4,0,,R16,GRAND_SLAM,MD,52,Main Draw,OH Sangeun (KOR) / SEO Hyundeok (KOR),APOLONIA Tiago (POR) / MONTEIRO Joao (POR),OH Sangeun
+Pro Tour Qatar Open Doha 2010,2010-02-17,SHIBAEV Alexander/SMIRNOV Alexey,CHOU Tung-Yu/HUANG Sheng-Sheng,3,1,"8,11,11,11|11,7,7,7",QR32,GRAND_SLAM,MD,52,Qualification,SHIBAEV Alexander (RUS) / SMIRNOV Alexey (RUS),CHOU Tung-Yu (TPE) / HUANG Sheng-Sheng (TPE),SHIBAEV Alexander
+Pro Tour Qatar Open Doha 2010,2010-02-17,SHIBAEV Alexander/SMIRNOV Alexey,FEGERL Stefan/FENG Xiaoquan,3,0,"13,11,12|11,3,10",QR16,GRAND_SLAM,MD,52,Qualification,SHIBAEV Alexander (RUS) / SMIRNOV Alexey (RUS),FEGERL Stefan (AUT) / FENG Xiaoquan (AUT),SHIBAEV Alexander
+Pro Tour Qatar Open Doha 2010,2010-02-17,JEOUNG Youngsik/KIM Minseok,LIU Zhongze/MA Liang,3,1,"8,11,11,11|11,5,8,9",QR64,GRAND_SLAM,MD,52,Qualification,JEOUNG Youngsik (KOR) / KIM Minseok (KOR),LIU Zhongze (SGP) / MA Liang (SGP),JEOUNG Youngsik
+Pro Tour Qatar Open Doha 2010,2010-02-17,APOLONIA Tiago/MONTEIRO Joao,IONESCU Ovidiu/PANG Xue Jie,3,0,"11,11,11|8,7,6",QR32,GRAND_SLAM,MD,52,Qualification,APOLONIA Tiago (POR) / MONTEIRO Joao (POR),IONESCU Ovidiu (ROU) / PANG Xue Jie (SGP),APOLONIA Tiago
+Pro Tour Qatar Open Doha 2010,2010-02-17,CHANG Shun-Hung/CHEN Chien-An,ALHAJJAI Waled Nasser/ALAWLAQI Ahmed,3,0,"11,11,11|7,3,5",QR64,GRAND_SLAM,MD,52,Qualification,CHANG Shun-Hung (TPE) / CHEN Chien-An (TPE),ALHAJJAI Waled Nasser (QAT) / ALAWLAQI Ahmed (QAT),CHANG Shun-Hung
+Pro Tour Qatar Open Doha 2010,2010-02-17,CHOU Tung-Yu/HUANG Sheng-Sheng,CHTCHETININE Evgueni/NEKHVEDOVICH Vitaly,3,0,"11,11,11|9,7,5",QR64,GRAND_SLAM,MD,52,Qualification,CHOU Tung-Yu (TPE) / HUANG Sheng-Sheng (TPE),CHTCHETININE Evgueni (BLR) / NEKHVEDOVICH Vitaly (BLR),CHOU Tung-Yu
+Pro Tour Qatar Open Doha 2010,2010-02-17,PRIMORAC Zoran/TOSIC Roko,CHANG Shun-Hung/CHEN Chien-An,3,1,"11,11,5,11|3,7,11,8",QR32,GRAND_SLAM,MD,52,Qualification,PRIMORAC Zoran (CRO) / TOSIC Roko (CRO),CHANG Shun-Hung (TPE) / CHEN Chien-An (TPE),PRIMORAC Zoran
+Pro Tour Qatar Open Doha 2010,2010-02-17,MATSUDAIRA Kenta/NIWA Koki,LI Ahmet/VANG Bora,3,1,"2,14,11,11|11,12,7,7",QR32,GRAND_SLAM,MD,52,Qualification,MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN),LI Ahmet (TUR) / VANG Bora (TUR),MATSUDAIRA Kenta
+Pro Tour Qatar Open Doha 2010,2010-02-17,KUMAR Jubin/ROY Soumyadeep,GOLOVANOV Stanislav/ZHMUDENKO Yaroslav,3,2,"11,10,11,7,11|7,12,7,11,9",QR64,GRAND_SLAM,MD,52,Qualification,KUMAR Jubin (IND) / ROY Soumyadeep (IND),GOLOVANOV Stanislav (BUL) / ZHMUDENKO Yaroslav (UKR),KUMAR Jubin
+Pro Tour Qatar Open Doha 2010,2010-02-17,SUN Beibei/YU Mengyu,DUBKOVA Elena/PAVLOVICH Viktoria,4,0,"11,11,11,11|8,6,4,7",R16,GRAND_SLAM,WD,52,Main Draw,SUN Beibei (SGP) / YU Mengyu (SGP),DUBKOVA Elena (BLR) / PAVLOVICH Viktoria (BLR),SUN Beibei
+Pro Tour Qatar Open Doha 2010,2010-02-17,DUBKOVA Elena/PAVLOVICH Viktoria,DESSAINT Aurore/STESHENKO Tatyana,3,1,"12,4,11,11|10,11,6,7",QR16,GRAND_SLAM,WD,52,Qualification,DUBKOVA Elena (BLR) / PAVLOVICH Viktoria (BLR),DESSAINT Aurore (FRA) / STESHENKO Tatyana (ITA),DUBKOVA Elena
+Pro Tour Qatar Open Doha 2010,2010-02-17,CHENG I-Ching/HUANG Yi-Hua,FADEEVA Oxana/PAVLOVICH Veronika,3,1,"12,3,11,11|10,11,8,5",QR16,GRAND_SLAM,WD,52,Qualification,CHENG I-Ching (TPE) / HUANG Yi-Hua (TPE),FADEEVA Oxana (RUS) / PAVLOVICH Veronika (BLR),CHENG I-Ching
+Pro Tour Qatar Open Doha 2010,2010-02-17,DING Ning/LIU Shiwen,SUN Beibei/YU Mengyu,4,0,"11,11,11,13|5,8,8,11",QF,GRAND_SLAM,WD,52,Main Draw,DING Ning (CHN) / LIU Shiwen (CHN),SUN Beibei (SGP) / YU Mengyu (SGP),DING Ning
+Pro Tour Qatar Open Doha 2010,2010-02-17,DING Ning/LIU Shiwen,KIM Kyungah/PARK Miyoung,4,0,"11,11,11,13|8,8,2,11",F,GRAND_SLAM,WD,52,Main Draw,DING Ning (CHN) / LIU Shiwen (CHN),KIM Kyungah (KOR) / PARK Miyoung (KOR),DING Ning
+Pro Tour Qatar Open Doha 2010,2010-02-17,DING Ning/LIU Shiwen,DESHPANDE Divya/SAHASRABUDHE Pooja,3,0,"11,13,11|4,11,2",QR16,GRAND_SLAM,WD,52,Qualification,DING Ning (CHN) / LIU Shiwen (CHN),DESHPANDE Divya (IND) / SAHASRABUDHE Pooja (IND),DING Ning
+Pro Tour Qatar Open Doha 2010,2010-02-17,HE Sirin/HU Melek,CAO Zhen/YAO Yan,3,0,,QR16,GRAND_SLAM,WD,52,Qualification,HE Sirin (TUR) / HU Melek (TUR),CAO Zhen (CHN) / YAO Yan (CHN),HE Sirin
+Pro Tour Qatar Open Doha 2010,2010-02-17,BOROS Tamara/CECHOVA Dana,IVANCAN Irene/SCHALL Elke,3,0,"11,11,14|9,9,12",QR32,GRAND_SLAM,WD,52,Qualification,BOROS Tamara (CRO) / CECHOVA Dana (CZE),IVANCAN Irene (GER) / SCHALL Elke (GER),BOROS Tamara
+Pro Tour Qatar Open Doha 2010,2010-02-17,DANG Yeseo/KIM Junghyun,SOLJA Petrissa/WINTER Sabine,4,1,"11,11,5,11,11|6,6,11,7,6",R16,GRAND_SLAM,WD,52,Main Draw,DANG Yeseo (KOR) / KIM Junghyun (KOR),SOLJA Petrissa (GER) / WINTER Sabine (GER),DANG Yeseo
+Pro Tour Qatar Open Doha 2010,2010-02-17,SOLJA Petrissa/WINTER Sabine,GUO Yan (1982)/GUO Yue,3,0,,QR16,GRAND_SLAM,WD,52,Qualification,SOLJA Petrissa (GER) / WINTER Sabine (GER),GUO Yan (1982) (CHN) / GUO Yue (CHN),SOLJA Petrissa
+Pro Tour Qatar Open Doha 2010,2010-02-17,JIANG Huajun/TIE Yana,SKOV Mie/STEFANOVA Nikoleta,4,0,"11,11,11,11|1,6,4,3",R16,GRAND_SLAM,WD,52,Main Draw,JIANG Huajun (HKG) / TIE Yana (HKG),SKOV Mie (DEN) / STEFANOVA Nikoleta (ITA),JIANG Huajun
+Pro Tour Qatar Open Doha 2010,2010-02-17,JIANG Huajun/TIE Yana,FUJII Hiroko/WAKAMIYA Misako,4,2,"9,10,12,12,11,11|11,12,10,10,3,4",QF,GRAND_SLAM,WD,52,Main Draw,JIANG Huajun (HKG) / TIE Yana (HKG),FUJII Hiroko (JPN) / WAKAMIYA Misako (JPN),JIANG Huajun
+Pro Tour Qatar Open Doha 2010,2010-02-17,DING Ning/LIU Shiwen,JIANG Huajun/TIE Yana,4,1,"11,9,12,11,16|7,11,10,8,14",SF,GRAND_SLAM,WD,52,Main Draw,DING Ning (CHN) / LIU Shiwen (CHN),JIANG Huajun (HKG) / TIE Yana (HKG),DING Ning
+Pro Tour Qatar Open Doha 2010,2010-02-17,SKOV Mie/STEFANOVA Nikoleta,KUMARESAN Shamini/PATKAR Madhurika,3,2,"11,11,9,7,11|6,7,11,11,9",QR16,GRAND_SLAM,WD,52,Qualification,SKOV Mie (DEN) / STEFANOVA Nikoleta (ITA),KUMARESAN Shamini (IND) / PATKAR Madhurika (IND),SKOV Mie
+Pro Tour Qatar Open Doha 2010,2010-02-17,FUJII Hiroko/WAKAMIYA Misako,DAS Mouma/GHATAK Poulomi,4,0,"11,11,11,11|3,6,8,5",R16,GRAND_SLAM,WD,52,Main Draw,FUJII Hiroko (JPN) / WAKAMIYA Misako (JPN),DAS Mouma (IND) / GHATAK Poulomi (IND),FUJII Hiroko
+Pro Tour Qatar Open Doha 2010,2010-02-17,FUKUHARA Ai/ISHIKAWA Kasumi,LI Jiao/LI Jie,4,0,"11,11,11,11|8,5,2,5",R16,GRAND_SLAM,WD,52,Main Draw,FUKUHARA Ai (JPN) / ISHIKAWA Kasumi (JPN),LI Jiao (NED) / LI Jie (NED),FUKUHARA Ai
+Pro Tour Qatar Open Doha 2010,2010-02-17,KIM Kyungah/PARK Miyoung,FUKUHARA Ai/ISHIKAWA Kasumi,4,0,"11,11,11,12|3,8,8,10",QF,GRAND_SLAM,WD,52,Main Draw,KIM Kyungah (KOR) / PARK Miyoung (KOR),FUKUHARA Ai (JPN) / ISHIKAWA Kasumi (JPN),KIM Kyungah
+Pro Tour Qatar Open Doha 2010,2010-02-17,HIRANO Sayaka/MORIZONO Misaki,NOSKOVA Yana/TIKHOMIROVA Anna,3,1,"11,11,8,11|3,5,11,8",QR32,GRAND_SLAM,WD,52,Qualification,HIRANO Sayaka (JPN) / MORIZONO Misaki (JPN),NOSKOVA Yana (RUS) / TIKHOMIROVA Anna (RUS),HIRANO Sayaka
+Pro Tour Qatar Open Doha 2010,2010-02-17,FUJII Hiroko/WAKAMIYA Misako,BOROS Tamara/CECHOVA Dana,3,0,"11,15,11|9,13,9",QR16,GRAND_SLAM,WD,52,Qualification,FUJII Hiroko (JPN) / WAKAMIYA Misako (JPN),BOROS Tamara (CRO) / CECHOVA Dana (CZE),FUJII Hiroko
+Pro Tour Qatar Open Doha 2010,2010-02-17,LI Jiao/LI Jie,HIRANO Sayaka/MORIZONO Misaki,3,1,"11,4,14,11|6,11,12,9",QR16,GRAND_SLAM,WD,52,Qualification,LI Jiao (NED) / LI Jie (NED),HIRANO Sayaka (JPN) / MORIZONO Misaki (JPN),LI Jiao
+Pro Tour Qatar Open Doha 2010,2010-02-17,DING Ning/LIU Shiwen,MOON Hyunjung/SEOK Hajung,4,2,"11,11,4,11,8,11|6,9,11,8,11,3",R16,GRAND_SLAM,WD,52,Main Draw,DING Ning (CHN) / LIU Shiwen (CHN),MOON Hyunjung (KOR) / SEOK Hajung (KOR),DING Ning
+Pro Tour Qatar Open Doha 2010,2010-02-17,DESHPANDE Divya/SAHASRABUDHE Pooja,MIKHAILOVA Polina/SHAVYRINA Marina,3,0,"13,11,11|11,6,5",QR32,GRAND_SLAM,WD,52,Qualification,DESHPANDE Divya (IND) / SAHASRABUDHE Pooja (IND),MIKHAILOVA Polina (RUS) / SHAVYRINA Marina (RUS),DESHPANDE Divya
+Pro Tour Qatar Open Doha 2010,2010-02-17,CHENG I-Ching/HUANG Yi-Hua,FENG Tianwei/WANG Yuegu,4,2,"8,11,11,8,11,11|11,5,9,11,8,8",R16,GRAND_SLAM,WD,52,Main Draw,CHENG I-Ching (TPE) / HUANG Yi-Hua (TPE),FENG Tianwei (SGP) / WANG Yuegu (SGP),CHENG I-Ching
+Pro Tour Qatar Open Doha 2010,2010-02-17,CHENG I-Ching/HUANG Yi-Hua,DANG Yeseo/KIM Junghyun,4,2,"9,11,11,11,5,12|11,7,9,6,11,10",QF,GRAND_SLAM,WD,52,Main Draw,CHENG I-Ching (TPE) / HUANG Yi-Hua (TPE),DANG Yeseo (KOR) / KIM Junghyun (KOR),CHENG I-Ching
+Pro Tour Qatar Open Doha 2010,2010-02-17,KIM Kyungah/PARK Miyoung,CHENG I-Ching/HUANG Yi-Hua,4,0,"11,11,11,11|7,4,6,8",SF,GRAND_SLAM,WD,52,Main Draw,KIM Kyungah (KOR) / PARK Miyoung (KOR),CHENG I-Ching (TPE) / HUANG Yi-Hua (TPE),KIM Kyungah
+Pro Tour Qatar Open Doha 2010,2010-02-17,CHENG I-Ching/HUANG Yi-Hua,PARTYKA Natalia/XU Jie (1982),3,2,"6,11,12,12,11|11,9,10,14,7",QR32,GRAND_SLAM,WD,52,Qualification,CHENG I-Ching (TPE) / HUANG Yi-Hua (TPE),PARTYKA Natalia (POL) / XU Jie (1982) (POL),CHENG I-Ching
+Pro Tour Qatar Open Doha 2010,2010-02-17,SOLJA Petrissa/WINTER Sabine,HSIUNG Nai-I/LEE I-Chen,3,2,"11,13,6,9,13|1,11,11,11,11",QR32,GRAND_SLAM,WD,52,Qualification,SOLJA Petrissa (GER) / WINTER Sabine (GER),HSIUNG Nai-I (TPE) / LEE I-Chen (TPE),SOLJA Petrissa
+Pro Tour Qatar Open Doha 2010,2010-02-17,KIM Kyungah/PARK Miyoung,HE Sirin/HU Melek,4,0,"11,11,11,11|3,6,9,4",R16,GRAND_SLAM,WD,52,Main Draw,KIM Kyungah (KOR) / PARK Miyoung (KOR),HE Sirin (TUR) / HU Melek (TUR),KIM Kyungah
+Pro Tour Qatar Open Doha 2010,2010-02-17,KUMARESAN Shamini/PATKAR Madhurika,HAPONOVA Hanna/BILENKO Tetyana,3,2,"11,11,7,7,11|9,9,11,11,9",QR32,GRAND_SLAM,WD,52,Qualification,KUMARESAN Shamini (IND) / PATKAR Madhurika (IND),HAPONOVA Hanna (UKR) / BILENKO Tetyana (UKR),KUMARESAN Shamini

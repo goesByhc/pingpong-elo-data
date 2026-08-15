@@ -1,233 +1,233 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-World Tour Japan Open Tokyo 2017,2017-06-14,FENG Tianwei,POLCANOVA Sofia,4,2,"11,12,8,11,4,11|8,10,11,2,11,5",R32,GRAND_SLAM,WS,458,Main Draw,FENG Tianwei (SGP),POLCANOVA Sofia (AUT)
-World Tour Japan Open Tokyo 2017,2017-06-14,SUN Yingsha,DOO Hoi Kem,4,0,"13,11,11,11|11,6,3,1",R32,GRAND_SLAM,WS,458,Main Draw,SUN Yingsha (CHN),DOO Hoi Kem (HKG)
-World Tour Japan Open Tokyo 2017,2017-06-14,SHAN Xiaona,KATO Miyu,4,2,"11,8,13,8,11,11|5,11,11,11,9,3",R32,GRAND_SLAM,WS,458,Main Draw,SHAN Xiaona (GER),KATO Miyu (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,SATO Hitomi,YUAN Xuejiao,4,1,"11,11,11,7,11|3,2,8,11,4",R32,GRAND_SLAM,WS,458,Main Draw,YUAN Xuejiao (CHN),SATO Hitomi (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,ITO Mima,YANG Ha Eun,4,2,"6,12,6,11,11,11|11,10,11,9,7,5",R32,GRAND_SLAM,WS,458,Main Draw,ITO Mima (JPN),YANG Ha Eun (KOR)
-World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Ke,LI Jie,4,0,"11,12,11,11|6,10,2,7",R32,GRAND_SLAM,WS,458,Main Draw,CHEN Ke (CHN),LI Jie (NED)
-World Tour Japan Open Tokyo 2017,2017-06-14,SAMARA Elizabeta,YU Mengyu,4,0,"11,11,11,11|7,8,6,5",R32,GRAND_SLAM,WS,458,Main Draw,YU Mengyu (SGP),SAMARA Elizabeta (ROU)
-World Tour Japan Open Tokyo 2017,2017-06-14,WANG Manyu,ISHIKAWA Kasumi,4,1,"6,11,11,14,11|11,8,6,12,7",R32,GRAND_SLAM,WS,458,Main Draw,WANG Manyu (CHN),ISHIKAWA Kasumi (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,CHENG I-Ching,LEE Ho Ching,4,0,"11,11,11,11|6,6,7,4",R32,GRAND_SLAM,WS,458,Main Draw,CHENG I-Ching (TPE),LEE Ho Ching (HKG)
-World Tour Japan Open Tokyo 2017,2017-06-14,YU Fu,HASHIMOTO Honoka,4,1,"11,8,11,14,13|7,11,6,12,11",R32,GRAND_SLAM,WS,458,Main Draw,YU Fu (POR),HASHIMOTO Honoka (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,ZENG Jian,CHEN Xingtong,4,3,"11,11,11,5,9,4,11|7,7,2,11,11,11,6",R32,GRAND_SLAM,WS,458,Main Draw,ZENG Jian (SGP),CHEN Xingtong (CHN)
-World Tour Japan Open Tokyo 2017,2017-06-14,HAN Ying,CHEN Szu-Yu,4,0,"11,11,11,11|5,7,9,6",R32,GRAND_SLAM,WS,458,Main Draw,CHEN Szu-Yu (TPE),HAN Ying (GER)
-World Tour Japan Open Tokyo 2017,2017-06-14,HIRANO Miu,SUH Hyo Won,4,0,"11,11,11,11|8,6,4,4",R32,GRAND_SLAM,WS,458,Main Draw,HIRANO Miu (JPN),SUH Hyo Won (KOR)
-World Tour Japan Open Tokyo 2017,2017-06-14,JEON Jihee,MORI Sakura,4,2,"9,11,6,13,15,11|11,8,11,11,13,8",R32,GRAND_SLAM,WS,458,Main Draw,MORI Sakura (JPN),JEON Jihee (KOR)
-World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Meng,SOO Wai Yam,4,0,"11,11,12,11|7,6,10,5",R32,GRAND_SLAM,WS,458,Main Draw,SOO Wai Yam (HKG),CHEN Meng (CHN)
-World Tour Japan Open Tokyo 2017,2017-06-14,SUN Yingsha,FENG Tianwei,4,1,"11,8,11,11,12|8,11,4,7,10",R16,GRAND_SLAM,WS,458,Main Draw,FENG Tianwei (SGP),SUN Yingsha (CHN)
-World Tour Japan Open Tokyo 2017,2017-06-14,SHAN Xiaona,SATO Hitomi,4,1,"11,10,11,13,12|5,12,6,11,10",R16,GRAND_SLAM,WS,458,Main Draw,SHAN Xiaona (GER),SATO Hitomi (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,ITO Mima,CHEN Ke,4,3,"11,7,11,9,11,8,11|6,11,8,11,8,11,7",R16,GRAND_SLAM,WS,458,Main Draw,ITO Mima (JPN),CHEN Ke (CHN)
-World Tour Japan Open Tokyo 2017,2017-06-14,WANG Manyu,SAMARA Elizabeta,4,0,"11,12,11,11|7,10,7,7",R16,GRAND_SLAM,WS,458,Main Draw,SAMARA Elizabeta (ROU),WANG Manyu (CHN)
-World Tour Japan Open Tokyo 2017,2017-06-14,CHENG I-Ching,YU Fu,4,1,"11,11,11,10,11|7,8,7,12,7",R16,GRAND_SLAM,WS,458,Main Draw,CHENG I-Ching (TPE),YU Fu (POR)
-World Tour Japan Open Tokyo 2017,2017-06-14,HAN Ying,ZENG Jian,4,1,"11,13,10,14,11|6,11,12,12,7",R16,GRAND_SLAM,WS,458,Main Draw,ZENG Jian (SGP),HAN Ying (GER)
-World Tour Japan Open Tokyo 2017,2017-06-14,HIRANO Miu,JEON Jihee,4,3,"13,11,11,7,11,4,11|15,6,6,11,5,11,7",R16,GRAND_SLAM,WS,458,Main Draw,HIRANO Miu (JPN),JEON Jihee (KOR)
-World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Meng,JIANG Huajun,4,1,"11,11,11,11,11|13,5,8,4,5",R16,GRAND_SLAM,WS,458,Main Draw,JIANG Huajun (HKG),CHEN Meng (CHN)
-World Tour Japan Open Tokyo 2017,2017-06-14,SUN Yingsha,SHAN Xiaona,4,2,"11,4,11,9,13,11|7,11,3,11,11,8",QF,GRAND_SLAM,WS,458,Main Draw,SUN Yingsha (CHN),SHAN Xiaona (GER)
-World Tour Japan Open Tokyo 2017,2017-06-14,WANG Manyu,ITO Mima,4,2,"4,8,13,12,11,11|11,11,11,10,9,8",QF,GRAND_SLAM,WS,458,Main Draw,ITO Mima (JPN),WANG Manyu (CHN)
-World Tour Japan Open Tokyo 2017,2017-06-14,HAN Ying,CHENG I-Ching,4,2,"11,10,11,10,11,11|7,12,4,12,8,7",QF,GRAND_SLAM,WS,458,Main Draw,CHENG I-Ching (TPE),HAN Ying (GER)
-World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Meng,HIRANO Miu,4,0,"11,11,11,11|7,8,5,7",QF,GRAND_SLAM,WS,458,Main Draw,HIRANO Miu (JPN),CHEN Meng (CHN)
-World Tour Japan Open Tokyo 2017,2017-06-14,SUN Yingsha,WANG Manyu,4,0,"16,11,14,11|14,9,12,7",SF,GRAND_SLAM,WS,458,Main Draw,SUN Yingsha (CHN),WANG Manyu (CHN)
-World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Meng,HAN Ying,4,1,"11,11,11,7,11|7,8,8,11,5",SF,GRAND_SLAM,WS,458,Main Draw,HAN Ying (GER),CHEN Meng (CHN)
-World Tour Japan Open Tokyo 2017,2017-06-14,SUN Yingsha,CHEN Meng,4,3,"9,11,8,8,11,11,11|11,9,11,11,7,9,8",F,GRAND_SLAM,WS,458,Main Draw,SUN Yingsha (CHN),CHEN Meng (CHN)
-World Tour Japan Open Tokyo 2017,2017-06-14,PARK Jeongwoo,PANG Xue Jie,4,0,"11,12,11,11|4,10,4,4",QR128,GRAND_SLAM,MS,458,Qualification,PARK Jeongwoo (KOR),PANG Xue Jie (SGP)
-World Tour Japan Open Tokyo 2017,2017-06-14,CHIANG Hung-Chieh,IMANKADYROV Anvar,4,0,"11,11,11,12|3,2,1,10",QR128,GRAND_SLAM,MS,458,Qualification,CHIANG Hung-Chieh (TPE),IMANKADYROV Anvar (RUS)
-World Tour Japan Open Tokyo 2017,2017-06-14,YANG Heng-Wei,TOWNSEND Wade,4,0,"11,11,11,11|2,6,6,9",QR128,GRAND_SLAM,MS,458,Qualification,TOWNSEND Wade (AUS),YANG Heng-Wei (TPE)
-World Tour Japan Open Tokyo 2017,2017-06-14,NUYTINCK Cedric,SEYFRIED Joe,4,2,"9,11,8,11,11,11|11,9,11,9,6,4",QR128,GRAND_SLAM,MS,458,Qualification,SEYFRIED Joe (FRA),NUYTINCK Cedric (BEL)
-World Tour Japan Open Tokyo 2017,2017-06-14,LAM Siu Hang,WANG LI Chung-Yi,4,0,"12,11,11,11|10,7,9,6",QR128,GRAND_SLAM,MS,458,Qualification,LAM Siu Hang (HKG),WANG LI Chung-Yi (TPE)
-World Tour Japan Open Tokyo 2017,2017-06-14,CHEW Clarence,TRAN Tuan Quynh,4,0,"11,11,11,11|6,9,8,9",QR128,GRAND_SLAM,MS,458,Qualification,CHEW Clarence (SGP),TRAN Tuan Quynh (VIE)
-World Tour Japan Open Tokyo 2017,2017-06-14,BROSSIER Benjamin,YEH Chih-Wei,4,0,"11,11,11,12|9,6,9,10",QR128,GRAND_SLAM,MS,458,Qualification,BROSSIER Benjamin (FRA),YEH Chih-Wei (TPE)
-World Tour Japan Open Tokyo 2017,2017-06-14,PARK Ganghyeon,CHERNOV Konstantin,4,0,"11,11,11,11|6,4,8,8",QR128,GRAND_SLAM,MS,458,Qualification,PARK Ganghyeon (KOR),CHERNOV Konstantin (RUS)
-World Tour Japan Open Tokyo 2017,2017-06-14,HACHARD Antoine,QIU Dang,4,1,"11,8,11,11,11|9,11,7,3,6",QR128,GRAND_SLAM,MS,458,Qualification,HACHARD Antoine (FRA),QIU Dang (GER)
-World Tour Japan Open Tokyo 2017,2017-06-14,LIAO Cheng-Ting,NIKULIN Ivan,4,0,"13,11,14,11|11,3,12,4",QR128,GRAND_SLAM,MS,458,Qualification,LIAO Cheng-Ting (TPE),NIKULIN Ivan (RUS)
-World Tour Japan Open Tokyo 2017,2017-06-14,KOSIBA Daniel,MATSUBARA Yutaka,4,0,"11,12,11,11|7,10,8,2",QR128,GRAND_SLAM,MS,458,Qualification,KOSIBA Daniel (HUN),MATSUBARA Yutaka (CHI)
-World Tour Japan Open Tokyo 2017,2017-06-14,LEVENKO Andreas,SCHAFFER Daniel,4,0,"12,11,11,11|10,3,3,6",QR128,GRAND_SLAM,MS,458,Qualification,SCHAFFER Daniel (HUN),LEVENKO Andreas (AUT)
-World Tour Japan Open Tokyo 2017,2017-06-14,WU Jiaji,NGUYEN Anh Tu,4,2,"11,8,14,11,11,11|3,11,16,3,8,8",QR128,GRAND_SLAM,MS,458,Qualification,WU Jiaji (DOM),NGUYEN Anh Tu (VIE)
-World Tour Japan Open Tokyo 2017,2017-06-14,LIN Yun-Ju,NG Pak Nam,4,2,"6,11,6,11,11,11|11,4,11,7,9,7",QR128,GRAND_SLAM,MS,458,Qualification,NG Pak Nam (HKG),LIN Yun-Ju (TPE)
-World Tour Japan Open Tokyo 2017,2017-06-14,LORENTZ Romain,TOWNSEND Kane,4,0,"11,12,11,11|5,10,7,8",QR128,GRAND_SLAM,MS,458,Qualification,LORENTZ Romain (FRA),TOWNSEND Kane (AUS)
-World Tour Japan Open Tokyo 2017,2017-06-14,SUN Chia-Hung,ZHAO Tianming,4,1,"11,11,8,11,11|7,8,11,8,5",QR128,GRAND_SLAM,MS,458,Qualification,ZHAO Tianming (POR),SUN Chia-Hung (TPE)
-World Tour Japan Open Tokyo 2017,2017-06-14,STEGER Bastian,DEVOS Robin,4,1,"13,11,11,10,12|11,2,8,12,10",QR64,GRAND_SLAM,MS,458,Qualification,STEGER Bastian (GER),DEVOS Robin (BEL)
-World Tour Japan Open Tokyo 2017,2017-06-14,PARK Jeongwoo,GERALDO Joao,4,1,"13,7,13,11,16|11,11,11,8,14",QR64,GRAND_SLAM,MS,458,Qualification,PARK Jeongwoo (KOR),GERALDO Joao (POR)
-World Tour Japan Open Tokyo 2017,2017-06-14,RYUZAKI Tonin,JIANG Tianyi,4,2,"9,11,11,9,11,12|11,6,7,11,7,10",QR64,GRAND_SLAM,MS,458,Qualification,JIANG Tianyi (HKG),RYUZAKI Tonin (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,CHIANG Hung-Chieh,MONTEIRO Joao,4,3,"6,14,8,11,9,11,11|11,12,11,5,11,9,8",QR64,GRAND_SLAM,MS,458,Qualification,CHIANG Hung-Chieh (TPE),MONTEIRO Joao (POR)
-World Tour Japan Open Tokyo 2017,2017-06-14,YOSHIDA Masaki,YANG Heng-Wei,4,1,"6,11,11,11,11|11,7,8,7,8",QR64,GRAND_SLAM,MS,458,Qualification,YOSHIDA Masaki (JPN),YANG Heng-Wei (TPE)
-World Tour Japan Open Tokyo 2017,2017-06-14,TAZOE Kenta,FLORE Tristan,4,2,"7,7,11,11,11,11|11,11,6,7,6,8",QR64,GRAND_SLAM,MS,458,Qualification,TAZOE Kenta (JPN),FLORE Tristan (FRA)
-World Tour Japan Open Tokyo 2017,2017-06-14,NUYTINCK Cedric,WANG Yang,4,1,"11,11,11,11,11|13,6,9,9,9",QR64,GRAND_SLAM,MS,458,Qualification,WANG Yang (SVK),NUYTINCK Cedric (BEL)
-World Tour Japan Open Tokyo 2017,2017-06-14,YOSHIMURA Kazuhiro,JANG Woojin,4,2,"11,11,9,11,8,12|6,4,11,8,11,10",QR64,GRAND_SLAM,MS,458,Qualification,YOSHIMURA Kazuhiro (JPN),JANG Woojin (KOR)
-World Tour Japan Open Tokyo 2017,2017-06-14,HIRANO Yuki,CHEN Chien-An,4,0,"12,11,11,17|10,7,6,15",QR64,GRAND_SLAM,MS,458,Qualification,CHEN Chien-An (TPE),HIRANO Yuki (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,UEDA Jin,LAM Siu Hang,4,2,"11,11,8,11,9,11|7,6,11,4,11,4",QR64,GRAND_SLAM,MS,458,Qualification,LAM Siu Hang (HKG),UEDA Jin (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,HARIMOTO Tomokazu,PERSSON Jon,4,2,"14,11,8,11,9,12|12,6,11,3,11,10",QR64,GRAND_SLAM,MS,458,Qualification,HARIMOTO Tomokazu (JPN),PERSSON Jon (SWE)
-World Tour Japan Open Tokyo 2017,2017-06-14,LIANG Jingkun,CHEW Clarence,4,1,"11,11,9,11,11|5,9,11,8,5",QR64,GRAND_SLAM,MS,458,Qualification,CHEW Clarence (SGP),LIANG Jingkun (CHN)
-World Tour Japan Open Tokyo 2017,2017-06-14,LANDRIEU Andrea,JEONG Sangeun,4,2,"7,11,4,11,11,11|11,7,11,8,6,7",QR64,GRAND_SLAM,MS,458,Qualification,JEONG Sangeun (KOR),LANDRIEU Andrea (FRA)
-World Tour Japan Open Tokyo 2017,2017-06-14,HO Kwan Kit,BROSSIER Benjamin,4,1,"11,12,7,11,11|7,10,11,7,7",QR64,GRAND_SLAM,MS,458,Qualification,BROSSIER Benjamin (FRA),HO Kwan Kit (HKG)
-World Tour Japan Open Tokyo 2017,2017-06-14,WANG Eugene,LAMBIET Florent,4,0,"11,16,11,11|3,14,7,9",QR64,GRAND_SLAM,MS,458,Qualification,WANG Eugene (CAN),LAMBIET Florent (BEL)
-World Tour Japan Open Tokyo 2017,2017-06-14,YOSHIMURA Maharu,PARK Ganghyeon,4,1,"9,11,11,12,11|11,9,8,10,4",QR64,GRAND_SLAM,MS,458,Qualification,PARK Ganghyeon (KOR),YOSHIMURA Maharu (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,MURAMATSU Yuto,BUROV Viacheslav,4,0,"11,11,11,11|5,5,7,6",QR64,GRAND_SLAM,MS,458,Qualification,MURAMATSU Yuto (JPN),BUROV Viacheslav (RUS)
-World Tour Japan Open Tokyo 2017,2017-06-14,LIM Jonghoon,HACHARD Antoine,4,3,"4,12,11,10,5,11,11|11,10,5,12,11,3,5",QR64,GRAND_SLAM,MS,458,Qualification,HACHARD Antoine (FRA),LIM Jonghoon (KOR)
-World Tour Japan Open Tokyo 2017,2017-06-14,ASSAR Omar,MATSUYAMA Yuki,4,0,"11,11,11,11|8,8,9,9",QR64,GRAND_SLAM,MS,458,Qualification,ASSAR Omar (EGY),MATSUYAMA Yuki (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,FRANZISKA Patrick,LIAO Cheng-Ting,4,3,"7,12,11,10,3,12,13|11,10,8,12,11,10,11",QR64,GRAND_SLAM,MS,458,Qualification,LIAO Cheng-Ting (TPE),FRANZISKA Patrick (GER)
-World Tour Japan Open Tokyo 2017,2017-06-14,JIN Takuya,GAO Ning,4,0,"12,11,12,11|10,9,10,6",QR64,GRAND_SLAM,MS,458,Qualification,GAO Ning (SGP),JIN Takuya (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,MENGEL Steffen,KOSIBA Daniel,4,1,"11,9,11,11,11|8,11,8,5,6",QR64,GRAND_SLAM,MS,458,Qualification,KOSIBA Daniel (HUN),MENGEL Steffen (GER)
-World Tour Japan Open Tokyo 2017,2017-06-14,LEVENKO Andreas,LI Ahmet,4,2,"4,11,11,11,9,11|11,7,3,5,11,9",QR64,GRAND_SLAM,MS,458,Qualification,LI Ahmet (TUR),LEVENKO Andreas (AUT)
-World Tour Japan Open Tokyo 2017,2017-06-14,FILUS Ruwen,SAKAI Asuka,4,3,"9,11,10,9,11,11,11|11,9,12,11,7,5,8",QR64,GRAND_SLAM,MS,458,Qualification,SAKAI Asuka (JPN),FILUS Ruwen (GER)
-World Tour Japan Open Tokyo 2017,2017-06-14,LEBESSON Emmanuel,KIM Donghyun,4,1,"11,13,11,11,11|5,11,13,5,5",QR64,GRAND_SLAM,MS,458,Qualification,LEBESSON Emmanuel (FRA),KIM Donghyun (KOR)
-World Tour Japan Open Tokyo 2017,2017-06-14,DUDA Benedikt,WU Jiaji,4,1,"12,12,11,10,11|10,10,8,12,9",QR64,GRAND_SLAM,MS,458,Qualification,WU Jiaji (DOM),DUDA Benedikt (GER)
-World Tour Japan Open Tokyo 2017,2017-06-14,CHO Seungmin,KIZUKURI Yuto,4,2,"11,11,11,9,11,11|3,13,7,11,9,8",QR64,GRAND_SLAM,MS,458,Qualification,CHO Seungmin (KOR),KIZUKURI Yuto (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,LIN Gaoyuan,LIN Yun-Ju,4,1,"9,11,11,11,11|11,4,8,9,8",QR64,GRAND_SLAM,MS,458,Qualification,LIN Yun-Ju (TPE),LIN Gaoyuan (CHN)
-World Tour Japan Open Tokyo 2017,2017-06-14,WALTHER Ricardo,SEO Hyundeok,4,0,"11,11,11,11|4,8,8,7",QR64,GRAND_SLAM,MS,458,Qualification,WALTHER Ricardo (GER),SEO Hyundeok (KOR)
-World Tour Japan Open Tokyo 2017,2017-06-14,MORIZONO Masataka,LORENTZ Romain,4,0,"11,11,11,11|7,9,2,5",QR64,GRAND_SLAM,MS,458,Qualification,LORENTZ Romain (FRA),MORIZONO Masataka (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,KIM Minseok,SUN Chia-Hung,4,1,"11,11,8,11,11|3,3,11,9,8",QR64,GRAND_SLAM,MS,458,Qualification,KIM Minseok (KOR),SUN Chia-Hung (TPE)
-World Tour Japan Open Tokyo 2017,2017-06-14,KARLSSON Mattias,YANG Tzu-Yi,4,0,"11,11,11,11|3,7,6,4",QR64,GRAND_SLAM,MS,458,Qualification,YANG Tzu-Yi (TPE),KARLSSON Mattias (SWE)
-World Tour Japan Open Tokyo 2017,2017-06-14,STEGER Bastian,PARK Jeongwoo,4,3,"12,8,6,11,8,11,11|10,11,11,6,11,3,1",QR32,GRAND_SLAM,MS,458,Qualification,STEGER Bastian (GER),PARK Jeongwoo (KOR)
-World Tour Japan Open Tokyo 2017,2017-06-14,RYUZAKI Tonin,CHIANG Hung-Chieh,4,0,"11,11,12,11|6,8,10,4",QR32,GRAND_SLAM,MS,458,Qualification,RYUZAKI Tonin (JPN),CHIANG Hung-Chieh (TPE)
-World Tour Japan Open Tokyo 2017,2017-06-14,YOSHIDA Masaki,TAZOE Kenta,4,1,"11,7,11,11,12|8,11,9,9,10",QR32,GRAND_SLAM,MS,458,Qualification,YOSHIDA Masaki (JPN),TAZOE Kenta (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,YOSHIMURA Kazuhiro,NUYTINCK Cedric,4,2,"15,12,11,10,1,11|13,10,7,12,11,9",QR32,GRAND_SLAM,MS,458,Qualification,NUYTINCK Cedric (BEL),YOSHIMURA Kazuhiro (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,UEDA Jin,HIRANO Yuki,4,2,"11,5,11,14,5,11|8,11,5,12,11,7",QR32,GRAND_SLAM,MS,458,Qualification,HIRANO Yuki (JPN),UEDA Jin (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,LIANG Jingkun,HARIMOTO Tomokazu,4,1,"11,13,14,11,11|2,11,16,6,8",QR32,GRAND_SLAM,MS,458,Qualification,HARIMOTO Tomokazu (JPN),LIANG Jingkun (CHN)
-World Tour Japan Open Tokyo 2017,2017-06-14,HO Kwan Kit,LANDRIEU Andrea,4,2,"8,11,11,11,12,11|11,9,4,4,14,7",QR32,GRAND_SLAM,MS,458,Qualification,LANDRIEU Andrea (FRA),HO Kwan Kit (HKG)
-World Tour Japan Open Tokyo 2017,2017-06-14,YOSHIMURA Maharu,WANG Eugene,4,2,"11,15,9,11,7,11|7,13,11,5,11,7",QR32,GRAND_SLAM,MS,458,Qualification,WANG Eugene (CAN),YOSHIMURA Maharu (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,LIM Jonghoon,MURAMATSU Yuto,4,1,"11,5,11,11,11|8,11,8,7,9",QR32,GRAND_SLAM,MS,458,Qualification,MURAMATSU Yuto (JPN),LIM Jonghoon (KOR)
-World Tour Japan Open Tokyo 2017,2017-06-14,ASSAR Omar,FRANZISKA Patrick,4,2,"8,11,13,8,11,11|11,8,11,11,9,7",QR32,GRAND_SLAM,MS,458,Qualification,ASSAR Omar (EGY),FRANZISKA Patrick (GER)
-World Tour Japan Open Tokyo 2017,2017-06-14,JIN Takuya,MENGEL Steffen,4,1,"11,6,12,11,11|5,11,10,9,8",QR32,GRAND_SLAM,MS,458,Qualification,JIN Takuya (JPN),MENGEL Steffen (GER)
-World Tour Japan Open Tokyo 2017,2017-06-14,FILUS Ruwen,LEVENKO Andreas,4,0,"11,11,11,11|9,4,6,6",QR32,GRAND_SLAM,MS,458,Qualification,LEVENKO Andreas (AUT),FILUS Ruwen (GER)
-World Tour Japan Open Tokyo 2017,2017-06-14,LEBESSON Emmanuel,DUDA Benedikt,4,0,"11,11,11,11|3,7,5,4",QR32,GRAND_SLAM,MS,458,Qualification,LEBESSON Emmanuel (FRA),DUDA Benedikt (GER)
-World Tour Japan Open Tokyo 2017,2017-06-14,LIN Gaoyuan,CHO Seungmin,4,1,"9,11,11,12,11|11,9,6,10,7",QR32,GRAND_SLAM,MS,458,Qualification,CHO Seungmin (KOR),LIN Gaoyuan (CHN)
-World Tour Japan Open Tokyo 2017,2017-06-14,WALTHER Ricardo,MORIZONO Masataka,4,1,"11,11,11,5,11|9,9,9,11,6",QR32,GRAND_SLAM,MS,458,Qualification,WALTHER Ricardo (GER),MORIZONO Masataka (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,KARLSSON Mattias,KIM Minseok,4,2,"9,11,11,11,13,12|11,13,8,4,11,10",QR32,GRAND_SLAM,MS,458,Qualification,KIM Minseok (KOR),KARLSSON Mattias (SWE)
-World Tour Japan Open Tokyo 2017,2017-06-14,MA Wenting,MINAGAWA Yuka,4,0,"11,11,11,11|7,6,9,8",QR64,GRAND_SLAM,WS,458,Qualification,MINAGAWA Yuka (JPN),MA Wenting (NOR)
-World Tour Japan Open Tokyo 2017,2017-06-14,LIN Chia-Chih,SOLJA Amelie,4,1,"11,6,11,11,11|2,11,5,8,9",QR64,GRAND_SLAM,WS,458,Qualification,SOLJA Amelie (AUT),LIN Chia-Chih (TPE)
-World Tour Japan Open Tokyo 2017,2017-06-14,HUANG Yi-Hua,IKEGAMI Reiko,4,2,"7,11,8,11,11,11|11,4,11,7,7,5",QR64,GRAND_SLAM,WS,458,Qualification,IKEGAMI Reiko (JPN),HUANG Yi-Hua (TPE)
-World Tour Japan Open Tokyo 2017,2017-06-14,KIHARA Miyuu,YOO Eunchong,4,0,"11,13,11,11|6,11,5,4",QR64,GRAND_SLAM,WS,458,Qualification,YOO Eunchong (KOR),KIHARA Miyuu (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,NARUMOTO Ayami,LEE Nakyung,4,3,"7,8,11,11,9,11,11|11,11,7,8,11,9,9",QR64,GRAND_SLAM,WS,458,Qualification,LEE Nakyung (KOR),NARUMOTO Ayami (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,SZOCS Bernadette,VINOGRADOVA Mariia,4,0,"11,11,12,11|7,6,10,7",QR64,GRAND_SLAM,WS,458,Qualification,SZOCS Bernadette (ROU),VINOGRADOVA Mariia (RUS)
-World Tour Japan Open Tokyo 2017,2017-06-14,DRAGOMAN Andreea,SONG Maeum,4,2,"12,11,6,11,10,15|10,9,11,5,12,13",QR64,GRAND_SLAM,WS,458,Qualification,DRAGOMAN Andreea (ROU),SONG Maeum (KOR)
-World Tour Japan Open Tokyo 2017,2017-06-14,CHENG Hsien-Tzu,SASAO Asuka,4,3,"11,8,9,11,1,11,11|7,11,11,4,11,5,9",QR64,GRAND_SLAM,WS,458,Qualification,CHENG Hsien-Tzu (TPE),SASAO Asuka (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Ke,NG Wing Nam,4,1,"9,11,11,11,11|11,6,6,4,4",QR64,GRAND_SLAM,WS,458,Qualification,CHEN Ke (CHN),NG Wing Nam (HKG)
-World Tour Japan Open Tokyo 2017,2017-06-14,ANDO Minami,LIU Yu-Hsin,4,1,"13,14,11,6,11|11,12,8,11,8",QR64,GRAND_SLAM,WS,458,Qualification,ANDO Minami (JPN),LIU Yu-Hsin (TPE)
-World Tour Japan Open Tokyo 2017,2017-06-14,SHAO Jieni,PARK Joohyun,4,1,"6,11,11,11,12|11,3,6,8,10",QR64,GRAND_SLAM,WS,458,Qualification,PARK Joohyun (KOR),SHAO Jieni (POR)
-World Tour Japan Open Tokyo 2017,2017-06-14,JUNG Yumi,HUANG Hsin,4,1,"11,6,11,11,11|9,11,5,8,6",QR64,GRAND_SLAM,WS,458,Qualification,JUNG Yumi (KOR),HUANG Hsin (TPE)
-World Tour Japan Open Tokyo 2017,2017-06-14,DIACONU Adina,LI Yu-Jhun,4,1,"11,11,11,6,11|6,2,3,11,5",QR64,GRAND_SLAM,WS,458,Qualification,LI Yu-Jhun (TPE),DIACONU Adina (ROU)
-World Tour Japan Open Tokyo 2017,2017-06-14,SUN Yingsha,HUANG Yu-Wen,4,0,"11,11,11,11|3,4,7,4",QR64,GRAND_SLAM,WS,458,Qualification,SUN Yingsha (CHN),HUANG Yu-Wen (TPE)
-World Tour Japan Open Tokyo 2017,2017-06-14,ZHANG Mo,SUZUKI Rika,4,3,"11,9,6,11,5,12,12|8,11,11,8,11,10,10",QR64,GRAND_SLAM,WS,458,Qualification,SUZUKI Rika (JPN),ZHANG Mo (CAN)
-World Tour Japan Open Tokyo 2017,2017-06-14,YUAN Xuejiao,MAK Tze Wing,4,0,"11,11,11,11|7,8,5,4",QR64,GRAND_SLAM,WS,458,Qualification,MAK Tze Wing (HKG),YUAN Xuejiao (CHN)
-World Tour Japan Open Tokyo 2017,2017-06-14,YANG Ha Eun,MA Wenting,4,3,"11,8,11,11,11,8,11|6,11,6,13,4,11,5",QR32,GRAND_SLAM,WS,458,Qualification,YANG Ha Eun (KOR),MA Wenting (NOR)
-World Tour Japan Open Tokyo 2017,2017-06-14,JIANG Huajun,LIN Chia-Chih,4,2,"7,11,11,7,11,11|11,7,9,11,6,4",QR32,GRAND_SLAM,WS,458,Qualification,LIN Chia-Chih (TPE),JIANG Huajun (HKG)
-World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Xingtong,HUANG Yi-Hua,4,2,"11,11,12,6,11,11|6,9,14,11,2,2",QR32,GRAND_SLAM,WS,458,Qualification,CHEN Xingtong (CHN),HUANG Yi-Hua (TPE)
-World Tour Japan Open Tokyo 2017,2017-06-14,LEE Ho Ching,KIHARA Miyuu,4,3,"12,9,11,13,11,9,11|14,11,7,11,4,11,5",QR32,GRAND_SLAM,WS,458,Qualification,KIHARA Miyuu (JPN),LEE Ho Ching (HKG)
-World Tour Japan Open Tokyo 2017,2017-06-14,KATO Miyu,NARUMOTO Ayami,4,0,"11,11,11,11|9,5,9,9",QR32,GRAND_SLAM,WS,458,Qualification,KATO Miyu (JPN),NARUMOTO Ayami (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,SOO Wai Yam,SZOCS Bernadette,4,1,"11,11,12,7,11|8,4,10,11,8",QR32,GRAND_SLAM,WS,458,Qualification,SZOCS Bernadette (ROU),SOO Wai Yam (HKG)
-World Tour Japan Open Tokyo 2017,2017-06-14,YU Fu,DRAGOMAN Andreea,4,1,"9,11,11,11,11|11,4,2,8,9",QR32,GRAND_SLAM,WS,458,Qualification,YU Fu (POR),DRAGOMAN Andreea (ROU)
-World Tour Japan Open Tokyo 2017,2017-06-14,SUH Hyo Won,CHENG Hsien-Tzu,4,0,"11,11,11,11|8,7,5,6",QR32,GRAND_SLAM,WS,458,Qualification,CHENG Hsien-Tzu (TPE),SUH Hyo Won (KOR)
-World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Ke,HAMAMOTO Yui,4,0,"11,11,14,14|8,7,12,12",QR32,GRAND_SLAM,WS,458,Qualification,HAMAMOTO Yui (AUT),CHEN Ke (CHN)
-World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Szu-Yu,ANDO Minami,4,2,"8,11,11,11,9,11|11,6,5,9,11,1",QR32,GRAND_SLAM,WS,458,Qualification,ANDO Minami (JPN),CHEN Szu-Yu (TPE)
-World Tour Japan Open Tokyo 2017,2017-06-14,POLCANOVA Sofia,SHAO Jieni,4,2,"12,11,10,11,6,11|10,7,12,7,11,8",QR32,GRAND_SLAM,WS,458,Qualification,POLCANOVA Sofia (AUT),SHAO Jieni (POR)
-World Tour Japan Open Tokyo 2017,2017-06-14,SAMARA Elizabeta,JUNG Yumi,4,1,"12,11,11,4,11|10,8,6,11,9",QR32,GRAND_SLAM,WS,458,Qualification,JUNG Yumi (KOR),SAMARA Elizabeta (ROU)
-World Tour Japan Open Tokyo 2017,2017-06-14,MORI Sakura,DIACONU Adina,4,2,"8,11,11,12,10,11|11,9,5,10,12,8",QR32,GRAND_SLAM,WS,458,Qualification,MORI Sakura (JPN),DIACONU Adina (ROU)
-World Tour Japan Open Tokyo 2017,2017-06-14,SUN Yingsha,CHOI Hyojoo,4,0,"11,11,11,11|8,3,3,2",QR32,GRAND_SLAM,WS,458,Qualification,SUN Yingsha (CHN),CHOI Hyojoo (KOR)
-World Tour Japan Open Tokyo 2017,2017-06-14,WANG Manyu,ZHANG Mo,4,3,"6,5,9,11,12,11,11|11,11,11,6,10,4,4",QR32,GRAND_SLAM,WS,458,Qualification,WANG Manyu (CHN),ZHANG Mo (CAN)
-World Tour Japan Open Tokyo 2017,2017-06-14,YUAN Xuejiao,TIE Yana,4,2,"4,11,11,7,11,11|11,5,5,11,4,8",QR32,GRAND_SLAM,WS,458,Qualification,YUAN Xuejiao (CHN),TIE Yana (HKG)
-World Tour Japan Open Tokyo 2017,2017-06-14,PARK Jeongwoo,MATSUBARA Yutaka,3,0,"11,11,11|6,5,5",R32,GRAND_SLAM,U21MS,458,Main Draw,MATSUBARA Yutaka (CHI),PARK Jeongwoo (KOR)
-World Tour Japan Open Tokyo 2017,2017-06-14,RYUZAKI Tonin,LIN Yun-Ju,3,2,"11,11,4,13,11|9,13,11,11,4",R32,GRAND_SLAM,U21MS,458,Main Draw,RYUZAKI Tonin (JPN),LIN Yun-Ju (TPE)
-World Tour Japan Open Tokyo 2017,2017-06-14,LAM Siu Hang,TOGAMI Shunsuke,3,2,"7,6,11,11,11|11,11,7,5,3",R32,GRAND_SLAM,U21MS,458,Main Draw,TOGAMI Shunsuke (JPN),LAM Siu Hang (HKG)
-World Tour Japan Open Tokyo 2017,2017-06-14,CHERNOV Konstantin,KIZUKURI Yuto,3,2,"11,6,11,4,12|8,11,9,11,10",R32,GRAND_SLAM,U21MS,458,Main Draw,KIZUKURI Yuto (JPN),CHERNOV Konstantin (RUS)
-World Tour Japan Open Tokyo 2017,2017-06-14,QIU Dang,LANDRIEU Andrea,3,0,"11,11,11|7,3,9",R32,GRAND_SLAM,U21MS,458,Main Draw,QIU Dang (GER),LANDRIEU Andrea (FRA)
-World Tour Japan Open Tokyo 2017,2017-06-14,IGARASHI Fumiya,SUN Chia-Hung,3,1,"11,6,15,11|8,11,13,5",R32,GRAND_SLAM,U21MS,458,Main Draw,SUN Chia-Hung (TPE),IGARASHI Fumiya (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,MATSUYAMA Yuki,YANG Tzu-Yi,3,2,"11,4,8,11,11|7,11,11,9,7",R32,GRAND_SLAM,U21MS,458,Main Draw,YANG Tzu-Yi (TPE),MATSUYAMA Yuki (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,TAKAMI Masaki,NG Pak Nam,3,0,"11,11,11|5,4,8",R32,GRAND_SLAM,U21MS,458,Main Draw,NG Pak Nam (HKG),TAKAMI Masaki (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,MIYAMOTO Haruki,PARK Ganghyeon,3,2,"17,4,10,11,11|15,11,12,4,8",R32,GRAND_SLAM,U21MS,458,Main Draw,MIYAMOTO Haruki (JPN),PARK Ganghyeon (KOR)
-World Tour Japan Open Tokyo 2017,2017-06-14,YOSHIMURA Kazuhiro,NIKULIN Ivan,3,0,"11,11,11|3,6,4",R32,GRAND_SLAM,U21MS,458,Main Draw,YOSHIMURA Kazuhiro (JPN),NIKULIN Ivan (RUS)
-World Tour Japan Open Tokyo 2017,2017-06-14,LEVENKO Andreas,SEYFRIED Joe,3,0,"11,11,11|6,5,7",R32,GRAND_SLAM,U21MS,458,Main Draw,SEYFRIED Joe (FRA),LEVENKO Andreas (AUT)
-World Tour Japan Open Tokyo 2017,2017-06-14,YANG Heng-Wei,IMANKADYROV Anvar,3,0,"11,11,11|4,4,8",R32,GRAND_SLAM,U21MS,458,Main Draw,YANG Heng-Wei (TPE),IMANKADYROV Anvar (RUS)
-World Tour Japan Open Tokyo 2017,2017-06-14,HO Kwan Kit,PARK Jeongwoo,3,1,"11,8,15,11|5,11,13,5",R16,GRAND_SLAM,U21MS,458,Main Draw,HO Kwan Kit (HKG),PARK Jeongwoo (KOR)
-World Tour Japan Open Tokyo 2017,2017-06-14,RYUZAKI Tonin,LAM Siu Hang,3,1,"12,14,11,11|10,16,9,3",R16,GRAND_SLAM,U21MS,458,Main Draw,RYUZAKI Tonin (JPN),LAM Siu Hang (HKG)
-World Tour Japan Open Tokyo 2017,2017-06-14,QIU Dang,CHERNOV Konstantin,3,2,"11,11,13,11,11|13,5,15,9,4",R16,GRAND_SLAM,U21MS,458,Main Draw,CHERNOV Konstantin (RUS),QIU Dang (GER)
-World Tour Japan Open Tokyo 2017,2017-06-14,CHO Seungmin,IGARASHI Fumiya,3,1,"11,9,11,11|8,11,3,9",R16,GRAND_SLAM,U21MS,458,Main Draw,IGARASHI Fumiya (JPN),CHO Seungmin (KOR)
-World Tour Japan Open Tokyo 2017,2017-06-14,SAKAI Asuka,MATSUYAMA Yuki,3,2,"12,9,8,12,16|10,11,11,10,14",R16,GRAND_SLAM,U21MS,458,Main Draw,SAKAI Asuka (JPN),MATSUYAMA Yuki (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,TAKAMI Masaki,MIYAMOTO Haruki,3,1,"11,11,7,11|9,7,11,9",R16,GRAND_SLAM,U21MS,458,Main Draw,TAKAMI Masaki (JPN),MIYAMOTO Haruki (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,YOSHIMURA Kazuhiro,LEVENKO Andreas,3,1,"11,8,11,13|3,11,9,11",R16,GRAND_SLAM,U21MS,458,Main Draw,YOSHIMURA Kazuhiro (JPN),LEVENKO Andreas (AUT)
-World Tour Japan Open Tokyo 2017,2017-06-14,LIM Jonghoon,YANG Heng-Wei,3,1,"11,8,11,13|7,11,8,11",R16,GRAND_SLAM,U21MS,458,Main Draw,YANG Heng-Wei (TPE),LIM Jonghoon (KOR)
-World Tour Japan Open Tokyo 2017,2017-06-14,RYUZAKI Tonin,HO Kwan Kit,3,2,"8,11,6,11,11|11,7,11,9,9",QF,GRAND_SLAM,U21MS,458,Main Draw,HO Kwan Kit (HKG),RYUZAKI Tonin (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,QIU Dang,CHO Seungmin,3,2,"14,6,6,11,11|12,11,11,7,9",QF,GRAND_SLAM,U21MS,458,Main Draw,QIU Dang (GER),CHO Seungmin (KOR)
-World Tour Japan Open Tokyo 2017,2017-06-14,TAKAMI Masaki,SAKAI Asuka,3,2,"11,3,9,11,12|6,11,11,9,10",QF,GRAND_SLAM,U21MS,458,Main Draw,SAKAI Asuka (JPN),TAKAMI Masaki (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,LIM Jonghoon,YOSHIMURA Kazuhiro,3,2,"9,11,15,8,11|11,9,13,11,7",QF,GRAND_SLAM,U21MS,458,Main Draw,YOSHIMURA Kazuhiro (JPN),LIM Jonghoon (KOR)
-World Tour Japan Open Tokyo 2017,2017-06-14,RYUZAKI Tonin,QIU Dang,3,2,"4,2,11,11,11|11,11,7,5,6",SF,GRAND_SLAM,U21MS,458,Main Draw,RYUZAKI Tonin (JPN),QIU Dang (GER)
-World Tour Japan Open Tokyo 2017,2017-06-14,LIM Jonghoon,TAKAMI Masaki,3,2,"11,11,5,3,11|6,6,11,11,9",SF,GRAND_SLAM,U21MS,458,Main Draw,TAKAMI Masaki (JPN),LIM Jonghoon (KOR)
-World Tour Japan Open Tokyo 2017,2017-06-14,LIM Jonghoon,RYUZAKI Tonin,3,1,"8,11,11,11|11,7,7,7",F,GRAND_SLAM,U21MS,458,Main Draw,RYUZAKI Tonin (JPN),LIM Jonghoon (KOR)
-World Tour Japan Open Tokyo 2017,2017-06-14,LI Yu-Jhun,ODO Satsuki,3,1,"11,11,4,12|6,5,11,10",R16,GRAND_SLAM,U21WS,458,Main Draw,ODO Satsuki (JPN),LI Yu-Jhun (TPE)
-World Tour Japan Open Tokyo 2017,2017-06-14,UMEMURA Yuka,HUANG Yu-Wen,3,1,"11,2,11,14|3,11,5,12",R16,GRAND_SLAM,U21WS,458,Main Draw,HUANG Yu-Wen (TPE),UMEMURA Yuka (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,DRAGOMAN Andreea,MINAGAWA Yuka,3,2,"7,11,13,9,13|11,9,11,11,11",R16,GRAND_SLAM,U21WS,458,Main Draw,MINAGAWA Yuka (JPN),DRAGOMAN Andreea (ROU)
-World Tour Japan Open Tokyo 2017,2017-06-14,KIHARA Miyuu,SASAO Asuka,3,1,"11,11,11,11|13,7,6,7",R16,GRAND_SLAM,U21WS,458,Main Draw,KIHARA Miyuu (JPN),SASAO Asuka (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,SOO Wai Yam,LI Yu-Jhun,3,0,"11,11,11|7,8,7",QF,GRAND_SLAM,U21WS,458,Main Draw,SOO Wai Yam (HKG),LI Yu-Jhun (TPE)
-World Tour Japan Open Tokyo 2017,2017-06-14,UMEMURA Yuka,DIACONU Adina,3,2,"11,7,7,11,11|5,11,11,9,6",QF,GRAND_SLAM,U21WS,458,Main Draw,UMEMURA Yuka (JPN),DIACONU Adina (ROU)
-World Tour Japan Open Tokyo 2017,2017-06-14,MAK Tze Wing,DRAGOMAN Andreea,3,0,"11,11,11|8,4,9",QF,GRAND_SLAM,U21WS,458,Main Draw,MAK Tze Wing (HKG),DRAGOMAN Andreea (ROU)
-World Tour Japan Open Tokyo 2017,2017-06-14,KIHARA Miyuu,ANDO Minami,3,2,"9,3,11,11,11|11,11,7,5,9",QF,GRAND_SLAM,U21WS,458,Main Draw,KIHARA Miyuu (JPN),ANDO Minami (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,UMEMURA Yuka,SOO Wai Yam,3,1,"8,11,11,14|11,5,9,12",SF,GRAND_SLAM,U21WS,458,Main Draw,SOO Wai Yam (HKG),UMEMURA Yuka (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,KIHARA Miyuu,MAK Tze Wing,3,2,"11,9,11,7,11|3,11,5,11,9",SF,GRAND_SLAM,U21WS,458,Main Draw,MAK Tze Wing (HKG),KIHARA Miyuu (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,UMEMURA Yuka,KIHARA Miyuu,3,1,"11,9,11,11|6,11,8,8",F,GRAND_SLAM,U21WS,458,Main Draw,UMEMURA Yuka (JPN),KIHARA Miyuu (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,MA Long,YOSHIMURA Maharu,4,0,"18,11,11,11|16,7,2,2",R32,GRAND_SLAM,MS,458,Main Draw,MA Long (CHN),YOSHIMURA Maharu (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,HO Kwan Kit,CALDERANO Hugo,4,3,"7,12,11,6,6,12,11|11,10,7,11,11,10,4",R32,GRAND_SLAM,MS,458,Main Draw,HO Kwan Kit (HKG),CALDERANO Hugo (BRA)
-World Tour Japan Open Tokyo 2017,2017-06-14,NIWA Koki,FILUS Ruwen,4,3,"11,11,11,10,8,9,11|8,9,5,12,11,11,5",R32,GRAND_SLAM,MS,458,Main Draw,NIWA Koki (JPN),FILUS Ruwen (GER)
-World Tour Japan Open Tokyo 2017,2017-06-14,UEDA Jin,CHUANG Chih-Yuan,4,2,"11,7,11,6,11,11|9,11,8,11,6,6",R32,GRAND_SLAM,MS,458,Main Draw,UEDA Jin (JPN),CHUANG Chih-Yuan (TPE)
-World Tour Japan Open Tokyo 2017,2017-06-14,FANG Bo,YOSHIMURA Kazuhiro,4,3,"8,9,5,11,11,11,14|11,11,11,4,8,7,12",R32,GRAND_SLAM,MS,458,Main Draw,FANG Bo (KAZ),YOSHIMURA Kazuhiro (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,LIM Jonghoon,APOLONIA Tiago,4,2,"7,12,11,10,11,12|11,10,6,12,5,10",R32,GRAND_SLAM,MS,458,Main Draw,LIM Jonghoon (KOR),APOLONIA Tiago (POR)
-World Tour Japan Open Tokyo 2017,2017-06-14,MATSUDAIRA Kenta,WALTHER Ricardo,4,3,"11,9,9,11,12,9,11|9,11,11,3,10,11,6",R32,GRAND_SLAM,MS,458,Main Draw,MATSUDAIRA Kenta (JPN),WALTHER Ricardo (GER)
-World Tour Japan Open Tokyo 2017,2017-06-14,XU Xin,KARLSSON Mattias,4,0,"11,11,12,11|5,6,10,4",R32,GRAND_SLAM,MS,458,Main Draw,KARLSSON Mattias (SWE),XU Xin (CHN)
-World Tour Japan Open Tokyo 2017,2017-06-14,MIZUTANI Jun,STEGER Bastian,4,1,"11,11,7,11,12|9,5,11,5,10",R32,GRAND_SLAM,MS,458,Main Draw,MIZUTANI Jun (JPN),STEGER Bastian (GER)
-World Tour Japan Open Tokyo 2017,2017-06-14,KARLSSON Kristian,RYUZAKI Tonin,4,0,"11,11,11,11|3,7,4,7",R32,GRAND_SLAM,MS,458,Main Draw,RYUZAKI Tonin (JPN),KARLSSON Kristian (SWE)
-World Tour Japan Open Tokyo 2017,2017-06-14,LEE Sang Su,ASSAR Omar,4,1,"4,11,11,12,11|11,7,7,10,9",R32,GRAND_SLAM,MS,458,Main Draw,LEE Sang Su (KOR),ASSAR Omar (EGY)
-World Tour Japan Open Tokyo 2017,2017-06-14,LIN Gaoyuan,BOLL Timo,4,1,"11,11,6,11,11|6,7,11,5,8",R32,GRAND_SLAM,MS,458,Main Draw,LIN Gaoyuan (CHN),BOLL Timo (GER)
-World Tour Japan Open Tokyo 2017,2017-06-14,WONG Chun Ting,JIN Takuya,4,0,"11,11,11,12|5,6,7,10",R32,GRAND_SLAM,MS,458,Main Draw,WONG Chun Ting (HKG),JIN Takuya (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,LIANG Jingkun,FEGERL Stefan,4,2,"11,11,13,11,7,11|7,7,15,7,11,4",R32,GRAND_SLAM,MS,458,Main Draw,LIANG Jingkun (CHN),FEGERL Stefan (AUT)
-World Tour Japan Open Tokyo 2017,2017-06-14,LEBESSON Emmanuel,OSHIMA Yuya,4,1,"11,11,11,8,12|5,6,5,11,10",R32,GRAND_SLAM,MS,458,Main Draw,OSHIMA Yuya (JPN),LEBESSON Emmanuel (FRA)
-World Tour Japan Open Tokyo 2017,2017-06-14,FAN Zhendong,YOSHIDA Masaki,4,0,"12,11,11,11|10,9,6,9",R32,GRAND_SLAM,MS,458,Main Draw,YOSHIDA Masaki (JPN),FAN Zhendong (CHN)
-World Tour Japan Open Tokyo 2017,2017-06-14,MA Long,HO Kwan Kit,4,0,"11,11,11,11|4,7,6,7",R16,GRAND_SLAM,MS,458,Main Draw,MA Long (CHN),HO Kwan Kit (HKG)
-World Tour Japan Open Tokyo 2017,2017-06-14,NIWA Koki,UEDA Jin,4,2,"11,5,11,5,11,11|7,11,8,11,7,7",R16,GRAND_SLAM,MS,458,Main Draw,NIWA Koki (JPN),UEDA Jin (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,FANG Bo,LIM Jonghoon,4,1,"11,11,7,11,12|8,6,11,8,10",R16,GRAND_SLAM,MS,458,Main Draw,FANG Bo (KAZ),LIM Jonghoon (KOR)
-World Tour Japan Open Tokyo 2017,2017-06-14,XU Xin,MATSUDAIRA Kenta,4,1,"11,11,7,11,12|5,9,11,4,10",R16,GRAND_SLAM,MS,458,Main Draw,MATSUDAIRA Kenta (JPN),XU Xin (CHN)
-World Tour Japan Open Tokyo 2017,2017-06-14,MIZUTANI Jun,KARLSSON Kristian,4,1,"10,11,13,11,11|12,7,11,9,8",R16,GRAND_SLAM,MS,458,Main Draw,MIZUTANI Jun (JPN),KARLSSON Kristian (SWE)
-World Tour Japan Open Tokyo 2017,2017-06-14,LEE Sang Su,LIN Gaoyuan,4,0,"11,11,11,11|8,8,7,7",R16,GRAND_SLAM,MS,458,Main Draw,LEE Sang Su (KOR),LIN Gaoyuan (CHN)
-World Tour Japan Open Tokyo 2017,2017-06-14,LIANG Jingkun,WONG Chun Ting,4,1,"11,11,11,11,11|4,5,13,9,4",R16,GRAND_SLAM,MS,458,Main Draw,WONG Chun Ting (HKG),LIANG Jingkun (CHN)
-World Tour Japan Open Tokyo 2017,2017-06-14,FAN Zhendong,LEBESSON Emmanuel,4,2,"9,9,11,11,11,11|11,11,6,9,7,3",R16,GRAND_SLAM,MS,458,Main Draw,LEBESSON Emmanuel (FRA),FAN Zhendong (CHN)
-World Tour Japan Open Tokyo 2017,2017-06-14,MA Long,NIWA Koki,4,1,"11,12,9,11,11|8,10,11,5,3",QF,GRAND_SLAM,MS,458,Main Draw,MA Long (CHN),NIWA Koki (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,XU Xin,FANG Bo,4,0,,QF,GRAND_SLAM,MS,458,Main Draw,FANG Bo (KAZ),XU Xin (CHN)
-World Tour Japan Open Tokyo 2017,2017-06-14,MIZUTANI Jun,LEE Sang Su,4,3,"11,11,4,6,8,11,12|6,9,11,11,11,7,10",QF,GRAND_SLAM,MS,458,Main Draw,MIZUTANI Jun (JPN),LEE Sang Su (KOR)
-World Tour Japan Open Tokyo 2017,2017-06-14,FAN Zhendong,LIANG Jingkun,4,2,"10,7,12,11,11,11|12,11,10,4,8,6",QF,GRAND_SLAM,MS,458,Main Draw,LIANG Jingkun (CHN),FAN Zhendong (CHN)
-World Tour Japan Open Tokyo 2017,2017-06-14,MA Long,XU Xin,4,2,"5,13,11,5,11,11|11,11,6,11,5,5",SF,GRAND_SLAM,MS,458,Main Draw,MA Long (CHN),XU Xin (CHN)
-World Tour Japan Open Tokyo 2017,2017-06-14,FAN Zhendong,MIZUTANI Jun,4,1,"11,11,12,9,11|7,6,10,11,8",SF,GRAND_SLAM,MS,458,Main Draw,MIZUTANI Jun (JPN),FAN Zhendong (CHN)
-World Tour Japan Open Tokyo 2017,2017-06-14,MA Long,FAN Zhendong,4,1,"11,5,11,11,11|7,11,7,8,5",F,GRAND_SLAM,MS,458,Main Draw,MA Long (CHN),FAN Zhendong (CHN)
-World Tour Japan Open Tokyo 2017,2017-06-14,FAN Zhendong/LIN Gaoyuan,TOWNSEND Kane/TOWNSEND Wade,3,0,"11,11,11|4,4,8",QR16,GRAND_SLAM,MD,458,Qualification,FAN Zhendong (CHN) / LIN Gaoyuan (CHN),TOWNSEND Kane (AUS) / TOWNSEND Wade (AUS)
-World Tour Japan Open Tokyo 2017,2017-06-14,KIM Minseok/LIM Jonghoon,CHERNOV Konstantin/LEVENKO Andreas,3,0,"11,11,11|9,6,7",QR16,GRAND_SLAM,MD,458,Qualification,KIM Minseok (KOR) / LIM Jonghoon (KOR),CHERNOV Konstantin (RUS) / LEVENKO Andreas (AUT)
-World Tour Japan Open Tokyo 2017,2017-06-14,KIM Minseok/LIM Jonghoon,DEVOS Robin/NUYTINCK Cedric,3,2,"8,11,11,6,11|11,4,1,11,8",R16,GRAND_SLAM,MD,458,Main Draw,KIM Minseok (KOR) / LIM Jonghoon (KOR),DEVOS Robin (BEL) / NUYTINCK Cedric (BEL)
-World Tour Japan Open Tokyo 2017,2017-06-14,FAN Zhendong/LIN Gaoyuan,JANG Woojin/PARK Ganghyeon,3,2,"6,11,11,8,11|11,8,8,11,7",R16,GRAND_SLAM,MD,458,Main Draw,FAN Zhendong (CHN) / LIN Gaoyuan (CHN),JANG Woojin (KOR) / PARK Ganghyeon (KOR)
-World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Ke/WANG Manyu,DOO Hoi Kem/LEE Ho Ching,3,1,"11,9,11,11|9,11,8,6",R16,GRAND_SLAM,WD,458,Main Draw,CHEN Ke (CHN) / WANG Manyu (CHN),DOO Hoi Kem (HKG) / LEE Ho Ching (HKG)
-World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Xingtong/SUN Yingsha,CHEN Ke/WANG Manyu,3,1,"11,10,11,11|4,12,8,7",QF,GRAND_SLAM,WD,458,Main Draw,CHEN Xingtong (CHN) / SUN Yingsha (CHN),CHEN Ke (CHN) / WANG Manyu (CHN)
-World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Xingtong/SUN Yingsha,JEON Jihee/YANG Ha Eun,3,2,"10,8,11,11,11|12,11,3,7,6",F,GRAND_SLAM,WD,458,Main Draw,CHEN Xingtong (CHN) / SUN Yingsha (CHN),JEON Jihee (KOR) / YANG Ha Eun (KOR)
-World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Xingtong/SUN Yingsha,POLCANOVA Sofia/ZHANG Mo,3,2,"11,11,14,9,11|8,7,16,11,5",QR16,GRAND_SLAM,WD,458,Qualification,CHEN Xingtong (CHN) / SUN Yingsha (CHN),POLCANOVA Sofia (AUT) / ZHANG Mo (CAN)
-World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Ke/WANG Manyu,MA Wenting/SOLJA Amelie,3,0,"11,11,11|6,6,5",QR16,GRAND_SLAM,WD,458,Qualification,CHEN Ke (CHN) / WANG Manyu (CHN),MA Wenting (NOR) / SOLJA Amelie (AUT)
-World Tour Japan Open Tokyo 2017,2017-06-14,DUDA Benedikt/QIU Dang,FLORE Tristan/LEBESSON Emmanuel,3,2,"11,9,12,6,11|9,11,10,11,9",QR16,GRAND_SLAM,MD,458,Qualification,DUDA Benedikt (GER) / QIU Dang (GER),FLORE Tristan (FRA) / LEBESSON Emmanuel (FRA)
-World Tour Japan Open Tokyo 2017,2017-06-14,FEGERL Stefan/MONTEIRO Joao,BROSSIER Benjamin/HACHARD Antoine,3,2,"11,9,11,6,11|5,11,8,11,4",QR16,GRAND_SLAM,MD,458,Qualification,FEGERL Stefan (AUT) / MONTEIRO Joao (POR),BROSSIER Benjamin (FRA) / HACHARD Antoine (FRA)
-World Tour Japan Open Tokyo 2017,2017-06-14,HARIMOTO Tomokazu/KIZUKURI Yuto,FILUS Ruwen/WALTHER Ricardo,3,1,"11,8,11,11|7,11,4,5",QR16,GRAND_SLAM,MD,458,Qualification,HARIMOTO Tomokazu (JPN) / KIZUKURI Yuto (JPN),FILUS Ruwen (GER) / WALTHER Ricardo (GER)
-World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Chien-An/CHIANG Hung-Chieh,JIANG Tianyi/LAM Siu Hang,3,2,"11,8,6,11,11|4,11,11,7,6",R16,GRAND_SLAM,MD,458,Main Draw,CHEN Chien-An (TPE) / CHIANG Hung-Chieh (TPE),JIANG Tianyi (HKG) / LAM Siu Hang (HKG)
-World Tour Japan Open Tokyo 2017,2017-06-14,JEON Jihee/YANG Ha Eun,NG Wing Nam/SOO Wai Yam,3,1,"11,6,11,11|9,11,3,7",R16,GRAND_SLAM,WD,458,Main Draw,JEON Jihee (KOR) / YANG Ha Eun (KOR),NG Wing Nam (HKG) / SOO Wai Yam (HKG)
-World Tour Japan Open Tokyo 2017,2017-06-14,JIANG Tianyi/LAM Siu Hang,WANG Yang/ZHAO Tianming,3,0,"11,11,11|5,4,5",QR16,GRAND_SLAM,MD,458,Qualification,JIANG Tianyi (HKG) / LAM Siu Hang (HKG),WANG Yang (SVK) / ZHAO Tianming (POR)
-World Tour Japan Open Tokyo 2017,2017-06-14,MORIZONO Masataka/OSHIMA Yuya,APOLONIA Tiago/GERALDO Joao,3,0,"13,11,11|11,9,7",R16,GRAND_SLAM,MD,458,Main Draw,MORIZONO Masataka (JPN) / OSHIMA Yuya (JPN),APOLONIA Tiago (POR) / GERALDO Joao (POR)
-World Tour Japan Open Tokyo 2017,2017-06-14,NIWA Koki/YOSHIMURA Maharu,DUDA Benedikt/QIU Dang,3,2,"5,8,11,11,11|11,11,7,8,9",R16,GRAND_SLAM,MD,458,Main Draw,NIWA Koki (JPN) / YOSHIMURA Maharu (JPN),DUDA Benedikt (GER) / QIU Dang (GER)
-World Tour Japan Open Tokyo 2017,2017-06-14,HO Kwan Kit/WONG Chun Ting,HARIMOTO Tomokazu/KIZUKURI Yuto,3,0,"11,11,11|6,9,6",R16,GRAND_SLAM,MD,458,Main Draw,HO Kwan Kit (HKG) / WONG Chun Ting (HKG),HARIMOTO Tomokazu (JPN) / KIZUKURI Yuto (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,MORIZONO Masataka/OSHIMA Yuya,CHEN Chien-An/CHIANG Hung-Chieh,3,0,"11,11,13|4,7,11",QF,GRAND_SLAM,MD,458,Main Draw,MORIZONO Masataka (JPN) / OSHIMA Yuya (JPN),CHEN Chien-An (TPE) / CHIANG Hung-Chieh (TPE)
-World Tour Japan Open Tokyo 2017,2017-06-14,NIWA Koki/YOSHIMURA Maharu,HO Kwan Kit/WONG Chun Ting,3,1,"11,11,9,11|8,8,11,6",QF,GRAND_SLAM,MD,458,Main Draw,NIWA Koki (JPN) / YOSHIMURA Maharu (JPN),HO Kwan Kit (HKG) / WONG Chun Ting (HKG)
-World Tour Japan Open Tokyo 2017,2017-06-14,NIWA Koki/YOSHIMURA Maharu,MORIZONO Masataka/OSHIMA Yuya,3,1,"11,11,6,11|7,9,11,9",SF,GRAND_SLAM,MD,458,Main Draw,NIWA Koki (JPN) / YOSHIMURA Maharu (JPN),MORIZONO Masataka (JPN) / OSHIMA Yuya (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,HASHIMOTO Honoka/SATO Hitomi,CHOI Hyojoo/JUNG Yumi,3,1,"11,6,11,11|7,11,6,7",R16,GRAND_SLAM,WD,458,Main Draw,HASHIMOTO Honoka (JPN) / SATO Hitomi (JPN),CHOI Hyojoo (KOR) / JUNG Yumi (KOR)
-World Tour Japan Open Tokyo 2017,2017-06-14,HASHIMOTO Honoka/SATO Hitomi,CHENG Hsien-Tzu/LIN Chia-Chih,3,0,"11,11,11|9,9,8",QF,GRAND_SLAM,WD,458,Main Draw,HASHIMOTO Honoka (JPN) / SATO Hitomi (JPN),CHENG Hsien-Tzu (TPE) / LIN Chia-Chih (TPE)
-World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Xingtong/SUN Yingsha,HASHIMOTO Honoka/SATO Hitomi,3,2,"10,11,10,11,11|12,2,12,8,2",SF,GRAND_SLAM,WD,458,Main Draw,CHEN Xingtong (CHN) / SUN Yingsha (CHN),HASHIMOTO Honoka (JPN) / SATO Hitomi (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,FAN Zhendong/LIN Gaoyuan,KIM Minseok/LIM Jonghoon,3,2,"11,13,6,6,11|7,11,11,11,6",QF,GRAND_SLAM,MD,458,Main Draw,FAN Zhendong (CHN) / LIN Gaoyuan (CHN),KIM Minseok (KOR) / LIM Jonghoon (KOR)
-World Tour Japan Open Tokyo 2017,2017-06-14,MA Long/XU Xin,FEGERL Stefan/MONTEIRO Joao,3,1,"7,11,11,11|11,5,6,9",R16,GRAND_SLAM,MD,458,Main Draw,MA Long (CHN) / XU Xin (CHN),FEGERL Stefan (AUT) / MONTEIRO Joao (POR)
-World Tour Japan Open Tokyo 2017,2017-06-14,APOLONIA Tiago/GERALDO Joao,LIAO Cheng-Ting/SUN Chia-Hung,3,0,"11,12,11|8,10,3",QR16,GRAND_SLAM,MD,458,Qualification,APOLONIA Tiago (POR) / GERALDO Joao (POR),LIAO Cheng-Ting (TPE) / SUN Chia-Hung (TPE)
-World Tour Japan Open Tokyo 2017,2017-06-14,HAN Ying/SHAN Xiaona,DIACONU Adina/DRAGOMAN Andreea,3,1,"11,12,9,11|3,10,11,7",R16,GRAND_SLAM,WD,458,Main Draw,HAN Ying (GER) / SHAN Xiaona (GER),DIACONU Adina (ROU) / DRAGOMAN Andreea (ROU)
-World Tour Japan Open Tokyo 2017,2017-06-14,SAMARA Elizabeta/SZOCS Bernadette,HAMAMOTO Yui/ISHIKAWA Kasumi,3,0,"11,13,11|6,11,7",R16,GRAND_SLAM,WD,458,Main Draw,SAMARA Elizabeta (ROU) / SZOCS Bernadette (ROU),HAMAMOTO Yui (AUT) / ISHIKAWA Kasumi (JPN)
-World Tour Japan Open Tokyo 2017,2017-06-14,JEON Jihee/YANG Ha Eun,SAMARA Elizabeta/SZOCS Bernadette,3,2,"9,11,11,7,11|11,6,8,11,5",QF,GRAND_SLAM,WD,458,Main Draw,JEON Jihee (KOR) / YANG Ha Eun (KOR),SAMARA Elizabeta (ROU) / SZOCS Bernadette (ROU)
-World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Xingtong/SUN Yingsha,FENG Tianwei/YU Mengyu,3,0,"11,11,12|2,5,10",R16,GRAND_SLAM,WD,458,Main Draw,CHEN Xingtong (CHN) / SUN Yingsha (CHN),FENG Tianwei (SGP) / YU Mengyu (SGP)
-World Tour Japan Open Tokyo 2017,2017-06-14,KARLSSON Kristian/KARLSSON Mattias,GAO Ning/PANG Xue Jie,3,0,"11,11,11|9,9,9",R16,GRAND_SLAM,MD,458,Main Draw,KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),GAO Ning (SGP) / PANG Xue Jie (SGP)
-World Tour Japan Open Tokyo 2017,2017-06-14,MA Long/XU Xin,KARLSSON Kristian/KARLSSON Mattias,3,1,"10,11,11,11|12,1,5,6",QF,GRAND_SLAM,MD,458,Main Draw,MA Long (CHN) / XU Xin (CHN),KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE)
-World Tour Japan Open Tokyo 2017,2017-06-14,GAO Ning/PANG Xue Jie,ASSAR Omar/PERSSON Jon,3,0,"13,14,11|11,12,8",QR16,GRAND_SLAM,MD,458,Qualification,GAO Ning (SGP) / PANG Xue Jie (SGP),ASSAR Omar (EGY) / PERSSON Jon (SWE)
-World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Szu-Yu/CHENG I-Ching,SHAO Jieni/ZENG Jian,3,0,"11,11,11|6,5,7",R16,GRAND_SLAM,WD,458,Main Draw,CHEN Szu-Yu (TPE) / CHENG I-Ching (TPE),SHAO Jieni (POR) / ZENG Jian (SGP)
-World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Szu-Yu/CHENG I-Ching,HAN Ying/SHAN Xiaona,3,0,"11,11,11|6,7,6",QF,GRAND_SLAM,WD,458,Main Draw,CHEN Szu-Yu (TPE) / CHENG I-Ching (TPE),HAN Ying (GER) / SHAN Xiaona (GER)
-World Tour Japan Open Tokyo 2017,2017-06-14,JEON Jihee/YANG Ha Eun,CHEN Szu-Yu/CHENG I-Ching,3,1,"13,3,11,11|11,11,9,3",SF,GRAND_SLAM,WD,458,Main Draw,JEON Jihee (KOR) / YANG Ha Eun (KOR),CHEN Szu-Yu (TPE) / CHENG I-Ching (TPE)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+World Tour Japan Open Tokyo 2017,2017-06-14,FENG Tianwei,POLCANOVA Sofia,4,2,"11,12,8,11,4,11|8,10,11,2,11,5",R32,GRAND_SLAM,WS,458,Main Draw,FENG Tianwei (SGP),POLCANOVA Sofia (AUT),FENG Tianwei
+World Tour Japan Open Tokyo 2017,2017-06-14,SUN Yingsha,DOO Hoi Kem,4,0,"13,11,11,11|11,6,3,1",R32,GRAND_SLAM,WS,458,Main Draw,SUN Yingsha (CHN),DOO Hoi Kem (HKG),SUN Yingsha
+World Tour Japan Open Tokyo 2017,2017-06-14,SHAN Xiaona,KATO Miyu,4,2,"11,8,13,8,11,11|5,11,11,11,9,3",R32,GRAND_SLAM,WS,458,Main Draw,SHAN Xiaona (GER),KATO Miyu (JPN),SHAN Xiaona
+World Tour Japan Open Tokyo 2017,2017-06-14,SATO Hitomi,YUAN Xuejiao,4,1,"11,11,11,7,11|3,2,8,11,4",R32,GRAND_SLAM,WS,458,Main Draw,YUAN Xuejiao (CHN),SATO Hitomi (JPN),SATO Hitomi
+World Tour Japan Open Tokyo 2017,2017-06-14,ITO Mima,YANG Ha Eun,4,2,"6,12,6,11,11,11|11,10,11,9,7,5",R32,GRAND_SLAM,WS,458,Main Draw,ITO Mima (JPN),YANG Ha Eun (KOR),ITO Mima
+World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Ke,LI Jie,4,0,"11,12,11,11|6,10,2,7",R32,GRAND_SLAM,WS,458,Main Draw,CHEN Ke (CHN),LI Jie (NED),CHEN Ke
+World Tour Japan Open Tokyo 2017,2017-06-14,SAMARA Elizabeta,YU Mengyu,4,0,"11,11,11,11|7,8,6,5",R32,GRAND_SLAM,WS,458,Main Draw,YU Mengyu (SGP),SAMARA Elizabeta (ROU),SAMARA Elizabeta
+World Tour Japan Open Tokyo 2017,2017-06-14,WANG Manyu,ISHIKAWA Kasumi,4,1,"6,11,11,14,11|11,8,6,12,7",R32,GRAND_SLAM,WS,458,Main Draw,WANG Manyu (CHN),ISHIKAWA Kasumi (JPN),WANG Manyu
+World Tour Japan Open Tokyo 2017,2017-06-14,CHENG I-Ching,LEE Ho Ching,4,0,"11,11,11,11|6,6,7,4",R32,GRAND_SLAM,WS,458,Main Draw,CHENG I-Ching (TPE),LEE Ho Ching (HKG),CHENG I-Ching
+World Tour Japan Open Tokyo 2017,2017-06-14,YU Fu,HASHIMOTO Honoka,4,1,"11,8,11,14,13|7,11,6,12,11",R32,GRAND_SLAM,WS,458,Main Draw,YU Fu (POR),HASHIMOTO Honoka (JPN),YU Fu
+World Tour Japan Open Tokyo 2017,2017-06-14,ZENG Jian,CHEN Xingtong,4,3,"11,11,11,5,9,4,11|7,7,2,11,11,11,6",R32,GRAND_SLAM,WS,458,Main Draw,ZENG Jian (SGP),CHEN Xingtong (CHN),ZENG Jian
+World Tour Japan Open Tokyo 2017,2017-06-14,HAN Ying,CHEN Szu-Yu,4,0,"11,11,11,11|5,7,9,6",R32,GRAND_SLAM,WS,458,Main Draw,CHEN Szu-Yu (TPE),HAN Ying (GER),HAN Ying
+World Tour Japan Open Tokyo 2017,2017-06-14,HIRANO Miu,SUH Hyo Won,4,0,"11,11,11,11|8,6,4,4",R32,GRAND_SLAM,WS,458,Main Draw,HIRANO Miu (JPN),SUH Hyo Won (KOR),HIRANO Miu
+World Tour Japan Open Tokyo 2017,2017-06-14,JEON Jihee,MORI Sakura,4,2,"9,11,6,13,15,11|11,8,11,11,13,8",R32,GRAND_SLAM,WS,458,Main Draw,MORI Sakura (JPN),JEON Jihee (KOR),JEON Jihee
+World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Meng,SOO Wai Yam,4,0,"11,11,12,11|7,6,10,5",R32,GRAND_SLAM,WS,458,Main Draw,SOO Wai Yam (HKG),CHEN Meng (CHN),CHEN Meng
+World Tour Japan Open Tokyo 2017,2017-06-14,SUN Yingsha,FENG Tianwei,4,1,"11,8,11,11,12|8,11,4,7,10",R16,GRAND_SLAM,WS,458,Main Draw,FENG Tianwei (SGP),SUN Yingsha (CHN),SUN Yingsha
+World Tour Japan Open Tokyo 2017,2017-06-14,SHAN Xiaona,SATO Hitomi,4,1,"11,10,11,13,12|5,12,6,11,10",R16,GRAND_SLAM,WS,458,Main Draw,SHAN Xiaona (GER),SATO Hitomi (JPN),SHAN Xiaona
+World Tour Japan Open Tokyo 2017,2017-06-14,ITO Mima,CHEN Ke,4,3,"11,7,11,9,11,8,11|6,11,8,11,8,11,7",R16,GRAND_SLAM,WS,458,Main Draw,ITO Mima (JPN),CHEN Ke (CHN),ITO Mima
+World Tour Japan Open Tokyo 2017,2017-06-14,WANG Manyu,SAMARA Elizabeta,4,0,"11,12,11,11|7,10,7,7",R16,GRAND_SLAM,WS,458,Main Draw,SAMARA Elizabeta (ROU),WANG Manyu (CHN),WANG Manyu
+World Tour Japan Open Tokyo 2017,2017-06-14,CHENG I-Ching,YU Fu,4,1,"11,11,11,10,11|7,8,7,12,7",R16,GRAND_SLAM,WS,458,Main Draw,CHENG I-Ching (TPE),YU Fu (POR),CHENG I-Ching
+World Tour Japan Open Tokyo 2017,2017-06-14,HAN Ying,ZENG Jian,4,1,"11,13,10,14,11|6,11,12,12,7",R16,GRAND_SLAM,WS,458,Main Draw,ZENG Jian (SGP),HAN Ying (GER),HAN Ying
+World Tour Japan Open Tokyo 2017,2017-06-14,HIRANO Miu,JEON Jihee,4,3,"13,11,11,7,11,4,11|15,6,6,11,5,11,7",R16,GRAND_SLAM,WS,458,Main Draw,HIRANO Miu (JPN),JEON Jihee (KOR),HIRANO Miu
+World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Meng,JIANG Huajun,4,1,"11,11,11,11,11|13,5,8,4,5",R16,GRAND_SLAM,WS,458,Main Draw,JIANG Huajun (HKG),CHEN Meng (CHN),CHEN Meng
+World Tour Japan Open Tokyo 2017,2017-06-14,SUN Yingsha,SHAN Xiaona,4,2,"11,4,11,9,13,11|7,11,3,11,11,8",QF,GRAND_SLAM,WS,458,Main Draw,SUN Yingsha (CHN),SHAN Xiaona (GER),SUN Yingsha
+World Tour Japan Open Tokyo 2017,2017-06-14,WANG Manyu,ITO Mima,4,2,"4,8,13,12,11,11|11,11,11,10,9,8",QF,GRAND_SLAM,WS,458,Main Draw,ITO Mima (JPN),WANG Manyu (CHN),WANG Manyu
+World Tour Japan Open Tokyo 2017,2017-06-14,HAN Ying,CHENG I-Ching,4,2,"11,10,11,10,11,11|7,12,4,12,8,7",QF,GRAND_SLAM,WS,458,Main Draw,CHENG I-Ching (TPE),HAN Ying (GER),HAN Ying
+World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Meng,HIRANO Miu,4,0,"11,11,11,11|7,8,5,7",QF,GRAND_SLAM,WS,458,Main Draw,HIRANO Miu (JPN),CHEN Meng (CHN),CHEN Meng
+World Tour Japan Open Tokyo 2017,2017-06-14,SUN Yingsha,WANG Manyu,4,0,"16,11,14,11|14,9,12,7",SF,GRAND_SLAM,WS,458,Main Draw,SUN Yingsha (CHN),WANG Manyu (CHN),SUN Yingsha
+World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Meng,HAN Ying,4,1,"11,11,11,7,11|7,8,8,11,5",SF,GRAND_SLAM,WS,458,Main Draw,HAN Ying (GER),CHEN Meng (CHN),CHEN Meng
+World Tour Japan Open Tokyo 2017,2017-06-14,SUN Yingsha,CHEN Meng,4,3,"9,11,8,8,11,11,11|11,9,11,11,7,9,8",F,GRAND_SLAM,WS,458,Main Draw,SUN Yingsha (CHN),CHEN Meng (CHN),SUN Yingsha
+World Tour Japan Open Tokyo 2017,2017-06-14,PARK Jeongwoo,PANG Xue Jie,4,0,"11,12,11,11|4,10,4,4",QR128,GRAND_SLAM,MS,458,Qualification,PARK Jeongwoo (KOR),PANG Xue Jie (SGP),PARK Jeongwoo
+World Tour Japan Open Tokyo 2017,2017-06-14,CHIANG Hung-Chieh,IMANKADYROV Anvar,4,0,"11,11,11,12|3,2,1,10",QR128,GRAND_SLAM,MS,458,Qualification,CHIANG Hung-Chieh (TPE),IMANKADYROV Anvar (RUS),CHIANG Hung-Chieh
+World Tour Japan Open Tokyo 2017,2017-06-14,YANG Heng-Wei,TOWNSEND Wade,4,0,"11,11,11,11|2,6,6,9",QR128,GRAND_SLAM,MS,458,Qualification,TOWNSEND Wade (AUS),YANG Heng-Wei (TPE),YANG Heng-Wei
+World Tour Japan Open Tokyo 2017,2017-06-14,NUYTINCK Cedric,SEYFRIED Joe,4,2,"9,11,8,11,11,11|11,9,11,9,6,4",QR128,GRAND_SLAM,MS,458,Qualification,SEYFRIED Joe (FRA),NUYTINCK Cedric (BEL),NUYTINCK Cedric
+World Tour Japan Open Tokyo 2017,2017-06-14,LAM Siu Hang,WANG LI Chung-Yi,4,0,"12,11,11,11|10,7,9,6",QR128,GRAND_SLAM,MS,458,Qualification,LAM Siu Hang (HKG),WANG LI Chung-Yi (TPE),LAM Siu Hang
+World Tour Japan Open Tokyo 2017,2017-06-14,CHEW Clarence,TRAN Tuan Quynh,4,0,"11,11,11,11|6,9,8,9",QR128,GRAND_SLAM,MS,458,Qualification,CHEW Clarence (SGP),TRAN Tuan Quynh (VIE),CHEW Clarence
+World Tour Japan Open Tokyo 2017,2017-06-14,BROSSIER Benjamin,YEH Chih-Wei,4,0,"11,11,11,12|9,6,9,10",QR128,GRAND_SLAM,MS,458,Qualification,BROSSIER Benjamin (FRA),YEH Chih-Wei (TPE),BROSSIER Benjamin
+World Tour Japan Open Tokyo 2017,2017-06-14,PARK Ganghyeon,CHERNOV Konstantin,4,0,"11,11,11,11|6,4,8,8",QR128,GRAND_SLAM,MS,458,Qualification,PARK Ganghyeon (KOR),CHERNOV Konstantin (RUS),PARK Ganghyeon
+World Tour Japan Open Tokyo 2017,2017-06-14,HACHARD Antoine,QIU Dang,4,1,"11,8,11,11,11|9,11,7,3,6",QR128,GRAND_SLAM,MS,458,Qualification,HACHARD Antoine (FRA),QIU Dang (GER),HACHARD Antoine
+World Tour Japan Open Tokyo 2017,2017-06-14,LIAO Cheng-Ting,NIKULIN Ivan,4,0,"13,11,14,11|11,3,12,4",QR128,GRAND_SLAM,MS,458,Qualification,LIAO Cheng-Ting (TPE),NIKULIN Ivan (RUS),LIAO Cheng-Ting
+World Tour Japan Open Tokyo 2017,2017-06-14,KOSIBA Daniel,MATSUBARA Yutaka,4,0,"11,12,11,11|7,10,8,2",QR128,GRAND_SLAM,MS,458,Qualification,KOSIBA Daniel (HUN),MATSUBARA Yutaka (CHI),KOSIBA Daniel
+World Tour Japan Open Tokyo 2017,2017-06-14,LEVENKO Andreas,SCHAFFER Daniel,4,0,"12,11,11,11|10,3,3,6",QR128,GRAND_SLAM,MS,458,Qualification,SCHAFFER Daniel (HUN),LEVENKO Andreas (AUT),LEVENKO Andreas
+World Tour Japan Open Tokyo 2017,2017-06-14,WU Jiaji,NGUYEN Anh Tu,4,2,"11,8,14,11,11,11|3,11,16,3,8,8",QR128,GRAND_SLAM,MS,458,Qualification,WU Jiaji (DOM),NGUYEN Anh Tu (VIE),WU Jiaji
+World Tour Japan Open Tokyo 2017,2017-06-14,LIN Yun-Ju,NG Pak Nam,4,2,"6,11,6,11,11,11|11,4,11,7,9,7",QR128,GRAND_SLAM,MS,458,Qualification,NG Pak Nam (HKG),LIN Yun-Ju (TPE),LIN Yun-Ju
+World Tour Japan Open Tokyo 2017,2017-06-14,LORENTZ Romain,TOWNSEND Kane,4,0,"11,12,11,11|5,10,7,8",QR128,GRAND_SLAM,MS,458,Qualification,LORENTZ Romain (FRA),TOWNSEND Kane (AUS),LORENTZ Romain
+World Tour Japan Open Tokyo 2017,2017-06-14,SUN Chia-Hung,ZHAO Tianming,4,1,"11,11,8,11,11|7,8,11,8,5",QR128,GRAND_SLAM,MS,458,Qualification,ZHAO Tianming (POR),SUN Chia-Hung (TPE),SUN Chia-Hung
+World Tour Japan Open Tokyo 2017,2017-06-14,STEGER Bastian,DEVOS Robin,4,1,"13,11,11,10,12|11,2,8,12,10",QR64,GRAND_SLAM,MS,458,Qualification,STEGER Bastian (GER),DEVOS Robin (BEL),STEGER Bastian
+World Tour Japan Open Tokyo 2017,2017-06-14,PARK Jeongwoo,GERALDO Joao,4,1,"13,7,13,11,16|11,11,11,8,14",QR64,GRAND_SLAM,MS,458,Qualification,PARK Jeongwoo (KOR),GERALDO Joao (POR),PARK Jeongwoo
+World Tour Japan Open Tokyo 2017,2017-06-14,RYUZAKI Tonin,JIANG Tianyi,4,2,"9,11,11,9,11,12|11,6,7,11,7,10",QR64,GRAND_SLAM,MS,458,Qualification,JIANG Tianyi (HKG),RYUZAKI Tonin (JPN),RYUZAKI Tonin
+World Tour Japan Open Tokyo 2017,2017-06-14,CHIANG Hung-Chieh,MONTEIRO Joao,4,3,"6,14,8,11,9,11,11|11,12,11,5,11,9,8",QR64,GRAND_SLAM,MS,458,Qualification,CHIANG Hung-Chieh (TPE),MONTEIRO Joao (POR),CHIANG Hung-Chieh
+World Tour Japan Open Tokyo 2017,2017-06-14,YOSHIDA Masaki,YANG Heng-Wei,4,1,"6,11,11,11,11|11,7,8,7,8",QR64,GRAND_SLAM,MS,458,Qualification,YOSHIDA Masaki (JPN),YANG Heng-Wei (TPE),YOSHIDA Masaki
+World Tour Japan Open Tokyo 2017,2017-06-14,TAZOE Kenta,FLORE Tristan,4,2,"7,7,11,11,11,11|11,11,6,7,6,8",QR64,GRAND_SLAM,MS,458,Qualification,TAZOE Kenta (JPN),FLORE Tristan (FRA),TAZOE Kenta
+World Tour Japan Open Tokyo 2017,2017-06-14,NUYTINCK Cedric,WANG Yang,4,1,"11,11,11,11,11|13,6,9,9,9",QR64,GRAND_SLAM,MS,458,Qualification,WANG Yang (SVK),NUYTINCK Cedric (BEL),NUYTINCK Cedric
+World Tour Japan Open Tokyo 2017,2017-06-14,YOSHIMURA Kazuhiro,JANG Woojin,4,2,"11,11,9,11,8,12|6,4,11,8,11,10",QR64,GRAND_SLAM,MS,458,Qualification,YOSHIMURA Kazuhiro (JPN),JANG Woojin (KOR),YOSHIMURA Kazuhiro
+World Tour Japan Open Tokyo 2017,2017-06-14,HIRANO Yuki,CHEN Chien-An,4,0,"12,11,11,17|10,7,6,15",QR64,GRAND_SLAM,MS,458,Qualification,CHEN Chien-An (TPE),HIRANO Yuki (JPN),HIRANO Yuki
+World Tour Japan Open Tokyo 2017,2017-06-14,UEDA Jin,LAM Siu Hang,4,2,"11,11,8,11,9,11|7,6,11,4,11,4",QR64,GRAND_SLAM,MS,458,Qualification,LAM Siu Hang (HKG),UEDA Jin (JPN),UEDA Jin
+World Tour Japan Open Tokyo 2017,2017-06-14,HARIMOTO Tomokazu,PERSSON Jon,4,2,"14,11,8,11,9,12|12,6,11,3,11,10",QR64,GRAND_SLAM,MS,458,Qualification,HARIMOTO Tomokazu (JPN),PERSSON Jon (SWE),HARIMOTO Tomokazu
+World Tour Japan Open Tokyo 2017,2017-06-14,LIANG Jingkun,CHEW Clarence,4,1,"11,11,9,11,11|5,9,11,8,5",QR64,GRAND_SLAM,MS,458,Qualification,CHEW Clarence (SGP),LIANG Jingkun (CHN),LIANG Jingkun
+World Tour Japan Open Tokyo 2017,2017-06-14,LANDRIEU Andrea,JEONG Sangeun,4,2,"7,11,4,11,11,11|11,7,11,8,6,7",QR64,GRAND_SLAM,MS,458,Qualification,JEONG Sangeun (KOR),LANDRIEU Andrea (FRA),LANDRIEU Andrea
+World Tour Japan Open Tokyo 2017,2017-06-14,HO Kwan Kit,BROSSIER Benjamin,4,1,"11,12,7,11,11|7,10,11,7,7",QR64,GRAND_SLAM,MS,458,Qualification,BROSSIER Benjamin (FRA),HO Kwan Kit (HKG),HO Kwan Kit
+World Tour Japan Open Tokyo 2017,2017-06-14,WANG Eugene,LAMBIET Florent,4,0,"11,16,11,11|3,14,7,9",QR64,GRAND_SLAM,MS,458,Qualification,WANG Eugene (CAN),LAMBIET Florent (BEL),WANG Eugene
+World Tour Japan Open Tokyo 2017,2017-06-14,YOSHIMURA Maharu,PARK Ganghyeon,4,1,"9,11,11,12,11|11,9,8,10,4",QR64,GRAND_SLAM,MS,458,Qualification,PARK Ganghyeon (KOR),YOSHIMURA Maharu (JPN),YOSHIMURA Maharu
+World Tour Japan Open Tokyo 2017,2017-06-14,MURAMATSU Yuto,BUROV Viacheslav,4,0,"11,11,11,11|5,5,7,6",QR64,GRAND_SLAM,MS,458,Qualification,MURAMATSU Yuto (JPN),BUROV Viacheslav (RUS),MURAMATSU Yuto
+World Tour Japan Open Tokyo 2017,2017-06-14,LIM Jonghoon,HACHARD Antoine,4,3,"4,12,11,10,5,11,11|11,10,5,12,11,3,5",QR64,GRAND_SLAM,MS,458,Qualification,HACHARD Antoine (FRA),LIM Jonghoon (KOR),LIM Jonghoon
+World Tour Japan Open Tokyo 2017,2017-06-14,ASSAR Omar,MATSUYAMA Yuki,4,0,"11,11,11,11|8,8,9,9",QR64,GRAND_SLAM,MS,458,Qualification,ASSAR Omar (EGY),MATSUYAMA Yuki (JPN),ASSAR Omar
+World Tour Japan Open Tokyo 2017,2017-06-14,FRANZISKA Patrick,LIAO Cheng-Ting,4,3,"7,12,11,10,3,12,13|11,10,8,12,11,10,11",QR64,GRAND_SLAM,MS,458,Qualification,LIAO Cheng-Ting (TPE),FRANZISKA Patrick (GER),FRANZISKA Patrick
+World Tour Japan Open Tokyo 2017,2017-06-14,JIN Takuya,GAO Ning,4,0,"12,11,12,11|10,9,10,6",QR64,GRAND_SLAM,MS,458,Qualification,GAO Ning (SGP),JIN Takuya (JPN),JIN Takuya
+World Tour Japan Open Tokyo 2017,2017-06-14,MENGEL Steffen,KOSIBA Daniel,4,1,"11,9,11,11,11|8,11,8,5,6",QR64,GRAND_SLAM,MS,458,Qualification,KOSIBA Daniel (HUN),MENGEL Steffen (GER),MENGEL Steffen
+World Tour Japan Open Tokyo 2017,2017-06-14,LEVENKO Andreas,LI Ahmet,4,2,"4,11,11,11,9,11|11,7,3,5,11,9",QR64,GRAND_SLAM,MS,458,Qualification,LI Ahmet (TUR),LEVENKO Andreas (AUT),LEVENKO Andreas
+World Tour Japan Open Tokyo 2017,2017-06-14,FILUS Ruwen,SAKAI Asuka,4,3,"9,11,10,9,11,11,11|11,9,12,11,7,5,8",QR64,GRAND_SLAM,MS,458,Qualification,SAKAI Asuka (JPN),FILUS Ruwen (GER),FILUS Ruwen
+World Tour Japan Open Tokyo 2017,2017-06-14,LEBESSON Emmanuel,KIM Donghyun,4,1,"11,13,11,11,11|5,11,13,5,5",QR64,GRAND_SLAM,MS,458,Qualification,LEBESSON Emmanuel (FRA),KIM Donghyun (KOR),LEBESSON Emmanuel
+World Tour Japan Open Tokyo 2017,2017-06-14,DUDA Benedikt,WU Jiaji,4,1,"12,12,11,10,11|10,10,8,12,9",QR64,GRAND_SLAM,MS,458,Qualification,WU Jiaji (DOM),DUDA Benedikt (GER),DUDA Benedikt
+World Tour Japan Open Tokyo 2017,2017-06-14,CHO Seungmin,KIZUKURI Yuto,4,2,"11,11,11,9,11,11|3,13,7,11,9,8",QR64,GRAND_SLAM,MS,458,Qualification,CHO Seungmin (KOR),KIZUKURI Yuto (JPN),CHO Seungmin
+World Tour Japan Open Tokyo 2017,2017-06-14,LIN Gaoyuan,LIN Yun-Ju,4,1,"9,11,11,11,11|11,4,8,9,8",QR64,GRAND_SLAM,MS,458,Qualification,LIN Yun-Ju (TPE),LIN Gaoyuan (CHN),LIN Gaoyuan
+World Tour Japan Open Tokyo 2017,2017-06-14,WALTHER Ricardo,SEO Hyundeok,4,0,"11,11,11,11|4,8,8,7",QR64,GRAND_SLAM,MS,458,Qualification,WALTHER Ricardo (GER),SEO Hyundeok (KOR),WALTHER Ricardo
+World Tour Japan Open Tokyo 2017,2017-06-14,MORIZONO Masataka,LORENTZ Romain,4,0,"11,11,11,11|7,9,2,5",QR64,GRAND_SLAM,MS,458,Qualification,LORENTZ Romain (FRA),MORIZONO Masataka (JPN),MORIZONO Masataka
+World Tour Japan Open Tokyo 2017,2017-06-14,KIM Minseok,SUN Chia-Hung,4,1,"11,11,8,11,11|3,3,11,9,8",QR64,GRAND_SLAM,MS,458,Qualification,KIM Minseok (KOR),SUN Chia-Hung (TPE),KIM Minseok
+World Tour Japan Open Tokyo 2017,2017-06-14,KARLSSON Mattias,YANG Tzu-Yi,4,0,"11,11,11,11|3,7,6,4",QR64,GRAND_SLAM,MS,458,Qualification,YANG Tzu-Yi (TPE),KARLSSON Mattias (SWE),KARLSSON Mattias
+World Tour Japan Open Tokyo 2017,2017-06-14,STEGER Bastian,PARK Jeongwoo,4,3,"12,8,6,11,8,11,11|10,11,11,6,11,3,1",QR32,GRAND_SLAM,MS,458,Qualification,STEGER Bastian (GER),PARK Jeongwoo (KOR),STEGER Bastian
+World Tour Japan Open Tokyo 2017,2017-06-14,RYUZAKI Tonin,CHIANG Hung-Chieh,4,0,"11,11,12,11|6,8,10,4",QR32,GRAND_SLAM,MS,458,Qualification,RYUZAKI Tonin (JPN),CHIANG Hung-Chieh (TPE),RYUZAKI Tonin
+World Tour Japan Open Tokyo 2017,2017-06-14,YOSHIDA Masaki,TAZOE Kenta,4,1,"11,7,11,11,12|8,11,9,9,10",QR32,GRAND_SLAM,MS,458,Qualification,YOSHIDA Masaki (JPN),TAZOE Kenta (JPN),YOSHIDA Masaki
+World Tour Japan Open Tokyo 2017,2017-06-14,YOSHIMURA Kazuhiro,NUYTINCK Cedric,4,2,"15,12,11,10,1,11|13,10,7,12,11,9",QR32,GRAND_SLAM,MS,458,Qualification,NUYTINCK Cedric (BEL),YOSHIMURA Kazuhiro (JPN),YOSHIMURA Kazuhiro
+World Tour Japan Open Tokyo 2017,2017-06-14,UEDA Jin,HIRANO Yuki,4,2,"11,5,11,14,5,11|8,11,5,12,11,7",QR32,GRAND_SLAM,MS,458,Qualification,HIRANO Yuki (JPN),UEDA Jin (JPN),UEDA Jin
+World Tour Japan Open Tokyo 2017,2017-06-14,LIANG Jingkun,HARIMOTO Tomokazu,4,1,"11,13,14,11,11|2,11,16,6,8",QR32,GRAND_SLAM,MS,458,Qualification,HARIMOTO Tomokazu (JPN),LIANG Jingkun (CHN),LIANG Jingkun
+World Tour Japan Open Tokyo 2017,2017-06-14,HO Kwan Kit,LANDRIEU Andrea,4,2,"8,11,11,11,12,11|11,9,4,4,14,7",QR32,GRAND_SLAM,MS,458,Qualification,LANDRIEU Andrea (FRA),HO Kwan Kit (HKG),HO Kwan Kit
+World Tour Japan Open Tokyo 2017,2017-06-14,YOSHIMURA Maharu,WANG Eugene,4,2,"11,15,9,11,7,11|7,13,11,5,11,7",QR32,GRAND_SLAM,MS,458,Qualification,WANG Eugene (CAN),YOSHIMURA Maharu (JPN),YOSHIMURA Maharu
+World Tour Japan Open Tokyo 2017,2017-06-14,LIM Jonghoon,MURAMATSU Yuto,4,1,"11,5,11,11,11|8,11,8,7,9",QR32,GRAND_SLAM,MS,458,Qualification,MURAMATSU Yuto (JPN),LIM Jonghoon (KOR),LIM Jonghoon
+World Tour Japan Open Tokyo 2017,2017-06-14,ASSAR Omar,FRANZISKA Patrick,4,2,"8,11,13,8,11,11|11,8,11,11,9,7",QR32,GRAND_SLAM,MS,458,Qualification,ASSAR Omar (EGY),FRANZISKA Patrick (GER),ASSAR Omar
+World Tour Japan Open Tokyo 2017,2017-06-14,JIN Takuya,MENGEL Steffen,4,1,"11,6,12,11,11|5,11,10,9,8",QR32,GRAND_SLAM,MS,458,Qualification,JIN Takuya (JPN),MENGEL Steffen (GER),JIN Takuya
+World Tour Japan Open Tokyo 2017,2017-06-14,FILUS Ruwen,LEVENKO Andreas,4,0,"11,11,11,11|9,4,6,6",QR32,GRAND_SLAM,MS,458,Qualification,LEVENKO Andreas (AUT),FILUS Ruwen (GER),FILUS Ruwen
+World Tour Japan Open Tokyo 2017,2017-06-14,LEBESSON Emmanuel,DUDA Benedikt,4,0,"11,11,11,11|3,7,5,4",QR32,GRAND_SLAM,MS,458,Qualification,LEBESSON Emmanuel (FRA),DUDA Benedikt (GER),LEBESSON Emmanuel
+World Tour Japan Open Tokyo 2017,2017-06-14,LIN Gaoyuan,CHO Seungmin,4,1,"9,11,11,12,11|11,9,6,10,7",QR32,GRAND_SLAM,MS,458,Qualification,CHO Seungmin (KOR),LIN Gaoyuan (CHN),LIN Gaoyuan
+World Tour Japan Open Tokyo 2017,2017-06-14,WALTHER Ricardo,MORIZONO Masataka,4,1,"11,11,11,5,11|9,9,9,11,6",QR32,GRAND_SLAM,MS,458,Qualification,WALTHER Ricardo (GER),MORIZONO Masataka (JPN),WALTHER Ricardo
+World Tour Japan Open Tokyo 2017,2017-06-14,KARLSSON Mattias,KIM Minseok,4,2,"9,11,11,11,13,12|11,13,8,4,11,10",QR32,GRAND_SLAM,MS,458,Qualification,KIM Minseok (KOR),KARLSSON Mattias (SWE),KARLSSON Mattias
+World Tour Japan Open Tokyo 2017,2017-06-14,MA Wenting,MINAGAWA Yuka,4,0,"11,11,11,11|7,6,9,8",QR64,GRAND_SLAM,WS,458,Qualification,MINAGAWA Yuka (JPN),MA Wenting (NOR),MA Wenting
+World Tour Japan Open Tokyo 2017,2017-06-14,LIN Chia-Chih,SOLJA Amelie,4,1,"11,6,11,11,11|2,11,5,8,9",QR64,GRAND_SLAM,WS,458,Qualification,SOLJA Amelie (AUT),LIN Chia-Chih (TPE),LIN Chia-Chih
+World Tour Japan Open Tokyo 2017,2017-06-14,HUANG Yi-Hua,IKEGAMI Reiko,4,2,"7,11,8,11,11,11|11,4,11,7,7,5",QR64,GRAND_SLAM,WS,458,Qualification,IKEGAMI Reiko (JPN),HUANG Yi-Hua (TPE),HUANG Yi-Hua
+World Tour Japan Open Tokyo 2017,2017-06-14,KIHARA Miyuu,YOO Eunchong,4,0,"11,13,11,11|6,11,5,4",QR64,GRAND_SLAM,WS,458,Qualification,YOO Eunchong (KOR),KIHARA Miyuu (JPN),KIHARA Miyuu
+World Tour Japan Open Tokyo 2017,2017-06-14,NARUMOTO Ayami,LEE Nakyung,4,3,"7,8,11,11,9,11,11|11,11,7,8,11,9,9",QR64,GRAND_SLAM,WS,458,Qualification,LEE Nakyung (KOR),NARUMOTO Ayami (JPN),NARUMOTO Ayami
+World Tour Japan Open Tokyo 2017,2017-06-14,SZOCS Bernadette,VINOGRADOVA Mariia,4,0,"11,11,12,11|7,6,10,7",QR64,GRAND_SLAM,WS,458,Qualification,SZOCS Bernadette (ROU),VINOGRADOVA Mariia (RUS),SZOCS Bernadette
+World Tour Japan Open Tokyo 2017,2017-06-14,DRAGOMAN Andreea,SONG Maeum,4,2,"12,11,6,11,10,15|10,9,11,5,12,13",QR64,GRAND_SLAM,WS,458,Qualification,DRAGOMAN Andreea (ROU),SONG Maeum (KOR),DRAGOMAN Andreea
+World Tour Japan Open Tokyo 2017,2017-06-14,CHENG Hsien-Tzu,SASAO Asuka,4,3,"11,8,9,11,1,11,11|7,11,11,4,11,5,9",QR64,GRAND_SLAM,WS,458,Qualification,CHENG Hsien-Tzu (TPE),SASAO Asuka (JPN),CHENG Hsien-Tzu
+World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Ke,NG Wing Nam,4,1,"9,11,11,11,11|11,6,6,4,4",QR64,GRAND_SLAM,WS,458,Qualification,CHEN Ke (CHN),NG Wing Nam (HKG),CHEN Ke
+World Tour Japan Open Tokyo 2017,2017-06-14,ANDO Minami,LIU Yu-Hsin,4,1,"13,14,11,6,11|11,12,8,11,8",QR64,GRAND_SLAM,WS,458,Qualification,ANDO Minami (JPN),LIU Yu-Hsin (TPE),ANDO Minami
+World Tour Japan Open Tokyo 2017,2017-06-14,SHAO Jieni,PARK Joohyun,4,1,"6,11,11,11,12|11,3,6,8,10",QR64,GRAND_SLAM,WS,458,Qualification,PARK Joohyun (KOR),SHAO Jieni (POR),SHAO Jieni
+World Tour Japan Open Tokyo 2017,2017-06-14,JUNG Yumi,HUANG Hsin,4,1,"11,6,11,11,11|9,11,5,8,6",QR64,GRAND_SLAM,WS,458,Qualification,JUNG Yumi (KOR),HUANG Hsin (TPE),JUNG Yumi
+World Tour Japan Open Tokyo 2017,2017-06-14,DIACONU Adina,LI Yu-Jhun,4,1,"11,11,11,6,11|6,2,3,11,5",QR64,GRAND_SLAM,WS,458,Qualification,LI Yu-Jhun (TPE),DIACONU Adina (ROU),DIACONU Adina
+World Tour Japan Open Tokyo 2017,2017-06-14,SUN Yingsha,HUANG Yu-Wen,4,0,"11,11,11,11|3,4,7,4",QR64,GRAND_SLAM,WS,458,Qualification,SUN Yingsha (CHN),HUANG Yu-Wen (TPE),SUN Yingsha
+World Tour Japan Open Tokyo 2017,2017-06-14,ZHANG Mo,SUZUKI Rika,4,3,"11,9,6,11,5,12,12|8,11,11,8,11,10,10",QR64,GRAND_SLAM,WS,458,Qualification,SUZUKI Rika (JPN),ZHANG Mo (CAN),ZHANG Mo
+World Tour Japan Open Tokyo 2017,2017-06-14,YUAN Xuejiao,MAK Tze Wing,4,0,"11,11,11,11|7,8,5,4",QR64,GRAND_SLAM,WS,458,Qualification,MAK Tze Wing (HKG),YUAN Xuejiao (CHN),YUAN Xuejiao
+World Tour Japan Open Tokyo 2017,2017-06-14,YANG Ha Eun,MA Wenting,4,3,"11,8,11,11,11,8,11|6,11,6,13,4,11,5",QR32,GRAND_SLAM,WS,458,Qualification,YANG Ha Eun (KOR),MA Wenting (NOR),YANG Ha Eun
+World Tour Japan Open Tokyo 2017,2017-06-14,JIANG Huajun,LIN Chia-Chih,4,2,"7,11,11,7,11,11|11,7,9,11,6,4",QR32,GRAND_SLAM,WS,458,Qualification,LIN Chia-Chih (TPE),JIANG Huajun (HKG),JIANG Huajun
+World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Xingtong,HUANG Yi-Hua,4,2,"11,11,12,6,11,11|6,9,14,11,2,2",QR32,GRAND_SLAM,WS,458,Qualification,CHEN Xingtong (CHN),HUANG Yi-Hua (TPE),CHEN Xingtong
+World Tour Japan Open Tokyo 2017,2017-06-14,LEE Ho Ching,KIHARA Miyuu,4,3,"12,9,11,13,11,9,11|14,11,7,11,4,11,5",QR32,GRAND_SLAM,WS,458,Qualification,KIHARA Miyuu (JPN),LEE Ho Ching (HKG),LEE Ho Ching
+World Tour Japan Open Tokyo 2017,2017-06-14,KATO Miyu,NARUMOTO Ayami,4,0,"11,11,11,11|9,5,9,9",QR32,GRAND_SLAM,WS,458,Qualification,KATO Miyu (JPN),NARUMOTO Ayami (JPN),KATO Miyu
+World Tour Japan Open Tokyo 2017,2017-06-14,SOO Wai Yam,SZOCS Bernadette,4,1,"11,11,12,7,11|8,4,10,11,8",QR32,GRAND_SLAM,WS,458,Qualification,SZOCS Bernadette (ROU),SOO Wai Yam (HKG),SOO Wai Yam
+World Tour Japan Open Tokyo 2017,2017-06-14,YU Fu,DRAGOMAN Andreea,4,1,"9,11,11,11,11|11,4,2,8,9",QR32,GRAND_SLAM,WS,458,Qualification,YU Fu (POR),DRAGOMAN Andreea (ROU),YU Fu
+World Tour Japan Open Tokyo 2017,2017-06-14,SUH Hyo Won,CHENG Hsien-Tzu,4,0,"11,11,11,11|8,7,5,6",QR32,GRAND_SLAM,WS,458,Qualification,CHENG Hsien-Tzu (TPE),SUH Hyo Won (KOR),SUH Hyo Won
+World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Ke,HAMAMOTO Yui,4,0,"11,11,14,14|8,7,12,12",QR32,GRAND_SLAM,WS,458,Qualification,HAMAMOTO Yui (AUT),CHEN Ke (CHN),CHEN Ke
+World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Szu-Yu,ANDO Minami,4,2,"8,11,11,11,9,11|11,6,5,9,11,1",QR32,GRAND_SLAM,WS,458,Qualification,ANDO Minami (JPN),CHEN Szu-Yu (TPE),CHEN Szu-Yu
+World Tour Japan Open Tokyo 2017,2017-06-14,POLCANOVA Sofia,SHAO Jieni,4,2,"12,11,10,11,6,11|10,7,12,7,11,8",QR32,GRAND_SLAM,WS,458,Qualification,POLCANOVA Sofia (AUT),SHAO Jieni (POR),POLCANOVA Sofia
+World Tour Japan Open Tokyo 2017,2017-06-14,SAMARA Elizabeta,JUNG Yumi,4,1,"12,11,11,4,11|10,8,6,11,9",QR32,GRAND_SLAM,WS,458,Qualification,JUNG Yumi (KOR),SAMARA Elizabeta (ROU),SAMARA Elizabeta
+World Tour Japan Open Tokyo 2017,2017-06-14,MORI Sakura,DIACONU Adina,4,2,"8,11,11,12,10,11|11,9,5,10,12,8",QR32,GRAND_SLAM,WS,458,Qualification,MORI Sakura (JPN),DIACONU Adina (ROU),MORI Sakura
+World Tour Japan Open Tokyo 2017,2017-06-14,SUN Yingsha,CHOI Hyojoo,4,0,"11,11,11,11|8,3,3,2",QR32,GRAND_SLAM,WS,458,Qualification,SUN Yingsha (CHN),CHOI Hyojoo (KOR),SUN Yingsha
+World Tour Japan Open Tokyo 2017,2017-06-14,WANG Manyu,ZHANG Mo,4,3,"6,5,9,11,12,11,11|11,11,11,6,10,4,4",QR32,GRAND_SLAM,WS,458,Qualification,WANG Manyu (CHN),ZHANG Mo (CAN),WANG Manyu
+World Tour Japan Open Tokyo 2017,2017-06-14,YUAN Xuejiao,TIE Yana,4,2,"4,11,11,7,11,11|11,5,5,11,4,8",QR32,GRAND_SLAM,WS,458,Qualification,YUAN Xuejiao (CHN),TIE Yana (HKG),YUAN Xuejiao
+World Tour Japan Open Tokyo 2017,2017-06-14,PARK Jeongwoo,MATSUBARA Yutaka,3,0,"11,11,11|6,5,5",R32,GRAND_SLAM,U21MS,458,Main Draw,MATSUBARA Yutaka (CHI),PARK Jeongwoo (KOR),PARK Jeongwoo
+World Tour Japan Open Tokyo 2017,2017-06-14,RYUZAKI Tonin,LIN Yun-Ju,3,2,"11,11,4,13,11|9,13,11,11,4",R32,GRAND_SLAM,U21MS,458,Main Draw,RYUZAKI Tonin (JPN),LIN Yun-Ju (TPE),RYUZAKI Tonin
+World Tour Japan Open Tokyo 2017,2017-06-14,LAM Siu Hang,TOGAMI Shunsuke,3,2,"7,6,11,11,11|11,11,7,5,3",R32,GRAND_SLAM,U21MS,458,Main Draw,TOGAMI Shunsuke (JPN),LAM Siu Hang (HKG),LAM Siu Hang
+World Tour Japan Open Tokyo 2017,2017-06-14,CHERNOV Konstantin,KIZUKURI Yuto,3,2,"11,6,11,4,12|8,11,9,11,10",R32,GRAND_SLAM,U21MS,458,Main Draw,KIZUKURI Yuto (JPN),CHERNOV Konstantin (RUS),CHERNOV Konstantin
+World Tour Japan Open Tokyo 2017,2017-06-14,QIU Dang,LANDRIEU Andrea,3,0,"11,11,11|7,3,9",R32,GRAND_SLAM,U21MS,458,Main Draw,QIU Dang (GER),LANDRIEU Andrea (FRA),QIU Dang
+World Tour Japan Open Tokyo 2017,2017-06-14,IGARASHI Fumiya,SUN Chia-Hung,3,1,"11,6,15,11|8,11,13,5",R32,GRAND_SLAM,U21MS,458,Main Draw,SUN Chia-Hung (TPE),IGARASHI Fumiya (JPN),IGARASHI Fumiya
+World Tour Japan Open Tokyo 2017,2017-06-14,MATSUYAMA Yuki,YANG Tzu-Yi,3,2,"11,4,8,11,11|7,11,11,9,7",R32,GRAND_SLAM,U21MS,458,Main Draw,YANG Tzu-Yi (TPE),MATSUYAMA Yuki (JPN),MATSUYAMA Yuki
+World Tour Japan Open Tokyo 2017,2017-06-14,TAKAMI Masaki,NG Pak Nam,3,0,"11,11,11|5,4,8",R32,GRAND_SLAM,U21MS,458,Main Draw,NG Pak Nam (HKG),TAKAMI Masaki (JPN),TAKAMI Masaki
+World Tour Japan Open Tokyo 2017,2017-06-14,MIYAMOTO Haruki,PARK Ganghyeon,3,2,"17,4,10,11,11|15,11,12,4,8",R32,GRAND_SLAM,U21MS,458,Main Draw,MIYAMOTO Haruki (JPN),PARK Ganghyeon (KOR),MIYAMOTO Haruki
+World Tour Japan Open Tokyo 2017,2017-06-14,YOSHIMURA Kazuhiro,NIKULIN Ivan,3,0,"11,11,11|3,6,4",R32,GRAND_SLAM,U21MS,458,Main Draw,YOSHIMURA Kazuhiro (JPN),NIKULIN Ivan (RUS),YOSHIMURA Kazuhiro
+World Tour Japan Open Tokyo 2017,2017-06-14,LEVENKO Andreas,SEYFRIED Joe,3,0,"11,11,11|6,5,7",R32,GRAND_SLAM,U21MS,458,Main Draw,SEYFRIED Joe (FRA),LEVENKO Andreas (AUT),LEVENKO Andreas
+World Tour Japan Open Tokyo 2017,2017-06-14,YANG Heng-Wei,IMANKADYROV Anvar,3,0,"11,11,11|4,4,8",R32,GRAND_SLAM,U21MS,458,Main Draw,YANG Heng-Wei (TPE),IMANKADYROV Anvar (RUS),YANG Heng-Wei
+World Tour Japan Open Tokyo 2017,2017-06-14,HO Kwan Kit,PARK Jeongwoo,3,1,"11,8,15,11|5,11,13,5",R16,GRAND_SLAM,U21MS,458,Main Draw,HO Kwan Kit (HKG),PARK Jeongwoo (KOR),HO Kwan Kit
+World Tour Japan Open Tokyo 2017,2017-06-14,RYUZAKI Tonin,LAM Siu Hang,3,1,"12,14,11,11|10,16,9,3",R16,GRAND_SLAM,U21MS,458,Main Draw,RYUZAKI Tonin (JPN),LAM Siu Hang (HKG),RYUZAKI Tonin
+World Tour Japan Open Tokyo 2017,2017-06-14,QIU Dang,CHERNOV Konstantin,3,2,"11,11,13,11,11|13,5,15,9,4",R16,GRAND_SLAM,U21MS,458,Main Draw,CHERNOV Konstantin (RUS),QIU Dang (GER),QIU Dang
+World Tour Japan Open Tokyo 2017,2017-06-14,CHO Seungmin,IGARASHI Fumiya,3,1,"11,9,11,11|8,11,3,9",R16,GRAND_SLAM,U21MS,458,Main Draw,IGARASHI Fumiya (JPN),CHO Seungmin (KOR),CHO Seungmin
+World Tour Japan Open Tokyo 2017,2017-06-14,SAKAI Asuka,MATSUYAMA Yuki,3,2,"12,9,8,12,16|10,11,11,10,14",R16,GRAND_SLAM,U21MS,458,Main Draw,SAKAI Asuka (JPN),MATSUYAMA Yuki (JPN),SAKAI Asuka
+World Tour Japan Open Tokyo 2017,2017-06-14,TAKAMI Masaki,MIYAMOTO Haruki,3,1,"11,11,7,11|9,7,11,9",R16,GRAND_SLAM,U21MS,458,Main Draw,TAKAMI Masaki (JPN),MIYAMOTO Haruki (JPN),TAKAMI Masaki
+World Tour Japan Open Tokyo 2017,2017-06-14,YOSHIMURA Kazuhiro,LEVENKO Andreas,3,1,"11,8,11,13|3,11,9,11",R16,GRAND_SLAM,U21MS,458,Main Draw,YOSHIMURA Kazuhiro (JPN),LEVENKO Andreas (AUT),YOSHIMURA Kazuhiro
+World Tour Japan Open Tokyo 2017,2017-06-14,LIM Jonghoon,YANG Heng-Wei,3,1,"11,8,11,13|7,11,8,11",R16,GRAND_SLAM,U21MS,458,Main Draw,YANG Heng-Wei (TPE),LIM Jonghoon (KOR),LIM Jonghoon
+World Tour Japan Open Tokyo 2017,2017-06-14,RYUZAKI Tonin,HO Kwan Kit,3,2,"8,11,6,11,11|11,7,11,9,9",QF,GRAND_SLAM,U21MS,458,Main Draw,HO Kwan Kit (HKG),RYUZAKI Tonin (JPN),RYUZAKI Tonin
+World Tour Japan Open Tokyo 2017,2017-06-14,QIU Dang,CHO Seungmin,3,2,"14,6,6,11,11|12,11,11,7,9",QF,GRAND_SLAM,U21MS,458,Main Draw,QIU Dang (GER),CHO Seungmin (KOR),QIU Dang
+World Tour Japan Open Tokyo 2017,2017-06-14,TAKAMI Masaki,SAKAI Asuka,3,2,"11,3,9,11,12|6,11,11,9,10",QF,GRAND_SLAM,U21MS,458,Main Draw,SAKAI Asuka (JPN),TAKAMI Masaki (JPN),TAKAMI Masaki
+World Tour Japan Open Tokyo 2017,2017-06-14,LIM Jonghoon,YOSHIMURA Kazuhiro,3,2,"9,11,15,8,11|11,9,13,11,7",QF,GRAND_SLAM,U21MS,458,Main Draw,YOSHIMURA Kazuhiro (JPN),LIM Jonghoon (KOR),LIM Jonghoon
+World Tour Japan Open Tokyo 2017,2017-06-14,RYUZAKI Tonin,QIU Dang,3,2,"4,2,11,11,11|11,11,7,5,6",SF,GRAND_SLAM,U21MS,458,Main Draw,RYUZAKI Tonin (JPN),QIU Dang (GER),RYUZAKI Tonin
+World Tour Japan Open Tokyo 2017,2017-06-14,LIM Jonghoon,TAKAMI Masaki,3,2,"11,11,5,3,11|6,6,11,11,9",SF,GRAND_SLAM,U21MS,458,Main Draw,TAKAMI Masaki (JPN),LIM Jonghoon (KOR),LIM Jonghoon
+World Tour Japan Open Tokyo 2017,2017-06-14,LIM Jonghoon,RYUZAKI Tonin,3,1,"8,11,11,11|11,7,7,7",F,GRAND_SLAM,U21MS,458,Main Draw,RYUZAKI Tonin (JPN),LIM Jonghoon (KOR),LIM Jonghoon
+World Tour Japan Open Tokyo 2017,2017-06-14,LI Yu-Jhun,ODO Satsuki,3,1,"11,11,4,12|6,5,11,10",R16,GRAND_SLAM,U21WS,458,Main Draw,ODO Satsuki (JPN),LI Yu-Jhun (TPE),LI Yu-Jhun
+World Tour Japan Open Tokyo 2017,2017-06-14,UMEMURA Yuka,HUANG Yu-Wen,3,1,"11,2,11,14|3,11,5,12",R16,GRAND_SLAM,U21WS,458,Main Draw,HUANG Yu-Wen (TPE),UMEMURA Yuka (JPN),UMEMURA Yuka
+World Tour Japan Open Tokyo 2017,2017-06-14,DRAGOMAN Andreea,MINAGAWA Yuka,3,2,"7,11,13,9,13|11,9,11,11,11",R16,GRAND_SLAM,U21WS,458,Main Draw,MINAGAWA Yuka (JPN),DRAGOMAN Andreea (ROU),DRAGOMAN Andreea
+World Tour Japan Open Tokyo 2017,2017-06-14,KIHARA Miyuu,SASAO Asuka,3,1,"11,11,11,11|13,7,6,7",R16,GRAND_SLAM,U21WS,458,Main Draw,KIHARA Miyuu (JPN),SASAO Asuka (JPN),KIHARA Miyuu
+World Tour Japan Open Tokyo 2017,2017-06-14,SOO Wai Yam,LI Yu-Jhun,3,0,"11,11,11|7,8,7",QF,GRAND_SLAM,U21WS,458,Main Draw,SOO Wai Yam (HKG),LI Yu-Jhun (TPE),SOO Wai Yam
+World Tour Japan Open Tokyo 2017,2017-06-14,UMEMURA Yuka,DIACONU Adina,3,2,"11,7,7,11,11|5,11,11,9,6",QF,GRAND_SLAM,U21WS,458,Main Draw,UMEMURA Yuka (JPN),DIACONU Adina (ROU),UMEMURA Yuka
+World Tour Japan Open Tokyo 2017,2017-06-14,MAK Tze Wing,DRAGOMAN Andreea,3,0,"11,11,11|8,4,9",QF,GRAND_SLAM,U21WS,458,Main Draw,MAK Tze Wing (HKG),DRAGOMAN Andreea (ROU),MAK Tze Wing
+World Tour Japan Open Tokyo 2017,2017-06-14,KIHARA Miyuu,ANDO Minami,3,2,"9,3,11,11,11|11,11,7,5,9",QF,GRAND_SLAM,U21WS,458,Main Draw,KIHARA Miyuu (JPN),ANDO Minami (JPN),KIHARA Miyuu
+World Tour Japan Open Tokyo 2017,2017-06-14,UMEMURA Yuka,SOO Wai Yam,3,1,"8,11,11,14|11,5,9,12",SF,GRAND_SLAM,U21WS,458,Main Draw,SOO Wai Yam (HKG),UMEMURA Yuka (JPN),UMEMURA Yuka
+World Tour Japan Open Tokyo 2017,2017-06-14,KIHARA Miyuu,MAK Tze Wing,3,2,"11,9,11,7,11|3,11,5,11,9",SF,GRAND_SLAM,U21WS,458,Main Draw,MAK Tze Wing (HKG),KIHARA Miyuu (JPN),KIHARA Miyuu
+World Tour Japan Open Tokyo 2017,2017-06-14,UMEMURA Yuka,KIHARA Miyuu,3,1,"11,9,11,11|6,11,8,8",F,GRAND_SLAM,U21WS,458,Main Draw,UMEMURA Yuka (JPN),KIHARA Miyuu (JPN),UMEMURA Yuka
+World Tour Japan Open Tokyo 2017,2017-06-14,MA Long,YOSHIMURA Maharu,4,0,"18,11,11,11|16,7,2,2",R32,GRAND_SLAM,MS,458,Main Draw,MA Long (CHN),YOSHIMURA Maharu (JPN),MA Long
+World Tour Japan Open Tokyo 2017,2017-06-14,HO Kwan Kit,CALDERANO Hugo,4,3,"7,12,11,6,6,12,11|11,10,7,11,11,10,4",R32,GRAND_SLAM,MS,458,Main Draw,HO Kwan Kit (HKG),CALDERANO Hugo (BRA),HO Kwan Kit
+World Tour Japan Open Tokyo 2017,2017-06-14,NIWA Koki,FILUS Ruwen,4,3,"11,11,11,10,8,9,11|8,9,5,12,11,11,5",R32,GRAND_SLAM,MS,458,Main Draw,NIWA Koki (JPN),FILUS Ruwen (GER),NIWA Koki
+World Tour Japan Open Tokyo 2017,2017-06-14,UEDA Jin,CHUANG Chih-Yuan,4,2,"11,7,11,6,11,11|9,11,8,11,6,6",R32,GRAND_SLAM,MS,458,Main Draw,UEDA Jin (JPN),CHUANG Chih-Yuan (TPE),UEDA Jin
+World Tour Japan Open Tokyo 2017,2017-06-14,FANG Bo,YOSHIMURA Kazuhiro,4,3,"8,9,5,11,11,11,14|11,11,11,4,8,7,12",R32,GRAND_SLAM,MS,458,Main Draw,FANG Bo (KAZ),YOSHIMURA Kazuhiro (JPN),FANG Bo
+World Tour Japan Open Tokyo 2017,2017-06-14,LIM Jonghoon,APOLONIA Tiago,4,2,"7,12,11,10,11,12|11,10,6,12,5,10",R32,GRAND_SLAM,MS,458,Main Draw,LIM Jonghoon (KOR),APOLONIA Tiago (POR),LIM Jonghoon
+World Tour Japan Open Tokyo 2017,2017-06-14,MATSUDAIRA Kenta,WALTHER Ricardo,4,3,"11,9,9,11,12,9,11|9,11,11,3,10,11,6",R32,GRAND_SLAM,MS,458,Main Draw,MATSUDAIRA Kenta (JPN),WALTHER Ricardo (GER),MATSUDAIRA Kenta
+World Tour Japan Open Tokyo 2017,2017-06-14,XU Xin,KARLSSON Mattias,4,0,"11,11,12,11|5,6,10,4",R32,GRAND_SLAM,MS,458,Main Draw,KARLSSON Mattias (SWE),XU Xin (CHN),XU Xin
+World Tour Japan Open Tokyo 2017,2017-06-14,MIZUTANI Jun,STEGER Bastian,4,1,"11,11,7,11,12|9,5,11,5,10",R32,GRAND_SLAM,MS,458,Main Draw,MIZUTANI Jun (JPN),STEGER Bastian (GER),MIZUTANI Jun
+World Tour Japan Open Tokyo 2017,2017-06-14,KARLSSON Kristian,RYUZAKI Tonin,4,0,"11,11,11,11|3,7,4,7",R32,GRAND_SLAM,MS,458,Main Draw,RYUZAKI Tonin (JPN),KARLSSON Kristian (SWE),KARLSSON Kristian
+World Tour Japan Open Tokyo 2017,2017-06-14,LEE Sang Su,ASSAR Omar,4,1,"4,11,11,12,11|11,7,7,10,9",R32,GRAND_SLAM,MS,458,Main Draw,LEE Sang Su (KOR),ASSAR Omar (EGY),LEE Sang Su
+World Tour Japan Open Tokyo 2017,2017-06-14,LIN Gaoyuan,BOLL Timo,4,1,"11,11,6,11,11|6,7,11,5,8",R32,GRAND_SLAM,MS,458,Main Draw,LIN Gaoyuan (CHN),BOLL Timo (GER),LIN Gaoyuan
+World Tour Japan Open Tokyo 2017,2017-06-14,WONG Chun Ting,JIN Takuya,4,0,"11,11,11,12|5,6,7,10",R32,GRAND_SLAM,MS,458,Main Draw,WONG Chun Ting (HKG),JIN Takuya (JPN),WONG Chun Ting
+World Tour Japan Open Tokyo 2017,2017-06-14,LIANG Jingkun,FEGERL Stefan,4,2,"11,11,13,11,7,11|7,7,15,7,11,4",R32,GRAND_SLAM,MS,458,Main Draw,LIANG Jingkun (CHN),FEGERL Stefan (AUT),LIANG Jingkun
+World Tour Japan Open Tokyo 2017,2017-06-14,LEBESSON Emmanuel,OSHIMA Yuya,4,1,"11,11,11,8,12|5,6,5,11,10",R32,GRAND_SLAM,MS,458,Main Draw,OSHIMA Yuya (JPN),LEBESSON Emmanuel (FRA),LEBESSON Emmanuel
+World Tour Japan Open Tokyo 2017,2017-06-14,FAN Zhendong,YOSHIDA Masaki,4,0,"12,11,11,11|10,9,6,9",R32,GRAND_SLAM,MS,458,Main Draw,YOSHIDA Masaki (JPN),FAN Zhendong (CHN),FAN Zhendong
+World Tour Japan Open Tokyo 2017,2017-06-14,MA Long,HO Kwan Kit,4,0,"11,11,11,11|4,7,6,7",R16,GRAND_SLAM,MS,458,Main Draw,MA Long (CHN),HO Kwan Kit (HKG),MA Long
+World Tour Japan Open Tokyo 2017,2017-06-14,NIWA Koki,UEDA Jin,4,2,"11,5,11,5,11,11|7,11,8,11,7,7",R16,GRAND_SLAM,MS,458,Main Draw,NIWA Koki (JPN),UEDA Jin (JPN),NIWA Koki
+World Tour Japan Open Tokyo 2017,2017-06-14,FANG Bo,LIM Jonghoon,4,1,"11,11,7,11,12|8,6,11,8,10",R16,GRAND_SLAM,MS,458,Main Draw,FANG Bo (KAZ),LIM Jonghoon (KOR),FANG Bo
+World Tour Japan Open Tokyo 2017,2017-06-14,XU Xin,MATSUDAIRA Kenta,4,1,"11,11,7,11,12|5,9,11,4,10",R16,GRAND_SLAM,MS,458,Main Draw,MATSUDAIRA Kenta (JPN),XU Xin (CHN),XU Xin
+World Tour Japan Open Tokyo 2017,2017-06-14,MIZUTANI Jun,KARLSSON Kristian,4,1,"10,11,13,11,11|12,7,11,9,8",R16,GRAND_SLAM,MS,458,Main Draw,MIZUTANI Jun (JPN),KARLSSON Kristian (SWE),MIZUTANI Jun
+World Tour Japan Open Tokyo 2017,2017-06-14,LEE Sang Su,LIN Gaoyuan,4,0,"11,11,11,11|8,8,7,7",R16,GRAND_SLAM,MS,458,Main Draw,LEE Sang Su (KOR),LIN Gaoyuan (CHN),LEE Sang Su
+World Tour Japan Open Tokyo 2017,2017-06-14,LIANG Jingkun,WONG Chun Ting,4,1,"11,11,11,11,11|4,5,13,9,4",R16,GRAND_SLAM,MS,458,Main Draw,WONG Chun Ting (HKG),LIANG Jingkun (CHN),LIANG Jingkun
+World Tour Japan Open Tokyo 2017,2017-06-14,FAN Zhendong,LEBESSON Emmanuel,4,2,"9,9,11,11,11,11|11,11,6,9,7,3",R16,GRAND_SLAM,MS,458,Main Draw,LEBESSON Emmanuel (FRA),FAN Zhendong (CHN),FAN Zhendong
+World Tour Japan Open Tokyo 2017,2017-06-14,MA Long,NIWA Koki,4,1,"11,12,9,11,11|8,10,11,5,3",QF,GRAND_SLAM,MS,458,Main Draw,MA Long (CHN),NIWA Koki (JPN),MA Long
+World Tour Japan Open Tokyo 2017,2017-06-14,XU Xin,FANG Bo,4,0,,QF,GRAND_SLAM,MS,458,Main Draw,FANG Bo (KAZ),XU Xin (CHN),XU Xin
+World Tour Japan Open Tokyo 2017,2017-06-14,MIZUTANI Jun,LEE Sang Su,4,3,"11,11,4,6,8,11,12|6,9,11,11,11,7,10",QF,GRAND_SLAM,MS,458,Main Draw,MIZUTANI Jun (JPN),LEE Sang Su (KOR),MIZUTANI Jun
+World Tour Japan Open Tokyo 2017,2017-06-14,FAN Zhendong,LIANG Jingkun,4,2,"10,7,12,11,11,11|12,11,10,4,8,6",QF,GRAND_SLAM,MS,458,Main Draw,LIANG Jingkun (CHN),FAN Zhendong (CHN),FAN Zhendong
+World Tour Japan Open Tokyo 2017,2017-06-14,MA Long,XU Xin,4,2,"5,13,11,5,11,11|11,11,6,11,5,5",SF,GRAND_SLAM,MS,458,Main Draw,MA Long (CHN),XU Xin (CHN),MA Long
+World Tour Japan Open Tokyo 2017,2017-06-14,FAN Zhendong,MIZUTANI Jun,4,1,"11,11,12,9,11|7,6,10,11,8",SF,GRAND_SLAM,MS,458,Main Draw,MIZUTANI Jun (JPN),FAN Zhendong (CHN),FAN Zhendong
+World Tour Japan Open Tokyo 2017,2017-06-14,MA Long,FAN Zhendong,4,1,"11,5,11,11,11|7,11,7,8,5",F,GRAND_SLAM,MS,458,Main Draw,MA Long (CHN),FAN Zhendong (CHN),MA Long
+World Tour Japan Open Tokyo 2017,2017-06-14,FAN Zhendong/LIN Gaoyuan,TOWNSEND Kane/TOWNSEND Wade,3,0,"11,11,11|4,4,8",QR16,GRAND_SLAM,MD,458,Qualification,FAN Zhendong (CHN) / LIN Gaoyuan (CHN),TOWNSEND Kane (AUS) / TOWNSEND Wade (AUS),FAN Zhendong
+World Tour Japan Open Tokyo 2017,2017-06-14,KIM Minseok/LIM Jonghoon,CHERNOV Konstantin/LEVENKO Andreas,3,0,"11,11,11|9,6,7",QR16,GRAND_SLAM,MD,458,Qualification,KIM Minseok (KOR) / LIM Jonghoon (KOR),CHERNOV Konstantin (RUS) / LEVENKO Andreas (AUT),KIM Minseok
+World Tour Japan Open Tokyo 2017,2017-06-14,KIM Minseok/LIM Jonghoon,DEVOS Robin/NUYTINCK Cedric,3,2,"8,11,11,6,11|11,4,1,11,8",R16,GRAND_SLAM,MD,458,Main Draw,KIM Minseok (KOR) / LIM Jonghoon (KOR),DEVOS Robin (BEL) / NUYTINCK Cedric (BEL),KIM Minseok
+World Tour Japan Open Tokyo 2017,2017-06-14,FAN Zhendong/LIN Gaoyuan,JANG Woojin/PARK Ganghyeon,3,2,"6,11,11,8,11|11,8,8,11,7",R16,GRAND_SLAM,MD,458,Main Draw,FAN Zhendong (CHN) / LIN Gaoyuan (CHN),JANG Woojin (KOR) / PARK Ganghyeon (KOR),FAN Zhendong
+World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Ke/WANG Manyu,DOO Hoi Kem/LEE Ho Ching,3,1,"11,9,11,11|9,11,8,6",R16,GRAND_SLAM,WD,458,Main Draw,CHEN Ke (CHN) / WANG Manyu (CHN),DOO Hoi Kem (HKG) / LEE Ho Ching (HKG),CHEN Ke
+World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Xingtong/SUN Yingsha,CHEN Ke/WANG Manyu,3,1,"11,10,11,11|4,12,8,7",QF,GRAND_SLAM,WD,458,Main Draw,CHEN Xingtong (CHN) / SUN Yingsha (CHN),CHEN Ke (CHN) / WANG Manyu (CHN),CHEN Xingtong
+World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Xingtong/SUN Yingsha,JEON Jihee/YANG Ha Eun,3,2,"10,8,11,11,11|12,11,3,7,6",F,GRAND_SLAM,WD,458,Main Draw,CHEN Xingtong (CHN) / SUN Yingsha (CHN),JEON Jihee (KOR) / YANG Ha Eun (KOR),CHEN Xingtong
+World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Xingtong/SUN Yingsha,POLCANOVA Sofia/ZHANG Mo,3,2,"11,11,14,9,11|8,7,16,11,5",QR16,GRAND_SLAM,WD,458,Qualification,CHEN Xingtong (CHN) / SUN Yingsha (CHN),POLCANOVA Sofia (AUT) / ZHANG Mo (CAN),CHEN Xingtong
+World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Ke/WANG Manyu,MA Wenting/SOLJA Amelie,3,0,"11,11,11|6,6,5",QR16,GRAND_SLAM,WD,458,Qualification,CHEN Ke (CHN) / WANG Manyu (CHN),MA Wenting (NOR) / SOLJA Amelie (AUT),CHEN Ke
+World Tour Japan Open Tokyo 2017,2017-06-14,DUDA Benedikt/QIU Dang,FLORE Tristan/LEBESSON Emmanuel,3,2,"11,9,12,6,11|9,11,10,11,9",QR16,GRAND_SLAM,MD,458,Qualification,DUDA Benedikt (GER) / QIU Dang (GER),FLORE Tristan (FRA) / LEBESSON Emmanuel (FRA),DUDA Benedikt
+World Tour Japan Open Tokyo 2017,2017-06-14,FEGERL Stefan/MONTEIRO Joao,BROSSIER Benjamin/HACHARD Antoine,3,2,"11,9,11,6,11|5,11,8,11,4",QR16,GRAND_SLAM,MD,458,Qualification,FEGERL Stefan (AUT) / MONTEIRO Joao (POR),BROSSIER Benjamin (FRA) / HACHARD Antoine (FRA),FEGERL Stefan
+World Tour Japan Open Tokyo 2017,2017-06-14,HARIMOTO Tomokazu/KIZUKURI Yuto,FILUS Ruwen/WALTHER Ricardo,3,1,"11,8,11,11|7,11,4,5",QR16,GRAND_SLAM,MD,458,Qualification,HARIMOTO Tomokazu (JPN) / KIZUKURI Yuto (JPN),FILUS Ruwen (GER) / WALTHER Ricardo (GER),HARIMOTO Tomokazu
+World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Chien-An/CHIANG Hung-Chieh,JIANG Tianyi/LAM Siu Hang,3,2,"11,8,6,11,11|4,11,11,7,6",R16,GRAND_SLAM,MD,458,Main Draw,CHEN Chien-An (TPE) / CHIANG Hung-Chieh (TPE),JIANG Tianyi (HKG) / LAM Siu Hang (HKG),CHEN Chien-An
+World Tour Japan Open Tokyo 2017,2017-06-14,JEON Jihee/YANG Ha Eun,NG Wing Nam/SOO Wai Yam,3,1,"11,6,11,11|9,11,3,7",R16,GRAND_SLAM,WD,458,Main Draw,JEON Jihee (KOR) / YANG Ha Eun (KOR),NG Wing Nam (HKG) / SOO Wai Yam (HKG),JEON Jihee
+World Tour Japan Open Tokyo 2017,2017-06-14,JIANG Tianyi/LAM Siu Hang,WANG Yang/ZHAO Tianming,3,0,"11,11,11|5,4,5",QR16,GRAND_SLAM,MD,458,Qualification,JIANG Tianyi (HKG) / LAM Siu Hang (HKG),WANG Yang (SVK) / ZHAO Tianming (POR),JIANG Tianyi
+World Tour Japan Open Tokyo 2017,2017-06-14,MORIZONO Masataka/OSHIMA Yuya,APOLONIA Tiago/GERALDO Joao,3,0,"13,11,11|11,9,7",R16,GRAND_SLAM,MD,458,Main Draw,MORIZONO Masataka (JPN) / OSHIMA Yuya (JPN),APOLONIA Tiago (POR) / GERALDO Joao (POR),MORIZONO Masataka
+World Tour Japan Open Tokyo 2017,2017-06-14,NIWA Koki/YOSHIMURA Maharu,DUDA Benedikt/QIU Dang,3,2,"5,8,11,11,11|11,11,7,8,9",R16,GRAND_SLAM,MD,458,Main Draw,NIWA Koki (JPN) / YOSHIMURA Maharu (JPN),DUDA Benedikt (GER) / QIU Dang (GER),NIWA Koki
+World Tour Japan Open Tokyo 2017,2017-06-14,HO Kwan Kit/WONG Chun Ting,HARIMOTO Tomokazu/KIZUKURI Yuto,3,0,"11,11,11|6,9,6",R16,GRAND_SLAM,MD,458,Main Draw,HO Kwan Kit (HKG) / WONG Chun Ting (HKG),HARIMOTO Tomokazu (JPN) / KIZUKURI Yuto (JPN),HO Kwan Kit
+World Tour Japan Open Tokyo 2017,2017-06-14,MORIZONO Masataka/OSHIMA Yuya,CHEN Chien-An/CHIANG Hung-Chieh,3,0,"11,11,13|4,7,11",QF,GRAND_SLAM,MD,458,Main Draw,MORIZONO Masataka (JPN) / OSHIMA Yuya (JPN),CHEN Chien-An (TPE) / CHIANG Hung-Chieh (TPE),MORIZONO Masataka
+World Tour Japan Open Tokyo 2017,2017-06-14,NIWA Koki/YOSHIMURA Maharu,HO Kwan Kit/WONG Chun Ting,3,1,"11,11,9,11|8,8,11,6",QF,GRAND_SLAM,MD,458,Main Draw,NIWA Koki (JPN) / YOSHIMURA Maharu (JPN),HO Kwan Kit (HKG) / WONG Chun Ting (HKG),NIWA Koki
+World Tour Japan Open Tokyo 2017,2017-06-14,NIWA Koki/YOSHIMURA Maharu,MORIZONO Masataka/OSHIMA Yuya,3,1,"11,11,6,11|7,9,11,9",SF,GRAND_SLAM,MD,458,Main Draw,NIWA Koki (JPN) / YOSHIMURA Maharu (JPN),MORIZONO Masataka (JPN) / OSHIMA Yuya (JPN),NIWA Koki
+World Tour Japan Open Tokyo 2017,2017-06-14,HASHIMOTO Honoka/SATO Hitomi,CHOI Hyojoo/JUNG Yumi,3,1,"11,6,11,11|7,11,6,7",R16,GRAND_SLAM,WD,458,Main Draw,HASHIMOTO Honoka (JPN) / SATO Hitomi (JPN),CHOI Hyojoo (KOR) / JUNG Yumi (KOR),HASHIMOTO Honoka
+World Tour Japan Open Tokyo 2017,2017-06-14,HASHIMOTO Honoka/SATO Hitomi,CHENG Hsien-Tzu/LIN Chia-Chih,3,0,"11,11,11|9,9,8",QF,GRAND_SLAM,WD,458,Main Draw,HASHIMOTO Honoka (JPN) / SATO Hitomi (JPN),CHENG Hsien-Tzu (TPE) / LIN Chia-Chih (TPE),HASHIMOTO Honoka
+World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Xingtong/SUN Yingsha,HASHIMOTO Honoka/SATO Hitomi,3,2,"10,11,10,11,11|12,2,12,8,2",SF,GRAND_SLAM,WD,458,Main Draw,CHEN Xingtong (CHN) / SUN Yingsha (CHN),HASHIMOTO Honoka (JPN) / SATO Hitomi (JPN),CHEN Xingtong
+World Tour Japan Open Tokyo 2017,2017-06-14,FAN Zhendong/LIN Gaoyuan,KIM Minseok/LIM Jonghoon,3,2,"11,13,6,6,11|7,11,11,11,6",QF,GRAND_SLAM,MD,458,Main Draw,FAN Zhendong (CHN) / LIN Gaoyuan (CHN),KIM Minseok (KOR) / LIM Jonghoon (KOR),FAN Zhendong
+World Tour Japan Open Tokyo 2017,2017-06-14,MA Long/XU Xin,FEGERL Stefan/MONTEIRO Joao,3,1,"7,11,11,11|11,5,6,9",R16,GRAND_SLAM,MD,458,Main Draw,MA Long (CHN) / XU Xin (CHN),FEGERL Stefan (AUT) / MONTEIRO Joao (POR),MA Long
+World Tour Japan Open Tokyo 2017,2017-06-14,APOLONIA Tiago/GERALDO Joao,LIAO Cheng-Ting/SUN Chia-Hung,3,0,"11,12,11|8,10,3",QR16,GRAND_SLAM,MD,458,Qualification,APOLONIA Tiago (POR) / GERALDO Joao (POR),LIAO Cheng-Ting (TPE) / SUN Chia-Hung (TPE),APOLONIA Tiago
+World Tour Japan Open Tokyo 2017,2017-06-14,HAN Ying/SHAN Xiaona,DIACONU Adina/DRAGOMAN Andreea,3,1,"11,12,9,11|3,10,11,7",R16,GRAND_SLAM,WD,458,Main Draw,HAN Ying (GER) / SHAN Xiaona (GER),DIACONU Adina (ROU) / DRAGOMAN Andreea (ROU),HAN Ying
+World Tour Japan Open Tokyo 2017,2017-06-14,SAMARA Elizabeta/SZOCS Bernadette,HAMAMOTO Yui/ISHIKAWA Kasumi,3,0,"11,13,11|6,11,7",R16,GRAND_SLAM,WD,458,Main Draw,SAMARA Elizabeta (ROU) / SZOCS Bernadette (ROU),HAMAMOTO Yui (AUT) / ISHIKAWA Kasumi (JPN),SAMARA Elizabeta
+World Tour Japan Open Tokyo 2017,2017-06-14,JEON Jihee/YANG Ha Eun,SAMARA Elizabeta/SZOCS Bernadette,3,2,"9,11,11,7,11|11,6,8,11,5",QF,GRAND_SLAM,WD,458,Main Draw,JEON Jihee (KOR) / YANG Ha Eun (KOR),SAMARA Elizabeta (ROU) / SZOCS Bernadette (ROU),JEON Jihee
+World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Xingtong/SUN Yingsha,FENG Tianwei/YU Mengyu,3,0,"11,11,12|2,5,10",R16,GRAND_SLAM,WD,458,Main Draw,CHEN Xingtong (CHN) / SUN Yingsha (CHN),FENG Tianwei (SGP) / YU Mengyu (SGP),CHEN Xingtong
+World Tour Japan Open Tokyo 2017,2017-06-14,KARLSSON Kristian/KARLSSON Mattias,GAO Ning/PANG Xue Jie,3,0,"11,11,11|9,9,9",R16,GRAND_SLAM,MD,458,Main Draw,KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),GAO Ning (SGP) / PANG Xue Jie (SGP),KARLSSON Kristian
+World Tour Japan Open Tokyo 2017,2017-06-14,MA Long/XU Xin,KARLSSON Kristian/KARLSSON Mattias,3,1,"10,11,11,11|12,1,5,6",QF,GRAND_SLAM,MD,458,Main Draw,MA Long (CHN) / XU Xin (CHN),KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),MA Long
+World Tour Japan Open Tokyo 2017,2017-06-14,GAO Ning/PANG Xue Jie,ASSAR Omar/PERSSON Jon,3,0,"13,14,11|11,12,8",QR16,GRAND_SLAM,MD,458,Qualification,GAO Ning (SGP) / PANG Xue Jie (SGP),ASSAR Omar (EGY) / PERSSON Jon (SWE),GAO Ning
+World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Szu-Yu/CHENG I-Ching,SHAO Jieni/ZENG Jian,3,0,"11,11,11|6,5,7",R16,GRAND_SLAM,WD,458,Main Draw,CHEN Szu-Yu (TPE) / CHENG I-Ching (TPE),SHAO Jieni (POR) / ZENG Jian (SGP),CHEN Szu-Yu
+World Tour Japan Open Tokyo 2017,2017-06-14,CHEN Szu-Yu/CHENG I-Ching,HAN Ying/SHAN Xiaona,3,0,"11,11,11|6,7,6",QF,GRAND_SLAM,WD,458,Main Draw,CHEN Szu-Yu (TPE) / CHENG I-Ching (TPE),HAN Ying (GER) / SHAN Xiaona (GER),CHEN Szu-Yu
+World Tour Japan Open Tokyo 2017,2017-06-14,JEON Jihee/YANG Ha Eun,CHEN Szu-Yu/CHENG I-Ching,3,1,"13,3,11,11|11,11,9,3",SF,GRAND_SLAM,WD,458,Main Draw,JEON Jihee (KOR) / YANG Ha Eun (KOR),CHEN Szu-Yu (TPE) / CHENG I-Ching (TPE),JEON Jihee

@@ -1,74 +1,74 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Asian Cup Jaipur 2015,2015-03-13,XU Xin,KIM Minseok,3,0,"11,11,11|7,7,5",,OTHER,MS,322,Qualification,XU Xin (CHN),KIM Minseok (KOR)
-Asian Cup Jaipur 2015,2015-03-13,NIWA Koki,JIANG Tianyi,3,2,"11,3,13,6,11|5,11,11,11,6",,OTHER,MS,322,Qualification,NIWA Koki (JPN),JIANG Tianyi (HKG)
-Asian Cup Jaipur 2015,2015-03-13,NIWA Koki,XU Xin,3,1,"11,2,11,12|6,11,5,10",,OTHER,MS,322,Qualification,XU Xin (CHN),NIWA Koki (JPN)
-Asian Cup Jaipur 2015,2015-03-13,KIM Minseok,JIANG Tianyi,3,2,"8,11,5,11,11|11,9,11,4,9",,OTHER,MS,322,Qualification,KIM Minseok (KOR),JIANG Tianyi (HKG)
-Asian Cup Jaipur 2015,2015-03-13,XU Xin,JIANG Tianyi,3,0,"11,11,11|8,6,8",,OTHER,MS,322,Qualification,XU Xin (CHN),JIANG Tianyi (HKG)
-Asian Cup Jaipur 2015,2015-03-13,KIM Minseok,NIWA Koki,3,1,"11,10,16,11|9,12,14,8",,OTHER,MS,322,Qualification,NIWA Koki (JPN),KIM Minseok (KOR)
-Asian Cup Jaipur 2015,2015-03-13,FAN Zhendong,JOO Saehyuk,3,2,"9,11,11,9,11|11,2,1,11,7",,OTHER,MS,322,Qualification,FAN Zhendong (CHN),JOO Saehyuk (KOR)
-Asian Cup Jaipur 2015,2015-03-13,ACHANTA Sharath,CHUANG Chih-Yuan,3,1,"11,7,11,11|6,11,5,3",,OTHER,MS,322,Qualification,CHUANG Chih-Yuan (TPE),ACHANTA Sharath (IND)
-Asian Cup Jaipur 2015,2015-03-13,FAN Zhendong,CHUANG Chih-Yuan,3,0,"11,11,11|8,9,7",,OTHER,MS,322,Qualification,FAN Zhendong (CHN),CHUANG Chih-Yuan (TPE)
-Asian Cup Jaipur 2015,2015-03-13,ACHANTA Sharath,JOO Saehyuk,3,2,"11,4,11,7,13|3,11,8,11,11",,OTHER,MS,322,Qualification,JOO Saehyuk (KOR),ACHANTA Sharath (IND)
-Asian Cup Jaipur 2015,2015-03-13,FAN Zhendong,ACHANTA Sharath,3,0,"11,11,11|6,7,4",,OTHER,MS,322,Qualification,FAN Zhendong (CHN),ACHANTA Sharath (IND)
-Asian Cup Jaipur 2015,2015-03-13,CHUANG Chih-Yuan,JOO Saehyuk,3,0,"11,11,11|7,7,3",,OTHER,MS,322,Qualification,CHUANG Chih-Yuan (TPE),JOO Saehyuk (KOR)
-Asian Cup Jaipur 2015,2015-03-13,MIZUTANI Jun,GAO Ning,3,0,"11,11,11|6,4,8",,OTHER,MS,322,Qualification,MIZUTANI Jun (JPN),GAO Ning (SGP)
-Asian Cup Jaipur 2015,2015-03-13,TANG Peng,GHOSH Soumyajit,3,0,"11,11,11|7,4,4",,OTHER,MS,322,Qualification,TANG Peng (HKG),GHOSH Soumyajit (IND)
-Asian Cup Jaipur 2015,2015-03-13,MIZUTANI Jun,TANG Peng,3,0,"11,11,11|4,7,5",,OTHER,MS,322,Qualification,MIZUTANI Jun (JPN),TANG Peng (HKG)
-Asian Cup Jaipur 2015,2015-03-13,GAO Ning,GHOSH Soumyajit,3,0,"12,11,11|10,8,7",,OTHER,MS,322,Qualification,GAO Ning (SGP),GHOSH Soumyajit (IND)
-Asian Cup Jaipur 2015,2015-03-13,MIZUTANI Jun,GHOSH Soumyajit,3,0,"11,11,11|1,7,6",,OTHER,MS,322,Qualification,MIZUTANI Jun (JPN),GHOSH Soumyajit (IND)
-Asian Cup Jaipur 2015,2015-03-13,TANG Peng,GAO Ning,3,1,"11,11,10,11|4,6,12,8",,OTHER,MS,322,Qualification,TANG Peng (HKG),GAO Ning (SGP)
-Asian Cup Jaipur 2015,2015-03-13,GNANASEKARAN Sathiyan,ALI Omar,3,1,"11,8,11,11|8,11,4,5",,OTHER,MS,322,Qualification,ALI Omar (YEM),GNANASEKARAN Sathiyan (IND)
-Asian Cup Jaipur 2015,2015-03-13,ALAMIYAN Noshad,YANG Zi,3,0,"11,11,11|9,9,9",,OTHER,MS,322,Qualification,YANG Zi (SGP),ALAMIYAN Noshad (IRI)
-Asian Cup Jaipur 2015,2015-03-13,YANG Zi,ALI Omar,3,0,"11,11,11|4,9,7",,OTHER,MS,322,Qualification,ALI Omar (YEM),YANG Zi (SGP)
-Asian Cup Jaipur 2015,2015-03-13,ALAMIYAN Noshad,GNANASEKARAN Sathiyan,3,1,"12,5,11,11|10,11,4,6",,OTHER,MS,322,Qualification,GNANASEKARAN Sathiyan (IND),ALAMIYAN Noshad (IRI)
-Asian Cup Jaipur 2015,2015-03-13,ALAMIYAN Noshad,ALI Omar,3,0,"11,11,11|7,6,4",,OTHER,MS,322,Qualification,ALI Omar (YEM),ALAMIYAN Noshad (IRI)
-Asian Cup Jaipur 2015,2015-03-13,YANG Zi,GNANASEKARAN Sathiyan,3,0,"11,11,11|6,8,4",,OTHER,MS,322,Qualification,YANG Zi (SGP),GNANASEKARAN Sathiyan (IND)
-Asian Cup Jaipur 2015,2015-03-13,LIU Shiwen,YANG Ha Eun,3,0,"11,11,11|9,5,3",,OTHER,WS,322,Qualification,LIU Shiwen (CHN),YANG Ha Eun (KOR)
-Asian Cup Jaipur 2015,2015-03-13,FUKUHARA Ai,DOO Hoi Kem,3,0,"11,11,11|7,9,9",,OTHER,WS,322,Qualification,FUKUHARA Ai (JPN),DOO Hoi Kem (HKG)
-Asian Cup Jaipur 2015,2015-03-13,LIU Shiwen,FUKUHARA Ai,3,0,"11,11,11|5,8,8",,OTHER,WS,322,Qualification,LIU Shiwen (CHN),FUKUHARA Ai (JPN)
-Asian Cup Jaipur 2015,2015-03-13,DOO Hoi Kem,YANG Ha Eun,3,2,"11,7,9,15,11|9,11,11,13,7",,OTHER,WS,322,Qualification,YANG Ha Eun (KOR),DOO Hoi Kem (HKG)
-Asian Cup Jaipur 2015,2015-03-13,LIU Shiwen,DOO Hoi Kem,3,0,"11,11,11|2,7,7",,OTHER,WS,322,Qualification,LIU Shiwen (CHN),DOO Hoi Kem (HKG)
-Asian Cup Jaipur 2015,2015-03-13,FUKUHARA Ai,YANG Ha Eun,3,1,"11,11,9,11|9,4,11,8",,OTHER,WS,322,Qualification,FUKUHARA Ai (JPN),YANG Ha Eun (KOR)
-Asian Cup Jaipur 2015,2015-03-13,FENG Tianwei,LEE Ho Ching,3,1,"11,11,8,11|6,7,11,7",,OTHER,WS,322,Qualification,FENG Tianwei (SGP),LEE Ho Ching (HKG)
-Asian Cup Jaipur 2015,2015-03-13,ZHU Yuling,CHENG I-Ching,3,1,"9,11,11,11|11,6,9,6",,OTHER,WS,322,Qualification,ZHU Yuling (MAC),CHENG I-Ching (TPE)
-Asian Cup Jaipur 2015,2015-03-13,FENG Tianwei,ZHU Yuling,3,0,"11,11,11|7,5,5",,OTHER,WS,322,Qualification,FENG Tianwei (SGP),ZHU Yuling (MAC)
-Asian Cup Jaipur 2015,2015-03-13,CHENG I-Ching,LEE Ho Ching,3,2,"4,11,11,8,11|11,7,9,11,8",,OTHER,WS,322,Qualification,LEE Ho Ching (HKG),CHENG I-Ching (TPE)
-Asian Cup Jaipur 2015,2015-03-13,FENG Tianwei,CHENG I-Ching,3,1,"13,11,3,11|11,9,11,9",,OTHER,WS,322,Qualification,FENG Tianwei (SGP),CHENG I-Ching (TPE)
-Asian Cup Jaipur 2015,2015-03-13,ZHU Yuling,LEE Ho Ching,3,0,"11,11,17|4,6,15",,OTHER,WS,322,Qualification,ZHU Yuling (MAC),LEE Ho Ching (HKG)
-Asian Cup Jaipur 2015,2015-03-13,ISHIKAWA Kasumi,YU Mengyu,3,1,"11,11,5,11|8,7,11,8",,OTHER,WS,322,Qualification,ISHIKAWA Kasumi (JPN),YU Mengyu (SGP)
-Asian Cup Jaipur 2015,2015-03-13,SUH Hyo Won,GHATAK Poulomi,3,0,"11,11,11|7,7,7",,OTHER,WS,322,Qualification,SUH Hyo Won (KOR),GHATAK Poulomi (IND)
-Asian Cup Jaipur 2015,2015-03-13,ISHIKAWA Kasumi,SUH Hyo Won,3,0,"11,11,11|5,5,6",,OTHER,WS,322,Qualification,ISHIKAWA Kasumi (JPN),SUH Hyo Won (KOR)
-Asian Cup Jaipur 2015,2015-03-13,YU Mengyu,GHATAK Poulomi,3,1,"11,11,6,11|3,6,11,6",,OTHER,WS,322,Qualification,YU Mengyu (SGP),GHATAK Poulomi (IND)
-Asian Cup Jaipur 2015,2015-03-13,ISHIKAWA Kasumi,GHATAK Poulomi,3,0,"11,11,11|5,8,5",,OTHER,WS,322,Qualification,ISHIKAWA Kasumi (JPN),GHATAK Poulomi (IND)
-Asian Cup Jaipur 2015,2015-03-13,SUH Hyo Won,YU Mengyu,3,2,"11,7,2,11,11|6,11,11,6,4",,OTHER,WS,322,Qualification,SUH Hyo Won (KOR),YU Mengyu (SGP)
-Asian Cup Jaipur 2015,2015-03-13,DAS Mouma,MOHAMED Aia,3,0,"11,11,11|4,8,2",,OTHER,WS,322,Qualification,DAS Mouma (IND),MOHAMED Aia (QAT)
-Asian Cup Jaipur 2015,2015-03-13,KOMWONG Nanthana,SHAHSAVARI Neda,3,0,"11,11,11|1,5,8",,OTHER,WS,322,Qualification,SHAHSAVARI Neda (IRI),KOMWONG Nanthana (THA)
-Asian Cup Jaipur 2015,2015-03-13,DAS Mouma,SHAHSAVARI Neda,3,1,"11,7,11,11|6,11,8,8",,OTHER,WS,322,Qualification,DAS Mouma (IND),SHAHSAVARI Neda (IRI)
-Asian Cup Jaipur 2015,2015-03-13,KOMWONG Nanthana,MOHAMED Aia,3,0,"11,11,11|8,4,6",,OTHER,WS,322,Qualification,MOHAMED Aia (QAT),KOMWONG Nanthana (THA)
-Asian Cup Jaipur 2015,2015-03-13,KOMWONG Nanthana,DAS Mouma,3,1,"16,11,11,13|14,13,7,11",,OTHER,WS,322,Qualification,DAS Mouma (IND),KOMWONG Nanthana (THA)
-Asian Cup Jaipur 2015,2015-03-13,SHAHSAVARI Neda,MOHAMED Aia,3,0,"11,11,11|9,9,6",,OTHER,WS,322,Qualification,SHAHSAVARI Neda (IRI),MOHAMED Aia (QAT)
-Asian Cup Jaipur 2015,2015-03-13,XU Xin,GAO Ning,4,0,"11,11,11,11|7,7,7,4",QF,OTHER,MS,322,Main Draw,XU Xin (CHN),GAO Ning (SGP)
-Asian Cup Jaipur 2015,2015-03-13,MIZUTANI Jun,ACHANTA Sharath,4,0,"11,14,11,11|3,12,2,6",QF,OTHER,MS,322,Main Draw,ACHANTA Sharath (IND),MIZUTANI Jun (JPN)
-Asian Cup Jaipur 2015,2015-03-13,TANG Peng,NIWA Koki,4,2,"11,8,6,11,11,12|8,11,11,9,8,10",QF,OTHER,MS,322,Main Draw,TANG Peng (HKG),NIWA Koki (JPN)
-Asian Cup Jaipur 2015,2015-03-13,FAN Zhendong,KIM Minseok,4,0,"11,11,11,11|3,3,3,6",QF,OTHER,MS,322,Main Draw,KIM Minseok (KOR),FAN Zhendong (CHN)
-Asian Cup Jaipur 2015,2015-03-13,XU Xin,MIZUTANI Jun,4,2,"11,11,9,11,7,11|7,8,11,4,11,5",SF,OTHER,MS,322,Main Draw,XU Xin (CHN),MIZUTANI Jun (JPN)
-Asian Cup Jaipur 2015,2015-03-13,FAN Zhendong,TANG Peng,4,0,"11,12,11,11|3,10,7,9",SF,OTHER,MS,322,Main Draw,TANG Peng (HKG),FAN Zhendong (CHN)
-Asian Cup Jaipur 2015,2015-03-13,XU Xin,FAN Zhendong,4,3,"11,11,11,5,11,11,11|8,13,13,11,8,4,7",F,OTHER,MS,322,Main Draw,XU Xin (CHN),FAN Zhendong (CHN)
-Asian Cup Jaipur 2015,2015-03-13,ACHANTA Sharath,GAO Ning,4,1,"11,4,11,12,11|7,11,8,10,5",5-8,OTHER,MS,322,Position Draw,GAO Ning (SGP),ACHANTA Sharath (IND)
-Asian Cup Jaipur 2015,2015-03-13,KIM Minseok,ACHANTA Sharath,4,3,"8,11,15,11,11,9,12|11,2,17,7,9,11,10",3RD,OTHER,MS,322,Position Draw,ACHANTA Sharath (IND),KIM Minseok (KOR)
-Asian Cup Jaipur 2015,2015-03-13,NIWA Koki,GAO Ning,4,3,"11,7,16,10,11,6,11|6,11,14,12,9,11,4",3RD,OTHER,MS,322,Position Draw,GAO Ning (SGP),NIWA Koki (JPN)
-Asian Cup Jaipur 2015,2015-03-13,LIU Shiwen,CHENG I-Ching,4,0,"11,11,11,11|4,9,3,5",QF,OTHER,WS,322,Main Draw,LIU Shiwen (CHN),CHENG I-Ching (TPE)
-Asian Cup Jaipur 2015,2015-03-13,ZHU Yuling,ISHIKAWA Kasumi,4,0,"11,11,11,12|4,6,3,10",QF,OTHER,WS,322,Main Draw,ZHU Yuling (MAC),ISHIKAWA Kasumi (JPN)
-Asian Cup Jaipur 2015,2015-03-13,FUKUHARA Ai,SUH Hyo Won,4,2,"11,11,4,11,17,11|8,8,11,3,19,5",QF,OTHER,WS,322,Main Draw,SUH Hyo Won (KOR),FUKUHARA Ai (JPN)
-Asian Cup Jaipur 2015,2015-03-13,FENG Tianwei,DOO Hoi Kem,4,2,"7,11,11,6,11,11|11,1,7,11,5,4",QF,OTHER,WS,322,Main Draw,DOO Hoi Kem (HKG),FENG Tianwei (SGP)
-Asian Cup Jaipur 2015,2015-03-13,LIU Shiwen,ZHU Yuling,4,2,"11,7,11,9,11,11|6,11,7,11,9,6",SF,OTHER,WS,322,Main Draw,LIU Shiwen (CHN),ZHU Yuling (MAC)
-Asian Cup Jaipur 2015,2015-03-13,FENG Tianwei,FUKUHARA Ai,4,3,"10,11,11,11,8,11,11|12,6,4,13,11,6,7",SF,OTHER,WS,322,Main Draw,FUKUHARA Ai (JPN),FENG Tianwei (SGP)
-Asian Cup Jaipur 2015,2015-03-13,FENG Tianwei,LIU Shiwen,4,2,"3,11,11,7,11,12|11,8,9,11,1,10",F,OTHER,WS,322,Main Draw,LIU Shiwen (CHN),FENG Tianwei (SGP)
-Asian Cup Jaipur 2015,2015-03-13,ISHIKAWA Kasumi,CHENG I-Ching,4,3,"7,11,6,8,11,11,11|11,5,11,11,7,6,9",5-8,OTHER,WS,322,Position Draw,CHENG I-Ching (TPE),ISHIKAWA Kasumi (JPN)
-Asian Cup Jaipur 2015,2015-03-13,SUH Hyo Won,DOO Hoi Kem,4,2,"9,11,11,11,9,11|11,6,2,8,11,5",5-8,OTHER,WS,322,Position Draw,SUH Hyo Won (KOR),DOO Hoi Kem (HKG)
-Asian Cup Jaipur 2015,2015-03-13,DOO Hoi Kem,CHENG I-Ching,4,0,"11,11,11,11|8,7,7,4",3RD,OTHER,WS,322,Position Draw,CHENG I-Ching (TPE),DOO Hoi Kem (HKG)
-Asian Cup Jaipur 2015,2015-03-13,ZHU Yuling,FUKUHARA Ai,4,1,"11,7,12,11,11|8,11,10,6,9",3RD,OTHER,WS,322,Position Draw,ZHU Yuling (MAC),FUKUHARA Ai (JPN)
-Asian Cup Jaipur 2015,2015-03-13,KIM Minseok,ALAMIYAN Noshad,3,2,"11,11,1,9,11|7,5,11,11,8",QR4,OTHER,MS,322,Qualification,ALAMIYAN Noshad (IRI),KIM Minseok (KOR)
-Asian Cup Jaipur 2015,2015-03-13,GAO Ning,CHUANG Chih-Yuan,3,2,"11,11,10,3,11|6,9,12,11,4",QR4,OTHER,MS,322,Qualification,CHUANG Chih-Yuan (TPE),GAO Ning (SGP)
-Asian Cup Jaipur 2015,2015-03-13,CHENG I-Ching,KOMWONG Nanthana,3,1,"11,11,8,11|9,8,11,7",QR4,OTHER,WS,322,Qualification,KOMWONG Nanthana (THA),CHENG I-Ching (TPE)
-Asian Cup Jaipur 2015,2015-03-13,DOO Hoi Kem,YU Mengyu,3,2,"11,13,12,11,11|5,15,10,13,7",QR4,OTHER,WS,322,Qualification,YU Mengyu (SGP),DOO Hoi Kem (HKG)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Asian Cup Jaipur 2015,2015-03-13,XU Xin,KIM Minseok,3,0,"11,11,11|7,7,5",,OTHER,MS,322,Qualification,XU Xin (CHN),KIM Minseok (KOR),XU Xin
+Asian Cup Jaipur 2015,2015-03-13,NIWA Koki,JIANG Tianyi,3,2,"11,3,13,6,11|5,11,11,11,6",,OTHER,MS,322,Qualification,NIWA Koki (JPN),JIANG Tianyi (HKG),NIWA Koki
+Asian Cup Jaipur 2015,2015-03-13,NIWA Koki,XU Xin,3,1,"11,2,11,12|6,11,5,10",,OTHER,MS,322,Qualification,XU Xin (CHN),NIWA Koki (JPN),NIWA Koki
+Asian Cup Jaipur 2015,2015-03-13,KIM Minseok,JIANG Tianyi,3,2,"8,11,5,11,11|11,9,11,4,9",,OTHER,MS,322,Qualification,KIM Minseok (KOR),JIANG Tianyi (HKG),KIM Minseok
+Asian Cup Jaipur 2015,2015-03-13,XU Xin,JIANG Tianyi,3,0,"11,11,11|8,6,8",,OTHER,MS,322,Qualification,XU Xin (CHN),JIANG Tianyi (HKG),XU Xin
+Asian Cup Jaipur 2015,2015-03-13,KIM Minseok,NIWA Koki,3,1,"11,10,16,11|9,12,14,8",,OTHER,MS,322,Qualification,NIWA Koki (JPN),KIM Minseok (KOR),KIM Minseok
+Asian Cup Jaipur 2015,2015-03-13,FAN Zhendong,JOO Saehyuk,3,2,"9,11,11,9,11|11,2,1,11,7",,OTHER,MS,322,Qualification,FAN Zhendong (CHN),JOO Saehyuk (KOR),FAN Zhendong
+Asian Cup Jaipur 2015,2015-03-13,ACHANTA Sharath,CHUANG Chih-Yuan,3,1,"11,7,11,11|6,11,5,3",,OTHER,MS,322,Qualification,CHUANG Chih-Yuan (TPE),ACHANTA Sharath (IND),ACHANTA Sharath
+Asian Cup Jaipur 2015,2015-03-13,FAN Zhendong,CHUANG Chih-Yuan,3,0,"11,11,11|8,9,7",,OTHER,MS,322,Qualification,FAN Zhendong (CHN),CHUANG Chih-Yuan (TPE),FAN Zhendong
+Asian Cup Jaipur 2015,2015-03-13,ACHANTA Sharath,JOO Saehyuk,3,2,"11,4,11,7,13|3,11,8,11,11",,OTHER,MS,322,Qualification,JOO Saehyuk (KOR),ACHANTA Sharath (IND),ACHANTA Sharath
+Asian Cup Jaipur 2015,2015-03-13,FAN Zhendong,ACHANTA Sharath,3,0,"11,11,11|6,7,4",,OTHER,MS,322,Qualification,FAN Zhendong (CHN),ACHANTA Sharath (IND),FAN Zhendong
+Asian Cup Jaipur 2015,2015-03-13,CHUANG Chih-Yuan,JOO Saehyuk,3,0,"11,11,11|7,7,3",,OTHER,MS,322,Qualification,CHUANG Chih-Yuan (TPE),JOO Saehyuk (KOR),CHUANG Chih-Yuan
+Asian Cup Jaipur 2015,2015-03-13,MIZUTANI Jun,GAO Ning,3,0,"11,11,11|6,4,8",,OTHER,MS,322,Qualification,MIZUTANI Jun (JPN),GAO Ning (SGP),MIZUTANI Jun
+Asian Cup Jaipur 2015,2015-03-13,TANG Peng,GHOSH Soumyajit,3,0,"11,11,11|7,4,4",,OTHER,MS,322,Qualification,TANG Peng (HKG),GHOSH Soumyajit (IND),TANG Peng
+Asian Cup Jaipur 2015,2015-03-13,MIZUTANI Jun,TANG Peng,3,0,"11,11,11|4,7,5",,OTHER,MS,322,Qualification,MIZUTANI Jun (JPN),TANG Peng (HKG),MIZUTANI Jun
+Asian Cup Jaipur 2015,2015-03-13,GAO Ning,GHOSH Soumyajit,3,0,"12,11,11|10,8,7",,OTHER,MS,322,Qualification,GAO Ning (SGP),GHOSH Soumyajit (IND),GAO Ning
+Asian Cup Jaipur 2015,2015-03-13,MIZUTANI Jun,GHOSH Soumyajit,3,0,"11,11,11|1,7,6",,OTHER,MS,322,Qualification,MIZUTANI Jun (JPN),GHOSH Soumyajit (IND),MIZUTANI Jun
+Asian Cup Jaipur 2015,2015-03-13,TANG Peng,GAO Ning,3,1,"11,11,10,11|4,6,12,8",,OTHER,MS,322,Qualification,TANG Peng (HKG),GAO Ning (SGP),TANG Peng
+Asian Cup Jaipur 2015,2015-03-13,GNANASEKARAN Sathiyan,ALI Omar,3,1,"11,8,11,11|8,11,4,5",,OTHER,MS,322,Qualification,ALI Omar (YEM),GNANASEKARAN Sathiyan (IND),GNANASEKARAN Sathiyan
+Asian Cup Jaipur 2015,2015-03-13,ALAMIYAN Noshad,YANG Zi,3,0,"11,11,11|9,9,9",,OTHER,MS,322,Qualification,YANG Zi (SGP),ALAMIYAN Noshad (IRI),ALAMIYAN Noshad
+Asian Cup Jaipur 2015,2015-03-13,YANG Zi,ALI Omar,3,0,"11,11,11|4,9,7",,OTHER,MS,322,Qualification,ALI Omar (YEM),YANG Zi (SGP),YANG Zi
+Asian Cup Jaipur 2015,2015-03-13,ALAMIYAN Noshad,GNANASEKARAN Sathiyan,3,1,"12,5,11,11|10,11,4,6",,OTHER,MS,322,Qualification,GNANASEKARAN Sathiyan (IND),ALAMIYAN Noshad (IRI),ALAMIYAN Noshad
+Asian Cup Jaipur 2015,2015-03-13,ALAMIYAN Noshad,ALI Omar,3,0,"11,11,11|7,6,4",,OTHER,MS,322,Qualification,ALI Omar (YEM),ALAMIYAN Noshad (IRI),ALAMIYAN Noshad
+Asian Cup Jaipur 2015,2015-03-13,YANG Zi,GNANASEKARAN Sathiyan,3,0,"11,11,11|6,8,4",,OTHER,MS,322,Qualification,YANG Zi (SGP),GNANASEKARAN Sathiyan (IND),YANG Zi
+Asian Cup Jaipur 2015,2015-03-13,LIU Shiwen,YANG Ha Eun,3,0,"11,11,11|9,5,3",,OTHER,WS,322,Qualification,LIU Shiwen (CHN),YANG Ha Eun (KOR),LIU Shiwen
+Asian Cup Jaipur 2015,2015-03-13,FUKUHARA Ai,DOO Hoi Kem,3,0,"11,11,11|7,9,9",,OTHER,WS,322,Qualification,FUKUHARA Ai (JPN),DOO Hoi Kem (HKG),FUKUHARA Ai
+Asian Cup Jaipur 2015,2015-03-13,LIU Shiwen,FUKUHARA Ai,3,0,"11,11,11|5,8,8",,OTHER,WS,322,Qualification,LIU Shiwen (CHN),FUKUHARA Ai (JPN),LIU Shiwen
+Asian Cup Jaipur 2015,2015-03-13,DOO Hoi Kem,YANG Ha Eun,3,2,"11,7,9,15,11|9,11,11,13,7",,OTHER,WS,322,Qualification,YANG Ha Eun (KOR),DOO Hoi Kem (HKG),DOO Hoi Kem
+Asian Cup Jaipur 2015,2015-03-13,LIU Shiwen,DOO Hoi Kem,3,0,"11,11,11|2,7,7",,OTHER,WS,322,Qualification,LIU Shiwen (CHN),DOO Hoi Kem (HKG),LIU Shiwen
+Asian Cup Jaipur 2015,2015-03-13,FUKUHARA Ai,YANG Ha Eun,3,1,"11,11,9,11|9,4,11,8",,OTHER,WS,322,Qualification,FUKUHARA Ai (JPN),YANG Ha Eun (KOR),FUKUHARA Ai
+Asian Cup Jaipur 2015,2015-03-13,FENG Tianwei,LEE Ho Ching,3,1,"11,11,8,11|6,7,11,7",,OTHER,WS,322,Qualification,FENG Tianwei (SGP),LEE Ho Ching (HKG),FENG Tianwei
+Asian Cup Jaipur 2015,2015-03-13,ZHU Yuling,CHENG I-Ching,3,1,"9,11,11,11|11,6,9,6",,OTHER,WS,322,Qualification,ZHU Yuling (MAC),CHENG I-Ching (TPE),ZHU Yuling
+Asian Cup Jaipur 2015,2015-03-13,FENG Tianwei,ZHU Yuling,3,0,"11,11,11|7,5,5",,OTHER,WS,322,Qualification,FENG Tianwei (SGP),ZHU Yuling (MAC),FENG Tianwei
+Asian Cup Jaipur 2015,2015-03-13,CHENG I-Ching,LEE Ho Ching,3,2,"4,11,11,8,11|11,7,9,11,8",,OTHER,WS,322,Qualification,LEE Ho Ching (HKG),CHENG I-Ching (TPE),CHENG I-Ching
+Asian Cup Jaipur 2015,2015-03-13,FENG Tianwei,CHENG I-Ching,3,1,"13,11,3,11|11,9,11,9",,OTHER,WS,322,Qualification,FENG Tianwei (SGP),CHENG I-Ching (TPE),FENG Tianwei
+Asian Cup Jaipur 2015,2015-03-13,ZHU Yuling,LEE Ho Ching,3,0,"11,11,17|4,6,15",,OTHER,WS,322,Qualification,ZHU Yuling (MAC),LEE Ho Ching (HKG),ZHU Yuling
+Asian Cup Jaipur 2015,2015-03-13,ISHIKAWA Kasumi,YU Mengyu,3,1,"11,11,5,11|8,7,11,8",,OTHER,WS,322,Qualification,ISHIKAWA Kasumi (JPN),YU Mengyu (SGP),ISHIKAWA Kasumi
+Asian Cup Jaipur 2015,2015-03-13,SUH Hyo Won,GHATAK Poulomi,3,0,"11,11,11|7,7,7",,OTHER,WS,322,Qualification,SUH Hyo Won (KOR),GHATAK Poulomi (IND),SUH Hyo Won
+Asian Cup Jaipur 2015,2015-03-13,ISHIKAWA Kasumi,SUH Hyo Won,3,0,"11,11,11|5,5,6",,OTHER,WS,322,Qualification,ISHIKAWA Kasumi (JPN),SUH Hyo Won (KOR),ISHIKAWA Kasumi
+Asian Cup Jaipur 2015,2015-03-13,YU Mengyu,GHATAK Poulomi,3,1,"11,11,6,11|3,6,11,6",,OTHER,WS,322,Qualification,YU Mengyu (SGP),GHATAK Poulomi (IND),YU Mengyu
+Asian Cup Jaipur 2015,2015-03-13,ISHIKAWA Kasumi,GHATAK Poulomi,3,0,"11,11,11|5,8,5",,OTHER,WS,322,Qualification,ISHIKAWA Kasumi (JPN),GHATAK Poulomi (IND),ISHIKAWA Kasumi
+Asian Cup Jaipur 2015,2015-03-13,SUH Hyo Won,YU Mengyu,3,2,"11,7,2,11,11|6,11,11,6,4",,OTHER,WS,322,Qualification,SUH Hyo Won (KOR),YU Mengyu (SGP),SUH Hyo Won
+Asian Cup Jaipur 2015,2015-03-13,DAS Mouma,MOHAMED Aia,3,0,"11,11,11|4,8,2",,OTHER,WS,322,Qualification,DAS Mouma (IND),MOHAMED Aia (QAT),DAS Mouma
+Asian Cup Jaipur 2015,2015-03-13,KOMWONG Nanthana,SHAHSAVARI Neda,3,0,"11,11,11|1,5,8",,OTHER,WS,322,Qualification,SHAHSAVARI Neda (IRI),KOMWONG Nanthana (THA),KOMWONG Nanthana
+Asian Cup Jaipur 2015,2015-03-13,DAS Mouma,SHAHSAVARI Neda,3,1,"11,7,11,11|6,11,8,8",,OTHER,WS,322,Qualification,DAS Mouma (IND),SHAHSAVARI Neda (IRI),DAS Mouma
+Asian Cup Jaipur 2015,2015-03-13,KOMWONG Nanthana,MOHAMED Aia,3,0,"11,11,11|8,4,6",,OTHER,WS,322,Qualification,MOHAMED Aia (QAT),KOMWONG Nanthana (THA),KOMWONG Nanthana
+Asian Cup Jaipur 2015,2015-03-13,KOMWONG Nanthana,DAS Mouma,3,1,"16,11,11,13|14,13,7,11",,OTHER,WS,322,Qualification,DAS Mouma (IND),KOMWONG Nanthana (THA),KOMWONG Nanthana
+Asian Cup Jaipur 2015,2015-03-13,SHAHSAVARI Neda,MOHAMED Aia,3,0,"11,11,11|9,9,6",,OTHER,WS,322,Qualification,SHAHSAVARI Neda (IRI),MOHAMED Aia (QAT),SHAHSAVARI Neda
+Asian Cup Jaipur 2015,2015-03-13,XU Xin,GAO Ning,4,0,"11,11,11,11|7,7,7,4",QF,OTHER,MS,322,Main Draw,XU Xin (CHN),GAO Ning (SGP),XU Xin
+Asian Cup Jaipur 2015,2015-03-13,MIZUTANI Jun,ACHANTA Sharath,4,0,"11,14,11,11|3,12,2,6",QF,OTHER,MS,322,Main Draw,ACHANTA Sharath (IND),MIZUTANI Jun (JPN),MIZUTANI Jun
+Asian Cup Jaipur 2015,2015-03-13,TANG Peng,NIWA Koki,4,2,"11,8,6,11,11,12|8,11,11,9,8,10",QF,OTHER,MS,322,Main Draw,TANG Peng (HKG),NIWA Koki (JPN),TANG Peng
+Asian Cup Jaipur 2015,2015-03-13,FAN Zhendong,KIM Minseok,4,0,"11,11,11,11|3,3,3,6",QF,OTHER,MS,322,Main Draw,KIM Minseok (KOR),FAN Zhendong (CHN),FAN Zhendong
+Asian Cup Jaipur 2015,2015-03-13,XU Xin,MIZUTANI Jun,4,2,"11,11,9,11,7,11|7,8,11,4,11,5",SF,OTHER,MS,322,Main Draw,XU Xin (CHN),MIZUTANI Jun (JPN),XU Xin
+Asian Cup Jaipur 2015,2015-03-13,FAN Zhendong,TANG Peng,4,0,"11,12,11,11|3,10,7,9",SF,OTHER,MS,322,Main Draw,TANG Peng (HKG),FAN Zhendong (CHN),FAN Zhendong
+Asian Cup Jaipur 2015,2015-03-13,XU Xin,FAN Zhendong,4,3,"11,11,11,5,11,11,11|8,13,13,11,8,4,7",F,OTHER,MS,322,Main Draw,XU Xin (CHN),FAN Zhendong (CHN),XU Xin
+Asian Cup Jaipur 2015,2015-03-13,ACHANTA Sharath,GAO Ning,4,1,"11,4,11,12,11|7,11,8,10,5",5-8,OTHER,MS,322,Position Draw,GAO Ning (SGP),ACHANTA Sharath (IND),ACHANTA Sharath
+Asian Cup Jaipur 2015,2015-03-13,KIM Minseok,ACHANTA Sharath,4,3,"8,11,15,11,11,9,12|11,2,17,7,9,11,10",3RD,OTHER,MS,322,Position Draw,ACHANTA Sharath (IND),KIM Minseok (KOR),KIM Minseok
+Asian Cup Jaipur 2015,2015-03-13,NIWA Koki,GAO Ning,4,3,"11,7,16,10,11,6,11|6,11,14,12,9,11,4",3RD,OTHER,MS,322,Position Draw,GAO Ning (SGP),NIWA Koki (JPN),NIWA Koki
+Asian Cup Jaipur 2015,2015-03-13,LIU Shiwen,CHENG I-Ching,4,0,"11,11,11,11|4,9,3,5",QF,OTHER,WS,322,Main Draw,LIU Shiwen (CHN),CHENG I-Ching (TPE),LIU Shiwen
+Asian Cup Jaipur 2015,2015-03-13,ZHU Yuling,ISHIKAWA Kasumi,4,0,"11,11,11,12|4,6,3,10",QF,OTHER,WS,322,Main Draw,ZHU Yuling (MAC),ISHIKAWA Kasumi (JPN),ZHU Yuling
+Asian Cup Jaipur 2015,2015-03-13,FUKUHARA Ai,SUH Hyo Won,4,2,"11,11,4,11,17,11|8,8,11,3,19,5",QF,OTHER,WS,322,Main Draw,SUH Hyo Won (KOR),FUKUHARA Ai (JPN),FUKUHARA Ai
+Asian Cup Jaipur 2015,2015-03-13,FENG Tianwei,DOO Hoi Kem,4,2,"7,11,11,6,11,11|11,1,7,11,5,4",QF,OTHER,WS,322,Main Draw,DOO Hoi Kem (HKG),FENG Tianwei (SGP),FENG Tianwei
+Asian Cup Jaipur 2015,2015-03-13,LIU Shiwen,ZHU Yuling,4,2,"11,7,11,9,11,11|6,11,7,11,9,6",SF,OTHER,WS,322,Main Draw,LIU Shiwen (CHN),ZHU Yuling (MAC),LIU Shiwen
+Asian Cup Jaipur 2015,2015-03-13,FENG Tianwei,FUKUHARA Ai,4,3,"10,11,11,11,8,11,11|12,6,4,13,11,6,7",SF,OTHER,WS,322,Main Draw,FUKUHARA Ai (JPN),FENG Tianwei (SGP),FENG Tianwei
+Asian Cup Jaipur 2015,2015-03-13,FENG Tianwei,LIU Shiwen,4,2,"3,11,11,7,11,12|11,8,9,11,1,10",F,OTHER,WS,322,Main Draw,LIU Shiwen (CHN),FENG Tianwei (SGP),FENG Tianwei
+Asian Cup Jaipur 2015,2015-03-13,ISHIKAWA Kasumi,CHENG I-Ching,4,3,"7,11,6,8,11,11,11|11,5,11,11,7,6,9",5-8,OTHER,WS,322,Position Draw,CHENG I-Ching (TPE),ISHIKAWA Kasumi (JPN),ISHIKAWA Kasumi
+Asian Cup Jaipur 2015,2015-03-13,SUH Hyo Won,DOO Hoi Kem,4,2,"9,11,11,11,9,11|11,6,2,8,11,5",5-8,OTHER,WS,322,Position Draw,SUH Hyo Won (KOR),DOO Hoi Kem (HKG),SUH Hyo Won
+Asian Cup Jaipur 2015,2015-03-13,DOO Hoi Kem,CHENG I-Ching,4,0,"11,11,11,11|8,7,7,4",3RD,OTHER,WS,322,Position Draw,CHENG I-Ching (TPE),DOO Hoi Kem (HKG),DOO Hoi Kem
+Asian Cup Jaipur 2015,2015-03-13,ZHU Yuling,FUKUHARA Ai,4,1,"11,7,12,11,11|8,11,10,6,9",3RD,OTHER,WS,322,Position Draw,ZHU Yuling (MAC),FUKUHARA Ai (JPN),ZHU Yuling
+Asian Cup Jaipur 2015,2015-03-13,KIM Minseok,ALAMIYAN Noshad,3,2,"11,11,1,9,11|7,5,11,11,8",QR4,OTHER,MS,322,Qualification,ALAMIYAN Noshad (IRI),KIM Minseok (KOR),KIM Minseok
+Asian Cup Jaipur 2015,2015-03-13,GAO Ning,CHUANG Chih-Yuan,3,2,"11,11,10,3,11|6,9,12,11,4",QR4,OTHER,MS,322,Qualification,CHUANG Chih-Yuan (TPE),GAO Ning (SGP),GAO Ning
+Asian Cup Jaipur 2015,2015-03-13,CHENG I-Ching,KOMWONG Nanthana,3,1,"11,11,8,11|9,8,11,7",QR4,OTHER,WS,322,Qualification,KOMWONG Nanthana (THA),CHENG I-Ching (TPE),CHENG I-Ching
+Asian Cup Jaipur 2015,2015-03-13,DOO Hoi Kem,YU Mengyu,3,2,"11,13,12,11,11|5,15,10,13,7",QR4,OTHER,WS,322,Qualification,YU Mengyu (SGP),DOO Hoi Kem (HKG),DOO Hoi Kem

@@ -1,239 +1,239 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-World Tour Brazil Open Santos 2012,2012-06-13,ZHANG Lily,KAWAI Katia,4,2,"9,9,11,11,11,11|11,11,7,8,6,7",,GRAND_SLAM,WS,94,Qualification,ZHANG Lily (USA),KAWAI Katia (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,ZHANG Lily,PAUL Mousumi,4,0,"11,11,11,11|4,7,8,6",,GRAND_SLAM,WS,94,Qualification,ZHANG Lily (USA),PAUL Mousumi (IND)
-World Tour Brazil Open Santos 2012,2012-06-13,PAUL Mousumi,KAWAI Katia,4,2,"11,11,11,7,9,11|5,7,5,11,11,6",,GRAND_SLAM,WS,94,Qualification,PAUL Mousumi (IND),KAWAI Katia (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,STEFANSKA Kinga,WU Erica,4,0,"11,11,11,11|9,5,5,8",,GRAND_SLAM,WS,94,Qualification,STEFANSKA Kinga (POL),WU Erica (USA)
-World Tour Brazil Open Santos 2012,2012-06-13,STEFANSKA Kinga,BATRA Manika,4,1,"9,11,11,12,11|11,4,5,10,5",,GRAND_SLAM,WS,94,Qualification,STEFANSKA Kinga (POL),BATRA Manika (IND)
-World Tour Brazil Open Santos 2012,2012-06-13,BATRA Manika,WU Erica,4,1,"7,11,11,11,11|11,8,5,5,8",,GRAND_SLAM,WS,94,Qualification,BATRA Manika (IND),WU Erica (USA)
-World Tour Brazil Open Santos 2012,2012-06-13,DAS Mouma,VEGA Paulina,4,1,"11,11,11,11,11|3,6,13,7,6",,GRAND_SLAM,WS,94,Qualification,DAS Mouma (IND),VEGA Paulina (CHI)
-World Tour Brazil Open Santos 2012,2012-06-13,DIAS Priscila,EDAMATSU Cassia,4,0,"13,11,11,11|11,7,7,8",,GRAND_SLAM,WS,94,Qualification,DIAS Priscila (BRA),EDAMATSU Cassia (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,DAS Mouma,DIAS Priscila,4,1,"10,11,11,11,11|12,8,4,9,6",,GRAND_SLAM,WS,94,Qualification,DAS Mouma (IND),DIAS Priscila (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,VEGA Paulina,EDAMATSU Cassia,4,0,"11,11,11,11|3,4,6,8",,GRAND_SLAM,WS,94,Qualification,VEGA Paulina (CHI),EDAMATSU Cassia (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,DAS Mouma,EDAMATSU Cassia,4,0,"11,11,11,11|7,7,3,5",,GRAND_SLAM,WS,94,Qualification,DAS Mouma (IND),EDAMATSU Cassia (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,VEGA Paulina,DIAS Priscila,4,0,"11,11,11,11|7,9,3,8",,GRAND_SLAM,WS,94,Qualification,VEGA Paulina (CHI),DIAS Priscila (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,SILVA Ligia,SOAVE Isabela,4,0,,,GRAND_SLAM,WS,94,Qualification,SILVA Ligia (BRA),SOAVE Isabela (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,DESHPANDE Divya,RODRIGUEZ Berta,4,2,"11,13,11,6,11,11|9,15,5,11,2,7",,GRAND_SLAM,WS,94,Qualification,DESHPANDE Divya (IND),RODRIGUEZ Berta (CHI)
-World Tour Brazil Open Santos 2012,2012-06-13,SILVA Ligia,RODRIGUEZ Berta,4,2,"12,11,9,11,11,11|14,3,11,6,5,7",,GRAND_SLAM,WS,94,Qualification,SILVA Ligia (BRA),RODRIGUEZ Berta (CHI)
-World Tour Brazil Open Santos 2012,2012-06-13,DESHPANDE Divya,SOAVE Isabela,4,0,,,GRAND_SLAM,WS,94,Qualification,DESHPANDE Divya (IND),SOAVE Isabela (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,DESHPANDE Divya,SILVA Ligia,4,3,"8,9,13,13,12,14,11|11,11,11,11,14,12,7",,GRAND_SLAM,WS,94,Qualification,DESHPANDE Divya (IND),SILVA Ligia (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,RODRIGUEZ Berta,SOAVE Isabela,4,0,,,GRAND_SLAM,WS,94,Qualification,RODRIGUEZ Berta (CHI),SOAVE Isabela (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,MEDINA Paula,SAHASRABUDHE Pooja,4,2,"11,11,6,11,10,11|9,8,11,7,12,8",,GRAND_SLAM,WS,94,Qualification,MEDINA Paula (COL),SAHASRABUDHE Pooja (IND)
-World Tour Brazil Open Santos 2012,2012-06-13,GUI Lin,SOUZA YAMAMOTO Sarah,4,0,"11,11,11,11|1,6,8,8",,GRAND_SLAM,WS,94,Qualification,GUI Lin (BRA),SOUZA YAMAMOTO Sarah (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,MEDINA Paula,GUI Lin,4,3,"14,7,11,11,11,7,11|16,11,9,5,9,11,7",,GRAND_SLAM,WS,94,Qualification,MEDINA Paula (COL),GUI Lin (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,SAHASRABUDHE Pooja,SOUZA YAMAMOTO Sarah,4,0,"11,11,13,11|4,3,11,6",,GRAND_SLAM,WS,94,Qualification,SAHASRABUDHE Pooja (IND),SOUZA YAMAMOTO Sarah (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,MEDINA Paula,SOUZA YAMAMOTO Sarah,4,0,"11,11,11,11|2,8,6,8",,GRAND_SLAM,WS,94,Qualification,MEDINA Paula (COL),SOUZA YAMAMOTO Sarah (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,GUI Lin,SAHASRABUDHE Pooja,4,3,"9,11,9,11,12,10,11|11,5,11,1,10,12,5",,GRAND_SLAM,WS,94,Qualification,GUI Lin (BRA),SAHASRABUDHE Pooja (IND)
-World Tour Brazil Open Santos 2012,2012-06-13,DAS Ankita,CODINA Ana,4,0,"11,11,11,11|6,6,6,5",,GRAND_SLAM,WS,94,Qualification,DAS Ankita (IND),CODINA Ana (ARG)
-World Tour Brazil Open Santos 2012,2012-06-13,YAMADA Jessica,SHINGAKI Juliana,4,0,"11,11,11,11|5,6,3,7",,GRAND_SLAM,WS,94,Qualification,YAMADA Jessica (BRA),SHINGAKI Juliana (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,DAS Ankita,YAMADA Jessica,4,3,"11,11,8,8,6,11,11|7,6,11,11,11,3,7",,GRAND_SLAM,WS,94,Qualification,DAS Ankita (IND),YAMADA Jessica (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,CODINA Ana,SHINGAKI Juliana,4,0,"11,11,11,11|9,7,6,6",,GRAND_SLAM,WS,94,Qualification,CODINA Ana (ARG),SHINGAKI Juliana (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,DAS Ankita,SHINGAKI Juliana,4,0,"11,11,11,11|4,3,9,3",,GRAND_SLAM,WS,94,Qualification,DAS Ankita (IND),SHINGAKI Juliana (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,YAMADA Jessica,CODINA Ana,4,2,"7,10,11,11,13,11|11,12,5,7,11,8",,GRAND_SLAM,WS,94,Qualification,YAMADA Jessica (BRA),CODINA Ana (ARG)
-World Tour Brazil Open Santos 2012,2012-06-13,KUMARESAN Shamini,SILVA Yadira,4,0,"14,11,11,11|12,7,8,9",,GRAND_SLAM,WS,94,Qualification,KUMARESAN Shamini (IND),SILVA Yadira (MEX)
-World Tour Brazil Open Santos 2012,2012-06-13,HAYAMA Karina,TOMA Lais,4,2,"11,8,9,11,12,11|4,11,11,6,10,6",,GRAND_SLAM,WS,94,Qualification,HAYAMA Karina (BRA),TOMA Lais (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,SILVA Yadira,HAYAMA Karina,4,1,"11,11,11,12,14|7,4,13,10,12",,GRAND_SLAM,WS,94,Qualification,SILVA Yadira (MEX),HAYAMA Karina (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,KUMARESAN Shamini,TOMA Lais,4,0,"11,11,11,11|4,3,5,5",,GRAND_SLAM,WS,94,Qualification,KUMARESAN Shamini (IND),TOMA Lais (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,SILVA Yadira,TOMA Lais,4,0,"11,11,11,11|3,8,6,3",,GRAND_SLAM,WS,94,Qualification,SILVA Yadira (MEX),TOMA Lais (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,KUMARESAN Shamini,HAYAMA Karina,4,1,"11,9,11,11,11|5,11,6,8,5",,GRAND_SLAM,WS,94,Qualification,KUMARESAN Shamini (IND),HAYAMA Karina (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,GHATAK Poulomi,WU Yue,4,2,"11,12,5,11,10,12|3,10,11,7,12,10",,GRAND_SLAM,WS,94,Qualification,GHATAK Poulomi (IND),WU Yue (USA)
-World Tour Brazil Open Santos 2012,2012-06-13,OHIRA Lia,KAJIHARA Caroline,4,0,"11,11,11,11|9,4,6,7",,GRAND_SLAM,WS,94,Qualification,OHIRA Lia (BRA),KAJIHARA Caroline (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,WU Yue,OHIRA Lia,4,0,"11,11,11,11|8,1,5,3",,GRAND_SLAM,WS,94,Qualification,WU Yue (USA),OHIRA Lia (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,GHATAK Poulomi,KAJIHARA Caroline,4,0,"11,11,11,11|5,2,4,7",,GRAND_SLAM,WS,94,Qualification,GHATAK Poulomi (IND),KAJIHARA Caroline (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,WU Yue,KAJIHARA Caroline,4,0,"11,11,11,11|8,2,1,7",,GRAND_SLAM,WS,94,Qualification,WU Yue (USA),KAJIHARA Caroline (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,GHATAK Poulomi,OHIRA Lia,4,0,"11,11,12,11|8,5,10,3",,GRAND_SLAM,WS,94,Qualification,GHATAK Poulomi (IND),OHIRA Lia (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,NARITA Henrique,WATANABE Rafael,3,0,"11,11,11|9,6,9",,GRAND_SLAM,U21MS,94,Qualification,NARITA Henrique (BRA),WATANABE Rafael (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,GILABERT Rodrigo,WATANABE Rafael,3,0,"11,11,11|3,7,5",,GRAND_SLAM,U21MS,94,Qualification,GILABERT Rodrigo (ARG),WATANABE Rafael (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,GILABERT Rodrigo,NARITA Henrique,3,2,"8,7,11,11,12|11,11,8,8,10",,GRAND_SLAM,U21MS,94,Qualification,GILABERT Rodrigo (ARG),NARITA Henrique (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,SUEYASU Willian,BRITO Jorge,3,1,"9,11,11,11|11,8,6,8",,GRAND_SLAM,U21MS,94,Qualification,SUEYASU Willian (BRA),BRITO Jorge (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,SOUZA Gustavo,SUEYASU Willian,3,0,"11,11,12|5,5,10",,GRAND_SLAM,U21MS,94,Qualification,SOUZA Gustavo (BRA),SUEYASU Willian (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,SOUZA Gustavo,BRITO Jorge,3,0,"11,11,11|3,8,2",,GRAND_SLAM,U21MS,94,Qualification,SOUZA Gustavo (BRA),BRITO Jorge (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,ROCHA Paulo,FERREIRA Djalma,3,0,"11,11,11|5,4,2",,GRAND_SLAM,U21MS,94,Qualification,ROCHA Paulo (BRA),FERREIRA Djalma (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,ISHIY Vitor,FERREIRA Djalma,3,0,"11,11,11|2,5,9",,GRAND_SLAM,U21MS,94,Qualification,ISHIY Vitor (BRA),FERREIRA Djalma (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,ISHIY Vitor,ROCHA Paulo,3,0,"11,11,11|9,8,9",,GRAND_SLAM,U21MS,94,Qualification,ISHIY Vitor (BRA),ROCHA Paulo (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,MOSER Estevan,SHIMOKI Matheus,3,1,"11,11,8,11|6,4,11,5",,GRAND_SLAM,U21MS,94,Qualification,MOSER Estevan (BRA),SHIMOKI Matheus (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,MOSER Estevan,TENTI Fermin,3,2,"2,11,12,5,11|11,9,10,11,9",,GRAND_SLAM,U21MS,94,Qualification,MOSER Estevan (BRA),TENTI Fermin (ARG)
-World Tour Brazil Open Santos 2012,2012-06-13,TENTI Fermin,SHIMOKI Matheus,3,0,"11,11,11|8,6,4",,GRAND_SLAM,U21MS,94,Qualification,TENTI Fermin (ARG),SHIMOKI Matheus (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,UNO Thomas,BUCCI Fabio,3,0,"11,11,11|9,8,4",,GRAND_SLAM,U21MS,94,Qualification,UNO Thomas (BRA),BUCCI Fabio (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,BACA Emir,BUCCI Fabio,3,0,"11,11,11|2,8,8",,GRAND_SLAM,U21MS,94,Qualification,BACA Emir (ARG),BUCCI Fabio (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,BACA Emir,UNO Thomas,3,0,"11,11,11|6,9,7",,GRAND_SLAM,U21MS,94,Qualification,BACA Emir (ARG),UNO Thomas (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,CANTUARIA Luan,PEREIRA Gabriel,3,2,"8,9,11,11,11|11,11,9,4,9",,GRAND_SLAM,U21MS,94,Qualification,CANTUARIA Luan (BRA),PEREIRA Gabriel (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,DI SALVO Adriel,CANTUARIA Luan,3,0,"12,11,11|10,5,7",,GRAND_SLAM,U21MS,94,Qualification,DI SALVO Adriel (ARG),CANTUARIA Luan (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,DI SALVO Adriel,PEREIRA Gabriel,3,0,"11,11,11|9,6,6",,GRAND_SLAM,U21MS,94,Qualification,DI SALVO Adriel (ARG),PEREIRA Gabriel (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,PRIETO Thales,TEROHATA Gustavo,3,0,"11,11,17|7,5,15",,GRAND_SLAM,U21MS,94,Qualification,PRIETO Thales (BRA),TEROHATA Gustavo (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,YAMADA Jeff,TEROHATA Gustavo,3,1,"9,11,11,11|11,2,6,8",,GRAND_SLAM,U21MS,94,Qualification,YAMADA Jeff (BRA),TEROHATA Gustavo (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,YAMADA Jeff,PRIETO Thales,3,1,"11,11,11,11|4,13,9,6",,GRAND_SLAM,U21MS,94,Qualification,YAMADA Jeff (BRA),PRIETO Thales (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,SILVA Caio,SANTOS Nicolas,3,2,"6,11,11,6,11|11,7,8,11,7",,GRAND_SLAM,U21MS,94,Qualification,SILVA Caio (BRA),SANTOS Nicolas (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,KOHATSU Massao,SILVA Caio,3,1,"13,11,5,11|11,2,11,6",,GRAND_SLAM,U21MS,94,Qualification,KOHATSU Massao (BRA),SILVA Caio (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,SANTOS Nicolas,KOHATSU Massao,3,1,"13,6,11,11|11,11,5,7",,GRAND_SLAM,U21MS,94,Qualification,SANTOS Nicolas (BRA),KOHATSU Massao (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,GUI Lin,OHIRA Lia,3,1,"7,11,11,11|11,6,4,7",,GRAND_SLAM,U21WS,94,Qualification,GUI Lin (BRA),OHIRA Lia (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,SAHASRABUDHE Pooja,OHIRA Lia,3,0,"11,11,11|9,3,2",,GRAND_SLAM,U21WS,94,Qualification,SAHASRABUDHE Pooja (IND),OHIRA Lia (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,HAYAMA Karina,KAJIHARA Caroline,3,0,"11,11,11|5,7,7",,GRAND_SLAM,U21WS,94,Qualification,HAYAMA Karina (BRA),KAJIHARA Caroline (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,BATRA Manika,KAJIHARA Caroline,3,0,"11,11,11|6,5,8",,GRAND_SLAM,U21WS,94,Qualification,BATRA Manika (IND),KAJIHARA Caroline (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,BATRA Manika,HAYAMA Karina,3,1,"11,3,11,11|7,11,4,8",,GRAND_SLAM,U21WS,94,Qualification,BATRA Manika (IND),HAYAMA Karina (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,TOMA Lais,DIAS Priscila,3,2,"7,3,11,11,11|11,11,6,5,7",,GRAND_SLAM,U21WS,94,Qualification,TOMA Lais (BRA),DIAS Priscila (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,WU Erica,SOUZA YAMAMOTO Sarah,3,0,"11,11,11|4,4,3",,GRAND_SLAM,U21WS,94,Qualification,WU Erica (USA),SOUZA YAMAMOTO Sarah (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,WU Erica,TOMA Lais,3,0,"11,11,11|8,7,4",,GRAND_SLAM,U21WS,94,Qualification,WU Erica (USA),TOMA Lais (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,DIAS Priscila,SOUZA YAMAMOTO Sarah,3,1,"11,11,11,11|2,7,13,6",,GRAND_SLAM,U21WS,94,Qualification,DIAS Priscila (BRA),SOUZA YAMAMOTO Sarah (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,WU Erica,DIAS Priscila,3,0,"11,11,11|8,6,4",,GRAND_SLAM,U21WS,94,Qualification,WU Erica (USA),DIAS Priscila (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,SOUZA YAMAMOTO Sarah,TOMA Lais,3,0,"11,11,11|4,6,5",,GRAND_SLAM,U21WS,94,Qualification,SOUZA YAMAMOTO Sarah (BRA),TOMA Lais (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,KAWAI Katia,EDAMATSU Cassia,3,1,"11,11,9,11|3,6,11,9",,GRAND_SLAM,U21WS,94,Qualification,KAWAI Katia (BRA),EDAMATSU Cassia (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,KAWAI Katia,SHINGAKI Juliana,3,1,"12,13,9,11|10,11,11,7",,GRAND_SLAM,U21WS,94,Qualification,KAWAI Katia (BRA),SHINGAKI Juliana (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,CODINA Ana,EDAMATSU Cassia,3,0,"13,11,11|11,1,5",,GRAND_SLAM,U21WS,94,Qualification,CODINA Ana (ARG),EDAMATSU Cassia (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,KAWAI Katia,CODINA Ana,3,0,"11,11,11|7,8,5",,GRAND_SLAM,U21WS,94,Qualification,KAWAI Katia (BRA),CODINA Ana (ARG)
-World Tour Brazil Open Santos 2012,2012-06-13,EDAMATSU Cassia,SHINGAKI Juliana,3,2,"7,5,14,11,11|11,11,12,7,5",,GRAND_SLAM,U21WS,94,Qualification,EDAMATSU Cassia (BRA),SHINGAKI Juliana (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,CASTRO Lidney,UNO Thomas,4,0,"11,11,11,11|5,8,3,7",,GRAND_SLAM,MS,94,Qualification,CASTRO Lidney (USA),UNO Thomas (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,JENKINS Ryan,CASTRO Lidney,4,2,"11,8,11,11,6,11|9,11,9,2,11,8",,GRAND_SLAM,MS,94,Qualification,JENKINS Ryan (WAL),CASTRO Lidney (USA)
-World Tour Brazil Open Santos 2012,2012-06-13,JENKINS Ryan,UNO Thomas,4,0,"11,11,11,11|2,5,4,5",,GRAND_SLAM,MS,94,Qualification,JENKINS Ryan (WAL),UNO Thomas (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,PEREIRA Gabriel,FERREIRA Djalma,4,1,"4,11,11,11,11|11,6,6,6,7",,GRAND_SLAM,MS,94,Qualification,PEREIRA Gabriel (BRA),FERREIRA Djalma (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,JEAN Lauric,FERREIRA Djalma,4,0,"11,11,11,11|3,8,5,6",,GRAND_SLAM,MS,94,Qualification,JEAN Lauric (BEL),FERREIRA Djalma (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,JEAN Lauric,PEREIRA Gabriel,4,0,"11,11,11,11|5,9,6,4",,GRAND_SLAM,MS,94,Qualification,JEAN Lauric (BEL),PEREIRA Gabriel (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,TEROHATA Gustavo,PRIETO Thales,4,1,"11,11,11,8,11|4,4,7,11,3",,GRAND_SLAM,MS,94,Qualification,TEROHATA Gustavo (BRA),PRIETO Thales (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,ROY Soumyadeep,TEROHATA Gustavo,4,1,"11,11,11,11,11|13,5,5,2,7",,GRAND_SLAM,MS,94,Qualification,ROY Soumyadeep (IND),TEROHATA Gustavo (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,ROY Soumyadeep,PRIETO Thales,4,1,"9,11,11,11,11|11,2,9,4,4",,GRAND_SLAM,MS,94,Qualification,ROY Soumyadeep (IND),PRIETO Thales (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,NARITA Henrique,SILVA Caio,4,0,"11,11,11,11|6,6,9,8",,GRAND_SLAM,MS,94,Qualification,NARITA Henrique (BRA),SILVA Caio (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,CALDERANO Hugo,SILVA Caio,4,1,"11,11,8,11,11|7,6,11,1,5",,GRAND_SLAM,MS,94,Qualification,CALDERANO Hugo (BRA),SILVA Caio (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,CALDERANO Hugo,NARITA Henrique,4,1,"11,9,11,11,11|9,11,8,9,6",,GRAND_SLAM,MS,94,Qualification,CALDERANO Hugo (BRA),NARITA Henrique (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,SANTOS Nicolas,SHIMOKI Matheus,4,0,"11,11,11,11|3,2,6,2",,GRAND_SLAM,MS,94,Qualification,SANTOS Nicolas (BRA),SHIMOKI Matheus (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,DESAI Harmeet,SHIMOKI Matheus,4,0,"11,11,11,11|2,9,2,8",,GRAND_SLAM,MS,94,Qualification,DESAI Harmeet (IND),SHIMOKI Matheus (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,DESAI Harmeet,SANTOS Nicolas,4,1,"11,11,11,8,11|1,4,7,11,1",,GRAND_SLAM,MS,94,Qualification,DESAI Harmeet (IND),SANTOS Nicolas (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,KOHATSU Massao,BAVARESCO Yuri,4,2,"8,13,7,14,11,11|11,11,11,12,6,4",,GRAND_SLAM,MS,94,Qualification,KOHATSU Massao (BRA),BAVARESCO Yuri (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,NUYTINCK Cedric,BAVARESCO Yuri,4,1,"11,11,11,3,11|2,4,7,11,6",,GRAND_SLAM,MS,94,Qualification,NUYTINCK Cedric (BEL),BAVARESCO Yuri (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,NUYTINCK Cedric,KOHATSU Massao,4,0,"11,11,11,17|7,9,7,15",,GRAND_SLAM,MS,94,Qualification,NUYTINCK Cedric (BEL),KOHATSU Massao (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,YAMADA Jeff,BRITO Jorge,4,1,"11,3,11,12,11|7,11,7,10,5",,GRAND_SLAM,MS,94,Qualification,YAMADA Jeff (BRA),BRITO Jorge (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,SHETTY Sanil,BRITO Jorge,4,1,"10,11,11,11,11|12,8,3,2,3",,GRAND_SLAM,MS,94,Qualification,SHETTY Sanil (IND),BRITO Jorge (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,SHETTY Sanil,YAMADA Jeff,4,1,"10,11,11,11,11|12,6,8,8,5",,GRAND_SLAM,MS,94,Qualification,SHETTY Sanil (IND),YAMADA Jeff (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,ROCHA Paulo,MANCINI Eric,4,1,"11,9,11,11,12|4,11,7,6,10",,GRAND_SLAM,MS,94,Qualification,ROCHA Paulo (BRA),MANCINI Eric (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,ROCHA Paulo,DI SALVO Adriel,4,0,"11,11,11,11|9,8,7,8",,GRAND_SLAM,MS,94,Qualification,ROCHA Paulo (BRA),DI SALVO Adriel (ARG)
-World Tour Brazil Open Santos 2012,2012-06-13,MANCINI Eric,DI SALVO Adriel,4,2,"8,11,11,11,11,11|11,13,7,5,3,3",,GRAND_SLAM,MS,94,Qualification,MANCINI Eric (BRA),DI SALVO Adriel (ARG)
-World Tour Brazil Open Santos 2012,2012-06-13,ISHIY Vitor,VENTURA DOS ANJOS Bruno,4,0,"11,11,11,11|7,8,3,0",,GRAND_SLAM,MS,94,Qualification,ISHIY Vitor (BRA),VENTURA DOS ANJOS Bruno (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,WANG Timothy,VENTURA DOS ANJOS Bruno,4,0,,,GRAND_SLAM,MS,94,Qualification,WANG Timothy (USA),VENTURA DOS ANJOS Bruno (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,ISHIY Vitor,WANG Timothy,4,0,"11,11,11,11|6,8,8,9",,GRAND_SLAM,MS,94,Qualification,ISHIY Vitor (BRA),WANG Timothy (USA)
-World Tour Brazil Open Santos 2012,2012-06-13,MANHANI Humberto,CANTUARIA Luan,4,0,"11,11,11,11|7,5,1,2",,GRAND_SLAM,MS,94,Qualification,MANHANI Humberto (BRA),CANTUARIA Luan (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,CILLIS Javier,CANTUARIA Luan,4,0,"11,11,11,11|4,6,4,9",,GRAND_SLAM,MS,94,Qualification,CILLIS Javier (ARG),CANTUARIA Luan (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,MANHANI Humberto,CILLIS Javier,4,2,"11,11,11,11,9,11|3,9,9,13,11,8",,GRAND_SLAM,MS,94,Qualification,MANHANI Humberto (BRA),CILLIS Javier (ARG)
-World Tour Brazil Open Santos 2012,2012-06-13,TOMA Danilo,MOSER Estevan,4,1,"8,11,11,11,11|11,5,4,6,8",,GRAND_SLAM,MS,94,Qualification,TOMA Danilo (BRA),MOSER Estevan (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,BACA Emir,MOSER Estevan,4,2,"4,11,11,11,3,14|11,6,9,5,11,12",,GRAND_SLAM,MS,94,Qualification,BACA Emir (ARG),MOSER Estevan (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,TOMA Danilo,BACA Emir,4,1,"11,13,9,11,11|9,11,11,8,7",,GRAND_SLAM,MS,94,Qualification,TOMA Danilo (BRA),BACA Emir (ARG)
-World Tour Brazil Open Santos 2012,2012-06-13,JOUTI Eric,WATANABE Rafael,4,0,"11,11,12,11|5,3,10,4",,GRAND_SLAM,MS,94,Qualification,JOUTI Eric (BRA),WATANABE Rafael (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,TENTI Fermin,WATANABE Rafael,4,2,"11,10,12,3,11,11|6,12,10,11,7,3",,GRAND_SLAM,MS,94,Qualification,TENTI Fermin (ARG),WATANABE Rafael (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,JOUTI Eric,TENTI Fermin,4,1,"7,11,11,11,11|11,7,8,5,5",,GRAND_SLAM,MS,94,Qualification,JOUTI Eric (BRA),TENTI Fermin (ARG)
-World Tour Brazil Open Santos 2012,2012-06-13,GILABERT Rodrigo,BUCCI Fabio,4,0,"11,11,11,11|1,6,3,2",,GRAND_SLAM,MS,94,Qualification,GILABERT Rodrigo (ARG),BUCCI Fabio (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,GILABERT Rodrigo,SUEYASU Willian,4,1,"10,11,11,13,11|12,6,4,11,2",,GRAND_SLAM,MS,94,Qualification,GILABERT Rodrigo (ARG),SUEYASU Willian (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,SOUZA Gustavo,BUCCI Fabio,4,0,"11,11,11,11|7,1,5,1",,GRAND_SLAM,MS,94,Qualification,SOUZA Gustavo (BRA),BUCCI Fabio (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,GILABERT Rodrigo,SOUZA Gustavo,4,1,"11,9,11,11,11|9,11,6,6,8",,GRAND_SLAM,MS,94,Qualification,GILABERT Rodrigo (ARG),SOUZA Gustavo (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,SUEYASU Willian,BUCCI Fabio,4,0,"11,11,11,11|4,4,2,6",,GRAND_SLAM,MS,94,Qualification,SUEYASU Willian (BRA),BUCCI Fabio (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,JOO Saehyuk,TENTI Fermin,4,0,"11,11,11,11|9,2,5,2",R32,GRAND_SLAM,MS,94,Main Draw,JOO Saehyuk (KOR),TENTI Fermin (ARG)
-World Tour Brazil Open Santos 2012,2012-06-13,BENTSEN Allan,ROY Soumyadeep,4,2,"11,2,11,11,5,12|7,11,7,4,11,10",R32,GRAND_SLAM,MS,94,Main Draw,BENTSEN Allan (DEN),ROY Soumyadeep (IND)
-World Tour Brazil Open Santos 2012,2012-06-13,SAHA Subhajit,TOMA Danilo,4,1,"9,11,11,11,11|11,6,6,7,8",R32,GRAND_SLAM,MS,94,Main Draw,SAHA Subhajit (IND),TOMA Danilo (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,TSUBOI Gustavo,SHETTY Sanil,4,1,"11,11,6,11,11|9,8,11,3,6",R32,GRAND_SLAM,MS,94,Main Draw,TSUBOI Gustavo (BRA),SHETTY Sanil (IND)
-World Tour Brazil Open Santos 2012,2012-06-13,CALDERANO Hugo,SAIVE Jean-Michel,4,0,"11,11,11,12|8,9,7,10",R32,GRAND_SLAM,MS,94,Main Draw,CALDERANO Hugo (BRA),SAIVE Jean-Michel (BEL)
-World Tour Brazil Open Santos 2012,2012-06-13,GHOSH Soumyajit,JEAN Lauric,4,3,"12,8,11,10,12,10,11|10,11,9,12,10,12,5",R32,GRAND_SLAM,MS,94,Main Draw,GHOSH Soumyajit (IND),JEAN Lauric (BEL)
-World Tour Brazil Open Santos 2012,2012-06-13,MONTEIRO Thiago,NUYTINCK Cedric,4,1,"11,11,14,11,11|7,13,12,8,9",R32,GRAND_SLAM,MS,94,Main Draw,MONTEIRO Thiago (BRA),NUYTINCK Cedric (BEL)
-World Tour Brazil Open Santos 2012,2012-06-13,FREITAS Marcos,JOUTI Eric,4,1,"11,11,11,9,11|5,9,6,11,8",R32,GRAND_SLAM,MS,94,Main Draw,FREITAS Marcos (POR),JOUTI Eric (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,RYU Seungmin,KOHATSU Massao,4,0,"11,11,11,11|3,7,2,9",R32,GRAND_SLAM,MS,94,Main Draw,RYU Seungmin (KOR),KOHATSU Massao (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,DURAN Marc,ISHIY Vitor,4,0,"11,11,17,13|6,1,15,11",R32,GRAND_SLAM,MS,94,Main Draw,DURAN Marc (ESP),ISHIY Vitor (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,ANTHONY Amalraj,ROCHA Paulo,4,1,"10,14,11,11,11|12,12,6,6,8",R32,GRAND_SLAM,MS,94,Main Draw,ANTHONY Amalraj (IND),ROCHA Paulo (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,LEBESSON Emmanuel,MANHANI Humberto,4,0,"11,11,11,11|9,8,6,6",R32,GRAND_SLAM,MS,94,Main Draw,LEBESSON Emmanuel (FRA),MANHANI Humberto (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,MATSUMOTO Cazuo,JENKINS Ryan,4,2,"11,11,13,11,6,11|8,7,15,5,11,6",R32,GRAND_SLAM,MS,94,Main Draw,MATSUMOTO Cazuo (BRA),JENKINS Ryan (WAL)
-World Tour Brazil Open Santos 2012,2012-06-13,HOYAMA Hugo,GILABERT Rodrigo,4,2,"11,11,8,14,11,11|13,6,11,12,5,9",R32,GRAND_SLAM,MS,94,Main Draw,HOYAMA Hugo (BRA),GILABERT Rodrigo (ARG)
-World Tour Brazil Open Santos 2012,2012-06-13,PISTEJ Lubomir,DESAI Harmeet,4,3,"9,11,9,11,9,11,11|11,4,11,7,11,7,6",R32,GRAND_SLAM,MS,94,Main Draw,PISTEJ Lubomir (SVK),DESAI Harmeet (IND)
-World Tour Brazil Open Santos 2012,2012-06-13,OH Sangeun,MANCINI Eric,4,0,"11,12,11,11|9,10,3,6",R32,GRAND_SLAM,MS,94,Main Draw,OH Sangeun (KOR),MANCINI Eric (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,JOO Saehyuk,BENTSEN Allan,4,2,"7,11,11,8,11,11|11,8,2,11,9,7",R16,GRAND_SLAM,MS,94,Main Draw,JOO Saehyuk (KOR),BENTSEN Allan (DEN)
-World Tour Brazil Open Santos 2012,2012-06-13,TSUBOI Gustavo,SAHA Subhajit,4,0,"11,11,11,11|8,2,8,6",R16,GRAND_SLAM,MS,94,Main Draw,TSUBOI Gustavo (BRA),SAHA Subhajit (IND)
-World Tour Brazil Open Santos 2012,2012-06-13,GHOSH Soumyajit,CALDERANO Hugo,4,2,"8,6,11,12,11,11|11,11,6,10,7,5",R16,GRAND_SLAM,MS,94,Main Draw,GHOSH Soumyajit (IND),CALDERANO Hugo (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,FREITAS Marcos,MONTEIRO Thiago,4,0,"15,14,11,11|13,12,4,6",R16,GRAND_SLAM,MS,94,Main Draw,FREITAS Marcos (POR),MONTEIRO Thiago (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,RYU Seungmin,DURAN Marc,4,0,"11,11,16,11|7,2,14,8",R16,GRAND_SLAM,MS,94,Main Draw,RYU Seungmin (KOR),DURAN Marc (ESP)
-World Tour Brazil Open Santos 2012,2012-06-13,LEBESSON Emmanuel,ANTHONY Amalraj,4,1,"11,11,11,11,11|7,3,8,13,4",R16,GRAND_SLAM,MS,94,Main Draw,LEBESSON Emmanuel (FRA),ANTHONY Amalraj (IND)
-World Tour Brazil Open Santos 2012,2012-06-13,MATSUMOTO Cazuo,HOYAMA Hugo,4,2,"11,8,12,8,11,11|7,11,10,11,9,9",R16,GRAND_SLAM,MS,94,Main Draw,MATSUMOTO Cazuo (BRA),HOYAMA Hugo (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,OH Sangeun,PISTEJ Lubomir,4,2,"4,11,13,11,8,11|11,5,11,8,11,7",R16,GRAND_SLAM,MS,94,Main Draw,OH Sangeun (KOR),PISTEJ Lubomir (SVK)
-World Tour Brazil Open Santos 2012,2012-06-13,JOO Saehyuk,TSUBOI Gustavo,4,0,"11,11,11,11|4,6,9,8",QF,GRAND_SLAM,MS,94,Main Draw,JOO Saehyuk (KOR),TSUBOI Gustavo (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,FREITAS Marcos,GHOSH Soumyajit,4,0,"11,11,11,11|7,5,1,6",QF,GRAND_SLAM,MS,94,Main Draw,FREITAS Marcos (POR),GHOSH Soumyajit (IND)
-World Tour Brazil Open Santos 2012,2012-06-13,LEBESSON Emmanuel,RYU Seungmin,4,2,"11,11,11,10,7,11|4,6,9,12,11,8",QF,GRAND_SLAM,MS,94,Main Draw,LEBESSON Emmanuel (FRA),RYU Seungmin (KOR)
-World Tour Brazil Open Santos 2012,2012-06-13,OH Sangeun,MATSUMOTO Cazuo,4,2,"4,11,11,10,11,11|11,4,5,12,4,8",QF,GRAND_SLAM,MS,94,Main Draw,OH Sangeun (KOR),MATSUMOTO Cazuo (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,JOO Saehyuk,FREITAS Marcos,4,2,"7,11,9,11,11,11|11,7,11,7,7,3",SF,GRAND_SLAM,MS,94,Main Draw,JOO Saehyuk (KOR),FREITAS Marcos (POR)
-World Tour Brazil Open Santos 2012,2012-06-13,OH Sangeun,LEBESSON Emmanuel,4,1,"11,6,11,12,11|7,11,7,10,3",SF,GRAND_SLAM,MS,94,Main Draw,OH Sangeun (KOR),LEBESSON Emmanuel (FRA)
-World Tour Brazil Open Santos 2012,2012-06-13,OH Sangeun,JOO Saehyuk,4,1,"11,11,4,11,11|3,9,11,8,5",F,GRAND_SLAM,MS,94,Main Draw,OH Sangeun (KOR),JOO Saehyuk (KOR)
-World Tour Brazil Open Santos 2012,2012-06-13,WANG Yuegu,GUI Lin,4,0,"11,11,11,11|3,2,8,1",R32,GRAND_SLAM,WS,94,Main Draw,WANG Yuegu (SGP),GUI Lin (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,HUANG Yi-Hua,ZHANG Lily,4,3,"10,11,3,4,11,11,11|12,9,11,11,8,9,2",R32,GRAND_SLAM,WS,94,Main Draw,HUANG Yi-Hua (TPE),ZHANG Lily (USA)
-World Tour Brazil Open Santos 2012,2012-06-13,GHATAK Poulomi,KUMAHARA Luca,4,0,"11,11,11,11|5,5,6,3",R32,GRAND_SLAM,WS,94,Main Draw,GHATAK Poulomi (IND),KUMAHARA Luca (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,SEOK Hajung,PAUL Mousumi,4,0,"11,11,11,11|7,9,6,9",R32,GRAND_SLAM,WS,94,Main Draw,SEOK Hajung (KOR),PAUL Mousumi (IND)
-World Tour Brazil Open Santos 2012,2012-06-13,DANG Yeseo,SILVA Yadira,4,0,"11,11,11,11|7,1,6,2",R32,GRAND_SLAM,WS,94,Main Draw,DANG Yeseo (KOR),SILVA Yadira (MEX)
-World Tour Brazil Open Santos 2012,2012-06-13,ONO Shiho,DAS Ankita,4,0,"11,12,11,11|3,10,3,8",R32,GRAND_SLAM,WS,94,Main Draw,ONO Shiho (JPN),DAS Ankita (IND)
-World Tour Brazil Open Santos 2012,2012-06-13,XIAN Yifang,KUMARESAN Shamini,4,2,"11,11,11,9,3,11|5,3,2,11,11,7",R32,GRAND_SLAM,WS,94,Main Draw,XIAN Yifang (FRA),KUMARESAN Shamini (IND)
-World Tour Brazil Open Santos 2012,2012-06-13,KIM Kyungah,VEGA Paulina,4,0,"11,11,11,11|5,6,3,4",R32,GRAND_SLAM,WS,94,Main Draw,KIM Kyungah (KOR),VEGA Paulina (CHI)
-World Tour Brazil Open Santos 2012,2012-06-13,FUKUHARA Ai,BATRA Manika,4,0,"11,11,11,11|8,9,4,8",R32,GRAND_SLAM,WS,94,Main Draw,FUKUHARA Ai (JPN),BATRA Manika (IND)
-World Tour Brazil Open Santos 2012,2012-06-13,HSING Ariel,MEDINA Paula,4,2,"9,11,7,12,11,11|11,3,11,10,7,9",R32,GRAND_SLAM,WS,94,Main Draw,HSING Ariel (USA),MEDINA Paula (COL)
-World Tour Brazil Open Santos 2012,2012-06-13,LI Xue,STEFANSKA Kinga,4,0,"11,11,11,11|4,5,8,7",R32,GRAND_SLAM,WS,94,Main Draw,LI Xue (FRA),STEFANSKA Kinga (POL)
-World Tour Brazil Open Santos 2012,2012-06-13,LI Jiawei,WU Yue,4,0,"11,11,11,11|7,6,6,5",R32,GRAND_SLAM,WS,94,Main Draw,LI Jiawei (SGP),WU Yue (USA)
-World Tour Brazil Open Santos 2012,2012-06-13,LI Qian,YAMADA Jessica,4,0,"11,11,11,11|7,2,4,7",R32,GRAND_SLAM,WS,94,Main Draw,LI Qian (POL),YAMADA Jessica (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,LIU Nai Hui,DESHPANDE Divya,4,3,"6,11,11,5,11,9,11|11,5,9,11,8,11,7",R32,GRAND_SLAM,WS,94,Main Draw,LIU Nai Hui (USA),DESHPANDE Divya (IND)
-World Tour Brazil Open Santos 2012,2012-06-13,NONAKA Yuki,DAS Mouma,4,2,"11,11,11,4,6,11|9,5,3,11,11,2",R32,GRAND_SLAM,WS,94,Main Draw,NONAKA Yuki (JPN),DAS Mouma (IND)
-World Tour Brazil Open Santos 2012,2012-06-13,FENG Tianwei,SILVA Ligia,4,0,"11,11,11,11|6,5,4,7",R32,GRAND_SLAM,WS,94,Main Draw,FENG Tianwei (SGP),SILVA Ligia (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,WANG Yuegu,HUANG Yi-Hua,4,2,"10,7,11,11,11,12|12,11,9,3,5,10",R16,GRAND_SLAM,WS,94,Main Draw,WANG Yuegu (SGP),HUANG Yi-Hua (TPE)
-World Tour Brazil Open Santos 2012,2012-06-13,SEOK Hajung,GHATAK Poulomi,4,1,"9,11,11,11,11|11,6,9,6,9",R16,GRAND_SLAM,WS,94,Main Draw,SEOK Hajung (KOR),GHATAK Poulomi (IND)
-World Tour Brazil Open Santos 2012,2012-06-13,DANG Yeseo,ONO Shiho,4,0,"11,11,11,11|7,7,4,3",R16,GRAND_SLAM,WS,94,Main Draw,DANG Yeseo (KOR),ONO Shiho (JPN)
-World Tour Brazil Open Santos 2012,2012-06-13,KIM Kyungah,XIAN Yifang,4,0,"11,11,11,11|4,7,3,4",R16,GRAND_SLAM,WS,94,Main Draw,KIM Kyungah (KOR),XIAN Yifang (FRA)
-World Tour Brazil Open Santos 2012,2012-06-13,FUKUHARA Ai,HSING Ariel,4,0,"11,11,11,11|2,3,9,6",R16,GRAND_SLAM,WS,94,Main Draw,FUKUHARA Ai (JPN),HSING Ariel (USA)
-World Tour Brazil Open Santos 2012,2012-06-13,LI Jiawei,LI Xue,4,2,"11,11,4,11,8,11|7,7,11,5,11,3",R16,GRAND_SLAM,WS,94,Main Draw,LI Jiawei (SGP),LI Xue (FRA)
-World Tour Brazil Open Santos 2012,2012-06-13,LI Qian,LIU Nai Hui,4,0,"11,11,13,11|9,3,11,5",R16,GRAND_SLAM,WS,94,Main Draw,LI Qian (POL),LIU Nai Hui (USA)
-World Tour Brazil Open Santos 2012,2012-06-13,FENG Tianwei,NONAKA Yuki,4,0,"11,11,11,11|9,7,8,3",R16,GRAND_SLAM,WS,94,Main Draw,FENG Tianwei (SGP),NONAKA Yuki (JPN)
-World Tour Brazil Open Santos 2012,2012-06-13,SEOK Hajung,WANG Yuegu,4,3,"5,7,11,6,11,11,11|11,11,3,11,7,6,5",QF,GRAND_SLAM,WS,94,Main Draw,SEOK Hajung (KOR),WANG Yuegu (SGP)
-World Tour Brazil Open Santos 2012,2012-06-13,KIM Kyungah,DANG Yeseo,4,0,"11,11,11,13|5,6,5,11",QF,GRAND_SLAM,WS,94,Main Draw,KIM Kyungah (KOR),DANG Yeseo (KOR)
-World Tour Brazil Open Santos 2012,2012-06-13,FUKUHARA Ai,LI Jiawei,4,0,"15,11,11,18|13,6,8,16",QF,GRAND_SLAM,WS,94,Main Draw,FUKUHARA Ai (JPN),LI Jiawei (SGP)
-World Tour Brazil Open Santos 2012,2012-06-13,FENG Tianwei,LI Qian,4,2,"8,11,12,8,11,11|11,9,10,11,8,9",QF,GRAND_SLAM,WS,94,Main Draw,FENG Tianwei (SGP),LI Qian (POL)
-World Tour Brazil Open Santos 2012,2012-06-13,KIM Kyungah,SEOK Hajung,4,1,"11,6,12,11,11|8,11,10,5,4",SF,GRAND_SLAM,WS,94,Main Draw,KIM Kyungah (KOR),SEOK Hajung (KOR)
-World Tour Brazil Open Santos 2012,2012-06-13,FENG Tianwei,FUKUHARA Ai,4,1,"10,11,11,11,11|12,8,6,3,7",SF,GRAND_SLAM,WS,94,Main Draw,FENG Tianwei (SGP),FUKUHARA Ai (JPN)
-World Tour Brazil Open Santos 2012,2012-06-13,KIM Kyungah,FENG Tianwei,4,2,"6,12,9,11,11,11|11,10,11,8,8,6",F,GRAND_SLAM,WS,94,Main Draw,KIM Kyungah (KOR),FENG Tianwei (SGP)
-World Tour Brazil Open Santos 2012,2012-06-13,GHOSH Soumyajit,MOSER Estevan,3,0,"11,11,11|9,4,9",R16,GRAND_SLAM,U21MS,94,Main Draw,GHOSH Soumyajit (IND),MOSER Estevan (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,BACA Emir,TOMA Danilo,3,2,"11,11,6,7,11|8,8,11,11,9",R16,GRAND_SLAM,U21MS,94,Main Draw,BACA Emir (ARG),TOMA Danilo (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,JOUTI Eric,GILABERT Rodrigo,3,1,"11,11,11,11|7,13,7,3",R16,GRAND_SLAM,U21MS,94,Main Draw,JOUTI Eric (BRA),GILABERT Rodrigo (ARG)
-World Tour Brazil Open Santos 2012,2012-06-13,DESAI Harmeet,ISHIY Vitor,3,1,"11,11,4,11|5,9,11,6",R16,GRAND_SLAM,U21MS,94,Main Draw,DESAI Harmeet (IND),ISHIY Vitor (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,CALDERANO Hugo,DI SALVO Adriel,3,1,"11,11,7,11|5,9,11,8",R16,GRAND_SLAM,U21MS,94,Main Draw,CALDERANO Hugo (BRA),DI SALVO Adriel (ARG)
-World Tour Brazil Open Santos 2012,2012-06-13,WANG Timothy,YAMADA Jeff,3,0,"11,11,11|9,9,8",R16,GRAND_SLAM,U21MS,94,Main Draw,WANG Timothy (USA),YAMADA Jeff (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,NUYTINCK Cedric,SOUZA Gustavo,3,1,"11,12,9,11|4,10,11,4",R16,GRAND_SLAM,U21MS,94,Main Draw,NUYTINCK Cedric (BEL),SOUZA Gustavo (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,JEAN Lauric,SANTOS Nicolas,3,0,"11,11,11|5,7,9",R16,GRAND_SLAM,U21MS,94,Main Draw,JEAN Lauric (BEL),SANTOS Nicolas (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,GHOSH Soumyajit,BACA Emir,4,0,"11,11,11,11|7,8,9,6",QF,GRAND_SLAM,U21MS,94,Main Draw,GHOSH Soumyajit (IND),BACA Emir (ARG)
-World Tour Brazil Open Santos 2012,2012-06-13,DESAI Harmeet,JOUTI Eric,4,1,"12,11,7,11,11|10,3,11,5,5",QF,GRAND_SLAM,U21MS,94,Main Draw,DESAI Harmeet (IND),JOUTI Eric (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,CALDERANO Hugo,WANG Timothy,4,0,"11,11,11,11|7,8,8,4",QF,GRAND_SLAM,U21MS,94,Main Draw,CALDERANO Hugo (BRA),WANG Timothy (USA)
-World Tour Brazil Open Santos 2012,2012-06-13,NUYTINCK Cedric,JEAN Lauric,4,3,"6,11,11,11,8,7,11|11,3,7,8,11,11,6",QF,GRAND_SLAM,U21MS,94,Main Draw,NUYTINCK Cedric (BEL),JEAN Lauric (BEL)
-World Tour Brazil Open Santos 2012,2012-06-13,DESAI Harmeet,GHOSH Soumyajit,4,2,"10,11,6,11,11,11|12,8,11,1,4,4",SF,GRAND_SLAM,U21MS,94,Main Draw,DESAI Harmeet (IND),GHOSH Soumyajit (IND)
-World Tour Brazil Open Santos 2012,2012-06-13,NUYTINCK Cedric,CALDERANO Hugo,4,2,"9,14,11,11,11,11|11,16,9,9,3,7",SF,GRAND_SLAM,U21MS,94,Main Draw,NUYTINCK Cedric (BEL),CALDERANO Hugo (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,DESAI Harmeet,NUYTINCK Cedric,4,2,"11,6,11,11,5,11|3,11,6,9,11,6",F,GRAND_SLAM,U21MS,94,Main Draw,DESAI Harmeet (IND),NUYTINCK Cedric (BEL)
-World Tour Brazil Open Santos 2012,2012-06-13,HSING Ariel,BATRA Manika,4,2,"11,11,11,6,8,11|7,7,7,11,11,4",QF,GRAND_SLAM,U21WS,94,Main Draw,HSING Ariel (USA),BATRA Manika (IND)
-World Tour Brazil Open Santos 2012,2012-06-13,DAS Ankita,KAWAI Katia,4,0,"11,11,12,12|8,4,10,10",QF,GRAND_SLAM,U21WS,94,Main Draw,DAS Ankita (IND),KAWAI Katia (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,KUMAHARA Luca,WU Erica,4,3,"5,6,11,11,14,9,11|11,11,7,6,12,11,7",QF,GRAND_SLAM,U21WS,94,Main Draw,KUMAHARA Luca (BRA),WU Erica (USA)
-World Tour Brazil Open Santos 2012,2012-06-13,ZHANG Lily,GUI Lin,4,0,"11,11,11,11|5,5,7,7",QF,GRAND_SLAM,U21WS,94,Main Draw,ZHANG Lily (USA),GUI Lin (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,HSING Ariel,DAS Ankita,4,0,"11,11,11,11|6,9,9,5",SF,GRAND_SLAM,U21WS,94,Main Draw,HSING Ariel (USA),DAS Ankita (IND)
-World Tour Brazil Open Santos 2012,2012-06-13,ZHANG Lily,KUMAHARA Luca,4,2,"12,11,11,11,8,11|14,5,7,9,11,5",SF,GRAND_SLAM,U21WS,94,Main Draw,ZHANG Lily (USA),KUMAHARA Luca (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,HSING Ariel,ZHANG Lily,4,2,"11,10,4,11,11,12|9,12,11,5,7,10",F,GRAND_SLAM,U21WS,94,Main Draw,HSING Ariel (USA),ZHANG Lily (USA)
-World Tour Brazil Open Santos 2012,2012-06-13,HOYAMA Hugo/MANCINI Eric,BACA Emir/DI SALVO Adriel,3,0,"11,11,11|5,6,7",R16,GRAND_SLAM,MD,94,Main Draw,HOYAMA Hugo (BRA) / MANCINI Eric (BRA),BACA Emir (ARG) / DI SALVO Adriel (ARG)
-World Tour Brazil Open Santos 2012,2012-06-13,MONTEIRO Thiago/TSUBOI Gustavo,GILABERT Rodrigo/TENTI Fermin,3,1,"11,3,11,11|2,11,7,7",R16,GRAND_SLAM,MD,94,Main Draw,MONTEIRO Thiago (BRA) / TSUBOI Gustavo (BRA),GILABERT Rodrigo (ARG) / TENTI Fermin (ARG)
-World Tour Brazil Open Santos 2012,2012-06-13,MONTEIRO Thiago/TSUBOI Gustavo,JEAN Lauric/NUYTINCK Cedric,4,0,"11,11,11,11|5,4,7,5",QF,GRAND_SLAM,MD,94,Main Draw,MONTEIRO Thiago (BRA) / TSUBOI Gustavo (BRA),JEAN Lauric (BEL) / NUYTINCK Cedric (BEL)
-World Tour Brazil Open Santos 2012,2012-06-13,CALDERANO Hugo/MATSUMOTO Cazuo,ANTHONY Amalraj/GHOSH Soumyajit,3,0,"11,11,11|6,3,6",R16,GRAND_SLAM,MD,94,Main Draw,CALDERANO Hugo (BRA) / MATSUMOTO Cazuo (BRA),ANTHONY Amalraj (IND) / GHOSH Soumyajit (IND)
-World Tour Brazil Open Santos 2012,2012-06-13,ROY Soumyadeep/SAHA Subhajit,ISHIY Vitor/JOUTI Eric,3,2,"7,6,11,11,11|11,11,9,8,7",R16,GRAND_SLAM,MD,94,Main Draw,ROY Soumyadeep (IND) / SAHA Subhajit (IND),ISHIY Vitor (BRA) / JOUTI Eric (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,MANHANI Humberto/TOMA Danilo,CILLIS Javier/WANG Timothy,3,0,"11,11,11|5,6,8",R16,GRAND_SLAM,MD,94,Main Draw,MANHANI Humberto (BRA) / TOMA Danilo (BRA),CILLIS Javier (ARG) / WANG Timothy (USA)
-World Tour Brazil Open Santos 2012,2012-06-13,DURAN Marc/LEBESSON Emmanuel,SOUZA Gustavo/YAMADA Jeff,3,0,"11,12,11|7,10,1",R16,GRAND_SLAM,MD,94,Main Draw,DURAN Marc (ESP) / LEBESSON Emmanuel (FRA),SOUZA Gustavo (BRA) / YAMADA Jeff (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,CALDERANO Hugo/MATSUMOTO Cazuo,ROY Soumyadeep/SAHA Subhajit,4,0,"11,11,15,11|4,9,13,9",QF,GRAND_SLAM,MD,94,Main Draw,CALDERANO Hugo (BRA) / MATSUMOTO Cazuo (BRA),ROY Soumyadeep (IND) / SAHA Subhajit (IND)
-World Tour Brazil Open Santos 2012,2012-06-13,DURAN Marc/LEBESSON Emmanuel,MANHANI Humberto/TOMA Danilo,4,2,"11,11,13,7,3,11|5,8,11,11,11,6",QF,GRAND_SLAM,MD,94,Main Draw,DURAN Marc (ESP) / LEBESSON Emmanuel (FRA),MANHANI Humberto (BRA) / TOMA Danilo (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,CALDERANO Hugo/MATSUMOTO Cazuo,DURAN Marc/LEBESSON Emmanuel,4,2,"8,10,11,11,11,13|11,12,5,7,3,11",SF,GRAND_SLAM,MD,94,Main Draw,CALDERANO Hugo (BRA) / MATSUMOTO Cazuo (BRA),DURAN Marc (ESP) / LEBESSON Emmanuel (FRA)
-World Tour Brazil Open Santos 2012,2012-06-13,HSING Ariel/ZHANG Lily,OHIRA Lia/SOUZA YAMAMOTO Sarah,3,0,"11,11,11|6,2,2",R16,GRAND_SLAM,WD,94,Main Draw,HSING Ariel (USA) / ZHANG Lily (USA),OHIRA Lia (BRA) / SOUZA YAMAMOTO Sarah (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,MEDINA Paula/SILVA Yadira,SILVA Ligia/YAMADA Jessica,3,2,"4,5,13,11,11|11,11,11,9,5",R16,GRAND_SLAM,WD,94,Main Draw,MEDINA Paula (COL) / SILVA Yadira (MEX),SILVA Ligia (BRA) / YAMADA Jessica (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,NONAKA Yuki/STEFANSKA Kinga,HAYAMA Karina/KAWAI Katia,3,0,"11,11,11|8,2,3",R16,GRAND_SLAM,WD,94,Main Draw,NONAKA Yuki (JPN) / STEFANSKA Kinga (POL),HAYAMA Karina (BRA) / KAWAI Katia (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,RODRIGUEZ Berta/VEGA Paulina,GUI Lin/KUMAHARA Luca,3,2,"10,11,11,11,12|12,5,8,13,10",R16,GRAND_SLAM,WD,94,Main Draw,RODRIGUEZ Berta (CHI) / VEGA Paulina (CHI),GUI Lin (BRA) / KUMAHARA Luca (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,DANG Yeseo/SEOK Hajung,RODRIGUEZ Berta/VEGA Paulina,4,0,"11,11,11,12|7,8,5,10",QF,GRAND_SLAM,WD,94,Main Draw,DANG Yeseo (KOR) / SEOK Hajung (KOR),RODRIGUEZ Berta (CHI) / VEGA Paulina (CHI)
-World Tour Brazil Open Santos 2012,2012-06-13,LI Jiawei/WANG Yuegu,DESHPANDE Divya/PAUL Mousumi,3,0,"11,11,11|6,9,3",R16,GRAND_SLAM,WD,94,Main Draw,LI Jiawei (SGP) / WANG Yuegu (SGP),DESHPANDE Divya (IND) / PAUL Mousumi (IND)
-World Tour Brazil Open Santos 2012,2012-06-13,LI Jiawei/WANG Yuegu,DAS Mouma/GHATAK Poulomi,4,2,"6,11,9,12,11,11|11,6,11,10,4,6",QF,GRAND_SLAM,WD,94,Main Draw,LI Jiawei (SGP) / WANG Yuegu (SGP),DAS Mouma (IND) / GHATAK Poulomi (IND)
-World Tour Brazil Open Santos 2012,2012-06-13,DAS Mouma/GHATAK Poulomi,DIAS Priscila/TOMA Lais,3,0,"11,11,11|1,4,5",QR4,GRAND_SLAM,WD,94,Qualification,DAS Mouma (IND) / GHATAK Poulomi (IND),DIAS Priscila (BRA) / TOMA Lais (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,FUKUHARA Ai/ONO Shiho,DAS Ankita/KUMARESAN Shamini,3,0,"11,11,11|8,5,8",R16,GRAND_SLAM,WD,94,Main Draw,FUKUHARA Ai (JPN) / ONO Shiho (JPN),DAS Ankita (IND) / KUMARESAN Shamini (IND)
-World Tour Brazil Open Santos 2012,2012-06-13,FUKUHARA Ai/ONO Shiho,HSING Ariel/ZHANG Lily,4,2,"11,7,13,11,4,11|4,11,11,4,11,5",QF,GRAND_SLAM,WD,94,Main Draw,FUKUHARA Ai (JPN) / ONO Shiho (JPN),HSING Ariel (USA) / ZHANG Lily (USA)
-World Tour Brazil Open Santos 2012,2012-06-13,DANG Yeseo/SEOK Hajung,FUKUHARA Ai/ONO Shiho,4,0,"11,11,11,11|8,6,7,9",SF,GRAND_SLAM,WD,94,Main Draw,DANG Yeseo (KOR) / SEOK Hajung (KOR),FUKUHARA Ai (JPN) / ONO Shiho (JPN)
-World Tour Brazil Open Santos 2012,2012-06-13,OH Sangeun/RYU Seungmin,HOYAMA Hugo/MANCINI Eric,4,0,"11,11,11,11|7,6,6,5",QF,GRAND_SLAM,MD,94,Main Draw,OH Sangeun (KOR) / RYU Seungmin (KOR),HOYAMA Hugo (BRA) / MANCINI Eric (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,OH Sangeun/RYU Seungmin,MONTEIRO Thiago/TSUBOI Gustavo,4,2,"7,11,11,9,11,11|11,7,9,11,3,7",SF,GRAND_SLAM,MD,94,Main Draw,OH Sangeun (KOR) / RYU Seungmin (KOR),MONTEIRO Thiago (BRA) / TSUBOI Gustavo (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,OH Sangeun/RYU Seungmin,CALDERANO Hugo/MATSUMOTO Cazuo,4,2,"8,11,9,11,11,11|11,3,11,8,3,5",F,GRAND_SLAM,MD,94,Main Draw,OH Sangeun (KOR) / RYU Seungmin (KOR),CALDERANO Hugo (BRA) / MATSUMOTO Cazuo (BRA)
-World Tour Brazil Open Santos 2012,2012-06-13,LI Jiawei/WANG Yuegu,DANG Yeseo/SEOK Hajung,4,3,"8,11,11,3,11,12,12|11,6,13,11,5,10,10",F,GRAND_SLAM,WD,94,Main Draw,LI Jiawei (SGP) / WANG Yuegu (SGP),DANG Yeseo (KOR) / SEOK Hajung (KOR)
-World Tour Brazil Open Santos 2012,2012-06-13,NONAKA Yuki/STEFANSKA Kinga,MEDINA Paula/SILVA Yadira,4,0,"11,11,11,11|9,9,7,7",QF,GRAND_SLAM,WD,94,Main Draw,NONAKA Yuki (JPN) / STEFANSKA Kinga (POL),MEDINA Paula (COL) / SILVA Yadira (MEX)
-World Tour Brazil Open Santos 2012,2012-06-13,LI Jiawei/WANG Yuegu,NONAKA Yuki/STEFANSKA Kinga,4,0,"13,11,11,11|11,6,7,6",SF,GRAND_SLAM,WD,94,Main Draw,LI Jiawei (SGP) / WANG Yuegu (SGP),NONAKA Yuki (JPN) / STEFANSKA Kinga (POL)
-World Tour Brazil Open Santos 2012,2012-06-13,JEAN Lauric/NUYTINCK Cedric,BENTSEN Allan/PISTEJ Lubomir,3,2,"11,12,11,9,12|9,10,13,11,10",R16,GRAND_SLAM,MD,94,Main Draw,JEAN Lauric (BEL) / NUYTINCK Cedric (BEL),BENTSEN Allan (DEN) / PISTEJ Lubomir (SVK)
-World Tour Brazil Open Santos 2012,2012-06-13,DANG Yeseo/SEOK Hajung,CODINA Ana/WU Erica,3,0,"11,11,11|8,6,1",R16,GRAND_SLAM,WD,94,Main Draw,DANG Yeseo (KOR) / SEOK Hajung (KOR),CODINA Ana (ARG) / WU Erica (USA)
-World Tour Brazil Open Santos 2012,2012-06-13,DAS Mouma/GHATAK Poulomi,LIU Nai Hui/WU Yue,3,0,"11,11,12|5,4,10",R16,GRAND_SLAM,WD,94,Main Draw,DAS Mouma (IND) / GHATAK Poulomi (IND),LIU Nai Hui (USA) / WU Yue (USA)
-World Tour Brazil Open Santos 2012,2012-06-13,CODINA Ana/WU Erica,EDAMATSU Cassia/KAJIHARA Caroline,3,0,"11,11,11|6,5,7",QR4,GRAND_SLAM,WD,94,Qualification,CODINA Ana (ARG) / WU Erica (USA),EDAMATSU Cassia (BRA) / KAJIHARA Caroline (BRA)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+World Tour Brazil Open Santos 2012,2012-06-13,ZHANG Lily,KAWAI Katia,4,2,"9,9,11,11,11,11|11,11,7,8,6,7",,GRAND_SLAM,WS,94,Qualification,ZHANG Lily (USA),KAWAI Katia (BRA),ZHANG Lily
+World Tour Brazil Open Santos 2012,2012-06-13,ZHANG Lily,PAUL Mousumi,4,0,"11,11,11,11|4,7,8,6",,GRAND_SLAM,WS,94,Qualification,ZHANG Lily (USA),PAUL Mousumi (IND),ZHANG Lily
+World Tour Brazil Open Santos 2012,2012-06-13,PAUL Mousumi,KAWAI Katia,4,2,"11,11,11,7,9,11|5,7,5,11,11,6",,GRAND_SLAM,WS,94,Qualification,PAUL Mousumi (IND),KAWAI Katia (BRA),PAUL Mousumi
+World Tour Brazil Open Santos 2012,2012-06-13,STEFANSKA Kinga,WU Erica,4,0,"11,11,11,11|9,5,5,8",,GRAND_SLAM,WS,94,Qualification,STEFANSKA Kinga (POL),WU Erica (USA),STEFANSKA Kinga
+World Tour Brazil Open Santos 2012,2012-06-13,STEFANSKA Kinga,BATRA Manika,4,1,"9,11,11,12,11|11,4,5,10,5",,GRAND_SLAM,WS,94,Qualification,STEFANSKA Kinga (POL),BATRA Manika (IND),STEFANSKA Kinga
+World Tour Brazil Open Santos 2012,2012-06-13,BATRA Manika,WU Erica,4,1,"7,11,11,11,11|11,8,5,5,8",,GRAND_SLAM,WS,94,Qualification,BATRA Manika (IND),WU Erica (USA),BATRA Manika
+World Tour Brazil Open Santos 2012,2012-06-13,DAS Mouma,VEGA Paulina,4,1,"11,11,11,11,11|3,6,13,7,6",,GRAND_SLAM,WS,94,Qualification,DAS Mouma (IND),VEGA Paulina (CHI),DAS Mouma
+World Tour Brazil Open Santos 2012,2012-06-13,DIAS Priscila,EDAMATSU Cassia,4,0,"13,11,11,11|11,7,7,8",,GRAND_SLAM,WS,94,Qualification,DIAS Priscila (BRA),EDAMATSU Cassia (BRA),DIAS Priscila
+World Tour Brazil Open Santos 2012,2012-06-13,DAS Mouma,DIAS Priscila,4,1,"10,11,11,11,11|12,8,4,9,6",,GRAND_SLAM,WS,94,Qualification,DAS Mouma (IND),DIAS Priscila (BRA),DAS Mouma
+World Tour Brazil Open Santos 2012,2012-06-13,VEGA Paulina,EDAMATSU Cassia,4,0,"11,11,11,11|3,4,6,8",,GRAND_SLAM,WS,94,Qualification,VEGA Paulina (CHI),EDAMATSU Cassia (BRA),VEGA Paulina
+World Tour Brazil Open Santos 2012,2012-06-13,DAS Mouma,EDAMATSU Cassia,4,0,"11,11,11,11|7,7,3,5",,GRAND_SLAM,WS,94,Qualification,DAS Mouma (IND),EDAMATSU Cassia (BRA),DAS Mouma
+World Tour Brazil Open Santos 2012,2012-06-13,VEGA Paulina,DIAS Priscila,4,0,"11,11,11,11|7,9,3,8",,GRAND_SLAM,WS,94,Qualification,VEGA Paulina (CHI),DIAS Priscila (BRA),VEGA Paulina
+World Tour Brazil Open Santos 2012,2012-06-13,SILVA Ligia,SOAVE Isabela,4,0,,,GRAND_SLAM,WS,94,Qualification,SILVA Ligia (BRA),SOAVE Isabela (BRA),SILVA Ligia
+World Tour Brazil Open Santos 2012,2012-06-13,DESHPANDE Divya,RODRIGUEZ Berta,4,2,"11,13,11,6,11,11|9,15,5,11,2,7",,GRAND_SLAM,WS,94,Qualification,DESHPANDE Divya (IND),RODRIGUEZ Berta (CHI),DESHPANDE Divya
+World Tour Brazil Open Santos 2012,2012-06-13,SILVA Ligia,RODRIGUEZ Berta,4,2,"12,11,9,11,11,11|14,3,11,6,5,7",,GRAND_SLAM,WS,94,Qualification,SILVA Ligia (BRA),RODRIGUEZ Berta (CHI),SILVA Ligia
+World Tour Brazil Open Santos 2012,2012-06-13,DESHPANDE Divya,SOAVE Isabela,4,0,,,GRAND_SLAM,WS,94,Qualification,DESHPANDE Divya (IND),SOAVE Isabela (BRA),DESHPANDE Divya
+World Tour Brazil Open Santos 2012,2012-06-13,DESHPANDE Divya,SILVA Ligia,4,3,"8,9,13,13,12,14,11|11,11,11,11,14,12,7",,GRAND_SLAM,WS,94,Qualification,DESHPANDE Divya (IND),SILVA Ligia (BRA),DESHPANDE Divya
+World Tour Brazil Open Santos 2012,2012-06-13,RODRIGUEZ Berta,SOAVE Isabela,4,0,,,GRAND_SLAM,WS,94,Qualification,RODRIGUEZ Berta (CHI),SOAVE Isabela (BRA),RODRIGUEZ Berta
+World Tour Brazil Open Santos 2012,2012-06-13,MEDINA Paula,SAHASRABUDHE Pooja,4,2,"11,11,6,11,10,11|9,8,11,7,12,8",,GRAND_SLAM,WS,94,Qualification,MEDINA Paula (COL),SAHASRABUDHE Pooja (IND),MEDINA Paula
+World Tour Brazil Open Santos 2012,2012-06-13,GUI Lin,SOUZA YAMAMOTO Sarah,4,0,"11,11,11,11|1,6,8,8",,GRAND_SLAM,WS,94,Qualification,GUI Lin (BRA),SOUZA YAMAMOTO Sarah (BRA),GUI Lin
+World Tour Brazil Open Santos 2012,2012-06-13,MEDINA Paula,GUI Lin,4,3,"14,7,11,11,11,7,11|16,11,9,5,9,11,7",,GRAND_SLAM,WS,94,Qualification,MEDINA Paula (COL),GUI Lin (BRA),MEDINA Paula
+World Tour Brazil Open Santos 2012,2012-06-13,SAHASRABUDHE Pooja,SOUZA YAMAMOTO Sarah,4,0,"11,11,13,11|4,3,11,6",,GRAND_SLAM,WS,94,Qualification,SAHASRABUDHE Pooja (IND),SOUZA YAMAMOTO Sarah (BRA),SAHASRABUDHE Pooja
+World Tour Brazil Open Santos 2012,2012-06-13,MEDINA Paula,SOUZA YAMAMOTO Sarah,4,0,"11,11,11,11|2,8,6,8",,GRAND_SLAM,WS,94,Qualification,MEDINA Paula (COL),SOUZA YAMAMOTO Sarah (BRA),MEDINA Paula
+World Tour Brazil Open Santos 2012,2012-06-13,GUI Lin,SAHASRABUDHE Pooja,4,3,"9,11,9,11,12,10,11|11,5,11,1,10,12,5",,GRAND_SLAM,WS,94,Qualification,GUI Lin (BRA),SAHASRABUDHE Pooja (IND),GUI Lin
+World Tour Brazil Open Santos 2012,2012-06-13,DAS Ankita,CODINA Ana,4,0,"11,11,11,11|6,6,6,5",,GRAND_SLAM,WS,94,Qualification,DAS Ankita (IND),CODINA Ana (ARG),DAS Ankita
+World Tour Brazil Open Santos 2012,2012-06-13,YAMADA Jessica,SHINGAKI Juliana,4,0,"11,11,11,11|5,6,3,7",,GRAND_SLAM,WS,94,Qualification,YAMADA Jessica (BRA),SHINGAKI Juliana (BRA),YAMADA Jessica
+World Tour Brazil Open Santos 2012,2012-06-13,DAS Ankita,YAMADA Jessica,4,3,"11,11,8,8,6,11,11|7,6,11,11,11,3,7",,GRAND_SLAM,WS,94,Qualification,DAS Ankita (IND),YAMADA Jessica (BRA),DAS Ankita
+World Tour Brazil Open Santos 2012,2012-06-13,CODINA Ana,SHINGAKI Juliana,4,0,"11,11,11,11|9,7,6,6",,GRAND_SLAM,WS,94,Qualification,CODINA Ana (ARG),SHINGAKI Juliana (BRA),CODINA Ana
+World Tour Brazil Open Santos 2012,2012-06-13,DAS Ankita,SHINGAKI Juliana,4,0,"11,11,11,11|4,3,9,3",,GRAND_SLAM,WS,94,Qualification,DAS Ankita (IND),SHINGAKI Juliana (BRA),DAS Ankita
+World Tour Brazil Open Santos 2012,2012-06-13,YAMADA Jessica,CODINA Ana,4,2,"7,10,11,11,13,11|11,12,5,7,11,8",,GRAND_SLAM,WS,94,Qualification,YAMADA Jessica (BRA),CODINA Ana (ARG),YAMADA Jessica
+World Tour Brazil Open Santos 2012,2012-06-13,KUMARESAN Shamini,SILVA Yadira,4,0,"14,11,11,11|12,7,8,9",,GRAND_SLAM,WS,94,Qualification,KUMARESAN Shamini (IND),SILVA Yadira (MEX),KUMARESAN Shamini
+World Tour Brazil Open Santos 2012,2012-06-13,HAYAMA Karina,TOMA Lais,4,2,"11,8,9,11,12,11|4,11,11,6,10,6",,GRAND_SLAM,WS,94,Qualification,HAYAMA Karina (BRA),TOMA Lais (BRA),HAYAMA Karina
+World Tour Brazil Open Santos 2012,2012-06-13,SILVA Yadira,HAYAMA Karina,4,1,"11,11,11,12,14|7,4,13,10,12",,GRAND_SLAM,WS,94,Qualification,SILVA Yadira (MEX),HAYAMA Karina (BRA),SILVA Yadira
+World Tour Brazil Open Santos 2012,2012-06-13,KUMARESAN Shamini,TOMA Lais,4,0,"11,11,11,11|4,3,5,5",,GRAND_SLAM,WS,94,Qualification,KUMARESAN Shamini (IND),TOMA Lais (BRA),KUMARESAN Shamini
+World Tour Brazil Open Santos 2012,2012-06-13,SILVA Yadira,TOMA Lais,4,0,"11,11,11,11|3,8,6,3",,GRAND_SLAM,WS,94,Qualification,SILVA Yadira (MEX),TOMA Lais (BRA),SILVA Yadira
+World Tour Brazil Open Santos 2012,2012-06-13,KUMARESAN Shamini,HAYAMA Karina,4,1,"11,9,11,11,11|5,11,6,8,5",,GRAND_SLAM,WS,94,Qualification,KUMARESAN Shamini (IND),HAYAMA Karina (BRA),KUMARESAN Shamini
+World Tour Brazil Open Santos 2012,2012-06-13,GHATAK Poulomi,WU Yue,4,2,"11,12,5,11,10,12|3,10,11,7,12,10",,GRAND_SLAM,WS,94,Qualification,GHATAK Poulomi (IND),WU Yue (USA),GHATAK Poulomi
+World Tour Brazil Open Santos 2012,2012-06-13,OHIRA Lia,KAJIHARA Caroline,4,0,"11,11,11,11|9,4,6,7",,GRAND_SLAM,WS,94,Qualification,OHIRA Lia (BRA),KAJIHARA Caroline (BRA),OHIRA Lia
+World Tour Brazil Open Santos 2012,2012-06-13,WU Yue,OHIRA Lia,4,0,"11,11,11,11|8,1,5,3",,GRAND_SLAM,WS,94,Qualification,WU Yue (USA),OHIRA Lia (BRA),WU Yue
+World Tour Brazil Open Santos 2012,2012-06-13,GHATAK Poulomi,KAJIHARA Caroline,4,0,"11,11,11,11|5,2,4,7",,GRAND_SLAM,WS,94,Qualification,GHATAK Poulomi (IND),KAJIHARA Caroline (BRA),GHATAK Poulomi
+World Tour Brazil Open Santos 2012,2012-06-13,WU Yue,KAJIHARA Caroline,4,0,"11,11,11,11|8,2,1,7",,GRAND_SLAM,WS,94,Qualification,WU Yue (USA),KAJIHARA Caroline (BRA),WU Yue
+World Tour Brazil Open Santos 2012,2012-06-13,GHATAK Poulomi,OHIRA Lia,4,0,"11,11,12,11|8,5,10,3",,GRAND_SLAM,WS,94,Qualification,GHATAK Poulomi (IND),OHIRA Lia (BRA),GHATAK Poulomi
+World Tour Brazil Open Santos 2012,2012-06-13,NARITA Henrique,WATANABE Rafael,3,0,"11,11,11|9,6,9",,GRAND_SLAM,U21MS,94,Qualification,NARITA Henrique (BRA),WATANABE Rafael (BRA),NARITA Henrique
+World Tour Brazil Open Santos 2012,2012-06-13,GILABERT Rodrigo,WATANABE Rafael,3,0,"11,11,11|3,7,5",,GRAND_SLAM,U21MS,94,Qualification,GILABERT Rodrigo (ARG),WATANABE Rafael (BRA),GILABERT Rodrigo
+World Tour Brazil Open Santos 2012,2012-06-13,GILABERT Rodrigo,NARITA Henrique,3,2,"8,7,11,11,12|11,11,8,8,10",,GRAND_SLAM,U21MS,94,Qualification,GILABERT Rodrigo (ARG),NARITA Henrique (BRA),GILABERT Rodrigo
+World Tour Brazil Open Santos 2012,2012-06-13,SUEYASU Willian,BRITO Jorge,3,1,"9,11,11,11|11,8,6,8",,GRAND_SLAM,U21MS,94,Qualification,SUEYASU Willian (BRA),BRITO Jorge (BRA),SUEYASU Willian
+World Tour Brazil Open Santos 2012,2012-06-13,SOUZA Gustavo,SUEYASU Willian,3,0,"11,11,12|5,5,10",,GRAND_SLAM,U21MS,94,Qualification,SOUZA Gustavo (BRA),SUEYASU Willian (BRA),SOUZA Gustavo
+World Tour Brazil Open Santos 2012,2012-06-13,SOUZA Gustavo,BRITO Jorge,3,0,"11,11,11|3,8,2",,GRAND_SLAM,U21MS,94,Qualification,SOUZA Gustavo (BRA),BRITO Jorge (BRA),SOUZA Gustavo
+World Tour Brazil Open Santos 2012,2012-06-13,ROCHA Paulo,FERREIRA Djalma,3,0,"11,11,11|5,4,2",,GRAND_SLAM,U21MS,94,Qualification,ROCHA Paulo (BRA),FERREIRA Djalma (BRA),ROCHA Paulo
+World Tour Brazil Open Santos 2012,2012-06-13,ISHIY Vitor,FERREIRA Djalma,3,0,"11,11,11|2,5,9",,GRAND_SLAM,U21MS,94,Qualification,ISHIY Vitor (BRA),FERREIRA Djalma (BRA),ISHIY Vitor
+World Tour Brazil Open Santos 2012,2012-06-13,ISHIY Vitor,ROCHA Paulo,3,0,"11,11,11|9,8,9",,GRAND_SLAM,U21MS,94,Qualification,ISHIY Vitor (BRA),ROCHA Paulo (BRA),ISHIY Vitor
+World Tour Brazil Open Santos 2012,2012-06-13,MOSER Estevan,SHIMOKI Matheus,3,1,"11,11,8,11|6,4,11,5",,GRAND_SLAM,U21MS,94,Qualification,MOSER Estevan (BRA),SHIMOKI Matheus (BRA),MOSER Estevan
+World Tour Brazil Open Santos 2012,2012-06-13,MOSER Estevan,TENTI Fermin,3,2,"2,11,12,5,11|11,9,10,11,9",,GRAND_SLAM,U21MS,94,Qualification,MOSER Estevan (BRA),TENTI Fermin (ARG),MOSER Estevan
+World Tour Brazil Open Santos 2012,2012-06-13,TENTI Fermin,SHIMOKI Matheus,3,0,"11,11,11|8,6,4",,GRAND_SLAM,U21MS,94,Qualification,TENTI Fermin (ARG),SHIMOKI Matheus (BRA),TENTI Fermin
+World Tour Brazil Open Santos 2012,2012-06-13,UNO Thomas,BUCCI Fabio,3,0,"11,11,11|9,8,4",,GRAND_SLAM,U21MS,94,Qualification,UNO Thomas (BRA),BUCCI Fabio (BRA),UNO Thomas
+World Tour Brazil Open Santos 2012,2012-06-13,BACA Emir,BUCCI Fabio,3,0,"11,11,11|2,8,8",,GRAND_SLAM,U21MS,94,Qualification,BACA Emir (ARG),BUCCI Fabio (BRA),BACA Emir
+World Tour Brazil Open Santos 2012,2012-06-13,BACA Emir,UNO Thomas,3,0,"11,11,11|6,9,7",,GRAND_SLAM,U21MS,94,Qualification,BACA Emir (ARG),UNO Thomas (BRA),BACA Emir
+World Tour Brazil Open Santos 2012,2012-06-13,CANTUARIA Luan,PEREIRA Gabriel,3,2,"8,9,11,11,11|11,11,9,4,9",,GRAND_SLAM,U21MS,94,Qualification,CANTUARIA Luan (BRA),PEREIRA Gabriel (BRA),CANTUARIA Luan
+World Tour Brazil Open Santos 2012,2012-06-13,DI SALVO Adriel,CANTUARIA Luan,3,0,"12,11,11|10,5,7",,GRAND_SLAM,U21MS,94,Qualification,DI SALVO Adriel (ARG),CANTUARIA Luan (BRA),DI SALVO Adriel
+World Tour Brazil Open Santos 2012,2012-06-13,DI SALVO Adriel,PEREIRA Gabriel,3,0,"11,11,11|9,6,6",,GRAND_SLAM,U21MS,94,Qualification,DI SALVO Adriel (ARG),PEREIRA Gabriel (BRA),DI SALVO Adriel
+World Tour Brazil Open Santos 2012,2012-06-13,PRIETO Thales,TEROHATA Gustavo,3,0,"11,11,17|7,5,15",,GRAND_SLAM,U21MS,94,Qualification,PRIETO Thales (BRA),TEROHATA Gustavo (BRA),PRIETO Thales
+World Tour Brazil Open Santos 2012,2012-06-13,YAMADA Jeff,TEROHATA Gustavo,3,1,"9,11,11,11|11,2,6,8",,GRAND_SLAM,U21MS,94,Qualification,YAMADA Jeff (BRA),TEROHATA Gustavo (BRA),YAMADA Jeff
+World Tour Brazil Open Santos 2012,2012-06-13,YAMADA Jeff,PRIETO Thales,3,1,"11,11,11,11|4,13,9,6",,GRAND_SLAM,U21MS,94,Qualification,YAMADA Jeff (BRA),PRIETO Thales (BRA),YAMADA Jeff
+World Tour Brazil Open Santos 2012,2012-06-13,SILVA Caio,SANTOS Nicolas,3,2,"6,11,11,6,11|11,7,8,11,7",,GRAND_SLAM,U21MS,94,Qualification,SILVA Caio (BRA),SANTOS Nicolas (BRA),SILVA Caio
+World Tour Brazil Open Santos 2012,2012-06-13,KOHATSU Massao,SILVA Caio,3,1,"13,11,5,11|11,2,11,6",,GRAND_SLAM,U21MS,94,Qualification,KOHATSU Massao (BRA),SILVA Caio (BRA),KOHATSU Massao
+World Tour Brazil Open Santos 2012,2012-06-13,SANTOS Nicolas,KOHATSU Massao,3,1,"13,6,11,11|11,11,5,7",,GRAND_SLAM,U21MS,94,Qualification,SANTOS Nicolas (BRA),KOHATSU Massao (BRA),SANTOS Nicolas
+World Tour Brazil Open Santos 2012,2012-06-13,GUI Lin,OHIRA Lia,3,1,"7,11,11,11|11,6,4,7",,GRAND_SLAM,U21WS,94,Qualification,GUI Lin (BRA),OHIRA Lia (BRA),GUI Lin
+World Tour Brazil Open Santos 2012,2012-06-13,SAHASRABUDHE Pooja,OHIRA Lia,3,0,"11,11,11|9,3,2",,GRAND_SLAM,U21WS,94,Qualification,SAHASRABUDHE Pooja (IND),OHIRA Lia (BRA),SAHASRABUDHE Pooja
+World Tour Brazil Open Santos 2012,2012-06-13,HAYAMA Karina,KAJIHARA Caroline,3,0,"11,11,11|5,7,7",,GRAND_SLAM,U21WS,94,Qualification,HAYAMA Karina (BRA),KAJIHARA Caroline (BRA),HAYAMA Karina
+World Tour Brazil Open Santos 2012,2012-06-13,BATRA Manika,KAJIHARA Caroline,3,0,"11,11,11|6,5,8",,GRAND_SLAM,U21WS,94,Qualification,BATRA Manika (IND),KAJIHARA Caroline (BRA),BATRA Manika
+World Tour Brazil Open Santos 2012,2012-06-13,BATRA Manika,HAYAMA Karina,3,1,"11,3,11,11|7,11,4,8",,GRAND_SLAM,U21WS,94,Qualification,BATRA Manika (IND),HAYAMA Karina (BRA),BATRA Manika
+World Tour Brazil Open Santos 2012,2012-06-13,TOMA Lais,DIAS Priscila,3,2,"7,3,11,11,11|11,11,6,5,7",,GRAND_SLAM,U21WS,94,Qualification,TOMA Lais (BRA),DIAS Priscila (BRA),TOMA Lais
+World Tour Brazil Open Santos 2012,2012-06-13,WU Erica,SOUZA YAMAMOTO Sarah,3,0,"11,11,11|4,4,3",,GRAND_SLAM,U21WS,94,Qualification,WU Erica (USA),SOUZA YAMAMOTO Sarah (BRA),WU Erica
+World Tour Brazil Open Santos 2012,2012-06-13,WU Erica,TOMA Lais,3,0,"11,11,11|8,7,4",,GRAND_SLAM,U21WS,94,Qualification,WU Erica (USA),TOMA Lais (BRA),WU Erica
+World Tour Brazil Open Santos 2012,2012-06-13,DIAS Priscila,SOUZA YAMAMOTO Sarah,3,1,"11,11,11,11|2,7,13,6",,GRAND_SLAM,U21WS,94,Qualification,DIAS Priscila (BRA),SOUZA YAMAMOTO Sarah (BRA),DIAS Priscila
+World Tour Brazil Open Santos 2012,2012-06-13,WU Erica,DIAS Priscila,3,0,"11,11,11|8,6,4",,GRAND_SLAM,U21WS,94,Qualification,WU Erica (USA),DIAS Priscila (BRA),WU Erica
+World Tour Brazil Open Santos 2012,2012-06-13,SOUZA YAMAMOTO Sarah,TOMA Lais,3,0,"11,11,11|4,6,5",,GRAND_SLAM,U21WS,94,Qualification,SOUZA YAMAMOTO Sarah (BRA),TOMA Lais (BRA),SOUZA YAMAMOTO Sarah
+World Tour Brazil Open Santos 2012,2012-06-13,KAWAI Katia,EDAMATSU Cassia,3,1,"11,11,9,11|3,6,11,9",,GRAND_SLAM,U21WS,94,Qualification,KAWAI Katia (BRA),EDAMATSU Cassia (BRA),KAWAI Katia
+World Tour Brazil Open Santos 2012,2012-06-13,KAWAI Katia,SHINGAKI Juliana,3,1,"12,13,9,11|10,11,11,7",,GRAND_SLAM,U21WS,94,Qualification,KAWAI Katia (BRA),SHINGAKI Juliana (BRA),KAWAI Katia
+World Tour Brazil Open Santos 2012,2012-06-13,CODINA Ana,EDAMATSU Cassia,3,0,"13,11,11|11,1,5",,GRAND_SLAM,U21WS,94,Qualification,CODINA Ana (ARG),EDAMATSU Cassia (BRA),CODINA Ana
+World Tour Brazil Open Santos 2012,2012-06-13,KAWAI Katia,CODINA Ana,3,0,"11,11,11|7,8,5",,GRAND_SLAM,U21WS,94,Qualification,KAWAI Katia (BRA),CODINA Ana (ARG),KAWAI Katia
+World Tour Brazil Open Santos 2012,2012-06-13,EDAMATSU Cassia,SHINGAKI Juliana,3,2,"7,5,14,11,11|11,11,12,7,5",,GRAND_SLAM,U21WS,94,Qualification,EDAMATSU Cassia (BRA),SHINGAKI Juliana (BRA),EDAMATSU Cassia
+World Tour Brazil Open Santos 2012,2012-06-13,CASTRO Lidney,UNO Thomas,4,0,"11,11,11,11|5,8,3,7",,GRAND_SLAM,MS,94,Qualification,CASTRO Lidney (USA),UNO Thomas (BRA),CASTRO Lidney
+World Tour Brazil Open Santos 2012,2012-06-13,JENKINS Ryan,CASTRO Lidney,4,2,"11,8,11,11,6,11|9,11,9,2,11,8",,GRAND_SLAM,MS,94,Qualification,JENKINS Ryan (WAL),CASTRO Lidney (USA),JENKINS Ryan
+World Tour Brazil Open Santos 2012,2012-06-13,JENKINS Ryan,UNO Thomas,4,0,"11,11,11,11|2,5,4,5",,GRAND_SLAM,MS,94,Qualification,JENKINS Ryan (WAL),UNO Thomas (BRA),JENKINS Ryan
+World Tour Brazil Open Santos 2012,2012-06-13,PEREIRA Gabriel,FERREIRA Djalma,4,1,"4,11,11,11,11|11,6,6,6,7",,GRAND_SLAM,MS,94,Qualification,PEREIRA Gabriel (BRA),FERREIRA Djalma (BRA),PEREIRA Gabriel
+World Tour Brazil Open Santos 2012,2012-06-13,JEAN Lauric,FERREIRA Djalma,4,0,"11,11,11,11|3,8,5,6",,GRAND_SLAM,MS,94,Qualification,JEAN Lauric (BEL),FERREIRA Djalma (BRA),JEAN Lauric
+World Tour Brazil Open Santos 2012,2012-06-13,JEAN Lauric,PEREIRA Gabriel,4,0,"11,11,11,11|5,9,6,4",,GRAND_SLAM,MS,94,Qualification,JEAN Lauric (BEL),PEREIRA Gabriel (BRA),JEAN Lauric
+World Tour Brazil Open Santos 2012,2012-06-13,TEROHATA Gustavo,PRIETO Thales,4,1,"11,11,11,8,11|4,4,7,11,3",,GRAND_SLAM,MS,94,Qualification,TEROHATA Gustavo (BRA),PRIETO Thales (BRA),TEROHATA Gustavo
+World Tour Brazil Open Santos 2012,2012-06-13,ROY Soumyadeep,TEROHATA Gustavo,4,1,"11,11,11,11,11|13,5,5,2,7",,GRAND_SLAM,MS,94,Qualification,ROY Soumyadeep (IND),TEROHATA Gustavo (BRA),ROY Soumyadeep
+World Tour Brazil Open Santos 2012,2012-06-13,ROY Soumyadeep,PRIETO Thales,4,1,"9,11,11,11,11|11,2,9,4,4",,GRAND_SLAM,MS,94,Qualification,ROY Soumyadeep (IND),PRIETO Thales (BRA),ROY Soumyadeep
+World Tour Brazil Open Santos 2012,2012-06-13,NARITA Henrique,SILVA Caio,4,0,"11,11,11,11|6,6,9,8",,GRAND_SLAM,MS,94,Qualification,NARITA Henrique (BRA),SILVA Caio (BRA),NARITA Henrique
+World Tour Brazil Open Santos 2012,2012-06-13,CALDERANO Hugo,SILVA Caio,4,1,"11,11,8,11,11|7,6,11,1,5",,GRAND_SLAM,MS,94,Qualification,CALDERANO Hugo (BRA),SILVA Caio (BRA),CALDERANO Hugo
+World Tour Brazil Open Santos 2012,2012-06-13,CALDERANO Hugo,NARITA Henrique,4,1,"11,9,11,11,11|9,11,8,9,6",,GRAND_SLAM,MS,94,Qualification,CALDERANO Hugo (BRA),NARITA Henrique (BRA),CALDERANO Hugo
+World Tour Brazil Open Santos 2012,2012-06-13,SANTOS Nicolas,SHIMOKI Matheus,4,0,"11,11,11,11|3,2,6,2",,GRAND_SLAM,MS,94,Qualification,SANTOS Nicolas (BRA),SHIMOKI Matheus (BRA),SANTOS Nicolas
+World Tour Brazil Open Santos 2012,2012-06-13,DESAI Harmeet,SHIMOKI Matheus,4,0,"11,11,11,11|2,9,2,8",,GRAND_SLAM,MS,94,Qualification,DESAI Harmeet (IND),SHIMOKI Matheus (BRA),DESAI Harmeet
+World Tour Brazil Open Santos 2012,2012-06-13,DESAI Harmeet,SANTOS Nicolas,4,1,"11,11,11,8,11|1,4,7,11,1",,GRAND_SLAM,MS,94,Qualification,DESAI Harmeet (IND),SANTOS Nicolas (BRA),DESAI Harmeet
+World Tour Brazil Open Santos 2012,2012-06-13,KOHATSU Massao,BAVARESCO Yuri,4,2,"8,13,7,14,11,11|11,11,11,12,6,4",,GRAND_SLAM,MS,94,Qualification,KOHATSU Massao (BRA),BAVARESCO Yuri (BRA),KOHATSU Massao
+World Tour Brazil Open Santos 2012,2012-06-13,NUYTINCK Cedric,BAVARESCO Yuri,4,1,"11,11,11,3,11|2,4,7,11,6",,GRAND_SLAM,MS,94,Qualification,NUYTINCK Cedric (BEL),BAVARESCO Yuri (BRA),NUYTINCK Cedric
+World Tour Brazil Open Santos 2012,2012-06-13,NUYTINCK Cedric,KOHATSU Massao,4,0,"11,11,11,17|7,9,7,15",,GRAND_SLAM,MS,94,Qualification,NUYTINCK Cedric (BEL),KOHATSU Massao (BRA),NUYTINCK Cedric
+World Tour Brazil Open Santos 2012,2012-06-13,YAMADA Jeff,BRITO Jorge,4,1,"11,3,11,12,11|7,11,7,10,5",,GRAND_SLAM,MS,94,Qualification,YAMADA Jeff (BRA),BRITO Jorge (BRA),YAMADA Jeff
+World Tour Brazil Open Santos 2012,2012-06-13,SHETTY Sanil,BRITO Jorge,4,1,"10,11,11,11,11|12,8,3,2,3",,GRAND_SLAM,MS,94,Qualification,SHETTY Sanil (IND),BRITO Jorge (BRA),SHETTY Sanil
+World Tour Brazil Open Santos 2012,2012-06-13,SHETTY Sanil,YAMADA Jeff,4,1,"10,11,11,11,11|12,6,8,8,5",,GRAND_SLAM,MS,94,Qualification,SHETTY Sanil (IND),YAMADA Jeff (BRA),SHETTY Sanil
+World Tour Brazil Open Santos 2012,2012-06-13,ROCHA Paulo,MANCINI Eric,4,1,"11,9,11,11,12|4,11,7,6,10",,GRAND_SLAM,MS,94,Qualification,ROCHA Paulo (BRA),MANCINI Eric (BRA),ROCHA Paulo
+World Tour Brazil Open Santos 2012,2012-06-13,ROCHA Paulo,DI SALVO Adriel,4,0,"11,11,11,11|9,8,7,8",,GRAND_SLAM,MS,94,Qualification,ROCHA Paulo (BRA),DI SALVO Adriel (ARG),ROCHA Paulo
+World Tour Brazil Open Santos 2012,2012-06-13,MANCINI Eric,DI SALVO Adriel,4,2,"8,11,11,11,11,11|11,13,7,5,3,3",,GRAND_SLAM,MS,94,Qualification,MANCINI Eric (BRA),DI SALVO Adriel (ARG),MANCINI Eric
+World Tour Brazil Open Santos 2012,2012-06-13,ISHIY Vitor,VENTURA DOS ANJOS Bruno,4,0,"11,11,11,11|7,8,3,0",,GRAND_SLAM,MS,94,Qualification,ISHIY Vitor (BRA),VENTURA DOS ANJOS Bruno (BRA),ISHIY Vitor
+World Tour Brazil Open Santos 2012,2012-06-13,WANG Timothy,VENTURA DOS ANJOS Bruno,4,0,,,GRAND_SLAM,MS,94,Qualification,WANG Timothy (USA),VENTURA DOS ANJOS Bruno (BRA),WANG Timothy
+World Tour Brazil Open Santos 2012,2012-06-13,ISHIY Vitor,WANG Timothy,4,0,"11,11,11,11|6,8,8,9",,GRAND_SLAM,MS,94,Qualification,ISHIY Vitor (BRA),WANG Timothy (USA),ISHIY Vitor
+World Tour Brazil Open Santos 2012,2012-06-13,MANHANI Humberto,CANTUARIA Luan,4,0,"11,11,11,11|7,5,1,2",,GRAND_SLAM,MS,94,Qualification,MANHANI Humberto (BRA),CANTUARIA Luan (BRA),MANHANI Humberto
+World Tour Brazil Open Santos 2012,2012-06-13,CILLIS Javier,CANTUARIA Luan,4,0,"11,11,11,11|4,6,4,9",,GRAND_SLAM,MS,94,Qualification,CILLIS Javier (ARG),CANTUARIA Luan (BRA),CILLIS Javier
+World Tour Brazil Open Santos 2012,2012-06-13,MANHANI Humberto,CILLIS Javier,4,2,"11,11,11,11,9,11|3,9,9,13,11,8",,GRAND_SLAM,MS,94,Qualification,MANHANI Humberto (BRA),CILLIS Javier (ARG),MANHANI Humberto
+World Tour Brazil Open Santos 2012,2012-06-13,TOMA Danilo,MOSER Estevan,4,1,"8,11,11,11,11|11,5,4,6,8",,GRAND_SLAM,MS,94,Qualification,TOMA Danilo (BRA),MOSER Estevan (BRA),TOMA Danilo
+World Tour Brazil Open Santos 2012,2012-06-13,BACA Emir,MOSER Estevan,4,2,"4,11,11,11,3,14|11,6,9,5,11,12",,GRAND_SLAM,MS,94,Qualification,BACA Emir (ARG),MOSER Estevan (BRA),BACA Emir
+World Tour Brazil Open Santos 2012,2012-06-13,TOMA Danilo,BACA Emir,4,1,"11,13,9,11,11|9,11,11,8,7",,GRAND_SLAM,MS,94,Qualification,TOMA Danilo (BRA),BACA Emir (ARG),TOMA Danilo
+World Tour Brazil Open Santos 2012,2012-06-13,JOUTI Eric,WATANABE Rafael,4,0,"11,11,12,11|5,3,10,4",,GRAND_SLAM,MS,94,Qualification,JOUTI Eric (BRA),WATANABE Rafael (BRA),JOUTI Eric
+World Tour Brazil Open Santos 2012,2012-06-13,TENTI Fermin,WATANABE Rafael,4,2,"11,10,12,3,11,11|6,12,10,11,7,3",,GRAND_SLAM,MS,94,Qualification,TENTI Fermin (ARG),WATANABE Rafael (BRA),TENTI Fermin
+World Tour Brazil Open Santos 2012,2012-06-13,JOUTI Eric,TENTI Fermin,4,1,"7,11,11,11,11|11,7,8,5,5",,GRAND_SLAM,MS,94,Qualification,JOUTI Eric (BRA),TENTI Fermin (ARG),JOUTI Eric
+World Tour Brazil Open Santos 2012,2012-06-13,GILABERT Rodrigo,BUCCI Fabio,4,0,"11,11,11,11|1,6,3,2",,GRAND_SLAM,MS,94,Qualification,GILABERT Rodrigo (ARG),BUCCI Fabio (BRA),GILABERT Rodrigo
+World Tour Brazil Open Santos 2012,2012-06-13,GILABERT Rodrigo,SUEYASU Willian,4,1,"10,11,11,13,11|12,6,4,11,2",,GRAND_SLAM,MS,94,Qualification,GILABERT Rodrigo (ARG),SUEYASU Willian (BRA),GILABERT Rodrigo
+World Tour Brazil Open Santos 2012,2012-06-13,SOUZA Gustavo,BUCCI Fabio,4,0,"11,11,11,11|7,1,5,1",,GRAND_SLAM,MS,94,Qualification,SOUZA Gustavo (BRA),BUCCI Fabio (BRA),SOUZA Gustavo
+World Tour Brazil Open Santos 2012,2012-06-13,GILABERT Rodrigo,SOUZA Gustavo,4,1,"11,9,11,11,11|9,11,6,6,8",,GRAND_SLAM,MS,94,Qualification,GILABERT Rodrigo (ARG),SOUZA Gustavo (BRA),GILABERT Rodrigo
+World Tour Brazil Open Santos 2012,2012-06-13,SUEYASU Willian,BUCCI Fabio,4,0,"11,11,11,11|4,4,2,6",,GRAND_SLAM,MS,94,Qualification,SUEYASU Willian (BRA),BUCCI Fabio (BRA),SUEYASU Willian
+World Tour Brazil Open Santos 2012,2012-06-13,JOO Saehyuk,TENTI Fermin,4,0,"11,11,11,11|9,2,5,2",R32,GRAND_SLAM,MS,94,Main Draw,JOO Saehyuk (KOR),TENTI Fermin (ARG),JOO Saehyuk
+World Tour Brazil Open Santos 2012,2012-06-13,BENTSEN Allan,ROY Soumyadeep,4,2,"11,2,11,11,5,12|7,11,7,4,11,10",R32,GRAND_SLAM,MS,94,Main Draw,BENTSEN Allan (DEN),ROY Soumyadeep (IND),BENTSEN Allan
+World Tour Brazil Open Santos 2012,2012-06-13,SAHA Subhajit,TOMA Danilo,4,1,"9,11,11,11,11|11,6,6,7,8",R32,GRAND_SLAM,MS,94,Main Draw,SAHA Subhajit (IND),TOMA Danilo (BRA),SAHA Subhajit
+World Tour Brazil Open Santos 2012,2012-06-13,TSUBOI Gustavo,SHETTY Sanil,4,1,"11,11,6,11,11|9,8,11,3,6",R32,GRAND_SLAM,MS,94,Main Draw,TSUBOI Gustavo (BRA),SHETTY Sanil (IND),TSUBOI Gustavo
+World Tour Brazil Open Santos 2012,2012-06-13,CALDERANO Hugo,SAIVE Jean-Michel,4,0,"11,11,11,12|8,9,7,10",R32,GRAND_SLAM,MS,94,Main Draw,CALDERANO Hugo (BRA),SAIVE Jean-Michel (BEL),CALDERANO Hugo
+World Tour Brazil Open Santos 2012,2012-06-13,GHOSH Soumyajit,JEAN Lauric,4,3,"12,8,11,10,12,10,11|10,11,9,12,10,12,5",R32,GRAND_SLAM,MS,94,Main Draw,GHOSH Soumyajit (IND),JEAN Lauric (BEL),GHOSH Soumyajit
+World Tour Brazil Open Santos 2012,2012-06-13,MONTEIRO Thiago,NUYTINCK Cedric,4,1,"11,11,14,11,11|7,13,12,8,9",R32,GRAND_SLAM,MS,94,Main Draw,MONTEIRO Thiago (BRA),NUYTINCK Cedric (BEL),MONTEIRO Thiago
+World Tour Brazil Open Santos 2012,2012-06-13,FREITAS Marcos,JOUTI Eric,4,1,"11,11,11,9,11|5,9,6,11,8",R32,GRAND_SLAM,MS,94,Main Draw,FREITAS Marcos (POR),JOUTI Eric (BRA),FREITAS Marcos
+World Tour Brazil Open Santos 2012,2012-06-13,RYU Seungmin,KOHATSU Massao,4,0,"11,11,11,11|3,7,2,9",R32,GRAND_SLAM,MS,94,Main Draw,RYU Seungmin (KOR),KOHATSU Massao (BRA),RYU Seungmin
+World Tour Brazil Open Santos 2012,2012-06-13,DURAN Marc,ISHIY Vitor,4,0,"11,11,17,13|6,1,15,11",R32,GRAND_SLAM,MS,94,Main Draw,DURAN Marc (ESP),ISHIY Vitor (BRA),DURAN Marc
+World Tour Brazil Open Santos 2012,2012-06-13,ANTHONY Amalraj,ROCHA Paulo,4,1,"10,14,11,11,11|12,12,6,6,8",R32,GRAND_SLAM,MS,94,Main Draw,ANTHONY Amalraj (IND),ROCHA Paulo (BRA),ANTHONY Amalraj
+World Tour Brazil Open Santos 2012,2012-06-13,LEBESSON Emmanuel,MANHANI Humberto,4,0,"11,11,11,11|9,8,6,6",R32,GRAND_SLAM,MS,94,Main Draw,LEBESSON Emmanuel (FRA),MANHANI Humberto (BRA),LEBESSON Emmanuel
+World Tour Brazil Open Santos 2012,2012-06-13,MATSUMOTO Cazuo,JENKINS Ryan,4,2,"11,11,13,11,6,11|8,7,15,5,11,6",R32,GRAND_SLAM,MS,94,Main Draw,MATSUMOTO Cazuo (BRA),JENKINS Ryan (WAL),MATSUMOTO Cazuo
+World Tour Brazil Open Santos 2012,2012-06-13,HOYAMA Hugo,GILABERT Rodrigo,4,2,"11,11,8,14,11,11|13,6,11,12,5,9",R32,GRAND_SLAM,MS,94,Main Draw,HOYAMA Hugo (BRA),GILABERT Rodrigo (ARG),HOYAMA Hugo
+World Tour Brazil Open Santos 2012,2012-06-13,PISTEJ Lubomir,DESAI Harmeet,4,3,"9,11,9,11,9,11,11|11,4,11,7,11,7,6",R32,GRAND_SLAM,MS,94,Main Draw,PISTEJ Lubomir (SVK),DESAI Harmeet (IND),PISTEJ Lubomir
+World Tour Brazil Open Santos 2012,2012-06-13,OH Sangeun,MANCINI Eric,4,0,"11,12,11,11|9,10,3,6",R32,GRAND_SLAM,MS,94,Main Draw,OH Sangeun (KOR),MANCINI Eric (BRA),OH Sangeun
+World Tour Brazil Open Santos 2012,2012-06-13,JOO Saehyuk,BENTSEN Allan,4,2,"7,11,11,8,11,11|11,8,2,11,9,7",R16,GRAND_SLAM,MS,94,Main Draw,JOO Saehyuk (KOR),BENTSEN Allan (DEN),JOO Saehyuk
+World Tour Brazil Open Santos 2012,2012-06-13,TSUBOI Gustavo,SAHA Subhajit,4,0,"11,11,11,11|8,2,8,6",R16,GRAND_SLAM,MS,94,Main Draw,TSUBOI Gustavo (BRA),SAHA Subhajit (IND),TSUBOI Gustavo
+World Tour Brazil Open Santos 2012,2012-06-13,GHOSH Soumyajit,CALDERANO Hugo,4,2,"8,6,11,12,11,11|11,11,6,10,7,5",R16,GRAND_SLAM,MS,94,Main Draw,GHOSH Soumyajit (IND),CALDERANO Hugo (BRA),GHOSH Soumyajit
+World Tour Brazil Open Santos 2012,2012-06-13,FREITAS Marcos,MONTEIRO Thiago,4,0,"15,14,11,11|13,12,4,6",R16,GRAND_SLAM,MS,94,Main Draw,FREITAS Marcos (POR),MONTEIRO Thiago (BRA),FREITAS Marcos
+World Tour Brazil Open Santos 2012,2012-06-13,RYU Seungmin,DURAN Marc,4,0,"11,11,16,11|7,2,14,8",R16,GRAND_SLAM,MS,94,Main Draw,RYU Seungmin (KOR),DURAN Marc (ESP),RYU Seungmin
+World Tour Brazil Open Santos 2012,2012-06-13,LEBESSON Emmanuel,ANTHONY Amalraj,4,1,"11,11,11,11,11|7,3,8,13,4",R16,GRAND_SLAM,MS,94,Main Draw,LEBESSON Emmanuel (FRA),ANTHONY Amalraj (IND),LEBESSON Emmanuel
+World Tour Brazil Open Santos 2012,2012-06-13,MATSUMOTO Cazuo,HOYAMA Hugo,4,2,"11,8,12,8,11,11|7,11,10,11,9,9",R16,GRAND_SLAM,MS,94,Main Draw,MATSUMOTO Cazuo (BRA),HOYAMA Hugo (BRA),MATSUMOTO Cazuo
+World Tour Brazil Open Santos 2012,2012-06-13,OH Sangeun,PISTEJ Lubomir,4,2,"4,11,13,11,8,11|11,5,11,8,11,7",R16,GRAND_SLAM,MS,94,Main Draw,OH Sangeun (KOR),PISTEJ Lubomir (SVK),OH Sangeun
+World Tour Brazil Open Santos 2012,2012-06-13,JOO Saehyuk,TSUBOI Gustavo,4,0,"11,11,11,11|4,6,9,8",QF,GRAND_SLAM,MS,94,Main Draw,JOO Saehyuk (KOR),TSUBOI Gustavo (BRA),JOO Saehyuk
+World Tour Brazil Open Santos 2012,2012-06-13,FREITAS Marcos,GHOSH Soumyajit,4,0,"11,11,11,11|7,5,1,6",QF,GRAND_SLAM,MS,94,Main Draw,FREITAS Marcos (POR),GHOSH Soumyajit (IND),FREITAS Marcos
+World Tour Brazil Open Santos 2012,2012-06-13,LEBESSON Emmanuel,RYU Seungmin,4,2,"11,11,11,10,7,11|4,6,9,12,11,8",QF,GRAND_SLAM,MS,94,Main Draw,LEBESSON Emmanuel (FRA),RYU Seungmin (KOR),LEBESSON Emmanuel
+World Tour Brazil Open Santos 2012,2012-06-13,OH Sangeun,MATSUMOTO Cazuo,4,2,"4,11,11,10,11,11|11,4,5,12,4,8",QF,GRAND_SLAM,MS,94,Main Draw,OH Sangeun (KOR),MATSUMOTO Cazuo (BRA),OH Sangeun
+World Tour Brazil Open Santos 2012,2012-06-13,JOO Saehyuk,FREITAS Marcos,4,2,"7,11,9,11,11,11|11,7,11,7,7,3",SF,GRAND_SLAM,MS,94,Main Draw,JOO Saehyuk (KOR),FREITAS Marcos (POR),JOO Saehyuk
+World Tour Brazil Open Santos 2012,2012-06-13,OH Sangeun,LEBESSON Emmanuel,4,1,"11,6,11,12,11|7,11,7,10,3",SF,GRAND_SLAM,MS,94,Main Draw,OH Sangeun (KOR),LEBESSON Emmanuel (FRA),OH Sangeun
+World Tour Brazil Open Santos 2012,2012-06-13,OH Sangeun,JOO Saehyuk,4,1,"11,11,4,11,11|3,9,11,8,5",F,GRAND_SLAM,MS,94,Main Draw,OH Sangeun (KOR),JOO Saehyuk (KOR),OH Sangeun
+World Tour Brazil Open Santos 2012,2012-06-13,WANG Yuegu,GUI Lin,4,0,"11,11,11,11|3,2,8,1",R32,GRAND_SLAM,WS,94,Main Draw,WANG Yuegu (SGP),GUI Lin (BRA),WANG Yuegu
+World Tour Brazil Open Santos 2012,2012-06-13,HUANG Yi-Hua,ZHANG Lily,4,3,"10,11,3,4,11,11,11|12,9,11,11,8,9,2",R32,GRAND_SLAM,WS,94,Main Draw,HUANG Yi-Hua (TPE),ZHANG Lily (USA),HUANG Yi-Hua
+World Tour Brazil Open Santos 2012,2012-06-13,GHATAK Poulomi,KUMAHARA Luca,4,0,"11,11,11,11|5,5,6,3",R32,GRAND_SLAM,WS,94,Main Draw,GHATAK Poulomi (IND),KUMAHARA Luca (BRA),GHATAK Poulomi
+World Tour Brazil Open Santos 2012,2012-06-13,SEOK Hajung,PAUL Mousumi,4,0,"11,11,11,11|7,9,6,9",R32,GRAND_SLAM,WS,94,Main Draw,SEOK Hajung (KOR),PAUL Mousumi (IND),SEOK Hajung
+World Tour Brazil Open Santos 2012,2012-06-13,DANG Yeseo,SILVA Yadira,4,0,"11,11,11,11|7,1,6,2",R32,GRAND_SLAM,WS,94,Main Draw,DANG Yeseo (KOR),SILVA Yadira (MEX),DANG Yeseo
+World Tour Brazil Open Santos 2012,2012-06-13,ONO Shiho,DAS Ankita,4,0,"11,12,11,11|3,10,3,8",R32,GRAND_SLAM,WS,94,Main Draw,ONO Shiho (JPN),DAS Ankita (IND),ONO Shiho
+World Tour Brazil Open Santos 2012,2012-06-13,XIAN Yifang,KUMARESAN Shamini,4,2,"11,11,11,9,3,11|5,3,2,11,11,7",R32,GRAND_SLAM,WS,94,Main Draw,XIAN Yifang (FRA),KUMARESAN Shamini (IND),XIAN Yifang
+World Tour Brazil Open Santos 2012,2012-06-13,KIM Kyungah,VEGA Paulina,4,0,"11,11,11,11|5,6,3,4",R32,GRAND_SLAM,WS,94,Main Draw,KIM Kyungah (KOR),VEGA Paulina (CHI),KIM Kyungah
+World Tour Brazil Open Santos 2012,2012-06-13,FUKUHARA Ai,BATRA Manika,4,0,"11,11,11,11|8,9,4,8",R32,GRAND_SLAM,WS,94,Main Draw,FUKUHARA Ai (JPN),BATRA Manika (IND),FUKUHARA Ai
+World Tour Brazil Open Santos 2012,2012-06-13,HSING Ariel,MEDINA Paula,4,2,"9,11,7,12,11,11|11,3,11,10,7,9",R32,GRAND_SLAM,WS,94,Main Draw,HSING Ariel (USA),MEDINA Paula (COL),HSING Ariel
+World Tour Brazil Open Santos 2012,2012-06-13,LI Xue,STEFANSKA Kinga,4,0,"11,11,11,11|4,5,8,7",R32,GRAND_SLAM,WS,94,Main Draw,LI Xue (FRA),STEFANSKA Kinga (POL),LI Xue
+World Tour Brazil Open Santos 2012,2012-06-13,LI Jiawei,WU Yue,4,0,"11,11,11,11|7,6,6,5",R32,GRAND_SLAM,WS,94,Main Draw,LI Jiawei (SGP),WU Yue (USA),LI Jiawei
+World Tour Brazil Open Santos 2012,2012-06-13,LI Qian,YAMADA Jessica,4,0,"11,11,11,11|7,2,4,7",R32,GRAND_SLAM,WS,94,Main Draw,LI Qian (POL),YAMADA Jessica (BRA),LI Qian
+World Tour Brazil Open Santos 2012,2012-06-13,LIU Nai Hui,DESHPANDE Divya,4,3,"6,11,11,5,11,9,11|11,5,9,11,8,11,7",R32,GRAND_SLAM,WS,94,Main Draw,LIU Nai Hui (USA),DESHPANDE Divya (IND),LIU Nai Hui
+World Tour Brazil Open Santos 2012,2012-06-13,NONAKA Yuki,DAS Mouma,4,2,"11,11,11,4,6,11|9,5,3,11,11,2",R32,GRAND_SLAM,WS,94,Main Draw,NONAKA Yuki (JPN),DAS Mouma (IND),NONAKA Yuki
+World Tour Brazil Open Santos 2012,2012-06-13,FENG Tianwei,SILVA Ligia,4,0,"11,11,11,11|6,5,4,7",R32,GRAND_SLAM,WS,94,Main Draw,FENG Tianwei (SGP),SILVA Ligia (BRA),FENG Tianwei
+World Tour Brazil Open Santos 2012,2012-06-13,WANG Yuegu,HUANG Yi-Hua,4,2,"10,7,11,11,11,12|12,11,9,3,5,10",R16,GRAND_SLAM,WS,94,Main Draw,WANG Yuegu (SGP),HUANG Yi-Hua (TPE),WANG Yuegu
+World Tour Brazil Open Santos 2012,2012-06-13,SEOK Hajung,GHATAK Poulomi,4,1,"9,11,11,11,11|11,6,9,6,9",R16,GRAND_SLAM,WS,94,Main Draw,SEOK Hajung (KOR),GHATAK Poulomi (IND),SEOK Hajung
+World Tour Brazil Open Santos 2012,2012-06-13,DANG Yeseo,ONO Shiho,4,0,"11,11,11,11|7,7,4,3",R16,GRAND_SLAM,WS,94,Main Draw,DANG Yeseo (KOR),ONO Shiho (JPN),DANG Yeseo
+World Tour Brazil Open Santos 2012,2012-06-13,KIM Kyungah,XIAN Yifang,4,0,"11,11,11,11|4,7,3,4",R16,GRAND_SLAM,WS,94,Main Draw,KIM Kyungah (KOR),XIAN Yifang (FRA),KIM Kyungah
+World Tour Brazil Open Santos 2012,2012-06-13,FUKUHARA Ai,HSING Ariel,4,0,"11,11,11,11|2,3,9,6",R16,GRAND_SLAM,WS,94,Main Draw,FUKUHARA Ai (JPN),HSING Ariel (USA),FUKUHARA Ai
+World Tour Brazil Open Santos 2012,2012-06-13,LI Jiawei,LI Xue,4,2,"11,11,4,11,8,11|7,7,11,5,11,3",R16,GRAND_SLAM,WS,94,Main Draw,LI Jiawei (SGP),LI Xue (FRA),LI Jiawei
+World Tour Brazil Open Santos 2012,2012-06-13,LI Qian,LIU Nai Hui,4,0,"11,11,13,11|9,3,11,5",R16,GRAND_SLAM,WS,94,Main Draw,LI Qian (POL),LIU Nai Hui (USA),LI Qian
+World Tour Brazil Open Santos 2012,2012-06-13,FENG Tianwei,NONAKA Yuki,4,0,"11,11,11,11|9,7,8,3",R16,GRAND_SLAM,WS,94,Main Draw,FENG Tianwei (SGP),NONAKA Yuki (JPN),FENG Tianwei
+World Tour Brazil Open Santos 2012,2012-06-13,SEOK Hajung,WANG Yuegu,4,3,"5,7,11,6,11,11,11|11,11,3,11,7,6,5",QF,GRAND_SLAM,WS,94,Main Draw,SEOK Hajung (KOR),WANG Yuegu (SGP),SEOK Hajung
+World Tour Brazil Open Santos 2012,2012-06-13,KIM Kyungah,DANG Yeseo,4,0,"11,11,11,13|5,6,5,11",QF,GRAND_SLAM,WS,94,Main Draw,KIM Kyungah (KOR),DANG Yeseo (KOR),KIM Kyungah
+World Tour Brazil Open Santos 2012,2012-06-13,FUKUHARA Ai,LI Jiawei,4,0,"15,11,11,18|13,6,8,16",QF,GRAND_SLAM,WS,94,Main Draw,FUKUHARA Ai (JPN),LI Jiawei (SGP),FUKUHARA Ai
+World Tour Brazil Open Santos 2012,2012-06-13,FENG Tianwei,LI Qian,4,2,"8,11,12,8,11,11|11,9,10,11,8,9",QF,GRAND_SLAM,WS,94,Main Draw,FENG Tianwei (SGP),LI Qian (POL),FENG Tianwei
+World Tour Brazil Open Santos 2012,2012-06-13,KIM Kyungah,SEOK Hajung,4,1,"11,6,12,11,11|8,11,10,5,4",SF,GRAND_SLAM,WS,94,Main Draw,KIM Kyungah (KOR),SEOK Hajung (KOR),KIM Kyungah
+World Tour Brazil Open Santos 2012,2012-06-13,FENG Tianwei,FUKUHARA Ai,4,1,"10,11,11,11,11|12,8,6,3,7",SF,GRAND_SLAM,WS,94,Main Draw,FENG Tianwei (SGP),FUKUHARA Ai (JPN),FENG Tianwei
+World Tour Brazil Open Santos 2012,2012-06-13,KIM Kyungah,FENG Tianwei,4,2,"6,12,9,11,11,11|11,10,11,8,8,6",F,GRAND_SLAM,WS,94,Main Draw,KIM Kyungah (KOR),FENG Tianwei (SGP),KIM Kyungah
+World Tour Brazil Open Santos 2012,2012-06-13,GHOSH Soumyajit,MOSER Estevan,3,0,"11,11,11|9,4,9",R16,GRAND_SLAM,U21MS,94,Main Draw,GHOSH Soumyajit (IND),MOSER Estevan (BRA),GHOSH Soumyajit
+World Tour Brazil Open Santos 2012,2012-06-13,BACA Emir,TOMA Danilo,3,2,"11,11,6,7,11|8,8,11,11,9",R16,GRAND_SLAM,U21MS,94,Main Draw,BACA Emir (ARG),TOMA Danilo (BRA),BACA Emir
+World Tour Brazil Open Santos 2012,2012-06-13,JOUTI Eric,GILABERT Rodrigo,3,1,"11,11,11,11|7,13,7,3",R16,GRAND_SLAM,U21MS,94,Main Draw,JOUTI Eric (BRA),GILABERT Rodrigo (ARG),JOUTI Eric
+World Tour Brazil Open Santos 2012,2012-06-13,DESAI Harmeet,ISHIY Vitor,3,1,"11,11,4,11|5,9,11,6",R16,GRAND_SLAM,U21MS,94,Main Draw,DESAI Harmeet (IND),ISHIY Vitor (BRA),DESAI Harmeet
+World Tour Brazil Open Santos 2012,2012-06-13,CALDERANO Hugo,DI SALVO Adriel,3,1,"11,11,7,11|5,9,11,8",R16,GRAND_SLAM,U21MS,94,Main Draw,CALDERANO Hugo (BRA),DI SALVO Adriel (ARG),CALDERANO Hugo
+World Tour Brazil Open Santos 2012,2012-06-13,WANG Timothy,YAMADA Jeff,3,0,"11,11,11|9,9,8",R16,GRAND_SLAM,U21MS,94,Main Draw,WANG Timothy (USA),YAMADA Jeff (BRA),WANG Timothy
+World Tour Brazil Open Santos 2012,2012-06-13,NUYTINCK Cedric,SOUZA Gustavo,3,1,"11,12,9,11|4,10,11,4",R16,GRAND_SLAM,U21MS,94,Main Draw,NUYTINCK Cedric (BEL),SOUZA Gustavo (BRA),NUYTINCK Cedric
+World Tour Brazil Open Santos 2012,2012-06-13,JEAN Lauric,SANTOS Nicolas,3,0,"11,11,11|5,7,9",R16,GRAND_SLAM,U21MS,94,Main Draw,JEAN Lauric (BEL),SANTOS Nicolas (BRA),JEAN Lauric
+World Tour Brazil Open Santos 2012,2012-06-13,GHOSH Soumyajit,BACA Emir,4,0,"11,11,11,11|7,8,9,6",QF,GRAND_SLAM,U21MS,94,Main Draw,GHOSH Soumyajit (IND),BACA Emir (ARG),GHOSH Soumyajit
+World Tour Brazil Open Santos 2012,2012-06-13,DESAI Harmeet,JOUTI Eric,4,1,"12,11,7,11,11|10,3,11,5,5",QF,GRAND_SLAM,U21MS,94,Main Draw,DESAI Harmeet (IND),JOUTI Eric (BRA),DESAI Harmeet
+World Tour Brazil Open Santos 2012,2012-06-13,CALDERANO Hugo,WANG Timothy,4,0,"11,11,11,11|7,8,8,4",QF,GRAND_SLAM,U21MS,94,Main Draw,CALDERANO Hugo (BRA),WANG Timothy (USA),CALDERANO Hugo
+World Tour Brazil Open Santos 2012,2012-06-13,NUYTINCK Cedric,JEAN Lauric,4,3,"6,11,11,11,8,7,11|11,3,7,8,11,11,6",QF,GRAND_SLAM,U21MS,94,Main Draw,NUYTINCK Cedric (BEL),JEAN Lauric (BEL),NUYTINCK Cedric
+World Tour Brazil Open Santos 2012,2012-06-13,DESAI Harmeet,GHOSH Soumyajit,4,2,"10,11,6,11,11,11|12,8,11,1,4,4",SF,GRAND_SLAM,U21MS,94,Main Draw,DESAI Harmeet (IND),GHOSH Soumyajit (IND),DESAI Harmeet
+World Tour Brazil Open Santos 2012,2012-06-13,NUYTINCK Cedric,CALDERANO Hugo,4,2,"9,14,11,11,11,11|11,16,9,9,3,7",SF,GRAND_SLAM,U21MS,94,Main Draw,NUYTINCK Cedric (BEL),CALDERANO Hugo (BRA),NUYTINCK Cedric
+World Tour Brazil Open Santos 2012,2012-06-13,DESAI Harmeet,NUYTINCK Cedric,4,2,"11,6,11,11,5,11|3,11,6,9,11,6",F,GRAND_SLAM,U21MS,94,Main Draw,DESAI Harmeet (IND),NUYTINCK Cedric (BEL),DESAI Harmeet
+World Tour Brazil Open Santos 2012,2012-06-13,HSING Ariel,BATRA Manika,4,2,"11,11,11,6,8,11|7,7,7,11,11,4",QF,GRAND_SLAM,U21WS,94,Main Draw,HSING Ariel (USA),BATRA Manika (IND),HSING Ariel
+World Tour Brazil Open Santos 2012,2012-06-13,DAS Ankita,KAWAI Katia,4,0,"11,11,12,12|8,4,10,10",QF,GRAND_SLAM,U21WS,94,Main Draw,DAS Ankita (IND),KAWAI Katia (BRA),DAS Ankita
+World Tour Brazil Open Santos 2012,2012-06-13,KUMAHARA Luca,WU Erica,4,3,"5,6,11,11,14,9,11|11,11,7,6,12,11,7",QF,GRAND_SLAM,U21WS,94,Main Draw,KUMAHARA Luca (BRA),WU Erica (USA),KUMAHARA Luca
+World Tour Brazil Open Santos 2012,2012-06-13,ZHANG Lily,GUI Lin,4,0,"11,11,11,11|5,5,7,7",QF,GRAND_SLAM,U21WS,94,Main Draw,ZHANG Lily (USA),GUI Lin (BRA),ZHANG Lily
+World Tour Brazil Open Santos 2012,2012-06-13,HSING Ariel,DAS Ankita,4,0,"11,11,11,11|6,9,9,5",SF,GRAND_SLAM,U21WS,94,Main Draw,HSING Ariel (USA),DAS Ankita (IND),HSING Ariel
+World Tour Brazil Open Santos 2012,2012-06-13,ZHANG Lily,KUMAHARA Luca,4,2,"12,11,11,11,8,11|14,5,7,9,11,5",SF,GRAND_SLAM,U21WS,94,Main Draw,ZHANG Lily (USA),KUMAHARA Luca (BRA),ZHANG Lily
+World Tour Brazil Open Santos 2012,2012-06-13,HSING Ariel,ZHANG Lily,4,2,"11,10,4,11,11,12|9,12,11,5,7,10",F,GRAND_SLAM,U21WS,94,Main Draw,HSING Ariel (USA),ZHANG Lily (USA),HSING Ariel
+World Tour Brazil Open Santos 2012,2012-06-13,HOYAMA Hugo/MANCINI Eric,BACA Emir/DI SALVO Adriel,3,0,"11,11,11|5,6,7",R16,GRAND_SLAM,MD,94,Main Draw,HOYAMA Hugo (BRA) / MANCINI Eric (BRA),BACA Emir (ARG) / DI SALVO Adriel (ARG),HOYAMA Hugo
+World Tour Brazil Open Santos 2012,2012-06-13,MONTEIRO Thiago/TSUBOI Gustavo,GILABERT Rodrigo/TENTI Fermin,3,1,"11,3,11,11|2,11,7,7",R16,GRAND_SLAM,MD,94,Main Draw,MONTEIRO Thiago (BRA) / TSUBOI Gustavo (BRA),GILABERT Rodrigo (ARG) / TENTI Fermin (ARG),MONTEIRO Thiago
+World Tour Brazil Open Santos 2012,2012-06-13,MONTEIRO Thiago/TSUBOI Gustavo,JEAN Lauric/NUYTINCK Cedric,4,0,"11,11,11,11|5,4,7,5",QF,GRAND_SLAM,MD,94,Main Draw,MONTEIRO Thiago (BRA) / TSUBOI Gustavo (BRA),JEAN Lauric (BEL) / NUYTINCK Cedric (BEL),MONTEIRO Thiago
+World Tour Brazil Open Santos 2012,2012-06-13,CALDERANO Hugo/MATSUMOTO Cazuo,ANTHONY Amalraj/GHOSH Soumyajit,3,0,"11,11,11|6,3,6",R16,GRAND_SLAM,MD,94,Main Draw,CALDERANO Hugo (BRA) / MATSUMOTO Cazuo (BRA),ANTHONY Amalraj (IND) / GHOSH Soumyajit (IND),CALDERANO Hugo
+World Tour Brazil Open Santos 2012,2012-06-13,ROY Soumyadeep/SAHA Subhajit,ISHIY Vitor/JOUTI Eric,3,2,"7,6,11,11,11|11,11,9,8,7",R16,GRAND_SLAM,MD,94,Main Draw,ROY Soumyadeep (IND) / SAHA Subhajit (IND),ISHIY Vitor (BRA) / JOUTI Eric (BRA),ROY Soumyadeep
+World Tour Brazil Open Santos 2012,2012-06-13,MANHANI Humberto/TOMA Danilo,CILLIS Javier/WANG Timothy,3,0,"11,11,11|5,6,8",R16,GRAND_SLAM,MD,94,Main Draw,MANHANI Humberto (BRA) / TOMA Danilo (BRA),CILLIS Javier (ARG) / WANG Timothy (USA),MANHANI Humberto
+World Tour Brazil Open Santos 2012,2012-06-13,DURAN Marc/LEBESSON Emmanuel,SOUZA Gustavo/YAMADA Jeff,3,0,"11,12,11|7,10,1",R16,GRAND_SLAM,MD,94,Main Draw,DURAN Marc (ESP) / LEBESSON Emmanuel (FRA),SOUZA Gustavo (BRA) / YAMADA Jeff (BRA),DURAN Marc
+World Tour Brazil Open Santos 2012,2012-06-13,CALDERANO Hugo/MATSUMOTO Cazuo,ROY Soumyadeep/SAHA Subhajit,4,0,"11,11,15,11|4,9,13,9",QF,GRAND_SLAM,MD,94,Main Draw,CALDERANO Hugo (BRA) / MATSUMOTO Cazuo (BRA),ROY Soumyadeep (IND) / SAHA Subhajit (IND),CALDERANO Hugo
+World Tour Brazil Open Santos 2012,2012-06-13,DURAN Marc/LEBESSON Emmanuel,MANHANI Humberto/TOMA Danilo,4,2,"11,11,13,7,3,11|5,8,11,11,11,6",QF,GRAND_SLAM,MD,94,Main Draw,DURAN Marc (ESP) / LEBESSON Emmanuel (FRA),MANHANI Humberto (BRA) / TOMA Danilo (BRA),DURAN Marc
+World Tour Brazil Open Santos 2012,2012-06-13,CALDERANO Hugo/MATSUMOTO Cazuo,DURAN Marc/LEBESSON Emmanuel,4,2,"8,10,11,11,11,13|11,12,5,7,3,11",SF,GRAND_SLAM,MD,94,Main Draw,CALDERANO Hugo (BRA) / MATSUMOTO Cazuo (BRA),DURAN Marc (ESP) / LEBESSON Emmanuel (FRA),CALDERANO Hugo
+World Tour Brazil Open Santos 2012,2012-06-13,HSING Ariel/ZHANG Lily,OHIRA Lia/SOUZA YAMAMOTO Sarah,3,0,"11,11,11|6,2,2",R16,GRAND_SLAM,WD,94,Main Draw,HSING Ariel (USA) / ZHANG Lily (USA),OHIRA Lia (BRA) / SOUZA YAMAMOTO Sarah (BRA),HSING Ariel
+World Tour Brazil Open Santos 2012,2012-06-13,MEDINA Paula/SILVA Yadira,SILVA Ligia/YAMADA Jessica,3,2,"4,5,13,11,11|11,11,11,9,5",R16,GRAND_SLAM,WD,94,Main Draw,MEDINA Paula (COL) / SILVA Yadira (MEX),SILVA Ligia (BRA) / YAMADA Jessica (BRA),MEDINA Paula
+World Tour Brazil Open Santos 2012,2012-06-13,NONAKA Yuki/STEFANSKA Kinga,HAYAMA Karina/KAWAI Katia,3,0,"11,11,11|8,2,3",R16,GRAND_SLAM,WD,94,Main Draw,NONAKA Yuki (JPN) / STEFANSKA Kinga (POL),HAYAMA Karina (BRA) / KAWAI Katia (BRA),NONAKA Yuki
+World Tour Brazil Open Santos 2012,2012-06-13,RODRIGUEZ Berta/VEGA Paulina,GUI Lin/KUMAHARA Luca,3,2,"10,11,11,11,12|12,5,8,13,10",R16,GRAND_SLAM,WD,94,Main Draw,RODRIGUEZ Berta (CHI) / VEGA Paulina (CHI),GUI Lin (BRA) / KUMAHARA Luca (BRA),RODRIGUEZ Berta
+World Tour Brazil Open Santos 2012,2012-06-13,DANG Yeseo/SEOK Hajung,RODRIGUEZ Berta/VEGA Paulina,4,0,"11,11,11,12|7,8,5,10",QF,GRAND_SLAM,WD,94,Main Draw,DANG Yeseo (KOR) / SEOK Hajung (KOR),RODRIGUEZ Berta (CHI) / VEGA Paulina (CHI),DANG Yeseo
+World Tour Brazil Open Santos 2012,2012-06-13,LI Jiawei/WANG Yuegu,DESHPANDE Divya/PAUL Mousumi,3,0,"11,11,11|6,9,3",R16,GRAND_SLAM,WD,94,Main Draw,LI Jiawei (SGP) / WANG Yuegu (SGP),DESHPANDE Divya (IND) / PAUL Mousumi (IND),LI Jiawei
+World Tour Brazil Open Santos 2012,2012-06-13,LI Jiawei/WANG Yuegu,DAS Mouma/GHATAK Poulomi,4,2,"6,11,9,12,11,11|11,6,11,10,4,6",QF,GRAND_SLAM,WD,94,Main Draw,LI Jiawei (SGP) / WANG Yuegu (SGP),DAS Mouma (IND) / GHATAK Poulomi (IND),LI Jiawei
+World Tour Brazil Open Santos 2012,2012-06-13,DAS Mouma/GHATAK Poulomi,DIAS Priscila/TOMA Lais,3,0,"11,11,11|1,4,5",QR4,GRAND_SLAM,WD,94,Qualification,DAS Mouma (IND) / GHATAK Poulomi (IND),DIAS Priscila (BRA) / TOMA Lais (BRA),DAS Mouma
+World Tour Brazil Open Santos 2012,2012-06-13,FUKUHARA Ai/ONO Shiho,DAS Ankita/KUMARESAN Shamini,3,0,"11,11,11|8,5,8",R16,GRAND_SLAM,WD,94,Main Draw,FUKUHARA Ai (JPN) / ONO Shiho (JPN),DAS Ankita (IND) / KUMARESAN Shamini (IND),FUKUHARA Ai
+World Tour Brazil Open Santos 2012,2012-06-13,FUKUHARA Ai/ONO Shiho,HSING Ariel/ZHANG Lily,4,2,"11,7,13,11,4,11|4,11,11,4,11,5",QF,GRAND_SLAM,WD,94,Main Draw,FUKUHARA Ai (JPN) / ONO Shiho (JPN),HSING Ariel (USA) / ZHANG Lily (USA),FUKUHARA Ai
+World Tour Brazil Open Santos 2012,2012-06-13,DANG Yeseo/SEOK Hajung,FUKUHARA Ai/ONO Shiho,4,0,"11,11,11,11|8,6,7,9",SF,GRAND_SLAM,WD,94,Main Draw,DANG Yeseo (KOR) / SEOK Hajung (KOR),FUKUHARA Ai (JPN) / ONO Shiho (JPN),DANG Yeseo
+World Tour Brazil Open Santos 2012,2012-06-13,OH Sangeun/RYU Seungmin,HOYAMA Hugo/MANCINI Eric,4,0,"11,11,11,11|7,6,6,5",QF,GRAND_SLAM,MD,94,Main Draw,OH Sangeun (KOR) / RYU Seungmin (KOR),HOYAMA Hugo (BRA) / MANCINI Eric (BRA),OH Sangeun
+World Tour Brazil Open Santos 2012,2012-06-13,OH Sangeun/RYU Seungmin,MONTEIRO Thiago/TSUBOI Gustavo,4,2,"7,11,11,9,11,11|11,7,9,11,3,7",SF,GRAND_SLAM,MD,94,Main Draw,OH Sangeun (KOR) / RYU Seungmin (KOR),MONTEIRO Thiago (BRA) / TSUBOI Gustavo (BRA),OH Sangeun
+World Tour Brazil Open Santos 2012,2012-06-13,OH Sangeun/RYU Seungmin,CALDERANO Hugo/MATSUMOTO Cazuo,4,2,"8,11,9,11,11,11|11,3,11,8,3,5",F,GRAND_SLAM,MD,94,Main Draw,OH Sangeun (KOR) / RYU Seungmin (KOR),CALDERANO Hugo (BRA) / MATSUMOTO Cazuo (BRA),OH Sangeun
+World Tour Brazil Open Santos 2012,2012-06-13,LI Jiawei/WANG Yuegu,DANG Yeseo/SEOK Hajung,4,3,"8,11,11,3,11,12,12|11,6,13,11,5,10,10",F,GRAND_SLAM,WD,94,Main Draw,LI Jiawei (SGP) / WANG Yuegu (SGP),DANG Yeseo (KOR) / SEOK Hajung (KOR),LI Jiawei
+World Tour Brazil Open Santos 2012,2012-06-13,NONAKA Yuki/STEFANSKA Kinga,MEDINA Paula/SILVA Yadira,4,0,"11,11,11,11|9,9,7,7",QF,GRAND_SLAM,WD,94,Main Draw,NONAKA Yuki (JPN) / STEFANSKA Kinga (POL),MEDINA Paula (COL) / SILVA Yadira (MEX),NONAKA Yuki
+World Tour Brazil Open Santos 2012,2012-06-13,LI Jiawei/WANG Yuegu,NONAKA Yuki/STEFANSKA Kinga,4,0,"13,11,11,11|11,6,7,6",SF,GRAND_SLAM,WD,94,Main Draw,LI Jiawei (SGP) / WANG Yuegu (SGP),NONAKA Yuki (JPN) / STEFANSKA Kinga (POL),LI Jiawei
+World Tour Brazil Open Santos 2012,2012-06-13,JEAN Lauric/NUYTINCK Cedric,BENTSEN Allan/PISTEJ Lubomir,3,2,"11,12,11,9,12|9,10,13,11,10",R16,GRAND_SLAM,MD,94,Main Draw,JEAN Lauric (BEL) / NUYTINCK Cedric (BEL),BENTSEN Allan (DEN) / PISTEJ Lubomir (SVK),JEAN Lauric
+World Tour Brazil Open Santos 2012,2012-06-13,DANG Yeseo/SEOK Hajung,CODINA Ana/WU Erica,3,0,"11,11,11|8,6,1",R16,GRAND_SLAM,WD,94,Main Draw,DANG Yeseo (KOR) / SEOK Hajung (KOR),CODINA Ana (ARG) / WU Erica (USA),DANG Yeseo
+World Tour Brazil Open Santos 2012,2012-06-13,DAS Mouma/GHATAK Poulomi,LIU Nai Hui/WU Yue,3,0,"11,11,12|5,4,10",R16,GRAND_SLAM,WD,94,Main Draw,DAS Mouma (IND) / GHATAK Poulomi (IND),LIU Nai Hui (USA) / WU Yue (USA),DAS Mouma
+World Tour Brazil Open Santos 2012,2012-06-13,CODINA Ana/WU Erica,EDAMATSU Cassia/KAJIHARA Caroline,3,0,"11,11,11|6,5,7",QR4,GRAND_SLAM,WD,94,Qualification,CODINA Ana (ARG) / WU Erica (USA),EDAMATSU Cassia (BRA) / KAJIHARA Caroline (BRA),CODINA Ana

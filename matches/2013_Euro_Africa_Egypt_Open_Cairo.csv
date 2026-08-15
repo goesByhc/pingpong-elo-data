@@ -1,173 +1,173 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ALLEGRO Martin,ASSAR Khalid,4,2,"12,11,11,11,11,11|10,4,13,7,13,7",R32,GRAND_SLAM,MS,109,Main Draw,ALLEGRO Martin (BEL),ASSAR Khalid (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,MENGE Gencay,ZAGHLOUL Mahmoud,4,2,"12,11,11,8,8,11|10,9,9,11,11,8",R32,GRAND_SLAM,MS,109,Main Draw,MENGE Gencay (TUR),ZAGHLOUL Mahmoud (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,LI Ahmet,BEDAIR Omar,4,0,"11,11,11,11|8,6,4,3",R32,GRAND_SLAM,MS,109,Main Draw,LI Ahmet (TUR),BEDAIR Omar (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,GOLOVANOV Stanislav,AL-HASAN Salem,4,1,"11,11,11,11,11|6,13,9,4,5",R32,GRAND_SLAM,MS,109,Main Draw,GOLOVANOV Stanislav (BUL),AL-HASAN Salem (KUW)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,SHOUMAN Mohamed,ELDESSOUKY Mohamed,4,2,"11,11,11,5,8,11|7,6,7,11,11,7",R32,GRAND_SLAM,MS,109,Main Draw,SHOUMAN Mohamed (EGY),ELDESSOUKY Mohamed (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,MAHMOUD Abdulrahman,LASHIN Aly,4,3,"11,4,15,14,9,11,11|8,11,17,12,11,8,9",R32,GRAND_SLAM,MS,109,Main Draw,MAHMOUD Abdulrahman (EGY),LASHIN Aly (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,DURAN Marc,REDA Amr,4,0,"11,11,11,11|4,6,6,8",R32,GRAND_SLAM,MS,109,Main Draw,DURAN Marc (ESP),REDA Amr (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,SALIFOU Abdel-Kader,PAPADAKIS Ioannis,4,1,"11,11,11,11,11|13,7,2,6,4",R32,GRAND_SLAM,MS,109,Main Draw,SALIFOU Abdel-Kader (BEN),PAPADAKIS Ioannis (GRE)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,SOBHY Ashraf,ELSOBKY Mohamed,4,0,"11,11,11,12|7,5,7,10",R32,GRAND_SLAM,MS,109,Main Draw,SOBHY Ashraf (EGY),ELSOBKY Mohamed (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,NADIM Ahmed,ALAA Bassel,4,2,"9,11,11,12,9,11|11,9,4,10,11,4",R32,GRAND_SLAM,MS,109,Main Draw,NADIM Ahmed (EGY),ALAA Bassel (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,SALEH Ahmed,SONBOL Shady,4,0,"12,11,11,11|10,6,7,6",R32,GRAND_SLAM,MS,109,Main Draw,SALEH Ahmed (EGY),SONBOL Shady (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,AL-HASAN Ibrahem,SOBHY Yasser,4,2,"17,9,11,11,9,11|15,11,5,7,11,9",R32,GRAND_SLAM,MS,109,Main Draw,AL-HASAN Ibrahem (KUW),SOBHY Yasser (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,INDEHERBERG Julien,ELBEIALI Mohamed,4,3,"5,11,16,6,11,2,11|11,7,14,11,8,11,7",R32,GRAND_SLAM,MS,109,Main Draw,INDEHERBERG Julien (BEL),ELBEIALI Mohamed (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,SONBOL Islam,SAEED Saiwan,4,1,"13,11,11,11,11|15,4,7,1,7",R32,GRAND_SLAM,MS,109,Main Draw,SONBOL Islam (EGY),SAEED Saiwan (IRQ)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ASSAR Omar,ZUNJANIN Radovan,4,0,"11,11,11,11|5,6,7,4",R32,GRAND_SLAM,MS,109,Main Draw,ASSAR Omar (EGY),ZUNJANIN Radovan (SRB)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,VANG Bora,ALLEGRO Martin,4,1,"7,11,11,11,11|11,5,6,2,6",R16,GRAND_SLAM,MS,109,Main Draw,VANG Bora (TUR),ALLEGRO Martin (BEL)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,LI Ahmet,MENGE Gencay,4,1,"11,8,11,11,11|7,11,7,6,8",R16,GRAND_SLAM,MS,109,Main Draw,LI Ahmet (TUR),MENGE Gencay (TUR)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,SHOUMAN Mohamed,GOLOVANOV Stanislav,4,2,"11,14,11,7,5,11|9,12,8,11,11,6",R16,GRAND_SLAM,MS,109,Main Draw,SHOUMAN Mohamed (EGY),GOLOVANOV Stanislav (BUL)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,DURAN Marc,MAHMOUD Abdulrahman,4,2,"11,9,11,11,4,11|6,11,7,8,11,7",R16,GRAND_SLAM,MS,109,Main Draw,DURAN Marc (ESP),MAHMOUD Abdulrahman (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,SALIFOU Abdel-Kader,SOBHY Ashraf,4,2,"9,11,11,9,12,12|11,6,6,11,10,10",R16,GRAND_SLAM,MS,109,Main Draw,SALIFOU Abdel-Kader (BEN),SOBHY Ashraf (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,SALEH Ahmed,NADIM Ahmed,4,1,"11,7,11,11,11|8,11,5,8,6",R16,GRAND_SLAM,MS,109,Main Draw,SALEH Ahmed (EGY),NADIM Ahmed (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,AL-HASAN Ibrahem,INDEHERBERG Julien,4,3,"12,4,11,9,8,11,11|10,11,7,11,11,4,7",R16,GRAND_SLAM,MS,109,Main Draw,AL-HASAN Ibrahem (KUW),INDEHERBERG Julien (BEL)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ASSAR Omar,SONBOL Islam,4,0,"11,11,11,11|2,8,6,1",R16,GRAND_SLAM,MS,109,Main Draw,ASSAR Omar (EGY),SONBOL Islam (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,LI Ahmet,VANG Bora,4,2,"11,10,11,11,4,11|9,12,9,6,11,5",QF,GRAND_SLAM,MS,109,Main Draw,LI Ahmet (TUR),VANG Bora (TUR)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,DURAN Marc,SHOUMAN Mohamed,4,0,"11,11,11,11|4,8,7,5",QF,GRAND_SLAM,MS,109,Main Draw,DURAN Marc (ESP),SHOUMAN Mohamed (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,SALIFOU Abdel-Kader,SALEH Ahmed,4,3,"9,16,7,11,10,11,11|11,14,11,6,12,6,9",QF,GRAND_SLAM,MS,109,Main Draw,SALIFOU Abdel-Kader (BEN),SALEH Ahmed (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ASSAR Omar,AL-HASAN Ibrahem,4,1,"8,11,11,11,11|11,4,7,9,8",QF,GRAND_SLAM,MS,109,Main Draw,ASSAR Omar (EGY),AL-HASAN Ibrahem (KUW)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,DURAN Marc,LI Ahmet,4,1,"11,11,11,6,11|3,9,5,11,8",SF,GRAND_SLAM,MS,109,Main Draw,DURAN Marc (ESP),LI Ahmet (TUR)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,SALIFOU Abdel-Kader,ASSAR Omar,4,1,"7,12,14,11,11|11,10,12,9,5",SF,GRAND_SLAM,MS,109,Main Draw,SALIFOU Abdel-Kader (BEN),ASSAR Omar (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,SALIFOU Abdel-Kader,DURAN Marc,4,3,"11,7,12,11,11,4,11|7,11,14,3,7,11,5",F,GRAND_SLAM,MS,109,Main Draw,SALIFOU Abdel-Kader (BEN),DURAN Marc (ESP)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,NOSKOVA Yana,HASSAN Sara,4,0,"11,11,11,11|7,3,9,6",R16,GRAND_SLAM,WS,109,Main Draw,NOSKOVA Yana (RUS),HASSAN Sara (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,KERTAI Rita,HOSAM Reem,4,0,"11,11,11,11|7,6,5,9",R16,GRAND_SLAM,WS,109,Main Draw,KERTAI Rita (HUN),HOSAM Reem (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,PAPADAKI Angeliki,NASSER Galila,4,2,"12,13,2,6,11,11|10,11,11,11,4,4",R16,GRAND_SLAM,WS,109,Main Draw,PAPADAKI Angeliki (GRE),NASSER Galila (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,DOLGIKH Maria,ABDELAZIZ Farah,4,0,"11,11,11,11|7,7,3,6",R16,GRAND_SLAM,WS,109,Main Draw,DOLGIKH Maria (RUS),ABDELAZIZ Farah (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,MESHREF Dina,ABDELAZIZ Shimaa,4,1,"12,11,11,9,11|10,8,4,11,8",R16,GRAND_SLAM,WS,109,Main Draw,MESHREF Dina (EGY),ABDELAZIZ Shimaa (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,VIVARELLI Debora,ELSHOBARY Reem,4,2,"11,9,11,11,6,11|5,11,9,6,11,4",R16,GRAND_SLAM,WS,109,Main Draw,VIVARELLI Debora (ITA),ELSHOBARY Reem (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,BIKBAEVA Anna,SHOUMAN Fagr,4,0,"11,11,13,11|4,8,11,8",R16,GRAND_SLAM,WS,109,Main Draw,BIKBAEVA Anna (RUS),SHOUMAN Fagr (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,CECHOVA Dana,ELDAWLATLY Nadeen,4,0,"11,11,11,11|6,5,8,5",R16,GRAND_SLAM,WS,109,Main Draw,CECHOVA Dana (CZE),ELDAWLATLY Nadeen (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,KERTAI Rita,NOSKOVA Yana,4,2,"5,11,11,11,11,11|11,13,8,8,9,2",QF,GRAND_SLAM,WS,109,Main Draw,KERTAI Rita (HUN),NOSKOVA Yana (RUS)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,DOLGIKH Maria,PAPADAKI Angeliki,4,0,"11,11,11,11|6,8,8,5",QF,GRAND_SLAM,WS,109,Main Draw,DOLGIKH Maria (RUS),PAPADAKI Angeliki (GRE)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,MESHREF Dina,VIVARELLI Debora,4,0,"11,12,11,11|5,10,9,3",QF,GRAND_SLAM,WS,109,Main Draw,MESHREF Dina (EGY),VIVARELLI Debora (ITA)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,CECHOVA Dana,BIKBAEVA Anna,4,1,"11,12,11,9,11|9,10,5,11,5",QF,GRAND_SLAM,WS,109,Main Draw,CECHOVA Dana (CZE),BIKBAEVA Anna (RUS)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,DOLGIKH Maria,KERTAI Rita,4,0,"11,11,11,11|8,8,8,7",SF,GRAND_SLAM,WS,109,Main Draw,DOLGIKH Maria (RUS),KERTAI Rita (HUN)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,MESHREF Dina,CECHOVA Dana,4,3,"4,11,8,3,11,11,11|11,9,11,11,7,9,7",SF,GRAND_SLAM,WS,109,Main Draw,MESHREF Dina (EGY),CECHOVA Dana (CZE)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,DOLGIKH Maria,MESHREF Dina,4,1,"11,12,11,11,11|7,14,8,7,7",F,GRAND_SLAM,WS,109,Main Draw,DOLGIKH Maria (RUS),MESHREF Dina (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ALLEGRO Martin,GHALLAB Aly,3,1,"9,11,11,11|11,4,9,2",R16,GRAND_SLAM,U21MS,109,Main Draw,ALLEGRO Martin (BEL),GHALLAB Aly (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,MOHAMED Abdelrahman,PAPADAKIS Ioannis,3,2,"11,12,11,6,11|8,14,9,11,8",R16,GRAND_SLAM,U21MS,109,Main Draw,MOHAMED Abdelrahman (EGY),PAPADAKIS Ioannis (GRE)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,SHOUMAN Mohamed,SABER Omar,3,1,"11,11,8,11|2,5,11,7",R16,GRAND_SLAM,U21MS,109,Main Draw,SHOUMAN Mohamed (EGY),SABER Omar (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,BEDAIR Omar,NABIL Mahmoud,3,2,"6,11,11,11,11|11,13,6,5,5",R16,GRAND_SLAM,U21MS,109,Main Draw,BEDAIR Omar (EGY),NABIL Mahmoud (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,AL-HASAN Salem,ALAA Bassel,3,2,"11,13,7,9,11|5,11,11,11,8",R16,GRAND_SLAM,U21MS,109,Main Draw,AL-HASAN Salem (KUW),ALAA Bassel (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,RAAFAT Galal,DABOUS Ahmed,3,1,"13,11,11,11|15,9,6,6",R16,GRAND_SLAM,U21MS,109,Main Draw,RAAFAT Galal (EGY),DABOUS Ahmed (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ASSAR Khalid,ELSHAARAWY Karim,3,1,"6,11,11,13|11,5,4,11",R16,GRAND_SLAM,U21MS,109,Main Draw,ASSAR Khalid (EGY),ELSHAARAWY Karim (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,INDEHERBERG Julien,ALLEGRO Martin,4,3,"10,11,11,9,11,4,16|12,5,8,11,7,11,14",QF,GRAND_SLAM,U21MS,109,Main Draw,INDEHERBERG Julien (BEL),ALLEGRO Martin (BEL)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,SHOUMAN Mohamed,MOHAMED Abdelrahman,4,2,"12,1,9,11,11,11|10,11,11,9,8,8",QF,GRAND_SLAM,U21MS,109,Main Draw,SHOUMAN Mohamed (EGY),MOHAMED Abdelrahman (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,BEDAIR Omar,AL-HASAN Salem,4,1,"11,8,11,11,11|6,11,6,1,6",QF,GRAND_SLAM,U21MS,109,Main Draw,BEDAIR Omar (EGY),AL-HASAN Salem (KUW)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ASSAR Khalid,RAAFAT Galal,4,1,"11,11,11,12,13|3,8,2,14,11",QF,GRAND_SLAM,U21MS,109,Main Draw,ASSAR Khalid (EGY),RAAFAT Galal (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,INDEHERBERG Julien,SHOUMAN Mohamed,4,2,"8,11,6,11,11,11|11,7,11,4,9,5",SF,GRAND_SLAM,U21MS,109,Main Draw,INDEHERBERG Julien (BEL),SHOUMAN Mohamed (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,BEDAIR Omar,ASSAR Khalid,4,1,"19,9,14,11,11|17,11,12,6,8",SF,GRAND_SLAM,U21MS,109,Main Draw,BEDAIR Omar (EGY),ASSAR Khalid (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,INDEHERBERG Julien,BEDAIR Omar,4,1,"11,11,7,11,11|9,7,11,7,7",F,GRAND_SLAM,U21MS,109,Main Draw,INDEHERBERG Julien (BEL),BEDAIR Omar (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,NOSKOVA Yana,MORAD Reem,3,0,"11,11,11|7,3,6",R16,GRAND_SLAM,U21WS,109,Main Draw,NOSKOVA Yana (RUS),MORAD Reem (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,VIVARELLI Debora,HOSAM Reem,3,0,"11,11,11|5,7,3",R16,GRAND_SLAM,U21WS,109,Main Draw,VIVARELLI Debora (ITA),HOSAM Reem (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ABDELAZIZ Farah,MAHMOUD Nourallah,3,1,"11,11,6,11|7,8,11,4",R16,GRAND_SLAM,U21WS,109,Main Draw,ABDELAZIZ Farah (EGY),MAHMOUD Nourallah (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ELDAWLATLY Nadeen,SAAD Alaa,3,2,"2,16,9,11,11|11,14,11,1,4",R16,GRAND_SLAM,U21WS,109,Main Draw,ELDAWLATLY Nadeen (EGY),SAAD Alaa (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,BIKBAEVA Anna,SAID Mennatalla,3,0,"11,11,11|9,9,3",R16,GRAND_SLAM,U21WS,109,Main Draw,BIKBAEVA Anna (RUS),SAID Mennatalla (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,NASSER Galila,RAHMO Aida,3,2,"7,11,11,11,11|11,7,13,8,7",R16,GRAND_SLAM,U21WS,109,Main Draw,NASSER Galila (EGY),RAHMO Aida (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,YOUSRY Noha,ELERAKY Reem,3,1,"11,15,5,11|5,13,11,8",R16,GRAND_SLAM,U21WS,109,Main Draw,YOUSRY Noha (EGY),ELERAKY Reem (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,MESHREF Dina,SHOUMAN Fagr,3,0,"11,11,11|6,5,3",R16,GRAND_SLAM,U21WS,109,Main Draw,MESHREF Dina (EGY),SHOUMAN Fagr (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,NOSKOVA Yana,VIVARELLI Debora,4,1,"12,12,11,8,11|10,10,5,11,8",QF,GRAND_SLAM,U21WS,109,Main Draw,NOSKOVA Yana (RUS),VIVARELLI Debora (ITA)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ELDAWLATLY Nadeen,ABDELAZIZ Farah,4,1,"11,15,11,8,11|2,13,9,11,8",QF,GRAND_SLAM,U21WS,109,Main Draw,ELDAWLATLY Nadeen (EGY),ABDELAZIZ Farah (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,BIKBAEVA Anna,NASSER Galila,4,3,"9,11,11,12,11,3,13|11,9,7,14,7,11,11",QF,GRAND_SLAM,U21WS,109,Main Draw,BIKBAEVA Anna (RUS),NASSER Galila (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,MESHREF Dina,YOUSRY Noha,4,1,"11,11,12,12,11|6,6,10,14,6",QF,GRAND_SLAM,U21WS,109,Main Draw,MESHREF Dina (EGY),YOUSRY Noha (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,NOSKOVA Yana,ELDAWLATLY Nadeen,4,0,"11,11,11,11|9,6,7,7",SF,GRAND_SLAM,U21WS,109,Main Draw,NOSKOVA Yana (RUS),ELDAWLATLY Nadeen (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,MESHREF Dina,BIKBAEVA Anna,4,0,"11,12,11,11|9,10,9,9",SF,GRAND_SLAM,U21WS,109,Main Draw,MESHREF Dina (EGY),BIKBAEVA Anna (RUS)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,MESHREF Dina,NOSKOVA Yana,4,1,"14,11,4,11,11|12,6,11,6,5",F,GRAND_SLAM,U21WS,109,Main Draw,MESHREF Dina (EGY),NOSKOVA Yana (RUS)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,INDEHERBERG Julien,PAPADAKIS Ioannis,4,0,"11,11,11,11|5,6,9,6",,GRAND_SLAM,MS,109,Qualification,INDEHERBERG Julien (BEL),PAPADAKIS Ioannis (GRE)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,SONBOL Islam,INDEHERBERG Julien,4,3,"11,6,9,8,11,11,11|5,11,11,11,4,9,8",,GRAND_SLAM,MS,109,Qualification,SONBOL Islam (EGY),INDEHERBERG Julien (BEL)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,SONBOL Islam,PAPADAKIS Ioannis,4,0,"11,11,11,12|4,6,7,10",,GRAND_SLAM,MS,109,Qualification,SONBOL Islam (EGY),PAPADAKIS Ioannis (GRE)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ASSAR Khalid,ALAA Bassel,4,2,"9,1,11,11,11,11|11,11,4,4,8,9",,GRAND_SLAM,MS,109,Qualification,ASSAR Khalid (EGY),ALAA Bassel (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ALAA Bassel,AL-HASAN Salem,4,1,"8,11,11,11,11|11,4,8,9,7",,GRAND_SLAM,MS,109,Qualification,ALAA Bassel (EGY),AL-HASAN Salem (KUW)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ELBEIALI Mohamed,SAEED Saiwan,4,0,"11,11,11,11|6,3,4,8",,GRAND_SLAM,MS,109,Qualification,ELBEIALI Mohamed (EGY),SAEED Saiwan (IRQ)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,NADIM Ahmed,REDA Amr,4,2,"9,11,12,6,11,11|11,8,10,11,8,4",,GRAND_SLAM,MS,109,Qualification,NADIM Ahmed (EGY),REDA Amr (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,NADIM Ahmed,ALLEGRO Martin,4,1,"11,11,11,10,11|7,8,7,12,8",,GRAND_SLAM,MS,109,Qualification,NADIM Ahmed (EGY),ALLEGRO Martin (BEL)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ALLEGRO Martin,REDA Amr,4,3,"7,9,11,11,11,7,11|11,11,9,4,8,11,9",,GRAND_SLAM,MS,109,Qualification,ALLEGRO Martin (BEL),REDA Amr (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ELSOBKY Mohamed,VILLANUEVA Nelson,4,0,"11,11,11,11|7,3,4,5",,GRAND_SLAM,MS,109,Qualification,ELSOBKY Mohamed (EGY),VILLANUEVA Nelson (VEN)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ELDESSOUKY Mohamed,SONBOL Shady,4,2,"8,12,11,11,6,11|11,10,7,9,11,6",,GRAND_SLAM,MS,109,Qualification,ELDESSOUKY Mohamed (EGY),SONBOL Shady (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ELSOBKY Mohamed,SONBOL Shady,4,1,"9,11,11,11,11|11,7,2,9,5",,GRAND_SLAM,MS,109,Qualification,ELSOBKY Mohamed (EGY),SONBOL Shady (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ELDESSOUKY Mohamed,VILLANUEVA Nelson,4,0,"11,11,11,11|6,3,7,8",,GRAND_SLAM,MS,109,Qualification,ELDESSOUKY Mohamed (EGY),VILLANUEVA Nelson (VEN)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ELSOBKY Mohamed,ELDESSOUKY Mohamed,4,0,"11,11,11,11|6,8,6,6",,GRAND_SLAM,MS,109,Qualification,ELSOBKY Mohamed (EGY),ELDESSOUKY Mohamed (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,SONBOL Shady,VILLANUEVA Nelson,4,0,"11,11,11,11|6,1,6,8",,GRAND_SLAM,MS,109,Qualification,SONBOL Shady (EGY),VILLANUEVA Nelson (VEN)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,MENGE Gencay,MAHMOUD Abdulrahman,4,0,"11,12,12,11|9,10,10,9",,GRAND_SLAM,MS,109,Qualification,MENGE Gencay (TUR),MAHMOUD Abdulrahman (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,SOBHY Yasser,ELSHAARAWY Karim,4,3,"11,5,6,11,12,11,11|8,11,11,6,14,6,9",,GRAND_SLAM,MS,109,Qualification,SOBHY Yasser (EGY),ELSHAARAWY Karim (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,MENGE Gencay,ELSHAARAWY Karim,4,2,"11,5,11,11,8,11|5,11,7,9,11,9",,GRAND_SLAM,MS,109,Qualification,MENGE Gencay (TUR),ELSHAARAWY Karim (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,MAHMOUD Abdulrahman,SOBHY Yasser,4,3,"10,11,9,11,8,11,11|12,8,11,7,11,8,9",,GRAND_SLAM,MS,109,Qualification,MAHMOUD Abdulrahman (EGY),SOBHY Yasser (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,MENGE Gencay,SOBHY Yasser,4,2,"11,13,11,11,8,11|9,15,8,7,11,8",,GRAND_SLAM,MS,109,Qualification,MENGE Gencay (TUR),SOBHY Yasser (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,MAHMOUD Abdulrahman,ELSHAARAWY Karim,4,0,"11,11,11,11|8,8,6,9",,GRAND_SLAM,MS,109,Qualification,MAHMOUD Abdulrahman (EGY),ELSHAARAWY Karim (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ZAGHLOUL Mahmoud,ZUNJANIN Radovan,4,2,"11,8,7,11,11,11|9,11,11,5,4,8",,GRAND_SLAM,MS,109,Qualification,ZAGHLOUL Mahmoud (EGY),ZUNJANIN Radovan (SRB)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,SHOUMAN Mohamed,ZAGHLOUL Mahmoud,4,1,"11,11,11,9,11|6,7,7,11,9",,GRAND_SLAM,MS,109,Qualification,SHOUMAN Mohamed (EGY),ZAGHLOUL Mahmoud (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,SHOUMAN Mohamed,ZUNJANIN Radovan,4,0,"11,19,11,11|5,17,6,5",,GRAND_SLAM,MS,109,Qualification,SHOUMAN Mohamed (EGY),ZUNJANIN Radovan (SRB)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,BEDAIR Omar,DAMJANOVIC Igor,4,1,"9,11,11,11,11|11,2,5,6,9",,GRAND_SLAM,MS,109,Qualification,BEDAIR Omar (EGY),DAMJANOVIC Igor (SRB)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,SOBHY Ashraf,LASHIN Aly,4,2,"11,11,11,4,9,11|4,6,6,11,11,7",,GRAND_SLAM,MS,109,Qualification,SOBHY Ashraf (EGY),LASHIN Aly (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,LASHIN Aly,BEDAIR Omar,4,0,"11,11,11,11|5,2,7,7",,GRAND_SLAM,MS,109,Qualification,LASHIN Aly (EGY),BEDAIR Omar (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,SOBHY Ashraf,DAMJANOVIC Igor,4,0,"11,11,11,11|8,8,5,7",,GRAND_SLAM,MS,109,Qualification,SOBHY Ashraf (EGY),DAMJANOVIC Igor (SRB)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,BEDAIR Omar,SOBHY Ashraf,4,3,"11,6,10,8,11,11,11|4,11,12,11,4,9,5",,GRAND_SLAM,MS,109,Qualification,BEDAIR Omar (EGY),SOBHY Ashraf (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,LASHIN Aly,DAMJANOVIC Igor,4,1,"11,14,7,11,12|4,12,11,5,10",,GRAND_SLAM,MS,109,Qualification,LASHIN Aly (EGY),DAMJANOVIC Igor (SRB)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,BIKBAEVA Anna,ELERAKY Reem,4,1,"11,11,11,11,11|7,13,7,3,8",,GRAND_SLAM,WS,109,Qualification,BIKBAEVA Anna (RUS),ELERAKY Reem (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,BIKBAEVA Anna,HOSAM Reem,4,0,"11,11,11,11|9,2,7,7",,GRAND_SLAM,WS,109,Qualification,BIKBAEVA Anna (RUS),HOSAM Reem (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,HOSAM Reem,ELERAKY Reem,4,2,"11,11,12,3,11,11|5,7,14,11,5,4",,GRAND_SLAM,WS,109,Qualification,HOSAM Reem (EGY),ELERAKY Reem (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,KERTAI Rita,SHOUMAN Fagr,4,1,"13,11,11,11,11|15,5,4,6,2",,GRAND_SLAM,WS,109,Qualification,KERTAI Rita (HUN),SHOUMAN Fagr (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,KERTAI Rita,SAAD Alaa,4,0,"13,11,11,11|11,6,7,3",,GRAND_SLAM,WS,109,Qualification,KERTAI Rita (HUN),SAAD Alaa (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ELDAWLATLY Nadeen,KHALED Salma,4,0,"11,11,12,11|5,9,10,8",,GRAND_SLAM,WS,109,Qualification,ELDAWLATLY Nadeen (EGY),KHALED Salma (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,PAPADAKI Angeliki,YOUSRY Noha,4,2,"11,11,11,11,4,11|9,6,13,3,11,4",,GRAND_SLAM,WS,109,Qualification,PAPADAKI Angeliki (GRE),YOUSRY Noha (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ELDAWLATLY Nadeen,YOUSRY Noha,4,1,"11,12,13,8,11|3,10,11,11,8",,GRAND_SLAM,WS,109,Qualification,ELDAWLATLY Nadeen (EGY),YOUSRY Noha (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,PAPADAKI Angeliki,KHALED Salma,4,2,"11,11,7,11,9,11|9,5,11,6,11,7",,GRAND_SLAM,WS,109,Qualification,PAPADAKI Angeliki (GRE),KHALED Salma (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,PAPADAKI Angeliki,ELDAWLATLY Nadeen,4,3,"7,11,6,11,9,11,11|11,9,11,5,11,6,4",,GRAND_SLAM,WS,109,Qualification,PAPADAKI Angeliki (GRE),ELDAWLATLY Nadeen (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,YOUSRY Noha,KHALED Salma,4,0,"11,11,11,14|6,7,2,12",,GRAND_SLAM,WS,109,Qualification,YOUSRY Noha (EGY),KHALED Salma (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,VIVARELLI Debora,MORAD Reem,4,0,"11,11,11,11|5,6,6,8",,GRAND_SLAM,WS,109,Qualification,VIVARELLI Debora (ITA),MORAD Reem (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ABDELAZIZ Farah,RAHMO Aida,4,3,"11,9,11,4,11,8,11|1,11,7,11,7,11,5",,GRAND_SLAM,WS,109,Qualification,ABDELAZIZ Farah (EGY),RAHMO Aida (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,VIVARELLI Debora,ABDELAZIZ Farah,4,2,"8,11,11,9,11,11|11,4,8,11,9,8",,GRAND_SLAM,WS,109,Qualification,VIVARELLI Debora (ITA),ABDELAZIZ Farah (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,RAHMO Aida,MORAD Reem,4,1,"11,11,8,11,11|3,6,11,9,7",,GRAND_SLAM,WS,109,Qualification,RAHMO Aida (EGY),MORAD Reem (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,VIVARELLI Debora,RAHMO Aida,4,2,"14,5,5,11,11,13|12,11,11,2,8,11",,GRAND_SLAM,WS,109,Qualification,VIVARELLI Debora (ITA),RAHMO Aida (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ABDELAZIZ Farah,MORAD Reem,4,1,"11,11,11,9,11|6,4,6,11,3",,GRAND_SLAM,WS,109,Qualification,ABDELAZIZ Farah (EGY),MORAD Reem (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,HASSAN Sara,AYMAN Reem,4,1,"11,7,11,11,11|6,11,7,6,7",,GRAND_SLAM,WS,109,Qualification,HASSAN Sara (EGY),AYMAN Reem (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ELSHOBARY Reem,MORAD Aynour,4,0,"11,11,11,11|9,8,9,7",,GRAND_SLAM,WS,109,Qualification,ELSHOBARY Reem (EGY),MORAD Aynour (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ELSHOBARY Reem,HASSAN Sara,4,1,"11,11,11,8,11|9,9,9,11,7",,GRAND_SLAM,WS,109,Qualification,ELSHOBARY Reem (EGY),HASSAN Sara (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,MORAD Aynour,AYMAN Reem,4,2,"11,11,12,11,7,11|13,6,10,7,11,7",,GRAND_SLAM,WS,109,Qualification,MORAD Aynour (EGY),AYMAN Reem (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,HASSAN Sara,MORAD Aynour,4,1,"11,11,10,11,11|7,2,12,7,7",,GRAND_SLAM,WS,109,Qualification,HASSAN Sara (EGY),MORAD Aynour (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ABDELAZIZ Shimaa,EZZAT Rana,4,0,"11,11,11,11|4,4,7,5",,GRAND_SLAM,WS,109,Qualification,ABDELAZIZ Shimaa (EGY),EZZAT Rana (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,NASSER Galila,ABDELAZIZ Shimaa,4,0,"11,11,11,11|5,8,2,6",,GRAND_SLAM,WS,109,Qualification,NASSER Galila (EGY),ABDELAZIZ Shimaa (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,NASSER Galila,EZZAT Rana,4,1,"11,11,10,11,11|7,2,12,7,7",,GRAND_SLAM,WS,109,Qualification,NASSER Galila (EGY),EZZAT Rana (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,RAAFAT Galal,ELSHAARAWY Karim,3,1,"6,11,11,11|11,9,9,8",,GRAND_SLAM,U21MS,109,Qualification,RAAFAT Galal (EGY),ELSHAARAWY Karim (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,PAPADAKIS Ioannis,ELSHAARAWY Karim,3,2,"11,5,11,7,11|4,11,9,11,9",,GRAND_SLAM,U21MS,109,Qualification,PAPADAKIS Ioannis (GRE),ELSHAARAWY Karim (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,RAAFAT Galal,PAPADAKIS Ioannis,3,0,"11,11,11|8,4,6",,GRAND_SLAM,U21MS,109,Qualification,RAAFAT Galal (EGY),PAPADAKIS Ioannis (GRE)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ALLEGRO Martin,NABIL Mahmoud,3,0,"11,11,11|7,6,8",,GRAND_SLAM,U21MS,109,Qualification,ALLEGRO Martin (BEL),NABIL Mahmoud (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ALAA Bassel,BAHAAELDIN Mostafa,3,1,"13,11,9,11|11,5,11,4",,GRAND_SLAM,U21MS,109,Qualification,ALAA Bassel (EGY),BAHAAELDIN Mostafa (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ALAA Bassel,ALLEGRO Martin,3,1,"4,12,11,11|11,10,7,5",,GRAND_SLAM,U21MS,109,Qualification,ALAA Bassel (EGY),ALLEGRO Martin (BEL)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,NABIL Mahmoud,BAHAAELDIN Mostafa,3,0,"11,12,11|5,10,6",,GRAND_SLAM,U21MS,109,Qualification,NABIL Mahmoud (EGY),BAHAAELDIN Mostafa (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ALLEGRO Martin,BAHAAELDIN Mostafa,3,0,"11,11,12|4,6,10",,GRAND_SLAM,U21MS,109,Qualification,ALLEGRO Martin (BEL),BAHAAELDIN Mostafa (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ALAA Bassel,NABIL Mahmoud,3,2,"11,8,11,8,12|3,11,8,11,10",,GRAND_SLAM,U21MS,109,Qualification,ALAA Bassel (EGY),NABIL Mahmoud (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,AL-HASAN Salem,SAMY Ahmed,3,0,"11,11,11|9,1,2",,GRAND_SLAM,U21MS,109,Qualification,AL-HASAN Salem (KUW),SAMY Ahmed (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,MOHAMED Abdelrahman,SABER Omar,3,1,"11,11,7,11|6,7,11,9",,GRAND_SLAM,U21MS,109,Qualification,MOHAMED Abdelrahman (EGY),SABER Omar (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,MOHAMED Abdelrahman,AL-HASAN Salem,3,0,"11,11,12|4,4,10",,GRAND_SLAM,U21MS,109,Qualification,MOHAMED Abdelrahman (EGY),AL-HASAN Salem (KUW)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,SABER Omar,SAMY Ahmed,3,1,"8,11,11,11|11,6,9,9",,GRAND_SLAM,U21MS,109,Qualification,SABER Omar (EGY),SAMY Ahmed (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,AL-HASAN Salem,SABER Omar,3,0,"11,11,11|9,6,9",,GRAND_SLAM,U21MS,109,Qualification,AL-HASAN Salem (KUW),SABER Omar (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,MOHAMED Abdelrahman,SAMY Ahmed,3,0,"11,12,11|3,10,8",,GRAND_SLAM,U21MS,109,Qualification,MOHAMED Abdelrahman (EGY),SAMY Ahmed (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,DABOUS Ahmed,MAGDY Shady,3,0,"11,11,15|9,9,13",,GRAND_SLAM,U21MS,109,Qualification,DABOUS Ahmed (EGY),MAGDY Shady (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,GHALLAB Aly,HASSAN Adham,3,2,"11,11,11,9,11|9,13,3,11,7",,GRAND_SLAM,U21MS,109,Qualification,GHALLAB Aly (EGY),HASSAN Adham (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,GHALLAB Aly,MAGDY Shady,3,0,"11,11,11|8,0,0",,GRAND_SLAM,U21MS,109,Qualification,GHALLAB Aly (EGY),MAGDY Shady (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,GHALLAB Aly,DABOUS Ahmed,3,2,"11,5,4,11,11|7,11,11,6,7",,GRAND_SLAM,U21MS,109,Qualification,GHALLAB Aly (EGY),DABOUS Ahmed (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,VIVARELLI Debora,KHALED Salma,3,0,"11,11,11|5,2,5",,GRAND_SLAM,U21WS,109,Qualification,VIVARELLI Debora (ITA),KHALED Salma (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,MAHMOUD Nourallah,SHOUMAN Fagr,3,2,"11,8,11,12,11|8,11,9,14,9",,GRAND_SLAM,U21WS,109,Qualification,MAHMOUD Nourallah (EGY),SHOUMAN Fagr (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,VIVARELLI Debora,SHOUMAN Fagr,3,2,"11,4,11,5,13|7,11,6,11,11",,GRAND_SLAM,U21WS,109,Qualification,VIVARELLI Debora (ITA),SHOUMAN Fagr (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,MAHMOUD Nourallah,KHALED Salma,3,0,"11,14,11|8,12,6",,GRAND_SLAM,U21WS,109,Qualification,MAHMOUD Nourallah (EGY),KHALED Salma (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,VIVARELLI Debora,MAHMOUD Nourallah,3,1,"12,11,11,11|14,7,7,7",,GRAND_SLAM,U21WS,109,Qualification,VIVARELLI Debora (ITA),MAHMOUD Nourallah (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,SHOUMAN Fagr,KHALED Salma,3,2,"11,9,11,8,11|7,11,6,11,9",,GRAND_SLAM,U21WS,109,Qualification,SHOUMAN Fagr (EGY),KHALED Salma (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,NASSER Galila,MORAD Reem,3,1,"11,7,11,11|9,11,4,8",,GRAND_SLAM,U21WS,109,Qualification,NASSER Galila (EGY),MORAD Reem (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ELERAKY Reem,MORAD Aynour,3,0,"11,11,11|3,7,7",,GRAND_SLAM,U21WS,109,Qualification,ELERAKY Reem (EGY),MORAD Aynour (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ELERAKY Reem,NASSER Galila,3,1,"8,11,11,11|11,9,9,9",,GRAND_SLAM,U21WS,109,Qualification,ELERAKY Reem (EGY),NASSER Galila (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,MORAD Reem,MORAD Aynour,3,0,"11,11,11|4,3,3",,GRAND_SLAM,U21WS,109,Qualification,MORAD Reem (EGY),MORAD Aynour (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,NASSER Galila,MORAD Aynour,3,0,"11,11,11|9,3,6",,GRAND_SLAM,U21WS,109,Qualification,NASSER Galila (EGY),MORAD Aynour (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ELERAKY Reem,MORAD Reem,3,2,"11,7,12,12,11|2,11,10,14,8",,GRAND_SLAM,U21WS,109,Qualification,ELERAKY Reem (EGY),MORAD Reem (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ABDELAZIZ Farah,SAID Mennatalla,3,0,"11,11,11|9,6,6",,GRAND_SLAM,U21WS,109,Qualification,ABDELAZIZ Farah (EGY),SAID Mennatalla (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,HOSAM Reem,EZZAT Rana,3,2,"6,6,11,11,11|11,11,9,9,6",,GRAND_SLAM,U21WS,109,Qualification,HOSAM Reem (EGY),EZZAT Rana (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ABDELAZIZ Farah,HOSAM Reem,3,1,"13,10,11,11|11,12,6,9",,GRAND_SLAM,U21WS,109,Qualification,ABDELAZIZ Farah (EGY),HOSAM Reem (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,SAID Mennatalla,EZZAT Rana,3,1,"8,11,11,11|11,7,9,8",,GRAND_SLAM,U21WS,109,Qualification,SAID Mennatalla (EGY),EZZAT Rana (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,ABDELAZIZ Farah,EZZAT Rana,3,0,"11,11,13|3,8,11",,GRAND_SLAM,U21WS,109,Qualification,ABDELAZIZ Farah (EGY),EZZAT Rana (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,HOSAM Reem,SAID Mennatalla,3,0,"11,11,11|4,5,9",,GRAND_SLAM,U21WS,109,Qualification,HOSAM Reem (EGY),SAID Mennatalla (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,RAHMO Aida,YOUSRY Noha,3,2,"7,11,6,11,12|11,4,11,9,10",,GRAND_SLAM,U21WS,109,Qualification,RAHMO Aida (EGY),YOUSRY Noha (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,SAAD Alaa,AYMAN Reem,3,0,"11,11,11|4,6,6",,GRAND_SLAM,U21WS,109,Qualification,SAAD Alaa (EGY),AYMAN Reem (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,YOUSRY Noha,SAAD Alaa,3,1,"11,12,4,11|9,10,11,8",,GRAND_SLAM,U21WS,109,Qualification,YOUSRY Noha (EGY),SAAD Alaa (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,RAHMO Aida,AYMAN Reem,3,2,"11,7,11,10,11|9,11,5,12,9",,GRAND_SLAM,U21WS,109,Qualification,RAHMO Aida (EGY),AYMAN Reem (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,YOUSRY Noha,AYMAN Reem,3,1,"15,11,8,11|13,9,11,7",,GRAND_SLAM,U21WS,109,Qualification,YOUSRY Noha (EGY),AYMAN Reem (EGY)
-Euro-Africa Egypt Open Cairo 2013,2013-03-21,RAHMO Aida,SAAD Alaa,3,1,"13,11,8,11|11,7,11,7",,GRAND_SLAM,U21WS,109,Qualification,RAHMO Aida (EGY),SAAD Alaa (EGY)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ALLEGRO Martin,ASSAR Khalid,4,2,"12,11,11,11,11,11|10,4,13,7,13,7",R32,GRAND_SLAM,MS,109,Main Draw,ALLEGRO Martin (BEL),ASSAR Khalid (EGY),ALLEGRO Martin
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,MENGE Gencay,ZAGHLOUL Mahmoud,4,2,"12,11,11,8,8,11|10,9,9,11,11,8",R32,GRAND_SLAM,MS,109,Main Draw,MENGE Gencay (TUR),ZAGHLOUL Mahmoud (EGY),MENGE Gencay
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,LI Ahmet,BEDAIR Omar,4,0,"11,11,11,11|8,6,4,3",R32,GRAND_SLAM,MS,109,Main Draw,LI Ahmet (TUR),BEDAIR Omar (EGY),LI Ahmet
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,GOLOVANOV Stanislav,AL-HASAN Salem,4,1,"11,11,11,11,11|6,13,9,4,5",R32,GRAND_SLAM,MS,109,Main Draw,GOLOVANOV Stanislav (BUL),AL-HASAN Salem (KUW),GOLOVANOV Stanislav
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,SHOUMAN Mohamed,ELDESSOUKY Mohamed,4,2,"11,11,11,5,8,11|7,6,7,11,11,7",R32,GRAND_SLAM,MS,109,Main Draw,SHOUMAN Mohamed (EGY),ELDESSOUKY Mohamed (EGY),SHOUMAN Mohamed
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,MAHMOUD Abdulrahman,LASHIN Aly,4,3,"11,4,15,14,9,11,11|8,11,17,12,11,8,9",R32,GRAND_SLAM,MS,109,Main Draw,MAHMOUD Abdulrahman (EGY),LASHIN Aly (EGY),MAHMOUD Abdulrahman
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,DURAN Marc,REDA Amr,4,0,"11,11,11,11|4,6,6,8",R32,GRAND_SLAM,MS,109,Main Draw,DURAN Marc (ESP),REDA Amr (EGY),DURAN Marc
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,SALIFOU Abdel-Kader,PAPADAKIS Ioannis,4,1,"11,11,11,11,11|13,7,2,6,4",R32,GRAND_SLAM,MS,109,Main Draw,SALIFOU Abdel-Kader (BEN),PAPADAKIS Ioannis (GRE),SALIFOU Abdel-Kader
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,SOBHY Ashraf,ELSOBKY Mohamed,4,0,"11,11,11,12|7,5,7,10",R32,GRAND_SLAM,MS,109,Main Draw,SOBHY Ashraf (EGY),ELSOBKY Mohamed (EGY),SOBHY Ashraf
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,NADIM Ahmed,ALAA Bassel,4,2,"9,11,11,12,9,11|11,9,4,10,11,4",R32,GRAND_SLAM,MS,109,Main Draw,NADIM Ahmed (EGY),ALAA Bassel (EGY),NADIM Ahmed
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,SALEH Ahmed,SONBOL Shady,4,0,"12,11,11,11|10,6,7,6",R32,GRAND_SLAM,MS,109,Main Draw,SALEH Ahmed (EGY),SONBOL Shady (EGY),SALEH Ahmed
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,AL-HASAN Ibrahem,SOBHY Yasser,4,2,"17,9,11,11,9,11|15,11,5,7,11,9",R32,GRAND_SLAM,MS,109,Main Draw,AL-HASAN Ibrahem (KUW),SOBHY Yasser (EGY),AL-HASAN Ibrahem
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,INDEHERBERG Julien,ELBEIALI Mohamed,4,3,"5,11,16,6,11,2,11|11,7,14,11,8,11,7",R32,GRAND_SLAM,MS,109,Main Draw,INDEHERBERG Julien (BEL),ELBEIALI Mohamed (EGY),INDEHERBERG Julien
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,SONBOL Islam,SAEED Saiwan,4,1,"13,11,11,11,11|15,4,7,1,7",R32,GRAND_SLAM,MS,109,Main Draw,SONBOL Islam (EGY),SAEED Saiwan (IRQ),SONBOL Islam
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ASSAR Omar,ZUNJANIN Radovan,4,0,"11,11,11,11|5,6,7,4",R32,GRAND_SLAM,MS,109,Main Draw,ASSAR Omar (EGY),ZUNJANIN Radovan (SRB),ASSAR Omar
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,VANG Bora,ALLEGRO Martin,4,1,"7,11,11,11,11|11,5,6,2,6",R16,GRAND_SLAM,MS,109,Main Draw,VANG Bora (TUR),ALLEGRO Martin (BEL),VANG Bora
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,LI Ahmet,MENGE Gencay,4,1,"11,8,11,11,11|7,11,7,6,8",R16,GRAND_SLAM,MS,109,Main Draw,LI Ahmet (TUR),MENGE Gencay (TUR),LI Ahmet
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,SHOUMAN Mohamed,GOLOVANOV Stanislav,4,2,"11,14,11,7,5,11|9,12,8,11,11,6",R16,GRAND_SLAM,MS,109,Main Draw,SHOUMAN Mohamed (EGY),GOLOVANOV Stanislav (BUL),SHOUMAN Mohamed
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,DURAN Marc,MAHMOUD Abdulrahman,4,2,"11,9,11,11,4,11|6,11,7,8,11,7",R16,GRAND_SLAM,MS,109,Main Draw,DURAN Marc (ESP),MAHMOUD Abdulrahman (EGY),DURAN Marc
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,SALIFOU Abdel-Kader,SOBHY Ashraf,4,2,"9,11,11,9,12,12|11,6,6,11,10,10",R16,GRAND_SLAM,MS,109,Main Draw,SALIFOU Abdel-Kader (BEN),SOBHY Ashraf (EGY),SALIFOU Abdel-Kader
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,SALEH Ahmed,NADIM Ahmed,4,1,"11,7,11,11,11|8,11,5,8,6",R16,GRAND_SLAM,MS,109,Main Draw,SALEH Ahmed (EGY),NADIM Ahmed (EGY),SALEH Ahmed
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,AL-HASAN Ibrahem,INDEHERBERG Julien,4,3,"12,4,11,9,8,11,11|10,11,7,11,11,4,7",R16,GRAND_SLAM,MS,109,Main Draw,AL-HASAN Ibrahem (KUW),INDEHERBERG Julien (BEL),AL-HASAN Ibrahem
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ASSAR Omar,SONBOL Islam,4,0,"11,11,11,11|2,8,6,1",R16,GRAND_SLAM,MS,109,Main Draw,ASSAR Omar (EGY),SONBOL Islam (EGY),ASSAR Omar
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,LI Ahmet,VANG Bora,4,2,"11,10,11,11,4,11|9,12,9,6,11,5",QF,GRAND_SLAM,MS,109,Main Draw,LI Ahmet (TUR),VANG Bora (TUR),LI Ahmet
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,DURAN Marc,SHOUMAN Mohamed,4,0,"11,11,11,11|4,8,7,5",QF,GRAND_SLAM,MS,109,Main Draw,DURAN Marc (ESP),SHOUMAN Mohamed (EGY),DURAN Marc
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,SALIFOU Abdel-Kader,SALEH Ahmed,4,3,"9,16,7,11,10,11,11|11,14,11,6,12,6,9",QF,GRAND_SLAM,MS,109,Main Draw,SALIFOU Abdel-Kader (BEN),SALEH Ahmed (EGY),SALIFOU Abdel-Kader
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ASSAR Omar,AL-HASAN Ibrahem,4,1,"8,11,11,11,11|11,4,7,9,8",QF,GRAND_SLAM,MS,109,Main Draw,ASSAR Omar (EGY),AL-HASAN Ibrahem (KUW),ASSAR Omar
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,DURAN Marc,LI Ahmet,4,1,"11,11,11,6,11|3,9,5,11,8",SF,GRAND_SLAM,MS,109,Main Draw,DURAN Marc (ESP),LI Ahmet (TUR),DURAN Marc
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,SALIFOU Abdel-Kader,ASSAR Omar,4,1,"7,12,14,11,11|11,10,12,9,5",SF,GRAND_SLAM,MS,109,Main Draw,SALIFOU Abdel-Kader (BEN),ASSAR Omar (EGY),SALIFOU Abdel-Kader
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,SALIFOU Abdel-Kader,DURAN Marc,4,3,"11,7,12,11,11,4,11|7,11,14,3,7,11,5",F,GRAND_SLAM,MS,109,Main Draw,SALIFOU Abdel-Kader (BEN),DURAN Marc (ESP),SALIFOU Abdel-Kader
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,NOSKOVA Yana,HASSAN Sara,4,0,"11,11,11,11|7,3,9,6",R16,GRAND_SLAM,WS,109,Main Draw,NOSKOVA Yana (RUS),HASSAN Sara (EGY),NOSKOVA Yana
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,KERTAI Rita,HOSAM Reem,4,0,"11,11,11,11|7,6,5,9",R16,GRAND_SLAM,WS,109,Main Draw,KERTAI Rita (HUN),HOSAM Reem (EGY),KERTAI Rita
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,PAPADAKI Angeliki,NASSER Galila,4,2,"12,13,2,6,11,11|10,11,11,11,4,4",R16,GRAND_SLAM,WS,109,Main Draw,PAPADAKI Angeliki (GRE),NASSER Galila (EGY),PAPADAKI Angeliki
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,DOLGIKH Maria,ABDELAZIZ Farah,4,0,"11,11,11,11|7,7,3,6",R16,GRAND_SLAM,WS,109,Main Draw,DOLGIKH Maria (RUS),ABDELAZIZ Farah (EGY),DOLGIKH Maria
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,MESHREF Dina,ABDELAZIZ Shimaa,4,1,"12,11,11,9,11|10,8,4,11,8",R16,GRAND_SLAM,WS,109,Main Draw,MESHREF Dina (EGY),ABDELAZIZ Shimaa (EGY),MESHREF Dina
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,VIVARELLI Debora,ELSHOBARY Reem,4,2,"11,9,11,11,6,11|5,11,9,6,11,4",R16,GRAND_SLAM,WS,109,Main Draw,VIVARELLI Debora (ITA),ELSHOBARY Reem (EGY),VIVARELLI Debora
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,BIKBAEVA Anna,SHOUMAN Fagr,4,0,"11,11,13,11|4,8,11,8",R16,GRAND_SLAM,WS,109,Main Draw,BIKBAEVA Anna (RUS),SHOUMAN Fagr (EGY),BIKBAEVA Anna
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,CECHOVA Dana,ELDAWLATLY Nadeen,4,0,"11,11,11,11|6,5,8,5",R16,GRAND_SLAM,WS,109,Main Draw,CECHOVA Dana (CZE),ELDAWLATLY Nadeen (EGY),CECHOVA Dana
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,KERTAI Rita,NOSKOVA Yana,4,2,"5,11,11,11,11,11|11,13,8,8,9,2",QF,GRAND_SLAM,WS,109,Main Draw,KERTAI Rita (HUN),NOSKOVA Yana (RUS),KERTAI Rita
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,DOLGIKH Maria,PAPADAKI Angeliki,4,0,"11,11,11,11|6,8,8,5",QF,GRAND_SLAM,WS,109,Main Draw,DOLGIKH Maria (RUS),PAPADAKI Angeliki (GRE),DOLGIKH Maria
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,MESHREF Dina,VIVARELLI Debora,4,0,"11,12,11,11|5,10,9,3",QF,GRAND_SLAM,WS,109,Main Draw,MESHREF Dina (EGY),VIVARELLI Debora (ITA),MESHREF Dina
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,CECHOVA Dana,BIKBAEVA Anna,4,1,"11,12,11,9,11|9,10,5,11,5",QF,GRAND_SLAM,WS,109,Main Draw,CECHOVA Dana (CZE),BIKBAEVA Anna (RUS),CECHOVA Dana
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,DOLGIKH Maria,KERTAI Rita,4,0,"11,11,11,11|8,8,8,7",SF,GRAND_SLAM,WS,109,Main Draw,DOLGIKH Maria (RUS),KERTAI Rita (HUN),DOLGIKH Maria
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,MESHREF Dina,CECHOVA Dana,4,3,"4,11,8,3,11,11,11|11,9,11,11,7,9,7",SF,GRAND_SLAM,WS,109,Main Draw,MESHREF Dina (EGY),CECHOVA Dana (CZE),MESHREF Dina
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,DOLGIKH Maria,MESHREF Dina,4,1,"11,12,11,11,11|7,14,8,7,7",F,GRAND_SLAM,WS,109,Main Draw,DOLGIKH Maria (RUS),MESHREF Dina (EGY),DOLGIKH Maria
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ALLEGRO Martin,GHALLAB Aly,3,1,"9,11,11,11|11,4,9,2",R16,GRAND_SLAM,U21MS,109,Main Draw,ALLEGRO Martin (BEL),GHALLAB Aly (EGY),ALLEGRO Martin
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,MOHAMED Abdelrahman,PAPADAKIS Ioannis,3,2,"11,12,11,6,11|8,14,9,11,8",R16,GRAND_SLAM,U21MS,109,Main Draw,MOHAMED Abdelrahman (EGY),PAPADAKIS Ioannis (GRE),MOHAMED Abdelrahman
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,SHOUMAN Mohamed,SABER Omar,3,1,"11,11,8,11|2,5,11,7",R16,GRAND_SLAM,U21MS,109,Main Draw,SHOUMAN Mohamed (EGY),SABER Omar (EGY),SHOUMAN Mohamed
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,BEDAIR Omar,NABIL Mahmoud,3,2,"6,11,11,11,11|11,13,6,5,5",R16,GRAND_SLAM,U21MS,109,Main Draw,BEDAIR Omar (EGY),NABIL Mahmoud (EGY),BEDAIR Omar
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,AL-HASAN Salem,ALAA Bassel,3,2,"11,13,7,9,11|5,11,11,11,8",R16,GRAND_SLAM,U21MS,109,Main Draw,AL-HASAN Salem (KUW),ALAA Bassel (EGY),AL-HASAN Salem
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,RAAFAT Galal,DABOUS Ahmed,3,1,"13,11,11,11|15,9,6,6",R16,GRAND_SLAM,U21MS,109,Main Draw,RAAFAT Galal (EGY),DABOUS Ahmed (EGY),RAAFAT Galal
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ASSAR Khalid,ELSHAARAWY Karim,3,1,"6,11,11,13|11,5,4,11",R16,GRAND_SLAM,U21MS,109,Main Draw,ASSAR Khalid (EGY),ELSHAARAWY Karim (EGY),ASSAR Khalid
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,INDEHERBERG Julien,ALLEGRO Martin,4,3,"10,11,11,9,11,4,16|12,5,8,11,7,11,14",QF,GRAND_SLAM,U21MS,109,Main Draw,INDEHERBERG Julien (BEL),ALLEGRO Martin (BEL),INDEHERBERG Julien
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,SHOUMAN Mohamed,MOHAMED Abdelrahman,4,2,"12,1,9,11,11,11|10,11,11,9,8,8",QF,GRAND_SLAM,U21MS,109,Main Draw,SHOUMAN Mohamed (EGY),MOHAMED Abdelrahman (EGY),SHOUMAN Mohamed
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,BEDAIR Omar,AL-HASAN Salem,4,1,"11,8,11,11,11|6,11,6,1,6",QF,GRAND_SLAM,U21MS,109,Main Draw,BEDAIR Omar (EGY),AL-HASAN Salem (KUW),BEDAIR Omar
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ASSAR Khalid,RAAFAT Galal,4,1,"11,11,11,12,13|3,8,2,14,11",QF,GRAND_SLAM,U21MS,109,Main Draw,ASSAR Khalid (EGY),RAAFAT Galal (EGY),ASSAR Khalid
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,INDEHERBERG Julien,SHOUMAN Mohamed,4,2,"8,11,6,11,11,11|11,7,11,4,9,5",SF,GRAND_SLAM,U21MS,109,Main Draw,INDEHERBERG Julien (BEL),SHOUMAN Mohamed (EGY),INDEHERBERG Julien
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,BEDAIR Omar,ASSAR Khalid,4,1,"19,9,14,11,11|17,11,12,6,8",SF,GRAND_SLAM,U21MS,109,Main Draw,BEDAIR Omar (EGY),ASSAR Khalid (EGY),BEDAIR Omar
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,INDEHERBERG Julien,BEDAIR Omar,4,1,"11,11,7,11,11|9,7,11,7,7",F,GRAND_SLAM,U21MS,109,Main Draw,INDEHERBERG Julien (BEL),BEDAIR Omar (EGY),INDEHERBERG Julien
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,NOSKOVA Yana,MORAD Reem,3,0,"11,11,11|7,3,6",R16,GRAND_SLAM,U21WS,109,Main Draw,NOSKOVA Yana (RUS),MORAD Reem (EGY),NOSKOVA Yana
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,VIVARELLI Debora,HOSAM Reem,3,0,"11,11,11|5,7,3",R16,GRAND_SLAM,U21WS,109,Main Draw,VIVARELLI Debora (ITA),HOSAM Reem (EGY),VIVARELLI Debora
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ABDELAZIZ Farah,MAHMOUD Nourallah,3,1,"11,11,6,11|7,8,11,4",R16,GRAND_SLAM,U21WS,109,Main Draw,ABDELAZIZ Farah (EGY),MAHMOUD Nourallah (EGY),ABDELAZIZ Farah
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ELDAWLATLY Nadeen,SAAD Alaa,3,2,"2,16,9,11,11|11,14,11,1,4",R16,GRAND_SLAM,U21WS,109,Main Draw,ELDAWLATLY Nadeen (EGY),SAAD Alaa (EGY),ELDAWLATLY Nadeen
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,BIKBAEVA Anna,SAID Mennatalla,3,0,"11,11,11|9,9,3",R16,GRAND_SLAM,U21WS,109,Main Draw,BIKBAEVA Anna (RUS),SAID Mennatalla (EGY),BIKBAEVA Anna
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,NASSER Galila,RAHMO Aida,3,2,"7,11,11,11,11|11,7,13,8,7",R16,GRAND_SLAM,U21WS,109,Main Draw,NASSER Galila (EGY),RAHMO Aida (EGY),NASSER Galila
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,YOUSRY Noha,ELERAKY Reem,3,1,"11,15,5,11|5,13,11,8",R16,GRAND_SLAM,U21WS,109,Main Draw,YOUSRY Noha (EGY),ELERAKY Reem (EGY),YOUSRY Noha
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,MESHREF Dina,SHOUMAN Fagr,3,0,"11,11,11|6,5,3",R16,GRAND_SLAM,U21WS,109,Main Draw,MESHREF Dina (EGY),SHOUMAN Fagr (EGY),MESHREF Dina
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,NOSKOVA Yana,VIVARELLI Debora,4,1,"12,12,11,8,11|10,10,5,11,8",QF,GRAND_SLAM,U21WS,109,Main Draw,NOSKOVA Yana (RUS),VIVARELLI Debora (ITA),NOSKOVA Yana
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ELDAWLATLY Nadeen,ABDELAZIZ Farah,4,1,"11,15,11,8,11|2,13,9,11,8",QF,GRAND_SLAM,U21WS,109,Main Draw,ELDAWLATLY Nadeen (EGY),ABDELAZIZ Farah (EGY),ELDAWLATLY Nadeen
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,BIKBAEVA Anna,NASSER Galila,4,3,"9,11,11,12,11,3,13|11,9,7,14,7,11,11",QF,GRAND_SLAM,U21WS,109,Main Draw,BIKBAEVA Anna (RUS),NASSER Galila (EGY),BIKBAEVA Anna
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,MESHREF Dina,YOUSRY Noha,4,1,"11,11,12,12,11|6,6,10,14,6",QF,GRAND_SLAM,U21WS,109,Main Draw,MESHREF Dina (EGY),YOUSRY Noha (EGY),MESHREF Dina
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,NOSKOVA Yana,ELDAWLATLY Nadeen,4,0,"11,11,11,11|9,6,7,7",SF,GRAND_SLAM,U21WS,109,Main Draw,NOSKOVA Yana (RUS),ELDAWLATLY Nadeen (EGY),NOSKOVA Yana
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,MESHREF Dina,BIKBAEVA Anna,4,0,"11,12,11,11|9,10,9,9",SF,GRAND_SLAM,U21WS,109,Main Draw,MESHREF Dina (EGY),BIKBAEVA Anna (RUS),MESHREF Dina
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,MESHREF Dina,NOSKOVA Yana,4,1,"14,11,4,11,11|12,6,11,6,5",F,GRAND_SLAM,U21WS,109,Main Draw,MESHREF Dina (EGY),NOSKOVA Yana (RUS),MESHREF Dina
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,INDEHERBERG Julien,PAPADAKIS Ioannis,4,0,"11,11,11,11|5,6,9,6",,GRAND_SLAM,MS,109,Qualification,INDEHERBERG Julien (BEL),PAPADAKIS Ioannis (GRE),INDEHERBERG Julien
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,SONBOL Islam,INDEHERBERG Julien,4,3,"11,6,9,8,11,11,11|5,11,11,11,4,9,8",,GRAND_SLAM,MS,109,Qualification,SONBOL Islam (EGY),INDEHERBERG Julien (BEL),SONBOL Islam
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,SONBOL Islam,PAPADAKIS Ioannis,4,0,"11,11,11,12|4,6,7,10",,GRAND_SLAM,MS,109,Qualification,SONBOL Islam (EGY),PAPADAKIS Ioannis (GRE),SONBOL Islam
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ASSAR Khalid,ALAA Bassel,4,2,"9,1,11,11,11,11|11,11,4,4,8,9",,GRAND_SLAM,MS,109,Qualification,ASSAR Khalid (EGY),ALAA Bassel (EGY),ASSAR Khalid
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ALAA Bassel,AL-HASAN Salem,4,1,"8,11,11,11,11|11,4,8,9,7",,GRAND_SLAM,MS,109,Qualification,ALAA Bassel (EGY),AL-HASAN Salem (KUW),ALAA Bassel
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ELBEIALI Mohamed,SAEED Saiwan,4,0,"11,11,11,11|6,3,4,8",,GRAND_SLAM,MS,109,Qualification,ELBEIALI Mohamed (EGY),SAEED Saiwan (IRQ),ELBEIALI Mohamed
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,NADIM Ahmed,REDA Amr,4,2,"9,11,12,6,11,11|11,8,10,11,8,4",,GRAND_SLAM,MS,109,Qualification,NADIM Ahmed (EGY),REDA Amr (EGY),NADIM Ahmed
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,NADIM Ahmed,ALLEGRO Martin,4,1,"11,11,11,10,11|7,8,7,12,8",,GRAND_SLAM,MS,109,Qualification,NADIM Ahmed (EGY),ALLEGRO Martin (BEL),NADIM Ahmed
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ALLEGRO Martin,REDA Amr,4,3,"7,9,11,11,11,7,11|11,11,9,4,8,11,9",,GRAND_SLAM,MS,109,Qualification,ALLEGRO Martin (BEL),REDA Amr (EGY),ALLEGRO Martin
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ELSOBKY Mohamed,VILLANUEVA Nelson,4,0,"11,11,11,11|7,3,4,5",,GRAND_SLAM,MS,109,Qualification,ELSOBKY Mohamed (EGY),VILLANUEVA Nelson (VEN),ELSOBKY Mohamed
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ELDESSOUKY Mohamed,SONBOL Shady,4,2,"8,12,11,11,6,11|11,10,7,9,11,6",,GRAND_SLAM,MS,109,Qualification,ELDESSOUKY Mohamed (EGY),SONBOL Shady (EGY),ELDESSOUKY Mohamed
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ELSOBKY Mohamed,SONBOL Shady,4,1,"9,11,11,11,11|11,7,2,9,5",,GRAND_SLAM,MS,109,Qualification,ELSOBKY Mohamed (EGY),SONBOL Shady (EGY),ELSOBKY Mohamed
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ELDESSOUKY Mohamed,VILLANUEVA Nelson,4,0,"11,11,11,11|6,3,7,8",,GRAND_SLAM,MS,109,Qualification,ELDESSOUKY Mohamed (EGY),VILLANUEVA Nelson (VEN),ELDESSOUKY Mohamed
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ELSOBKY Mohamed,ELDESSOUKY Mohamed,4,0,"11,11,11,11|6,8,6,6",,GRAND_SLAM,MS,109,Qualification,ELSOBKY Mohamed (EGY),ELDESSOUKY Mohamed (EGY),ELSOBKY Mohamed
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,SONBOL Shady,VILLANUEVA Nelson,4,0,"11,11,11,11|6,1,6,8",,GRAND_SLAM,MS,109,Qualification,SONBOL Shady (EGY),VILLANUEVA Nelson (VEN),SONBOL Shady
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,MENGE Gencay,MAHMOUD Abdulrahman,4,0,"11,12,12,11|9,10,10,9",,GRAND_SLAM,MS,109,Qualification,MENGE Gencay (TUR),MAHMOUD Abdulrahman (EGY),MENGE Gencay
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,SOBHY Yasser,ELSHAARAWY Karim,4,3,"11,5,6,11,12,11,11|8,11,11,6,14,6,9",,GRAND_SLAM,MS,109,Qualification,SOBHY Yasser (EGY),ELSHAARAWY Karim (EGY),SOBHY Yasser
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,MENGE Gencay,ELSHAARAWY Karim,4,2,"11,5,11,11,8,11|5,11,7,9,11,9",,GRAND_SLAM,MS,109,Qualification,MENGE Gencay (TUR),ELSHAARAWY Karim (EGY),MENGE Gencay
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,MAHMOUD Abdulrahman,SOBHY Yasser,4,3,"10,11,9,11,8,11,11|12,8,11,7,11,8,9",,GRAND_SLAM,MS,109,Qualification,MAHMOUD Abdulrahman (EGY),SOBHY Yasser (EGY),MAHMOUD Abdulrahman
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,MENGE Gencay,SOBHY Yasser,4,2,"11,13,11,11,8,11|9,15,8,7,11,8",,GRAND_SLAM,MS,109,Qualification,MENGE Gencay (TUR),SOBHY Yasser (EGY),MENGE Gencay
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,MAHMOUD Abdulrahman,ELSHAARAWY Karim,4,0,"11,11,11,11|8,8,6,9",,GRAND_SLAM,MS,109,Qualification,MAHMOUD Abdulrahman (EGY),ELSHAARAWY Karim (EGY),MAHMOUD Abdulrahman
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ZAGHLOUL Mahmoud,ZUNJANIN Radovan,4,2,"11,8,7,11,11,11|9,11,11,5,4,8",,GRAND_SLAM,MS,109,Qualification,ZAGHLOUL Mahmoud (EGY),ZUNJANIN Radovan (SRB),ZAGHLOUL Mahmoud
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,SHOUMAN Mohamed,ZAGHLOUL Mahmoud,4,1,"11,11,11,9,11|6,7,7,11,9",,GRAND_SLAM,MS,109,Qualification,SHOUMAN Mohamed (EGY),ZAGHLOUL Mahmoud (EGY),SHOUMAN Mohamed
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,SHOUMAN Mohamed,ZUNJANIN Radovan,4,0,"11,19,11,11|5,17,6,5",,GRAND_SLAM,MS,109,Qualification,SHOUMAN Mohamed (EGY),ZUNJANIN Radovan (SRB),SHOUMAN Mohamed
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,BEDAIR Omar,DAMJANOVIC Igor,4,1,"9,11,11,11,11|11,2,5,6,9",,GRAND_SLAM,MS,109,Qualification,BEDAIR Omar (EGY),DAMJANOVIC Igor (SRB),BEDAIR Omar
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,SOBHY Ashraf,LASHIN Aly,4,2,"11,11,11,4,9,11|4,6,6,11,11,7",,GRAND_SLAM,MS,109,Qualification,SOBHY Ashraf (EGY),LASHIN Aly (EGY),SOBHY Ashraf
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,LASHIN Aly,BEDAIR Omar,4,0,"11,11,11,11|5,2,7,7",,GRAND_SLAM,MS,109,Qualification,LASHIN Aly (EGY),BEDAIR Omar (EGY),LASHIN Aly
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,SOBHY Ashraf,DAMJANOVIC Igor,4,0,"11,11,11,11|8,8,5,7",,GRAND_SLAM,MS,109,Qualification,SOBHY Ashraf (EGY),DAMJANOVIC Igor (SRB),SOBHY Ashraf
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,BEDAIR Omar,SOBHY Ashraf,4,3,"11,6,10,8,11,11,11|4,11,12,11,4,9,5",,GRAND_SLAM,MS,109,Qualification,BEDAIR Omar (EGY),SOBHY Ashraf (EGY),BEDAIR Omar
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,LASHIN Aly,DAMJANOVIC Igor,4,1,"11,14,7,11,12|4,12,11,5,10",,GRAND_SLAM,MS,109,Qualification,LASHIN Aly (EGY),DAMJANOVIC Igor (SRB),LASHIN Aly
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,BIKBAEVA Anna,ELERAKY Reem,4,1,"11,11,11,11,11|7,13,7,3,8",,GRAND_SLAM,WS,109,Qualification,BIKBAEVA Anna (RUS),ELERAKY Reem (EGY),BIKBAEVA Anna
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,BIKBAEVA Anna,HOSAM Reem,4,0,"11,11,11,11|9,2,7,7",,GRAND_SLAM,WS,109,Qualification,BIKBAEVA Anna (RUS),HOSAM Reem (EGY),BIKBAEVA Anna
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,HOSAM Reem,ELERAKY Reem,4,2,"11,11,12,3,11,11|5,7,14,11,5,4",,GRAND_SLAM,WS,109,Qualification,HOSAM Reem (EGY),ELERAKY Reem (EGY),HOSAM Reem
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,KERTAI Rita,SHOUMAN Fagr,4,1,"13,11,11,11,11|15,5,4,6,2",,GRAND_SLAM,WS,109,Qualification,KERTAI Rita (HUN),SHOUMAN Fagr (EGY),KERTAI Rita
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,KERTAI Rita,SAAD Alaa,4,0,"13,11,11,11|11,6,7,3",,GRAND_SLAM,WS,109,Qualification,KERTAI Rita (HUN),SAAD Alaa (EGY),KERTAI Rita
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ELDAWLATLY Nadeen,KHALED Salma,4,0,"11,11,12,11|5,9,10,8",,GRAND_SLAM,WS,109,Qualification,ELDAWLATLY Nadeen (EGY),KHALED Salma (EGY),ELDAWLATLY Nadeen
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,PAPADAKI Angeliki,YOUSRY Noha,4,2,"11,11,11,11,4,11|9,6,13,3,11,4",,GRAND_SLAM,WS,109,Qualification,PAPADAKI Angeliki (GRE),YOUSRY Noha (EGY),PAPADAKI Angeliki
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ELDAWLATLY Nadeen,YOUSRY Noha,4,1,"11,12,13,8,11|3,10,11,11,8",,GRAND_SLAM,WS,109,Qualification,ELDAWLATLY Nadeen (EGY),YOUSRY Noha (EGY),ELDAWLATLY Nadeen
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,PAPADAKI Angeliki,KHALED Salma,4,2,"11,11,7,11,9,11|9,5,11,6,11,7",,GRAND_SLAM,WS,109,Qualification,PAPADAKI Angeliki (GRE),KHALED Salma (EGY),PAPADAKI Angeliki
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,PAPADAKI Angeliki,ELDAWLATLY Nadeen,4,3,"7,11,6,11,9,11,11|11,9,11,5,11,6,4",,GRAND_SLAM,WS,109,Qualification,PAPADAKI Angeliki (GRE),ELDAWLATLY Nadeen (EGY),PAPADAKI Angeliki
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,YOUSRY Noha,KHALED Salma,4,0,"11,11,11,14|6,7,2,12",,GRAND_SLAM,WS,109,Qualification,YOUSRY Noha (EGY),KHALED Salma (EGY),YOUSRY Noha
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,VIVARELLI Debora,MORAD Reem,4,0,"11,11,11,11|5,6,6,8",,GRAND_SLAM,WS,109,Qualification,VIVARELLI Debora (ITA),MORAD Reem (EGY),VIVARELLI Debora
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ABDELAZIZ Farah,RAHMO Aida,4,3,"11,9,11,4,11,8,11|1,11,7,11,7,11,5",,GRAND_SLAM,WS,109,Qualification,ABDELAZIZ Farah (EGY),RAHMO Aida (EGY),ABDELAZIZ Farah
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,VIVARELLI Debora,ABDELAZIZ Farah,4,2,"8,11,11,9,11,11|11,4,8,11,9,8",,GRAND_SLAM,WS,109,Qualification,VIVARELLI Debora (ITA),ABDELAZIZ Farah (EGY),VIVARELLI Debora
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,RAHMO Aida,MORAD Reem,4,1,"11,11,8,11,11|3,6,11,9,7",,GRAND_SLAM,WS,109,Qualification,RAHMO Aida (EGY),MORAD Reem (EGY),RAHMO Aida
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,VIVARELLI Debora,RAHMO Aida,4,2,"14,5,5,11,11,13|12,11,11,2,8,11",,GRAND_SLAM,WS,109,Qualification,VIVARELLI Debora (ITA),RAHMO Aida (EGY),VIVARELLI Debora
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ABDELAZIZ Farah,MORAD Reem,4,1,"11,11,11,9,11|6,4,6,11,3",,GRAND_SLAM,WS,109,Qualification,ABDELAZIZ Farah (EGY),MORAD Reem (EGY),ABDELAZIZ Farah
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,HASSAN Sara,AYMAN Reem,4,1,"11,7,11,11,11|6,11,7,6,7",,GRAND_SLAM,WS,109,Qualification,HASSAN Sara (EGY),AYMAN Reem (EGY),HASSAN Sara
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ELSHOBARY Reem,MORAD Aynour,4,0,"11,11,11,11|9,8,9,7",,GRAND_SLAM,WS,109,Qualification,ELSHOBARY Reem (EGY),MORAD Aynour (EGY),ELSHOBARY Reem
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ELSHOBARY Reem,HASSAN Sara,4,1,"11,11,11,8,11|9,9,9,11,7",,GRAND_SLAM,WS,109,Qualification,ELSHOBARY Reem (EGY),HASSAN Sara (EGY),ELSHOBARY Reem
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,MORAD Aynour,AYMAN Reem,4,2,"11,11,12,11,7,11|13,6,10,7,11,7",,GRAND_SLAM,WS,109,Qualification,MORAD Aynour (EGY),AYMAN Reem (EGY),MORAD Aynour
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,HASSAN Sara,MORAD Aynour,4,1,"11,11,10,11,11|7,2,12,7,7",,GRAND_SLAM,WS,109,Qualification,HASSAN Sara (EGY),MORAD Aynour (EGY),HASSAN Sara
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ABDELAZIZ Shimaa,EZZAT Rana,4,0,"11,11,11,11|4,4,7,5",,GRAND_SLAM,WS,109,Qualification,ABDELAZIZ Shimaa (EGY),EZZAT Rana (EGY),ABDELAZIZ Shimaa
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,NASSER Galila,ABDELAZIZ Shimaa,4,0,"11,11,11,11|5,8,2,6",,GRAND_SLAM,WS,109,Qualification,NASSER Galila (EGY),ABDELAZIZ Shimaa (EGY),NASSER Galila
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,NASSER Galila,EZZAT Rana,4,1,"11,11,10,11,11|7,2,12,7,7",,GRAND_SLAM,WS,109,Qualification,NASSER Galila (EGY),EZZAT Rana (EGY),NASSER Galila
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,RAAFAT Galal,ELSHAARAWY Karim,3,1,"6,11,11,11|11,9,9,8",,GRAND_SLAM,U21MS,109,Qualification,RAAFAT Galal (EGY),ELSHAARAWY Karim (EGY),RAAFAT Galal
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,PAPADAKIS Ioannis,ELSHAARAWY Karim,3,2,"11,5,11,7,11|4,11,9,11,9",,GRAND_SLAM,U21MS,109,Qualification,PAPADAKIS Ioannis (GRE),ELSHAARAWY Karim (EGY),PAPADAKIS Ioannis
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,RAAFAT Galal,PAPADAKIS Ioannis,3,0,"11,11,11|8,4,6",,GRAND_SLAM,U21MS,109,Qualification,RAAFAT Galal (EGY),PAPADAKIS Ioannis (GRE),RAAFAT Galal
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ALLEGRO Martin,NABIL Mahmoud,3,0,"11,11,11|7,6,8",,GRAND_SLAM,U21MS,109,Qualification,ALLEGRO Martin (BEL),NABIL Mahmoud (EGY),ALLEGRO Martin
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ALAA Bassel,BAHAAELDIN Mostafa,3,1,"13,11,9,11|11,5,11,4",,GRAND_SLAM,U21MS,109,Qualification,ALAA Bassel (EGY),BAHAAELDIN Mostafa (EGY),ALAA Bassel
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ALAA Bassel,ALLEGRO Martin,3,1,"4,12,11,11|11,10,7,5",,GRAND_SLAM,U21MS,109,Qualification,ALAA Bassel (EGY),ALLEGRO Martin (BEL),ALAA Bassel
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,NABIL Mahmoud,BAHAAELDIN Mostafa,3,0,"11,12,11|5,10,6",,GRAND_SLAM,U21MS,109,Qualification,NABIL Mahmoud (EGY),BAHAAELDIN Mostafa (EGY),NABIL Mahmoud
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ALLEGRO Martin,BAHAAELDIN Mostafa,3,0,"11,11,12|4,6,10",,GRAND_SLAM,U21MS,109,Qualification,ALLEGRO Martin (BEL),BAHAAELDIN Mostafa (EGY),ALLEGRO Martin
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ALAA Bassel,NABIL Mahmoud,3,2,"11,8,11,8,12|3,11,8,11,10",,GRAND_SLAM,U21MS,109,Qualification,ALAA Bassel (EGY),NABIL Mahmoud (EGY),ALAA Bassel
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,AL-HASAN Salem,SAMY Ahmed,3,0,"11,11,11|9,1,2",,GRAND_SLAM,U21MS,109,Qualification,AL-HASAN Salem (KUW),SAMY Ahmed (EGY),AL-HASAN Salem
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,MOHAMED Abdelrahman,SABER Omar,3,1,"11,11,7,11|6,7,11,9",,GRAND_SLAM,U21MS,109,Qualification,MOHAMED Abdelrahman (EGY),SABER Omar (EGY),MOHAMED Abdelrahman
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,MOHAMED Abdelrahman,AL-HASAN Salem,3,0,"11,11,12|4,4,10",,GRAND_SLAM,U21MS,109,Qualification,MOHAMED Abdelrahman (EGY),AL-HASAN Salem (KUW),MOHAMED Abdelrahman
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,SABER Omar,SAMY Ahmed,3,1,"8,11,11,11|11,6,9,9",,GRAND_SLAM,U21MS,109,Qualification,SABER Omar (EGY),SAMY Ahmed (EGY),SABER Omar
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,AL-HASAN Salem,SABER Omar,3,0,"11,11,11|9,6,9",,GRAND_SLAM,U21MS,109,Qualification,AL-HASAN Salem (KUW),SABER Omar (EGY),AL-HASAN Salem
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,MOHAMED Abdelrahman,SAMY Ahmed,3,0,"11,12,11|3,10,8",,GRAND_SLAM,U21MS,109,Qualification,MOHAMED Abdelrahman (EGY),SAMY Ahmed (EGY),MOHAMED Abdelrahman
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,DABOUS Ahmed,MAGDY Shady,3,0,"11,11,15|9,9,13",,GRAND_SLAM,U21MS,109,Qualification,DABOUS Ahmed (EGY),MAGDY Shady (EGY),DABOUS Ahmed
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,GHALLAB Aly,HASSAN Adham,3,2,"11,11,11,9,11|9,13,3,11,7",,GRAND_SLAM,U21MS,109,Qualification,GHALLAB Aly (EGY),HASSAN Adham (EGY),GHALLAB Aly
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,GHALLAB Aly,MAGDY Shady,3,0,"11,11,11|8,0,0",,GRAND_SLAM,U21MS,109,Qualification,GHALLAB Aly (EGY),MAGDY Shady (EGY),GHALLAB Aly
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,GHALLAB Aly,DABOUS Ahmed,3,2,"11,5,4,11,11|7,11,11,6,7",,GRAND_SLAM,U21MS,109,Qualification,GHALLAB Aly (EGY),DABOUS Ahmed (EGY),GHALLAB Aly
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,VIVARELLI Debora,KHALED Salma,3,0,"11,11,11|5,2,5",,GRAND_SLAM,U21WS,109,Qualification,VIVARELLI Debora (ITA),KHALED Salma (EGY),VIVARELLI Debora
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,MAHMOUD Nourallah,SHOUMAN Fagr,3,2,"11,8,11,12,11|8,11,9,14,9",,GRAND_SLAM,U21WS,109,Qualification,MAHMOUD Nourallah (EGY),SHOUMAN Fagr (EGY),MAHMOUD Nourallah
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,VIVARELLI Debora,SHOUMAN Fagr,3,2,"11,4,11,5,13|7,11,6,11,11",,GRAND_SLAM,U21WS,109,Qualification,VIVARELLI Debora (ITA),SHOUMAN Fagr (EGY),VIVARELLI Debora
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,MAHMOUD Nourallah,KHALED Salma,3,0,"11,14,11|8,12,6",,GRAND_SLAM,U21WS,109,Qualification,MAHMOUD Nourallah (EGY),KHALED Salma (EGY),MAHMOUD Nourallah
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,VIVARELLI Debora,MAHMOUD Nourallah,3,1,"12,11,11,11|14,7,7,7",,GRAND_SLAM,U21WS,109,Qualification,VIVARELLI Debora (ITA),MAHMOUD Nourallah (EGY),VIVARELLI Debora
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,SHOUMAN Fagr,KHALED Salma,3,2,"11,9,11,8,11|7,11,6,11,9",,GRAND_SLAM,U21WS,109,Qualification,SHOUMAN Fagr (EGY),KHALED Salma (EGY),SHOUMAN Fagr
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,NASSER Galila,MORAD Reem,3,1,"11,7,11,11|9,11,4,8",,GRAND_SLAM,U21WS,109,Qualification,NASSER Galila (EGY),MORAD Reem (EGY),NASSER Galila
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ELERAKY Reem,MORAD Aynour,3,0,"11,11,11|3,7,7",,GRAND_SLAM,U21WS,109,Qualification,ELERAKY Reem (EGY),MORAD Aynour (EGY),ELERAKY Reem
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ELERAKY Reem,NASSER Galila,3,1,"8,11,11,11|11,9,9,9",,GRAND_SLAM,U21WS,109,Qualification,ELERAKY Reem (EGY),NASSER Galila (EGY),ELERAKY Reem
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,MORAD Reem,MORAD Aynour,3,0,"11,11,11|4,3,3",,GRAND_SLAM,U21WS,109,Qualification,MORAD Reem (EGY),MORAD Aynour (EGY),MORAD Reem
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,NASSER Galila,MORAD Aynour,3,0,"11,11,11|9,3,6",,GRAND_SLAM,U21WS,109,Qualification,NASSER Galila (EGY),MORAD Aynour (EGY),NASSER Galila
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ELERAKY Reem,MORAD Reem,3,2,"11,7,12,12,11|2,11,10,14,8",,GRAND_SLAM,U21WS,109,Qualification,ELERAKY Reem (EGY),MORAD Reem (EGY),ELERAKY Reem
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ABDELAZIZ Farah,SAID Mennatalla,3,0,"11,11,11|9,6,6",,GRAND_SLAM,U21WS,109,Qualification,ABDELAZIZ Farah (EGY),SAID Mennatalla (EGY),ABDELAZIZ Farah
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,HOSAM Reem,EZZAT Rana,3,2,"6,6,11,11,11|11,11,9,9,6",,GRAND_SLAM,U21WS,109,Qualification,HOSAM Reem (EGY),EZZAT Rana (EGY),HOSAM Reem
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ABDELAZIZ Farah,HOSAM Reem,3,1,"13,10,11,11|11,12,6,9",,GRAND_SLAM,U21WS,109,Qualification,ABDELAZIZ Farah (EGY),HOSAM Reem (EGY),ABDELAZIZ Farah
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,SAID Mennatalla,EZZAT Rana,3,1,"8,11,11,11|11,7,9,8",,GRAND_SLAM,U21WS,109,Qualification,SAID Mennatalla (EGY),EZZAT Rana (EGY),SAID Mennatalla
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,ABDELAZIZ Farah,EZZAT Rana,3,0,"11,11,13|3,8,11",,GRAND_SLAM,U21WS,109,Qualification,ABDELAZIZ Farah (EGY),EZZAT Rana (EGY),ABDELAZIZ Farah
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,HOSAM Reem,SAID Mennatalla,3,0,"11,11,11|4,5,9",,GRAND_SLAM,U21WS,109,Qualification,HOSAM Reem (EGY),SAID Mennatalla (EGY),HOSAM Reem
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,RAHMO Aida,YOUSRY Noha,3,2,"7,11,6,11,12|11,4,11,9,10",,GRAND_SLAM,U21WS,109,Qualification,RAHMO Aida (EGY),YOUSRY Noha (EGY),RAHMO Aida
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,SAAD Alaa,AYMAN Reem,3,0,"11,11,11|4,6,6",,GRAND_SLAM,U21WS,109,Qualification,SAAD Alaa (EGY),AYMAN Reem (EGY),SAAD Alaa
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,YOUSRY Noha,SAAD Alaa,3,1,"11,12,4,11|9,10,11,8",,GRAND_SLAM,U21WS,109,Qualification,YOUSRY Noha (EGY),SAAD Alaa (EGY),YOUSRY Noha
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,RAHMO Aida,AYMAN Reem,3,2,"11,7,11,10,11|9,11,5,12,9",,GRAND_SLAM,U21WS,109,Qualification,RAHMO Aida (EGY),AYMAN Reem (EGY),RAHMO Aida
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,YOUSRY Noha,AYMAN Reem,3,1,"15,11,8,11|13,9,11,7",,GRAND_SLAM,U21WS,109,Qualification,YOUSRY Noha (EGY),AYMAN Reem (EGY),YOUSRY Noha
+Euro-Africa Egypt Open Cairo 2013,2013-03-21,RAHMO Aida,SAAD Alaa,3,1,"13,11,8,11|11,7,11,7",,GRAND_SLAM,U21WS,109,Qualification,RAHMO Aida (EGY),SAAD Alaa (EGY),RAHMO Aida

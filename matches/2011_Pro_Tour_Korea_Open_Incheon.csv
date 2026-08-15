@@ -1,269 +1,269 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Pro Tour Korea Open Incheon 2011,2011-06-29,JIN Yixiong/SONG Hongyuan,CHAN Kazuhiro/MATSUDAIRA Kenji,4,0,"11,11,11,11|4,9,6,8",QF,GRAND_SLAM,MD,76,Main Draw,JIN Yixiong (CHN) / SONG Hongyuan (CHN),CHAN Kazuhiro (JPN) / MATSUDAIRA Kenji (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LIN Gaoyuan/WU Jiaji,MURAMATSU Yuto/SAKAI Asuka,3,1,"11,11,9,11|8,5,11,6",QR16,GRAND_SLAM,MD,76,Qualification,LIN Gaoyuan (CHN) / WU Jiaji (DOM),MURAMATSU Yuto (JPN) / SAKAI Asuka (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,CHOI Hyunjin/JEONG Sangeun,JIANG Tianyi/TANG Peng,3,2,"6,11,8,11,11|11,9,11,8,7",R16,GRAND_SLAM,MD,76,Main Draw,CHOI Hyunjin (KOR) / JEONG Sangeun (KOR),JIANG Tianyi (HKG) / TANG Peng (HKG)
-Pro Tour Korea Open Incheon 2011,2011-06-29,MATSUDAIRA Kenta/NIWA Koki,LIU Yi/YIN Hang,3,0,"11,13,11|2,11,6",R16,GRAND_SLAM,MD,76,Main Draw,MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN),LIU Yi (CHN) / YIN Hang (CHN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,CHAN Kazuhiro/MATSUDAIRA Kenji,JEOUNG Youngsik/KIM Minseok,3,0,"11,12,11|6,10,9",R16,GRAND_SLAM,MD,76,Main Draw,CHAN Kazuhiro (JPN) / MATSUDAIRA Kenji (JPN),JEOUNG Youngsik (KOR) / KIM Minseok (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,MATSUDAIRA Kenta/NIWA Koki,GAO Ning/LI Hu,4,3,"11,10,15,7,7,11,12|5,12,13,11,11,9,10",QF,GRAND_SLAM,MD,76,Main Draw,MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN),GAO Ning (SGP) / LI Hu (SGP)
-Pro Tour Korea Open Incheon 2011,2011-06-29,JIN Yixiong/SONG Hongyuan,MATSUDAIRA Kenta/NIWA Koki,4,3,"13,6,11,11,11,10,13|15,11,6,6,6,12,11",F,GRAND_SLAM,MD,76,Main Draw,JIN Yixiong (CHN) / SONG Hongyuan (CHN),MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,CHO Jaejun/KIM Donghyun,FLORE Tristan/GAUZY Simon,3,1,"11,11,9,11|8,9,11,9",QR16,GRAND_SLAM,MD,76,Qualification,CHO Jaejun (KOR) / KIM Donghyun (KOR),FLORE Tristan (FRA) / GAUZY Simon (FRA)
-Pro Tour Korea Open Incheon 2011,2011-06-29,GAO Ning/LI Hu,CHO Eonrae/LEE Jungwoo,3,2,"11,8,7,11,11|7,11,11,9,4",R16,GRAND_SLAM,MD,76,Main Draw,GAO Ning (SGP) / LI Hu (SGP),CHO Eonrae (KOR) / LEE Jungwoo (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,OH Sangeun/SEO Hyundeok,LIN Gaoyuan/WU Jiaji,3,1,"11,11,9,11|7,3,11,9",R16,GRAND_SLAM,MD,76,Main Draw,OH Sangeun (KOR) / SEO Hyundeok (KOR),LIN Gaoyuan (CHN) / WU Jiaji (DOM)
-Pro Tour Korea Open Incheon 2011,2011-06-29,CHO Jaejun/KIM Donghyun,YANG Zi/ZHAN Jian,3,2,"3,11,11,7,11|11,9,6,11,9",R16,GRAND_SLAM,MD,76,Main Draw,CHO Jaejun (KOR) / KIM Donghyun (KOR),YANG Zi (SGP) / ZHAN Jian (SGP)
-Pro Tour Korea Open Incheon 2011,2011-06-29,OH Sangeun/SEO Hyundeok,LEE Sang Su/RYU Seungmin,4,0,"11,12,11,11|8,10,7,6",QF,GRAND_SLAM,MD,76,Main Draw,OH Sangeun (KOR) / SEO Hyundeok (KOR),LEE Sang Su (KOR) / RYU Seungmin (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,CHO Jaejun/KIM Donghyun,CHOI Hyunjin/JEONG Sangeun,4,2,"6,11,11,11,5,12|11,6,8,8,11,10",QF,GRAND_SLAM,MD,76,Main Draw,CHO Jaejun (KOR) / KIM Donghyun (KOR),CHOI Hyunjin (KOR) / JEONG Sangeun (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,JIN Yixiong/SONG Hongyuan,CHO Jaejun/KIM Donghyun,4,0,"11,12,12,11|8,10,10,5",SF,GRAND_SLAM,MD,76,Main Draw,JIN Yixiong (CHN) / SONG Hongyuan (CHN),CHO Jaejun (KOR) / KIM Donghyun (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LIU Yi/YIN Hang,LIU Zhongze/MA Liang,3,0,,QR16,GRAND_SLAM,MD,76,Qualification,LIU Yi (CHN) / YIN Hang (CHN),LIU Zhongze (SGP) / MA Liang (SGP)
-Pro Tour Korea Open Incheon 2011,2011-06-29,JIN Yixiong/SONG Hongyuan,CHEN Chien-An/HUNG Tzu-Hsiang,3,0,"11,11,11|3,5,8",QR16,GRAND_SLAM,MD,76,Qualification,JIN Yixiong (CHN) / SONG Hongyuan (CHN),CHEN Chien-An (TPE) / HUNG Tzu-Hsiang (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Sang Su/RYU Seungmin,CHIANG Hung-Chieh/HUANG Sheng-Sheng,3,0,"11,11,11|8,8,7",R16,GRAND_SLAM,MD,76,Main Draw,LEE Sang Su (KOR) / RYU Seungmin (KOR),CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,JIN Yixiong/SONG Hongyuan,CHUANG Chih-Yuan/WU Chih-Chi,3,0,"11,13,11|8,11,7",R16,GRAND_SLAM,MD,76,Main Draw,JIN Yixiong (CHN) / SONG Hongyuan (CHN),CHUANG Chih-Yuan (TPE) / WU Chih-Chi (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,CHOI Hyunjin/JEONG Sangeun,GREEN Wally/ROBERTS Joel,3,0,"11,11,11|8,8,5",QR16,GRAND_SLAM,MD,76,Qualification,CHOI Hyunjin (KOR) / JEONG Sangeun (KOR),GREEN Wally (USA) / ROBERTS Joel (USA)
-Pro Tour Korea Open Incheon 2011,2011-06-29,YIN Hang,SAKAI Asuka,4,2,"11,8,5,11,11,13|7,11,11,9,4,11",,GRAND_SLAM,MS,76,Qualification,YIN Hang (CHN),SAKAI Asuka (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LI Hu,SAKAI Asuka,4,1,"10,14,12,12,11|12,12,10,10,2",,GRAND_SLAM,MS,76,Qualification,LI Hu (SGP),SAKAI Asuka (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LI Hu,YIN Hang,4,1,"11,7,11,11,11|6,11,9,7,7",,GRAND_SLAM,MS,76,Qualification,LI Hu (SGP),YIN Hang (CHN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,KIM Donghyun,GAUZY Simon,4,3,"12,8,6,8,11,11,11|10,11,11,11,4,8,8",,GRAND_SLAM,MS,76,Qualification,KIM Donghyun (KOR),GAUZY Simon (FRA)
-Pro Tour Korea Open Incheon 2011,2011-06-29,CHAN Kazuhiro,KIM Donghyun,4,1,"8,11,11,11,12|11,8,2,4,10",,GRAND_SLAM,MS,76,Qualification,CHAN Kazuhiro (JPN),KIM Donghyun (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,CHAN Kazuhiro,GAUZY Simon,4,0,"13,11,11,11|11,3,5,3",,GRAND_SLAM,MS,76,Qualification,CHAN Kazuhiro (JPN),GAUZY Simon (FRA)
-Pro Tour Korea Open Incheon 2011,2011-06-29,CHAITAT Chaisit,FLORE Tristan,4,2,"6,10,12,13,12,11|11,12,10,11,10,7",,GRAND_SLAM,MS,76,Qualification,CHAITAT Chaisit (THA),FLORE Tristan (FRA)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Sang Su,CHAITAT Chaisit,4,0,"11,11,11,11|9,3,6,9",,GRAND_SLAM,MS,76,Qualification,LEE Sang Su (KOR),CHAITAT Chaisit (THA)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Sang Su,FLORE Tristan,4,1,"5,11,11,12,11|11,7,8,10,9",,GRAND_SLAM,MS,76,Qualification,LEE Sang Su (KOR),FLORE Tristan (FRA)
-Pro Tour Korea Open Incheon 2011,2011-06-29,MURAMATSU Yuto,LEE Chia-Sheng,4,2,"12,6,11,12,11,11|14,11,9,10,9,4",,GRAND_SLAM,MS,76,Qualification,MURAMATSU Yuto (JPN),LEE Chia-Sheng (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,KIM Junghoon,LEE Chia-Sheng,4,0,"11,11,11,11|7,8,5,8",,GRAND_SLAM,MS,76,Qualification,KIM Junghoon (KOR),LEE Chia-Sheng (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,KIM Junghoon,MURAMATSU Yuto,4,2,"11,11,6,14,9,11|7,7,11,12,11,4",,GRAND_SLAM,MS,76,Qualification,KIM Junghoon (KOR),MURAMATSU Yuto (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,MORIZONO Masataka,MA Liang,4,1,"8,11,11,11,11|11,4,6,0,0",,GRAND_SLAM,MS,76,Qualification,MORIZONO Masataka (JPN),MA Liang (SGP)
-Pro Tour Korea Open Incheon 2011,2011-06-29,JEOUNG Youngsik,MORIZONO Masataka,4,1,"11,6,11,11,11|7,11,9,7,2",,GRAND_SLAM,MS,76,Qualification,JEOUNG Youngsik (KOR),MORIZONO Masataka (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,JEOUNG Youngsik,MA Liang,4,0,,,GRAND_SLAM,MS,76,Qualification,JEOUNG Youngsik (KOR),MA Liang (SGP)
-Pro Tour Korea Open Incheon 2011,2011-06-29,YOSHIDA Masaki,CHO Jaejun,4,2,"12,5,11,12,10,11|10,11,6,10,12,4",,GRAND_SLAM,MS,76,Qualification,YOSHIDA Masaki (JPN),CHO Jaejun (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LEUNG Chu Yan,CHO Jaejun,4,0,"11,11,11,11|6,5,4,6",,GRAND_SLAM,MS,76,Qualification,LEUNG Chu Yan (HKG),CHO Jaejun (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LEUNG Chu Yan,YOSHIDA Masaki,4,3,"11,11,6,11,11,12,11|13,8,11,7,13,10,7",,GRAND_SLAM,MS,76,Qualification,LEUNG Chu Yan (HKG),YOSHIDA Masaki (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,WANG LI Chung-Yi,CHEN Feng,4,0,"11,11,11,11|6,7,6,9",,GRAND_SLAM,MS,76,Qualification,WANG LI Chung-Yi (TPE),CHEN Feng (SGP)
-Pro Tour Korea Open Incheon 2011,2011-06-29,NIWA Koki,WANG LI Chung-Yi,4,1,"11,6,11,13,11|6,11,2,11,2",,GRAND_SLAM,MS,76,Qualification,NIWA Koki (JPN),WANG LI Chung-Yi (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,NIWA Koki,CHEN Feng,4,1,"3,11,11,12,11|11,5,5,10,8",,GRAND_SLAM,MS,76,Qualification,NIWA Koki (JPN),CHEN Feng (SGP)
-Pro Tour Korea Open Incheon 2011,2011-06-29,HUNG Tzu-Hsiang,LEE Seunghyeok,4,1,"9,12,11,11,11|11,10,7,8,5",,GRAND_SLAM,MS,76,Qualification,HUNG Tzu-Hsiang (TPE),LEE Seunghyeok (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LIN Gaoyuan,LEE Seunghyeok,4,0,"11,11,11,14|5,6,7,12",,GRAND_SLAM,MS,76,Qualification,LIN Gaoyuan (CHN),LEE Seunghyeok (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LIN Gaoyuan,HUNG Tzu-Hsiang,4,0,"11,11,12,12|6,9,10,10",,GRAND_SLAM,MS,76,Qualification,LIN Gaoyuan (CHN),HUNG Tzu-Hsiang (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LIU Zhongze,YEH Chih-Wei,4,2,"11,9,9,12,11,11|7,11,11,10,9,8",,GRAND_SLAM,MS,76,Qualification,LIU Zhongze (SGP),YEH Chih-Wei (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,JEONG Sangeun,YEH Chih-Wei,4,1,"5,11,11,11,11|11,4,8,6,5",,GRAND_SLAM,MS,76,Qualification,JEONG Sangeun (KOR),YEH Chih-Wei (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,JEONG Sangeun,LIU Zhongze,4,1,"11,11,3,15,11|8,4,11,13,9",,GRAND_SLAM,MS,76,Qualification,JEONG Sangeun (KOR),LIU Zhongze (SGP)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LIU Yi,CHIANG Hung-Chieh,4,2,"11,11,11,10,9,11|5,5,9,12,11,7",,GRAND_SLAM,MS,76,Qualification,LIU Yi (CHN),CHIANG Hung-Chieh (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LIU Yi,ZHAN Jian,4,3,"3,11,10,12,11,11,11|11,13,12,10,5,8,3",,GRAND_SLAM,MS,76,Qualification,LIU Yi (CHN),ZHAN Jian (SGP)
-Pro Tour Korea Open Incheon 2011,2011-06-29,ZHAN Jian,CHIANG Hung-Chieh,4,0,"11,11,11,11|3,5,5,4",,GRAND_SLAM,MS,76,Qualification,ZHAN Jian (SGP),CHIANG Hung-Chieh (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,JIN Yixiong,WU Chih-Chi,4,1,"11,5,11,15,11|8,11,7,13,9",,GRAND_SLAM,MS,76,Qualification,JIN Yixiong (CHN),WU Chih-Chi (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,MATSUDAIRA Kenji,JIN Yixiong,4,0,"11,11,11,11|3,8,2,6",,GRAND_SLAM,MS,76,Qualification,MATSUDAIRA Kenji (JPN),JIN Yixiong (CHN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,MATSUDAIRA Kenji,WU Chih-Chi,4,2,"11,4,11,2,11,11|6,11,8,11,6,9",,GRAND_SLAM,MS,76,Qualification,MATSUDAIRA Kenji (JPN),WU Chih-Chi (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,KARUBE Ryusuke,CHEN Chien-An,4,3,"11,13,6,9,13,6,11|7,11,11,11,11,11,9",,GRAND_SLAM,MS,76,Qualification,KARUBE Ryusuke (JPN),CHEN Chien-An (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,WU Jiaji,GREEN Wally,4,0,"11,11,11,11|6,8,3,5",,GRAND_SLAM,MS,76,Qualification,WU Jiaji (DOM),GREEN Wally (USA)
-Pro Tour Korea Open Incheon 2011,2011-06-29,CHEN Chien-An,GREEN Wally,4,0,"11,11,11,11|3,5,3,5",,GRAND_SLAM,MS,76,Qualification,CHEN Chien-An (TPE),GREEN Wally (USA)
-Pro Tour Korea Open Incheon 2011,2011-06-29,WU Jiaji,KARUBE Ryusuke,4,2,"11,12,4,10,11,11|8,10,11,12,7,8",,GRAND_SLAM,MS,76,Qualification,WU Jiaji (DOM),KARUBE Ryusuke (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,WU Jiaji,CHEN Chien-An,4,3,"8,11,11,15,10,10,11|11,3,9,13,12,12,6",,GRAND_SLAM,MS,76,Qualification,WU Jiaji (DOM),CHEN Chien-An (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,KARUBE Ryusuke,GREEN Wally,4,0,"11,11,11,11|4,1,7,3",,GRAND_SLAM,MS,76,Qualification,KARUBE Ryusuke (JPN),GREEN Wally (USA)
-Pro Tour Korea Open Incheon 2011,2011-06-29,CHOI Hyunjin,HUANG Sheng-Sheng,4,2,"7,11,11,11,7,11|11,6,5,8,11,6",,GRAND_SLAM,MS,76,Qualification,CHOI Hyunjin (KOR),HUANG Sheng-Sheng (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,SONG Hongyuan,ROBERTS Joel,4,0,"11,11,11,11|4,1,7,1",,GRAND_SLAM,MS,76,Qualification,SONG Hongyuan (CHN),ROBERTS Joel (USA)
-Pro Tour Korea Open Incheon 2011,2011-06-29,HUANG Sheng-Sheng,ROBERTS Joel,4,0,"11,11,11,11|5,4,7,8",,GRAND_SLAM,MS,76,Qualification,HUANG Sheng-Sheng (TPE),ROBERTS Joel (USA)
-Pro Tour Korea Open Incheon 2011,2011-06-29,CHOI Hyunjin,SONG Hongyuan,4,1,"15,11,11,8,12|13,7,9,11,10",,GRAND_SLAM,MS,76,Qualification,CHOI Hyunjin (KOR),SONG Hongyuan (CHN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,SONG Hongyuan,HUANG Sheng-Sheng,4,2,"7,8,11,11,14,11|11,11,9,4,12,6",,GRAND_SLAM,MS,76,Qualification,SONG Hongyuan (CHN),HUANG Sheng-Sheng (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,CHOI Hyunjin,ROBERTS Joel,4,0,"11,11,11,12|8,5,1,10",,GRAND_SLAM,MS,76,Qualification,CHOI Hyunjin (KOR),ROBERTS Joel (USA)
-Pro Tour Korea Open Incheon 2011,2011-06-29,MORIZONO Masataka,WANG LI Chung-Yi,3,2,"11,9,6,11,11|9,11,11,5,8",,GRAND_SLAM,U21MS,76,Qualification,MORIZONO Masataka (JPN),WANG LI Chung-Yi (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,WANG LI Chung-Yi,WU Jiaji,3,2,"7,11,11,6,14|11,6,6,11,12",,GRAND_SLAM,U21MS,76,Qualification,WANG LI Chung-Yi (TPE),WU Jiaji (DOM)
-Pro Tour Korea Open Incheon 2011,2011-06-29,WU Jiaji,MORIZONO Masataka,3,1,"11,11,8,11|4,4,11,8",,GRAND_SLAM,U21MS,76,Qualification,WU Jiaji (DOM),MORIZONO Masataka (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LIU Yi,CHOI Deokhwa,3,2,"1,11,6,11,11|11,6,11,5,5",,GRAND_SLAM,U21MS,76,Qualification,LIU Yi (CHN),CHOI Deokhwa (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LIU Yi,HUNG Tzu-Hsiang,3,0,"11,11,11|7,6,8",,GRAND_SLAM,U21MS,76,Qualification,LIU Yi (CHN),HUNG Tzu-Hsiang (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,CHOI Deokhwa,HUNG Tzu-Hsiang,3,0,"11,11,11|5,5,4",,GRAND_SLAM,U21MS,76,Qualification,CHOI Deokhwa (KOR),HUNG Tzu-Hsiang (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,YEH Chih-Wei,LEE Seunghyeok,3,2,"11,5,11,8,14|4,11,4,11,12",,GRAND_SLAM,U21MS,76,Qualification,YEH Chih-Wei (TPE),LEE Seunghyeok (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,YOSHIDA Masaki,YEH Chih-Wei,3,0,"11,12,11|9,10,9",,GRAND_SLAM,U21MS,76,Qualification,YOSHIDA Masaki (JPN),YEH Chih-Wei (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,YOSHIDA Masaki,LEE Seunghyeok,3,0,"11,11,11|3,6,4",,GRAND_SLAM,U21MS,76,Qualification,YOSHIDA Masaki (JPN),LEE Seunghyeok (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Chia-Sheng,LIM Jonghoon,3,1,"11,11,11,11|7,13,7,8",,GRAND_SLAM,U21MS,76,Qualification,LEE Chia-Sheng (TPE),LIM Jonghoon (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,CHEN Feng,LIM Jonghoon,3,1,"11,6,11,11|7,11,8,7",,GRAND_SLAM,U21MS,76,Qualification,CHEN Feng (SGP),LIM Jonghoon (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,CHEN Feng,LEE Chia-Sheng,3,2,"9,11,6,11,11|11,5,11,9,8",,GRAND_SLAM,U21MS,76,Qualification,CHEN Feng (SGP),LEE Chia-Sheng (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,JIN Yixiong,CHO Jaejun,3,1,"6,11,11,11|11,3,7,5",,GRAND_SLAM,U21MS,76,Qualification,JIN Yixiong (CHN),CHO Jaejun (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,JIN Yixiong,MA Liang,3,0,,,GRAND_SLAM,U21MS,76,Qualification,JIN Yixiong (CHN),MA Liang (SGP)
-Pro Tour Korea Open Incheon 2011,2011-06-29,CHO Jaejun,MA Liang,3,0,,,GRAND_SLAM,U21MS,76,Qualification,CHO Jaejun (KOR),MA Liang (SGP)
-Pro Tour Korea Open Incheon 2011,2011-06-29,KIM Donghyun,ROBERTS Joel,3,0,"11,11,11|6,4,3",,GRAND_SLAM,U21MS,76,Qualification,KIM Donghyun (KOR),ROBERTS Joel (USA)
-Pro Tour Korea Open Incheon 2011,2011-06-29,MURAMATSU Yuto,ROBERTS Joel,3,0,"11,11,11|6,2,2",,GRAND_SLAM,U21MS,76,Qualification,MURAMATSU Yuto (JPN),ROBERTS Joel (USA)
-Pro Tour Korea Open Incheon 2011,2011-06-29,MURAMATSU Yuto,KIM Donghyun,3,2,"8,11,11,5,11|11,7,9,11,7",,GRAND_SLAM,U21MS,76,Qualification,MURAMATSU Yuto (JPN),KIM Donghyun (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,CHEON Minhyuck,SAKAI Asuka,3,0,"14,14,11|12,12,7",,GRAND_SLAM,U21MS,76,Qualification,CHEON Minhyuck (KOR),SAKAI Asuka (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,CHEON Minhyuck,FLORE Tristan,3,1,"8,11,12,14|11,8,10,12",,GRAND_SLAM,U21MS,76,Qualification,CHEON Minhyuck (KOR),FLORE Tristan (FRA)
-Pro Tour Korea Open Incheon 2011,2011-06-29,SAKAI Asuka,FLORE Tristan,3,1,"11,11,8,11|6,9,11,9",,GRAND_SLAM,U21MS,76,Qualification,SAKAI Asuka (JPN),FLORE Tristan (FRA)
-Pro Tour Korea Open Incheon 2011,2011-06-29,YIN Hang,CHO Seungmin,3,2,"9,7,12,11,11|11,11,10,4,7",,GRAND_SLAM,U21MS,76,Qualification,YIN Hang (CHN),CHO Seungmin (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,GAUZY Simon,CHO Seungmin,3,0,"11,11,12|4,8,10",,GRAND_SLAM,U21MS,76,Qualification,GAUZY Simon (FRA),CHO Seungmin (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,YIN Hang,GAUZY Simon,3,2,"12,7,5,11,11|10,11,11,8,9",,GRAND_SLAM,U21MS,76,Qualification,YIN Hang (CHN),GAUZY Simon (FRA)
-Pro Tour Korea Open Incheon 2011,2011-06-29,JOO Saehyuk,CHAITAT Chaisit,4,0,"11,11,11,11|8,8,9,5",R32,GRAND_SLAM,MS,76,Main Draw,JOO Saehyuk (KOR),CHAITAT Chaisit (THA)
-Pro Tour Korea Open Incheon 2011,2011-06-29,SEO Hyundeok,LEUNG Chu Yan,4,1,"11,11,11,8,11|7,7,9,11,9",R32,GRAND_SLAM,MS,76,Main Draw,SEO Hyundeok (KOR),LEUNG Chu Yan (HKG)
-Pro Tour Korea Open Incheon 2011,2011-06-29,YANG Zi,KIM Junghoon,4,1,"12,11,7,11,13|10,4,11,7,11",R32,GRAND_SLAM,MS,76,Main Draw,YANG Zi (SGP),KIM Junghoon (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,OVTCHAROV Dimitrij,JEOUNG Youngsik,4,1,"13,6,11,11,12|11,11,7,7,10",R32,GRAND_SLAM,MS,76,Main Draw,OVTCHAROV Dimitrij (GER),JEOUNG Youngsik (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,JEONG Sangeun,TANG Peng,4,1,"11,6,11,15,11|8,11,3,13,2",R32,GRAND_SLAM,MS,76,Main Draw,JEONG Sangeun (KOR),TANG Peng (HKG)
-Pro Tour Korea Open Incheon 2011,2011-06-29,CHO Eonrae,WU Jiaji,4,1,"11,2,11,13,11|8,11,5,11,4",R32,GRAND_SLAM,MS,76,Main Draw,CHO Eonrae (KOR),WU Jiaji (DOM)
-Pro Tour Korea Open Incheon 2011,2011-06-29,KIM Minseok,NIWA Koki,4,0,"11,11,11,11|8,9,5,4",R32,GRAND_SLAM,MS,76,Main Draw,KIM Minseok (KOR),NIWA Koki (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,CHUANG Chih-Yuan,YIN Hang,4,0,"11,11,13,11|5,1,11,9",R32,GRAND_SLAM,MS,76,Main Draw,CHUANG Chih-Yuan (TPE),YIN Hang (CHN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,RYU Seungmin,MATSUDAIRA Kenji,4,0,"12,11,11,11|10,9,4,8",R32,GRAND_SLAM,MS,76,Main Draw,RYU Seungmin (KOR),MATSUDAIRA Kenji (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LIU Yi,JIANG Tianyi,4,0,"11,11,11,11|8,2,7,8",R32,GRAND_SLAM,MS,76,Main Draw,LIU Yi (CHN),JIANG Tianyi (HKG)
-Pro Tour Korea Open Incheon 2011,2011-06-29,YOSHIDA Kaii,LI Hu,4,0,"11,13,11,11|7,11,9,7",R32,GRAND_SLAM,MS,76,Main Draw,YOSHIDA Kaii (JPN),LI Hu (SGP)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Sang Su,GAO Ning,4,2,"9,11,6,12,11,11|11,8,11,10,7,4",R32,GRAND_SLAM,MS,76,Main Draw,LEE Sang Su (KOR),GAO Ning (SGP)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LIN Gaoyuan,BAUM Patrick,4,1,"11,13,11,8,11|6,11,7,11,8",R32,GRAND_SLAM,MS,76,Main Draw,LIN Gaoyuan (CHN),BAUM Patrick (GER)
-Pro Tour Korea Open Incheon 2011,2011-06-29,CHAN Kazuhiro,LEE Jungwoo,4,1,"12,13,11,11,11|14,11,6,7,6",R32,GRAND_SLAM,MS,76,Main Draw,CHAN Kazuhiro (JPN),LEE Jungwoo (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,CHOI Hyunjin,MATSUDAIRA Kenta,4,2,"9,11,6,11,11,11|11,9,11,7,8,7",R32,GRAND_SLAM,MS,76,Main Draw,CHOI Hyunjin (KOR),MATSUDAIRA Kenta (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,OH Sangeun,LIU Zhongze,4,0,"11,12,11,11|7,10,3,3",R32,GRAND_SLAM,MS,76,Main Draw,OH Sangeun (KOR),LIU Zhongze (SGP)
-Pro Tour Korea Open Incheon 2011,2011-06-29,JOO Saehyuk,SEO Hyundeok,4,2,"13,11,3,11,11,11|15,2,11,4,4,9",R16,GRAND_SLAM,MS,76,Main Draw,JOO Saehyuk (KOR),SEO Hyundeok (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,OVTCHAROV Dimitrij,YANG Zi,4,1,"11,3,11,11,11|9,11,6,5,5",R16,GRAND_SLAM,MS,76,Main Draw,OVTCHAROV Dimitrij (GER),YANG Zi (SGP)
-Pro Tour Korea Open Incheon 2011,2011-06-29,CHO Eonrae,JEONG Sangeun,4,3,"11,8,11,11,8,8,13|6,11,5,8,11,11,11",R16,GRAND_SLAM,MS,76,Main Draw,CHO Eonrae (KOR),JEONG Sangeun (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,KIM Minseok,CHUANG Chih-Yuan,4,2,"11,11,11,8,9,11|3,7,8,11,11,5",R16,GRAND_SLAM,MS,76,Main Draw,KIM Minseok (KOR),CHUANG Chih-Yuan (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,RYU Seungmin,LIU Yi,4,0,"11,11,11,13|9,6,7,11",R16,GRAND_SLAM,MS,76,Main Draw,RYU Seungmin (KOR),LIU Yi (CHN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Sang Su,YOSHIDA Kaii,4,2,"9,11,11,8,11,13|11,5,5,11,6,11",R16,GRAND_SLAM,MS,76,Main Draw,LEE Sang Su (KOR),YOSHIDA Kaii (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LIN Gaoyuan,CHAN Kazuhiro,4,0,"11,12,14,14|7,10,12,12",R16,GRAND_SLAM,MS,76,Main Draw,LIN Gaoyuan (CHN),CHAN Kazuhiro (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,OH Sangeun,CHOI Hyunjin,4,0,"11,11,11,11|5,7,8,5",R16,GRAND_SLAM,MS,76,Main Draw,OH Sangeun (KOR),CHOI Hyunjin (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,OVTCHAROV Dimitrij,JOO Saehyuk,4,2,"11,11,11,11,5,11|8,5,13,7,11,6",QF,GRAND_SLAM,MS,76,Main Draw,OVTCHAROV Dimitrij (GER),JOO Saehyuk (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,CHO Eonrae,KIM Minseok,4,3,"6,11,4,11,4,11,11|11,9,11,9,11,8,6",QF,GRAND_SLAM,MS,76,Main Draw,CHO Eonrae (KOR),KIM Minseok (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Sang Su,RYU Seungmin,4,3,"11,8,11,8,5,11,11|5,11,8,11,11,9,2",QF,GRAND_SLAM,MS,76,Main Draw,LEE Sang Su (KOR),RYU Seungmin (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LIN Gaoyuan,OH Sangeun,4,3,"9,7,11,11,12,11,11|11,11,6,9,14,7,5",QF,GRAND_SLAM,MS,76,Main Draw,LIN Gaoyuan (CHN),OH Sangeun (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,OVTCHAROV Dimitrij,CHO Eonrae,4,2,"12,9,16,11,11,13|14,11,14,4,3,11",SF,GRAND_SLAM,MS,76,Main Draw,OVTCHAROV Dimitrij (GER),CHO Eonrae (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Sang Su,LIN Gaoyuan,4,1,"11,11,11,7,11|8,9,4,11,5",SF,GRAND_SLAM,MS,76,Main Draw,LEE Sang Su (KOR),LIN Gaoyuan (CHN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,OVTCHAROV Dimitrij,LEE Sang Su,4,1,"11,11,11,11,11|9,6,13,9,9",F,GRAND_SLAM,MS,76,Main Draw,OVTCHAROV Dimitrij (GER),LEE Sang Su (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,WU Jiaji,KIM Minseok,3,1,"11,11,8,11|9,8,11,9",R16,GRAND_SLAM,U21MS,76,Main Draw,WU Jiaji (DOM),KIM Minseok (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,JIN Yixiong,JEONG Sangeun,3,2,"4,8,11,14,11|11,11,5,12,4",R16,GRAND_SLAM,U21MS,76,Main Draw,JIN Yixiong (CHN),JEONG Sangeun (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LIN Gaoyuan,MURAMATSU Yuto,3,0,"11,11,11|8,6,6",R16,GRAND_SLAM,U21MS,76,Main Draw,LIN Gaoyuan (CHN),MURAMATSU Yuto (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,JEOUNG Youngsik,YOSHIDA Masaki,3,1,"8,11,12,11|11,5,10,9",R16,GRAND_SLAM,U21MS,76,Main Draw,JEOUNG Youngsik (KOR),YOSHIDA Masaki (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,CHEN Chien-An,LIU Yi,3,2,"11,9,11,12,11|6,11,8,14,5",R16,GRAND_SLAM,U21MS,76,Main Draw,CHEN Chien-An (TPE),LIU Yi (CHN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,SONG Hongyuan,CHEON Minhyuck,3,0,"11,12,12|7,10,10",R16,GRAND_SLAM,U21MS,76,Main Draw,SONG Hongyuan (CHN),CHEON Minhyuck (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Sang Su,YIN Hang,3,1,"11,11,9,13|8,6,11,11",R16,GRAND_SLAM,U21MS,76,Main Draw,LEE Sang Su (KOR),YIN Hang (CHN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,WU Jiaji,JIN Yixiong,4,0,"11,11,11,11|5,5,7,7",QF,GRAND_SLAM,U21MS,76,Main Draw,WU Jiaji (DOM),JIN Yixiong (CHN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,JEOUNG Youngsik,LIN Gaoyuan,4,1,"11,7,11,11,11|6,11,8,9,3",QF,GRAND_SLAM,U21MS,76,Main Draw,JEOUNG Youngsik (KOR),LIN Gaoyuan (CHN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,NIWA Koki,CHEN Chien-An,4,3,"11,11,12,6,11,11,11|4,6,14,11,13,7,7",QF,GRAND_SLAM,U21MS,76,Main Draw,NIWA Koki (JPN),CHEN Chien-An (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Sang Su,SONG Hongyuan,4,0,"11,11,11,11|7,8,9,9",QF,GRAND_SLAM,U21MS,76,Main Draw,LEE Sang Su (KOR),SONG Hongyuan (CHN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,JEOUNG Youngsik,WU Jiaji,4,2,"6,11,12,7,11,11|11,7,10,11,6,2",SF,GRAND_SLAM,U21MS,76,Main Draw,JEOUNG Youngsik (KOR),WU Jiaji (DOM)
-Pro Tour Korea Open Incheon 2011,2011-06-29,NIWA Koki,LEE Sang Su,4,2,"12,11,11,11,9,11|10,13,8,6,11,9",SF,GRAND_SLAM,U21MS,76,Main Draw,NIWA Koki (JPN),LEE Sang Su (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,NIWA Koki,JEOUNG Youngsik,4,3,"11,11,9,9,6,11,11|5,7,11,11,11,9,7",F,GRAND_SLAM,U21MS,76,Main Draw,NIWA Koki (JPN),JEOUNG Youngsik (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,YANG Ha Eun,FUJII Yuko,3,0,"11,11,11|7,8,5",R16,GRAND_SLAM,U21WS,76,Main Draw,YANG Ha Eun (KOR),FUJII Yuko (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,TANIOKA Ayuka,CHEN Szu-Yu,3,2,"4,11,11,6,11|11,9,3,11,5",R16,GRAND_SLAM,U21WS,76,Main Draw,TANIOKA Ayuka (JPN),CHEN Szu-Yu (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,SONG Maeum,TASHIRO Saki,3,2,"11,10,11,8,11|7,12,6,11,7",R16,GRAND_SLAM,U21WS,76,Main Draw,SONG Maeum (KOR),TASHIRO Saki (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,CHENG I-Ching,MUHLBACH Kathrin,3,0,"11,12,11|5,10,8",R16,GRAND_SLAM,U21WS,76,Main Draw,CHENG I-Ching (TPE),MUHLBACH Kathrin (GER)
-Pro Tour Korea Open Incheon 2011,2011-06-29,MORIZONO Misaki,HSIUNG Nai-I,3,2,"11,10,9,11,11|9,12,11,5,5",R16,GRAND_SLAM,U21WS,76,Main Draw,MORIZONO Misaki (JPN),HSIUNG Nai-I (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,NG Wing Nam,YOO Eunchong,3,2,"10,12,11,9,11|12,10,7,11,8",R16,GRAND_SLAM,U21WS,76,Main Draw,NG Wing Nam (HKG),YOO Eunchong (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,HOU Yu-Ling,MAEDA Miyu,3,0,"11,14,11|7,12,6",R16,GRAND_SLAM,U21WS,76,Main Draw,HOU Yu-Ling (TPE),MAEDA Miyu (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Ho Ching,KANG Haneul,3,2,"11,9,11,9,11|8,11,9,11,8",R16,GRAND_SLAM,U21WS,76,Main Draw,LEE Ho Ching (HKG),KANG Haneul (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,YANG Ha Eun,TANIOKA Ayuka,4,0,"11,11,11,11|2,6,7,2",QF,GRAND_SLAM,U21WS,76,Main Draw,YANG Ha Eun (KOR),TANIOKA Ayuka (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,SONG Maeum,CHENG I-Ching,4,0,"11,11,11,11|7,5,9,8",QF,GRAND_SLAM,U21WS,76,Main Draw,SONG Maeum (KOR),CHENG I-Ching (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,MORIZONO Misaki,NG Wing Nam,4,0,"11,11,11,11|2,8,6,4",QF,GRAND_SLAM,U21WS,76,Main Draw,MORIZONO Misaki (JPN),NG Wing Nam (HKG)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Ho Ching,HOU Yu-Ling,4,1,"11,11,11,6,11|5,8,3,11,5",QF,GRAND_SLAM,U21WS,76,Main Draw,LEE Ho Ching (HKG),HOU Yu-Ling (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,YANG Ha Eun,SONG Maeum,4,0,"11,11,11,11|6,9,6,7",SF,GRAND_SLAM,U21WS,76,Main Draw,YANG Ha Eun (KOR),SONG Maeum (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,MORIZONO Misaki,LEE Ho Ching,4,1,"7,11,12,11,11|11,9,10,6,9",SF,GRAND_SLAM,U21WS,76,Main Draw,MORIZONO Misaki (JPN),LEE Ho Ching (HKG)
-Pro Tour Korea Open Incheon 2011,2011-06-29,YANG Ha Eun,MORIZONO Misaki,4,0,"11,11,11,11|7,6,8,9",F,GRAND_SLAM,U21WS,76,Main Draw,YANG Ha Eun (KOR),MORIZONO Misaki (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,YOO Eunchong,CHANG Ya-Chuan,3,1,"11,11,6,11|7,8,11,6",,GRAND_SLAM,U21WS,76,Qualification,YOO Eunchong (KOR),CHANG Ya-Chuan (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,CHANG Ya-Chuan,MATSUZAWA Marina,3,2,"5,11,14,11,11|11,8,16,8,8",,GRAND_SLAM,U21WS,76,Qualification,CHANG Ya-Chuan (TPE),MATSUZAWA Marina (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,MATSUZAWA Marina,YOO Eunchong,3,2,"11,7,11,6,13|1,11,7,11,11",,GRAND_SLAM,U21WS,76,Qualification,MATSUZAWA Marina (JPN),YOO Eunchong (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,CHOI Jeongmin,MIYAKE Natsumi,3,1,"11,11,4,11|7,8,11,4",,GRAND_SLAM,U21WS,76,Qualification,CHOI Jeongmin (KOR),MIYAKE Natsumi (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,MIYAKE Natsumi,CHEN Szu-Yu,3,2,"11,11,8,10,11|8,7,11,12,8",,GRAND_SLAM,U21WS,76,Qualification,MIYAKE Natsumi (JPN),CHEN Szu-Yu (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,CHEN Szu-Yu,CHOI Jeongmin,3,1,"6,11,11,11|11,4,7,5",,GRAND_SLAM,U21WS,76,Qualification,CHEN Szu-Yu (TPE),CHOI Jeongmin (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,FUJII Yuko,SIM Kai Xin Zena,3,0,"11,11,11|9,5,2",,GRAND_SLAM,U21WS,76,Qualification,FUJII Yuko (JPN),SIM Kai Xin Zena (SGP)
-Pro Tour Korea Open Incheon 2011,2011-06-29,FUJII Yuko,JO Yujin,3,0,"12,11,11|10,1,9",,GRAND_SLAM,U21WS,76,Qualification,FUJII Yuko (JPN),JO Yujin (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,JO Yujin,SIM Kai Xin Zena,3,0,"12,11,11|10,6,3",,GRAND_SLAM,U21WS,76,Qualification,JO Yujin (KOR),SIM Kai Xin Zena (SGP)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Yujin,TSUI Pao-Wen,3,1,"11,11,7,11|8,6,11,8",,GRAND_SLAM,U21WS,76,Qualification,LEE Yujin (KOR),TSUI Pao-Wen (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,MUHLBACH Kathrin,LEE Yujin,3,0,"11,11,11|3,4,8",,GRAND_SLAM,U21WS,76,Qualification,MUHLBACH Kathrin (GER),LEE Yujin (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,MUHLBACH Kathrin,TSUI Pao-Wen,3,1,"11,5,11,11|6,11,4,9",,GRAND_SLAM,U21WS,76,Qualification,MUHLBACH Kathrin (GER),TSUI Pao-Wen (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Nakyung,KIM Seoyeon,3,0,"11,11,11|6,9,9",,GRAND_SLAM,U21WS,76,Qualification,LEE Nakyung (KOR),KIM Seoyeon (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,TASHIRO Saki,LEE Nakyung,3,1,"11,9,11,12|6,11,3,10",,GRAND_SLAM,U21WS,76,Qualification,TASHIRO Saki (JPN),LEE Nakyung (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,TASHIRO Saki,KIM Seoyeon,3,0,"11,11,11|7,2,4",,GRAND_SLAM,U21WS,76,Qualification,TASHIRO Saki (JPN),KIM Seoyeon (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Zion,LEE Dasom,3,1,"6,11,11,12|11,7,5,10",,GRAND_SLAM,U21WS,76,Qualification,LEE Zion (KOR),LEE Dasom (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,HSIUNG Nai-I,LEE Zion,3,0,"11,11,11|4,4,8",,GRAND_SLAM,U21WS,76,Qualification,HSIUNG Nai-I (TPE),LEE Zion (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,HSIUNG Nai-I,LEE Dasom,3,2,"11,9,3,11,11|6,11,11,8,9",,GRAND_SLAM,U21WS,76,Qualification,HSIUNG Nai-I (TPE),LEE Dasom (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,KANG Haneul,TSUCHIDA Miki,3,2,"6,3,11,11,13|11,11,5,8,11",,GRAND_SLAM,U21WS,76,Qualification,KANG Haneul (KOR),TSUCHIDA Miki (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,KANG Haneul,GUAN Mengyuan,3,0,,,GRAND_SLAM,U21WS,76,Qualification,KANG Haneul (KOR),GUAN Mengyuan (HKG)
-Pro Tour Korea Open Incheon 2011,2011-06-29,TSUCHIDA Miki,GUAN Mengyuan,3,0,,,GRAND_SLAM,U21WS,76,Qualification,TSUCHIDA Miki (JPN),GUAN Mengyuan (HKG)
-Pro Tour Korea Open Incheon 2011,2011-06-29,HOU Yu-Ling,LEE Seul,3,1,"11,6,11,11|3,11,5,8",,GRAND_SLAM,U21WS,76,Qualification,HOU Yu-Ling (TPE),LEE Seul (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,SO Eka,LEE Seul,3,0,"11,11,12|3,8,10",,GRAND_SLAM,U21WS,76,Qualification,SO Eka (JPN),LEE Seul (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,HOU Yu-Ling,SO Eka,3,1,"9,11,13,11|11,9,11,1",,GRAND_SLAM,U21WS,76,Qualification,HOU Yu-Ling (TPE),SO Eka (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,ISHIGAKI Yuka/YAMANASHI Yuri,JIANG Huajun/LEE Ho Ching,3,0,"11,11,11|5,9,3",R16,GRAND_SLAM,WD,76,Main Draw,ISHIGAKI Yuka (JPN) / YAMANASHI Yuri (JPN),JIANG Huajun (HKG) / LEE Ho Ching (HKG)
-Pro Tour Korea Open Incheon 2011,2011-06-29,FUKUHARA Ai/ISHIKAWA Kasumi,GUAN Mengyuan/NG Wing Nam,4,0,,R16,GRAND_SLAM,WD,76,Main Draw,FUKUHARA Ai (JPN) / ISHIKAWA Kasumi (JPN),GUAN Mengyuan (HKG) / NG Wing Nam (HKG)
-Pro Tour Korea Open Incheon 2011,2011-06-29,FUJII Hiroko/WAKAMIYA Misako,FUKUHARA Ai/ISHIKAWA Kasumi,4,0,"11,11,11,11|2,8,8,6",QF,GRAND_SLAM,WD,76,Main Draw,FUJII Hiroko (JPN) / WAKAMIYA Misako (JPN),FUKUHARA Ai (JPN) / ISHIKAWA Kasumi (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,KIM Kyungah/PARK Miyoung,ISHIGAKI Yuka/YAMANASHI Yuri,4,2,"9,6,11,11,12,11|11,11,7,8,10,5",SF,GRAND_SLAM,WD,76,Main Draw,KIM Kyungah (KOR) / PARK Miyoung (KOR),ISHIGAKI Yuka (JPN) / YAMANASHI Yuri (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,FUJII Hiroko/WAKAMIYA Misako,KIM Kyungah/PARK Miyoung,4,2,"11,11,8,11,7,12|3,7,11,4,11,10",F,GRAND_SLAM,WD,76,Main Draw,FUJII Hiroko (JPN) / WAKAMIYA Misako (JPN),KIM Kyungah (KOR) / PARK Miyoung (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,SUH Hyo Won/YOON Sunae,CHANG Ya-Chuan/CHEN Szu-Yu,3,2,"11,4,9,11,11|8,11,11,6,6",QR16,GRAND_SLAM,WD,76,Qualification,SUH Hyo Won (KOR) / YOON Sunae (KOR),CHANG Ya-Chuan (TPE) / CHEN Szu-Yu (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,FENG Tianwei/SUN Beibei,SONG Maeum/YOO Eunchong,3,2,"7,11,9,11,11|11,4,11,6,6",R16,GRAND_SLAM,WD,76,Main Draw,FENG Tianwei (SGP) / SUN Beibei (SGP),SONG Maeum (KOR) / YOO Eunchong (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,FUJII Hiroko/WAKAMIYA Misako,SEOK Hajung/YANG Ha Eun,3,1,"11,11,10,11|8,7,12,3",R16,GRAND_SLAM,WD,76,Main Draw,FUJII Hiroko (JPN) / WAKAMIYA Misako (JPN),SEOK Hajung (KOR) / YANG Ha Eun (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Eunhee/PARK Youngsook,MUHLBACH Kathrin/WU Jiaduo,3,1,"11,6,11,11|2,11,6,6",R16,GRAND_SLAM,WD,76,Main Draw,LEE Eunhee (KOR) / PARK Youngsook (KOR),MUHLBACH Kathrin (GER) / WU Jiaduo (GER)
-Pro Tour Korea Open Incheon 2011,2011-06-29,SUH Hyo Won/YOON Sunae,FENG Tianwei/SUN Beibei,4,2,"11,11,7,10,13,11|4,4,11,12,11,6",QF,GRAND_SLAM,WD,76,Main Draw,SUH Hyo Won (KOR) / YOON Sunae (KOR),FENG Tianwei (SGP) / SUN Beibei (SGP)
-Pro Tour Korea Open Incheon 2011,2011-06-29,KIM Kyungah/PARK Miyoung,LEE Eunhee/PARK Youngsook,4,1,"11,11,11,3,11|9,9,7,11,9",QF,GRAND_SLAM,WD,76,Main Draw,KIM Kyungah (KOR) / PARK Miyoung (KOR),LEE Eunhee (KOR) / PARK Youngsook (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,FUJII Hiroko/WAKAMIYA Misako,SUH Hyo Won/YOON Sunae,4,0,"11,11,11,11|8,7,7,9",SF,GRAND_SLAM,WD,76,Main Draw,FUJII Hiroko (JPN) / WAKAMIYA Misako (JPN),SUH Hyo Won (KOR) / YOON Sunae (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LI Jiawei/WANG Yuegu,JO Yujin/MOON Hyunjung,3,2,"11,6,9,11,11|6,11,11,6,7",R16,GRAND_SLAM,WD,76,Main Draw,LI Jiawei (SGP) / WANG Yuegu (SGP),JO Yujin (KOR) / MOON Hyunjung (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,ISHIGAKI Yuka/YAMANASHI Yuri,LI Jiawei/WANG Yuegu,4,1,"7,11,11,11,11|11,9,9,7,9",QF,GRAND_SLAM,WD,76,Main Draw,ISHIGAKI Yuka (JPN) / YAMANASHI Yuri (JPN),LI Jiawei (SGP) / WANG Yuegu (SGP)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LIN Chia-Hui/LIU Hsing-Yin,KOMWONG Nanthana/MUANGSUK Anisara,3,0,"12,11,11|10,8,5",QR16,GRAND_SLAM,WD,76,Qualification,LIN Chia-Hui (TPE) / LIU Hsing-Yin (TPE),KOMWONG Nanthana (THA) / MUANGSUK Anisara (THA)
-Pro Tour Korea Open Incheon 2011,2011-06-29,SUH Hyo Won/YOON Sunae,CHENG I-Ching/HUANG Yi-Hua,3,1,"8,11,11,11|11,5,2,8",R16,GRAND_SLAM,WD,76,Main Draw,SUH Hyo Won (KOR) / YOON Sunae (KOR),CHENG I-Ching (TPE) / HUANG Yi-Hua (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,KIM Kyungah/PARK Miyoung,LIN Chia-Hui/LIU Hsing-Yin,3,1,"11,7,11,11|7,11,3,1",R16,GRAND_SLAM,WD,76,Main Draw,KIM Kyungah (KOR) / PARK Miyoung (KOR),LIN Chia-Hui (TPE) / LIU Hsing-Yin (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,FENG Tianwei,TANIOKA Ayuka,4,1,"14,10,11,11,12|12,12,6,8,10",R32,GRAND_SLAM,WS,76,Main Draw,FENG Tianwei (SGP),TANIOKA Ayuka (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LI Jiawei,YOO Eunchong,4,0,"11,11,11,11|6,4,9,5",R32,GRAND_SLAM,WS,76,Main Draw,LI Jiawei (SGP),YOO Eunchong (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,CHOI Moonyoung,HUANG Yi-Hua,4,1,"11,12,10,11,11|2,10,12,8,6",R32,GRAND_SLAM,WS,76,Main Draw,CHOI Moonyoung (KOR),HUANG Yi-Hua (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,HIRANO Sayaka,YOON Sunae,4,2,"4,6,11,13,11,11|11,11,6,11,7,5",R32,GRAND_SLAM,WS,76,Main Draw,HIRANO Sayaka (JPN),YOON Sunae (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,WANG Yuegu,WAKAMIYA Misako,4,0,"11,11,11,11|4,5,1,2",R32,GRAND_SLAM,WS,76,Main Draw,WANG Yuegu (SGP),WAKAMIYA Misako (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,YAMANASHI Yuri,YANG Ha Eun,4,2,"5,11,11,6,14,11|11,7,8,11,12,8",R32,GRAND_SLAM,WS,76,Main Draw,YAMANASHI Yuri (JPN),YANG Ha Eun (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,ISHIGAKI Yuka,SHEN Yanfei,4,3,"11,11,12,9,6,15,12|9,7,14,11,11,13,10",R32,GRAND_SLAM,WS,76,Main Draw,ISHIGAKI Yuka (JPN),SHEN Yanfei (ESP)
-Pro Tour Korea Open Incheon 2011,2011-06-29,FUKUHARA Ai,BARTHEL Zhenqi,4,1,"11,9,11,11,11|9,11,4,7,5",R32,GRAND_SLAM,WS,76,Main Draw,FUKUHARA Ai (JPN),BARTHEL Zhenqi (GER)
-Pro Tour Korea Open Incheon 2011,2011-06-29,KIM Kyungah,MATSUZAWA Marina,4,0,"11,11,11,11|7,7,2,7",R32,GRAND_SLAM,WS,76,Main Draw,KIM Kyungah (KOR),MATSUZAWA Marina (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Eunhee,YU Mengyu,4,1,"11,10,11,11,13|9,12,9,7,11",R32,GRAND_SLAM,WS,76,Main Draw,LEE Eunhee (KOR),YU Mengyu (SGP)
-Pro Tour Korea Open Incheon 2011,2011-06-29,PARK Miyoung,FUJII Hiroko,4,2,"6,8,11,11,11,11|11,11,8,5,5,5",R32,GRAND_SLAM,WS,76,Main Draw,PARK Miyoung (KOR),FUJII Hiroko (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,JIANG Huajun,MORIZONO Misaki,4,1,"5,11,11,11,11|11,2,6,7,7",R32,GRAND_SLAM,WS,76,Main Draw,JIANG Huajun (HKG),MORIZONO Misaki (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LEE I-Chen,WU Jiaduo,4,3,"12,11,7,13,8,9,12|10,7,11,11,11,11,10",R32,GRAND_SLAM,WS,76,Main Draw,LEE I-Chen (TPE),WU Jiaduo (GER)
-Pro Tour Korea Open Incheon 2011,2011-06-29,MOON Hyunjung,HU Melek,4,1,"13,11,3,11,11|11,7,11,4,4",R32,GRAND_SLAM,WS,76,Main Draw,MOON Hyunjung (KOR),HU Melek (TUR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,SUN Beibei,SEOK Hajung,4,3,"16,8,12,6,6,11,11|14,11,10,11,11,6,7",R32,GRAND_SLAM,WS,76,Main Draw,SUN Beibei (SGP),SEOK Hajung (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,SUH Hyo Won,ISHIKAWA Kasumi,4,2,"5,11,17,7,11,11|11,8,15,11,9,8",R32,GRAND_SLAM,WS,76,Main Draw,SUH Hyo Won (KOR),ISHIKAWA Kasumi (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,FENG Tianwei,LI Jiawei,4,2,"11,11,11,9,7,11|2,4,7,11,11,8",R16,GRAND_SLAM,WS,76,Main Draw,FENG Tianwei (SGP),LI Jiawei (SGP)
-Pro Tour Korea Open Incheon 2011,2011-06-29,HIRANO Sayaka,CHOI Moonyoung,4,0,"11,11,11,11|7,5,9,7",R16,GRAND_SLAM,WS,76,Main Draw,HIRANO Sayaka (JPN),CHOI Moonyoung (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,WANG Yuegu,YAMANASHI Yuri,4,2,"11,11,7,11,7,11|3,4,11,9,11,7",R16,GRAND_SLAM,WS,76,Main Draw,WANG Yuegu (SGP),YAMANASHI Yuri (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,ISHIGAKI Yuka,FUKUHARA Ai,4,3,"9,9,11,11,1,13,11|11,11,5,9,11,11,7",R16,GRAND_SLAM,WS,76,Main Draw,ISHIGAKI Yuka (JPN),FUKUHARA Ai (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Eunhee,KIM Kyungah,4,2,"10,11,9,11,11,11|12,8,11,8,9,5",R16,GRAND_SLAM,WS,76,Main Draw,LEE Eunhee (KOR),KIM Kyungah (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,PARK Miyoung,JIANG Huajun,4,0,"11,11,11,11|6,2,3,9",R16,GRAND_SLAM,WS,76,Main Draw,PARK Miyoung (KOR),JIANG Huajun (HKG)
-Pro Tour Korea Open Incheon 2011,2011-06-29,MOON Hyunjung,LEE I-Chen,4,3,"9,8,12,11,11,11,11|11,11,14,9,4,9,5",R16,GRAND_SLAM,WS,76,Main Draw,MOON Hyunjung (KOR),LEE I-Chen (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,SUH Hyo Won,SUN Beibei,4,2,"11,15,10,12,9,11|2,13,12,10,11,8",R16,GRAND_SLAM,WS,76,Main Draw,SUH Hyo Won (KOR),SUN Beibei (SGP)
-Pro Tour Korea Open Incheon 2011,2011-06-29,FENG Tianwei,HIRANO Sayaka,4,3,"11,11,7,6,13,9,11|8,6,11,11,11,11,6",QF,GRAND_SLAM,WS,76,Main Draw,FENG Tianwei (SGP),HIRANO Sayaka (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,WANG Yuegu,ISHIGAKI Yuka,4,0,"11,11,11,11|5,6,8,6",QF,GRAND_SLAM,WS,76,Main Draw,WANG Yuegu (SGP),ISHIGAKI Yuka (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Eunhee,PARK Miyoung,4,2,"19,5,11,12,5,11|17,11,8,10,11,8",QF,GRAND_SLAM,WS,76,Main Draw,LEE Eunhee (KOR),PARK Miyoung (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,MOON Hyunjung,SUH Hyo Won,4,0,"11,11,11,11|6,5,5,9",QF,GRAND_SLAM,WS,76,Main Draw,MOON Hyunjung (KOR),SUH Hyo Won (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,FENG Tianwei,WANG Yuegu,4,0,"11,11,11,11|5,4,5,8",SF,GRAND_SLAM,WS,76,Main Draw,FENG Tianwei (SGP),WANG Yuegu (SGP)
-Pro Tour Korea Open Incheon 2011,2011-06-29,MOON Hyunjung,LEE Eunhee,4,1,"11,11,4,11,11|7,6,11,4,5",SF,GRAND_SLAM,WS,76,Main Draw,MOON Hyunjung (KOR),LEE Eunhee (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,FENG Tianwei,MOON Hyunjung,4,0,"11,11,11,11|4,3,6,8",F,GRAND_SLAM,WS,76,Main Draw,FENG Tianwei (SGP),MOON Hyunjung (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LIN Chia-Hui,MUANGSUK Anisara,4,0,"11,11,13,12|9,9,11,10",,GRAND_SLAM,WS,76,Qualification,LIN Chia-Hui (TPE),MUANGSUK Anisara (THA)
-Pro Tour Korea Open Incheon 2011,2011-06-29,ISHIGAKI Yuka,LIN Chia-Hui,4,1,"11,11,11,11,11|13,5,6,5,2",,GRAND_SLAM,WS,76,Qualification,ISHIGAKI Yuka (JPN),LIN Chia-Hui (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,ISHIGAKI Yuka,MUANGSUK Anisara,4,0,"11,11,11,11|7,6,5,3",,GRAND_SLAM,WS,76,Qualification,ISHIGAKI Yuka (JPN),MUANGSUK Anisara (THA)
-Pro Tour Korea Open Incheon 2011,2011-06-29,TASHIRO Saki,JO Yujin,4,1,"11,11,11,7,11|1,9,9,11,3",,GRAND_SLAM,WS,76,Qualification,TASHIRO Saki (JPN),JO Yujin (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,SUN Beibei,TASHIRO Saki,4,1,"11,16,11,3,11|9,14,9,11,4",,GRAND_SLAM,WS,76,Qualification,SUN Beibei (SGP),TASHIRO Saki (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,SUN Beibei,JO Yujin,4,0,"11,11,11,11|3,2,1,9",,GRAND_SLAM,WS,76,Qualification,SUN Beibei (SGP),JO Yujin (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,MUHLBACH Kathrin,SO Eka,4,3,"11,9,3,13,11,11,11|9,11,11,15,8,9,5",,GRAND_SLAM,WS,76,Qualification,MUHLBACH Kathrin (GER),SO Eka (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Eunhee,SO Eka,4,0,"11,11,11,11|9,9,7,8",,GRAND_SLAM,WS,76,Qualification,LEE Eunhee (KOR),SO Eka (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Eunhee,MUHLBACH Kathrin,4,1,"11,11,11,8,11|5,9,5,11,9",,GRAND_SLAM,WS,76,Qualification,LEE Eunhee (KOR),MUHLBACH Kathrin (GER)
-Pro Tour Korea Open Incheon 2011,2011-06-29,CHEN Szu-Yu,GUAN Mengyuan,4,0,,,GRAND_SLAM,WS,76,Qualification,CHEN Szu-Yu (TPE),GUAN Mengyuan (HKG)
-Pro Tour Korea Open Incheon 2011,2011-06-29,FUJII Hiroko,GUAN Mengyuan,4,0,,,GRAND_SLAM,WS,76,Qualification,FUJII Hiroko (JPN),GUAN Mengyuan (HKG)
-Pro Tour Korea Open Incheon 2011,2011-06-29,FUJII Hiroko,CHEN Szu-Yu,4,2,"11,9,11,9,11,11|8,11,9,11,6,8",,GRAND_SLAM,WS,76,Qualification,FUJII Hiroko (JPN),CHEN Szu-Yu (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,MATSUZAWA Marina,HSIUNG Nai-I,4,2,"12,11,5,10,12,11|10,6,11,12,10,6",,GRAND_SLAM,WS,76,Qualification,MATSUZAWA Marina (JPN),HSIUNG Nai-I (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,SUH Hyo Won,HSIUNG Nai-I,4,1,"11,11,11,9,11|9,5,6,11,6",,GRAND_SLAM,WS,76,Qualification,SUH Hyo Won (KOR),HSIUNG Nai-I (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,SUH Hyo Won,MATSUZAWA Marina,4,1,"11,11,10,11,14|8,6,12,5,12",,GRAND_SLAM,WS,76,Qualification,SUH Hyo Won (KOR),MATSUZAWA Marina (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,MAEDA Miyu,LIU Hsing-Yin,4,0,"13,11,11,11|11,7,8,9",,GRAND_SLAM,WS,76,Qualification,MAEDA Miyu (JPN),LIU Hsing-Yin (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,MOON Hyunjung,LIU Hsing-Yin,4,1,"11,11,5,12,11|5,4,11,10,7",,GRAND_SLAM,WS,76,Qualification,MOON Hyunjung (KOR),LIU Hsing-Yin (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,MOON Hyunjung,MAEDA Miyu,4,0,"11,11,13,11|4,2,11,6",,GRAND_SLAM,WS,76,Qualification,MOON Hyunjung (KOR),MAEDA Miyu (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,KOMWONG Nanthana,LEE Dasom,4,2,"11,8,11,6,11,11|9,11,4,11,9,6",,GRAND_SLAM,WS,76,Qualification,KOMWONG Nanthana (THA),LEE Dasom (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,WAKAMIYA Misako,LEE Dasom,4,1,"11,9,11,11,11|8,11,4,8,1",,GRAND_SLAM,WS,76,Qualification,WAKAMIYA Misako (JPN),LEE Dasom (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,WAKAMIYA Misako,KOMWONG Nanthana,4,0,"11,11,11,11|4,9,5,2",,GRAND_SLAM,WS,76,Qualification,WAKAMIYA Misako (JPN),KOMWONG Nanthana (THA)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LEE I-Chen,TSUCHIDA Miki,4,3,"10,7,11,4,12,12,11|12,11,2,11,10,10,9",,GRAND_SLAM,WS,76,Qualification,LEE I-Chen (TPE),TSUCHIDA Miki (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,TSUCHIDA Miki,LEE Ho Ching,4,1,"11,11,11,7,11|8,9,8,11,7",,GRAND_SLAM,WS,76,Qualification,TSUCHIDA Miki (JPN),LEE Ho Ching (HKG)
-Pro Tour Korea Open Incheon 2011,2011-06-29,LEE I-Chen,LEE Ho Ching,4,1,"11,7,11,11,11|5,11,8,5,5",,GRAND_SLAM,WS,76,Qualification,LEE I-Chen (TPE),LEE Ho Ching (HKG)
-Pro Tour Korea Open Incheon 2011,2011-06-29,CHOI Moonyoung,MIYAKE Natsumi,4,2,"10,11,11,14,11,11|12,6,7,16,8,4",,GRAND_SLAM,WS,76,Qualification,CHOI Moonyoung (KOR),MIYAKE Natsumi (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,CHENG I-Ching,MIYAKE Natsumi,4,2,"13,8,4,11,11,11|11,11,11,7,7,9",,GRAND_SLAM,WS,76,Qualification,CHENG I-Ching (TPE),MIYAKE Natsumi (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,CHOI Moonyoung,CHENG I-Ching,4,0,"11,11,11,11|2,5,6,3",,GRAND_SLAM,WS,76,Qualification,CHOI Moonyoung (KOR),CHENG I-Ching (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,YAMANASHI Yuri,KIM Seoyeon,4,0,"11,11,11,11|4,8,6,8",,GRAND_SLAM,WS,76,Qualification,YAMANASHI Yuri (JPN),KIM Seoyeon (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,KIM Seoyeon,ZHU Fang,4,2,"11,11,11,11,11,11|13,7,8,2,13,5",,GRAND_SLAM,WS,76,Qualification,KIM Seoyeon (KOR),ZHU Fang (ESP)
-Pro Tour Korea Open Incheon 2011,2011-06-29,YAMANASHI Yuri,ZHU Fang,4,1,"11,7,11,11,11|4,11,9,1,7",,GRAND_SLAM,WS,76,Qualification,YAMANASHI Yuri (JPN),ZHU Fang (ESP)
-Pro Tour Korea Open Incheon 2011,2011-06-29,PARK Youngsook,HOU Yu-Ling,4,0,"11,11,11,11|6,8,8,6",,GRAND_SLAM,WS,76,Qualification,PARK Youngsook (KOR),HOU Yu-Ling (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,MORIZONO Misaki,HOU Yu-Ling,4,1,"11,11,9,11,11|3,9,11,6,7",,GRAND_SLAM,WS,76,Qualification,MORIZONO Misaki (JPN),HOU Yu-Ling (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,MORIZONO Misaki,PARK Youngsook,4,2,"6,11,11,7,11,11|11,7,9,11,8,7",,GRAND_SLAM,WS,76,Qualification,MORIZONO Misaki (JPN),PARK Youngsook (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,YOO Eunchong,NG Wing Nam,4,1,"11,11,10,14,11|8,9,12,12,4",,GRAND_SLAM,WS,76,Qualification,YOO Eunchong (KOR),NG Wing Nam (HKG)
-Pro Tour Korea Open Incheon 2011,2011-06-29,YOO Eunchong,FUKUOKA Haruna,4,3,"7,7,11,11,3,11,12|11,11,9,8,11,8,10",,GRAND_SLAM,WS,76,Qualification,YOO Eunchong (KOR),FUKUOKA Haruna (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,FUKUOKA Haruna,NG Wing Nam,4,0,"11,11,11,11|8,5,9,4",,GRAND_SLAM,WS,76,Qualification,FUKUOKA Haruna (JPN),NG Wing Nam (HKG)
-Pro Tour Korea Open Incheon 2011,2011-06-29,YOON Sunae,CHANG Ya-Chuan,4,0,"11,11,11,11|5,7,3,6",,GRAND_SLAM,WS,76,Qualification,YOON Sunae (KOR),CHANG Ya-Chuan (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,SIM Kai Xin Zena,TANIOKA Ayuka,4,1,"5,11,12,11,11|11,4,10,2,5",,GRAND_SLAM,WS,76,Qualification,SIM Kai Xin Zena (SGP),TANIOKA Ayuka (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,YOON Sunae,SIM Kai Xin Zena,4,0,"11,11,11,13|3,8,4,11",,GRAND_SLAM,WS,76,Qualification,YOON Sunae (KOR),SIM Kai Xin Zena (SGP)
-Pro Tour Korea Open Incheon 2011,2011-06-29,TANIOKA Ayuka,CHANG Ya-Chuan,4,0,"11,11,11,11|5,4,6,5",,GRAND_SLAM,WS,76,Qualification,TANIOKA Ayuka (JPN),CHANG Ya-Chuan (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,YOON Sunae,TANIOKA Ayuka,4,3,"11,9,9,5,11,11,11|4,11,11,11,9,9,5",,GRAND_SLAM,WS,76,Qualification,YOON Sunae (KOR),TANIOKA Ayuka (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,CHANG Ya-Chuan,SIM Kai Xin Zena,4,1,"11,12,11,10,11|8,10,6,12,8",,GRAND_SLAM,WS,76,Qualification,CHANG Ya-Chuan (TPE),SIM Kai Xin Zena (SGP)
-Pro Tour Korea Open Incheon 2011,2011-06-29,FUJII Yuko,SONG Maeum,4,1,"5,11,11,11,12|11,7,5,6,10",,GRAND_SLAM,WS,76,Qualification,FUJII Yuko (JPN),SONG Maeum (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,BARTHEL Zhenqi,TSUI Pao-Wen,4,2,"8,11,11,6,13,15|11,2,7,11,11,13",,GRAND_SLAM,WS,76,Qualification,BARTHEL Zhenqi (GER),TSUI Pao-Wen (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,SONG Maeum,TSUI Pao-Wen,4,0,"11,11,11,11|5,1,6,8",,GRAND_SLAM,WS,76,Qualification,SONG Maeum (KOR),TSUI Pao-Wen (TPE)
-Pro Tour Korea Open Incheon 2011,2011-06-29,BARTHEL Zhenqi,FUJII Yuko,4,0,"11,11,11,11|7,2,6,7",,GRAND_SLAM,WS,76,Qualification,BARTHEL Zhenqi (GER),FUJII Yuko (JPN)
-Pro Tour Korea Open Incheon 2011,2011-06-29,BARTHEL Zhenqi,SONG Maeum,4,3,"10,9,11,14,8,11,12|12,11,6,12,11,6,10",,GRAND_SLAM,WS,76,Qualification,BARTHEL Zhenqi (GER),SONG Maeum (KOR)
-Pro Tour Korea Open Incheon 2011,2011-06-29,FUJII Yuko,TSUI Pao-Wen,4,0,"11,11,11,11|1,5,6,5",,GRAND_SLAM,WS,76,Qualification,FUJII Yuko (JPN),TSUI Pao-Wen (TPE)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Pro Tour Korea Open Incheon 2011,2011-06-29,JIN Yixiong/SONG Hongyuan,CHAN Kazuhiro/MATSUDAIRA Kenji,4,0,"11,11,11,11|4,9,6,8",QF,GRAND_SLAM,MD,76,Main Draw,JIN Yixiong (CHN) / SONG Hongyuan (CHN),CHAN Kazuhiro (JPN) / MATSUDAIRA Kenji (JPN),JIN Yixiong
+Pro Tour Korea Open Incheon 2011,2011-06-29,LIN Gaoyuan/WU Jiaji,MURAMATSU Yuto/SAKAI Asuka,3,1,"11,11,9,11|8,5,11,6",QR16,GRAND_SLAM,MD,76,Qualification,LIN Gaoyuan (CHN) / WU Jiaji (DOM),MURAMATSU Yuto (JPN) / SAKAI Asuka (JPN),LIN Gaoyuan
+Pro Tour Korea Open Incheon 2011,2011-06-29,CHOI Hyunjin/JEONG Sangeun,JIANG Tianyi/TANG Peng,3,2,"6,11,8,11,11|11,9,11,8,7",R16,GRAND_SLAM,MD,76,Main Draw,CHOI Hyunjin (KOR) / JEONG Sangeun (KOR),JIANG Tianyi (HKG) / TANG Peng (HKG),CHOI Hyunjin
+Pro Tour Korea Open Incheon 2011,2011-06-29,MATSUDAIRA Kenta/NIWA Koki,LIU Yi/YIN Hang,3,0,"11,13,11|2,11,6",R16,GRAND_SLAM,MD,76,Main Draw,MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN),LIU Yi (CHN) / YIN Hang (CHN),MATSUDAIRA Kenta
+Pro Tour Korea Open Incheon 2011,2011-06-29,CHAN Kazuhiro/MATSUDAIRA Kenji,JEOUNG Youngsik/KIM Minseok,3,0,"11,12,11|6,10,9",R16,GRAND_SLAM,MD,76,Main Draw,CHAN Kazuhiro (JPN) / MATSUDAIRA Kenji (JPN),JEOUNG Youngsik (KOR) / KIM Minseok (KOR),CHAN Kazuhiro
+Pro Tour Korea Open Incheon 2011,2011-06-29,MATSUDAIRA Kenta/NIWA Koki,GAO Ning/LI Hu,4,3,"11,10,15,7,7,11,12|5,12,13,11,11,9,10",QF,GRAND_SLAM,MD,76,Main Draw,MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN),GAO Ning (SGP) / LI Hu (SGP),MATSUDAIRA Kenta
+Pro Tour Korea Open Incheon 2011,2011-06-29,JIN Yixiong/SONG Hongyuan,MATSUDAIRA Kenta/NIWA Koki,4,3,"13,6,11,11,11,10,13|15,11,6,6,6,12,11",F,GRAND_SLAM,MD,76,Main Draw,JIN Yixiong (CHN) / SONG Hongyuan (CHN),MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN),JIN Yixiong
+Pro Tour Korea Open Incheon 2011,2011-06-29,CHO Jaejun/KIM Donghyun,FLORE Tristan/GAUZY Simon,3,1,"11,11,9,11|8,9,11,9",QR16,GRAND_SLAM,MD,76,Qualification,CHO Jaejun (KOR) / KIM Donghyun (KOR),FLORE Tristan (FRA) / GAUZY Simon (FRA),CHO Jaejun
+Pro Tour Korea Open Incheon 2011,2011-06-29,GAO Ning/LI Hu,CHO Eonrae/LEE Jungwoo,3,2,"11,8,7,11,11|7,11,11,9,4",R16,GRAND_SLAM,MD,76,Main Draw,GAO Ning (SGP) / LI Hu (SGP),CHO Eonrae (KOR) / LEE Jungwoo (KOR),GAO Ning
+Pro Tour Korea Open Incheon 2011,2011-06-29,OH Sangeun/SEO Hyundeok,LIN Gaoyuan/WU Jiaji,3,1,"11,11,9,11|7,3,11,9",R16,GRAND_SLAM,MD,76,Main Draw,OH Sangeun (KOR) / SEO Hyundeok (KOR),LIN Gaoyuan (CHN) / WU Jiaji (DOM),OH Sangeun
+Pro Tour Korea Open Incheon 2011,2011-06-29,CHO Jaejun/KIM Donghyun,YANG Zi/ZHAN Jian,3,2,"3,11,11,7,11|11,9,6,11,9",R16,GRAND_SLAM,MD,76,Main Draw,CHO Jaejun (KOR) / KIM Donghyun (KOR),YANG Zi (SGP) / ZHAN Jian (SGP),CHO Jaejun
+Pro Tour Korea Open Incheon 2011,2011-06-29,OH Sangeun/SEO Hyundeok,LEE Sang Su/RYU Seungmin,4,0,"11,12,11,11|8,10,7,6",QF,GRAND_SLAM,MD,76,Main Draw,OH Sangeun (KOR) / SEO Hyundeok (KOR),LEE Sang Su (KOR) / RYU Seungmin (KOR),OH Sangeun
+Pro Tour Korea Open Incheon 2011,2011-06-29,CHO Jaejun/KIM Donghyun,CHOI Hyunjin/JEONG Sangeun,4,2,"6,11,11,11,5,12|11,6,8,8,11,10",QF,GRAND_SLAM,MD,76,Main Draw,CHO Jaejun (KOR) / KIM Donghyun (KOR),CHOI Hyunjin (KOR) / JEONG Sangeun (KOR),CHO Jaejun
+Pro Tour Korea Open Incheon 2011,2011-06-29,JIN Yixiong/SONG Hongyuan,CHO Jaejun/KIM Donghyun,4,0,"11,12,12,11|8,10,10,5",SF,GRAND_SLAM,MD,76,Main Draw,JIN Yixiong (CHN) / SONG Hongyuan (CHN),CHO Jaejun (KOR) / KIM Donghyun (KOR),JIN Yixiong
+Pro Tour Korea Open Incheon 2011,2011-06-29,LIU Yi/YIN Hang,LIU Zhongze/MA Liang,3,0,,QR16,GRAND_SLAM,MD,76,Qualification,LIU Yi (CHN) / YIN Hang (CHN),LIU Zhongze (SGP) / MA Liang (SGP),LIU Yi
+Pro Tour Korea Open Incheon 2011,2011-06-29,JIN Yixiong/SONG Hongyuan,CHEN Chien-An/HUNG Tzu-Hsiang,3,0,"11,11,11|3,5,8",QR16,GRAND_SLAM,MD,76,Qualification,JIN Yixiong (CHN) / SONG Hongyuan (CHN),CHEN Chien-An (TPE) / HUNG Tzu-Hsiang (TPE),JIN Yixiong
+Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Sang Su/RYU Seungmin,CHIANG Hung-Chieh/HUANG Sheng-Sheng,3,0,"11,11,11|8,8,7",R16,GRAND_SLAM,MD,76,Main Draw,LEE Sang Su (KOR) / RYU Seungmin (KOR),CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE),LEE Sang Su
+Pro Tour Korea Open Incheon 2011,2011-06-29,JIN Yixiong/SONG Hongyuan,CHUANG Chih-Yuan/WU Chih-Chi,3,0,"11,13,11|8,11,7",R16,GRAND_SLAM,MD,76,Main Draw,JIN Yixiong (CHN) / SONG Hongyuan (CHN),CHUANG Chih-Yuan (TPE) / WU Chih-Chi (TPE),JIN Yixiong
+Pro Tour Korea Open Incheon 2011,2011-06-29,CHOI Hyunjin/JEONG Sangeun,GREEN Wally/ROBERTS Joel,3,0,"11,11,11|8,8,5",QR16,GRAND_SLAM,MD,76,Qualification,CHOI Hyunjin (KOR) / JEONG Sangeun (KOR),GREEN Wally (USA) / ROBERTS Joel (USA),CHOI Hyunjin
+Pro Tour Korea Open Incheon 2011,2011-06-29,YIN Hang,SAKAI Asuka,4,2,"11,8,5,11,11,13|7,11,11,9,4,11",,GRAND_SLAM,MS,76,Qualification,YIN Hang (CHN),SAKAI Asuka (JPN),YIN Hang
+Pro Tour Korea Open Incheon 2011,2011-06-29,LI Hu,SAKAI Asuka,4,1,"10,14,12,12,11|12,12,10,10,2",,GRAND_SLAM,MS,76,Qualification,LI Hu (SGP),SAKAI Asuka (JPN),LI Hu
+Pro Tour Korea Open Incheon 2011,2011-06-29,LI Hu,YIN Hang,4,1,"11,7,11,11,11|6,11,9,7,7",,GRAND_SLAM,MS,76,Qualification,LI Hu (SGP),YIN Hang (CHN),LI Hu
+Pro Tour Korea Open Incheon 2011,2011-06-29,KIM Donghyun,GAUZY Simon,4,3,"12,8,6,8,11,11,11|10,11,11,11,4,8,8",,GRAND_SLAM,MS,76,Qualification,KIM Donghyun (KOR),GAUZY Simon (FRA),KIM Donghyun
+Pro Tour Korea Open Incheon 2011,2011-06-29,CHAN Kazuhiro,KIM Donghyun,4,1,"8,11,11,11,12|11,8,2,4,10",,GRAND_SLAM,MS,76,Qualification,CHAN Kazuhiro (JPN),KIM Donghyun (KOR),CHAN Kazuhiro
+Pro Tour Korea Open Incheon 2011,2011-06-29,CHAN Kazuhiro,GAUZY Simon,4,0,"13,11,11,11|11,3,5,3",,GRAND_SLAM,MS,76,Qualification,CHAN Kazuhiro (JPN),GAUZY Simon (FRA),CHAN Kazuhiro
+Pro Tour Korea Open Incheon 2011,2011-06-29,CHAITAT Chaisit,FLORE Tristan,4,2,"6,10,12,13,12,11|11,12,10,11,10,7",,GRAND_SLAM,MS,76,Qualification,CHAITAT Chaisit (THA),FLORE Tristan (FRA),CHAITAT Chaisit
+Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Sang Su,CHAITAT Chaisit,4,0,"11,11,11,11|9,3,6,9",,GRAND_SLAM,MS,76,Qualification,LEE Sang Su (KOR),CHAITAT Chaisit (THA),LEE Sang Su
+Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Sang Su,FLORE Tristan,4,1,"5,11,11,12,11|11,7,8,10,9",,GRAND_SLAM,MS,76,Qualification,LEE Sang Su (KOR),FLORE Tristan (FRA),LEE Sang Su
+Pro Tour Korea Open Incheon 2011,2011-06-29,MURAMATSU Yuto,LEE Chia-Sheng,4,2,"12,6,11,12,11,11|14,11,9,10,9,4",,GRAND_SLAM,MS,76,Qualification,MURAMATSU Yuto (JPN),LEE Chia-Sheng (TPE),MURAMATSU Yuto
+Pro Tour Korea Open Incheon 2011,2011-06-29,KIM Junghoon,LEE Chia-Sheng,4,0,"11,11,11,11|7,8,5,8",,GRAND_SLAM,MS,76,Qualification,KIM Junghoon (KOR),LEE Chia-Sheng (TPE),KIM Junghoon
+Pro Tour Korea Open Incheon 2011,2011-06-29,KIM Junghoon,MURAMATSU Yuto,4,2,"11,11,6,14,9,11|7,7,11,12,11,4",,GRAND_SLAM,MS,76,Qualification,KIM Junghoon (KOR),MURAMATSU Yuto (JPN),KIM Junghoon
+Pro Tour Korea Open Incheon 2011,2011-06-29,MORIZONO Masataka,MA Liang,4,1,"8,11,11,11,11|11,4,6,0,0",,GRAND_SLAM,MS,76,Qualification,MORIZONO Masataka (JPN),MA Liang (SGP),MORIZONO Masataka
+Pro Tour Korea Open Incheon 2011,2011-06-29,JEOUNG Youngsik,MORIZONO Masataka,4,1,"11,6,11,11,11|7,11,9,7,2",,GRAND_SLAM,MS,76,Qualification,JEOUNG Youngsik (KOR),MORIZONO Masataka (JPN),JEOUNG Youngsik
+Pro Tour Korea Open Incheon 2011,2011-06-29,JEOUNG Youngsik,MA Liang,4,0,,,GRAND_SLAM,MS,76,Qualification,JEOUNG Youngsik (KOR),MA Liang (SGP),JEOUNG Youngsik
+Pro Tour Korea Open Incheon 2011,2011-06-29,YOSHIDA Masaki,CHO Jaejun,4,2,"12,5,11,12,10,11|10,11,6,10,12,4",,GRAND_SLAM,MS,76,Qualification,YOSHIDA Masaki (JPN),CHO Jaejun (KOR),YOSHIDA Masaki
+Pro Tour Korea Open Incheon 2011,2011-06-29,LEUNG Chu Yan,CHO Jaejun,4,0,"11,11,11,11|6,5,4,6",,GRAND_SLAM,MS,76,Qualification,LEUNG Chu Yan (HKG),CHO Jaejun (KOR),LEUNG Chu Yan
+Pro Tour Korea Open Incheon 2011,2011-06-29,LEUNG Chu Yan,YOSHIDA Masaki,4,3,"11,11,6,11,11,12,11|13,8,11,7,13,10,7",,GRAND_SLAM,MS,76,Qualification,LEUNG Chu Yan (HKG),YOSHIDA Masaki (JPN),LEUNG Chu Yan
+Pro Tour Korea Open Incheon 2011,2011-06-29,WANG LI Chung-Yi,CHEN Feng,4,0,"11,11,11,11|6,7,6,9",,GRAND_SLAM,MS,76,Qualification,WANG LI Chung-Yi (TPE),CHEN Feng (SGP),WANG LI Chung-Yi
+Pro Tour Korea Open Incheon 2011,2011-06-29,NIWA Koki,WANG LI Chung-Yi,4,1,"11,6,11,13,11|6,11,2,11,2",,GRAND_SLAM,MS,76,Qualification,NIWA Koki (JPN),WANG LI Chung-Yi (TPE),NIWA Koki
+Pro Tour Korea Open Incheon 2011,2011-06-29,NIWA Koki,CHEN Feng,4,1,"3,11,11,12,11|11,5,5,10,8",,GRAND_SLAM,MS,76,Qualification,NIWA Koki (JPN),CHEN Feng (SGP),NIWA Koki
+Pro Tour Korea Open Incheon 2011,2011-06-29,HUNG Tzu-Hsiang,LEE Seunghyeok,4,1,"9,12,11,11,11|11,10,7,8,5",,GRAND_SLAM,MS,76,Qualification,HUNG Tzu-Hsiang (TPE),LEE Seunghyeok (KOR),HUNG Tzu-Hsiang
+Pro Tour Korea Open Incheon 2011,2011-06-29,LIN Gaoyuan,LEE Seunghyeok,4,0,"11,11,11,14|5,6,7,12",,GRAND_SLAM,MS,76,Qualification,LIN Gaoyuan (CHN),LEE Seunghyeok (KOR),LIN Gaoyuan
+Pro Tour Korea Open Incheon 2011,2011-06-29,LIN Gaoyuan,HUNG Tzu-Hsiang,4,0,"11,11,12,12|6,9,10,10",,GRAND_SLAM,MS,76,Qualification,LIN Gaoyuan (CHN),HUNG Tzu-Hsiang (TPE),LIN Gaoyuan
+Pro Tour Korea Open Incheon 2011,2011-06-29,LIU Zhongze,YEH Chih-Wei,4,2,"11,9,9,12,11,11|7,11,11,10,9,8",,GRAND_SLAM,MS,76,Qualification,LIU Zhongze (SGP),YEH Chih-Wei (TPE),LIU Zhongze
+Pro Tour Korea Open Incheon 2011,2011-06-29,JEONG Sangeun,YEH Chih-Wei,4,1,"5,11,11,11,11|11,4,8,6,5",,GRAND_SLAM,MS,76,Qualification,JEONG Sangeun (KOR),YEH Chih-Wei (TPE),JEONG Sangeun
+Pro Tour Korea Open Incheon 2011,2011-06-29,JEONG Sangeun,LIU Zhongze,4,1,"11,11,3,15,11|8,4,11,13,9",,GRAND_SLAM,MS,76,Qualification,JEONG Sangeun (KOR),LIU Zhongze (SGP),JEONG Sangeun
+Pro Tour Korea Open Incheon 2011,2011-06-29,LIU Yi,CHIANG Hung-Chieh,4,2,"11,11,11,10,9,11|5,5,9,12,11,7",,GRAND_SLAM,MS,76,Qualification,LIU Yi (CHN),CHIANG Hung-Chieh (TPE),LIU Yi
+Pro Tour Korea Open Incheon 2011,2011-06-29,LIU Yi,ZHAN Jian,4,3,"3,11,10,12,11,11,11|11,13,12,10,5,8,3",,GRAND_SLAM,MS,76,Qualification,LIU Yi (CHN),ZHAN Jian (SGP),LIU Yi
+Pro Tour Korea Open Incheon 2011,2011-06-29,ZHAN Jian,CHIANG Hung-Chieh,4,0,"11,11,11,11|3,5,5,4",,GRAND_SLAM,MS,76,Qualification,ZHAN Jian (SGP),CHIANG Hung-Chieh (TPE),ZHAN Jian
+Pro Tour Korea Open Incheon 2011,2011-06-29,JIN Yixiong,WU Chih-Chi,4,1,"11,5,11,15,11|8,11,7,13,9",,GRAND_SLAM,MS,76,Qualification,JIN Yixiong (CHN),WU Chih-Chi (TPE),JIN Yixiong
+Pro Tour Korea Open Incheon 2011,2011-06-29,MATSUDAIRA Kenji,JIN Yixiong,4,0,"11,11,11,11|3,8,2,6",,GRAND_SLAM,MS,76,Qualification,MATSUDAIRA Kenji (JPN),JIN Yixiong (CHN),MATSUDAIRA Kenji
+Pro Tour Korea Open Incheon 2011,2011-06-29,MATSUDAIRA Kenji,WU Chih-Chi,4,2,"11,4,11,2,11,11|6,11,8,11,6,9",,GRAND_SLAM,MS,76,Qualification,MATSUDAIRA Kenji (JPN),WU Chih-Chi (TPE),MATSUDAIRA Kenji
+Pro Tour Korea Open Incheon 2011,2011-06-29,KARUBE Ryusuke,CHEN Chien-An,4,3,"11,13,6,9,13,6,11|7,11,11,11,11,11,9",,GRAND_SLAM,MS,76,Qualification,KARUBE Ryusuke (JPN),CHEN Chien-An (TPE),KARUBE Ryusuke
+Pro Tour Korea Open Incheon 2011,2011-06-29,WU Jiaji,GREEN Wally,4,0,"11,11,11,11|6,8,3,5",,GRAND_SLAM,MS,76,Qualification,WU Jiaji (DOM),GREEN Wally (USA),WU Jiaji
+Pro Tour Korea Open Incheon 2011,2011-06-29,CHEN Chien-An,GREEN Wally,4,0,"11,11,11,11|3,5,3,5",,GRAND_SLAM,MS,76,Qualification,CHEN Chien-An (TPE),GREEN Wally (USA),CHEN Chien-An
+Pro Tour Korea Open Incheon 2011,2011-06-29,WU Jiaji,KARUBE Ryusuke,4,2,"11,12,4,10,11,11|8,10,11,12,7,8",,GRAND_SLAM,MS,76,Qualification,WU Jiaji (DOM),KARUBE Ryusuke (JPN),WU Jiaji
+Pro Tour Korea Open Incheon 2011,2011-06-29,WU Jiaji,CHEN Chien-An,4,3,"8,11,11,15,10,10,11|11,3,9,13,12,12,6",,GRAND_SLAM,MS,76,Qualification,WU Jiaji (DOM),CHEN Chien-An (TPE),WU Jiaji
+Pro Tour Korea Open Incheon 2011,2011-06-29,KARUBE Ryusuke,GREEN Wally,4,0,"11,11,11,11|4,1,7,3",,GRAND_SLAM,MS,76,Qualification,KARUBE Ryusuke (JPN),GREEN Wally (USA),KARUBE Ryusuke
+Pro Tour Korea Open Incheon 2011,2011-06-29,CHOI Hyunjin,HUANG Sheng-Sheng,4,2,"7,11,11,11,7,11|11,6,5,8,11,6",,GRAND_SLAM,MS,76,Qualification,CHOI Hyunjin (KOR),HUANG Sheng-Sheng (TPE),CHOI Hyunjin
+Pro Tour Korea Open Incheon 2011,2011-06-29,SONG Hongyuan,ROBERTS Joel,4,0,"11,11,11,11|4,1,7,1",,GRAND_SLAM,MS,76,Qualification,SONG Hongyuan (CHN),ROBERTS Joel (USA),SONG Hongyuan
+Pro Tour Korea Open Incheon 2011,2011-06-29,HUANG Sheng-Sheng,ROBERTS Joel,4,0,"11,11,11,11|5,4,7,8",,GRAND_SLAM,MS,76,Qualification,HUANG Sheng-Sheng (TPE),ROBERTS Joel (USA),HUANG Sheng-Sheng
+Pro Tour Korea Open Incheon 2011,2011-06-29,CHOI Hyunjin,SONG Hongyuan,4,1,"15,11,11,8,12|13,7,9,11,10",,GRAND_SLAM,MS,76,Qualification,CHOI Hyunjin (KOR),SONG Hongyuan (CHN),CHOI Hyunjin
+Pro Tour Korea Open Incheon 2011,2011-06-29,SONG Hongyuan,HUANG Sheng-Sheng,4,2,"7,8,11,11,14,11|11,11,9,4,12,6",,GRAND_SLAM,MS,76,Qualification,SONG Hongyuan (CHN),HUANG Sheng-Sheng (TPE),SONG Hongyuan
+Pro Tour Korea Open Incheon 2011,2011-06-29,CHOI Hyunjin,ROBERTS Joel,4,0,"11,11,11,12|8,5,1,10",,GRAND_SLAM,MS,76,Qualification,CHOI Hyunjin (KOR),ROBERTS Joel (USA),CHOI Hyunjin
+Pro Tour Korea Open Incheon 2011,2011-06-29,MORIZONO Masataka,WANG LI Chung-Yi,3,2,"11,9,6,11,11|9,11,11,5,8",,GRAND_SLAM,U21MS,76,Qualification,MORIZONO Masataka (JPN),WANG LI Chung-Yi (TPE),MORIZONO Masataka
+Pro Tour Korea Open Incheon 2011,2011-06-29,WANG LI Chung-Yi,WU Jiaji,3,2,"7,11,11,6,14|11,6,6,11,12",,GRAND_SLAM,U21MS,76,Qualification,WANG LI Chung-Yi (TPE),WU Jiaji (DOM),WANG LI Chung-Yi
+Pro Tour Korea Open Incheon 2011,2011-06-29,WU Jiaji,MORIZONO Masataka,3,1,"11,11,8,11|4,4,11,8",,GRAND_SLAM,U21MS,76,Qualification,WU Jiaji (DOM),MORIZONO Masataka (JPN),WU Jiaji
+Pro Tour Korea Open Incheon 2011,2011-06-29,LIU Yi,CHOI Deokhwa,3,2,"1,11,6,11,11|11,6,11,5,5",,GRAND_SLAM,U21MS,76,Qualification,LIU Yi (CHN),CHOI Deokhwa (KOR),LIU Yi
+Pro Tour Korea Open Incheon 2011,2011-06-29,LIU Yi,HUNG Tzu-Hsiang,3,0,"11,11,11|7,6,8",,GRAND_SLAM,U21MS,76,Qualification,LIU Yi (CHN),HUNG Tzu-Hsiang (TPE),LIU Yi
+Pro Tour Korea Open Incheon 2011,2011-06-29,CHOI Deokhwa,HUNG Tzu-Hsiang,3,0,"11,11,11|5,5,4",,GRAND_SLAM,U21MS,76,Qualification,CHOI Deokhwa (KOR),HUNG Tzu-Hsiang (TPE),CHOI Deokhwa
+Pro Tour Korea Open Incheon 2011,2011-06-29,YEH Chih-Wei,LEE Seunghyeok,3,2,"11,5,11,8,14|4,11,4,11,12",,GRAND_SLAM,U21MS,76,Qualification,YEH Chih-Wei (TPE),LEE Seunghyeok (KOR),YEH Chih-Wei
+Pro Tour Korea Open Incheon 2011,2011-06-29,YOSHIDA Masaki,YEH Chih-Wei,3,0,"11,12,11|9,10,9",,GRAND_SLAM,U21MS,76,Qualification,YOSHIDA Masaki (JPN),YEH Chih-Wei (TPE),YOSHIDA Masaki
+Pro Tour Korea Open Incheon 2011,2011-06-29,YOSHIDA Masaki,LEE Seunghyeok,3,0,"11,11,11|3,6,4",,GRAND_SLAM,U21MS,76,Qualification,YOSHIDA Masaki (JPN),LEE Seunghyeok (KOR),YOSHIDA Masaki
+Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Chia-Sheng,LIM Jonghoon,3,1,"11,11,11,11|7,13,7,8",,GRAND_SLAM,U21MS,76,Qualification,LEE Chia-Sheng (TPE),LIM Jonghoon (KOR),LEE Chia-Sheng
+Pro Tour Korea Open Incheon 2011,2011-06-29,CHEN Feng,LIM Jonghoon,3,1,"11,6,11,11|7,11,8,7",,GRAND_SLAM,U21MS,76,Qualification,CHEN Feng (SGP),LIM Jonghoon (KOR),CHEN Feng
+Pro Tour Korea Open Incheon 2011,2011-06-29,CHEN Feng,LEE Chia-Sheng,3,2,"9,11,6,11,11|11,5,11,9,8",,GRAND_SLAM,U21MS,76,Qualification,CHEN Feng (SGP),LEE Chia-Sheng (TPE),CHEN Feng
+Pro Tour Korea Open Incheon 2011,2011-06-29,JIN Yixiong,CHO Jaejun,3,1,"6,11,11,11|11,3,7,5",,GRAND_SLAM,U21MS,76,Qualification,JIN Yixiong (CHN),CHO Jaejun (KOR),JIN Yixiong
+Pro Tour Korea Open Incheon 2011,2011-06-29,JIN Yixiong,MA Liang,3,0,,,GRAND_SLAM,U21MS,76,Qualification,JIN Yixiong (CHN),MA Liang (SGP),JIN Yixiong
+Pro Tour Korea Open Incheon 2011,2011-06-29,CHO Jaejun,MA Liang,3,0,,,GRAND_SLAM,U21MS,76,Qualification,CHO Jaejun (KOR),MA Liang (SGP),CHO Jaejun
+Pro Tour Korea Open Incheon 2011,2011-06-29,KIM Donghyun,ROBERTS Joel,3,0,"11,11,11|6,4,3",,GRAND_SLAM,U21MS,76,Qualification,KIM Donghyun (KOR),ROBERTS Joel (USA),KIM Donghyun
+Pro Tour Korea Open Incheon 2011,2011-06-29,MURAMATSU Yuto,ROBERTS Joel,3,0,"11,11,11|6,2,2",,GRAND_SLAM,U21MS,76,Qualification,MURAMATSU Yuto (JPN),ROBERTS Joel (USA),MURAMATSU Yuto
+Pro Tour Korea Open Incheon 2011,2011-06-29,MURAMATSU Yuto,KIM Donghyun,3,2,"8,11,11,5,11|11,7,9,11,7",,GRAND_SLAM,U21MS,76,Qualification,MURAMATSU Yuto (JPN),KIM Donghyun (KOR),MURAMATSU Yuto
+Pro Tour Korea Open Incheon 2011,2011-06-29,CHEON Minhyuck,SAKAI Asuka,3,0,"14,14,11|12,12,7",,GRAND_SLAM,U21MS,76,Qualification,CHEON Minhyuck (KOR),SAKAI Asuka (JPN),CHEON Minhyuck
+Pro Tour Korea Open Incheon 2011,2011-06-29,CHEON Minhyuck,FLORE Tristan,3,1,"8,11,12,14|11,8,10,12",,GRAND_SLAM,U21MS,76,Qualification,CHEON Minhyuck (KOR),FLORE Tristan (FRA),CHEON Minhyuck
+Pro Tour Korea Open Incheon 2011,2011-06-29,SAKAI Asuka,FLORE Tristan,3,1,"11,11,8,11|6,9,11,9",,GRAND_SLAM,U21MS,76,Qualification,SAKAI Asuka (JPN),FLORE Tristan (FRA),SAKAI Asuka
+Pro Tour Korea Open Incheon 2011,2011-06-29,YIN Hang,CHO Seungmin,3,2,"9,7,12,11,11|11,11,10,4,7",,GRAND_SLAM,U21MS,76,Qualification,YIN Hang (CHN),CHO Seungmin (KOR),YIN Hang
+Pro Tour Korea Open Incheon 2011,2011-06-29,GAUZY Simon,CHO Seungmin,3,0,"11,11,12|4,8,10",,GRAND_SLAM,U21MS,76,Qualification,GAUZY Simon (FRA),CHO Seungmin (KOR),GAUZY Simon
+Pro Tour Korea Open Incheon 2011,2011-06-29,YIN Hang,GAUZY Simon,3,2,"12,7,5,11,11|10,11,11,8,9",,GRAND_SLAM,U21MS,76,Qualification,YIN Hang (CHN),GAUZY Simon (FRA),YIN Hang
+Pro Tour Korea Open Incheon 2011,2011-06-29,JOO Saehyuk,CHAITAT Chaisit,4,0,"11,11,11,11|8,8,9,5",R32,GRAND_SLAM,MS,76,Main Draw,JOO Saehyuk (KOR),CHAITAT Chaisit (THA),JOO Saehyuk
+Pro Tour Korea Open Incheon 2011,2011-06-29,SEO Hyundeok,LEUNG Chu Yan,4,1,"11,11,11,8,11|7,7,9,11,9",R32,GRAND_SLAM,MS,76,Main Draw,SEO Hyundeok (KOR),LEUNG Chu Yan (HKG),SEO Hyundeok
+Pro Tour Korea Open Incheon 2011,2011-06-29,YANG Zi,KIM Junghoon,4,1,"12,11,7,11,13|10,4,11,7,11",R32,GRAND_SLAM,MS,76,Main Draw,YANG Zi (SGP),KIM Junghoon (KOR),YANG Zi
+Pro Tour Korea Open Incheon 2011,2011-06-29,OVTCHAROV Dimitrij,JEOUNG Youngsik,4,1,"13,6,11,11,12|11,11,7,7,10",R32,GRAND_SLAM,MS,76,Main Draw,OVTCHAROV Dimitrij (GER),JEOUNG Youngsik (KOR),OVTCHAROV Dimitrij
+Pro Tour Korea Open Incheon 2011,2011-06-29,JEONG Sangeun,TANG Peng,4,1,"11,6,11,15,11|8,11,3,13,2",R32,GRAND_SLAM,MS,76,Main Draw,JEONG Sangeun (KOR),TANG Peng (HKG),JEONG Sangeun
+Pro Tour Korea Open Incheon 2011,2011-06-29,CHO Eonrae,WU Jiaji,4,1,"11,2,11,13,11|8,11,5,11,4",R32,GRAND_SLAM,MS,76,Main Draw,CHO Eonrae (KOR),WU Jiaji (DOM),CHO Eonrae
+Pro Tour Korea Open Incheon 2011,2011-06-29,KIM Minseok,NIWA Koki,4,0,"11,11,11,11|8,9,5,4",R32,GRAND_SLAM,MS,76,Main Draw,KIM Minseok (KOR),NIWA Koki (JPN),KIM Minseok
+Pro Tour Korea Open Incheon 2011,2011-06-29,CHUANG Chih-Yuan,YIN Hang,4,0,"11,11,13,11|5,1,11,9",R32,GRAND_SLAM,MS,76,Main Draw,CHUANG Chih-Yuan (TPE),YIN Hang (CHN),CHUANG Chih-Yuan
+Pro Tour Korea Open Incheon 2011,2011-06-29,RYU Seungmin,MATSUDAIRA Kenji,4,0,"12,11,11,11|10,9,4,8",R32,GRAND_SLAM,MS,76,Main Draw,RYU Seungmin (KOR),MATSUDAIRA Kenji (JPN),RYU Seungmin
+Pro Tour Korea Open Incheon 2011,2011-06-29,LIU Yi,JIANG Tianyi,4,0,"11,11,11,11|8,2,7,8",R32,GRAND_SLAM,MS,76,Main Draw,LIU Yi (CHN),JIANG Tianyi (HKG),LIU Yi
+Pro Tour Korea Open Incheon 2011,2011-06-29,YOSHIDA Kaii,LI Hu,4,0,"11,13,11,11|7,11,9,7",R32,GRAND_SLAM,MS,76,Main Draw,YOSHIDA Kaii (JPN),LI Hu (SGP),YOSHIDA Kaii
+Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Sang Su,GAO Ning,4,2,"9,11,6,12,11,11|11,8,11,10,7,4",R32,GRAND_SLAM,MS,76,Main Draw,LEE Sang Su (KOR),GAO Ning (SGP),LEE Sang Su
+Pro Tour Korea Open Incheon 2011,2011-06-29,LIN Gaoyuan,BAUM Patrick,4,1,"11,13,11,8,11|6,11,7,11,8",R32,GRAND_SLAM,MS,76,Main Draw,LIN Gaoyuan (CHN),BAUM Patrick (GER),LIN Gaoyuan
+Pro Tour Korea Open Incheon 2011,2011-06-29,CHAN Kazuhiro,LEE Jungwoo,4,1,"12,13,11,11,11|14,11,6,7,6",R32,GRAND_SLAM,MS,76,Main Draw,CHAN Kazuhiro (JPN),LEE Jungwoo (KOR),CHAN Kazuhiro
+Pro Tour Korea Open Incheon 2011,2011-06-29,CHOI Hyunjin,MATSUDAIRA Kenta,4,2,"9,11,6,11,11,11|11,9,11,7,8,7",R32,GRAND_SLAM,MS,76,Main Draw,CHOI Hyunjin (KOR),MATSUDAIRA Kenta (JPN),CHOI Hyunjin
+Pro Tour Korea Open Incheon 2011,2011-06-29,OH Sangeun,LIU Zhongze,4,0,"11,12,11,11|7,10,3,3",R32,GRAND_SLAM,MS,76,Main Draw,OH Sangeun (KOR),LIU Zhongze (SGP),OH Sangeun
+Pro Tour Korea Open Incheon 2011,2011-06-29,JOO Saehyuk,SEO Hyundeok,4,2,"13,11,3,11,11,11|15,2,11,4,4,9",R16,GRAND_SLAM,MS,76,Main Draw,JOO Saehyuk (KOR),SEO Hyundeok (KOR),JOO Saehyuk
+Pro Tour Korea Open Incheon 2011,2011-06-29,OVTCHAROV Dimitrij,YANG Zi,4,1,"11,3,11,11,11|9,11,6,5,5",R16,GRAND_SLAM,MS,76,Main Draw,OVTCHAROV Dimitrij (GER),YANG Zi (SGP),OVTCHAROV Dimitrij
+Pro Tour Korea Open Incheon 2011,2011-06-29,CHO Eonrae,JEONG Sangeun,4,3,"11,8,11,11,8,8,13|6,11,5,8,11,11,11",R16,GRAND_SLAM,MS,76,Main Draw,CHO Eonrae (KOR),JEONG Sangeun (KOR),CHO Eonrae
+Pro Tour Korea Open Incheon 2011,2011-06-29,KIM Minseok,CHUANG Chih-Yuan,4,2,"11,11,11,8,9,11|3,7,8,11,11,5",R16,GRAND_SLAM,MS,76,Main Draw,KIM Minseok (KOR),CHUANG Chih-Yuan (TPE),KIM Minseok
+Pro Tour Korea Open Incheon 2011,2011-06-29,RYU Seungmin,LIU Yi,4,0,"11,11,11,13|9,6,7,11",R16,GRAND_SLAM,MS,76,Main Draw,RYU Seungmin (KOR),LIU Yi (CHN),RYU Seungmin
+Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Sang Su,YOSHIDA Kaii,4,2,"9,11,11,8,11,13|11,5,5,11,6,11",R16,GRAND_SLAM,MS,76,Main Draw,LEE Sang Su (KOR),YOSHIDA Kaii (JPN),LEE Sang Su
+Pro Tour Korea Open Incheon 2011,2011-06-29,LIN Gaoyuan,CHAN Kazuhiro,4,0,"11,12,14,14|7,10,12,12",R16,GRAND_SLAM,MS,76,Main Draw,LIN Gaoyuan (CHN),CHAN Kazuhiro (JPN),LIN Gaoyuan
+Pro Tour Korea Open Incheon 2011,2011-06-29,OH Sangeun,CHOI Hyunjin,4,0,"11,11,11,11|5,7,8,5",R16,GRAND_SLAM,MS,76,Main Draw,OH Sangeun (KOR),CHOI Hyunjin (KOR),OH Sangeun
+Pro Tour Korea Open Incheon 2011,2011-06-29,OVTCHAROV Dimitrij,JOO Saehyuk,4,2,"11,11,11,11,5,11|8,5,13,7,11,6",QF,GRAND_SLAM,MS,76,Main Draw,OVTCHAROV Dimitrij (GER),JOO Saehyuk (KOR),OVTCHAROV Dimitrij
+Pro Tour Korea Open Incheon 2011,2011-06-29,CHO Eonrae,KIM Minseok,4,3,"6,11,4,11,4,11,11|11,9,11,9,11,8,6",QF,GRAND_SLAM,MS,76,Main Draw,CHO Eonrae (KOR),KIM Minseok (KOR),CHO Eonrae
+Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Sang Su,RYU Seungmin,4,3,"11,8,11,8,5,11,11|5,11,8,11,11,9,2",QF,GRAND_SLAM,MS,76,Main Draw,LEE Sang Su (KOR),RYU Seungmin (KOR),LEE Sang Su
+Pro Tour Korea Open Incheon 2011,2011-06-29,LIN Gaoyuan,OH Sangeun,4,3,"9,7,11,11,12,11,11|11,11,6,9,14,7,5",QF,GRAND_SLAM,MS,76,Main Draw,LIN Gaoyuan (CHN),OH Sangeun (KOR),LIN Gaoyuan
+Pro Tour Korea Open Incheon 2011,2011-06-29,OVTCHAROV Dimitrij,CHO Eonrae,4,2,"12,9,16,11,11,13|14,11,14,4,3,11",SF,GRAND_SLAM,MS,76,Main Draw,OVTCHAROV Dimitrij (GER),CHO Eonrae (KOR),OVTCHAROV Dimitrij
+Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Sang Su,LIN Gaoyuan,4,1,"11,11,11,7,11|8,9,4,11,5",SF,GRAND_SLAM,MS,76,Main Draw,LEE Sang Su (KOR),LIN Gaoyuan (CHN),LEE Sang Su
+Pro Tour Korea Open Incheon 2011,2011-06-29,OVTCHAROV Dimitrij,LEE Sang Su,4,1,"11,11,11,11,11|9,6,13,9,9",F,GRAND_SLAM,MS,76,Main Draw,OVTCHAROV Dimitrij (GER),LEE Sang Su (KOR),OVTCHAROV Dimitrij
+Pro Tour Korea Open Incheon 2011,2011-06-29,WU Jiaji,KIM Minseok,3,1,"11,11,8,11|9,8,11,9",R16,GRAND_SLAM,U21MS,76,Main Draw,WU Jiaji (DOM),KIM Minseok (KOR),WU Jiaji
+Pro Tour Korea Open Incheon 2011,2011-06-29,JIN Yixiong,JEONG Sangeun,3,2,"4,8,11,14,11|11,11,5,12,4",R16,GRAND_SLAM,U21MS,76,Main Draw,JIN Yixiong (CHN),JEONG Sangeun (KOR),JIN Yixiong
+Pro Tour Korea Open Incheon 2011,2011-06-29,LIN Gaoyuan,MURAMATSU Yuto,3,0,"11,11,11|8,6,6",R16,GRAND_SLAM,U21MS,76,Main Draw,LIN Gaoyuan (CHN),MURAMATSU Yuto (JPN),LIN Gaoyuan
+Pro Tour Korea Open Incheon 2011,2011-06-29,JEOUNG Youngsik,YOSHIDA Masaki,3,1,"8,11,12,11|11,5,10,9",R16,GRAND_SLAM,U21MS,76,Main Draw,JEOUNG Youngsik (KOR),YOSHIDA Masaki (JPN),JEOUNG Youngsik
+Pro Tour Korea Open Incheon 2011,2011-06-29,CHEN Chien-An,LIU Yi,3,2,"11,9,11,12,11|6,11,8,14,5",R16,GRAND_SLAM,U21MS,76,Main Draw,CHEN Chien-An (TPE),LIU Yi (CHN),CHEN Chien-An
+Pro Tour Korea Open Incheon 2011,2011-06-29,SONG Hongyuan,CHEON Minhyuck,3,0,"11,12,12|7,10,10",R16,GRAND_SLAM,U21MS,76,Main Draw,SONG Hongyuan (CHN),CHEON Minhyuck (KOR),SONG Hongyuan
+Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Sang Su,YIN Hang,3,1,"11,11,9,13|8,6,11,11",R16,GRAND_SLAM,U21MS,76,Main Draw,LEE Sang Su (KOR),YIN Hang (CHN),LEE Sang Su
+Pro Tour Korea Open Incheon 2011,2011-06-29,WU Jiaji,JIN Yixiong,4,0,"11,11,11,11|5,5,7,7",QF,GRAND_SLAM,U21MS,76,Main Draw,WU Jiaji (DOM),JIN Yixiong (CHN),WU Jiaji
+Pro Tour Korea Open Incheon 2011,2011-06-29,JEOUNG Youngsik,LIN Gaoyuan,4,1,"11,7,11,11,11|6,11,8,9,3",QF,GRAND_SLAM,U21MS,76,Main Draw,JEOUNG Youngsik (KOR),LIN Gaoyuan (CHN),JEOUNG Youngsik
+Pro Tour Korea Open Incheon 2011,2011-06-29,NIWA Koki,CHEN Chien-An,4,3,"11,11,12,6,11,11,11|4,6,14,11,13,7,7",QF,GRAND_SLAM,U21MS,76,Main Draw,NIWA Koki (JPN),CHEN Chien-An (TPE),NIWA Koki
+Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Sang Su,SONG Hongyuan,4,0,"11,11,11,11|7,8,9,9",QF,GRAND_SLAM,U21MS,76,Main Draw,LEE Sang Su (KOR),SONG Hongyuan (CHN),LEE Sang Su
+Pro Tour Korea Open Incheon 2011,2011-06-29,JEOUNG Youngsik,WU Jiaji,4,2,"6,11,12,7,11,11|11,7,10,11,6,2",SF,GRAND_SLAM,U21MS,76,Main Draw,JEOUNG Youngsik (KOR),WU Jiaji (DOM),JEOUNG Youngsik
+Pro Tour Korea Open Incheon 2011,2011-06-29,NIWA Koki,LEE Sang Su,4,2,"12,11,11,11,9,11|10,13,8,6,11,9",SF,GRAND_SLAM,U21MS,76,Main Draw,NIWA Koki (JPN),LEE Sang Su (KOR),NIWA Koki
+Pro Tour Korea Open Incheon 2011,2011-06-29,NIWA Koki,JEOUNG Youngsik,4,3,"11,11,9,9,6,11,11|5,7,11,11,11,9,7",F,GRAND_SLAM,U21MS,76,Main Draw,NIWA Koki (JPN),JEOUNG Youngsik (KOR),NIWA Koki
+Pro Tour Korea Open Incheon 2011,2011-06-29,YANG Ha Eun,FUJII Yuko,3,0,"11,11,11|7,8,5",R16,GRAND_SLAM,U21WS,76,Main Draw,YANG Ha Eun (KOR),FUJII Yuko (JPN),YANG Ha Eun
+Pro Tour Korea Open Incheon 2011,2011-06-29,TANIOKA Ayuka,CHEN Szu-Yu,3,2,"4,11,11,6,11|11,9,3,11,5",R16,GRAND_SLAM,U21WS,76,Main Draw,TANIOKA Ayuka (JPN),CHEN Szu-Yu (TPE),TANIOKA Ayuka
+Pro Tour Korea Open Incheon 2011,2011-06-29,SONG Maeum,TASHIRO Saki,3,2,"11,10,11,8,11|7,12,6,11,7",R16,GRAND_SLAM,U21WS,76,Main Draw,SONG Maeum (KOR),TASHIRO Saki (JPN),SONG Maeum
+Pro Tour Korea Open Incheon 2011,2011-06-29,CHENG I-Ching,MUHLBACH Kathrin,3,0,"11,12,11|5,10,8",R16,GRAND_SLAM,U21WS,76,Main Draw,CHENG I-Ching (TPE),MUHLBACH Kathrin (GER),CHENG I-Ching
+Pro Tour Korea Open Incheon 2011,2011-06-29,MORIZONO Misaki,HSIUNG Nai-I,3,2,"11,10,9,11,11|9,12,11,5,5",R16,GRAND_SLAM,U21WS,76,Main Draw,MORIZONO Misaki (JPN),HSIUNG Nai-I (TPE),MORIZONO Misaki
+Pro Tour Korea Open Incheon 2011,2011-06-29,NG Wing Nam,YOO Eunchong,3,2,"10,12,11,9,11|12,10,7,11,8",R16,GRAND_SLAM,U21WS,76,Main Draw,NG Wing Nam (HKG),YOO Eunchong (KOR),NG Wing Nam
+Pro Tour Korea Open Incheon 2011,2011-06-29,HOU Yu-Ling,MAEDA Miyu,3,0,"11,14,11|7,12,6",R16,GRAND_SLAM,U21WS,76,Main Draw,HOU Yu-Ling (TPE),MAEDA Miyu (JPN),HOU Yu-Ling
+Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Ho Ching,KANG Haneul,3,2,"11,9,11,9,11|8,11,9,11,8",R16,GRAND_SLAM,U21WS,76,Main Draw,LEE Ho Ching (HKG),KANG Haneul (KOR),LEE Ho Ching
+Pro Tour Korea Open Incheon 2011,2011-06-29,YANG Ha Eun,TANIOKA Ayuka,4,0,"11,11,11,11|2,6,7,2",QF,GRAND_SLAM,U21WS,76,Main Draw,YANG Ha Eun (KOR),TANIOKA Ayuka (JPN),YANG Ha Eun
+Pro Tour Korea Open Incheon 2011,2011-06-29,SONG Maeum,CHENG I-Ching,4,0,"11,11,11,11|7,5,9,8",QF,GRAND_SLAM,U21WS,76,Main Draw,SONG Maeum (KOR),CHENG I-Ching (TPE),SONG Maeum
+Pro Tour Korea Open Incheon 2011,2011-06-29,MORIZONO Misaki,NG Wing Nam,4,0,"11,11,11,11|2,8,6,4",QF,GRAND_SLAM,U21WS,76,Main Draw,MORIZONO Misaki (JPN),NG Wing Nam (HKG),MORIZONO Misaki
+Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Ho Ching,HOU Yu-Ling,4,1,"11,11,11,6,11|5,8,3,11,5",QF,GRAND_SLAM,U21WS,76,Main Draw,LEE Ho Ching (HKG),HOU Yu-Ling (TPE),LEE Ho Ching
+Pro Tour Korea Open Incheon 2011,2011-06-29,YANG Ha Eun,SONG Maeum,4,0,"11,11,11,11|6,9,6,7",SF,GRAND_SLAM,U21WS,76,Main Draw,YANG Ha Eun (KOR),SONG Maeum (KOR),YANG Ha Eun
+Pro Tour Korea Open Incheon 2011,2011-06-29,MORIZONO Misaki,LEE Ho Ching,4,1,"7,11,12,11,11|11,9,10,6,9",SF,GRAND_SLAM,U21WS,76,Main Draw,MORIZONO Misaki (JPN),LEE Ho Ching (HKG),MORIZONO Misaki
+Pro Tour Korea Open Incheon 2011,2011-06-29,YANG Ha Eun,MORIZONO Misaki,4,0,"11,11,11,11|7,6,8,9",F,GRAND_SLAM,U21WS,76,Main Draw,YANG Ha Eun (KOR),MORIZONO Misaki (JPN),YANG Ha Eun
+Pro Tour Korea Open Incheon 2011,2011-06-29,YOO Eunchong,CHANG Ya-Chuan,3,1,"11,11,6,11|7,8,11,6",,GRAND_SLAM,U21WS,76,Qualification,YOO Eunchong (KOR),CHANG Ya-Chuan (TPE),YOO Eunchong
+Pro Tour Korea Open Incheon 2011,2011-06-29,CHANG Ya-Chuan,MATSUZAWA Marina,3,2,"5,11,14,11,11|11,8,16,8,8",,GRAND_SLAM,U21WS,76,Qualification,CHANG Ya-Chuan (TPE),MATSUZAWA Marina (JPN),CHANG Ya-Chuan
+Pro Tour Korea Open Incheon 2011,2011-06-29,MATSUZAWA Marina,YOO Eunchong,3,2,"11,7,11,6,13|1,11,7,11,11",,GRAND_SLAM,U21WS,76,Qualification,MATSUZAWA Marina (JPN),YOO Eunchong (KOR),MATSUZAWA Marina
+Pro Tour Korea Open Incheon 2011,2011-06-29,CHOI Jeongmin,MIYAKE Natsumi,3,1,"11,11,4,11|7,8,11,4",,GRAND_SLAM,U21WS,76,Qualification,CHOI Jeongmin (KOR),MIYAKE Natsumi (JPN),CHOI Jeongmin
+Pro Tour Korea Open Incheon 2011,2011-06-29,MIYAKE Natsumi,CHEN Szu-Yu,3,2,"11,11,8,10,11|8,7,11,12,8",,GRAND_SLAM,U21WS,76,Qualification,MIYAKE Natsumi (JPN),CHEN Szu-Yu (TPE),MIYAKE Natsumi
+Pro Tour Korea Open Incheon 2011,2011-06-29,CHEN Szu-Yu,CHOI Jeongmin,3,1,"6,11,11,11|11,4,7,5",,GRAND_SLAM,U21WS,76,Qualification,CHEN Szu-Yu (TPE),CHOI Jeongmin (KOR),CHEN Szu-Yu
+Pro Tour Korea Open Incheon 2011,2011-06-29,FUJII Yuko,SIM Kai Xin Zena,3,0,"11,11,11|9,5,2",,GRAND_SLAM,U21WS,76,Qualification,FUJII Yuko (JPN),SIM Kai Xin Zena (SGP),FUJII Yuko
+Pro Tour Korea Open Incheon 2011,2011-06-29,FUJII Yuko,JO Yujin,3,0,"12,11,11|10,1,9",,GRAND_SLAM,U21WS,76,Qualification,FUJII Yuko (JPN),JO Yujin (KOR),FUJII Yuko
+Pro Tour Korea Open Incheon 2011,2011-06-29,JO Yujin,SIM Kai Xin Zena,3,0,"12,11,11|10,6,3",,GRAND_SLAM,U21WS,76,Qualification,JO Yujin (KOR),SIM Kai Xin Zena (SGP),JO Yujin
+Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Yujin,TSUI Pao-Wen,3,1,"11,11,7,11|8,6,11,8",,GRAND_SLAM,U21WS,76,Qualification,LEE Yujin (KOR),TSUI Pao-Wen (TPE),LEE Yujin
+Pro Tour Korea Open Incheon 2011,2011-06-29,MUHLBACH Kathrin,LEE Yujin,3,0,"11,11,11|3,4,8",,GRAND_SLAM,U21WS,76,Qualification,MUHLBACH Kathrin (GER),LEE Yujin (KOR),MUHLBACH Kathrin
+Pro Tour Korea Open Incheon 2011,2011-06-29,MUHLBACH Kathrin,TSUI Pao-Wen,3,1,"11,5,11,11|6,11,4,9",,GRAND_SLAM,U21WS,76,Qualification,MUHLBACH Kathrin (GER),TSUI Pao-Wen (TPE),MUHLBACH Kathrin
+Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Nakyung,KIM Seoyeon,3,0,"11,11,11|6,9,9",,GRAND_SLAM,U21WS,76,Qualification,LEE Nakyung (KOR),KIM Seoyeon (KOR),LEE Nakyung
+Pro Tour Korea Open Incheon 2011,2011-06-29,TASHIRO Saki,LEE Nakyung,3,1,"11,9,11,12|6,11,3,10",,GRAND_SLAM,U21WS,76,Qualification,TASHIRO Saki (JPN),LEE Nakyung (KOR),TASHIRO Saki
+Pro Tour Korea Open Incheon 2011,2011-06-29,TASHIRO Saki,KIM Seoyeon,3,0,"11,11,11|7,2,4",,GRAND_SLAM,U21WS,76,Qualification,TASHIRO Saki (JPN),KIM Seoyeon (KOR),TASHIRO Saki
+Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Zion,LEE Dasom,3,1,"6,11,11,12|11,7,5,10",,GRAND_SLAM,U21WS,76,Qualification,LEE Zion (KOR),LEE Dasom (KOR),LEE Zion
+Pro Tour Korea Open Incheon 2011,2011-06-29,HSIUNG Nai-I,LEE Zion,3,0,"11,11,11|4,4,8",,GRAND_SLAM,U21WS,76,Qualification,HSIUNG Nai-I (TPE),LEE Zion (KOR),HSIUNG Nai-I
+Pro Tour Korea Open Incheon 2011,2011-06-29,HSIUNG Nai-I,LEE Dasom,3,2,"11,9,3,11,11|6,11,11,8,9",,GRAND_SLAM,U21WS,76,Qualification,HSIUNG Nai-I (TPE),LEE Dasom (KOR),HSIUNG Nai-I
+Pro Tour Korea Open Incheon 2011,2011-06-29,KANG Haneul,TSUCHIDA Miki,3,2,"6,3,11,11,13|11,11,5,8,11",,GRAND_SLAM,U21WS,76,Qualification,KANG Haneul (KOR),TSUCHIDA Miki (JPN),KANG Haneul
+Pro Tour Korea Open Incheon 2011,2011-06-29,KANG Haneul,GUAN Mengyuan,3,0,,,GRAND_SLAM,U21WS,76,Qualification,KANG Haneul (KOR),GUAN Mengyuan (HKG),KANG Haneul
+Pro Tour Korea Open Incheon 2011,2011-06-29,TSUCHIDA Miki,GUAN Mengyuan,3,0,,,GRAND_SLAM,U21WS,76,Qualification,TSUCHIDA Miki (JPN),GUAN Mengyuan (HKG),TSUCHIDA Miki
+Pro Tour Korea Open Incheon 2011,2011-06-29,HOU Yu-Ling,LEE Seul,3,1,"11,6,11,11|3,11,5,8",,GRAND_SLAM,U21WS,76,Qualification,HOU Yu-Ling (TPE),LEE Seul (KOR),HOU Yu-Ling
+Pro Tour Korea Open Incheon 2011,2011-06-29,SO Eka,LEE Seul,3,0,"11,11,12|3,8,10",,GRAND_SLAM,U21WS,76,Qualification,SO Eka (JPN),LEE Seul (KOR),SO Eka
+Pro Tour Korea Open Incheon 2011,2011-06-29,HOU Yu-Ling,SO Eka,3,1,"9,11,13,11|11,9,11,1",,GRAND_SLAM,U21WS,76,Qualification,HOU Yu-Ling (TPE),SO Eka (JPN),HOU Yu-Ling
+Pro Tour Korea Open Incheon 2011,2011-06-29,ISHIGAKI Yuka/YAMANASHI Yuri,JIANG Huajun/LEE Ho Ching,3,0,"11,11,11|5,9,3",R16,GRAND_SLAM,WD,76,Main Draw,ISHIGAKI Yuka (JPN) / YAMANASHI Yuri (JPN),JIANG Huajun (HKG) / LEE Ho Ching (HKG),ISHIGAKI Yuka
+Pro Tour Korea Open Incheon 2011,2011-06-29,FUKUHARA Ai/ISHIKAWA Kasumi,GUAN Mengyuan/NG Wing Nam,4,0,,R16,GRAND_SLAM,WD,76,Main Draw,FUKUHARA Ai (JPN) / ISHIKAWA Kasumi (JPN),GUAN Mengyuan (HKG) / NG Wing Nam (HKG),FUKUHARA Ai
+Pro Tour Korea Open Incheon 2011,2011-06-29,FUJII Hiroko/WAKAMIYA Misako,FUKUHARA Ai/ISHIKAWA Kasumi,4,0,"11,11,11,11|2,8,8,6",QF,GRAND_SLAM,WD,76,Main Draw,FUJII Hiroko (JPN) / WAKAMIYA Misako (JPN),FUKUHARA Ai (JPN) / ISHIKAWA Kasumi (JPN),FUJII Hiroko
+Pro Tour Korea Open Incheon 2011,2011-06-29,KIM Kyungah/PARK Miyoung,ISHIGAKI Yuka/YAMANASHI Yuri,4,2,"9,6,11,11,12,11|11,11,7,8,10,5",SF,GRAND_SLAM,WD,76,Main Draw,KIM Kyungah (KOR) / PARK Miyoung (KOR),ISHIGAKI Yuka (JPN) / YAMANASHI Yuri (JPN),KIM Kyungah
+Pro Tour Korea Open Incheon 2011,2011-06-29,FUJII Hiroko/WAKAMIYA Misako,KIM Kyungah/PARK Miyoung,4,2,"11,11,8,11,7,12|3,7,11,4,11,10",F,GRAND_SLAM,WD,76,Main Draw,FUJII Hiroko (JPN) / WAKAMIYA Misako (JPN),KIM Kyungah (KOR) / PARK Miyoung (KOR),FUJII Hiroko
+Pro Tour Korea Open Incheon 2011,2011-06-29,SUH Hyo Won/YOON Sunae,CHANG Ya-Chuan/CHEN Szu-Yu,3,2,"11,4,9,11,11|8,11,11,6,6",QR16,GRAND_SLAM,WD,76,Qualification,SUH Hyo Won (KOR) / YOON Sunae (KOR),CHANG Ya-Chuan (TPE) / CHEN Szu-Yu (TPE),SUH Hyo Won
+Pro Tour Korea Open Incheon 2011,2011-06-29,FENG Tianwei/SUN Beibei,SONG Maeum/YOO Eunchong,3,2,"7,11,9,11,11|11,4,11,6,6",R16,GRAND_SLAM,WD,76,Main Draw,FENG Tianwei (SGP) / SUN Beibei (SGP),SONG Maeum (KOR) / YOO Eunchong (KOR),FENG Tianwei
+Pro Tour Korea Open Incheon 2011,2011-06-29,FUJII Hiroko/WAKAMIYA Misako,SEOK Hajung/YANG Ha Eun,3,1,"11,11,10,11|8,7,12,3",R16,GRAND_SLAM,WD,76,Main Draw,FUJII Hiroko (JPN) / WAKAMIYA Misako (JPN),SEOK Hajung (KOR) / YANG Ha Eun (KOR),FUJII Hiroko
+Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Eunhee/PARK Youngsook,MUHLBACH Kathrin/WU Jiaduo,3,1,"11,6,11,11|2,11,6,6",R16,GRAND_SLAM,WD,76,Main Draw,LEE Eunhee (KOR) / PARK Youngsook (KOR),MUHLBACH Kathrin (GER) / WU Jiaduo (GER),LEE Eunhee
+Pro Tour Korea Open Incheon 2011,2011-06-29,SUH Hyo Won/YOON Sunae,FENG Tianwei/SUN Beibei,4,2,"11,11,7,10,13,11|4,4,11,12,11,6",QF,GRAND_SLAM,WD,76,Main Draw,SUH Hyo Won (KOR) / YOON Sunae (KOR),FENG Tianwei (SGP) / SUN Beibei (SGP),SUH Hyo Won
+Pro Tour Korea Open Incheon 2011,2011-06-29,KIM Kyungah/PARK Miyoung,LEE Eunhee/PARK Youngsook,4,1,"11,11,11,3,11|9,9,7,11,9",QF,GRAND_SLAM,WD,76,Main Draw,KIM Kyungah (KOR) / PARK Miyoung (KOR),LEE Eunhee (KOR) / PARK Youngsook (KOR),KIM Kyungah
+Pro Tour Korea Open Incheon 2011,2011-06-29,FUJII Hiroko/WAKAMIYA Misako,SUH Hyo Won/YOON Sunae,4,0,"11,11,11,11|8,7,7,9",SF,GRAND_SLAM,WD,76,Main Draw,FUJII Hiroko (JPN) / WAKAMIYA Misako (JPN),SUH Hyo Won (KOR) / YOON Sunae (KOR),FUJII Hiroko
+Pro Tour Korea Open Incheon 2011,2011-06-29,LI Jiawei/WANG Yuegu,JO Yujin/MOON Hyunjung,3,2,"11,6,9,11,11|6,11,11,6,7",R16,GRAND_SLAM,WD,76,Main Draw,LI Jiawei (SGP) / WANG Yuegu (SGP),JO Yujin (KOR) / MOON Hyunjung (KOR),LI Jiawei
+Pro Tour Korea Open Incheon 2011,2011-06-29,ISHIGAKI Yuka/YAMANASHI Yuri,LI Jiawei/WANG Yuegu,4,1,"7,11,11,11,11|11,9,9,7,9",QF,GRAND_SLAM,WD,76,Main Draw,ISHIGAKI Yuka (JPN) / YAMANASHI Yuri (JPN),LI Jiawei (SGP) / WANG Yuegu (SGP),ISHIGAKI Yuka
+Pro Tour Korea Open Incheon 2011,2011-06-29,LIN Chia-Hui/LIU Hsing-Yin,KOMWONG Nanthana/MUANGSUK Anisara,3,0,"12,11,11|10,8,5",QR16,GRAND_SLAM,WD,76,Qualification,LIN Chia-Hui (TPE) / LIU Hsing-Yin (TPE),KOMWONG Nanthana (THA) / MUANGSUK Anisara (THA),LIN Chia-Hui
+Pro Tour Korea Open Incheon 2011,2011-06-29,SUH Hyo Won/YOON Sunae,CHENG I-Ching/HUANG Yi-Hua,3,1,"8,11,11,11|11,5,2,8",R16,GRAND_SLAM,WD,76,Main Draw,SUH Hyo Won (KOR) / YOON Sunae (KOR),CHENG I-Ching (TPE) / HUANG Yi-Hua (TPE),SUH Hyo Won
+Pro Tour Korea Open Incheon 2011,2011-06-29,KIM Kyungah/PARK Miyoung,LIN Chia-Hui/LIU Hsing-Yin,3,1,"11,7,11,11|7,11,3,1",R16,GRAND_SLAM,WD,76,Main Draw,KIM Kyungah (KOR) / PARK Miyoung (KOR),LIN Chia-Hui (TPE) / LIU Hsing-Yin (TPE),KIM Kyungah
+Pro Tour Korea Open Incheon 2011,2011-06-29,FENG Tianwei,TANIOKA Ayuka,4,1,"14,10,11,11,12|12,12,6,8,10",R32,GRAND_SLAM,WS,76,Main Draw,FENG Tianwei (SGP),TANIOKA Ayuka (JPN),FENG Tianwei
+Pro Tour Korea Open Incheon 2011,2011-06-29,LI Jiawei,YOO Eunchong,4,0,"11,11,11,11|6,4,9,5",R32,GRAND_SLAM,WS,76,Main Draw,LI Jiawei (SGP),YOO Eunchong (KOR),LI Jiawei
+Pro Tour Korea Open Incheon 2011,2011-06-29,CHOI Moonyoung,HUANG Yi-Hua,4,1,"11,12,10,11,11|2,10,12,8,6",R32,GRAND_SLAM,WS,76,Main Draw,CHOI Moonyoung (KOR),HUANG Yi-Hua (TPE),CHOI Moonyoung
+Pro Tour Korea Open Incheon 2011,2011-06-29,HIRANO Sayaka,YOON Sunae,4,2,"4,6,11,13,11,11|11,11,6,11,7,5",R32,GRAND_SLAM,WS,76,Main Draw,HIRANO Sayaka (JPN),YOON Sunae (KOR),HIRANO Sayaka
+Pro Tour Korea Open Incheon 2011,2011-06-29,WANG Yuegu,WAKAMIYA Misako,4,0,"11,11,11,11|4,5,1,2",R32,GRAND_SLAM,WS,76,Main Draw,WANG Yuegu (SGP),WAKAMIYA Misako (JPN),WANG Yuegu
+Pro Tour Korea Open Incheon 2011,2011-06-29,YAMANASHI Yuri,YANG Ha Eun,4,2,"5,11,11,6,14,11|11,7,8,11,12,8",R32,GRAND_SLAM,WS,76,Main Draw,YAMANASHI Yuri (JPN),YANG Ha Eun (KOR),YAMANASHI Yuri
+Pro Tour Korea Open Incheon 2011,2011-06-29,ISHIGAKI Yuka,SHEN Yanfei,4,3,"11,11,12,9,6,15,12|9,7,14,11,11,13,10",R32,GRAND_SLAM,WS,76,Main Draw,ISHIGAKI Yuka (JPN),SHEN Yanfei (ESP),ISHIGAKI Yuka
+Pro Tour Korea Open Incheon 2011,2011-06-29,FUKUHARA Ai,BARTHEL Zhenqi,4,1,"11,9,11,11,11|9,11,4,7,5",R32,GRAND_SLAM,WS,76,Main Draw,FUKUHARA Ai (JPN),BARTHEL Zhenqi (GER),FUKUHARA Ai
+Pro Tour Korea Open Incheon 2011,2011-06-29,KIM Kyungah,MATSUZAWA Marina,4,0,"11,11,11,11|7,7,2,7",R32,GRAND_SLAM,WS,76,Main Draw,KIM Kyungah (KOR),MATSUZAWA Marina (JPN),KIM Kyungah
+Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Eunhee,YU Mengyu,4,1,"11,10,11,11,13|9,12,9,7,11",R32,GRAND_SLAM,WS,76,Main Draw,LEE Eunhee (KOR),YU Mengyu (SGP),LEE Eunhee
+Pro Tour Korea Open Incheon 2011,2011-06-29,PARK Miyoung,FUJII Hiroko,4,2,"6,8,11,11,11,11|11,11,8,5,5,5",R32,GRAND_SLAM,WS,76,Main Draw,PARK Miyoung (KOR),FUJII Hiroko (JPN),PARK Miyoung
+Pro Tour Korea Open Incheon 2011,2011-06-29,JIANG Huajun,MORIZONO Misaki,4,1,"5,11,11,11,11|11,2,6,7,7",R32,GRAND_SLAM,WS,76,Main Draw,JIANG Huajun (HKG),MORIZONO Misaki (JPN),JIANG Huajun
+Pro Tour Korea Open Incheon 2011,2011-06-29,LEE I-Chen,WU Jiaduo,4,3,"12,11,7,13,8,9,12|10,7,11,11,11,11,10",R32,GRAND_SLAM,WS,76,Main Draw,LEE I-Chen (TPE),WU Jiaduo (GER),LEE I-Chen
+Pro Tour Korea Open Incheon 2011,2011-06-29,MOON Hyunjung,HU Melek,4,1,"13,11,3,11,11|11,7,11,4,4",R32,GRAND_SLAM,WS,76,Main Draw,MOON Hyunjung (KOR),HU Melek (TUR),MOON Hyunjung
+Pro Tour Korea Open Incheon 2011,2011-06-29,SUN Beibei,SEOK Hajung,4,3,"16,8,12,6,6,11,11|14,11,10,11,11,6,7",R32,GRAND_SLAM,WS,76,Main Draw,SUN Beibei (SGP),SEOK Hajung (KOR),SUN Beibei
+Pro Tour Korea Open Incheon 2011,2011-06-29,SUH Hyo Won,ISHIKAWA Kasumi,4,2,"5,11,17,7,11,11|11,8,15,11,9,8",R32,GRAND_SLAM,WS,76,Main Draw,SUH Hyo Won (KOR),ISHIKAWA Kasumi (JPN),SUH Hyo Won
+Pro Tour Korea Open Incheon 2011,2011-06-29,FENG Tianwei,LI Jiawei,4,2,"11,11,11,9,7,11|2,4,7,11,11,8",R16,GRAND_SLAM,WS,76,Main Draw,FENG Tianwei (SGP),LI Jiawei (SGP),FENG Tianwei
+Pro Tour Korea Open Incheon 2011,2011-06-29,HIRANO Sayaka,CHOI Moonyoung,4,0,"11,11,11,11|7,5,9,7",R16,GRAND_SLAM,WS,76,Main Draw,HIRANO Sayaka (JPN),CHOI Moonyoung (KOR),HIRANO Sayaka
+Pro Tour Korea Open Incheon 2011,2011-06-29,WANG Yuegu,YAMANASHI Yuri,4,2,"11,11,7,11,7,11|3,4,11,9,11,7",R16,GRAND_SLAM,WS,76,Main Draw,WANG Yuegu (SGP),YAMANASHI Yuri (JPN),WANG Yuegu
+Pro Tour Korea Open Incheon 2011,2011-06-29,ISHIGAKI Yuka,FUKUHARA Ai,4,3,"9,9,11,11,1,13,11|11,11,5,9,11,11,7",R16,GRAND_SLAM,WS,76,Main Draw,ISHIGAKI Yuka (JPN),FUKUHARA Ai (JPN),ISHIGAKI Yuka
+Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Eunhee,KIM Kyungah,4,2,"10,11,9,11,11,11|12,8,11,8,9,5",R16,GRAND_SLAM,WS,76,Main Draw,LEE Eunhee (KOR),KIM Kyungah (KOR),LEE Eunhee
+Pro Tour Korea Open Incheon 2011,2011-06-29,PARK Miyoung,JIANG Huajun,4,0,"11,11,11,11|6,2,3,9",R16,GRAND_SLAM,WS,76,Main Draw,PARK Miyoung (KOR),JIANG Huajun (HKG),PARK Miyoung
+Pro Tour Korea Open Incheon 2011,2011-06-29,MOON Hyunjung,LEE I-Chen,4,3,"9,8,12,11,11,11,11|11,11,14,9,4,9,5",R16,GRAND_SLAM,WS,76,Main Draw,MOON Hyunjung (KOR),LEE I-Chen (TPE),MOON Hyunjung
+Pro Tour Korea Open Incheon 2011,2011-06-29,SUH Hyo Won,SUN Beibei,4,2,"11,15,10,12,9,11|2,13,12,10,11,8",R16,GRAND_SLAM,WS,76,Main Draw,SUH Hyo Won (KOR),SUN Beibei (SGP),SUH Hyo Won
+Pro Tour Korea Open Incheon 2011,2011-06-29,FENG Tianwei,HIRANO Sayaka,4,3,"11,11,7,6,13,9,11|8,6,11,11,11,11,6",QF,GRAND_SLAM,WS,76,Main Draw,FENG Tianwei (SGP),HIRANO Sayaka (JPN),FENG Tianwei
+Pro Tour Korea Open Incheon 2011,2011-06-29,WANG Yuegu,ISHIGAKI Yuka,4,0,"11,11,11,11|5,6,8,6",QF,GRAND_SLAM,WS,76,Main Draw,WANG Yuegu (SGP),ISHIGAKI Yuka (JPN),WANG Yuegu
+Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Eunhee,PARK Miyoung,4,2,"19,5,11,12,5,11|17,11,8,10,11,8",QF,GRAND_SLAM,WS,76,Main Draw,LEE Eunhee (KOR),PARK Miyoung (KOR),LEE Eunhee
+Pro Tour Korea Open Incheon 2011,2011-06-29,MOON Hyunjung,SUH Hyo Won,4,0,"11,11,11,11|6,5,5,9",QF,GRAND_SLAM,WS,76,Main Draw,MOON Hyunjung (KOR),SUH Hyo Won (KOR),MOON Hyunjung
+Pro Tour Korea Open Incheon 2011,2011-06-29,FENG Tianwei,WANG Yuegu,4,0,"11,11,11,11|5,4,5,8",SF,GRAND_SLAM,WS,76,Main Draw,FENG Tianwei (SGP),WANG Yuegu (SGP),FENG Tianwei
+Pro Tour Korea Open Incheon 2011,2011-06-29,MOON Hyunjung,LEE Eunhee,4,1,"11,11,4,11,11|7,6,11,4,5",SF,GRAND_SLAM,WS,76,Main Draw,MOON Hyunjung (KOR),LEE Eunhee (KOR),MOON Hyunjung
+Pro Tour Korea Open Incheon 2011,2011-06-29,FENG Tianwei,MOON Hyunjung,4,0,"11,11,11,11|4,3,6,8",F,GRAND_SLAM,WS,76,Main Draw,FENG Tianwei (SGP),MOON Hyunjung (KOR),FENG Tianwei
+Pro Tour Korea Open Incheon 2011,2011-06-29,LIN Chia-Hui,MUANGSUK Anisara,4,0,"11,11,13,12|9,9,11,10",,GRAND_SLAM,WS,76,Qualification,LIN Chia-Hui (TPE),MUANGSUK Anisara (THA),LIN Chia-Hui
+Pro Tour Korea Open Incheon 2011,2011-06-29,ISHIGAKI Yuka,LIN Chia-Hui,4,1,"11,11,11,11,11|13,5,6,5,2",,GRAND_SLAM,WS,76,Qualification,ISHIGAKI Yuka (JPN),LIN Chia-Hui (TPE),ISHIGAKI Yuka
+Pro Tour Korea Open Incheon 2011,2011-06-29,ISHIGAKI Yuka,MUANGSUK Anisara,4,0,"11,11,11,11|7,6,5,3",,GRAND_SLAM,WS,76,Qualification,ISHIGAKI Yuka (JPN),MUANGSUK Anisara (THA),ISHIGAKI Yuka
+Pro Tour Korea Open Incheon 2011,2011-06-29,TASHIRO Saki,JO Yujin,4,1,"11,11,11,7,11|1,9,9,11,3",,GRAND_SLAM,WS,76,Qualification,TASHIRO Saki (JPN),JO Yujin (KOR),TASHIRO Saki
+Pro Tour Korea Open Incheon 2011,2011-06-29,SUN Beibei,TASHIRO Saki,4,1,"11,16,11,3,11|9,14,9,11,4",,GRAND_SLAM,WS,76,Qualification,SUN Beibei (SGP),TASHIRO Saki (JPN),SUN Beibei
+Pro Tour Korea Open Incheon 2011,2011-06-29,SUN Beibei,JO Yujin,4,0,"11,11,11,11|3,2,1,9",,GRAND_SLAM,WS,76,Qualification,SUN Beibei (SGP),JO Yujin (KOR),SUN Beibei
+Pro Tour Korea Open Incheon 2011,2011-06-29,MUHLBACH Kathrin,SO Eka,4,3,"11,9,3,13,11,11,11|9,11,11,15,8,9,5",,GRAND_SLAM,WS,76,Qualification,MUHLBACH Kathrin (GER),SO Eka (JPN),MUHLBACH Kathrin
+Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Eunhee,SO Eka,4,0,"11,11,11,11|9,9,7,8",,GRAND_SLAM,WS,76,Qualification,LEE Eunhee (KOR),SO Eka (JPN),LEE Eunhee
+Pro Tour Korea Open Incheon 2011,2011-06-29,LEE Eunhee,MUHLBACH Kathrin,4,1,"11,11,11,8,11|5,9,5,11,9",,GRAND_SLAM,WS,76,Qualification,LEE Eunhee (KOR),MUHLBACH Kathrin (GER),LEE Eunhee
+Pro Tour Korea Open Incheon 2011,2011-06-29,CHEN Szu-Yu,GUAN Mengyuan,4,0,,,GRAND_SLAM,WS,76,Qualification,CHEN Szu-Yu (TPE),GUAN Mengyuan (HKG),CHEN Szu-Yu
+Pro Tour Korea Open Incheon 2011,2011-06-29,FUJII Hiroko,GUAN Mengyuan,4,0,,,GRAND_SLAM,WS,76,Qualification,FUJII Hiroko (JPN),GUAN Mengyuan (HKG),FUJII Hiroko
+Pro Tour Korea Open Incheon 2011,2011-06-29,FUJII Hiroko,CHEN Szu-Yu,4,2,"11,9,11,9,11,11|8,11,9,11,6,8",,GRAND_SLAM,WS,76,Qualification,FUJII Hiroko (JPN),CHEN Szu-Yu (TPE),FUJII Hiroko
+Pro Tour Korea Open Incheon 2011,2011-06-29,MATSUZAWA Marina,HSIUNG Nai-I,4,2,"12,11,5,10,12,11|10,6,11,12,10,6",,GRAND_SLAM,WS,76,Qualification,MATSUZAWA Marina (JPN),HSIUNG Nai-I (TPE),MATSUZAWA Marina
+Pro Tour Korea Open Incheon 2011,2011-06-29,SUH Hyo Won,HSIUNG Nai-I,4,1,"11,11,11,9,11|9,5,6,11,6",,GRAND_SLAM,WS,76,Qualification,SUH Hyo Won (KOR),HSIUNG Nai-I (TPE),SUH Hyo Won
+Pro Tour Korea Open Incheon 2011,2011-06-29,SUH Hyo Won,MATSUZAWA Marina,4,1,"11,11,10,11,14|8,6,12,5,12",,GRAND_SLAM,WS,76,Qualification,SUH Hyo Won (KOR),MATSUZAWA Marina (JPN),SUH Hyo Won
+Pro Tour Korea Open Incheon 2011,2011-06-29,MAEDA Miyu,LIU Hsing-Yin,4,0,"13,11,11,11|11,7,8,9",,GRAND_SLAM,WS,76,Qualification,MAEDA Miyu (JPN),LIU Hsing-Yin (TPE),MAEDA Miyu
+Pro Tour Korea Open Incheon 2011,2011-06-29,MOON Hyunjung,LIU Hsing-Yin,4,1,"11,11,5,12,11|5,4,11,10,7",,GRAND_SLAM,WS,76,Qualification,MOON Hyunjung (KOR),LIU Hsing-Yin (TPE),MOON Hyunjung
+Pro Tour Korea Open Incheon 2011,2011-06-29,MOON Hyunjung,MAEDA Miyu,4,0,"11,11,13,11|4,2,11,6",,GRAND_SLAM,WS,76,Qualification,MOON Hyunjung (KOR),MAEDA Miyu (JPN),MOON Hyunjung
+Pro Tour Korea Open Incheon 2011,2011-06-29,KOMWONG Nanthana,LEE Dasom,4,2,"11,8,11,6,11,11|9,11,4,11,9,6",,GRAND_SLAM,WS,76,Qualification,KOMWONG Nanthana (THA),LEE Dasom (KOR),KOMWONG Nanthana
+Pro Tour Korea Open Incheon 2011,2011-06-29,WAKAMIYA Misako,LEE Dasom,4,1,"11,9,11,11,11|8,11,4,8,1",,GRAND_SLAM,WS,76,Qualification,WAKAMIYA Misako (JPN),LEE Dasom (KOR),WAKAMIYA Misako
+Pro Tour Korea Open Incheon 2011,2011-06-29,WAKAMIYA Misako,KOMWONG Nanthana,4,0,"11,11,11,11|4,9,5,2",,GRAND_SLAM,WS,76,Qualification,WAKAMIYA Misako (JPN),KOMWONG Nanthana (THA),WAKAMIYA Misako
+Pro Tour Korea Open Incheon 2011,2011-06-29,LEE I-Chen,TSUCHIDA Miki,4,3,"10,7,11,4,12,12,11|12,11,2,11,10,10,9",,GRAND_SLAM,WS,76,Qualification,LEE I-Chen (TPE),TSUCHIDA Miki (JPN),LEE I-Chen
+Pro Tour Korea Open Incheon 2011,2011-06-29,TSUCHIDA Miki,LEE Ho Ching,4,1,"11,11,11,7,11|8,9,8,11,7",,GRAND_SLAM,WS,76,Qualification,TSUCHIDA Miki (JPN),LEE Ho Ching (HKG),TSUCHIDA Miki
+Pro Tour Korea Open Incheon 2011,2011-06-29,LEE I-Chen,LEE Ho Ching,4,1,"11,7,11,11,11|5,11,8,5,5",,GRAND_SLAM,WS,76,Qualification,LEE I-Chen (TPE),LEE Ho Ching (HKG),LEE I-Chen
+Pro Tour Korea Open Incheon 2011,2011-06-29,CHOI Moonyoung,MIYAKE Natsumi,4,2,"10,11,11,14,11,11|12,6,7,16,8,4",,GRAND_SLAM,WS,76,Qualification,CHOI Moonyoung (KOR),MIYAKE Natsumi (JPN),CHOI Moonyoung
+Pro Tour Korea Open Incheon 2011,2011-06-29,CHENG I-Ching,MIYAKE Natsumi,4,2,"13,8,4,11,11,11|11,11,11,7,7,9",,GRAND_SLAM,WS,76,Qualification,CHENG I-Ching (TPE),MIYAKE Natsumi (JPN),CHENG I-Ching
+Pro Tour Korea Open Incheon 2011,2011-06-29,CHOI Moonyoung,CHENG I-Ching,4,0,"11,11,11,11|2,5,6,3",,GRAND_SLAM,WS,76,Qualification,CHOI Moonyoung (KOR),CHENG I-Ching (TPE),CHOI Moonyoung
+Pro Tour Korea Open Incheon 2011,2011-06-29,YAMANASHI Yuri,KIM Seoyeon,4,0,"11,11,11,11|4,8,6,8",,GRAND_SLAM,WS,76,Qualification,YAMANASHI Yuri (JPN),KIM Seoyeon (KOR),YAMANASHI Yuri
+Pro Tour Korea Open Incheon 2011,2011-06-29,KIM Seoyeon,ZHU Fang,4,2,"11,11,11,11,11,11|13,7,8,2,13,5",,GRAND_SLAM,WS,76,Qualification,KIM Seoyeon (KOR),ZHU Fang (ESP),KIM Seoyeon
+Pro Tour Korea Open Incheon 2011,2011-06-29,YAMANASHI Yuri,ZHU Fang,4,1,"11,7,11,11,11|4,11,9,1,7",,GRAND_SLAM,WS,76,Qualification,YAMANASHI Yuri (JPN),ZHU Fang (ESP),YAMANASHI Yuri
+Pro Tour Korea Open Incheon 2011,2011-06-29,PARK Youngsook,HOU Yu-Ling,4,0,"11,11,11,11|6,8,8,6",,GRAND_SLAM,WS,76,Qualification,PARK Youngsook (KOR),HOU Yu-Ling (TPE),PARK Youngsook
+Pro Tour Korea Open Incheon 2011,2011-06-29,MORIZONO Misaki,HOU Yu-Ling,4,1,"11,11,9,11,11|3,9,11,6,7",,GRAND_SLAM,WS,76,Qualification,MORIZONO Misaki (JPN),HOU Yu-Ling (TPE),MORIZONO Misaki
+Pro Tour Korea Open Incheon 2011,2011-06-29,MORIZONO Misaki,PARK Youngsook,4,2,"6,11,11,7,11,11|11,7,9,11,8,7",,GRAND_SLAM,WS,76,Qualification,MORIZONO Misaki (JPN),PARK Youngsook (KOR),MORIZONO Misaki
+Pro Tour Korea Open Incheon 2011,2011-06-29,YOO Eunchong,NG Wing Nam,4,1,"11,11,10,14,11|8,9,12,12,4",,GRAND_SLAM,WS,76,Qualification,YOO Eunchong (KOR),NG Wing Nam (HKG),YOO Eunchong
+Pro Tour Korea Open Incheon 2011,2011-06-29,YOO Eunchong,FUKUOKA Haruna,4,3,"7,7,11,11,3,11,12|11,11,9,8,11,8,10",,GRAND_SLAM,WS,76,Qualification,YOO Eunchong (KOR),FUKUOKA Haruna (JPN),YOO Eunchong
+Pro Tour Korea Open Incheon 2011,2011-06-29,FUKUOKA Haruna,NG Wing Nam,4,0,"11,11,11,11|8,5,9,4",,GRAND_SLAM,WS,76,Qualification,FUKUOKA Haruna (JPN),NG Wing Nam (HKG),FUKUOKA Haruna
+Pro Tour Korea Open Incheon 2011,2011-06-29,YOON Sunae,CHANG Ya-Chuan,4,0,"11,11,11,11|5,7,3,6",,GRAND_SLAM,WS,76,Qualification,YOON Sunae (KOR),CHANG Ya-Chuan (TPE),YOON Sunae
+Pro Tour Korea Open Incheon 2011,2011-06-29,SIM Kai Xin Zena,TANIOKA Ayuka,4,1,"5,11,12,11,11|11,4,10,2,5",,GRAND_SLAM,WS,76,Qualification,SIM Kai Xin Zena (SGP),TANIOKA Ayuka (JPN),SIM Kai Xin Zena
+Pro Tour Korea Open Incheon 2011,2011-06-29,YOON Sunae,SIM Kai Xin Zena,4,0,"11,11,11,13|3,8,4,11",,GRAND_SLAM,WS,76,Qualification,YOON Sunae (KOR),SIM Kai Xin Zena (SGP),YOON Sunae
+Pro Tour Korea Open Incheon 2011,2011-06-29,TANIOKA Ayuka,CHANG Ya-Chuan,4,0,"11,11,11,11|5,4,6,5",,GRAND_SLAM,WS,76,Qualification,TANIOKA Ayuka (JPN),CHANG Ya-Chuan (TPE),TANIOKA Ayuka
+Pro Tour Korea Open Incheon 2011,2011-06-29,YOON Sunae,TANIOKA Ayuka,4,3,"11,9,9,5,11,11,11|4,11,11,11,9,9,5",,GRAND_SLAM,WS,76,Qualification,YOON Sunae (KOR),TANIOKA Ayuka (JPN),YOON Sunae
+Pro Tour Korea Open Incheon 2011,2011-06-29,CHANG Ya-Chuan,SIM Kai Xin Zena,4,1,"11,12,11,10,11|8,10,6,12,8",,GRAND_SLAM,WS,76,Qualification,CHANG Ya-Chuan (TPE),SIM Kai Xin Zena (SGP),CHANG Ya-Chuan
+Pro Tour Korea Open Incheon 2011,2011-06-29,FUJII Yuko,SONG Maeum,4,1,"5,11,11,11,12|11,7,5,6,10",,GRAND_SLAM,WS,76,Qualification,FUJII Yuko (JPN),SONG Maeum (KOR),FUJII Yuko
+Pro Tour Korea Open Incheon 2011,2011-06-29,BARTHEL Zhenqi,TSUI Pao-Wen,4,2,"8,11,11,6,13,15|11,2,7,11,11,13",,GRAND_SLAM,WS,76,Qualification,BARTHEL Zhenqi (GER),TSUI Pao-Wen (TPE),BARTHEL Zhenqi
+Pro Tour Korea Open Incheon 2011,2011-06-29,SONG Maeum,TSUI Pao-Wen,4,0,"11,11,11,11|5,1,6,8",,GRAND_SLAM,WS,76,Qualification,SONG Maeum (KOR),TSUI Pao-Wen (TPE),SONG Maeum
+Pro Tour Korea Open Incheon 2011,2011-06-29,BARTHEL Zhenqi,FUJII Yuko,4,0,"11,11,11,11|7,2,6,7",,GRAND_SLAM,WS,76,Qualification,BARTHEL Zhenqi (GER),FUJII Yuko (JPN),BARTHEL Zhenqi
+Pro Tour Korea Open Incheon 2011,2011-06-29,BARTHEL Zhenqi,SONG Maeum,4,3,"10,9,11,14,8,11,12|12,11,6,12,11,6,10",,GRAND_SLAM,WS,76,Qualification,BARTHEL Zhenqi (GER),SONG Maeum (KOR),BARTHEL Zhenqi
+Pro Tour Korea Open Incheon 2011,2011-06-29,FUJII Yuko,TSUI Pao-Wen,4,0,"11,11,11,11|1,5,6,5",,GRAND_SLAM,WS,76,Qualification,FUJII Yuko (JPN),TSUI Pao-Wen (TPE),FUJII Yuko

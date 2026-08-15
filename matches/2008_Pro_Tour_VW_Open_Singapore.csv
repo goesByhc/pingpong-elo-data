@@ -1,457 +1,457 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Pro Tour VW Open Singapore 2008,2008-06-04,RUBTSOV Igor,JIANG Pengfei,4,2,"6,9,13,11,11,12|11,11,11,7,7,10",,GRAND_SLAM,MS,799,Qualification,RUBTSOV Igor (RUS),JIANG Pengfei (TUR)
-Pro Tour VW Open Singapore 2008,2008-06-04,RUBTSOV Igor,HAO Anlin,4,0,"11,11,11,11|6,5,4,5",,GRAND_SLAM,MS,799,Qualification,RUBTSOV Igor (RUS),HAO Anlin (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,JIANG Pengfei,HAO Anlin,4,2,"11,11,13,11,11,11|5,13,11,13,8,6",,GRAND_SLAM,MS,799,Qualification,JIANG Pengfei (TUR),HAO Anlin (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,FEGERL Stefan,FEJER-KONNERTH Zoltan,4,3,"7,11,11,4,11,4,12|11,8,6,11,5,11,10",,GRAND_SLAM,MS,799,Qualification,FEGERL Stefan (AUT),FEJER-KONNERTH Zoltan (GER)
-Pro Tour VW Open Singapore 2008,2008-06-04,KANG Donghoon,HO Jason,4,1,"11,9,11,11,11|9,11,1,6,9",,GRAND_SLAM,MS,799,Qualification,KANG Donghoon (KOR),HO Jason (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,FEJER-KONNERTH Zoltan,KANG Donghoon,4,1,"11,11,11,7,14|6,8,5,11,12",,GRAND_SLAM,MS,799,Qualification,FEJER-KONNERTH Zoltan (GER),KANG Donghoon (KOR)
-Pro Tour VW Open Singapore 2008,2008-06-04,FEGERL Stefan,HO Jason,4,0,"11,11,11,11|8,8,5,6",,GRAND_SLAM,MS,799,Qualification,FEGERL Stefan (AUT),HO Jason (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,FEJER-KONNERTH Zoltan,HO Jason,4,1,"11,11,11,5,11|9,5,5,11,5",,GRAND_SLAM,MS,799,Qualification,FEJER-KONNERTH Zoltan (GER),HO Jason (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,KANG Donghoon,FEGERL Stefan,4,2,"12,11,11,9,11,11|14,5,3,11,8,3",,GRAND_SLAM,MS,799,Qualification,KANG Donghoon (KOR),FEGERL Stefan (AUT)
-Pro Tour VW Open Singapore 2008,2008-06-04,HIELSCHER Lars,GOLOVANOV Stanislav,4,2,"10,11,11,11,11,11|12,9,9,13,4,2",,GRAND_SLAM,MS,799,Qualification,HIELSCHER Lars (GER),GOLOVANOV Stanislav (BUL)
-Pro Tour VW Open Singapore 2008,2008-06-04,GUO Yi Teng,ORTALLA Henberd,4,2,"13,6,11,11,11,11|11,11,8,8,13,3",,GRAND_SLAM,MS,799,Qualification,GUO Yi Teng (SGP),ORTALLA Henberd (PHI)
-Pro Tour VW Open Singapore 2008,2008-06-04,HIELSCHER Lars,GUO Yi Teng,4,2,"11,10,7,11,11,11|8,12,11,6,1,8",,GRAND_SLAM,MS,799,Qualification,HIELSCHER Lars (GER),GUO Yi Teng (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,GOLOVANOV Stanislav,ORTALLA Henberd,4,0,"11,11,11,11|6,8,4,7",,GRAND_SLAM,MS,799,Qualification,GOLOVANOV Stanislav (BUL),ORTALLA Henberd (PHI)
-Pro Tour VW Open Singapore 2008,2008-06-04,HIELSCHER Lars,ORTALLA Henberd,4,0,"11,11,11,11|7,6,7,5",,GRAND_SLAM,MS,799,Qualification,HIELSCHER Lars (GER),ORTALLA Henberd (PHI)
-Pro Tour VW Open Singapore 2008,2008-06-04,GOLOVANOV Stanislav,GUO Yi Teng,4,2,"11,11,11,11,6,11|5,7,5,13,11,9",,GRAND_SLAM,MS,799,Qualification,GOLOVANOV Stanislav (BUL),GUO Yi Teng (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHOI Hyunjin,STERNBERG Kasper,4,3,"8,12,14,6,11,11,13|11,10,16,11,7,6,11",,GRAND_SLAM,MS,799,Qualification,CHOI Hyunjin (KOR),STERNBERG Kasper (DEN)
-Pro Tour VW Open Singapore 2008,2008-06-04,AL-HASAN Ibrahem,METRAN Louie,4,0,"11,11,11,11|6,1,3,4",,GRAND_SLAM,MS,799,Qualification,AL-HASAN Ibrahem (KUW),METRAN Louie (PHI)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHOI Hyunjin,AL-HASAN Ibrahem,4,2,"11,15,8,11,11,11|9,13,11,6,13,8",,GRAND_SLAM,MS,799,Qualification,CHOI Hyunjin (KOR),AL-HASAN Ibrahem (KUW)
-Pro Tour VW Open Singapore 2008,2008-06-04,STERNBERG Kasper,METRAN Louie,4,0,"11,11,11,11|1,1,5,3",,GRAND_SLAM,MS,799,Qualification,STERNBERG Kasper (DEN),METRAN Louie (PHI)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHOI Hyunjin,METRAN Louie,4,0,"11,11,11,11|5,2,3,6",,GRAND_SLAM,MS,799,Qualification,CHOI Hyunjin (KOR),METRAN Louie (PHI)
-Pro Tour VW Open Singapore 2008,2008-06-04,AL-HASAN Ibrahem,STERNBERG Kasper,4,2,"11,11,7,6,12,11|6,8,11,11,10,5",,GRAND_SLAM,MS,799,Qualification,AL-HASAN Ibrahem (KUW),STERNBERG Kasper (DEN)
-Pro Tour VW Open Singapore 2008,2008-06-04,APOLONIA Tiago,ASMUSSEN Jakob,4,0,"11,20,11,11|6,18,7,9",,GRAND_SLAM,MS,799,Qualification,APOLONIA Tiago (POR),ASMUSSEN Jakob (DEN)
-Pro Tour VW Open Singapore 2008,2008-06-04,RUMGAY Gavin,GONZALES Richard,4,1,"10,11,11,11,13|12,6,7,5,11",,GRAND_SLAM,MS,799,Qualification,RUMGAY Gavin (SCO),GONZALES Richard (PHI)
-Pro Tour VW Open Singapore 2008,2008-06-04,APOLONIA Tiago,RUMGAY Gavin,4,1,"12,9,11,11,11|10,11,6,6,8",,GRAND_SLAM,MS,799,Qualification,APOLONIA Tiago (POR),RUMGAY Gavin (SCO)
-Pro Tour VW Open Singapore 2008,2008-06-04,ASMUSSEN Jakob,GONZALES Richard,4,3,"13,11,1,11,4,4,12|11,9,11,8,11,11,10",,GRAND_SLAM,MS,799,Qualification,ASMUSSEN Jakob (DEN),GONZALES Richard (PHI)
-Pro Tour VW Open Singapore 2008,2008-06-04,APOLONIA Tiago,GONZALES Richard,4,1,"11,12,11,10,11|7,10,5,12,7",,GRAND_SLAM,MS,799,Qualification,APOLONIA Tiago (POR),GONZALES Richard (PHI)
-Pro Tour VW Open Singapore 2008,2008-06-04,ASMUSSEN Jakob,RUMGAY Gavin,4,1,"11,11,17,15,12|9,8,15,17,10",,GRAND_SLAM,MS,799,Qualification,ASMUSSEN Jakob (DEN),RUMGAY Gavin (SCO)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHIANG Hung-Chieh,TSE Ka Chun,4,1,"11,12,12,5,11|6,10,10,11,4",,GRAND_SLAM,MS,799,Qualification,CHIANG Hung-Chieh (TPE),TSE Ka Chun (HKG)
-Pro Tour VW Open Singapore 2008,2008-06-04,LEE Sang Su,ZHANG Lu,4,2,"11,7,11,11,11,11|8,11,6,13,5,5",,GRAND_SLAM,MS,799,Qualification,LEE Sang Su (KOR),ZHANG Lu (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHIANG Hung-Chieh,LEE Sang Su,4,2,"11,11,7,11,4,11|0,9,11,8,11,2",,GRAND_SLAM,MS,799,Qualification,CHIANG Hung-Chieh (TPE),LEE Sang Su (KOR)
-Pro Tour VW Open Singapore 2008,2008-06-04,ZHANG Lu,TSE Ka Chun,4,1,"11,8,11,11,11|3,11,7,6,6",,GRAND_SLAM,MS,799,Qualification,ZHANG Lu (SGP),TSE Ka Chun (HKG)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHIANG Hung-Chieh,ZHANG Lu,4,1,"11,9,11,11,11|8,11,6,6,3",,GRAND_SLAM,MS,799,Qualification,CHIANG Hung-Chieh (TPE),ZHANG Lu (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,LEE Sang Su,TSE Ka Chun,4,3,"11,11,5,8,11,11,12|13,5,11,11,5,7,10",,GRAND_SLAM,MS,799,Qualification,LEE Sang Su (KOR),TSE Ka Chun (HKG)
-Pro Tour VW Open Singapore 2008,2008-06-04,LEE Jinkwon,UEDA Jin,4,3,"8,11,11,16,7,11,11|11,3,6,18,11,5,6",,GRAND_SLAM,MS,799,Qualification,LEE Jinkwon (KOR),UEDA Jin (JPN)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHEN Chien-An,WANG Siliang Steven,4,0,,,GRAND_SLAM,MS,799,Qualification,CHEN Chien-An (TPE),WANG Siliang Steven (USA)
-Pro Tour VW Open Singapore 2008,2008-06-04,LEE Jinkwon,CHEN Chien-An,4,1,"11,11,11,7,11|5,5,9,11,4",,GRAND_SLAM,MS,799,Qualification,LEE Jinkwon (KOR),CHEN Chien-An (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,UEDA Jin,WANG Siliang Steven,4,0,,,GRAND_SLAM,MS,799,Qualification,UEDA Jin (JPN),WANG Siliang Steven (USA)
-Pro Tour VW Open Singapore 2008,2008-06-04,LEE Jinkwon,WANG Siliang Steven,4,0,,,GRAND_SLAM,MS,799,Qualification,LEE Jinkwon (KOR),WANG Siliang Steven (USA)
-Pro Tour VW Open Singapore 2008,2008-06-04,UEDA Jin,CHEN Chien-An,4,1,"11,5,11,11,11|1,11,3,6,6",,GRAND_SLAM,MS,799,Qualification,UEDA Jin (JPN),CHEN Chien-An (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,FREITAS Marcos,DAVIS Kyle,4,0,,,GRAND_SLAM,MS,799,Qualification,FREITAS Marcos (POR),DAVIS Kyle (AUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,TANG Hua,WANG YANG Martin,4,0,"11,11,11,11|2,3,2,7",,GRAND_SLAM,MS,799,Qualification,TANG Hua (SGP),WANG YANG Martin (PAR)
-Pro Tour VW Open Singapore 2008,2008-06-04,FREITAS Marcos,TANG Hua,4,1,"4,11,11,11,11|11,8,9,9,7",,GRAND_SLAM,MS,799,Qualification,FREITAS Marcos (POR),TANG Hua (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,WANG YANG Martin,DAVIS Kyle,4,0,,,GRAND_SLAM,MS,799,Qualification,WANG YANG Martin (PAR),DAVIS Kyle (AUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,FREITAS Marcos,WANG YANG Martin,4,0,"11,11,11,11|2,3,1,2",,GRAND_SLAM,MS,799,Qualification,FREITAS Marcos (POR),WANG YANG Martin (PAR)
-Pro Tour VW Open Singapore 2008,2008-06-04,TANG Hua,DAVIS Kyle,4,0,,,GRAND_SLAM,MS,799,Qualification,TANG Hua (SGP),DAVIS Kyle (AUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,TSIOKAS Ntaniel,IBRAHIM Muhd Shakirin,4,0,"11,11,11,15|6,7,6,13",,GRAND_SLAM,MS,799,Qualification,TSIOKAS Ntaniel (GRE),IBRAHIM Muhd Shakirin (MAS)
-Pro Tour VW Open Singapore 2008,2008-06-04,KONGSGAARD Christian,PUENTESPINA Paul,4,0,"11,11,11,11|5,7,8,3",,GRAND_SLAM,MS,799,Qualification,KONGSGAARD Christian (DEN),PUENTESPINA Paul (PHI)
-Pro Tour VW Open Singapore 2008,2008-06-04,TSIOKAS Ntaniel,KONGSGAARD Christian,4,3,"11,8,11,11,8,8,11|6,11,8,8,11,11,5",,GRAND_SLAM,MS,799,Qualification,TSIOKAS Ntaniel (GRE),KONGSGAARD Christian (DEN)
-Pro Tour VW Open Singapore 2008,2008-06-04,IBRAHIM Muhd Shakirin,PUENTESPINA Paul,4,0,"11,11,11,11|6,2,4,8",,GRAND_SLAM,MS,799,Qualification,IBRAHIM Muhd Shakirin (MAS),PUENTESPINA Paul (PHI)
-Pro Tour VW Open Singapore 2008,2008-06-04,TSIOKAS Ntaniel,PUENTESPINA Paul,4,0,"11,11,11,11|5,2,2,5",,GRAND_SLAM,MS,799,Qualification,TSIOKAS Ntaniel (GRE),PUENTESPINA Paul (PHI)
-Pro Tour VW Open Singapore 2008,2008-06-04,KONGSGAARD Christian,IBRAHIM Muhd Shakirin,4,1,"13,11,15,11,11|15,6,13,6,5",,GRAND_SLAM,MS,799,Qualification,KONGSGAARD Christian (DEN),IBRAHIM Muhd Shakirin (MAS)
-Pro Tour VW Open Singapore 2008,2008-06-04,LIVENTSOV Alexey,MENGE Gencay,4,0,"11,11,11,11|7,5,7,7",,GRAND_SLAM,MS,799,Qualification,LIVENTSOV Alexey (RUS),MENGE Gencay (TUR)
-Pro Tour VW Open Singapore 2008,2008-06-04,HAN Jimin,ALAWLAQI Ahmed,4,0,"11,11,11,11|4,4,7,6",,GRAND_SLAM,MS,799,Qualification,HAN Jimin (KOR),ALAWLAQI Ahmed (QAT)
-Pro Tour VW Open Singapore 2008,2008-06-04,LIVENTSOV Alexey,HAN Jimin,4,2,"3,9,11,11,11,11|11,11,4,4,5,9",,GRAND_SLAM,MS,799,Qualification,LIVENTSOV Alexey (RUS),HAN Jimin (KOR)
-Pro Tour VW Open Singapore 2008,2008-06-04,MENGE Gencay,ALAWLAQI Ahmed,4,1,"11,11,14,9,11|6,7,12,11,6",,GRAND_SLAM,MS,799,Qualification,MENGE Gencay (TUR),ALAWLAQI Ahmed (QAT)
-Pro Tour VW Open Singapore 2008,2008-06-04,LIVENTSOV Alexey,ALAWLAQI Ahmed,4,0,"11,11,11,11|4,7,1,4",,GRAND_SLAM,MS,799,Qualification,LIVENTSOV Alexey (RUS),ALAWLAQI Ahmed (QAT)
-Pro Tour VW Open Singapore 2008,2008-06-04,HAN Jimin,MENGE Gencay,4,1,"9,12,11,11,11|11,10,4,7,6",,GRAND_SLAM,MS,799,Qualification,HAN Jimin (KOR),MENGE Gencay (TUR)
-Pro Tour VW Open Singapore 2008,2008-06-04,LI Kwun Ngai,HABESOHN Daniel,4,3,"11,11,10,11,6,9,11|5,9,12,8,11,11,5",,GRAND_SLAM,MS,799,Qualification,LI Kwun Ngai (HKG),HABESOHN Daniel (AUT)
-Pro Tour VW Open Singapore 2008,2008-06-04,PERSSON Jon,PANG Xue Jie,4,0,"11,11,11,11|5,6,8,6",,GRAND_SLAM,MS,799,Qualification,PERSSON Jon (SWE),PANG Xue Jie (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,PERSSON Jon,HABESOHN Daniel,4,0,"11,11,11,12|7,6,7,10",,GRAND_SLAM,MS,799,Qualification,PERSSON Jon (SWE),HABESOHN Daniel (AUT)
-Pro Tour VW Open Singapore 2008,2008-06-04,PANG Xue Jie,LI Kwun Ngai,4,3,"11,8,12,12,5,3,11|9,11,10,10,11,11,8",,GRAND_SLAM,MS,799,Qualification,PANG Xue Jie (SGP),LI Kwun Ngai (HKG)
-Pro Tour VW Open Singapore 2008,2008-06-04,HABESOHN Daniel,PANG Xue Jie,4,0,"11,11,11,11|8,8,6,9",,GRAND_SLAM,MS,799,Qualification,HABESOHN Daniel (AUT),PANG Xue Jie (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,PERSSON Jon,LI Kwun Ngai,4,1,"12,11,11,15,11|10,9,9,17,8",,GRAND_SLAM,MS,799,Qualification,PERSSON Jon (SWE),LI Kwun Ngai (HKG)
-Pro Tour VW Open Singapore 2008,2008-06-04,TSUBOI Gustavo,CARTER Trent,4,0,,,GRAND_SLAM,MS,799,Qualification,TSUBOI Gustavo (BRA),CARTER Trent (AUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,PAPAGEORGIOU Konstantinos,ALYAFEI Mohammed,4,0,"11,14,11,11|5,12,5,5",,GRAND_SLAM,MS,799,Qualification,PAPAGEORGIOU Konstantinos (GRE),ALYAFEI Mohammed (QAT)
-Pro Tour VW Open Singapore 2008,2008-06-04,PAPAGEORGIOU Konstantinos,TSUBOI Gustavo,4,3,"11,8,10,7,11,11,11|3,11,12,11,5,2,4",,GRAND_SLAM,MS,799,Qualification,PAPAGEORGIOU Konstantinos (GRE),TSUBOI Gustavo (BRA)
-Pro Tour VW Open Singapore 2008,2008-06-04,ALYAFEI Mohammed,CARTER Trent,4,0,,,GRAND_SLAM,MS,799,Qualification,ALYAFEI Mohammed (QAT),CARTER Trent (AUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,TSUBOI Gustavo,ALYAFEI Mohammed,4,1,"11,11,12,11,11|13,5,10,6,7",,GRAND_SLAM,MS,799,Qualification,TSUBOI Gustavo (BRA),ALYAFEI Mohammed (QAT)
-Pro Tour VW Open Singapore 2008,2008-06-04,PAPAGEORGIOU Konstantinos,CARTER Trent,4,0,,,GRAND_SLAM,MS,799,Qualification,PAPAGEORGIOU Konstantinos (GRE),CARTER Trent (AUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,ZENG Cem,EVANS Gavin,4,0,"11,11,11,11|5,3,7,9",,GRAND_SLAM,MS,799,Qualification,ZENG Cem (TUR),EVANS Gavin (ENG)
-Pro Tour VW Open Singapore 2008,2008-06-04,HUANG Sheng-Sheng,CORDUE John,4,0,"11,11,11,11|1,5,7,6",,GRAND_SLAM,MS,799,Qualification,HUANG Sheng-Sheng (TPE),CORDUE John (NZL)
-Pro Tour VW Open Singapore 2008,2008-06-04,HUANG Sheng-Sheng,ZENG Cem,4,1,"11,15,7,11,11|8,13,11,1,5",,GRAND_SLAM,MS,799,Qualification,HUANG Sheng-Sheng (TPE),ZENG Cem (TUR)
-Pro Tour VW Open Singapore 2008,2008-06-04,EVANS Gavin,CORDUE John,4,0,"11,11,11,11|8,8,7,6",,GRAND_SLAM,MS,799,Qualification,EVANS Gavin (ENG),CORDUE John (NZL)
-Pro Tour VW Open Singapore 2008,2008-06-04,ZENG Cem,CORDUE John,4,0,"11,11,11,11|4,1,6,8",,GRAND_SLAM,MS,799,Qualification,ZENG Cem (TUR),CORDUE John (NZL)
-Pro Tour VW Open Singapore 2008,2008-06-04,HUANG Sheng-Sheng,EVANS Gavin,4,0,"11,11,11,11|6,5,4,7",,GRAND_SLAM,MS,799,Qualification,HUANG Sheng-Sheng (TPE),EVANS Gavin (ENG)
-Pro Tour VW Open Singapore 2008,2008-06-04,LIU Zhongze,FRANK Robert,4,0,,,GRAND_SLAM,MS,799,Qualification,LIU Zhongze (SGP),FRANK Robert (AUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,TSUBOGUCHI Michikazu,LAM Tong Hou,4,0,"11,11,11,11|4,3,6,6",,GRAND_SLAM,MS,799,Qualification,TSUBOGUCHI Michikazu (JPN),LAM Tong Hou (MAC)
-Pro Tour VW Open Singapore 2008,2008-06-04,TSUBOGUCHI Michikazu,LIU Zhongze,4,1,"11,11,11,6,15|3,9,8,11,13",,GRAND_SLAM,MS,799,Qualification,TSUBOGUCHI Michikazu (JPN),LIU Zhongze (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,LAM Tong Hou,FRANK Robert,4,0,,,GRAND_SLAM,MS,799,Qualification,LAM Tong Hou (MAC),FRANK Robert (AUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,LIU Zhongze,LAM Tong Hou,4,0,"11,11,11,13|4,6,7,11",,GRAND_SLAM,MS,799,Qualification,LIU Zhongze (SGP),LAM Tong Hou (MAC)
-Pro Tour VW Open Singapore 2008,2008-06-04,TSUBOGUCHI Michikazu,FRANK Robert,4,0,,,GRAND_SLAM,MS,799,Qualification,TSUBOGUCHI Michikazu (JPN),FRANK Robert (AUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,MA Liang,AL-MOHANNADI Ahmad Khalil,4,1,"9,11,11,11,11|11,4,5,5,7",,GRAND_SLAM,MS,799,Qualification,MA Liang (SGP),AL-MOHANNADI Ahmad Khalil (QAT)
-Pro Tour VW Open Singapore 2008,2008-06-04,MATSUDAIRA Kenji,PITCHFORD Liam,4,0,"11,11,11,12|5,5,1,10",,GRAND_SLAM,MS,799,Qualification,MATSUDAIRA Kenji (JPN),PITCHFORD Liam (ENG)
-Pro Tour VW Open Singapore 2008,2008-06-04,MA Liang,MATSUDAIRA Kenji,4,2,"11,11,11,7,6,12|9,7,6,11,11,10",,GRAND_SLAM,MS,799,Qualification,MA Liang (SGP),MATSUDAIRA Kenji (JPN)
-Pro Tour VW Open Singapore 2008,2008-06-04,AL-MOHANNADI Ahmad Khalil,PITCHFORD Liam,4,3,"11,9,9,11,11,7,11|9,11,11,9,8,11,7",,GRAND_SLAM,MS,799,Qualification,AL-MOHANNADI Ahmad Khalil (QAT),PITCHFORD Liam (ENG)
-Pro Tour VW Open Singapore 2008,2008-06-04,MA Liang,PITCHFORD Liam,4,0,"11,11,11,11|4,7,9,2",,GRAND_SLAM,MS,799,Qualification,MA Liang (SGP),PITCHFORD Liam (ENG)
-Pro Tour VW Open Singapore 2008,2008-06-04,MATSUDAIRA Kenji,AL-MOHANNADI Ahmad Khalil,4,0,"11,12,11,11|8,10,6,4",,GRAND_SLAM,MS,799,Qualification,MATSUDAIRA Kenji (JPN),AL-MOHANNADI Ahmad Khalil (QAT)
-Pro Tour VW Open Singapore 2008,2008-06-04,DRINKHALL Paul,ALHAJJAI Waled Nasser,4,1,"12,11,8,11,11|10,5,11,7,9",,GRAND_SLAM,MS,799,Qualification,DRINKHALL Paul (ENG),ALHAJJAI Waled Nasser (QAT)
-Pro Tour VW Open Singapore 2008,2008-06-04,CAI Xiaoli,WALLACE Simon,4,0,"11,11,11,11|6,3,5,5",,GRAND_SLAM,MS,799,Qualification,CAI Xiaoli (SGP),WALLACE Simon (NZL)
-Pro Tour VW Open Singapore 2008,2008-06-04,CAI Xiaoli,DRINKHALL Paul,4,3,"11,7,11,11,8,8,11|9,11,6,9,11,11,6",,GRAND_SLAM,MS,799,Qualification,CAI Xiaoli (SGP),DRINKHALL Paul (ENG)
-Pro Tour VW Open Singapore 2008,2008-06-04,ALHAJJAI Waled Nasser,WALLACE Simon,4,0,"11,11,11,11|9,7,7,6",,GRAND_SLAM,MS,799,Qualification,ALHAJJAI Waled Nasser (QAT),WALLACE Simon (NZL)
-Pro Tour VW Open Singapore 2008,2008-06-04,DRINKHALL Paul,WALLACE Simon,4,0,"11,11,11,11|9,7,7,4",,GRAND_SLAM,MS,799,Qualification,DRINKHALL Paul (ENG),WALLACE Simon (NZL)
-Pro Tour VW Open Singapore 2008,2008-06-04,CAI Xiaoli,ALHAJJAI Waled Nasser,4,1,"10,11,11,11,11|12,7,4,1,7",,GRAND_SLAM,MS,799,Qualification,CAI Xiaoli (SGP),ALHAJJAI Waled Nasser (QAT)
-Pro Tour VW Open Singapore 2008,2008-06-04,AL-MOHANNADI Ahmad Khalil,FRANK Robert,4,0,,,GRAND_SLAM,U21MS,799,Qualification,AL-MOHANNADI Ahmad Khalil (QAT),FRANK Robert (AUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,HAN Jimin,AL-MOHANNADI Ahmad Khalil,3,0,"11,11,11|4,4,3",,GRAND_SLAM,U21MS,799,Qualification,HAN Jimin (KOR),AL-MOHANNADI Ahmad Khalil (QAT)
-Pro Tour VW Open Singapore 2008,2008-06-04,HAN Jimin,FRANK Robert,4,0,,,GRAND_SLAM,U21MS,799,Qualification,HAN Jimin (KOR),FRANK Robert (AUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHEN Chien-An,TEO Yiquan Bob,3,0,"11,11,11|6,4,3",,GRAND_SLAM,U21MS,799,Qualification,CHEN Chien-An (TPE),TEO Yiquan Bob (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,EVANS Gavin,ALHAJJAI Waled Nasser,3,2,"11,7,12,9,11|9,11,10,11,9",,GRAND_SLAM,U21MS,799,Qualification,EVANS Gavin (ENG),ALHAJJAI Waled Nasser (QAT)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHEN Chien-An,ALHAJJAI Waled Nasser,3,0,"11,11,11|6,4,9",,GRAND_SLAM,U21MS,799,Qualification,CHEN Chien-An (TPE),ALHAJJAI Waled Nasser (QAT)
-Pro Tour VW Open Singapore 2008,2008-06-04,EVANS Gavin,TEO Yiquan Bob,3,1,"11,10,11,11|4,12,8,6",,GRAND_SLAM,U21MS,799,Qualification,EVANS Gavin (ENG),TEO Yiquan Bob (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHEN Chien-An,EVANS Gavin,3,0,"11,12,11|3,10,8",,GRAND_SLAM,U21MS,799,Qualification,CHEN Chien-An (TPE),EVANS Gavin (ENG)
-Pro Tour VW Open Singapore 2008,2008-06-04,TEO Yiquan Bob,ALHAJJAI Waled Nasser,3,1,"7,13,13,11|11,11,11,8",,GRAND_SLAM,U21MS,799,Qualification,TEO Yiquan Bob (SGP),ALHAJJAI Waled Nasser (QAT)
-Pro Tour VW Open Singapore 2008,2008-06-04,GUO Yi Teng,WANG YANG Martin,3,0,"11,11,11|6,6,7",,GRAND_SLAM,U21MS,799,Qualification,GUO Yi Teng (SGP),WANG YANG Martin (PAR)
-Pro Tour VW Open Singapore 2008,2008-06-04,PITCHFORD Liam,CARTER Trent,4,0,,,GRAND_SLAM,U21MS,799,Qualification,PITCHFORD Liam (ENG),CARTER Trent (AUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,GUO Yi Teng,PITCHFORD Liam,3,1,"6,16,11,11|11,14,7,9",,GRAND_SLAM,U21MS,799,Qualification,GUO Yi Teng (SGP),PITCHFORD Liam (ENG)
-Pro Tour VW Open Singapore 2008,2008-06-04,WANG YANG Martin,CARTER Trent,4,0,,,GRAND_SLAM,U21MS,799,Qualification,WANG YANG Martin (PAR),CARTER Trent (AUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,GUO Yi Teng,CARTER Trent,4,0,,,GRAND_SLAM,U21MS,799,Qualification,GUO Yi Teng (SGP),CARTER Trent (AUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,PITCHFORD Liam,WANG YANG Martin,3,0,"11,11,11|7,3,6",,GRAND_SLAM,U21MS,799,Qualification,PITCHFORD Liam (ENG),WANG YANG Martin (PAR)
-Pro Tour VW Open Singapore 2008,2008-06-04,KANG Donghoon,CHONG Hur Ying Darren,3,0,"11,11,11|6,7,4",,GRAND_SLAM,U21MS,799,Qualification,KANG Donghoon (KOR),CHONG Hur Ying Darren (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,LI Kwun Ngai,WONG Daniel,3,0,"11,11,11|6,6,4",,GRAND_SLAM,U21MS,799,Qualification,LI Kwun Ngai (HKG),WONG Daniel (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,KANG Donghoon,WONG Daniel,3,0,"11,11,11|2,2,2",,GRAND_SLAM,U21MS,799,Qualification,KANG Donghoon (KOR),WONG Daniel (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,LI Kwun Ngai,CHONG Hur Ying Darren,3,1,"11,9,11,11|8,11,5,4",,GRAND_SLAM,U21MS,799,Qualification,LI Kwun Ngai (HKG),CHONG Hur Ying Darren (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,KANG Donghoon,LI Kwun Ngai,3,1,"11,9,11,11|9,11,7,8",,GRAND_SLAM,U21MS,799,Qualification,KANG Donghoon (KOR),LI Kwun Ngai (HKG)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHONG Hur Ying Darren,WONG Daniel,3,1,"11,11,11,11|13,8,9,5",,GRAND_SLAM,U21MS,799,Qualification,CHONG Hur Ying Darren (SGP),WONG Daniel (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,JIANG Pengfei,HO Jason,3,2,"6,11,11,4,11|11,8,4,11,8",,GRAND_SLAM,U21MS,799,Qualification,JIANG Pengfei (TUR),HO Jason (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,LEE Tien Hoe Clarence,DAVIS Kyle,4,0,,,GRAND_SLAM,U21MS,799,Qualification,LEE Tien Hoe Clarence (SGP),DAVIS Kyle (AUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,JIANG Pengfei,LEE Tien Hoe Clarence,3,0,"11,17,11|4,15,4",,GRAND_SLAM,U21MS,799,Qualification,JIANG Pengfei (TUR),LEE Tien Hoe Clarence (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,HO Jason,DAVIS Kyle,4,0,,,GRAND_SLAM,U21MS,799,Qualification,HO Jason (SGP),DAVIS Kyle (AUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,JIANG Pengfei,DAVIS Kyle,4,0,,,GRAND_SLAM,U21MS,799,Qualification,JIANG Pengfei (TUR),DAVIS Kyle (AUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,LEE Tien Hoe Clarence,HO Jason,3,2,"11,11,7,8,11|5,8,11,11,4",,GRAND_SLAM,U21MS,799,Qualification,LEE Tien Hoe Clarence (SGP),HO Jason (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,FEGERL Stefan,LIM Jie Yan,3,0,"11,12,11|3,10,6",,GRAND_SLAM,U21MS,799,Qualification,FEGERL Stefan (AUT),LIM Jie Yan (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,MENGE Gencay,ALYAFEI Mohammed,3,2,"10,11,11,8,11|12,7,7,11,3",,GRAND_SLAM,U21MS,799,Qualification,MENGE Gencay (TUR),ALYAFEI Mohammed (QAT)
-Pro Tour VW Open Singapore 2008,2008-06-04,FEGERL Stefan,ALYAFEI Mohammed,3,0,"11,11,11|8,8,9",,GRAND_SLAM,U21MS,799,Qualification,FEGERL Stefan (AUT),ALYAFEI Mohammed (QAT)
-Pro Tour VW Open Singapore 2008,2008-06-04,MENGE Gencay,LIM Jie Yan,3,0,"11,11,11|9,5,9",,GRAND_SLAM,U21MS,799,Qualification,MENGE Gencay (TUR),LIM Jie Yan (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,FEGERL Stefan,MENGE Gencay,3,0,"13,11,11|11,4,6",,GRAND_SLAM,U21MS,799,Qualification,FEGERL Stefan (AUT),MENGE Gencay (TUR)
-Pro Tour VW Open Singapore 2008,2008-06-04,LIM Jie Yan,ALYAFEI Mohammed,3,1,"7,16,11,12|11,14,6,10",,GRAND_SLAM,U21MS,799,Qualification,LIM Jie Yan (SGP),ALYAFEI Mohammed (QAT)
-Pro Tour VW Open Singapore 2008,2008-06-04,GOLOVANOV Stanislav,TEO Benjamin,3,0,"11,11,13|5,6,11",,GRAND_SLAM,U21MS,799,Qualification,GOLOVANOV Stanislav (BUL),TEO Benjamin (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,ASMUSSEN Jakob,PANG Xue Jie,3,1,"11,11,8,11|9,6,11,7",,GRAND_SLAM,U21MS,799,Qualification,ASMUSSEN Jakob (DEN),PANG Xue Jie (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,GOLOVANOV Stanislav,PANG Xue Jie,3,0,"11,12,11|8,10,8",,GRAND_SLAM,U21MS,799,Qualification,GOLOVANOV Stanislav (BUL),PANG Xue Jie (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,ASMUSSEN Jakob,TEO Benjamin,3,1,"9,11,11,11|11,2,6,8",,GRAND_SLAM,U21MS,799,Qualification,ASMUSSEN Jakob (DEN),TEO Benjamin (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,ASMUSSEN Jakob,GOLOVANOV Stanislav,3,2,"11,8,3,11,14|9,11,11,9,12",,GRAND_SLAM,U21MS,799,Qualification,ASMUSSEN Jakob (DEN),GOLOVANOV Stanislav (BUL)
-Pro Tour VW Open Singapore 2008,2008-06-04,PANG Xue Jie,TEO Benjamin,3,1,"11,11,11,11|4,13,5,8",,GRAND_SLAM,U21MS,799,Qualification,PANG Xue Jie (SGP),TEO Benjamin (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,STERNBERG Kasper,GOH Yi Long,3,0,"11,11,11|8,8,9",,GRAND_SLAM,U21MS,799,Qualification,STERNBERG Kasper (DEN),GOH Yi Long (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,UEDA Jin,ALAWLAQI Ahmed,3,0,"11,11,11|2,3,4",,GRAND_SLAM,U21MS,799,Qualification,UEDA Jin (JPN),ALAWLAQI Ahmed (QAT)
-Pro Tour VW Open Singapore 2008,2008-06-04,STERNBERG Kasper,ALAWLAQI Ahmed,3,0,"11,11,11|2,9,6",,GRAND_SLAM,U21MS,799,Qualification,STERNBERG Kasper (DEN),ALAWLAQI Ahmed (QAT)
-Pro Tour VW Open Singapore 2008,2008-06-04,UEDA Jin,GOH Yi Long,3,0,"12,11,11|10,3,7",,GRAND_SLAM,U21MS,799,Qualification,UEDA Jin (JPN),GOH Yi Long (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,STERNBERG Kasper,UEDA Jin,3,1,"11,11,10,11|9,4,12,8",,GRAND_SLAM,U21MS,799,Qualification,STERNBERG Kasper (DEN),UEDA Jin (JPN)
-Pro Tour VW Open Singapore 2008,2008-06-04,ALAWLAQI Ahmed,GOH Yi Long,3,0,"12,13,14|10,11,12",,GRAND_SLAM,U21MS,799,Qualification,ALAWLAQI Ahmed (QAT),GOH Yi Long (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHIANG Hung-Chieh,ASMUSSEN Jakob,4,1,"9,11,11,11,11|11,7,9,4,9",R16,GRAND_SLAM,U21MS,799,Main Draw,CHIANG Hung-Chieh (TPE),ASMUSSEN Jakob (DEN)
-Pro Tour VW Open Singapore 2008,2008-06-04,MA Liang,FEGERL Stefan,4,3,"4,11,6,11,11,6,11|11,3,11,8,7,11,6",R16,GRAND_SLAM,U21MS,799,Main Draw,MA Liang (SGP),FEGERL Stefan (AUT)
-Pro Tour VW Open Singapore 2008,2008-06-04,GUO Yi Teng,DRINKHALL Paul,4,2,"11,11,11,5,5,11|8,8,9,11,11,2",R16,GRAND_SLAM,U21MS,799,Main Draw,GUO Yi Teng (SGP),DRINKHALL Paul (ENG)
-Pro Tour VW Open Singapore 2008,2008-06-04,FREITAS Marcos,CHEN Chien-An,4,2,"11,3,10,11,11,11|8,11,12,5,5,4",R16,GRAND_SLAM,U21MS,799,Main Draw,FREITAS Marcos (POR),CHEN Chien-An (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,HAN Jimin,LIU Zhongze,4,2,"11,11,8,7,12,11|9,9,11,11,10,8",R16,GRAND_SLAM,U21MS,799,Main Draw,HAN Jimin (KOR),LIU Zhongze (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,MATSUDAIRA Kenji,STERNBERG Kasper,4,0,"11,11,11,11|4,8,4,4",R16,GRAND_SLAM,U21MS,799,Main Draw,MATSUDAIRA Kenji (JPN),STERNBERG Kasper (DEN)
-Pro Tour VW Open Singapore 2008,2008-06-04,HUANG Sheng-Sheng,KANG Donghoon,4,1,"11,11,11,13,11|13,9,7,11,7",R16,GRAND_SLAM,U21MS,799,Main Draw,HUANG Sheng-Sheng (TPE),KANG Donghoon (KOR)
-Pro Tour VW Open Singapore 2008,2008-06-04,LEE Jinkwon,JIANG Pengfei,4,0,"11,11,11,11|9,9,8,8",R16,GRAND_SLAM,U21MS,799,Main Draw,LEE Jinkwon (KOR),JIANG Pengfei (TUR)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHIANG Hung-Chieh,MA Liang,4,1,"7,11,11,11,11|11,5,5,9,9",QF,GRAND_SLAM,U21MS,799,Main Draw,CHIANG Hung-Chieh (TPE),MA Liang (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,FREITAS Marcos,GUO Yi Teng,4,0,"11,11,11,11|7,9,6,9",QF,GRAND_SLAM,U21MS,799,Main Draw,FREITAS Marcos (POR),GUO Yi Teng (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,MATSUDAIRA Kenji,HAN Jimin,4,0,"11,11,8,11,11|8,9,1,6,7",QF,GRAND_SLAM,U21MS,799,Main Draw,MATSUDAIRA Kenji (JPN),HAN Jimin (KOR)
-Pro Tour VW Open Singapore 2008,2008-06-04,HUANG Sheng-Sheng,LEE Jinkwon,4,1,"11,11,9,11,11|7,6,11,8,8",QF,GRAND_SLAM,U21MS,799,Main Draw,HUANG Sheng-Sheng (TPE),LEE Jinkwon (KOR)
-Pro Tour VW Open Singapore 2008,2008-06-04,FREITAS Marcos,CHIANG Hung-Chieh,4,1,"11,11,6,11,11|6,5,11,9,8",SF,GRAND_SLAM,U21MS,799,Main Draw,FREITAS Marcos (POR),CHIANG Hung-Chieh (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,MATSUDAIRA Kenji,HUANG Sheng-Sheng,4,0,"11,11,11,11|4,7,7,3",SF,GRAND_SLAM,U21MS,799,Main Draw,MATSUDAIRA Kenji (JPN),HUANG Sheng-Sheng (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,FREITAS Marcos,MATSUDAIRA Kenji,4,2,"5,11,3,11,11,12|11,6,11,6,7,10",F,GRAND_SLAM,U21MS,799,Main Draw,FREITAS Marcos (POR),MATSUDAIRA Kenji (JPN)
-Pro Tour VW Open Singapore 2008,2008-06-04,WANG Liqin,ZENG Cem,4,0,,R64,GRAND_SLAM,MS,799,Main Draw,WANG Liqin (CHN),ZENG Cem (TUR)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHEUNG Yuk,PAPAGEORGIOU Konstantinos,4,0,"11,11,11,11|7,9,4,6",R64,GRAND_SLAM,MS,799,Main Draw,CHEUNG Yuk (HKG),PAPAGEORGIOU Konstantinos (GRE)
-Pro Tour VW Open Singapore 2008,2008-06-04,KISHIKAWA Seiya,PERSSON Jon,4,2,"8,8,11,11,11,11|11,11,9,7,1,8",R64,GRAND_SLAM,MS,799,Main Draw,KISHIKAWA Seiya (JPN),PERSSON Jon (SWE)
-Pro Tour VW Open Singapore 2008,2008-06-04,HAN Jimin,KO Lai Chak,4,3,"11,6,11,5,6,12,11|7,11,7,11,11,10,8",R64,GRAND_SLAM,MS,799,Main Draw,HAN Jimin (KOR),KO Lai Chak (HKG)
-Pro Tour VW Open Singapore 2008,2008-06-04,YANG Zi,DRINKHALL Paul,4,1,"11,11,9,14,11|4,7,11,12,7",R64,GRAND_SLAM,MS,799,Main Draw,YANG Zi (SGP),DRINKHALL Paul (ENG)
-Pro Tour VW Open Singapore 2008,2008-06-04,MONTEIRO Thiago,CAI Xiaoli,4,0,"11,11,11,11|7,5,5,8",R64,GRAND_SLAM,MS,799,Main Draw,MONTEIRO Thiago (BRA),CAI Xiaoli (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,JIANG Tianyi,TSUBOGUCHI Michikazu,4,0,"11,11,11,11|9,7,7,7",R64,GRAND_SLAM,MS,799,Main Draw,JIANG Tianyi (HKG),TSUBOGUCHI Michikazu (JPN)
-Pro Tour VW Open Singapore 2008,2008-06-04,GAO Ning,TSUBOI Gustavo,4,0,"11,12,11,11|7,10,8,5",R64,GRAND_SLAM,MS,799,Main Draw,GAO Ning (SGP),TSUBOI Gustavo (BRA)
-Pro Tour VW Open Singapore 2008,2008-06-04,JOO Saehyuk,LIU Zhongze,4,0,"13,12,11,11|11,10,3,6",R64,GRAND_SLAM,MS,799,Main Draw,JOO Saehyuk (KOR),LIU Zhongze (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,KUZMIN Fedor,TSIOKAS Ntaniel,4,1,"11,11,13,11,12|9,2,11,13,10",R64,GRAND_SLAM,MS,799,Main Draw,KUZMIN Fedor (RUS),TSIOKAS Ntaniel (GRE)
-Pro Tour VW Open Singapore 2008,2008-06-04,MA Liang,SUSS Christian,4,0,"11,11,11,11|3,5,6,9",R64,GRAND_SLAM,MS,799,Main Draw,MA Liang (SGP),SUSS Christian (GER)
-Pro Tour VW Open Singapore 2008,2008-06-04,KREANGA Kalinikos,KONGSGAARD Christian,4,0,"11,11,11,11|5,6,3,4",R64,GRAND_SLAM,MS,799,Main Draw,KREANGA Kalinikos (GRE),KONGSGAARD Christian (DEN)
-Pro Tour VW Open Singapore 2008,2008-06-04,OVTCHAROV Dimitrij,LEE Sang Su,4,0,"11,11,11,12|8,9,5,10",R64,GRAND_SLAM,MS,799,Main Draw,OVTCHAROV Dimitrij (GER),LEE Sang Su (KOR)
-Pro Tour VW Open Singapore 2008,2008-06-04,KIM Junghoon,FEJER-KONNERTH Zoltan,4,2,"11,11,11,7,9,11|7,9,5,11,11,6",R64,GRAND_SLAM,MS,799,Main Draw,KIM Junghoon (KOR),FEJER-KONNERTH Zoltan (GER)
-Pro Tour VW Open Singapore 2008,2008-06-04,WU Chih-Chi,HIELSCHER Lars,4,2,"9,10,13,11,11,11|11,12,11,3,4,8",R64,GRAND_SLAM,MS,799,Main Draw,WU Chih-Chi (TPE),HIELSCHER Lars (GER)
-Pro Tour VW Open Singapore 2008,2008-06-04,SAMSONOV Vladimir,HABESOHN Daniel,4,1,"11,9,11,11,11|9,11,4,3,8",R64,GRAND_SLAM,MS,799,Main Draw,SAMSONOV Vladimir (BLR),HABESOHN Daniel (AUT)
-Pro Tour VW Open Singapore 2008,2008-06-04,BOLL Timo,GOLOVANOV Stanislav,4,0,"11,11,11,11|6,5,5,2",R64,GRAND_SLAM,MS,799,Main Draw,BOLL Timo (GER),GOLOVANOV Stanislav (BUL)
-Pro Tour VW Open Singapore 2008,2008-06-04,LI Ping,LIVENTSOV Alexey,4,2,"11,11,11,7,12,13|9,9,9,11,14,11",R64,GRAND_SLAM,MS,799,Main Draw,LI Ping (QAT),LIVENTSOV Alexey (RUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,GIONIS Panagiotis,FREITAS Marcos,4,1,"6,11,11,11,11|11,9,9,7,7",R64,GRAND_SLAM,MS,799,Main Draw,GIONIS Panagiotis (GRE),FREITAS Marcos (POR)
-Pro Tour VW Open Singapore 2008,2008-06-04,SMIRNOV Alexey,UEDA Jin,4,1,"11,11,11,11,11|13,4,8,7,8",R64,GRAND_SLAM,MS,799,Main Draw,SMIRNOV Alexey (RUS),UEDA Jin (JPN)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHUANG Chih-Yuan,AL-HASAN Ibrahem,4,1,"11,11,9,11,11|6,8,11,8,6",R64,GRAND_SLAM,MS,799,Main Draw,CHUANG Chih-Yuan (TPE),AL-HASAN Ibrahem (KUW)
-Pro Tour VW Open Singapore 2008,2008-06-04,LEE Jinkwon,SHMYREV Maxim,4,1,"11,11,8,11,11|8,9,11,3,8",R64,GRAND_SLAM,MS,799,Main Draw,LEE Jinkwon (KOR),SHMYREV Maxim (RUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,RUBTSOV Igor,STEGER Bastian,4,2,"12,11,9,11,11,11|14,8,11,7,8,3",R64,GRAND_SLAM,MS,799,Main Draw,RUBTSOV Igor (RUS),STEGER Bastian (GER)
-Pro Tour VW Open Singapore 2008,2008-06-04,LI Ching,TANG Hua,4,1,"9,13,11,11,11|11,11,6,9,8",R64,GRAND_SLAM,MS,799,Main Draw,LI Ching (HKG),TANG Hua (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHEN Qi,MATSUDAIRA Kenji,4,2,"2,11,13,10,11,14|11,9,11,12,5,12",R64,GRAND_SLAM,MS,799,Main Draw,CHEN Qi (CHN),MATSUDAIRA Kenji (JPN)
-Pro Tour VW Open Singapore 2008,2008-06-04,LEE Jungwoo,APOLONIA Tiago,4,2,"11,7,11,9,12,11|9,11,8,11,10,4",R64,GRAND_SLAM,MS,799,Main Draw,LEE Jungwoo (KOR),APOLONIA Tiago (POR)
-Pro Tour VW Open Singapore 2008,2008-06-04,LEUNG Chu Yan,HUANG Sheng-Sheng,4,1,"11,11,9,12,11|9,9,11,10,4",R64,GRAND_SLAM,MS,799,Main Draw,LEUNG Chu Yan (HKG),HUANG Sheng-Sheng (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,FEGERL Stefan,KAN Yo,4,1,"11,11,11,4,12|7,7,9,11,10",R64,GRAND_SLAM,MS,799,Main Draw,FEGERL Stefan (AUT),KAN Yo (JPN)
-Pro Tour VW Open Singapore 2008,2008-06-04,MIZUTANI Jun,JIANG Pengfei,4,0,"11,11,11,11|9,6,4,6",R64,GRAND_SLAM,MS,799,Main Draw,MIZUTANI Jun (JPN),JIANG Pengfei (TUR)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHIANG Hung-Chieh,KEEN Trinko,4,3,"5,11,5,5,12,12,11|11,6,11,11,10,10,6",R64,GRAND_SLAM,MS,799,Main Draw,CHIANG Hung-Chieh (TPE),KEEN Trinko (NED)
-Pro Tour VW Open Singapore 2008,2008-06-04,TANG Peng,CHOI Hyunjin,4,1,"13,11,3,11,11|11,6,11,7,9",R64,GRAND_SLAM,MS,799,Main Draw,TANG Peng (HKG),CHOI Hyunjin (KOR)
-Pro Tour VW Open Singapore 2008,2008-06-04,MA Long,ASMUSSEN Jakob,4,0,"11,11,11,11|6,8,5,6",R64,GRAND_SLAM,MS,799,Main Draw,MA Long (CHN),ASMUSSEN Jakob (DEN)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHEUNG Yuk,WANG Liqin,4,1,"11,11,12,11,11|8,13,10,3,7",R32,GRAND_SLAM,MS,799,Main Draw,CHEUNG Yuk (HKG),WANG Liqin (CHN)
-Pro Tour VW Open Singapore 2008,2008-06-04,HAN Jimin,KISHIKAWA Seiya,4,0,"11,11,11,12|5,7,3,10",R32,GRAND_SLAM,MS,799,Main Draw,HAN Jimin (KOR),KISHIKAWA Seiya (JPN)
-Pro Tour VW Open Singapore 2008,2008-06-04,YANG Zi,MONTEIRO Thiago,4,2,"11,5,10,11,11,11|9,11,12,7,4,5",R32,GRAND_SLAM,MS,799,Main Draw,YANG Zi (SGP),MONTEIRO Thiago (BRA)
-Pro Tour VW Open Singapore 2008,2008-06-04,JIANG Tianyi,GAO Ning,4,3,"11,11,9,9,4,11,11|8,8,11,11,11,6,9",R32,GRAND_SLAM,MS,799,Main Draw,JIANG Tianyi (HKG),GAO Ning (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,JOO Saehyuk,KUZMIN Fedor,4,1,"11,11,11,7,11|9,5,6,11,5",R32,GRAND_SLAM,MS,799,Main Draw,JOO Saehyuk (KOR),KUZMIN Fedor (RUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,KREANGA Kalinikos,MA Liang,4,2,"8,8,11,11,11,11|11,11,4,9,7,6",R32,GRAND_SLAM,MS,799,Main Draw,KREANGA Kalinikos (GRE),MA Liang (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,OVTCHAROV Dimitrij,KIM Junghoon,4,1,"11,11,11,5,11|8,7,7,11,7",R32,GRAND_SLAM,MS,799,Main Draw,OVTCHAROV Dimitrij (GER),KIM Junghoon (KOR)
-Pro Tour VW Open Singapore 2008,2008-06-04,SAMSONOV Vladimir,WU Chih-Chi,4,0,"11,11,11,11|9,7,3,9",R32,GRAND_SLAM,MS,799,Main Draw,SAMSONOV Vladimir (BLR),WU Chih-Chi (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,BOLL Timo,LI Ping,4,1,"11,11,9,11,11|5,9,11,8,9",R32,GRAND_SLAM,MS,799,Main Draw,BOLL Timo (GER),LI Ping (QAT)
-Pro Tour VW Open Singapore 2008,2008-06-04,GIONIS Panagiotis,SMIRNOV Alexey,4,2,"6,12,11,12,11,11|11,10,1,14,7,6",R32,GRAND_SLAM,MS,799,Main Draw,GIONIS Panagiotis (GRE),SMIRNOV Alexey (RUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHUANG Chih-Yuan,LEE Jinkwon,4,3,"8,11,11,11,9,12,11|11,6,13,6,11,10,6",R32,GRAND_SLAM,MS,799,Main Draw,CHUANG Chih-Yuan (TPE),LEE Jinkwon (KOR)
-Pro Tour VW Open Singapore 2008,2008-06-04,RUBTSOV Igor,LI Ching,4,0,"11,11,12,12|9,6,10,10",R32,GRAND_SLAM,MS,799,Main Draw,RUBTSOV Igor (RUS),LI Ching (HKG)
-Pro Tour VW Open Singapore 2008,2008-06-04,LEE Jungwoo,CHEN Qi,4,0,"11,11,11,11|8,8,8,4",R32,GRAND_SLAM,MS,799,Main Draw,LEE Jungwoo (KOR),CHEN Qi (CHN)
-Pro Tour VW Open Singapore 2008,2008-06-04,FEGERL Stefan,LEUNG Chu Yan,4,1,"11,13,7,12,11|4,11,11,10,7",R32,GRAND_SLAM,MS,799,Main Draw,FEGERL Stefan (AUT),LEUNG Chu Yan (HKG)
-Pro Tour VW Open Singapore 2008,2008-06-04,MIZUTANI Jun,CHIANG Hung-Chieh,4,1,"11,11,11,11,11|13,3,5,5,7",R32,GRAND_SLAM,MS,799,Main Draw,MIZUTANI Jun (JPN),CHIANG Hung-Chieh (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,MA Long,TANG Peng,4,1,"11,11,11,7,11|2,9,7,11,3",R32,GRAND_SLAM,MS,799,Main Draw,MA Long (CHN),TANG Peng (HKG)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHEUNG Yuk,HAN Jimin,4,0,"12,14,11,11|10,2,2,2",R16,GRAND_SLAM,MS,799,Main Draw,CHEUNG Yuk (HKG),HAN Jimin (KOR)
-Pro Tour VW Open Singapore 2008,2008-06-04,JIANG Tianyi,YANG Zi,4,2,"7,10,15,11,11,11|11,12,13,6,4,4",R16,GRAND_SLAM,MS,799,Main Draw,JIANG Tianyi (HKG),YANG Zi (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,JOO Saehyuk,KREANGA Kalinikos,4,2,"7,7,12,11,12,11|11,11,10,7,10,7",R16,GRAND_SLAM,MS,799,Main Draw,JOO Saehyuk (KOR),KREANGA Kalinikos (GRE)
-Pro Tour VW Open Singapore 2008,2008-06-04,SAMSONOV Vladimir,OVTCHAROV Dimitrij,4,1,"11,9,11,11,11|8,11,7,7,8",R16,GRAND_SLAM,MS,799,Main Draw,SAMSONOV Vladimir (BLR),OVTCHAROV Dimitrij (GER)
-Pro Tour VW Open Singapore 2008,2008-06-04,BOLL Timo,GIONIS Panagiotis,4,0,"11,11,11,14|5,6,9,12",R16,GRAND_SLAM,MS,799,Main Draw,BOLL Timo (GER),GIONIS Panagiotis (GRE)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHUANG Chih-Yuan,RUBTSOV Igor,4,0,"11,11,11,11|4,9,4,9",R16,GRAND_SLAM,MS,799,Main Draw,CHUANG Chih-Yuan (TPE),RUBTSOV Igor (RUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,LEE Jungwoo,FEGERL Stefan,4,0,"11,11,11,11|2,6,2,5",R16,GRAND_SLAM,MS,799,Main Draw,LEE Jungwoo (KOR),FEGERL Stefan (AUT)
-Pro Tour VW Open Singapore 2008,2008-06-04,MA Long,MIZUTANI Jun,4,3,"13,11,9,11,11,12,12|15,7,11,8,4,14,10",R16,GRAND_SLAM,MS,799,Main Draw,MA Long (CHN),MIZUTANI Jun (JPN)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHEUNG Yuk,JIANG Tianyi,4,1,"11,11,11,5,13|9,9,4,11,11",QF,GRAND_SLAM,MS,799,Main Draw,CHEUNG Yuk (HKG),JIANG Tianyi (HKG)
-Pro Tour VW Open Singapore 2008,2008-06-04,SAMSONOV Vladimir,JOO Saehyuk,4,1,"11,11,13,11,11|9,6,15,5,7",QF,GRAND_SLAM,MS,799,Main Draw,SAMSONOV Vladimir (BLR),JOO Saehyuk (KOR)
-Pro Tour VW Open Singapore 2008,2008-06-04,BOLL Timo,CHUANG Chih-Yuan,4,0,"11,11,11,11|5,5,9,7",QF,GRAND_SLAM,MS,799,Main Draw,BOLL Timo (GER),CHUANG Chih-Yuan (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,MA Long,LEE Jungwoo,4,0,"11,11,11,11|5,7,4,5",QF,GRAND_SLAM,MS,799,Main Draw,MA Long (CHN),LEE Jungwoo (KOR)
-Pro Tour VW Open Singapore 2008,2008-06-04,SAMSONOV Vladimir,CHEUNG Yuk,4,0,"11,11,11,11|9,3,6,9",SF,GRAND_SLAM,MS,799,Main Draw,SAMSONOV Vladimir (BLR),CHEUNG Yuk (HKG)
-Pro Tour VW Open Singapore 2008,2008-06-04,MA Long,BOLL Timo,4,2,"10,11,9,11,11,11|12,6,11,9,3,3",SF,GRAND_SLAM,MS,799,Main Draw,MA Long (CHN),BOLL Timo (GER)
-Pro Tour VW Open Singapore 2008,2008-06-04,MA Long,SAMSONOV Vladimir,4,1,"11,8,11,11,11|8,11,8,9,5",F,GRAND_SLAM,MS,799,Main Draw,MA Long (CHN),SAMSONOV Vladimir (BLR)
-Pro Tour VW Open Singapore 2008,2008-06-04,HIURA Reiko,PARK Seohee,4,1,"11,11,5,11,11|8,5,11,7,5",,GRAND_SLAM,WS,799,Qualification,HIURA Reiko (JPN),PARK Seohee (KOR)
-Pro Tour VW Open Singapore 2008,2008-06-04,HIURA Reiko,LIU Hsing-Yin,4,2,"11,3,11,10,11,11|9,11,6,12,4,9",,GRAND_SLAM,WS,799,Qualification,HIURA Reiko (JPN),LIU Hsing-Yin (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,LIU Hsing-Yin,PARK Seohee,4,2,"11,5,6,11,11,12|5,11,11,7,5,10",,GRAND_SLAM,WS,799,Qualification,LIU Hsing-Yin (TPE),PARK Seohee (KOR)
-Pro Tour VW Open Singapore 2008,2008-06-04,LIN Chia-Hui,PAOVIC Sandra,4,2,"13,6,11,11,8,11|11,11,5,9,11,8",,GRAND_SLAM,WS,799,Qualification,LIN Chia-Hui (TPE),PAOVIC Sandra (CRO)
-Pro Tour VW Open Singapore 2008,2008-06-04,PAOVIC Sandra,VORONOVA Anastasia,4,3,"11,11,13,10,11,14,11|7,8,15,12,8,16,6",,GRAND_SLAM,WS,799,Qualification,PAOVIC Sandra (CRO),VORONOVA Anastasia (RUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,LIN Chia-Hui,VORONOVA Anastasia,4,3,"8,11,4,11,11,7,13|11,6,11,9,5,11,11",,GRAND_SLAM,WS,799,Qualification,LIN Chia-Hui (TPE),VORONOVA Anastasia (RUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,XIAN Yifang,NG Sock Khim,4,1,"17,11,11,11,11|19,9,5,3,4",,GRAND_SLAM,WS,799,Qualification,XIAN Yifang (FRA),NG Sock Khim (MAS)
-Pro Tour VW Open Singapore 2008,2008-06-04,XIAN Yifang,KERTAI Rita,4,1,"11,11,11,15,11|6,6,6,17,9",,GRAND_SLAM,WS,799,Qualification,XIAN Yifang (FRA),KERTAI Rita (HUN)
-Pro Tour VW Open Singapore 2008,2008-06-04,KERTAI Rita,NG Sock Khim,4,3,"12,7,11,6,8,11,15|10,11,6,11,11,8,13",,GRAND_SLAM,WS,799,Qualification,KERTAI Rita (HUN),NG Sock Khim (MAS)
-Pro Tour VW Open Singapore 2008,2008-06-04,MOON Hyunjung,HUANG Crystal Xi,4,2,"7,11,11,11,8,11|11,8,9,8,11,9",,GRAND_SLAM,WS,799,Qualification,MOON Hyunjung (KOR),HUANG Crystal Xi (USA)
-Pro Tour VW Open Singapore 2008,2008-06-04,MOON Hyunjung,HEINE Veronika,4,1,"11,6,11,12,11|7,11,3,10,4",,GRAND_SLAM,WS,799,Qualification,MOON Hyunjung (KOR),HEINE Veronika (AUT)
-Pro Tour VW Open Singapore 2008,2008-06-04,HUANG Crystal Xi,HEINE Veronika,4,1,"11,11,11,10,11|6,5,3,12,8",,GRAND_SLAM,WS,799,Qualification,HUANG Crystal Xi (USA),HEINE Veronika (AUT)
-Pro Tour VW Open Singapore 2008,2008-06-04,SAMARA Elizabeta,KOZLOVSKAIAI Anna,4,1,"11,11,11,9,11|6,8,6,11,7",,GRAND_SLAM,WS,799,Qualification,SAMARA Elizabeta (ROU),KOZLOVSKAIAI Anna (RUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,SAMARA Elizabeta,KIM Hyonam,4,0,"11,11,11,11|9,6,9,9",,GRAND_SLAM,WS,799,Qualification,SAMARA Elizabeta (ROU),KIM Hyonam (KOR)
-Pro Tour VW Open Singapore 2008,2008-06-04,KOZLOVSKAIAI Anna,KIM Hyonam,4,0,"11,11,11,11|1,9,2,4",,GRAND_SLAM,WS,799,Qualification,KOZLOVSKAIAI Anna (RUS),KIM Hyonam (KOR)
-Pro Tour VW Open Singapore 2008,2008-06-04,HU Melek,HSU Hui-Tsun,4,0,,,GRAND_SLAM,WS,799,Qualification,HU Melek (TUR),HSU Hui-Tsun (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,HU Melek,BEH Lee Wei,4,3,"10,11,8,11,11,5,12|12,2,11,8,7,11,10",,GRAND_SLAM,WS,799,Qualification,HU Melek (TUR),BEH Lee Wei (MAS)
-Pro Tour VW Open Singapore 2008,2008-06-04,BEH Lee Wei,HSU Hui-Tsun,4,0,,,GRAND_SLAM,WS,799,Qualification,BEH Lee Wei (MAS),HSU Hui-Tsun (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,KOMWONG Nanthana,CHIU Soo Jiin,4,0,"12,11,11,11|10,4,8,5",,GRAND_SLAM,WS,799,Qualification,KOMWONG Nanthana (THA),CHIU Soo Jiin (MAS)
-Pro Tour VW Open Singapore 2008,2008-06-04,KOMWONG Nanthana,SIBLEY Kelly,4,0,"12,11,11,11|10,7,6,8",,GRAND_SLAM,WS,799,Qualification,KOMWONG Nanthana (THA),SIBLEY Kelly (ENG)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHIU Soo Jiin,SIBLEY Kelly,4,1,"11,11,16,8,11|7,8,14,11,8",,GRAND_SLAM,WS,799,Qualification,CHIU Soo Jiin (MAS),SIBLEY Kelly (ENG)
-Pro Tour VW Open Singapore 2008,2008-06-04,ZHU Fang,KIM Garam,4,0,"11,11,11,13|4,4,6,11",,GRAND_SLAM,WS,799,Qualification,ZHU Fang (ESP),KIM Garam (KOR)
-Pro Tour VW Open Singapore 2008,2008-06-04,ZHU Fang,TERUI Moemi,4,3,"13,11,11,8,7,5,11|11,8,3,11,11,11,5",,GRAND_SLAM,WS,799,Qualification,ZHU Fang (ESP),TERUI Moemi (JPN)
-Pro Tour VW Open Singapore 2008,2008-06-04,TERUI Moemi,KIM Garam,4,2,"8,9,11,11,11,11|11,11,6,7,9,7",,GRAND_SLAM,WS,799,Qualification,TERUI Moemi (JPN),KIM Garam (KOR)
-Pro Tour VW Open Singapore 2008,2008-06-04,PAVLOVICH Veronika,MIKHAYLOVA Olga,4,2,"7,10,11,11,11,12|11,12,3,4,3,10",,GRAND_SLAM,WS,799,Qualification,PAVLOVICH Veronika (BLR),MIKHAYLOVA Olga (RUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,PAVLOVICH Veronika,LEE I-Chen,4,0,,,GRAND_SLAM,WS,799,Qualification,PAVLOVICH Veronika (BLR),LEE I-Chen (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,MIKHAYLOVA Olga,LEE I-Chen,4,0,,,GRAND_SLAM,WS,799,Qualification,MIKHAYLOVA Olga (RUS),LEE I-Chen (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,BARTHEL Zhenqi,YILDIRIM Fulya,4,0,"11,12,11,11|6,10,5,7",,GRAND_SLAM,WS,799,Qualification,BARTHEL Zhenqi (GER),YILDIRIM Fulya (TUR)
-Pro Tour VW Open Singapore 2008,2008-06-04,BARTHEL Zhenqi,BAKULA Andrea,4,2,"11,11,11,9,12,11|9,13,6,11,10,8",,GRAND_SLAM,WS,799,Qualification,BARTHEL Zhenqi (GER),BAKULA Andrea (CRO)
-Pro Tour VW Open Singapore 2008,2008-06-04,YILDIRIM Fulya,BAKULA Andrea,4,3,"14,8,12,3,8,12,12|12,11,10,11,11,10,10",,GRAND_SLAM,WS,799,Qualification,YILDIRIM Fulya (TUR),BAKULA Andrea (CRO)
-Pro Tour VW Open Singapore 2008,2008-06-04,TAN Paey Fern,ALI Meral Ildiz,4,3,"10,8,11,6,11,11,11|12,11,2,11,7,6,1",,GRAND_SLAM,WS,799,Qualification,TAN Paey Fern (SGP),ALI Meral Ildiz (TUR)
-Pro Tour VW Open Singapore 2008,2008-06-04,TAN Paey Fern,PROKHOROVA Yulia,4,3,"6,11,11,6,5,11,11|11,4,4,11,11,8,3",,GRAND_SLAM,WS,799,Qualification,TAN Paey Fern (SGP),PROKHOROVA Yulia (RUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,PROKHOROVA Yulia,ALI Meral Ildiz,4,1,"11,9,11,11,11|4,11,3,7,3",,GRAND_SLAM,WS,799,Qualification,PROKHOROVA Yulia (RUS),ALI Meral Ildiz (TUR)
-Pro Tour VW Open Singapore 2008,2008-06-04,KRAMER Tanja,OWEN Naomi,4,1,"11,12,11,8,12|5,10,7,11,10",,GRAND_SLAM,WS,799,Qualification,KRAMER Tanja (GER),OWEN Naomi (WAL)
-Pro Tour VW Open Singapore 2008,2008-06-04,ISHIKAWA Kasumi,KRAMER Tanja,4,1,"12,11,11,6,11|10,6,3,11,7",,GRAND_SLAM,WS,799,Qualification,ISHIKAWA Kasumi (JPN),KRAMER Tanja (GER)
-Pro Tour VW Open Singapore 2008,2008-06-04,ISHIKAWA Kasumi,OWEN Naomi,4,0,"11,11,11,11|2,7,2,9",,GRAND_SLAM,WS,799,Qualification,ISHIKAWA Kasumi (JPN),OWEN Naomi (WAL)
-Pro Tour VW Open Singapore 2008,2008-06-04,DVORAK Galia,CHANG Ya-Chuan,4,1,"11,18,12,13,11|4,16,14,11,6",,GRAND_SLAM,WS,799,Qualification,DVORAK Galia (ESP),CHANG Ya-Chuan (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,SUH Hyo Won,DVORAK Galia,4,2,"11,5,4,11,11,11|6,11,11,6,6,4",,GRAND_SLAM,WS,799,Qualification,SUH Hyo Won (KOR),DVORAK Galia (ESP)
-Pro Tour VW Open Singapore 2008,2008-06-04,SUH Hyo Won,CHANG Ya-Chuan,4,0,"11,11,11,11|8,5,5,5",,GRAND_SLAM,WS,799,Qualification,SUH Hyo Won (KOR),CHANG Ya-Chuan (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHENG I-Ching,LIM Peixin,4,0,"12,11,11,11|10,7,8,4",,GRAND_SLAM,WS,799,Qualification,CHENG I-Ching (TPE),LIM Peixin (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHENG I-Ching,SKOV Mie,4,0,"11,11,11,11|8,6,9,4",,GRAND_SLAM,WS,799,Qualification,CHENG I-Ching (TPE),SKOV Mie (DEN)
-Pro Tour VW Open Singapore 2008,2008-06-04,SKOV Mie,LIM Peixin,4,1,"11,5,11,11,12|5,11,6,6,10",,GRAND_SLAM,WS,799,Qualification,SKOV Mie (DEN),LIM Peixin (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,PAN Chun-Chu,SIM Kai Xin Zena,4,1,"11,11,10,13,11|9,9,12,11,7",,GRAND_SLAM,WS,799,Qualification,PAN Chun-Chu (TPE),SIM Kai Xin Zena (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,YU Kwok See,PAN Chun-Chu,4,0,"11,11,12,11|8,8,10,8",,GRAND_SLAM,WS,799,Qualification,YU Kwok See (HKG),PAN Chun-Chu (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,YU Kwok See,SIM Kai Xin Zena,4,2,"8,8,11,16,11,11|11,11,8,14,5,5",,GRAND_SLAM,WS,799,Qualification,YU Kwok See (HKG),SIM Kai Xin Zena (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,KO Somi,LARIBA Ian,4,0,"11,11,11,11|5,4,4,3",,GRAND_SLAM,WS,799,Qualification,KO Somi (KOR),LARIBA Ian (PHI)
-Pro Tour VW Open Singapore 2008,2008-06-04,MUANGSUK Anisara,LIN Chia-Chih,4,0,"12,11,11,11|10,3,7,2",,GRAND_SLAM,WS,799,Qualification,MUANGSUK Anisara (THA),LIN Chia-Chih (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,KO Somi,MUANGSUK Anisara,4,3,"9,11,7,11,9,11,11|11,8,11,9,11,9,5",,GRAND_SLAM,WS,799,Qualification,KO Somi (KOR),MUANGSUK Anisara (THA)
-Pro Tour VW Open Singapore 2008,2008-06-04,LIN Chia-Chih,LARIBA Ian,4,0,"11,11,12,11|4,3,10,7",,GRAND_SLAM,WS,799,Qualification,LIN Chia-Chih (TPE),LARIBA Ian (PHI)
-Pro Tour VW Open Singapore 2008,2008-06-04,KO Somi,LIN Chia-Chih,4,2,"11,14,6,9,11,11|2,12,11,11,5,9",,GRAND_SLAM,WS,799,Qualification,KO Somi (KOR),LIN Chia-Chih (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,MUANGSUK Anisara,LARIBA Ian,4,0,"11,11,11,11|5,4,6,3",,GRAND_SLAM,WS,799,Qualification,MUANGSUK Anisara (THA),LARIBA Ian (PHI)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHANG Ya-Chuan,TAN Yan Zhen,3,0,"11,11,11|3,9,6",,GRAND_SLAM,U21WS,799,Qualification,CHANG Ya-Chuan (TPE),TAN Yan Zhen (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,PROKHOROVA Yulia,TAN Yan Zhen,3,0,"11,11,11|3,6,3",,GRAND_SLAM,U21WS,799,Qualification,PROKHOROVA Yulia (RUS),TAN Yan Zhen (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,PROKHOROVA Yulia,CHANG Ya-Chuan,3,2,"11,11,5,5,11|4,7,11,11,5",,GRAND_SLAM,U21WS,799,Qualification,PROKHOROVA Yulia (RUS),CHANG Ya-Chuan (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,LI Isabelle Siyun,LARIBA Ian,3,0,"11,11,11|3,8,8",,GRAND_SLAM,U21WS,799,Qualification,LI Isabelle Siyun (SGP),LARIBA Ian (PHI)
-Pro Tour VW Open Singapore 2008,2008-06-04,LARIBA Ian,LEE I-Chen,4,0,,,GRAND_SLAM,U21WS,799,Qualification,LARIBA Ian (PHI),LEE I-Chen (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,LI Isabelle Siyun,LEE I-Chen,4,0,,,GRAND_SLAM,U21WS,799,Qualification,LI Isabelle Siyun (SGP),LEE I-Chen (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,LIN Chia-Chih,LIM Peixin,3,0,"11,11,11|6,7,4",,GRAND_SLAM,U21WS,799,Qualification,LIN Chia-Chih (TPE),LIM Peixin (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,LIN Chia-Chih,TERUI Moemi,3,2,"11,11,9,5,11|5,7,11,11,6",,GRAND_SLAM,U21WS,799,Qualification,LIN Chia-Chih (TPE),TERUI Moemi (JPN)
-Pro Tour VW Open Singapore 2008,2008-06-04,TERUI Moemi,LIM Peixin,3,0,"11,11,11|4,8,6",,GRAND_SLAM,U21WS,799,Qualification,TERUI Moemi (JPN),LIM Peixin (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,SIM Kai Xin Zena,KWA Hui Qi,3,0,"11,11,11|8,1,3",,GRAND_SLAM,U21WS,799,Qualification,SIM Kai Xin Zena (SGP),KWA Hui Qi (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,KWA Hui Qi,SIBLEY Kelly,3,2,"11,8,14,2,11|8,11,12,11,9",,GRAND_SLAM,U21WS,799,Qualification,KWA Hui Qi (SGP),SIBLEY Kelly (ENG)
-Pro Tour VW Open Singapore 2008,2008-06-04,SIBLEY Kelly,SIM Kai Xin Zena,3,1,"11,6,11,11|9,11,8,9",,GRAND_SLAM,U21WS,799,Qualification,SIBLEY Kelly (ENG),SIM Kai Xin Zena (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,OWEN Naomi,LOH Kai Ying,3,0,"11,11,11|8,6,5",,GRAND_SLAM,U21WS,799,Qualification,OWEN Naomi (WAL),LOH Kai Ying (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,LIU Hsing-Yin,LOH Kai Ying,3,0,"11,11,11|9,9,6",,GRAND_SLAM,U21WS,799,Qualification,LIU Hsing-Yin (TPE),LOH Kai Ying (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,LIU Hsing-Yin,OWEN Naomi,3,2,"11,8,11,8,11|5,11,7,11,7",,GRAND_SLAM,U21WS,799,Qualification,LIU Hsing-Yin (TPE),OWEN Naomi (WAL)
-Pro Tour VW Open Singapore 2008,2008-06-04,ALI Meral Ildiz,LOOK Sylvia,3,1,"9,11,11,11|11,5,9,9",,GRAND_SLAM,U21WS,799,Qualification,ALI Meral Ildiz (TUR),LOOK Sylvia (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,PARK Seohee,LOOK Sylvia,3,0,"11,11,11|4,5,1",,GRAND_SLAM,U21WS,799,Qualification,PARK Seohee (KOR),LOOK Sylvia (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,PARK Seohee,ALI Meral Ildiz,3,0,"12,11,12|10,3,10",,GRAND_SLAM,U21WS,799,Qualification,PARK Seohee (KOR),ALI Meral Ildiz (TUR)
-Pro Tour VW Open Singapore 2008,2008-06-04,LIN Chia-Hui,GO Liying Sandra,3,0,"11,11,11|7,5,3",,GRAND_SLAM,U21WS,799,Qualification,LIN Chia-Hui (TPE),GO Liying Sandra (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,YILDIRIM Fulya,LU Chunqi Patricia,3,0,"11,11,11|4,5,2",,GRAND_SLAM,U21WS,799,Qualification,YILDIRIM Fulya (TUR),LU Chunqi Patricia (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,LIN Chia-Hui,LU Chunqi Patricia,3,0,"13,11,11|11,3,7",,GRAND_SLAM,U21WS,799,Qualification,LIN Chia-Hui (TPE),LU Chunqi Patricia (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,YILDIRIM Fulya,GO Liying Sandra,3,0,"11,11,11|4,6,2",,GRAND_SLAM,U21WS,799,Qualification,YILDIRIM Fulya (TUR),GO Liying Sandra (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,LIN Chia-Hui,YILDIRIM Fulya,3,1,"8,11,11,11|11,8,7,7",,GRAND_SLAM,U21WS,799,Qualification,LIN Chia-Hui (TPE),YILDIRIM Fulya (TUR)
-Pro Tour VW Open Singapore 2008,2008-06-04,LU Chunqi Patricia,GO Liying Sandra,3,1,"11,5,12,11|8,11,10,8",,GRAND_SLAM,U21WS,799,Qualification,LU Chunqi Patricia (SGP),GO Liying Sandra (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,YUN Hui Wen Janice,HSU Hui-Tsun,4,0,,,GRAND_SLAM,U21WS,799,Qualification,YUN Hui Wen Janice (SGP),HSU Hui-Tsun (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,MIKHAYLOVA Olga,WONG Xiwen Samantha,3,0,"11,11,11|5,3,8",,GRAND_SLAM,U21WS,799,Qualification,MIKHAYLOVA Olga (RUS),WONG Xiwen Samantha (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,WONG Xiwen Samantha,HSU Hui-Tsun,4,0,,,GRAND_SLAM,U21WS,799,Qualification,WONG Xiwen Samantha (SGP),HSU Hui-Tsun (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,MIKHAYLOVA Olga,YUN Hui Wen Janice,3,0,"11,11,11|5,4,1",,GRAND_SLAM,U21WS,799,Qualification,MIKHAYLOVA Olga (RUS),YUN Hui Wen Janice (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,MIKHAYLOVA Olga,HSU Hui-Tsun,4,0,,,GRAND_SLAM,U21WS,799,Qualification,MIKHAYLOVA Olga (RUS),HSU Hui-Tsun (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,YUN Hui Wen Janice,WONG Xiwen Samantha,3,2,"11,11,9,6,11|9,9,11,11,7",,GRAND_SLAM,U21WS,799,Qualification,YUN Hui Wen Janice (SGP),WONG Xiwen Samantha (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,YU Mengyu,PROKHOROVA Yulia,4,1,"11,5,11,11,11|9,11,8,8,3",R16,GRAND_SLAM,U21WS,799,Main Draw,YU Mengyu (SGP),PROKHOROVA Yulia (RUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHENG I-Ching,LI Isabelle Siyun,4,0,"11,11,11,13|5,2,3,11",R16,GRAND_SLAM,U21WS,799,Main Draw,CHENG I-Ching (TPE),LI Isabelle Siyun (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,BARTHEL Zhenqi,LIN Chia-Hui,4,0,"11,11,14,12|7,5,12,10",R16,GRAND_SLAM,U21WS,799,Main Draw,BARTHEL Zhenqi (GER),LIN Chia-Hui (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,SAMARA Elizabeta,LIU Hsing-Yin,4,0,"12,11,11,11|10,7,9,9",R16,GRAND_SLAM,U21WS,799,Main Draw,SAMARA Elizabeta (ROU),LIU Hsing-Yin (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,HU Melek,MIKHAYLOVA Olga,4,0,"11,11,11,11|6,5,6,4",R16,GRAND_SLAM,U21WS,799,Main Draw,HU Melek (TUR),MIKHAYLOVA Olga (RUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,ISHIKAWA Kasumi,PARK Seohee,4,0,"11,11,11,11|2,8,7,6",R16,GRAND_SLAM,U21WS,799,Main Draw,ISHIKAWA Kasumi (JPN),PARK Seohee (KOR)
-Pro Tour VW Open Singapore 2008,2008-06-04,DVORAK Galia,SIM Kai Xin Zena,4,1,"11,11,8,11,11|8,4,11,6,8",R16,GRAND_SLAM,U21WS,799,Main Draw,DVORAK Galia (ESP),SIM Kai Xin Zena (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,LIN Chia-Chih,DODEAN Daniela,4,0,,R16,GRAND_SLAM,U21WS,799,Main Draw,LIN Chia-Chih (TPE),DODEAN Daniela (ROU)
-Pro Tour VW Open Singapore 2008,2008-06-04,YU Mengyu,CHENG I-Ching,4,2,"11,12,10,11,10,12|9,10,12,8,12,10",QF,GRAND_SLAM,U21WS,799,Main Draw,YU Mengyu (SGP),CHENG I-Ching (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,BARTHEL Zhenqi,SAMARA Elizabeta,4,2,"11,6,11,11,9,11|5,11,6,7,11,7",QF,GRAND_SLAM,U21WS,799,Main Draw,BARTHEL Zhenqi (GER),SAMARA Elizabeta (ROU)
-Pro Tour VW Open Singapore 2008,2008-06-04,HU Melek,ISHIKAWA Kasumi,4,2,"11,11,5,5,11,11|8,9,11,11,3,8",QF,GRAND_SLAM,U21WS,799,Main Draw,HU Melek (TUR),ISHIKAWA Kasumi (JPN)
-Pro Tour VW Open Singapore 2008,2008-06-04,DVORAK Galia,LIN Chia-Chih,4,0,"13,11,11,11|11,9,4,4",QF,GRAND_SLAM,U21WS,799,Main Draw,DVORAK Galia (ESP),LIN Chia-Chih (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,BARTHEL Zhenqi,YU Mengyu,4,0,"11,11,14,13|5,7,12,11",SF,GRAND_SLAM,U21WS,799,Main Draw,BARTHEL Zhenqi (GER),YU Mengyu (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,HU Melek,DVORAK Galia,4,1,"8,11,11,11,11|11,7,2,2,7",SF,GRAND_SLAM,U21WS,799,Main Draw,HU Melek (TUR),DVORAK Galia (ESP)
-Pro Tour VW Open Singapore 2008,2008-06-04,BARTHEL Zhenqi,HU Melek,4,2,"11,11,5,11,5,11|9,9,11,5,11,6",F,GRAND_SLAM,U21WS,799,Main Draw,BARTHEL Zhenqi (GER),HU Melek (TUR)
-Pro Tour VW Open Singapore 2008,2008-06-04,LI Xiaoxia,KERTAI Rita,4,1,"11,9,11,11,11|8,11,7,4,3",R64,GRAND_SLAM,WS,799,Main Draw,LI Xiaoxia (CHN),KERTAI Rita (HUN)
-Pro Tour VW Open Singapore 2008,2008-06-04,LI Qiangbing,MOON Hyunjung,4,0,"11,11,11,11|8,9,6,9",R64,GRAND_SLAM,WS,799,Main Draw,LI Qiangbing (AUT),MOON Hyunjung (KOR)
-Pro Tour VW Open Singapore 2008,2008-06-04,FAN Ying,PAVLOVICH Veronika,4,0,"11,11,11,11|5,8,5,9",R64,GRAND_SLAM,WS,799,Main Draw,FAN Ying (CHN),PAVLOVICH Veronika (BLR)
-Pro Tour VW Open Singapore 2008,2008-06-04,PAOVIC Sandra,SUN Beibei,4,0,"11,11,11,11|8,7,5,9",R64,GRAND_SLAM,WS,799,Main Draw,PAOVIC Sandra (CRO),SUN Beibei (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,FUKUHARA Ai,PAN Chun-Chu,4,1,"11,11,11,10,11|5,3,7,12,9",R64,GRAND_SLAM,WS,799,Main Draw,FUKUHARA Ai (JPN),PAN Chun-Chu (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHANG Chenchen,TAN Paey Fern,4,2,"11,11,11,5,1,11|8,8,6,11,11,7",R64,GRAND_SLAM,WS,799,Main Draw,CHANG Chenchen (CHN),TAN Paey Fern (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,LEE Eunhee,KOMWONG Nanthana,4,1,"8,11,11,11,12|11,2,8,7,10",R64,GRAND_SLAM,WS,799,Main Draw,LEE Eunhee (KOR),KOMWONG Nanthana (THA)
-Pro Tour VW Open Singapore 2008,2008-06-04,KIM Kyungah,HUANG Crystal Xi,4,2,"11,13,14,11,9,13|7,11,16,8,11,11",R64,GRAND_SLAM,WS,799,Main Draw,KIM Kyungah (KOR),HUANG Crystal Xi (USA)
-Pro Tour VW Open Singapore 2008,2008-06-04,FENG Tianwei,BEH Lee Wei,4,0,"11,11,11,11|8,4,4,5",R64,GRAND_SLAM,WS,799,Main Draw,FENG Tianwei (SGP),BEH Lee Wei (MAS)
-Pro Tour VW Open Singapore 2008,2008-06-04,PAVLOVICH Viktoria,LIN Chia-Hui,4,0,"14,11,11,11|12,9,6,2",R64,GRAND_SLAM,WS,799,Main Draw,PAVLOVICH Viktoria (BLR),LIN Chia-Hui (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,SHEN Yanfei,CHENG I-Ching,4,0,"14,11,11,11|12,5,7,7",R64,GRAND_SLAM,WS,799,Main Draw,SHEN Yanfei (ESP),CHENG I-Ching (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,HIRANO Sayaka,SKOV Mie,4,0,"16,11,18,11|14,2,16,5",R64,GRAND_SLAM,WS,799,Main Draw,HIRANO Sayaka (JPN),SKOV Mie (DEN)
-Pro Tour VW Open Singapore 2008,2008-06-04,LIU Jia,CHIU Soo Jiin,4,1,"12,11,11,8,11|10,7,6,11,5",R64,GRAND_SLAM,WS,799,Main Draw,LIU Jia (AUT),CHIU Soo Jiin (MAS)
-Pro Tour VW Open Singapore 2008,2008-06-04,NI Xia Lian,YU Kwok See,4,0,"11,12,11,11|8,10,9,7",R64,GRAND_SLAM,WS,799,Main Draw,NI Xia Lian (LUX),YU Kwok See (HKG)
-Pro Tour VW Open Singapore 2008,2008-06-04,FUKUOKA Haruna,SAMARA Elizabeta,4,2,"11,11,7,8,11,11|9,2,11,11,4,2",R64,GRAND_SLAM,WS,799,Main Draw,FUKUOKA Haruna (JPN),SAMARA Elizabeta (ROU)
-Pro Tour VW Open Singapore 2008,2008-06-04,LI Jiawei,DVORAK Galia,4,2,"11,11,9,8,11,11|4,4,11,11,6,9",R64,GRAND_SLAM,WS,799,Main Draw,LI Jiawei (SGP),DVORAK Galia (ESP)
-Pro Tour VW Open Singapore 2008,2008-06-04,WANG Yuegu,MIKHAYLOVA Olga,4,0,"11,11,11,11|7,3,5,4",R64,GRAND_SLAM,WS,799,Main Draw,WANG Yuegu (SGP),MIKHAYLOVA Olga (RUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,YU Mengyu,BARTHEL Zhenqi,4,2,"11,9,9,11,11,11|6,11,11,7,9,5",R64,GRAND_SLAM,WS,799,Main Draw,YU Mengyu (SGP),BARTHEL Zhenqi (GER)
-Pro Tour VW Open Singapore 2008,2008-06-04,YAO Yan,HIURA Reiko,4,1,"7,11,11,11,11|11,9,4,6,6",R64,GRAND_SLAM,WS,799,Main Draw,YAO Yan (CHN),HIURA Reiko (JPN)
-Pro Tour VW Open Singapore 2008,2008-06-04,LIU Shiwen,MUANGSUK Anisara,4,0,"11,11,11,11|7,6,5,2",R64,GRAND_SLAM,WS,799,Main Draw,LIU Shiwen (CHN),MUANGSUK Anisara (THA)
-Pro Tour VW Open Singapore 2008,2008-06-04,WANG Chen,KOZLOVSKAIAI Anna,4,2,"11,11,8,8,11,11|8,3,11,11,6,5",R64,GRAND_SLAM,WS,799,Main Draw,WANG Chen (USA),KOZLOVSKAIAI Anna (RUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,SCHALL Elke,HU Melek,4,3,"6,5,11,11,5,11,11|11,11,7,5,11,6,6",R64,GRAND_SLAM,WS,799,Main Draw,SCHALL Elke (GER),HU Melek (TUR)
-Pro Tour VW Open Singapore 2008,2008-06-04,ISHIKAWA Kasumi,DANG Yeseo,4,2,"11,9,11,5,12,11|8,11,7,11,10,9",R64,GRAND_SLAM,WS,799,Main Draw,ISHIKAWA Kasumi (JPN),DANG Yeseo (KOR)
-Pro Tour VW Open Singapore 2008,2008-06-04,LIN Ling,YILDIRIM Fulya,4,2,"11,11,11,8,9,11|8,5,4,11,11,6",R64,GRAND_SLAM,WS,799,Main Draw,LIN Ling (HKG),YILDIRIM Fulya (TUR)
-Pro Tour VW Open Singapore 2008,2008-06-04,JIANG Huajun,LIU Hsing-Yin,4,0,"11,11,11,11|5,6,7,5",R64,GRAND_SLAM,WS,799,Main Draw,JIANG Huajun (HKG),LIU Hsing-Yin (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,GAO Jun,XIAN Yifang,4,2,"11,12,6,9,11,11|2,10,11,11,8,3",R64,GRAND_SLAM,WS,799,Main Draw,GAO Jun (USA),XIAN Yifang (FRA)
-Pro Tour VW Open Singapore 2008,2008-06-04,ZHU Fang,ZHANG Rui,4,0,"11,11,11,12|5,4,8,10",R64,GRAND_SLAM,WS,799,Main Draw,ZHU Fang (ESP),ZHANG Rui (HKG)
-Pro Tour VW Open Singapore 2008,2008-06-04,PARK Miyoung,KRAMER Tanja,4,1,"12,11,17,13,11|14,8,15,11,4",R64,GRAND_SLAM,WS,799,Main Draw,PARK Miyoung (KOR),KRAMER Tanja (GER)
-Pro Tour VW Open Singapore 2008,2008-06-04,TIE Yana,TERUI Moemi,4,1,"11,11,11,7,11|4,7,9,11,3",R64,GRAND_SLAM,WS,799,Main Draw,TIE Yana (HKG),TERUI Moemi (JPN)
-Pro Tour VW Open Singapore 2008,2008-06-04,HUANG Yi-Hua,KO Somi,4,2,"13,7,9,11,13,11|11,11,11,7,11,6",R64,GRAND_SLAM,WS,799,Main Draw,HUANG Yi-Hua (TPE),KO Somi (KOR)
-Pro Tour VW Open Singapore 2008,2008-06-04,DODEAN Daniela,SUH Hyo Won,4,0,"11,11,11,18|7,8,9,16",R64,GRAND_SLAM,WS,799,Main Draw,DODEAN Daniela (ROU),SUH Hyo Won (KOR)
-Pro Tour VW Open Singapore 2008,2008-06-04,GUO Yan (1982),PROKHOROVA Yulia,4,0,"11,11,11,11|6,6,9,6",R64,GRAND_SLAM,WS,799,Main Draw,GUO Yan (1982) (CHN),PROKHOROVA Yulia (RUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,LI Xiaoxia,LI Qiangbing,4,0,"11,11,11,11|8,4,6,3",R32,GRAND_SLAM,WS,799,Main Draw,LI Xiaoxia (CHN),LI Qiangbing (AUT)
-Pro Tour VW Open Singapore 2008,2008-06-04,FAN Ying,PAOVIC Sandra,4,0,"11,11,11,11|9,1,5,6",R32,GRAND_SLAM,WS,799,Main Draw,FAN Ying (CHN),PAOVIC Sandra (CRO)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHANG Chenchen,FUKUHARA Ai,4,1,"11,2,11,11,11|3,11,6,5,5",R32,GRAND_SLAM,WS,799,Main Draw,CHANG Chenchen (CHN),FUKUHARA Ai (JPN)
-Pro Tour VW Open Singapore 2008,2008-06-04,KIM Kyungah,LEE Eunhee,4,2,"12,6,11,4,11,11|10,11,7,11,9,9",R32,GRAND_SLAM,WS,799,Main Draw,KIM Kyungah (KOR),LEE Eunhee (KOR)
-Pro Tour VW Open Singapore 2008,2008-06-04,FENG Tianwei,PAVLOVICH Viktoria,4,3,"11,14,11,8,11,9,11|6,16,9,11,5,11,7",R32,GRAND_SLAM,WS,799,Main Draw,FENG Tianwei (SGP),PAVLOVICH Viktoria (BLR)
-Pro Tour VW Open Singapore 2008,2008-06-04,SHEN Yanfei,HIRANO Sayaka,4,0,"11,12,12,11|5,10,10,7",R32,GRAND_SLAM,WS,799,Main Draw,SHEN Yanfei (ESP),HIRANO Sayaka (JPN)
-Pro Tour VW Open Singapore 2008,2008-06-04,LIU Jia,NI Xia Lian,4,0,"11,11,11,11|9,7,6,7",R32,GRAND_SLAM,WS,799,Main Draw,LIU Jia (AUT),NI Xia Lian (LUX)
-Pro Tour VW Open Singapore 2008,2008-06-04,FUKUOKA Haruna,LI Jiawei,4,2,"14,8,5,11,11,14|12,11,11,9,6,12",R32,GRAND_SLAM,WS,799,Main Draw,FUKUOKA Haruna (JPN),LI Jiawei (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,YU Mengyu,WANG Yuegu,4,1,"11,11,11,6,11|9,9,9,11,8",R32,GRAND_SLAM,WS,799,Main Draw,YU Mengyu (SGP),WANG Yuegu (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,YAO Yan,LIU Shiwen,4,3,"9,11,6,11,11,7,11|11,8,11,7,5,11,9",R32,GRAND_SLAM,WS,799,Main Draw,YAO Yan (CHN),LIU Shiwen (CHN)
-Pro Tour VW Open Singapore 2008,2008-06-04,WANG Chen,SCHALL Elke,4,1,"9,11,11,11,11|11,4,7,7,9",R32,GRAND_SLAM,WS,799,Main Draw,WANG Chen (USA),SCHALL Elke (GER)
-Pro Tour VW Open Singapore 2008,2008-06-04,LIN Ling,ISHIKAWA Kasumi,4,1,"11,11,9,11,11|7,4,11,4,3",R32,GRAND_SLAM,WS,799,Main Draw,LIN Ling (HKG),ISHIKAWA Kasumi (JPN)
-Pro Tour VW Open Singapore 2008,2008-06-04,GAO Jun,JIANG Huajun,4,3,"11,1,11,3,8,11,12|5,11,2,11,11,7,10",R32,GRAND_SLAM,WS,799,Main Draw,GAO Jun (USA),JIANG Huajun (HKG)
-Pro Tour VW Open Singapore 2008,2008-06-04,PARK Miyoung,ZHU Fang,4,3,"4,3,6,11,11,11,11|11,11,11,8,5,8,9",R32,GRAND_SLAM,WS,799,Main Draw,PARK Miyoung (KOR),ZHU Fang (ESP)
-Pro Tour VW Open Singapore 2008,2008-06-04,TIE Yana,HUANG Yi-Hua,4,3,"11,9,6,11,11,8,11|4,11,11,7,4,11,9",R32,GRAND_SLAM,WS,799,Main Draw,TIE Yana (HKG),HUANG Yi-Hua (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,GUO Yan (1982),DODEAN Daniela,4,0,"11,11,11,11|4,0,0,0",R32,GRAND_SLAM,WS,799,Main Draw,GUO Yan (1982) (CHN),DODEAN Daniela (ROU)
-Pro Tour VW Open Singapore 2008,2008-06-04,LI Xiaoxia,FAN Ying,4,1,"7,11,11,11,11|11,7,9,4,6",R16,GRAND_SLAM,WS,799,Main Draw,LI Xiaoxia (CHN),FAN Ying (CHN)
-Pro Tour VW Open Singapore 2008,2008-06-04,KIM Kyungah,CHANG Chenchen,4,0,"11,11,11,11|8,6,8,9",R16,GRAND_SLAM,WS,799,Main Draw,KIM Kyungah (KOR),CHANG Chenchen (CHN)
-Pro Tour VW Open Singapore 2008,2008-06-04,FENG Tianwei,SHEN Yanfei,4,1,"11,11,14,11,11|4,6,12,13,8",R16,GRAND_SLAM,WS,799,Main Draw,FENG Tianwei (SGP),SHEN Yanfei (ESP)
-Pro Tour VW Open Singapore 2008,2008-06-04,LIU Jia,FUKUOKA Haruna,4,3,"8,8,12,7,11,11,11|11,11,10,11,6,6,7",R16,GRAND_SLAM,WS,799,Main Draw,LIU Jia (AUT),FUKUOKA Haruna (JPN)
-Pro Tour VW Open Singapore 2008,2008-06-04,YAO Yan,YU Mengyu,4,2,"11,9,11,11,5,11|9,11,3,9,11,3",R16,GRAND_SLAM,WS,799,Main Draw,YAO Yan (CHN),YU Mengyu (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,WANG Chen,LIN Ling,4,3,"11,11,7,8,11,10,14|9,9,11,11,7,12,12",R16,GRAND_SLAM,WS,799,Main Draw,WANG Chen (USA),LIN Ling (HKG)
-Pro Tour VW Open Singapore 2008,2008-06-04,GAO Jun,PARK Miyoung,4,2,"11,17,3,11,1,11|6,15,11,1,11,9",R16,GRAND_SLAM,WS,799,Main Draw,GAO Jun (USA),PARK Miyoung (KOR)
-Pro Tour VW Open Singapore 2008,2008-06-04,GUO Yan (1982),TIE Yana,4,1,"11,11,11,9,11|2,1,2,11,7",R16,GRAND_SLAM,WS,799,Main Draw,GUO Yan (1982) (CHN),TIE Yana (HKG)
-Pro Tour VW Open Singapore 2008,2008-06-04,LI Xiaoxia,KIM Kyungah,4,0,"11,11,11,11|4,9,7,5",QF,GRAND_SLAM,WS,799,Main Draw,LI Xiaoxia (CHN),KIM Kyungah (KOR)
-Pro Tour VW Open Singapore 2008,2008-06-04,FENG Tianwei,LIU Jia,4,1,"11,11,9,11,11|7,5,11,1,2",QF,GRAND_SLAM,WS,799,Main Draw,FENG Tianwei (SGP),LIU Jia (AUT)
-Pro Tour VW Open Singapore 2008,2008-06-04,YAO Yan,WANG Chen,4,1,"11,11,11,8,13|8,7,8,11,11",QF,GRAND_SLAM,WS,799,Main Draw,YAO Yan (CHN),WANG Chen (USA)
-Pro Tour VW Open Singapore 2008,2008-06-04,GUO Yan (1982),GAO Jun,4,0,"11,11,11,11|5,7,5,3",QF,GRAND_SLAM,WS,799,Main Draw,GUO Yan (1982) (CHN),GAO Jun (USA)
-Pro Tour VW Open Singapore 2008,2008-06-04,LI Xiaoxia,FENG Tianwei,4,0,"11,11,12,12|1,3,10,10",SF,GRAND_SLAM,WS,799,Main Draw,LI Xiaoxia (CHN),FENG Tianwei (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,GUO Yan (1982),YAO Yan,4,3,"11,6,8,11,3,11,13|4,11,11,8,11,8,11",SF,GRAND_SLAM,WS,799,Main Draw,GUO Yan (1982) (CHN),YAO Yan (CHN)
-Pro Tour VW Open Singapore 2008,2008-06-04,LI Xiaoxia,GUO Yan (1982),4,2,"11,4,11,12,7,11|7,11,7,10,11,6",F,GRAND_SLAM,WS,799,Main Draw,LI Xiaoxia (CHN),GUO Yan (1982) (CHN)
-Pro Tour VW Open Singapore 2008,2008-06-04,LIVENTSOV Alexey/RUBTSOV Igor,DAVIS Kyle/FRANK Robert,3,0,,QR32,GRAND_SLAM,MD,799,Qualification,LIVENTSOV Alexey (RUS) / RUBTSOV Igor (RUS),DAVIS Kyle (AUS) / FRANK Robert (AUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,MONTEIRO Thiago/TSUBOI Gustavo,ALHAJJAI Waled Nasser/AL-MOHANNADI Ahmad Khalil,3,0,"11,11,11|9,5,5",QR32,GRAND_SLAM,MD,799,Qualification,MONTEIRO Thiago (BRA) / TSUBOI Gustavo (BRA),ALHAJJAI Waled Nasser (QAT) / AL-MOHANNADI Ahmad Khalil (QAT)
-Pro Tour VW Open Singapore 2008,2008-06-04,MONTEIRO Thiago/TSUBOI Gustavo,JIANG Tianyi/TANG Peng,3,2,"3,8,11,11,11|11,11,7,9,9",QR16,GRAND_SLAM,MD,799,Qualification,MONTEIRO Thiago (BRA) / TSUBOI Gustavo (BRA),JIANG Tianyi (HKG) / TANG Peng (HKG)
-Pro Tour VW Open Singapore 2008,2008-06-04,MATSUDAIRA Kenji/UEDA Jin,KONGSGAARD Christian/STERNBERG Kasper,3,0,,QR32,GRAND_SLAM,MD,799,Qualification,MATSUDAIRA Kenji (JPN) / UEDA Jin (JPN),KONGSGAARD Christian (DEN) / STERNBERG Kasper (DEN)
-Pro Tour VW Open Singapore 2008,2008-06-04,JIANG Tianyi/TANG Peng,CHEN Chien-An/ASMUSSEN Jakob,3,2,"11,8,11,7,11|4,11,7,11,2",QR32,GRAND_SLAM,MD,799,Qualification,JIANG Tianyi (HKG) / TANG Peng (HKG),CHEN Chien-An (TPE) / ASMUSSEN Jakob (DEN)
-Pro Tour VW Open Singapore 2008,2008-06-04,EVANS Gavin/PITCHFORD Liam,PANG Xue Jie/ZHANG Lu,3,1,"5,11,11,11|11,6,9,6",QR64,GRAND_SLAM,MD,799,Qualification,EVANS Gavin (ENG) / PITCHFORD Liam (ENG),PANG Xue Jie (SGP) / ZHANG Lu (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,APOLONIA Tiago/FREITAS Marcos,EVANS Gavin/PITCHFORD Liam,3,0,"11,11,11|5,8,5",QR32,GRAND_SLAM,MD,799,Qualification,APOLONIA Tiago (POR) / FREITAS Marcos (POR),EVANS Gavin (ENG) / PITCHFORD Liam (ENG)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHOI Hyunjin/LEE Sang Su,BOLL Timo/SUSS Christian,3,2,"11,8,12,5,11|9,11,10,11,9",QR32,GRAND_SLAM,MD,799,Qualification,CHOI Hyunjin (KOR) / LEE Sang Su (KOR),BOLL Timo (GER) / SUSS Christian (GER)
-Pro Tour VW Open Singapore 2008,2008-06-04,FEJER-KONNERTH Zoltan/HIELSCHER Lars,AL-HASAN Ibrahem/GOLOVANOV Stanislav,3,1,"11,8,11,13|4,11,7,11",QR32,GRAND_SLAM,MD,799,Qualification,FEJER-KONNERTH Zoltan (GER) / HIELSCHER Lars (GER),AL-HASAN Ibrahem (KUW) / GOLOVANOV Stanislav (BUL)
-Pro Tour VW Open Singapore 2008,2008-06-04,OVTCHAROV Dimitrij/STEGER Bastian,GONZALES Richard/ORTALLA Henberd,3,0,"11,11,11|9,9,8",QR32,GRAND_SLAM,MD,799,Qualification,OVTCHAROV Dimitrij (GER) / STEGER Bastian (GER),GONZALES Richard (PHI) / ORTALLA Henberd (PHI)
-Pro Tour VW Open Singapore 2008,2008-06-04,JOO Saehyuk/LEE Jinkwon,FEJER-KONNERTH Zoltan/HIELSCHER Lars,3,2,"11,11,8,7,11|9,5,11,11,7",QR16,GRAND_SLAM,MD,799,Qualification,JOO Saehyuk (KOR) / LEE Jinkwon (KOR),FEJER-KONNERTH Zoltan (GER) / HIELSCHER Lars (GER)
-Pro Tour VW Open Singapore 2008,2008-06-04,OVTCHAROV Dimitrij/STEGER Bastian,MATSUDAIRA Kenji/UEDA Jin,3,2,"14,14,16,10,11|12,12,18,12,9",QR16,GRAND_SLAM,MD,799,Qualification,OVTCHAROV Dimitrij (GER) / STEGER Bastian (GER),MATSUDAIRA Kenji (JPN) / UEDA Jin (JPN)
-Pro Tour VW Open Singapore 2008,2008-06-04,FEGERL Stefan/HABESOHN Daniel,LI Kwun Ngai/TSE Ka Chun,3,0,"11,11,11|8,9,9",QR32,GRAND_SLAM,MD,799,Qualification,FEGERL Stefan (AUT) / HABESOHN Daniel (AUT),LI Kwun Ngai (HKG) / TSE Ka Chun (HKG)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHEN Qi/LI Ping,LEUNG Chu Yan/LI Ching,4,3,"8,9,11,14,5,12,11|11,11,7,12,11,10,6",SF,GRAND_SLAM,MD,799,Main Draw,CHEN Qi (CHN) / LI Ping (QAT),LEUNG Chu Yan (HKG) / LI Ching (HKG)
-Pro Tour VW Open Singapore 2008,2008-06-04,KISHIKAWA Seiya/MIZUTANI Jun,OVTCHAROV Dimitrij/STEGER Bastian,4,2,"8,16,11,12,11,11|11,14,3,14,5,5",R16,GRAND_SLAM,MD,799,Main Draw,KISHIKAWA Seiya (JPN) / MIZUTANI Jun (JPN),OVTCHAROV Dimitrij (GER) / STEGER Bastian (GER)
-Pro Tour VW Open Singapore 2008,2008-06-04,KISHIKAWA Seiya/MIZUTANI Jun,CHEUNG Yuk/KO Lai Chak,4,2,"8,11,12,10,12,11|11,8,10,12,10,9",QF,GRAND_SLAM,MD,799,Main Draw,KISHIKAWA Seiya (JPN) / MIZUTANI Jun (JPN),CHEUNG Yuk (HKG) / KO Lai Chak (HKG)
-Pro Tour VW Open Singapore 2008,2008-06-04,HAN Jimin/LEE Jungwoo,KISHIKAWA Seiya/MIZUTANI Jun,4,3,"11,7,11,6,11,8,14|8,11,5,11,7,11,12",SF,GRAND_SLAM,MD,799,Main Draw,HAN Jimin (KOR) / LEE Jungwoo (KOR),KISHIKAWA Seiya (JPN) / MIZUTANI Jun (JPN)
-Pro Tour VW Open Singapore 2008,2008-06-04,KANG Donghoon/KIM Junghoon,CORDUE John/WALLACE Simon,3,1,"11,11,9,11|3,8,11,7",QR32,GRAND_SLAM,MD,799,Qualification,KANG Donghoon (KOR) / KIM Junghoon (KOR),CORDUE John (NZL) / WALLACE Simon (NZL)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHOI Hyunjin/LEE Sang Su,PERSSON Jon/ZENG Cem,3,0,"11,11,11|7,5,4",QR16,GRAND_SLAM,MD,799,Qualification,CHOI Hyunjin (KOR) / LEE Sang Su (KOR),PERSSON Jon (SWE) / ZENG Cem (TUR)
-Pro Tour VW Open Singapore 2008,2008-06-04,APOLONIA Tiago/FREITAS Marcos,KANG Donghoon/KIM Junghoon,3,2,"8,11,11,5,14|11,6,7,11,12",QR16,GRAND_SLAM,MD,799,Qualification,APOLONIA Tiago (POR) / FREITAS Marcos (POR),KANG Donghoon (KOR) / KIM Junghoon (KOR)
-Pro Tour VW Open Singapore 2008,2008-06-04,LEUNG Chu Yan/LI Ching,CHOI Hyunjin/LEE Sang Su,4,2,"11,7,10,11,11,12|4,11,12,8,7,10",R16,GRAND_SLAM,MD,799,Main Draw,LEUNG Chu Yan (HKG) / LI Ching (HKG),CHOI Hyunjin (KOR) / LEE Sang Su (KOR)
-Pro Tour VW Open Singapore 2008,2008-06-04,HAN Jimin/LEE Jungwoo,MONTEIRO Thiago/TSUBOI Gustavo,4,0,"14,11,11,11|12,8,3,6",R16,GRAND_SLAM,MD,799,Main Draw,HAN Jimin (KOR) / LEE Jungwoo (KOR),MONTEIRO Thiago (BRA) / TSUBOI Gustavo (BRA)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHEN Qi/LI Ping,JOO Saehyuk/LEE Jinkwon,4,3,"9,11,7,11,11,7,11|11,8,11,9,4,11,7",QF,GRAND_SLAM,MD,799,Main Draw,CHEN Qi (CHN) / LI Ping (QAT),JOO Saehyuk (KOR) / LEE Jinkwon (KOR)
-Pro Tour VW Open Singapore 2008,2008-06-04,HAN Jimin/LEE Jungwoo,MA Long/WANG Liqin,4,2,"13,5,11,12,8,12|11,11,9,10,11,10",QF,GRAND_SLAM,MD,799,Main Draw,HAN Jimin (KOR) / LEE Jungwoo (KOR),MA Long (CHN) / WANG Liqin (CHN)
-Pro Tour VW Open Singapore 2008,2008-06-04,JOO Saehyuk/LEE Jinkwon,IBRAHIM Muhd Shakirin/WANG YANG Martin,3,0,"11,11,17|2,7,15",QR32,GRAND_SLAM,MD,799,Qualification,JOO Saehyuk (KOR) / LEE Jinkwon (KOR),IBRAHIM Muhd Shakirin (MAS) / WANG YANG Martin (PAR)
-Pro Tour VW Open Singapore 2008,2008-06-04,CORDUE John/WALLACE Simon,METRAN Louie/PUENTESPINA Paul,3,0,"11,11,11|6,3,5",QR64,GRAND_SLAM,MD,799,Qualification,CORDUE John (NZL) / WALLACE Simon (NZL),METRAN Louie (PHI) / PUENTESPINA Paul (PHI)
-Pro Tour VW Open Singapore 2008,2008-06-04,MA Long/WANG Liqin,APOLONIA Tiago/FREITAS Marcos,4,2,"9,11,11,17,8,11|11,5,4,15,11,8",R16,GRAND_SLAM,MD,799,Main Draw,MA Long (CHN) / WANG Liqin (CHN),APOLONIA Tiago (POR) / FREITAS Marcos (POR)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHEN Qi/LI Ping,HAN Jimin/LEE Jungwoo,4,2,"10,7,11,11,11,11|12,11,7,6,6,6",F,GRAND_SLAM,MD,799,Main Draw,CHEN Qi (CHN) / LI Ping (QAT),HAN Jimin (KOR) / LEE Jungwoo (KOR)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHEUNG Yuk/KO Lai Chak,KUZMIN Fedor/SMIRNOV Alexey,4,1,"8,11,11,11,11|11,5,5,4,6",R16,GRAND_SLAM,MD,799,Main Draw,CHEUNG Yuk (HKG) / KO Lai Chak (HKG),KUZMIN Fedor (RUS) / SMIRNOV Alexey (RUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,KUZMIN Fedor/SMIRNOV Alexey,DRINKHALL Paul/RUMGAY Gavin,3,1,"11,9,11,11|7,11,7,9",QR32,GRAND_SLAM,MD,799,Qualification,KUZMIN Fedor (RUS) / SMIRNOV Alexey (RUS),DRINKHALL Paul (ENG) / RUMGAY Gavin (SCO)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHEN Chien-An/ASMUSSEN Jakob,HAO Anlin/HO Jason,3,1,"11,4,11,11|7,11,7,7",QR64,GRAND_SLAM,MD,799,Qualification,CHEN Chien-An (TPE) / ASMUSSEN Jakob (DEN),HAO Anlin (SGP) / HO Jason (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,GUO Yi Teng/LIU Zhongze,ALAWLAQI Ahmed/ALYAFEI Mohammed,3,2,"8,11,11,12,11|11,8,8,14,7",QR32,GRAND_SLAM,MD,799,Qualification,GUO Yi Teng (SGP) / LIU Zhongze (SGP),ALAWLAQI Ahmed (QAT) / ALYAFEI Mohammed (QAT)
-Pro Tour VW Open Singapore 2008,2008-06-04,CAI Xiaoli/MA Liang,CARTER Trent/LAM Tong Hou,3,0,"11,11,12|5,8,10",QR32,GRAND_SLAM,MD,799,Qualification,CAI Xiaoli (SGP) / MA Liang (SGP),CARTER Trent (AUS) / LAM Tong Hou (MAC)
-Pro Tour VW Open Singapore 2008,2008-06-04,LIVENTSOV Alexey/RUBTSOV Igor,GUO Yi Teng/LIU Zhongze,3,1,"12,11,7,14|10,3,11,12",QR16,GRAND_SLAM,MD,799,Qualification,LIVENTSOV Alexey (RUS) / RUBTSOV Igor (RUS),GUO Yi Teng (SGP) / LIU Zhongze (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,CAI Xiaoli/MA Liang,FEGERL Stefan/HABESOHN Daniel,3,0,"11,11,11|8,7,8",QR16,GRAND_SLAM,MD,799,Qualification,CAI Xiaoli (SGP) / MA Liang (SGP),FEGERL Stefan (AUT) / HABESOHN Daniel (AUT)
-Pro Tour VW Open Singapore 2008,2008-06-04,GAO Ning/YANG Zi,LIVENTSOV Alexey/RUBTSOV Igor,4,1,"13,11,11,5,11|11,7,7,11,5",R16,GRAND_SLAM,MD,799,Main Draw,GAO Ning (SGP) / YANG Zi (SGP),LIVENTSOV Alexey (RUS) / RUBTSOV Igor (RUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHEN Qi/LI Ping,CAI Xiaoli/MA Liang,4,1,"11,11,9,11,14|7,9,11,8,12",R16,GRAND_SLAM,MD,799,Main Draw,CHEN Qi (CHN) / LI Ping (QAT),CAI Xiaoli (SGP) / MA Liang (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,LEUNG Chu Yan/LI Ching,GAO Ning/YANG Zi,4,2,"5,11,11,11,9,13|11,8,8,3,11,11",QF,GRAND_SLAM,MD,799,Main Draw,LEUNG Chu Yan (HKG) / LI Ching (HKG),GAO Ning (SGP) / YANG Zi (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHIANG Hung-Chieh/HUANG Sheng-Sheng,KREANGA Kalinikos/PAPAGEORGIOU Konstantinos,3,0,"11,11,11|7,8,8",QR32,GRAND_SLAM,MD,799,Qualification,CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE),KREANGA Kalinikos (GRE) / PAPAGEORGIOU Konstantinos (GRE)
-Pro Tour VW Open Singapore 2008,2008-06-04,KUZMIN Fedor/SMIRNOV Alexey,CHIANG Hung-Chieh/HUANG Sheng-Sheng,3,2,"11,9,9,11,11|3,11,11,3,9",QR16,GRAND_SLAM,MD,799,Qualification,KUZMIN Fedor (RUS) / SMIRNOV Alexey (RUS),CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,JOO Saehyuk/LEE Jinkwon,CHUANG Chih-Yuan/WU Chih-Chi,4,1,"11,5,11,12,11|8,11,6,10,7",R16,GRAND_SLAM,MD,799,Main Draw,JOO Saehyuk (KOR) / LEE Jinkwon (KOR),CHUANG Chih-Yuan (TPE) / WU Chih-Chi (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,KREANGA Kalinikos/PAPAGEORGIOU Konstantinos,JIANG Pengfei/MENGE Gencay,3,1,"12,2,11,11|10,11,5,9",QR64,GRAND_SLAM,MD,799,Qualification,KREANGA Kalinikos (GRE) / PAPAGEORGIOU Konstantinos (GRE),JIANG Pengfei (TUR) / MENGE Gencay (TUR)
-Pro Tour VW Open Singapore 2008,2008-06-04,PERSSON Jon/ZENG Cem,GIONIS Panagiotis/TSIOKAS Ntaniel,3,1,"9,16,11,11|11,14,1,9",QR32,GRAND_SLAM,MD,799,Qualification,PERSSON Jon (SWE) / ZENG Cem (TUR),GIONIS Panagiotis (GRE) / TSIOKAS Ntaniel (GRE)
-Pro Tour VW Open Singapore 2008,2008-06-04,HEINE Veronika/LI Qiangbing,HSU Hui-Tsun/LIN Chia-Chih,3,0,,QR32,GRAND_SLAM,WD,799,Qualification,HEINE Veronika (AUT) / LI Qiangbing (AUT),HSU Hui-Tsun (TPE) / LIN Chia-Chih (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,KRAMER Tanja/LIU Jia,LARIBA Ian/XIAN Yifang,3,0,"11,11,11|6,4,4",QR32,GRAND_SLAM,WD,799,Qualification,KRAMER Tanja (GER) / LIU Jia (AUT),LARIBA Ian (PHI) / XIAN Yifang (FRA)
-Pro Tour VW Open Singapore 2008,2008-06-04,SHEN Yanfei/YU Kwok See,HEINE Veronika/LI Qiangbing,3,0,"11,11,11|2,4,6",QR16,GRAND_SLAM,WD,799,Qualification,SHEN Yanfei (ESP) / YU Kwok See (HKG),HEINE Veronika (AUT) / LI Qiangbing (AUT)
-Pro Tour VW Open Singapore 2008,2008-06-04,KRAMER Tanja/LIU Jia,GUO Yan (1982)/LIU Shiwen,3,1,"10,12,11,11|12,10,7,5",QR16,GRAND_SLAM,WD,799,Qualification,KRAMER Tanja (GER) / LIU Jia (AUT),GUO Yan (1982) (CHN) / LIU Shiwen (CHN)
-Pro Tour VW Open Singapore 2008,2008-06-04,LIN Chia-Hui/LIU Hsing-Yin,PAVLOVICH Veronika/PAVLOVICH Viktoria,3,2,"5,11,2,11,12|11,7,11,5,10",QR32,GRAND_SLAM,WD,799,Qualification,LIN Chia-Hui (TPE) / LIU Hsing-Yin (TPE),PAVLOVICH Veronika (BLR) / PAVLOVICH Viktoria (BLR)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHANG Chenchen/LI Xiaoxia,ISHIKAWA Kasumi/TERUI Moemi,3,1,"11,11,10,12|8,4,12,10",QR16,GRAND_SLAM,WD,799,Qualification,CHANG Chenchen (CHN) / LI Xiaoxia (CHN),ISHIKAWA Kasumi (JPN) / TERUI Moemi (JPN)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHANG Chenchen/LI Xiaoxia,FUKUOKA Haruna/HIRANO Sayaka,4,0,"12,11,11,13|10,7,6,11",QF,GRAND_SLAM,WD,799,Main Draw,CHANG Chenchen (CHN) / LI Xiaoxia (CHN),FUKUOKA Haruna (JPN) / HIRANO Sayaka (JPN)
-Pro Tour VW Open Singapore 2008,2008-06-04,LI Jiawei/SUN Beibei,CHANG Chenchen/LI Xiaoxia,4,2,"12,11,15,6,14,12|14,7,13,11,12,10",SF,GRAND_SLAM,WD,799,Main Draw,LI Jiawei (SGP) / SUN Beibei (SGP),CHANG Chenchen (CHN) / LI Xiaoxia (CHN)
-Pro Tour VW Open Singapore 2008,2008-06-04,FENG Tianwei/YU Mengyu,BAKULA Andrea/PAOVIC Sandra,4,1,"12,11,10,11,11|10,6,12,9,9",R16,GRAND_SLAM,WD,799,Main Draw,FENG Tianwei (SGP) / YU Mengyu (SGP),BAKULA Andrea (CRO) / PAOVIC Sandra (CRO)
-Pro Tour VW Open Singapore 2008,2008-06-04,BARTHEL Zhenqi/SCHALL Elke,FUKUHARA Ai/HIURA Reiko,4,1,"12,7,16,11,11|10,11,14,4,8",R16,GRAND_SLAM,WD,799,Main Draw,BARTHEL Zhenqi (GER) / SCHALL Elke (GER),FUKUHARA Ai (JPN) / HIURA Reiko (JPN)
-Pro Tour VW Open Singapore 2008,2008-06-04,LI Jiawei/SUN Beibei,BARTHEL Zhenqi/SCHALL Elke,4,2,"11,11,11,10,10,11|7,2,4,12,12,5",QF,GRAND_SLAM,WD,799,Main Draw,LI Jiawei (SGP) / SUN Beibei (SGP),BARTHEL Zhenqi (GER) / SCHALL Elke (GER)
-Pro Tour VW Open Singapore 2008,2008-06-04,JIANG Huajun/ZHANG Rui,KERTAI Rita/SIBLEY Kelly,3,1,"11,9,11,11|8,11,7,5",QR32,GRAND_SLAM,WD,799,Qualification,JIANG Huajun (HKG) / ZHANG Rui (HKG),KERTAI Rita (HUN) / SIBLEY Kelly (ENG)
-Pro Tour VW Open Singapore 2008,2008-06-04,JIANG Huajun/ZHANG Rui,FAN Ying/YAO Yan,3,0,"11,11,11|9,6,2",QR16,GRAND_SLAM,WD,799,Qualification,JIANG Huajun (HKG) / ZHANG Rui (HKG),FAN Ying (CHN) / YAO Yan (CHN)
-Pro Tour VW Open Singapore 2008,2008-06-04,JIANG Huajun/ZHANG Rui,DODEAN Daniela/SAMARA Elizabeta,4,0,,R16,GRAND_SLAM,WD,799,Main Draw,JIANG Huajun (HKG) / ZHANG Rui (HKG),DODEAN Daniela (ROU) / SAMARA Elizabeta (ROU)
-Pro Tour VW Open Singapore 2008,2008-06-04,CHANG Chenchen/LI Xiaoxia,LIN Ling/TIE Yana,4,0,"11,11,11,11|7,2,4,5",R16,GRAND_SLAM,WD,799,Main Draw,CHANG Chenchen (CHN) / LI Xiaoxia (CHN),LIN Ling (HKG) / TIE Yana (HKG)
-Pro Tour VW Open Singapore 2008,2008-06-04,LI Jiawei/SUN Beibei,SHEN Yanfei/YU Kwok See,4,3,"5,11,15,11,9,7,11|11,8,13,4,11,11,7",R16,GRAND_SLAM,WD,799,Main Draw,LI Jiawei (SGP) / SUN Beibei (SGP),SHEN Yanfei (ESP) / YU Kwok See (HKG)
-Pro Tour VW Open Singapore 2008,2008-06-04,FUKUOKA Haruna/HIRANO Sayaka,GAO Jun/HUANG Crystal Xi,4,0,"11,11,11,11|8,9,8,9",R16,GRAND_SLAM,WD,799,Main Draw,FUKUOKA Haruna (JPN) / HIRANO Sayaka (JPN),GAO Jun (USA) / HUANG Crystal Xi (USA)
-Pro Tour VW Open Singapore 2008,2008-06-04,SHEN Yanfei/YU Kwok See,DANG Yeseo/KO Somi,3,2,"11,6,5,11,11|5,11,11,5,5",QR32,GRAND_SLAM,WD,799,Qualification,SHEN Yanfei (ESP) / YU Kwok See (HKG),DANG Yeseo (KOR) / KO Somi (KOR)
-Pro Tour VW Open Singapore 2008,2008-06-04,LEE Eunhee/MOON Hyunjung,ALI Meral Ildiz/HU Melek,3,0,"11,11,11|6,2,6",QR32,GRAND_SLAM,WD,799,Qualification,LEE Eunhee (KOR) / MOON Hyunjung (KOR),ALI Meral Ildiz (TUR) / HU Melek (TUR)
-Pro Tour VW Open Singapore 2008,2008-06-04,LEE Eunhee/MOON Hyunjung,DVORAK Galia/ZHU Fang,3,0,"11,11,11|9,9,3",QR16,GRAND_SLAM,WD,799,Qualification,LEE Eunhee (KOR) / MOON Hyunjung (KOR),DVORAK Galia (ESP) / ZHU Fang (ESP)
-Pro Tour VW Open Singapore 2008,2008-06-04,FUKUOKA Haruna/HIRANO Sayaka,KIM Hyonam/SUH Hyo Won,3,0,"11,13,11|8,11,6",QR16,GRAND_SLAM,WD,799,Qualification,FUKUOKA Haruna (JPN) / HIRANO Sayaka (JPN),KIM Hyonam (KOR) / SUH Hyo Won (KOR)
-Pro Tour VW Open Singapore 2008,2008-06-04,KIM Kyungah/PARK Miyoung,KRAMER Tanja/LIU Jia,4,0,"11,11,11,11|7,3,8,9",R16,GRAND_SLAM,WD,799,Main Draw,KIM Kyungah (KOR) / PARK Miyoung (KOR),KRAMER Tanja (GER) / LIU Jia (AUT)
-Pro Tour VW Open Singapore 2008,2008-06-04,KIM Kyungah/PARK Miyoung,FENG Tianwei/YU Mengyu,4,0,"11,11,11,11|4,4,7,4",QF,GRAND_SLAM,WD,799,Main Draw,KIM Kyungah (KOR) / PARK Miyoung (KOR),FENG Tianwei (SGP) / YU Mengyu (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,LEE Eunhee/MOON Hyunjung,JIANG Huajun/ZHANG Rui,4,3,"8,4,11,11,10,11,11|11,11,7,8,12,8,3",QF,GRAND_SLAM,WD,799,Main Draw,LEE Eunhee (KOR) / MOON Hyunjung (KOR),JIANG Huajun (HKG) / ZHANG Rui (HKG)
-Pro Tour VW Open Singapore 2008,2008-06-04,LEE Eunhee/MOON Hyunjung,KIM Kyungah/PARK Miyoung,4,0,"11,11,11,11|9,8,6,7",SF,GRAND_SLAM,WD,799,Main Draw,LEE Eunhee (KOR) / MOON Hyunjung (KOR),KIM Kyungah (KOR) / PARK Miyoung (KOR)
-Pro Tour VW Open Singapore 2008,2008-06-04,LI Jiawei/SUN Beibei,LEE Eunhee/MOON Hyunjung,4,1,"11,12,11,8,11|8,10,6,11,6",F,GRAND_SLAM,WD,799,Main Draw,LI Jiawei (SGP) / SUN Beibei (SGP),LEE Eunhee (KOR) / MOON Hyunjung (KOR)
-Pro Tour VW Open Singapore 2008,2008-06-04,DVORAK Galia/ZHU Fang,CHANG Ya-Chuan/CHIU Soo Jiin,3,0,"11,12,11|7,10,8",QR32,GRAND_SLAM,WD,799,Qualification,DVORAK Galia (ESP) / ZHU Fang (ESP),CHANG Ya-Chuan (TPE) / CHIU Soo Jiin (MAS)
-Pro Tour VW Open Singapore 2008,2008-06-04,BAKULA Andrea/PAOVIC Sandra,BEH Lee Wei/NG Sock Khim,3,1,"7,11,11,11|11,9,9,7",QR32,GRAND_SLAM,WD,799,Qualification,BAKULA Andrea (CRO) / PAOVIC Sandra (CRO),BEH Lee Wei (MAS) / NG Sock Khim (MAS)
-Pro Tour VW Open Singapore 2008,2008-06-04,ISHIKAWA Kasumi/TERUI Moemi,KOZLOVSKAIAI Anna/MIKHAYLOVA Olga,3,1,"11,11,8,11|4,8,11,5",QR32,GRAND_SLAM,WD,799,Qualification,ISHIKAWA Kasumi (JPN) / TERUI Moemi (JPN),KOZLOVSKAIAI Anna (RUS) / MIKHAYLOVA Olga (RUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,FUKUHARA Ai/HIURA Reiko,PROKHOROVA Yulia/VORONOVA Anastasia,3,0,"11,11,11|6,3,4",QR32,GRAND_SLAM,WD,799,Qualification,FUKUHARA Ai (JPN) / HIURA Reiko (JPN),PROKHOROVA Yulia (RUS) / VORONOVA Anastasia (RUS)
-Pro Tour VW Open Singapore 2008,2008-06-04,GUO Yan (1982)/LIU Shiwen,LIM Peixin/SIM Kai Xin Zena,3,0,"12,11,11|10,8,8",QR32,GRAND_SLAM,WD,799,Qualification,GUO Yan (1982) (CHN) / LIU Shiwen (CHN),LIM Peixin (SGP) / SIM Kai Xin Zena (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,LEE Eunhee/MOON Hyunjung,TAN Paey Fern/WANG Yuegu,4,3,"11,11,12,10,9,9,11|3,8,10,12,11,11,7",R16,GRAND_SLAM,WD,799,Main Draw,LEE Eunhee (KOR) / MOON Hyunjung (KOR),TAN Paey Fern (SGP) / WANG Yuegu (SGP)
-Pro Tour VW Open Singapore 2008,2008-06-04,FUKUOKA Haruna/HIRANO Sayaka,KOMWONG Nanthana/MUANGSUK Anisara,3,0,"11,11,13|8,5,11",QR32,GRAND_SLAM,WD,799,Qualification,FUKUOKA Haruna (JPN) / HIRANO Sayaka (JPN),KOMWONG Nanthana (THA) / MUANGSUK Anisara (THA)
-Pro Tour VW Open Singapore 2008,2008-06-04,HUANG Yi-Hua/PAN Chun-Chu,KIM Garam/PARK Seohee,3,2,"10,11,10,11,11|12,7,12,3,6",QR32,GRAND_SLAM,WD,799,Qualification,HUANG Yi-Hua (TPE) / PAN Chun-Chu (TPE),KIM Garam (KOR) / PARK Seohee (KOR)
-Pro Tour VW Open Singapore 2008,2008-06-04,KIM Hyonam/SUH Hyo Won,CHENG I-Ching/LEE I-Chen,3,0,,QR32,GRAND_SLAM,WD,799,Qualification,KIM Hyonam (KOR) / SUH Hyo Won (KOR),CHENG I-Ching (TPE) / LEE I-Chen (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,FUKUHARA Ai/HIURA Reiko,HUANG Yi-Hua/PAN Chun-Chu,3,1,"11,11,11,11|13,8,8,6",QR16,GRAND_SLAM,WD,799,Qualification,FUKUHARA Ai (JPN) / HIURA Reiko (JPN),HUANG Yi-Hua (TPE) / PAN Chun-Chu (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,BAKULA Andrea/PAOVIC Sandra,LIN Chia-Hui/LIU Hsing-Yin,3,0,"11,11,14|4,9,12",QR16,GRAND_SLAM,WD,799,Qualification,BAKULA Andrea (CRO) / PAOVIC Sandra (CRO),LIN Chia-Hui (TPE) / LIU Hsing-Yin (TPE)
-Pro Tour VW Open Singapore 2008,2008-06-04,FAN Ying/YAO Yan,YILDIRIM Fulya/OWEN Naomi,3,0,"11,11,11|5,5,5",QR32,GRAND_SLAM,WD,799,Qualification,FAN Ying (CHN) / YAO Yan (CHN),YILDIRIM Fulya (TUR) / OWEN Naomi (WAL)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Pro Tour VW Open Singapore 2008,2008-06-04,RUBTSOV Igor,JIANG Pengfei,4,2,"6,9,13,11,11,12|11,11,11,7,7,10",,GRAND_SLAM,MS,799,Qualification,RUBTSOV Igor (RUS),JIANG Pengfei (TUR),RUBTSOV Igor
+Pro Tour VW Open Singapore 2008,2008-06-04,RUBTSOV Igor,HAO Anlin,4,0,"11,11,11,11|6,5,4,5",,GRAND_SLAM,MS,799,Qualification,RUBTSOV Igor (RUS),HAO Anlin (SGP),RUBTSOV Igor
+Pro Tour VW Open Singapore 2008,2008-06-04,JIANG Pengfei,HAO Anlin,4,2,"11,11,13,11,11,11|5,13,11,13,8,6",,GRAND_SLAM,MS,799,Qualification,JIANG Pengfei (TUR),HAO Anlin (SGP),JIANG Pengfei
+Pro Tour VW Open Singapore 2008,2008-06-04,FEGERL Stefan,FEJER-KONNERTH Zoltan,4,3,"7,11,11,4,11,4,12|11,8,6,11,5,11,10",,GRAND_SLAM,MS,799,Qualification,FEGERL Stefan (AUT),FEJER-KONNERTH Zoltan (GER),FEGERL Stefan
+Pro Tour VW Open Singapore 2008,2008-06-04,KANG Donghoon,HO Jason,4,1,"11,9,11,11,11|9,11,1,6,9",,GRAND_SLAM,MS,799,Qualification,KANG Donghoon (KOR),HO Jason (SGP),KANG Donghoon
+Pro Tour VW Open Singapore 2008,2008-06-04,FEJER-KONNERTH Zoltan,KANG Donghoon,4,1,"11,11,11,7,14|6,8,5,11,12",,GRAND_SLAM,MS,799,Qualification,FEJER-KONNERTH Zoltan (GER),KANG Donghoon (KOR),FEJER-KONNERTH Zoltan
+Pro Tour VW Open Singapore 2008,2008-06-04,FEGERL Stefan,HO Jason,4,0,"11,11,11,11|8,8,5,6",,GRAND_SLAM,MS,799,Qualification,FEGERL Stefan (AUT),HO Jason (SGP),FEGERL Stefan
+Pro Tour VW Open Singapore 2008,2008-06-04,FEJER-KONNERTH Zoltan,HO Jason,4,1,"11,11,11,5,11|9,5,5,11,5",,GRAND_SLAM,MS,799,Qualification,FEJER-KONNERTH Zoltan (GER),HO Jason (SGP),FEJER-KONNERTH Zoltan
+Pro Tour VW Open Singapore 2008,2008-06-04,KANG Donghoon,FEGERL Stefan,4,2,"12,11,11,9,11,11|14,5,3,11,8,3",,GRAND_SLAM,MS,799,Qualification,KANG Donghoon (KOR),FEGERL Stefan (AUT),KANG Donghoon
+Pro Tour VW Open Singapore 2008,2008-06-04,HIELSCHER Lars,GOLOVANOV Stanislav,4,2,"10,11,11,11,11,11|12,9,9,13,4,2",,GRAND_SLAM,MS,799,Qualification,HIELSCHER Lars (GER),GOLOVANOV Stanislav (BUL),HIELSCHER Lars
+Pro Tour VW Open Singapore 2008,2008-06-04,GUO Yi Teng,ORTALLA Henberd,4,2,"13,6,11,11,11,11|11,11,8,8,13,3",,GRAND_SLAM,MS,799,Qualification,GUO Yi Teng (SGP),ORTALLA Henberd (PHI),GUO Yi Teng
+Pro Tour VW Open Singapore 2008,2008-06-04,HIELSCHER Lars,GUO Yi Teng,4,2,"11,10,7,11,11,11|8,12,11,6,1,8",,GRAND_SLAM,MS,799,Qualification,HIELSCHER Lars (GER),GUO Yi Teng (SGP),HIELSCHER Lars
+Pro Tour VW Open Singapore 2008,2008-06-04,GOLOVANOV Stanislav,ORTALLA Henberd,4,0,"11,11,11,11|6,8,4,7",,GRAND_SLAM,MS,799,Qualification,GOLOVANOV Stanislav (BUL),ORTALLA Henberd (PHI),GOLOVANOV Stanislav
+Pro Tour VW Open Singapore 2008,2008-06-04,HIELSCHER Lars,ORTALLA Henberd,4,0,"11,11,11,11|7,6,7,5",,GRAND_SLAM,MS,799,Qualification,HIELSCHER Lars (GER),ORTALLA Henberd (PHI),HIELSCHER Lars
+Pro Tour VW Open Singapore 2008,2008-06-04,GOLOVANOV Stanislav,GUO Yi Teng,4,2,"11,11,11,11,6,11|5,7,5,13,11,9",,GRAND_SLAM,MS,799,Qualification,GOLOVANOV Stanislav (BUL),GUO Yi Teng (SGP),GOLOVANOV Stanislav
+Pro Tour VW Open Singapore 2008,2008-06-04,CHOI Hyunjin,STERNBERG Kasper,4,3,"8,12,14,6,11,11,13|11,10,16,11,7,6,11",,GRAND_SLAM,MS,799,Qualification,CHOI Hyunjin (KOR),STERNBERG Kasper (DEN),CHOI Hyunjin
+Pro Tour VW Open Singapore 2008,2008-06-04,AL-HASAN Ibrahem,METRAN Louie,4,0,"11,11,11,11|6,1,3,4",,GRAND_SLAM,MS,799,Qualification,AL-HASAN Ibrahem (KUW),METRAN Louie (PHI),AL-HASAN Ibrahem
+Pro Tour VW Open Singapore 2008,2008-06-04,CHOI Hyunjin,AL-HASAN Ibrahem,4,2,"11,15,8,11,11,11|9,13,11,6,13,8",,GRAND_SLAM,MS,799,Qualification,CHOI Hyunjin (KOR),AL-HASAN Ibrahem (KUW),CHOI Hyunjin
+Pro Tour VW Open Singapore 2008,2008-06-04,STERNBERG Kasper,METRAN Louie,4,0,"11,11,11,11|1,1,5,3",,GRAND_SLAM,MS,799,Qualification,STERNBERG Kasper (DEN),METRAN Louie (PHI),STERNBERG Kasper
+Pro Tour VW Open Singapore 2008,2008-06-04,CHOI Hyunjin,METRAN Louie,4,0,"11,11,11,11|5,2,3,6",,GRAND_SLAM,MS,799,Qualification,CHOI Hyunjin (KOR),METRAN Louie (PHI),CHOI Hyunjin
+Pro Tour VW Open Singapore 2008,2008-06-04,AL-HASAN Ibrahem,STERNBERG Kasper,4,2,"11,11,7,6,12,11|6,8,11,11,10,5",,GRAND_SLAM,MS,799,Qualification,AL-HASAN Ibrahem (KUW),STERNBERG Kasper (DEN),AL-HASAN Ibrahem
+Pro Tour VW Open Singapore 2008,2008-06-04,APOLONIA Tiago,ASMUSSEN Jakob,4,0,"11,20,11,11|6,18,7,9",,GRAND_SLAM,MS,799,Qualification,APOLONIA Tiago (POR),ASMUSSEN Jakob (DEN),APOLONIA Tiago
+Pro Tour VW Open Singapore 2008,2008-06-04,RUMGAY Gavin,GONZALES Richard,4,1,"10,11,11,11,13|12,6,7,5,11",,GRAND_SLAM,MS,799,Qualification,RUMGAY Gavin (SCO),GONZALES Richard (PHI),RUMGAY Gavin
+Pro Tour VW Open Singapore 2008,2008-06-04,APOLONIA Tiago,RUMGAY Gavin,4,1,"12,9,11,11,11|10,11,6,6,8",,GRAND_SLAM,MS,799,Qualification,APOLONIA Tiago (POR),RUMGAY Gavin (SCO),APOLONIA Tiago
+Pro Tour VW Open Singapore 2008,2008-06-04,ASMUSSEN Jakob,GONZALES Richard,4,3,"13,11,1,11,4,4,12|11,9,11,8,11,11,10",,GRAND_SLAM,MS,799,Qualification,ASMUSSEN Jakob (DEN),GONZALES Richard (PHI),ASMUSSEN Jakob
+Pro Tour VW Open Singapore 2008,2008-06-04,APOLONIA Tiago,GONZALES Richard,4,1,"11,12,11,10,11|7,10,5,12,7",,GRAND_SLAM,MS,799,Qualification,APOLONIA Tiago (POR),GONZALES Richard (PHI),APOLONIA Tiago
+Pro Tour VW Open Singapore 2008,2008-06-04,ASMUSSEN Jakob,RUMGAY Gavin,4,1,"11,11,17,15,12|9,8,15,17,10",,GRAND_SLAM,MS,799,Qualification,ASMUSSEN Jakob (DEN),RUMGAY Gavin (SCO),ASMUSSEN Jakob
+Pro Tour VW Open Singapore 2008,2008-06-04,CHIANG Hung-Chieh,TSE Ka Chun,4,1,"11,12,12,5,11|6,10,10,11,4",,GRAND_SLAM,MS,799,Qualification,CHIANG Hung-Chieh (TPE),TSE Ka Chun (HKG),CHIANG Hung-Chieh
+Pro Tour VW Open Singapore 2008,2008-06-04,LEE Sang Su,ZHANG Lu,4,2,"11,7,11,11,11,11|8,11,6,13,5,5",,GRAND_SLAM,MS,799,Qualification,LEE Sang Su (KOR),ZHANG Lu (SGP),LEE Sang Su
+Pro Tour VW Open Singapore 2008,2008-06-04,CHIANG Hung-Chieh,LEE Sang Su,4,2,"11,11,7,11,4,11|0,9,11,8,11,2",,GRAND_SLAM,MS,799,Qualification,CHIANG Hung-Chieh (TPE),LEE Sang Su (KOR),CHIANG Hung-Chieh
+Pro Tour VW Open Singapore 2008,2008-06-04,ZHANG Lu,TSE Ka Chun,4,1,"11,8,11,11,11|3,11,7,6,6",,GRAND_SLAM,MS,799,Qualification,ZHANG Lu (SGP),TSE Ka Chun (HKG),ZHANG Lu
+Pro Tour VW Open Singapore 2008,2008-06-04,CHIANG Hung-Chieh,ZHANG Lu,4,1,"11,9,11,11,11|8,11,6,6,3",,GRAND_SLAM,MS,799,Qualification,CHIANG Hung-Chieh (TPE),ZHANG Lu (SGP),CHIANG Hung-Chieh
+Pro Tour VW Open Singapore 2008,2008-06-04,LEE Sang Su,TSE Ka Chun,4,3,"11,11,5,8,11,11,12|13,5,11,11,5,7,10",,GRAND_SLAM,MS,799,Qualification,LEE Sang Su (KOR),TSE Ka Chun (HKG),LEE Sang Su
+Pro Tour VW Open Singapore 2008,2008-06-04,LEE Jinkwon,UEDA Jin,4,3,"8,11,11,16,7,11,11|11,3,6,18,11,5,6",,GRAND_SLAM,MS,799,Qualification,LEE Jinkwon (KOR),UEDA Jin (JPN),LEE Jinkwon
+Pro Tour VW Open Singapore 2008,2008-06-04,CHEN Chien-An,WANG Siliang Steven,4,0,,,GRAND_SLAM,MS,799,Qualification,CHEN Chien-An (TPE),WANG Siliang Steven (USA),CHEN Chien-An
+Pro Tour VW Open Singapore 2008,2008-06-04,LEE Jinkwon,CHEN Chien-An,4,1,"11,11,11,7,11|5,5,9,11,4",,GRAND_SLAM,MS,799,Qualification,LEE Jinkwon (KOR),CHEN Chien-An (TPE),LEE Jinkwon
+Pro Tour VW Open Singapore 2008,2008-06-04,UEDA Jin,WANG Siliang Steven,4,0,,,GRAND_SLAM,MS,799,Qualification,UEDA Jin (JPN),WANG Siliang Steven (USA),UEDA Jin
+Pro Tour VW Open Singapore 2008,2008-06-04,LEE Jinkwon,WANG Siliang Steven,4,0,,,GRAND_SLAM,MS,799,Qualification,LEE Jinkwon (KOR),WANG Siliang Steven (USA),LEE Jinkwon
+Pro Tour VW Open Singapore 2008,2008-06-04,UEDA Jin,CHEN Chien-An,4,1,"11,5,11,11,11|1,11,3,6,6",,GRAND_SLAM,MS,799,Qualification,UEDA Jin (JPN),CHEN Chien-An (TPE),UEDA Jin
+Pro Tour VW Open Singapore 2008,2008-06-04,FREITAS Marcos,DAVIS Kyle,4,0,,,GRAND_SLAM,MS,799,Qualification,FREITAS Marcos (POR),DAVIS Kyle (AUS),FREITAS Marcos
+Pro Tour VW Open Singapore 2008,2008-06-04,TANG Hua,WANG YANG Martin,4,0,"11,11,11,11|2,3,2,7",,GRAND_SLAM,MS,799,Qualification,TANG Hua (SGP),WANG YANG Martin (PAR),TANG Hua
+Pro Tour VW Open Singapore 2008,2008-06-04,FREITAS Marcos,TANG Hua,4,1,"4,11,11,11,11|11,8,9,9,7",,GRAND_SLAM,MS,799,Qualification,FREITAS Marcos (POR),TANG Hua (SGP),FREITAS Marcos
+Pro Tour VW Open Singapore 2008,2008-06-04,WANG YANG Martin,DAVIS Kyle,4,0,,,GRAND_SLAM,MS,799,Qualification,WANG YANG Martin (PAR),DAVIS Kyle (AUS),WANG YANG Martin
+Pro Tour VW Open Singapore 2008,2008-06-04,FREITAS Marcos,WANG YANG Martin,4,0,"11,11,11,11|2,3,1,2",,GRAND_SLAM,MS,799,Qualification,FREITAS Marcos (POR),WANG YANG Martin (PAR),FREITAS Marcos
+Pro Tour VW Open Singapore 2008,2008-06-04,TANG Hua,DAVIS Kyle,4,0,,,GRAND_SLAM,MS,799,Qualification,TANG Hua (SGP),DAVIS Kyle (AUS),TANG Hua
+Pro Tour VW Open Singapore 2008,2008-06-04,TSIOKAS Ntaniel,IBRAHIM Muhd Shakirin,4,0,"11,11,11,15|6,7,6,13",,GRAND_SLAM,MS,799,Qualification,TSIOKAS Ntaniel (GRE),IBRAHIM Muhd Shakirin (MAS),TSIOKAS Ntaniel
+Pro Tour VW Open Singapore 2008,2008-06-04,KONGSGAARD Christian,PUENTESPINA Paul,4,0,"11,11,11,11|5,7,8,3",,GRAND_SLAM,MS,799,Qualification,KONGSGAARD Christian (DEN),PUENTESPINA Paul (PHI),KONGSGAARD Christian
+Pro Tour VW Open Singapore 2008,2008-06-04,TSIOKAS Ntaniel,KONGSGAARD Christian,4,3,"11,8,11,11,8,8,11|6,11,8,8,11,11,5",,GRAND_SLAM,MS,799,Qualification,TSIOKAS Ntaniel (GRE),KONGSGAARD Christian (DEN),TSIOKAS Ntaniel
+Pro Tour VW Open Singapore 2008,2008-06-04,IBRAHIM Muhd Shakirin,PUENTESPINA Paul,4,0,"11,11,11,11|6,2,4,8",,GRAND_SLAM,MS,799,Qualification,IBRAHIM Muhd Shakirin (MAS),PUENTESPINA Paul (PHI),IBRAHIM Muhd Shakirin
+Pro Tour VW Open Singapore 2008,2008-06-04,TSIOKAS Ntaniel,PUENTESPINA Paul,4,0,"11,11,11,11|5,2,2,5",,GRAND_SLAM,MS,799,Qualification,TSIOKAS Ntaniel (GRE),PUENTESPINA Paul (PHI),TSIOKAS Ntaniel
+Pro Tour VW Open Singapore 2008,2008-06-04,KONGSGAARD Christian,IBRAHIM Muhd Shakirin,4,1,"13,11,15,11,11|15,6,13,6,5",,GRAND_SLAM,MS,799,Qualification,KONGSGAARD Christian (DEN),IBRAHIM Muhd Shakirin (MAS),KONGSGAARD Christian
+Pro Tour VW Open Singapore 2008,2008-06-04,LIVENTSOV Alexey,MENGE Gencay,4,0,"11,11,11,11|7,5,7,7",,GRAND_SLAM,MS,799,Qualification,LIVENTSOV Alexey (RUS),MENGE Gencay (TUR),LIVENTSOV Alexey
+Pro Tour VW Open Singapore 2008,2008-06-04,HAN Jimin,ALAWLAQI Ahmed,4,0,"11,11,11,11|4,4,7,6",,GRAND_SLAM,MS,799,Qualification,HAN Jimin (KOR),ALAWLAQI Ahmed (QAT),HAN Jimin
+Pro Tour VW Open Singapore 2008,2008-06-04,LIVENTSOV Alexey,HAN Jimin,4,2,"3,9,11,11,11,11|11,11,4,4,5,9",,GRAND_SLAM,MS,799,Qualification,LIVENTSOV Alexey (RUS),HAN Jimin (KOR),LIVENTSOV Alexey
+Pro Tour VW Open Singapore 2008,2008-06-04,MENGE Gencay,ALAWLAQI Ahmed,4,1,"11,11,14,9,11|6,7,12,11,6",,GRAND_SLAM,MS,799,Qualification,MENGE Gencay (TUR),ALAWLAQI Ahmed (QAT),MENGE Gencay
+Pro Tour VW Open Singapore 2008,2008-06-04,LIVENTSOV Alexey,ALAWLAQI Ahmed,4,0,"11,11,11,11|4,7,1,4",,GRAND_SLAM,MS,799,Qualification,LIVENTSOV Alexey (RUS),ALAWLAQI Ahmed (QAT),LIVENTSOV Alexey
+Pro Tour VW Open Singapore 2008,2008-06-04,HAN Jimin,MENGE Gencay,4,1,"9,12,11,11,11|11,10,4,7,6",,GRAND_SLAM,MS,799,Qualification,HAN Jimin (KOR),MENGE Gencay (TUR),HAN Jimin
+Pro Tour VW Open Singapore 2008,2008-06-04,LI Kwun Ngai,HABESOHN Daniel,4,3,"11,11,10,11,6,9,11|5,9,12,8,11,11,5",,GRAND_SLAM,MS,799,Qualification,LI Kwun Ngai (HKG),HABESOHN Daniel (AUT),LI Kwun Ngai
+Pro Tour VW Open Singapore 2008,2008-06-04,PERSSON Jon,PANG Xue Jie,4,0,"11,11,11,11|5,6,8,6",,GRAND_SLAM,MS,799,Qualification,PERSSON Jon (SWE),PANG Xue Jie (SGP),PERSSON Jon
+Pro Tour VW Open Singapore 2008,2008-06-04,PERSSON Jon,HABESOHN Daniel,4,0,"11,11,11,12|7,6,7,10",,GRAND_SLAM,MS,799,Qualification,PERSSON Jon (SWE),HABESOHN Daniel (AUT),PERSSON Jon
+Pro Tour VW Open Singapore 2008,2008-06-04,PANG Xue Jie,LI Kwun Ngai,4,3,"11,8,12,12,5,3,11|9,11,10,10,11,11,8",,GRAND_SLAM,MS,799,Qualification,PANG Xue Jie (SGP),LI Kwun Ngai (HKG),PANG Xue Jie
+Pro Tour VW Open Singapore 2008,2008-06-04,HABESOHN Daniel,PANG Xue Jie,4,0,"11,11,11,11|8,8,6,9",,GRAND_SLAM,MS,799,Qualification,HABESOHN Daniel (AUT),PANG Xue Jie (SGP),HABESOHN Daniel
+Pro Tour VW Open Singapore 2008,2008-06-04,PERSSON Jon,LI Kwun Ngai,4,1,"12,11,11,15,11|10,9,9,17,8",,GRAND_SLAM,MS,799,Qualification,PERSSON Jon (SWE),LI Kwun Ngai (HKG),PERSSON Jon
+Pro Tour VW Open Singapore 2008,2008-06-04,TSUBOI Gustavo,CARTER Trent,4,0,,,GRAND_SLAM,MS,799,Qualification,TSUBOI Gustavo (BRA),CARTER Trent (AUS),TSUBOI Gustavo
+Pro Tour VW Open Singapore 2008,2008-06-04,PAPAGEORGIOU Konstantinos,ALYAFEI Mohammed,4,0,"11,14,11,11|5,12,5,5",,GRAND_SLAM,MS,799,Qualification,PAPAGEORGIOU Konstantinos (GRE),ALYAFEI Mohammed (QAT),PAPAGEORGIOU Konstantinos
+Pro Tour VW Open Singapore 2008,2008-06-04,PAPAGEORGIOU Konstantinos,TSUBOI Gustavo,4,3,"11,8,10,7,11,11,11|3,11,12,11,5,2,4",,GRAND_SLAM,MS,799,Qualification,PAPAGEORGIOU Konstantinos (GRE),TSUBOI Gustavo (BRA),PAPAGEORGIOU Konstantinos
+Pro Tour VW Open Singapore 2008,2008-06-04,ALYAFEI Mohammed,CARTER Trent,4,0,,,GRAND_SLAM,MS,799,Qualification,ALYAFEI Mohammed (QAT),CARTER Trent (AUS),ALYAFEI Mohammed
+Pro Tour VW Open Singapore 2008,2008-06-04,TSUBOI Gustavo,ALYAFEI Mohammed,4,1,"11,11,12,11,11|13,5,10,6,7",,GRAND_SLAM,MS,799,Qualification,TSUBOI Gustavo (BRA),ALYAFEI Mohammed (QAT),TSUBOI Gustavo
+Pro Tour VW Open Singapore 2008,2008-06-04,PAPAGEORGIOU Konstantinos,CARTER Trent,4,0,,,GRAND_SLAM,MS,799,Qualification,PAPAGEORGIOU Konstantinos (GRE),CARTER Trent (AUS),PAPAGEORGIOU Konstantinos
+Pro Tour VW Open Singapore 2008,2008-06-04,ZENG Cem,EVANS Gavin,4,0,"11,11,11,11|5,3,7,9",,GRAND_SLAM,MS,799,Qualification,ZENG Cem (TUR),EVANS Gavin (ENG),ZENG Cem
+Pro Tour VW Open Singapore 2008,2008-06-04,HUANG Sheng-Sheng,CORDUE John,4,0,"11,11,11,11|1,5,7,6",,GRAND_SLAM,MS,799,Qualification,HUANG Sheng-Sheng (TPE),CORDUE John (NZL),HUANG Sheng-Sheng
+Pro Tour VW Open Singapore 2008,2008-06-04,HUANG Sheng-Sheng,ZENG Cem,4,1,"11,15,7,11,11|8,13,11,1,5",,GRAND_SLAM,MS,799,Qualification,HUANG Sheng-Sheng (TPE),ZENG Cem (TUR),HUANG Sheng-Sheng
+Pro Tour VW Open Singapore 2008,2008-06-04,EVANS Gavin,CORDUE John,4,0,"11,11,11,11|8,8,7,6",,GRAND_SLAM,MS,799,Qualification,EVANS Gavin (ENG),CORDUE John (NZL),EVANS Gavin
+Pro Tour VW Open Singapore 2008,2008-06-04,ZENG Cem,CORDUE John,4,0,"11,11,11,11|4,1,6,8",,GRAND_SLAM,MS,799,Qualification,ZENG Cem (TUR),CORDUE John (NZL),ZENG Cem
+Pro Tour VW Open Singapore 2008,2008-06-04,HUANG Sheng-Sheng,EVANS Gavin,4,0,"11,11,11,11|6,5,4,7",,GRAND_SLAM,MS,799,Qualification,HUANG Sheng-Sheng (TPE),EVANS Gavin (ENG),HUANG Sheng-Sheng
+Pro Tour VW Open Singapore 2008,2008-06-04,LIU Zhongze,FRANK Robert,4,0,,,GRAND_SLAM,MS,799,Qualification,LIU Zhongze (SGP),FRANK Robert (AUS),LIU Zhongze
+Pro Tour VW Open Singapore 2008,2008-06-04,TSUBOGUCHI Michikazu,LAM Tong Hou,4,0,"11,11,11,11|4,3,6,6",,GRAND_SLAM,MS,799,Qualification,TSUBOGUCHI Michikazu (JPN),LAM Tong Hou (MAC),TSUBOGUCHI Michikazu
+Pro Tour VW Open Singapore 2008,2008-06-04,TSUBOGUCHI Michikazu,LIU Zhongze,4,1,"11,11,11,6,15|3,9,8,11,13",,GRAND_SLAM,MS,799,Qualification,TSUBOGUCHI Michikazu (JPN),LIU Zhongze (SGP),TSUBOGUCHI Michikazu
+Pro Tour VW Open Singapore 2008,2008-06-04,LAM Tong Hou,FRANK Robert,4,0,,,GRAND_SLAM,MS,799,Qualification,LAM Tong Hou (MAC),FRANK Robert (AUS),LAM Tong Hou
+Pro Tour VW Open Singapore 2008,2008-06-04,LIU Zhongze,LAM Tong Hou,4,0,"11,11,11,13|4,6,7,11",,GRAND_SLAM,MS,799,Qualification,LIU Zhongze (SGP),LAM Tong Hou (MAC),LIU Zhongze
+Pro Tour VW Open Singapore 2008,2008-06-04,TSUBOGUCHI Michikazu,FRANK Robert,4,0,,,GRAND_SLAM,MS,799,Qualification,TSUBOGUCHI Michikazu (JPN),FRANK Robert (AUS),TSUBOGUCHI Michikazu
+Pro Tour VW Open Singapore 2008,2008-06-04,MA Liang,AL-MOHANNADI Ahmad Khalil,4,1,"9,11,11,11,11|11,4,5,5,7",,GRAND_SLAM,MS,799,Qualification,MA Liang (SGP),AL-MOHANNADI Ahmad Khalil (QAT),MA Liang
+Pro Tour VW Open Singapore 2008,2008-06-04,MATSUDAIRA Kenji,PITCHFORD Liam,4,0,"11,11,11,12|5,5,1,10",,GRAND_SLAM,MS,799,Qualification,MATSUDAIRA Kenji (JPN),PITCHFORD Liam (ENG),MATSUDAIRA Kenji
+Pro Tour VW Open Singapore 2008,2008-06-04,MA Liang,MATSUDAIRA Kenji,4,2,"11,11,11,7,6,12|9,7,6,11,11,10",,GRAND_SLAM,MS,799,Qualification,MA Liang (SGP),MATSUDAIRA Kenji (JPN),MA Liang
+Pro Tour VW Open Singapore 2008,2008-06-04,AL-MOHANNADI Ahmad Khalil,PITCHFORD Liam,4,3,"11,9,9,11,11,7,11|9,11,11,9,8,11,7",,GRAND_SLAM,MS,799,Qualification,AL-MOHANNADI Ahmad Khalil (QAT),PITCHFORD Liam (ENG),AL-MOHANNADI Ahmad Khalil
+Pro Tour VW Open Singapore 2008,2008-06-04,MA Liang,PITCHFORD Liam,4,0,"11,11,11,11|4,7,9,2",,GRAND_SLAM,MS,799,Qualification,MA Liang (SGP),PITCHFORD Liam (ENG),MA Liang
+Pro Tour VW Open Singapore 2008,2008-06-04,MATSUDAIRA Kenji,AL-MOHANNADI Ahmad Khalil,4,0,"11,12,11,11|8,10,6,4",,GRAND_SLAM,MS,799,Qualification,MATSUDAIRA Kenji (JPN),AL-MOHANNADI Ahmad Khalil (QAT),MATSUDAIRA Kenji
+Pro Tour VW Open Singapore 2008,2008-06-04,DRINKHALL Paul,ALHAJJAI Waled Nasser,4,1,"12,11,8,11,11|10,5,11,7,9",,GRAND_SLAM,MS,799,Qualification,DRINKHALL Paul (ENG),ALHAJJAI Waled Nasser (QAT),DRINKHALL Paul
+Pro Tour VW Open Singapore 2008,2008-06-04,CAI Xiaoli,WALLACE Simon,4,0,"11,11,11,11|6,3,5,5",,GRAND_SLAM,MS,799,Qualification,CAI Xiaoli (SGP),WALLACE Simon (NZL),CAI Xiaoli
+Pro Tour VW Open Singapore 2008,2008-06-04,CAI Xiaoli,DRINKHALL Paul,4,3,"11,7,11,11,8,8,11|9,11,6,9,11,11,6",,GRAND_SLAM,MS,799,Qualification,CAI Xiaoli (SGP),DRINKHALL Paul (ENG),CAI Xiaoli
+Pro Tour VW Open Singapore 2008,2008-06-04,ALHAJJAI Waled Nasser,WALLACE Simon,4,0,"11,11,11,11|9,7,7,6",,GRAND_SLAM,MS,799,Qualification,ALHAJJAI Waled Nasser (QAT),WALLACE Simon (NZL),ALHAJJAI Waled Nasser
+Pro Tour VW Open Singapore 2008,2008-06-04,DRINKHALL Paul,WALLACE Simon,4,0,"11,11,11,11|9,7,7,4",,GRAND_SLAM,MS,799,Qualification,DRINKHALL Paul (ENG),WALLACE Simon (NZL),DRINKHALL Paul
+Pro Tour VW Open Singapore 2008,2008-06-04,CAI Xiaoli,ALHAJJAI Waled Nasser,4,1,"10,11,11,11,11|12,7,4,1,7",,GRAND_SLAM,MS,799,Qualification,CAI Xiaoli (SGP),ALHAJJAI Waled Nasser (QAT),CAI Xiaoli
+Pro Tour VW Open Singapore 2008,2008-06-04,AL-MOHANNADI Ahmad Khalil,FRANK Robert,4,0,,,GRAND_SLAM,U21MS,799,Qualification,AL-MOHANNADI Ahmad Khalil (QAT),FRANK Robert (AUS),AL-MOHANNADI Ahmad Khalil
+Pro Tour VW Open Singapore 2008,2008-06-04,HAN Jimin,AL-MOHANNADI Ahmad Khalil,3,0,"11,11,11|4,4,3",,GRAND_SLAM,U21MS,799,Qualification,HAN Jimin (KOR),AL-MOHANNADI Ahmad Khalil (QAT),HAN Jimin
+Pro Tour VW Open Singapore 2008,2008-06-04,HAN Jimin,FRANK Robert,4,0,,,GRAND_SLAM,U21MS,799,Qualification,HAN Jimin (KOR),FRANK Robert (AUS),HAN Jimin
+Pro Tour VW Open Singapore 2008,2008-06-04,CHEN Chien-An,TEO Yiquan Bob,3,0,"11,11,11|6,4,3",,GRAND_SLAM,U21MS,799,Qualification,CHEN Chien-An (TPE),TEO Yiquan Bob (SGP),CHEN Chien-An
+Pro Tour VW Open Singapore 2008,2008-06-04,EVANS Gavin,ALHAJJAI Waled Nasser,3,2,"11,7,12,9,11|9,11,10,11,9",,GRAND_SLAM,U21MS,799,Qualification,EVANS Gavin (ENG),ALHAJJAI Waled Nasser (QAT),EVANS Gavin
+Pro Tour VW Open Singapore 2008,2008-06-04,CHEN Chien-An,ALHAJJAI Waled Nasser,3,0,"11,11,11|6,4,9",,GRAND_SLAM,U21MS,799,Qualification,CHEN Chien-An (TPE),ALHAJJAI Waled Nasser (QAT),CHEN Chien-An
+Pro Tour VW Open Singapore 2008,2008-06-04,EVANS Gavin,TEO Yiquan Bob,3,1,"11,10,11,11|4,12,8,6",,GRAND_SLAM,U21MS,799,Qualification,EVANS Gavin (ENG),TEO Yiquan Bob (SGP),EVANS Gavin
+Pro Tour VW Open Singapore 2008,2008-06-04,CHEN Chien-An,EVANS Gavin,3,0,"11,12,11|3,10,8",,GRAND_SLAM,U21MS,799,Qualification,CHEN Chien-An (TPE),EVANS Gavin (ENG),CHEN Chien-An
+Pro Tour VW Open Singapore 2008,2008-06-04,TEO Yiquan Bob,ALHAJJAI Waled Nasser,3,1,"7,13,13,11|11,11,11,8",,GRAND_SLAM,U21MS,799,Qualification,TEO Yiquan Bob (SGP),ALHAJJAI Waled Nasser (QAT),TEO Yiquan Bob
+Pro Tour VW Open Singapore 2008,2008-06-04,GUO Yi Teng,WANG YANG Martin,3,0,"11,11,11|6,6,7",,GRAND_SLAM,U21MS,799,Qualification,GUO Yi Teng (SGP),WANG YANG Martin (PAR),GUO Yi Teng
+Pro Tour VW Open Singapore 2008,2008-06-04,PITCHFORD Liam,CARTER Trent,4,0,,,GRAND_SLAM,U21MS,799,Qualification,PITCHFORD Liam (ENG),CARTER Trent (AUS),PITCHFORD Liam
+Pro Tour VW Open Singapore 2008,2008-06-04,GUO Yi Teng,PITCHFORD Liam,3,1,"6,16,11,11|11,14,7,9",,GRAND_SLAM,U21MS,799,Qualification,GUO Yi Teng (SGP),PITCHFORD Liam (ENG),GUO Yi Teng
+Pro Tour VW Open Singapore 2008,2008-06-04,WANG YANG Martin,CARTER Trent,4,0,,,GRAND_SLAM,U21MS,799,Qualification,WANG YANG Martin (PAR),CARTER Trent (AUS),WANG YANG Martin
+Pro Tour VW Open Singapore 2008,2008-06-04,GUO Yi Teng,CARTER Trent,4,0,,,GRAND_SLAM,U21MS,799,Qualification,GUO Yi Teng (SGP),CARTER Trent (AUS),GUO Yi Teng
+Pro Tour VW Open Singapore 2008,2008-06-04,PITCHFORD Liam,WANG YANG Martin,3,0,"11,11,11|7,3,6",,GRAND_SLAM,U21MS,799,Qualification,PITCHFORD Liam (ENG),WANG YANG Martin (PAR),PITCHFORD Liam
+Pro Tour VW Open Singapore 2008,2008-06-04,KANG Donghoon,CHONG Hur Ying Darren,3,0,"11,11,11|6,7,4",,GRAND_SLAM,U21MS,799,Qualification,KANG Donghoon (KOR),CHONG Hur Ying Darren (SGP),KANG Donghoon
+Pro Tour VW Open Singapore 2008,2008-06-04,LI Kwun Ngai,WONG Daniel,3,0,"11,11,11|6,6,4",,GRAND_SLAM,U21MS,799,Qualification,LI Kwun Ngai (HKG),WONG Daniel (SGP),LI Kwun Ngai
+Pro Tour VW Open Singapore 2008,2008-06-04,KANG Donghoon,WONG Daniel,3,0,"11,11,11|2,2,2",,GRAND_SLAM,U21MS,799,Qualification,KANG Donghoon (KOR),WONG Daniel (SGP),KANG Donghoon
+Pro Tour VW Open Singapore 2008,2008-06-04,LI Kwun Ngai,CHONG Hur Ying Darren,3,1,"11,9,11,11|8,11,5,4",,GRAND_SLAM,U21MS,799,Qualification,LI Kwun Ngai (HKG),CHONG Hur Ying Darren (SGP),LI Kwun Ngai
+Pro Tour VW Open Singapore 2008,2008-06-04,KANG Donghoon,LI Kwun Ngai,3,1,"11,9,11,11|9,11,7,8",,GRAND_SLAM,U21MS,799,Qualification,KANG Donghoon (KOR),LI Kwun Ngai (HKG),KANG Donghoon
+Pro Tour VW Open Singapore 2008,2008-06-04,CHONG Hur Ying Darren,WONG Daniel,3,1,"11,11,11,11|13,8,9,5",,GRAND_SLAM,U21MS,799,Qualification,CHONG Hur Ying Darren (SGP),WONG Daniel (SGP),CHONG Hur Ying Darren
+Pro Tour VW Open Singapore 2008,2008-06-04,JIANG Pengfei,HO Jason,3,2,"6,11,11,4,11|11,8,4,11,8",,GRAND_SLAM,U21MS,799,Qualification,JIANG Pengfei (TUR),HO Jason (SGP),JIANG Pengfei
+Pro Tour VW Open Singapore 2008,2008-06-04,LEE Tien Hoe Clarence,DAVIS Kyle,4,0,,,GRAND_SLAM,U21MS,799,Qualification,LEE Tien Hoe Clarence (SGP),DAVIS Kyle (AUS),LEE Tien Hoe Clarence
+Pro Tour VW Open Singapore 2008,2008-06-04,JIANG Pengfei,LEE Tien Hoe Clarence,3,0,"11,17,11|4,15,4",,GRAND_SLAM,U21MS,799,Qualification,JIANG Pengfei (TUR),LEE Tien Hoe Clarence (SGP),JIANG Pengfei
+Pro Tour VW Open Singapore 2008,2008-06-04,HO Jason,DAVIS Kyle,4,0,,,GRAND_SLAM,U21MS,799,Qualification,HO Jason (SGP),DAVIS Kyle (AUS),HO Jason
+Pro Tour VW Open Singapore 2008,2008-06-04,JIANG Pengfei,DAVIS Kyle,4,0,,,GRAND_SLAM,U21MS,799,Qualification,JIANG Pengfei (TUR),DAVIS Kyle (AUS),JIANG Pengfei
+Pro Tour VW Open Singapore 2008,2008-06-04,LEE Tien Hoe Clarence,HO Jason,3,2,"11,11,7,8,11|5,8,11,11,4",,GRAND_SLAM,U21MS,799,Qualification,LEE Tien Hoe Clarence (SGP),HO Jason (SGP),LEE Tien Hoe Clarence
+Pro Tour VW Open Singapore 2008,2008-06-04,FEGERL Stefan,LIM Jie Yan,3,0,"11,12,11|3,10,6",,GRAND_SLAM,U21MS,799,Qualification,FEGERL Stefan (AUT),LIM Jie Yan (SGP),FEGERL Stefan
+Pro Tour VW Open Singapore 2008,2008-06-04,MENGE Gencay,ALYAFEI Mohammed,3,2,"10,11,11,8,11|12,7,7,11,3",,GRAND_SLAM,U21MS,799,Qualification,MENGE Gencay (TUR),ALYAFEI Mohammed (QAT),MENGE Gencay
+Pro Tour VW Open Singapore 2008,2008-06-04,FEGERL Stefan,ALYAFEI Mohammed,3,0,"11,11,11|8,8,9",,GRAND_SLAM,U21MS,799,Qualification,FEGERL Stefan (AUT),ALYAFEI Mohammed (QAT),FEGERL Stefan
+Pro Tour VW Open Singapore 2008,2008-06-04,MENGE Gencay,LIM Jie Yan,3,0,"11,11,11|9,5,9",,GRAND_SLAM,U21MS,799,Qualification,MENGE Gencay (TUR),LIM Jie Yan (SGP),MENGE Gencay
+Pro Tour VW Open Singapore 2008,2008-06-04,FEGERL Stefan,MENGE Gencay,3,0,"13,11,11|11,4,6",,GRAND_SLAM,U21MS,799,Qualification,FEGERL Stefan (AUT),MENGE Gencay (TUR),FEGERL Stefan
+Pro Tour VW Open Singapore 2008,2008-06-04,LIM Jie Yan,ALYAFEI Mohammed,3,1,"7,16,11,12|11,14,6,10",,GRAND_SLAM,U21MS,799,Qualification,LIM Jie Yan (SGP),ALYAFEI Mohammed (QAT),LIM Jie Yan
+Pro Tour VW Open Singapore 2008,2008-06-04,GOLOVANOV Stanislav,TEO Benjamin,3,0,"11,11,13|5,6,11",,GRAND_SLAM,U21MS,799,Qualification,GOLOVANOV Stanislav (BUL),TEO Benjamin (SGP),GOLOVANOV Stanislav
+Pro Tour VW Open Singapore 2008,2008-06-04,ASMUSSEN Jakob,PANG Xue Jie,3,1,"11,11,8,11|9,6,11,7",,GRAND_SLAM,U21MS,799,Qualification,ASMUSSEN Jakob (DEN),PANG Xue Jie (SGP),ASMUSSEN Jakob
+Pro Tour VW Open Singapore 2008,2008-06-04,GOLOVANOV Stanislav,PANG Xue Jie,3,0,"11,12,11|8,10,8",,GRAND_SLAM,U21MS,799,Qualification,GOLOVANOV Stanislav (BUL),PANG Xue Jie (SGP),GOLOVANOV Stanislav
+Pro Tour VW Open Singapore 2008,2008-06-04,ASMUSSEN Jakob,TEO Benjamin,3,1,"9,11,11,11|11,2,6,8",,GRAND_SLAM,U21MS,799,Qualification,ASMUSSEN Jakob (DEN),TEO Benjamin (SGP),ASMUSSEN Jakob
+Pro Tour VW Open Singapore 2008,2008-06-04,ASMUSSEN Jakob,GOLOVANOV Stanislav,3,2,"11,8,3,11,14|9,11,11,9,12",,GRAND_SLAM,U21MS,799,Qualification,ASMUSSEN Jakob (DEN),GOLOVANOV Stanislav (BUL),ASMUSSEN Jakob
+Pro Tour VW Open Singapore 2008,2008-06-04,PANG Xue Jie,TEO Benjamin,3,1,"11,11,11,11|4,13,5,8",,GRAND_SLAM,U21MS,799,Qualification,PANG Xue Jie (SGP),TEO Benjamin (SGP),PANG Xue Jie
+Pro Tour VW Open Singapore 2008,2008-06-04,STERNBERG Kasper,GOH Yi Long,3,0,"11,11,11|8,8,9",,GRAND_SLAM,U21MS,799,Qualification,STERNBERG Kasper (DEN),GOH Yi Long (SGP),STERNBERG Kasper
+Pro Tour VW Open Singapore 2008,2008-06-04,UEDA Jin,ALAWLAQI Ahmed,3,0,"11,11,11|2,3,4",,GRAND_SLAM,U21MS,799,Qualification,UEDA Jin (JPN),ALAWLAQI Ahmed (QAT),UEDA Jin
+Pro Tour VW Open Singapore 2008,2008-06-04,STERNBERG Kasper,ALAWLAQI Ahmed,3,0,"11,11,11|2,9,6",,GRAND_SLAM,U21MS,799,Qualification,STERNBERG Kasper (DEN),ALAWLAQI Ahmed (QAT),STERNBERG Kasper
+Pro Tour VW Open Singapore 2008,2008-06-04,UEDA Jin,GOH Yi Long,3,0,"12,11,11|10,3,7",,GRAND_SLAM,U21MS,799,Qualification,UEDA Jin (JPN),GOH Yi Long (SGP),UEDA Jin
+Pro Tour VW Open Singapore 2008,2008-06-04,STERNBERG Kasper,UEDA Jin,3,1,"11,11,10,11|9,4,12,8",,GRAND_SLAM,U21MS,799,Qualification,STERNBERG Kasper (DEN),UEDA Jin (JPN),STERNBERG Kasper
+Pro Tour VW Open Singapore 2008,2008-06-04,ALAWLAQI Ahmed,GOH Yi Long,3,0,"12,13,14|10,11,12",,GRAND_SLAM,U21MS,799,Qualification,ALAWLAQI Ahmed (QAT),GOH Yi Long (SGP),ALAWLAQI Ahmed
+Pro Tour VW Open Singapore 2008,2008-06-04,CHIANG Hung-Chieh,ASMUSSEN Jakob,4,1,"9,11,11,11,11|11,7,9,4,9",R16,GRAND_SLAM,U21MS,799,Main Draw,CHIANG Hung-Chieh (TPE),ASMUSSEN Jakob (DEN),CHIANG Hung-Chieh
+Pro Tour VW Open Singapore 2008,2008-06-04,MA Liang,FEGERL Stefan,4,3,"4,11,6,11,11,6,11|11,3,11,8,7,11,6",R16,GRAND_SLAM,U21MS,799,Main Draw,MA Liang (SGP),FEGERL Stefan (AUT),MA Liang
+Pro Tour VW Open Singapore 2008,2008-06-04,GUO Yi Teng,DRINKHALL Paul,4,2,"11,11,11,5,5,11|8,8,9,11,11,2",R16,GRAND_SLAM,U21MS,799,Main Draw,GUO Yi Teng (SGP),DRINKHALL Paul (ENG),GUO Yi Teng
+Pro Tour VW Open Singapore 2008,2008-06-04,FREITAS Marcos,CHEN Chien-An,4,2,"11,3,10,11,11,11|8,11,12,5,5,4",R16,GRAND_SLAM,U21MS,799,Main Draw,FREITAS Marcos (POR),CHEN Chien-An (TPE),FREITAS Marcos
+Pro Tour VW Open Singapore 2008,2008-06-04,HAN Jimin,LIU Zhongze,4,2,"11,11,8,7,12,11|9,9,11,11,10,8",R16,GRAND_SLAM,U21MS,799,Main Draw,HAN Jimin (KOR),LIU Zhongze (SGP),HAN Jimin
+Pro Tour VW Open Singapore 2008,2008-06-04,MATSUDAIRA Kenji,STERNBERG Kasper,4,0,"11,11,11,11|4,8,4,4",R16,GRAND_SLAM,U21MS,799,Main Draw,MATSUDAIRA Kenji (JPN),STERNBERG Kasper (DEN),MATSUDAIRA Kenji
+Pro Tour VW Open Singapore 2008,2008-06-04,HUANG Sheng-Sheng,KANG Donghoon,4,1,"11,11,11,13,11|13,9,7,11,7",R16,GRAND_SLAM,U21MS,799,Main Draw,HUANG Sheng-Sheng (TPE),KANG Donghoon (KOR),HUANG Sheng-Sheng
+Pro Tour VW Open Singapore 2008,2008-06-04,LEE Jinkwon,JIANG Pengfei,4,0,"11,11,11,11|9,9,8,8",R16,GRAND_SLAM,U21MS,799,Main Draw,LEE Jinkwon (KOR),JIANG Pengfei (TUR),LEE Jinkwon
+Pro Tour VW Open Singapore 2008,2008-06-04,CHIANG Hung-Chieh,MA Liang,4,1,"7,11,11,11,11|11,5,5,9,9",QF,GRAND_SLAM,U21MS,799,Main Draw,CHIANG Hung-Chieh (TPE),MA Liang (SGP),CHIANG Hung-Chieh
+Pro Tour VW Open Singapore 2008,2008-06-04,FREITAS Marcos,GUO Yi Teng,4,0,"11,11,11,11|7,9,6,9",QF,GRAND_SLAM,U21MS,799,Main Draw,FREITAS Marcos (POR),GUO Yi Teng (SGP),FREITAS Marcos
+Pro Tour VW Open Singapore 2008,2008-06-04,MATSUDAIRA Kenji,HAN Jimin,4,0,"11,11,8,11,11|8,9,1,6,7",QF,GRAND_SLAM,U21MS,799,Main Draw,MATSUDAIRA Kenji (JPN),HAN Jimin (KOR),MATSUDAIRA Kenji
+Pro Tour VW Open Singapore 2008,2008-06-04,HUANG Sheng-Sheng,LEE Jinkwon,4,1,"11,11,9,11,11|7,6,11,8,8",QF,GRAND_SLAM,U21MS,799,Main Draw,HUANG Sheng-Sheng (TPE),LEE Jinkwon (KOR),HUANG Sheng-Sheng
+Pro Tour VW Open Singapore 2008,2008-06-04,FREITAS Marcos,CHIANG Hung-Chieh,4,1,"11,11,6,11,11|6,5,11,9,8",SF,GRAND_SLAM,U21MS,799,Main Draw,FREITAS Marcos (POR),CHIANG Hung-Chieh (TPE),FREITAS Marcos
+Pro Tour VW Open Singapore 2008,2008-06-04,MATSUDAIRA Kenji,HUANG Sheng-Sheng,4,0,"11,11,11,11|4,7,7,3",SF,GRAND_SLAM,U21MS,799,Main Draw,MATSUDAIRA Kenji (JPN),HUANG Sheng-Sheng (TPE),MATSUDAIRA Kenji
+Pro Tour VW Open Singapore 2008,2008-06-04,FREITAS Marcos,MATSUDAIRA Kenji,4,2,"5,11,3,11,11,12|11,6,11,6,7,10",F,GRAND_SLAM,U21MS,799,Main Draw,FREITAS Marcos (POR),MATSUDAIRA Kenji (JPN),FREITAS Marcos
+Pro Tour VW Open Singapore 2008,2008-06-04,WANG Liqin,ZENG Cem,4,0,,R64,GRAND_SLAM,MS,799,Main Draw,WANG Liqin (CHN),ZENG Cem (TUR),WANG Liqin
+Pro Tour VW Open Singapore 2008,2008-06-04,CHEUNG Yuk,PAPAGEORGIOU Konstantinos,4,0,"11,11,11,11|7,9,4,6",R64,GRAND_SLAM,MS,799,Main Draw,CHEUNG Yuk (HKG),PAPAGEORGIOU Konstantinos (GRE),CHEUNG Yuk
+Pro Tour VW Open Singapore 2008,2008-06-04,KISHIKAWA Seiya,PERSSON Jon,4,2,"8,8,11,11,11,11|11,11,9,7,1,8",R64,GRAND_SLAM,MS,799,Main Draw,KISHIKAWA Seiya (JPN),PERSSON Jon (SWE),KISHIKAWA Seiya
+Pro Tour VW Open Singapore 2008,2008-06-04,HAN Jimin,KO Lai Chak,4,3,"11,6,11,5,6,12,11|7,11,7,11,11,10,8",R64,GRAND_SLAM,MS,799,Main Draw,HAN Jimin (KOR),KO Lai Chak (HKG),HAN Jimin
+Pro Tour VW Open Singapore 2008,2008-06-04,YANG Zi,DRINKHALL Paul,4,1,"11,11,9,14,11|4,7,11,12,7",R64,GRAND_SLAM,MS,799,Main Draw,YANG Zi (SGP),DRINKHALL Paul (ENG),YANG Zi
+Pro Tour VW Open Singapore 2008,2008-06-04,MONTEIRO Thiago,CAI Xiaoli,4,0,"11,11,11,11|7,5,5,8",R64,GRAND_SLAM,MS,799,Main Draw,MONTEIRO Thiago (BRA),CAI Xiaoli (SGP),MONTEIRO Thiago
+Pro Tour VW Open Singapore 2008,2008-06-04,JIANG Tianyi,TSUBOGUCHI Michikazu,4,0,"11,11,11,11|9,7,7,7",R64,GRAND_SLAM,MS,799,Main Draw,JIANG Tianyi (HKG),TSUBOGUCHI Michikazu (JPN),JIANG Tianyi
+Pro Tour VW Open Singapore 2008,2008-06-04,GAO Ning,TSUBOI Gustavo,4,0,"11,12,11,11|7,10,8,5",R64,GRAND_SLAM,MS,799,Main Draw,GAO Ning (SGP),TSUBOI Gustavo (BRA),GAO Ning
+Pro Tour VW Open Singapore 2008,2008-06-04,JOO Saehyuk,LIU Zhongze,4,0,"13,12,11,11|11,10,3,6",R64,GRAND_SLAM,MS,799,Main Draw,JOO Saehyuk (KOR),LIU Zhongze (SGP),JOO Saehyuk
+Pro Tour VW Open Singapore 2008,2008-06-04,KUZMIN Fedor,TSIOKAS Ntaniel,4,1,"11,11,13,11,12|9,2,11,13,10",R64,GRAND_SLAM,MS,799,Main Draw,KUZMIN Fedor (RUS),TSIOKAS Ntaniel (GRE),KUZMIN Fedor
+Pro Tour VW Open Singapore 2008,2008-06-04,MA Liang,SUSS Christian,4,0,"11,11,11,11|3,5,6,9",R64,GRAND_SLAM,MS,799,Main Draw,MA Liang (SGP),SUSS Christian (GER),MA Liang
+Pro Tour VW Open Singapore 2008,2008-06-04,KREANGA Kalinikos,KONGSGAARD Christian,4,0,"11,11,11,11|5,6,3,4",R64,GRAND_SLAM,MS,799,Main Draw,KREANGA Kalinikos (GRE),KONGSGAARD Christian (DEN),KREANGA Kalinikos
+Pro Tour VW Open Singapore 2008,2008-06-04,OVTCHAROV Dimitrij,LEE Sang Su,4,0,"11,11,11,12|8,9,5,10",R64,GRAND_SLAM,MS,799,Main Draw,OVTCHAROV Dimitrij (GER),LEE Sang Su (KOR),OVTCHAROV Dimitrij
+Pro Tour VW Open Singapore 2008,2008-06-04,KIM Junghoon,FEJER-KONNERTH Zoltan,4,2,"11,11,11,7,9,11|7,9,5,11,11,6",R64,GRAND_SLAM,MS,799,Main Draw,KIM Junghoon (KOR),FEJER-KONNERTH Zoltan (GER),KIM Junghoon
+Pro Tour VW Open Singapore 2008,2008-06-04,WU Chih-Chi,HIELSCHER Lars,4,2,"9,10,13,11,11,11|11,12,11,3,4,8",R64,GRAND_SLAM,MS,799,Main Draw,WU Chih-Chi (TPE),HIELSCHER Lars (GER),WU Chih-Chi
+Pro Tour VW Open Singapore 2008,2008-06-04,SAMSONOV Vladimir,HABESOHN Daniel,4,1,"11,9,11,11,11|9,11,4,3,8",R64,GRAND_SLAM,MS,799,Main Draw,SAMSONOV Vladimir (BLR),HABESOHN Daniel (AUT),SAMSONOV Vladimir
+Pro Tour VW Open Singapore 2008,2008-06-04,BOLL Timo,GOLOVANOV Stanislav,4,0,"11,11,11,11|6,5,5,2",R64,GRAND_SLAM,MS,799,Main Draw,BOLL Timo (GER),GOLOVANOV Stanislav (BUL),BOLL Timo
+Pro Tour VW Open Singapore 2008,2008-06-04,LI Ping,LIVENTSOV Alexey,4,2,"11,11,11,7,12,13|9,9,9,11,14,11",R64,GRAND_SLAM,MS,799,Main Draw,LI Ping (QAT),LIVENTSOV Alexey (RUS),LI Ping
+Pro Tour VW Open Singapore 2008,2008-06-04,GIONIS Panagiotis,FREITAS Marcos,4,1,"6,11,11,11,11|11,9,9,7,7",R64,GRAND_SLAM,MS,799,Main Draw,GIONIS Panagiotis (GRE),FREITAS Marcos (POR),GIONIS Panagiotis
+Pro Tour VW Open Singapore 2008,2008-06-04,SMIRNOV Alexey,UEDA Jin,4,1,"11,11,11,11,11|13,4,8,7,8",R64,GRAND_SLAM,MS,799,Main Draw,SMIRNOV Alexey (RUS),UEDA Jin (JPN),SMIRNOV Alexey
+Pro Tour VW Open Singapore 2008,2008-06-04,CHUANG Chih-Yuan,AL-HASAN Ibrahem,4,1,"11,11,9,11,11|6,8,11,8,6",R64,GRAND_SLAM,MS,799,Main Draw,CHUANG Chih-Yuan (TPE),AL-HASAN Ibrahem (KUW),CHUANG Chih-Yuan
+Pro Tour VW Open Singapore 2008,2008-06-04,LEE Jinkwon,SHMYREV Maxim,4,1,"11,11,8,11,11|8,9,11,3,8",R64,GRAND_SLAM,MS,799,Main Draw,LEE Jinkwon (KOR),SHMYREV Maxim (RUS),LEE Jinkwon
+Pro Tour VW Open Singapore 2008,2008-06-04,RUBTSOV Igor,STEGER Bastian,4,2,"12,11,9,11,11,11|14,8,11,7,8,3",R64,GRAND_SLAM,MS,799,Main Draw,RUBTSOV Igor (RUS),STEGER Bastian (GER),RUBTSOV Igor
+Pro Tour VW Open Singapore 2008,2008-06-04,LI Ching,TANG Hua,4,1,"9,13,11,11,11|11,11,6,9,8",R64,GRAND_SLAM,MS,799,Main Draw,LI Ching (HKG),TANG Hua (SGP),LI Ching
+Pro Tour VW Open Singapore 2008,2008-06-04,CHEN Qi,MATSUDAIRA Kenji,4,2,"2,11,13,10,11,14|11,9,11,12,5,12",R64,GRAND_SLAM,MS,799,Main Draw,CHEN Qi (CHN),MATSUDAIRA Kenji (JPN),CHEN Qi
+Pro Tour VW Open Singapore 2008,2008-06-04,LEE Jungwoo,APOLONIA Tiago,4,2,"11,7,11,9,12,11|9,11,8,11,10,4",R64,GRAND_SLAM,MS,799,Main Draw,LEE Jungwoo (KOR),APOLONIA Tiago (POR),LEE Jungwoo
+Pro Tour VW Open Singapore 2008,2008-06-04,LEUNG Chu Yan,HUANG Sheng-Sheng,4,1,"11,11,9,12,11|9,9,11,10,4",R64,GRAND_SLAM,MS,799,Main Draw,LEUNG Chu Yan (HKG),HUANG Sheng-Sheng (TPE),LEUNG Chu Yan
+Pro Tour VW Open Singapore 2008,2008-06-04,FEGERL Stefan,KAN Yo,4,1,"11,11,11,4,12|7,7,9,11,10",R64,GRAND_SLAM,MS,799,Main Draw,FEGERL Stefan (AUT),KAN Yo (JPN),FEGERL Stefan
+Pro Tour VW Open Singapore 2008,2008-06-04,MIZUTANI Jun,JIANG Pengfei,4,0,"11,11,11,11|9,6,4,6",R64,GRAND_SLAM,MS,799,Main Draw,MIZUTANI Jun (JPN),JIANG Pengfei (TUR),MIZUTANI Jun
+Pro Tour VW Open Singapore 2008,2008-06-04,CHIANG Hung-Chieh,KEEN Trinko,4,3,"5,11,5,5,12,12,11|11,6,11,11,10,10,6",R64,GRAND_SLAM,MS,799,Main Draw,CHIANG Hung-Chieh (TPE),KEEN Trinko (NED),CHIANG Hung-Chieh
+Pro Tour VW Open Singapore 2008,2008-06-04,TANG Peng,CHOI Hyunjin,4,1,"13,11,3,11,11|11,6,11,7,9",R64,GRAND_SLAM,MS,799,Main Draw,TANG Peng (HKG),CHOI Hyunjin (KOR),TANG Peng
+Pro Tour VW Open Singapore 2008,2008-06-04,MA Long,ASMUSSEN Jakob,4,0,"11,11,11,11|6,8,5,6",R64,GRAND_SLAM,MS,799,Main Draw,MA Long (CHN),ASMUSSEN Jakob (DEN),MA Long
+Pro Tour VW Open Singapore 2008,2008-06-04,CHEUNG Yuk,WANG Liqin,4,1,"11,11,12,11,11|8,13,10,3,7",R32,GRAND_SLAM,MS,799,Main Draw,CHEUNG Yuk (HKG),WANG Liqin (CHN),CHEUNG Yuk
+Pro Tour VW Open Singapore 2008,2008-06-04,HAN Jimin,KISHIKAWA Seiya,4,0,"11,11,11,12|5,7,3,10",R32,GRAND_SLAM,MS,799,Main Draw,HAN Jimin (KOR),KISHIKAWA Seiya (JPN),HAN Jimin
+Pro Tour VW Open Singapore 2008,2008-06-04,YANG Zi,MONTEIRO Thiago,4,2,"11,5,10,11,11,11|9,11,12,7,4,5",R32,GRAND_SLAM,MS,799,Main Draw,YANG Zi (SGP),MONTEIRO Thiago (BRA),YANG Zi
+Pro Tour VW Open Singapore 2008,2008-06-04,JIANG Tianyi,GAO Ning,4,3,"11,11,9,9,4,11,11|8,8,11,11,11,6,9",R32,GRAND_SLAM,MS,799,Main Draw,JIANG Tianyi (HKG),GAO Ning (SGP),JIANG Tianyi
+Pro Tour VW Open Singapore 2008,2008-06-04,JOO Saehyuk,KUZMIN Fedor,4,1,"11,11,11,7,11|9,5,6,11,5",R32,GRAND_SLAM,MS,799,Main Draw,JOO Saehyuk (KOR),KUZMIN Fedor (RUS),JOO Saehyuk
+Pro Tour VW Open Singapore 2008,2008-06-04,KREANGA Kalinikos,MA Liang,4,2,"8,8,11,11,11,11|11,11,4,9,7,6",R32,GRAND_SLAM,MS,799,Main Draw,KREANGA Kalinikos (GRE),MA Liang (SGP),KREANGA Kalinikos
+Pro Tour VW Open Singapore 2008,2008-06-04,OVTCHAROV Dimitrij,KIM Junghoon,4,1,"11,11,11,5,11|8,7,7,11,7",R32,GRAND_SLAM,MS,799,Main Draw,OVTCHAROV Dimitrij (GER),KIM Junghoon (KOR),OVTCHAROV Dimitrij
+Pro Tour VW Open Singapore 2008,2008-06-04,SAMSONOV Vladimir,WU Chih-Chi,4,0,"11,11,11,11|9,7,3,9",R32,GRAND_SLAM,MS,799,Main Draw,SAMSONOV Vladimir (BLR),WU Chih-Chi (TPE),SAMSONOV Vladimir
+Pro Tour VW Open Singapore 2008,2008-06-04,BOLL Timo,LI Ping,4,1,"11,11,9,11,11|5,9,11,8,9",R32,GRAND_SLAM,MS,799,Main Draw,BOLL Timo (GER),LI Ping (QAT),BOLL Timo
+Pro Tour VW Open Singapore 2008,2008-06-04,GIONIS Panagiotis,SMIRNOV Alexey,4,2,"6,12,11,12,11,11|11,10,1,14,7,6",R32,GRAND_SLAM,MS,799,Main Draw,GIONIS Panagiotis (GRE),SMIRNOV Alexey (RUS),GIONIS Panagiotis
+Pro Tour VW Open Singapore 2008,2008-06-04,CHUANG Chih-Yuan,LEE Jinkwon,4,3,"8,11,11,11,9,12,11|11,6,13,6,11,10,6",R32,GRAND_SLAM,MS,799,Main Draw,CHUANG Chih-Yuan (TPE),LEE Jinkwon (KOR),CHUANG Chih-Yuan
+Pro Tour VW Open Singapore 2008,2008-06-04,RUBTSOV Igor,LI Ching,4,0,"11,11,12,12|9,6,10,10",R32,GRAND_SLAM,MS,799,Main Draw,RUBTSOV Igor (RUS),LI Ching (HKG),RUBTSOV Igor
+Pro Tour VW Open Singapore 2008,2008-06-04,LEE Jungwoo,CHEN Qi,4,0,"11,11,11,11|8,8,8,4",R32,GRAND_SLAM,MS,799,Main Draw,LEE Jungwoo (KOR),CHEN Qi (CHN),LEE Jungwoo
+Pro Tour VW Open Singapore 2008,2008-06-04,FEGERL Stefan,LEUNG Chu Yan,4,1,"11,13,7,12,11|4,11,11,10,7",R32,GRAND_SLAM,MS,799,Main Draw,FEGERL Stefan (AUT),LEUNG Chu Yan (HKG),FEGERL Stefan
+Pro Tour VW Open Singapore 2008,2008-06-04,MIZUTANI Jun,CHIANG Hung-Chieh,4,1,"11,11,11,11,11|13,3,5,5,7",R32,GRAND_SLAM,MS,799,Main Draw,MIZUTANI Jun (JPN),CHIANG Hung-Chieh (TPE),MIZUTANI Jun
+Pro Tour VW Open Singapore 2008,2008-06-04,MA Long,TANG Peng,4,1,"11,11,11,7,11|2,9,7,11,3",R32,GRAND_SLAM,MS,799,Main Draw,MA Long (CHN),TANG Peng (HKG),MA Long
+Pro Tour VW Open Singapore 2008,2008-06-04,CHEUNG Yuk,HAN Jimin,4,0,"12,14,11,11|10,2,2,2",R16,GRAND_SLAM,MS,799,Main Draw,CHEUNG Yuk (HKG),HAN Jimin (KOR),CHEUNG Yuk
+Pro Tour VW Open Singapore 2008,2008-06-04,JIANG Tianyi,YANG Zi,4,2,"7,10,15,11,11,11|11,12,13,6,4,4",R16,GRAND_SLAM,MS,799,Main Draw,JIANG Tianyi (HKG),YANG Zi (SGP),JIANG Tianyi
+Pro Tour VW Open Singapore 2008,2008-06-04,JOO Saehyuk,KREANGA Kalinikos,4,2,"7,7,12,11,12,11|11,11,10,7,10,7",R16,GRAND_SLAM,MS,799,Main Draw,JOO Saehyuk (KOR),KREANGA Kalinikos (GRE),JOO Saehyuk
+Pro Tour VW Open Singapore 2008,2008-06-04,SAMSONOV Vladimir,OVTCHAROV Dimitrij,4,1,"11,9,11,11,11|8,11,7,7,8",R16,GRAND_SLAM,MS,799,Main Draw,SAMSONOV Vladimir (BLR),OVTCHAROV Dimitrij (GER),SAMSONOV Vladimir
+Pro Tour VW Open Singapore 2008,2008-06-04,BOLL Timo,GIONIS Panagiotis,4,0,"11,11,11,14|5,6,9,12",R16,GRAND_SLAM,MS,799,Main Draw,BOLL Timo (GER),GIONIS Panagiotis (GRE),BOLL Timo
+Pro Tour VW Open Singapore 2008,2008-06-04,CHUANG Chih-Yuan,RUBTSOV Igor,4,0,"11,11,11,11|4,9,4,9",R16,GRAND_SLAM,MS,799,Main Draw,CHUANG Chih-Yuan (TPE),RUBTSOV Igor (RUS),CHUANG Chih-Yuan
+Pro Tour VW Open Singapore 2008,2008-06-04,LEE Jungwoo,FEGERL Stefan,4,0,"11,11,11,11|2,6,2,5",R16,GRAND_SLAM,MS,799,Main Draw,LEE Jungwoo (KOR),FEGERL Stefan (AUT),LEE Jungwoo
+Pro Tour VW Open Singapore 2008,2008-06-04,MA Long,MIZUTANI Jun,4,3,"13,11,9,11,11,12,12|15,7,11,8,4,14,10",R16,GRAND_SLAM,MS,799,Main Draw,MA Long (CHN),MIZUTANI Jun (JPN),MA Long
+Pro Tour VW Open Singapore 2008,2008-06-04,CHEUNG Yuk,JIANG Tianyi,4,1,"11,11,11,5,13|9,9,4,11,11",QF,GRAND_SLAM,MS,799,Main Draw,CHEUNG Yuk (HKG),JIANG Tianyi (HKG),CHEUNG Yuk
+Pro Tour VW Open Singapore 2008,2008-06-04,SAMSONOV Vladimir,JOO Saehyuk,4,1,"11,11,13,11,11|9,6,15,5,7",QF,GRAND_SLAM,MS,799,Main Draw,SAMSONOV Vladimir (BLR),JOO Saehyuk (KOR),SAMSONOV Vladimir
+Pro Tour VW Open Singapore 2008,2008-06-04,BOLL Timo,CHUANG Chih-Yuan,4,0,"11,11,11,11|5,5,9,7",QF,GRAND_SLAM,MS,799,Main Draw,BOLL Timo (GER),CHUANG Chih-Yuan (TPE),BOLL Timo
+Pro Tour VW Open Singapore 2008,2008-06-04,MA Long,LEE Jungwoo,4,0,"11,11,11,11|5,7,4,5",QF,GRAND_SLAM,MS,799,Main Draw,MA Long (CHN),LEE Jungwoo (KOR),MA Long
+Pro Tour VW Open Singapore 2008,2008-06-04,SAMSONOV Vladimir,CHEUNG Yuk,4,0,"11,11,11,11|9,3,6,9",SF,GRAND_SLAM,MS,799,Main Draw,SAMSONOV Vladimir (BLR),CHEUNG Yuk (HKG),SAMSONOV Vladimir
+Pro Tour VW Open Singapore 2008,2008-06-04,MA Long,BOLL Timo,4,2,"10,11,9,11,11,11|12,6,11,9,3,3",SF,GRAND_SLAM,MS,799,Main Draw,MA Long (CHN),BOLL Timo (GER),MA Long
+Pro Tour VW Open Singapore 2008,2008-06-04,MA Long,SAMSONOV Vladimir,4,1,"11,8,11,11,11|8,11,8,9,5",F,GRAND_SLAM,MS,799,Main Draw,MA Long (CHN),SAMSONOV Vladimir (BLR),MA Long
+Pro Tour VW Open Singapore 2008,2008-06-04,HIURA Reiko,PARK Seohee,4,1,"11,11,5,11,11|8,5,11,7,5",,GRAND_SLAM,WS,799,Qualification,HIURA Reiko (JPN),PARK Seohee (KOR),HIURA Reiko
+Pro Tour VW Open Singapore 2008,2008-06-04,HIURA Reiko,LIU Hsing-Yin,4,2,"11,3,11,10,11,11|9,11,6,12,4,9",,GRAND_SLAM,WS,799,Qualification,HIURA Reiko (JPN),LIU Hsing-Yin (TPE),HIURA Reiko
+Pro Tour VW Open Singapore 2008,2008-06-04,LIU Hsing-Yin,PARK Seohee,4,2,"11,5,6,11,11,12|5,11,11,7,5,10",,GRAND_SLAM,WS,799,Qualification,LIU Hsing-Yin (TPE),PARK Seohee (KOR),LIU Hsing-Yin
+Pro Tour VW Open Singapore 2008,2008-06-04,LIN Chia-Hui,PAOVIC Sandra,4,2,"13,6,11,11,8,11|11,11,5,9,11,8",,GRAND_SLAM,WS,799,Qualification,LIN Chia-Hui (TPE),PAOVIC Sandra (CRO),LIN Chia-Hui
+Pro Tour VW Open Singapore 2008,2008-06-04,PAOVIC Sandra,VORONOVA Anastasia,4,3,"11,11,13,10,11,14,11|7,8,15,12,8,16,6",,GRAND_SLAM,WS,799,Qualification,PAOVIC Sandra (CRO),VORONOVA Anastasia (RUS),PAOVIC Sandra
+Pro Tour VW Open Singapore 2008,2008-06-04,LIN Chia-Hui,VORONOVA Anastasia,4,3,"8,11,4,11,11,7,13|11,6,11,9,5,11,11",,GRAND_SLAM,WS,799,Qualification,LIN Chia-Hui (TPE),VORONOVA Anastasia (RUS),LIN Chia-Hui
+Pro Tour VW Open Singapore 2008,2008-06-04,XIAN Yifang,NG Sock Khim,4,1,"17,11,11,11,11|19,9,5,3,4",,GRAND_SLAM,WS,799,Qualification,XIAN Yifang (FRA),NG Sock Khim (MAS),XIAN Yifang
+Pro Tour VW Open Singapore 2008,2008-06-04,XIAN Yifang,KERTAI Rita,4,1,"11,11,11,15,11|6,6,6,17,9",,GRAND_SLAM,WS,799,Qualification,XIAN Yifang (FRA),KERTAI Rita (HUN),XIAN Yifang
+Pro Tour VW Open Singapore 2008,2008-06-04,KERTAI Rita,NG Sock Khim,4,3,"12,7,11,6,8,11,15|10,11,6,11,11,8,13",,GRAND_SLAM,WS,799,Qualification,KERTAI Rita (HUN),NG Sock Khim (MAS),KERTAI Rita
+Pro Tour VW Open Singapore 2008,2008-06-04,MOON Hyunjung,HUANG Crystal Xi,4,2,"7,11,11,11,8,11|11,8,9,8,11,9",,GRAND_SLAM,WS,799,Qualification,MOON Hyunjung (KOR),HUANG Crystal Xi (USA),MOON Hyunjung
+Pro Tour VW Open Singapore 2008,2008-06-04,MOON Hyunjung,HEINE Veronika,4,1,"11,6,11,12,11|7,11,3,10,4",,GRAND_SLAM,WS,799,Qualification,MOON Hyunjung (KOR),HEINE Veronika (AUT),MOON Hyunjung
+Pro Tour VW Open Singapore 2008,2008-06-04,HUANG Crystal Xi,HEINE Veronika,4,1,"11,11,11,10,11|6,5,3,12,8",,GRAND_SLAM,WS,799,Qualification,HUANG Crystal Xi (USA),HEINE Veronika (AUT),HUANG Crystal Xi
+Pro Tour VW Open Singapore 2008,2008-06-04,SAMARA Elizabeta,KOZLOVSKAIAI Anna,4,1,"11,11,11,9,11|6,8,6,11,7",,GRAND_SLAM,WS,799,Qualification,SAMARA Elizabeta (ROU),KOZLOVSKAIAI Anna (RUS),SAMARA Elizabeta
+Pro Tour VW Open Singapore 2008,2008-06-04,SAMARA Elizabeta,KIM Hyonam,4,0,"11,11,11,11|9,6,9,9",,GRAND_SLAM,WS,799,Qualification,SAMARA Elizabeta (ROU),KIM Hyonam (KOR),SAMARA Elizabeta
+Pro Tour VW Open Singapore 2008,2008-06-04,KOZLOVSKAIAI Anna,KIM Hyonam,4,0,"11,11,11,11|1,9,2,4",,GRAND_SLAM,WS,799,Qualification,KOZLOVSKAIAI Anna (RUS),KIM Hyonam (KOR),KOZLOVSKAIAI Anna
+Pro Tour VW Open Singapore 2008,2008-06-04,HU Melek,HSU Hui-Tsun,4,0,,,GRAND_SLAM,WS,799,Qualification,HU Melek (TUR),HSU Hui-Tsun (TPE),HU Melek
+Pro Tour VW Open Singapore 2008,2008-06-04,HU Melek,BEH Lee Wei,4,3,"10,11,8,11,11,5,12|12,2,11,8,7,11,10",,GRAND_SLAM,WS,799,Qualification,HU Melek (TUR),BEH Lee Wei (MAS),HU Melek
+Pro Tour VW Open Singapore 2008,2008-06-04,BEH Lee Wei,HSU Hui-Tsun,4,0,,,GRAND_SLAM,WS,799,Qualification,BEH Lee Wei (MAS),HSU Hui-Tsun (TPE),BEH Lee Wei
+Pro Tour VW Open Singapore 2008,2008-06-04,KOMWONG Nanthana,CHIU Soo Jiin,4,0,"12,11,11,11|10,4,8,5",,GRAND_SLAM,WS,799,Qualification,KOMWONG Nanthana (THA),CHIU Soo Jiin (MAS),KOMWONG Nanthana
+Pro Tour VW Open Singapore 2008,2008-06-04,KOMWONG Nanthana,SIBLEY Kelly,4,0,"12,11,11,11|10,7,6,8",,GRAND_SLAM,WS,799,Qualification,KOMWONG Nanthana (THA),SIBLEY Kelly (ENG),KOMWONG Nanthana
+Pro Tour VW Open Singapore 2008,2008-06-04,CHIU Soo Jiin,SIBLEY Kelly,4,1,"11,11,16,8,11|7,8,14,11,8",,GRAND_SLAM,WS,799,Qualification,CHIU Soo Jiin (MAS),SIBLEY Kelly (ENG),CHIU Soo Jiin
+Pro Tour VW Open Singapore 2008,2008-06-04,ZHU Fang,KIM Garam,4,0,"11,11,11,13|4,4,6,11",,GRAND_SLAM,WS,799,Qualification,ZHU Fang (ESP),KIM Garam (KOR),ZHU Fang
+Pro Tour VW Open Singapore 2008,2008-06-04,ZHU Fang,TERUI Moemi,4,3,"13,11,11,8,7,5,11|11,8,3,11,11,11,5",,GRAND_SLAM,WS,799,Qualification,ZHU Fang (ESP),TERUI Moemi (JPN),ZHU Fang
+Pro Tour VW Open Singapore 2008,2008-06-04,TERUI Moemi,KIM Garam,4,2,"8,9,11,11,11,11|11,11,6,7,9,7",,GRAND_SLAM,WS,799,Qualification,TERUI Moemi (JPN),KIM Garam (KOR),TERUI Moemi
+Pro Tour VW Open Singapore 2008,2008-06-04,PAVLOVICH Veronika,MIKHAYLOVA Olga,4,2,"7,10,11,11,11,12|11,12,3,4,3,10",,GRAND_SLAM,WS,799,Qualification,PAVLOVICH Veronika (BLR),MIKHAYLOVA Olga (RUS),PAVLOVICH Veronika
+Pro Tour VW Open Singapore 2008,2008-06-04,PAVLOVICH Veronika,LEE I-Chen,4,0,,,GRAND_SLAM,WS,799,Qualification,PAVLOVICH Veronika (BLR),LEE I-Chen (TPE),PAVLOVICH Veronika
+Pro Tour VW Open Singapore 2008,2008-06-04,MIKHAYLOVA Olga,LEE I-Chen,4,0,,,GRAND_SLAM,WS,799,Qualification,MIKHAYLOVA Olga (RUS),LEE I-Chen (TPE),MIKHAYLOVA Olga
+Pro Tour VW Open Singapore 2008,2008-06-04,BARTHEL Zhenqi,YILDIRIM Fulya,4,0,"11,12,11,11|6,10,5,7",,GRAND_SLAM,WS,799,Qualification,BARTHEL Zhenqi (GER),YILDIRIM Fulya (TUR),BARTHEL Zhenqi
+Pro Tour VW Open Singapore 2008,2008-06-04,BARTHEL Zhenqi,BAKULA Andrea,4,2,"11,11,11,9,12,11|9,13,6,11,10,8",,GRAND_SLAM,WS,799,Qualification,BARTHEL Zhenqi (GER),BAKULA Andrea (CRO),BARTHEL Zhenqi
+Pro Tour VW Open Singapore 2008,2008-06-04,YILDIRIM Fulya,BAKULA Andrea,4,3,"14,8,12,3,8,12,12|12,11,10,11,11,10,10",,GRAND_SLAM,WS,799,Qualification,YILDIRIM Fulya (TUR),BAKULA Andrea (CRO),YILDIRIM Fulya
+Pro Tour VW Open Singapore 2008,2008-06-04,TAN Paey Fern,ALI Meral Ildiz,4,3,"10,8,11,6,11,11,11|12,11,2,11,7,6,1",,GRAND_SLAM,WS,799,Qualification,TAN Paey Fern (SGP),ALI Meral Ildiz (TUR),TAN Paey Fern
+Pro Tour VW Open Singapore 2008,2008-06-04,TAN Paey Fern,PROKHOROVA Yulia,4,3,"6,11,11,6,5,11,11|11,4,4,11,11,8,3",,GRAND_SLAM,WS,799,Qualification,TAN Paey Fern (SGP),PROKHOROVA Yulia (RUS),TAN Paey Fern
+Pro Tour VW Open Singapore 2008,2008-06-04,PROKHOROVA Yulia,ALI Meral Ildiz,4,1,"11,9,11,11,11|4,11,3,7,3",,GRAND_SLAM,WS,799,Qualification,PROKHOROVA Yulia (RUS),ALI Meral Ildiz (TUR),PROKHOROVA Yulia
+Pro Tour VW Open Singapore 2008,2008-06-04,KRAMER Tanja,OWEN Naomi,4,1,"11,12,11,8,12|5,10,7,11,10",,GRAND_SLAM,WS,799,Qualification,KRAMER Tanja (GER),OWEN Naomi (WAL),KRAMER Tanja
+Pro Tour VW Open Singapore 2008,2008-06-04,ISHIKAWA Kasumi,KRAMER Tanja,4,1,"12,11,11,6,11|10,6,3,11,7",,GRAND_SLAM,WS,799,Qualification,ISHIKAWA Kasumi (JPN),KRAMER Tanja (GER),ISHIKAWA Kasumi
+Pro Tour VW Open Singapore 2008,2008-06-04,ISHIKAWA Kasumi,OWEN Naomi,4,0,"11,11,11,11|2,7,2,9",,GRAND_SLAM,WS,799,Qualification,ISHIKAWA Kasumi (JPN),OWEN Naomi (WAL),ISHIKAWA Kasumi
+Pro Tour VW Open Singapore 2008,2008-06-04,DVORAK Galia,CHANG Ya-Chuan,4,1,"11,18,12,13,11|4,16,14,11,6",,GRAND_SLAM,WS,799,Qualification,DVORAK Galia (ESP),CHANG Ya-Chuan (TPE),DVORAK Galia
+Pro Tour VW Open Singapore 2008,2008-06-04,SUH Hyo Won,DVORAK Galia,4,2,"11,5,4,11,11,11|6,11,11,6,6,4",,GRAND_SLAM,WS,799,Qualification,SUH Hyo Won (KOR),DVORAK Galia (ESP),SUH Hyo Won
+Pro Tour VW Open Singapore 2008,2008-06-04,SUH Hyo Won,CHANG Ya-Chuan,4,0,"11,11,11,11|8,5,5,5",,GRAND_SLAM,WS,799,Qualification,SUH Hyo Won (KOR),CHANG Ya-Chuan (TPE),SUH Hyo Won
+Pro Tour VW Open Singapore 2008,2008-06-04,CHENG I-Ching,LIM Peixin,4,0,"12,11,11,11|10,7,8,4",,GRAND_SLAM,WS,799,Qualification,CHENG I-Ching (TPE),LIM Peixin (SGP),CHENG I-Ching
+Pro Tour VW Open Singapore 2008,2008-06-04,CHENG I-Ching,SKOV Mie,4,0,"11,11,11,11|8,6,9,4",,GRAND_SLAM,WS,799,Qualification,CHENG I-Ching (TPE),SKOV Mie (DEN),CHENG I-Ching
+Pro Tour VW Open Singapore 2008,2008-06-04,SKOV Mie,LIM Peixin,4,1,"11,5,11,11,12|5,11,6,6,10",,GRAND_SLAM,WS,799,Qualification,SKOV Mie (DEN),LIM Peixin (SGP),SKOV Mie
+Pro Tour VW Open Singapore 2008,2008-06-04,PAN Chun-Chu,SIM Kai Xin Zena,4,1,"11,11,10,13,11|9,9,12,11,7",,GRAND_SLAM,WS,799,Qualification,PAN Chun-Chu (TPE),SIM Kai Xin Zena (SGP),PAN Chun-Chu
+Pro Tour VW Open Singapore 2008,2008-06-04,YU Kwok See,PAN Chun-Chu,4,0,"11,11,12,11|8,8,10,8",,GRAND_SLAM,WS,799,Qualification,YU Kwok See (HKG),PAN Chun-Chu (TPE),YU Kwok See
+Pro Tour VW Open Singapore 2008,2008-06-04,YU Kwok See,SIM Kai Xin Zena,4,2,"8,8,11,16,11,11|11,11,8,14,5,5",,GRAND_SLAM,WS,799,Qualification,YU Kwok See (HKG),SIM Kai Xin Zena (SGP),YU Kwok See
+Pro Tour VW Open Singapore 2008,2008-06-04,KO Somi,LARIBA Ian,4,0,"11,11,11,11|5,4,4,3",,GRAND_SLAM,WS,799,Qualification,KO Somi (KOR),LARIBA Ian (PHI),KO Somi
+Pro Tour VW Open Singapore 2008,2008-06-04,MUANGSUK Anisara,LIN Chia-Chih,4,0,"12,11,11,11|10,3,7,2",,GRAND_SLAM,WS,799,Qualification,MUANGSUK Anisara (THA),LIN Chia-Chih (TPE),MUANGSUK Anisara
+Pro Tour VW Open Singapore 2008,2008-06-04,KO Somi,MUANGSUK Anisara,4,3,"9,11,7,11,9,11,11|11,8,11,9,11,9,5",,GRAND_SLAM,WS,799,Qualification,KO Somi (KOR),MUANGSUK Anisara (THA),KO Somi
+Pro Tour VW Open Singapore 2008,2008-06-04,LIN Chia-Chih,LARIBA Ian,4,0,"11,11,12,11|4,3,10,7",,GRAND_SLAM,WS,799,Qualification,LIN Chia-Chih (TPE),LARIBA Ian (PHI),LIN Chia-Chih
+Pro Tour VW Open Singapore 2008,2008-06-04,KO Somi,LIN Chia-Chih,4,2,"11,14,6,9,11,11|2,12,11,11,5,9",,GRAND_SLAM,WS,799,Qualification,KO Somi (KOR),LIN Chia-Chih (TPE),KO Somi
+Pro Tour VW Open Singapore 2008,2008-06-04,MUANGSUK Anisara,LARIBA Ian,4,0,"11,11,11,11|5,4,6,3",,GRAND_SLAM,WS,799,Qualification,MUANGSUK Anisara (THA),LARIBA Ian (PHI),MUANGSUK Anisara
+Pro Tour VW Open Singapore 2008,2008-06-04,CHANG Ya-Chuan,TAN Yan Zhen,3,0,"11,11,11|3,9,6",,GRAND_SLAM,U21WS,799,Qualification,CHANG Ya-Chuan (TPE),TAN Yan Zhen (SGP),CHANG Ya-Chuan
+Pro Tour VW Open Singapore 2008,2008-06-04,PROKHOROVA Yulia,TAN Yan Zhen,3,0,"11,11,11|3,6,3",,GRAND_SLAM,U21WS,799,Qualification,PROKHOROVA Yulia (RUS),TAN Yan Zhen (SGP),PROKHOROVA Yulia
+Pro Tour VW Open Singapore 2008,2008-06-04,PROKHOROVA Yulia,CHANG Ya-Chuan,3,2,"11,11,5,5,11|4,7,11,11,5",,GRAND_SLAM,U21WS,799,Qualification,PROKHOROVA Yulia (RUS),CHANG Ya-Chuan (TPE),PROKHOROVA Yulia
+Pro Tour VW Open Singapore 2008,2008-06-04,LI Isabelle Siyun,LARIBA Ian,3,0,"11,11,11|3,8,8",,GRAND_SLAM,U21WS,799,Qualification,LI Isabelle Siyun (SGP),LARIBA Ian (PHI),LI Isabelle Siyun
+Pro Tour VW Open Singapore 2008,2008-06-04,LARIBA Ian,LEE I-Chen,4,0,,,GRAND_SLAM,U21WS,799,Qualification,LARIBA Ian (PHI),LEE I-Chen (TPE),LARIBA Ian
+Pro Tour VW Open Singapore 2008,2008-06-04,LI Isabelle Siyun,LEE I-Chen,4,0,,,GRAND_SLAM,U21WS,799,Qualification,LI Isabelle Siyun (SGP),LEE I-Chen (TPE),LI Isabelle Siyun
+Pro Tour VW Open Singapore 2008,2008-06-04,LIN Chia-Chih,LIM Peixin,3,0,"11,11,11|6,7,4",,GRAND_SLAM,U21WS,799,Qualification,LIN Chia-Chih (TPE),LIM Peixin (SGP),LIN Chia-Chih
+Pro Tour VW Open Singapore 2008,2008-06-04,LIN Chia-Chih,TERUI Moemi,3,2,"11,11,9,5,11|5,7,11,11,6",,GRAND_SLAM,U21WS,799,Qualification,LIN Chia-Chih (TPE),TERUI Moemi (JPN),LIN Chia-Chih
+Pro Tour VW Open Singapore 2008,2008-06-04,TERUI Moemi,LIM Peixin,3,0,"11,11,11|4,8,6",,GRAND_SLAM,U21WS,799,Qualification,TERUI Moemi (JPN),LIM Peixin (SGP),TERUI Moemi
+Pro Tour VW Open Singapore 2008,2008-06-04,SIM Kai Xin Zena,KWA Hui Qi,3,0,"11,11,11|8,1,3",,GRAND_SLAM,U21WS,799,Qualification,SIM Kai Xin Zena (SGP),KWA Hui Qi (SGP),SIM Kai Xin Zena
+Pro Tour VW Open Singapore 2008,2008-06-04,KWA Hui Qi,SIBLEY Kelly,3,2,"11,8,14,2,11|8,11,12,11,9",,GRAND_SLAM,U21WS,799,Qualification,KWA Hui Qi (SGP),SIBLEY Kelly (ENG),KWA Hui Qi
+Pro Tour VW Open Singapore 2008,2008-06-04,SIBLEY Kelly,SIM Kai Xin Zena,3,1,"11,6,11,11|9,11,8,9",,GRAND_SLAM,U21WS,799,Qualification,SIBLEY Kelly (ENG),SIM Kai Xin Zena (SGP),SIBLEY Kelly
+Pro Tour VW Open Singapore 2008,2008-06-04,OWEN Naomi,LOH Kai Ying,3,0,"11,11,11|8,6,5",,GRAND_SLAM,U21WS,799,Qualification,OWEN Naomi (WAL),LOH Kai Ying (SGP),OWEN Naomi
+Pro Tour VW Open Singapore 2008,2008-06-04,LIU Hsing-Yin,LOH Kai Ying,3,0,"11,11,11|9,9,6",,GRAND_SLAM,U21WS,799,Qualification,LIU Hsing-Yin (TPE),LOH Kai Ying (SGP),LIU Hsing-Yin
+Pro Tour VW Open Singapore 2008,2008-06-04,LIU Hsing-Yin,OWEN Naomi,3,2,"11,8,11,8,11|5,11,7,11,7",,GRAND_SLAM,U21WS,799,Qualification,LIU Hsing-Yin (TPE),OWEN Naomi (WAL),LIU Hsing-Yin
+Pro Tour VW Open Singapore 2008,2008-06-04,ALI Meral Ildiz,LOOK Sylvia,3,1,"9,11,11,11|11,5,9,9",,GRAND_SLAM,U21WS,799,Qualification,ALI Meral Ildiz (TUR),LOOK Sylvia (SGP),ALI Meral Ildiz
+Pro Tour VW Open Singapore 2008,2008-06-04,PARK Seohee,LOOK Sylvia,3,0,"11,11,11|4,5,1",,GRAND_SLAM,U21WS,799,Qualification,PARK Seohee (KOR),LOOK Sylvia (SGP),PARK Seohee
+Pro Tour VW Open Singapore 2008,2008-06-04,PARK Seohee,ALI Meral Ildiz,3,0,"12,11,12|10,3,10",,GRAND_SLAM,U21WS,799,Qualification,PARK Seohee (KOR),ALI Meral Ildiz (TUR),PARK Seohee
+Pro Tour VW Open Singapore 2008,2008-06-04,LIN Chia-Hui,GO Liying Sandra,3,0,"11,11,11|7,5,3",,GRAND_SLAM,U21WS,799,Qualification,LIN Chia-Hui (TPE),GO Liying Sandra (SGP),LIN Chia-Hui
+Pro Tour VW Open Singapore 2008,2008-06-04,YILDIRIM Fulya,LU Chunqi Patricia,3,0,"11,11,11|4,5,2",,GRAND_SLAM,U21WS,799,Qualification,YILDIRIM Fulya (TUR),LU Chunqi Patricia (SGP),YILDIRIM Fulya
+Pro Tour VW Open Singapore 2008,2008-06-04,LIN Chia-Hui,LU Chunqi Patricia,3,0,"13,11,11|11,3,7",,GRAND_SLAM,U21WS,799,Qualification,LIN Chia-Hui (TPE),LU Chunqi Patricia (SGP),LIN Chia-Hui
+Pro Tour VW Open Singapore 2008,2008-06-04,YILDIRIM Fulya,GO Liying Sandra,3,0,"11,11,11|4,6,2",,GRAND_SLAM,U21WS,799,Qualification,YILDIRIM Fulya (TUR),GO Liying Sandra (SGP),YILDIRIM Fulya
+Pro Tour VW Open Singapore 2008,2008-06-04,LIN Chia-Hui,YILDIRIM Fulya,3,1,"8,11,11,11|11,8,7,7",,GRAND_SLAM,U21WS,799,Qualification,LIN Chia-Hui (TPE),YILDIRIM Fulya (TUR),LIN Chia-Hui
+Pro Tour VW Open Singapore 2008,2008-06-04,LU Chunqi Patricia,GO Liying Sandra,3,1,"11,5,12,11|8,11,10,8",,GRAND_SLAM,U21WS,799,Qualification,LU Chunqi Patricia (SGP),GO Liying Sandra (SGP),LU Chunqi Patricia
+Pro Tour VW Open Singapore 2008,2008-06-04,YUN Hui Wen Janice,HSU Hui-Tsun,4,0,,,GRAND_SLAM,U21WS,799,Qualification,YUN Hui Wen Janice (SGP),HSU Hui-Tsun (TPE),YUN Hui Wen Janice
+Pro Tour VW Open Singapore 2008,2008-06-04,MIKHAYLOVA Olga,WONG Xiwen Samantha,3,0,"11,11,11|5,3,8",,GRAND_SLAM,U21WS,799,Qualification,MIKHAYLOVA Olga (RUS),WONG Xiwen Samantha (SGP),MIKHAYLOVA Olga
+Pro Tour VW Open Singapore 2008,2008-06-04,WONG Xiwen Samantha,HSU Hui-Tsun,4,0,,,GRAND_SLAM,U21WS,799,Qualification,WONG Xiwen Samantha (SGP),HSU Hui-Tsun (TPE),WONG Xiwen Samantha
+Pro Tour VW Open Singapore 2008,2008-06-04,MIKHAYLOVA Olga,YUN Hui Wen Janice,3,0,"11,11,11|5,4,1",,GRAND_SLAM,U21WS,799,Qualification,MIKHAYLOVA Olga (RUS),YUN Hui Wen Janice (SGP),MIKHAYLOVA Olga
+Pro Tour VW Open Singapore 2008,2008-06-04,MIKHAYLOVA Olga,HSU Hui-Tsun,4,0,,,GRAND_SLAM,U21WS,799,Qualification,MIKHAYLOVA Olga (RUS),HSU Hui-Tsun (TPE),MIKHAYLOVA Olga
+Pro Tour VW Open Singapore 2008,2008-06-04,YUN Hui Wen Janice,WONG Xiwen Samantha,3,2,"11,11,9,6,11|9,9,11,11,7",,GRAND_SLAM,U21WS,799,Qualification,YUN Hui Wen Janice (SGP),WONG Xiwen Samantha (SGP),YUN Hui Wen Janice
+Pro Tour VW Open Singapore 2008,2008-06-04,YU Mengyu,PROKHOROVA Yulia,4,1,"11,5,11,11,11|9,11,8,8,3",R16,GRAND_SLAM,U21WS,799,Main Draw,YU Mengyu (SGP),PROKHOROVA Yulia (RUS),YU Mengyu
+Pro Tour VW Open Singapore 2008,2008-06-04,CHENG I-Ching,LI Isabelle Siyun,4,0,"11,11,11,13|5,2,3,11",R16,GRAND_SLAM,U21WS,799,Main Draw,CHENG I-Ching (TPE),LI Isabelle Siyun (SGP),CHENG I-Ching
+Pro Tour VW Open Singapore 2008,2008-06-04,BARTHEL Zhenqi,LIN Chia-Hui,4,0,"11,11,14,12|7,5,12,10",R16,GRAND_SLAM,U21WS,799,Main Draw,BARTHEL Zhenqi (GER),LIN Chia-Hui (TPE),BARTHEL Zhenqi
+Pro Tour VW Open Singapore 2008,2008-06-04,SAMARA Elizabeta,LIU Hsing-Yin,4,0,"12,11,11,11|10,7,9,9",R16,GRAND_SLAM,U21WS,799,Main Draw,SAMARA Elizabeta (ROU),LIU Hsing-Yin (TPE),SAMARA Elizabeta
+Pro Tour VW Open Singapore 2008,2008-06-04,HU Melek,MIKHAYLOVA Olga,4,0,"11,11,11,11|6,5,6,4",R16,GRAND_SLAM,U21WS,799,Main Draw,HU Melek (TUR),MIKHAYLOVA Olga (RUS),HU Melek
+Pro Tour VW Open Singapore 2008,2008-06-04,ISHIKAWA Kasumi,PARK Seohee,4,0,"11,11,11,11|2,8,7,6",R16,GRAND_SLAM,U21WS,799,Main Draw,ISHIKAWA Kasumi (JPN),PARK Seohee (KOR),ISHIKAWA Kasumi
+Pro Tour VW Open Singapore 2008,2008-06-04,DVORAK Galia,SIM Kai Xin Zena,4,1,"11,11,8,11,11|8,4,11,6,8",R16,GRAND_SLAM,U21WS,799,Main Draw,DVORAK Galia (ESP),SIM Kai Xin Zena (SGP),DVORAK Galia
+Pro Tour VW Open Singapore 2008,2008-06-04,LIN Chia-Chih,DODEAN Daniela,4,0,,R16,GRAND_SLAM,U21WS,799,Main Draw,LIN Chia-Chih (TPE),DODEAN Daniela (ROU),LIN Chia-Chih
+Pro Tour VW Open Singapore 2008,2008-06-04,YU Mengyu,CHENG I-Ching,4,2,"11,12,10,11,10,12|9,10,12,8,12,10",QF,GRAND_SLAM,U21WS,799,Main Draw,YU Mengyu (SGP),CHENG I-Ching (TPE),YU Mengyu
+Pro Tour VW Open Singapore 2008,2008-06-04,BARTHEL Zhenqi,SAMARA Elizabeta,4,2,"11,6,11,11,9,11|5,11,6,7,11,7",QF,GRAND_SLAM,U21WS,799,Main Draw,BARTHEL Zhenqi (GER),SAMARA Elizabeta (ROU),BARTHEL Zhenqi
+Pro Tour VW Open Singapore 2008,2008-06-04,HU Melek,ISHIKAWA Kasumi,4,2,"11,11,5,5,11,11|8,9,11,11,3,8",QF,GRAND_SLAM,U21WS,799,Main Draw,HU Melek (TUR),ISHIKAWA Kasumi (JPN),HU Melek
+Pro Tour VW Open Singapore 2008,2008-06-04,DVORAK Galia,LIN Chia-Chih,4,0,"13,11,11,11|11,9,4,4",QF,GRAND_SLAM,U21WS,799,Main Draw,DVORAK Galia (ESP),LIN Chia-Chih (TPE),DVORAK Galia
+Pro Tour VW Open Singapore 2008,2008-06-04,BARTHEL Zhenqi,YU Mengyu,4,0,"11,11,14,13|5,7,12,11",SF,GRAND_SLAM,U21WS,799,Main Draw,BARTHEL Zhenqi (GER),YU Mengyu (SGP),BARTHEL Zhenqi
+Pro Tour VW Open Singapore 2008,2008-06-04,HU Melek,DVORAK Galia,4,1,"8,11,11,11,11|11,7,2,2,7",SF,GRAND_SLAM,U21WS,799,Main Draw,HU Melek (TUR),DVORAK Galia (ESP),HU Melek
+Pro Tour VW Open Singapore 2008,2008-06-04,BARTHEL Zhenqi,HU Melek,4,2,"11,11,5,11,5,11|9,9,11,5,11,6",F,GRAND_SLAM,U21WS,799,Main Draw,BARTHEL Zhenqi (GER),HU Melek (TUR),BARTHEL Zhenqi
+Pro Tour VW Open Singapore 2008,2008-06-04,LI Xiaoxia,KERTAI Rita,4,1,"11,9,11,11,11|8,11,7,4,3",R64,GRAND_SLAM,WS,799,Main Draw,LI Xiaoxia (CHN),KERTAI Rita (HUN),LI Xiaoxia
+Pro Tour VW Open Singapore 2008,2008-06-04,LI Qiangbing,MOON Hyunjung,4,0,"11,11,11,11|8,9,6,9",R64,GRAND_SLAM,WS,799,Main Draw,LI Qiangbing (AUT),MOON Hyunjung (KOR),LI Qiangbing
+Pro Tour VW Open Singapore 2008,2008-06-04,FAN Ying,PAVLOVICH Veronika,4,0,"11,11,11,11|5,8,5,9",R64,GRAND_SLAM,WS,799,Main Draw,FAN Ying (CHN),PAVLOVICH Veronika (BLR),FAN Ying
+Pro Tour VW Open Singapore 2008,2008-06-04,PAOVIC Sandra,SUN Beibei,4,0,"11,11,11,11|8,7,5,9",R64,GRAND_SLAM,WS,799,Main Draw,PAOVIC Sandra (CRO),SUN Beibei (SGP),PAOVIC Sandra
+Pro Tour VW Open Singapore 2008,2008-06-04,FUKUHARA Ai,PAN Chun-Chu,4,1,"11,11,11,10,11|5,3,7,12,9",R64,GRAND_SLAM,WS,799,Main Draw,FUKUHARA Ai (JPN),PAN Chun-Chu (TPE),FUKUHARA Ai
+Pro Tour VW Open Singapore 2008,2008-06-04,CHANG Chenchen,TAN Paey Fern,4,2,"11,11,11,5,1,11|8,8,6,11,11,7",R64,GRAND_SLAM,WS,799,Main Draw,CHANG Chenchen (CHN),TAN Paey Fern (SGP),CHANG Chenchen
+Pro Tour VW Open Singapore 2008,2008-06-04,LEE Eunhee,KOMWONG Nanthana,4,1,"8,11,11,11,12|11,2,8,7,10",R64,GRAND_SLAM,WS,799,Main Draw,LEE Eunhee (KOR),KOMWONG Nanthana (THA),LEE Eunhee
+Pro Tour VW Open Singapore 2008,2008-06-04,KIM Kyungah,HUANG Crystal Xi,4,2,"11,13,14,11,9,13|7,11,16,8,11,11",R64,GRAND_SLAM,WS,799,Main Draw,KIM Kyungah (KOR),HUANG Crystal Xi (USA),KIM Kyungah
+Pro Tour VW Open Singapore 2008,2008-06-04,FENG Tianwei,BEH Lee Wei,4,0,"11,11,11,11|8,4,4,5",R64,GRAND_SLAM,WS,799,Main Draw,FENG Tianwei (SGP),BEH Lee Wei (MAS),FENG Tianwei
+Pro Tour VW Open Singapore 2008,2008-06-04,PAVLOVICH Viktoria,LIN Chia-Hui,4,0,"14,11,11,11|12,9,6,2",R64,GRAND_SLAM,WS,799,Main Draw,PAVLOVICH Viktoria (BLR),LIN Chia-Hui (TPE),PAVLOVICH Viktoria
+Pro Tour VW Open Singapore 2008,2008-06-04,SHEN Yanfei,CHENG I-Ching,4,0,"14,11,11,11|12,5,7,7",R64,GRAND_SLAM,WS,799,Main Draw,SHEN Yanfei (ESP),CHENG I-Ching (TPE),SHEN Yanfei
+Pro Tour VW Open Singapore 2008,2008-06-04,HIRANO Sayaka,SKOV Mie,4,0,"16,11,18,11|14,2,16,5",R64,GRAND_SLAM,WS,799,Main Draw,HIRANO Sayaka (JPN),SKOV Mie (DEN),HIRANO Sayaka
+Pro Tour VW Open Singapore 2008,2008-06-04,LIU Jia,CHIU Soo Jiin,4,1,"12,11,11,8,11|10,7,6,11,5",R64,GRAND_SLAM,WS,799,Main Draw,LIU Jia (AUT),CHIU Soo Jiin (MAS),LIU Jia
+Pro Tour VW Open Singapore 2008,2008-06-04,NI Xia Lian,YU Kwok See,4,0,"11,12,11,11|8,10,9,7",R64,GRAND_SLAM,WS,799,Main Draw,NI Xia Lian (LUX),YU Kwok See (HKG),NI Xia Lian
+Pro Tour VW Open Singapore 2008,2008-06-04,FUKUOKA Haruna,SAMARA Elizabeta,4,2,"11,11,7,8,11,11|9,2,11,11,4,2",R64,GRAND_SLAM,WS,799,Main Draw,FUKUOKA Haruna (JPN),SAMARA Elizabeta (ROU),FUKUOKA Haruna
+Pro Tour VW Open Singapore 2008,2008-06-04,LI Jiawei,DVORAK Galia,4,2,"11,11,9,8,11,11|4,4,11,11,6,9",R64,GRAND_SLAM,WS,799,Main Draw,LI Jiawei (SGP),DVORAK Galia (ESP),LI Jiawei
+Pro Tour VW Open Singapore 2008,2008-06-04,WANG Yuegu,MIKHAYLOVA Olga,4,0,"11,11,11,11|7,3,5,4",R64,GRAND_SLAM,WS,799,Main Draw,WANG Yuegu (SGP),MIKHAYLOVA Olga (RUS),WANG Yuegu
+Pro Tour VW Open Singapore 2008,2008-06-04,YU Mengyu,BARTHEL Zhenqi,4,2,"11,9,9,11,11,11|6,11,11,7,9,5",R64,GRAND_SLAM,WS,799,Main Draw,YU Mengyu (SGP),BARTHEL Zhenqi (GER),YU Mengyu
+Pro Tour VW Open Singapore 2008,2008-06-04,YAO Yan,HIURA Reiko,4,1,"7,11,11,11,11|11,9,4,6,6",R64,GRAND_SLAM,WS,799,Main Draw,YAO Yan (CHN),HIURA Reiko (JPN),YAO Yan
+Pro Tour VW Open Singapore 2008,2008-06-04,LIU Shiwen,MUANGSUK Anisara,4,0,"11,11,11,11|7,6,5,2",R64,GRAND_SLAM,WS,799,Main Draw,LIU Shiwen (CHN),MUANGSUK Anisara (THA),LIU Shiwen
+Pro Tour VW Open Singapore 2008,2008-06-04,WANG Chen,KOZLOVSKAIAI Anna,4,2,"11,11,8,8,11,11|8,3,11,11,6,5",R64,GRAND_SLAM,WS,799,Main Draw,WANG Chen (USA),KOZLOVSKAIAI Anna (RUS),WANG Chen
+Pro Tour VW Open Singapore 2008,2008-06-04,SCHALL Elke,HU Melek,4,3,"6,5,11,11,5,11,11|11,11,7,5,11,6,6",R64,GRAND_SLAM,WS,799,Main Draw,SCHALL Elke (GER),HU Melek (TUR),SCHALL Elke
+Pro Tour VW Open Singapore 2008,2008-06-04,ISHIKAWA Kasumi,DANG Yeseo,4,2,"11,9,11,5,12,11|8,11,7,11,10,9",R64,GRAND_SLAM,WS,799,Main Draw,ISHIKAWA Kasumi (JPN),DANG Yeseo (KOR),ISHIKAWA Kasumi
+Pro Tour VW Open Singapore 2008,2008-06-04,LIN Ling,YILDIRIM Fulya,4,2,"11,11,11,8,9,11|8,5,4,11,11,6",R64,GRAND_SLAM,WS,799,Main Draw,LIN Ling (HKG),YILDIRIM Fulya (TUR),LIN Ling
+Pro Tour VW Open Singapore 2008,2008-06-04,JIANG Huajun,LIU Hsing-Yin,4,0,"11,11,11,11|5,6,7,5",R64,GRAND_SLAM,WS,799,Main Draw,JIANG Huajun (HKG),LIU Hsing-Yin (TPE),JIANG Huajun
+Pro Tour VW Open Singapore 2008,2008-06-04,GAO Jun,XIAN Yifang,4,2,"11,12,6,9,11,11|2,10,11,11,8,3",R64,GRAND_SLAM,WS,799,Main Draw,GAO Jun (USA),XIAN Yifang (FRA),GAO Jun
+Pro Tour VW Open Singapore 2008,2008-06-04,ZHU Fang,ZHANG Rui,4,0,"11,11,11,12|5,4,8,10",R64,GRAND_SLAM,WS,799,Main Draw,ZHU Fang (ESP),ZHANG Rui (HKG),ZHU Fang
+Pro Tour VW Open Singapore 2008,2008-06-04,PARK Miyoung,KRAMER Tanja,4,1,"12,11,17,13,11|14,8,15,11,4",R64,GRAND_SLAM,WS,799,Main Draw,PARK Miyoung (KOR),KRAMER Tanja (GER),PARK Miyoung
+Pro Tour VW Open Singapore 2008,2008-06-04,TIE Yana,TERUI Moemi,4,1,"11,11,11,7,11|4,7,9,11,3",R64,GRAND_SLAM,WS,799,Main Draw,TIE Yana (HKG),TERUI Moemi (JPN),TIE Yana
+Pro Tour VW Open Singapore 2008,2008-06-04,HUANG Yi-Hua,KO Somi,4,2,"13,7,9,11,13,11|11,11,11,7,11,6",R64,GRAND_SLAM,WS,799,Main Draw,HUANG Yi-Hua (TPE),KO Somi (KOR),HUANG Yi-Hua
+Pro Tour VW Open Singapore 2008,2008-06-04,DODEAN Daniela,SUH Hyo Won,4,0,"11,11,11,18|7,8,9,16",R64,GRAND_SLAM,WS,799,Main Draw,DODEAN Daniela (ROU),SUH Hyo Won (KOR),DODEAN Daniela
+Pro Tour VW Open Singapore 2008,2008-06-04,GUO Yan (1982),PROKHOROVA Yulia,4,0,"11,11,11,11|6,6,9,6",R64,GRAND_SLAM,WS,799,Main Draw,GUO Yan (1982) (CHN),PROKHOROVA Yulia (RUS),GUO Yan (1982)
+Pro Tour VW Open Singapore 2008,2008-06-04,LI Xiaoxia,LI Qiangbing,4,0,"11,11,11,11|8,4,6,3",R32,GRAND_SLAM,WS,799,Main Draw,LI Xiaoxia (CHN),LI Qiangbing (AUT),LI Xiaoxia
+Pro Tour VW Open Singapore 2008,2008-06-04,FAN Ying,PAOVIC Sandra,4,0,"11,11,11,11|9,1,5,6",R32,GRAND_SLAM,WS,799,Main Draw,FAN Ying (CHN),PAOVIC Sandra (CRO),FAN Ying
+Pro Tour VW Open Singapore 2008,2008-06-04,CHANG Chenchen,FUKUHARA Ai,4,1,"11,2,11,11,11|3,11,6,5,5",R32,GRAND_SLAM,WS,799,Main Draw,CHANG Chenchen (CHN),FUKUHARA Ai (JPN),CHANG Chenchen
+Pro Tour VW Open Singapore 2008,2008-06-04,KIM Kyungah,LEE Eunhee,4,2,"12,6,11,4,11,11|10,11,7,11,9,9",R32,GRAND_SLAM,WS,799,Main Draw,KIM Kyungah (KOR),LEE Eunhee (KOR),KIM Kyungah
+Pro Tour VW Open Singapore 2008,2008-06-04,FENG Tianwei,PAVLOVICH Viktoria,4,3,"11,14,11,8,11,9,11|6,16,9,11,5,11,7",R32,GRAND_SLAM,WS,799,Main Draw,FENG Tianwei (SGP),PAVLOVICH Viktoria (BLR),FENG Tianwei
+Pro Tour VW Open Singapore 2008,2008-06-04,SHEN Yanfei,HIRANO Sayaka,4,0,"11,12,12,11|5,10,10,7",R32,GRAND_SLAM,WS,799,Main Draw,SHEN Yanfei (ESP),HIRANO Sayaka (JPN),SHEN Yanfei
+Pro Tour VW Open Singapore 2008,2008-06-04,LIU Jia,NI Xia Lian,4,0,"11,11,11,11|9,7,6,7",R32,GRAND_SLAM,WS,799,Main Draw,LIU Jia (AUT),NI Xia Lian (LUX),LIU Jia
+Pro Tour VW Open Singapore 2008,2008-06-04,FUKUOKA Haruna,LI Jiawei,4,2,"14,8,5,11,11,14|12,11,11,9,6,12",R32,GRAND_SLAM,WS,799,Main Draw,FUKUOKA Haruna (JPN),LI Jiawei (SGP),FUKUOKA Haruna
+Pro Tour VW Open Singapore 2008,2008-06-04,YU Mengyu,WANG Yuegu,4,1,"11,11,11,6,11|9,9,9,11,8",R32,GRAND_SLAM,WS,799,Main Draw,YU Mengyu (SGP),WANG Yuegu (SGP),YU Mengyu
+Pro Tour VW Open Singapore 2008,2008-06-04,YAO Yan,LIU Shiwen,4,3,"9,11,6,11,11,7,11|11,8,11,7,5,11,9",R32,GRAND_SLAM,WS,799,Main Draw,YAO Yan (CHN),LIU Shiwen (CHN),YAO Yan
+Pro Tour VW Open Singapore 2008,2008-06-04,WANG Chen,SCHALL Elke,4,1,"9,11,11,11,11|11,4,7,7,9",R32,GRAND_SLAM,WS,799,Main Draw,WANG Chen (USA),SCHALL Elke (GER),WANG Chen
+Pro Tour VW Open Singapore 2008,2008-06-04,LIN Ling,ISHIKAWA Kasumi,4,1,"11,11,9,11,11|7,4,11,4,3",R32,GRAND_SLAM,WS,799,Main Draw,LIN Ling (HKG),ISHIKAWA Kasumi (JPN),LIN Ling
+Pro Tour VW Open Singapore 2008,2008-06-04,GAO Jun,JIANG Huajun,4,3,"11,1,11,3,8,11,12|5,11,2,11,11,7,10",R32,GRAND_SLAM,WS,799,Main Draw,GAO Jun (USA),JIANG Huajun (HKG),GAO Jun
+Pro Tour VW Open Singapore 2008,2008-06-04,PARK Miyoung,ZHU Fang,4,3,"4,3,6,11,11,11,11|11,11,11,8,5,8,9",R32,GRAND_SLAM,WS,799,Main Draw,PARK Miyoung (KOR),ZHU Fang (ESP),PARK Miyoung
+Pro Tour VW Open Singapore 2008,2008-06-04,TIE Yana,HUANG Yi-Hua,4,3,"11,9,6,11,11,8,11|4,11,11,7,4,11,9",R32,GRAND_SLAM,WS,799,Main Draw,TIE Yana (HKG),HUANG Yi-Hua (TPE),TIE Yana
+Pro Tour VW Open Singapore 2008,2008-06-04,GUO Yan (1982),DODEAN Daniela,4,0,"11,11,11,11|4,0,0,0",R32,GRAND_SLAM,WS,799,Main Draw,GUO Yan (1982) (CHN),DODEAN Daniela (ROU),GUO Yan (1982)
+Pro Tour VW Open Singapore 2008,2008-06-04,LI Xiaoxia,FAN Ying,4,1,"7,11,11,11,11|11,7,9,4,6",R16,GRAND_SLAM,WS,799,Main Draw,LI Xiaoxia (CHN),FAN Ying (CHN),LI Xiaoxia
+Pro Tour VW Open Singapore 2008,2008-06-04,KIM Kyungah,CHANG Chenchen,4,0,"11,11,11,11|8,6,8,9",R16,GRAND_SLAM,WS,799,Main Draw,KIM Kyungah (KOR),CHANG Chenchen (CHN),KIM Kyungah
+Pro Tour VW Open Singapore 2008,2008-06-04,FENG Tianwei,SHEN Yanfei,4,1,"11,11,14,11,11|4,6,12,13,8",R16,GRAND_SLAM,WS,799,Main Draw,FENG Tianwei (SGP),SHEN Yanfei (ESP),FENG Tianwei
+Pro Tour VW Open Singapore 2008,2008-06-04,LIU Jia,FUKUOKA Haruna,4,3,"8,8,12,7,11,11,11|11,11,10,11,6,6,7",R16,GRAND_SLAM,WS,799,Main Draw,LIU Jia (AUT),FUKUOKA Haruna (JPN),LIU Jia
+Pro Tour VW Open Singapore 2008,2008-06-04,YAO Yan,YU Mengyu,4,2,"11,9,11,11,5,11|9,11,3,9,11,3",R16,GRAND_SLAM,WS,799,Main Draw,YAO Yan (CHN),YU Mengyu (SGP),YAO Yan
+Pro Tour VW Open Singapore 2008,2008-06-04,WANG Chen,LIN Ling,4,3,"11,11,7,8,11,10,14|9,9,11,11,7,12,12",R16,GRAND_SLAM,WS,799,Main Draw,WANG Chen (USA),LIN Ling (HKG),WANG Chen
+Pro Tour VW Open Singapore 2008,2008-06-04,GAO Jun,PARK Miyoung,4,2,"11,17,3,11,1,11|6,15,11,1,11,9",R16,GRAND_SLAM,WS,799,Main Draw,GAO Jun (USA),PARK Miyoung (KOR),GAO Jun
+Pro Tour VW Open Singapore 2008,2008-06-04,GUO Yan (1982),TIE Yana,4,1,"11,11,11,9,11|2,1,2,11,7",R16,GRAND_SLAM,WS,799,Main Draw,GUO Yan (1982) (CHN),TIE Yana (HKG),GUO Yan (1982)
+Pro Tour VW Open Singapore 2008,2008-06-04,LI Xiaoxia,KIM Kyungah,4,0,"11,11,11,11|4,9,7,5",QF,GRAND_SLAM,WS,799,Main Draw,LI Xiaoxia (CHN),KIM Kyungah (KOR),LI Xiaoxia
+Pro Tour VW Open Singapore 2008,2008-06-04,FENG Tianwei,LIU Jia,4,1,"11,11,9,11,11|7,5,11,1,2",QF,GRAND_SLAM,WS,799,Main Draw,FENG Tianwei (SGP),LIU Jia (AUT),FENG Tianwei
+Pro Tour VW Open Singapore 2008,2008-06-04,YAO Yan,WANG Chen,4,1,"11,11,11,8,13|8,7,8,11,11",QF,GRAND_SLAM,WS,799,Main Draw,YAO Yan (CHN),WANG Chen (USA),YAO Yan
+Pro Tour VW Open Singapore 2008,2008-06-04,GUO Yan (1982),GAO Jun,4,0,"11,11,11,11|5,7,5,3",QF,GRAND_SLAM,WS,799,Main Draw,GUO Yan (1982) (CHN),GAO Jun (USA),GUO Yan (1982)
+Pro Tour VW Open Singapore 2008,2008-06-04,LI Xiaoxia,FENG Tianwei,4,0,"11,11,12,12|1,3,10,10",SF,GRAND_SLAM,WS,799,Main Draw,LI Xiaoxia (CHN),FENG Tianwei (SGP),LI Xiaoxia
+Pro Tour VW Open Singapore 2008,2008-06-04,GUO Yan (1982),YAO Yan,4,3,"11,6,8,11,3,11,13|4,11,11,8,11,8,11",SF,GRAND_SLAM,WS,799,Main Draw,GUO Yan (1982) (CHN),YAO Yan (CHN),GUO Yan (1982)
+Pro Tour VW Open Singapore 2008,2008-06-04,LI Xiaoxia,GUO Yan (1982),4,2,"11,4,11,12,7,11|7,11,7,10,11,6",F,GRAND_SLAM,WS,799,Main Draw,LI Xiaoxia (CHN),GUO Yan (1982) (CHN),LI Xiaoxia
+Pro Tour VW Open Singapore 2008,2008-06-04,LIVENTSOV Alexey/RUBTSOV Igor,DAVIS Kyle/FRANK Robert,3,0,,QR32,GRAND_SLAM,MD,799,Qualification,LIVENTSOV Alexey (RUS) / RUBTSOV Igor (RUS),DAVIS Kyle (AUS) / FRANK Robert (AUS),LIVENTSOV Alexey
+Pro Tour VW Open Singapore 2008,2008-06-04,MONTEIRO Thiago/TSUBOI Gustavo,ALHAJJAI Waled Nasser/AL-MOHANNADI Ahmad Khalil,3,0,"11,11,11|9,5,5",QR32,GRAND_SLAM,MD,799,Qualification,MONTEIRO Thiago (BRA) / TSUBOI Gustavo (BRA),ALHAJJAI Waled Nasser (QAT) / AL-MOHANNADI Ahmad Khalil (QAT),MONTEIRO Thiago
+Pro Tour VW Open Singapore 2008,2008-06-04,MONTEIRO Thiago/TSUBOI Gustavo,JIANG Tianyi/TANG Peng,3,2,"3,8,11,11,11|11,11,7,9,9",QR16,GRAND_SLAM,MD,799,Qualification,MONTEIRO Thiago (BRA) / TSUBOI Gustavo (BRA),JIANG Tianyi (HKG) / TANG Peng (HKG),MONTEIRO Thiago
+Pro Tour VW Open Singapore 2008,2008-06-04,MATSUDAIRA Kenji/UEDA Jin,KONGSGAARD Christian/STERNBERG Kasper,3,0,,QR32,GRAND_SLAM,MD,799,Qualification,MATSUDAIRA Kenji (JPN) / UEDA Jin (JPN),KONGSGAARD Christian (DEN) / STERNBERG Kasper (DEN),MATSUDAIRA Kenji
+Pro Tour VW Open Singapore 2008,2008-06-04,JIANG Tianyi/TANG Peng,CHEN Chien-An/ASMUSSEN Jakob,3,2,"11,8,11,7,11|4,11,7,11,2",QR32,GRAND_SLAM,MD,799,Qualification,JIANG Tianyi (HKG) / TANG Peng (HKG),CHEN Chien-An (TPE) / ASMUSSEN Jakob (DEN),JIANG Tianyi
+Pro Tour VW Open Singapore 2008,2008-06-04,EVANS Gavin/PITCHFORD Liam,PANG Xue Jie/ZHANG Lu,3,1,"5,11,11,11|11,6,9,6",QR64,GRAND_SLAM,MD,799,Qualification,EVANS Gavin (ENG) / PITCHFORD Liam (ENG),PANG Xue Jie (SGP) / ZHANG Lu (SGP),EVANS Gavin
+Pro Tour VW Open Singapore 2008,2008-06-04,APOLONIA Tiago/FREITAS Marcos,EVANS Gavin/PITCHFORD Liam,3,0,"11,11,11|5,8,5",QR32,GRAND_SLAM,MD,799,Qualification,APOLONIA Tiago (POR) / FREITAS Marcos (POR),EVANS Gavin (ENG) / PITCHFORD Liam (ENG),APOLONIA Tiago
+Pro Tour VW Open Singapore 2008,2008-06-04,CHOI Hyunjin/LEE Sang Su,BOLL Timo/SUSS Christian,3,2,"11,8,12,5,11|9,11,10,11,9",QR32,GRAND_SLAM,MD,799,Qualification,CHOI Hyunjin (KOR) / LEE Sang Su (KOR),BOLL Timo (GER) / SUSS Christian (GER),CHOI Hyunjin
+Pro Tour VW Open Singapore 2008,2008-06-04,FEJER-KONNERTH Zoltan/HIELSCHER Lars,AL-HASAN Ibrahem/GOLOVANOV Stanislav,3,1,"11,8,11,13|4,11,7,11",QR32,GRAND_SLAM,MD,799,Qualification,FEJER-KONNERTH Zoltan (GER) / HIELSCHER Lars (GER),AL-HASAN Ibrahem (KUW) / GOLOVANOV Stanislav (BUL),FEJER-KONNERTH Zoltan
+Pro Tour VW Open Singapore 2008,2008-06-04,OVTCHAROV Dimitrij/STEGER Bastian,GONZALES Richard/ORTALLA Henberd,3,0,"11,11,11|9,9,8",QR32,GRAND_SLAM,MD,799,Qualification,OVTCHAROV Dimitrij (GER) / STEGER Bastian (GER),GONZALES Richard (PHI) / ORTALLA Henberd (PHI),OVTCHAROV Dimitrij
+Pro Tour VW Open Singapore 2008,2008-06-04,JOO Saehyuk/LEE Jinkwon,FEJER-KONNERTH Zoltan/HIELSCHER Lars,3,2,"11,11,8,7,11|9,5,11,11,7",QR16,GRAND_SLAM,MD,799,Qualification,JOO Saehyuk (KOR) / LEE Jinkwon (KOR),FEJER-KONNERTH Zoltan (GER) / HIELSCHER Lars (GER),JOO Saehyuk
+Pro Tour VW Open Singapore 2008,2008-06-04,OVTCHAROV Dimitrij/STEGER Bastian,MATSUDAIRA Kenji/UEDA Jin,3,2,"14,14,16,10,11|12,12,18,12,9",QR16,GRAND_SLAM,MD,799,Qualification,OVTCHAROV Dimitrij (GER) / STEGER Bastian (GER),MATSUDAIRA Kenji (JPN) / UEDA Jin (JPN),OVTCHAROV Dimitrij
+Pro Tour VW Open Singapore 2008,2008-06-04,FEGERL Stefan/HABESOHN Daniel,LI Kwun Ngai/TSE Ka Chun,3,0,"11,11,11|8,9,9",QR32,GRAND_SLAM,MD,799,Qualification,FEGERL Stefan (AUT) / HABESOHN Daniel (AUT),LI Kwun Ngai (HKG) / TSE Ka Chun (HKG),FEGERL Stefan
+Pro Tour VW Open Singapore 2008,2008-06-04,CHEN Qi/LI Ping,LEUNG Chu Yan/LI Ching,4,3,"8,9,11,14,5,12,11|11,11,7,12,11,10,6",SF,GRAND_SLAM,MD,799,Main Draw,CHEN Qi (CHN) / LI Ping (QAT),LEUNG Chu Yan (HKG) / LI Ching (HKG),CHEN Qi
+Pro Tour VW Open Singapore 2008,2008-06-04,KISHIKAWA Seiya/MIZUTANI Jun,OVTCHAROV Dimitrij/STEGER Bastian,4,2,"8,16,11,12,11,11|11,14,3,14,5,5",R16,GRAND_SLAM,MD,799,Main Draw,KISHIKAWA Seiya (JPN) / MIZUTANI Jun (JPN),OVTCHAROV Dimitrij (GER) / STEGER Bastian (GER),KISHIKAWA Seiya
+Pro Tour VW Open Singapore 2008,2008-06-04,KISHIKAWA Seiya/MIZUTANI Jun,CHEUNG Yuk/KO Lai Chak,4,2,"8,11,12,10,12,11|11,8,10,12,10,9",QF,GRAND_SLAM,MD,799,Main Draw,KISHIKAWA Seiya (JPN) / MIZUTANI Jun (JPN),CHEUNG Yuk (HKG) / KO Lai Chak (HKG),KISHIKAWA Seiya
+Pro Tour VW Open Singapore 2008,2008-06-04,HAN Jimin/LEE Jungwoo,KISHIKAWA Seiya/MIZUTANI Jun,4,3,"11,7,11,6,11,8,14|8,11,5,11,7,11,12",SF,GRAND_SLAM,MD,799,Main Draw,HAN Jimin (KOR) / LEE Jungwoo (KOR),KISHIKAWA Seiya (JPN) / MIZUTANI Jun (JPN),HAN Jimin
+Pro Tour VW Open Singapore 2008,2008-06-04,KANG Donghoon/KIM Junghoon,CORDUE John/WALLACE Simon,3,1,"11,11,9,11|3,8,11,7",QR32,GRAND_SLAM,MD,799,Qualification,KANG Donghoon (KOR) / KIM Junghoon (KOR),CORDUE John (NZL) / WALLACE Simon (NZL),KANG Donghoon
+Pro Tour VW Open Singapore 2008,2008-06-04,CHOI Hyunjin/LEE Sang Su,PERSSON Jon/ZENG Cem,3,0,"11,11,11|7,5,4",QR16,GRAND_SLAM,MD,799,Qualification,CHOI Hyunjin (KOR) / LEE Sang Su (KOR),PERSSON Jon (SWE) / ZENG Cem (TUR),CHOI Hyunjin
+Pro Tour VW Open Singapore 2008,2008-06-04,APOLONIA Tiago/FREITAS Marcos,KANG Donghoon/KIM Junghoon,3,2,"8,11,11,5,14|11,6,7,11,12",QR16,GRAND_SLAM,MD,799,Qualification,APOLONIA Tiago (POR) / FREITAS Marcos (POR),KANG Donghoon (KOR) / KIM Junghoon (KOR),APOLONIA Tiago
+Pro Tour VW Open Singapore 2008,2008-06-04,LEUNG Chu Yan/LI Ching,CHOI Hyunjin/LEE Sang Su,4,2,"11,7,10,11,11,12|4,11,12,8,7,10",R16,GRAND_SLAM,MD,799,Main Draw,LEUNG Chu Yan (HKG) / LI Ching (HKG),CHOI Hyunjin (KOR) / LEE Sang Su (KOR),LEUNG Chu Yan
+Pro Tour VW Open Singapore 2008,2008-06-04,HAN Jimin/LEE Jungwoo,MONTEIRO Thiago/TSUBOI Gustavo,4,0,"14,11,11,11|12,8,3,6",R16,GRAND_SLAM,MD,799,Main Draw,HAN Jimin (KOR) / LEE Jungwoo (KOR),MONTEIRO Thiago (BRA) / TSUBOI Gustavo (BRA),HAN Jimin
+Pro Tour VW Open Singapore 2008,2008-06-04,CHEN Qi/LI Ping,JOO Saehyuk/LEE Jinkwon,4,3,"9,11,7,11,11,7,11|11,8,11,9,4,11,7",QF,GRAND_SLAM,MD,799,Main Draw,CHEN Qi (CHN) / LI Ping (QAT),JOO Saehyuk (KOR) / LEE Jinkwon (KOR),CHEN Qi
+Pro Tour VW Open Singapore 2008,2008-06-04,HAN Jimin/LEE Jungwoo,MA Long/WANG Liqin,4,2,"13,5,11,12,8,12|11,11,9,10,11,10",QF,GRAND_SLAM,MD,799,Main Draw,HAN Jimin (KOR) / LEE Jungwoo (KOR),MA Long (CHN) / WANG Liqin (CHN),HAN Jimin
+Pro Tour VW Open Singapore 2008,2008-06-04,JOO Saehyuk/LEE Jinkwon,IBRAHIM Muhd Shakirin/WANG YANG Martin,3,0,"11,11,17|2,7,15",QR32,GRAND_SLAM,MD,799,Qualification,JOO Saehyuk (KOR) / LEE Jinkwon (KOR),IBRAHIM Muhd Shakirin (MAS) / WANG YANG Martin (PAR),JOO Saehyuk
+Pro Tour VW Open Singapore 2008,2008-06-04,CORDUE John/WALLACE Simon,METRAN Louie/PUENTESPINA Paul,3,0,"11,11,11|6,3,5",QR64,GRAND_SLAM,MD,799,Qualification,CORDUE John (NZL) / WALLACE Simon (NZL),METRAN Louie (PHI) / PUENTESPINA Paul (PHI),CORDUE John
+Pro Tour VW Open Singapore 2008,2008-06-04,MA Long/WANG Liqin,APOLONIA Tiago/FREITAS Marcos,4,2,"9,11,11,17,8,11|11,5,4,15,11,8",R16,GRAND_SLAM,MD,799,Main Draw,MA Long (CHN) / WANG Liqin (CHN),APOLONIA Tiago (POR) / FREITAS Marcos (POR),MA Long
+Pro Tour VW Open Singapore 2008,2008-06-04,CHEN Qi/LI Ping,HAN Jimin/LEE Jungwoo,4,2,"10,7,11,11,11,11|12,11,7,6,6,6",F,GRAND_SLAM,MD,799,Main Draw,CHEN Qi (CHN) / LI Ping (QAT),HAN Jimin (KOR) / LEE Jungwoo (KOR),CHEN Qi
+Pro Tour VW Open Singapore 2008,2008-06-04,CHEUNG Yuk/KO Lai Chak,KUZMIN Fedor/SMIRNOV Alexey,4,1,"8,11,11,11,11|11,5,5,4,6",R16,GRAND_SLAM,MD,799,Main Draw,CHEUNG Yuk (HKG) / KO Lai Chak (HKG),KUZMIN Fedor (RUS) / SMIRNOV Alexey (RUS),CHEUNG Yuk
+Pro Tour VW Open Singapore 2008,2008-06-04,KUZMIN Fedor/SMIRNOV Alexey,DRINKHALL Paul/RUMGAY Gavin,3,1,"11,9,11,11|7,11,7,9",QR32,GRAND_SLAM,MD,799,Qualification,KUZMIN Fedor (RUS) / SMIRNOV Alexey (RUS),DRINKHALL Paul (ENG) / RUMGAY Gavin (SCO),KUZMIN Fedor
+Pro Tour VW Open Singapore 2008,2008-06-04,CHEN Chien-An/ASMUSSEN Jakob,HAO Anlin/HO Jason,3,1,"11,4,11,11|7,11,7,7",QR64,GRAND_SLAM,MD,799,Qualification,CHEN Chien-An (TPE) / ASMUSSEN Jakob (DEN),HAO Anlin (SGP) / HO Jason (SGP),CHEN Chien-An
+Pro Tour VW Open Singapore 2008,2008-06-04,GUO Yi Teng/LIU Zhongze,ALAWLAQI Ahmed/ALYAFEI Mohammed,3,2,"8,11,11,12,11|11,8,8,14,7",QR32,GRAND_SLAM,MD,799,Qualification,GUO Yi Teng (SGP) / LIU Zhongze (SGP),ALAWLAQI Ahmed (QAT) / ALYAFEI Mohammed (QAT),GUO Yi Teng
+Pro Tour VW Open Singapore 2008,2008-06-04,CAI Xiaoli/MA Liang,CARTER Trent/LAM Tong Hou,3,0,"11,11,12|5,8,10",QR32,GRAND_SLAM,MD,799,Qualification,CAI Xiaoli (SGP) / MA Liang (SGP),CARTER Trent (AUS) / LAM Tong Hou (MAC),CAI Xiaoli
+Pro Tour VW Open Singapore 2008,2008-06-04,LIVENTSOV Alexey/RUBTSOV Igor,GUO Yi Teng/LIU Zhongze,3,1,"12,11,7,14|10,3,11,12",QR16,GRAND_SLAM,MD,799,Qualification,LIVENTSOV Alexey (RUS) / RUBTSOV Igor (RUS),GUO Yi Teng (SGP) / LIU Zhongze (SGP),LIVENTSOV Alexey
+Pro Tour VW Open Singapore 2008,2008-06-04,CAI Xiaoli/MA Liang,FEGERL Stefan/HABESOHN Daniel,3,0,"11,11,11|8,7,8",QR16,GRAND_SLAM,MD,799,Qualification,CAI Xiaoli (SGP) / MA Liang (SGP),FEGERL Stefan (AUT) / HABESOHN Daniel (AUT),CAI Xiaoli
+Pro Tour VW Open Singapore 2008,2008-06-04,GAO Ning/YANG Zi,LIVENTSOV Alexey/RUBTSOV Igor,4,1,"13,11,11,5,11|11,7,7,11,5",R16,GRAND_SLAM,MD,799,Main Draw,GAO Ning (SGP) / YANG Zi (SGP),LIVENTSOV Alexey (RUS) / RUBTSOV Igor (RUS),GAO Ning
+Pro Tour VW Open Singapore 2008,2008-06-04,CHEN Qi/LI Ping,CAI Xiaoli/MA Liang,4,1,"11,11,9,11,14|7,9,11,8,12",R16,GRAND_SLAM,MD,799,Main Draw,CHEN Qi (CHN) / LI Ping (QAT),CAI Xiaoli (SGP) / MA Liang (SGP),CHEN Qi
+Pro Tour VW Open Singapore 2008,2008-06-04,LEUNG Chu Yan/LI Ching,GAO Ning/YANG Zi,4,2,"5,11,11,11,9,13|11,8,8,3,11,11",QF,GRAND_SLAM,MD,799,Main Draw,LEUNG Chu Yan (HKG) / LI Ching (HKG),GAO Ning (SGP) / YANG Zi (SGP),LEUNG Chu Yan
+Pro Tour VW Open Singapore 2008,2008-06-04,CHIANG Hung-Chieh/HUANG Sheng-Sheng,KREANGA Kalinikos/PAPAGEORGIOU Konstantinos,3,0,"11,11,11|7,8,8",QR32,GRAND_SLAM,MD,799,Qualification,CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE),KREANGA Kalinikos (GRE) / PAPAGEORGIOU Konstantinos (GRE),CHIANG Hung-Chieh
+Pro Tour VW Open Singapore 2008,2008-06-04,KUZMIN Fedor/SMIRNOV Alexey,CHIANG Hung-Chieh/HUANG Sheng-Sheng,3,2,"11,9,9,11,11|3,11,11,3,9",QR16,GRAND_SLAM,MD,799,Qualification,KUZMIN Fedor (RUS) / SMIRNOV Alexey (RUS),CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE),KUZMIN Fedor
+Pro Tour VW Open Singapore 2008,2008-06-04,JOO Saehyuk/LEE Jinkwon,CHUANG Chih-Yuan/WU Chih-Chi,4,1,"11,5,11,12,11|8,11,6,10,7",R16,GRAND_SLAM,MD,799,Main Draw,JOO Saehyuk (KOR) / LEE Jinkwon (KOR),CHUANG Chih-Yuan (TPE) / WU Chih-Chi (TPE),JOO Saehyuk
+Pro Tour VW Open Singapore 2008,2008-06-04,KREANGA Kalinikos/PAPAGEORGIOU Konstantinos,JIANG Pengfei/MENGE Gencay,3,1,"12,2,11,11|10,11,5,9",QR64,GRAND_SLAM,MD,799,Qualification,KREANGA Kalinikos (GRE) / PAPAGEORGIOU Konstantinos (GRE),JIANG Pengfei (TUR) / MENGE Gencay (TUR),KREANGA Kalinikos
+Pro Tour VW Open Singapore 2008,2008-06-04,PERSSON Jon/ZENG Cem,GIONIS Panagiotis/TSIOKAS Ntaniel,3,1,"9,16,11,11|11,14,1,9",QR32,GRAND_SLAM,MD,799,Qualification,PERSSON Jon (SWE) / ZENG Cem (TUR),GIONIS Panagiotis (GRE) / TSIOKAS Ntaniel (GRE),PERSSON Jon
+Pro Tour VW Open Singapore 2008,2008-06-04,HEINE Veronika/LI Qiangbing,HSU Hui-Tsun/LIN Chia-Chih,3,0,,QR32,GRAND_SLAM,WD,799,Qualification,HEINE Veronika (AUT) / LI Qiangbing (AUT),HSU Hui-Tsun (TPE) / LIN Chia-Chih (TPE),HEINE Veronika
+Pro Tour VW Open Singapore 2008,2008-06-04,KRAMER Tanja/LIU Jia,LARIBA Ian/XIAN Yifang,3,0,"11,11,11|6,4,4",QR32,GRAND_SLAM,WD,799,Qualification,KRAMER Tanja (GER) / LIU Jia (AUT),LARIBA Ian (PHI) / XIAN Yifang (FRA),KRAMER Tanja
+Pro Tour VW Open Singapore 2008,2008-06-04,SHEN Yanfei/YU Kwok See,HEINE Veronika/LI Qiangbing,3,0,"11,11,11|2,4,6",QR16,GRAND_SLAM,WD,799,Qualification,SHEN Yanfei (ESP) / YU Kwok See (HKG),HEINE Veronika (AUT) / LI Qiangbing (AUT),SHEN Yanfei
+Pro Tour VW Open Singapore 2008,2008-06-04,KRAMER Tanja/LIU Jia,GUO Yan (1982)/LIU Shiwen,3,1,"10,12,11,11|12,10,7,5",QR16,GRAND_SLAM,WD,799,Qualification,KRAMER Tanja (GER) / LIU Jia (AUT),GUO Yan (1982) (CHN) / LIU Shiwen (CHN),KRAMER Tanja
+Pro Tour VW Open Singapore 2008,2008-06-04,LIN Chia-Hui/LIU Hsing-Yin,PAVLOVICH Veronika/PAVLOVICH Viktoria,3,2,"5,11,2,11,12|11,7,11,5,10",QR32,GRAND_SLAM,WD,799,Qualification,LIN Chia-Hui (TPE) / LIU Hsing-Yin (TPE),PAVLOVICH Veronika (BLR) / PAVLOVICH Viktoria (BLR),LIN Chia-Hui
+Pro Tour VW Open Singapore 2008,2008-06-04,CHANG Chenchen/LI Xiaoxia,ISHIKAWA Kasumi/TERUI Moemi,3,1,"11,11,10,12|8,4,12,10",QR16,GRAND_SLAM,WD,799,Qualification,CHANG Chenchen (CHN) / LI Xiaoxia (CHN),ISHIKAWA Kasumi (JPN) / TERUI Moemi (JPN),CHANG Chenchen
+Pro Tour VW Open Singapore 2008,2008-06-04,CHANG Chenchen/LI Xiaoxia,FUKUOKA Haruna/HIRANO Sayaka,4,0,"12,11,11,13|10,7,6,11",QF,GRAND_SLAM,WD,799,Main Draw,CHANG Chenchen (CHN) / LI Xiaoxia (CHN),FUKUOKA Haruna (JPN) / HIRANO Sayaka (JPN),CHANG Chenchen
+Pro Tour VW Open Singapore 2008,2008-06-04,LI Jiawei/SUN Beibei,CHANG Chenchen/LI Xiaoxia,4,2,"12,11,15,6,14,12|14,7,13,11,12,10",SF,GRAND_SLAM,WD,799,Main Draw,LI Jiawei (SGP) / SUN Beibei (SGP),CHANG Chenchen (CHN) / LI Xiaoxia (CHN),LI Jiawei
+Pro Tour VW Open Singapore 2008,2008-06-04,FENG Tianwei/YU Mengyu,BAKULA Andrea/PAOVIC Sandra,4,1,"12,11,10,11,11|10,6,12,9,9",R16,GRAND_SLAM,WD,799,Main Draw,FENG Tianwei (SGP) / YU Mengyu (SGP),BAKULA Andrea (CRO) / PAOVIC Sandra (CRO),FENG Tianwei
+Pro Tour VW Open Singapore 2008,2008-06-04,BARTHEL Zhenqi/SCHALL Elke,FUKUHARA Ai/HIURA Reiko,4,1,"12,7,16,11,11|10,11,14,4,8",R16,GRAND_SLAM,WD,799,Main Draw,BARTHEL Zhenqi (GER) / SCHALL Elke (GER),FUKUHARA Ai (JPN) / HIURA Reiko (JPN),BARTHEL Zhenqi
+Pro Tour VW Open Singapore 2008,2008-06-04,LI Jiawei/SUN Beibei,BARTHEL Zhenqi/SCHALL Elke,4,2,"11,11,11,10,10,11|7,2,4,12,12,5",QF,GRAND_SLAM,WD,799,Main Draw,LI Jiawei (SGP) / SUN Beibei (SGP),BARTHEL Zhenqi (GER) / SCHALL Elke (GER),LI Jiawei
+Pro Tour VW Open Singapore 2008,2008-06-04,JIANG Huajun/ZHANG Rui,KERTAI Rita/SIBLEY Kelly,3,1,"11,9,11,11|8,11,7,5",QR32,GRAND_SLAM,WD,799,Qualification,JIANG Huajun (HKG) / ZHANG Rui (HKG),KERTAI Rita (HUN) / SIBLEY Kelly (ENG),JIANG Huajun
+Pro Tour VW Open Singapore 2008,2008-06-04,JIANG Huajun/ZHANG Rui,FAN Ying/YAO Yan,3,0,"11,11,11|9,6,2",QR16,GRAND_SLAM,WD,799,Qualification,JIANG Huajun (HKG) / ZHANG Rui (HKG),FAN Ying (CHN) / YAO Yan (CHN),JIANG Huajun
+Pro Tour VW Open Singapore 2008,2008-06-04,JIANG Huajun/ZHANG Rui,DODEAN Daniela/SAMARA Elizabeta,4,0,,R16,GRAND_SLAM,WD,799,Main Draw,JIANG Huajun (HKG) / ZHANG Rui (HKG),DODEAN Daniela (ROU) / SAMARA Elizabeta (ROU),JIANG Huajun
+Pro Tour VW Open Singapore 2008,2008-06-04,CHANG Chenchen/LI Xiaoxia,LIN Ling/TIE Yana,4,0,"11,11,11,11|7,2,4,5",R16,GRAND_SLAM,WD,799,Main Draw,CHANG Chenchen (CHN) / LI Xiaoxia (CHN),LIN Ling (HKG) / TIE Yana (HKG),CHANG Chenchen
+Pro Tour VW Open Singapore 2008,2008-06-04,LI Jiawei/SUN Beibei,SHEN Yanfei/YU Kwok See,4,3,"5,11,15,11,9,7,11|11,8,13,4,11,11,7",R16,GRAND_SLAM,WD,799,Main Draw,LI Jiawei (SGP) / SUN Beibei (SGP),SHEN Yanfei (ESP) / YU Kwok See (HKG),LI Jiawei
+Pro Tour VW Open Singapore 2008,2008-06-04,FUKUOKA Haruna/HIRANO Sayaka,GAO Jun/HUANG Crystal Xi,4,0,"11,11,11,11|8,9,8,9",R16,GRAND_SLAM,WD,799,Main Draw,FUKUOKA Haruna (JPN) / HIRANO Sayaka (JPN),GAO Jun (USA) / HUANG Crystal Xi (USA),FUKUOKA Haruna
+Pro Tour VW Open Singapore 2008,2008-06-04,SHEN Yanfei/YU Kwok See,DANG Yeseo/KO Somi,3,2,"11,6,5,11,11|5,11,11,5,5",QR32,GRAND_SLAM,WD,799,Qualification,SHEN Yanfei (ESP) / YU Kwok See (HKG),DANG Yeseo (KOR) / KO Somi (KOR),SHEN Yanfei
+Pro Tour VW Open Singapore 2008,2008-06-04,LEE Eunhee/MOON Hyunjung,ALI Meral Ildiz/HU Melek,3,0,"11,11,11|6,2,6",QR32,GRAND_SLAM,WD,799,Qualification,LEE Eunhee (KOR) / MOON Hyunjung (KOR),ALI Meral Ildiz (TUR) / HU Melek (TUR),LEE Eunhee
+Pro Tour VW Open Singapore 2008,2008-06-04,LEE Eunhee/MOON Hyunjung,DVORAK Galia/ZHU Fang,3,0,"11,11,11|9,9,3",QR16,GRAND_SLAM,WD,799,Qualification,LEE Eunhee (KOR) / MOON Hyunjung (KOR),DVORAK Galia (ESP) / ZHU Fang (ESP),LEE Eunhee
+Pro Tour VW Open Singapore 2008,2008-06-04,FUKUOKA Haruna/HIRANO Sayaka,KIM Hyonam/SUH Hyo Won,3,0,"11,13,11|8,11,6",QR16,GRAND_SLAM,WD,799,Qualification,FUKUOKA Haruna (JPN) / HIRANO Sayaka (JPN),KIM Hyonam (KOR) / SUH Hyo Won (KOR),FUKUOKA Haruna
+Pro Tour VW Open Singapore 2008,2008-06-04,KIM Kyungah/PARK Miyoung,KRAMER Tanja/LIU Jia,4,0,"11,11,11,11|7,3,8,9",R16,GRAND_SLAM,WD,799,Main Draw,KIM Kyungah (KOR) / PARK Miyoung (KOR),KRAMER Tanja (GER) / LIU Jia (AUT),KIM Kyungah
+Pro Tour VW Open Singapore 2008,2008-06-04,KIM Kyungah/PARK Miyoung,FENG Tianwei/YU Mengyu,4,0,"11,11,11,11|4,4,7,4",QF,GRAND_SLAM,WD,799,Main Draw,KIM Kyungah (KOR) / PARK Miyoung (KOR),FENG Tianwei (SGP) / YU Mengyu (SGP),KIM Kyungah
+Pro Tour VW Open Singapore 2008,2008-06-04,LEE Eunhee/MOON Hyunjung,JIANG Huajun/ZHANG Rui,4,3,"8,4,11,11,10,11,11|11,11,7,8,12,8,3",QF,GRAND_SLAM,WD,799,Main Draw,LEE Eunhee (KOR) / MOON Hyunjung (KOR),JIANG Huajun (HKG) / ZHANG Rui (HKG),LEE Eunhee
+Pro Tour VW Open Singapore 2008,2008-06-04,LEE Eunhee/MOON Hyunjung,KIM Kyungah/PARK Miyoung,4,0,"11,11,11,11|9,8,6,7",SF,GRAND_SLAM,WD,799,Main Draw,LEE Eunhee (KOR) / MOON Hyunjung (KOR),KIM Kyungah (KOR) / PARK Miyoung (KOR),LEE Eunhee
+Pro Tour VW Open Singapore 2008,2008-06-04,LI Jiawei/SUN Beibei,LEE Eunhee/MOON Hyunjung,4,1,"11,12,11,8,11|8,10,6,11,6",F,GRAND_SLAM,WD,799,Main Draw,LI Jiawei (SGP) / SUN Beibei (SGP),LEE Eunhee (KOR) / MOON Hyunjung (KOR),LI Jiawei
+Pro Tour VW Open Singapore 2008,2008-06-04,DVORAK Galia/ZHU Fang,CHANG Ya-Chuan/CHIU Soo Jiin,3,0,"11,12,11|7,10,8",QR32,GRAND_SLAM,WD,799,Qualification,DVORAK Galia (ESP) / ZHU Fang (ESP),CHANG Ya-Chuan (TPE) / CHIU Soo Jiin (MAS),DVORAK Galia
+Pro Tour VW Open Singapore 2008,2008-06-04,BAKULA Andrea/PAOVIC Sandra,BEH Lee Wei/NG Sock Khim,3,1,"7,11,11,11|11,9,9,7",QR32,GRAND_SLAM,WD,799,Qualification,BAKULA Andrea (CRO) / PAOVIC Sandra (CRO),BEH Lee Wei (MAS) / NG Sock Khim (MAS),BAKULA Andrea
+Pro Tour VW Open Singapore 2008,2008-06-04,ISHIKAWA Kasumi/TERUI Moemi,KOZLOVSKAIAI Anna/MIKHAYLOVA Olga,3,1,"11,11,8,11|4,8,11,5",QR32,GRAND_SLAM,WD,799,Qualification,ISHIKAWA Kasumi (JPN) / TERUI Moemi (JPN),KOZLOVSKAIAI Anna (RUS) / MIKHAYLOVA Olga (RUS),ISHIKAWA Kasumi
+Pro Tour VW Open Singapore 2008,2008-06-04,FUKUHARA Ai/HIURA Reiko,PROKHOROVA Yulia/VORONOVA Anastasia,3,0,"11,11,11|6,3,4",QR32,GRAND_SLAM,WD,799,Qualification,FUKUHARA Ai (JPN) / HIURA Reiko (JPN),PROKHOROVA Yulia (RUS) / VORONOVA Anastasia (RUS),FUKUHARA Ai
+Pro Tour VW Open Singapore 2008,2008-06-04,GUO Yan (1982)/LIU Shiwen,LIM Peixin/SIM Kai Xin Zena,3,0,"12,11,11|10,8,8",QR32,GRAND_SLAM,WD,799,Qualification,GUO Yan (1982) (CHN) / LIU Shiwen (CHN),LIM Peixin (SGP) / SIM Kai Xin Zena (SGP),GUO Yan (1982)
+Pro Tour VW Open Singapore 2008,2008-06-04,LEE Eunhee/MOON Hyunjung,TAN Paey Fern/WANG Yuegu,4,3,"11,11,12,10,9,9,11|3,8,10,12,11,11,7",R16,GRAND_SLAM,WD,799,Main Draw,LEE Eunhee (KOR) / MOON Hyunjung (KOR),TAN Paey Fern (SGP) / WANG Yuegu (SGP),LEE Eunhee
+Pro Tour VW Open Singapore 2008,2008-06-04,FUKUOKA Haruna/HIRANO Sayaka,KOMWONG Nanthana/MUANGSUK Anisara,3,0,"11,11,13|8,5,11",QR32,GRAND_SLAM,WD,799,Qualification,FUKUOKA Haruna (JPN) / HIRANO Sayaka (JPN),KOMWONG Nanthana (THA) / MUANGSUK Anisara (THA),FUKUOKA Haruna
+Pro Tour VW Open Singapore 2008,2008-06-04,HUANG Yi-Hua/PAN Chun-Chu,KIM Garam/PARK Seohee,3,2,"10,11,10,11,11|12,7,12,3,6",QR32,GRAND_SLAM,WD,799,Qualification,HUANG Yi-Hua (TPE) / PAN Chun-Chu (TPE),KIM Garam (KOR) / PARK Seohee (KOR),HUANG Yi-Hua
+Pro Tour VW Open Singapore 2008,2008-06-04,KIM Hyonam/SUH Hyo Won,CHENG I-Ching/LEE I-Chen,3,0,,QR32,GRAND_SLAM,WD,799,Qualification,KIM Hyonam (KOR) / SUH Hyo Won (KOR),CHENG I-Ching (TPE) / LEE I-Chen (TPE),KIM Hyonam
+Pro Tour VW Open Singapore 2008,2008-06-04,FUKUHARA Ai/HIURA Reiko,HUANG Yi-Hua/PAN Chun-Chu,3,1,"11,11,11,11|13,8,8,6",QR16,GRAND_SLAM,WD,799,Qualification,FUKUHARA Ai (JPN) / HIURA Reiko (JPN),HUANG Yi-Hua (TPE) / PAN Chun-Chu (TPE),FUKUHARA Ai
+Pro Tour VW Open Singapore 2008,2008-06-04,BAKULA Andrea/PAOVIC Sandra,LIN Chia-Hui/LIU Hsing-Yin,3,0,"11,11,14|4,9,12",QR16,GRAND_SLAM,WD,799,Qualification,BAKULA Andrea (CRO) / PAOVIC Sandra (CRO),LIN Chia-Hui (TPE) / LIU Hsing-Yin (TPE),BAKULA Andrea
+Pro Tour VW Open Singapore 2008,2008-06-04,FAN Ying/YAO Yan,YILDIRIM Fulya/OWEN Naomi,3,0,"11,11,11|5,5,5",QR32,GRAND_SLAM,WD,799,Qualification,FAN Ying (CHN) / YAO Yan (CHN),YILDIRIM Fulya (TUR) / OWEN Naomi (WAL),FAN Ying

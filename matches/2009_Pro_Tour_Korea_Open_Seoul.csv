@@ -1,274 +1,274 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Pro Tour Korea Open Seoul 2009,2009-08-19,FENG Xiaoquan,HAM Sori,4,2,"11,11,11,8,9,11|6,9,7,11,11,2",,GRAND_SLAM,MS,47,Qualification,FENG Xiaoquan (AUT),HAM Sori (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,FENG Xiaoquan,CHIU Chung Hei,4,3,"11,9,11,9,11,8,14|9,11,5,11,7,11,12",,GRAND_SLAM,MS,47,Qualification,FENG Xiaoquan (AUT),CHIU Chung Hei (HKG)
-Pro Tour Korea Open Seoul 2009,2009-08-19,HAM Sori,CHIU Chung Hei,4,1,"11,7,12,11,11|5,11,10,7,8",,GRAND_SLAM,MS,47,Qualification,HAM Sori (KOR),CHIU Chung Hei (HKG)
-Pro Tour Korea Open Seoul 2009,2009-08-19,SANGUANSIN Phakpoom,LEE Chia-Sheng,4,0,"11,11,13,12|6,6,11,10",,GRAND_SLAM,MS,47,Qualification,SANGUANSIN Phakpoom (THA),LEE Chia-Sheng (TPE)
-Pro Tour Korea Open Seoul 2009,2009-08-19,SANGUANSIN Phakpoom,PANG Xue Jie,4,1,"5,11,11,11,11|11,7,5,9,8",,GRAND_SLAM,MS,47,Qualification,SANGUANSIN Phakpoom (THA),PANG Xue Jie (SGP)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LEE Chia-Sheng,PANG Xue Jie,4,1,"5,11,11,12,11|11,7,7,10,9",,GRAND_SLAM,MS,47,Qualification,LEE Chia-Sheng (TPE),PANG Xue Jie (SGP)
-Pro Tour Korea Open Seoul 2009,2009-08-19,NIWA Koki,CHEUNG Yat Fung,4,0,"11,11,11,11|9,7,7,5",,GRAND_SLAM,MS,47,Qualification,NIWA Koki (JPN),CHEUNG Yat Fung (HKG)
-Pro Tour Korea Open Seoul 2009,2009-08-19,NIWA Koki,CHANG Shun-Hung,4,1,"11,9,11,11,13|7,11,5,5,11",,GRAND_SLAM,MS,47,Qualification,NIWA Koki (JPN),CHANG Shun-Hung (TPE)
-Pro Tour Korea Open Seoul 2009,2009-08-19,CHANG Shun-Hung,CHEUNG Yat Fung,4,0,"11,11,11,11|3,5,7,9",,GRAND_SLAM,MS,47,Qualification,CHANG Shun-Hung (TPE),CHEUNG Yat Fung (HKG)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LEI Zhenhua,WANG Yi-Tse,4,2,"11,11,11,11,11,11|13,13,2,8,6,8",,GRAND_SLAM,MS,47,Qualification,LEI Zhenhua (CHN),WANG Yi-Tse (TPE)
-Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Donghyun,WANG Yi-Tse,4,2,"11,5,11,9,14,11|9,11,7,11,12,6",,GRAND_SLAM,MS,47,Qualification,KIM Donghyun (KOR),WANG Yi-Tse (TPE)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LEI Zhenhua,KIM Donghyun,4,0,"11,11,11,11|3,7,8,4",,GRAND_SLAM,MS,47,Qualification,LEI Zhenhua (CHN),KIM Donghyun (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,JEOUNG Youngsik,HUNG Tzu-Hsiang,4,2,"11,7,11,6,12,11|7,11,5,11,10,5",,GRAND_SLAM,MS,47,Qualification,JEOUNG Youngsik (KOR),HUNG Tzu-Hsiang (TPE)
-Pro Tour Korea Open Seoul 2009,2009-08-19,JEOUNG Youngsik,GAUZY Simon,4,0,"11,11,11,11|4,4,3,3",,GRAND_SLAM,MS,47,Qualification,JEOUNG Youngsik (KOR),GAUZY Simon (FRA)
-Pro Tour Korea Open Seoul 2009,2009-08-19,HUNG Tzu-Hsiang,GAUZY Simon,4,2,"1,11,11,7,11,11|11,7,7,11,7,8",,GRAND_SLAM,MS,47,Qualification,HUNG Tzu-Hsiang (TPE),GAUZY Simon (FRA)
-Pro Tour Korea Open Seoul 2009,2009-08-19,KUCHUK Aleksandr,LUKATIKISU Beni,4,0,,,GRAND_SLAM,MS,47,Qualification,KUCHUK Aleksandr (BLR),LUKATIKISU Beni (COD)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LORENTZ Romain,WANG LI Chung-Yi,4,2,"11,8,11,11,8,11|8,11,9,9,11,4",,GRAND_SLAM,MS,47,Qualification,LORENTZ Romain (FRA),WANG LI Chung-Yi (TPE)
-Pro Tour Korea Open Seoul 2009,2009-08-19,KUCHUK Aleksandr,LORENTZ Romain,4,3,"11,6,11,14,5,12,11|7,11,6,12,11,14,9",,GRAND_SLAM,MS,47,Qualification,KUCHUK Aleksandr (BLR),LORENTZ Romain (FRA)
-Pro Tour Korea Open Seoul 2009,2009-08-19,WANG LI Chung-Yi,LUKATIKISU Beni,4,0,,,GRAND_SLAM,MS,47,Qualification,WANG LI Chung-Yi (TPE),LUKATIKISU Beni (COD)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LORENTZ Romain,LUKATIKISU Beni,4,0,"11,11,11,11|3,5,2,4",,GRAND_SLAM,MS,47,Qualification,LORENTZ Romain (FRA),LUKATIKISU Beni (COD)
-Pro Tour Korea Open Seoul 2009,2009-08-19,KUCHUK Aleksandr,WANG LI Chung-Yi,4,0,"11,11,12,11|6,5,10,5",,GRAND_SLAM,MS,47,Qualification,KUCHUK Aleksandr (BLR),WANG LI Chung-Yi (TPE)
-Pro Tour Korea Open Seoul 2009,2009-08-19,ASSAR Omar,NKUNDA Djodjo,4,0,,,GRAND_SLAM,MS,47,Qualification,ASSAR Omar (EGY),NKUNDA Djodjo (COD)
-Pro Tour Korea Open Seoul 2009,2009-08-19,QIU Yike,CHAITAT Chaisit,4,0,"11,11,11,11|7,6,8,5",,GRAND_SLAM,MS,47,Qualification,QIU Yike (CHN),CHAITAT Chaisit (THA)
-Pro Tour Korea Open Seoul 2009,2009-08-19,ASSAR Omar,CHAITAT Chaisit,4,1,"11,11,11,9,11|7,9,5,11,8",,GRAND_SLAM,MS,47,Qualification,ASSAR Omar (EGY),CHAITAT Chaisit (THA)
-Pro Tour Korea Open Seoul 2009,2009-08-19,QIU Yike,NKUNDA Djodjo,4,0,,,GRAND_SLAM,MS,47,Qualification,QIU Yike (CHN),NKUNDA Djodjo (COD)
-Pro Tour Korea Open Seoul 2009,2009-08-19,NKUNDA Djodjo,CHAITAT Chaisit,4,0,,,GRAND_SLAM,MS,47,Qualification,NKUNDA Djodjo (COD),CHAITAT Chaisit (THA)
-Pro Tour Korea Open Seoul 2009,2009-08-19,QIU Yike,ASSAR Omar,4,0,"11,11,11,11|8,5,9,1",,GRAND_SLAM,MS,47,Qualification,QIU Yike (CHN),ASSAR Omar (EGY)
-Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Minseok,BIZAKU Jonathan,4,0,,,GRAND_SLAM,MS,47,Qualification,KIM Minseok (KOR),BIZAKU Jonathan (COD)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LE BRETON Thomas,GREEN Wally,4,0,"11,11,11,11|6,6,9,7",,GRAND_SLAM,MS,47,Qualification,LE BRETON Thomas (FRA),GREEN Wally (USA)
-Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Minseok,LE BRETON Thomas,4,0,"11,11,11,11|6,9,7,8",,GRAND_SLAM,MS,47,Qualification,KIM Minseok (KOR),LE BRETON Thomas (FRA)
-Pro Tour Korea Open Seoul 2009,2009-08-19,GREEN Wally,BIZAKU Jonathan,4,0,,,GRAND_SLAM,MS,47,Qualification,GREEN Wally (USA),BIZAKU Jonathan (COD)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LE BRETON Thomas,BIZAKU Jonathan,4,0,"11,11,11,11|2,6,1,4",,GRAND_SLAM,MS,47,Qualification,LE BRETON Thomas (FRA),BIZAKU Jonathan (COD)
-Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Minseok,GREEN Wally,4,0,"11,11,11,11|5,3,5,4",,GRAND_SLAM,MS,47,Qualification,KIM Minseok (KOR),GREEN Wally (USA)
-Pro Tour Korea Open Seoul 2009,2009-08-19,HEO Seonguk,CHEUNG Yat Fung,3,0,"11,11,11|9,6,7",,GRAND_SLAM,U21MS,47,Qualification,HEO Seonguk (KOR),CHEUNG Yat Fung (HKG)
-Pro Tour Korea Open Seoul 2009,2009-08-19,ASSAR Omar,HEO Seonguk,3,2,"11,9,11,10,11|5,11,8,12,9",,GRAND_SLAM,U21MS,47,Qualification,ASSAR Omar (EGY),HEO Seonguk (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,ASSAR Omar,CHEUNG Yat Fung,3,1,"11,11,12,11|4,5,14,7",,GRAND_SLAM,U21MS,47,Qualification,ASSAR Omar (EGY),CHEUNG Yat Fung (HKG)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LEE Chia-Sheng,BIZAKU Jonathan,3,0,,,GRAND_SLAM,U21MS,47,Qualification,LEE Chia-Sheng (TPE),BIZAKU Jonathan (COD)
-Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Minseok,LEE Chia-Sheng,3,0,"11,11,11|7,3,7",,GRAND_SLAM,U21MS,47,Qualification,KIM Minseok (KOR),LEE Chia-Sheng (TPE)
-Pro Tour Korea Open Seoul 2009,2009-08-19,WANG LI Chung-Yi,KIM Hyunmin,3,0,,,GRAND_SLAM,U21MS,47,Qualification,WANG LI Chung-Yi (TPE),KIM Hyunmin (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,WANG LI Chung-Yi,LE BRETON Thomas,3,1,"9,11,11,14|11,5,8,12",,GRAND_SLAM,U21MS,47,Qualification,WANG LI Chung-Yi (TPE),LE BRETON Thomas (FRA)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LE BRETON Thomas,KIM Hyunmin,3,0,,,GRAND_SLAM,U21MS,47,Qualification,LE BRETON Thomas (FRA),KIM Hyunmin (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,HAM Sori,LUKATIKISU Beni,3,0,,,GRAND_SLAM,U21MS,47,Qualification,HAM Sori (KOR),LUKATIKISU Beni (COD)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LORENTZ Romain,HAM Sori,3,1,"8,11,11,11|11,7,8,9",,GRAND_SLAM,U21MS,47,Qualification,LORENTZ Romain (FRA),HAM Sori (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,SEO Junghwa,CHIU Chung Hei,3,0,"11,11,12|9,5,10",,GRAND_SLAM,U21MS,47,Qualification,SEO Junghwa (KOR),CHIU Chung Hei (HKG)
-Pro Tour Korea Open Seoul 2009,2009-08-19,SEO Junghwa,GAUZY Simon,3,1,"15,11,11,11|17,9,5,8",,GRAND_SLAM,U21MS,47,Qualification,SEO Junghwa (KOR),GAUZY Simon (FRA)
-Pro Tour Korea Open Seoul 2009,2009-08-19,GAUZY Simon,CHIU Chung Hei,3,1,"11,11,11,11|8,13,7,9",,GRAND_SLAM,U21MS,47,Qualification,GAUZY Simon (FRA),CHIU Chung Hei (HKG)
-Pro Tour Korea Open Seoul 2009,2009-08-19,HUNG Tzu-Hsiang,PANG Xue Jie,3,1,"11,11,11,11|9,9,13,8",,GRAND_SLAM,U21MS,47,Qualification,HUNG Tzu-Hsiang (TPE),PANG Xue Jie (SGP)
-Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Donghyun,HUNG Tzu-Hsiang,3,0,"11,11,11|8,7,8",,GRAND_SLAM,U21MS,47,Qualification,KIM Donghyun (KOR),HUNG Tzu-Hsiang (TPE)
-Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Donghyun,PANG Xue Jie,3,1,"11,13,8,11|2,11,11,8",,GRAND_SLAM,U21MS,47,Qualification,KIM Donghyun (KOR),PANG Xue Jie (SGP)
-Pro Tour Korea Open Seoul 2009,2009-08-19,CHANG Shun-Hung,TAE Jihoon,3,0,"11,11,11|5,8,7",,GRAND_SLAM,U21MS,47,Qualification,CHANG Shun-Hung (TPE),TAE Jihoon (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,YOO Hoonsuk,NKUNDA Djodjo,3,0,,,GRAND_SLAM,U21MS,47,Qualification,YOO Hoonsuk (KOR),NKUNDA Djodjo (COD)
-Pro Tour Korea Open Seoul 2009,2009-08-19,CHANG Shun-Hung,NKUNDA Djodjo,3,0,"11,11,11|2,4,5",,GRAND_SLAM,U21MS,47,Qualification,CHANG Shun-Hung (TPE),NKUNDA Djodjo (COD)
-Pro Tour Korea Open Seoul 2009,2009-08-19,TAE Jihoon,YOO Hoonsuk,3,1,"5,11,11,11|11,8,7,8",,GRAND_SLAM,U21MS,47,Qualification,TAE Jihoon (KOR),YOO Hoonsuk (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,CHANG Shun-Hung,YOO Hoonsuk,3,0,"11,13,11|8,11,5",,GRAND_SLAM,U21MS,47,Qualification,CHANG Shun-Hung (TPE),YOO Hoonsuk (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,TAE Jihoon,NKUNDA Djodjo,3,0,"11,11,11|4,6,7",,GRAND_SLAM,U21MS,47,Qualification,TAE Jihoon (KOR),NKUNDA Djodjo (COD)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LASHIN Elsayed,KUCHUK Aleksandr,4,2,"8,11,11,9,11,11|11,9,8,11,9,3",R64,GRAND_SLAM,MS,47,Main Draw,LASHIN Elsayed (EGY),KUCHUK Aleksandr (BLR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,CHO Eonrae,HUNG Tzu-Hsiang,4,0,"11,11,11,11|8,8,6,4",R64,GRAND_SLAM,MS,47,Main Draw,CHO Eonrae (KOR),HUNG Tzu-Hsiang (TPE)
-Pro Tour Korea Open Seoul 2009,2009-08-19,KISHIKAWA Seiya,ASSAR Omar,4,0,"11,11,11,11|9,7,7,8",R64,GRAND_SLAM,MS,47,Main Draw,KISHIKAWA Seiya (JPN),ASSAR Omar (EGY)
-Pro Tour Korea Open Seoul 2009,2009-08-19,SANGUANSIN Phakpoom,ZHMUDENKO Yaroslav,4,2,"11,12,11,6,5,11|6,10,7,11,11,9",R64,GRAND_SLAM,MS,47,Main Draw,SANGUANSIN Phakpoom (THA),ZHMUDENKO Yaroslav (UKR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Minseok,SANGUANSIN Phuchong,4,2,"11,11,14,11,7,12|13,6,12,3,11,10",R64,GRAND_SLAM,MS,47,Main Draw,KIM Minseok (KOR),SANGUANSIN Phuchong (THA)
-Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Donghyun,MATTENET Adrien,4,3,"4,11,8,11,13,11,11|11,13,11,5,11,9,7",R64,GRAND_SLAM,MS,47,Main Draw,KIM Donghyun (KOR),MATTENET Adrien (FRA)
-Pro Tour Korea Open Seoul 2009,2009-08-19,HAM Sori,WU Chih-Chi,4,3,"11,8,11,5,8,11,11|4,11,8,11,11,8,7",R64,GRAND_SLAM,MS,47,Main Draw,HAM Sori (KOR),WU Chih-Chi (TPE)
-Pro Tour Korea Open Seoul 2009,2009-08-19,SEO Hyundeok,FENG Xiaoquan,4,1,"11,11,8,11,11|9,9,11,5,8",R64,GRAND_SLAM,MS,47,Main Draw,SEO Hyundeok (KOR),FENG Xiaoquan (AUT)
-Pro Tour Korea Open Seoul 2009,2009-08-19,JEOUNG Youngsik,CHEN Chien-An,4,2,"7,5,11,11,11,11|11,11,3,6,7,9",R64,GRAND_SLAM,MS,47,Main Draw,JEOUNG Youngsik (KOR),CHEN Chien-An (TPE)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LEBESSON Emmanuel,LEE Chia-Sheng,4,0,"11,11,11,14|5,5,8,12",R64,GRAND_SLAM,MS,47,Main Draw,LEBESSON Emmanuel (FRA),LEE Chia-Sheng (TPE)
-Pro Tour Korea Open Seoul 2009,2009-08-19,YANG Zi,LE BRETON Thomas,4,0,"11,11,11,15|3,5,7,13",R64,GRAND_SLAM,MS,47,Main Draw,YANG Zi (SGP),LE BRETON Thomas (FRA)
-Pro Tour Korea Open Seoul 2009,2009-08-19,NIWA Koki,JEONG Sangeun,4,2,"11,12,6,10,12,11|9,10,11,12,10,9",R64,GRAND_SLAM,MS,47,Main Draw,NIWA Koki (JPN),JEONG Sangeun (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,QIU Yike,CHO Jihoon,4,1,"11,11,9,11,11|8,4,11,2,6",R64,GRAND_SLAM,MS,47,Main Draw,QIU Yike (CHN),CHO Jihoon (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LEE Jinkwon,CHANG Shun-Hung,4,2,"11,11,8,11,11,11|4,5,11,13,6,8",R64,GRAND_SLAM,MS,47,Main Draw,LEE Jinkwon (KOR),CHANG Shun-Hung (TPE)
-Pro Tour Korea Open Seoul 2009,2009-08-19,MATSUDAIRA Kenta,LORENTZ Romain,4,1,"8,11,11,11,11|11,8,5,7,6",R64,GRAND_SLAM,MS,47,Main Draw,MATSUDAIRA Kenta (JPN),LORENTZ Romain (FRA)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LEI Zhenhua,SALIFOU Abdel-Kader,4,1,"11,17,6,11,11|7,15,11,5,9",R64,GRAND_SLAM,MS,47,Main Draw,LEI Zhenhua (CHN),SALIFOU Abdel-Kader (BEN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,WANG Hao,LASHIN Elsayed,4,1,"12,11,11,9,11|10,7,6,11,6",R32,GRAND_SLAM,MS,47,Main Draw,WANG Hao (CHN),LASHIN Elsayed (EGY)
-Pro Tour Korea Open Seoul 2009,2009-08-19,CHO Eonrae,TOKIC Bojan,4,1,"13,11,11,7,11|11,7,8,11,8",R32,GRAND_SLAM,MS,47,Main Draw,CHO Eonrae (KOR),TOKIC Bojan (SLO)
-Pro Tour Korea Open Seoul 2009,2009-08-19,CHEN Weixing,KISHIKAWA Seiya,4,2,"10,6,11,11,11,11|12,11,5,6,6,5",R32,GRAND_SLAM,MS,47,Main Draw,CHEN Weixing (AUT),KISHIKAWA Seiya (JPN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,CHUANG Chih-Yuan,SANGUANSIN Phakpoom,4,0,"11,11,11,11|9,4,8,9",R32,GRAND_SLAM,MS,47,Main Draw,CHUANG Chih-Yuan (TPE),SANGUANSIN Phakpoom (THA)
-Pro Tour Korea Open Seoul 2009,2009-08-19,MAZE Michael,KIM Minseok,4,2,"11,9,11,11,6,13|9,11,5,8,11,11",R32,GRAND_SLAM,MS,47,Main Draw,MAZE Michael (DEN),KIM Minseok (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,YOON Jaeyoung,KIM Donghyun,4,2,"11,7,2,13,11,11|8,11,11,11,8,3",R32,GRAND_SLAM,MS,47,Main Draw,YOON Jaeyoung (KOR),KIM Donghyun (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,YOSHIDA Kaii,HAM Sori,4,1,"4,11,11,11,11|11,4,6,3,6",R32,GRAND_SLAM,MS,47,Main Draw,YOSHIDA Kaii (JPN),HAM Sori (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,HAO Shuai,SEO Hyundeok,4,1,"9,11,11,11,11|11,4,8,4,7",R32,GRAND_SLAM,MS,47,Main Draw,HAO Shuai (CHN),SEO Hyundeok (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,OH Sangeun,JEOUNG Youngsik,4,2,"9,12,12,7,11,11|11,10,10,11,4,6",R32,GRAND_SLAM,MS,47,Main Draw,OH Sangeun (KOR),JEOUNG Youngsik (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,BAUM Patrick,LEBESSON Emmanuel,4,1,"11,12,11,7,11|8,10,7,11,7",R32,GRAND_SLAM,MS,47,Main Draw,BAUM Patrick (GER),LEBESSON Emmanuel (FRA)
-Pro Tour Korea Open Seoul 2009,2009-08-19,RYU Seungmin,YANG Zi,4,0,"11,11,11,11|9,2,8,7",R32,GRAND_SLAM,MS,47,Main Draw,RYU Seungmin (KOR),YANG Zi (SGP)
-Pro Tour Korea Open Seoul 2009,2009-08-19,OVTCHAROV Dimitrij,NIWA Koki,4,3,"5,4,11,9,11,11,15|11,11,6,11,9,9,13",R32,GRAND_SLAM,MS,47,Main Draw,OVTCHAROV Dimitrij (GER),NIWA Koki (JPN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,MIZUTANI Jun,QIU Yike,4,0,"11,11,11,11|8,5,5,8",R32,GRAND_SLAM,MS,47,Main Draw,MIZUTANI Jun (JPN),QIU Yike (CHN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LEE Jinkwon,CHIANG Peng-Lung,4,2,"11,10,11,3,12,11|9,12,4,11,10,3",R32,GRAND_SLAM,MS,47,Main Draw,LEE Jinkwon (KOR),CHIANG Peng-Lung (TPE)
-Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Junghoon,MATSUDAIRA Kenta,4,3,"7,9,11,11,13,10,11|11,11,9,4,11,12,4",R32,GRAND_SLAM,MS,47,Main Draw,KIM Junghoon (KOR),MATSUDAIRA Kenta (JPN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,JOO Saehyuk,LEI Zhenhua,4,2,"11,7,11,4,11,11|7,11,8,11,9,6",R32,GRAND_SLAM,MS,47,Main Draw,JOO Saehyuk (KOR),LEI Zhenhua (CHN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,WANG Hao,CHO Eonrae,4,2,"8,11,11,13,10,11|11,7,5,11,12,1",R16,GRAND_SLAM,MS,47,Main Draw,WANG Hao (CHN),CHO Eonrae (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,CHEN Weixing,CHUANG Chih-Yuan,4,0,"11,11,11,13|4,8,8,11",R16,GRAND_SLAM,MS,47,Main Draw,CHEN Weixing (AUT),CHUANG Chih-Yuan (TPE)
-Pro Tour Korea Open Seoul 2009,2009-08-19,MAZE Michael,YOON Jaeyoung,4,1,"11,11,9,11,11|8,7,11,4,9",R16,GRAND_SLAM,MS,47,Main Draw,MAZE Michael (DEN),YOON Jaeyoung (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,HAO Shuai,YOSHIDA Kaii,4,1,"11,8,11,11,11|6,11,3,7,8",R16,GRAND_SLAM,MS,47,Main Draw,HAO Shuai (CHN),YOSHIDA Kaii (JPN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,BAUM Patrick,OH Sangeun,4,3,"9,10,11,11,11,5,11|11,12,8,7,7,11,7",R16,GRAND_SLAM,MS,47,Main Draw,BAUM Patrick (GER),OH Sangeun (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,OVTCHAROV Dimitrij,RYU Seungmin,4,2,"10,7,11,11,11,11|12,11,6,7,8,5",R16,GRAND_SLAM,MS,47,Main Draw,OVTCHAROV Dimitrij (GER),RYU Seungmin (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,MIZUTANI Jun,LEE Jinkwon,4,1,"11,11,8,11,12|6,7,11,9,10",R16,GRAND_SLAM,MS,47,Main Draw,MIZUTANI Jun (JPN),LEE Jinkwon (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,JOO Saehyuk,KIM Junghoon,4,0,"11,11,11,11|6,6,1,8",R16,GRAND_SLAM,MS,47,Main Draw,JOO Saehyuk (KOR),KIM Junghoon (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,WANG Hao,CHEN Weixing,4,0,"11,11,11,11|4,6,7,2",QF,GRAND_SLAM,MS,47,Main Draw,WANG Hao (CHN),CHEN Weixing (AUT)
-Pro Tour Korea Open Seoul 2009,2009-08-19,HAO Shuai,MAZE Michael,4,1,"10,13,11,12,11|12,11,6,10,9",QF,GRAND_SLAM,MS,47,Main Draw,HAO Shuai (CHN),MAZE Michael (DEN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,OVTCHAROV Dimitrij,BAUM Patrick,4,2,"11,9,11,11,6,13|9,11,9,6,11,11",QF,GRAND_SLAM,MS,47,Main Draw,OVTCHAROV Dimitrij (GER),BAUM Patrick (GER)
-Pro Tour Korea Open Seoul 2009,2009-08-19,MIZUTANI Jun,JOO Saehyuk,4,3,"11,4,11,11,11,3,11|9,11,13,6,7,11,9",QF,GRAND_SLAM,MS,47,Main Draw,MIZUTANI Jun (JPN),JOO Saehyuk (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,HAO Shuai,WANG Hao,4,2,"11,5,11,11,9,11|9,11,9,6,11,8",SF,GRAND_SLAM,MS,47,Main Draw,HAO Shuai (CHN),WANG Hao (CHN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,MIZUTANI Jun,OVTCHAROV Dimitrij,4,0,"11,11,11,11|7,7,8,3",SF,GRAND_SLAM,MS,47,Main Draw,MIZUTANI Jun (JPN),OVTCHAROV Dimitrij (GER)
-Pro Tour Korea Open Seoul 2009,2009-08-19,MIZUTANI Jun,HAO Shuai,4,1,"14,11,7,11,12|12,9,11,8,10",F,GRAND_SLAM,MS,47,Main Draw,MIZUTANI Jun (JPN),HAO Shuai (CHN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,JEONG Sangeun,HUNG Tzu-Hsiang,4,2,"10,8,11,11,11,11|12,11,5,7,6,4",R16,GRAND_SLAM,U21MS,47,Main Draw,JEONG Sangeun (KOR),HUNG Tzu-Hsiang (TPE)
-Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Donghyun,CHEN Chien-An,4,3,"11,11,9,9,12,11,11|5,9,11,11,14,7,7",R16,GRAND_SLAM,U21MS,47,Main Draw,KIM Donghyun (KOR),CHEN Chien-An (TPE)
-Pro Tour Korea Open Seoul 2009,2009-08-19,SEO Junghwa,WANG Yi-Tse,4,2,"11,12,11,11,11,11|13,14,6,6,8,9",R16,GRAND_SLAM,U21MS,47,Main Draw,SEO Junghwa (KOR),WANG Yi-Tse (TPE)
-Pro Tour Korea Open Seoul 2009,2009-08-19,SEO Hyundeok,ASSAR Omar,4,1,"11,8,13,11,11|8,11,11,8,8",R16,GRAND_SLAM,U21MS,47,Main Draw,SEO Hyundeok (KOR),ASSAR Omar (EGY)
-Pro Tour Korea Open Seoul 2009,2009-08-19,ZHMUDENKO Yaroslav,WANG LI Chung-Yi,4,1,"11,11,5,11,11|9,7,11,4,4",R16,GRAND_SLAM,U21MS,47,Main Draw,ZHMUDENKO Yaroslav (UKR),WANG LI Chung-Yi (TPE)
-Pro Tour Korea Open Seoul 2009,2009-08-19,NIWA Koki,KIM Minseok,4,3,"11,12,11,8,10,9,11|7,10,7,11,12,11,8",R16,GRAND_SLAM,U21MS,47,Main Draw,NIWA Koki (JPN),KIM Minseok (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,JEOUNG Youngsik,LORENTZ Romain,4,0,"11,11,12,11|9,3,10,4",R16,GRAND_SLAM,U21MS,47,Main Draw,JEOUNG Youngsik (KOR),LORENTZ Romain (FRA)
-Pro Tour Korea Open Seoul 2009,2009-08-19,SALIFOU Abdel-Kader,CHANG Shun-Hung,4,1,"7,11,11,11,11|11,9,6,6,4",R16,GRAND_SLAM,U21MS,47,Main Draw,SALIFOU Abdel-Kader (BEN),CHANG Shun-Hung (TPE)
-Pro Tour Korea Open Seoul 2009,2009-08-19,JEONG Sangeun,KIM Donghyun,4,0,"11,11,11,11|7,9,9,5",QF,GRAND_SLAM,U21MS,47,Main Draw,JEONG Sangeun (KOR),KIM Donghyun (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,SEO Hyundeok,SEO Junghwa,4,1,"11,13,7,11,11|8,11,11,4,5",QF,GRAND_SLAM,U21MS,47,Main Draw,SEO Hyundeok (KOR),SEO Junghwa (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,NIWA Koki,ZHMUDENKO Yaroslav,4,0,"12,11,11,11|10,5,4,7",QF,GRAND_SLAM,U21MS,47,Main Draw,NIWA Koki (JPN),ZHMUDENKO Yaroslav (UKR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,JEOUNG Youngsik,SALIFOU Abdel-Kader,4,0,"11,14,11,11|6,12,8,6",QF,GRAND_SLAM,U21MS,47,Main Draw,JEOUNG Youngsik (KOR),SALIFOU Abdel-Kader (BEN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,JEONG Sangeun,SEO Hyundeok,4,3,"11,9,6,11,11,9,11|9,11,11,9,8,11,8",SF,GRAND_SLAM,U21MS,47,Main Draw,JEONG Sangeun (KOR),SEO Hyundeok (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,JEOUNG Youngsik,NIWA Koki,4,0,"11,11,11,11|6,9,7,7",SF,GRAND_SLAM,U21MS,47,Main Draw,JEOUNG Youngsik (KOR),NIWA Koki (JPN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,JEONG Sangeun,JEOUNG Youngsik,4,1,"11,11,8,11,11|7,7,11,5,7",F,GRAND_SLAM,U21MS,47,Main Draw,JEONG Sangeun (KOR),JEOUNG Youngsik (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,CHE Xiaoxi,TANIOKA Ayuka,4,0,"11,11,11,11|8,8,8,3",,GRAND_SLAM,WS,47,Qualification,CHE Xiaoxi (CHN),TANIOKA Ayuka (JPN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LAU Sui Fei,TANIOKA Ayuka,4,2,"15,13,8,12,11,11|13,11,11,14,9,7",,GRAND_SLAM,WS,47,Qualification,LAU Sui Fei (HKG),TANIOKA Ayuka (JPN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LAU Sui Fei,CHE Xiaoxi,4,1,"12,11,10,11,12|10,9,12,5,10",,GRAND_SLAM,WS,47,Qualification,LAU Sui Fei (HKG),CHE Xiaoxi (CHN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,PRIVALOVA Alexandra,GUAN Mengyuan,4,3,"8,10,11,11,11,6,11|11,12,9,7,7,11,8",,GRAND_SLAM,WS,47,Qualification,PRIVALOVA Alexandra (BLR),GUAN Mengyuan (HKG)
-Pro Tour Korea Open Seoul 2009,2009-08-19,ISHIGAKI Yuka,GUAN Mengyuan,4,0,"11,11,11,11|6,6,8,6",,GRAND_SLAM,WS,47,Qualification,ISHIGAKI Yuka (JPN),GUAN Mengyuan (HKG)
-Pro Tour Korea Open Seoul 2009,2009-08-19,ISHIGAKI Yuka,PRIVALOVA Alexandra,4,1,"5,11,12,11,11|11,5,10,7,3",,GRAND_SLAM,WS,47,Qualification,ISHIGAKI Yuka (JPN),PRIVALOVA Alexandra (BLR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,NG Wing Nam,FUJII Yuko,4,0,"12,11,11,11|10,6,8,6",,GRAND_SLAM,WS,47,Qualification,NG Wing Nam (HKG),FUJII Yuko (JPN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,SEOK Hajung,NG Wing Nam,4,0,"12,11,13,11|10,8,11,5",,GRAND_SLAM,WS,47,Qualification,SEOK Hajung (KOR),NG Wing Nam (HKG)
-Pro Tour Korea Open Seoul 2009,2009-08-19,SEOK Hajung,FUJII Yuko,4,1,"11,11,11,11,11|7,8,13,9,4",,GRAND_SLAM,WS,47,Qualification,SEOK Hajung (KOR),FUJII Yuko (JPN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Minhee (YOB=1991),LEE Ho Ching,4,0,"11,14,14,11|8,12,12,9",,GRAND_SLAM,WS,47,Qualification,KIM Minhee (YOB=1991) (KOR),LEE Ho Ching (HKG)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LEE Ho Ching,BARTHEL Zhenqi,4,1,"11,11,11,9,11|8,7,6,11,6",,GRAND_SLAM,WS,47,Qualification,LEE Ho Ching (HKG),BARTHEL Zhenqi (GER)
-Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Minhee (YOB=1991),BARTHEL Zhenqi,4,2,"7,11,11,6,12,11|11,7,7,11,10,4",,GRAND_SLAM,WS,47,Qualification,KIM Minhee (YOB=1991) (KOR),BARTHEL Zhenqi (GER)
-Pro Tour Korea Open Seoul 2009,2009-08-19,YANG Ha Eun,DURAK Mirela,4,1,"11,11,9,11,11|7,9,11,9,6",,GRAND_SLAM,WS,47,Qualification,YANG Ha Eun (KOR),DURAK Mirela (CRO)
-Pro Tour Korea Open Seoul 2009,2009-08-19,KOMWONG Nanthana,DURAK Mirela,4,2,"11,11,11,11,12,11|13,8,2,6,14,4",,GRAND_SLAM,WS,47,Qualification,KOMWONG Nanthana (THA),DURAK Mirela (CRO)
-Pro Tour Korea Open Seoul 2009,2009-08-19,YANG Ha Eun,KOMWONG Nanthana,4,0,"11,11,11,11|4,7,4,4",,GRAND_SLAM,WS,47,Qualification,YANG Ha Eun (KOR),KOMWONG Nanthana (THA)
-Pro Tour Korea Open Seoul 2009,2009-08-19,MORIZONO Misaki,LEE Hyun,4,2,"6,8,12,11,11,11|11,11,10,7,6,6",,GRAND_SLAM,WS,47,Qualification,MORIZONO Misaki (JPN),LEE Hyun (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,ZHANG Rui,LEE Hyun,4,1,"11,11,11,12,11|5,5,8,14,8",,GRAND_SLAM,WS,47,Qualification,ZHANG Rui (HKG),LEE Hyun (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,ZHANG Rui,MORIZONO Misaki,4,0,"11,11,12,17|7,6,10,15",,GRAND_SLAM,WS,47,Qualification,ZHANG Rui (HKG),MORIZONO Misaki (JPN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,MUANGSUK Anisara,SONG Maeum,4,2,"11,11,11,7,6,11|8,5,4,11,11,9",,GRAND_SLAM,WS,47,Qualification,MUANGSUK Anisara (THA),SONG Maeum (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LI Xue,SONG Maeum,4,0,"11,11,11,12|9,3,7,10",,GRAND_SLAM,WS,47,Qualification,LI Xue (FRA),SONG Maeum (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LI Xue,MUANGSUK Anisara,4,0,"11,11,11,11|8,2,5,6",,GRAND_SLAM,WS,47,Qualification,LI Xue (FRA),MUANGSUK Anisara (THA)
-Pro Tour Korea Open Seoul 2009,2009-08-19,YAMANASHI Yuri,SIM Kai Xin Zena,4,0,"11,11,11,11|3,7,7,9",,GRAND_SLAM,WS,47,Qualification,YAMANASHI Yuri (JPN),SIM Kai Xin Zena (SGP)
-Pro Tour Korea Open Seoul 2009,2009-08-19,MOON Hyunjung,SIM Kai Xin Zena,4,0,"11,11,11,11|3,2,3,3",,GRAND_SLAM,WS,47,Qualification,MOON Hyunjung (KOR),SIM Kai Xin Zena (SGP)
-Pro Tour Korea Open Seoul 2009,2009-08-19,YAMANASHI Yuri,MOON Hyunjung,4,2,"11,11,11,11,4,11|4,7,6,13,11,9",,GRAND_SLAM,WS,47,Qualification,YAMANASHI Yuri (JPN),MOON Hyunjung (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Junghyun,SAWETTABUT Suthasini,4,3,"11,11,11,12,9,8,11|3,5,5,14,11,11,7",,GRAND_SLAM,WS,47,Qualification,KIM Junghyun (KOR),SAWETTABUT Suthasini (THA)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LANG Kristin,SAWETTABUT Suthasini,4,0,"11,11,11,11|5,7,8,7",,GRAND_SLAM,WS,47,Qualification,LANG Kristin (GER),SAWETTABUT Suthasini (THA)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LANG Kristin,KIM Junghyun,4,3,"8,17,9,2,12,11,11|11,15,11,11,10,9,9",,GRAND_SLAM,WS,47,Qualification,LANG Kristin (GER),KIM Junghyun (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,YU Kwok See,ZHANG Qiang,4,2,"11,13,6,14,7,11|6,11,11,12,11,7",,GRAND_SLAM,WS,47,Qualification,YU Kwok See (HKG),ZHANG Qiang (CHN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,PARK Youngsook,ZHANG Qiang,4,3,"14,11,12,11,7,7,11|12,7,14,6,11,11,8",,GRAND_SLAM,WS,47,Qualification,PARK Youngsook (KOR),ZHANG Qiang (CHN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,YU Kwok See,PARK Youngsook,4,2,"12,11,11,9,11,11|14,8,3,11,9,9",,GRAND_SLAM,WS,47,Qualification,YU Kwok See (HKG),PARK Youngsook (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,SHENG Dandan,WAKAMIYA Misako,4,3,"6,12,11,10,11,9,13|11,10,8,12,7,11,11",,GRAND_SLAM,WS,47,Qualification,SHENG Dandan (CHN),WAKAMIYA Misako (JPN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,SHENG Dandan,CHOI Moonyoung,4,0,"11,11,11,11|7,8,4,9",,GRAND_SLAM,WS,47,Qualification,SHENG Dandan (CHN),CHOI Moonyoung (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,CHOI Moonyoung,WAKAMIYA Misako,4,1,"11,12,8,12,11|8,10,11,10,5",,GRAND_SLAM,WS,47,Qualification,CHOI Moonyoung (KOR),WAKAMIYA Misako (JPN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,SUH Hyo Won,YAO Junyu,4,1,"11,11,11,6,11|1,2,2,11,5",,GRAND_SLAM,WS,47,Qualification,SUH Hyo Won (KOR),YAO Junyu (CHN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,BAKULA Andrea,TASHIRO Saki,4,0,"11,11,11,13|6,9,4,11",,GRAND_SLAM,WS,47,Qualification,BAKULA Andrea (CRO),TASHIRO Saki (JPN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,SUH Hyo Won,TASHIRO Saki,4,0,"11,11,11,11|6,3,5,5",,GRAND_SLAM,WS,47,Qualification,SUH Hyo Won (KOR),TASHIRO Saki (JPN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,YAO Junyu,BAKULA Andrea,4,1,"11,7,11,11,11|6,11,5,8,4",,GRAND_SLAM,WS,47,Qualification,YAO Junyu (CHN),BAKULA Andrea (CRO)
-Pro Tour Korea Open Seoul 2009,2009-08-19,SUH Hyo Won,BAKULA Andrea,4,2,"8,11,8,11,11,11|11,8,11,7,7,4",,GRAND_SLAM,WS,47,Qualification,SUH Hyo Won (KOR),BAKULA Andrea (CRO)
-Pro Tour Korea Open Seoul 2009,2009-08-19,YAO Junyu,TASHIRO Saki,4,2,"8,11,11,11,7,11|11,4,5,9,11,7",,GRAND_SLAM,WS,47,Qualification,YAO Junyu (CHN),TASHIRO Saki (JPN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,SAWETTABUT Suthasini,CHEON Seeun,3,0,"11,11,11|6,7,8",,GRAND_SLAM,U21WS,47,Qualification,SAWETTABUT Suthasini (THA),CHEON Seeun (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,TANIOKA Ayuka,CHEON Seeun,3,0,"11,13,11|4,11,8",,GRAND_SLAM,U21WS,47,Qualification,TANIOKA Ayuka (JPN),CHEON Seeun (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,TANIOKA Ayuka,SAWETTABUT Suthasini,3,0,"11,12,11|4,10,6",,GRAND_SLAM,U21WS,47,Qualification,TANIOKA Ayuka (JPN),SAWETTABUT Suthasini (THA)
-Pro Tour Korea Open Seoul 2009,2009-08-19,TSUCHIDA Miki,YOO Eunchong,3,0,"11,11,11|8,5,9",,GRAND_SLAM,U21WS,47,Qualification,TSUCHIDA Miki (JPN),YOO Eunchong (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,CHE Xiaoxi,TSUCHIDA Miki,3,0,"12,11,11|10,6,9",,GRAND_SLAM,U21WS,47,Qualification,CHE Xiaoxi (CHN),TSUCHIDA Miki (JPN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,CHE Xiaoxi,YOO Eunchong,3,0,"11,11,11|2,6,3",,GRAND_SLAM,U21WS,47,Qualification,CHE Xiaoxi (CHN),YOO Eunchong (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,YAO Junyu,JO Yujin,3,0,"11,11,11|8,5,9",,GRAND_SLAM,U21WS,47,Qualification,YAO Junyu (CHN),JO Yujin (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,YAO Junyu,NG Wing Nam,3,1,"11,6,13,11|3,11,11,5",,GRAND_SLAM,U21WS,47,Qualification,YAO Junyu (CHN),NG Wing Nam (HKG)
-Pro Tour Korea Open Seoul 2009,2009-08-19,NG Wing Nam,JO Yujin,3,0,"11,11,11|2,8,2",,GRAND_SLAM,U21WS,47,Qualification,NG Wing Nam (HKG),JO Yujin (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Mingyung,YU Sora,3,2,"11,11,9,9,11|4,9,11,11,7",,GRAND_SLAM,U21WS,47,Qualification,KIM Mingyung (KOR),YU Sora (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,YU Sora,LEE Ho Ching,3,1,"7,11,11,12|11,7,5,10",,GRAND_SLAM,U21WS,47,Qualification,YU Sora (KOR),LEE Ho Ching (HKG)
-Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Mingyung,LEE Ho Ching,3,2,"8,11,10,11,13|11,6,12,8,11",,GRAND_SLAM,U21WS,47,Qualification,KIM Mingyung (KOR),LEE Ho Ching (HKG)
-Pro Tour Korea Open Seoul 2009,2009-08-19,SHENG Dandan,SIM Kai Xin Zena,3,0,"11,11,11|5,5,4",,GRAND_SLAM,U21WS,47,Qualification,SHENG Dandan (CHN),SIM Kai Xin Zena (SGP)
-Pro Tour Korea Open Seoul 2009,2009-08-19,SHENG Dandan,HWANG Jina,3,0,"11,11,16|7,3,14",,GRAND_SLAM,U21WS,47,Qualification,SHENG Dandan (CHN),HWANG Jina (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,HWANG Jina,SIM Kai Xin Zena,3,0,"11,11,13|9,8,11",,GRAND_SLAM,U21WS,47,Qualification,HWANG Jina (KOR),SIM Kai Xin Zena (SGP)
-Pro Tour Korea Open Seoul 2009,2009-08-19,TASHIRO Saki,SONG Maeum,3,0,"11,14,13|3,12,11",,GRAND_SLAM,U21WS,47,Qualification,TASHIRO Saki (JPN),SONG Maeum (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,TASHIRO Saki,DURAK Mirela,3,0,"12,11,11|10,8,7",,GRAND_SLAM,U21WS,47,Qualification,TASHIRO Saki (JPN),DURAK Mirela (CRO)
-Pro Tour Korea Open Seoul 2009,2009-08-19,SONG Maeum,DURAK Mirela,3,0,"13,12,11|11,10,7",,GRAND_SLAM,U21WS,47,Qualification,SONG Maeum (KOR),DURAK Mirela (CRO)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LEE Sujin,DOI Minami,3,1,"11,11,9,11|8,4,11,7",,GRAND_SLAM,U21WS,47,Qualification,LEE Sujin (KOR),DOI Minami (JPN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LEE Hyun,ZHANG Qiang,3,0,"11,13,11|5,11,6",,GRAND_SLAM,U21WS,47,Qualification,LEE Hyun (KOR),ZHANG Qiang (CHN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,ZHANG Qiang,DOI Minami,3,0,"11,11,11|4,9,5",,GRAND_SLAM,U21WS,47,Qualification,ZHANG Qiang (CHN),DOI Minami (JPN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LEE Hyun,LEE Sujin,3,0,"11,11,11|5,5,5",,GRAND_SLAM,U21WS,47,Qualification,LEE Hyun (KOR),LEE Sujin (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,DOI Minami,LEE Hyun,3,1,"15,9,11,12|13,11,3,10",,GRAND_SLAM,U21WS,47,Qualification,DOI Minami (JPN),LEE Hyun (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,ZHANG Qiang,LEE Sujin,3,0,"12,11,11|10,7,9",,GRAND_SLAM,U21WS,47,Qualification,ZHANG Qiang (CHN),LEE Sujin (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,FENG Tianwei,KIM Junghyun,4,0,"11,11,11,11|4,5,6,6",R32,GRAND_SLAM,WS,47,Main Draw,FENG Tianwei (SGP),KIM Junghyun (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LIN Ling,KIM Minhee (YOB=1991),4,0,"14,11,13,11|12,8,11,9",R32,GRAND_SLAM,WS,47,Main Draw,LIN Ling (HKG),KIM Minhee (YOB=1991) (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,YANG Ha Eun,HIURA Reiko,4,2,"11,11,6,10,11,11|9,8,11,12,4,8",R32,GRAND_SLAM,WS,47,Main Draw,YANG Ha Eun (KOR),HIURA Reiko (JPN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LAU Sui Fei,YAMANASHI Yuri,4,1,"12,6,11,11,11|10,11,8,6,9",R32,GRAND_SLAM,WS,47,Main Draw,LAU Sui Fei (HKG),YAMANASHI Yuri (JPN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,TIE Yana,LANG Kristin,4,2,"7,11,9,11,11,11|11,8,11,5,5,6",R32,GRAND_SLAM,WS,47,Main Draw,TIE Yana (HKG),LANG Kristin (GER)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LEE Eunhee,MORIZONO Misaki,4,2,"8,11,13,7,11,12|11,4,11,11,9,10",R32,GRAND_SLAM,WS,47,Main Draw,LEE Eunhee (KOR),MORIZONO Misaki (JPN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,SUN Beibei,SHENG Dandan,4,3,"11,10,11,11,11,7,11|13,12,2,7,9,11,8",R32,GRAND_SLAM,WS,47,Main Draw,SUN Beibei (SGP),SHENG Dandan (CHN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,WANG Yuegu,PARK Youngsook,4,1,"8,11,11,11,11|11,5,8,5,5",R32,GRAND_SLAM,WS,47,Main Draw,WANG Yuegu (SGP),PARK Youngsook (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,JIANG Huajun,MUANGSUK Anisara,4,2,"11,7,11,5,11,11|8,11,2,11,6,8",R32,GRAND_SLAM,WS,47,Main Draw,JIANG Huajun (HKG),MUANGSUK Anisara (THA)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LI Xue,BOROS Tamara,4,1,"11,11,11,13,11|6,8,9,15,8",R32,GRAND_SLAM,WS,47,Main Draw,LI Xue (FRA),BOROS Tamara (CRO)
-Pro Tour Korea Open Seoul 2009,2009-08-19,ZHANG Rui,YU Mengyu,4,2,"7,11,12,4,11,11|11,8,10,11,9,5",R32,GRAND_SLAM,WS,47,Main Draw,ZHANG Rui (HKG),YU Mengyu (SGP)
-Pro Tour Korea Open Seoul 2009,2009-08-19,ISHIGAKI Yuka,DANG Yeseo,4,3,"11,5,9,8,11,11,11|9,11,11,11,5,5,6",R32,GRAND_SLAM,WS,47,Main Draw,ISHIGAKI Yuka (JPN),DANG Yeseo (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,PARK Miyoung,YU Kwok See,4,0,"11,11,11,11|1,8,5,6",R32,GRAND_SLAM,WS,47,Main Draw,PARK Miyoung (KOR),YU Kwok See (HKG)
-Pro Tour Korea Open Seoul 2009,2009-08-19,SEOK Hajung,WU Jiaduo,4,0,"11,11,11,12|5,8,7,10",R32,GRAND_SLAM,WS,47,Main Draw,SEOK Hajung (KOR),WU Jiaduo (GER)
-Pro Tour Korea Open Seoul 2009,2009-08-19,FUKUHARA Ai,SUH Hyo Won,4,1,"11,11,12,9,11|9,8,10,11,5",R32,GRAND_SLAM,WS,47,Main Draw,FUKUHARA Ai (JPN),SUH Hyo Won (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Kyungah,LEE Ho Ching,4,1,"11,11,11,10,11|8,8,7,12,7",R32,GRAND_SLAM,WS,47,Main Draw,KIM Kyungah (KOR),LEE Ho Ching (HKG)
-Pro Tour Korea Open Seoul 2009,2009-08-19,FENG Tianwei,LIN Ling,4,1,"11,13,11,9,11|4,11,4,11,7",R16,GRAND_SLAM,WS,47,Main Draw,FENG Tianwei (SGP),LIN Ling (HKG)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LAU Sui Fei,YANG Ha Eun,4,1,"11,11,11,11,12|13,6,7,5,10",R16,GRAND_SLAM,WS,47,Main Draw,LAU Sui Fei (HKG),YANG Ha Eun (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,TIE Yana,LEE Eunhee,4,2,"7,11,3,11,11,11|11,8,11,8,5,8",R16,GRAND_SLAM,WS,47,Main Draw,TIE Yana (HKG),LEE Eunhee (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,SUN Beibei,WANG Yuegu,4,0,"13,13,11,11|11,11,6,3",R16,GRAND_SLAM,WS,47,Main Draw,SUN Beibei (SGP),WANG Yuegu (SGP)
-Pro Tour Korea Open Seoul 2009,2009-08-19,JIANG Huajun,LI Xue,4,2,"9,8,11,11,11,11|11,11,3,8,4,6",R16,GRAND_SLAM,WS,47,Main Draw,JIANG Huajun (HKG),LI Xue (FRA)
-Pro Tour Korea Open Seoul 2009,2009-08-19,ISHIGAKI Yuka,ZHANG Rui,4,0,"11,11,11,11|9,8,7,2",R16,GRAND_SLAM,WS,47,Main Draw,ISHIGAKI Yuka (JPN),ZHANG Rui (HKG)
-Pro Tour Korea Open Seoul 2009,2009-08-19,PARK Miyoung,SEOK Hajung,4,1,"6,11,14,12,13|11,5,12,10,11",R16,GRAND_SLAM,WS,47,Main Draw,PARK Miyoung (KOR),SEOK Hajung (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Kyungah,FUKUHARA Ai,4,1,"11,11,11,10,11|7,7,6,12,6",R16,GRAND_SLAM,WS,47,Main Draw,KIM Kyungah (KOR),FUKUHARA Ai (JPN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,FENG Tianwei,LAU Sui Fei,4,0,"11,11,11,11|9,5,6,4",QF,GRAND_SLAM,WS,47,Main Draw,FENG Tianwei (SGP),LAU Sui Fei (HKG)
-Pro Tour Korea Open Seoul 2009,2009-08-19,SUN Beibei,TIE Yana,4,3,"6,3,11,5,15,11,11|11,11,4,11,13,8,7",QF,GRAND_SLAM,WS,47,Main Draw,SUN Beibei (SGP),TIE Yana (HKG)
-Pro Tour Korea Open Seoul 2009,2009-08-19,JIANG Huajun,ISHIGAKI Yuka,4,0,"11,11,11,11|5,8,7,3",QF,GRAND_SLAM,WS,47,Main Draw,JIANG Huajun (HKG),ISHIGAKI Yuka (JPN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,PARK Miyoung,KIM Kyungah,4,3,"4,8,11,11,8,11,11|11,11,4,4,11,6,7",QF,GRAND_SLAM,WS,47,Main Draw,PARK Miyoung (KOR),KIM Kyungah (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,FENG Tianwei,SUN Beibei,4,3,"9,11,9,11,9,11,11|11,6,11,8,11,6,9",SF,GRAND_SLAM,WS,47,Main Draw,FENG Tianwei (SGP),SUN Beibei (SGP)
-Pro Tour Korea Open Seoul 2009,2009-08-19,JIANG Huajun,PARK Miyoung,4,0,"11,11,11,13|7,3,6,11",SF,GRAND_SLAM,WS,47,Main Draw,JIANG Huajun (HKG),PARK Miyoung (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,FENG Tianwei,JIANG Huajun,4,0,"11,11,11,11|2,8,8,9",F,GRAND_SLAM,WS,47,Main Draw,FENG Tianwei (SGP),JIANG Huajun (HKG)
-Pro Tour Korea Open Seoul 2009,2009-08-19,YU Mengyu,NG Wing Nam,4,2,"12,7,5,11,12,11|10,11,11,2,10,5",R16,GRAND_SLAM,U21WS,47,Main Draw,YU Mengyu (SGP),NG Wing Nam (HKG)
-Pro Tour Korea Open Seoul 2009,2009-08-19,TANIOKA Ayuka,KIM Minhee (YOB=1991),4,1,"11,12,8,11,11|9,10,11,8,8",R16,GRAND_SLAM,U21WS,47,Main Draw,TANIOKA Ayuka (JPN),KIM Minhee (YOB=1991) (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LEE Hyun,GUAN Mengyuan,4,3,"6,11,10,3,11,11,11|11,9,12,11,7,6,9",R16,GRAND_SLAM,U21WS,47,Main Draw,LEE Hyun (KOR),GUAN Mengyuan (HKG)
-Pro Tour Korea Open Seoul 2009,2009-08-19,MORIZONO Misaki,KIM Mingyung,4,0,"11,11,11,11|6,9,7,4",R16,GRAND_SLAM,U21WS,47,Main Draw,MORIZONO Misaki (JPN),KIM Mingyung (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,CHE Xiaoxi,WAKAMIYA Misako,4,0,"11,11,11,12|5,6,7,10",R16,GRAND_SLAM,U21WS,47,Main Draw,CHE Xiaoxi (CHN),WAKAMIYA Misako (JPN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,YAO Junyu,FUJII Yuko,4,0,"11,11,12,11|5,6,10,6",R16,GRAND_SLAM,U21WS,47,Main Draw,YAO Junyu (CHN),FUJII Yuko (JPN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,YANG Ha Eun,SHENG Dandan,4,1,"11,11,8,11,11|9,6,11,5,6",R16,GRAND_SLAM,U21WS,47,Main Draw,YANG Ha Eun (KOR),SHENG Dandan (CHN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,PARK Youngsook,TASHIRO Saki,4,3,"8,12,11,7,5,11,11|11,10,3,11,11,7,7",R16,GRAND_SLAM,U21WS,47,Main Draw,PARK Youngsook (KOR),TASHIRO Saki (JPN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,YU Mengyu,TANIOKA Ayuka,4,0,"11,11,11,11|9,6,8,6",QF,GRAND_SLAM,U21WS,47,Main Draw,YU Mengyu (SGP),TANIOKA Ayuka (JPN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,CHE Xiaoxi,YAO Junyu,4,2,"5,11,11,8,11,11|11,8,9,11,6,7",QF,GRAND_SLAM,U21WS,47,Main Draw,CHE Xiaoxi (CHN),YAO Junyu (CHN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,YANG Ha Eun,PARK Youngsook,4,3,"11,11,11,5,12,2,15|4,8,8,11,14,11,13",QF,GRAND_SLAM,U21WS,47,Main Draw,YANG Ha Eun (KOR),PARK Youngsook (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,MORIZONO Misaki,YU Mengyu,4,2,"6,13,11,8,11,11|11,11,7,11,2,7",SF,GRAND_SLAM,U21WS,47,Main Draw,MORIZONO Misaki (JPN),YU Mengyu (SGP)
-Pro Tour Korea Open Seoul 2009,2009-08-19,YANG Ha Eun,CHE Xiaoxi,4,0,"12,12,11,11|10,10,5,4",SF,GRAND_SLAM,U21WS,47,Main Draw,YANG Ha Eun (KOR),CHE Xiaoxi (CHN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,YANG Ha Eun,MORIZONO Misaki,4,2,"11,9,11,13,9,12|6,11,8,11,11,10",F,GRAND_SLAM,U21WS,47,Main Draw,YANG Ha Eun (KOR),MORIZONO Misaki (JPN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,HAO Shuai/WANG Hao,GAUZY Simon/LORENTZ Romain,3,0,"11,14,11|4,12,9",QR16,GRAND_SLAM,MD,47,Qualification,HAO Shuai (CHN) / WANG Hao (CHN),GAUZY Simon (FRA) / LORENTZ Romain (FRA)
-Pro Tour Korea Open Seoul 2009,2009-08-19,TOKIC Bojan/YANG Zi,LEI Zhenhua/QIU Yike,3,2,"11,10,7,11,11|8,12,11,8,7",QR16,GRAND_SLAM,MD,47,Qualification,TOKIC Bojan (SLO) / YANG Zi (SGP),LEI Zhenhua (CHN) / QIU Yike (CHN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,HAO Shuai/WANG Hao,BAUM Patrick/OVTCHAROV Dimitrij,4,0,"16,11,12,11|14,5,10,8",QF,GRAND_SLAM,MD,47,Main Draw,HAO Shuai (CHN) / WANG Hao (CHN),BAUM Patrick (GER) / OVTCHAROV Dimitrij (GER)
-Pro Tour Korea Open Seoul 2009,2009-08-19,HAO Shuai/WANG Hao,OH Sangeun/YOON Jaeyoung,4,0,"11,11,12,11|4,7,10,7",SF,GRAND_SLAM,MD,47,Main Draw,HAO Shuai (CHN) / WANG Hao (CHN),OH Sangeun (KOR) / YOON Jaeyoung (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,HAO Shuai/WANG Hao,CHO Eonrae/KIM Junghoon,4,0,"11,11,11,11|5,9,9,7",F,GRAND_SLAM,MD,47,Main Draw,HAO Shuai (CHN) / WANG Hao (CHN),CHO Eonrae (KOR) / KIM Junghoon (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,CHANG Shun-Hung/HUNG Tzu-Hsiang,BIZAKU Jonathan/LUKATIKISU Beni,3,0,"11,11,11|3,6,4",QR32,GRAND_SLAM,MD,47,Qualification,CHANG Shun-Hung (TPE) / HUNG Tzu-Hsiang (TPE),BIZAKU Jonathan (COD) / LUKATIKISU Beni (COD)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LE BRETON Thomas/SALIFOU Abdel-Kader,CHO Jihoon/JEONG Sangeun,3,2,"5,10,11,11,11|11,12,9,8,3",QR16,GRAND_SLAM,MD,47,Qualification,LE BRETON Thomas (FRA) / SALIFOU Abdel-Kader (BEN),CHO Jihoon (KOR) / JEONG Sangeun (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,FENG Xiaoquan/YOSHIDA Kaii,CHEUNG Yat Fung/CHIU Chung Hei,3,0,"11,11,11|3,7,7",QR16,GRAND_SLAM,MD,47,Qualification,FENG Xiaoquan (AUT) / YOSHIDA Kaii (JPN),CHEUNG Yat Fung (HKG) / CHIU Chung Hei (HKG)
-Pro Tour Korea Open Seoul 2009,2009-08-19,HAO Shuai/WANG Hao,KISHIKAWA Seiya/MIZUTANI Jun,4,1,"8,11,11,13,11|11,8,5,11,7",R16,GRAND_SLAM,MD,47,Main Draw,HAO Shuai (CHN) / WANG Hao (CHN),KISHIKAWA Seiya (JPN) / MIZUTANI Jun (JPN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,MATSUDAIRA Kenta/NIWA Koki,LEBESSON Emmanuel/MATTENET Adrien,4,0,"14,11,11,11|12,5,8,6",R16,GRAND_SLAM,MD,47,Main Draw,MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN),LEBESSON Emmanuel (FRA) / MATTENET Adrien (FRA)
-Pro Tour Korea Open Seoul 2009,2009-08-19,JEOUNG Youngsik/KIM Minseok,GREEN Wally/NKUNDA Djodjo,3,0,,QR32,GRAND_SLAM,MD,47,Qualification,JEOUNG Youngsik (KOR) / KIM Minseok (KOR),GREEN Wally (USA) / NKUNDA Djodjo (COD)
-Pro Tour Korea Open Seoul 2009,2009-08-19,MATSUDAIRA Kenta/NIWA Koki,JEOUNG Youngsik/KIM Minseok,3,2,"7,11,11,7,11|11,7,8,11,7",QR16,GRAND_SLAM,MD,47,Qualification,MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN),JEOUNG Youngsik (KOR) / KIM Minseok (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,HAM Sori/KIM Donghyun,ASSAR Omar/LASHIN Elsayed,3,0,"11,11,11|9,6,4",QR16,GRAND_SLAM,MD,47,Qualification,HAM Sori (KOR) / KIM Donghyun (KOR),ASSAR Omar (EGY) / LASHIN Elsayed (EGY)
-Pro Tour Korea Open Seoul 2009,2009-08-19,BAUM Patrick/OVTCHAROV Dimitrij,HAM Sori/KIM Donghyun,4,3,"10,11,11,6,13,9,11|12,6,7,11,11,11,6",R16,GRAND_SLAM,MD,47,Main Draw,BAUM Patrick (GER) / OVTCHAROV Dimitrij (GER),HAM Sori (KOR) / KIM Donghyun (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,RYU Seungmin/SEO Hyundeok,LE BRETON Thomas/SALIFOU Abdel-Kader,4,0,"11,11,11,13|6,6,4,11",R16,GRAND_SLAM,MD,47,Main Draw,RYU Seungmin (KOR) / SEO Hyundeok (KOR),LE BRETON Thomas (FRA) / SALIFOU Abdel-Kader (BEN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,CHO Eonrae/KIM Junghoon,FENG Xiaoquan/YOSHIDA Kaii,4,3,"12,8,8,8,13,11,11|10,11,11,11,11,4,6",R16,GRAND_SLAM,MD,47,Main Draw,CHO Eonrae (KOR) / KIM Junghoon (KOR),FENG Xiaoquan (AUT) / YOSHIDA Kaii (JPN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,OH Sangeun/YOON Jaeyoung,RYU Seungmin/SEO Hyundeok,4,3,"11,11,13,9,6,6,14|5,6,11,11,11,11,12",QF,GRAND_SLAM,MD,47,Main Draw,OH Sangeun (KOR) / YOON Jaeyoung (KOR),RYU Seungmin (KOR) / SEO Hyundeok (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,CHO Eonrae/KIM Junghoon,MATSUDAIRA Kenta/NIWA Koki,4,1,"11,11,11,8,11|4,8,7,11,9",QF,GRAND_SLAM,MD,47,Main Draw,CHO Eonrae (KOR) / KIM Junghoon (KOR),MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,CHO Eonrae/KIM Junghoon,JOO Saehyuk/LEE Jinkwon,4,2,"7,11,16,11,10,11|11,9,14,3,12,5",SF,GRAND_SLAM,MD,47,Main Draw,CHO Eonrae (KOR) / KIM Junghoon (KOR),JOO Saehyuk (KOR) / LEE Jinkwon (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,CHANG Shun-Hung/HUNG Tzu-Hsiang,CHAITAT Chaisit/PANG Xue Jie,3,0,,QR16,GRAND_SLAM,MD,47,Qualification,CHANG Shun-Hung (TPE) / HUNG Tzu-Hsiang (TPE),CHAITAT Chaisit (THA) / PANG Xue Jie (SGP)
-Pro Tour Korea Open Seoul 2009,2009-08-19,JOO Saehyuk/LEE Jinkwon,TOKIC Bojan/YANG Zi,4,1,"7,11,11,11,11|11,5,6,9,8",R16,GRAND_SLAM,MD,47,Main Draw,JOO Saehyuk (KOR) / LEE Jinkwon (KOR),TOKIC Bojan (SLO) / YANG Zi (SGP)
-Pro Tour Korea Open Seoul 2009,2009-08-19,SANGUANSIN Phakpoom/SANGUANSIN Phuchong,KUCHUK Aleksandr/ZHMUDENKO Yaroslav,3,1,"12,7,11,12|10,11,8,10",QR16,GRAND_SLAM,MD,47,Qualification,SANGUANSIN Phakpoom (THA) / SANGUANSIN Phuchong (THA),KUCHUK Aleksandr (BLR) / ZHMUDENKO Yaroslav (UKR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LEI Zhenhua/QIU Yike,CHEN Chien-An/WANG LI Chung-Yi,3,0,"11,11,11|8,6,5",QR32,GRAND_SLAM,MD,47,Qualification,LEI Zhenhua (CHN) / QIU Yike (CHN),CHEN Chien-An (TPE) / WANG LI Chung-Yi (TPE)
-Pro Tour Korea Open Seoul 2009,2009-08-19,OH Sangeun/YOON Jaeyoung,CHANG Shun-Hung/HUNG Tzu-Hsiang,4,0,"11,11,11,11|4,4,4,7",R16,GRAND_SLAM,MD,47,Main Draw,OH Sangeun (KOR) / YOON Jaeyoung (KOR),CHANG Shun-Hung (TPE) / HUNG Tzu-Hsiang (TPE)
-Pro Tour Korea Open Seoul 2009,2009-08-19,CHUANG Chih-Yuan/WU Chih-Chi,SANGUANSIN Phakpoom/SANGUANSIN Phuchong,4,1,"3,11,11,11,11|11,7,5,9,9",R16,GRAND_SLAM,MD,47,Main Draw,CHUANG Chih-Yuan (TPE) / WU Chih-Chi (TPE),SANGUANSIN Phakpoom (THA) / SANGUANSIN Phuchong (THA)
-Pro Tour Korea Open Seoul 2009,2009-08-19,JOO Saehyuk/LEE Jinkwon,CHUANG Chih-Yuan/WU Chih-Chi,4,0,"11,11,11,13|5,6,3,11",QF,GRAND_SLAM,MD,47,Main Draw,JOO Saehyuk (KOR) / LEE Jinkwon (KOR),CHUANG Chih-Yuan (TPE) / WU Chih-Chi (TPE)
-Pro Tour Korea Open Seoul 2009,2009-08-19,SHENG Dandan/ZHANG Qiang,BARTHEL Zhenqi/LANG Kristin,3,0,"11,11,11|5,5,6",QR16,GRAND_SLAM,WD,47,Qualification,SHENG Dandan (CHN) / ZHANG Qiang (CHN),BARTHEL Zhenqi (GER) / LANG Kristin (GER)
-Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Kyungah/PARK Miyoung,CHE Xiaoxi/YAO Junyu,4,0,"11,11,11,11|5,6,2,6",R16,GRAND_SLAM,WD,47,Main Draw,KIM Kyungah (KOR) / PARK Miyoung (KOR),CHE Xiaoxi (CHN) / YAO Junyu (CHN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LIN Ling/ZHANG Rui,PRIVALOVA Alexandra/WU Jiaduo,4,0,,R16,GRAND_SLAM,WD,47,Main Draw,LIN Ling (HKG) / ZHANG Rui (HKG),PRIVALOVA Alexandra (BLR) / WU Jiaduo (GER)
-Pro Tour Korea Open Seoul 2009,2009-08-19,JIANG Huajun/TIE Yana,DANG Yeseo/PARK Youngsook,4,3,"11,11,9,7,11,8,11|7,7,11,11,7,11,8",R16,GRAND_SLAM,WD,47,Main Draw,JIANG Huajun (HKG) / TIE Yana (HKG),DANG Yeseo (KOR) / PARK Youngsook (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,JIANG Huajun/TIE Yana,FENG Tianwei/WANG Yuegu,4,1,"12,11,6,11,18|10,3,11,7,16",QF,GRAND_SLAM,WD,47,Main Draw,JIANG Huajun (HKG) / TIE Yana (HKG),FENG Tianwei (SGP) / WANG Yuegu (SGP)
-Pro Tour Korea Open Seoul 2009,2009-08-19,JIANG Huajun/TIE Yana,ISHIGAKI Yuka/YAMANASHI Yuri,4,2,"8,11,10,11,11,12|11,8,12,4,4,10",SF,GRAND_SLAM,WD,47,Main Draw,JIANG Huajun (HKG) / TIE Yana (HKG),ISHIGAKI Yuka (JPN) / YAMANASHI Yuri (JPN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Kyungah/PARK Miyoung,JIANG Huajun/TIE Yana,4,1,"7,13,11,11,11|11,11,6,3,5",F,GRAND_SLAM,WD,47,Main Draw,KIM Kyungah (KOR) / PARK Miyoung (KOR),JIANG Huajun (HKG) / TIE Yana (HKG)
-Pro Tour Korea Open Seoul 2009,2009-08-19,ISHIGAKI Yuka/YAMANASHI Yuri,KOMWONG Nanthana/MUANGSUK Anisara,3,1,"11,9,11,11|4,11,8,8",QR16,GRAND_SLAM,WD,47,Qualification,ISHIGAKI Yuka (JPN) / YAMANASHI Yuri (JPN),KOMWONG Nanthana (THA) / MUANGSUK Anisara (THA)
-Pro Tour Korea Open Seoul 2009,2009-08-19,FENG Tianwei/WANG Yuegu,FUJII Yuko/HIURA Reiko,4,3,"11,14,13,6,11,11,11|9,16,15,11,8,5,6",R16,GRAND_SLAM,WD,47,Main Draw,FENG Tianwei (SGP) / WANG Yuegu (SGP),FUJII Yuko (JPN) / HIURA Reiko (JPN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,ISHIGAKI Yuka/YAMANASHI Yuri,LIN Ling/ZHANG Rui,4,3,"11,8,11,9,11,8,11|7,11,6,11,4,11,8",QF,GRAND_SLAM,WD,47,Main Draw,ISHIGAKI Yuka (JPN) / YAMANASHI Yuri (JPN),LIN Ling (HKG) / ZHANG Rui (HKG)
-Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Kyungah/PARK Miyoung,FUKUHARA Ai/WAKAMIYA Misako,4,0,"11,12,11,11|6,10,5,9",SF,GRAND_SLAM,WD,47,Main Draw,KIM Kyungah (KOR) / PARK Miyoung (KOR),FUKUHARA Ai (JPN) / WAKAMIYA Misako (JPN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LEE Hyun/SONG Maeum,BAKULA Andrea/DURAK Mirela,3,1,"11,11,6,11|8,8,11,4",QR16,GRAND_SLAM,WD,47,Qualification,LEE Hyun (KOR) / SONG Maeum (KOR),BAKULA Andrea (CRO) / DURAK Mirela (CRO)
-Pro Tour Korea Open Seoul 2009,2009-08-19,DANG Yeseo/PARK Youngsook,MORIZONO Misaki/TANIOKA Ayuka,3,1,"11,11,6,11|9,7,11,7",QR16,GRAND_SLAM,WD,47,Qualification,DANG Yeseo (KOR) / PARK Youngsook (KOR),MORIZONO Misaki (JPN) / TANIOKA Ayuka (JPN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,CHE Xiaoxi/YAO Junyu,CHOI Moonyoung/SUH Hyo Won,3,1,"11,12,7,11|9,10,11,9",QR16,GRAND_SLAM,WD,47,Qualification,CHE Xiaoxi (CHN) / YAO Junyu (CHN),CHOI Moonyoung (KOR) / SUH Hyo Won (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,FUJII Yuko/HIURA Reiko,KIM Minhee (YOB=1991)/YANG Ha Eun,3,2,"11,11,5,11,11|13,9,11,8,4",QR16,GRAND_SLAM,WD,47,Qualification,FUJII Yuko (JPN) / HIURA Reiko (JPN),KIM Minhee (YOB=1991) (KOR) / YANG Ha Eun (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,ISHIGAKI Yuka/YAMANASHI Yuri,KIM Junghyun/SEOK Hajung,4,1,"11,11,5,11,11|7,5,11,5,8",R16,GRAND_SLAM,WD,47,Main Draw,ISHIGAKI Yuka (JPN) / YAMANASHI Yuri (JPN),KIM Junghyun (KOR) / SEOK Hajung (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,FUKUHARA Ai/WAKAMIYA Misako,LEE Hyun/SONG Maeum,4,0,"11,11,11,11|9,7,2,5",R16,GRAND_SLAM,WD,47,Main Draw,FUKUHARA Ai (JPN) / WAKAMIYA Misako (JPN),LEE Hyun (KOR) / SONG Maeum (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LEE Eunhee/MOON Hyunjung,LI Xue/SIM Kai Xin Zena,4,0,"11,11,11,11|4,6,4,2",R16,GRAND_SLAM,WD,47,Main Draw,LEE Eunhee (KOR) / MOON Hyunjung (KOR),LI Xue (FRA) / SIM Kai Xin Zena (SGP)
-Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Kyungah/PARK Miyoung,LEE Eunhee/MOON Hyunjung,4,0,,QF,GRAND_SLAM,WD,47,Main Draw,KIM Kyungah (KOR) / PARK Miyoung (KOR),LEE Eunhee (KOR) / MOON Hyunjung (KOR)
-Pro Tour Korea Open Seoul 2009,2009-08-19,LI Xue/SIM Kai Xin Zena,GUAN Mengyuan/YU Kwok See,3,1,"6,11,11,11|11,9,8,9",QR16,GRAND_SLAM,WD,47,Qualification,LI Xue (FRA) / SIM Kai Xin Zena (SGP),GUAN Mengyuan (HKG) / YU Kwok See (HKG)
-Pro Tour Korea Open Seoul 2009,2009-08-19,SUN Beibei/YU Mengyu,SHENG Dandan/ZHANG Qiang,4,1,"11,13,11,7,11|7,11,5,11,7",R16,GRAND_SLAM,WD,47,Main Draw,SUN Beibei (SGP) / YU Mengyu (SGP),SHENG Dandan (CHN) / ZHANG Qiang (CHN)
-Pro Tour Korea Open Seoul 2009,2009-08-19,FUKUHARA Ai/WAKAMIYA Misako,SUN Beibei/YU Mengyu,4,0,"11,11,11,11|9,9,8,6",QF,GRAND_SLAM,WD,47,Main Draw,FUKUHARA Ai (JPN) / WAKAMIYA Misako (JPN),SUN Beibei (SGP) / YU Mengyu (SGP)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Pro Tour Korea Open Seoul 2009,2009-08-19,FENG Xiaoquan,HAM Sori,4,2,"11,11,11,8,9,11|6,9,7,11,11,2",,GRAND_SLAM,MS,47,Qualification,FENG Xiaoquan (AUT),HAM Sori (KOR),FENG Xiaoquan
+Pro Tour Korea Open Seoul 2009,2009-08-19,FENG Xiaoquan,CHIU Chung Hei,4,3,"11,9,11,9,11,8,14|9,11,5,11,7,11,12",,GRAND_SLAM,MS,47,Qualification,FENG Xiaoquan (AUT),CHIU Chung Hei (HKG),FENG Xiaoquan
+Pro Tour Korea Open Seoul 2009,2009-08-19,HAM Sori,CHIU Chung Hei,4,1,"11,7,12,11,11|5,11,10,7,8",,GRAND_SLAM,MS,47,Qualification,HAM Sori (KOR),CHIU Chung Hei (HKG),HAM Sori
+Pro Tour Korea Open Seoul 2009,2009-08-19,SANGUANSIN Phakpoom,LEE Chia-Sheng,4,0,"11,11,13,12|6,6,11,10",,GRAND_SLAM,MS,47,Qualification,SANGUANSIN Phakpoom (THA),LEE Chia-Sheng (TPE),SANGUANSIN Phakpoom
+Pro Tour Korea Open Seoul 2009,2009-08-19,SANGUANSIN Phakpoom,PANG Xue Jie,4,1,"5,11,11,11,11|11,7,5,9,8",,GRAND_SLAM,MS,47,Qualification,SANGUANSIN Phakpoom (THA),PANG Xue Jie (SGP),SANGUANSIN Phakpoom
+Pro Tour Korea Open Seoul 2009,2009-08-19,LEE Chia-Sheng,PANG Xue Jie,4,1,"5,11,11,12,11|11,7,7,10,9",,GRAND_SLAM,MS,47,Qualification,LEE Chia-Sheng (TPE),PANG Xue Jie (SGP),LEE Chia-Sheng
+Pro Tour Korea Open Seoul 2009,2009-08-19,NIWA Koki,CHEUNG Yat Fung,4,0,"11,11,11,11|9,7,7,5",,GRAND_SLAM,MS,47,Qualification,NIWA Koki (JPN),CHEUNG Yat Fung (HKG),NIWA Koki
+Pro Tour Korea Open Seoul 2009,2009-08-19,NIWA Koki,CHANG Shun-Hung,4,1,"11,9,11,11,13|7,11,5,5,11",,GRAND_SLAM,MS,47,Qualification,NIWA Koki (JPN),CHANG Shun-Hung (TPE),NIWA Koki
+Pro Tour Korea Open Seoul 2009,2009-08-19,CHANG Shun-Hung,CHEUNG Yat Fung,4,0,"11,11,11,11|3,5,7,9",,GRAND_SLAM,MS,47,Qualification,CHANG Shun-Hung (TPE),CHEUNG Yat Fung (HKG),CHANG Shun-Hung
+Pro Tour Korea Open Seoul 2009,2009-08-19,LEI Zhenhua,WANG Yi-Tse,4,2,"11,11,11,11,11,11|13,13,2,8,6,8",,GRAND_SLAM,MS,47,Qualification,LEI Zhenhua (CHN),WANG Yi-Tse (TPE),LEI Zhenhua
+Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Donghyun,WANG Yi-Tse,4,2,"11,5,11,9,14,11|9,11,7,11,12,6",,GRAND_SLAM,MS,47,Qualification,KIM Donghyun (KOR),WANG Yi-Tse (TPE),KIM Donghyun
+Pro Tour Korea Open Seoul 2009,2009-08-19,LEI Zhenhua,KIM Donghyun,4,0,"11,11,11,11|3,7,8,4",,GRAND_SLAM,MS,47,Qualification,LEI Zhenhua (CHN),KIM Donghyun (KOR),LEI Zhenhua
+Pro Tour Korea Open Seoul 2009,2009-08-19,JEOUNG Youngsik,HUNG Tzu-Hsiang,4,2,"11,7,11,6,12,11|7,11,5,11,10,5",,GRAND_SLAM,MS,47,Qualification,JEOUNG Youngsik (KOR),HUNG Tzu-Hsiang (TPE),JEOUNG Youngsik
+Pro Tour Korea Open Seoul 2009,2009-08-19,JEOUNG Youngsik,GAUZY Simon,4,0,"11,11,11,11|4,4,3,3",,GRAND_SLAM,MS,47,Qualification,JEOUNG Youngsik (KOR),GAUZY Simon (FRA),JEOUNG Youngsik
+Pro Tour Korea Open Seoul 2009,2009-08-19,HUNG Tzu-Hsiang,GAUZY Simon,4,2,"1,11,11,7,11,11|11,7,7,11,7,8",,GRAND_SLAM,MS,47,Qualification,HUNG Tzu-Hsiang (TPE),GAUZY Simon (FRA),HUNG Tzu-Hsiang
+Pro Tour Korea Open Seoul 2009,2009-08-19,KUCHUK Aleksandr,LUKATIKISU Beni,4,0,,,GRAND_SLAM,MS,47,Qualification,KUCHUK Aleksandr (BLR),LUKATIKISU Beni (COD),KUCHUK Aleksandr
+Pro Tour Korea Open Seoul 2009,2009-08-19,LORENTZ Romain,WANG LI Chung-Yi,4,2,"11,8,11,11,8,11|8,11,9,9,11,4",,GRAND_SLAM,MS,47,Qualification,LORENTZ Romain (FRA),WANG LI Chung-Yi (TPE),LORENTZ Romain
+Pro Tour Korea Open Seoul 2009,2009-08-19,KUCHUK Aleksandr,LORENTZ Romain,4,3,"11,6,11,14,5,12,11|7,11,6,12,11,14,9",,GRAND_SLAM,MS,47,Qualification,KUCHUK Aleksandr (BLR),LORENTZ Romain (FRA),KUCHUK Aleksandr
+Pro Tour Korea Open Seoul 2009,2009-08-19,WANG LI Chung-Yi,LUKATIKISU Beni,4,0,,,GRAND_SLAM,MS,47,Qualification,WANG LI Chung-Yi (TPE),LUKATIKISU Beni (COD),WANG LI Chung-Yi
+Pro Tour Korea Open Seoul 2009,2009-08-19,LORENTZ Romain,LUKATIKISU Beni,4,0,"11,11,11,11|3,5,2,4",,GRAND_SLAM,MS,47,Qualification,LORENTZ Romain (FRA),LUKATIKISU Beni (COD),LORENTZ Romain
+Pro Tour Korea Open Seoul 2009,2009-08-19,KUCHUK Aleksandr,WANG LI Chung-Yi,4,0,"11,11,12,11|6,5,10,5",,GRAND_SLAM,MS,47,Qualification,KUCHUK Aleksandr (BLR),WANG LI Chung-Yi (TPE),KUCHUK Aleksandr
+Pro Tour Korea Open Seoul 2009,2009-08-19,ASSAR Omar,NKUNDA Djodjo,4,0,,,GRAND_SLAM,MS,47,Qualification,ASSAR Omar (EGY),NKUNDA Djodjo (COD),ASSAR Omar
+Pro Tour Korea Open Seoul 2009,2009-08-19,QIU Yike,CHAITAT Chaisit,4,0,"11,11,11,11|7,6,8,5",,GRAND_SLAM,MS,47,Qualification,QIU Yike (CHN),CHAITAT Chaisit (THA),QIU Yike
+Pro Tour Korea Open Seoul 2009,2009-08-19,ASSAR Omar,CHAITAT Chaisit,4,1,"11,11,11,9,11|7,9,5,11,8",,GRAND_SLAM,MS,47,Qualification,ASSAR Omar (EGY),CHAITAT Chaisit (THA),ASSAR Omar
+Pro Tour Korea Open Seoul 2009,2009-08-19,QIU Yike,NKUNDA Djodjo,4,0,,,GRAND_SLAM,MS,47,Qualification,QIU Yike (CHN),NKUNDA Djodjo (COD),QIU Yike
+Pro Tour Korea Open Seoul 2009,2009-08-19,NKUNDA Djodjo,CHAITAT Chaisit,4,0,,,GRAND_SLAM,MS,47,Qualification,NKUNDA Djodjo (COD),CHAITAT Chaisit (THA),NKUNDA Djodjo
+Pro Tour Korea Open Seoul 2009,2009-08-19,QIU Yike,ASSAR Omar,4,0,"11,11,11,11|8,5,9,1",,GRAND_SLAM,MS,47,Qualification,QIU Yike (CHN),ASSAR Omar (EGY),QIU Yike
+Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Minseok,BIZAKU Jonathan,4,0,,,GRAND_SLAM,MS,47,Qualification,KIM Minseok (KOR),BIZAKU Jonathan (COD),KIM Minseok
+Pro Tour Korea Open Seoul 2009,2009-08-19,LE BRETON Thomas,GREEN Wally,4,0,"11,11,11,11|6,6,9,7",,GRAND_SLAM,MS,47,Qualification,LE BRETON Thomas (FRA),GREEN Wally (USA),LE BRETON Thomas
+Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Minseok,LE BRETON Thomas,4,0,"11,11,11,11|6,9,7,8",,GRAND_SLAM,MS,47,Qualification,KIM Minseok (KOR),LE BRETON Thomas (FRA),KIM Minseok
+Pro Tour Korea Open Seoul 2009,2009-08-19,GREEN Wally,BIZAKU Jonathan,4,0,,,GRAND_SLAM,MS,47,Qualification,GREEN Wally (USA),BIZAKU Jonathan (COD),GREEN Wally
+Pro Tour Korea Open Seoul 2009,2009-08-19,LE BRETON Thomas,BIZAKU Jonathan,4,0,"11,11,11,11|2,6,1,4",,GRAND_SLAM,MS,47,Qualification,LE BRETON Thomas (FRA),BIZAKU Jonathan (COD),LE BRETON Thomas
+Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Minseok,GREEN Wally,4,0,"11,11,11,11|5,3,5,4",,GRAND_SLAM,MS,47,Qualification,KIM Minseok (KOR),GREEN Wally (USA),KIM Minseok
+Pro Tour Korea Open Seoul 2009,2009-08-19,HEO Seonguk,CHEUNG Yat Fung,3,0,"11,11,11|9,6,7",,GRAND_SLAM,U21MS,47,Qualification,HEO Seonguk (KOR),CHEUNG Yat Fung (HKG),HEO Seonguk
+Pro Tour Korea Open Seoul 2009,2009-08-19,ASSAR Omar,HEO Seonguk,3,2,"11,9,11,10,11|5,11,8,12,9",,GRAND_SLAM,U21MS,47,Qualification,ASSAR Omar (EGY),HEO Seonguk (KOR),ASSAR Omar
+Pro Tour Korea Open Seoul 2009,2009-08-19,ASSAR Omar,CHEUNG Yat Fung,3,1,"11,11,12,11|4,5,14,7",,GRAND_SLAM,U21MS,47,Qualification,ASSAR Omar (EGY),CHEUNG Yat Fung (HKG),ASSAR Omar
+Pro Tour Korea Open Seoul 2009,2009-08-19,LEE Chia-Sheng,BIZAKU Jonathan,3,0,,,GRAND_SLAM,U21MS,47,Qualification,LEE Chia-Sheng (TPE),BIZAKU Jonathan (COD),LEE Chia-Sheng
+Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Minseok,LEE Chia-Sheng,3,0,"11,11,11|7,3,7",,GRAND_SLAM,U21MS,47,Qualification,KIM Minseok (KOR),LEE Chia-Sheng (TPE),KIM Minseok
+Pro Tour Korea Open Seoul 2009,2009-08-19,WANG LI Chung-Yi,KIM Hyunmin,3,0,,,GRAND_SLAM,U21MS,47,Qualification,WANG LI Chung-Yi (TPE),KIM Hyunmin (KOR),WANG LI Chung-Yi
+Pro Tour Korea Open Seoul 2009,2009-08-19,WANG LI Chung-Yi,LE BRETON Thomas,3,1,"9,11,11,14|11,5,8,12",,GRAND_SLAM,U21MS,47,Qualification,WANG LI Chung-Yi (TPE),LE BRETON Thomas (FRA),WANG LI Chung-Yi
+Pro Tour Korea Open Seoul 2009,2009-08-19,LE BRETON Thomas,KIM Hyunmin,3,0,,,GRAND_SLAM,U21MS,47,Qualification,LE BRETON Thomas (FRA),KIM Hyunmin (KOR),LE BRETON Thomas
+Pro Tour Korea Open Seoul 2009,2009-08-19,HAM Sori,LUKATIKISU Beni,3,0,,,GRAND_SLAM,U21MS,47,Qualification,HAM Sori (KOR),LUKATIKISU Beni (COD),HAM Sori
+Pro Tour Korea Open Seoul 2009,2009-08-19,LORENTZ Romain,HAM Sori,3,1,"8,11,11,11|11,7,8,9",,GRAND_SLAM,U21MS,47,Qualification,LORENTZ Romain (FRA),HAM Sori (KOR),LORENTZ Romain
+Pro Tour Korea Open Seoul 2009,2009-08-19,SEO Junghwa,CHIU Chung Hei,3,0,"11,11,12|9,5,10",,GRAND_SLAM,U21MS,47,Qualification,SEO Junghwa (KOR),CHIU Chung Hei (HKG),SEO Junghwa
+Pro Tour Korea Open Seoul 2009,2009-08-19,SEO Junghwa,GAUZY Simon,3,1,"15,11,11,11|17,9,5,8",,GRAND_SLAM,U21MS,47,Qualification,SEO Junghwa (KOR),GAUZY Simon (FRA),SEO Junghwa
+Pro Tour Korea Open Seoul 2009,2009-08-19,GAUZY Simon,CHIU Chung Hei,3,1,"11,11,11,11|8,13,7,9",,GRAND_SLAM,U21MS,47,Qualification,GAUZY Simon (FRA),CHIU Chung Hei (HKG),GAUZY Simon
+Pro Tour Korea Open Seoul 2009,2009-08-19,HUNG Tzu-Hsiang,PANG Xue Jie,3,1,"11,11,11,11|9,9,13,8",,GRAND_SLAM,U21MS,47,Qualification,HUNG Tzu-Hsiang (TPE),PANG Xue Jie (SGP),HUNG Tzu-Hsiang
+Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Donghyun,HUNG Tzu-Hsiang,3,0,"11,11,11|8,7,8",,GRAND_SLAM,U21MS,47,Qualification,KIM Donghyun (KOR),HUNG Tzu-Hsiang (TPE),KIM Donghyun
+Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Donghyun,PANG Xue Jie,3,1,"11,13,8,11|2,11,11,8",,GRAND_SLAM,U21MS,47,Qualification,KIM Donghyun (KOR),PANG Xue Jie (SGP),KIM Donghyun
+Pro Tour Korea Open Seoul 2009,2009-08-19,CHANG Shun-Hung,TAE Jihoon,3,0,"11,11,11|5,8,7",,GRAND_SLAM,U21MS,47,Qualification,CHANG Shun-Hung (TPE),TAE Jihoon (KOR),CHANG Shun-Hung
+Pro Tour Korea Open Seoul 2009,2009-08-19,YOO Hoonsuk,NKUNDA Djodjo,3,0,,,GRAND_SLAM,U21MS,47,Qualification,YOO Hoonsuk (KOR),NKUNDA Djodjo (COD),YOO Hoonsuk
+Pro Tour Korea Open Seoul 2009,2009-08-19,CHANG Shun-Hung,NKUNDA Djodjo,3,0,"11,11,11|2,4,5",,GRAND_SLAM,U21MS,47,Qualification,CHANG Shun-Hung (TPE),NKUNDA Djodjo (COD),CHANG Shun-Hung
+Pro Tour Korea Open Seoul 2009,2009-08-19,TAE Jihoon,YOO Hoonsuk,3,1,"5,11,11,11|11,8,7,8",,GRAND_SLAM,U21MS,47,Qualification,TAE Jihoon (KOR),YOO Hoonsuk (KOR),TAE Jihoon
+Pro Tour Korea Open Seoul 2009,2009-08-19,CHANG Shun-Hung,YOO Hoonsuk,3,0,"11,13,11|8,11,5",,GRAND_SLAM,U21MS,47,Qualification,CHANG Shun-Hung (TPE),YOO Hoonsuk (KOR),CHANG Shun-Hung
+Pro Tour Korea Open Seoul 2009,2009-08-19,TAE Jihoon,NKUNDA Djodjo,3,0,"11,11,11|4,6,7",,GRAND_SLAM,U21MS,47,Qualification,TAE Jihoon (KOR),NKUNDA Djodjo (COD),TAE Jihoon
+Pro Tour Korea Open Seoul 2009,2009-08-19,LASHIN Elsayed,KUCHUK Aleksandr,4,2,"8,11,11,9,11,11|11,9,8,11,9,3",R64,GRAND_SLAM,MS,47,Main Draw,LASHIN Elsayed (EGY),KUCHUK Aleksandr (BLR),LASHIN Elsayed
+Pro Tour Korea Open Seoul 2009,2009-08-19,CHO Eonrae,HUNG Tzu-Hsiang,4,0,"11,11,11,11|8,8,6,4",R64,GRAND_SLAM,MS,47,Main Draw,CHO Eonrae (KOR),HUNG Tzu-Hsiang (TPE),CHO Eonrae
+Pro Tour Korea Open Seoul 2009,2009-08-19,KISHIKAWA Seiya,ASSAR Omar,4,0,"11,11,11,11|9,7,7,8",R64,GRAND_SLAM,MS,47,Main Draw,KISHIKAWA Seiya (JPN),ASSAR Omar (EGY),KISHIKAWA Seiya
+Pro Tour Korea Open Seoul 2009,2009-08-19,SANGUANSIN Phakpoom,ZHMUDENKO Yaroslav,4,2,"11,12,11,6,5,11|6,10,7,11,11,9",R64,GRAND_SLAM,MS,47,Main Draw,SANGUANSIN Phakpoom (THA),ZHMUDENKO Yaroslav (UKR),SANGUANSIN Phakpoom
+Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Minseok,SANGUANSIN Phuchong,4,2,"11,11,14,11,7,12|13,6,12,3,11,10",R64,GRAND_SLAM,MS,47,Main Draw,KIM Minseok (KOR),SANGUANSIN Phuchong (THA),KIM Minseok
+Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Donghyun,MATTENET Adrien,4,3,"4,11,8,11,13,11,11|11,13,11,5,11,9,7",R64,GRAND_SLAM,MS,47,Main Draw,KIM Donghyun (KOR),MATTENET Adrien (FRA),KIM Donghyun
+Pro Tour Korea Open Seoul 2009,2009-08-19,HAM Sori,WU Chih-Chi,4,3,"11,8,11,5,8,11,11|4,11,8,11,11,8,7",R64,GRAND_SLAM,MS,47,Main Draw,HAM Sori (KOR),WU Chih-Chi (TPE),HAM Sori
+Pro Tour Korea Open Seoul 2009,2009-08-19,SEO Hyundeok,FENG Xiaoquan,4,1,"11,11,8,11,11|9,9,11,5,8",R64,GRAND_SLAM,MS,47,Main Draw,SEO Hyundeok (KOR),FENG Xiaoquan (AUT),SEO Hyundeok
+Pro Tour Korea Open Seoul 2009,2009-08-19,JEOUNG Youngsik,CHEN Chien-An,4,2,"7,5,11,11,11,11|11,11,3,6,7,9",R64,GRAND_SLAM,MS,47,Main Draw,JEOUNG Youngsik (KOR),CHEN Chien-An (TPE),JEOUNG Youngsik
+Pro Tour Korea Open Seoul 2009,2009-08-19,LEBESSON Emmanuel,LEE Chia-Sheng,4,0,"11,11,11,14|5,5,8,12",R64,GRAND_SLAM,MS,47,Main Draw,LEBESSON Emmanuel (FRA),LEE Chia-Sheng (TPE),LEBESSON Emmanuel
+Pro Tour Korea Open Seoul 2009,2009-08-19,YANG Zi,LE BRETON Thomas,4,0,"11,11,11,15|3,5,7,13",R64,GRAND_SLAM,MS,47,Main Draw,YANG Zi (SGP),LE BRETON Thomas (FRA),YANG Zi
+Pro Tour Korea Open Seoul 2009,2009-08-19,NIWA Koki,JEONG Sangeun,4,2,"11,12,6,10,12,11|9,10,11,12,10,9",R64,GRAND_SLAM,MS,47,Main Draw,NIWA Koki (JPN),JEONG Sangeun (KOR),NIWA Koki
+Pro Tour Korea Open Seoul 2009,2009-08-19,QIU Yike,CHO Jihoon,4,1,"11,11,9,11,11|8,4,11,2,6",R64,GRAND_SLAM,MS,47,Main Draw,QIU Yike (CHN),CHO Jihoon (KOR),QIU Yike
+Pro Tour Korea Open Seoul 2009,2009-08-19,LEE Jinkwon,CHANG Shun-Hung,4,2,"11,11,8,11,11,11|4,5,11,13,6,8",R64,GRAND_SLAM,MS,47,Main Draw,LEE Jinkwon (KOR),CHANG Shun-Hung (TPE),LEE Jinkwon
+Pro Tour Korea Open Seoul 2009,2009-08-19,MATSUDAIRA Kenta,LORENTZ Romain,4,1,"8,11,11,11,11|11,8,5,7,6",R64,GRAND_SLAM,MS,47,Main Draw,MATSUDAIRA Kenta (JPN),LORENTZ Romain (FRA),MATSUDAIRA Kenta
+Pro Tour Korea Open Seoul 2009,2009-08-19,LEI Zhenhua,SALIFOU Abdel-Kader,4,1,"11,17,6,11,11|7,15,11,5,9",R64,GRAND_SLAM,MS,47,Main Draw,LEI Zhenhua (CHN),SALIFOU Abdel-Kader (BEN),LEI Zhenhua
+Pro Tour Korea Open Seoul 2009,2009-08-19,WANG Hao,LASHIN Elsayed,4,1,"12,11,11,9,11|10,7,6,11,6",R32,GRAND_SLAM,MS,47,Main Draw,WANG Hao (CHN),LASHIN Elsayed (EGY),WANG Hao
+Pro Tour Korea Open Seoul 2009,2009-08-19,CHO Eonrae,TOKIC Bojan,4,1,"13,11,11,7,11|11,7,8,11,8",R32,GRAND_SLAM,MS,47,Main Draw,CHO Eonrae (KOR),TOKIC Bojan (SLO),CHO Eonrae
+Pro Tour Korea Open Seoul 2009,2009-08-19,CHEN Weixing,KISHIKAWA Seiya,4,2,"10,6,11,11,11,11|12,11,5,6,6,5",R32,GRAND_SLAM,MS,47,Main Draw,CHEN Weixing (AUT),KISHIKAWA Seiya (JPN),CHEN Weixing
+Pro Tour Korea Open Seoul 2009,2009-08-19,CHUANG Chih-Yuan,SANGUANSIN Phakpoom,4,0,"11,11,11,11|9,4,8,9",R32,GRAND_SLAM,MS,47,Main Draw,CHUANG Chih-Yuan (TPE),SANGUANSIN Phakpoom (THA),CHUANG Chih-Yuan
+Pro Tour Korea Open Seoul 2009,2009-08-19,MAZE Michael,KIM Minseok,4,2,"11,9,11,11,6,13|9,11,5,8,11,11",R32,GRAND_SLAM,MS,47,Main Draw,MAZE Michael (DEN),KIM Minseok (KOR),MAZE Michael
+Pro Tour Korea Open Seoul 2009,2009-08-19,YOON Jaeyoung,KIM Donghyun,4,2,"11,7,2,13,11,11|8,11,11,11,8,3",R32,GRAND_SLAM,MS,47,Main Draw,YOON Jaeyoung (KOR),KIM Donghyun (KOR),YOON Jaeyoung
+Pro Tour Korea Open Seoul 2009,2009-08-19,YOSHIDA Kaii,HAM Sori,4,1,"4,11,11,11,11|11,4,6,3,6",R32,GRAND_SLAM,MS,47,Main Draw,YOSHIDA Kaii (JPN),HAM Sori (KOR),YOSHIDA Kaii
+Pro Tour Korea Open Seoul 2009,2009-08-19,HAO Shuai,SEO Hyundeok,4,1,"9,11,11,11,11|11,4,8,4,7",R32,GRAND_SLAM,MS,47,Main Draw,HAO Shuai (CHN),SEO Hyundeok (KOR),HAO Shuai
+Pro Tour Korea Open Seoul 2009,2009-08-19,OH Sangeun,JEOUNG Youngsik,4,2,"9,12,12,7,11,11|11,10,10,11,4,6",R32,GRAND_SLAM,MS,47,Main Draw,OH Sangeun (KOR),JEOUNG Youngsik (KOR),OH Sangeun
+Pro Tour Korea Open Seoul 2009,2009-08-19,BAUM Patrick,LEBESSON Emmanuel,4,1,"11,12,11,7,11|8,10,7,11,7",R32,GRAND_SLAM,MS,47,Main Draw,BAUM Patrick (GER),LEBESSON Emmanuel (FRA),BAUM Patrick
+Pro Tour Korea Open Seoul 2009,2009-08-19,RYU Seungmin,YANG Zi,4,0,"11,11,11,11|9,2,8,7",R32,GRAND_SLAM,MS,47,Main Draw,RYU Seungmin (KOR),YANG Zi (SGP),RYU Seungmin
+Pro Tour Korea Open Seoul 2009,2009-08-19,OVTCHAROV Dimitrij,NIWA Koki,4,3,"5,4,11,9,11,11,15|11,11,6,11,9,9,13",R32,GRAND_SLAM,MS,47,Main Draw,OVTCHAROV Dimitrij (GER),NIWA Koki (JPN),OVTCHAROV Dimitrij
+Pro Tour Korea Open Seoul 2009,2009-08-19,MIZUTANI Jun,QIU Yike,4,0,"11,11,11,11|8,5,5,8",R32,GRAND_SLAM,MS,47,Main Draw,MIZUTANI Jun (JPN),QIU Yike (CHN),MIZUTANI Jun
+Pro Tour Korea Open Seoul 2009,2009-08-19,LEE Jinkwon,CHIANG Peng-Lung,4,2,"11,10,11,3,12,11|9,12,4,11,10,3",R32,GRAND_SLAM,MS,47,Main Draw,LEE Jinkwon (KOR),CHIANG Peng-Lung (TPE),LEE Jinkwon
+Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Junghoon,MATSUDAIRA Kenta,4,3,"7,9,11,11,13,10,11|11,11,9,4,11,12,4",R32,GRAND_SLAM,MS,47,Main Draw,KIM Junghoon (KOR),MATSUDAIRA Kenta (JPN),KIM Junghoon
+Pro Tour Korea Open Seoul 2009,2009-08-19,JOO Saehyuk,LEI Zhenhua,4,2,"11,7,11,4,11,11|7,11,8,11,9,6",R32,GRAND_SLAM,MS,47,Main Draw,JOO Saehyuk (KOR),LEI Zhenhua (CHN),JOO Saehyuk
+Pro Tour Korea Open Seoul 2009,2009-08-19,WANG Hao,CHO Eonrae,4,2,"8,11,11,13,10,11|11,7,5,11,12,1",R16,GRAND_SLAM,MS,47,Main Draw,WANG Hao (CHN),CHO Eonrae (KOR),WANG Hao
+Pro Tour Korea Open Seoul 2009,2009-08-19,CHEN Weixing,CHUANG Chih-Yuan,4,0,"11,11,11,13|4,8,8,11",R16,GRAND_SLAM,MS,47,Main Draw,CHEN Weixing (AUT),CHUANG Chih-Yuan (TPE),CHEN Weixing
+Pro Tour Korea Open Seoul 2009,2009-08-19,MAZE Michael,YOON Jaeyoung,4,1,"11,11,9,11,11|8,7,11,4,9",R16,GRAND_SLAM,MS,47,Main Draw,MAZE Michael (DEN),YOON Jaeyoung (KOR),MAZE Michael
+Pro Tour Korea Open Seoul 2009,2009-08-19,HAO Shuai,YOSHIDA Kaii,4,1,"11,8,11,11,11|6,11,3,7,8",R16,GRAND_SLAM,MS,47,Main Draw,HAO Shuai (CHN),YOSHIDA Kaii (JPN),HAO Shuai
+Pro Tour Korea Open Seoul 2009,2009-08-19,BAUM Patrick,OH Sangeun,4,3,"9,10,11,11,11,5,11|11,12,8,7,7,11,7",R16,GRAND_SLAM,MS,47,Main Draw,BAUM Patrick (GER),OH Sangeun (KOR),BAUM Patrick
+Pro Tour Korea Open Seoul 2009,2009-08-19,OVTCHAROV Dimitrij,RYU Seungmin,4,2,"10,7,11,11,11,11|12,11,6,7,8,5",R16,GRAND_SLAM,MS,47,Main Draw,OVTCHAROV Dimitrij (GER),RYU Seungmin (KOR),OVTCHAROV Dimitrij
+Pro Tour Korea Open Seoul 2009,2009-08-19,MIZUTANI Jun,LEE Jinkwon,4,1,"11,11,8,11,12|6,7,11,9,10",R16,GRAND_SLAM,MS,47,Main Draw,MIZUTANI Jun (JPN),LEE Jinkwon (KOR),MIZUTANI Jun
+Pro Tour Korea Open Seoul 2009,2009-08-19,JOO Saehyuk,KIM Junghoon,4,0,"11,11,11,11|6,6,1,8",R16,GRAND_SLAM,MS,47,Main Draw,JOO Saehyuk (KOR),KIM Junghoon (KOR),JOO Saehyuk
+Pro Tour Korea Open Seoul 2009,2009-08-19,WANG Hao,CHEN Weixing,4,0,"11,11,11,11|4,6,7,2",QF,GRAND_SLAM,MS,47,Main Draw,WANG Hao (CHN),CHEN Weixing (AUT),WANG Hao
+Pro Tour Korea Open Seoul 2009,2009-08-19,HAO Shuai,MAZE Michael,4,1,"10,13,11,12,11|12,11,6,10,9",QF,GRAND_SLAM,MS,47,Main Draw,HAO Shuai (CHN),MAZE Michael (DEN),HAO Shuai
+Pro Tour Korea Open Seoul 2009,2009-08-19,OVTCHAROV Dimitrij,BAUM Patrick,4,2,"11,9,11,11,6,13|9,11,9,6,11,11",QF,GRAND_SLAM,MS,47,Main Draw,OVTCHAROV Dimitrij (GER),BAUM Patrick (GER),OVTCHAROV Dimitrij
+Pro Tour Korea Open Seoul 2009,2009-08-19,MIZUTANI Jun,JOO Saehyuk,4,3,"11,4,11,11,11,3,11|9,11,13,6,7,11,9",QF,GRAND_SLAM,MS,47,Main Draw,MIZUTANI Jun (JPN),JOO Saehyuk (KOR),MIZUTANI Jun
+Pro Tour Korea Open Seoul 2009,2009-08-19,HAO Shuai,WANG Hao,4,2,"11,5,11,11,9,11|9,11,9,6,11,8",SF,GRAND_SLAM,MS,47,Main Draw,HAO Shuai (CHN),WANG Hao (CHN),HAO Shuai
+Pro Tour Korea Open Seoul 2009,2009-08-19,MIZUTANI Jun,OVTCHAROV Dimitrij,4,0,"11,11,11,11|7,7,8,3",SF,GRAND_SLAM,MS,47,Main Draw,MIZUTANI Jun (JPN),OVTCHAROV Dimitrij (GER),MIZUTANI Jun
+Pro Tour Korea Open Seoul 2009,2009-08-19,MIZUTANI Jun,HAO Shuai,4,1,"14,11,7,11,12|12,9,11,8,10",F,GRAND_SLAM,MS,47,Main Draw,MIZUTANI Jun (JPN),HAO Shuai (CHN),MIZUTANI Jun
+Pro Tour Korea Open Seoul 2009,2009-08-19,JEONG Sangeun,HUNG Tzu-Hsiang,4,2,"10,8,11,11,11,11|12,11,5,7,6,4",R16,GRAND_SLAM,U21MS,47,Main Draw,JEONG Sangeun (KOR),HUNG Tzu-Hsiang (TPE),JEONG Sangeun
+Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Donghyun,CHEN Chien-An,4,3,"11,11,9,9,12,11,11|5,9,11,11,14,7,7",R16,GRAND_SLAM,U21MS,47,Main Draw,KIM Donghyun (KOR),CHEN Chien-An (TPE),KIM Donghyun
+Pro Tour Korea Open Seoul 2009,2009-08-19,SEO Junghwa,WANG Yi-Tse,4,2,"11,12,11,11,11,11|13,14,6,6,8,9",R16,GRAND_SLAM,U21MS,47,Main Draw,SEO Junghwa (KOR),WANG Yi-Tse (TPE),SEO Junghwa
+Pro Tour Korea Open Seoul 2009,2009-08-19,SEO Hyundeok,ASSAR Omar,4,1,"11,8,13,11,11|8,11,11,8,8",R16,GRAND_SLAM,U21MS,47,Main Draw,SEO Hyundeok (KOR),ASSAR Omar (EGY),SEO Hyundeok
+Pro Tour Korea Open Seoul 2009,2009-08-19,ZHMUDENKO Yaroslav,WANG LI Chung-Yi,4,1,"11,11,5,11,11|9,7,11,4,4",R16,GRAND_SLAM,U21MS,47,Main Draw,ZHMUDENKO Yaroslav (UKR),WANG LI Chung-Yi (TPE),ZHMUDENKO Yaroslav
+Pro Tour Korea Open Seoul 2009,2009-08-19,NIWA Koki,KIM Minseok,4,3,"11,12,11,8,10,9,11|7,10,7,11,12,11,8",R16,GRAND_SLAM,U21MS,47,Main Draw,NIWA Koki (JPN),KIM Minseok (KOR),NIWA Koki
+Pro Tour Korea Open Seoul 2009,2009-08-19,JEOUNG Youngsik,LORENTZ Romain,4,0,"11,11,12,11|9,3,10,4",R16,GRAND_SLAM,U21MS,47,Main Draw,JEOUNG Youngsik (KOR),LORENTZ Romain (FRA),JEOUNG Youngsik
+Pro Tour Korea Open Seoul 2009,2009-08-19,SALIFOU Abdel-Kader,CHANG Shun-Hung,4,1,"7,11,11,11,11|11,9,6,6,4",R16,GRAND_SLAM,U21MS,47,Main Draw,SALIFOU Abdel-Kader (BEN),CHANG Shun-Hung (TPE),SALIFOU Abdel-Kader
+Pro Tour Korea Open Seoul 2009,2009-08-19,JEONG Sangeun,KIM Donghyun,4,0,"11,11,11,11|7,9,9,5",QF,GRAND_SLAM,U21MS,47,Main Draw,JEONG Sangeun (KOR),KIM Donghyun (KOR),JEONG Sangeun
+Pro Tour Korea Open Seoul 2009,2009-08-19,SEO Hyundeok,SEO Junghwa,4,1,"11,13,7,11,11|8,11,11,4,5",QF,GRAND_SLAM,U21MS,47,Main Draw,SEO Hyundeok (KOR),SEO Junghwa (KOR),SEO Hyundeok
+Pro Tour Korea Open Seoul 2009,2009-08-19,NIWA Koki,ZHMUDENKO Yaroslav,4,0,"12,11,11,11|10,5,4,7",QF,GRAND_SLAM,U21MS,47,Main Draw,NIWA Koki (JPN),ZHMUDENKO Yaroslav (UKR),NIWA Koki
+Pro Tour Korea Open Seoul 2009,2009-08-19,JEOUNG Youngsik,SALIFOU Abdel-Kader,4,0,"11,14,11,11|6,12,8,6",QF,GRAND_SLAM,U21MS,47,Main Draw,JEOUNG Youngsik (KOR),SALIFOU Abdel-Kader (BEN),JEOUNG Youngsik
+Pro Tour Korea Open Seoul 2009,2009-08-19,JEONG Sangeun,SEO Hyundeok,4,3,"11,9,6,11,11,9,11|9,11,11,9,8,11,8",SF,GRAND_SLAM,U21MS,47,Main Draw,JEONG Sangeun (KOR),SEO Hyundeok (KOR),JEONG Sangeun
+Pro Tour Korea Open Seoul 2009,2009-08-19,JEOUNG Youngsik,NIWA Koki,4,0,"11,11,11,11|6,9,7,7",SF,GRAND_SLAM,U21MS,47,Main Draw,JEOUNG Youngsik (KOR),NIWA Koki (JPN),JEOUNG Youngsik
+Pro Tour Korea Open Seoul 2009,2009-08-19,JEONG Sangeun,JEOUNG Youngsik,4,1,"11,11,8,11,11|7,7,11,5,7",F,GRAND_SLAM,U21MS,47,Main Draw,JEONG Sangeun (KOR),JEOUNG Youngsik (KOR),JEONG Sangeun
+Pro Tour Korea Open Seoul 2009,2009-08-19,CHE Xiaoxi,TANIOKA Ayuka,4,0,"11,11,11,11|8,8,8,3",,GRAND_SLAM,WS,47,Qualification,CHE Xiaoxi (CHN),TANIOKA Ayuka (JPN),CHE Xiaoxi
+Pro Tour Korea Open Seoul 2009,2009-08-19,LAU Sui Fei,TANIOKA Ayuka,4,2,"15,13,8,12,11,11|13,11,11,14,9,7",,GRAND_SLAM,WS,47,Qualification,LAU Sui Fei (HKG),TANIOKA Ayuka (JPN),LAU Sui Fei
+Pro Tour Korea Open Seoul 2009,2009-08-19,LAU Sui Fei,CHE Xiaoxi,4,1,"12,11,10,11,12|10,9,12,5,10",,GRAND_SLAM,WS,47,Qualification,LAU Sui Fei (HKG),CHE Xiaoxi (CHN),LAU Sui Fei
+Pro Tour Korea Open Seoul 2009,2009-08-19,PRIVALOVA Alexandra,GUAN Mengyuan,4,3,"8,10,11,11,11,6,11|11,12,9,7,7,11,8",,GRAND_SLAM,WS,47,Qualification,PRIVALOVA Alexandra (BLR),GUAN Mengyuan (HKG),PRIVALOVA Alexandra
+Pro Tour Korea Open Seoul 2009,2009-08-19,ISHIGAKI Yuka,GUAN Mengyuan,4,0,"11,11,11,11|6,6,8,6",,GRAND_SLAM,WS,47,Qualification,ISHIGAKI Yuka (JPN),GUAN Mengyuan (HKG),ISHIGAKI Yuka
+Pro Tour Korea Open Seoul 2009,2009-08-19,ISHIGAKI Yuka,PRIVALOVA Alexandra,4,1,"5,11,12,11,11|11,5,10,7,3",,GRAND_SLAM,WS,47,Qualification,ISHIGAKI Yuka (JPN),PRIVALOVA Alexandra (BLR),ISHIGAKI Yuka
+Pro Tour Korea Open Seoul 2009,2009-08-19,NG Wing Nam,FUJII Yuko,4,0,"12,11,11,11|10,6,8,6",,GRAND_SLAM,WS,47,Qualification,NG Wing Nam (HKG),FUJII Yuko (JPN),NG Wing Nam
+Pro Tour Korea Open Seoul 2009,2009-08-19,SEOK Hajung,NG Wing Nam,4,0,"12,11,13,11|10,8,11,5",,GRAND_SLAM,WS,47,Qualification,SEOK Hajung (KOR),NG Wing Nam (HKG),SEOK Hajung
+Pro Tour Korea Open Seoul 2009,2009-08-19,SEOK Hajung,FUJII Yuko,4,1,"11,11,11,11,11|7,8,13,9,4",,GRAND_SLAM,WS,47,Qualification,SEOK Hajung (KOR),FUJII Yuko (JPN),SEOK Hajung
+Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Minhee (YOB=1991),LEE Ho Ching,4,0,"11,14,14,11|8,12,12,9",,GRAND_SLAM,WS,47,Qualification,KIM Minhee (YOB=1991) (KOR),LEE Ho Ching (HKG),KIM Minhee (YOB=1991)
+Pro Tour Korea Open Seoul 2009,2009-08-19,LEE Ho Ching,BARTHEL Zhenqi,4,1,"11,11,11,9,11|8,7,6,11,6",,GRAND_SLAM,WS,47,Qualification,LEE Ho Ching (HKG),BARTHEL Zhenqi (GER),LEE Ho Ching
+Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Minhee (YOB=1991),BARTHEL Zhenqi,4,2,"7,11,11,6,12,11|11,7,7,11,10,4",,GRAND_SLAM,WS,47,Qualification,KIM Minhee (YOB=1991) (KOR),BARTHEL Zhenqi (GER),KIM Minhee (YOB=1991)
+Pro Tour Korea Open Seoul 2009,2009-08-19,YANG Ha Eun,DURAK Mirela,4,1,"11,11,9,11,11|7,9,11,9,6",,GRAND_SLAM,WS,47,Qualification,YANG Ha Eun (KOR),DURAK Mirela (CRO),YANG Ha Eun
+Pro Tour Korea Open Seoul 2009,2009-08-19,KOMWONG Nanthana,DURAK Mirela,4,2,"11,11,11,11,12,11|13,8,2,6,14,4",,GRAND_SLAM,WS,47,Qualification,KOMWONG Nanthana (THA),DURAK Mirela (CRO),KOMWONG Nanthana
+Pro Tour Korea Open Seoul 2009,2009-08-19,YANG Ha Eun,KOMWONG Nanthana,4,0,"11,11,11,11|4,7,4,4",,GRAND_SLAM,WS,47,Qualification,YANG Ha Eun (KOR),KOMWONG Nanthana (THA),YANG Ha Eun
+Pro Tour Korea Open Seoul 2009,2009-08-19,MORIZONO Misaki,LEE Hyun,4,2,"6,8,12,11,11,11|11,11,10,7,6,6",,GRAND_SLAM,WS,47,Qualification,MORIZONO Misaki (JPN),LEE Hyun (KOR),MORIZONO Misaki
+Pro Tour Korea Open Seoul 2009,2009-08-19,ZHANG Rui,LEE Hyun,4,1,"11,11,11,12,11|5,5,8,14,8",,GRAND_SLAM,WS,47,Qualification,ZHANG Rui (HKG),LEE Hyun (KOR),ZHANG Rui
+Pro Tour Korea Open Seoul 2009,2009-08-19,ZHANG Rui,MORIZONO Misaki,4,0,"11,11,12,17|7,6,10,15",,GRAND_SLAM,WS,47,Qualification,ZHANG Rui (HKG),MORIZONO Misaki (JPN),ZHANG Rui
+Pro Tour Korea Open Seoul 2009,2009-08-19,MUANGSUK Anisara,SONG Maeum,4,2,"11,11,11,7,6,11|8,5,4,11,11,9",,GRAND_SLAM,WS,47,Qualification,MUANGSUK Anisara (THA),SONG Maeum (KOR),MUANGSUK Anisara
+Pro Tour Korea Open Seoul 2009,2009-08-19,LI Xue,SONG Maeum,4,0,"11,11,11,12|9,3,7,10",,GRAND_SLAM,WS,47,Qualification,LI Xue (FRA),SONG Maeum (KOR),LI Xue
+Pro Tour Korea Open Seoul 2009,2009-08-19,LI Xue,MUANGSUK Anisara,4,0,"11,11,11,11|8,2,5,6",,GRAND_SLAM,WS,47,Qualification,LI Xue (FRA),MUANGSUK Anisara (THA),LI Xue
+Pro Tour Korea Open Seoul 2009,2009-08-19,YAMANASHI Yuri,SIM Kai Xin Zena,4,0,"11,11,11,11|3,7,7,9",,GRAND_SLAM,WS,47,Qualification,YAMANASHI Yuri (JPN),SIM Kai Xin Zena (SGP),YAMANASHI Yuri
+Pro Tour Korea Open Seoul 2009,2009-08-19,MOON Hyunjung,SIM Kai Xin Zena,4,0,"11,11,11,11|3,2,3,3",,GRAND_SLAM,WS,47,Qualification,MOON Hyunjung (KOR),SIM Kai Xin Zena (SGP),MOON Hyunjung
+Pro Tour Korea Open Seoul 2009,2009-08-19,YAMANASHI Yuri,MOON Hyunjung,4,2,"11,11,11,11,4,11|4,7,6,13,11,9",,GRAND_SLAM,WS,47,Qualification,YAMANASHI Yuri (JPN),MOON Hyunjung (KOR),YAMANASHI Yuri
+Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Junghyun,SAWETTABUT Suthasini,4,3,"11,11,11,12,9,8,11|3,5,5,14,11,11,7",,GRAND_SLAM,WS,47,Qualification,KIM Junghyun (KOR),SAWETTABUT Suthasini (THA),KIM Junghyun
+Pro Tour Korea Open Seoul 2009,2009-08-19,LANG Kristin,SAWETTABUT Suthasini,4,0,"11,11,11,11|5,7,8,7",,GRAND_SLAM,WS,47,Qualification,LANG Kristin (GER),SAWETTABUT Suthasini (THA),LANG Kristin
+Pro Tour Korea Open Seoul 2009,2009-08-19,LANG Kristin,KIM Junghyun,4,3,"8,17,9,2,12,11,11|11,15,11,11,10,9,9",,GRAND_SLAM,WS,47,Qualification,LANG Kristin (GER),KIM Junghyun (KOR),LANG Kristin
+Pro Tour Korea Open Seoul 2009,2009-08-19,YU Kwok See,ZHANG Qiang,4,2,"11,13,6,14,7,11|6,11,11,12,11,7",,GRAND_SLAM,WS,47,Qualification,YU Kwok See (HKG),ZHANG Qiang (CHN),YU Kwok See
+Pro Tour Korea Open Seoul 2009,2009-08-19,PARK Youngsook,ZHANG Qiang,4,3,"14,11,12,11,7,7,11|12,7,14,6,11,11,8",,GRAND_SLAM,WS,47,Qualification,PARK Youngsook (KOR),ZHANG Qiang (CHN),PARK Youngsook
+Pro Tour Korea Open Seoul 2009,2009-08-19,YU Kwok See,PARK Youngsook,4,2,"12,11,11,9,11,11|14,8,3,11,9,9",,GRAND_SLAM,WS,47,Qualification,YU Kwok See (HKG),PARK Youngsook (KOR),YU Kwok See
+Pro Tour Korea Open Seoul 2009,2009-08-19,SHENG Dandan,WAKAMIYA Misako,4,3,"6,12,11,10,11,9,13|11,10,8,12,7,11,11",,GRAND_SLAM,WS,47,Qualification,SHENG Dandan (CHN),WAKAMIYA Misako (JPN),SHENG Dandan
+Pro Tour Korea Open Seoul 2009,2009-08-19,SHENG Dandan,CHOI Moonyoung,4,0,"11,11,11,11|7,8,4,9",,GRAND_SLAM,WS,47,Qualification,SHENG Dandan (CHN),CHOI Moonyoung (KOR),SHENG Dandan
+Pro Tour Korea Open Seoul 2009,2009-08-19,CHOI Moonyoung,WAKAMIYA Misako,4,1,"11,12,8,12,11|8,10,11,10,5",,GRAND_SLAM,WS,47,Qualification,CHOI Moonyoung (KOR),WAKAMIYA Misako (JPN),CHOI Moonyoung
+Pro Tour Korea Open Seoul 2009,2009-08-19,SUH Hyo Won,YAO Junyu,4,1,"11,11,11,6,11|1,2,2,11,5",,GRAND_SLAM,WS,47,Qualification,SUH Hyo Won (KOR),YAO Junyu (CHN),SUH Hyo Won
+Pro Tour Korea Open Seoul 2009,2009-08-19,BAKULA Andrea,TASHIRO Saki,4,0,"11,11,11,13|6,9,4,11",,GRAND_SLAM,WS,47,Qualification,BAKULA Andrea (CRO),TASHIRO Saki (JPN),BAKULA Andrea
+Pro Tour Korea Open Seoul 2009,2009-08-19,SUH Hyo Won,TASHIRO Saki,4,0,"11,11,11,11|6,3,5,5",,GRAND_SLAM,WS,47,Qualification,SUH Hyo Won (KOR),TASHIRO Saki (JPN),SUH Hyo Won
+Pro Tour Korea Open Seoul 2009,2009-08-19,YAO Junyu,BAKULA Andrea,4,1,"11,7,11,11,11|6,11,5,8,4",,GRAND_SLAM,WS,47,Qualification,YAO Junyu (CHN),BAKULA Andrea (CRO),YAO Junyu
+Pro Tour Korea Open Seoul 2009,2009-08-19,SUH Hyo Won,BAKULA Andrea,4,2,"8,11,8,11,11,11|11,8,11,7,7,4",,GRAND_SLAM,WS,47,Qualification,SUH Hyo Won (KOR),BAKULA Andrea (CRO),SUH Hyo Won
+Pro Tour Korea Open Seoul 2009,2009-08-19,YAO Junyu,TASHIRO Saki,4,2,"8,11,11,11,7,11|11,4,5,9,11,7",,GRAND_SLAM,WS,47,Qualification,YAO Junyu (CHN),TASHIRO Saki (JPN),YAO Junyu
+Pro Tour Korea Open Seoul 2009,2009-08-19,SAWETTABUT Suthasini,CHEON Seeun,3,0,"11,11,11|6,7,8",,GRAND_SLAM,U21WS,47,Qualification,SAWETTABUT Suthasini (THA),CHEON Seeun (KOR),SAWETTABUT Suthasini
+Pro Tour Korea Open Seoul 2009,2009-08-19,TANIOKA Ayuka,CHEON Seeun,3,0,"11,13,11|4,11,8",,GRAND_SLAM,U21WS,47,Qualification,TANIOKA Ayuka (JPN),CHEON Seeun (KOR),TANIOKA Ayuka
+Pro Tour Korea Open Seoul 2009,2009-08-19,TANIOKA Ayuka,SAWETTABUT Suthasini,3,0,"11,12,11|4,10,6",,GRAND_SLAM,U21WS,47,Qualification,TANIOKA Ayuka (JPN),SAWETTABUT Suthasini (THA),TANIOKA Ayuka
+Pro Tour Korea Open Seoul 2009,2009-08-19,TSUCHIDA Miki,YOO Eunchong,3,0,"11,11,11|8,5,9",,GRAND_SLAM,U21WS,47,Qualification,TSUCHIDA Miki (JPN),YOO Eunchong (KOR),TSUCHIDA Miki
+Pro Tour Korea Open Seoul 2009,2009-08-19,CHE Xiaoxi,TSUCHIDA Miki,3,0,"12,11,11|10,6,9",,GRAND_SLAM,U21WS,47,Qualification,CHE Xiaoxi (CHN),TSUCHIDA Miki (JPN),CHE Xiaoxi
+Pro Tour Korea Open Seoul 2009,2009-08-19,CHE Xiaoxi,YOO Eunchong,3,0,"11,11,11|2,6,3",,GRAND_SLAM,U21WS,47,Qualification,CHE Xiaoxi (CHN),YOO Eunchong (KOR),CHE Xiaoxi
+Pro Tour Korea Open Seoul 2009,2009-08-19,YAO Junyu,JO Yujin,3,0,"11,11,11|8,5,9",,GRAND_SLAM,U21WS,47,Qualification,YAO Junyu (CHN),JO Yujin (KOR),YAO Junyu
+Pro Tour Korea Open Seoul 2009,2009-08-19,YAO Junyu,NG Wing Nam,3,1,"11,6,13,11|3,11,11,5",,GRAND_SLAM,U21WS,47,Qualification,YAO Junyu (CHN),NG Wing Nam (HKG),YAO Junyu
+Pro Tour Korea Open Seoul 2009,2009-08-19,NG Wing Nam,JO Yujin,3,0,"11,11,11|2,8,2",,GRAND_SLAM,U21WS,47,Qualification,NG Wing Nam (HKG),JO Yujin (KOR),NG Wing Nam
+Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Mingyung,YU Sora,3,2,"11,11,9,9,11|4,9,11,11,7",,GRAND_SLAM,U21WS,47,Qualification,KIM Mingyung (KOR),YU Sora (KOR),KIM Mingyung
+Pro Tour Korea Open Seoul 2009,2009-08-19,YU Sora,LEE Ho Ching,3,1,"7,11,11,12|11,7,5,10",,GRAND_SLAM,U21WS,47,Qualification,YU Sora (KOR),LEE Ho Ching (HKG),YU Sora
+Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Mingyung,LEE Ho Ching,3,2,"8,11,10,11,13|11,6,12,8,11",,GRAND_SLAM,U21WS,47,Qualification,KIM Mingyung (KOR),LEE Ho Ching (HKG),KIM Mingyung
+Pro Tour Korea Open Seoul 2009,2009-08-19,SHENG Dandan,SIM Kai Xin Zena,3,0,"11,11,11|5,5,4",,GRAND_SLAM,U21WS,47,Qualification,SHENG Dandan (CHN),SIM Kai Xin Zena (SGP),SHENG Dandan
+Pro Tour Korea Open Seoul 2009,2009-08-19,SHENG Dandan,HWANG Jina,3,0,"11,11,16|7,3,14",,GRAND_SLAM,U21WS,47,Qualification,SHENG Dandan (CHN),HWANG Jina (KOR),SHENG Dandan
+Pro Tour Korea Open Seoul 2009,2009-08-19,HWANG Jina,SIM Kai Xin Zena,3,0,"11,11,13|9,8,11",,GRAND_SLAM,U21WS,47,Qualification,HWANG Jina (KOR),SIM Kai Xin Zena (SGP),HWANG Jina
+Pro Tour Korea Open Seoul 2009,2009-08-19,TASHIRO Saki,SONG Maeum,3,0,"11,14,13|3,12,11",,GRAND_SLAM,U21WS,47,Qualification,TASHIRO Saki (JPN),SONG Maeum (KOR),TASHIRO Saki
+Pro Tour Korea Open Seoul 2009,2009-08-19,TASHIRO Saki,DURAK Mirela,3,0,"12,11,11|10,8,7",,GRAND_SLAM,U21WS,47,Qualification,TASHIRO Saki (JPN),DURAK Mirela (CRO),TASHIRO Saki
+Pro Tour Korea Open Seoul 2009,2009-08-19,SONG Maeum,DURAK Mirela,3,0,"13,12,11|11,10,7",,GRAND_SLAM,U21WS,47,Qualification,SONG Maeum (KOR),DURAK Mirela (CRO),SONG Maeum
+Pro Tour Korea Open Seoul 2009,2009-08-19,LEE Sujin,DOI Minami,3,1,"11,11,9,11|8,4,11,7",,GRAND_SLAM,U21WS,47,Qualification,LEE Sujin (KOR),DOI Minami (JPN),LEE Sujin
+Pro Tour Korea Open Seoul 2009,2009-08-19,LEE Hyun,ZHANG Qiang,3,0,"11,13,11|5,11,6",,GRAND_SLAM,U21WS,47,Qualification,LEE Hyun (KOR),ZHANG Qiang (CHN),LEE Hyun
+Pro Tour Korea Open Seoul 2009,2009-08-19,ZHANG Qiang,DOI Minami,3,0,"11,11,11|4,9,5",,GRAND_SLAM,U21WS,47,Qualification,ZHANG Qiang (CHN),DOI Minami (JPN),ZHANG Qiang
+Pro Tour Korea Open Seoul 2009,2009-08-19,LEE Hyun,LEE Sujin,3,0,"11,11,11|5,5,5",,GRAND_SLAM,U21WS,47,Qualification,LEE Hyun (KOR),LEE Sujin (KOR),LEE Hyun
+Pro Tour Korea Open Seoul 2009,2009-08-19,DOI Minami,LEE Hyun,3,1,"15,9,11,12|13,11,3,10",,GRAND_SLAM,U21WS,47,Qualification,DOI Minami (JPN),LEE Hyun (KOR),DOI Minami
+Pro Tour Korea Open Seoul 2009,2009-08-19,ZHANG Qiang,LEE Sujin,3,0,"12,11,11|10,7,9",,GRAND_SLAM,U21WS,47,Qualification,ZHANG Qiang (CHN),LEE Sujin (KOR),ZHANG Qiang
+Pro Tour Korea Open Seoul 2009,2009-08-19,FENG Tianwei,KIM Junghyun,4,0,"11,11,11,11|4,5,6,6",R32,GRAND_SLAM,WS,47,Main Draw,FENG Tianwei (SGP),KIM Junghyun (KOR),FENG Tianwei
+Pro Tour Korea Open Seoul 2009,2009-08-19,LIN Ling,KIM Minhee (YOB=1991),4,0,"14,11,13,11|12,8,11,9",R32,GRAND_SLAM,WS,47,Main Draw,LIN Ling (HKG),KIM Minhee (YOB=1991) (KOR),LIN Ling
+Pro Tour Korea Open Seoul 2009,2009-08-19,YANG Ha Eun,HIURA Reiko,4,2,"11,11,6,10,11,11|9,8,11,12,4,8",R32,GRAND_SLAM,WS,47,Main Draw,YANG Ha Eun (KOR),HIURA Reiko (JPN),YANG Ha Eun
+Pro Tour Korea Open Seoul 2009,2009-08-19,LAU Sui Fei,YAMANASHI Yuri,4,1,"12,6,11,11,11|10,11,8,6,9",R32,GRAND_SLAM,WS,47,Main Draw,LAU Sui Fei (HKG),YAMANASHI Yuri (JPN),LAU Sui Fei
+Pro Tour Korea Open Seoul 2009,2009-08-19,TIE Yana,LANG Kristin,4,2,"7,11,9,11,11,11|11,8,11,5,5,6",R32,GRAND_SLAM,WS,47,Main Draw,TIE Yana (HKG),LANG Kristin (GER),TIE Yana
+Pro Tour Korea Open Seoul 2009,2009-08-19,LEE Eunhee,MORIZONO Misaki,4,2,"8,11,13,7,11,12|11,4,11,11,9,10",R32,GRAND_SLAM,WS,47,Main Draw,LEE Eunhee (KOR),MORIZONO Misaki (JPN),LEE Eunhee
+Pro Tour Korea Open Seoul 2009,2009-08-19,SUN Beibei,SHENG Dandan,4,3,"11,10,11,11,11,7,11|13,12,2,7,9,11,8",R32,GRAND_SLAM,WS,47,Main Draw,SUN Beibei (SGP),SHENG Dandan (CHN),SUN Beibei
+Pro Tour Korea Open Seoul 2009,2009-08-19,WANG Yuegu,PARK Youngsook,4,1,"8,11,11,11,11|11,5,8,5,5",R32,GRAND_SLAM,WS,47,Main Draw,WANG Yuegu (SGP),PARK Youngsook (KOR),WANG Yuegu
+Pro Tour Korea Open Seoul 2009,2009-08-19,JIANG Huajun,MUANGSUK Anisara,4,2,"11,7,11,5,11,11|8,11,2,11,6,8",R32,GRAND_SLAM,WS,47,Main Draw,JIANG Huajun (HKG),MUANGSUK Anisara (THA),JIANG Huajun
+Pro Tour Korea Open Seoul 2009,2009-08-19,LI Xue,BOROS Tamara,4,1,"11,11,11,13,11|6,8,9,15,8",R32,GRAND_SLAM,WS,47,Main Draw,LI Xue (FRA),BOROS Tamara (CRO),LI Xue
+Pro Tour Korea Open Seoul 2009,2009-08-19,ZHANG Rui,YU Mengyu,4,2,"7,11,12,4,11,11|11,8,10,11,9,5",R32,GRAND_SLAM,WS,47,Main Draw,ZHANG Rui (HKG),YU Mengyu (SGP),ZHANG Rui
+Pro Tour Korea Open Seoul 2009,2009-08-19,ISHIGAKI Yuka,DANG Yeseo,4,3,"11,5,9,8,11,11,11|9,11,11,11,5,5,6",R32,GRAND_SLAM,WS,47,Main Draw,ISHIGAKI Yuka (JPN),DANG Yeseo (KOR),ISHIGAKI Yuka
+Pro Tour Korea Open Seoul 2009,2009-08-19,PARK Miyoung,YU Kwok See,4,0,"11,11,11,11|1,8,5,6",R32,GRAND_SLAM,WS,47,Main Draw,PARK Miyoung (KOR),YU Kwok See (HKG),PARK Miyoung
+Pro Tour Korea Open Seoul 2009,2009-08-19,SEOK Hajung,WU Jiaduo,4,0,"11,11,11,12|5,8,7,10",R32,GRAND_SLAM,WS,47,Main Draw,SEOK Hajung (KOR),WU Jiaduo (GER),SEOK Hajung
+Pro Tour Korea Open Seoul 2009,2009-08-19,FUKUHARA Ai,SUH Hyo Won,4,1,"11,11,12,9,11|9,8,10,11,5",R32,GRAND_SLAM,WS,47,Main Draw,FUKUHARA Ai (JPN),SUH Hyo Won (KOR),FUKUHARA Ai
+Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Kyungah,LEE Ho Ching,4,1,"11,11,11,10,11|8,8,7,12,7",R32,GRAND_SLAM,WS,47,Main Draw,KIM Kyungah (KOR),LEE Ho Ching (HKG),KIM Kyungah
+Pro Tour Korea Open Seoul 2009,2009-08-19,FENG Tianwei,LIN Ling,4,1,"11,13,11,9,11|4,11,4,11,7",R16,GRAND_SLAM,WS,47,Main Draw,FENG Tianwei (SGP),LIN Ling (HKG),FENG Tianwei
+Pro Tour Korea Open Seoul 2009,2009-08-19,LAU Sui Fei,YANG Ha Eun,4,1,"11,11,11,11,12|13,6,7,5,10",R16,GRAND_SLAM,WS,47,Main Draw,LAU Sui Fei (HKG),YANG Ha Eun (KOR),LAU Sui Fei
+Pro Tour Korea Open Seoul 2009,2009-08-19,TIE Yana,LEE Eunhee,4,2,"7,11,3,11,11,11|11,8,11,8,5,8",R16,GRAND_SLAM,WS,47,Main Draw,TIE Yana (HKG),LEE Eunhee (KOR),TIE Yana
+Pro Tour Korea Open Seoul 2009,2009-08-19,SUN Beibei,WANG Yuegu,4,0,"13,13,11,11|11,11,6,3",R16,GRAND_SLAM,WS,47,Main Draw,SUN Beibei (SGP),WANG Yuegu (SGP),SUN Beibei
+Pro Tour Korea Open Seoul 2009,2009-08-19,JIANG Huajun,LI Xue,4,2,"9,8,11,11,11,11|11,11,3,8,4,6",R16,GRAND_SLAM,WS,47,Main Draw,JIANG Huajun (HKG),LI Xue (FRA),JIANG Huajun
+Pro Tour Korea Open Seoul 2009,2009-08-19,ISHIGAKI Yuka,ZHANG Rui,4,0,"11,11,11,11|9,8,7,2",R16,GRAND_SLAM,WS,47,Main Draw,ISHIGAKI Yuka (JPN),ZHANG Rui (HKG),ISHIGAKI Yuka
+Pro Tour Korea Open Seoul 2009,2009-08-19,PARK Miyoung,SEOK Hajung,4,1,"6,11,14,12,13|11,5,12,10,11",R16,GRAND_SLAM,WS,47,Main Draw,PARK Miyoung (KOR),SEOK Hajung (KOR),PARK Miyoung
+Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Kyungah,FUKUHARA Ai,4,1,"11,11,11,10,11|7,7,6,12,6",R16,GRAND_SLAM,WS,47,Main Draw,KIM Kyungah (KOR),FUKUHARA Ai (JPN),KIM Kyungah
+Pro Tour Korea Open Seoul 2009,2009-08-19,FENG Tianwei,LAU Sui Fei,4,0,"11,11,11,11|9,5,6,4",QF,GRAND_SLAM,WS,47,Main Draw,FENG Tianwei (SGP),LAU Sui Fei (HKG),FENG Tianwei
+Pro Tour Korea Open Seoul 2009,2009-08-19,SUN Beibei,TIE Yana,4,3,"6,3,11,5,15,11,11|11,11,4,11,13,8,7",QF,GRAND_SLAM,WS,47,Main Draw,SUN Beibei (SGP),TIE Yana (HKG),SUN Beibei
+Pro Tour Korea Open Seoul 2009,2009-08-19,JIANG Huajun,ISHIGAKI Yuka,4,0,"11,11,11,11|5,8,7,3",QF,GRAND_SLAM,WS,47,Main Draw,JIANG Huajun (HKG),ISHIGAKI Yuka (JPN),JIANG Huajun
+Pro Tour Korea Open Seoul 2009,2009-08-19,PARK Miyoung,KIM Kyungah,4,3,"4,8,11,11,8,11,11|11,11,4,4,11,6,7",QF,GRAND_SLAM,WS,47,Main Draw,PARK Miyoung (KOR),KIM Kyungah (KOR),PARK Miyoung
+Pro Tour Korea Open Seoul 2009,2009-08-19,FENG Tianwei,SUN Beibei,4,3,"9,11,9,11,9,11,11|11,6,11,8,11,6,9",SF,GRAND_SLAM,WS,47,Main Draw,FENG Tianwei (SGP),SUN Beibei (SGP),FENG Tianwei
+Pro Tour Korea Open Seoul 2009,2009-08-19,JIANG Huajun,PARK Miyoung,4,0,"11,11,11,13|7,3,6,11",SF,GRAND_SLAM,WS,47,Main Draw,JIANG Huajun (HKG),PARK Miyoung (KOR),JIANG Huajun
+Pro Tour Korea Open Seoul 2009,2009-08-19,FENG Tianwei,JIANG Huajun,4,0,"11,11,11,11|2,8,8,9",F,GRAND_SLAM,WS,47,Main Draw,FENG Tianwei (SGP),JIANG Huajun (HKG),FENG Tianwei
+Pro Tour Korea Open Seoul 2009,2009-08-19,YU Mengyu,NG Wing Nam,4,2,"12,7,5,11,12,11|10,11,11,2,10,5",R16,GRAND_SLAM,U21WS,47,Main Draw,YU Mengyu (SGP),NG Wing Nam (HKG),YU Mengyu
+Pro Tour Korea Open Seoul 2009,2009-08-19,TANIOKA Ayuka,KIM Minhee (YOB=1991),4,1,"11,12,8,11,11|9,10,11,8,8",R16,GRAND_SLAM,U21WS,47,Main Draw,TANIOKA Ayuka (JPN),KIM Minhee (YOB=1991) (KOR),TANIOKA Ayuka
+Pro Tour Korea Open Seoul 2009,2009-08-19,LEE Hyun,GUAN Mengyuan,4,3,"6,11,10,3,11,11,11|11,9,12,11,7,6,9",R16,GRAND_SLAM,U21WS,47,Main Draw,LEE Hyun (KOR),GUAN Mengyuan (HKG),LEE Hyun
+Pro Tour Korea Open Seoul 2009,2009-08-19,MORIZONO Misaki,KIM Mingyung,4,0,"11,11,11,11|6,9,7,4",R16,GRAND_SLAM,U21WS,47,Main Draw,MORIZONO Misaki (JPN),KIM Mingyung (KOR),MORIZONO Misaki
+Pro Tour Korea Open Seoul 2009,2009-08-19,CHE Xiaoxi,WAKAMIYA Misako,4,0,"11,11,11,12|5,6,7,10",R16,GRAND_SLAM,U21WS,47,Main Draw,CHE Xiaoxi (CHN),WAKAMIYA Misako (JPN),CHE Xiaoxi
+Pro Tour Korea Open Seoul 2009,2009-08-19,YAO Junyu,FUJII Yuko,4,0,"11,11,12,11|5,6,10,6",R16,GRAND_SLAM,U21WS,47,Main Draw,YAO Junyu (CHN),FUJII Yuko (JPN),YAO Junyu
+Pro Tour Korea Open Seoul 2009,2009-08-19,YANG Ha Eun,SHENG Dandan,4,1,"11,11,8,11,11|9,6,11,5,6",R16,GRAND_SLAM,U21WS,47,Main Draw,YANG Ha Eun (KOR),SHENG Dandan (CHN),YANG Ha Eun
+Pro Tour Korea Open Seoul 2009,2009-08-19,PARK Youngsook,TASHIRO Saki,4,3,"8,12,11,7,5,11,11|11,10,3,11,11,7,7",R16,GRAND_SLAM,U21WS,47,Main Draw,PARK Youngsook (KOR),TASHIRO Saki (JPN),PARK Youngsook
+Pro Tour Korea Open Seoul 2009,2009-08-19,YU Mengyu,TANIOKA Ayuka,4,0,"11,11,11,11|9,6,8,6",QF,GRAND_SLAM,U21WS,47,Main Draw,YU Mengyu (SGP),TANIOKA Ayuka (JPN),YU Mengyu
+Pro Tour Korea Open Seoul 2009,2009-08-19,CHE Xiaoxi,YAO Junyu,4,2,"5,11,11,8,11,11|11,8,9,11,6,7",QF,GRAND_SLAM,U21WS,47,Main Draw,CHE Xiaoxi (CHN),YAO Junyu (CHN),CHE Xiaoxi
+Pro Tour Korea Open Seoul 2009,2009-08-19,YANG Ha Eun,PARK Youngsook,4,3,"11,11,11,5,12,2,15|4,8,8,11,14,11,13",QF,GRAND_SLAM,U21WS,47,Main Draw,YANG Ha Eun (KOR),PARK Youngsook (KOR),YANG Ha Eun
+Pro Tour Korea Open Seoul 2009,2009-08-19,MORIZONO Misaki,YU Mengyu,4,2,"6,13,11,8,11,11|11,11,7,11,2,7",SF,GRAND_SLAM,U21WS,47,Main Draw,MORIZONO Misaki (JPN),YU Mengyu (SGP),MORIZONO Misaki
+Pro Tour Korea Open Seoul 2009,2009-08-19,YANG Ha Eun,CHE Xiaoxi,4,0,"12,12,11,11|10,10,5,4",SF,GRAND_SLAM,U21WS,47,Main Draw,YANG Ha Eun (KOR),CHE Xiaoxi (CHN),YANG Ha Eun
+Pro Tour Korea Open Seoul 2009,2009-08-19,YANG Ha Eun,MORIZONO Misaki,4,2,"11,9,11,13,9,12|6,11,8,11,11,10",F,GRAND_SLAM,U21WS,47,Main Draw,YANG Ha Eun (KOR),MORIZONO Misaki (JPN),YANG Ha Eun
+Pro Tour Korea Open Seoul 2009,2009-08-19,HAO Shuai/WANG Hao,GAUZY Simon/LORENTZ Romain,3,0,"11,14,11|4,12,9",QR16,GRAND_SLAM,MD,47,Qualification,HAO Shuai (CHN) / WANG Hao (CHN),GAUZY Simon (FRA) / LORENTZ Romain (FRA),HAO Shuai
+Pro Tour Korea Open Seoul 2009,2009-08-19,TOKIC Bojan/YANG Zi,LEI Zhenhua/QIU Yike,3,2,"11,10,7,11,11|8,12,11,8,7",QR16,GRAND_SLAM,MD,47,Qualification,TOKIC Bojan (SLO) / YANG Zi (SGP),LEI Zhenhua (CHN) / QIU Yike (CHN),TOKIC Bojan
+Pro Tour Korea Open Seoul 2009,2009-08-19,HAO Shuai/WANG Hao,BAUM Patrick/OVTCHAROV Dimitrij,4,0,"16,11,12,11|14,5,10,8",QF,GRAND_SLAM,MD,47,Main Draw,HAO Shuai (CHN) / WANG Hao (CHN),BAUM Patrick (GER) / OVTCHAROV Dimitrij (GER),HAO Shuai
+Pro Tour Korea Open Seoul 2009,2009-08-19,HAO Shuai/WANG Hao,OH Sangeun/YOON Jaeyoung,4,0,"11,11,12,11|4,7,10,7",SF,GRAND_SLAM,MD,47,Main Draw,HAO Shuai (CHN) / WANG Hao (CHN),OH Sangeun (KOR) / YOON Jaeyoung (KOR),HAO Shuai
+Pro Tour Korea Open Seoul 2009,2009-08-19,HAO Shuai/WANG Hao,CHO Eonrae/KIM Junghoon,4,0,"11,11,11,11|5,9,9,7",F,GRAND_SLAM,MD,47,Main Draw,HAO Shuai (CHN) / WANG Hao (CHN),CHO Eonrae (KOR) / KIM Junghoon (KOR),HAO Shuai
+Pro Tour Korea Open Seoul 2009,2009-08-19,CHANG Shun-Hung/HUNG Tzu-Hsiang,BIZAKU Jonathan/LUKATIKISU Beni,3,0,"11,11,11|3,6,4",QR32,GRAND_SLAM,MD,47,Qualification,CHANG Shun-Hung (TPE) / HUNG Tzu-Hsiang (TPE),BIZAKU Jonathan (COD) / LUKATIKISU Beni (COD),CHANG Shun-Hung
+Pro Tour Korea Open Seoul 2009,2009-08-19,LE BRETON Thomas/SALIFOU Abdel-Kader,CHO Jihoon/JEONG Sangeun,3,2,"5,10,11,11,11|11,12,9,8,3",QR16,GRAND_SLAM,MD,47,Qualification,LE BRETON Thomas (FRA) / SALIFOU Abdel-Kader (BEN),CHO Jihoon (KOR) / JEONG Sangeun (KOR),LE BRETON Thomas
+Pro Tour Korea Open Seoul 2009,2009-08-19,FENG Xiaoquan/YOSHIDA Kaii,CHEUNG Yat Fung/CHIU Chung Hei,3,0,"11,11,11|3,7,7",QR16,GRAND_SLAM,MD,47,Qualification,FENG Xiaoquan (AUT) / YOSHIDA Kaii (JPN),CHEUNG Yat Fung (HKG) / CHIU Chung Hei (HKG),FENG Xiaoquan
+Pro Tour Korea Open Seoul 2009,2009-08-19,HAO Shuai/WANG Hao,KISHIKAWA Seiya/MIZUTANI Jun,4,1,"8,11,11,13,11|11,8,5,11,7",R16,GRAND_SLAM,MD,47,Main Draw,HAO Shuai (CHN) / WANG Hao (CHN),KISHIKAWA Seiya (JPN) / MIZUTANI Jun (JPN),HAO Shuai
+Pro Tour Korea Open Seoul 2009,2009-08-19,MATSUDAIRA Kenta/NIWA Koki,LEBESSON Emmanuel/MATTENET Adrien,4,0,"14,11,11,11|12,5,8,6",R16,GRAND_SLAM,MD,47,Main Draw,MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN),LEBESSON Emmanuel (FRA) / MATTENET Adrien (FRA),MATSUDAIRA Kenta
+Pro Tour Korea Open Seoul 2009,2009-08-19,JEOUNG Youngsik/KIM Minseok,GREEN Wally/NKUNDA Djodjo,3,0,,QR32,GRAND_SLAM,MD,47,Qualification,JEOUNG Youngsik (KOR) / KIM Minseok (KOR),GREEN Wally (USA) / NKUNDA Djodjo (COD),JEOUNG Youngsik
+Pro Tour Korea Open Seoul 2009,2009-08-19,MATSUDAIRA Kenta/NIWA Koki,JEOUNG Youngsik/KIM Minseok,3,2,"7,11,11,7,11|11,7,8,11,7",QR16,GRAND_SLAM,MD,47,Qualification,MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN),JEOUNG Youngsik (KOR) / KIM Minseok (KOR),MATSUDAIRA Kenta
+Pro Tour Korea Open Seoul 2009,2009-08-19,HAM Sori/KIM Donghyun,ASSAR Omar/LASHIN Elsayed,3,0,"11,11,11|9,6,4",QR16,GRAND_SLAM,MD,47,Qualification,HAM Sori (KOR) / KIM Donghyun (KOR),ASSAR Omar (EGY) / LASHIN Elsayed (EGY),HAM Sori
+Pro Tour Korea Open Seoul 2009,2009-08-19,BAUM Patrick/OVTCHAROV Dimitrij,HAM Sori/KIM Donghyun,4,3,"10,11,11,6,13,9,11|12,6,7,11,11,11,6",R16,GRAND_SLAM,MD,47,Main Draw,BAUM Patrick (GER) / OVTCHAROV Dimitrij (GER),HAM Sori (KOR) / KIM Donghyun (KOR),BAUM Patrick
+Pro Tour Korea Open Seoul 2009,2009-08-19,RYU Seungmin/SEO Hyundeok,LE BRETON Thomas/SALIFOU Abdel-Kader,4,0,"11,11,11,13|6,6,4,11",R16,GRAND_SLAM,MD,47,Main Draw,RYU Seungmin (KOR) / SEO Hyundeok (KOR),LE BRETON Thomas (FRA) / SALIFOU Abdel-Kader (BEN),RYU Seungmin
+Pro Tour Korea Open Seoul 2009,2009-08-19,CHO Eonrae/KIM Junghoon,FENG Xiaoquan/YOSHIDA Kaii,4,3,"12,8,8,8,13,11,11|10,11,11,11,11,4,6",R16,GRAND_SLAM,MD,47,Main Draw,CHO Eonrae (KOR) / KIM Junghoon (KOR),FENG Xiaoquan (AUT) / YOSHIDA Kaii (JPN),CHO Eonrae
+Pro Tour Korea Open Seoul 2009,2009-08-19,OH Sangeun/YOON Jaeyoung,RYU Seungmin/SEO Hyundeok,4,3,"11,11,13,9,6,6,14|5,6,11,11,11,11,12",QF,GRAND_SLAM,MD,47,Main Draw,OH Sangeun (KOR) / YOON Jaeyoung (KOR),RYU Seungmin (KOR) / SEO Hyundeok (KOR),OH Sangeun
+Pro Tour Korea Open Seoul 2009,2009-08-19,CHO Eonrae/KIM Junghoon,MATSUDAIRA Kenta/NIWA Koki,4,1,"11,11,11,8,11|4,8,7,11,9",QF,GRAND_SLAM,MD,47,Main Draw,CHO Eonrae (KOR) / KIM Junghoon (KOR),MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN),CHO Eonrae
+Pro Tour Korea Open Seoul 2009,2009-08-19,CHO Eonrae/KIM Junghoon,JOO Saehyuk/LEE Jinkwon,4,2,"7,11,16,11,10,11|11,9,14,3,12,5",SF,GRAND_SLAM,MD,47,Main Draw,CHO Eonrae (KOR) / KIM Junghoon (KOR),JOO Saehyuk (KOR) / LEE Jinkwon (KOR),CHO Eonrae
+Pro Tour Korea Open Seoul 2009,2009-08-19,CHANG Shun-Hung/HUNG Tzu-Hsiang,CHAITAT Chaisit/PANG Xue Jie,3,0,,QR16,GRAND_SLAM,MD,47,Qualification,CHANG Shun-Hung (TPE) / HUNG Tzu-Hsiang (TPE),CHAITAT Chaisit (THA) / PANG Xue Jie (SGP),CHANG Shun-Hung
+Pro Tour Korea Open Seoul 2009,2009-08-19,JOO Saehyuk/LEE Jinkwon,TOKIC Bojan/YANG Zi,4,1,"7,11,11,11,11|11,5,6,9,8",R16,GRAND_SLAM,MD,47,Main Draw,JOO Saehyuk (KOR) / LEE Jinkwon (KOR),TOKIC Bojan (SLO) / YANG Zi (SGP),JOO Saehyuk
+Pro Tour Korea Open Seoul 2009,2009-08-19,SANGUANSIN Phakpoom/SANGUANSIN Phuchong,KUCHUK Aleksandr/ZHMUDENKO Yaroslav,3,1,"12,7,11,12|10,11,8,10",QR16,GRAND_SLAM,MD,47,Qualification,SANGUANSIN Phakpoom (THA) / SANGUANSIN Phuchong (THA),KUCHUK Aleksandr (BLR) / ZHMUDENKO Yaroslav (UKR),SANGUANSIN Phakpoom
+Pro Tour Korea Open Seoul 2009,2009-08-19,LEI Zhenhua/QIU Yike,CHEN Chien-An/WANG LI Chung-Yi,3,0,"11,11,11|8,6,5",QR32,GRAND_SLAM,MD,47,Qualification,LEI Zhenhua (CHN) / QIU Yike (CHN),CHEN Chien-An (TPE) / WANG LI Chung-Yi (TPE),LEI Zhenhua
+Pro Tour Korea Open Seoul 2009,2009-08-19,OH Sangeun/YOON Jaeyoung,CHANG Shun-Hung/HUNG Tzu-Hsiang,4,0,"11,11,11,11|4,4,4,7",R16,GRAND_SLAM,MD,47,Main Draw,OH Sangeun (KOR) / YOON Jaeyoung (KOR),CHANG Shun-Hung (TPE) / HUNG Tzu-Hsiang (TPE),OH Sangeun
+Pro Tour Korea Open Seoul 2009,2009-08-19,CHUANG Chih-Yuan/WU Chih-Chi,SANGUANSIN Phakpoom/SANGUANSIN Phuchong,4,1,"3,11,11,11,11|11,7,5,9,9",R16,GRAND_SLAM,MD,47,Main Draw,CHUANG Chih-Yuan (TPE) / WU Chih-Chi (TPE),SANGUANSIN Phakpoom (THA) / SANGUANSIN Phuchong (THA),CHUANG Chih-Yuan
+Pro Tour Korea Open Seoul 2009,2009-08-19,JOO Saehyuk/LEE Jinkwon,CHUANG Chih-Yuan/WU Chih-Chi,4,0,"11,11,11,13|5,6,3,11",QF,GRAND_SLAM,MD,47,Main Draw,JOO Saehyuk (KOR) / LEE Jinkwon (KOR),CHUANG Chih-Yuan (TPE) / WU Chih-Chi (TPE),JOO Saehyuk
+Pro Tour Korea Open Seoul 2009,2009-08-19,SHENG Dandan/ZHANG Qiang,BARTHEL Zhenqi/LANG Kristin,3,0,"11,11,11|5,5,6",QR16,GRAND_SLAM,WD,47,Qualification,SHENG Dandan (CHN) / ZHANG Qiang (CHN),BARTHEL Zhenqi (GER) / LANG Kristin (GER),SHENG Dandan
+Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Kyungah/PARK Miyoung,CHE Xiaoxi/YAO Junyu,4,0,"11,11,11,11|5,6,2,6",R16,GRAND_SLAM,WD,47,Main Draw,KIM Kyungah (KOR) / PARK Miyoung (KOR),CHE Xiaoxi (CHN) / YAO Junyu (CHN),KIM Kyungah
+Pro Tour Korea Open Seoul 2009,2009-08-19,LIN Ling/ZHANG Rui,PRIVALOVA Alexandra/WU Jiaduo,4,0,,R16,GRAND_SLAM,WD,47,Main Draw,LIN Ling (HKG) / ZHANG Rui (HKG),PRIVALOVA Alexandra (BLR) / WU Jiaduo (GER),LIN Ling
+Pro Tour Korea Open Seoul 2009,2009-08-19,JIANG Huajun/TIE Yana,DANG Yeseo/PARK Youngsook,4,3,"11,11,9,7,11,8,11|7,7,11,11,7,11,8",R16,GRAND_SLAM,WD,47,Main Draw,JIANG Huajun (HKG) / TIE Yana (HKG),DANG Yeseo (KOR) / PARK Youngsook (KOR),JIANG Huajun
+Pro Tour Korea Open Seoul 2009,2009-08-19,JIANG Huajun/TIE Yana,FENG Tianwei/WANG Yuegu,4,1,"12,11,6,11,18|10,3,11,7,16",QF,GRAND_SLAM,WD,47,Main Draw,JIANG Huajun (HKG) / TIE Yana (HKG),FENG Tianwei (SGP) / WANG Yuegu (SGP),JIANG Huajun
+Pro Tour Korea Open Seoul 2009,2009-08-19,JIANG Huajun/TIE Yana,ISHIGAKI Yuka/YAMANASHI Yuri,4,2,"8,11,10,11,11,12|11,8,12,4,4,10",SF,GRAND_SLAM,WD,47,Main Draw,JIANG Huajun (HKG) / TIE Yana (HKG),ISHIGAKI Yuka (JPN) / YAMANASHI Yuri (JPN),JIANG Huajun
+Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Kyungah/PARK Miyoung,JIANG Huajun/TIE Yana,4,1,"7,13,11,11,11|11,11,6,3,5",F,GRAND_SLAM,WD,47,Main Draw,KIM Kyungah (KOR) / PARK Miyoung (KOR),JIANG Huajun (HKG) / TIE Yana (HKG),KIM Kyungah
+Pro Tour Korea Open Seoul 2009,2009-08-19,ISHIGAKI Yuka/YAMANASHI Yuri,KOMWONG Nanthana/MUANGSUK Anisara,3,1,"11,9,11,11|4,11,8,8",QR16,GRAND_SLAM,WD,47,Qualification,ISHIGAKI Yuka (JPN) / YAMANASHI Yuri (JPN),KOMWONG Nanthana (THA) / MUANGSUK Anisara (THA),ISHIGAKI Yuka
+Pro Tour Korea Open Seoul 2009,2009-08-19,FENG Tianwei/WANG Yuegu,FUJII Yuko/HIURA Reiko,4,3,"11,14,13,6,11,11,11|9,16,15,11,8,5,6",R16,GRAND_SLAM,WD,47,Main Draw,FENG Tianwei (SGP) / WANG Yuegu (SGP),FUJII Yuko (JPN) / HIURA Reiko (JPN),FENG Tianwei
+Pro Tour Korea Open Seoul 2009,2009-08-19,ISHIGAKI Yuka/YAMANASHI Yuri,LIN Ling/ZHANG Rui,4,3,"11,8,11,9,11,8,11|7,11,6,11,4,11,8",QF,GRAND_SLAM,WD,47,Main Draw,ISHIGAKI Yuka (JPN) / YAMANASHI Yuri (JPN),LIN Ling (HKG) / ZHANG Rui (HKG),ISHIGAKI Yuka
+Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Kyungah/PARK Miyoung,FUKUHARA Ai/WAKAMIYA Misako,4,0,"11,12,11,11|6,10,5,9",SF,GRAND_SLAM,WD,47,Main Draw,KIM Kyungah (KOR) / PARK Miyoung (KOR),FUKUHARA Ai (JPN) / WAKAMIYA Misako (JPN),KIM Kyungah
+Pro Tour Korea Open Seoul 2009,2009-08-19,LEE Hyun/SONG Maeum,BAKULA Andrea/DURAK Mirela,3,1,"11,11,6,11|8,8,11,4",QR16,GRAND_SLAM,WD,47,Qualification,LEE Hyun (KOR) / SONG Maeum (KOR),BAKULA Andrea (CRO) / DURAK Mirela (CRO),LEE Hyun
+Pro Tour Korea Open Seoul 2009,2009-08-19,DANG Yeseo/PARK Youngsook,MORIZONO Misaki/TANIOKA Ayuka,3,1,"11,11,6,11|9,7,11,7",QR16,GRAND_SLAM,WD,47,Qualification,DANG Yeseo (KOR) / PARK Youngsook (KOR),MORIZONO Misaki (JPN) / TANIOKA Ayuka (JPN),DANG Yeseo
+Pro Tour Korea Open Seoul 2009,2009-08-19,CHE Xiaoxi/YAO Junyu,CHOI Moonyoung/SUH Hyo Won,3,1,"11,12,7,11|9,10,11,9",QR16,GRAND_SLAM,WD,47,Qualification,CHE Xiaoxi (CHN) / YAO Junyu (CHN),CHOI Moonyoung (KOR) / SUH Hyo Won (KOR),CHE Xiaoxi
+Pro Tour Korea Open Seoul 2009,2009-08-19,FUJII Yuko/HIURA Reiko,KIM Minhee (YOB=1991)/YANG Ha Eun,3,2,"11,11,5,11,11|13,9,11,8,4",QR16,GRAND_SLAM,WD,47,Qualification,FUJII Yuko (JPN) / HIURA Reiko (JPN),KIM Minhee (YOB=1991) (KOR) / YANG Ha Eun (KOR),FUJII Yuko
+Pro Tour Korea Open Seoul 2009,2009-08-19,ISHIGAKI Yuka/YAMANASHI Yuri,KIM Junghyun/SEOK Hajung,4,1,"11,11,5,11,11|7,5,11,5,8",R16,GRAND_SLAM,WD,47,Main Draw,ISHIGAKI Yuka (JPN) / YAMANASHI Yuri (JPN),KIM Junghyun (KOR) / SEOK Hajung (KOR),ISHIGAKI Yuka
+Pro Tour Korea Open Seoul 2009,2009-08-19,FUKUHARA Ai/WAKAMIYA Misako,LEE Hyun/SONG Maeum,4,0,"11,11,11,11|9,7,2,5",R16,GRAND_SLAM,WD,47,Main Draw,FUKUHARA Ai (JPN) / WAKAMIYA Misako (JPN),LEE Hyun (KOR) / SONG Maeum (KOR),FUKUHARA Ai
+Pro Tour Korea Open Seoul 2009,2009-08-19,LEE Eunhee/MOON Hyunjung,LI Xue/SIM Kai Xin Zena,4,0,"11,11,11,11|4,6,4,2",R16,GRAND_SLAM,WD,47,Main Draw,LEE Eunhee (KOR) / MOON Hyunjung (KOR),LI Xue (FRA) / SIM Kai Xin Zena (SGP),LEE Eunhee
+Pro Tour Korea Open Seoul 2009,2009-08-19,KIM Kyungah/PARK Miyoung,LEE Eunhee/MOON Hyunjung,4,0,,QF,GRAND_SLAM,WD,47,Main Draw,KIM Kyungah (KOR) / PARK Miyoung (KOR),LEE Eunhee (KOR) / MOON Hyunjung (KOR),KIM Kyungah
+Pro Tour Korea Open Seoul 2009,2009-08-19,LI Xue/SIM Kai Xin Zena,GUAN Mengyuan/YU Kwok See,3,1,"6,11,11,11|11,9,8,9",QR16,GRAND_SLAM,WD,47,Qualification,LI Xue (FRA) / SIM Kai Xin Zena (SGP),GUAN Mengyuan (HKG) / YU Kwok See (HKG),LI Xue
+Pro Tour Korea Open Seoul 2009,2009-08-19,SUN Beibei/YU Mengyu,SHENG Dandan/ZHANG Qiang,4,1,"11,13,11,7,11|7,11,5,11,7",R16,GRAND_SLAM,WD,47,Main Draw,SUN Beibei (SGP) / YU Mengyu (SGP),SHENG Dandan (CHN) / ZHANG Qiang (CHN),SUN Beibei
+Pro Tour Korea Open Seoul 2009,2009-08-19,FUKUHARA Ai/WAKAMIYA Misako,SUN Beibei/YU Mengyu,4,0,"11,11,11,11|9,9,8,6",QF,GRAND_SLAM,WD,47,Main Draw,FUKUHARA Ai (JPN) / WAKAMIYA Misako (JPN),SUN Beibei (SGP) / YU Mengyu (SGP),FUKUHARA Ai

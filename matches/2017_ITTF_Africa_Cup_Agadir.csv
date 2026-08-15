@@ -1,76 +1,76 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-ITTF Africa Cup Agadir 2017,2017-07-01,ASSAR Omar,KRICHEL Mohamed,3,0,"11,11,11|2,8,6",,OTHER,MS,853,Qualification,ASSAR Omar (EGY),KRICHEL Mohamed (MAR)
-ITTF Africa Cup Agadir 2017,2017-07-01,ASSAR Omar,NDIKUM ASAAH Prosper,3,0,"11,11,11|5,4,6",,OTHER,MS,853,Qualification,ASSAR Omar (EGY),NDIKUM ASAAH Prosper (CMR)
-ITTF Africa Cup Agadir 2017,2017-07-01,KRICHEL Mohamed,NDIKUM ASAAH Prosper,3,0,"11,11,11|7,4,7",,OTHER,MS,853,Qualification,NDIKUM ASAAH Prosper (CMR),KRICHEL Mohamed (MAR)
-ITTF Africa Cup Agadir 2017,2017-07-01,ARUNA Quadri,SULTAN Godfrey,3,0,"11,11,11|2,6,6",,OTHER,MS,853,Qualification,ARUNA Quadri (NGR),SULTAN Godfrey (SEY)
-ITTF Africa Cup Agadir 2017,2017-07-01,ARUNA Quadri,AGUIDA Abderrafiq,3,0,"11,11,11|7,8,9",,OTHER,MS,853,Qualification,ARUNA Quadri (NGR),AGUIDA Abderrafiq (MAR)
-ITTF Africa Cup Agadir 2017,2017-07-01,SULTAN Godfrey,AGUIDA Abderrafiq,3,1,"11,8,14,13|7,11,12,11",,OTHER,MS,853,Qualification,AGUIDA Abderrafiq (MAR),SULTAN Godfrey (SEY)
-ITTF Africa Cup Agadir 2017,2017-07-01,SALEH Ahmed,ZINE EL ABIDINE Saad,3,0,"11,11,11|4,8,2",,OTHER,MS,853,Qualification,SALEH Ahmed (EGY),ZINE EL ABIDINE Saad (MAR)
-ITTF Africa Cup Agadir 2017,2017-07-01,SALEH Ahmed,KARALI Naim,3,0,"11,11,11|9,6,8",,OTHER,MS,853,Qualification,SALEH Ahmed (EGY),KARALI Naim (ALG)
-ITTF Africa Cup Agadir 2017,2017-07-01,KARALI Naim,ZINE EL ABIDINE Saad,3,0,"12,11,11|10,9,9",,OTHER,MS,853,Qualification,KARALI Naim (ALG),ZINE EL ABIDINE Saad (MAR)
-ITTF Africa Cup Agadir 2017,2017-07-01,ELBEIALI Mohamed,MINDAHUN Melaku,3,0,"11,11,11|7,5,6",,OTHER,MS,853,Qualification,ELBEIALI Mohamed (EGY),MINDAHUN Melaku (ETH)
-ITTF Africa Cup Agadir 2017,2017-07-01,NYOH OFON Derek,ESTHER Nicholas,3,1,"11,12,11,11|9,10,13,9",,OTHER,MS,853,Qualification,NYOH OFON Derek (CMR),ESTHER Nicholas (SEY)
-ITTF Africa Cup Agadir 2017,2017-07-01,ELBEIALI Mohamed,NYOH OFON Derek,3,0,"11,11,11|5,7,7",,OTHER,MS,853,Qualification,ELBEIALI Mohamed (EGY),NYOH OFON Derek (CMR)
-ITTF Africa Cup Agadir 2017,2017-07-01,ESTHER Nicholas,MINDAHUN Melaku,3,2,"6,7,11,12,11|11,11,9,10,7",,OTHER,MS,853,Qualification,MINDAHUN Melaku (ETH),ESTHER Nicholas (SEY)
-ITTF Africa Cup Agadir 2017,2017-07-01,NYOH OFON Derek,MINDAHUN Melaku,3,0,"11,11,11|2,8,5",,OTHER,MS,853,Qualification,NYOH OFON Derek (CMR),MINDAHUN Melaku (ETH)
-ITTF Africa Cup Agadir 2017,2017-07-01,ELBEIALI Mohamed,ESTHER Nicholas,3,0,"11,11,11|7,3,5",,OTHER,MS,853,Qualification,ELBEIALI Mohamed (EGY),ESTHER Nicholas (SEY)
-ITTF Africa Cup Agadir 2017,2017-07-01,KHEROUF Sami,HABTEYES Melese,3,0,"11,11,11|3,5,6",,OTHER,MS,853,Qualification,KHEROUF Sami (ALG),HABTEYES Melese (ETH)
-ITTF Africa Cup Agadir 2017,2017-07-01,MAMIA Thameur,REMMAL Mostafa,3,1,"11,11,11,13|7,7,13,11",,OTHER,MS,853,Qualification,MAMIA Thameur (TUN),REMMAL Mostafa (MAR)
-ITTF Africa Cup Agadir 2017,2017-07-01,KHEROUF Sami,MAMIA Thameur,3,1,"11,11,11,11|3,5,13,9",,OTHER,MS,853,Qualification,KHEROUF Sami (ALG),MAMIA Thameur (TUN)
-ITTF Africa Cup Agadir 2017,2017-07-01,HABTEYES Melese,REMMAL Mostafa,3,2,"7,11,11,2,12|11,9,7,11,10",,OTHER,MS,853,Qualification,HABTEYES Melese (ETH),REMMAL Mostafa (MAR)
-ITTF Africa Cup Agadir 2017,2017-07-01,MAMIA Thameur,HABTEYES Melese,3,0,"11,11,12|6,7,10",,OTHER,MS,853,Qualification,MAMIA Thameur (TUN),HABTEYES Melese (ETH)
-ITTF Africa Cup Agadir 2017,2017-07-01,MESHREF Dina,KHATTAB Zahira,3,0,"11,11,11|3,1,2",,OTHER,WS,853,Qualification,MESHREF Dina (EGY),KHATTAB Zahira (SEY)
-ITTF Africa Cup Agadir 2017,2017-07-01,MESHREF Dina,KESSACI Katia,3,0,"11,11,11|8,7,9",,OTHER,WS,853,Qualification,MESHREF Dina (EGY),KESSACI Katia (ALG)
-ITTF Africa Cup Agadir 2017,2017-07-01,KESSACI Katia,KHATTAB Zahira,3,0,"11,11,11|2,6,4",,OTHER,WS,853,Qualification,KESSACI Katia (ALG),KHATTAB Zahira (SEY)
-ITTF Africa Cup Agadir 2017,2017-07-01,OSHONAIKE Olufunke,KILINDO Christy,3,0,"11,11,11|3,9,5",,OTHER,WS,853,Qualification,OSHONAIKE Olufunke (NGR),KILINDO Christy (SEY)
-ITTF Africa Cup Agadir 2017,2017-07-01,OSHONAIKE Olufunke,MAZIGH Fatima Zohra,3,0,"11,11,11|2,2,3",,OTHER,WS,853,Qualification,OSHONAIKE Olufunke (NGR),MAZIGH Fatima Zohra (MAR)
-ITTF Africa Cup Agadir 2017,2017-07-01,KILINDO Christy,MAZIGH Fatima Zohra,3,0,"11,11,11|7,3,7",,OTHER,WS,853,Qualification,MAZIGH Fatima Zohra (MAR),KILINDO Christy (SEY)
-ITTF Africa Cup Agadir 2017,2017-07-01,HELMY Yousra,OUTOLLA Ines,3,0,"11,11,11|3,3,4",,OTHER,WS,853,Qualification,HELMY Yousra (EGY),OUTOLLA Ines (MAR)
-ITTF Africa Cup Agadir 2017,2017-07-01,HELMY Yousra,HANFFOU Sarah,3,1,"11,11,11,11|7,13,9,7",,OTHER,WS,853,Qualification,HELMY Yousra (EGY),HANFFOU Sarah (CMR)
-ITTF Africa Cup Agadir 2017,2017-07-01,HANFFOU Sarah,OUTOLLA Ines,3,0,"11,11,11|8,3,5",,OTHER,WS,853,Qualification,HANFFOU Sarah (CMR),OUTOLLA Ines (MAR)
-ITTF Africa Cup Agadir 2017,2017-07-01,ABDELAZIZ Farah,LEMMANNI Imane,3,0,"11,11,11|5,3,2",,OTHER,WS,853,Qualification,ABDELAZIZ Farah (EGY),LEMMANNI Imane (MAR)
-ITTF Africa Cup Agadir 2017,2017-07-01,LAID Islem,HABTE Saba,3,0,"11,11,11|7,2,8",,OTHER,WS,853,Qualification,LAID Islem (ALG),HABTE Saba (ETH)
-ITTF Africa Cup Agadir 2017,2017-07-01,ABDELAZIZ Farah,LAID Islem,3,0,"11,11,11|7,4,8",,OTHER,WS,853,Qualification,ABDELAZIZ Farah (EGY),LAID Islem (ALG)
-ITTF Africa Cup Agadir 2017,2017-07-01,HABTE Saba,LEMMANNI Imane,3,0,"11,11,11|5,3,8",,OTHER,WS,853,Qualification,LEMMANNI Imane (MAR),HABTE Saba (ETH)
-ITTF Africa Cup Agadir 2017,2017-07-01,LAID Islem,LEMMANNI Imane,3,0,"11,11,11|8,3,4",,OTHER,WS,853,Qualification,LAID Islem (ALG),LEMMANNI Imane (MAR)
-ITTF Africa Cup Agadir 2017,2017-07-01,ABDELAZIZ Farah,HABTE Saba,3,0,"11,11,11|5,2,5",,OTHER,WS,853,Qualification,ABDELAZIZ Farah (EGY),HABTE Saba (ETH)
-ITTF Africa Cup Agadir 2017,2017-07-01,EDEM Offiong,BETTACHE Oumaima,3,0,"11,11,11|7,2,8",,OTHER,WS,853,Qualification,EDEM Offiong (NGR),BETTACHE Oumaima (MAR)
-ITTF Africa Cup Agadir 2017,2017-07-01,SAIDANI Safa,GULTI Marta,3,1,"10,11,11,13|12,2,8,11",,OTHER,WS,853,Qualification,SAIDANI Safa (TUN),GULTI Marta (ETH)
-ITTF Africa Cup Agadir 2017,2017-07-01,EDEM Offiong,SAIDANI Safa,3,0,"11,11,11|5,7,6",,OTHER,WS,853,Qualification,EDEM Offiong (NGR),SAIDANI Safa (TUN)
-ITTF Africa Cup Agadir 2017,2017-07-01,GULTI Marta,BETTACHE Oumaima,3,0,"11,11,11|1,2,5",,OTHER,WS,853,Qualification,BETTACHE Oumaima (MAR),GULTI Marta (ETH)
-ITTF Africa Cup Agadir 2017,2017-07-01,SAIDANI Safa,BETTACHE Oumaima,3,0,"11,11,11|2,5,4",,OTHER,WS,853,Qualification,SAIDANI Safa (TUN),BETTACHE Oumaima (MAR)
-ITTF Africa Cup Agadir 2017,2017-07-01,EDEM Offiong,GULTI Marta,3,0,"11,11,11|4,4,7",,OTHER,WS,853,Qualification,EDEM Offiong (NGR),GULTI Marta (ETH)
-ITTF Africa Cup Agadir 2017,2017-07-01,KRICHEL Mohamed,NYOH OFON Derek,4,3,"11,11,11,7,11,7,11|7,13,4,11,9,11,7",3RD,OTHER,MS,853,Position Draw,NYOH OFON Derek (CMR),KRICHEL Mohamed (MAR)
-ITTF Africa Cup Agadir 2017,2017-07-01,KHEROUF Sami,KARALI Naim,4,0,"11,11,11,13|7,9,5,11",5-8,OTHER,MS,853,Position Draw,KHEROUF Sami (ALG),KARALI Naim (ALG)
-ITTF Africa Cup Agadir 2017,2017-07-01,SALEH Ahmed,ELBEIALI Mohamed,4,0,,3RD,OTHER,MS,853,Position Draw,SALEH Ahmed (EGY),ELBEIALI Mohamed (EGY)
-ITTF Africa Cup Agadir 2017,2017-07-01,MAMIA Thameur,NYOH OFON Derek,4,2,"9,11,11,8,11,11|11,4,4,11,4,7",R16,OTHER,MS,853,Main Draw,MAMIA Thameur (TUN),NYOH OFON Derek (CMR)
-ITTF Africa Cup Agadir 2017,2017-07-01,KARALI Naim,KRICHEL Mohamed,4,1,"9,11,11,11,11|11,5,5,6,1",R16,OTHER,MS,853,Main Draw,KRICHEL Mohamed (MAR),KARALI Naim (ALG)
-ITTF Africa Cup Agadir 2017,2017-07-01,ASSAR Omar,SULTAN Godfrey,4,0,"11,11,11,11|4,5,4,6",QF,OTHER,MS,853,Main Draw,ASSAR Omar (EGY),SULTAN Godfrey (SEY)
-ITTF Africa Cup Agadir 2017,2017-07-01,SALEH Ahmed,MAMIA Thameur,4,1,"11,11,11,11,11|7,13,6,5,7",QF,OTHER,MS,853,Main Draw,MAMIA Thameur (TUN),SALEH Ahmed (EGY)
-ITTF Africa Cup Agadir 2017,2017-07-01,ELBEIALI Mohamed,KHEROUF Sami,4,3,"9,11,11,11,9,9,11|11,6,2,4,11,11,8",QF,OTHER,MS,853,Main Draw,ELBEIALI Mohamed (EGY),KHEROUF Sami (ALG)
-ITTF Africa Cup Agadir 2017,2017-07-01,ARUNA Quadri,KARALI Naim,4,1,"11,11,13,9,11|9,5,11,11,7",QF,OTHER,MS,853,Main Draw,KARALI Naim (ALG),ARUNA Quadri (NGR)
-ITTF Africa Cup Agadir 2017,2017-07-01,ASSAR Omar,SALEH Ahmed,4,2,"4,5,11,12,11,11|11,11,8,10,8,6",SF,OTHER,MS,853,Main Draw,ASSAR Omar (EGY),SALEH Ahmed (EGY)
-ITTF Africa Cup Agadir 2017,2017-07-01,ARUNA Quadri,ELBEIALI Mohamed,4,0,"11,11,11,11|6,8,9,6",SF,OTHER,MS,853,Main Draw,ELBEIALI Mohamed (EGY),ARUNA Quadri (NGR)
-ITTF Africa Cup Agadir 2017,2017-07-01,ARUNA Quadri,ASSAR Omar,4,3,"11,3,11,4,11,8,11|7,11,8,11,8,11,9",F,OTHER,MS,853,Main Draw,ASSAR Omar (EGY),ARUNA Quadri (NGR)
-ITTF Africa Cup Agadir 2017,2017-07-01,SAIDANI Safa,KILINDO Christy,4,2,"11,10,11,10,11,11|2,12,5,12,2,3",3RD,OTHER,WS,853,Position Draw,KILINDO Christy (SEY),SAIDANI Safa (TUN)
-ITTF Africa Cup Agadir 2017,2017-07-01,LAID Islem,KESSACI Katia,4,0,"11,11,11,11|6,2,4,9",5-8,OTHER,WS,853,Position Draw,LAID Islem (ALG),KESSACI Katia (ALG)
-ITTF Africa Cup Agadir 2017,2017-07-01,HANFFOU Sarah,LAID Islem,4,0,"11,11,11,11|8,8,4,9",3RD,OTHER,WS,853,Position Draw,HANFFOU Sarah (CMR),LAID Islem (ALG)
-ITTF Africa Cup Agadir 2017,2017-07-01,ABDELAZIZ Farah,HELMY Yousra,4,2,"11,11,12,7,8,12|3,9,10,11,11,10",3RD,OTHER,WS,853,Position Draw,ABDELAZIZ Farah (EGY),HELMY Yousra (EGY)
-ITTF Africa Cup Agadir 2017,2017-07-01,HANFFOU Sarah,KILINDO Christy,4,0,"11,11,11,11|7,8,3,5",R16,OTHER,WS,853,Main Draw,KILINDO Christy (SEY),HANFFOU Sarah (CMR)
-ITTF Africa Cup Agadir 2017,2017-07-01,KESSACI Katia,SAIDANI Safa,4,2,"11,11,6,7,11,11|9,9,11,11,9,8",R16,OTHER,WS,853,Main Draw,SAIDANI Safa (TUN),KESSACI Katia (ALG)
-ITTF Africa Cup Agadir 2017,2017-07-01,MESHREF Dina,HANFFOU Sarah,4,1,"4,11,11,11,11|11,4,9,4,5",QF,OTHER,WS,853,Main Draw,MESHREF Dina (EGY),HANFFOU Sarah (CMR)
-ITTF Africa Cup Agadir 2017,2017-07-01,ABDELAZIZ Farah,EDEM Offiong,4,1,"10,11,11,11,11|12,8,5,8,2",QF,OTHER,WS,853,Main Draw,EDEM Offiong (NGR),ABDELAZIZ Farah (EGY)
-ITTF Africa Cup Agadir 2017,2017-07-01,HELMY Yousra,LAID Islem,4,1,"11,8,11,11,11|4,11,9,5,6",QF,OTHER,WS,853,Main Draw,HELMY Yousra (EGY),LAID Islem (ALG)
-ITTF Africa Cup Agadir 2017,2017-07-01,OSHONAIKE Olufunke,KESSACI Katia,4,0,"11,11,11,11|6,5,3,8",QF,OTHER,WS,853,Main Draw,KESSACI Katia (ALG),OSHONAIKE Olufunke (NGR)
-ITTF Africa Cup Agadir 2017,2017-07-01,MESHREF Dina,ABDELAZIZ Farah,4,0,"11,11,11,11|6,7,6,5",SF,OTHER,WS,853,Main Draw,MESHREF Dina (EGY),ABDELAZIZ Farah (EGY)
-ITTF Africa Cup Agadir 2017,2017-07-01,OSHONAIKE Olufunke,HELMY Yousra,4,0,"11,12,11,11|7,10,7,3",SF,OTHER,WS,853,Main Draw,HELMY Yousra (EGY),OSHONAIKE Olufunke (NGR)
-ITTF Africa Cup Agadir 2017,2017-07-01,MESHREF Dina,OSHONAIKE Olufunke,4,0,"11,11,11,11|7,9,8,2",F,OTHER,WS,853,Main Draw,MESHREF Dina (EGY),OSHONAIKE Olufunke (NGR)
-ITTF Africa Cup Agadir 2017,2017-07-01,ZINE EL ABIDINE Saad,ESTHER Nicholas,4,2,"7,9,11,11,11,12|11,11,8,7,8,10",8,OTHER,MS,853,Consolation,ESTHER Nicholas (SEY),ZINE EL ABIDINE Saad (MAR)
-ITTF Africa Cup Agadir 2017,2017-07-01,NDIKUM ASAAH Prosper,MINDAHUN Melaku,4,1,"11,10,11,11,11|9,12,9,2,9",8,OTHER,MS,853,Consolation,NDIKUM ASAAH Prosper (CMR),MINDAHUN Melaku (ETH)
-ITTF Africa Cup Agadir 2017,2017-07-01,ZINE EL ABIDINE Saad,HABTEYES Melese,4,0,"15,13,11,11|13,11,8,7",4,OTHER,MS,853,Consolation,HABTEYES Melese (ETH),ZINE EL ABIDINE Saad (MAR)
-ITTF Africa Cup Agadir 2017,2017-07-01,NDIKUM ASAAH Prosper,AGUIDA Abderrafiq,4,2,"11,11,10,8,11,11|6,3,12,11,2,8",4,OTHER,MS,853,Consolation,NDIKUM ASAAH Prosper (CMR),AGUIDA Abderrafiq (MAR)
-ITTF Africa Cup Agadir 2017,2017-07-01,AGUIDA Abderrafiq,HABTEYES Melese,4,0,"11,13,11,11|5,11,3,3",2,OTHER,MS,853,Consolation,HABTEYES Melese (ETH),AGUIDA Abderrafiq (MAR)
-ITTF Africa Cup Agadir 2017,2017-07-01,KHATTAB Zahira,BETTACHE Oumaima,3,2,"8,8,11,11,11|11,11,6,5,8",8,OTHER,WS,853,Consolation,BETTACHE Oumaima (MAR),KHATTAB Zahira (SEY)
-ITTF Africa Cup Agadir 2017,2017-07-01,OUTOLLA Ines,LEMMANNI Imane,4,1,"11,11,11,11,11|4,13,3,5,9",4,OTHER,WS,853,Consolation,LEMMANNI Imane (MAR),OUTOLLA Ines (MAR)
-ITTF Africa Cup Agadir 2017,2017-07-01,KHATTAB Zahira,MAZIGH Fatima Zohra,4,3,"13,12,10,8,11,6,11|11,10,12,11,3,11,6",4,OTHER,WS,853,Consolation,KHATTAB Zahira (SEY),MAZIGH Fatima Zohra (MAR)
-ITTF Africa Cup Agadir 2017,2017-07-01,MAZIGH Fatima Zohra,LEMMANNI Imane,4,2,"8,11,14,11,4,11|11,5,12,9,11,7",2,OTHER,WS,853,Consolation,LEMMANNI Imane (MAR),MAZIGH Fatima Zohra (MAR)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+ITTF Africa Cup Agadir 2017,2017-07-01,ASSAR Omar,KRICHEL Mohamed,3,0,"11,11,11|2,8,6",,OTHER,MS,853,Qualification,ASSAR Omar (EGY),KRICHEL Mohamed (MAR),ASSAR Omar
+ITTF Africa Cup Agadir 2017,2017-07-01,ASSAR Omar,NDIKUM ASAAH Prosper,3,0,"11,11,11|5,4,6",,OTHER,MS,853,Qualification,ASSAR Omar (EGY),NDIKUM ASAAH Prosper (CMR),ASSAR Omar
+ITTF Africa Cup Agadir 2017,2017-07-01,KRICHEL Mohamed,NDIKUM ASAAH Prosper,3,0,"11,11,11|7,4,7",,OTHER,MS,853,Qualification,NDIKUM ASAAH Prosper (CMR),KRICHEL Mohamed (MAR),KRICHEL Mohamed
+ITTF Africa Cup Agadir 2017,2017-07-01,ARUNA Quadri,SULTAN Godfrey,3,0,"11,11,11|2,6,6",,OTHER,MS,853,Qualification,ARUNA Quadri (NGR),SULTAN Godfrey (SEY),ARUNA Quadri
+ITTF Africa Cup Agadir 2017,2017-07-01,ARUNA Quadri,AGUIDA Abderrafiq,3,0,"11,11,11|7,8,9",,OTHER,MS,853,Qualification,ARUNA Quadri (NGR),AGUIDA Abderrafiq (MAR),ARUNA Quadri
+ITTF Africa Cup Agadir 2017,2017-07-01,SULTAN Godfrey,AGUIDA Abderrafiq,3,1,"11,8,14,13|7,11,12,11",,OTHER,MS,853,Qualification,AGUIDA Abderrafiq (MAR),SULTAN Godfrey (SEY),SULTAN Godfrey
+ITTF Africa Cup Agadir 2017,2017-07-01,SALEH Ahmed,ZINE EL ABIDINE Saad,3,0,"11,11,11|4,8,2",,OTHER,MS,853,Qualification,SALEH Ahmed (EGY),ZINE EL ABIDINE Saad (MAR),SALEH Ahmed
+ITTF Africa Cup Agadir 2017,2017-07-01,SALEH Ahmed,KARALI Naim,3,0,"11,11,11|9,6,8",,OTHER,MS,853,Qualification,SALEH Ahmed (EGY),KARALI Naim (ALG),SALEH Ahmed
+ITTF Africa Cup Agadir 2017,2017-07-01,KARALI Naim,ZINE EL ABIDINE Saad,3,0,"12,11,11|10,9,9",,OTHER,MS,853,Qualification,KARALI Naim (ALG),ZINE EL ABIDINE Saad (MAR),KARALI Naim
+ITTF Africa Cup Agadir 2017,2017-07-01,ELBEIALI Mohamed,MINDAHUN Melaku,3,0,"11,11,11|7,5,6",,OTHER,MS,853,Qualification,ELBEIALI Mohamed (EGY),MINDAHUN Melaku (ETH),ELBEIALI Mohamed
+ITTF Africa Cup Agadir 2017,2017-07-01,NYOH OFON Derek,ESTHER Nicholas,3,1,"11,12,11,11|9,10,13,9",,OTHER,MS,853,Qualification,NYOH OFON Derek (CMR),ESTHER Nicholas (SEY),NYOH OFON Derek
+ITTF Africa Cup Agadir 2017,2017-07-01,ELBEIALI Mohamed,NYOH OFON Derek,3,0,"11,11,11|5,7,7",,OTHER,MS,853,Qualification,ELBEIALI Mohamed (EGY),NYOH OFON Derek (CMR),ELBEIALI Mohamed
+ITTF Africa Cup Agadir 2017,2017-07-01,ESTHER Nicholas,MINDAHUN Melaku,3,2,"6,7,11,12,11|11,11,9,10,7",,OTHER,MS,853,Qualification,MINDAHUN Melaku (ETH),ESTHER Nicholas (SEY),ESTHER Nicholas
+ITTF Africa Cup Agadir 2017,2017-07-01,NYOH OFON Derek,MINDAHUN Melaku,3,0,"11,11,11|2,8,5",,OTHER,MS,853,Qualification,NYOH OFON Derek (CMR),MINDAHUN Melaku (ETH),NYOH OFON Derek
+ITTF Africa Cup Agadir 2017,2017-07-01,ELBEIALI Mohamed,ESTHER Nicholas,3,0,"11,11,11|7,3,5",,OTHER,MS,853,Qualification,ELBEIALI Mohamed (EGY),ESTHER Nicholas (SEY),ELBEIALI Mohamed
+ITTF Africa Cup Agadir 2017,2017-07-01,KHEROUF Sami,HABTEYES Melese,3,0,"11,11,11|3,5,6",,OTHER,MS,853,Qualification,KHEROUF Sami (ALG),HABTEYES Melese (ETH),KHEROUF Sami
+ITTF Africa Cup Agadir 2017,2017-07-01,MAMIA Thameur,REMMAL Mostafa,3,1,"11,11,11,13|7,7,13,11",,OTHER,MS,853,Qualification,MAMIA Thameur (TUN),REMMAL Mostafa (MAR),MAMIA Thameur
+ITTF Africa Cup Agadir 2017,2017-07-01,KHEROUF Sami,MAMIA Thameur,3,1,"11,11,11,11|3,5,13,9",,OTHER,MS,853,Qualification,KHEROUF Sami (ALG),MAMIA Thameur (TUN),KHEROUF Sami
+ITTF Africa Cup Agadir 2017,2017-07-01,HABTEYES Melese,REMMAL Mostafa,3,2,"7,11,11,2,12|11,9,7,11,10",,OTHER,MS,853,Qualification,HABTEYES Melese (ETH),REMMAL Mostafa (MAR),HABTEYES Melese
+ITTF Africa Cup Agadir 2017,2017-07-01,MAMIA Thameur,HABTEYES Melese,3,0,"11,11,12|6,7,10",,OTHER,MS,853,Qualification,MAMIA Thameur (TUN),HABTEYES Melese (ETH),MAMIA Thameur
+ITTF Africa Cup Agadir 2017,2017-07-01,MESHREF Dina,KHATTAB Zahira,3,0,"11,11,11|3,1,2",,OTHER,WS,853,Qualification,MESHREF Dina (EGY),KHATTAB Zahira (SEY),MESHREF Dina
+ITTF Africa Cup Agadir 2017,2017-07-01,MESHREF Dina,KESSACI Katia,3,0,"11,11,11|8,7,9",,OTHER,WS,853,Qualification,MESHREF Dina (EGY),KESSACI Katia (ALG),MESHREF Dina
+ITTF Africa Cup Agadir 2017,2017-07-01,KESSACI Katia,KHATTAB Zahira,3,0,"11,11,11|2,6,4",,OTHER,WS,853,Qualification,KESSACI Katia (ALG),KHATTAB Zahira (SEY),KESSACI Katia
+ITTF Africa Cup Agadir 2017,2017-07-01,OSHONAIKE Olufunke,KILINDO Christy,3,0,"11,11,11|3,9,5",,OTHER,WS,853,Qualification,OSHONAIKE Olufunke (NGR),KILINDO Christy (SEY),OSHONAIKE Olufunke
+ITTF Africa Cup Agadir 2017,2017-07-01,OSHONAIKE Olufunke,MAZIGH Fatima Zohra,3,0,"11,11,11|2,2,3",,OTHER,WS,853,Qualification,OSHONAIKE Olufunke (NGR),MAZIGH Fatima Zohra (MAR),OSHONAIKE Olufunke
+ITTF Africa Cup Agadir 2017,2017-07-01,KILINDO Christy,MAZIGH Fatima Zohra,3,0,"11,11,11|7,3,7",,OTHER,WS,853,Qualification,MAZIGH Fatima Zohra (MAR),KILINDO Christy (SEY),KILINDO Christy
+ITTF Africa Cup Agadir 2017,2017-07-01,HELMY Yousra,OUTOLLA Ines,3,0,"11,11,11|3,3,4",,OTHER,WS,853,Qualification,HELMY Yousra (EGY),OUTOLLA Ines (MAR),HELMY Yousra
+ITTF Africa Cup Agadir 2017,2017-07-01,HELMY Yousra,HANFFOU Sarah,3,1,"11,11,11,11|7,13,9,7",,OTHER,WS,853,Qualification,HELMY Yousra (EGY),HANFFOU Sarah (CMR),HELMY Yousra
+ITTF Africa Cup Agadir 2017,2017-07-01,HANFFOU Sarah,OUTOLLA Ines,3,0,"11,11,11|8,3,5",,OTHER,WS,853,Qualification,HANFFOU Sarah (CMR),OUTOLLA Ines (MAR),HANFFOU Sarah
+ITTF Africa Cup Agadir 2017,2017-07-01,ABDELAZIZ Farah,LEMMANNI Imane,3,0,"11,11,11|5,3,2",,OTHER,WS,853,Qualification,ABDELAZIZ Farah (EGY),LEMMANNI Imane (MAR),ABDELAZIZ Farah
+ITTF Africa Cup Agadir 2017,2017-07-01,LAID Islem,HABTE Saba,3,0,"11,11,11|7,2,8",,OTHER,WS,853,Qualification,LAID Islem (ALG),HABTE Saba (ETH),LAID Islem
+ITTF Africa Cup Agadir 2017,2017-07-01,ABDELAZIZ Farah,LAID Islem,3,0,"11,11,11|7,4,8",,OTHER,WS,853,Qualification,ABDELAZIZ Farah (EGY),LAID Islem (ALG),ABDELAZIZ Farah
+ITTF Africa Cup Agadir 2017,2017-07-01,HABTE Saba,LEMMANNI Imane,3,0,"11,11,11|5,3,8",,OTHER,WS,853,Qualification,LEMMANNI Imane (MAR),HABTE Saba (ETH),HABTE Saba
+ITTF Africa Cup Agadir 2017,2017-07-01,LAID Islem,LEMMANNI Imane,3,0,"11,11,11|8,3,4",,OTHER,WS,853,Qualification,LAID Islem (ALG),LEMMANNI Imane (MAR),LAID Islem
+ITTF Africa Cup Agadir 2017,2017-07-01,ABDELAZIZ Farah,HABTE Saba,3,0,"11,11,11|5,2,5",,OTHER,WS,853,Qualification,ABDELAZIZ Farah (EGY),HABTE Saba (ETH),ABDELAZIZ Farah
+ITTF Africa Cup Agadir 2017,2017-07-01,EDEM Offiong,BETTACHE Oumaima,3,0,"11,11,11|7,2,8",,OTHER,WS,853,Qualification,EDEM Offiong (NGR),BETTACHE Oumaima (MAR),EDEM Offiong
+ITTF Africa Cup Agadir 2017,2017-07-01,SAIDANI Safa,GULTI Marta,3,1,"10,11,11,13|12,2,8,11",,OTHER,WS,853,Qualification,SAIDANI Safa (TUN),GULTI Marta (ETH),SAIDANI Safa
+ITTF Africa Cup Agadir 2017,2017-07-01,EDEM Offiong,SAIDANI Safa,3,0,"11,11,11|5,7,6",,OTHER,WS,853,Qualification,EDEM Offiong (NGR),SAIDANI Safa (TUN),EDEM Offiong
+ITTF Africa Cup Agadir 2017,2017-07-01,GULTI Marta,BETTACHE Oumaima,3,0,"11,11,11|1,2,5",,OTHER,WS,853,Qualification,BETTACHE Oumaima (MAR),GULTI Marta (ETH),GULTI Marta
+ITTF Africa Cup Agadir 2017,2017-07-01,SAIDANI Safa,BETTACHE Oumaima,3,0,"11,11,11|2,5,4",,OTHER,WS,853,Qualification,SAIDANI Safa (TUN),BETTACHE Oumaima (MAR),SAIDANI Safa
+ITTF Africa Cup Agadir 2017,2017-07-01,EDEM Offiong,GULTI Marta,3,0,"11,11,11|4,4,7",,OTHER,WS,853,Qualification,EDEM Offiong (NGR),GULTI Marta (ETH),EDEM Offiong
+ITTF Africa Cup Agadir 2017,2017-07-01,KRICHEL Mohamed,NYOH OFON Derek,4,3,"11,11,11,7,11,7,11|7,13,4,11,9,11,7",3RD,OTHER,MS,853,Position Draw,NYOH OFON Derek (CMR),KRICHEL Mohamed (MAR),KRICHEL Mohamed
+ITTF Africa Cup Agadir 2017,2017-07-01,KHEROUF Sami,KARALI Naim,4,0,"11,11,11,13|7,9,5,11",5-8,OTHER,MS,853,Position Draw,KHEROUF Sami (ALG),KARALI Naim (ALG),KHEROUF Sami
+ITTF Africa Cup Agadir 2017,2017-07-01,SALEH Ahmed,ELBEIALI Mohamed,4,0,,3RD,OTHER,MS,853,Position Draw,SALEH Ahmed (EGY),ELBEIALI Mohamed (EGY),SALEH Ahmed
+ITTF Africa Cup Agadir 2017,2017-07-01,MAMIA Thameur,NYOH OFON Derek,4,2,"9,11,11,8,11,11|11,4,4,11,4,7",R16,OTHER,MS,853,Main Draw,MAMIA Thameur (TUN),NYOH OFON Derek (CMR),MAMIA Thameur
+ITTF Africa Cup Agadir 2017,2017-07-01,KARALI Naim,KRICHEL Mohamed,4,1,"9,11,11,11,11|11,5,5,6,1",R16,OTHER,MS,853,Main Draw,KRICHEL Mohamed (MAR),KARALI Naim (ALG),KARALI Naim
+ITTF Africa Cup Agadir 2017,2017-07-01,ASSAR Omar,SULTAN Godfrey,4,0,"11,11,11,11|4,5,4,6",QF,OTHER,MS,853,Main Draw,ASSAR Omar (EGY),SULTAN Godfrey (SEY),ASSAR Omar
+ITTF Africa Cup Agadir 2017,2017-07-01,SALEH Ahmed,MAMIA Thameur,4,1,"11,11,11,11,11|7,13,6,5,7",QF,OTHER,MS,853,Main Draw,MAMIA Thameur (TUN),SALEH Ahmed (EGY),SALEH Ahmed
+ITTF Africa Cup Agadir 2017,2017-07-01,ELBEIALI Mohamed,KHEROUF Sami,4,3,"9,11,11,11,9,9,11|11,6,2,4,11,11,8",QF,OTHER,MS,853,Main Draw,ELBEIALI Mohamed (EGY),KHEROUF Sami (ALG),ELBEIALI Mohamed
+ITTF Africa Cup Agadir 2017,2017-07-01,ARUNA Quadri,KARALI Naim,4,1,"11,11,13,9,11|9,5,11,11,7",QF,OTHER,MS,853,Main Draw,KARALI Naim (ALG),ARUNA Quadri (NGR),ARUNA Quadri
+ITTF Africa Cup Agadir 2017,2017-07-01,ASSAR Omar,SALEH Ahmed,4,2,"4,5,11,12,11,11|11,11,8,10,8,6",SF,OTHER,MS,853,Main Draw,ASSAR Omar (EGY),SALEH Ahmed (EGY),ASSAR Omar
+ITTF Africa Cup Agadir 2017,2017-07-01,ARUNA Quadri,ELBEIALI Mohamed,4,0,"11,11,11,11|6,8,9,6",SF,OTHER,MS,853,Main Draw,ELBEIALI Mohamed (EGY),ARUNA Quadri (NGR),ARUNA Quadri
+ITTF Africa Cup Agadir 2017,2017-07-01,ARUNA Quadri,ASSAR Omar,4,3,"11,3,11,4,11,8,11|7,11,8,11,8,11,9",F,OTHER,MS,853,Main Draw,ASSAR Omar (EGY),ARUNA Quadri (NGR),ARUNA Quadri
+ITTF Africa Cup Agadir 2017,2017-07-01,SAIDANI Safa,KILINDO Christy,4,2,"11,10,11,10,11,11|2,12,5,12,2,3",3RD,OTHER,WS,853,Position Draw,KILINDO Christy (SEY),SAIDANI Safa (TUN),SAIDANI Safa
+ITTF Africa Cup Agadir 2017,2017-07-01,LAID Islem,KESSACI Katia,4,0,"11,11,11,11|6,2,4,9",5-8,OTHER,WS,853,Position Draw,LAID Islem (ALG),KESSACI Katia (ALG),LAID Islem
+ITTF Africa Cup Agadir 2017,2017-07-01,HANFFOU Sarah,LAID Islem,4,0,"11,11,11,11|8,8,4,9",3RD,OTHER,WS,853,Position Draw,HANFFOU Sarah (CMR),LAID Islem (ALG),HANFFOU Sarah
+ITTF Africa Cup Agadir 2017,2017-07-01,ABDELAZIZ Farah,HELMY Yousra,4,2,"11,11,12,7,8,12|3,9,10,11,11,10",3RD,OTHER,WS,853,Position Draw,ABDELAZIZ Farah (EGY),HELMY Yousra (EGY),ABDELAZIZ Farah
+ITTF Africa Cup Agadir 2017,2017-07-01,HANFFOU Sarah,KILINDO Christy,4,0,"11,11,11,11|7,8,3,5",R16,OTHER,WS,853,Main Draw,KILINDO Christy (SEY),HANFFOU Sarah (CMR),HANFFOU Sarah
+ITTF Africa Cup Agadir 2017,2017-07-01,KESSACI Katia,SAIDANI Safa,4,2,"11,11,6,7,11,11|9,9,11,11,9,8",R16,OTHER,WS,853,Main Draw,SAIDANI Safa (TUN),KESSACI Katia (ALG),KESSACI Katia
+ITTF Africa Cup Agadir 2017,2017-07-01,MESHREF Dina,HANFFOU Sarah,4,1,"4,11,11,11,11|11,4,9,4,5",QF,OTHER,WS,853,Main Draw,MESHREF Dina (EGY),HANFFOU Sarah (CMR),MESHREF Dina
+ITTF Africa Cup Agadir 2017,2017-07-01,ABDELAZIZ Farah,EDEM Offiong,4,1,"10,11,11,11,11|12,8,5,8,2",QF,OTHER,WS,853,Main Draw,EDEM Offiong (NGR),ABDELAZIZ Farah (EGY),ABDELAZIZ Farah
+ITTF Africa Cup Agadir 2017,2017-07-01,HELMY Yousra,LAID Islem,4,1,"11,8,11,11,11|4,11,9,5,6",QF,OTHER,WS,853,Main Draw,HELMY Yousra (EGY),LAID Islem (ALG),HELMY Yousra
+ITTF Africa Cup Agadir 2017,2017-07-01,OSHONAIKE Olufunke,KESSACI Katia,4,0,"11,11,11,11|6,5,3,8",QF,OTHER,WS,853,Main Draw,KESSACI Katia (ALG),OSHONAIKE Olufunke (NGR),OSHONAIKE Olufunke
+ITTF Africa Cup Agadir 2017,2017-07-01,MESHREF Dina,ABDELAZIZ Farah,4,0,"11,11,11,11|6,7,6,5",SF,OTHER,WS,853,Main Draw,MESHREF Dina (EGY),ABDELAZIZ Farah (EGY),MESHREF Dina
+ITTF Africa Cup Agadir 2017,2017-07-01,OSHONAIKE Olufunke,HELMY Yousra,4,0,"11,12,11,11|7,10,7,3",SF,OTHER,WS,853,Main Draw,HELMY Yousra (EGY),OSHONAIKE Olufunke (NGR),OSHONAIKE Olufunke
+ITTF Africa Cup Agadir 2017,2017-07-01,MESHREF Dina,OSHONAIKE Olufunke,4,0,"11,11,11,11|7,9,8,2",F,OTHER,WS,853,Main Draw,MESHREF Dina (EGY),OSHONAIKE Olufunke (NGR),MESHREF Dina
+ITTF Africa Cup Agadir 2017,2017-07-01,ZINE EL ABIDINE Saad,ESTHER Nicholas,4,2,"7,9,11,11,11,12|11,11,8,7,8,10",8,OTHER,MS,853,Consolation,ESTHER Nicholas (SEY),ZINE EL ABIDINE Saad (MAR),ZINE EL ABIDINE Saad
+ITTF Africa Cup Agadir 2017,2017-07-01,NDIKUM ASAAH Prosper,MINDAHUN Melaku,4,1,"11,10,11,11,11|9,12,9,2,9",8,OTHER,MS,853,Consolation,NDIKUM ASAAH Prosper (CMR),MINDAHUN Melaku (ETH),NDIKUM ASAAH Prosper
+ITTF Africa Cup Agadir 2017,2017-07-01,ZINE EL ABIDINE Saad,HABTEYES Melese,4,0,"15,13,11,11|13,11,8,7",4,OTHER,MS,853,Consolation,HABTEYES Melese (ETH),ZINE EL ABIDINE Saad (MAR),ZINE EL ABIDINE Saad
+ITTF Africa Cup Agadir 2017,2017-07-01,NDIKUM ASAAH Prosper,AGUIDA Abderrafiq,4,2,"11,11,10,8,11,11|6,3,12,11,2,8",4,OTHER,MS,853,Consolation,NDIKUM ASAAH Prosper (CMR),AGUIDA Abderrafiq (MAR),NDIKUM ASAAH Prosper
+ITTF Africa Cup Agadir 2017,2017-07-01,AGUIDA Abderrafiq,HABTEYES Melese,4,0,"11,13,11,11|5,11,3,3",2,OTHER,MS,853,Consolation,HABTEYES Melese (ETH),AGUIDA Abderrafiq (MAR),AGUIDA Abderrafiq
+ITTF Africa Cup Agadir 2017,2017-07-01,KHATTAB Zahira,BETTACHE Oumaima,3,2,"8,8,11,11,11|11,11,6,5,8",8,OTHER,WS,853,Consolation,BETTACHE Oumaima (MAR),KHATTAB Zahira (SEY),KHATTAB Zahira
+ITTF Africa Cup Agadir 2017,2017-07-01,OUTOLLA Ines,LEMMANNI Imane,4,1,"11,11,11,11,11|4,13,3,5,9",4,OTHER,WS,853,Consolation,LEMMANNI Imane (MAR),OUTOLLA Ines (MAR),OUTOLLA Ines
+ITTF Africa Cup Agadir 2017,2017-07-01,KHATTAB Zahira,MAZIGH Fatima Zohra,4,3,"13,12,10,8,11,6,11|11,10,12,11,3,11,6",4,OTHER,WS,853,Consolation,KHATTAB Zahira (SEY),MAZIGH Fatima Zohra (MAR),KHATTAB Zahira
+ITTF Africa Cup Agadir 2017,2017-07-01,MAZIGH Fatima Zohra,LEMMANNI Imane,4,2,"8,11,14,11,4,11|11,5,12,9,11,7",2,OTHER,WS,853,Consolation,LEMMANNI Imane (MAR),MAZIGH Fatima Zohra (MAR),MAZIGH Fatima Zohra

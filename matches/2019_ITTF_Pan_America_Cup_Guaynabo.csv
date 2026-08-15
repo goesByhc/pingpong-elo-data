@@ -1,41 +1,41 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,MINO Alberto,GUTIERREZ Allan,4,2,"9,9,11,11,11,11|11,11,8,4,8,2",,OTHER,MS,1999,Qualification,MINO Alberto (ECU),GUTIERREZ Allan (GUA)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,KUMAR Nikhil,MADRID Marcos,4,3,"7,11,11,9,6,14,11|11,8,8,11,11,12,6",,OTHER,MS,1999,Qualification,MADRID Marcos (MEX),KUMAR Nikhil (USA)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,ZHANG Lily,MORALES Judith,4,0,"11,11,11,11|3,6,3,7",,OTHER,WS,1999,Qualification,ZHANG Lily (USA),MORALES Judith (CHI)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,GUI Lin,CORDERO Lucia,4,1,"11,11,5,11,11|4,9,11,8,4",,OTHER,WS,1999,Qualification,GUI Lin (BRA),CORDERO Lucia (GUA)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,AFANADOR Brian,MEDJUGORAC Marko,4,0,"11,11,11,11|3,8,6,8",,OTHER,MS,1999,Qualification,AFANADOR Brian (PUR),MEDJUGORAC Marko (CAN)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,HAZIN Jeremy,GOMEZ Gustavo,4,0,"11,11,11,11|6,5,9,7",,OTHER,MS,1999,Qualification,GOMEZ Gustavo (CHI),HAZIN Jeremy (CAN)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,COTE Alicia,DIAZ Melanie,4,3,"7,8,11,9,11,11,11|11,11,3,11,5,7,7",,OTHER,WS,1999,Qualification,DIAZ Melanie (PUR),COTE Alicia (CAN)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,VEGA Paulina,RAMIRIOS Estefania,4,0,"11,11,11,11|9,6,6,3",,OTHER,WS,1999,Qualification,VEGA Paulina (CHI),RAMIRIOS Estefania (ESA)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,ORTIZ Yasiris,CORDERO Lucia,4,2,"11,11,10,7,11,11|6,4,12,11,6,7",,OTHER,WS,1999,Qualification,ORTIZ Yasiris (DOM),CORDERO Lucia (GUA)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,SILVA Yadira,RAMIRIOS Estefania,4,1,"8,11,11,11,11|11,7,9,4,5",,OTHER,WS,1999,Qualification,SILVA Yadira (MEX),RAMIRIOS Estefania (ESA)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,KUMAR Nikhil,SANTOS Emil,4,0,"11,11,11,11|6,6,8,7",,OTHER,MS,1999,Qualification,SANTOS Emil (DOM),KUMAR Nikhil (USA)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,MEDJUGORAC Marko,LAMADRID Juan,4,0,"11,11,11,11|9,6,8,8",,OTHER,MS,1999,Qualification,LAMADRID Juan (CHI),MEDJUGORAC Marko (CAN)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,COTE Alicia,BRITO Eva,4,1,"4,15,11,11,11|11,13,4,6,5",,OTHER,WS,1999,Qualification,BRITO Eva (DOM),COTE Alicia (CAN)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,MORALES Judith,ENRIQUEZ Mabelyn,4,1,"11,11,12,7,11|8,7,10,11,6",,OTHER,WS,1999,Qualification,ENRIQUEZ Mabelyn (GUA),MORALES Judith (CHI)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,HAZIN Jeremy,GONZALEZ Daniel,4,0,"11,11,13,11|7,5,11,4",,OTHER,MS,1999,Qualification,GONZALEZ Daniel (PUR),HAZIN Jeremy (CAN)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,GALVEZ Samuel,GUTIERREZ Allan,4,3,"10,11,7,12,11,11,11|12,6,11,14,9,6,3",,OTHER,MS,1999,Qualification,GALVEZ Samuel (DOM),GUTIERREZ Allan (GUA)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,AFANADOR Brian,LAMADRID Juan,4,1,"11,11,9,11,11|7,6,11,2,5",,OTHER,MS,1999,Qualification,AFANADOR Brian (PUR),LAMADRID Juan (CHI)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,MADRID Marcos,SANTOS Emil,4,0,"11,11,11,11|9,6,5,6",,OTHER,MS,1999,Qualification,MADRID Marcos (MEX),SANTOS Emil (DOM)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,DIAZ Melanie,BRITO Eva,4,0,"11,11,11,11|8,7,4,6",,OTHER,WS,1999,Qualification,DIAZ Melanie (PUR),BRITO Eva (DOM)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,ZHANG Lily,ENRIQUEZ Mabelyn,4,0,"11,11,11,11|4,3,4,6",,OTHER,WS,1999,Qualification,ZHANG Lily (USA),ENRIQUEZ Mabelyn (GUA)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,GOMEZ Gustavo,GONZALEZ Daniel,4,2,"11,10,11,10,11,13|7,12,6,12,9,11",,OTHER,MS,1999,Qualification,GOMEZ Gustavo (CHI),GONZALEZ Daniel (PUR)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,MINO Alberto,GALVEZ Samuel,4,3,"11,11,10,9,8,11,11|8,2,12,11,11,6,3",,OTHER,MS,1999,Qualification,MINO Alberto (ECU),GALVEZ Samuel (DOM)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,SILVA Yadira,VEGA Paulina,4,3,"7,11,11,11,10,11,11|11,6,13,9,12,9,5",,OTHER,WS,1999,Qualification,VEGA Paulina (CHI),SILVA Yadira (MEX)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,GUI Lin,ORTIZ Yasiris,4,1,"7,11,11,11,11|11,5,3,2,8",,OTHER,WS,1999,Qualification,GUI Lin (BRA),ORTIZ Yasiris (DOM)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,AGUIRRE Marcelo,KUMAR Nikhil,4,1,"11,5,11,11,11|7,11,9,8,8",QF,OTHER,MS,1999,Main Draw,KUMAR Nikhil (USA),AGUIRRE Marcelo (PAR)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,WU Yue,GUI Lin,4,0,"11,12,11,11|4,10,2,8",QF,OTHER,WS,1999,Main Draw,WU Yue (USA),GUI Lin (BRA)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,JHA Kanak,MINO Alberto,4,3,"9,9,11,8,11,11,11|11,11,7,11,4,6,6",QF,OTHER,MS,1999,Main Draw,JHA Kanak (USA),MINO Alberto (ECU)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,TAKAHASHI Bruna,SILVA Yadira,4,2,"11,11,11,9,5,11|7,6,9,11,11,8",QF,OTHER,WS,1999,Main Draw,SILVA Yadira (MEX),TAKAHASHI Bruna (BRA)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,TSUBOI Gustavo,HAZIN Jeremy,4,1,"11,8,12,11,11|8,11,10,7,7",QF,OTHER,MS,1999,Main Draw,HAZIN Jeremy (CAN),TSUBOI Gustavo (BRA)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,ZHANG Mo,ZHANG Lily,4,3,"11,8,14,11,9,10,11|9,11,12,8,11,12,6",QF,OTHER,WS,1999,Main Draw,ZHANG Mo (CAN),ZHANG Lily (USA)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,CALDERANO Hugo,AFANADOR Brian,4,0,"11,11,11,11|9,4,9,9",QF,OTHER,MS,1999,Main Draw,CALDERANO Hugo (BRA),AFANADOR Brian (PUR)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,DIAZ Adriana,COTE Alicia,4,0,"11,11,11,12|9,8,2,10",QF,OTHER,WS,1999,Main Draw,COTE Alicia (CAN),DIAZ Adriana (PUR)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,ZHANG Mo,TAKAHASHI Bruna,4,0,"11,11,11,11|8,4,5,5",SF,OTHER,WS,1999,Main Draw,ZHANG Mo (CAN),TAKAHASHI Bruna (BRA)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,JHA Kanak,TSUBOI Gustavo,4,2,"8,11,11,11,9,11|11,5,9,4,11,8",SF,OTHER,MS,1999,Main Draw,JHA Kanak (USA),TSUBOI Gustavo (BRA)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,DIAZ Adriana,WU Yue,4,3,"11,11,7,7,11,5,11|8,3,11,11,3,11,4",SF,OTHER,WS,1999,Main Draw,WU Yue (USA),DIAZ Adriana (PUR)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,CALDERANO Hugo,AGUIRRE Marcelo,4,2,"11,7,9,13,11,13|7,11,11,11,9,11",SF,OTHER,MS,1999,Main Draw,CALDERANO Hugo (BRA),AGUIRRE Marcelo (PAR)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,WU Yue,TAKAHASHI Bruna,4,2,"11,6,9,11,11,12|8,11,11,5,6,10",3RD,OTHER,WS,1999,Position Draw,TAKAHASHI Bruna (BRA),WU Yue (USA)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,TSUBOI Gustavo,AGUIRRE Marcelo,4,1,"11,11,3,11,11|6,6,11,3,5",3RD,OTHER,MS,1999,Position Draw,AGUIRRE Marcelo (PAR),TSUBOI Gustavo (BRA)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,CALDERANO Hugo,JHA Kanak,4,1,"11,12,11,11,12|2,14,3,8,10",F,OTHER,MS,1999,Main Draw,CALDERANO Hugo (BRA),JHA Kanak (USA)
-ITTF Pan America Cup Guaynabo 2019,2019-02-01,DIAZ Adriana,ZHANG Mo,4,1,"13,11,6,11,11|11,8,11,9,9",F,OTHER,WS,1999,Main Draw,ZHANG Mo (CAN),DIAZ Adriana (PUR)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,MINO Alberto,GUTIERREZ Allan,4,2,"9,9,11,11,11,11|11,11,8,4,8,2",,OTHER,MS,1999,Qualification,MINO Alberto (ECU),GUTIERREZ Allan (GUA),MINO Alberto
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,KUMAR Nikhil,MADRID Marcos,4,3,"7,11,11,9,6,14,11|11,8,8,11,11,12,6",,OTHER,MS,1999,Qualification,MADRID Marcos (MEX),KUMAR Nikhil (USA),KUMAR Nikhil
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,ZHANG Lily,MORALES Judith,4,0,"11,11,11,11|3,6,3,7",,OTHER,WS,1999,Qualification,ZHANG Lily (USA),MORALES Judith (CHI),ZHANG Lily
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,GUI Lin,CORDERO Lucia,4,1,"11,11,5,11,11|4,9,11,8,4",,OTHER,WS,1999,Qualification,GUI Lin (BRA),CORDERO Lucia (GUA),GUI Lin
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,AFANADOR Brian,MEDJUGORAC Marko,4,0,"11,11,11,11|3,8,6,8",,OTHER,MS,1999,Qualification,AFANADOR Brian (PUR),MEDJUGORAC Marko (CAN),AFANADOR Brian
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,HAZIN Jeremy,GOMEZ Gustavo,4,0,"11,11,11,11|6,5,9,7",,OTHER,MS,1999,Qualification,GOMEZ Gustavo (CHI),HAZIN Jeremy (CAN),HAZIN Jeremy
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,COTE Alicia,DIAZ Melanie,4,3,"7,8,11,9,11,11,11|11,11,3,11,5,7,7",,OTHER,WS,1999,Qualification,DIAZ Melanie (PUR),COTE Alicia (CAN),COTE Alicia
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,VEGA Paulina,RAMIRIOS Estefania,4,0,"11,11,11,11|9,6,6,3",,OTHER,WS,1999,Qualification,VEGA Paulina (CHI),RAMIRIOS Estefania (ESA),VEGA Paulina
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,ORTIZ Yasiris,CORDERO Lucia,4,2,"11,11,10,7,11,11|6,4,12,11,6,7",,OTHER,WS,1999,Qualification,ORTIZ Yasiris (DOM),CORDERO Lucia (GUA),ORTIZ Yasiris
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,SILVA Yadira,RAMIRIOS Estefania,4,1,"8,11,11,11,11|11,7,9,4,5",,OTHER,WS,1999,Qualification,SILVA Yadira (MEX),RAMIRIOS Estefania (ESA),SILVA Yadira
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,KUMAR Nikhil,SANTOS Emil,4,0,"11,11,11,11|6,6,8,7",,OTHER,MS,1999,Qualification,SANTOS Emil (DOM),KUMAR Nikhil (USA),KUMAR Nikhil
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,MEDJUGORAC Marko,LAMADRID Juan,4,0,"11,11,11,11|9,6,8,8",,OTHER,MS,1999,Qualification,LAMADRID Juan (CHI),MEDJUGORAC Marko (CAN),MEDJUGORAC Marko
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,COTE Alicia,BRITO Eva,4,1,"4,15,11,11,11|11,13,4,6,5",,OTHER,WS,1999,Qualification,BRITO Eva (DOM),COTE Alicia (CAN),COTE Alicia
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,MORALES Judith,ENRIQUEZ Mabelyn,4,1,"11,11,12,7,11|8,7,10,11,6",,OTHER,WS,1999,Qualification,ENRIQUEZ Mabelyn (GUA),MORALES Judith (CHI),MORALES Judith
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,HAZIN Jeremy,GONZALEZ Daniel,4,0,"11,11,13,11|7,5,11,4",,OTHER,MS,1999,Qualification,GONZALEZ Daniel (PUR),HAZIN Jeremy (CAN),HAZIN Jeremy
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,GALVEZ Samuel,GUTIERREZ Allan,4,3,"10,11,7,12,11,11,11|12,6,11,14,9,6,3",,OTHER,MS,1999,Qualification,GALVEZ Samuel (DOM),GUTIERREZ Allan (GUA),GALVEZ Samuel
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,AFANADOR Brian,LAMADRID Juan,4,1,"11,11,9,11,11|7,6,11,2,5",,OTHER,MS,1999,Qualification,AFANADOR Brian (PUR),LAMADRID Juan (CHI),AFANADOR Brian
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,MADRID Marcos,SANTOS Emil,4,0,"11,11,11,11|9,6,5,6",,OTHER,MS,1999,Qualification,MADRID Marcos (MEX),SANTOS Emil (DOM),MADRID Marcos
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,DIAZ Melanie,BRITO Eva,4,0,"11,11,11,11|8,7,4,6",,OTHER,WS,1999,Qualification,DIAZ Melanie (PUR),BRITO Eva (DOM),DIAZ Melanie
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,ZHANG Lily,ENRIQUEZ Mabelyn,4,0,"11,11,11,11|4,3,4,6",,OTHER,WS,1999,Qualification,ZHANG Lily (USA),ENRIQUEZ Mabelyn (GUA),ZHANG Lily
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,GOMEZ Gustavo,GONZALEZ Daniel,4,2,"11,10,11,10,11,13|7,12,6,12,9,11",,OTHER,MS,1999,Qualification,GOMEZ Gustavo (CHI),GONZALEZ Daniel (PUR),GOMEZ Gustavo
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,MINO Alberto,GALVEZ Samuel,4,3,"11,11,10,9,8,11,11|8,2,12,11,11,6,3",,OTHER,MS,1999,Qualification,MINO Alberto (ECU),GALVEZ Samuel (DOM),MINO Alberto
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,SILVA Yadira,VEGA Paulina,4,3,"7,11,11,11,10,11,11|11,6,13,9,12,9,5",,OTHER,WS,1999,Qualification,VEGA Paulina (CHI),SILVA Yadira (MEX),SILVA Yadira
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,GUI Lin,ORTIZ Yasiris,4,1,"7,11,11,11,11|11,5,3,2,8",,OTHER,WS,1999,Qualification,GUI Lin (BRA),ORTIZ Yasiris (DOM),GUI Lin
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,AGUIRRE Marcelo,KUMAR Nikhil,4,1,"11,5,11,11,11|7,11,9,8,8",QF,OTHER,MS,1999,Main Draw,KUMAR Nikhil (USA),AGUIRRE Marcelo (PAR),AGUIRRE Marcelo
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,WU Yue,GUI Lin,4,0,"11,12,11,11|4,10,2,8",QF,OTHER,WS,1999,Main Draw,WU Yue (USA),GUI Lin (BRA),WU Yue
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,JHA Kanak,MINO Alberto,4,3,"9,9,11,8,11,11,11|11,11,7,11,4,6,6",QF,OTHER,MS,1999,Main Draw,JHA Kanak (USA),MINO Alberto (ECU),JHA Kanak
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,TAKAHASHI Bruna,SILVA Yadira,4,2,"11,11,11,9,5,11|7,6,9,11,11,8",QF,OTHER,WS,1999,Main Draw,SILVA Yadira (MEX),TAKAHASHI Bruna (BRA),TAKAHASHI Bruna
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,TSUBOI Gustavo,HAZIN Jeremy,4,1,"11,8,12,11,11|8,11,10,7,7",QF,OTHER,MS,1999,Main Draw,HAZIN Jeremy (CAN),TSUBOI Gustavo (BRA),TSUBOI Gustavo
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,ZHANG Mo,ZHANG Lily,4,3,"11,8,14,11,9,10,11|9,11,12,8,11,12,6",QF,OTHER,WS,1999,Main Draw,ZHANG Mo (CAN),ZHANG Lily (USA),ZHANG Mo
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,CALDERANO Hugo,AFANADOR Brian,4,0,"11,11,11,11|9,4,9,9",QF,OTHER,MS,1999,Main Draw,CALDERANO Hugo (BRA),AFANADOR Brian (PUR),CALDERANO Hugo
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,DIAZ Adriana,COTE Alicia,4,0,"11,11,11,12|9,8,2,10",QF,OTHER,WS,1999,Main Draw,COTE Alicia (CAN),DIAZ Adriana (PUR),DIAZ Adriana
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,ZHANG Mo,TAKAHASHI Bruna,4,0,"11,11,11,11|8,4,5,5",SF,OTHER,WS,1999,Main Draw,ZHANG Mo (CAN),TAKAHASHI Bruna (BRA),ZHANG Mo
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,JHA Kanak,TSUBOI Gustavo,4,2,"8,11,11,11,9,11|11,5,9,4,11,8",SF,OTHER,MS,1999,Main Draw,JHA Kanak (USA),TSUBOI Gustavo (BRA),JHA Kanak
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,DIAZ Adriana,WU Yue,4,3,"11,11,7,7,11,5,11|8,3,11,11,3,11,4",SF,OTHER,WS,1999,Main Draw,WU Yue (USA),DIAZ Adriana (PUR),DIAZ Adriana
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,CALDERANO Hugo,AGUIRRE Marcelo,4,2,"11,7,9,13,11,13|7,11,11,11,9,11",SF,OTHER,MS,1999,Main Draw,CALDERANO Hugo (BRA),AGUIRRE Marcelo (PAR),CALDERANO Hugo
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,WU Yue,TAKAHASHI Bruna,4,2,"11,6,9,11,11,12|8,11,11,5,6,10",3RD,OTHER,WS,1999,Position Draw,TAKAHASHI Bruna (BRA),WU Yue (USA),WU Yue
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,TSUBOI Gustavo,AGUIRRE Marcelo,4,1,"11,11,3,11,11|6,6,11,3,5",3RD,OTHER,MS,1999,Position Draw,AGUIRRE Marcelo (PAR),TSUBOI Gustavo (BRA),TSUBOI Gustavo
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,CALDERANO Hugo,JHA Kanak,4,1,"11,12,11,11,12|2,14,3,8,10",F,OTHER,MS,1999,Main Draw,CALDERANO Hugo (BRA),JHA Kanak (USA),CALDERANO Hugo
+ITTF Pan America Cup Guaynabo 2019,2019-02-01,DIAZ Adriana,ZHANG Mo,4,1,"13,11,6,11,11|11,8,11,9,9",F,OTHER,WS,1999,Main Draw,ZHANG Mo (CAN),DIAZ Adriana (PUR),DIAZ Adriana

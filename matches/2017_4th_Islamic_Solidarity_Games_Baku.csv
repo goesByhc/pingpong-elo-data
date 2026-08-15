@@ -1,61 +1,61 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-4th Islamic Solidarity Games Baku 2017,2017-05-17,EDGHILL Chelsea,AKADIRI Ziadath,4,0,"11,11,11,11|8,8,7,3",R32,OTHER,WS,848,Main Draw,AKADIRI Ziadath (BEN),EDGHILL Chelsea (GUY)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,SHAREEF Aminath,DRAME Akissi,4,0,"11,11,11,11|5,6,3,9",R32,OTHER,WS,848,Main Draw,DRAME Akissi (CIV),SHAREEF Aminath (MDV)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,HU Melek,EDGHILL Chelsea,4,0,"11,11,11,11|1,2,5,4",R16,OTHER,WS,848,Main Draw,HU Melek (TUR),EDGHILL Chelsea (GUY)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,KASHIF Rahila,KOUADIO Lisette,4,0,"11,11,11,11|4,4,4,5",R16,OTHER,WS,848,Main Draw,KASHIF Rahila (PAK),KOUADIO Lisette (CIV)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,SAMET Maryam,NAZMI Aziza,4,0,"11,11,11,11|0,1,2,3",R16,OTHER,WS,848,Main Draw,SAMET Maryam (IRI),NAZMI Aziza (KSA)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,WANG Miao,MENAWI Ahd,4,0,"11,11,11,11|1,1,1,5",R16,OTHER,WS,848,Main Draw,MENAWI Ahd (PLE),WANG Miao (AZE)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,SHAHSAVARI Neda,LOWE Trenace,4,0,"11,11,11,11|8,8,5,7",R16,OTHER,WS,848,Main Draw,SHAHSAVARI Neda (IRI),LOWE Trenace (GUY)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,YILMAZ Ozge,BILAL Shabnam,4,0,"12,12,11,11|10,10,5,6",R16,OTHER,WS,848,Main Draw,BILAL Shabnam (PAK),YILMAZ Ozge (TUR)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,ASSI Diana,ALSOWAYIGH Mayson,4,1,"8,11,11,12,11|11,9,4,10,7",R16,OTHER,WS,848,Main Draw,ASSI Diana (PLE),ALSOWAYIGH Mayson (KSA)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,NING Jing,SHAREEF Aminath,4,0,"11,11,11,11|2,2,2,4",R16,OTHER,WS,848,Main Draw,SHAREEF Aminath (MDV),NING Jing (AZE)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,HU Melek,KASHIF Rahila,4,0,"11,11,11,11|1,5,8,4",QF,OTHER,WS,848,Main Draw,HU Melek (TUR),KASHIF Rahila (PAK)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,WANG Miao,SAMET Maryam,4,0,"11,11,11,11|9,9,8,5",QF,OTHER,WS,848,Main Draw,SAMET Maryam (IRI),WANG Miao (AZE)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,SHAHSAVARI Neda,YILMAZ Ozge,4,0,"11,11,11,11|5,7,3,9",QF,OTHER,WS,848,Main Draw,SHAHSAVARI Neda (IRI),YILMAZ Ozge (TUR)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,NING Jing,ASSI Diana,4,0,"11,11,11,11|3,1,1,1",QF,OTHER,WS,848,Main Draw,ASSI Diana (PLE),NING Jing (AZE)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,HU Melek,WANG Miao,4,1,"11,11,9,11,14|1,7,11,6,12",SF,OTHER,WS,848,Main Draw,HU Melek (TUR),WANG Miao (AZE)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,NING Jing,SHAHSAVARI Neda,4,1,"11,12,9,11,11|5,10,11,4,3",SF,OTHER,WS,848,Main Draw,SHAHSAVARI Neda (IRI),NING Jing (AZE)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,WANG Miao,SHAHSAVARI Neda,4,1,"13,11,8,11,19|11,3,11,7,17",3RD,OTHER,WS,848,Main Draw,WANG Miao (AZE),SHAHSAVARI Neda (IRI)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,HU Melek,NING Jing,4,0,"13,11,12,11|11,4,10,4",F,OTHER,WS,848,Main Draw,HU Melek (TUR),NING Jing (AZE)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,OMOTAYO Olajide,HOUDJI Zinsou,4,0,"11,11,11,11|4,7,3,5",R32,OTHER,MS,848,Main Draw,OMOTAYO Olajide (NGR),HOUDJI Zinsou (CIV)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,ULUCAK Batuhan,BRYAN Nigel,4,0,"11,11,11,11|8,5,3,2",R32,OTHER,MS,848,Main Draw,BRYAN Nigel (GUY),ULUCAK Batuhan (TUR)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,AGBETOGLO Mawussi,QURESHI Asim,4,0,"11,11,13,11|2,7,11,8",R32,OTHER,MS,848,Main Draw,AGBETOGLO Mawussi (TOG),QURESHI Asim (PAK)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,AKAKPO Kossi,NASEEM Mohamed,4,3,"9,7,6,14,11|11,11,11,12,6",R32,OTHER,MS,848,Main Draw,AKAKPO Kossi (TOG),NASEEM Mohamed (MDV)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,RAMEEZ Muhammad,FRANKLIN Christopher,4,0,"11,11,11,12|8,6,8,10",R32,OTHER,MS,848,Main Draw,FRANKLIN Christopher (GUY),RAMEEZ Muhammad (PAK)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,LI Ping,ALBALOOSHI Abdulla,4,0,"11,11,11,11|5,6,8,2",R16,OTHER,MS,848,Main Draw,LI Ping (QAT),ALBALOOSHI Abdulla (UAE)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,OMOTAYO Olajide,AL-ABBAD Abdulaziz,4,0,"11,11,11,11|9,8,9,5",R16,OTHER,MS,848,Main Draw,OMOTAYO Olajide (NGR),AL-ABBAD Abdulaziz (KSA)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,ULUCAK Batuhan,YANG Xinyu,4,3,"15,12,7,6,12|13,10,11,11,10",R16,OTHER,MS,848,Main Draw,YANG Xinyu (AZE),ULUCAK Batuhan (TUR)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,ALAMIAN Nima,AGBETOGLO Mawussi,4,0,"12,11,11,11|10,7,4,6",R16,OTHER,MS,848,Main Draw,AGBETOGLO Mawussi (TOG),ALAMIAN Nima (IRI)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,LI Ahmet,OBA Oba Kizito,4,0,"11,11,11,11|2,4,5,6",R16,OTHER,MS,848,Main Draw,LI Ahmet (TUR),OBA Oba Kizito (CIV)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,ALKHADRAWI Ali,AKAKPO Kossi,4,0,"11,11,11,11|4,1,5,7",R16,OTHER,MS,848,Main Draw,AKAKPO Kossi (TOG),ALKHADRAWI Ali (KSA)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,ALAMIYAN Noshad,RAMEEZ Muhammad,4,0,"11,11,11,11|5,5,4,7",R16,OTHER,MS,848,Main Draw,RAMEEZ Muhammad (PAK),ALAMIYAN Noshad (IRI)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,LI Ping,OMOTAYO Olajide,4,1,"11,8,11,11,11|5,11,6,8,9",QF,OTHER,MS,848,Main Draw,LI Ping (QAT),OMOTAYO Olajide (NGR)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,ALAMIAN Nima,ULUCAK Batuhan,4,0,"11,11,11,11|1,7,1,5",QF,OTHER,MS,848,Main Draw,ULUCAK Batuhan (TUR),ALAMIAN Nima (IRI)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,LI Ahmet,ALKHADRAWI Ali,4,1,"11,11,11,9,11|4,2,7,11,7",QF,OTHER,MS,848,Main Draw,LI Ahmet (TUR),ALKHADRAWI Ali (KSA)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,ALAMIAN Nima,LI Ping,4,3,"11,8,11,9,6|7,11,7,11,11",SF,OTHER,MS,848,Main Draw,LI Ping (QAT),ALAMIAN Nima (IRI)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,ALAMIYAN Noshad,LI Ahmet,4,0,"11,11,11,11|9,4,8,7",SF,OTHER,MS,848,Main Draw,LI Ahmet (TUR),ALAMIYAN Noshad (IRI)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,LI Ping,LI Ahmet,4,1,"11,11,8,11,11|7,6,11,2,7",3RD,OTHER,MS,848,Main Draw,LI Ping (QAT),LI Ahmet (TUR)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,ALAMIYAN Noshad,ALAMIAN Nima,4,3,"13,7,11,8,12|11,11,7,11,10",F,OTHER,MS,848,Main Draw,ALAMIAN Nima (IRI),ALAMIYAN Noshad (IRI)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,SHAHSAVARI Neda,CUMMINGS Natalie,3,2,"9,11,10,11,13|11,9,12,3,11",,OTHER,WT,848,Main Draw,SHAHSAVARI Neda (IRI),CUMMINGS Natalie (GUY)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,ASHTARI Mahshid,EDGHILL Chelsea,3,0,"11,11,11|5,4,1",,OTHER,WT,848,Main Draw,ASHTARI Mahshid (IRI),EDGHILL Chelsea (GUY)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,CHEN Xingtai,KASHIF Rahila,3,0,"11,11,11|4,4,6",,OTHER,WT,848,Main Draw,CHEN Xingtai (AZE),KASHIF Rahila (PAK)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,WANG Miao,BILAL Shabnam,3,0,"11,11,11|2,4,1",,OTHER,WT,848,Main Draw,WANG Miao (AZE),BILAL Shabnam (PAK)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,HU Melek,ASHTARI Mahshid,3,1,"9,11,11,11|11,3,3,8",,OTHER,WT,848,Main Draw,HU Melek (TUR),ASHTARI Mahshid (IRI)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,SHAHSAVARI Neda,KULAKCEKEN Simay,3,2,"11,11,11,10,11|9,13,4,12,8",,OTHER,WT,848,Main Draw,KULAKCEKEN Simay (TUR),SHAHSAVARI Neda (IRI)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,HU Melek,SAMET Maryam,3,0,"11,11,11|2,6,6",,OTHER,WT,848,Main Draw,HU Melek (TUR),SAMET Maryam (IRI)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,ASHTARI Mahshid,YILMAZ Ozge,3,1,"7,11,11,11|11,6,8,7",,OTHER,WT,848,Main Draw,YILMAZ Ozge (TUR),ASHTARI Mahshid (IRI)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,KULAKCEKEN Simay,ANSARI Aisha,3,0,"11,11,11|6,6,2",,OTHER,WT,848,Main Draw,ANSARI Aisha (PAK),KULAKCEKEN Simay (TUR)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,ASHTARI Mahshid,WANG Miao,3,2,"11,10,6,11,11|7,12,11,9,7",,OTHER,WT,848,Main Draw,ASHTARI Mahshid (IRI),WANG Miao (AZE)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,ASHTARI Mahshid,CHEN Xingtai,3,0,"11,11,11|6,7,4",,OTHER,WT,848,Main Draw,ASHTARI Mahshid (IRI),CHEN Xingtai (AZE)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,AL-ABBAD Abdulaziz,RAMEEZ Muhammad,3,0,"11,11,11|1,8,2",,OTHER,MT,848,Main Draw,AL-ABBAD Abdulaziz (KSA),RAMEEZ Muhammad (PAK)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,ALKHADRAWI Ali,QURESHI Asim,3,1,"11,11,10,11|6,2,12,5",,OTHER,MT,848,Main Draw,ALKHADRAWI Ali (KSA),QURESHI Asim (PAK)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,GUNDUZ Ibrahim,BRYAN Nigel,3,0,"11,11,11|7,7,2",,OTHER,MT,848,Main Draw,GUNDUZ Ibrahim (TUR),BRYAN Nigel (GUY)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,LI Ahmet,FRANKLIN Christopher,3,0,"11,11,11|6,4,5",,OTHER,MT,848,Main Draw,LI Ahmet (TUR),FRANKLIN Christopher (GUY)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,GUNDUZ Ibrahim,YANG Xinyu,3,2,"8,17,11,8,11|11,15,5,11,9",,OTHER,MT,848,Main Draw,GUNDUZ Ibrahim (TUR),YANG Xinyu (AZE)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,ALAMIYAN Noshad,ALKHADRAWI Ali,3,0,"11,11,11|2,7,4",,OTHER,MT,848,Main Draw,ALAMIYAN Noshad (IRI),ALKHADRAWI Ali (KSA)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,ALAMIAN Nima,AL-ABBAD Abdulaziz,3,0,"11,11,11|8,5,5",,OTHER,MT,848,Main Draw,ALAMIAN Nima (IRI),AL-ABBAD Abdulaziz (KSA)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,YANG Xinyu,ALKHADRAWI Ali,3,1,"9,11,11,11|11,7,6,8",,OTHER,MT,848,Main Draw,YANG Xinyu (AZE),ALKHADRAWI Ali (KSA)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,YANG Xinyu,BU SHULAYBI Abdulaziz,3,0,"11,11,11|4,9,9",,OTHER,MT,848,Main Draw,YANG Xinyu (AZE),BU SHULAYBI Abdulaziz (KSA)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,ALAMIAN Nima,GUNDUZ Ibrahim,3,1,"8,11,11,11|11,5,4,4",,OTHER,MT,848,Main Draw,ALAMIAN Nima (IRI),GUNDUZ Ibrahim (TUR)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,LI Ahmet,ALAMIYAN Noshad,3,1,"13,12,13,11|15,10,11,5",,OTHER,MT,848,Main Draw,ALAMIYAN Noshad (IRI),LI Ahmet (TUR)
-4th Islamic Solidarity Games Baku 2017,2017-05-17,ALAMIYAN Noshad,MENGE Gencay,3,1,"7,11,11,17|11,7,6,15",,OTHER,MT,848,Main Draw,ALAMIYAN Noshad (IRI),MENGE Gencay (TUR)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+4th Islamic Solidarity Games Baku 2017,2017-05-17,EDGHILL Chelsea,AKADIRI Ziadath,4,0,"11,11,11,11|8,8,7,3",R32,OTHER,WS,848,Main Draw,AKADIRI Ziadath (BEN),EDGHILL Chelsea (GUY),EDGHILL Chelsea
+4th Islamic Solidarity Games Baku 2017,2017-05-17,SHAREEF Aminath,DRAME Akissi,4,0,"11,11,11,11|5,6,3,9",R32,OTHER,WS,848,Main Draw,DRAME Akissi (CIV),SHAREEF Aminath (MDV),SHAREEF Aminath
+4th Islamic Solidarity Games Baku 2017,2017-05-17,HU Melek,EDGHILL Chelsea,4,0,"11,11,11,11|1,2,5,4",R16,OTHER,WS,848,Main Draw,HU Melek (TUR),EDGHILL Chelsea (GUY),HU Melek
+4th Islamic Solidarity Games Baku 2017,2017-05-17,KASHIF Rahila,KOUADIO Lisette,4,0,"11,11,11,11|4,4,4,5",R16,OTHER,WS,848,Main Draw,KASHIF Rahila (PAK),KOUADIO Lisette (CIV),KASHIF Rahila
+4th Islamic Solidarity Games Baku 2017,2017-05-17,SAMET Maryam,NAZMI Aziza,4,0,"11,11,11,11|0,1,2,3",R16,OTHER,WS,848,Main Draw,SAMET Maryam (IRI),NAZMI Aziza (KSA),SAMET Maryam
+4th Islamic Solidarity Games Baku 2017,2017-05-17,WANG Miao,MENAWI Ahd,4,0,"11,11,11,11|1,1,1,5",R16,OTHER,WS,848,Main Draw,MENAWI Ahd (PLE),WANG Miao (AZE),WANG Miao
+4th Islamic Solidarity Games Baku 2017,2017-05-17,SHAHSAVARI Neda,LOWE Trenace,4,0,"11,11,11,11|8,8,5,7",R16,OTHER,WS,848,Main Draw,SHAHSAVARI Neda (IRI),LOWE Trenace (GUY),SHAHSAVARI Neda
+4th Islamic Solidarity Games Baku 2017,2017-05-17,YILMAZ Ozge,BILAL Shabnam,4,0,"12,12,11,11|10,10,5,6",R16,OTHER,WS,848,Main Draw,BILAL Shabnam (PAK),YILMAZ Ozge (TUR),YILMAZ Ozge
+4th Islamic Solidarity Games Baku 2017,2017-05-17,ASSI Diana,ALSOWAYIGH Mayson,4,1,"8,11,11,12,11|11,9,4,10,7",R16,OTHER,WS,848,Main Draw,ASSI Diana (PLE),ALSOWAYIGH Mayson (KSA),ASSI Diana
+4th Islamic Solidarity Games Baku 2017,2017-05-17,NING Jing,SHAREEF Aminath,4,0,"11,11,11,11|2,2,2,4",R16,OTHER,WS,848,Main Draw,SHAREEF Aminath (MDV),NING Jing (AZE),NING Jing
+4th Islamic Solidarity Games Baku 2017,2017-05-17,HU Melek,KASHIF Rahila,4,0,"11,11,11,11|1,5,8,4",QF,OTHER,WS,848,Main Draw,HU Melek (TUR),KASHIF Rahila (PAK),HU Melek
+4th Islamic Solidarity Games Baku 2017,2017-05-17,WANG Miao,SAMET Maryam,4,0,"11,11,11,11|9,9,8,5",QF,OTHER,WS,848,Main Draw,SAMET Maryam (IRI),WANG Miao (AZE),WANG Miao
+4th Islamic Solidarity Games Baku 2017,2017-05-17,SHAHSAVARI Neda,YILMAZ Ozge,4,0,"11,11,11,11|5,7,3,9",QF,OTHER,WS,848,Main Draw,SHAHSAVARI Neda (IRI),YILMAZ Ozge (TUR),SHAHSAVARI Neda
+4th Islamic Solidarity Games Baku 2017,2017-05-17,NING Jing,ASSI Diana,4,0,"11,11,11,11|3,1,1,1",QF,OTHER,WS,848,Main Draw,ASSI Diana (PLE),NING Jing (AZE),NING Jing
+4th Islamic Solidarity Games Baku 2017,2017-05-17,HU Melek,WANG Miao,4,1,"11,11,9,11,14|1,7,11,6,12",SF,OTHER,WS,848,Main Draw,HU Melek (TUR),WANG Miao (AZE),HU Melek
+4th Islamic Solidarity Games Baku 2017,2017-05-17,NING Jing,SHAHSAVARI Neda,4,1,"11,12,9,11,11|5,10,11,4,3",SF,OTHER,WS,848,Main Draw,SHAHSAVARI Neda (IRI),NING Jing (AZE),NING Jing
+4th Islamic Solidarity Games Baku 2017,2017-05-17,WANG Miao,SHAHSAVARI Neda,4,1,"13,11,8,11,19|11,3,11,7,17",3RD,OTHER,WS,848,Main Draw,WANG Miao (AZE),SHAHSAVARI Neda (IRI),WANG Miao
+4th Islamic Solidarity Games Baku 2017,2017-05-17,HU Melek,NING Jing,4,0,"13,11,12,11|11,4,10,4",F,OTHER,WS,848,Main Draw,HU Melek (TUR),NING Jing (AZE),HU Melek
+4th Islamic Solidarity Games Baku 2017,2017-05-17,OMOTAYO Olajide,HOUDJI Zinsou,4,0,"11,11,11,11|4,7,3,5",R32,OTHER,MS,848,Main Draw,OMOTAYO Olajide (NGR),HOUDJI Zinsou (CIV),OMOTAYO Olajide
+4th Islamic Solidarity Games Baku 2017,2017-05-17,ULUCAK Batuhan,BRYAN Nigel,4,0,"11,11,11,11|8,5,3,2",R32,OTHER,MS,848,Main Draw,BRYAN Nigel (GUY),ULUCAK Batuhan (TUR),ULUCAK Batuhan
+4th Islamic Solidarity Games Baku 2017,2017-05-17,AGBETOGLO Mawussi,QURESHI Asim,4,0,"11,11,13,11|2,7,11,8",R32,OTHER,MS,848,Main Draw,AGBETOGLO Mawussi (TOG),QURESHI Asim (PAK),AGBETOGLO Mawussi
+4th Islamic Solidarity Games Baku 2017,2017-05-17,AKAKPO Kossi,NASEEM Mohamed,4,3,"9,7,6,14,11|11,11,11,12,6",R32,OTHER,MS,848,Main Draw,AKAKPO Kossi (TOG),NASEEM Mohamed (MDV),AKAKPO Kossi
+4th Islamic Solidarity Games Baku 2017,2017-05-17,RAMEEZ Muhammad,FRANKLIN Christopher,4,0,"11,11,11,12|8,6,8,10",R32,OTHER,MS,848,Main Draw,FRANKLIN Christopher (GUY),RAMEEZ Muhammad (PAK),RAMEEZ Muhammad
+4th Islamic Solidarity Games Baku 2017,2017-05-17,LI Ping,ALBALOOSHI Abdulla,4,0,"11,11,11,11|5,6,8,2",R16,OTHER,MS,848,Main Draw,LI Ping (QAT),ALBALOOSHI Abdulla (UAE),LI Ping
+4th Islamic Solidarity Games Baku 2017,2017-05-17,OMOTAYO Olajide,AL-ABBAD Abdulaziz,4,0,"11,11,11,11|9,8,9,5",R16,OTHER,MS,848,Main Draw,OMOTAYO Olajide (NGR),AL-ABBAD Abdulaziz (KSA),OMOTAYO Olajide
+4th Islamic Solidarity Games Baku 2017,2017-05-17,ULUCAK Batuhan,YANG Xinyu,4,3,"15,12,7,6,12|13,10,11,11,10",R16,OTHER,MS,848,Main Draw,YANG Xinyu (AZE),ULUCAK Batuhan (TUR),ULUCAK Batuhan
+4th Islamic Solidarity Games Baku 2017,2017-05-17,ALAMIAN Nima,AGBETOGLO Mawussi,4,0,"12,11,11,11|10,7,4,6",R16,OTHER,MS,848,Main Draw,AGBETOGLO Mawussi (TOG),ALAMIAN Nima (IRI),ALAMIAN Nima
+4th Islamic Solidarity Games Baku 2017,2017-05-17,LI Ahmet,OBA Oba Kizito,4,0,"11,11,11,11|2,4,5,6",R16,OTHER,MS,848,Main Draw,LI Ahmet (TUR),OBA Oba Kizito (CIV),LI Ahmet
+4th Islamic Solidarity Games Baku 2017,2017-05-17,ALKHADRAWI Ali,AKAKPO Kossi,4,0,"11,11,11,11|4,1,5,7",R16,OTHER,MS,848,Main Draw,AKAKPO Kossi (TOG),ALKHADRAWI Ali (KSA),ALKHADRAWI Ali
+4th Islamic Solidarity Games Baku 2017,2017-05-17,ALAMIYAN Noshad,RAMEEZ Muhammad,4,0,"11,11,11,11|5,5,4,7",R16,OTHER,MS,848,Main Draw,RAMEEZ Muhammad (PAK),ALAMIYAN Noshad (IRI),ALAMIYAN Noshad
+4th Islamic Solidarity Games Baku 2017,2017-05-17,LI Ping,OMOTAYO Olajide,4,1,"11,8,11,11,11|5,11,6,8,9",QF,OTHER,MS,848,Main Draw,LI Ping (QAT),OMOTAYO Olajide (NGR),LI Ping
+4th Islamic Solidarity Games Baku 2017,2017-05-17,ALAMIAN Nima,ULUCAK Batuhan,4,0,"11,11,11,11|1,7,1,5",QF,OTHER,MS,848,Main Draw,ULUCAK Batuhan (TUR),ALAMIAN Nima (IRI),ALAMIAN Nima
+4th Islamic Solidarity Games Baku 2017,2017-05-17,LI Ahmet,ALKHADRAWI Ali,4,1,"11,11,11,9,11|4,2,7,11,7",QF,OTHER,MS,848,Main Draw,LI Ahmet (TUR),ALKHADRAWI Ali (KSA),LI Ahmet
+4th Islamic Solidarity Games Baku 2017,2017-05-17,ALAMIAN Nima,LI Ping,4,3,"11,8,11,9,6|7,11,7,11,11",SF,OTHER,MS,848,Main Draw,LI Ping (QAT),ALAMIAN Nima (IRI),ALAMIAN Nima
+4th Islamic Solidarity Games Baku 2017,2017-05-17,ALAMIYAN Noshad,LI Ahmet,4,0,"11,11,11,11|9,4,8,7",SF,OTHER,MS,848,Main Draw,LI Ahmet (TUR),ALAMIYAN Noshad (IRI),ALAMIYAN Noshad
+4th Islamic Solidarity Games Baku 2017,2017-05-17,LI Ping,LI Ahmet,4,1,"11,11,8,11,11|7,6,11,2,7",3RD,OTHER,MS,848,Main Draw,LI Ping (QAT),LI Ahmet (TUR),LI Ping
+4th Islamic Solidarity Games Baku 2017,2017-05-17,ALAMIYAN Noshad,ALAMIAN Nima,4,3,"13,7,11,8,12|11,11,7,11,10",F,OTHER,MS,848,Main Draw,ALAMIAN Nima (IRI),ALAMIYAN Noshad (IRI),ALAMIYAN Noshad
+4th Islamic Solidarity Games Baku 2017,2017-05-17,SHAHSAVARI Neda,CUMMINGS Natalie,3,2,"9,11,10,11,13|11,9,12,3,11",,OTHER,WT,848,Main Draw,SHAHSAVARI Neda (IRI),CUMMINGS Natalie (GUY),SHAHSAVARI Neda
+4th Islamic Solidarity Games Baku 2017,2017-05-17,ASHTARI Mahshid,EDGHILL Chelsea,3,0,"11,11,11|5,4,1",,OTHER,WT,848,Main Draw,ASHTARI Mahshid (IRI),EDGHILL Chelsea (GUY),ASHTARI Mahshid
+4th Islamic Solidarity Games Baku 2017,2017-05-17,CHEN Xingtai,KASHIF Rahila,3,0,"11,11,11|4,4,6",,OTHER,WT,848,Main Draw,CHEN Xingtai (AZE),KASHIF Rahila (PAK),CHEN Xingtai
+4th Islamic Solidarity Games Baku 2017,2017-05-17,WANG Miao,BILAL Shabnam,3,0,"11,11,11|2,4,1",,OTHER,WT,848,Main Draw,WANG Miao (AZE),BILAL Shabnam (PAK),WANG Miao
+4th Islamic Solidarity Games Baku 2017,2017-05-17,HU Melek,ASHTARI Mahshid,3,1,"9,11,11,11|11,3,3,8",,OTHER,WT,848,Main Draw,HU Melek (TUR),ASHTARI Mahshid (IRI),HU Melek
+4th Islamic Solidarity Games Baku 2017,2017-05-17,SHAHSAVARI Neda,KULAKCEKEN Simay,3,2,"11,11,11,10,11|9,13,4,12,8",,OTHER,WT,848,Main Draw,KULAKCEKEN Simay (TUR),SHAHSAVARI Neda (IRI),SHAHSAVARI Neda
+4th Islamic Solidarity Games Baku 2017,2017-05-17,HU Melek,SAMET Maryam,3,0,"11,11,11|2,6,6",,OTHER,WT,848,Main Draw,HU Melek (TUR),SAMET Maryam (IRI),HU Melek
+4th Islamic Solidarity Games Baku 2017,2017-05-17,ASHTARI Mahshid,YILMAZ Ozge,3,1,"7,11,11,11|11,6,8,7",,OTHER,WT,848,Main Draw,YILMAZ Ozge (TUR),ASHTARI Mahshid (IRI),ASHTARI Mahshid
+4th Islamic Solidarity Games Baku 2017,2017-05-17,KULAKCEKEN Simay,ANSARI Aisha,3,0,"11,11,11|6,6,2",,OTHER,WT,848,Main Draw,ANSARI Aisha (PAK),KULAKCEKEN Simay (TUR),KULAKCEKEN Simay
+4th Islamic Solidarity Games Baku 2017,2017-05-17,ASHTARI Mahshid,WANG Miao,3,2,"11,10,6,11,11|7,12,11,9,7",,OTHER,WT,848,Main Draw,ASHTARI Mahshid (IRI),WANG Miao (AZE),ASHTARI Mahshid
+4th Islamic Solidarity Games Baku 2017,2017-05-17,ASHTARI Mahshid,CHEN Xingtai,3,0,"11,11,11|6,7,4",,OTHER,WT,848,Main Draw,ASHTARI Mahshid (IRI),CHEN Xingtai (AZE),ASHTARI Mahshid
+4th Islamic Solidarity Games Baku 2017,2017-05-17,AL-ABBAD Abdulaziz,RAMEEZ Muhammad,3,0,"11,11,11|1,8,2",,OTHER,MT,848,Main Draw,AL-ABBAD Abdulaziz (KSA),RAMEEZ Muhammad (PAK),AL-ABBAD Abdulaziz
+4th Islamic Solidarity Games Baku 2017,2017-05-17,ALKHADRAWI Ali,QURESHI Asim,3,1,"11,11,10,11|6,2,12,5",,OTHER,MT,848,Main Draw,ALKHADRAWI Ali (KSA),QURESHI Asim (PAK),ALKHADRAWI Ali
+4th Islamic Solidarity Games Baku 2017,2017-05-17,GUNDUZ Ibrahim,BRYAN Nigel,3,0,"11,11,11|7,7,2",,OTHER,MT,848,Main Draw,GUNDUZ Ibrahim (TUR),BRYAN Nigel (GUY),GUNDUZ Ibrahim
+4th Islamic Solidarity Games Baku 2017,2017-05-17,LI Ahmet,FRANKLIN Christopher,3,0,"11,11,11|6,4,5",,OTHER,MT,848,Main Draw,LI Ahmet (TUR),FRANKLIN Christopher (GUY),LI Ahmet
+4th Islamic Solidarity Games Baku 2017,2017-05-17,GUNDUZ Ibrahim,YANG Xinyu,3,2,"8,17,11,8,11|11,15,5,11,9",,OTHER,MT,848,Main Draw,GUNDUZ Ibrahim (TUR),YANG Xinyu (AZE),GUNDUZ Ibrahim
+4th Islamic Solidarity Games Baku 2017,2017-05-17,ALAMIYAN Noshad,ALKHADRAWI Ali,3,0,"11,11,11|2,7,4",,OTHER,MT,848,Main Draw,ALAMIYAN Noshad (IRI),ALKHADRAWI Ali (KSA),ALAMIYAN Noshad
+4th Islamic Solidarity Games Baku 2017,2017-05-17,ALAMIAN Nima,AL-ABBAD Abdulaziz,3,0,"11,11,11|8,5,5",,OTHER,MT,848,Main Draw,ALAMIAN Nima (IRI),AL-ABBAD Abdulaziz (KSA),ALAMIAN Nima
+4th Islamic Solidarity Games Baku 2017,2017-05-17,YANG Xinyu,ALKHADRAWI Ali,3,1,"9,11,11,11|11,7,6,8",,OTHER,MT,848,Main Draw,YANG Xinyu (AZE),ALKHADRAWI Ali (KSA),YANG Xinyu
+4th Islamic Solidarity Games Baku 2017,2017-05-17,YANG Xinyu,BU SHULAYBI Abdulaziz,3,0,"11,11,11|4,9,9",,OTHER,MT,848,Main Draw,YANG Xinyu (AZE),BU SHULAYBI Abdulaziz (KSA),YANG Xinyu
+4th Islamic Solidarity Games Baku 2017,2017-05-17,ALAMIAN Nima,GUNDUZ Ibrahim,3,1,"8,11,11,11|11,5,4,4",,OTHER,MT,848,Main Draw,ALAMIAN Nima (IRI),GUNDUZ Ibrahim (TUR),ALAMIAN Nima
+4th Islamic Solidarity Games Baku 2017,2017-05-17,LI Ahmet,ALAMIYAN Noshad,3,1,"13,12,13,11|15,10,11,5",,OTHER,MT,848,Main Draw,ALAMIYAN Noshad (IRI),LI Ahmet (TUR),LI Ahmet
+4th Islamic Solidarity Games Baku 2017,2017-05-17,ALAMIYAN Noshad,MENGE Gencay,3,1,"7,11,11,17|11,7,6,15",,OTHER,MT,848,Main Draw,ALAMIYAN Noshad (IRI),MENGE Gencay (TUR),ALAMIYAN Noshad

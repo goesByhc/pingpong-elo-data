@@ -1,213 +1,213 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-China Open Wuxi 2004,2004-09-09,WANG Liqin,HWANG Sunghoon,4,0,"11,11,11,12|2,7,3,10",R32,GRAND_SLAM,MS,1700,Main Draw,WANG Liqin (CHN),HWANG Sunghoon (KOR)
-China Open Wuxi 2004,2004-09-09,YAN Sen,GERELL Par,4,3,"11,10,12,11,8,11,11|5,12,14,7,11,3,7",R32,GRAND_SLAM,MS,1700,Main Draw,YAN Sen (CHN),GERELL Par (SWE)
-China Open Wuxi 2004,2004-09-09,AXELQVIST Johan,CHILA Patrick,4,2,"11,6,4,11,11,11|6,11,11,6,8,6",R32,GRAND_SLAM,MS,1700,Main Draw,AXELQVIST Johan (SWE),CHILA Patrick (FRA)
-China Open Wuxi 2004,2004-09-09,LEUNG Chu Yan,KIM Taehoon,4,2,"11,10,11,6,11,11|5,12,8,11,9,7",R32,GRAND_SLAM,MS,1700,Main Draw,LEUNG Chu Yan (HKG),KIM Taehoon (KOR)
-China Open Wuxi 2004,2004-09-09,KARLSSON Peter,YOSHIDA Kaii,4,3,"16,11,2,11,7,8,11|14,1,11,7,11,11,4",R32,GRAND_SLAM,MS,1700,Main Draw,KARLSSON Peter (SWE),YOSHIDA Kaii (JPN)
-China Open Wuxi 2004,2004-09-09,YANG Zi,KIM Gunhwan,4,3,"16,11,10,12,9,12,12|14,6,12,14,11,10,10",R32,GRAND_SLAM,MS,1700,Main Draw,YANG Zi (SGP),KIM Gunhwan (KOR)
-China Open Wuxi 2004,2004-09-09,LIM Jaehyun,HAKANSSON Fredrik,4,3,"12,11,8,6,6,12,11|10,9,11,11,11,10,5",R32,GRAND_SLAM,MS,1700,Main Draw,LIM Jaehyun (KOR),HAKANSSON Fredrik (SWE)
-China Open Wuxi 2004,2004-09-09,MA Lin,KIHO Shinnosuke,4,1,"12,11,11,8,11|10,4,7,11,8",R32,GRAND_SLAM,MS,1700,Main Draw,MA Lin (CHN),KIHO Shinnosuke (JPN)
-China Open Wuxi 2004,2004-09-09,CHEN Qi,LEE Jungsam,4,1,"11,11,11,9,13|8,3,3,11,11",R32,GRAND_SLAM,MS,1700,Main Draw,CHEN Qi (CHN),LEE Jungsam (KOR)
-China Open Wuxi 2004,2004-09-09,CHEUNG Yuk,LO Dany,4,1,"12,10,11,11,11|10,12,4,6,4",R32,GRAND_SLAM,MS,1700,Main Draw,CHEUNG Yuk (HKG),LO Dany (FRA)
-China Open Wuxi 2004,2004-09-09,O Il,TAKAKIWA Taku,4,3,"11,11,11,8,7,5,11|4,9,3,11,11,11,5",R32,GRAND_SLAM,MS,1700,Main Draw,O Il (PRK),TAKAKIWA Taku (JPN)
-China Open Wuxi 2004,2004-09-09,KONG Linghui,OMORI Takahiro,4,0,"11,11,11,11|6,2,6,8",R32,GRAND_SLAM,MS,1700,Main Draw,KONG Linghui (CHN),OMORI Takahiro (JPN)
-China Open Wuxi 2004,2004-09-09,SMIRNOV Alexey,LAI Kuan-Shen,4,1,"11,9,11,14,11|9,11,4,12,6",R32,GRAND_SLAM,MS,1700,Main Draw,SMIRNOV Alexey (RUS),LAI Kuan-Shen (TPE)
-China Open Wuxi 2004,2004-09-09,PAK Won Chol,ASAMOAH Cyprian,4,2,"9,10,11,11,11,13|11,12,9,7,6,11",R32,GRAND_SLAM,MS,1700,Main Draw,PAK Won Chol (PRK),ASAMOAH Cyprian (SWE)
-China Open Wuxi 2004,2004-09-09,YOSHITOMI Eigo,CHOU Tung-Yu,4,2,"11,7,11,11,10,12|8,11,6,9,12,10",R32,GRAND_SLAM,MS,1700,Main Draw,YOSHITOMI Eigo (JPN),CHOU Tung-Yu (TPE)
-China Open Wuxi 2004,2004-09-09,WANG Hao,KIM Song Chol,4,0,"11,11,11,12|8,7,6,10",R32,GRAND_SLAM,MS,1700,Main Draw,WANG Hao (CHN),KIM Song Chol (PRK)
-China Open Wuxi 2004,2004-09-09,WANG Liqin,YAN Sen,4,0,"11,11,11,11|6,3,9,4",R16,GRAND_SLAM,MS,1700,Main Draw,WANG Liqin (CHN),YAN Sen (CHN)
-China Open Wuxi 2004,2004-09-09,LEUNG Chu Yan,AXELQVIST Johan,4,1,"11,11,11,11,12|13,8,6,9,10",R16,GRAND_SLAM,MS,1700,Main Draw,LEUNG Chu Yan (HKG),AXELQVIST Johan (SWE)
-China Open Wuxi 2004,2004-09-09,KARLSSON Peter,YANG Zi,4,1,"7,11,11,11,11|11,5,9,8,7",R16,GRAND_SLAM,MS,1700,Main Draw,KARLSSON Peter (SWE),YANG Zi (SGP)
-China Open Wuxi 2004,2004-09-09,MA Lin,LIM Jaehyun,4,0,"11,11,11,11|6,8,7,8",R16,GRAND_SLAM,MS,1700,Main Draw,MA Lin (CHN),LIM Jaehyun (KOR)
-China Open Wuxi 2004,2004-09-09,CHEN Qi,CHEUNG Yuk,4,1,"11,6,11,11,13|6,11,7,8,11",R16,GRAND_SLAM,MS,1700,Main Draw,CHEN Qi (CHN),CHEUNG Yuk (HKG)
-China Open Wuxi 2004,2004-09-09,KONG Linghui,O Il,4,0,"11,11,11,11|9,4,5,2",R16,GRAND_SLAM,MS,1700,Main Draw,KONG Linghui (CHN),O Il (PRK)
-China Open Wuxi 2004,2004-09-09,SMIRNOV Alexey,PAK Won Chol,4,3,"11,6,9,11,11,6,12|5,11,11,6,8,11,10",R16,GRAND_SLAM,MS,1700,Main Draw,SMIRNOV Alexey (RUS),PAK Won Chol (PRK)
-China Open Wuxi 2004,2004-09-09,WANG Hao,YOSHITOMI Eigo,4,1,"11,11,4,11,14|3,4,11,9,12",R16,GRAND_SLAM,MS,1700,Main Draw,WANG Hao (CHN),YOSHITOMI Eigo (JPN)
-China Open Wuxi 2004,2004-09-09,WANG Liqin,LEUNG Chu Yan,4,0,"14,11,11,11|12,8,9,3",QF,GRAND_SLAM,MS,1700,Main Draw,WANG Liqin (CHN),LEUNG Chu Yan (HKG)
-China Open Wuxi 2004,2004-09-09,MA Lin,KARLSSON Peter,4,0,"11,11,11,11|7,3,6,4",QF,GRAND_SLAM,MS,1700,Main Draw,MA Lin (CHN),KARLSSON Peter (SWE)
-China Open Wuxi 2004,2004-09-09,CHEN Qi,KONG Linghui,4,3,"9,6,11,11,13,13,12|11,11,8,13,11,11,10",QF,GRAND_SLAM,MS,1700,Main Draw,CHEN Qi (CHN),KONG Linghui (CHN)
-China Open Wuxi 2004,2004-09-09,WANG Hao,SMIRNOV Alexey,4,1,"12,10,11,11,11|10,12,2,3,8",QF,GRAND_SLAM,MS,1700,Main Draw,WANG Hao (CHN),SMIRNOV Alexey (RUS)
-China Open Wuxi 2004,2004-09-09,MA Lin,WANG Liqin,4,1,"10,11,11,11,12|12,8,4,6,10",SF,GRAND_SLAM,MS,1700,Main Draw,MA Lin (CHN),WANG Liqin (CHN)
-China Open Wuxi 2004,2004-09-09,WANG Hao,CHEN Qi,4,3,"5,11,9,11,11,6,11|11,3,11,8,5,11,7",SF,GRAND_SLAM,MS,1700,Main Draw,WANG Hao (CHN),CHEN Qi (CHN)
-China Open Wuxi 2004,2004-09-09,MA Lin,WANG Hao,4,2,"11,8,11,11,10,11|8,11,6,8,12,3",F,GRAND_SLAM,MS,1700,Main Draw,MA Lin (CHN),WANG Hao (CHN)
-China Open Wuxi 2004,2004-09-09,CHOU Tung-Yu,KIHO Shinnosuke,4,3,"7,11,6,11,11,9,11|11,9,11,9,6,11,7",3,GRAND_SLAM,MS,1700,Qualification,CHOU Tung-Yu (TPE),KIHO Shinnosuke (JPN)
-China Open Wuxi 2004,2004-09-09,OMORI Takahiro,HUANG Wei-Chin,4,0,"11,11,11,11|9,9,4,3",,GRAND_SLAM,MS,1700,Qualification,OMORI Takahiro (JPN),HUANG Wei-Chin (TPE)
-China Open Wuxi 2004,2004-09-09,GERELL Par,HUANG Wei-Chin,4,0,"11,11,11,11|6,5,6,9",QR2,GRAND_SLAM,MS,1700,Qualification,GERELL Par (SWE),HUANG Wei-Chin (TPE)
-China Open Wuxi 2004,2004-09-09,GERELL Par,OMORI Takahiro,4,3,"11,6,11,7,11,10,11|5,11,8,11,5,12,9",3,GRAND_SLAM,MS,1700,Qualification,GERELL Par (SWE),OMORI Takahiro (JPN)
-China Open Wuxi 2004,2004-09-09,LIM Jaehyun,LAI Kuan-Shen,4,0,"11,16,11,11|9,14,8,1",QR2,GRAND_SLAM,MS,1700,Qualification,LIM Jaehyun (KOR),LAI Kuan-Shen (TPE)
-China Open Wuxi 2004,2004-09-09,YANG Zi,CHUAN Che-Wei,4,0,"11,11,11,11|4,4,8,9",,GRAND_SLAM,MS,1700,Qualification,YANG Zi (SGP),CHUAN Che-Wei (TPE)
-China Open Wuxi 2004,2004-09-09,YOSHIDA Kaii,BERTIN Christophe,4,3,"9,10,11,11,11,8,11|11,12,8,7,7,11,5",QR2,GRAND_SLAM,MS,1700,Qualification,YOSHIDA Kaii (JPN),BERTIN Christophe (FRA)
-China Open Wuxi 2004,2004-09-09,YANG Zi,YOSHIDA Kaii,4,0,"11,11,11,11|4,2,6,6",3,GRAND_SLAM,MS,1700,Qualification,YANG Zi (SGP),YOSHIDA Kaii (JPN)
-China Open Wuxi 2004,2004-09-09,BERTIN Christophe,CHUAN Che-Wei,4,2,"10,11,11,8,13,11|12,6,7,11,11,9",QR4,GRAND_SLAM,MS,1700,Qualification,BERTIN Christophe (FRA),CHUAN Che-Wei (TPE)
-China Open Wuxi 2004,2004-09-09,YANG Zi,BERTIN Christophe,4,1,"11,7,11,11,11|5,11,9,6,4",5,GRAND_SLAM,MS,1700,Qualification,YANG Zi (SGP),BERTIN Christophe (FRA)
-China Open Wuxi 2004,2004-09-09,YOSHIDA Kaii,CHUAN Che-Wei,4,0,"11,11,11,11|3,6,5,7",6,GRAND_SLAM,MS,1700,Qualification,YOSHIDA Kaii (JPN),CHUAN Che-Wei (TPE)
-China Open Wuxi 2004,2004-09-09,KIM Taehoon,VIPAWATANAKUL Tanawat,4,0,"11,11,11,11|3,7,5,4",,GRAND_SLAM,MS,1700,Qualification,KIM Taehoon (KOR),VIPAWATANAKUL Tanawat (THA)
-China Open Wuxi 2004,2004-09-09,TAKAKIWA Taku,SUN Wen-Wei,4,0,"11,11,11,11|8,6,4,4",QR2,GRAND_SLAM,MS,1700,Qualification,TAKAKIWA Taku (JPN),SUN Wen-Wei (TPE)
-China Open Wuxi 2004,2004-09-09,KIM Taehoon,SUN Wen-Wei,4,0,"11,11,14,13|9,5,12,11",3,GRAND_SLAM,MS,1700,Qualification,KIM Taehoon (KOR),SUN Wen-Wei (TPE)
-China Open Wuxi 2004,2004-09-09,TAKAKIWA Taku,VIPAWATANAKUL Tanawat,4,0,"11,11,11,11|4,2,5,4",QR4,GRAND_SLAM,MS,1700,Qualification,TAKAKIWA Taku (JPN),VIPAWATANAKUL Tanawat (THA)
-China Open Wuxi 2004,2004-09-09,TAKAKIWA Taku,KIM Taehoon,4,3,"3,9,11,7,11,11,11|11,11,9,11,2,7,4",5,GRAND_SLAM,MS,1700,Qualification,TAKAKIWA Taku (JPN),KIM Taehoon (KOR)
-China Open Wuxi 2004,2004-09-09,SUN Wen-Wei,VIPAWATANAKUL Tanawat,4,1,"11,11,11,6,11|8,4,9,11,7",6,GRAND_SLAM,MS,1700,Qualification,SUN Wen-Wei (TPE),VIPAWATANAKUL Tanawat (THA)
-China Open Wuxi 2004,2004-09-09,ASAMOAH Cyprian,TAKAKIWA Kenichi,4,2,"11,12,2,17,6,11|9,10,11,15,11,7",,GRAND_SLAM,MS,1700,Qualification,ASAMOAH Cyprian (SWE),TAKAKIWA Kenichi (JPN)
-China Open Wuxi 2004,2004-09-09,LEE Jungsam,TSE Ka Chun,4,2,"11,11,11,6,6,11|2,8,8,11,11,6",QR2,GRAND_SLAM,MS,1700,Qualification,LEE Jungsam (KOR),TSE Ka Chun (HKG)
-China Open Wuxi 2004,2004-09-09,ASAMOAH Cyprian,TSE Ka Chun,4,1,"11,11,11,9,11|6,5,4,11,8",3,GRAND_SLAM,MS,1700,Qualification,ASAMOAH Cyprian (SWE),TSE Ka Chun (HKG)
-China Open Wuxi 2004,2004-09-09,LEE Jungsam,TAKAKIWA Kenichi,4,3,"11,11,6,8,11,11,11|13,4,11,11,6,5,7",QR4,GRAND_SLAM,MS,1700,Qualification,LEE Jungsam (KOR),TAKAKIWA Kenichi (JPN)
-China Open Wuxi 2004,2004-09-09,ASAMOAH Cyprian,LEE Jungsam,4,1,"13,7,11,11,11|11,11,8,4,5",5,GRAND_SLAM,MS,1700,Qualification,ASAMOAH Cyprian (SWE),LEE Jungsam (KOR)
-China Open Wuxi 2004,2004-09-09,TAKAKIWA Kenichi,TSE Ka Chun,4,1,"11,11,9,11,11|9,9,11,6,8",6,GRAND_SLAM,MS,1700,Qualification,TAKAKIWA Kenichi (JPN),TSE Ka Chun (HKG)
-China Open Wuxi 2004,2004-09-09,HWANG Sunghoon,BOBILLIER Loic,4,0,"11,11,12,13|9,7,10,11",,GRAND_SLAM,MS,1700,Qualification,HWANG Sunghoon (KOR),BOBILLIER Loic (FRA)
-China Open Wuxi 2004,2004-09-09,AXELQVIST Johan,HUANG Sheng-Sheng,4,0,"11,11,11,14|5,9,7,12",QR2,GRAND_SLAM,MS,1700,Qualification,AXELQVIST Johan (SWE),HUANG Sheng-Sheng (TPE)
-China Open Wuxi 2004,2004-09-09,BOBILLIER Loic,HUANG Sheng-Sheng,4,2,"10,11,11,2,11,12|12,4,9,11,8,10",3,GRAND_SLAM,MS,1700,Qualification,BOBILLIER Loic (FRA),HUANG Sheng-Sheng (TPE)
-China Open Wuxi 2004,2004-09-09,AXELQVIST Johan,HWANG Sunghoon,4,3,"11,11,8,11,4,7,11|8,5,11,8,11,11,8",QR4,GRAND_SLAM,MS,1700,Qualification,AXELQVIST Johan (SWE),HWANG Sunghoon (KOR)
-China Open Wuxi 2004,2004-09-09,AXELQVIST Johan,BOBILLIER Loic,4,0,"11,11,11,11|7,8,4,9",5,GRAND_SLAM,MS,1700,Qualification,AXELQVIST Johan (SWE),BOBILLIER Loic (FRA)
-China Open Wuxi 2004,2004-09-09,HUANG Sheng-Sheng,HWANG Sunghoon,4,3,"11,7,14,11,9,7,11|8,11,12,5,11,11,8",6,GRAND_SLAM,MS,1700,Qualification,HUANG Sheng-Sheng (TPE),HWANG Sunghoon (KOR)
-China Open Wuxi 2004,2004-09-09,LO Dany,SANADA Koji,4,0,"11,12,12,11|7,10,10,7",,GRAND_SLAM,MS,1700,Qualification,LO Dany (FRA),SANADA Koji (JPN)
-China Open Wuxi 2004,2004-09-09,KIM Song Chol,VIPAWATANAKUL Sithichok,4,0,"11,14,12,11|5,12,10,4",QR2,GRAND_SLAM,MS,1700,Qualification,KIM Song Chol (PRK),VIPAWATANAKUL Sithichok (AUS)
-China Open Wuxi 2004,2004-09-09,LO Dany,VIPAWATANAKUL Sithichok,4,2,"11,6,11,9,11,13|7,11,4,11,6,11",3,GRAND_SLAM,MS,1700,Qualification,LO Dany (FRA),VIPAWATANAKUL Sithichok (AUS)
-China Open Wuxi 2004,2004-09-09,KIM Song Chol,SANADA Koji,4,1,"11,11,11,10,13|9,7,3,12,11",QR4,GRAND_SLAM,MS,1700,Qualification,KIM Song Chol (PRK),SANADA Koji (JPN)
-China Open Wuxi 2004,2004-09-09,LO Dany,KIM Song Chol,4,1,"8,12,11,11,11|11,10,7,8,5",5,GRAND_SLAM,MS,1700,Qualification,LO Dany (FRA),KIM Song Chol (PRK)
-China Open Wuxi 2004,2004-09-09,SANADA Koji,VIPAWATANAKUL Sithichok,4,0,"11,11,11,11|2,5,8,4",6,GRAND_SLAM,MS,1700,Qualification,SANADA Koji (JPN),VIPAWATANAKUL Sithichok (AUS)
-China Open Wuxi 2004,2004-09-09,TAKAKIWA Kenichi,LEE Jungsam,3,1,"11,11,6,11|5,9,11,8",,GRAND_SLAM,U21MS,1700,Qualification,TAKAKIWA Kenichi (JPN),LEE Jungsam (KOR)
-China Open Wuxi 2004,2004-09-09,CHUAN Che-Wei,VIPAWATANAKUL Sithichok,3,1,"9,11,11,11|11,7,7,7",QR2,GRAND_SLAM,U21MS,1700,Qualification,CHUAN Che-Wei (TPE),VIPAWATANAKUL Sithichok (AUS)
-China Open Wuxi 2004,2004-09-09,LEE Jungsam,VIPAWATANAKUL Sithichok,3,0,"11,13,11|8,11,7",3,GRAND_SLAM,U21MS,1700,Qualification,LEE Jungsam (KOR),VIPAWATANAKUL Sithichok (AUS)
-China Open Wuxi 2004,2004-09-09,TAKAKIWA Kenichi,CHUAN Che-Wei,3,0,"11,11,11|7,4,8",QR4,GRAND_SLAM,U21MS,1700,Qualification,TAKAKIWA Kenichi (JPN),CHUAN Che-Wei (TPE)
-China Open Wuxi 2004,2004-09-09,LEE Jungsam,CHUAN Che-Wei,3,0,"12,11,14|10,8,12",5,GRAND_SLAM,U21MS,1700,Qualification,LEE Jungsam (KOR),CHUAN Che-Wei (TPE)
-China Open Wuxi 2004,2004-09-09,TAKAKIWA Kenichi,VIPAWATANAKUL Sithichok,3,0,"11,11,12|7,5,10",6,GRAND_SLAM,U21MS,1700,Qualification,TAKAKIWA Kenichi (JPN),VIPAWATANAKUL Sithichok (AUS)
-China Open Wuxi 2004,2004-09-09,CHOU Tung-Yu,HUANG Sheng-Sheng,3,2,"11,11,11,6,11|7,7,13,11,7",,GRAND_SLAM,U21MS,1700,Qualification,CHOU Tung-Yu (TPE),HUANG Sheng-Sheng (TPE)
-China Open Wuxi 2004,2004-09-09,TSE Ka Chun,HUANG Sheng-Sheng,3,1,"9,14,11,11|11,12,9,8",QR2,GRAND_SLAM,U21MS,1700,Qualification,TSE Ka Chun (HKG),HUANG Sheng-Sheng (TPE)
-China Open Wuxi 2004,2004-09-09,TSE Ka Chun,CHOU Tung-Yu,3,1,"7,11,11,11|11,7,5,9",3,GRAND_SLAM,U21MS,1700,Qualification,TSE Ka Chun (HKG),CHOU Tung-Yu (TPE)
-China Open Wuxi 2004,2004-09-09,BERTIN Christophe,VIPAWATANAKUL Tanawat,3,0,"11,11,11|4,8,5",,GRAND_SLAM,U21MS,1700,Qualification,BERTIN Christophe (FRA),VIPAWATANAKUL Tanawat (THA)
-China Open Wuxi 2004,2004-09-09,LAI Kuan-Shen,VIPAWATANAKUL Tanawat,3,1,"11,7,11,11|7,11,7,5",QR2,GRAND_SLAM,U21MS,1700,Qualification,LAI Kuan-Shen (TPE),VIPAWATANAKUL Tanawat (THA)
-China Open Wuxi 2004,2004-09-09,BERTIN Christophe,LAI Kuan-Shen,3,2,"11,10,8,11,12|6,12,11,8,10",3,GRAND_SLAM,U21MS,1700,Qualification,BERTIN Christophe (FRA),LAI Kuan-Shen (TPE)
-China Open Wuxi 2004,2004-09-09,TAKAKIWA Taku,HWANG Sunghoon,3,0,"11,11,11|5,9,9",,GRAND_SLAM,U21MS,1700,Qualification,TAKAKIWA Taku (JPN),HWANG Sunghoon (KOR)
-China Open Wuxi 2004,2004-09-09,HWANG Sunghoon,HUANG Wei-Chin,3,1,"11,11,10,11|8,4,12,7",QR2,GRAND_SLAM,U21MS,1700,Qualification,HWANG Sunghoon (KOR),HUANG Wei-Chin (TPE)
-China Open Wuxi 2004,2004-09-09,TAKAKIWA Taku,HUANG Wei-Chin,3,1,"11,12,11,11|6,14,9,8",3,GRAND_SLAM,U21MS,1700,Qualification,TAKAKIWA Taku (JPN),HUANG Wei-Chin (TPE)
-China Open Wuxi 2004,2004-09-09,LIM Jaehyun,CHOU Tung-Yu,4,2,"5,11,11,5,11,11|11,5,5,11,8,9",R16,GRAND_SLAM,U21MS,1700,Main Draw,LIM Jaehyun (KOR),CHOU Tung-Yu (TPE)
-China Open Wuxi 2004,2004-09-09,LO Dany,TAKAKIWA Kenichi,4,2,"11,9,11,11,5,11|9,11,8,6,11,7",R16,GRAND_SLAM,U21MS,1700,Main Draw,LO Dany (FRA),TAKAKIWA Kenichi (JPN)
-China Open Wuxi 2004,2004-09-09,TAKAKIWA Taku,BOBILLIER Loic,4,2,"8,11,11,8,11,11|11,8,7,11,5,6",R16,GRAND_SLAM,U21MS,1700,Main Draw,TAKAKIWA Taku (JPN),BOBILLIER Loic (FRA)
-China Open Wuxi 2004,2004-09-09,ASAMOAH Cyprian,HWANG Sunghoon,4,3,"13,11,11,11,5,6,11|15,9,5,4,11,11,7",R16,GRAND_SLAM,U21MS,1700,Main Draw,ASAMOAH Cyprian (SWE),HWANG Sunghoon (KOR)
-China Open Wuxi 2004,2004-09-09,KIM Taehoon,LAI Kuan-Shen,4,1,"11,11,9,11,11|8,5,11,3,3",R16,GRAND_SLAM,U21MS,1700,Main Draw,KIM Taehoon (KOR),LAI Kuan-Shen (TPE)
-China Open Wuxi 2004,2004-09-09,KIM Song Chol,TSE Ka Chun,4,0,"11,11,11,12|4,7,7,10",R16,GRAND_SLAM,U21MS,1700,Main Draw,KIM Song Chol (PRK),TSE Ka Chun (HKG)
-China Open Wuxi 2004,2004-09-09,AXELQVIST Johan,BERTIN Christophe,4,3,"13,3,10,2,11,11,11|11,11,12,11,3,4,7",R16,GRAND_SLAM,U21MS,1700,Main Draw,AXELQVIST Johan (SWE),BERTIN Christophe (FRA)
-China Open Wuxi 2004,2004-09-09,YANG Zi,LEE Jungsam,4,2,"11,9,11,9,14,11|2,11,7,11,12,6",R16,GRAND_SLAM,U21MS,1700,Main Draw,YANG Zi (SGP),LEE Jungsam (KOR)
-China Open Wuxi 2004,2004-09-09,LO Dany,LIM Jaehyun,4,2,"11,11,10,11,2,11|7,3,12,6,11,8",QF,GRAND_SLAM,U21MS,1700,Main Draw,LO Dany (FRA),LIM Jaehyun (KOR)
-China Open Wuxi 2004,2004-09-09,ASAMOAH Cyprian,TAKAKIWA Taku,4,1,"11,11,11,11,11|5,5,9,13,9",QF,GRAND_SLAM,U21MS,1700,Main Draw,ASAMOAH Cyprian (SWE),TAKAKIWA Taku (JPN)
-China Open Wuxi 2004,2004-09-09,KIM Taehoon,KIM Song Chol,4,3,"12,11,1,11,4,9,12|10,4,11,7,11,11,10",QF,GRAND_SLAM,U21MS,1700,Main Draw,KIM Taehoon (KOR),KIM Song Chol (PRK)
-China Open Wuxi 2004,2004-09-09,AXELQVIST Johan,YANG Zi,4,2,"11,4,9,11,11,11|6,11,11,3,5,7",QF,GRAND_SLAM,U21MS,1700,Main Draw,AXELQVIST Johan (SWE),YANG Zi (SGP)
-China Open Wuxi 2004,2004-09-09,LO Dany,ASAMOAH Cyprian,4,1,"11,11,9,11,11|7,9,11,5,2",SF,GRAND_SLAM,U21MS,1700,Main Draw,LO Dany (FRA),ASAMOAH Cyprian (SWE)
-China Open Wuxi 2004,2004-09-09,KIM Taehoon,AXELQVIST Johan,4,0,"11,11,11,11|8,1,8,3",SF,GRAND_SLAM,U21MS,1700,Main Draw,KIM Taehoon (KOR),AXELQVIST Johan (SWE)
-China Open Wuxi 2004,2004-09-09,LO Dany,KIM Taehoon,4,1,"11,8,11,11,12|8,11,8,8,10",F,GRAND_SLAM,U21MS,1700,Main Draw,LO Dany (FRA),KIM Taehoon (KOR)
-China Open Wuxi 2004,2004-09-09,ZHANG Yining,PAN Chun-Chu,4,0,"11,11,11,11|2,6,4,5",R32,GRAND_SLAM,WS,1700,Main Draw,ZHANG Yining (CHN),PAN Chun-Chu (TPE)
-China Open Wuxi 2004,2004-09-09,HIRANO Sayaka,KOMWONG Nanthana,4,3,"7,7,11,11,17,11,11|11,11,4,9,19,8,6",R32,GRAND_SLAM,WS,1700,Main Draw,HIRANO Sayaka (JPN),KOMWONG Nanthana (THA)
-China Open Wuxi 2004,2004-09-09,LI Xiaoxia,KIM Jong,4,0,"11,11,11,11|4,7,9,1",R32,GRAND_SLAM,WS,1700,Main Draw,LI Xiaoxia (CHN),KIM Jong (PRK)
-China Open Wuxi 2004,2004-09-09,KIM Hyang Mi,MUANGSUK Anisara,4,3,"8,11,7,11,11,10,11|11,7,11,9,4,12,4",R32,GRAND_SLAM,WS,1700,Main Draw,KIM Hyang Mi (PRK),MUANGSUK Anisara (THA)
-China Open Wuxi 2004,2004-09-09,ZHANG Rui,KIM Hyehyun,4,0,"11,11,12,11|6,7,10,7",R32,GRAND_SLAM,WS,1700,Main Draw,ZHANG Rui (HKG),KIM Hyehyun (KOR)
-China Open Wuxi 2004,2004-09-09,MOON Hyunjung,JANG Hyon Ae,4,0,"12,11,11,11|10,4,6,8",R32,GRAND_SLAM,WS,1700,Main Draw,MOON Hyunjung (KOR),JANG Hyon Ae (PRK)
-China Open Wuxi 2004,2004-09-09,CAO Zhen,KIM Mi Yong,4,2,"3,11,11,8,11,11|11,7,9,11,6,6",R32,GRAND_SLAM,WS,1700,Main Draw,CAO Zhen (CHN),KIM Mi Yong (PRK)
-China Open Wuxi 2004,2004-09-09,TIE Yana,LEE I-Chen,4,1,"11,11,8,11,11|8,5,11,5,5",R32,GRAND_SLAM,WS,1700,Main Draw,TIE Yana (HKG),LEE I-Chen (TPE)
-China Open Wuxi 2004,2004-09-09,LAU Sui Fei,KIM Minhee (YOB=1985),4,0,"11,11,11,11|6,3,8,8",R32,GRAND_SLAM,WS,1700,Main Draw,LAU Sui Fei (HKG),KIM Minhee (YOB=1985) (KOR)
-China Open Wuxi 2004,2004-09-09,KONISHI An,KWAK Bangbang,4,1,"11,12,11,11,11|6,14,5,7,9",R32,GRAND_SLAM,WS,1700,Main Draw,KONISHI An (JPN),KWAK Bangbang (KOR)
-China Open Wuxi 2004,2004-09-09,WANG Tingting,KIM Hyon Hui,4,1,"11,11,12,11,11|8,4,14,9,7",R32,GRAND_SLAM,WS,1700,Main Draw,WANG Tingting (CHN),KIM Hyon Hui (PRK)
-China Open Wuxi 2004,2004-09-09,FUKUHARA Ai,HUANG Yi-Hua,4,1,"11,19,12,11,11|5,17,14,6,8",R32,GRAND_SLAM,WS,1700,Main Draw,FUKUHARA Ai (JPN),HUANG Yi-Hua (TPE)
-China Open Wuxi 2004,2004-09-09,FAN Ying,LEE Hyangmi,4,0,"11,11,11,11|5,7,6,5",R32,GRAND_SLAM,WS,1700,Main Draw,FAN Ying (CHN),LEE Hyangmi (KOR)
-China Open Wuxi 2004,2004-09-09,ETSUZAKI Ayumi,SONG Ah Sim,4,2,"11,8,11,11,6,16|7,11,3,6,11,14",R32,GRAND_SLAM,WS,1700,Main Draw,ETSUZAKI Ayumi (JPN),SONG Ah Sim (HKG)
-China Open Wuxi 2004,2004-09-09,KIM Yun Mi,FUJITA Yuki,4,3,"11,6,11,9,13,8,11|7,11,4,11,11,11,9",R32,GRAND_SLAM,WS,1700,Main Draw,KIM Yun Mi (PRK),FUJITA Yuki (JPN)
-China Open Wuxi 2004,2004-09-09,WANG Nan,JEON Hyekyung,4,1,"9,11,11,11,11|11,5,8,5,6",R32,GRAND_SLAM,WS,1700,Main Draw,WANG Nan (CHN),JEON Hyekyung (KOR)
-China Open Wuxi 2004,2004-09-09,ZHANG Yining,HIRANO Sayaka,4,0,"11,11,11,11|8,7,6,4",R16,GRAND_SLAM,WS,1700,Main Draw,ZHANG Yining (CHN),HIRANO Sayaka (JPN)
-China Open Wuxi 2004,2004-09-09,LI Xiaoxia,KIM Hyang Mi,4,1,"11,11,11,9,11|7,7,5,11,7",R16,GRAND_SLAM,WS,1700,Main Draw,LI Xiaoxia (CHN),KIM Hyang Mi (PRK)
-China Open Wuxi 2004,2004-09-09,ZHANG Rui,MOON Hyunjung,4,3,"11,9,11,11,6,11,11|9,11,9,13,11,9,9",R16,GRAND_SLAM,WS,1700,Main Draw,ZHANG Rui (HKG),MOON Hyunjung (KOR)
-China Open Wuxi 2004,2004-09-09,CAO Zhen,TIE Yana,4,0,"13,11,11,11|11,8,5,4",R16,GRAND_SLAM,WS,1700,Main Draw,CAO Zhen (CHN),TIE Yana (HKG)
-China Open Wuxi 2004,2004-09-09,KONISHI An,LAU Sui Fei,4,2,"11,13,7,11,9,11|7,11,11,7,11,7",R16,GRAND_SLAM,WS,1700,Main Draw,KONISHI An (JPN),LAU Sui Fei (HKG)
-China Open Wuxi 2004,2004-09-09,WANG Tingting,FUKUHARA Ai,4,2,"7,11,9,11,11,11|11,6,11,8,9,3",R16,GRAND_SLAM,WS,1700,Main Draw,WANG Tingting (CHN),FUKUHARA Ai (JPN)
-China Open Wuxi 2004,2004-09-09,FAN Ying,ETSUZAKI Ayumi,4,2,"11,11,9,11,7,11|6,5,11,8,11,8",R16,GRAND_SLAM,WS,1700,Main Draw,FAN Ying (CHN),ETSUZAKI Ayumi (JPN)
-China Open Wuxi 2004,2004-09-09,WANG Nan,KIM Yun Mi,4,1,"11,11,11,2,11|7,7,8,11,8",R16,GRAND_SLAM,WS,1700,Main Draw,WANG Nan (CHN),KIM Yun Mi (PRK)
-China Open Wuxi 2004,2004-09-09,ZHANG Yining,LI Xiaoxia,4,2,"11,9,8,11,11,13|9,11,11,7,3,11",QF,GRAND_SLAM,WS,1700,Main Draw,ZHANG Yining (CHN),LI Xiaoxia (CHN)
-China Open Wuxi 2004,2004-09-09,CAO Zhen,ZHANG Rui,4,1,"11,11,11,6,11|3,9,6,11,6",QF,GRAND_SLAM,WS,1700,Main Draw,CAO Zhen (CHN),ZHANG Rui (HKG)
-China Open Wuxi 2004,2004-09-09,WANG Tingting,KONISHI An,4,0,"11,11,11,11|9,9,9,8",QF,GRAND_SLAM,WS,1700,Main Draw,WANG Tingting (CHN),KONISHI An (JPN)
-China Open Wuxi 2004,2004-09-09,FAN Ying,WANG Nan,4,3,"4,11,6,11,10,11,11|11,4,11,6,12,7,5",QF,GRAND_SLAM,WS,1700,Main Draw,FAN Ying (CHN),WANG Nan (CHN)
-China Open Wuxi 2004,2004-09-09,CAO Zhen,ZHANG Yining,4,2,"9,11,11,11,10,11|11,7,9,6,12,3",SF,GRAND_SLAM,WS,1700,Main Draw,CAO Zhen (CHN),ZHANG Yining (CHN)
-China Open Wuxi 2004,2004-09-09,WANG Tingting,FAN Ying,4,2,"6,12,11,9,11,11|11,10,9,11,8,7",SF,GRAND_SLAM,WS,1700,Main Draw,WANG Tingting (CHN),FAN Ying (CHN)
-China Open Wuxi 2004,2004-09-09,CAO Zhen,WANG Tingting,4,0,"11,11,11,12|3,4,4,10",F,GRAND_SLAM,WS,1700,Main Draw,CAO Zhen (CHN),WANG Tingting (CHN)
-China Open Wuxi 2004,2004-09-09,PAN Chun-Chu,KERTAI Rita,4,3,"11,1,11,5,11,7,11|7,11,5,11,6,11,6",,GRAND_SLAM,WS,1700,Qualification,PAN Chun-Chu (TPE),KERTAI Rita (HUN)
-China Open Wuxi 2004,2004-09-09,KWAK Bangbang,PAN Chun-Chu,4,0,"11,11,11,11|5,4,8,5",QR2,GRAND_SLAM,WS,1700,Qualification,KWAK Bangbang (KOR),PAN Chun-Chu (TPE)
-China Open Wuxi 2004,2004-09-09,KWAK Bangbang,KERTAI Rita,4,2,"8,5,11,11,11,12|11,11,2,8,1,10",3,GRAND_SLAM,WS,1700,Qualification,KWAK Bangbang (KOR),KERTAI Rita (HUN)
-China Open Wuxi 2004,2004-09-09,LEE I-Chen,PARK Kyungae (II),4,2,"13,2,12,11,5,11|11,11,10,9,11,6",,GRAND_SLAM,WS,1700,Qualification,LEE I-Chen (TPE),PARK Kyungae (II) (KOR)
-China Open Wuxi 2004,2004-09-09,KOMWONG Nanthana,LEE I-Chen,4,1,"11,5,11,13,11|8,11,9,11,9",QR2,GRAND_SLAM,WS,1700,Qualification,KOMWONG Nanthana (THA),LEE I-Chen (TPE)
-China Open Wuxi 2004,2004-09-09,KOMWONG Nanthana,PARK Kyungae (II),4,1,"11,11,11,11,11|8,9,5,13,8",3,GRAND_SLAM,WS,1700,Qualification,KOMWONG Nanthana (THA),PARK Kyungae (II) (KOR)
-China Open Wuxi 2004,2004-09-09,ETSUZAKI Ayumi,LEE Hyangmi,4,1,"11,11,7,11,11|8,5,11,8,2",,GRAND_SLAM,WS,1700,Qualification,ETSUZAKI Ayumi (JPN),LEE Hyangmi (KOR)
-China Open Wuxi 2004,2004-09-09,ETSUZAKI Ayumi,LU Yun-Feng,4,0,"13,11,11,11|11,8,4,2",QR2,GRAND_SLAM,WS,1700,Qualification,ETSUZAKI Ayumi (JPN),LU Yun-Feng (TPE)
-China Open Wuxi 2004,2004-09-09,LEE Hyangmi,LU Yun-Feng,4,1,"11,11,8,11,11|6,6,11,9,5",3,GRAND_SLAM,WS,1700,Qualification,LEE Hyangmi (KOR),LU Yun-Feng (TPE)
-China Open Wuxi 2004,2004-09-09,FUJITA Yuki,YU Kwok See,4,0,"11,11,11,11|6,8,6,5",,GRAND_SLAM,WS,1700,Qualification,FUJITA Yuki (JPN),YU Kwok See (HKG)
-China Open Wuxi 2004,2004-09-09,HUANG Yi-Hua,YU Kwok See,4,2,"8,11,11,11,10,11|11,5,6,5,12,3",QR2,GRAND_SLAM,WS,1700,Qualification,HUANG Yi-Hua (TPE),YU Kwok See (HKG)
-China Open Wuxi 2004,2004-09-09,FUJITA Yuki,HUANG Yi-Hua,4,0,"11,11,11,11|8,6,9,7",3,GRAND_SLAM,WS,1700,Qualification,FUJITA Yuki (JPN),HUANG Yi-Hua (TPE)
-China Open Wuxi 2004,2004-09-09,KIM Minhee (YOB=1985),YU Mei-Ju,4,1,"9,11,11,14,11|11,7,3,12,3",,GRAND_SLAM,WS,1700,Qualification,KIM Minhee (YOB=1985) (KOR),YU Mei-Ju (TPE)
-China Open Wuxi 2004,2004-09-09,KIM Mi Yong,KIM Minhee (YOB=1985),4,3,"13,11,11,4,4,11,11|15,8,9,11,11,7,8",QR2,GRAND_SLAM,WS,1700,Qualification,KIM Mi Yong (PRK),KIM Minhee (YOB=1985) (KOR)
-China Open Wuxi 2004,2004-09-09,KIM Mi Yong,YU Mei-Ju,4,1,"11,11,11,10,11|4,8,5,12,7",3,GRAND_SLAM,WS,1700,Qualification,KIM Mi Yong (PRK),YU Mei-Ju (TPE)
-China Open Wuxi 2004,2004-09-09,WANG Tingting,KO Un Gyong,4,0,"11,14,11,11|4,12,6,2",,GRAND_SLAM,WS,1700,Qualification,WANG Tingting (CHN),KO Un Gyong (PRK)
-China Open Wuxi 2004,2004-09-09,JEON Hyekyung,WANG Tingting,4,2,"11,13,4,11,3,11|9,11,11,7,11,8",QR2,GRAND_SLAM,WS,1700,Qualification,JEON Hyekyung (KOR),WANG Tingting (CHN)
-China Open Wuxi 2004,2004-09-09,KO Un Gyong,JEON Hyekyung,4,2,"11,11,11,9,12,14|7,9,8,11,14,12",3,GRAND_SLAM,WS,1700,Qualification,KO Un Gyong (PRK),JEON Hyekyung (KOR)
-China Open Wuxi 2004,2004-09-09,KIM Jong,KIM Hyehyun,4,1,"11,6,14,11,11|5,11,12,9,8",QR2,GRAND_SLAM,WS,1700,Qualification,KIM Jong (PRK),KIM Hyehyun (KOR)
-China Open Wuxi 2004,2004-09-09,KIM Hyehyun,LOVAS Petra,4,1,"11,11,11,2,11|7,6,8,11,4",3,GRAND_SLAM,WS,1700,Qualification,KIM Hyehyun (KOR),LOVAS Petra (HUN)
-China Open Wuxi 2004,2004-09-09,LOVAS Petra,KIM Jong,4,2,"11,11,6,11,9,11|7,7,11,4,11,9",5,GRAND_SLAM,WS,1700,Qualification,LOVAS Petra (HUN),KIM Jong (PRK)
-China Open Wuxi 2004,2004-09-09,JANG Hyon Ae,HSU Hui-Tsun,4,2,"7,14,11,6,11,11|11,12,9,11,9,7",,GRAND_SLAM,WS,1700,Qualification,JANG Hyon Ae (PRK),HSU Hui-Tsun (TPE)
-China Open Wuxi 2004,2004-09-09,MUANGSUK Anisara,JUN Hyunsil,4,1,"11,11,11,7,13|6,2,8,11,11",QR2,GRAND_SLAM,WS,1700,Qualification,MUANGSUK Anisara (THA),JUN Hyunsil (KOR)
-China Open Wuxi 2004,2004-09-09,JANG Hyon Ae,JUN Hyunsil,4,3,"8,12,11,11,7,13,11|11,14,5,7,11,11,4",3,GRAND_SLAM,WS,1700,Qualification,JANG Hyon Ae (PRK),JUN Hyunsil (KOR)
-China Open Wuxi 2004,2004-09-09,HSU Hui-Tsun,MUANGSUK Anisara,4,0,"11,11,11,11|4,9,3,7",QR4,GRAND_SLAM,WS,1700,Qualification,HSU Hui-Tsun (TPE),MUANGSUK Anisara (THA)
-China Open Wuxi 2004,2004-09-09,JANG Hyon Ae,MUANGSUK Anisara,4,0,"11,11,17,13|8,9,15,11",5,GRAND_SLAM,WS,1700,Qualification,JANG Hyon Ae (PRK),MUANGSUK Anisara (THA)
-China Open Wuxi 2004,2004-09-09,JUN Hyunsil,HSU Hui-Tsun,4,0,"11,11,11,11|7,9,9,5",6,GRAND_SLAM,WS,1700,Qualification,JUN Hyunsil (KOR),HSU Hui-Tsun (TPE)
-China Open Wuxi 2004,2004-09-09,KO Un Gyong,YU Mei-Ju,3,1,"7,11,11,11|11,5,4,5",,GRAND_SLAM,U21WS,1700,Qualification,KO Un Gyong (PRK),YU Mei-Ju (TPE)
-China Open Wuxi 2004,2004-09-09,HIRANO Sayaka,KIM Minhee (YOB=1985),3,0,"11,14,11|3,12,8",,GRAND_SLAM,U21WS,1700,Qualification,HIRANO Sayaka (JPN),KIM Minhee (YOB=1985) (KOR)
-China Open Wuxi 2004,2004-09-09,JANG Hyon Ae,LEE I-Chen,3,2,"12,11,8,11,11|14,9,11,9,7",QR2,GRAND_SLAM,U21WS,1700,Qualification,JANG Hyon Ae (PRK),LEE I-Chen (TPE)
-China Open Wuxi 2004,2004-09-09,HIRANO Sayaka,LEE I-Chen,3,0,"11,11,11|3,8,7",3,GRAND_SLAM,U21WS,1700,Qualification,HIRANO Sayaka (JPN),LEE I-Chen (TPE)
-China Open Wuxi 2004,2004-09-09,JANG Hyon Ae,KIM Minhee (YOB=1985),3,2,"8,9,11,11,11|11,11,2,9,9",QR4,GRAND_SLAM,U21WS,1700,Qualification,JANG Hyon Ae (PRK),KIM Minhee (YOB=1985) (KOR)
-China Open Wuxi 2004,2004-09-09,JANG Hyon Ae,HIRANO Sayaka,3,2,"4,3,11,11,12|11,11,7,6,10",5,GRAND_SLAM,U21WS,1700,Qualification,JANG Hyon Ae (PRK),HIRANO Sayaka (JPN)
-China Open Wuxi 2004,2004-09-09,LEE I-Chen,KIM Minhee (YOB=1985),3,2,"7,11,11,13,11|11,8,8,15,5",6,GRAND_SLAM,U21WS,1700,Qualification,LEE I-Chen (TPE),KIM Minhee (YOB=1985) (KOR)
-China Open Wuxi 2004,2004-09-09,KO Un Gyong,KIM Mi Yong,4,2,"7,5,11,11,11,11|11,11,9,7,7,8",SF,GRAND_SLAM,U21WS,1700,Main Draw,KO Un Gyong (PRK),KIM Mi Yong (PRK)
-China Open Wuxi 2004,2004-09-09,MOON Hyunjung,KO Un Gyong,4,3,"11,11,13,13,11,7,11|13,5,11,15,6,11,9",F,GRAND_SLAM,U21WS,1700,Main Draw,MOON Hyunjung (KOR),KO Un Gyong (PRK)
-China Open Wuxi 2004,2004-09-09,MOON Hyunjung,HSU Hui-Tsun,3,2,"12,11,4,11,11|14,4,11,7,3",,GRAND_SLAM,U21WS,1700,Qualification,MOON Hyunjung (KOR),HSU Hui-Tsun (TPE)
-China Open Wuxi 2004,2004-09-09,KIM Jong,HUANG Yi-Hua,3,0,"16,13,11|14,11,6",QR2,GRAND_SLAM,U21WS,1700,Qualification,KIM Jong (PRK),HUANG Yi-Hua (TPE)
-China Open Wuxi 2004,2004-09-09,MOON Hyunjung,KIM Jong,3,0,"11,11,11|6,3,9",3,GRAND_SLAM,U21WS,1700,Qualification,MOON Hyunjung (KOR),KIM Jong (PRK)
-China Open Wuxi 2004,2004-09-09,HUANG Yi-Hua,HSU Hui-Tsun,3,0,"11,11,11|9,4,6",QR4,GRAND_SLAM,U21WS,1700,Qualification,HUANG Yi-Hua (TPE),HSU Hui-Tsun (TPE)
-China Open Wuxi 2004,2004-09-09,MOON Hyunjung,HUANG Yi-Hua,3,1,"11,11,5,14|6,5,11,12",5,GRAND_SLAM,U21WS,1700,Qualification,MOON Hyunjung (KOR),HUANG Yi-Hua (TPE)
-China Open Wuxi 2004,2004-09-09,KIM Jong,HSU Hui-Tsun,3,0,"11,11,11|6,8,6",6,GRAND_SLAM,U21WS,1700,Qualification,KIM Jong (PRK),HSU Hui-Tsun (TPE)
-China Open Wuxi 2004,2004-09-09,KIM Hyehyun,LU Yun-Feng,3,1,"11,6,11,12|5,11,8,10",,GRAND_SLAM,U21WS,1700,Qualification,KIM Hyehyun (KOR),LU Yun-Feng (TPE)
-China Open Wuxi 2004,2004-09-09,KIM Mi Yong,YU Kwok See,3,0,"11,14,11|7,12,7",QR2,GRAND_SLAM,U21WS,1700,Qualification,KIM Mi Yong (PRK),YU Kwok See (HKG)
-China Open Wuxi 2004,2004-09-09,LU Yun-Feng,YU Kwok See,3,0,"11,15,11|8,13,9",3,GRAND_SLAM,U21WS,1700,Qualification,LU Yun-Feng (TPE),YU Kwok See (HKG)
-China Open Wuxi 2004,2004-09-09,KIM Mi Yong,KIM Hyehyun,3,0,"11,11,11|5,7,3",QR4,GRAND_SLAM,U21WS,1700,Qualification,KIM Mi Yong (PRK),KIM Hyehyun (KOR)
-China Open Wuxi 2004,2004-09-09,KIM Mi Yong,LU Yun-Feng,3,0,"11,13,11|5,11,9",5,GRAND_SLAM,U21WS,1700,Qualification,KIM Mi Yong (PRK),LU Yun-Feng (TPE)
-China Open Wuxi 2004,2004-09-09,YU Kwok See,KIM Hyehyun,3,0,"13,14,11|11,12,6",6,GRAND_SLAM,U21WS,1700,Qualification,YU Kwok See (HKG),KIM Hyehyun (KOR)
-China Open Wuxi 2004,2004-09-09,CHEN Qi/MA Lin,HWANG Sunghoon/KIM Gunhwan,4,0,"11,11,11,11|6,5,7,6",R16,GRAND_SLAM,MD,1700,Main Draw,CHEN Qi (CHN) / MA Lin (CHN),HWANG Sunghoon (KOR) / KIM Gunhwan (KOR)
-China Open Wuxi 2004,2004-09-09,CHEN Qi/MA Lin,HAKANSSON Fredrik/KARLSSON Peter,4,1,"11,11,11,7,11|7,5,1,11,8",QF,GRAND_SLAM,MD,1700,Main Draw,CHEN Qi (CHN) / MA Lin (CHN),HAKANSSON Fredrik (SWE) / KARLSSON Peter (SWE)
-China Open Wuxi 2004,2004-09-09,CHEN Qi/MA Lin,WANG Liqin/YAN Sen,4,0,"11,11,13,17|9,9,11,15",SF,GRAND_SLAM,MD,1700,Main Draw,CHEN Qi (CHN) / MA Lin (CHN),WANG Liqin (CHN) / YAN Sen (CHN)
-China Open Wuxi 2004,2004-09-09,CHEN Qi/MA Lin,CHEUNG Yuk/LEUNG Chu Yan,4,1,"11,8,11,11,12|5,11,7,8,10",F,GRAND_SLAM,MD,1700,Main Draw,CHEN Qi (CHN) / MA Lin (CHN),CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG)
-China Open Wuxi 2004,2004-09-09,BERTIN Christophe/BOBILLIER Loic,TAKAKIWA Kenichi/TAKAKIWA Taku,4,1,"11,11,11,9,13|7,9,7,11,11",R16,GRAND_SLAM,MD,1700,Main Draw,BERTIN Christophe (FRA) / BOBILLIER Loic (FRA),TAKAKIWA Kenichi (JPN) / TAKAKIWA Taku (JPN)
-China Open Wuxi 2004,2004-09-09,KONG Linghui/WANG Hao,BERTIN Christophe/BOBILLIER Loic,4,0,"11,11,11,11|9,6,3,7",QF,GRAND_SLAM,MD,1700,Main Draw,KONG Linghui (CHN) / WANG Hao (CHN),BERTIN Christophe (FRA) / BOBILLIER Loic (FRA)
-China Open Wuxi 2004,2004-09-09,CHEUNG Yuk/LEUNG Chu Yan,CHOU Tung-Yu/HUANG Wei-Chin,4,0,"11,15,11,11|9,13,5,9",R16,GRAND_SLAM,MD,1700,Main Draw,CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),CHOU Tung-Yu (TPE) / HUANG Wei-Chin (TPE)
-China Open Wuxi 2004,2004-09-09,CHEUNG Yuk/LEUNG Chu Yan,CHILA Patrick/LO Dany,4,2,"12,11,11,11,10,11|14,6,8,3,12,8",QF,GRAND_SLAM,MD,1700,Main Draw,CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),CHILA Patrick (FRA) / LO Dany (FRA)
-China Open Wuxi 2004,2004-09-09,CHEUNG Yuk/LEUNG Chu Yan,KONG Linghui/WANG Hao,4,1,"11,3,11,12,11|4,11,4,10,9",SF,GRAND_SLAM,MD,1700,Main Draw,CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),KONG Linghui (CHN) / WANG Hao (CHN)
-China Open Wuxi 2004,2004-09-09,OMORI Takahiro/YOSHIDA Kaii,AXELQVIST Johan/SMIRNOV Alexey,4,0,"11,11,11,11|9,7,8,5",R16,GRAND_SLAM,MD,1700,Main Draw,OMORI Takahiro (JPN) / YOSHIDA Kaii (JPN),AXELQVIST Johan (SWE) / SMIRNOV Alexey (RUS)
-China Open Wuxi 2004,2004-09-09,WANG Liqin/YAN Sen,TSE Ka Chun/YOSHITOMI Eigo,4,0,"11,11,11,12|7,6,7,10",R16,GRAND_SLAM,MD,1700,Main Draw,WANG Liqin (CHN) / YAN Sen (CHN),TSE Ka Chun (HKG) / YOSHITOMI Eigo (JPN)
-China Open Wuxi 2004,2004-09-09,KONG Linghui/WANG Hao,KIHO Shinnosuke/SANADA Koji,4,0,"11,11,11,11|8,7,8,7",R16,GRAND_SLAM,MD,1700,Main Draw,KONG Linghui (CHN) / WANG Hao (CHN),KIHO Shinnosuke (JPN) / SANADA Koji (JPN)
-China Open Wuxi 2004,2004-09-09,WANG Liqin/YAN Sen,OMORI Takahiro/YOSHIDA Kaii,4,0,"11,11,11,11|6,2,4,4",QF,GRAND_SLAM,MD,1700,Main Draw,WANG Liqin (CHN) / YAN Sen (CHN),OMORI Takahiro (JPN) / YOSHIDA Kaii (JPN)
-China Open Wuxi 2004,2004-09-09,KIHO Shinnosuke/SANADA Koji,CHUAN Che-Wei/LAI Kuan-Shen,3,0,"11,11,14|8,5,12",QR16,GRAND_SLAM,MD,1700,Qualification,KIHO Shinnosuke (JPN) / SANADA Koji (JPN),CHUAN Che-Wei (TPE) / LAI Kuan-Shen (TPE)
-China Open Wuxi 2004,2004-09-09,TSE Ka Chun/YOSHITOMI Eigo,VIPAWATANAKUL Sithichok/VIPAWATANAKUL Tanawat,3,2,"12,11,8,11,11|14,8,11,9,5",QR16,GRAND_SLAM,MD,1700,Qualification,TSE Ka Chun (HKG) / YOSHITOMI Eigo (JPN),VIPAWATANAKUL Sithichok (AUS) / VIPAWATANAKUL Tanawat (THA)
-China Open Wuxi 2004,2004-09-09,CHILA Patrick/LO Dany,LEE Jungsam/LIM Jaehyun,4,1,"11,11,11,12,16|9,13,7,10,14",R16,GRAND_SLAM,MD,1700,Main Draw,CHILA Patrick (FRA) / LO Dany (FRA),LEE Jungsam (KOR) / LIM Jaehyun (KOR)
-China Open Wuxi 2004,2004-09-09,HWANG Sunghoon/KIM Gunhwan,ASAMOAH Cyprian/GERELL Par,3,2,"13,5,11,3,11|11,11,7,11,7",QR16,GRAND_SLAM,MD,1700,Qualification,HWANG Sunghoon (KOR) / KIM Gunhwan (KOR),ASAMOAH Cyprian (SWE) / GERELL Par (SWE)
-China Open Wuxi 2004,2004-09-09,LEE Jungsam/LIM Jaehyun,HUANG Sheng-Sheng/SUN Wen-Wei,3,1,"11,11,11,11|8,8,13,7",QR16,GRAND_SLAM,MD,1700,Qualification,LEE Jungsam (KOR) / LIM Jaehyun (KOR),HUANG Sheng-Sheng (TPE) / SUN Wen-Wei (TPE)
-China Open Wuxi 2004,2004-09-09,HAKANSSON Fredrik/KARLSSON Peter,KIM Song Chol/PAK Won Chol,4,2,"11,4,11,6,11,21|9,11,8,11,7,19",R16,GRAND_SLAM,MD,1700,Main Draw,HAKANSSON Fredrik (SWE) / KARLSSON Peter (SWE),KIM Song Chol (PRK) / PAK Won Chol (PRK)
-China Open Wuxi 2004,2004-09-09,WANG Nan/ZHANG Yining,JUN Hyunsil/LEE Hyangmi,4,0,"11,11,11,11|9,4,5,5",R16,GRAND_SLAM,WD,1700,Main Draw,WANG Nan (CHN) / ZHANG Yining (CHN),JUN Hyunsil (KOR) / LEE Hyangmi (KOR)
-China Open Wuxi 2004,2004-09-09,FAN Ying/WANG Tingting,KIM Hyang Mi/KIM Hyon Hui,4,3,"11,11,7,9,9,11,11|7,8,11,11,11,6,8",R16,GRAND_SLAM,WD,1700,Main Draw,FAN Ying (CHN) / WANG Tingting (CHN),KIM Hyang Mi (PRK) / KIM Hyon Hui (PRK)
-China Open Wuxi 2004,2004-09-09,CAO Zhen/LI Xiaoxia,JEON Hyekyung/PARK Kyungae (I),4,1,"11,11,11,9,11|6,5,8,11,3",R16,GRAND_SLAM,WD,1700,Main Draw,CAO Zhen (CHN) / LI Xiaoxia (CHN),JEON Hyekyung (KOR) / PARK Kyungae (I) (KOR)
-China Open Wuxi 2004,2004-09-09,FAN Ying/WANG Tingting,WANG Nan/ZHANG Yining,4,3,"11,13,5,11,5,7,11|6,11,11,8,11,11,8",QF,GRAND_SLAM,WD,1700,Main Draw,FAN Ying (CHN) / WANG Tingting (CHN),WANG Nan (CHN) / ZHANG Yining (CHN)
-China Open Wuxi 2004,2004-09-09,CAO Zhen/LI Xiaoxia,SONG Ah Sim/TIE Yana,4,0,"11,11,11,11|5,9,8,9",SF,GRAND_SLAM,WD,1700,Main Draw,CAO Zhen (CHN) / LI Xiaoxia (CHN),SONG Ah Sim (HKG) / TIE Yana (HKG)
-China Open Wuxi 2004,2004-09-09,CAO Zhen/LI Xiaoxia,FAN Ying/WANG Tingting,4,0,"11,11,14,11|7,9,12,4",F,GRAND_SLAM,WD,1700,Main Draw,CAO Zhen (CHN) / LI Xiaoxia (CHN),FAN Ying (CHN) / WANG Tingting (CHN)
-China Open Wuxi 2004,2004-09-09,FAN Ying/WANG Tingting,PAN Chun-Chu/YU Mei-Ju,3,0,"11,11,11|6,4,5",QR4,GRAND_SLAM,WD,1700,Qualification,FAN Ying (CHN) / WANG Tingting (CHN),PAN Chun-Chu (TPE) / YU Mei-Ju (TPE)
-China Open Wuxi 2004,2004-09-09,KIM Hyehyun/KWAK Bangbang,LAU Sui Fei/ZHANG Rui,4,1,"12,11,11,6,12|10,6,9,11,10",R16,GRAND_SLAM,WD,1700,Main Draw,KIM Hyehyun (KOR) / KWAK Bangbang (KOR),LAU Sui Fei (HKG) / ZHANG Rui (HKG)
-China Open Wuxi 2004,2004-09-09,KIM Mi Yong/KO Un Gyong,HIRANO Sayaka/KONISHI An,4,2,"11,12,9,11,7,11|9,10,11,8,11,9",R16,GRAND_SLAM,WD,1700,Main Draw,KIM Mi Yong (PRK) / KO Un Gyong (PRK),HIRANO Sayaka (JPN) / KONISHI An (JPN)
-China Open Wuxi 2004,2004-09-09,KIM Mi Yong/KO Un Gyong,ETSUZAKI Ayumi/FUJITA Yuki,3,0,"11,11,11|9,6,6",QR4,GRAND_SLAM,WD,1700,Qualification,KIM Mi Yong (PRK) / KO Un Gyong (PRK),ETSUZAKI Ayumi (JPN) / FUJITA Yuki (JPN)
-China Open Wuxi 2004,2004-09-09,KIM Minhee (YOB=1985)/MOON Hyunjung,HUANG Yi-Hua/LU Yun-Feng,4,2,"8,11,0,12,11,11|11,6,11,10,8,7",R16,GRAND_SLAM,WD,1700,Main Draw,KIM Minhee (YOB=1985) (KOR) / MOON Hyunjung (KOR),HUANG Yi-Hua (TPE) / LU Yun-Feng (TPE)
-China Open Wuxi 2004,2004-09-09,CAO Zhen/LI Xiaoxia,KIM Hyehyun/KWAK Bangbang,4,1,"6,11,11,12,11|11,5,6,10,4",QF,GRAND_SLAM,WD,1700,Main Draw,CAO Zhen (CHN) / LI Xiaoxia (CHN),KIM Hyehyun (KOR) / KWAK Bangbang (KOR)
-China Open Wuxi 2004,2004-09-09,KIM Jong/KIM Yun Mi,KERTAI Rita/LOVAS Petra,4,1,"11,11,11,11,11|13,9,5,5,6",R16,GRAND_SLAM,WD,1700,Main Draw,KIM Jong (PRK) / KIM Yun Mi (PRK),KERTAI Rita (HUN) / LOVAS Petra (HUN)
-China Open Wuxi 2004,2004-09-09,KIM Mi Yong/KO Un Gyong,KIM Minhee (YOB=1985)/MOON Hyunjung,4,2,"11,11,11,3,4,11|2,4,6,11,11,6",QF,GRAND_SLAM,WD,1700,Main Draw,KIM Mi Yong (PRK) / KO Un Gyong (PRK),KIM Minhee (YOB=1985) (KOR) / MOON Hyunjung (KOR)
-China Open Wuxi 2004,2004-09-09,SONG Ah Sim/TIE Yana,KIM Jong/KIM Yun Mi,4,2,"11,8,13,11,8,11|7,11,11,7,11,7",QF,GRAND_SLAM,WD,1700,Main Draw,SONG Ah Sim (HKG) / TIE Yana (HKG),KIM Jong (PRK) / KIM Yun Mi (PRK)
-China Open Wuxi 2004,2004-09-09,SONG Ah Sim/TIE Yana,KOMWONG Nanthana/MUANGSUK Anisara,4,2,"11,11,7,11,11,11|8,13,11,8,7,7",R16,GRAND_SLAM,WD,1700,Main Draw,SONG Ah Sim (HKG) / TIE Yana (HKG),KOMWONG Nanthana (THA) / MUANGSUK Anisara (THA)
-China Open Wuxi 2004,2004-09-09,ETSUZAKI Ayumi/FUJITA Yuki,LEE I-Chen/HSU Hui-Tsun,3,0,"11,11,11|6,8,9",QR8,GRAND_SLAM,WD,1700,Qualification,ETSUZAKI Ayumi (JPN) / FUJITA Yuki (JPN),LEE I-Chen (TPE) / HSU Hui-Tsun (TPE)
-China Open Wuxi 2004,2004-09-09,PAN Chun-Chu/YU Mei-Ju,/YU Kwok See,3,0,"11,13,11|8,11,9",QR8,GRAND_SLAM,WD,1700,Qualification,PAN Chun-Chu (TPE) / YU Mei-Ju (TPE), / YU Kwok See (HKG)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+China Open Wuxi 2004,2004-09-09,WANG Liqin,HWANG Sunghoon,4,0,"11,11,11,12|2,7,3,10",R32,GRAND_SLAM,MS,1700,Main Draw,WANG Liqin (CHN),HWANG Sunghoon (KOR),WANG Liqin
+China Open Wuxi 2004,2004-09-09,YAN Sen,GERELL Par,4,3,"11,10,12,11,8,11,11|5,12,14,7,11,3,7",R32,GRAND_SLAM,MS,1700,Main Draw,YAN Sen (CHN),GERELL Par (SWE),YAN Sen
+China Open Wuxi 2004,2004-09-09,AXELQVIST Johan,CHILA Patrick,4,2,"11,6,4,11,11,11|6,11,11,6,8,6",R32,GRAND_SLAM,MS,1700,Main Draw,AXELQVIST Johan (SWE),CHILA Patrick (FRA),AXELQVIST Johan
+China Open Wuxi 2004,2004-09-09,LEUNG Chu Yan,KIM Taehoon,4,2,"11,10,11,6,11,11|5,12,8,11,9,7",R32,GRAND_SLAM,MS,1700,Main Draw,LEUNG Chu Yan (HKG),KIM Taehoon (KOR),LEUNG Chu Yan
+China Open Wuxi 2004,2004-09-09,KARLSSON Peter,YOSHIDA Kaii,4,3,"16,11,2,11,7,8,11|14,1,11,7,11,11,4",R32,GRAND_SLAM,MS,1700,Main Draw,KARLSSON Peter (SWE),YOSHIDA Kaii (JPN),KARLSSON Peter
+China Open Wuxi 2004,2004-09-09,YANG Zi,KIM Gunhwan,4,3,"16,11,10,12,9,12,12|14,6,12,14,11,10,10",R32,GRAND_SLAM,MS,1700,Main Draw,YANG Zi (SGP),KIM Gunhwan (KOR),YANG Zi
+China Open Wuxi 2004,2004-09-09,LIM Jaehyun,HAKANSSON Fredrik,4,3,"12,11,8,6,6,12,11|10,9,11,11,11,10,5",R32,GRAND_SLAM,MS,1700,Main Draw,LIM Jaehyun (KOR),HAKANSSON Fredrik (SWE),LIM Jaehyun
+China Open Wuxi 2004,2004-09-09,MA Lin,KIHO Shinnosuke,4,1,"12,11,11,8,11|10,4,7,11,8",R32,GRAND_SLAM,MS,1700,Main Draw,MA Lin (CHN),KIHO Shinnosuke (JPN),MA Lin
+China Open Wuxi 2004,2004-09-09,CHEN Qi,LEE Jungsam,4,1,"11,11,11,9,13|8,3,3,11,11",R32,GRAND_SLAM,MS,1700,Main Draw,CHEN Qi (CHN),LEE Jungsam (KOR),CHEN Qi
+China Open Wuxi 2004,2004-09-09,CHEUNG Yuk,LO Dany,4,1,"12,10,11,11,11|10,12,4,6,4",R32,GRAND_SLAM,MS,1700,Main Draw,CHEUNG Yuk (HKG),LO Dany (FRA),CHEUNG Yuk
+China Open Wuxi 2004,2004-09-09,O Il,TAKAKIWA Taku,4,3,"11,11,11,8,7,5,11|4,9,3,11,11,11,5",R32,GRAND_SLAM,MS,1700,Main Draw,O Il (PRK),TAKAKIWA Taku (JPN),O Il
+China Open Wuxi 2004,2004-09-09,KONG Linghui,OMORI Takahiro,4,0,"11,11,11,11|6,2,6,8",R32,GRAND_SLAM,MS,1700,Main Draw,KONG Linghui (CHN),OMORI Takahiro (JPN),KONG Linghui
+China Open Wuxi 2004,2004-09-09,SMIRNOV Alexey,LAI Kuan-Shen,4,1,"11,9,11,14,11|9,11,4,12,6",R32,GRAND_SLAM,MS,1700,Main Draw,SMIRNOV Alexey (RUS),LAI Kuan-Shen (TPE),SMIRNOV Alexey
+China Open Wuxi 2004,2004-09-09,PAK Won Chol,ASAMOAH Cyprian,4,2,"9,10,11,11,11,13|11,12,9,7,6,11",R32,GRAND_SLAM,MS,1700,Main Draw,PAK Won Chol (PRK),ASAMOAH Cyprian (SWE),PAK Won Chol
+China Open Wuxi 2004,2004-09-09,YOSHITOMI Eigo,CHOU Tung-Yu,4,2,"11,7,11,11,10,12|8,11,6,9,12,10",R32,GRAND_SLAM,MS,1700,Main Draw,YOSHITOMI Eigo (JPN),CHOU Tung-Yu (TPE),YOSHITOMI Eigo
+China Open Wuxi 2004,2004-09-09,WANG Hao,KIM Song Chol,4,0,"11,11,11,12|8,7,6,10",R32,GRAND_SLAM,MS,1700,Main Draw,WANG Hao (CHN),KIM Song Chol (PRK),WANG Hao
+China Open Wuxi 2004,2004-09-09,WANG Liqin,YAN Sen,4,0,"11,11,11,11|6,3,9,4",R16,GRAND_SLAM,MS,1700,Main Draw,WANG Liqin (CHN),YAN Sen (CHN),WANG Liqin
+China Open Wuxi 2004,2004-09-09,LEUNG Chu Yan,AXELQVIST Johan,4,1,"11,11,11,11,12|13,8,6,9,10",R16,GRAND_SLAM,MS,1700,Main Draw,LEUNG Chu Yan (HKG),AXELQVIST Johan (SWE),LEUNG Chu Yan
+China Open Wuxi 2004,2004-09-09,KARLSSON Peter,YANG Zi,4,1,"7,11,11,11,11|11,5,9,8,7",R16,GRAND_SLAM,MS,1700,Main Draw,KARLSSON Peter (SWE),YANG Zi (SGP),KARLSSON Peter
+China Open Wuxi 2004,2004-09-09,MA Lin,LIM Jaehyun,4,0,"11,11,11,11|6,8,7,8",R16,GRAND_SLAM,MS,1700,Main Draw,MA Lin (CHN),LIM Jaehyun (KOR),MA Lin
+China Open Wuxi 2004,2004-09-09,CHEN Qi,CHEUNG Yuk,4,1,"11,6,11,11,13|6,11,7,8,11",R16,GRAND_SLAM,MS,1700,Main Draw,CHEN Qi (CHN),CHEUNG Yuk (HKG),CHEN Qi
+China Open Wuxi 2004,2004-09-09,KONG Linghui,O Il,4,0,"11,11,11,11|9,4,5,2",R16,GRAND_SLAM,MS,1700,Main Draw,KONG Linghui (CHN),O Il (PRK),KONG Linghui
+China Open Wuxi 2004,2004-09-09,SMIRNOV Alexey,PAK Won Chol,4,3,"11,6,9,11,11,6,12|5,11,11,6,8,11,10",R16,GRAND_SLAM,MS,1700,Main Draw,SMIRNOV Alexey (RUS),PAK Won Chol (PRK),SMIRNOV Alexey
+China Open Wuxi 2004,2004-09-09,WANG Hao,YOSHITOMI Eigo,4,1,"11,11,4,11,14|3,4,11,9,12",R16,GRAND_SLAM,MS,1700,Main Draw,WANG Hao (CHN),YOSHITOMI Eigo (JPN),WANG Hao
+China Open Wuxi 2004,2004-09-09,WANG Liqin,LEUNG Chu Yan,4,0,"14,11,11,11|12,8,9,3",QF,GRAND_SLAM,MS,1700,Main Draw,WANG Liqin (CHN),LEUNG Chu Yan (HKG),WANG Liqin
+China Open Wuxi 2004,2004-09-09,MA Lin,KARLSSON Peter,4,0,"11,11,11,11|7,3,6,4",QF,GRAND_SLAM,MS,1700,Main Draw,MA Lin (CHN),KARLSSON Peter (SWE),MA Lin
+China Open Wuxi 2004,2004-09-09,CHEN Qi,KONG Linghui,4,3,"9,6,11,11,13,13,12|11,11,8,13,11,11,10",QF,GRAND_SLAM,MS,1700,Main Draw,CHEN Qi (CHN),KONG Linghui (CHN),CHEN Qi
+China Open Wuxi 2004,2004-09-09,WANG Hao,SMIRNOV Alexey,4,1,"12,10,11,11,11|10,12,2,3,8",QF,GRAND_SLAM,MS,1700,Main Draw,WANG Hao (CHN),SMIRNOV Alexey (RUS),WANG Hao
+China Open Wuxi 2004,2004-09-09,MA Lin,WANG Liqin,4,1,"10,11,11,11,12|12,8,4,6,10",SF,GRAND_SLAM,MS,1700,Main Draw,MA Lin (CHN),WANG Liqin (CHN),MA Lin
+China Open Wuxi 2004,2004-09-09,WANG Hao,CHEN Qi,4,3,"5,11,9,11,11,6,11|11,3,11,8,5,11,7",SF,GRAND_SLAM,MS,1700,Main Draw,WANG Hao (CHN),CHEN Qi (CHN),WANG Hao
+China Open Wuxi 2004,2004-09-09,MA Lin,WANG Hao,4,2,"11,8,11,11,10,11|8,11,6,8,12,3",F,GRAND_SLAM,MS,1700,Main Draw,MA Lin (CHN),WANG Hao (CHN),MA Lin
+China Open Wuxi 2004,2004-09-09,CHOU Tung-Yu,KIHO Shinnosuke,4,3,"7,11,6,11,11,9,11|11,9,11,9,6,11,7",3,GRAND_SLAM,MS,1700,Qualification,CHOU Tung-Yu (TPE),KIHO Shinnosuke (JPN),CHOU Tung-Yu
+China Open Wuxi 2004,2004-09-09,OMORI Takahiro,HUANG Wei-Chin,4,0,"11,11,11,11|9,9,4,3",,GRAND_SLAM,MS,1700,Qualification,OMORI Takahiro (JPN),HUANG Wei-Chin (TPE),OMORI Takahiro
+China Open Wuxi 2004,2004-09-09,GERELL Par,HUANG Wei-Chin,4,0,"11,11,11,11|6,5,6,9",QR2,GRAND_SLAM,MS,1700,Qualification,GERELL Par (SWE),HUANG Wei-Chin (TPE),GERELL Par
+China Open Wuxi 2004,2004-09-09,GERELL Par,OMORI Takahiro,4,3,"11,6,11,7,11,10,11|5,11,8,11,5,12,9",3,GRAND_SLAM,MS,1700,Qualification,GERELL Par (SWE),OMORI Takahiro (JPN),GERELL Par
+China Open Wuxi 2004,2004-09-09,LIM Jaehyun,LAI Kuan-Shen,4,0,"11,16,11,11|9,14,8,1",QR2,GRAND_SLAM,MS,1700,Qualification,LIM Jaehyun (KOR),LAI Kuan-Shen (TPE),LIM Jaehyun
+China Open Wuxi 2004,2004-09-09,YANG Zi,CHUAN Che-Wei,4,0,"11,11,11,11|4,4,8,9",,GRAND_SLAM,MS,1700,Qualification,YANG Zi (SGP),CHUAN Che-Wei (TPE),YANG Zi
+China Open Wuxi 2004,2004-09-09,YOSHIDA Kaii,BERTIN Christophe,4,3,"9,10,11,11,11,8,11|11,12,8,7,7,11,5",QR2,GRAND_SLAM,MS,1700,Qualification,YOSHIDA Kaii (JPN),BERTIN Christophe (FRA),YOSHIDA Kaii
+China Open Wuxi 2004,2004-09-09,YANG Zi,YOSHIDA Kaii,4,0,"11,11,11,11|4,2,6,6",3,GRAND_SLAM,MS,1700,Qualification,YANG Zi (SGP),YOSHIDA Kaii (JPN),YANG Zi
+China Open Wuxi 2004,2004-09-09,BERTIN Christophe,CHUAN Che-Wei,4,2,"10,11,11,8,13,11|12,6,7,11,11,9",QR4,GRAND_SLAM,MS,1700,Qualification,BERTIN Christophe (FRA),CHUAN Che-Wei (TPE),BERTIN Christophe
+China Open Wuxi 2004,2004-09-09,YANG Zi,BERTIN Christophe,4,1,"11,7,11,11,11|5,11,9,6,4",5,GRAND_SLAM,MS,1700,Qualification,YANG Zi (SGP),BERTIN Christophe (FRA),YANG Zi
+China Open Wuxi 2004,2004-09-09,YOSHIDA Kaii,CHUAN Che-Wei,4,0,"11,11,11,11|3,6,5,7",6,GRAND_SLAM,MS,1700,Qualification,YOSHIDA Kaii (JPN),CHUAN Che-Wei (TPE),YOSHIDA Kaii
+China Open Wuxi 2004,2004-09-09,KIM Taehoon,VIPAWATANAKUL Tanawat,4,0,"11,11,11,11|3,7,5,4",,GRAND_SLAM,MS,1700,Qualification,KIM Taehoon (KOR),VIPAWATANAKUL Tanawat (THA),KIM Taehoon
+China Open Wuxi 2004,2004-09-09,TAKAKIWA Taku,SUN Wen-Wei,4,0,"11,11,11,11|8,6,4,4",QR2,GRAND_SLAM,MS,1700,Qualification,TAKAKIWA Taku (JPN),SUN Wen-Wei (TPE),TAKAKIWA Taku
+China Open Wuxi 2004,2004-09-09,KIM Taehoon,SUN Wen-Wei,4,0,"11,11,14,13|9,5,12,11",3,GRAND_SLAM,MS,1700,Qualification,KIM Taehoon (KOR),SUN Wen-Wei (TPE),KIM Taehoon
+China Open Wuxi 2004,2004-09-09,TAKAKIWA Taku,VIPAWATANAKUL Tanawat,4,0,"11,11,11,11|4,2,5,4",QR4,GRAND_SLAM,MS,1700,Qualification,TAKAKIWA Taku (JPN),VIPAWATANAKUL Tanawat (THA),TAKAKIWA Taku
+China Open Wuxi 2004,2004-09-09,TAKAKIWA Taku,KIM Taehoon,4,3,"3,9,11,7,11,11,11|11,11,9,11,2,7,4",5,GRAND_SLAM,MS,1700,Qualification,TAKAKIWA Taku (JPN),KIM Taehoon (KOR),TAKAKIWA Taku
+China Open Wuxi 2004,2004-09-09,SUN Wen-Wei,VIPAWATANAKUL Tanawat,4,1,"11,11,11,6,11|8,4,9,11,7",6,GRAND_SLAM,MS,1700,Qualification,SUN Wen-Wei (TPE),VIPAWATANAKUL Tanawat (THA),SUN Wen-Wei
+China Open Wuxi 2004,2004-09-09,ASAMOAH Cyprian,TAKAKIWA Kenichi,4,2,"11,12,2,17,6,11|9,10,11,15,11,7",,GRAND_SLAM,MS,1700,Qualification,ASAMOAH Cyprian (SWE),TAKAKIWA Kenichi (JPN),ASAMOAH Cyprian
+China Open Wuxi 2004,2004-09-09,LEE Jungsam,TSE Ka Chun,4,2,"11,11,11,6,6,11|2,8,8,11,11,6",QR2,GRAND_SLAM,MS,1700,Qualification,LEE Jungsam (KOR),TSE Ka Chun (HKG),LEE Jungsam
+China Open Wuxi 2004,2004-09-09,ASAMOAH Cyprian,TSE Ka Chun,4,1,"11,11,11,9,11|6,5,4,11,8",3,GRAND_SLAM,MS,1700,Qualification,ASAMOAH Cyprian (SWE),TSE Ka Chun (HKG),ASAMOAH Cyprian
+China Open Wuxi 2004,2004-09-09,LEE Jungsam,TAKAKIWA Kenichi,4,3,"11,11,6,8,11,11,11|13,4,11,11,6,5,7",QR4,GRAND_SLAM,MS,1700,Qualification,LEE Jungsam (KOR),TAKAKIWA Kenichi (JPN),LEE Jungsam
+China Open Wuxi 2004,2004-09-09,ASAMOAH Cyprian,LEE Jungsam,4,1,"13,7,11,11,11|11,11,8,4,5",5,GRAND_SLAM,MS,1700,Qualification,ASAMOAH Cyprian (SWE),LEE Jungsam (KOR),ASAMOAH Cyprian
+China Open Wuxi 2004,2004-09-09,TAKAKIWA Kenichi,TSE Ka Chun,4,1,"11,11,9,11,11|9,9,11,6,8",6,GRAND_SLAM,MS,1700,Qualification,TAKAKIWA Kenichi (JPN),TSE Ka Chun (HKG),TAKAKIWA Kenichi
+China Open Wuxi 2004,2004-09-09,HWANG Sunghoon,BOBILLIER Loic,4,0,"11,11,12,13|9,7,10,11",,GRAND_SLAM,MS,1700,Qualification,HWANG Sunghoon (KOR),BOBILLIER Loic (FRA),HWANG Sunghoon
+China Open Wuxi 2004,2004-09-09,AXELQVIST Johan,HUANG Sheng-Sheng,4,0,"11,11,11,14|5,9,7,12",QR2,GRAND_SLAM,MS,1700,Qualification,AXELQVIST Johan (SWE),HUANG Sheng-Sheng (TPE),AXELQVIST Johan
+China Open Wuxi 2004,2004-09-09,BOBILLIER Loic,HUANG Sheng-Sheng,4,2,"10,11,11,2,11,12|12,4,9,11,8,10",3,GRAND_SLAM,MS,1700,Qualification,BOBILLIER Loic (FRA),HUANG Sheng-Sheng (TPE),BOBILLIER Loic
+China Open Wuxi 2004,2004-09-09,AXELQVIST Johan,HWANG Sunghoon,4,3,"11,11,8,11,4,7,11|8,5,11,8,11,11,8",QR4,GRAND_SLAM,MS,1700,Qualification,AXELQVIST Johan (SWE),HWANG Sunghoon (KOR),AXELQVIST Johan
+China Open Wuxi 2004,2004-09-09,AXELQVIST Johan,BOBILLIER Loic,4,0,"11,11,11,11|7,8,4,9",5,GRAND_SLAM,MS,1700,Qualification,AXELQVIST Johan (SWE),BOBILLIER Loic (FRA),AXELQVIST Johan
+China Open Wuxi 2004,2004-09-09,HUANG Sheng-Sheng,HWANG Sunghoon,4,3,"11,7,14,11,9,7,11|8,11,12,5,11,11,8",6,GRAND_SLAM,MS,1700,Qualification,HUANG Sheng-Sheng (TPE),HWANG Sunghoon (KOR),HUANG Sheng-Sheng
+China Open Wuxi 2004,2004-09-09,LO Dany,SANADA Koji,4,0,"11,12,12,11|7,10,10,7",,GRAND_SLAM,MS,1700,Qualification,LO Dany (FRA),SANADA Koji (JPN),LO Dany
+China Open Wuxi 2004,2004-09-09,KIM Song Chol,VIPAWATANAKUL Sithichok,4,0,"11,14,12,11|5,12,10,4",QR2,GRAND_SLAM,MS,1700,Qualification,KIM Song Chol (PRK),VIPAWATANAKUL Sithichok (AUS),KIM Song Chol
+China Open Wuxi 2004,2004-09-09,LO Dany,VIPAWATANAKUL Sithichok,4,2,"11,6,11,9,11,13|7,11,4,11,6,11",3,GRAND_SLAM,MS,1700,Qualification,LO Dany (FRA),VIPAWATANAKUL Sithichok (AUS),LO Dany
+China Open Wuxi 2004,2004-09-09,KIM Song Chol,SANADA Koji,4,1,"11,11,11,10,13|9,7,3,12,11",QR4,GRAND_SLAM,MS,1700,Qualification,KIM Song Chol (PRK),SANADA Koji (JPN),KIM Song Chol
+China Open Wuxi 2004,2004-09-09,LO Dany,KIM Song Chol,4,1,"8,12,11,11,11|11,10,7,8,5",5,GRAND_SLAM,MS,1700,Qualification,LO Dany (FRA),KIM Song Chol (PRK),LO Dany
+China Open Wuxi 2004,2004-09-09,SANADA Koji,VIPAWATANAKUL Sithichok,4,0,"11,11,11,11|2,5,8,4",6,GRAND_SLAM,MS,1700,Qualification,SANADA Koji (JPN),VIPAWATANAKUL Sithichok (AUS),SANADA Koji
+China Open Wuxi 2004,2004-09-09,TAKAKIWA Kenichi,LEE Jungsam,3,1,"11,11,6,11|5,9,11,8",,GRAND_SLAM,U21MS,1700,Qualification,TAKAKIWA Kenichi (JPN),LEE Jungsam (KOR),TAKAKIWA Kenichi
+China Open Wuxi 2004,2004-09-09,CHUAN Che-Wei,VIPAWATANAKUL Sithichok,3,1,"9,11,11,11|11,7,7,7",QR2,GRAND_SLAM,U21MS,1700,Qualification,CHUAN Che-Wei (TPE),VIPAWATANAKUL Sithichok (AUS),CHUAN Che-Wei
+China Open Wuxi 2004,2004-09-09,LEE Jungsam,VIPAWATANAKUL Sithichok,3,0,"11,13,11|8,11,7",3,GRAND_SLAM,U21MS,1700,Qualification,LEE Jungsam (KOR),VIPAWATANAKUL Sithichok (AUS),LEE Jungsam
+China Open Wuxi 2004,2004-09-09,TAKAKIWA Kenichi,CHUAN Che-Wei,3,0,"11,11,11|7,4,8",QR4,GRAND_SLAM,U21MS,1700,Qualification,TAKAKIWA Kenichi (JPN),CHUAN Che-Wei (TPE),TAKAKIWA Kenichi
+China Open Wuxi 2004,2004-09-09,LEE Jungsam,CHUAN Che-Wei,3,0,"12,11,14|10,8,12",5,GRAND_SLAM,U21MS,1700,Qualification,LEE Jungsam (KOR),CHUAN Che-Wei (TPE),LEE Jungsam
+China Open Wuxi 2004,2004-09-09,TAKAKIWA Kenichi,VIPAWATANAKUL Sithichok,3,0,"11,11,12|7,5,10",6,GRAND_SLAM,U21MS,1700,Qualification,TAKAKIWA Kenichi (JPN),VIPAWATANAKUL Sithichok (AUS),TAKAKIWA Kenichi
+China Open Wuxi 2004,2004-09-09,CHOU Tung-Yu,HUANG Sheng-Sheng,3,2,"11,11,11,6,11|7,7,13,11,7",,GRAND_SLAM,U21MS,1700,Qualification,CHOU Tung-Yu (TPE),HUANG Sheng-Sheng (TPE),CHOU Tung-Yu
+China Open Wuxi 2004,2004-09-09,TSE Ka Chun,HUANG Sheng-Sheng,3,1,"9,14,11,11|11,12,9,8",QR2,GRAND_SLAM,U21MS,1700,Qualification,TSE Ka Chun (HKG),HUANG Sheng-Sheng (TPE),TSE Ka Chun
+China Open Wuxi 2004,2004-09-09,TSE Ka Chun,CHOU Tung-Yu,3,1,"7,11,11,11|11,7,5,9",3,GRAND_SLAM,U21MS,1700,Qualification,TSE Ka Chun (HKG),CHOU Tung-Yu (TPE),TSE Ka Chun
+China Open Wuxi 2004,2004-09-09,BERTIN Christophe,VIPAWATANAKUL Tanawat,3,0,"11,11,11|4,8,5",,GRAND_SLAM,U21MS,1700,Qualification,BERTIN Christophe (FRA),VIPAWATANAKUL Tanawat (THA),BERTIN Christophe
+China Open Wuxi 2004,2004-09-09,LAI Kuan-Shen,VIPAWATANAKUL Tanawat,3,1,"11,7,11,11|7,11,7,5",QR2,GRAND_SLAM,U21MS,1700,Qualification,LAI Kuan-Shen (TPE),VIPAWATANAKUL Tanawat (THA),LAI Kuan-Shen
+China Open Wuxi 2004,2004-09-09,BERTIN Christophe,LAI Kuan-Shen,3,2,"11,10,8,11,12|6,12,11,8,10",3,GRAND_SLAM,U21MS,1700,Qualification,BERTIN Christophe (FRA),LAI Kuan-Shen (TPE),BERTIN Christophe
+China Open Wuxi 2004,2004-09-09,TAKAKIWA Taku,HWANG Sunghoon,3,0,"11,11,11|5,9,9",,GRAND_SLAM,U21MS,1700,Qualification,TAKAKIWA Taku (JPN),HWANG Sunghoon (KOR),TAKAKIWA Taku
+China Open Wuxi 2004,2004-09-09,HWANG Sunghoon,HUANG Wei-Chin,3,1,"11,11,10,11|8,4,12,7",QR2,GRAND_SLAM,U21MS,1700,Qualification,HWANG Sunghoon (KOR),HUANG Wei-Chin (TPE),HWANG Sunghoon
+China Open Wuxi 2004,2004-09-09,TAKAKIWA Taku,HUANG Wei-Chin,3,1,"11,12,11,11|6,14,9,8",3,GRAND_SLAM,U21MS,1700,Qualification,TAKAKIWA Taku (JPN),HUANG Wei-Chin (TPE),TAKAKIWA Taku
+China Open Wuxi 2004,2004-09-09,LIM Jaehyun,CHOU Tung-Yu,4,2,"5,11,11,5,11,11|11,5,5,11,8,9",R16,GRAND_SLAM,U21MS,1700,Main Draw,LIM Jaehyun (KOR),CHOU Tung-Yu (TPE),LIM Jaehyun
+China Open Wuxi 2004,2004-09-09,LO Dany,TAKAKIWA Kenichi,4,2,"11,9,11,11,5,11|9,11,8,6,11,7",R16,GRAND_SLAM,U21MS,1700,Main Draw,LO Dany (FRA),TAKAKIWA Kenichi (JPN),LO Dany
+China Open Wuxi 2004,2004-09-09,TAKAKIWA Taku,BOBILLIER Loic,4,2,"8,11,11,8,11,11|11,8,7,11,5,6",R16,GRAND_SLAM,U21MS,1700,Main Draw,TAKAKIWA Taku (JPN),BOBILLIER Loic (FRA),TAKAKIWA Taku
+China Open Wuxi 2004,2004-09-09,ASAMOAH Cyprian,HWANG Sunghoon,4,3,"13,11,11,11,5,6,11|15,9,5,4,11,11,7",R16,GRAND_SLAM,U21MS,1700,Main Draw,ASAMOAH Cyprian (SWE),HWANG Sunghoon (KOR),ASAMOAH Cyprian
+China Open Wuxi 2004,2004-09-09,KIM Taehoon,LAI Kuan-Shen,4,1,"11,11,9,11,11|8,5,11,3,3",R16,GRAND_SLAM,U21MS,1700,Main Draw,KIM Taehoon (KOR),LAI Kuan-Shen (TPE),KIM Taehoon
+China Open Wuxi 2004,2004-09-09,KIM Song Chol,TSE Ka Chun,4,0,"11,11,11,12|4,7,7,10",R16,GRAND_SLAM,U21MS,1700,Main Draw,KIM Song Chol (PRK),TSE Ka Chun (HKG),KIM Song Chol
+China Open Wuxi 2004,2004-09-09,AXELQVIST Johan,BERTIN Christophe,4,3,"13,3,10,2,11,11,11|11,11,12,11,3,4,7",R16,GRAND_SLAM,U21MS,1700,Main Draw,AXELQVIST Johan (SWE),BERTIN Christophe (FRA),AXELQVIST Johan
+China Open Wuxi 2004,2004-09-09,YANG Zi,LEE Jungsam,4,2,"11,9,11,9,14,11|2,11,7,11,12,6",R16,GRAND_SLAM,U21MS,1700,Main Draw,YANG Zi (SGP),LEE Jungsam (KOR),YANG Zi
+China Open Wuxi 2004,2004-09-09,LO Dany,LIM Jaehyun,4,2,"11,11,10,11,2,11|7,3,12,6,11,8",QF,GRAND_SLAM,U21MS,1700,Main Draw,LO Dany (FRA),LIM Jaehyun (KOR),LO Dany
+China Open Wuxi 2004,2004-09-09,ASAMOAH Cyprian,TAKAKIWA Taku,4,1,"11,11,11,11,11|5,5,9,13,9",QF,GRAND_SLAM,U21MS,1700,Main Draw,ASAMOAH Cyprian (SWE),TAKAKIWA Taku (JPN),ASAMOAH Cyprian
+China Open Wuxi 2004,2004-09-09,KIM Taehoon,KIM Song Chol,4,3,"12,11,1,11,4,9,12|10,4,11,7,11,11,10",QF,GRAND_SLAM,U21MS,1700,Main Draw,KIM Taehoon (KOR),KIM Song Chol (PRK),KIM Taehoon
+China Open Wuxi 2004,2004-09-09,AXELQVIST Johan,YANG Zi,4,2,"11,4,9,11,11,11|6,11,11,3,5,7",QF,GRAND_SLAM,U21MS,1700,Main Draw,AXELQVIST Johan (SWE),YANG Zi (SGP),AXELQVIST Johan
+China Open Wuxi 2004,2004-09-09,LO Dany,ASAMOAH Cyprian,4,1,"11,11,9,11,11|7,9,11,5,2",SF,GRAND_SLAM,U21MS,1700,Main Draw,LO Dany (FRA),ASAMOAH Cyprian (SWE),LO Dany
+China Open Wuxi 2004,2004-09-09,KIM Taehoon,AXELQVIST Johan,4,0,"11,11,11,11|8,1,8,3",SF,GRAND_SLAM,U21MS,1700,Main Draw,KIM Taehoon (KOR),AXELQVIST Johan (SWE),KIM Taehoon
+China Open Wuxi 2004,2004-09-09,LO Dany,KIM Taehoon,4,1,"11,8,11,11,12|8,11,8,8,10",F,GRAND_SLAM,U21MS,1700,Main Draw,LO Dany (FRA),KIM Taehoon (KOR),LO Dany
+China Open Wuxi 2004,2004-09-09,ZHANG Yining,PAN Chun-Chu,4,0,"11,11,11,11|2,6,4,5",R32,GRAND_SLAM,WS,1700,Main Draw,ZHANG Yining (CHN),PAN Chun-Chu (TPE),ZHANG Yining
+China Open Wuxi 2004,2004-09-09,HIRANO Sayaka,KOMWONG Nanthana,4,3,"7,7,11,11,17,11,11|11,11,4,9,19,8,6",R32,GRAND_SLAM,WS,1700,Main Draw,HIRANO Sayaka (JPN),KOMWONG Nanthana (THA),HIRANO Sayaka
+China Open Wuxi 2004,2004-09-09,LI Xiaoxia,KIM Jong,4,0,"11,11,11,11|4,7,9,1",R32,GRAND_SLAM,WS,1700,Main Draw,LI Xiaoxia (CHN),KIM Jong (PRK),LI Xiaoxia
+China Open Wuxi 2004,2004-09-09,KIM Hyang Mi,MUANGSUK Anisara,4,3,"8,11,7,11,11,10,11|11,7,11,9,4,12,4",R32,GRAND_SLAM,WS,1700,Main Draw,KIM Hyang Mi (PRK),MUANGSUK Anisara (THA),KIM Hyang Mi
+China Open Wuxi 2004,2004-09-09,ZHANG Rui,KIM Hyehyun,4,0,"11,11,12,11|6,7,10,7",R32,GRAND_SLAM,WS,1700,Main Draw,ZHANG Rui (HKG),KIM Hyehyun (KOR),ZHANG Rui
+China Open Wuxi 2004,2004-09-09,MOON Hyunjung,JANG Hyon Ae,4,0,"12,11,11,11|10,4,6,8",R32,GRAND_SLAM,WS,1700,Main Draw,MOON Hyunjung (KOR),JANG Hyon Ae (PRK),MOON Hyunjung
+China Open Wuxi 2004,2004-09-09,CAO Zhen,KIM Mi Yong,4,2,"3,11,11,8,11,11|11,7,9,11,6,6",R32,GRAND_SLAM,WS,1700,Main Draw,CAO Zhen (CHN),KIM Mi Yong (PRK),CAO Zhen
+China Open Wuxi 2004,2004-09-09,TIE Yana,LEE I-Chen,4,1,"11,11,8,11,11|8,5,11,5,5",R32,GRAND_SLAM,WS,1700,Main Draw,TIE Yana (HKG),LEE I-Chen (TPE),TIE Yana
+China Open Wuxi 2004,2004-09-09,LAU Sui Fei,KIM Minhee (YOB=1985),4,0,"11,11,11,11|6,3,8,8",R32,GRAND_SLAM,WS,1700,Main Draw,LAU Sui Fei (HKG),KIM Minhee (YOB=1985) (KOR),LAU Sui Fei
+China Open Wuxi 2004,2004-09-09,KONISHI An,KWAK Bangbang,4,1,"11,12,11,11,11|6,14,5,7,9",R32,GRAND_SLAM,WS,1700,Main Draw,KONISHI An (JPN),KWAK Bangbang (KOR),KONISHI An
+China Open Wuxi 2004,2004-09-09,WANG Tingting,KIM Hyon Hui,4,1,"11,11,12,11,11|8,4,14,9,7",R32,GRAND_SLAM,WS,1700,Main Draw,WANG Tingting (CHN),KIM Hyon Hui (PRK),WANG Tingting
+China Open Wuxi 2004,2004-09-09,FUKUHARA Ai,HUANG Yi-Hua,4,1,"11,19,12,11,11|5,17,14,6,8",R32,GRAND_SLAM,WS,1700,Main Draw,FUKUHARA Ai (JPN),HUANG Yi-Hua (TPE),FUKUHARA Ai
+China Open Wuxi 2004,2004-09-09,FAN Ying,LEE Hyangmi,4,0,"11,11,11,11|5,7,6,5",R32,GRAND_SLAM,WS,1700,Main Draw,FAN Ying (CHN),LEE Hyangmi (KOR),FAN Ying
+China Open Wuxi 2004,2004-09-09,ETSUZAKI Ayumi,SONG Ah Sim,4,2,"11,8,11,11,6,16|7,11,3,6,11,14",R32,GRAND_SLAM,WS,1700,Main Draw,ETSUZAKI Ayumi (JPN),SONG Ah Sim (HKG),ETSUZAKI Ayumi
+China Open Wuxi 2004,2004-09-09,KIM Yun Mi,FUJITA Yuki,4,3,"11,6,11,9,13,8,11|7,11,4,11,11,11,9",R32,GRAND_SLAM,WS,1700,Main Draw,KIM Yun Mi (PRK),FUJITA Yuki (JPN),KIM Yun Mi
+China Open Wuxi 2004,2004-09-09,WANG Nan,JEON Hyekyung,4,1,"9,11,11,11,11|11,5,8,5,6",R32,GRAND_SLAM,WS,1700,Main Draw,WANG Nan (CHN),JEON Hyekyung (KOR),WANG Nan
+China Open Wuxi 2004,2004-09-09,ZHANG Yining,HIRANO Sayaka,4,0,"11,11,11,11|8,7,6,4",R16,GRAND_SLAM,WS,1700,Main Draw,ZHANG Yining (CHN),HIRANO Sayaka (JPN),ZHANG Yining
+China Open Wuxi 2004,2004-09-09,LI Xiaoxia,KIM Hyang Mi,4,1,"11,11,11,9,11|7,7,5,11,7",R16,GRAND_SLAM,WS,1700,Main Draw,LI Xiaoxia (CHN),KIM Hyang Mi (PRK),LI Xiaoxia
+China Open Wuxi 2004,2004-09-09,ZHANG Rui,MOON Hyunjung,4,3,"11,9,11,11,6,11,11|9,11,9,13,11,9,9",R16,GRAND_SLAM,WS,1700,Main Draw,ZHANG Rui (HKG),MOON Hyunjung (KOR),ZHANG Rui
+China Open Wuxi 2004,2004-09-09,CAO Zhen,TIE Yana,4,0,"13,11,11,11|11,8,5,4",R16,GRAND_SLAM,WS,1700,Main Draw,CAO Zhen (CHN),TIE Yana (HKG),CAO Zhen
+China Open Wuxi 2004,2004-09-09,KONISHI An,LAU Sui Fei,4,2,"11,13,7,11,9,11|7,11,11,7,11,7",R16,GRAND_SLAM,WS,1700,Main Draw,KONISHI An (JPN),LAU Sui Fei (HKG),KONISHI An
+China Open Wuxi 2004,2004-09-09,WANG Tingting,FUKUHARA Ai,4,2,"7,11,9,11,11,11|11,6,11,8,9,3",R16,GRAND_SLAM,WS,1700,Main Draw,WANG Tingting (CHN),FUKUHARA Ai (JPN),WANG Tingting
+China Open Wuxi 2004,2004-09-09,FAN Ying,ETSUZAKI Ayumi,4,2,"11,11,9,11,7,11|6,5,11,8,11,8",R16,GRAND_SLAM,WS,1700,Main Draw,FAN Ying (CHN),ETSUZAKI Ayumi (JPN),FAN Ying
+China Open Wuxi 2004,2004-09-09,WANG Nan,KIM Yun Mi,4,1,"11,11,11,2,11|7,7,8,11,8",R16,GRAND_SLAM,WS,1700,Main Draw,WANG Nan (CHN),KIM Yun Mi (PRK),WANG Nan
+China Open Wuxi 2004,2004-09-09,ZHANG Yining,LI Xiaoxia,4,2,"11,9,8,11,11,13|9,11,11,7,3,11",QF,GRAND_SLAM,WS,1700,Main Draw,ZHANG Yining (CHN),LI Xiaoxia (CHN),ZHANG Yining
+China Open Wuxi 2004,2004-09-09,CAO Zhen,ZHANG Rui,4,1,"11,11,11,6,11|3,9,6,11,6",QF,GRAND_SLAM,WS,1700,Main Draw,CAO Zhen (CHN),ZHANG Rui (HKG),CAO Zhen
+China Open Wuxi 2004,2004-09-09,WANG Tingting,KONISHI An,4,0,"11,11,11,11|9,9,9,8",QF,GRAND_SLAM,WS,1700,Main Draw,WANG Tingting (CHN),KONISHI An (JPN),WANG Tingting
+China Open Wuxi 2004,2004-09-09,FAN Ying,WANG Nan,4,3,"4,11,6,11,10,11,11|11,4,11,6,12,7,5",QF,GRAND_SLAM,WS,1700,Main Draw,FAN Ying (CHN),WANG Nan (CHN),FAN Ying
+China Open Wuxi 2004,2004-09-09,CAO Zhen,ZHANG Yining,4,2,"9,11,11,11,10,11|11,7,9,6,12,3",SF,GRAND_SLAM,WS,1700,Main Draw,CAO Zhen (CHN),ZHANG Yining (CHN),CAO Zhen
+China Open Wuxi 2004,2004-09-09,WANG Tingting,FAN Ying,4,2,"6,12,11,9,11,11|11,10,9,11,8,7",SF,GRAND_SLAM,WS,1700,Main Draw,WANG Tingting (CHN),FAN Ying (CHN),WANG Tingting
+China Open Wuxi 2004,2004-09-09,CAO Zhen,WANG Tingting,4,0,"11,11,11,12|3,4,4,10",F,GRAND_SLAM,WS,1700,Main Draw,CAO Zhen (CHN),WANG Tingting (CHN),CAO Zhen
+China Open Wuxi 2004,2004-09-09,PAN Chun-Chu,KERTAI Rita,4,3,"11,1,11,5,11,7,11|7,11,5,11,6,11,6",,GRAND_SLAM,WS,1700,Qualification,PAN Chun-Chu (TPE),KERTAI Rita (HUN),PAN Chun-Chu
+China Open Wuxi 2004,2004-09-09,KWAK Bangbang,PAN Chun-Chu,4,0,"11,11,11,11|5,4,8,5",QR2,GRAND_SLAM,WS,1700,Qualification,KWAK Bangbang (KOR),PAN Chun-Chu (TPE),KWAK Bangbang
+China Open Wuxi 2004,2004-09-09,KWAK Bangbang,KERTAI Rita,4,2,"8,5,11,11,11,12|11,11,2,8,1,10",3,GRAND_SLAM,WS,1700,Qualification,KWAK Bangbang (KOR),KERTAI Rita (HUN),KWAK Bangbang
+China Open Wuxi 2004,2004-09-09,LEE I-Chen,PARK Kyungae (II),4,2,"13,2,12,11,5,11|11,11,10,9,11,6",,GRAND_SLAM,WS,1700,Qualification,LEE I-Chen (TPE),PARK Kyungae (II) (KOR),LEE I-Chen
+China Open Wuxi 2004,2004-09-09,KOMWONG Nanthana,LEE I-Chen,4,1,"11,5,11,13,11|8,11,9,11,9",QR2,GRAND_SLAM,WS,1700,Qualification,KOMWONG Nanthana (THA),LEE I-Chen (TPE),KOMWONG Nanthana
+China Open Wuxi 2004,2004-09-09,KOMWONG Nanthana,PARK Kyungae (II),4,1,"11,11,11,11,11|8,9,5,13,8",3,GRAND_SLAM,WS,1700,Qualification,KOMWONG Nanthana (THA),PARK Kyungae (II) (KOR),KOMWONG Nanthana
+China Open Wuxi 2004,2004-09-09,ETSUZAKI Ayumi,LEE Hyangmi,4,1,"11,11,7,11,11|8,5,11,8,2",,GRAND_SLAM,WS,1700,Qualification,ETSUZAKI Ayumi (JPN),LEE Hyangmi (KOR),ETSUZAKI Ayumi
+China Open Wuxi 2004,2004-09-09,ETSUZAKI Ayumi,LU Yun-Feng,4,0,"13,11,11,11|11,8,4,2",QR2,GRAND_SLAM,WS,1700,Qualification,ETSUZAKI Ayumi (JPN),LU Yun-Feng (TPE),ETSUZAKI Ayumi
+China Open Wuxi 2004,2004-09-09,LEE Hyangmi,LU Yun-Feng,4,1,"11,11,8,11,11|6,6,11,9,5",3,GRAND_SLAM,WS,1700,Qualification,LEE Hyangmi (KOR),LU Yun-Feng (TPE),LEE Hyangmi
+China Open Wuxi 2004,2004-09-09,FUJITA Yuki,YU Kwok See,4,0,"11,11,11,11|6,8,6,5",,GRAND_SLAM,WS,1700,Qualification,FUJITA Yuki (JPN),YU Kwok See (HKG),FUJITA Yuki
+China Open Wuxi 2004,2004-09-09,HUANG Yi-Hua,YU Kwok See,4,2,"8,11,11,11,10,11|11,5,6,5,12,3",QR2,GRAND_SLAM,WS,1700,Qualification,HUANG Yi-Hua (TPE),YU Kwok See (HKG),HUANG Yi-Hua
+China Open Wuxi 2004,2004-09-09,FUJITA Yuki,HUANG Yi-Hua,4,0,"11,11,11,11|8,6,9,7",3,GRAND_SLAM,WS,1700,Qualification,FUJITA Yuki (JPN),HUANG Yi-Hua (TPE),FUJITA Yuki
+China Open Wuxi 2004,2004-09-09,KIM Minhee (YOB=1985),YU Mei-Ju,4,1,"9,11,11,14,11|11,7,3,12,3",,GRAND_SLAM,WS,1700,Qualification,KIM Minhee (YOB=1985) (KOR),YU Mei-Ju (TPE),KIM Minhee (YOB=1985)
+China Open Wuxi 2004,2004-09-09,KIM Mi Yong,KIM Minhee (YOB=1985),4,3,"13,11,11,4,4,11,11|15,8,9,11,11,7,8",QR2,GRAND_SLAM,WS,1700,Qualification,KIM Mi Yong (PRK),KIM Minhee (YOB=1985) (KOR),KIM Mi Yong
+China Open Wuxi 2004,2004-09-09,KIM Mi Yong,YU Mei-Ju,4,1,"11,11,11,10,11|4,8,5,12,7",3,GRAND_SLAM,WS,1700,Qualification,KIM Mi Yong (PRK),YU Mei-Ju (TPE),KIM Mi Yong
+China Open Wuxi 2004,2004-09-09,WANG Tingting,KO Un Gyong,4,0,"11,14,11,11|4,12,6,2",,GRAND_SLAM,WS,1700,Qualification,WANG Tingting (CHN),KO Un Gyong (PRK),WANG Tingting
+China Open Wuxi 2004,2004-09-09,JEON Hyekyung,WANG Tingting,4,2,"11,13,4,11,3,11|9,11,11,7,11,8",QR2,GRAND_SLAM,WS,1700,Qualification,JEON Hyekyung (KOR),WANG Tingting (CHN),JEON Hyekyung
+China Open Wuxi 2004,2004-09-09,KO Un Gyong,JEON Hyekyung,4,2,"11,11,11,9,12,14|7,9,8,11,14,12",3,GRAND_SLAM,WS,1700,Qualification,KO Un Gyong (PRK),JEON Hyekyung (KOR),KO Un Gyong
+China Open Wuxi 2004,2004-09-09,KIM Jong,KIM Hyehyun,4,1,"11,6,14,11,11|5,11,12,9,8",QR2,GRAND_SLAM,WS,1700,Qualification,KIM Jong (PRK),KIM Hyehyun (KOR),KIM Jong
+China Open Wuxi 2004,2004-09-09,KIM Hyehyun,LOVAS Petra,4,1,"11,11,11,2,11|7,6,8,11,4",3,GRAND_SLAM,WS,1700,Qualification,KIM Hyehyun (KOR),LOVAS Petra (HUN),KIM Hyehyun
+China Open Wuxi 2004,2004-09-09,LOVAS Petra,KIM Jong,4,2,"11,11,6,11,9,11|7,7,11,4,11,9",5,GRAND_SLAM,WS,1700,Qualification,LOVAS Petra (HUN),KIM Jong (PRK),LOVAS Petra
+China Open Wuxi 2004,2004-09-09,JANG Hyon Ae,HSU Hui-Tsun,4,2,"7,14,11,6,11,11|11,12,9,11,9,7",,GRAND_SLAM,WS,1700,Qualification,JANG Hyon Ae (PRK),HSU Hui-Tsun (TPE),JANG Hyon Ae
+China Open Wuxi 2004,2004-09-09,MUANGSUK Anisara,JUN Hyunsil,4,1,"11,11,11,7,13|6,2,8,11,11",QR2,GRAND_SLAM,WS,1700,Qualification,MUANGSUK Anisara (THA),JUN Hyunsil (KOR),MUANGSUK Anisara
+China Open Wuxi 2004,2004-09-09,JANG Hyon Ae,JUN Hyunsil,4,3,"8,12,11,11,7,13,11|11,14,5,7,11,11,4",3,GRAND_SLAM,WS,1700,Qualification,JANG Hyon Ae (PRK),JUN Hyunsil (KOR),JANG Hyon Ae
+China Open Wuxi 2004,2004-09-09,HSU Hui-Tsun,MUANGSUK Anisara,4,0,"11,11,11,11|4,9,3,7",QR4,GRAND_SLAM,WS,1700,Qualification,HSU Hui-Tsun (TPE),MUANGSUK Anisara (THA),HSU Hui-Tsun
+China Open Wuxi 2004,2004-09-09,JANG Hyon Ae,MUANGSUK Anisara,4,0,"11,11,17,13|8,9,15,11",5,GRAND_SLAM,WS,1700,Qualification,JANG Hyon Ae (PRK),MUANGSUK Anisara (THA),JANG Hyon Ae
+China Open Wuxi 2004,2004-09-09,JUN Hyunsil,HSU Hui-Tsun,4,0,"11,11,11,11|7,9,9,5",6,GRAND_SLAM,WS,1700,Qualification,JUN Hyunsil (KOR),HSU Hui-Tsun (TPE),JUN Hyunsil
+China Open Wuxi 2004,2004-09-09,KO Un Gyong,YU Mei-Ju,3,1,"7,11,11,11|11,5,4,5",,GRAND_SLAM,U21WS,1700,Qualification,KO Un Gyong (PRK),YU Mei-Ju (TPE),KO Un Gyong
+China Open Wuxi 2004,2004-09-09,HIRANO Sayaka,KIM Minhee (YOB=1985),3,0,"11,14,11|3,12,8",,GRAND_SLAM,U21WS,1700,Qualification,HIRANO Sayaka (JPN),KIM Minhee (YOB=1985) (KOR),HIRANO Sayaka
+China Open Wuxi 2004,2004-09-09,JANG Hyon Ae,LEE I-Chen,3,2,"12,11,8,11,11|14,9,11,9,7",QR2,GRAND_SLAM,U21WS,1700,Qualification,JANG Hyon Ae (PRK),LEE I-Chen (TPE),JANG Hyon Ae
+China Open Wuxi 2004,2004-09-09,HIRANO Sayaka,LEE I-Chen,3,0,"11,11,11|3,8,7",3,GRAND_SLAM,U21WS,1700,Qualification,HIRANO Sayaka (JPN),LEE I-Chen (TPE),HIRANO Sayaka
+China Open Wuxi 2004,2004-09-09,JANG Hyon Ae,KIM Minhee (YOB=1985),3,2,"8,9,11,11,11|11,11,2,9,9",QR4,GRAND_SLAM,U21WS,1700,Qualification,JANG Hyon Ae (PRK),KIM Minhee (YOB=1985) (KOR),JANG Hyon Ae
+China Open Wuxi 2004,2004-09-09,JANG Hyon Ae,HIRANO Sayaka,3,2,"4,3,11,11,12|11,11,7,6,10",5,GRAND_SLAM,U21WS,1700,Qualification,JANG Hyon Ae (PRK),HIRANO Sayaka (JPN),JANG Hyon Ae
+China Open Wuxi 2004,2004-09-09,LEE I-Chen,KIM Minhee (YOB=1985),3,2,"7,11,11,13,11|11,8,8,15,5",6,GRAND_SLAM,U21WS,1700,Qualification,LEE I-Chen (TPE),KIM Minhee (YOB=1985) (KOR),LEE I-Chen
+China Open Wuxi 2004,2004-09-09,KO Un Gyong,KIM Mi Yong,4,2,"7,5,11,11,11,11|11,11,9,7,7,8",SF,GRAND_SLAM,U21WS,1700,Main Draw,KO Un Gyong (PRK),KIM Mi Yong (PRK),KO Un Gyong
+China Open Wuxi 2004,2004-09-09,MOON Hyunjung,KO Un Gyong,4,3,"11,11,13,13,11,7,11|13,5,11,15,6,11,9",F,GRAND_SLAM,U21WS,1700,Main Draw,MOON Hyunjung (KOR),KO Un Gyong (PRK),MOON Hyunjung
+China Open Wuxi 2004,2004-09-09,MOON Hyunjung,HSU Hui-Tsun,3,2,"12,11,4,11,11|14,4,11,7,3",,GRAND_SLAM,U21WS,1700,Qualification,MOON Hyunjung (KOR),HSU Hui-Tsun (TPE),MOON Hyunjung
+China Open Wuxi 2004,2004-09-09,KIM Jong,HUANG Yi-Hua,3,0,"16,13,11|14,11,6",QR2,GRAND_SLAM,U21WS,1700,Qualification,KIM Jong (PRK),HUANG Yi-Hua (TPE),KIM Jong
+China Open Wuxi 2004,2004-09-09,MOON Hyunjung,KIM Jong,3,0,"11,11,11|6,3,9",3,GRAND_SLAM,U21WS,1700,Qualification,MOON Hyunjung (KOR),KIM Jong (PRK),MOON Hyunjung
+China Open Wuxi 2004,2004-09-09,HUANG Yi-Hua,HSU Hui-Tsun,3,0,"11,11,11|9,4,6",QR4,GRAND_SLAM,U21WS,1700,Qualification,HUANG Yi-Hua (TPE),HSU Hui-Tsun (TPE),HUANG Yi-Hua
+China Open Wuxi 2004,2004-09-09,MOON Hyunjung,HUANG Yi-Hua,3,1,"11,11,5,14|6,5,11,12",5,GRAND_SLAM,U21WS,1700,Qualification,MOON Hyunjung (KOR),HUANG Yi-Hua (TPE),MOON Hyunjung
+China Open Wuxi 2004,2004-09-09,KIM Jong,HSU Hui-Tsun,3,0,"11,11,11|6,8,6",6,GRAND_SLAM,U21WS,1700,Qualification,KIM Jong (PRK),HSU Hui-Tsun (TPE),KIM Jong
+China Open Wuxi 2004,2004-09-09,KIM Hyehyun,LU Yun-Feng,3,1,"11,6,11,12|5,11,8,10",,GRAND_SLAM,U21WS,1700,Qualification,KIM Hyehyun (KOR),LU Yun-Feng (TPE),KIM Hyehyun
+China Open Wuxi 2004,2004-09-09,KIM Mi Yong,YU Kwok See,3,0,"11,14,11|7,12,7",QR2,GRAND_SLAM,U21WS,1700,Qualification,KIM Mi Yong (PRK),YU Kwok See (HKG),KIM Mi Yong
+China Open Wuxi 2004,2004-09-09,LU Yun-Feng,YU Kwok See,3,0,"11,15,11|8,13,9",3,GRAND_SLAM,U21WS,1700,Qualification,LU Yun-Feng (TPE),YU Kwok See (HKG),LU Yun-Feng
+China Open Wuxi 2004,2004-09-09,KIM Mi Yong,KIM Hyehyun,3,0,"11,11,11|5,7,3",QR4,GRAND_SLAM,U21WS,1700,Qualification,KIM Mi Yong (PRK),KIM Hyehyun (KOR),KIM Mi Yong
+China Open Wuxi 2004,2004-09-09,KIM Mi Yong,LU Yun-Feng,3,0,"11,13,11|5,11,9",5,GRAND_SLAM,U21WS,1700,Qualification,KIM Mi Yong (PRK),LU Yun-Feng (TPE),KIM Mi Yong
+China Open Wuxi 2004,2004-09-09,YU Kwok See,KIM Hyehyun,3,0,"13,14,11|11,12,6",6,GRAND_SLAM,U21WS,1700,Qualification,YU Kwok See (HKG),KIM Hyehyun (KOR),YU Kwok See
+China Open Wuxi 2004,2004-09-09,CHEN Qi/MA Lin,HWANG Sunghoon/KIM Gunhwan,4,0,"11,11,11,11|6,5,7,6",R16,GRAND_SLAM,MD,1700,Main Draw,CHEN Qi (CHN) / MA Lin (CHN),HWANG Sunghoon (KOR) / KIM Gunhwan (KOR),CHEN Qi
+China Open Wuxi 2004,2004-09-09,CHEN Qi/MA Lin,HAKANSSON Fredrik/KARLSSON Peter,4,1,"11,11,11,7,11|7,5,1,11,8",QF,GRAND_SLAM,MD,1700,Main Draw,CHEN Qi (CHN) / MA Lin (CHN),HAKANSSON Fredrik (SWE) / KARLSSON Peter (SWE),CHEN Qi
+China Open Wuxi 2004,2004-09-09,CHEN Qi/MA Lin,WANG Liqin/YAN Sen,4,0,"11,11,13,17|9,9,11,15",SF,GRAND_SLAM,MD,1700,Main Draw,CHEN Qi (CHN) / MA Lin (CHN),WANG Liqin (CHN) / YAN Sen (CHN),CHEN Qi
+China Open Wuxi 2004,2004-09-09,CHEN Qi/MA Lin,CHEUNG Yuk/LEUNG Chu Yan,4,1,"11,8,11,11,12|5,11,7,8,10",F,GRAND_SLAM,MD,1700,Main Draw,CHEN Qi (CHN) / MA Lin (CHN),CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),CHEN Qi
+China Open Wuxi 2004,2004-09-09,BERTIN Christophe/BOBILLIER Loic,TAKAKIWA Kenichi/TAKAKIWA Taku,4,1,"11,11,11,9,13|7,9,7,11,11",R16,GRAND_SLAM,MD,1700,Main Draw,BERTIN Christophe (FRA) / BOBILLIER Loic (FRA),TAKAKIWA Kenichi (JPN) / TAKAKIWA Taku (JPN),BERTIN Christophe
+China Open Wuxi 2004,2004-09-09,KONG Linghui/WANG Hao,BERTIN Christophe/BOBILLIER Loic,4,0,"11,11,11,11|9,6,3,7",QF,GRAND_SLAM,MD,1700,Main Draw,KONG Linghui (CHN) / WANG Hao (CHN),BERTIN Christophe (FRA) / BOBILLIER Loic (FRA),KONG Linghui
+China Open Wuxi 2004,2004-09-09,CHEUNG Yuk/LEUNG Chu Yan,CHOU Tung-Yu/HUANG Wei-Chin,4,0,"11,15,11,11|9,13,5,9",R16,GRAND_SLAM,MD,1700,Main Draw,CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),CHOU Tung-Yu (TPE) / HUANG Wei-Chin (TPE),CHEUNG Yuk
+China Open Wuxi 2004,2004-09-09,CHEUNG Yuk/LEUNG Chu Yan,CHILA Patrick/LO Dany,4,2,"12,11,11,11,10,11|14,6,8,3,12,8",QF,GRAND_SLAM,MD,1700,Main Draw,CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),CHILA Patrick (FRA) / LO Dany (FRA),CHEUNG Yuk
+China Open Wuxi 2004,2004-09-09,CHEUNG Yuk/LEUNG Chu Yan,KONG Linghui/WANG Hao,4,1,"11,3,11,12,11|4,11,4,10,9",SF,GRAND_SLAM,MD,1700,Main Draw,CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),KONG Linghui (CHN) / WANG Hao (CHN),CHEUNG Yuk
+China Open Wuxi 2004,2004-09-09,OMORI Takahiro/YOSHIDA Kaii,AXELQVIST Johan/SMIRNOV Alexey,4,0,"11,11,11,11|9,7,8,5",R16,GRAND_SLAM,MD,1700,Main Draw,OMORI Takahiro (JPN) / YOSHIDA Kaii (JPN),AXELQVIST Johan (SWE) / SMIRNOV Alexey (RUS),OMORI Takahiro
+China Open Wuxi 2004,2004-09-09,WANG Liqin/YAN Sen,TSE Ka Chun/YOSHITOMI Eigo,4,0,"11,11,11,12|7,6,7,10",R16,GRAND_SLAM,MD,1700,Main Draw,WANG Liqin (CHN) / YAN Sen (CHN),TSE Ka Chun (HKG) / YOSHITOMI Eigo (JPN),WANG Liqin
+China Open Wuxi 2004,2004-09-09,KONG Linghui/WANG Hao,KIHO Shinnosuke/SANADA Koji,4,0,"11,11,11,11|8,7,8,7",R16,GRAND_SLAM,MD,1700,Main Draw,KONG Linghui (CHN) / WANG Hao (CHN),KIHO Shinnosuke (JPN) / SANADA Koji (JPN),KONG Linghui
+China Open Wuxi 2004,2004-09-09,WANG Liqin/YAN Sen,OMORI Takahiro/YOSHIDA Kaii,4,0,"11,11,11,11|6,2,4,4",QF,GRAND_SLAM,MD,1700,Main Draw,WANG Liqin (CHN) / YAN Sen (CHN),OMORI Takahiro (JPN) / YOSHIDA Kaii (JPN),WANG Liqin
+China Open Wuxi 2004,2004-09-09,KIHO Shinnosuke/SANADA Koji,CHUAN Che-Wei/LAI Kuan-Shen,3,0,"11,11,14|8,5,12",QR16,GRAND_SLAM,MD,1700,Qualification,KIHO Shinnosuke (JPN) / SANADA Koji (JPN),CHUAN Che-Wei (TPE) / LAI Kuan-Shen (TPE),KIHO Shinnosuke
+China Open Wuxi 2004,2004-09-09,TSE Ka Chun/YOSHITOMI Eigo,VIPAWATANAKUL Sithichok/VIPAWATANAKUL Tanawat,3,2,"12,11,8,11,11|14,8,11,9,5",QR16,GRAND_SLAM,MD,1700,Qualification,TSE Ka Chun (HKG) / YOSHITOMI Eigo (JPN),VIPAWATANAKUL Sithichok (AUS) / VIPAWATANAKUL Tanawat (THA),TSE Ka Chun
+China Open Wuxi 2004,2004-09-09,CHILA Patrick/LO Dany,LEE Jungsam/LIM Jaehyun,4,1,"11,11,11,12,16|9,13,7,10,14",R16,GRAND_SLAM,MD,1700,Main Draw,CHILA Patrick (FRA) / LO Dany (FRA),LEE Jungsam (KOR) / LIM Jaehyun (KOR),CHILA Patrick
+China Open Wuxi 2004,2004-09-09,HWANG Sunghoon/KIM Gunhwan,ASAMOAH Cyprian/GERELL Par,3,2,"13,5,11,3,11|11,11,7,11,7",QR16,GRAND_SLAM,MD,1700,Qualification,HWANG Sunghoon (KOR) / KIM Gunhwan (KOR),ASAMOAH Cyprian (SWE) / GERELL Par (SWE),HWANG Sunghoon
+China Open Wuxi 2004,2004-09-09,LEE Jungsam/LIM Jaehyun,HUANG Sheng-Sheng/SUN Wen-Wei,3,1,"11,11,11,11|8,8,13,7",QR16,GRAND_SLAM,MD,1700,Qualification,LEE Jungsam (KOR) / LIM Jaehyun (KOR),HUANG Sheng-Sheng (TPE) / SUN Wen-Wei (TPE),LEE Jungsam
+China Open Wuxi 2004,2004-09-09,HAKANSSON Fredrik/KARLSSON Peter,KIM Song Chol/PAK Won Chol,4,2,"11,4,11,6,11,21|9,11,8,11,7,19",R16,GRAND_SLAM,MD,1700,Main Draw,HAKANSSON Fredrik (SWE) / KARLSSON Peter (SWE),KIM Song Chol (PRK) / PAK Won Chol (PRK),HAKANSSON Fredrik
+China Open Wuxi 2004,2004-09-09,WANG Nan/ZHANG Yining,JUN Hyunsil/LEE Hyangmi,4,0,"11,11,11,11|9,4,5,5",R16,GRAND_SLAM,WD,1700,Main Draw,WANG Nan (CHN) / ZHANG Yining (CHN),JUN Hyunsil (KOR) / LEE Hyangmi (KOR),WANG Nan
+China Open Wuxi 2004,2004-09-09,FAN Ying/WANG Tingting,KIM Hyang Mi/KIM Hyon Hui,4,3,"11,11,7,9,9,11,11|7,8,11,11,11,6,8",R16,GRAND_SLAM,WD,1700,Main Draw,FAN Ying (CHN) / WANG Tingting (CHN),KIM Hyang Mi (PRK) / KIM Hyon Hui (PRK),FAN Ying
+China Open Wuxi 2004,2004-09-09,CAO Zhen/LI Xiaoxia,JEON Hyekyung/PARK Kyungae (I),4,1,"11,11,11,9,11|6,5,8,11,3",R16,GRAND_SLAM,WD,1700,Main Draw,CAO Zhen (CHN) / LI Xiaoxia (CHN),JEON Hyekyung (KOR) / PARK Kyungae (I) (KOR),CAO Zhen
+China Open Wuxi 2004,2004-09-09,FAN Ying/WANG Tingting,WANG Nan/ZHANG Yining,4,3,"11,13,5,11,5,7,11|6,11,11,8,11,11,8",QF,GRAND_SLAM,WD,1700,Main Draw,FAN Ying (CHN) / WANG Tingting (CHN),WANG Nan (CHN) / ZHANG Yining (CHN),FAN Ying
+China Open Wuxi 2004,2004-09-09,CAO Zhen/LI Xiaoxia,SONG Ah Sim/TIE Yana,4,0,"11,11,11,11|5,9,8,9",SF,GRAND_SLAM,WD,1700,Main Draw,CAO Zhen (CHN) / LI Xiaoxia (CHN),SONG Ah Sim (HKG) / TIE Yana (HKG),CAO Zhen
+China Open Wuxi 2004,2004-09-09,CAO Zhen/LI Xiaoxia,FAN Ying/WANG Tingting,4,0,"11,11,14,11|7,9,12,4",F,GRAND_SLAM,WD,1700,Main Draw,CAO Zhen (CHN) / LI Xiaoxia (CHN),FAN Ying (CHN) / WANG Tingting (CHN),CAO Zhen
+China Open Wuxi 2004,2004-09-09,FAN Ying/WANG Tingting,PAN Chun-Chu/YU Mei-Ju,3,0,"11,11,11|6,4,5",QR4,GRAND_SLAM,WD,1700,Qualification,FAN Ying (CHN) / WANG Tingting (CHN),PAN Chun-Chu (TPE) / YU Mei-Ju (TPE),FAN Ying
+China Open Wuxi 2004,2004-09-09,KIM Hyehyun/KWAK Bangbang,LAU Sui Fei/ZHANG Rui,4,1,"12,11,11,6,12|10,6,9,11,10",R16,GRAND_SLAM,WD,1700,Main Draw,KIM Hyehyun (KOR) / KWAK Bangbang (KOR),LAU Sui Fei (HKG) / ZHANG Rui (HKG),KIM Hyehyun
+China Open Wuxi 2004,2004-09-09,KIM Mi Yong/KO Un Gyong,HIRANO Sayaka/KONISHI An,4,2,"11,12,9,11,7,11|9,10,11,8,11,9",R16,GRAND_SLAM,WD,1700,Main Draw,KIM Mi Yong (PRK) / KO Un Gyong (PRK),HIRANO Sayaka (JPN) / KONISHI An (JPN),KIM Mi Yong
+China Open Wuxi 2004,2004-09-09,KIM Mi Yong/KO Un Gyong,ETSUZAKI Ayumi/FUJITA Yuki,3,0,"11,11,11|9,6,6",QR4,GRAND_SLAM,WD,1700,Qualification,KIM Mi Yong (PRK) / KO Un Gyong (PRK),ETSUZAKI Ayumi (JPN) / FUJITA Yuki (JPN),KIM Mi Yong
+China Open Wuxi 2004,2004-09-09,KIM Minhee (YOB=1985)/MOON Hyunjung,HUANG Yi-Hua/LU Yun-Feng,4,2,"8,11,0,12,11,11|11,6,11,10,8,7",R16,GRAND_SLAM,WD,1700,Main Draw,KIM Minhee (YOB=1985) (KOR) / MOON Hyunjung (KOR),HUANG Yi-Hua (TPE) / LU Yun-Feng (TPE),KIM Minhee (YOB=1985)
+China Open Wuxi 2004,2004-09-09,CAO Zhen/LI Xiaoxia,KIM Hyehyun/KWAK Bangbang,4,1,"6,11,11,12,11|11,5,6,10,4",QF,GRAND_SLAM,WD,1700,Main Draw,CAO Zhen (CHN) / LI Xiaoxia (CHN),KIM Hyehyun (KOR) / KWAK Bangbang (KOR),CAO Zhen
+China Open Wuxi 2004,2004-09-09,KIM Jong/KIM Yun Mi,KERTAI Rita/LOVAS Petra,4,1,"11,11,11,11,11|13,9,5,5,6",R16,GRAND_SLAM,WD,1700,Main Draw,KIM Jong (PRK) / KIM Yun Mi (PRK),KERTAI Rita (HUN) / LOVAS Petra (HUN),KIM Jong
+China Open Wuxi 2004,2004-09-09,KIM Mi Yong/KO Un Gyong,KIM Minhee (YOB=1985)/MOON Hyunjung,4,2,"11,11,11,3,4,11|2,4,6,11,11,6",QF,GRAND_SLAM,WD,1700,Main Draw,KIM Mi Yong (PRK) / KO Un Gyong (PRK),KIM Minhee (YOB=1985) (KOR) / MOON Hyunjung (KOR),KIM Mi Yong
+China Open Wuxi 2004,2004-09-09,SONG Ah Sim/TIE Yana,KIM Jong/KIM Yun Mi,4,2,"11,8,13,11,8,11|7,11,11,7,11,7",QF,GRAND_SLAM,WD,1700,Main Draw,SONG Ah Sim (HKG) / TIE Yana (HKG),KIM Jong (PRK) / KIM Yun Mi (PRK),SONG Ah Sim
+China Open Wuxi 2004,2004-09-09,SONG Ah Sim/TIE Yana,KOMWONG Nanthana/MUANGSUK Anisara,4,2,"11,11,7,11,11,11|8,13,11,8,7,7",R16,GRAND_SLAM,WD,1700,Main Draw,SONG Ah Sim (HKG) / TIE Yana (HKG),KOMWONG Nanthana (THA) / MUANGSUK Anisara (THA),SONG Ah Sim
+China Open Wuxi 2004,2004-09-09,ETSUZAKI Ayumi/FUJITA Yuki,LEE I-Chen/HSU Hui-Tsun,3,0,"11,11,11|6,8,9",QR8,GRAND_SLAM,WD,1700,Qualification,ETSUZAKI Ayumi (JPN) / FUJITA Yuki (JPN),LEE I-Chen (TPE) / HSU Hui-Tsun (TPE),ETSUZAKI Ayumi
+China Open Wuxi 2004,2004-09-09,PAN Chun-Chu/YU Mei-Ju,/YU Kwok See,3,0,"11,13,11|8,11,9",QR8,GRAND_SLAM,WD,1700,Qualification,PAN Chun-Chu (TPE) / YU Mei-Ju (TPE), / YU Kwok See (HKG),PAN Chun-Chu

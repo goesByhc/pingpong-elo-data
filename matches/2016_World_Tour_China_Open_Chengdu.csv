@@ -1,94 +1,94 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-World Tour China Open Chengdu 2016,2016-09-14,HSIUNG Nai-I,NG Sock Khim,4,3,"13,11,13,12,8,5,11|11,5,11,14,11,11,3",QR32,GRAND_SLAM,WS,356,Qualification,HSIUNG Nai-I (TPE),NG Sock Khim (MAS)
-World Tour China Open Chengdu 2016,2016-09-14,LIN Chia-Hui,LEE Rou You,4,0,"11,11,11,11|2,6,9,4",QR32,GRAND_SLAM,WS,356,Qualification,LEE Rou You (MAS),LIN Chia-Hui (TPE)
-World Tour China Open Chengdu 2016,2016-09-14,LEE Yearam,CHANG Li Sian,4,0,"11,11,12,11|6,5,10,3",QR32,GRAND_SLAM,WS,356,Qualification,CHANG Li Sian (MAS),LEE Yearam (KOR)
-World Tour China Open Chengdu 2016,2016-09-14,MA Long,LEONG Chee Feng,4,0,"11,12,11,11|9,10,8,9",R32,GRAND_SLAM,MS,356,Main Draw,MA Long (CHN),LEONG Chee Feng (MAS)
-World Tour China Open Chengdu 2016,2016-09-14,MATSUDAIRA Kenta,WANG LI Chung-Yi,4,0,"11,11,12,11|2,3,10,9",R32,GRAND_SLAM,MS,356,Main Draw,WANG LI Chung-Yi (TPE),MATSUDAIRA Kenta (JPN)
-World Tour China Open Chengdu 2016,2016-09-14,KIM Minseok,CHIANG Hung-Chieh,4,0,"15,13,11,11|13,11,3,6",R32,GRAND_SLAM,MS,356,Main Draw,KIM Minseok (KOR),CHIANG Hung-Chieh (TPE)
-World Tour China Open Chengdu 2016,2016-09-14,SAMSONOV Vladimir,HAIQAL Muhamad Ashraf,4,0,"11,11,13,11|5,4,11,3",R32,GRAND_SLAM,MS,356,Main Draw,HAIQAL Muhamad Ashraf (MAS),SAMSONOV Vladimir (BLR)
-World Tour China Open Chengdu 2016,2016-09-14,APOLONIA Tiago,YANG Heng-Wei,4,0,"11,11,12,11|8,7,10,8",R32,GRAND_SLAM,MS,356,Main Draw,APOLONIA Tiago (POR),YANG Heng-Wei (TPE)
-World Tour China Open Chengdu 2016,2016-09-14,HO Kwan Kit,TSAI Chun-Yu,4,0,"11,12,11,11|4,10,7,8",R32,GRAND_SLAM,MS,356,Main Draw,TSAI Chun-Yu (TPE),HO Kwan Kit (HKG)
-World Tour China Open Chengdu 2016,2016-09-14,NIWA Koki,AVI-TAL Omer,4,1,"11,11,11,10,11|5,7,2,12,7",R32,GRAND_SLAM,MS,356,Main Draw,NIWA Koki (JPN),AVI-TAL Omer (PAN)
-World Tour China Open Chengdu 2016,2016-09-14,ZHANG Jike,TAO Wenzhang,4,2,"11,7,11,12,11,11|7,11,6,14,4,8",R32,GRAND_SLAM,MS,356,Main Draw,TAO Wenzhang (USA),ZHANG Jike (CHN)
-World Tour China Open Chengdu 2016,2016-09-14,XU Xin,CHOONG Javen,4,0,"11,11,11,11|3,3,5,7",R32,GRAND_SLAM,MS,356,Main Draw,XU Xin (CHN),CHOONG Javen (MAS)
-World Tour China Open Chengdu 2016,2016-09-14,GACINA Andrej,GORDON Evan,4,0,"11,11,11,11|4,2,6,2",R32,GRAND_SLAM,MS,356,Main Draw,GACINA Andrej (CRO),GORDON Evan (USA)
-World Tour China Open Chengdu 2016,2016-09-14,WONG Chun Ting,GREEN Wally,4,0,"11,11,11,11|5,4,5,3",R32,GRAND_SLAM,MS,356,Main Draw,GREEN Wally (USA),WONG Chun Ting (HKG)
-World Tour China Open Chengdu 2016,2016-09-14,FANG Bo,SOTO Kevin,4,0,"11,11,11,11|9,8,6,5",R32,GRAND_SLAM,MS,356,Main Draw,FANG Bo (KAZ),SOTO Kevin (GUA)
-World Tour China Open Chengdu 2016,2016-09-14,ZHOU Yu,OSHIMA Yuya,4,0,"11,11,11,20|3,4,9,18",R32,GRAND_SLAM,MS,356,Main Draw,ZHOU Yu (CHN),OSHIMA Yuya (JPN)
-World Tour China Open Chengdu 2016,2016-09-14,MURAMATSU Yuto,KIM Donghyun,4,3,"7,5,11,6,11,11,11|11,11,7,11,7,5,4",R32,GRAND_SLAM,MS,356,Main Draw,MURAMATSU Yuto (JPN),KIM Donghyun (KOR)
-World Tour China Open Chengdu 2016,2016-09-14,FAN Zhendong,YEH Chih-Wei,4,1,"11,11,9,11,11|5,6,11,5,1",R32,GRAND_SLAM,MS,356,Main Draw,YEH Chih-Wei (TPE),FAN Zhendong (CHN)
-World Tour China Open Chengdu 2016,2016-09-14,MA Long,MATSUDAIRA Kenta,4,2,"11,8,11,11,10,11|4,11,6,6,12,2",R16,GRAND_SLAM,MS,356,Main Draw,MA Long (CHN),MATSUDAIRA Kenta (JPN)
-World Tour China Open Chengdu 2016,2016-09-14,SAMSONOV Vladimir,KIM Minseok,4,0,"11,11,11,11|5,7,4,3",R16,GRAND_SLAM,MS,356,Main Draw,KIM Minseok (KOR),SAMSONOV Vladimir (BLR)
-World Tour China Open Chengdu 2016,2016-09-14,HO Kwan Kit,APOLONIA Tiago,4,2,"5,11,7,11,11,11|11,8,11,7,8,6",R16,GRAND_SLAM,MS,356,Main Draw,APOLONIA Tiago (POR),HO Kwan Kit (HKG)
-World Tour China Open Chengdu 2016,2016-09-14,ZHANG Jike,NIWA Koki,4,1,"12,11,8,11,11|10,5,11,5,2",R16,GRAND_SLAM,MS,356,Main Draw,NIWA Koki (JPN),ZHANG Jike (CHN)
-World Tour China Open Chengdu 2016,2016-09-14,XU Xin,JANG Woojin,4,0,"11,11,11,11|7,8,6,6",R16,GRAND_SLAM,MS,356,Main Draw,XU Xin (CHN),JANG Woojin (KOR)
-World Tour China Open Chengdu 2016,2016-09-14,WONG Chun Ting,GACINA Andrej,4,3,"10,11,9,13,11,11,11|12,4,11,11,13,9,6",R16,GRAND_SLAM,MS,356,Main Draw,GACINA Andrej (CRO),WONG Chun Ting (HKG)
-World Tour China Open Chengdu 2016,2016-09-14,ZHOU Yu,FANG Bo,4,1,"8,13,11,11,11|11,11,8,8,7",R16,GRAND_SLAM,MS,356,Main Draw,FANG Bo (KAZ),ZHOU Yu (CHN)
-World Tour China Open Chengdu 2016,2016-09-14,FAN Zhendong,MURAMATSU Yuto,4,0,"11,11,11,12|3,4,5,10",R16,GRAND_SLAM,MS,356,Main Draw,MURAMATSU Yuto (JPN),FAN Zhendong (CHN)
-World Tour China Open Chengdu 2016,2016-09-14,MA Long,SAMSONOV Vladimir,4,0,"11,11,11,11|9,6,8,8",QF,GRAND_SLAM,MS,356,Main Draw,MA Long (CHN),SAMSONOV Vladimir (BLR)
-World Tour China Open Chengdu 2016,2016-09-14,ZHANG Jike,HO Kwan Kit,4,3,"11,8,11,13,7,3,11|9,11,4,11,11,11,3",QF,GRAND_SLAM,MS,356,Main Draw,HO Kwan Kit (HKG),ZHANG Jike (CHN)
-World Tour China Open Chengdu 2016,2016-09-14,WONG Chun Ting,XU Xin,4,3,"13,3,6,11,5,11,11|11,11,11,7,11,7,4",QF,GRAND_SLAM,MS,356,Main Draw,XU Xin (CHN),WONG Chun Ting (HKG)
-World Tour China Open Chengdu 2016,2016-09-14,FAN Zhendong,ZHOU Yu,4,2,"11,11,6,8,11,11|5,4,11,11,8,6",QF,GRAND_SLAM,MS,356,Main Draw,ZHOU Yu (CHN),FAN Zhendong (CHN)
-World Tour China Open Chengdu 2016,2016-09-14,MA Long,ZHANG Jike,4,3,"6,11,11,3,11,8,11|11,9,9,11,9,11,5",SF,GRAND_SLAM,MS,356,Main Draw,MA Long (CHN),ZHANG Jike (CHN)
-World Tour China Open Chengdu 2016,2016-09-14,FAN Zhendong,WONG Chun Ting,4,2,"10,5,11,11,11,11|12,11,6,5,7,8",SF,GRAND_SLAM,MS,356,Main Draw,WONG Chun Ting (HKG),FAN Zhendong (CHN)
-World Tour China Open Chengdu 2016,2016-09-14,FAN Zhendong,MA Long,4,0,"11,13,11,11|9,11,8,5",F,GRAND_SLAM,MS,356,Main Draw,MA Long (CHN),FAN Zhendong (CHN)
-World Tour China Open Chengdu 2016,2016-09-14,LIU Shiwen,LIN Po-Hsuan,4,0,"11,11,11,11|8,5,5,8",R32,GRAND_SLAM,WS,356,Main Draw,LIU Shiwen (CHN),LIN Po-Hsuan (TPE)
-World Tour China Open Chengdu 2016,2016-09-14,MATSUZAWA Marina,WANG Manyu,4,3,"11,11,5,12,9,6,11|5,7,11,10,11,11,8",R32,GRAND_SLAM,WS,356,Main Draw,MATSUZAWA Marina (JPN),WANG Manyu (CHN)
-World Tour China Open Chengdu 2016,2016-09-14,ZENG Jian,LIU Yu-Hsin,4,0,"15,11,12,11|13,3,10,4",R32,GRAND_SLAM,WS,356,Main Draw,ZENG Jian (SGP),LIU Yu-Hsin (TPE)
-World Tour China Open Chengdu 2016,2016-09-14,DOO Hoi Kem,LIN Ye,4,0,"11,11,12,11|6,6,10,1",R32,GRAND_SLAM,WS,356,Main Draw,LIN Ye (CAN),DOO Hoi Kem (HKG)
-World Tour China Open Chengdu 2016,2016-09-14,LEE Ho Ching,LIU Hsing-Yin,4,2,"11,9,11,9,11,11|9,11,4,11,7,7",R32,GRAND_SLAM,WS,356,Main Draw,LEE Ho Ching (HKG),LIU Hsing-Yin (TPE)
-World Tour China Open Chengdu 2016,2016-09-14,YANG Ha Eun,TASHIRO Saki,4,0,"11,13,11,11|9,11,5,3",R32,GRAND_SLAM,WS,356,Main Draw,TASHIRO Saki (JPN),YANG Ha Eun (KOR)
-World Tour China Open Chengdu 2016,2016-09-14,ZHOU Yihan,MAEDA Miyu,4,3,"3,11,17,1,11,9,11|11,9,15,11,8,11,5",R32,GRAND_SLAM,WS,356,Main Draw,ZHOU Yihan (SGP),MAEDA Miyu (JPN)
-World Tour China Open Chengdu 2016,2016-09-14,ZHU Yuling,HUANG Yi-Hua,4,0,"11,11,11,11|9,2,5,1",R32,GRAND_SLAM,WS,356,Main Draw,HUANG Yi-Hua (TPE),ZHU Yuling (MAC)
-World Tour China Open Chengdu 2016,2016-09-14,CHEN Meng,HSIUNG Nai-I,4,0,"11,11,11,11|4,3,9,8",R32,GRAND_SLAM,WS,356,Main Draw,CHEN Meng (CHN),HSIUNG Nai-I (TPE)
-World Tour China Open Chengdu 2016,2016-09-14,ISHIGAKI Yuka,CHENG Hsien-Tzu,4,1,"11,6,11,11,15|6,11,4,6,13",R32,GRAND_SLAM,WS,356,Main Draw,CHENG Hsien-Tzu (TPE),ISHIGAKI Yuka (JPN)
-World Tour China Open Chengdu 2016,2016-09-14,JIANG Huajun,KIM Haeun,4,0,"11,11,11,11|3,7,5,7",R32,GRAND_SLAM,WS,356,Main Draw,JIANG Huajun (HKG),KIM Haeun (KOR)
-World Tour China Open Chengdu 2016,2016-09-14,LIN Chia-Hui,HAYATA Hina,4,3,"6,5,11,16,11,11,16|11,11,8,18,7,8,14",R32,GRAND_SLAM,WS,356,Main Draw,LIN Chia-Hui (TPE),HAYATA Hina (JPN)
-World Tour China Open Chengdu 2016,2016-09-14,SHAN Xiaona,CHEN Xingtong,4,3,"9,11,11,11,9,7,11|11,9,9,9,11,11,7",R32,GRAND_SLAM,WS,356,Main Draw,SHAN Xiaona (GER),CHEN Xingtong (CHN)
-World Tour China Open Chengdu 2016,2016-09-14,HAMAMOTO Yui,LEE Yearam,4,2,"7,6,11,11,11,11|11,11,7,7,4,9",R32,GRAND_SLAM,WS,356,Main Draw,LEE Yearam (KOR),HAMAMOTO Yui (AUT)
-World Tour China Open Chengdu 2016,2016-09-14,MORI Sakura,CHEN Szu-Yu,4,1,"11,11,16,11,11|7,13,14,2,8",R32,GRAND_SLAM,WS,356,Main Draw,CHEN Szu-Yu (TPE),MORI Sakura (JPN)
-World Tour China Open Chengdu 2016,2016-09-14,DING Ning,LI Yu-Jhun,4,0,"11,11,11,11|6,4,7,4",R32,GRAND_SLAM,WS,356,Main Draw,LI Yu-Jhun (TPE),DING Ning (CHN)
-World Tour China Open Chengdu 2016,2016-09-14,LIU Shiwen,MATSUZAWA Marina,4,3,"11,8,11,5,11,7,11|3,11,6,11,9,11,6",R16,GRAND_SLAM,WS,356,Main Draw,LIU Shiwen (CHN),MATSUZAWA Marina (JPN)
-World Tour China Open Chengdu 2016,2016-09-14,ZENG Jian,DOO Hoi Kem,4,0,"13,11,11,11|11,8,8,6",R16,GRAND_SLAM,WS,356,Main Draw,ZENG Jian (SGP),DOO Hoi Kem (HKG)
-World Tour China Open Chengdu 2016,2016-09-14,YANG Ha Eun,LEE Ho Ching,4,3,"11,4,11,11,11,3,11|7,11,13,4,7,11,8",R16,GRAND_SLAM,WS,356,Main Draw,LEE Ho Ching (HKG),YANG Ha Eun (KOR)
-World Tour China Open Chengdu 2016,2016-09-14,ZHU Yuling,ZHOU Yihan,4,1,"11,11,11,16,11|2,7,8,18,6",R16,GRAND_SLAM,WS,356,Main Draw,ZHOU Yihan (SGP),ZHU Yuling (MAC)
-World Tour China Open Chengdu 2016,2016-09-14,CHEN Meng,ISHIGAKI Yuka,4,0,"11,11,11,11|3,6,7,8",R16,GRAND_SLAM,WS,356,Main Draw,CHEN Meng (CHN),ISHIGAKI Yuka (JPN)
-World Tour China Open Chengdu 2016,2016-09-14,JIANG Huajun,LIN Chia-Hui,4,1,"13,11,11,5,11|11,7,8,11,9",R16,GRAND_SLAM,WS,356,Main Draw,JIANG Huajun (HKG),LIN Chia-Hui (TPE)
-World Tour China Open Chengdu 2016,2016-09-14,SHAN Xiaona,HAMAMOTO Yui,4,3,"6,11,11,11,11,8,11|11,6,3,13,7,11,7",R16,GRAND_SLAM,WS,356,Main Draw,SHAN Xiaona (GER),HAMAMOTO Yui (AUT)
-World Tour China Open Chengdu 2016,2016-09-14,DING Ning,MORI Sakura,4,0,"14,11,11,11|12,4,7,9",R16,GRAND_SLAM,WS,356,Main Draw,MORI Sakura (JPN),DING Ning (CHN)
-World Tour China Open Chengdu 2016,2016-09-14,LIU Shiwen,ZENG Jian,4,3,"10,6,9,11,11,11,11|12,11,11,5,9,9,5",QF,GRAND_SLAM,WS,356,Main Draw,LIU Shiwen (CHN),ZENG Jian (SGP)
-World Tour China Open Chengdu 2016,2016-09-14,YANG Ha Eun,ZHU Yuling,4,3,"3,11,3,11,5,11,11|11,9,11,8,11,8,8",QF,GRAND_SLAM,WS,356,Main Draw,YANG Ha Eun (KOR),ZHU Yuling (MAC)
-World Tour China Open Chengdu 2016,2016-09-14,CHEN Meng,JIANG Huajun,4,0,"11,12,11,11|6,10,9,7",QF,GRAND_SLAM,WS,356,Main Draw,CHEN Meng (CHN),JIANG Huajun (HKG)
-World Tour China Open Chengdu 2016,2016-09-14,DING Ning,SHAN Xiaona,4,1,"11,11,11,8,11|4,9,8,11,8",QF,GRAND_SLAM,WS,356,Main Draw,SHAN Xiaona (GER),DING Ning (CHN)
-World Tour China Open Chengdu 2016,2016-09-14,LIU Shiwen,YANG Ha Eun,4,0,"11,11,11,11|7,2,8,3",SF,GRAND_SLAM,WS,356,Main Draw,LIU Shiwen (CHN),YANG Ha Eun (KOR)
-World Tour China Open Chengdu 2016,2016-09-14,DING Ning,CHEN Meng,4,1,"10,11,11,11,11|12,3,8,5,5",SF,GRAND_SLAM,WS,356,Main Draw,CHEN Meng (CHN),DING Ning (CHN)
-World Tour China Open Chengdu 2016,2016-09-14,DING Ning,LIU Shiwen,4,2,"11,8,11,10,12,11|6,11,4,12,10,8",F,GRAND_SLAM,WS,356,Main Draw,LIU Shiwen (CHN),DING Ning (CHN)
-World Tour China Open Chengdu 2016,2016-09-14,YANG Heng-Wei,LEONG Chee Feng,3,0,"11,11,11|8,6,4",QF,GRAND_SLAM,U21MS,356,Main Draw,YANG Heng-Wei (TPE),LEONG Chee Feng (MAS)
-World Tour China Open Chengdu 2016,2016-09-14,TSAI Chun-Yu,CHOONG Javen,3,0,"11,11,11|6,8,9",QF,GRAND_SLAM,U21MS,356,Main Draw,TSAI Chun-Yu (TPE),CHOONG Javen (MAS)
-World Tour China Open Chengdu 2016,2016-09-14,MURAMATSU Yuto,YANG Heng-Wei,3,0,"11,14,11|5,12,6",SF,GRAND_SLAM,U21MS,356,Main Draw,MURAMATSU Yuto (JPN),YANG Heng-Wei (TPE)
-World Tour China Open Chengdu 2016,2016-09-14,HO Kwan Kit,MURAMATSU Yuto,3,0,"11,12,11|6,10,4",F,GRAND_SLAM,U21MS,356,Main Draw,MURAMATSU Yuto (JPN),HO Kwan Kit (HKG)
-World Tour China Open Chengdu 2016,2016-09-14,LI Yu-Jhun,CHANG Li Sian,3,1,"11,11,7,11|2,8,11,3",R16,GRAND_SLAM,U21WS,356,Main Draw,CHANG Li Sian (MAS),LI Yu-Jhun (TPE)
-World Tour China Open Chengdu 2016,2016-09-14,MORI Sakura,LEE Rou You,3,0,"12,11,11|10,2,7",R16,GRAND_SLAM,U21WS,356,Main Draw,MORI Sakura (JPN),LEE Rou You (MAS)
-World Tour China Open Chengdu 2016,2016-09-14,MAEDA Miyu,KIM Haeun,3,0,"11,11,11|7,8,7",R16,GRAND_SLAM,U21WS,356,Main Draw,KIM Haeun (KOR),MAEDA Miyu (JPN)
-World Tour China Open Chengdu 2016,2016-09-14,DOO Hoi Kem,LI Yu-Jhun,3,1,"11,11,6,11|6,2,11,8",QF,GRAND_SLAM,U21WS,356,Main Draw,DOO Hoi Kem (HKG),LI Yu-Jhun (TPE)
-World Tour China Open Chengdu 2016,2016-09-14,MORI Sakura,HAMAMOTO Yui,3,2,"11,1,1,11,11|8,11,11,8,6",QF,GRAND_SLAM,U21WS,356,Main Draw,MORI Sakura (JPN),HAMAMOTO Yui (AUT)
-World Tour China Open Chengdu 2016,2016-09-14,MAEDA Miyu,LIN Ye,3,1,"11,12,11,11|7,10,13,8",QF,GRAND_SLAM,U21WS,356,Main Draw,LIN Ye (CAN),MAEDA Miyu (JPN)
-World Tour China Open Chengdu 2016,2016-09-14,ZENG Jian,LIN Po-Hsuan,3,0,"11,11,12|9,7,10",QF,GRAND_SLAM,U21WS,356,Main Draw,LIN Po-Hsuan (TPE),ZENG Jian (SGP)
-World Tour China Open Chengdu 2016,2016-09-14,DOO Hoi Kem,MORI Sakura,3,1,"11,8,11,11|5,11,6,9",SF,GRAND_SLAM,U21WS,356,Main Draw,DOO Hoi Kem (HKG),MORI Sakura (JPN)
-World Tour China Open Chengdu 2016,2016-09-14,ZENG Jian,MAEDA Miyu,3,1,"10,11,11,11|12,4,9,8",SF,GRAND_SLAM,U21WS,356,Main Draw,MAEDA Miyu (JPN),ZENG Jian (SGP)
-World Tour China Open Chengdu 2016,2016-09-14,FAN Zhendong/XU Xin,HO Kwan Kit/WONG Chun Ting,3,1,"6,12,11,11|11,10,8,5",SF,GRAND_SLAM,MD,356,Main Draw,FAN Zhendong (CHN) / XU Xin (CHN),HO Kwan Kit (HKG) / WONG Chun Ting (HKG)
-World Tour China Open Chengdu 2016,2016-09-14,MA Long/ZHANG Jike,FAN Zhendong/XU Xin,3,2,"11,5,4,11,11|8,11,11,9,5",F,GRAND_SLAM,MD,356,Main Draw,MA Long (CHN) / ZHANG Jike (CHN),FAN Zhendong (CHN) / XU Xin (CHN)
-World Tour China Open Chengdu 2016,2016-09-14,DING Ning/LIU Shiwen,HSIUNG Nai-I/HUANG Yi-Hua,3,0,"11,11,11|7,3,9",QF,GRAND_SLAM,WD,356,Main Draw,DING Ning (CHN) / LIU Shiwen (CHN),HSIUNG Nai-I (TPE) / HUANG Yi-Hua (TPE)
-World Tour China Open Chengdu 2016,2016-09-14,DING Ning/LIU Shiwen,CHENG Hsien-Tzu/CHEN Szu-Yu,3,0,"11,12,11|3,10,5",SF,GRAND_SLAM,WD,356,Main Draw,DING Ning (CHN) / LIU Shiwen (CHN),CHENG Hsien-Tzu (TPE) / CHEN Szu-Yu (TPE)
-World Tour China Open Chengdu 2016,2016-09-14,CHEN Meng/ZHU Yuling,DING Ning/LIU Shiwen,3,1,"4,11,11,11|11,3,9,5",F,GRAND_SLAM,WD,356,Main Draw,CHEN Meng (CHN) / ZHU Yuling (MAC),DING Ning (CHN) / LIU Shiwen (CHN)
-World Tour China Open Chengdu 2016,2016-09-14,CHOONG Javen/LEONG Chee Feng,AVI-TAL Omer/SOTO Kevin,3,1,"11,11,6,11|4,3,11,6",R16,GRAND_SLAM,MD,356,Main Draw,CHOONG Javen (MAS) / LEONG Chee Feng (MAS),AVI-TAL Omer (PAN) / SOTO Kevin (GUA)
-World Tour China Open Chengdu 2016,2016-09-14,LEE Yearam/KIM Haeun,DOO Hoi Kem/LEE Ho Ching,3,0,"11,11,11|7,8,9",QF,GRAND_SLAM,WD,356,Main Draw,LEE Yearam (KOR) / KIM Haeun (KOR),DOO Hoi Kem (HKG) / LEE Ho Ching (HKG)
-World Tour China Open Chengdu 2016,2016-09-14,NIWA Koki/OSHIMA Yuya,GREEN Wally/TAO Wenzhang,3,0,"11,11,11|8,5,6",QF,GRAND_SLAM,MD,356,Main Draw,NIWA Koki (JPN) / OSHIMA Yuya (JPN),GREEN Wally (USA) / TAO Wenzhang (USA)
-World Tour China Open Chengdu 2016,2016-09-14,MA Long/ZHANG Jike,NIWA Koki/OSHIMA Yuya,3,0,"11,11,11|9,8,9",SF,GRAND_SLAM,MD,356,Main Draw,MA Long (CHN) / ZHANG Jike (CHN),NIWA Koki (JPN) / OSHIMA Yuya (JPN)
-World Tour China Open Chengdu 2016,2016-09-14,CHEN Meng/ZHU Yuling,HAMAMOTO Yui/HAYATA Hina,3,1,"8,11,11,11|11,4,7,2",QF,GRAND_SLAM,WD,356,Main Draw,CHEN Meng (CHN) / ZHU Yuling (MAC),HAMAMOTO Yui (AUT) / HAYATA Hina (JPN)
-World Tour China Open Chengdu 2016,2016-09-14,KIM Donghyun/KIM Minseok,TSAI Chun-Yu/YANG Heng-Wei,3,1,"11,8,11,12|8,11,6,10",R16,GRAND_SLAM,MD,356,Main Draw,KIM Donghyun (KOR) / KIM Minseok (KOR),TSAI Chun-Yu (TPE) / YANG Heng-Wei (TPE)
-World Tour China Open Chengdu 2016,2016-09-14,MA Long/ZHANG Jike,KIM Donghyun/KIM Minseok,3,1,"11,7,11,11|5,11,3,6",QF,GRAND_SLAM,MD,356,Main Draw,MA Long (CHN) / ZHANG Jike (CHN),KIM Donghyun (KOR) / KIM Minseok (KOR)
-World Tour China Open Chengdu 2016,2016-09-14,CHEN Meng/ZHU Yuling,LEE Yearam/KIM Haeun,3,1,"11,11,7,11|3,9,11,5",SF,GRAND_SLAM,WD,356,Main Draw,CHEN Meng (CHN) / ZHU Yuling (MAC),LEE Yearam (KOR) / KIM Haeun (KOR)
-World Tour China Open Chengdu 2016,2016-09-14,HO Kwan Kit/WONG Chun Ting,CHOONG Javen/LEONG Chee Feng,3,1,"10,11,11,11|12,6,4,5",QF,GRAND_SLAM,MD,356,Main Draw,HO Kwan Kit (HKG) / WONG Chun Ting (HKG),CHOONG Javen (MAS) / LEONG Chee Feng (MAS)
-World Tour China Open Chengdu 2016,2016-09-14,CHENG Hsien-Tzu/CHEN Szu-Yu,CHANG Li Sian/ZENG Jian,3,0,"11,11,11|1,2,8",R16,GRAND_SLAM,WD,356,Main Draw,CHENG Hsien-Tzu (TPE) / CHEN Szu-Yu (TPE),CHANG Li Sian (MAS) / ZENG Jian (SGP)
-World Tour China Open Chengdu 2016,2016-09-14,CHENG Hsien-Tzu/CHEN Szu-Yu,JIANG Huajun/SHAN Xiaona,3,0,"11,12,11|7,10,7",QF,GRAND_SLAM,WD,356,Main Draw,CHENG Hsien-Tzu (TPE) / CHEN Szu-Yu (TPE),JIANG Huajun (HKG) / SHAN Xiaona (GER)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+World Tour China Open Chengdu 2016,2016-09-14,HSIUNG Nai-I,NG Sock Khim,4,3,"13,11,13,12,8,5,11|11,5,11,14,11,11,3",QR32,GRAND_SLAM,WS,356,Qualification,HSIUNG Nai-I (TPE),NG Sock Khim (MAS),HSIUNG Nai-I
+World Tour China Open Chengdu 2016,2016-09-14,LIN Chia-Hui,LEE Rou You,4,0,"11,11,11,11|2,6,9,4",QR32,GRAND_SLAM,WS,356,Qualification,LEE Rou You (MAS),LIN Chia-Hui (TPE),LIN Chia-Hui
+World Tour China Open Chengdu 2016,2016-09-14,LEE Yearam,CHANG Li Sian,4,0,"11,11,12,11|6,5,10,3",QR32,GRAND_SLAM,WS,356,Qualification,CHANG Li Sian (MAS),LEE Yearam (KOR),LEE Yearam
+World Tour China Open Chengdu 2016,2016-09-14,MA Long,LEONG Chee Feng,4,0,"11,12,11,11|9,10,8,9",R32,GRAND_SLAM,MS,356,Main Draw,MA Long (CHN),LEONG Chee Feng (MAS),MA Long
+World Tour China Open Chengdu 2016,2016-09-14,MATSUDAIRA Kenta,WANG LI Chung-Yi,4,0,"11,11,12,11|2,3,10,9",R32,GRAND_SLAM,MS,356,Main Draw,WANG LI Chung-Yi (TPE),MATSUDAIRA Kenta (JPN),MATSUDAIRA Kenta
+World Tour China Open Chengdu 2016,2016-09-14,KIM Minseok,CHIANG Hung-Chieh,4,0,"15,13,11,11|13,11,3,6",R32,GRAND_SLAM,MS,356,Main Draw,KIM Minseok (KOR),CHIANG Hung-Chieh (TPE),KIM Minseok
+World Tour China Open Chengdu 2016,2016-09-14,SAMSONOV Vladimir,HAIQAL Muhamad Ashraf,4,0,"11,11,13,11|5,4,11,3",R32,GRAND_SLAM,MS,356,Main Draw,HAIQAL Muhamad Ashraf (MAS),SAMSONOV Vladimir (BLR),SAMSONOV Vladimir
+World Tour China Open Chengdu 2016,2016-09-14,APOLONIA Tiago,YANG Heng-Wei,4,0,"11,11,12,11|8,7,10,8",R32,GRAND_SLAM,MS,356,Main Draw,APOLONIA Tiago (POR),YANG Heng-Wei (TPE),APOLONIA Tiago
+World Tour China Open Chengdu 2016,2016-09-14,HO Kwan Kit,TSAI Chun-Yu,4,0,"11,12,11,11|4,10,7,8",R32,GRAND_SLAM,MS,356,Main Draw,TSAI Chun-Yu (TPE),HO Kwan Kit (HKG),HO Kwan Kit
+World Tour China Open Chengdu 2016,2016-09-14,NIWA Koki,AVI-TAL Omer,4,1,"11,11,11,10,11|5,7,2,12,7",R32,GRAND_SLAM,MS,356,Main Draw,NIWA Koki (JPN),AVI-TAL Omer (PAN),NIWA Koki
+World Tour China Open Chengdu 2016,2016-09-14,ZHANG Jike,TAO Wenzhang,4,2,"11,7,11,12,11,11|7,11,6,14,4,8",R32,GRAND_SLAM,MS,356,Main Draw,TAO Wenzhang (USA),ZHANG Jike (CHN),ZHANG Jike
+World Tour China Open Chengdu 2016,2016-09-14,XU Xin,CHOONG Javen,4,0,"11,11,11,11|3,3,5,7",R32,GRAND_SLAM,MS,356,Main Draw,XU Xin (CHN),CHOONG Javen (MAS),XU Xin
+World Tour China Open Chengdu 2016,2016-09-14,GACINA Andrej,GORDON Evan,4,0,"11,11,11,11|4,2,6,2",R32,GRAND_SLAM,MS,356,Main Draw,GACINA Andrej (CRO),GORDON Evan (USA),GACINA Andrej
+World Tour China Open Chengdu 2016,2016-09-14,WONG Chun Ting,GREEN Wally,4,0,"11,11,11,11|5,4,5,3",R32,GRAND_SLAM,MS,356,Main Draw,GREEN Wally (USA),WONG Chun Ting (HKG),WONG Chun Ting
+World Tour China Open Chengdu 2016,2016-09-14,FANG Bo,SOTO Kevin,4,0,"11,11,11,11|9,8,6,5",R32,GRAND_SLAM,MS,356,Main Draw,FANG Bo (KAZ),SOTO Kevin (GUA),FANG Bo
+World Tour China Open Chengdu 2016,2016-09-14,ZHOU Yu,OSHIMA Yuya,4,0,"11,11,11,20|3,4,9,18",R32,GRAND_SLAM,MS,356,Main Draw,ZHOU Yu (CHN),OSHIMA Yuya (JPN),ZHOU Yu
+World Tour China Open Chengdu 2016,2016-09-14,MURAMATSU Yuto,KIM Donghyun,4,3,"7,5,11,6,11,11,11|11,11,7,11,7,5,4",R32,GRAND_SLAM,MS,356,Main Draw,MURAMATSU Yuto (JPN),KIM Donghyun (KOR),MURAMATSU Yuto
+World Tour China Open Chengdu 2016,2016-09-14,FAN Zhendong,YEH Chih-Wei,4,1,"11,11,9,11,11|5,6,11,5,1",R32,GRAND_SLAM,MS,356,Main Draw,YEH Chih-Wei (TPE),FAN Zhendong (CHN),FAN Zhendong
+World Tour China Open Chengdu 2016,2016-09-14,MA Long,MATSUDAIRA Kenta,4,2,"11,8,11,11,10,11|4,11,6,6,12,2",R16,GRAND_SLAM,MS,356,Main Draw,MA Long (CHN),MATSUDAIRA Kenta (JPN),MA Long
+World Tour China Open Chengdu 2016,2016-09-14,SAMSONOV Vladimir,KIM Minseok,4,0,"11,11,11,11|5,7,4,3",R16,GRAND_SLAM,MS,356,Main Draw,KIM Minseok (KOR),SAMSONOV Vladimir (BLR),SAMSONOV Vladimir
+World Tour China Open Chengdu 2016,2016-09-14,HO Kwan Kit,APOLONIA Tiago,4,2,"5,11,7,11,11,11|11,8,11,7,8,6",R16,GRAND_SLAM,MS,356,Main Draw,APOLONIA Tiago (POR),HO Kwan Kit (HKG),HO Kwan Kit
+World Tour China Open Chengdu 2016,2016-09-14,ZHANG Jike,NIWA Koki,4,1,"12,11,8,11,11|10,5,11,5,2",R16,GRAND_SLAM,MS,356,Main Draw,NIWA Koki (JPN),ZHANG Jike (CHN),ZHANG Jike
+World Tour China Open Chengdu 2016,2016-09-14,XU Xin,JANG Woojin,4,0,"11,11,11,11|7,8,6,6",R16,GRAND_SLAM,MS,356,Main Draw,XU Xin (CHN),JANG Woojin (KOR),XU Xin
+World Tour China Open Chengdu 2016,2016-09-14,WONG Chun Ting,GACINA Andrej,4,3,"10,11,9,13,11,11,11|12,4,11,11,13,9,6",R16,GRAND_SLAM,MS,356,Main Draw,GACINA Andrej (CRO),WONG Chun Ting (HKG),WONG Chun Ting
+World Tour China Open Chengdu 2016,2016-09-14,ZHOU Yu,FANG Bo,4,1,"8,13,11,11,11|11,11,8,8,7",R16,GRAND_SLAM,MS,356,Main Draw,FANG Bo (KAZ),ZHOU Yu (CHN),ZHOU Yu
+World Tour China Open Chengdu 2016,2016-09-14,FAN Zhendong,MURAMATSU Yuto,4,0,"11,11,11,12|3,4,5,10",R16,GRAND_SLAM,MS,356,Main Draw,MURAMATSU Yuto (JPN),FAN Zhendong (CHN),FAN Zhendong
+World Tour China Open Chengdu 2016,2016-09-14,MA Long,SAMSONOV Vladimir,4,0,"11,11,11,11|9,6,8,8",QF,GRAND_SLAM,MS,356,Main Draw,MA Long (CHN),SAMSONOV Vladimir (BLR),MA Long
+World Tour China Open Chengdu 2016,2016-09-14,ZHANG Jike,HO Kwan Kit,4,3,"11,8,11,13,7,3,11|9,11,4,11,11,11,3",QF,GRAND_SLAM,MS,356,Main Draw,HO Kwan Kit (HKG),ZHANG Jike (CHN),ZHANG Jike
+World Tour China Open Chengdu 2016,2016-09-14,WONG Chun Ting,XU Xin,4,3,"13,3,6,11,5,11,11|11,11,11,7,11,7,4",QF,GRAND_SLAM,MS,356,Main Draw,XU Xin (CHN),WONG Chun Ting (HKG),WONG Chun Ting
+World Tour China Open Chengdu 2016,2016-09-14,FAN Zhendong,ZHOU Yu,4,2,"11,11,6,8,11,11|5,4,11,11,8,6",QF,GRAND_SLAM,MS,356,Main Draw,ZHOU Yu (CHN),FAN Zhendong (CHN),FAN Zhendong
+World Tour China Open Chengdu 2016,2016-09-14,MA Long,ZHANG Jike,4,3,"6,11,11,3,11,8,11|11,9,9,11,9,11,5",SF,GRAND_SLAM,MS,356,Main Draw,MA Long (CHN),ZHANG Jike (CHN),MA Long
+World Tour China Open Chengdu 2016,2016-09-14,FAN Zhendong,WONG Chun Ting,4,2,"10,5,11,11,11,11|12,11,6,5,7,8",SF,GRAND_SLAM,MS,356,Main Draw,WONG Chun Ting (HKG),FAN Zhendong (CHN),FAN Zhendong
+World Tour China Open Chengdu 2016,2016-09-14,FAN Zhendong,MA Long,4,0,"11,13,11,11|9,11,8,5",F,GRAND_SLAM,MS,356,Main Draw,MA Long (CHN),FAN Zhendong (CHN),FAN Zhendong
+World Tour China Open Chengdu 2016,2016-09-14,LIU Shiwen,LIN Po-Hsuan,4,0,"11,11,11,11|8,5,5,8",R32,GRAND_SLAM,WS,356,Main Draw,LIU Shiwen (CHN),LIN Po-Hsuan (TPE),LIU Shiwen
+World Tour China Open Chengdu 2016,2016-09-14,MATSUZAWA Marina,WANG Manyu,4,3,"11,11,5,12,9,6,11|5,7,11,10,11,11,8",R32,GRAND_SLAM,WS,356,Main Draw,MATSUZAWA Marina (JPN),WANG Manyu (CHN),MATSUZAWA Marina
+World Tour China Open Chengdu 2016,2016-09-14,ZENG Jian,LIU Yu-Hsin,4,0,"15,11,12,11|13,3,10,4",R32,GRAND_SLAM,WS,356,Main Draw,ZENG Jian (SGP),LIU Yu-Hsin (TPE),ZENG Jian
+World Tour China Open Chengdu 2016,2016-09-14,DOO Hoi Kem,LIN Ye,4,0,"11,11,12,11|6,6,10,1",R32,GRAND_SLAM,WS,356,Main Draw,LIN Ye (CAN),DOO Hoi Kem (HKG),DOO Hoi Kem
+World Tour China Open Chengdu 2016,2016-09-14,LEE Ho Ching,LIU Hsing-Yin,4,2,"11,9,11,9,11,11|9,11,4,11,7,7",R32,GRAND_SLAM,WS,356,Main Draw,LEE Ho Ching (HKG),LIU Hsing-Yin (TPE),LEE Ho Ching
+World Tour China Open Chengdu 2016,2016-09-14,YANG Ha Eun,TASHIRO Saki,4,0,"11,13,11,11|9,11,5,3",R32,GRAND_SLAM,WS,356,Main Draw,TASHIRO Saki (JPN),YANG Ha Eun (KOR),YANG Ha Eun
+World Tour China Open Chengdu 2016,2016-09-14,ZHOU Yihan,MAEDA Miyu,4,3,"3,11,17,1,11,9,11|11,9,15,11,8,11,5",R32,GRAND_SLAM,WS,356,Main Draw,ZHOU Yihan (SGP),MAEDA Miyu (JPN),ZHOU Yihan
+World Tour China Open Chengdu 2016,2016-09-14,ZHU Yuling,HUANG Yi-Hua,4,0,"11,11,11,11|9,2,5,1",R32,GRAND_SLAM,WS,356,Main Draw,HUANG Yi-Hua (TPE),ZHU Yuling (MAC),ZHU Yuling
+World Tour China Open Chengdu 2016,2016-09-14,CHEN Meng,HSIUNG Nai-I,4,0,"11,11,11,11|4,3,9,8",R32,GRAND_SLAM,WS,356,Main Draw,CHEN Meng (CHN),HSIUNG Nai-I (TPE),CHEN Meng
+World Tour China Open Chengdu 2016,2016-09-14,ISHIGAKI Yuka,CHENG Hsien-Tzu,4,1,"11,6,11,11,15|6,11,4,6,13",R32,GRAND_SLAM,WS,356,Main Draw,CHENG Hsien-Tzu (TPE),ISHIGAKI Yuka (JPN),ISHIGAKI Yuka
+World Tour China Open Chengdu 2016,2016-09-14,JIANG Huajun,KIM Haeun,4,0,"11,11,11,11|3,7,5,7",R32,GRAND_SLAM,WS,356,Main Draw,JIANG Huajun (HKG),KIM Haeun (KOR),JIANG Huajun
+World Tour China Open Chengdu 2016,2016-09-14,LIN Chia-Hui,HAYATA Hina,4,3,"6,5,11,16,11,11,16|11,11,8,18,7,8,14",R32,GRAND_SLAM,WS,356,Main Draw,LIN Chia-Hui (TPE),HAYATA Hina (JPN),LIN Chia-Hui
+World Tour China Open Chengdu 2016,2016-09-14,SHAN Xiaona,CHEN Xingtong,4,3,"9,11,11,11,9,7,11|11,9,9,9,11,11,7",R32,GRAND_SLAM,WS,356,Main Draw,SHAN Xiaona (GER),CHEN Xingtong (CHN),SHAN Xiaona
+World Tour China Open Chengdu 2016,2016-09-14,HAMAMOTO Yui,LEE Yearam,4,2,"7,6,11,11,11,11|11,11,7,7,4,9",R32,GRAND_SLAM,WS,356,Main Draw,LEE Yearam (KOR),HAMAMOTO Yui (AUT),HAMAMOTO Yui
+World Tour China Open Chengdu 2016,2016-09-14,MORI Sakura,CHEN Szu-Yu,4,1,"11,11,16,11,11|7,13,14,2,8",R32,GRAND_SLAM,WS,356,Main Draw,CHEN Szu-Yu (TPE),MORI Sakura (JPN),MORI Sakura
+World Tour China Open Chengdu 2016,2016-09-14,DING Ning,LI Yu-Jhun,4,0,"11,11,11,11|6,4,7,4",R32,GRAND_SLAM,WS,356,Main Draw,LI Yu-Jhun (TPE),DING Ning (CHN),DING Ning
+World Tour China Open Chengdu 2016,2016-09-14,LIU Shiwen,MATSUZAWA Marina,4,3,"11,8,11,5,11,7,11|3,11,6,11,9,11,6",R16,GRAND_SLAM,WS,356,Main Draw,LIU Shiwen (CHN),MATSUZAWA Marina (JPN),LIU Shiwen
+World Tour China Open Chengdu 2016,2016-09-14,ZENG Jian,DOO Hoi Kem,4,0,"13,11,11,11|11,8,8,6",R16,GRAND_SLAM,WS,356,Main Draw,ZENG Jian (SGP),DOO Hoi Kem (HKG),ZENG Jian
+World Tour China Open Chengdu 2016,2016-09-14,YANG Ha Eun,LEE Ho Ching,4,3,"11,4,11,11,11,3,11|7,11,13,4,7,11,8",R16,GRAND_SLAM,WS,356,Main Draw,LEE Ho Ching (HKG),YANG Ha Eun (KOR),YANG Ha Eun
+World Tour China Open Chengdu 2016,2016-09-14,ZHU Yuling,ZHOU Yihan,4,1,"11,11,11,16,11|2,7,8,18,6",R16,GRAND_SLAM,WS,356,Main Draw,ZHOU Yihan (SGP),ZHU Yuling (MAC),ZHU Yuling
+World Tour China Open Chengdu 2016,2016-09-14,CHEN Meng,ISHIGAKI Yuka,4,0,"11,11,11,11|3,6,7,8",R16,GRAND_SLAM,WS,356,Main Draw,CHEN Meng (CHN),ISHIGAKI Yuka (JPN),CHEN Meng
+World Tour China Open Chengdu 2016,2016-09-14,JIANG Huajun,LIN Chia-Hui,4,1,"13,11,11,5,11|11,7,8,11,9",R16,GRAND_SLAM,WS,356,Main Draw,JIANG Huajun (HKG),LIN Chia-Hui (TPE),JIANG Huajun
+World Tour China Open Chengdu 2016,2016-09-14,SHAN Xiaona,HAMAMOTO Yui,4,3,"6,11,11,11,11,8,11|11,6,3,13,7,11,7",R16,GRAND_SLAM,WS,356,Main Draw,SHAN Xiaona (GER),HAMAMOTO Yui (AUT),SHAN Xiaona
+World Tour China Open Chengdu 2016,2016-09-14,DING Ning,MORI Sakura,4,0,"14,11,11,11|12,4,7,9",R16,GRAND_SLAM,WS,356,Main Draw,MORI Sakura (JPN),DING Ning (CHN),DING Ning
+World Tour China Open Chengdu 2016,2016-09-14,LIU Shiwen,ZENG Jian,4,3,"10,6,9,11,11,11,11|12,11,11,5,9,9,5",QF,GRAND_SLAM,WS,356,Main Draw,LIU Shiwen (CHN),ZENG Jian (SGP),LIU Shiwen
+World Tour China Open Chengdu 2016,2016-09-14,YANG Ha Eun,ZHU Yuling,4,3,"3,11,3,11,5,11,11|11,9,11,8,11,8,8",QF,GRAND_SLAM,WS,356,Main Draw,YANG Ha Eun (KOR),ZHU Yuling (MAC),YANG Ha Eun
+World Tour China Open Chengdu 2016,2016-09-14,CHEN Meng,JIANG Huajun,4,0,"11,12,11,11|6,10,9,7",QF,GRAND_SLAM,WS,356,Main Draw,CHEN Meng (CHN),JIANG Huajun (HKG),CHEN Meng
+World Tour China Open Chengdu 2016,2016-09-14,DING Ning,SHAN Xiaona,4,1,"11,11,11,8,11|4,9,8,11,8",QF,GRAND_SLAM,WS,356,Main Draw,SHAN Xiaona (GER),DING Ning (CHN),DING Ning
+World Tour China Open Chengdu 2016,2016-09-14,LIU Shiwen,YANG Ha Eun,4,0,"11,11,11,11|7,2,8,3",SF,GRAND_SLAM,WS,356,Main Draw,LIU Shiwen (CHN),YANG Ha Eun (KOR),LIU Shiwen
+World Tour China Open Chengdu 2016,2016-09-14,DING Ning,CHEN Meng,4,1,"10,11,11,11,11|12,3,8,5,5",SF,GRAND_SLAM,WS,356,Main Draw,CHEN Meng (CHN),DING Ning (CHN),DING Ning
+World Tour China Open Chengdu 2016,2016-09-14,DING Ning,LIU Shiwen,4,2,"11,8,11,10,12,11|6,11,4,12,10,8",F,GRAND_SLAM,WS,356,Main Draw,LIU Shiwen (CHN),DING Ning (CHN),DING Ning
+World Tour China Open Chengdu 2016,2016-09-14,YANG Heng-Wei,LEONG Chee Feng,3,0,"11,11,11|8,6,4",QF,GRAND_SLAM,U21MS,356,Main Draw,YANG Heng-Wei (TPE),LEONG Chee Feng (MAS),YANG Heng-Wei
+World Tour China Open Chengdu 2016,2016-09-14,TSAI Chun-Yu,CHOONG Javen,3,0,"11,11,11|6,8,9",QF,GRAND_SLAM,U21MS,356,Main Draw,TSAI Chun-Yu (TPE),CHOONG Javen (MAS),TSAI Chun-Yu
+World Tour China Open Chengdu 2016,2016-09-14,MURAMATSU Yuto,YANG Heng-Wei,3,0,"11,14,11|5,12,6",SF,GRAND_SLAM,U21MS,356,Main Draw,MURAMATSU Yuto (JPN),YANG Heng-Wei (TPE),MURAMATSU Yuto
+World Tour China Open Chengdu 2016,2016-09-14,HO Kwan Kit,MURAMATSU Yuto,3,0,"11,12,11|6,10,4",F,GRAND_SLAM,U21MS,356,Main Draw,MURAMATSU Yuto (JPN),HO Kwan Kit (HKG),HO Kwan Kit
+World Tour China Open Chengdu 2016,2016-09-14,LI Yu-Jhun,CHANG Li Sian,3,1,"11,11,7,11|2,8,11,3",R16,GRAND_SLAM,U21WS,356,Main Draw,CHANG Li Sian (MAS),LI Yu-Jhun (TPE),LI Yu-Jhun
+World Tour China Open Chengdu 2016,2016-09-14,MORI Sakura,LEE Rou You,3,0,"12,11,11|10,2,7",R16,GRAND_SLAM,U21WS,356,Main Draw,MORI Sakura (JPN),LEE Rou You (MAS),MORI Sakura
+World Tour China Open Chengdu 2016,2016-09-14,MAEDA Miyu,KIM Haeun,3,0,"11,11,11|7,8,7",R16,GRAND_SLAM,U21WS,356,Main Draw,KIM Haeun (KOR),MAEDA Miyu (JPN),MAEDA Miyu
+World Tour China Open Chengdu 2016,2016-09-14,DOO Hoi Kem,LI Yu-Jhun,3,1,"11,11,6,11|6,2,11,8",QF,GRAND_SLAM,U21WS,356,Main Draw,DOO Hoi Kem (HKG),LI Yu-Jhun (TPE),DOO Hoi Kem
+World Tour China Open Chengdu 2016,2016-09-14,MORI Sakura,HAMAMOTO Yui,3,2,"11,1,1,11,11|8,11,11,8,6",QF,GRAND_SLAM,U21WS,356,Main Draw,MORI Sakura (JPN),HAMAMOTO Yui (AUT),MORI Sakura
+World Tour China Open Chengdu 2016,2016-09-14,MAEDA Miyu,LIN Ye,3,1,"11,12,11,11|7,10,13,8",QF,GRAND_SLAM,U21WS,356,Main Draw,LIN Ye (CAN),MAEDA Miyu (JPN),MAEDA Miyu
+World Tour China Open Chengdu 2016,2016-09-14,ZENG Jian,LIN Po-Hsuan,3,0,"11,11,12|9,7,10",QF,GRAND_SLAM,U21WS,356,Main Draw,LIN Po-Hsuan (TPE),ZENG Jian (SGP),ZENG Jian
+World Tour China Open Chengdu 2016,2016-09-14,DOO Hoi Kem,MORI Sakura,3,1,"11,8,11,11|5,11,6,9",SF,GRAND_SLAM,U21WS,356,Main Draw,DOO Hoi Kem (HKG),MORI Sakura (JPN),DOO Hoi Kem
+World Tour China Open Chengdu 2016,2016-09-14,ZENG Jian,MAEDA Miyu,3,1,"10,11,11,11|12,4,9,8",SF,GRAND_SLAM,U21WS,356,Main Draw,MAEDA Miyu (JPN),ZENG Jian (SGP),ZENG Jian
+World Tour China Open Chengdu 2016,2016-09-14,FAN Zhendong/XU Xin,HO Kwan Kit/WONG Chun Ting,3,1,"6,12,11,11|11,10,8,5",SF,GRAND_SLAM,MD,356,Main Draw,FAN Zhendong (CHN) / XU Xin (CHN),HO Kwan Kit (HKG) / WONG Chun Ting (HKG),FAN Zhendong
+World Tour China Open Chengdu 2016,2016-09-14,MA Long/ZHANG Jike,FAN Zhendong/XU Xin,3,2,"11,5,4,11,11|8,11,11,9,5",F,GRAND_SLAM,MD,356,Main Draw,MA Long (CHN) / ZHANG Jike (CHN),FAN Zhendong (CHN) / XU Xin (CHN),MA Long
+World Tour China Open Chengdu 2016,2016-09-14,DING Ning/LIU Shiwen,HSIUNG Nai-I/HUANG Yi-Hua,3,0,"11,11,11|7,3,9",QF,GRAND_SLAM,WD,356,Main Draw,DING Ning (CHN) / LIU Shiwen (CHN),HSIUNG Nai-I (TPE) / HUANG Yi-Hua (TPE),DING Ning
+World Tour China Open Chengdu 2016,2016-09-14,DING Ning/LIU Shiwen,CHENG Hsien-Tzu/CHEN Szu-Yu,3,0,"11,12,11|3,10,5",SF,GRAND_SLAM,WD,356,Main Draw,DING Ning (CHN) / LIU Shiwen (CHN),CHENG Hsien-Tzu (TPE) / CHEN Szu-Yu (TPE),DING Ning
+World Tour China Open Chengdu 2016,2016-09-14,CHEN Meng/ZHU Yuling,DING Ning/LIU Shiwen,3,1,"4,11,11,11|11,3,9,5",F,GRAND_SLAM,WD,356,Main Draw,CHEN Meng (CHN) / ZHU Yuling (MAC),DING Ning (CHN) / LIU Shiwen (CHN),CHEN Meng
+World Tour China Open Chengdu 2016,2016-09-14,CHOONG Javen/LEONG Chee Feng,AVI-TAL Omer/SOTO Kevin,3,1,"11,11,6,11|4,3,11,6",R16,GRAND_SLAM,MD,356,Main Draw,CHOONG Javen (MAS) / LEONG Chee Feng (MAS),AVI-TAL Omer (PAN) / SOTO Kevin (GUA),CHOONG Javen
+World Tour China Open Chengdu 2016,2016-09-14,LEE Yearam/KIM Haeun,DOO Hoi Kem/LEE Ho Ching,3,0,"11,11,11|7,8,9",QF,GRAND_SLAM,WD,356,Main Draw,LEE Yearam (KOR) / KIM Haeun (KOR),DOO Hoi Kem (HKG) / LEE Ho Ching (HKG),LEE Yearam
+World Tour China Open Chengdu 2016,2016-09-14,NIWA Koki/OSHIMA Yuya,GREEN Wally/TAO Wenzhang,3,0,"11,11,11|8,5,6",QF,GRAND_SLAM,MD,356,Main Draw,NIWA Koki (JPN) / OSHIMA Yuya (JPN),GREEN Wally (USA) / TAO Wenzhang (USA),NIWA Koki
+World Tour China Open Chengdu 2016,2016-09-14,MA Long/ZHANG Jike,NIWA Koki/OSHIMA Yuya,3,0,"11,11,11|9,8,9",SF,GRAND_SLAM,MD,356,Main Draw,MA Long (CHN) / ZHANG Jike (CHN),NIWA Koki (JPN) / OSHIMA Yuya (JPN),MA Long
+World Tour China Open Chengdu 2016,2016-09-14,CHEN Meng/ZHU Yuling,HAMAMOTO Yui/HAYATA Hina,3,1,"8,11,11,11|11,4,7,2",QF,GRAND_SLAM,WD,356,Main Draw,CHEN Meng (CHN) / ZHU Yuling (MAC),HAMAMOTO Yui (AUT) / HAYATA Hina (JPN),CHEN Meng
+World Tour China Open Chengdu 2016,2016-09-14,KIM Donghyun/KIM Minseok,TSAI Chun-Yu/YANG Heng-Wei,3,1,"11,8,11,12|8,11,6,10",R16,GRAND_SLAM,MD,356,Main Draw,KIM Donghyun (KOR) / KIM Minseok (KOR),TSAI Chun-Yu (TPE) / YANG Heng-Wei (TPE),KIM Donghyun
+World Tour China Open Chengdu 2016,2016-09-14,MA Long/ZHANG Jike,KIM Donghyun/KIM Minseok,3,1,"11,7,11,11|5,11,3,6",QF,GRAND_SLAM,MD,356,Main Draw,MA Long (CHN) / ZHANG Jike (CHN),KIM Donghyun (KOR) / KIM Minseok (KOR),MA Long
+World Tour China Open Chengdu 2016,2016-09-14,CHEN Meng/ZHU Yuling,LEE Yearam/KIM Haeun,3,1,"11,11,7,11|3,9,11,5",SF,GRAND_SLAM,WD,356,Main Draw,CHEN Meng (CHN) / ZHU Yuling (MAC),LEE Yearam (KOR) / KIM Haeun (KOR),CHEN Meng
+World Tour China Open Chengdu 2016,2016-09-14,HO Kwan Kit/WONG Chun Ting,CHOONG Javen/LEONG Chee Feng,3,1,"10,11,11,11|12,6,4,5",QF,GRAND_SLAM,MD,356,Main Draw,HO Kwan Kit (HKG) / WONG Chun Ting (HKG),CHOONG Javen (MAS) / LEONG Chee Feng (MAS),HO Kwan Kit
+World Tour China Open Chengdu 2016,2016-09-14,CHENG Hsien-Tzu/CHEN Szu-Yu,CHANG Li Sian/ZENG Jian,3,0,"11,11,11|1,2,8",R16,GRAND_SLAM,WD,356,Main Draw,CHENG Hsien-Tzu (TPE) / CHEN Szu-Yu (TPE),CHANG Li Sian (MAS) / ZENG Jian (SGP),CHENG Hsien-Tzu
+World Tour China Open Chengdu 2016,2016-09-14,CHENG Hsien-Tzu/CHEN Szu-Yu,JIANG Huajun/SHAN Xiaona,3,0,"11,12,11|7,10,7",QF,GRAND_SLAM,WD,356,Main Draw,CHENG Hsien-Tzu (TPE) / CHEN Szu-Yu (TPE),JIANG Huajun (HKG) / SHAN Xiaona (GER),CHENG Hsien-Tzu

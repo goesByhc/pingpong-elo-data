@@ -1,453 +1,453 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,ACHANTA Sharath/HENZELL William,BAGGALEY Andrew/PITCHFORD Liam,3,0,"11,13,11|9,11,9",QR32,GRAND_SLAM,MD,81,Qualification,ACHANTA Sharath (IND) / HENZELL William (AUS),BAGGALEY Andrew (ENG) / PITCHFORD Liam (ENG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,KARLSSON Kristian/KARLSSON Mattias,ACHANTA Sharath/HENZELL William,3,0,"11,11,11|6,9,7",QR16,GRAND_SLAM,MD,81,Qualification,KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),ACHANTA Sharath (IND) / HENZELL William (AUS)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,JIANG Tianyi/TANG Peng,GARDOS Robert/HABESOHN Daniel,4,3,"7,6,10,11,12,11,11|11,11,12,8,10,5,7",SF,GRAND_SLAM,MD,81,Main Draw,JIANG Tianyi (HKG) / TANG Peng (HKG),GARDOS Robert (AUT) / HABESOHN Daniel (AUT)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,DEVOS Robin/LAMBIET Florent,HASANOVIC Remhad/HAZZAA Walaaeldin,3,2,"11,6,11,8,11|9,11,7,11,8",QR64,GRAND_SLAM,MD,81,Qualification,DEVOS Robin (BEL) / LAMBIET Florent (BEL),HASANOVIC Remhad (BIH) / HAZZAA Walaaeldin (EGY)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,DEVOS Robin/LAMBIET Florent,BARDON Michal/KEINATH Thomas,3,2,"11,6,11,8,11|9,11,7,11,8",QR32,GRAND_SLAM,MD,81,Qualification,DEVOS Robin (BEL) / LAMBIET Florent (BEL),BARDON Michal (SVK) / KEINATH Thomas (SVK)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,KARLSSON Kristian/KARLSSON Mattias,MA Lin/WANG Hao,3,1,"7,11,11,11|11,6,8,5",R16,GRAND_SLAM,MD,81,Main Draw,KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),MA Lin (CHN) / WANG Hao (CHN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WANG Liqin/YAN An,GERELL Par/LUNDQVIST Jens,4,2,"11,11,12,8,5,11|9,6,10,11,11,3",QF,GRAND_SLAM,MD,81,Main Draw,WANG Liqin (CHN) / YAN An (CHN),GERELL Par (SWE) / LUNDQVIST Jens (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WANG Liqin/YAN An,CHAN Kazuhiro/MATSUDAIRA Kenji,4,1,"11,8,11,11,11|7,11,5,8,4",SF,GRAND_SLAM,MD,81,Main Draw,WANG Liqin (CHN) / YAN An (CHN),CHAN Kazuhiro (JPN) / MATSUDAIRA Kenji (JPN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WANG Liqin/YAN An,CANTERO Jesus/ROBLES Alvaro,3,0,"11,11,11|6,8,9",QR32,GRAND_SLAM,MD,81,Qualification,WANG Liqin (CHN) / YAN An (CHN),CANTERO Jesus (ESP) / ROBLES Alvaro (ESP)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WANG Liqin/YAN An,ELOI Damien/LEBESSON Emmanuel,3,0,"11,11,11|3,7,8",QR16,GRAND_SLAM,MD,81,Qualification,WANG Liqin (CHN) / YAN An (CHN),ELOI Damien (FRA) / LEBESSON Emmanuel (FRA)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,ELOI Damien/LEBESSON Emmanuel,GAVLAS Antonin/OBESLO Michal,3,1,"11,11,11,11|13,7,8,6",QR32,GRAND_SLAM,MD,81,Qualification,ELOI Damien (FRA) / LEBESSON Emmanuel (FRA),GAVLAS Antonin (CZE) / OBESLO Michal (CZE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,NORDBERG Hampus/PERSSON Jon,KONECNY Tomas/TREGLER Tomas,3,1,"10,11,11,11|12,8,8,8",QR32,GRAND_SLAM,MD,81,Qualification,NORDBERG Hampus (SWE) / PERSSON Jon (SWE),KONECNY Tomas (CZE) / TREGLER Tomas (CZE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,ASMUSSEN Jakob/HINDERSSON Mikkel,GUMAN Martin/KOBES Kristian,3,1,"11,10,11,11|3,12,8,6",QR64,GRAND_SLAM,MD,81,Qualification,ASMUSSEN Jakob (DEN) / HINDERSSON Mikkel (DEN),GUMAN Martin (SVK) / KOBES Kristian (SVK)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,KNIGHT Darius/REED Daniel,LAU Tobias/RASMUSSEN Morten,3,0,"11,12,13|9,10,11",QR64,GRAND_SLAM,MD,81,Qualification,KNIGHT Darius (ENG) / REED Daniel (ENG),LAU Tobias (DEN) / RASMUSSEN Morten (DEN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LI Hu/ZHAN Jian,ASMUSSEN Jakob/HINDERSSON Mikkel,3,2,"11,11,8,8,12|8,5,11,11,10",QR32,GRAND_SLAM,MD,81,Qualification,LI Hu (SGP) / ZHAN Jian (SGP),ASMUSSEN Jakob (DEN) / HINDERSSON Mikkel (DEN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,SAKAI Asuka/YOSHIMURA Maharu,CORDUE John/EVANS Gavin,3,0,"11,11,11|8,6,5",QR64,GRAND_SLAM,MD,81,Qualification,SAKAI Asuka (JPN) / YOSHIMURA Maharu (JPN),CORDUE John (NZL) / EVANS Gavin (ENG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,HABESOHN Dominik/SZYMANSKI Filip,KNIGHT Darius/REED Daniel,3,2,"8,12,11,9,11|11,10,8,11,6",QR16,GRAND_SLAM,MD,81,Qualification,HABESOHN Dominik (AUT) / SZYMANSKI Filip (POL),KNIGHT Darius (ENG) / REED Daniel (ENG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,INDEHERBERG Julien/VANROSSOMME Emilien,HIETIKKO Pauli/SOINE Samuli,3,1,"11,3,11,11|4,11,8,7",QR64,GRAND_SLAM,MD,81,Qualification,INDEHERBERG Julien (BEL) / VANROSSOMME Emilien (BEL),HIETIKKO Pauli (FIN) / SOINE Samuli (FIN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,ANGLES Enzo/LORENTZ Romain,CHOI Hyunjin/LEE Junsang,3,0,,QR32,GRAND_SLAM,MD,81,Qualification,ANGLES Enzo (FRA) / LORENTZ Romain (FRA),CHOI Hyunjin (KOR) / LEE Junsang (KOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,GAUZY Simon/ROBINOT Quentin,KIM Donghyun/SEO Junghwa,3,1,"11,13,11,11|8,15,9,6",QR32,GRAND_SLAM,MD,81,Qualification,GAUZY Simon (FRA) / ROBINOT Quentin (FRA),KIM Donghyun (KOR) / SEO Junghwa (KOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,GAO Ning/YANG Zi,GAUZY Simon/ROBINOT Quentin,3,0,"14,11,13|12,6,11",QR16,GRAND_SLAM,MD,81,Qualification,GAO Ning (SGP) / YANG Zi (SGP),GAUZY Simon (FRA) / ROBINOT Quentin (FRA)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WANG Liqin/YAN An,JIANG Tianyi/TANG Peng,4,3,"13,9,8,11,11,11,11|11,11,11,13,4,8,3",F,GRAND_SLAM,MD,81,Main Draw,WANG Liqin (CHN) / YAN An (CHN),JIANG Tianyi (HKG) / TANG Peng (HKG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,KARLSSON Kristian/KARLSSON Mattias,DURANSPAHIC Admir/TSE Ka Chun,3,1,"11,8,11,11|6,11,5,5",QR32,GRAND_SLAM,MD,81,Qualification,KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),DURANSPAHIC Admir (BIH) / TSE Ka Chun (HKG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,CHEUNG Yuk/LEUNG Chu Yan,SAKAI Asuka/YOSHIMURA Maharu,3,0,"15,11,12|13,8,10",QR32,GRAND_SLAM,MD,81,Qualification,CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),SAKAI Asuka (JPN) / YOSHIMURA Maharu (JPN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,CHEUNG Yuk/LEUNG Chu Yan,DESAI Harmeet/GHOSH Soumyajit,3,2,"9,13,11,12,11|11,11,13,10,6",QR16,GRAND_SLAM,MD,81,Qualification,CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),DESAI Harmeet (IND) / GHOSH Soumyajit (IND)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,DESAI Harmeet/GHOSH Soumyajit,HOREJSI Miroslav/PROKOPCOV Dmitrij,3,1,"5,11,11,11|11,6,8,9",QR32,GRAND_SLAM,MD,81,Qualification,DESAI Harmeet (IND) / GHOSH Soumyajit (IND),HOREJSI Miroslav (CZE) / PROKOPCOV Dmitrij (CZE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,GARDOS Robert/HABESOHN Daniel,BOBOCICA Mihai/STOYANOV Niagol,3,0,"11,11,12|6,5,10",R16,GRAND_SLAM,MD,81,Main Draw,GARDOS Robert (AUT) / HABESOHN Daniel (AUT),BOBOCICA Mihai (ITA) / STOYANOV Niagol (ITA)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,BOBOCICA Mihai/STOYANOV Niagol,KRIVOSHEEV Viacheslav/ZAKLADNYI Gennadii,3,1,"11,8,11,11|4,11,3,5",QR32,GRAND_SLAM,MD,81,Qualification,BOBOCICA Mihai (ITA) / STOYANOV Niagol (ITA),KRIVOSHEEV Viacheslav (RUS) / ZAKLADNYI Gennadii (UKR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,BOBOCICA Mihai/STOYANOV Niagol,DEVOS Robin/LAMBIET Florent,3,1,"7,11,11,11|11,6,8,8",QR16,GRAND_SLAM,MD,81,Qualification,BOBOCICA Mihai (ITA) / STOYANOV Niagol (ITA),DEVOS Robin (BEL) / LAMBIET Florent (BEL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WANG Liqin/YAN An,KISHIKAWA Seiya/NIWA Koki,3,1,"7,11,12,11|11,7,10,6",R16,GRAND_SLAM,MD,81,Main Draw,WANG Liqin (CHN) / YAN An (CHN),KISHIKAWA Seiya (JPN) / NIWA Koki (JPN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,CHAN Kazuhiro/MATSUDAIRA Kenji,CHEUNG Yuk/LEUNG Chu Yan,3,0,"11,11,11|4,4,3",R16,GRAND_SLAM,MD,81,Main Draw,CHAN Kazuhiro (JPN) / MATSUDAIRA Kenji (JPN),CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,CHAN Kazuhiro/MATSUDAIRA Kenji,MA Long/ZHANG Jike,4,3,"11,4,8,11,11,5,11|8,11,11,4,6,11,9",QF,GRAND_SLAM,MD,81,Main Draw,CHAN Kazuhiro (JPN) / MATSUDAIRA Kenji (JPN),MA Long (CHN) / ZHANG Jike (CHN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,GERELL Par/LUNDQVIST Jens,HABESOHN Dominik/SZYMANSKI Filip,3,1,"11,10,11,11|9,12,7,4",R16,GRAND_SLAM,MD,81,Main Draw,GERELL Par (SWE) / LUNDQVIST Jens (SWE),HABESOHN Dominik (AUT) / SZYMANSKI Filip (POL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,HABESOHN Dominik/SZYMANSKI Filip,KOU Lei/PRYSHCHEPA Ievgen,3,2,"11,7,11,8,11|3,11,9,11,4",QR32,GRAND_SLAM,MD,81,Qualification,HABESOHN Dominik (AUT) / SZYMANSKI Filip (POL),KOU Lei (UKR) / PRYSHCHEPA Ievgen (UKR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,KNIGHT Darius/REED Daniel,DIDUKH Oleksandr/SKACHKOV Kirill,3,2,"9,11,3,11,11|11,8,11,9,4",QR32,GRAND_SLAM,MD,81,Qualification,KNIGHT Darius (ENG) / REED Daniel (ENG),DIDUKH Oleksandr (UKR) / SKACHKOV Kirill (RUS)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,JIANG Tianyi/TANG Peng,GAO Ning/YANG Zi,3,1,"11,10,11,11|5,12,9,6",R16,GRAND_SLAM,MD,81,Main Draw,JIANG Tianyi (HKG) / TANG Peng (HKG),GAO Ning (SGP) / YANG Zi (SGP)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,MA Long/ZHANG Jike,LI Hu/ZHAN Jian,3,1,"8,11,11,11|11,2,2,8",R16,GRAND_SLAM,MD,81,Main Draw,MA Long (CHN) / ZHANG Jike (CHN),LI Hu (SGP) / ZHAN Jian (SGP)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,GARDOS Robert/HABESOHN Daniel,KARLSSON Kristian/KARLSSON Mattias,4,0,"11,11,12,11|7,9,10,9",QF,GRAND_SLAM,MD,81,Main Draw,GARDOS Robert (AUT) / HABESOHN Daniel (AUT),KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,JIANG Tianyi/TANG Peng,PERSSON Jorgen/SVENSSON Robert,4,1,"6,11,11,11,15|11,5,2,4,13",QF,GRAND_SLAM,MD,81,Main Draw,JIANG Tianyi (HKG) / TANG Peng (HKG),PERSSON Jorgen (SWE) / SVENSSON Robert (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,CANTERO Jesus/ROBLES Alvaro,ERIKSSON Robert/SODERLUND Hampus,3,2,"7,11,4,11,13|11,7,11,9,11",QR64,GRAND_SLAM,MD,81,Qualification,CANTERO Jesus (ESP) / ROBLES Alvaro (ESP),ERIKSSON Robert (SWE) / SODERLUND Hampus (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,ANDERSSON Harald/OVERSJO Mattias,CHUMAKOU Dmitry/OLAH Benedek,3,0,"11,11,11|8,9,9",QR64,GRAND_SLAM,MD,81,Qualification,ANDERSSON Harald (SWE) / OVERSJO Mattias (SWE),CHUMAKOU Dmitry (BLR) / OLAH Benedek (FIN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,PERSSON Jorgen/SVENSSON Robert,INDEHERBERG Julien/VANROSSOMME Emilien,3,0,,QR32,GRAND_SLAM,MD,81,Qualification,PERSSON Jorgen (SWE) / SVENSSON Robert (SWE),INDEHERBERG Julien (BEL) / VANROSSOMME Emilien (BEL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,GAO Ning/YANG Zi,ANDERSSON Harald/OVERSJO Mattias,3,0,"11,11,11|2,4,8",QR32,GRAND_SLAM,MD,81,Qualification,GAO Ning (SGP) / YANG Zi (SGP),ANDERSSON Harald (SWE) / OVERSJO Mattias (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LI Hu/ZHAN Jian,NORDBERG Hampus/PERSSON Jon,3,1,"11,8,11,11|9,11,8,2",QR16,GRAND_SLAM,MD,81,Qualification,LI Hu (SGP) / ZHAN Jian (SGP),NORDBERG Hampus (SWE) / PERSSON Jon (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,PERSSON Jorgen/SVENSSON Robert,ANGLES Enzo/LORENTZ Romain,3,1,"6,11,11,11|11,9,8,2",QR16,GRAND_SLAM,MD,81,Qualification,PERSSON Jorgen (SWE) / SVENSSON Robert (SWE),ANGLES Enzo (FRA) / LORENTZ Romain (FRA)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,PERSSON Jorgen/SVENSSON Robert,LI Ahmet/VANG Bora,3,2,"11,7,6,11,11|2,11,11,7,7",R16,GRAND_SLAM,MD,81,Main Draw,PERSSON Jorgen (SWE) / SVENSSON Robert (SWE),LI Ahmet (TUR) / VANG Bora (TUR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,VANROSSOMME Emilien,OLAH Benedek,3,1,"11,16,8,11|9,14,11,5",,GRAND_SLAM,U21MS,81,Qualification,VANROSSOMME Emilien (BEL),OLAH Benedek (FIN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,OLAH Benedek,ROBLES Alvaro,3,0,"11,11,11|4,9,9",,GRAND_SLAM,U21MS,81,Qualification,OLAH Benedek (FIN),ROBLES Alvaro (ESP)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,VANROSSOMME Emilien,ROBLES Alvaro,3,2,"11,7,11,10,11|7,11,9,12,7",,GRAND_SLAM,U21MS,81,Qualification,VANROSSOMME Emilien (BEL),ROBLES Alvaro (ESP)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,KOBES Kristian,DESAI Harmeet,3,1,"11,11,9,12|6,9,11,10",,GRAND_SLAM,U21MS,81,Qualification,KOBES Kristian (SVK),DESAI Harmeet (IND)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,DESAI Harmeet,TRAN Anthony,3,2,"9,8,11,12,13|11,11,9,10,11",,GRAND_SLAM,U21MS,81,Qualification,DESAI Harmeet (IND),TRAN Anthony (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,KOBES Kristian,TRAN Anthony,3,2,"9,10,11,11,11|11,12,4,9,9",,GRAND_SLAM,U21MS,81,Qualification,KOBES Kristian (SVK),TRAN Anthony (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,SAKAI Asuka,EVANS Gavin,3,2,"8,11,11,8,11|11,2,6,11,9",,GRAND_SLAM,U21MS,81,Qualification,SAKAI Asuka (JPN),EVANS Gavin (ENG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,SAKAI Asuka,DEVOS Robin,3,2,"9,8,12,14,11|11,11,10,12,8",,GRAND_SLAM,U21MS,81,Qualification,SAKAI Asuka (JPN),DEVOS Robin (BEL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,DEVOS Robin,EVANS Gavin,3,2,"11,5,11,8,11|8,11,9,11,6",,GRAND_SLAM,U21MS,81,Qualification,DEVOS Robin (BEL),EVANS Gavin (ENG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,SODERLUND Hampus,INDEHERBERG Julien,3,2,"13,11,8,8,11|11,5,11,11,9",,GRAND_SLAM,U21MS,81,Qualification,SODERLUND Hampus (SWE),INDEHERBERG Julien (BEL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,SODERLUND Hampus,ANGLES Enzo,3,2,"8,4,11,11,11|11,11,5,8,9",,GRAND_SLAM,U21MS,81,Qualification,SODERLUND Hampus (SWE),ANGLES Enzo (FRA)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,ANGLES Enzo,INDEHERBERG Julien,3,0,"11,11,11|2,0,0",,GRAND_SLAM,U21MS,81,Qualification,ANGLES Enzo (FRA),INDEHERBERG Julien (BEL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,BROSSIER Benjamin,LAMBIET Florent,3,0,"11,11,11|5,4,6",,GRAND_SLAM,U21MS,81,Qualification,BROSSIER Benjamin (FRA),LAMBIET Florent (BEL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WALTHER Ricardo,BROSSIER Benjamin,3,1,"12,11,11,11|10,13,6,9",,GRAND_SLAM,U21MS,81,Qualification,WALTHER Ricardo (GER),BROSSIER Benjamin (FRA)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WALTHER Ricardo,LAMBIET Florent,3,0,"11,11,11|9,7,7",,GRAND_SLAM,U21MS,81,Qualification,WALTHER Ricardo (GER),LAMBIET Florent (BEL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,OUAICHE Stephane,LAU Tobias,3,0,"11,11,11|6,9,7",,GRAND_SLAM,U21MS,81,Qualification,OUAICHE Stephane (ALG),LAU Tobias (DEN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,SEO Junghwa,OVERSJO Mattias,3,2,"11,11,5,4,11|8,9,11,11,8",,GRAND_SLAM,U21MS,81,Qualification,SEO Junghwa (KOR),OVERSJO Mattias (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,OUAICHE Stephane,OVERSJO Mattias,3,2,"9,9,12,11,11|11,11,10,7,6",,GRAND_SLAM,U21MS,81,Qualification,OUAICHE Stephane (ALG),OVERSJO Mattias (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,SEO Junghwa,LAU Tobias,3,1,"7,11,11,11|11,9,8,4",,GRAND_SLAM,U21MS,81,Qualification,SEO Junghwa (KOR),LAU Tobias (DEN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,OUAICHE Stephane,SEO Junghwa,3,1,"11,5,11,11|4,11,5,8",,GRAND_SLAM,U21MS,81,Qualification,OUAICHE Stephane (ALG),SEO Junghwa (KOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,OVERSJO Mattias,LAU Tobias,3,2,"11,9,2,11,11|9,11,11,8,6",,GRAND_SLAM,U21MS,81,Qualification,OVERSJO Mattias (SWE),LAU Tobias (DEN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,HIGASHI Yuto,SOINE Samuli,3,0,"11,11,11|6,6,7",,GRAND_SLAM,U21MS,81,Qualification,HIGASHI Yuto (JPN),SOINE Samuli (FIN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,BRODD Viktor,ROBINOT Alexandre,3,1,"6,11,11,12|11,6,3,10",,GRAND_SLAM,U21MS,81,Qualification,BRODD Viktor (SWE),ROBINOT Alexandre (FRA)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,HIGASHI Yuto,ROBINOT Alexandre,3,0,"11,11,12|3,5,10",,GRAND_SLAM,U21MS,81,Qualification,HIGASHI Yuto (JPN),ROBINOT Alexandre (FRA)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,BRODD Viktor,SOINE Samuli,3,0,"11,11,11|2,8,5",,GRAND_SLAM,U21MS,81,Qualification,BRODD Viktor (SWE),SOINE Samuli (FIN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,HIGASHI Yuto,BRODD Viktor,3,0,"11,11,11|6,5,1",,GRAND_SLAM,U21MS,81,Qualification,HIGASHI Yuto (JPN),BRODD Viktor (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,ROBINOT Alexandre,SOINE Samuli,3,0,"11,11,11|3,7,8",,GRAND_SLAM,U21MS,81,Qualification,ROBINOT Alexandre (FRA),SOINE Samuli (FIN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LE BRETON Thomas,HIETIKKO Pauli,3,0,"11,11,11|6,8,3",,GRAND_SLAM,U21MS,81,Qualification,LE BRETON Thomas (FRA),HIETIKKO Pauli (FIN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,HINDERSSON Mikkel,BAND Joshua,3,0,"11,11,11|1,7,5",,GRAND_SLAM,U21MS,81,Qualification,HINDERSSON Mikkel (DEN),BAND Joshua (JEY)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LE BRETON Thomas,HINDERSSON Mikkel,3,1,"11,8,13,11|6,11,11,7",,GRAND_SLAM,U21MS,81,Qualification,LE BRETON Thomas (FRA),HINDERSSON Mikkel (DEN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,HIETIKKO Pauli,BAND Joshua,3,0,"11,11,11|5,4,6",,GRAND_SLAM,U21MS,81,Qualification,HIETIKKO Pauli (FIN),BAND Joshua (JEY)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LE BRETON Thomas,BAND Joshua,3,0,"11,11,11|6,4,5",,GRAND_SLAM,U21MS,81,Qualification,LE BRETON Thomas (FRA),BAND Joshua (JEY)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,HINDERSSON Mikkel,HIETIKKO Pauli,3,1,"11,11,11,11|5,3,13,4",,GRAND_SLAM,U21MS,81,Qualification,HINDERSSON Mikkel (DEN),HIETIKKO Pauli (FIN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WANG Hao,MURAMATSU Yuto,4,1,"11,11,11,11,11|13,5,8,4,3",R64,GRAND_SLAM,MS,81,Main Draw,WANG Hao (CHN),MURAMATSU Yuto (JPN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,ELOI Damien,REED Daniel,4,1,"11,9,11,11,11|9,11,5,9,8",R64,GRAND_SLAM,MS,81,Main Draw,ELOI Damien (FRA),REED Daniel (ENG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,YAN An,BOBOCICA Mihai,4,1,"11,11,6,11,11|4,7,11,4,9",R64,GRAND_SLAM,MS,81,Main Draw,YAN An (CHN),BOBOCICA Mihai (ITA)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WALTHER Ricardo,CHEUNG Yuk,4,0,"11,11,11,13|7,6,9,11",R64,GRAND_SLAM,MS,81,Main Draw,WALTHER Ricardo (GER),CHEUNG Yuk (HKG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,YOSHIMURA Maharu,PERSSON Jorgen,4,2,"11,11,9,11,6,11|9,9,11,8,11,6",R64,GRAND_SLAM,MS,81,Main Draw,YOSHIMURA Maharu (JPN),PERSSON Jorgen (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LEBESSON Emmanuel,OVERSJO Mattias,4,2,"5,12,8,12,14,14|11,10,11,10,12,12",R64,GRAND_SLAM,MS,81,Main Draw,LEBESSON Emmanuel (FRA),OVERSJO Mattias (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,MATSUDAIRA Kenta,OBESLO Michal,4,1,"11,3,12,11,11|6,11,10,3,5",R64,GRAND_SLAM,MS,81,Main Draw,MATSUDAIRA Kenta (JPN),OBESLO Michal (CZE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,MIZUTANI Jun,KOU Lei,4,2,"5,11,11,11,8,11|11,9,6,3,11,7",R64,GRAND_SLAM,MS,81,Main Draw,MIZUTANI Jun (JPN),KOU Lei (UKR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WANG Liqin,CHOI Hyunjin,4,0,"11,11,11,11|5,3,8,6",R64,GRAND_SLAM,MS,81,Main Draw,WANG Liqin (CHN),CHOI Hyunjin (KOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,MATSUDAIRA Kenji,SVENSSON Robert,4,1,"11,11,11,7,11|9,9,8,11,4",R64,GRAND_SLAM,MS,81,Main Draw,MATSUDAIRA Kenji (JPN),SVENSSON Robert (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LEE Junsang,FEJER-KONNERTH Zoltan,4,3,"6,8,11,7,11,11,11|11,11,6,11,3,9,7",R64,GRAND_SLAM,MS,81,Main Draw,LEE Junsang (KOR),FEJER-KONNERTH Zoltan (GER)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,TANG Peng,MENGEL Steffen,4,3,"11,11,7,9,11,10,11|9,3,11,11,6,12,5",R64,GRAND_SLAM,MS,81,Main Draw,TANG Peng (HKG),MENGEL Steffen (GER)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,FREITAS Marcos,PERSSON Jon,4,1,"8,11,11,11,11|11,6,5,4,6",R64,GRAND_SLAM,MS,81,Main Draw,FREITAS Marcos (POR),PERSSON Jon (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LEUNG Chu Yan,PROKOPCOV Dmitrij,4,0,"12,11,11,11|10,7,8,9",R64,GRAND_SLAM,MS,81,Main Draw,LEUNG Chu Yan (HKG),PROKOPCOV Dmitrij (CZE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,KEINATH Thomas,KARLSSON Kristian,4,3,"12,10,11,12,12,11,11|14,12,8,14,10,3,9",R64,GRAND_SLAM,MS,81,Main Draw,KEINATH Thomas (SVK),KARLSSON Kristian (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,ZHANG Jike,TREGLER Tomas,4,0,"13,11,11,11|11,5,9,9",R64,GRAND_SLAM,MS,81,Main Draw,ZHANG Jike (CHN),TREGLER Tomas (CZE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,ROBINOT Quentin,MA Lin,4,1,"11,11,4,11,11|8,7,11,9,8",R64,GRAND_SLAM,MS,81,Main Draw,ROBINOT Quentin (FRA),MA Lin (CHN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,YANG Zi,SZYMANSKI Filip,4,1,"11,6,11,11,11|6,11,7,2,7",R64,GRAND_SLAM,MS,81,Main Draw,YANG Zi (SGP),SZYMANSKI Filip (POL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,TAKAKIWA Taku,LORENTZ Romain,4,0,"11,11,12,11|4,4,10,5",R64,GRAND_SLAM,MS,81,Main Draw,TAKAKIWA Taku (JPN),LORENTZ Romain (FRA)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,JIANG Tianyi,DIDUKH Oleksandr,4,0,"11,11,11,11|8,9,7,8",R64,GRAND_SLAM,MS,81,Main Draw,JIANG Tianyi (HKG),DIDUKH Oleksandr (UKR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,NIWA Koki,SALIFOU Abdel-Kader,4,1,"11,13,7,11,11|5,11,11,8,3",R64,GRAND_SLAM,MS,81,Main Draw,NIWA Koki (JPN),SALIFOU Abdel-Kader (BEN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LUNDQVIST Jens,BAGGALEY Andrew,4,1,"11,11,7,11,11|6,7,11,6,7",R64,GRAND_SLAM,MS,81,Main Draw,LUNDQVIST Jens (SWE),BAGGALEY Andrew (ENG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,ZHAN Jian,DESAI Harmeet,4,1,"11,11,11,15,11|3,5,6,17,3",R64,GRAND_SLAM,MS,81,Main Draw,ZHAN Jian (SGP),DESAI Harmeet (IND)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,KISHIKAWA Seiya,KARLSSON Mattias,4,1,"9,11,11,11,11|11,6,3,7,6",R64,GRAND_SLAM,MS,81,Main Draw,KISHIKAWA Seiya (JPN),KARLSSON Mattias (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,GAO Ning,SAKAI Asuka,4,0,"11,11,11,11|6,3,9,6",R64,GRAND_SLAM,MS,81,Main Draw,GAO Ning (SGP),SAKAI Asuka (JPN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,SKACHKOV Kirill,VANG Bora,4,1,"11,10,11,11,11|9,12,8,7,0",R64,GRAND_SLAM,MS,81,Main Draw,SKACHKOV Kirill (RUS),VANG Bora (TUR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,GERELL Par,TSE Ka Chun,4,2,"11,11,8,10,11,11|9,4,11,12,8,5",R64,GRAND_SLAM,MS,81,Main Draw,GERELL Par (SWE),TSE Ka Chun (HKG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,GAUZY Simon,YOSHIDA Kaii,4,0,"11,11,11,11|4,9,6,5",R64,GRAND_SLAM,MS,81,Main Draw,GAUZY Simon (FRA),YOSHIDA Kaii (JPN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LI Hu,HIELSCHER Lars,4,1,"11,9,11,11,11|6,11,9,6,6",R64,GRAND_SLAM,MS,81,Main Draw,LI Hu (SGP),HIELSCHER Lars (GER)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,ACHANTA Sharath,HENZELL William,4,0,"12,11,11,11|10,5,3,7",R64,GRAND_SLAM,MS,81,Main Draw,ACHANTA Sharath (IND),HENZELL William (AUS)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,PETIOT Jeremy,CHAN Kazuhiro,4,3,"11,4,12,7,11,5,11|7,11,10,11,6,11,9",R64,GRAND_SLAM,MS,81,Main Draw,PETIOT Jeremy (FRA),CHAN Kazuhiro (JPN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,MA Long,OUAICHE Stephane,4,0,"11,11,11,11|5,6,3,6",R64,GRAND_SLAM,MS,81,Main Draw,MA Long (CHN),OUAICHE Stephane (ALG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WANG Hao,ELOI Damien,4,0,"11,11,11,11|4,6,7,7",R32,GRAND_SLAM,MS,81,Main Draw,WANG Hao (CHN),ELOI Damien (FRA)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,YAN An,WALTHER Ricardo,4,0,"11,11,11,14|7,3,8,12",R32,GRAND_SLAM,MS,81,Main Draw,YAN An (CHN),WALTHER Ricardo (GER)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,YOSHIMURA Maharu,LEBESSON Emmanuel,4,2,"6,11,9,14,11,11|11,8,11,12,3,5",R32,GRAND_SLAM,MS,81,Main Draw,YOSHIMURA Maharu (JPN),LEBESSON Emmanuel (FRA)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,MIZUTANI Jun,MATSUDAIRA Kenta,4,2,"11,6,12,11,11,11|8,11,10,13,8,8",R32,GRAND_SLAM,MS,81,Main Draw,MIZUTANI Jun (JPN),MATSUDAIRA Kenta (JPN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WANG Liqin,MATSUDAIRA Kenji,4,1,"11,11,11,12,11|6,4,8,14,5",R32,GRAND_SLAM,MS,81,Main Draw,WANG Liqin (CHN),MATSUDAIRA Kenji (JPN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,TANG Peng,LEE Junsang,4,0,"11,11,11,11|4,5,7,9",R32,GRAND_SLAM,MS,81,Main Draw,TANG Peng (HKG),LEE Junsang (KOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LEUNG Chu Yan,FREITAS Marcos,4,3,"6,12,11,12,10,8,11|11,10,9,10,12,11,9",R32,GRAND_SLAM,MS,81,Main Draw,LEUNG Chu Yan (HKG),FREITAS Marcos (POR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,ZHANG Jike,KEINATH Thomas,4,0,"11,11,11,11|6,6,6,6",R32,GRAND_SLAM,MS,81,Main Draw,ZHANG Jike (CHN),KEINATH Thomas (SVK)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,YANG Zi,ROBINOT Quentin,4,3,"11,11,11,3,8,7,11|6,9,6,11,11,11,3",R32,GRAND_SLAM,MS,81,Main Draw,YANG Zi (SGP),ROBINOT Quentin (FRA)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,TAKAKIWA Taku,JIANG Tianyi,4,3,"8,11,11,11,8,7,11|11,8,9,8,11,11,5",R32,GRAND_SLAM,MS,81,Main Draw,TAKAKIWA Taku (JPN),JIANG Tianyi (HKG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,NIWA Koki,LUNDQVIST Jens,4,3,"8,11,11,8,11,10,12|11,8,3,11,7,12,10",R32,GRAND_SLAM,MS,81,Main Draw,NIWA Koki (JPN),LUNDQVIST Jens (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,KISHIKAWA Seiya,ZHAN Jian,4,3,"11,9,11,9,10,11,11|7,11,9,11,12,8,8",R32,GRAND_SLAM,MS,81,Main Draw,KISHIKAWA Seiya (JPN),ZHAN Jian (SGP)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,SKACHKOV Kirill,GAO Ning,4,3,"11,11,6,12,7,9,11|8,8,11,10,11,11,4",R32,GRAND_SLAM,MS,81,Main Draw,SKACHKOV Kirill (RUS),GAO Ning (SGP)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,GAUZY Simon,GERELL Par,4,1,"11,9,11,11,11|9,11,9,3,7",R32,GRAND_SLAM,MS,81,Main Draw,GAUZY Simon (FRA),GERELL Par (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,ACHANTA Sharath,LI Hu,4,1,"11,5,11,11,11|8,11,6,9,5",R32,GRAND_SLAM,MS,81,Main Draw,ACHANTA Sharath (IND),LI Hu (SGP)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,MA Long,PETIOT Jeremy,4,0,"11,11,11,11|1,5,5,5",R32,GRAND_SLAM,MS,81,Main Draw,MA Long (CHN),PETIOT Jeremy (FRA)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WANG Hao,YAN An,4,1,"11,11,5,11,12|4,8,11,8,10",R16,GRAND_SLAM,MS,81,Main Draw,WANG Hao (CHN),YAN An (CHN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,MIZUTANI Jun,YOSHIMURA Maharu,4,2,"8,11,11,8,11,11|11,6,4,11,9,7",R16,GRAND_SLAM,MS,81,Main Draw,MIZUTANI Jun (JPN),YOSHIMURA Maharu (JPN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WANG Liqin,TANG Peng,4,2,"11,9,5,11,11,11|9,11,11,3,9,5",R16,GRAND_SLAM,MS,81,Main Draw,WANG Liqin (CHN),TANG Peng (HKG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,ZHANG Jike,LEUNG Chu Yan,4,0,"11,12,11,11|5,10,8,8",R16,GRAND_SLAM,MS,81,Main Draw,ZHANG Jike (CHN),LEUNG Chu Yan (HKG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,TAKAKIWA Taku,YANG Zi,4,1,"11,13,11,5,11|9,11,4,11,5",R16,GRAND_SLAM,MS,81,Main Draw,TAKAKIWA Taku (JPN),YANG Zi (SGP)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,KISHIKAWA Seiya,NIWA Koki,4,3,"6,11,11,11,10,5,11|11,8,3,6,12,11,9",R16,GRAND_SLAM,MS,81,Main Draw,KISHIKAWA Seiya (JPN),NIWA Koki (JPN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,SKACHKOV Kirill,GAUZY Simon,4,2,"11,10,9,11,11,11|7,12,11,7,6,8",R16,GRAND_SLAM,MS,81,Main Draw,SKACHKOV Kirill (RUS),GAUZY Simon (FRA)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,MA Long,ACHANTA Sharath,4,0,"11,11,11,11|7,8,5,1",R16,GRAND_SLAM,MS,81,Main Draw,MA Long (CHN),ACHANTA Sharath (IND)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WANG Hao,MIZUTANI Jun,4,0,"11,11,11,11|6,7,9,7",QF,GRAND_SLAM,MS,81,Main Draw,WANG Hao (CHN),MIZUTANI Jun (JPN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WANG Liqin,ZHANG Jike,4,1,"11,12,11,6,11|8,10,5,11,9",QF,GRAND_SLAM,MS,81,Main Draw,WANG Liqin (CHN),ZHANG Jike (CHN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,KISHIKAWA Seiya,TAKAKIWA Taku,4,3,"3,11,11,7,9,11,11|11,5,4,11,11,4,4",QF,GRAND_SLAM,MS,81,Main Draw,KISHIKAWA Seiya (JPN),TAKAKIWA Taku (JPN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,MA Long,SKACHKOV Kirill,4,0,"11,13,11,16|1,11,7,14",QF,GRAND_SLAM,MS,81,Main Draw,MA Long (CHN),SKACHKOV Kirill (RUS)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WANG Hao,WANG Liqin,4,3,"11,9,9,6,11,16,11|3,11,11,11,7,14,6",SF,GRAND_SLAM,MS,81,Main Draw,WANG Hao (CHN),WANG Liqin (CHN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,MA Long,KISHIKAWA Seiya,4,0,"11,11,11,12|7,4,4,10",SF,GRAND_SLAM,MS,81,Main Draw,MA Long (CHN),KISHIKAWA Seiya (JPN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,MA Long,WANG Hao,4,0,"11,14,11,11|7,12,8,7",F,GRAND_SLAM,MS,81,Main Draw,MA Long (CHN),WANG Hao (CHN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,BROSSIER Benjamin,LI Ahmet,3,2,"13,7,11,9,11|11,11,8,11,4",R32,GRAND_SLAM,U21MS,81,Main Draw,BROSSIER Benjamin (FRA),LI Ahmet (TUR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,HIGASHI Yuto,PITCHFORD Liam,3,1,"11,11,9,11|4,8,11,8",R32,GRAND_SLAM,U21MS,81,Main Draw,HIGASHI Yuto (JPN),PITCHFORD Liam (ENG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WALTHER Ricardo,KIM Donghyun,3,1,"13,9,12,11|11,11,10,9",R32,GRAND_SLAM,U21MS,81,Main Draw,WALTHER Ricardo (GER),KIM Donghyun (KOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,DESAI Harmeet,LEE Junsang,3,2,"11,11,10,12,11|9,2,12,14,7",R32,GRAND_SLAM,U21MS,81,Main Draw,DESAI Harmeet (IND),LEE Junsang (KOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,MURAMATSU Yuto,DEVOS Robin,3,1,"15,7,11,11|13,11,3,5",R32,GRAND_SLAM,U21MS,81,Main Draw,MURAMATSU Yuto (JPN),DEVOS Robin (BEL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LE BRETON Thomas,ANDERSSON Harald,3,2,"8,9,11,11,11|11,11,8,8,6",R32,GRAND_SLAM,U21MS,81,Main Draw,LE BRETON Thomas (FRA),ANDERSSON Harald (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,GHOSH Soumyajit,KOBES Kristian,3,0,"11,11,11|7,8,9",R32,GRAND_SLAM,U21MS,81,Main Draw,GHOSH Soumyajit (IND),KOBES Kristian (SVK)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,YOSHIMURA Maharu,ANGLES Enzo,3,1,"7,12,11,11|11,10,7,3",R32,GRAND_SLAM,U21MS,81,Main Draw,YOSHIMURA Maharu (JPN),ANGLES Enzo (FRA)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,HINDERSSON Mikkel,KARLSSON Mattias,3,1,"10,11,14,11|12,8,12,7",R32,GRAND_SLAM,U21MS,81,Main Draw,HINDERSSON Mikkel (DEN),KARLSSON Mattias (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,KARLSSON Kristian,OUAICHE Stephane,3,0,"13,11,11|11,8,5",R32,GRAND_SLAM,U21MS,81,Main Draw,KARLSSON Kristian (SWE),OUAICHE Stephane (ALG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,PETIOT Jeremy,SAKAI Asuka,3,1,"9,11,11,11|11,8,6,6",R32,GRAND_SLAM,U21MS,81,Main Draw,PETIOT Jeremy (FRA),SAKAI Asuka (JPN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,TREGLER Tomas,BRODD Viktor,3,0,"11,11,11|5,5,3",R32,GRAND_SLAM,U21MS,81,Main Draw,TREGLER Tomas (CZE),BRODD Viktor (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,GAUZY Simon,SEO Junghwa,3,2,"11,11,8,12,11|5,8,11,14,6",R32,GRAND_SLAM,U21MS,81,Main Draw,GAUZY Simon (FRA),SEO Junghwa (KOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,KNIGHT Darius,VANROSSOMME Emilien,3,2,"8,11,9,11,11|11,7,11,6,6",R32,GRAND_SLAM,U21MS,81,Main Draw,KNIGHT Darius (ENG),VANROSSOMME Emilien (BEL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,SODERLUND Hampus,LORENTZ Romain,3,0,"11,11,11|7,6,9",R32,GRAND_SLAM,U21MS,81,Main Draw,SODERLUND Hampus (SWE),LORENTZ Romain (FRA)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,ROBINOT Quentin,OLAH Benedek,3,2,"9,8,11,11,11|11,11,7,9,6",R32,GRAND_SLAM,U21MS,81,Main Draw,ROBINOT Quentin (FRA),OLAH Benedek (FIN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,HIGASHI Yuto,BROSSIER Benjamin,3,1,"8,11,11,11|11,1,7,8",R16,GRAND_SLAM,U21MS,81,Main Draw,HIGASHI Yuto (JPN),BROSSIER Benjamin (FRA)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WALTHER Ricardo,DESAI Harmeet,3,0,"11,11,11|9,7,9",R16,GRAND_SLAM,U21MS,81,Main Draw,WALTHER Ricardo (GER),DESAI Harmeet (IND)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,MURAMATSU Yuto,LE BRETON Thomas,3,1,"9,11,11,11|11,7,7,8",R16,GRAND_SLAM,U21MS,81,Main Draw,MURAMATSU Yuto (JPN),LE BRETON Thomas (FRA)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,YOSHIMURA Maharu,GHOSH Soumyajit,3,0,"11,11,11|9,9,8",R16,GRAND_SLAM,U21MS,81,Main Draw,YOSHIMURA Maharu (JPN),GHOSH Soumyajit (IND)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,KARLSSON Kristian,HINDERSSON Mikkel,3,2,"7,11,8,11,11|11,6,11,7,7",R16,GRAND_SLAM,U21MS,81,Main Draw,KARLSSON Kristian (SWE),HINDERSSON Mikkel (DEN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,TREGLER Tomas,PETIOT Jeremy,3,0,"11,11,11|7,9,9",R16,GRAND_SLAM,U21MS,81,Main Draw,TREGLER Tomas (CZE),PETIOT Jeremy (FRA)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,GAUZY Simon,KNIGHT Darius,3,0,"11,11,17|9,9,15",R16,GRAND_SLAM,U21MS,81,Main Draw,GAUZY Simon (FRA),KNIGHT Darius (ENG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,ROBINOT Quentin,SODERLUND Hampus,3,0,"11,11,11|2,6,6",R16,GRAND_SLAM,U21MS,81,Main Draw,ROBINOT Quentin (FRA),SODERLUND Hampus (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WALTHER Ricardo,HIGASHI Yuto,4,1,"9,11,11,11,11|11,9,8,5,8",QF,GRAND_SLAM,U21MS,81,Main Draw,WALTHER Ricardo (GER),HIGASHI Yuto (JPN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,YOSHIMURA Maharu,MURAMATSU Yuto,4,2,"9,11,11,11,11,12|11,13,9,8,6,10",QF,GRAND_SLAM,U21MS,81,Main Draw,YOSHIMURA Maharu (JPN),MURAMATSU Yuto (JPN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,TREGLER Tomas,KARLSSON Kristian,4,3,"6,3,11,13,11,8,11|11,11,8,11,5,11,7",QF,GRAND_SLAM,U21MS,81,Main Draw,TREGLER Tomas (CZE),KARLSSON Kristian (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,GAUZY Simon,ROBINOT Quentin,4,2,"11,9,11,9,11,11|6,11,8,11,7,3",QF,GRAND_SLAM,U21MS,81,Main Draw,GAUZY Simon (FRA),ROBINOT Quentin (FRA)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WALTHER Ricardo,YOSHIMURA Maharu,4,3,"11,5,8,9,13,11,11|9,11,11,11,11,9,8",SF,GRAND_SLAM,U21MS,81,Main Draw,WALTHER Ricardo (GER),YOSHIMURA Maharu (JPN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,TREGLER Tomas,GAUZY Simon,4,3,"9,7,7,11,11,13,11|11,11,11,9,7,11,9",SF,GRAND_SLAM,U21MS,81,Main Draw,TREGLER Tomas (CZE),GAUZY Simon (FRA)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WALTHER Ricardo,TREGLER Tomas,4,1,"11,11,11,10,11|7,6,7,12,7",F,GRAND_SLAM,U21MS,81,Main Draw,WALTHER Ricardo (GER),TREGLER Tomas (CZE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,HINDERSSON Mikkel,ROBINOT Alexandre,4,2,"11,9,11,11,11,11|0,11,13,8,8,9",,GRAND_SLAM,MS,81,Qualification,HINDERSSON Mikkel (DEN),ROBINOT Alexandre (FRA)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LEUNG Chu Yan,ROBINOT Alexandre,4,0,"11,11,11,11|9,8,6,5",,GRAND_SLAM,MS,81,Qualification,LEUNG Chu Yan (HKG),ROBINOT Alexandre (FRA)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LEUNG Chu Yan,HINDERSSON Mikkel,4,2,"7,11,11,11,8,11|11,5,8,5,11,6",,GRAND_SLAM,MS,81,Qualification,LEUNG Chu Yan (HKG),HINDERSSON Mikkel (DEN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LE BRETON Thomas,CHUMAKOU Dmitry,4,3,"9,5,11,11,8,11,11|11,11,7,9,11,8,6",,GRAND_SLAM,MS,81,Qualification,LE BRETON Thomas (FRA),CHUMAKOU Dmitry (BLR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,MATSUDAIRA Kenji,CHUMAKOU Dmitry,4,0,"11,11,11,11|4,8,5,9",,GRAND_SLAM,MS,81,Qualification,MATSUDAIRA Kenji (JPN),CHUMAKOU Dmitry (BLR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,MATSUDAIRA Kenji,LE BRETON Thomas,4,1,"11,11,7,11,11|9,1,11,7,6",,GRAND_SLAM,MS,81,Qualification,MATSUDAIRA Kenji (JPN),LE BRETON Thomas (FRA)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,HIGASHI Yuto,OVERSJO Mattias,4,2,"11,6,11,11,10,11|8,11,6,9,12,6",,GRAND_SLAM,MS,81,Qualification,HIGASHI Yuto (JPN),OVERSJO Mattias (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,OVERSJO Mattias,LI Ahmet,4,0,"11,11,12,11|6,7,10,1",,GRAND_SLAM,MS,81,Qualification,OVERSJO Mattias (SWE),LI Ahmet (TUR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LI Ahmet,HIGASHI Yuto,4,3,"8,11,7,11,13,8,11|11,9,11,8,11,11,7",,GRAND_SLAM,MS,81,Qualification,LI Ahmet (TUR),HIGASHI Yuto (JPN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WALTHER Ricardo,ASMUSSEN Jakob,4,1,"7,11,11,11,11|11,4,9,9,6",,GRAND_SLAM,MS,81,Qualification,WALTHER Ricardo (GER),ASMUSSEN Jakob (DEN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WALTHER Ricardo,KONECNY Tomas,4,0,"11,11,11,11|1,8,9,6",,GRAND_SLAM,MS,81,Qualification,WALTHER Ricardo (GER),KONECNY Tomas (CZE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,KONECNY Tomas,ASMUSSEN Jakob,4,3,"11,7,10,8,11,11,11|9,11,12,11,5,5,8",,GRAND_SLAM,MS,81,Qualification,KONECNY Tomas (CZE),ASMUSSEN Jakob (DEN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,HABESOHN Dominik,SONDELL Johan,4,2,"11,11,11,8,11,11|8,13,5,11,7,7",,GRAND_SLAM,MS,81,Qualification,HABESOHN Dominik (AUT),SONDELL Johan (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,DIDUKH Oleksandr,SONDELL Johan,4,0,"11,11,11,11|8,5,5,3",,GRAND_SLAM,MS,81,Qualification,DIDUKH Oleksandr (UKR),SONDELL Johan (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,DIDUKH Oleksandr,HABESOHN Dominik,4,1,"9,14,11,11,11|11,12,7,4,9",,GRAND_SLAM,MS,81,Qualification,DIDUKH Oleksandr (UKR),HABESOHN Dominik (AUT)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,NORDBERG Hampus,KRIVOSHEEV Viacheslav,4,1,"11,7,11,11,11|3,11,6,8,8",,GRAND_SLAM,MS,81,Qualification,NORDBERG Hampus (SWE),KRIVOSHEEV Viacheslav (RUS)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,SALIFOU Abdel-Kader,NORDBERG Hampus,4,1,"11,11,5,12,13|9,3,11,10,11",,GRAND_SLAM,MS,81,Qualification,SALIFOU Abdel-Kader (BEN),NORDBERG Hampus (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,KRIVOSHEEV Viacheslav,SALIFOU Abdel-Kader,4,3,"8,11,11,6,12,8,11|11,8,7,11,10,11,9",,GRAND_SLAM,MS,81,Qualification,KRIVOSHEEV Viacheslav (RUS),SALIFOU Abdel-Kader (BEN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,RASMUSSEN Morten,RONNEBERG Espen,4,0,,,GRAND_SLAM,MS,81,Qualification,RASMUSSEN Morten (DEN),RONNEBERG Espen (NOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,CHOI Hyunjin,RASMUSSEN Morten,4,0,"11,11,11,11|7,5,3,9",,GRAND_SLAM,MS,81,Qualification,CHOI Hyunjin (KOR),RASMUSSEN Morten (DEN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,CHOI Hyunjin,RONNEBERG Espen,4,0,,,GRAND_SLAM,MS,81,Qualification,CHOI Hyunjin (KOR),RONNEBERG Espen (NOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,OUAICHE Stephane,TRAN Anthony,4,3,"9,9,11,9,11,11,11|11,11,8,11,7,8,6",,GRAND_SLAM,MS,81,Qualification,OUAICHE Stephane (ALG),TRAN Anthony (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,BOBOCICA Mihai,TRAN Anthony,4,2,"11,11,7,9,12,11|6,7,11,11,10,3",,GRAND_SLAM,MS,81,Qualification,BOBOCICA Mihai (ITA),TRAN Anthony (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,BOBOCICA Mihai,OUAICHE Stephane,4,2,"11,3,9,11,11,11|7,11,11,4,6,5",,GRAND_SLAM,MS,81,Qualification,BOBOCICA Mihai (ITA),OUAICHE Stephane (ALG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,BROSSIER Benjamin,DEVOS Robin,4,2,"11,10,6,11,16,11|9,12,11,9,14,7",,GRAND_SLAM,MS,81,Qualification,BROSSIER Benjamin (FRA),DEVOS Robin (BEL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,KOU Lei,DEVOS Robin,4,0,"11,11,11,11|4,3,5,5",,GRAND_SLAM,MS,81,Qualification,KOU Lei (UKR),DEVOS Robin (BEL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,KOU Lei,BROSSIER Benjamin,4,1,"11,11,4,11,11|9,8,11,3,6",,GRAND_SLAM,MS,81,Qualification,KOU Lei (UKR),BROSSIER Benjamin (FRA)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,ANGLES Enzo,SODERLUND Hampus,4,3,"11,11,11,11,7,10,11|3,13,3,7,11,12,8",,GRAND_SLAM,MS,81,Qualification,ANGLES Enzo (FRA),SODERLUND Hampus (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,VANG Bora,ANGLES Enzo,4,0,"11,11,11,11|4,3,9,3",,GRAND_SLAM,MS,81,Qualification,VANG Bora (TUR),ANGLES Enzo (FRA)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,VANG Bora,SODERLUND Hampus,4,2,"11,11,8,11,8,12|6,6,11,6,11,10",,GRAND_SLAM,MS,81,Qualification,VANG Bora (TUR),SODERLUND Hampus (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,SAKAI Asuka,ROBLES Alvaro,4,1,"8,11,11,11,11|11,5,8,6,9",,GRAND_SLAM,MS,81,Qualification,SAKAI Asuka (JPN),ROBLES Alvaro (ESP)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,ROBLES Alvaro,VOSTES Yannick,4,3,"7,11,12,13,11,11,11|11,5,14,15,5,7,3",,GRAND_SLAM,MS,81,Qualification,ROBLES Alvaro (ESP),VOSTES Yannick (BEL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,SAKAI Asuka,VOSTES Yannick,4,0,"11,11,11,11|2,0,0,0",,GRAND_SLAM,MS,81,Qualification,SAKAI Asuka (JPN),VOSTES Yannick (BEL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,DESAI Harmeet,GUMAN Martin,4,0,"11,11,11,11|3,9,4,9",,GRAND_SLAM,MS,81,Qualification,DESAI Harmeet (IND),GUMAN Martin (SVK)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,ROBINOT Quentin,GUMAN Martin,4,2,"11,11,11,10,11,11|6,7,7,12,13,6",,GRAND_SLAM,MS,81,Qualification,ROBINOT Quentin (FRA),GUMAN Martin (SVK)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,DESAI Harmeet,ROBINOT Quentin,4,3,"5,11,8,11,6,11,11|11,6,11,7,11,6,8",,GRAND_SLAM,MS,81,Qualification,DESAI Harmeet (IND),ROBINOT Quentin (FRA)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,OLAH Benedek,VANROSSOMME Emilien,4,1,"11,11,11,11,11|8,13,5,6,6",,GRAND_SLAM,MS,81,Qualification,OLAH Benedek (FIN),VANROSSOMME Emilien (BEL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,HENZELL William,VANROSSOMME Emilien,4,3,"10,8,11,11,11,5,11|12,11,6,6,5,11,3",,GRAND_SLAM,MS,81,Qualification,HENZELL William (AUS),VANROSSOMME Emilien (BEL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,HENZELL William,OLAH Benedek,4,0,"11,12,11,11|7,10,9,7",,GRAND_SLAM,MS,81,Qualification,HENZELL William (AUS),OLAH Benedek (FIN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,KARLSSON Kristian,KOBES Kristian,4,0,"11,11,11,11|6,3,5,3",,GRAND_SLAM,MS,81,Qualification,KARLSSON Kristian (SWE),KOBES Kristian (SVK)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,KOBES Kristian,VRABLIK Jiri,4,2,"5,11,12,4,11,12|11,9,10,11,8,10",,GRAND_SLAM,MS,81,Qualification,KOBES Kristian (SVK),VRABLIK Jiri (CZE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,KARLSSON Kristian,VRABLIK Jiri,4,3,"4,9,11,11,8,11,11|11,11,9,6,11,5,7",,GRAND_SLAM,MS,81,Qualification,KARLSSON Kristian (SWE),VRABLIK Jiri (CZE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,GHOSH Soumyajit,EVANS Gavin,4,1,"5,11,11,11,13|11,4,4,9,11",,GRAND_SLAM,MS,81,Qualification,GHOSH Soumyajit (IND),EVANS Gavin (ENG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,KARLSSON Mattias,EVANS Gavin,4,0,"11,11,11,15|7,4,9,13",,GRAND_SLAM,MS,81,Qualification,KARLSSON Mattias (SWE),EVANS Gavin (ENG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,TORNKVIST Andreas,INDEHERBERG Julien,4,2,"8,11,10,11,11,14|11,9,12,5,1,12",,GRAND_SLAM,MS,81,Qualification,TORNKVIST Andreas (SWE),INDEHERBERG Julien (BEL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,MENGEL Steffen,INDEHERBERG Julien,4,0,"12,11,11,12|10,3,6,10",,GRAND_SLAM,MS,81,Qualification,MENGEL Steffen (GER),INDEHERBERG Julien (BEL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,MENGEL Steffen,TORNKVIST Andreas,4,3,"11,6,14,11,5,10,11|7,11,12,4,11,12,5",,GRAND_SLAM,MS,81,Qualification,MENGEL Steffen (GER),TORNKVIST Andreas (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,REED Daniel,LAMBIET Florent,4,1,"11,8,11,11,11|6,11,5,7,6",,GRAND_SLAM,MS,81,Qualification,REED Daniel (ENG),LAMBIET Florent (BEL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,CANTERO Jesus,LAMBIET Florent,4,0,"11,11,11,11|5,8,7,7",,GRAND_SLAM,MS,81,Qualification,CANTERO Jesus (ESP),LAMBIET Florent (BEL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,REED Daniel,CANTERO Jesus,4,2,"11,4,11,3,12,12|9,11,8,11,10,10",,GRAND_SLAM,MS,81,Qualification,REED Daniel (ENG),CANTERO Jesus (ESP)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LAU Tobias,AKERSTROM Fabian,4,3,"9,11,3,11,6,13,12|11,5,11,9,11,11,10",,GRAND_SLAM,MS,81,Qualification,LAU Tobias (DEN),AKERSTROM Fabian (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,BAGGALEY Andrew,LAU Tobias,4,1,"11,11,11,12,11|8,2,13,10,5",,GRAND_SLAM,MS,81,Qualification,BAGGALEY Andrew (ENG),LAU Tobias (DEN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,BAGGALEY Andrew,AKERSTROM Fabian,4,2,"7,11,13,11,11,11|11,1,15,9,9,7",,GRAND_SLAM,MS,81,Qualification,BAGGALEY Andrew (ENG),AKERSTROM Fabian (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,OBESLO Michal,CORDUE John,4,0,"11,11,11,11|9,9,8,9",,GRAND_SLAM,MS,81,Qualification,OBESLO Michal (CZE),CORDUE John (NZL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,BARDON Michal,CORDUE John,4,0,"11,11,11,11|2,9,9,8",,GRAND_SLAM,MS,81,Qualification,BARDON Michal (SVK),CORDUE John (NZL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,OBESLO Michal,BARDON Michal,4,2,"11,5,11,9,11,12|4,11,5,11,7,10",,GRAND_SLAM,MS,81,Qualification,OBESLO Michal (CZE),BARDON Michal (SVK)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,DURANSPAHIC Admir,SOINE Samuli,4,0,"11,11,11,11|7,6,3,9",,GRAND_SLAM,MS,81,Qualification,DURANSPAHIC Admir (BIH),SOINE Samuli (FIN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,HIELSCHER Lars,SOINE Samuli,4,0,"11,11,11,11|6,1,3,5",,GRAND_SLAM,MS,81,Qualification,HIELSCHER Lars (GER),SOINE Samuli (FIN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,HIELSCHER Lars,DURANSPAHIC Admir,4,3,"11,11,7,8,8,12,11|9,8,11,11,11,10,9",,GRAND_SLAM,MS,81,Qualification,HIELSCHER Lars (GER),DURANSPAHIC Admir (BIH)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,PITCHFORD Liam,HIETIKKO Pauli,4,0,"11,11,11,11|9,3,6,9",,GRAND_SLAM,MS,81,Qualification,PITCHFORD Liam (ENG),HIETIKKO Pauli (FIN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,YOSHIMURA Maharu,HIETIKKO Pauli,4,0,"11,11,11,11|4,4,7,5",,GRAND_SLAM,MS,81,Qualification,YOSHIMURA Maharu (JPN),HIETIKKO Pauli (FIN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,YOSHIMURA Maharu,PITCHFORD Liam,4,2,"11,11,6,10,11,11|5,8,11,12,8,8",,GRAND_SLAM,MS,81,Qualification,YOSHIMURA Maharu (JPN),PITCHFORD Liam (ENG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,SEO Junghwa,ANDERSSON Harald,4,1,"11,11,11,8,11|5,9,7,11,5",,GRAND_SLAM,MS,81,Qualification,SEO Junghwa (KOR),ANDERSSON Harald (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,TREGLER Tomas,SEO Junghwa,4,1,"11,11,11,5,15|7,9,9,11,13",,GRAND_SLAM,MS,81,Qualification,TREGLER Tomas (CZE),SEO Junghwa (KOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,TREGLER Tomas,ANDERSSON Harald,4,0,"11,11,11,11|7,7,6,7",,GRAND_SLAM,MS,81,Qualification,TREGLER Tomas (CZE),ANDERSSON Harald (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,PERSSON Jon,KIM Donghyun,4,3,"4,11,9,8,11,11,11|11,9,11,11,5,5,6",,GRAND_SLAM,MS,81,Qualification,PERSSON Jon (SWE),KIM Donghyun (KOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,PERSSON Jon,STOYANOV Niagol,4,2,"11,11,8,7,11,11|9,9,11,11,6,8",,GRAND_SLAM,MS,81,Qualification,PERSSON Jon (SWE),STOYANOV Niagol (ITA)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,KIM Donghyun,STOYANOV Niagol,4,2,"11,11,11,7,9,11|9,8,8,11,11,9",,GRAND_SLAM,MS,81,Qualification,KIM Donghyun (KOR),STOYANOV Niagol (ITA)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,GROTH Jonathan,HASANOVIC Remhad,4,0,,,GRAND_SLAM,MS,81,Qualification,GROTH Jonathan (DEN),HASANOVIC Remhad (BIH)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LEE Junsang,HASANOVIC Remhad,4,0,,,GRAND_SLAM,MS,81,Qualification,LEE Junsang (KOR),HASANOVIC Remhad (BIH)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LEE Junsang,GROTH Jonathan,4,2,"7,5,11,13,11,11|11,11,6,11,9,7",,GRAND_SLAM,MS,81,Qualification,LEE Junsang (KOR),GROTH Jonathan (DEN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,PETIOT Jeremy,BRODD Viktor,4,0,"11,11,11,11|4,9,2,2",,GRAND_SLAM,MS,81,Qualification,PETIOT Jeremy (FRA),BRODD Viktor (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,GAVLAS Antonin,BRODD Viktor,4,2,"9,11,11,11,6,11|11,6,6,7,11,6",,GRAND_SLAM,MS,81,Qualification,GAVLAS Antonin (CZE),BRODD Viktor (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,PETIOT Jeremy,GAVLAS Antonin,4,1,"11,11,8,11,16|9,9,11,9,14",,GRAND_SLAM,MS,81,Qualification,PETIOT Jeremy (FRA),GAVLAS Antonin (CZE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,KNIGHT Darius,ZAKLADNYI Gennadii,4,0,"11,11,11,11|9,4,4,8",,GRAND_SLAM,MS,81,Qualification,KNIGHT Darius (ENG),ZAKLADNYI Gennadii (UKR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,GAUZY Simon,ZAKLADNYI Gennadii,4,0,"11,11,11,11|6,6,3,7",,GRAND_SLAM,MS,81,Qualification,GAUZY Simon (FRA),ZAKLADNYI Gennadii (UKR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LORENTZ Romain,BAND Joshua,4,0,"11,11,11,11|5,0,9,2",,GRAND_SLAM,MS,81,Qualification,LORENTZ Romain (FRA),BAND Joshua (JEY)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,HOREJSI Miroslav,BAND Joshua,4,1,"11,9,11,11,11|6,11,9,3,4",,GRAND_SLAM,MS,81,Qualification,HOREJSI Miroslav (CZE),BAND Joshua (JEY)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LORENTZ Romain,HOREJSI Miroslav,4,0,"13,11,11,11|11,7,7,9",,GRAND_SLAM,MS,81,Qualification,LORENTZ Romain (FRA),HOREJSI Miroslav (CZE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,PRYSHCHEPA Ievgen,ERIKSSON Robert,4,2,"11,7,11,5,11,13|4,11,8,11,9,11",,GRAND_SLAM,MS,81,Qualification,PRYSHCHEPA Ievgen (UKR),ERIKSSON Robert (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,SZYMANSKI Filip,ERIKSSON Robert,4,2,"11,11,10,11,15,11|13,6,12,8,13,3",,GRAND_SLAM,MS,81,Qualification,SZYMANSKI Filip (POL),ERIKSSON Robert (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,SZYMANSKI Filip,PRYSHCHEPA Ievgen,4,1,"11,11,9,11,11|3,9,11,8,4",,GRAND_SLAM,MS,81,Qualification,SZYMANSKI Filip (POL),PRYSHCHEPA Ievgen (UKR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,TSE Ka Chun,HAZZAA Walaaeldin,4,2,"11,9,11,11,9,11|8,11,5,6,11,9",,GRAND_SLAM,MS,81,Qualification,TSE Ka Chun (HKG),HAZZAA Walaaeldin (EGY)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,MURAMATSU Yuto,HAZZAA Walaaeldin,4,0,"11,11,11,13|3,5,8,11",,GRAND_SLAM,MS,81,Qualification,MURAMATSU Yuto (JPN),HAZZAA Walaaeldin (EGY)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,TSE Ka Chun,MURAMATSU Yuto,4,3,"11,12,11,5,11,11,11|5,14,9,11,7,13,9",,GRAND_SLAM,MS,81,Qualification,TSE Ka Chun (HKG),MURAMATSU Yuto (JPN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,MOTSYK Iryna,BOLENIUS Sannamari,3,0,"12,11,11|10,9,6",,GRAND_SLAM,U21WS,81,Qualification,MOTSYK Iryna (UKR),BOLENIUS Sannamari (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,MOTSYK Iryna,QUACH Michelle,3,0,"11,11,11|6,9,9",,GRAND_SLAM,U21WS,81,Qualification,MOTSYK Iryna (UKR),QUACH Michelle (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,QUACH Michelle,BOLENIUS Sannamari,3,0,"11,11,11|8,6,4",,GRAND_SLAM,U21WS,81,Qualification,QUACH Michelle (SWE),BOLENIUS Sannamari (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,BERGSTROM Linda,ERIKSSON Pinja,3,1,"11,11,4,11|9,8,11,4",,GRAND_SLAM,U21WS,81,Qualification,BERGSTROM Linda (SWE),ERIKSSON Pinja (FIN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,BERGSTROM Linda,AASEBO Marte,3,2,"13,9,11,4,12|11,11,6,11,10",,GRAND_SLAM,U21WS,81,Qualification,BERGSTROM Linda (SWE),AASEBO Marte (NOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,AASEBO Marte,ERIKSSON Pinja,3,0,"11,11,11|8,7,7",,GRAND_SLAM,U21WS,81,Qualification,AASEBO Marte (NOR),ERIKSSON Pinja (FIN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LOEUILLETTE Stephanie,PUNNONEN Henrika,3,0,"11,11,11|8,6,3",,GRAND_SLAM,U21WS,81,Qualification,LOEUILLETTE Stephanie (FRA),PUNNONEN Henrika (FIN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LOEUILLETTE Stephanie,ZETTERSTROM Kristina,3,1,"11,8,11,11|3,11,7,9",,GRAND_SLAM,U21WS,81,Qualification,LOEUILLETTE Stephanie (FRA),ZETTERSTROM Kristina (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,ZETTERSTROM Kristina,PUNNONEN Henrika,3,0,"11,11,11|9,6,8",,GRAND_SLAM,U21WS,81,Qualification,ZETTERSTROM Kristina (SWE),PUNNONEN Henrika (FIN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,KRZEWICKA Maja,KARLSSON Michaela,3,0,"11,11,11|6,6,5",,GRAND_SLAM,U21WS,81,Qualification,KRZEWICKA Maja (POL),KARLSSON Michaela (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,KRZEWICKA Maja,BATES Emily,3,2,"7,11,11,9,11|11,7,4,11,8",,GRAND_SLAM,U21WS,81,Qualification,KRZEWICKA Maja (POL),BATES Emily (ENG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,BATES Emily,KARLSSON Michaela,3,1,"11,11,10,11|8,5,12,9",,GRAND_SLAM,U21WS,81,Qualification,BATES Emily (ENG),KARLSSON Michaela (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,ENGELSON Maria,MOSKOVITS Daniela,3,1,"11,11,5,11|8,8,11,9",,GRAND_SLAM,U21WS,81,Qualification,ENGELSON Maria (SWE),MOSKOVITS Daniela (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,BHANDARKAR Mallika,MOSKOVITS Daniela,3,1,"5,11,12,11|11,8,10,8",,GRAND_SLAM,U21WS,81,Qualification,BHANDARKAR Mallika (IND),MOSKOVITS Daniela (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,BHANDARKAR Mallika,ENGELSON Maria,3,2,"9,11,11,10,11|11,6,9,12,5",,GRAND_SLAM,U21WS,81,Qualification,BHANDARKAR Mallika (IND),ENGELSON Maria (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,JONSSON Jennifer,SANDSTROM Linn,3,0,"11,11,11|5,6,7",,GRAND_SLAM,U21WS,81,Qualification,JONSSON Jennifer (SWE),SANDSTROM Linn (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,HICKS Hannah,OKSANEN Jannika,3,0,"11,11,14|2,5,12",,GRAND_SLAM,U21WS,81,Qualification,HICKS Hannah (ENG),OKSANEN Jannika (FIN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,HICKS Hannah,JONSSON Jennifer,3,1,"12,7,11,11|10,11,8,5",,GRAND_SLAM,U21WS,81,Qualification,HICKS Hannah (ENG),JONSSON Jennifer (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,SANDSTROM Linn,OKSANEN Jannika,3,0,"11,11,11|9,6,7",,GRAND_SLAM,U21WS,81,Qualification,SANDSTROM Linn (SWE),OKSANEN Jannika (FIN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,JONSSON Jennifer,OKSANEN Jannika,3,0,"11,11,11|8,6,8",,GRAND_SLAM,U21WS,81,Qualification,JONSSON Jennifer (SWE),OKSANEN Jannika (FIN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,HICKS Hannah,SANDSTROM Linn,3,0,"11,12,11|9,10,4",,GRAND_SLAM,U21WS,81,Qualification,HICKS Hannah (ENG),SANDSTROM Linn (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WABIK Sandra,LOVERIDGE Alice,3,0,"11,11,11|6,5,4",,GRAND_SLAM,U21WS,81,Qualification,WABIK Sandra (POL),LOVERIDGE Alice (GGY)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LUND Josefin,SODERLUND Ida,3,0,"11,11,11|6,5,8",,GRAND_SLAM,U21WS,81,Qualification,LUND Josefin (SWE),SODERLUND Ida (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WABIK Sandra,SODERLUND Ida,3,2,"10,11,14,11,12|12,4,16,5,10",,GRAND_SLAM,U21WS,81,Qualification,WABIK Sandra (POL),SODERLUND Ida (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WABIK Sandra,LUND Josefin,3,2,"11,10,11,7,11|7,12,9,11,5",,GRAND_SLAM,U21WS,81,Qualification,WABIK Sandra (POL),LUND Josefin (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LOVERIDGE Alice,SODERLUND Ida,3,0,"11,11,11|6,8,4",,GRAND_SLAM,U21WS,81,Qualification,LOVERIDGE Alice (GGY),SODERLUND Ida (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,ISHIKAWA Kasumi,SANDSTROM Linn,3,0,"11,11,11|1,3,3",R32,GRAND_SLAM,U21WS,81,Main Draw,ISHIKAWA Kasumi (JPN),SANDSTROM Linn (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,MOTSYK Iryna,YOO Eunchong,3,2,"11,6,11,9,11|9,11,8,11,5",R32,GRAND_SLAM,U21WS,81,Main Draw,MOTSYK Iryna (UKR),YOO Eunchong (KOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,VARADY Barbora,WABIK Sandra,3,0,"11,11,11|3,5,5",R32,GRAND_SLAM,U21WS,81,Main Draw,VARADY Barbora (SVK),WABIK Sandra (POL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,TANIOKA Ayuka,JONSSON Jennifer,3,0,"11,11,11|4,4,7",R32,GRAND_SLAM,U21WS,81,Main Draw,TANIOKA Ayuka (JPN),JONSSON Jennifer (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,MUHLBACH Kathrin,AASEBO Marte,3,0,"11,11,11|5,8,5",R32,GRAND_SLAM,U21WS,81,Main Draw,MUHLBACH Kathrin (GER),AASEBO Marte (NOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LOEUILLETTE Stephanie,OBRADOVIC Sonja,3,1,"5,11,11,11|11,3,6,2",R32,GRAND_SLAM,U21WS,81,Main Draw,LOEUILLETTE Stephanie (FRA),OBRADOVIC Sonja (NOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,KUSINSKA Klaudia,HICKS Hannah,3,1,"10,13,11,11|12,11,9,6",R32,GRAND_SLAM,U21WS,81,Main Draw,KUSINSKA Klaudia (POL),HICKS Hannah (ENG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,KANG Misoon,BATES Emily,3,0,"11,11,11|6,7,6",R32,GRAND_SLAM,U21WS,81,Main Draw,KANG Misoon (KOR),BATES Emily (ENG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,YANG Ha Eun,QUACH Michelle,3,0,"11,11,11|9,1,6",R32,GRAND_SLAM,U21WS,81,Main Draw,YANG Ha Eun (KOR),QUACH Michelle (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LEE Dasom,ZETTERSTROM Kristina,3,0,"11,11,11|8,7,6",R32,GRAND_SLAM,U21WS,81,Main Draw,LEE Dasom (KOR),ZETTERSTROM Kristina (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,SLIFIRCZYK Katarzyna,BHANDARKAR Mallika,3,2,"13,11,11,8,11|11,13,9,11,8",R32,GRAND_SLAM,U21WS,81,Main Draw,SLIFIRCZYK Katarzyna (POL),BHANDARKAR Mallika (IND)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,SONG Maeum,LUND Josefin,3,0,"11,11,11|7,8,4",R32,GRAND_SLAM,U21WS,81,Main Draw,SONG Maeum (KOR),LUND Josefin (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WINTER Sabine,ENGELSON Maria,3,1,"11,11,11,11|8,13,5,4",R32,GRAND_SLAM,U21WS,81,Main Draw,WINTER Sabine (GER),ENGELSON Maria (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,SZCZERKOWSKA Magdalena,BERGSTROM Linda,3,0,"12,11,11|10,3,8",R32,GRAND_SLAM,U21WS,81,Main Draw,SZCZERKOWSKA Magdalena (POL),BERGSTROM Linda (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,DOBREVA Polina,KRZEWICKA Maja,3,0,"11,11,11|9,5,4",R32,GRAND_SLAM,U21WS,81,Main Draw,DOBREVA Polina (BUL),KRZEWICKA Maja (POL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,JEON Jihee,BOLENIUS Sannamari,3,0,"11,11,11|4,7,5",R32,GRAND_SLAM,U21WS,81,Main Draw,JEON Jihee (KOR),BOLENIUS Sannamari (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,ISHIKAWA Kasumi,MOTSYK Iryna,3,0,"11,11,11|5,7,3",R16,GRAND_SLAM,U21WS,81,Main Draw,ISHIKAWA Kasumi (JPN),MOTSYK Iryna (UKR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,VARADY Barbora,TANIOKA Ayuka,3,2,"11,9,11,5,16|6,11,9,11,14",R16,GRAND_SLAM,U21WS,81,Main Draw,VARADY Barbora (SVK),TANIOKA Ayuka (JPN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,MUHLBACH Kathrin,LOEUILLETTE Stephanie,3,0,"11,12,11|8,10,9",R16,GRAND_SLAM,U21WS,81,Main Draw,MUHLBACH Kathrin (GER),LOEUILLETTE Stephanie (FRA)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,KANG Misoon,KUSINSKA Klaudia,3,1,"11,14,10,11|4,12,12,5",R16,GRAND_SLAM,U21WS,81,Main Draw,KANG Misoon (KOR),KUSINSKA Klaudia (POL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,YANG Ha Eun,LEE Dasom,3,1,"11,11,4,11|8,3,11,4",R16,GRAND_SLAM,U21WS,81,Main Draw,YANG Ha Eun (KOR),LEE Dasom (KOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,SONG Maeum,SLIFIRCZYK Katarzyna,3,0,"11,11,11|4,5,6",R16,GRAND_SLAM,U21WS,81,Main Draw,SONG Maeum (KOR),SLIFIRCZYK Katarzyna (POL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,SZCZERKOWSKA Magdalena,WINTER Sabine,3,2,"11,8,13,13,11|13,11,11,11,5",R16,GRAND_SLAM,U21WS,81,Main Draw,SZCZERKOWSKA Magdalena (POL),WINTER Sabine (GER)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,JEON Jihee,DOBREVA Polina,3,0,"11,13,11|8,11,6",R16,GRAND_SLAM,U21WS,81,Main Draw,JEON Jihee (KOR),DOBREVA Polina (BUL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,ISHIKAWA Kasumi,VARADY Barbora,4,0,"11,11,11,11|3,8,9,9",QF,GRAND_SLAM,U21WS,81,Main Draw,ISHIKAWA Kasumi (JPN),VARADY Barbora (SVK)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,KANG Misoon,MUHLBACH Kathrin,4,0,"11,13,11,11|7,11,9,5",QF,GRAND_SLAM,U21WS,81,Main Draw,KANG Misoon (KOR),MUHLBACH Kathrin (GER)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,SONG Maeum,YANG Ha Eun,4,3,"11,8,10,11,11,5,16|5,11,12,3,5,11,14",QF,GRAND_SLAM,U21WS,81,Main Draw,SONG Maeum (KOR),YANG Ha Eun (KOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,JEON Jihee,SZCZERKOWSKA Magdalena,4,0,"11,11,11,11|8,4,4,7",QF,GRAND_SLAM,U21WS,81,Main Draw,JEON Jihee (KOR),SZCZERKOWSKA Magdalena (POL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,ISHIKAWA Kasumi,KANG Misoon,4,0,"11,11,11,11|6,8,4,3",SF,GRAND_SLAM,U21WS,81,Main Draw,ISHIKAWA Kasumi (JPN),KANG Misoon (KOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,SONG Maeum,JEON Jihee,4,2,"11,11,12,12,4,11|5,9,14,10,11,9",SF,GRAND_SLAM,U21WS,81,Main Draw,SONG Maeum (KOR),JEON Jihee (KOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,ISHIKAWA Kasumi,SONG Maeum,4,0,"11,11,11,11|6,8,8,7",F,GRAND_SLAM,U21WS,81,Main Draw,ISHIKAWA Kasumi (JPN),SONG Maeum (KOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,GUO Yan (1982)/GUO Yue,DVORAK Galia/RAMIREZ Sara,3,0,"11,11,11|4,6,6",R16,GRAND_SLAM,WD,81,Main Draw,GUO Yan (1982) (CHN) / GUO Yue (CHN),DVORAK Galia (ESP) / RAMIREZ Sara (ESP)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WEN Jia/YANG Yang,KANG Misoon/LEE Eunhee,3,0,"11,11,11|6,5,7",R16,GRAND_SLAM,WD,81,Main Draw,WEN Jia (CHN) / YANG Yang (CHN),KANG Misoon (KOR) / LEE Eunhee (KOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,DING Ning/LIU Shiwen,VARADY Barbora/TIMINA Yana,3,0,"11,11,11|5,6,1",R16,GRAND_SLAM,WD,81,Main Draw,DING Ning (CHN) / LIU Shiwen (CHN),VARADY Barbora (SVK) / TIMINA Yana (NED)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,GUO Yan (1982)/GUO Yue,WEN Jia/YANG Yang,4,1,"11,14,8,11,11|4,12,11,4,3",QF,GRAND_SLAM,WD,81,Main Draw,GUO Yan (1982) (CHN) / GUO Yue (CHN),WEN Jia (CHN) / YANG Yang (CHN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,DING Ning/LIU Shiwen,JIANG Huajun/TIE Yana,4,1,"11,10,11,12,11|7,12,6,10,5",QF,GRAND_SLAM,WD,81,Main Draw,DING Ning (CHN) / LIU Shiwen (CHN),JIANG Huajun (HKG) / TIE Yana (HKG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,GUO Yan (1982)/GUO Yue,DING Ning/LIU Shiwen,4,2,"5,11,11,9,14,11|11,3,7,11,12,5",SF,GRAND_SLAM,WD,81,Main Draw,GUO Yan (1982) (CHN) / GUO Yue (CHN),DING Ning (CHN) / LIU Shiwen (CHN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,GUO Yan (1982)/GUO Yue,FUJII Hiroko/WAKAMIYA Misako,4,1,"11,11,11,14,11|7,9,4,16,4",F,GRAND_SLAM,WD,81,Main Draw,GUO Yan (1982) (CHN) / GUO Yue (CHN),FUJII Hiroko (JPN) / WAKAMIYA Misako (JPN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WEN Jia/YANG Yang,KARLSSON Michaela/MOSKOVITS Daniela,3,0,"11,11,11|2,4,2",QR16,GRAND_SLAM,WD,81,Qualification,WEN Jia (CHN) / YANG Yang (CHN),KARLSSON Michaela (SWE) / MOSKOVITS Daniela (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,DVORAK Galia/RAMIREZ Sara,BERGSTROM Linda/ENGELSON Maria,3,0,"12,11,12|10,9,10",QR16,GRAND_SLAM,WD,81,Qualification,DVORAK Galia (ESP) / RAMIREZ Sara (ESP),BERGSTROM Linda (SWE) / ENGELSON Maria (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,BERGSTROM Linda/ENGELSON Maria,OKSANEN Jannika/PUNNONEN Henrika,3,0,"11,11,11|7,7,7",QR32,GRAND_SLAM,WD,81,Qualification,BERGSTROM Linda (SWE) / ENGELSON Maria (SWE),OKSANEN Jannika (FIN) / PUNNONEN Henrika (FIN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,MUHLBACH Kathrin/WINTER Sabine,LI Jiao/LI Jie,3,0,,R16,GRAND_SLAM,WD,81,Main Draw,MUHLBACH Kathrin (GER) / WINTER Sabine (GER),LI Jiao (NED) / LI Jie (NED)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,BHANDARKAR Mallika/LOVERIDGE Alice,BOLENIUS Sannamari/ERIKSSON Pinja,3,0,"11,11,11|2,8,4",QR32,GRAND_SLAM,WD,81,Qualification,BHANDARKAR Mallika (IND) / LOVERIDGE Alice (GGY),BOLENIUS Sannamari (SWE) / ERIKSSON Pinja (FIN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,FUJII Hiroko/WAKAMIYA Misako,BOLLMEIER Nadine/YU Kwok See,3,1,"11,12,10,11|9,10,12,9",R16,GRAND_SLAM,WD,81,Main Draw,FUJII Hiroko (JPN) / WAKAMIYA Misako (JPN),BOLLMEIER Nadine (GER) / YU Kwok See (HKG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,BOLLMEIER Nadine/YU Kwok See,MOTSYK Iryna/DOBREVA Polina,3,1,"11,11,6,11|5,3,11,3",QR16,GRAND_SLAM,WD,81,Qualification,BOLLMEIER Nadine (GER) / YU Kwok See (HKG),MOTSYK Iryna (UKR) / DOBREVA Polina (BUL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,FUKUHARA Ai/ISHIKAWA Kasumi,CHOI Moonyoung/YOON Sunae,3,2,"11,6,11,13,11|1,11,7,15,5",R16,GRAND_SLAM,WD,81,Main Draw,FUKUHARA Ai (JPN) / ISHIKAWA Kasumi (JPN),CHOI Moonyoung (KOR) / YOON Sunae (KOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,FUJII Hiroko/WAKAMIYA Misako,FUKUHARA Ai/ISHIKAWA Kasumi,4,3,"11,7,9,9,11,11,11|8,11,11,11,3,9,6",SF,GRAND_SLAM,WD,81,Main Draw,FUJII Hiroko (JPN) / WAKAMIYA Misako (JPN),FUKUHARA Ai (JPN) / ISHIKAWA Kasumi (JPN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,JIANG Huajun/TIE Yana,DANG Yeseo/YANG Ha Eun,3,1,"8,11,11,11|11,8,8,6",R16,GRAND_SLAM,WD,81,Main Draw,JIANG Huajun (HKG) / TIE Yana (HKG),DANG Yeseo (KOR) / YANG Ha Eun (KOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,CHOI Moonyoung/YOON Sunae,BHANDARKAR Mallika/LOVERIDGE Alice,3,0,"11,11,11|6,2,5",QR16,GRAND_SLAM,WD,81,Qualification,CHOI Moonyoung (KOR) / YOON Sunae (KOR),BHANDARKAR Mallika (IND) / LOVERIDGE Alice (GGY)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,VARADY Barbora/TIMINA Yana,KUSINSKA Klaudia/SZCZERKOWSKA Magdalena,3,2,"11,9,8,11,11|6,11,11,6,7",QR16,GRAND_SLAM,WD,81,Qualification,VARADY Barbora (SVK) / TIMINA Yana (NED),KUSINSKA Klaudia (POL) / SZCZERKOWSKA Magdalena (POL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,DANG Yeseo/YANG Ha Eun,AASEBO Marte/OBRADOVIC Sonja,3,0,"11,11,11|3,5,8",QR16,GRAND_SLAM,WD,81,Qualification,DANG Yeseo (KOR) / YANG Ha Eun (KOR),AASEBO Marte (NOR) / OBRADOVIC Sonja (NOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,KARLSSON Michaela/MOSKOVITS Daniela,BROMLEY Michelle/HER-LEE Sarah,3,2,"10,11,8,11,11|12,9,11,9,8",QR32,GRAND_SLAM,WD,81,Qualification,KARLSSON Michaela (SWE) / MOSKOVITS Daniela (SWE),BROMLEY Michelle (AUS) / HER-LEE Sarah (NZL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,FUJII Hiroko/WAKAMIYA Misako,CREEMERS Linda/STEFANSKA Kinga,4,0,"11,12,11,11|5,10,8,6",QF,GRAND_SLAM,WD,81,Main Draw,FUJII Hiroko (JPN) / WAKAMIYA Misako (JPN),CREEMERS Linda (NED) / STEFANSKA Kinga (POL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,KRZEWICKA Maja/SLIFIRCZYK Katarzyna,QUACH Michelle/RASK Sara,3,1,"5,11,11,12|11,9,9,10",QR32,GRAND_SLAM,WD,81,Qualification,KRZEWICKA Maja (POL) / SLIFIRCZYK Katarzyna (POL),QUACH Michelle (SWE) / RASK Sara (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,CREEMERS Linda/STEFANSKA Kinga,BATES Emily/HICKS Hannah,3,0,"11,11,11|7,2,6",QR32,GRAND_SLAM,WD,81,Qualification,CREEMERS Linda (NED) / STEFANSKA Kinga (POL),BATES Emily (ENG) / HICKS Hannah (ENG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,MUHLBACH Kathrin/WINTER Sabine,KRZEWICKA Maja/SLIFIRCZYK Katarzyna,3,1,"5,11,11,13|11,9,4,11",QR16,GRAND_SLAM,WD,81,Qualification,MUHLBACH Kathrin (GER) / WINTER Sabine (GER),KRZEWICKA Maja (POL) / SLIFIRCZYK Katarzyna (POL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,CREEMERS Linda/STEFANSKA Kinga,LIU Na/OWEN Naomi,3,0,"11,11,11|6,9,8",QR16,GRAND_SLAM,WD,81,Qualification,CREEMERS Linda (NED) / STEFANSKA Kinga (POL),LIU Na (IRL) / OWEN Naomi (WAL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,CREEMERS Linda/STEFANSKA Kinga,EKHOLM Matilda/JONSSON Jennifer,3,0,,R16,GRAND_SLAM,WD,81,Main Draw,CREEMERS Linda (NED) / STEFANSKA Kinga (POL),EKHOLM Matilda (SWE) / JONSSON Jennifer (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,AASEBO Marte/OBRADOVIC Sonja,WABIK Sandra/ZETTERSTROM Kristina,3,0,,QR32,GRAND_SLAM,WD,81,Qualification,AASEBO Marte (NOR) / OBRADOVIC Sonja (NOR),WABIK Sandra (POL) / ZETTERSTROM Kristina (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WINTER Sabine,HICKS Hannah,4,0,"11,11,11,12|6,4,7,10",,GRAND_SLAM,WS,81,Qualification,WINTER Sabine (GER),HICKS Hannah (ENG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WINTER Sabine,MOSKOVITS Daniela,4,0,"11,11,11,11|6,8,8,5",,GRAND_SLAM,WS,81,Qualification,WINTER Sabine (GER),MOSKOVITS Daniela (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,HICKS Hannah,MOSKOVITS Daniela,4,2,"7,11,12,11,10,11|11,3,10,7,12,2",,GRAND_SLAM,WS,81,Qualification,HICKS Hannah (ENG),MOSKOVITS Daniela (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,STEFANSKA Kinga,BATES Emily,4,0,"11,11,11,11|6,5,4,9",,GRAND_SLAM,WS,81,Qualification,STEFANSKA Kinga (POL),BATES Emily (ENG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,STEFANSKA Kinga,LOVERIDGE Alice,4,0,"11,11,11,11|2,5,7,7",,GRAND_SLAM,WS,81,Qualification,STEFANSKA Kinga (POL),LOVERIDGE Alice (GGY)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LOVERIDGE Alice,BATES Emily,4,1,"12,11,11,11,11|10,9,3,13,8",,GRAND_SLAM,WS,81,Qualification,LOVERIDGE Alice (GGY),BATES Emily (ENG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,CREEMERS Linda,QUACH Michelle,4,0,"11,13,11,11|7,11,5,4",,GRAND_SLAM,WS,81,Qualification,CREEMERS Linda (NED),QUACH Michelle (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,CREEMERS Linda,WABIK Sandra,4,0,"11,11,11,11|8,5,5,7",,GRAND_SLAM,WS,81,Qualification,CREEMERS Linda (NED),WABIK Sandra (POL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,QUACH Michelle,WABIK Sandra,4,3,"11,9,5,3,13,15,13|7,11,11,11,11,13,11",,GRAND_SLAM,WS,81,Qualification,QUACH Michelle (SWE),WABIK Sandra (POL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,MUHLBACH Kathrin,JONSSON Jennifer,4,1,"11,11,11,5,11|8,9,3,11,7",,GRAND_SLAM,WS,81,Qualification,MUHLBACH Kathrin (GER),JONSSON Jennifer (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,JONSSON Jennifer,AASEBO Marte,4,1,"11,11,9,11,11|7,3,11,9,7",,GRAND_SLAM,WS,81,Qualification,JONSSON Jennifer (SWE),AASEBO Marte (NOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,VARADY Barbora,ENGELSON Maria,4,1,"6,11,11,11,11|11,8,5,4,6",,GRAND_SLAM,WS,81,Qualification,VARADY Barbora (SVK),ENGELSON Maria (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,VARADY Barbora,KRZEWICKA Maja,4,2,"11,8,6,12,11,12|9,11,11,10,8,10",,GRAND_SLAM,WS,81,Qualification,VARADY Barbora (SVK),KRZEWICKA Maja (POL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,KRZEWICKA Maja,ENGELSON Maria,4,0,"11,11,11,11|7,8,7,7",,GRAND_SLAM,WS,81,Qualification,KRZEWICKA Maja (POL),ENGELSON Maria (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,SZCZERKOWSKA Magdalena,ERIKSSON Pinja,4,0,"11,11,11,11|8,4,6,6",,GRAND_SLAM,WS,81,Qualification,SZCZERKOWSKA Magdalena (POL),ERIKSSON Pinja (FIN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,SZCZERKOWSKA Magdalena,BHANDARKAR Mallika,4,0,"11,11,13,11|5,7,11,9",,GRAND_SLAM,WS,81,Qualification,SZCZERKOWSKA Magdalena (POL),BHANDARKAR Mallika (IND)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,BHANDARKAR Mallika,ERIKSSON Pinja,4,1,"11,11,9,11,11|3,6,11,8,8",,GRAND_SLAM,WS,81,Qualification,BHANDARKAR Mallika (IND),ERIKSSON Pinja (FIN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,TIMINA Yana,BOLENIUS Sannamari,4,0,"11,11,11,13|7,4,7,11",,GRAND_SLAM,WS,81,Qualification,TIMINA Yana (NED),BOLENIUS Sannamari (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,TIMINA Yana,LOEUILLETTE Stephanie,4,1,"11,11,11,9,11|8,7,4,11,8",,GRAND_SLAM,WS,81,Qualification,TIMINA Yana (NED),LOEUILLETTE Stephanie (FRA)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LOEUILLETTE Stephanie,BOLENIUS Sannamari,4,2,"11,11,7,11,8,11|7,7,11,9,11,3",,GRAND_SLAM,WS,81,Qualification,LOEUILLETTE Stephanie (FRA),BOLENIUS Sannamari (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,KUSINSKA Klaudia,BROMLEY Michelle,4,1,"8,11,11,11,11|11,2,4,3,8",,GRAND_SLAM,WS,81,Qualification,KUSINSKA Klaudia (POL),BROMLEY Michelle (AUS)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,KUSINSKA Klaudia,BERGSTROM Linda,4,1,"11,9,11,11,13|1,11,3,6,11",,GRAND_SLAM,WS,81,Qualification,KUSINSKA Klaudia (POL),BERGSTROM Linda (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,BERGSTROM Linda,BROMLEY Michelle,4,1,"11,8,11,12,11|8,11,2,10,6",,GRAND_SLAM,WS,81,Qualification,BERGSTROM Linda (SWE),BROMLEY Michelle (AUS)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LIU Na,PUNNONEN Henrika,4,0,"11,11,11,11|3,4,3,6",,GRAND_SLAM,WS,81,Qualification,LIU Na (IRL),PUNNONEN Henrika (FIN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,MOTSYK Iryna,LIU Na,4,2,"11,11,11,8,6,11|9,7,7,11,11,9",,GRAND_SLAM,WS,81,Qualification,MOTSYK Iryna (UKR),LIU Na (IRL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,MOTSYK Iryna,PUNNONEN Henrika,4,0,"11,11,11,11|7,6,8,4",,GRAND_SLAM,WS,81,Qualification,MOTSYK Iryna (UKR),PUNNONEN Henrika (FIN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,YOO Eunchong,HER-LEE Sarah,4,0,"11,11,11,11|8,5,9,2",,GRAND_SLAM,WS,81,Qualification,YOO Eunchong (KOR),HER-LEE Sarah (NZL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,YOO Eunchong,OWEN Naomi,4,3,"10,9,7,11,12,11,11|12,11,11,8,10,8,8",,GRAND_SLAM,WS,81,Qualification,YOO Eunchong (KOR),OWEN Naomi (WAL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,OWEN Naomi,HER-LEE Sarah,4,0,"11,11,14,12|3,5,12,10",,GRAND_SLAM,WS,81,Qualification,OWEN Naomi (WAL),HER-LEE Sarah (NZL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,OBRADOVIC Sonja,OKSANEN Jannika,4,0,"11,11,11,11|8,5,4,1",,GRAND_SLAM,WS,81,Qualification,OBRADOVIC Sonja (NOR),OKSANEN Jannika (FIN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,DANG Yeseo,SLIFIRCZYK Katarzyna,4,1,"11,13,8,11,11|4,11,11,8,6",,GRAND_SLAM,WS,81,Qualification,DANG Yeseo (KOR),SLIFIRCZYK Katarzyna (POL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,OBRADOVIC Sonja,SLIFIRCZYK Katarzyna,4,2,"10,11,11,8,12,11|12,8,7,11,10,8",,GRAND_SLAM,WS,81,Qualification,OBRADOVIC Sonja (NOR),SLIFIRCZYK Katarzyna (POL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,DANG Yeseo,OKSANEN Jannika,4,0,"11,11,11,11|4,1,3,4",,GRAND_SLAM,WS,81,Qualification,DANG Yeseo (KOR),OKSANEN Jannika (FIN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,DANG Yeseo,OBRADOVIC Sonja,4,0,"11,11,11,11|5,4,1,4",,GRAND_SLAM,WS,81,Qualification,DANG Yeseo (KOR),OBRADOVIC Sonja (NOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,SLIFIRCZYK Katarzyna,OKSANEN Jannika,4,0,"11,11,11,11|8,3,4,6",,GRAND_SLAM,WS,81,Qualification,SLIFIRCZYK Katarzyna (POL),OKSANEN Jannika (FIN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,YANG Yang,DOBREVA Polina,4,0,"11,11,11,11|5,6,4,4",,GRAND_SLAM,WS,81,Qualification,YANG Yang (CHN),DOBREVA Polina (BUL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,RASK Sara,LEE Dasom,4,1,"9,11,11,12,11|11,7,6,10,8",,GRAND_SLAM,WS,81,Qualification,RASK Sara (SWE),LEE Dasom (KOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LEE Dasom,DOBREVA Polina,4,3,"11,6,9,7,19,11,17|5,11,11,11,17,8,15",,GRAND_SLAM,WS,81,Qualification,LEE Dasom (KOR),DOBREVA Polina (BUL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,YANG Yang,RASK Sara,4,0,"11,11,11,11|4,1,3,5",,GRAND_SLAM,WS,81,Qualification,YANG Yang (CHN),RASK Sara (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,DOBREVA Polina,RASK Sara,4,0,"11,11,11,11|6,8,5,5",,GRAND_SLAM,WS,81,Qualification,DOBREVA Polina (BUL),RASK Sara (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,YANG Yang,LEE Dasom,4,0,"11,11,11,11|8,1,2,6",,GRAND_SLAM,WS,81,Qualification,YANG Yang (CHN),LEE Dasom (KOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,GUO Yan (1982),ENGELSON Maria,4,0,"11,11,11,11|3,4,6,7",R64,GRAND_SLAM,WS,81,Main Draw,GUO Yan (1982) (CHN),ENGELSON Maria (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,BARTHEL Zhenqi,BHANDARKAR Mallika,4,0,"14,11,11,11|12,4,4,5",R64,GRAND_SLAM,WS,81,Main Draw,BARTHEL Zhenqi (GER),BHANDARKAR Mallika (IND)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,DANG Yeseo,EKHOLM Matilda,4,1,"11,9,11,11,11|4,11,3,5,5",R64,GRAND_SLAM,WS,81,Main Draw,DANG Yeseo (KOR),EKHOLM Matilda (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,SUN Beibei,HICKS Hannah,4,0,"11,11,11,11|3,4,2,7",R64,GRAND_SLAM,WS,81,Main Draw,SUN Beibei (SGP),HICKS Hannah (ENG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LEE Eunhee,KRZEWICKA Maja,4,0,"11,11,11,11|7,1,4,8",R64,GRAND_SLAM,WS,81,Main Draw,LEE Eunhee (KOR),KRZEWICKA Maja (POL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WAKAMIYA Misako,SZCZERKOWSKA Magdalena,4,0,"11,11,11,11|6,7,5,6",R64,GRAND_SLAM,WS,81,Main Draw,WAKAMIYA Misako (JPN),SZCZERKOWSKA Magdalena (POL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,SKOV Mie,MOTSYK Iryna,4,2,"11,9,11,9,11,11|8,11,6,11,7,7",R64,GRAND_SLAM,WS,81,Main Draw,SKOV Mie (DEN),MOTSYK Iryna (UKR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,ISHIKAWA Kasumi,BROMLEY Michelle,4,1,"11,11,11,7,11|6,4,3,11,4",R64,GRAND_SLAM,WS,81,Main Draw,ISHIKAWA Kasumi (JPN),BROMLEY Michelle (AUS)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,FUKUHARA Ai,PUNNONEN Henrika,4,0,"11,11,11,11|5,1,3,5",R64,GRAND_SLAM,WS,81,Main Draw,FUKUHARA Ai (JPN),PUNNONEN Henrika (FIN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,CHOI Moonyoung,LOVERIDGE Alice,4,0,"11,11,11,11|6,1,6,4",R64,GRAND_SLAM,WS,81,Main Draw,CHOI Moonyoung (KOR),LOVERIDGE Alice (GGY)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,SONG Maeum,JONSSON Jennifer,4,0,"11,11,11,13|5,5,6,11",R64,GRAND_SLAM,WS,81,Main Draw,SONG Maeum (KOR),JONSSON Jennifer (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WEN Jia,LOEUILLETTE Stephanie,4,0,"11,11,11,11|5,2,2,8",R64,GRAND_SLAM,WS,81,Main Draw,WEN Jia (CHN),LOEUILLETTE Stephanie (FRA)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,FUJII Hiroko,OBRADOVIC Sonja,4,0,,R64,GRAND_SLAM,WS,81,Main Draw,FUJII Hiroko (JPN),OBRADOVIC Sonja (NOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,BOLLMEIER Nadine,CREEMERS Linda,4,3,"5,10,7,11,12,11,11|11,12,11,6,10,8,9",R64,GRAND_SLAM,WS,81,Main Draw,BOLLMEIER Nadine (GER),CREEMERS Linda (NED)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,TANIOKA Ayuka,KUSINSKA Klaudia,4,2,"11,12,7,13,11,11|8,14,11,11,3,9",R64,GRAND_SLAM,WS,81,Main Draw,TANIOKA Ayuka (JPN),KUSINSKA Klaudia (POL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,GUO Yue,MOSKOVITS Daniela,4,0,"11,11,11,13|4,7,2,11",R64,GRAND_SLAM,WS,81,Main Draw,GUO Yue (CHN),MOSKOVITS Daniela (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LIU Shiwen,WABIK Sandra,4,0,"11,11,11,11|4,4,6,8",R64,GRAND_SLAM,WS,81,Main Draw,LIU Shiwen (CHN),WABIK Sandra (POL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LI Jie,YOO Eunchong,4,2,"3,7,11,11,13,11|11,11,3,4,11,9",R64,GRAND_SLAM,WS,81,Main Draw,LI Jie (NED),YOO Eunchong (KOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,JIANG Huajun,BERGSTROM Linda,4,0,"11,11,11,11|9,5,5,3",R64,GRAND_SLAM,WS,81,Main Draw,JIANG Huajun (HKG),BERGSTROM Linda (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WU Jiaduo,OWEN Naomi,4,0,"11,11,11,11|6,3,1,8",R64,GRAND_SLAM,WS,81,Main Draw,WU Jiaduo (GER),OWEN Naomi (WAL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,NI Xia Lian,TIMINA Yana,4,2,"11,5,11,9,11,11|1,11,4,11,7,6",R64,GRAND_SLAM,WS,81,Main Draw,NI Xia Lian (LUX),TIMINA Yana (NED)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,YANG Yang,RAMIREZ Sara,4,0,"11,11,11,11|3,7,2,7",R64,GRAND_SLAM,WS,81,Main Draw,YANG Yang (CHN),RAMIREZ Sara (ESP)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,TIE Yana,BOLENIUS Sannamari,4,0,"11,11,11,11|7,5,9,3",R64,GRAND_SLAM,WS,81,Main Draw,TIE Yana (HKG),BOLENIUS Sannamari (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,HIRANO Sayaka,BATES Emily,4,0,"11,11,11,11|1,5,6,9",R64,GRAND_SLAM,WS,81,Main Draw,HIRANO Sayaka (JPN),BATES Emily (ENG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WINTER Sabine,YU Kwok See,4,2,"11,10,12,11,13,11|9,12,14,8,11,9",R64,GRAND_SLAM,WS,81,Main Draw,WINTER Sabine (GER),YU Kwok See (HKG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,DVORAK Galia,QUACH Michelle,4,0,"11,11,11,11|3,4,8,6",R64,GRAND_SLAM,WS,81,Main Draw,DVORAK Galia (ESP),QUACH Michelle (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,YANG Ha Eun,DOBREVA Polina,4,1,"11,11,9,11,11|5,4,11,9,2",R64,GRAND_SLAM,WS,81,Main Draw,YANG Ha Eun (KOR),DOBREVA Polina (BUL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,JEON Jihee,LIU Na,4,1,"11,11,11,11,11|7,9,13,3,3",R64,GRAND_SLAM,WS,81,Main Draw,JEON Jihee (KOR),LIU Na (IRL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,DODEAN Daniela,STEFANSKA Kinga,4,1,"11,9,11,12,11|5,11,8,10,8",R64,GRAND_SLAM,WS,81,Main Draw,DODEAN Daniela (ROU),STEFANSKA Kinga (POL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,VARADY Barbora,YOON Sunae,4,0,"11,11,11,11|4,7,6,5",R64,GRAND_SLAM,WS,81,Main Draw,VARADY Barbora (SVK),YOON Sunae (KOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,DING Ning,HER-LEE Sarah,4,0,"11,11,11,11|3,3,1,5",R64,GRAND_SLAM,WS,81,Main Draw,DING Ning (CHN),HER-LEE Sarah (NZL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,GUO Yan (1982),BARTHEL Zhenqi,4,1,"11,11,9,11,11|7,8,11,1,7",R32,GRAND_SLAM,WS,81,Main Draw,GUO Yan (1982) (CHN),BARTHEL Zhenqi (GER)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,SUN Beibei,DANG Yeseo,4,2,"13,12,11,4,5,11|11,10,2,11,11,8",R32,GRAND_SLAM,WS,81,Main Draw,SUN Beibei (SGP),DANG Yeseo (KOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LEE Eunhee,WAKAMIYA Misako,4,3,"11,6,7,5,11,11,11|9,11,11,11,6,8,8",R32,GRAND_SLAM,WS,81,Main Draw,LEE Eunhee (KOR),WAKAMIYA Misako (JPN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,ISHIKAWA Kasumi,SKOV Mie,4,2,"11,7,3,11,12,11|8,11,11,5,10,9",R32,GRAND_SLAM,WS,81,Main Draw,ISHIKAWA Kasumi (JPN),SKOV Mie (DEN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,FUKUHARA Ai,CHOI Moonyoung,4,3,"3,11,8,11,12,4,11|11,9,11,3,10,11,3",R32,GRAND_SLAM,WS,81,Main Draw,FUKUHARA Ai (JPN),CHOI Moonyoung (KOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WEN Jia,SONG Maeum,4,1,"11,12,11,11,11|9,10,3,13,9",R32,GRAND_SLAM,WS,81,Main Draw,WEN Jia (CHN),SONG Maeum (KOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,FUJII Hiroko,BOLLMEIER Nadine,4,1,"11,11,11,5,11|6,8,7,11,8",R32,GRAND_SLAM,WS,81,Main Draw,FUJII Hiroko (JPN),BOLLMEIER Nadine (GER)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,GUO Yue,TANIOKA Ayuka,4,1,"11,11,1,12,11|8,5,11,10,8",R32,GRAND_SLAM,WS,81,Main Draw,GUO Yue (CHN),TANIOKA Ayuka (JPN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LIU Shiwen,LI Jie,4,0,"11,11,11,11|7,0,0,0",R32,GRAND_SLAM,WS,81,Main Draw,LIU Shiwen (CHN),LI Jie (NED)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,JIANG Huajun,KANG Misoon,4,0,"11,11,11,11|5,5,4,8",R32,GRAND_SLAM,WS,81,Main Draw,JIANG Huajun (HKG),KANG Misoon (KOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WU Jiaduo,NI Xia Lian,4,0,"11,11,11,11|6,5,8,9",R32,GRAND_SLAM,WS,81,Main Draw,WU Jiaduo (GER),NI Xia Lian (LUX)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,YANG Yang,TIE Yana,4,2,"5,11,12,11,7,13|11,7,10,9,11,11",R32,GRAND_SLAM,WS,81,Main Draw,YANG Yang (CHN),TIE Yana (HKG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,HIRANO Sayaka,WINTER Sabine,4,1,"12,11,11,6,11|10,7,2,11,4",R32,GRAND_SLAM,WS,81,Main Draw,HIRANO Sayaka (JPN),WINTER Sabine (GER)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,YANG Ha Eun,DVORAK Galia,4,3,"11,6,10,16,8,11,11|3,11,12,14,11,7,5",R32,GRAND_SLAM,WS,81,Main Draw,YANG Ha Eun (KOR),DVORAK Galia (ESP)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,DODEAN Daniela,JEON Jihee,4,2,"11,13,10,8,11,11|9,11,12,11,9,5",R32,GRAND_SLAM,WS,81,Main Draw,DODEAN Daniela (ROU),JEON Jihee (KOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,DING Ning,VARADY Barbora,4,1,"9,11,11,11,11|11,4,9,4,1",R32,GRAND_SLAM,WS,81,Main Draw,DING Ning (CHN),VARADY Barbora (SVK)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,GUO Yan (1982),SUN Beibei,4,1,"8,11,11,11,11|11,3,2,4,8",R16,GRAND_SLAM,WS,81,Main Draw,GUO Yan (1982) (CHN),SUN Beibei (SGP)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,ISHIKAWA Kasumi,LEE Eunhee,4,3,"11,11,11,6,9,10,11|9,7,6,11,11,12,8",R16,GRAND_SLAM,WS,81,Main Draw,ISHIKAWA Kasumi (JPN),LEE Eunhee (KOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WEN Jia,FUKUHARA Ai,4,2,"9,11,11,3,11,11|11,9,7,11,8,4",R16,GRAND_SLAM,WS,81,Main Draw,WEN Jia (CHN),FUKUHARA Ai (JPN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,GUO Yue,FUJII Hiroko,4,2,"12,11,9,10,11,11|10,3,11,12,5,7",R16,GRAND_SLAM,WS,81,Main Draw,GUO Yue (CHN),FUJII Hiroko (JPN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LIU Shiwen,JIANG Huajun,4,0,"11,11,16,11|6,9,14,9",R16,GRAND_SLAM,WS,81,Main Draw,LIU Shiwen (CHN),JIANG Huajun (HKG)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,YANG Yang,WU Jiaduo,4,0,"11,11,11,11|9,8,7,7",R16,GRAND_SLAM,WS,81,Main Draw,YANG Yang (CHN),WU Jiaduo (GER)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,YANG Ha Eun,HIRANO Sayaka,4,2,"11,11,6,11,9,11|6,6,11,5,11,8",R16,GRAND_SLAM,WS,81,Main Draw,YANG Ha Eun (KOR),HIRANO Sayaka (JPN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,DING Ning,DODEAN Daniela,4,0,"11,11,11,11|4,8,9,4",R16,GRAND_SLAM,WS,81,Main Draw,DING Ning (CHN),DODEAN Daniela (ROU)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,GUO Yan (1982),ISHIKAWA Kasumi,4,0,"11,11,11,11|7,4,8,9",QF,GRAND_SLAM,WS,81,Main Draw,GUO Yan (1982) (CHN),ISHIKAWA Kasumi (JPN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WEN Jia,GUO Yue,4,1,"11,3,11,11,11|5,11,2,8,6",QF,GRAND_SLAM,WS,81,Main Draw,WEN Jia (CHN),GUO Yue (CHN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LIU Shiwen,YANG Yang,4,0,"11,11,11,11|7,5,9,7",QF,GRAND_SLAM,WS,81,Main Draw,LIU Shiwen (CHN),YANG Yang (CHN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,DING Ning,YANG Ha Eun,4,0,"11,11,11,11|5,6,7,1",QF,GRAND_SLAM,WS,81,Main Draw,DING Ning (CHN),YANG Ha Eun (KOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,GUO Yan (1982),WEN Jia,4,2,"10,11,11,11,11,11|12,13,8,5,3,3",SF,GRAND_SLAM,WS,81,Main Draw,GUO Yan (1982) (CHN),WEN Jia (CHN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,LIU Shiwen,DING Ning,4,2,"2,11,15,8,11,11|11,9,13,11,3,5",SF,GRAND_SLAM,WS,81,Main Draw,LIU Shiwen (CHN),DING Ning (CHN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,GUO Yan (1982),LIU Shiwen,4,0,"11,11,11,11|4,6,6,4",F,GRAND_SLAM,WS,81,Main Draw,GUO Yan (1982) (CHN),LIU Shiwen (CHN)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,MOSKOVITS Daniela,SLIFIRCZYK Katarzyna,4,0,"11,12,11,11|8,10,9,3",QR16,GRAND_SLAM,WS,81,Qualification,MOSKOVITS Daniela (SWE),SLIFIRCZYK Katarzyna (POL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,BATES Emily,RASK Sara,4,1,"11,11,11,6,11|9,5,6,11,6",QR16,GRAND_SLAM,WS,81,Qualification,BATES Emily (ENG),RASK Sara (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,WABIK Sandra,HER-LEE Sarah,4,1,"11,11,11,9,12|6,4,6,11,10",QR16,GRAND_SLAM,WS,81,Qualification,WABIK Sandra (POL),HER-LEE Sarah (NZL)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,PUNNONEN Henrika,AASEBO Marte,4,2,"12,8,6,11,12,11|10,11,11,7,10,8",QR16,GRAND_SLAM,WS,81,Qualification,PUNNONEN Henrika (FIN),AASEBO Marte (NOR)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,BOLENIUS Sannamari,ENGELSON Maria,4,3,"11,11,6,6,11,9,15|4,8,11,11,6,11,13",QR16,GRAND_SLAM,WS,81,Qualification,BOLENIUS Sannamari (SWE),ENGELSON Maria (SWE)
-Pro Tour Swedish Open Stockholm 2011,2011-10-19,BROMLEY Michelle,ERIKSSON Pinja,4,2,"11,8,5,11,11,11|9,11,11,5,5,8",QR16,GRAND_SLAM,WS,81,Qualification,BROMLEY Michelle (AUS),ERIKSSON Pinja (FIN)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,ACHANTA Sharath/HENZELL William,BAGGALEY Andrew/PITCHFORD Liam,3,0,"11,13,11|9,11,9",QR32,GRAND_SLAM,MD,81,Qualification,ACHANTA Sharath (IND) / HENZELL William (AUS),BAGGALEY Andrew (ENG) / PITCHFORD Liam (ENG),ACHANTA Sharath
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,KARLSSON Kristian/KARLSSON Mattias,ACHANTA Sharath/HENZELL William,3,0,"11,11,11|6,9,7",QR16,GRAND_SLAM,MD,81,Qualification,KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),ACHANTA Sharath (IND) / HENZELL William (AUS),KARLSSON Kristian
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,JIANG Tianyi/TANG Peng,GARDOS Robert/HABESOHN Daniel,4,3,"7,6,10,11,12,11,11|11,11,12,8,10,5,7",SF,GRAND_SLAM,MD,81,Main Draw,JIANG Tianyi (HKG) / TANG Peng (HKG),GARDOS Robert (AUT) / HABESOHN Daniel (AUT),JIANG Tianyi
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,DEVOS Robin/LAMBIET Florent,HASANOVIC Remhad/HAZZAA Walaaeldin,3,2,"11,6,11,8,11|9,11,7,11,8",QR64,GRAND_SLAM,MD,81,Qualification,DEVOS Robin (BEL) / LAMBIET Florent (BEL),HASANOVIC Remhad (BIH) / HAZZAA Walaaeldin (EGY),DEVOS Robin
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,DEVOS Robin/LAMBIET Florent,BARDON Michal/KEINATH Thomas,3,2,"11,6,11,8,11|9,11,7,11,8",QR32,GRAND_SLAM,MD,81,Qualification,DEVOS Robin (BEL) / LAMBIET Florent (BEL),BARDON Michal (SVK) / KEINATH Thomas (SVK),DEVOS Robin
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,KARLSSON Kristian/KARLSSON Mattias,MA Lin/WANG Hao,3,1,"7,11,11,11|11,6,8,5",R16,GRAND_SLAM,MD,81,Main Draw,KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),MA Lin (CHN) / WANG Hao (CHN),KARLSSON Kristian
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WANG Liqin/YAN An,GERELL Par/LUNDQVIST Jens,4,2,"11,11,12,8,5,11|9,6,10,11,11,3",QF,GRAND_SLAM,MD,81,Main Draw,WANG Liqin (CHN) / YAN An (CHN),GERELL Par (SWE) / LUNDQVIST Jens (SWE),WANG Liqin
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WANG Liqin/YAN An,CHAN Kazuhiro/MATSUDAIRA Kenji,4,1,"11,8,11,11,11|7,11,5,8,4",SF,GRAND_SLAM,MD,81,Main Draw,WANG Liqin (CHN) / YAN An (CHN),CHAN Kazuhiro (JPN) / MATSUDAIRA Kenji (JPN),WANG Liqin
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WANG Liqin/YAN An,CANTERO Jesus/ROBLES Alvaro,3,0,"11,11,11|6,8,9",QR32,GRAND_SLAM,MD,81,Qualification,WANG Liqin (CHN) / YAN An (CHN),CANTERO Jesus (ESP) / ROBLES Alvaro (ESP),WANG Liqin
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WANG Liqin/YAN An,ELOI Damien/LEBESSON Emmanuel,3,0,"11,11,11|3,7,8",QR16,GRAND_SLAM,MD,81,Qualification,WANG Liqin (CHN) / YAN An (CHN),ELOI Damien (FRA) / LEBESSON Emmanuel (FRA),WANG Liqin
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,ELOI Damien/LEBESSON Emmanuel,GAVLAS Antonin/OBESLO Michal,3,1,"11,11,11,11|13,7,8,6",QR32,GRAND_SLAM,MD,81,Qualification,ELOI Damien (FRA) / LEBESSON Emmanuel (FRA),GAVLAS Antonin (CZE) / OBESLO Michal (CZE),ELOI Damien
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,NORDBERG Hampus/PERSSON Jon,KONECNY Tomas/TREGLER Tomas,3,1,"10,11,11,11|12,8,8,8",QR32,GRAND_SLAM,MD,81,Qualification,NORDBERG Hampus (SWE) / PERSSON Jon (SWE),KONECNY Tomas (CZE) / TREGLER Tomas (CZE),NORDBERG Hampus
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,ASMUSSEN Jakob/HINDERSSON Mikkel,GUMAN Martin/KOBES Kristian,3,1,"11,10,11,11|3,12,8,6",QR64,GRAND_SLAM,MD,81,Qualification,ASMUSSEN Jakob (DEN) / HINDERSSON Mikkel (DEN),GUMAN Martin (SVK) / KOBES Kristian (SVK),ASMUSSEN Jakob
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,KNIGHT Darius/REED Daniel,LAU Tobias/RASMUSSEN Morten,3,0,"11,12,13|9,10,11",QR64,GRAND_SLAM,MD,81,Qualification,KNIGHT Darius (ENG) / REED Daniel (ENG),LAU Tobias (DEN) / RASMUSSEN Morten (DEN),KNIGHT Darius
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LI Hu/ZHAN Jian,ASMUSSEN Jakob/HINDERSSON Mikkel,3,2,"11,11,8,8,12|8,5,11,11,10",QR32,GRAND_SLAM,MD,81,Qualification,LI Hu (SGP) / ZHAN Jian (SGP),ASMUSSEN Jakob (DEN) / HINDERSSON Mikkel (DEN),LI Hu
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,SAKAI Asuka/YOSHIMURA Maharu,CORDUE John/EVANS Gavin,3,0,"11,11,11|8,6,5",QR64,GRAND_SLAM,MD,81,Qualification,SAKAI Asuka (JPN) / YOSHIMURA Maharu (JPN),CORDUE John (NZL) / EVANS Gavin (ENG),SAKAI Asuka
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,HABESOHN Dominik/SZYMANSKI Filip,KNIGHT Darius/REED Daniel,3,2,"8,12,11,9,11|11,10,8,11,6",QR16,GRAND_SLAM,MD,81,Qualification,HABESOHN Dominik (AUT) / SZYMANSKI Filip (POL),KNIGHT Darius (ENG) / REED Daniel (ENG),HABESOHN Dominik
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,INDEHERBERG Julien/VANROSSOMME Emilien,HIETIKKO Pauli/SOINE Samuli,3,1,"11,3,11,11|4,11,8,7",QR64,GRAND_SLAM,MD,81,Qualification,INDEHERBERG Julien (BEL) / VANROSSOMME Emilien (BEL),HIETIKKO Pauli (FIN) / SOINE Samuli (FIN),INDEHERBERG Julien
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,ANGLES Enzo/LORENTZ Romain,CHOI Hyunjin/LEE Junsang,3,0,,QR32,GRAND_SLAM,MD,81,Qualification,ANGLES Enzo (FRA) / LORENTZ Romain (FRA),CHOI Hyunjin (KOR) / LEE Junsang (KOR),ANGLES Enzo
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,GAUZY Simon/ROBINOT Quentin,KIM Donghyun/SEO Junghwa,3,1,"11,13,11,11|8,15,9,6",QR32,GRAND_SLAM,MD,81,Qualification,GAUZY Simon (FRA) / ROBINOT Quentin (FRA),KIM Donghyun (KOR) / SEO Junghwa (KOR),GAUZY Simon
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,GAO Ning/YANG Zi,GAUZY Simon/ROBINOT Quentin,3,0,"14,11,13|12,6,11",QR16,GRAND_SLAM,MD,81,Qualification,GAO Ning (SGP) / YANG Zi (SGP),GAUZY Simon (FRA) / ROBINOT Quentin (FRA),GAO Ning
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WANG Liqin/YAN An,JIANG Tianyi/TANG Peng,4,3,"13,9,8,11,11,11,11|11,11,11,13,4,8,3",F,GRAND_SLAM,MD,81,Main Draw,WANG Liqin (CHN) / YAN An (CHN),JIANG Tianyi (HKG) / TANG Peng (HKG),WANG Liqin
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,KARLSSON Kristian/KARLSSON Mattias,DURANSPAHIC Admir/TSE Ka Chun,3,1,"11,8,11,11|6,11,5,5",QR32,GRAND_SLAM,MD,81,Qualification,KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),DURANSPAHIC Admir (BIH) / TSE Ka Chun (HKG),KARLSSON Kristian
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,CHEUNG Yuk/LEUNG Chu Yan,SAKAI Asuka/YOSHIMURA Maharu,3,0,"15,11,12|13,8,10",QR32,GRAND_SLAM,MD,81,Qualification,CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),SAKAI Asuka (JPN) / YOSHIMURA Maharu (JPN),CHEUNG Yuk
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,CHEUNG Yuk/LEUNG Chu Yan,DESAI Harmeet/GHOSH Soumyajit,3,2,"9,13,11,12,11|11,11,13,10,6",QR16,GRAND_SLAM,MD,81,Qualification,CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),DESAI Harmeet (IND) / GHOSH Soumyajit (IND),CHEUNG Yuk
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,DESAI Harmeet/GHOSH Soumyajit,HOREJSI Miroslav/PROKOPCOV Dmitrij,3,1,"5,11,11,11|11,6,8,9",QR32,GRAND_SLAM,MD,81,Qualification,DESAI Harmeet (IND) / GHOSH Soumyajit (IND),HOREJSI Miroslav (CZE) / PROKOPCOV Dmitrij (CZE),DESAI Harmeet
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,GARDOS Robert/HABESOHN Daniel,BOBOCICA Mihai/STOYANOV Niagol,3,0,"11,11,12|6,5,10",R16,GRAND_SLAM,MD,81,Main Draw,GARDOS Robert (AUT) / HABESOHN Daniel (AUT),BOBOCICA Mihai (ITA) / STOYANOV Niagol (ITA),GARDOS Robert
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,BOBOCICA Mihai/STOYANOV Niagol,KRIVOSHEEV Viacheslav/ZAKLADNYI Gennadii,3,1,"11,8,11,11|4,11,3,5",QR32,GRAND_SLAM,MD,81,Qualification,BOBOCICA Mihai (ITA) / STOYANOV Niagol (ITA),KRIVOSHEEV Viacheslav (RUS) / ZAKLADNYI Gennadii (UKR),BOBOCICA Mihai
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,BOBOCICA Mihai/STOYANOV Niagol,DEVOS Robin/LAMBIET Florent,3,1,"7,11,11,11|11,6,8,8",QR16,GRAND_SLAM,MD,81,Qualification,BOBOCICA Mihai (ITA) / STOYANOV Niagol (ITA),DEVOS Robin (BEL) / LAMBIET Florent (BEL),BOBOCICA Mihai
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WANG Liqin/YAN An,KISHIKAWA Seiya/NIWA Koki,3,1,"7,11,12,11|11,7,10,6",R16,GRAND_SLAM,MD,81,Main Draw,WANG Liqin (CHN) / YAN An (CHN),KISHIKAWA Seiya (JPN) / NIWA Koki (JPN),WANG Liqin
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,CHAN Kazuhiro/MATSUDAIRA Kenji,CHEUNG Yuk/LEUNG Chu Yan,3,0,"11,11,11|4,4,3",R16,GRAND_SLAM,MD,81,Main Draw,CHAN Kazuhiro (JPN) / MATSUDAIRA Kenji (JPN),CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),CHAN Kazuhiro
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,CHAN Kazuhiro/MATSUDAIRA Kenji,MA Long/ZHANG Jike,4,3,"11,4,8,11,11,5,11|8,11,11,4,6,11,9",QF,GRAND_SLAM,MD,81,Main Draw,CHAN Kazuhiro (JPN) / MATSUDAIRA Kenji (JPN),MA Long (CHN) / ZHANG Jike (CHN),CHAN Kazuhiro
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,GERELL Par/LUNDQVIST Jens,HABESOHN Dominik/SZYMANSKI Filip,3,1,"11,10,11,11|9,12,7,4",R16,GRAND_SLAM,MD,81,Main Draw,GERELL Par (SWE) / LUNDQVIST Jens (SWE),HABESOHN Dominik (AUT) / SZYMANSKI Filip (POL),GERELL Par
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,HABESOHN Dominik/SZYMANSKI Filip,KOU Lei/PRYSHCHEPA Ievgen,3,2,"11,7,11,8,11|3,11,9,11,4",QR32,GRAND_SLAM,MD,81,Qualification,HABESOHN Dominik (AUT) / SZYMANSKI Filip (POL),KOU Lei (UKR) / PRYSHCHEPA Ievgen (UKR),HABESOHN Dominik
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,KNIGHT Darius/REED Daniel,DIDUKH Oleksandr/SKACHKOV Kirill,3,2,"9,11,3,11,11|11,8,11,9,4",QR32,GRAND_SLAM,MD,81,Qualification,KNIGHT Darius (ENG) / REED Daniel (ENG),DIDUKH Oleksandr (UKR) / SKACHKOV Kirill (RUS),KNIGHT Darius
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,JIANG Tianyi/TANG Peng,GAO Ning/YANG Zi,3,1,"11,10,11,11|5,12,9,6",R16,GRAND_SLAM,MD,81,Main Draw,JIANG Tianyi (HKG) / TANG Peng (HKG),GAO Ning (SGP) / YANG Zi (SGP),JIANG Tianyi
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,MA Long/ZHANG Jike,LI Hu/ZHAN Jian,3,1,"8,11,11,11|11,2,2,8",R16,GRAND_SLAM,MD,81,Main Draw,MA Long (CHN) / ZHANG Jike (CHN),LI Hu (SGP) / ZHAN Jian (SGP),MA Long
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,GARDOS Robert/HABESOHN Daniel,KARLSSON Kristian/KARLSSON Mattias,4,0,"11,11,12,11|7,9,10,9",QF,GRAND_SLAM,MD,81,Main Draw,GARDOS Robert (AUT) / HABESOHN Daniel (AUT),KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),GARDOS Robert
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,JIANG Tianyi/TANG Peng,PERSSON Jorgen/SVENSSON Robert,4,1,"6,11,11,11,15|11,5,2,4,13",QF,GRAND_SLAM,MD,81,Main Draw,JIANG Tianyi (HKG) / TANG Peng (HKG),PERSSON Jorgen (SWE) / SVENSSON Robert (SWE),JIANG Tianyi
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,CANTERO Jesus/ROBLES Alvaro,ERIKSSON Robert/SODERLUND Hampus,3,2,"7,11,4,11,13|11,7,11,9,11",QR64,GRAND_SLAM,MD,81,Qualification,CANTERO Jesus (ESP) / ROBLES Alvaro (ESP),ERIKSSON Robert (SWE) / SODERLUND Hampus (SWE),CANTERO Jesus
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,ANDERSSON Harald/OVERSJO Mattias,CHUMAKOU Dmitry/OLAH Benedek,3,0,"11,11,11|8,9,9",QR64,GRAND_SLAM,MD,81,Qualification,ANDERSSON Harald (SWE) / OVERSJO Mattias (SWE),CHUMAKOU Dmitry (BLR) / OLAH Benedek (FIN),ANDERSSON Harald
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,PERSSON Jorgen/SVENSSON Robert,INDEHERBERG Julien/VANROSSOMME Emilien,3,0,,QR32,GRAND_SLAM,MD,81,Qualification,PERSSON Jorgen (SWE) / SVENSSON Robert (SWE),INDEHERBERG Julien (BEL) / VANROSSOMME Emilien (BEL),PERSSON Jorgen
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,GAO Ning/YANG Zi,ANDERSSON Harald/OVERSJO Mattias,3,0,"11,11,11|2,4,8",QR32,GRAND_SLAM,MD,81,Qualification,GAO Ning (SGP) / YANG Zi (SGP),ANDERSSON Harald (SWE) / OVERSJO Mattias (SWE),GAO Ning
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LI Hu/ZHAN Jian,NORDBERG Hampus/PERSSON Jon,3,1,"11,8,11,11|9,11,8,2",QR16,GRAND_SLAM,MD,81,Qualification,LI Hu (SGP) / ZHAN Jian (SGP),NORDBERG Hampus (SWE) / PERSSON Jon (SWE),LI Hu
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,PERSSON Jorgen/SVENSSON Robert,ANGLES Enzo/LORENTZ Romain,3,1,"6,11,11,11|11,9,8,2",QR16,GRAND_SLAM,MD,81,Qualification,PERSSON Jorgen (SWE) / SVENSSON Robert (SWE),ANGLES Enzo (FRA) / LORENTZ Romain (FRA),PERSSON Jorgen
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,PERSSON Jorgen/SVENSSON Robert,LI Ahmet/VANG Bora,3,2,"11,7,6,11,11|2,11,11,7,7",R16,GRAND_SLAM,MD,81,Main Draw,PERSSON Jorgen (SWE) / SVENSSON Robert (SWE),LI Ahmet (TUR) / VANG Bora (TUR),PERSSON Jorgen
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,VANROSSOMME Emilien,OLAH Benedek,3,1,"11,16,8,11|9,14,11,5",,GRAND_SLAM,U21MS,81,Qualification,VANROSSOMME Emilien (BEL),OLAH Benedek (FIN),VANROSSOMME Emilien
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,OLAH Benedek,ROBLES Alvaro,3,0,"11,11,11|4,9,9",,GRAND_SLAM,U21MS,81,Qualification,OLAH Benedek (FIN),ROBLES Alvaro (ESP),OLAH Benedek
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,VANROSSOMME Emilien,ROBLES Alvaro,3,2,"11,7,11,10,11|7,11,9,12,7",,GRAND_SLAM,U21MS,81,Qualification,VANROSSOMME Emilien (BEL),ROBLES Alvaro (ESP),VANROSSOMME Emilien
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,KOBES Kristian,DESAI Harmeet,3,1,"11,11,9,12|6,9,11,10",,GRAND_SLAM,U21MS,81,Qualification,KOBES Kristian (SVK),DESAI Harmeet (IND),KOBES Kristian
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,DESAI Harmeet,TRAN Anthony,3,2,"9,8,11,12,13|11,11,9,10,11",,GRAND_SLAM,U21MS,81,Qualification,DESAI Harmeet (IND),TRAN Anthony (SWE),DESAI Harmeet
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,KOBES Kristian,TRAN Anthony,3,2,"9,10,11,11,11|11,12,4,9,9",,GRAND_SLAM,U21MS,81,Qualification,KOBES Kristian (SVK),TRAN Anthony (SWE),KOBES Kristian
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,SAKAI Asuka,EVANS Gavin,3,2,"8,11,11,8,11|11,2,6,11,9",,GRAND_SLAM,U21MS,81,Qualification,SAKAI Asuka (JPN),EVANS Gavin (ENG),SAKAI Asuka
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,SAKAI Asuka,DEVOS Robin,3,2,"9,8,12,14,11|11,11,10,12,8",,GRAND_SLAM,U21MS,81,Qualification,SAKAI Asuka (JPN),DEVOS Robin (BEL),SAKAI Asuka
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,DEVOS Robin,EVANS Gavin,3,2,"11,5,11,8,11|8,11,9,11,6",,GRAND_SLAM,U21MS,81,Qualification,DEVOS Robin (BEL),EVANS Gavin (ENG),DEVOS Robin
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,SODERLUND Hampus,INDEHERBERG Julien,3,2,"13,11,8,8,11|11,5,11,11,9",,GRAND_SLAM,U21MS,81,Qualification,SODERLUND Hampus (SWE),INDEHERBERG Julien (BEL),SODERLUND Hampus
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,SODERLUND Hampus,ANGLES Enzo,3,2,"8,4,11,11,11|11,11,5,8,9",,GRAND_SLAM,U21MS,81,Qualification,SODERLUND Hampus (SWE),ANGLES Enzo (FRA),SODERLUND Hampus
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,ANGLES Enzo,INDEHERBERG Julien,3,0,"11,11,11|2,0,0",,GRAND_SLAM,U21MS,81,Qualification,ANGLES Enzo (FRA),INDEHERBERG Julien (BEL),ANGLES Enzo
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,BROSSIER Benjamin,LAMBIET Florent,3,0,"11,11,11|5,4,6",,GRAND_SLAM,U21MS,81,Qualification,BROSSIER Benjamin (FRA),LAMBIET Florent (BEL),BROSSIER Benjamin
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WALTHER Ricardo,BROSSIER Benjamin,3,1,"12,11,11,11|10,13,6,9",,GRAND_SLAM,U21MS,81,Qualification,WALTHER Ricardo (GER),BROSSIER Benjamin (FRA),WALTHER Ricardo
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WALTHER Ricardo,LAMBIET Florent,3,0,"11,11,11|9,7,7",,GRAND_SLAM,U21MS,81,Qualification,WALTHER Ricardo (GER),LAMBIET Florent (BEL),WALTHER Ricardo
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,OUAICHE Stephane,LAU Tobias,3,0,"11,11,11|6,9,7",,GRAND_SLAM,U21MS,81,Qualification,OUAICHE Stephane (ALG),LAU Tobias (DEN),OUAICHE Stephane
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,SEO Junghwa,OVERSJO Mattias,3,2,"11,11,5,4,11|8,9,11,11,8",,GRAND_SLAM,U21MS,81,Qualification,SEO Junghwa (KOR),OVERSJO Mattias (SWE),SEO Junghwa
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,OUAICHE Stephane,OVERSJO Mattias,3,2,"9,9,12,11,11|11,11,10,7,6",,GRAND_SLAM,U21MS,81,Qualification,OUAICHE Stephane (ALG),OVERSJO Mattias (SWE),OUAICHE Stephane
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,SEO Junghwa,LAU Tobias,3,1,"7,11,11,11|11,9,8,4",,GRAND_SLAM,U21MS,81,Qualification,SEO Junghwa (KOR),LAU Tobias (DEN),SEO Junghwa
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,OUAICHE Stephane,SEO Junghwa,3,1,"11,5,11,11|4,11,5,8",,GRAND_SLAM,U21MS,81,Qualification,OUAICHE Stephane (ALG),SEO Junghwa (KOR),OUAICHE Stephane
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,OVERSJO Mattias,LAU Tobias,3,2,"11,9,2,11,11|9,11,11,8,6",,GRAND_SLAM,U21MS,81,Qualification,OVERSJO Mattias (SWE),LAU Tobias (DEN),OVERSJO Mattias
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,HIGASHI Yuto,SOINE Samuli,3,0,"11,11,11|6,6,7",,GRAND_SLAM,U21MS,81,Qualification,HIGASHI Yuto (JPN),SOINE Samuli (FIN),HIGASHI Yuto
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,BRODD Viktor,ROBINOT Alexandre,3,1,"6,11,11,12|11,6,3,10",,GRAND_SLAM,U21MS,81,Qualification,BRODD Viktor (SWE),ROBINOT Alexandre (FRA),BRODD Viktor
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,HIGASHI Yuto,ROBINOT Alexandre,3,0,"11,11,12|3,5,10",,GRAND_SLAM,U21MS,81,Qualification,HIGASHI Yuto (JPN),ROBINOT Alexandre (FRA),HIGASHI Yuto
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,BRODD Viktor,SOINE Samuli,3,0,"11,11,11|2,8,5",,GRAND_SLAM,U21MS,81,Qualification,BRODD Viktor (SWE),SOINE Samuli (FIN),BRODD Viktor
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,HIGASHI Yuto,BRODD Viktor,3,0,"11,11,11|6,5,1",,GRAND_SLAM,U21MS,81,Qualification,HIGASHI Yuto (JPN),BRODD Viktor (SWE),HIGASHI Yuto
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,ROBINOT Alexandre,SOINE Samuli,3,0,"11,11,11|3,7,8",,GRAND_SLAM,U21MS,81,Qualification,ROBINOT Alexandre (FRA),SOINE Samuli (FIN),ROBINOT Alexandre
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LE BRETON Thomas,HIETIKKO Pauli,3,0,"11,11,11|6,8,3",,GRAND_SLAM,U21MS,81,Qualification,LE BRETON Thomas (FRA),HIETIKKO Pauli (FIN),LE BRETON Thomas
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,HINDERSSON Mikkel,BAND Joshua,3,0,"11,11,11|1,7,5",,GRAND_SLAM,U21MS,81,Qualification,HINDERSSON Mikkel (DEN),BAND Joshua (JEY),HINDERSSON Mikkel
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LE BRETON Thomas,HINDERSSON Mikkel,3,1,"11,8,13,11|6,11,11,7",,GRAND_SLAM,U21MS,81,Qualification,LE BRETON Thomas (FRA),HINDERSSON Mikkel (DEN),LE BRETON Thomas
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,HIETIKKO Pauli,BAND Joshua,3,0,"11,11,11|5,4,6",,GRAND_SLAM,U21MS,81,Qualification,HIETIKKO Pauli (FIN),BAND Joshua (JEY),HIETIKKO Pauli
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LE BRETON Thomas,BAND Joshua,3,0,"11,11,11|6,4,5",,GRAND_SLAM,U21MS,81,Qualification,LE BRETON Thomas (FRA),BAND Joshua (JEY),LE BRETON Thomas
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,HINDERSSON Mikkel,HIETIKKO Pauli,3,1,"11,11,11,11|5,3,13,4",,GRAND_SLAM,U21MS,81,Qualification,HINDERSSON Mikkel (DEN),HIETIKKO Pauli (FIN),HINDERSSON Mikkel
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WANG Hao,MURAMATSU Yuto,4,1,"11,11,11,11,11|13,5,8,4,3",R64,GRAND_SLAM,MS,81,Main Draw,WANG Hao (CHN),MURAMATSU Yuto (JPN),WANG Hao
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,ELOI Damien,REED Daniel,4,1,"11,9,11,11,11|9,11,5,9,8",R64,GRAND_SLAM,MS,81,Main Draw,ELOI Damien (FRA),REED Daniel (ENG),ELOI Damien
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,YAN An,BOBOCICA Mihai,4,1,"11,11,6,11,11|4,7,11,4,9",R64,GRAND_SLAM,MS,81,Main Draw,YAN An (CHN),BOBOCICA Mihai (ITA),YAN An
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WALTHER Ricardo,CHEUNG Yuk,4,0,"11,11,11,13|7,6,9,11",R64,GRAND_SLAM,MS,81,Main Draw,WALTHER Ricardo (GER),CHEUNG Yuk (HKG),WALTHER Ricardo
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,YOSHIMURA Maharu,PERSSON Jorgen,4,2,"11,11,9,11,6,11|9,9,11,8,11,6",R64,GRAND_SLAM,MS,81,Main Draw,YOSHIMURA Maharu (JPN),PERSSON Jorgen (SWE),YOSHIMURA Maharu
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LEBESSON Emmanuel,OVERSJO Mattias,4,2,"5,12,8,12,14,14|11,10,11,10,12,12",R64,GRAND_SLAM,MS,81,Main Draw,LEBESSON Emmanuel (FRA),OVERSJO Mattias (SWE),LEBESSON Emmanuel
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,MATSUDAIRA Kenta,OBESLO Michal,4,1,"11,3,12,11,11|6,11,10,3,5",R64,GRAND_SLAM,MS,81,Main Draw,MATSUDAIRA Kenta (JPN),OBESLO Michal (CZE),MATSUDAIRA Kenta
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,MIZUTANI Jun,KOU Lei,4,2,"5,11,11,11,8,11|11,9,6,3,11,7",R64,GRAND_SLAM,MS,81,Main Draw,MIZUTANI Jun (JPN),KOU Lei (UKR),MIZUTANI Jun
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WANG Liqin,CHOI Hyunjin,4,0,"11,11,11,11|5,3,8,6",R64,GRAND_SLAM,MS,81,Main Draw,WANG Liqin (CHN),CHOI Hyunjin (KOR),WANG Liqin
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,MATSUDAIRA Kenji,SVENSSON Robert,4,1,"11,11,11,7,11|9,9,8,11,4",R64,GRAND_SLAM,MS,81,Main Draw,MATSUDAIRA Kenji (JPN),SVENSSON Robert (SWE),MATSUDAIRA Kenji
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LEE Junsang,FEJER-KONNERTH Zoltan,4,3,"6,8,11,7,11,11,11|11,11,6,11,3,9,7",R64,GRAND_SLAM,MS,81,Main Draw,LEE Junsang (KOR),FEJER-KONNERTH Zoltan (GER),LEE Junsang
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,TANG Peng,MENGEL Steffen,4,3,"11,11,7,9,11,10,11|9,3,11,11,6,12,5",R64,GRAND_SLAM,MS,81,Main Draw,TANG Peng (HKG),MENGEL Steffen (GER),TANG Peng
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,FREITAS Marcos,PERSSON Jon,4,1,"8,11,11,11,11|11,6,5,4,6",R64,GRAND_SLAM,MS,81,Main Draw,FREITAS Marcos (POR),PERSSON Jon (SWE),FREITAS Marcos
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LEUNG Chu Yan,PROKOPCOV Dmitrij,4,0,"12,11,11,11|10,7,8,9",R64,GRAND_SLAM,MS,81,Main Draw,LEUNG Chu Yan (HKG),PROKOPCOV Dmitrij (CZE),LEUNG Chu Yan
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,KEINATH Thomas,KARLSSON Kristian,4,3,"12,10,11,12,12,11,11|14,12,8,14,10,3,9",R64,GRAND_SLAM,MS,81,Main Draw,KEINATH Thomas (SVK),KARLSSON Kristian (SWE),KEINATH Thomas
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,ZHANG Jike,TREGLER Tomas,4,0,"13,11,11,11|11,5,9,9",R64,GRAND_SLAM,MS,81,Main Draw,ZHANG Jike (CHN),TREGLER Tomas (CZE),ZHANG Jike
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,ROBINOT Quentin,MA Lin,4,1,"11,11,4,11,11|8,7,11,9,8",R64,GRAND_SLAM,MS,81,Main Draw,ROBINOT Quentin (FRA),MA Lin (CHN),ROBINOT Quentin
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,YANG Zi,SZYMANSKI Filip,4,1,"11,6,11,11,11|6,11,7,2,7",R64,GRAND_SLAM,MS,81,Main Draw,YANG Zi (SGP),SZYMANSKI Filip (POL),YANG Zi
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,TAKAKIWA Taku,LORENTZ Romain,4,0,"11,11,12,11|4,4,10,5",R64,GRAND_SLAM,MS,81,Main Draw,TAKAKIWA Taku (JPN),LORENTZ Romain (FRA),TAKAKIWA Taku
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,JIANG Tianyi,DIDUKH Oleksandr,4,0,"11,11,11,11|8,9,7,8",R64,GRAND_SLAM,MS,81,Main Draw,JIANG Tianyi (HKG),DIDUKH Oleksandr (UKR),JIANG Tianyi
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,NIWA Koki,SALIFOU Abdel-Kader,4,1,"11,13,7,11,11|5,11,11,8,3",R64,GRAND_SLAM,MS,81,Main Draw,NIWA Koki (JPN),SALIFOU Abdel-Kader (BEN),NIWA Koki
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LUNDQVIST Jens,BAGGALEY Andrew,4,1,"11,11,7,11,11|6,7,11,6,7",R64,GRAND_SLAM,MS,81,Main Draw,LUNDQVIST Jens (SWE),BAGGALEY Andrew (ENG),LUNDQVIST Jens
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,ZHAN Jian,DESAI Harmeet,4,1,"11,11,11,15,11|3,5,6,17,3",R64,GRAND_SLAM,MS,81,Main Draw,ZHAN Jian (SGP),DESAI Harmeet (IND),ZHAN Jian
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,KISHIKAWA Seiya,KARLSSON Mattias,4,1,"9,11,11,11,11|11,6,3,7,6",R64,GRAND_SLAM,MS,81,Main Draw,KISHIKAWA Seiya (JPN),KARLSSON Mattias (SWE),KISHIKAWA Seiya
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,GAO Ning,SAKAI Asuka,4,0,"11,11,11,11|6,3,9,6",R64,GRAND_SLAM,MS,81,Main Draw,GAO Ning (SGP),SAKAI Asuka (JPN),GAO Ning
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,SKACHKOV Kirill,VANG Bora,4,1,"11,10,11,11,11|9,12,8,7,0",R64,GRAND_SLAM,MS,81,Main Draw,SKACHKOV Kirill (RUS),VANG Bora (TUR),SKACHKOV Kirill
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,GERELL Par,TSE Ka Chun,4,2,"11,11,8,10,11,11|9,4,11,12,8,5",R64,GRAND_SLAM,MS,81,Main Draw,GERELL Par (SWE),TSE Ka Chun (HKG),GERELL Par
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,GAUZY Simon,YOSHIDA Kaii,4,0,"11,11,11,11|4,9,6,5",R64,GRAND_SLAM,MS,81,Main Draw,GAUZY Simon (FRA),YOSHIDA Kaii (JPN),GAUZY Simon
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LI Hu,HIELSCHER Lars,4,1,"11,9,11,11,11|6,11,9,6,6",R64,GRAND_SLAM,MS,81,Main Draw,LI Hu (SGP),HIELSCHER Lars (GER),LI Hu
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,ACHANTA Sharath,HENZELL William,4,0,"12,11,11,11|10,5,3,7",R64,GRAND_SLAM,MS,81,Main Draw,ACHANTA Sharath (IND),HENZELL William (AUS),ACHANTA Sharath
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,PETIOT Jeremy,CHAN Kazuhiro,4,3,"11,4,12,7,11,5,11|7,11,10,11,6,11,9",R64,GRAND_SLAM,MS,81,Main Draw,PETIOT Jeremy (FRA),CHAN Kazuhiro (JPN),PETIOT Jeremy
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,MA Long,OUAICHE Stephane,4,0,"11,11,11,11|5,6,3,6",R64,GRAND_SLAM,MS,81,Main Draw,MA Long (CHN),OUAICHE Stephane (ALG),MA Long
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WANG Hao,ELOI Damien,4,0,"11,11,11,11|4,6,7,7",R32,GRAND_SLAM,MS,81,Main Draw,WANG Hao (CHN),ELOI Damien (FRA),WANG Hao
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,YAN An,WALTHER Ricardo,4,0,"11,11,11,14|7,3,8,12",R32,GRAND_SLAM,MS,81,Main Draw,YAN An (CHN),WALTHER Ricardo (GER),YAN An
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,YOSHIMURA Maharu,LEBESSON Emmanuel,4,2,"6,11,9,14,11,11|11,8,11,12,3,5",R32,GRAND_SLAM,MS,81,Main Draw,YOSHIMURA Maharu (JPN),LEBESSON Emmanuel (FRA),YOSHIMURA Maharu
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,MIZUTANI Jun,MATSUDAIRA Kenta,4,2,"11,6,12,11,11,11|8,11,10,13,8,8",R32,GRAND_SLAM,MS,81,Main Draw,MIZUTANI Jun (JPN),MATSUDAIRA Kenta (JPN),MIZUTANI Jun
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WANG Liqin,MATSUDAIRA Kenji,4,1,"11,11,11,12,11|6,4,8,14,5",R32,GRAND_SLAM,MS,81,Main Draw,WANG Liqin (CHN),MATSUDAIRA Kenji (JPN),WANG Liqin
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,TANG Peng,LEE Junsang,4,0,"11,11,11,11|4,5,7,9",R32,GRAND_SLAM,MS,81,Main Draw,TANG Peng (HKG),LEE Junsang (KOR),TANG Peng
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LEUNG Chu Yan,FREITAS Marcos,4,3,"6,12,11,12,10,8,11|11,10,9,10,12,11,9",R32,GRAND_SLAM,MS,81,Main Draw,LEUNG Chu Yan (HKG),FREITAS Marcos (POR),LEUNG Chu Yan
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,ZHANG Jike,KEINATH Thomas,4,0,"11,11,11,11|6,6,6,6",R32,GRAND_SLAM,MS,81,Main Draw,ZHANG Jike (CHN),KEINATH Thomas (SVK),ZHANG Jike
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,YANG Zi,ROBINOT Quentin,4,3,"11,11,11,3,8,7,11|6,9,6,11,11,11,3",R32,GRAND_SLAM,MS,81,Main Draw,YANG Zi (SGP),ROBINOT Quentin (FRA),YANG Zi
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,TAKAKIWA Taku,JIANG Tianyi,4,3,"8,11,11,11,8,7,11|11,8,9,8,11,11,5",R32,GRAND_SLAM,MS,81,Main Draw,TAKAKIWA Taku (JPN),JIANG Tianyi (HKG),TAKAKIWA Taku
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,NIWA Koki,LUNDQVIST Jens,4,3,"8,11,11,8,11,10,12|11,8,3,11,7,12,10",R32,GRAND_SLAM,MS,81,Main Draw,NIWA Koki (JPN),LUNDQVIST Jens (SWE),NIWA Koki
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,KISHIKAWA Seiya,ZHAN Jian,4,3,"11,9,11,9,10,11,11|7,11,9,11,12,8,8",R32,GRAND_SLAM,MS,81,Main Draw,KISHIKAWA Seiya (JPN),ZHAN Jian (SGP),KISHIKAWA Seiya
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,SKACHKOV Kirill,GAO Ning,4,3,"11,11,6,12,7,9,11|8,8,11,10,11,11,4",R32,GRAND_SLAM,MS,81,Main Draw,SKACHKOV Kirill (RUS),GAO Ning (SGP),SKACHKOV Kirill
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,GAUZY Simon,GERELL Par,4,1,"11,9,11,11,11|9,11,9,3,7",R32,GRAND_SLAM,MS,81,Main Draw,GAUZY Simon (FRA),GERELL Par (SWE),GAUZY Simon
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,ACHANTA Sharath,LI Hu,4,1,"11,5,11,11,11|8,11,6,9,5",R32,GRAND_SLAM,MS,81,Main Draw,ACHANTA Sharath (IND),LI Hu (SGP),ACHANTA Sharath
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,MA Long,PETIOT Jeremy,4,0,"11,11,11,11|1,5,5,5",R32,GRAND_SLAM,MS,81,Main Draw,MA Long (CHN),PETIOT Jeremy (FRA),MA Long
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WANG Hao,YAN An,4,1,"11,11,5,11,12|4,8,11,8,10",R16,GRAND_SLAM,MS,81,Main Draw,WANG Hao (CHN),YAN An (CHN),WANG Hao
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,MIZUTANI Jun,YOSHIMURA Maharu,4,2,"8,11,11,8,11,11|11,6,4,11,9,7",R16,GRAND_SLAM,MS,81,Main Draw,MIZUTANI Jun (JPN),YOSHIMURA Maharu (JPN),MIZUTANI Jun
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WANG Liqin,TANG Peng,4,2,"11,9,5,11,11,11|9,11,11,3,9,5",R16,GRAND_SLAM,MS,81,Main Draw,WANG Liqin (CHN),TANG Peng (HKG),WANG Liqin
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,ZHANG Jike,LEUNG Chu Yan,4,0,"11,12,11,11|5,10,8,8",R16,GRAND_SLAM,MS,81,Main Draw,ZHANG Jike (CHN),LEUNG Chu Yan (HKG),ZHANG Jike
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,TAKAKIWA Taku,YANG Zi,4,1,"11,13,11,5,11|9,11,4,11,5",R16,GRAND_SLAM,MS,81,Main Draw,TAKAKIWA Taku (JPN),YANG Zi (SGP),TAKAKIWA Taku
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,KISHIKAWA Seiya,NIWA Koki,4,3,"6,11,11,11,10,5,11|11,8,3,6,12,11,9",R16,GRAND_SLAM,MS,81,Main Draw,KISHIKAWA Seiya (JPN),NIWA Koki (JPN),KISHIKAWA Seiya
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,SKACHKOV Kirill,GAUZY Simon,4,2,"11,10,9,11,11,11|7,12,11,7,6,8",R16,GRAND_SLAM,MS,81,Main Draw,SKACHKOV Kirill (RUS),GAUZY Simon (FRA),SKACHKOV Kirill
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,MA Long,ACHANTA Sharath,4,0,"11,11,11,11|7,8,5,1",R16,GRAND_SLAM,MS,81,Main Draw,MA Long (CHN),ACHANTA Sharath (IND),MA Long
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WANG Hao,MIZUTANI Jun,4,0,"11,11,11,11|6,7,9,7",QF,GRAND_SLAM,MS,81,Main Draw,WANG Hao (CHN),MIZUTANI Jun (JPN),WANG Hao
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WANG Liqin,ZHANG Jike,4,1,"11,12,11,6,11|8,10,5,11,9",QF,GRAND_SLAM,MS,81,Main Draw,WANG Liqin (CHN),ZHANG Jike (CHN),WANG Liqin
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,KISHIKAWA Seiya,TAKAKIWA Taku,4,3,"3,11,11,7,9,11,11|11,5,4,11,11,4,4",QF,GRAND_SLAM,MS,81,Main Draw,KISHIKAWA Seiya (JPN),TAKAKIWA Taku (JPN),KISHIKAWA Seiya
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,MA Long,SKACHKOV Kirill,4,0,"11,13,11,16|1,11,7,14",QF,GRAND_SLAM,MS,81,Main Draw,MA Long (CHN),SKACHKOV Kirill (RUS),MA Long
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WANG Hao,WANG Liqin,4,3,"11,9,9,6,11,16,11|3,11,11,11,7,14,6",SF,GRAND_SLAM,MS,81,Main Draw,WANG Hao (CHN),WANG Liqin (CHN),WANG Hao
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,MA Long,KISHIKAWA Seiya,4,0,"11,11,11,12|7,4,4,10",SF,GRAND_SLAM,MS,81,Main Draw,MA Long (CHN),KISHIKAWA Seiya (JPN),MA Long
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,MA Long,WANG Hao,4,0,"11,14,11,11|7,12,8,7",F,GRAND_SLAM,MS,81,Main Draw,MA Long (CHN),WANG Hao (CHN),MA Long
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,BROSSIER Benjamin,LI Ahmet,3,2,"13,7,11,9,11|11,11,8,11,4",R32,GRAND_SLAM,U21MS,81,Main Draw,BROSSIER Benjamin (FRA),LI Ahmet (TUR),BROSSIER Benjamin
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,HIGASHI Yuto,PITCHFORD Liam,3,1,"11,11,9,11|4,8,11,8",R32,GRAND_SLAM,U21MS,81,Main Draw,HIGASHI Yuto (JPN),PITCHFORD Liam (ENG),HIGASHI Yuto
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WALTHER Ricardo,KIM Donghyun,3,1,"13,9,12,11|11,11,10,9",R32,GRAND_SLAM,U21MS,81,Main Draw,WALTHER Ricardo (GER),KIM Donghyun (KOR),WALTHER Ricardo
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,DESAI Harmeet,LEE Junsang,3,2,"11,11,10,12,11|9,2,12,14,7",R32,GRAND_SLAM,U21MS,81,Main Draw,DESAI Harmeet (IND),LEE Junsang (KOR),DESAI Harmeet
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,MURAMATSU Yuto,DEVOS Robin,3,1,"15,7,11,11|13,11,3,5",R32,GRAND_SLAM,U21MS,81,Main Draw,MURAMATSU Yuto (JPN),DEVOS Robin (BEL),MURAMATSU Yuto
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LE BRETON Thomas,ANDERSSON Harald,3,2,"8,9,11,11,11|11,11,8,8,6",R32,GRAND_SLAM,U21MS,81,Main Draw,LE BRETON Thomas (FRA),ANDERSSON Harald (SWE),LE BRETON Thomas
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,GHOSH Soumyajit,KOBES Kristian,3,0,"11,11,11|7,8,9",R32,GRAND_SLAM,U21MS,81,Main Draw,GHOSH Soumyajit (IND),KOBES Kristian (SVK),GHOSH Soumyajit
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,YOSHIMURA Maharu,ANGLES Enzo,3,1,"7,12,11,11|11,10,7,3",R32,GRAND_SLAM,U21MS,81,Main Draw,YOSHIMURA Maharu (JPN),ANGLES Enzo (FRA),YOSHIMURA Maharu
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,HINDERSSON Mikkel,KARLSSON Mattias,3,1,"10,11,14,11|12,8,12,7",R32,GRAND_SLAM,U21MS,81,Main Draw,HINDERSSON Mikkel (DEN),KARLSSON Mattias (SWE),HINDERSSON Mikkel
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,KARLSSON Kristian,OUAICHE Stephane,3,0,"13,11,11|11,8,5",R32,GRAND_SLAM,U21MS,81,Main Draw,KARLSSON Kristian (SWE),OUAICHE Stephane (ALG),KARLSSON Kristian
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,PETIOT Jeremy,SAKAI Asuka,3,1,"9,11,11,11|11,8,6,6",R32,GRAND_SLAM,U21MS,81,Main Draw,PETIOT Jeremy (FRA),SAKAI Asuka (JPN),PETIOT Jeremy
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,TREGLER Tomas,BRODD Viktor,3,0,"11,11,11|5,5,3",R32,GRAND_SLAM,U21MS,81,Main Draw,TREGLER Tomas (CZE),BRODD Viktor (SWE),TREGLER Tomas
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,GAUZY Simon,SEO Junghwa,3,2,"11,11,8,12,11|5,8,11,14,6",R32,GRAND_SLAM,U21MS,81,Main Draw,GAUZY Simon (FRA),SEO Junghwa (KOR),GAUZY Simon
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,KNIGHT Darius,VANROSSOMME Emilien,3,2,"8,11,9,11,11|11,7,11,6,6",R32,GRAND_SLAM,U21MS,81,Main Draw,KNIGHT Darius (ENG),VANROSSOMME Emilien (BEL),KNIGHT Darius
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,SODERLUND Hampus,LORENTZ Romain,3,0,"11,11,11|7,6,9",R32,GRAND_SLAM,U21MS,81,Main Draw,SODERLUND Hampus (SWE),LORENTZ Romain (FRA),SODERLUND Hampus
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,ROBINOT Quentin,OLAH Benedek,3,2,"9,8,11,11,11|11,11,7,9,6",R32,GRAND_SLAM,U21MS,81,Main Draw,ROBINOT Quentin (FRA),OLAH Benedek (FIN),ROBINOT Quentin
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,HIGASHI Yuto,BROSSIER Benjamin,3,1,"8,11,11,11|11,1,7,8",R16,GRAND_SLAM,U21MS,81,Main Draw,HIGASHI Yuto (JPN),BROSSIER Benjamin (FRA),HIGASHI Yuto
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WALTHER Ricardo,DESAI Harmeet,3,0,"11,11,11|9,7,9",R16,GRAND_SLAM,U21MS,81,Main Draw,WALTHER Ricardo (GER),DESAI Harmeet (IND),WALTHER Ricardo
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,MURAMATSU Yuto,LE BRETON Thomas,3,1,"9,11,11,11|11,7,7,8",R16,GRAND_SLAM,U21MS,81,Main Draw,MURAMATSU Yuto (JPN),LE BRETON Thomas (FRA),MURAMATSU Yuto
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,YOSHIMURA Maharu,GHOSH Soumyajit,3,0,"11,11,11|9,9,8",R16,GRAND_SLAM,U21MS,81,Main Draw,YOSHIMURA Maharu (JPN),GHOSH Soumyajit (IND),YOSHIMURA Maharu
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,KARLSSON Kristian,HINDERSSON Mikkel,3,2,"7,11,8,11,11|11,6,11,7,7",R16,GRAND_SLAM,U21MS,81,Main Draw,KARLSSON Kristian (SWE),HINDERSSON Mikkel (DEN),KARLSSON Kristian
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,TREGLER Tomas,PETIOT Jeremy,3,0,"11,11,11|7,9,9",R16,GRAND_SLAM,U21MS,81,Main Draw,TREGLER Tomas (CZE),PETIOT Jeremy (FRA),TREGLER Tomas
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,GAUZY Simon,KNIGHT Darius,3,0,"11,11,17|9,9,15",R16,GRAND_SLAM,U21MS,81,Main Draw,GAUZY Simon (FRA),KNIGHT Darius (ENG),GAUZY Simon
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,ROBINOT Quentin,SODERLUND Hampus,3,0,"11,11,11|2,6,6",R16,GRAND_SLAM,U21MS,81,Main Draw,ROBINOT Quentin (FRA),SODERLUND Hampus (SWE),ROBINOT Quentin
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WALTHER Ricardo,HIGASHI Yuto,4,1,"9,11,11,11,11|11,9,8,5,8",QF,GRAND_SLAM,U21MS,81,Main Draw,WALTHER Ricardo (GER),HIGASHI Yuto (JPN),WALTHER Ricardo
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,YOSHIMURA Maharu,MURAMATSU Yuto,4,2,"9,11,11,11,11,12|11,13,9,8,6,10",QF,GRAND_SLAM,U21MS,81,Main Draw,YOSHIMURA Maharu (JPN),MURAMATSU Yuto (JPN),YOSHIMURA Maharu
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,TREGLER Tomas,KARLSSON Kristian,4,3,"6,3,11,13,11,8,11|11,11,8,11,5,11,7",QF,GRAND_SLAM,U21MS,81,Main Draw,TREGLER Tomas (CZE),KARLSSON Kristian (SWE),TREGLER Tomas
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,GAUZY Simon,ROBINOT Quentin,4,2,"11,9,11,9,11,11|6,11,8,11,7,3",QF,GRAND_SLAM,U21MS,81,Main Draw,GAUZY Simon (FRA),ROBINOT Quentin (FRA),GAUZY Simon
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WALTHER Ricardo,YOSHIMURA Maharu,4,3,"11,5,8,9,13,11,11|9,11,11,11,11,9,8",SF,GRAND_SLAM,U21MS,81,Main Draw,WALTHER Ricardo (GER),YOSHIMURA Maharu (JPN),WALTHER Ricardo
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,TREGLER Tomas,GAUZY Simon,4,3,"9,7,7,11,11,13,11|11,11,11,9,7,11,9",SF,GRAND_SLAM,U21MS,81,Main Draw,TREGLER Tomas (CZE),GAUZY Simon (FRA),TREGLER Tomas
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WALTHER Ricardo,TREGLER Tomas,4,1,"11,11,11,10,11|7,6,7,12,7",F,GRAND_SLAM,U21MS,81,Main Draw,WALTHER Ricardo (GER),TREGLER Tomas (CZE),WALTHER Ricardo
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,HINDERSSON Mikkel,ROBINOT Alexandre,4,2,"11,9,11,11,11,11|0,11,13,8,8,9",,GRAND_SLAM,MS,81,Qualification,HINDERSSON Mikkel (DEN),ROBINOT Alexandre (FRA),HINDERSSON Mikkel
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LEUNG Chu Yan,ROBINOT Alexandre,4,0,"11,11,11,11|9,8,6,5",,GRAND_SLAM,MS,81,Qualification,LEUNG Chu Yan (HKG),ROBINOT Alexandre (FRA),LEUNG Chu Yan
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LEUNG Chu Yan,HINDERSSON Mikkel,4,2,"7,11,11,11,8,11|11,5,8,5,11,6",,GRAND_SLAM,MS,81,Qualification,LEUNG Chu Yan (HKG),HINDERSSON Mikkel (DEN),LEUNG Chu Yan
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LE BRETON Thomas,CHUMAKOU Dmitry,4,3,"9,5,11,11,8,11,11|11,11,7,9,11,8,6",,GRAND_SLAM,MS,81,Qualification,LE BRETON Thomas (FRA),CHUMAKOU Dmitry (BLR),LE BRETON Thomas
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,MATSUDAIRA Kenji,CHUMAKOU Dmitry,4,0,"11,11,11,11|4,8,5,9",,GRAND_SLAM,MS,81,Qualification,MATSUDAIRA Kenji (JPN),CHUMAKOU Dmitry (BLR),MATSUDAIRA Kenji
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,MATSUDAIRA Kenji,LE BRETON Thomas,4,1,"11,11,7,11,11|9,1,11,7,6",,GRAND_SLAM,MS,81,Qualification,MATSUDAIRA Kenji (JPN),LE BRETON Thomas (FRA),MATSUDAIRA Kenji
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,HIGASHI Yuto,OVERSJO Mattias,4,2,"11,6,11,11,10,11|8,11,6,9,12,6",,GRAND_SLAM,MS,81,Qualification,HIGASHI Yuto (JPN),OVERSJO Mattias (SWE),HIGASHI Yuto
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,OVERSJO Mattias,LI Ahmet,4,0,"11,11,12,11|6,7,10,1",,GRAND_SLAM,MS,81,Qualification,OVERSJO Mattias (SWE),LI Ahmet (TUR),OVERSJO Mattias
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LI Ahmet,HIGASHI Yuto,4,3,"8,11,7,11,13,8,11|11,9,11,8,11,11,7",,GRAND_SLAM,MS,81,Qualification,LI Ahmet (TUR),HIGASHI Yuto (JPN),LI Ahmet
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WALTHER Ricardo,ASMUSSEN Jakob,4,1,"7,11,11,11,11|11,4,9,9,6",,GRAND_SLAM,MS,81,Qualification,WALTHER Ricardo (GER),ASMUSSEN Jakob (DEN),WALTHER Ricardo
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WALTHER Ricardo,KONECNY Tomas,4,0,"11,11,11,11|1,8,9,6",,GRAND_SLAM,MS,81,Qualification,WALTHER Ricardo (GER),KONECNY Tomas (CZE),WALTHER Ricardo
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,KONECNY Tomas,ASMUSSEN Jakob,4,3,"11,7,10,8,11,11,11|9,11,12,11,5,5,8",,GRAND_SLAM,MS,81,Qualification,KONECNY Tomas (CZE),ASMUSSEN Jakob (DEN),KONECNY Tomas
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,HABESOHN Dominik,SONDELL Johan,4,2,"11,11,11,8,11,11|8,13,5,11,7,7",,GRAND_SLAM,MS,81,Qualification,HABESOHN Dominik (AUT),SONDELL Johan (SWE),HABESOHN Dominik
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,DIDUKH Oleksandr,SONDELL Johan,4,0,"11,11,11,11|8,5,5,3",,GRAND_SLAM,MS,81,Qualification,DIDUKH Oleksandr (UKR),SONDELL Johan (SWE),DIDUKH Oleksandr
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,DIDUKH Oleksandr,HABESOHN Dominik,4,1,"9,14,11,11,11|11,12,7,4,9",,GRAND_SLAM,MS,81,Qualification,DIDUKH Oleksandr (UKR),HABESOHN Dominik (AUT),DIDUKH Oleksandr
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,NORDBERG Hampus,KRIVOSHEEV Viacheslav,4,1,"11,7,11,11,11|3,11,6,8,8",,GRAND_SLAM,MS,81,Qualification,NORDBERG Hampus (SWE),KRIVOSHEEV Viacheslav (RUS),NORDBERG Hampus
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,SALIFOU Abdel-Kader,NORDBERG Hampus,4,1,"11,11,5,12,13|9,3,11,10,11",,GRAND_SLAM,MS,81,Qualification,SALIFOU Abdel-Kader (BEN),NORDBERG Hampus (SWE),SALIFOU Abdel-Kader
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,KRIVOSHEEV Viacheslav,SALIFOU Abdel-Kader,4,3,"8,11,11,6,12,8,11|11,8,7,11,10,11,9",,GRAND_SLAM,MS,81,Qualification,KRIVOSHEEV Viacheslav (RUS),SALIFOU Abdel-Kader (BEN),KRIVOSHEEV Viacheslav
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,RASMUSSEN Morten,RONNEBERG Espen,4,0,,,GRAND_SLAM,MS,81,Qualification,RASMUSSEN Morten (DEN),RONNEBERG Espen (NOR),RASMUSSEN Morten
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,CHOI Hyunjin,RASMUSSEN Morten,4,0,"11,11,11,11|7,5,3,9",,GRAND_SLAM,MS,81,Qualification,CHOI Hyunjin (KOR),RASMUSSEN Morten (DEN),CHOI Hyunjin
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,CHOI Hyunjin,RONNEBERG Espen,4,0,,,GRAND_SLAM,MS,81,Qualification,CHOI Hyunjin (KOR),RONNEBERG Espen (NOR),CHOI Hyunjin
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,OUAICHE Stephane,TRAN Anthony,4,3,"9,9,11,9,11,11,11|11,11,8,11,7,8,6",,GRAND_SLAM,MS,81,Qualification,OUAICHE Stephane (ALG),TRAN Anthony (SWE),OUAICHE Stephane
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,BOBOCICA Mihai,TRAN Anthony,4,2,"11,11,7,9,12,11|6,7,11,11,10,3",,GRAND_SLAM,MS,81,Qualification,BOBOCICA Mihai (ITA),TRAN Anthony (SWE),BOBOCICA Mihai
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,BOBOCICA Mihai,OUAICHE Stephane,4,2,"11,3,9,11,11,11|7,11,11,4,6,5",,GRAND_SLAM,MS,81,Qualification,BOBOCICA Mihai (ITA),OUAICHE Stephane (ALG),BOBOCICA Mihai
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,BROSSIER Benjamin,DEVOS Robin,4,2,"11,10,6,11,16,11|9,12,11,9,14,7",,GRAND_SLAM,MS,81,Qualification,BROSSIER Benjamin (FRA),DEVOS Robin (BEL),BROSSIER Benjamin
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,KOU Lei,DEVOS Robin,4,0,"11,11,11,11|4,3,5,5",,GRAND_SLAM,MS,81,Qualification,KOU Lei (UKR),DEVOS Robin (BEL),KOU Lei
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,KOU Lei,BROSSIER Benjamin,4,1,"11,11,4,11,11|9,8,11,3,6",,GRAND_SLAM,MS,81,Qualification,KOU Lei (UKR),BROSSIER Benjamin (FRA),KOU Lei
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,ANGLES Enzo,SODERLUND Hampus,4,3,"11,11,11,11,7,10,11|3,13,3,7,11,12,8",,GRAND_SLAM,MS,81,Qualification,ANGLES Enzo (FRA),SODERLUND Hampus (SWE),ANGLES Enzo
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,VANG Bora,ANGLES Enzo,4,0,"11,11,11,11|4,3,9,3",,GRAND_SLAM,MS,81,Qualification,VANG Bora (TUR),ANGLES Enzo (FRA),VANG Bora
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,VANG Bora,SODERLUND Hampus,4,2,"11,11,8,11,8,12|6,6,11,6,11,10",,GRAND_SLAM,MS,81,Qualification,VANG Bora (TUR),SODERLUND Hampus (SWE),VANG Bora
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,SAKAI Asuka,ROBLES Alvaro,4,1,"8,11,11,11,11|11,5,8,6,9",,GRAND_SLAM,MS,81,Qualification,SAKAI Asuka (JPN),ROBLES Alvaro (ESP),SAKAI Asuka
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,ROBLES Alvaro,VOSTES Yannick,4,3,"7,11,12,13,11,11,11|11,5,14,15,5,7,3",,GRAND_SLAM,MS,81,Qualification,ROBLES Alvaro (ESP),VOSTES Yannick (BEL),ROBLES Alvaro
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,SAKAI Asuka,VOSTES Yannick,4,0,"11,11,11,11|2,0,0,0",,GRAND_SLAM,MS,81,Qualification,SAKAI Asuka (JPN),VOSTES Yannick (BEL),SAKAI Asuka
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,DESAI Harmeet,GUMAN Martin,4,0,"11,11,11,11|3,9,4,9",,GRAND_SLAM,MS,81,Qualification,DESAI Harmeet (IND),GUMAN Martin (SVK),DESAI Harmeet
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,ROBINOT Quentin,GUMAN Martin,4,2,"11,11,11,10,11,11|6,7,7,12,13,6",,GRAND_SLAM,MS,81,Qualification,ROBINOT Quentin (FRA),GUMAN Martin (SVK),ROBINOT Quentin
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,DESAI Harmeet,ROBINOT Quentin,4,3,"5,11,8,11,6,11,11|11,6,11,7,11,6,8",,GRAND_SLAM,MS,81,Qualification,DESAI Harmeet (IND),ROBINOT Quentin (FRA),DESAI Harmeet
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,OLAH Benedek,VANROSSOMME Emilien,4,1,"11,11,11,11,11|8,13,5,6,6",,GRAND_SLAM,MS,81,Qualification,OLAH Benedek (FIN),VANROSSOMME Emilien (BEL),OLAH Benedek
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,HENZELL William,VANROSSOMME Emilien,4,3,"10,8,11,11,11,5,11|12,11,6,6,5,11,3",,GRAND_SLAM,MS,81,Qualification,HENZELL William (AUS),VANROSSOMME Emilien (BEL),HENZELL William
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,HENZELL William,OLAH Benedek,4,0,"11,12,11,11|7,10,9,7",,GRAND_SLAM,MS,81,Qualification,HENZELL William (AUS),OLAH Benedek (FIN),HENZELL William
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,KARLSSON Kristian,KOBES Kristian,4,0,"11,11,11,11|6,3,5,3",,GRAND_SLAM,MS,81,Qualification,KARLSSON Kristian (SWE),KOBES Kristian (SVK),KARLSSON Kristian
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,KOBES Kristian,VRABLIK Jiri,4,2,"5,11,12,4,11,12|11,9,10,11,8,10",,GRAND_SLAM,MS,81,Qualification,KOBES Kristian (SVK),VRABLIK Jiri (CZE),KOBES Kristian
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,KARLSSON Kristian,VRABLIK Jiri,4,3,"4,9,11,11,8,11,11|11,11,9,6,11,5,7",,GRAND_SLAM,MS,81,Qualification,KARLSSON Kristian (SWE),VRABLIK Jiri (CZE),KARLSSON Kristian
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,GHOSH Soumyajit,EVANS Gavin,4,1,"5,11,11,11,13|11,4,4,9,11",,GRAND_SLAM,MS,81,Qualification,GHOSH Soumyajit (IND),EVANS Gavin (ENG),GHOSH Soumyajit
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,KARLSSON Mattias,EVANS Gavin,4,0,"11,11,11,15|7,4,9,13",,GRAND_SLAM,MS,81,Qualification,KARLSSON Mattias (SWE),EVANS Gavin (ENG),KARLSSON Mattias
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,TORNKVIST Andreas,INDEHERBERG Julien,4,2,"8,11,10,11,11,14|11,9,12,5,1,12",,GRAND_SLAM,MS,81,Qualification,TORNKVIST Andreas (SWE),INDEHERBERG Julien (BEL),TORNKVIST Andreas
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,MENGEL Steffen,INDEHERBERG Julien,4,0,"12,11,11,12|10,3,6,10",,GRAND_SLAM,MS,81,Qualification,MENGEL Steffen (GER),INDEHERBERG Julien (BEL),MENGEL Steffen
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,MENGEL Steffen,TORNKVIST Andreas,4,3,"11,6,14,11,5,10,11|7,11,12,4,11,12,5",,GRAND_SLAM,MS,81,Qualification,MENGEL Steffen (GER),TORNKVIST Andreas (SWE),MENGEL Steffen
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,REED Daniel,LAMBIET Florent,4,1,"11,8,11,11,11|6,11,5,7,6",,GRAND_SLAM,MS,81,Qualification,REED Daniel (ENG),LAMBIET Florent (BEL),REED Daniel
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,CANTERO Jesus,LAMBIET Florent,4,0,"11,11,11,11|5,8,7,7",,GRAND_SLAM,MS,81,Qualification,CANTERO Jesus (ESP),LAMBIET Florent (BEL),CANTERO Jesus
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,REED Daniel,CANTERO Jesus,4,2,"11,4,11,3,12,12|9,11,8,11,10,10",,GRAND_SLAM,MS,81,Qualification,REED Daniel (ENG),CANTERO Jesus (ESP),REED Daniel
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LAU Tobias,AKERSTROM Fabian,4,3,"9,11,3,11,6,13,12|11,5,11,9,11,11,10",,GRAND_SLAM,MS,81,Qualification,LAU Tobias (DEN),AKERSTROM Fabian (SWE),LAU Tobias
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,BAGGALEY Andrew,LAU Tobias,4,1,"11,11,11,12,11|8,2,13,10,5",,GRAND_SLAM,MS,81,Qualification,BAGGALEY Andrew (ENG),LAU Tobias (DEN),BAGGALEY Andrew
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,BAGGALEY Andrew,AKERSTROM Fabian,4,2,"7,11,13,11,11,11|11,1,15,9,9,7",,GRAND_SLAM,MS,81,Qualification,BAGGALEY Andrew (ENG),AKERSTROM Fabian (SWE),BAGGALEY Andrew
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,OBESLO Michal,CORDUE John,4,0,"11,11,11,11|9,9,8,9",,GRAND_SLAM,MS,81,Qualification,OBESLO Michal (CZE),CORDUE John (NZL),OBESLO Michal
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,BARDON Michal,CORDUE John,4,0,"11,11,11,11|2,9,9,8",,GRAND_SLAM,MS,81,Qualification,BARDON Michal (SVK),CORDUE John (NZL),BARDON Michal
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,OBESLO Michal,BARDON Michal,4,2,"11,5,11,9,11,12|4,11,5,11,7,10",,GRAND_SLAM,MS,81,Qualification,OBESLO Michal (CZE),BARDON Michal (SVK),OBESLO Michal
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,DURANSPAHIC Admir,SOINE Samuli,4,0,"11,11,11,11|7,6,3,9",,GRAND_SLAM,MS,81,Qualification,DURANSPAHIC Admir (BIH),SOINE Samuli (FIN),DURANSPAHIC Admir
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,HIELSCHER Lars,SOINE Samuli,4,0,"11,11,11,11|6,1,3,5",,GRAND_SLAM,MS,81,Qualification,HIELSCHER Lars (GER),SOINE Samuli (FIN),HIELSCHER Lars
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,HIELSCHER Lars,DURANSPAHIC Admir,4,3,"11,11,7,8,8,12,11|9,8,11,11,11,10,9",,GRAND_SLAM,MS,81,Qualification,HIELSCHER Lars (GER),DURANSPAHIC Admir (BIH),HIELSCHER Lars
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,PITCHFORD Liam,HIETIKKO Pauli,4,0,"11,11,11,11|9,3,6,9",,GRAND_SLAM,MS,81,Qualification,PITCHFORD Liam (ENG),HIETIKKO Pauli (FIN),PITCHFORD Liam
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,YOSHIMURA Maharu,HIETIKKO Pauli,4,0,"11,11,11,11|4,4,7,5",,GRAND_SLAM,MS,81,Qualification,YOSHIMURA Maharu (JPN),HIETIKKO Pauli (FIN),YOSHIMURA Maharu
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,YOSHIMURA Maharu,PITCHFORD Liam,4,2,"11,11,6,10,11,11|5,8,11,12,8,8",,GRAND_SLAM,MS,81,Qualification,YOSHIMURA Maharu (JPN),PITCHFORD Liam (ENG),YOSHIMURA Maharu
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,SEO Junghwa,ANDERSSON Harald,4,1,"11,11,11,8,11|5,9,7,11,5",,GRAND_SLAM,MS,81,Qualification,SEO Junghwa (KOR),ANDERSSON Harald (SWE),SEO Junghwa
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,TREGLER Tomas,SEO Junghwa,4,1,"11,11,11,5,15|7,9,9,11,13",,GRAND_SLAM,MS,81,Qualification,TREGLER Tomas (CZE),SEO Junghwa (KOR),TREGLER Tomas
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,TREGLER Tomas,ANDERSSON Harald,4,0,"11,11,11,11|7,7,6,7",,GRAND_SLAM,MS,81,Qualification,TREGLER Tomas (CZE),ANDERSSON Harald (SWE),TREGLER Tomas
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,PERSSON Jon,KIM Donghyun,4,3,"4,11,9,8,11,11,11|11,9,11,11,5,5,6",,GRAND_SLAM,MS,81,Qualification,PERSSON Jon (SWE),KIM Donghyun (KOR),PERSSON Jon
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,PERSSON Jon,STOYANOV Niagol,4,2,"11,11,8,7,11,11|9,9,11,11,6,8",,GRAND_SLAM,MS,81,Qualification,PERSSON Jon (SWE),STOYANOV Niagol (ITA),PERSSON Jon
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,KIM Donghyun,STOYANOV Niagol,4,2,"11,11,11,7,9,11|9,8,8,11,11,9",,GRAND_SLAM,MS,81,Qualification,KIM Donghyun (KOR),STOYANOV Niagol (ITA),KIM Donghyun
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,GROTH Jonathan,HASANOVIC Remhad,4,0,,,GRAND_SLAM,MS,81,Qualification,GROTH Jonathan (DEN),HASANOVIC Remhad (BIH),GROTH Jonathan
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LEE Junsang,HASANOVIC Remhad,4,0,,,GRAND_SLAM,MS,81,Qualification,LEE Junsang (KOR),HASANOVIC Remhad (BIH),LEE Junsang
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LEE Junsang,GROTH Jonathan,4,2,"7,5,11,13,11,11|11,11,6,11,9,7",,GRAND_SLAM,MS,81,Qualification,LEE Junsang (KOR),GROTH Jonathan (DEN),LEE Junsang
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,PETIOT Jeremy,BRODD Viktor,4,0,"11,11,11,11|4,9,2,2",,GRAND_SLAM,MS,81,Qualification,PETIOT Jeremy (FRA),BRODD Viktor (SWE),PETIOT Jeremy
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,GAVLAS Antonin,BRODD Viktor,4,2,"9,11,11,11,6,11|11,6,6,7,11,6",,GRAND_SLAM,MS,81,Qualification,GAVLAS Antonin (CZE),BRODD Viktor (SWE),GAVLAS Antonin
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,PETIOT Jeremy,GAVLAS Antonin,4,1,"11,11,8,11,16|9,9,11,9,14",,GRAND_SLAM,MS,81,Qualification,PETIOT Jeremy (FRA),GAVLAS Antonin (CZE),PETIOT Jeremy
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,KNIGHT Darius,ZAKLADNYI Gennadii,4,0,"11,11,11,11|9,4,4,8",,GRAND_SLAM,MS,81,Qualification,KNIGHT Darius (ENG),ZAKLADNYI Gennadii (UKR),KNIGHT Darius
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,GAUZY Simon,ZAKLADNYI Gennadii,4,0,"11,11,11,11|6,6,3,7",,GRAND_SLAM,MS,81,Qualification,GAUZY Simon (FRA),ZAKLADNYI Gennadii (UKR),GAUZY Simon
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LORENTZ Romain,BAND Joshua,4,0,"11,11,11,11|5,0,9,2",,GRAND_SLAM,MS,81,Qualification,LORENTZ Romain (FRA),BAND Joshua (JEY),LORENTZ Romain
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,HOREJSI Miroslav,BAND Joshua,4,1,"11,9,11,11,11|6,11,9,3,4",,GRAND_SLAM,MS,81,Qualification,HOREJSI Miroslav (CZE),BAND Joshua (JEY),HOREJSI Miroslav
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LORENTZ Romain,HOREJSI Miroslav,4,0,"13,11,11,11|11,7,7,9",,GRAND_SLAM,MS,81,Qualification,LORENTZ Romain (FRA),HOREJSI Miroslav (CZE),LORENTZ Romain
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,PRYSHCHEPA Ievgen,ERIKSSON Robert,4,2,"11,7,11,5,11,13|4,11,8,11,9,11",,GRAND_SLAM,MS,81,Qualification,PRYSHCHEPA Ievgen (UKR),ERIKSSON Robert (SWE),PRYSHCHEPA Ievgen
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,SZYMANSKI Filip,ERIKSSON Robert,4,2,"11,11,10,11,15,11|13,6,12,8,13,3",,GRAND_SLAM,MS,81,Qualification,SZYMANSKI Filip (POL),ERIKSSON Robert (SWE),SZYMANSKI Filip
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,SZYMANSKI Filip,PRYSHCHEPA Ievgen,4,1,"11,11,9,11,11|3,9,11,8,4",,GRAND_SLAM,MS,81,Qualification,SZYMANSKI Filip (POL),PRYSHCHEPA Ievgen (UKR),SZYMANSKI Filip
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,TSE Ka Chun,HAZZAA Walaaeldin,4,2,"11,9,11,11,9,11|8,11,5,6,11,9",,GRAND_SLAM,MS,81,Qualification,TSE Ka Chun (HKG),HAZZAA Walaaeldin (EGY),TSE Ka Chun
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,MURAMATSU Yuto,HAZZAA Walaaeldin,4,0,"11,11,11,13|3,5,8,11",,GRAND_SLAM,MS,81,Qualification,MURAMATSU Yuto (JPN),HAZZAA Walaaeldin (EGY),MURAMATSU Yuto
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,TSE Ka Chun,MURAMATSU Yuto,4,3,"11,12,11,5,11,11,11|5,14,9,11,7,13,9",,GRAND_SLAM,MS,81,Qualification,TSE Ka Chun (HKG),MURAMATSU Yuto (JPN),TSE Ka Chun
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,MOTSYK Iryna,BOLENIUS Sannamari,3,0,"12,11,11|10,9,6",,GRAND_SLAM,U21WS,81,Qualification,MOTSYK Iryna (UKR),BOLENIUS Sannamari (SWE),MOTSYK Iryna
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,MOTSYK Iryna,QUACH Michelle,3,0,"11,11,11|6,9,9",,GRAND_SLAM,U21WS,81,Qualification,MOTSYK Iryna (UKR),QUACH Michelle (SWE),MOTSYK Iryna
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,QUACH Michelle,BOLENIUS Sannamari,3,0,"11,11,11|8,6,4",,GRAND_SLAM,U21WS,81,Qualification,QUACH Michelle (SWE),BOLENIUS Sannamari (SWE),QUACH Michelle
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,BERGSTROM Linda,ERIKSSON Pinja,3,1,"11,11,4,11|9,8,11,4",,GRAND_SLAM,U21WS,81,Qualification,BERGSTROM Linda (SWE),ERIKSSON Pinja (FIN),BERGSTROM Linda
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,BERGSTROM Linda,AASEBO Marte,3,2,"13,9,11,4,12|11,11,6,11,10",,GRAND_SLAM,U21WS,81,Qualification,BERGSTROM Linda (SWE),AASEBO Marte (NOR),BERGSTROM Linda
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,AASEBO Marte,ERIKSSON Pinja,3,0,"11,11,11|8,7,7",,GRAND_SLAM,U21WS,81,Qualification,AASEBO Marte (NOR),ERIKSSON Pinja (FIN),AASEBO Marte
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LOEUILLETTE Stephanie,PUNNONEN Henrika,3,0,"11,11,11|8,6,3",,GRAND_SLAM,U21WS,81,Qualification,LOEUILLETTE Stephanie (FRA),PUNNONEN Henrika (FIN),LOEUILLETTE Stephanie
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LOEUILLETTE Stephanie,ZETTERSTROM Kristina,3,1,"11,8,11,11|3,11,7,9",,GRAND_SLAM,U21WS,81,Qualification,LOEUILLETTE Stephanie (FRA),ZETTERSTROM Kristina (SWE),LOEUILLETTE Stephanie
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,ZETTERSTROM Kristina,PUNNONEN Henrika,3,0,"11,11,11|9,6,8",,GRAND_SLAM,U21WS,81,Qualification,ZETTERSTROM Kristina (SWE),PUNNONEN Henrika (FIN),ZETTERSTROM Kristina
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,KRZEWICKA Maja,KARLSSON Michaela,3,0,"11,11,11|6,6,5",,GRAND_SLAM,U21WS,81,Qualification,KRZEWICKA Maja (POL),KARLSSON Michaela (SWE),KRZEWICKA Maja
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,KRZEWICKA Maja,BATES Emily,3,2,"7,11,11,9,11|11,7,4,11,8",,GRAND_SLAM,U21WS,81,Qualification,KRZEWICKA Maja (POL),BATES Emily (ENG),KRZEWICKA Maja
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,BATES Emily,KARLSSON Michaela,3,1,"11,11,10,11|8,5,12,9",,GRAND_SLAM,U21WS,81,Qualification,BATES Emily (ENG),KARLSSON Michaela (SWE),BATES Emily
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,ENGELSON Maria,MOSKOVITS Daniela,3,1,"11,11,5,11|8,8,11,9",,GRAND_SLAM,U21WS,81,Qualification,ENGELSON Maria (SWE),MOSKOVITS Daniela (SWE),ENGELSON Maria
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,BHANDARKAR Mallika,MOSKOVITS Daniela,3,1,"5,11,12,11|11,8,10,8",,GRAND_SLAM,U21WS,81,Qualification,BHANDARKAR Mallika (IND),MOSKOVITS Daniela (SWE),BHANDARKAR Mallika
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,BHANDARKAR Mallika,ENGELSON Maria,3,2,"9,11,11,10,11|11,6,9,12,5",,GRAND_SLAM,U21WS,81,Qualification,BHANDARKAR Mallika (IND),ENGELSON Maria (SWE),BHANDARKAR Mallika
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,JONSSON Jennifer,SANDSTROM Linn,3,0,"11,11,11|5,6,7",,GRAND_SLAM,U21WS,81,Qualification,JONSSON Jennifer (SWE),SANDSTROM Linn (SWE),JONSSON Jennifer
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,HICKS Hannah,OKSANEN Jannika,3,0,"11,11,14|2,5,12",,GRAND_SLAM,U21WS,81,Qualification,HICKS Hannah (ENG),OKSANEN Jannika (FIN),HICKS Hannah
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,HICKS Hannah,JONSSON Jennifer,3,1,"12,7,11,11|10,11,8,5",,GRAND_SLAM,U21WS,81,Qualification,HICKS Hannah (ENG),JONSSON Jennifer (SWE),HICKS Hannah
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,SANDSTROM Linn,OKSANEN Jannika,3,0,"11,11,11|9,6,7",,GRAND_SLAM,U21WS,81,Qualification,SANDSTROM Linn (SWE),OKSANEN Jannika (FIN),SANDSTROM Linn
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,JONSSON Jennifer,OKSANEN Jannika,3,0,"11,11,11|8,6,8",,GRAND_SLAM,U21WS,81,Qualification,JONSSON Jennifer (SWE),OKSANEN Jannika (FIN),JONSSON Jennifer
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,HICKS Hannah,SANDSTROM Linn,3,0,"11,12,11|9,10,4",,GRAND_SLAM,U21WS,81,Qualification,HICKS Hannah (ENG),SANDSTROM Linn (SWE),HICKS Hannah
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WABIK Sandra,LOVERIDGE Alice,3,0,"11,11,11|6,5,4",,GRAND_SLAM,U21WS,81,Qualification,WABIK Sandra (POL),LOVERIDGE Alice (GGY),WABIK Sandra
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LUND Josefin,SODERLUND Ida,3,0,"11,11,11|6,5,8",,GRAND_SLAM,U21WS,81,Qualification,LUND Josefin (SWE),SODERLUND Ida (SWE),LUND Josefin
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WABIK Sandra,SODERLUND Ida,3,2,"10,11,14,11,12|12,4,16,5,10",,GRAND_SLAM,U21WS,81,Qualification,WABIK Sandra (POL),SODERLUND Ida (SWE),WABIK Sandra
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WABIK Sandra,LUND Josefin,3,2,"11,10,11,7,11|7,12,9,11,5",,GRAND_SLAM,U21WS,81,Qualification,WABIK Sandra (POL),LUND Josefin (SWE),WABIK Sandra
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LOVERIDGE Alice,SODERLUND Ida,3,0,"11,11,11|6,8,4",,GRAND_SLAM,U21WS,81,Qualification,LOVERIDGE Alice (GGY),SODERLUND Ida (SWE),LOVERIDGE Alice
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,ISHIKAWA Kasumi,SANDSTROM Linn,3,0,"11,11,11|1,3,3",R32,GRAND_SLAM,U21WS,81,Main Draw,ISHIKAWA Kasumi (JPN),SANDSTROM Linn (SWE),ISHIKAWA Kasumi
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,MOTSYK Iryna,YOO Eunchong,3,2,"11,6,11,9,11|9,11,8,11,5",R32,GRAND_SLAM,U21WS,81,Main Draw,MOTSYK Iryna (UKR),YOO Eunchong (KOR),MOTSYK Iryna
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,VARADY Barbora,WABIK Sandra,3,0,"11,11,11|3,5,5",R32,GRAND_SLAM,U21WS,81,Main Draw,VARADY Barbora (SVK),WABIK Sandra (POL),VARADY Barbora
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,TANIOKA Ayuka,JONSSON Jennifer,3,0,"11,11,11|4,4,7",R32,GRAND_SLAM,U21WS,81,Main Draw,TANIOKA Ayuka (JPN),JONSSON Jennifer (SWE),TANIOKA Ayuka
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,MUHLBACH Kathrin,AASEBO Marte,3,0,"11,11,11|5,8,5",R32,GRAND_SLAM,U21WS,81,Main Draw,MUHLBACH Kathrin (GER),AASEBO Marte (NOR),MUHLBACH Kathrin
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LOEUILLETTE Stephanie,OBRADOVIC Sonja,3,1,"5,11,11,11|11,3,6,2",R32,GRAND_SLAM,U21WS,81,Main Draw,LOEUILLETTE Stephanie (FRA),OBRADOVIC Sonja (NOR),LOEUILLETTE Stephanie
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,KUSINSKA Klaudia,HICKS Hannah,3,1,"10,13,11,11|12,11,9,6",R32,GRAND_SLAM,U21WS,81,Main Draw,KUSINSKA Klaudia (POL),HICKS Hannah (ENG),KUSINSKA Klaudia
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,KANG Misoon,BATES Emily,3,0,"11,11,11|6,7,6",R32,GRAND_SLAM,U21WS,81,Main Draw,KANG Misoon (KOR),BATES Emily (ENG),KANG Misoon
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,YANG Ha Eun,QUACH Michelle,3,0,"11,11,11|9,1,6",R32,GRAND_SLAM,U21WS,81,Main Draw,YANG Ha Eun (KOR),QUACH Michelle (SWE),YANG Ha Eun
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LEE Dasom,ZETTERSTROM Kristina,3,0,"11,11,11|8,7,6",R32,GRAND_SLAM,U21WS,81,Main Draw,LEE Dasom (KOR),ZETTERSTROM Kristina (SWE),LEE Dasom
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,SLIFIRCZYK Katarzyna,BHANDARKAR Mallika,3,2,"13,11,11,8,11|11,13,9,11,8",R32,GRAND_SLAM,U21WS,81,Main Draw,SLIFIRCZYK Katarzyna (POL),BHANDARKAR Mallika (IND),SLIFIRCZYK Katarzyna
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,SONG Maeum,LUND Josefin,3,0,"11,11,11|7,8,4",R32,GRAND_SLAM,U21WS,81,Main Draw,SONG Maeum (KOR),LUND Josefin (SWE),SONG Maeum
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WINTER Sabine,ENGELSON Maria,3,1,"11,11,11,11|8,13,5,4",R32,GRAND_SLAM,U21WS,81,Main Draw,WINTER Sabine (GER),ENGELSON Maria (SWE),WINTER Sabine
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,SZCZERKOWSKA Magdalena,BERGSTROM Linda,3,0,"12,11,11|10,3,8",R32,GRAND_SLAM,U21WS,81,Main Draw,SZCZERKOWSKA Magdalena (POL),BERGSTROM Linda (SWE),SZCZERKOWSKA Magdalena
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,DOBREVA Polina,KRZEWICKA Maja,3,0,"11,11,11|9,5,4",R32,GRAND_SLAM,U21WS,81,Main Draw,DOBREVA Polina (BUL),KRZEWICKA Maja (POL),DOBREVA Polina
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,JEON Jihee,BOLENIUS Sannamari,3,0,"11,11,11|4,7,5",R32,GRAND_SLAM,U21WS,81,Main Draw,JEON Jihee (KOR),BOLENIUS Sannamari (SWE),JEON Jihee
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,ISHIKAWA Kasumi,MOTSYK Iryna,3,0,"11,11,11|5,7,3",R16,GRAND_SLAM,U21WS,81,Main Draw,ISHIKAWA Kasumi (JPN),MOTSYK Iryna (UKR),ISHIKAWA Kasumi
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,VARADY Barbora,TANIOKA Ayuka,3,2,"11,9,11,5,16|6,11,9,11,14",R16,GRAND_SLAM,U21WS,81,Main Draw,VARADY Barbora (SVK),TANIOKA Ayuka (JPN),VARADY Barbora
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,MUHLBACH Kathrin,LOEUILLETTE Stephanie,3,0,"11,12,11|8,10,9",R16,GRAND_SLAM,U21WS,81,Main Draw,MUHLBACH Kathrin (GER),LOEUILLETTE Stephanie (FRA),MUHLBACH Kathrin
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,KANG Misoon,KUSINSKA Klaudia,3,1,"11,14,10,11|4,12,12,5",R16,GRAND_SLAM,U21WS,81,Main Draw,KANG Misoon (KOR),KUSINSKA Klaudia (POL),KANG Misoon
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,YANG Ha Eun,LEE Dasom,3,1,"11,11,4,11|8,3,11,4",R16,GRAND_SLAM,U21WS,81,Main Draw,YANG Ha Eun (KOR),LEE Dasom (KOR),YANG Ha Eun
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,SONG Maeum,SLIFIRCZYK Katarzyna,3,0,"11,11,11|4,5,6",R16,GRAND_SLAM,U21WS,81,Main Draw,SONG Maeum (KOR),SLIFIRCZYK Katarzyna (POL),SONG Maeum
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,SZCZERKOWSKA Magdalena,WINTER Sabine,3,2,"11,8,13,13,11|13,11,11,11,5",R16,GRAND_SLAM,U21WS,81,Main Draw,SZCZERKOWSKA Magdalena (POL),WINTER Sabine (GER),SZCZERKOWSKA Magdalena
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,JEON Jihee,DOBREVA Polina,3,0,"11,13,11|8,11,6",R16,GRAND_SLAM,U21WS,81,Main Draw,JEON Jihee (KOR),DOBREVA Polina (BUL),JEON Jihee
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,ISHIKAWA Kasumi,VARADY Barbora,4,0,"11,11,11,11|3,8,9,9",QF,GRAND_SLAM,U21WS,81,Main Draw,ISHIKAWA Kasumi (JPN),VARADY Barbora (SVK),ISHIKAWA Kasumi
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,KANG Misoon,MUHLBACH Kathrin,4,0,"11,13,11,11|7,11,9,5",QF,GRAND_SLAM,U21WS,81,Main Draw,KANG Misoon (KOR),MUHLBACH Kathrin (GER),KANG Misoon
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,SONG Maeum,YANG Ha Eun,4,3,"11,8,10,11,11,5,16|5,11,12,3,5,11,14",QF,GRAND_SLAM,U21WS,81,Main Draw,SONG Maeum (KOR),YANG Ha Eun (KOR),SONG Maeum
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,JEON Jihee,SZCZERKOWSKA Magdalena,4,0,"11,11,11,11|8,4,4,7",QF,GRAND_SLAM,U21WS,81,Main Draw,JEON Jihee (KOR),SZCZERKOWSKA Magdalena (POL),JEON Jihee
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,ISHIKAWA Kasumi,KANG Misoon,4,0,"11,11,11,11|6,8,4,3",SF,GRAND_SLAM,U21WS,81,Main Draw,ISHIKAWA Kasumi (JPN),KANG Misoon (KOR),ISHIKAWA Kasumi
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,SONG Maeum,JEON Jihee,4,2,"11,11,12,12,4,11|5,9,14,10,11,9",SF,GRAND_SLAM,U21WS,81,Main Draw,SONG Maeum (KOR),JEON Jihee (KOR),SONG Maeum
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,ISHIKAWA Kasumi,SONG Maeum,4,0,"11,11,11,11|6,8,8,7",F,GRAND_SLAM,U21WS,81,Main Draw,ISHIKAWA Kasumi (JPN),SONG Maeum (KOR),ISHIKAWA Kasumi
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,GUO Yan (1982)/GUO Yue,DVORAK Galia/RAMIREZ Sara,3,0,"11,11,11|4,6,6",R16,GRAND_SLAM,WD,81,Main Draw,GUO Yan (1982) (CHN) / GUO Yue (CHN),DVORAK Galia (ESP) / RAMIREZ Sara (ESP),GUO Yan (1982)
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WEN Jia/YANG Yang,KANG Misoon/LEE Eunhee,3,0,"11,11,11|6,5,7",R16,GRAND_SLAM,WD,81,Main Draw,WEN Jia (CHN) / YANG Yang (CHN),KANG Misoon (KOR) / LEE Eunhee (KOR),WEN Jia
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,DING Ning/LIU Shiwen,VARADY Barbora/TIMINA Yana,3,0,"11,11,11|5,6,1",R16,GRAND_SLAM,WD,81,Main Draw,DING Ning (CHN) / LIU Shiwen (CHN),VARADY Barbora (SVK) / TIMINA Yana (NED),DING Ning
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,GUO Yan (1982)/GUO Yue,WEN Jia/YANG Yang,4,1,"11,14,8,11,11|4,12,11,4,3",QF,GRAND_SLAM,WD,81,Main Draw,GUO Yan (1982) (CHN) / GUO Yue (CHN),WEN Jia (CHN) / YANG Yang (CHN),GUO Yan (1982)
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,DING Ning/LIU Shiwen,JIANG Huajun/TIE Yana,4,1,"11,10,11,12,11|7,12,6,10,5",QF,GRAND_SLAM,WD,81,Main Draw,DING Ning (CHN) / LIU Shiwen (CHN),JIANG Huajun (HKG) / TIE Yana (HKG),DING Ning
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,GUO Yan (1982)/GUO Yue,DING Ning/LIU Shiwen,4,2,"5,11,11,9,14,11|11,3,7,11,12,5",SF,GRAND_SLAM,WD,81,Main Draw,GUO Yan (1982) (CHN) / GUO Yue (CHN),DING Ning (CHN) / LIU Shiwen (CHN),GUO Yan (1982)
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,GUO Yan (1982)/GUO Yue,FUJII Hiroko/WAKAMIYA Misako,4,1,"11,11,11,14,11|7,9,4,16,4",F,GRAND_SLAM,WD,81,Main Draw,GUO Yan (1982) (CHN) / GUO Yue (CHN),FUJII Hiroko (JPN) / WAKAMIYA Misako (JPN),GUO Yan (1982)
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WEN Jia/YANG Yang,KARLSSON Michaela/MOSKOVITS Daniela,3,0,"11,11,11|2,4,2",QR16,GRAND_SLAM,WD,81,Qualification,WEN Jia (CHN) / YANG Yang (CHN),KARLSSON Michaela (SWE) / MOSKOVITS Daniela (SWE),WEN Jia
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,DVORAK Galia/RAMIREZ Sara,BERGSTROM Linda/ENGELSON Maria,3,0,"12,11,12|10,9,10",QR16,GRAND_SLAM,WD,81,Qualification,DVORAK Galia (ESP) / RAMIREZ Sara (ESP),BERGSTROM Linda (SWE) / ENGELSON Maria (SWE),DVORAK Galia
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,BERGSTROM Linda/ENGELSON Maria,OKSANEN Jannika/PUNNONEN Henrika,3,0,"11,11,11|7,7,7",QR32,GRAND_SLAM,WD,81,Qualification,BERGSTROM Linda (SWE) / ENGELSON Maria (SWE),OKSANEN Jannika (FIN) / PUNNONEN Henrika (FIN),BERGSTROM Linda
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,MUHLBACH Kathrin/WINTER Sabine,LI Jiao/LI Jie,3,0,,R16,GRAND_SLAM,WD,81,Main Draw,MUHLBACH Kathrin (GER) / WINTER Sabine (GER),LI Jiao (NED) / LI Jie (NED),MUHLBACH Kathrin
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,BHANDARKAR Mallika/LOVERIDGE Alice,BOLENIUS Sannamari/ERIKSSON Pinja,3,0,"11,11,11|2,8,4",QR32,GRAND_SLAM,WD,81,Qualification,BHANDARKAR Mallika (IND) / LOVERIDGE Alice (GGY),BOLENIUS Sannamari (SWE) / ERIKSSON Pinja (FIN),BHANDARKAR Mallika
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,FUJII Hiroko/WAKAMIYA Misako,BOLLMEIER Nadine/YU Kwok See,3,1,"11,12,10,11|9,10,12,9",R16,GRAND_SLAM,WD,81,Main Draw,FUJII Hiroko (JPN) / WAKAMIYA Misako (JPN),BOLLMEIER Nadine (GER) / YU Kwok See (HKG),FUJII Hiroko
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,BOLLMEIER Nadine/YU Kwok See,MOTSYK Iryna/DOBREVA Polina,3,1,"11,11,6,11|5,3,11,3",QR16,GRAND_SLAM,WD,81,Qualification,BOLLMEIER Nadine (GER) / YU Kwok See (HKG),MOTSYK Iryna (UKR) / DOBREVA Polina (BUL),BOLLMEIER Nadine
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,FUKUHARA Ai/ISHIKAWA Kasumi,CHOI Moonyoung/YOON Sunae,3,2,"11,6,11,13,11|1,11,7,15,5",R16,GRAND_SLAM,WD,81,Main Draw,FUKUHARA Ai (JPN) / ISHIKAWA Kasumi (JPN),CHOI Moonyoung (KOR) / YOON Sunae (KOR),FUKUHARA Ai
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,FUJII Hiroko/WAKAMIYA Misako,FUKUHARA Ai/ISHIKAWA Kasumi,4,3,"11,7,9,9,11,11,11|8,11,11,11,3,9,6",SF,GRAND_SLAM,WD,81,Main Draw,FUJII Hiroko (JPN) / WAKAMIYA Misako (JPN),FUKUHARA Ai (JPN) / ISHIKAWA Kasumi (JPN),FUJII Hiroko
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,JIANG Huajun/TIE Yana,DANG Yeseo/YANG Ha Eun,3,1,"8,11,11,11|11,8,8,6",R16,GRAND_SLAM,WD,81,Main Draw,JIANG Huajun (HKG) / TIE Yana (HKG),DANG Yeseo (KOR) / YANG Ha Eun (KOR),JIANG Huajun
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,CHOI Moonyoung/YOON Sunae,BHANDARKAR Mallika/LOVERIDGE Alice,3,0,"11,11,11|6,2,5",QR16,GRAND_SLAM,WD,81,Qualification,CHOI Moonyoung (KOR) / YOON Sunae (KOR),BHANDARKAR Mallika (IND) / LOVERIDGE Alice (GGY),CHOI Moonyoung
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,VARADY Barbora/TIMINA Yana,KUSINSKA Klaudia/SZCZERKOWSKA Magdalena,3,2,"11,9,8,11,11|6,11,11,6,7",QR16,GRAND_SLAM,WD,81,Qualification,VARADY Barbora (SVK) / TIMINA Yana (NED),KUSINSKA Klaudia (POL) / SZCZERKOWSKA Magdalena (POL),VARADY Barbora
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,DANG Yeseo/YANG Ha Eun,AASEBO Marte/OBRADOVIC Sonja,3,0,"11,11,11|3,5,8",QR16,GRAND_SLAM,WD,81,Qualification,DANG Yeseo (KOR) / YANG Ha Eun (KOR),AASEBO Marte (NOR) / OBRADOVIC Sonja (NOR),DANG Yeseo
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,KARLSSON Michaela/MOSKOVITS Daniela,BROMLEY Michelle/HER-LEE Sarah,3,2,"10,11,8,11,11|12,9,11,9,8",QR32,GRAND_SLAM,WD,81,Qualification,KARLSSON Michaela (SWE) / MOSKOVITS Daniela (SWE),BROMLEY Michelle (AUS) / HER-LEE Sarah (NZL),KARLSSON Michaela
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,FUJII Hiroko/WAKAMIYA Misako,CREEMERS Linda/STEFANSKA Kinga,4,0,"11,12,11,11|5,10,8,6",QF,GRAND_SLAM,WD,81,Main Draw,FUJII Hiroko (JPN) / WAKAMIYA Misako (JPN),CREEMERS Linda (NED) / STEFANSKA Kinga (POL),FUJII Hiroko
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,KRZEWICKA Maja/SLIFIRCZYK Katarzyna,QUACH Michelle/RASK Sara,3,1,"5,11,11,12|11,9,9,10",QR32,GRAND_SLAM,WD,81,Qualification,KRZEWICKA Maja (POL) / SLIFIRCZYK Katarzyna (POL),QUACH Michelle (SWE) / RASK Sara (SWE),KRZEWICKA Maja
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,CREEMERS Linda/STEFANSKA Kinga,BATES Emily/HICKS Hannah,3,0,"11,11,11|7,2,6",QR32,GRAND_SLAM,WD,81,Qualification,CREEMERS Linda (NED) / STEFANSKA Kinga (POL),BATES Emily (ENG) / HICKS Hannah (ENG),CREEMERS Linda
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,MUHLBACH Kathrin/WINTER Sabine,KRZEWICKA Maja/SLIFIRCZYK Katarzyna,3,1,"5,11,11,13|11,9,4,11",QR16,GRAND_SLAM,WD,81,Qualification,MUHLBACH Kathrin (GER) / WINTER Sabine (GER),KRZEWICKA Maja (POL) / SLIFIRCZYK Katarzyna (POL),MUHLBACH Kathrin
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,CREEMERS Linda/STEFANSKA Kinga,LIU Na/OWEN Naomi,3,0,"11,11,11|6,9,8",QR16,GRAND_SLAM,WD,81,Qualification,CREEMERS Linda (NED) / STEFANSKA Kinga (POL),LIU Na (IRL) / OWEN Naomi (WAL),CREEMERS Linda
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,CREEMERS Linda/STEFANSKA Kinga,EKHOLM Matilda/JONSSON Jennifer,3,0,,R16,GRAND_SLAM,WD,81,Main Draw,CREEMERS Linda (NED) / STEFANSKA Kinga (POL),EKHOLM Matilda (SWE) / JONSSON Jennifer (SWE),CREEMERS Linda
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,AASEBO Marte/OBRADOVIC Sonja,WABIK Sandra/ZETTERSTROM Kristina,3,0,,QR32,GRAND_SLAM,WD,81,Qualification,AASEBO Marte (NOR) / OBRADOVIC Sonja (NOR),WABIK Sandra (POL) / ZETTERSTROM Kristina (SWE),AASEBO Marte
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WINTER Sabine,HICKS Hannah,4,0,"11,11,11,12|6,4,7,10",,GRAND_SLAM,WS,81,Qualification,WINTER Sabine (GER),HICKS Hannah (ENG),WINTER Sabine
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WINTER Sabine,MOSKOVITS Daniela,4,0,"11,11,11,11|6,8,8,5",,GRAND_SLAM,WS,81,Qualification,WINTER Sabine (GER),MOSKOVITS Daniela (SWE),WINTER Sabine
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,HICKS Hannah,MOSKOVITS Daniela,4,2,"7,11,12,11,10,11|11,3,10,7,12,2",,GRAND_SLAM,WS,81,Qualification,HICKS Hannah (ENG),MOSKOVITS Daniela (SWE),HICKS Hannah
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,STEFANSKA Kinga,BATES Emily,4,0,"11,11,11,11|6,5,4,9",,GRAND_SLAM,WS,81,Qualification,STEFANSKA Kinga (POL),BATES Emily (ENG),STEFANSKA Kinga
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,STEFANSKA Kinga,LOVERIDGE Alice,4,0,"11,11,11,11|2,5,7,7",,GRAND_SLAM,WS,81,Qualification,STEFANSKA Kinga (POL),LOVERIDGE Alice (GGY),STEFANSKA Kinga
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LOVERIDGE Alice,BATES Emily,4,1,"12,11,11,11,11|10,9,3,13,8",,GRAND_SLAM,WS,81,Qualification,LOVERIDGE Alice (GGY),BATES Emily (ENG),LOVERIDGE Alice
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,CREEMERS Linda,QUACH Michelle,4,0,"11,13,11,11|7,11,5,4",,GRAND_SLAM,WS,81,Qualification,CREEMERS Linda (NED),QUACH Michelle (SWE),CREEMERS Linda
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,CREEMERS Linda,WABIK Sandra,4,0,"11,11,11,11|8,5,5,7",,GRAND_SLAM,WS,81,Qualification,CREEMERS Linda (NED),WABIK Sandra (POL),CREEMERS Linda
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,QUACH Michelle,WABIK Sandra,4,3,"11,9,5,3,13,15,13|7,11,11,11,11,13,11",,GRAND_SLAM,WS,81,Qualification,QUACH Michelle (SWE),WABIK Sandra (POL),QUACH Michelle
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,MUHLBACH Kathrin,JONSSON Jennifer,4,1,"11,11,11,5,11|8,9,3,11,7",,GRAND_SLAM,WS,81,Qualification,MUHLBACH Kathrin (GER),JONSSON Jennifer (SWE),MUHLBACH Kathrin
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,JONSSON Jennifer,AASEBO Marte,4,1,"11,11,9,11,11|7,3,11,9,7",,GRAND_SLAM,WS,81,Qualification,JONSSON Jennifer (SWE),AASEBO Marte (NOR),JONSSON Jennifer
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,VARADY Barbora,ENGELSON Maria,4,1,"6,11,11,11,11|11,8,5,4,6",,GRAND_SLAM,WS,81,Qualification,VARADY Barbora (SVK),ENGELSON Maria (SWE),VARADY Barbora
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,VARADY Barbora,KRZEWICKA Maja,4,2,"11,8,6,12,11,12|9,11,11,10,8,10",,GRAND_SLAM,WS,81,Qualification,VARADY Barbora (SVK),KRZEWICKA Maja (POL),VARADY Barbora
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,KRZEWICKA Maja,ENGELSON Maria,4,0,"11,11,11,11|7,8,7,7",,GRAND_SLAM,WS,81,Qualification,KRZEWICKA Maja (POL),ENGELSON Maria (SWE),KRZEWICKA Maja
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,SZCZERKOWSKA Magdalena,ERIKSSON Pinja,4,0,"11,11,11,11|8,4,6,6",,GRAND_SLAM,WS,81,Qualification,SZCZERKOWSKA Magdalena (POL),ERIKSSON Pinja (FIN),SZCZERKOWSKA Magdalena
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,SZCZERKOWSKA Magdalena,BHANDARKAR Mallika,4,0,"11,11,13,11|5,7,11,9",,GRAND_SLAM,WS,81,Qualification,SZCZERKOWSKA Magdalena (POL),BHANDARKAR Mallika (IND),SZCZERKOWSKA Magdalena
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,BHANDARKAR Mallika,ERIKSSON Pinja,4,1,"11,11,9,11,11|3,6,11,8,8",,GRAND_SLAM,WS,81,Qualification,BHANDARKAR Mallika (IND),ERIKSSON Pinja (FIN),BHANDARKAR Mallika
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,TIMINA Yana,BOLENIUS Sannamari,4,0,"11,11,11,13|7,4,7,11",,GRAND_SLAM,WS,81,Qualification,TIMINA Yana (NED),BOLENIUS Sannamari (SWE),TIMINA Yana
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,TIMINA Yana,LOEUILLETTE Stephanie,4,1,"11,11,11,9,11|8,7,4,11,8",,GRAND_SLAM,WS,81,Qualification,TIMINA Yana (NED),LOEUILLETTE Stephanie (FRA),TIMINA Yana
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LOEUILLETTE Stephanie,BOLENIUS Sannamari,4,2,"11,11,7,11,8,11|7,7,11,9,11,3",,GRAND_SLAM,WS,81,Qualification,LOEUILLETTE Stephanie (FRA),BOLENIUS Sannamari (SWE),LOEUILLETTE Stephanie
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,KUSINSKA Klaudia,BROMLEY Michelle,4,1,"8,11,11,11,11|11,2,4,3,8",,GRAND_SLAM,WS,81,Qualification,KUSINSKA Klaudia (POL),BROMLEY Michelle (AUS),KUSINSKA Klaudia
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,KUSINSKA Klaudia,BERGSTROM Linda,4,1,"11,9,11,11,13|1,11,3,6,11",,GRAND_SLAM,WS,81,Qualification,KUSINSKA Klaudia (POL),BERGSTROM Linda (SWE),KUSINSKA Klaudia
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,BERGSTROM Linda,BROMLEY Michelle,4,1,"11,8,11,12,11|8,11,2,10,6",,GRAND_SLAM,WS,81,Qualification,BERGSTROM Linda (SWE),BROMLEY Michelle (AUS),BERGSTROM Linda
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LIU Na,PUNNONEN Henrika,4,0,"11,11,11,11|3,4,3,6",,GRAND_SLAM,WS,81,Qualification,LIU Na (IRL),PUNNONEN Henrika (FIN),LIU Na
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,MOTSYK Iryna,LIU Na,4,2,"11,11,11,8,6,11|9,7,7,11,11,9",,GRAND_SLAM,WS,81,Qualification,MOTSYK Iryna (UKR),LIU Na (IRL),MOTSYK Iryna
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,MOTSYK Iryna,PUNNONEN Henrika,4,0,"11,11,11,11|7,6,8,4",,GRAND_SLAM,WS,81,Qualification,MOTSYK Iryna (UKR),PUNNONEN Henrika (FIN),MOTSYK Iryna
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,YOO Eunchong,HER-LEE Sarah,4,0,"11,11,11,11|8,5,9,2",,GRAND_SLAM,WS,81,Qualification,YOO Eunchong (KOR),HER-LEE Sarah (NZL),YOO Eunchong
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,YOO Eunchong,OWEN Naomi,4,3,"10,9,7,11,12,11,11|12,11,11,8,10,8,8",,GRAND_SLAM,WS,81,Qualification,YOO Eunchong (KOR),OWEN Naomi (WAL),YOO Eunchong
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,OWEN Naomi,HER-LEE Sarah,4,0,"11,11,14,12|3,5,12,10",,GRAND_SLAM,WS,81,Qualification,OWEN Naomi (WAL),HER-LEE Sarah (NZL),OWEN Naomi
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,OBRADOVIC Sonja,OKSANEN Jannika,4,0,"11,11,11,11|8,5,4,1",,GRAND_SLAM,WS,81,Qualification,OBRADOVIC Sonja (NOR),OKSANEN Jannika (FIN),OBRADOVIC Sonja
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,DANG Yeseo,SLIFIRCZYK Katarzyna,4,1,"11,13,8,11,11|4,11,11,8,6",,GRAND_SLAM,WS,81,Qualification,DANG Yeseo (KOR),SLIFIRCZYK Katarzyna (POL),DANG Yeseo
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,OBRADOVIC Sonja,SLIFIRCZYK Katarzyna,4,2,"10,11,11,8,12,11|12,8,7,11,10,8",,GRAND_SLAM,WS,81,Qualification,OBRADOVIC Sonja (NOR),SLIFIRCZYK Katarzyna (POL),OBRADOVIC Sonja
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,DANG Yeseo,OKSANEN Jannika,4,0,"11,11,11,11|4,1,3,4",,GRAND_SLAM,WS,81,Qualification,DANG Yeseo (KOR),OKSANEN Jannika (FIN),DANG Yeseo
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,DANG Yeseo,OBRADOVIC Sonja,4,0,"11,11,11,11|5,4,1,4",,GRAND_SLAM,WS,81,Qualification,DANG Yeseo (KOR),OBRADOVIC Sonja (NOR),DANG Yeseo
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,SLIFIRCZYK Katarzyna,OKSANEN Jannika,4,0,"11,11,11,11|8,3,4,6",,GRAND_SLAM,WS,81,Qualification,SLIFIRCZYK Katarzyna (POL),OKSANEN Jannika (FIN),SLIFIRCZYK Katarzyna
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,YANG Yang,DOBREVA Polina,4,0,"11,11,11,11|5,6,4,4",,GRAND_SLAM,WS,81,Qualification,YANG Yang (CHN),DOBREVA Polina (BUL),YANG Yang
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,RASK Sara,LEE Dasom,4,1,"9,11,11,12,11|11,7,6,10,8",,GRAND_SLAM,WS,81,Qualification,RASK Sara (SWE),LEE Dasom (KOR),RASK Sara
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LEE Dasom,DOBREVA Polina,4,3,"11,6,9,7,19,11,17|5,11,11,11,17,8,15",,GRAND_SLAM,WS,81,Qualification,LEE Dasom (KOR),DOBREVA Polina (BUL),LEE Dasom
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,YANG Yang,RASK Sara,4,0,"11,11,11,11|4,1,3,5",,GRAND_SLAM,WS,81,Qualification,YANG Yang (CHN),RASK Sara (SWE),YANG Yang
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,DOBREVA Polina,RASK Sara,4,0,"11,11,11,11|6,8,5,5",,GRAND_SLAM,WS,81,Qualification,DOBREVA Polina (BUL),RASK Sara (SWE),DOBREVA Polina
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,YANG Yang,LEE Dasom,4,0,"11,11,11,11|8,1,2,6",,GRAND_SLAM,WS,81,Qualification,YANG Yang (CHN),LEE Dasom (KOR),YANG Yang
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,GUO Yan (1982),ENGELSON Maria,4,0,"11,11,11,11|3,4,6,7",R64,GRAND_SLAM,WS,81,Main Draw,GUO Yan (1982) (CHN),ENGELSON Maria (SWE),GUO Yan (1982)
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,BARTHEL Zhenqi,BHANDARKAR Mallika,4,0,"14,11,11,11|12,4,4,5",R64,GRAND_SLAM,WS,81,Main Draw,BARTHEL Zhenqi (GER),BHANDARKAR Mallika (IND),BARTHEL Zhenqi
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,DANG Yeseo,EKHOLM Matilda,4,1,"11,9,11,11,11|4,11,3,5,5",R64,GRAND_SLAM,WS,81,Main Draw,DANG Yeseo (KOR),EKHOLM Matilda (SWE),DANG Yeseo
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,SUN Beibei,HICKS Hannah,4,0,"11,11,11,11|3,4,2,7",R64,GRAND_SLAM,WS,81,Main Draw,SUN Beibei (SGP),HICKS Hannah (ENG),SUN Beibei
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LEE Eunhee,KRZEWICKA Maja,4,0,"11,11,11,11|7,1,4,8",R64,GRAND_SLAM,WS,81,Main Draw,LEE Eunhee (KOR),KRZEWICKA Maja (POL),LEE Eunhee
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WAKAMIYA Misako,SZCZERKOWSKA Magdalena,4,0,"11,11,11,11|6,7,5,6",R64,GRAND_SLAM,WS,81,Main Draw,WAKAMIYA Misako (JPN),SZCZERKOWSKA Magdalena (POL),WAKAMIYA Misako
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,SKOV Mie,MOTSYK Iryna,4,2,"11,9,11,9,11,11|8,11,6,11,7,7",R64,GRAND_SLAM,WS,81,Main Draw,SKOV Mie (DEN),MOTSYK Iryna (UKR),SKOV Mie
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,ISHIKAWA Kasumi,BROMLEY Michelle,4,1,"11,11,11,7,11|6,4,3,11,4",R64,GRAND_SLAM,WS,81,Main Draw,ISHIKAWA Kasumi (JPN),BROMLEY Michelle (AUS),ISHIKAWA Kasumi
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,FUKUHARA Ai,PUNNONEN Henrika,4,0,"11,11,11,11|5,1,3,5",R64,GRAND_SLAM,WS,81,Main Draw,FUKUHARA Ai (JPN),PUNNONEN Henrika (FIN),FUKUHARA Ai
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,CHOI Moonyoung,LOVERIDGE Alice,4,0,"11,11,11,11|6,1,6,4",R64,GRAND_SLAM,WS,81,Main Draw,CHOI Moonyoung (KOR),LOVERIDGE Alice (GGY),CHOI Moonyoung
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,SONG Maeum,JONSSON Jennifer,4,0,"11,11,11,13|5,5,6,11",R64,GRAND_SLAM,WS,81,Main Draw,SONG Maeum (KOR),JONSSON Jennifer (SWE),SONG Maeum
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WEN Jia,LOEUILLETTE Stephanie,4,0,"11,11,11,11|5,2,2,8",R64,GRAND_SLAM,WS,81,Main Draw,WEN Jia (CHN),LOEUILLETTE Stephanie (FRA),WEN Jia
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,FUJII Hiroko,OBRADOVIC Sonja,4,0,,R64,GRAND_SLAM,WS,81,Main Draw,FUJII Hiroko (JPN),OBRADOVIC Sonja (NOR),FUJII Hiroko
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,BOLLMEIER Nadine,CREEMERS Linda,4,3,"5,10,7,11,12,11,11|11,12,11,6,10,8,9",R64,GRAND_SLAM,WS,81,Main Draw,BOLLMEIER Nadine (GER),CREEMERS Linda (NED),BOLLMEIER Nadine
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,TANIOKA Ayuka,KUSINSKA Klaudia,4,2,"11,12,7,13,11,11|8,14,11,11,3,9",R64,GRAND_SLAM,WS,81,Main Draw,TANIOKA Ayuka (JPN),KUSINSKA Klaudia (POL),TANIOKA Ayuka
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,GUO Yue,MOSKOVITS Daniela,4,0,"11,11,11,13|4,7,2,11",R64,GRAND_SLAM,WS,81,Main Draw,GUO Yue (CHN),MOSKOVITS Daniela (SWE),GUO Yue
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LIU Shiwen,WABIK Sandra,4,0,"11,11,11,11|4,4,6,8",R64,GRAND_SLAM,WS,81,Main Draw,LIU Shiwen (CHN),WABIK Sandra (POL),LIU Shiwen
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LI Jie,YOO Eunchong,4,2,"3,7,11,11,13,11|11,11,3,4,11,9",R64,GRAND_SLAM,WS,81,Main Draw,LI Jie (NED),YOO Eunchong (KOR),LI Jie
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,JIANG Huajun,BERGSTROM Linda,4,0,"11,11,11,11|9,5,5,3",R64,GRAND_SLAM,WS,81,Main Draw,JIANG Huajun (HKG),BERGSTROM Linda (SWE),JIANG Huajun
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WU Jiaduo,OWEN Naomi,4,0,"11,11,11,11|6,3,1,8",R64,GRAND_SLAM,WS,81,Main Draw,WU Jiaduo (GER),OWEN Naomi (WAL),WU Jiaduo
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,NI Xia Lian,TIMINA Yana,4,2,"11,5,11,9,11,11|1,11,4,11,7,6",R64,GRAND_SLAM,WS,81,Main Draw,NI Xia Lian (LUX),TIMINA Yana (NED),NI Xia Lian
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,YANG Yang,RAMIREZ Sara,4,0,"11,11,11,11|3,7,2,7",R64,GRAND_SLAM,WS,81,Main Draw,YANG Yang (CHN),RAMIREZ Sara (ESP),YANG Yang
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,TIE Yana,BOLENIUS Sannamari,4,0,"11,11,11,11|7,5,9,3",R64,GRAND_SLAM,WS,81,Main Draw,TIE Yana (HKG),BOLENIUS Sannamari (SWE),TIE Yana
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,HIRANO Sayaka,BATES Emily,4,0,"11,11,11,11|1,5,6,9",R64,GRAND_SLAM,WS,81,Main Draw,HIRANO Sayaka (JPN),BATES Emily (ENG),HIRANO Sayaka
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WINTER Sabine,YU Kwok See,4,2,"11,10,12,11,13,11|9,12,14,8,11,9",R64,GRAND_SLAM,WS,81,Main Draw,WINTER Sabine (GER),YU Kwok See (HKG),WINTER Sabine
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,DVORAK Galia,QUACH Michelle,4,0,"11,11,11,11|3,4,8,6",R64,GRAND_SLAM,WS,81,Main Draw,DVORAK Galia (ESP),QUACH Michelle (SWE),DVORAK Galia
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,YANG Ha Eun,DOBREVA Polina,4,1,"11,11,9,11,11|5,4,11,9,2",R64,GRAND_SLAM,WS,81,Main Draw,YANG Ha Eun (KOR),DOBREVA Polina (BUL),YANG Ha Eun
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,JEON Jihee,LIU Na,4,1,"11,11,11,11,11|7,9,13,3,3",R64,GRAND_SLAM,WS,81,Main Draw,JEON Jihee (KOR),LIU Na (IRL),JEON Jihee
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,DODEAN Daniela,STEFANSKA Kinga,4,1,"11,9,11,12,11|5,11,8,10,8",R64,GRAND_SLAM,WS,81,Main Draw,DODEAN Daniela (ROU),STEFANSKA Kinga (POL),DODEAN Daniela
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,VARADY Barbora,YOON Sunae,4,0,"11,11,11,11|4,7,6,5",R64,GRAND_SLAM,WS,81,Main Draw,VARADY Barbora (SVK),YOON Sunae (KOR),VARADY Barbora
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,DING Ning,HER-LEE Sarah,4,0,"11,11,11,11|3,3,1,5",R64,GRAND_SLAM,WS,81,Main Draw,DING Ning (CHN),HER-LEE Sarah (NZL),DING Ning
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,GUO Yan (1982),BARTHEL Zhenqi,4,1,"11,11,9,11,11|7,8,11,1,7",R32,GRAND_SLAM,WS,81,Main Draw,GUO Yan (1982) (CHN),BARTHEL Zhenqi (GER),GUO Yan (1982)
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,SUN Beibei,DANG Yeseo,4,2,"13,12,11,4,5,11|11,10,2,11,11,8",R32,GRAND_SLAM,WS,81,Main Draw,SUN Beibei (SGP),DANG Yeseo (KOR),SUN Beibei
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LEE Eunhee,WAKAMIYA Misako,4,3,"11,6,7,5,11,11,11|9,11,11,11,6,8,8",R32,GRAND_SLAM,WS,81,Main Draw,LEE Eunhee (KOR),WAKAMIYA Misako (JPN),LEE Eunhee
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,ISHIKAWA Kasumi,SKOV Mie,4,2,"11,7,3,11,12,11|8,11,11,5,10,9",R32,GRAND_SLAM,WS,81,Main Draw,ISHIKAWA Kasumi (JPN),SKOV Mie (DEN),ISHIKAWA Kasumi
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,FUKUHARA Ai,CHOI Moonyoung,4,3,"3,11,8,11,12,4,11|11,9,11,3,10,11,3",R32,GRAND_SLAM,WS,81,Main Draw,FUKUHARA Ai (JPN),CHOI Moonyoung (KOR),FUKUHARA Ai
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WEN Jia,SONG Maeum,4,1,"11,12,11,11,11|9,10,3,13,9",R32,GRAND_SLAM,WS,81,Main Draw,WEN Jia (CHN),SONG Maeum (KOR),WEN Jia
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,FUJII Hiroko,BOLLMEIER Nadine,4,1,"11,11,11,5,11|6,8,7,11,8",R32,GRAND_SLAM,WS,81,Main Draw,FUJII Hiroko (JPN),BOLLMEIER Nadine (GER),FUJII Hiroko
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,GUO Yue,TANIOKA Ayuka,4,1,"11,11,1,12,11|8,5,11,10,8",R32,GRAND_SLAM,WS,81,Main Draw,GUO Yue (CHN),TANIOKA Ayuka (JPN),GUO Yue
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LIU Shiwen,LI Jie,4,0,"11,11,11,11|7,0,0,0",R32,GRAND_SLAM,WS,81,Main Draw,LIU Shiwen (CHN),LI Jie (NED),LIU Shiwen
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,JIANG Huajun,KANG Misoon,4,0,"11,11,11,11|5,5,4,8",R32,GRAND_SLAM,WS,81,Main Draw,JIANG Huajun (HKG),KANG Misoon (KOR),JIANG Huajun
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WU Jiaduo,NI Xia Lian,4,0,"11,11,11,11|6,5,8,9",R32,GRAND_SLAM,WS,81,Main Draw,WU Jiaduo (GER),NI Xia Lian (LUX),WU Jiaduo
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,YANG Yang,TIE Yana,4,2,"5,11,12,11,7,13|11,7,10,9,11,11",R32,GRAND_SLAM,WS,81,Main Draw,YANG Yang (CHN),TIE Yana (HKG),YANG Yang
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,HIRANO Sayaka,WINTER Sabine,4,1,"12,11,11,6,11|10,7,2,11,4",R32,GRAND_SLAM,WS,81,Main Draw,HIRANO Sayaka (JPN),WINTER Sabine (GER),HIRANO Sayaka
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,YANG Ha Eun,DVORAK Galia,4,3,"11,6,10,16,8,11,11|3,11,12,14,11,7,5",R32,GRAND_SLAM,WS,81,Main Draw,YANG Ha Eun (KOR),DVORAK Galia (ESP),YANG Ha Eun
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,DODEAN Daniela,JEON Jihee,4,2,"11,13,10,8,11,11|9,11,12,11,9,5",R32,GRAND_SLAM,WS,81,Main Draw,DODEAN Daniela (ROU),JEON Jihee (KOR),DODEAN Daniela
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,DING Ning,VARADY Barbora,4,1,"9,11,11,11,11|11,4,9,4,1",R32,GRAND_SLAM,WS,81,Main Draw,DING Ning (CHN),VARADY Barbora (SVK),DING Ning
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,GUO Yan (1982),SUN Beibei,4,1,"8,11,11,11,11|11,3,2,4,8",R16,GRAND_SLAM,WS,81,Main Draw,GUO Yan (1982) (CHN),SUN Beibei (SGP),GUO Yan (1982)
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,ISHIKAWA Kasumi,LEE Eunhee,4,3,"11,11,11,6,9,10,11|9,7,6,11,11,12,8",R16,GRAND_SLAM,WS,81,Main Draw,ISHIKAWA Kasumi (JPN),LEE Eunhee (KOR),ISHIKAWA Kasumi
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WEN Jia,FUKUHARA Ai,4,2,"9,11,11,3,11,11|11,9,7,11,8,4",R16,GRAND_SLAM,WS,81,Main Draw,WEN Jia (CHN),FUKUHARA Ai (JPN),WEN Jia
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,GUO Yue,FUJII Hiroko,4,2,"12,11,9,10,11,11|10,3,11,12,5,7",R16,GRAND_SLAM,WS,81,Main Draw,GUO Yue (CHN),FUJII Hiroko (JPN),GUO Yue
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LIU Shiwen,JIANG Huajun,4,0,"11,11,16,11|6,9,14,9",R16,GRAND_SLAM,WS,81,Main Draw,LIU Shiwen (CHN),JIANG Huajun (HKG),LIU Shiwen
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,YANG Yang,WU Jiaduo,4,0,"11,11,11,11|9,8,7,7",R16,GRAND_SLAM,WS,81,Main Draw,YANG Yang (CHN),WU Jiaduo (GER),YANG Yang
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,YANG Ha Eun,HIRANO Sayaka,4,2,"11,11,6,11,9,11|6,6,11,5,11,8",R16,GRAND_SLAM,WS,81,Main Draw,YANG Ha Eun (KOR),HIRANO Sayaka (JPN),YANG Ha Eun
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,DING Ning,DODEAN Daniela,4,0,"11,11,11,11|4,8,9,4",R16,GRAND_SLAM,WS,81,Main Draw,DING Ning (CHN),DODEAN Daniela (ROU),DING Ning
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,GUO Yan (1982),ISHIKAWA Kasumi,4,0,"11,11,11,11|7,4,8,9",QF,GRAND_SLAM,WS,81,Main Draw,GUO Yan (1982) (CHN),ISHIKAWA Kasumi (JPN),GUO Yan (1982)
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WEN Jia,GUO Yue,4,1,"11,3,11,11,11|5,11,2,8,6",QF,GRAND_SLAM,WS,81,Main Draw,WEN Jia (CHN),GUO Yue (CHN),WEN Jia
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LIU Shiwen,YANG Yang,4,0,"11,11,11,11|7,5,9,7",QF,GRAND_SLAM,WS,81,Main Draw,LIU Shiwen (CHN),YANG Yang (CHN),LIU Shiwen
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,DING Ning,YANG Ha Eun,4,0,"11,11,11,11|5,6,7,1",QF,GRAND_SLAM,WS,81,Main Draw,DING Ning (CHN),YANG Ha Eun (KOR),DING Ning
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,GUO Yan (1982),WEN Jia,4,2,"10,11,11,11,11,11|12,13,8,5,3,3",SF,GRAND_SLAM,WS,81,Main Draw,GUO Yan (1982) (CHN),WEN Jia (CHN),GUO Yan (1982)
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,LIU Shiwen,DING Ning,4,2,"2,11,15,8,11,11|11,9,13,11,3,5",SF,GRAND_SLAM,WS,81,Main Draw,LIU Shiwen (CHN),DING Ning (CHN),LIU Shiwen
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,GUO Yan (1982),LIU Shiwen,4,0,"11,11,11,11|4,6,6,4",F,GRAND_SLAM,WS,81,Main Draw,GUO Yan (1982) (CHN),LIU Shiwen (CHN),GUO Yan (1982)
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,MOSKOVITS Daniela,SLIFIRCZYK Katarzyna,4,0,"11,12,11,11|8,10,9,3",QR16,GRAND_SLAM,WS,81,Qualification,MOSKOVITS Daniela (SWE),SLIFIRCZYK Katarzyna (POL),MOSKOVITS Daniela
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,BATES Emily,RASK Sara,4,1,"11,11,11,6,11|9,5,6,11,6",QR16,GRAND_SLAM,WS,81,Qualification,BATES Emily (ENG),RASK Sara (SWE),BATES Emily
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,WABIK Sandra,HER-LEE Sarah,4,1,"11,11,11,9,12|6,4,6,11,10",QR16,GRAND_SLAM,WS,81,Qualification,WABIK Sandra (POL),HER-LEE Sarah (NZL),WABIK Sandra
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,PUNNONEN Henrika,AASEBO Marte,4,2,"12,8,6,11,12,11|10,11,11,7,10,8",QR16,GRAND_SLAM,WS,81,Qualification,PUNNONEN Henrika (FIN),AASEBO Marte (NOR),PUNNONEN Henrika
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,BOLENIUS Sannamari,ENGELSON Maria,4,3,"11,11,6,6,11,9,15|4,8,11,11,6,11,13",QR16,GRAND_SLAM,WS,81,Qualification,BOLENIUS Sannamari (SWE),ENGELSON Maria (SWE),BOLENIUS Sannamari
+Pro Tour Swedish Open Stockholm 2011,2011-10-19,BROMLEY Michelle,ERIKSSON Pinja,4,2,"11,8,5,11,11,11|9,11,11,5,5,8",QR16,GRAND_SLAM,WS,81,Qualification,BROMLEY Michelle (AUS),ERIKSSON Pinja (FIN),BROMLEY Michelle

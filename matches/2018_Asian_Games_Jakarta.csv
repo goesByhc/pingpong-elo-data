@@ -1,386 +1,386 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-Asian Games Jakarta 2018,2018-08-18,FENG Tianwei,SUH Hyo Won,3,1,"9,11,11,11|11,6,9,7",QF,OTHER,WT,891,Main Draw,FENG Tianwei (SGP),SUH Hyo Won (KOR)
-Asian Games Jakarta 2018,2018-08-18,ZHU Yuling,MAEDA Miyu,3,0,"11,11,14|6,3,12",QF,OTHER,WT,891,Main Draw,MAEDA Miyu (JPN),ZHU Yuling (MAC)
-Asian Games Jakarta 2018,2018-08-18,CHEN Meng,ANDO Minami,3,1,"11,8,11,11|6,11,9,6",QF,OTHER,WT,891,Main Draw,ANDO Minami (JPN),CHEN Meng (CHN)
-Asian Games Jakarta 2018,2018-08-18,WANG Manyu,KATO Miyu,3,1,"5,11,11,11|11,7,6,9",QF,OTHER,WT,891,Main Draw,KATO Miyu (JPN),WANG Manyu (CHN)
-Asian Games Jakarta 2018,2018-08-18,FENG Tianwei,CHANG Li Sian,3,0,"11,11,11|2,1,6",GROUP,OTHER,WT,891,Main Draw,CHANG Li Sian (MAS),FENG Tianwei (SGP)
-Asian Games Jakarta 2018,2018-08-18,YU Mengyu,LYNE Karen,3,2,"11,11,8,11,14|6,7,11,13,12",GROUP,OTHER,WT,891,Main Draw,LYNE Karen (MAS),YU Mengyu (SGP)
-Asian Games Jakarta 2018,2018-08-18,LIN Ye,HO Ying,3,1,"6,11,12,11|11,7,10,6",GROUP,OTHER,WT,891,Main Draw,HO Ying (MAS),LIN Ye (CAN)
-Asian Games Jakarta 2018,2018-08-18,NGUYEN Khanh,MAHARJAN Rabina,3,0,"11,11,11|6,5,4",GROUP,OTHER,WT,891,Main Draw,NGUYEN Khanh (VIE),MAHARJAN Rabina (NEP)
-Asian Games Jakarta 2018,2018-08-18,NGUYEN Thi Nga,SHRESTHA Nabita,3,1,"11,11,11,11|6,2,12,9",GROUP,OTHER,WT,891,Main Draw,NGUYEN Thi Nga (VIE),SHRESTHA Nabita (NEP)
-Asian Games Jakarta 2018,2018-08-18,GIANG Phan Hoang Tuong,NEMBANG Swechchha,3,0,"11,11,11|8,8,4",GROUP,OTHER,WT,891,Main Draw,GIANG Phan Hoang Tuong (VIE),NEMBANG Swechchha (NEP)
-Asian Games Jakarta 2018,2018-08-18,FENG Tianwei,GIANG Phan Hoang Tuong,3,0,"11,11,11|3,3,6",GROUP,OTHER,WT,891,Main Draw,FENG Tianwei (SGP),GIANG Phan Hoang Tuong (VIE)
-Asian Games Jakarta 2018,2018-08-18,LIN Ye,MAI Trang,3,2,"10,6,11,14,11|12,11,8,12,3",GROUP,OTHER,WT,891,Main Draw,LIN Ye (CAN),MAI Trang (VIE)
-Asian Games Jakarta 2018,2018-08-18,YU Mengyu,NGUYEN Khanh,3,0,"11,11,11|9,8,4",GROUP,OTHER,WT,891,Main Draw,YU Mengyu (SGP),NGUYEN Khanh (VIE)
-Asian Games Jakarta 2018,2018-08-18,SOO Wai Yam,MAHARJAN Rabina,3,0,"11,11,11|6,1,1",GROUP,OTHER,WT,891,Main Draw,MAHARJAN Rabina (NEP),SOO Wai Yam (HKG)
-Asian Games Jakarta 2018,2018-08-18,NG Wing Nam,NEMBANG Swechchha,3,0,"11,11,11|4,2,4",GROUP,OTHER,WT,891,Main Draw,NEMBANG Swechchha (NEP),NG Wing Nam (HKG)
-Asian Games Jakarta 2018,2018-08-18,LI Ching Wan,SHRESTHA Nabita,3,0,"11,11,11|7,3,8",GROUP,OTHER,WT,891,Main Draw,SHRESTHA Nabita (NEP),LI Ching Wan (HKG)
-Asian Games Jakarta 2018,2018-08-18,HO Ying,GIANG Phan Hoang Tuong,3,0,"12,11,11|10,9,2",GROUP,OTHER,WT,891,Main Draw,GIANG Phan Hoang Tuong (VIE),HO Ying (MAS)
-Asian Games Jakarta 2018,2018-08-18,NGUYEN Thi Nga,CHANG Li Sian,3,1,"11,6,11,11|9,11,9,8",GROUP,OTHER,WT,891,Main Draw,NGUYEN Thi Nga (VIE),CHANG Li Sian (MAS)
-Asian Games Jakarta 2018,2018-08-18,MAI Trang,LYNE Karen,3,2,"6,8,11,11,11|11,11,4,7,3",GROUP,OTHER,WT,891,Main Draw,MAI Trang (VIE),LYNE Karen (MAS)
-Asian Games Jakarta 2018,2018-08-18,CHANG Li Sian,GIANG Phan Hoang Tuong,3,1,"11,9,13,11|5,11,11,7",GROUP,OTHER,WT,891,Main Draw,GIANG Phan Hoang Tuong (VIE),CHANG Li Sian (MAS)
-Asian Games Jakarta 2018,2018-08-18,HO Ying,NGUYEN Thi Nga,3,1,"11,11,7,12|5,7,11,10",GROUP,OTHER,WT,891,Main Draw,NGUYEN Thi Nga (VIE),HO Ying (MAS)
-Asian Games Jakarta 2018,2018-08-18,DOO Hoi Kem,FENG Tianwei,3,1,"6,11,14,11|11,9,12,7",GROUP,OTHER,WT,891,Main Draw,FENG Tianwei (SGP),DOO Hoi Kem (HKG)
-Asian Games Jakarta 2018,2018-08-18,YU Mengyu,SOO Wai Yam,3,1,"11,11,7,11|8,3,11,4",GROUP,OTHER,WT,891,Main Draw,YU Mengyu (SGP),SOO Wai Yam (HKG)
-Asian Games Jakarta 2018,2018-08-18,DOO Hoi Kem,LIN Ye,3,2,"10,11,11,7,11|12,2,5,11,8",GROUP,OTHER,WT,891,Main Draw,LIN Ye (CAN),DOO Hoi Kem (HKG)
-Asian Games Jakarta 2018,2018-08-18,LEE Ho Ching,FENG Tianwei,3,2,"14,9,11,6,11|12,11,7,11,8",GROUP,OTHER,WT,891,Main Draw,FENG Tianwei (SGP),LEE Ho Ching (HKG)
-Asian Games Jakarta 2018,2018-08-18,CHENG Hsien-Tzu,HAWWA Kharisma Nur,3,0,"11,11,11|5,7,9",GROUP,OTHER,WT,891,Main Draw,HAWWA Kharisma Nur (INA),CHENG Hsien-Tzu (TPE)
-Asian Games Jakarta 2018,2018-08-18,SINTYA Rina,LIN Chia-Hui,3,1,"11,11,9,11|9,9,11,9",GROUP,OTHER,WT,891,Main Draw,SINTYA Rina (INA),LIN Chia-Hui (TPE)
-Asian Games Jakarta 2018,2018-08-18,CHENG Hsien-Tzu,RAHAYU Atikah,3,0,"11,11,11|3,5,5",GROUP,OTHER,WT,891,Main Draw,RAHAYU Atikah (INA),CHENG Hsien-Tzu (TPE)
-Asian Games Jakarta 2018,2018-08-18,CHEN Szu-Yu,HAWWA Kharisma Nur,3,0,"11,11,11|9,4,7",GROUP,OTHER,WT,891,Main Draw,HAWWA Kharisma Nur (INA),CHEN Szu-Yu (TPE)
-Asian Games Jakarta 2018,2018-08-18,KIM Jiho,CHONG Weng I,3,0,"11,11,11|1,4,2",GROUP,OTHER,WT,891,Main Draw,KIM Jiho (KOR),CHONG Weng I (MAC)
-Asian Games Jakarta 2018,2018-08-18,CHOI Hyojoo,WONG Choi Chi,3,0,"11,11,11|3,2,7",GROUP,OTHER,WT,891,Main Draw,CHOI Hyojoo (KOR),WONG Choi Chi (MAC)
-Asian Games Jakarta 2018,2018-08-18,SUH Hyo Won,U Sio Mei,3,0,"11,11,11|3,5,7",GROUP,OTHER,WT,891,Main Draw,SUH Hyo Won (KOR),U Sio Mei (MAC)
-Asian Games Jakarta 2018,2018-08-18,KIM Song I,SAWETTABUT Suthasini,3,1,"11,8,11,11|3,11,2,3",GROUP,OTHER,WT,891,Main Draw,KIM Song I (PRK),SAWETTABUT Suthasini (THA)
-Asian Games Jakarta 2018,2018-08-18,KIM Nam Hae,KHETKHUAN Tamolwan,3,2,"12,11,9,11,11|10,5,11,13,7",GROUP,OTHER,WT,891,Main Draw,KIM Nam Hae (PRK),KHETKHUAN Tamolwan (THA)
-Asian Games Jakarta 2018,2018-08-18,SAWETTABUT Suthasini,CHA Hyo Sim,3,2,"6,11,6,12,11|11,8,11,10,9",GROUP,OTHER,WT,891,Main Draw,CHA Hyo Sim (PRK),SAWETTABUT Suthasini (THA)
-Asian Games Jakarta 2018,2018-08-18,KIM Song I,PARANANG Orawan,3,0,"11,11,11|2,5,7",GROUP,OTHER,WT,891,Main Draw,KIM Song I (PRK),PARANANG Orawan (THA)
-Asian Games Jakarta 2018,2018-08-18,MORIZONO Misaki,BATBAYAR Doljinzuu,3,0,"11,11,11|3,6,7",GROUP,OTHER,WT,891,Main Draw,BATBAYAR Doljinzuu (MGL),MORIZONO Misaki (JPN)
-Asian Games Jakarta 2018,2018-08-18,KATO Miyu,MUNKHBAT Undram,3,0,"11,11,11|4,4,6",GROUP,OTHER,WT,891,Main Draw,MUNKHBAT Undram (MGL),KATO Miyu (JPN)
-Asian Games Jakarta 2018,2018-08-18,ANDO Minami,BATMUNKH Bolor-Erdene,3,0,"11,11,11|3,3,6",GROUP,OTHER,WT,891,Main Draw,BATMUNKH Bolor-Erdene (MGL),ANDO Minami (JPN)
-Asian Games Jakarta 2018,2018-08-18,BATRA Manika,SHAHSAVARI Neda,3,2,"11,5,12,14,11|7,11,14,12,1",GROUP,OTHER,WT,891,Main Draw,BATRA Manika (IND),SHAHSAVARI Neda (IRI)
-Asian Games Jakarta 2018,2018-08-18,DAS Mouma,SAMET Maryam,3,0,"11,11,11|7,8,7",GROUP,OTHER,WT,891,Main Draw,DAS Mouma (IND),SAMET Maryam (IRI)
-Asian Games Jakarta 2018,2018-08-18,SHAHSAVARI Neda,MUKHERJEE Ayhika,3,2,"12,9,11,4,11|10,11,9,11,5",GROUP,OTHER,WT,891,Main Draw,MUKHERJEE Ayhika (IND),SHAHSAVARI Neda (IRI)
-Asian Games Jakarta 2018,2018-08-18,BATRA Manika,ASHTARI Mahshid,3,0,"11,11,11|6,4,3",GROUP,OTHER,WT,891,Main Draw,BATRA Manika (IND),ASHTARI Mahshid (IRI)
-Asian Games Jakarta 2018,2018-08-18,CHEN Xingtong,FARAMARZI Maha,3,0,"11,11,11|1,3,1",GROUP,OTHER,WT,891,Main Draw,FARAMARZI Maha (QAT),CHEN Xingtong (CHN)
-Asian Games Jakarta 2018,2018-08-18,SUN Yingsha,ALI Maryam,3,0,"11,11,11|1,1,1",GROUP,OTHER,WT,891,Main Draw,ALI Maryam (QAT),SUN Yingsha (CHN)
-Asian Games Jakarta 2018,2018-08-18,WANG Manyu,MOHAMED Aia,3,0,"11,11,11|3,2,5",GROUP,OTHER,WT,891,Main Draw,MOHAMED Aia (QAT),WANG Manyu (CHN)
-Asian Games Jakarta 2018,2018-08-18,LIN Ye,MAHARJAN Rabina,3,0,"11,11,11|2,3,5",GROUP,OTHER,WT,891,Main Draw,LIN Ye (CAN),MAHARJAN Rabina (NEP)
-Asian Games Jakarta 2018,2018-08-18,YU Mengyu,SHRESTHA Nabita,3,1,"11,11,8,11|3,2,11,6",GROUP,OTHER,WT,891,Main Draw,YU Mengyu (SGP),SHRESTHA Nabita (NEP)
-Asian Games Jakarta 2018,2018-08-18,FENG Tianwei,NEMBANG Swechchha,3,0,"11,11,11|3,6,4",GROUP,OTHER,WT,891,Main Draw,FENG Tianwei (SGP),NEMBANG Swechchha (NEP)
-Asian Games Jakarta 2018,2018-08-18,LEE Ho Ching,HO Ying,3,0,"11,11,11|9,3,7",GROUP,OTHER,WT,891,Main Draw,HO Ying (MAS),LEE Ho Ching (HKG)
-Asian Games Jakarta 2018,2018-08-18,DOO Hoi Kem,LYNE Karen,3,0,"11,11,11|8,8,4",GROUP,OTHER,WT,891,Main Draw,LYNE Karen (MAS),DOO Hoi Kem (HKG)
-Asian Games Jakarta 2018,2018-08-18,SOO Wai Yam,CHANG Li Sian,3,0,"11,11,11|2,7,5",GROUP,OTHER,WT,891,Main Draw,CHANG Li Sian (MAS),SOO Wai Yam (HKG)
-Asian Games Jakarta 2018,2018-08-18,INDRIANI Lilis,CHEONG Cheng I,3,2,"9,11,9,11,11|11,3,11,8,9",GROUP,OTHER,WT,891,Main Draw,INDRIANI Lilis (INA),CHEONG Cheng I (MAC)
-Asian Games Jakarta 2018,2018-08-18,HAWWA Kharisma Nur,WONG Choi Chi,3,1,"11,11,2,11|7,5,11,9",GROUP,OTHER,WT,891,Main Draw,HAWWA Kharisma Nur (INA),WONG Choi Chi (MAC)
-Asian Games Jakarta 2018,2018-08-18,SINTYA Rina,CHONG Weng I,3,0,"11,11,11|7,9,4",GROUP,OTHER,WT,891,Main Draw,SINTYA Rina (INA),CHONG Weng I (MAC)
-Asian Games Jakarta 2018,2018-08-18,JEON Jihee,CHENG I-Ching,3,1,"11,11,11,11|13,8,8,5",GROUP,OTHER,WT,891,Main Draw,CHENG I-Ching (TPE),JEON Jihee (KOR)
-Asian Games Jakarta 2018,2018-08-18,YANG Ha Eun,LIU Hsing-Yin,3,0,"11,11,11|6,9,9",GROUP,OTHER,WT,891,Main Draw,LIU Hsing-Yin (TPE),YANG Ha Eun (KOR)
-Asian Games Jakarta 2018,2018-08-18,JEON Jihee,CHEN Szu-Yu,3,2,"5,11,11,7,11|11,7,6,11,5",GROUP,OTHER,WT,891,Main Draw,CHEN Szu-Yu (TPE),JEON Jihee (KOR)
-Asian Games Jakarta 2018,2018-08-18,CHENG I-Ching,SUH Hyo Won,3,1,"11,7,11,15|3,11,8,13",GROUP,OTHER,WT,891,Main Draw,CHENG I-Ching (TPE),SUH Hyo Won (KOR)
-Asian Games Jakarta 2018,2018-08-18,PARANANG Orawan,BATMUNKH Bolor-Erdene,3,0,"11,11,14|4,5,12",GROUP,OTHER,WT,891,Main Draw,BATMUNKH Bolor-Erdene (MGL),PARANANG Orawan (THA)
-Asian Games Jakarta 2018,2018-08-18,SAWETTABUT Suthasini,BATBAYAR Doljinzuu,3,0,"11,11,11|3,4,6",GROUP,OTHER,WT,891,Main Draw,BATBAYAR Doljinzuu (MGL),SAWETTABUT Suthasini (THA)
-Asian Games Jakarta 2018,2018-08-18,KHETKHUAN Tamolwan,MUNKHBAT Undram,3,0,"11,11,11|6,7,1",GROUP,OTHER,WT,891,Main Draw,MUNKHBAT Undram (MGL),KHETKHUAN Tamolwan (THA)
-Asian Games Jakarta 2018,2018-08-18,CHA Hyo Sim,ANDO Minami,3,1,"11,12,7,12|4,10,11,10",GROUP,OTHER,WT,891,Main Draw,ANDO Minami (JPN),CHA Hyo Sim (PRK)
-Asian Games Jakarta 2018,2018-08-18,KIM Song I,KATO Miyu,3,2,"11,11,4,6,11|8,4,11,11,9",GROUP,OTHER,WT,891,Main Draw,KATO Miyu (JPN),KIM Song I (PRK)
-Asian Games Jakarta 2018,2018-08-18,KIM Nam Hae,MAEDA Miyu,3,2,"11,11,14,6,11|8,8,16,11,5",GROUP,OTHER,WT,891,Main Draw,MAEDA Miyu (JPN),KIM Nam Hae (PRK)
-Asian Games Jakarta 2018,2018-08-18,ANDO Minami,KIM Song I,3,1,"4,11,11,11|11,6,9,7",GROUP,OTHER,WT,891,Main Draw,ANDO Minami (JPN),KIM Song I (PRK)
-Asian Games Jakarta 2018,2018-08-18,KATO Miyu,CHA Hyo Sim,3,1,"7,11,13,14|11,2,11,12",GROUP,OTHER,WT,891,Main Draw,KATO Miyu (JPN),CHA Hyo Sim (PRK)
-Asian Games Jakarta 2018,2018-08-18,SAFARI Saba,FARAMARZI Maha,3,1,"13,9,11,11|11,11,8,1",GROUP,OTHER,WT,891,Main Draw,FARAMARZI Maha (QAT),SAFARI Saba (IRI)
-Asian Games Jakarta 2018,2018-08-18,SHAHSAVARI Neda,ALI Maha,3,0,"11,11,11|4,3,3",GROUP,OTHER,WT,891,Main Draw,ALI Maha (QAT),SHAHSAVARI Neda (IRI)
-Asian Games Jakarta 2018,2018-08-18,ASHTARI Mahshid,MOHAMED Aia,3,0,"11,11,11|3,7,2",GROUP,OTHER,WT,891,Main Draw,MOHAMED Aia (QAT),ASHTARI Mahshid (IRI)
-Asian Games Jakarta 2018,2018-08-18,WANG Manyu,PATKAR Madhurika,3,0,"11,11,11|4,4,2",GROUP,OTHER,WT,891,Main Draw,PATKAR Madhurika (IND),WANG Manyu (CHN)
-Asian Games Jakarta 2018,2018-08-18,ZHU Yuling,BATRA Manika,3,0,"11,11,12|5,6,10",GROUP,OTHER,WT,891,Main Draw,BATRA Manika (IND),ZHU Yuling (MAC)
-Asian Games Jakarta 2018,2018-08-18,CHEN Meng,MUKHERJEE Ayhika,3,1,"11,8,14,11|8,11,12,9",GROUP,OTHER,WT,891,Main Draw,MUKHERJEE Ayhika (IND),CHEN Meng (CHN)
-Asian Games Jakarta 2018,2018-08-18,LYNE Karen,MAHARJAN Rabina,3,1,"11,11,12,11|4,5,14,4",GROUP,OTHER,WT,891,Main Draw,LYNE Karen (MAS),MAHARJAN Rabina (NEP)
-Asian Games Jakarta 2018,2018-08-18,CHANG Li Sian,SHRESTHA Nabita,3,0,"14,11,11|12,9,5",GROUP,OTHER,WT,891,Main Draw,CHANG Li Sian (MAS),SHRESTHA Nabita (NEP)
-Asian Games Jakarta 2018,2018-08-18,HO Ying,NEMBANG Swechchha,3,0,"11,11,13|8,2,11",GROUP,OTHER,WT,891,Main Draw,HO Ying (MAS),NEMBANG Swechchha (NEP)
-Asian Games Jakarta 2018,2018-08-18,LEE Ho Ching,NGUYEN Khanh,3,0,"11,11,11|4,3,6",GROUP,OTHER,WT,891,Main Draw,NGUYEN Khanh (VIE),LEE Ho Ching (HKG)
-Asian Games Jakarta 2018,2018-08-18,DOO Hoi Kem,NGUYEN Thi Nga,3,0,"11,11,11|3,1,5",GROUP,OTHER,WT,891,Main Draw,NGUYEN Thi Nga (VIE),DOO Hoi Kem (HKG)
-Asian Games Jakarta 2018,2018-08-18,SOO Wai Yam,MAI Trang,3,0,"11,11,11|9,5,5",GROUP,OTHER,WT,891,Main Draw,MAI Trang (VIE),SOO Wai Yam (HKG)
-Asian Games Jakarta 2018,2018-08-18,CHEN Szu-Yu,TAM Sut Fei,3,0,"11,11,11|3,3,3",GROUP,OTHER,WT,891,Main Draw,CHEN Szu-Yu (TPE),TAM Sut Fei (MAC)
-Asian Games Jakarta 2018,2018-08-18,LIU Hsing-Yin,CHEONG Cheng I,3,0,"11,11,11|5,5,9",GROUP,OTHER,WT,891,Main Draw,LIU Hsing-Yin (TPE),CHEONG Cheng I (MAC)
-Asian Games Jakarta 2018,2018-08-18,CHENG I-Ching,WONG Choi Chi,3,0,"11,11,12|6,3,10",GROUP,OTHER,WT,891,Main Draw,CHENG I-Ching (TPE),WONG Choi Chi (MAC)
-Asian Games Jakarta 2018,2018-08-18,YANG Ha Eun,DWIJAYANTI Gustin,3,0,"11,11,11|6,7,7",GROUP,OTHER,WT,891,Main Draw,YANG Ha Eun (KOR),DWIJAYANTI Gustin (INA)
-Asian Games Jakarta 2018,2018-08-18,JEON Jihee,SINTYA Rina,3,0,"12,11,11|10,6,5",GROUP,OTHER,WT,891,Main Draw,JEON Jihee (KOR),SINTYA Rina (INA)
-Asian Games Jakarta 2018,2018-08-18,SUH Hyo Won,HAWWA Kharisma Nur,3,0,"11,11,11|7,5,8",GROUP,OTHER,WT,891,Main Draw,SUH Hyo Won (KOR),HAWWA Kharisma Nur (INA)
-Asian Games Jakarta 2018,2018-08-18,KIM Nam Hae,MUNKHBAT Undram,3,0,"11,11,11|1,5,4",GROUP,OTHER,WT,891,Main Draw,KIM Nam Hae (PRK),MUNKHBAT Undram (MGL)
-Asian Games Jakarta 2018,2018-08-18,CHA Hyo Sim,BATBAYAR Doljinzuu,3,0,"11,11,11|0,4,6",GROUP,OTHER,WT,891,Main Draw,CHA Hyo Sim (PRK),BATBAYAR Doljinzuu (MGL)
-Asian Games Jakarta 2018,2018-08-18,KIM Song I,BATMUNKH Bolor-Erdene,3,0,"11,11,11|4,2,2",GROUP,OTHER,WT,891,Main Draw,KIM Song I (PRK),BATMUNKH Bolor-Erdene (MGL)
-Asian Games Jakarta 2018,2018-08-18,MAEDA Miyu,KOMWONG Nanthana,3,0,"11,11,11|8,5,4",GROUP,OTHER,WT,891,Main Draw,KOMWONG Nanthana (THA),MAEDA Miyu (JPN)
-Asian Games Jakarta 2018,2018-08-18,KATO Miyu,PARANANG Orawan,3,1,"11,14,11,12|6,16,7,10",GROUP,OTHER,WT,891,Main Draw,PARANANG Orawan (THA),KATO Miyu (JPN)
-Asian Games Jakarta 2018,2018-08-18,ANDO Minami,SAWETTABUT Suthasini,3,0,"11,11,11|7,9,7",GROUP,OTHER,WT,891,Main Draw,SAWETTABUT Suthasini (THA),ANDO Minami (JPN)
-Asian Games Jakarta 2018,2018-08-18,MUKHERJEE Sutirtha,FARAMARZI Maha,3,0,"11,11,11|3,3,6",GROUP,OTHER,WT,891,Main Draw,MUKHERJEE Sutirtha (IND),FARAMARZI Maha (QAT)
-Asian Games Jakarta 2018,2018-08-18,MUKHERJEE Ayhika,MOHAMED Aia,3,1,"11,10,11,11|2,12,2,3",GROUP,OTHER,WT,891,Main Draw,MUKHERJEE Ayhika (IND),MOHAMED Aia (QAT)
-Asian Games Jakarta 2018,2018-08-18,DAS Mouma,ALI Maha,3,0,"11,11,11|3,2,4",GROUP,OTHER,WT,891,Main Draw,DAS Mouma (IND),ALI Maha (QAT)
-Asian Games Jakarta 2018,2018-08-18,SUN Yingsha,SAMET Maryam,3,0,"11,11,11|4,7,1",GROUP,OTHER,WT,891,Main Draw,SAMET Maryam (IRI),SUN Yingsha (CHN)
-Asian Games Jakarta 2018,2018-08-18,CHEN Xingtong,SHAHSAVARI Neda,3,0,"11,11,11|3,8,9",GROUP,OTHER,WT,891,Main Draw,SHAHSAVARI Neda (IRI),CHEN Xingtong (CHN)
-Asian Games Jakarta 2018,2018-08-18,CHEN Meng,ASHTARI Mahshid,3,0,"11,11,11|5,4,3",GROUP,OTHER,WT,891,Main Draw,ASHTARI Mahshid (IRI),CHEN Meng (CHN)
-Asian Games Jakarta 2018,2018-08-18,WANG Chuqin,JANG Woojin,3,1,"13,7,11,11|11,11,9,6",F,OTHER,MT,891,Main Draw,JANG Woojin (KOR),WANG Chuqin (CHN)
-Asian Games Jakarta 2018,2018-08-18,FAN Zhendong,JEOUNG Youngsik,3,1,"10,11,11,11|12,8,8,7",F,OTHER,MT,891,Main Draw,JEOUNG Youngsik (KOR),FAN Zhendong (CHN)
-Asian Games Jakarta 2018,2018-08-18,LIN Gaoyuan,LEE Sang Su,3,0,"11,11,11|3,3,2",F,OTHER,MT,891,Main Draw,LEE Sang Su (KOR),LIN Gaoyuan (CHN)
-Asian Games Jakarta 2018,2018-08-18,JANG Woojin,ANTHONY Amalraj,3,1,"11,11,4,11|5,7,11,7",SF,OTHER,MT,891,Main Draw,JANG Woojin (KOR),ANTHONY Amalraj (IND)
-Asian Games Jakarta 2018,2018-08-18,JEOUNG Youngsik,ACHANTA Sharath,3,2,"11,11,6,7,11|9,9,11,11,8",SF,OTHER,MT,891,Main Draw,JEOUNG Youngsik (KOR),ACHANTA Sharath (IND)
-Asian Games Jakarta 2018,2018-08-18,LEE Sang Su,GNANASEKARAN Sathiyan,3,1,"9,11,11,11|11,9,3,3",SF,OTHER,MT,891,Main Draw,LEE Sang Su (KOR),GNANASEKARAN Sathiyan (IND)
-Asian Games Jakarta 2018,2018-08-18,FAN Zhendong,CHUANG Chih-Yuan,3,0,"11,12,11|4,10,4",SF,OTHER,MT,891,Main Draw,CHUANG Chih-Yuan (TPE),FAN Zhendong (CHN)
-Asian Games Jakarta 2018,2018-08-18,LIN Yun-Ju,WANG Chuqin,3,1,"11,14,3,11|9,12,11,9",SF,OTHER,MT,891,Main Draw,LIN Yun-Ju (TPE),WANG Chuqin (CHN)
-Asian Games Jakarta 2018,2018-08-18,FAN Zhendong,CHEN Chien-An,3,0,"11,11,12|9,8,10",SF,OTHER,MT,891,Main Draw,CHEN Chien-An (TPE),FAN Zhendong (CHN)
-Asian Games Jakarta 2018,2018-08-18,LIN Gaoyuan,CHUANG Chih-Yuan,3,0,"11,11,11|6,8,3",SF,OTHER,MT,891,Main Draw,CHUANG Chih-Yuan (TPE),LIN Gaoyuan (CHN)
-Asian Games Jakarta 2018,2018-08-18,GNANASEKARAN Sathiyan,MATSUDAIRA Kenta,3,1,"12,6,11,11|10,11,7,4",QF,OTHER,MT,891,Main Draw,GNANASEKARAN Sathiyan (IND),MATSUDAIRA Kenta (JPN)
-Asian Games Jakarta 2018,2018-08-18,YOSHIDA Masaki,DESAI Harmeet,3,2,"9,14,8,11,11|11,12,11,8,4",QF,OTHER,MT,891,Main Draw,DESAI Harmeet (IND),YOSHIDA Masaki (JPN)
-Asian Games Jakarta 2018,2018-08-18,ACHANTA Sharath,MATSUDAIRA Kenta,3,0,"11,12,11|8,10,8",QF,OTHER,MT,891,Main Draw,ACHANTA Sharath (IND),MATSUDAIRA Kenta (JPN)
-Asian Games Jakarta 2018,2018-08-18,GNANASEKARAN Sathiyan,UEDA Jin,3,0,"11,11,11|9,9,7",QF,OTHER,MT,891,Main Draw,GNANASEKARAN Sathiyan (IND),UEDA Jin (JPN)
-Asian Games Jakarta 2018,2018-08-18,JEOUNG Youngsik,AN Ji Song,3,1,"8,11,11,11|11,4,6,6",QF,OTHER,MT,891,Main Draw,JEOUNG Youngsik (KOR),AN Ji Song (PRK)
-Asian Games Jakarta 2018,2018-08-18,PAK Sin Hyok,LEE Sang Su,3,1,"11,11,6,13|6,7,11,11",QF,OTHER,MT,891,Main Draw,LEE Sang Su (KOR),PAK Sin Hyok (PRK)
-Asian Games Jakarta 2018,2018-08-18,JANG Woojin,HAM Yu Song,3,0,"11,11,11|4,7,7",QF,OTHER,MT,891,Main Draw,JANG Woojin (KOR),HAM Yu Song (PRK)
-Asian Games Jakarta 2018,2018-08-18,JEOUNG Youngsik,PAK Sin Hyok,3,0,"11,14,11|7,12,7",QF,OTHER,MT,891,Main Draw,JEOUNG Youngsik (KOR),PAK Sin Hyok (PRK)
-Asian Games Jakarta 2018,2018-08-18,AN Ji Song,LEE Sang Su,3,2,"11,11,4,7,11|8,9,11,11,9",QF,OTHER,MT,891,Main Draw,LEE Sang Su (KOR),AN Ji Song (PRK)
-Asian Games Jakarta 2018,2018-08-18,LIN Yun-Ju,AHMADIAN Amin,3,0,"11,11,11|8,9,7",QF,OTHER,MT,891,Main Draw,AHMADIAN Amin (IRI),LIN Yun-Ju (TPE)
-Asian Games Jakarta 2018,2018-08-18,CHUANG Chih-Yuan,ALAMIAN Nima,3,1,"11,7,11,11|7,11,8,6",QF,OTHER,MT,891,Main Draw,ALAMIAN Nima (IRI),CHUANG Chih-Yuan (TPE)
-Asian Games Jakarta 2018,2018-08-18,CHEN Chien-An,ALAMIYAN Noshad,3,0,"11,11,11|8,3,6",QF,OTHER,MT,891,Main Draw,ALAMIYAN Noshad (IRI),CHEN Chien-An (TPE)
-Asian Games Jakarta 2018,2018-08-18,LIANG Jingkun,LAM Siu Hang,3,0,"11,11,11|7,2,9",QF,OTHER,MT,891,Main Draw,LIANG Jingkun (CHN),LAM Siu Hang (HKG)
-Asian Games Jakarta 2018,2018-08-18,LIN Gaoyuan,WONG Chun Ting,3,0,"11,11,11|9,4,9",QF,OTHER,MT,891,Main Draw,LIN Gaoyuan (CHN),WONG Chun Ting (HKG)
-Asian Games Jakarta 2018,2018-08-18,FAN Zhendong,HO Kwan Kit,3,0,"11,11,11|5,1,8",QF,OTHER,MT,891,Main Draw,FAN Zhendong (CHN),HO Kwan Kit (HKG)
-Asian Games Jakarta 2018,2018-08-18,DESAI Harmeet,LE Dinh Duc,3,1,"2,12,11,11|11,10,9,8",GROUP,OTHER,MT,891,Main Draw,LE Dinh Duc (VIE),DESAI Harmeet (IND)
-Asian Games Jakarta 2018,2018-08-18,ACHANTA Sharath,NGUYEN Duc Tuan,3,0,"11,11,11|7,7,5",GROUP,OTHER,MT,891,Main Draw,NGUYEN Duc Tuan (VIE),ACHANTA Sharath (IND)
-Asian Games Jakarta 2018,2018-08-18,GNANASEKARAN Sathiyan,NGUYEN Anh Tu,3,2,"6,11,5,11,11|11,2,11,4,2",GROUP,OTHER,MT,891,Main Draw,NGUYEN Anh Tu (VIE),GNANASEKARAN Sathiyan (IND)
-Asian Games Jakarta 2018,2018-08-18,CHEONG Chi Cheng,ALBALUSHI Salah,3,0,"11,11,11|6,4,9",GROUP,OTHER,MT,891,Main Draw,ALBALUSHI Salah (UAE),CHEONG Chi Cheng (MAC)
-Asian Games Jakarta 2018,2018-08-18,ALBALOOSHI Abdulla,MAK Tin Ian,3,2,"11,10,11,6,11|7,12,8,11,6",GROUP,OTHER,MT,891,Main Draw,ALBALOOSHI Abdulla (UAE),MAK Tin Ian (MAC)
-Asian Games Jakarta 2018,2018-08-18,CHEONG Chi Cheng,ALBLOOSHI Essa,3,0,"11,13,12|9,11,10",GROUP,OTHER,MT,891,Main Draw,ALBLOOSHI Essa (UAE),CHEONG Chi Cheng (MAC)
-Asian Games Jakarta 2018,2018-08-18,XIAO Zikang,ALBALUSHI Salah,3,0,"11,11,11|5,9,8",GROUP,OTHER,MT,891,Main Draw,ALBALUSHI Salah (UAE),XIAO Zikang (MAC)
-Asian Games Jakarta 2018,2018-08-18,LAM Siu Hang,AJI Donny,3,0,"11,11,11|6,3,9",GROUP,OTHER,MT,891,Main Draw,AJI Donny (INA),LAM Siu Hang (HKG)
-Asian Games Jakarta 2018,2018-08-18,WONG Chun Ting,NEGARA Muhammad,3,1,"11,9,11,11|4,11,2,4",GROUP,OTHER,MT,891,Main Draw,NEGARA Muhammad (INA),WONG Chun Ting (HKG)
-Asian Games Jakarta 2018,2018-08-18,HO Kwan Kit,SANTOSO Ficky,3,0,"11,11,11|5,8,8",GROUP,OTHER,MT,891,Main Draw,SANTOSO Ficky (INA),HO Kwan Kit (HKG)
-Asian Games Jakarta 2018,2018-08-18,CHINBAT Erdenebayar,AL-MAHAQERI Taha,3,2,"11,8,11,6,11|3,11,6,11,2",GROUP,OTHER,MT,891,Main Draw,CHINBAT Erdenebayar (MGL),AL-MAHAQERI Taha (YEM)
-Asian Games Jakarta 2018,2018-08-18,ENKHBAT Lkhagvasuren,AL-DHUBHANI Muneer,3,2,"11,14,9,6,11|8,12,11,11,4",GROUP,OTHER,MT,891,Main Draw,ENKHBAT Lkhagvasuren (MGL),AL-DHUBHANI Muneer (YEM)
-Asian Games Jakarta 2018,2018-08-18,BATKHISHIG Bilegt,ALI Omar,3,1,"8,12,12,11|11,10,10,4",GROUP,OTHER,MT,891,Main Draw,BATKHISHIG Bilegt (MGL),ALI Omar (YEM)
-Asian Games Jakarta 2018,2018-08-18,ALAMIAN Nima,WISUTMAYTHANGKOON Supanut,3,2,"5,11,11,9,11|11,7,5,11,3",GROUP,OTHER,MT,891,Main Draw,WISUTMAYTHANGKOON Supanut (THA),ALAMIAN Nima (IRI)
-Asian Games Jakarta 2018,2018-08-18,PASSARA Pattaratorn,NOROOZI Afshin,3,2,"6,9,11,11,12|11,11,5,8,10",GROUP,OTHER,MT,891,Main Draw,PASSARA Pattaratorn (THA),NOROOZI Afshin (IRI)
-Asian Games Jakarta 2018,2018-08-18,ALAMIAN Nima,TANVIRIYAVECHAKUL Padasak,3,0,"11,13,11|8,11,5",GROUP,OTHER,MT,891,Main Draw,TANVIRIYAVECHAKUL Padasak (THA),ALAMIAN Nima (IRI)
-Asian Games Jakarta 2018,2018-08-18,ALAMIYAN Noshad,WISUTMAYTHANGKOON Supanut,3,2,"8,11,9,11,11|11,5,11,7,5",GROUP,OTHER,MT,891,Main Draw,WISUTMAYTHANGKOON Supanut (THA),ALAMIYAN Noshad (IRI)
-Asian Games Jakarta 2018,2018-08-18,IAKUPBAEV Alisher,AHMED Moosa,3,0,"11,11,11|9,6,9",GROUP,OTHER,MT,891,Main Draw,AHMED Moosa (MDV),IAKUPBAEV Alisher (KGZ)
-Asian Games Jakarta 2018,2018-08-18,SHAFFAN Mohamed,KYDYRBAEV Aziz,3,2,"7,11,7,11,11|11,9,11,3,4",GROUP,OTHER,MT,891,Main Draw,SHAFFAN Mohamed (MDV),KYDYRBAEV Aziz (KGZ)
-Asian Games Jakarta 2018,2018-08-18,IAKUPBAEV Alisher,NASEEM Mohamed,3,0,"11,11,11|8,4,7",GROUP,OTHER,MT,891,Main Draw,NASEEM Mohamed (MDV),IAKUPBAEV Alisher (KGZ)
-Asian Games Jakarta 2018,2018-08-18,SAGYNDYKOV Talgat,AHMED Moosa,3,1,"9,11,11,11|11,8,9,5",GROUP,OTHER,MT,891,Main Draw,AHMED Moosa (MDV),SAGYNDYKOV Talgat (KGZ)
-Asian Games Jakarta 2018,2018-08-18,HAM Yu Song,CHOONG Javen,3,2,"8,11,11,4,11|11,4,8,11,2",GROUP,OTHER,MT,891,Main Draw,CHOONG Javen (MAS),HAM Yu Song (PRK)
-Asian Games Jakarta 2018,2018-08-18,AN Ji Song,HAIQAL Muhamad Ashraf,3,1,"7,12,11,11|11,10,9,7",GROUP,OTHER,MT,891,Main Draw,HAIQAL Muhamad Ashraf (MAS),AN Ji Song (PRK)
-Asian Games Jakarta 2018,2018-08-18,PAK Sin Hyok,LEONG Chee Feng,3,0,"11,11,11|6,9,7",GROUP,OTHER,MT,891,Main Draw,LEONG Chee Feng (MAS),PAK Sin Hyok (PRK)
-Asian Games Jakarta 2018,2018-08-18,MALLA Amar,MOSANGSINH Sonpasith,3,2,"9,11,11,9,11|11,9,6,11,3",GROUP,OTHER,MT,891,Main Draw,MALLA Amar (NEP),MOSANGSINH Sonpasith (LAO)
-Asian Games Jakarta 2018,2018-08-18,VONGDALASINH Seng,SAUN Deep,3,1,"11,8,11,11|8,11,9,6",GROUP,OTHER,MT,891,Main Draw,SAUN Deep (NEP),VONGDALASINH Seng (LAO)
-Asian Games Jakarta 2018,2018-08-18,SHRESTHA Santoo,MOSANGSINH Sonpasith,3,0,"11,11,11|6,3,9",GROUP,OTHER,MT,891,Main Draw,SHRESTHA Santoo (NEP),MOSANGSINH Sonpasith (LAO)
-Asian Games Jakarta 2018,2018-08-18,MALLA Amar,SATHATHONE Duangtavane,3,1,"8,11,11,11|11,7,4,7",GROUP,OTHER,MT,891,Main Draw,MALLA Amar (NEP),SATHATHONE Duangtavane (LAO)
-Asian Games Jakarta 2018,2018-08-18,THAKKAR Manav,MAK Tin Ian,3,0,"11,11,11|5,4,4",GROUP,OTHER,MT,891,Main Draw,MAK Tin Ian (MAC),THAKKAR Manav (IND)
-Asian Games Jakarta 2018,2018-08-18,DESAI Harmeet,XIAO Zikang,3,1,"11,11,8,11|4,8,11,3",GROUP,OTHER,MT,891,Main Draw,XIAO Zikang (MAC),DESAI Harmeet (IND)
-Asian Games Jakarta 2018,2018-08-18,ANTHONY Amalraj,WANG Chun,3,0,"11,11,11|7,3,4",GROUP,OTHER,MT,891,Main Draw,WANG Chun (MAC),ANTHONY Amalraj (IND)
-Asian Games Jakarta 2018,2018-08-18,LEE Chia-Sheng,ALBLOOSHI Essa,3,0,"11,11,11|3,3,4",GROUP,OTHER,MT,891,Main Draw,LEE Chia-Sheng (TPE),ALBLOOSHI Essa (UAE)
-Asian Games Jakarta 2018,2018-08-18,LIAO Cheng-Ting,ALBALOOSHI Abdulla,3,0,"11,11,11|1,7,6",GROUP,OTHER,MT,891,Main Draw,LIAO Cheng-Ting (TPE),ALBALOOSHI Abdulla (UAE)
-Asian Games Jakarta 2018,2018-08-18,CHEN Chien-An,ALBALUSHI Salah,3,0,"11,11,11|8,1,1",GROUP,OTHER,MT,891,Main Draw,CHEN Chien-An (TPE),ALBALUSHI Salah (UAE)
-Asian Games Jakarta 2018,2018-08-18,HO Kwan Kit,MYANDAL Temuulen,3,0,"11,11,11|2,4,2",GROUP,OTHER,MT,891,Main Draw,HO Kwan Kit (HKG),MYANDAL Temuulen (MGL)
-Asian Games Jakarta 2018,2018-08-18,NG Pak Nam,ENKHBAT Lkhagvasuren,3,1,"11,11,9,11|3,7,11,8",GROUP,OTHER,MT,891,Main Draw,NG Pak Nam (HKG),ENKHBAT Lkhagvasuren (MGL)
-Asian Games Jakarta 2018,2018-08-18,LAM Siu Hang,BATKHISHIG Bilegt,3,0,"11,11,11|4,2,9",GROUP,OTHER,MT,891,Main Draw,LAM Siu Hang (HKG),BATKHISHIG Bilegt (MGL)
-Asian Games Jakarta 2018,2018-08-18,KIM Donghyun,GUBRAN Ebrahim,3,1,"13,11,6,13|11,9,11,11",GROUP,OTHER,MT,891,Main Draw,KIM Donghyun (KOR),GUBRAN Ebrahim (YEM)
-Asian Games Jakarta 2018,2018-08-18,LIM Jonghoon,AL-DHUBHANI Muneer,3,0,"11,11,11|5,8,8",GROUP,OTHER,MT,891,Main Draw,LIM Jonghoon (KOR),AL-DHUBHANI Muneer (YEM)
-Asian Games Jakarta 2018,2018-08-18,JANG Woojin,AL-MAHAQERI Taha,3,0,"11,11,12|7,3,10",GROUP,OTHER,MT,891,Main Draw,JANG Woojin (KOR),AL-MAHAQERI Taha (YEM)
-Asian Games Jakarta 2018,2018-08-18,NOROOZI Afshin,NASEEM Mohamed,3,0,"11,11,11|5,6,5",GROUP,OTHER,MT,891,Main Draw,NASEEM Mohamed (MDV),NOROOZI Afshin (IRI)
-Asian Games Jakarta 2018,2018-08-18,ALAMIYAN Noshad,SHAFFAN Mohamed,3,0,"11,11,11|5,4,7",GROUP,OTHER,MT,891,Main Draw,SHAFFAN Mohamed (MDV),ALAMIYAN Noshad (IRI)
-Asian Games Jakarta 2018,2018-08-18,ALAMIAN Nima,AHMED Moosa,3,0,"11,11,11|5,3,5",GROUP,OTHER,MT,891,Main Draw,AHMED Moosa (MDV),ALAMIAN Nima (IRI)
-Asian Games Jakarta 2018,2018-08-18,MATSUDAIRA Kenta,KYDYRBAEV Aziz,3,0,"11,11,11|3,1,8",GROUP,OTHER,MT,891,Main Draw,KYDYRBAEV Aziz (KGZ),MATSUDAIRA Kenta (JPN)
-Asian Games Jakarta 2018,2018-08-18,YOSHIDA Masaki,SAGYNDYKOV Talgat,3,0,"11,11,11|5,3,5",GROUP,OTHER,MT,891,Main Draw,SAGYNDYKOV Talgat (KGZ),YOSHIDA Masaki (JPN)
-Asian Games Jakarta 2018,2018-08-18,MORIZONO Masataka,IAKUPBAEV Alisher,3,0,"11,11,11|7,5,4",GROUP,OTHER,MT,891,Main Draw,IAKUPBAEV Alisher (KGZ),MORIZONO Masataka (JPN)
-Asian Games Jakarta 2018,2018-08-18,PAK Sin Hyok,SAUN Deep,3,0,"11,11,12|3,9,10",GROUP,OTHER,MT,891,Main Draw,SAUN Deep (NEP),PAK Sin Hyok (PRK)
-Asian Games Jakarta 2018,2018-08-18,HAM Yu Song,MALLA Amar,3,0,"11,11,11|6,9,7",GROUP,OTHER,MT,891,Main Draw,MALLA Amar (NEP),HAM Yu Song (PRK)
-Asian Games Jakarta 2018,2018-08-18,AN Ji Song,SHRESTHA Santoo,3,0,"11,11,11|4,6,6",GROUP,OTHER,MT,891,Main Draw,SHRESTHA Santoo (NEP),AN Ji Song (PRK)
-Asian Games Jakarta 2018,2018-08-18,WANG Chuqin,SATHATHONE Duangtavane,3,0,"11,11,11|3,4,4",GROUP,OTHER,MT,891,Main Draw,WANG Chuqin (CHN),SATHATHONE Duangtavane (LAO)
-Asian Games Jakarta 2018,2018-08-18,XUE Fei,MOSANGSINH Sonpasith,3,0,"11,11,11|4,3,1",GROUP,OTHER,MT,891,Main Draw,XUE Fei (CHN),MOSANGSINH Sonpasith (LAO)
-Asian Games Jakarta 2018,2018-08-18,LIANG Jingkun,VONGDALASINH Seng,3,0,"11,11,11|4,4,3",GROUP,OTHER,MT,891,Main Draw,LIANG Jingkun (CHN),VONGDALASINH Seng (LAO)
-Asian Games Jakarta 2018,2018-08-18,LE Dinh Duc,CHEONG Chi Chon,3,1,"11,10,11,11|4,12,4,6",GROUP,OTHER,MT,891,Main Draw,LE Dinh Duc (VIE),CHEONG Chi Chon (MAC)
-Asian Games Jakarta 2018,2018-08-18,NGUYEN Duc Tuan,CHEONG Chi Cheng,3,0,"11,11,11|7,7,3",GROUP,OTHER,MT,891,Main Draw,NGUYEN Duc Tuan (VIE),CHEONG Chi Cheng (MAC)
-Asian Games Jakarta 2018,2018-08-18,NGUYEN Anh Tu,WANG Chun,3,0,"11,11,11|8,5,3",GROUP,OTHER,MT,891,Main Draw,NGUYEN Anh Tu (VIE),WANG Chun (MAC)
-Asian Games Jakarta 2018,2018-08-18,LIN Yun-Ju,GNANASEKARAN Sathiyan,3,1,"11,4,11,11|9,11,9,9",GROUP,OTHER,MT,891,Main Draw,GNANASEKARAN Sathiyan (IND),LIN Yun-Ju (TPE)
-Asian Games Jakarta 2018,2018-08-18,CHUANG Chih-Yuan,ACHANTA Sharath,3,1,"11,11,10,11|1,8,12,1",GROUP,OTHER,MT,891,Main Draw,ACHANTA Sharath (IND),CHUANG Chih-Yuan (TPE)
-Asian Games Jakarta 2018,2018-08-18,DESAI Harmeet,CHEN Chien-An,3,2,"11,10,11,7,13|7,12,7,11,11",GROUP,OTHER,MT,891,Main Draw,DESAI Harmeet (IND),CHEN Chien-An (TPE)
-Asian Games Jakarta 2018,2018-08-18,CHUANG Chih-Yuan,GNANASEKARAN Sathiyan,3,0,"12,11,11|10,9,9",GROUP,OTHER,MT,891,Main Draw,GNANASEKARAN Sathiyan (IND),CHUANG Chih-Yuan (TPE)
-Asian Games Jakarta 2018,2018-08-18,ACHANTA Sharath,LIN Yun-Ju,3,1,"11,5,12,11|8,11,10,8",GROUP,OTHER,MT,891,Main Draw,ACHANTA Sharath (IND),LIN Yun-Ju (TPE)
-Asian Games Jakarta 2018,2018-08-18,PURKANI Luki Muhammad,JARGALSAIKHAN Munkhzorig,3,0,"11,11,11|5,2,9",GROUP,OTHER,MT,891,Main Draw,JARGALSAIKHAN Munkhzorig (MGL),PURKANI Luki Muhammad (INA)
-Asian Games Jakarta 2018,2018-08-18,SANTOSO Ficky,BATKHISHIG Bilegt,3,0,"11,13,11|8,11,3",GROUP,OTHER,MT,891,Main Draw,BATKHISHIG Bilegt (MGL),SANTOSO Ficky (INA)
-Asian Games Jakarta 2018,2018-08-18,AJI Donny,CHINBAT Erdenebayar,3,0,"11,11,11|7,7,7",GROUP,OTHER,MT,891,Main Draw,CHINBAT Erdenebayar (MGL),AJI Donny (INA)
-Asian Games Jakarta 2018,2018-08-18,JEOUNG Youngsik,HO Kwan Kit,3,2,"11,11,9,4,11|9,7,11,11,5",GROUP,OTHER,MT,891,Main Draw,HO Kwan Kit (HKG),JEOUNG Youngsik (KOR)
-Asian Games Jakarta 2018,2018-08-18,WONG Chun Ting,LEE Sang Su,3,2,"13,6,11,6,11|11,11,9,11,8",GROUP,OTHER,MT,891,Main Draw,WONG Chun Ting (HKG),LEE Sang Su (KOR)
-Asian Games Jakarta 2018,2018-08-18,JANG Woojin,NG Pak Nam,3,2,"11,11,8,8,11|5,7,11,11,9",GROUP,OTHER,MT,891,Main Draw,NG Pak Nam (HKG),JANG Woojin (KOR)
-Asian Games Jakarta 2018,2018-08-18,LEE Sang Su,HO Kwan Kit,3,0,"11,11,11|6,6,8",GROUP,OTHER,MT,891,Main Draw,HO Kwan Kit (HKG),LEE Sang Su (KOR)
-Asian Games Jakarta 2018,2018-08-18,WONG Chun Ting,JEOUNG Youngsik,3,1,"11,8,11,12|9,11,5,10",GROUP,OTHER,MT,891,Main Draw,WONG Chun Ting (HKG),JEOUNG Youngsik (KOR)
-Asian Games Jakarta 2018,2018-08-18,PUANGTHIP Sirawit,SHAFFAN Mohamed,3,0,"11,11,11|7,4,6",GROUP,OTHER,MT,891,Main Draw,PUANGTHIP Sirawit (THA),SHAFFAN Mohamed (MDV)
-Asian Games Jakarta 2018,2018-08-18,PASSARA Pattaratorn,AHMED Moosa,3,2,"11,6,11,9,11|5,11,3,11,2",GROUP,OTHER,MT,891,Main Draw,PASSARA Pattaratorn (THA),AHMED Moosa (MDV)
-Asian Games Jakarta 2018,2018-08-18,WISUTMAYTHANGKOON Supanut,NASEEM Mohamed,3,0,"11,11,11|6,5,4",GROUP,OTHER,MT,891,Main Draw,WISUTMAYTHANGKOON Supanut (THA),NASEEM Mohamed (MDV)
-Asian Games Jakarta 2018,2018-08-18,MATSUDAIRA Kenta,ALAMIYAN Noshad,3,1,"6,12,11,11|11,10,9,5",GROUP,OTHER,MT,891,Main Draw,MATSUDAIRA Kenta (JPN),ALAMIYAN Noshad (IRI)
-Asian Games Jakarta 2018,2018-08-18,MORIZONO Masataka,NOROOZI Afshin,3,1,"11,10,11,12|4,12,5,10",GROUP,OTHER,MT,891,Main Draw,MORIZONO Masataka (JPN),NOROOZI Afshin (IRI)
-Asian Games Jakarta 2018,2018-08-18,UEDA Jin,ALAMIYAN Noshad,3,1,"12,6,11,12|10,11,5,10",GROUP,OTHER,MT,891,Main Draw,UEDA Jin (JPN),ALAMIYAN Noshad (IRI)
-Asian Games Jakarta 2018,2018-08-18,ALAMIAN Nima,MATSUDAIRA Kenta,3,0,"11,11,12|6,9,10",GROUP,OTHER,MT,891,Main Draw,MATSUDAIRA Kenta (JPN),ALAMIAN Nima (IRI)
-Asian Games Jakarta 2018,2018-08-18,CHIN Wen Jie,SAUN Deep,3,1,"15,11,8,11|13,3,11,7",GROUP,OTHER,MT,891,Main Draw,CHIN Wen Jie (MAS),SAUN Deep (NEP)
-Asian Games Jakarta 2018,2018-08-18,HAIQAL Muhamad Ashraf,MALLA Amar,3,0,"11,12,11|7,11,6",GROUP,OTHER,MT,891,Main Draw,HAIQAL Muhamad Ashraf (MAS),MALLA Amar (NEP)
-Asian Games Jakarta 2018,2018-08-18,LEONG Chee Feng,SHRESTHA Santoo,3,1,"11,11,9,13|3,8,11,11",GROUP,OTHER,MT,891,Main Draw,LEONG Chee Feng (MAS),SHRESTHA Santoo (NEP)
-Asian Games Jakarta 2018,2018-08-18,WANG Chuqin,PAK Sin Hyok,3,1,"11,11,8,11|8,2,11,7",GROUP,OTHER,MT,891,Main Draw,WANG Chuqin (CHN),PAK Sin Hyok (PRK)
-Asian Games Jakarta 2018,2018-08-18,LIN Gaoyuan,HAM Yu Song,3,0,"11,11,11|6,8,5",GROUP,OTHER,MT,891,Main Draw,LIN Gaoyuan (CHN),HAM Yu Song (PRK)
-Asian Games Jakarta 2018,2018-08-18,FAN Zhendong,AN Ji Song,3,0,"11,13,11|4,11,4",GROUP,OTHER,MT,891,Main Draw,FAN Zhendong (CHN),AN Ji Song (PRK)
-Asian Games Jakarta 2018,2018-08-18,DESAI Harmeet,ALBLOOSHI Essa,3,0,"11,11,11|4,2,8",GROUP,OTHER,MT,891,Main Draw,DESAI Harmeet (IND),ALBLOOSHI Essa (UAE)
-Asian Games Jakarta 2018,2018-08-18,ACHANTA Sharath,ALBALOOSHI Abdulla,3,0,"11,11,11|9,6,5",GROUP,OTHER,MT,891,Main Draw,ACHANTA Sharath (IND),ALBALOOSHI Abdulla (UAE)
-Asian Games Jakarta 2018,2018-08-18,GNANASEKARAN Sathiyan,ALBALUSHI Salah,3,0,"11,11,11|6,3,4",GROUP,OTHER,MT,891,Main Draw,GNANASEKARAN Sathiyan (IND),ALBALUSHI Salah (UAE)
-Asian Games Jakarta 2018,2018-08-18,LIAO Cheng-Ting,LE Tien Dat,3,0,"11,11,11|7,9,8",GROUP,OTHER,MT,891,Main Draw,LE Tien Dat (VIE),LIAO Cheng-Ting (TPE)
-Asian Games Jakarta 2018,2018-08-18,CHEN Chien-An,NGUYEN Anh Tu,3,0,"11,11,11|5,7,5",GROUP,OTHER,MT,891,Main Draw,NGUYEN Anh Tu (VIE),CHEN Chien-An (TPE)
-Asian Games Jakarta 2018,2018-08-18,CHUANG Chih-Yuan,NGUYEN Duc Tuan,3,0,"11,11,11|7,9,5",GROUP,OTHER,MT,891,Main Draw,NGUYEN Duc Tuan (VIE),CHUANG Chih-Yuan (TPE)
-Asian Games Jakarta 2018,2018-08-18,NG Pak Nam,GUBRAN Fahd,3,1,"11,11,12,11|7,2,14,6",GROUP,OTHER,MT,891,Main Draw,NG Pak Nam (HKG),GUBRAN Fahd (YEM)
-Asian Games Jakarta 2018,2018-08-18,HO Kwan Kit,ALI Omar,3,0,"11,11,11|8,8,4",GROUP,OTHER,MT,891,Main Draw,HO Kwan Kit (HKG),ALI Omar (YEM)
-Asian Games Jakarta 2018,2018-08-18,WONG Chun Ting,AL-MAHAQERI Taha,3,0,"11,11,11|5,7,3",GROUP,OTHER,MT,891,Main Draw,WONG Chun Ting (HKG),AL-MAHAQERI Taha (YEM)
-Asian Games Jakarta 2018,2018-08-18,JEOUNG Youngsik,NEGARA Muhammad,3,1,"14,5,11,13|12,11,6,11",GROUP,OTHER,MT,891,Main Draw,NEGARA Muhammad (INA),JEOUNG Youngsik (KOR)
-Asian Games Jakarta 2018,2018-08-18,JANG Woojin,BHAGWANI Deepash,3,0,"11,11,11|4,4,9",GROUP,OTHER,MT,891,Main Draw,BHAGWANI Deepash (INA),JANG Woojin (KOR)
-Asian Games Jakarta 2018,2018-08-18,LEE Sang Su,SANTOSO Ficky,3,1,"12,11,6,11|10,8,11,2",GROUP,OTHER,MT,891,Main Draw,SANTOSO Ficky (INA),LEE Sang Su (KOR)
-Asian Games Jakarta 2018,2018-08-18,ALAMIYAN Noshad,SAGYNDYKOV Talgat,3,0,"11,11,11|8,5,7",GROUP,OTHER,MT,891,Main Draw,ALAMIYAN Noshad (IRI),SAGYNDYKOV Talgat (KGZ)
-Asian Games Jakarta 2018,2018-08-18,ALAMIAN Nima,IAKUPBAEV Alisher,3,0,"11,11,11|3,5,2",GROUP,OTHER,MT,891,Main Draw,ALAMIAN Nima (IRI),IAKUPBAEV Alisher (KGZ)
-Asian Games Jakarta 2018,2018-08-18,NOROOZI Afshin,KYDYRBAEV Aziz,3,0,"11,11,11|7,4,7",GROUP,OTHER,MT,891,Main Draw,NOROOZI Afshin (IRI),KYDYRBAEV Aziz (KGZ)
-Asian Games Jakarta 2018,2018-08-18,YOSHIDA Masaki,PASSARA Pattaratorn,3,1,"11,11,9,11|7,5,11,7",GROUP,OTHER,MT,891,Main Draw,PASSARA Pattaratorn (THA),YOSHIDA Masaki (JPN)
-Asian Games Jakarta 2018,2018-08-18,MATSUDAIRA Kenta,TANVIRIYAVECHAKUL Padasak,3,0,"11,11,11|9,8,6",GROUP,OTHER,MT,891,Main Draw,TANVIRIYAVECHAKUL Padasak (THA),MATSUDAIRA Kenta (JPN)
-Asian Games Jakarta 2018,2018-08-18,UEDA Jin,WISUTMAYTHANGKOON Supanut,3,1,"11,9,11,11|7,11,8,5",GROUP,OTHER,MT,891,Main Draw,WISUTMAYTHANGKOON Supanut (THA),UEDA Jin (JPN)
-Asian Games Jakarta 2018,2018-08-18,PAK Sin Hyok,SATHATHONE Duangtavane,3,0,"11,11,11|3,3,1",GROUP,OTHER,MT,891,Main Draw,PAK Sin Hyok (PRK),SATHATHONE Duangtavane (LAO)
-Asian Games Jakarta 2018,2018-08-18,HAM Yu Song,VONGDALASINH Seng,3,0,"11,11,11|6,7,4",GROUP,OTHER,MT,891,Main Draw,HAM Yu Song (PRK),VONGDALASINH Seng (LAO)
-Asian Games Jakarta 2018,2018-08-18,AN Ji Song,MOSANGSINH Sonpasith,3,0,"11,11,11|4,4,7",GROUP,OTHER,MT,891,Main Draw,AN Ji Song (PRK),MOSANGSINH Sonpasith (LAO)
-Asian Games Jakarta 2018,2018-08-18,LIANG Jingkun,LEONG Chee Feng,3,0,"11,11,11|3,7,5",GROUP,OTHER,MT,891,Main Draw,LEONG Chee Feng (MAS),LIANG Jingkun (CHN)
-Asian Games Jakarta 2018,2018-08-18,WANG Chuqin,HAIQAL Muhamad Ashraf,3,0,"11,11,11|6,5,3",GROUP,OTHER,MT,891,Main Draw,HAIQAL Muhamad Ashraf (MAS),WANG Chuqin (CHN)
-Asian Games Jakarta 2018,2018-08-18,LIN Gaoyuan,CHOONG Javen,3,0,"11,11,11|5,2,4",GROUP,OTHER,MT,891,Main Draw,CHOONG Javen (MAS),LIN Gaoyuan (CHN)
-Asian Games Jakarta 2018,2018-08-18,LE Dinh Duc,ALBLOOSHI Essa,3,0,"11,11,11|5,5,2",GROUP,OTHER,MT,891,Main Draw,LE Dinh Duc (VIE),ALBLOOSHI Essa (UAE)
-Asian Games Jakarta 2018,2018-08-18,NGUYEN Duc Tuan,ALBALOOSHI Abdulla,3,1,"11,11,9,11|3,3,11,7",GROUP,OTHER,MT,891,Main Draw,NGUYEN Duc Tuan (VIE),ALBALOOSHI Abdulla (UAE)
-Asian Games Jakarta 2018,2018-08-18,NGUYEN Anh Tu,ALBALUSHI Salah,3,0,"11,11,11|1,3,7",GROUP,OTHER,MT,891,Main Draw,NGUYEN Anh Tu (VIE),ALBALUSHI Salah (UAE)
-Asian Games Jakarta 2018,2018-08-18,LEE Chia-Sheng,XIAO Zikang,3,0,"11,11,11|5,8,6",GROUP,OTHER,MT,891,Main Draw,XIAO Zikang (MAC),LEE Chia-Sheng (TPE)
-Asian Games Jakarta 2018,2018-08-18,CHUANG Chih-Yuan,CHEONG Chi Chon,3,0,"11,11,11|4,4,8",GROUP,OTHER,MT,891,Main Draw,CHEONG Chi Chon (MAC),CHUANG Chih-Yuan (TPE)
-Asian Games Jakarta 2018,2018-08-18,LIN Yun-Ju,CHEONG Chi Cheng,3,0,"11,11,11|3,6,8",GROUP,OTHER,MT,891,Main Draw,CHEONG Chi Cheng (MAC),LIN Yun-Ju (TPE)
-Asian Games Jakarta 2018,2018-08-18,AJI Donny,AL-MAHAQERI Taha,3,0,"11,11,11|8,9,7",GROUP,OTHER,MT,891,Main Draw,AJI Donny (INA),AL-MAHAQERI Taha (YEM)
-Asian Games Jakarta 2018,2018-08-18,SANTOSO Ficky,AL-DHUBHANI Muneer,3,0,"11,11,11|7,8,3",GROUP,OTHER,MT,891,Main Draw,SANTOSO Ficky (INA),AL-DHUBHANI Muneer (YEM)
-Asian Games Jakarta 2018,2018-08-18,NEGARA Muhammad,ALI Omar,3,1,"11,12,14,13|4,14,12,11",GROUP,OTHER,MT,891,Main Draw,NEGARA Muhammad (INA),ALI Omar (YEM)
-Asian Games Jakarta 2018,2018-08-18,LIM Jonghoon,JARGALSAIKHAN Munkhzorig,3,0,"11,11,11|9,8,4",GROUP,OTHER,MT,891,Main Draw,JARGALSAIKHAN Munkhzorig (MGL),LIM Jonghoon (KOR)
-Asian Games Jakarta 2018,2018-08-18,LEE Sang Su,CHINBAT Erdenebayar,3,0,"11,11,11|6,5,6",GROUP,OTHER,MT,891,Main Draw,CHINBAT Erdenebayar (MGL),LEE Sang Su (KOR)
-Asian Games Jakarta 2018,2018-08-18,JEOUNG Youngsik,BATKHISHIG Bilegt,3,0,"11,11,11|3,3,6",GROUP,OTHER,MT,891,Main Draw,BATKHISHIG Bilegt (MGL),JEOUNG Youngsik (KOR)
-Asian Games Jakarta 2018,2018-08-18,PASSARA Pattaratorn,KYDYRBAEV Aziz,3,0,"11,11,11|1,2,4",GROUP,OTHER,MT,891,Main Draw,PASSARA Pattaratorn (THA),KYDYRBAEV Aziz (KGZ)
-Asian Games Jakarta 2018,2018-08-18,WISUTMAYTHANGKOON Supanut,IAKUPBAEV Alisher,3,0,"11,11,11|6,5,6",GROUP,OTHER,MT,891,Main Draw,WISUTMAYTHANGKOON Supanut (THA),IAKUPBAEV Alisher (KGZ)
-Asian Games Jakarta 2018,2018-08-18,TANVIRIYAVECHAKUL Padasak,SAGYNDYKOV Talgat,3,0,"11,11,11|3,4,6",GROUP,OTHER,MT,891,Main Draw,TANVIRIYAVECHAKUL Padasak (THA),SAGYNDYKOV Talgat (KGZ)
-Asian Games Jakarta 2018,2018-08-18,MORIZONO Masataka,SHAFFAN Mohamed,3,0,"11,11,11|6,5,6",GROUP,OTHER,MT,891,Main Draw,MORIZONO Masataka (JPN),SHAFFAN Mohamed (MDV)
-Asian Games Jakarta 2018,2018-08-18,YOSHIDA Masaki,AHMED Moosa,3,0,"11,11,11|4,9,5",GROUP,OTHER,MT,891,Main Draw,YOSHIDA Masaki (JPN),AHMED Moosa (MDV)
-Asian Games Jakarta 2018,2018-08-18,UEDA Jin,NASEEM Mohamed,3,0,"11,11,11|6,2,2",GROUP,OTHER,MT,891,Main Draw,UEDA Jin (JPN),NASEEM Mohamed (MDV)
-Asian Games Jakarta 2018,2018-08-18,CHOONG Javen,SATHATHONE Duangtavane,3,0,"11,12,11|4,10,3",GROUP,OTHER,MT,891,Main Draw,SATHATHONE Duangtavane (LAO),CHOONG Javen (MAS)
-Asian Games Jakarta 2018,2018-08-18,HAIQAL Muhamad Ashraf,MOSANGSINH Sonpasith,3,0,"11,11,11|4,5,5",GROUP,OTHER,MT,891,Main Draw,MOSANGSINH Sonpasith (LAO),HAIQAL Muhamad Ashraf (MAS)
-Asian Games Jakarta 2018,2018-08-18,LEONG Chee Feng,VONGDALASINH Seng,3,0,"11,11,11|6,5,2",GROUP,OTHER,MT,891,Main Draw,VONGDALASINH Seng (LAO),LEONG Chee Feng (MAS)
-Asian Games Jakarta 2018,2018-08-18,WANG Chuqin,SAUN Deep,3,0,"11,11,11|6,6,4",GROUP,OTHER,MT,891,Main Draw,WANG Chuqin (CHN),SAUN Deep (NEP)
-Asian Games Jakarta 2018,2018-08-18,LIN Gaoyuan,SHRESTHA Santoo,3,0,"11,11,11|6,5,3",GROUP,OTHER,MT,891,Main Draw,LIN Gaoyuan (CHN),SHRESTHA Santoo (NEP)
-Asian Games Jakarta 2018,2018-08-18,FAN Zhendong,MALLA Amar,3,0,"11,11,11|3,4,2",GROUP,OTHER,MT,891,Main Draw,FAN Zhendong (CHN),MALLA Amar (NEP)
-Asian Games Jakarta 2018,2018-08-18,FAN Zhendong,LIN Gaoyuan,4,2,"11,11,15,4,11,11|8,5,17,11,8,6",F,OTHER,MS,891,Main Draw,FAN Zhendong (CHN),LIN Gaoyuan (CHN)
-Asian Games Jakarta 2018,2018-08-18,JEON Jihee,YU Mengyu,3,1,"9,12,11,13|11,10,9,11",QF,OTHER,WT,891,Main Draw,YU Mengyu (SGP),JEON Jihee (KOR)
-Asian Games Jakarta 2018,2018-08-18,YANG Ha Eun,LIN Ye,3,0,"11,13,11|6,11,3",QF,OTHER,WT,891,Main Draw,LIN Ye (CAN),YANG Ha Eun (KOR)
-Asian Games Jakarta 2018,2018-08-18,JEON Jihee,FENG Tianwei,3,0,"11,11,11|8,8,8",QF,OTHER,WT,891,Main Draw,FENG Tianwei (SGP),JEON Jihee (KOR)
-Asian Games Jakarta 2018,2018-08-18,BATRA Manika,LEE Ho Ching,3,1,"11,11,5,11|9,9,11,6",QF,OTHER,WT,891,Main Draw,BATRA Manika (IND),LEE Ho Ching (HKG)
-Asian Games Jakarta 2018,2018-08-18,DOO Hoi Kem,MUKHERJEE Ayhika,3,1,"12,11,12,11|14,4,10,8",QF,OTHER,WT,891,Main Draw,MUKHERJEE Ayhika (IND),DOO Hoi Kem (HKG)
-Asian Games Jakarta 2018,2018-08-18,SOO Wai Yam,DAS Mouma,3,2,"11,11,8,11,11|6,13,11,3,5",QF,OTHER,WT,891,Main Draw,DAS Mouma (IND),SOO Wai Yam (HKG)
-Asian Games Jakarta 2018,2018-08-18,DOO Hoi Kem,BATRA Manika,3,0,"11,11,13|8,8,11",QF,OTHER,WT,891,Main Draw,BATRA Manika (IND),DOO Hoi Kem (HKG)
-Asian Games Jakarta 2018,2018-08-18,CHENG I-Ching,CHA Hyo Sim,3,1,"11,11,8,13|5,8,11,11",QF,OTHER,WT,891,Main Draw,CHENG I-Ching (TPE),CHA Hyo Sim (PRK)
-Asian Games Jakarta 2018,2018-08-18,KIM Song I,CHEN Szu-Yu,3,0,"11,11,11|4,8,5",QF,OTHER,WT,891,Main Draw,CHEN Szu-Yu (TPE),KIM Song I (PRK)
-Asian Games Jakarta 2018,2018-08-18,KIM Nam Hae,CHENG Hsien-Tzu,3,2,"13,9,7,11,11|11,11,11,8,9",QF,OTHER,WT,891,Main Draw,CHENG Hsien-Tzu (TPE),KIM Nam Hae (PRK)
-Asian Games Jakarta 2018,2018-08-18,KIM Song I,CHENG I-Ching,3,0,"11,11,11|4,9,5",QF,OTHER,WT,891,Main Draw,CHENG I-Ching (TPE),KIM Song I (PRK)
-Asian Games Jakarta 2018,2018-08-18,ZHU Yuling,JEON Jihee,3,1,"11,11,7,11|7,5,11,5",SF,OTHER,WT,891,Main Draw,ZHU Yuling (MAC),JEON Jihee (KOR)
-Asian Games Jakarta 2018,2018-08-18,CHEN Meng,CHOI Hyojoo,3,0,"11,11,11|8,6,8",SF,OTHER,WT,891,Main Draw,CHEN Meng (CHN),CHOI Hyojoo (KOR)
-Asian Games Jakarta 2018,2018-08-18,WANG Manyu,SUH Hyo Won,3,1,"11,3,11,11|7,11,9,6",SF,OTHER,WT,891,Main Draw,WANG Manyu (CHN),SUH Hyo Won (KOR)
-Asian Games Jakarta 2018,2018-08-18,KIM Song I,LEE Ho Ching,3,1,"12,11,4,11|10,2,11,6",SF,OTHER,WT,891,Main Draw,KIM Song I (PRK),LEE Ho Ching (HKG)
-Asian Games Jakarta 2018,2018-08-18,CHA Hyo Sim,DOO Hoi Kem,3,2,"11,7,11,7,14|8,11,8,11,12",SF,OTHER,WT,891,Main Draw,CHA Hyo Sim (PRK),DOO Hoi Kem (HKG)
-Asian Games Jakarta 2018,2018-08-18,KIM Nam Hae,SOO Wai Yam,3,2,"11,10,11,9,11|9,12,3,11,6",SF,OTHER,WT,891,Main Draw,KIM Nam Hae (PRK),SOO Wai Yam (HKG)
-Asian Games Jakarta 2018,2018-08-18,ZHU Yuling,KIM Song I,3,0,"11,11,11|9,8,6",F,OTHER,WT,891,Main Draw,KIM Song I (PRK),ZHU Yuling (MAC)
-Asian Games Jakarta 2018,2018-08-18,CHEN Meng,CHA Hyo Sim,3,0,"11,11,14|6,8,12",F,OTHER,WT,891,Main Draw,CHA Hyo Sim (PRK),CHEN Meng (CHN)
-Asian Games Jakarta 2018,2018-08-18,WANG Manyu,KIM Nam Hae,3,1,"8,11,11,11|11,5,4,7",F,OTHER,WT,891,Main Draw,KIM Nam Hae (PRK),WANG Manyu (CHN)
-Asian Games Jakarta 2018,2018-08-18,SHRESTHA Santoo/SHRESTHA Nabita,MYANDAL Temuulen/MUNKHBAT Undram,3,0,"13,11,11|11,7,9",R64,OTHER,XD,891,Main Draw,SHRESTHA Santoo (NEP) / SHRESTHA Nabita (NEP),MYANDAL Temuulen (MGL) / MUNKHBAT Undram (MGL)
-Asian Games Jakarta 2018,2018-08-18,HAMIE Mohamad/KHOURY Malak,VONGDALASINH Seng/KONGPHET Nitnapha,3,0,"11,11,14|8,6,12",R64,OTHER,XD,891,Main Draw,HAMIE Mohamad (LBN) / KHOURY Malak (LBN),VONGDALASINH Seng (LAO) / KONGPHET Nitnapha (LAO)
-Asian Games Jakarta 2018,2018-08-18,WANG Chun/CHEONG Cheng I,QURESHI Asim/ANSARI Aisha,3,1,"11,7,11,11|9,11,7,8",R64,OTHER,XD,891,Main Draw,WANG Chun (MAC) / CHEONG Cheng I (MAC),QURESHI Asim (PAK) / ANSARI Aisha (PAK)
-Asian Games Jakarta 2018,2018-08-18,NEGARA Muhammad/SINTYA Rina,MOSANGSINH Sonpasith/SOUTHAMMAVONG Thiphakone,3,0,"11,12,11|6,10,7",R64,OTHER,XD,891,Main Draw,NEGARA Muhammad (INA) / SINTYA Rina (INA),MOSANGSINH Sonpasith (LAO) / SOUTHAMMAVONG Thiphakone (LAO)
-Asian Games Jakarta 2018,2018-08-18,MALLA Amar/NEMBANG Swechchha,AL-NAGGAR Abdulrahman/FARAMARZI Maha,3,2,"8,7,11,11,11|11,11,5,6,4",R64,OTHER,XD,891,Main Draw,MALLA Amar (NEP) / NEMBANG Swechchha (NEP),AL-NAGGAR Abdulrahman (QAT) / FARAMARZI Maha (QAT)
-Asian Games Jakarta 2018,2018-08-18,PAK Sin Hyok/KIM Nam Hae,LE Dinh Duc/NGUYEN Thi Nga,3,0,"11,11,11|7,5,4",R32,OTHER,XD,891,Main Draw,PAK Sin Hyok (PRK) / KIM Nam Hae (PRK),LE Dinh Duc (VIE) / NGUYEN Thi Nga (VIE)
-Asian Games Jakarta 2018,2018-08-18,MORIZONO Masataka/MORIZONO Misaki,LEONG Chee Feng/HO Ying,3,1,"7,11,11,11|11,4,8,6",R32,OTHER,XD,891,Main Draw,MORIZONO Masataka (JPN) / MORIZONO Misaki (JPN),LEONG Chee Feng (MAS) / HO Ying (MAS)
-Asian Games Jakarta 2018,2018-08-18,LIM Jonghoon/YANG Ha Eun,ABDULWAHHAB Mohammed/MOHAMED Aia,3,0,"11,11,11|8,6,6",R32,OTHER,XD,891,Main Draw,LIM Jonghoon (KOR) / YANG Ha Eun (KOR),ABDULWAHHAB Mohammed (QAT) / MOHAMED Aia (QAT)
-Asian Games Jakarta 2018,2018-08-18,HO Kwan Kit/LEE Ho Ching,HAMIE Mohamad/KHOURY Malak,3,0,"11,11,11|6,1,6",R32,OTHER,XD,891,Main Draw,HO Kwan Kit (HKG) / LEE Ho Ching (HKG),HAMIE Mohamad (LBN) / KHOURY Malak (LBN)
-Asian Games Jakarta 2018,2018-08-18,ANTHONY Amalraj/PATKAR Madhurika,AJI Donny/INDRIANI Lilis,3,1,"11,11,11,11|4,13,8,9",R32,OTHER,XD,891,Main Draw,ANTHONY Amalraj (IND) / PATKAR Madhurika (IND),AJI Donny (INA) / INDRIANI Lilis (INA)
-Asian Games Jakarta 2018,2018-08-18,TANVIRIYAVECHAKUL Padasak/SAWETTABUT Suthasini,RANASINGHA Imesh/MADURANGI Ishara,3,0,"11,11,11|1,2,5",R32,OTHER,XD,891,Main Draw,TANVIRIYAVECHAKUL Padasak (THA) / SAWETTABUT Suthasini (THA),RANASINGHA Imesh (USA) / MADURANGI Ishara (SRI)
-Asian Games Jakarta 2018,2018-08-18,CHEN Chien-An/CHENG I-Ching,WANG Chun/CHEONG Cheng I,3,0,"11,11,11|5,2,9",R32,OTHER,XD,891,Main Draw,CHEN Chien-An (TPE) / CHENG I-Ching (TPE),WANG Chun (MAC) / CHEONG Cheng I (MAC)
-Asian Games Jakarta 2018,2018-08-18,LEE Sang Su/JEON Jihee,NEGARA Muhammad/SINTYA Rina,3,0,"11,11,11|3,4,0",R32,OTHER,XD,891,Main Draw,LEE Sang Su (KOR) / JEON Jihee (KOR),NEGARA Muhammad (INA) / SINTYA Rina (INA)
-Asian Games Jakarta 2018,2018-08-18,ACHANTA Sharath/BATRA Manika,CHOONG Javen/LYNE Karen,3,0,"11,11,11|2,5,8",R32,OTHER,XD,891,Main Draw,ACHANTA Sharath (IND) / BATRA Manika (IND),CHOONG Javen (MAS) / LYNE Karen (MAS)
-Asian Games Jakarta 2018,2018-08-18,AN Ji Song/CHA Hyo Sim,CHEONG Chi Chon/CHONG Weng I,3,0,,R32,OTHER,XD,891,Main Draw,AN Ji Song (PRK) / CHA Hyo Sim (PRK),CHEONG Chi Chon (MAC) / CHONG Weng I (MAC)
-Asian Games Jakarta 2018,2018-08-18,CHUANG Chih-Yuan/CHEN Szu-Yu,JARGALSAIKHAN Munkhzorig/BATMUNKH Bolor-Erdene,3,0,"11,11,11|1,3,5",R32,OTHER,XD,891,Main Draw,CHUANG Chih-Yuan (TPE) / CHEN Szu-Yu (TPE),JARGALSAIKHAN Munkhzorig (MGL) / BATMUNKH Bolor-Erdene (MGL)
-Asian Games Jakarta 2018,2018-08-18,UEDA Jin/MAEDA Miyu,RAMEEZ Muhammad/KHAN Fatima,3,0,"11,11,11|3,4,1",R32,OTHER,XD,891,Main Draw,UEDA Jin (JPN) / MAEDA Miyu (JPN),RAMEEZ Muhammad (PAK) / KHAN Fatima (PAK)
-Asian Games Jakarta 2018,2018-08-18,WANG Chuqin/SUN Yingsha,WISUTMAYTHANGKOON Supanut/PARANANG Orawan,3,0,"11,11,11|1,4,5",R32,OTHER,XD,891,Main Draw,WANG Chuqin (CHN) / SUN Yingsha (CHN),WISUTMAYTHANGKOON Supanut (THA) / PARANANG Orawan (THA)
-Asian Games Jakarta 2018,2018-08-18,GAO Ning/YU Mengyu,DINH Quang Linh/NGUYEN Khanh,3,1,"11,8,11,11|9,11,5,9",R32,OTHER,XD,891,Main Draw,GAO Ning (SGP) / YU Mengyu (SGP),DINH Quang Linh (VIE) / NGUYEN Khanh (VIE)
-Asian Games Jakarta 2018,2018-08-18,WONG Chun Ting/DOO Hoi Kem,MALLA Amar/NEMBANG Swechchha,3,0,"11,11,11|4,3,1",R32,OTHER,XD,891,Main Draw,WONG Chun Ting (HKG) / DOO Hoi Kem (HKG),MALLA Amar (NEP) / NEMBANG Swechchha (NEP)
-Asian Games Jakarta 2018,2018-08-18,LIN Gaoyuan/WANG Manyu,PAK Sin Hyok/KIM Nam Hae,3,0,"11,11,11|5,7,7",R16,OTHER,XD,891,Main Draw,LIN Gaoyuan (CHN) / WANG Manyu (CHN),PAK Sin Hyok (PRK) / KIM Nam Hae (PRK)
-Asian Games Jakarta 2018,2018-08-18,LIM Jonghoon/YANG Ha Eun,MORIZONO Masataka/MORIZONO Misaki,3,1,"13,11,2,11|11,5,11,6",R16,OTHER,XD,891,Main Draw,LIM Jonghoon (KOR) / YANG Ha Eun (KOR),MORIZONO Masataka (JPN) / MORIZONO Misaki (JPN)
-Asian Games Jakarta 2018,2018-08-18,HO Kwan Kit/LEE Ho Ching,ANTHONY Amalraj/PATKAR Madhurika,3,1,"6,11,11,11|11,7,5,4",R16,OTHER,XD,891,Main Draw,HO Kwan Kit (HKG) / LEE Ho Ching (HKG),ANTHONY Amalraj (IND) / PATKAR Madhurika (IND)
-Asian Games Jakarta 2018,2018-08-18,CHEN Chien-An/CHENG I-Ching,TANVIRIYAVECHAKUL Padasak/SAWETTABUT Suthasini,3,1,"11,8,11,16|7,11,5,14",R16,OTHER,XD,891,Main Draw,CHEN Chien-An (TPE) / CHENG I-Ching (TPE),TANVIRIYAVECHAKUL Padasak (THA) / SAWETTABUT Suthasini (THA)
-Asian Games Jakarta 2018,2018-08-18,ACHANTA Sharath/BATRA Manika,LEE Sang Su/JEON Jihee,3,2,"11,7,11,10,11|7,11,8,12,4",R16,OTHER,XD,891,Main Draw,ACHANTA Sharath (IND) / BATRA Manika (IND),LEE Sang Su (KOR) / JEON Jihee (KOR)
-Asian Games Jakarta 2018,2018-08-18,AN Ji Song/CHA Hyo Sim,CHUANG Chih-Yuan/CHEN Szu-Yu,3,0,"11,11,12|5,7,10",R16,OTHER,XD,891,Main Draw,AN Ji Song (PRK) / CHA Hyo Sim (PRK),CHUANG Chih-Yuan (TPE) / CHEN Szu-Yu (TPE)
-Asian Games Jakarta 2018,2018-08-18,WANG Chuqin/SUN Yingsha,UEDA Jin/MAEDA Miyu,3,0,"11,11,11|7,6,9",R16,OTHER,XD,891,Main Draw,WANG Chuqin (CHN) / SUN Yingsha (CHN),UEDA Jin (JPN) / MAEDA Miyu (JPN)
-Asian Games Jakarta 2018,2018-08-18,GAO Ning/YU Mengyu,WONG Chun Ting/DOO Hoi Kem,3,1,"11,11,9,11|9,5,11,8",R16,OTHER,XD,891,Main Draw,GAO Ning (SGP) / YU Mengyu (SGP),WONG Chun Ting (HKG) / DOO Hoi Kem (HKG)
-Asian Games Jakarta 2018,2018-08-18,LIN Gaoyuan/WANG Manyu,LIM Jonghoon/YANG Ha Eun,3,0,"11,11,11|6,6,8",QF,OTHER,XD,891,Main Draw,LIN Gaoyuan (CHN) / WANG Manyu (CHN),LIM Jonghoon (KOR) / YANG Ha Eun (KOR)
-Asian Games Jakarta 2018,2018-08-18,HO Kwan Kit/LEE Ho Ching,CHEN Chien-An/CHENG I-Ching,3,0,"11,11,11|7,8,2",QF,OTHER,XD,891,Main Draw,HO Kwan Kit (HKG) / LEE Ho Ching (HKG),CHEN Chien-An (TPE) / CHENG I-Ching (TPE)
-Asian Games Jakarta 2018,2018-08-18,ACHANTA Sharath/BATRA Manika,AN Ji Song/CHA Hyo Sim,3,2,"4,12,6,11,11|11,10,11,6,8",QF,OTHER,XD,891,Main Draw,ACHANTA Sharath (IND) / BATRA Manika (IND),AN Ji Song (PRK) / CHA Hyo Sim (PRK)
-Asian Games Jakarta 2018,2018-08-18,WANG Chuqin/SUN Yingsha,GAO Ning/YU Mengyu,3,0,"11,11,11|9,6,4",QF,OTHER,XD,891,Main Draw,WANG Chuqin (CHN) / SUN Yingsha (CHN),GAO Ning (SGP) / YU Mengyu (SGP)
-Asian Games Jakarta 2018,2018-08-18,LIN Gaoyuan/WANG Manyu,HO Kwan Kit/LEE Ho Ching,4,0,"11,11,11,11|7,7,3,3",SF,OTHER,XD,891,Main Draw,LIN Gaoyuan (CHN) / WANG Manyu (CHN),HO Kwan Kit (HKG) / LEE Ho Ching (HKG)
-Asian Games Jakarta 2018,2018-08-18,WANG Chuqin/SUN Yingsha,ACHANTA Sharath/BATRA Manika,4,1,"11,11,11,11,11|9,5,13,4,8",SF,OTHER,XD,891,Main Draw,WANG Chuqin (CHN) / SUN Yingsha (CHN),ACHANTA Sharath (IND) / BATRA Manika (IND)
-Asian Games Jakarta 2018,2018-08-18,WANG Chuqin/SUN Yingsha,LIN Gaoyuan/WANG Manyu,4,2,"12,9,14,13,11,11|14,11,12,11,7,7",F,OTHER,XD,891,Main Draw,WANG Chuqin (CHN) / SUN Yingsha (CHN),LIN Gaoyuan (CHN) / WANG Manyu (CHN)
-Asian Games Jakarta 2018,2018-08-18,NGUYEN Duc Tuan,HAMIE Mohamad,4,3,"11,11,11,11,8,6,11|8,6,6,13,11,11,3",R64,OTHER,MS,891,Main Draw,HAMIE Mohamad (LBN),NGUYEN Duc Tuan (VIE)
-Asian Games Jakarta 2018,2018-08-18,HAIQAL Muhamad Ashraf,AHMED Moosa,4,0,"11,11,11,11|5,6,4,6",R64,OTHER,MS,891,Main Draw,AHMED Moosa (MDV),HAIQAL Muhamad Ashraf (MAS)
-Asian Games Jakarta 2018,2018-08-18,WISUTMAYTHANGKOON Supanut,ALI Omar,4,0,"11,11,16,11|6,6,14,7",R64,OTHER,MS,891,Main Draw,WISUTMAYTHANGKOON Supanut (THA),ALI Omar (YEM)
-Asian Games Jakarta 2018,2018-08-18,CHINBAT Erdenebayar,MALLA Amar,4,3,"11,9,6,11,8,11,11|8,11,11,8,11,3,5",R64,OTHER,MS,891,Main Draw,MALLA Amar (NEP),CHINBAT Erdenebayar (MGL)
-Asian Games Jakarta 2018,2018-08-18,QURESHI Asim,NEGARA Muhammad,4,0,,R64,OTHER,MS,891,Main Draw,NEGARA Muhammad (INA),QURESHI Asim (PAK)
-Asian Games Jakarta 2018,2018-08-18,AL-NAGGAR Abdulrahman,SAGYNDYKOV Talgat,4,1,"11,8,11,11,11|4,11,3,4,3",R64,OTHER,MS,891,Main Draw,SAGYNDYKOV Talgat (KGZ),AL-NAGGAR Abdulrahman (QAT)
-Asian Games Jakarta 2018,2018-08-18,MOSANGSINH Sonpasith,RANASINGHA Imesh,4,1,"14,8,11,11,11|12,11,0,0,0",R64,OTHER,MS,891,Main Draw,RANASINGHA Imesh (USA),MOSANGSINH Sonpasith (LAO)
-Asian Games Jakarta 2018,2018-08-18,NAYRE Jann Mari,GUBRAN Ebrahim,4,0,"11,11,11,11|5,5,8,5",R64,OTHER,MS,891,Main Draw,GUBRAN Ebrahim (YEM),NAYRE Jann Mari (PHI)
-Asian Games Jakarta 2018,2018-08-18,TANVIRIYAVECHAKUL Padasak,VONGDALASINH Seng,4,0,"11,11,11,11|3,7,5,2",R64,OTHER,MS,891,Main Draw,TANVIRIYAVECHAKUL Padasak (THA),VONGDALASINH Seng (LAO)
-Asian Games Jakarta 2018,2018-08-18,NGUYEN Anh Tu,ALBALOOSHI Abdulla,4,0,"11,11,11,11|4,7,9,6",R64,OTHER,MS,891,Main Draw,ALBALOOSHI Abdulla (UAE),NGUYEN Anh Tu (VIE)
-Asian Games Jakarta 2018,2018-08-18,CHEONG Chi Cheng,SHRESTHA Santoo,4,2,"12,11,11,7,5,11|10,8,9,11,11,8",R64,OTHER,MS,891,Main Draw,CHEONG Chi Cheng (MAC),SHRESTHA Santoo (NEP)
-Asian Games Jakarta 2018,2018-08-18,CHOE Il,ENKHBAT Lkhagvasuren,4,1,"11,2,11,11,11|2,11,1,1,5",R64,OTHER,MS,891,Main Draw,ENKHBAT Lkhagvasuren (MGL),CHOE Il (PRK)
-Asian Games Jakarta 2018,2018-08-18,SANTOSO Ficky,SHAFFAN Mohamed,4,0,"11,11,11,11|8,5,7,6",R64,OTHER,MS,891,Main Draw,SANTOSO Ficky (INA),SHAFFAN Mohamed (MDV)
-Asian Games Jakarta 2018,2018-08-18,ABDULWAHHAB Mohammed,RAMEEZ Muhammad,4,1,"11,11,11,8,11|2,8,8,11,6",R64,OTHER,MS,891,Main Draw,ABDULWAHHAB Mohammed (QAT),RAMEEZ Muhammad (PAK)
-Asian Games Jakarta 2018,2018-08-18,LEONG Chee Feng,IAKUPBAEV Alisher,4,0,"11,11,11,11|7,7,7,1",R64,OTHER,MS,891,Main Draw,LEONG Chee Feng (MAS),IAKUPBAEV Alisher (KGZ)
-Asian Games Jakarta 2018,2018-08-18,FAN Zhendong,XIAO Zikang,4,0,"11,11,11,11|5,2,4,6",R32,OTHER,MS,891,Main Draw,FAN Zhendong (CHN),XIAO Zikang (MAC)
-Asian Games Jakarta 2018,2018-08-18,HO Kwan Kit,NGUYEN Duc Tuan,4,2,"11,6,11,9,11,11|8,11,2,11,7,7",R32,OTHER,MS,891,Main Draw,NGUYEN Duc Tuan (VIE),HO Kwan Kit (HKG)
-Asian Games Jakarta 2018,2018-08-18,ALAMIAN Nima,HAIQAL Muhamad Ashraf,4,1,"12,11,11,8,13|10,7,4,11,11",R32,OTHER,MS,891,Main Draw,ALAMIAN Nima (IRI),HAIQAL Muhamad Ashraf (MAS)
-Asian Games Jakarta 2018,2018-08-18,CHUANG Chih-Yuan,CHINBAT Erdenebayar,4,0,"11,11,11,11|6,5,1,3",R32,OTHER,MS,891,Main Draw,CHUANG Chih-Yuan (TPE),CHINBAT Erdenebayar (MGL)
-Asian Games Jakarta 2018,2018-08-18,ACHANTA Sharath,QURESHI Asim,4,0,"11,11,11,11|4,8,7,5",R32,OTHER,MS,891,Main Draw,QURESHI Asim (PAK),ACHANTA Sharath (IND)
-Asian Games Jakarta 2018,2018-08-18,PAK Sin Hyok,AL-NAGGAR Abdulrahman,4,2,"6,11,11,8,11,11|11,3,8,11,4,8",R32,OTHER,MS,891,Main Draw,PAK Sin Hyok (PRK),AL-NAGGAR Abdulrahman (QAT)
-Asian Games Jakarta 2018,2018-08-18,LEE Sang Su,MOSANGSINH Sonpasith,4,0,"11,11,11,11|1,8,5,5",R32,OTHER,MS,891,Main Draw,MOSANGSINH Sonpasith (LAO),LEE Sang Su (KOR)
-Asian Games Jakarta 2018,2018-08-18,WONG Chun Ting,NAYRE Jann Mari,4,1,"9,11,11,11,11|11,4,3,4,5",R32,OTHER,MS,891,Main Draw,WONG Chun Ting (HKG),NAYRE Jann Mari (PHI)
-Asian Games Jakarta 2018,2018-08-18,ALAMIYAN Noshad,NGUYEN Anh Tu,4,0,"11,11,11,11|9,8,9,9",R32,OTHER,MS,891,Main Draw,ALAMIYAN Noshad (IRI),NGUYEN Anh Tu (VIE)
-Asian Games Jakarta 2018,2018-08-18,JEOUNG Youngsik,CHEONG Chi Cheng,4,0,"11,11,12,11|7,7,10,8",R32,OTHER,MS,891,Main Draw,CHEONG Chi Cheng (MAC),JEOUNG Youngsik (KOR)
-Asian Games Jakarta 2018,2018-08-18,MATSUDAIRA Kenta,CHOE Il,4,1,"6,12,11,11,11|11,10,8,6,5",R32,OTHER,MS,891,Main Draw,MATSUDAIRA Kenta (JPN),CHOE Il (PRK)
-Asian Games Jakarta 2018,2018-08-18,GNANASEKARAN Sathiyan,SANTOSO Ficky,4,2,"11,9,14,11,9,11|3,11,12,1,11,7",R32,OTHER,MS,891,Main Draw,SANTOSO Ficky (INA),GNANASEKARAN Sathiyan (IND)
-Asian Games Jakarta 2018,2018-08-18,GAO Ning,ABDULWAHHAB Mohammed,4,0,"11,11,11,11|7,4,9,6",R32,OTHER,MS,891,Main Draw,GAO Ning (SGP),ABDULWAHHAB Mohammed (QAT)
-Asian Games Jakarta 2018,2018-08-18,LIN Gaoyuan,LEONG Chee Feng,4,0,"11,11,11,11|6,6,2,6",R32,OTHER,MS,891,Main Draw,LEONG Chee Feng (MAS),LIN Gaoyuan (CHN)
-Asian Games Jakarta 2018,2018-08-18,UEDA Jin,ALAMIAN Nima,4,1,"13,11,11,11,12|15,6,5,7,10",R16,OTHER,MS,891,Main Draw,ALAMIAN Nima (IRI),UEDA Jin (JPN)
-Asian Games Jakarta 2018,2018-08-18,LEE Sang Su,PAK Sin Hyok,4,2,"9,11,11,11,9,12|11,4,9,6,11,10",R16,OTHER,MS,891,Main Draw,PAK Sin Hyok (PRK),LEE Sang Su (KOR)
-Asian Games Jakarta 2018,2018-08-18,WONG Chun Ting,CHEN Chien-An,4,2,"12,11,8,11,6,11|10,5,11,9,11,5",R16,OTHER,MS,891,Main Draw,WONG Chun Ting (HKG),CHEN Chien-An (TPE)
-Asian Games Jakarta 2018,2018-08-18,ALAMIYAN Noshad,JEOUNG Youngsik,4,3,"11,12,3,8,7,13,14|7,10,11,11,11,11,12",R16,OTHER,MS,891,Main Draw,ALAMIYAN Noshad (IRI),JEOUNG Youngsik (KOR)
-Asian Games Jakarta 2018,2018-08-18,MATSUDAIRA Kenta,GNANASEKARAN Sathiyan,4,1,"9,11,11,11,12|11,4,9,6,10",R16,OTHER,MS,891,Main Draw,MATSUDAIRA Kenta (JPN),GNANASEKARAN Sathiyan (IND)
-Asian Games Jakarta 2018,2018-08-18,LIN Gaoyuan,GAO Ning,4,1,"11,11,10,11,11|3,6,22,7,8",R16,OTHER,MS,891,Main Draw,GAO Ning (SGP),LIN Gaoyuan (CHN)
-Asian Games Jakarta 2018,2018-08-18,FAN Zhendong,UEDA Jin,4,0,"11,11,11,11|3,3,5,7",QF,OTHER,MS,891,Main Draw,FAN Zhendong (CHN),UEDA Jin (JPN)
-Asian Games Jakarta 2018,2018-08-18,LEE Sang Su,CHUANG Chih-Yuan,4,2,"6,11,9,11,11,11|11,9,11,8,7,8",QF,OTHER,MS,891,Main Draw,CHUANG Chih-Yuan (TPE),LEE Sang Su (KOR)
-Asian Games Jakarta 2018,2018-08-18,ALAMIYAN Noshad,WONG Chun Ting,4,1,"6,11,12,11,11|11,8,10,5,8",QF,OTHER,MS,891,Main Draw,WONG Chun Ting (HKG),ALAMIYAN Noshad (IRI)
-Asian Games Jakarta 2018,2018-08-18,LIN Gaoyuan,MATSUDAIRA Kenta,4,2,"14,11,11,11,10,11|16,3,3,2,12,8",QF,OTHER,MS,891,Main Draw,MATSUDAIRA Kenta (JPN),LIN Gaoyuan (CHN)
-Asian Games Jakarta 2018,2018-08-18,FAN Zhendong,LEE Sang Su,4,1,"11,4,11,11,11|3,11,4,9,5",SF,OTHER,MS,891,Main Draw,FAN Zhendong (CHN),LEE Sang Su (KOR)
-Asian Games Jakarta 2018,2018-08-18,LIN Gaoyuan,ALAMIYAN Noshad,4,0,"12,11,11,11|10,7,6,2",SF,OTHER,MS,891,Main Draw,ALAMIYAN Noshad (IRI),LIN Gaoyuan (CHN)
-Asian Games Jakarta 2018,2018-08-18,NGUYEN Khanh,KHOURY Malak,4,1,"11,9,11,11,11|7,11,2,7,6",R64,OTHER,WS,891,Main Draw,NGUYEN Khanh (VIE),KHOURY Malak (LBN)
-Asian Games Jakarta 2018,2018-08-18,BATBAYAR Doljinzuu,NEMBANG Swechchha,4,0,"11,13,11,11|9,11,6,6",R64,OTHER,WS,891,Main Draw,BATBAYAR Doljinzuu (MGL),NEMBANG Swechchha (NEP)
-Asian Games Jakarta 2018,2018-08-18,HAWWA Kharisma Nur,KONGPHET Nitnapha,4,0,"11,11,11,11|7,7,4,8",R64,OTHER,WS,891,Main Draw,KONGPHET Nitnapha (LAO),HAWWA Kharisma Nur (INA)
-Asian Games Jakarta 2018,2018-08-18,ANSARI Aisha,MOHAMED Aia,4,3,"11,10,11,11,6,10,11|2,12,8,7,11,12,7",R64,OTHER,WS,891,Main Draw,MOHAMED Aia (QAT),ANSARI Aisha (PAK)
-Asian Games Jakarta 2018,2018-08-18,BATMUNKH Bolor-Erdene,FARAMARZI Maha,4,2,"2,11,7,11,11,11|11,7,11,3,7,9",R64,OTHER,WS,891,Main Draw,BATMUNKH Bolor-Erdene (MGL),FARAMARZI Maha (QAT)
-Asian Games Jakarta 2018,2018-08-18,SHRESTHA Nabita,TAM Sut Fei,4,3,"11,8,3,11,7,11,11|8,11,11,8,11,6,7",R64,OTHER,WS,891,Main Draw,TAM Sut Fei (MAC),SHRESTHA Nabita (NEP)
-Asian Games Jakarta 2018,2018-08-18,SINTYA Rina,SOUTHAMMAVONG Thiphakone,4,0,"11,11,11,11|8,2,8,6",R64,OTHER,WS,891,Main Draw,SOUTHAMMAVONG Thiphakone (LAO),SINTYA Rina (INA)
-Asian Games Jakarta 2018,2018-08-18,MADURANGI Ishara,KHAN Fatima,4,0,"11,11,11,11|8,2,8,5",R64,OTHER,WS,891,Main Draw,MADURANGI Ishara (SRI),KHAN Fatima (PAK)
-Asian Games Jakarta 2018,2018-08-18,CHEN Meng,NGUYEN Khanh,4,0,"11,11,11,11|1,3,2,3",R32,OTHER,WS,891,Main Draw,CHEN Meng (CHN),NGUYEN Khanh (VIE)
-Asian Games Jakarta 2018,2018-08-18,CHEN Szu-Yu,DAS Mouma,4,0,"11,11,11,11|6,5,6,6",R32,OTHER,WS,891,Main Draw,DAS Mouma (IND),CHEN Szu-Yu (TPE)
-Asian Games Jakarta 2018,2018-08-18,SAWETTABUT Suthasini,CHONG Weng I,4,1,"11,11,11,6,11|8,2,7,11,3",R32,OTHER,WS,891,Main Draw,SAWETTABUT Suthasini (THA),CHONG Weng I (MAC)
-Asian Games Jakarta 2018,2018-08-18,LEE Ho Ching,BATBAYAR Doljinzuu,4,0,"11,12,11,11|6,10,3,9",R32,OTHER,WS,891,Main Draw,BATBAYAR Doljinzuu (MGL),LEE Ho Ching (HKG)
-Asian Games Jakarta 2018,2018-08-18,KATO Miyu,HAWWA Kharisma Nur,4,0,"11,11,11,11|3,8,7,9",R32,OTHER,WS,891,Main Draw,KATO Miyu (JPN),HAWWA Kharisma Nur (INA)
-Asian Games Jakarta 2018,2018-08-18,KIM Song I,ASHTARI Mahshid,4,0,"11,11,11,12|8,5,7,10",R32,OTHER,WS,891,Main Draw,ASHTARI Mahshid (IRI),KIM Song I (PRK)
-Asian Games Jakarta 2018,2018-08-18,JEON Jihee,HO Ying,4,0,"11,11,11,11|8,7,5,6",R32,OTHER,WS,891,Main Draw,JEON Jihee (KOR),HO Ying (MAS)
-Asian Games Jakarta 2018,2018-08-18,FENG Tianwei,ANSARI Aisha,4,0,"11,11,11,11|5,2,2,5",R32,OTHER,WS,891,Main Draw,ANSARI Aisha (PAK),FENG Tianwei (SGP)
-Asian Games Jakarta 2018,2018-08-18,CHENG I-Ching,BATMUNKH Bolor-Erdene,4,0,"11,11,11,11|6,2,5,3",R32,OTHER,WS,891,Main Draw,CHENG I-Ching (TPE),BATMUNKH Bolor-Erdene (MGL)
-Asian Games Jakarta 2018,2018-08-18,ANDO Minami,NGUYEN Thi Nga,4,1,"11,11,8,11,11|6,3,11,3,3",R32,OTHER,WS,891,Main Draw,NGUYEN Thi Nga (VIE),ANDO Minami (JPN)
-Asian Games Jakarta 2018,2018-08-18,YU Mengyu,CHANG Li Sian,4,1,"11,11,11,7,11|4,2,4,11,2",R32,OTHER,WS,891,Main Draw,YU Mengyu (SGP),CHANG Li Sian (MAS)
-Asian Games Jakarta 2018,2018-08-18,DOO Hoi Kem,SHRESTHA Nabita,4,0,"11,11,11,11|5,1,6,7",R32,OTHER,WS,891,Main Draw,SHRESTHA Nabita (NEP),DOO Hoi Kem (HKG)
-Asian Games Jakarta 2018,2018-08-18,SUH Hyo Won,SINTYA Rina,4,0,"11,11,11,11|4,6,6,7",R32,OTHER,WS,891,Main Draw,SUH Hyo Won (KOR),SINTYA Rina (INA)
-Asian Games Jakarta 2018,2018-08-18,CHA Hyo Sim,SHAHSAVARI Neda,4,0,"11,11,11,11|4,2,9,4",R32,OTHER,WS,891,Main Draw,SHAHSAVARI Neda (IRI),CHA Hyo Sim (PRK)
-Asian Games Jakarta 2018,2018-08-18,BATRA Manika,KOMWONG Nanthana,4,0,"11,11,11,11|3,7,3,6",R32,OTHER,WS,891,Main Draw,BATRA Manika (IND),KOMWONG Nanthana (THA)
-Asian Games Jakarta 2018,2018-08-18,WANG Manyu,MADURANGI Ishara,4,0,"11,11,11,11|8,5,8,1",R32,OTHER,WS,891,Main Draw,MADURANGI Ishara (SRI),WANG Manyu (CHN)
-Asian Games Jakarta 2018,2018-08-18,CHEN Meng,CHEN Szu-Yu,4,0,"11,11,11,11|5,6,3,5",R16,OTHER,WS,891,Main Draw,CHEN Meng (CHN),CHEN Szu-Yu (TPE)
-Asian Games Jakarta 2018,2018-08-18,LEE Ho Ching,SAWETTABUT Suthasini,4,0,"11,11,11,11|7,3,6,3",R16,OTHER,WS,891,Main Draw,SAWETTABUT Suthasini (THA),LEE Ho Ching (HKG)
-Asian Games Jakarta 2018,2018-08-18,KATO Miyu,KIM Song I,4,3,"7,2,9,11,11,11,14|11,11,11,5,9,4,12",R16,OTHER,WS,891,Main Draw,KATO Miyu (JPN),KIM Song I (PRK)
-Asian Games Jakarta 2018,2018-08-18,CHENG I-Ching,ANDO Minami,4,2,"7,11,9,11,12,11|11,7,11,6,10,6",R16,OTHER,WS,891,Main Draw,CHENG I-Ching (TPE),ANDO Minami (JPN)
-Asian Games Jakarta 2018,2018-08-18,YU Mengyu,DOO Hoi Kem,4,3,"5,13,11,7,12,9,11|11,11,8,11,10,11,6",R16,OTHER,WS,891,Main Draw,YU Mengyu (SGP),DOO Hoi Kem (HKG)
-Asian Games Jakarta 2018,2018-08-18,SUH Hyo Won,CHA Hyo Sim,4,1,"11,11,13,11,11|2,9,15,9,7",R16,OTHER,WS,891,Main Draw,SUH Hyo Won (KOR),CHA Hyo Sim (PRK)
-Asian Games Jakarta 2018,2018-08-18,WANG Manyu,BATRA Manika,4,1,"11,11,11,6,11|2,8,8,11,4",R16,OTHER,WS,891,Main Draw,BATRA Manika (IND),WANG Manyu (CHN)
-Asian Games Jakarta 2018,2018-08-18,CHEN Meng,LEE Ho Ching,4,0,"11,12,11,12|8,10,7,10",QF,OTHER,WS,891,Main Draw,CHEN Meng (CHN),LEE Ho Ching (HKG)
-Asian Games Jakarta 2018,2018-08-18,JEON Jihee,KATO Miyu,4,3,"5,10,11,7,14,11,11|11,12,6,11,12,8,8",QF,OTHER,WS,891,Main Draw,KATO Miyu (JPN),JEON Jihee (KOR)
-Asian Games Jakarta 2018,2018-08-18,YU Mengyu,CHENG I-Ching,4,1,"11,11,9,11,11|7,6,11,4,3",QF,OTHER,WS,891,Main Draw,CHENG I-Ching (TPE),YU Mengyu (SGP)
-Asian Games Jakarta 2018,2018-08-18,CHEN Meng,JEON Jihee,4,0,"11,11,11,11|7,7,6,4",SF,OTHER,WS,891,Main Draw,CHEN Meng (CHN),JEON Jihee (KOR)
-Asian Games Jakarta 2018,2018-08-18,WANG Manyu,YU Mengyu,4,1,"11,11,11,9,11|7,6,5,11,7",SF,OTHER,WS,891,Main Draw,YU Mengyu (SGP),WANG Manyu (CHN)
-Asian Games Jakarta 2018,2018-08-18,WANG Manyu,CHEN Meng,4,3,"11,5,14,7,11,11,11|7,11,16,11,6,8,8",F,OTHER,WS,891,Main Draw,CHEN Meng (CHN),WANG Manyu (CHN)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Asian Games Jakarta 2018,2018-08-18,FENG Tianwei,SUH Hyo Won,3,1,"9,11,11,11|11,6,9,7",QF,OTHER,WT,891,Main Draw,FENG Tianwei (SGP),SUH Hyo Won (KOR),FENG Tianwei
+Asian Games Jakarta 2018,2018-08-18,ZHU Yuling,MAEDA Miyu,3,0,"11,11,14|6,3,12",QF,OTHER,WT,891,Main Draw,MAEDA Miyu (JPN),ZHU Yuling (MAC),ZHU Yuling
+Asian Games Jakarta 2018,2018-08-18,CHEN Meng,ANDO Minami,3,1,"11,8,11,11|6,11,9,6",QF,OTHER,WT,891,Main Draw,ANDO Minami (JPN),CHEN Meng (CHN),CHEN Meng
+Asian Games Jakarta 2018,2018-08-18,WANG Manyu,KATO Miyu,3,1,"5,11,11,11|11,7,6,9",QF,OTHER,WT,891,Main Draw,KATO Miyu (JPN),WANG Manyu (CHN),WANG Manyu
+Asian Games Jakarta 2018,2018-08-18,FENG Tianwei,CHANG Li Sian,3,0,"11,11,11|2,1,6",GROUP,OTHER,WT,891,Main Draw,CHANG Li Sian (MAS),FENG Tianwei (SGP),FENG Tianwei
+Asian Games Jakarta 2018,2018-08-18,YU Mengyu,LYNE Karen,3,2,"11,11,8,11,14|6,7,11,13,12",GROUP,OTHER,WT,891,Main Draw,LYNE Karen (MAS),YU Mengyu (SGP),YU Mengyu
+Asian Games Jakarta 2018,2018-08-18,LIN Ye,HO Ying,3,1,"6,11,12,11|11,7,10,6",GROUP,OTHER,WT,891,Main Draw,HO Ying (MAS),LIN Ye (CAN),LIN Ye
+Asian Games Jakarta 2018,2018-08-18,NGUYEN Khanh,MAHARJAN Rabina,3,0,"11,11,11|6,5,4",GROUP,OTHER,WT,891,Main Draw,NGUYEN Khanh (VIE),MAHARJAN Rabina (NEP),NGUYEN Khanh
+Asian Games Jakarta 2018,2018-08-18,NGUYEN Thi Nga,SHRESTHA Nabita,3,1,"11,11,11,11|6,2,12,9",GROUP,OTHER,WT,891,Main Draw,NGUYEN Thi Nga (VIE),SHRESTHA Nabita (NEP),NGUYEN Thi Nga
+Asian Games Jakarta 2018,2018-08-18,GIANG Phan Hoang Tuong,NEMBANG Swechchha,3,0,"11,11,11|8,8,4",GROUP,OTHER,WT,891,Main Draw,GIANG Phan Hoang Tuong (VIE),NEMBANG Swechchha (NEP),GIANG Phan Hoang Tuong
+Asian Games Jakarta 2018,2018-08-18,FENG Tianwei,GIANG Phan Hoang Tuong,3,0,"11,11,11|3,3,6",GROUP,OTHER,WT,891,Main Draw,FENG Tianwei (SGP),GIANG Phan Hoang Tuong (VIE),FENG Tianwei
+Asian Games Jakarta 2018,2018-08-18,LIN Ye,MAI Trang,3,2,"10,6,11,14,11|12,11,8,12,3",GROUP,OTHER,WT,891,Main Draw,LIN Ye (CAN),MAI Trang (VIE),LIN Ye
+Asian Games Jakarta 2018,2018-08-18,YU Mengyu,NGUYEN Khanh,3,0,"11,11,11|9,8,4",GROUP,OTHER,WT,891,Main Draw,YU Mengyu (SGP),NGUYEN Khanh (VIE),YU Mengyu
+Asian Games Jakarta 2018,2018-08-18,SOO Wai Yam,MAHARJAN Rabina,3,0,"11,11,11|6,1,1",GROUP,OTHER,WT,891,Main Draw,MAHARJAN Rabina (NEP),SOO Wai Yam (HKG),SOO Wai Yam
+Asian Games Jakarta 2018,2018-08-18,NG Wing Nam,NEMBANG Swechchha,3,0,"11,11,11|4,2,4",GROUP,OTHER,WT,891,Main Draw,NEMBANG Swechchha (NEP),NG Wing Nam (HKG),NG Wing Nam
+Asian Games Jakarta 2018,2018-08-18,LI Ching Wan,SHRESTHA Nabita,3,0,"11,11,11|7,3,8",GROUP,OTHER,WT,891,Main Draw,SHRESTHA Nabita (NEP),LI Ching Wan (HKG),LI Ching Wan
+Asian Games Jakarta 2018,2018-08-18,HO Ying,GIANG Phan Hoang Tuong,3,0,"12,11,11|10,9,2",GROUP,OTHER,WT,891,Main Draw,GIANG Phan Hoang Tuong (VIE),HO Ying (MAS),HO Ying
+Asian Games Jakarta 2018,2018-08-18,NGUYEN Thi Nga,CHANG Li Sian,3,1,"11,6,11,11|9,11,9,8",GROUP,OTHER,WT,891,Main Draw,NGUYEN Thi Nga (VIE),CHANG Li Sian (MAS),NGUYEN Thi Nga
+Asian Games Jakarta 2018,2018-08-18,MAI Trang,LYNE Karen,3,2,"6,8,11,11,11|11,11,4,7,3",GROUP,OTHER,WT,891,Main Draw,MAI Trang (VIE),LYNE Karen (MAS),MAI Trang
+Asian Games Jakarta 2018,2018-08-18,CHANG Li Sian,GIANG Phan Hoang Tuong,3,1,"11,9,13,11|5,11,11,7",GROUP,OTHER,WT,891,Main Draw,GIANG Phan Hoang Tuong (VIE),CHANG Li Sian (MAS),CHANG Li Sian
+Asian Games Jakarta 2018,2018-08-18,HO Ying,NGUYEN Thi Nga,3,1,"11,11,7,12|5,7,11,10",GROUP,OTHER,WT,891,Main Draw,NGUYEN Thi Nga (VIE),HO Ying (MAS),HO Ying
+Asian Games Jakarta 2018,2018-08-18,DOO Hoi Kem,FENG Tianwei,3,1,"6,11,14,11|11,9,12,7",GROUP,OTHER,WT,891,Main Draw,FENG Tianwei (SGP),DOO Hoi Kem (HKG),DOO Hoi Kem
+Asian Games Jakarta 2018,2018-08-18,YU Mengyu,SOO Wai Yam,3,1,"11,11,7,11|8,3,11,4",GROUP,OTHER,WT,891,Main Draw,YU Mengyu (SGP),SOO Wai Yam (HKG),YU Mengyu
+Asian Games Jakarta 2018,2018-08-18,DOO Hoi Kem,LIN Ye,3,2,"10,11,11,7,11|12,2,5,11,8",GROUP,OTHER,WT,891,Main Draw,LIN Ye (CAN),DOO Hoi Kem (HKG),DOO Hoi Kem
+Asian Games Jakarta 2018,2018-08-18,LEE Ho Ching,FENG Tianwei,3,2,"14,9,11,6,11|12,11,7,11,8",GROUP,OTHER,WT,891,Main Draw,FENG Tianwei (SGP),LEE Ho Ching (HKG),LEE Ho Ching
+Asian Games Jakarta 2018,2018-08-18,CHENG Hsien-Tzu,HAWWA Kharisma Nur,3,0,"11,11,11|5,7,9",GROUP,OTHER,WT,891,Main Draw,HAWWA Kharisma Nur (INA),CHENG Hsien-Tzu (TPE),CHENG Hsien-Tzu
+Asian Games Jakarta 2018,2018-08-18,SINTYA Rina,LIN Chia-Hui,3,1,"11,11,9,11|9,9,11,9",GROUP,OTHER,WT,891,Main Draw,SINTYA Rina (INA),LIN Chia-Hui (TPE),SINTYA Rina
+Asian Games Jakarta 2018,2018-08-18,CHENG Hsien-Tzu,RAHAYU Atikah,3,0,"11,11,11|3,5,5",GROUP,OTHER,WT,891,Main Draw,RAHAYU Atikah (INA),CHENG Hsien-Tzu (TPE),CHENG Hsien-Tzu
+Asian Games Jakarta 2018,2018-08-18,CHEN Szu-Yu,HAWWA Kharisma Nur,3,0,"11,11,11|9,4,7",GROUP,OTHER,WT,891,Main Draw,HAWWA Kharisma Nur (INA),CHEN Szu-Yu (TPE),CHEN Szu-Yu
+Asian Games Jakarta 2018,2018-08-18,KIM Jiho,CHONG Weng I,3,0,"11,11,11|1,4,2",GROUP,OTHER,WT,891,Main Draw,KIM Jiho (KOR),CHONG Weng I (MAC),KIM Jiho
+Asian Games Jakarta 2018,2018-08-18,CHOI Hyojoo,WONG Choi Chi,3,0,"11,11,11|3,2,7",GROUP,OTHER,WT,891,Main Draw,CHOI Hyojoo (KOR),WONG Choi Chi (MAC),CHOI Hyojoo
+Asian Games Jakarta 2018,2018-08-18,SUH Hyo Won,U Sio Mei,3,0,"11,11,11|3,5,7",GROUP,OTHER,WT,891,Main Draw,SUH Hyo Won (KOR),U Sio Mei (MAC),SUH Hyo Won
+Asian Games Jakarta 2018,2018-08-18,KIM Song I,SAWETTABUT Suthasini,3,1,"11,8,11,11|3,11,2,3",GROUP,OTHER,WT,891,Main Draw,KIM Song I (PRK),SAWETTABUT Suthasini (THA),KIM Song I
+Asian Games Jakarta 2018,2018-08-18,KIM Nam Hae,KHETKHUAN Tamolwan,3,2,"12,11,9,11,11|10,5,11,13,7",GROUP,OTHER,WT,891,Main Draw,KIM Nam Hae (PRK),KHETKHUAN Tamolwan (THA),KIM Nam Hae
+Asian Games Jakarta 2018,2018-08-18,SAWETTABUT Suthasini,CHA Hyo Sim,3,2,"6,11,6,12,11|11,8,11,10,9",GROUP,OTHER,WT,891,Main Draw,CHA Hyo Sim (PRK),SAWETTABUT Suthasini (THA),SAWETTABUT Suthasini
+Asian Games Jakarta 2018,2018-08-18,KIM Song I,PARANANG Orawan,3,0,"11,11,11|2,5,7",GROUP,OTHER,WT,891,Main Draw,KIM Song I (PRK),PARANANG Orawan (THA),KIM Song I
+Asian Games Jakarta 2018,2018-08-18,MORIZONO Misaki,BATBAYAR Doljinzuu,3,0,"11,11,11|3,6,7",GROUP,OTHER,WT,891,Main Draw,BATBAYAR Doljinzuu (MGL),MORIZONO Misaki (JPN),MORIZONO Misaki
+Asian Games Jakarta 2018,2018-08-18,KATO Miyu,MUNKHBAT Undram,3,0,"11,11,11|4,4,6",GROUP,OTHER,WT,891,Main Draw,MUNKHBAT Undram (MGL),KATO Miyu (JPN),KATO Miyu
+Asian Games Jakarta 2018,2018-08-18,ANDO Minami,BATMUNKH Bolor-Erdene,3,0,"11,11,11|3,3,6",GROUP,OTHER,WT,891,Main Draw,BATMUNKH Bolor-Erdene (MGL),ANDO Minami (JPN),ANDO Minami
+Asian Games Jakarta 2018,2018-08-18,BATRA Manika,SHAHSAVARI Neda,3,2,"11,5,12,14,11|7,11,14,12,1",GROUP,OTHER,WT,891,Main Draw,BATRA Manika (IND),SHAHSAVARI Neda (IRI),BATRA Manika
+Asian Games Jakarta 2018,2018-08-18,DAS Mouma,SAMET Maryam,3,0,"11,11,11|7,8,7",GROUP,OTHER,WT,891,Main Draw,DAS Mouma (IND),SAMET Maryam (IRI),DAS Mouma
+Asian Games Jakarta 2018,2018-08-18,SHAHSAVARI Neda,MUKHERJEE Ayhika,3,2,"12,9,11,4,11|10,11,9,11,5",GROUP,OTHER,WT,891,Main Draw,MUKHERJEE Ayhika (IND),SHAHSAVARI Neda (IRI),SHAHSAVARI Neda
+Asian Games Jakarta 2018,2018-08-18,BATRA Manika,ASHTARI Mahshid,3,0,"11,11,11|6,4,3",GROUP,OTHER,WT,891,Main Draw,BATRA Manika (IND),ASHTARI Mahshid (IRI),BATRA Manika
+Asian Games Jakarta 2018,2018-08-18,CHEN Xingtong,FARAMARZI Maha,3,0,"11,11,11|1,3,1",GROUP,OTHER,WT,891,Main Draw,FARAMARZI Maha (QAT),CHEN Xingtong (CHN),CHEN Xingtong
+Asian Games Jakarta 2018,2018-08-18,SUN Yingsha,ALI Maryam,3,0,"11,11,11|1,1,1",GROUP,OTHER,WT,891,Main Draw,ALI Maryam (QAT),SUN Yingsha (CHN),SUN Yingsha
+Asian Games Jakarta 2018,2018-08-18,WANG Manyu,MOHAMED Aia,3,0,"11,11,11|3,2,5",GROUP,OTHER,WT,891,Main Draw,MOHAMED Aia (QAT),WANG Manyu (CHN),WANG Manyu
+Asian Games Jakarta 2018,2018-08-18,LIN Ye,MAHARJAN Rabina,3,0,"11,11,11|2,3,5",GROUP,OTHER,WT,891,Main Draw,LIN Ye (CAN),MAHARJAN Rabina (NEP),LIN Ye
+Asian Games Jakarta 2018,2018-08-18,YU Mengyu,SHRESTHA Nabita,3,1,"11,11,8,11|3,2,11,6",GROUP,OTHER,WT,891,Main Draw,YU Mengyu (SGP),SHRESTHA Nabita (NEP),YU Mengyu
+Asian Games Jakarta 2018,2018-08-18,FENG Tianwei,NEMBANG Swechchha,3,0,"11,11,11|3,6,4",GROUP,OTHER,WT,891,Main Draw,FENG Tianwei (SGP),NEMBANG Swechchha (NEP),FENG Tianwei
+Asian Games Jakarta 2018,2018-08-18,LEE Ho Ching,HO Ying,3,0,"11,11,11|9,3,7",GROUP,OTHER,WT,891,Main Draw,HO Ying (MAS),LEE Ho Ching (HKG),LEE Ho Ching
+Asian Games Jakarta 2018,2018-08-18,DOO Hoi Kem,LYNE Karen,3,0,"11,11,11|8,8,4",GROUP,OTHER,WT,891,Main Draw,LYNE Karen (MAS),DOO Hoi Kem (HKG),DOO Hoi Kem
+Asian Games Jakarta 2018,2018-08-18,SOO Wai Yam,CHANG Li Sian,3,0,"11,11,11|2,7,5",GROUP,OTHER,WT,891,Main Draw,CHANG Li Sian (MAS),SOO Wai Yam (HKG),SOO Wai Yam
+Asian Games Jakarta 2018,2018-08-18,INDRIANI Lilis,CHEONG Cheng I,3,2,"9,11,9,11,11|11,3,11,8,9",GROUP,OTHER,WT,891,Main Draw,INDRIANI Lilis (INA),CHEONG Cheng I (MAC),INDRIANI Lilis
+Asian Games Jakarta 2018,2018-08-18,HAWWA Kharisma Nur,WONG Choi Chi,3,1,"11,11,2,11|7,5,11,9",GROUP,OTHER,WT,891,Main Draw,HAWWA Kharisma Nur (INA),WONG Choi Chi (MAC),HAWWA Kharisma Nur
+Asian Games Jakarta 2018,2018-08-18,SINTYA Rina,CHONG Weng I,3,0,"11,11,11|7,9,4",GROUP,OTHER,WT,891,Main Draw,SINTYA Rina (INA),CHONG Weng I (MAC),SINTYA Rina
+Asian Games Jakarta 2018,2018-08-18,JEON Jihee,CHENG I-Ching,3,1,"11,11,11,11|13,8,8,5",GROUP,OTHER,WT,891,Main Draw,CHENG I-Ching (TPE),JEON Jihee (KOR),JEON Jihee
+Asian Games Jakarta 2018,2018-08-18,YANG Ha Eun,LIU Hsing-Yin,3,0,"11,11,11|6,9,9",GROUP,OTHER,WT,891,Main Draw,LIU Hsing-Yin (TPE),YANG Ha Eun (KOR),YANG Ha Eun
+Asian Games Jakarta 2018,2018-08-18,JEON Jihee,CHEN Szu-Yu,3,2,"5,11,11,7,11|11,7,6,11,5",GROUP,OTHER,WT,891,Main Draw,CHEN Szu-Yu (TPE),JEON Jihee (KOR),JEON Jihee
+Asian Games Jakarta 2018,2018-08-18,CHENG I-Ching,SUH Hyo Won,3,1,"11,7,11,15|3,11,8,13",GROUP,OTHER,WT,891,Main Draw,CHENG I-Ching (TPE),SUH Hyo Won (KOR),CHENG I-Ching
+Asian Games Jakarta 2018,2018-08-18,PARANANG Orawan,BATMUNKH Bolor-Erdene,3,0,"11,11,14|4,5,12",GROUP,OTHER,WT,891,Main Draw,BATMUNKH Bolor-Erdene (MGL),PARANANG Orawan (THA),PARANANG Orawan
+Asian Games Jakarta 2018,2018-08-18,SAWETTABUT Suthasini,BATBAYAR Doljinzuu,3,0,"11,11,11|3,4,6",GROUP,OTHER,WT,891,Main Draw,BATBAYAR Doljinzuu (MGL),SAWETTABUT Suthasini (THA),SAWETTABUT Suthasini
+Asian Games Jakarta 2018,2018-08-18,KHETKHUAN Tamolwan,MUNKHBAT Undram,3,0,"11,11,11|6,7,1",GROUP,OTHER,WT,891,Main Draw,MUNKHBAT Undram (MGL),KHETKHUAN Tamolwan (THA),KHETKHUAN Tamolwan
+Asian Games Jakarta 2018,2018-08-18,CHA Hyo Sim,ANDO Minami,3,1,"11,12,7,12|4,10,11,10",GROUP,OTHER,WT,891,Main Draw,ANDO Minami (JPN),CHA Hyo Sim (PRK),CHA Hyo Sim
+Asian Games Jakarta 2018,2018-08-18,KIM Song I,KATO Miyu,3,2,"11,11,4,6,11|8,4,11,11,9",GROUP,OTHER,WT,891,Main Draw,KATO Miyu (JPN),KIM Song I (PRK),KIM Song I
+Asian Games Jakarta 2018,2018-08-18,KIM Nam Hae,MAEDA Miyu,3,2,"11,11,14,6,11|8,8,16,11,5",GROUP,OTHER,WT,891,Main Draw,MAEDA Miyu (JPN),KIM Nam Hae (PRK),KIM Nam Hae
+Asian Games Jakarta 2018,2018-08-18,ANDO Minami,KIM Song I,3,1,"4,11,11,11|11,6,9,7",GROUP,OTHER,WT,891,Main Draw,ANDO Minami (JPN),KIM Song I (PRK),ANDO Minami
+Asian Games Jakarta 2018,2018-08-18,KATO Miyu,CHA Hyo Sim,3,1,"7,11,13,14|11,2,11,12",GROUP,OTHER,WT,891,Main Draw,KATO Miyu (JPN),CHA Hyo Sim (PRK),KATO Miyu
+Asian Games Jakarta 2018,2018-08-18,SAFARI Saba,FARAMARZI Maha,3,1,"13,9,11,11|11,11,8,1",GROUP,OTHER,WT,891,Main Draw,FARAMARZI Maha (QAT),SAFARI Saba (IRI),SAFARI Saba
+Asian Games Jakarta 2018,2018-08-18,SHAHSAVARI Neda,ALI Maha,3,0,"11,11,11|4,3,3",GROUP,OTHER,WT,891,Main Draw,ALI Maha (QAT),SHAHSAVARI Neda (IRI),SHAHSAVARI Neda
+Asian Games Jakarta 2018,2018-08-18,ASHTARI Mahshid,MOHAMED Aia,3,0,"11,11,11|3,7,2",GROUP,OTHER,WT,891,Main Draw,MOHAMED Aia (QAT),ASHTARI Mahshid (IRI),ASHTARI Mahshid
+Asian Games Jakarta 2018,2018-08-18,WANG Manyu,PATKAR Madhurika,3,0,"11,11,11|4,4,2",GROUP,OTHER,WT,891,Main Draw,PATKAR Madhurika (IND),WANG Manyu (CHN),WANG Manyu
+Asian Games Jakarta 2018,2018-08-18,ZHU Yuling,BATRA Manika,3,0,"11,11,12|5,6,10",GROUP,OTHER,WT,891,Main Draw,BATRA Manika (IND),ZHU Yuling (MAC),ZHU Yuling
+Asian Games Jakarta 2018,2018-08-18,CHEN Meng,MUKHERJEE Ayhika,3,1,"11,8,14,11|8,11,12,9",GROUP,OTHER,WT,891,Main Draw,MUKHERJEE Ayhika (IND),CHEN Meng (CHN),CHEN Meng
+Asian Games Jakarta 2018,2018-08-18,LYNE Karen,MAHARJAN Rabina,3,1,"11,11,12,11|4,5,14,4",GROUP,OTHER,WT,891,Main Draw,LYNE Karen (MAS),MAHARJAN Rabina (NEP),LYNE Karen
+Asian Games Jakarta 2018,2018-08-18,CHANG Li Sian,SHRESTHA Nabita,3,0,"14,11,11|12,9,5",GROUP,OTHER,WT,891,Main Draw,CHANG Li Sian (MAS),SHRESTHA Nabita (NEP),CHANG Li Sian
+Asian Games Jakarta 2018,2018-08-18,HO Ying,NEMBANG Swechchha,3,0,"11,11,13|8,2,11",GROUP,OTHER,WT,891,Main Draw,HO Ying (MAS),NEMBANG Swechchha (NEP),HO Ying
+Asian Games Jakarta 2018,2018-08-18,LEE Ho Ching,NGUYEN Khanh,3,0,"11,11,11|4,3,6",GROUP,OTHER,WT,891,Main Draw,NGUYEN Khanh (VIE),LEE Ho Ching (HKG),LEE Ho Ching
+Asian Games Jakarta 2018,2018-08-18,DOO Hoi Kem,NGUYEN Thi Nga,3,0,"11,11,11|3,1,5",GROUP,OTHER,WT,891,Main Draw,NGUYEN Thi Nga (VIE),DOO Hoi Kem (HKG),DOO Hoi Kem
+Asian Games Jakarta 2018,2018-08-18,SOO Wai Yam,MAI Trang,3,0,"11,11,11|9,5,5",GROUP,OTHER,WT,891,Main Draw,MAI Trang (VIE),SOO Wai Yam (HKG),SOO Wai Yam
+Asian Games Jakarta 2018,2018-08-18,CHEN Szu-Yu,TAM Sut Fei,3,0,"11,11,11|3,3,3",GROUP,OTHER,WT,891,Main Draw,CHEN Szu-Yu (TPE),TAM Sut Fei (MAC),CHEN Szu-Yu
+Asian Games Jakarta 2018,2018-08-18,LIU Hsing-Yin,CHEONG Cheng I,3,0,"11,11,11|5,5,9",GROUP,OTHER,WT,891,Main Draw,LIU Hsing-Yin (TPE),CHEONG Cheng I (MAC),LIU Hsing-Yin
+Asian Games Jakarta 2018,2018-08-18,CHENG I-Ching,WONG Choi Chi,3,0,"11,11,12|6,3,10",GROUP,OTHER,WT,891,Main Draw,CHENG I-Ching (TPE),WONG Choi Chi (MAC),CHENG I-Ching
+Asian Games Jakarta 2018,2018-08-18,YANG Ha Eun,DWIJAYANTI Gustin,3,0,"11,11,11|6,7,7",GROUP,OTHER,WT,891,Main Draw,YANG Ha Eun (KOR),DWIJAYANTI Gustin (INA),YANG Ha Eun
+Asian Games Jakarta 2018,2018-08-18,JEON Jihee,SINTYA Rina,3,0,"12,11,11|10,6,5",GROUP,OTHER,WT,891,Main Draw,JEON Jihee (KOR),SINTYA Rina (INA),JEON Jihee
+Asian Games Jakarta 2018,2018-08-18,SUH Hyo Won,HAWWA Kharisma Nur,3,0,"11,11,11|7,5,8",GROUP,OTHER,WT,891,Main Draw,SUH Hyo Won (KOR),HAWWA Kharisma Nur (INA),SUH Hyo Won
+Asian Games Jakarta 2018,2018-08-18,KIM Nam Hae,MUNKHBAT Undram,3,0,"11,11,11|1,5,4",GROUP,OTHER,WT,891,Main Draw,KIM Nam Hae (PRK),MUNKHBAT Undram (MGL),KIM Nam Hae
+Asian Games Jakarta 2018,2018-08-18,CHA Hyo Sim,BATBAYAR Doljinzuu,3,0,"11,11,11|0,4,6",GROUP,OTHER,WT,891,Main Draw,CHA Hyo Sim (PRK),BATBAYAR Doljinzuu (MGL),CHA Hyo Sim
+Asian Games Jakarta 2018,2018-08-18,KIM Song I,BATMUNKH Bolor-Erdene,3,0,"11,11,11|4,2,2",GROUP,OTHER,WT,891,Main Draw,KIM Song I (PRK),BATMUNKH Bolor-Erdene (MGL),KIM Song I
+Asian Games Jakarta 2018,2018-08-18,MAEDA Miyu,KOMWONG Nanthana,3,0,"11,11,11|8,5,4",GROUP,OTHER,WT,891,Main Draw,KOMWONG Nanthana (THA),MAEDA Miyu (JPN),MAEDA Miyu
+Asian Games Jakarta 2018,2018-08-18,KATO Miyu,PARANANG Orawan,3,1,"11,14,11,12|6,16,7,10",GROUP,OTHER,WT,891,Main Draw,PARANANG Orawan (THA),KATO Miyu (JPN),KATO Miyu
+Asian Games Jakarta 2018,2018-08-18,ANDO Minami,SAWETTABUT Suthasini,3,0,"11,11,11|7,9,7",GROUP,OTHER,WT,891,Main Draw,SAWETTABUT Suthasini (THA),ANDO Minami (JPN),ANDO Minami
+Asian Games Jakarta 2018,2018-08-18,MUKHERJEE Sutirtha,FARAMARZI Maha,3,0,"11,11,11|3,3,6",GROUP,OTHER,WT,891,Main Draw,MUKHERJEE Sutirtha (IND),FARAMARZI Maha (QAT),MUKHERJEE Sutirtha
+Asian Games Jakarta 2018,2018-08-18,MUKHERJEE Ayhika,MOHAMED Aia,3,1,"11,10,11,11|2,12,2,3",GROUP,OTHER,WT,891,Main Draw,MUKHERJEE Ayhika (IND),MOHAMED Aia (QAT),MUKHERJEE Ayhika
+Asian Games Jakarta 2018,2018-08-18,DAS Mouma,ALI Maha,3,0,"11,11,11|3,2,4",GROUP,OTHER,WT,891,Main Draw,DAS Mouma (IND),ALI Maha (QAT),DAS Mouma
+Asian Games Jakarta 2018,2018-08-18,SUN Yingsha,SAMET Maryam,3,0,"11,11,11|4,7,1",GROUP,OTHER,WT,891,Main Draw,SAMET Maryam (IRI),SUN Yingsha (CHN),SUN Yingsha
+Asian Games Jakarta 2018,2018-08-18,CHEN Xingtong,SHAHSAVARI Neda,3,0,"11,11,11|3,8,9",GROUP,OTHER,WT,891,Main Draw,SHAHSAVARI Neda (IRI),CHEN Xingtong (CHN),CHEN Xingtong
+Asian Games Jakarta 2018,2018-08-18,CHEN Meng,ASHTARI Mahshid,3,0,"11,11,11|5,4,3",GROUP,OTHER,WT,891,Main Draw,ASHTARI Mahshid (IRI),CHEN Meng (CHN),CHEN Meng
+Asian Games Jakarta 2018,2018-08-18,WANG Chuqin,JANG Woojin,3,1,"13,7,11,11|11,11,9,6",F,OTHER,MT,891,Main Draw,JANG Woojin (KOR),WANG Chuqin (CHN),WANG Chuqin
+Asian Games Jakarta 2018,2018-08-18,FAN Zhendong,JEOUNG Youngsik,3,1,"10,11,11,11|12,8,8,7",F,OTHER,MT,891,Main Draw,JEOUNG Youngsik (KOR),FAN Zhendong (CHN),FAN Zhendong
+Asian Games Jakarta 2018,2018-08-18,LIN Gaoyuan,LEE Sang Su,3,0,"11,11,11|3,3,2",F,OTHER,MT,891,Main Draw,LEE Sang Su (KOR),LIN Gaoyuan (CHN),LIN Gaoyuan
+Asian Games Jakarta 2018,2018-08-18,JANG Woojin,ANTHONY Amalraj,3,1,"11,11,4,11|5,7,11,7",SF,OTHER,MT,891,Main Draw,JANG Woojin (KOR),ANTHONY Amalraj (IND),JANG Woojin
+Asian Games Jakarta 2018,2018-08-18,JEOUNG Youngsik,ACHANTA Sharath,3,2,"11,11,6,7,11|9,9,11,11,8",SF,OTHER,MT,891,Main Draw,JEOUNG Youngsik (KOR),ACHANTA Sharath (IND),JEOUNG Youngsik
+Asian Games Jakarta 2018,2018-08-18,LEE Sang Su,GNANASEKARAN Sathiyan,3,1,"9,11,11,11|11,9,3,3",SF,OTHER,MT,891,Main Draw,LEE Sang Su (KOR),GNANASEKARAN Sathiyan (IND),LEE Sang Su
+Asian Games Jakarta 2018,2018-08-18,FAN Zhendong,CHUANG Chih-Yuan,3,0,"11,12,11|4,10,4",SF,OTHER,MT,891,Main Draw,CHUANG Chih-Yuan (TPE),FAN Zhendong (CHN),FAN Zhendong
+Asian Games Jakarta 2018,2018-08-18,LIN Yun-Ju,WANG Chuqin,3,1,"11,14,3,11|9,12,11,9",SF,OTHER,MT,891,Main Draw,LIN Yun-Ju (TPE),WANG Chuqin (CHN),LIN Yun-Ju
+Asian Games Jakarta 2018,2018-08-18,FAN Zhendong,CHEN Chien-An,3,0,"11,11,12|9,8,10",SF,OTHER,MT,891,Main Draw,CHEN Chien-An (TPE),FAN Zhendong (CHN),FAN Zhendong
+Asian Games Jakarta 2018,2018-08-18,LIN Gaoyuan,CHUANG Chih-Yuan,3,0,"11,11,11|6,8,3",SF,OTHER,MT,891,Main Draw,CHUANG Chih-Yuan (TPE),LIN Gaoyuan (CHN),LIN Gaoyuan
+Asian Games Jakarta 2018,2018-08-18,GNANASEKARAN Sathiyan,MATSUDAIRA Kenta,3,1,"12,6,11,11|10,11,7,4",QF,OTHER,MT,891,Main Draw,GNANASEKARAN Sathiyan (IND),MATSUDAIRA Kenta (JPN),GNANASEKARAN Sathiyan
+Asian Games Jakarta 2018,2018-08-18,YOSHIDA Masaki,DESAI Harmeet,3,2,"9,14,8,11,11|11,12,11,8,4",QF,OTHER,MT,891,Main Draw,DESAI Harmeet (IND),YOSHIDA Masaki (JPN),YOSHIDA Masaki
+Asian Games Jakarta 2018,2018-08-18,ACHANTA Sharath,MATSUDAIRA Kenta,3,0,"11,12,11|8,10,8",QF,OTHER,MT,891,Main Draw,ACHANTA Sharath (IND),MATSUDAIRA Kenta (JPN),ACHANTA Sharath
+Asian Games Jakarta 2018,2018-08-18,GNANASEKARAN Sathiyan,UEDA Jin,3,0,"11,11,11|9,9,7",QF,OTHER,MT,891,Main Draw,GNANASEKARAN Sathiyan (IND),UEDA Jin (JPN),GNANASEKARAN Sathiyan
+Asian Games Jakarta 2018,2018-08-18,JEOUNG Youngsik,AN Ji Song,3,1,"8,11,11,11|11,4,6,6",QF,OTHER,MT,891,Main Draw,JEOUNG Youngsik (KOR),AN Ji Song (PRK),JEOUNG Youngsik
+Asian Games Jakarta 2018,2018-08-18,PAK Sin Hyok,LEE Sang Su,3,1,"11,11,6,13|6,7,11,11",QF,OTHER,MT,891,Main Draw,LEE Sang Su (KOR),PAK Sin Hyok (PRK),PAK Sin Hyok
+Asian Games Jakarta 2018,2018-08-18,JANG Woojin,HAM Yu Song,3,0,"11,11,11|4,7,7",QF,OTHER,MT,891,Main Draw,JANG Woojin (KOR),HAM Yu Song (PRK),JANG Woojin
+Asian Games Jakarta 2018,2018-08-18,JEOUNG Youngsik,PAK Sin Hyok,3,0,"11,14,11|7,12,7",QF,OTHER,MT,891,Main Draw,JEOUNG Youngsik (KOR),PAK Sin Hyok (PRK),JEOUNG Youngsik
+Asian Games Jakarta 2018,2018-08-18,AN Ji Song,LEE Sang Su,3,2,"11,11,4,7,11|8,9,11,11,9",QF,OTHER,MT,891,Main Draw,LEE Sang Su (KOR),AN Ji Song (PRK),AN Ji Song
+Asian Games Jakarta 2018,2018-08-18,LIN Yun-Ju,AHMADIAN Amin,3,0,"11,11,11|8,9,7",QF,OTHER,MT,891,Main Draw,AHMADIAN Amin (IRI),LIN Yun-Ju (TPE),LIN Yun-Ju
+Asian Games Jakarta 2018,2018-08-18,CHUANG Chih-Yuan,ALAMIAN Nima,3,1,"11,7,11,11|7,11,8,6",QF,OTHER,MT,891,Main Draw,ALAMIAN Nima (IRI),CHUANG Chih-Yuan (TPE),CHUANG Chih-Yuan
+Asian Games Jakarta 2018,2018-08-18,CHEN Chien-An,ALAMIYAN Noshad,3,0,"11,11,11|8,3,6",QF,OTHER,MT,891,Main Draw,ALAMIYAN Noshad (IRI),CHEN Chien-An (TPE),CHEN Chien-An
+Asian Games Jakarta 2018,2018-08-18,LIANG Jingkun,LAM Siu Hang,3,0,"11,11,11|7,2,9",QF,OTHER,MT,891,Main Draw,LIANG Jingkun (CHN),LAM Siu Hang (HKG),LIANG Jingkun
+Asian Games Jakarta 2018,2018-08-18,LIN Gaoyuan,WONG Chun Ting,3,0,"11,11,11|9,4,9",QF,OTHER,MT,891,Main Draw,LIN Gaoyuan (CHN),WONG Chun Ting (HKG),LIN Gaoyuan
+Asian Games Jakarta 2018,2018-08-18,FAN Zhendong,HO Kwan Kit,3,0,"11,11,11|5,1,8",QF,OTHER,MT,891,Main Draw,FAN Zhendong (CHN),HO Kwan Kit (HKG),FAN Zhendong
+Asian Games Jakarta 2018,2018-08-18,DESAI Harmeet,LE Dinh Duc,3,1,"2,12,11,11|11,10,9,8",GROUP,OTHER,MT,891,Main Draw,LE Dinh Duc (VIE),DESAI Harmeet (IND),DESAI Harmeet
+Asian Games Jakarta 2018,2018-08-18,ACHANTA Sharath,NGUYEN Duc Tuan,3,0,"11,11,11|7,7,5",GROUP,OTHER,MT,891,Main Draw,NGUYEN Duc Tuan (VIE),ACHANTA Sharath (IND),ACHANTA Sharath
+Asian Games Jakarta 2018,2018-08-18,GNANASEKARAN Sathiyan,NGUYEN Anh Tu,3,2,"6,11,5,11,11|11,2,11,4,2",GROUP,OTHER,MT,891,Main Draw,NGUYEN Anh Tu (VIE),GNANASEKARAN Sathiyan (IND),GNANASEKARAN Sathiyan
+Asian Games Jakarta 2018,2018-08-18,CHEONG Chi Cheng,ALBALUSHI Salah,3,0,"11,11,11|6,4,9",GROUP,OTHER,MT,891,Main Draw,ALBALUSHI Salah (UAE),CHEONG Chi Cheng (MAC),CHEONG Chi Cheng
+Asian Games Jakarta 2018,2018-08-18,ALBALOOSHI Abdulla,MAK Tin Ian,3,2,"11,10,11,6,11|7,12,8,11,6",GROUP,OTHER,MT,891,Main Draw,ALBALOOSHI Abdulla (UAE),MAK Tin Ian (MAC),ALBALOOSHI Abdulla
+Asian Games Jakarta 2018,2018-08-18,CHEONG Chi Cheng,ALBLOOSHI Essa,3,0,"11,13,12|9,11,10",GROUP,OTHER,MT,891,Main Draw,ALBLOOSHI Essa (UAE),CHEONG Chi Cheng (MAC),CHEONG Chi Cheng
+Asian Games Jakarta 2018,2018-08-18,XIAO Zikang,ALBALUSHI Salah,3,0,"11,11,11|5,9,8",GROUP,OTHER,MT,891,Main Draw,ALBALUSHI Salah (UAE),XIAO Zikang (MAC),XIAO Zikang
+Asian Games Jakarta 2018,2018-08-18,LAM Siu Hang,AJI Donny,3,0,"11,11,11|6,3,9",GROUP,OTHER,MT,891,Main Draw,AJI Donny (INA),LAM Siu Hang (HKG),LAM Siu Hang
+Asian Games Jakarta 2018,2018-08-18,WONG Chun Ting,NEGARA Muhammad,3,1,"11,9,11,11|4,11,2,4",GROUP,OTHER,MT,891,Main Draw,NEGARA Muhammad (INA),WONG Chun Ting (HKG),WONG Chun Ting
+Asian Games Jakarta 2018,2018-08-18,HO Kwan Kit,SANTOSO Ficky,3,0,"11,11,11|5,8,8",GROUP,OTHER,MT,891,Main Draw,SANTOSO Ficky (INA),HO Kwan Kit (HKG),HO Kwan Kit
+Asian Games Jakarta 2018,2018-08-18,CHINBAT Erdenebayar,AL-MAHAQERI Taha,3,2,"11,8,11,6,11|3,11,6,11,2",GROUP,OTHER,MT,891,Main Draw,CHINBAT Erdenebayar (MGL),AL-MAHAQERI Taha (YEM),CHINBAT Erdenebayar
+Asian Games Jakarta 2018,2018-08-18,ENKHBAT Lkhagvasuren,AL-DHUBHANI Muneer,3,2,"11,14,9,6,11|8,12,11,11,4",GROUP,OTHER,MT,891,Main Draw,ENKHBAT Lkhagvasuren (MGL),AL-DHUBHANI Muneer (YEM),ENKHBAT Lkhagvasuren
+Asian Games Jakarta 2018,2018-08-18,BATKHISHIG Bilegt,ALI Omar,3,1,"8,12,12,11|11,10,10,4",GROUP,OTHER,MT,891,Main Draw,BATKHISHIG Bilegt (MGL),ALI Omar (YEM),BATKHISHIG Bilegt
+Asian Games Jakarta 2018,2018-08-18,ALAMIAN Nima,WISUTMAYTHANGKOON Supanut,3,2,"5,11,11,9,11|11,7,5,11,3",GROUP,OTHER,MT,891,Main Draw,WISUTMAYTHANGKOON Supanut (THA),ALAMIAN Nima (IRI),ALAMIAN Nima
+Asian Games Jakarta 2018,2018-08-18,PASSARA Pattaratorn,NOROOZI Afshin,3,2,"6,9,11,11,12|11,11,5,8,10",GROUP,OTHER,MT,891,Main Draw,PASSARA Pattaratorn (THA),NOROOZI Afshin (IRI),PASSARA Pattaratorn
+Asian Games Jakarta 2018,2018-08-18,ALAMIAN Nima,TANVIRIYAVECHAKUL Padasak,3,0,"11,13,11|8,11,5",GROUP,OTHER,MT,891,Main Draw,TANVIRIYAVECHAKUL Padasak (THA),ALAMIAN Nima (IRI),ALAMIAN Nima
+Asian Games Jakarta 2018,2018-08-18,ALAMIYAN Noshad,WISUTMAYTHANGKOON Supanut,3,2,"8,11,9,11,11|11,5,11,7,5",GROUP,OTHER,MT,891,Main Draw,WISUTMAYTHANGKOON Supanut (THA),ALAMIYAN Noshad (IRI),ALAMIYAN Noshad
+Asian Games Jakarta 2018,2018-08-18,IAKUPBAEV Alisher,AHMED Moosa,3,0,"11,11,11|9,6,9",GROUP,OTHER,MT,891,Main Draw,AHMED Moosa (MDV),IAKUPBAEV Alisher (KGZ),IAKUPBAEV Alisher
+Asian Games Jakarta 2018,2018-08-18,SHAFFAN Mohamed,KYDYRBAEV Aziz,3,2,"7,11,7,11,11|11,9,11,3,4",GROUP,OTHER,MT,891,Main Draw,SHAFFAN Mohamed (MDV),KYDYRBAEV Aziz (KGZ),SHAFFAN Mohamed
+Asian Games Jakarta 2018,2018-08-18,IAKUPBAEV Alisher,NASEEM Mohamed,3,0,"11,11,11|8,4,7",GROUP,OTHER,MT,891,Main Draw,NASEEM Mohamed (MDV),IAKUPBAEV Alisher (KGZ),IAKUPBAEV Alisher
+Asian Games Jakarta 2018,2018-08-18,SAGYNDYKOV Talgat,AHMED Moosa,3,1,"9,11,11,11|11,8,9,5",GROUP,OTHER,MT,891,Main Draw,AHMED Moosa (MDV),SAGYNDYKOV Talgat (KGZ),SAGYNDYKOV Talgat
+Asian Games Jakarta 2018,2018-08-18,HAM Yu Song,CHOONG Javen,3,2,"8,11,11,4,11|11,4,8,11,2",GROUP,OTHER,MT,891,Main Draw,CHOONG Javen (MAS),HAM Yu Song (PRK),HAM Yu Song
+Asian Games Jakarta 2018,2018-08-18,AN Ji Song,HAIQAL Muhamad Ashraf,3,1,"7,12,11,11|11,10,9,7",GROUP,OTHER,MT,891,Main Draw,HAIQAL Muhamad Ashraf (MAS),AN Ji Song (PRK),AN Ji Song
+Asian Games Jakarta 2018,2018-08-18,PAK Sin Hyok,LEONG Chee Feng,3,0,"11,11,11|6,9,7",GROUP,OTHER,MT,891,Main Draw,LEONG Chee Feng (MAS),PAK Sin Hyok (PRK),PAK Sin Hyok
+Asian Games Jakarta 2018,2018-08-18,MALLA Amar,MOSANGSINH Sonpasith,3,2,"9,11,11,9,11|11,9,6,11,3",GROUP,OTHER,MT,891,Main Draw,MALLA Amar (NEP),MOSANGSINH Sonpasith (LAO),MALLA Amar
+Asian Games Jakarta 2018,2018-08-18,VONGDALASINH Seng,SAUN Deep,3,1,"11,8,11,11|8,11,9,6",GROUP,OTHER,MT,891,Main Draw,SAUN Deep (NEP),VONGDALASINH Seng (LAO),VONGDALASINH Seng
+Asian Games Jakarta 2018,2018-08-18,SHRESTHA Santoo,MOSANGSINH Sonpasith,3,0,"11,11,11|6,3,9",GROUP,OTHER,MT,891,Main Draw,SHRESTHA Santoo (NEP),MOSANGSINH Sonpasith (LAO),SHRESTHA Santoo
+Asian Games Jakarta 2018,2018-08-18,MALLA Amar,SATHATHONE Duangtavane,3,1,"8,11,11,11|11,7,4,7",GROUP,OTHER,MT,891,Main Draw,MALLA Amar (NEP),SATHATHONE Duangtavane (LAO),MALLA Amar
+Asian Games Jakarta 2018,2018-08-18,THAKKAR Manav,MAK Tin Ian,3,0,"11,11,11|5,4,4",GROUP,OTHER,MT,891,Main Draw,MAK Tin Ian (MAC),THAKKAR Manav (IND),THAKKAR Manav
+Asian Games Jakarta 2018,2018-08-18,DESAI Harmeet,XIAO Zikang,3,1,"11,11,8,11|4,8,11,3",GROUP,OTHER,MT,891,Main Draw,XIAO Zikang (MAC),DESAI Harmeet (IND),DESAI Harmeet
+Asian Games Jakarta 2018,2018-08-18,ANTHONY Amalraj,WANG Chun,3,0,"11,11,11|7,3,4",GROUP,OTHER,MT,891,Main Draw,WANG Chun (MAC),ANTHONY Amalraj (IND),ANTHONY Amalraj
+Asian Games Jakarta 2018,2018-08-18,LEE Chia-Sheng,ALBLOOSHI Essa,3,0,"11,11,11|3,3,4",GROUP,OTHER,MT,891,Main Draw,LEE Chia-Sheng (TPE),ALBLOOSHI Essa (UAE),LEE Chia-Sheng
+Asian Games Jakarta 2018,2018-08-18,LIAO Cheng-Ting,ALBALOOSHI Abdulla,3,0,"11,11,11|1,7,6",GROUP,OTHER,MT,891,Main Draw,LIAO Cheng-Ting (TPE),ALBALOOSHI Abdulla (UAE),LIAO Cheng-Ting
+Asian Games Jakarta 2018,2018-08-18,CHEN Chien-An,ALBALUSHI Salah,3,0,"11,11,11|8,1,1",GROUP,OTHER,MT,891,Main Draw,CHEN Chien-An (TPE),ALBALUSHI Salah (UAE),CHEN Chien-An
+Asian Games Jakarta 2018,2018-08-18,HO Kwan Kit,MYANDAL Temuulen,3,0,"11,11,11|2,4,2",GROUP,OTHER,MT,891,Main Draw,HO Kwan Kit (HKG),MYANDAL Temuulen (MGL),HO Kwan Kit
+Asian Games Jakarta 2018,2018-08-18,NG Pak Nam,ENKHBAT Lkhagvasuren,3,1,"11,11,9,11|3,7,11,8",GROUP,OTHER,MT,891,Main Draw,NG Pak Nam (HKG),ENKHBAT Lkhagvasuren (MGL),NG Pak Nam
+Asian Games Jakarta 2018,2018-08-18,LAM Siu Hang,BATKHISHIG Bilegt,3,0,"11,11,11|4,2,9",GROUP,OTHER,MT,891,Main Draw,LAM Siu Hang (HKG),BATKHISHIG Bilegt (MGL),LAM Siu Hang
+Asian Games Jakarta 2018,2018-08-18,KIM Donghyun,GUBRAN Ebrahim,3,1,"13,11,6,13|11,9,11,11",GROUP,OTHER,MT,891,Main Draw,KIM Donghyun (KOR),GUBRAN Ebrahim (YEM),KIM Donghyun
+Asian Games Jakarta 2018,2018-08-18,LIM Jonghoon,AL-DHUBHANI Muneer,3,0,"11,11,11|5,8,8",GROUP,OTHER,MT,891,Main Draw,LIM Jonghoon (KOR),AL-DHUBHANI Muneer (YEM),LIM Jonghoon
+Asian Games Jakarta 2018,2018-08-18,JANG Woojin,AL-MAHAQERI Taha,3,0,"11,11,12|7,3,10",GROUP,OTHER,MT,891,Main Draw,JANG Woojin (KOR),AL-MAHAQERI Taha (YEM),JANG Woojin
+Asian Games Jakarta 2018,2018-08-18,NOROOZI Afshin,NASEEM Mohamed,3,0,"11,11,11|5,6,5",GROUP,OTHER,MT,891,Main Draw,NASEEM Mohamed (MDV),NOROOZI Afshin (IRI),NOROOZI Afshin
+Asian Games Jakarta 2018,2018-08-18,ALAMIYAN Noshad,SHAFFAN Mohamed,3,0,"11,11,11|5,4,7",GROUP,OTHER,MT,891,Main Draw,SHAFFAN Mohamed (MDV),ALAMIYAN Noshad (IRI),ALAMIYAN Noshad
+Asian Games Jakarta 2018,2018-08-18,ALAMIAN Nima,AHMED Moosa,3,0,"11,11,11|5,3,5",GROUP,OTHER,MT,891,Main Draw,AHMED Moosa (MDV),ALAMIAN Nima (IRI),ALAMIAN Nima
+Asian Games Jakarta 2018,2018-08-18,MATSUDAIRA Kenta,KYDYRBAEV Aziz,3,0,"11,11,11|3,1,8",GROUP,OTHER,MT,891,Main Draw,KYDYRBAEV Aziz (KGZ),MATSUDAIRA Kenta (JPN),MATSUDAIRA Kenta
+Asian Games Jakarta 2018,2018-08-18,YOSHIDA Masaki,SAGYNDYKOV Talgat,3,0,"11,11,11|5,3,5",GROUP,OTHER,MT,891,Main Draw,SAGYNDYKOV Talgat (KGZ),YOSHIDA Masaki (JPN),YOSHIDA Masaki
+Asian Games Jakarta 2018,2018-08-18,MORIZONO Masataka,IAKUPBAEV Alisher,3,0,"11,11,11|7,5,4",GROUP,OTHER,MT,891,Main Draw,IAKUPBAEV Alisher (KGZ),MORIZONO Masataka (JPN),MORIZONO Masataka
+Asian Games Jakarta 2018,2018-08-18,PAK Sin Hyok,SAUN Deep,3,0,"11,11,12|3,9,10",GROUP,OTHER,MT,891,Main Draw,SAUN Deep (NEP),PAK Sin Hyok (PRK),PAK Sin Hyok
+Asian Games Jakarta 2018,2018-08-18,HAM Yu Song,MALLA Amar,3,0,"11,11,11|6,9,7",GROUP,OTHER,MT,891,Main Draw,MALLA Amar (NEP),HAM Yu Song (PRK),HAM Yu Song
+Asian Games Jakarta 2018,2018-08-18,AN Ji Song,SHRESTHA Santoo,3,0,"11,11,11|4,6,6",GROUP,OTHER,MT,891,Main Draw,SHRESTHA Santoo (NEP),AN Ji Song (PRK),AN Ji Song
+Asian Games Jakarta 2018,2018-08-18,WANG Chuqin,SATHATHONE Duangtavane,3,0,"11,11,11|3,4,4",GROUP,OTHER,MT,891,Main Draw,WANG Chuqin (CHN),SATHATHONE Duangtavane (LAO),WANG Chuqin
+Asian Games Jakarta 2018,2018-08-18,XUE Fei,MOSANGSINH Sonpasith,3,0,"11,11,11|4,3,1",GROUP,OTHER,MT,891,Main Draw,XUE Fei (CHN),MOSANGSINH Sonpasith (LAO),XUE Fei
+Asian Games Jakarta 2018,2018-08-18,LIANG Jingkun,VONGDALASINH Seng,3,0,"11,11,11|4,4,3",GROUP,OTHER,MT,891,Main Draw,LIANG Jingkun (CHN),VONGDALASINH Seng (LAO),LIANG Jingkun
+Asian Games Jakarta 2018,2018-08-18,LE Dinh Duc,CHEONG Chi Chon,3,1,"11,10,11,11|4,12,4,6",GROUP,OTHER,MT,891,Main Draw,LE Dinh Duc (VIE),CHEONG Chi Chon (MAC),LE Dinh Duc
+Asian Games Jakarta 2018,2018-08-18,NGUYEN Duc Tuan,CHEONG Chi Cheng,3,0,"11,11,11|7,7,3",GROUP,OTHER,MT,891,Main Draw,NGUYEN Duc Tuan (VIE),CHEONG Chi Cheng (MAC),NGUYEN Duc Tuan
+Asian Games Jakarta 2018,2018-08-18,NGUYEN Anh Tu,WANG Chun,3,0,"11,11,11|8,5,3",GROUP,OTHER,MT,891,Main Draw,NGUYEN Anh Tu (VIE),WANG Chun (MAC),NGUYEN Anh Tu
+Asian Games Jakarta 2018,2018-08-18,LIN Yun-Ju,GNANASEKARAN Sathiyan,3,1,"11,4,11,11|9,11,9,9",GROUP,OTHER,MT,891,Main Draw,GNANASEKARAN Sathiyan (IND),LIN Yun-Ju (TPE),LIN Yun-Ju
+Asian Games Jakarta 2018,2018-08-18,CHUANG Chih-Yuan,ACHANTA Sharath,3,1,"11,11,10,11|1,8,12,1",GROUP,OTHER,MT,891,Main Draw,ACHANTA Sharath (IND),CHUANG Chih-Yuan (TPE),CHUANG Chih-Yuan
+Asian Games Jakarta 2018,2018-08-18,DESAI Harmeet,CHEN Chien-An,3,2,"11,10,11,7,13|7,12,7,11,11",GROUP,OTHER,MT,891,Main Draw,DESAI Harmeet (IND),CHEN Chien-An (TPE),DESAI Harmeet
+Asian Games Jakarta 2018,2018-08-18,CHUANG Chih-Yuan,GNANASEKARAN Sathiyan,3,0,"12,11,11|10,9,9",GROUP,OTHER,MT,891,Main Draw,GNANASEKARAN Sathiyan (IND),CHUANG Chih-Yuan (TPE),CHUANG Chih-Yuan
+Asian Games Jakarta 2018,2018-08-18,ACHANTA Sharath,LIN Yun-Ju,3,1,"11,5,12,11|8,11,10,8",GROUP,OTHER,MT,891,Main Draw,ACHANTA Sharath (IND),LIN Yun-Ju (TPE),ACHANTA Sharath
+Asian Games Jakarta 2018,2018-08-18,PURKANI Luki Muhammad,JARGALSAIKHAN Munkhzorig,3,0,"11,11,11|5,2,9",GROUP,OTHER,MT,891,Main Draw,JARGALSAIKHAN Munkhzorig (MGL),PURKANI Luki Muhammad (INA),PURKANI Luki Muhammad
+Asian Games Jakarta 2018,2018-08-18,SANTOSO Ficky,BATKHISHIG Bilegt,3,0,"11,13,11|8,11,3",GROUP,OTHER,MT,891,Main Draw,BATKHISHIG Bilegt (MGL),SANTOSO Ficky (INA),SANTOSO Ficky
+Asian Games Jakarta 2018,2018-08-18,AJI Donny,CHINBAT Erdenebayar,3,0,"11,11,11|7,7,7",GROUP,OTHER,MT,891,Main Draw,CHINBAT Erdenebayar (MGL),AJI Donny (INA),AJI Donny
+Asian Games Jakarta 2018,2018-08-18,JEOUNG Youngsik,HO Kwan Kit,3,2,"11,11,9,4,11|9,7,11,11,5",GROUP,OTHER,MT,891,Main Draw,HO Kwan Kit (HKG),JEOUNG Youngsik (KOR),JEOUNG Youngsik
+Asian Games Jakarta 2018,2018-08-18,WONG Chun Ting,LEE Sang Su,3,2,"13,6,11,6,11|11,11,9,11,8",GROUP,OTHER,MT,891,Main Draw,WONG Chun Ting (HKG),LEE Sang Su (KOR),WONG Chun Ting
+Asian Games Jakarta 2018,2018-08-18,JANG Woojin,NG Pak Nam,3,2,"11,11,8,8,11|5,7,11,11,9",GROUP,OTHER,MT,891,Main Draw,NG Pak Nam (HKG),JANG Woojin (KOR),JANG Woojin
+Asian Games Jakarta 2018,2018-08-18,LEE Sang Su,HO Kwan Kit,3,0,"11,11,11|6,6,8",GROUP,OTHER,MT,891,Main Draw,HO Kwan Kit (HKG),LEE Sang Su (KOR),LEE Sang Su
+Asian Games Jakarta 2018,2018-08-18,WONG Chun Ting,JEOUNG Youngsik,3,1,"11,8,11,12|9,11,5,10",GROUP,OTHER,MT,891,Main Draw,WONG Chun Ting (HKG),JEOUNG Youngsik (KOR),WONG Chun Ting
+Asian Games Jakarta 2018,2018-08-18,PUANGTHIP Sirawit,SHAFFAN Mohamed,3,0,"11,11,11|7,4,6",GROUP,OTHER,MT,891,Main Draw,PUANGTHIP Sirawit (THA),SHAFFAN Mohamed (MDV),PUANGTHIP Sirawit
+Asian Games Jakarta 2018,2018-08-18,PASSARA Pattaratorn,AHMED Moosa,3,2,"11,6,11,9,11|5,11,3,11,2",GROUP,OTHER,MT,891,Main Draw,PASSARA Pattaratorn (THA),AHMED Moosa (MDV),PASSARA Pattaratorn
+Asian Games Jakarta 2018,2018-08-18,WISUTMAYTHANGKOON Supanut,NASEEM Mohamed,3,0,"11,11,11|6,5,4",GROUP,OTHER,MT,891,Main Draw,WISUTMAYTHANGKOON Supanut (THA),NASEEM Mohamed (MDV),WISUTMAYTHANGKOON Supanut
+Asian Games Jakarta 2018,2018-08-18,MATSUDAIRA Kenta,ALAMIYAN Noshad,3,1,"6,12,11,11|11,10,9,5",GROUP,OTHER,MT,891,Main Draw,MATSUDAIRA Kenta (JPN),ALAMIYAN Noshad (IRI),MATSUDAIRA Kenta
+Asian Games Jakarta 2018,2018-08-18,MORIZONO Masataka,NOROOZI Afshin,3,1,"11,10,11,12|4,12,5,10",GROUP,OTHER,MT,891,Main Draw,MORIZONO Masataka (JPN),NOROOZI Afshin (IRI),MORIZONO Masataka
+Asian Games Jakarta 2018,2018-08-18,UEDA Jin,ALAMIYAN Noshad,3,1,"12,6,11,12|10,11,5,10",GROUP,OTHER,MT,891,Main Draw,UEDA Jin (JPN),ALAMIYAN Noshad (IRI),UEDA Jin
+Asian Games Jakarta 2018,2018-08-18,ALAMIAN Nima,MATSUDAIRA Kenta,3,0,"11,11,12|6,9,10",GROUP,OTHER,MT,891,Main Draw,MATSUDAIRA Kenta (JPN),ALAMIAN Nima (IRI),ALAMIAN Nima
+Asian Games Jakarta 2018,2018-08-18,CHIN Wen Jie,SAUN Deep,3,1,"15,11,8,11|13,3,11,7",GROUP,OTHER,MT,891,Main Draw,CHIN Wen Jie (MAS),SAUN Deep (NEP),CHIN Wen Jie
+Asian Games Jakarta 2018,2018-08-18,HAIQAL Muhamad Ashraf,MALLA Amar,3,0,"11,12,11|7,11,6",GROUP,OTHER,MT,891,Main Draw,HAIQAL Muhamad Ashraf (MAS),MALLA Amar (NEP),HAIQAL Muhamad Ashraf
+Asian Games Jakarta 2018,2018-08-18,LEONG Chee Feng,SHRESTHA Santoo,3,1,"11,11,9,13|3,8,11,11",GROUP,OTHER,MT,891,Main Draw,LEONG Chee Feng (MAS),SHRESTHA Santoo (NEP),LEONG Chee Feng
+Asian Games Jakarta 2018,2018-08-18,WANG Chuqin,PAK Sin Hyok,3,1,"11,11,8,11|8,2,11,7",GROUP,OTHER,MT,891,Main Draw,WANG Chuqin (CHN),PAK Sin Hyok (PRK),WANG Chuqin
+Asian Games Jakarta 2018,2018-08-18,LIN Gaoyuan,HAM Yu Song,3,0,"11,11,11|6,8,5",GROUP,OTHER,MT,891,Main Draw,LIN Gaoyuan (CHN),HAM Yu Song (PRK),LIN Gaoyuan
+Asian Games Jakarta 2018,2018-08-18,FAN Zhendong,AN Ji Song,3,0,"11,13,11|4,11,4",GROUP,OTHER,MT,891,Main Draw,FAN Zhendong (CHN),AN Ji Song (PRK),FAN Zhendong
+Asian Games Jakarta 2018,2018-08-18,DESAI Harmeet,ALBLOOSHI Essa,3,0,"11,11,11|4,2,8",GROUP,OTHER,MT,891,Main Draw,DESAI Harmeet (IND),ALBLOOSHI Essa (UAE),DESAI Harmeet
+Asian Games Jakarta 2018,2018-08-18,ACHANTA Sharath,ALBALOOSHI Abdulla,3,0,"11,11,11|9,6,5",GROUP,OTHER,MT,891,Main Draw,ACHANTA Sharath (IND),ALBALOOSHI Abdulla (UAE),ACHANTA Sharath
+Asian Games Jakarta 2018,2018-08-18,GNANASEKARAN Sathiyan,ALBALUSHI Salah,3,0,"11,11,11|6,3,4",GROUP,OTHER,MT,891,Main Draw,GNANASEKARAN Sathiyan (IND),ALBALUSHI Salah (UAE),GNANASEKARAN Sathiyan
+Asian Games Jakarta 2018,2018-08-18,LIAO Cheng-Ting,LE Tien Dat,3,0,"11,11,11|7,9,8",GROUP,OTHER,MT,891,Main Draw,LE Tien Dat (VIE),LIAO Cheng-Ting (TPE),LIAO Cheng-Ting
+Asian Games Jakarta 2018,2018-08-18,CHEN Chien-An,NGUYEN Anh Tu,3,0,"11,11,11|5,7,5",GROUP,OTHER,MT,891,Main Draw,NGUYEN Anh Tu (VIE),CHEN Chien-An (TPE),CHEN Chien-An
+Asian Games Jakarta 2018,2018-08-18,CHUANG Chih-Yuan,NGUYEN Duc Tuan,3,0,"11,11,11|7,9,5",GROUP,OTHER,MT,891,Main Draw,NGUYEN Duc Tuan (VIE),CHUANG Chih-Yuan (TPE),CHUANG Chih-Yuan
+Asian Games Jakarta 2018,2018-08-18,NG Pak Nam,GUBRAN Fahd,3,1,"11,11,12,11|7,2,14,6",GROUP,OTHER,MT,891,Main Draw,NG Pak Nam (HKG),GUBRAN Fahd (YEM),NG Pak Nam
+Asian Games Jakarta 2018,2018-08-18,HO Kwan Kit,ALI Omar,3,0,"11,11,11|8,8,4",GROUP,OTHER,MT,891,Main Draw,HO Kwan Kit (HKG),ALI Omar (YEM),HO Kwan Kit
+Asian Games Jakarta 2018,2018-08-18,WONG Chun Ting,AL-MAHAQERI Taha,3,0,"11,11,11|5,7,3",GROUP,OTHER,MT,891,Main Draw,WONG Chun Ting (HKG),AL-MAHAQERI Taha (YEM),WONG Chun Ting
+Asian Games Jakarta 2018,2018-08-18,JEOUNG Youngsik,NEGARA Muhammad,3,1,"14,5,11,13|12,11,6,11",GROUP,OTHER,MT,891,Main Draw,NEGARA Muhammad (INA),JEOUNG Youngsik (KOR),JEOUNG Youngsik
+Asian Games Jakarta 2018,2018-08-18,JANG Woojin,BHAGWANI Deepash,3,0,"11,11,11|4,4,9",GROUP,OTHER,MT,891,Main Draw,BHAGWANI Deepash (INA),JANG Woojin (KOR),JANG Woojin
+Asian Games Jakarta 2018,2018-08-18,LEE Sang Su,SANTOSO Ficky,3,1,"12,11,6,11|10,8,11,2",GROUP,OTHER,MT,891,Main Draw,SANTOSO Ficky (INA),LEE Sang Su (KOR),LEE Sang Su
+Asian Games Jakarta 2018,2018-08-18,ALAMIYAN Noshad,SAGYNDYKOV Talgat,3,0,"11,11,11|8,5,7",GROUP,OTHER,MT,891,Main Draw,ALAMIYAN Noshad (IRI),SAGYNDYKOV Talgat (KGZ),ALAMIYAN Noshad
+Asian Games Jakarta 2018,2018-08-18,ALAMIAN Nima,IAKUPBAEV Alisher,3,0,"11,11,11|3,5,2",GROUP,OTHER,MT,891,Main Draw,ALAMIAN Nima (IRI),IAKUPBAEV Alisher (KGZ),ALAMIAN Nima
+Asian Games Jakarta 2018,2018-08-18,NOROOZI Afshin,KYDYRBAEV Aziz,3,0,"11,11,11|7,4,7",GROUP,OTHER,MT,891,Main Draw,NOROOZI Afshin (IRI),KYDYRBAEV Aziz (KGZ),NOROOZI Afshin
+Asian Games Jakarta 2018,2018-08-18,YOSHIDA Masaki,PASSARA Pattaratorn,3,1,"11,11,9,11|7,5,11,7",GROUP,OTHER,MT,891,Main Draw,PASSARA Pattaratorn (THA),YOSHIDA Masaki (JPN),YOSHIDA Masaki
+Asian Games Jakarta 2018,2018-08-18,MATSUDAIRA Kenta,TANVIRIYAVECHAKUL Padasak,3,0,"11,11,11|9,8,6",GROUP,OTHER,MT,891,Main Draw,TANVIRIYAVECHAKUL Padasak (THA),MATSUDAIRA Kenta (JPN),MATSUDAIRA Kenta
+Asian Games Jakarta 2018,2018-08-18,UEDA Jin,WISUTMAYTHANGKOON Supanut,3,1,"11,9,11,11|7,11,8,5",GROUP,OTHER,MT,891,Main Draw,WISUTMAYTHANGKOON Supanut (THA),UEDA Jin (JPN),UEDA Jin
+Asian Games Jakarta 2018,2018-08-18,PAK Sin Hyok,SATHATHONE Duangtavane,3,0,"11,11,11|3,3,1",GROUP,OTHER,MT,891,Main Draw,PAK Sin Hyok (PRK),SATHATHONE Duangtavane (LAO),PAK Sin Hyok
+Asian Games Jakarta 2018,2018-08-18,HAM Yu Song,VONGDALASINH Seng,3,0,"11,11,11|6,7,4",GROUP,OTHER,MT,891,Main Draw,HAM Yu Song (PRK),VONGDALASINH Seng (LAO),HAM Yu Song
+Asian Games Jakarta 2018,2018-08-18,AN Ji Song,MOSANGSINH Sonpasith,3,0,"11,11,11|4,4,7",GROUP,OTHER,MT,891,Main Draw,AN Ji Song (PRK),MOSANGSINH Sonpasith (LAO),AN Ji Song
+Asian Games Jakarta 2018,2018-08-18,LIANG Jingkun,LEONG Chee Feng,3,0,"11,11,11|3,7,5",GROUP,OTHER,MT,891,Main Draw,LEONG Chee Feng (MAS),LIANG Jingkun (CHN),LIANG Jingkun
+Asian Games Jakarta 2018,2018-08-18,WANG Chuqin,HAIQAL Muhamad Ashraf,3,0,"11,11,11|6,5,3",GROUP,OTHER,MT,891,Main Draw,HAIQAL Muhamad Ashraf (MAS),WANG Chuqin (CHN),WANG Chuqin
+Asian Games Jakarta 2018,2018-08-18,LIN Gaoyuan,CHOONG Javen,3,0,"11,11,11|5,2,4",GROUP,OTHER,MT,891,Main Draw,CHOONG Javen (MAS),LIN Gaoyuan (CHN),LIN Gaoyuan
+Asian Games Jakarta 2018,2018-08-18,LE Dinh Duc,ALBLOOSHI Essa,3,0,"11,11,11|5,5,2",GROUP,OTHER,MT,891,Main Draw,LE Dinh Duc (VIE),ALBLOOSHI Essa (UAE),LE Dinh Duc
+Asian Games Jakarta 2018,2018-08-18,NGUYEN Duc Tuan,ALBALOOSHI Abdulla,3,1,"11,11,9,11|3,3,11,7",GROUP,OTHER,MT,891,Main Draw,NGUYEN Duc Tuan (VIE),ALBALOOSHI Abdulla (UAE),NGUYEN Duc Tuan
+Asian Games Jakarta 2018,2018-08-18,NGUYEN Anh Tu,ALBALUSHI Salah,3,0,"11,11,11|1,3,7",GROUP,OTHER,MT,891,Main Draw,NGUYEN Anh Tu (VIE),ALBALUSHI Salah (UAE),NGUYEN Anh Tu
+Asian Games Jakarta 2018,2018-08-18,LEE Chia-Sheng,XIAO Zikang,3,0,"11,11,11|5,8,6",GROUP,OTHER,MT,891,Main Draw,XIAO Zikang (MAC),LEE Chia-Sheng (TPE),LEE Chia-Sheng
+Asian Games Jakarta 2018,2018-08-18,CHUANG Chih-Yuan,CHEONG Chi Chon,3,0,"11,11,11|4,4,8",GROUP,OTHER,MT,891,Main Draw,CHEONG Chi Chon (MAC),CHUANG Chih-Yuan (TPE),CHUANG Chih-Yuan
+Asian Games Jakarta 2018,2018-08-18,LIN Yun-Ju,CHEONG Chi Cheng,3,0,"11,11,11|3,6,8",GROUP,OTHER,MT,891,Main Draw,CHEONG Chi Cheng (MAC),LIN Yun-Ju (TPE),LIN Yun-Ju
+Asian Games Jakarta 2018,2018-08-18,AJI Donny,AL-MAHAQERI Taha,3,0,"11,11,11|8,9,7",GROUP,OTHER,MT,891,Main Draw,AJI Donny (INA),AL-MAHAQERI Taha (YEM),AJI Donny
+Asian Games Jakarta 2018,2018-08-18,SANTOSO Ficky,AL-DHUBHANI Muneer,3,0,"11,11,11|7,8,3",GROUP,OTHER,MT,891,Main Draw,SANTOSO Ficky (INA),AL-DHUBHANI Muneer (YEM),SANTOSO Ficky
+Asian Games Jakarta 2018,2018-08-18,NEGARA Muhammad,ALI Omar,3,1,"11,12,14,13|4,14,12,11",GROUP,OTHER,MT,891,Main Draw,NEGARA Muhammad (INA),ALI Omar (YEM),NEGARA Muhammad
+Asian Games Jakarta 2018,2018-08-18,LIM Jonghoon,JARGALSAIKHAN Munkhzorig,3,0,"11,11,11|9,8,4",GROUP,OTHER,MT,891,Main Draw,JARGALSAIKHAN Munkhzorig (MGL),LIM Jonghoon (KOR),LIM Jonghoon
+Asian Games Jakarta 2018,2018-08-18,LEE Sang Su,CHINBAT Erdenebayar,3,0,"11,11,11|6,5,6",GROUP,OTHER,MT,891,Main Draw,CHINBAT Erdenebayar (MGL),LEE Sang Su (KOR),LEE Sang Su
+Asian Games Jakarta 2018,2018-08-18,JEOUNG Youngsik,BATKHISHIG Bilegt,3,0,"11,11,11|3,3,6",GROUP,OTHER,MT,891,Main Draw,BATKHISHIG Bilegt (MGL),JEOUNG Youngsik (KOR),JEOUNG Youngsik
+Asian Games Jakarta 2018,2018-08-18,PASSARA Pattaratorn,KYDYRBAEV Aziz,3,0,"11,11,11|1,2,4",GROUP,OTHER,MT,891,Main Draw,PASSARA Pattaratorn (THA),KYDYRBAEV Aziz (KGZ),PASSARA Pattaratorn
+Asian Games Jakarta 2018,2018-08-18,WISUTMAYTHANGKOON Supanut,IAKUPBAEV Alisher,3,0,"11,11,11|6,5,6",GROUP,OTHER,MT,891,Main Draw,WISUTMAYTHANGKOON Supanut (THA),IAKUPBAEV Alisher (KGZ),WISUTMAYTHANGKOON Supanut
+Asian Games Jakarta 2018,2018-08-18,TANVIRIYAVECHAKUL Padasak,SAGYNDYKOV Talgat,3,0,"11,11,11|3,4,6",GROUP,OTHER,MT,891,Main Draw,TANVIRIYAVECHAKUL Padasak (THA),SAGYNDYKOV Talgat (KGZ),TANVIRIYAVECHAKUL Padasak
+Asian Games Jakarta 2018,2018-08-18,MORIZONO Masataka,SHAFFAN Mohamed,3,0,"11,11,11|6,5,6",GROUP,OTHER,MT,891,Main Draw,MORIZONO Masataka (JPN),SHAFFAN Mohamed (MDV),MORIZONO Masataka
+Asian Games Jakarta 2018,2018-08-18,YOSHIDA Masaki,AHMED Moosa,3,0,"11,11,11|4,9,5",GROUP,OTHER,MT,891,Main Draw,YOSHIDA Masaki (JPN),AHMED Moosa (MDV),YOSHIDA Masaki
+Asian Games Jakarta 2018,2018-08-18,UEDA Jin,NASEEM Mohamed,3,0,"11,11,11|6,2,2",GROUP,OTHER,MT,891,Main Draw,UEDA Jin (JPN),NASEEM Mohamed (MDV),UEDA Jin
+Asian Games Jakarta 2018,2018-08-18,CHOONG Javen,SATHATHONE Duangtavane,3,0,"11,12,11|4,10,3",GROUP,OTHER,MT,891,Main Draw,SATHATHONE Duangtavane (LAO),CHOONG Javen (MAS),CHOONG Javen
+Asian Games Jakarta 2018,2018-08-18,HAIQAL Muhamad Ashraf,MOSANGSINH Sonpasith,3,0,"11,11,11|4,5,5",GROUP,OTHER,MT,891,Main Draw,MOSANGSINH Sonpasith (LAO),HAIQAL Muhamad Ashraf (MAS),HAIQAL Muhamad Ashraf
+Asian Games Jakarta 2018,2018-08-18,LEONG Chee Feng,VONGDALASINH Seng,3,0,"11,11,11|6,5,2",GROUP,OTHER,MT,891,Main Draw,VONGDALASINH Seng (LAO),LEONG Chee Feng (MAS),LEONG Chee Feng
+Asian Games Jakarta 2018,2018-08-18,WANG Chuqin,SAUN Deep,3,0,"11,11,11|6,6,4",GROUP,OTHER,MT,891,Main Draw,WANG Chuqin (CHN),SAUN Deep (NEP),WANG Chuqin
+Asian Games Jakarta 2018,2018-08-18,LIN Gaoyuan,SHRESTHA Santoo,3,0,"11,11,11|6,5,3",GROUP,OTHER,MT,891,Main Draw,LIN Gaoyuan (CHN),SHRESTHA Santoo (NEP),LIN Gaoyuan
+Asian Games Jakarta 2018,2018-08-18,FAN Zhendong,MALLA Amar,3,0,"11,11,11|3,4,2",GROUP,OTHER,MT,891,Main Draw,FAN Zhendong (CHN),MALLA Amar (NEP),FAN Zhendong
+Asian Games Jakarta 2018,2018-08-18,FAN Zhendong,LIN Gaoyuan,4,2,"11,11,15,4,11,11|8,5,17,11,8,6",F,OTHER,MS,891,Main Draw,FAN Zhendong (CHN),LIN Gaoyuan (CHN),FAN Zhendong
+Asian Games Jakarta 2018,2018-08-18,JEON Jihee,YU Mengyu,3,1,"9,12,11,13|11,10,9,11",QF,OTHER,WT,891,Main Draw,YU Mengyu (SGP),JEON Jihee (KOR),JEON Jihee
+Asian Games Jakarta 2018,2018-08-18,YANG Ha Eun,LIN Ye,3,0,"11,13,11|6,11,3",QF,OTHER,WT,891,Main Draw,LIN Ye (CAN),YANG Ha Eun (KOR),YANG Ha Eun
+Asian Games Jakarta 2018,2018-08-18,JEON Jihee,FENG Tianwei,3,0,"11,11,11|8,8,8",QF,OTHER,WT,891,Main Draw,FENG Tianwei (SGP),JEON Jihee (KOR),JEON Jihee
+Asian Games Jakarta 2018,2018-08-18,BATRA Manika,LEE Ho Ching,3,1,"11,11,5,11|9,9,11,6",QF,OTHER,WT,891,Main Draw,BATRA Manika (IND),LEE Ho Ching (HKG),BATRA Manika
+Asian Games Jakarta 2018,2018-08-18,DOO Hoi Kem,MUKHERJEE Ayhika,3,1,"12,11,12,11|14,4,10,8",QF,OTHER,WT,891,Main Draw,MUKHERJEE Ayhika (IND),DOO Hoi Kem (HKG),DOO Hoi Kem
+Asian Games Jakarta 2018,2018-08-18,SOO Wai Yam,DAS Mouma,3,2,"11,11,8,11,11|6,13,11,3,5",QF,OTHER,WT,891,Main Draw,DAS Mouma (IND),SOO Wai Yam (HKG),SOO Wai Yam
+Asian Games Jakarta 2018,2018-08-18,DOO Hoi Kem,BATRA Manika,3,0,"11,11,13|8,8,11",QF,OTHER,WT,891,Main Draw,BATRA Manika (IND),DOO Hoi Kem (HKG),DOO Hoi Kem
+Asian Games Jakarta 2018,2018-08-18,CHENG I-Ching,CHA Hyo Sim,3,1,"11,11,8,13|5,8,11,11",QF,OTHER,WT,891,Main Draw,CHENG I-Ching (TPE),CHA Hyo Sim (PRK),CHENG I-Ching
+Asian Games Jakarta 2018,2018-08-18,KIM Song I,CHEN Szu-Yu,3,0,"11,11,11|4,8,5",QF,OTHER,WT,891,Main Draw,CHEN Szu-Yu (TPE),KIM Song I (PRK),KIM Song I
+Asian Games Jakarta 2018,2018-08-18,KIM Nam Hae,CHENG Hsien-Tzu,3,2,"13,9,7,11,11|11,11,11,8,9",QF,OTHER,WT,891,Main Draw,CHENG Hsien-Tzu (TPE),KIM Nam Hae (PRK),KIM Nam Hae
+Asian Games Jakarta 2018,2018-08-18,KIM Song I,CHENG I-Ching,3,0,"11,11,11|4,9,5",QF,OTHER,WT,891,Main Draw,CHENG I-Ching (TPE),KIM Song I (PRK),KIM Song I
+Asian Games Jakarta 2018,2018-08-18,ZHU Yuling,JEON Jihee,3,1,"11,11,7,11|7,5,11,5",SF,OTHER,WT,891,Main Draw,ZHU Yuling (MAC),JEON Jihee (KOR),ZHU Yuling
+Asian Games Jakarta 2018,2018-08-18,CHEN Meng,CHOI Hyojoo,3,0,"11,11,11|8,6,8",SF,OTHER,WT,891,Main Draw,CHEN Meng (CHN),CHOI Hyojoo (KOR),CHEN Meng
+Asian Games Jakarta 2018,2018-08-18,WANG Manyu,SUH Hyo Won,3,1,"11,3,11,11|7,11,9,6",SF,OTHER,WT,891,Main Draw,WANG Manyu (CHN),SUH Hyo Won (KOR),WANG Manyu
+Asian Games Jakarta 2018,2018-08-18,KIM Song I,LEE Ho Ching,3,1,"12,11,4,11|10,2,11,6",SF,OTHER,WT,891,Main Draw,KIM Song I (PRK),LEE Ho Ching (HKG),KIM Song I
+Asian Games Jakarta 2018,2018-08-18,CHA Hyo Sim,DOO Hoi Kem,3,2,"11,7,11,7,14|8,11,8,11,12",SF,OTHER,WT,891,Main Draw,CHA Hyo Sim (PRK),DOO Hoi Kem (HKG),CHA Hyo Sim
+Asian Games Jakarta 2018,2018-08-18,KIM Nam Hae,SOO Wai Yam,3,2,"11,10,11,9,11|9,12,3,11,6",SF,OTHER,WT,891,Main Draw,KIM Nam Hae (PRK),SOO Wai Yam (HKG),KIM Nam Hae
+Asian Games Jakarta 2018,2018-08-18,ZHU Yuling,KIM Song I,3,0,"11,11,11|9,8,6",F,OTHER,WT,891,Main Draw,KIM Song I (PRK),ZHU Yuling (MAC),ZHU Yuling
+Asian Games Jakarta 2018,2018-08-18,CHEN Meng,CHA Hyo Sim,3,0,"11,11,14|6,8,12",F,OTHER,WT,891,Main Draw,CHA Hyo Sim (PRK),CHEN Meng (CHN),CHEN Meng
+Asian Games Jakarta 2018,2018-08-18,WANG Manyu,KIM Nam Hae,3,1,"8,11,11,11|11,5,4,7",F,OTHER,WT,891,Main Draw,KIM Nam Hae (PRK),WANG Manyu (CHN),WANG Manyu
+Asian Games Jakarta 2018,2018-08-18,SHRESTHA Santoo/SHRESTHA Nabita,MYANDAL Temuulen/MUNKHBAT Undram,3,0,"13,11,11|11,7,9",R64,OTHER,XD,891,Main Draw,SHRESTHA Santoo (NEP) / SHRESTHA Nabita (NEP),MYANDAL Temuulen (MGL) / MUNKHBAT Undram (MGL),SHRESTHA Santoo
+Asian Games Jakarta 2018,2018-08-18,HAMIE Mohamad/KHOURY Malak,VONGDALASINH Seng/KONGPHET Nitnapha,3,0,"11,11,14|8,6,12",R64,OTHER,XD,891,Main Draw,HAMIE Mohamad (LBN) / KHOURY Malak (LBN),VONGDALASINH Seng (LAO) / KONGPHET Nitnapha (LAO),HAMIE Mohamad
+Asian Games Jakarta 2018,2018-08-18,WANG Chun/CHEONG Cheng I,QURESHI Asim/ANSARI Aisha,3,1,"11,7,11,11|9,11,7,8",R64,OTHER,XD,891,Main Draw,WANG Chun (MAC) / CHEONG Cheng I (MAC),QURESHI Asim (PAK) / ANSARI Aisha (PAK),WANG Chun
+Asian Games Jakarta 2018,2018-08-18,NEGARA Muhammad/SINTYA Rina,MOSANGSINH Sonpasith/SOUTHAMMAVONG Thiphakone,3,0,"11,12,11|6,10,7",R64,OTHER,XD,891,Main Draw,NEGARA Muhammad (INA) / SINTYA Rina (INA),MOSANGSINH Sonpasith (LAO) / SOUTHAMMAVONG Thiphakone (LAO),NEGARA Muhammad
+Asian Games Jakarta 2018,2018-08-18,MALLA Amar/NEMBANG Swechchha,AL-NAGGAR Abdulrahman/FARAMARZI Maha,3,2,"8,7,11,11,11|11,11,5,6,4",R64,OTHER,XD,891,Main Draw,MALLA Amar (NEP) / NEMBANG Swechchha (NEP),AL-NAGGAR Abdulrahman (QAT) / FARAMARZI Maha (QAT),MALLA Amar
+Asian Games Jakarta 2018,2018-08-18,PAK Sin Hyok/KIM Nam Hae,LE Dinh Duc/NGUYEN Thi Nga,3,0,"11,11,11|7,5,4",R32,OTHER,XD,891,Main Draw,PAK Sin Hyok (PRK) / KIM Nam Hae (PRK),LE Dinh Duc (VIE) / NGUYEN Thi Nga (VIE),PAK Sin Hyok
+Asian Games Jakarta 2018,2018-08-18,MORIZONO Masataka/MORIZONO Misaki,LEONG Chee Feng/HO Ying,3,1,"7,11,11,11|11,4,8,6",R32,OTHER,XD,891,Main Draw,MORIZONO Masataka (JPN) / MORIZONO Misaki (JPN),LEONG Chee Feng (MAS) / HO Ying (MAS),MORIZONO Masataka
+Asian Games Jakarta 2018,2018-08-18,LIM Jonghoon/YANG Ha Eun,ABDULWAHHAB Mohammed/MOHAMED Aia,3,0,"11,11,11|8,6,6",R32,OTHER,XD,891,Main Draw,LIM Jonghoon (KOR) / YANG Ha Eun (KOR),ABDULWAHHAB Mohammed (QAT) / MOHAMED Aia (QAT),LIM Jonghoon
+Asian Games Jakarta 2018,2018-08-18,HO Kwan Kit/LEE Ho Ching,HAMIE Mohamad/KHOURY Malak,3,0,"11,11,11|6,1,6",R32,OTHER,XD,891,Main Draw,HO Kwan Kit (HKG) / LEE Ho Ching (HKG),HAMIE Mohamad (LBN) / KHOURY Malak (LBN),HO Kwan Kit
+Asian Games Jakarta 2018,2018-08-18,ANTHONY Amalraj/PATKAR Madhurika,AJI Donny/INDRIANI Lilis,3,1,"11,11,11,11|4,13,8,9",R32,OTHER,XD,891,Main Draw,ANTHONY Amalraj (IND) / PATKAR Madhurika (IND),AJI Donny (INA) / INDRIANI Lilis (INA),ANTHONY Amalraj
+Asian Games Jakarta 2018,2018-08-18,TANVIRIYAVECHAKUL Padasak/SAWETTABUT Suthasini,RANASINGHA Imesh/MADURANGI Ishara,3,0,"11,11,11|1,2,5",R32,OTHER,XD,891,Main Draw,TANVIRIYAVECHAKUL Padasak (THA) / SAWETTABUT Suthasini (THA),RANASINGHA Imesh (USA) / MADURANGI Ishara (SRI),TANVIRIYAVECHAKUL Padasak
+Asian Games Jakarta 2018,2018-08-18,CHEN Chien-An/CHENG I-Ching,WANG Chun/CHEONG Cheng I,3,0,"11,11,11|5,2,9",R32,OTHER,XD,891,Main Draw,CHEN Chien-An (TPE) / CHENG I-Ching (TPE),WANG Chun (MAC) / CHEONG Cheng I (MAC),CHEN Chien-An
+Asian Games Jakarta 2018,2018-08-18,LEE Sang Su/JEON Jihee,NEGARA Muhammad/SINTYA Rina,3,0,"11,11,11|3,4,0",R32,OTHER,XD,891,Main Draw,LEE Sang Su (KOR) / JEON Jihee (KOR),NEGARA Muhammad (INA) / SINTYA Rina (INA),LEE Sang Su
+Asian Games Jakarta 2018,2018-08-18,ACHANTA Sharath/BATRA Manika,CHOONG Javen/LYNE Karen,3,0,"11,11,11|2,5,8",R32,OTHER,XD,891,Main Draw,ACHANTA Sharath (IND) / BATRA Manika (IND),CHOONG Javen (MAS) / LYNE Karen (MAS),ACHANTA Sharath
+Asian Games Jakarta 2018,2018-08-18,AN Ji Song/CHA Hyo Sim,CHEONG Chi Chon/CHONG Weng I,3,0,,R32,OTHER,XD,891,Main Draw,AN Ji Song (PRK) / CHA Hyo Sim (PRK),CHEONG Chi Chon (MAC) / CHONG Weng I (MAC),AN Ji Song
+Asian Games Jakarta 2018,2018-08-18,CHUANG Chih-Yuan/CHEN Szu-Yu,JARGALSAIKHAN Munkhzorig/BATMUNKH Bolor-Erdene,3,0,"11,11,11|1,3,5",R32,OTHER,XD,891,Main Draw,CHUANG Chih-Yuan (TPE) / CHEN Szu-Yu (TPE),JARGALSAIKHAN Munkhzorig (MGL) / BATMUNKH Bolor-Erdene (MGL),CHUANG Chih-Yuan
+Asian Games Jakarta 2018,2018-08-18,UEDA Jin/MAEDA Miyu,RAMEEZ Muhammad/KHAN Fatima,3,0,"11,11,11|3,4,1",R32,OTHER,XD,891,Main Draw,UEDA Jin (JPN) / MAEDA Miyu (JPN),RAMEEZ Muhammad (PAK) / KHAN Fatima (PAK),UEDA Jin
+Asian Games Jakarta 2018,2018-08-18,WANG Chuqin/SUN Yingsha,WISUTMAYTHANGKOON Supanut/PARANANG Orawan,3,0,"11,11,11|1,4,5",R32,OTHER,XD,891,Main Draw,WANG Chuqin (CHN) / SUN Yingsha (CHN),WISUTMAYTHANGKOON Supanut (THA) / PARANANG Orawan (THA),WANG Chuqin
+Asian Games Jakarta 2018,2018-08-18,GAO Ning/YU Mengyu,DINH Quang Linh/NGUYEN Khanh,3,1,"11,8,11,11|9,11,5,9",R32,OTHER,XD,891,Main Draw,GAO Ning (SGP) / YU Mengyu (SGP),DINH Quang Linh (VIE) / NGUYEN Khanh (VIE),GAO Ning
+Asian Games Jakarta 2018,2018-08-18,WONG Chun Ting/DOO Hoi Kem,MALLA Amar/NEMBANG Swechchha,3,0,"11,11,11|4,3,1",R32,OTHER,XD,891,Main Draw,WONG Chun Ting (HKG) / DOO Hoi Kem (HKG),MALLA Amar (NEP) / NEMBANG Swechchha (NEP),WONG Chun Ting
+Asian Games Jakarta 2018,2018-08-18,LIN Gaoyuan/WANG Manyu,PAK Sin Hyok/KIM Nam Hae,3,0,"11,11,11|5,7,7",R16,OTHER,XD,891,Main Draw,LIN Gaoyuan (CHN) / WANG Manyu (CHN),PAK Sin Hyok (PRK) / KIM Nam Hae (PRK),LIN Gaoyuan
+Asian Games Jakarta 2018,2018-08-18,LIM Jonghoon/YANG Ha Eun,MORIZONO Masataka/MORIZONO Misaki,3,1,"13,11,2,11|11,5,11,6",R16,OTHER,XD,891,Main Draw,LIM Jonghoon (KOR) / YANG Ha Eun (KOR),MORIZONO Masataka (JPN) / MORIZONO Misaki (JPN),LIM Jonghoon
+Asian Games Jakarta 2018,2018-08-18,HO Kwan Kit/LEE Ho Ching,ANTHONY Amalraj/PATKAR Madhurika,3,1,"6,11,11,11|11,7,5,4",R16,OTHER,XD,891,Main Draw,HO Kwan Kit (HKG) / LEE Ho Ching (HKG),ANTHONY Amalraj (IND) / PATKAR Madhurika (IND),HO Kwan Kit
+Asian Games Jakarta 2018,2018-08-18,CHEN Chien-An/CHENG I-Ching,TANVIRIYAVECHAKUL Padasak/SAWETTABUT Suthasini,3,1,"11,8,11,16|7,11,5,14",R16,OTHER,XD,891,Main Draw,CHEN Chien-An (TPE) / CHENG I-Ching (TPE),TANVIRIYAVECHAKUL Padasak (THA) / SAWETTABUT Suthasini (THA),CHEN Chien-An
+Asian Games Jakarta 2018,2018-08-18,ACHANTA Sharath/BATRA Manika,LEE Sang Su/JEON Jihee,3,2,"11,7,11,10,11|7,11,8,12,4",R16,OTHER,XD,891,Main Draw,ACHANTA Sharath (IND) / BATRA Manika (IND),LEE Sang Su (KOR) / JEON Jihee (KOR),ACHANTA Sharath
+Asian Games Jakarta 2018,2018-08-18,AN Ji Song/CHA Hyo Sim,CHUANG Chih-Yuan/CHEN Szu-Yu,3,0,"11,11,12|5,7,10",R16,OTHER,XD,891,Main Draw,AN Ji Song (PRK) / CHA Hyo Sim (PRK),CHUANG Chih-Yuan (TPE) / CHEN Szu-Yu (TPE),AN Ji Song
+Asian Games Jakarta 2018,2018-08-18,WANG Chuqin/SUN Yingsha,UEDA Jin/MAEDA Miyu,3,0,"11,11,11|7,6,9",R16,OTHER,XD,891,Main Draw,WANG Chuqin (CHN) / SUN Yingsha (CHN),UEDA Jin (JPN) / MAEDA Miyu (JPN),WANG Chuqin
+Asian Games Jakarta 2018,2018-08-18,GAO Ning/YU Mengyu,WONG Chun Ting/DOO Hoi Kem,3,1,"11,11,9,11|9,5,11,8",R16,OTHER,XD,891,Main Draw,GAO Ning (SGP) / YU Mengyu (SGP),WONG Chun Ting (HKG) / DOO Hoi Kem (HKG),GAO Ning
+Asian Games Jakarta 2018,2018-08-18,LIN Gaoyuan/WANG Manyu,LIM Jonghoon/YANG Ha Eun,3,0,"11,11,11|6,6,8",QF,OTHER,XD,891,Main Draw,LIN Gaoyuan (CHN) / WANG Manyu (CHN),LIM Jonghoon (KOR) / YANG Ha Eun (KOR),LIN Gaoyuan
+Asian Games Jakarta 2018,2018-08-18,HO Kwan Kit/LEE Ho Ching,CHEN Chien-An/CHENG I-Ching,3,0,"11,11,11|7,8,2",QF,OTHER,XD,891,Main Draw,HO Kwan Kit (HKG) / LEE Ho Ching (HKG),CHEN Chien-An (TPE) / CHENG I-Ching (TPE),HO Kwan Kit
+Asian Games Jakarta 2018,2018-08-18,ACHANTA Sharath/BATRA Manika,AN Ji Song/CHA Hyo Sim,3,2,"4,12,6,11,11|11,10,11,6,8",QF,OTHER,XD,891,Main Draw,ACHANTA Sharath (IND) / BATRA Manika (IND),AN Ji Song (PRK) / CHA Hyo Sim (PRK),ACHANTA Sharath
+Asian Games Jakarta 2018,2018-08-18,WANG Chuqin/SUN Yingsha,GAO Ning/YU Mengyu,3,0,"11,11,11|9,6,4",QF,OTHER,XD,891,Main Draw,WANG Chuqin (CHN) / SUN Yingsha (CHN),GAO Ning (SGP) / YU Mengyu (SGP),WANG Chuqin
+Asian Games Jakarta 2018,2018-08-18,LIN Gaoyuan/WANG Manyu,HO Kwan Kit/LEE Ho Ching,4,0,"11,11,11,11|7,7,3,3",SF,OTHER,XD,891,Main Draw,LIN Gaoyuan (CHN) / WANG Manyu (CHN),HO Kwan Kit (HKG) / LEE Ho Ching (HKG),LIN Gaoyuan
+Asian Games Jakarta 2018,2018-08-18,WANG Chuqin/SUN Yingsha,ACHANTA Sharath/BATRA Manika,4,1,"11,11,11,11,11|9,5,13,4,8",SF,OTHER,XD,891,Main Draw,WANG Chuqin (CHN) / SUN Yingsha (CHN),ACHANTA Sharath (IND) / BATRA Manika (IND),WANG Chuqin
+Asian Games Jakarta 2018,2018-08-18,WANG Chuqin/SUN Yingsha,LIN Gaoyuan/WANG Manyu,4,2,"12,9,14,13,11,11|14,11,12,11,7,7",F,OTHER,XD,891,Main Draw,WANG Chuqin (CHN) / SUN Yingsha (CHN),LIN Gaoyuan (CHN) / WANG Manyu (CHN),WANG Chuqin
+Asian Games Jakarta 2018,2018-08-18,NGUYEN Duc Tuan,HAMIE Mohamad,4,3,"11,11,11,11,8,6,11|8,6,6,13,11,11,3",R64,OTHER,MS,891,Main Draw,HAMIE Mohamad (LBN),NGUYEN Duc Tuan (VIE),NGUYEN Duc Tuan
+Asian Games Jakarta 2018,2018-08-18,HAIQAL Muhamad Ashraf,AHMED Moosa,4,0,"11,11,11,11|5,6,4,6",R64,OTHER,MS,891,Main Draw,AHMED Moosa (MDV),HAIQAL Muhamad Ashraf (MAS),HAIQAL Muhamad Ashraf
+Asian Games Jakarta 2018,2018-08-18,WISUTMAYTHANGKOON Supanut,ALI Omar,4,0,"11,11,16,11|6,6,14,7",R64,OTHER,MS,891,Main Draw,WISUTMAYTHANGKOON Supanut (THA),ALI Omar (YEM),WISUTMAYTHANGKOON Supanut
+Asian Games Jakarta 2018,2018-08-18,CHINBAT Erdenebayar,MALLA Amar,4,3,"11,9,6,11,8,11,11|8,11,11,8,11,3,5",R64,OTHER,MS,891,Main Draw,MALLA Amar (NEP),CHINBAT Erdenebayar (MGL),CHINBAT Erdenebayar
+Asian Games Jakarta 2018,2018-08-18,QURESHI Asim,NEGARA Muhammad,4,0,,R64,OTHER,MS,891,Main Draw,NEGARA Muhammad (INA),QURESHI Asim (PAK),QURESHI Asim
+Asian Games Jakarta 2018,2018-08-18,AL-NAGGAR Abdulrahman,SAGYNDYKOV Talgat,4,1,"11,8,11,11,11|4,11,3,4,3",R64,OTHER,MS,891,Main Draw,SAGYNDYKOV Talgat (KGZ),AL-NAGGAR Abdulrahman (QAT),AL-NAGGAR Abdulrahman
+Asian Games Jakarta 2018,2018-08-18,MOSANGSINH Sonpasith,RANASINGHA Imesh,4,1,"14,8,11,11,11|12,11,0,0,0",R64,OTHER,MS,891,Main Draw,RANASINGHA Imesh (USA),MOSANGSINH Sonpasith (LAO),MOSANGSINH Sonpasith
+Asian Games Jakarta 2018,2018-08-18,NAYRE Jann Mari,GUBRAN Ebrahim,4,0,"11,11,11,11|5,5,8,5",R64,OTHER,MS,891,Main Draw,GUBRAN Ebrahim (YEM),NAYRE Jann Mari (PHI),NAYRE Jann Mari
+Asian Games Jakarta 2018,2018-08-18,TANVIRIYAVECHAKUL Padasak,VONGDALASINH Seng,4,0,"11,11,11,11|3,7,5,2",R64,OTHER,MS,891,Main Draw,TANVIRIYAVECHAKUL Padasak (THA),VONGDALASINH Seng (LAO),TANVIRIYAVECHAKUL Padasak
+Asian Games Jakarta 2018,2018-08-18,NGUYEN Anh Tu,ALBALOOSHI Abdulla,4,0,"11,11,11,11|4,7,9,6",R64,OTHER,MS,891,Main Draw,ALBALOOSHI Abdulla (UAE),NGUYEN Anh Tu (VIE),NGUYEN Anh Tu
+Asian Games Jakarta 2018,2018-08-18,CHEONG Chi Cheng,SHRESTHA Santoo,4,2,"12,11,11,7,5,11|10,8,9,11,11,8",R64,OTHER,MS,891,Main Draw,CHEONG Chi Cheng (MAC),SHRESTHA Santoo (NEP),CHEONG Chi Cheng
+Asian Games Jakarta 2018,2018-08-18,CHOE Il,ENKHBAT Lkhagvasuren,4,1,"11,2,11,11,11|2,11,1,1,5",R64,OTHER,MS,891,Main Draw,ENKHBAT Lkhagvasuren (MGL),CHOE Il (PRK),CHOE Il
+Asian Games Jakarta 2018,2018-08-18,SANTOSO Ficky,SHAFFAN Mohamed,4,0,"11,11,11,11|8,5,7,6",R64,OTHER,MS,891,Main Draw,SANTOSO Ficky (INA),SHAFFAN Mohamed (MDV),SANTOSO Ficky
+Asian Games Jakarta 2018,2018-08-18,ABDULWAHHAB Mohammed,RAMEEZ Muhammad,4,1,"11,11,11,8,11|2,8,8,11,6",R64,OTHER,MS,891,Main Draw,ABDULWAHHAB Mohammed (QAT),RAMEEZ Muhammad (PAK),ABDULWAHHAB Mohammed
+Asian Games Jakarta 2018,2018-08-18,LEONG Chee Feng,IAKUPBAEV Alisher,4,0,"11,11,11,11|7,7,7,1",R64,OTHER,MS,891,Main Draw,LEONG Chee Feng (MAS),IAKUPBAEV Alisher (KGZ),LEONG Chee Feng
+Asian Games Jakarta 2018,2018-08-18,FAN Zhendong,XIAO Zikang,4,0,"11,11,11,11|5,2,4,6",R32,OTHER,MS,891,Main Draw,FAN Zhendong (CHN),XIAO Zikang (MAC),FAN Zhendong
+Asian Games Jakarta 2018,2018-08-18,HO Kwan Kit,NGUYEN Duc Tuan,4,2,"11,6,11,9,11,11|8,11,2,11,7,7",R32,OTHER,MS,891,Main Draw,NGUYEN Duc Tuan (VIE),HO Kwan Kit (HKG),HO Kwan Kit
+Asian Games Jakarta 2018,2018-08-18,ALAMIAN Nima,HAIQAL Muhamad Ashraf,4,1,"12,11,11,8,13|10,7,4,11,11",R32,OTHER,MS,891,Main Draw,ALAMIAN Nima (IRI),HAIQAL Muhamad Ashraf (MAS),ALAMIAN Nima
+Asian Games Jakarta 2018,2018-08-18,CHUANG Chih-Yuan,CHINBAT Erdenebayar,4,0,"11,11,11,11|6,5,1,3",R32,OTHER,MS,891,Main Draw,CHUANG Chih-Yuan (TPE),CHINBAT Erdenebayar (MGL),CHUANG Chih-Yuan
+Asian Games Jakarta 2018,2018-08-18,ACHANTA Sharath,QURESHI Asim,4,0,"11,11,11,11|4,8,7,5",R32,OTHER,MS,891,Main Draw,QURESHI Asim (PAK),ACHANTA Sharath (IND),ACHANTA Sharath
+Asian Games Jakarta 2018,2018-08-18,PAK Sin Hyok,AL-NAGGAR Abdulrahman,4,2,"6,11,11,8,11,11|11,3,8,11,4,8",R32,OTHER,MS,891,Main Draw,PAK Sin Hyok (PRK),AL-NAGGAR Abdulrahman (QAT),PAK Sin Hyok
+Asian Games Jakarta 2018,2018-08-18,LEE Sang Su,MOSANGSINH Sonpasith,4,0,"11,11,11,11|1,8,5,5",R32,OTHER,MS,891,Main Draw,MOSANGSINH Sonpasith (LAO),LEE Sang Su (KOR),LEE Sang Su
+Asian Games Jakarta 2018,2018-08-18,WONG Chun Ting,NAYRE Jann Mari,4,1,"9,11,11,11,11|11,4,3,4,5",R32,OTHER,MS,891,Main Draw,WONG Chun Ting (HKG),NAYRE Jann Mari (PHI),WONG Chun Ting
+Asian Games Jakarta 2018,2018-08-18,ALAMIYAN Noshad,NGUYEN Anh Tu,4,0,"11,11,11,11|9,8,9,9",R32,OTHER,MS,891,Main Draw,ALAMIYAN Noshad (IRI),NGUYEN Anh Tu (VIE),ALAMIYAN Noshad
+Asian Games Jakarta 2018,2018-08-18,JEOUNG Youngsik,CHEONG Chi Cheng,4,0,"11,11,12,11|7,7,10,8",R32,OTHER,MS,891,Main Draw,CHEONG Chi Cheng (MAC),JEOUNG Youngsik (KOR),JEOUNG Youngsik
+Asian Games Jakarta 2018,2018-08-18,MATSUDAIRA Kenta,CHOE Il,4,1,"6,12,11,11,11|11,10,8,6,5",R32,OTHER,MS,891,Main Draw,MATSUDAIRA Kenta (JPN),CHOE Il (PRK),MATSUDAIRA Kenta
+Asian Games Jakarta 2018,2018-08-18,GNANASEKARAN Sathiyan,SANTOSO Ficky,4,2,"11,9,14,11,9,11|3,11,12,1,11,7",R32,OTHER,MS,891,Main Draw,SANTOSO Ficky (INA),GNANASEKARAN Sathiyan (IND),GNANASEKARAN Sathiyan
+Asian Games Jakarta 2018,2018-08-18,GAO Ning,ABDULWAHHAB Mohammed,4,0,"11,11,11,11|7,4,9,6",R32,OTHER,MS,891,Main Draw,GAO Ning (SGP),ABDULWAHHAB Mohammed (QAT),GAO Ning
+Asian Games Jakarta 2018,2018-08-18,LIN Gaoyuan,LEONG Chee Feng,4,0,"11,11,11,11|6,6,2,6",R32,OTHER,MS,891,Main Draw,LEONG Chee Feng (MAS),LIN Gaoyuan (CHN),LIN Gaoyuan
+Asian Games Jakarta 2018,2018-08-18,UEDA Jin,ALAMIAN Nima,4,1,"13,11,11,11,12|15,6,5,7,10",R16,OTHER,MS,891,Main Draw,ALAMIAN Nima (IRI),UEDA Jin (JPN),UEDA Jin
+Asian Games Jakarta 2018,2018-08-18,LEE Sang Su,PAK Sin Hyok,4,2,"9,11,11,11,9,12|11,4,9,6,11,10",R16,OTHER,MS,891,Main Draw,PAK Sin Hyok (PRK),LEE Sang Su (KOR),LEE Sang Su
+Asian Games Jakarta 2018,2018-08-18,WONG Chun Ting,CHEN Chien-An,4,2,"12,11,8,11,6,11|10,5,11,9,11,5",R16,OTHER,MS,891,Main Draw,WONG Chun Ting (HKG),CHEN Chien-An (TPE),WONG Chun Ting
+Asian Games Jakarta 2018,2018-08-18,ALAMIYAN Noshad,JEOUNG Youngsik,4,3,"11,12,3,8,7,13,14|7,10,11,11,11,11,12",R16,OTHER,MS,891,Main Draw,ALAMIYAN Noshad (IRI),JEOUNG Youngsik (KOR),ALAMIYAN Noshad
+Asian Games Jakarta 2018,2018-08-18,MATSUDAIRA Kenta,GNANASEKARAN Sathiyan,4,1,"9,11,11,11,12|11,4,9,6,10",R16,OTHER,MS,891,Main Draw,MATSUDAIRA Kenta (JPN),GNANASEKARAN Sathiyan (IND),MATSUDAIRA Kenta
+Asian Games Jakarta 2018,2018-08-18,LIN Gaoyuan,GAO Ning,4,1,"11,11,10,11,11|3,6,22,7,8",R16,OTHER,MS,891,Main Draw,GAO Ning (SGP),LIN Gaoyuan (CHN),LIN Gaoyuan
+Asian Games Jakarta 2018,2018-08-18,FAN Zhendong,UEDA Jin,4,0,"11,11,11,11|3,3,5,7",QF,OTHER,MS,891,Main Draw,FAN Zhendong (CHN),UEDA Jin (JPN),FAN Zhendong
+Asian Games Jakarta 2018,2018-08-18,LEE Sang Su,CHUANG Chih-Yuan,4,2,"6,11,9,11,11,11|11,9,11,8,7,8",QF,OTHER,MS,891,Main Draw,CHUANG Chih-Yuan (TPE),LEE Sang Su (KOR),LEE Sang Su
+Asian Games Jakarta 2018,2018-08-18,ALAMIYAN Noshad,WONG Chun Ting,4,1,"6,11,12,11,11|11,8,10,5,8",QF,OTHER,MS,891,Main Draw,WONG Chun Ting (HKG),ALAMIYAN Noshad (IRI),ALAMIYAN Noshad
+Asian Games Jakarta 2018,2018-08-18,LIN Gaoyuan,MATSUDAIRA Kenta,4,2,"14,11,11,11,10,11|16,3,3,2,12,8",QF,OTHER,MS,891,Main Draw,MATSUDAIRA Kenta (JPN),LIN Gaoyuan (CHN),LIN Gaoyuan
+Asian Games Jakarta 2018,2018-08-18,FAN Zhendong,LEE Sang Su,4,1,"11,4,11,11,11|3,11,4,9,5",SF,OTHER,MS,891,Main Draw,FAN Zhendong (CHN),LEE Sang Su (KOR),FAN Zhendong
+Asian Games Jakarta 2018,2018-08-18,LIN Gaoyuan,ALAMIYAN Noshad,4,0,"12,11,11,11|10,7,6,2",SF,OTHER,MS,891,Main Draw,ALAMIYAN Noshad (IRI),LIN Gaoyuan (CHN),LIN Gaoyuan
+Asian Games Jakarta 2018,2018-08-18,NGUYEN Khanh,KHOURY Malak,4,1,"11,9,11,11,11|7,11,2,7,6",R64,OTHER,WS,891,Main Draw,NGUYEN Khanh (VIE),KHOURY Malak (LBN),NGUYEN Khanh
+Asian Games Jakarta 2018,2018-08-18,BATBAYAR Doljinzuu,NEMBANG Swechchha,4,0,"11,13,11,11|9,11,6,6",R64,OTHER,WS,891,Main Draw,BATBAYAR Doljinzuu (MGL),NEMBANG Swechchha (NEP),BATBAYAR Doljinzuu
+Asian Games Jakarta 2018,2018-08-18,HAWWA Kharisma Nur,KONGPHET Nitnapha,4,0,"11,11,11,11|7,7,4,8",R64,OTHER,WS,891,Main Draw,KONGPHET Nitnapha (LAO),HAWWA Kharisma Nur (INA),HAWWA Kharisma Nur
+Asian Games Jakarta 2018,2018-08-18,ANSARI Aisha,MOHAMED Aia,4,3,"11,10,11,11,6,10,11|2,12,8,7,11,12,7",R64,OTHER,WS,891,Main Draw,MOHAMED Aia (QAT),ANSARI Aisha (PAK),ANSARI Aisha
+Asian Games Jakarta 2018,2018-08-18,BATMUNKH Bolor-Erdene,FARAMARZI Maha,4,2,"2,11,7,11,11,11|11,7,11,3,7,9",R64,OTHER,WS,891,Main Draw,BATMUNKH Bolor-Erdene (MGL),FARAMARZI Maha (QAT),BATMUNKH Bolor-Erdene
+Asian Games Jakarta 2018,2018-08-18,SHRESTHA Nabita,TAM Sut Fei,4,3,"11,8,3,11,7,11,11|8,11,11,8,11,6,7",R64,OTHER,WS,891,Main Draw,TAM Sut Fei (MAC),SHRESTHA Nabita (NEP),SHRESTHA Nabita
+Asian Games Jakarta 2018,2018-08-18,SINTYA Rina,SOUTHAMMAVONG Thiphakone,4,0,"11,11,11,11|8,2,8,6",R64,OTHER,WS,891,Main Draw,SOUTHAMMAVONG Thiphakone (LAO),SINTYA Rina (INA),SINTYA Rina
+Asian Games Jakarta 2018,2018-08-18,MADURANGI Ishara,KHAN Fatima,4,0,"11,11,11,11|8,2,8,5",R64,OTHER,WS,891,Main Draw,MADURANGI Ishara (SRI),KHAN Fatima (PAK),MADURANGI Ishara
+Asian Games Jakarta 2018,2018-08-18,CHEN Meng,NGUYEN Khanh,4,0,"11,11,11,11|1,3,2,3",R32,OTHER,WS,891,Main Draw,CHEN Meng (CHN),NGUYEN Khanh (VIE),CHEN Meng
+Asian Games Jakarta 2018,2018-08-18,CHEN Szu-Yu,DAS Mouma,4,0,"11,11,11,11|6,5,6,6",R32,OTHER,WS,891,Main Draw,DAS Mouma (IND),CHEN Szu-Yu (TPE),CHEN Szu-Yu
+Asian Games Jakarta 2018,2018-08-18,SAWETTABUT Suthasini,CHONG Weng I,4,1,"11,11,11,6,11|8,2,7,11,3",R32,OTHER,WS,891,Main Draw,SAWETTABUT Suthasini (THA),CHONG Weng I (MAC),SAWETTABUT Suthasini
+Asian Games Jakarta 2018,2018-08-18,LEE Ho Ching,BATBAYAR Doljinzuu,4,0,"11,12,11,11|6,10,3,9",R32,OTHER,WS,891,Main Draw,BATBAYAR Doljinzuu (MGL),LEE Ho Ching (HKG),LEE Ho Ching
+Asian Games Jakarta 2018,2018-08-18,KATO Miyu,HAWWA Kharisma Nur,4,0,"11,11,11,11|3,8,7,9",R32,OTHER,WS,891,Main Draw,KATO Miyu (JPN),HAWWA Kharisma Nur (INA),KATO Miyu
+Asian Games Jakarta 2018,2018-08-18,KIM Song I,ASHTARI Mahshid,4,0,"11,11,11,12|8,5,7,10",R32,OTHER,WS,891,Main Draw,ASHTARI Mahshid (IRI),KIM Song I (PRK),KIM Song I
+Asian Games Jakarta 2018,2018-08-18,JEON Jihee,HO Ying,4,0,"11,11,11,11|8,7,5,6",R32,OTHER,WS,891,Main Draw,JEON Jihee (KOR),HO Ying (MAS),JEON Jihee
+Asian Games Jakarta 2018,2018-08-18,FENG Tianwei,ANSARI Aisha,4,0,"11,11,11,11|5,2,2,5",R32,OTHER,WS,891,Main Draw,ANSARI Aisha (PAK),FENG Tianwei (SGP),FENG Tianwei
+Asian Games Jakarta 2018,2018-08-18,CHENG I-Ching,BATMUNKH Bolor-Erdene,4,0,"11,11,11,11|6,2,5,3",R32,OTHER,WS,891,Main Draw,CHENG I-Ching (TPE),BATMUNKH Bolor-Erdene (MGL),CHENG I-Ching
+Asian Games Jakarta 2018,2018-08-18,ANDO Minami,NGUYEN Thi Nga,4,1,"11,11,8,11,11|6,3,11,3,3",R32,OTHER,WS,891,Main Draw,NGUYEN Thi Nga (VIE),ANDO Minami (JPN),ANDO Minami
+Asian Games Jakarta 2018,2018-08-18,YU Mengyu,CHANG Li Sian,4,1,"11,11,11,7,11|4,2,4,11,2",R32,OTHER,WS,891,Main Draw,YU Mengyu (SGP),CHANG Li Sian (MAS),YU Mengyu
+Asian Games Jakarta 2018,2018-08-18,DOO Hoi Kem,SHRESTHA Nabita,4,0,"11,11,11,11|5,1,6,7",R32,OTHER,WS,891,Main Draw,SHRESTHA Nabita (NEP),DOO Hoi Kem (HKG),DOO Hoi Kem
+Asian Games Jakarta 2018,2018-08-18,SUH Hyo Won,SINTYA Rina,4,0,"11,11,11,11|4,6,6,7",R32,OTHER,WS,891,Main Draw,SUH Hyo Won (KOR),SINTYA Rina (INA),SUH Hyo Won
+Asian Games Jakarta 2018,2018-08-18,CHA Hyo Sim,SHAHSAVARI Neda,4,0,"11,11,11,11|4,2,9,4",R32,OTHER,WS,891,Main Draw,SHAHSAVARI Neda (IRI),CHA Hyo Sim (PRK),CHA Hyo Sim
+Asian Games Jakarta 2018,2018-08-18,BATRA Manika,KOMWONG Nanthana,4,0,"11,11,11,11|3,7,3,6",R32,OTHER,WS,891,Main Draw,BATRA Manika (IND),KOMWONG Nanthana (THA),BATRA Manika
+Asian Games Jakarta 2018,2018-08-18,WANG Manyu,MADURANGI Ishara,4,0,"11,11,11,11|8,5,8,1",R32,OTHER,WS,891,Main Draw,MADURANGI Ishara (SRI),WANG Manyu (CHN),WANG Manyu
+Asian Games Jakarta 2018,2018-08-18,CHEN Meng,CHEN Szu-Yu,4,0,"11,11,11,11|5,6,3,5",R16,OTHER,WS,891,Main Draw,CHEN Meng (CHN),CHEN Szu-Yu (TPE),CHEN Meng
+Asian Games Jakarta 2018,2018-08-18,LEE Ho Ching,SAWETTABUT Suthasini,4,0,"11,11,11,11|7,3,6,3",R16,OTHER,WS,891,Main Draw,SAWETTABUT Suthasini (THA),LEE Ho Ching (HKG),LEE Ho Ching
+Asian Games Jakarta 2018,2018-08-18,KATO Miyu,KIM Song I,4,3,"7,2,9,11,11,11,14|11,11,11,5,9,4,12",R16,OTHER,WS,891,Main Draw,KATO Miyu (JPN),KIM Song I (PRK),KATO Miyu
+Asian Games Jakarta 2018,2018-08-18,CHENG I-Ching,ANDO Minami,4,2,"7,11,9,11,12,11|11,7,11,6,10,6",R16,OTHER,WS,891,Main Draw,CHENG I-Ching (TPE),ANDO Minami (JPN),CHENG I-Ching
+Asian Games Jakarta 2018,2018-08-18,YU Mengyu,DOO Hoi Kem,4,3,"5,13,11,7,12,9,11|11,11,8,11,10,11,6",R16,OTHER,WS,891,Main Draw,YU Mengyu (SGP),DOO Hoi Kem (HKG),YU Mengyu
+Asian Games Jakarta 2018,2018-08-18,SUH Hyo Won,CHA Hyo Sim,4,1,"11,11,13,11,11|2,9,15,9,7",R16,OTHER,WS,891,Main Draw,SUH Hyo Won (KOR),CHA Hyo Sim (PRK),SUH Hyo Won
+Asian Games Jakarta 2018,2018-08-18,WANG Manyu,BATRA Manika,4,1,"11,11,11,6,11|2,8,8,11,4",R16,OTHER,WS,891,Main Draw,BATRA Manika (IND),WANG Manyu (CHN),WANG Manyu
+Asian Games Jakarta 2018,2018-08-18,CHEN Meng,LEE Ho Ching,4,0,"11,12,11,12|8,10,7,10",QF,OTHER,WS,891,Main Draw,CHEN Meng (CHN),LEE Ho Ching (HKG),CHEN Meng
+Asian Games Jakarta 2018,2018-08-18,JEON Jihee,KATO Miyu,4,3,"5,10,11,7,14,11,11|11,12,6,11,12,8,8",QF,OTHER,WS,891,Main Draw,KATO Miyu (JPN),JEON Jihee (KOR),JEON Jihee
+Asian Games Jakarta 2018,2018-08-18,YU Mengyu,CHENG I-Ching,4,1,"11,11,9,11,11|7,6,11,4,3",QF,OTHER,WS,891,Main Draw,CHENG I-Ching (TPE),YU Mengyu (SGP),YU Mengyu
+Asian Games Jakarta 2018,2018-08-18,CHEN Meng,JEON Jihee,4,0,"11,11,11,11|7,7,6,4",SF,OTHER,WS,891,Main Draw,CHEN Meng (CHN),JEON Jihee (KOR),CHEN Meng
+Asian Games Jakarta 2018,2018-08-18,WANG Manyu,YU Mengyu,4,1,"11,11,11,9,11|7,6,5,11,7",SF,OTHER,WS,891,Main Draw,YU Mengyu (SGP),WANG Manyu (CHN),WANG Manyu
+Asian Games Jakarta 2018,2018-08-18,WANG Manyu,CHEN Meng,4,3,"11,5,14,7,11,11,11|7,11,16,11,6,8,8",F,OTHER,WS,891,Main Draw,CHEN Meng (CHN),WANG Manyu (CHN),WANG Manyu

@@ -1,186 +1,186 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-World Tour Croatia Open Zagreb 2014,2014-05-21,MURAMATSU Yuto,AHLANDER-J Carl,4,1,"11,8,11,11,11|5,11,3,8,9",R64,GRAND_SLAM,MS,133,Main Draw,MURAMATSU Yuto (JPN),AHLANDER-J Carl (SWE)
-World Tour Croatia Open Zagreb 2014,2014-05-21,FUJIMURA Tomoya,BUROV Viacheslav,4,2,"12,17,5,11,11,13|14,15,11,9,2,11",R64,GRAND_SLAM,MS,133,Main Draw,FUJIMURA Tomoya (JPN),BUROV Viacheslav (RUS)
-World Tour Croatia Open Zagreb 2014,2014-05-21,TREGLER Tomas,MCBEATH David,4,2,"7,6,15,11,12,11|11,11,13,8,10,7",R64,GRAND_SLAM,MS,133,Main Draw,TREGLER Tomas (CZE),MCBEATH David (ENG)
-World Tour Croatia Open Zagreb 2014,2014-05-21,MAGYAR Laszlo,OBESLO Michal,4,2,"6,13,10,11,11,11|11,11,12,9,9,7",R64,GRAND_SLAM,MS,133,Main Draw,MAGYAR Laszlo (HUN),OBESLO Michal (CZE)
-World Tour Croatia Open Zagreb 2014,2014-05-21,PUCAR Tomislav,BENITO Javier,4,0,"11,11,11,11|9,5,6,9",R64,GRAND_SLAM,MS,133,Main Draw,PUCAR Tomislav (CRO),BENITO Javier (ESP)
-World Tour Croatia Open Zagreb 2014,2014-05-21,PETRUKHIN Evgeny,LE BRETON Thomas,4,0,"11,11,11,11|8,9,9,5",R64,GRAND_SLAM,MS,133,Main Draw,PETRUKHIN Evgeny (RUS),LE BRETON Thomas (FRA)
-World Tour Croatia Open Zagreb 2014,2014-05-21,BAIBULDIN Andrei,ZIBRAT Jan,4,1,"9,11,11,11,12|11,4,8,4,10",R64,GRAND_SLAM,MS,133,Main Draw,ZIBRAT Jan (SLO),BAIBULDIN Andrei (RUS)
-World Tour Croatia Open Zagreb 2014,2014-05-21,KUZMIN Fedor,SZITA Marton,4,1,"11,11,11,9,12|9,8,6,11,10",R64,GRAND_SLAM,MS,133,Main Draw,SZITA Marton (HUN),KUZMIN Fedor (RUS)
-World Tour Croatia Open Zagreb 2014,2014-05-21,YOSHIDA Masaki,CREPULJA Bojan,4,1,"11,11,11,11,11|7,6,7,13,5",R64,GRAND_SLAM,MS,133,Main Draw,YOSHIDA Masaki (JPN),CREPULJA Bojan (SRB)
-World Tour Croatia Open Zagreb 2014,2014-05-21,HEIMBERGER Martin,GERALDO Joao,4,1,"17,8,11,11,11|15,11,9,6,8",R64,GRAND_SLAM,MS,133,Main Draw,HEIMBERGER Martin (AUT),GERALDO Joao (POR)
-World Tour Croatia Open Zagreb 2014,2014-05-21,SIMOVIC Miho,KOVAC Borna,4,3,"9,11,9,11,9,11,13|11,9,11,6,11,6,11",R64,GRAND_SLAM,MS,133,Main Draw,KOVAC Borna (CRO),SIMOVIC Miho (CRO)
-World Tour Croatia Open Zagreb 2014,2014-05-21,BROSSIER Benjamin,SLATINSEK Uros,4,0,"13,11,11,11|11,3,8,6",R64,GRAND_SLAM,MS,133,Main Draw,SLATINSEK Uros (SLO),BROSSIER Benjamin (FRA)
-World Tour Croatia Open Zagreb 2014,2014-05-21,DUDA Benedikt,CASSIN Alexandre,4,3,"8,11,9,11,3,11,11|11,6,11,9,11,9,9",R64,GRAND_SLAM,MS,133,Main Draw,DUDA Benedikt (GER),CASSIN Alexandre (FRA)
-World Tour Croatia Open Zagreb 2014,2014-05-21,ROBINOT Alexandre,SZUDI Adam,4,1,"11,11,7,14,11|4,6,11,12,7",R64,GRAND_SLAM,MS,133,Main Draw,SZUDI Adam (HUN),ROBINOT Alexandre (FRA)
-World Tour Croatia Open Zagreb 2014,2014-05-21,JUZBASIC Ivan,MERZLIKIN Taras,4,2,"11,8,11,10,11,11|9,11,9,12,9,5",R64,GRAND_SLAM,MS,133,Main Draw,JUZBASIC Ivan (CRO),MERZLIKIN Taras (RUS)
-World Tour Croatia Open Zagreb 2014,2014-05-21,QIU Dang,YOSHIMURA Maharu,4,3,"11,5,11,3,11,9,11|8,11,9,11,9,11,8",R64,GRAND_SLAM,MS,133,Main Draw,QIU Dang (GER),YOSHIMURA Maharu (JPN)
-World Tour Croatia Open Zagreb 2014,2014-05-21,WALTHER Ricardo,OOSTWOUDER Ewout,4,0,"11,11,11,11|8,6,9,5",R64,GRAND_SLAM,MS,133,Main Draw,WALTHER Ricardo (GER),OOSTWOUDER Ewout (NED)
-World Tour Croatia Open Zagreb 2014,2014-05-21,OUAICHE Stephane,ZUBCIC Tomislav,4,3,"11,6,11,7,12,9,11|7,11,4,11,10,11,5",R64,GRAND_SLAM,MS,133,Main Draw,ZUBCIC Tomislav (CRO),OUAICHE Stephane (ALG)
-World Tour Croatia Open Zagreb 2014,2014-05-21,ROBLES Alvaro,FLORITZ Philipp,4,1,"11,11,11,10,11|5,4,9,12,9",R64,GRAND_SLAM,MS,133,Main Draw,FLORITZ Philipp (BUL),ROBLES Alvaro (ESP)
-World Tour Croatia Open Zagreb 2014,2014-05-21,PETIOT Jeremy,GORDIC Uros,4,1,"11,11,7,11,11|4,9,11,3,4",R64,GRAND_SLAM,MS,133,Main Draw,GORDIC Uros (SRB),PETIOT Jeremy (FRA)
-World Tour Croatia Open Zagreb 2014,2014-05-21,DYJAS Jakub,STORF Martin,4,2,"11,11,12,4,11,11|9,7,14,11,9,3",R64,GRAND_SLAM,MS,133,Main Draw,DYJAS Jakub (POL),STORF Martin (AUT)
-World Tour Croatia Open Zagreb 2014,2014-05-21,BOULOUSSA Mehdi,LEITGEB Stefan,4,3,"11,7,8,11,12,11,11|13,11,11,5,10,3,9",R64,GRAND_SLAM,MS,133,Main Draw,BOULOUSSA Mehdi (ALG),LEITGEB Stefan (AUT)
-World Tour Croatia Open Zagreb 2014,2014-05-21,AKKUZU Can,VOZICKY Bohumil,4,2,"11,11,8,11,8,11|7,4,11,7,11,6",R64,GRAND_SLAM,MS,133,Main Draw,VOZICKY Bohumil (CZE),AKKUZU Can (FRA)
-World Tour Croatia Open Zagreb 2014,2014-05-21,LORENTZ Romain,SUBOTIC Dragan,4,2,"11,11,11,8,9,11|7,8,9,11,11,8",R64,GRAND_SLAM,MS,133,Main Draw,SUBOTIC Dragan (SRB),LORENTZ Romain (FRA)
-World Tour Croatia Open Zagreb 2014,2014-05-21,PLATONOV Pavel,ECSEKI Nandor,4,1,"12,6,11,11,11|10,11,7,8,7",R64,GRAND_SLAM,MS,133,Main Draw,PLATONOV Pavel (BLR),ECSEKI Nandor (HUN)
-World Tour Croatia Open Zagreb 2014,2014-05-21,HABESOHN Dominik,FUCEC Luka,4,0,"11,11,11,11|6,6,6,9",R64,GRAND_SLAM,MS,133,Main Draw,FUCEC Luka (CRO),HABESOHN Dominik (AUT)
-World Tour Croatia Open Zagreb 2014,2014-05-21,RYUZAKI Tonin,DURANSPAHIC Admir,4,1,"11,13,11,8,11|4,11,9,11,5",R64,GRAND_SLAM,MS,133,Main Draw,DURANSPAHIC Admir (BIH),RYUZAKI Tonin (JPN)
-World Tour Croatia Open Zagreb 2014,2014-05-21,ZHUKOV Aleksei,MADRID Marcos,4,2,"11,8,11,9,11,12|9,11,5,11,7,10",R64,GRAND_SLAM,MS,133,Main Draw,ZHUKOV Aleksei (RUS),MADRID Marcos (MEX)
-World Tour Croatia Open Zagreb 2014,2014-05-21,SZOCS Hunor,HUZJAK Josip,4,1,"11,9,11,11,14|9,11,3,1,12",R64,GRAND_SLAM,MS,133,Main Draw,SZOCS Hunor (ROU),HUZJAK Josip (CRO)
-World Tour Croatia Open Zagreb 2014,2014-05-21,CIPIN Filip,HACHARD Antoine,4,3,"18,2,5,11,11,4,11|16,11,11,8,6,11,7",R64,GRAND_SLAM,MS,133,Main Draw,CIPIN Filip (CRO),HACHARD Antoine (FRA)
-World Tour Croatia Open Zagreb 2014,2014-05-21,ZAIKIN Alan,SHETTY Sanil,4,1,"11,12,5,11,11|8,10,11,9,5",R64,GRAND_SLAM,MS,133,Main Draw,SHETTY Sanil (IND),ZAIKIN Alan (RUS)
-World Tour Croatia Open Zagreb 2014,2014-05-21,SALIFOU Abdel-Kader,PETKOV Marko,4,1,"11,12,11,8,11|1,10,9,11,9",R64,GRAND_SLAM,MS,133,Main Draw,PETKOV Marko (SRB),SALIFOU Abdel-Kader (BEN)
-World Tour Croatia Open Zagreb 2014,2014-05-21,MURAMATSU Yuto,FUJIMURA Tomoya,4,0,"11,16,11,11|4,14,8,7",R32,GRAND_SLAM,MS,133,Main Draw,MURAMATSU Yuto (JPN),FUJIMURA Tomoya (JPN)
-World Tour Croatia Open Zagreb 2014,2014-05-21,TREGLER Tomas,MAGYAR Laszlo,4,0,"11,11,11,12|7,9,5,10",R32,GRAND_SLAM,MS,133,Main Draw,TREGLER Tomas (CZE),MAGYAR Laszlo (HUN)
-World Tour Croatia Open Zagreb 2014,2014-05-21,PUCAR Tomislav,PETRUKHIN Evgeny,4,2,"9,11,6,11,11,11|11,9,11,7,7,3",R32,GRAND_SLAM,MS,133,Main Draw,PUCAR Tomislav (CRO),PETRUKHIN Evgeny (RUS)
-World Tour Croatia Open Zagreb 2014,2014-05-21,BAIBULDIN Andrei,KUZMIN Fedor,4,1,"11,11,11,6,11|5,6,9,11,8",R32,GRAND_SLAM,MS,133,Main Draw,BAIBULDIN Andrei (RUS),KUZMIN Fedor (RUS)
-World Tour Croatia Open Zagreb 2014,2014-05-21,YOSHIDA Masaki,HEIMBERGER Martin,4,1,"6,14,11,11,11|11,12,7,4,9",R32,GRAND_SLAM,MS,133,Main Draw,YOSHIDA Masaki (JPN),HEIMBERGER Martin (AUT)
-World Tour Croatia Open Zagreb 2014,2014-05-21,BROSSIER Benjamin,SIMOVIC Miho,4,1,"11,4,11,11,11|5,11,2,6,7",R32,GRAND_SLAM,MS,133,Main Draw,SIMOVIC Miho (CRO),BROSSIER Benjamin (FRA)
-World Tour Croatia Open Zagreb 2014,2014-05-21,DUDA Benedikt,ROBINOT Alexandre,4,2,"8,11,11,11,3,11|11,8,4,5,11,3",R32,GRAND_SLAM,MS,133,Main Draw,DUDA Benedikt (GER),ROBINOT Alexandre (FRA)
-World Tour Croatia Open Zagreb 2014,2014-05-21,JUZBASIC Ivan,QIU Dang,4,0,"11,11,11,11|4,4,7,5",R32,GRAND_SLAM,MS,133,Main Draw,JUZBASIC Ivan (CRO),QIU Dang (GER)
-World Tour Croatia Open Zagreb 2014,2014-05-21,WALTHER Ricardo,OUAICHE Stephane,4,0,"12,13,11,11|10,11,8,7",R32,GRAND_SLAM,MS,133,Main Draw,WALTHER Ricardo (GER),OUAICHE Stephane (ALG)
-World Tour Croatia Open Zagreb 2014,2014-05-21,ROBLES Alvaro,PETIOT Jeremy,4,2,"14,6,11,11,11,11|16,11,9,6,8,6",R32,GRAND_SLAM,MS,133,Main Draw,ROBLES Alvaro (ESP),PETIOT Jeremy (FRA)
-World Tour Croatia Open Zagreb 2014,2014-05-21,DYJAS Jakub,BOULOUSSA Mehdi,4,2,"7,14,11,8,15,13|11,12,5,11,13,11",R32,GRAND_SLAM,MS,133,Main Draw,DYJAS Jakub (POL),BOULOUSSA Mehdi (ALG)
-World Tour Croatia Open Zagreb 2014,2014-05-21,LORENTZ Romain,AKKUZU Can,4,3,"6,11,6,12,10,11,11|11,4,11,10,12,3,6",R32,GRAND_SLAM,MS,133,Main Draw,AKKUZU Can (FRA),LORENTZ Romain (FRA)
-World Tour Croatia Open Zagreb 2014,2014-05-21,HABESOHN Dominik,PLATONOV Pavel,4,2,"11,11,8,11,7,12|4,6,11,7,11,10",R32,GRAND_SLAM,MS,133,Main Draw,PLATONOV Pavel (BLR),HABESOHN Dominik (AUT)
-World Tour Croatia Open Zagreb 2014,2014-05-21,RYUZAKI Tonin,ZHUKOV Aleksei,4,1,"9,11,11,11,11|11,5,4,7,7",R32,GRAND_SLAM,MS,133,Main Draw,RYUZAKI Tonin (JPN),ZHUKOV Aleksei (RUS)
-World Tour Croatia Open Zagreb 2014,2014-05-21,SZOCS Hunor,CIPIN Filip,4,1,"11,11,11,6,11|6,6,8,11,3",R32,GRAND_SLAM,MS,133,Main Draw,SZOCS Hunor (ROU),CIPIN Filip (CRO)
-World Tour Croatia Open Zagreb 2014,2014-05-21,SALIFOU Abdel-Kader,ZAIKIN Alan,4,1,"12,11,8,11,11|10,5,11,5,6",R32,GRAND_SLAM,MS,133,Main Draw,ZAIKIN Alan (RUS),SALIFOU Abdel-Kader (BEN)
-World Tour Croatia Open Zagreb 2014,2014-05-21,MURAMATSU Yuto,TREGLER Tomas,4,0,"11,11,11,11|5,7,5,6",R16,GRAND_SLAM,MS,133,Main Draw,MURAMATSU Yuto (JPN),TREGLER Tomas (CZE)
-World Tour Croatia Open Zagreb 2014,2014-05-21,PUCAR Tomislav,BAIBULDIN Andrei,4,1,"14,9,11,11,11|12,11,5,7,7",R16,GRAND_SLAM,MS,133,Main Draw,PUCAR Tomislav (CRO),BAIBULDIN Andrei (RUS)
-World Tour Croatia Open Zagreb 2014,2014-05-21,YOSHIDA Masaki,BROSSIER Benjamin,4,3,"9,7,11,11,6,11,12|11,11,8,9,11,4,10",R16,GRAND_SLAM,MS,133,Main Draw,YOSHIDA Masaki (JPN),BROSSIER Benjamin (FRA)
-World Tour Croatia Open Zagreb 2014,2014-05-21,DUDA Benedikt,JUZBASIC Ivan,4,1,"11,11,11,7,12|7,4,7,11,10",R16,GRAND_SLAM,MS,133,Main Draw,DUDA Benedikt (GER),JUZBASIC Ivan (CRO)
-World Tour Croatia Open Zagreb 2014,2014-05-21,WALTHER Ricardo,ROBLES Alvaro,4,1,"12,11,9,11,11|10,8,11,9,9",R16,GRAND_SLAM,MS,133,Main Draw,WALTHER Ricardo (GER),ROBLES Alvaro (ESP)
-World Tour Croatia Open Zagreb 2014,2014-05-21,DYJAS Jakub,LORENTZ Romain,4,2,"11,12,12,7,11,11|13,10,10,11,8,9",R16,GRAND_SLAM,MS,133,Main Draw,DYJAS Jakub (POL),LORENTZ Romain (FRA)
-World Tour Croatia Open Zagreb 2014,2014-05-21,RYUZAKI Tonin,HABESOHN Dominik,4,3,"8,11,11,6,7,11,11|11,6,9,11,11,9,4",R16,GRAND_SLAM,MS,133,Main Draw,HABESOHN Dominik (AUT),RYUZAKI Tonin (JPN)
-World Tour Croatia Open Zagreb 2014,2014-05-21,SZOCS Hunor,SALIFOU Abdel-Kader,4,3,"11,8,13,5,12,11,11|5,11,15,11,10,8,6",R16,GRAND_SLAM,MS,133,Main Draw,SZOCS Hunor (ROU),SALIFOU Abdel-Kader (BEN)
-World Tour Croatia Open Zagreb 2014,2014-05-21,MURAMATSU Yuto,PUCAR Tomislav,4,0,"11,11,11,11|7,4,7,4",QF,GRAND_SLAM,MS,133,Main Draw,MURAMATSU Yuto (JPN),PUCAR Tomislav (CRO)
-World Tour Croatia Open Zagreb 2014,2014-05-21,YOSHIDA Masaki,DUDA Benedikt,4,1,"11,11,10,11,11|9,7,12,9,9",QF,GRAND_SLAM,MS,133,Main Draw,YOSHIDA Masaki (JPN),DUDA Benedikt (GER)
-World Tour Croatia Open Zagreb 2014,2014-05-21,WALTHER Ricardo,DYJAS Jakub,4,1,"3,11,11,11,11|11,6,7,4,3",QF,GRAND_SLAM,MS,133,Main Draw,WALTHER Ricardo (GER),DYJAS Jakub (POL)
-World Tour Croatia Open Zagreb 2014,2014-05-21,RYUZAKI Tonin,SZOCS Hunor,4,1,"11,2,11,13,11|7,11,0,11,6",QF,GRAND_SLAM,MS,133,Main Draw,RYUZAKI Tonin (JPN),SZOCS Hunor (ROU)
-World Tour Croatia Open Zagreb 2014,2014-05-21,YOSHIDA Masaki,MURAMATSU Yuto,4,0,"11,11,11,11|9,4,4,5",SF,GRAND_SLAM,MS,133,Main Draw,MURAMATSU Yuto (JPN),YOSHIDA Masaki (JPN)
-World Tour Croatia Open Zagreb 2014,2014-05-21,WALTHER Ricardo,RYUZAKI Tonin,4,1,"4,11,11,12,11|11,1,8,10,5",SF,GRAND_SLAM,MS,133,Main Draw,WALTHER Ricardo (GER),RYUZAKI Tonin (JPN)
-World Tour Croatia Open Zagreb 2014,2014-05-21,WALTHER Ricardo,YOSHIDA Masaki,4,3,"11,3,8,13,7,16,11|7,11,11,11,11,14,2",F,GRAND_SLAM,MS,133,Main Draw,YOSHIDA Masaki (JPN),WALTHER Ricardo (GER)
-World Tour Croatia Open Zagreb 2014,2014-05-21,POTA Georgina,BARENDREGT Alice,4,0,"11,11,11,11|6,9,6,8",R64,GRAND_SLAM,WS,133,Main Draw,POTA Georgina (HUN),BARENDREGT Alice (NED)
-World Tour Croatia Open Zagreb 2014,2014-05-21,AGGARWAL Neha,VIVARELLI Debora,4,0,"11,11,12,11|6,5,10,5",R64,GRAND_SLAM,WS,133,Main Draw,VIVARELLI Debora (ITA),AGGARWAL Neha (IND)
-World Tour Croatia Open Zagreb 2014,2014-05-21,JEGER Mateja,TRUZSINSZKI Viktoria,4,2,"18,12,8,11,12,11|20,10,11,6,10,6",R64,GRAND_SLAM,WS,133,Main Draw,JEGER Mateja (CRO),TRUZSINSZKI Viktoria (SRB)
-World Tour Croatia Open Zagreb 2014,2014-05-21,PETEK Petra,SAKAI Haruka,4,2,"14,10,11,11,9,14|12,12,7,7,11,12",R64,GRAND_SLAM,WS,133,Main Draw,PETEK Petra (CRO),SAKAI Haruka (JPN)
-World Tour Croatia Open Zagreb 2014,2014-05-21,PERGEL Szandra,MOSKOVITS Daniela,4,0,"11,11,11,11|5,4,6,6",R64,GRAND_SLAM,WS,133,Main Draw,PERGEL Szandra (HUN),MOSKOVITS Daniela (SWE)
-World Tour Croatia Open Zagreb 2014,2014-05-21,VUGRINEC Suncica,ASCHWANDEN Rahel,4,3,"11,8,11,6,11,7,11|6,11,5,11,7,11,5",R64,GRAND_SLAM,WS,133,Main Draw,ASCHWANDEN Rahel (SUI),VUGRINEC Suncica (CRO)
-World Tour Croatia Open Zagreb 2014,2014-05-21,MORET Rachel,BARAVOK Katsiaryna,4,1,"11,11,11,6,11|8,9,4,11,7",R64,GRAND_SLAM,WS,133,Main Draw,MORET Rachel (SUI),BARAVOK Katsiaryna (BLR)
-World Tour Croatia Open Zagreb 2014,2014-05-21,YANG Xiaoxin,KNEZEVIC Monika,4,1,"11,11,10,13,11|3,2,12,11,4",R64,GRAND_SLAM,WS,133,Main Draw,KNEZEVIC Monika (SRB),YANG Xiaoxin (MON)
-World Tour Croatia Open Zagreb 2014,2014-05-21,SOLJA Amelie,KUCHUK Maryia,4,0,"11,11,11,11|2,7,6,5",R64,GRAND_SLAM,WS,133,Main Draw,SOLJA Amelie (AUT),KUCHUK Maryia (BLR)
-World Tour Croatia Open Zagreb 2014,2014-05-21,PROKHOROVA Yulia,KERTAI Rita,4,3,"11,9,11,6,9,11,11|8,11,8,11,11,3,9",R64,GRAND_SLAM,WS,133,Main Draw,KERTAI Rita (HUN),PROKHOROVA Yulia (RUS)
-World Tour Croatia Open Zagreb 2014,2014-05-21,XIAO Maria,HAJOK Caroline,4,2,"12,11,11,11,7,11|14,8,9,8,11,5",R64,GRAND_SLAM,WS,133,Main Draw,XIAO Maria (ESP),HAJOK Caroline (GER)
-World Tour Croatia Open Zagreb 2014,2014-05-21,VARADY Barbora,FAJMUT Manca,4,2,"11,11,11,9,3,11|4,8,3,11,11,2",R64,GRAND_SLAM,WS,133,Main Draw,FAJMUT Manca (SLO),VARADY Barbora (SVK)
-World Tour Croatia Open Zagreb 2014,2014-05-21,EERLAND Britt,SREBRNJAK Dorina,4,1,"12,11,14,11,12|14,7,12,4,10",R64,GRAND_SLAM,WS,133,Main Draw,EERLAND Britt (NED),SREBRNJAK Dorina (CRO)
-World Tour Croatia Open Zagreb 2014,2014-05-21,LOEUILLETTE Stephanie,SHIBAEVA Elza,4,2,"11,8,6,15,11,11|8,11,11,13,8,3",R64,GRAND_SLAM,WS,133,Main Draw,LOEUILLETTE Stephanie (FRA),SHIBAEVA Elza (RUS)
-World Tour Croatia Open Zagreb 2014,2014-05-21,TODOROVIC Andrea,JONSSON Jennifer,4,2,"11,5,8,11,11,11|7,11,11,7,9,7",R64,GRAND_SLAM,WS,133,Main Draw,TODOROVIC Andrea (SRB),JONSSON Jennifer (SWE)
-World Tour Croatia Open Zagreb 2014,2014-05-21,VACENOVSKA Iveta,BRODAR Mihaela,4,0,"11,11,11,11|8,2,6,4",R64,GRAND_SLAM,WS,133,Main Draw,BRODAR Mihaela (CRO),VACENOVSKA Iveta (CZE)
-World Tour Croatia Open Zagreb 2014,2014-05-21,POLCANOVA Sofia,PETRINSAK Petra,4,0,"11,11,11,11|3,6,6,9",R64,GRAND_SLAM,WS,133,Main Draw,POLCANOVA Sofia (AUT),PETRINSAK Petra (CRO)
-World Tour Croatia Open Zagreb 2014,2014-05-21,BIKBAEVA Anna,HADZIAHMETOVIC Emina,4,0,"11,11,12,11|6,3,10,7",R64,GRAND_SLAM,WS,133,Main Draw,HADZIAHMETOVIC Emina (BIH),BIKBAEVA Anna (RUS)
-World Tour Croatia Open Zagreb 2014,2014-05-21,DOLGIKH Maria,LENNON Emmanuelle,4,2,"10,6,13,11,11,11|12,11,11,9,5,6",R64,GRAND_SLAM,WS,133,Main Draw,DOLGIKH Maria (RUS),LENNON Emmanuelle (FRA)
-World Tour Croatia Open Zagreb 2014,2014-05-21,MIKHAILOVA Polina,KAROVA Anelia,4,1,"11,11,1,11,11|2,6,11,4,7",R64,GRAND_SLAM,WS,133,Main Draw,KAROVA Anelia (BUL),MIKHAILOVA Polina (RUS)
-World Tour Croatia Open Zagreb 2014,2014-05-21,ERDELJI Anamaria,ARLOUSKAYA Alina,4,3,"11,11,11,6,11,5,11|8,6,5,11,13,11,4",R64,GRAND_SLAM,WS,133,Main Draw,ERDELJI Anamaria (SRB),ARLOUSKAYA Alina (BLR)
-World Tour Croatia Open Zagreb 2014,2014-05-21,WAN Yuan,TUBIKANEC Ivana,4,1,"10,11,11,11,11|12,6,8,8,9",R64,GRAND_SLAM,WS,133,Main Draw,TUBIKANEC Ivana (CRO),WAN Yuan (GER)
-World Tour Croatia Open Zagreb 2014,2014-05-21,MADARASZ Dora,SIKORSKA Magdalena,4,0,"11,14,11,11|5,12,9,8",R64,GRAND_SLAM,WS,133,Main Draw,MADARASZ Dora (HUN),SIKORSKA Magdalena (POL)
-World Tour Croatia Open Zagreb 2014,2014-05-21,IACOB Camelia,NAGYVARADI Mercedes,4,0,"11,11,11,12|8,7,6,10",R64,GRAND_SLAM,WS,133,Main Draw,NAGYVARADI Mercedes (HUN),IACOB Camelia (ROU)
-World Tour Croatia Open Zagreb 2014,2014-05-21,WAKAMIYA Misako,DE NUTTE Sarah,4,0,"11,11,11,11|6,4,3,5",R64,GRAND_SLAM,WS,133,Main Draw,WAKAMIYA Misako (JPN),DE NUTTE Sarah (LUX)
-World Tour Croatia Open Zagreb 2014,2014-05-21,GASNIER Laura,FARLADANSKA Ganna,4,0,"11,11,11,11|7,9,6,6",R64,GRAND_SLAM,WS,133,Main Draw,FARLADANSKA Ganna (UKR),GASNIER Laura (FRA)
-World Tour Croatia Open Zagreb 2014,2014-05-21,ALTINKAYA Sibel,KUZMINA Elena,4,1,"11,11,11,5,11|8,9,7,11,3",R64,GRAND_SLAM,WS,133,Main Draw,KUZMINA Elena (RUS),ALTINKAYA Sibel (TUR)
-World Tour Croatia Open Zagreb 2014,2014-05-21,TIAN Yuan,SABITOVA Valentina,4,0,"11,11,11,11|6,6,4,6",R64,GRAND_SLAM,WS,133,Main Draw,SABITOVA Valentina (RUS),TIAN Yuan (CRO)
-World Tour Croatia Open Zagreb 2014,2014-05-21,NOSKOVA Yana,BERGSTROM Linda,4,1,"11,11,8,11,11|5,5,11,5,5",R64,GRAND_SLAM,WS,133,Main Draw,NOSKOVA Yana (RUS),BERGSTROM Linda (SWE)
-World Tour Croatia Open Zagreb 2014,2014-05-21,MANTZ Chantal,ROSSIKHINA Anna,4,1,"6,11,11,11,11|11,8,3,5,8",R64,GRAND_SLAM,WS,133,Main Draw,ROSSIKHINA Anna (RUS),MANTZ Chantal (GER)
-World Tour Croatia Open Zagreb 2014,2014-05-21,GALIC Alex,RAKOVAC Lea,4,2,"11,12,5,11,11,11|7,10,11,13,9,6",R64,GRAND_SLAM,WS,133,Main Draw,RAKOVAC Lea (CRO),GALIC Alex (SLO)
-World Tour Croatia Open Zagreb 2014,2014-05-21,ISHIGAKI Yuka,ZAMFIROVA Elitsa,4,1,"11,11,9,11,11|5,4,11,4,2",R64,GRAND_SLAM,WS,133,Main Draw,ZAMFIROVA Elitsa (BUL),ISHIGAKI Yuka (JPN)
-World Tour Croatia Open Zagreb 2014,2014-05-21,POTA Georgina,AGGARWAL Neha,4,0,"11,11,11,11|9,8,4,7",R32,GRAND_SLAM,WS,133,Main Draw,POTA Georgina (HUN),AGGARWAL Neha (IND)
-World Tour Croatia Open Zagreb 2014,2014-05-21,JEGER Mateja,PETEK Petra,4,1,"13,12,12,11,11|15,10,10,2,9",R32,GRAND_SLAM,WS,133,Main Draw,JEGER Mateja (CRO),PETEK Petra (CRO)
-World Tour Croatia Open Zagreb 2014,2014-05-21,PERGEL Szandra,VUGRINEC Suncica,4,2,"9,11,5,11,11,11|11,2,11,4,8,9",R32,GRAND_SLAM,WS,133,Main Draw,PERGEL Szandra (HUN),VUGRINEC Suncica (CRO)
-World Tour Croatia Open Zagreb 2014,2014-05-21,YANG Xiaoxin,MORET Rachel,4,0,"11,11,11,11|4,7,7,7",R32,GRAND_SLAM,WS,133,Main Draw,MORET Rachel (SUI),YANG Xiaoxin (MON)
-World Tour Croatia Open Zagreb 2014,2014-05-21,PROKHOROVA Yulia,SOLJA Amelie,4,3,"9,4,9,12,11,11,11|11,11,11,10,9,9,7",R32,GRAND_SLAM,WS,133,Main Draw,SOLJA Amelie (AUT),PROKHOROVA Yulia (RUS)
-World Tour Croatia Open Zagreb 2014,2014-05-21,VARADY Barbora,XIAO Maria,4,2,"11,5,10,11,11,12|8,11,12,5,8,10",R32,GRAND_SLAM,WS,133,Main Draw,XIAO Maria (ESP),VARADY Barbora (SVK)
-World Tour Croatia Open Zagreb 2014,2014-05-21,EERLAND Britt,LOEUILLETTE Stephanie,4,0,"11,11,11,12|8,7,7,10",R32,GRAND_SLAM,WS,133,Main Draw,EERLAND Britt (NED),LOEUILLETTE Stephanie (FRA)
-World Tour Croatia Open Zagreb 2014,2014-05-21,VACENOVSKA Iveta,TODOROVIC Andrea,4,2,"11,11,11,5,9,11|9,9,5,11,11,6",R32,GRAND_SLAM,WS,133,Main Draw,TODOROVIC Andrea (SRB),VACENOVSKA Iveta (CZE)
-World Tour Croatia Open Zagreb 2014,2014-05-21,POLCANOVA Sofia,BIKBAEVA Anna,4,0,"11,11,11,12|6,8,8,10",R32,GRAND_SLAM,WS,133,Main Draw,POLCANOVA Sofia (AUT),BIKBAEVA Anna (RUS)
-World Tour Croatia Open Zagreb 2014,2014-05-21,MIKHAILOVA Polina,DOLGIKH Maria,4,1,"11,11,6,11,11|4,9,11,8,6",R32,GRAND_SLAM,WS,133,Main Draw,DOLGIKH Maria (RUS),MIKHAILOVA Polina (RUS)
-World Tour Croatia Open Zagreb 2014,2014-05-21,ERDELJI Anamaria,WAN Yuan,4,0,"11,11,11,11|5,6,7,6",R32,GRAND_SLAM,WS,133,Main Draw,ERDELJI Anamaria (SRB),WAN Yuan (GER)
-World Tour Croatia Open Zagreb 2014,2014-05-21,IACOB Camelia,MADARASZ Dora,4,2,"11,11,9,7,11,11|7,5,11,11,7,9",R32,GRAND_SLAM,WS,133,Main Draw,MADARASZ Dora (HUN),IACOB Camelia (ROU)
-World Tour Croatia Open Zagreb 2014,2014-05-21,WAKAMIYA Misako,GASNIER Laura,4,0,"11,11,11,11|9,4,8,9",R32,GRAND_SLAM,WS,133,Main Draw,WAKAMIYA Misako (JPN),GASNIER Laura (FRA)
-World Tour Croatia Open Zagreb 2014,2014-05-21,TIAN Yuan,ALTINKAYA Sibel,4,0,"11,11,13,11|5,3,11,7",R32,GRAND_SLAM,WS,133,Main Draw,ALTINKAYA Sibel (TUR),TIAN Yuan (CRO)
-World Tour Croatia Open Zagreb 2014,2014-05-21,NOSKOVA Yana,MANTZ Chantal,4,3,"11,11,8,11,5,12,11|7,8,11,3,11,14,6",R32,GRAND_SLAM,WS,133,Main Draw,NOSKOVA Yana (RUS),MANTZ Chantal (GER)
-World Tour Croatia Open Zagreb 2014,2014-05-21,ISHIGAKI Yuka,GALIC Alex,4,0,"11,11,11,11|7,2,6,7",R32,GRAND_SLAM,WS,133,Main Draw,GALIC Alex (SLO),ISHIGAKI Yuka (JPN)
-World Tour Croatia Open Zagreb 2014,2014-05-21,POTA Georgina,JEGER Mateja,4,3,"11,4,11,7,11,12,11|5,11,8,11,6,14,6",R16,GRAND_SLAM,WS,133,Main Draw,POTA Georgina (HUN),JEGER Mateja (CRO)
-World Tour Croatia Open Zagreb 2014,2014-05-21,YANG Xiaoxin,PERGEL Szandra,4,0,"11,11,11,11|6,4,3,9",R16,GRAND_SLAM,WS,133,Main Draw,PERGEL Szandra (HUN),YANG Xiaoxin (MON)
-World Tour Croatia Open Zagreb 2014,2014-05-21,VARADY Barbora,PROKHOROVA Yulia,4,3,"11,11,8,10,11,11,11|6,9,11,12,13,8,2",R16,GRAND_SLAM,WS,133,Main Draw,PROKHOROVA Yulia (RUS),VARADY Barbora (SVK)
-World Tour Croatia Open Zagreb 2014,2014-05-21,VACENOVSKA Iveta,EERLAND Britt,4,2,"11,6,9,11,11,11|4,11,11,7,8,7",R16,GRAND_SLAM,WS,133,Main Draw,EERLAND Britt (NED),VACENOVSKA Iveta (CZE)
-World Tour Croatia Open Zagreb 2014,2014-05-21,MIKHAILOVA Polina,POLCANOVA Sofia,4,3,"11,11,11,3,10,11,11|13,5,6,11,12,9,2",R16,GRAND_SLAM,WS,133,Main Draw,POLCANOVA Sofia (AUT),MIKHAILOVA Polina (RUS)
-World Tour Croatia Open Zagreb 2014,2014-05-21,IACOB Camelia,ERDELJI Anamaria,4,3,"6,12,11,11,4,4,11|11,10,4,5,11,11,6",R16,GRAND_SLAM,WS,133,Main Draw,ERDELJI Anamaria (SRB),IACOB Camelia (ROU)
-World Tour Croatia Open Zagreb 2014,2014-05-21,WAKAMIYA Misako,TIAN Yuan,4,1,"3,11,11,11,11|11,6,9,7,1",R16,GRAND_SLAM,WS,133,Main Draw,WAKAMIYA Misako (JPN),TIAN Yuan (CRO)
-World Tour Croatia Open Zagreb 2014,2014-05-21,ISHIGAKI Yuka,NOSKOVA Yana,4,0,"11,11,11,11|8,6,7,6",R16,GRAND_SLAM,WS,133,Main Draw,NOSKOVA Yana (RUS),ISHIGAKI Yuka (JPN)
-World Tour Croatia Open Zagreb 2014,2014-05-21,YANG Xiaoxin,POTA Georgina,4,1,"11,11,11,11,12|13,8,9,6,10",QF,GRAND_SLAM,WS,133,Main Draw,POTA Georgina (HUN),YANG Xiaoxin (MON)
-World Tour Croatia Open Zagreb 2014,2014-05-21,VACENOVSKA Iveta,VARADY Barbora,4,1,"11,11,4,11,11|9,5,11,7,6",QF,GRAND_SLAM,WS,133,Main Draw,VARADY Barbora (SVK),VACENOVSKA Iveta (CZE)
-World Tour Croatia Open Zagreb 2014,2014-05-21,IACOB Camelia,MIKHAILOVA Polina,4,1,"7,11,11,16,11|11,8,6,14,7",QF,GRAND_SLAM,WS,133,Main Draw,MIKHAILOVA Polina (RUS),IACOB Camelia (ROU)
-World Tour Croatia Open Zagreb 2014,2014-05-21,WAKAMIYA Misako,ISHIGAKI Yuka,4,3,"12,11,11,6,5,4,11|10,1,9,11,11,11,4",QF,GRAND_SLAM,WS,133,Main Draw,WAKAMIYA Misako (JPN),ISHIGAKI Yuka (JPN)
-World Tour Croatia Open Zagreb 2014,2014-05-21,YANG Xiaoxin,VACENOVSKA Iveta,4,1,"11,14,13,5,11|5,12,11,11,6",SF,GRAND_SLAM,WS,133,Main Draw,YANG Xiaoxin (MON),VACENOVSKA Iveta (CZE)
-World Tour Croatia Open Zagreb 2014,2014-05-21,WAKAMIYA Misako,IACOB Camelia,4,0,"11,11,11,12|8,8,7,10",SF,GRAND_SLAM,WS,133,Main Draw,IACOB Camelia (ROU),WAKAMIYA Misako (JPN)
-World Tour Croatia Open Zagreb 2014,2014-05-21,YANG Xiaoxin,WAKAMIYA Misako,4,1,"11,11,11,6,11|6,7,9,11,7",F,GRAND_SLAM,WS,133,Main Draw,YANG Xiaoxin (MON),WAKAMIYA Misako (JPN)
-World Tour Croatia Open Zagreb 2014,2014-05-21,YOSHIMURA Maharu,BAJGER Ondrej,3,0,"11,13,11|4,11,5",R32,GRAND_SLAM,U21MS,133,Main Draw,YOSHIMURA Maharu (JPN),BAJGER Ondrej (CZE)
-World Tour Croatia Open Zagreb 2014,2014-05-21,AKKUZU Can,ZELJKO Filip,3,1,"11,11,8,11|4,7,11,8",R32,GRAND_SLAM,U21MS,133,Main Draw,ZELJKO Filip (CRO),AKKUZU Can (FRA)
-World Tour Croatia Open Zagreb 2014,2014-05-21,QIU Dang,KULPA Konrad,3,0,"11,11,11|5,5,7",R32,GRAND_SLAM,U21MS,133,Main Draw,KULPA Konrad (POL),QIU Dang (GER)
-World Tour Croatia Open Zagreb 2014,2014-05-21,GERALDO Joao,TAUBER Michael,3,1,"6,11,11,11|11,8,5,4",R32,GRAND_SLAM,U21MS,133,Main Draw,TAUBER Michael (ISR),GERALDO Joao (POR)
-World Tour Croatia Open Zagreb 2014,2014-05-21,DYJAS Jakub,JORGIC Darko,3,2,"11,8,11,12,11|6,11,7,14,7",R32,GRAND_SLAM,U21MS,133,Main Draw,DYJAS Jakub (POL),JORGIC Darko (SLO)
-World Tour Croatia Open Zagreb 2014,2014-05-21,SUBOTIC Dragan,SZUDI Adam,3,1,"11,8,11,11|7,11,9,9",R32,GRAND_SLAM,U21MS,133,Main Draw,SUBOTIC Dragan (SRB),SZUDI Adam (HUN)
-World Tour Croatia Open Zagreb 2014,2014-05-21,CASSIN Alexandre,PUCAR Tomislav,3,1,"8,11,11,16|11,9,7,14",R32,GRAND_SLAM,U21MS,133,Main Draw,PUCAR Tomislav (CRO),CASSIN Alexandre (FRA)
-World Tour Croatia Open Zagreb 2014,2014-05-21,BROSSIER Benjamin,BENES Michal,3,0,"11,11,11|4,8,4",R32,GRAND_SLAM,U21MS,133,Main Draw,BENES Michal (CZE),BROSSIER Benjamin (FRA)
-World Tour Croatia Open Zagreb 2014,2014-05-21,LORENTZ Romain,SZITA Marton,3,1,"11,11,7,11|8,5,11,6",R32,GRAND_SLAM,U21MS,133,Main Draw,LORENTZ Romain (FRA),SZITA Marton (HUN)
-World Tour Croatia Open Zagreb 2014,2014-05-21,RYUZAKI Tonin,PERSOLJA Ludvik,3,0,"11,11,11|4,6,5",R32,GRAND_SLAM,U21MS,133,Main Draw,PERSOLJA Ludvik (SLO),RYUZAKI Tonin (JPN)
-World Tour Croatia Open Zagreb 2014,2014-05-21,HACHARD Antoine,ECSEKI Nandor,3,1,"11,11,2,11|3,9,11,9",R32,GRAND_SLAM,U21MS,133,Main Draw,HACHARD Antoine (FRA),ECSEKI Nandor (HUN)
-World Tour Croatia Open Zagreb 2014,2014-05-21,ROBINOT Alexandre,OOSTWOUDER Ewout,3,0,"11,11,11|5,4,5",R32,GRAND_SLAM,U21MS,133,Main Draw,OOSTWOUDER Ewout (NED),ROBINOT Alexandre (FRA)
-World Tour Croatia Open Zagreb 2014,2014-05-21,DUDA Benedikt,BERGLUND Simon,3,0,"11,11,11|4,6,7",R32,GRAND_SLAM,U21MS,133,Main Draw,DUDA Benedikt (GER),BERGLUND Simon (SWE)
-World Tour Croatia Open Zagreb 2014,2014-05-21,BOULOUSSA Mehdi,CIPIN Filip,3,1,"13,9,13,11|11,11,11,8",R32,GRAND_SLAM,U21MS,133,Main Draw,CIPIN Filip (CRO),BOULOUSSA Mehdi (ALG)
-World Tour Croatia Open Zagreb 2014,2014-05-21,LAMBIET Florent,OUAICHE Stephane,3,1,"9,11,11,11|11,8,6,7",R32,GRAND_SLAM,U21MS,133,Main Draw,OUAICHE Stephane (ALG),LAMBIET Florent (BEL)
-World Tour Croatia Open Zagreb 2014,2014-05-21,YOSHIDA Masaki,AHLANDER-J Carl,3,1,"11,8,11,11|4,11,2,9",R32,GRAND_SLAM,U21MS,133,Main Draw,AHLANDER-J Carl (SWE),YOSHIDA Masaki (JPN)
-World Tour Croatia Open Zagreb 2014,2014-05-21,YOSHIMURA Maharu,AKKUZU Can,3,0,"11,14,11|5,12,7",R16,GRAND_SLAM,U21MS,133,Main Draw,YOSHIMURA Maharu (JPN),AKKUZU Can (FRA)
-World Tour Croatia Open Zagreb 2014,2014-05-21,GERALDO Joao,QIU Dang,3,2,"11,8,8,11,12|9,11,11,9,10",R16,GRAND_SLAM,U21MS,133,Main Draw,QIU Dang (GER),GERALDO Joao (POR)
-World Tour Croatia Open Zagreb 2014,2014-05-21,DYJAS Jakub,SUBOTIC Dragan,3,2,"9,7,11,11,11|11,11,6,4,6",R16,GRAND_SLAM,U21MS,133,Main Draw,DYJAS Jakub (POL),SUBOTIC Dragan (SRB)
-World Tour Croatia Open Zagreb 2014,2014-05-21,BROSSIER Benjamin,CASSIN Alexandre,3,2,"8,11,11,11,11|11,13,7,9,4",R16,GRAND_SLAM,U21MS,133,Main Draw,CASSIN Alexandre (FRA),BROSSIER Benjamin (FRA)
-World Tour Croatia Open Zagreb 2014,2014-05-21,LORENTZ Romain,RYUZAKI Tonin,3,1,"11,11,11,11|3,5,13,7",R16,GRAND_SLAM,U21MS,133,Main Draw,LORENTZ Romain (FRA),RYUZAKI Tonin (JPN)
-World Tour Croatia Open Zagreb 2014,2014-05-21,ROBINOT Alexandre,HACHARD Antoine,3,2,"11,3,10,11,11|8,11,12,7,7",R16,GRAND_SLAM,U21MS,133,Main Draw,HACHARD Antoine (FRA),ROBINOT Alexandre (FRA)
-World Tour Croatia Open Zagreb 2014,2014-05-21,DUDA Benedikt,BOULOUSSA Mehdi,3,2,"11,11,7,10,11|2,7,11,12,5",R16,GRAND_SLAM,U21MS,133,Main Draw,DUDA Benedikt (GER),BOULOUSSA Mehdi (ALG)
-World Tour Croatia Open Zagreb 2014,2014-05-21,YOSHIDA Masaki,LAMBIET Florent,3,0,"11,13,11|7,11,2",R16,GRAND_SLAM,U21MS,133,Main Draw,LAMBIET Florent (BEL),YOSHIDA Masaki (JPN)
-World Tour Croatia Open Zagreb 2014,2014-05-21,GERALDO Joao,YOSHIMURA Maharu,4,2,"11,11,12,7,6,11|9,7,10,11,11,8",QF,GRAND_SLAM,U21MS,133,Main Draw,YOSHIMURA Maharu (JPN),GERALDO Joao (POR)
-World Tour Croatia Open Zagreb 2014,2014-05-21,DYJAS Jakub,BROSSIER Benjamin,4,3,"9,13,6,11,8,11,12|11,11,11,8,11,7,10",QF,GRAND_SLAM,U21MS,133,Main Draw,DYJAS Jakub (POL),BROSSIER Benjamin (FRA)
-World Tour Croatia Open Zagreb 2014,2014-05-21,ROBINOT Alexandre,LORENTZ Romain,4,2,"7,13,5,11,11,11|11,11,11,7,6,8",QF,GRAND_SLAM,U21MS,133,Main Draw,LORENTZ Romain (FRA),ROBINOT Alexandre (FRA)
-World Tour Croatia Open Zagreb 2014,2014-05-21,DYJAS Jakub,GERALDO Joao,4,0,"11,12,11,11|3,10,9,9",SF,GRAND_SLAM,U21MS,133,Main Draw,GERALDO Joao (POR),DYJAS Jakub (POL)
-World Tour Croatia Open Zagreb 2014,2014-05-21,ROBINOT Alexandre,YOSHIDA Masaki,4,1,"11,14,9,11,11|7,12,11,6,4",SF,GRAND_SLAM,U21MS,133,Main Draw,ROBINOT Alexandre (FRA),YOSHIDA Masaki (JPN)
-World Tour Croatia Open Zagreb 2014,2014-05-21,ROBINOT Alexandre,DYJAS Jakub,4,3,"11,8,10,12,11,11,11|9,11,12,14,5,6,5",F,GRAND_SLAM,U21MS,133,Main Draw,DYJAS Jakub (POL),ROBINOT Alexandre (FRA)
-World Tour Croatia Open Zagreb 2014,2014-05-21,POLCANOVA Sofia,ARLOUSKAYA Alina,3,0,"11,11,11|5,4,5",R32,GRAND_SLAM,U21WS,133,Main Draw,POLCANOVA Sofia (AUT),ARLOUSKAYA Alina (BLR)
-World Tour Croatia Open Zagreb 2014,2014-05-21,JEGER Mateja,VERONIK Zala,3,1,"11,12,11,11|8,14,3,9",R32,GRAND_SLAM,U21WS,133,Main Draw,VERONIK Zala (SLO),JEGER Mateja (CRO)
-World Tour Croatia Open Zagreb 2014,2014-05-21,ROSSIKHINA Anna,VIVARELLI Debora,3,1,"11,13,10,11|9,11,12,7",R32,GRAND_SLAM,U21WS,133,Main Draw,VIVARELLI Debora (ITA),ROSSIKHINA Anna (RUS)
-World Tour Croatia Open Zagreb 2014,2014-05-21,GASNIER Laura,KUCHUK Maryia,3,0,"11,11,11|7,2,3",R32,GRAND_SLAM,U21WS,133,Main Draw,KUCHUK Maryia (BLR),GASNIER Laura (FRA)
-World Tour Croatia Open Zagreb 2014,2014-05-21,BIKBAEVA Anna,VAN DUIN Rianne,3,1,"7,11,11,11|11,5,5,9",R32,GRAND_SLAM,U21WS,133,Main Draw,BIKBAEVA Anna (RUS),VAN DUIN Rianne (NED)
-World Tour Croatia Open Zagreb 2014,2014-05-21,BERGSTROM Linda,ASCHWANDEN Rahel,3,1,"10,11,11,11|12,9,9,6",R32,GRAND_SLAM,U21WS,133,Main Draw,BERGSTROM Linda (SWE),ASCHWANDEN Rahel (SUI)
-World Tour Croatia Open Zagreb 2014,2014-05-21,RAKOVAC Lea,DURCIK Aliz,3,1,"9,11,11,11|11,9,4,3",R32,GRAND_SLAM,U21WS,133,Main Draw,RAKOVAC Lea (CRO),DURCIK Aliz (SRB)
-World Tour Croatia Open Zagreb 2014,2014-05-21,EERLAND Britt,PETEK Petra,3,1,"11,11,3,11|6,6,11,7",R32,GRAND_SLAM,U21WS,133,Main Draw,PETEK Petra (CRO),EERLAND Britt (NED)
-World Tour Croatia Open Zagreb 2014,2014-05-21,MADARASZ Dora,BOLENIUS Sannamari,3,1,"14,11,11,11|16,9,4,4",R32,GRAND_SLAM,U21WS,133,Main Draw,MADARASZ Dora (HUN),BOLENIUS Sannamari (SWE)
-World Tour Croatia Open Zagreb 2014,2014-05-21,XIAO Maria,NAGYVARADI Mercedes,3,2,"8,11,11,8,11|11,7,5,11,3",R32,GRAND_SLAM,U21WS,133,Main Draw,NAGYVARADI Mercedes (HUN),XIAO Maria (ESP)
-World Tour Croatia Open Zagreb 2014,2014-05-21,MOSKOVITS Daniela,ALTINKAYA Sibel,3,2,"5,12,11,11,11|11,14,3,8,9",R32,GRAND_SLAM,U21WS,133,Main Draw,MOSKOVITS Daniela (SWE),ALTINKAYA Sibel (TUR)
-World Tour Croatia Open Zagreb 2014,2014-05-21,WAN Yuan,JONSSON Jennifer,3,0,"11,11,11|7,6,1",R32,GRAND_SLAM,U21WS,133,Main Draw,JONSSON Jennifer (SWE),WAN Yuan (GER)
-World Tour Croatia Open Zagreb 2014,2014-05-21,MANTZ Chantal,PAVCNIK Tamara,3,0,"11,11,11|7,8,4",R32,GRAND_SLAM,U21WS,133,Main Draw,MANTZ Chantal (GER),PAVCNIK Tamara (SLO)
-World Tour Croatia Open Zagreb 2014,2014-05-21,GALIC Alex,HAJOK Caroline,3,1,"11,11,9,11|8,4,11,5",R32,GRAND_SLAM,U21WS,133,Main Draw,GALIC Alex (SLO),HAJOK Caroline (GER)
-World Tour Croatia Open Zagreb 2014,2014-05-21,BARAVOK Katsiaryna,TUBIKANEC Ivana,3,0,"11,12,12|6,10,10",R32,GRAND_SLAM,U21WS,133,Main Draw,BARAVOK Katsiaryna (BLR),TUBIKANEC Ivana (CRO)
-World Tour Croatia Open Zagreb 2014,2014-05-21,NOSKOVA Yana,TRUZSINSZKI Viktoria,3,0,"11,11,11|4,4,7",R32,GRAND_SLAM,U21WS,133,Main Draw,TRUZSINSZKI Viktoria (SRB),NOSKOVA Yana (RUS)
-World Tour Croatia Open Zagreb 2014,2014-05-21,POLCANOVA Sofia,JEGER Mateja,3,1,"8,11,11,11|11,9,9,3",R16,GRAND_SLAM,U21WS,133,Main Draw,POLCANOVA Sofia (AUT),JEGER Mateja (CRO)
-World Tour Croatia Open Zagreb 2014,2014-05-21,ROSSIKHINA Anna,GASNIER Laura,3,0,"11,11,11|7,9,7",R16,GRAND_SLAM,U21WS,133,Main Draw,ROSSIKHINA Anna (RUS),GASNIER Laura (FRA)
-World Tour Croatia Open Zagreb 2014,2014-05-21,BIKBAEVA Anna,BERGSTROM Linda,3,0,"11,12,11|6,10,5",R16,GRAND_SLAM,U21WS,133,Main Draw,BIKBAEVA Anna (RUS),BERGSTROM Linda (SWE)
-World Tour Croatia Open Zagreb 2014,2014-05-21,EERLAND Britt,RAKOVAC Lea,3,1,"11,11,11,13|8,13,8,11",R16,GRAND_SLAM,U21WS,133,Main Draw,RAKOVAC Lea (CRO),EERLAND Britt (NED)
-World Tour Croatia Open Zagreb 2014,2014-05-21,XIAO Maria,MADARASZ Dora,3,0,"11,11,11|8,8,5",R16,GRAND_SLAM,U21WS,133,Main Draw,MADARASZ Dora (HUN),XIAO Maria (ESP)
-World Tour Croatia Open Zagreb 2014,2014-05-21,WAN Yuan,MOSKOVITS Daniela,3,1,"11,11,10,11|7,6,12,4",R16,GRAND_SLAM,U21WS,133,Main Draw,MOSKOVITS Daniela (SWE),WAN Yuan (GER)
-World Tour Croatia Open Zagreb 2014,2014-05-21,MANTZ Chantal,GALIC Alex,3,2,"6,11,11,11,11|11,6,8,13,8",R16,GRAND_SLAM,U21WS,133,Main Draw,MANTZ Chantal (GER),GALIC Alex (SLO)
-World Tour Croatia Open Zagreb 2014,2014-05-21,NOSKOVA Yana,BARAVOK Katsiaryna,3,0,"11,11,11|6,8,7",R16,GRAND_SLAM,U21WS,133,Main Draw,BARAVOK Katsiaryna (BLR),NOSKOVA Yana (RUS)
-World Tour Croatia Open Zagreb 2014,2014-05-21,POLCANOVA Sofia,ROSSIKHINA Anna,4,0,"11,11,11,11|7,6,7,7",QF,GRAND_SLAM,U21WS,133,Main Draw,POLCANOVA Sofia (AUT),ROSSIKHINA Anna (RUS)
-World Tour Croatia Open Zagreb 2014,2014-05-21,BIKBAEVA Anna,EERLAND Britt,4,3,"5,7,12,13,10,11,12|11,11,10,11,12,6,10",QF,GRAND_SLAM,U21WS,133,Main Draw,BIKBAEVA Anna (RUS),EERLAND Britt (NED)
-World Tour Croatia Open Zagreb 2014,2014-05-21,WAN Yuan,XIAO Maria,4,0,"11,11,14,11|9,8,12,7",QF,GRAND_SLAM,U21WS,133,Main Draw,XIAO Maria (ESP),WAN Yuan (GER)
-World Tour Croatia Open Zagreb 2014,2014-05-21,NOSKOVA Yana,WAN Yuan,4,1,"4,11,11,12,11|11,3,6,10,4",SF,GRAND_SLAM,U21WS,133,Main Draw,WAN Yuan (GER),NOSKOVA Yana (RUS)
-World Tour Croatia Open Zagreb 2014,2014-05-21,POLCANOVA Sofia,NOSKOVA Yana,4,2,"12,6,7,11,11,12|10,11,11,7,8,10",F,GRAND_SLAM,U21WS,133,Main Draw,POLCANOVA Sofia (AUT),NOSKOVA Yana (RUS)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+World Tour Croatia Open Zagreb 2014,2014-05-21,MURAMATSU Yuto,AHLANDER-J Carl,4,1,"11,8,11,11,11|5,11,3,8,9",R64,GRAND_SLAM,MS,133,Main Draw,MURAMATSU Yuto (JPN),AHLANDER-J Carl (SWE),MURAMATSU Yuto
+World Tour Croatia Open Zagreb 2014,2014-05-21,FUJIMURA Tomoya,BUROV Viacheslav,4,2,"12,17,5,11,11,13|14,15,11,9,2,11",R64,GRAND_SLAM,MS,133,Main Draw,FUJIMURA Tomoya (JPN),BUROV Viacheslav (RUS),FUJIMURA Tomoya
+World Tour Croatia Open Zagreb 2014,2014-05-21,TREGLER Tomas,MCBEATH David,4,2,"7,6,15,11,12,11|11,11,13,8,10,7",R64,GRAND_SLAM,MS,133,Main Draw,TREGLER Tomas (CZE),MCBEATH David (ENG),TREGLER Tomas
+World Tour Croatia Open Zagreb 2014,2014-05-21,MAGYAR Laszlo,OBESLO Michal,4,2,"6,13,10,11,11,11|11,11,12,9,9,7",R64,GRAND_SLAM,MS,133,Main Draw,MAGYAR Laszlo (HUN),OBESLO Michal (CZE),MAGYAR Laszlo
+World Tour Croatia Open Zagreb 2014,2014-05-21,PUCAR Tomislav,BENITO Javier,4,0,"11,11,11,11|9,5,6,9",R64,GRAND_SLAM,MS,133,Main Draw,PUCAR Tomislav (CRO),BENITO Javier (ESP),PUCAR Tomislav
+World Tour Croatia Open Zagreb 2014,2014-05-21,PETRUKHIN Evgeny,LE BRETON Thomas,4,0,"11,11,11,11|8,9,9,5",R64,GRAND_SLAM,MS,133,Main Draw,PETRUKHIN Evgeny (RUS),LE BRETON Thomas (FRA),PETRUKHIN Evgeny
+World Tour Croatia Open Zagreb 2014,2014-05-21,BAIBULDIN Andrei,ZIBRAT Jan,4,1,"9,11,11,11,12|11,4,8,4,10",R64,GRAND_SLAM,MS,133,Main Draw,ZIBRAT Jan (SLO),BAIBULDIN Andrei (RUS),BAIBULDIN Andrei
+World Tour Croatia Open Zagreb 2014,2014-05-21,KUZMIN Fedor,SZITA Marton,4,1,"11,11,11,9,12|9,8,6,11,10",R64,GRAND_SLAM,MS,133,Main Draw,SZITA Marton (HUN),KUZMIN Fedor (RUS),KUZMIN Fedor
+World Tour Croatia Open Zagreb 2014,2014-05-21,YOSHIDA Masaki,CREPULJA Bojan,4,1,"11,11,11,11,11|7,6,7,13,5",R64,GRAND_SLAM,MS,133,Main Draw,YOSHIDA Masaki (JPN),CREPULJA Bojan (SRB),YOSHIDA Masaki
+World Tour Croatia Open Zagreb 2014,2014-05-21,HEIMBERGER Martin,GERALDO Joao,4,1,"17,8,11,11,11|15,11,9,6,8",R64,GRAND_SLAM,MS,133,Main Draw,HEIMBERGER Martin (AUT),GERALDO Joao (POR),HEIMBERGER Martin
+World Tour Croatia Open Zagreb 2014,2014-05-21,SIMOVIC Miho,KOVAC Borna,4,3,"9,11,9,11,9,11,13|11,9,11,6,11,6,11",R64,GRAND_SLAM,MS,133,Main Draw,KOVAC Borna (CRO),SIMOVIC Miho (CRO),SIMOVIC Miho
+World Tour Croatia Open Zagreb 2014,2014-05-21,BROSSIER Benjamin,SLATINSEK Uros,4,0,"13,11,11,11|11,3,8,6",R64,GRAND_SLAM,MS,133,Main Draw,SLATINSEK Uros (SLO),BROSSIER Benjamin (FRA),BROSSIER Benjamin
+World Tour Croatia Open Zagreb 2014,2014-05-21,DUDA Benedikt,CASSIN Alexandre,4,3,"8,11,9,11,3,11,11|11,6,11,9,11,9,9",R64,GRAND_SLAM,MS,133,Main Draw,DUDA Benedikt (GER),CASSIN Alexandre (FRA),DUDA Benedikt
+World Tour Croatia Open Zagreb 2014,2014-05-21,ROBINOT Alexandre,SZUDI Adam,4,1,"11,11,7,14,11|4,6,11,12,7",R64,GRAND_SLAM,MS,133,Main Draw,SZUDI Adam (HUN),ROBINOT Alexandre (FRA),ROBINOT Alexandre
+World Tour Croatia Open Zagreb 2014,2014-05-21,JUZBASIC Ivan,MERZLIKIN Taras,4,2,"11,8,11,10,11,11|9,11,9,12,9,5",R64,GRAND_SLAM,MS,133,Main Draw,JUZBASIC Ivan (CRO),MERZLIKIN Taras (RUS),JUZBASIC Ivan
+World Tour Croatia Open Zagreb 2014,2014-05-21,QIU Dang,YOSHIMURA Maharu,4,3,"11,5,11,3,11,9,11|8,11,9,11,9,11,8",R64,GRAND_SLAM,MS,133,Main Draw,QIU Dang (GER),YOSHIMURA Maharu (JPN),QIU Dang
+World Tour Croatia Open Zagreb 2014,2014-05-21,WALTHER Ricardo,OOSTWOUDER Ewout,4,0,"11,11,11,11|8,6,9,5",R64,GRAND_SLAM,MS,133,Main Draw,WALTHER Ricardo (GER),OOSTWOUDER Ewout (NED),WALTHER Ricardo
+World Tour Croatia Open Zagreb 2014,2014-05-21,OUAICHE Stephane,ZUBCIC Tomislav,4,3,"11,6,11,7,12,9,11|7,11,4,11,10,11,5",R64,GRAND_SLAM,MS,133,Main Draw,ZUBCIC Tomislav (CRO),OUAICHE Stephane (ALG),OUAICHE Stephane
+World Tour Croatia Open Zagreb 2014,2014-05-21,ROBLES Alvaro,FLORITZ Philipp,4,1,"11,11,11,10,11|5,4,9,12,9",R64,GRAND_SLAM,MS,133,Main Draw,FLORITZ Philipp (BUL),ROBLES Alvaro (ESP),ROBLES Alvaro
+World Tour Croatia Open Zagreb 2014,2014-05-21,PETIOT Jeremy,GORDIC Uros,4,1,"11,11,7,11,11|4,9,11,3,4",R64,GRAND_SLAM,MS,133,Main Draw,GORDIC Uros (SRB),PETIOT Jeremy (FRA),PETIOT Jeremy
+World Tour Croatia Open Zagreb 2014,2014-05-21,DYJAS Jakub,STORF Martin,4,2,"11,11,12,4,11,11|9,7,14,11,9,3",R64,GRAND_SLAM,MS,133,Main Draw,DYJAS Jakub (POL),STORF Martin (AUT),DYJAS Jakub
+World Tour Croatia Open Zagreb 2014,2014-05-21,BOULOUSSA Mehdi,LEITGEB Stefan,4,3,"11,7,8,11,12,11,11|13,11,11,5,10,3,9",R64,GRAND_SLAM,MS,133,Main Draw,BOULOUSSA Mehdi (ALG),LEITGEB Stefan (AUT),BOULOUSSA Mehdi
+World Tour Croatia Open Zagreb 2014,2014-05-21,AKKUZU Can,VOZICKY Bohumil,4,2,"11,11,8,11,8,11|7,4,11,7,11,6",R64,GRAND_SLAM,MS,133,Main Draw,VOZICKY Bohumil (CZE),AKKUZU Can (FRA),AKKUZU Can
+World Tour Croatia Open Zagreb 2014,2014-05-21,LORENTZ Romain,SUBOTIC Dragan,4,2,"11,11,11,8,9,11|7,8,9,11,11,8",R64,GRAND_SLAM,MS,133,Main Draw,SUBOTIC Dragan (SRB),LORENTZ Romain (FRA),LORENTZ Romain
+World Tour Croatia Open Zagreb 2014,2014-05-21,PLATONOV Pavel,ECSEKI Nandor,4,1,"12,6,11,11,11|10,11,7,8,7",R64,GRAND_SLAM,MS,133,Main Draw,PLATONOV Pavel (BLR),ECSEKI Nandor (HUN),PLATONOV Pavel
+World Tour Croatia Open Zagreb 2014,2014-05-21,HABESOHN Dominik,FUCEC Luka,4,0,"11,11,11,11|6,6,6,9",R64,GRAND_SLAM,MS,133,Main Draw,FUCEC Luka (CRO),HABESOHN Dominik (AUT),HABESOHN Dominik
+World Tour Croatia Open Zagreb 2014,2014-05-21,RYUZAKI Tonin,DURANSPAHIC Admir,4,1,"11,13,11,8,11|4,11,9,11,5",R64,GRAND_SLAM,MS,133,Main Draw,DURANSPAHIC Admir (BIH),RYUZAKI Tonin (JPN),RYUZAKI Tonin
+World Tour Croatia Open Zagreb 2014,2014-05-21,ZHUKOV Aleksei,MADRID Marcos,4,2,"11,8,11,9,11,12|9,11,5,11,7,10",R64,GRAND_SLAM,MS,133,Main Draw,ZHUKOV Aleksei (RUS),MADRID Marcos (MEX),ZHUKOV Aleksei
+World Tour Croatia Open Zagreb 2014,2014-05-21,SZOCS Hunor,HUZJAK Josip,4,1,"11,9,11,11,14|9,11,3,1,12",R64,GRAND_SLAM,MS,133,Main Draw,SZOCS Hunor (ROU),HUZJAK Josip (CRO),SZOCS Hunor
+World Tour Croatia Open Zagreb 2014,2014-05-21,CIPIN Filip,HACHARD Antoine,4,3,"18,2,5,11,11,4,11|16,11,11,8,6,11,7",R64,GRAND_SLAM,MS,133,Main Draw,CIPIN Filip (CRO),HACHARD Antoine (FRA),CIPIN Filip
+World Tour Croatia Open Zagreb 2014,2014-05-21,ZAIKIN Alan,SHETTY Sanil,4,1,"11,12,5,11,11|8,10,11,9,5",R64,GRAND_SLAM,MS,133,Main Draw,SHETTY Sanil (IND),ZAIKIN Alan (RUS),ZAIKIN Alan
+World Tour Croatia Open Zagreb 2014,2014-05-21,SALIFOU Abdel-Kader,PETKOV Marko,4,1,"11,12,11,8,11|1,10,9,11,9",R64,GRAND_SLAM,MS,133,Main Draw,PETKOV Marko (SRB),SALIFOU Abdel-Kader (BEN),SALIFOU Abdel-Kader
+World Tour Croatia Open Zagreb 2014,2014-05-21,MURAMATSU Yuto,FUJIMURA Tomoya,4,0,"11,16,11,11|4,14,8,7",R32,GRAND_SLAM,MS,133,Main Draw,MURAMATSU Yuto (JPN),FUJIMURA Tomoya (JPN),MURAMATSU Yuto
+World Tour Croatia Open Zagreb 2014,2014-05-21,TREGLER Tomas,MAGYAR Laszlo,4,0,"11,11,11,12|7,9,5,10",R32,GRAND_SLAM,MS,133,Main Draw,TREGLER Tomas (CZE),MAGYAR Laszlo (HUN),TREGLER Tomas
+World Tour Croatia Open Zagreb 2014,2014-05-21,PUCAR Tomislav,PETRUKHIN Evgeny,4,2,"9,11,6,11,11,11|11,9,11,7,7,3",R32,GRAND_SLAM,MS,133,Main Draw,PUCAR Tomislav (CRO),PETRUKHIN Evgeny (RUS),PUCAR Tomislav
+World Tour Croatia Open Zagreb 2014,2014-05-21,BAIBULDIN Andrei,KUZMIN Fedor,4,1,"11,11,11,6,11|5,6,9,11,8",R32,GRAND_SLAM,MS,133,Main Draw,BAIBULDIN Andrei (RUS),KUZMIN Fedor (RUS),BAIBULDIN Andrei
+World Tour Croatia Open Zagreb 2014,2014-05-21,YOSHIDA Masaki,HEIMBERGER Martin,4,1,"6,14,11,11,11|11,12,7,4,9",R32,GRAND_SLAM,MS,133,Main Draw,YOSHIDA Masaki (JPN),HEIMBERGER Martin (AUT),YOSHIDA Masaki
+World Tour Croatia Open Zagreb 2014,2014-05-21,BROSSIER Benjamin,SIMOVIC Miho,4,1,"11,4,11,11,11|5,11,2,6,7",R32,GRAND_SLAM,MS,133,Main Draw,SIMOVIC Miho (CRO),BROSSIER Benjamin (FRA),BROSSIER Benjamin
+World Tour Croatia Open Zagreb 2014,2014-05-21,DUDA Benedikt,ROBINOT Alexandre,4,2,"8,11,11,11,3,11|11,8,4,5,11,3",R32,GRAND_SLAM,MS,133,Main Draw,DUDA Benedikt (GER),ROBINOT Alexandre (FRA),DUDA Benedikt
+World Tour Croatia Open Zagreb 2014,2014-05-21,JUZBASIC Ivan,QIU Dang,4,0,"11,11,11,11|4,4,7,5",R32,GRAND_SLAM,MS,133,Main Draw,JUZBASIC Ivan (CRO),QIU Dang (GER),JUZBASIC Ivan
+World Tour Croatia Open Zagreb 2014,2014-05-21,WALTHER Ricardo,OUAICHE Stephane,4,0,"12,13,11,11|10,11,8,7",R32,GRAND_SLAM,MS,133,Main Draw,WALTHER Ricardo (GER),OUAICHE Stephane (ALG),WALTHER Ricardo
+World Tour Croatia Open Zagreb 2014,2014-05-21,ROBLES Alvaro,PETIOT Jeremy,4,2,"14,6,11,11,11,11|16,11,9,6,8,6",R32,GRAND_SLAM,MS,133,Main Draw,ROBLES Alvaro (ESP),PETIOT Jeremy (FRA),ROBLES Alvaro
+World Tour Croatia Open Zagreb 2014,2014-05-21,DYJAS Jakub,BOULOUSSA Mehdi,4,2,"7,14,11,8,15,13|11,12,5,11,13,11",R32,GRAND_SLAM,MS,133,Main Draw,DYJAS Jakub (POL),BOULOUSSA Mehdi (ALG),DYJAS Jakub
+World Tour Croatia Open Zagreb 2014,2014-05-21,LORENTZ Romain,AKKUZU Can,4,3,"6,11,6,12,10,11,11|11,4,11,10,12,3,6",R32,GRAND_SLAM,MS,133,Main Draw,AKKUZU Can (FRA),LORENTZ Romain (FRA),LORENTZ Romain
+World Tour Croatia Open Zagreb 2014,2014-05-21,HABESOHN Dominik,PLATONOV Pavel,4,2,"11,11,8,11,7,12|4,6,11,7,11,10",R32,GRAND_SLAM,MS,133,Main Draw,PLATONOV Pavel (BLR),HABESOHN Dominik (AUT),HABESOHN Dominik
+World Tour Croatia Open Zagreb 2014,2014-05-21,RYUZAKI Tonin,ZHUKOV Aleksei,4,1,"9,11,11,11,11|11,5,4,7,7",R32,GRAND_SLAM,MS,133,Main Draw,RYUZAKI Tonin (JPN),ZHUKOV Aleksei (RUS),RYUZAKI Tonin
+World Tour Croatia Open Zagreb 2014,2014-05-21,SZOCS Hunor,CIPIN Filip,4,1,"11,11,11,6,11|6,6,8,11,3",R32,GRAND_SLAM,MS,133,Main Draw,SZOCS Hunor (ROU),CIPIN Filip (CRO),SZOCS Hunor
+World Tour Croatia Open Zagreb 2014,2014-05-21,SALIFOU Abdel-Kader,ZAIKIN Alan,4,1,"12,11,8,11,11|10,5,11,5,6",R32,GRAND_SLAM,MS,133,Main Draw,ZAIKIN Alan (RUS),SALIFOU Abdel-Kader (BEN),SALIFOU Abdel-Kader
+World Tour Croatia Open Zagreb 2014,2014-05-21,MURAMATSU Yuto,TREGLER Tomas,4,0,"11,11,11,11|5,7,5,6",R16,GRAND_SLAM,MS,133,Main Draw,MURAMATSU Yuto (JPN),TREGLER Tomas (CZE),MURAMATSU Yuto
+World Tour Croatia Open Zagreb 2014,2014-05-21,PUCAR Tomislav,BAIBULDIN Andrei,4,1,"14,9,11,11,11|12,11,5,7,7",R16,GRAND_SLAM,MS,133,Main Draw,PUCAR Tomislav (CRO),BAIBULDIN Andrei (RUS),PUCAR Tomislav
+World Tour Croatia Open Zagreb 2014,2014-05-21,YOSHIDA Masaki,BROSSIER Benjamin,4,3,"9,7,11,11,6,11,12|11,11,8,9,11,4,10",R16,GRAND_SLAM,MS,133,Main Draw,YOSHIDA Masaki (JPN),BROSSIER Benjamin (FRA),YOSHIDA Masaki
+World Tour Croatia Open Zagreb 2014,2014-05-21,DUDA Benedikt,JUZBASIC Ivan,4,1,"11,11,11,7,12|7,4,7,11,10",R16,GRAND_SLAM,MS,133,Main Draw,DUDA Benedikt (GER),JUZBASIC Ivan (CRO),DUDA Benedikt
+World Tour Croatia Open Zagreb 2014,2014-05-21,WALTHER Ricardo,ROBLES Alvaro,4,1,"12,11,9,11,11|10,8,11,9,9",R16,GRAND_SLAM,MS,133,Main Draw,WALTHER Ricardo (GER),ROBLES Alvaro (ESP),WALTHER Ricardo
+World Tour Croatia Open Zagreb 2014,2014-05-21,DYJAS Jakub,LORENTZ Romain,4,2,"11,12,12,7,11,11|13,10,10,11,8,9",R16,GRAND_SLAM,MS,133,Main Draw,DYJAS Jakub (POL),LORENTZ Romain (FRA),DYJAS Jakub
+World Tour Croatia Open Zagreb 2014,2014-05-21,RYUZAKI Tonin,HABESOHN Dominik,4,3,"8,11,11,6,7,11,11|11,6,9,11,11,9,4",R16,GRAND_SLAM,MS,133,Main Draw,HABESOHN Dominik (AUT),RYUZAKI Tonin (JPN),RYUZAKI Tonin
+World Tour Croatia Open Zagreb 2014,2014-05-21,SZOCS Hunor,SALIFOU Abdel-Kader,4,3,"11,8,13,5,12,11,11|5,11,15,11,10,8,6",R16,GRAND_SLAM,MS,133,Main Draw,SZOCS Hunor (ROU),SALIFOU Abdel-Kader (BEN),SZOCS Hunor
+World Tour Croatia Open Zagreb 2014,2014-05-21,MURAMATSU Yuto,PUCAR Tomislav,4,0,"11,11,11,11|7,4,7,4",QF,GRAND_SLAM,MS,133,Main Draw,MURAMATSU Yuto (JPN),PUCAR Tomislav (CRO),MURAMATSU Yuto
+World Tour Croatia Open Zagreb 2014,2014-05-21,YOSHIDA Masaki,DUDA Benedikt,4,1,"11,11,10,11,11|9,7,12,9,9",QF,GRAND_SLAM,MS,133,Main Draw,YOSHIDA Masaki (JPN),DUDA Benedikt (GER),YOSHIDA Masaki
+World Tour Croatia Open Zagreb 2014,2014-05-21,WALTHER Ricardo,DYJAS Jakub,4,1,"3,11,11,11,11|11,6,7,4,3",QF,GRAND_SLAM,MS,133,Main Draw,WALTHER Ricardo (GER),DYJAS Jakub (POL),WALTHER Ricardo
+World Tour Croatia Open Zagreb 2014,2014-05-21,RYUZAKI Tonin,SZOCS Hunor,4,1,"11,2,11,13,11|7,11,0,11,6",QF,GRAND_SLAM,MS,133,Main Draw,RYUZAKI Tonin (JPN),SZOCS Hunor (ROU),RYUZAKI Tonin
+World Tour Croatia Open Zagreb 2014,2014-05-21,YOSHIDA Masaki,MURAMATSU Yuto,4,0,"11,11,11,11|9,4,4,5",SF,GRAND_SLAM,MS,133,Main Draw,MURAMATSU Yuto (JPN),YOSHIDA Masaki (JPN),YOSHIDA Masaki
+World Tour Croatia Open Zagreb 2014,2014-05-21,WALTHER Ricardo,RYUZAKI Tonin,4,1,"4,11,11,12,11|11,1,8,10,5",SF,GRAND_SLAM,MS,133,Main Draw,WALTHER Ricardo (GER),RYUZAKI Tonin (JPN),WALTHER Ricardo
+World Tour Croatia Open Zagreb 2014,2014-05-21,WALTHER Ricardo,YOSHIDA Masaki,4,3,"11,3,8,13,7,16,11|7,11,11,11,11,14,2",F,GRAND_SLAM,MS,133,Main Draw,YOSHIDA Masaki (JPN),WALTHER Ricardo (GER),WALTHER Ricardo
+World Tour Croatia Open Zagreb 2014,2014-05-21,POTA Georgina,BARENDREGT Alice,4,0,"11,11,11,11|6,9,6,8",R64,GRAND_SLAM,WS,133,Main Draw,POTA Georgina (HUN),BARENDREGT Alice (NED),POTA Georgina
+World Tour Croatia Open Zagreb 2014,2014-05-21,AGGARWAL Neha,VIVARELLI Debora,4,0,"11,11,12,11|6,5,10,5",R64,GRAND_SLAM,WS,133,Main Draw,VIVARELLI Debora (ITA),AGGARWAL Neha (IND),AGGARWAL Neha
+World Tour Croatia Open Zagreb 2014,2014-05-21,JEGER Mateja,TRUZSINSZKI Viktoria,4,2,"18,12,8,11,12,11|20,10,11,6,10,6",R64,GRAND_SLAM,WS,133,Main Draw,JEGER Mateja (CRO),TRUZSINSZKI Viktoria (SRB),JEGER Mateja
+World Tour Croatia Open Zagreb 2014,2014-05-21,PETEK Petra,SAKAI Haruka,4,2,"14,10,11,11,9,14|12,12,7,7,11,12",R64,GRAND_SLAM,WS,133,Main Draw,PETEK Petra (CRO),SAKAI Haruka (JPN),PETEK Petra
+World Tour Croatia Open Zagreb 2014,2014-05-21,PERGEL Szandra,MOSKOVITS Daniela,4,0,"11,11,11,11|5,4,6,6",R64,GRAND_SLAM,WS,133,Main Draw,PERGEL Szandra (HUN),MOSKOVITS Daniela (SWE),PERGEL Szandra
+World Tour Croatia Open Zagreb 2014,2014-05-21,VUGRINEC Suncica,ASCHWANDEN Rahel,4,3,"11,8,11,6,11,7,11|6,11,5,11,7,11,5",R64,GRAND_SLAM,WS,133,Main Draw,ASCHWANDEN Rahel (SUI),VUGRINEC Suncica (CRO),VUGRINEC Suncica
+World Tour Croatia Open Zagreb 2014,2014-05-21,MORET Rachel,BARAVOK Katsiaryna,4,1,"11,11,11,6,11|8,9,4,11,7",R64,GRAND_SLAM,WS,133,Main Draw,MORET Rachel (SUI),BARAVOK Katsiaryna (BLR),MORET Rachel
+World Tour Croatia Open Zagreb 2014,2014-05-21,YANG Xiaoxin,KNEZEVIC Monika,4,1,"11,11,10,13,11|3,2,12,11,4",R64,GRAND_SLAM,WS,133,Main Draw,KNEZEVIC Monika (SRB),YANG Xiaoxin (MON),YANG Xiaoxin
+World Tour Croatia Open Zagreb 2014,2014-05-21,SOLJA Amelie,KUCHUK Maryia,4,0,"11,11,11,11|2,7,6,5",R64,GRAND_SLAM,WS,133,Main Draw,SOLJA Amelie (AUT),KUCHUK Maryia (BLR),SOLJA Amelie
+World Tour Croatia Open Zagreb 2014,2014-05-21,PROKHOROVA Yulia,KERTAI Rita,4,3,"11,9,11,6,9,11,11|8,11,8,11,11,3,9",R64,GRAND_SLAM,WS,133,Main Draw,KERTAI Rita (HUN),PROKHOROVA Yulia (RUS),PROKHOROVA Yulia
+World Tour Croatia Open Zagreb 2014,2014-05-21,XIAO Maria,HAJOK Caroline,4,2,"12,11,11,11,7,11|14,8,9,8,11,5",R64,GRAND_SLAM,WS,133,Main Draw,XIAO Maria (ESP),HAJOK Caroline (GER),XIAO Maria
+World Tour Croatia Open Zagreb 2014,2014-05-21,VARADY Barbora,FAJMUT Manca,4,2,"11,11,11,9,3,11|4,8,3,11,11,2",R64,GRAND_SLAM,WS,133,Main Draw,FAJMUT Manca (SLO),VARADY Barbora (SVK),VARADY Barbora
+World Tour Croatia Open Zagreb 2014,2014-05-21,EERLAND Britt,SREBRNJAK Dorina,4,1,"12,11,14,11,12|14,7,12,4,10",R64,GRAND_SLAM,WS,133,Main Draw,EERLAND Britt (NED),SREBRNJAK Dorina (CRO),EERLAND Britt
+World Tour Croatia Open Zagreb 2014,2014-05-21,LOEUILLETTE Stephanie,SHIBAEVA Elza,4,2,"11,8,6,15,11,11|8,11,11,13,8,3",R64,GRAND_SLAM,WS,133,Main Draw,LOEUILLETTE Stephanie (FRA),SHIBAEVA Elza (RUS),LOEUILLETTE Stephanie
+World Tour Croatia Open Zagreb 2014,2014-05-21,TODOROVIC Andrea,JONSSON Jennifer,4,2,"11,5,8,11,11,11|7,11,11,7,9,7",R64,GRAND_SLAM,WS,133,Main Draw,TODOROVIC Andrea (SRB),JONSSON Jennifer (SWE),TODOROVIC Andrea
+World Tour Croatia Open Zagreb 2014,2014-05-21,VACENOVSKA Iveta,BRODAR Mihaela,4,0,"11,11,11,11|8,2,6,4",R64,GRAND_SLAM,WS,133,Main Draw,BRODAR Mihaela (CRO),VACENOVSKA Iveta (CZE),VACENOVSKA Iveta
+World Tour Croatia Open Zagreb 2014,2014-05-21,POLCANOVA Sofia,PETRINSAK Petra,4,0,"11,11,11,11|3,6,6,9",R64,GRAND_SLAM,WS,133,Main Draw,POLCANOVA Sofia (AUT),PETRINSAK Petra (CRO),POLCANOVA Sofia
+World Tour Croatia Open Zagreb 2014,2014-05-21,BIKBAEVA Anna,HADZIAHMETOVIC Emina,4,0,"11,11,12,11|6,3,10,7",R64,GRAND_SLAM,WS,133,Main Draw,HADZIAHMETOVIC Emina (BIH),BIKBAEVA Anna (RUS),BIKBAEVA Anna
+World Tour Croatia Open Zagreb 2014,2014-05-21,DOLGIKH Maria,LENNON Emmanuelle,4,2,"10,6,13,11,11,11|12,11,11,9,5,6",R64,GRAND_SLAM,WS,133,Main Draw,DOLGIKH Maria (RUS),LENNON Emmanuelle (FRA),DOLGIKH Maria
+World Tour Croatia Open Zagreb 2014,2014-05-21,MIKHAILOVA Polina,KAROVA Anelia,4,1,"11,11,1,11,11|2,6,11,4,7",R64,GRAND_SLAM,WS,133,Main Draw,KAROVA Anelia (BUL),MIKHAILOVA Polina (RUS),MIKHAILOVA Polina
+World Tour Croatia Open Zagreb 2014,2014-05-21,ERDELJI Anamaria,ARLOUSKAYA Alina,4,3,"11,11,11,6,11,5,11|8,6,5,11,13,11,4",R64,GRAND_SLAM,WS,133,Main Draw,ERDELJI Anamaria (SRB),ARLOUSKAYA Alina (BLR),ERDELJI Anamaria
+World Tour Croatia Open Zagreb 2014,2014-05-21,WAN Yuan,TUBIKANEC Ivana,4,1,"10,11,11,11,11|12,6,8,8,9",R64,GRAND_SLAM,WS,133,Main Draw,TUBIKANEC Ivana (CRO),WAN Yuan (GER),WAN Yuan
+World Tour Croatia Open Zagreb 2014,2014-05-21,MADARASZ Dora,SIKORSKA Magdalena,4,0,"11,14,11,11|5,12,9,8",R64,GRAND_SLAM,WS,133,Main Draw,MADARASZ Dora (HUN),SIKORSKA Magdalena (POL),MADARASZ Dora
+World Tour Croatia Open Zagreb 2014,2014-05-21,IACOB Camelia,NAGYVARADI Mercedes,4,0,"11,11,11,12|8,7,6,10",R64,GRAND_SLAM,WS,133,Main Draw,NAGYVARADI Mercedes (HUN),IACOB Camelia (ROU),IACOB Camelia
+World Tour Croatia Open Zagreb 2014,2014-05-21,WAKAMIYA Misako,DE NUTTE Sarah,4,0,"11,11,11,11|6,4,3,5",R64,GRAND_SLAM,WS,133,Main Draw,WAKAMIYA Misako (JPN),DE NUTTE Sarah (LUX),WAKAMIYA Misako
+World Tour Croatia Open Zagreb 2014,2014-05-21,GASNIER Laura,FARLADANSKA Ganna,4,0,"11,11,11,11|7,9,6,6",R64,GRAND_SLAM,WS,133,Main Draw,FARLADANSKA Ganna (UKR),GASNIER Laura (FRA),GASNIER Laura
+World Tour Croatia Open Zagreb 2014,2014-05-21,ALTINKAYA Sibel,KUZMINA Elena,4,1,"11,11,11,5,11|8,9,7,11,3",R64,GRAND_SLAM,WS,133,Main Draw,KUZMINA Elena (RUS),ALTINKAYA Sibel (TUR),ALTINKAYA Sibel
+World Tour Croatia Open Zagreb 2014,2014-05-21,TIAN Yuan,SABITOVA Valentina,4,0,"11,11,11,11|6,6,4,6",R64,GRAND_SLAM,WS,133,Main Draw,SABITOVA Valentina (RUS),TIAN Yuan (CRO),TIAN Yuan
+World Tour Croatia Open Zagreb 2014,2014-05-21,NOSKOVA Yana,BERGSTROM Linda,4,1,"11,11,8,11,11|5,5,11,5,5",R64,GRAND_SLAM,WS,133,Main Draw,NOSKOVA Yana (RUS),BERGSTROM Linda (SWE),NOSKOVA Yana
+World Tour Croatia Open Zagreb 2014,2014-05-21,MANTZ Chantal,ROSSIKHINA Anna,4,1,"6,11,11,11,11|11,8,3,5,8",R64,GRAND_SLAM,WS,133,Main Draw,ROSSIKHINA Anna (RUS),MANTZ Chantal (GER),MANTZ Chantal
+World Tour Croatia Open Zagreb 2014,2014-05-21,GALIC Alex,RAKOVAC Lea,4,2,"11,12,5,11,11,11|7,10,11,13,9,6",R64,GRAND_SLAM,WS,133,Main Draw,RAKOVAC Lea (CRO),GALIC Alex (SLO),GALIC Alex
+World Tour Croatia Open Zagreb 2014,2014-05-21,ISHIGAKI Yuka,ZAMFIROVA Elitsa,4,1,"11,11,9,11,11|5,4,11,4,2",R64,GRAND_SLAM,WS,133,Main Draw,ZAMFIROVA Elitsa (BUL),ISHIGAKI Yuka (JPN),ISHIGAKI Yuka
+World Tour Croatia Open Zagreb 2014,2014-05-21,POTA Georgina,AGGARWAL Neha,4,0,"11,11,11,11|9,8,4,7",R32,GRAND_SLAM,WS,133,Main Draw,POTA Georgina (HUN),AGGARWAL Neha (IND),POTA Georgina
+World Tour Croatia Open Zagreb 2014,2014-05-21,JEGER Mateja,PETEK Petra,4,1,"13,12,12,11,11|15,10,10,2,9",R32,GRAND_SLAM,WS,133,Main Draw,JEGER Mateja (CRO),PETEK Petra (CRO),JEGER Mateja
+World Tour Croatia Open Zagreb 2014,2014-05-21,PERGEL Szandra,VUGRINEC Suncica,4,2,"9,11,5,11,11,11|11,2,11,4,8,9",R32,GRAND_SLAM,WS,133,Main Draw,PERGEL Szandra (HUN),VUGRINEC Suncica (CRO),PERGEL Szandra
+World Tour Croatia Open Zagreb 2014,2014-05-21,YANG Xiaoxin,MORET Rachel,4,0,"11,11,11,11|4,7,7,7",R32,GRAND_SLAM,WS,133,Main Draw,MORET Rachel (SUI),YANG Xiaoxin (MON),YANG Xiaoxin
+World Tour Croatia Open Zagreb 2014,2014-05-21,PROKHOROVA Yulia,SOLJA Amelie,4,3,"9,4,9,12,11,11,11|11,11,11,10,9,9,7",R32,GRAND_SLAM,WS,133,Main Draw,SOLJA Amelie (AUT),PROKHOROVA Yulia (RUS),PROKHOROVA Yulia
+World Tour Croatia Open Zagreb 2014,2014-05-21,VARADY Barbora,XIAO Maria,4,2,"11,5,10,11,11,12|8,11,12,5,8,10",R32,GRAND_SLAM,WS,133,Main Draw,XIAO Maria (ESP),VARADY Barbora (SVK),VARADY Barbora
+World Tour Croatia Open Zagreb 2014,2014-05-21,EERLAND Britt,LOEUILLETTE Stephanie,4,0,"11,11,11,12|8,7,7,10",R32,GRAND_SLAM,WS,133,Main Draw,EERLAND Britt (NED),LOEUILLETTE Stephanie (FRA),EERLAND Britt
+World Tour Croatia Open Zagreb 2014,2014-05-21,VACENOVSKA Iveta,TODOROVIC Andrea,4,2,"11,11,11,5,9,11|9,9,5,11,11,6",R32,GRAND_SLAM,WS,133,Main Draw,TODOROVIC Andrea (SRB),VACENOVSKA Iveta (CZE),VACENOVSKA Iveta
+World Tour Croatia Open Zagreb 2014,2014-05-21,POLCANOVA Sofia,BIKBAEVA Anna,4,0,"11,11,11,12|6,8,8,10",R32,GRAND_SLAM,WS,133,Main Draw,POLCANOVA Sofia (AUT),BIKBAEVA Anna (RUS),POLCANOVA Sofia
+World Tour Croatia Open Zagreb 2014,2014-05-21,MIKHAILOVA Polina,DOLGIKH Maria,4,1,"11,11,6,11,11|4,9,11,8,6",R32,GRAND_SLAM,WS,133,Main Draw,DOLGIKH Maria (RUS),MIKHAILOVA Polina (RUS),MIKHAILOVA Polina
+World Tour Croatia Open Zagreb 2014,2014-05-21,ERDELJI Anamaria,WAN Yuan,4,0,"11,11,11,11|5,6,7,6",R32,GRAND_SLAM,WS,133,Main Draw,ERDELJI Anamaria (SRB),WAN Yuan (GER),ERDELJI Anamaria
+World Tour Croatia Open Zagreb 2014,2014-05-21,IACOB Camelia,MADARASZ Dora,4,2,"11,11,9,7,11,11|7,5,11,11,7,9",R32,GRAND_SLAM,WS,133,Main Draw,MADARASZ Dora (HUN),IACOB Camelia (ROU),IACOB Camelia
+World Tour Croatia Open Zagreb 2014,2014-05-21,WAKAMIYA Misako,GASNIER Laura,4,0,"11,11,11,11|9,4,8,9",R32,GRAND_SLAM,WS,133,Main Draw,WAKAMIYA Misako (JPN),GASNIER Laura (FRA),WAKAMIYA Misako
+World Tour Croatia Open Zagreb 2014,2014-05-21,TIAN Yuan,ALTINKAYA Sibel,4,0,"11,11,13,11|5,3,11,7",R32,GRAND_SLAM,WS,133,Main Draw,ALTINKAYA Sibel (TUR),TIAN Yuan (CRO),TIAN Yuan
+World Tour Croatia Open Zagreb 2014,2014-05-21,NOSKOVA Yana,MANTZ Chantal,4,3,"11,11,8,11,5,12,11|7,8,11,3,11,14,6",R32,GRAND_SLAM,WS,133,Main Draw,NOSKOVA Yana (RUS),MANTZ Chantal (GER),NOSKOVA Yana
+World Tour Croatia Open Zagreb 2014,2014-05-21,ISHIGAKI Yuka,GALIC Alex,4,0,"11,11,11,11|7,2,6,7",R32,GRAND_SLAM,WS,133,Main Draw,GALIC Alex (SLO),ISHIGAKI Yuka (JPN),ISHIGAKI Yuka
+World Tour Croatia Open Zagreb 2014,2014-05-21,POTA Georgina,JEGER Mateja,4,3,"11,4,11,7,11,12,11|5,11,8,11,6,14,6",R16,GRAND_SLAM,WS,133,Main Draw,POTA Georgina (HUN),JEGER Mateja (CRO),POTA Georgina
+World Tour Croatia Open Zagreb 2014,2014-05-21,YANG Xiaoxin,PERGEL Szandra,4,0,"11,11,11,11|6,4,3,9",R16,GRAND_SLAM,WS,133,Main Draw,PERGEL Szandra (HUN),YANG Xiaoxin (MON),YANG Xiaoxin
+World Tour Croatia Open Zagreb 2014,2014-05-21,VARADY Barbora,PROKHOROVA Yulia,4,3,"11,11,8,10,11,11,11|6,9,11,12,13,8,2",R16,GRAND_SLAM,WS,133,Main Draw,PROKHOROVA Yulia (RUS),VARADY Barbora (SVK),VARADY Barbora
+World Tour Croatia Open Zagreb 2014,2014-05-21,VACENOVSKA Iveta,EERLAND Britt,4,2,"11,6,9,11,11,11|4,11,11,7,8,7",R16,GRAND_SLAM,WS,133,Main Draw,EERLAND Britt (NED),VACENOVSKA Iveta (CZE),VACENOVSKA Iveta
+World Tour Croatia Open Zagreb 2014,2014-05-21,MIKHAILOVA Polina,POLCANOVA Sofia,4,3,"11,11,11,3,10,11,11|13,5,6,11,12,9,2",R16,GRAND_SLAM,WS,133,Main Draw,POLCANOVA Sofia (AUT),MIKHAILOVA Polina (RUS),MIKHAILOVA Polina
+World Tour Croatia Open Zagreb 2014,2014-05-21,IACOB Camelia,ERDELJI Anamaria,4,3,"6,12,11,11,4,4,11|11,10,4,5,11,11,6",R16,GRAND_SLAM,WS,133,Main Draw,ERDELJI Anamaria (SRB),IACOB Camelia (ROU),IACOB Camelia
+World Tour Croatia Open Zagreb 2014,2014-05-21,WAKAMIYA Misako,TIAN Yuan,4,1,"3,11,11,11,11|11,6,9,7,1",R16,GRAND_SLAM,WS,133,Main Draw,WAKAMIYA Misako (JPN),TIAN Yuan (CRO),WAKAMIYA Misako
+World Tour Croatia Open Zagreb 2014,2014-05-21,ISHIGAKI Yuka,NOSKOVA Yana,4,0,"11,11,11,11|8,6,7,6",R16,GRAND_SLAM,WS,133,Main Draw,NOSKOVA Yana (RUS),ISHIGAKI Yuka (JPN),ISHIGAKI Yuka
+World Tour Croatia Open Zagreb 2014,2014-05-21,YANG Xiaoxin,POTA Georgina,4,1,"11,11,11,11,12|13,8,9,6,10",QF,GRAND_SLAM,WS,133,Main Draw,POTA Georgina (HUN),YANG Xiaoxin (MON),YANG Xiaoxin
+World Tour Croatia Open Zagreb 2014,2014-05-21,VACENOVSKA Iveta,VARADY Barbora,4,1,"11,11,4,11,11|9,5,11,7,6",QF,GRAND_SLAM,WS,133,Main Draw,VARADY Barbora (SVK),VACENOVSKA Iveta (CZE),VACENOVSKA Iveta
+World Tour Croatia Open Zagreb 2014,2014-05-21,IACOB Camelia,MIKHAILOVA Polina,4,1,"7,11,11,16,11|11,8,6,14,7",QF,GRAND_SLAM,WS,133,Main Draw,MIKHAILOVA Polina (RUS),IACOB Camelia (ROU),IACOB Camelia
+World Tour Croatia Open Zagreb 2014,2014-05-21,WAKAMIYA Misako,ISHIGAKI Yuka,4,3,"12,11,11,6,5,4,11|10,1,9,11,11,11,4",QF,GRAND_SLAM,WS,133,Main Draw,WAKAMIYA Misako (JPN),ISHIGAKI Yuka (JPN),WAKAMIYA Misako
+World Tour Croatia Open Zagreb 2014,2014-05-21,YANG Xiaoxin,VACENOVSKA Iveta,4,1,"11,14,13,5,11|5,12,11,11,6",SF,GRAND_SLAM,WS,133,Main Draw,YANG Xiaoxin (MON),VACENOVSKA Iveta (CZE),YANG Xiaoxin
+World Tour Croatia Open Zagreb 2014,2014-05-21,WAKAMIYA Misako,IACOB Camelia,4,0,"11,11,11,12|8,8,7,10",SF,GRAND_SLAM,WS,133,Main Draw,IACOB Camelia (ROU),WAKAMIYA Misako (JPN),WAKAMIYA Misako
+World Tour Croatia Open Zagreb 2014,2014-05-21,YANG Xiaoxin,WAKAMIYA Misako,4,1,"11,11,11,6,11|6,7,9,11,7",F,GRAND_SLAM,WS,133,Main Draw,YANG Xiaoxin (MON),WAKAMIYA Misako (JPN),YANG Xiaoxin
+World Tour Croatia Open Zagreb 2014,2014-05-21,YOSHIMURA Maharu,BAJGER Ondrej,3,0,"11,13,11|4,11,5",R32,GRAND_SLAM,U21MS,133,Main Draw,YOSHIMURA Maharu (JPN),BAJGER Ondrej (CZE),YOSHIMURA Maharu
+World Tour Croatia Open Zagreb 2014,2014-05-21,AKKUZU Can,ZELJKO Filip,3,1,"11,11,8,11|4,7,11,8",R32,GRAND_SLAM,U21MS,133,Main Draw,ZELJKO Filip (CRO),AKKUZU Can (FRA),AKKUZU Can
+World Tour Croatia Open Zagreb 2014,2014-05-21,QIU Dang,KULPA Konrad,3,0,"11,11,11|5,5,7",R32,GRAND_SLAM,U21MS,133,Main Draw,KULPA Konrad (POL),QIU Dang (GER),QIU Dang
+World Tour Croatia Open Zagreb 2014,2014-05-21,GERALDO Joao,TAUBER Michael,3,1,"6,11,11,11|11,8,5,4",R32,GRAND_SLAM,U21MS,133,Main Draw,TAUBER Michael (ISR),GERALDO Joao (POR),GERALDO Joao
+World Tour Croatia Open Zagreb 2014,2014-05-21,DYJAS Jakub,JORGIC Darko,3,2,"11,8,11,12,11|6,11,7,14,7",R32,GRAND_SLAM,U21MS,133,Main Draw,DYJAS Jakub (POL),JORGIC Darko (SLO),DYJAS Jakub
+World Tour Croatia Open Zagreb 2014,2014-05-21,SUBOTIC Dragan,SZUDI Adam,3,1,"11,8,11,11|7,11,9,9",R32,GRAND_SLAM,U21MS,133,Main Draw,SUBOTIC Dragan (SRB),SZUDI Adam (HUN),SUBOTIC Dragan
+World Tour Croatia Open Zagreb 2014,2014-05-21,CASSIN Alexandre,PUCAR Tomislav,3,1,"8,11,11,16|11,9,7,14",R32,GRAND_SLAM,U21MS,133,Main Draw,PUCAR Tomislav (CRO),CASSIN Alexandre (FRA),CASSIN Alexandre
+World Tour Croatia Open Zagreb 2014,2014-05-21,BROSSIER Benjamin,BENES Michal,3,0,"11,11,11|4,8,4",R32,GRAND_SLAM,U21MS,133,Main Draw,BENES Michal (CZE),BROSSIER Benjamin (FRA),BROSSIER Benjamin
+World Tour Croatia Open Zagreb 2014,2014-05-21,LORENTZ Romain,SZITA Marton,3,1,"11,11,7,11|8,5,11,6",R32,GRAND_SLAM,U21MS,133,Main Draw,LORENTZ Romain (FRA),SZITA Marton (HUN),LORENTZ Romain
+World Tour Croatia Open Zagreb 2014,2014-05-21,RYUZAKI Tonin,PERSOLJA Ludvik,3,0,"11,11,11|4,6,5",R32,GRAND_SLAM,U21MS,133,Main Draw,PERSOLJA Ludvik (SLO),RYUZAKI Tonin (JPN),RYUZAKI Tonin
+World Tour Croatia Open Zagreb 2014,2014-05-21,HACHARD Antoine,ECSEKI Nandor,3,1,"11,11,2,11|3,9,11,9",R32,GRAND_SLAM,U21MS,133,Main Draw,HACHARD Antoine (FRA),ECSEKI Nandor (HUN),HACHARD Antoine
+World Tour Croatia Open Zagreb 2014,2014-05-21,ROBINOT Alexandre,OOSTWOUDER Ewout,3,0,"11,11,11|5,4,5",R32,GRAND_SLAM,U21MS,133,Main Draw,OOSTWOUDER Ewout (NED),ROBINOT Alexandre (FRA),ROBINOT Alexandre
+World Tour Croatia Open Zagreb 2014,2014-05-21,DUDA Benedikt,BERGLUND Simon,3,0,"11,11,11|4,6,7",R32,GRAND_SLAM,U21MS,133,Main Draw,DUDA Benedikt (GER),BERGLUND Simon (SWE),DUDA Benedikt
+World Tour Croatia Open Zagreb 2014,2014-05-21,BOULOUSSA Mehdi,CIPIN Filip,3,1,"13,9,13,11|11,11,11,8",R32,GRAND_SLAM,U21MS,133,Main Draw,CIPIN Filip (CRO),BOULOUSSA Mehdi (ALG),BOULOUSSA Mehdi
+World Tour Croatia Open Zagreb 2014,2014-05-21,LAMBIET Florent,OUAICHE Stephane,3,1,"9,11,11,11|11,8,6,7",R32,GRAND_SLAM,U21MS,133,Main Draw,OUAICHE Stephane (ALG),LAMBIET Florent (BEL),LAMBIET Florent
+World Tour Croatia Open Zagreb 2014,2014-05-21,YOSHIDA Masaki,AHLANDER-J Carl,3,1,"11,8,11,11|4,11,2,9",R32,GRAND_SLAM,U21MS,133,Main Draw,AHLANDER-J Carl (SWE),YOSHIDA Masaki (JPN),YOSHIDA Masaki
+World Tour Croatia Open Zagreb 2014,2014-05-21,YOSHIMURA Maharu,AKKUZU Can,3,0,"11,14,11|5,12,7",R16,GRAND_SLAM,U21MS,133,Main Draw,YOSHIMURA Maharu (JPN),AKKUZU Can (FRA),YOSHIMURA Maharu
+World Tour Croatia Open Zagreb 2014,2014-05-21,GERALDO Joao,QIU Dang,3,2,"11,8,8,11,12|9,11,11,9,10",R16,GRAND_SLAM,U21MS,133,Main Draw,QIU Dang (GER),GERALDO Joao (POR),GERALDO Joao
+World Tour Croatia Open Zagreb 2014,2014-05-21,DYJAS Jakub,SUBOTIC Dragan,3,2,"9,7,11,11,11|11,11,6,4,6",R16,GRAND_SLAM,U21MS,133,Main Draw,DYJAS Jakub (POL),SUBOTIC Dragan (SRB),DYJAS Jakub
+World Tour Croatia Open Zagreb 2014,2014-05-21,BROSSIER Benjamin,CASSIN Alexandre,3,2,"8,11,11,11,11|11,13,7,9,4",R16,GRAND_SLAM,U21MS,133,Main Draw,CASSIN Alexandre (FRA),BROSSIER Benjamin (FRA),BROSSIER Benjamin
+World Tour Croatia Open Zagreb 2014,2014-05-21,LORENTZ Romain,RYUZAKI Tonin,3,1,"11,11,11,11|3,5,13,7",R16,GRAND_SLAM,U21MS,133,Main Draw,LORENTZ Romain (FRA),RYUZAKI Tonin (JPN),LORENTZ Romain
+World Tour Croatia Open Zagreb 2014,2014-05-21,ROBINOT Alexandre,HACHARD Antoine,3,2,"11,3,10,11,11|8,11,12,7,7",R16,GRAND_SLAM,U21MS,133,Main Draw,HACHARD Antoine (FRA),ROBINOT Alexandre (FRA),ROBINOT Alexandre
+World Tour Croatia Open Zagreb 2014,2014-05-21,DUDA Benedikt,BOULOUSSA Mehdi,3,2,"11,11,7,10,11|2,7,11,12,5",R16,GRAND_SLAM,U21MS,133,Main Draw,DUDA Benedikt (GER),BOULOUSSA Mehdi (ALG),DUDA Benedikt
+World Tour Croatia Open Zagreb 2014,2014-05-21,YOSHIDA Masaki,LAMBIET Florent,3,0,"11,13,11|7,11,2",R16,GRAND_SLAM,U21MS,133,Main Draw,LAMBIET Florent (BEL),YOSHIDA Masaki (JPN),YOSHIDA Masaki
+World Tour Croatia Open Zagreb 2014,2014-05-21,GERALDO Joao,YOSHIMURA Maharu,4,2,"11,11,12,7,6,11|9,7,10,11,11,8",QF,GRAND_SLAM,U21MS,133,Main Draw,YOSHIMURA Maharu (JPN),GERALDO Joao (POR),GERALDO Joao
+World Tour Croatia Open Zagreb 2014,2014-05-21,DYJAS Jakub,BROSSIER Benjamin,4,3,"9,13,6,11,8,11,12|11,11,11,8,11,7,10",QF,GRAND_SLAM,U21MS,133,Main Draw,DYJAS Jakub (POL),BROSSIER Benjamin (FRA),DYJAS Jakub
+World Tour Croatia Open Zagreb 2014,2014-05-21,ROBINOT Alexandre,LORENTZ Romain,4,2,"7,13,5,11,11,11|11,11,11,7,6,8",QF,GRAND_SLAM,U21MS,133,Main Draw,LORENTZ Romain (FRA),ROBINOT Alexandre (FRA),ROBINOT Alexandre
+World Tour Croatia Open Zagreb 2014,2014-05-21,DYJAS Jakub,GERALDO Joao,4,0,"11,12,11,11|3,10,9,9",SF,GRAND_SLAM,U21MS,133,Main Draw,GERALDO Joao (POR),DYJAS Jakub (POL),DYJAS Jakub
+World Tour Croatia Open Zagreb 2014,2014-05-21,ROBINOT Alexandre,YOSHIDA Masaki,4,1,"11,14,9,11,11|7,12,11,6,4",SF,GRAND_SLAM,U21MS,133,Main Draw,ROBINOT Alexandre (FRA),YOSHIDA Masaki (JPN),ROBINOT Alexandre
+World Tour Croatia Open Zagreb 2014,2014-05-21,ROBINOT Alexandre,DYJAS Jakub,4,3,"11,8,10,12,11,11,11|9,11,12,14,5,6,5",F,GRAND_SLAM,U21MS,133,Main Draw,DYJAS Jakub (POL),ROBINOT Alexandre (FRA),ROBINOT Alexandre
+World Tour Croatia Open Zagreb 2014,2014-05-21,POLCANOVA Sofia,ARLOUSKAYA Alina,3,0,"11,11,11|5,4,5",R32,GRAND_SLAM,U21WS,133,Main Draw,POLCANOVA Sofia (AUT),ARLOUSKAYA Alina (BLR),POLCANOVA Sofia
+World Tour Croatia Open Zagreb 2014,2014-05-21,JEGER Mateja,VERONIK Zala,3,1,"11,12,11,11|8,14,3,9",R32,GRAND_SLAM,U21WS,133,Main Draw,VERONIK Zala (SLO),JEGER Mateja (CRO),JEGER Mateja
+World Tour Croatia Open Zagreb 2014,2014-05-21,ROSSIKHINA Anna,VIVARELLI Debora,3,1,"11,13,10,11|9,11,12,7",R32,GRAND_SLAM,U21WS,133,Main Draw,VIVARELLI Debora (ITA),ROSSIKHINA Anna (RUS),ROSSIKHINA Anna
+World Tour Croatia Open Zagreb 2014,2014-05-21,GASNIER Laura,KUCHUK Maryia,3,0,"11,11,11|7,2,3",R32,GRAND_SLAM,U21WS,133,Main Draw,KUCHUK Maryia (BLR),GASNIER Laura (FRA),GASNIER Laura
+World Tour Croatia Open Zagreb 2014,2014-05-21,BIKBAEVA Anna,VAN DUIN Rianne,3,1,"7,11,11,11|11,5,5,9",R32,GRAND_SLAM,U21WS,133,Main Draw,BIKBAEVA Anna (RUS),VAN DUIN Rianne (NED),BIKBAEVA Anna
+World Tour Croatia Open Zagreb 2014,2014-05-21,BERGSTROM Linda,ASCHWANDEN Rahel,3,1,"10,11,11,11|12,9,9,6",R32,GRAND_SLAM,U21WS,133,Main Draw,BERGSTROM Linda (SWE),ASCHWANDEN Rahel (SUI),BERGSTROM Linda
+World Tour Croatia Open Zagreb 2014,2014-05-21,RAKOVAC Lea,DURCIK Aliz,3,1,"9,11,11,11|11,9,4,3",R32,GRAND_SLAM,U21WS,133,Main Draw,RAKOVAC Lea (CRO),DURCIK Aliz (SRB),RAKOVAC Lea
+World Tour Croatia Open Zagreb 2014,2014-05-21,EERLAND Britt,PETEK Petra,3,1,"11,11,3,11|6,6,11,7",R32,GRAND_SLAM,U21WS,133,Main Draw,PETEK Petra (CRO),EERLAND Britt (NED),EERLAND Britt
+World Tour Croatia Open Zagreb 2014,2014-05-21,MADARASZ Dora,BOLENIUS Sannamari,3,1,"14,11,11,11|16,9,4,4",R32,GRAND_SLAM,U21WS,133,Main Draw,MADARASZ Dora (HUN),BOLENIUS Sannamari (SWE),MADARASZ Dora
+World Tour Croatia Open Zagreb 2014,2014-05-21,XIAO Maria,NAGYVARADI Mercedes,3,2,"8,11,11,8,11|11,7,5,11,3",R32,GRAND_SLAM,U21WS,133,Main Draw,NAGYVARADI Mercedes (HUN),XIAO Maria (ESP),XIAO Maria
+World Tour Croatia Open Zagreb 2014,2014-05-21,MOSKOVITS Daniela,ALTINKAYA Sibel,3,2,"5,12,11,11,11|11,14,3,8,9",R32,GRAND_SLAM,U21WS,133,Main Draw,MOSKOVITS Daniela (SWE),ALTINKAYA Sibel (TUR),MOSKOVITS Daniela
+World Tour Croatia Open Zagreb 2014,2014-05-21,WAN Yuan,JONSSON Jennifer,3,0,"11,11,11|7,6,1",R32,GRAND_SLAM,U21WS,133,Main Draw,JONSSON Jennifer (SWE),WAN Yuan (GER),WAN Yuan
+World Tour Croatia Open Zagreb 2014,2014-05-21,MANTZ Chantal,PAVCNIK Tamara,3,0,"11,11,11|7,8,4",R32,GRAND_SLAM,U21WS,133,Main Draw,MANTZ Chantal (GER),PAVCNIK Tamara (SLO),MANTZ Chantal
+World Tour Croatia Open Zagreb 2014,2014-05-21,GALIC Alex,HAJOK Caroline,3,1,"11,11,9,11|8,4,11,5",R32,GRAND_SLAM,U21WS,133,Main Draw,GALIC Alex (SLO),HAJOK Caroline (GER),GALIC Alex
+World Tour Croatia Open Zagreb 2014,2014-05-21,BARAVOK Katsiaryna,TUBIKANEC Ivana,3,0,"11,12,12|6,10,10",R32,GRAND_SLAM,U21WS,133,Main Draw,BARAVOK Katsiaryna (BLR),TUBIKANEC Ivana (CRO),BARAVOK Katsiaryna
+World Tour Croatia Open Zagreb 2014,2014-05-21,NOSKOVA Yana,TRUZSINSZKI Viktoria,3,0,"11,11,11|4,4,7",R32,GRAND_SLAM,U21WS,133,Main Draw,TRUZSINSZKI Viktoria (SRB),NOSKOVA Yana (RUS),NOSKOVA Yana
+World Tour Croatia Open Zagreb 2014,2014-05-21,POLCANOVA Sofia,JEGER Mateja,3,1,"8,11,11,11|11,9,9,3",R16,GRAND_SLAM,U21WS,133,Main Draw,POLCANOVA Sofia (AUT),JEGER Mateja (CRO),POLCANOVA Sofia
+World Tour Croatia Open Zagreb 2014,2014-05-21,ROSSIKHINA Anna,GASNIER Laura,3,0,"11,11,11|7,9,7",R16,GRAND_SLAM,U21WS,133,Main Draw,ROSSIKHINA Anna (RUS),GASNIER Laura (FRA),ROSSIKHINA Anna
+World Tour Croatia Open Zagreb 2014,2014-05-21,BIKBAEVA Anna,BERGSTROM Linda,3,0,"11,12,11|6,10,5",R16,GRAND_SLAM,U21WS,133,Main Draw,BIKBAEVA Anna (RUS),BERGSTROM Linda (SWE),BIKBAEVA Anna
+World Tour Croatia Open Zagreb 2014,2014-05-21,EERLAND Britt,RAKOVAC Lea,3,1,"11,11,11,13|8,13,8,11",R16,GRAND_SLAM,U21WS,133,Main Draw,RAKOVAC Lea (CRO),EERLAND Britt (NED),EERLAND Britt
+World Tour Croatia Open Zagreb 2014,2014-05-21,XIAO Maria,MADARASZ Dora,3,0,"11,11,11|8,8,5",R16,GRAND_SLAM,U21WS,133,Main Draw,MADARASZ Dora (HUN),XIAO Maria (ESP),XIAO Maria
+World Tour Croatia Open Zagreb 2014,2014-05-21,WAN Yuan,MOSKOVITS Daniela,3,1,"11,11,10,11|7,6,12,4",R16,GRAND_SLAM,U21WS,133,Main Draw,MOSKOVITS Daniela (SWE),WAN Yuan (GER),WAN Yuan
+World Tour Croatia Open Zagreb 2014,2014-05-21,MANTZ Chantal,GALIC Alex,3,2,"6,11,11,11,11|11,6,8,13,8",R16,GRAND_SLAM,U21WS,133,Main Draw,MANTZ Chantal (GER),GALIC Alex (SLO),MANTZ Chantal
+World Tour Croatia Open Zagreb 2014,2014-05-21,NOSKOVA Yana,BARAVOK Katsiaryna,3,0,"11,11,11|6,8,7",R16,GRAND_SLAM,U21WS,133,Main Draw,BARAVOK Katsiaryna (BLR),NOSKOVA Yana (RUS),NOSKOVA Yana
+World Tour Croatia Open Zagreb 2014,2014-05-21,POLCANOVA Sofia,ROSSIKHINA Anna,4,0,"11,11,11,11|7,6,7,7",QF,GRAND_SLAM,U21WS,133,Main Draw,POLCANOVA Sofia (AUT),ROSSIKHINA Anna (RUS),POLCANOVA Sofia
+World Tour Croatia Open Zagreb 2014,2014-05-21,BIKBAEVA Anna,EERLAND Britt,4,3,"5,7,12,13,10,11,12|11,11,10,11,12,6,10",QF,GRAND_SLAM,U21WS,133,Main Draw,BIKBAEVA Anna (RUS),EERLAND Britt (NED),BIKBAEVA Anna
+World Tour Croatia Open Zagreb 2014,2014-05-21,WAN Yuan,XIAO Maria,4,0,"11,11,14,11|9,8,12,7",QF,GRAND_SLAM,U21WS,133,Main Draw,XIAO Maria (ESP),WAN Yuan (GER),WAN Yuan
+World Tour Croatia Open Zagreb 2014,2014-05-21,NOSKOVA Yana,WAN Yuan,4,1,"4,11,11,12,11|11,3,6,10,4",SF,GRAND_SLAM,U21WS,133,Main Draw,WAN Yuan (GER),NOSKOVA Yana (RUS),NOSKOVA Yana
+World Tour Croatia Open Zagreb 2014,2014-05-21,POLCANOVA Sofia,NOSKOVA Yana,4,2,"12,6,7,11,11,12|10,11,11,7,8,10",F,GRAND_SLAM,U21WS,133,Main Draw,POLCANOVA Sofia (AUT),NOSKOVA Yana (RUS),POLCANOVA Sofia

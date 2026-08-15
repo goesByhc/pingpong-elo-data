@@ -1,215 +1,215 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-World Tour Swedish Open Stockholm 2014,2014-11-12,XU Xin,LUNDQVIST Jens,4,2,"10,4,11,11,11,11|12,11,9,4,6,9",R64,GRAND_SLAM,MS,144,Main Draw,XU Xin (CHN),LUNDQVIST Jens (SWE)
-World Tour Swedish Open Stockholm 2014,2014-11-12,WANG Yang,MORIZONO Masataka,4,2,"7,11,11,11,9,11|11,5,7,8,11,4",R64,GRAND_SLAM,MS,144,Main Draw,WANG Yang (SVK),MORIZONO Masataka (JPN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,KARLSSON Kristian,WALTHER Ricardo,4,0,"11,11,11,11|7,4,6,6",R64,GRAND_SLAM,MS,144,Main Draw,KARLSSON Kristian (SWE),WALTHER Ricardo (GER)
-World Tour Swedish Open Stockholm 2014,2014-11-12,GIONIS Panagiotis,STOYANOV Niagol,4,1,"11,11,7,11,11|4,8,11,4,5",R64,GRAND_SLAM,MS,144,Main Draw,STOYANOV Niagol (ITA),GIONIS Panagiotis (GRE)
-World Tour Swedish Open Stockholm 2014,2014-11-12,MATSUDAIRA Kenta,HUANG Sheng-Sheng,4,1,"11,11,8,12,11|7,5,11,10,7",R64,GRAND_SLAM,MS,144,Main Draw,MATSUDAIRA Kenta (JPN),HUANG Sheng-Sheng (TPE)
-World Tour Swedish Open Stockholm 2014,2014-11-12,ELOI Damien,WONG Chun Ting,4,1,"6,11,11,11,11|11,7,6,5,8",R64,GRAND_SLAM,MS,144,Main Draw,ELOI Damien (FRA),WONG Chun Ting (HKG)
-World Tour Swedish Open Stockholm 2014,2014-11-12,GAUZY Simon,TSUBOI Gustavo,4,2,"7,11,11,12,6,11|11,5,9,10,11,6",R64,GRAND_SLAM,MS,144,Main Draw,TSUBOI Gustavo (BRA),GAUZY Simon (FRA)
-World Tour Swedish Open Stockholm 2014,2014-11-12,NIWA Koki,PERSSON Jon,4,0,"11,11,11,11|5,8,4,4",R64,GRAND_SLAM,MS,144,Main Draw,PERSSON Jon (SWE),NIWA Koki (JPN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,TANG Peng,KUZMIN Fedor,4,1,"11,11,14,9,14|9,8,12,11,12",R64,GRAND_SLAM,MS,144,Main Draw,TANG Peng (HKG),KUZMIN Fedor (RUS)
-World Tour Swedish Open Stockholm 2014,2014-11-12,JANG Woojin,CHIANG Hung-Chieh,4,3,"8,3,11,8,11,11,11|11,11,8,11,4,8,8",R64,GRAND_SLAM,MS,144,Main Draw,JANG Woojin (KOR),CHIANG Hung-Chieh (TPE)
-World Tour Swedish Open Stockholm 2014,2014-11-12,FILUS Ruwen,BURGIS Matiss,4,2,"7,11,5,11,11,12|11,5,11,6,9,10",R64,GRAND_SLAM,MS,144,Main Draw,FILUS Ruwen (GER),BURGIS Matiss (LAT)
-World Tour Swedish Open Stockholm 2014,2014-11-12,LIANG Jingkun,GACINA Andrej,4,2,"7,11,7,11,11,11|11,5,11,5,9,9",R64,GRAND_SLAM,MS,144,Main Draw,LIANG Jingkun (CHN),GACINA Andrej (CRO)
-World Tour Swedish Open Stockholm 2014,2014-11-12,FANG Bo,DYJAS Jakub,4,3,"11,10,9,11,11,9,14|8,12,11,6,5,11,12",R64,GRAND_SLAM,MS,144,Main Draw,FANG Bo (KAZ),DYJAS Jakub (POL)
-World Tour Swedish Open Stockholm 2014,2014-11-12,KISHIKAWA Seiya,PUCAR Tomislav,4,1,"11,11,11,11,11|8,13,5,7,8",R64,GRAND_SLAM,MS,144,Main Draw,PUCAR Tomislav (CRO),KISHIKAWA Seiya (JPN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,LI Hu,FEGERL Stefan,4,3,"7,6,12,11,12,12,11|11,11,10,9,14,10,4",R64,GRAND_SLAM,MS,144,Main Draw,FEGERL Stefan (AUT),LI Hu (SGP)
-World Tour Swedish Open Stockholm 2014,2014-11-12,OVTCHAROV Dimitrij,YOSHIMURA Maharu,4,1,"11,11,5,11,11|5,9,11,4,6",R64,GRAND_SLAM,MS,144,Main Draw,YOSHIMURA Maharu (JPN),OVTCHAROV Dimitrij (GER)
-World Tour Swedish Open Stockholm 2014,2014-11-12,WANG Hao,GORAK Daniel,4,3,"6,11,12,7,12,7,11|11,9,10,11,10,11,6",R64,GRAND_SLAM,MS,144,Main Draw,WANG Hao (CHN),GORAK Daniel (POL)
-World Tour Swedish Open Stockholm 2014,2014-11-12,JEOUNG Youngsik,PATTANTYUS Adam,4,3,"12,8,8,11,13,4,11|10,11,11,9,11,11,9",R64,GRAND_SLAM,MS,144,Main Draw,PATTANTYUS Adam (HUN),JEOUNG Youngsik (KOR)
-World Tour Swedish Open Stockholm 2014,2014-11-12,LEBESSON Emmanuel,KONECNY Tomas,4,3,"11,11,9,15,11,9,11|8,3,11,13,13,11,8",R64,GRAND_SLAM,MS,144,Main Draw,LEBESSON Emmanuel (FRA),KONECNY Tomas (CZE)
-World Tour Swedish Open Stockholm 2014,2014-11-12,GARDOS Robert,LIVENTSOV Alexey,4,1,"11,4,11,11,11|7,11,7,4,7",R64,GRAND_SLAM,MS,144,Main Draw,LIVENTSOV Alexey (RUS),GARDOS Robert (AUT)
-World Tour Swedish Open Stockholm 2014,2014-11-12,BOBOCICA Mihai,STEGER Bastian,4,1,"9,11,11,11,12|11,7,2,8,10",R64,GRAND_SLAM,MS,144,Main Draw,STEGER Bastian (GER),BOBOCICA Mihai (ITA)
-World Tour Swedish Open Stockholm 2014,2014-11-12,PITCHFORD Liam,WU Zhikang,4,2,"11,11,9,9,11,14|8,8,11,11,7,12",R64,GRAND_SLAM,MS,144,Main Draw,WU Zhikang (SGP),PITCHFORD Liam (ENG)
-World Tour Swedish Open Stockholm 2014,2014-11-12,OSHIMA Yuya,SMIRNOV Alexey,4,1,"13,10,12,11,11|11,12,10,5,5",R64,GRAND_SLAM,MS,144,Main Draw,SMIRNOV Alexey (RUS),OSHIMA Yuya (JPN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,FREITAS Marcos,PAIKOV Mikhail,4,0,"17,11,12,11|15,3,10,9",R64,GRAND_SLAM,MS,144,Main Draw,PAIKOV Mikhail (RUS),FREITAS Marcos (POR)
-World Tour Swedish Open Stockholm 2014,2014-11-12,YAN An,KOU Lei,4,2,"7,11,11,11,14,13|11,13,7,3,12,11",R64,GRAND_SLAM,MS,144,Main Draw,YAN An (CHN),KOU Lei (UKR)
-World Tour Swedish Open Stockholm 2014,2014-11-12,KIM Donghyun,SKACHKOV Kirill,4,1,"11,11,8,11,11|5,5,11,9,3",R64,GRAND_SLAM,MS,144,Main Draw,KIM Donghyun (KOR),SKACHKOV Kirill (RUS)
-World Tour Swedish Open Stockholm 2014,2014-11-12,GERELL Par,OUAICHE Stephane,4,2,"15,6,11,2,11,11|13,11,6,11,9,8",R64,GRAND_SLAM,MS,144,Main Draw,GERELL Par (SWE),OUAICHE Stephane (ALG)
-World Tour Swedish Open Stockholm 2014,2014-11-12,VLASOV Grigory,CHO Eonrae,4,0,"11,11,11,11|6,5,4,6",R64,GRAND_SLAM,MS,144,Main Draw,VLASOV Grigory (RUS),CHO Eonrae (KOR)
-World Tour Swedish Open Stockholm 2014,2014-11-12,MENGEL Steffen,LORENTZ Romain,4,0,"11,11,13,11|6,5,11,2",R64,GRAND_SLAM,MS,144,Main Draw,MENGEL Steffen (GER),LORENTZ Romain (FRA)
-World Tour Swedish Open Stockholm 2014,2014-11-12,CALDERANO Hugo,LIAO Cheng-Ting,4,0,"11,11,11,11|4,9,6,9",R64,GRAND_SLAM,MS,144,Main Draw,LIAO Cheng-Ting (TPE),CALDERANO Hugo (BRA)
-World Tour Swedish Open Stockholm 2014,2014-11-12,LI Ahmet,WANG Eugene,4,2,"8,11,11,9,11,11|11,7,6,11,5,5",R64,GRAND_SLAM,MS,144,Main Draw,WANG Eugene (CAN),LI Ahmet (TUR)
-World Tour Swedish Open Stockholm 2014,2014-11-12,FAN Zhendong,KOSIBA Daniel,4,2,"11,4,11,11,9,13|2,11,8,4,11,11",R64,GRAND_SLAM,MS,144,Main Draw,KOSIBA Daniel (HUN),FAN Zhendong (CHN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,XU Xin,WANG Yang,4,0,"13,11,11,11|11,4,5,2",R32,GRAND_SLAM,MS,144,Main Draw,XU Xin (CHN),WANG Yang (SVK)
-World Tour Swedish Open Stockholm 2014,2014-11-12,KARLSSON Kristian,GIONIS Panagiotis,4,0,"12,11,11,11|10,6,7,9",R32,GRAND_SLAM,MS,144,Main Draw,KARLSSON Kristian (SWE),GIONIS Panagiotis (GRE)
-World Tour Swedish Open Stockholm 2014,2014-11-12,MATSUDAIRA Kenta,ELOI Damien,4,1,"11,13,12,11,11|5,15,10,9,3",R32,GRAND_SLAM,MS,144,Main Draw,MATSUDAIRA Kenta (JPN),ELOI Damien (FRA)
-World Tour Swedish Open Stockholm 2014,2014-11-12,GAUZY Simon,NIWA Koki,4,3,"11,11,4,11,6,5,11|6,5,11,5,11,11,8",R32,GRAND_SLAM,MS,144,Main Draw,GAUZY Simon (FRA),NIWA Koki (JPN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,TANG Peng,JANG Woojin,4,0,"12,11,11,11|10,4,5,9",R32,GRAND_SLAM,MS,144,Main Draw,TANG Peng (HKG),JANG Woojin (KOR)
-World Tour Swedish Open Stockholm 2014,2014-11-12,LIANG Jingkun,FILUS Ruwen,4,1,"12,11,9,11,11|10,6,11,9,7",R32,GRAND_SLAM,MS,144,Main Draw,FILUS Ruwen (GER),LIANG Jingkun (CHN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,FANG Bo,KISHIKAWA Seiya,4,1,"8,11,11,12,11|11,5,5,10,3",R32,GRAND_SLAM,MS,144,Main Draw,FANG Bo (KAZ),KISHIKAWA Seiya (JPN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,OVTCHAROV Dimitrij,LI Hu,4,0,"11,11,11,11|4,3,5,2",R32,GRAND_SLAM,MS,144,Main Draw,LI Hu (SGP),OVTCHAROV Dimitrij (GER)
-World Tour Swedish Open Stockholm 2014,2014-11-12,WANG Hao,JEOUNG Youngsik,4,1,"7,11,12,11,11|11,5,10,2,9",R32,GRAND_SLAM,MS,144,Main Draw,WANG Hao (CHN),JEOUNG Youngsik (KOR)
-World Tour Swedish Open Stockholm 2014,2014-11-12,GARDOS Robert,LEBESSON Emmanuel,4,2,"9,13,11,11,9,11|11,11,6,7,11,6",R32,GRAND_SLAM,MS,144,Main Draw,LEBESSON Emmanuel (FRA),GARDOS Robert (AUT)
-World Tour Swedish Open Stockholm 2014,2014-11-12,BOBOCICA Mihai,PITCHFORD Liam,4,2,"11,8,13,8,11,11|5,11,11,11,8,4",R32,GRAND_SLAM,MS,144,Main Draw,BOBOCICA Mihai (ITA),PITCHFORD Liam (ENG)
-World Tour Swedish Open Stockholm 2014,2014-11-12,FREITAS Marcos,OSHIMA Yuya,4,2,"6,11,11,11,4,11|11,7,2,7,11,9",R32,GRAND_SLAM,MS,144,Main Draw,OSHIMA Yuya (JPN),FREITAS Marcos (POR)
-World Tour Swedish Open Stockholm 2014,2014-11-12,YAN An,KIM Donghyun,4,2,"11,11,11,11,10,14|8,13,6,1,12,12",R32,GRAND_SLAM,MS,144,Main Draw,YAN An (CHN),KIM Donghyun (KOR)
-World Tour Swedish Open Stockholm 2014,2014-11-12,VLASOV Grigory,GERELL Par,4,2,"7,11,8,11,11,12|11,8,11,8,9,10",R32,GRAND_SLAM,MS,144,Main Draw,GERELL Par (SWE),VLASOV Grigory (RUS)
-World Tour Swedish Open Stockholm 2014,2014-11-12,MENGEL Steffen,CALDERANO Hugo,4,0,"11,11,11,11|9,7,8,8",R32,GRAND_SLAM,MS,144,Main Draw,MENGEL Steffen (GER),CALDERANO Hugo (BRA)
-World Tour Swedish Open Stockholm 2014,2014-11-12,FAN Zhendong,LI Ahmet,4,0,"11,11,11,11|6,6,6,3",R32,GRAND_SLAM,MS,144,Main Draw,LI Ahmet (TUR),FAN Zhendong (CHN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,XU Xin,KARLSSON Kristian,4,3,"11,11,3,11,9,9,11|8,1,11,8,11,11,7",R16,GRAND_SLAM,MS,144,Main Draw,XU Xin (CHN),KARLSSON Kristian (SWE)
-World Tour Swedish Open Stockholm 2014,2014-11-12,GAUZY Simon,MATSUDAIRA Kenta,4,3,"6,13,9,11,9,11,11|11,11,11,7,11,7,8",R16,GRAND_SLAM,MS,144,Main Draw,MATSUDAIRA Kenta (JPN),GAUZY Simon (FRA)
-World Tour Swedish Open Stockholm 2014,2014-11-12,TANG Peng,LIANG Jingkun,4,2,"11,11,11,12,5,11|8,8,3,14,11,7",R16,GRAND_SLAM,MS,144,Main Draw,TANG Peng (HKG),LIANG Jingkun (CHN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,FANG Bo,OVTCHAROV Dimitrij,4,2,"4,11,11,11,11,11|11,4,8,13,5,6",R16,GRAND_SLAM,MS,144,Main Draw,FANG Bo (KAZ),OVTCHAROV Dimitrij (GER)
-World Tour Swedish Open Stockholm 2014,2014-11-12,WANG Hao,GARDOS Robert,4,2,"11,11,11,8,13,11|13,9,9,11,11,8",R16,GRAND_SLAM,MS,144,Main Draw,WANG Hao (CHN),GARDOS Robert (AUT)
-World Tour Swedish Open Stockholm 2014,2014-11-12,FREITAS Marcos,BOBOCICA Mihai,4,2,"12,5,11,11,11,11|14,11,9,7,4,2",R16,GRAND_SLAM,MS,144,Main Draw,BOBOCICA Mihai (ITA),FREITAS Marcos (POR)
-World Tour Swedish Open Stockholm 2014,2014-11-12,YAN An,VLASOV Grigory,4,0,"12,11,11,11|10,5,8,3",R16,GRAND_SLAM,MS,144,Main Draw,YAN An (CHN),VLASOV Grigory (RUS)
-World Tour Swedish Open Stockholm 2014,2014-11-12,FAN Zhendong,MENGEL Steffen,4,3,"8,12,8,11,11,8,11|11,10,11,4,6,11,7",R16,GRAND_SLAM,MS,144,Main Draw,MENGEL Steffen (GER),FAN Zhendong (CHN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,XU Xin,GAUZY Simon,4,1,"11,11,11,4,11|7,5,7,11,7",QF,GRAND_SLAM,MS,144,Main Draw,XU Xin (CHN),GAUZY Simon (FRA)
-World Tour Swedish Open Stockholm 2014,2014-11-12,FANG Bo,TANG Peng,4,2,"11,10,5,11,11,13|7,12,11,3,9,11",QF,GRAND_SLAM,MS,144,Main Draw,TANG Peng (HKG),FANG Bo (KAZ)
-World Tour Swedish Open Stockholm 2014,2014-11-12,WANG Hao,FREITAS Marcos,4,2,"3,11,6,11,13,11|11,8,11,8,11,5",QF,GRAND_SLAM,MS,144,Main Draw,WANG Hao (CHN),FREITAS Marcos (POR)
-World Tour Swedish Open Stockholm 2014,2014-11-12,FAN Zhendong,YAN An,4,2,"11,11,11,11,11,11|5,13,5,13,8,9",QF,GRAND_SLAM,MS,144,Main Draw,YAN An (CHN),FAN Zhendong (CHN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,FANG Bo,XU Xin,4,2,"12,11,4,3,11,11|10,9,11,11,6,4",SF,GRAND_SLAM,MS,144,Main Draw,XU Xin (CHN),FANG Bo (KAZ)
-World Tour Swedish Open Stockholm 2014,2014-11-12,FAN Zhendong,WANG Hao,4,0,"11,11,11,11|8,9,2,9",SF,GRAND_SLAM,MS,144,Main Draw,WANG Hao (CHN),FAN Zhendong (CHN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,FAN Zhendong,FANG Bo,4,2,"14,18,6,5,11,11|12,16,11,11,8,5",F,GRAND_SLAM,MS,144,Main Draw,FANG Bo (KAZ),FAN Zhendong (CHN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,LIU Shiwen,MATELOVA Hana,4,0,"11,18,11,11|4,16,2,7",R64,GRAND_SLAM,WS,144,Main Draw,LIU Shiwen (CHN),MATELOVA Hana (CZE)
-World Tour Swedish Open Stockholm 2014,2014-11-12,HU Melek,SABITOVA Valentina,4,1,"11,11,11,6,11|9,9,9,11,9",R64,GRAND_SLAM,WS,144,Main Draw,SABITOVA Valentina (RUS),HU Melek (TUR)
-World Tour Swedish Open Stockholm 2014,2014-11-12,WAKAMIYA Misako,VARADY Barbora,4,0,"11,16,11,11|7,14,8,5",R64,GRAND_SLAM,WS,144,Main Draw,WAKAMIYA Misako (JPN),VARADY Barbora (SVK)
-World Tour Swedish Open Stockholm 2014,2014-11-12,FENG Yalan,LI Jiao,4,0,"11,11,16,11|9,6,14,6",R64,GRAND_SLAM,WS,144,Main Draw,FENG Yalan (CHN),LI Jiao (NED)
-World Tour Swedish Open Stockholm 2014,2014-11-12,LANG Kristin,MORIZONO Misaki,4,1,"11,9,11,14,11|9,11,8,12,9",R64,GRAND_SLAM,WS,144,Main Draw,MORIZONO Misaki (JPN),LANG Kristin (GER)
-World Tour Swedish Open Stockholm 2014,2014-11-12,IVANCAN Irene,HUANG Yi-Hua,4,3,"11,8,11,6,6,11,11|8,11,5,11,11,8,9",R64,GRAND_SLAM,WS,144,Main Draw,HUANG Yi-Hua (TPE),IVANCAN Irene (GER)
-World Tour Swedish Open Stockholm 2014,2014-11-12,LIN Ye,LEE Eunhye,4,1,"8,11,13,11,11|11,7,11,7,8",R64,GRAND_SLAM,WS,144,Main Draw,LIN Ye (CAN),LEE Eunhye (KOR)
-World Tour Swedish Open Stockholm 2014,2014-11-12,YU Mengyu,GRUNDISCH Carole,4,2,"11,6,8,11,11,11|3,11,11,9,4,8",R64,GRAND_SLAM,WS,144,Main Draw,GRUNDISCH Carole (FRA),YU Mengyu (SGP)
-World Tour Swedish Open Stockholm 2014,2014-11-12,FUKUHARA Ai,MIKHAILOVA Polina,4,1,"11,8,11,11,11|4,11,7,5,8",R64,GRAND_SLAM,WS,144,Main Draw,FUKUHARA Ai (JPN),MIKHAILOVA Polina (RUS)
-World Tour Swedish Open Stockholm 2014,2014-11-12,VACENOVSKA Iveta,BARTHEL Zhenqi,4,1,"13,11,11,11,11|15,9,4,7,5",R64,GRAND_SLAM,WS,144,Main Draw,BARTHEL Zhenqi (GER),VACENOVSKA Iveta (CZE)
-World Tour Swedish Open Stockholm 2014,2014-11-12,CHEN Szu-Yu,YANG Xiaoxin,4,0,"15,12,11,11|13,10,7,9",R64,GRAND_SLAM,WS,144,Main Draw,CHEN Szu-Yu (TPE),YANG Xiaoxin (MON)
-World Tour Swedish Open Stockholm 2014,2014-11-12,HU Limei,KOMWONG Nanthana,4,1,"11,13,11,11,11|13,11,2,6,9",R64,GRAND_SLAM,WS,144,Main Draw,KOMWONG Nanthana (THA),HU Limei (CHN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,ISHIGAKI Yuka,GU Yuting,4,3,"11,11,8,8,15,5,11|9,1,11,11,13,11,3",R64,GRAND_SLAM,WS,144,Main Draw,ISHIGAKI Yuka (JPN),GU Yuting (CHN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,JEON Jihee,WINTER Sabine,4,0,"11,15,11,17|6,13,6,15",R64,GRAND_SLAM,WS,144,Main Draw,WINTER Sabine (GER),JEON Jihee (KOR)
-World Tour Swedish Open Stockholm 2014,2014-11-12,LEE I-Chen,KUZMINA Elena,4,1,"11,11,11,9,13|7,4,3,11,11",R64,GRAND_SLAM,WS,144,Main Draw,LEE I-Chen (TPE),KUZMINA Elena (RUS)
-World Tour Swedish Open Stockholm 2014,2014-11-12,WU Yang,KHETKHUAN Tamolwan,4,0,"11,11,11,11|4,3,8,4",R64,GRAND_SLAM,WS,144,Main Draw,KHETKHUAN Tamolwan (THA),WU Yang (CHN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,HAN Ying,RAKOVAC Lea,4,0,"13,11,11,11|11,4,3,7",R64,GRAND_SLAM,WS,144,Main Draw,HAN Ying (GER),RAKOVAC Lea (CRO)
-World Tour Swedish Open Stockholm 2014,2014-11-12,LI Qian,ZHOU Yihan,4,1,"7,11,11,11,11|11,9,5,0,6",R64,GRAND_SLAM,WS,144,Main Draw,ZHOU Yihan (SGP),LI Qian (POL)
-World Tour Swedish Open Stockholm 2014,2014-11-12,LIN Chia-Hui,BERGSTROM Linda,4,0,"11,11,11,11|6,6,4,4",R64,GRAND_SLAM,WS,144,Main Draw,BERGSTROM Linda (SWE),LIN Chia-Hui (TPE)
-World Tour Swedish Open Stockholm 2014,2014-11-12,YU Fu,GRZYBOWSKA-FRANC Katarzyna,4,2,"13,11,5,7,11,11|11,8,11,11,9,6",R64,GRAND_SLAM,WS,144,Main Draw,GRZYBOWSKA-FRANC Katarzyna (POL),YU Fu (POR)
-World Tour Swedish Open Stockholm 2014,2014-11-12,MADARASZ Dora,YANG Ha Eun,4,3,"4,5,11,11,6,11,11|11,11,6,8,11,8,4",R64,GRAND_SLAM,WS,144,Main Draw,YANG Ha Eun (KOR),MADARASZ Dora (HUN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,EKHOLM Matilda,TIAN Yuan,4,1,"3,11,11,11,11|11,4,7,6,8",R64,GRAND_SLAM,WS,144,Main Draw,TIAN Yuan (CRO),EKHOLM Matilda (SWE)
-World Tour Swedish Open Stockholm 2014,2014-11-12,WU Jiaduo,YOO Eunchong,4,0,"11,11,11,11|8,9,1,4",R64,GRAND_SLAM,WS,144,Main Draw,WU Jiaduo (GER),YOO Eunchong (KOR)
-World Tour Swedish Open Stockholm 2014,2014-11-12,LIU Jia,BILENKO Tetyana,4,2,"8,11,6,11,11,13|11,9,11,6,6,11",R64,GRAND_SLAM,WS,144,Main Draw,BILENKO Tetyana (UKR),LIU Jia (AUT)
-World Tour Swedish Open Stockholm 2014,2014-11-12,ISHIKAWA Kasumi,PASKAUSKIENE Ruta,4,1,"12,7,11,11,11|10,11,6,7,5",R64,GRAND_SLAM,WS,144,Main Draw,ISHIKAWA Kasumi (JPN),PASKAUSKIENE Ruta (LTU)
-World Tour Swedish Open Stockholm 2014,2014-11-12,PROKHOROVA Yulia,SOLJA Amelie,4,2,"6,11,5,11,11,12|11,8,11,8,9,10",R64,GRAND_SLAM,WS,144,Main Draw,PROKHOROVA Yulia (RUS),SOLJA Amelie (AUT)
-World Tour Swedish Open Stockholm 2014,2014-11-12,TIE Yana,IACOB Camelia,4,1,"11,13,10,11,14|6,11,12,3,12",R64,GRAND_SLAM,WS,144,Main Draw,TIE Yana (HKG),IACOB Camelia (ROU)
-World Tour Swedish Open Stockholm 2014,2014-11-12,HIRANO Sayaka,SAWETTABUT Suthasini,4,0,"11,11,11,11|6,5,6,6",R64,GRAND_SLAM,WS,144,Main Draw,SAWETTABUT Suthasini (THA),HIRANO Sayaka (JPN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,POTA Georgina,ODOROVA Eva,4,1,"11,11,11,9,11|6,9,9,11,9",R64,GRAND_SLAM,WS,144,Main Draw,POTA Georgina (HUN),ODOROVA Eva (SVK)
-World Tour Swedish Open Stockholm 2014,2014-11-12,CHENG I-Ching,NOSKOVA Yana,4,3,"11,8,11,8,11,6,11|5,11,4,11,5,11,4",R64,GRAND_SLAM,WS,144,Main Draw,NOSKOVA Yana (RUS),CHENG I-Ching (TPE)
-World Tour Swedish Open Stockholm 2014,2014-11-12,HAPONOVA Hanna,LI Xue,4,1,"11,11,12,6,14|6,9,10,11,12",R64,GRAND_SLAM,WS,144,Main Draw,LI Xue (FRA),HAPONOVA Hanna (UKR)
-World Tour Swedish Open Stockholm 2014,2014-11-12,ZHU Yuling,PENKAVOVA Katerina,4,0,"13,11,11,11|11,3,3,5",R64,GRAND_SLAM,WS,144,Main Draw,PENKAVOVA Katerina (CZE),ZHU Yuling (MAC)
-World Tour Swedish Open Stockholm 2014,2014-11-12,LIU Shiwen,HU Melek,4,1,"11,11,9,11,11|9,4,11,1,9",R32,GRAND_SLAM,WS,144,Main Draw,LIU Shiwen (CHN),HU Melek (TUR)
-World Tour Swedish Open Stockholm 2014,2014-11-12,FENG Yalan,WAKAMIYA Misako,4,0,"11,11,11,11|7,6,7,4",R32,GRAND_SLAM,WS,144,Main Draw,WAKAMIYA Misako (JPN),FENG Yalan (CHN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,LANG Kristin,IVANCAN Irene,4,3,"11,6,7,13,11,11,11|8,11,11,15,8,8,9",R32,GRAND_SLAM,WS,144,Main Draw,LANG Kristin (GER),IVANCAN Irene (GER)
-World Tour Swedish Open Stockholm 2014,2014-11-12,YU Mengyu,LIN Ye,4,1,"11,11,9,12,11|3,8,11,10,6",R32,GRAND_SLAM,WS,144,Main Draw,LIN Ye (CAN),YU Mengyu (SGP)
-World Tour Swedish Open Stockholm 2014,2014-11-12,FUKUHARA Ai,VACENOVSKA Iveta,4,1,"11,8,14,11,11|9,11,12,9,8",R32,GRAND_SLAM,WS,144,Main Draw,FUKUHARA Ai (JPN),VACENOVSKA Iveta (CZE)
-World Tour Swedish Open Stockholm 2014,2014-11-12,HU Limei,CHEN Szu-Yu,4,0,"11,11,11,11|4,4,4,4",R32,GRAND_SLAM,WS,144,Main Draw,CHEN Szu-Yu (TPE),HU Limei (CHN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,ISHIGAKI Yuka,JEON Jihee,4,1,"11,7,11,11,11|6,11,6,6,9",R32,GRAND_SLAM,WS,144,Main Draw,ISHIGAKI Yuka (JPN),JEON Jihee (KOR)
-World Tour Swedish Open Stockholm 2014,2014-11-12,WU Yang,LEE I-Chen,4,1,"11,11,11,8,11|6,8,6,11,7",R32,GRAND_SLAM,WS,144,Main Draw,LEE I-Chen (TPE),WU Yang (CHN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,HAN Ying,LI Qian,4,1,"6,11,11,11,11|11,3,5,4,6",R32,GRAND_SLAM,WS,144,Main Draw,HAN Ying (GER),LI Qian (POL)
-World Tour Swedish Open Stockholm 2014,2014-11-12,YU Fu,LIN Chia-Hui,4,2,"7,10,11,11,11,11|11,12,6,8,8,9",R32,GRAND_SLAM,WS,144,Main Draw,LIN Chia-Hui (TPE),YU Fu (POR)
-World Tour Swedish Open Stockholm 2014,2014-11-12,MADARASZ Dora,EKHOLM Matilda,4,1,"11,7,11,11,13|4,11,8,6,11",R32,GRAND_SLAM,WS,144,Main Draw,MADARASZ Dora (HUN),EKHOLM Matilda (SWE)
-World Tour Swedish Open Stockholm 2014,2014-11-12,LIU Jia,WU Jiaduo,4,0,"11,15,11,11|4,13,8,7",R32,GRAND_SLAM,WS,144,Main Draw,WU Jiaduo (GER),LIU Jia (AUT)
-World Tour Swedish Open Stockholm 2014,2014-11-12,ISHIKAWA Kasumi,PROKHOROVA Yulia,4,2,"11,8,11,12,7,13|5,11,4,10,11,11",R32,GRAND_SLAM,WS,144,Main Draw,ISHIKAWA Kasumi (JPN),PROKHOROVA Yulia (RUS)
-World Tour Swedish Open Stockholm 2014,2014-11-12,HIRANO Sayaka,TIE Yana,4,0,"11,11,11,11|4,6,6,7",R32,GRAND_SLAM,WS,144,Main Draw,TIE Yana (HKG),HIRANO Sayaka (JPN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,CHENG I-Ching,POTA Georgina,4,2,"14,5,11,7,11,11|12,11,7,11,8,5",R32,GRAND_SLAM,WS,144,Main Draw,POTA Georgina (HUN),CHENG I-Ching (TPE)
-World Tour Swedish Open Stockholm 2014,2014-11-12,ZHU Yuling,HAPONOVA Hanna,4,0,"11,11,11,11|5,5,5,8",R32,GRAND_SLAM,WS,144,Main Draw,HAPONOVA Hanna (UKR),ZHU Yuling (MAC)
-World Tour Swedish Open Stockholm 2014,2014-11-12,LIU Shiwen,FENG Yalan,4,1,"7,11,11,11,11|11,6,8,5,8",R16,GRAND_SLAM,WS,144,Main Draw,LIU Shiwen (CHN),FENG Yalan (CHN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,LANG Kristin,YU Mengyu,4,2,"11,9,12,11,9,11|7,11,10,4,11,9",R16,GRAND_SLAM,WS,144,Main Draw,LANG Kristin (GER),YU Mengyu (SGP)
-World Tour Swedish Open Stockholm 2014,2014-11-12,FUKUHARA Ai,HU Limei,4,3,"11,11,7,5,11,9,11|5,4,11,11,8,11,9",R16,GRAND_SLAM,WS,144,Main Draw,FUKUHARA Ai (JPN),HU Limei (CHN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,WU Yang,ISHIGAKI Yuka,4,0,"11,11,11,11|6,3,6,1",R16,GRAND_SLAM,WS,144,Main Draw,ISHIGAKI Yuka (JPN),WU Yang (CHN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,HAN Ying,YU Fu,4,0,"11,11,11,11|7,9,1,9",R16,GRAND_SLAM,WS,144,Main Draw,HAN Ying (GER),YU Fu (POR)
-World Tour Swedish Open Stockholm 2014,2014-11-12,LIU Jia,MADARASZ Dora,4,2,"7,13,3,11,12,11|11,11,11,7,10,3",R16,GRAND_SLAM,WS,144,Main Draw,MADARASZ Dora (HUN),LIU Jia (AUT)
-World Tour Swedish Open Stockholm 2014,2014-11-12,ISHIKAWA Kasumi,HIRANO Sayaka,4,2,"7,11,11,11,11,11|11,3,8,8,13,7",R16,GRAND_SLAM,WS,144,Main Draw,ISHIKAWA Kasumi (JPN),HIRANO Sayaka (JPN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,ZHU Yuling,CHENG I-Ching,4,0,"11,11,11,11|9,7,9,5",R16,GRAND_SLAM,WS,144,Main Draw,CHENG I-Ching (TPE),ZHU Yuling (MAC)
-World Tour Swedish Open Stockholm 2014,2014-11-12,LIU Shiwen,LANG Kristin,4,1,"11,11,10,14,11|9,9,12,12,7",QF,GRAND_SLAM,WS,144,Main Draw,LIU Shiwen (CHN),LANG Kristin (GER)
-World Tour Swedish Open Stockholm 2014,2014-11-12,WU Yang,FUKUHARA Ai,4,2,"5,8,11,11,11,11|11,11,3,6,6,7",QF,GRAND_SLAM,WS,144,Main Draw,FUKUHARA Ai (JPN),WU Yang (CHN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,HAN Ying,LIU Jia,4,0,"11,11,11,11|9,5,4,4",QF,GRAND_SLAM,WS,144,Main Draw,HAN Ying (GER),LIU Jia (AUT)
-World Tour Swedish Open Stockholm 2014,2014-11-12,ZHU Yuling,ISHIKAWA Kasumi,4,3,"11,8,11,10,11,6,11|4,11,9,12,5,11,8",QF,GRAND_SLAM,WS,144,Main Draw,ISHIKAWA Kasumi (JPN),ZHU Yuling (MAC)
-World Tour Swedish Open Stockholm 2014,2014-11-12,LIU Shiwen,WU Yang,4,3,"11,11,7,8,11,9,15|8,4,11,11,9,11,13",SF,GRAND_SLAM,WS,144,Main Draw,LIU Shiwen (CHN),WU Yang (CHN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,ZHU Yuling,HAN Ying,4,0,"11,11,11,11|5,4,6,9",SF,GRAND_SLAM,WS,144,Main Draw,HAN Ying (GER),ZHU Yuling (MAC)
-World Tour Swedish Open Stockholm 2014,2014-11-12,ZHU Yuling,LIU Shiwen,4,0,"11,11,11,11|3,4,8,7",F,GRAND_SLAM,WS,144,Main Draw,LIU Shiwen (CHN),ZHU Yuling (MAC)
-World Tour Swedish Open Stockholm 2014,2014-11-12,JANG Woojin,LAMBIET Florent,3,1,"12,11,10,11|10,6,12,5",R32,GRAND_SLAM,U21MS,144,Main Draw,JANG Woojin (KOR),LAMBIET Florent (BEL)
-World Tour Swedish Open Stockholm 2014,2014-11-12,LIAO Cheng-Ting,SODERLUND Hampus,3,1,"11,11,3,11|9,9,11,1",R32,GRAND_SLAM,U21MS,144,Main Draw,SODERLUND Hampus (SWE),LIAO Cheng-Ting (TPE)
-World Tour Swedish Open Stockholm 2014,2014-11-12,DESAI Harmeet,YANG Heng-Wei,3,1,"12,11,11,11|10,6,13,9",R32,GRAND_SLAM,U21MS,144,Main Draw,DESAI Harmeet (IND),YANG Heng-Wei (TPE)
-World Tour Swedish Open Stockholm 2014,2014-11-12,GHOSH Soumyajit,KULPA Konrad,3,1,"11,11,10,11|7,9,12,6",R32,GRAND_SLAM,U21MS,144,Main Draw,KULPA Konrad (POL),GHOSH Soumyajit (IND)
-World Tour Swedish Open Stockholm 2014,2014-11-12,OUAICHE Stephane,SZUDI Adam,3,1,"11,6,11,11|9,11,5,8",R32,GRAND_SLAM,U21MS,144,Main Draw,OUAICHE Stephane (ALG),SZUDI Adam (HUN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,DEVOS Robin,ROBINOT Quentin,3,2,"9,11,11,8,11|11,9,9,11,8",R32,GRAND_SLAM,U21MS,144,Main Draw,DEVOS Robin (BEL),ROBINOT Quentin (FRA)
-World Tour Swedish Open Stockholm 2014,2014-11-12,SAKAI Asuka,ROBINOT Alexandre,3,0,"11,11,11|5,9,7",R32,GRAND_SLAM,U21MS,144,Main Draw,SAKAI Asuka (JPN),ROBINOT Alexandre (FRA)
-World Tour Swedish Open Stockholm 2014,2014-11-12,KALLBERG Anton,WU Zhikang,3,1,"11,11,6,11|3,7,11,7",R32,GRAND_SLAM,U21MS,144,Main Draw,KALLBERG Anton (SWE),WU Zhikang (SGP)
-World Tour Swedish Open Stockholm 2014,2014-11-12,YOSHIDA Masaki,HACHARD Antoine,3,1,"11,11,11,11|13,9,5,9",R32,GRAND_SLAM,U21MS,144,Main Draw,YOSHIDA Masaki (JPN),HACHARD Antoine (FRA)
-World Tour Swedish Open Stockholm 2014,2014-11-12,REITSPIES David,HUNG Tzu-Hsiang,3,0,"11,11,11|6,9,6",R32,GRAND_SLAM,U21MS,144,Main Draw,REITSPIES David (CZE),HUNG Tzu-Hsiang (TPE)
-World Tour Swedish Open Stockholm 2014,2014-11-12,HUNG Ka Tak,DYJAS Jakub,3,1,"11,11,7,15|8,9,11,13",R32,GRAND_SLAM,U21MS,144,Main Draw,DYJAS Jakub (POL),HUNG Ka Tak (HKG)
-World Tour Swedish Open Stockholm 2014,2014-11-12,KIM Donghyun,MUTTI Leonardo,3,1,"11,11,5,11|5,8,11,7",R32,GRAND_SLAM,U21MS,144,Main Draw,MUTTI Leonardo (ITA),KIM Donghyun (KOR)
-World Tour Swedish Open Stockholm 2014,2014-11-12,MACHI Asuka,LAKATOS Tamas,3,0,"11,12,11|6,10,5",R32,GRAND_SLAM,U21MS,144,Main Draw,MACHI Asuka (JPN),LAKATOS Tamas (HUN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,LORENTZ Romain,GERALDO Joao,3,0,"12,11,11|10,9,6",R32,GRAND_SLAM,U21MS,144,Main Draw,GERALDO Joao (POR),LORENTZ Romain (FRA)
-World Tour Swedish Open Stockholm 2014,2014-11-12,HO Kwan Kit,XIN Zhaoxu,3,0,"11,11,11|7,6,7",R32,GRAND_SLAM,U21MS,144,Main Draw,HO Kwan Kit (HKG),XIN Zhaoxu (SGP)
-World Tour Swedish Open Stockholm 2014,2014-11-12,OSHIMA Yuya,DUDA Benedikt,3,0,"11,11,11|6,3,7",R32,GRAND_SLAM,U21MS,144,Main Draw,DUDA Benedikt (GER),OSHIMA Yuya (JPN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,JANG Woojin,LIAO Cheng-Ting,3,1,"11,12,6,11|5,10,11,5",R16,GRAND_SLAM,U21MS,144,Main Draw,JANG Woojin (KOR),LIAO Cheng-Ting (TPE)
-World Tour Swedish Open Stockholm 2014,2014-11-12,GHOSH Soumyajit,DESAI Harmeet,3,0,"11,11,11|3,3,8",R16,GRAND_SLAM,U21MS,144,Main Draw,DESAI Harmeet (IND),GHOSH Soumyajit (IND)
-World Tour Swedish Open Stockholm 2014,2014-11-12,OUAICHE Stephane,DEVOS Robin,3,1,"11,11,11,12|6,13,6,10",R16,GRAND_SLAM,U21MS,144,Main Draw,OUAICHE Stephane (ALG),DEVOS Robin (BEL)
-World Tour Swedish Open Stockholm 2014,2014-11-12,KALLBERG Anton,SAKAI Asuka,3,0,"11,17,13|5,15,11",R16,GRAND_SLAM,U21MS,144,Main Draw,SAKAI Asuka (JPN),KALLBERG Anton (SWE)
-World Tour Swedish Open Stockholm 2014,2014-11-12,YOSHIDA Masaki,REITSPIES David,3,1,"10,11,11,11|12,8,6,7",R16,GRAND_SLAM,U21MS,144,Main Draw,YOSHIDA Masaki (JPN),REITSPIES David (CZE)
-World Tour Swedish Open Stockholm 2014,2014-11-12,KIM Donghyun,HUNG Ka Tak,3,0,"11,11,11|4,3,6",R16,GRAND_SLAM,U21MS,144,Main Draw,HUNG Ka Tak (HKG),KIM Donghyun (KOR)
-World Tour Swedish Open Stockholm 2014,2014-11-12,LORENTZ Romain,MACHI Asuka,3,2,"11,11,11,9,11|7,13,9,11,9",R16,GRAND_SLAM,U21MS,144,Main Draw,MACHI Asuka (JPN),LORENTZ Romain (FRA)
-World Tour Swedish Open Stockholm 2014,2014-11-12,HO Kwan Kit,OSHIMA Yuya,3,0,"11,11,11|8,6,7",R16,GRAND_SLAM,U21MS,144,Main Draw,HO Kwan Kit (HKG),OSHIMA Yuya (JPN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,GHOSH Soumyajit,JANG Woojin,4,0,"11,11,14,11|8,9,12,5",QF,GRAND_SLAM,U21MS,144,Main Draw,JANG Woojin (KOR),GHOSH Soumyajit (IND)
-World Tour Swedish Open Stockholm 2014,2014-11-12,KALLBERG Anton,OUAICHE Stephane,4,2,"11,8,5,11,11,11|5,11,11,8,4,9",QF,GRAND_SLAM,U21MS,144,Main Draw,OUAICHE Stephane (ALG),KALLBERG Anton (SWE)
-World Tour Swedish Open Stockholm 2014,2014-11-12,YOSHIDA Masaki,KIM Donghyun,4,1,"11,11,11,8,13|5,9,7,11,11",QF,GRAND_SLAM,U21MS,144,Main Draw,YOSHIDA Masaki (JPN),KIM Donghyun (KOR)
-World Tour Swedish Open Stockholm 2014,2014-11-12,HO Kwan Kit,LORENTZ Romain,4,1,"11,9,11,11,11|9,11,4,8,8",QF,GRAND_SLAM,U21MS,144,Main Draw,LORENTZ Romain (FRA),HO Kwan Kit (HKG)
-World Tour Swedish Open Stockholm 2014,2014-11-12,GHOSH Soumyajit,KALLBERG Anton,4,3,"11,7,4,11,11,11,12|5,11,11,6,6,13,10",SF,GRAND_SLAM,U21MS,144,Main Draw,GHOSH Soumyajit (IND),KALLBERG Anton (SWE)
-World Tour Swedish Open Stockholm 2014,2014-11-12,YOSHIDA Masaki,HO Kwan Kit,4,1,"8,11,11,12,11|11,7,4,10,9",SF,GRAND_SLAM,U21MS,144,Main Draw,YOSHIDA Masaki (JPN),HO Kwan Kit (HKG)
-World Tour Swedish Open Stockholm 2014,2014-11-12,YOSHIDA Masaki,GHOSH Soumyajit,4,3,"4,10,11,12,9,11,11|11,12,9,10,11,4,5",F,GRAND_SLAM,U21MS,144,Main Draw,GHOSH Soumyajit (IND),YOSHIDA Masaki (JPN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,ZARIF Audrey,LIN Ye,3,2,"10,11,1,11,14|12,6,11,3,12",R32,GRAND_SLAM,U21WS,144,Main Draw,LIN Ye (CAN),ZARIF Audrey (FRA)
-World Tour Swedish Open Stockholm 2014,2014-11-12,SAWETTABUT Suthasini,CIOBANU Irina,3,0,"11,11,11|7,8,6",R32,GRAND_SLAM,U21WS,144,Main Draw,CIOBANU Irina (ROU),SAWETTABUT Suthasini (THA)
-World Tour Swedish Open Stockholm 2014,2014-11-12,MADARASZ Dora,BERGSTROM Linda,3,0,"11,11,11|2,9,8",R32,GRAND_SLAM,U21WS,144,Main Draw,MADARASZ Dora (HUN),BERGSTROM Linda (SWE)
-World Tour Swedish Open Stockholm 2014,2014-11-12,ZHOU Yihan,PICCOLIN Giorgia,3,0,"11,11,11|9,3,7",R32,GRAND_SLAM,U21WS,144,Main Draw,PICCOLIN Giorgia (ITA),ZHOU Yihan (SGP)
-World Tour Swedish Open Stockholm 2014,2014-11-12,SATO Hitomi,LOYEN Eline,3,0,"11,11,11|5,1,5",R32,GRAND_SLAM,U21WS,144,Main Draw,SATO Hitomi (JPN),LOYEN Eline (BEL)
-World Tour Swedish Open Stockholm 2014,2014-11-12,RAKOVAC Lea,LEE Eunhye,3,0,"11,11,11|5,5,4",R32,GRAND_SLAM,U21WS,144,Main Draw,LEE Eunhye (KOR),RAKOVAC Lea (CRO)
-World Tour Swedish Open Stockholm 2014,2014-11-12,KHETKHUAN Tamolwan,MOSKOVITS Daniela,3,1,"11,9,11,11|6,11,7,5",R32,GRAND_SLAM,U21WS,144,Main Draw,KHETKHUAN Tamolwan (THA),MOSKOVITS Daniela (SWE)
-World Tour Swedish Open Stockholm 2014,2014-11-12,ITO Mima,ASCHWANDEN Rahel,3,0,"11,11,11|8,3,5",R32,GRAND_SLAM,U21WS,144,Main Draw,ASCHWANDEN Rahel (SUI),ITO Mima (JPN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,HIRANO Miu,MIGOT Marie,3,0,"11,11,11|5,5,9",R32,GRAND_SLAM,U21WS,144,Main Draw,HIRANO Miu (JPN),MIGOT Marie (FRA)
-World Tour Swedish Open Stockholm 2014,2014-11-12,NOSKOVA Yana,VIVARELLI Debora,3,1,"11,6,11,11|4,11,5,5",R32,GRAND_SLAM,U21WS,144,Main Draw,VIVARELLI Debora (ITA),NOSKOVA Yana (RUS)
-World Tour Swedish Open Stockholm 2014,2014-11-12,LI Isabelle Siyun,LI Ching Wan,3,1,"11,11,7,12|8,6,11,10",R32,GRAND_SLAM,U21WS,144,Main Draw,LI Isabelle Siyun (SGP),LI Ching Wan (HKG)
-World Tour Swedish Open Stockholm 2014,2014-11-12,KATO Miyu,SCHUH Anja,3,0,"11,11,11|8,8,4",R32,GRAND_SLAM,U21WS,144,Main Draw,SCHUH Anja (GER),KATO Miyu (JPN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,MAEDA Miyu,CHASSELIN Pauline,3,2,"12,8,11,11,11|14,11,7,9,3",R32,GRAND_SLAM,U21WS,144,Main Draw,MAEDA Miyu (JPN),CHASSELIN Pauline (FRA)
-World Tour Swedish Open Stockholm 2014,2014-11-12,YOO Eunchong,KALLBERG Christina,3,1,"6,11,11,11|11,8,5,7",R32,GRAND_SLAM,U21WS,144,Main Draw,KALLBERG Christina (SWE),YOO Eunchong (KOR)
-World Tour Swedish Open Stockholm 2014,2014-11-12,XIAO Maria,GASNIER Laura,3,2,"11,5,7,11,11|8,11,11,9,6",R32,GRAND_SLAM,U21WS,144,Main Draw,GASNIER Laura (FRA),XIAO Maria (ESP)
-World Tour Swedish Open Stockholm 2014,2014-11-12,CHEN Szu-Yu,HADZIAHMETOVIC Emina,3,0,"11,11,11|2,2,3",R32,GRAND_SLAM,U21WS,144,Main Draw,HADZIAHMETOVIC Emina (BIH),CHEN Szu-Yu (TPE)
-World Tour Swedish Open Stockholm 2014,2014-11-12,SAWETTABUT Suthasini,ZARIF Audrey,3,1,"10,11,11,11|12,8,6,9",R16,GRAND_SLAM,U21WS,144,Main Draw,ZARIF Audrey (FRA),SAWETTABUT Suthasini (THA)
-World Tour Swedish Open Stockholm 2014,2014-11-12,ZHOU Yihan,MADARASZ Dora,3,0,"11,11,11|5,8,7",R16,GRAND_SLAM,U21WS,144,Main Draw,MADARASZ Dora (HUN),ZHOU Yihan (SGP)
-World Tour Swedish Open Stockholm 2014,2014-11-12,SATO Hitomi,RAKOVAC Lea,3,1,"11,11,5,11|3,7,11,7",R16,GRAND_SLAM,U21WS,144,Main Draw,SATO Hitomi (JPN),RAKOVAC Lea (CRO)
-World Tour Swedish Open Stockholm 2014,2014-11-12,KHETKHUAN Tamolwan,ITO Mima,3,1,"12,6,11,11|10,11,6,5",R16,GRAND_SLAM,U21WS,144,Main Draw,KHETKHUAN Tamolwan (THA),ITO Mima (JPN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,HIRANO Miu,NOSKOVA Yana,3,0,"11,11,11|5,9,7",R16,GRAND_SLAM,U21WS,144,Main Draw,HIRANO Miu (JPN),NOSKOVA Yana (RUS)
-World Tour Swedish Open Stockholm 2014,2014-11-12,LI Isabelle Siyun,KATO Miyu,3,2,"11,6,11,11,11|13,11,7,8,7",R16,GRAND_SLAM,U21WS,144,Main Draw,LI Isabelle Siyun (SGP),KATO Miyu (JPN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,MAEDA Miyu,YOO Eunchong,3,1,"5,12,11,12|11,10,7,10",R16,GRAND_SLAM,U21WS,144,Main Draw,MAEDA Miyu (JPN),YOO Eunchong (KOR)
-World Tour Swedish Open Stockholm 2014,2014-11-12,XIAO Maria,CHEN Szu-Yu,3,1,"11,11,11,11|7,4,13,7",R16,GRAND_SLAM,U21WS,144,Main Draw,XIAO Maria (ESP),CHEN Szu-Yu (TPE)
-World Tour Swedish Open Stockholm 2014,2014-11-12,SAWETTABUT Suthasini,ZHOU Yihan,4,3,"11,13,11,11,9,8,12|5,15,6,7,11,11,10",QF,GRAND_SLAM,U21WS,144,Main Draw,SAWETTABUT Suthasini (THA),ZHOU Yihan (SGP)
-World Tour Swedish Open Stockholm 2014,2014-11-12,SATO Hitomi,KHETKHUAN Tamolwan,4,2,"11,7,12,11,11,11|6,11,14,9,7,7",QF,GRAND_SLAM,U21WS,144,Main Draw,SATO Hitomi (JPN),KHETKHUAN Tamolwan (THA)
-World Tour Swedish Open Stockholm 2014,2014-11-12,HIRANO Miu,LI Isabelle Siyun,4,2,"11,11,7,9,11,11|8,9,11,11,6,9",QF,GRAND_SLAM,U21WS,144,Main Draw,HIRANO Miu (JPN),LI Isabelle Siyun (SGP)
-World Tour Swedish Open Stockholm 2014,2014-11-12,MAEDA Miyu,XIAO Maria,4,0,"11,11,11,11|5,4,8,4",QF,GRAND_SLAM,U21WS,144,Main Draw,MAEDA Miyu (JPN),XIAO Maria (ESP)
-World Tour Swedish Open Stockholm 2014,2014-11-12,SATO Hitomi,SAWETTABUT Suthasini,4,1,"6,11,11,11,11|11,5,6,3,7",SF,GRAND_SLAM,U21WS,144,Main Draw,SAWETTABUT Suthasini (THA),SATO Hitomi (JPN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,HIRANO Miu,MAEDA Miyu,4,0,"12,11,13,11|10,8,11,5",SF,GRAND_SLAM,U21WS,144,Main Draw,HIRANO Miu (JPN),MAEDA Miyu (JPN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,SATO Hitomi,HIRANO Miu,4,0,"11,11,11,11|6,6,4,4",F,GRAND_SLAM,U21WS,144,Main Draw,SATO Hitomi (JPN),HIRANO Miu (JPN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,TANG Peng/WONG Chun Ting,CALDERANO Hugo/TSUBOI Gustavo,3,0,"11,11,11|8,2,8",R16,GRAND_SLAM,MD,144,Main Draw,TANG Peng (HKG) / WONG Chun Ting (HKG),CALDERANO Hugo (BRA) / TSUBOI Gustavo (BRA)
-World Tour Swedish Open Stockholm 2014,2014-11-12,FANG Bo/LIANG Jingkun,GERELL Par/LUNDQVIST Jens,3,2,"11,5,10,12,13|9,11,12,10,11",QF,GRAND_SLAM,MD,144,Main Draw,FANG Bo (KAZ) / LIANG Jingkun (CHN),GERELL Par (SWE) / LUNDQVIST Jens (SWE)
-World Tour Swedish Open Stockholm 2014,2014-11-12,WANG Hao/YAN An,FAN Zhendong/XU Xin,3,2,"11,4,11,9,11|3,11,5,11,6",F,GRAND_SLAM,MD,144,Main Draw,WANG Hao (CHN) / YAN An (CHN),FAN Zhendong (CHN) / XU Xin (CHN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,HU Limei/WU Yang,LEE Eunhye/YOO Eunchong,3,0,"11,11,12|3,6,10",QF,GRAND_SLAM,WD,144,Main Draw,HU Limei (CHN) / WU Yang (CHN),LEE Eunhye (KOR) / YOO Eunchong (KOR)
-World Tour Swedish Open Stockholm 2014,2014-11-12,HU Limei/WU Yang,HIRANO Miu/ITO Mima,3,1,"12,6,11,11|10,11,3,8",SF,GRAND_SLAM,WD,144,Main Draw,HU Limei (CHN) / WU Yang (CHN),HIRANO Miu (JPN) / ITO Mima (JPN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,LIU Shiwen/ZHU Yuling,HU Limei/WU Yang,3,0,"11,12,12|3,10,10",F,GRAND_SLAM,WD,144,Main Draw,LIU Shiwen (CHN) / ZHU Yuling (MAC),HU Limei (CHN) / WU Yang (CHN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,LIU Shiwen/ZHU Yuling,MADARASZ Dora/RAKOVAC Lea,3,0,"11,11,11|7,5,5",R16,GRAND_SLAM,WD,144,Main Draw,LIU Shiwen (CHN) / ZHU Yuling (MAC),MADARASZ Dora (HUN) / RAKOVAC Lea (CRO)
-World Tour Swedish Open Stockholm 2014,2014-11-12,GERELL Par/LUNDQVIST Jens,DRINKHALL Paul/PITCHFORD Liam,3,1,"11,9,11,11|9,11,3,9",R16,GRAND_SLAM,MD,144,Main Draw,GERELL Par (SWE) / LUNDQVIST Jens (SWE),DRINKHALL Paul (ENG) / PITCHFORD Liam (ENG)
-World Tour Swedish Open Stockholm 2014,2014-11-12,GARDOS Robert/HABESOHN Daniel,GAUZY Simon/LEBESSON Emmanuel,3,2,"9,11,8,11,12|11,6,11,9,10",R16,GRAND_SLAM,MD,144,Main Draw,GARDOS Robert (AUT) / HABESOHN Daniel (AUT),GAUZY Simon (FRA) / LEBESSON Emmanuel (FRA)
-World Tour Swedish Open Stockholm 2014,2014-11-12,HIRANO Miu/ITO Mima,HAN Ying/IVANCAN Irene,3,2,"6,11,11,3,11|11,4,3,11,7",QF,GRAND_SLAM,WD,144,Main Draw,HIRANO Miu (JPN) / ITO Mima (JPN),HAN Ying (GER) / IVANCAN Irene (GER)
-World Tour Swedish Open Stockholm 2014,2014-11-12,TSUBOI Yuma/YOSHIMURA Kazuhiro,KARLSSON Kristian/KARLSSON Mattias,3,2,"11,5,11,6,11|6,11,9,11,8",R16,GRAND_SLAM,MD,144,Main Draw,TSUBOI Yuma (JPN) / YOSHIMURA Kazuhiro (JPN),KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE)
-World Tour Swedish Open Stockholm 2014,2014-11-12,WANG Hao/YAN An,MORIZONO Masataka/OSHIMA Yuya,3,1,"6,11,11,11|11,6,5,6",R16,GRAND_SLAM,MD,144,Main Draw,WANG Hao (CHN) / YAN An (CHN),MORIZONO Masataka (JPN) / OSHIMA Yuya (JPN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,FAN Zhendong/XU Xin,MATSUDAIRA Kenta/NIWA Koki,3,1,"11,11,6,11|5,8,11,6",R16,GRAND_SLAM,MD,144,Main Draw,FAN Zhendong (CHN) / XU Xin (CHN),MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,FENG Yalan/GU Yuting,FUKUHARA Ai/WAKAMIYA Misako,3,0,"11,11,11|4,7,8",R16,GRAND_SLAM,WD,144,Main Draw,FENG Yalan (CHN) / GU Yuting (CHN),FUKUHARA Ai (JPN) / WAKAMIYA Misako (JPN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,LEE Eunhye/YOO Eunchong,EKHOLM Matilda/MOSKOVITS Daniela,3,0,"11,11,11|9,5,5",R16,GRAND_SLAM,WD,144,Main Draw,LEE Eunhye (KOR) / YOO Eunchong (KOR),EKHOLM Matilda (SWE) / MOSKOVITS Daniela (SWE)
-World Tour Swedish Open Stockholm 2014,2014-11-12,HAN Ying/IVANCAN Irene,GRZYBOWSKA-FRANC Katarzyna/PARTYKA Natalia,3,1,"7,11,11,13|11,9,7,11",R16,GRAND_SLAM,WD,144,Main Draw,HAN Ying (GER) / IVANCAN Irene (GER),GRZYBOWSKA-FRANC Katarzyna (POL) / PARTYKA Natalia (POL)
-World Tour Swedish Open Stockholm 2014,2014-11-12,FANG Bo/LIANG Jingkun,LIVENTSOV Alexey/PAIKOV Mikhail,3,1,"8,11,11,11|11,9,9,7",R16,GRAND_SLAM,MD,144,Main Draw,FANG Bo (KAZ) / LIANG Jingkun (CHN),LIVENTSOV Alexey (RUS) / PAIKOV Mikhail (RUS)
-World Tour Swedish Open Stockholm 2014,2014-11-12,FENG Tianwei/YU Mengyu,LANG Kristin/WINTER Sabine,3,2,"9,12,10,11,11|11,10,12,8,9",R16,GRAND_SLAM,WD,144,Main Draw,FENG Tianwei (SGP) / YU Mengyu (SGP),LANG Kristin (GER) / WINTER Sabine (GER)
-World Tour Swedish Open Stockholm 2014,2014-11-12,FENG Tianwei/YU Mengyu,CHEN Szu-Yu/LIN Chia-Hui,3,1,"9,11,15,11|11,8,13,8",QF,GRAND_SLAM,WD,144,Main Draw,FENG Tianwei (SGP) / YU Mengyu (SGP),CHEN Szu-Yu (TPE) / LIN Chia-Hui (TPE)
-World Tour Swedish Open Stockholm 2014,2014-11-12,LIU Shiwen/ZHU Yuling,FENG Tianwei/YU Mengyu,3,0,"11,11,11|4,9,7",SF,GRAND_SLAM,WD,144,Main Draw,LIU Shiwen (CHN) / ZHU Yuling (MAC),FENG Tianwei (SGP) / YU Mengyu (SGP)
-World Tour Swedish Open Stockholm 2014,2014-11-12,HIRANO Miu/ITO Mima,KOMWONG Nanthana/SAWETTABUT Suthasini,3,0,"11,11,11|8,8,3",R16,GRAND_SLAM,WD,144,Main Draw,HIRANO Miu (JPN) / ITO Mima (JPN),KOMWONG Nanthana (THA) / SAWETTABUT Suthasini (THA)
-World Tour Swedish Open Stockholm 2014,2014-11-12,CHIANG Hung-Chieh/HUANG Sheng-Sheng,BAI He/KOBES Kristian,3,1,"11,8,11,11|8,11,3,8",R16,GRAND_SLAM,MD,144,Main Draw,CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE),BAI He (SVK) / KOBES Kristian (SVK)
-World Tour Swedish Open Stockholm 2014,2014-11-12,CHIANG Hung-Chieh/HUANG Sheng-Sheng,TSUBOI Yuma/YOSHIMURA Kazuhiro,3,1,"8,11,11,11|11,8,6,5",QF,GRAND_SLAM,MD,144,Main Draw,CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE),TSUBOI Yuma (JPN) / YOSHIMURA Kazuhiro (JPN)
-World Tour Swedish Open Stockholm 2014,2014-11-12,WANG Hao/YAN An,CHIANG Hung-Chieh/HUANG Sheng-Sheng,3,0,"11,11,11|9,6,5",SF,GRAND_SLAM,MD,144,Main Draw,WANG Hao (CHN) / YAN An (CHN),CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE)
-World Tour Swedish Open Stockholm 2014,2014-11-12,CHEN Szu-Yu/LIN Chia-Hui,JEON Jihee/YANG Ha Eun,3,0,"11,11,11|2,9,6",R16,GRAND_SLAM,WD,144,Main Draw,CHEN Szu-Yu (TPE) / LIN Chia-Hui (TPE),JEON Jihee (KOR) / YANG Ha Eun (KOR)
-World Tour Swedish Open Stockholm 2014,2014-11-12,HU Limei/WU Yang,CHENG I-Ching/HUANG Yi-Hua,3,1,"6,11,11,11|11,7,9,4",R16,GRAND_SLAM,WD,144,Main Draw,HU Limei (CHN) / WU Yang (CHN),CHENG I-Ching (TPE) / HUANG Yi-Hua (TPE)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+World Tour Swedish Open Stockholm 2014,2014-11-12,XU Xin,LUNDQVIST Jens,4,2,"10,4,11,11,11,11|12,11,9,4,6,9",R64,GRAND_SLAM,MS,144,Main Draw,XU Xin (CHN),LUNDQVIST Jens (SWE),XU Xin
+World Tour Swedish Open Stockholm 2014,2014-11-12,WANG Yang,MORIZONO Masataka,4,2,"7,11,11,11,9,11|11,5,7,8,11,4",R64,GRAND_SLAM,MS,144,Main Draw,WANG Yang (SVK),MORIZONO Masataka (JPN),WANG Yang
+World Tour Swedish Open Stockholm 2014,2014-11-12,KARLSSON Kristian,WALTHER Ricardo,4,0,"11,11,11,11|7,4,6,6",R64,GRAND_SLAM,MS,144,Main Draw,KARLSSON Kristian (SWE),WALTHER Ricardo (GER),KARLSSON Kristian
+World Tour Swedish Open Stockholm 2014,2014-11-12,GIONIS Panagiotis,STOYANOV Niagol,4,1,"11,11,7,11,11|4,8,11,4,5",R64,GRAND_SLAM,MS,144,Main Draw,STOYANOV Niagol (ITA),GIONIS Panagiotis (GRE),GIONIS Panagiotis
+World Tour Swedish Open Stockholm 2014,2014-11-12,MATSUDAIRA Kenta,HUANG Sheng-Sheng,4,1,"11,11,8,12,11|7,5,11,10,7",R64,GRAND_SLAM,MS,144,Main Draw,MATSUDAIRA Kenta (JPN),HUANG Sheng-Sheng (TPE),MATSUDAIRA Kenta
+World Tour Swedish Open Stockholm 2014,2014-11-12,ELOI Damien,WONG Chun Ting,4,1,"6,11,11,11,11|11,7,6,5,8",R64,GRAND_SLAM,MS,144,Main Draw,ELOI Damien (FRA),WONG Chun Ting (HKG),ELOI Damien
+World Tour Swedish Open Stockholm 2014,2014-11-12,GAUZY Simon,TSUBOI Gustavo,4,2,"7,11,11,12,6,11|11,5,9,10,11,6",R64,GRAND_SLAM,MS,144,Main Draw,TSUBOI Gustavo (BRA),GAUZY Simon (FRA),GAUZY Simon
+World Tour Swedish Open Stockholm 2014,2014-11-12,NIWA Koki,PERSSON Jon,4,0,"11,11,11,11|5,8,4,4",R64,GRAND_SLAM,MS,144,Main Draw,PERSSON Jon (SWE),NIWA Koki (JPN),NIWA Koki
+World Tour Swedish Open Stockholm 2014,2014-11-12,TANG Peng,KUZMIN Fedor,4,1,"11,11,14,9,14|9,8,12,11,12",R64,GRAND_SLAM,MS,144,Main Draw,TANG Peng (HKG),KUZMIN Fedor (RUS),TANG Peng
+World Tour Swedish Open Stockholm 2014,2014-11-12,JANG Woojin,CHIANG Hung-Chieh,4,3,"8,3,11,8,11,11,11|11,11,8,11,4,8,8",R64,GRAND_SLAM,MS,144,Main Draw,JANG Woojin (KOR),CHIANG Hung-Chieh (TPE),JANG Woojin
+World Tour Swedish Open Stockholm 2014,2014-11-12,FILUS Ruwen,BURGIS Matiss,4,2,"7,11,5,11,11,12|11,5,11,6,9,10",R64,GRAND_SLAM,MS,144,Main Draw,FILUS Ruwen (GER),BURGIS Matiss (LAT),FILUS Ruwen
+World Tour Swedish Open Stockholm 2014,2014-11-12,LIANG Jingkun,GACINA Andrej,4,2,"7,11,7,11,11,11|11,5,11,5,9,9",R64,GRAND_SLAM,MS,144,Main Draw,LIANG Jingkun (CHN),GACINA Andrej (CRO),LIANG Jingkun
+World Tour Swedish Open Stockholm 2014,2014-11-12,FANG Bo,DYJAS Jakub,4,3,"11,10,9,11,11,9,14|8,12,11,6,5,11,12",R64,GRAND_SLAM,MS,144,Main Draw,FANG Bo (KAZ),DYJAS Jakub (POL),FANG Bo
+World Tour Swedish Open Stockholm 2014,2014-11-12,KISHIKAWA Seiya,PUCAR Tomislav,4,1,"11,11,11,11,11|8,13,5,7,8",R64,GRAND_SLAM,MS,144,Main Draw,PUCAR Tomislav (CRO),KISHIKAWA Seiya (JPN),KISHIKAWA Seiya
+World Tour Swedish Open Stockholm 2014,2014-11-12,LI Hu,FEGERL Stefan,4,3,"7,6,12,11,12,12,11|11,11,10,9,14,10,4",R64,GRAND_SLAM,MS,144,Main Draw,FEGERL Stefan (AUT),LI Hu (SGP),LI Hu
+World Tour Swedish Open Stockholm 2014,2014-11-12,OVTCHAROV Dimitrij,YOSHIMURA Maharu,4,1,"11,11,5,11,11|5,9,11,4,6",R64,GRAND_SLAM,MS,144,Main Draw,YOSHIMURA Maharu (JPN),OVTCHAROV Dimitrij (GER),OVTCHAROV Dimitrij
+World Tour Swedish Open Stockholm 2014,2014-11-12,WANG Hao,GORAK Daniel,4,3,"6,11,12,7,12,7,11|11,9,10,11,10,11,6",R64,GRAND_SLAM,MS,144,Main Draw,WANG Hao (CHN),GORAK Daniel (POL),WANG Hao
+World Tour Swedish Open Stockholm 2014,2014-11-12,JEOUNG Youngsik,PATTANTYUS Adam,4,3,"12,8,8,11,13,4,11|10,11,11,9,11,11,9",R64,GRAND_SLAM,MS,144,Main Draw,PATTANTYUS Adam (HUN),JEOUNG Youngsik (KOR),JEOUNG Youngsik
+World Tour Swedish Open Stockholm 2014,2014-11-12,LEBESSON Emmanuel,KONECNY Tomas,4,3,"11,11,9,15,11,9,11|8,3,11,13,13,11,8",R64,GRAND_SLAM,MS,144,Main Draw,LEBESSON Emmanuel (FRA),KONECNY Tomas (CZE),LEBESSON Emmanuel
+World Tour Swedish Open Stockholm 2014,2014-11-12,GARDOS Robert,LIVENTSOV Alexey,4,1,"11,4,11,11,11|7,11,7,4,7",R64,GRAND_SLAM,MS,144,Main Draw,LIVENTSOV Alexey (RUS),GARDOS Robert (AUT),GARDOS Robert
+World Tour Swedish Open Stockholm 2014,2014-11-12,BOBOCICA Mihai,STEGER Bastian,4,1,"9,11,11,11,12|11,7,2,8,10",R64,GRAND_SLAM,MS,144,Main Draw,STEGER Bastian (GER),BOBOCICA Mihai (ITA),BOBOCICA Mihai
+World Tour Swedish Open Stockholm 2014,2014-11-12,PITCHFORD Liam,WU Zhikang,4,2,"11,11,9,9,11,14|8,8,11,11,7,12",R64,GRAND_SLAM,MS,144,Main Draw,WU Zhikang (SGP),PITCHFORD Liam (ENG),PITCHFORD Liam
+World Tour Swedish Open Stockholm 2014,2014-11-12,OSHIMA Yuya,SMIRNOV Alexey,4,1,"13,10,12,11,11|11,12,10,5,5",R64,GRAND_SLAM,MS,144,Main Draw,SMIRNOV Alexey (RUS),OSHIMA Yuya (JPN),OSHIMA Yuya
+World Tour Swedish Open Stockholm 2014,2014-11-12,FREITAS Marcos,PAIKOV Mikhail,4,0,"17,11,12,11|15,3,10,9",R64,GRAND_SLAM,MS,144,Main Draw,PAIKOV Mikhail (RUS),FREITAS Marcos (POR),FREITAS Marcos
+World Tour Swedish Open Stockholm 2014,2014-11-12,YAN An,KOU Lei,4,2,"7,11,11,11,14,13|11,13,7,3,12,11",R64,GRAND_SLAM,MS,144,Main Draw,YAN An (CHN),KOU Lei (UKR),YAN An
+World Tour Swedish Open Stockholm 2014,2014-11-12,KIM Donghyun,SKACHKOV Kirill,4,1,"11,11,8,11,11|5,5,11,9,3",R64,GRAND_SLAM,MS,144,Main Draw,KIM Donghyun (KOR),SKACHKOV Kirill (RUS),KIM Donghyun
+World Tour Swedish Open Stockholm 2014,2014-11-12,GERELL Par,OUAICHE Stephane,4,2,"15,6,11,2,11,11|13,11,6,11,9,8",R64,GRAND_SLAM,MS,144,Main Draw,GERELL Par (SWE),OUAICHE Stephane (ALG),GERELL Par
+World Tour Swedish Open Stockholm 2014,2014-11-12,VLASOV Grigory,CHO Eonrae,4,0,"11,11,11,11|6,5,4,6",R64,GRAND_SLAM,MS,144,Main Draw,VLASOV Grigory (RUS),CHO Eonrae (KOR),VLASOV Grigory
+World Tour Swedish Open Stockholm 2014,2014-11-12,MENGEL Steffen,LORENTZ Romain,4,0,"11,11,13,11|6,5,11,2",R64,GRAND_SLAM,MS,144,Main Draw,MENGEL Steffen (GER),LORENTZ Romain (FRA),MENGEL Steffen
+World Tour Swedish Open Stockholm 2014,2014-11-12,CALDERANO Hugo,LIAO Cheng-Ting,4,0,"11,11,11,11|4,9,6,9",R64,GRAND_SLAM,MS,144,Main Draw,LIAO Cheng-Ting (TPE),CALDERANO Hugo (BRA),CALDERANO Hugo
+World Tour Swedish Open Stockholm 2014,2014-11-12,LI Ahmet,WANG Eugene,4,2,"8,11,11,9,11,11|11,7,6,11,5,5",R64,GRAND_SLAM,MS,144,Main Draw,WANG Eugene (CAN),LI Ahmet (TUR),LI Ahmet
+World Tour Swedish Open Stockholm 2014,2014-11-12,FAN Zhendong,KOSIBA Daniel,4,2,"11,4,11,11,9,13|2,11,8,4,11,11",R64,GRAND_SLAM,MS,144,Main Draw,KOSIBA Daniel (HUN),FAN Zhendong (CHN),FAN Zhendong
+World Tour Swedish Open Stockholm 2014,2014-11-12,XU Xin,WANG Yang,4,0,"13,11,11,11|11,4,5,2",R32,GRAND_SLAM,MS,144,Main Draw,XU Xin (CHN),WANG Yang (SVK),XU Xin
+World Tour Swedish Open Stockholm 2014,2014-11-12,KARLSSON Kristian,GIONIS Panagiotis,4,0,"12,11,11,11|10,6,7,9",R32,GRAND_SLAM,MS,144,Main Draw,KARLSSON Kristian (SWE),GIONIS Panagiotis (GRE),KARLSSON Kristian
+World Tour Swedish Open Stockholm 2014,2014-11-12,MATSUDAIRA Kenta,ELOI Damien,4,1,"11,13,12,11,11|5,15,10,9,3",R32,GRAND_SLAM,MS,144,Main Draw,MATSUDAIRA Kenta (JPN),ELOI Damien (FRA),MATSUDAIRA Kenta
+World Tour Swedish Open Stockholm 2014,2014-11-12,GAUZY Simon,NIWA Koki,4,3,"11,11,4,11,6,5,11|6,5,11,5,11,11,8",R32,GRAND_SLAM,MS,144,Main Draw,GAUZY Simon (FRA),NIWA Koki (JPN),GAUZY Simon
+World Tour Swedish Open Stockholm 2014,2014-11-12,TANG Peng,JANG Woojin,4,0,"12,11,11,11|10,4,5,9",R32,GRAND_SLAM,MS,144,Main Draw,TANG Peng (HKG),JANG Woojin (KOR),TANG Peng
+World Tour Swedish Open Stockholm 2014,2014-11-12,LIANG Jingkun,FILUS Ruwen,4,1,"12,11,9,11,11|10,6,11,9,7",R32,GRAND_SLAM,MS,144,Main Draw,FILUS Ruwen (GER),LIANG Jingkun (CHN),LIANG Jingkun
+World Tour Swedish Open Stockholm 2014,2014-11-12,FANG Bo,KISHIKAWA Seiya,4,1,"8,11,11,12,11|11,5,5,10,3",R32,GRAND_SLAM,MS,144,Main Draw,FANG Bo (KAZ),KISHIKAWA Seiya (JPN),FANG Bo
+World Tour Swedish Open Stockholm 2014,2014-11-12,OVTCHAROV Dimitrij,LI Hu,4,0,"11,11,11,11|4,3,5,2",R32,GRAND_SLAM,MS,144,Main Draw,LI Hu (SGP),OVTCHAROV Dimitrij (GER),OVTCHAROV Dimitrij
+World Tour Swedish Open Stockholm 2014,2014-11-12,WANG Hao,JEOUNG Youngsik,4,1,"7,11,12,11,11|11,5,10,2,9",R32,GRAND_SLAM,MS,144,Main Draw,WANG Hao (CHN),JEOUNG Youngsik (KOR),WANG Hao
+World Tour Swedish Open Stockholm 2014,2014-11-12,GARDOS Robert,LEBESSON Emmanuel,4,2,"9,13,11,11,9,11|11,11,6,7,11,6",R32,GRAND_SLAM,MS,144,Main Draw,LEBESSON Emmanuel (FRA),GARDOS Robert (AUT),GARDOS Robert
+World Tour Swedish Open Stockholm 2014,2014-11-12,BOBOCICA Mihai,PITCHFORD Liam,4,2,"11,8,13,8,11,11|5,11,11,11,8,4",R32,GRAND_SLAM,MS,144,Main Draw,BOBOCICA Mihai (ITA),PITCHFORD Liam (ENG),BOBOCICA Mihai
+World Tour Swedish Open Stockholm 2014,2014-11-12,FREITAS Marcos,OSHIMA Yuya,4,2,"6,11,11,11,4,11|11,7,2,7,11,9",R32,GRAND_SLAM,MS,144,Main Draw,OSHIMA Yuya (JPN),FREITAS Marcos (POR),FREITAS Marcos
+World Tour Swedish Open Stockholm 2014,2014-11-12,YAN An,KIM Donghyun,4,2,"11,11,11,11,10,14|8,13,6,1,12,12",R32,GRAND_SLAM,MS,144,Main Draw,YAN An (CHN),KIM Donghyun (KOR),YAN An
+World Tour Swedish Open Stockholm 2014,2014-11-12,VLASOV Grigory,GERELL Par,4,2,"7,11,8,11,11,12|11,8,11,8,9,10",R32,GRAND_SLAM,MS,144,Main Draw,GERELL Par (SWE),VLASOV Grigory (RUS),VLASOV Grigory
+World Tour Swedish Open Stockholm 2014,2014-11-12,MENGEL Steffen,CALDERANO Hugo,4,0,"11,11,11,11|9,7,8,8",R32,GRAND_SLAM,MS,144,Main Draw,MENGEL Steffen (GER),CALDERANO Hugo (BRA),MENGEL Steffen
+World Tour Swedish Open Stockholm 2014,2014-11-12,FAN Zhendong,LI Ahmet,4,0,"11,11,11,11|6,6,6,3",R32,GRAND_SLAM,MS,144,Main Draw,LI Ahmet (TUR),FAN Zhendong (CHN),FAN Zhendong
+World Tour Swedish Open Stockholm 2014,2014-11-12,XU Xin,KARLSSON Kristian,4,3,"11,11,3,11,9,9,11|8,1,11,8,11,11,7",R16,GRAND_SLAM,MS,144,Main Draw,XU Xin (CHN),KARLSSON Kristian (SWE),XU Xin
+World Tour Swedish Open Stockholm 2014,2014-11-12,GAUZY Simon,MATSUDAIRA Kenta,4,3,"6,13,9,11,9,11,11|11,11,11,7,11,7,8",R16,GRAND_SLAM,MS,144,Main Draw,MATSUDAIRA Kenta (JPN),GAUZY Simon (FRA),GAUZY Simon
+World Tour Swedish Open Stockholm 2014,2014-11-12,TANG Peng,LIANG Jingkun,4,2,"11,11,11,12,5,11|8,8,3,14,11,7",R16,GRAND_SLAM,MS,144,Main Draw,TANG Peng (HKG),LIANG Jingkun (CHN),TANG Peng
+World Tour Swedish Open Stockholm 2014,2014-11-12,FANG Bo,OVTCHAROV Dimitrij,4,2,"4,11,11,11,11,11|11,4,8,13,5,6",R16,GRAND_SLAM,MS,144,Main Draw,FANG Bo (KAZ),OVTCHAROV Dimitrij (GER),FANG Bo
+World Tour Swedish Open Stockholm 2014,2014-11-12,WANG Hao,GARDOS Robert,4,2,"11,11,11,8,13,11|13,9,9,11,11,8",R16,GRAND_SLAM,MS,144,Main Draw,WANG Hao (CHN),GARDOS Robert (AUT),WANG Hao
+World Tour Swedish Open Stockholm 2014,2014-11-12,FREITAS Marcos,BOBOCICA Mihai,4,2,"12,5,11,11,11,11|14,11,9,7,4,2",R16,GRAND_SLAM,MS,144,Main Draw,BOBOCICA Mihai (ITA),FREITAS Marcos (POR),FREITAS Marcos
+World Tour Swedish Open Stockholm 2014,2014-11-12,YAN An,VLASOV Grigory,4,0,"12,11,11,11|10,5,8,3",R16,GRAND_SLAM,MS,144,Main Draw,YAN An (CHN),VLASOV Grigory (RUS),YAN An
+World Tour Swedish Open Stockholm 2014,2014-11-12,FAN Zhendong,MENGEL Steffen,4,3,"8,12,8,11,11,8,11|11,10,11,4,6,11,7",R16,GRAND_SLAM,MS,144,Main Draw,MENGEL Steffen (GER),FAN Zhendong (CHN),FAN Zhendong
+World Tour Swedish Open Stockholm 2014,2014-11-12,XU Xin,GAUZY Simon,4,1,"11,11,11,4,11|7,5,7,11,7",QF,GRAND_SLAM,MS,144,Main Draw,XU Xin (CHN),GAUZY Simon (FRA),XU Xin
+World Tour Swedish Open Stockholm 2014,2014-11-12,FANG Bo,TANG Peng,4,2,"11,10,5,11,11,13|7,12,11,3,9,11",QF,GRAND_SLAM,MS,144,Main Draw,TANG Peng (HKG),FANG Bo (KAZ),FANG Bo
+World Tour Swedish Open Stockholm 2014,2014-11-12,WANG Hao,FREITAS Marcos,4,2,"3,11,6,11,13,11|11,8,11,8,11,5",QF,GRAND_SLAM,MS,144,Main Draw,WANG Hao (CHN),FREITAS Marcos (POR),WANG Hao
+World Tour Swedish Open Stockholm 2014,2014-11-12,FAN Zhendong,YAN An,4,2,"11,11,11,11,11,11|5,13,5,13,8,9",QF,GRAND_SLAM,MS,144,Main Draw,YAN An (CHN),FAN Zhendong (CHN),FAN Zhendong
+World Tour Swedish Open Stockholm 2014,2014-11-12,FANG Bo,XU Xin,4,2,"12,11,4,3,11,11|10,9,11,11,6,4",SF,GRAND_SLAM,MS,144,Main Draw,XU Xin (CHN),FANG Bo (KAZ),FANG Bo
+World Tour Swedish Open Stockholm 2014,2014-11-12,FAN Zhendong,WANG Hao,4,0,"11,11,11,11|8,9,2,9",SF,GRAND_SLAM,MS,144,Main Draw,WANG Hao (CHN),FAN Zhendong (CHN),FAN Zhendong
+World Tour Swedish Open Stockholm 2014,2014-11-12,FAN Zhendong,FANG Bo,4,2,"14,18,6,5,11,11|12,16,11,11,8,5",F,GRAND_SLAM,MS,144,Main Draw,FANG Bo (KAZ),FAN Zhendong (CHN),FAN Zhendong
+World Tour Swedish Open Stockholm 2014,2014-11-12,LIU Shiwen,MATELOVA Hana,4,0,"11,18,11,11|4,16,2,7",R64,GRAND_SLAM,WS,144,Main Draw,LIU Shiwen (CHN),MATELOVA Hana (CZE),LIU Shiwen
+World Tour Swedish Open Stockholm 2014,2014-11-12,HU Melek,SABITOVA Valentina,4,1,"11,11,11,6,11|9,9,9,11,9",R64,GRAND_SLAM,WS,144,Main Draw,SABITOVA Valentina (RUS),HU Melek (TUR),HU Melek
+World Tour Swedish Open Stockholm 2014,2014-11-12,WAKAMIYA Misako,VARADY Barbora,4,0,"11,16,11,11|7,14,8,5",R64,GRAND_SLAM,WS,144,Main Draw,WAKAMIYA Misako (JPN),VARADY Barbora (SVK),WAKAMIYA Misako
+World Tour Swedish Open Stockholm 2014,2014-11-12,FENG Yalan,LI Jiao,4,0,"11,11,16,11|9,6,14,6",R64,GRAND_SLAM,WS,144,Main Draw,FENG Yalan (CHN),LI Jiao (NED),FENG Yalan
+World Tour Swedish Open Stockholm 2014,2014-11-12,LANG Kristin,MORIZONO Misaki,4,1,"11,9,11,14,11|9,11,8,12,9",R64,GRAND_SLAM,WS,144,Main Draw,MORIZONO Misaki (JPN),LANG Kristin (GER),LANG Kristin
+World Tour Swedish Open Stockholm 2014,2014-11-12,IVANCAN Irene,HUANG Yi-Hua,4,3,"11,8,11,6,6,11,11|8,11,5,11,11,8,9",R64,GRAND_SLAM,WS,144,Main Draw,HUANG Yi-Hua (TPE),IVANCAN Irene (GER),IVANCAN Irene
+World Tour Swedish Open Stockholm 2014,2014-11-12,LIN Ye,LEE Eunhye,4,1,"8,11,13,11,11|11,7,11,7,8",R64,GRAND_SLAM,WS,144,Main Draw,LIN Ye (CAN),LEE Eunhye (KOR),LIN Ye
+World Tour Swedish Open Stockholm 2014,2014-11-12,YU Mengyu,GRUNDISCH Carole,4,2,"11,6,8,11,11,11|3,11,11,9,4,8",R64,GRAND_SLAM,WS,144,Main Draw,GRUNDISCH Carole (FRA),YU Mengyu (SGP),YU Mengyu
+World Tour Swedish Open Stockholm 2014,2014-11-12,FUKUHARA Ai,MIKHAILOVA Polina,4,1,"11,8,11,11,11|4,11,7,5,8",R64,GRAND_SLAM,WS,144,Main Draw,FUKUHARA Ai (JPN),MIKHAILOVA Polina (RUS),FUKUHARA Ai
+World Tour Swedish Open Stockholm 2014,2014-11-12,VACENOVSKA Iveta,BARTHEL Zhenqi,4,1,"13,11,11,11,11|15,9,4,7,5",R64,GRAND_SLAM,WS,144,Main Draw,BARTHEL Zhenqi (GER),VACENOVSKA Iveta (CZE),VACENOVSKA Iveta
+World Tour Swedish Open Stockholm 2014,2014-11-12,CHEN Szu-Yu,YANG Xiaoxin,4,0,"15,12,11,11|13,10,7,9",R64,GRAND_SLAM,WS,144,Main Draw,CHEN Szu-Yu (TPE),YANG Xiaoxin (MON),CHEN Szu-Yu
+World Tour Swedish Open Stockholm 2014,2014-11-12,HU Limei,KOMWONG Nanthana,4,1,"11,13,11,11,11|13,11,2,6,9",R64,GRAND_SLAM,WS,144,Main Draw,KOMWONG Nanthana (THA),HU Limei (CHN),HU Limei
+World Tour Swedish Open Stockholm 2014,2014-11-12,ISHIGAKI Yuka,GU Yuting,4,3,"11,11,8,8,15,5,11|9,1,11,11,13,11,3",R64,GRAND_SLAM,WS,144,Main Draw,ISHIGAKI Yuka (JPN),GU Yuting (CHN),ISHIGAKI Yuka
+World Tour Swedish Open Stockholm 2014,2014-11-12,JEON Jihee,WINTER Sabine,4,0,"11,15,11,17|6,13,6,15",R64,GRAND_SLAM,WS,144,Main Draw,WINTER Sabine (GER),JEON Jihee (KOR),JEON Jihee
+World Tour Swedish Open Stockholm 2014,2014-11-12,LEE I-Chen,KUZMINA Elena,4,1,"11,11,11,9,13|7,4,3,11,11",R64,GRAND_SLAM,WS,144,Main Draw,LEE I-Chen (TPE),KUZMINA Elena (RUS),LEE I-Chen
+World Tour Swedish Open Stockholm 2014,2014-11-12,WU Yang,KHETKHUAN Tamolwan,4,0,"11,11,11,11|4,3,8,4",R64,GRAND_SLAM,WS,144,Main Draw,KHETKHUAN Tamolwan (THA),WU Yang (CHN),WU Yang
+World Tour Swedish Open Stockholm 2014,2014-11-12,HAN Ying,RAKOVAC Lea,4,0,"13,11,11,11|11,4,3,7",R64,GRAND_SLAM,WS,144,Main Draw,HAN Ying (GER),RAKOVAC Lea (CRO),HAN Ying
+World Tour Swedish Open Stockholm 2014,2014-11-12,LI Qian,ZHOU Yihan,4,1,"7,11,11,11,11|11,9,5,0,6",R64,GRAND_SLAM,WS,144,Main Draw,ZHOU Yihan (SGP),LI Qian (POL),LI Qian
+World Tour Swedish Open Stockholm 2014,2014-11-12,LIN Chia-Hui,BERGSTROM Linda,4,0,"11,11,11,11|6,6,4,4",R64,GRAND_SLAM,WS,144,Main Draw,BERGSTROM Linda (SWE),LIN Chia-Hui (TPE),LIN Chia-Hui
+World Tour Swedish Open Stockholm 2014,2014-11-12,YU Fu,GRZYBOWSKA-FRANC Katarzyna,4,2,"13,11,5,7,11,11|11,8,11,11,9,6",R64,GRAND_SLAM,WS,144,Main Draw,GRZYBOWSKA-FRANC Katarzyna (POL),YU Fu (POR),YU Fu
+World Tour Swedish Open Stockholm 2014,2014-11-12,MADARASZ Dora,YANG Ha Eun,4,3,"4,5,11,11,6,11,11|11,11,6,8,11,8,4",R64,GRAND_SLAM,WS,144,Main Draw,YANG Ha Eun (KOR),MADARASZ Dora (HUN),MADARASZ Dora
+World Tour Swedish Open Stockholm 2014,2014-11-12,EKHOLM Matilda,TIAN Yuan,4,1,"3,11,11,11,11|11,4,7,6,8",R64,GRAND_SLAM,WS,144,Main Draw,TIAN Yuan (CRO),EKHOLM Matilda (SWE),EKHOLM Matilda
+World Tour Swedish Open Stockholm 2014,2014-11-12,WU Jiaduo,YOO Eunchong,4,0,"11,11,11,11|8,9,1,4",R64,GRAND_SLAM,WS,144,Main Draw,WU Jiaduo (GER),YOO Eunchong (KOR),WU Jiaduo
+World Tour Swedish Open Stockholm 2014,2014-11-12,LIU Jia,BILENKO Tetyana,4,2,"8,11,6,11,11,13|11,9,11,6,6,11",R64,GRAND_SLAM,WS,144,Main Draw,BILENKO Tetyana (UKR),LIU Jia (AUT),LIU Jia
+World Tour Swedish Open Stockholm 2014,2014-11-12,ISHIKAWA Kasumi,PASKAUSKIENE Ruta,4,1,"12,7,11,11,11|10,11,6,7,5",R64,GRAND_SLAM,WS,144,Main Draw,ISHIKAWA Kasumi (JPN),PASKAUSKIENE Ruta (LTU),ISHIKAWA Kasumi
+World Tour Swedish Open Stockholm 2014,2014-11-12,PROKHOROVA Yulia,SOLJA Amelie,4,2,"6,11,5,11,11,12|11,8,11,8,9,10",R64,GRAND_SLAM,WS,144,Main Draw,PROKHOROVA Yulia (RUS),SOLJA Amelie (AUT),PROKHOROVA Yulia
+World Tour Swedish Open Stockholm 2014,2014-11-12,TIE Yana,IACOB Camelia,4,1,"11,13,10,11,14|6,11,12,3,12",R64,GRAND_SLAM,WS,144,Main Draw,TIE Yana (HKG),IACOB Camelia (ROU),TIE Yana
+World Tour Swedish Open Stockholm 2014,2014-11-12,HIRANO Sayaka,SAWETTABUT Suthasini,4,0,"11,11,11,11|6,5,6,6",R64,GRAND_SLAM,WS,144,Main Draw,SAWETTABUT Suthasini (THA),HIRANO Sayaka (JPN),HIRANO Sayaka
+World Tour Swedish Open Stockholm 2014,2014-11-12,POTA Georgina,ODOROVA Eva,4,1,"11,11,11,9,11|6,9,9,11,9",R64,GRAND_SLAM,WS,144,Main Draw,POTA Georgina (HUN),ODOROVA Eva (SVK),POTA Georgina
+World Tour Swedish Open Stockholm 2014,2014-11-12,CHENG I-Ching,NOSKOVA Yana,4,3,"11,8,11,8,11,6,11|5,11,4,11,5,11,4",R64,GRAND_SLAM,WS,144,Main Draw,NOSKOVA Yana (RUS),CHENG I-Ching (TPE),CHENG I-Ching
+World Tour Swedish Open Stockholm 2014,2014-11-12,HAPONOVA Hanna,LI Xue,4,1,"11,11,12,6,14|6,9,10,11,12",R64,GRAND_SLAM,WS,144,Main Draw,LI Xue (FRA),HAPONOVA Hanna (UKR),HAPONOVA Hanna
+World Tour Swedish Open Stockholm 2014,2014-11-12,ZHU Yuling,PENKAVOVA Katerina,4,0,"13,11,11,11|11,3,3,5",R64,GRAND_SLAM,WS,144,Main Draw,PENKAVOVA Katerina (CZE),ZHU Yuling (MAC),ZHU Yuling
+World Tour Swedish Open Stockholm 2014,2014-11-12,LIU Shiwen,HU Melek,4,1,"11,11,9,11,11|9,4,11,1,9",R32,GRAND_SLAM,WS,144,Main Draw,LIU Shiwen (CHN),HU Melek (TUR),LIU Shiwen
+World Tour Swedish Open Stockholm 2014,2014-11-12,FENG Yalan,WAKAMIYA Misako,4,0,"11,11,11,11|7,6,7,4",R32,GRAND_SLAM,WS,144,Main Draw,WAKAMIYA Misako (JPN),FENG Yalan (CHN),FENG Yalan
+World Tour Swedish Open Stockholm 2014,2014-11-12,LANG Kristin,IVANCAN Irene,4,3,"11,6,7,13,11,11,11|8,11,11,15,8,8,9",R32,GRAND_SLAM,WS,144,Main Draw,LANG Kristin (GER),IVANCAN Irene (GER),LANG Kristin
+World Tour Swedish Open Stockholm 2014,2014-11-12,YU Mengyu,LIN Ye,4,1,"11,11,9,12,11|3,8,11,10,6",R32,GRAND_SLAM,WS,144,Main Draw,LIN Ye (CAN),YU Mengyu (SGP),YU Mengyu
+World Tour Swedish Open Stockholm 2014,2014-11-12,FUKUHARA Ai,VACENOVSKA Iveta,4,1,"11,8,14,11,11|9,11,12,9,8",R32,GRAND_SLAM,WS,144,Main Draw,FUKUHARA Ai (JPN),VACENOVSKA Iveta (CZE),FUKUHARA Ai
+World Tour Swedish Open Stockholm 2014,2014-11-12,HU Limei,CHEN Szu-Yu,4,0,"11,11,11,11|4,4,4,4",R32,GRAND_SLAM,WS,144,Main Draw,CHEN Szu-Yu (TPE),HU Limei (CHN),HU Limei
+World Tour Swedish Open Stockholm 2014,2014-11-12,ISHIGAKI Yuka,JEON Jihee,4,1,"11,7,11,11,11|6,11,6,6,9",R32,GRAND_SLAM,WS,144,Main Draw,ISHIGAKI Yuka (JPN),JEON Jihee (KOR),ISHIGAKI Yuka
+World Tour Swedish Open Stockholm 2014,2014-11-12,WU Yang,LEE I-Chen,4,1,"11,11,11,8,11|6,8,6,11,7",R32,GRAND_SLAM,WS,144,Main Draw,LEE I-Chen (TPE),WU Yang (CHN),WU Yang
+World Tour Swedish Open Stockholm 2014,2014-11-12,HAN Ying,LI Qian,4,1,"6,11,11,11,11|11,3,5,4,6",R32,GRAND_SLAM,WS,144,Main Draw,HAN Ying (GER),LI Qian (POL),HAN Ying
+World Tour Swedish Open Stockholm 2014,2014-11-12,YU Fu,LIN Chia-Hui,4,2,"7,10,11,11,11,11|11,12,6,8,8,9",R32,GRAND_SLAM,WS,144,Main Draw,LIN Chia-Hui (TPE),YU Fu (POR),YU Fu
+World Tour Swedish Open Stockholm 2014,2014-11-12,MADARASZ Dora,EKHOLM Matilda,4,1,"11,7,11,11,13|4,11,8,6,11",R32,GRAND_SLAM,WS,144,Main Draw,MADARASZ Dora (HUN),EKHOLM Matilda (SWE),MADARASZ Dora
+World Tour Swedish Open Stockholm 2014,2014-11-12,LIU Jia,WU Jiaduo,4,0,"11,15,11,11|4,13,8,7",R32,GRAND_SLAM,WS,144,Main Draw,WU Jiaduo (GER),LIU Jia (AUT),LIU Jia
+World Tour Swedish Open Stockholm 2014,2014-11-12,ISHIKAWA Kasumi,PROKHOROVA Yulia,4,2,"11,8,11,12,7,13|5,11,4,10,11,11",R32,GRAND_SLAM,WS,144,Main Draw,ISHIKAWA Kasumi (JPN),PROKHOROVA Yulia (RUS),ISHIKAWA Kasumi
+World Tour Swedish Open Stockholm 2014,2014-11-12,HIRANO Sayaka,TIE Yana,4,0,"11,11,11,11|4,6,6,7",R32,GRAND_SLAM,WS,144,Main Draw,TIE Yana (HKG),HIRANO Sayaka (JPN),HIRANO Sayaka
+World Tour Swedish Open Stockholm 2014,2014-11-12,CHENG I-Ching,POTA Georgina,4,2,"14,5,11,7,11,11|12,11,7,11,8,5",R32,GRAND_SLAM,WS,144,Main Draw,POTA Georgina (HUN),CHENG I-Ching (TPE),CHENG I-Ching
+World Tour Swedish Open Stockholm 2014,2014-11-12,ZHU Yuling,HAPONOVA Hanna,4,0,"11,11,11,11|5,5,5,8",R32,GRAND_SLAM,WS,144,Main Draw,HAPONOVA Hanna (UKR),ZHU Yuling (MAC),ZHU Yuling
+World Tour Swedish Open Stockholm 2014,2014-11-12,LIU Shiwen,FENG Yalan,4,1,"7,11,11,11,11|11,6,8,5,8",R16,GRAND_SLAM,WS,144,Main Draw,LIU Shiwen (CHN),FENG Yalan (CHN),LIU Shiwen
+World Tour Swedish Open Stockholm 2014,2014-11-12,LANG Kristin,YU Mengyu,4,2,"11,9,12,11,9,11|7,11,10,4,11,9",R16,GRAND_SLAM,WS,144,Main Draw,LANG Kristin (GER),YU Mengyu (SGP),LANG Kristin
+World Tour Swedish Open Stockholm 2014,2014-11-12,FUKUHARA Ai,HU Limei,4,3,"11,11,7,5,11,9,11|5,4,11,11,8,11,9",R16,GRAND_SLAM,WS,144,Main Draw,FUKUHARA Ai (JPN),HU Limei (CHN),FUKUHARA Ai
+World Tour Swedish Open Stockholm 2014,2014-11-12,WU Yang,ISHIGAKI Yuka,4,0,"11,11,11,11|6,3,6,1",R16,GRAND_SLAM,WS,144,Main Draw,ISHIGAKI Yuka (JPN),WU Yang (CHN),WU Yang
+World Tour Swedish Open Stockholm 2014,2014-11-12,HAN Ying,YU Fu,4,0,"11,11,11,11|7,9,1,9",R16,GRAND_SLAM,WS,144,Main Draw,HAN Ying (GER),YU Fu (POR),HAN Ying
+World Tour Swedish Open Stockholm 2014,2014-11-12,LIU Jia,MADARASZ Dora,4,2,"7,13,3,11,12,11|11,11,11,7,10,3",R16,GRAND_SLAM,WS,144,Main Draw,MADARASZ Dora (HUN),LIU Jia (AUT),LIU Jia
+World Tour Swedish Open Stockholm 2014,2014-11-12,ISHIKAWA Kasumi,HIRANO Sayaka,4,2,"7,11,11,11,11,11|11,3,8,8,13,7",R16,GRAND_SLAM,WS,144,Main Draw,ISHIKAWA Kasumi (JPN),HIRANO Sayaka (JPN),ISHIKAWA Kasumi
+World Tour Swedish Open Stockholm 2014,2014-11-12,ZHU Yuling,CHENG I-Ching,4,0,"11,11,11,11|9,7,9,5",R16,GRAND_SLAM,WS,144,Main Draw,CHENG I-Ching (TPE),ZHU Yuling (MAC),ZHU Yuling
+World Tour Swedish Open Stockholm 2014,2014-11-12,LIU Shiwen,LANG Kristin,4,1,"11,11,10,14,11|9,9,12,12,7",QF,GRAND_SLAM,WS,144,Main Draw,LIU Shiwen (CHN),LANG Kristin (GER),LIU Shiwen
+World Tour Swedish Open Stockholm 2014,2014-11-12,WU Yang,FUKUHARA Ai,4,2,"5,8,11,11,11,11|11,11,3,6,6,7",QF,GRAND_SLAM,WS,144,Main Draw,FUKUHARA Ai (JPN),WU Yang (CHN),WU Yang
+World Tour Swedish Open Stockholm 2014,2014-11-12,HAN Ying,LIU Jia,4,0,"11,11,11,11|9,5,4,4",QF,GRAND_SLAM,WS,144,Main Draw,HAN Ying (GER),LIU Jia (AUT),HAN Ying
+World Tour Swedish Open Stockholm 2014,2014-11-12,ZHU Yuling,ISHIKAWA Kasumi,4,3,"11,8,11,10,11,6,11|4,11,9,12,5,11,8",QF,GRAND_SLAM,WS,144,Main Draw,ISHIKAWA Kasumi (JPN),ZHU Yuling (MAC),ZHU Yuling
+World Tour Swedish Open Stockholm 2014,2014-11-12,LIU Shiwen,WU Yang,4,3,"11,11,7,8,11,9,15|8,4,11,11,9,11,13",SF,GRAND_SLAM,WS,144,Main Draw,LIU Shiwen (CHN),WU Yang (CHN),LIU Shiwen
+World Tour Swedish Open Stockholm 2014,2014-11-12,ZHU Yuling,HAN Ying,4,0,"11,11,11,11|5,4,6,9",SF,GRAND_SLAM,WS,144,Main Draw,HAN Ying (GER),ZHU Yuling (MAC),ZHU Yuling
+World Tour Swedish Open Stockholm 2014,2014-11-12,ZHU Yuling,LIU Shiwen,4,0,"11,11,11,11|3,4,8,7",F,GRAND_SLAM,WS,144,Main Draw,LIU Shiwen (CHN),ZHU Yuling (MAC),ZHU Yuling
+World Tour Swedish Open Stockholm 2014,2014-11-12,JANG Woojin,LAMBIET Florent,3,1,"12,11,10,11|10,6,12,5",R32,GRAND_SLAM,U21MS,144,Main Draw,JANG Woojin (KOR),LAMBIET Florent (BEL),JANG Woojin
+World Tour Swedish Open Stockholm 2014,2014-11-12,LIAO Cheng-Ting,SODERLUND Hampus,3,1,"11,11,3,11|9,9,11,1",R32,GRAND_SLAM,U21MS,144,Main Draw,SODERLUND Hampus (SWE),LIAO Cheng-Ting (TPE),LIAO Cheng-Ting
+World Tour Swedish Open Stockholm 2014,2014-11-12,DESAI Harmeet,YANG Heng-Wei,3,1,"12,11,11,11|10,6,13,9",R32,GRAND_SLAM,U21MS,144,Main Draw,DESAI Harmeet (IND),YANG Heng-Wei (TPE),DESAI Harmeet
+World Tour Swedish Open Stockholm 2014,2014-11-12,GHOSH Soumyajit,KULPA Konrad,3,1,"11,11,10,11|7,9,12,6",R32,GRAND_SLAM,U21MS,144,Main Draw,KULPA Konrad (POL),GHOSH Soumyajit (IND),GHOSH Soumyajit
+World Tour Swedish Open Stockholm 2014,2014-11-12,OUAICHE Stephane,SZUDI Adam,3,1,"11,6,11,11|9,11,5,8",R32,GRAND_SLAM,U21MS,144,Main Draw,OUAICHE Stephane (ALG),SZUDI Adam (HUN),OUAICHE Stephane
+World Tour Swedish Open Stockholm 2014,2014-11-12,DEVOS Robin,ROBINOT Quentin,3,2,"9,11,11,8,11|11,9,9,11,8",R32,GRAND_SLAM,U21MS,144,Main Draw,DEVOS Robin (BEL),ROBINOT Quentin (FRA),DEVOS Robin
+World Tour Swedish Open Stockholm 2014,2014-11-12,SAKAI Asuka,ROBINOT Alexandre,3,0,"11,11,11|5,9,7",R32,GRAND_SLAM,U21MS,144,Main Draw,SAKAI Asuka (JPN),ROBINOT Alexandre (FRA),SAKAI Asuka
+World Tour Swedish Open Stockholm 2014,2014-11-12,KALLBERG Anton,WU Zhikang,3,1,"11,11,6,11|3,7,11,7",R32,GRAND_SLAM,U21MS,144,Main Draw,KALLBERG Anton (SWE),WU Zhikang (SGP),KALLBERG Anton
+World Tour Swedish Open Stockholm 2014,2014-11-12,YOSHIDA Masaki,HACHARD Antoine,3,1,"11,11,11,11|13,9,5,9",R32,GRAND_SLAM,U21MS,144,Main Draw,YOSHIDA Masaki (JPN),HACHARD Antoine (FRA),YOSHIDA Masaki
+World Tour Swedish Open Stockholm 2014,2014-11-12,REITSPIES David,HUNG Tzu-Hsiang,3,0,"11,11,11|6,9,6",R32,GRAND_SLAM,U21MS,144,Main Draw,REITSPIES David (CZE),HUNG Tzu-Hsiang (TPE),REITSPIES David
+World Tour Swedish Open Stockholm 2014,2014-11-12,HUNG Ka Tak,DYJAS Jakub,3,1,"11,11,7,15|8,9,11,13",R32,GRAND_SLAM,U21MS,144,Main Draw,DYJAS Jakub (POL),HUNG Ka Tak (HKG),HUNG Ka Tak
+World Tour Swedish Open Stockholm 2014,2014-11-12,KIM Donghyun,MUTTI Leonardo,3,1,"11,11,5,11|5,8,11,7",R32,GRAND_SLAM,U21MS,144,Main Draw,MUTTI Leonardo (ITA),KIM Donghyun (KOR),KIM Donghyun
+World Tour Swedish Open Stockholm 2014,2014-11-12,MACHI Asuka,LAKATOS Tamas,3,0,"11,12,11|6,10,5",R32,GRAND_SLAM,U21MS,144,Main Draw,MACHI Asuka (JPN),LAKATOS Tamas (HUN),MACHI Asuka
+World Tour Swedish Open Stockholm 2014,2014-11-12,LORENTZ Romain,GERALDO Joao,3,0,"12,11,11|10,9,6",R32,GRAND_SLAM,U21MS,144,Main Draw,GERALDO Joao (POR),LORENTZ Romain (FRA),LORENTZ Romain
+World Tour Swedish Open Stockholm 2014,2014-11-12,HO Kwan Kit,XIN Zhaoxu,3,0,"11,11,11|7,6,7",R32,GRAND_SLAM,U21MS,144,Main Draw,HO Kwan Kit (HKG),XIN Zhaoxu (SGP),HO Kwan Kit
+World Tour Swedish Open Stockholm 2014,2014-11-12,OSHIMA Yuya,DUDA Benedikt,3,0,"11,11,11|6,3,7",R32,GRAND_SLAM,U21MS,144,Main Draw,DUDA Benedikt (GER),OSHIMA Yuya (JPN),OSHIMA Yuya
+World Tour Swedish Open Stockholm 2014,2014-11-12,JANG Woojin,LIAO Cheng-Ting,3,1,"11,12,6,11|5,10,11,5",R16,GRAND_SLAM,U21MS,144,Main Draw,JANG Woojin (KOR),LIAO Cheng-Ting (TPE),JANG Woojin
+World Tour Swedish Open Stockholm 2014,2014-11-12,GHOSH Soumyajit,DESAI Harmeet,3,0,"11,11,11|3,3,8",R16,GRAND_SLAM,U21MS,144,Main Draw,DESAI Harmeet (IND),GHOSH Soumyajit (IND),GHOSH Soumyajit
+World Tour Swedish Open Stockholm 2014,2014-11-12,OUAICHE Stephane,DEVOS Robin,3,1,"11,11,11,12|6,13,6,10",R16,GRAND_SLAM,U21MS,144,Main Draw,OUAICHE Stephane (ALG),DEVOS Robin (BEL),OUAICHE Stephane
+World Tour Swedish Open Stockholm 2014,2014-11-12,KALLBERG Anton,SAKAI Asuka,3,0,"11,17,13|5,15,11",R16,GRAND_SLAM,U21MS,144,Main Draw,SAKAI Asuka (JPN),KALLBERG Anton (SWE),KALLBERG Anton
+World Tour Swedish Open Stockholm 2014,2014-11-12,YOSHIDA Masaki,REITSPIES David,3,1,"10,11,11,11|12,8,6,7",R16,GRAND_SLAM,U21MS,144,Main Draw,YOSHIDA Masaki (JPN),REITSPIES David (CZE),YOSHIDA Masaki
+World Tour Swedish Open Stockholm 2014,2014-11-12,KIM Donghyun,HUNG Ka Tak,3,0,"11,11,11|4,3,6",R16,GRAND_SLAM,U21MS,144,Main Draw,HUNG Ka Tak (HKG),KIM Donghyun (KOR),KIM Donghyun
+World Tour Swedish Open Stockholm 2014,2014-11-12,LORENTZ Romain,MACHI Asuka,3,2,"11,11,11,9,11|7,13,9,11,9",R16,GRAND_SLAM,U21MS,144,Main Draw,MACHI Asuka (JPN),LORENTZ Romain (FRA),LORENTZ Romain
+World Tour Swedish Open Stockholm 2014,2014-11-12,HO Kwan Kit,OSHIMA Yuya,3,0,"11,11,11|8,6,7",R16,GRAND_SLAM,U21MS,144,Main Draw,HO Kwan Kit (HKG),OSHIMA Yuya (JPN),HO Kwan Kit
+World Tour Swedish Open Stockholm 2014,2014-11-12,GHOSH Soumyajit,JANG Woojin,4,0,"11,11,14,11|8,9,12,5",QF,GRAND_SLAM,U21MS,144,Main Draw,JANG Woojin (KOR),GHOSH Soumyajit (IND),GHOSH Soumyajit
+World Tour Swedish Open Stockholm 2014,2014-11-12,KALLBERG Anton,OUAICHE Stephane,4,2,"11,8,5,11,11,11|5,11,11,8,4,9",QF,GRAND_SLAM,U21MS,144,Main Draw,OUAICHE Stephane (ALG),KALLBERG Anton (SWE),KALLBERG Anton
+World Tour Swedish Open Stockholm 2014,2014-11-12,YOSHIDA Masaki,KIM Donghyun,4,1,"11,11,11,8,13|5,9,7,11,11",QF,GRAND_SLAM,U21MS,144,Main Draw,YOSHIDA Masaki (JPN),KIM Donghyun (KOR),YOSHIDA Masaki
+World Tour Swedish Open Stockholm 2014,2014-11-12,HO Kwan Kit,LORENTZ Romain,4,1,"11,9,11,11,11|9,11,4,8,8",QF,GRAND_SLAM,U21MS,144,Main Draw,LORENTZ Romain (FRA),HO Kwan Kit (HKG),HO Kwan Kit
+World Tour Swedish Open Stockholm 2014,2014-11-12,GHOSH Soumyajit,KALLBERG Anton,4,3,"11,7,4,11,11,11,12|5,11,11,6,6,13,10",SF,GRAND_SLAM,U21MS,144,Main Draw,GHOSH Soumyajit (IND),KALLBERG Anton (SWE),GHOSH Soumyajit
+World Tour Swedish Open Stockholm 2014,2014-11-12,YOSHIDA Masaki,HO Kwan Kit,4,1,"8,11,11,12,11|11,7,4,10,9",SF,GRAND_SLAM,U21MS,144,Main Draw,YOSHIDA Masaki (JPN),HO Kwan Kit (HKG),YOSHIDA Masaki
+World Tour Swedish Open Stockholm 2014,2014-11-12,YOSHIDA Masaki,GHOSH Soumyajit,4,3,"4,10,11,12,9,11,11|11,12,9,10,11,4,5",F,GRAND_SLAM,U21MS,144,Main Draw,GHOSH Soumyajit (IND),YOSHIDA Masaki (JPN),YOSHIDA Masaki
+World Tour Swedish Open Stockholm 2014,2014-11-12,ZARIF Audrey,LIN Ye,3,2,"10,11,1,11,14|12,6,11,3,12",R32,GRAND_SLAM,U21WS,144,Main Draw,LIN Ye (CAN),ZARIF Audrey (FRA),ZARIF Audrey
+World Tour Swedish Open Stockholm 2014,2014-11-12,SAWETTABUT Suthasini,CIOBANU Irina,3,0,"11,11,11|7,8,6",R32,GRAND_SLAM,U21WS,144,Main Draw,CIOBANU Irina (ROU),SAWETTABUT Suthasini (THA),SAWETTABUT Suthasini
+World Tour Swedish Open Stockholm 2014,2014-11-12,MADARASZ Dora,BERGSTROM Linda,3,0,"11,11,11|2,9,8",R32,GRAND_SLAM,U21WS,144,Main Draw,MADARASZ Dora (HUN),BERGSTROM Linda (SWE),MADARASZ Dora
+World Tour Swedish Open Stockholm 2014,2014-11-12,ZHOU Yihan,PICCOLIN Giorgia,3,0,"11,11,11|9,3,7",R32,GRAND_SLAM,U21WS,144,Main Draw,PICCOLIN Giorgia (ITA),ZHOU Yihan (SGP),ZHOU Yihan
+World Tour Swedish Open Stockholm 2014,2014-11-12,SATO Hitomi,LOYEN Eline,3,0,"11,11,11|5,1,5",R32,GRAND_SLAM,U21WS,144,Main Draw,SATO Hitomi (JPN),LOYEN Eline (BEL),SATO Hitomi
+World Tour Swedish Open Stockholm 2014,2014-11-12,RAKOVAC Lea,LEE Eunhye,3,0,"11,11,11|5,5,4",R32,GRAND_SLAM,U21WS,144,Main Draw,LEE Eunhye (KOR),RAKOVAC Lea (CRO),RAKOVAC Lea
+World Tour Swedish Open Stockholm 2014,2014-11-12,KHETKHUAN Tamolwan,MOSKOVITS Daniela,3,1,"11,9,11,11|6,11,7,5",R32,GRAND_SLAM,U21WS,144,Main Draw,KHETKHUAN Tamolwan (THA),MOSKOVITS Daniela (SWE),KHETKHUAN Tamolwan
+World Tour Swedish Open Stockholm 2014,2014-11-12,ITO Mima,ASCHWANDEN Rahel,3,0,"11,11,11|8,3,5",R32,GRAND_SLAM,U21WS,144,Main Draw,ASCHWANDEN Rahel (SUI),ITO Mima (JPN),ITO Mima
+World Tour Swedish Open Stockholm 2014,2014-11-12,HIRANO Miu,MIGOT Marie,3,0,"11,11,11|5,5,9",R32,GRAND_SLAM,U21WS,144,Main Draw,HIRANO Miu (JPN),MIGOT Marie (FRA),HIRANO Miu
+World Tour Swedish Open Stockholm 2014,2014-11-12,NOSKOVA Yana,VIVARELLI Debora,3,1,"11,6,11,11|4,11,5,5",R32,GRAND_SLAM,U21WS,144,Main Draw,VIVARELLI Debora (ITA),NOSKOVA Yana (RUS),NOSKOVA Yana
+World Tour Swedish Open Stockholm 2014,2014-11-12,LI Isabelle Siyun,LI Ching Wan,3,1,"11,11,7,12|8,6,11,10",R32,GRAND_SLAM,U21WS,144,Main Draw,LI Isabelle Siyun (SGP),LI Ching Wan (HKG),LI Isabelle Siyun
+World Tour Swedish Open Stockholm 2014,2014-11-12,KATO Miyu,SCHUH Anja,3,0,"11,11,11|8,8,4",R32,GRAND_SLAM,U21WS,144,Main Draw,SCHUH Anja (GER),KATO Miyu (JPN),KATO Miyu
+World Tour Swedish Open Stockholm 2014,2014-11-12,MAEDA Miyu,CHASSELIN Pauline,3,2,"12,8,11,11,11|14,11,7,9,3",R32,GRAND_SLAM,U21WS,144,Main Draw,MAEDA Miyu (JPN),CHASSELIN Pauline (FRA),MAEDA Miyu
+World Tour Swedish Open Stockholm 2014,2014-11-12,YOO Eunchong,KALLBERG Christina,3,1,"6,11,11,11|11,8,5,7",R32,GRAND_SLAM,U21WS,144,Main Draw,KALLBERG Christina (SWE),YOO Eunchong (KOR),YOO Eunchong
+World Tour Swedish Open Stockholm 2014,2014-11-12,XIAO Maria,GASNIER Laura,3,2,"11,5,7,11,11|8,11,11,9,6",R32,GRAND_SLAM,U21WS,144,Main Draw,GASNIER Laura (FRA),XIAO Maria (ESP),XIAO Maria
+World Tour Swedish Open Stockholm 2014,2014-11-12,CHEN Szu-Yu,HADZIAHMETOVIC Emina,3,0,"11,11,11|2,2,3",R32,GRAND_SLAM,U21WS,144,Main Draw,HADZIAHMETOVIC Emina (BIH),CHEN Szu-Yu (TPE),CHEN Szu-Yu
+World Tour Swedish Open Stockholm 2014,2014-11-12,SAWETTABUT Suthasini,ZARIF Audrey,3,1,"10,11,11,11|12,8,6,9",R16,GRAND_SLAM,U21WS,144,Main Draw,ZARIF Audrey (FRA),SAWETTABUT Suthasini (THA),SAWETTABUT Suthasini
+World Tour Swedish Open Stockholm 2014,2014-11-12,ZHOU Yihan,MADARASZ Dora,3,0,"11,11,11|5,8,7",R16,GRAND_SLAM,U21WS,144,Main Draw,MADARASZ Dora (HUN),ZHOU Yihan (SGP),ZHOU Yihan
+World Tour Swedish Open Stockholm 2014,2014-11-12,SATO Hitomi,RAKOVAC Lea,3,1,"11,11,5,11|3,7,11,7",R16,GRAND_SLAM,U21WS,144,Main Draw,SATO Hitomi (JPN),RAKOVAC Lea (CRO),SATO Hitomi
+World Tour Swedish Open Stockholm 2014,2014-11-12,KHETKHUAN Tamolwan,ITO Mima,3,1,"12,6,11,11|10,11,6,5",R16,GRAND_SLAM,U21WS,144,Main Draw,KHETKHUAN Tamolwan (THA),ITO Mima (JPN),KHETKHUAN Tamolwan
+World Tour Swedish Open Stockholm 2014,2014-11-12,HIRANO Miu,NOSKOVA Yana,3,0,"11,11,11|5,9,7",R16,GRAND_SLAM,U21WS,144,Main Draw,HIRANO Miu (JPN),NOSKOVA Yana (RUS),HIRANO Miu
+World Tour Swedish Open Stockholm 2014,2014-11-12,LI Isabelle Siyun,KATO Miyu,3,2,"11,6,11,11,11|13,11,7,8,7",R16,GRAND_SLAM,U21WS,144,Main Draw,LI Isabelle Siyun (SGP),KATO Miyu (JPN),LI Isabelle Siyun
+World Tour Swedish Open Stockholm 2014,2014-11-12,MAEDA Miyu,YOO Eunchong,3,1,"5,12,11,12|11,10,7,10",R16,GRAND_SLAM,U21WS,144,Main Draw,MAEDA Miyu (JPN),YOO Eunchong (KOR),MAEDA Miyu
+World Tour Swedish Open Stockholm 2014,2014-11-12,XIAO Maria,CHEN Szu-Yu,3,1,"11,11,11,11|7,4,13,7",R16,GRAND_SLAM,U21WS,144,Main Draw,XIAO Maria (ESP),CHEN Szu-Yu (TPE),XIAO Maria
+World Tour Swedish Open Stockholm 2014,2014-11-12,SAWETTABUT Suthasini,ZHOU Yihan,4,3,"11,13,11,11,9,8,12|5,15,6,7,11,11,10",QF,GRAND_SLAM,U21WS,144,Main Draw,SAWETTABUT Suthasini (THA),ZHOU Yihan (SGP),SAWETTABUT Suthasini
+World Tour Swedish Open Stockholm 2014,2014-11-12,SATO Hitomi,KHETKHUAN Tamolwan,4,2,"11,7,12,11,11,11|6,11,14,9,7,7",QF,GRAND_SLAM,U21WS,144,Main Draw,SATO Hitomi (JPN),KHETKHUAN Tamolwan (THA),SATO Hitomi
+World Tour Swedish Open Stockholm 2014,2014-11-12,HIRANO Miu,LI Isabelle Siyun,4,2,"11,11,7,9,11,11|8,9,11,11,6,9",QF,GRAND_SLAM,U21WS,144,Main Draw,HIRANO Miu (JPN),LI Isabelle Siyun (SGP),HIRANO Miu
+World Tour Swedish Open Stockholm 2014,2014-11-12,MAEDA Miyu,XIAO Maria,4,0,"11,11,11,11|5,4,8,4",QF,GRAND_SLAM,U21WS,144,Main Draw,MAEDA Miyu (JPN),XIAO Maria (ESP),MAEDA Miyu
+World Tour Swedish Open Stockholm 2014,2014-11-12,SATO Hitomi,SAWETTABUT Suthasini,4,1,"6,11,11,11,11|11,5,6,3,7",SF,GRAND_SLAM,U21WS,144,Main Draw,SAWETTABUT Suthasini (THA),SATO Hitomi (JPN),SATO Hitomi
+World Tour Swedish Open Stockholm 2014,2014-11-12,HIRANO Miu,MAEDA Miyu,4,0,"12,11,13,11|10,8,11,5",SF,GRAND_SLAM,U21WS,144,Main Draw,HIRANO Miu (JPN),MAEDA Miyu (JPN),HIRANO Miu
+World Tour Swedish Open Stockholm 2014,2014-11-12,SATO Hitomi,HIRANO Miu,4,0,"11,11,11,11|6,6,4,4",F,GRAND_SLAM,U21WS,144,Main Draw,SATO Hitomi (JPN),HIRANO Miu (JPN),SATO Hitomi
+World Tour Swedish Open Stockholm 2014,2014-11-12,TANG Peng/WONG Chun Ting,CALDERANO Hugo/TSUBOI Gustavo,3,0,"11,11,11|8,2,8",R16,GRAND_SLAM,MD,144,Main Draw,TANG Peng (HKG) / WONG Chun Ting (HKG),CALDERANO Hugo (BRA) / TSUBOI Gustavo (BRA),TANG Peng
+World Tour Swedish Open Stockholm 2014,2014-11-12,FANG Bo/LIANG Jingkun,GERELL Par/LUNDQVIST Jens,3,2,"11,5,10,12,13|9,11,12,10,11",QF,GRAND_SLAM,MD,144,Main Draw,FANG Bo (KAZ) / LIANG Jingkun (CHN),GERELL Par (SWE) / LUNDQVIST Jens (SWE),FANG Bo
+World Tour Swedish Open Stockholm 2014,2014-11-12,WANG Hao/YAN An,FAN Zhendong/XU Xin,3,2,"11,4,11,9,11|3,11,5,11,6",F,GRAND_SLAM,MD,144,Main Draw,WANG Hao (CHN) / YAN An (CHN),FAN Zhendong (CHN) / XU Xin (CHN),WANG Hao
+World Tour Swedish Open Stockholm 2014,2014-11-12,HU Limei/WU Yang,LEE Eunhye/YOO Eunchong,3,0,"11,11,12|3,6,10",QF,GRAND_SLAM,WD,144,Main Draw,HU Limei (CHN) / WU Yang (CHN),LEE Eunhye (KOR) / YOO Eunchong (KOR),HU Limei
+World Tour Swedish Open Stockholm 2014,2014-11-12,HU Limei/WU Yang,HIRANO Miu/ITO Mima,3,1,"12,6,11,11|10,11,3,8",SF,GRAND_SLAM,WD,144,Main Draw,HU Limei (CHN) / WU Yang (CHN),HIRANO Miu (JPN) / ITO Mima (JPN),HU Limei
+World Tour Swedish Open Stockholm 2014,2014-11-12,LIU Shiwen/ZHU Yuling,HU Limei/WU Yang,3,0,"11,12,12|3,10,10",F,GRAND_SLAM,WD,144,Main Draw,LIU Shiwen (CHN) / ZHU Yuling (MAC),HU Limei (CHN) / WU Yang (CHN),LIU Shiwen
+World Tour Swedish Open Stockholm 2014,2014-11-12,LIU Shiwen/ZHU Yuling,MADARASZ Dora/RAKOVAC Lea,3,0,"11,11,11|7,5,5",R16,GRAND_SLAM,WD,144,Main Draw,LIU Shiwen (CHN) / ZHU Yuling (MAC),MADARASZ Dora (HUN) / RAKOVAC Lea (CRO),LIU Shiwen
+World Tour Swedish Open Stockholm 2014,2014-11-12,GERELL Par/LUNDQVIST Jens,DRINKHALL Paul/PITCHFORD Liam,3,1,"11,9,11,11|9,11,3,9",R16,GRAND_SLAM,MD,144,Main Draw,GERELL Par (SWE) / LUNDQVIST Jens (SWE),DRINKHALL Paul (ENG) / PITCHFORD Liam (ENG),GERELL Par
+World Tour Swedish Open Stockholm 2014,2014-11-12,GARDOS Robert/HABESOHN Daniel,GAUZY Simon/LEBESSON Emmanuel,3,2,"9,11,8,11,12|11,6,11,9,10",R16,GRAND_SLAM,MD,144,Main Draw,GARDOS Robert (AUT) / HABESOHN Daniel (AUT),GAUZY Simon (FRA) / LEBESSON Emmanuel (FRA),GARDOS Robert
+World Tour Swedish Open Stockholm 2014,2014-11-12,HIRANO Miu/ITO Mima,HAN Ying/IVANCAN Irene,3,2,"6,11,11,3,11|11,4,3,11,7",QF,GRAND_SLAM,WD,144,Main Draw,HIRANO Miu (JPN) / ITO Mima (JPN),HAN Ying (GER) / IVANCAN Irene (GER),HIRANO Miu
+World Tour Swedish Open Stockholm 2014,2014-11-12,TSUBOI Yuma/YOSHIMURA Kazuhiro,KARLSSON Kristian/KARLSSON Mattias,3,2,"11,5,11,6,11|6,11,9,11,8",R16,GRAND_SLAM,MD,144,Main Draw,TSUBOI Yuma (JPN) / YOSHIMURA Kazuhiro (JPN),KARLSSON Kristian (SWE) / KARLSSON Mattias (SWE),TSUBOI Yuma
+World Tour Swedish Open Stockholm 2014,2014-11-12,WANG Hao/YAN An,MORIZONO Masataka/OSHIMA Yuya,3,1,"6,11,11,11|11,6,5,6",R16,GRAND_SLAM,MD,144,Main Draw,WANG Hao (CHN) / YAN An (CHN),MORIZONO Masataka (JPN) / OSHIMA Yuya (JPN),WANG Hao
+World Tour Swedish Open Stockholm 2014,2014-11-12,FAN Zhendong/XU Xin,MATSUDAIRA Kenta/NIWA Koki,3,1,"11,11,6,11|5,8,11,6",R16,GRAND_SLAM,MD,144,Main Draw,FAN Zhendong (CHN) / XU Xin (CHN),MATSUDAIRA Kenta (JPN) / NIWA Koki (JPN),FAN Zhendong
+World Tour Swedish Open Stockholm 2014,2014-11-12,FENG Yalan/GU Yuting,FUKUHARA Ai/WAKAMIYA Misako,3,0,"11,11,11|4,7,8",R16,GRAND_SLAM,WD,144,Main Draw,FENG Yalan (CHN) / GU Yuting (CHN),FUKUHARA Ai (JPN) / WAKAMIYA Misako (JPN),FENG Yalan
+World Tour Swedish Open Stockholm 2014,2014-11-12,LEE Eunhye/YOO Eunchong,EKHOLM Matilda/MOSKOVITS Daniela,3,0,"11,11,11|9,5,5",R16,GRAND_SLAM,WD,144,Main Draw,LEE Eunhye (KOR) / YOO Eunchong (KOR),EKHOLM Matilda (SWE) / MOSKOVITS Daniela (SWE),LEE Eunhye
+World Tour Swedish Open Stockholm 2014,2014-11-12,HAN Ying/IVANCAN Irene,GRZYBOWSKA-FRANC Katarzyna/PARTYKA Natalia,3,1,"7,11,11,13|11,9,7,11",R16,GRAND_SLAM,WD,144,Main Draw,HAN Ying (GER) / IVANCAN Irene (GER),GRZYBOWSKA-FRANC Katarzyna (POL) / PARTYKA Natalia (POL),HAN Ying
+World Tour Swedish Open Stockholm 2014,2014-11-12,FANG Bo/LIANG Jingkun,LIVENTSOV Alexey/PAIKOV Mikhail,3,1,"8,11,11,11|11,9,9,7",R16,GRAND_SLAM,MD,144,Main Draw,FANG Bo (KAZ) / LIANG Jingkun (CHN),LIVENTSOV Alexey (RUS) / PAIKOV Mikhail (RUS),FANG Bo
+World Tour Swedish Open Stockholm 2014,2014-11-12,FENG Tianwei/YU Mengyu,LANG Kristin/WINTER Sabine,3,2,"9,12,10,11,11|11,10,12,8,9",R16,GRAND_SLAM,WD,144,Main Draw,FENG Tianwei (SGP) / YU Mengyu (SGP),LANG Kristin (GER) / WINTER Sabine (GER),FENG Tianwei
+World Tour Swedish Open Stockholm 2014,2014-11-12,FENG Tianwei/YU Mengyu,CHEN Szu-Yu/LIN Chia-Hui,3,1,"9,11,15,11|11,8,13,8",QF,GRAND_SLAM,WD,144,Main Draw,FENG Tianwei (SGP) / YU Mengyu (SGP),CHEN Szu-Yu (TPE) / LIN Chia-Hui (TPE),FENG Tianwei
+World Tour Swedish Open Stockholm 2014,2014-11-12,LIU Shiwen/ZHU Yuling,FENG Tianwei/YU Mengyu,3,0,"11,11,11|4,9,7",SF,GRAND_SLAM,WD,144,Main Draw,LIU Shiwen (CHN) / ZHU Yuling (MAC),FENG Tianwei (SGP) / YU Mengyu (SGP),LIU Shiwen
+World Tour Swedish Open Stockholm 2014,2014-11-12,HIRANO Miu/ITO Mima,KOMWONG Nanthana/SAWETTABUT Suthasini,3,0,"11,11,11|8,8,3",R16,GRAND_SLAM,WD,144,Main Draw,HIRANO Miu (JPN) / ITO Mima (JPN),KOMWONG Nanthana (THA) / SAWETTABUT Suthasini (THA),HIRANO Miu
+World Tour Swedish Open Stockholm 2014,2014-11-12,CHIANG Hung-Chieh/HUANG Sheng-Sheng,BAI He/KOBES Kristian,3,1,"11,8,11,11|8,11,3,8",R16,GRAND_SLAM,MD,144,Main Draw,CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE),BAI He (SVK) / KOBES Kristian (SVK),CHIANG Hung-Chieh
+World Tour Swedish Open Stockholm 2014,2014-11-12,CHIANG Hung-Chieh/HUANG Sheng-Sheng,TSUBOI Yuma/YOSHIMURA Kazuhiro,3,1,"8,11,11,11|11,8,6,5",QF,GRAND_SLAM,MD,144,Main Draw,CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE),TSUBOI Yuma (JPN) / YOSHIMURA Kazuhiro (JPN),CHIANG Hung-Chieh
+World Tour Swedish Open Stockholm 2014,2014-11-12,WANG Hao/YAN An,CHIANG Hung-Chieh/HUANG Sheng-Sheng,3,0,"11,11,11|9,6,5",SF,GRAND_SLAM,MD,144,Main Draw,WANG Hao (CHN) / YAN An (CHN),CHIANG Hung-Chieh (TPE) / HUANG Sheng-Sheng (TPE),WANG Hao
+World Tour Swedish Open Stockholm 2014,2014-11-12,CHEN Szu-Yu/LIN Chia-Hui,JEON Jihee/YANG Ha Eun,3,0,"11,11,11|2,9,6",R16,GRAND_SLAM,WD,144,Main Draw,CHEN Szu-Yu (TPE) / LIN Chia-Hui (TPE),JEON Jihee (KOR) / YANG Ha Eun (KOR),CHEN Szu-Yu
+World Tour Swedish Open Stockholm 2014,2014-11-12,HU Limei/WU Yang,CHENG I-Ching/HUANG Yi-Hua,3,1,"6,11,11,11|11,7,9,4",R16,GRAND_SLAM,WD,144,Main Draw,HU Limei (CHN) / WU Yang (CHN),CHENG I-Ching (TPE) / HUANG Yi-Hua (TPE),HU Limei

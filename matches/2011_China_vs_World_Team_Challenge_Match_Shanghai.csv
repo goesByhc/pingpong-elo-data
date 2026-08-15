@@ -1,13 +1,13 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw
-China vs World Team Challenge Match Shanghai 2011,2011-06-24,WU Jiaji,ROBINOT Quentin,3,0,"12,12,11|10,10,8",F,WTT_FEEDER,JBS,717,Main Draw,WU Jiaji (DOM),ROBINOT Quentin (FRA)
-China vs World Team Challenge Match Shanghai 2011,2011-06-24,ZHU Yuling,YANG Ha Eun,3,0,"11,11,11|8,6,4",F,WTT_FEEDER,JGS,717,Main Draw,ZHU Yuling (MAC),YANG Ha Eun (KOR)
-China vs World Team Challenge Match Shanghai 2011,2011-06-24,MA Long,MIZUTANI Jun,3,0,"12,11,11|10,9,4",,WTT_FEEDER,MT,717,Main Draw,MA Long (CHN),MIZUTANI Jun (JPN)
-China vs World Team Challenge Match Shanghai 2011,2011-06-24,BOLL Timo,XU Xin,3,2,"12,4,9,11,11|10,11,11,3,3",,WTT_FEEDER,MT,717,Main Draw,BOLL Timo (GER),XU Xin (CHN)
-China vs World Team Challenge Match Shanghai 2011,2011-06-24,MA Lin,JOO Saehyuk,3,1,"11,11,7,11|3,9,11,3",,WTT_FEEDER,MT,717,Main Draw,MA Lin (CHN),JOO Saehyuk (KOR)
-China vs World Team Challenge Match Shanghai 2011,2011-06-24,MA Long,BOLL Timo,3,0,"11,11,11|9,3,5",,WTT_FEEDER,MT,717,Main Draw,MA Long (CHN),BOLL Timo (GER)
-China vs World Team Challenge Match Shanghai 2011,2011-06-24,XU Xin,MIZUTANI Jun,3,0,"11,12,12|9,10,10",,WTT_FEEDER,MT,717,Main Draw,XU Xin (CHN),MIZUTANI Jun (JPN)
-China vs World Team Challenge Match Shanghai 2011,2011-06-24,GUO Yan (1982),KIM Kyungah,3,0,"11,11,11|8,3,7",,WTT_FEEDER,WT,717,Main Draw,GUO Yan (1982) (CHN),KIM Kyungah (KOR)
-China vs World Team Challenge Match Shanghai 2011,2011-06-24,FENG Tianwei,FENG Yalan,3,2,"9,11,11,5,11|11,9,7,11,7",,WTT_FEEDER,WT,717,Main Draw,FENG Tianwei (SGP),FENG Yalan (CHN)
-China vs World Team Challenge Match Shanghai 2011,2011-06-24,TIE Yana,ZHU Yuling,3,1,"10,12,11,11|12,10,4,8",,WTT_FEEDER,WT,717,Main Draw,TIE Yana (HKG),ZHU Yuling (MAC)
-China vs World Team Challenge Match Shanghai 2011,2011-06-24,FENG Tianwei,GUO Yan (1982),3,2,"8,10,11,11,11|11,12,9,9,9",,WTT_FEEDER,WT,717,Main Draw,FENG Tianwei (SGP),GUO Yan (1982) (CHN)
-China vs World Team Challenge Match Shanghai 2011,2011-06-24,FENG Yalan,KIM Kyungah,3,0,"11,11,11|8,2,7",,WTT_FEEDER,WT,717,Main Draw,FENG Yalan (CHN),KIM Kyungah (KOR)
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+China vs World Team Challenge Match Shanghai 2011,2011-06-24,WU Jiaji,ROBINOT Quentin,3,0,"12,12,11|10,10,8",F,WTT_FEEDER,JBS,717,Main Draw,WU Jiaji (DOM),ROBINOT Quentin (FRA),WU Jiaji
+China vs World Team Challenge Match Shanghai 2011,2011-06-24,ZHU Yuling,YANG Ha Eun,3,0,"11,11,11|8,6,4",F,WTT_FEEDER,JGS,717,Main Draw,ZHU Yuling (MAC),YANG Ha Eun (KOR),ZHU Yuling
+China vs World Team Challenge Match Shanghai 2011,2011-06-24,MA Long,MIZUTANI Jun,3,0,"12,11,11|10,9,4",,WTT_FEEDER,MT,717,Main Draw,MA Long (CHN),MIZUTANI Jun (JPN),MA Long
+China vs World Team Challenge Match Shanghai 2011,2011-06-24,BOLL Timo,XU Xin,3,2,"12,4,9,11,11|10,11,11,3,3",,WTT_FEEDER,MT,717,Main Draw,BOLL Timo (GER),XU Xin (CHN),BOLL Timo
+China vs World Team Challenge Match Shanghai 2011,2011-06-24,MA Lin,JOO Saehyuk,3,1,"11,11,7,11|3,9,11,3",,WTT_FEEDER,MT,717,Main Draw,MA Lin (CHN),JOO Saehyuk (KOR),MA Lin
+China vs World Team Challenge Match Shanghai 2011,2011-06-24,MA Long,BOLL Timo,3,0,"11,11,11|9,3,5",,WTT_FEEDER,MT,717,Main Draw,MA Long (CHN),BOLL Timo (GER),MA Long
+China vs World Team Challenge Match Shanghai 2011,2011-06-24,XU Xin,MIZUTANI Jun,3,0,"11,12,12|9,10,10",,WTT_FEEDER,MT,717,Main Draw,XU Xin (CHN),MIZUTANI Jun (JPN),XU Xin
+China vs World Team Challenge Match Shanghai 2011,2011-06-24,GUO Yan (1982),KIM Kyungah,3,0,"11,11,11|8,3,7",,WTT_FEEDER,WT,717,Main Draw,GUO Yan (1982) (CHN),KIM Kyungah (KOR),GUO Yan (1982)
+China vs World Team Challenge Match Shanghai 2011,2011-06-24,FENG Tianwei,FENG Yalan,3,2,"9,11,11,5,11|11,9,7,11,7",,WTT_FEEDER,WT,717,Main Draw,FENG Tianwei (SGP),FENG Yalan (CHN),FENG Tianwei
+China vs World Team Challenge Match Shanghai 2011,2011-06-24,TIE Yana,ZHU Yuling,3,1,"10,12,11,11|12,10,4,8",,WTT_FEEDER,WT,717,Main Draw,TIE Yana (HKG),ZHU Yuling (MAC),TIE Yana
+China vs World Team Challenge Match Shanghai 2011,2011-06-24,FENG Tianwei,GUO Yan (1982),3,2,"8,10,11,11,11|11,12,9,9,9",,WTT_FEEDER,WT,717,Main Draw,FENG Tianwei (SGP),GUO Yan (1982) (CHN),FENG Tianwei
+China vs World Team Challenge Match Shanghai 2011,2011-06-24,FENG Yalan,KIM Kyungah,3,0,"11,11,11|8,2,7",,WTT_FEEDER,WT,717,Main Draw,FENG Yalan (CHN),KIM Kyungah (KOR),FENG Yalan
