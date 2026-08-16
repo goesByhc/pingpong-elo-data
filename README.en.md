@@ -177,7 +177,7 @@ The cross-file dedup key is **(tournament, date, sorted player pair, sub_event, 
 
 ### Team-Event Individual Matches (team/)
 
-`data/matches/team/` holds individual rubbers from team events (e.g. German Bundesliga, Champions League) with **only the first 9 columns**: `tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier`. They are scored as team/individual entities on load (Elo weight ×0.7 for team events).
+`data/matches/team/` holds individual rubbers from team events (e.g. German Bundesliga, Champions League) with **only the first 9 columns**: `tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier`. They are scored as team/individual entities on load (Elo weight ×0.5 for team events).
 
 ## Calculation Scope
 

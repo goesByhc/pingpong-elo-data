@@ -177,7 +177,7 @@ data/
 
 ### 团体赛个人盘次（team/）
 
-`data/matches/team/` 存放团体赛事中的逐场个人盘次（如德甲、欧冠联赛），**仅含前 9 列**：`tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier`。加载时按队伍/个人计分（ELO 权重按团队 ×0.7）。
+`data/matches/team/` 存放团体赛事中的逐场个人盘次（如德甲、欧冠联赛），**仅含前 9 列**：`tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier`。加载时按队伍/个人计分（ELO 权重按团队 ×0.5）。
 
 ## 计算口径
 

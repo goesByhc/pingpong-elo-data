@@ -25,7 +25,7 @@
     "GROUP": 0.75, "QUAL": 0.60, "VICTORY": 0.50
   },
   "match_type_factor": {
-    "singles": 1.0, "doubles": 0.7, "team": 0.7
+    "singles": 1.0, "doubles": 0.5, "team": 0.5
   },
   "tournament_rules": [
     { "pattern": "Olympic Qualif",                    "tier": "OTHER" },
