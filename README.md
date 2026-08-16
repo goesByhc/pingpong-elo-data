@@ -115,6 +115,7 @@ data/
 | `event_id` | 来源站点中的赛事 id |
 | `stage` | 阶段，如 `Qualification` / `Main Draw` / `Position Draw` |
 | `player_a_raw` / `player_b_raw` | 归一化前的原始姓名 |
+| `winner_raw` | 明确写明胜者 |
 
 ### 轮次代码
 
