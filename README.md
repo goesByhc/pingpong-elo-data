@@ -91,39 +91,93 @@ data/
 
 ## 比赛 CSV 规则
 
-比赛文件位于 `data/matches/`。团体赛中的个人盘次位于 `data/matches/team/`，命名风格相同。
+比赛文件位于 `data/matches/`，团体赛中的个人盘次位于 `data/matches/team/`，命名风格相同。
 
-- 日期使用 `YYYY-MM-DD`。
-- 当 `score_a > score_b` 时，`player_a` 为胜者。
-- 赛事级别使用 `tiers.json` 中定义的键。
-- 同一文件内不应出现完全重复的同日同选手对阵。
-- 原始姓名字段应尽量保留，方便追溯归一化前的数据。
+### 文件与编码
 
-### 比赛字段
+- CSV 编码为 **UTF-8（带 BOM）**，首行为表头，一行一条比赛记录。
+- 文件名形如 `{年份}_{赛事英文名}.csv`（如 `2026_WTT_Champions_Doha.csv`），由 `scripts/import_sources.py` 从 `sources/` 自动生成；国内赛事文件形如 `{年份}_CN_{赛事名}.csv`（由 `scraper/domestic_baike.py` 生成）。
+- 日期统一使用 `YYYY-MM-DD`。
+- 赛事级别 `tier` 使用 `tiers.json` 中定义的键。
+- 原始姓名字段（`player_a_raw` / `player_b_raw` / `winner_raw`）应尽量保留，方便追溯归一化前的数据。
 
-| 字段 | 含义 |
+### 比赛字段（15 列）
+
+标准比赛文件共 15 列：
+
+| 字段 | 含义 | 必填 |
+|---|---|---|
+| `tournament` | 赛事显示名 | ✅ |
+| `date` | 比赛日期，`YYYY-MM-DD` | ✅ |
+| `player_a` | A 方；`score_a > score_b` 时为胜者 | ✅ |
+| `player_b` | B 方；`score_a < score_b` 时为胜者 | ✅ |
+| `score_a` / `score_b` | 双方赢下的局数；允许相等（见「胜者与平局」） | ✅ |
+| `game_scores` | 每局小分，规范格式见下 | ⬜（可空） |
+| `round` | 轮次代码（见「轮次代码」） | ✅ |
+| `tier` | 赛事级别键 | ✅ |
+| `sub_event` | 项目代码（见「项目代码」） | ⬜ |
+| `event_id` | 来源站点中的赛事 id | ⬜ |
+| `stage` | 阶段：`Qualification` / `Main Draw` / `Position Draw` / `Consolation` 等 | ⬜ |
+| `player_a_raw` / `player_b_raw` | 归一化前的原始姓名 | ⬜ |
+| `winner_raw` | 来源明确标注的胜者姓名；仅用于平局行真伪判定，不作胜者方向依据 | ⬜ |
+
+国内赛事文件可省略 `winner_raw`（14 列），其余列保持一致。
+
+### game_scores 规范格式
+
+- 规范格式为 **`A方各局小分|B方各局小分`**：两侧用 `|` 分隔，每侧内部用逗号分隔，两侧局数分别等于 `score_a` / `score_b`。
+- 示例：`11,11,8,11|6,9,11,8` 表示 A 方 3 局（11、11、8、11）、B 方 1 局（6、9、11、8），即 `score_a=3, score_b=1`。
+- ⚠️ **不要使用交替格式**（如 `11,6,11,9,8,11,11,8`），也不要使用 ITTF 网页原始写法 `11:1 11:6 11:4`（源文件里的 `games_raw` 是原始写法，写入 `matches/` 前必须转成规范格式 `11,11,11|1,6,4`）。
+- 局分缺失时可留空，但一旦填写，每侧局数必须与对应 `score_a` / `score_b` 一致。
+
+### 胜者与平局
+
+- `score_a > score_b` → `player_a` 为胜者；`score_a < score_b` → `player_b` 为胜者。
+- **平局（`score_a == score_b`）是合法结果**：世界杯小组赛打满 4 局的 2-2、团体赛打满 5 盘的 3-3 等赛制存在无胜者结果。此类行 ELO 按 0.5 计分，`winner_id` 为空，不计胜/负场与交手记录。
+- 平局行真伪判定：仅当 `winner_raw` 存在且等于某一方时保留该行；但**不采用 `winner_raw` 判定平局胜负方向**（WTT 源在 2-2 时恒填左侧 `player_a`，不可信）。
+- 双打/混双中 `player_a` / `player_b` 用 **`/` 连接两名队员**（如 `王楚钦/孙颖莎`）。入库时按成员对位拆成 1v1 子记录，前端再合并显示；不要使用其他分隔符。
+
+### 项目代码（sub_event）
+
+| 类别 | 代码 |
 |---|---|
-| `tournament` | 赛事显示名 |
-| `date` | 比赛日期，`YYYY-MM-DD` |
-| `player_a` | A 方；通常为胜者 |
-| `player_b` | B 方；通常为败者 |
-| `score_a` / `score_b` | 双方赢下的局数 |
-| `game_scores` | 每局小分，例如 `11,3,11,11,11\|8,11,9,5,5` |
-| `round` | 轮次代码 |
-| `tier` | 赛事级别键 |
-| `sub_event` | 项目代码，如 `MS` / `WS` / `MT` / `WT` / `MD` / `WD` / `XD` |
-| `event_id` | 来源站点中的赛事 id |
-| `stage` | 阶段，如 `Qualification` / `Main Draw` / `Position Draw` |
-| `player_a_raw` / `player_b_raw` | 归一化前的原始姓名 |
-| `winner_raw` | 明确写明胜者 |
+| 单打 | `MS`（男单）/ `WS`（女单） |
+| 双打 | `MD`（男双）/ `WD`（女双） |
+| 混双 | `XD` |
+| 团体 | `MT`（男团）/ `WT`（女团）/ `XT`（混团） |
+| 青年/少年 | `U21MS`/`U21WS`、`JBS`/`JGS`、`CBS`/`CGS`、`MCBS`/`MCGS`、`HBS`/`HGS` 等（B=男孩、G=女孩） |
+
+性别推断规则（用于选手性别标记）：代码含 `G` → 女（`W`）；含 `B` → 男（`M`）；以 `XD`/`XT` 结尾 → 混合（`X`，无性别信息）。注意 `MCGS` 首字符是 M 但实为女子项目，不能只看首字符。
 
 ### 轮次代码
 
 - `QUAL`：资格赛；`QR128` 到 `QR2` 表示资格赛轮次，数字越小越靠后。
 - `GROUP`：小组赛。
 - `R128` / `R64` / `R32` / `R16`：正赛轮次，数字表示剩余人数。
-- `QF` / `SF` / `F`：四分之一决赛、半决赛、决赛。
-- 数字轮次如 `2` / `4` / `8` / `16` / `256` 也表示剩余人数；在 `Position Draw` 中可表示名次赛，例如 `2` 为铜牌战。
+- `QF` / `SF` / `3RD` / `F`：四分之一决赛、半决赛、铜牌战、决赛。
+- `5-8` / `9-16`：名次排位赛。
+- 纯数字轮次（`2` / `4` / `8` / `16` / `256`）也表示剩余人数；在 `Position Draw` 中 `2` = 铜牌战（`3RD`）、`4` = 5-8 名、`8` = 9-16 名。写入前由 `normalize_round` 统一为规范码。
+
+### 去重规则
+
+跨文件去重 key 为 **(tournament, date, 双方排序, sub_event, round)**：
+
+- 双方姓名排序后比较 → 方向无关：同一场比赛若以 A/B 颠倒重复记录（镜像行）只保留一条。
+- `sub_event` / `round` 参与 key → 同一对选手在不同项目（如 WD + WS）或不同轮次（如小组赛 + 淘汰赛）的再次交手是真实的两场比赛，不会被误删。
+- 同一文件内也不应出现完全重复的同日同选手对阵。
+
+### 源文件格式（sources/）
+
+`data/sources/ittf_*.csv` / `wtt_*.csv` 是爬虫原始落盘，**22 列**：
+`tournament,date,player_a,player_b,country_a,country_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,player_x_raw,player_y_raw,result_raw,games_raw,winner_raw,year_raw`
+
+- 球员名使用**英文大写 + 国家码后缀**写法（如 `AGBODJAN Elias (TOG)`）。
+- `game_scores` 在源文件中为原始写法（如 `11:1 11:6 11:4`）；`import_sources.py` 剥离附加列、统一表头为上述 15 列标准格式后再写入 `matches/`。
+- 新增源文件必须与 `ittf_*.csv` 同格式（22 列、英文球员名），否则 `import_sources.py` 无法处理。
+
+### 团体赛个人盘次（team/）
+
+`data/matches/team/` 存放团体赛事中的逐场个人盘次（如德甲、欧冠联赛），**仅含前 9 列**：`tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier`。加载时按队伍/个人计分（ELO 权重按团队 ×0.7）。
 
 ## 计算口径
 
