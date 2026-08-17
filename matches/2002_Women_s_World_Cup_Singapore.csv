@@ -1,0 +1,33 @@
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Women's World Cup Singapore 2002,2002-08-30,ZHANG Yining,TIE Yana,4,0,"11,11,11,11|4,7,7,8",,WORLD_CUP,WS,1421,Qualification,ZHANG Yining (CHN),TIE Yana (HKG),ZHANG Yining
+Women's World Cup Singapore 2002,2002-08-30,LI Jiawei,SCHOPP Jie,4,2,"11,11,11,7,13,11|7,6,13,11,11,9",QR2,WORLD_CUP,WS,1421,Qualification,LI Jiawei (SGP),SCHOPP Jie (GER),LI Jiawei
+Women's World Cup Singapore 2002,2002-08-30,ZHANG Yining,LI Jiawei,4,1,"11,11,4,11,11|2,6,11,6,3",3,WORLD_CUP,WS,1421,Qualification,ZHANG Yining (CHN),LI Jiawei (SGP),ZHANG Yining
+Women's World Cup Singapore 2002,2002-08-30,SCHOPP Jie,TIE Yana,4,3,"11,11,8,11,6,6,11|9,8,11,8,11,11,8",QR4,WORLD_CUP,WS,1421,Qualification,SCHOPP Jie (GER),TIE Yana (HKG),SCHOPP Jie
+Women's World Cup Singapore 2002,2002-08-30,ZHANG Yining,SCHOPP Jie,4,2,"11,11,11,11,13,11|5,13,6,8,15,4",5,WORLD_CUP,WS,1421,Qualification,ZHANG Yining (CHN),SCHOPP Jie (GER),ZHANG Yining
+Women's World Cup Singapore 2002,2002-08-30,TIE Yana,LI Jiawei,4,2,"12,5,11,4,12,11|10,11,5,11,10,6",6,WORLD_CUP,WS,1421,Qualification,TIE Yana (HKG),LI Jiawei (SGP),TIE Yana
+Women's World Cup Singapore 2002,2002-08-30,BOROS Tamara,JING Junhong,4,0,"11,11,11,11|7,3,5,4",,WORLD_CUP,WS,1421,Qualification,BOROS Tamara (CRO),JING Junhong (SGP),BOROS Tamara
+Women's World Cup Singapore 2002,2002-08-30,LI Nan,GAO Jun,4,1,"11,9,11,11,14|9,11,4,6,12",QR2,WORLD_CUP,WS,1421,Qualification,LI Nan (CHN),GAO Jun (USA),LI Nan
+Women's World Cup Singapore 2002,2002-08-30,BOROS Tamara,LI Nan,4,2,"12,4,6,11,11,11|10,11,11,9,7,8",3,WORLD_CUP,WS,1421,Qualification,BOROS Tamara (CRO),LI Nan (CHN),BOROS Tamara
+Women's World Cup Singapore 2002,2002-08-30,GAO Jun,JING Junhong,4,2,"11,11,11,11,4,12|13,9,9,9,11,10",QR4,WORLD_CUP,WS,1421,Qualification,GAO Jun (USA),JING Junhong (SGP),GAO Jun
+Women's World Cup Singapore 2002,2002-08-30,GAO Jun,BOROS Tamara,4,3,"11,9,1,11,8,11,11|8,11,11,8,11,7,7",5,WORLD_CUP,WS,1421,Qualification,GAO Jun (USA),BOROS Tamara (CRO),GAO Jun
+Women's World Cup Singapore 2002,2002-08-30,LI Nan,JING Junhong,4,0,"11,11,11,11|8,6,7,7",6,WORLD_CUP,WS,1421,Qualification,LI Nan (CHN),JING Junhong (SGP),LI Nan
+Women's World Cup Singapore 2002,2002-08-30,NIU Jianfeng,TOTH Krisztina,4,1,"11,12,11,6,11|6,10,7,11,3",,WORLD_CUP,WS,1421,Qualification,NIU Jianfeng (CHN),TOTH Krisztina (HUN),NIU Jianfeng
+Women's World Cup Singapore 2002,2002-08-30,STEFF Mihaela,RODRIGUEZ Berta,4,0,"11,11,11,11|4,1,4,8",QR2,WORLD_CUP,WS,1421,Qualification,STEFF Mihaela (ROU),RODRIGUEZ Berta (CHI),STEFF Mihaela
+Women's World Cup Singapore 2002,2002-08-30,NIU Jianfeng,STEFF Mihaela,4,2,"11,10,11,11,5,11|7,12,2,6,11,8",3,WORLD_CUP,WS,1421,Qualification,NIU Jianfeng (CHN),STEFF Mihaela (ROU),NIU Jianfeng
+Women's World Cup Singapore 2002,2002-08-30,TOTH Krisztina,RODRIGUEZ Berta,4,1,"7,11,11,11,11|11,2,5,5,3",QR4,WORLD_CUP,WS,1421,Qualification,TOTH Krisztina (HUN),RODRIGUEZ Berta (CHI),TOTH Krisztina
+Women's World Cup Singapore 2002,2002-08-30,NIU Jianfeng,RODRIGUEZ Berta,4,0,"11,11,11,11|2,7,3,4",5,WORLD_CUP,WS,1421,Qualification,NIU Jianfeng (CHN),RODRIGUEZ Berta (CHI),NIU Jianfeng
+Women's World Cup Singapore 2002,2002-08-30,STEFF Mihaela,TOTH Krisztina,4,1,"11,13,9,11,11|7,11,11,5,5",6,WORLD_CUP,WS,1421,Qualification,STEFF Mihaela (ROU),TOTH Krisztina (HUN),STEFF Mihaela
+Women's World Cup Singapore 2002,2002-08-30,LIN Ling,NI Xia Lian,4,3,"7,11,11,8,11,9,11|11,8,7,11,9,11,8",,WORLD_CUP,WS,1421,Qualification,LIN Ling (HKG),NI Xia Lian (LUX),LIN Ling
+Women's World Cup Singapore 2002,2002-08-30,KIM Hyon Hui,MIAO Miao,4,2,"5,11,7,11,13,12|11,6,11,9,11,10",QR2,WORLD_CUP,WS,1421,Qualification,KIM Hyon Hui (PRK),MIAO Miao (AUS),KIM Hyon Hui
+Women's World Cup Singapore 2002,2002-08-30,LIN Ling,KIM Hyon Hui,4,3,"10,11,11,6,9,13,11|12,8,6,11,11,11,9",3,WORLD_CUP,WS,1421,Qualification,LIN Ling (HKG),KIM Hyon Hui (PRK),LIN Ling
+Women's World Cup Singapore 2002,2002-08-30,MIAO Miao,NI Xia Lian,4,3,"11,11,3,11,11,3,12|13,8,11,8,8,11,10",QR4,WORLD_CUP,WS,1421,Qualification,MIAO Miao (AUS),NI Xia Lian (LUX),MIAO Miao
+Women's World Cup Singapore 2002,2002-08-30,LIN Ling,MIAO Miao,4,1,"6,11,11,11,11|11,3,4,5,8",5,WORLD_CUP,WS,1421,Qualification,LIN Ling (HKG),MIAO Miao (AUS),LIN Ling
+Women's World Cup Singapore 2002,2002-08-30,KIM Hyon Hui,NI Xia Lian,4,2,"5,11,10,12,11,11|11,5,12,10,4,8",6,WORLD_CUP,WS,1421,Qualification,KIM Hyon Hui (PRK),NI Xia Lian (LUX),KIM Hyon Hui
+Women's World Cup Singapore 2002,2002-08-30,ZHANG Yining,STEFF Mihaela,4,2,"11,11,7,11,12,11|9,9,11,4,14,1",QF,WORLD_CUP,WS,1421,Main Draw,ZHANG Yining (CHN),STEFF Mihaela (ROU),ZHANG Yining
+Women's World Cup Singapore 2002,2002-08-30,LIN Ling,BOROS Tamara,4,0,"11,11,11,11|4,7,9,3",QF,WORLD_CUP,WS,1421,Main Draw,LIN Ling (HKG),BOROS Tamara (CRO),LIN Ling
+Women's World Cup Singapore 2002,2002-08-30,TIE Yana,NIU Jianfeng,4,3,"12,11,8,7,11,8,11|10,4,11,11,7,11,8",QF,WORLD_CUP,WS,1421,Main Draw,TIE Yana (HKG),NIU Jianfeng (CHN),TIE Yana
+Women's World Cup Singapore 2002,2002-08-30,LI Nan,KIM Hyon Hui,4,3,"16,12,7,9,11,7,11|14,10,11,11,6,11,6",QF,WORLD_CUP,WS,1421,Main Draw,LI Nan (CHN),KIM Hyon Hui (PRK),LI Nan
+Women's World Cup Singapore 2002,2002-08-30,ZHANG Yining,LIN Ling,4,0,"11,11,11,11|5,7,4,3",SF,WORLD_CUP,WS,1421,Main Draw,ZHANG Yining (CHN),LIN Ling (HKG),ZHANG Yining
+Women's World Cup Singapore 2002,2002-08-30,LI Nan,TIE Yana,4,1,"10,11,11,11,12|12,7,5,2,10",SF,WORLD_CUP,WS,1421,Main Draw,LI Nan (CHN),TIE Yana (HKG),LI Nan
+Women's World Cup Singapore 2002,2002-08-30,ZHANG Yining,LI Nan,4,0,"11,11,11,11|9,8,3,9",F,WORLD_CUP,WS,1421,Main Draw,ZHANG Yining (CHN),LI Nan (CHN),ZHANG Yining
+Women's World Cup Singapore 2002,2002-08-30,TIE Yana,LIN Ling,4,2,"11,4,11,11,2,11|8,11,6,7,11,9",3RD,WORLD_CUP,WS,1421,Position Draw,TIE Yana (HKG),LIN Ling (HKG),TIE Yana

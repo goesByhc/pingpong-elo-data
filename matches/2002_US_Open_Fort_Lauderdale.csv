@@ -1,0 +1,323 @@
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+US Open Fort Lauderdale 2002,2002-07-03,ARAI Shu,SIU Arturo,4,0,"11,11,11,11|4,5,6,8",,GRAND_SLAM,MS,1317,Qualification,ARAI Shu (JPN),SIU Arturo (PAN),ARAI Shu
+US Open Fort Lauderdale 2002,2002-07-03,ERLANDSEN Geir,SIU Arturo,4,2,"11,11,8,11,6,11|6,6,11,6,11,8",QR2,GRAND_SLAM,MS,1317,Qualification,ERLANDSEN Geir (NOR),SIU Arturo (PAN),ERLANDSEN Geir
+US Open Fort Lauderdale 2002,2002-07-03,ARAI Shu,ERLANDSEN Geir,4,3,"8,11,11,8,7,11,11|11,6,9,11,11,8,6",3,GRAND_SLAM,MS,1317,Qualification,ARAI Shu (JPN),ERLANDSEN Geir (NOR),ARAI Shu
+US Open Fort Lauderdale 2002,2002-07-03,HIELSCHER Lars,MURAMORI Minoru,4,0,"11,11,11,11|8,9,2,4",3,GRAND_SLAM,MS,1317,Qualification,HIELSCHER Lars (GER),MURAMORI Minoru (JPN),HIELSCHER Lars
+US Open Fort Lauderdale 2002,2002-07-03,HUANG Wei-Chin,WEBB Nigel,4,1,"11,15,11,11,11|9,17,6,6,4",,GRAND_SLAM,MS,1317,Qualification,HUANG Wei-Chin (TPE),WEBB Nigel (JAM),HUANG Wei-Chin
+US Open Fort Lauderdale 2002,2002-07-03,MOLIN Magnus,HUANG Wei-Chin,4,1,"11,9,11,11,11|5,11,5,7,3",QR2,GRAND_SLAM,MS,1317,Qualification,MOLIN Magnus (SWE),HUANG Wei-Chin (TPE),MOLIN Magnus
+US Open Fort Lauderdale 2002,2002-07-03,MOLIN Magnus,WEBB Nigel,4,0,"11,11,11,11|9,4,8,4",3,GRAND_SLAM,MS,1317,Qualification,MOLIN Magnus (SWE),WEBB Nigel (JAM),MOLIN Magnus
+US Open Fort Lauderdale 2002,2002-07-03,SUN Wen-Wei,STRACHAN David,4,0,"11,11,11,11|4,3,3,2",,GRAND_SLAM,MS,1317,Qualification,SUN Wen-Wei (TPE),STRACHAN David (USA),SUN Wen-Wei
+US Open Fort Lauderdale 2002,2002-07-03,STEGER Bastian,SUN Wen-Wei,4,0,"11,11,11,11|6,8,7,5",QR2,GRAND_SLAM,MS,1317,Qualification,STEGER Bastian (GER),SUN Wen-Wei (TPE),STEGER Bastian
+US Open Fort Lauderdale 2002,2002-07-03,STEGER Bastian,STRACHAN David,4,0,"11,11,11,11|1,5,7,4",3,GRAND_SLAM,MS,1317,Qualification,STEGER Bastian (GER),STRACHAN David (USA),STEGER Bastian
+US Open Fort Lauderdale 2002,2002-07-03,SU Chi-Young,HYATT Michael,4,0,"14,11,11,11|12,5,2,8",,GRAND_SLAM,MS,1317,Qualification,SU Chi-Young (TPE),HYATT Michael (JAM),SU Chi-Young
+US Open Fort Lauderdale 2002,2002-07-03,MONRAD Martin,SU Chi-Young,4,0,"13,11,11,11|11,5,7,8",QR2,GRAND_SLAM,MS,1317,Qualification,MONRAD Martin (DEN),SU Chi-Young (TPE),MONRAD Martin
+US Open Fort Lauderdale 2002,2002-07-03,MONRAD Martin,HYATT Michael,4,2,"11,6,11,11,7,12|3,11,4,7,11,10",3,GRAND_SLAM,MS,1317,Qualification,MONRAD Martin (DEN),HYATT Michael (JAM),MONRAD Martin
+US Open Fort Lauderdale 2002,2002-07-03,LEWIS Idi,SU Chu-Chao,4,3,"11,7,4,11,8,11,11|9,11,11,9,11,5,6",,GRAND_SLAM,MS,1317,Qualification,LEWIS Idi (GUY),SU Chu-Chao (TPE),LEWIS Idi
+US Open Fort Lauderdale 2002,2002-07-03,GARDOS Robert,SU Chu-Chao,4,0,"11,13,11,11|8,11,4,7",QR2,GRAND_SLAM,MS,1317,Qualification,GARDOS Robert (AUT),SU Chu-Chao (TPE),GARDOS Robert
+US Open Fort Lauderdale 2002,2002-07-03,KEINATH Thomas,CHOU Tung-Yu,4,3,"8,9,11,6,11,11,11|11,11,9,11,6,6,5",QR2,GRAND_SLAM,MS,1317,Qualification,KEINATH Thomas (SVK),CHOU Tung-Yu (TPE),KEINATH Thomas
+US Open Fort Lauderdale 2002,2002-07-03,TSENG Chun-Yuan,DAVID Paul,4,2,"7,11,12,11,7,11|11,9,10,9,11,7",,GRAND_SLAM,MS,1317,Qualification,TSENG Chun-Yuan (TPE),DAVID Paul (GUY),TSENG Chun-Yuan
+US Open Fort Lauderdale 2002,2002-07-03,TUGWELL Finn,TSENG Chun-Yuan,4,0,"11,11,13,11|4,6,11,6",QR2,GRAND_SLAM,MS,1317,Qualification,TUGWELL Finn (DEN),TSENG Chun-Yuan (TPE),TUGWELL Finn
+US Open Fort Lauderdale 2002,2002-07-03,TUGWELL Finn,DAVID Paul,4,1,"12,11,9,11,11|10,5,11,4,7",3,GRAND_SLAM,MS,1317,Qualification,TUGWELL Finn (DEN),DAVID Paul (GUY),TUGWELL Finn
+US Open Fort Lauderdale 2002,2002-07-03,FEJER-KONNERTH Zoltan,KOU Yen-Cheng,4,2,"11,6,11,11,7,11|1,11,8,8,11,4",QR2,GRAND_SLAM,MS,1317,Qualification,FEJER-KONNERTH Zoltan (GER),KOU Yen-Cheng (TPE),FEJER-KONNERTH Zoltan
+US Open Fort Lauderdale 2002,2002-07-03,CHOU Yu-Chen,WER Estuardo,4,1,"9,11,11,11,11|11,3,5,8,6",,GRAND_SLAM,MS,1317,Qualification,CHOU Yu-Chen (TPE),WER Estuardo (GUA),CHOU Yu-Chen
+US Open Fort Lauderdale 2002,2002-07-03,HOYAMA Hugo,CHOU Yu-Chen,4,0,"11,11,11,11|3,4,3,5",QR2,GRAND_SLAM,MS,1317,Qualification,HOYAMA Hugo (BRA),CHOU Yu-Chen (TPE),HOYAMA Hugo
+US Open Fort Lauderdale 2002,2002-07-03,HOYAMA Hugo,WER Estuardo,4,0,"11,11,11,11|3,4,3,3",3,GRAND_SLAM,MS,1317,Qualification,HOYAMA Hugo (BRA),WER Estuardo (GUA),HOYAMA Hugo
+US Open Fort Lauderdale 2002,2002-07-03,BITZIGEIO Jorg,KAO Chien-Ting,4,1,"11,7,11,11,15|8,11,7,6,13",,GRAND_SLAM,MS,1317,Qualification,BITZIGEIO Jorg (GER),KAO Chien-Ting (TPE),BITZIGEIO Jorg
+US Open Fort Lauderdale 2002,2002-07-03,MUSA Atanda,KAO Chien-Ting,4,0,"11,11,11,11|8,9,8,9",QR2,GRAND_SLAM,MS,1317,Qualification,MUSA Atanda (USA),KAO Chien-Ting (TPE),MUSA Atanda
+US Open Fort Lauderdale 2002,2002-07-03,MUSA Atanda,BITZIGEIO Jorg,4,1,"11,8,12,11,14|7,11,10,7,12",3,GRAND_SLAM,MS,1317,Qualification,MUSA Atanda (USA),BITZIGEIO Jorg (GER),MUSA Atanda
+US Open Fort Lauderdale 2002,2002-07-03,JIANG Jia-En,NILO Felipe,4,0,"14,11,11,13|12,4,7,11",,GRAND_SLAM,MS,1317,Qualification,JIANG Jia-En (TPE),NILO Felipe (CHI),JIANG Jia-En
+US Open Fort Lauderdale 2002,2002-07-03,KIHO Shinnosuke,JIANG Jia-En,4,3,"12,11,11,10,6,11,11|10,3,13,12,11,3,4",QR2,GRAND_SLAM,MS,1317,Qualification,KIHO Shinnosuke (JPN),JIANG Jia-En (TPE),KIHO Shinnosuke
+US Open Fort Lauderdale 2002,2002-07-03,KIHO Shinnosuke,NILO Felipe,4,0,"11,11,11,11|5,4,5,6",3,GRAND_SLAM,MS,1317,Qualification,KIHO Shinnosuke (JPN),NILO Felipe (CHI),KIHO Shinnosuke
+US Open Fort Lauderdale 2002,2002-07-03,LEE Chi-Ching,OLEA Carlos,4,2,"6,11,11,11,13,11|11,5,9,9,15,5",,GRAND_SLAM,MS,1317,Qualification,LEE Chi-Ching (TPE),OLEA Carlos (CHI),LEE Chi-Ching
+US Open Fort Lauderdale 2002,2002-07-03,CHENG Yinghua,LEE Chi-Ching,4,1,"11,12,11,8,12|8,10,5,11,10",QR2,GRAND_SLAM,MS,1317,Qualification,CHENG Yinghua (USA),LEE Chi-Ching (TPE),CHENG Yinghua
+US Open Fort Lauderdale 2002,2002-07-03,CHENG Yinghua,OLEA Carlos,4,0,"11,12,14,11|5,10,12,8",3,GRAND_SLAM,MS,1317,Qualification,CHENG Yinghua (USA),OLEA Carlos (CHI),CHENG Yinghua
+US Open Fort Lauderdale 2002,2002-07-03,SZENFELD Jorge,LIN Chun-Cheng,4,0,"11,11,13,11|9,6,11,9",,GRAND_SLAM,MS,1317,Qualification,SZENFELD Jorge (CHI),LIN Chun-Cheng (TPE),SZENFELD Jorge
+US Open Fort Lauderdale 2002,2002-07-03,ULATOWSKI Michel,KUNG Yu-Peng,4,1,"11,10,12,11,11|9,12,10,5,4",,GRAND_SLAM,MS,1317,Qualification,ULATOWSKI Michel (CAN),KUNG Yu-Peng (TPE),ULATOWSKI Michel
+US Open Fort Lauderdale 2002,2002-07-03,SORENSEN Mads,KUNG Yu-Peng,4,0,"11,11,11,11|5,6,7,4",QR2,GRAND_SLAM,MS,1317,Qualification,SORENSEN Mads (DEN),KUNG Yu-Peng (TPE),SORENSEN Mads
+US Open Fort Lauderdale 2002,2002-07-03,SORENSEN Mads,ULATOWSKI Michel,4,0,"11,11,11,11|1,4,4,5",3,GRAND_SLAM,MS,1317,Qualification,SORENSEN Mads (DEN),ULATOWSKI Michel (CAN),SORENSEN Mads
+US Open Fort Lauderdale 2002,2002-07-03,LIN Xin-Nan,GUO Peng,4,0,"11,11,11,11|8,5,6,9",,GRAND_SLAM,MS,1317,Qualification,LIN Xin-Nan (TPE),GUO Peng (CAN),LIN Xin-Nan
+US Open Fort Lauderdale 2002,2002-07-03,SANADA Koji,LIN Xin-Nan,4,2,"11,9,10,11,11,11|6,11,12,2,4,7",QR2,GRAND_SLAM,MS,1317,Qualification,SANADA Koji (JPN),LIN Xin-Nan (TPE),SANADA Koji
+US Open Fort Lauderdale 2002,2002-07-03,SANADA Koji,GUO Peng,4,0,"11,11,11,11|9,2,3,5",3,GRAND_SLAM,MS,1317,Qualification,SANADA Koji (JPN),GUO Peng (CAN),SANADA Koji
+US Open Fort Lauderdale 2002,2002-07-03,CABRERA Ignacio,LEE Yu-Kai,4,1,"11,11,9,11,11|7,5,11,6,6",,GRAND_SLAM,MS,1317,Qualification,CABRERA Ignacio (CAN),LEE Yu-Kai (TPE),CABRERA Ignacio
+US Open Fort Lauderdale 2002,2002-07-03,CIOCIU Traian,LEE Yu-Kai,4,0,"11,11,11,11|4,2,1,4",QR2,GRAND_SLAM,MS,1317,Qualification,CIOCIU Traian (LUX),LEE Yu-Kai (TPE),CIOCIU Traian
+US Open Fort Lauderdale 2002,2002-07-03,CIOCIU Traian,CABRERA Ignacio,4,1,"11,11,14,11,11|6,4,16,6,9",3,GRAND_SLAM,MS,1317,Qualification,CIOCIU Traian (LUX),CABRERA Ignacio (CAN),CIOCIU Traian
+US Open Fort Lauderdale 2002,2002-07-03,MATSUMOTO Cazuo,CHENG Chi-Yuan,4,1,"11,11,11,8,11|2,2,7,11,4",,GRAND_SLAM,MS,1317,Qualification,MATSUMOTO Cazuo (BRA),CHENG Chi-Yuan (TPE),MATSUMOTO Cazuo
+US Open Fort Lauderdale 2002,2002-07-03,BUTLER Jimmy,CHENG Chi-Yuan,4,1,"9,11,11,11,11|11,3,9,9,8",QR2,GRAND_SLAM,MS,1317,Qualification,BUTLER Jimmy (USA),CHENG Chi-Yuan (TPE),BUTLER Jimmy
+US Open Fort Lauderdale 2002,2002-07-03,MATSUMOTO Cazuo,BUTLER Jimmy,4,2,"11,11,6,11,1,11|9,4,11,6,11,7",3,GRAND_SLAM,MS,1317,Qualification,MATSUMOTO Cazuo (BRA),BUTLER Jimmy (USA),MATSUMOTO Cazuo
+US Open Fort Lauderdale 2002,2002-07-03,ALAGAO Daniel,LEE Jih-Shenz,4,0,"11,11,11,11|7,3,3,6",,GRAND_SLAM,MS,1317,Qualification,ALAGAO Daniel (BRA),LEE Jih-Shenz (TPE),ALAGAO Daniel
+US Open Fort Lauderdale 2002,2002-07-03,MOLDOVAN Istvan,LEE Jih-Shenz,4,0,"11,11,11,11|5,2,4,8",QR2,GRAND_SLAM,MS,1317,Qualification,MOLDOVAN Istvan (NOR),LEE Jih-Shenz (TPE),MOLDOVAN Istvan
+US Open Fort Lauderdale 2002,2002-07-03,MOLDOVAN Istvan,ALAGAO Daniel,4,3,"7,11,12,13,11,9,11|11,6,14,11,5,11,5",3,GRAND_SLAM,MS,1317,Qualification,MOLDOVAN Istvan (NOR),ALAGAO Daniel (BRA),MOLDOVAN Istvan
+US Open Fort Lauderdale 2002,2002-07-03,HUANG Chang-Hsuan,FARLEY Trevor,4,1,"12,11,11,5,11|10,9,7,11,8",,GRAND_SLAM,MS,1317,Qualification,HUANG Chang-Hsuan (TPE),FARLEY Trevor (BAR),HUANG Chang-Hsuan
+US Open Fort Lauderdale 2002,2002-07-03,WANG Fei,HUANG Chang-Hsuan,4,0,"11,11,11,11|8,7,9,5",QR2,GRAND_SLAM,MS,1317,Qualification,WANG Fei (USA),HUANG Chang-Hsuan (TPE),WANG Fei
+US Open Fort Lauderdale 2002,2002-07-03,WANG Fei,FARLEY Trevor,4,0,"11,11,11,11|4,5,8,5",3,GRAND_SLAM,MS,1317,Qualification,WANG Fei (USA),FARLEY Trevor (BAR),WANG Fei
+US Open Fort Lauderdale 2002,2002-07-03,JAIN Ashoo,LIU Sheng-Li,4,1,"11,11,9,11,11|5,8,11,5,8",,GRAND_SLAM,MS,1317,Qualification,JAIN Ashoo (USA),LIU Sheng-Li (TPE),JAIN Ashoo
+US Open Fort Lauderdale 2002,2002-07-03,CLOSSET Marc,LIU Sheng-Li,4,0,"11,11,11,11|2,6,5,5",QR2,GRAND_SLAM,MS,1317,Qualification,CLOSSET Marc (BEL),LIU Sheng-Li (TPE),CLOSSET Marc
+US Open Fort Lauderdale 2002,2002-07-03,CLOSSET Marc,JAIN Ashoo,4,1,"11,7,11,11,11|5,11,5,4,5",3,GRAND_SLAM,MS,1317,Qualification,CLOSSET Marc (BEL),JAIN Ashoo (USA),CLOSSET Marc
+US Open Fort Lauderdale 2002,2002-07-03,MUJICA Henry,CHEN Yu-Jen,4,0,"11,11,11,11|6,8,8,7",,GRAND_SLAM,MS,1317,Qualification,MUJICA Henry (VEN),CHEN Yu-Jen (TPE),MUJICA Henry
+US Open Fort Lauderdale 2002,2002-07-03,JINDRAK Karl,CHEN Yu-Jen,4,0,"11,13,11,11|4,11,9,7",QR2,GRAND_SLAM,MS,1317,Qualification,JINDRAK Karl (AUT),CHEN Yu-Jen (TPE),JINDRAK Karl
+US Open Fort Lauderdale 2002,2002-07-03,JINDRAK Karl,MUJICA Henry,4,1,"11,6,11,13,11|5,11,8,11,8",3,GRAND_SLAM,MS,1317,Qualification,JINDRAK Karl (AUT),MUJICA Henry (VEN),JINDRAK Karl
+US Open Fort Lauderdale 2002,2002-07-03,GIANNINI Antonio,HUANG Chien-Yuan,4,2,"8,10,11,11,11,11|11,12,3,6,9,4",,GRAND_SLAM,MS,1317,Qualification,GIANNINI Antonio (VEN),HUANG Chien-Yuan (TPE),GIANNINI Antonio
+US Open Fort Lauderdale 2002,2002-07-03,FETH Stefan,HUANG Chien-Yuan,4,0,"11,11,11,11|1,2,5,4",QR2,GRAND_SLAM,MS,1317,Qualification,FETH Stefan (GER),HUANG Chien-Yuan (TPE),FETH Stefan
+US Open Fort Lauderdale 2002,2002-07-03,FETH Stefan,GIANNINI Antonio,4,0,"11,11,11,11|8,4,7,6",3,GRAND_SLAM,MS,1317,Qualification,FETH Stefan (GER),GIANNINI Antonio (VEN),FETH Stefan
+US Open Fort Lauderdale 2002,2002-07-03,RAMIREZ Jose Miguel,HUGH Adam,4,0,"11,11,12,11|9,6,10,6",,GRAND_SLAM,MS,1317,Qualification,RAMIREZ Jose Miguel (GUA),HUGH Adam (USA),RAMIREZ Jose Miguel
+US Open Fort Lauderdale 2002,2002-07-03,MONTEIRO Thiago,HUGH Adam,4,0,"11,11,11,11|7,4,5,8",QR2,GRAND_SLAM,MS,1317,Qualification,MONTEIRO Thiago (BRA),HUGH Adam (USA),MONTEIRO Thiago
+US Open Fort Lauderdale 2002,2002-07-03,MONTEIRO Thiago,RAMIREZ Jose Miguel,4,2,"8,11,11,11,4,11|11,3,7,4,11,5",3,GRAND_SLAM,MS,1317,Qualification,MONTEIRO Thiago (BRA),RAMIREZ Jose Miguel (GUA),MONTEIRO Thiago
+US Open Fort Lauderdale 2002,2002-07-03,SAKAMOTO Ryusuke,PACE Brian,4,0,"11,11,11,11|6,5,4,7",3,GRAND_SLAM,MS,1317,Qualification,SAKAMOTO Ryusuke (JPN),PACE Brian (USA),SAKAMOTO Ryusuke
+US Open Fort Lauderdale 2002,2002-07-03,THERIEN Xavier,LYNCH Jared,4,0,"11,11,12,11|9,3,10,3",,GRAND_SLAM,MS,1317,Qualification,THERIEN Xavier (CAN),LYNCH Jared (USA),THERIEN Xavier
+US Open Fort Lauderdale 2002,2002-07-03,MORITA Yuki (YOB=1984),LYNCH Jared,4,0,"11,11,11,11|8,5,4,4",QR2,GRAND_SLAM,MS,1317,Qualification,MORITA Yuki (YOB=1984) (JPN),LYNCH Jared (USA),MORITA Yuki (YOB=1984)
+US Open Fort Lauderdale 2002,2002-07-03,MORITA Yuki (YOB=1984),THERIEN Xavier,4,1,"11,11,6,11,13|9,6,11,7,11",3,GRAND_SLAM,MS,1317,Qualification,MORITA Yuki (YOB=1984) (JPN),THERIEN Xavier (CAN),MORITA Yuki (YOB=1984)
+US Open Fort Lauderdale 2002,2002-07-03,SEL Zolt,PEREZ Alexis,4,2,"8,9,11,11,11,11|11,11,7,7,8,9",,GRAND_SLAM,MS,1317,Qualification,SEL Zolt (SRB),PEREZ Alexis (DOM),SEL Zolt
+US Open Fort Lauderdale 2002,2002-07-03,WU Chih-Chi,PEREZ Alexis,4,1,"9,14,11,11,12|11,12,7,3,10",QR2,GRAND_SLAM,MS,1317,Qualification,WU Chih-Chi (TPE),PEREZ Alexis (DOM),WU Chih-Chi
+US Open Fort Lauderdale 2002,2002-07-03,WU Chih-Chi,SEL Zolt,4,0,"11,11,11,11|8,4,7,4",3,GRAND_SLAM,MS,1317,Qualification,WU Chih-Chi (TPE),SEL Zolt (SRB),WU Chih-Chi
+US Open Fort Lauderdale 2002,2002-07-03,PETER-PAUL Pradeeban,HAZINSKI Mark,4,3,"5,11,9,11,11,9,11|11,2,11,6,5,11,2",3,GRAND_SLAM,MS,1317,Qualification,PETER-PAUL Pradeeban (CAN),HAZINSKI Mark (USA),PETER-PAUL Pradeeban
+US Open Fort Lauderdale 2002,2002-07-03,XIAO Han,KASSAM Faazil,4,3,"5,11,8,11,11,7,12|11,5,11,6,8,11,10",,GRAND_SLAM,MS,1317,Qualification,XIAO Han (USA),KASSAM Faazil (CAN),XIAO Han
+US Open Fort Lauderdale 2002,2002-07-03,XIAO Han,TANIGUCHI Yuji,4,2,"11,11,6,5,11,11|9,8,11,11,6,8",QR2,GRAND_SLAM,MS,1317,Qualification,XIAO Han (USA),TANIGUCHI Yuji (JPN),XIAO Han
+US Open Fort Lauderdale 2002,2002-07-03,TANIGUCHI Yuji,KASSAM Faazil,4,1,"8,11,12,11,12|11,7,10,9,10",3,GRAND_SLAM,MS,1317,Qualification,TANIGUCHI Yuji (JPN),KASSAM Faazil (CAN),TANIGUCHI Yuji
+US Open Fort Lauderdale 2002,2002-07-03,HANASHIRO Hugo,PETROJ Sorin,4,0,"12,11,11,11|10,7,9,4",,GRAND_SLAM,MS,1317,Qualification,HANASHIRO Hugo (BRA),PETROJ Sorin (SRB),HANASHIRO Hugo
+US Open Fort Lauderdale 2002,2002-07-03,HANASHIRO Hugo,KONGSGAARD Christian,4,0,"11,11,11,11|7,6,6,9",3,GRAND_SLAM,MS,1317,Qualification,HANASHIRO Hugo (BRA),KONGSGAARD Christian (DEN),HANASHIRO Hugo
+US Open Fort Lauderdale 2002,2002-07-03,TAKAMORI Hidero,LAI Kuan-Shen,4,0,"11,11,11,13|2,8,5,11",,GRAND_SLAM,MS,1317,Qualification,TAKAMORI Hidero (JPN),LAI Kuan-Shen (TPE),TAKAMORI Hidero
+US Open Fort Lauderdale 2002,2002-07-03,GUO Jinhao,CSABA Bence,4,0,"11,11,11,11|7,7,2,5",QR2,GRAND_SLAM,MS,1317,Qualification,GUO Jinhao (CHN),CSABA Bence (CAN),GUO Jinhao
+US Open Fort Lauderdale 2002,2002-07-03,GUO Jinhao,LAI Kuan-Shen,4,2,"11,11,11,11,9,11|13,3,8,3,11,5",3,GRAND_SLAM,MS,1317,Qualification,GUO Jinhao (CHN),LAI Kuan-Shen (TPE),GUO Jinhao
+US Open Fort Lauderdale 2002,2002-07-03,TAKAMORI Hidero,CSABA Bence,4,1,"4,12,11,11,11|11,10,8,6,6",QR4,GRAND_SLAM,MS,1317,Qualification,TAKAMORI Hidero (JPN),CSABA Bence (CAN),TAKAMORI Hidero
+US Open Fort Lauderdale 2002,2002-07-03,CSABA Bence,LAI Kuan-Shen,4,3,"11,6,7,12,4,11,12|8,11,11,10,11,7,10",5,GRAND_SLAM,MS,1317,Qualification,CSABA Bence (CAN),LAI Kuan-Shen (TPE),CSABA Bence
+US Open Fort Lauderdale 2002,2002-07-03,GUO Jinhao,TAKAMORI Hidero,4,1,"11,11,11,10,11|7,5,2,12,8",6,GRAND_SLAM,MS,1317,Qualification,GUO Jinhao (CHN),TAKAMORI Hidero (JPN),GUO Jinhao
+US Open Fort Lauderdale 2002,2002-07-03,WEITZ Daniel,HINSE Pierre-Luc,4,0,"11,11,11,11|7,4,9,9",,GRAND_SLAM,MS,1317,Qualification,WEITZ Daniel (GER),HINSE Pierre-Luc (CAN),WEITZ Daniel
+US Open Fort Lauderdale 2002,2002-07-03,KISHIKAWA Seiya,HINSE Pierre-Luc,4,2,"11,5,11,9,11,11|8,11,7,11,9,9",QR2,GRAND_SLAM,MS,1317,Qualification,KISHIKAWA Seiya (JPN),HINSE Pierre-Luc (CAN),KISHIKAWA Seiya
+US Open Fort Lauderdale 2002,2002-07-03,WEITZ Daniel,KISHIKAWA Seiya,4,3,"7,12,11,8,11,4,11|11,10,3,11,8,11,6",3,GRAND_SLAM,MS,1317,Qualification,WEITZ Daniel (GER),KISHIKAWA Seiya (JPN),WEITZ Daniel
+US Open Fort Lauderdale 2002,2002-07-03,WANG Liqin,STEGER Bastian,4,2,"11,11,11,14,9,11|13,8,7,12,11,6",R64,GRAND_SLAM,MS,1317,Main Draw,WANG Liqin (CHN),STEGER Bastian (GER),WANG Liqin
+US Open Fort Lauderdale 2002,2002-07-03,QIN Zhijian,SZENFELD Jorge,4,1,"11,11,11,5,11|4,4,7,11,3",R64,GRAND_SLAM,MS,1317,Main Draw,QIN Zhijian (CHN),SZENFELD Jorge (CHI),QIN Zhijian
+US Open Fort Lauderdale 2002,2002-07-03,ARAI Shu,MAZE Michael,4,3,"14,11,4,6,9,11,11|12,3,11,11,11,7,2",R64,GRAND_SLAM,MS,1317,Main Draw,ARAI Shu (JPN),MAZE Michael (DEN),ARAI Shu
+US Open Fort Lauderdale 2002,2002-07-03,HEISTER Danny,XIAO Han,4,0,"11,11,11,11|7,4,4,4",R64,GRAND_SLAM,MS,1317,Main Draw,HEISTER Danny (NED),XIAO Han (USA),HEISTER Danny
+US Open Fort Lauderdale 2002,2002-07-03,WOSIK Torben,MONRAD Martin,4,2,"9,11,11,10,11,11|11,9,4,12,7,9",R64,GRAND_SLAM,MS,1317,Main Draw,WOSIK Torben (GER),MONRAD Martin (DEN),WOSIK Torben
+US Open Fort Lauderdale 2002,2002-07-03,CHEN Weixing,HANASHIRO Hugo,4,1,"13,11,11,11,11|15,7,9,5,4",R64,GRAND_SLAM,MS,1317,Main Draw,CHEN Weixing (AUT),HANASHIRO Hugo (BRA),CHEN Weixing
+US Open Fort Lauderdale 2002,2002-07-03,LIU Guoliang,WU Chih-Chi,4,1,"11,11,11,7,11|8,6,9,11,6",R64,GRAND_SLAM,MS,1317,Main Draw,LIU Guoliang (CHN),WU Chih-Chi (TPE),LIU Guoliang
+US Open Fort Lauderdale 2002,2002-07-03,WANG Hao,MUSA Atanda,4,0,"11,11,11,11|4,5,3,4",R64,GRAND_SLAM,MS,1317,Main Draw,WANG Hao (CHN),MUSA Atanda (USA),WANG Hao
+US Open Fort Lauderdale 2002,2002-07-03,LEUNG Chu Yan,FEJER-KONNERTH Zoltan,4,2,"11,10,11,11,8,17|7,12,6,6,11,15",R64,GRAND_SLAM,MS,1317,Main Draw,LEUNG Chu Yan (HKG),FEJER-KONNERTH Zoltan (GER),LEUNG Chu Yan
+US Open Fort Lauderdale 2002,2002-07-03,CRISAN Adrian,SANADA Koji,4,0,"11,11,11,12|7,7,5,10",R64,GRAND_SLAM,MS,1317,Main Draw,CRISAN Adrian (ROU),SANADA Koji (JPN),CRISAN Adrian
+US Open Fort Lauderdale 2002,2002-07-03,LEE Chulseung,CHENG Yinghua,4,0,"11,11,11,11|5,7,9,3",R64,GRAND_SLAM,MS,1317,Main Draw,LEE Chulseung (KOR),CHENG Yinghua (USA),LEE Chulseung
+US Open Fort Lauderdale 2002,2002-07-03,KO Lai Chak,FETH Stefan,4,0,"11,11,11,11|7,9,5,6",R64,GRAND_SLAM,MS,1317,Main Draw,KO Lai Chak (HKG),FETH Stefan (GER),KO Lai Chak
+US Open Fort Lauderdale 2002,2002-07-03,CHANG Yen-Shu,PETER-PAUL Pradeeban,4,1,"9,11,11,12,14|11,6,4,10,12",R64,GRAND_SLAM,MS,1317,Main Draw,CHANG Yen-Shu (TPE),PETER-PAUL Pradeeban (CAN),CHANG Yen-Shu
+US Open Fort Lauderdale 2002,2002-07-03,SCHLAGER Werner,MONTEIRO Thiago,4,2,"11,11,8,12,6,11|6,9,11,10,11,5",R64,GRAND_SLAM,MS,1317,Main Draw,SCHLAGER Werner (AUT),MONTEIRO Thiago (BRA),SCHLAGER Werner
+US Open Fort Lauderdale 2002,2002-07-03,KONG Linghui,MORITA Yuki (YOB=1984),4,0,"11,11,11,11|6,7,8,9",R64,GRAND_SLAM,MS,1317,Main Draw,KONG Linghui (CHN),MORITA Yuki (YOB=1984) (JPN),KONG Linghui
+US Open Fort Lauderdale 2002,2002-07-03,MATSUMOTO Cazuo,TASAKI Toshio,4,2,"4,11,11,11,12,11|11,8,8,7,14,9",R64,GRAND_SLAM,MS,1317,Main Draw,MATSUMOTO Cazuo (BRA),TASAKI Toshio (JPN),MATSUMOTO Cazuo
+US Open Fort Lauderdale 2002,2002-07-03,ZHUANG David,CIOCIU Traian,4,2,"6,11,11,11,11,14|11,7,6,13,7,12",R64,GRAND_SLAM,MS,1317,Main Draw,ZHUANG David (USA),CIOCIU Traian (LUX),ZHUANG David
+US Open Fort Lauderdale 2002,2002-07-03,CHEUNG Yuk,SORENSEN Mads,4,1,"13,9,12,11,11|11,11,10,4,4",R64,GRAND_SLAM,MS,1317,Main Draw,CHEUNG Yuk (HKG),SORENSEN Mads (DEN),CHEUNG Yuk
+US Open Fort Lauderdale 2002,2002-07-03,CHUANG Chih-Yuan,SAKAMOTO Ryusuke,4,2,"11,11,9,7,11,11|4,6,11,11,6,5",R64,GRAND_SLAM,MS,1317,Main Draw,CHUANG Chih-Yuan (TPE),SAKAMOTO Ryusuke (JPN),CHUANG Chih-Yuan
+US Open Fort Lauderdale 2002,2002-07-03,BENTSEN Allan,GARDOS Robert,4,2,"11,13,10,11,5,11|8,11,12,8,11,4",R64,GRAND_SLAM,MS,1317,Main Draw,BENTSEN Allan (DEN),GARDOS Robert (AUT),BENTSEN Allan
+US Open Fort Lauderdale 2002,2002-07-03,LUNDQVIST Jens,HIELSCHER Lars,4,1,"15,11,6,11,11|13,5,11,5,8",R64,GRAND_SLAM,MS,1317,Main Draw,LUNDQVIST Jens (SWE),HIELSCHER Lars (GER),LUNDQVIST Jens
+US Open Fort Lauderdale 2002,2002-07-03,OH Sangeun,TUGWELL Finn,4,2,"9,8,11,11,11,11|11,11,8,8,9,7",R64,GRAND_SLAM,MS,1317,Main Draw,OH Sangeun (KOR),TUGWELL Finn (DEN),OH Sangeun
+US Open Fort Lauderdale 2002,2002-07-03,LIU Guozheng,WEITZ Daniel,4,0,"11,11,11,11|5,7,7,3",R64,GRAND_SLAM,MS,1317,Main Draw,LIU Guozheng (CHN),WEITZ Daniel (GER),LIU Guozheng
+US Open Fort Lauderdale 2002,2002-07-03,SMIRNOV Alexey,WANG Fei,4,2,"15,11,8,11,6,11|13,9,11,9,11,5",R64,GRAND_SLAM,MS,1317,Main Draw,SMIRNOV Alexey (RUS),WANG Fei (USA),SMIRNOV Alexey
+US Open Fort Lauderdale 2002,2002-07-03,HAKANSSON Fredrik,CLOSSET Marc,4,0,"11,11,11,11|5,7,5,7",R64,GRAND_SLAM,MS,1317,Main Draw,HAKANSSON Fredrik (SWE),CLOSSET Marc (BEL),HAKANSSON Fredrik
+US Open Fort Lauderdale 2002,2002-07-03,RYU Seungmin,KIHO Shinnosuke,4,0,"11,14,13,11|6,12,11,6",R64,GRAND_SLAM,MS,1317,Main Draw,RYU Seungmin (KOR),KIHO Shinnosuke (JPN),RYU Seungmin
+US Open Fort Lauderdale 2002,2002-07-03,MOLDOVAN Istvan,KEEN Trinko,4,1,"11,11,11,7,11|8,9,4,11,6",R64,GRAND_SLAM,MS,1317,Main Draw,MOLDOVAN Istvan (NOR),KEEN Trinko (NED),MOLDOVAN Istvan
+US Open Fort Lauderdale 2002,2002-07-03,JINDRAK Karl,OWENS Eric,4,0,"12,15,11,11|10,13,8,4",R64,GRAND_SLAM,MS,1317,Main Draw,JINDRAK Karl (AUT),OWENS Eric (USA),JINDRAK Karl
+US Open Fort Lauderdale 2002,2002-07-03,GUO Jinhao,LI Ching,4,3,"12,7,6,11,9,11,11|10,11,11,3,11,5,6",R64,GRAND_SLAM,MS,1317,Main Draw,GUO Jinhao (CHN),LI Ching (HKG),GUO Jinhao
+US Open Fort Lauderdale 2002,2002-07-03,MA Lin,MOLIN Magnus,4,0,"11,11,11,11|8,7,6,9",R64,GRAND_SLAM,MS,1317,Main Draw,MA Lin (CHN),MOLIN Magnus (SWE),MA Lin
+US Open Fort Lauderdale 2002,2002-07-03,QIN Zhijian,WANG Liqin,4,2,"8,13,11,5,11,11|11,11,7,11,9,8",R32,GRAND_SLAM,MS,1317,Main Draw,QIN Zhijian (CHN),WANG Liqin (CHN),QIN Zhijian
+US Open Fort Lauderdale 2002,2002-07-03,HOYAMA Hugo,ARAI Shu,4,1,"12,11,11,8,11|10,9,9,11,9",R32,GRAND_SLAM,MS,1317,Main Draw,HOYAMA Hugo (BRA),ARAI Shu (JPN),HOYAMA Hugo
+US Open Fort Lauderdale 2002,2002-07-03,WOSIK Torben,HEISTER Danny,4,1,"5,13,11,11,11|11,11,4,5,9",R32,GRAND_SLAM,MS,1317,Main Draw,WOSIK Torben (GER),HEISTER Danny (NED),WOSIK Torben
+US Open Fort Lauderdale 2002,2002-07-03,LIU Guoliang,CHEN Weixing,4,3,"11,5,11,11,9,5,11|9,11,3,9,11,11,8",R32,GRAND_SLAM,MS,1317,Main Draw,LIU Guoliang (CHN),CHEN Weixing (AUT),LIU Guoliang
+US Open Fort Lauderdale 2002,2002-07-03,LEUNG Chu Yan,WANG Hao,4,2,"11,8,11,11,9,11|7,11,9,8,11,7",R32,GRAND_SLAM,MS,1317,Main Draw,LEUNG Chu Yan (HKG),WANG Hao (CHN),LEUNG Chu Yan
+US Open Fort Lauderdale 2002,2002-07-03,KEINATH Thomas,CRISAN Adrian,4,3,"12,6,11,11,2,8,11|10,11,5,8,11,11,8",R32,GRAND_SLAM,MS,1317,Main Draw,KEINATH Thomas (SVK),CRISAN Adrian (ROU),KEINATH Thomas
+US Open Fort Lauderdale 2002,2002-07-03,LEE Chulseung,KO Lai Chak,4,0,"11,11,11,11|0,7,8,7",R32,GRAND_SLAM,MS,1317,Main Draw,LEE Chulseung (KOR),KO Lai Chak (HKG),LEE Chulseung
+US Open Fort Lauderdale 2002,2002-07-03,SCHLAGER Werner,CHANG Yen-Shu,4,3,"5,11,12,5,11,11,11|11,5,14,11,9,5,2",R32,GRAND_SLAM,MS,1317,Main Draw,SCHLAGER Werner (AUT),CHANG Yen-Shu (TPE),SCHLAGER Werner
+US Open Fort Lauderdale 2002,2002-07-03,KONG Linghui,MATSUMOTO Cazuo,4,0,"11,11,11,11|6,7,8,9",R32,GRAND_SLAM,MS,1317,Main Draw,KONG Linghui (CHN),MATSUMOTO Cazuo (BRA),KONG Linghui
+US Open Fort Lauderdale 2002,2002-07-03,CHEUNG Yuk,ZHUANG David,4,1,"9,11,11,11,11|11,9,6,5,3",R32,GRAND_SLAM,MS,1317,Main Draw,CHEUNG Yuk (HKG),ZHUANG David (USA),CHEUNG Yuk
+US Open Fort Lauderdale 2002,2002-07-03,CHUANG Chih-Yuan,BENTSEN Allan,4,0,"15,13,11,11|13,11,8,8",R32,GRAND_SLAM,MS,1317,Main Draw,CHUANG Chih-Yuan (TPE),BENTSEN Allan (DEN),CHUANG Chih-Yuan
+US Open Fort Lauderdale 2002,2002-07-03,OH Sangeun,LUNDQVIST Jens,4,0,"11,11,11,11|7,9,8,6",R32,GRAND_SLAM,MS,1317,Main Draw,OH Sangeun (KOR),LUNDQVIST Jens (SWE),OH Sangeun
+US Open Fort Lauderdale 2002,2002-07-03,LIU Guozheng,SMIRNOV Alexey,4,1,"13,14,7,11,11|11,12,11,8,5",R32,GRAND_SLAM,MS,1317,Main Draw,LIU Guozheng (CHN),SMIRNOV Alexey (RUS),LIU Guozheng
+US Open Fort Lauderdale 2002,2002-07-03,HAKANSSON Fredrik,RYU Seungmin,4,2,"11,11,7,11,10,15|7,8,11,9,12,13",R32,GRAND_SLAM,MS,1317,Main Draw,HAKANSSON Fredrik (SWE),RYU Seungmin (KOR),HAKANSSON Fredrik
+US Open Fort Lauderdale 2002,2002-07-03,JINDRAK Karl,MOLDOVAN Istvan,4,3,"11,7,13,7,6,11,11|6,11,11,11,11,6,8",R32,GRAND_SLAM,MS,1317,Main Draw,JINDRAK Karl (AUT),MOLDOVAN Istvan (NOR),JINDRAK Karl
+US Open Fort Lauderdale 2002,2002-07-03,MA Lin,GUO Jinhao,4,2,"11,11,4,11,8,11|7,7,11,6,11,6",R32,GRAND_SLAM,MS,1317,Main Draw,MA Lin (CHN),GUO Jinhao (CHN),MA Lin
+US Open Fort Lauderdale 2002,2002-07-03,QIN Zhijian,HOYAMA Hugo,4,0,"11,11,11,11|8,6,4,3",R16,GRAND_SLAM,MS,1317,Main Draw,QIN Zhijian (CHN),HOYAMA Hugo (BRA),QIN Zhijian
+US Open Fort Lauderdale 2002,2002-07-03,LIU Guoliang,WOSIK Torben,4,2,"11,9,12,11,11,11|4,11,10,8,13,9",R16,GRAND_SLAM,MS,1317,Main Draw,LIU Guoliang (CHN),WOSIK Torben (GER),LIU Guoliang
+US Open Fort Lauderdale 2002,2002-07-03,KEINATH Thomas,LEUNG Chu Yan,4,2,"11,16,9,11,5,11|5,14,11,7,11,5",R16,GRAND_SLAM,MS,1317,Main Draw,KEINATH Thomas (SVK),LEUNG Chu Yan (HKG),KEINATH Thomas
+US Open Fort Lauderdale 2002,2002-07-03,SCHLAGER Werner,LEE Chulseung,4,3,"13,11,8,11,11,1,11|15,8,11,7,4,11,6",R16,GRAND_SLAM,MS,1317,Main Draw,SCHLAGER Werner (AUT),LEE Chulseung (KOR),SCHLAGER Werner
+US Open Fort Lauderdale 2002,2002-07-03,KONG Linghui,CHEUNG Yuk,4,0,"12,11,11,11|10,6,4,6",R16,GRAND_SLAM,MS,1317,Main Draw,KONG Linghui (CHN),CHEUNG Yuk (HKG),KONG Linghui
+US Open Fort Lauderdale 2002,2002-07-03,CHUANG Chih-Yuan,OH Sangeun,4,2,"11,11,9,6,12,11|4,6,11,11,10,6",R16,GRAND_SLAM,MS,1317,Main Draw,CHUANG Chih-Yuan (TPE),OH Sangeun (KOR),CHUANG Chih-Yuan
+US Open Fort Lauderdale 2002,2002-07-03,HAKANSSON Fredrik,LIU Guozheng,4,1,"11,11,3,11,14|4,6,11,9,12",R16,GRAND_SLAM,MS,1317,Main Draw,HAKANSSON Fredrik (SWE),LIU Guozheng (CHN),HAKANSSON Fredrik
+US Open Fort Lauderdale 2002,2002-07-03,MA Lin,JINDRAK Karl,4,0,"12,11,11,11|10,4,3,7",R16,GRAND_SLAM,MS,1317,Main Draw,MA Lin (CHN),JINDRAK Karl (AUT),MA Lin
+US Open Fort Lauderdale 2002,2002-07-03,QIN Zhijian,LIU Guoliang,4,0,"11,14,11,11|6,12,9,8",QF,GRAND_SLAM,MS,1317,Main Draw,QIN Zhijian (CHN),LIU Guoliang (CHN),QIN Zhijian
+US Open Fort Lauderdale 2002,2002-07-03,SCHLAGER Werner,KEINATH Thomas,4,0,"11,11,11,11|7,7,7,6",QF,GRAND_SLAM,MS,1317,Main Draw,SCHLAGER Werner (AUT),KEINATH Thomas (SVK),SCHLAGER Werner
+US Open Fort Lauderdale 2002,2002-07-03,KONG Linghui,CHUANG Chih-Yuan,4,1,"10,11,11,11,11|12,8,6,8,3",QF,GRAND_SLAM,MS,1317,Main Draw,KONG Linghui (CHN),CHUANG Chih-Yuan (TPE),KONG Linghui
+US Open Fort Lauderdale 2002,2002-07-03,MA Lin,HAKANSSON Fredrik,4,1,"11,11,12,11,11|8,4,14,7,5",QF,GRAND_SLAM,MS,1317,Main Draw,MA Lin (CHN),HAKANSSON Fredrik (SWE),MA Lin
+US Open Fort Lauderdale 2002,2002-07-03,QIN Zhijian,SCHLAGER Werner,4,1,"11,7,11,11,11|3,11,7,8,9",SF,GRAND_SLAM,MS,1317,Main Draw,QIN Zhijian (CHN),SCHLAGER Werner (AUT),QIN Zhijian
+US Open Fort Lauderdale 2002,2002-07-03,MA Lin,KONG Linghui,4,1,"9,11,11,11,11|11,5,7,5,7",SF,GRAND_SLAM,MS,1317,Main Draw,MA Lin (CHN),KONG Linghui (CHN),MA Lin
+US Open Fort Lauderdale 2002,2002-07-03,RAMOS Fabiola,BOSIKA Mimi,4,0,"11,11,11,11|8,5,4,6",,GRAND_SLAM,WS,1317,Qualification,RAMOS Fabiola (VEN),BOSIKA Mimi (USA),RAMOS Fabiola
+US Open Fort Lauderdale 2002,2002-07-03,NISHII Miyuki,RAMOS Fabiola,4,2,"11,10,11,8,11,11|5,12,7,11,3,6",QR2,GRAND_SLAM,WS,1317,Qualification,NISHII Miyuki (JPN),RAMOS Fabiola (VEN),NISHII Miyuki
+US Open Fort Lauderdale 2002,2002-07-03,NISHII Miyuki,BOSIKA Mimi,4,0,"11,11,11,12|4,4,3,10",3,GRAND_SLAM,WS,1317,Qualification,NISHII Miyuki (JPN),BOSIKA Mimi (USA),NISHII Miyuki
+US Open Fort Lauderdale 2002,2002-07-03,ALVAREZ Morayle,REID Angela,4,1,"11,11,11,8,11|6,7,6,11,3",,GRAND_SLAM,WS,1317,Qualification,ALVAREZ Morayle (ESA),REID Angela (BAR),ALVAREZ Morayle
+US Open Fort Lauderdale 2002,2002-07-03,LU Yun-Feng,REID Angela,4,0,"11,11,11,11|3,1,8,6",QR2,GRAND_SLAM,WS,1317,Qualification,LU Yun-Feng (TPE),REID Angela (BAR),LU Yun-Feng
+US Open Fort Lauderdale 2002,2002-07-03,LU Yun-Feng,ALVAREZ Morayle,4,0,"11,11,11,11|3,6,7,6",3,GRAND_SLAM,WS,1317,Qualification,LU Yun-Feng (TPE),ALVAREZ Morayle (ESA),LU Yun-Feng
+US Open Fort Lauderdale 2002,2002-07-03,WANG De Hsuan,IKEIZUMI Claudia,4,2,"11,9,11,11,4,11|9,11,8,9,11,9",,GRAND_SLAM,WS,1317,Qualification,WANG De Hsuan (ESA),IKEIZUMI Claudia (BRA),WANG De Hsuan
+US Open Fort Lauderdale 2002,2002-07-03,KRAMER Tanja,IKEIZUMI Claudia,4,2,"11,11,11,9,9,11|7,9,6,11,11,3",QR2,GRAND_SLAM,WS,1317,Qualification,KRAMER Tanja (GER),IKEIZUMI Claudia (BRA),KRAMER Tanja
+US Open Fort Lauderdale 2002,2002-07-03,KRAMER Tanja,WANG De Hsuan,4,0,"11,11,11,11|8,1,2,4",3,GRAND_SLAM,WS,1317,Qualification,KRAMER Tanja (GER),WANG De Hsuan (ESA),KRAMER Tanja
+US Open Fort Lauderdale 2002,2002-07-03,NONAKA Mariany,WANG De Ying,4,1,"11,11,11,3,11|8,6,9,11,7",,GRAND_SLAM,WS,1317,Qualification,NONAKA Mariany (BRA),WANG De Ying (ESA),NONAKA Mariany
+US Open Fort Lauderdale 2002,2002-07-03,ITO Midori,NONAKA Mariany,4,0,"11,11,11,12|1,4,4,10",QR2,GRAND_SLAM,WS,1317,Qualification,ITO Midori (JPN),NONAKA Mariany (BRA),ITO Midori
+US Open Fort Lauderdale 2002,2002-07-03,ITO Midori,WANG De Ying,4,0,"11,11,11,11|9,4,5,6",3,GRAND_SLAM,WS,1317,Qualification,ITO Midori (JPN),WANG De Ying (ESA),ITO Midori
+US Open Fort Lauderdale 2002,2002-07-03,GUANCHEZ Mariana,PILON Erica,4,2,"11,15,5,11,1,11|6,13,11,4,11,6",,GRAND_SLAM,WS,1317,Qualification,GUANCHEZ Mariana (VEN),PILON Erica (CAN),GUANCHEZ Mariana
+US Open Fort Lauderdale 2002,2002-07-03,IMAFUKU Kumi,PILON Erica,4,0,"11,11,11,11|9,9,1,7",QR2,GRAND_SLAM,WS,1317,Qualification,IMAFUKU Kumi (JPN),PILON Erica (CAN),IMAFUKU Kumi
+US Open Fort Lauderdale 2002,2002-07-03,IMAFUKU Kumi,GUANCHEZ Mariana,4,2,"11,12,11,11,8,11|4,14,4,8,11,3",3,GRAND_SLAM,WS,1317,Qualification,IMAFUKU Kumi (JPN),GUANCHEZ Mariana (VEN),IMAFUKU Kumi
+US Open Fort Lauderdale 2002,2002-07-03,SU Hsien-Ching,YUEN Sara,4,2,"9,4,11,11,11,11|11,11,7,5,7,6",,GRAND_SLAM,WS,1317,Qualification,SU Hsien-Ching (TPE),YUEN Sara (CAN),SU Hsien-Ching
+US Open Fort Lauderdale 2002,2002-07-03,HAN Kwangsun,YUEN Sara,4,0,"11,11,11,11|6,6,7,6",QR2,GRAND_SLAM,WS,1317,Qualification,HAN Kwangsun (KOR),YUEN Sara (CAN),HAN Kwangsun
+US Open Fort Lauderdale 2002,2002-07-03,HAN Kwangsun,SU Hsien-Ching,4,2,"11,11,10,11,6,11|8,7,12,8,11,6",3,GRAND_SLAM,WS,1317,Qualification,HAN Kwangsun (KOR),SU Hsien-Ching (TPE),HAN Kwangsun
+US Open Fort Lauderdale 2002,2002-07-03,LEE Jacqueline,RUZ Angela,4,0,"11,11,11,11|9,7,8,2",,GRAND_SLAM,WS,1317,Qualification,LEE Jacqueline (USA),RUZ Angela (CHI),LEE Jacqueline
+US Open Fort Lauderdale 2002,2002-07-03,SUGITA Sanae,RUZ Angela,4,0,"11,11,11,11|2,7,4,9",QR2,GRAND_SLAM,WS,1317,Qualification,SUGITA Sanae (JPN),RUZ Angela (CHI),SUGITA Sanae
+US Open Fort Lauderdale 2002,2002-07-03,SUGITA Sanae,LEE Jacqueline,4,0,"11,11,11,11|8,2,9,9",3,GRAND_SLAM,WS,1317,Qualification,SUGITA Sanae (JPN),LEE Jacqueline (USA),SUGITA Sanae
+US Open Fort Lauderdale 2002,2002-07-03,CADA Petra,YI Sophia Dan Dan,4,0,"11,11,11,11|7,5,6,3",,GRAND_SLAM,WS,1317,Qualification,CADA Petra (CAN),YI Sophia Dan Dan (USA),CADA Petra
+US Open Fort Lauderdale 2002,2002-07-03,VEGA Paulina,BARREIRA Nathalia,4,3,"11,11,8,11,9,5,11|8,2,11,8,11,11,9",QR2,GRAND_SLAM,WS,1317,Qualification,VEGA Paulina (CHI),BARREIRA Nathalia (BRA),VEGA Paulina
+US Open Fort Lauderdale 2002,2002-07-03,CADA Petra,VEGA Paulina,4,0,"14,11,13,11|12,6,11,8",3,GRAND_SLAM,WS,1317,Qualification,CADA Petra (CAN),VEGA Paulina (CHI),CADA Petra
+US Open Fort Lauderdale 2002,2002-07-03,BARREIRA Nathalia,YI Sophia Dan Dan,4,0,"11,13,11,11|8,11,1,8",QR4,GRAND_SLAM,WS,1317,Qualification,BARREIRA Nathalia (BRA),YI Sophia Dan Dan (USA),BARREIRA Nathalia
+US Open Fort Lauderdale 2002,2002-07-03,CADA Petra,BARREIRA Nathalia,4,0,"11,11,11,11|4,6,4,5",5,GRAND_SLAM,WS,1317,Qualification,CADA Petra (CAN),BARREIRA Nathalia (BRA),CADA Petra
+US Open Fort Lauderdale 2002,2002-07-03,YI Sophia Dan Dan,VEGA Paulina,4,0,"12,11,11,11|10,5,8,8",6,GRAND_SLAM,WS,1317,Qualification,YI Sophia Dan Dan (USA),VEGA Paulina (CHI),YI Sophia Dan Dan
+US Open Fort Lauderdale 2002,2002-07-03,CHIU Wennin,WU Katherine,4,0,"11,11,11,11|5,9,6,9",,GRAND_SLAM,WS,1317,Qualification,CHIU Wennin (CAN),WU Katherine (USA),CHIU Wennin
+US Open Fort Lauderdale 2002,2002-07-03,HIRANO Sayaka,WU Katherine,4,0,"11,11,11,11|8,7,8,5",QR2,GRAND_SLAM,WS,1317,Qualification,HIRANO Sayaka (JPN),WU Katherine (USA),HIRANO Sayaka
+US Open Fort Lauderdale 2002,2002-07-03,HIRANO Sayaka,CHIU Wennin,4,0,"11,11,11,11|6,7,3,7",3,GRAND_SLAM,WS,1317,Qualification,HIRANO Sayaka (JPN),CHIU Wennin (CAN),HIRANO Sayaka
+US Open Fort Lauderdale 2002,2002-07-03,MOSELEY Kibibi,PING Whitney,4,2,"10,11,11,12,5,12|12,6,7,10,11,10",,GRAND_SLAM,WS,1317,Qualification,MOSELEY Kibibi (BAR),PING Whitney (USA),MOSELEY Kibibi
+US Open Fort Lauderdale 2002,2002-07-03,JONSSON Susanne,PING Whitney,4,1,"11,11,11,8,11|7,6,8,11,5",QR2,GRAND_SLAM,WS,1317,Qualification,JONSSON Susanne (SWE),PING Whitney (USA),JONSSON Susanne
+US Open Fort Lauderdale 2002,2002-07-03,JONSSON Susanne,MOSELEY Kibibi,4,0,"11,11,11,11|7,8,6,9",3,GRAND_SLAM,WS,1317,Qualification,JONSSON Susanne (SWE),MOSELEY Kibibi (BAR),JONSSON Susanne
+US Open Fort Lauderdale 2002,2002-07-03,PEREZ Luisana,LEACH Laura,4,1,"9,11,11,11,11|11,4,1,9,9",,GRAND_SLAM,WS,1317,Qualification,PEREZ Luisana (VEN),LEACH Laura (USA),PEREZ Luisana
+US Open Fort Lauderdale 2002,2002-07-03,PAN Chun-Chu,LEACH Laura,4,0,"11,11,11,11|2,7,7,4",QR2,GRAND_SLAM,WS,1317,Qualification,PAN Chun-Chu (TPE),LEACH Laura (USA),PAN Chun-Chu
+US Open Fort Lauderdale 2002,2002-07-03,PAN Chun-Chu,PEREZ Luisana,4,0,"11,11,11,11|5,8,2,3",3,GRAND_SLAM,WS,1317,Qualification,PAN Chun-Chu (TPE),PEREZ Luisana (VEN),PAN Chun-Chu
+US Open Fort Lauderdale 2002,2002-07-03,GOLIC Biljana,CHUI Jane,4,0,"11,11,11,11|3,7,8,9",,GRAND_SLAM,WS,1317,Qualification,GOLIC Biljana (SRB),CHUI Jane (USA),GOLIC Biljana
+US Open Fort Lauderdale 2002,2002-07-03,FINNEMANN Pia,CHUI Jane,4,0,"11,11,11,11|3,5,8,3",QR2,GRAND_SLAM,WS,1317,Qualification,FINNEMANN Pia (DEN),CHUI Jane (USA),FINNEMANN Pia
+US Open Fort Lauderdale 2002,2002-07-03,FINNEMANN Pia,GOLIC Biljana,4,2,"8,11,11,9,11,11|11,8,4,11,3,7",3,GRAND_SLAM,WS,1317,Qualification,FINNEMANN Pia (DEN),GOLIC Biljana (SRB),FINNEMANN Pia
+US Open Fort Lauderdale 2002,2002-07-03,HUANG Yi-Hua,MEDINA Iizzwa,4,0,"11,11,11,11|2,5,8,1",,GRAND_SLAM,WS,1317,Qualification,HUANG Yi-Hua (TPE),MEDINA Iizzwa (HON),HUANG Yi-Hua
+US Open Fort Lauderdale 2002,2002-07-03,SUNG Virginia,MEDINA Iizzwa,4,0,"11,11,11,11|7,8,9,8",QR2,GRAND_SLAM,WS,1317,Qualification,SUNG Virginia (USA),MEDINA Iizzwa (HON),SUNG Virginia
+US Open Fort Lauderdale 2002,2002-07-03,SUNG Virginia,HUANG Yi-Hua,4,1,"11,11,11,7,11|7,8,7,11,1",3,GRAND_SLAM,WS,1317,Qualification,SUNG Virginia (USA),HUANG Yi-Hua (TPE),SUNG Virginia
+US Open Fort Lauderdale 2002,2002-07-03,SILVA Ligia,KWOK Elaine,4,1,"5,11,11,11,11|11,4,5,6,7",,GRAND_SLAM,WS,1317,Qualification,SILVA Ligia (BRA),KWOK Elaine (USA),SILVA Ligia
+US Open Fort Lauderdale 2002,2002-07-03,POHAR Martina,KWOK Elaine,4,1,"11,11,9,11,11|9,6,11,7,5",QR2,GRAND_SLAM,WS,1317,Qualification,POHAR Martina (SLO),KWOK Elaine (USA),POHAR Martina
+US Open Fort Lauderdale 2002,2002-07-03,POHAR Martina,SILVA Ligia,4,0,"11,11,11,11|4,3,6,6",3,GRAND_SLAM,WS,1317,Qualification,POHAR Martina (SLO),SILVA Ligia (BRA),POHAR Martina
+US Open Fort Lauderdale 2002,2002-07-03,YANG Simone,HASSAN Sara,4,0,"11,12,11,11|3,10,6,6",,GRAND_SLAM,WS,1317,Qualification,YANG Simone (USA),HASSAN Sara (EGY),YANG Simone
+US Open Fort Lauderdale 2002,2002-07-03,ROUSSY Marie-Christine,RAMIREZ Sonia,4,0,"11,11,11,11|4,9,4,9",QR2,GRAND_SLAM,WS,1317,Qualification,ROUSSY Marie-Christine (CAN),RAMIREZ Sonia (ESA),ROUSSY Marie-Christine
+US Open Fort Lauderdale 2002,2002-07-03,YANG Simone,RAMIREZ Sonia,4,0,"11,11,11,11|2,8,2,5",3,GRAND_SLAM,WS,1317,Qualification,YANG Simone (USA),RAMIREZ Sonia (ESA),YANG Simone
+US Open Fort Lauderdale 2002,2002-07-03,ROUSSY Marie-Christine,HASSAN Sara,4,0,"11,11,11,11|8,5,4,4",QR4,GRAND_SLAM,WS,1317,Qualification,ROUSSY Marie-Christine (CAN),HASSAN Sara (EGY),ROUSSY Marie-Christine
+US Open Fort Lauderdale 2002,2002-07-03,YANG Simone,ROUSSY Marie-Christine,4,1,"11,11,5,11,11|7,8,11,4,5",5,GRAND_SLAM,WS,1317,Qualification,YANG Simone (USA),ROUSSY Marie-Christine (CAN),YANG Simone
+US Open Fort Lauderdale 2002,2002-07-03,RAMIREZ Sonia,HASSAN Sara,4,0,"11,11,11,11|9,5,4,6",6,GRAND_SLAM,WS,1317,Qualification,RAMIREZ Sonia (ESA),HASSAN Sara (EGY),RAMIREZ Sonia
+US Open Fort Lauderdale 2002,2002-07-03,WANG Nan,GOLIC Biljana,4,1,"11,9,11,11,11|5,11,9,6,5",R64,GRAND_SLAM,WS,1317,Main Draw,WANG Nan (CHN),GOLIC Biljana (SRB),WANG Nan
+US Open Fort Lauderdale 2002,2002-07-03,SUK Eunmi,ITO Midori,4,1,"11,11,11,8,11|7,8,6,11,6",R64,GRAND_SLAM,WS,1317,Main Draw,SUK Eunmi (KOR),ITO Midori (JPN),SUK Eunmi
+US Open Fort Lauderdale 2002,2002-07-03,IMAFUKU Kumi,BANH THUA Tawny,4,1,"11,11,11,9,11|9,5,6,11,2",R64,GRAND_SLAM,WS,1317,Main Draw,IMAFUKU Kumi (JPN),BANH THUA Tawny (USA),IMAFUKU Kumi
+US Open Fort Lauderdale 2002,2002-07-03,LEE Eunsil,YUEN Sara,4,0,"11,11,11,11|3,5,1,4",R64,GRAND_SLAM,WS,1317,Main Draw,LEE Eunsil (KOR),YUEN Sara (CAN),LEE Eunsil
+US Open Fort Lauderdale 2002,2002-07-03,TIE Yana,HUANG Yi-Hua,4,0,"11,11,12,11|5,9,10,6",R64,GRAND_SLAM,WS,1317,Main Draw,TIE Yana (HKG),HUANG Yi-Hua (TPE),TIE Yana
+US Open Fort Lauderdale 2002,2002-07-03,FUKUHARA Ai,SUNG Virginia,4,3,"8,11,11,11,7,3,11|11,8,5,2,11,11,4",R64,GRAND_SLAM,WS,1317,Main Draw,FUKUHARA Ai (JPN),SUNG Virginia (USA),FUKUHARA Ai
+US Open Fort Lauderdale 2002,2002-07-03,LIN Ling,BARREIRA Nathalia,4,0,"11,11,11,11|6,9,5,8",R64,GRAND_SLAM,WS,1317,Main Draw,LIN Ling (HKG),BARREIRA Nathalia (BRA),LIN Ling
+US Open Fort Lauderdale 2002,2002-07-03,LI Jia,SU Hsien-Ching,4,0,"13,11,11,11|11,4,6,7",R64,GRAND_SLAM,WS,1317,Main Draw,LI Jia (CHN),SU Hsien-Ching (TPE),LI Jia
+US Open Fort Lauderdale 2002,2002-07-03,CADA Petra,NEMES Olga,4,3,"11,7,10,11,10,11,11|5,11,12,9,12,3,8",R64,GRAND_SLAM,WS,1317,Main Draw,CADA Petra (CAN),NEMES Olga (ROU),CADA Petra
+US Open Fort Lauderdale 2002,2002-07-03,NISHII Yuka,POHAR Martina,4,0,"11,12,15,11|8,10,13,8",R64,GRAND_SLAM,WS,1317,Main Draw,NISHII Yuka (JPN),POHAR Martina (SLO),NISHII Yuka
+US Open Fort Lauderdale 2002,2002-07-03,LAU Sui Fei,CHIU Wennin,4,0,"11,11,11,11|7,9,5,5",R64,GRAND_SLAM,WS,1317,Main Draw,LAU Sui Fei (HKG),CHIU Wennin (CAN),LAU Sui Fei
+US Open Fort Lauderdale 2002,2002-07-03,LIU Jia,NONAKA Mariany,4,0,"11,11,11,11|3,5,9,9",R64,GRAND_SLAM,WS,1317,Main Draw,LIU Jia (AUT),NONAKA Mariany (BRA),LIU Jia
+US Open Fort Lauderdale 2002,2002-07-03,KRAMER Tanja,HIURA Reiko,4,1,"11,7,11,11,14|8,11,6,4,12",R64,GRAND_SLAM,WS,1317,Main Draw,KRAMER Tanja (GER),HIURA Reiko (JPN),KRAMER Tanja
+US Open Fort Lauderdale 2002,2002-07-03,OKAZAKI Keiko,FINNEMANN Pia,4,0,"11,11,11,11|7,8,1,6",R64,GRAND_SLAM,WS,1317,Main Draw,OKAZAKI Keiko (JPN),FINNEMANN Pia (DEN),OKAZAKI Keiko
+US Open Fort Lauderdale 2002,2002-07-03,NISHII Miyuki,SONG Ah Sim,4,0,"11,11,11,11|9,3,7,7",R64,GRAND_SLAM,WS,1317,Main Draw,NISHII Miyuki (JPN),SONG Ah Sim (HKG),NISHII Miyuki
+US Open Fort Lauderdale 2002,2002-07-03,FUJINUMA Ai,PAN Chun-Chu,4,0,"12,11,11,11|10,7,6,7",R64,GRAND_SLAM,WS,1317,Main Draw,FUJINUMA Ai (JPN),PAN Chun-Chu (TPE),FUJINUMA Ai
+US Open Fort Lauderdale 2002,2002-07-03,CAO Xingni,REID Angela,4,1,"11,11,11,9,11|4,6,4,11,4",R64,GRAND_SLAM,WS,1317,Main Draw,CAO Xingni (CHN),REID Angela (BAR),CAO Xingni
+US Open Fort Lauderdale 2002,2002-07-03,KIM Mookyo,ROUSSY Marie-Christine,4,3,"5,11,8,10,11,11,11|11,9,11,12,5,6,5",R64,GRAND_SLAM,WS,1317,Main Draw,KIM Mookyo (KOR),ROUSSY Marie-Christine (CAN),KIM Mookyo
+US Open Fort Lauderdale 2002,2002-07-03,SUGITA Sanae,RATHER Jasna,4,2,"11,9,4,11,11,11|8,11,11,6,5,8",R64,GRAND_SLAM,WS,1317,Main Draw,SUGITA Sanae (JPN),RATHER Jasna (USA),SUGITA Sanae
+US Open Fort Lauderdale 2002,2002-07-03,JOHANSSON Sandra,HAN Kwangsun,4,3,"11,5,11,7,8,11,11|2,11,2,11,11,9,5",R64,GRAND_SLAM,WS,1317,Main Draw,JOHANSSON Sandra (SWE),HAN Kwangsun (KOR),JOHANSSON Sandra
+US Open Fort Lauderdale 2002,2002-07-03,LI Nan,LEE Jacqueline,4,0,"11,11,11,11|7,4,4,4",R64,GRAND_SLAM,WS,1317,Main Draw,LI Nan (CHN),LEE Jacqueline (USA),LI Nan
+US Open Fort Lauderdale 2002,2002-07-03,ZHANG Rui,JONSSON Susanne,4,0,"11,11,11,11|8,8,6,3",R64,GRAND_SLAM,WS,1317,Main Draw,ZHANG Rui (HKG),JONSSON Susanne (SWE),ZHANG Rui
+US Open Fort Lauderdale 2002,2002-07-03,STRUSE Nicole,LU Yun-Feng,4,0,"11,11,14,12|5,7,12,10",R64,GRAND_SLAM,WS,1317,Main Draw,STRUSE Nicole (GER),LU Yun-Feng (TPE),STRUSE Nicole
+US Open Fort Lauderdale 2002,2002-07-03,KONISHI An,MOSELEY Kibibi,4,0,"11,11,11,11|6,0,8,1",R64,GRAND_SLAM,WS,1317,Main Draw,KONISHI An (JPN),MOSELEY Kibibi (BAR),KONISHI An
+US Open Fort Lauderdale 2002,2002-07-03,KISHIDA Satoko,YANG Simone,4,0,"11,11,11,11|6,4,6,8",R64,GRAND_SLAM,WS,1317,Main Draw,KISHIDA Satoko (JPN),YANG Simone (USA),KISHIDA Satoko
+US Open Fort Lauderdale 2002,2002-07-03,ZHANG Yining,SILVA Ligia,4,1,"11,11,8,11,11|6,4,11,2,5",R64,GRAND_SLAM,WS,1317,Main Draw,ZHANG Yining (CHN),SILVA Ligia (BRA),ZHANG Yining
+US Open Fort Lauderdale 2002,2002-07-03,WANG Nan,SUK Eunmi,4,0,"11,11,11,13|7,1,7,11",R32,GRAND_SLAM,WS,1317,Main Draw,WANG Nan (CHN),SUK Eunmi (KOR),WANG Nan
+US Open Fort Lauderdale 2002,2002-07-03,LEE Eunsil,IMAFUKU Kumi,4,2,"11,8,11,9,11,11|7,11,5,11,4,6",R32,GRAND_SLAM,WS,1317,Main Draw,LEE Eunsil (KOR),IMAFUKU Kumi (JPN),LEE Eunsil
+US Open Fort Lauderdale 2002,2002-07-03,TIE Yana,TASEI Mikie,4,0,"11,11,11,11|5,8,2,7",R32,GRAND_SLAM,WS,1317,Main Draw,TIE Yana (HKG),TASEI Mikie (JPN),TIE Yana
+US Open Fort Lauderdale 2002,2002-07-03,LIN Ling,FUKUHARA Ai,4,0,"11,11,11,11|9,7,9,5",R32,GRAND_SLAM,WS,1317,Main Draw,LIN Ling (HKG),FUKUHARA Ai (JPN),LIN Ling
+US Open Fort Lauderdale 2002,2002-07-03,LI Jia,CADA Petra,4,0,"11,11,11,11|6,4,4,6",R32,GRAND_SLAM,WS,1317,Main Draw,LI Jia (CHN),CADA Petra (CAN),LI Jia
+US Open Fort Lauderdale 2002,2002-07-03,LAU Sui Fei,NISHII Yuka,4,3,"11,11,11,8,4,13,11|1,9,6,11,11,15,9",R32,GRAND_SLAM,WS,1317,Main Draw,LAU Sui Fei (HKG),NISHII Yuka (JPN),LAU Sui Fei
+US Open Fort Lauderdale 2002,2002-07-03,LIU Jia,KRAMER Tanja,4,2,"8,12,1,11,11,11|11,10,11,2,3,9",R32,GRAND_SLAM,WS,1317,Main Draw,LIU Jia (AUT),KRAMER Tanja (GER),LIU Jia
+US Open Fort Lauderdale 2002,2002-07-03,RYU Jihae,OKAZAKI Keiko,4,1,"11,11,11,7,11|6,5,7,11,6",R32,GRAND_SLAM,WS,1317,Main Draw,RYU Jihae (KOR),OKAZAKI Keiko (JPN),RYU Jihae
+US Open Fort Lauderdale 2002,2002-07-03,NIU Jianfeng,NISHII Miyuki,4,0,"11,11,11,11|5,3,6,6",R32,GRAND_SLAM,WS,1317,Main Draw,NIU Jianfeng (CHN),NISHII Miyuki (JPN),NIU Jianfeng
+US Open Fort Lauderdale 2002,2002-07-03,CAO Xingni,FUJINUMA Ai,4,2,"11,11,10,13,11,15|13,6,12,11,6,13",R32,GRAND_SLAM,WS,1317,Main Draw,CAO Xingni (CHN),FUJINUMA Ai (JPN),CAO Xingni
+US Open Fort Lauderdale 2002,2002-07-03,KIM Mookyo,SUGITA Sanae,4,2,"11,11,8,11,9,11|9,7,11,6,11,5",R32,GRAND_SLAM,WS,1317,Main Draw,KIM Mookyo (KOR),SUGITA Sanae (JPN),KIM Mookyo
+US Open Fort Lauderdale 2002,2002-07-03,GUO Yan (1982),JOHANSSON Sandra,4,1,"11,11,8,11,11|2,9,11,4,9",R32,GRAND_SLAM,WS,1317,Main Draw,GUO Yan (1982) (CHN),JOHANSSON Sandra (SWE),GUO Yan (1982)
+US Open Fort Lauderdale 2002,2002-07-03,ZHANG Rui,LI Nan,4,1,"14,6,11,12,11|12,11,8,10,7",R32,GRAND_SLAM,WS,1317,Main Draw,ZHANG Rui (HKG),LI Nan (CHN),ZHANG Rui
+US Open Fort Lauderdale 2002,2002-07-03,STRUSE Nicole,KONISHI An,4,1,"10,11,11,11,11|12,9,8,7,6",R32,GRAND_SLAM,WS,1317,Main Draw,STRUSE Nicole (GER),KONISHI An (JPN),STRUSE Nicole
+US Open Fort Lauderdale 2002,2002-07-03,KISHIDA Satoko,UMEMURA Aya,4,3,"11,11,5,8,9,11,11|5,9,11,11,11,9,8",R32,GRAND_SLAM,WS,1317,Main Draw,KISHIDA Satoko (JPN),UMEMURA Aya (JPN),KISHIDA Satoko
+US Open Fort Lauderdale 2002,2002-07-03,ZHANG Yining,SCHALL Elke,4,0,"13,11,11,11|11,8,6,9",R32,GRAND_SLAM,WS,1317,Main Draw,ZHANG Yining (CHN),SCHALL Elke (GER),ZHANG Yining
+US Open Fort Lauderdale 2002,2002-07-03,WANG Nan,LEE Eunsil,4,0,"11,16,11,11|5,14,9,3",R16,GRAND_SLAM,WS,1317,Main Draw,WANG Nan (CHN),LEE Eunsil (KOR),WANG Nan
+US Open Fort Lauderdale 2002,2002-07-03,LIN Ling,TIE Yana,4,0,"11,11,11,11|7,5,6,8",R16,GRAND_SLAM,WS,1317,Main Draw,LIN Ling (HKG),TIE Yana (HKG),LIN Ling
+US Open Fort Lauderdale 2002,2002-07-03,LAU Sui Fei,LI Jia,4,3,"6,11,4,11,11,11,11|11,9,11,8,13,8,7",R16,GRAND_SLAM,WS,1317,Main Draw,LAU Sui Fei (HKG),LI Jia (CHN),LAU Sui Fei
+US Open Fort Lauderdale 2002,2002-07-03,RYU Jihae,LIU Jia,4,0,"11,13,11,11|4,11,9,8",R16,GRAND_SLAM,WS,1317,Main Draw,RYU Jihae (KOR),LIU Jia (AUT),RYU Jihae
+US Open Fort Lauderdale 2002,2002-07-03,NIU Jianfeng,CAO Xingni,4,0,"11,11,11,11|2,4,9,7",R16,GRAND_SLAM,WS,1317,Main Draw,NIU Jianfeng (CHN),CAO Xingni (CHN),NIU Jianfeng
+US Open Fort Lauderdale 2002,2002-07-03,GUO Yan (1982),KIM Mookyo,4,0,"11,11,12,11|8,5,10,7",R16,GRAND_SLAM,WS,1317,Main Draw,GUO Yan (1982) (CHN),KIM Mookyo (KOR),GUO Yan (1982)
+US Open Fort Lauderdale 2002,2002-07-03,ZHANG Rui,STRUSE Nicole,4,1,"11,11,11,4,11|6,6,6,11,6",R16,GRAND_SLAM,WS,1317,Main Draw,ZHANG Rui (HKG),STRUSE Nicole (GER),ZHANG Rui
+US Open Fort Lauderdale 2002,2002-07-03,ZHANG Yining,KISHIDA Satoko,4,0,"11,11,11,11|4,7,4,7",R16,GRAND_SLAM,WS,1317,Main Draw,ZHANG Yining (CHN),KISHIDA Satoko (JPN),ZHANG Yining
+US Open Fort Lauderdale 2002,2002-07-03,LIN Ling,WANG Nan,4,3,"11,8,5,11,11,3,11|7,11,11,6,6,11,9",QF,GRAND_SLAM,WS,1317,Main Draw,LIN Ling (HKG),WANG Nan (CHN),LIN Ling
+US Open Fort Lauderdale 2002,2002-07-03,LAU Sui Fei,RYU Jihae,4,1,"11,11,11,12,11|13,5,8,10,8",QF,GRAND_SLAM,WS,1317,Main Draw,LAU Sui Fei (HKG),RYU Jihae (KOR),LAU Sui Fei
+US Open Fort Lauderdale 2002,2002-07-03,NIU Jianfeng,GUO Yan (1982),4,3,"7,11,6,9,11,11,11|11,8,11,11,9,3,9",QF,GRAND_SLAM,WS,1317,Main Draw,NIU Jianfeng (CHN),GUO Yan (1982) (CHN),NIU Jianfeng
+US Open Fort Lauderdale 2002,2002-07-03,ZHANG Yining,ZHANG Rui,4,3,"9,11,9,11,11,4,12|11,7,11,9,8,11,10",QF,GRAND_SLAM,WS,1317,Main Draw,ZHANG Yining (CHN),ZHANG Rui (HKG),ZHANG Yining
+US Open Fort Lauderdale 2002,2002-07-03,LAU Sui Fei,LIN Ling,4,0,"11,11,11,11|2,6,7,9",SF,GRAND_SLAM,WS,1317,Main Draw,LAU Sui Fei (HKG),LIN Ling (HKG),LAU Sui Fei
+US Open Fort Lauderdale 2002,2002-07-03,ZHANG Yining,NIU Jianfeng,4,2,"11,9,8,11,12,11|6,11,11,5,10,5",SF,GRAND_SLAM,WS,1317,Main Draw,ZHANG Yining (CHN),NIU Jianfeng (CHN),ZHANG Yining
+US Open Fort Lauderdale 2002,2002-07-03,JINDRAK Karl/SCHLAGER Werner,BENTSEN Allan/TUGWELL Finn,3,1,"11,11,8,11|8,6,11,4",R16,GRAND_SLAM,MD,1317,Main Draw,JINDRAK Karl (AUT) / SCHLAGER Werner (AUT),BENTSEN Allan (DEN) / TUGWELL Finn (DEN),JINDRAK Karl
+US Open Fort Lauderdale 2002,2002-07-03,CHEN Weixing/GARDOS Robert,OWENS Eric/ZHUANG David,3,2,"10,11,11,11,11|12,13,7,6,5",QR32,GRAND_SLAM,MD,1317,Qualification,CHEN Weixing (AUT) / GARDOS Robert (AUT),OWENS Eric (USA) / ZHUANG David (USA),CHEN Weixing
+US Open Fort Lauderdale 2002,2002-07-03,HOYAMA Hugo/MONTEIRO Thiago,CHOU Yu-Chen/LEE Jih-Shenz,3,0,"11,11,11|6,9,9",QR64,GRAND_SLAM,MD,1317,Qualification,HOYAMA Hugo (BRA) / MONTEIRO Thiago (BRA),CHOU Yu-Chen (TPE) / LEE Jih-Shenz (TPE),HOYAMA Hugo
+US Open Fort Lauderdale 2002,2002-07-03,ERLANDSEN Geir/MOLDOVAN Istvan,HANASHIRO Hugo/MATSUMOTO Cazuo,3,1,"12,11,12,11|10,3,14,7",QR32,GRAND_SLAM,MD,1317,Qualification,ERLANDSEN Geir (NOR) / MOLDOVAN Istvan (NOR),HANASHIRO Hugo (BRA) / MATSUMOTO Cazuo (BRA),ERLANDSEN Geir
+US Open Fort Lauderdale 2002,2002-07-03,KONGSGAARD Christian/SORENSEN Mads,CABRERA Ignacio/ULATOWSKI Michel,3,2,"4,7,11,11,11|11,11,6,2,9",QR64,GRAND_SLAM,MD,1317,Qualification,KONGSGAARD Christian (DEN) / SORENSEN Mads (DEN),CABRERA Ignacio (CAN) / ULATOWSKI Michel (CAN),KONGSGAARD Christian
+US Open Fort Lauderdale 2002,2002-07-03,FEJER-KONNERTH Zoltan/WOSIK Torben,CSABA Bence/KASSAM Faazil,3,1,"11,7,12,11|6,11,10,7",QR32,GRAND_SLAM,MD,1317,Qualification,FEJER-KONNERTH Zoltan (GER) / WOSIK Torben (GER),CSABA Bence (CAN) / KASSAM Faazil (CAN),FEJER-KONNERTH Zoltan
+US Open Fort Lauderdale 2002,2002-07-03,BITZIGEIO Jorg/WEITZ Daniel,OLEA Carlos/SZENFELD Jorge,3,0,"12,11,11|10,7,9",QR64,GRAND_SLAM,MD,1317,Qualification,BITZIGEIO Jorg (GER) / WEITZ Daniel (GER),OLEA Carlos (CHI) / SZENFELD Jorge (CHI),BITZIGEIO Jorg
+US Open Fort Lauderdale 2002,2002-07-03,QIN Zhijian/WANG Liqin,MAZE Michael/MONRAD Martin,3,0,"11,14,11|6,12,4",R16,GRAND_SLAM,MD,1317,Main Draw,QIN Zhijian (CHN) / WANG Liqin (CHN),MAZE Michael (DEN) / MONRAD Martin (DEN),QIN Zhijian
+US Open Fort Lauderdale 2002,2002-07-03,LIU Guozheng/WANG Hao,LEE Chulseung/RYU Seungmin,3,2,"11,10,7,11,11|7,12,11,8,6",R16,GRAND_SLAM,MD,1317,Main Draw,LIU Guozheng (CHN) / WANG Hao (CHN),LEE Chulseung (KOR) / RYU Seungmin (KOR),LIU Guozheng
+US Open Fort Lauderdale 2002,2002-07-03,KONG Linghui/MA Lin,CHEUNG Yuk/LEUNG Chu Yan,3,1,"9,11,11,11|11,4,8,5",QF,GRAND_SLAM,MD,1317,Main Draw,KONG Linghui (CHN) / MA Lin (CHN),CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),KONG Linghui
+US Open Fort Lauderdale 2002,2002-07-03,HAKANSSON Fredrik/OH Sangeun,LIU Guozheng/WANG Hao,3,2,"5,9,11,11,11|11,11,7,9,8",QF,GRAND_SLAM,MD,1317,Main Draw,HAKANSSON Fredrik (SWE) / OH Sangeun (KOR),LIU Guozheng (CHN) / WANG Hao (CHN),HAKANSSON Fredrik
+US Open Fort Lauderdale 2002,2002-07-03,LIU Guozheng/WANG Hao,BITZIGEIO Jorg/WEITZ Daniel,3,0,"11,11,11|8,6,8",QR32,GRAND_SLAM,MD,1317,Qualification,LIU Guozheng (CHN) / WANG Hao (CHN),BITZIGEIO Jorg (GER) / WEITZ Daniel (GER),LIU Guozheng
+US Open Fort Lauderdale 2002,2002-07-03,KONG Linghui/MA Lin,QIN Zhijian/WANG Liqin,4,1,"11,11,12,9,11|8,8,10,11,5",SF,GRAND_SLAM,MD,1317,Main Draw,KONG Linghui (CHN) / MA Lin (CHN),QIN Zhijian (CHN) / WANG Liqin (CHN),KONG Linghui
+US Open Fort Lauderdale 2002,2002-07-03,KONGSGAARD Christian/SORENSEN Mads,HOYAMA Hugo/MONTEIRO Thiago,3,1,"5,15,12,11|11,13,10,9",QR32,GRAND_SLAM,MD,1317,Qualification,KONGSGAARD Christian (DEN) / SORENSEN Mads (DEN),HOYAMA Hugo (BRA) / MONTEIRO Thiago (BRA),KONGSGAARD Christian
+US Open Fort Lauderdale 2002,2002-07-03,BENTSEN Allan/TUGWELL Finn,HUGH Adam/LYNCH Jared,3,0,"11,11,11|3,1,6",QR32,GRAND_SLAM,MD,1317,Qualification,BENTSEN Allan (DEN) / TUGWELL Finn (DEN),HUGH Adam (USA) / LYNCH Jared (USA),BENTSEN Allan
+US Open Fort Lauderdale 2002,2002-07-03,MAZE Michael/MONRAD Martin,PACE Brian/SEL Zolt,3,0,"11,11,11|7,7,9",QR32,GRAND_SLAM,MD,1317,Qualification,MAZE Michael (DEN) / MONRAD Martin (DEN),PACE Brian (USA) / SEL Zolt (SRB),MAZE Michael
+US Open Fort Lauderdale 2002,2002-07-03,KISHIKAWA Seiya/SAKAMOTO Ryusuke,HIELSCHER Lars/STEGER Bastian,3,2,"5,11,4,11,11|11,8,11,4,7",QR32,GRAND_SLAM,MD,1317,Qualification,KISHIKAWA Seiya (JPN) / SAKAMOTO Ryusuke (JPN),HIELSCHER Lars (GER) / STEGER Bastian (GER),KISHIKAWA Seiya
+US Open Fort Lauderdale 2002,2002-07-03,FETH Stefan/KEINATH Thomas,DAVID Paul/LEWIS Idi,3,0,"11,11,11|8,4,9",QR64,GRAND_SLAM,MD,1317,Qualification,FETH Stefan (GER) / KEINATH Thomas (SVK),DAVID Paul (GUY) / LEWIS Idi (GUY),FETH Stefan
+US Open Fort Lauderdale 2002,2002-07-03,CHEUNG Yuk/LEUNG Chu Yan,FETH Stefan/KEINATH Thomas,3,2,"8,11,11,9,11|11,6,5,11,6",R16,GRAND_SLAM,MD,1317,Main Draw,CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),FETH Stefan (GER) / KEINATH Thomas (SVK),CHEUNG Yuk
+US Open Fort Lauderdale 2002,2002-07-03,QIN Zhijian/WANG Liqin,KO Lai Chak/LI Ching,3,1,"14,3,11,11|12,11,9,9",QF,GRAND_SLAM,MD,1317,Main Draw,QIN Zhijian (CHN) / WANG Liqin (CHN),KO Lai Chak (HKG) / LI Ching (HKG),QIN Zhijian
+US Open Fort Lauderdale 2002,2002-07-03,MURAMORI Minoru/MORITA Yuki (YOB=1984),GIANNINI Antonio/MUJICA Henry,3,1,"14,11,11,11|12,13,7,7",QR64,GRAND_SLAM,MD,1317,Qualification,MURAMORI Minoru (JPN) / MORITA Yuki (YOB=1984) (JPN),GIANNINI Antonio (VEN) / MUJICA Henry (VEN),MURAMORI Minoru
+US Open Fort Lauderdale 2002,2002-07-03,KISHIKAWA Seiya/SAKAMOTO Ryusuke,LAI Kuan-Shen/TSENG Chun-Yuan,3,1,"11,10,11,11|4,12,8,9",QR64,GRAND_SLAM,MD,1317,Qualification,KISHIKAWA Seiya (JPN) / SAKAMOTO Ryusuke (JPN),LAI Kuan-Shen (TPE) / TSENG Chun-Yuan (TPE),KISHIKAWA Seiya
+US Open Fort Lauderdale 2002,2002-07-03,MURAMORI Minoru/MORITA Yuki (YOB=1984),CRISAN Adrian/SMIRNOV Alexey,3,1,"11,3,11,11|5,11,9,7",QR32,GRAND_SLAM,MD,1317,Qualification,MURAMORI Minoru (JPN) / MORITA Yuki (YOB=1984) (JPN),CRISAN Adrian (ROU) / SMIRNOV Alexey (RUS),MURAMORI Minoru
+US Open Fort Lauderdale 2002,2002-07-03,HAKANSSON Fredrik/OH Sangeun,CHEN Weixing/GARDOS Robert,3,2,"11,11,7,3,11|7,9,11,11,3",R16,GRAND_SLAM,MD,1317,Main Draw,HAKANSSON Fredrik (SWE) / OH Sangeun (KOR),CHEN Weixing (AUT) / GARDOS Robert (AUT),HAKANSSON Fredrik
+US Open Fort Lauderdale 2002,2002-07-03,HAKANSSON Fredrik/OH Sangeun,HEISTER Danny/KEEN Trinko,4,2,"5,9,14,11,11,11|11,11,12,7,9,9",SF,GRAND_SLAM,MD,1317,Main Draw,HAKANSSON Fredrik (SWE) / OH Sangeun (KOR),HEISTER Danny (NED) / KEEN Trinko (NED),HAKANSSON Fredrik
+US Open Fort Lauderdale 2002,2002-07-03,KONG Linghui/MA Lin,HAKANSSON Fredrik/OH Sangeun,4,1,"11,11,6,12,11|6,8,11,10,9",F,GRAND_SLAM,MD,1317,Main Draw,KONG Linghui (CHN) / MA Lin (CHN),HAKANSSON Fredrik (SWE) / OH Sangeun (KOR),KONG Linghui
+US Open Fort Lauderdale 2002,2002-07-03,HEISTER Danny/KEEN Trinko,JINDRAK Karl/SCHLAGER Werner,3,2,"9,11,11,4,11|11,8,7,11,4",QF,GRAND_SLAM,MD,1317,Main Draw,HEISTER Danny (NED) / KEEN Trinko (NED),JINDRAK Karl (AUT) / SCHLAGER Werner (AUT),HEISTER Danny
+US Open Fort Lauderdale 2002,2002-07-03,FETH Stefan/KEINATH Thomas,HAZINSKI Mark/XIAO Han,3,0,"11,12,11|7,10,6",QR32,GRAND_SLAM,MD,1317,Qualification,FETH Stefan (GER) / KEINATH Thomas (SVK),HAZINSKI Mark (USA) / XIAO Han (USA),FETH Stefan
+US Open Fort Lauderdale 2002,2002-07-03,KONG Linghui/MA Lin,LUNDQVIST Jens/MOLIN Magnus,3,1,"9,12,11,11|11,10,7,7",R16,GRAND_SLAM,MD,1317,Main Draw,KONG Linghui (CHN) / MA Lin (CHN),LUNDQVIST Jens (SWE) / MOLIN Magnus (SWE),KONG Linghui
+US Open Fort Lauderdale 2002,2002-07-03,SUN Wen-Wei/WU Chih-Chi,ARAI Shu/TAKAMORI Hidero,3,2,"10,11,9,11,11|12,5,11,6,6",QR64,GRAND_SLAM,MD,1317,Qualification,SUN Wen-Wei (TPE) / WU Chih-Chi (TPE),ARAI Shu (JPN) / TAKAMORI Hidero (JPN),SUN Wen-Wei
+US Open Fort Lauderdale 2002,2002-07-03,CSABA Bence/KASSAM Faazil,SU Chu-Chao/SU Chi-Young,3,0,"11,11,11|5,5,7",QR64,GRAND_SLAM,MD,1317,Qualification,CSABA Bence (CAN) / KASSAM Faazil (CAN),SU Chu-Chao (TPE) / SU Chi-Young (TPE),CSABA Bence
+US Open Fort Lauderdale 2002,2002-07-03,HANASHIRO Hugo/MATSUMOTO Cazuo,KAO Chien-Ting/KOU Yen-Cheng,3,1,"13,11,6,13|11,9,11,11",QR64,GRAND_SLAM,MD,1317,Qualification,HANASHIRO Hugo (BRA) / MATSUMOTO Cazuo (BRA),KAO Chien-Ting (TPE) / KOU Yen-Cheng (TPE),HANASHIRO Hugo
+US Open Fort Lauderdale 2002,2002-07-03,CHOU Tung-Yu/HUANG Wei-Chin,HINSE Pierre-Luc/GUO Peng,3,1,"11,7,13,11|7,11,11,6",QR64,GRAND_SLAM,MD,1317,Qualification,CHOU Tung-Yu (TPE) / HUANG Wei-Chin (TPE),HINSE Pierre-Luc (CAN) / GUO Peng (CAN),CHOU Tung-Yu
+US Open Fort Lauderdale 2002,2002-07-03,HUANG Chien-Yuan/LEE Chi-Ching,HYATT Michael/WEBB Nigel,3,0,"14,11,11|11,9,6",QR64,GRAND_SLAM,MD,1317,Qualification,HUANG Chien-Yuan (TPE) / LEE Chi-Ching (TPE),HYATT Michael (JAM) / WEBB Nigel (JAM),HUANG Chien-Yuan
+US Open Fort Lauderdale 2002,2002-07-03,CHENG Yinghua/JAIN Ashoo,HUANG Chang-Hsuan/LIN Xin-Nan,3,1,"11,12,4,11|9,10,11,6",QR64,GRAND_SLAM,MD,1317,Qualification,CHENG Yinghua (USA) / JAIN Ashoo (USA),HUANG Chang-Hsuan (TPE) / LIN Xin-Nan (TPE),CHENG Yinghua
+US Open Fort Lauderdale 2002,2002-07-03,CHENG Chi-Yuan/LIU Sheng-Li,CIOCIU Traian/CLOSSET Marc,3,0,"11,11,11|3,6,9",QR64,GRAND_SLAM,MD,1317,Qualification,CHENG Chi-Yuan (TPE) / LIU Sheng-Li (TPE),CIOCIU Traian (LUX) / CLOSSET Marc (BEL),CHENG Chi-Yuan
+US Open Fort Lauderdale 2002,2002-07-03,KO Lai Chak/LI Ching,CHANG Yen-Shu/CHUANG Chih-Yuan,3,0,"11,11,11|7,8,6",R16,GRAND_SLAM,MD,1317,Main Draw,KO Lai Chak (HKG) / LI Ching (HKG),CHANG Yen-Shu (TPE) / CHUANG Chih-Yuan (TPE),KO Lai Chak
+US Open Fort Lauderdale 2002,2002-07-03,HEISTER Danny/KEEN Trinko,SUN Wen-Wei/WU Chih-Chi,3,0,"13,13,11|11,11,7",QR32,GRAND_SLAM,MD,1317,Qualification,HEISTER Danny (NED) / KEEN Trinko (NED),SUN Wen-Wei (TPE) / WU Chih-Chi (TPE),HEISTER Danny
+US Open Fort Lauderdale 2002,2002-07-03,GUO Jinhao/LIU Guoliang,CHOU Tung-Yu/HUANG Wei-Chin,3,0,"11,12,11|9,10,5",QR32,GRAND_SLAM,MD,1317,Qualification,GUO Jinhao (CHN) / LIU Guoliang (CHN),CHOU Tung-Yu (TPE) / HUANG Wei-Chin (TPE),GUO Jinhao
+US Open Fort Lauderdale 2002,2002-07-03,LUNDQVIST Jens/MOLIN Magnus,HUANG Chien-Yuan/LEE Chi-Ching,3,0,"11,11,11|8,7,4",QR32,GRAND_SLAM,MD,1317,Qualification,LUNDQVIST Jens (SWE) / MOLIN Magnus (SWE),HUANG Chien-Yuan (TPE) / LEE Chi-Ching (TPE),LUNDQVIST Jens
+US Open Fort Lauderdale 2002,2002-07-03,SANADA Koji/KIHO Shinnosuke,CHENG Chi-Yuan/LIU Sheng-Li,3,0,"11,12,11|7,10,7",QR32,GRAND_SLAM,MD,1317,Qualification,SANADA Koji (JPN) / KIHO Shinnosuke (JPN),CHENG Chi-Yuan (TPE) / LIU Sheng-Li (TPE),SANADA Koji
+US Open Fort Lauderdale 2002,2002-07-03,CHANG Yen-Shu/CHUANG Chih-Yuan,PETER-PAUL Pradeeban/THERIEN Xavier,3,0,"11,11,11|8,5,4",QR32,GRAND_SLAM,MD,1317,Qualification,CHANG Yen-Shu (TPE) / CHUANG Chih-Yuan (TPE),PETER-PAUL Pradeeban (CAN) / THERIEN Xavier (CAN),CHANG Yen-Shu
+US Open Fort Lauderdale 2002,2002-07-03,HAZINSKI Mark/XIAO Han,KUNG Yu-Peng/LIN Chun-Cheng,3,1,"11,5,11,13|7,11,7,11",QR64,GRAND_SLAM,MD,1317,Qualification,HAZINSKI Mark (USA) / XIAO Han (USA),KUNG Yu-Peng (TPE) / LIN Chun-Cheng (TPE),HAZINSKI Mark
+US Open Fort Lauderdale 2002,2002-07-03,TASAKI Toshio/TANIGUCHI Yuji,CHENG Yinghua/JAIN Ashoo,3,2,"11,9,11,4,11|9,11,6,11,7",QR32,GRAND_SLAM,MD,1317,Qualification,TASAKI Toshio (JPN) / TANIGUCHI Yuji (JPN),CHENG Yinghua (USA) / JAIN Ashoo (USA),TASAKI Toshio
+US Open Fort Lauderdale 2002,2002-07-03,HAN Kwangsun/NEMES Olga,IKEIZUMI Claudia/NONAKA Mariany,3,0,"11,11,11|5,5,3",QR32,GRAND_SLAM,WD,1317,Qualification,HAN Kwangsun (KOR) / NEMES Olga (ROU),IKEIZUMI Claudia (BRA) / NONAKA Mariany (BRA),HAN Kwangsun
+US Open Fort Lauderdale 2002,2002-07-03,FUKUHARA Ai/KONISHI An,BARREIRA Nathalia/SILVA Ligia,3,0,"11,11,11|5,6,6",QR16,GRAND_SLAM,WD,1317,Qualification,FUKUHARA Ai (JPN) / KONISHI An (JPN),BARREIRA Nathalia (BRA) / SILVA Ligia (BRA),FUKUHARA Ai
+US Open Fort Lauderdale 2002,2002-07-03,CADA Petra/ROUSSY Marie-Christine,RUZ Angela/VEGA Paulina,3,0,"11,11,11|4,8,5",QR32,GRAND_SLAM,WD,1317,Qualification,CADA Petra (CAN) / ROUSSY Marie-Christine (CAN),RUZ Angela (CHI) / VEGA Paulina (CHI),CADA Petra
+US Open Fort Lauderdale 2002,2002-07-03,GUO Yan (1982)/LI Jia,FUKUHARA Ai/KONISHI An,3,2,"11,11,8,5,11|6,4,11,11,9",R16,GRAND_SLAM,WD,1317,Main Draw,GUO Yan (1982) (CHN) / LI Jia (CHN),FUKUHARA Ai (JPN) / KONISHI An (JPN),GUO Yan (1982)
+US Open Fort Lauderdale 2002,2002-07-03,LI Nan/ZHANG Yining,TIE Yana/ZHANG Rui,3,2,"14,11,18,8,11|16,9,16,11,6",R16,GRAND_SLAM,WD,1317,Main Draw,LI Nan (CHN) / ZHANG Yining (CHN),TIE Yana (HKG) / ZHANG Rui (HKG),LI Nan
+US Open Fort Lauderdale 2002,2002-07-03,NIU Jianfeng/WANG Nan,GUO Yan (1982)/LI Jia,3,2,"9,12,11,6,11|11,10,7,11,6",QF,GRAND_SLAM,WD,1317,Main Draw,NIU Jianfeng (CHN) / WANG Nan (CHN),GUO Yan (1982) (CHN) / LI Jia (CHN),NIU Jianfeng
+US Open Fort Lauderdale 2002,2002-07-03,NIU Jianfeng/WANG Nan,UMEMURA Aya/KISHIDA Satoko,4,0,"11,11,12,11|3,4,10,5",SF,GRAND_SLAM,WD,1317,Main Draw,NIU Jianfeng (CHN) / WANG Nan (CHN),UMEMURA Aya (JPN) / KISHIDA Satoko (JPN),NIU Jianfeng
+US Open Fort Lauderdale 2002,2002-07-03,LI Nan/ZHANG Yining,HIURA Reiko/FUJINUMA Ai,4,3,"11,13,9,9,11,9,16|7,11,11,11,9,11,14",SF,GRAND_SLAM,WD,1317,Main Draw,LI Nan (CHN) / ZHANG Yining (CHN),HIURA Reiko (JPN) / FUJINUMA Ai (JPN),LI Nan
+US Open Fort Lauderdale 2002,2002-07-03,LI Nan/ZHANG Yining,NIU Jianfeng/WANG Nan,4,0,"11,11,13,11|8,7,11,8",F,GRAND_SLAM,WD,1317,Main Draw,LI Nan (CHN) / ZHANG Yining (CHN),NIU Jianfeng (CHN) / WANG Nan (CHN),LI Nan
+US Open Fort Lauderdale 2002,2002-07-03,TIE Yana/ZHANG Rui,ALVAREZ Morayle/WANG De Hsuan,3,0,"11,11,11|6,6,5",QR32,GRAND_SLAM,WD,1317,Qualification,TIE Yana (HKG) / ZHANG Rui (HKG),ALVAREZ Morayle (ESA) / WANG De Hsuan (ESA),TIE Yana
+US Open Fort Lauderdale 2002,2002-07-03,BANH THUA Tawny/RATHER Jasna,RAMIREZ Sonia/WANG De Ying,3,0,"11,11,11|6,8,6",QR32,GRAND_SLAM,WD,1317,Qualification,BANH THUA Tawny (USA) / RATHER Jasna (USA),RAMIREZ Sonia (ESA) / WANG De Ying (ESA),BANH THUA Tawny
+US Open Fort Lauderdale 2002,2002-07-03,LIN Ling/SONG Ah Sim,LEE Eunsil/SUK Eunmi,3,2,"10,11,7,11,12|12,6,11,9,10",R16,GRAND_SLAM,WD,1317,Main Draw,LIN Ling (HKG) / SONG Ah Sim (HKG),LEE Eunsil (KOR) / SUK Eunmi (KOR),LIN Ling
+US Open Fort Lauderdale 2002,2002-07-03,LI Nan/ZHANG Yining,LIN Ling/SONG Ah Sim,3,1,"11,4,11,11|3,11,8,7",QF,GRAND_SLAM,WD,1317,Main Draw,LI Nan (CHN) / ZHANG Yining (CHN),LIN Ling (HKG) / SONG Ah Sim (HKG),LI Nan
+US Open Fort Lauderdale 2002,2002-07-03,PAN Chun-Chu/SU Hsien-Ching,ITO Midori/SUGITA Sanae,3,0,"11,11,11|8,9,8",QR32,GRAND_SLAM,WD,1317,Qualification,PAN Chun-Chu (TPE) / SU Hsien-Ching (TPE),ITO Midori (JPN) / SUGITA Sanae (JPN),PAN Chun-Chu
+US Open Fort Lauderdale 2002,2002-07-03,NISHII Miyuki/NISHII Yuka,KWOK Elaine/LEACH Laura,3,0,"11,11,11|5,5,1",QR32,GRAND_SLAM,WD,1317,Qualification,NISHII Miyuki (JPN) / NISHII Yuka (JPN),KWOK Elaine (USA) / LEACH Laura (USA),NISHII Miyuki
+US Open Fort Lauderdale 2002,2002-07-03,IMAFUKU Kumi/HIRANO Sayaka,LEE Jacqueline/PING Whitney,3,1,"9,11,11,11|11,9,2,5",QR32,GRAND_SLAM,WD,1317,Qualification,IMAFUKU Kumi (JPN) / HIRANO Sayaka (JPN),LEE Jacqueline (USA) / PING Whitney (USA),IMAFUKU Kumi
+US Open Fort Lauderdale 2002,2002-07-03,OKAZAKI Keiko/TASEI Mikie,CHIU Wennin/YUEN Sara,3,0,"11,11,11|7,9,3",QR32,GRAND_SLAM,WD,1317,Qualification,OKAZAKI Keiko (JPN) / TASEI Mikie (JPN),CHIU Wennin (CAN) / YUEN Sara (CAN),OKAZAKI Keiko
+US Open Fort Lauderdale 2002,2002-07-03,OKAZAKI Keiko/TASEI Mikie,KRAMER Tanja/LIU Jia,3,2,"8,12,11,11,11|11,14,7,9,9",R16,GRAND_SLAM,WD,1317,Main Draw,OKAZAKI Keiko (JPN) / TASEI Mikie (JPN),KRAMER Tanja (GER) / LIU Jia (AUT),OKAZAKI Keiko
+US Open Fort Lauderdale 2002,2002-07-03,HIURA Reiko/FUJINUMA Ai,JOHANSSON Sandra/JONSSON Susanne,3,0,"11,12,11|9,10,5",R16,GRAND_SLAM,WD,1317,Main Draw,HIURA Reiko (JPN) / FUJINUMA Ai (JPN),JOHANSSON Sandra (SWE) / JONSSON Susanne (SWE),HIURA Reiko
+US Open Fort Lauderdale 2002,2002-07-03,NISHII Miyuki/NISHII Yuka,STRUSE Nicole/SCHALL Elke,3,1,"8,11,11,11|11,8,7,8",R16,GRAND_SLAM,WD,1317,Main Draw,NISHII Miyuki (JPN) / NISHII Yuka (JPN),STRUSE Nicole (GER) / SCHALL Elke (GER),NISHII Miyuki
+US Open Fort Lauderdale 2002,2002-07-03,UMEMURA Aya/KISHIDA Satoko,OKAZAKI Keiko/TASEI Mikie,3,0,"13,11,11|11,4,5",QF,GRAND_SLAM,WD,1317,Main Draw,UMEMURA Aya (JPN) / KISHIDA Satoko (JPN),OKAZAKI Keiko (JPN) / TASEI Mikie (JPN),UMEMURA Aya
+US Open Fort Lauderdale 2002,2002-07-03,HIURA Reiko/FUJINUMA Ai,NISHII Miyuki/NISHII Yuka,3,2,"12,9,11,11,11|14,11,3,3,9",QF,GRAND_SLAM,WD,1317,Main Draw,HIURA Reiko (JPN) / FUJINUMA Ai (JPN),NISHII Miyuki (JPN) / NISHII Yuka (JPN),HIURA Reiko
+US Open Fort Lauderdale 2002,2002-07-03,UMEMURA Aya/KISHIDA Satoko,KIM Mookyo/RYU Jihae,3,2,"9,11,12,12,11|11,13,10,10,7",R16,GRAND_SLAM,WD,1317,Main Draw,UMEMURA Aya (JPN) / KISHIDA Satoko (JPN),KIM Mookyo (KOR) / RYU Jihae (KOR),UMEMURA Aya
+US Open Fort Lauderdale 2002,2002-07-03,NIU Jianfeng/WANG Nan,HAN Kwangsun/NEMES Olga,3,0,"11,11,11|7,5,8",R16,GRAND_SLAM,WD,1317,Main Draw,NIU Jianfeng (CHN) / WANG Nan (CHN),HAN Kwangsun (KOR) / NEMES Olga (ROU),NIU Jianfeng
+US Open Fort Lauderdale 2002,2002-07-03,HUANG Yi-Hua/LU Yun-Feng,WU Katherine/YI Sophia Dan Dan,3,0,"11,11,11|8,4,2",QR32,GRAND_SLAM,WD,1317,Qualification,HUANG Yi-Hua (TPE) / LU Yun-Feng (TPE),WU Katherine (USA) / YI Sophia Dan Dan (USA),HUANG Yi-Hua
+US Open Fort Lauderdale 2002,2002-07-03,PEREZ Luisana/RAMOS Fabiola,FINNEMANN Pia/POHAR Martina,3,1,"11,1,11,14|1,11,8,12",QR32,GRAND_SLAM,WD,1317,Qualification,PEREZ Luisana (VEN) / RAMOS Fabiola (VEN),FINNEMANN Pia (DEN) / POHAR Martina (SLO),PEREZ Luisana

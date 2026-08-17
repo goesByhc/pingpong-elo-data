@@ -1,0 +1,439 @@
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Singapore Open 2004,2004-05-27,ZHENG Qi,KITTIYA Kritsada,4,0,"11,11,11,11|5,3,4,3",,GRAND_SLAM,MS,1680,Qualification,ZHENG Qi (SGP),KITTIYA Kritsada (THA),ZHENG Qi
+Singapore Open 2004,2004-05-27,YANG Min,KITTIYA Kritsada,4,0,"11,11,11,11|3,1,5,9",QR2,GRAND_SLAM,MS,1680,Qualification,YANG Min (ITA),KITTIYA Kritsada (THA),YANG Min
+Singapore Open 2004,2004-05-27,YANG Min,ZHENG Qi,4,1,"11,3,11,11,11|9,11,7,5,8",3,GRAND_SLAM,MS,1680,Qualification,YANG Min (ITA),ZHENG Qi (SGP),YANG Min
+Singapore Open 2004,2004-05-27,TANG Hua,VIPAWATANAKUL Tanawat,4,0,"11,11,11,11|3,7,4,4",,GRAND_SLAM,MS,1680,Qualification,TANG Hua (SGP),VIPAWATANAKUL Tanawat (THA),TANG Hua
+Singapore Open 2004,2004-05-27,KRZESZEWSKI Tomasz,VIPAWATANAKUL Tanawat,4,0,"11,11,11,11|3,8,4,6",QR2,GRAND_SLAM,MS,1680,Qualification,KRZESZEWSKI Tomasz (POL),VIPAWATANAKUL Tanawat (THA),KRZESZEWSKI Tomasz
+Singapore Open 2004,2004-05-27,KRZESZEWSKI Tomasz,TANG Hua,4,1,"11,11,11,9,11|7,6,8,11,7",3,GRAND_SLAM,MS,1680,Qualification,KRZESZEWSKI Tomasz (POL),TANG Hua (SGP),KRZESZEWSKI Tomasz
+Singapore Open 2004,2004-05-27,YANG Zi,VIPAWATANAKUL Sithichok,4,1,"11,11,9,11,12|6,4,11,5,10",,GRAND_SLAM,MS,1680,Qualification,YANG Zi (SGP),VIPAWATANAKUL Sithichok (AUS),YANG Zi
+Singapore Open 2004,2004-05-27,LEE Chulseung,VIPAWATANAKUL Sithichok,4,0,"11,11,11,11|7,7,4,4",QR2,GRAND_SLAM,MS,1680,Qualification,LEE Chulseung (KOR),VIPAWATANAKUL Sithichok (AUS),LEE Chulseung
+Singapore Open 2004,2004-05-27,YANG Zi,LEE Chulseung,4,3,"11,11,6,9,11,4,12|8,8,11,11,4,11,10",3,GRAND_SLAM,MS,1680,Qualification,YANG Zi (SGP),LEE Chulseung (KOR),YANG Zi
+Singapore Open 2004,2004-05-27,LI Hang,MAYBRATHA Hendrik,4,0,"11,12,11,11|5,10,8,7",,GRAND_SLAM,MS,1680,Qualification,LI Hang (SGP),MAYBRATHA Hendrik (INA),LI Hang
+Singapore Open 2004,2004-05-27,TOKIC Bojan,LI Hang,4,2,"13,11,11,6,7,11|11,7,9,11,11,9",QR2,GRAND_SLAM,MS,1680,Qualification,TOKIC Bojan (SLO),LI Hang (SGP),TOKIC Bojan
+Singapore Open 2004,2004-05-27,TOKIC Bojan,MAYBRATHA Hendrik,4,0,"11,11,11,11|6,8,7,8",3,GRAND_SLAM,MS,1680,Qualification,TOKIC Bojan (SLO),MAYBRATHA Hendrik (INA),TOKIC Bojan
+Singapore Open 2004,2004-05-27,ZHANG Yiqin,KHOIRUDIN Muhammad,4,2,"6,13,11,9,11,11|11,11,8,11,6,9",,GRAND_SLAM,MS,1680,Qualification,ZHANG Yiqin (SGP),KHOIRUDIN Muhammad (INA),ZHANG Yiqin
+Singapore Open 2004,2004-05-27,ELOI Damien,ZHANG Yiqin,4,0,"11,11,11,11|9,5,8,3",QR2,GRAND_SLAM,MS,1680,Qualification,ELOI Damien (FRA),ZHANG Yiqin (SGP),ELOI Damien
+Singapore Open 2004,2004-05-27,ELOI Damien,KHOIRUDIN Muhammad,4,0,"11,11,12,11|6,3,10,6",3,GRAND_SLAM,MS,1680,Qualification,ELOI Damien (FRA),KHOIRUDIN Muhammad (INA),ELOI Damien
+Singapore Open 2004,2004-05-27,SISDOMUBARAT Kukun Kukun,HO Jason,4,2,"11,11,5,11,11,11|9,9,11,13,8,3",,GRAND_SLAM,MS,1680,Qualification,SISDOMUBARAT Kukun Kukun (INA),HO Jason (SGP),SISDOMUBARAT Kukun Kukun
+Singapore Open 2004,2004-05-27,BENTSEN Allan,HO Jason,4,1,"6,11,11,11,11|11,2,5,5,9",QR2,GRAND_SLAM,MS,1680,Qualification,BENTSEN Allan (DEN),HO Jason (SGP),BENTSEN Allan
+Singapore Open 2004,2004-05-27,BENTSEN Allan,SISDOMUBARAT Kukun Kukun,4,0,"11,11,11,11|4,6,4,9",3,GRAND_SLAM,MS,1680,Qualification,BENTSEN Allan (DEN),SISDOMUBARAT Kukun Kukun (INA),BENTSEN Allan
+Singapore Open 2004,2004-05-27,KOSWARA Kuskus,LEE Tien Hoe Clarence,4,3,"6,5,7,11,11,14,11|11,11,11,7,9,12,5",,GRAND_SLAM,MS,1680,Qualification,KOSWARA Kuskus (INA),LEE Tien Hoe Clarence (SGP),KOSWARA Kuskus
+Singapore Open 2004,2004-05-27,STEGER Bastian,LEE Tien Hoe Clarence,4,0,"11,11,11,11|9,5,4,2",QR2,GRAND_SLAM,MS,1680,Qualification,STEGER Bastian (GER),LEE Tien Hoe Clarence (SGP),STEGER Bastian
+Singapore Open 2004,2004-05-27,STEGER Bastian,KOSWARA Kuskus,4,0,"11,11,11,11|6,8,5,4",3,GRAND_SLAM,MS,1680,Qualification,STEGER Bastian (GER),KOSWARA Kuskus (INA),STEGER Bastian
+Singapore Open 2004,2004-05-27,AFRIMON Momon,LEE Han Ting,4,0,"11,11,11,11|4,9,9,5",,GRAND_SLAM,MS,1680,Qualification,AFRIMON Momon (INA),LEE Han Ting (SGP),AFRIMON Momon
+Singapore Open 2004,2004-05-27,LEGOUT Christophe,LEE Han Ting,4,0,"11,11,11,11|2,2,6,6",QR2,GRAND_SLAM,MS,1680,Qualification,LEGOUT Christophe (FRA),LEE Han Ting (SGP),LEGOUT Christophe
+Singapore Open 2004,2004-05-27,LEGOUT Christophe,AFRIMON Momon,4,0,"11,11,11,11|2,1,3,3",3,GRAND_SLAM,MS,1680,Qualification,LEGOUT Christophe (FRA),AFRIMON Momon (INA),LEGOUT Christophe
+Singapore Open 2004,2004-05-27,TAN Yoke Chang,JUARDIS Nisban,4,0,"11,11,11,11|5,4,9,2",,GRAND_SLAM,MS,1680,Qualification,TAN Yoke Chang (SGP),JUARDIS Nisban (INA),TAN Yoke Chang
+Singapore Open 2004,2004-05-27,KIM Gunhwan,TAN Yoke Chang,4,0,"11,11,11,11|8,7,6,2",QR2,GRAND_SLAM,MS,1680,Qualification,KIM Gunhwan (KOR),TAN Yoke Chang (SGP),KIM Gunhwan
+Singapore Open 2004,2004-05-27,KIM Gunhwan,JUARDIS Nisban,4,0,"11,11,11,11|5,2,4,5",3,GRAND_SLAM,MS,1680,Qualification,KIM Gunhwan (KOR),JUARDIS Nisban (INA),KIM Gunhwan
+Singapore Open 2004,2004-05-27,HAIR Abdul,SEAH Jun Wen,4,2,"11,6,11,11,6,11|9,11,7,9,11,8",,GRAND_SLAM,MS,1680,Qualification,HAIR Abdul (INA),SEAH Jun Wen (SGP),HAIR Abdul
+Singapore Open 2004,2004-05-27,MOLIN Magnus,SEAH Jun Wen,4,0,"11,11,11,11|7,5,9,3",QR2,GRAND_SLAM,MS,1680,Qualification,MOLIN Magnus (SWE),SEAH Jun Wen (SGP),MOLIN Magnus
+Singapore Open 2004,2004-05-27,MOLIN Magnus,HAIR Abdul,4,0,"11,11,11,11|6,5,9,9",3,GRAND_SLAM,MS,1680,Qualification,MOLIN Magnus (SWE),HAIR Abdul (INA),MOLIN Magnus
+Singapore Open 2004,2004-05-27,HANDOYO Reno,PANG Xue Bin,4,0,"13,11,11,11|11,4,5,8",,GRAND_SLAM,MS,1680,Qualification,HANDOYO Reno (INA),PANG Xue Bin (SGP),HANDOYO Reno
+Singapore Open 2004,2004-05-27,SUSS Christian,PANG Xue Bin,4,0,"11,11,11,11|5,5,4,6",QR2,GRAND_SLAM,MS,1680,Qualification,SUSS Christian (GER),PANG Xue Bin (SGP),SUSS Christian
+Singapore Open 2004,2004-05-27,SUSS Christian,HANDOYO Reno,4,0,"11,11,11,11|3,6,8,3",3,GRAND_SLAM,MS,1680,Qualification,SUSS Christian (GER),HANDOYO Reno (INA),SUSS Christian
+Singapore Open 2004,2004-05-27,AHMADIFAR Aref,PANG Xue Hao,4,3,"11,11,12,10,11,11,11|8,9,14,12,7,13,3",,GRAND_SLAM,MS,1680,Qualification,AHMADIFAR Aref (IRI),PANG Xue Hao (SGP),AHMADIFAR Aref
+Singapore Open 2004,2004-05-27,GIONIS Panagiotis,PANG Xue Hao,4,0,"11,11,11,11|8,7,4,8",QR2,GRAND_SLAM,MS,1680,Qualification,GIONIS Panagiotis (GRE),PANG Xue Hao (SGP),GIONIS Panagiotis
+Singapore Open 2004,2004-05-27,GIONIS Panagiotis,AHMADIFAR Aref,4,0,"11,11,11,11|5,4,5,5",3,GRAND_SLAM,MS,1680,Qualification,GIONIS Panagiotis (GRE),AHMADIFAR Aref (IRI),GIONIS Panagiotis
+Singapore Open 2004,2004-05-27,SUN Wen-Wei,GOH Yi Long,4,1,"11,11,9,11,11|6,2,11,5,5",,GRAND_SLAM,MS,1680,Qualification,SUN Wen-Wei (TPE),GOH Yi Long (SGP),SUN Wen-Wei
+Singapore Open 2004,2004-05-27,YUZAWA Ryo,GOH Yi Long,4,0,"11,11,11,11|4,3,4,2",QR2,GRAND_SLAM,MS,1680,Qualification,YUZAWA Ryo (JPN),GOH Yi Long (SGP),YUZAWA Ryo
+Singapore Open 2004,2004-05-27,YUZAWA Ryo,SUN Wen-Wei,4,0,"11,11,11,11|8,6,5,5",3,GRAND_SLAM,MS,1680,Qualification,YUZAWA Ryo (JPN),SUN Wen-Wei (TPE),YUZAWA Ryo
+Singapore Open 2004,2004-05-27,ZAENUDDIN Muhammad,KOK Yong Jia,4,0,"11,11,11,11|6,1,4,2",,GRAND_SLAM,MS,1680,Qualification,ZAENUDDIN Muhammad (INA),KOK Yong Jia (SGP),ZAENUDDIN Muhammad
+Singapore Open 2004,2004-05-27,YOON Jaeyoung,KOK Yong Jia,4,0,"11,11,11,11|3,3,2,3",QR2,GRAND_SLAM,MS,1680,Qualification,YOON Jaeyoung (KOR),KOK Yong Jia (SGP),YOON Jaeyoung
+Singapore Open 2004,2004-05-27,YOON Jaeyoung,ZAENUDDIN Muhammad,4,0,"14,11,11,11|12,8,4,3",3,GRAND_SLAM,MS,1680,Qualification,YOON Jaeyoung (KOR),ZAENUDDIN Muhammad (INA),YOON Jaeyoung
+Singapore Open 2004,2004-05-27,PETERSEN Christoffer,JONG Kwang Hyok,4,3,"11,4,6,12,11,11,13|7,11,11,14,5,8,11",,GRAND_SLAM,MS,1680,Qualification,PETERSEN Christoffer (DEN),JONG Kwang Hyok (PRK),PETERSEN Christoffer
+Singapore Open 2004,2004-05-27,CHOI Hyunjin,JONG Kwang Hyok,4,1,"12,11,3,11,11|10,6,11,3,9",QR2,GRAND_SLAM,MS,1680,Qualification,CHOI Hyunjin (KOR),JONG Kwang Hyok (PRK),CHOI Hyunjin
+Singapore Open 2004,2004-05-27,CHOI Hyunjin,PETERSEN Christoffer,4,1,"11,8,11,11,11|8,11,6,4,7",3,GRAND_SLAM,MS,1680,Qualification,CHOI Hyunjin (KOR),PETERSEN Christoffer (DEN),CHOI Hyunjin
+Singapore Open 2004,2004-05-27,JACOBS David,HAN Su Il,4,0,"11,11,11,11|5,7,9,9",,GRAND_SLAM,MS,1680,Qualification,JACOBS David (INA),HAN Su Il (PRK),JACOBS David
+Singapore Open 2004,2004-05-27,LEE Jungwoo,HAN Su Il,4,0,"11,11,11,12|8,5,2,10",QR2,GRAND_SLAM,MS,1680,Qualification,LEE Jungwoo (KOR),HAN Su Il (PRK),LEE Jungwoo
+Singapore Open 2004,2004-05-27,LEE Jungwoo,JACOBS David,4,0,"11,11,12,11|8,9,10,6",3,GRAND_SLAM,MS,1680,Qualification,LEE Jungwoo (KOR),JACOBS David (INA),LEE Jungwoo
+Singapore Open 2004,2004-05-27,HUSSEIN Muhammad,SARBAKHSHIAN Shahram,4,3,"11,8,11,9,11,11,11|9,11,13,11,6,5,9",,GRAND_SLAM,MS,1680,Qualification,HUSSEIN Muhammad (INA),SARBAKHSHIAN Shahram (IRI),HUSSEIN Muhammad
+Singapore Open 2004,2004-05-27,O Il,SARBAKHSHIAN Shahram,4,0,"11,11,11,11|8,3,6,6",QR2,GRAND_SLAM,MS,1680,Qualification,O Il (PRK),SARBAKHSHIAN Shahram (IRI),O Il
+Singapore Open 2004,2004-05-27,O Il,HUSSEIN Muhammad,4,0,"11,11,11,11|4,6,7,6",3,GRAND_SLAM,MS,1680,Qualification,O Il (PRK),HUSSEIN Muhammad (INA),O Il
+Singapore Open 2004,2004-05-27,HUANG Wei-Chin,KHAYAT SOBHI Sadegh,4,0,"11,11,11,11|4,7,8,4",,GRAND_SLAM,MS,1680,Qualification,HUANG Wei-Chin (TPE),KHAYAT SOBHI Sadegh (IRI),HUANG Wei-Chin
+Singapore Open 2004,2004-05-27,ARAI Shu,KHAYAT SOBHI Sadegh,4,1,"12,11,4,11,15|10,9,11,1,13",QR2,GRAND_SLAM,MS,1680,Qualification,ARAI Shu (JPN),KHAYAT SOBHI Sadegh (IRI),ARAI Shu
+Singapore Open 2004,2004-05-27,ARAI Shu,HUANG Wei-Chin,4,1,"11,11,4,11,11|8,7,11,7,8",3,GRAND_SLAM,MS,1680,Qualification,ARAI Shu (JPN),HUANG Wei-Chin (TPE),ARAI Shu
+Singapore Open 2004,2004-05-27,MARDIYONO Yon,KOSHMARAM Mahdi,4,3,"8,11,8,11,8,11,11|11,0,11,6,11,5,5",,GRAND_SLAM,MS,1680,Qualification,MARDIYONO Yon (INA),KOSHMARAM Mahdi (IRI),MARDIYONO Yon
+Singapore Open 2004,2004-05-27,LIM Jaehyun,KOSHMARAM Mahdi,4,1,"11,11,11,8,11|4,4,6,11,2",QR2,GRAND_SLAM,MS,1680,Qualification,LIM Jaehyun (KOR),KOSHMARAM Mahdi (IRI),LIM Jaehyun
+Singapore Open 2004,2004-05-27,LIM Jaehyun,MARDIYONO Yon,4,1,"11,11,10,11,11|8,3,12,5,6",3,GRAND_SLAM,MS,1680,Qualification,LIM Jaehyun (KOR),MARDIYONO Yon (INA),LIM Jaehyun
+Singapore Open 2004,2004-05-27,NGUYEN Khoa,TORSUTKANOK Pornchai,4,0,"11,11,11,11|2,9,9,6",,GRAND_SLAM,MS,1680,Qualification,NGUYEN Khoa (USA),TORSUTKANOK Pornchai (THA),NGUYEN Khoa
+Singapore Open 2004,2004-05-27,KIM Bongchul,TORSUTKANOK Pornchai,4,0,"11,11,11,13|5,7,4,11",QR2,GRAND_SLAM,MS,1680,Qualification,KIM Bongchul (KOR),TORSUTKANOK Pornchai (THA),KIM Bongchul
+Singapore Open 2004,2004-05-27,KIM Bongchul,NGUYEN Khoa,4,2,"11,8,11,11,8,11|7,11,3,7,11,4",3,GRAND_SLAM,MS,1680,Qualification,KIM Bongchul (KOR),NGUYEN Khoa (USA),KIM Bongchul
+Singapore Open 2004,2004-05-27,LAI Kuan-Shen,FYNSK Daniel,4,3,"11,3,8,8,11,11,11|9,11,11,11,8,8,5",,GRAND_SLAM,MS,1680,Qualification,LAI Kuan-Shen (TPE),FYNSK Daniel (DEN),LAI Kuan-Shen
+Singapore Open 2004,2004-05-27,MURAMORI Minoru,LAI Kuan-Shen,4,2,"9,15,11,3,13,11|11,13,8,11,11,4",QR2,GRAND_SLAM,MS,1680,Qualification,MURAMORI Minoru (JPN),LAI Kuan-Shen (TPE),MURAMORI Minoru
+Singapore Open 2004,2004-05-27,MURAMORI Minoru,FYNSK Daniel,4,1,"9,13,11,13,11|11,11,6,11,3",3,GRAND_SLAM,MS,1680,Qualification,MURAMORI Minoru (JPN),FYNSK Daniel (DEN),MURAMORI Minoru
+Singapore Open 2004,2004-05-27,CHOU Tung-Yu,KIM Hyok Bong,4,2,"11,11,3,11,11,16|5,9,11,8,13,14",,GRAND_SLAM,MS,1680,Qualification,CHOU Tung-Yu (TPE),KIM Hyok Bong (PRK),CHOU Tung-Yu
+Singapore Open 2004,2004-05-27,SAKAMOTO Ryusuke,KIM Hyok Bong,4,1,"7,11,11,12,11|11,4,6,10,4",QR2,GRAND_SLAM,MS,1680,Qualification,SAKAMOTO Ryusuke (JPN),KIM Hyok Bong (PRK),SAKAMOTO Ryusuke
+Singapore Open 2004,2004-05-27,SAKAMOTO Ryusuke,CHOU Tung-Yu,4,0,"11,11,13,11|7,4,11,3",3,GRAND_SLAM,MS,1680,Qualification,SAKAMOTO Ryusuke (JPN),CHOU Tung-Yu (TPE),SAKAMOTO Ryusuke
+Singapore Open 2004,2004-05-27,KIM Junghoon,MIZUTANI Jun,4,1,"5,11,11,11,11|11,8,8,6,1",,GRAND_SLAM,MS,1680,Qualification,KIM Junghoon (KOR),MIZUTANI Jun (JPN),KIM Junghoon
+Singapore Open 2004,2004-05-27,KIM Junghoon,WU Chih-Chi,4,0,"11,11,12,11|2,8,10,6",QR2,GRAND_SLAM,MS,1680,Qualification,KIM Junghoon (KOR),WU Chih-Chi (TPE),KIM Junghoon
+Singapore Open 2004,2004-05-27,WU Chih-Chi,MIZUTANI Jun,4,3,"6,11,9,11,11,6,11|11,4,11,7,3,11,4",3,GRAND_SLAM,MS,1680,Qualification,WU Chih-Chi (TPE),MIZUTANI Jun (JPN),WU Chih-Chi
+Singapore Open 2004,2004-05-27,PAPAGEORGIOU Konstantinos,JOO Baijun,4,3,"3,11,9,11,11,7,11|11,6,11,6,8,11,8",,GRAND_SLAM,MS,1680,Qualification,PAPAGEORGIOU Konstantinos (GRE),JOO Baijun (KOR),PAPAGEORGIOU Konstantinos
+Singapore Open 2004,2004-05-27,ABRAMOV Isaak,JOO Baijun,4,3,"11,6,9,11,12,7,11|3,11,11,9,10,11,9",QR2,GRAND_SLAM,MS,1680,Qualification,ABRAMOV Isaak (ISR),JOO Baijun (KOR),ABRAMOV Isaak
+Singapore Open 2004,2004-05-27,ABRAMOV Isaak,PAPAGEORGIOU Konstantinos,4,3,"8,9,16,5,11,11,11|11,11,14,11,7,9,3",3,GRAND_SLAM,MS,1680,Qualification,ABRAMOV Isaak (ISR),PAPAGEORGIOU Konstantinos (GRE),ABRAMOV Isaak
+Singapore Open 2004,2004-05-27,KONGSGAARD Christian,HOU Ming-Tsung,4,3,"7,11,1,6,11,14,11|11,4,11,11,6,12,7",,GRAND_SLAM,MS,1680,Qualification,KONGSGAARD Christian (DEN),HOU Ming-Tsung (TPE),KONGSGAARD Christian
+Singapore Open 2004,2004-05-27,KISHIKAWA Seiya,HOU Ming-Tsung,4,0,"11,11,11,11|3,7,2,7",QR2,GRAND_SLAM,MS,1680,Qualification,KISHIKAWA Seiya (JPN),HOU Ming-Tsung (TPE),KISHIKAWA Seiya
+Singapore Open 2004,2004-05-27,KISHIKAWA Seiya,KONGSGAARD Christian,4,0,"11,11,11,11|6,4,8,9",3,GRAND_SLAM,MS,1680,Qualification,KISHIKAWA Seiya (JPN),KONGSGAARD Christian (DEN),KISHIKAWA Seiya
+Singapore Open 2004,2004-05-27,LEE Jungsam,CAI Xiaoli,4,2,"13,11,5,7,11,11|11,9,11,11,7,8",,GRAND_SLAM,MS,1680,Qualification,LEE Jungsam (KOR),CAI Xiaoli (SGP),LEE Jungsam
+Singapore Open 2004,2004-05-27,LEE Jungsam,SUSENO Anton,4,0,"11,11,11,11|9,9,4,6",QR2,GRAND_SLAM,MS,1680,Qualification,LEE Jungsam (KOR),SUSENO Anton (INA),LEE Jungsam
+Singapore Open 2004,2004-05-27,CAI Xiaoli,SUSENO Anton,4,3,"7,11,12,11,11,8,11|11,8,14,9,6,11,6",3,GRAND_SLAM,MS,1680,Qualification,CAI Xiaoli (SGP),SUSENO Anton (INA),CAI Xiaoli
+Singapore Open 2004,2004-05-27,MA Lin,NGUYEN Khoa,4,0,"11,11,11,11|4,2,6,5",R64,GRAND_SLAM,MS,1680,Main Draw,MA Lin (CHN),NGUYEN Khoa (USA),MA Lin
+Singapore Open 2004,2004-05-27,LEE Jungwoo,HAKANSSON Fredrik,4,3,"11,11,7,9,11,4,11|9,8,11,11,6,11,6",R64,GRAND_SLAM,MS,1680,Main Draw,LEE Jungwoo (KOR),HAKANSSON Fredrik (SWE),LEE Jungwoo
+Singapore Open 2004,2004-05-27,LEUNG Chu Yan,KRZESZEWSKI Tomasz,4,2,"11,11,9,11,9,11|6,9,11,5,11,7",R64,GRAND_SLAM,MS,1680,Main Draw,LEUNG Chu Yan (HKG),KRZESZEWSKI Tomasz (POL),LEUNG Chu Yan
+Singapore Open 2004,2004-05-27,SMIRNOV Alexey,KIM Junghoon,4,1,"11,11,11,12,11|2,8,6,14,9",R64,GRAND_SLAM,MS,1680,Main Draw,SMIRNOV Alexey (RUS),KIM Junghoon (KOR),SMIRNOV Alexey
+Singapore Open 2004,2004-05-27,MAZE Michael,MURAMORI Minoru,4,0,"11,11,11,11|8,7,5,2",R64,GRAND_SLAM,MS,1680,Main Draw,MAZE Michael (DEN),MURAMORI Minoru (JPN),MAZE Michael
+Singapore Open 2004,2004-05-27,WOSIK Torben,KIM Bongchul,4,0,"11,11,11,11|5,7,6,9",R64,GRAND_SLAM,MS,1680,Main Draw,WOSIK Torben (GER),KIM Bongchul (KOR),WOSIK Torben
+Singapore Open 2004,2004-05-27,BLASZCZYK Lucjan,YOON Jaeyoung,4,0,"11,11,11,12|8,6,9,10",R64,GRAND_SLAM,MS,1680,Main Draw,BLASZCZYK Lucjan (POL),YOON Jaeyoung (KOR),BLASZCZYK Lucjan
+Singapore Open 2004,2004-05-27,KREANGA Kalinikos,SUN Wen-Wei,4,0,"11,11,11,11|9,7,4,3",R64,GRAND_SLAM,MS,1680,Main Draw,KREANGA Kalinikos (GRE),SUN Wen-Wei (TPE),KREANGA Kalinikos
+Singapore Open 2004,2004-05-27,RYU Seungmin,ZHENG Qi,4,0,"11,11,11,11|7,6,6,7",R64,GRAND_SLAM,MS,1680,Main Draw,RYU Seungmin (KOR),ZHENG Qi (SGP),RYU Seungmin
+Singapore Open 2004,2004-05-27,HEISTER Danny,O Il,4,1,"10,21,11,11,11|12,19,7,8,7",R64,GRAND_SLAM,MS,1680,Main Draw,HEISTER Danny (NED),O Il (PRK),HEISTER Danny
+Singapore Open 2004,2004-05-27,CHILA Patrick,KISHIKAWA Seiya,4,3,"9,11,10,9,11,11,11|11,9,12,11,7,5,9",R64,GRAND_SLAM,MS,1680,Main Draw,CHILA Patrick (FRA),KISHIKAWA Seiya (JPN),CHILA Patrick
+Singapore Open 2004,2004-05-27,KARLSSON Peter,LIM Jaehyun,4,1,"11,7,13,11,11|7,11,11,7,6",R64,GRAND_SLAM,MS,1680,Main Draw,KARLSSON Peter (SWE),LIM Jaehyun (KOR),KARLSSON Peter
+Singapore Open 2004,2004-05-27,OH Sangeun,ELOI Damien,4,2,"11,10,11,7,11,11|5,12,8,11,7,1",R64,GRAND_SLAM,MS,1680,Main Draw,OH Sangeun (KOR),ELOI Damien (FRA),OH Sangeun
+Singapore Open 2004,2004-05-27,CHEUNG Yuk,SAKAMOTO Ryusuke,4,0,"11,16,11,11|8,14,4,7",R64,GRAND_SLAM,MS,1680,Main Draw,CHEUNG Yuk (HKG),SAKAMOTO Ryusuke (JPN),CHEUNG Yuk
+Singapore Open 2004,2004-05-27,LI Ching,YUZAWA Ryo,4,3,"10,13,11,12,11,9,11|12,11,7,14,4,11,5",R64,GRAND_SLAM,MS,1680,Main Draw,LI Ching (HKG),YUZAWA Ryo (JPN),LI Ching
+Singapore Open 2004,2004-05-27,WANG Hao,ABRAMOV Isaak,4,0,"11,11,11,11|3,6,7,5",R64,GRAND_SLAM,MS,1680,Main Draw,WANG Hao (CHN),ABRAMOV Isaak (ISR),WANG Hao
+Singapore Open 2004,2004-05-27,CHUANG Chih-Yuan,CAI Xiaoli,4,2,"11,11,11,11,9,11|5,6,2,13,11,5",R64,GRAND_SLAM,MS,1680,Main Draw,CHUANG Chih-Yuan (TPE),CAI Xiaoli (SGP),CHUANG Chih-Yuan
+Singapore Open 2004,2004-05-27,MATSUSHITA Koji,LEE Jungsam,4,1,"9,11,11,11,11|11,8,4,4,7",R64,GRAND_SLAM,MS,1680,Main Draw,MATSUSHITA Koji (JPN),LEE Jungsam (KOR),MATSUSHITA Koji
+Singapore Open 2004,2004-05-27,BENTSEN Allan,CRISAN Adrian,4,2,"5,18,11,11,9,11|11,16,8,9,11,7",R64,GRAND_SLAM,MS,1680,Main Draw,BENTSEN Allan (DEN),CRISAN Adrian (ROU),BENTSEN Allan
+Singapore Open 2004,2004-05-27,PERSSON Jorgen,ARAI Shu,4,0,"11,11,11,11|9,9,7,2",R64,GRAND_SLAM,MS,1680,Main Draw,PERSSON Jorgen (SWE),ARAI Shu (JPN),PERSSON Jorgen
+Singapore Open 2004,2004-05-27,CHEN Weixing,LEGOUT Christophe,4,3,"12,11,3,9,11,11,11|10,5,11,11,13,8,7",R64,GRAND_SLAM,MS,1680,Main Draw,CHEN Weixing (AUT),LEGOUT Christophe (FRA),CHEN Weixing
+Singapore Open 2004,2004-05-27,SUSS Christian,KEEN Trinko,4,3,"13,11,8,12,11,9,11|15,9,11,10,8,11,7",R64,GRAND_SLAM,MS,1680,Main Draw,SUSS Christian (GER),KEEN Trinko (NED),SUSS Christian
+Singapore Open 2004,2004-05-27,TOKIC Bojan,KO Lai Chak,4,2,"11,11,6,11,4,11|8,5,11,4,11,8",R64,GRAND_SLAM,MS,1680,Main Draw,TOKIC Bojan (SLO),KO Lai Chak (HKG),TOKIC Bojan
+Singapore Open 2004,2004-05-27,CHEN Qi,JACOBS David,4,0,"11,11,11,11|8,6,8,8",R64,GRAND_SLAM,MS,1680,Main Draw,CHEN Qi (CHN),JACOBS David (INA),CHEN Qi
+Singapore Open 2004,2004-05-27,KONG Linghui,PETERSEN Christoffer,4,1,"11,11,12,11,11|13,4,10,5,2",R64,GRAND_SLAM,MS,1680,Main Draw,KONG Linghui (CHN),PETERSEN Christoffer (DEN),KONG Linghui
+Singapore Open 2004,2004-05-27,LUNDQVIST Jens,YANG Min,4,2,"17,7,12,11,3,12|15,11,10,3,11,10",R64,GRAND_SLAM,MS,1680,Main Draw,LUNDQVIST Jens (SWE),YANG Min (ITA),LUNDQVIST Jens
+Singapore Open 2004,2004-05-27,ROSSKOPF Jorg,MOLIN Magnus,4,1,"11,11,6,11,11|6,7,11,6,7",R64,GRAND_SLAM,MS,1680,Main Draw,ROSSKOPF Jorg (GER),MOLIN Magnus (SWE),ROSSKOPF Jorg
+Singapore Open 2004,2004-05-27,HAO Shuai,CHOI Hyunjin,4,3,"11,11,10,10,12,11,11|4,8,12,12,14,7,9",R64,GRAND_SLAM,MS,1680,Main Draw,HAO Shuai (CHN),CHOI Hyunjin (KOR),HAO Shuai
+Singapore Open 2004,2004-05-27,JOO Saehyuk,GIONIS Panagiotis,4,3,"7,9,11,10,13,12,11|11,11,8,12,11,10,6",R64,GRAND_SLAM,MS,1680,Main Draw,JOO Saehyuk (KOR),GIONIS Panagiotis (GRE),JOO Saehyuk
+Singapore Open 2004,2004-05-27,WALDNER Jan-Ove,YANG Zi,4,1,"11,9,13,11,11|9,11,11,9,9",R64,GRAND_SLAM,MS,1680,Main Draw,WALDNER Jan-Ove (SWE),YANG Zi (SGP),WALDNER Jan-Ove
+Singapore Open 2004,2004-05-27,KUZMIN Fedor,KIM Gunhwan,4,1,"11,12,12,6,11|9,10,10,11,4",R64,GRAND_SLAM,MS,1680,Main Draw,KUZMIN Fedor (RUS),KIM Gunhwan (KOR),KUZMIN Fedor
+Singapore Open 2004,2004-05-27,WANG Liqin,STEGER Bastian,4,2,"12,11,11,7,11,11|14,9,2,11,3,5",R64,GRAND_SLAM,MS,1680,Main Draw,WANG Liqin (CHN),STEGER Bastian (GER),WANG Liqin
+Singapore Open 2004,2004-05-27,MA Lin,LEE Jungwoo,4,2,"11,11,10,11,11,11|9,13,12,4,7,8",R32,GRAND_SLAM,MS,1680,Main Draw,MA Lin (CHN),LEE Jungwoo (KOR),MA Lin
+Singapore Open 2004,2004-05-27,SMIRNOV Alexey,LEUNG Chu Yan,4,3,"4,11,11,9,10,11,11|11,6,6,11,12,4,9",R32,GRAND_SLAM,MS,1680,Main Draw,SMIRNOV Alexey (RUS),LEUNG Chu Yan (HKG),SMIRNOV Alexey
+Singapore Open 2004,2004-05-27,MAZE Michael,WOSIK Torben,4,0,"12,12,11,11|10,10,3,8",R32,GRAND_SLAM,MS,1680,Main Draw,MAZE Michael (DEN),WOSIK Torben (GER),MAZE Michael
+Singapore Open 2004,2004-05-27,BLASZCZYK Lucjan,KREANGA Kalinikos,4,2,"11,5,15,11,8,11|8,11,13,9,11,8",R32,GRAND_SLAM,MS,1680,Main Draw,BLASZCZYK Lucjan (POL),KREANGA Kalinikos (GRE),BLASZCZYK Lucjan
+Singapore Open 2004,2004-05-27,RYU Seungmin,HEISTER Danny,4,2,"11,7,11,6,11,11|5,11,8,11,5,5",R32,GRAND_SLAM,MS,1680,Main Draw,RYU Seungmin (KOR),HEISTER Danny (NED),RYU Seungmin
+Singapore Open 2004,2004-05-27,KARLSSON Peter,CHILA Patrick,4,2,"11,6,11,7,11,11|8,11,7,11,2,4",R32,GRAND_SLAM,MS,1680,Main Draw,KARLSSON Peter (SWE),CHILA Patrick (FRA),KARLSSON Peter
+Singapore Open 2004,2004-05-27,CHEUNG Yuk,OH Sangeun,4,1,"9,11,11,11,11|11,9,8,8,9",R32,GRAND_SLAM,MS,1680,Main Draw,CHEUNG Yuk (HKG),OH Sangeun (KOR),CHEUNG Yuk
+Singapore Open 2004,2004-05-27,WANG Hao,LI Ching,4,0,"11,11,11,11|1,7,7,5",R32,GRAND_SLAM,MS,1680,Main Draw,WANG Hao (CHN),LI Ching (HKG),WANG Hao
+Singapore Open 2004,2004-05-27,CHUANG Chih-Yuan,MATSUSHITA Koji,4,0,"11,11,11,11|6,7,5,9",R32,GRAND_SLAM,MS,1680,Main Draw,CHUANG Chih-Yuan (TPE),MATSUSHITA Koji (JPN),CHUANG Chih-Yuan
+Singapore Open 2004,2004-05-27,PERSSON Jorgen,BENTSEN Allan,4,3,"11,4,8,11,11,6,17|3,11,11,5,8,11,15",R32,GRAND_SLAM,MS,1680,Main Draw,PERSSON Jorgen (SWE),BENTSEN Allan (DEN),PERSSON Jorgen
+Singapore Open 2004,2004-05-27,CHEN Weixing,SUSS Christian,4,1,"11,11,13,7,11|7,7,11,11,7",R32,GRAND_SLAM,MS,1680,Main Draw,CHEN Weixing (AUT),SUSS Christian (GER),CHEN Weixing
+Singapore Open 2004,2004-05-27,CHEN Qi,TOKIC Bojan,4,2,"4,8,11,11,11,11|11,11,5,8,9,5",R32,GRAND_SLAM,MS,1680,Main Draw,CHEN Qi (CHN),TOKIC Bojan (SLO),CHEN Qi
+Singapore Open 2004,2004-05-27,KONG Linghui,LUNDQVIST Jens,4,1,"11,11,4,11,11|8,7,11,7,5",R32,GRAND_SLAM,MS,1680,Main Draw,KONG Linghui (CHN),LUNDQVIST Jens (SWE),KONG Linghui
+Singapore Open 2004,2004-05-27,HAO Shuai,ROSSKOPF Jorg,4,1,"9,11,11,11,11|11,5,5,7,4",R32,GRAND_SLAM,MS,1680,Main Draw,HAO Shuai (CHN),ROSSKOPF Jorg (GER),HAO Shuai
+Singapore Open 2004,2004-05-27,WALDNER Jan-Ove,JOO Saehyuk,4,1,"11,11,5,11,11|6,8,11,3,4",R32,GRAND_SLAM,MS,1680,Main Draw,WALDNER Jan-Ove (SWE),JOO Saehyuk (KOR),WALDNER Jan-Ove
+Singapore Open 2004,2004-05-27,WANG Liqin,KUZMIN Fedor,4,2,"6,6,11,11,11,11|11,11,8,4,7,5",R32,GRAND_SLAM,MS,1680,Main Draw,WANG Liqin (CHN),KUZMIN Fedor (RUS),WANG Liqin
+Singapore Open 2004,2004-05-27,MA Lin,SMIRNOV Alexey,4,0,"11,11,12,11|9,9,10,5",R16,GRAND_SLAM,MS,1680,Main Draw,MA Lin (CHN),SMIRNOV Alexey (RUS),MA Lin
+Singapore Open 2004,2004-05-27,MAZE Michael,BLASZCZYK Lucjan,4,0,"11,12,12,12|6,10,10,10",R16,GRAND_SLAM,MS,1680,Main Draw,MAZE Michael (DEN),BLASZCZYK Lucjan (POL),MAZE Michael
+Singapore Open 2004,2004-05-27,RYU Seungmin,KARLSSON Peter,4,1,"11,11,11,7,11|5,7,7,11,5",R16,GRAND_SLAM,MS,1680,Main Draw,RYU Seungmin (KOR),KARLSSON Peter (SWE),RYU Seungmin
+Singapore Open 2004,2004-05-27,CHEUNG Yuk,WANG Hao,4,3,"6,11,8,11,11,8,11|11,7,11,8,5,11,8",R16,GRAND_SLAM,MS,1680,Main Draw,CHEUNG Yuk (HKG),WANG Hao (CHN),CHEUNG Yuk
+Singapore Open 2004,2004-05-27,CHUANG Chih-Yuan,PERSSON Jorgen,4,0,"11,11,11,11|2,7,9,9",R16,GRAND_SLAM,MS,1680,Main Draw,CHUANG Chih-Yuan (TPE),PERSSON Jorgen (SWE),CHUANG Chih-Yuan
+Singapore Open 2004,2004-05-27,CHEN Qi,CHEN Weixing,4,3,"11,11,11,7,9,11,11|9,8,13,11,11,7,6",R16,GRAND_SLAM,MS,1680,Main Draw,CHEN Qi (CHN),CHEN Weixing (AUT),CHEN Qi
+Singapore Open 2004,2004-05-27,KONG Linghui,HAO Shuai,4,3,"10,9,11,16,11,10,13|12,11,4,14,9,12,11",R16,GRAND_SLAM,MS,1680,Main Draw,KONG Linghui (CHN),HAO Shuai (CHN),KONG Linghui
+Singapore Open 2004,2004-05-27,WANG Liqin,WALDNER Jan-Ove,4,3,"11,11,5,3,12,10,11|4,9,11,11,10,12,6",R16,GRAND_SLAM,MS,1680,Main Draw,WANG Liqin (CHN),WALDNER Jan-Ove (SWE),WANG Liqin
+Singapore Open 2004,2004-05-27,MA Lin,MAZE Michael,4,2,"11,8,6,12,11,11|8,11,11,10,9,7",QF,GRAND_SLAM,MS,1680,Main Draw,MA Lin (CHN),MAZE Michael (DEN),MA Lin
+Singapore Open 2004,2004-05-27,RYU Seungmin,CHEUNG Yuk,4,2,"11,4,7,11,11,11|9,11,11,7,6,5",QF,GRAND_SLAM,MS,1680,Main Draw,RYU Seungmin (KOR),CHEUNG Yuk (HKG),RYU Seungmin
+Singapore Open 2004,2004-05-27,CHEN Qi,CHUANG Chih-Yuan,4,3,"13,8,14,9,12,11,11|11,11,12,11,14,6,5",QF,GRAND_SLAM,MS,1680,Main Draw,CHEN Qi (CHN),CHUANG Chih-Yuan (TPE),CHEN Qi
+Singapore Open 2004,2004-05-27,WANG Liqin,KONG Linghui,4,1,"11,11,13,9,11|8,8,11,11,7",QF,GRAND_SLAM,MS,1680,Main Draw,WANG Liqin (CHN),KONG Linghui (CHN),WANG Liqin
+Singapore Open 2004,2004-05-27,MA Lin,RYU Seungmin,4,2,"11,11,11,7,6,11|8,9,2,11,11,5",SF,GRAND_SLAM,MS,1680,Main Draw,MA Lin (CHN),RYU Seungmin (KOR),MA Lin
+Singapore Open 2004,2004-05-27,WANG Liqin,CHEN Qi,4,2,"9,11,12,11,11,11|11,7,14,6,1,8",SF,GRAND_SLAM,MS,1680,Main Draw,WANG Liqin (CHN),CHEN Qi (CHN),WANG Liqin
+Singapore Open 2004,2004-05-27,WANG Liqin,MA Lin,4,1,"11,12,14,11,11|7,10,16,7,8",F,GRAND_SLAM,MS,1680,Main Draw,WANG Liqin (CHN),MA Lin (CHN),WANG Liqin
+Singapore Open 2004,2004-05-27,KONGSGAARD Christian,SISDOMUBARAT Kukun Kukun,3,0,"11,15,11|6,13,8",,GRAND_SLAM,U21MS,1680,Qualification,KONGSGAARD Christian (DEN),SISDOMUBARAT Kukun Kukun (INA),KONGSGAARD Christian
+Singapore Open 2004,2004-05-27,HO Jason,HOU Ming-Tsung,3,1,"11,8,11,12|8,11,9,10",QR2,GRAND_SLAM,U21MS,1680,Qualification,HO Jason (SGP),HOU Ming-Tsung (TPE),HO Jason
+Singapore Open 2004,2004-05-27,KONGSGAARD Christian,HO Jason,3,0,"14,11,15|12,8,13",3,GRAND_SLAM,U21MS,1680,Qualification,KONGSGAARD Christian (DEN),HO Jason (SGP),KONGSGAARD Christian
+Singapore Open 2004,2004-05-27,HOU Ming-Tsung,SISDOMUBARAT Kukun Kukun,3,1,"15,11,7,11|13,5,11,8",QR4,GRAND_SLAM,U21MS,1680,Qualification,HOU Ming-Tsung (TPE),SISDOMUBARAT Kukun Kukun (INA),HOU Ming-Tsung
+Singapore Open 2004,2004-05-27,HO Jason,SISDOMUBARAT Kukun Kukun,3,2,"5,7,11,11,12|11,11,6,9,10",6,GRAND_SLAM,U21MS,1680,Qualification,HO Jason (SGP),SISDOMUBARAT Kukun Kukun (INA),HO Jason
+Singapore Open 2004,2004-05-27,CHOU Tung-Yu,KHOIRUDIN Muhammad,3,0,"11,11,11|9,7,7",,GRAND_SLAM,U21MS,1680,Qualification,CHOU Tung-Yu (TPE),KHOIRUDIN Muhammad (INA),CHOU Tung-Yu
+Singapore Open 2004,2004-05-27,ANDERSSON Aron,LEE Tien Hoe Clarence,3,0,"11,11,11|7,9,9",QR2,GRAND_SLAM,U21MS,1680,Qualification,ANDERSSON Aron (SWE),LEE Tien Hoe Clarence (SGP),ANDERSSON Aron
+Singapore Open 2004,2004-05-27,CHOU Tung-Yu,LEE Tien Hoe Clarence,3,0,"13,11,11|11,8,2",3,GRAND_SLAM,U21MS,1680,Qualification,CHOU Tung-Yu (TPE),LEE Tien Hoe Clarence (SGP),CHOU Tung-Yu
+Singapore Open 2004,2004-05-27,ANDERSSON Aron,KHOIRUDIN Muhammad,3,2,"9,11,7,11,11|11,4,11,4,1",QR4,GRAND_SLAM,U21MS,1680,Qualification,ANDERSSON Aron (SWE),KHOIRUDIN Muhammad (INA),ANDERSSON Aron
+Singapore Open 2004,2004-05-27,ANDERSSON Aron,CHOU Tung-Yu,3,2,"11,4,11,3,11|5,11,9,11,7",5,GRAND_SLAM,U21MS,1680,Qualification,ANDERSSON Aron (SWE),CHOU Tung-Yu (TPE),ANDERSSON Aron
+Singapore Open 2004,2004-05-27,KHOIRUDIN Muhammad,LEE Tien Hoe Clarence,3,1,"8,14,11,11|11,12,9,4",6,GRAND_SLAM,U21MS,1680,Qualification,KHOIRUDIN Muhammad (INA),LEE Tien Hoe Clarence (SGP),KHOIRUDIN Muhammad
+Singapore Open 2004,2004-05-27,MIZUTANI Jun,LEE Han Ting,3,1,"13,11,11,11|15,1,7,7",,GRAND_SLAM,U21MS,1680,Qualification,MIZUTANI Jun (JPN),LEE Han Ting (SGP),MIZUTANI Jun
+Singapore Open 2004,2004-05-27,LAI Kuan-Shen,KOK Yong Jia,3,0,"11,13,11|5,11,9",QR2,GRAND_SLAM,U21MS,1680,Qualification,LAI Kuan-Shen (TPE),KOK Yong Jia (SGP),LAI Kuan-Shen
+Singapore Open 2004,2004-05-27,MIZUTANI Jun,KOK Yong Jia,3,0,"11,11,11|7,1,4",3,GRAND_SLAM,U21MS,1680,Qualification,MIZUTANI Jun (JPN),KOK Yong Jia (SGP),MIZUTANI Jun
+Singapore Open 2004,2004-05-27,LAI Kuan-Shen,LEE Han Ting,3,0,"11,11,11|3,2,8",QR4,GRAND_SLAM,U21MS,1680,Qualification,LAI Kuan-Shen (TPE),LEE Han Ting (SGP),LAI Kuan-Shen
+Singapore Open 2004,2004-05-27,MIZUTANI Jun,LAI Kuan-Shen,3,2,"11,8,11,9,11|5,11,1,11,5",5,GRAND_SLAM,U21MS,1680,Qualification,MIZUTANI Jun (JPN),LAI Kuan-Shen (TPE),MIZUTANI Jun
+Singapore Open 2004,2004-05-27,KOK Yong Jia,LEE Han Ting,3,1,"7,11,14,11|11,8,12,5",6,GRAND_SLAM,U21MS,1680,Qualification,KOK Yong Jia (SGP),LEE Han Ting (SGP),KOK Yong Jia
+Singapore Open 2004,2004-05-27,HUANG Wei-Chin,MAYBRATHA Hendrik,3,2,"11,8,11,10,11|2,11,7,12,3",,GRAND_SLAM,U21MS,1680,Qualification,HUANG Wei-Chin (TPE),MAYBRATHA Hendrik (INA),HUANG Wei-Chin
+Singapore Open 2004,2004-05-27,KIM Hyok Bong,TAN Yoke Chang,3,0,"11,11,11|4,4,4",QR2,GRAND_SLAM,U21MS,1680,Qualification,KIM Hyok Bong (PRK),TAN Yoke Chang (SGP),KIM Hyok Bong
+Singapore Open 2004,2004-05-27,HUANG Wei-Chin,TAN Yoke Chang,3,1,"11,11,9,11|5,5,11,1",3,GRAND_SLAM,U21MS,1680,Qualification,HUANG Wei-Chin (TPE),TAN Yoke Chang (SGP),HUANG Wei-Chin
+Singapore Open 2004,2004-05-27,KIM Hyok Bong,MAYBRATHA Hendrik,3,0,"11,11,11|5,4,8",QR4,GRAND_SLAM,U21MS,1680,Qualification,KIM Hyok Bong (PRK),MAYBRATHA Hendrik (INA),KIM Hyok Bong
+Singapore Open 2004,2004-05-27,KIM Hyok Bong,HUANG Wei-Chin,3,1,"11,11,10,11|4,9,12,9",5,GRAND_SLAM,U21MS,1680,Qualification,KIM Hyok Bong (PRK),HUANG Wei-Chin (TPE),KIM Hyok Bong
+Singapore Open 2004,2004-05-27,TAN Yoke Chang,MAYBRATHA Hendrik,3,0,"11,11,11|7,4,8",6,GRAND_SLAM,U21MS,1680,Qualification,TAN Yoke Chang (SGP),MAYBRATHA Hendrik (INA),TAN Yoke Chang
+Singapore Open 2004,2004-05-27,HUSSEIN Muhammad,VIPAWATANAKUL Sithichok,3,1,"8,11,11,11|11,9,5,5",,GRAND_SLAM,U21MS,1680,Qualification,HUSSEIN Muhammad (INA),VIPAWATANAKUL Sithichok (AUS),HUSSEIN Muhammad
+Singapore Open 2004,2004-05-27,YANG Zi,GOH Yi Long,3,0,"11,11,11|3,3,3",QR2,GRAND_SLAM,U21MS,1680,Qualification,YANG Zi (SGP),GOH Yi Long (SGP),YANG Zi
+Singapore Open 2004,2004-05-27,HUSSEIN Muhammad,GOH Yi Long,3,1,"5,11,11,11|11,3,8,3",3,GRAND_SLAM,U21MS,1680,Qualification,HUSSEIN Muhammad (INA),GOH Yi Long (SGP),HUSSEIN Muhammad
+Singapore Open 2004,2004-05-27,YANG Zi,HUSSEIN Muhammad,3,0,"11,11,11|7,7,1",5,GRAND_SLAM,U21MS,1680,Qualification,YANG Zi (SGP),HUSSEIN Muhammad (INA),YANG Zi
+Singapore Open 2004,2004-05-27,VIPAWATANAKUL Sithichok,GOH Yi Long,3,0,"11,11,11|8,1,1",6,GRAND_SLAM,U21MS,1680,Qualification,VIPAWATANAKUL Sithichok (AUS),GOH Yi Long (SGP),VIPAWATANAKUL Sithichok
+Singapore Open 2004,2004-05-27,PETERSEN Christoffer,KHAYAT SOBHI Sadegh,3,0,"11,11,11|4,6,6",,GRAND_SLAM,U21MS,1680,Qualification,PETERSEN Christoffer (DEN),KHAYAT SOBHI Sadegh (IRI),PETERSEN Christoffer
+Singapore Open 2004,2004-05-27,LI Hang,PANG Xue Hao,3,0,"15,11,11|13,6,5",QR2,GRAND_SLAM,U21MS,1680,Qualification,LI Hang (SGP),PANG Xue Hao (SGP),LI Hang
+Singapore Open 2004,2004-05-27,PETERSEN Christoffer,PANG Xue Hao,3,0,"11,11,11|3,6,9",3,GRAND_SLAM,U21MS,1680,Qualification,PETERSEN Christoffer (DEN),PANG Xue Hao (SGP),PETERSEN Christoffer
+Singapore Open 2004,2004-05-27,LI Hang,KHAYAT SOBHI Sadegh,3,0,"11,12,11|7,10,6",QR4,GRAND_SLAM,U21MS,1680,Qualification,LI Hang (SGP),KHAYAT SOBHI Sadegh (IRI),LI Hang
+Singapore Open 2004,2004-05-27,LI Hang,PETERSEN Christoffer,3,1,"11,6,11,11|9,11,8,5",5,GRAND_SLAM,U21MS,1680,Qualification,LI Hang (SGP),PETERSEN Christoffer (DEN),LI Hang
+Singapore Open 2004,2004-05-27,PANG Xue Hao,KHAYAT SOBHI Sadegh,3,0,"11,11,11|7,8,9",6,GRAND_SLAM,U21MS,1680,Qualification,PANG Xue Hao (SGP),KHAYAT SOBHI Sadegh (IRI),PANG Xue Hao
+Singapore Open 2004,2004-05-27,SUN Wen-Wei,VIPAWATANAKUL Tanawat,3,0,"11,11,11|8,7,8",,GRAND_SLAM,U21MS,1680,Qualification,SUN Wen-Wei (TPE),VIPAWATANAKUL Tanawat (THA),SUN Wen-Wei
+Singapore Open 2004,2004-05-27,ZHANG Yiqin,PANG Xue Bin,3,0,"11,13,11|2,11,8",QR2,GRAND_SLAM,U21MS,1680,Qualification,ZHANG Yiqin (SGP),PANG Xue Bin (SGP),ZHANG Yiqin
+Singapore Open 2004,2004-05-27,SUN Wen-Wei,PANG Xue Bin,3,0,"11,11,11|7,6,6",3,GRAND_SLAM,U21MS,1680,Qualification,SUN Wen-Wei (TPE),PANG Xue Bin (SGP),SUN Wen-Wei
+Singapore Open 2004,2004-05-27,ZHANG Yiqin,VIPAWATANAKUL Tanawat,3,0,"12,11,11|10,5,5",QR4,GRAND_SLAM,U21MS,1680,Qualification,ZHANG Yiqin (SGP),VIPAWATANAKUL Tanawat (THA),ZHANG Yiqin
+Singapore Open 2004,2004-05-27,ZHANG Yiqin,SUN Wen-Wei,3,1,"14,11,8,11|12,2,11,6",5,GRAND_SLAM,U21MS,1680,Qualification,ZHANG Yiqin (SGP),SUN Wen-Wei (TPE),ZHANG Yiqin
+Singapore Open 2004,2004-05-27,VIPAWATANAKUL Tanawat,PANG Xue Bin,3,0,"16,11,11|14,6,4",6,GRAND_SLAM,U21MS,1680,Qualification,VIPAWATANAKUL Tanawat (THA),PANG Xue Bin (SGP),VIPAWATANAKUL Tanawat
+Singapore Open 2004,2004-05-27,AHMADIFAR Aref,KITTIYA Kritsada,3,1,"11,9,11,12|8,11,8,10",,GRAND_SLAM,U21MS,1680,Qualification,AHMADIFAR Aref (IRI),KITTIYA Kritsada (THA),AHMADIFAR Aref
+Singapore Open 2004,2004-05-27,AHMADIFAR Aref,SEAH Jun Wen,3,0,"11,11,11|8,6,6",3,GRAND_SLAM,U21MS,1680,Qualification,AHMADIFAR Aref (IRI),SEAH Jun Wen (SGP),AHMADIFAR Aref
+Singapore Open 2004,2004-05-27,KITTIYA Kritsada,SEAH Jun Wen,3,2,"11,12,5,9,11|9,10,11,11,5",6,GRAND_SLAM,U21MS,1680,Qualification,KITTIYA Kritsada (THA),SEAH Jun Wen (SGP),KITTIYA Kritsada
+Singapore Open 2004,2004-05-27,KIM Hyok Bong,SAKAMOTO Ryusuke,4,0,"11,11,11,13|8,5,9,11",R16,GRAND_SLAM,U21MS,1680,Main Draw,KIM Hyok Bong (PRK),SAKAMOTO Ryusuke (JPN),KIM Hyok Bong
+Singapore Open 2004,2004-05-27,LIM Jaehyun,ZHANG Yiqin,4,0,"11,11,11,11|8,7,5,9",R16,GRAND_SLAM,U21MS,1680,Main Draw,LIM Jaehyun (KOR),ZHANG Yiqin (SGP),LIM Jaehyun
+Singapore Open 2004,2004-05-27,WU Chih-Chi,AHMADIFAR Aref,4,0,"11,11,11,11|9,5,6,8",R16,GRAND_SLAM,U21MS,1680,Main Draw,WU Chih-Chi (TPE),AHMADIFAR Aref (IRI),WU Chih-Chi
+Singapore Open 2004,2004-05-27,MURAMORI Minoru,ANDERSSON Aron,4,0,"11,11,11,11|9,6,4,7",R16,GRAND_SLAM,U21MS,1680,Main Draw,MURAMORI Minoru (JPN),ANDERSSON Aron (SWE),MURAMORI Minoru
+Singapore Open 2004,2004-05-27,MIZUTANI Jun,KIM Hyok Bong,4,3,"11,9,9,11,12,11,11|9,11,11,7,14,6,7",QF,GRAND_SLAM,U21MS,1680,Main Draw,MIZUTANI Jun (JPN),KIM Hyok Bong (PRK),MIZUTANI Jun
+Singapore Open 2004,2004-05-27,KISHIKAWA Seiya,LIM Jaehyun,4,0,"11,11,11,12|8,9,7,10",QF,GRAND_SLAM,U21MS,1680,Main Draw,KISHIKAWA Seiya (JPN),LIM Jaehyun (KOR),KISHIKAWA Seiya
+Singapore Open 2004,2004-05-27,WU Chih-Chi,YANG Zi,4,2,"11,11,8,7,11,11|9,7,11,11,9,8",QF,GRAND_SLAM,U21MS,1680,Main Draw,WU Chih-Chi (TPE),YANG Zi (SGP),WU Chih-Chi
+Singapore Open 2004,2004-05-27,MURAMORI Minoru,LI Hang,4,0,"11,11,13,11|9,9,11,4",QF,GRAND_SLAM,U21MS,1680,Main Draw,MURAMORI Minoru (JPN),LI Hang (SGP),MURAMORI Minoru
+Singapore Open 2004,2004-05-27,KISHIKAWA Seiya,MIZUTANI Jun,4,1,"11,6,11,11,11|7,11,9,5,8",SF,GRAND_SLAM,U21MS,1680,Main Draw,KISHIKAWA Seiya (JPN),MIZUTANI Jun (JPN),KISHIKAWA Seiya
+Singapore Open 2004,2004-05-27,MURAMORI Minoru,WU Chih-Chi,4,0,"11,11,12,11|8,4,10,8",SF,GRAND_SLAM,U21MS,1680,Main Draw,MURAMORI Minoru (JPN),WU Chih-Chi (TPE),MURAMORI Minoru
+Singapore Open 2004,2004-05-27,KISHIKAWA Seiya,MURAMORI Minoru,4,1,"10,11,11,11,11|12,4,6,3,6",F,GRAND_SLAM,U21MS,1680,Main Draw,KISHIKAWA Seiya (JPN),MURAMORI Minoru (JPN),KISHIKAWA Seiya
+Singapore Open 2004,2004-05-27,HIURA Reiko,LIM Peixin,4,0,"11,11,11,11|3,7,4,2",,GRAND_SLAM,WS,1680,Qualification,HIURA Reiko (JPN),LIM Peixin (SGP),HIURA Reiko
+Singapore Open 2004,2004-05-27,HIURA Reiko,ISTIYANI Lindawati,4,1,"11,11,11,8,11|7,2,6,11,8",QR2,GRAND_SLAM,WS,1680,Qualification,HIURA Reiko (JPN),ISTIYANI Lindawati (INA),HIURA Reiko
+Singapore Open 2004,2004-05-27,ISTIYANI Lindawati,LIM Peixin,4,1,"11,11,6,12,11|2,9,11,10,4",3,GRAND_SLAM,WS,1680,Qualification,ISTIYANI Lindawati (INA),LIM Peixin (SGP),ISTIYANI Lindawati
+Singapore Open 2004,2004-05-27,KIM Kyungha,HENG Wei Chen,4,0,"11,11,11,11|5,8,4,8",,GRAND_SLAM,WS,1680,Qualification,KIM Kyungha (KOR),HENG Wei Chen (SGP),KIM Kyungha
+Singapore Open 2004,2004-05-27,KIM Kyungha,SUGIANTO Nuni,4,0,"12,11,11,11|10,4,6,7",QR2,GRAND_SLAM,WS,1680,Qualification,KIM Kyungha (KOR),SUGIANTO Nuni (INA),KIM Kyungha
+Singapore Open 2004,2004-05-27,SUGIANTO Nuni,HENG Wei Chen,4,0,"11,11,11,11|7,5,6,5",3,GRAND_SLAM,WS,1680,Qualification,SUGIANTO Nuni (INA),HENG Wei Chen (SGP),SUGIANTO Nuni
+Singapore Open 2004,2004-05-27,POTA Georgina,SIM Kai Xin Zena,4,0,"11,11,11,11|5,3,3,4",,GRAND_SLAM,WS,1680,Qualification,POTA Georgina (HUN),SIM Kai Xin Zena (SGP),POTA Georgina
+Singapore Open 2004,2004-05-27,POTA Georgina,AGUSTIN Ling Ling,4,0,"11,11,11,11|6,7,7,9",QR2,GRAND_SLAM,WS,1680,Qualification,POTA Georgina (HUN),AGUSTIN Ling Ling (INA),POTA Georgina
+Singapore Open 2004,2004-05-27,AGUSTIN Ling Ling,SIM Kai Xin Zena,4,1,"11,7,11,11,11|6,11,7,3,5",3,GRAND_SLAM,WS,1680,Qualification,AGUSTIN Ling Ling (INA),SIM Kai Xin Zena (SGP),AGUSTIN Ling Ling
+Singapore Open 2004,2004-05-27,KWAK Bangbang,LIAUW Wan Ling,4,0,"11,11,11,11|2,7,3,6",,GRAND_SLAM,WS,1680,Qualification,KWAK Bangbang (KOR),LIAUW Wan Ling (SGP),KWAK Bangbang
+Singapore Open 2004,2004-05-27,KWAK Bangbang,PING Whitney,4,0,"11,11,11,11|7,5,6,2",QR2,GRAND_SLAM,WS,1680,Qualification,KWAK Bangbang (KOR),PING Whitney (USA),KWAK Bangbang
+Singapore Open 2004,2004-05-27,PING Whitney,LIAUW Wan Ling,4,0,"11,13,11,11|9,11,5,9",3,GRAND_SLAM,WS,1680,Qualification,PING Whitney (USA),LIAUW Wan Ling (SGP),PING Whitney
+Singapore Open 2004,2004-05-27,MOON Hyunjung,KWA Hui Ru,4,0,"11,11,11,11|3,7,4,5",,GRAND_SLAM,WS,1680,Qualification,MOON Hyunjung (KOR),KWA Hui Ru (SGP),MOON Hyunjung
+Singapore Open 2004,2004-05-27,MOON Hyunjung,JUSMA Ceria Nilasari,4,1,"11,9,11,11,11|8,11,2,3,7",QR2,GRAND_SLAM,WS,1680,Qualification,MOON Hyunjung (KOR),JUSMA Ceria Nilasari (INA),MOON Hyunjung
+Singapore Open 2004,2004-05-27,KWA Hui Ru,JUSMA Ceria Nilasari,4,1,"11,12,13,6,11|8,10,11,11,7",3,GRAND_SLAM,WS,1680,Qualification,KWA Hui Ru (SGP),JUSMA Ceria Nilasari (INA),KWA Hui Ru
+Singapore Open 2004,2004-05-27,KOMWONG Nanthana,LEE Su Hui,4,0,"11,11,11,11|3,6,3,5",,GRAND_SLAM,WS,1680,Qualification,KOMWONG Nanthana (THA),LEE Su Hui (SGP),KOMWONG Nanthana
+Singapore Open 2004,2004-05-27,KOMWONG Nanthana,FIBRIYANI Santi,4,1,"11,11,8,11,11|9,7,11,6,3",QR2,GRAND_SLAM,WS,1680,Qualification,KOMWONG Nanthana (THA),FIBRIYANI Santi (INA),KOMWONG Nanthana
+Singapore Open 2004,2004-05-27,FIBRIYANI Santi,LEE Su Hui,4,1,"11,9,11,11,11|7,11,9,4,7",3,GRAND_SLAM,WS,1680,Qualification,FIBRIYANI Santi (INA),LEE Su Hui (SGP),FIBRIYANI Santi
+Singapore Open 2004,2004-05-27,LU Yun-Feng,TAN Hui Min,4,0,"11,14,11,11|3,12,4,2",,GRAND_SLAM,WS,1680,Qualification,LU Yun-Feng (TPE),TAN Hui Min (SGP),LU Yun-Feng
+Singapore Open 2004,2004-05-27,LU Yun-Feng,BEH Lee Fong,4,0,"11,11,11,11|6,7,9,4",QR2,GRAND_SLAM,WS,1680,Qualification,LU Yun-Feng (TPE),BEH Lee Fong (MAS),LU Yun-Feng
+Singapore Open 2004,2004-05-27,BEH Lee Fong,TAN Hui Min,4,1,"11,11,11,9,11|5,4,9,11,4",3,GRAND_SLAM,WS,1680,Qualification,BEH Lee Fong (MAS),TAN Hui Min (SGP),BEH Lee Fong
+Singapore Open 2004,2004-05-27,PAVLOVICH Veronika,LEE Xin,4,0,"11,11,11,11|5,1,6,2",,GRAND_SLAM,WS,1680,Qualification,PAVLOVICH Veronika (BLR),LEE Xin (SGP),PAVLOVICH Veronika
+Singapore Open 2004,2004-05-27,PAVLOVICH Veronika,HEINE Veronika,4,2,"11,11,4,11,11,11|6,9,11,4,13,7",QR2,GRAND_SLAM,WS,1680,Qualification,PAVLOVICH Veronika (BLR),HEINE Veronika (AUT),PAVLOVICH Veronika
+Singapore Open 2004,2004-05-27,HEINE Veronika,LEE Xin,4,0,"11,11,12,11|3,6,10,5",3,GRAND_SLAM,WS,1680,Qualification,HEINE Veronika (AUT),LEE Xin (SGP),HEINE Veronika
+Singapore Open 2004,2004-05-27,HUANG Yi-Hua,LEE Eunhee,4,0,"11,13,11,11|5,11,3,8",,GRAND_SLAM,WS,1680,Qualification,HUANG Yi-Hua (TPE),LEE Eunhee (KOR),HUANG Yi-Hua
+Singapore Open 2004,2004-05-27,HUANG Yi-Hua,FERLIANA Christine,4,0,"11,13,11,11|3,11,9,6",QR2,GRAND_SLAM,WS,1680,Qualification,HUANG Yi-Hua (TPE),FERLIANA Christine (INA),HUANG Yi-Hua
+Singapore Open 2004,2004-05-27,LEE Eunhee,FERLIANA Christine,4,0,"15,11,11,11|13,2,9,4",3,GRAND_SLAM,WS,1680,Qualification,LEE Eunhee (KOR),FERLIANA Christine (INA),LEE Eunhee
+Singapore Open 2004,2004-05-27,XU Yan,REZEKI W Yayuk,4,0,"11,11,11,11|4,8,6,3",,GRAND_SLAM,WS,1680,Qualification,XU Yan (SGP),REZEKI W Yayuk (INA),XU Yan
+Singapore Open 2004,2004-05-27,XU Yan,RATTANAPRAYOON Suttilux,4,0,"11,11,11,11|5,7,4,7",QR2,GRAND_SLAM,WS,1680,Qualification,XU Yan (SGP),RATTANAPRAYOON Suttilux (THA),XU Yan
+Singapore Open 2004,2004-05-27,RATTANAPRAYOON Suttilux,REZEKI W Yayuk,4,0,"11,18,11,11|5,16,7,7",3,GRAND_SLAM,WS,1680,Qualification,RATTANAPRAYOON Suttilux (THA),REZEKI W Yayuk (INA),RATTANAPRAYOON Suttilux
+Singapore Open 2004,2004-05-27,FUJII Hiroko,LEE Yi Shi,4,0,"11,11,11,11|3,4,4,3",,GRAND_SLAM,WS,1680,Qualification,FUJII Hiroko (JPN),LEE Yi Shi (SGP),FUJII Hiroko
+Singapore Open 2004,2004-05-27,FUJII Hiroko,LEE I-Chen,4,0,"11,11,11,11|2,5,7,4",QR2,GRAND_SLAM,WS,1680,Qualification,FUJII Hiroko (JPN),LEE I-Chen (TPE),FUJII Hiroko
+Singapore Open 2004,2004-05-27,LEE I-Chen,LEE Yi Shi,4,0,"11,11,11,11|4,1,6,4",3,GRAND_SLAM,WS,1680,Qualification,LEE I-Chen (TPE),LEE Yi Shi (SGP),LEE I-Chen
+Singapore Open 2004,2004-05-27,PARK Miyoung,LEE Cyn Li,4,0,"11,11,11,11|5,7,3,2",,GRAND_SLAM,WS,1680,Qualification,PARK Miyoung (KOR),LEE Cyn Li (SGP),PARK Miyoung
+Singapore Open 2004,2004-05-27,PARK Miyoung,CHIU Soo Jiin,4,0,"11,11,11,11|8,8,7,8",QR2,GRAND_SLAM,WS,1680,Qualification,PARK Miyoung (KOR),CHIU Soo Jiin (MAS),PARK Miyoung
+Singapore Open 2004,2004-05-27,CHIU Soo Jiin,LEE Cyn Li,4,0,"11,11,11,11|7,5,2,6",3,GRAND_SLAM,WS,1680,Qualification,CHIU Soo Jiin (MAS),LEE Cyn Li (SGP),CHIU Soo Jiin
+Singapore Open 2004,2004-05-27,RATHER Jasna,GO Liying Sandra,4,0,"11,11,11,11|5,6,8,6",,GRAND_SLAM,WS,1680,Qualification,RATHER Jasna (USA),GO Liying Sandra (SGP),RATHER Jasna
+Singapore Open 2004,2004-05-27,KIM Junghyun,RATHER Jasna,4,3,"7,9,11,6,11,11,11|11,11,8,11,5,4,3",QR2,GRAND_SLAM,WS,1680,Qualification,KIM Junghyun (KOR),RATHER Jasna (USA),KIM Junghyun
+Singapore Open 2004,2004-05-27,KIM Junghyun,GO Liying Sandra,4,0,"11,11,11,11|3,6,7,6",3,GRAND_SLAM,WS,1680,Qualification,KIM Junghyun (KOR),GO Liying Sandra (SGP),KIM Junghyun
+Singapore Open 2004,2004-05-27,TAN Paey Fern,ROVANI Silir,4,0,"11,11,11,11|7,1,4,5",,GRAND_SLAM,WS,1680,Qualification,TAN Paey Fern (SGP),ROVANI Silir (INA),TAN Paey Fern
+Singapore Open 2004,2004-05-27,SUN Chian-Lan,TAN Paey Fern,4,1,"11,14,6,11,11|7,12,11,7,6",QR2,GRAND_SLAM,WS,1680,Qualification,SUN Chian-Lan (TPE),TAN Paey Fern (SGP),SUN Chian-Lan
+Singapore Open 2004,2004-05-27,SUN Chian-Lan,ROVANI Silir,4,0,"11,11,11,11|6,4,8,6",3,GRAND_SLAM,WS,1680,Qualification,SUN Chian-Lan (TPE),ROVANI Silir (INA),SUN Chian-Lan
+Singapore Open 2004,2004-05-27,RAO Jingwen,LEE Hyangmi,4,1,"11,9,11,11,11|7,11,6,8,7",,GRAND_SLAM,WS,1680,Qualification,RAO Jingwen (CHN),LEE Hyangmi (KOR),RAO Jingwen
+Singapore Open 2004,2004-05-27,PAN Chun-Chu,LEE Hyangmi,4,2,"11,11,3,11,8,11|7,4,11,9,11,5",QR2,GRAND_SLAM,WS,1680,Qualification,PAN Chun-Chu (TPE),LEE Hyangmi (KOR),PAN Chun-Chu
+Singapore Open 2004,2004-05-27,RAO Jingwen,PAN Chun-Chu,4,1,"11,8,11,11,11|7,11,7,4,7",3,GRAND_SLAM,WS,1680,Qualification,RAO Jingwen (CHN),PAN Chun-Chu (TPE),RAO Jingwen
+Singapore Open 2004,2004-05-27,KIM Jong,YOON Jihye,4,0,"13,11,11,11|11,7,6,4",,GRAND_SLAM,WS,1680,Qualification,KIM Jong (PRK),YOON Jihye (KOR),KIM Jong
+Singapore Open 2004,2004-05-27,MUANGSUK Anisara,TAN Yan Zhen,4,0,"11,11,11,11|5,7,5,3",QR2,GRAND_SLAM,WS,1680,Qualification,MUANGSUK Anisara (THA),TAN Yan Zhen (SGP),MUANGSUK Anisara
+Singapore Open 2004,2004-05-27,MUANGSUK Anisara,YOON Jihye,4,3,"11,6,11,11,9,9,16|6,11,5,7,11,11,14",3,GRAND_SLAM,WS,1680,Qualification,MUANGSUK Anisara (THA),YOON Jihye (KOR),MUANGSUK Anisara
+Singapore Open 2004,2004-05-27,KIM Jong,TAN Yan Zhen,4,0,"11,11,11,11|6,5,4,3",QR4,GRAND_SLAM,WS,1680,Qualification,KIM Jong (PRK),TAN Yan Zhen (SGP),KIM Jong
+Singapore Open 2004,2004-05-27,YOON Jihye,TAN Yan Zhen,4,0,"11,11,11,11|7,1,5,5",5,GRAND_SLAM,WS,1680,Qualification,YOON Jihye (KOR),TAN Yan Zhen (SGP),YOON Jihye
+Singapore Open 2004,2004-05-27,KIM Jong,MUANGSUK Anisara,4,1,"11,10,11,11,11|6,12,7,7,7",6,GRAND_SLAM,WS,1680,Qualification,KIM Jong (PRK),MUANGSUK Anisara (THA),KIM Jong
+Singapore Open 2004,2004-05-27,ZHANG Yining,MUANGSUK Anisara,4,0,"11,11,11,11|6,7,4,6",R64,GRAND_SLAM,WS,1680,Main Draw,ZHANG Yining (CHN),MUANGSUK Anisara (THA),ZHANG Yining
+Singapore Open 2004,2004-05-27,PAVLOVICH Viktoria,LU Yun-Feng,4,0,"11,11,11,11|6,5,9,8",R64,GRAND_SLAM,WS,1680,Main Draw,PAVLOVICH Viktoria (BLR),LU Yun-Feng (TPE),PAVLOVICH Viktoria
+Singapore Open 2004,2004-05-27,KIM Yun Mi,PARK Miyoung,4,2,"11,12,11,9,9,11|8,10,4,11,11,6",R64,GRAND_SLAM,WS,1680,Main Draw,KIM Yun Mi (PRK),PARK Miyoung (KOR),KIM Yun Mi
+Singapore Open 2004,2004-05-27,LAU Sui Fei,BEH Lee Fong,4,0,"12,11,11,12|10,8,9,10",R64,GRAND_SLAM,WS,1680,Main Draw,LAU Sui Fei (HKG),BEH Lee Fong (MAS),LAU Sui Fei
+Singapore Open 2004,2004-05-27,ZHANG Rui,TAN Paey Fern,4,0,"11,11,11,11|6,8,7,5",R64,GRAND_SLAM,WS,1680,Main Draw,ZHANG Rui (HKG),TAN Paey Fern (SGP),ZHANG Rui
+Singapore Open 2004,2004-05-27,JING Junhong,SUN Chian-Lan,4,0,"11,11,11,11|8,3,4,7",R64,GRAND_SLAM,WS,1680,Main Draw,JING Junhong (SGP),SUN Chian-Lan (TPE),JING Junhong
+Singapore Open 2004,2004-05-27,LI Xiaoxia,XU Yan,4,1,"10,11,11,11,11|12,8,7,8,3",R64,GRAND_SLAM,WS,1680,Main Draw,LI Xiaoxia (CHN),XU Yan (SGP),LI Xiaoxia
+Singapore Open 2004,2004-05-27,UMEMURA Aya,AGUSTIN Ling Ling,4,0,"11,11,11,11|8,7,4,3",R64,GRAND_SLAM,WS,1680,Main Draw,UMEMURA Aya (JPN),AGUSTIN Ling Ling (INA),UMEMURA Aya
+Singapore Open 2004,2004-05-27,BOROS Tamara,KWA Hui Ru,4,0,"11,11,11,11|2,2,2,3",R64,GRAND_SLAM,WS,1680,Main Draw,BOROS Tamara (CRO),KWA Hui Ru (SGP),BOROS Tamara
+Singapore Open 2004,2004-05-27,GANINA Svetlana,MOON Hyunjung,4,1,"9,11,11,11,11|11,4,8,8,4",R64,GRAND_SLAM,WS,1680,Main Draw,GANINA Svetlana (RUS),MOON Hyunjung (KOR),GANINA Svetlana
+Singapore Open 2004,2004-05-27,POTA Georgina,KONISHI An,4,3,"10,12,11,11,7,6,11|12,10,9,9,11,11,7",R64,GRAND_SLAM,WS,1680,Main Draw,POTA Georgina (HUN),KONISHI An (JPN),POTA Georgina
+Singapore Open 2004,2004-05-27,GAO Jun,CHIU Soo Jiin,4,0,"11,11,11,11|3,8,5,3",R64,GRAND_SLAM,WS,1680,Main Draw,GAO Jun (USA),CHIU Soo Jiin (MAS),GAO Jun
+Singapore Open 2004,2004-05-27,KIM Hyon Hui,SUGIANTO Nuni,4,0,"11,11,11,11|5,7,5,4",R64,GRAND_SLAM,WS,1680,Main Draw,KIM Hyon Hui (PRK),SUGIANTO Nuni (INA),KIM Hyon Hui
+Singapore Open 2004,2004-05-27,KWAK Bangbang,FUJINUMA Ai,4,1,"11,5,11,11,11|4,11,6,6,5",R64,GRAND_SLAM,WS,1680,Main Draw,KWAK Bangbang (KOR),FUJINUMA Ai (JPN),KWAK Bangbang
+Singapore Open 2004,2004-05-27,KIM Jong,KRAVCHENKO Marina,4,3,"11,11,9,3,9,11,11|3,6,11,11,11,7,6",R64,GRAND_SLAM,WS,1680,Main Draw,KIM Jong (PRK),KRAVCHENKO Marina (ISR),KIM Jong
+Singapore Open 2004,2004-05-27,NIU Jianfeng,LEE I-Chen,4,0,"11,11,11,11|9,8,2,5",R64,GRAND_SLAM,WS,1680,Main Draw,NIU Jianfeng (CHN),LEE I-Chen (TPE),NIU Jianfeng
+Singapore Open 2004,2004-05-27,GUO Yue,LEE Eunhee,4,0,"11,11,11,11|8,6,8,4",R64,GRAND_SLAM,WS,1680,Main Draw,GUO Yue (CHN),LEE Eunhee (KOR),GUO Yue
+Singapore Open 2004,2004-05-27,KIM Bokrae,KOMWONG Nanthana,4,0,"11,11,11,11|9,4,3,8",R64,GRAND_SLAM,WS,1680,Main Draw,KIM Bokrae (KOR),KOMWONG Nanthana (THA),KIM Bokrae
+Singapore Open 2004,2004-05-27,FUKUHARA Ai,HUANG Yi-Hua,4,0,"11,11,11,11|6,3,3,9",R64,GRAND_SLAM,WS,1680,Main Draw,FUKUHARA Ai (JPN),HUANG Yi-Hua (TPE),FUKUHARA Ai
+Singapore Open 2004,2004-05-27,LI Jiawei,PING Whitney,4,0,"11,11,11,11|4,7,4,5",R64,GRAND_SLAM,WS,1680,Main Draw,LI Jiawei (SGP),PING Whitney (USA),LI Jiawei
+Singapore Open 2004,2004-05-27,LIU Jia,FIBRIYANI Santi,4,0,"12,11,11,11|10,4,8,5",R64,GRAND_SLAM,WS,1680,Main Draw,LIU Jia (AUT),FIBRIYANI Santi (INA),LIU Jia
+Singapore Open 2004,2004-05-27,LEE Eunsil,FUJII Hiroko,4,1,"11,11,5,11,11|6,7,11,7,6",R64,GRAND_SLAM,WS,1680,Main Draw,LEE Eunsil (KOR),FUJII Hiroko (JPN),LEE Eunsil
+Singapore Open 2004,2004-05-27,SCHALL Elke,KIM Kyungha,4,3,"9,12,10,11,11,6,11|11,10,12,8,8,11,4",R64,GRAND_SLAM,WS,1680,Main Draw,SCHALL Elke (GER),KIM Kyungha (KOR),SCHALL Elke
+Singapore Open 2004,2004-05-27,HEINE Veronika,TIE Yana,4,2,"11,5,10,12,11,17|7,11,12,10,6,15",R64,GRAND_SLAM,WS,1680,Main Draw,HEINE Veronika (AUT),TIE Yana (HKG),HEINE Veronika
+Singapore Open 2004,2004-05-27,KIM Kyungah,ISTIYANI Lindawati,4,0,"11,11,11,11|5,5,5,5",R64,GRAND_SLAM,WS,1680,Main Draw,KIM Kyungah (KOR),ISTIYANI Lindawati (INA),KIM Kyungah
+Singapore Open 2004,2004-05-27,KIM Hyang Mi,HIURA Reiko,4,1,"11,11,11,7,11|7,9,3,11,5",R64,GRAND_SLAM,WS,1680,Main Draw,KIM Hyang Mi (PRK),HIURA Reiko (JPN),KIM Hyang Mi
+Singapore Open 2004,2004-05-27,SUK Eunmi,RAO Jingwen,4,1,"8,12,11,11,12|11,10,8,9,10",R64,GRAND_SLAM,WS,1680,Main Draw,SUK Eunmi (KOR),RAO Jingwen (CHN),SUK Eunmi
+Singapore Open 2004,2004-05-27,LIN Ling,PAN Chun-Chu,4,0,"12,11,11,11|10,7,4,7",R64,GRAND_SLAM,WS,1680,Main Draw,LIN Ling (HKG),PAN Chun-Chu (TPE),LIN Ling
+Singapore Open 2004,2004-05-27,SONG Ah Sim,RATHER Jasna,4,2,"9,11,11,6,11,11|11,9,4,11,7,6",R64,GRAND_SLAM,WS,1680,Main Draw,SONG Ah Sim (HKG),RATHER Jasna (USA),SONG Ah Sim
+Singapore Open 2004,2004-05-27,KOSTROMINA Tatyana (1973),KIM Junghyun,4,3,"7,11,12,8,11,6,11|11,7,10,11,9,11,9",R64,GRAND_SLAM,WS,1680,Main Draw,KOSTROMINA Tatyana (1973) (BLR),KIM Junghyun (KOR),KOSTROMINA Tatyana (1973)
+Singapore Open 2004,2004-05-27,ZHANG Xueling,PAVLOVICH Veronika,4,3,"11,11,11,10,5,11,11|9,6,4,12,11,13,7",R64,GRAND_SLAM,WS,1680,Main Draw,ZHANG Xueling (SGP),PAVLOVICH Veronika (BLR),ZHANG Xueling
+Singapore Open 2004,2004-05-27,WANG Nan,RATTANAPRAYOON Suttilux,4,1,"11,11,11,9,11|4,3,8,11,3",R64,GRAND_SLAM,WS,1680,Main Draw,WANG Nan (CHN),RATTANAPRAYOON Suttilux (THA),WANG Nan
+Singapore Open 2004,2004-05-27,ZHANG Yining,PAVLOVICH Viktoria,4,0,"11,11,11,11|5,6,2,9",R32,GRAND_SLAM,WS,1680,Main Draw,ZHANG Yining (CHN),PAVLOVICH Viktoria (BLR),ZHANG Yining
+Singapore Open 2004,2004-05-27,LAU Sui Fei,KIM Yun Mi,4,2,"11,12,12,11,12,11|6,10,10,13,14,7",R32,GRAND_SLAM,WS,1680,Main Draw,LAU Sui Fei (HKG),KIM Yun Mi (PRK),LAU Sui Fei
+Singapore Open 2004,2004-05-27,ZHANG Rui,JING Junhong,4,0,"11,11,11,11|7,7,8,5",R32,GRAND_SLAM,WS,1680,Main Draw,ZHANG Rui (HKG),JING Junhong (SGP),ZHANG Rui
+Singapore Open 2004,2004-05-27,LI Xiaoxia,UMEMURA Aya,4,2,"4,9,11,11,11,12|11,11,9,4,6,10",R32,GRAND_SLAM,WS,1680,Main Draw,LI Xiaoxia (CHN),UMEMURA Aya (JPN),LI Xiaoxia
+Singapore Open 2004,2004-05-27,BOROS Tamara,GANINA Svetlana,4,0,"11,11,11,11|5,9,8,5",R32,GRAND_SLAM,WS,1680,Main Draw,BOROS Tamara (CRO),GANINA Svetlana (RUS),BOROS Tamara
+Singapore Open 2004,2004-05-27,GAO Jun,POTA Georgina,4,0,"11,11,11,11|9,1,6,5",R32,GRAND_SLAM,WS,1680,Main Draw,GAO Jun (USA),POTA Georgina (HUN),GAO Jun
+Singapore Open 2004,2004-05-27,KIM Hyon Hui,KWAK Bangbang,4,0,"11,13,11,24|1,11,4,22",R32,GRAND_SLAM,WS,1680,Main Draw,KIM Hyon Hui (PRK),KWAK Bangbang (KOR),KIM Hyon Hui
+Singapore Open 2004,2004-05-27,NIU Jianfeng,KIM Jong,4,1,"11,4,11,12,11|7,11,9,10,5",R32,GRAND_SLAM,WS,1680,Main Draw,NIU Jianfeng (CHN),KIM Jong (PRK),NIU Jianfeng
+Singapore Open 2004,2004-05-27,GUO Yue,KIM Bokrae,4,2,"2,12,11,11,9,11|11,10,9,4,11,8",R32,GRAND_SLAM,WS,1680,Main Draw,GUO Yue (CHN),KIM Bokrae (KOR),GUO Yue
+Singapore Open 2004,2004-05-27,LI Jiawei,FUKUHARA Ai,4,2,"8,11,1,11,11,11|11,6,11,8,3,9",R32,GRAND_SLAM,WS,1680,Main Draw,LI Jiawei (SGP),FUKUHARA Ai (JPN),LI Jiawei
+Singapore Open 2004,2004-05-27,LIU Jia,LEE Eunsil,4,0,"11,13,11,14|8,11,2,12",R32,GRAND_SLAM,WS,1680,Main Draw,LIU Jia (AUT),LEE Eunsil (KOR),LIU Jia
+Singapore Open 2004,2004-05-27,SCHALL Elke,HEINE Veronika,4,1,"11,13,11,11,11|5,15,6,7,6",R32,GRAND_SLAM,WS,1680,Main Draw,SCHALL Elke (GER),HEINE Veronika (AUT),SCHALL Elke
+Singapore Open 2004,2004-05-27,KIM Kyungah,KIM Hyang Mi,4,0,"11,12,12,11|8,10,10,8",R32,GRAND_SLAM,WS,1680,Main Draw,KIM Kyungah (KOR),KIM Hyang Mi (PRK),KIM Kyungah
+Singapore Open 2004,2004-05-27,LIN Ling,SUK Eunmi,4,0,"11,11,11,11|7,7,9,4",R32,GRAND_SLAM,WS,1680,Main Draw,LIN Ling (HKG),SUK Eunmi (KOR),LIN Ling
+Singapore Open 2004,2004-05-27,KOSTROMINA Tatyana (1973),SONG Ah Sim,4,3,"9,11,11,5,8,11,11|11,9,9,11,11,7,9",R32,GRAND_SLAM,WS,1680,Main Draw,KOSTROMINA Tatyana (1973) (BLR),SONG Ah Sim (HKG),KOSTROMINA Tatyana (1973)
+Singapore Open 2004,2004-05-27,WANG Nan,ZHANG Xueling,4,2,"8,11,11,11,11,11|11,9,7,13,4,5",R32,GRAND_SLAM,WS,1680,Main Draw,WANG Nan (CHN),ZHANG Xueling (SGP),WANG Nan
+Singapore Open 2004,2004-05-27,ZHANG Yining,LAU Sui Fei,4,1,"11,11,11,7,11|3,5,5,11,6",R16,GRAND_SLAM,WS,1680,Main Draw,ZHANG Yining (CHN),LAU Sui Fei (HKG),ZHANG Yining
+Singapore Open 2004,2004-05-27,LI Xiaoxia,ZHANG Rui,4,1,"12,8,11,11,12|10,11,4,4,10",R16,GRAND_SLAM,WS,1680,Main Draw,LI Xiaoxia (CHN),ZHANG Rui (HKG),LI Xiaoxia
+Singapore Open 2004,2004-05-27,GAO Jun,BOROS Tamara,4,3,"9,11,14,11,7,6,15|11,7,12,9,11,11,13",R16,GRAND_SLAM,WS,1680,Main Draw,GAO Jun (USA),BOROS Tamara (CRO),GAO Jun
+Singapore Open 2004,2004-05-27,NIU Jianfeng,KIM Hyon Hui,4,1,"11,11,8,11,11|9,6,11,5,5",R16,GRAND_SLAM,WS,1680,Main Draw,NIU Jianfeng (CHN),KIM Hyon Hui (PRK),NIU Jianfeng
+Singapore Open 2004,2004-05-27,GUO Yue,LI Jiawei,4,3,"12,14,9,11,7,11,15|10,16,11,7,11,7,13",R16,GRAND_SLAM,WS,1680,Main Draw,GUO Yue (CHN),LI Jiawei (SGP),GUO Yue
+Singapore Open 2004,2004-05-27,LIU Jia,SCHALL Elke,4,3,"4,12,9,6,11,11,11|11,10,11,11,2,8,9",R16,GRAND_SLAM,WS,1680,Main Draw,LIU Jia (AUT),SCHALL Elke (GER),LIU Jia
+Singapore Open 2004,2004-05-27,KIM Kyungah,LIN Ling,4,1,"11,7,11,11,11|6,11,3,1,6",R16,GRAND_SLAM,WS,1680,Main Draw,KIM Kyungah (KOR),LIN Ling (HKG),KIM Kyungah
+Singapore Open 2004,2004-05-27,WANG Nan,KOSTROMINA Tatyana (1973),4,0,"11,11,11,11|3,8,9,7",R16,GRAND_SLAM,WS,1680,Main Draw,WANG Nan (CHN),KOSTROMINA Tatyana (1973) (BLR),WANG Nan
+Singapore Open 2004,2004-05-27,ZHANG Yining,LI Xiaoxia,4,3,"11,8,8,8,11,11,11|6,11,11,11,4,9,4",QF,GRAND_SLAM,WS,1680,Main Draw,ZHANG Yining (CHN),LI Xiaoxia (CHN),ZHANG Yining
+Singapore Open 2004,2004-05-27,NIU Jianfeng,GAO Jun,4,1,"11,7,11,11,12|6,11,6,7,10",QF,GRAND_SLAM,WS,1680,Main Draw,NIU Jianfeng (CHN),GAO Jun (USA),NIU Jianfeng
+Singapore Open 2004,2004-05-27,GUO Yue,LIU Jia,4,1,"11,12,12,12,11|6,10,14,10,5",QF,GRAND_SLAM,WS,1680,Main Draw,GUO Yue (CHN),LIU Jia (AUT),GUO Yue
+Singapore Open 2004,2004-05-27,WANG Nan,KIM Kyungah,4,1,"11,11,12,11,11|4,5,14,5,3",QF,GRAND_SLAM,WS,1680,Main Draw,WANG Nan (CHN),KIM Kyungah (KOR),WANG Nan
+Singapore Open 2004,2004-05-27,ZHANG Yining,NIU Jianfeng,4,0,"11,11,12,12|8,4,10,10",SF,GRAND_SLAM,WS,1680,Main Draw,ZHANG Yining (CHN),NIU Jianfeng (CHN),ZHANG Yining
+Singapore Open 2004,2004-05-27,WANG Nan,GUO Yue,4,2,"5,11,11,6,11,11|11,5,4,11,1,8",SF,GRAND_SLAM,WS,1680,Main Draw,WANG Nan (CHN),GUO Yue (CHN),WANG Nan
+Singapore Open 2004,2004-05-27,ZHANG Yining,WANG Nan,4,3,"11,9,8,6,11,11,12|9,11,11,11,3,9,10",F,GRAND_SLAM,WS,1680,Main Draw,ZHANG Yining (CHN),WANG Nan (CHN),ZHANG Yining
+Singapore Open 2004,2004-05-27,ROVANI Silir,TAN Hui Min,3,0,"11,11,11|8,9,7",,GRAND_SLAM,U21WS,1680,Qualification,ROVANI Silir (INA),TAN Hui Min (SGP),ROVANI Silir
+Singapore Open 2004,2004-05-27,YOON Jihye,ROVANI Silir,3,0,"11,11,11|9,7,5",QR2,GRAND_SLAM,U21WS,1680,Qualification,YOON Jihye (KOR),ROVANI Silir (INA),YOON Jihye
+Singapore Open 2004,2004-05-27,YOON Jihye,TAN Hui Min,3,0,"11,13,11|4,11,4",3,GRAND_SLAM,U21WS,1680,Qualification,YOON Jihye (KOR),TAN Hui Min (SGP),YOON Jihye
+Singapore Open 2004,2004-05-27,LEE Su Hui,REZEKI W Yayuk,3,1,"9,11,11,11|11,9,9,9",,GRAND_SLAM,U21WS,1680,Qualification,LEE Su Hui (SGP),REZEKI W Yayuk (INA),LEE Su Hui
+Singapore Open 2004,2004-05-27,SUN Chian-Lan,REZEKI W Yayuk,3,1,"8,11,11,11|11,5,1,4",QR2,GRAND_SLAM,U21WS,1680,Qualification,SUN Chian-Lan (TPE),REZEKI W Yayuk (INA),SUN Chian-Lan
+Singapore Open 2004,2004-05-27,SUN Chian-Lan,LEE Su Hui,3,0,"14,11,11|12,2,8",3,GRAND_SLAM,U21WS,1680,Qualification,SUN Chian-Lan (TPE),LEE Su Hui (SGP),SUN Chian-Lan
+Singapore Open 2004,2004-05-27,ISTIYANI Lindawati,KWA Hui Ru,3,0,"11,12,11|6,10,9",,GRAND_SLAM,U21WS,1680,Qualification,ISTIYANI Lindawati (INA),KWA Hui Ru (SGP),ISTIYANI Lindawati
+Singapore Open 2004,2004-05-27,KIM Junghyun,ISTIYANI Lindawati,3,0,"11,11,11|2,1,5",QR2,GRAND_SLAM,U21WS,1680,Qualification,KIM Junghyun (KOR),ISTIYANI Lindawati (INA),KIM Junghyun
+Singapore Open 2004,2004-05-27,KIM Junghyun,KWA Hui Ru,3,1,"11,8,11,11|4,11,2,5",3,GRAND_SLAM,U21WS,1680,Qualification,KIM Junghyun (KOR),KWA Hui Ru (SGP),KIM Junghyun
+Singapore Open 2004,2004-05-27,LIAUW Wan Ling,TAN Yan Zhen,3,1,"7,11,11,13|11,6,8,11",,GRAND_SLAM,U21WS,1680,Qualification,LIAUW Wan Ling (SGP),TAN Yan Zhen (SGP),LIAUW Wan Ling
+Singapore Open 2004,2004-05-27,CHIU Soo Jiin,TAN Yan Zhen,3,1,"11,11,11,11|5,13,6,6",QR2,GRAND_SLAM,U21WS,1680,Qualification,CHIU Soo Jiin (MAS),TAN Yan Zhen (SGP),CHIU Soo Jiin
+Singapore Open 2004,2004-05-27,CHIU Soo Jiin,LIAUW Wan Ling,3,0,"11,11,11|8,6,6",3,GRAND_SLAM,U21WS,1680,Qualification,CHIU Soo Jiin (MAS),LIAUW Wan Ling (SGP),CHIU Soo Jiin
+Singapore Open 2004,2004-05-27,LEE Eunhee,LEE Xin,3,0,"11,11,11|4,2,4",,GRAND_SLAM,U21WS,1680,Qualification,LEE Eunhee (KOR),LEE Xin (SGP),LEE Eunhee
+Singapore Open 2004,2004-05-27,LEE I-Chen,LEE Xin,3,0,"12,11,11|10,2,6",QR2,GRAND_SLAM,U21WS,1680,Qualification,LEE I-Chen (TPE),LEE Xin (SGP),LEE I-Chen
+Singapore Open 2004,2004-05-27,LEE I-Chen,LEE Eunhee,3,0,"12,11,13|10,8,11",3,GRAND_SLAM,U21WS,1680,Qualification,LEE I-Chen (TPE),LEE Eunhee (KOR),LEE I-Chen
+Singapore Open 2004,2004-05-27,SIM Kai Xin Zena,GO Liying Sandra,3,2,"5,11,12,11,13|11,6,10,13,11",,GRAND_SLAM,U21WS,1680,Qualification,SIM Kai Xin Zena (SGP),GO Liying Sandra (SGP),SIM Kai Xin Zena
+Singapore Open 2004,2004-05-27,HEINE Veronika,GO Liying Sandra,3,0,"11,11,11|7,3,6",QR2,GRAND_SLAM,U21WS,1680,Qualification,HEINE Veronika (AUT),GO Liying Sandra (SGP),HEINE Veronika
+Singapore Open 2004,2004-05-27,HEINE Veronika,SIM Kai Xin Zena,3,0,"11,11,11|3,6,5",3,GRAND_SLAM,U21WS,1680,Qualification,HEINE Veronika (AUT),SIM Kai Xin Zena (SGP),HEINE Veronika
+Singapore Open 2004,2004-05-27,LIM Peixin,LEE Cyn Li,3,2,"11,9,10,11,11|9,11,12,8,8",,GRAND_SLAM,U21WS,1680,Qualification,LIM Peixin (SGP),LEE Cyn Li (SGP),LIM Peixin
+Singapore Open 2004,2004-05-27,PING Whitney,LEE Cyn Li,3,0,"11,11,11|8,8,8",QR2,GRAND_SLAM,U21WS,1680,Qualification,PING Whitney (USA),LEE Cyn Li (SGP),PING Whitney
+Singapore Open 2004,2004-05-27,PING Whitney,LIM Peixin,3,1,"6,11,14,11|11,6,12,4",3,GRAND_SLAM,U21WS,1680,Qualification,PING Whitney (USA),LIM Peixin (SGP),PING Whitney
+Singapore Open 2004,2004-05-27,HENG Wei Chen,LEE Yi Shi,3,0,"11,11,11|8,7,2",,GRAND_SLAM,U21WS,1680,Qualification,HENG Wei Chen (SGP),LEE Yi Shi (SGP),HENG Wei Chen
+Singapore Open 2004,2004-05-27,KIM Jong,LEE Yi Shi,3,0,"11,11,11|7,3,4",QR2,GRAND_SLAM,U21WS,1680,Qualification,KIM Jong (PRK),LEE Yi Shi (SGP),KIM Jong
+Singapore Open 2004,2004-05-27,KIM Jong,HENG Wei Chen,3,0,"11,11,11|2,1,6",3,GRAND_SLAM,U21WS,1680,Qualification,KIM Jong (PRK),HENG Wei Chen (SGP),KIM Jong
+Singapore Open 2004,2004-05-27,FUKUHARA Ai,KIM Jong,4,2,"8,11,11,11,11,11|11,1,5,13,9,9",R16,GRAND_SLAM,U21WS,1680,Main Draw,FUKUHARA Ai (JPN),KIM Jong (PRK),FUKUHARA Ai
+Singapore Open 2004,2004-05-27,HUANG Yi-Hua,KIM Junghyun,4,0,"11,11,11,11|7,5,4,9",R16,GRAND_SLAM,U21WS,1680,Main Draw,HUANG Yi-Hua (TPE),KIM Junghyun (KOR),HUANG Yi-Hua
+Singapore Open 2004,2004-05-27,XU Yan,PING Whitney,4,1,"11,11,11,11,11|13,9,5,2,8",R16,GRAND_SLAM,U21WS,1680,Main Draw,XU Yan (SGP),PING Whitney (USA),XU Yan
+Singapore Open 2004,2004-05-27,POTA Georgina,SUN Chian-Lan,4,1,"7,11,11,11,11|11,5,4,6,9",R16,GRAND_SLAM,U21WS,1680,Main Draw,POTA Georgina (HUN),SUN Chian-Lan (TPE),POTA Georgina
+Singapore Open 2004,2004-05-27,HIURA Reiko,YOON Jihye,4,2,"7,11,12,11,7,11|11,5,10,9,11,7",R16,GRAND_SLAM,U21WS,1680,Main Draw,HIURA Reiko (JPN),YOON Jihye (KOR),HIURA Reiko
+Singapore Open 2004,2004-05-27,LU Yun-Feng,HEINE Veronika,4,0,"12,11,11,11|10,1,0,5",R16,GRAND_SLAM,U21WS,1680,Main Draw,LU Yun-Feng (TPE),HEINE Veronika (AUT),LU Yun-Feng
+Singapore Open 2004,2004-05-27,LEE I-Chen,MOON Hyunjung,4,1,"11,7,11,11,11|8,11,6,9,7",R16,GRAND_SLAM,U21WS,1680,Main Draw,LEE I-Chen (TPE),MOON Hyunjung (KOR),LEE I-Chen
+Singapore Open 2004,2004-05-27,ZHANG Xueling,CHIU Soo Jiin,4,0,"11,11,11,11|9,5,7,8",R16,GRAND_SLAM,U21WS,1680,Main Draw,ZHANG Xueling (SGP),CHIU Soo Jiin (MAS),ZHANG Xueling
+Singapore Open 2004,2004-05-27,XU Yan,POTA Georgina,4,2,"13,10,11,11,11,11|15,12,9,9,6,6",QF,GRAND_SLAM,U21WS,1680,Main Draw,XU Yan (SGP),POTA Georgina (HUN),XU Yan
+Singapore Open 2004,2004-05-27,HIURA Reiko,LU Yun-Feng,4,0,"11,11,11,17|8,5,6,15",QF,GRAND_SLAM,U21WS,1680,Main Draw,HIURA Reiko (JPN),LU Yun-Feng (TPE),HIURA Reiko
+Singapore Open 2004,2004-05-27,ZHANG Xueling,LEE I-Chen,4,0,"11,11,11,11|7,7,3,6",QF,GRAND_SLAM,U21WS,1680,Main Draw,ZHANG Xueling (SGP),LEE I-Chen (TPE),ZHANG Xueling
+Singapore Open 2004,2004-05-27,XU Yan,FUKUHARA Ai,4,3,"12,11,9,11,9,4,11|10,6,11,4,11,11,3",SF,GRAND_SLAM,U21WS,1680,Main Draw,XU Yan (SGP),FUKUHARA Ai (JPN),XU Yan
+Singapore Open 2004,2004-05-27,ZHANG Xueling,HIURA Reiko,4,0,"11,11,11,11|4,5,3,6",SF,GRAND_SLAM,U21WS,1680,Main Draw,ZHANG Xueling (SGP),HIURA Reiko (JPN),ZHANG Xueling
+Singapore Open 2004,2004-05-27,ZHANG Xueling,XU Yan,4,0,"14,11,11,11|12,7,9,8",F,GRAND_SLAM,U21WS,1680,Main Draw,ZHANG Xueling (SGP),XU Yan (SGP),ZHANG Xueling
+Singapore Open 2004,2004-05-27,CHEN Qi/MA Lin,PERSSON Jorgen/WALDNER Jan-Ove,4,0,"11,11,13,11|9,3,11,7",R16,GRAND_SLAM,MD,1680,Main Draw,CHEN Qi (CHN) / MA Lin (CHN),PERSSON Jorgen (SWE) / WALDNER Jan-Ove (SWE),CHEN Qi
+Singapore Open 2004,2004-05-27,KONG Linghui/WANG Hao,CHOI Hyunjin/LEE Jungwoo,4,3,"8,8,7,11,11,11,12|11,11,11,5,9,4,10",R16,GRAND_SLAM,MD,1680,Main Draw,KONG Linghui (CHN) / WANG Hao (CHN),CHOI Hyunjin (KOR) / LEE Jungwoo (KOR),KONG Linghui
+Singapore Open 2004,2004-05-27,HAO Shuai/WANG Liqin,KIM Junghoon/YOON Jaeyoung,4,1,"11,11,9,11,13|5,5,11,9,11",R16,GRAND_SLAM,MD,1680,Main Draw,HAO Shuai (CHN) / WANG Liqin (CHN),KIM Junghoon (KOR) / YOON Jaeyoung (KOR),HAO Shuai
+Singapore Open 2004,2004-05-27,CHEN Qi/MA Lin,BLASZCZYK Lucjan/KRZESZEWSKI Tomasz,4,1,"11,11,11,11,11|6,9,1,13,2",QF,GRAND_SLAM,MD,1680,Main Draw,CHEN Qi (CHN) / MA Lin (CHN),BLASZCZYK Lucjan (POL) / KRZESZEWSKI Tomasz (POL),CHEN Qi
+Singapore Open 2004,2004-05-27,KONG Linghui/WANG Hao,ROSSKOPF Jorg/SUSS Christian,4,2,"6,11,11,7,11,11|11,6,5,11,1,5",QF,GRAND_SLAM,MD,1680,Main Draw,KONG Linghui (CHN) / WANG Hao (CHN),ROSSKOPF Jorg (GER) / SUSS Christian (GER),KONG Linghui
+Singapore Open 2004,2004-05-27,KO Lai Chak/LI Ching,HAO Shuai/WANG Liqin,4,1,"5,11,13,12,11|11,5,11,10,8",QF,GRAND_SLAM,MD,1680,Main Draw,KO Lai Chak (HKG) / LI Ching (HKG),HAO Shuai (CHN) / WANG Liqin (CHN),KO Lai Chak
+Singapore Open 2004,2004-05-27,CHEN Qi/MA Lin,CHEUNG Yuk/LEUNG Chu Yan,4,1,"7,14,11,11,11|11,12,6,9,3",SF,GRAND_SLAM,MD,1680,Main Draw,CHEN Qi (CHN) / MA Lin (CHN),CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),CHEN Qi
+Singapore Open 2004,2004-05-27,KO Lai Chak/LI Ching,KONG Linghui/WANG Hao,4,1,"8,11,11,11,11|11,8,9,8,4",SF,GRAND_SLAM,MD,1680,Main Draw,KO Lai Chak (HKG) / LI Ching (HKG),KONG Linghui (CHN) / WANG Hao (CHN),KO Lai Chak
+Singapore Open 2004,2004-05-27,CHEN Qi/MA Lin,KO Lai Chak/LI Ching,4,1,"11,4,11,11,13|7,11,5,8,11",F,GRAND_SLAM,MD,1680,Main Draw,CHEN Qi (CHN) / MA Lin (CHN),KO Lai Chak (HKG) / LI Ching (HKG),CHEN Qi
+Singapore Open 2004,2004-05-27,FYNSK Daniel/PETERSEN Christoffer,HO Jason/TAN Yoke Chang,3,1,"12,8,11,11|10,11,8,8",QR64,GRAND_SLAM,MD,1680,Qualification,FYNSK Daniel (DEN) / PETERSEN Christoffer (DEN),HO Jason (SGP) / TAN Yoke Chang (SGP),FYNSK Daniel
+Singapore Open 2004,2004-05-27,HAKANSSON Fredrik/TOKIC Bojan,FYNSK Daniel/PETERSEN Christoffer,3,1,"11,11,10,11|4,5,12,9",QR32,GRAND_SLAM,MD,1680,Qualification,HAKANSSON Fredrik (SWE) / TOKIC Bojan (SLO),FYNSK Daniel (DEN) / PETERSEN Christoffer (DEN),HAKANSSON Fredrik
+Singapore Open 2004,2004-05-27,BLASZCZYK Lucjan/KRZESZEWSKI Tomasz,CHILA Patrick/ELOI Damien,4,3,"11,11,6,11,7,9,12|8,9,11,7,11,11,10",R16,GRAND_SLAM,MD,1680,Main Draw,BLASZCZYK Lucjan (POL) / KRZESZEWSKI Tomasz (POL),CHILA Patrick (FRA) / ELOI Damien (FRA),BLASZCZYK Lucjan
+Singapore Open 2004,2004-05-27,CHILA Patrick/ELOI Damien,JOO Baijun/NGUYEN Khoa,3,0,"13,11,11|11,6,5",QR32,GRAND_SLAM,MD,1680,Qualification,CHILA Patrick (FRA) / ELOI Damien (FRA),JOO Baijun (KOR) / NGUYEN Khoa (USA),CHILA Patrick
+Singapore Open 2004,2004-05-27,CHILA Patrick/ELOI Damien,BENTSEN Allan/KONGSGAARD Christian,3,0,"11,11,11|8,5,4",QR16,GRAND_SLAM,MD,1680,Qualification,CHILA Patrick (FRA) / ELOI Damien (FRA),BENTSEN Allan (DEN) / KONGSGAARD Christian (DEN),CHILA Patrick
+Singapore Open 2004,2004-05-27,ROSSKOPF Jorg/SUSS Christian,KISHIKAWA Seiya/SAKAMOTO Ryusuke,4,1,"11,11,11,11,11|13,4,7,7,5",R16,GRAND_SLAM,MD,1680,Main Draw,ROSSKOPF Jorg (GER) / SUSS Christian (GER),KISHIKAWA Seiya (JPN) / SAKAMOTO Ryusuke (JPN),ROSSKOPF Jorg
+Singapore Open 2004,2004-05-27,LEGOUT Christophe/YANG Min,GIONIS Panagiotis/KREANGA Kalinikos,3,1,"7,12,11,11|11,10,8,8",QR32,GRAND_SLAM,MD,1680,Qualification,LEGOUT Christophe (FRA) / YANG Min (ITA),GIONIS Panagiotis (GRE) / KREANGA Kalinikos (GRE),LEGOUT Christophe
+Singapore Open 2004,2004-05-27,JOO Baijun/NGUYEN Khoa,HANDOYO Reno/SISDOMUBARAT Kukun Kukun,3,1,"11,7,11,11|9,11,1,8",QR64,GRAND_SLAM,MD,1680,Qualification,JOO Baijun (KOR) / NGUYEN Khoa (USA),HANDOYO Reno (INA) / SISDOMUBARAT Kukun Kukun (INA),JOO Baijun
+Singapore Open 2004,2004-05-27,LEGOUT Christophe/YANG Min,HUSSEIN Muhammad/KHOIRUDIN Muhammad,3,2,"9,11,7,11,11|11,8,11,6,7",QR64,GRAND_SLAM,MD,1680,Qualification,LEGOUT Christophe (FRA) / YANG Min (ITA),HUSSEIN Muhammad (INA) / KHOIRUDIN Muhammad (INA),LEGOUT Christophe
+Singapore Open 2004,2004-05-27,AFRIMON Momon/KOSWARA Kuskus,LEE Han Ting/SEAH Jun Wen,3,2,"11,10,11,9,11|9,12,7,11,9",QR64,GRAND_SLAM,MD,1680,Qualification,AFRIMON Momon (INA) / KOSWARA Kuskus (INA),LEE Han Ting (SGP) / SEAH Jun Wen (SGP),AFRIMON Momon
+Singapore Open 2004,2004-05-27,CHUANG Chih-Yuan/CRISAN Adrian,JACOBS David/ZAENUDDIN Muhammad,3,1,"11,15,9,11|9,13,11,7",QR32,GRAND_SLAM,MD,1680,Qualification,CHUANG Chih-Yuan (TPE) / CRISAN Adrian (ROU),JACOBS David (INA) / ZAENUDDIN Muhammad (INA),CHUANG Chih-Yuan
+Singapore Open 2004,2004-05-27,JOO Saehyuk/OH Sangeun,AFRIMON Momon/KOSWARA Kuskus,3,1,"11,11,6,11|6,7,11,4",QR32,GRAND_SLAM,MD,1680,Qualification,JOO Saehyuk (KOR) / OH Sangeun (KOR),AFRIMON Momon (INA) / KOSWARA Kuskus (INA),JOO Saehyuk
+Singapore Open 2004,2004-05-27,YANG Zi/ZHENG Qi,AHMADIFAR Aref/KHAYAT SOBHI Sadegh,3,0,"11,11,11|1,1,4",QR64,GRAND_SLAM,MD,1680,Qualification,YANG Zi (SGP) / ZHENG Qi (SGP),AHMADIFAR Aref (IRI) / KHAYAT SOBHI Sadegh (IRI),YANG Zi
+Singapore Open 2004,2004-05-27,ROSSKOPF Jorg/SUSS Christian,JONG Kwang Hyok/SARBAKHSHIAN Shahram,3,1,"5,11,11,12|11,3,6,10",QR32,GRAND_SLAM,MD,1680,Qualification,ROSSKOPF Jorg (GER) / SUSS Christian (GER),JONG Kwang Hyok (PRK) / SARBAKHSHIAN Shahram (IRI),ROSSKOPF Jorg
+Singapore Open 2004,2004-05-27,CHUANG Chih-Yuan/CRISAN Adrian,LEGOUT Christophe/YANG Min,3,1,"2,11,12,11|11,6,10,4",QR16,GRAND_SLAM,MD,1680,Qualification,CHUANG Chih-Yuan (TPE) / CRISAN Adrian (ROU),LEGOUT Christophe (FRA) / YANG Min (ITA),CHUANG Chih-Yuan
+Singapore Open 2004,2004-05-27,CHEN Weixing/MATSUSHITA Koji,JUARDIS Nisban/SUSENO Anton,3,0,"11,11,11|2,9,6",QR32,GRAND_SLAM,MD,1680,Qualification,CHEN Weixing (AUT) / MATSUSHITA Koji (JPN),JUARDIS Nisban (INA) / SUSENO Anton (INA),CHEN Weixing
+Singapore Open 2004,2004-05-27,ARAI Shu/YUZAWA Ryo,KIM Hyok Bong/O Il,3,0,"11,12,11|9,10,6",QR32,GRAND_SLAM,MD,1680,Qualification,ARAI Shu (JPN) / YUZAWA Ryo (JPN),KIM Hyok Bong (PRK) / O Il (PRK),ARAI Shu
+Singapore Open 2004,2004-05-27,KIM Junghoon/YOON Jaeyoung,CHEN Weixing/MATSUSHITA Koji,3,2,"8,11,8,11,11|11,8,11,8,0",QR16,GRAND_SLAM,MD,1680,Qualification,KIM Junghoon (KOR) / YOON Jaeyoung (KOR),CHEN Weixing (AUT) / MATSUSHITA Koji (JPN),KIM Junghoon
+Singapore Open 2004,2004-05-27,JOO Saehyuk/OH Sangeun,ARAI Shu/YUZAWA Ryo,3,1,"11,11,7,11|7,5,11,7",QR16,GRAND_SLAM,MD,1680,Qualification,JOO Saehyuk (KOR) / OH Sangeun (KOR),ARAI Shu (JPN) / YUZAWA Ryo (JPN),JOO Saehyuk
+Singapore Open 2004,2004-05-27,HEISTER Danny/KEEN Trinko,LEE Chulseung/RYU Seungmin,4,2,"7,8,11,11,11,11|11,11,7,6,5,9",R16,GRAND_SLAM,MD,1680,Main Draw,HEISTER Danny (NED) / KEEN Trinko (NED),LEE Chulseung (KOR) / RYU Seungmin (KOR),HEISTER Danny
+Singapore Open 2004,2004-05-27,KO Lai Chak/LI Ching,JOO Saehyuk/OH Sangeun,4,1,"8,11,12,11,11|11,9,10,8,8",R16,GRAND_SLAM,MD,1680,Main Draw,KO Lai Chak (HKG) / LI Ching (HKG),JOO Saehyuk (KOR) / OH Sangeun (KOR),KO Lai Chak
+Singapore Open 2004,2004-05-27,LEE Jungsam/LIM Jaehyun,HAN Su Il/KOSHMARAM Mahdi,3,0,"11,11,11|9,5,9",QR64,GRAND_SLAM,MD,1680,Qualification,LEE Jungsam (KOR) / LIM Jaehyun (KOR),HAN Su Il (PRK) / KOSHMARAM Mahdi (IRI),LEE Jungsam
+Singapore Open 2004,2004-05-27,JACOBS David/ZAENUDDIN Muhammad,KIM Bongchul/KIM Gunhwan,3,2,"9,11,11,7,11|11,9,5,11,8",QR64,GRAND_SLAM,MD,1680,Qualification,JACOBS David (INA) / ZAENUDDIN Muhammad (INA),KIM Bongchul (KOR) / KIM Gunhwan (KOR),JACOBS David
+Singapore Open 2004,2004-05-27,STEGER Bastian/WOSIK Torben,LEE Jungsam/LIM Jaehyun,3,1,"11,11,5,14|9,6,11,12",QR32,GRAND_SLAM,MD,1680,Qualification,STEGER Bastian (GER) / WOSIK Torben (GER),LEE Jungsam (KOR) / LIM Jaehyun (KOR),STEGER Bastian
+Singapore Open 2004,2004-05-27,CHOI Hyunjin/LEE Jungwoo,MIZUTANI Jun/MURAMORI Minoru,3,2,"12,11,8,8,11|10,8,11,11,5",QR32,GRAND_SLAM,MD,1680,Qualification,CHOI Hyunjin (KOR) / LEE Jungwoo (KOR),MIZUTANI Jun (JPN) / MURAMORI Minoru (JPN),CHOI Hyunjin
+Singapore Open 2004,2004-05-27,CHOI Hyunjin/LEE Jungwoo,HAKANSSON Fredrik/TOKIC Bojan,3,2,"7,7,12,11,11|11,11,10,3,4",QR16,GRAND_SLAM,MD,1680,Qualification,CHOI Hyunjin (KOR) / LEE Jungwoo (KOR),HAKANSSON Fredrik (SWE) / TOKIC Bojan (SLO),CHOI Hyunjin
+Singapore Open 2004,2004-05-27,CHEUNG Yuk/LEUNG Chu Yan,HEISTER Danny/KEEN Trinko,4,3,"11,9,11,15,4,6,11|9,11,8,13,11,11,8",QF,GRAND_SLAM,MD,1680,Main Draw,CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),HEISTER Danny (NED) / KEEN Trinko (NED),CHEUNG Yuk
+Singapore Open 2004,2004-05-27,HEISTER Danny/KEEN Trinko,HAIR Abdul/MARDIYONO Yon,3,0,"11,11,11|4,8,1",QR32,GRAND_SLAM,MD,1680,Qualification,HEISTER Danny (NED) / KEEN Trinko (NED),HAIR Abdul (INA) / MARDIYONO Yon (INA),HEISTER Danny
+Singapore Open 2004,2004-05-27,HEISTER Danny/KEEN Trinko,CAI Xiaoli/LI Hang,3,1,"11,11,9,11|2,7,11,3",QR16,GRAND_SLAM,MD,1680,Qualification,HEISTER Danny (NED) / KEEN Trinko (NED),CAI Xiaoli (SGP) / LI Hang (SGP),HEISTER Danny
+Singapore Open 2004,2004-05-27,CHEUNG Yuk/LEUNG Chu Yan,CHUANG Chih-Yuan/CRISAN Adrian,4,3,"12,5,11,12,11,9,11|10,11,8,14,4,11,4",R16,GRAND_SLAM,MD,1680,Main Draw,CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),CHUANG Chih-Yuan (TPE) / CRISAN Adrian (ROU),CHEUNG Yuk
+Singapore Open 2004,2004-05-27,KIM Hyok Bong/O Il,KUZMIN Fedor/SMIRNOV Alexey,3,2,"11,3,11,8,11|6,11,8,11,6",QR64,GRAND_SLAM,MD,1680,Qualification,KIM Hyok Bong (PRK) / O Il (PRK),KUZMIN Fedor (RUS) / SMIRNOV Alexey (RUS),KIM Hyok Bong
+Singapore Open 2004,2004-05-27,HAIR Abdul/MARDIYONO Yon,LEE Tien Hoe Clarence/PANG Xue Bin,3,2,"11,9,8,11,11|6,11,11,4,7",QR64,GRAND_SLAM,MD,1680,Qualification,HAIR Abdul (INA) / MARDIYONO Yon (INA),LEE Tien Hoe Clarence (SGP) / PANG Xue Bin (SGP),HAIR Abdul
+Singapore Open 2004,2004-05-27,TANG Hua/ZHANG Yiqin,VIPAWATANAKUL Sithichok/VIPAWATANAKUL Tanawat,3,0,"11,11,11|4,6,4",QR64,GRAND_SLAM,MD,1680,Qualification,TANG Hua (SGP) / ZHANG Yiqin (SGP),VIPAWATANAKUL Sithichok (AUS) / VIPAWATANAKUL Tanawat (THA),TANG Hua
+Singapore Open 2004,2004-05-27,MIZUTANI Jun/MURAMORI Minoru,MAYBRATHA Hendrik/PANG Xue Bin,3,0,"11,11,11|1,4,6",QR64,GRAND_SLAM,MD,1680,Qualification,MIZUTANI Jun (JPN) / MURAMORI Minoru (JPN),MAYBRATHA Hendrik (INA) / PANG Xue Bin (SGP),MIZUTANI Jun
+Singapore Open 2004,2004-05-27,JUARDIS Nisban/SUSENO Anton,GOH Yi Long/KOK Yong Jia,3,1,"11,8,11,11|8,11,8,8",QR64,GRAND_SLAM,MD,1680,Qualification,JUARDIS Nisban (INA) / SUSENO Anton (INA),GOH Yi Long (SGP) / KOK Yong Jia (SGP),JUARDIS Nisban
+Singapore Open 2004,2004-05-27,BENTSEN Allan/KONGSGAARD Christian,TANG Hua/ZHANG Yiqin,3,1,"11,9,11,11|5,11,6,9",QR32,GRAND_SLAM,MD,1680,Qualification,BENTSEN Allan (DEN) / KONGSGAARD Christian (DEN),TANG Hua (SGP) / ZHANG Yiqin (SGP),BENTSEN Allan
+Singapore Open 2004,2004-05-27,PERSSON Jorgen/WALDNER Jan-Ove,YANG Zi/ZHENG Qi,3,2,"9,13,9,11,11|11,11,11,8,4",QR32,GRAND_SLAM,MD,1680,Qualification,PERSSON Jorgen (SWE) / WALDNER Jan-Ove (SWE),YANG Zi (SGP) / ZHENG Qi (SGP),PERSSON Jorgen
+Singapore Open 2004,2004-05-27,LUNDQVIST Jens/MOLIN Magnus,HOU Ming-Tsung/LAI Kuan-Shen,3,1,"11,14,12,11|7,12,14,6",QR32,GRAND_SLAM,MD,1680,Qualification,LUNDQVIST Jens (SWE) / MOLIN Magnus (SWE),HOU Ming-Tsung (TPE) / LAI Kuan-Shen (TPE),LUNDQVIST Jens
+Singapore Open 2004,2004-05-27,PERSSON Jorgen/WALDNER Jan-Ove,STEGER Bastian/WOSIK Torben,3,2,"11,11,11,8,11|8,13,9,11,8",QR16,GRAND_SLAM,MD,1680,Qualification,PERSSON Jorgen (SWE) / WALDNER Jan-Ove (SWE),STEGER Bastian (GER) / WOSIK Torben (GER),PERSSON Jorgen
+Singapore Open 2004,2004-05-27,ROSSKOPF Jorg/SUSS Christian,LUNDQVIST Jens/MOLIN Magnus,3,2,"6,11,11,8,16|11,3,7,11,14",QR16,GRAND_SLAM,MD,1680,Qualification,ROSSKOPF Jorg (GER) / SUSS Christian (GER),LUNDQVIST Jens (SWE) / MOLIN Magnus (SWE),ROSSKOPF Jorg
+Singapore Open 2004,2004-05-27,HOU Ming-Tsung/LAI Kuan-Shen,KITTIYA Kritsada/TORSUTKANOK Pornchai,3,0,"11,11,11|5,6,6",QR64,GRAND_SLAM,MD,1680,Qualification,HOU Ming-Tsung (TPE) / LAI Kuan-Shen (TPE),KITTIYA Kritsada (THA) / TORSUTKANOK Pornchai (THA),HOU Ming-Tsung
+Singapore Open 2004,2004-05-27,CAI Xiaoli/LI Hang,CHOU Tung-Yu/HUANG Wei-Chin,3,1,"14,8,11,12|12,11,8,10",QR32,GRAND_SLAM,MD,1680,Qualification,CAI Xiaoli (SGP) / LI Hang (SGP),CHOU Tung-Yu (TPE) / HUANG Wei-Chin (TPE),CAI Xiaoli
+Singapore Open 2004,2004-05-27,KIM Junghoon/YOON Jaeyoung,SUN Wen-Wei/WU Chih-Chi,3,0,"11,11,11|9,6,7",QR32,GRAND_SLAM,MD,1680,Qualification,KIM Junghoon (KOR) / YOON Jaeyoung (KOR),SUN Wen-Wei (TPE) / WU Chih-Chi (TPE),KIM Junghoon
+Singapore Open 2004,2004-05-27,JING Junhong/LI Jiawei,HEINE Veronika/LIU Jia,4,0,"11,15,11,11|5,13,5,9",R16,GRAND_SLAM,WD,1680,Main Draw,JING Junhong (SGP) / LI Jiawei (SGP),HEINE Veronika (AUT) / LIU Jia (AUT),JING Junhong
+Singapore Open 2004,2004-05-27,HEINE Veronika/LIU Jia,LEE Cyn Li/LEE Su Hui,3,0,"11,11,11|3,8,6",QR32,GRAND_SLAM,WD,1680,Qualification,HEINE Veronika (AUT) / LIU Jia (AUT),LEE Cyn Li (SGP) / LEE Su Hui (SGP),HEINE Veronika
+Singapore Open 2004,2004-05-27,HEINE Veronika/LIU Jia,KOMWONG Nanthana/MUANGSUK Anisara,3,2,"10,5,12,11,11|12,11,10,8,5",QR16,GRAND_SLAM,WD,1680,Qualification,HEINE Veronika (AUT) / LIU Jia (AUT),KOMWONG Nanthana (THA) / MUANGSUK Anisara (THA),HEINE Veronika
+Singapore Open 2004,2004-05-27,FUJINUMA Ai/UMEMURA Aya,KOSTROMINA Tatyana (1973)/PAVLOVICH Viktoria,4,1,"11,11,11,9,11|6,3,7,11,4",R16,GRAND_SLAM,WD,1680,Main Draw,FUJINUMA Ai (JPN) / UMEMURA Aya (JPN),KOSTROMINA Tatyana (1973) (BLR) / PAVLOVICH Viktoria (BLR),FUJINUMA Ai
+Singapore Open 2004,2004-05-27,KRAVCHENKO Marina/PAVLOVICH Veronika,LIM Peixin/XU Yan,3,1,"9,11,11,11|11,8,3,3",QR32,GRAND_SLAM,WD,1680,Qualification,KRAVCHENKO Marina (ISR) / PAVLOVICH Veronika (BLR),LIM Peixin (SGP) / XU Yan (SGP),KRAVCHENKO Marina
+Singapore Open 2004,2004-05-27,KOSTROMINA Tatyana (1973)/PAVLOVICH Viktoria,FERLIANA Christine/JUSMA Ceria Nilasari,3,0,"11,11,11|5,7,7",QR32,GRAND_SLAM,WD,1680,Qualification,KOSTROMINA Tatyana (1973) (BLR) / PAVLOVICH Viktoria (BLR),FERLIANA Christine (INA) / JUSMA Ceria Nilasari (INA),KOSTROMINA Tatyana (1973)
+Singapore Open 2004,2004-05-27,GAO Jun/SCHALL Elke,KRAVCHENKO Marina/PAVLOVICH Veronika,3,1,"13,9,11,11|11,11,9,6",QR16,GRAND_SLAM,WD,1680,Qualification,GAO Jun (USA) / SCHALL Elke (GER),KRAVCHENKO Marina (ISR) / PAVLOVICH Veronika (BLR),GAO Jun
+Singapore Open 2004,2004-05-27,KOSTROMINA Tatyana (1973)/PAVLOVICH Viktoria,LEE I-Chen/PAN Chun-Chu,3,0,"11,11,11|3,6,6",QR16,GRAND_SLAM,WD,1680,Qualification,KOSTROMINA Tatyana (1973) (BLR) / PAVLOVICH Viktoria (BLR),LEE I-Chen (TPE) / PAN Chun-Chu (TPE),KOSTROMINA Tatyana (1973)
+Singapore Open 2004,2004-05-27,GUO Yue/NIU Jianfeng,HUANG Yi-Hua/LU Yun-Feng,4,0,"11,11,11,11|6,4,8,5",R16,GRAND_SLAM,WD,1680,Main Draw,GUO Yue (CHN) / NIU Jianfeng (CHN),HUANG Yi-Hua (TPE) / LU Yun-Feng (TPE),GUO Yue
+Singapore Open 2004,2004-05-27,GUO Yue/NIU Jianfeng,SONG Ah Sim/TIE Yana,4,3,"11,12,11,8,11,8,11|8,10,8,11,13,11,1",QF,GRAND_SLAM,WD,1680,Main Draw,GUO Yue (CHN) / NIU Jianfeng (CHN),SONG Ah Sim (HKG) / TIE Yana (HKG),GUO Yue
+Singapore Open 2004,2004-05-27,LI Xiaoxia/RAO Jingwen,JING Junhong/LI Jiawei,4,0,"13,11,11,11|11,4,8,6",QF,GRAND_SLAM,WD,1680,Main Draw,LI Xiaoxia (CHN) / RAO Jingwen (CHN),JING Junhong (SGP) / LI Jiawei (SGP),LI Xiaoxia
+Singapore Open 2004,2004-05-27,GUO Yue/NIU Jianfeng,LI Xiaoxia/RAO Jingwen,4,1,"11,11,11,7,11|5,7,8,11,8",SF,GRAND_SLAM,WD,1680,Main Draw,GUO Yue (CHN) / NIU Jianfeng (CHN),LI Xiaoxia (CHN) / RAO Jingwen (CHN),GUO Yue
+Singapore Open 2004,2004-05-27,GUO Yue/NIU Jianfeng,KIM Hyang Mi/KIM Hyon Hui,4,3,"4,11,11,4,9,11,11|11,9,8,11,11,2,8",F,GRAND_SLAM,WD,1680,Main Draw,GUO Yue (CHN) / NIU Jianfeng (CHN),KIM Hyang Mi (PRK) / KIM Hyon Hui (PRK),GUO Yue
+Singapore Open 2004,2004-05-27,LI Xiaoxia/RAO Jingwen,FUJII Hiroko/HIURA Reiko,3,1,"11,6,11,11|9,11,7,4",QR16,GRAND_SLAM,WD,1680,Qualification,LI Xiaoxia (CHN) / RAO Jingwen (CHN),FUJII Hiroko (JPN) / HIURA Reiko (JPN),LI Xiaoxia
+Singapore Open 2004,2004-05-27,WANG Nan/ZHANG Yining,GAO Jun/SCHALL Elke,4,1,"14,11,9,11,11|12,8,11,6,5",QF,GRAND_SLAM,WD,1680,Main Draw,WANG Nan (CHN) / ZHANG Yining (CHN),GAO Jun (USA) / SCHALL Elke (GER),WANG Nan
+Singapore Open 2004,2004-05-27,LI Xiaoxia/RAO Jingwen,LAU Sui Fei/LIN Ling,4,1,"11,11,11,4,11|7,9,5,11,5",R16,GRAND_SLAM,WD,1680,Main Draw,LI Xiaoxia (CHN) / RAO Jingwen (CHN),LAU Sui Fei (HKG) / LIN Ling (HKG),LI Xiaoxia
+Singapore Open 2004,2004-05-27,GAO Jun/SCHALL Elke,GANINA Svetlana/ZHANG Rui,4,0,"11,12,11,11|3,10,7,7",R16,GRAND_SLAM,WD,1680,Main Draw,GAO Jun (USA) / SCHALL Elke (GER),GANINA Svetlana (RUS) / ZHANG Rui (HKG),GAO Jun
+Singapore Open 2004,2004-05-27,GAO Jun/SCHALL Elke,AGUSTIN Ling Ling/SUGIANTO Nuni,3,1,"11,7,11,11|6,11,7,9",QR32,GRAND_SLAM,WD,1680,Qualification,GAO Jun (USA) / SCHALL Elke (GER),AGUSTIN Ling Ling (INA) / SUGIANTO Nuni (INA),GAO Jun
+Singapore Open 2004,2004-05-27,KOMWONG Nanthana/MUANGSUK Anisara,REZEKI W Yayuk/ROVANI Silir,3,0,"11,11,11|5,3,6",QR32,GRAND_SLAM,WD,1680,Qualification,KOMWONG Nanthana (THA) / MUANGSUK Anisara (THA),REZEKI W Yayuk (INA) / ROVANI Silir (INA),KOMWONG Nanthana
+Singapore Open 2004,2004-05-27,KWAK Bangbang/LEE Hyangmi,FIBRIYANI Santi/ISTIYANI Lindawati,3,0,"11,11,11|8,6,7",QR16,GRAND_SLAM,WD,1680,Qualification,KWAK Bangbang (KOR) / LEE Hyangmi (KOR),FIBRIYANI Santi (INA) / ISTIYANI Lindawati (INA),KWAK Bangbang
+Singapore Open 2004,2004-05-27,SONG Ah Sim/TIE Yana,KWAK Bangbang/LEE Hyangmi,4,1,"11,11,11,10,11|8,4,5,12,8",R16,GRAND_SLAM,WD,1680,Main Draw,SONG Ah Sim (HKG) / TIE Yana (HKG),KWAK Bangbang (KOR) / LEE Hyangmi (KOR),SONG Ah Sim
+Singapore Open 2004,2004-05-27,KIM Hyang Mi/KIM Hyon Hui,LEE Eunsil/SUK Eunmi,4,3,"7,11,11,11,5,9,11|11,6,6,9,11,11,7",R16,GRAND_SLAM,WD,1680,Main Draw,KIM Hyang Mi (PRK) / KIM Hyon Hui (PRK),LEE Eunsil (KOR) / SUK Eunmi (KOR),KIM Hyang Mi
+Singapore Open 2004,2004-05-27,BOROS Tamara/POTA Georgina,LEE Eunhee/YOON Jihye,3,1,"11,11,9,11|9,7,11,8",QR32,GRAND_SLAM,WD,1680,Qualification,BOROS Tamara (CRO) / POTA Georgina (HUN),LEE Eunhee (KOR) / YOON Jihye (KOR),BOROS Tamara
+Singapore Open 2004,2004-05-27,LI Xiaoxia/RAO Jingwen,MOON Hyunjung/PARK Miyoung,3,2,"11,9,15,5,13|1,11,13,11,11",QR32,GRAND_SLAM,WD,1680,Qualification,LI Xiaoxia (CHN) / RAO Jingwen (CHN),MOON Hyunjung (KOR) / PARK Miyoung (KOR),LI Xiaoxia
+Singapore Open 2004,2004-05-27,KIM Jong/KIM Yun Mi,KIM Junghyun/KIM Kyungha,3,1,"10,11,11,11|12,8,9,6",QR32,GRAND_SLAM,WD,1680,Qualification,KIM Jong (PRK) / KIM Yun Mi (PRK),KIM Junghyun (KOR) / KIM Kyungha (KOR),KIM Jong
+Singapore Open 2004,2004-05-27,KIM Hyang Mi/KIM Hyon Hui,BEH Lee Fong/CHIU Soo Jiin,3,1,"7,11,11,11|11,5,5,5",QR32,GRAND_SLAM,WD,1680,Qualification,KIM Hyang Mi (PRK) / KIM Hyon Hui (PRK),BEH Lee Fong (MAS) / CHIU Soo Jiin (MAS),KIM Hyang Mi
+Singapore Open 2004,2004-05-27,WANG Nan/ZHANG Yining,KIM Jong/KIM Yun Mi,4,0,"11,11,12,11|5,8,10,8",R16,GRAND_SLAM,WD,1680,Main Draw,WANG Nan (CHN) / ZHANG Yining (CHN),KIM Jong (PRK) / KIM Yun Mi (PRK),WANG Nan
+Singapore Open 2004,2004-05-27,KIM Hyang Mi/KIM Hyon Hui,FUJINUMA Ai/UMEMURA Aya,4,2,"11,7,11,11,11,11|5,11,9,13,7,4",QF,GRAND_SLAM,WD,1680,Main Draw,KIM Hyang Mi (PRK) / KIM Hyon Hui (PRK),FUJINUMA Ai (JPN) / UMEMURA Aya (JPN),KIM Hyang Mi
+Singapore Open 2004,2004-05-27,KIM Hyang Mi/KIM Hyon Hui,WANG Nan/ZHANG Yining,4,1,"11,11,8,11,14|8,7,11,7,12",SF,GRAND_SLAM,WD,1680,Main Draw,KIM Hyang Mi (PRK) / KIM Hyon Hui (PRK),WANG Nan (CHN) / ZHANG Yining (CHN),KIM Hyang Mi
+Singapore Open 2004,2004-05-27,KIM Hyang Mi/KIM Hyon Hui,KIM Bokrae/KIM Kyungah,3,0,"12,11,11|10,6,6",QR16,GRAND_SLAM,WD,1680,Qualification,KIM Hyang Mi (PRK) / KIM Hyon Hui (PRK),KIM Bokrae (KOR) / KIM Kyungah (KOR),KIM Hyang Mi
+Singapore Open 2004,2004-05-27,KIM Jong/KIM Yun Mi,FUKUHARA Ai/KONISHI An,3,1,"11,7,11,11|7,11,8,9",QR16,GRAND_SLAM,WD,1680,Qualification,KIM Jong (PRK) / KIM Yun Mi (PRK),FUKUHARA Ai (JPN) / KONISHI An (JPN),KIM Jong
+Singapore Open 2004,2004-05-27,FUJII Hiroko/HIURA Reiko,KWA Hui Ru/SIM Kai Xin Zena,3,0,"11,11,11|2,6,3",QR32,GRAND_SLAM,WD,1680,Qualification,FUJII Hiroko (JPN) / HIURA Reiko (JPN),KWA Hui Ru (SGP) / SIM Kai Xin Zena (SGP),FUJII Hiroko
+Singapore Open 2004,2004-05-27,FIBRIYANI Santi/ISTIYANI Lindawati,TAN Paey Fern/ZHANG Xueling,3,0,"11,12,11|9,10,6",QR32,GRAND_SLAM,WD,1680,Qualification,FIBRIYANI Santi (INA) / ISTIYANI Lindawati (INA),TAN Paey Fern (SGP) / ZHANG Xueling (SGP),FIBRIYANI Santi
+Singapore Open 2004,2004-05-27,KWAK Bangbang/LEE Hyangmi,SUN Chian-Lan/TAN Yan Zhen,3,0,"11,11,11|5,3,3",QR32,GRAND_SLAM,WD,1680,Qualification,KWAK Bangbang (KOR) / LEE Hyangmi (KOR),SUN Chian-Lan (TPE) / TAN Yan Zhen (SGP),KWAK Bangbang
+Singapore Open 2004,2004-05-27,KIM Bokrae/KIM Kyungah,LEE Xin/LIAUW Wan Ling,3,0,"11,11,11|1,4,2",QR32,GRAND_SLAM,WD,1680,Qualification,KIM Bokrae (KOR) / KIM Kyungah (KOR),LEE Xin (SGP) / LIAUW Wan Ling (SGP),KIM Bokrae
+Singapore Open 2004,2004-05-27,FUKUHARA Ai/KONISHI An,GO Liying Sandra/LEE Yi Shi,3,0,"11,11,11|3,2,4",QR32,GRAND_SLAM,WD,1680,Qualification,FUKUHARA Ai (JPN) / KONISHI An (JPN),GO Liying Sandra (SGP) / LEE Yi Shi (SGP),FUKUHARA Ai
+Singapore Open 2004,2004-05-27,HUANG Yi-Hua/LU Yun-Feng,HENG Wei Chen/TAN Hui Min,3,0,"11,11,11|5,2,7",QR32,GRAND_SLAM,WD,1680,Qualification,HUANG Yi-Hua (TPE) / LU Yun-Feng (TPE),HENG Wei Chen (SGP) / TAN Hui Min (SGP),HUANG Yi-Hua
+Singapore Open 2004,2004-05-27,LEE I-Chen/PAN Chun-Chu,PING Whitney/RATHER Jasna,3,2,"8,11,5,13,11|11,8,11,11,6",QR32,GRAND_SLAM,WD,1680,Qualification,LEE I-Chen (TPE) / PAN Chun-Chu (TPE),PING Whitney (USA) / RATHER Jasna (USA),LEE I-Chen
+Singapore Open 2004,2004-05-27,HUANG Yi-Hua/LU Yun-Feng,BOROS Tamara/POTA Georgina,3,2,"11,11,13,7,11|8,8,15,11,3",QR16,GRAND_SLAM,WD,1680,Qualification,HUANG Yi-Hua (TPE) / LU Yun-Feng (TPE),BOROS Tamara (CRO) / POTA Georgina (HUN),HUANG Yi-Hua

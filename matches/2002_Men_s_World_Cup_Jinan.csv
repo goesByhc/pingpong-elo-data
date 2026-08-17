@@ -1,0 +1,32 @@
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Men's World Cup Jinan 2002,2002-10-31,PRIMORAC Zoran,TORIOLA Segun,4,3,"7,8,11,5,11,11,11|11,11,4,11,9,5,5",,WORLD_CUP,MS,1505,Qualification,PRIMORAC Zoran (CRO),TORIOLA Segun (NGR),PRIMORAC Zoran
+Men's World Cup Jinan 2002,2002-10-31,SCHLAGER Werner,TORIOLA Segun,4,0,"11,11,11,11|9,3,4,9",QR2,WORLD_CUP,MS,1505,Qualification,SCHLAGER Werner (AUT),TORIOLA Segun (NGR),SCHLAGER Werner
+Men's World Cup Jinan 2002,2002-10-31,SCHLAGER Werner,KREANGA Kalinikos,4,1,"8,11,11,11,11|11,7,5,6,7",3,WORLD_CUP,MS,1505,Qualification,SCHLAGER Werner (AUT),KREANGA Kalinikos (GRE),SCHLAGER Werner
+Men's World Cup Jinan 2002,2002-10-31,KREANGA Kalinikos,TORIOLA Segun,4,2,"11,11,2,8,13,11|9,7,11,11,11,6",QR4,WORLD_CUP,MS,1505,Qualification,KREANGA Kalinikos (GRE),TORIOLA Segun (NGR),KREANGA Kalinikos
+Men's World Cup Jinan 2002,2002-10-31,PRIMORAC Zoran,SCHLAGER Werner,4,2,"11,11,5,11,10,11|8,8,11,7,12,8",5,WORLD_CUP,MS,1505,Qualification,PRIMORAC Zoran (CRO),SCHLAGER Werner (AUT),PRIMORAC Zoran
+Men's World Cup Jinan 2002,2002-10-31,KREANGA Kalinikos,PRIMORAC Zoran,4,3,"6,17,11,3,11,11,11|11,19,9,11,9,5,3",6,WORLD_CUP,MS,1505,Qualification,KREANGA Kalinikos (GRE),PRIMORAC Zoran (CRO),KREANGA Kalinikos
+Men's World Cup Jinan 2002,2002-10-31,CHIANG Peng-Lung,HUANG Johnny,4,1,"11,11,12,9,11|7,6,10,11,5",,WORLD_CUP,MS,1505,Qualification,CHIANG Peng-Lung (TPE),HUANG Johnny (CAN),CHIANG Peng-Lung
+Men's World Cup Jinan 2002,2002-10-31,BOLL Timo,HUANG Johnny,4,1,"11,8,11,11,11|7,11,7,7,7",QR2,WORLD_CUP,MS,1505,Qualification,BOLL Timo (GER),HUANG Johnny (CAN),BOLL Timo
+Men's World Cup Jinan 2002,2002-10-31,BOLL Timo,SAIVE Jean-Michel,4,1,"8,11,11,12,11|11,2,7,10,4",3,WORLD_CUP,MS,1505,Qualification,BOLL Timo (GER),SAIVE Jean-Michel (BEL),BOLL Timo
+Men's World Cup Jinan 2002,2002-10-31,SAIVE Jean-Michel,HUANG Johnny,4,2,"11,8,11,11,11,11|9,11,2,6,13,7",QR4,WORLD_CUP,MS,1505,Qualification,SAIVE Jean-Michel (BEL),HUANG Johnny (CAN),SAIVE Jean-Michel
+Men's World Cup Jinan 2002,2002-10-31,BOLL Timo,CHIANG Peng-Lung,4,3,"9,7,11,11,11,6,11|11,11,1,9,3,11,9",5,WORLD_CUP,MS,1505,Qualification,BOLL Timo (GER),CHIANG Peng-Lung (TPE),BOLL Timo
+Men's World Cup Jinan 2002,2002-10-31,CHIANG Peng-Lung,SAIVE Jean-Michel,4,1,"12,11,3,12,15|10,9,11,10,13",6,WORLD_CUP,MS,1505,Qualification,CHIANG Peng-Lung (TPE),SAIVE Jean-Michel (BEL),CHIANG Peng-Lung
+Men's World Cup Jinan 2002,2002-10-31,KIM Taeksoo,HOYAMA Hugo,4,0,"11,11,11,15|8,4,5,13",,WORLD_CUP,MS,1505,Qualification,KIM Taeksoo (KOR),HOYAMA Hugo (BRA),KIM Taeksoo
+Men's World Cup Jinan 2002,2002-10-31,MA Lin,HOYAMA Hugo,4,1,"11,11,9,11,11|6,6,11,4,9",QR2,WORLD_CUP,MS,1505,Qualification,MA Lin (CHN),HOYAMA Hugo (BRA),MA Lin
+Men's World Cup Jinan 2002,2002-10-31,MA Lin,KONG Linghui,4,1,"11,5,11,11,11|9,11,7,9,5",3,WORLD_CUP,MS,1505,Qualification,MA Lin (CHN),KONG Linghui (CHN),MA Lin
+Men's World Cup Jinan 2002,2002-10-31,KONG Linghui,HOYAMA Hugo,4,1,"11,9,11,11,12|2,11,7,6,10",QR4,WORLD_CUP,MS,1505,Qualification,KONG Linghui (CHN),HOYAMA Hugo (BRA),KONG Linghui
+Men's World Cup Jinan 2002,2002-10-31,MA Lin,KIM Taeksoo,4,0,"11,11,11,11|9,2,8,2",5,WORLD_CUP,MS,1505,Qualification,MA Lin (CHN),KIM Taeksoo (KOR),MA Lin
+Men's World Cup Jinan 2002,2002-10-31,KONG Linghui,KIM Taeksoo,4,3,"9,11,7,12,9,13,11|11,7,11,10,11,11,8",6,WORLD_CUP,MS,1505,Qualification,KONG Linghui (CHN),KIM Taeksoo (KOR),KONG Linghui
+Men's World Cup Jinan 2002,2002-10-31,OH Sangeun,LAVALE Russell,4,1,"7,11,11,11,11|11,2,4,9,3",,WORLD_CUP,MS,1505,Qualification,OH Sangeun (KOR),LAVALE Russell (AUS),OH Sangeun
+Men's World Cup Jinan 2002,2002-10-31,WANG Liqin,LAVALE Russell,4,0,"11,11,11,11|3,5,2,6",QR2,WORLD_CUP,MS,1505,Qualification,WANG Liqin (CHN),LAVALE Russell (AUS),WANG Liqin
+Men's World Cup Jinan 2002,2002-10-31,WANG Liqin,CHUANG Chih-Yuan,4,1,"11,3,13,11,11|9,11,11,6,3",3,WORLD_CUP,MS,1505,Qualification,WANG Liqin (CHN),CHUANG Chih-Yuan (TPE),WANG Liqin
+Men's World Cup Jinan 2002,2002-10-31,CHUANG Chih-Yuan,LAVALE Russell,4,1,"11,11,11,11,11|8,13,6,3,4",QR4,WORLD_CUP,MS,1505,Qualification,CHUANG Chih-Yuan (TPE),LAVALE Russell (AUS),CHUANG Chih-Yuan
+Men's World Cup Jinan 2002,2002-10-31,OH Sangeun,WANG Liqin,4,1,"11,7,11,11,11|7,11,8,9,8",5,WORLD_CUP,MS,1505,Qualification,OH Sangeun (KOR),WANG Liqin (CHN),OH Sangeun
+Men's World Cup Jinan 2002,2002-10-31,CHUANG Chih-Yuan,OH Sangeun,4,3,"7,4,11,11,7,11,11|11,11,7,9,11,7,8",6,WORLD_CUP,MS,1505,Qualification,CHUANG Chih-Yuan (TPE),OH Sangeun (KOR),CHUANG Chih-Yuan
+Men's World Cup Jinan 2002,2002-10-31,KONG Linghui,OH Sangeun,4,2,"11,11,10,7,12,14|2,9,12,11,10,12",QF,WORLD_CUP,MS,1505,Main Draw,KONG Linghui (CHN),OH Sangeun (KOR),KONG Linghui
+Men's World Cup Jinan 2002,2002-10-31,SCHLAGER Werner,CHIANG Peng-Lung,4,3,"6,9,7,11,11,11,11|11,11,11,8,7,6,6",QF,WORLD_CUP,MS,1505,Main Draw,SCHLAGER Werner (AUT),CHIANG Peng-Lung (TPE),SCHLAGER Werner
+Men's World Cup Jinan 2002,2002-10-31,BOLL Timo,WANG Liqin,4,0,"11,11,11,11|9,5,4,6",QF,WORLD_CUP,MS,1505,Main Draw,BOLL Timo (GER),WANG Liqin (CHN),BOLL Timo
+Men's World Cup Jinan 2002,2002-10-31,PRIMORAC Zoran,MA Lin,4,2,"11,6,11,11,10,11|9,11,8,8,12,9",QF,WORLD_CUP,MS,1505,Main Draw,PRIMORAC Zoran (CRO),MA Lin (CHN),PRIMORAC Zoran
+Men's World Cup Jinan 2002,2002-10-31,KONG Linghui,SCHLAGER Werner,4,2,"11,5,11,11,5,11|2,11,7,9,11,9",SF,WORLD_CUP,MS,1505,Main Draw,KONG Linghui (CHN),SCHLAGER Werner (AUT),KONG Linghui
+Men's World Cup Jinan 2002,2002-10-31,BOLL Timo,PRIMORAC Zoran,4,3,"11,5,11,12,1,11,11|9,11,3,14,11,4,8",SF,WORLD_CUP,MS,1505,Main Draw,BOLL Timo (GER),PRIMORAC Zoran (CRO),BOLL Timo
+Men's World Cup Jinan 2002,2002-10-31,BOLL Timo,KONG Linghui,4,1,"8,12,11,11,13|11,10,9,9,11",F,WORLD_CUP,MS,1505,Main Draw,BOLL Timo (GER),KONG Linghui (CHN),BOLL Timo

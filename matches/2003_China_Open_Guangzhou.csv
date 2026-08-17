@@ -1,0 +1,303 @@
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+China Open Guangzhou 2003,2003-09-11,OMORI Takahiro,HARINTO Ismu,4,1,"11,11,8,11,11|3,7,11,9,9",,GRAND_SLAM,MS,1560,Qualification,OMORI Takahiro (JPN),HARINTO Ismu (INA),OMORI Takahiro
+China Open Guangzhou 2003,2003-09-11,MONRAD Martin,HARINTO Ismu,4,0,"11,11,11,11|4,4,5,8",QR2,GRAND_SLAM,MS,1560,Qualification,MONRAD Martin (DEN),HARINTO Ismu (INA),MONRAD Martin
+China Open Guangzhou 2003,2003-09-11,MONRAD Martin,OMORI Takahiro,4,2,"11,10,11,11,6,11|8,12,8,7,11,5",3,GRAND_SLAM,MS,1560,Qualification,MONRAD Martin (DEN),OMORI Takahiro (JPN),MONRAD Martin
+China Open Guangzhou 2003,2003-09-11,AXELQVIST Johan,KONGSGAARD Christian,4,3,"5,11,12,9,12,6,11|11,5,10,11,10,11,4",,GRAND_SLAM,MS,1560,Qualification,AXELQVIST Johan (SWE),KONGSGAARD Christian (DEN),AXELQVIST Johan
+China Open Guangzhou 2003,2003-09-11,KONGSGAARD Christian,VARIN Eric,4,1,"11,15,11,5,11|6,13,8,11,8",QR2,GRAND_SLAM,MS,1560,Qualification,KONGSGAARD Christian (DEN),VARIN Eric (FRA),KONGSGAARD Christian
+China Open Guangzhou 2003,2003-09-11,VARIN Eric,AXELQVIST Johan,4,3,"8,11,11,6,11,7,11|11,6,9,11,6,11,9",3,GRAND_SLAM,MS,1560,Qualification,VARIN Eric (FRA),AXELQVIST Johan (SWE),VARIN Eric
+China Open Guangzhou 2003,2003-09-11,CHEN Qi,LEE Jungwoo,4,3,"9,11,9,11,11,11,16|11,6,11,13,7,5,14",,GRAND_SLAM,MS,1560,Qualification,CHEN Qi (CHN),LEE Jungwoo (KOR),CHEN Qi
+China Open Guangzhou 2003,2003-09-11,CHEN Qi,TUGWELL Finn,4,3,"6,7,11,11,7,12,11|11,11,8,8,11,10,6",QR2,GRAND_SLAM,MS,1560,Qualification,CHEN Qi (CHN),TUGWELL Finn (DEN),CHEN Qi
+China Open Guangzhou 2003,2003-09-11,TUGWELL Finn,LEE Jungwoo,4,2,"11,11,11,6,9,11|9,3,8,11,11,9",3,GRAND_SLAM,MS,1560,Qualification,TUGWELL Finn (DEN),LEE Jungwoo (KOR),TUGWELL Finn
+China Open Guangzhou 2003,2003-09-11,YOSHITOMI Eigo,YUZAWA Ryo,4,0,"11,11,11,11|9,7,6,8",QR2,GRAND_SLAM,MS,1560,Qualification,YOSHITOMI Eigo (JPN),YUZAWA Ryo (JPN),YOSHITOMI Eigo
+China Open Guangzhou 2003,2003-09-11,YUZAWA Ryo,KIM Song Chol,4,2,"5,11,10,11,11,11|11,8,12,9,9,6",3,GRAND_SLAM,MS,1560,Qualification,YUZAWA Ryo (JPN),KIM Song Chol (PRK),YUZAWA Ryo
+China Open Guangzhou 2003,2003-09-11,ASAMOAH Cyprian,BOBILLIER Loic,4,3,"11,11,11,10,4,11,11|13,7,7,12,11,2,6",,GRAND_SLAM,MS,1560,Qualification,ASAMOAH Cyprian (SWE),BOBILLIER Loic (FRA),ASAMOAH Cyprian
+China Open Guangzhou 2003,2003-09-11,VLOTINOS Ioannis,BOBILLIER Loic,4,3,"7,11,8,11,3,11,11|11,8,11,9,11,1,8",QR2,GRAND_SLAM,MS,1560,Qualification,VLOTINOS Ioannis (GRE),BOBILLIER Loic (FRA),VLOTINOS Ioannis
+China Open Guangzhou 2003,2003-09-11,VLOTINOS Ioannis,ASAMOAH Cyprian,4,1,"11,11,11,7,11|9,4,6,11,9",3,GRAND_SLAM,MS,1560,Qualification,VLOTINOS Ioannis (GRE),ASAMOAH Cyprian (SWE),VLOTINOS Ioannis
+China Open Guangzhou 2003,2003-09-11,GERELL Par,DESPRES Rodolphe,4,2,"7,8,11,12,11,11|11,11,8,10,4,5",,GRAND_SLAM,MS,1560,Qualification,GERELL Par (SWE),DESPRES Rodolphe (FRA),GERELL Par
+China Open Guangzhou 2003,2003-09-11,GIONIS Panagiotis,DESPRES Rodolphe,4,0,"11,11,12,14|2,5,10,12",QR2,GRAND_SLAM,MS,1560,Qualification,GIONIS Panagiotis (GRE),DESPRES Rodolphe (FRA),GIONIS Panagiotis
+China Open Guangzhou 2003,2003-09-11,GIONIS Panagiotis,GERELL Par,4,3,"11,9,15,11,8,14,11|8,11,17,9,11,12,8",3,GRAND_SLAM,MS,1560,Qualification,GIONIS Panagiotis (GRE),GERELL Par (SWE),GIONIS Panagiotis
+China Open Guangzhou 2003,2003-09-11,O Il,YANG Heesuk,4,0,"11,11,11,11|9,8,7,7",3,GRAND_SLAM,MS,1560,Qualification,O Il (PRK),YANG Heesuk (KOR),O Il
+China Open Guangzhou 2003,2003-09-11,SVENSSON Robert,JACOBS David,4,1,"11,8,14,11,11|3,11,12,9,6",,GRAND_SLAM,MS,1560,Qualification,SVENSSON Robert (SWE),JACOBS David (INA),SVENSSON Robert
+China Open Guangzhou 2003,2003-09-11,CABESTANY Cedrik,JACOBS David,4,1,"12,9,11,11,14|10,11,9,3,12",QR2,GRAND_SLAM,MS,1560,Qualification,CABESTANY Cedrik (FRA),JACOBS David (INA),CABESTANY Cedrik
+China Open Guangzhou 2003,2003-09-11,SVENSSON Robert,CABESTANY Cedrik,4,2,"11,13,6,11,6,11|9,11,11,8,11,9",3,GRAND_SLAM,MS,1560,Qualification,SVENSSON Robert (SWE),CABESTANY Cedrik (FRA),SVENSSON Robert
+China Open Guangzhou 2003,2003-09-11,ARAI Shu,ZAENUDDIN Muhammad,4,0,"11,11,11,13|8,8,5,11",,GRAND_SLAM,MS,1560,Qualification,ARAI Shu (JPN),ZAENUDDIN Muhammad (INA),ARAI Shu
+China Open Guangzhou 2003,2003-09-11,KOSOWSKI Jakub,ZAENUDDIN Muhammad,4,2,"11,15,7,11,5,11|4,13,11,8,11,6",QR2,GRAND_SLAM,MS,1560,Qualification,KOSOWSKI Jakub (POL),ZAENUDDIN Muhammad (INA),KOSOWSKI Jakub
+China Open Guangzhou 2003,2003-09-11,ARAI Shu,KOSOWSKI Jakub,4,2,"10,7,11,11,11,13|12,11,7,7,3,11",3,GRAND_SLAM,MS,1560,Qualification,ARAI Shu (JPN),KOSOWSKI Jakub (POL),ARAI Shu
+China Open Guangzhou 2003,2003-09-11,KIM Seung Hun,MARDIYONO Yon,4,1,"11,11,10,11,11|4,6,12,7,5",,GRAND_SLAM,MS,1560,Qualification,KIM Seung Hun (KOR),MARDIYONO Yon (INA),KIM Seung Hun
+China Open Guangzhou 2003,2003-09-11,GORAK Daniel,MARDIYONO Yon,4,0,"11,11,11,11|7,7,9,6",QR2,GRAND_SLAM,MS,1560,Qualification,GORAK Daniel (POL),MARDIYONO Yon (INA),GORAK Daniel
+China Open Guangzhou 2003,2003-09-11,KIM Seung Hun,GORAK Daniel,4,0,"11,13,11,13|7,11,8,11",3,GRAND_SLAM,MS,1560,Qualification,KIM Seung Hun (KOR),GORAK Daniel (POL),KIM Seung Hun
+China Open Guangzhou 2003,2003-09-11,SUSS Christian,HANDOYO Reno,4,0,"11,11,11,12|3,9,4,10",,GRAND_SLAM,MS,1560,Qualification,SUSS Christian (GER),HANDOYO Reno (INA),SUSS Christian
+China Open Guangzhou 2003,2003-09-11,SUCH Bartosz,HANDOYO Reno,4,0,"12,11,13,11|10,9,11,5",QR2,GRAND_SLAM,MS,1560,Qualification,SUCH Bartosz (POL),HANDOYO Reno (INA),SUCH Bartosz
+China Open Guangzhou 2003,2003-09-11,SUCH Bartosz,SUSS Christian,4,1,"11,12,10,11,11|8,10,12,6,9",3,GRAND_SLAM,MS,1560,Qualification,SUCH Bartosz (POL),SUSS Christian (GER),SUCH Bartosz
+China Open Guangzhou 2003,2003-09-11,JONG Kyong Chol,BAGGALEY Andrew,4,1,"11,12,11,11,11|13,10,7,9,9",,GRAND_SLAM,MS,1560,Qualification,JONG Kyong Chol (PRK),BAGGALEY Andrew (ENG),JONG Kyong Chol
+China Open Guangzhou 2003,2003-09-11,JONG Kyong Chol,SANADA Koji,4,1,"11,11,11,11,12|8,9,6,13,10",QR2,GRAND_SLAM,MS,1560,Qualification,JONG Kyong Chol (PRK),SANADA Koji (JPN),JONG Kyong Chol
+China Open Guangzhou 2003,2003-09-11,SANADA Koji,BAGGALEY Andrew,4,1,"8,11,11,11,11|11,7,6,5,7",3,GRAND_SLAM,MS,1560,Qualification,SANADA Koji (JPN),BAGGALEY Andrew (ENG),SANADA Koji
+China Open Guangzhou 2003,2003-09-11,YOON Jaeyoung,RI Chol Guk,4,0,"11,11,11,12|8,7,9,10",,GRAND_SLAM,MS,1560,Qualification,YOON Jaeyoung (KOR),RI Chol Guk (PRK),YOON Jaeyoung
+China Open Guangzhou 2003,2003-09-11,RI Chol Guk,QUENTEL Dorian,4,2,"12,11,14,6,8,11|10,2,12,11,11,9",QR2,GRAND_SLAM,MS,1560,Qualification,RI Chol Guk (PRK),QUENTEL Dorian (FRA),RI Chol Guk
+China Open Guangzhou 2003,2003-09-11,YOON Jaeyoung,QUENTEL Dorian,4,3,"8,11,11,7,11,11,11|11,8,8,11,9,13,4",3,GRAND_SLAM,MS,1560,Qualification,YOON Jaeyoung (KOR),QUENTEL Dorian (FRA),YOON Jaeyoung
+China Open Guangzhou 2003,2003-09-11,CHOI Hyunjin,YOSHITOMI Eigo,4,2,"10,10,12,11,11,11|12,12,10,0,0,0",,GRAND_SLAM,MS,1560,Qualification,CHOI Hyunjin (KOR),YOSHITOMI Eigo (JPN),CHOI Hyunjin
+China Open Guangzhou 2003,2003-09-11,YOSHITOMI Eigo,PAK Won Chol,4,2,"5,11,12,11,12,11|11,7,14,9,10,8",QR2,GRAND_SLAM,MS,1560,Qualification,YOSHITOMI Eigo (JPN),PAK Won Chol (PRK),YOSHITOMI Eigo
+China Open Guangzhou 2003,2003-09-11,PAK Won Chol,CHOI Hyunjin,4,1,"11,11,11,8,11|9,3,6,11,5",3,GRAND_SLAM,MS,1560,Qualification,PAK Won Chol (PRK),CHOI Hyunjin (KOR),PAK Won Chol
+China Open Guangzhou 2003,2003-09-11,CHEN Qi,BOLL Timo,4,2,"3,11,6,11,11,11|11,8,11,3,4,7",R64,GRAND_SLAM,MS,1560,Main Draw,CHEN Qi (CHN),BOLL Timo (GER),CHEN Qi
+China Open Guangzhou 2003,2003-09-11,YUZAWA Ryo,TSIOKAS Ntaniel,4,0,"11,11,11,11|5,5,1,7",R64,GRAND_SLAM,MS,1560,Main Draw,YUZAWA Ryo (JPN),TSIOKAS Ntaniel (GRE),YUZAWA Ryo
+China Open Guangzhou 2003,2003-09-11,YOSHITOMI Eigo,KIM Gunhwan,4,0,"11,12,11,11|4,10,8,5",R64,GRAND_SLAM,MS,1560,Main Draw,YOSHITOMI Eigo (JPN),KIM Gunhwan (KOR),YOSHITOMI Eigo
+China Open Guangzhou 2003,2003-09-11,QIU Yike,KONGSGAARD Christian,4,0,"11,11,11,11|7,3,2,9",R64,GRAND_SLAM,MS,1560,Main Draw,QIU Yike (CHN),KONGSGAARD Christian (DEN),QIU Yike
+China Open Guangzhou 2003,2003-09-11,YOON Jaeyoung,HAKANSSON Fredrik,4,2,"8,7,11,11,11,11|11,11,6,7,6,5",R64,GRAND_SLAM,MS,1560,Main Draw,YOON Jaeyoung (KOR),HAKANSSON Fredrik (SWE),YOON Jaeyoung
+China Open Guangzhou 2003,2003-09-11,LI Ching,VLOTINOS Ioannis,4,1,"11,5,11,11,12|9,11,6,2,10",R64,GRAND_SLAM,MS,1560,Main Draw,LI Ching (HKG),VLOTINOS Ioannis (GRE),LI Ching
+China Open Guangzhou 2003,2003-09-11,LEUNG Chu Yan,KIM Seung Hun,4,3,"9,11,9,11,8,11,12|11,3,11,5,11,6,10",R64,GRAND_SLAM,MS,1560,Main Draw,LEUNG Chu Yan (HKG),KIM Seung Hun (KOR),LEUNG Chu Yan
+China Open Guangzhou 2003,2003-09-11,RYU Seungmin,CABESTANY Cedrik,4,0,"11,11,11,12|8,4,8,10",R64,GRAND_SLAM,MS,1560,Main Draw,RYU Seungmin (KOR),CABESTANY Cedrik (FRA),RYU Seungmin
+China Open Guangzhou 2003,2003-09-11,WANG Hao,SANADA Koji,4,0,"11,15,12,11|6,13,10,6",R64,GRAND_SLAM,MS,1560,Main Draw,WANG Hao (CHN),SANADA Koji (JPN),WANG Hao
+China Open Guangzhou 2003,2003-09-11,CHILA Patrick,SUCH Bartosz,4,2,"11,11,7,11,8,11|5,6,11,9,11,7",R64,GRAND_SLAM,MS,1560,Main Draw,CHILA Patrick (FRA),SUCH Bartosz (POL),CHILA Patrick
+China Open Guangzhou 2003,2003-09-11,CHEUNG Yuk,GORAK Daniel,4,0,"12,11,11,11|10,9,6,4",R64,GRAND_SLAM,MS,1560,Main Draw,CHEUNG Yuk (HKG),GORAK Daniel (POL),CHEUNG Yuk
+China Open Guangzhou 2003,2003-09-11,KO Lai Chak,ARAI Shu,4,0,"13,12,11,11|11,10,5,9",R64,GRAND_SLAM,MS,1560,Main Draw,KO Lai Chak (HKG),ARAI Shu (JPN),KO Lai Chak
+China Open Guangzhou 2003,2003-09-11,JOO Saehyuk,GERELL Par,4,2,"11,7,11,11,12,11|13,11,6,7,10,8",R64,GRAND_SLAM,MS,1560,Main Draw,JOO Saehyuk (KOR),GERELL Par (SWE),JOO Saehyuk
+China Open Guangzhou 2003,2003-09-11,GIONIS Panagiotis,MATSUSHITA Koji,4,1,"11,11,6,14,11|9,8,11,12,6",R64,GRAND_SLAM,MS,1560,Main Draw,GIONIS Panagiotis (GRE),MATSUSHITA Koji (JPN),GIONIS Panagiotis
+China Open Guangzhou 2003,2003-09-11,LEGOUT Christophe,O Il,4,2,"11,11,5,11,4,11|4,8,11,7,11,6",R64,GRAND_SLAM,MS,1560,Main Draw,LEGOUT Christophe (FRA),O Il (PRK),LEGOUT Christophe
+China Open Guangzhou 2003,2003-09-11,KONG Linghui,OMORI Takahiro,4,0,"11,11,11,11|7,9,5,7",R64,GRAND_SLAM,MS,1560,Main Draw,KONG Linghui (CHN),OMORI Takahiro (JPN),KONG Linghui
+China Open Guangzhou 2003,2003-09-11,WANG Liqin,AXELQVIST Johan,4,1,"11,11,9,11,11|3,1,11,3,5",R64,GRAND_SLAM,MS,1560,Main Draw,WANG Liqin (CHN),AXELQVIST Johan (SWE),WANG Liqin
+China Open Guangzhou 2003,2003-09-11,HIELSCHER Lars,ASAMOAH Cyprian,4,2,"12,5,9,11,11,11|10,11,11,8,9,6",R64,GRAND_SLAM,MS,1560,Main Draw,HIELSCHER Lars (GER),ASAMOAH Cyprian (SWE),HIELSCHER Lars
+China Open Guangzhou 2003,2003-09-11,SHAN Mingjie,KIM Song Chol,4,1,"13,13,8,11,11|11,11,11,6,3",R64,GRAND_SLAM,MS,1560,Main Draw,SHAN Mingjie (CHN),KIM Song Chol (PRK),SHAN Mingjie
+China Open Guangzhou 2003,2003-09-11,LUNDQVIST Jens,YANG Heesuk,4,0,"11,11,11,11|7,8,9,4",R64,GRAND_SLAM,MS,1560,Main Draw,LUNDQVIST Jens (SWE),YANG Heesuk (KOR),LUNDQVIST Jens
+China Open Guangzhou 2003,2003-09-11,KEEN Trinko,SUSS Christian,4,0,"11,11,11,11|7,9,8,8",R64,GRAND_SLAM,MS,1560,Main Draw,KEEN Trinko (NED),SUSS Christian (GER),KEEN Trinko
+China Open Guangzhou 2003,2003-09-11,MOLIN Magnus,KOSOWSKI Jakub,4,0,"11,11,11,11|9,6,5,3",R64,GRAND_SLAM,MS,1560,Main Draw,MOLIN Magnus (SWE),KOSOWSKI Jakub (POL),MOLIN Magnus
+China Open Guangzhou 2003,2003-09-11,KAYAMA Hyogo,HANDOYO Reno,4,1,"11,8,11,11,11|6,11,7,8,3",R64,GRAND_SLAM,MS,1560,Main Draw,KAYAMA Hyogo (JPN),HANDOYO Reno (INA),KAYAMA Hyogo
+China Open Guangzhou 2003,2003-09-11,KARLSSON Peter,YOSHITOMI Eigo,4,2,"12,11,12,9,4,12|10,7,10,11,11,10",R64,GRAND_SLAM,MS,1560,Main Draw,KARLSSON Peter (SWE),YOSHITOMI Eigo (JPN),KARLSSON Peter
+China Open Guangzhou 2003,2003-09-11,OH Sangeun,BOBILLIER Loic,4,1,"11,9,11,11,11|6,11,3,6,7",R64,GRAND_SLAM,MS,1560,Main Draw,OH Sangeun (KOR),BOBILLIER Loic (FRA),OH Sangeun
+China Open Guangzhou 2003,2003-09-11,YAN Sen,JONG Kyong Chol,4,1,"11,12,11,11,11|9,14,9,6,7",R64,GRAND_SLAM,MS,1560,Main Draw,YAN Sen (CHN),JONG Kyong Chol (PRK),YAN Sen
+China Open Guangzhou 2003,2003-09-11,STEGER Bastian,SVENSSON Robert,4,1,"11,11,11,8,11|9,8,8,11,5",R64,GRAND_SLAM,MS,1560,Main Draw,STEGER Bastian (GER),SVENSSON Robert (SWE),STEGER Bastian
+China Open Guangzhou 2003,2003-09-11,WOSIK Torben,RI Chol Guk,4,1,"11,12,11,9,11|5,10,4,11,4",R64,GRAND_SLAM,MS,1560,Main Draw,WOSIK Torben (GER),RI Chol Guk (PRK),WOSIK Torben
+China Open Guangzhou 2003,2003-09-11,PAK Won Chol,HEISTER Danny,4,3,"11,12,7,11,6,11,16|9,14,11,8,11,7,14",R64,GRAND_SLAM,MS,1560,Main Draw,PAK Won Chol (PRK),HEISTER Danny (NED),PAK Won Chol
+China Open Guangzhou 2003,2003-09-11,HAO Shuai,BAGGALEY Andrew,4,1,"11,11,15,11,11|7,4,17,2,8",R64,GRAND_SLAM,MS,1560,Main Draw,HAO Shuai (CHN),BAGGALEY Andrew (ENG),HAO Shuai
+China Open Guangzhou 2003,2003-09-11,TUGWELL Finn,KEINATH Thomas,4,3,"7,4,9,11,11,11,11|11,11,11,7,9,9,9",R64,GRAND_SLAM,MS,1560,Main Draw,TUGWELL Finn (DEN),KEINATH Thomas (SVK),TUGWELL Finn
+China Open Guangzhou 2003,2003-09-11,MA Lin,MONRAD Martin,4,0,"11,11,11,11|5,5,8,9",R64,GRAND_SLAM,MS,1560,Main Draw,MA Lin (CHN),MONRAD Martin (DEN),MA Lin
+China Open Guangzhou 2003,2003-09-11,CHEN Qi,YUZAWA Ryo,4,2,"15,11,9,11,12,11|13,13,11,6,10,7",R32,GRAND_SLAM,MS,1560,Main Draw,CHEN Qi (CHN),YUZAWA Ryo (JPN),CHEN Qi
+China Open Guangzhou 2003,2003-09-11,QIU Yike,YOSHITOMI Eigo,4,2,"8,11,11,11,12,11|11,7,4,4,14,6",R32,GRAND_SLAM,MS,1560,Main Draw,QIU Yike (CHN),YOSHITOMI Eigo (JPN),QIU Yike
+China Open Guangzhou 2003,2003-09-11,LI Ching,YOON Jaeyoung,4,2,"10,11,5,11,11,12|12,5,11,5,6,10",R32,GRAND_SLAM,MS,1560,Main Draw,LI Ching (HKG),YOON Jaeyoung (KOR),LI Ching
+China Open Guangzhou 2003,2003-09-11,RYU Seungmin,LEUNG Chu Yan,4,3,"6,11,9,8,11,11,11|11,7,11,11,9,7,6",R32,GRAND_SLAM,MS,1560,Main Draw,RYU Seungmin (KOR),LEUNG Chu Yan (HKG),RYU Seungmin
+China Open Guangzhou 2003,2003-09-11,WANG Hao,CHILA Patrick,4,1,"11,11,8,11,11|9,7,11,1,7",R32,GRAND_SLAM,MS,1560,Main Draw,WANG Hao (CHN),CHILA Patrick (FRA),WANG Hao
+China Open Guangzhou 2003,2003-09-11,CHEUNG Yuk,KO Lai Chak,4,1,"5,11,11,11,11|11,3,6,7,7",R32,GRAND_SLAM,MS,1560,Main Draw,CHEUNG Yuk (HKG),KO Lai Chak (HKG),CHEUNG Yuk
+China Open Guangzhou 2003,2003-09-11,JOO Saehyuk,GIONIS Panagiotis,4,3,"11,7,8,11,9,11,11|8,11,11,8,11,4,7",R32,GRAND_SLAM,MS,1560,Main Draw,JOO Saehyuk (KOR),GIONIS Panagiotis (GRE),JOO Saehyuk
+China Open Guangzhou 2003,2003-09-11,KONG Linghui,LEGOUT Christophe,4,0,"11,11,11,11|8,8,9,1",R32,GRAND_SLAM,MS,1560,Main Draw,KONG Linghui (CHN),LEGOUT Christophe (FRA),KONG Linghui
+China Open Guangzhou 2003,2003-09-11,WANG Liqin,HIELSCHER Lars,4,1,"11,6,11,11,11|4,11,7,5,6",R32,GRAND_SLAM,MS,1560,Main Draw,WANG Liqin (CHN),HIELSCHER Lars (GER),WANG Liqin
+China Open Guangzhou 2003,2003-09-11,SHAN Mingjie,LUNDQVIST Jens,4,3,"12,8,9,7,11,11,11|10,11,11,11,9,9,9",R32,GRAND_SLAM,MS,1560,Main Draw,SHAN Mingjie (CHN),LUNDQVIST Jens (SWE),SHAN Mingjie
+China Open Guangzhou 2003,2003-09-11,KEEN Trinko,MOLIN Magnus,4,2,"11,9,16,11,7,11|7,11,14,9,11,2",R32,GRAND_SLAM,MS,1560,Main Draw,KEEN Trinko (NED),MOLIN Magnus (SWE),KEEN Trinko
+China Open Guangzhou 2003,2003-09-11,KARLSSON Peter,KAYAMA Hyogo,4,2,"7,11,11,12,11,11|11,13,9,10,8,2",R32,GRAND_SLAM,MS,1560,Main Draw,KARLSSON Peter (SWE),KAYAMA Hyogo (JPN),KARLSSON Peter
+China Open Guangzhou 2003,2003-09-11,OH Sangeun,YAN Sen,4,1,"12,11,11,6,13|10,6,5,11,11",R32,GRAND_SLAM,MS,1560,Main Draw,OH Sangeun (KOR),YAN Sen (CHN),OH Sangeun
+China Open Guangzhou 2003,2003-09-11,STEGER Bastian,WOSIK Torben,4,2,"5,14,12,11,11,11|11,16,10,5,6,8",R32,GRAND_SLAM,MS,1560,Main Draw,STEGER Bastian (GER),WOSIK Torben (GER),STEGER Bastian
+China Open Guangzhou 2003,2003-09-11,HAO Shuai,PAK Won Chol,4,1,"12,11,11,9,11|10,7,2,11,3",R32,GRAND_SLAM,MS,1560,Main Draw,HAO Shuai (CHN),PAK Won Chol (PRK),HAO Shuai
+China Open Guangzhou 2003,2003-09-11,MA Lin,TUGWELL Finn,4,1,"8,11,11,11,11|11,7,2,3,4",R32,GRAND_SLAM,MS,1560,Main Draw,MA Lin (CHN),TUGWELL Finn (DEN),MA Lin
+China Open Guangzhou 2003,2003-09-11,CHEN Qi,QIU Yike,4,2,"3,10,11,11,11,11|11,12,7,5,5,9",R16,GRAND_SLAM,MS,1560,Main Draw,CHEN Qi (CHN),QIU Yike (CHN),CHEN Qi
+China Open Guangzhou 2003,2003-09-11,RYU Seungmin,LI Ching,4,3,"11,8,9,11,8,11,11|8,11,11,6,11,8,5",R16,GRAND_SLAM,MS,1560,Main Draw,RYU Seungmin (KOR),LI Ching (HKG),RYU Seungmin
+China Open Guangzhou 2003,2003-09-11,WANG Hao,CHEUNG Yuk,4,1,"11,15,8,11,11|6,13,11,6,5",R16,GRAND_SLAM,MS,1560,Main Draw,WANG Hao (CHN),CHEUNG Yuk (HKG),WANG Hao
+China Open Guangzhou 2003,2003-09-11,KONG Linghui,JOO Saehyuk,4,3,"11,11,6,11,12,5,12|9,7,11,6,14,11,10",R16,GRAND_SLAM,MS,1560,Main Draw,KONG Linghui (CHN),JOO Saehyuk (KOR),KONG Linghui
+China Open Guangzhou 2003,2003-09-11,WANG Liqin,SHAN Mingjie,4,2,"12,9,9,11,11,11|10,11,11,3,6,9",R16,GRAND_SLAM,MS,1560,Main Draw,WANG Liqin (CHN),SHAN Mingjie (CHN),WANG Liqin
+China Open Guangzhou 2003,2003-09-11,KARLSSON Peter,KEEN Trinko,4,1,"6,11,11,11,11|11,8,3,4,9",R16,GRAND_SLAM,MS,1560,Main Draw,KARLSSON Peter (SWE),KEEN Trinko (NED),KARLSSON Peter
+China Open Guangzhou 2003,2003-09-11,OH Sangeun,STEGER Bastian,4,1,"11,15,11,5,11|6,13,8,11,4",R16,GRAND_SLAM,MS,1560,Main Draw,OH Sangeun (KOR),STEGER Bastian (GER),OH Sangeun
+China Open Guangzhou 2003,2003-09-11,MA Lin,HAO Shuai,4,3,"10,11,8,11,8,11,11|12,8,11,5,11,5,6",R16,GRAND_SLAM,MS,1560,Main Draw,MA Lin (CHN),HAO Shuai (CHN),MA Lin
+China Open Guangzhou 2003,2003-09-11,RYU Seungmin,CHEN Qi,4,2,"11,10,11,9,11,11|8,12,9,11,6,5",QF,GRAND_SLAM,MS,1560,Main Draw,RYU Seungmin (KOR),CHEN Qi (CHN),RYU Seungmin
+China Open Guangzhou 2003,2003-09-11,WANG Liqin,KARLSSON Peter,4,1,"5,11,11,11,11|11,7,0,5,7",QF,GRAND_SLAM,MS,1560,Main Draw,WANG Liqin (CHN),KARLSSON Peter (SWE),WANG Liqin
+China Open Guangzhou 2003,2003-09-11,MA Lin,OH Sangeun,4,1,"11,6,11,11,11|3,11,9,8,6",QF,GRAND_SLAM,MS,1560,Main Draw,MA Lin (CHN),OH Sangeun (KOR),MA Lin
+China Open Guangzhou 2003,2003-09-11,WANG Hao,RYU Seungmin,4,1,"11,5,11,11,12|8,11,5,9,10",SF,GRAND_SLAM,MS,1560,Main Draw,WANG Hao (CHN),RYU Seungmin (KOR),WANG Hao
+China Open Guangzhou 2003,2003-09-11,MA Lin,WANG Liqin,4,3,"11,12,10,7,6,11,12|8,10,12,11,11,5,10",SF,GRAND_SLAM,MS,1560,Main Draw,MA Lin (CHN),WANG Liqin (CHN),MA Lin
+China Open Guangzhou 2003,2003-09-11,MA Lin,WANG Hao,4,2,"11,11,12,10,11,11|8,6,14,12,7,5",F,GRAND_SLAM,MS,1560,Main Draw,MA Lin (CHN),WANG Hao (CHN),MA Lin
+China Open Guangzhou 2003,2003-09-11,SVENSSON Robert,LEE Jungwoo,3,2,"11,8,4,11,11|8,11,11,9,8",R16,GRAND_SLAM,U21MS,1560,Main Draw,SVENSSON Robert (SWE),LEE Jungwoo (KOR),SVENSSON Robert
+China Open Guangzhou 2003,2003-09-11,SUCH Bartosz,KONGSGAARD Christian,3,1,"5,11,11,11|11,5,4,9",R16,GRAND_SLAM,U21MS,1560,Main Draw,SUCH Bartosz (POL),KONGSGAARD Christian (DEN),SUCH Bartosz
+China Open Guangzhou 2003,2003-09-11,AXELQVIST Johan,BOBILLIER Loic,3,1,"11,11,9,11|6,9,11,8",R16,GRAND_SLAM,U21MS,1560,Main Draw,AXELQVIST Johan (SWE),BOBILLIER Loic (FRA),AXELQVIST Johan
+China Open Guangzhou 2003,2003-09-11,SUSS Christian,BAGGALEY Andrew,3,0,,R16,GRAND_SLAM,U21MS,1560,Main Draw,SUSS Christian (GER),BAGGALEY Andrew (ENG),SUSS Christian
+China Open Guangzhou 2003,2003-09-11,YOON Jaeyoung,ASAMOAH Cyprian,3,1,"5,11,11,11|11,6,6,9",R16,GRAND_SLAM,U21MS,1560,Main Draw,YOON Jaeyoung (KOR),ASAMOAH Cyprian (SWE),YOON Jaeyoung
+China Open Guangzhou 2003,2003-09-11,GERELL Par,GORAK Daniel,3,1,"10,11,11,11|12,9,7,9",R16,GRAND_SLAM,U21MS,1560,Main Draw,GERELL Par (SWE),GORAK Daniel (POL),GERELL Par
+China Open Guangzhou 2003,2003-09-11,KIM Song Chol,DESPRES Rodolphe,3,0,"11,11,11|2,4,2",R16,GRAND_SLAM,U21MS,1560,Main Draw,KIM Song Chol (PRK),DESPRES Rodolphe (FRA),KIM Song Chol
+China Open Guangzhou 2003,2003-09-11,SVENSSON Robert,RI Chol Guk,3,2,"12,11,9,12,11|14,8,11,10,8",QF,GRAND_SLAM,U21MS,1560,Main Draw,SVENSSON Robert (SWE),RI Chol Guk (PRK),SVENSSON Robert
+China Open Guangzhou 2003,2003-09-11,SUCH Bartosz,AXELQVIST Johan,3,2,"10,7,11,11,11|12,11,9,7,7",QF,GRAND_SLAM,U21MS,1560,Main Draw,SUCH Bartosz (POL),AXELQVIST Johan (SWE),SUCH Bartosz
+China Open Guangzhou 2003,2003-09-11,SUSS Christian,YOON Jaeyoung,3,1,"8,11,11,12|11,4,8,10",QF,GRAND_SLAM,U21MS,1560,Main Draw,SUSS Christian (GER),YOON Jaeyoung (KOR),SUSS Christian
+China Open Guangzhou 2003,2003-09-11,GERELL Par,KIM Song Chol,3,2,"10,11,11,9,11|12,5,7,11,9",QF,GRAND_SLAM,U21MS,1560,Main Draw,GERELL Par (SWE),KIM Song Chol (PRK),GERELL Par
+China Open Guangzhou 2003,2003-09-11,SUCH Bartosz,SVENSSON Robert,3,2,"11,3,11,6,11|1,11,6,11,9",SF,GRAND_SLAM,U21MS,1560,Main Draw,SUCH Bartosz (POL),SVENSSON Robert (SWE),SUCH Bartosz
+China Open Guangzhou 2003,2003-09-11,GERELL Par,SUSS Christian,3,1,"13,6,11,11|11,11,7,6",SF,GRAND_SLAM,U21MS,1560,Main Draw,GERELL Par (SWE),SUSS Christian (GER),GERELL Par
+China Open Guangzhou 2003,2003-09-11,GERELL Par,SUCH Bartosz,3,0,"16,11,11|14,7,3",F,GRAND_SLAM,U21MS,1560,Main Draw,GERELL Par (SWE),SUCH Bartosz (POL),GERELL Par
+China Open Guangzhou 2003,2003-09-11,KIM Kyungha,TAKEDA Akiko,4,1,"11,9,11,11,13|9,11,8,8,11",,GRAND_SLAM,WS,1560,Qualification,KIM Kyungha (KOR),TAKEDA Akiko (JPN),KIM Kyungha
+China Open Guangzhou 2003,2003-09-11,HUANG Yi-Hua,RATHER Jasna,4,0,,QR2,GRAND_SLAM,WS,1560,Qualification,HUANG Yi-Hua (TPE),RATHER Jasna (USA),HUANG Yi-Hua
+China Open Guangzhou 2003,2003-09-11,HUANG Yi-Hua,KIM Kyungha,4,3,"6,11,8,11,11,9,13|11,8,11,7,7,11,11",3,GRAND_SLAM,WS,1560,Qualification,HUANG Yi-Hua (TPE),KIM Kyungha (KOR),HUANG Yi-Hua
+China Open Guangzhou 2003,2003-09-11,TAKEDA Akiko,RATHER Jasna,4,0,,1,GRAND_SLAM,WS,1560,Qualification,TAKEDA Akiko (JPN),RATHER Jasna (USA),TAKEDA Akiko
+China Open Guangzhou 2003,2003-09-11,KIM Kyungha,RATHER Jasna,4,0,,QR2,GRAND_SLAM,WS,1560,Qualification,KIM Kyungha (KOR),RATHER Jasna (USA),KIM Kyungha
+China Open Guangzhou 2003,2003-09-11,TAKEDA Akiko,HUANG Yi-Hua,4,2,"11,11,9,9,11,11|8,7,11,11,3,7",3,GRAND_SLAM,WS,1560,Qualification,TAKEDA Akiko (JPN),HUANG Yi-Hua (TPE),TAKEDA Akiko
+China Open Guangzhou 2003,2003-09-11,JANG Hyon Ae,KRAMER Tanja,4,0,"11,11,11,12|9,7,7,10",,GRAND_SLAM,WS,1560,Qualification,JANG Hyon Ae (PRK),KRAMER Tanja (GER),JANG Hyon Ae
+China Open Guangzhou 2003,2003-09-11,YOON Jihye,SUEMASU Asami,4,0,"11,13,11,11|5,11,4,7",,GRAND_SLAM,WS,1560,Qualification,YOON Jihye (KOR),SUEMASU Asami (JPN),YOON Jihye
+China Open Guangzhou 2003,2003-09-11,KRAMER Tanja,SUEMASU Asami,4,2,"9,11,6,11,11,14|11,7,11,6,4,12",,GRAND_SLAM,WS,1560,Qualification,KRAMER Tanja (GER),SUEMASU Asami (JPN),KRAMER Tanja
+China Open Guangzhou 2003,2003-09-11,JANG Hyon Ae,YOON Jihye,4,1,"11,11,11,8,11|8,7,8,11,5",,GRAND_SLAM,WS,1560,Qualification,JANG Hyon Ae (PRK),YOON Jihye (KOR),JANG Hyon Ae
+China Open Guangzhou 2003,2003-09-11,KRAMER Tanja,YOON Jihye,4,0,"11,11,14,11|9,5,12,7",,GRAND_SLAM,WS,1560,Qualification,KRAMER Tanja (GER),YOON Jihye (KOR),KRAMER Tanja
+China Open Guangzhou 2003,2003-09-11,SUEMASU Asami,JANG Hyon Ae,4,2,"9,13,10,11,11,17|11,11,12,9,2,15",,GRAND_SLAM,WS,1560,Qualification,SUEMASU Asami (JPN),JANG Hyon Ae (PRK),SUEMASU Asami
+China Open Guangzhou 2003,2003-09-11,KIM Mi Yong,SUSILONINGSIH Septi Diah,4,0,"11,11,11,11|7,5,6,7",,GRAND_SLAM,WS,1560,Qualification,KIM Mi Yong (PRK),SUSILONINGSIH Septi Diah (INA),KIM Mi Yong
+China Open Guangzhou 2003,2003-09-11,JANG Jungyeon,SU Hsien-Ching,4,2,"11,7,11,11,13,12|7,11,2,8,15,10",,GRAND_SLAM,WS,1560,Qualification,JANG Jungyeon (KOR),SU Hsien-Ching (TPE),JANG Jungyeon
+China Open Guangzhou 2003,2003-09-11,KIM Mi Yong,SU Hsien-Ching,4,2,"7,11,11,13,5,11|11,3,1,11,11,7",,GRAND_SLAM,WS,1560,Qualification,KIM Mi Yong (PRK),SU Hsien-Ching (TPE),KIM Mi Yong
+China Open Guangzhou 2003,2003-09-11,JANG Jungyeon,SUSILONINGSIH Septi Diah,4,0,"11,11,11,14|4,5,8,12",,GRAND_SLAM,WS,1560,Qualification,JANG Jungyeon (KOR),SUSILONINGSIH Septi Diah (INA),JANG Jungyeon
+China Open Guangzhou 2003,2003-09-11,JANG Jungyeon,KIM Mi Yong,4,2,"6,11,11,15,5,11|11,7,8,13,11,9",,GRAND_SLAM,WS,1560,Qualification,JANG Jungyeon (KOR),KIM Mi Yong (PRK),JANG Jungyeon
+China Open Guangzhou 2003,2003-09-11,SU Hsien-Ching,SUSILONINGSIH Septi Diah,4,2,"12,7,11,11,11,11|14,11,6,7,7,9",,GRAND_SLAM,WS,1560,Qualification,SU Hsien-Ching (TPE),SUSILONINGSIH Septi Diah (INA),SU Hsien-Ching
+China Open Guangzhou 2003,2003-09-11,JEON Hyekyung,FERLIANA Christine,4,0,"11,11,11,11|8,2,5,5",,GRAND_SLAM,WS,1560,Qualification,JEON Hyekyung (KOR),FERLIANA Christine (INA),JEON Hyekyung
+China Open Guangzhou 2003,2003-09-11,HAN Kwangsun,SHIOSAKI Yuka,4,1,"11,11,11,7,11|4,6,6,11,7",,GRAND_SLAM,WS,1560,Qualification,HAN Kwangsun (KOR),SHIOSAKI Yuka (JPN),HAN Kwangsun
+China Open Guangzhou 2003,2003-09-11,JEON Hyekyung,SHIOSAKI Yuka,4,3,"11,17,11,8,4,13,11|6,19,8,11,11,11,8",,GRAND_SLAM,WS,1560,Qualification,JEON Hyekyung (KOR),SHIOSAKI Yuka (JPN),JEON Hyekyung
+China Open Guangzhou 2003,2003-09-11,HAN Kwangsun,FERLIANA Christine,4,2,"6,11,9,11,11,11|11,5,11,4,4,2",,GRAND_SLAM,WS,1560,Qualification,HAN Kwangsun (KOR),FERLIANA Christine (INA),HAN Kwangsun
+China Open Guangzhou 2003,2003-09-11,JEON Hyekyung,HAN Kwangsun,4,3,"10,11,7,7,11,11,11|12,8,11,11,9,6,8",,GRAND_SLAM,WS,1560,Qualification,JEON Hyekyung (KOR),HAN Kwangsun (KOR),JEON Hyekyung
+China Open Guangzhou 2003,2003-09-11,SHIOSAKI Yuka,FERLIANA Christine,4,0,"11,11,11,11|7,8,8,1",,GRAND_SLAM,WS,1560,Qualification,SHIOSAKI Yuka (JPN),FERLIANA Christine (INA),SHIOSAKI Yuka
+China Open Guangzhou 2003,2003-09-11,SHIN Soohee,JUSMA Ceria Nilasari,4,1,"11,11,8,11,11|1,4,11,2,6",,GRAND_SLAM,WS,1560,Qualification,SHIN Soohee (KOR),JUSMA Ceria Nilasari (INA),SHIN Soohee
+China Open Guangzhou 2003,2003-09-11,YU Mei-Ju,COSTES Agathe,4,0,"11,11,11,11|8,5,9,8",,GRAND_SLAM,WS,1560,Qualification,YU Mei-Ju (TPE),COSTES Agathe (FRA),YU Mei-Ju
+China Open Guangzhou 2003,2003-09-11,SHIN Soohee,YU Mei-Ju,4,1,"15,11,8,11,11|13,3,11,7,8",,GRAND_SLAM,WS,1560,Qualification,SHIN Soohee (KOR),YU Mei-Ju (TPE),SHIN Soohee
+China Open Guangzhou 2003,2003-09-11,COSTES Agathe,JUSMA Ceria Nilasari,4,0,"11,11,11,11|7,8,8,3",,GRAND_SLAM,WS,1560,Qualification,COSTES Agathe (FRA),JUSMA Ceria Nilasari (INA),COSTES Agathe
+China Open Guangzhou 2003,2003-09-11,SHIN Soohee,COSTES Agathe,4,2,"6,11,11,3,11,11|11,3,5,11,8,4",,GRAND_SLAM,WS,1560,Qualification,SHIN Soohee (KOR),COSTES Agathe (FRA),SHIN Soohee
+China Open Guangzhou 2003,2003-09-11,YU Mei-Ju,JUSMA Ceria Nilasari,4,2,"11,11,11,11,10,11|13,9,3,8,12,9",,GRAND_SLAM,WS,1560,Qualification,YU Mei-Ju (TPE),JUSMA Ceria Nilasari (INA),YU Mei-Ju
+China Open Guangzhou 2003,2003-09-11,SHIN Sunmi,TAN Paey Fern,4,0,"12,11,11,11|10,5,9,2",,GRAND_SLAM,WS,1560,Qualification,SHIN Sunmi (KOR),TAN Paey Fern (SGP),SHIN Sunmi
+China Open Guangzhou 2003,2003-09-11,CHEN Qing,MOON Hyunjung,4,2,"11,11,9,11,4,11|7,2,11,8,11,8",,GRAND_SLAM,WS,1560,Qualification,CHEN Qing (CHN),MOON Hyunjung (KOR),CHEN Qing
+China Open Guangzhou 2003,2003-09-11,CHEN Qing,TAN Paey Fern,4,0,"11,11,11,11|6,6,2,7",,GRAND_SLAM,WS,1560,Qualification,CHEN Qing (CHN),TAN Paey Fern (SGP),CHEN Qing
+China Open Guangzhou 2003,2003-09-11,MOON Hyunjung,SHIN Sunmi,4,1,"11,11,8,12,11|5,7,11,10,6",,GRAND_SLAM,WS,1560,Qualification,MOON Hyunjung (KOR),SHIN Sunmi (KOR),MOON Hyunjung
+China Open Guangzhou 2003,2003-09-11,MOON Hyunjung,TAN Paey Fern,4,3,"11,10,7,11,11,8,11|9,12,11,7,7,11,9",,GRAND_SLAM,WS,1560,Qualification,MOON Hyunjung (KOR),TAN Paey Fern (SGP),MOON Hyunjung
+China Open Guangzhou 2003,2003-09-11,CHEN Qing,SHIN Sunmi,4,0,"11,11,11,11|5,2,4,4",,GRAND_SLAM,WS,1560,Qualification,CHEN Qing (CHN),SHIN Sunmi (KOR),CHEN Qing
+China Open Guangzhou 2003,2003-09-11,GOURIN Anne-Sophie,SONG Sunae,4,1,"7,11,11,11,11|11,9,5,4,8",,GRAND_SLAM,WS,1560,Qualification,GOURIN Anne-Sophie (FRA),SONG Sunae (KOR),GOURIN Anne-Sophie
+China Open Guangzhou 2003,2003-09-11,DEMIENOVA Zuzana,KASHIWAGI Yuki,4,2,"11,11,9,11,10,11|8,8,11,6,12,8",,GRAND_SLAM,WS,1560,Qualification,DEMIENOVA Zuzana (SVK),KASHIWAGI Yuki (JPN),DEMIENOVA Zuzana
+China Open Guangzhou 2003,2003-09-11,KASHIWAGI Yuki,GOURIN Anne-Sophie,4,0,"11,11,11,11|8,9,5,6",,GRAND_SLAM,WS,1560,Qualification,KASHIWAGI Yuki (JPN),GOURIN Anne-Sophie (FRA),KASHIWAGI Yuki
+China Open Guangzhou 2003,2003-09-11,DEMIENOVA Zuzana,SONG Sunae,4,2,"11,8,12,11,10,11|4,11,10,7,12,6",,GRAND_SLAM,WS,1560,Qualification,DEMIENOVA Zuzana (SVK),SONG Sunae (KOR),DEMIENOVA Zuzana
+China Open Guangzhou 2003,2003-09-11,DEMIENOVA Zuzana,GOURIN Anne-Sophie,4,3,"11,10,7,11,11,11,11|7,12,11,9,9,13,1",,GRAND_SLAM,WS,1560,Qualification,DEMIENOVA Zuzana (SVK),GOURIN Anne-Sophie (FRA),DEMIENOVA Zuzana
+China Open Guangzhou 2003,2003-09-11,SONG Sunae,KASHIWAGI Yuki,4,3,"11,9,11,11,11,8,13|7,11,8,13,3,11,11",,GRAND_SLAM,WS,1560,Qualification,SONG Sunae (KOR),KASHIWAGI Yuki (JPN),SONG Sunae
+China Open Guangzhou 2003,2003-09-11,LEE Hyangmi,JUN Hyunsil,4,1,"11,11,7,11,11|7,7,11,5,7",,GRAND_SLAM,WS,1560,Qualification,LEE Hyangmi (KOR),JUN Hyunsil (KOR),LEE Hyangmi
+China Open Guangzhou 2003,2003-09-11,HUNG Pei-Shan,MIE Anne-Claire,4,2,"11,9,11,7,13,11|7,11,8,11,11,8",,GRAND_SLAM,WS,1560,Qualification,HUNG Pei-Shan (TPE),MIE Anne-Claire (FRA),HUNG Pei-Shan
+China Open Guangzhou 2003,2003-09-11,LEE Hyangmi,HUNG Pei-Shan,4,1,"11,9,11,11,11|2,11,8,7,8",,GRAND_SLAM,WS,1560,Qualification,LEE Hyangmi (KOR),HUNG Pei-Shan (TPE),LEE Hyangmi
+China Open Guangzhou 2003,2003-09-11,JUN Hyunsil,MIE Anne-Claire,4,2,"10,1,11,11,11,11|12,11,8,9,6,5",,GRAND_SLAM,WS,1560,Qualification,JUN Hyunsil (KOR),MIE Anne-Claire (FRA),JUN Hyunsil
+China Open Guangzhou 2003,2003-09-11,MIE Anne-Claire,LEE Hyangmi,4,0,"11,11,12,11|6,6,10,9",,GRAND_SLAM,WS,1560,Qualification,MIE Anne-Claire (FRA),LEE Hyangmi (KOR),MIE Anne-Claire
+China Open Guangzhou 2003,2003-09-11,JUN Hyunsil,HUNG Pei-Shan,4,0,"12,12,11,11|10,10,8,5",,GRAND_SLAM,WS,1560,Qualification,JUN Hyunsil (KOR),HUNG Pei-Shan (TPE),JUN Hyunsil
+China Open Guangzhou 2003,2003-09-11,ZHANG Xueling,JEON Hyekyung,4,1,"8,13,11,11,11|11,11,7,9,6",R64,GRAND_SLAM,WS,1560,Main Draw,ZHANG Xueling (SGP),JEON Hyekyung (KOR),ZHANG Xueling
+China Open Guangzhou 2003,2003-09-11,FUJINUMA Ai,JANG Jungyeon,4,0,"11,11,11,11|9,5,5,6",R64,GRAND_SLAM,WS,1560,Main Draw,FUJINUMA Ai (JPN),JANG Jungyeon (KOR),FUJINUMA Ai
+China Open Guangzhou 2003,2003-09-11,KIM Kyungah,JUSMA Ceria Nilasari,4,0,"11,11,11,13|4,2,7,11",R64,GRAND_SLAM,WS,1560,Main Draw,KIM Kyungah (KOR),JUSMA Ceria Nilasari (INA),KIM Kyungah
+China Open Guangzhou 2003,2003-09-11,GAO Jun,FERLIANA Christine,4,0,"11,11,11,11|7,2,6,2",R64,GRAND_SLAM,WS,1560,Main Draw,GAO Jun (USA),FERLIANA Christine (INA),GAO Jun
+China Open Guangzhou 2003,2003-09-11,SONG Ah Sim,KRAMER Tanja,4,1,"11,11,9,11,11|5,8,11,8,8",R64,GRAND_SLAM,WS,1560,Main Draw,SONG Ah Sim (HKG),KRAMER Tanja (GER),SONG Ah Sim
+China Open Guangzhou 2003,2003-09-11,MOON Hyunjung,HIURA Reiko,4,0,"11,11,11,11|8,8,6,4",R64,GRAND_SLAM,WS,1560,Main Draw,MOON Hyunjung (KOR),HIURA Reiko (JPN),MOON Hyunjung
+China Open Guangzhou 2003,2003-09-11,LI Ju,KIM Kyungha,4,0,"11,11,11,12|8,9,3,10",R64,GRAND_SLAM,WS,1560,Main Draw,LI Ju (CHN),KIM Kyungha (KOR),LI Ju
+China Open Guangzhou 2003,2003-09-11,TIE Yana,TAKEDA Akiko,4,1,"7,11,13,11,11|11,8,11,4,4",R64,GRAND_SLAM,WS,1560,Main Draw,TIE Yana (HKG),TAKEDA Akiko (JPN),TIE Yana
+China Open Guangzhou 2003,2003-09-11,JING Junhong,GOURIN Anne-Sophie,4,0,"11,11,11,11|9,3,9,9",R64,GRAND_SLAM,WS,1560,Main Draw,JING Junhong (SGP),GOURIN Anne-Sophie (FRA),JING Junhong
+China Open Guangzhou 2003,2003-09-11,SUEMASU Asami,LIU Jia,4,3,"7,11,5,12,11,11,11|11,4,11,10,13,2,7",R64,GRAND_SLAM,WS,1560,Main Draw,SUEMASU Asami (JPN),LIU Jia (AUT),SUEMASU Asami
+China Open Guangzhou 2003,2003-09-11,KIM Hyon Hui,JUN Hyunsil,4,0,"11,11,11,11|1,9,8,7",R64,GRAND_SLAM,WS,1560,Main Draw,KIM Hyon Hui (PRK),JUN Hyunsil (KOR),KIM Hyon Hui
+China Open Guangzhou 2003,2003-09-11,LI Jia,YU Mei-Ju,4,0,"11,11,11,11|7,9,8,7",R64,GRAND_SLAM,WS,1560,Main Draw,LI Jia (CHN),YU Mei-Ju (TPE),LI Jia
+China Open Guangzhou 2003,2003-09-11,ZHANG Rui,HUNG Pei-Shan,4,0,"11,11,11,11|6,3,2,7",R64,GRAND_SLAM,WS,1560,Main Draw,ZHANG Rui (HKG),HUNG Pei-Shan (TPE),ZHANG Rui
+China Open Guangzhou 2003,2003-09-11,SU Hsien-Ching,HIRANO Sayaka,4,0,,R64,GRAND_SLAM,WS,1560,Main Draw,SU Hsien-Ching (TPE),HIRANO Sayaka (JPN),SU Hsien-Ching
+China Open Guangzhou 2003,2003-09-11,NIU Jianfeng,TAN Paey Fern,4,0,"11,11,11,11|6,1,9,6",R64,GRAND_SLAM,WS,1560,Main Draw,NIU Jianfeng (CHN),TAN Paey Fern (SGP),NIU Jianfeng
+China Open Guangzhou 2003,2003-09-11,BOROS Tamara,HAN Kwangsun,4,2,"11,6,11,12,12,11|7,11,6,10,14,7",R64,GRAND_SLAM,WS,1560,Main Draw,BOROS Tamara (CRO),HAN Kwangsun (KOR),BOROS Tamara
+China Open Guangzhou 2003,2003-09-11,FUKUHARA Ai,DEMIENOVA Zuzana,4,1,"11,11,11,10,11|7,3,2,12,5",R64,GRAND_SLAM,WS,1560,Main Draw,FUKUHARA Ai (JPN),DEMIENOVA Zuzana (SVK),FUKUHARA Ai
+China Open Guangzhou 2003,2003-09-11,TASEI Mikie,SONG Sunae,4,0,"11,11,11,11|5,9,9,6",R64,GRAND_SLAM,WS,1560,Main Draw,TASEI Mikie (JPN),SONG Sunae (KOR),TASEI Mikie
+China Open Guangzhou 2003,2003-09-11,LI Nan,COSTES Agathe,4,0,"11,11,11,11|7,1,3,9",R64,GRAND_SLAM,WS,1560,Main Draw,LI Nan (CHN),COSTES Agathe (FRA),LI Nan
+China Open Guangzhou 2003,2003-09-11,JANG Hyon Ae,LAU Sui Fei,4,2,"11,13,11,4,9,11|9,11,9,11,11,7",R64,GRAND_SLAM,WS,1560,Main Draw,JANG Hyon Ae (PRK),LAU Sui Fei (HKG),JANG Hyon Ae
+China Open Guangzhou 2003,2003-09-11,KIM Hyang Mi,SUSILONINGSIH Septi Diah,4,0,"11,11,11,11|1,5,3,5",R64,GRAND_SLAM,WS,1560,Main Draw,KIM Hyang Mi (PRK),SUSILONINGSIH Septi Diah (INA),KIM Hyang Mi
+China Open Guangzhou 2003,2003-09-11,BAI Yang,HUANG Yi-Hua,4,1,"11,17,11,10,11|6,15,6,12,8",R64,GRAND_SLAM,WS,1560,Main Draw,BAI Yang (CHN),HUANG Yi-Hua (TPE),BAI Yang
+China Open Guangzhou 2003,2003-09-11,KIM Mi Yong,LIN Ling,4,2,"8,12,3,15,11,11|11,10,11,13,9,8",R64,GRAND_SLAM,WS,1560,Main Draw,KIM Mi Yong (PRK),LIN Ling (HKG),KIM Mi Yong
+China Open Guangzhou 2003,2003-09-11,GUO Yue,LEE Hyangmi,4,2,"11,11,7,11,5,11|9,6,11,2,11,4",R64,GRAND_SLAM,WS,1560,Main Draw,GUO Yue (CHN),LEE Hyangmi (KOR),GUO Yue
+China Open Guangzhou 2003,2003-09-11,CHEN Qing,KONISHI An,4,0,"11,11,11,12|5,9,8,10",R64,GRAND_SLAM,WS,1560,Main Draw,CHEN Qing (CHN),KONISHI An (JPN),CHEN Qing
+China Open Guangzhou 2003,2003-09-11,YOON Jihye,LU Yun-Feng,4,1,"11,5,11,11,11|9,11,9,5,7",R64,GRAND_SLAM,WS,1560,Main Draw,YOON Jihye (KOR),LU Yun-Feng (TPE),YOON Jihye
+China Open Guangzhou 2003,2003-09-11,LI Jiawei,SHIN Soohee,4,0,"11,11,11,11|9,8,9,6",R64,GRAND_SLAM,WS,1560,Main Draw,LI Jiawei (SGP),SHIN Soohee (KOR),LI Jiawei
+China Open Guangzhou 2003,2003-09-11,GUO Yan (1982),KASHIWAGI Yuki,4,1,"11,12,11,4,11|7,10,4,11,2",R64,GRAND_SLAM,WS,1560,Main Draw,GUO Yan (1982) (CHN),KASHIWAGI Yuki (JPN),GUO Yan (1982)
+China Open Guangzhou 2003,2003-09-11,KIM Yun Mi,MIE Anne-Claire,4,2,"9,8,11,11,11,11|11,11,3,6,4,6",R64,GRAND_SLAM,WS,1560,Main Draw,KIM Yun Mi (PRK),MIE Anne-Claire (FRA),KIM Yun Mi
+China Open Guangzhou 2003,2003-09-11,LI Chunli,SHIN Sunmi,4,0,"11,11,11,11|7,4,3,5",R64,GRAND_SLAM,WS,1560,Main Draw,LI Chunli (NZL),SHIN Sunmi (KOR),LI Chunli
+China Open Guangzhou 2003,2003-09-11,WANG Nan,SHIOSAKI Yuka,4,1,"11,11,11,9,11|6,6,7,11,4",R64,GRAND_SLAM,WS,1560,Main Draw,WANG Nan (CHN),SHIOSAKI Yuka (JPN),WANG Nan
+China Open Guangzhou 2003,2003-09-11,ZHANG Yining,ZHANG Xueling,4,1,"11,11,11,11,11|3,5,13,5,6",R32,GRAND_SLAM,WS,1560,Main Draw,ZHANG Yining (CHN),ZHANG Xueling (SGP),ZHANG Yining
+China Open Guangzhou 2003,2003-09-11,KIM Kyungah,FUJINUMA Ai,4,0,"11,11,11,11|3,9,8,9",R32,GRAND_SLAM,WS,1560,Main Draw,KIM Kyungah (KOR),FUJINUMA Ai (JPN),KIM Kyungah
+China Open Guangzhou 2003,2003-09-11,SONG Ah Sim,GAO Jun,4,1,"11,11,9,12,11|9,4,11,10,7",R32,GRAND_SLAM,WS,1560,Main Draw,SONG Ah Sim (HKG),GAO Jun (USA),SONG Ah Sim
+China Open Guangzhou 2003,2003-09-11,LI Ju,MOON Hyunjung,4,0,"11,11,11,11|4,9,9,9",R32,GRAND_SLAM,WS,1560,Main Draw,LI Ju (CHN),MOON Hyunjung (KOR),LI Ju
+China Open Guangzhou 2003,2003-09-11,TIE Yana,JING Junhong,4,3,"7,11,4,12,11,11,11|11,9,11,10,5,13,3",R32,GRAND_SLAM,WS,1560,Main Draw,TIE Yana (HKG),JING Junhong (SGP),TIE Yana
+China Open Guangzhou 2003,2003-09-11,KIM Hyon Hui,SUEMASU Asami,4,1,"11,11,11,8,11|8,4,6,11,7",R32,GRAND_SLAM,WS,1560,Main Draw,KIM Hyon Hui (PRK),SUEMASU Asami (JPN),KIM Hyon Hui
+China Open Guangzhou 2003,2003-09-11,LI Jia,ZHANG Rui,4,2,"11,11,11,10,11,11|4,13,7,12,7,8",R32,GRAND_SLAM,WS,1560,Main Draw,LI Jia (CHN),ZHANG Rui (HKG),LI Jia
+China Open Guangzhou 2003,2003-09-11,NIU Jianfeng,SU Hsien-Ching,4,0,"11,11,11,11|2,7,4,5",R32,GRAND_SLAM,WS,1560,Main Draw,NIU Jianfeng (CHN),SU Hsien-Ching (TPE),NIU Jianfeng
+China Open Guangzhou 2003,2003-09-11,FUKUHARA Ai,BOROS Tamara,4,0,"11,11,11,11|7,8,7,9",R32,GRAND_SLAM,WS,1560,Main Draw,FUKUHARA Ai (JPN),BOROS Tamara (CRO),FUKUHARA Ai
+China Open Guangzhou 2003,2003-09-11,LI Nan,TASEI Mikie,4,0,"11,11,11,11|9,9,5,6",R32,GRAND_SLAM,WS,1560,Main Draw,LI Nan (CHN),TASEI Mikie (JPN),LI Nan
+China Open Guangzhou 2003,2003-09-11,KIM Hyang Mi,JANG Hyon Ae,4,0,,R32,GRAND_SLAM,WS,1560,Main Draw,KIM Hyang Mi (PRK),JANG Hyon Ae (PRK),KIM Hyang Mi
+China Open Guangzhou 2003,2003-09-11,BAI Yang,KIM Mi Yong,4,0,"11,11,11,11|6,9,5,6",R32,GRAND_SLAM,WS,1560,Main Draw,BAI Yang (CHN),KIM Mi Yong (PRK),BAI Yang
+China Open Guangzhou 2003,2003-09-11,GUO Yue,CHEN Qing,4,1,"11,11,11,9,11|9,5,7,11,8",R32,GRAND_SLAM,WS,1560,Main Draw,GUO Yue (CHN),CHEN Qing (CHN),GUO Yue
+China Open Guangzhou 2003,2003-09-11,LI Jiawei,YOON Jihye,4,0,"16,11,12,11|14,8,10,8",R32,GRAND_SLAM,WS,1560,Main Draw,LI Jiawei (SGP),YOON Jihye (KOR),LI Jiawei
+China Open Guangzhou 2003,2003-09-11,GUO Yan (1982),KIM Yun Mi,4,0,"11,11,11,11|5,9,6,3",R32,GRAND_SLAM,WS,1560,Main Draw,GUO Yan (1982) (CHN),KIM Yun Mi (PRK),GUO Yan (1982)
+China Open Guangzhou 2003,2003-09-11,WANG Nan,LI Chunli,4,0,"11,11,11,11|8,8,3,7",R32,GRAND_SLAM,WS,1560,Main Draw,WANG Nan (CHN),LI Chunli (NZL),WANG Nan
+China Open Guangzhou 2003,2003-09-11,ZHANG Yining,KIM Kyungah,4,2,"11,11,9,11,7,11|4,9,11,9,11,4",R16,GRAND_SLAM,WS,1560,Main Draw,ZHANG Yining (CHN),KIM Kyungah (KOR),ZHANG Yining
+China Open Guangzhou 2003,2003-09-11,LI Ju,SONG Ah Sim,4,1,"11,7,11,11,11|5,11,7,5,6",R16,GRAND_SLAM,WS,1560,Main Draw,LI Ju (CHN),SONG Ah Sim (HKG),LI Ju
+China Open Guangzhou 2003,2003-09-11,TIE Yana,KIM Hyon Hui,4,0,"11,11,11,11|9,8,6,8",R16,GRAND_SLAM,WS,1560,Main Draw,TIE Yana (HKG),KIM Hyon Hui (PRK),TIE Yana
+China Open Guangzhou 2003,2003-09-11,NIU Jianfeng,LI Jia,4,1,"6,11,12,11,11|11,2,10,6,8",R16,GRAND_SLAM,WS,1560,Main Draw,NIU Jianfeng (CHN),LI Jia (CHN),NIU Jianfeng
+China Open Guangzhou 2003,2003-09-11,LI Nan,FUKUHARA Ai,4,0,"11,11,11,11|8,9,5,5",R16,GRAND_SLAM,WS,1560,Main Draw,LI Nan (CHN),FUKUHARA Ai (JPN),LI Nan
+China Open Guangzhou 2003,2003-09-11,BAI Yang,KIM Hyang Mi,4,2,"11,8,11,11,3,11|8,11,7,9,11,9",R16,GRAND_SLAM,WS,1560,Main Draw,BAI Yang (CHN),KIM Hyang Mi (PRK),BAI Yang
+China Open Guangzhou 2003,2003-09-11,GUO Yue,LI Jiawei,4,3,"6,11,11,6,4,11,13|11,7,7,11,11,8,11",R16,GRAND_SLAM,WS,1560,Main Draw,GUO Yue (CHN),LI Jiawei (SGP),GUO Yue
+China Open Guangzhou 2003,2003-09-11,GUO Yan (1982),WANG Nan,4,0,"11,11,11,11|9,6,8,7",R16,GRAND_SLAM,WS,1560,Main Draw,GUO Yan (1982) (CHN),WANG Nan (CHN),GUO Yan (1982)
+China Open Guangzhou 2003,2003-09-11,ZHANG Yining,LI Ju,4,1,"11,11,6,11,11|2,9,11,9,5",QF,GRAND_SLAM,WS,1560,Main Draw,ZHANG Yining (CHN),LI Ju (CHN),ZHANG Yining
+China Open Guangzhou 2003,2003-09-11,NIU Jianfeng,TIE Yana,4,1,"11,11,8,12,11|9,7,11,10,3",QF,GRAND_SLAM,WS,1560,Main Draw,NIU Jianfeng (CHN),TIE Yana (HKG),NIU Jianfeng
+China Open Guangzhou 2003,2003-09-11,BAI Yang,LI Nan,4,2,"12,11,11,7,11,11|14,7,8,11,5,7",QF,GRAND_SLAM,WS,1560,Main Draw,BAI Yang (CHN),LI Nan (CHN),BAI Yang
+China Open Guangzhou 2003,2003-09-11,GUO Yan (1982),GUO Yue,4,1,"11,11,4,11,11|8,6,11,9,5",QF,GRAND_SLAM,WS,1560,Main Draw,GUO Yan (1982) (CHN),GUO Yue (CHN),GUO Yan (1982)
+China Open Guangzhou 2003,2003-09-11,ZHANG Yining,NIU Jianfeng,4,3,"11,8,11,6,11,7,11|2,11,7,11,4,11,5",SF,GRAND_SLAM,WS,1560,Main Draw,ZHANG Yining (CHN),NIU Jianfeng (CHN),ZHANG Yining
+China Open Guangzhou 2003,2003-09-11,GUO Yan (1982),BAI Yang,4,3,"1,9,11,11,8,11,11|11,11,8,7,11,9,8",SF,GRAND_SLAM,WS,1560,Main Draw,GUO Yan (1982) (CHN),BAI Yang (CHN),GUO Yan (1982)
+China Open Guangzhou 2003,2003-09-11,ZHANG Yining,GUO Yan (1982),4,3,"11,11,11,6,5,10,11|9,4,4,11,11,12,9",F,GRAND_SLAM,WS,1560,Main Draw,ZHANG Yining (CHN),GUO Yan (1982) (CHN),ZHANG Yining
+China Open Guangzhou 2003,2003-09-11,ZHANG Xueling,MOON Hyunjung,3,2,"13,11,3,11,11|15,8,11,7,9",R16,GRAND_SLAM,U21WS,1560,Main Draw,ZHANG Xueling (SGP),MOON Hyunjung (KOR),ZHANG Xueling
+China Open Guangzhou 2003,2003-09-11,HIURA Reiko,YU Mei-Ju,3,1,"7,11,11,11|11,7,3,2",R16,GRAND_SLAM,U21WS,1560,Main Draw,HIURA Reiko (JPN),YU Mei-Ju (TPE),HIURA Reiko
+China Open Guangzhou 2003,2003-09-11,HUANG Yi-Hua,JANG Hyon Ae,3,0,"11,11,11|8,6,8",R16,GRAND_SLAM,U21WS,1560,Main Draw,HUANG Yi-Hua (TPE),JANG Hyon Ae (PRK),HUANG Yi-Hua
+China Open Guangzhou 2003,2003-09-11,SHIOSAKI Yuka,JUN Hyunsil,3,0,"11,11,11|7,7,7",R16,GRAND_SLAM,U21WS,1560,Main Draw,SHIOSAKI Yuka (JPN),JUN Hyunsil (KOR),SHIOSAKI Yuka
+China Open Guangzhou 2003,2003-09-11,LU Yun-Feng,SHIN Sunmi,3,0,"11,11,11|8,6,2",R16,GRAND_SLAM,U21WS,1560,Main Draw,LU Yun-Feng (TPE),SHIN Sunmi (KOR),LU Yun-Feng
+China Open Guangzhou 2003,2003-09-11,YOON Jihye,KASHIWAGI Yuki,3,1,"9,11,11,11|11,7,9,6",R16,GRAND_SLAM,U21WS,1560,Main Draw,YOON Jihye (KOR),KASHIWAGI Yuki (JPN),YOON Jihye
+China Open Guangzhou 2003,2003-09-11,KIM Mi Yong,SONG Sunae,3,1,"7,11,11,11|11,8,8,8",R16,GRAND_SLAM,U21WS,1560,Main Draw,KIM Mi Yong (PRK),SONG Sunae (KOR),KIM Mi Yong
+China Open Guangzhou 2003,2003-09-11,ZHANG Xueling,HIURA Reiko,3,0,"11,11,11|6,7,3",QF,GRAND_SLAM,U21WS,1560,Main Draw,ZHANG Xueling (SGP),HIURA Reiko (JPN),ZHANG Xueling
+China Open Guangzhou 2003,2003-09-11,SHIOSAKI Yuka,HUANG Yi-Hua,3,1,"8,11,11,11|11,6,2,8",QF,GRAND_SLAM,U21WS,1560,Main Draw,SHIOSAKI Yuka (JPN),HUANG Yi-Hua (TPE),SHIOSAKI Yuka
+China Open Guangzhou 2003,2003-09-11,SHIOSAKI Yuka,ZHANG Xueling,3,1,"11,11,10,11|7,8,12,9",SF,GRAND_SLAM,U21WS,1560,Main Draw,SHIOSAKI Yuka (JPN),ZHANG Xueling (SGP),SHIOSAKI Yuka
+China Open Guangzhou 2003,2003-09-11,KIM Mi Yong,YOON Jihye,3,2,"4,11,5,11,11|11,3,11,9,9",SF,GRAND_SLAM,U21WS,1560,Main Draw,KIM Mi Yong (PRK),YOON Jihye (KOR),KIM Mi Yong
+China Open Guangzhou 2003,2003-09-11,SHIOSAKI Yuka,KIM Mi Yong,3,1,"11,13,6,11|9,11,11,4",F,GRAND_SLAM,U21WS,1560,Main Draw,SHIOSAKI Yuka (JPN),KIM Mi Yong (PRK),SHIOSAKI Yuka
+China Open Guangzhou 2003,2003-09-11,WANG Liqin/YAN Sen,CHOI Hyunjin/LEE Jungwoo,3,1,"8,11,13,11|11,1,11,3",R16,GRAND_SLAM,MD,1560,Main Draw,WANG Liqin (CHN) / YAN Sen (CHN),CHOI Hyunjin (KOR) / LEE Jungwoo (KOR),WANG Liqin
+China Open Guangzhou 2003,2003-09-11,CHEN Qi/MA Lin,SUCH Bartosz/VLOTINOS Ioannis,3,0,"11,11,11|7,2,4",R16,GRAND_SLAM,MD,1560,Main Draw,CHEN Qi (CHN) / MA Lin (CHN),SUCH Bartosz (POL) / VLOTINOS Ioannis (GRE),CHEN Qi
+China Open Guangzhou 2003,2003-09-11,WANG Liqin/YAN Sen,OMORI Takahiro/YUZAWA Ryo,3,1,"11,9,11,11|9,11,8,5",QF,GRAND_SLAM,MD,1560,Main Draw,WANG Liqin (CHN) / YAN Sen (CHN),OMORI Takahiro (JPN) / YUZAWA Ryo (JPN),WANG Liqin
+China Open Guangzhou 2003,2003-09-11,CHEN Qi/MA Lin,KO Lai Chak/LI Ching,3,2,"8,11,12,6,11|11,9,10,11,9",QF,GRAND_SLAM,MD,1560,Main Draw,CHEN Qi (CHN) / MA Lin (CHN),KO Lai Chak (HKG) / LI Ching (HKG),CHEN Qi
+China Open Guangzhou 2003,2003-09-11,CHEN Qi/MA Lin,WANG Liqin/YAN Sen,4,3,"8,23,5,11,10,11,11|11,21,11,5,12,4,9",SF,GRAND_SLAM,MD,1560,Main Draw,CHEN Qi (CHN) / MA Lin (CHN),WANG Liqin (CHN) / YAN Sen (CHN),CHEN Qi
+China Open Guangzhou 2003,2003-09-11,HAO Shuai/QIU Yike,O Il/RI Chol Guk,3,0,"11,11,11|6,3,7",28,GRAND_SLAM,MD,1560,Qualification,HAO Shuai (CHN) / QIU Yike (CHN),O Il (PRK) / RI Chol Guk (PRK),HAO Shuai
+China Open Guangzhou 2003,2003-09-11,HAO Shuai/QIU Yike,KONGSGAARD Christian/TUGWELL Finn,3,1,"11,12,8,12|9,10,11,10",28,GRAND_SLAM,MD,1560,Qualification,HAO Shuai (CHN) / QIU Yike (CHN),KONGSGAARD Christian (DEN) / TUGWELL Finn (DEN),HAO Shuai
+China Open Guangzhou 2003,2003-09-11,CHILA Patrick/LEGOUT Christophe,BOLL Timo/KEINATH Thomas,3,1,"5,11,15,11|11,9,13,9",R16,GRAND_SLAM,MD,1560,Main Draw,CHILA Patrick (FRA) / LEGOUT Christophe (FRA),BOLL Timo (GER) / KEINATH Thomas (SVK),CHILA Patrick
+China Open Guangzhou 2003,2003-09-11,KONG Linghui/WANG Hao,CHILA Patrick/LEGOUT Christophe,3,1,"4,11,11,13|11,9,9,11",QF,GRAND_SLAM,MD,1560,Main Draw,KONG Linghui (CHN) / WANG Hao (CHN),CHILA Patrick (FRA) / LEGOUT Christophe (FRA),KONG Linghui
+China Open Guangzhou 2003,2003-09-11,GORAK Daniel/KOSOWSKI Jakub,CABESTANY Cedrik/VARIN Eric,3,2,"3,6,11,13,11|11,11,8,11,6",28,GRAND_SLAM,MD,1560,Qualification,GORAK Daniel (POL) / KOSOWSKI Jakub (POL),CABESTANY Cedrik (FRA) / VARIN Eric (FRA),GORAK Daniel
+China Open Guangzhou 2003,2003-09-11,CHOI Hyunjin/LEE Jungwoo,STEGER Bastian/WOSIK Torben,3,0,"11,11,11|6,5,9",28,GRAND_SLAM,MD,1560,Qualification,CHOI Hyunjin (KOR) / LEE Jungwoo (KOR),STEGER Bastian (GER) / WOSIK Torben (GER),CHOI Hyunjin
+China Open Guangzhou 2003,2003-09-11,ARAI Shu/KAYAMA Hyogo,HIELSCHER Lars/SUSS Christian,3,1,"11,4,11,11|9,11,7,4",28,GRAND_SLAM,MD,1560,Qualification,ARAI Shu (JPN) / KAYAMA Hyogo (JPN),HIELSCHER Lars (GER) / SUSS Christian (GER),ARAI Shu
+China Open Guangzhou 2003,2003-09-11,OH Sangeun/RYU Seungmin,GIONIS Panagiotis/TSIOKAS Ntaniel,3,2,"12,11,15,9,11|14,6,13,11,6",R16,GRAND_SLAM,MD,1560,Main Draw,OH Sangeun (KOR) / RYU Seungmin (KOR),GIONIS Panagiotis (GRE) / TSIOKAS Ntaniel (GRE),OH Sangeun
+China Open Guangzhou 2003,2003-09-11,GIONIS Panagiotis/TSIOKAS Ntaniel,JONG Kyong Chol/YOSHITOMI Eigo,3,0,"11,11,11|9,7,7",28,GRAND_SLAM,MD,1560,Qualification,GIONIS Panagiotis (GRE) / TSIOKAS Ntaniel (GRE),JONG Kyong Chol (PRK) / YOSHITOMI Eigo (JPN),GIONIS Panagiotis
+China Open Guangzhou 2003,2003-09-11,CHEUNG Yuk/LEUNG Chu Yan,HAO Shuai/QIU Yike,3,2,"7,17,9,11,11|11,15,11,7,7",R16,GRAND_SLAM,MD,1560,Main Draw,CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),HAO Shuai (CHN) / QIU Yike (CHN),CHEUNG Yuk
+China Open Guangzhou 2003,2003-09-11,OH Sangeun/RYU Seungmin,CHEUNG Yuk/LEUNG Chu Yan,3,1,"11,11,8,11|8,9,11,8",QF,GRAND_SLAM,MD,1560,Main Draw,OH Sangeun (KOR) / RYU Seungmin (KOR),CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),OH Sangeun
+China Open Guangzhou 2003,2003-09-11,OMORI Takahiro/YUZAWA Ryo,HARINTO Ismu/JACOBS David,3,0,"11,11,13|8,6,11",28,GRAND_SLAM,MD,1560,Qualification,OMORI Takahiro (JPN) / YUZAWA Ryo (JPN),HARINTO Ismu (INA) / JACOBS David (INA),OMORI Takahiro
+China Open Guangzhou 2003,2003-09-11,MONRAD Martin/SANADA Koji,MARDIYONO Yon/ZAENUDDIN Muhammad,3,1,"9,11,11,11|11,6,5,6",28,GRAND_SLAM,MD,1560,Qualification,MONRAD Martin (DEN) / SANADA Koji (JPN),MARDIYONO Yon (INA) / ZAENUDDIN Muhammad (INA),MONRAD Martin
+China Open Guangzhou 2003,2003-09-11,OMORI Takahiro/YUZAWA Ryo,HEISTER Danny/KEEN Trinko,3,1,"11,11,8,11|6,7,11,8",R16,GRAND_SLAM,MD,1560,Main Draw,OMORI Takahiro (JPN) / YUZAWA Ryo (JPN),HEISTER Danny (NED) / KEEN Trinko (NED),OMORI Takahiro
+China Open Guangzhou 2003,2003-09-11,KIM Song Chol/PAK Won Chol,SHAN Mingjie/YOSHITOMI Eigo,3,1,"10,11,11,11|12,9,7,9",28,GRAND_SLAM,MD,1560,Qualification,KIM Song Chol (PRK) / PAK Won Chol (PRK),SHAN Mingjie (CHN) / YOSHITOMI Eigo (JPN),KIM Song Chol
+China Open Guangzhou 2003,2003-09-11,SUCH Bartosz/VLOTINOS Ioannis,JOO Saehyuk/MATSUSHITA Koji,3,2,"15,12,18,6,11|17,10,16,11,8",28,GRAND_SLAM,MD,1560,Qualification,SUCH Bartosz (POL) / VLOTINOS Ioannis (GRE),JOO Saehyuk (KOR) / MATSUSHITA Koji (JPN),SUCH Bartosz
+China Open Guangzhou 2003,2003-09-11,SUCH Bartosz/VLOTINOS Ioannis,ARAI Shu/KAYAMA Hyogo,3,1,"12,9,11,11|10,11,7,5",28,GRAND_SLAM,MD,1560,Qualification,SUCH Bartosz (POL) / VLOTINOS Ioannis (GRE),ARAI Shu (JPN) / KAYAMA Hyogo (JPN),SUCH Bartosz
+China Open Guangzhou 2003,2003-09-11,KONG Linghui/WANG Hao,KIM Seung Hun/YANG Heesuk,3,2,"12,9,7,11,11|10,11,11,5,8",R16,GRAND_SLAM,MD,1560,Main Draw,KONG Linghui (CHN) / WANG Hao (CHN),KIM Seung Hun (KOR) / YANG Heesuk (KOR),KONG Linghui
+China Open Guangzhou 2003,2003-09-11,KONG Linghui/WANG Hao,OH Sangeun/RYU Seungmin,4,1,"11,11,11,4,11|5,8,8,11,6",SF,GRAND_SLAM,MD,1560,Main Draw,KONG Linghui (CHN) / WANG Hao (CHN),OH Sangeun (KOR) / RYU Seungmin (KOR),KONG Linghui
+China Open Guangzhou 2003,2003-09-11,KIM Seung Hun/YANG Heesuk,BOBILLIER Loic/QUENTEL Dorian,3,0,"11,11,11|8,3,7",28,GRAND_SLAM,MD,1560,Qualification,KIM Seung Hun (KOR) / YANG Heesuk (KOR),BOBILLIER Loic (FRA) / QUENTEL Dorian (FRA),KIM Seung Hun
+China Open Guangzhou 2003,2003-09-11,CHOI Hyunjin/LEE Jungwoo,ASAMOAH Cyprian/GERELL Par,3,1,"9,11,12,14|11,5,10,12",28,GRAND_SLAM,MD,1560,Qualification,CHOI Hyunjin (KOR) / LEE Jungwoo (KOR),ASAMOAH Cyprian (SWE) / GERELL Par (SWE),CHOI Hyunjin
+China Open Guangzhou 2003,2003-09-11,SHAN Mingjie/YOSHITOMI Eigo,KIM Gunhwan/YOON Jaeyoung,3,0,"11,11,11|9,8,9",28,GRAND_SLAM,MD,1560,Qualification,SHAN Mingjie (CHN) / YOSHITOMI Eigo (JPN),KIM Gunhwan (KOR) / YOON Jaeyoung (KOR),SHAN Mingjie
+China Open Guangzhou 2003,2003-09-11,GIONIS Panagiotis/TSIOKAS Ntaniel,GORAK Daniel/KOSOWSKI Jakub,3,0,"11,11,11|4,8,9",28,GRAND_SLAM,MD,1560,Qualification,GIONIS Panagiotis (GRE) / TSIOKAS Ntaniel (GRE),GORAK Daniel (POL) / KOSOWSKI Jakub (POL),GIONIS Panagiotis
+China Open Guangzhou 2003,2003-09-11,KO Lai Chak/LI Ching,KIM Song Chol/PAK Won Chol,3,1,"11,11,11,11|13,9,6,3",R16,GRAND_SLAM,MD,1560,Main Draw,KO Lai Chak (HKG) / LI Ching (HKG),KIM Song Chol (PRK) / PAK Won Chol (PRK),KO Lai Chak
+China Open Guangzhou 2003,2003-09-11,KIM Song Chol/PAK Won Chol,DESPRES Rodolphe/REED Barney,3,0,,28,GRAND_SLAM,MD,1560,Qualification,KIM Song Chol (PRK) / PAK Won Chol (PRK),DESPRES Rodolphe (FRA) / REED Barney (USA),KIM Song Chol
+China Open Guangzhou 2003,2003-09-11,O Il/RI Chol Guk,BAGGALEY Andrew/HANDOYO Reno,3,0,"11,11,11|9,6,7",28,GRAND_SLAM,MD,1560,Qualification,O Il (PRK) / RI Chol Guk (PRK),BAGGALEY Andrew (ENG) / HANDOYO Reno (INA),O Il
+China Open Guangzhou 2003,2003-09-11,BOLL Timo/KEINATH Thomas,AXELQVIST Johan/SVENSSON Robert,3,1,"11,12,8,11|7,10,11,6",28,GRAND_SLAM,MD,1560,Qualification,BOLL Timo (GER) / KEINATH Thomas (SVK),AXELQVIST Johan (SWE) / SVENSSON Robert (SWE),BOLL Timo
+China Open Guangzhou 2003,2003-09-11,BOLL Timo/KEINATH Thomas,MONRAD Martin/SANADA Koji,3,2,"6,11,11,6,11|11,8,1,11,7",28,GRAND_SLAM,MD,1560,Qualification,BOLL Timo (GER) / KEINATH Thomas (SVK),MONRAD Martin (DEN) / SANADA Koji (JPN),BOLL Timo
+China Open Guangzhou 2003,2003-09-11,KIM Seung Hun/YANG Heesuk,KARLSSON Peter/LUNDQVIST Jens,3,2,"9,14,11,11,11|11,16,7,6,4",28,GRAND_SLAM,MD,1560,Qualification,KIM Seung Hun (KOR) / YANG Heesuk (KOR),KARLSSON Peter (SWE) / LUNDQVIST Jens (SWE),KIM Seung Hun
+China Open Guangzhou 2003,2003-09-11,OMORI Takahiro/YUZAWA Ryo,HAKANSSON Fredrik/MOLIN Magnus,3,2,"11,13,6,7,11|8,11,11,11,7",28,GRAND_SLAM,MD,1560,Qualification,OMORI Takahiro (JPN) / YUZAWA Ryo (JPN),HAKANSSON Fredrik (SWE) / MOLIN Magnus (SWE),OMORI Takahiro
+China Open Guangzhou 2003,2003-09-11,GUO Yue/NIU Jianfeng,KASHIWAGI Yuki/TAKEDA Akiko,3,1,"11,10,11,11|9,12,7,3",R16,GRAND_SLAM,WD,1560,Main Draw,GUO Yue (CHN) / NIU Jianfeng (CHN),KASHIWAGI Yuki (JPN) / TAKEDA Akiko (JPN),GUO Yue
+China Open Guangzhou 2003,2003-09-11,GUO Yan (1982)/LI Nan,KIM Hyang Mi/KIM Hyon Hui,3,1,"9,11,11,11|11,8,5,4",R16,GRAND_SLAM,WD,1560,Main Draw,GUO Yan (1982) (CHN) / LI Nan (CHN),KIM Hyang Mi (PRK) / KIM Hyon Hui (PRK),GUO Yan (1982)
+China Open Guangzhou 2003,2003-09-11,BAI Yang/LI Ju,SONG Ah Sim/TIE Yana,3,0,"11,16,11|6,14,4",R16,GRAND_SLAM,WD,1560,Main Draw,BAI Yang (CHN) / LI Ju (CHN),SONG Ah Sim (HKG) / TIE Yana (HKG),BAI Yang
+China Open Guangzhou 2003,2003-09-11,GUO Yan (1982)/LI Nan,JING Junhong/LI Jiawei,3,1,"11,14,9,12|5,12,11,10",QF,GRAND_SLAM,WD,1560,Main Draw,GUO Yan (1982) (CHN) / LI Nan (CHN),JING Junhong (SGP) / LI Jiawei (SGP),GUO Yan (1982)
+China Open Guangzhou 2003,2003-09-11,GUO Yan (1982)/LI Nan,GUO Yue/NIU Jianfeng,4,2,"6,11,11,11,7,11|11,5,8,8,11,2",SF,GRAND_SLAM,WD,1560,Main Draw,GUO Yan (1982) (CHN) / LI Nan (CHN),GUO Yue (CHN) / NIU Jianfeng (CHN),GUO Yan (1982)
+China Open Guangzhou 2003,2003-09-11,BAI Yang/LI Ju,WANG Nan/ZHANG Yining,4,0,"11,11,13,11|8,5,11,9",SF,GRAND_SLAM,WD,1560,Main Draw,BAI Yang (CHN) / LI Ju (CHN),WANG Nan (CHN) / ZHANG Yining (CHN),BAI Yang
+China Open Guangzhou 2003,2003-09-11,BAI Yang/LI Ju,GUO Yan (1982)/LI Nan,4,3,"12,8,10,11,11,8,11|10,11,12,9,6,11,9",F,GRAND_SLAM,WD,1560,Main Draw,BAI Yang (CHN) / LI Ju (CHN),GUO Yan (1982) (CHN) / LI Nan (CHN),BAI Yang
+China Open Guangzhou 2003,2003-09-11,BAI Yang/LI Ju,FERLIANA Christine/JUSMA Ceria Nilasari,3,2,"11,10,11,8,11|4,12,4,11,6",QR32,GRAND_SLAM,WD,1560,Qualification,BAI Yang (CHN) / LI Ju (CHN),FERLIANA Christine (INA) / JUSMA Ceria Nilasari (INA),BAI Yang
+China Open Guangzhou 2003,2003-09-11,CHEN Qing/LI Jia,COSTES Agathe/MIE Anne-Claire,3,0,"11,14,11|8,12,7",R16,GRAND_SLAM,WD,1560,Main Draw,CHEN Qing (CHN) / LI Jia (CHN),COSTES Agathe (FRA) / MIE Anne-Claire (FRA),CHEN Qing
+China Open Guangzhou 2003,2003-09-11,COSTES Agathe/MIE Anne-Claire,JEON Hyekyung/KIM Kyungha,3,2,"7,9,11,11,11|11,11,9,8,5",QR32,GRAND_SLAM,WD,1560,Qualification,COSTES Agathe (FRA) / MIE Anne-Claire (FRA),JEON Hyekyung (KOR) / KIM Kyungha (KOR),COSTES Agathe
+China Open Guangzhou 2003,2003-09-11,BOROS Tamara/KRAMER Tanja,LIN Ling/ZHANG Rui,3,2,"9,9,15,11,11|11,11,13,9,9",R16,GRAND_SLAM,WD,1560,Main Draw,BOROS Tamara (CRO) / KRAMER Tanja (GER),LIN Ling (HKG) / ZHANG Rui (HKG),BOROS Tamara
+China Open Guangzhou 2003,2003-09-11,WANG Nan/ZHANG Yining,BOROS Tamara/KRAMER Tanja,3,2,"9,11,9,11,11|11,8,11,7,5",QF,GRAND_SLAM,WD,1560,Main Draw,WANG Nan (CHN) / ZHANG Yining (CHN),BOROS Tamara (CRO) / KRAMER Tanja (GER),WANG Nan
+China Open Guangzhou 2003,2003-09-11,LIN Ling/ZHANG Rui,MOON Hyunjung/SHIN Soohee,3,2,"9,11,11,6,11|11,7,5,11,8",QR32,GRAND_SLAM,WD,1560,Qualification,LIN Ling (HKG) / ZHANG Rui (HKG),MOON Hyunjung (KOR) / SHIN Soohee (KOR),LIN Ling
+China Open Guangzhou 2003,2003-09-11,FERLIANA Christine/JUSMA Ceria Nilasari,JANG Jungyeon/YOON Jihye,3,1,"11,12,11,11|9,10,13,7",QR32,GRAND_SLAM,WD,1560,Qualification,FERLIANA Christine (INA) / JUSMA Ceria Nilasari (INA),JANG Jungyeon (KOR) / YOON Jihye (KOR),FERLIANA Christine
+China Open Guangzhou 2003,2003-09-11,FUJINUMA Ai/HIURA Reiko,KIM Kyungah/LEE Hyangmi,3,0,"11,11,13|4,6,11",R16,GRAND_SLAM,WD,1560,Main Draw,FUJINUMA Ai (JPN) / HIURA Reiko (JPN),KIM Kyungah (KOR) / LEE Hyangmi (KOR),FUJINUMA Ai
+China Open Guangzhou 2003,2003-09-11,WANG Nan/ZHANG Yining,FUKUHARA Ai/TASEI Mikie,3,0,"11,14,11|4,12,5",R16,GRAND_SLAM,WD,1560,Main Draw,WANG Nan (CHN) / ZHANG Yining (CHN),FUKUHARA Ai (JPN) / TASEI Mikie (JPN),WANG Nan
+China Open Guangzhou 2003,2003-09-11,BAI Yang/LI Ju,FUJINUMA Ai/HIURA Reiko,3,0,"11,11,11|6,3,9",QF,GRAND_SLAM,WD,1560,Main Draw,BAI Yang (CHN) / LI Ju (CHN),FUJINUMA Ai (JPN) / HIURA Reiko (JPN),BAI Yang
+China Open Guangzhou 2003,2003-09-11,FUKUHARA Ai/TASEI Mikie,SHIN Sunmi/SONG Sunae,3,0,"11,11,11|4,7,2",QR32,GRAND_SLAM,WD,1560,Qualification,FUKUHARA Ai (JPN) / TASEI Mikie (JPN),SHIN Sunmi (KOR) / SONG Sunae (KOR),FUKUHARA Ai
+China Open Guangzhou 2003,2003-09-11,KIM Mi Yong/KIM Yun Mi,HIRANO Sayaka/KONISHI An,3,0,,QR32,GRAND_SLAM,WD,1560,Qualification,KIM Mi Yong (PRK) / KIM Yun Mi (PRK),HIRANO Sayaka (JPN) / KONISHI An (JPN),KIM Mi Yong
+China Open Guangzhou 2003,2003-09-11,KASHIWAGI Yuki/TAKEDA Akiko,GAO Jun/RATHER Jasna,3,0,,QR32,GRAND_SLAM,WD,1560,Qualification,KASHIWAGI Yuki (JPN) / TAKEDA Akiko (JPN),GAO Jun (USA) / RATHER Jasna (USA),KASHIWAGI Yuki
+China Open Guangzhou 2003,2003-09-11,SHIN Sunmi/SONG Sunae,SUSILONINGSIH Septi Diah/SU Hsien-Ching,3,2,"8,6,11,11,11|11,11,4,7,7",QR32,GRAND_SLAM,WD,1560,Qualification,SHIN Sunmi (KOR) / SONG Sunae (KOR),SUSILONINGSIH Septi Diah (INA) / SU Hsien-Ching (TPE),SHIN Sunmi
+China Open Guangzhou 2003,2003-09-11,MOON Hyunjung/SHIN Soohee,SHIOSAKI Yuka/SUEMASU Asami,3,1,"7,11,11,11|11,7,9,8",QR32,GRAND_SLAM,WD,1560,Qualification,MOON Hyunjung (KOR) / SHIN Soohee (KOR),SHIOSAKI Yuka (JPN) / SUEMASU Asami (JPN),MOON Hyunjung
+China Open Guangzhou 2003,2003-09-11,KIM Kyungah/LEE Hyangmi,LAU Sui Fei/LIU Jia,3,1,"11,11,7,11|7,6,11,7",QR32,GRAND_SLAM,WD,1560,Qualification,KIM Kyungah (KOR) / LEE Hyangmi (KOR),LAU Sui Fei (HKG) / LIU Jia (AUT),KIM Kyungah
+China Open Guangzhou 2003,2003-09-11,JEON Hyekyung/KIM Kyungha,JANG Hyon Ae/LI Chunli,3,1,"11,9,11,11|5,11,2,4",QR32,GRAND_SLAM,WD,1560,Qualification,JEON Hyekyung (KOR) / KIM Kyungha (KOR),JANG Hyon Ae (PRK) / LI Chunli (NZL),JEON Hyekyung
+China Open Guangzhou 2003,2003-09-11,JING Junhong/LI Jiawei,KIM Mi Yong/KIM Yun Mi,3,0,"11,11,11|7,6,3",R16,GRAND_SLAM,WD,1560,Main Draw,JING Junhong (SGP) / LI Jiawei (SGP),KIM Mi Yong (PRK) / KIM Yun Mi (PRK),JING Junhong
+China Open Guangzhou 2003,2003-09-11,KIM Hyang Mi/KIM Hyon Hui,HAN Kwangsun/JUN Hyunsil,3,1,"4,11,11,14|11,9,5,12",QR32,GRAND_SLAM,WD,1560,Qualification,KIM Hyang Mi (PRK) / KIM Hyon Hui (PRK),HAN Kwangsun (KOR) / JUN Hyunsil (KOR),KIM Hyang Mi
+China Open Guangzhou 2003,2003-09-11,KIM Mi Yong/KIM Yun Mi,HUNG Pei-Shan/YU Mei-Ju,3,1,"11,9,11,11|9,11,7,2",QR32,GRAND_SLAM,WD,1560,Qualification,KIM Mi Yong (PRK) / KIM Yun Mi (PRK),HUNG Pei-Shan (TPE) / YU Mei-Ju (TPE),KIM Mi Yong
+China Open Guangzhou 2003,2003-09-11,KASHIWAGI Yuki/TAKEDA Akiko,TAN Paey Fern/ZHANG Xueling,3,1,"17,12,9,11|15,10,11,9",QR32,GRAND_SLAM,WD,1560,Qualification,KASHIWAGI Yuki (JPN) / TAKEDA Akiko (JPN),TAN Paey Fern (SGP) / ZHANG Xueling (SGP),KASHIWAGI Yuki
+China Open Guangzhou 2003,2003-09-11,LAU Sui Fei/LIU Jia,GOURIN Anne-Sophie/DEMIENOVA Zuzana,3,0,"11,11,11|4,4,8",QR32,GRAND_SLAM,WD,1560,Qualification,LAU Sui Fei (HKG) / LIU Jia (AUT),GOURIN Anne-Sophie (FRA) / DEMIENOVA Zuzana (SVK),LAU Sui Fei
+China Open Guangzhou 2003,2003-09-11,KIM Hyang Mi/KIM Hyon Hui,HUANG Yi-Hua/LU Yun-Feng,3,0,"11,11,11|7,7,4",QR32,GRAND_SLAM,WD,1560,Qualification,KIM Hyang Mi (PRK) / KIM Hyon Hui (PRK),HUANG Yi-Hua (TPE) / LU Yun-Feng (TPE),KIM Hyang Mi

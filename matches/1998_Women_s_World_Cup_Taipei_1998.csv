@@ -1,0 +1,33 @@
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Women's World Cup Taipei 1998,1998-11-06,LI Chunli,LI Ju,2,1,,,WORLD_CUP,WS,1233,Qualification,LI Chunli (NZL),LI Ju (CHN),LI Chunli
+Women's World Cup Taipei 1998,1998-11-06,LI Chunli,TOTH Krisztina,2,0,,,WORLD_CUP,WS,1233,Qualification,LI Chunli (NZL),TOTH Krisztina (HUN),LI Chunli
+Women's World Cup Taipei 1998,1998-11-06,GENG Lijuan,LI Chunli,2,1,,,WORLD_CUP,WS,1233,Qualification,GENG Lijuan (CAN),LI Chunli (NZL),GENG Lijuan
+Women's World Cup Taipei 1998,1998-11-06,LI Ju,TOTH Krisztina,2,0,,,WORLD_CUP,WS,1233,Qualification,LI Ju (CHN),TOTH Krisztina (HUN),LI Ju
+Women's World Cup Taipei 1998,1998-11-06,LI Ju,GENG Lijuan,2,0,,,WORLD_CUP,WS,1233,Qualification,LI Ju (CHN),GENG Lijuan (CAN),LI Ju
+Women's World Cup Taipei 1998,1998-11-06,TOTH Krisztina,GENG Lijuan,2,0,,,WORLD_CUP,WS,1233,Qualification,TOTH Krisztina (HUN),GENG Lijuan (CAN),TOTH Krisztina
+Women's World Cup Taipei 1998,1998-11-06,TIAN-ZORNER Jing,WANG Nan,2,1,,,WORLD_CUP,WS,1233,Qualification,TIAN-ZORNER Jing (GER),WANG Nan (CHN),TIAN-ZORNER Jing
+Women's World Cup Taipei 1998,1998-11-06,TIAN-ZORNER Jing,SCHOPP Jie,2,1,,,WORLD_CUP,WS,1233,Qualification,TIAN-ZORNER Jing (GER),SCHOPP Jie (GER),TIAN-ZORNER Jing
+Women's World Cup Taipei 1998,1998-11-06,TIAN-ZORNER Jing,TSUI Hsiu-Li,2,0,,,WORLD_CUP,WS,1233,Qualification,TIAN-ZORNER Jing (GER),TSUI Hsiu-Li (TPE),TIAN-ZORNER Jing
+Women's World Cup Taipei 1998,1998-11-06,WANG Nan,SCHOPP Jie,2,0,,,WORLD_CUP,WS,1233,Qualification,WANG Nan (CHN),SCHOPP Jie (GER),WANG Nan
+Women's World Cup Taipei 1998,1998-11-06,WANG Nan,TSUI Hsiu-Li,2,1,,,WORLD_CUP,WS,1233,Qualification,WANG Nan (CHN),TSUI Hsiu-Li (TPE),WANG Nan
+Women's World Cup Taipei 1998,1998-11-06,SCHOPP Jie,TSUI Hsiu-Li,2,0,,,WORLD_CUP,WS,1233,Qualification,SCHOPP Jie (GER),TSUI Hsiu-Li (TPE),SCHOPP Jie
+Women's World Cup Taipei 1998,1998-11-06,RYU Jihae,YANG Ying,2,1,,,WORLD_CUP,WS,1233,Qualification,RYU Jihae (KOR),YANG Ying (CHN),RYU Jihae
+Women's World Cup Taipei 1998,1998-11-06,YANG Ying,BATORFI Csilla,2,0,,,WORLD_CUP,WS,1233,Qualification,YANG Ying (CHN),BATORFI Csilla (HUN),YANG Ying
+Women's World Cup Taipei 1998,1998-11-06,YANG Ying,XU Jing,2,0,,,WORLD_CUP,WS,1233,Qualification,YANG Ying (CHN),XU Jing (TPE),YANG Ying
+Women's World Cup Taipei 1998,1998-11-06,BATORFI Csilla,RYU Jihae,2,1,,,WORLD_CUP,WS,1233,Qualification,BATORFI Csilla (HUN),RYU Jihae (KOR),BATORFI Csilla
+Women's World Cup Taipei 1998,1998-11-06,RYU Jihae,XU Jing,2,0,,,WORLD_CUP,WS,1233,Qualification,RYU Jihae (KOR),XU Jing (TPE),RYU Jihae
+Women's World Cup Taipei 1998,1998-11-06,BATORFI Csilla,XU Jing,2,0,,,WORLD_CUP,WS,1233,Qualification,BATORFI Csilla (HUN),XU Jing (TPE),BATORFI Csilla
+Women's World Cup Taipei 1998,1998-11-06,NI Xia Lian,CHEN TONG Fei-Ming,2,1,,,WORLD_CUP,WS,1233,Qualification,NI Xia Lian (LUX),CHEN TONG Fei-Ming (TPE),NI Xia Lian
+Women's World Cup Taipei 1998,1998-11-06,NI Xia Lian,PARK Haejung,2,1,,,WORLD_CUP,WS,1233,Qualification,NI Xia Lian (LUX),PARK Haejung (KOR),NI Xia Lian
+Women's World Cup Taipei 1998,1998-11-06,STRUSE Nicole,NI Xia Lian,2,1,,,WORLD_CUP,WS,1233,Qualification,STRUSE Nicole (GER),NI Xia Lian (LUX),STRUSE Nicole
+Women's World Cup Taipei 1998,1998-11-06,CHEN TONG Fei-Ming,PARK Haejung,2,0,,,WORLD_CUP,WS,1233,Qualification,CHEN TONG Fei-Ming (TPE),PARK Haejung (KOR),CHEN TONG Fei-Ming
+Women's World Cup Taipei 1998,1998-11-06,CHEN TONG Fei-Ming,STRUSE Nicole,2,0,,,WORLD_CUP,WS,1233,Qualification,CHEN TONG Fei-Ming (TPE),STRUSE Nicole (GER),CHEN TONG Fei-Ming
+Women's World Cup Taipei 1998,1998-11-06,PARK Haejung,STRUSE Nicole,2,0,,,WORLD_CUP,WS,1233,Qualification,PARK Haejung (KOR),STRUSE Nicole (GER),PARK Haejung
+Women's World Cup Taipei 1998,1998-11-06,CHEN TONG Fei-Ming,LI Chunli,3,0,,QF,WORLD_CUP,WS,1233,Main Draw,CHEN TONG Fei-Ming (TPE),LI Chunli (NZL),CHEN TONG Fei-Ming
+Women's World Cup Taipei 1998,1998-11-06,WANG Nan,YANG Ying,3,0,,QF,WORLD_CUP,WS,1233,Main Draw,WANG Nan (CHN),YANG Ying (CHN),WANG Nan
+Women's World Cup Taipei 1998,1998-11-06,RYU Jihae,NI Xia Lian,3,1,,QF,WORLD_CUP,WS,1233,Main Draw,RYU Jihae (KOR),NI Xia Lian (LUX),RYU Jihae
+Women's World Cup Taipei 1998,1998-11-06,LI Ju,TIAN-ZORNER Jing,3,0,,QF,WORLD_CUP,WS,1233,Main Draw,LI Ju (CHN),TIAN-ZORNER Jing (GER),LI Ju
+Women's World Cup Taipei 1998,1998-11-06,WANG Nan,CHEN TONG Fei-Ming,3,0,,SF,WORLD_CUP,WS,1233,Main Draw,WANG Nan (CHN),CHEN TONG Fei-Ming (TPE),WANG Nan
+Women's World Cup Taipei 1998,1998-11-06,LI Ju,RYU Jihae,3,1,,SF,WORLD_CUP,WS,1233,Main Draw,LI Ju (CHN),RYU Jihae (KOR),LI Ju
+Women's World Cup Taipei 1998,1998-11-06,WANG Nan,LI Ju,3,0,"21,21,21|12,15,16",F,WORLD_CUP,WS,1233,Main Draw,WANG Nan (CHN),LI Ju (CHN),WANG Nan
+Women's World Cup Taipei 1998,1998-11-06,CHEN TONG Fei-Ming,RYU Jihae,3,0,,3RD,WORLD_CUP,WS,1233,Position Draw,CHEN TONG Fei-Ming (TPE),RYU Jihae (KOR),CHEN TONG Fei-Ming

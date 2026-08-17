@@ -1,0 +1,215 @@
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Japan Open Kobe 2002,2002-09-12,YOO Changjae,CHEN Cheng-Kao,4,0,"11,11,11,11|9,7,7,7",,GRAND_SLAM,MS,1423,Qualification,YOO Changjae (KOR),CHEN Cheng-Kao (TPE),YOO Changjae
+Japan Open Kobe 2002,2002-09-12,YOO Changjae,KIHO Shinnosuke,4,1,"11,11,7,11,11|5,9,11,8,9",,GRAND_SLAM,MS,1423,Qualification,YOO Changjae (KOR),KIHO Shinnosuke (JPN),YOO Changjae
+Japan Open Kobe 2002,2002-09-12,KIHO Shinnosuke,CHEN Cheng-Kao,4,3,"9,8,8,11,11,11,11|11,11,11,6,4,9,1",,GRAND_SLAM,MS,1423,Qualification,KIHO Shinnosuke (JPN),CHEN Cheng-Kao (TPE),KIHO Shinnosuke
+Japan Open Kobe 2002,2002-09-12,ZHOU Bin,TANIGUCHI Yuji,4,1,"8,11,11,12,11|11,9,9,10,6",,GRAND_SLAM,MS,1423,Qualification,ZHOU Bin (CHN),TANIGUCHI Yuji (JPN),ZHOU Bin
+Japan Open Kobe 2002,2002-09-12,ZHOU Bin,TUGWELL Finn,4,2,"11,5,3,12,11,11|9,11,11,10,7,9",,GRAND_SLAM,MS,1423,Qualification,ZHOU Bin (CHN),TUGWELL Finn (DEN),ZHOU Bin
+Japan Open Kobe 2002,2002-09-12,TUGWELL Finn,TANIGUCHI Yuji,4,1,"8,11,11,11,11|11,6,4,8,5",,GRAND_SLAM,MS,1423,Qualification,TUGWELL Finn (DEN),TANIGUCHI Yuji (JPN),TUGWELL Finn
+Japan Open Kobe 2002,2002-09-12,KO Junhyung,LAI Kuan-Shen,4,0,"11,11,11,11|6,8,4,7",,GRAND_SLAM,MS,1423,Qualification,KO Junhyung (KOR),LAI Kuan-Shen (TPE),KO Junhyung
+Japan Open Kobe 2002,2002-09-12,KO Junhyung,ARAI Shu,4,3,"11,8,11,8,11,8,11|8,11,9,11,9,11,8",,GRAND_SLAM,MS,1423,Qualification,KO Junhyung (KOR),ARAI Shu (JPN),KO Junhyung
+Japan Open Kobe 2002,2002-09-12,ARAI Shu,LAI Kuan-Shen,4,1,"11,5,11,11,11|5,11,8,7,8",,GRAND_SLAM,MS,1423,Qualification,ARAI Shu (JPN),LAI Kuan-Shen (TPE),ARAI Shu
+Japan Open Kobe 2002,2002-09-12,KITO Akira,CHOU Tung-Yu,4,2,"6,11,11,11,11,11|11,13,7,4,5,2",,GRAND_SLAM,MS,1423,Qualification,KITO Akira (JPN),CHOU Tung-Yu (TPE),KITO Akira
+Japan Open Kobe 2002,2002-09-12,CABESTANY Cedrik,CHOU Tung-Yu,4,3,"11,11,9,8,14,11,11|6,7,11,11,12,13,7",,GRAND_SLAM,MS,1423,Qualification,CABESTANY Cedrik (FRA),CHOU Tung-Yu (TPE),CABESTANY Cedrik
+Japan Open Kobe 2002,2002-09-12,KITO Akira,CABESTANY Cedrik,4,1,"5,11,11,14,11|11,7,9,12,8",,GRAND_SLAM,MS,1423,Qualification,KITO Akira (JPN),CABESTANY Cedrik (FRA),KITO Akira
+Japan Open Kobe 2002,2002-09-12,CHOI Hyunjin,SU Chu-Chao,4,3,"10,13,11,11,8,11,12|12,11,13,8,11,4,10",,GRAND_SLAM,MS,1423,Qualification,CHOI Hyunjin (KOR),SU Chu-Chao (TPE),CHOI Hyunjin
+Japan Open Kobe 2002,2002-09-12,SANADA Koji,SU Chu-Chao,4,0,"11,11,11,11|7,9,8,8",,GRAND_SLAM,MS,1423,Qualification,SANADA Koji (JPN),SU Chu-Chao (TPE),SANADA Koji
+Japan Open Kobe 2002,2002-09-12,CHOI Hyunjin,SANADA Koji,4,2,"9,11,11,11,6,13|11,9,8,6,11,11",,GRAND_SLAM,MS,1423,Qualification,CHOI Hyunjin (KOR),SANADA Koji (JPN),CHOI Hyunjin
+Japan Open Kobe 2002,2002-09-12,TAKAMORI Hidero,ZHANG Jike,4,1,"11,4,11,11,17|9,11,7,8,15",,GRAND_SLAM,MS,1423,Qualification,TAKAMORI Hidero (JPN),ZHANG Jike (CHN),TAKAMORI Hidero
+Japan Open Kobe 2002,2002-09-12,ZHANG Jike,MARTINEZ Michel,4,1,"8,11,11,11,11|11,6,9,2,9",,GRAND_SLAM,MS,1423,Qualification,ZHANG Jike (CHN),MARTINEZ Michel (FRA),ZHANG Jike
+Japan Open Kobe 2002,2002-09-12,MARTINEZ Michel,TAKAMORI Hidero,4,3,"11,5,11,7,11,8,12|8,11,6,11,4,11,10",,GRAND_SLAM,MS,1423,Qualification,MARTINEZ Michel (FRA),TAKAMORI Hidero (JPN),MARTINEZ Michel
+Japan Open Kobe 2002,2002-09-12,KISHIKAWA Seiya,SU Chi-Young,4,0,"11,11,11,11|9,6,7,7",,GRAND_SLAM,MS,1423,Qualification,KISHIKAWA Seiya (JPN),SU Chi-Young (TPE),KISHIKAWA Seiya
+Japan Open Kobe 2002,2002-09-12,JINDRAK Karl,SU Chi-Young,4,0,"12,11,11,11|10,9,9,6",,GRAND_SLAM,MS,1423,Qualification,JINDRAK Karl (AUT),SU Chi-Young (TPE),JINDRAK Karl
+Japan Open Kobe 2002,2002-09-12,KISHIKAWA Seiya,JINDRAK Karl,4,3,"12,11,7,11,9,7,11|10,4,11,7,11,11,5",,GRAND_SLAM,MS,1423,Qualification,KISHIKAWA Seiya (JPN),JINDRAK Karl (AUT),KISHIKAWA Seiya
+Japan Open Kobe 2002,2002-09-12,QIU Yike,LEE Jungjae,4,0,"11,11,11,11|4,9,8,8",,GRAND_SLAM,MS,1423,Qualification,QIU Yike (CHN),LEE Jungjae (KOR),QIU Yike
+Japan Open Kobe 2002,2002-09-12,QIU Yike,SORENSEN Mads,4,2,"10,16,11,10,11,11|12,14,5,12,4,1",,GRAND_SLAM,MS,1423,Qualification,QIU Yike (CHN),SORENSEN Mads (DEN),QIU Yike
+Japan Open Kobe 2002,2002-09-12,SORENSEN Mads,LEE Jungjae,4,1,"11,11,11,4,16|4,7,8,11,14",,GRAND_SLAM,MS,1423,Qualification,SORENSEN Mads (DEN),LEE Jungjae (KOR),SORENSEN Mads
+Japan Open Kobe 2002,2002-09-12,OMORI Takahiro,HUANG Wei-Chin,4,1,"11,11,6,11,11|6,1,11,5,7",,GRAND_SLAM,MS,1423,Qualification,OMORI Takahiro (JPN),HUANG Wei-Chin (TPE),OMORI Takahiro
+Japan Open Kobe 2002,2002-09-12,JOVER Sebastien,HUANG Wei-Chin,4,2,"11,12,7,9,11,17|2,10,11,11,6,15",,GRAND_SLAM,MS,1423,Qualification,JOVER Sebastien (FRA),HUANG Wei-Chin (TPE),JOVER Sebastien
+Japan Open Kobe 2002,2002-09-12,OMORI Takahiro,JOVER Sebastien,4,3,"11,9,2,11,11,8,11|8,11,11,6,9,11,5",,GRAND_SLAM,MS,1423,Qualification,OMORI Takahiro (JPN),JOVER Sebastien (FRA),OMORI Takahiro
+Japan Open Kobe 2002,2002-09-12,WU Chih-Chi,ZENG Cem,4,3,"10,6,11,12,8,11,13|12,11,9,10,11,8,11",,GRAND_SLAM,MS,1423,Qualification,WU Chih-Chi (TPE),ZENG Cem (TUR),WU Chih-Chi
+Japan Open Kobe 2002,2002-09-12,ZENG Cem,CIOTI Constantin,4,0,"16,11,11,11|14,7,7,8",,GRAND_SLAM,MS,1423,Qualification,ZENG Cem (TUR),CIOTI Constantin (ROU),ZENG Cem
+Japan Open Kobe 2002,2002-09-12,CIOTI Constantin,WU Chih-Chi,4,0,"11,11,11,11|1,5,8,9",,GRAND_SLAM,MS,1423,Qualification,CIOTI Constantin (ROU),WU Chih-Chi (TPE),CIOTI Constantin
+Japan Open Kobe 2002,2002-09-12,KAYAMA Hyogo,OLLIVIER Brice,4,0,"14,11,11,11|12,9,9,4",,GRAND_SLAM,MS,1423,Qualification,KAYAMA Hyogo (JPN),OLLIVIER Brice (FRA),KAYAMA Hyogo
+Japan Open Kobe 2002,2002-09-12,KAYAMA Hyogo,KIM Seung Hun,4,3,"11,11,13,13,7,5,11|9,2,11,15,11,11,4",,GRAND_SLAM,MS,1423,Qualification,KAYAMA Hyogo (JPN),KIM Seung Hun (KOR),KAYAMA Hyogo
+Japan Open Kobe 2002,2002-09-12,KIM Seung Hun,OLLIVIER Brice,4,0,"11,11,11,11|6,4,5,8",,GRAND_SLAM,MS,1423,Qualification,KIM Seung Hun (KOR),OLLIVIER Brice (FRA),KIM Seung Hun
+Japan Open Kobe 2002,2002-09-12,ZENG Jia,KIM Junghoon,4,2,"16,11,6,10,11,11|14,6,11,12,7,3",,GRAND_SLAM,MS,1423,Qualification,ZENG Jia (CHN),KIM Junghoon (KOR),ZENG Jia
+Japan Open Kobe 2002,2002-09-12,QUENTEL Dorian,ZENG Jia,4,3,"11,11,3,11,5,11,11|8,8,11,4,11,13,6",,GRAND_SLAM,MS,1423,Qualification,QUENTEL Dorian (FRA),ZENG Jia (CHN),QUENTEL Dorian
+Japan Open Kobe 2002,2002-09-12,KIM Junghoon,QUENTEL Dorian,4,1,"9,12,11,12,12|11,10,9,10,10",,GRAND_SLAM,MS,1423,Qualification,KIM Junghoon (KOR),QUENTEL Dorian (FRA),KIM Junghoon
+Japan Open Kobe 2002,2002-09-12,YANG Heesuk,MANTEGAZZA Fabio,4,0,"11,11,11,11|8,4,9,3",,GRAND_SLAM,MS,1423,Qualification,YANG Heesuk (KOR),MANTEGAZZA Fabio (ITA),YANG Heesuk
+Japan Open Kobe 2002,2002-09-12,SAKAMOTO Ryusuke,MANTEGAZZA Fabio,4,0,"11,11,11,13|8,6,8,11",,GRAND_SLAM,MS,1423,Qualification,SAKAMOTO Ryusuke (JPN),MANTEGAZZA Fabio (ITA),SAKAMOTO Ryusuke
+Japan Open Kobe 2002,2002-09-12,YANG Heesuk,SAKAMOTO Ryusuke,4,3,"11,8,11,3,6,11,11|9,11,8,11,11,3,7",,GRAND_SLAM,MS,1423,Qualification,YANG Heesuk (KOR),SAKAMOTO Ryusuke (JPN),YANG Heesuk
+Japan Open Kobe 2002,2002-09-12,CIOTI Constantin,SCHLAGER Werner,4,3,"11,11,11,9,6,9,12|6,8,8,11,11,11,10",R64,GRAND_SLAM,MS,1423,Main Draw,CIOTI Constantin (ROU),SCHLAGER Werner (AUT),CIOTI Constantin
+Japan Open Kobe 2002,2002-09-12,STEGER Bastian,TAKAMORI Hidero,4,2,"12,11,11,2,11,11|14,2,3,11,9,9",R64,GRAND_SLAM,MS,1423,Main Draw,STEGER Bastian (GER),TAKAMORI Hidero (JPN),STEGER Bastian
+Japan Open Kobe 2002,2002-09-12,MAZE Michael,OMORI Takahiro,4,0,"11,13,11,11|7,11,7,7",R64,GRAND_SLAM,MS,1423,Main Draw,MAZE Michael (DEN),OMORI Takahiro (JPN),MAZE Michael
+Japan Open Kobe 2002,2002-09-12,CHILA Patrick,CHEN Cheng-Kao,4,2,"11,11,13,12,8,11|0,6,15,10,11,7",R64,GRAND_SLAM,MS,1423,Main Draw,CHILA Patrick (FRA),CHEN Cheng-Kao (TPE),CHILA Patrick
+Japan Open Kobe 2002,2002-09-12,PERSSON Jorgen,WU Chih-Chi,4,0,"11,11,11,11|5,5,9,7",R64,GRAND_SLAM,MS,1423,Main Draw,PERSSON Jorgen (SWE),WU Chih-Chi (TPE),PERSSON Jorgen
+Japan Open Kobe 2002,2002-09-12,ZENG Cem,LUNDQVIST Jens,4,2,"11,11,10,11,11,11|13,9,12,2,5,8",R64,GRAND_SLAM,MS,1423,Main Draw,ZENG Cem (TUR),LUNDQVIST Jens (SWE),ZENG Cem
+Japan Open Kobe 2002,2002-09-12,YOO Changjae,MOLIN Magnus,4,3,"11,8,5,11,5,11,11|8,11,11,9,11,6,8",R64,GRAND_SLAM,MS,1423,Main Draw,YOO Changjae (KOR),MOLIN Magnus (SWE),YOO Changjae
+Japan Open Kobe 2002,2002-09-12,PRIMORAC Zoran,SANADA Koji,4,1,"11,11,11,13,11|3,9,4,15,4",R64,GRAND_SLAM,MS,1423,Main Draw,PRIMORAC Zoran (CRO),SANADA Koji (JPN),PRIMORAC Zoran
+Japan Open Kobe 2002,2002-09-12,KREANGA Kalinikos,TUGWELL Finn,4,2,"12,9,12,8,11,11|10,11,10,11,6,5",R64,GRAND_SLAM,MS,1423,Main Draw,KREANGA Kalinikos (GRE),TUGWELL Finn (DEN),KREANGA Kalinikos
+Japan Open Kobe 2002,2002-09-12,KEINATH Thomas,LEE Jungjae,4,2,"11,11,9,14,11,13|5,3,11,16,6,11",R64,GRAND_SLAM,MS,1423,Main Draw,KEINATH Thomas (SVK),LEE Jungjae (KOR),KEINATH Thomas
+Japan Open Kobe 2002,2002-09-12,KIM Junghoon,SMIRNOV Alexey,4,2,"11,11,9,11,10,11|9,9,11,9,12,7",R64,GRAND_SLAM,MS,1423,Main Draw,KIM Junghoon (KOR),SMIRNOV Alexey (RUS),KIM Junghoon
+Japan Open Kobe 2002,2002-09-12,KARLSSON Peter,MARTINEZ Michel,4,0,"11,11,11,15|3,1,1,13",R64,GRAND_SLAM,MS,1423,Main Draw,KARLSSON Peter (SWE),MARTINEZ Michel (FRA),KARLSSON Peter
+Japan Open Kobe 2002,2002-09-12,HEISTER Danny,QUENTEL Dorian,4,0,"11,11,11,13|9,9,3,11",R64,GRAND_SLAM,MS,1423,Main Draw,HEISTER Danny (NED),QUENTEL Dorian (FRA),HEISTER Danny
+Japan Open Kobe 2002,2002-09-12,KIM Gunhwan,ARAI Shu,4,3,"11,11,3,7,14,7,11|9,8,11,11,12,11,7",R64,GRAND_SLAM,MS,1423,Main Draw,KIM Gunhwan (KOR),ARAI Shu (JPN),KIM Gunhwan
+Japan Open Kobe 2002,2002-09-12,MATSUSHITA Koji,YANG Heesuk,4,0,"11,11,11,11|7,6,5,5",R64,GRAND_SLAM,MS,1423,Main Draw,MATSUSHITA Koji (JPN),YANG Heesuk (KOR),MATSUSHITA Koji
+Japan Open Kobe 2002,2002-09-12,SAIVE Jean-Michel,CHOI Hyunjin,4,3,"3,11,11,11,7,11,8|11,8,8,8,11,5,11",R64,GRAND_SLAM,MS,1423,Main Draw,SAIVE Jean-Michel (BEL),CHOI Hyunjin (KOR),SAIVE Jean-Michel
+Japan Open Kobe 2002,2002-09-12,CHIANG Peng-Lung,JOVER Sebastien,4,2,"13,11,11,12,9,13|15,6,7,10,11,11",R64,GRAND_SLAM,MS,1423,Main Draw,CHIANG Peng-Lung (TPE),JOVER Sebastien (FRA),CHIANG Peng-Lung
+Japan Open Kobe 2002,2002-09-12,KIM Seung Hun,TASAKI Toshio,4,0,"11,11,11,11|9,8,4,5",R64,GRAND_SLAM,MS,1423,Main Draw,KIM Seung Hun (KOR),TASAKI Toshio (JPN),KIM Seung Hun
+Japan Open Kobe 2002,2002-09-12,KITO Akira,BENTSEN Allan,4,2,"6,11,12,11,9,11|11,7,10,9,11,5",R64,GRAND_SLAM,MS,1423,Main Draw,KITO Akira (JPN),BENTSEN Allan (DEN),KITO Akira
+Japan Open Kobe 2002,2002-09-12,ELOI Damien,JINDRAK Karl,4,1,"11,4,11,11,11|7,11,7,9,4",R64,GRAND_SLAM,MS,1423,Main Draw,ELOI Damien (FRA),JINDRAK Karl (AUT),ELOI Damien
+Japan Open Kobe 2002,2002-09-12,KORBEL Petr,OLLIVIER Brice,4,1,"11,10,11,11,11|4,12,5,8,3",R64,GRAND_SLAM,MS,1423,Main Draw,KORBEL Petr (CZE),OLLIVIER Brice (FRA),KORBEL Petr
+Japan Open Kobe 2002,2002-09-12,CRISAN Adrian,KISHIKAWA Seiya,4,0,"11,11,11,11|4,6,4,5",R64,GRAND_SLAM,MS,1423,Main Draw,CRISAN Adrian (ROU),KISHIKAWA Seiya (JPN),CRISAN Adrian
+Japan Open Kobe 2002,2002-09-12,ZHOU Bin,LEGOUT Christophe,4,2,"9,11,11,9,11,11|11,7,7,11,9,4",R64,GRAND_SLAM,MS,1423,Main Draw,ZHOU Bin (CHN),LEGOUT Christophe (FRA),ZHOU Bin
+Japan Open Kobe 2002,2002-09-12,QIU Yike,ROSSKOPF Jorg,4,2,"11,11,11,8,2,11|2,9,6,11,11,8",R64,GRAND_SLAM,MS,1423,Main Draw,QIU Yike (CHN),ROSSKOPF Jorg (GER),QIU Yike
+Japan Open Kobe 2002,2002-09-12,CHUANG Chih-Yuan,ZHANG Jike,4,2,"9,11,12,13,8,11|11,7,10,11,11,4",R64,GRAND_SLAM,MS,1423,Main Draw,CHUANG Chih-Yuan (TPE),ZHANG Jike (CHN),CHUANG Chih-Yuan
+Japan Open Kobe 2002,2002-09-12,YUZAWA Ryo,ZENG Jia,4,2,"8,11,9,11,11,12|11,3,11,6,7,10",R64,GRAND_SLAM,MS,1423,Main Draw,YUZAWA Ryo (JPN),ZENG Jia (CHN),YUZAWA Ryo
+Japan Open Kobe 2002,2002-09-12,MONRAD Martin,SAKAMOTO Ryusuke,4,0,"11,11,11,11|3,5,5,3",R64,GRAND_SLAM,MS,1423,Main Draw,MONRAD Martin (DEN),SAKAMOTO Ryusuke (JPN),MONRAD Martin
+Japan Open Kobe 2002,2002-09-12,KIHO Shinnosuke,CHANG Yen-Shu,4,3,"8,11,11,6,11,6,11|11,9,9,11,9,11,8",R64,GRAND_SLAM,MS,1423,Main Draw,KIHO Shinnosuke (JPN),CHANG Yen-Shu (TPE),KIHO Shinnosuke
+Japan Open Kobe 2002,2002-09-12,HAKANSSON Fredrik,CABESTANY Cedrik,4,0,"11,11,11,13|5,6,5,11",R64,GRAND_SLAM,MS,1423,Main Draw,HAKANSSON Fredrik (SWE),CABESTANY Cedrik (FRA),HAKANSSON Fredrik
+Japan Open Kobe 2002,2002-09-12,KAYAMA Hyogo,ERLANDSEN Geir,4,2,"11,11,5,10,11,11|7,4,11,12,5,8",R64,GRAND_SLAM,MS,1423,Main Draw,KAYAMA Hyogo (JPN),ERLANDSEN Geir (NOR),KAYAMA Hyogo
+Japan Open Kobe 2002,2002-09-12,KO Junhyung,GARDOS Robert,4,2,"12,7,7,11,13,11|10,11,11,9,11,8",R64,GRAND_SLAM,MS,1423,Main Draw,KO Junhyung (KOR),GARDOS Robert (AUT),KO Junhyung
+Japan Open Kobe 2002,2002-09-12,BOLL Timo,SORENSEN Mads,4,1,"11,11,6,11,11|6,6,11,7,5",R64,GRAND_SLAM,MS,1423,Main Draw,BOLL Timo (GER),SORENSEN Mads (DEN),BOLL Timo
+Japan Open Kobe 2002,2002-09-12,CIOTI Constantin,STEGER Bastian,4,1,"11,11,9,11,12|9,5,11,9,10",R32,GRAND_SLAM,MS,1423,Main Draw,CIOTI Constantin (ROU),STEGER Bastian (GER),CIOTI Constantin
+Japan Open Kobe 2002,2002-09-12,MAZE Michael,CHILA Patrick,4,0,"11,11,13,11|8,7,11,4",R32,GRAND_SLAM,MS,1423,Main Draw,MAZE Michael (DEN),CHILA Patrick (FRA),MAZE Michael
+Japan Open Kobe 2002,2002-09-12,PERSSON Jorgen,ZENG Cem,4,2,"11,9,11,12,6,12|7,11,9,10,11,10",R32,GRAND_SLAM,MS,1423,Main Draw,PERSSON Jorgen (SWE),ZENG Cem (TUR),PERSSON Jorgen
+Japan Open Kobe 2002,2002-09-12,PRIMORAC Zoran,YOO Changjae,4,0,"11,12,11,11|9,10,9,5",R32,GRAND_SLAM,MS,1423,Main Draw,PRIMORAC Zoran (CRO),YOO Changjae (KOR),PRIMORAC Zoran
+Japan Open Kobe 2002,2002-09-12,KREANGA Kalinikos,KEINATH Thomas,4,1,"11,11,9,11,11|5,4,11,5,7",R32,GRAND_SLAM,MS,1423,Main Draw,KREANGA Kalinikos (GRE),KEINATH Thomas (SVK),KREANGA Kalinikos
+Japan Open Kobe 2002,2002-09-12,KARLSSON Peter,KIM Junghoon,4,1,"6,11,11,11,11|11,8,9,5,7",R32,GRAND_SLAM,MS,1423,Main Draw,KARLSSON Peter (SWE),KIM Junghoon (KOR),KARLSSON Peter
+Japan Open Kobe 2002,2002-09-12,HEISTER Danny,KIM Gunhwan,4,0,"11,11,11,11|7,9,6,6",R32,GRAND_SLAM,MS,1423,Main Draw,HEISTER Danny (NED),KIM Gunhwan (KOR),HEISTER Danny
+Japan Open Kobe 2002,2002-09-12,SAIVE Jean-Michel,MATSUSHITA Koji,4,3,"11,11,8,10,7,11,11|5,7,11,12,11,8,8",R32,GRAND_SLAM,MS,1423,Main Draw,SAIVE Jean-Michel (BEL),MATSUSHITA Koji (JPN),SAIVE Jean-Michel
+Japan Open Kobe 2002,2002-09-12,CHIANG Peng-Lung,KIM Seung Hun,4,0,"11,11,11,11|7,6,5,6",R32,GRAND_SLAM,MS,1423,Main Draw,CHIANG Peng-Lung (TPE),KIM Seung Hun (KOR),CHIANG Peng-Lung
+Japan Open Kobe 2002,2002-09-12,ELOI Damien,KITO Akira,4,0,"12,11,11,11|10,6,3,5",R32,GRAND_SLAM,MS,1423,Main Draw,ELOI Damien (FRA),KITO Akira (JPN),ELOI Damien
+Japan Open Kobe 2002,2002-09-12,CRISAN Adrian,KORBEL Petr,4,2,"5,11,12,11,11,11|11,7,14,8,9,9",R32,GRAND_SLAM,MS,1423,Main Draw,CRISAN Adrian (ROU),KORBEL Petr (CZE),CRISAN Adrian
+Japan Open Kobe 2002,2002-09-12,QIU Yike,ZHOU Bin,4,3,"11,14,8,8,11,11,11|9,12,11,11,5,13,6",R32,GRAND_SLAM,MS,1423,Main Draw,QIU Yike (CHN),ZHOU Bin (CHN),QIU Yike
+Japan Open Kobe 2002,2002-09-12,CHUANG Chih-Yuan,YUZAWA Ryo,4,0,"11,11,11,11|8,9,9,1",R32,GRAND_SLAM,MS,1423,Main Draw,CHUANG Chih-Yuan (TPE),YUZAWA Ryo (JPN),CHUANG Chih-Yuan
+Japan Open Kobe 2002,2002-09-12,MONRAD Martin,KIHO Shinnosuke,4,0,"11,11,11,11|4,9,8,8",R32,GRAND_SLAM,MS,1423,Main Draw,MONRAD Martin (DEN),KIHO Shinnosuke (JPN),MONRAD Martin
+Japan Open Kobe 2002,2002-09-12,KAYAMA Hyogo,HAKANSSON Fredrik,4,2,"8,14,12,11,13,12|11,12,10,7,15,10",R32,GRAND_SLAM,MS,1423,Main Draw,KAYAMA Hyogo (JPN),HAKANSSON Fredrik (SWE),KAYAMA Hyogo
+Japan Open Kobe 2002,2002-09-12,BOLL Timo,KO Junhyung,4,0,"11,11,11,11|4,6,8,9",R32,GRAND_SLAM,MS,1423,Main Draw,BOLL Timo (GER),KO Junhyung (KOR),BOLL Timo
+Japan Open Kobe 2002,2002-09-12,MAZE Michael,CIOTI Constantin,4,2,"9,11,11,11,7,11|11,8,8,4,11,7",R16,GRAND_SLAM,MS,1423,Main Draw,MAZE Michael (DEN),CIOTI Constantin (ROU),MAZE Michael
+Japan Open Kobe 2002,2002-09-12,PRIMORAC Zoran,PERSSON Jorgen,4,3,"10,9,11,11,11,11,11|12,11,9,9,6,13,5",R16,GRAND_SLAM,MS,1423,Main Draw,PRIMORAC Zoran (CRO),PERSSON Jorgen (SWE),PRIMORAC Zoran
+Japan Open Kobe 2002,2002-09-12,KREANGA Kalinikos,KARLSSON Peter,4,0,"11,11,12,11|5,2,10,8",R16,GRAND_SLAM,MS,1423,Main Draw,KREANGA Kalinikos (GRE),KARLSSON Peter (SWE),KREANGA Kalinikos
+Japan Open Kobe 2002,2002-09-12,SAIVE Jean-Michel,HEISTER Danny,4,3,"2,11,9,11,6,11,11|11,5,11,9,11,9,5",R16,GRAND_SLAM,MS,1423,Main Draw,SAIVE Jean-Michel (BEL),HEISTER Danny (NED),SAIVE Jean-Michel
+Japan Open Kobe 2002,2002-09-12,CHIANG Peng-Lung,ELOI Damien,4,2,"16,11,11,8,11,11|18,8,7,11,9,9",R16,GRAND_SLAM,MS,1423,Main Draw,CHIANG Peng-Lung (TPE),ELOI Damien (FRA),CHIANG Peng-Lung
+Japan Open Kobe 2002,2002-09-12,QIU Yike,CRISAN Adrian,4,1,"11,12,11,4,11|9,10,2,11,7",R16,GRAND_SLAM,MS,1423,Main Draw,QIU Yike (CHN),CRISAN Adrian (ROU),QIU Yike
+Japan Open Kobe 2002,2002-09-12,CHUANG Chih-Yuan,MONRAD Martin,4,0,"11,11,11,11|9,4,6,7",R16,GRAND_SLAM,MS,1423,Main Draw,CHUANG Chih-Yuan (TPE),MONRAD Martin (DEN),CHUANG Chih-Yuan
+Japan Open Kobe 2002,2002-09-12,BOLL Timo,KAYAMA Hyogo,4,0,"11,11,11,11|9,4,7,8",R16,GRAND_SLAM,MS,1423,Main Draw,BOLL Timo (GER),KAYAMA Hyogo (JPN),BOLL Timo
+Japan Open Kobe 2002,2002-09-12,PRIMORAC Zoran,MAZE Michael,4,0,"15,11,11,14|13,7,1,12",QF,GRAND_SLAM,MS,1423,Main Draw,PRIMORAC Zoran (CRO),MAZE Michael (DEN),PRIMORAC Zoran
+Japan Open Kobe 2002,2002-09-12,KREANGA Kalinikos,SAIVE Jean-Michel,4,1,"11,11,13,6,11|6,8,11,11,6",QF,GRAND_SLAM,MS,1423,Main Draw,KREANGA Kalinikos (GRE),SAIVE Jean-Michel (BEL),KREANGA Kalinikos
+Japan Open Kobe 2002,2002-09-12,QIU Yike,CHIANG Peng-Lung,4,2,"6,11,5,11,12,12|11,7,11,6,10,10",QF,GRAND_SLAM,MS,1423,Main Draw,QIU Yike (CHN),CHIANG Peng-Lung (TPE),QIU Yike
+Japan Open Kobe 2002,2002-09-12,CHUANG Chih-Yuan,BOLL Timo,4,1,"11,11,11,5,11|3,8,8,11,8",QF,GRAND_SLAM,MS,1423,Main Draw,CHUANG Chih-Yuan (TPE),BOLL Timo (GER),CHUANG Chih-Yuan
+Japan Open Kobe 2002,2002-09-12,KREANGA Kalinikos,PRIMORAC Zoran,4,2,"11,11,9,11,9,11|6,8,11,4,11,9",SF,GRAND_SLAM,MS,1423,Main Draw,KREANGA Kalinikos (GRE),PRIMORAC Zoran (CRO),KREANGA Kalinikos
+Japan Open Kobe 2002,2002-09-12,CHUANG Chih-Yuan,QIU Yike,4,2,"11,10,11,11,4,13|7,12,8,9,11,11",SF,GRAND_SLAM,MS,1423,Main Draw,CHUANG Chih-Yuan (TPE),QIU Yike (CHN),CHUANG Chih-Yuan
+Japan Open Kobe 2002,2002-09-12,KREANGA Kalinikos,CHUANG Chih-Yuan,4,2,"15,11,9,9,11,11|13,5,11,11,7,6",F,GRAND_SLAM,MS,1423,Main Draw,KREANGA Kalinikos (GRE),CHUANG Chih-Yuan (TPE),KREANGA Kalinikos
+Japan Open Kobe 2002,2002-09-12,XIN Xing Xing,SU Hsien-Ching,4,1,"11,11,4,11,11|2,4,11,7,5",,GRAND_SLAM,WS,1423,Qualification,XIN Xing Xing (SGP),SU Hsien-Ching (TPE),XIN Xing Xing
+Japan Open Kobe 2002,2002-09-12,XIN Xing Xing,KRAMER Tanja,4,1,"11,11,5,13,11|9,9,11,11,5",,GRAND_SLAM,WS,1423,Qualification,XIN Xing Xing (SGP),KRAMER Tanja (GER),XIN Xing Xing
+Japan Open Kobe 2002,2002-09-12,KRAMER Tanja,SU Hsien-Ching,4,1,"11,11,8,11,11|6,7,11,8,5",,GRAND_SLAM,WS,1423,Qualification,KRAMER Tanja (GER),SU Hsien-Ching (TPE),KRAMER Tanja
+Japan Open Kobe 2002,2002-09-12,KWON Hyunjoo,LI Qian,4,3,"5,11,11,11,8,7,11|11,6,7,8,11,11,8",,GRAND_SLAM,WS,1423,Qualification,KWON Hyunjoo (KOR),LI Qian (POL),KWON Hyunjoo
+Japan Open Kobe 2002,2002-09-12,LI Qian,LU Yun-Feng,4,2,"13,11,4,11,4,11|11,4,11,5,11,6",,GRAND_SLAM,WS,1423,Qualification,LI Qian (POL),LU Yun-Feng (TPE),LI Qian
+Japan Open Kobe 2002,2002-09-12,KWON Hyunjoo,LU Yun-Feng,4,3,"8,11,7,8,11,11,11|11,7,11,11,7,6,5",,GRAND_SLAM,WS,1423,Qualification,KWON Hyunjoo (KOR),LU Yun-Feng (TPE),KWON Hyunjoo
+Japan Open Kobe 2002,2002-09-12,ZHANG Xiaoyu (1986),HUANG Yi-Hua,4,1,"16,13,11,8,11|14,11,8,11,4",,GRAND_SLAM,WS,1423,Qualification,ZHANG Xiaoyu (1986) (CHN),HUANG Yi-Hua (TPE),ZHANG Xiaoyu (1986)
+Japan Open Kobe 2002,2002-09-12,ZHANG Xiaoyu (1986),ITO Midori,4,1,"11,11,7,11,11|9,4,11,9,9",,GRAND_SLAM,WS,1423,Qualification,ZHANG Xiaoyu (1986) (CHN),ITO Midori (JPN),ZHANG Xiaoyu (1986)
+Japan Open Kobe 2002,2002-09-12,HUANG Yi-Hua,ITO Midori,4,2,"6,11,11,13,4,11|11,8,5,11,11,6",,GRAND_SLAM,WS,1423,Qualification,HUANG Yi-Hua (TPE),ITO Midori (JPN),HUANG Yi-Hua
+Japan Open Kobe 2002,2002-09-12,SUK Solji,CHEN Chiu-Tan,4,1,"11,11,8,11,11|5,6,11,9,3",,GRAND_SLAM,WS,1423,Qualification,SUK Solji (KOR),CHEN Chiu-Tan (TPE),SUK Solji
+Japan Open Kobe 2002,2002-09-12,IMAFUKU Kumi,CHEN Chiu-Tan,4,2,"11,11,10,14,6,11|0,7,12,12,11,9",,GRAND_SLAM,WS,1423,Qualification,IMAFUKU Kumi (JPN),CHEN Chiu-Tan (TPE),IMAFUKU Kumi
+Japan Open Kobe 2002,2002-09-12,SUK Solji,IMAFUKU Kumi,4,1,"11,10,11,12,11|5,12,9,10,8",,GRAND_SLAM,WS,1423,Qualification,SUK Solji (KOR),IMAFUKU Kumi (JPN),SUK Solji
+Japan Open Kobe 2002,2002-09-12,WANG Shan,POHAR Martina,4,0,"11,11,11,11|1,5,6,4",,GRAND_SLAM,WS,1423,Qualification,WANG Shan (CHN),POHAR Martina (SLO),WANG Shan
+Japan Open Kobe 2002,2002-09-12,WANG Shan,KIM Kyungha,4,2,"6,11,9,14,11,11|11,7,11,12,8,7",,GRAND_SLAM,WS,1423,Qualification,WANG Shan (CHN),KIM Kyungha (KOR),WANG Shan
+Japan Open Kobe 2002,2002-09-12,KIM Kyungha,POHAR Martina,4,1,"11,6,11,11,13|7,11,3,1,11",,GRAND_SLAM,WS,1423,Qualification,KIM Kyungha (KOR),POHAR Martina (SLO),KIM Kyungha
+Japan Open Kobe 2002,2002-09-12,PENG Luyang,PAN Chun-Chu,4,0,"11,11,13,11|7,4,11,7",,GRAND_SLAM,WS,1423,Qualification,PENG Luyang (CHN),PAN Chun-Chu (TPE),PENG Luyang
+Japan Open Kobe 2002,2002-09-12,PENG Luyang,YOON Jihye,4,2,"11,11,11,8,7,11|6,8,8,11,11,5",,GRAND_SLAM,WS,1423,Qualification,PENG Luyang (CHN),YOON Jihye (KOR),PENG Luyang
+Japan Open Kobe 2002,2002-09-12,PAN Chun-Chu,YOON Jihye,4,2,"10,8,11,12,13,11|12,11,8,10,11,8",,GRAND_SLAM,WS,1423,Qualification,PAN Chun-Chu (TPE),YOON Jihye (KOR),PAN Chun-Chu
+Japan Open Kobe 2002,2002-09-12,CHANG Chenchen,HIRANO Sayaka,4,0,"11,11,11,11|5,5,6,4",,GRAND_SLAM,WS,1423,Qualification,CHANG Chenchen (CHN),HIRANO Sayaka (JPN),CHANG Chenchen
+Japan Open Kobe 2002,2002-09-12,CHANG Chenchen,PARK Kyungae (II),4,0,"11,11,11,11|6,7,7,5",,GRAND_SLAM,WS,1423,Qualification,CHANG Chenchen (CHN),PARK Kyungae (II) (KOR),CHANG Chenchen
+Japan Open Kobe 2002,2002-09-12,HIRANO Sayaka,PARK Kyungae (II),4,1,"13,10,12,11,11|11,12,10,4,9",,GRAND_SLAM,WS,1423,Qualification,HIRANO Sayaka (JPN),PARK Kyungae (II) (KOR),HIRANO Sayaka
+Japan Open Kobe 2002,2002-09-12,JUNG Sunyong,LEGAY Solene,4,0,"11,13,13,11|4,11,11,4",,GRAND_SLAM,WS,1423,Qualification,JUNG Sunyong (KOR),LEGAY Solene (FRA),JUNG Sunyong
+Japan Open Kobe 2002,2002-09-12,SUGITA Sanae,JUNG Sunyong,4,1,"11,11,10,11,11|4,8,12,5,5",,GRAND_SLAM,WS,1423,Qualification,SUGITA Sanae (JPN),JUNG Sunyong (KOR),SUGITA Sanae
+Japan Open Kobe 2002,2002-09-12,LEGAY Solene,SUGITA Sanae,4,1,"11,13,11,10,11|8,11,6,12,8",,GRAND_SLAM,WS,1423,Qualification,LEGAY Solene (FRA),SUGITA Sanae (JPN),LEGAY Solene
+Japan Open Kobe 2002,2002-09-12,JEON Hyekyung,ROBERTSON Laura,4,1,"11,11,11,8,11|8,2,5,11,3",,GRAND_SLAM,WS,1423,Qualification,JEON Hyekyung (KOR),ROBERTSON Laura (GER),JEON Hyekyung
+Japan Open Kobe 2002,2002-09-12,JEON Hyekyung,MIE Anne-Claire,4,2,"7,11,11,4,11,11|11,5,7,11,7,5",,GRAND_SLAM,WS,1423,Qualification,JEON Hyekyung (KOR),MIE Anne-Claire (FRA),JEON Hyekyung
+Japan Open Kobe 2002,2002-09-12,ROBERTSON Laura,MIE Anne-Claire,4,2,"12,7,11,9,7,11|10,11,9,11,1,5",,GRAND_SLAM,WS,1423,Qualification,ROBERTSON Laura (GER),MIE Anne-Claire (FRA),ROBERTSON Laura
+Japan Open Kobe 2002,2002-09-12,DING Ying,LEE Hyangmi,4,2,"11,12,15,8,4,11|5,10,13,11,11,6",,GRAND_SLAM,WS,1423,Qualification,DING Ying (CHN),LEE Hyangmi (KOR),DING Ying
+Japan Open Kobe 2002,2002-09-12,COSTES Agathe,DING Ying,4,3,"4,11,12,9,10,12,11|11,9,10,11,12,10,6",,GRAND_SLAM,WS,1423,Qualification,COSTES Agathe (FRA),DING Ying (CHN),COSTES Agathe
+Japan Open Kobe 2002,2002-09-12,LEE Hyangmi,COSTES Agathe,4,1,"11,11,7,16,11|9,3,11,14,7",,GRAND_SLAM,WS,1423,Qualification,LEE Hyangmi (KOR),COSTES Agathe (FRA),LEE Hyangmi
+Japan Open Kobe 2002,2002-09-12,LI Jiawei,PENG Luyang,4,3,"11,8,11,13,11,9,11|3,11,1,15,9,11,9",R32,GRAND_SLAM,WS,1423,Main Draw,LI Jiawei (SGP),PENG Luyang (CHN),LI Jiawei
+Japan Open Kobe 2002,2002-09-12,NEMES Olga,KIM Kyungha,4,1,"11,6,11,11,11|8,11,6,9,5",R32,GRAND_SLAM,WS,1423,Main Draw,NEMES Olga (ROU),KIM Kyungha (KOR),NEMES Olga
+Japan Open Kobe 2002,2002-09-12,KISHIDA Satoko,JUNG Sunyong,4,2,"11,5,11,11,9,11|6,11,4,6,11,5",R32,GRAND_SLAM,WS,1423,Main Draw,KISHIDA Satoko (JPN),JUNG Sunyong (KOR),KISHIDA Satoko
+Japan Open Kobe 2002,2002-09-12,KIM Kyungah,LI Qian,4,1,"11,11,7,11,12|4,5,11,7,10",R32,GRAND_SLAM,WS,1423,Main Draw,KIM Kyungah (KOR),LI Qian (POL),KIM Kyungah
+Japan Open Kobe 2002,2002-09-12,STRUSE Nicole,XIN Xing Xing,4,0,"11,11,13,11|5,8,11,6",R32,GRAND_SLAM,WS,1423,Main Draw,STRUSE Nicole (GER),XIN Xing Xing (SGP),STRUSE Nicole
+Japan Open Kobe 2002,2002-09-12,FUJINUMA Ai,LEE Hyangmi,4,3,"11,14,8,5,16,11,11|6,16,11,11,14,7,4",R32,GRAND_SLAM,WS,1423,Main Draw,FUJINUMA Ai (JPN),LEE Hyangmi (KOR),FUJINUMA Ai
+Japan Open Kobe 2002,2002-09-12,HIURA Reiko,JEON Hyekyung,4,3,"6,6,12,11,11,9,11|11,11,10,9,6,11,8",R32,GRAND_SLAM,WS,1423,Main Draw,HIURA Reiko (JPN),JEON Hyekyung (KOR),HIURA Reiko
+Japan Open Kobe 2002,2002-09-12,WANG Shan,JING Junhong,4,0,"11,11,11,12|9,8,5,10",R32,GRAND_SLAM,WS,1423,Main Draw,WANG Shan (CHN),JING Junhong (SGP),WANG Shan
+Japan Open Kobe 2002,2002-09-12,UMEMURA Aya,KWON Hyunjoo,4,1,"11,11,11,9,11|6,6,9,11,6",R32,GRAND_SLAM,WS,1423,Main Draw,UMEMURA Aya (JPN),KWON Hyunjoo (KOR),UMEMURA Aya
+Japan Open Kobe 2002,2002-09-12,ROBERTSON Laura,FUKUHARA Ai,4,3,"11,12,11,11,11,6,11|13,10,13,9,8,11,6",R32,GRAND_SLAM,WS,1423,Main Draw,ROBERTSON Laura (GER),FUKUHARA Ai (JPN),ROBERTSON Laura
+Japan Open Kobe 2002,2002-09-12,TASEI Mikie,KRAMER Tanja,4,1,"7,11,11,11,11|11,6,8,7,8",R32,GRAND_SLAM,WS,1423,Main Draw,TASEI Mikie (JPN),KRAMER Tanja (GER),TASEI Mikie
+Japan Open Kobe 2002,2002-09-12,KONISHI An,SUK Solji,4,1,"11,11,9,11,11|2,5,11,3,9",R32,GRAND_SLAM,WS,1423,Main Draw,KONISHI An (JPN),SUK Solji (KOR),KONISHI An
+Japan Open Kobe 2002,2002-09-12,KIM Bokrae,CHANG Chenchen,4,2,"6,13,11,11,11,11|11,15,7,8,4,9",R32,GRAND_SLAM,WS,1423,Main Draw,KIM Bokrae (KOR),CHANG Chenchen (CHN),KIM Bokrae
+Japan Open Kobe 2002,2002-09-12,ZHANG Xueling,SUGITA Sanae,4,1,"14,13,11,11,11|16,11,9,7,2",R32,GRAND_SLAM,WS,1423,Main Draw,ZHANG Xueling (SGP),SUGITA Sanae (JPN),ZHANG Xueling
+Japan Open Kobe 2002,2002-09-12,GOURIN Anne-Sophie,IMAFUKU Kumi,4,2,"3,12,11,8,11,11|11,10,2,11,8,5",R32,GRAND_SLAM,WS,1423,Main Draw,GOURIN Anne-Sophie (FRA),IMAFUKU Kumi (JPN),GOURIN Anne-Sophie
+Japan Open Kobe 2002,2002-09-12,STEFF Mihaela,ZHANG Xiaoyu (1986),4,3,"13,11,11,8,8,7,11|1,9,9,11,11,11,9",R32,GRAND_SLAM,WS,1423,Main Draw,STEFF Mihaela (ROU),ZHANG Xiaoyu (1986) (CHN),STEFF Mihaela
+Japan Open Kobe 2002,2002-09-12,NEMES Olga,LI Jiawei,4,0,"11,11,12,11|6,9,10,6",R16,GRAND_SLAM,WS,1423,Main Draw,NEMES Olga (ROU),LI Jiawei (SGP),NEMES Olga
+Japan Open Kobe 2002,2002-09-12,KIM Kyungah,KISHIDA Satoko,4,0,"11,11,11,11|4,7,9,4",R16,GRAND_SLAM,WS,1423,Main Draw,KIM Kyungah (KOR),KISHIDA Satoko (JPN),KIM Kyungah
+Japan Open Kobe 2002,2002-09-12,FUJINUMA Ai,STRUSE Nicole,4,1,"11,11,9,11,11|9,7,11,7,8",R16,GRAND_SLAM,WS,1423,Main Draw,FUJINUMA Ai (JPN),STRUSE Nicole (GER),FUJINUMA Ai
+Japan Open Kobe 2002,2002-09-12,WANG Shan,HIURA Reiko,4,0,"11,11,11,11|7,6,5,6",R16,GRAND_SLAM,WS,1423,Main Draw,WANG Shan (CHN),HIURA Reiko (JPN),WANG Shan
+Japan Open Kobe 2002,2002-09-12,UMEMURA Aya,ROBERTSON Laura,4,0,"11,11,14,11|8,6,12,9",R16,GRAND_SLAM,WS,1423,Main Draw,UMEMURA Aya (JPN),ROBERTSON Laura (GER),UMEMURA Aya
+Japan Open Kobe 2002,2002-09-12,KONISHI An,TASEI Mikie,4,1,"13,12,11,11,11|11,10,13,5,7",R16,GRAND_SLAM,WS,1423,Main Draw,KONISHI An (JPN),TASEI Mikie (JPN),KONISHI An
+Japan Open Kobe 2002,2002-09-12,KIM Bokrae,ZHANG Xueling,4,0,"11,11,11,11|9,6,9,7",R16,GRAND_SLAM,WS,1423,Main Draw,KIM Bokrae (KOR),ZHANG Xueling (SGP),KIM Bokrae
+Japan Open Kobe 2002,2002-09-12,STEFF Mihaela,GOURIN Anne-Sophie,4,2,"15,12,12,9,11,11|13,14,10,11,7,3",R16,GRAND_SLAM,WS,1423,Main Draw,STEFF Mihaela (ROU),GOURIN Anne-Sophie (FRA),STEFF Mihaela
+Japan Open Kobe 2002,2002-09-12,KIM Kyungah,NEMES Olga,4,2,"9,9,11,11,11,11|11,11,9,6,4,7",QF,GRAND_SLAM,WS,1423,Main Draw,KIM Kyungah (KOR),NEMES Olga (ROU),KIM Kyungah
+Japan Open Kobe 2002,2002-09-12,WANG Shan,FUJINUMA Ai,4,2,"11,11,4,11,9,11|6,8,11,4,11,5",QF,GRAND_SLAM,WS,1423,Main Draw,WANG Shan (CHN),FUJINUMA Ai (JPN),WANG Shan
+Japan Open Kobe 2002,2002-09-12,UMEMURA Aya,KONISHI An,4,3,"11,11,6,10,9,11,11|7,2,11,12,11,9,9",QF,GRAND_SLAM,WS,1423,Main Draw,UMEMURA Aya (JPN),KONISHI An (JPN),UMEMURA Aya
+Japan Open Kobe 2002,2002-09-12,STEFF Mihaela,KIM Bokrae,4,0,"11,11,11,12|4,8,2,10",QF,GRAND_SLAM,WS,1423,Main Draw,STEFF Mihaela (ROU),KIM Bokrae (KOR),STEFF Mihaela
+Japan Open Kobe 2002,2002-09-12,KIM Kyungah,WANG Shan,4,2,"13,11,6,11,9,11|11,8,11,3,11,5",SF,GRAND_SLAM,WS,1423,Main Draw,KIM Kyungah (KOR),WANG Shan (CHN),KIM Kyungah
+Japan Open Kobe 2002,2002-09-12,STEFF Mihaela,UMEMURA Aya,4,2,"5,11,11,11,11,13|11,6,8,13,8,11",SF,GRAND_SLAM,WS,1423,Main Draw,STEFF Mihaela (ROU),UMEMURA Aya (JPN),STEFF Mihaela
+Japan Open Kobe 2002,2002-09-12,KIM Kyungah,STEFF Mihaela,4,2,"12,11,8,6,14,11|10,4,11,11,12,9",F,GRAND_SLAM,WS,1423,Main Draw,KIM Kyungah (KOR),STEFF Mihaela (ROU),KIM Kyungah
+Japan Open Kobe 2002,2002-09-12,JINDRAK Karl/SCHLAGER Werner,LUNDQVIST Jens/MOLIN Magnus,4,3,"11,11,8,9,11,11,11|13,7,11,11,8,9,9",R16,GRAND_SLAM,MD,1423,Main Draw,JINDRAK Karl (AUT) / SCHLAGER Werner (AUT),LUNDQVIST Jens (SWE) / MOLIN Magnus (SWE),JINDRAK Karl
+Japan Open Kobe 2002,2002-09-12,KITO Akira/TASAKI Toshio,JINDRAK Karl/SCHLAGER Werner,4,3,"12,8,11,8,9,11,11|10,11,4,11,11,4,7",QF,GRAND_SLAM,MD,1423,Main Draw,KITO Akira (JPN) / TASAKI Toshio (JPN),JINDRAK Karl (AUT) / SCHLAGER Werner (AUT),KITO Akira
+Japan Open Kobe 2002,2002-09-12,PRIMORAC Zoran/SAIVE Jean-Michel,QIU Yike/ZENG Cem,3,0,"11,11,13|7,8,11",QR16,GRAND_SLAM,MD,1423,Qualification,PRIMORAC Zoran (CRO) / SAIVE Jean-Michel (BEL),QIU Yike (CHN) / ZENG Cem (TUR),PRIMORAC Zoran
+Japan Open Kobe 2002,2002-09-12,ZHANG Jike/ZHOU Bin,OMORI Takahiro/TANIGUCHI Yuji,3,1,"11,11,7,11|7,7,11,7",QR32,GRAND_SLAM,MD,1423,Qualification,ZHANG Jike (CHN) / ZHOU Bin (CHN),OMORI Takahiro (JPN) / TANIGUCHI Yuji (JPN),ZHANG Jike
+Japan Open Kobe 2002,2002-09-12,KAYAMA Hyogo/TAKAMORI Hidero,MONRAD Martin/SORENSEN Mads,3,0,"11,11,16|5,9,14",QR16,GRAND_SLAM,MD,1423,Qualification,KAYAMA Hyogo (JPN) / TAKAMORI Hidero (JPN),MONRAD Martin (DEN) / SORENSEN Mads (DEN),KAYAMA Hyogo
+Japan Open Kobe 2002,2002-09-12,CHOU Tung-Yu/HUANG Wei-Chin,JOVER Sebastien/MARTINEZ Michel,3,0,"15,11,11|13,9,7",QR32,GRAND_SLAM,MD,1423,Qualification,CHOU Tung-Yu (TPE) / HUANG Wei-Chin (TPE),JOVER Sebastien (FRA) / MARTINEZ Michel (FRA),CHOU Tung-Yu
+Japan Open Kobe 2002,2002-09-12,CABESTANY Cedrik/CHILA Patrick,ARAI Shu/KIHO Shinnosuke,4,3,"9,12,11,11,11,9,11|11,14,9,7,5,11,8",R16,GRAND_SLAM,MD,1423,Main Draw,CABESTANY Cedrik (FRA) / CHILA Patrick (FRA),ARAI Shu (JPN) / KIHO Shinnosuke (JPN),CABESTANY Cedrik
+Japan Open Kobe 2002,2002-09-12,ELOI Damien/LEGOUT Christophe,KORBEL Petr/KREANGA Kalinikos,4,2,"11,11,8,11,8,11|8,4,11,8,11,8",R16,GRAND_SLAM,MD,1423,Main Draw,ELOI Damien (FRA) / LEGOUT Christophe (FRA),KORBEL Petr (CZE) / KREANGA Kalinikos (GRE),ELOI Damien
+Japan Open Kobe 2002,2002-09-12,CABESTANY Cedrik/CHILA Patrick,BENTSEN Allan/TUGWELL Finn,4,0,"11,11,12,11|4,7,10,7",QF,GRAND_SLAM,MD,1423,Main Draw,CABESTANY Cedrik (FRA) / CHILA Patrick (FRA),BENTSEN Allan (DEN) / TUGWELL Finn (DEN),CABESTANY Cedrik
+Japan Open Kobe 2002,2002-09-12,ELOI Damien/LEGOUT Christophe,HAKANSSON Fredrik/KARLSSON Peter,4,2,"7,11,9,11,11,11|11,2,11,9,9,9",QF,GRAND_SLAM,MD,1423,Main Draw,ELOI Damien (FRA) / LEGOUT Christophe (FRA),HAKANSSON Fredrik (SWE) / KARLSSON Peter (SWE),ELOI Damien
+Japan Open Kobe 2002,2002-09-12,BOLL Timo/STEGER Bastian,ELOI Damien/LEGOUT Christophe,4,2,"2,6,11,11,11,11|11,11,7,9,6,9",SF,GRAND_SLAM,MD,1423,Main Draw,BOLL Timo (GER) / STEGER Bastian (GER),ELOI Damien (FRA) / LEGOUT Christophe (FRA),BOLL Timo
+Japan Open Kobe 2002,2002-09-12,BOLL Timo/STEGER Bastian,KISHIKAWA Seiya/SAKAMOTO Ryusuke,4,2,"7,12,11,3,11,12|11,10,6,11,9,10",R16,GRAND_SLAM,MD,1423,Main Draw,BOLL Timo (GER) / STEGER Bastian (GER),KISHIKAWA Seiya (JPN) / SAKAMOTO Ryusuke (JPN),BOLL Timo
+Japan Open Kobe 2002,2002-09-12,BOLL Timo/STEGER Bastian,CHANG Yen-Shu/CHIANG Peng-Lung,4,1,"11,6,11,11,11|7,11,3,8,9",QF,GRAND_SLAM,MD,1423,Main Draw,BOLL Timo (GER) / STEGER Bastian (GER),CHANG Yen-Shu (TPE) / CHIANG Peng-Lung (TPE),BOLL Timo
+Japan Open Kobe 2002,2002-09-12,KORBEL Petr/KREANGA Kalinikos,ZHANG Jike/ZHOU Bin,3,1,"5,11,11,11|11,7,8,8",QR16,GRAND_SLAM,MD,1423,Qualification,KORBEL Petr (CZE) / KREANGA Kalinikos (GRE),ZHANG Jike (CHN) / ZHOU Bin (CHN),KORBEL Petr
+Japan Open Kobe 2002,2002-09-12,KAYAMA Hyogo/TAKAMORI Hidero,KIM Gunhwan/YOO Changjae,3,1,"3,11,11,11|11,6,7,8",QR32,GRAND_SLAM,MD,1423,Qualification,KAYAMA Hyogo (JPN) / TAKAMORI Hidero (JPN),KIM Gunhwan (KOR) / YOO Changjae (KOR),KAYAMA Hyogo
+Japan Open Kobe 2002,2002-09-12,ARAI Shu/KIHO Shinnosuke,LAI Kuan-Shen/WU Chih-Chi,3,1,"11,11,6,11|5,8,11,6",QR32,GRAND_SLAM,MD,1423,Qualification,ARAI Shu (JPN) / KIHO Shinnosuke (JPN),LAI Kuan-Shen (TPE) / WU Chih-Chi (TPE),ARAI Shu
+Japan Open Kobe 2002,2002-09-12,KIM Seung Hun/YANG Heesuk,SANADA Koji/YUZAWA Ryo,3,1,"12,4,12,11|10,11,10,5",QR32,GRAND_SLAM,MD,1423,Qualification,KIM Seung Hun (KOR) / YANG Heesuk (KOR),SANADA Koji (JPN) / YUZAWA Ryo (JPN),KIM Seung Hun
+Japan Open Kobe 2002,2002-09-12,ARAI Shu/KIHO Shinnosuke,GARDOS Robert/KEINATH Thomas,3,1,"5,11,11,11|11,7,3,3",QR16,GRAND_SLAM,MD,1423,Qualification,ARAI Shu (JPN) / KIHO Shinnosuke (JPN),GARDOS Robert (AUT) / KEINATH Thomas (SVK),ARAI Shu
+Japan Open Kobe 2002,2002-09-12,BENTSEN Allan/TUGWELL Finn,KAYAMA Hyogo/TAKAMORI Hidero,4,0,"11,11,11,11|7,1,5,9",R16,GRAND_SLAM,MD,1423,Main Draw,BENTSEN Allan (DEN) / TUGWELL Finn (DEN),KAYAMA Hyogo (JPN) / TAKAMORI Hidero (JPN),BENTSEN Allan
+Japan Open Kobe 2002,2002-09-12,KITO Akira/TASAKI Toshio,CABESTANY Cedrik/CHILA Patrick,4,1,"8,12,11,11,11|11,10,6,8,8",SF,GRAND_SLAM,MD,1423,Main Draw,KITO Akira (JPN) / TASAKI Toshio (JPN),CABESTANY Cedrik (FRA) / CHILA Patrick (FRA),KITO Akira
+Japan Open Kobe 2002,2002-09-12,KITO Akira/TASAKI Toshio,BOLL Timo/STEGER Bastian,4,3,"11,3,11,9,11,7,11|8,11,4,11,8,11,6",F,GRAND_SLAM,MD,1423,Main Draw,KITO Akira (JPN) / TASAKI Toshio (JPN),BOLL Timo (GER) / STEGER Bastian (GER),KITO Akira
+Japan Open Kobe 2002,2002-09-12,KO Junhyung/LEE Jungjae,CIOTI Constantin/ERLANDSEN Geir,3,1,"13,11,11,11|15,7,9,4",QR32,GRAND_SLAM,MD,1423,Qualification,KO Junhyung (KOR) / LEE Jungjae (KOR),CIOTI Constantin (ROU) / ERLANDSEN Geir (NOR),KO Junhyung
+Japan Open Kobe 2002,2002-09-12,CRISAN Adrian/SMIRNOV Alexey,KIM Seung Hun/YANG Heesuk,3,0,"11,13,11|6,11,9",QR16,GRAND_SLAM,MD,1423,Qualification,CRISAN Adrian (ROU) / SMIRNOV Alexey (RUS),KIM Seung Hun (KOR) / YANG Heesuk (KOR),CRISAN Adrian
+Japan Open Kobe 2002,2002-09-12,CHANG Yen-Shu/CHIANG Peng-Lung,CRISAN Adrian/SMIRNOV Alexey,4,0,"11,11,11,11|8,3,7,8",R16,GRAND_SLAM,MD,1423,Main Draw,CHANG Yen-Shu (TPE) / CHIANG Peng-Lung (TPE),CRISAN Adrian (ROU) / SMIRNOV Alexey (RUS),CHANG Yen-Shu
+Japan Open Kobe 2002,2002-09-12,LUNDQVIST Jens/MOLIN Magnus,KO Junhyung/LEE Jungjae,3,2,"7,11,7,18,11|11,7,11,16,2",QR16,GRAND_SLAM,MD,1423,Qualification,LUNDQVIST Jens (SWE) / MOLIN Magnus (SWE),KO Junhyung (KOR) / LEE Jungjae (KOR),LUNDQVIST Jens
+Japan Open Kobe 2002,2002-09-12,SU Chu-Chao/SU Chi-Young,OLLIVIER Brice/QUENTEL Dorian,3,0,"12,11,11|10,6,3",QR32,GRAND_SLAM,MD,1423,Qualification,SU Chu-Chao (TPE) / SU Chi-Young (TPE),OLLIVIER Brice (FRA) / QUENTEL Dorian (FRA),SU Chu-Chao
+Japan Open Kobe 2002,2002-09-12,KISHIKAWA Seiya/SAKAMOTO Ryusuke,CHOU Tung-Yu/HUANG Wei-Chin,3,0,"11,11,11|5,4,6",QR16,GRAND_SLAM,MD,1423,Qualification,KISHIKAWA Seiya (JPN) / SAKAMOTO Ryusuke (JPN),CHOU Tung-Yu (TPE) / HUANG Wei-Chin (TPE),KISHIKAWA Seiya
+Japan Open Kobe 2002,2002-09-12,CHEN Cheng-Kao/CHUANG Chih-Yuan,SU Chu-Chao/SU Chi-Young,3,0,"11,11,11|9,9,8",QR16,GRAND_SLAM,MD,1423,Qualification,CHEN Cheng-Kao (TPE) / CHUANG Chih-Yuan (TPE),SU Chu-Chao (TPE) / SU Chi-Young (TPE),CHEN Cheng-Kao
+Japan Open Kobe 2002,2002-09-12,HAKANSSON Fredrik/KARLSSON Peter,CHEN Cheng-Kao/CHUANG Chih-Yuan,4,3,"6,11,11,9,11,9,11|11,5,7,11,8,11,7",R16,GRAND_SLAM,MD,1423,Main Draw,HAKANSSON Fredrik (SWE) / KARLSSON Peter (SWE),CHEN Cheng-Kao (TPE) / CHUANG Chih-Yuan (TPE),HAKANSSON Fredrik
+Japan Open Kobe 2002,2002-09-12,QIU Yike/ZENG Cem,CHOI Hyunjin/KIM Junghoon,3,2,"11,11,7,8,13|9,5,11,11,11",QR32,GRAND_SLAM,MD,1423,Qualification,QIU Yike (CHN) / ZENG Cem (TUR),CHOI Hyunjin (KOR) / KIM Junghoon (KOR),QIU Yike
+Japan Open Kobe 2002,2002-09-12,NEMES Olga/STRUSE Nicole,CHANG Chenchen/ZHANG Xiaoyu (1986),4,1,"11,11,11,10,11|8,6,6,12,7",R16,GRAND_SLAM,WD,1423,Main Draw,NEMES Olga (ROU) / STRUSE Nicole (GER),CHANG Chenchen (CHN) / ZHANG Xiaoyu (1986) (CHN),NEMES Olga
+Japan Open Kobe 2002,2002-09-12,HIRANO Sayaka/TASEI Mikie,COSTES Agathe/MIE Anne-Claire,4,1,"11,11,6,11,11|7,6,11,7,5",R16,GRAND_SLAM,WD,1423,Main Draw,HIRANO Sayaka (JPN) / TASEI Mikie (JPN),COSTES Agathe (FRA) / MIE Anne-Claire (FRA),HIRANO Sayaka
+Japan Open Kobe 2002,2002-09-12,JING Junhong/LI Jiawei,KRAMER Tanja/ROBERTSON Laura,4,0,"11,11,11,11|5,9,7,5",R16,GRAND_SLAM,WD,1423,Main Draw,JING Junhong (SGP) / LI Jiawei (SGP),KRAMER Tanja (GER) / ROBERTSON Laura (GER),JING Junhong
+Japan Open Kobe 2002,2002-09-12,ITO Midori/SUGITA Sanae,PAN Chun-Chu/SU Hsien-Ching,3,0,"11,11,11|8,4,7",QR16,GRAND_SLAM,WD,1423,Qualification,ITO Midori (JPN) / SUGITA Sanae (JPN),PAN Chun-Chu (TPE) / SU Hsien-Ching (TPE),ITO Midori
+Japan Open Kobe 2002,2002-09-12,FUKUHARA Ai/KONISHI An,XIN Xing Xing/ZHANG Xueling,4,1,"11,11,9,11,11|7,6,11,6,6",R16,GRAND_SLAM,WD,1423,Main Draw,FUKUHARA Ai (JPN) / KONISHI An (JPN),XIN Xing Xing (SGP) / ZHANG Xueling (SGP),FUKUHARA Ai
+Japan Open Kobe 2002,2002-09-12,FUJINUMA Ai/HIURA Reiko,LI Qian/PENG Luyang,4,2,"9,11,11,12,12,11|11,6,4,10,14,6",R16,GRAND_SLAM,WD,1423,Main Draw,FUJINUMA Ai (JPN) / HIURA Reiko (JPN),LI Qian (POL) / PENG Luyang (CHN),FUJINUMA Ai
+Japan Open Kobe 2002,2002-09-12,NEMES Olga/STRUSE Nicole,FUKUHARA Ai/KONISHI An,4,3,"11,12,8,3,11,12,11|7,10,11,11,7,14,5",QF,GRAND_SLAM,WD,1423,Main Draw,NEMES Olga (ROU) / STRUSE Nicole (GER),FUKUHARA Ai (JPN) / KONISHI An (JPN),NEMES Olga
+Japan Open Kobe 2002,2002-09-12,KISHIDA Satoko/UMEMURA Aya,FUJINUMA Ai/HIURA Reiko,4,2,"11,5,2,11,11,11|6,11,11,7,8,9",QF,GRAND_SLAM,WD,1423,Main Draw,KISHIDA Satoko (JPN) / UMEMURA Aya (JPN),FUJINUMA Ai (JPN) / HIURA Reiko (JPN),KISHIDA Satoko
+Japan Open Kobe 2002,2002-09-12,JING Junhong/LI Jiawei,HIRANO Sayaka/TASEI Mikie,4,3,"8,5,11,11,9,11,11|11,11,6,4,11,5,2",QF,GRAND_SLAM,WD,1423,Main Draw,JING Junhong (SGP) / LI Jiawei (SGP),HIRANO Sayaka (JPN) / TASEI Mikie (JPN),JING Junhong
+Japan Open Kobe 2002,2002-09-12,JING Junhong/LI Jiawei,KISHIDA Satoko/UMEMURA Aya,4,3,"6,11,6,9,11,11,12|11,8,11,11,7,9,10",SF,GRAND_SLAM,WD,1423,Main Draw,JING Junhong (SGP) / LI Jiawei (SGP),KISHIDA Satoko (JPN) / UMEMURA Aya (JPN),JING Junhong
+Japan Open Kobe 2002,2002-09-12,POHAR Martina/IMAFUKU Kumi,KIM Kyungha/PARK Kyungae (II),3,1,"11,9,11,11|9,11,6,9",QR16,GRAND_SLAM,WD,1423,Qualification,POHAR Martina (SLO) / IMAFUKU Kumi (JPN),KIM Kyungha (KOR) / PARK Kyungae (II) (KOR),POHAR Martina
+Japan Open Kobe 2002,2002-09-12,CHANG Chenchen/ZHANG Xiaoyu (1986),KWON Hyunjoo/JEON Hyekyung,3,2,"11,3,12,11,11|6,11,14,3,4",QR16,GRAND_SLAM,WD,1423,Qualification,CHANG Chenchen (CHN) / ZHANG Xiaoyu (1986) (CHN),KWON Hyunjoo (KOR) / JEON Hyekyung (KOR),CHANG Chenchen
+Japan Open Kobe 2002,2002-09-12,PENG Luyang/LI Qian,LEE Hyangmi/SUK Solji,3,1,"11,4,15,11|9,11,13,7",QR16,GRAND_SLAM,WD,1423,Qualification,PENG Luyang (CHN) / LI Qian (POL),LEE Hyangmi (KOR) / SUK Solji (KOR),PENG Luyang
+Japan Open Kobe 2002,2002-09-12,KIM Bokrae/KIM Kyungah,ITO Midori/SUGITA Sanae,4,0,"11,11,11,11|8,6,7,8",R16,GRAND_SLAM,WD,1423,Main Draw,KIM Bokrae (KOR) / KIM Kyungah (KOR),ITO Midori (JPN) / SUGITA Sanae (JPN),KIM Bokrae
+Japan Open Kobe 2002,2002-09-12,KIM Bokrae/KIM Kyungah,HUANG Yi-Hua/LU Yun-Feng,4,1,"11,11,11,8,11|4,6,6,11,5",QF,GRAND_SLAM,WD,1423,Main Draw,KIM Bokrae (KOR) / KIM Kyungah (KOR),HUANG Yi-Hua (TPE) / LU Yun-Feng (TPE),KIM Bokrae
+Japan Open Kobe 2002,2002-09-12,KIM Bokrae/KIM Kyungah,NEMES Olga/STRUSE Nicole,4,1,"11,11,11,11,11|13,1,6,9,7",SF,GRAND_SLAM,WD,1423,Main Draw,KIM Bokrae (KOR) / KIM Kyungah (KOR),NEMES Olga (ROU) / STRUSE Nicole (GER),KIM Bokrae
+Japan Open Kobe 2002,2002-09-12,JING Junhong/LI Jiawei,KIM Bokrae/KIM Kyungah,4,0,"11,11,11,15|9,7,6,13",F,GRAND_SLAM,WD,1423,Main Draw,JING Junhong (SGP) / LI Jiawei (SGP),KIM Bokrae (KOR) / KIM Kyungah (KOR),JING Junhong
+Japan Open Kobe 2002,2002-09-12,ZHANG Xiaoyu (1986)/XIN Xing Xing,DING Ying/WANG Shan,3,0,"11,11,11|4,6,5",QR16,GRAND_SLAM,WD,1423,Qualification,ZHANG Xiaoyu (1986) (CHN) / XIN Xing Xing (SGP),DING Ying (CHN) / WANG Shan (CHN),ZHANG Xiaoyu (1986)
+Japan Open Kobe 2002,2002-09-12,KISHIDA Satoko/UMEMURA Aya,IMAFUKU Kumi/POHAR Martina,4,3,"10,11,12,8,11,8,11|12,3,10,11,7,11,8",R16,GRAND_SLAM,WD,1423,Main Draw,KISHIDA Satoko (JPN) / UMEMURA Aya (JPN),IMAFUKU Kumi (JPN) / POHAR Martina (SLO),KISHIDA Satoko
+Japan Open Kobe 2002,2002-09-12,LU Yun-Feng/HUANG Yi-Hua,YOON Jihye/JUNG Sunyong,3,0,"11,12,11|9,10,9",QR16,GRAND_SLAM,WD,1423,Qualification,LU Yun-Feng (TPE) / HUANG Yi-Hua (TPE),YOON Jihye (KOR) / JUNG Sunyong (KOR),LU Yun-Feng
+Japan Open Kobe 2002,2002-09-12,HUANG Yi-Hua/LU Yun-Feng,GOURIN Anne-Sophie/LEGAY Solene,4,0,"13,11,11,11|11,9,5,9",R16,GRAND_SLAM,WD,1423,Main Draw,HUANG Yi-Hua (TPE) / LU Yun-Feng (TPE),GOURIN Anne-Sophie (FRA) / LEGAY Solene (FRA),HUANG Yi-Hua

@@ -1,0 +1,240 @@
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Korean Open Gangneung 2002,2002-09-05,CHOI Hyunjin,KITO Akira,4,1,"11,9,11,11,12|7,11,8,6,10",,GRAND_SLAM,MS,1422,Qualification,CHOI Hyunjin (KOR),KITO Akira (JPN),CHOI Hyunjin
+Korean Open Gangneung 2002,2002-09-05,SHMYREV Maxim,KITO Akira,4,1,"11,8,11,11,16|7,11,9,3,14",QR2,GRAND_SLAM,MS,1422,Qualification,SHMYREV Maxim (RUS),KITO Akira (JPN),SHMYREV Maxim
+Korean Open Gangneung 2002,2002-09-05,CHOI Hyunjin,SHMYREV Maxim,4,2,"5,11,11,11,10,11|11,6,4,8,12,9",3,GRAND_SLAM,MS,1422,Qualification,CHOI Hyunjin (KOR),SHMYREV Maxim (RUS),CHOI Hyunjin
+Korean Open Gangneung 2002,2002-09-05,CAI Xiaoli,KISHIKAWA Seiya,4,1,"5,11,11,11,11|11,6,6,8,2",,GRAND_SLAM,MS,1422,Qualification,CAI Xiaoli (SGP),KISHIKAWA Seiya (JPN),CAI Xiaoli
+Korean Open Gangneung 2002,2002-09-05,MOLIN Magnus,KISHIKAWA Seiya,4,0,"11,11,11,11|3,5,5,7",QR2,GRAND_SLAM,MS,1422,Qualification,MOLIN Magnus (SWE),KISHIKAWA Seiya (JPN),MOLIN Magnus
+Korean Open Gangneung 2002,2002-09-05,MOLIN Magnus,CAI Xiaoli,4,1,"11,11,11,6,13|4,3,3,11,11",3,GRAND_SLAM,MS,1422,Qualification,MOLIN Magnus (SWE),CAI Xiaoli (SGP),MOLIN Magnus
+Korean Open Gangneung 2002,2002-09-05,KURASHIMA Yosuke,WU Chih-Chi,4,1,"11,8,11,11,12|7,11,1,5,10",,GRAND_SLAM,MS,1422,Qualification,KURASHIMA Yosuke (JPN),WU Chih-Chi (TPE),KURASHIMA Yosuke
+Korean Open Gangneung 2002,2002-09-05,STEGER Bastian,KURASHIMA Yosuke,4,2,"11,9,7,13,11,11|3,11,11,11,6,7",QR2,GRAND_SLAM,MS,1422,Qualification,STEGER Bastian (GER),KURASHIMA Yosuke (JPN),STEGER Bastian
+Korean Open Gangneung 2002,2002-09-05,STEGER Bastian,WU Chih-Chi,4,0,"11,11,11,11|5,8,6,7",3,GRAND_SLAM,MS,1422,Qualification,STEGER Bastian (GER),WU Chih-Chi (TPE),STEGER Bastian
+Korean Open Gangneung 2002,2002-09-05,KIM Junghoon,LAI Kuan-Shen,4,0,"11,11,11,11|7,4,5,4",,GRAND_SLAM,MS,1422,Qualification,KIM Junghoon (KOR),LAI Kuan-Shen (TPE),KIM Junghoon
+Korean Open Gangneung 2002,2002-09-05,YUZAWA Ryo,LAI Kuan-Shen,4,0,"11,11,14,11|9,8,12,5",QR2,GRAND_SLAM,MS,1422,Qualification,YUZAWA Ryo (JPN),LAI Kuan-Shen (TPE),YUZAWA Ryo
+Korean Open Gangneung 2002,2002-09-05,YUZAWA Ryo,KIM Junghoon,4,2,"11,11,11,8,9,12|6,8,8,11,11,10",3,GRAND_SLAM,MS,1422,Qualification,YUZAWA Ryo (JPN),KIM Junghoon (KOR),YUZAWA Ryo
+Korean Open Gangneung 2002,2002-09-05,SEO Dongchul,OLLIVIER Brice,4,2,"9,10,11,12,12,11|11,12,8,10,10,8",,GRAND_SLAM,MS,1422,Qualification,SEO Dongchul (KOR),OLLIVIER Brice (FRA),SEO Dongchul
+Korean Open Gangneung 2002,2002-09-05,MONRAD Martin,SEO Dongchul,4,0,"11,12,14,11|7,10,12,8",QR2,GRAND_SLAM,MS,1422,Qualification,MONRAD Martin (DEN),SEO Dongchul (KOR),MONRAD Martin
+Korean Open Gangneung 2002,2002-09-05,MONRAD Martin,OLLIVIER Brice,4,0,"11,11,12,11|7,6,10,9",3,GRAND_SLAM,MS,1422,Qualification,MONRAD Martin (DEN),OLLIVIER Brice (FRA),MONRAD Martin
+Korean Open Gangneung 2002,2002-09-05,YANG Heesuk,TOKUMURA Tomohiko,4,3,"11,11,8,11,5,5,11|7,8,11,8,11,11,7",,GRAND_SLAM,MS,1422,Qualification,YANG Heesuk (KOR),TOKUMURA Tomohiko (JPN),YANG Heesuk
+Korean Open Gangneung 2002,2002-09-05,GARDOS Robert,TOKUMURA Tomohiko,4,1,"12,11,11,9,11|10,9,6,11,3",QR2,GRAND_SLAM,MS,1422,Qualification,GARDOS Robert (AUT),TOKUMURA Tomohiko (JPN),GARDOS Robert
+Korean Open Gangneung 2002,2002-09-05,YANG Heesuk,GARDOS Robert,4,2,"11,11,10,8,11,11|5,9,12,11,2,5",3,GRAND_SLAM,MS,1422,Qualification,YANG Heesuk (KOR),GARDOS Robert (AUT),YANG Heesuk
+Korean Open Gangneung 2002,2002-09-05,QUENTEL Dorian,KO Junhyung,4,2,"8,11,14,7,11,11|11,9,12,11,5,9",,GRAND_SLAM,MS,1422,Qualification,QUENTEL Dorian (FRA),KO Junhyung (KOR),QUENTEL Dorian
+Korean Open Gangneung 2002,2002-09-05,KIHO Shinnosuke,KO Junhyung,4,0,"11,16,11,11|8,14,8,8",QR2,GRAND_SLAM,MS,1422,Qualification,KIHO Shinnosuke (JPN),KO Junhyung (KOR),KIHO Shinnosuke
+Korean Open Gangneung 2002,2002-09-05,KIHO Shinnosuke,QUENTEL Dorian,4,1,"6,11,11,11,11|11,8,6,5,5",3,GRAND_SLAM,MS,1422,Qualification,KIHO Shinnosuke (JPN),QUENTEL Dorian (FRA),KIHO Shinnosuke
+Korean Open Gangneung 2002,2002-09-05,LEE Jungwoo,SAKAMOTO Ryusuke,4,2,"11,6,11,9,12,11|4,11,9,11,10,6",,GRAND_SLAM,MS,1422,Qualification,LEE Jungwoo (KOR),SAKAMOTO Ryusuke (JPN),LEE Jungwoo
+Korean Open Gangneung 2002,2002-09-05,TUGWELL Finn,LEE Jungwoo,4,0,"11,11,11,11|7,6,6,9",QR2,GRAND_SLAM,MS,1422,Qualification,TUGWELL Finn (DEN),LEE Jungwoo (KOR),TUGWELL Finn
+Korean Open Gangneung 2002,2002-09-05,TUGWELL Finn,SAKAMOTO Ryusuke,4,2,"12,11,6,9,11,11|10,9,11,11,8,7",3,GRAND_SLAM,MS,1422,Qualification,TUGWELL Finn (DEN),SAKAMOTO Ryusuke (JPN),TUGWELL Finn
+Korean Open Gangneung 2002,2002-09-05,KIM Seung Hun,CHEN Cheng-Kao,4,3,"6,11,11,11,7,18,11|11,13,7,6,11,16,8",,GRAND_SLAM,MS,1422,Qualification,KIM Seung Hun (KOR),CHEN Cheng-Kao (TPE),KIM Seung Hun
+Korean Open Gangneung 2002,2002-09-05,ARAI Shu,CHEN Cheng-Kao,4,1,"9,13,13,11,11|11,11,11,4,4",QR2,GRAND_SLAM,MS,1422,Qualification,ARAI Shu (JPN),CHEN Cheng-Kao (TPE),ARAI Shu
+Korean Open Gangneung 2002,2002-09-05,KIM Seung Hun,ARAI Shu,4,3,"11,11,6,8,2,11,11|8,5,11,11,11,4,4",3,GRAND_SLAM,MS,1422,Qualification,KIM Seung Hun (KOR),ARAI Shu (JPN),KIM Seung Hun
+Korean Open Gangneung 2002,2002-09-05,CLOSSET Marc,LIM Jaehyun,4,3,"12,8,11,13,8,13,11|10,11,9,11,11,15,6",,GRAND_SLAM,MS,1422,Qualification,CLOSSET Marc (BEL),LIM Jaehyun (KOR),CLOSSET Marc
+Korean Open Gangneung 2002,2002-09-05,DUAN Yongjun,LIM Jaehyun,4,2,"11,10,11,11,11,13|7,12,8,7,13,11",QR2,GRAND_SLAM,MS,1422,Qualification,DUAN Yongjun (SGP),LIM Jaehyun (KOR),DUAN Yongjun
+Korean Open Gangneung 2002,2002-09-05,CLOSSET Marc,DUAN Yongjun,4,3,"4,11,11,9,10,11,11|11,6,3,11,12,9,5",3,GRAND_SLAM,MS,1422,Qualification,CLOSSET Marc (BEL),DUAN Yongjun (SGP),CLOSSET Marc
+Korean Open Gangneung 2002,2002-09-05,CIOTI Constantin,MATSUSHITA Eishi,4,2,"11,11,6,11,8,11|7,7,11,7,11,5",,GRAND_SLAM,MS,1422,Qualification,CIOTI Constantin (ROU),MATSUSHITA Eishi (JPN),CIOTI Constantin
+Korean Open Gangneung 2002,2002-09-05,CABESTANY Cedrik,MATSUSHITA Eishi,4,1,"11,11,12,8,11|7,5,10,11,8",QR2,GRAND_SLAM,MS,1422,Qualification,CABESTANY Cedrik (FRA),MATSUSHITA Eishi (JPN),CABESTANY Cedrik
+Korean Open Gangneung 2002,2002-09-05,CIOTI Constantin,CABESTANY Cedrik,4,0,"11,11,11,11|6,6,5,6",3,GRAND_SLAM,MS,1422,Qualification,CIOTI Constantin (ROU),CABESTANY Cedrik (FRA),CIOTI Constantin
+Korean Open Gangneung 2002,2002-09-05,JOVER Sebastien,CHOU Tung-Yu,4,2,"11,14,9,11,11,11|4,16,11,6,4,8",,GRAND_SLAM,MS,1422,Qualification,JOVER Sebastien (FRA),CHOU Tung-Yu (TPE),JOVER Sebastien
+Korean Open Gangneung 2002,2002-09-05,SANADA Koji,CHOU Tung-Yu,4,0,"13,11,12,11|11,7,10,3",QR2,GRAND_SLAM,MS,1422,Qualification,SANADA Koji (JPN),CHOU Tung-Yu (TPE),SANADA Koji
+Korean Open Gangneung 2002,2002-09-05,SANADA Koji,JOVER Sebastien,4,2,"11,11,11,8,12,11|7,7,6,11,14,9",3,GRAND_SLAM,MS,1422,Qualification,SANADA Koji (JPN),JOVER Sebastien (FRA),SANADA Koji
+Korean Open Gangneung 2002,2002-09-05,KUZMIN Fedor,HUANG Wei-Chin,4,3,"12,11,7,6,11,5,11|10,8,11,11,3,11,5",,GRAND_SLAM,MS,1422,Qualification,KUZMIN Fedor (RUS),HUANG Wei-Chin (TPE),KUZMIN Fedor
+Korean Open Gangneung 2002,2002-09-05,YOON Jaeyoung,HUANG Wei-Chin,4,0,"11,11,11,15|3,4,3,13",QR2,GRAND_SLAM,MS,1422,Qualification,YOON Jaeyoung (KOR),HUANG Wei-Chin (TPE),YOON Jaeyoung
+Korean Open Gangneung 2002,2002-09-05,YOON Jaeyoung,KUZMIN Fedor,4,3,"9,4,17,11,11,2,11|11,11,15,5,3,11,8",3,GRAND_SLAM,MS,1422,Qualification,YOON Jaeyoung (KOR),KUZMIN Fedor (RUS),YOON Jaeyoung
+Korean Open Gangneung 2002,2002-09-05,TANG Peng,MARTINEZ Michel,4,1,"10,11,11,11,11|12,3,8,4,6",,GRAND_SLAM,MS,1422,Qualification,TANG Peng (HKG),MARTINEZ Michel (FRA),TANG Peng
+Korean Open Gangneung 2002,2002-09-05,JINDRAK Karl,SU Chu-Chao,4,0,"11,13,11,11|4,11,9,8",QR2,GRAND_SLAM,MS,1422,Qualification,JINDRAK Karl (AUT),SU Chu-Chao (TPE),JINDRAK Karl
+Korean Open Gangneung 2002,2002-09-05,MARTINEZ Michel,SU Chu-Chao,4,0,"12,11,11,11|10,8,9,7",3,GRAND_SLAM,MS,1422,Qualification,MARTINEZ Michel (FRA),SU Chu-Chao (TPE),MARTINEZ Michel
+Korean Open Gangneung 2002,2002-09-05,TANG Peng,JINDRAK Karl,4,2,"9,12,12,11,8,11|11,10,10,5,11,3",QR4,GRAND_SLAM,MS,1422,Qualification,TANG Peng (HKG),JINDRAK Karl (AUT),TANG Peng
+Korean Open Gangneung 2002,2002-09-05,JINDRAK Karl,MARTINEZ Michel,4,3,"14,11,4,7,11,5,11|12,6,11,11,2,11,4",5,GRAND_SLAM,MS,1422,Qualification,JINDRAK Karl (AUT),MARTINEZ Michel (FRA),JINDRAK Karl
+Korean Open Gangneung 2002,2002-09-05,TANG Peng,SU Chu-Chao,4,0,"11,11,11,11|3,5,7,3",6,GRAND_SLAM,MS,1422,Qualification,TANG Peng (HKG),SU Chu-Chao (TPE),TANG Peng
+Korean Open Gangneung 2002,2002-09-05,KIM Bongchul,MANTEGAZZA Fabio,4,0,"11,11,11,11|3,8,5,7",,GRAND_SLAM,MS,1422,Qualification,KIM Bongchul (KOR),MANTEGAZZA Fabio (ITA),KIM Bongchul
+Korean Open Gangneung 2002,2002-09-05,SORENSEN Mads,SU Chi-Young,4,3,"14,2,11,11,11,10,11|16,11,8,5,7,12,8",QR2,GRAND_SLAM,MS,1422,Qualification,SORENSEN Mads (DEN),SU Chi-Young (TPE),SORENSEN Mads
+Korean Open Gangneung 2002,2002-09-05,KIM Bongchul,SU Chi-Young,4,0,"11,11,11,11|5,7,7,7",3,GRAND_SLAM,MS,1422,Qualification,KIM Bongchul (KOR),SU Chi-Young (TPE),KIM Bongchul
+Korean Open Gangneung 2002,2002-09-05,SORENSEN Mads,MANTEGAZZA Fabio,4,2,"11,11,9,11,10,11|5,5,11,7,12,5",QR4,GRAND_SLAM,MS,1422,Qualification,SORENSEN Mads (DEN),MANTEGAZZA Fabio (ITA),SORENSEN Mads
+Korean Open Gangneung 2002,2002-09-05,KIM Bongchul,SORENSEN Mads,4,1,"10,11,12,11,11|12,7,10,6,9",5,GRAND_SLAM,MS,1422,Qualification,KIM Bongchul (KOR),SORENSEN Mads (DEN),KIM Bongchul
+Korean Open Gangneung 2002,2002-09-05,MANTEGAZZA Fabio,SU Chi-Young,4,2,"11,11,11,5,3,11|7,7,5,11,11,7",6,GRAND_SLAM,MS,1422,Qualification,MANTEGAZZA Fabio (ITA),SU Chi-Young (TPE),MANTEGAZZA Fabio
+Korean Open Gangneung 2002,2002-09-05,SCHLAGER Werner,CABESTANY Cedrik,4,0,"11,11,11,11|5,7,4,7",R64,GRAND_SLAM,MS,1422,Main Draw,SCHLAGER Werner (AUT),CABESTANY Cedrik (FRA),SCHLAGER Werner
+Korean Open Gangneung 2002,2002-09-05,CHOI Hyunjin,KEINATH Thomas,4,2,"7,14,11,12,10,11|11,12,7,10,12,6",R64,GRAND_SLAM,MS,1422,Main Draw,CHOI Hyunjin (KOR),KEINATH Thomas (SVK),CHOI Hyunjin
+Korean Open Gangneung 2002,2002-09-05,SHAN Mingjie,KIM Bongchul,4,0,"11,13,15,11|3,11,13,7",R64,GRAND_SLAM,MS,1422,Main Draw,SHAN Mingjie (CHN),KIM Bongchul (KOR),SHAN Mingjie
+Korean Open Gangneung 2002,2002-09-05,ELOI Damien,CAI Xiaoli,4,0,"11,11,11,11|8,9,3,8",R64,GRAND_SLAM,MS,1422,Main Draw,ELOI Damien (FRA),CAI Xiaoli (SGP),ELOI Damien
+Korean Open Gangneung 2002,2002-09-05,LEE Chulseung,KURASHIMA Yosuke,4,1,"11,11,9,11,11|7,4,11,5,9",R64,GRAND_SLAM,MS,1422,Main Draw,LEE Chulseung (KOR),KURASHIMA Yosuke (JPN),LEE Chulseung
+Korean Open Gangneung 2002,2002-09-05,YANG Heesuk,CRISAN Adrian,4,0,"11,11,11,11|4,8,9,8",R64,GRAND_SLAM,MS,1422,Main Draw,YANG Heesuk (KOR),CRISAN Adrian (ROU),YANG Heesuk
+Korean Open Gangneung 2002,2002-09-05,ERLANDSEN Geir,YUZAWA Ryo,4,1,"11,11,17,8,11|6,6,15,11,8",R64,GRAND_SLAM,MS,1422,Main Draw,ERLANDSEN Geir (NOR),YUZAWA Ryo (JPN),ERLANDSEN Geir
+Korean Open Gangneung 2002,2002-09-05,CHEUNG Yuk,KIM Junghoon,4,2,"12,11,7,11,9,11|10,6,11,4,11,8",R64,GRAND_SLAM,MS,1422,Main Draw,CHEUNG Yuk (HKG),KIM Junghoon (KOR),CHEUNG Yuk
+Korean Open Gangneung 2002,2002-09-05,RYU Seungmin,MANTEGAZZA Fabio,4,0,"11,11,11,11|4,6,9,6",R64,GRAND_SLAM,MS,1422,Main Draw,RYU Seungmin (KOR),MANTEGAZZA Fabio (ITA),RYU Seungmin
+Korean Open Gangneung 2002,2002-09-05,LI Ching,CLOSSET Marc,4,0,"11,11,11,12|5,5,6,10",R64,GRAND_SLAM,MS,1422,Main Draw,LI Ching (HKG),CLOSSET Marc (BEL),LI Ching
+Korean Open Gangneung 2002,2002-09-05,SAIVE Philippe,SANADA Koji,4,0,"11,11,11,11|3,3,4,4",R64,GRAND_SLAM,MS,1422,Main Draw,SAIVE Philippe (BEL),SANADA Koji (JPN),SAIVE Philippe
+Korean Open Gangneung 2002,2002-09-05,HEISTER Danny,DUAN Yongjun,4,2,"11,11,11,11,10,11|13,8,6,8,12,4",R64,GRAND_SLAM,MS,1422,Main Draw,HEISTER Danny (NED),DUAN Yongjun (SGP),HEISTER Danny
+Korean Open Gangneung 2002,2002-09-05,LEGOUT Christophe,GARDOS Robert,4,1,"12,11,8,11,11|10,9,11,6,8",R64,GRAND_SLAM,MS,1422,Main Draw,LEGOUT Christophe (FRA),GARDOS Robert (AUT),LEGOUT Christophe
+Korean Open Gangneung 2002,2002-09-05,LUNDQVIST Jens,KIM Seung Hun,4,1,"11,11,9,11,11|8,8,11,6,5",R64,GRAND_SLAM,MS,1422,Main Draw,LUNDQVIST Jens (SWE),KIM Seung Hun (KOR),LUNDQVIST Jens
+Korean Open Gangneung 2002,2002-09-05,CIOTI Constantin,BENTSEN Allan,4,3,"11,8,3,5,11,11,11|6,11,11,11,7,9,9",R64,GRAND_SLAM,MS,1422,Main Draw,CIOTI Constantin (ROU),BENTSEN Allan (DEN),CIOTI Constantin
+Korean Open Gangneung 2002,2002-09-05,CHIANG Peng-Lung,QUENTEL Dorian,4,0,"11,11,11,11|5,8,3,8",R64,GRAND_SLAM,MS,1422,Main Draw,CHIANG Peng-Lung (TPE),QUENTEL Dorian (FRA),CHIANG Peng-Lung
+Korean Open Gangneung 2002,2002-09-05,KIM Taeksoo,ARAI Shu,4,0,"11,11,11,11|8,3,3,9",R64,GRAND_SLAM,MS,1422,Main Draw,KIM Taeksoo (KOR),ARAI Shu (JPN),KIM Taeksoo
+Korean Open Gangneung 2002,2002-09-05,KO Lai Chak,MONRAD Martin,4,2,"11,11,13,6,7,11|4,9,11,11,11,9",R64,GRAND_SLAM,MS,1422,Main Draw,KO Lai Chak (HKG),MONRAD Martin (DEN),KO Lai Chak
+Korean Open Gangneung 2002,2002-09-05,MAZE Michael,JINDRAK Karl,4,0,"11,12,13,11|8,10,11,2",R64,GRAND_SLAM,MS,1422,Main Draw,MAZE Michael (DEN),JINDRAK Karl (AUT),MAZE Michael
+Korean Open Gangneung 2002,2002-09-05,HAKANSSON Fredrik,SORENSEN Mads,4,2,"2,11,2,11,13,11|11,9,11,9,11,7",R64,GRAND_SLAM,MS,1422,Main Draw,HAKANSSON Fredrik (SWE),SORENSEN Mads (DEN),HAKANSSON Fredrik
+Korean Open Gangneung 2002,2002-09-05,SEO Dongchul,CHANG Yen-Shu,4,1,"11,8,11,12,11|9,11,9,10,7",R64,GRAND_SLAM,MS,1422,Main Draw,SEO Dongchul (KOR),CHANG Yen-Shu (TPE),SEO Dongchul
+Korean Open Gangneung 2002,2002-09-05,TASAKI Toshio,MOLIN Magnus,4,2,"11,9,8,11,11,11|6,11,11,9,5,9",R64,GRAND_SLAM,MS,1422,Main Draw,TASAKI Toshio (JPN),MOLIN Magnus (SWE),TASAKI Toshio
+Korean Open Gangneung 2002,2002-09-05,TUGWELL Finn,KIM Gunhwan,4,3,"9,9,8,14,11,11,11|11,11,11,12,3,9,6",R64,GRAND_SLAM,MS,1422,Main Draw,TUGWELL Finn (DEN),KIM Gunhwan (KOR),TUGWELL Finn
+Korean Open Gangneung 2002,2002-09-05,CHUANG Chih-Yuan,LEE Jungwoo,4,1,"11,11,11,8,11|6,8,7,11,7",R64,GRAND_SLAM,MS,1422,Main Draw,CHUANG Chih-Yuan (TPE),LEE Jungwoo (KOR),CHUANG Chih-Yuan
+Korean Open Gangneung 2002,2002-09-05,OH Sangeun,KUZMIN Fedor,4,0,"11,11,11,12|9,8,4,10",R64,GRAND_SLAM,MS,1422,Main Draw,OH Sangeun (KOR),KUZMIN Fedor (RUS),OH Sangeun
+Korean Open Gangneung 2002,2002-09-05,TANG Peng,LEUNG Chu Yan,4,0,"11,12,11,11|8,10,9,4",R64,GRAND_SLAM,MS,1422,Main Draw,TANG Peng (HKG),LEUNG Chu Yan (HKG),TANG Peng
+Korean Open Gangneung 2002,2002-09-05,BRATANOV Martin,YOON Jaeyoung,4,1,"11,14,11,9,13|9,12,3,11,11",R64,GRAND_SLAM,MS,1422,Main Draw,BRATANOV Martin (BEL),YOON Jaeyoung (KOR),BRATANOV Martin
+Korean Open Gangneung 2002,2002-09-05,SMIRNOV Alexey,JOVER Sebastien,4,2,"11,11,5,14,9,11|5,8,11,12,11,7",R64,GRAND_SLAM,MS,1422,Main Draw,SMIRNOV Alexey (RUS),JOVER Sebastien (FRA),SMIRNOV Alexey
+Korean Open Gangneung 2002,2002-09-05,CHILA Patrick,SAKAMOTO Ryusuke,4,1,"11,9,11,11,11|8,11,1,8,7",R64,GRAND_SLAM,MS,1422,Main Draw,CHILA Patrick (FRA),SAKAMOTO Ryusuke (JPN),CHILA Patrick
+Korean Open Gangneung 2002,2002-09-05,MATSUSHITA Koji,STEGER Bastian,4,1,"11,7,11,11,11|4,11,5,9,8",R64,GRAND_SLAM,MS,1422,Main Draw,MATSUSHITA Koji (JPN),STEGER Bastian (GER),MATSUSHITA Koji
+Korean Open Gangneung 2002,2002-09-05,JOO Saehyuk,KIHO Shinnosuke,4,3,"17,11,11,9,10,8,11|15,7,4,11,12,11,7",R64,GRAND_SLAM,MS,1422,Main Draw,JOO Saehyuk (KOR),KIHO Shinnosuke (JPN),JOO Saehyuk
+Korean Open Gangneung 2002,2002-09-05,BOLL Timo,SHMYREV Maxim,4,2,"11,11,6,10,12,11|9,2,11,12,10,7",R64,GRAND_SLAM,MS,1422,Main Draw,BOLL Timo (GER),SHMYREV Maxim (RUS),BOLL Timo
+Korean Open Gangneung 2002,2002-09-05,SCHLAGER Werner,CHOI Hyunjin,4,0,"11,11,12,11|8,6,10,8",R32,GRAND_SLAM,MS,1422,Main Draw,SCHLAGER Werner (AUT),CHOI Hyunjin (KOR),SCHLAGER Werner
+Korean Open Gangneung 2002,2002-09-05,SHAN Mingjie,ELOI Damien,4,2,"11,11,10,11,6,11|7,5,12,8,11,3",R32,GRAND_SLAM,MS,1422,Main Draw,SHAN Mingjie (CHN),ELOI Damien (FRA),SHAN Mingjie
+Korean Open Gangneung 2002,2002-09-05,LEE Chulseung,YANG Heesuk,4,2,"11,10,11,12,6,11|4,12,6,10,11,8",R32,GRAND_SLAM,MS,1422,Main Draw,LEE Chulseung (KOR),YANG Heesuk (KOR),LEE Chulseung
+Korean Open Gangneung 2002,2002-09-05,CHEUNG Yuk,ERLANDSEN Geir,4,1,"11,9,16,11,11|6,11,14,9,7",R32,GRAND_SLAM,MS,1422,Main Draw,CHEUNG Yuk (HKG),ERLANDSEN Geir (NOR),CHEUNG Yuk
+Korean Open Gangneung 2002,2002-09-05,RYU Seungmin,LI Ching,4,3,"11,12,11,9,11,5,11|8,14,6,11,8,11,9",R32,GRAND_SLAM,MS,1422,Main Draw,RYU Seungmin (KOR),LI Ching (HKG),RYU Seungmin
+Korean Open Gangneung 2002,2002-09-05,HEISTER Danny,SAIVE Philippe,4,2,"14,6,9,11,11,11|12,11,11,2,6,9",R32,GRAND_SLAM,MS,1422,Main Draw,HEISTER Danny (NED),SAIVE Philippe (BEL),HEISTER Danny
+Korean Open Gangneung 2002,2002-09-05,LUNDQVIST Jens,LEGOUT Christophe,4,3,"11,8,10,3,11,11,11|7,11,12,11,8,7,4",R32,GRAND_SLAM,MS,1422,Main Draw,LUNDQVIST Jens (SWE),LEGOUT Christophe (FRA),LUNDQVIST Jens
+Korean Open Gangneung 2002,2002-09-05,CHIANG Peng-Lung,CIOTI Constantin,4,2,"11,11,6,11,9,17|8,7,11,8,11,15",R32,GRAND_SLAM,MS,1422,Main Draw,CHIANG Peng-Lung (TPE),CIOTI Constantin (ROU),CHIANG Peng-Lung
+Korean Open Gangneung 2002,2002-09-05,KO Lai Chak,KIM Taeksoo,4,3,"11,7,6,5,12,11,11|7,11,11,11,10,7,4",R32,GRAND_SLAM,MS,1422,Main Draw,KO Lai Chak (HKG),KIM Taeksoo (KOR),KO Lai Chak
+Korean Open Gangneung 2002,2002-09-05,MAZE Michael,HAKANSSON Fredrik,4,1,"11,3,11,11,11|5,11,5,9,5",R32,GRAND_SLAM,MS,1422,Main Draw,MAZE Michael (DEN),HAKANSSON Fredrik (SWE),MAZE Michael
+Korean Open Gangneung 2002,2002-09-05,SEO Dongchul,TASAKI Toshio,4,1,"11,12,5,11,12|6,10,11,3,10",R32,GRAND_SLAM,MS,1422,Main Draw,SEO Dongchul (KOR),TASAKI Toshio (JPN),SEO Dongchul
+Korean Open Gangneung 2002,2002-09-05,CHUANG Chih-Yuan,TUGWELL Finn,4,1,"11,11,11,4,11|6,4,4,11,9",R32,GRAND_SLAM,MS,1422,Main Draw,CHUANG Chih-Yuan (TPE),TUGWELL Finn (DEN),CHUANG Chih-Yuan
+Korean Open Gangneung 2002,2002-09-05,TANG Peng,OH Sangeun,4,0,"11,12,11,11|2,10,5,7",R32,GRAND_SLAM,MS,1422,Main Draw,TANG Peng (HKG),OH Sangeun (KOR),TANG Peng
+Korean Open Gangneung 2002,2002-09-05,SMIRNOV Alexey,BRATANOV Martin,4,2,"11,8,13,14,8,11|8,11,11,12,11,3",R32,GRAND_SLAM,MS,1422,Main Draw,SMIRNOV Alexey (RUS),BRATANOV Martin (BEL),SMIRNOV Alexey
+Korean Open Gangneung 2002,2002-09-05,CHILA Patrick,MATSUSHITA Koji,4,0,"11,12,12,11|7,10,10,7",R32,GRAND_SLAM,MS,1422,Main Draw,CHILA Patrick (FRA),MATSUSHITA Koji (JPN),CHILA Patrick
+Korean Open Gangneung 2002,2002-09-05,BOLL Timo,JOO Saehyuk,4,3,"11,8,11,14,11,4,11|5,11,7,16,9,11,8",R32,GRAND_SLAM,MS,1422,Main Draw,BOLL Timo (GER),JOO Saehyuk (KOR),BOLL Timo
+Korean Open Gangneung 2002,2002-09-05,SCHLAGER Werner,SHAN Mingjie,4,1,"12,11,11,12,11|10,9,7,14,7",R16,GRAND_SLAM,MS,1422,Main Draw,SCHLAGER Werner (AUT),SHAN Mingjie (CHN),SCHLAGER Werner
+Korean Open Gangneung 2002,2002-09-05,CHEUNG Yuk,LEE Chulseung,4,2,"11,9,11,11,4,13|9,11,6,8,11,11",R16,GRAND_SLAM,MS,1422,Main Draw,CHEUNG Yuk (HKG),LEE Chulseung (KOR),CHEUNG Yuk
+Korean Open Gangneung 2002,2002-09-05,RYU Seungmin,HEISTER Danny,4,1,"8,11,11,11,11|11,4,6,4,7",R16,GRAND_SLAM,MS,1422,Main Draw,RYU Seungmin (KOR),HEISTER Danny (NED),RYU Seungmin
+Korean Open Gangneung 2002,2002-09-05,CHIANG Peng-Lung,LUNDQVIST Jens,4,0,"11,11,11,11|4,3,8,9",R16,GRAND_SLAM,MS,1422,Main Draw,CHIANG Peng-Lung (TPE),LUNDQVIST Jens (SWE),CHIANG Peng-Lung
+Korean Open Gangneung 2002,2002-09-05,KO Lai Chak,MAZE Michael,4,2,"11,8,6,12,11,11|7,11,11,10,4,8",R16,GRAND_SLAM,MS,1422,Main Draw,KO Lai Chak (HKG),MAZE Michael (DEN),KO Lai Chak
+Korean Open Gangneung 2002,2002-09-05,CHUANG Chih-Yuan,SEO Dongchul,4,1,"11,11,11,8,18|6,7,2,11,16",R16,GRAND_SLAM,MS,1422,Main Draw,CHUANG Chih-Yuan (TPE),SEO Dongchul (KOR),CHUANG Chih-Yuan
+Korean Open Gangneung 2002,2002-09-05,TANG Peng,SMIRNOV Alexey,4,2,"14,5,12,11,6,11|12,11,10,9,11,9",R16,GRAND_SLAM,MS,1422,Main Draw,TANG Peng (HKG),SMIRNOV Alexey (RUS),TANG Peng
+Korean Open Gangneung 2002,2002-09-05,BOLL Timo,CHILA Patrick,4,1,"11,11,11,11,12|7,13,8,6,10",R16,GRAND_SLAM,MS,1422,Main Draw,BOLL Timo (GER),CHILA Patrick (FRA),BOLL Timo
+Korean Open Gangneung 2002,2002-09-05,SCHLAGER Werner,CHEUNG Yuk,4,1,"12,6,11,11,11|10,11,9,9,8",QF,GRAND_SLAM,MS,1422,Main Draw,SCHLAGER Werner (AUT),CHEUNG Yuk (HKG),SCHLAGER Werner
+Korean Open Gangneung 2002,2002-09-05,RYU Seungmin,CHIANG Peng-Lung,4,3,"6,12,8,8,11,11,11|11,10,11,11,7,9,6",QF,GRAND_SLAM,MS,1422,Main Draw,RYU Seungmin (KOR),CHIANG Peng-Lung (TPE),RYU Seungmin
+Korean Open Gangneung 2002,2002-09-05,KO Lai Chak,CHUANG Chih-Yuan,4,2,"9,11,13,5,11,11|11,3,11,11,7,9",QF,GRAND_SLAM,MS,1422,Main Draw,KO Lai Chak (HKG),CHUANG Chih-Yuan (TPE),KO Lai Chak
+Korean Open Gangneung 2002,2002-09-05,BOLL Timo,TANG Peng,4,3,"10,11,7,14,7,14,11|12,9,11,12,11,12,8",QF,GRAND_SLAM,MS,1422,Main Draw,BOLL Timo (GER),TANG Peng (HKG),BOLL Timo
+Korean Open Gangneung 2002,2002-09-05,SCHLAGER Werner,RYU Seungmin,4,1,"11,11,11,7,11|5,4,3,11,9",SF,GRAND_SLAM,MS,1422,Main Draw,SCHLAGER Werner (AUT),RYU Seungmin (KOR),SCHLAGER Werner
+Korean Open Gangneung 2002,2002-09-05,BOLL Timo,KO Lai Chak,4,0,"11,11,11,11|9,9,9,2",SF,GRAND_SLAM,MS,1422,Main Draw,BOLL Timo (GER),KO Lai Chak (HKG),BOLL Timo
+Korean Open Gangneung 2002,2002-09-05,SCHLAGER Werner,BOLL Timo,4,2,"11,7,11,15,5,12|7,11,7,13,11,10",F,GRAND_SLAM,MS,1422,Main Draw,SCHLAGER Werner (AUT),BOLL Timo (GER),SCHLAGER Werner
+Korean Open Gangneung 2002,2002-09-05,LEE Hyangmi,MIE Anne-Claire,4,3,"11,7,8,8,11,14,11|7,11,11,11,6,12,4",,GRAND_SLAM,WS,1422,Qualification,LEE Hyangmi (KOR),MIE Anne-Claire (FRA),LEE Hyangmi
+Korean Open Gangneung 2002,2002-09-05,FUJINUMA Ai,LEE Hyangmi,4,3,"12,12,11,11,11,10,11|14,10,6,5,13,12,7",QR2,GRAND_SLAM,WS,1422,Qualification,FUJINUMA Ai (JPN),LEE Hyangmi (KOR),FUJINUMA Ai
+Korean Open Gangneung 2002,2002-09-05,FUJINUMA Ai,MIE Anne-Claire,4,0,"11,16,11,11|4,14,9,6",3,GRAND_SLAM,WS,1422,Qualification,FUJINUMA Ai (JPN),MIE Anne-Claire (FRA),FUJINUMA Ai
+Korean Open Gangneung 2002,2002-09-05,PARK Kyungae (II),COSTES Agathe,4,3,"11,11,8,9,11,11,11|13,7,11,11,6,7,7",,GRAND_SLAM,WS,1422,Qualification,PARK Kyungae (II) (KOR),COSTES Agathe (FRA),PARK Kyungae (II)
+Korean Open Gangneung 2002,2002-09-05,TASEI Mikie,COSTES Agathe,4,0,"11,11,11,11|3,6,5,6",QR2,GRAND_SLAM,WS,1422,Qualification,TASEI Mikie (JPN),COSTES Agathe (FRA),TASEI Mikie
+Korean Open Gangneung 2002,2002-09-05,TASEI Mikie,PARK Kyungae (II),4,2,"11,9,7,11,11,11|3,11,11,4,5,7",3,GRAND_SLAM,WS,1422,Qualification,TASEI Mikie (JPN),PARK Kyungae (II) (KOR),TASEI Mikie
+Korean Open Gangneung 2002,2002-09-05,HAN Kwangsun,ROBERTSON Laura,4,0,"11,11,11,11|5,9,3,7",,GRAND_SLAM,WS,1422,Qualification,HAN Kwangsun (KOR),ROBERTSON Laura (GER),HAN Kwangsun
+Korean Open Gangneung 2002,2002-09-05,GAO Xi,ROBERTSON Laura,4,0,"11,11,11,13|7,9,6,11",QR2,GRAND_SLAM,WS,1422,Qualification,GAO Xi (CHN),ROBERTSON Laura (GER),GAO Xi
+Korean Open Gangneung 2002,2002-09-05,GAO Xi,HAN Kwangsun,4,2,"12,11,6,11,10,11|10,3,11,4,12,7",3,GRAND_SLAM,WS,1422,Qualification,GAO Xi (CHN),HAN Kwangsun (KOR),GAO Xi
+Korean Open Gangneung 2002,2002-09-05,KIM Kyungah,LEGAY Solene,4,1,"12,13,11,11,11|10,11,7,13,8",,GRAND_SLAM,WS,1422,Qualification,KIM Kyungah (KOR),LEGAY Solene (FRA),KIM Kyungah
+Korean Open Gangneung 2002,2002-09-05,ZHANG Rui,LEGAY Solene,4,1,"11,11,6,11,11|5,6,11,3,7",QR2,GRAND_SLAM,WS,1422,Qualification,ZHANG Rui (HKG),LEGAY Solene (FRA),ZHANG Rui
+Korean Open Gangneung 2002,2002-09-05,KIM Kyungah,ZHANG Rui,4,1,"11,6,11,11,12|8,11,2,7,10",3,GRAND_SLAM,WS,1422,Qualification,KIM Kyungah (KOR),ZHANG Rui (HKG),KIM Kyungah
+Korean Open Gangneung 2002,2002-09-05,FAN Ying,SUK Solji,4,2,"11,7,11,11,11,11|7,11,6,6,13,9",,GRAND_SLAM,WS,1422,Qualification,FAN Ying (CHN),SUK Solji (KOR),FAN Ying
+Korean Open Gangneung 2002,2002-09-05,SUK Solji,WONG Ching,4,0,"11,11,13,11|5,5,11,6",QR2,GRAND_SLAM,WS,1422,Qualification,SUK Solji (KOR),WONG Ching (HKG),SUK Solji
+Korean Open Gangneung 2002,2002-09-05,FAN Ying,WONG Ching,4,2,"11,9,11,15,9,11|8,11,3,13,11,8",3,GRAND_SLAM,WS,1422,Qualification,FAN Ying (CHN),WONG Ching (HKG),FAN Ying
+Korean Open Gangneung 2002,2002-09-05,MOON Hyunjung,LU Yun-Feng,4,0,"11,12,11,11|6,10,7,8",,GRAND_SLAM,WS,1422,Qualification,MOON Hyunjung (KOR),LU Yun-Feng (TPE),MOON Hyunjung
+Korean Open Gangneung 2002,2002-09-05,SONG Ah Sim,MOON Hyunjung,4,1,"12,11,11,2,16|10,6,2,11,14",QR2,GRAND_SLAM,WS,1422,Qualification,SONG Ah Sim (HKG),MOON Hyunjung (KOR),SONG Ah Sim
+Korean Open Gangneung 2002,2002-09-05,LU Yun-Feng,SONG Ah Sim,4,3,"7,12,11,5,10,11,12|11,10,7,11,12,3,10",3,GRAND_SLAM,WS,1422,Qualification,LU Yun-Feng (TPE),SONG Ah Sim (HKG),LU Yun-Feng
+Korean Open Gangneung 2002,2002-09-05,KRAMER Tanja,SUH Hyo Won,4,1,"11,11,7,11,11|8,8,11,6,9",,GRAND_SLAM,WS,1422,Qualification,KRAMER Tanja (GER),SUH Hyo Won (KOR),KRAMER Tanja
+Korean Open Gangneung 2002,2002-09-05,KWAK Bangbang,SUH Hyo Won,4,0,"11,11,11,11|6,5,6,6",QR2,GRAND_SLAM,WS,1422,Qualification,KWAK Bangbang (KOR),SUH Hyo Won (KOR),KWAK Bangbang
+Korean Open Gangneung 2002,2002-09-05,KWAK Bangbang,KRAMER Tanja,4,1,"11,8,11,11,11|7,11,4,4,5",3,GRAND_SLAM,WS,1422,Qualification,KWAK Bangbang (KOR),KRAMER Tanja (GER),KWAK Bangbang
+Korean Open Gangneung 2002,2002-09-05,KWON Hyunjoo,WAN Hsin-Lung,4,2,"10,11,11,12,11,12|12,3,5,14,4,10",,GRAND_SLAM,WS,1422,Qualification,KWON Hyunjoo (KOR),WAN Hsin-Lung (TPE),KWON Hyunjoo
+Korean Open Gangneung 2002,2002-09-05,ZHANG Xueling,WAN Hsin-Lung,4,2,"11,18,9,11,11,11|13,16,11,2,7,7",QR2,GRAND_SLAM,WS,1422,Qualification,ZHANG Xueling (SGP),WAN Hsin-Lung (TPE),ZHANG Xueling
+Korean Open Gangneung 2002,2002-09-05,ZHANG Xueling,KWON Hyunjoo,4,2,"11,7,12,11,16,11|7,11,14,9,14,5",3,GRAND_SLAM,WS,1422,Qualification,ZHANG Xueling (SGP),KWON Hyunjoo (KOR),ZHANG Xueling
+Korean Open Gangneung 2002,2002-09-05,FUKUHARA Ai,YU Mei-Ju,4,0,"11,11,11,12|0,7,8,10",,GRAND_SLAM,WS,1422,Qualification,FUKUHARA Ai (JPN),YU Mei-Ju (TPE),FUKUHARA Ai
+Korean Open Gangneung 2002,2002-09-05,KO Somi,GOURIN Anne-Sophie,4,1,"11,11,11,9,11|8,7,7,11,7",QR2,GRAND_SLAM,WS,1422,Qualification,KO Somi (KOR),GOURIN Anne-Sophie (FRA),KO Somi
+Korean Open Gangneung 2002,2002-09-05,FUKUHARA Ai,KO Somi,4,2,"11,11,11,9,10,11|7,9,7,11,12,6",3,GRAND_SLAM,WS,1422,Qualification,FUKUHARA Ai (JPN),KO Somi (KOR),FUKUHARA Ai
+Korean Open Gangneung 2002,2002-09-05,GOURIN Anne-Sophie,YU Mei-Ju,4,3,"7,12,11,11,7,8,11|11,10,5,7,11,11,3",QR4,GRAND_SLAM,WS,1422,Qualification,GOURIN Anne-Sophie (FRA),YU Mei-Ju (TPE),GOURIN Anne-Sophie
+Korean Open Gangneung 2002,2002-09-05,FUKUHARA Ai,GOURIN Anne-Sophie,4,2,"11,8,11,5,11,11|8,11,6,11,6,5",5,GRAND_SLAM,WS,1422,Qualification,FUKUHARA Ai (JPN),GOURIN Anne-Sophie (FRA),FUKUHARA Ai
+Korean Open Gangneung 2002,2002-09-05,KO Somi,YU Mei-Ju,4,0,"11,11,11,11|8,4,7,6",6,GRAND_SLAM,WS,1422,Qualification,KO Somi (KOR),YU Mei-Ju (TPE),KO Somi
+Korean Open Gangneung 2002,2002-09-05,PARK Miyoung,PARK Chara,4,0,"11,11,11,11|2,8,6,7",,GRAND_SLAM,WS,1422,Qualification,PARK Miyoung (KOR),PARK Chara (KOR),PARK Miyoung
+Korean Open Gangneung 2002,2002-09-05,HIURA Reiko,SU Hsien-Ching,4,0,"11,11,11,11|4,2,9,9",QR2,GRAND_SLAM,WS,1422,Qualification,HIURA Reiko (JPN),SU Hsien-Ching (TPE),HIURA Reiko
+Korean Open Gangneung 2002,2002-09-05,PARK Miyoung,SU Hsien-Ching,4,0,"11,11,11,11|4,5,8,7",3,GRAND_SLAM,WS,1422,Qualification,PARK Miyoung (KOR),SU Hsien-Ching (TPE),PARK Miyoung
+Korean Open Gangneung 2002,2002-09-05,HIURA Reiko,PARK Chara,4,1,"11,11,9,11,11|8,5,11,9,6",QR4,GRAND_SLAM,WS,1422,Qualification,HIURA Reiko (JPN),PARK Chara (KOR),HIURA Reiko
+Korean Open Gangneung 2002,2002-09-05,PARK Miyoung,HIURA Reiko,4,0,"12,11,11,11|10,8,6,7",5,GRAND_SLAM,WS,1422,Qualification,PARK Miyoung (KOR),HIURA Reiko (JPN),PARK Miyoung
+Korean Open Gangneung 2002,2002-09-05,PARK Chara,SU Hsien-Ching,4,1,"11,11,11,5,11|8,5,7,11,9",6,GRAND_SLAM,WS,1422,Qualification,PARK Chara (KOR),SU Hsien-Ching (TPE),PARK Chara
+Korean Open Gangneung 2002,2002-09-05,BOROS Tamara,FUKUHARA Ai,4,0,"12,11,11,11|10,7,8,6",R32,GRAND_SLAM,WS,1422,Main Draw,BOROS Tamara (CRO),FUKUHARA Ai (JPN),BOROS Tamara
+Korean Open Gangneung 2002,2002-09-05,SONG Ah Sim,BAI Yang,4,2,"13,11,5,15,11,11|11,13,11,13,8,6",R32,GRAND_SLAM,WS,1422,Main Draw,SONG Ah Sim (HKG),BAI Yang (CHN),SONG Ah Sim
+Korean Open Gangneung 2002,2002-09-05,KIM Bokrae,TASEI Mikie,4,0,"11,11,11,11|3,4,9,5",R32,GRAND_SLAM,WS,1422,Main Draw,KIM Bokrae (KOR),TASEI Mikie (JPN),KIM Bokrae
+Korean Open Gangneung 2002,2002-09-05,TIE Yana,SUK Solji,4,0,"11,11,11,11|8,4,7,3",R32,GRAND_SLAM,WS,1422,Main Draw,TIE Yana (HKG),SUK Solji (KOR),TIE Yana
+Korean Open Gangneung 2002,2002-09-05,HIURA Reiko,JING Junhong,4,3,"6,9,3,11,11,11,11|11,11,11,9,7,9,8",R32,GRAND_SLAM,WS,1422,Main Draw,HIURA Reiko (JPN),JING Junhong (SGP),HIURA Reiko
+Korean Open Gangneung 2002,2002-09-05,LEE Eunsil,ZHANG Xueling,4,3,"5,6,11,6,11,11,11|11,11,9,11,6,7,8",R32,GRAND_SLAM,WS,1422,Main Draw,LEE Eunsil (KOR),ZHANG Xueling (SGP),LEE Eunsil
+Korean Open Gangneung 2002,2002-09-05,KWAK Bangbang,KIM Mookyo,4,0,"12,11,11,12|10,9,8,10",R32,GRAND_SLAM,WS,1422,Main Draw,KWAK Bangbang (KOR),KIM Mookyo (KOR),KWAK Bangbang
+Korean Open Gangneung 2002,2002-09-05,RYU Jihae,KRAMER Tanja,4,0,"11,11,11,11|6,4,9,7",R32,GRAND_SLAM,WS,1422,Main Draw,RYU Jihae (KOR),KRAMER Tanja (GER),RYU Jihae
+Korean Open Gangneung 2002,2002-09-05,LI Jiawei,PARK Kyungae (II),4,3,"8,11,5,8,11,11,12|11,8,11,11,8,2,10",R32,GRAND_SLAM,WS,1422,Main Draw,LI Jiawei (SGP),PARK Kyungae (II) (KOR),LI Jiawei
+Korean Open Gangneung 2002,2002-09-05,KIM Kyungha,STRUSE Nicole,4,2,"11,11,11,5,11,11|7,7,6,11,13,6",R32,GRAND_SLAM,WS,1422,Main Draw,KIM Kyungha (KOR),STRUSE Nicole (GER),KIM Kyungha
+Korean Open Gangneung 2002,2002-09-05,JIANG Huajun,FUJINUMA Ai,4,1,"11,9,11,11,11|8,11,6,9,9",R32,GRAND_SLAM,WS,1422,Main Draw,JIANG Huajun (HKG),FUJINUMA Ai (JPN),JIANG Huajun
+Korean Open Gangneung 2002,2002-09-05,ZHANG Rui,GUO Yan (1982),4,1,"11,11,2,11,11|4,5,11,7,3",R32,GRAND_SLAM,WS,1422,Main Draw,ZHANG Rui (HKG),GUO Yan (1982) (CHN),ZHANG Rui
+Korean Open Gangneung 2002,2002-09-05,LAU Sui Fei,PARK Miyoung,4,2,"9,7,11,11,11,11|11,11,5,3,9,8",R32,GRAND_SLAM,WS,1422,Main Draw,LAU Sui Fei (HKG),PARK Miyoung (KOR),LAU Sui Fei
+Korean Open Gangneung 2002,2002-09-05,KIM Kyungah,GAO Xi,4,1,"11,11,13,8,11|5,7,11,11,7",R32,GRAND_SLAM,WS,1422,Main Draw,KIM Kyungah (KOR),GAO Xi (CHN),KIM Kyungah
+Korean Open Gangneung 2002,2002-09-05,FAN Ying,KONISHI An,4,2,"11,6,12,7,11,11|5,11,10,11,9,6",R32,GRAND_SLAM,WS,1422,Main Draw,FAN Ying (CHN),KONISHI An (JPN),FAN Ying
+Korean Open Gangneung 2002,2002-09-05,LIN Ling,KO Somi,4,0,"11,11,11,11|3,9,6,3",R32,GRAND_SLAM,WS,1422,Main Draw,LIN Ling (HKG),KO Somi (KOR),LIN Ling
+Korean Open Gangneung 2002,2002-09-05,BOROS Tamara,SONG Ah Sim,4,3,"7,9,11,11,3,11,11|11,11,7,8,11,6,8",R16,GRAND_SLAM,WS,1422,Main Draw,BOROS Tamara (CRO),SONG Ah Sim (HKG),BOROS Tamara
+Korean Open Gangneung 2002,2002-09-05,TIE Yana,KIM Bokrae,4,3,"11,12,8,9,14,5,12|5,10,11,11,12,11,10",R16,GRAND_SLAM,WS,1422,Main Draw,TIE Yana (HKG),KIM Bokrae (KOR),TIE Yana
+Korean Open Gangneung 2002,2002-09-05,LEE Eunsil,HIURA Reiko,4,0,"11,12,11,11|8,10,9,7",R16,GRAND_SLAM,WS,1422,Main Draw,LEE Eunsil (KOR),HIURA Reiko (JPN),LEE Eunsil
+Korean Open Gangneung 2002,2002-09-05,RYU Jihae,KWAK Bangbang,4,2,"9,11,7,11,11,11|11,3,11,8,7,4",R16,GRAND_SLAM,WS,1422,Main Draw,RYU Jihae (KOR),KWAK Bangbang (KOR),RYU Jihae
+Korean Open Gangneung 2002,2002-09-05,LI Jiawei,KIM Kyungha,4,0,"11,11,11,11|7,5,7,8",R16,GRAND_SLAM,WS,1422,Main Draw,LI Jiawei (SGP),KIM Kyungha (KOR),LI Jiawei
+Korean Open Gangneung 2002,2002-09-05,JIANG Huajun,ZHANG Rui,4,3,"3,7,11,10,11,11,12|11,11,7,12,6,7,10",R16,GRAND_SLAM,WS,1422,Main Draw,JIANG Huajun (HKG),ZHANG Rui (HKG),JIANG Huajun
+Korean Open Gangneung 2002,2002-09-05,KIM Kyungah,LAU Sui Fei,4,3,"4,6,9,15,11,16,11|11,11,11,13,6,14,3",R16,GRAND_SLAM,WS,1422,Main Draw,KIM Kyungah (KOR),LAU Sui Fei (HKG),KIM Kyungah
+Korean Open Gangneung 2002,2002-09-05,LIN Ling,FAN Ying,4,1,"11,9,11,11,11|8,11,7,8,7",R16,GRAND_SLAM,WS,1422,Main Draw,LIN Ling (HKG),FAN Ying (CHN),LIN Ling
+Korean Open Gangneung 2002,2002-09-05,TIE Yana,BOROS Tamara,4,3,"11,11,8,11,7,7,11|5,8,11,4,11,11,5",QF,GRAND_SLAM,WS,1422,Main Draw,TIE Yana (HKG),BOROS Tamara (CRO),TIE Yana
+Korean Open Gangneung 2002,2002-09-05,RYU Jihae,LEE Eunsil,4,1,"11,12,12,3,11|8,10,10,11,4",QF,GRAND_SLAM,WS,1422,Main Draw,RYU Jihae (KOR),LEE Eunsil (KOR),RYU Jihae
+Korean Open Gangneung 2002,2002-09-05,JIANG Huajun,LI Jiawei,4,1,"11,11,6,13,11|5,8,11,11,9",QF,GRAND_SLAM,WS,1422,Main Draw,JIANG Huajun (HKG),LI Jiawei (SGP),JIANG Huajun
+Korean Open Gangneung 2002,2002-09-05,LIN Ling,KIM Kyungah,4,0,"11,11,11,11|4,5,8,8",QF,GRAND_SLAM,WS,1422,Main Draw,LIN Ling (HKG),KIM Kyungah (KOR),LIN Ling
+Korean Open Gangneung 2002,2002-09-05,TIE Yana,RYU Jihae,4,1,"11,11,11,11,11|5,13,4,7,9",SF,GRAND_SLAM,WS,1422,Main Draw,TIE Yana (HKG),RYU Jihae (KOR),TIE Yana
+Korean Open Gangneung 2002,2002-09-05,JIANG Huajun,LIN Ling,4,1,"11,7,11,11,11|7,11,7,6,4",SF,GRAND_SLAM,WS,1422,Main Draw,JIANG Huajun (HKG),LIN Ling (HKG),JIANG Huajun
+Korean Open Gangneung 2002,2002-09-05,TIE Yana,JIANG Huajun,4,2,"6,11,13,0,11,11|11,6,11,11,3,6",F,GRAND_SLAM,WS,1422,Main Draw,TIE Yana (HKG),JIANG Huajun (HKG),TIE Yana
+Korean Open Gangneung 2002,2002-09-05,JINDRAK Karl/SCHLAGER Werner,SANADA Koji/YUZAWA Ryo,4,1,"12,5,11,11,11|10,11,6,4,9",R16,GRAND_SLAM,MD,1422,Main Draw,JINDRAK Karl (AUT) / SCHLAGER Werner (AUT),SANADA Koji (JPN) / YUZAWA Ryo (JPN),JINDRAK Karl
+Korean Open Gangneung 2002,2002-09-05,JINDRAK Karl/SCHLAGER Werner,LEE Chulseung/RYU Seungmin,4,0,"11,11,12,13|6,9,10,11",QF,GRAND_SLAM,MD,1422,Main Draw,JINDRAK Karl (AUT) / SCHLAGER Werner (AUT),LEE Chulseung (KOR) / RYU Seungmin (KOR),JINDRAK Karl
+Korean Open Gangneung 2002,2002-09-05,BRATANOV Martin/SAIVE Philippe,CIOTI Constantin/CHUANG Chih-Yuan,3,1,"11,13,12,11|8,11,14,7",QR32,GRAND_SLAM,MD,1422,Qualification,BRATANOV Martin (BEL) / SAIVE Philippe (BEL),CIOTI Constantin (ROU) / CHUANG Chih-Yuan (TPE),BRATANOV Martin
+Korean Open Gangneung 2002,2002-09-05,ELOI Damien/LEGOUT Christophe,BRATANOV Martin/SAIVE Philippe,4,1,"11,9,11,11,12|3,11,6,6,10",R16,GRAND_SLAM,MD,1422,Main Draw,ELOI Damien (FRA) / LEGOUT Christophe (FRA),BRATANOV Martin (BEL) / SAIVE Philippe (BEL),ELOI Damien
+Korean Open Gangneung 2002,2002-09-05,SHAN Mingjie/TANG Peng,MONRAD Martin/SORENSEN Mads,3,0,"11,11,11|9,5,8",QR32,GRAND_SLAM,MD,1422,Qualification,SHAN Mingjie (CHN) / TANG Peng (HKG),MONRAD Martin (DEN) / SORENSEN Mads (DEN),SHAN Mingjie
+Korean Open Gangneung 2002,2002-09-05,JOVER Sebastien/MARTINEZ Michel,ARAI Shu/CLOSSET Marc,3,1,"12,5,11,11|10,11,9,8",QR32,GRAND_SLAM,MD,1422,Qualification,JOVER Sebastien (FRA) / MARTINEZ Michel (FRA),ARAI Shu (JPN) / CLOSSET Marc (BEL),JOVER Sebastien
+Korean Open Gangneung 2002,2002-09-05,SANADA Koji/YUZAWA Ryo,CABESTANY Cedrik/CHILA Patrick,3,1,"11,11,8,11|7,7,11,4",QR16,GRAND_SLAM,MD,1422,Qualification,SANADA Koji (JPN) / YUZAWA Ryo (JPN),CABESTANY Cedrik (FRA) / CHILA Patrick (FRA),SANADA Koji
+Korean Open Gangneung 2002,2002-09-05,KIM Junghoon/SEO Dongchul,JOVER Sebastien/MARTINEZ Michel,3,0,"13,11,11|11,6,8",QR16,GRAND_SLAM,MD,1422,Qualification,KIM Junghoon (KOR) / SEO Dongchul (KOR),JOVER Sebastien (FRA) / MARTINEZ Michel (FRA),KIM Junghoon
+Korean Open Gangneung 2002,2002-09-05,OLLIVIER Brice/QUENTEL Dorian,GARDOS Robert/KEINATH Thomas,3,1,"13,8,11,11|11,11,8,9",QR16,GRAND_SLAM,MD,1422,Qualification,OLLIVIER Brice (FRA) / QUENTEL Dorian (FRA),GARDOS Robert (AUT) / KEINATH Thomas (SVK),OLLIVIER Brice
+Korean Open Gangneung 2002,2002-09-05,SHAN Mingjie/TANG Peng,JOO Saehyuk/KO Junhyung,3,1,"13,8,11,11|11,11,8,7",QR16,GRAND_SLAM,MD,1422,Qualification,SHAN Mingjie (CHN) / TANG Peng (HKG),JOO Saehyuk (KOR) / KO Junhyung (KOR),SHAN Mingjie
+Korean Open Gangneung 2002,2002-09-05,LEE Chulseung/RYU Seungmin,SHAN Mingjie/TANG Peng,4,1,"11,16,11,7,11|7,14,6,11,8",R16,GRAND_SLAM,MD,1422,Main Draw,LEE Chulseung (KOR) / RYU Seungmin (KOR),SHAN Mingjie (CHN) / TANG Peng (HKG),LEE Chulseung
+Korean Open Gangneung 2002,2002-09-05,KO Lai Chak/LI Ching,KIM Junghoon/SEO Dongchul,4,0,"11,12,11,11|8,10,8,7",R16,GRAND_SLAM,MD,1422,Main Draw,KO Lai Chak (HKG) / LI Ching (HKG),KIM Junghoon (KOR) / SEO Dongchul (KOR),KO Lai Chak
+Korean Open Gangneung 2002,2002-09-05,KO Lai Chak/LI Ching,KITO Akira/TASAKI Toshio,4,3,"9,11,4,12,8,11,12|11,6,11,10,11,9,10",QF,GRAND_SLAM,MD,1422,Main Draw,KO Lai Chak (HKG) / LI Ching (HKG),KITO Akira (JPN) / TASAKI Toshio (JPN),KO Lai Chak
+Korean Open Gangneung 2002,2002-09-05,KO Lai Chak/LI Ching,CHIANG Peng-Lung/CHANG Yen-Shu,4,1,"11,11,12,7,11|5,5,10,11,9",SF,GRAND_SLAM,MD,1422,Main Draw,KO Lai Chak (HKG) / LI Ching (HKG),CHIANG Peng-Lung (TPE) / CHANG Yen-Shu (TPE),KO Lai Chak
+Korean Open Gangneung 2002,2002-09-05,OLLIVIER Brice/QUENTEL Dorian,KIHO Shinnosuke/KURASHIMA Yosuke,3,2,"9,11,11,8,11|11,9,6,11,9",QR32,GRAND_SLAM,MD,1422,Qualification,OLLIVIER Brice (FRA) / QUENTEL Dorian (FRA),KIHO Shinnosuke (JPN) / KURASHIMA Yosuke (JPN),OLLIVIER Brice
+Korean Open Gangneung 2002,2002-09-05,CHOI Hyunjin/YOON Jaeyoung,MATSUSHITA Eishi/TOKUMURA Tomohiko,3,1,"11,11,9,11|5,1,11,7",QR32,GRAND_SLAM,MD,1422,Qualification,CHOI Hyunjin (KOR) / YOON Jaeyoung (KOR),MATSUSHITA Eishi (JPN) / TOKUMURA Tomohiko (JPN),CHOI Hyunjin
+Korean Open Gangneung 2002,2002-09-05,KITO Akira/TASAKI Toshio,KUZMIN Fedor/SHMYREV Maxim,3,0,"11,11,11|3,7,9",QR16,GRAND_SLAM,MD,1422,Qualification,KITO Akira (JPN) / TASAKI Toshio (JPN),KUZMIN Fedor (RUS) / SHMYREV Maxim (RUS),KITO Akira
+Korean Open Gangneung 2002,2002-09-05,KITO Akira/TASAKI Toshio,BENTSEN Allan/TUGWELL Finn,4,3,"6,9,4,11,11,11,11|11,11,11,5,8,4,7",R16,GRAND_SLAM,MD,1422,Main Draw,KITO Akira (JPN) / TASAKI Toshio (JPN),BENTSEN Allan (DEN) / TUGWELL Finn (DEN),KITO Akira
+Korean Open Gangneung 2002,2002-09-05,SANADA Koji/YUZAWA Ryo,KIM Bongchul/KIM Gunhwan,3,1,"6,11,17,11|11,7,15,8",QR32,GRAND_SLAM,MD,1422,Qualification,SANADA Koji (JPN) / YUZAWA Ryo (JPN),KIM Bongchul (KOR) / KIM Gunhwan (KOR),SANADA Koji
+Korean Open Gangneung 2002,2002-09-05,JOO Saehyuk/KO Junhyung,KISHIKAWA Seiya/SAKAMOTO Ryusuke,3,2,"8,11,11,7,12|11,4,6,11,10",QR32,GRAND_SLAM,MD,1422,Qualification,JOO Saehyuk (KOR) / KO Junhyung (KOR),KISHIKAWA Seiya (JPN) / SAKAMOTO Ryusuke (JPN),JOO Saehyuk
+Korean Open Gangneung 2002,2002-09-05,KIM Junghoon/SEO Dongchul,ERLANDSEN Geir/HAKANSSON Fredrik,3,1,"9,16,11,15|11,14,7,13",QR32,GRAND_SLAM,MD,1422,Qualification,KIM Junghoon (KOR) / SEO Dongchul (KOR),ERLANDSEN Geir (NOR) / HAKANSSON Fredrik (SWE),KIM Junghoon
+Korean Open Gangneung 2002,2002-09-05,KUZMIN Fedor/SHMYREV Maxim,LEE Jungwoo/LIM Jaehyun,3,1,"11,8,11,11|9,11,6,9",QR32,GRAND_SLAM,MD,1422,Qualification,KUZMIN Fedor (RUS) / SHMYREV Maxim (RUS),LEE Jungwoo (KOR) / LIM Jaehyun (KOR),KUZMIN Fedor
+Korean Open Gangneung 2002,2002-09-05,KIM Seung Hun/YANG Heesuk,BOLL Timo/STEGER Bastian,3,2,"11,11,9,5,11|8,6,11,11,2",QR16,GRAND_SLAM,MD,1422,Qualification,KIM Seung Hun (KOR) / YANG Heesuk (KOR),BOLL Timo (GER) / STEGER Bastian (GER),KIM Seung Hun
+Korean Open Gangneung 2002,2002-09-05,KIM Taeksoo/OH Sangeun,OLLIVIER Brice/QUENTEL Dorian,4,1,"11,11,11,9,11|5,8,8,11,6",R16,GRAND_SLAM,MD,1422,Main Draw,KIM Taeksoo (KOR) / OH Sangeun (KOR),OLLIVIER Brice (FRA) / QUENTEL Dorian (FRA),KIM Taeksoo
+Korean Open Gangneung 2002,2002-09-05,CHOI Hyunjin/YOON Jaeyoung,CHEUNG Yuk/LEUNG Chu Yan,4,1,"11,11,11,9,11|7,7,9,11,7",R16,GRAND_SLAM,MD,1422,Main Draw,CHOI Hyunjin (KOR) / YOON Jaeyoung (KOR),CHEUNG Yuk (HKG) / LEUNG Chu Yan (HKG),CHOI Hyunjin
+Korean Open Gangneung 2002,2002-09-05,KIM Taeksoo/OH Sangeun,ELOI Damien/LEGOUT Christophe,4,3,"11,10,11,13,8,11,13|7,12,5,15,11,8,11",QF,GRAND_SLAM,MD,1422,Main Draw,KIM Taeksoo (KOR) / OH Sangeun (KOR),ELOI Damien (FRA) / LEGOUT Christophe (FRA),KIM Taeksoo
+Korean Open Gangneung 2002,2002-09-05,KIM Taeksoo/OH Sangeun,JINDRAK Karl/SCHLAGER Werner,4,1,"4,11,11,11,11|11,8,4,7,7",SF,GRAND_SLAM,MD,1422,Main Draw,KIM Taeksoo (KOR) / OH Sangeun (KOR),JINDRAK Karl (AUT) / SCHLAGER Werner (AUT),KIM Taeksoo
+Korean Open Gangneung 2002,2002-09-05,KIM Taeksoo/OH Sangeun,KO Lai Chak/LI Ching,4,2,"5,14,11,11,6,11|11,12,4,8,11,9",F,GRAND_SLAM,MD,1422,Main Draw,KIM Taeksoo (KOR) / OH Sangeun (KOR),KO Lai Chak (HKG) / LI Ching (HKG),KIM Taeksoo
+Korean Open Gangneung 2002,2002-09-05,CRISAN Adrian/SMIRNOV Alexey,HUANG Wei-Chin/CHOU Tung-Yu,3,1,"9,11,11,11|11,7,4,3",QR32,GRAND_SLAM,MD,1422,Qualification,CRISAN Adrian (ROU) / SMIRNOV Alexey (RUS),HUANG Wei-Chin (TPE) / CHOU Tung-Yu (TPE),CRISAN Adrian
+Korean Open Gangneung 2002,2002-09-05,CHOI Hyunjin/YOON Jaeyoung,CRISAN Adrian/SMIRNOV Alexey,3,1,"11,11,5,11|8,9,11,8",QR16,GRAND_SLAM,MD,1422,Qualification,CHOI Hyunjin (KOR) / YOON Jaeyoung (KOR),CRISAN Adrian (ROU) / SMIRNOV Alexey (RUS),CHOI Hyunjin
+Korean Open Gangneung 2002,2002-09-05,KIM Seung Hun/YANG Heesuk,CAI Xiaoli/DUAN Yongjun,3,1,"11,11,7,11|6,8,11,4",QR32,GRAND_SLAM,MD,1422,Qualification,KIM Seung Hun (KOR) / YANG Heesuk (KOR),CAI Xiaoli (SGP) / DUAN Yongjun (SGP),KIM Seung Hun
+Korean Open Gangneung 2002,2002-09-05,LUNDQVIST Jens/MOLIN Magnus,CHEN Cheng-Kao/WU Chih-Chi,3,1,"9,11,12,11|11,9,10,5",QR32,GRAND_SLAM,MD,1422,Qualification,LUNDQVIST Jens (SWE) / MOLIN Magnus (SWE),CHEN Cheng-Kao (TPE) / WU Chih-Chi (TPE),LUNDQVIST Jens
+Korean Open Gangneung 2002,2002-09-05,BRATANOV Martin/SAIVE Philippe,LUNDQVIST Jens/MOLIN Magnus,3,2,"8,11,11,7,12|11,8,4,11,10",QR16,GRAND_SLAM,MD,1422,Qualification,BRATANOV Martin (BEL) / SAIVE Philippe (BEL),LUNDQVIST Jens (SWE) / MOLIN Magnus (SWE),BRATANOV Martin
+Korean Open Gangneung 2002,2002-09-05,GARDOS Robert/KEINATH Thomas,SU Chi-Young/SU Chu-Chao,3,1,"11,11,7,12|5,9,11,10",QR32,GRAND_SLAM,MD,1422,Qualification,GARDOS Robert (AUT) / KEINATH Thomas (SVK),SU Chi-Young (TPE) / SU Chu-Chao (TPE),GARDOS Robert
+Korean Open Gangneung 2002,2002-09-05,CHIANG Peng-Lung/CHANG Yen-Shu,KIM Seung Hun/YANG Heesuk,4,1,"11,8,11,13,12|6,11,9,11,10",R16,GRAND_SLAM,MD,1422,Main Draw,CHIANG Peng-Lung (TPE) / CHANG Yen-Shu (TPE),KIM Seung Hun (KOR) / YANG Heesuk (KOR),CHIANG Peng-Lung
+Korean Open Gangneung 2002,2002-09-05,CHIANG Peng-Lung/CHANG Yen-Shu,CHOI Hyunjin/YOON Jaeyoung,4,1,"11,11,11,5,11|8,9,7,11,8",QF,GRAND_SLAM,MD,1422,Main Draw,CHIANG Peng-Lung (TPE) / CHANG Yen-Shu (TPE),CHOI Hyunjin (KOR) / YOON Jaeyoung (KOR),CHIANG Peng-Lung
+Korean Open Gangneung 2002,2002-09-05,BAI Yang/GUO Yan (1982),HAN Kwangsun/LEE Eunsil,4,1,"11,16,11,8,11|7,14,7,11,8",SF,GRAND_SLAM,WD,1422,Main Draw,BAI Yang (CHN) / GUO Yan (1982) (CHN),HAN Kwangsun (KOR) / LEE Eunsil (KOR),BAI Yang
+Korean Open Gangneung 2002,2002-09-05,KWON Hyunjoo/MOON Hyunjung,GOURIN Anne-Sophie/LEGAY Solene,3,2,"11,11,8,8,11|9,8,11,11,9",QR16,GRAND_SLAM,WD,1422,Qualification,KWON Hyunjoo (KOR) / MOON Hyunjung (KOR),GOURIN Anne-Sophie (FRA) / LEGAY Solene (FRA),KWON Hyunjoo
+Korean Open Gangneung 2002,2002-09-05,COSTES Agathe/MIE Anne-Claire,SUH Hyo Won/PARK Miyoung,3,1,"11,11,10,11|7,9,12,9",QR16,GRAND_SLAM,WD,1422,Qualification,COSTES Agathe (FRA) / MIE Anne-Claire (FRA),SUH Hyo Won (KOR) / PARK Miyoung (KOR),COSTES Agathe
+Korean Open Gangneung 2002,2002-09-05,KRAMER Tanja/ROBERTSON Laura,LEE Hyangmi/SUK Solji,3,2,"11,7,10,12,11|6,11,12,10,7",QR16,GRAND_SLAM,WD,1422,Qualification,KRAMER Tanja (GER) / ROBERTSON Laura (GER),LEE Hyangmi (KOR) / SUK Solji (KOR),KRAMER Tanja
+Korean Open Gangneung 2002,2002-09-05,LIN Ling/SONG Ah Sim,LU Yun-Feng/SU Hsien-Ching,3,0,"11,11,11|2,6,4",QR16,GRAND_SLAM,WD,1422,Qualification,LIN Ling (HKG) / SONG Ah Sim (HKG),LU Yun-Feng (TPE) / SU Hsien-Ching (TPE),LIN Ling
+Korean Open Gangneung 2002,2002-09-05,KWAK Bangbang/LAU Sui Fei,KO Somi/PARK Chara,3,0,"11,11,11|6,9,5",QR16,GRAND_SLAM,WD,1422,Qualification,KWAK Bangbang (KOR) / LAU Sui Fei (HKG),KO Somi (KOR) / PARK Chara (KOR),KWAK Bangbang
+Korean Open Gangneung 2002,2002-09-05,FAN Ying/WONG Ching,YU Mei-Ju/WAN Hsin-Lung,3,0,"11,11,11|4,9,0",QR16,GRAND_SLAM,WD,1422,Qualification,FAN Ying (CHN) / WONG Ching (HKG),YU Mei-Ju (TPE) / WAN Hsin-Lung (TPE),FAN Ying
+Korean Open Gangneung 2002,2002-09-05,TIE Yana/ZHANG Rui,KIM Kyungha/PARK Kyungae (II),3,0,"11,11,11|6,4,6",QR16,GRAND_SLAM,WD,1422,Qualification,TIE Yana (HKG) / ZHANG Rui (HKG),KIM Kyungha (KOR) / PARK Kyungae (II) (KOR),TIE Yana
+Korean Open Gangneung 2002,2002-09-05,LIN Ling/SONG Ah Sim,FUKUHARA Ai/KONISHI An,4,2,"11,11,11,8,9,11|6,8,6,11,11,9",R16,GRAND_SLAM,WD,1422,Main Draw,LIN Ling (HKG) / SONG Ah Sim (HKG),FUKUHARA Ai (JPN) / KONISHI An (JPN),LIN Ling
+Korean Open Gangneung 2002,2002-09-05,KIM Bokrae/KIM Kyungah,KWAK Bangbang/LAU Sui Fei,4,0,"11,11,11,11|5,8,5,7",R16,GRAND_SLAM,WD,1422,Main Draw,KIM Bokrae (KOR) / KIM Kyungah (KOR),KWAK Bangbang (KOR) / LAU Sui Fei (HKG),KIM Bokrae
+Korean Open Gangneung 2002,2002-09-05,HAN Kwangsun/LEE Eunsil,FAN Ying/WONG Ching,4,0,"11,11,11,11|6,9,6,5",R16,GRAND_SLAM,WD,1422,Main Draw,HAN Kwangsun (KOR) / LEE Eunsil (KOR),FAN Ying (CHN) / WONG Ching (HKG),HAN Kwangsun
+Korean Open Gangneung 2002,2002-09-05,BAI Yang/GUO Yan (1982),GAO Xi/JIANG Huajun,4,1,"11,11,9,11,11|6,8,11,8,2",QF,GRAND_SLAM,WD,1422,Main Draw,BAI Yang (CHN) / GUO Yan (1982) (CHN),GAO Xi (CHN) / JIANG Huajun (HKG),BAI Yang
+Korean Open Gangneung 2002,2002-09-05,GAO Xi/JIANG Huajun,FUJINUMA Ai/HIURA Reiko,4,2,"9,11,11,12,5,11|11,2,8,10,11,3",R16,GRAND_SLAM,WD,1422,Main Draw,GAO Xi (CHN) / JIANG Huajun (HKG),FUJINUMA Ai (JPN) / HIURA Reiko (JPN),GAO Xi
+Korean Open Gangneung 2002,2002-09-05,STRUSE Nicole/TASEI Mikie,COSTES Agathe/MIE Anne-Claire,4,0,"11,11,11,11|9,6,6,7",R16,GRAND_SLAM,WD,1422,Main Draw,STRUSE Nicole (GER) / TASEI Mikie (JPN),COSTES Agathe (FRA) / MIE Anne-Claire (FRA),STRUSE Nicole
+Korean Open Gangneung 2002,2002-09-05,HAN Kwangsun/LEE Eunsil,STRUSE Nicole/TASEI Mikie,4,1,"12,11,11,11,11|14,8,7,8,5",QF,GRAND_SLAM,WD,1422,Main Draw,HAN Kwangsun (KOR) / LEE Eunsil (KOR),STRUSE Nicole (GER) / TASEI Mikie (JPN),HAN Kwangsun
+Korean Open Gangneung 2002,2002-09-05,KIM Mookyo/RYU Jihae,TIE Yana/ZHANG Rui,4,3,"11,11,9,1,9,11,11|8,8,11,11,11,3,6",R16,GRAND_SLAM,WD,1422,Main Draw,KIM Mookyo (KOR) / RYU Jihae (KOR),TIE Yana (HKG) / ZHANG Rui (HKG),KIM Mookyo
+Korean Open Gangneung 2002,2002-09-05,BAI Yang/GUO Yan (1982),KWON Hyunjoo/MOON Hyunjung,4,1,"11,11,11,11,11|13,9,6,9,2",R16,GRAND_SLAM,WD,1422,Main Draw,BAI Yang (CHN) / GUO Yan (1982) (CHN),KWON Hyunjoo (KOR) / MOON Hyunjung (KOR),BAI Yang
+Korean Open Gangneung 2002,2002-09-05,KIM Mookyo/RYU Jihae,LIN Ling/SONG Ah Sim,4,1,"16,9,11,11,11|14,11,9,6,9",QF,GRAND_SLAM,WD,1422,Main Draw,KIM Mookyo (KOR) / RYU Jihae (KOR),LIN Ling (HKG) / SONG Ah Sim (HKG),KIM Mookyo
+Korean Open Gangneung 2002,2002-09-05,JING Junhong/LI Jiawei,KIM Mookyo/RYU Jihae,4,2,"11,5,4,13,11,12|6,11,11,11,5,10",SF,GRAND_SLAM,WD,1422,Main Draw,JING Junhong (SGP) / LI Jiawei (SGP),KIM Mookyo (KOR) / RYU Jihae (KOR),JING Junhong
+Korean Open Gangneung 2002,2002-09-05,JING Junhong/LI Jiawei,KRAMER Tanja/ROBERTSON Laura,4,1,"11,13,11,10,11|8,11,6,12,9",R16,GRAND_SLAM,WD,1422,Main Draw,JING Junhong (SGP) / LI Jiawei (SGP),KRAMER Tanja (GER) / ROBERTSON Laura (GER),JING Junhong
+Korean Open Gangneung 2002,2002-09-05,JING Junhong/LI Jiawei,KIM Bokrae/KIM Kyungah,4,2,"5,6,11,11,11,11|11,11,8,7,6,9",QF,GRAND_SLAM,WD,1422,Main Draw,JING Junhong (SGP) / LI Jiawei (SGP),KIM Bokrae (KOR) / KIM Kyungah (KOR),JING Junhong
+Korean Open Gangneung 2002,2002-09-05,BAI Yang/GUO Yan (1982),JING Junhong/LI Jiawei,4,1,"11,4,11,13,11|9,11,6,11,2",F,GRAND_SLAM,WD,1422,Main Draw,BAI Yang (CHN) / GUO Yan (1982) (CHN),JING Junhong (SGP) / LI Jiawei (SGP),BAI Yang

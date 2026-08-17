@@ -1,0 +1,25 @@
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Brazilian Open Sao Paulo 2001,2001-06-27,DAS Mouma,BORBA Iara,2,0,"21,21|13,11",1,GRAND_SLAM,WS,1276,Qualification,DAS Mouma (IND),BORBA Iara (BRA),DAS Mouma
+Brazilian Open Sao Paulo 2001,2001-06-27,DAS Mouma,CRUZ Danielle,2,0,"21,21|9,10",1,GRAND_SLAM,WS,1276,Qualification,DAS Mouma (IND),CRUZ Danielle (BRA),DAS Mouma
+Brazilian Open Sao Paulo 2001,2001-06-27,DAS Mouma,IKEIZUMI Claudia,2,0,"21,21|14,11",1,GRAND_SLAM,WS,1276,Qualification,DAS Mouma (IND),IKEIZUMI Claudia (BRA),DAS Mouma
+Brazilian Open Sao Paulo 2001,2001-06-27,CRUZ Danielle,BORBA Iara,2,0,"21,21|16,14",1,GRAND_SLAM,WS,1276,Qualification,CRUZ Danielle (BRA),BORBA Iara (BRA),CRUZ Danielle
+Brazilian Open Sao Paulo 2001,2001-06-27,IKEIZUMI Claudia,BORBA Iara,2,0,"21,21|16,11",1,GRAND_SLAM,WS,1276,Qualification,IKEIZUMI Claudia (BRA),BORBA Iara (BRA),IKEIZUMI Claudia
+Brazilian Open Sao Paulo 2001,2001-06-27,CRUZ Danielle,IKEIZUMI Claudia,2,0,"21,21|12,16",1,GRAND_SLAM,WS,1276,Qualification,CRUZ Danielle (BRA),IKEIZUMI Claudia (BRA),CRUZ Danielle
+Brazilian Open Sao Paulo 2001,2001-06-27,GHATAK Poulomi,FERNANDES Simone,2,0,"21,21|12,3",QR2,GRAND_SLAM,WS,1276,Qualification,GHATAK Poulomi (IND),FERNANDES Simone (BRA),GHATAK Poulomi
+Brazilian Open Sao Paulo 2001,2001-06-27,GHATAK Poulomi,LOBATO Larrisa,2,0,"21,21|10,9",QR2,GRAND_SLAM,WS,1276,Qualification,GHATAK Poulomi (IND),LOBATO Larrisa (BRA),GHATAK Poulomi
+Brazilian Open Sao Paulo 2001,2001-06-27,GHATAK Poulomi,ASSIS Mariana,2,0,"21,25|6,23",QR2,GRAND_SLAM,WS,1276,Qualification,GHATAK Poulomi (IND),ASSIS Mariana (BRA),GHATAK Poulomi
+Brazilian Open Sao Paulo 2001,2001-06-27,FERNANDES Simone,LOBATO Larrisa,2,0,"21,21|13,19",QR2,GRAND_SLAM,WS,1276,Qualification,FERNANDES Simone (BRA),LOBATO Larrisa (BRA),FERNANDES Simone
+Brazilian Open Sao Paulo 2001,2001-06-27,ASSIS Mariana,FERNANDES Simone,2,0,"21,22|18,20",QR2,GRAND_SLAM,WS,1276,Qualification,ASSIS Mariana (BRA),FERNANDES Simone (BRA),ASSIS Mariana
+Brazilian Open Sao Paulo 2001,2001-06-27,ASSIS Mariana,LOBATO Larrisa,2,0,"21,21|11,17",QR2,GRAND_SLAM,WS,1276,Qualification,ASSIS Mariana (BRA),LOBATO Larrisa (BRA),ASSIS Mariana
+Brazilian Open Sao Paulo 2001,2001-06-27,SILVA Ligia,INDU Nagapattinam R,2,0,"21,21|14,12",3,GRAND_SLAM,WS,1276,Qualification,SILVA Ligia (BRA),INDU Nagapattinam R (IND),SILVA Ligia
+Brazilian Open Sao Paulo 2001,2001-06-27,SILVA Ligia,HAMADA Tatiana,2,0,"21,21|6,2",3,GRAND_SLAM,WS,1276,Qualification,SILVA Ligia (BRA),HAMADA Tatiana (BRA),SILVA Ligia
+Brazilian Open Sao Paulo 2001,2001-06-27,SILVA Ligia,SILVA Vera,2,0,"21,21|12,11",3,GRAND_SLAM,WS,1276,Qualification,SILVA Ligia (BRA),SILVA Vera (BRA),SILVA Ligia
+Brazilian Open Sao Paulo 2001,2001-06-27,INDU Nagapattinam R,HAMADA Tatiana,2,0,"21,21|9,15",3,GRAND_SLAM,WS,1276,Qualification,INDU Nagapattinam R (IND),HAMADA Tatiana (BRA),INDU Nagapattinam R
+Brazilian Open Sao Paulo 2001,2001-06-27,INDU Nagapattinam R,SILVA Vera,2,0,"21,21|7,10",3,GRAND_SLAM,WS,1276,Qualification,INDU Nagapattinam R (IND),SILVA Vera (BRA),INDU Nagapattinam R
+Brazilian Open Sao Paulo 2001,2001-06-27,SILVA Vera,HAMADA Tatiana,2,0,"21,21|13,9",3,GRAND_SLAM,WS,1276,Qualification,SILVA Vera (BRA),HAMADA Tatiana (BRA),SILVA Vera
+Brazilian Open Sao Paulo 2001,2001-06-27,GHOSH Mantu,BARREIRA Nathalia,2,0,"21,21|16,8",QR4,GRAND_SLAM,WS,1276,Qualification,GHOSH Mantu (IND),BARREIRA Nathalia (BRA),GHOSH Mantu
+Brazilian Open Sao Paulo 2001,2001-06-27,GHOSH Mantu,MURASHIGE Carina,2,0,"21,21|15,14",QR4,GRAND_SLAM,WS,1276,Qualification,GHOSH Mantu (IND),MURASHIGE Carina (BRA),GHOSH Mantu
+Brazilian Open Sao Paulo 2001,2001-06-27,GHOSH Mantu,SHIN Soohee,2,0,"21,21|18,14",QR4,GRAND_SLAM,WS,1276,Qualification,GHOSH Mantu (IND),SHIN Soohee (KOR),GHOSH Mantu
+Brazilian Open Sao Paulo 2001,2001-06-27,BARREIRA Nathalia,MURASHIGE Carina,2,0,"21,21|14,7",QR4,GRAND_SLAM,WS,1276,Qualification,BARREIRA Nathalia (BRA),MURASHIGE Carina (BRA),BARREIRA Nathalia
+Brazilian Open Sao Paulo 2001,2001-06-27,SHIN Soohee,BARREIRA Nathalia,2,0,"22,22|20,20",QR4,GRAND_SLAM,WS,1276,Qualification,SHIN Soohee (KOR),BARREIRA Nathalia (BRA),SHIN Soohee
+Brazilian Open Sao Paulo 2001,2001-06-27,SHIN Soohee,MURASHIGE Carina,2,0,"21,21|16,7",QR4,GRAND_SLAM,WS,1276,Qualification,SHIN Soohee (KOR),MURASHIGE Carina (BRA),SHIN Soohee

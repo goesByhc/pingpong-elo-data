@@ -1,0 +1,33 @@
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Women's World Cup Phnom Penh 2000,2000-10-12,WANG Nan,NI Xia Lian,2,0,,,WORLD_CUP,WS,1268,Qualification,WANG Nan (CHN),NI Xia Lian (LUX),WANG Nan
+Women's World Cup Phnom Penh 2000,2000-10-12,WANG Nan,GAO Jun,2,0,,,WORLD_CUP,WS,1268,Qualification,WANG Nan (CHN),GAO Jun (USA),WANG Nan
+Women's World Cup Phnom Penh 2000,2000-10-12,WANG Nan,CHOUN Tha,2,0,,,WORLD_CUP,WS,1268,Qualification,WANG Nan (CHN),CHOUN Tha (CAM),WANG Nan
+Women's World Cup Phnom Penh 2000,2000-10-12,NI Xia Lian,GAO Jun,2,1,,,WORLD_CUP,WS,1268,Qualification,NI Xia Lian (LUX),GAO Jun (USA),NI Xia Lian
+Women's World Cup Phnom Penh 2000,2000-10-12,NI Xia Lian,CHOUN Tha,2,0,,,WORLD_CUP,WS,1268,Qualification,NI Xia Lian (LUX),CHOUN Tha (CAM),NI Xia Lian
+Women's World Cup Phnom Penh 2000,2000-10-12,GAO Jun,CHOUN Tha,2,0,,,WORLD_CUP,WS,1268,Qualification,GAO Jun (USA),CHOUN Tha (CAM),GAO Jun
+Women's World Cup Phnom Penh 2000,2000-10-12,LI Ju,RYU Jihae,2,0,,,WORLD_CUP,WS,1268,Qualification,LI Ju (CHN),RYU Jihae (KOR),LI Ju
+Women's World Cup Phnom Penh 2000,2000-10-12,LI Ju,GENG Lijuan,2,0,,,WORLD_CUP,WS,1268,Qualification,LI Ju (CHN),GENG Lijuan (CAN),LI Ju
+Women's World Cup Phnom Penh 2000,2000-10-12,LI Ju,KEO Vanny,2,0,,,WORLD_CUP,WS,1268,Qualification,LI Ju (CHN),KEO Vanny (CAM),LI Ju
+Women's World Cup Phnom Penh 2000,2000-10-12,RYU Jihae,GENG Lijuan,2,0,,,WORLD_CUP,WS,1268,Qualification,RYU Jihae (KOR),GENG Lijuan (CAN),RYU Jihae
+Women's World Cup Phnom Penh 2000,2000-10-12,RYU Jihae,KEO Vanny,2,0,,,WORLD_CUP,WS,1268,Qualification,RYU Jihae (KOR),KEO Vanny (CAM),RYU Jihae
+Women's World Cup Phnom Penh 2000,2000-10-12,GENG Lijuan,KEO Vanny,2,0,,,WORLD_CUP,WS,1268,Qualification,GENG Lijuan (CAN),KEO Vanny (CAM),GENG Lijuan
+Women's World Cup Phnom Penh 2000,2000-10-12,CHEN Jing,BOROS Tamara,2,0,,,WORLD_CUP,WS,1268,Qualification,CHEN Jing (TPE),BOROS Tamara (CRO),CHEN Jing
+Women's World Cup Phnom Penh 2000,2000-10-12,CHEN Jing,LAY Jian Fang,2,0,,,WORLD_CUP,WS,1268,Qualification,CHEN Jing (TPE),LAY Jian Fang (AUS),CHEN Jing
+Women's World Cup Phnom Penh 2000,2000-10-12,CHEN Jing,OSHONAIKE Olufunke,2,0,,,WORLD_CUP,WS,1268,Qualification,CHEN Jing (TPE),OSHONAIKE Olufunke (NGR),CHEN Jing
+Women's World Cup Phnom Penh 2000,2000-10-12,BOROS Tamara,LAY Jian Fang,2,0,,,WORLD_CUP,WS,1268,Qualification,BOROS Tamara (CRO),LAY Jian Fang (AUS),BOROS Tamara
+Women's World Cup Phnom Penh 2000,2000-10-12,BOROS Tamara,OSHONAIKE Olufunke,2,0,,,WORLD_CUP,WS,1268,Qualification,BOROS Tamara (CRO),OSHONAIKE Olufunke (NGR),BOROS Tamara
+Women's World Cup Phnom Penh 2000,2000-10-12,LAY Jian Fang,OSHONAIKE Olufunke,2,0,,,WORLD_CUP,WS,1268,Qualification,LAY Jian Fang (AUS),OSHONAIKE Olufunke (NGR),LAY Jian Fang
+Women's World Cup Phnom Penh 2000,2000-10-12,SUN Jin,SUK Eunmi,2,0,,,WORLD_CUP,WS,1268,Qualification,SUN Jin (HKG),SUK Eunmi (KOR),SUN Jin
+Women's World Cup Phnom Penh 2000,2000-10-12,SUN Jin,TIAN-ZORNER Jing,2,1,,,WORLD_CUP,WS,1268,Qualification,SUN Jin (HKG),TIAN-ZORNER Jing (GER),SUN Jin
+Women's World Cup Phnom Penh 2000,2000-10-12,SUN Jin,TEPES Sofija,2,0,,,WORLD_CUP,WS,1268,Qualification,SUN Jin (HKG),TEPES Sofija (CHI),SUN Jin
+Women's World Cup Phnom Penh 2000,2000-10-12,SUK Eunmi,TIAN-ZORNER Jing,2,0,,,WORLD_CUP,WS,1268,Qualification,SUK Eunmi (KOR),TIAN-ZORNER Jing (GER),SUK Eunmi
+Women's World Cup Phnom Penh 2000,2000-10-12,SUK Eunmi,TEPES Sofija,2,0,,,WORLD_CUP,WS,1268,Qualification,SUK Eunmi (KOR),TEPES Sofija (CHI),SUK Eunmi
+Women's World Cup Phnom Penh 2000,2000-10-12,TIAN-ZORNER Jing,TEPES Sofija,2,0,,,WORLD_CUP,WS,1268,Qualification,TIAN-ZORNER Jing (GER),TEPES Sofija (CHI),TIAN-ZORNER Jing
+Women's World Cup Phnom Penh 2000,2000-10-12,WANG Nan,BOROS Tamara,3,2,,QF,WORLD_CUP,WS,1268,Main Draw,WANG Nan (CHN),BOROS Tamara (CRO),WANG Nan
+Women's World Cup Phnom Penh 2000,2000-10-12,SUN Jin,RYU Jihae,3,0,,QF,WORLD_CUP,WS,1268,Main Draw,SUN Jin (HKG),RYU Jihae (KOR),SUN Jin
+Women's World Cup Phnom Penh 2000,2000-10-12,CHEN Jing,NI Xia Lian,3,1,,QF,WORLD_CUP,WS,1268,Main Draw,CHEN Jing (TPE),NI Xia Lian (LUX),CHEN Jing
+Women's World Cup Phnom Penh 2000,2000-10-12,LI Ju,SUK Eunmi,3,1,,QF,WORLD_CUP,WS,1268,Main Draw,LI Ju (CHN),SUK Eunmi (KOR),LI Ju
+Women's World Cup Phnom Penh 2000,2000-10-12,WANG Nan,SUN Jin,3,1,,SF,WORLD_CUP,WS,1268,Main Draw,WANG Nan (CHN),SUN Jin (HKG),WANG Nan
+Women's World Cup Phnom Penh 2000,2000-10-12,LI Ju,CHEN Jing,3,0,,SF,WORLD_CUP,WS,1268,Main Draw,LI Ju (CHN),CHEN Jing (TPE),LI Ju
+Women's World Cup Phnom Penh 2000,2000-10-12,LI Ju,WANG Nan,3,1,"21,20,21,21|10,22,17,16",F,WORLD_CUP,WS,1268,Main Draw,LI Ju (CHN),WANG Nan (CHN),LI Ju
+Women's World Cup Phnom Penh 2000,2000-10-12,SUN Jin,CHEN Jing,3,1,,3RD,WORLD_CUP,WS,1268,Position Draw,SUN Jin (HKG),CHEN Jing (TPE),SUN Jin

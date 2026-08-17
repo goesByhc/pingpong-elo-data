@@ -1,0 +1,181 @@
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+US Open Fort Lauderdale 2001,2001-07-07,SORENSEN Mads,SUBRAMANYAM Raman,2,0,"21,24|14,22",,GRAND_SLAM,MS,1288,Qualification,SORENSEN Mads (DEN),SUBRAMANYAM Raman (IND),SORENSEN Mads
+US Open Fort Lauderdale 2001,2001-07-07,SORENSEN Mads,OMODING Julius,2,0,"21,21|17,19",,GRAND_SLAM,MS,1288,Qualification,SORENSEN Mads (DEN),OMODING Julius (UGA),SORENSEN Mads
+US Open Fort Lauderdale 2001,2001-07-07,SORENSEN Mads,ALBAN Keith,2,0,"21,21|17,9",,GRAND_SLAM,MS,1288,Qualification,SORENSEN Mads (DEN),ALBAN Keith (USA),SORENSEN Mads
+US Open Fort Lauderdale 2001,2001-07-07,SUBRAMANYAM Raman,OMODING Julius,2,0,"21,21|13,15",,GRAND_SLAM,MS,1288,Qualification,SUBRAMANYAM Raman (IND),OMODING Julius (UGA),SUBRAMANYAM Raman
+US Open Fort Lauderdale 2001,2001-07-07,SUBRAMANYAM Raman,ALBAN Keith,2,0,"21,21|15,19",,GRAND_SLAM,MS,1288,Qualification,SUBRAMANYAM Raman (IND),ALBAN Keith (USA),SUBRAMANYAM Raman
+US Open Fort Lauderdale 2001,2001-07-07,ALBAN Keith,OMODING Julius,2,0,"21,21|8,14",,GRAND_SLAM,MS,1288,Qualification,ALBAN Keith (USA),OMODING Julius (UGA),ALBAN Keith
+US Open Fort Lauderdale 2001,2001-07-07,TUGWELL Finn,GIANNINI Antonio,2,0,"21,21|12,11",,GRAND_SLAM,MS,1288,Qualification,TUGWELL Finn (DEN),GIANNINI Antonio (VEN),TUGWELL Finn
+US Open Fort Lauderdale 2001,2001-07-07,TUGWELL Finn,OVIEDO Alejandro,2,0,"21,21|7,7",,GRAND_SLAM,MS,1288,Qualification,TUGWELL Finn (DEN),OVIEDO Alejandro (GUA),TUGWELL Finn
+US Open Fort Lauderdale 2001,2001-07-07,TUGWELL Finn,OYEBODE Michael,2,0,"22,21|20,19",,GRAND_SLAM,MS,1288,Qualification,TUGWELL Finn (DEN),OYEBODE Michael (NGR),TUGWELL Finn
+US Open Fort Lauderdale 2001,2001-07-07,GIANNINI Antonio,OVIEDO Alejandro,2,1,"15,21,21|21,8,19",,GRAND_SLAM,MS,1288,Qualification,GIANNINI Antonio (VEN),OVIEDO Alejandro (GUA),GIANNINI Antonio
+US Open Fort Lauderdale 2001,2001-07-07,OYEBODE Michael,GIANNINI Antonio,2,0,"21,24|12,22",,GRAND_SLAM,MS,1288,Qualification,OYEBODE Michael (NGR),GIANNINI Antonio (VEN),OYEBODE Michael
+US Open Fort Lauderdale 2001,2001-07-07,OYEBODE Michael,OVIEDO Alejandro,2,0,"21,21|12,18",,GRAND_SLAM,MS,1288,Qualification,OYEBODE Michael (NGR),OVIEDO Alejandro (GUA),OYEBODE Michael
+US Open Fort Lauderdale 2001,2001-07-07,MARTINEZ Michel,LAGOGIANNIS Konstantinos,2,1,"21,10,21|18,21,11",,GRAND_SLAM,MS,1288,Qualification,MARTINEZ Michel (FRA),LAGOGIANNIS Konstantinos (GRE),MARTINEZ Michel
+US Open Fort Lauderdale 2001,2001-07-07,MARTINEZ Michel,HERRERA Jorge,2,0,"21,21|17,13",,GRAND_SLAM,MS,1288,Qualification,MARTINEZ Michel (FRA),HERRERA Jorge (GUA),MARTINEZ Michel
+US Open Fort Lauderdale 2001,2001-07-07,LAGOGIANNIS Konstantinos,HERRERA Jorge,2,0,"21,21|16,9",,GRAND_SLAM,MS,1288,Qualification,LAGOGIANNIS Konstantinos (GRE),HERRERA Jorge (GUA),LAGOGIANNIS Konstantinos
+US Open Fort Lauderdale 2001,2001-07-07,KEINATH Thomas,FLORES Omar,2,0,"21,21|12,18",,GRAND_SLAM,MS,1288,Qualification,KEINATH Thomas (SVK),FLORES Omar (GUA),KEINATH Thomas
+US Open Fort Lauderdale 2001,2001-07-07,KEINATH Thomas,MUJICA Henry,2,1,"20,21,21|22,8,14",,GRAND_SLAM,MS,1288,Qualification,KEINATH Thomas (SVK),MUJICA Henry (VEN),KEINATH Thomas
+US Open Fort Lauderdale 2001,2001-07-07,FAN Yiyong,KEINATH Thomas,2,0,"21,21|17,11",,GRAND_SLAM,MS,1288,Qualification,FAN Yiyong (USA),KEINATH Thomas (SVK),FAN Yiyong
+US Open Fort Lauderdale 2001,2001-07-07,MUJICA Henry,FLORES Omar,2,0,"21,21|18,18",,GRAND_SLAM,MS,1288,Qualification,MUJICA Henry (VEN),FLORES Omar (GUA),MUJICA Henry
+US Open Fort Lauderdale 2001,2001-07-07,FAN Yiyong,FLORES Omar,2,0,"21,21|14,8",,GRAND_SLAM,MS,1288,Qualification,FAN Yiyong (USA),FLORES Omar (GUA),FAN Yiyong
+US Open Fort Lauderdale 2001,2001-07-07,FAN Yiyong,MUJICA Henry,2,0,"21,21|11,13",,GRAND_SLAM,MS,1288,Qualification,FAN Yiyong (USA),MUJICA Henry (VEN),FAN Yiyong
+US Open Fort Lauderdale 2001,2001-07-07,MITAMURA Muneaki,EKUN Abas,2,0,"21,21|16,15",,GRAND_SLAM,MS,1288,Qualification,MITAMURA Muneaki (JPN),EKUN Abas (NGR),MITAMURA Muneaki
+US Open Fort Lauderdale 2001,2001-07-07,MITAMURA Muneaki,BISPHAM Anson,2,0,"21,21|19,14",,GRAND_SLAM,MS,1288,Qualification,MITAMURA Muneaki (JPN),BISPHAM Anson (CAN),MITAMURA Muneaki
+US Open Fort Lauderdale 2001,2001-07-07,MITAMURA Muneaki,RONDON Ely,2,0,"21,21|9,14",,GRAND_SLAM,MS,1288,Qualification,MITAMURA Muneaki (JPN),RONDON Ely (VEN),MITAMURA Muneaki
+US Open Fort Lauderdale 2001,2001-07-07,EKUN Abas,BISPHAM Anson,2,0,"21,21|19,14",,GRAND_SLAM,MS,1288,Qualification,EKUN Abas (NGR),BISPHAM Anson (CAN),EKUN Abas
+US Open Fort Lauderdale 2001,2001-07-07,EKUN Abas,RONDON Ely,2,1,"21,19,21|14,21,18",,GRAND_SLAM,MS,1288,Qualification,EKUN Abas (NGR),RONDON Ely (VEN),EKUN Abas
+US Open Fort Lauderdale 2001,2001-07-07,BISPHAM Anson,RONDON Ely,2,0,"23,21|21,19",,GRAND_SLAM,MS,1288,Qualification,BISPHAM Anson (CAN),RONDON Ely (VEN),BISPHAM Anson
+US Open Fort Lauderdale 2001,2001-07-07,HERBERT Gareth,KASSAM Faazil,2,0,"21,21|15,14",,GRAND_SLAM,MS,1288,Qualification,HERBERT Gareth (ENG),KASSAM Faazil (CAN),HERBERT Gareth
+US Open Fort Lauderdale 2001,2001-07-07,HERBERT Gareth,MUSUBIIRE Sylas,2,0,"21,21|8,7",,GRAND_SLAM,MS,1288,Qualification,HERBERT Gareth (ENG),MUSUBIIRE Sylas (UGA),HERBERT Gareth
+US Open Fort Lauderdale 2001,2001-07-07,KASSAM Faazil,MUSUBIIRE Sylas,2,0,"21,21|8,12",,GRAND_SLAM,MS,1288,Qualification,KASSAM Faazil (CAN),MUSUBIIRE Sylas (UGA),KASSAM Faazil
+US Open Fort Lauderdale 2001,2001-07-07,GARDOS Robert,CSABA Bence,2,0,"21,21|12,10",,GRAND_SLAM,MS,1288,Qualification,GARDOS Robert (AUT),CSABA Bence (CAN),GARDOS Robert
+US Open Fort Lauderdale 2001,2001-07-07,GARDOS Robert,BUTLER Jimmy,2,1,"21,14,21|12,21,11",,GRAND_SLAM,MS,1288,Qualification,GARDOS Robert (AUT),BUTLER Jimmy (USA),GARDOS Robert
+US Open Fort Lauderdale 2001,2001-07-07,CSABA Bence,BUTLER Jimmy,2,0,"21,21|11,14",,GRAND_SLAM,MS,1288,Qualification,CSABA Bence (CAN),BUTLER Jimmy (USA),CSABA Bence
+US Open Fort Lauderdale 2001,2001-07-07,GIONIS Panagiotis,PETER-PAUL Pradeeban,2,0,"21,21|12,16",,GRAND_SLAM,MS,1288,Qualification,GIONIS Panagiotis (GRE),PETER-PAUL Pradeeban (CAN),GIONIS Panagiotis
+US Open Fort Lauderdale 2001,2001-07-07,GIONIS Panagiotis,WER Estuardo,2,0,"21,21|9,10",,GRAND_SLAM,MS,1288,Qualification,GIONIS Panagiotis (GRE),WER Estuardo (GUA),GIONIS Panagiotis
+US Open Fort Lauderdale 2001,2001-07-07,GIONIS Panagiotis,JAIN Ashoo,2,0,"21,21|6,16",,GRAND_SLAM,MS,1288,Qualification,GIONIS Panagiotis (GRE),JAIN Ashoo (USA),GIONIS Panagiotis
+US Open Fort Lauderdale 2001,2001-07-07,PETER-PAUL Pradeeban,WER Estuardo,2,0,"21,21|7,11",,GRAND_SLAM,MS,1288,Qualification,PETER-PAUL Pradeeban (CAN),WER Estuardo (GUA),PETER-PAUL Pradeeban
+US Open Fort Lauderdale 2001,2001-07-07,PETER-PAUL Pradeeban,JAIN Ashoo,2,0,"21,21|16,12",,GRAND_SLAM,MS,1288,Qualification,PETER-PAUL Pradeeban (CAN),JAIN Ashoo (USA),PETER-PAUL Pradeeban
+US Open Fort Lauderdale 2001,2001-07-07,JINDRAK Karl,SAHA Subhajit,2,1,"19,21,21|21,13,16",,GRAND_SLAM,MS,1288,Qualification,JINDRAK Karl (AUT),SAHA Subhajit (IND),JINDRAK Karl
+US Open Fort Lauderdale 2001,2001-07-07,JINDRAK Karl,VENTURA DOS ANJOS Bruno,2,0,"21,21|13,9",,GRAND_SLAM,MS,1288,Qualification,JINDRAK Karl (AUT),VENTURA DOS ANJOS Bruno (BRA),JINDRAK Karl
+US Open Fort Lauderdale 2001,2001-07-07,SAHA Subhajit,VENTURA DOS ANJOS Bruno,2,0,"21,21|8,16",,GRAND_SLAM,MS,1288,Qualification,SAHA Subhajit (IND),VENTURA DOS ANJOS Bruno (BRA),SAHA Subhajit
+US Open Fort Lauderdale 2001,2001-07-07,FETH Stefan,KNUDSEN Morten,2,1,"17,21,21|21,16,11",,GRAND_SLAM,MS,1288,Qualification,FETH Stefan (GER),KNUDSEN Morten (DEN),FETH Stefan
+US Open Fort Lauderdale 2001,2001-07-07,FETH Stefan,PACE Brian,2,0,"21,21|9,9",,GRAND_SLAM,MS,1288,Qualification,FETH Stefan (GER),PACE Brian (USA),FETH Stefan
+US Open Fort Lauderdale 2001,2001-07-07,KNUDSEN Morten,PACE Brian,2,0,"21,21|12,10",,GRAND_SLAM,MS,1288,Qualification,KNUDSEN Morten (DEN),PACE Brian (USA),KNUDSEN Morten
+US Open Fort Lauderdale 2001,2001-07-07,YOUNG Terry,ROY Soumyadeep,2,0,"21,21|12,12",,GRAND_SLAM,MS,1288,Qualification,YOUNG Terry (ENG),ROY Soumyadeep (IND),YOUNG Terry
+US Open Fort Lauderdale 2001,2001-07-07,YANG Heesuk,YOUNG Terry,2,1,"15,21,21|21,11,18",,GRAND_SLAM,MS,1288,Qualification,YANG Heesuk (KOR),YOUNG Terry (ENG),YANG Heesuk
+US Open Fort Lauderdale 2001,2001-07-07,YOUNG Terry,GABRIEL Santiago,2,0,"21,21|9,6",,GRAND_SLAM,MS,1288,Qualification,YOUNG Terry (ENG),GABRIEL Santiago (USA),YOUNG Terry
+US Open Fort Lauderdale 2001,2001-07-07,YANG Heesuk,ROY Soumyadeep,2,0,"21,21|17,13",,GRAND_SLAM,MS,1288,Qualification,YANG Heesuk (KOR),ROY Soumyadeep (IND),YANG Heesuk
+US Open Fort Lauderdale 2001,2001-07-07,ROY Soumyadeep,GABRIEL Santiago,2,0,"21,21|14,17",,GRAND_SLAM,MS,1288,Qualification,ROY Soumyadeep (IND),GABRIEL Santiago (USA),ROY Soumyadeep
+US Open Fort Lauderdale 2001,2001-07-07,YANG Heesuk,GABRIEL Santiago,2,0,"21,21|16,16",,GRAND_SLAM,MS,1288,Qualification,YANG Heesuk (KOR),GABRIEL Santiago (USA),YANG Heesuk
+US Open Fort Lauderdale 2001,2001-07-07,MIRAULT Cedric,CLOSSET Marc,2,0,"21,21|14,19",,GRAND_SLAM,MS,1288,Qualification,MIRAULT Cedric (FRA),CLOSSET Marc (BEL),MIRAULT Cedric
+US Open Fort Lauderdale 2001,2001-07-07,MIRAULT Cedric,KIM Seung Hun,2,1,"21,16,21|18,21,14",,GRAND_SLAM,MS,1288,Qualification,MIRAULT Cedric (FRA),KIM Seung Hun (KOR),MIRAULT Cedric
+US Open Fort Lauderdale 2001,2001-07-07,MIRAULT Cedric,CRETU Razvan,2,0,"21,21|13,14",,GRAND_SLAM,MS,1288,Qualification,MIRAULT Cedric (FRA),CRETU Razvan (USA),MIRAULT Cedric
+US Open Fort Lauderdale 2001,2001-07-07,CLOSSET Marc,KIM Seung Hun,2,0,"21,21|19,15",,GRAND_SLAM,MS,1288,Qualification,CLOSSET Marc (BEL),KIM Seung Hun (KOR),CLOSSET Marc
+US Open Fort Lauderdale 2001,2001-07-07,CLOSSET Marc,CRETU Razvan,2,0,"21,22|12,20",,GRAND_SLAM,MS,1288,Qualification,CLOSSET Marc (BEL),CRETU Razvan (USA),CLOSSET Marc
+US Open Fort Lauderdale 2001,2001-07-07,KIM Seung Hun,CRETU Razvan,2,1,"21,18,21|16,21,13",,GRAND_SLAM,MS,1288,Qualification,KIM Seung Hun (KOR),CRETU Razvan (USA),KIM Seung Hun
+US Open Fort Lauderdale 2001,2001-07-07,TASEI Kunihito,GONZALES Raymond,2,1,"21,10,21|12,21,12",,GRAND_SLAM,MS,1288,Qualification,TASEI Kunihito (JPN),GONZALES Raymond (NOR),TASEI Kunihito
+US Open Fort Lauderdale 2001,2001-07-07,GUO Keli,TASEI Kunihito,2,1,"16,21,22|21,18,20",,GRAND_SLAM,MS,1288,Qualification,GUO Keli (CHN),TASEI Kunihito (JPN),GUO Keli
+US Open Fort Lauderdale 2001,2001-07-07,TASEI Kunihito,HAZINSKI Mark,2,1,"21,11,23|17,21,21",,GRAND_SLAM,MS,1288,Qualification,TASEI Kunihito (JPN),HAZINSKI Mark (USA),TASEI Kunihito
+US Open Fort Lauderdale 2001,2001-07-07,GONZALES Raymond,GUO Keli,2,1,"12,21,21|21,17,11",,GRAND_SLAM,MS,1288,Qualification,GONZALES Raymond (NOR),GUO Keli (CHN),GONZALES Raymond
+US Open Fort Lauderdale 2001,2001-07-07,HAZINSKI Mark,GONZALES Raymond,2,0,"21,23|16,21",,GRAND_SLAM,MS,1288,Qualification,HAZINSKI Mark (USA),GONZALES Raymond (NOR),HAZINSKI Mark
+US Open Fort Lauderdale 2001,2001-07-07,GUO Keli,HAZINSKI Mark,2,0,"21,21|16,6",,GRAND_SLAM,MS,1288,Qualification,GUO Keli (CHN),HAZINSKI Mark (USA),GUO Keli
+US Open Fort Lauderdale 2001,2001-07-07,TRUKSA Jaromir,FAN Yiyong,3,1,"16,21,21,21|21,17,17,6",R64,GRAND_SLAM,MS,1288,Main Draw,TRUKSA Jaromir (SVK),FAN Yiyong (USA),TRUKSA Jaromir
+US Open Fort Lauderdale 2001,2001-07-07,BABOOR Chetan,OWENS Eric,3,2,"18,21,21,19,21|21,15,17,21,10",R64,GRAND_SLAM,MS,1288,Main Draw,BABOOR Chetan (IND),OWENS Eric (USA),BABOOR Chetan
+US Open Fort Lauderdale 2001,2001-07-07,KARAKASEVIC Aleksandar,MARTINEZ Michel,3,1,"21,17,21,22|11,21,18,20",R64,GRAND_SLAM,MS,1288,Main Draw,KARAKASEVIC Aleksandar (SRB),MARTINEZ Michel (FRA),KARAKASEVIC Aleksandar
+US Open Fort Lauderdale 2001,2001-07-07,YANG Heesuk,ERLANDSEN Geir,3,1,"21,22,6,23|18,20,21,21",R64,GRAND_SLAM,MS,1288,Main Draw,YANG Heesuk (KOR),ERLANDSEN Geir (NOR),YANG Heesuk
+US Open Fort Lauderdale 2001,2001-07-07,CLOSSET Marc,FEJER-KONNERTH Zoltan,3,2,"20,21,21,17,21|22,15,11,21,18",R64,GRAND_SLAM,MS,1288,Main Draw,CLOSSET Marc (BEL),FEJER-KONNERTH Zoltan (GER),CLOSSET Marc
+US Open Fort Lauderdale 2001,2001-07-07,YUZAWA Ryo,GUO Keli,3,1,"21,21,15,21|13,8,21,14",R64,GRAND_SLAM,MS,1288,Main Draw,YUZAWA Ryo (JPN),GUO Keli (CHN),YUZAWA Ryo
+US Open Fort Lauderdale 2001,2001-07-07,LUPULESKU Ilija,EKUN Abas,3,0,"21,22,21|5,20,12",R64,GRAND_SLAM,MS,1288,Main Draw,LUPULESKU Ilija (USA),EKUN Abas (NGR),LUPULESKU Ilija
+US Open Fort Lauderdale 2001,2001-07-07,BRATANOV Martin,SORENSEN Mads,3,1,"21,21,15,21|15,13,21,11",R64,GRAND_SLAM,MS,1288,Main Draw,BRATANOV Martin (BEL),SORENSEN Mads (DEN),BRATANOV Martin
+US Open Fort Lauderdale 2001,2001-07-07,BENTSEN Allan,MIRAULT Cedric,3,1,"21,21,20,21|10,19,22,16",R64,GRAND_SLAM,MS,1288,Main Draw,BENTSEN Allan (DEN),MIRAULT Cedric (FRA),BENTSEN Allan
+US Open Fort Lauderdale 2001,2001-07-07,GARDOS Robert,HOYAMA Hugo,3,0,"21,21,21|14,13,16",R64,GRAND_SLAM,MS,1288,Main Draw,GARDOS Robert (AUT),HOYAMA Hugo (BRA),GARDOS Robert
+US Open Fort Lauderdale 2001,2001-07-07,HERBERT Gareth,VARIN Eric,3,0,"21,21,21|14,17,19",R64,GRAND_SLAM,MS,1288,Main Draw,HERBERT Gareth (ENG),VARIN Eric (FRA),HERBERT Gareth
+US Open Fort Lauderdale 2001,2001-07-07,LIU Song,FETH Stefan,3,0,"21,21,21|17,15,13",R64,GRAND_SLAM,MS,1288,Main Draw,LIU Song (ARG),FETH Stefan (GER),LIU Song
+US Open Fort Lauderdale 2001,2001-07-07,JOO Saehyuk,TUGWELL Finn,3,2,"21,15,19,21,21|15,21,21,18,12",R64,GRAND_SLAM,MS,1288,Main Draw,JOO Saehyuk (KOR),TUGWELL Finn (DEN),JOO Saehyuk
+US Open Fort Lauderdale 2001,2001-07-07,CHANG Yen-Shu,GIONIS Panagiotis,3,0,"21,21,21|11,16,17",R64,GRAND_SLAM,MS,1288,Main Draw,CHANG Yen-Shu (TPE),GIONIS Panagiotis (GRE),CHANG Yen-Shu
+US Open Fort Lauderdale 2001,2001-07-07,ZHUANG David,JINDRAK Karl,3,1,"16,21,21,21|21,17,17,19",R64,GRAND_SLAM,MS,1288,Main Draw,ZHUANG David (USA),JINDRAK Karl (AUT),ZHUANG David
+US Open Fort Lauderdale 2001,2001-07-07,LIU Guozheng,TRUKSA Jaromir,3,0,"21,21,21|18,14,9",R32,GRAND_SLAM,MS,1288,Main Draw,LIU Guozheng (CHN),TRUKSA Jaromir (SVK),LIU Guozheng
+US Open Fort Lauderdale 2001,2001-07-07,KEEN Trinko,BABOOR Chetan,3,1,"19,21,21,21|21,12,17,10",R32,GRAND_SLAM,MS,1288,Main Draw,KEEN Trinko (NED),BABOOR Chetan (IND),KEEN Trinko
+US Open Fort Lauderdale 2001,2001-07-07,HEISTER Danny,KARAKASEVIC Aleksandar,3,0,"23,21,21|21,8,16",R32,GRAND_SLAM,MS,1288,Main Draw,HEISTER Danny (NED),KARAKASEVIC Aleksandar (SRB),HEISTER Danny
+US Open Fort Lauderdale 2001,2001-07-07,BLASZCZYK Lucjan,YANG Heesuk,3,0,"21,21,24|12,10,22",R32,GRAND_SLAM,MS,1288,Main Draw,BLASZCZYK Lucjan (POL),YANG Heesuk (KOR),BLASZCZYK Lucjan
+US Open Fort Lauderdale 2001,2001-07-07,ROSSKOPF Jorg,CLOSSET Marc,3,1,"21,21,20,21|11,14,22,11",R32,GRAND_SLAM,MS,1288,Main Draw,ROSSKOPF Jorg (GER),CLOSSET Marc (BEL),ROSSKOPF Jorg
+US Open Fort Lauderdale 2001,2001-07-07,YUZAWA Ryo,WOSIK Torben,3,1,"20,21,21,21|22,18,9,13",R32,GRAND_SLAM,MS,1288,Main Draw,YUZAWA Ryo (JPN),WOSIK Torben (GER),YUZAWA Ryo
+US Open Fort Lauderdale 2001,2001-07-07,TASAKI Toshio,LUPULESKU Ilija,3,1,"21,15,21,21|9,21,19,18",R32,GRAND_SLAM,MS,1288,Main Draw,TASAKI Toshio (JPN),LUPULESKU Ilija (USA),TASAKI Toshio
+US Open Fort Lauderdale 2001,2001-07-07,SAIVE Jean-Michel,BRATANOV Martin,3,1,"22,19,21,21|20,21,11,15",R32,GRAND_SLAM,MS,1288,Main Draw,SAIVE Jean-Michel (BEL),BRATANOV Martin (BEL),SAIVE Jean-Michel
+US Open Fort Lauderdale 2001,2001-07-07,SCHLAGER Werner,BENTSEN Allan,3,2,"20,17,22,21,21|22,21,20,12,16",R32,GRAND_SLAM,MS,1288,Main Draw,SCHLAGER Werner (AUT),BENTSEN Allan (DEN),SCHLAGER Werner
+US Open Fort Lauderdale 2001,2001-07-07,HUANG Johnny,GARDOS Robert,3,2,"15,21,21,17,24|21,18,14,21,22",R32,GRAND_SLAM,MS,1288,Main Draw,HUANG Johnny (CAN),GARDOS Robert (AUT),HUANG Johnny
+US Open Fort Lauderdale 2001,2001-07-07,OH Sangeun,HERBERT Gareth,3,0,"21,21,23|10,18,21",R32,GRAND_SLAM,MS,1288,Main Draw,OH Sangeun (KOR),HERBERT Gareth (ENG),OH Sangeun
+US Open Fort Lauderdale 2001,2001-07-07,BOLL Timo,LIU Song,3,0,"21,21,21|15,7,17",R32,GRAND_SLAM,MS,1288,Main Draw,BOLL Timo (GER),LIU Song (ARG),BOLL Timo
+US Open Fort Lauderdale 2001,2001-07-07,KREANGA Kalinikos,JOO Saehyuk,3,0,"21,21,21|19,17,13",R32,GRAND_SLAM,MS,1288,Main Draw,KREANGA Kalinikos (GRE),JOO Saehyuk (KOR),KREANGA Kalinikos
+US Open Fort Lauderdale 2001,2001-07-07,CHUANG Chih-Yuan,CHANG Yen-Shu,3,0,"21,21,21|13,14,19",R32,GRAND_SLAM,MS,1288,Main Draw,CHUANG Chih-Yuan (TPE),CHANG Yen-Shu (TPE),CHUANG Chih-Yuan
+US Open Fort Lauderdale 2001,2001-07-07,LEE Chulseung,ZHUANG David,3,2,"9,21,21,21,21|21,16,16,23,17",R32,GRAND_SLAM,MS,1288,Main Draw,LEE Chulseung (KOR),ZHUANG David (USA),LEE Chulseung
+US Open Fort Lauderdale 2001,2001-07-07,CHIANG Peng-Lung,GRUJIC Slobodan,3,1,"21,16,21,21|10,21,16,13",R32,GRAND_SLAM,MS,1288,Main Draw,CHIANG Peng-Lung (TPE),GRUJIC Slobodan (SRB),CHIANG Peng-Lung
+US Open Fort Lauderdale 2001,2001-07-07,LIU Guozheng,KEEN Trinko,3,0,"23,21,21|21,19,8",R16,GRAND_SLAM,MS,1288,Main Draw,LIU Guozheng (CHN),KEEN Trinko (NED),LIU Guozheng
+US Open Fort Lauderdale 2001,2001-07-07,BLASZCZYK Lucjan,HEISTER Danny,3,2,"21,15,15,21,21|17,21,21,14,17",R16,GRAND_SLAM,MS,1288,Main Draw,BLASZCZYK Lucjan (POL),HEISTER Danny (NED),BLASZCZYK Lucjan
+US Open Fort Lauderdale 2001,2001-07-07,ROSSKOPF Jorg,YUZAWA Ryo,3,0,"23,21,21|20,13,16",R16,GRAND_SLAM,MS,1288,Main Draw,ROSSKOPF Jorg (GER),YUZAWA Ryo (JPN),ROSSKOPF Jorg
+US Open Fort Lauderdale 2001,2001-07-07,SAIVE Jean-Michel,TASAKI Toshio,3,0,"21,21,21|15,14,13",R16,GRAND_SLAM,MS,1288,Main Draw,SAIVE Jean-Michel (BEL),TASAKI Toshio (JPN),SAIVE Jean-Michel
+US Open Fort Lauderdale 2001,2001-07-07,HUANG Johnny,SCHLAGER Werner,3,2,"21,21,20,19,23|11,14,22,21,21",R16,GRAND_SLAM,MS,1288,Main Draw,HUANG Johnny (CAN),SCHLAGER Werner (AUT),HUANG Johnny
+US Open Fort Lauderdale 2001,2001-07-07,OH Sangeun,BOLL Timo,3,1,"21,21,18,21|14,16,21,13",R16,GRAND_SLAM,MS,1288,Main Draw,OH Sangeun (KOR),BOLL Timo (GER),OH Sangeun
+US Open Fort Lauderdale 2001,2001-07-07,CHUANG Chih-Yuan,KREANGA Kalinikos,3,1,"21,27,20,21|15,25,22,10",R16,GRAND_SLAM,MS,1288,Main Draw,CHUANG Chih-Yuan (TPE),KREANGA Kalinikos (GRE),CHUANG Chih-Yuan
+US Open Fort Lauderdale 2001,2001-07-07,CHIANG Peng-Lung,LEE Chulseung,3,0,"21,21,21|10,9,9",R16,GRAND_SLAM,MS,1288,Main Draw,CHIANG Peng-Lung (TPE),LEE Chulseung (KOR),CHIANG Peng-Lung
+US Open Fort Lauderdale 2001,2001-07-07,LIU Guozheng,BLASZCZYK Lucjan,3,1,"23,22,21,21|25,20,11,17",QF,GRAND_SLAM,MS,1288,Main Draw,LIU Guozheng (CHN),BLASZCZYK Lucjan (POL),LIU Guozheng
+US Open Fort Lauderdale 2001,2001-07-07,SAIVE Jean-Michel,ROSSKOPF Jorg,3,1,"21,14,21,21|15,21,19,17",QF,GRAND_SLAM,MS,1288,Main Draw,SAIVE Jean-Michel (BEL),ROSSKOPF Jorg (GER),SAIVE Jean-Michel
+US Open Fort Lauderdale 2001,2001-07-07,HUANG Johnny,OH Sangeun,3,1,"16,30,21,21|21,28,16,5",QF,GRAND_SLAM,MS,1288,Main Draw,HUANG Johnny (CAN),OH Sangeun (KOR),HUANG Johnny
+US Open Fort Lauderdale 2001,2001-07-07,CHUANG Chih-Yuan,CHIANG Peng-Lung,3,1,"16,21,23,21|21,19,21,9",QF,GRAND_SLAM,MS,1288,Main Draw,CHUANG Chih-Yuan (TPE),CHIANG Peng-Lung (TPE),CHUANG Chih-Yuan
+US Open Fort Lauderdale 2001,2001-07-07,LIU Guozheng,SAIVE Jean-Michel,3,1,"12,21,21,21|21,9,18,11",SF,GRAND_SLAM,MS,1288,Main Draw,LIU Guozheng (CHN),SAIVE Jean-Michel (BEL),LIU Guozheng
+US Open Fort Lauderdale 2001,2001-07-07,HUANG Johnny,CHUANG Chih-Yuan,3,2,"15,19,21,21,21|21,21,17,12,12",SF,GRAND_SLAM,MS,1288,Main Draw,HUANG Johnny (CAN),CHUANG Chih-Yuan (TPE),HUANG Johnny
+US Open Fort Lauderdale 2001,2001-07-07,LIU Guozheng,HUANG Johnny,3,2,"13,21,17,21,21|21,17,21,14,17",F,GRAND_SLAM,MS,1288,Main Draw,LIU Guozheng (CHN),HUANG Johnny (CAN),LIU Guozheng
+US Open Fort Lauderdale 2001,2001-07-07,FINNEMANN Pia,ALVAREZ Ruth,2,0,"21,21|11,14",,GRAND_SLAM,WS,1288,Qualification,FINNEMANN Pia (DEN),ALVAREZ Ruth (GUA),FINNEMANN Pia
+US Open Fort Lauderdale 2001,2001-07-07,FINNEMANN Pia,RAMOS Fabiola,2,0,"21,21|11,9",,GRAND_SLAM,WS,1288,Qualification,FINNEMANN Pia (DEN),RAMOS Fabiola (VEN),FINNEMANN Pia
+US Open Fort Lauderdale 2001,2001-07-07,ALVAREZ Ruth,RAMOS Fabiola,2,0,"21,21|14,18",,GRAND_SLAM,WS,1288,Qualification,ALVAREZ Ruth (GUA),RAMOS Fabiola (VEN),ALVAREZ Ruth
+US Open Fort Lauderdale 2001,2001-07-07,GUANCHEZ Mariana,SENYONDO Mildred,2,0,"21,21|8,9",,GRAND_SLAM,WS,1288,Qualification,GUANCHEZ Mariana (VEN),SENYONDO Mildred (UGA),GUANCHEZ Mariana
+US Open Fort Lauderdale 2001,2001-07-07,WANG Chen,GUANCHEZ Mariana,2,0,"21,21|11,12",,GRAND_SLAM,WS,1288,Qualification,WANG Chen (USA),GUANCHEZ Mariana (VEN),WANG Chen
+US Open Fort Lauderdale 2001,2001-07-07,WANG Chen,SENYONDO Mildred,2,0,"21,21|7,11",,GRAND_SLAM,WS,1288,Qualification,WANG Chen (USA),SENYONDO Mildred (UGA),WANG Chen
+US Open Fort Lauderdale 2001,2001-07-07,SUNG Virginia,INDU Nagapattinam R,2,0,"21,21|8,16",,GRAND_SLAM,WS,1288,Qualification,SUNG Virginia (USA),INDU Nagapattinam R (IND),SUNG Virginia
+US Open Fort Lauderdale 2001,2001-07-07,KIM Bokrae,SUNG Virginia,2,0,"21,21|11,8",,GRAND_SLAM,WS,1288,Qualification,KIM Bokrae (KOR),SUNG Virginia (USA),KIM Bokrae
+US Open Fort Lauderdale 2001,2001-07-07,KIM Bokrae,INDU Nagapattinam R,2,0,"21,21|12,13",,GRAND_SLAM,WS,1288,Qualification,KIM Bokrae (KOR),INDU Nagapattinam R (IND),KIM Bokrae
+US Open Fort Lauderdale 2001,2001-07-07,GHATAK Poulomi,CHIU Wennin,2,0,"21,21|16,10",,GRAND_SLAM,WS,1288,Qualification,GHATAK Poulomi (IND),CHIU Wennin (CAN),GHATAK Poulomi
+US Open Fort Lauderdale 2001,2001-07-07,YOON Jihye,GHATAK Poulomi,2,0,"21,21|19,15",,GRAND_SLAM,WS,1288,Qualification,YOON Jihye (KOR),GHATAK Poulomi (IND),YOON Jihye
+US Open Fort Lauderdale 2001,2001-07-07,GHATAK Poulomi,KYAKOBYE June,2,0,"21,21|15,12",,GRAND_SLAM,WS,1288,Qualification,GHATAK Poulomi (IND),KYAKOBYE June (UGA),GHATAK Poulomi
+US Open Fort Lauderdale 2001,2001-07-07,YOON Jihye,CHIU Wennin,2,0,"21,21|18,14",,GRAND_SLAM,WS,1288,Qualification,YOON Jihye (KOR),CHIU Wennin (CAN),YOON Jihye
+US Open Fort Lauderdale 2001,2001-07-07,CHIU Wennin,KYAKOBYE June,2,0,"21,21|10,11",,GRAND_SLAM,WS,1288,Qualification,CHIU Wennin (CAN),KYAKOBYE June (UGA),CHIU Wennin
+US Open Fort Lauderdale 2001,2001-07-07,YOON Jihye,KYAKOBYE June,2,0,"21,21|12,9",,GRAND_SLAM,WS,1288,Qualification,YOON Jihye (KOR),KYAKOBYE June (UGA),YOON Jihye
+US Open Fort Lauderdale 2001,2001-07-07,YU Fu,YANG Simone,2,0,"21,21|13,15",,GRAND_SLAM,WS,1288,Qualification,YU Fu (POR),YANG Simone (USA),YU Fu
+US Open Fort Lauderdale 2001,2001-07-07,YU Fu,BOSIKA Mimi,2,0,"21,21|18,13",,GRAND_SLAM,WS,1288,Qualification,YU Fu (POR),BOSIKA Mimi (USA),YU Fu
+US Open Fort Lauderdale 2001,2001-07-07,GHOSH Mantu,PEREZ Luisana,2,0,"21,21|18,15",,GRAND_SLAM,WS,1288,Qualification,GHOSH Mantu (IND),PEREZ Luisana (VEN),GHOSH Mantu
+US Open Fort Lauderdale 2001,2001-07-07,JIA Beibei,GHOSH Mantu,2,0,"26,21|24,9",,GRAND_SLAM,WS,1288,Qualification,JIA Beibei (CHN),GHOSH Mantu (IND),JIA Beibei
+US Open Fort Lauderdale 2001,2001-07-07,MOSELEY Kibibi,GHOSH Mantu,2,0,"21,21|14,13",,GRAND_SLAM,WS,1288,Qualification,MOSELEY Kibibi (BAR),GHOSH Mantu (IND),MOSELEY Kibibi
+US Open Fort Lauderdale 2001,2001-07-07,JIA Beibei,PEREZ Luisana,2,0,"21,21|11,13",,GRAND_SLAM,WS,1288,Qualification,JIA Beibei (CHN),PEREZ Luisana (VEN),JIA Beibei
+US Open Fort Lauderdale 2001,2001-07-07,PEREZ Luisana,MOSELEY Kibibi,2,0,"21,21|17,19",,GRAND_SLAM,WS,1288,Qualification,PEREZ Luisana (VEN),MOSELEY Kibibi (BAR),PEREZ Luisana
+US Open Fort Lauderdale 2001,2001-07-07,JIA Beibei,MOSELEY Kibibi,2,0,"21,21|11,15",,GRAND_SLAM,WS,1288,Qualification,JIA Beibei (CHN),MOSELEY Kibibi (BAR),JIA Beibei
+US Open Fort Lauderdale 2001,2001-07-07,ROUSSY Marie-Christine,RAMOS Fabiola,2,0,"21,21|10,15",,GRAND_SLAM,WS,1288,Qualification,ROUSSY Marie-Christine (CAN),RAMOS Fabiola (VEN),ROUSSY Marie-Christine
+US Open Fort Lauderdale 2001,2001-07-07,LI Qiangbing,RAMOS Fabiola,2,0,"21,21|14,18",,GRAND_SLAM,WS,1288,Qualification,LI Qiangbing (AUT),RAMOS Fabiola (VEN),LI Qiangbing
+US Open Fort Lauderdale 2001,2001-07-07,RAMOS Fabiola,ROUFEH Mahin,2,0,"21,21|9,10",,GRAND_SLAM,WS,1288,Qualification,RAMOS Fabiola (VEN),ROUFEH Mahin (USA),RAMOS Fabiola
+US Open Fort Lauderdale 2001,2001-07-07,LI Qiangbing,ROUSSY Marie-Christine,2,0,"21,21|14,8",,GRAND_SLAM,WS,1288,Qualification,LI Qiangbing (AUT),ROUSSY Marie-Christine (CAN),LI Qiangbing
+US Open Fort Lauderdale 2001,2001-07-07,KIM Kyungha,ALVAREZ Ruth,3,0,"21,21,21|6,10,6",R64,GRAND_SLAM,WS,1288,Main Draw,KIM Kyungha (KOR),ALVAREZ Ruth (GUA),KIM Kyungha
+US Open Fort Lauderdale 2001,2001-07-07,KIM Bokrae,WANG Chen,3,0,"21,21,21|19,7,14",R64,GRAND_SLAM,WS,1288,Main Draw,KIM Bokrae (KOR),WANG Chen (USA),KIM Bokrae
+US Open Fort Lauderdale 2001,2001-07-07,NEMES Olga,PARK Kyungae (II),3,0,"21,21,21|12,14,16",R64,GRAND_SLAM,WS,1288,Main Draw,NEMES Olga (ROU),PARK Kyungae (II) (KOR),NEMES Olga
+US Open Fort Lauderdale 2001,2001-07-07,FINNEMANN Pia,BOSIKA Mimi,3,0,"21,21,21|16,18,19",R64,GRAND_SLAM,WS,1288,Main Draw,FINNEMANN Pia (DEN),BOSIKA Mimi (USA),FINNEMANN Pia
+US Open Fort Lauderdale 2001,2001-07-07,YOON Jihye,BENTSEN Eldijana,3,2,"10,21,21,19,21|21,18,19,21,18",R64,GRAND_SLAM,WS,1288,Main Draw,YOON Jihye (KOR),BENTSEN Eldijana (CRO),YOON Jihye
+US Open Fort Lauderdale 2001,2001-07-07,JIA Beibei,REGENWETTER Peggy,3,0,"21,21,23|18,6,21",R64,GRAND_SLAM,WS,1288,Main Draw,JIA Beibei (CHN),REGENWETTER Peggy (LUX),JIA Beibei
+US Open Fort Lauderdale 2001,2001-07-07,KIM Soongsil,PEREZ Luisana,3,0,"21,21,21|18,6,11",R64,GRAND_SLAM,WS,1288,Main Draw,KIM Soongsil (KOR),PEREZ Luisana (VEN),KIM Soongsil
+US Open Fort Lauderdale 2001,2001-07-07,BANH THUA Tawny,ROUSSY Marie-Christine,3,0,"21,21,21|9,15,12",R64,GRAND_SLAM,WS,1288,Main Draw,BANH THUA Tawny (USA),ROUSSY Marie-Christine (CAN),BANH THUA Tawny
+US Open Fort Lauderdale 2001,2001-07-07,CADA Petra,GUANCHEZ Mariana,3,0,"21,21,21|10,11,15",R64,GRAND_SLAM,WS,1288,Main Draw,CADA Petra (CAN),GUANCHEZ Mariana (VEN),CADA Petra
+US Open Fort Lauderdale 2001,2001-07-07,YU Fu,DAS Mouma,3,0,"21,21,21|14,14,7",R64,GRAND_SLAM,WS,1288,Main Draw,YU Fu (POR),DAS Mouma (IND),YU Fu
+US Open Fort Lauderdale 2001,2001-07-07,NISHII Yuka,GHOSH Mantu,3,0,"21,21,21|10,12,8",R64,GRAND_SLAM,WS,1288,Main Draw,NISHII Yuka (JPN),GHOSH Mantu (IND),NISHII Yuka
+US Open Fort Lauderdale 2001,2001-07-07,SHIN Soohee,CHIU Wennin,3,0,"21,21,21|15,17,17",R64,GRAND_SLAM,WS,1288,Main Draw,SHIN Soohee (KOR),CHIU Wennin (CAN),SHIN Soohee
+US Open Fort Lauderdale 2001,2001-07-07,LEE Hyangmi,GHATAK Poulomi,3,0,"21,21,21|9,12,17",R64,GRAND_SLAM,WS,1288,Main Draw,LEE Hyangmi (KOR),GHATAK Poulomi (IND),LEE Hyangmi
+US Open Fort Lauderdale 2001,2001-07-07,SUNG Virginia,XU Chris,3,0,"21,21,21|11,14,14",R64,GRAND_SLAM,WS,1288,Main Draw,SUNG Virginia (USA),XU Chris (CAN),SUNG Virginia
+US Open Fort Lauderdale 2001,2001-07-07,RATHER Jasna,LI Qiangbing,3,2,"21,12,22,21,21|16,21,24,10,14",R64,GRAND_SLAM,WS,1288,Main Draw,RATHER Jasna (USA),LI Qiangbing (AUT),RATHER Jasna
+US Open Fort Lauderdale 2001,2001-07-07,ZHANG Yining,KIM Kyungha,3,0,"23,21,21|21,11,18",R32,GRAND_SLAM,WS,1288,Main Draw,ZHANG Yining (CHN),KIM Kyungha (KOR),ZHANG Yining
+US Open Fort Lauderdale 2001,2001-07-07,BAI Yang,KIM Bokrae,3,0,"21,21,21|11,15,13",R32,GRAND_SLAM,WS,1288,Main Draw,BAI Yang (CHN),KIM Bokrae (KOR),BAI Yang
+US Open Fort Lauderdale 2001,2001-07-07,NEMES Olga,FINNEMANN Pia,3,1,"21,21,20,21|14,13,22,16",R32,GRAND_SLAM,WS,1288,Main Draw,NEMES Olga (ROU),FINNEMANN Pia (DEN),NEMES Olga
+US Open Fort Lauderdale 2001,2001-07-07,BATORFI Csilla,YOON Jihye,3,2,"9,21,13,21,23|21,16,21,14,21",R32,GRAND_SLAM,WS,1288,Main Draw,BATORFI Csilla (HUN),YOON Jihye (KOR),BATORFI Csilla
+US Open Fort Lauderdale 2001,2001-07-07,JIA Beibei,TOTH Krisztina,3,1,"21,21,18,21|15,13,21,17",R32,GRAND_SLAM,WS,1288,Main Draw,JIA Beibei (CHN),TOTH Krisztina (HUN),JIA Beibei
+US Open Fort Lauderdale 2001,2001-07-07,UMEMURA Aya,KIM Soongsil,3,0,"21,21,21|11,11,17",R32,GRAND_SLAM,WS,1288,Main Draw,UMEMURA Aya (JPN),KIM Soongsil (KOR),UMEMURA Aya
+US Open Fort Lauderdale 2001,2001-07-07,LEE Eunsil,BANH THUA Tawny,3,1,"21,17,21,21|18,21,14,13",R32,GRAND_SLAM,WS,1288,Main Draw,LEE Eunsil (KOR),BANH THUA Tawny (USA),LEE Eunsil
+US Open Fort Lauderdale 2001,2001-07-07,NI Xia Lian,KRAMER Tanja,3,0,"21,21,21|10,11,12",R32,GRAND_SLAM,WS,1288,Main Draw,NI Xia Lian (LUX),KRAMER Tanja (GER),NI Xia Lian
+US Open Fort Lauderdale 2001,2001-07-07,NIU Jianfeng,CADA Petra,3,0,"21,21,21|15,13,12",R32,GRAND_SLAM,WS,1288,Main Draw,NIU Jianfeng (CHN),CADA Petra (CAN),NIU Jianfeng
+US Open Fort Lauderdale 2001,2001-07-07,GAO Jun,RAMOS Fabiola,3,0,"21,21,21|18,16,12",R32,GRAND_SLAM,WS,1288,Main Draw,GAO Jun (USA),RAMOS Fabiola (VEN),GAO Jun
+US Open Fort Lauderdale 2001,2001-07-07,NISHII Yuka,GUO Yan (1982),3,1,"21,21,17,23|19,17,21,21",R32,GRAND_SLAM,WS,1288,Main Draw,NISHII Yuka (JPN),GUO Yan (1982) (CHN),NISHII Yuka
+US Open Fort Lauderdale 2001,2001-07-07,KONISHI An,SHIN Soohee,3,2,"19,20,21,21,21|21,22,14,15,7",R32,GRAND_SLAM,WS,1288,Main Draw,KONISHI An (JPN),SHIN Soohee (KOR),KONISHI An
+US Open Fort Lauderdale 2001,2001-07-07,WANG Tingting,LEE Hyangmi,3,0,"21,21,21|15,13,15",R32,GRAND_SLAM,WS,1288,Main Draw,WANG Tingting (CHN),LEE Hyangmi (KOR),WANG Tingting
+US Open Fort Lauderdale 2001,2001-07-07,SVENSSON Asa,SUNG Virginia,3,0,"21,21,21|17,12,17",R32,GRAND_SLAM,WS,1288,Main Draw,SVENSSON Asa (SWE),SUNG Virginia (USA),SVENSSON Asa
+US Open Fort Lauderdale 2001,2001-07-07,RYU Jihae,RATHER Jasna,3,0,"21,21,21|13,12,13",R32,GRAND_SLAM,WS,1288,Main Draw,RYU Jihae (KOR),RATHER Jasna (USA),RYU Jihae
+US Open Fort Lauderdale 2001,2001-07-07,ZHANG Yining,BAI Yang,3,1,"21,21,11,21|15,19,21,11",R16,GRAND_SLAM,WS,1288,Main Draw,ZHANG Yining (CHN),BAI Yang (CHN),ZHANG Yining
+US Open Fort Lauderdale 2001,2001-07-07,NEMES Olga,BATORFI Csilla,3,1,"15,21,21,21|21,11,19,7",R16,GRAND_SLAM,WS,1288,Main Draw,NEMES Olga (ROU),BATORFI Csilla (HUN),NEMES Olga
+US Open Fort Lauderdale 2001,2001-07-07,UMEMURA Aya,JIA Beibei,3,1,"22,19,21,21|20,21,15,8",R16,GRAND_SLAM,WS,1288,Main Draw,UMEMURA Aya (JPN),JIA Beibei (CHN),UMEMURA Aya
+US Open Fort Lauderdale 2001,2001-07-07,NI Xia Lian,LEE Eunsil,3,1,"21,21,11,21|15,8,21,16",R16,GRAND_SLAM,WS,1288,Main Draw,NI Xia Lian (LUX),LEE Eunsil (KOR),NI Xia Lian
+US Open Fort Lauderdale 2001,2001-07-07,NIU Jianfeng,GAO Jun,3,1,"21,21,20,21|11,15,22,19",R16,GRAND_SLAM,WS,1288,Main Draw,NIU Jianfeng (CHN),GAO Jun (USA),NIU Jianfeng
+US Open Fort Lauderdale 2001,2001-07-07,YU Fu,NISHII Yuka,3,1,"21,21,6,21|12,18,22,18",R16,GRAND_SLAM,WS,1288,Main Draw,YU Fu (POR),NISHII Yuka (JPN),YU Fu
+US Open Fort Lauderdale 2001,2001-07-07,WANG Tingting,KONISHI An,3,0,"22,21,21|20,11,13",R16,GRAND_SLAM,WS,1288,Main Draw,WANG Tingting (CHN),KONISHI An (JPN),WANG Tingting
+US Open Fort Lauderdale 2001,2001-07-07,RYU Jihae,SVENSSON Asa,3,2,"10,18,21,21,21|21,21,18,17,17",R16,GRAND_SLAM,WS,1288,Main Draw,RYU Jihae (KOR),SVENSSON Asa (SWE),RYU Jihae
+US Open Fort Lauderdale 2001,2001-07-07,NEMES Olga,ZHANG Yining,3,2,"21,21,20,7,21|17,15,22,21,18",QF,GRAND_SLAM,WS,1288,Main Draw,NEMES Olga (ROU),ZHANG Yining (CHN),NEMES Olga
+US Open Fort Lauderdale 2001,2001-07-07,UMEMURA Aya,NI Xia Lian,3,1,"12,23,21,21|21,21,17,13",QF,GRAND_SLAM,WS,1288,Main Draw,UMEMURA Aya (JPN),NI Xia Lian (LUX),UMEMURA Aya
+US Open Fort Lauderdale 2001,2001-07-07,NIU Jianfeng,YU Fu,3,0,"21,21,21|7,15,12",QF,GRAND_SLAM,WS,1288,Main Draw,NIU Jianfeng (CHN),YU Fu (POR),NIU Jianfeng
+US Open Fort Lauderdale 2001,2001-07-07,RYU Jihae,WANG Tingting,3,0,"21,21,23|18,17,21",QF,GRAND_SLAM,WS,1288,Main Draw,RYU Jihae (KOR),WANG Tingting (CHN),RYU Jihae
+US Open Fort Lauderdale 2001,2001-07-07,UMEMURA Aya,NEMES Olga,3,1,"21,21,13,21|16,18,21,17",SF,GRAND_SLAM,WS,1288,Main Draw,UMEMURA Aya (JPN),NEMES Olga (ROU),UMEMURA Aya
+US Open Fort Lauderdale 2001,2001-07-07,NIU Jianfeng,RYU Jihae,3,0,"21,21,21|13,15,5",SF,GRAND_SLAM,WS,1288,Main Draw,NIU Jianfeng (CHN),RYU Jihae (KOR),NIU Jianfeng
+US Open Fort Lauderdale 2001,2001-07-07,NIU Jianfeng,UMEMURA Aya,3,0,"21,21,21|11,13,2",F,GRAND_SLAM,WS,1288,Main Draw,NIU Jianfeng (CHN),UMEMURA Aya (JPN),NIU Jianfeng

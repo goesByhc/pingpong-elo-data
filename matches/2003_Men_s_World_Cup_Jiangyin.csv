@@ -1,0 +1,33 @@
+﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier,sub_event,event_id,stage,player_a_raw,player_b_raw,winner_raw
+Men's World Cup Jiangyin 2003,2003-10-09,MA Lin,BOLL Timo,4,2,"11,13,11,9,12,11|4,11,5,11,14,8",QF,WORLD_CUP,MS,1610,Main Draw,MA Lin (CHN),BOLL Timo (GER),MA Lin
+Men's World Cup Jiangyin 2003,2003-10-09,WANG Liqin,RYU Seungmin,4,1,"11,11,9,11,11|7,8,11,8,3",QF,WORLD_CUP,MS,1610,Main Draw,WANG Liqin (CHN),RYU Seungmin (KOR),WANG Liqin
+Men's World Cup Jiangyin 2003,2003-10-09,SAIVE Jean-Michel,WANG Hao,4,3,"8,9,11,11,11,13,11|11,11,8,5,7,15,9",QF,WORLD_CUP,MS,1610,Main Draw,SAIVE Jean-Michel (BEL),WANG Hao (CHN),SAIVE Jean-Michel
+Men's World Cup Jiangyin 2003,2003-10-09,KREANGA Kalinikos,SMIRNOV Alexey,4,0,"11,13,11,11|5,11,7,7",QF,WORLD_CUP,MS,1610,Main Draw,KREANGA Kalinikos (GRE),SMIRNOV Alexey (RUS),KREANGA Kalinikos
+Men's World Cup Jiangyin 2003,2003-10-09,MA Lin,WANG Liqin,4,1,"11,11,3,11,11|8,9,11,4,6",SF,WORLD_CUP,MS,1610,Main Draw,MA Lin (CHN),WANG Liqin (CHN),MA Lin
+Men's World Cup Jiangyin 2003,2003-10-09,KREANGA Kalinikos,SAIVE Jean-Michel,4,0,"11,11,11,11|9,9,9,6",SF,WORLD_CUP,MS,1610,Main Draw,KREANGA Kalinikos (GRE),SAIVE Jean-Michel (BEL),KREANGA Kalinikos
+Men's World Cup Jiangyin 2003,2003-10-09,MA Lin,KREANGA Kalinikos,4,1,"9,11,11,11,11|11,6,9,7,9",F,WORLD_CUP,MS,1610,Main Draw,MA Lin (CHN),KREANGA Kalinikos (GRE),MA Lin
+Men's World Cup Jiangyin 2003,2003-10-09,WANG Liqin,SAIVE Jean-Michel,4,1,"11,9,11,11,11|6,11,9,8,8",3RD,WORLD_CUP,MS,1610,Position Draw,WANG Liqin (CHN),SAIVE Jean-Michel (BEL),WANG Liqin
+Men's World Cup Jiangyin 2003,2003-10-09,MA Lin,SAIVE Jean-Michel,4,0,"11,11,11,11|7,7,6,6",,WORLD_CUP,MS,1610,Qualification,MA Lin (CHN),SAIVE Jean-Michel (BEL),MA Lin
+Men's World Cup Jiangyin 2003,2003-10-09,CHUANG Chih-Yuan,JACKSON Peter,4,0,"11,11,11,11|5,2,5,3",QR2,WORLD_CUP,MS,1610,Qualification,CHUANG Chih-Yuan (TPE),JACKSON Peter (NZL),CHUANG Chih-Yuan
+Men's World Cup Jiangyin 2003,2003-10-09,MA Lin,CHUANG Chih-Yuan,4,1,"7,11,11,11,12|11,5,8,4,10",3,WORLD_CUP,MS,1610,Qualification,MA Lin (CHN),CHUANG Chih-Yuan (TPE),MA Lin
+Men's World Cup Jiangyin 2003,2003-10-09,SAIVE Jean-Michel,JACKSON Peter,4,0,"11,11,11,11|3,2,6,8",QR4,WORLD_CUP,MS,1610,Qualification,SAIVE Jean-Michel (BEL),JACKSON Peter (NZL),SAIVE Jean-Michel
+Men's World Cup Jiangyin 2003,2003-10-09,MA Lin,JACKSON Peter,4,0,"11,11,11,11|6,7,3,5",5,WORLD_CUP,MS,1610,Qualification,MA Lin (CHN),JACKSON Peter (NZL),MA Lin
+Men's World Cup Jiangyin 2003,2003-10-09,SAIVE Jean-Michel,CHUANG Chih-Yuan,4,0,"11,11,11,12|9,4,6,10",6,WORLD_CUP,MS,1610,Qualification,SAIVE Jean-Michel (BEL),CHUANG Chih-Yuan (TPE),SAIVE Jean-Michel
+Men's World Cup Jiangyin 2003,2003-10-09,SMIRNOV Alexey,BOLL Timo,4,1,"10,11,12,12,11|12,6,10,10,6",,WORLD_CUP,MS,1610,Qualification,SMIRNOV Alexey (RUS),BOLL Timo (GER),SMIRNOV Alexey
+Men's World Cup Jiangyin 2003,2003-10-09,HUANG Johnny,CHIANG Peng-Lung,4,3,"11,8,11,6,13,11,11|6,11,8,11,11,13,9",QR2,WORLD_CUP,MS,1610,Qualification,HUANG Johnny (CAN),CHIANG Peng-Lung (TPE),HUANG Johnny
+Men's World Cup Jiangyin 2003,2003-10-09,CHIANG Peng-Lung,BOLL Timo,4,3,"5,11,2,11,3,12,11|11,9,11,9,11,10,5",3,WORLD_CUP,MS,1610,Qualification,CHIANG Peng-Lung (TPE),BOLL Timo (GER),CHIANG Peng-Lung
+Men's World Cup Jiangyin 2003,2003-10-09,SMIRNOV Alexey,HUANG Johnny,4,1,"11,12,11,10,11|8,10,3,12,8",QR4,WORLD_CUP,MS,1610,Qualification,SMIRNOV Alexey (RUS),HUANG Johnny (CAN),SMIRNOV Alexey
+Men's World Cup Jiangyin 2003,2003-10-09,BOLL Timo,HUANG Johnny,4,1,"8,12,11,11,11|11,10,4,8,7",5,WORLD_CUP,MS,1610,Qualification,BOLL Timo (GER),HUANG Johnny (CAN),BOLL Timo
+Men's World Cup Jiangyin 2003,2003-10-09,SMIRNOV Alexey,CHIANG Peng-Lung,4,0,"11,11,11,11|6,7,3,7",6,WORLD_CUP,MS,1610,Qualification,SMIRNOV Alexey (RUS),CHIANG Peng-Lung (TPE),SMIRNOV Alexey
+Men's World Cup Jiangyin 2003,2003-10-09,WANG Liqin,PRIMORAC Zoran,4,2,"11,11,9,8,11,11|6,9,11,11,5,9",,WORLD_CUP,MS,1610,Qualification,WANG Liqin (CHN),PRIMORAC Zoran (CRO),WANG Liqin
+Men's World Cup Jiangyin 2003,2003-10-09,JOO Saehyuk,KREANGA Kalinikos,4,2,"11,7,8,11,11,11|7,11,11,8,8,5",QR2,WORLD_CUP,MS,1610,Qualification,JOO Saehyuk (KOR),KREANGA Kalinikos (GRE),JOO Saehyuk
+Men's World Cup Jiangyin 2003,2003-10-09,KREANGA Kalinikos,WANG Liqin,4,2,"11,4,11,8,11,13|7,11,9,11,5,11",3,WORLD_CUP,MS,1610,Qualification,KREANGA Kalinikos (GRE),WANG Liqin (CHN),KREANGA Kalinikos
+Men's World Cup Jiangyin 2003,2003-10-09,JOO Saehyuk,PRIMORAC Zoran,4,2,"9,11,11,11,6,11|11,4,8,5,11,5",QR4,WORLD_CUP,MS,1610,Qualification,JOO Saehyuk (KOR),PRIMORAC Zoran (CRO),JOO Saehyuk
+Men's World Cup Jiangyin 2003,2003-10-09,WANG Liqin,JOO Saehyuk,4,1,"11,7,11,11,11|6,11,2,5,7",5,WORLD_CUP,MS,1610,Qualification,WANG Liqin (CHN),JOO Saehyuk (KOR),WANG Liqin
+Men's World Cup Jiangyin 2003,2003-10-09,KREANGA Kalinikos,PRIMORAC Zoran,4,2,"6,11,9,11,11,12|11,9,11,9,7,10",6,WORLD_CUP,MS,1610,Qualification,KREANGA Kalinikos (GRE),PRIMORAC Zoran (CRO),KREANGA Kalinikos
+Men's World Cup Jiangyin 2003,2003-10-09,RYU Seungmin,SCHLAGER Werner,4,3,"11,4,11,11,6,9,11|9,11,6,8,11,11,4",,WORLD_CUP,MS,1610,Qualification,RYU Seungmin (KOR),SCHLAGER Werner (AUT),RYU Seungmin
+Men's World Cup Jiangyin 2003,2003-10-09,WANG Hao,WOSIK Torben,4,0,"11,11,11,11|3,2,4,3",QR2,WORLD_CUP,MS,1610,Qualification,WANG Hao (CHN),WOSIK Torben (GER),WANG Hao
+Men's World Cup Jiangyin 2003,2003-10-09,WANG Hao,SCHLAGER Werner,4,0,"11,11,11,11|6,6,7,6",3,WORLD_CUP,MS,1610,Qualification,WANG Hao (CHN),SCHLAGER Werner (AUT),WANG Hao
+Men's World Cup Jiangyin 2003,2003-10-09,RYU Seungmin,WOSIK Torben,4,0,"11,11,11,11|6,8,7,4",QR4,WORLD_CUP,MS,1610,Qualification,RYU Seungmin (KOR),WOSIK Torben (GER),RYU Seungmin
+Men's World Cup Jiangyin 2003,2003-10-09,SCHLAGER Werner,WOSIK Torben,4,3,"7,11,5,11,9,11,14|11,8,11,7,11,6,12",5,WORLD_CUP,MS,1610,Qualification,SCHLAGER Werner (AUT),WOSIK Torben (GER),SCHLAGER Werner
+Men's World Cup Jiangyin 2003,2003-10-09,WANG Hao,RYU Seungmin,4,3,"11,3,11,10,12,11,11|6,11,8,12,14,5,8",6,WORLD_CUP,MS,1610,Qualification,WANG Hao (CHN),RYU Seungmin (KOR),WANG Hao
