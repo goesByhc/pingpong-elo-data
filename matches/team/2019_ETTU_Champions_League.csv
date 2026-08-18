@@ -1,15 +1,15 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier
+tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier
 2019/20 ETTU Champions League,2019-09-12,FC Saarbrucken,Ping Pong Club Villeneuvois,3,0,,GROUP,EURO_LEAGUE
-2019/20 ETTU Champions League,2019-09-12,Post SV Muhlhausen,Irun Leka Enea Tenis de Mesa,3,0,,GROUP,EURO_LEAGUE
+2019/20 ETTU Champions League,2019-09-12,Post SV Mühlhausen,Irun Leka Enea Tenis de Mesa,3,0,,GROUP,EURO_LEAGUE
 2019/20 ETTU Champions League,2019-09-12,SPG Felbermayr Wels,Roskilde Bordtennis Btk61,3,2,,GROUP,EURO_LEAGUE
 2019/20 ETTU Champions League,2019-09-12,UMMC Ekaterinburg,Ttc Ostrava 2016,3,0,,GROUP,EURO_LEAGUE
 2019/20 ETTU Champions League,2019-09-13,Bogoria Grodzisk Mazowiecki,GDCS Juncal,3,0,,GROUP,EURO_LEAGUE
-2019/20 ETTU Champions League,2019-09-13,Borussia Dusseldorf,Sporting CP,3,1,,GROUP,EURO_LEAGUE
+2019/20 ETTU Champions League,2019-09-13,Borussia Düsseldorf,Sporting CP,3,1,,GROUP,EURO_LEAGUE
 2019/20 ETTU Champions League,2019-09-13,GV Hennebont Tt,STK Starr Croatia,3,1,,GROUP,EURO_LEAGUE
 2019/20 ETTU Champions League,2019-09-13,Gazprom Fakel Orenburg,Vs Angers Tt,3,0,,GROUP,EURO_LEAGUE
 2019/20 ETTU Champions League,2019-10-15,FC Saarbrucken,Bogoria Grodzisk Mazowiecki,3,2,,GROUP,EURO_LEAGUE
-2019/20 ETTU Champions League,2019-10-16,Gazprom Fakel Orenburg,Post SV Muhlhausen,3,0,,GROUP,EURO_LEAGUE
-2019/20 ETTU Champions League,2019-10-17,Borussia Dusseldorf,GV Hennebont Tt,3,1,,GROUP,EURO_LEAGUE
+2019/20 ETTU Champions League,2019-10-16,Gazprom Fakel Orenburg,Post SV Mühlhausen,3,0,,GROUP,EURO_LEAGUE
+2019/20 ETTU Champions League,2019-10-17,Borussia Düsseldorf,GV Hennebont Tt,3,1,,GROUP,EURO_LEAGUE
 2019/20 ETTU Champions League,2019-10-18,Ping Pong Club Villeneuvois,GDCS Juncal,3,0,,GROUP,EURO_LEAGUE
 2019/20 ETTU Champions League,2019-10-18,SPG Felbermayr Wels,Ttc Ostrava 2016,3,0,,GROUP,EURO_LEAGUE
 2019/20 ETTU Champions League,2019-10-18,Sporting CP,STK Starr Croatia,3,2,,GROUP,EURO_LEAGUE
@@ -17,40 +17,40 @@
 2019/20 ETTU Champions League,2019-10-18,Vs Angers Tt,Irun Leka Enea Tenis de Mesa,3,2,,GROUP,EURO_LEAGUE
 2019/20 ETTU Champions League,2019-10-23,Sporting CP,GV Hennebont Tt,3,1,,GROUP,EURO_LEAGUE
 2019/20 ETTU Champions League,2019-10-24,Roskilde Bordtennis Btk61,Ttc Ostrava 2016,3,0,,GROUP,EURO_LEAGUE
-2019/20 ETTU Champions League,2019-10-24,Vs Angers Tt,Post SV Muhlhausen,3,1,,GROUP,EURO_LEAGUE
+2019/20 ETTU Champions League,2019-10-24,Vs Angers Tt,Post SV Mühlhausen,3,1,,GROUP,EURO_LEAGUE
 2019/20 ETTU Champions League,2019-10-25,Bogoria Grodzisk Mazowiecki,Ping Pong Club Villeneuvois,3,0,,GROUP,EURO_LEAGUE
-2019/20 ETTU Champions League,2019-10-25,Borussia Dusseldorf,STK Starr Croatia,3,0,,GROUP,EURO_LEAGUE
+2019/20 ETTU Champions League,2019-10-25,Borussia Düsseldorf,STK Starr Croatia,3,0,,GROUP,EURO_LEAGUE
 2019/20 ETTU Champions League,2019-10-25,FC Saarbrucken,GDCS Juncal,3,0,,GROUP,EURO_LEAGUE
 2019/20 ETTU Champions League,2019-10-25,Gazprom Fakel Orenburg,Irun Leka Enea Tenis de Mesa,3,0,,GROUP,EURO_LEAGUE
 2019/20 ETTU Champions League,2019-10-25,UMMC Ekaterinburg,SPG Felbermayr Wels,3,0,,GROUP,EURO_LEAGUE
 2019/20 ETTU Champions League,2019-10-30,Bogoria Grodzisk Mazowiecki,Ping Pong Club Villeneuvois,3,0,,GROUP,EURO_LEAGUE
-2019/20 ETTU Champions League,2019-10-30,Borussia Dusseldorf,STK Starr Croatia,3,0,,GROUP,EURO_LEAGUE
+2019/20 ETTU Champions League,2019-10-30,Borussia Düsseldorf,STK Starr Croatia,3,0,,GROUP,EURO_LEAGUE
 2019/20 ETTU Champions League,2019-10-31,GV Hennebont Tt,Sporting CP,3,0,,GROUP,EURO_LEAGUE
 2019/20 ETTU Champions League,2019-10-31,Roskilde Bordtennis Btk61,Ttc Ostrava 2016,3,0,,GROUP,EURO_LEAGUE
 2019/20 ETTU Champions League,2019-11-01,Gazprom Fakel Orenburg,Irun Leka Enea Tenis de Mesa,3,0,,GROUP,EURO_LEAGUE
-2019/20 ETTU Champions League,2019-11-01,Post SV Muhlhausen,Vs Angers Tt,3,2,,GROUP,EURO_LEAGUE
+2019/20 ETTU Champions League,2019-11-01,Post SV Mühlhausen,Vs Angers Tt,3,2,,GROUP,EURO_LEAGUE
 2019/20 ETTU Champions League,2019-11-01,UMMC Ekaterinburg,SPG Felbermayr Wels,3,0,,GROUP,EURO_LEAGUE
-2019/20 ETTU Champions League,2019-12-05,Borussia Dusseldorf,Sporting CP,3,0,,GROUP,EURO_LEAGUE
+2019/20 ETTU Champions League,2019-12-05,Borussia Düsseldorf,Sporting CP,3,0,,GROUP,EURO_LEAGUE
 2019/20 ETTU Champions League,2019-12-05,GV Hennebont Tt,STK Starr Croatia,3,1,,GROUP,EURO_LEAGUE
-2019/20 ETTU Champions League,2019-12-05,Post SV Muhlhausen,Irun Leka Enea Tenis de Mesa,3,0,,GROUP,EURO_LEAGUE
+2019/20 ETTU Champions League,2019-12-05,Post SV Mühlhausen,Irun Leka Enea Tenis de Mesa,3,0,,GROUP,EURO_LEAGUE
 2019/20 ETTU Champions League,2019-12-06,Bogoria Grodzisk Mazowiecki,GDCS Juncal,3,0,,GROUP,EURO_LEAGUE
 2019/20 ETTU Champions League,2019-12-06,Gazprom Fakel Orenburg,Vs Angers Tt,3,2,,GROUP,EURO_LEAGUE
 2019/20 ETTU Champions League,2019-12-06,Roskilde Bordtennis Btk61,SPG Felbermayr Wels,3,1,,GROUP,EURO_LEAGUE
 2019/20 ETTU Champions League,2019-12-06,UMMC Ekaterinburg,Ttc Ostrava 2016,3,1,,GROUP,EURO_LEAGUE
 2019/20 ETTU Champions League,2019-12-09,Ttc Ostrava 2016,SPG Felbermayr Wels,3,2,,GROUP,EURO_LEAGUE
 2019/20 ETTU Champions League,2019-12-09,UMMC Ekaterinburg,Roskilde Bordtennis Btk61,3,1,,GROUP,EURO_LEAGUE
-2019/20 ETTU Champions League,2019-12-10,Borussia Dusseldorf,GV Hennebont Tt,3,1,,GROUP,EURO_LEAGUE
+2019/20 ETTU Champions League,2019-12-10,Borussia Düsseldorf,GV Hennebont Tt,3,1,,GROUP,EURO_LEAGUE
 2019/20 ETTU Champions League,2019-12-10,FC Saarbrucken,Bogoria Grodzisk Mazowiecki,3,2,,GROUP,EURO_LEAGUE
-2019/20 ETTU Champions League,2019-12-10,Gazprom Fakel Orenburg,Post SV Muhlhausen,3,0,,GROUP,EURO_LEAGUE
+2019/20 ETTU Champions League,2019-12-10,Gazprom Fakel Orenburg,Post SV Mühlhausen,3,0,,GROUP,EURO_LEAGUE
 2019/20 ETTU Champions League,2019-12-10,Irun Leka Enea Tenis de Mesa,Vs Angers Tt,3,2,,GROUP,EURO_LEAGUE
 2019/20 ETTU Champions League,2019-12-10,Ping Pong Club Villeneuvois,GDCS Juncal,3,2,,GROUP,EURO_LEAGUE
 2019/20 ETTU Champions League,2019-12-10,Sporting CP,STK Starr Croatia,3,1,,GROUP,EURO_LEAGUE
 2019/20 ETTU Champions League,2019-12-12,FC Saarbrucken,Ping Pong Club Villeneuvois,3,0,,GROUP,EURO_LEAGUE
-2019/20 ETTU Champions League,2020-01-15,Borussia Dusseldorf,Roskilde Bordtennis Btk61,3,0,,QF,EURO_LEAGUE
-2019/20 ETTU Champions League,2020-01-15,FC Saarbrucken,Post SV Muhlhausen,3,2,,QF,EURO_LEAGUE
+2019/20 ETTU Champions League,2020-01-15,Borussia Düsseldorf,Roskilde Bordtennis Btk61,3,0,,QF,EURO_LEAGUE
+2019/20 ETTU Champions League,2020-01-15,FC Saarbrucken,Post SV Mühlhausen,3,2,,QF,EURO_LEAGUE
 2019/20 ETTU Champions League,2020-01-16,Gazprom Fakel Orenburg,GV Hennebont Tt,3,1,,QF,EURO_LEAGUE
 2019/20 ETTU Champions League,2020-01-17,Bogoria Grodzisk Mazowiecki,UMMC Ekaterinburg,3,1,,QF,EURO_LEAGUE
-2019/20 ETTU Champions League,2020-02-13,Borussia Dusseldorf,Roskilde Bordtennis Btk61,3,2,,QF,EURO_LEAGUE
-2019/20 ETTU Champions League,2020-02-14,FC Saarbrucken,Post SV Muhlhausen,3,1,,QF,EURO_LEAGUE
+2019/20 ETTU Champions League,2020-02-13,Borussia Düsseldorf,Roskilde Bordtennis Btk61,3,2,,QF,EURO_LEAGUE
+2019/20 ETTU Champions League,2020-02-14,FC Saarbrucken,Post SV Mühlhausen,3,1,,QF,EURO_LEAGUE
 2019/20 ETTU Champions League,2020-02-14,Gazprom Fakel Orenburg,GV Hennebont Tt,3,1,,QF,EURO_LEAGUE
 2019/20 ETTU Champions League,2020-02-14,UMMC Ekaterinburg,Bogoria Grodzisk Mazowiecki,3,1,,QF,EURO_LEAGUE

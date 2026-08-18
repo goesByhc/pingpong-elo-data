@@ -1,4 +1,4 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier
+tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier
 2021/22 ETTU Champions League (Women),2021-09-12,Tecnigen Linares,Ttc Moravsky Krumlov,3,2,,QR1,EURO_LEAGUE
 2021/22 ETTU Champions League (Women),2021-09-18,Ttc Moravsky Krumlov,Tecnigen Linares,3,0,,QR1,EURO_LEAGUE
 2021/22 ETTU Champions League (Women),2021-11-03,KTS Tarnobrzeg,Ttc Moravsky Krumlov,3,0,,GROUP,EURO_LEAGUE
@@ -13,10 +13,10 @@
 2021/22 ETTU Champions League (Women),2021-11-05,SKST Hodonin,TTC Novi Sad,3,1,,GROUP,EURO_LEAGUE
 2021/22 ETTU Champions League (Women),2021-11-05,Tt Saint Quentin,Ttc Villach,3,0,,GROUP,EURO_LEAGUE
 2021/22 ETTU Champions League (Women),2021-11-05,Tt Saint Quentin,Ucam Cartagena,3,1,,GROUP,EURO_LEAGUE
-2021/22 ETTU Champions League (Women),2021-11-06,Cp Lyssois Lille Metropole,Gdcs Juncal,3,1,,GROUP,EURO_LEAGUE
+2021/22 ETTU Champions League (Women),2021-11-06,Cp Lyssois Lille Metropole,GDCS Juncal,3,1,,GROUP,EURO_LEAGUE
 2021/22 ETTU Champions League (Women),2021-11-06,Etival Clairefontaine Asrtt,Tt Saint Quentin,3,1,,GROUP,EURO_LEAGUE
 2021/22 ETTU Champions League (Women),2021-11-06,Metz Tt,SKST Hodonin,3,2,,GROUP,EURO_LEAGUE
-2021/22 ETTU Champions League (Women),2021-11-06,SH-ITB Budaorsi Sport Club,Gdcs Juncal,3,2,,GROUP,EURO_LEAGUE
+2021/22 ETTU Champions League (Women),2021-11-06,SH-ITB Budaorsi Sport Club,GDCS Juncal,3,2,,GROUP,EURO_LEAGUE
 2021/22 ETTU Champions League (Women),2021-11-06,TTC Novi Sad,Girbau-Vic Tt,3,1,,GROUP,EURO_LEAGUE
 2021/22 ETTU Champions League (Women),2021-11-06,Ttc Berlin Eastside,Cp Lyssois Lille Metropole,3,2,,GROUP,EURO_LEAGUE
 2021/22 ETTU Champions League (Women),2021-11-06,Ttc Berlin Eastside,SH-ITB Budaorsi Sport Club,3,2,,GROUP,EURO_LEAGUE
@@ -24,7 +24,7 @@
 2021/22 ETTU Champions League (Women),2021-11-07,Cp Lyssois Lille Metropole,SH-ITB Budaorsi Sport Club,3,2,,GROUP,EURO_LEAGUE
 2021/22 ETTU Champions League (Women),2021-11-07,Metz Tt,TTC Novi Sad,3,0,,GROUP,EURO_LEAGUE
 2021/22 ETTU Champions League (Women),2021-11-07,SKST Hodonin,Girbau-Vic Tt,3,1,,GROUP,EURO_LEAGUE
-2021/22 ETTU Champions League (Women),2021-11-07,Ttc Berlin Eastside,Gdcs Juncal,3,2,,GROUP,EURO_LEAGUE
+2021/22 ETTU Champions League (Women),2021-11-07,Ttc Berlin Eastside,GDCS Juncal,3,2,,GROUP,EURO_LEAGUE
 2021/22 ETTU Champions League (Women),2022-01-12,KTS Tarnobrzeg,Tt Saint Quentin,3,0,,QF,EURO_LEAGUE
 2021/22 ETTU Champions League (Women),2022-01-14,Metz Tt,Cp Lyssois Lille Metropole,3,2,,QF,EURO_LEAGUE
 2021/22 ETTU Champions League (Women),2022-01-16,Etival Clairefontaine Asrtt,Linz Ag Froschberg,3,1,,QF,EURO_LEAGUE

@@ -1,4 +1,4 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier
+tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier
 2023/24 ETTU Champions League,2023-09-20,KS Orlicz 1924 Suchedniow,CTT Borges,3,0,,GROUP,EURO_LEAGUE
 2023/24 ETTU Champions League,2023-09-20,SPG Felbermayr Wels,Ttc Ostrava 2016,3,0,,GROUP,EURO_LEAGUE
 2023/24 ETTU Champions League,2023-09-20,SPG Felbermayr Wels,KS Orlicz 1924 Suchedniow,3,2,,GROUP,EURO_LEAGUE
@@ -24,15 +24,15 @@
 2023/24 ETTU Champions League,2023-09-24,UTTC Stockerau,CSS-SZAK Odorheiu Secuiesc,3,1,,GROUP,EURO_LEAGUE
 2023/24 ETTU Champions League,2023-10-19,Bogoria Grodzisk Mazowiecki,HB Ostrov,3,1,,GROUP,EURO_LEAGUE
 2023/24 ETTU Champions League,2023-10-22,Solex-Consult Wiener Neustadt,GV Hennebont Tt,3,2,,GROUP,EURO_LEAGUE
-2023/24 ETTU Champions League,2023-10-23,Borussia Dusseldorf,Sporting CP,3,0,,GROUP,EURO_LEAGUE
+2023/24 ETTU Champions League,2023-10-23,Borussia Düsseldorf,Sporting CP,3,0,,GROUP,EURO_LEAGUE
 2023/24 ETTU Champions League,2023-10-24,FC Saarbrucken,SKST Havirov,3,0,,GROUP,EURO_LEAGUE
-2023/24 ETTU Champions League,2023-10-25,Borussia Dusseldorf,SPG Felbermayr Wels,3,0,,GROUP,EURO_LEAGUE
-2023/24 ETTU Champions League,2023-11-16,Ttc Neu-Ulm,HB Ostrov,3,0,,GROUP,EURO_LEAGUE
-2023/24 ETTU Champions League,2023-11-19,Borussia Dusseldorf,SPG Felbermayr Wels,3,0,,GROUP,EURO_LEAGUE
-2023/24 ETTU Champions League,2023-11-19,Ttc Neu-Ulm,HB Ostrov,3,0,,GROUP,EURO_LEAGUE
+2023/24 ETTU Champions League,2023-10-25,Borussia Düsseldorf,SPG Felbermayr Wels,3,0,,GROUP,EURO_LEAGUE
+2023/24 ETTU Champions League,2023-11-16,TTC Neu-Ulm,HB Ostrov,3,0,,GROUP,EURO_LEAGUE
+2023/24 ETTU Champions League,2023-11-19,Borussia Düsseldorf,SPG Felbermayr Wels,3,0,,GROUP,EURO_LEAGUE
+2023/24 ETTU Champions League,2023-11-19,TTC Neu-Ulm,HB Ostrov,3,0,,GROUP,EURO_LEAGUE
 2023/24 ETTU Champions League,2023-11-20,AS Pontoise-Cergy Tt,SKST Havirov,3,0,,GROUP,EURO_LEAGUE
 2023/24 ETTU Champions League,2023-11-21,SPG Felbermayr Wels,Sporting CP,3,2,,GROUP,EURO_LEAGUE
-2023/24 ETTU Champions League,2023-11-22,Ttc Neu-Ulm,Bogoria Grodzisk Mazowiecki,3,2,,GROUP,EURO_LEAGUE
+2023/24 ETTU Champions League,2023-11-22,TTC Neu-Ulm,Bogoria Grodzisk Mazowiecki,3,2,,GROUP,EURO_LEAGUE
 2023/24 ETTU Champions League,2023-11-23,FC Saarbrucken,SKST Havirov,3,0,,GROUP,EURO_LEAGUE
 2023/24 ETTU Champions League,2023-11-24,Solex-Consult Wiener Neustadt,Ttf Dekorglass Dzialdowo,3,1,,GROUP,EURO_LEAGUE
 2023/24 ETTU Champions League,2023-11-26,Solex-Consult Wiener Neustadt,GV Hennebont Tt,3,1,,GROUP,EURO_LEAGUE
@@ -41,11 +41,11 @@
 2023/24 ETTU Champions League,2023-12-05,Solex-Consult Wiener Neustadt,Ttf Dekorglass Dzialdowo,3,2,,GROUP,EURO_LEAGUE
 2023/24 ETTU Champions League,2023-12-08,Ttf Dekorglass Dzialdowo,GV Hennebont Tt,3,1,,GROUP,EURO_LEAGUE
 2023/24 ETTU Champions League,2023-12-14,FC Saarbrucken,AS Pontoise-Cergy Tt,3,1,,GROUP,EURO_LEAGUE
-2023/24 ETTU Champions League,2023-12-15,Borussia Dusseldorf,Sporting CP,3,0,,GROUP,EURO_LEAGUE
-2023/24 ETTU Champions League,2023-12-17,Ttc Neu-Ulm,Bogoria Grodzisk Mazowiecki,3,0,,GROUP,EURO_LEAGUE
+2023/24 ETTU Champions League,2023-12-15,Borussia Düsseldorf,Sporting CP,3,0,,GROUP,EURO_LEAGUE
+2023/24 ETTU Champions League,2023-12-17,TTC Neu-Ulm,Bogoria Grodzisk Mazowiecki,3,0,,GROUP,EURO_LEAGUE
 2023/24 ETTU Champions League,2023-12-19,Ttf Dekorglass Dzialdowo,GV Hennebont Tt,3,1,,GROUP,EURO_LEAGUE
 2023/24 ETTU Champions League,2023-12-20,SPG Felbermayr Wels,Sporting CP,3,2,,GROUP,EURO_LEAGUE
 2023/24 ETTU Champions League,2023-12-21,FC Saarbrucken,AS Pontoise-Cergy Tt,3,2,,GROUP,EURO_LEAGUE
-2023/24 ETTU Champions League,2024-03-31,Borussia Dusseldorf,Solex-Consult Wiener Neustadt,3,1,,SF,EURO_LEAGUE
-2023/24 ETTU Champions League,2024-03-31,FC Saarbrucken,Ttc Neu-Ulm,3,2,,SF,EURO_LEAGUE
-2023/24 ETTU Champions League,2024-04-01,FC Saarbrucken,Borussia Dusseldorf,3,2,,F,EURO_LEAGUE
+2023/24 ETTU Champions League,2024-03-31,Borussia Düsseldorf,Solex-Consult Wiener Neustadt,3,1,,SF,EURO_LEAGUE
+2023/24 ETTU Champions League,2024-03-31,FC Saarbrucken,TTC Neu-Ulm,3,2,,SF,EURO_LEAGUE
+2023/24 ETTU Champions League,2024-04-01,FC Saarbrucken,Borussia Düsseldorf,3,2,,F,EURO_LEAGUE

@@ -1,9 +1,9 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier
+tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier
 2024/25 ETTU Champions League,2024-11-15,Alliance Nimes Montpellier Tt,CTT Borges,3,0,,GROUP,EURO_LEAGUE
 2024/25 ETTU Champions League,2024-11-15,Dojlidy Bialystok,Roskilde Bordtennis Btk61,3,2,,GROUP,EURO_LEAGUE
 2024/25 ETTU Champions League,2024-11-15,HB Ostrov,Tj Geolog Roznava,3,0,,GROUP,EURO_LEAGUE
 2024/25 ETTU Champions League,2024-11-15,KS Orlicz 1924 Suchedniow,Lille Metropole Tt,3,1,,GROUP,EURO_LEAGUE
-2024/25 ETTU Champions League,2024-11-15,Post SV Muhlhausen,CSS-SZAK Odorheiu Secuiesc,3,0,,GROUP,EURO_LEAGUE
+2024/25 ETTU Champions League,2024-11-15,Post SV Mühlhausen,CSS-SZAK Odorheiu Secuiesc,3,0,,GROUP,EURO_LEAGUE
 2024/25 ETTU Champions League,2024-11-15,SF Skk El Nino Praha,STK Starr Croatia,3,0,,GROUP,EURO_LEAGUE
 2024/25 ETTU Champions League,2024-11-15,SKST Havirov,Stk Libertas Marinkolor,3,1,,GROUP,EURO_LEAGUE
 2024/25 ETTU Champions League,2024-11-15,Ttc Ostrava 2016,Ttc Sokah Hoboken,3,0,,GROUP,EURO_LEAGUE
@@ -12,7 +12,7 @@
 2024/25 ETTU Champions League,2024-11-16,Dojlidy Bialystok,SKST Havirov,3,0,,GROUP,EURO_LEAGUE
 2024/25 ETTU Champions League,2024-11-16,KS Orlicz 1924 Suchedniow,Ttc Ostrava 2016,3,2,,GROUP,EURO_LEAGUE
 2024/25 ETTU Champions League,2024-11-16,Lille Metropole Tt,Ttc Sokah Hoboken,3,1,,GROUP,EURO_LEAGUE
-2024/25 ETTU Champions League,2024-11-16,Post SV Muhlhausen,STK Starr Croatia,3,1,,GROUP,EURO_LEAGUE
+2024/25 ETTU Champions League,2024-11-16,Post SV Mühlhausen,STK Starr Croatia,3,1,,GROUP,EURO_LEAGUE
 2024/25 ETTU Champions League,2024-11-16,Roskilde Bordtennis Btk61,Stk Libertas Marinkolor,3,1,,GROUP,EURO_LEAGUE
 2024/25 ETTU Champions League,2024-11-16,SF Skk El Nino Praha,CSS-SZAK Odorheiu Secuiesc,3,1,,GROUP,EURO_LEAGUE
 2024/25 ETTU Champions League,2024-11-17,Alliance Nimes Montpellier Tt,Tj Geolog Roznava,3,1,,GROUP,EURO_LEAGUE
@@ -20,34 +20,34 @@
 2024/25 ETTU Champions League,2024-11-17,Dojlidy Bialystok,Stk Libertas Marinkolor,3,2,,GROUP,EURO_LEAGUE
 2024/25 ETTU Champions League,2024-11-17,HB Ostrov,CTT Borges,3,0,,GROUP,EURO_LEAGUE
 2024/25 ETTU Champions League,2024-11-17,KS Orlicz 1924 Suchedniow,Ttc Sokah Hoboken,3,2,,GROUP,EURO_LEAGUE
-2024/25 ETTU Champions League,2024-11-17,SF Skk El Nino Praha,Post SV Muhlhausen,3,2,,GROUP,EURO_LEAGUE
+2024/25 ETTU Champions League,2024-11-17,SF Skk El Nino Praha,Post SV Mühlhausen,3,2,,GROUP,EURO_LEAGUE
 2024/25 ETTU Champions League,2024-11-17,SKST Havirov,Roskilde Bordtennis Btk61,3,2,,GROUP,EURO_LEAGUE
 2024/25 ETTU Champions League,2024-11-17,Ttc Ostrava 2016,Lille Metropole Tt,3,0,,GROUP,EURO_LEAGUE
-2024/25 ETTU Champions League,2024-12-13,Borussia Dusseldorf,SKST Havirov,3,1,,R16,EURO_LEAGUE
+2024/25 ETTU Champions League,2024-12-13,Borussia Düsseldorf,SKST Havirov,3,1,,R16,EURO_LEAGUE
 2024/25 ETTU Champions League,2024-12-14,Alliance Nimes Montpellier Tt,SPG Felbermayr Wels,3,0,,R16,EURO_LEAGUE
 2024/25 ETTU Champions League,2024-12-14,Solex-Consult Wiener Neustadt,Ttc Ostrava 2016,3,0,,R16,EURO_LEAGUE
 2024/25 ETTU Champions League,2024-12-15,Bogoria Grodzisk Mazowiecki,SF Skk El Nino Praha,3,1,,R16,EURO_LEAGUE
 2024/25 ETTU Champions League,2024-12-15,FC Saarbrucken,HB Ostrov,3,0,,R16,EURO_LEAGUE
 2024/25 ETTU Champions League,2024-12-15,GV Hennebont Tt,Dojlidy Bialystok,3,1,,R16,EURO_LEAGUE
 2024/25 ETTU Champions League,2024-12-15,KS Orlicz 1924 Suchedniow,AS Pontoise-Cergy Tt,3,1,,R16,EURO_LEAGUE
-2024/25 ETTU Champions League,2024-12-15,Ttf Dekorglass Dzialdowo,Post SV Muhlhausen,3,1,,R16,EURO_LEAGUE
+2024/25 ETTU Champions League,2024-12-15,Ttf Dekorglass Dzialdowo,Post SV Mühlhausen,3,1,,R16,EURO_LEAGUE
 2024/25 ETTU Champions League,2024-12-19,GV Hennebont Tt,Dojlidy Bialystok,3,0,,R16,EURO_LEAGUE
 2024/25 ETTU Champions League,2024-12-20,Bogoria Grodzisk Mazowiecki,SF Skk El Nino Praha,3,1,,R16,EURO_LEAGUE
-2024/25 ETTU Champions League,2024-12-20,Borussia Dusseldorf,SKST Havirov,3,0,,R16,EURO_LEAGUE
+2024/25 ETTU Champions League,2024-12-20,Borussia Düsseldorf,SKST Havirov,3,0,,R16,EURO_LEAGUE
 2024/25 ETTU Champions League,2024-12-20,FC Saarbrucken,HB Ostrov,3,1,,R16,EURO_LEAGUE
 2024/25 ETTU Champions League,2024-12-20,Solex-Consult Wiener Neustadt,Ttc Ostrava 2016,3,1,,R16,EURO_LEAGUE
 2024/25 ETTU Champions League,2024-12-21,AS Pontoise-Cergy Tt,KS Orlicz 1924 Suchedniow,3,2,,R16,EURO_LEAGUE
 2024/25 ETTU Champions League,2024-12-22,Alliance Nimes Montpellier Tt,SPG Felbermayr Wels,3,1,,R16,EURO_LEAGUE
-2024/25 ETTU Champions League,2024-12-22,Post SV Muhlhausen,Ttf Dekorglass Dzialdowo,3,1,,R16,EURO_LEAGUE
+2024/25 ETTU Champions League,2024-12-22,Post SV Mühlhausen,Ttf Dekorglass Dzialdowo,3,1,,R16,EURO_LEAGUE
 2024/25 ETTU Champions League,2025-01-15,FC Saarbrucken,GV Hennebont Tt,3,0,,QF,EURO_LEAGUE
 2024/25 ETTU Champions League,2025-01-15,"Franziska, Patrick","Sidorenko, Vladimir",3,0,,GROUP,EURO_LEAGUE
 2024/25 ETTU Champions League,2025-01-17,Bogoria Grodzisk Mazowiecki,Solex-Consult Wiener Neustadt,3,0,,QF,EURO_LEAGUE
-2024/25 ETTU Champions League,2025-01-17,Borussia Dusseldorf,Alliance Nimes Montpellier Tt,3,0,,QF,EURO_LEAGUE
+2024/25 ETTU Champions League,2025-01-17,Borussia Düsseldorf,Alliance Nimes Montpellier Tt,3,0,,QF,EURO_LEAGUE
 2024/25 ETTU Champions League,2025-01-19,Ttf Dekorglass Dzialdowo,KS Orlicz 1924 Suchedniow,3,0,,QF,EURO_LEAGUE
 2024/25 ETTU Champions League,2025-02-14,Bogoria Grodzisk Mazowiecki,Solex-Consult Wiener Neustadt,3,0,,QF,EURO_LEAGUE
 2024/25 ETTU Champions League,2025-02-15,KS Orlicz 1924 Suchedniow,Ttf Dekorglass Dzialdowo,3,1,,QF,EURO_LEAGUE
-2024/25 ETTU Champions League,2025-02-16,Borussia Dusseldorf,Alliance Nimes Montpellier Tt,3,1,,QF,EURO_LEAGUE
+2024/25 ETTU Champions League,2025-02-16,Borussia Düsseldorf,Alliance Nimes Montpellier Tt,3,1,,QF,EURO_LEAGUE
 2024/25 ETTU Champions League,2025-02-16,FC Saarbrucken,GV Hennebont Tt,3,0,,QF,EURO_LEAGUE
-2024/25 ETTU Champions League,2025-05-31,Borussia Dusseldorf,Bogoria Grodzisk Mazowiecki,3,1,,SF,EURO_LEAGUE
+2024/25 ETTU Champions League,2025-05-31,Borussia Düsseldorf,Bogoria Grodzisk Mazowiecki,3,1,,SF,EURO_LEAGUE
 2024/25 ETTU Champions League,2025-05-31,FC Saarbrucken,KS Orlicz 1924 Suchedniow,3,0,,SF,EURO_LEAGUE
-2024/25 ETTU Champions League,2025-06-01,FC Saarbrucken,Borussia Dusseldorf,3,1,,F,EURO_LEAGUE
+2024/25 ETTU Champions League,2025-06-01,FC Saarbrucken,Borussia Düsseldorf,3,1,,F,EURO_LEAGUE

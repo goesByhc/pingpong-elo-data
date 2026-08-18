@@ -1,16 +1,16 @@
-﻿tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier
+tournament,date,player_a,player_b,score_a,score_b,game_scores,round,tier
 2017/18 ETTU Champions League,2017-09-27,TTF Ochsenhausen,Ttc Ostrava 2016,3,1,,GROUP,EURO_LEAGUE
 2017/18 ETTU Champions League,2017-09-28,Gazprom Fakel Orenburg,Bogoria Grodzisk Mazowiecki,3,0,,GROUP,EURO_LEAGUE
 2017/18 ETTU Champions League,2017-09-28,Sporting CP,AS Pontoise-Cergy Tt,3,1,,GROUP,EURO_LEAGUE
 2017/18 ETTU Champions League,2017-09-28,UMMC Ekaterinburg,Chartres Astt,3,0,,GROUP,EURO_LEAGUE
 2017/18 ETTU Champions League,2017-09-29,FC Saarbrucken,Eslövs Ai Bt,3,0,,GROUP,EURO_LEAGUE
-2017/18 ETTU Champions League,2017-09-29,GV Hennebont Tt,Borussia Dusseldorf,3,2,,GROUP,EURO_LEAGUE
+2017/18 ETTU Champions League,2017-09-29,GV Hennebont Tt,Borussia Düsseldorf,3,2,,GROUP,EURO_LEAGUE
 2017/18 ETTU Champions League,2017-09-29,La Romagne,SPG Felbermayr Wels,3,2,,GROUP,EURO_LEAGUE
 2017/18 ETTU Champions League,2017-09-29,Roskilde Bordtennis Btk61,Ttf Dekorglass Dzialdowo,3,2,,GROUP,EURO_LEAGUE
 2017/18 ETTU Champions League,2017-10-11,Ttc Ostrava 2016,SPG Felbermayr Wels,3,0,,GROUP,EURO_LEAGUE
 2017/18 ETTU Champions League,2017-10-12,Sporting CP,Bogoria Grodzisk Mazowiecki,3,1,,GROUP,EURO_LEAGUE
 2017/18 ETTU Champions League,2017-10-12,TTF Ochsenhausen,La Romagne,3,0,,GROUP,EURO_LEAGUE
-2017/18 ETTU Champions League,2017-10-13,Borussia Dusseldorf,Ttf Dekorglass Dzialdowo,3,2,,GROUP,EURO_LEAGUE
+2017/18 ETTU Champions League,2017-10-13,Borussia Düsseldorf,Ttf Dekorglass Dzialdowo,3,2,,GROUP,EURO_LEAGUE
 2017/18 ETTU Champions League,2017-10-13,Chartres Astt,Eslövs Ai Bt,3,2,,GROUP,EURO_LEAGUE
 2017/18 ETTU Champions League,2017-10-13,FC Saarbrucken,UMMC Ekaterinburg,3,1,,GROUP,EURO_LEAGUE
 2017/18 ETTU Champions League,2017-10-13,GV Hennebont Tt,Roskilde Bordtennis Btk61,3,0,,GROUP,EURO_LEAGUE
@@ -19,7 +19,7 @@
 2017/18 ETTU Champions League,2017-10-26,AS Pontoise-Cergy Tt,Bogoria Grodzisk Mazowiecki,3,0,,GROUP,EURO_LEAGUE
 2017/18 ETTU Champions League,2017-10-26,Ttf Dekorglass Dzialdowo,GV Hennebont Tt,3,2,,GROUP,EURO_LEAGUE
 2017/18 ETTU Champions League,2017-10-26,UMMC Ekaterinburg,Eslövs Ai Bt,3,2,,GROUP,EURO_LEAGUE
-2017/18 ETTU Champions League,2017-10-27,Borussia Dusseldorf,Roskilde Bordtennis Btk61,3,2,,GROUP,EURO_LEAGUE
+2017/18 ETTU Champions League,2017-10-27,Borussia Düsseldorf,Roskilde Bordtennis Btk61,3,2,,GROUP,EURO_LEAGUE
 2017/18 ETTU Champions League,2017-10-27,FC Saarbrucken,Chartres Astt,3,0,,GROUP,EURO_LEAGUE
 2017/18 ETTU Champions League,2017-10-27,Gazprom Fakel Orenburg,Sporting CP,3,1,,GROUP,EURO_LEAGUE
 2017/18 ETTU Champions League,2017-10-27,TTF Ochsenhausen,SPG Felbermayr Wels,3,1,,GROUP,EURO_LEAGUE
@@ -27,11 +27,11 @@
 2017/18 ETTU Champions League,2017-11-22,Ttc Ostrava 2016,TTF Ochsenhausen,3,0,,GROUP,EURO_LEAGUE
 2017/18 ETTU Champions League,2017-11-23,La Romagne,SPG Felbermayr Wels,3,1,,GROUP,EURO_LEAGUE
 2017/18 ETTU Champions League,2017-11-23,Sporting CP,AS Pontoise-Cergy Tt,3,0,,GROUP,EURO_LEAGUE
-2017/18 ETTU Champions League,2017-11-24,Borussia Dusseldorf,GV Hennebont Tt,3,1,,GROUP,EURO_LEAGUE
+2017/18 ETTU Champions League,2017-11-24,Borussia Düsseldorf,GV Hennebont Tt,3,1,,GROUP,EURO_LEAGUE
 2017/18 ETTU Champions League,2017-11-24,FC Saarbrucken,Eslövs Ai Bt,3,0,,GROUP,EURO_LEAGUE
 2017/18 ETTU Champions League,2017-11-24,Gazprom Fakel Orenburg,Bogoria Grodzisk Mazowiecki,3,0,,GROUP,EURO_LEAGUE
 2017/18 ETTU Champions League,2017-11-24,UMMC Ekaterinburg,Chartres Astt,3,1,,GROUP,EURO_LEAGUE
-2017/18 ETTU Champions League,2017-11-29,Borussia Dusseldorf,Ttf Dekorglass Dzialdowo,3,1,,GROUP,EURO_LEAGUE
+2017/18 ETTU Champions League,2017-11-29,Borussia Düsseldorf,Ttf Dekorglass Dzialdowo,3,1,,GROUP,EURO_LEAGUE
 2017/18 ETTU Champions League,2017-11-29,SPG Felbermayr Wels,Ttc Ostrava 2016,3,1,,GROUP,EURO_LEAGUE
 2017/18 ETTU Champions League,2017-11-30,Bogoria Grodzisk Mazowiecki,Sporting CP,3,0,,GROUP,EURO_LEAGUE
 2017/18 ETTU Champions League,2017-11-30,UMMC Ekaterinburg,FC Saarbrucken,3,1,,GROUP,EURO_LEAGUE
@@ -43,21 +43,21 @@
 2017/18 ETTU Champions League,2017-12-20,FC Saarbrucken,Chartres Astt,3,0,,GROUP,EURO_LEAGUE
 2017/18 ETTU Champions League,2017-12-20,Sporting CP,Gazprom Fakel Orenburg,3,1,,GROUP,EURO_LEAGUE
 2017/18 ETTU Champions League,2017-12-20,UMMC Ekaterinburg,Eslövs Ai Bt,3,2,,GROUP,EURO_LEAGUE
-2017/18 ETTU Champions League,2017-12-21,Borussia Dusseldorf,Roskilde Bordtennis Btk61,3,0,,GROUP,EURO_LEAGUE
+2017/18 ETTU Champions League,2017-12-21,Borussia Düsseldorf,Roskilde Bordtennis Btk61,3,0,,GROUP,EURO_LEAGUE
 2017/18 ETTU Champions League,2017-12-21,La Romagne,Ttc Ostrava 2016,3,0,,GROUP,EURO_LEAGUE
 2017/18 ETTU Champions League,2017-12-21,TTF Ochsenhausen,SPG Felbermayr Wels,3,1,,GROUP,EURO_LEAGUE
 2017/18 ETTU Champions League,2017-12-21,Ttf Dekorglass Dzialdowo,GV Hennebont Tt,3,1,,GROUP,EURO_LEAGUE
-2017/18 ETTU Champions League,2018-01-24,Borussia Dusseldorf,UMMC Ekaterinburg,3,0,,QF,EURO_LEAGUE
+2017/18 ETTU Champions League,2018-01-24,Borussia Düsseldorf,UMMC Ekaterinburg,3,0,,QF,EURO_LEAGUE
 2017/18 ETTU Champions League,2018-01-24,Gazprom Fakel Orenburg,Roskilde Bordtennis Btk61,3,0,,QF,EURO_LEAGUE
 2017/18 ETTU Champions League,2018-01-25,Sporting CP,La Romagne,3,1,,QF,EURO_LEAGUE
 2017/18 ETTU Champions League,2018-01-26,FC Saarbrucken,TTF Ochsenhausen,3,2,,QF,EURO_LEAGUE
 2017/18 ETTU Champions League,2018-02-09,Gazprom Fakel Orenburg,Roskilde Bordtennis Btk61,3,0,,QF,EURO_LEAGUE
 2017/18 ETTU Champions League,2018-02-09,La Romagne,Sporting CP,3,2,,QF,EURO_LEAGUE
 2017/18 ETTU Champions League,2018-02-09,TTF Ochsenhausen,FC Saarbrucken,3,1,,QF,EURO_LEAGUE
-2017/18 ETTU Champions League,2018-02-09,UMMC Ekaterinburg,Borussia Dusseldorf,3,2,,QF,EURO_LEAGUE
+2017/18 ETTU Champions League,2018-02-09,UMMC Ekaterinburg,Borussia Düsseldorf,3,2,,QF,EURO_LEAGUE
 2017/18 ETTU Champions League,2018-03-15,Gazprom Fakel Orenburg,Sporting CP,3,0,,SF,EURO_LEAGUE
-2017/18 ETTU Champions League,2018-03-16,TTF Ochsenhausen,Borussia Dusseldorf,3,2,,SF,EURO_LEAGUE
-2017/18 ETTU Champions League,2018-04-06,Borussia Dusseldorf,TTF Ochsenhausen,3,2,,SF,EURO_LEAGUE
+2017/18 ETTU Champions League,2018-03-16,TTF Ochsenhausen,Borussia Düsseldorf,3,2,,SF,EURO_LEAGUE
+2017/18 ETTU Champions League,2018-04-06,Borussia Düsseldorf,TTF Ochsenhausen,3,2,,SF,EURO_LEAGUE
 2017/18 ETTU Champions League,2018-04-06,Gazprom Fakel Orenburg,Sporting CP,3,0,,SF,EURO_LEAGUE
-2017/18 ETTU Champions League,2018-05-13,Borussia Dusseldorf,Gazprom Fakel Orenburg,3,2,,F,EURO_LEAGUE
-2017/18 ETTU Champions League,2018-05-18,Borussia Dusseldorf,Gazprom Fakel Orenburg,3,1,,F,EURO_LEAGUE
+2017/18 ETTU Champions League,2018-05-13,Borussia Düsseldorf,Gazprom Fakel Orenburg,3,2,,F,EURO_LEAGUE
+2017/18 ETTU Champions League,2018-05-18,Borussia Düsseldorf,Gazprom Fakel Orenburg,3,1,,F,EURO_LEAGUE
