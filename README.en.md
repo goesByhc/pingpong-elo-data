@@ -213,3 +213,11 @@ When submitting a correction, please include:
 [Open a data correction issue](https://github.com/goesByhc/pingpong-elo-data/issues/new)
 
 You can also start from the relevant player or tournament page on the main site: [https://pingpong-elo.com/](https://pingpong-elo.com/)
+
+## Tip Jar
+
+This dataset and the main site ([pingpong-elo.com](https://pingpong-elo.com/)) are maintained by one person — scraping, cleaning, computing and hosting are all out of pocket. If this data is useful to you, feel free to treat the author to a bubble tea. Even one cup helps keep it updating.
+
+![WeChat Pay](images/wechat-pay.jpg)
+
+WeChat Pay · entirely voluntary, no strings attached

@@ -213,3 +213,11 @@ Elo 计算的核心原则：
 [新建数据修正 Issue](https://github.com/goesByhc/pingpong-elo-data/issues/new?title=%5B%E6%95%B0%E6%8D%AE%E4%BF%AE%E6%AD%A3%5D&body=%E8%AF%B7%E6%8F%8F%E8%BF%B0%E4%BD%A0%E5%8F%91%E7%8E%B0%E7%9A%84%E6%95%B0%E6%8D%AE%E9%97%AE%E9%A2%98)
 
 也可以从主站页面进入对应选手或赛事的数据修正入口：[https://pingpong-elo.com/](https://pingpong-elo.com/)
+
+## 打赏
+
+这份数据集和主站（[pingpong-elo.com](https://pingpong-elo.com/)）都是一个人维护的：抓取、清洗、计算、部署全自掏腰包。如果这份数据对你有帮助，欢迎请作者喝杯奶茶——哪怕一杯，也能让这套数据更新得更久一些。
+
+![微信支付](images/wechat-pay.jpg)
+
+微信支付 · 完全自愿，无任何附加条件
