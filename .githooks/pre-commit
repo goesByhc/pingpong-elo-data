@@ -1,0 +1,44 @@
+#!/usr/bin/env bash
+# 数据完整性门禁（版本化钩子；git -C data config core.hooksPath .githooks 启用）
+# 仅拦截改动了数据文件（matches/ sources/ players.csv tournaments.csv）的提交：
+#   1. DB（pingpong.db）比暂存文件旧 → 要求先跑全量重建，避免拿陈旧 DB 蒙混
+#   2. 否则运行 check_data --skip-json，任何告警（exit 2）拒绝提交
+set -u
+
+changed=$(git diff --cached --name-only | grep -E '^(matches/|sources/|players\.csv|tournaments\.csv)' || true)
+if [ -z "$changed" ]; then
+  exit 0
+fi
+
+echo "🔎 数据文件变更，执行数据完整性门禁…"
+cd "$(git rev-parse --show-toplevel)" || exit 1
+
+DB=pingpong.db
+if [ ! -f "$DB" ]; then
+  echo "✗ 缺少 $DB，请先运行: python ../scripts/load_scraped_matches.py"
+  exit 1
+fi
+
+stale=0
+while IFS= read -r f; do
+  if [ "$f" -nt "$DB" ]; then
+    echo "  ⚠ $f 比 DB 新（$DB 已过期）"
+    stale=1
+  fi
+done <<< "$changed"
+
+if [ "$stale" -eq 1 ]; then
+  echo "✗ DB 已过期，拒绝提交。请先重建并检查："
+  echo "    python ../scripts/load_scraped_matches.py"
+  echo "    python ../scripts/check_data.py"
+  exit 1
+fi
+
+python ../scripts/check_data.py --skip-json
+rc=$?
+if [ "$rc" -ne 0 ]; then
+  echo "✗ check_data 发现数据问题（exit $rc），已拒绝提交。修复后重新 git add + commit。"
+  exit 1
+fi
+echo "✓ 数据完整性检查通过"
+exit 0
